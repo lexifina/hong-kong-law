@@ -1,0 +1,5 @@
+AVIATION SECURITY REGULATION
+
+(Cap. 494, sections 53, 54 and 55)
+
+[22 June 1998] L.N. 247 of 1998
