@@ -620,6 +620,8 @@ Entacapone; its salts
 
 Epoetin beta
 
+Eprosartan; its salts
+
 Eptifibatide; its salts
 
 Esmolol; its salts
@@ -910,6 +912,8 @@ Lansoprazole
 
 Lead, compounds of, with acids from fixed oils
 
+Leflunomide; its salts
+
 Lepirudin; its salts
 
 Letrozole
@@ -1056,7 +1060,7 @@ Miglitol; its salts
 
 Milrinone; its salts
 
-Minoxidil
+Minoxidil except when contained in preparations intended for external application only and the preparations contain not more than 5% of Minoxidil
 
 Mirtazapine; its salts
 
@@ -1069,6 +1073,8 @@ Mitotane
 Mitoxantrone; its salts
 
 Mivacurium; its salts
+
+Mizolastine; its salts
 
 Moexipril; its salts
 
@@ -1186,6 +1192,8 @@ Orlistat; its salts
 
 Orphenadrine; its salts
 
+Oseltamivir; its salts
+
 Ouabain
 
 Oxaliplatin; its salts
@@ -1209,6 +1217,8 @@ Oxyphenbutazone
 Oxytocins
 
 Paclitaxel
+
+Palivizumab
 
 Pamidronate; its salts
 
@@ -1704,7 +1714,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000)
 
 B
 
