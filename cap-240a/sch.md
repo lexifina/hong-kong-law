@@ -28,7 +28,7 @@ M. Cycle | VEHICLE TYPE | other
 
 .
 
-SURNAME | $1,000 | $450 | $320 | $230
+SURNAME | $1,000 | $600 | $450 | $320 | $230
 
 (1 letter per box from left) | FIXED PENALTY (tick one)
 
@@ -60,9 +60,9 @@ Road Traffic Ordinance (Cap. 374)
 
 \#2. | Driving in excess of speed limit by more than 15 km/h, other than where Code Number 2A or 2B applies | Section 41 | $450
 
-!2A. | Driving in excess of speed limit by more than 30 km/h, other than where Code Number 2B applies | Section 41 | $450
+!2A. | Driving in excess of speed limit by more than 30 km/h, other than where Code Number 2B applies | Section 41 | $600
 
-Ω2B. | Driving in excess of speed limit by more than 45 km/h | Section 41 | $450
+Ω2B. | Driving in excess of speed limit by more than 45 km/h | Section 41 | $1,000
 
 3. | Driving with an expired driving licence | Section 42(1) | $320
 
@@ -186,11 +186,15 @@ Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg.)
 
 52. | Driving goods vehicle without being securely fastened with seat belt | Regulation 7A(1)(a) | $320
 
-53. | Driving taxi when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
+53. | Driving light bus when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
 
-54. | Driving light bus when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
+54. | Driving goods vehicle when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
 
-55. | Driving goods vehicle when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
+55. | Driving private car when rear seat passenger not securely fastened with seat belt | Regulation 7B(2) | $230
+
+55A. | Driving private car when rear seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7B(3) | $230
+
+55B. | Driving private car when rear seat passenger occupies rear seat without seat belt when there is vacant rear seat with seat belt | Regulation 7B(6) | $230
 
 Road Traffic (Expressway) Regulation (Cap. 374 sub. leg.)
 
@@ -202,7 +206,7 @@ Road Traffic (Expressway) Regulation (Cap. 374 sub. leg.)
 
 ! Offence marked with ! carries 5 driving-offence points.
 
-Ω Offence marked with Ω carries 8 driving-offence points.
+Ω Offence marked with Ω carries 10 driving-offence points.
 
 * Vehicle owners liable for offences marked with asterisk.
 
@@ -258,7 +262,7 @@ NOTES (Please read carefully)
 
   - 2. Cheques, drafts and cashier orders should be made payable to “Hong Kong Government” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post-dated cheques will not be accepted.
 
-  - 3. If payment is made by post, state the name and address of the person to whom the receipt should be forwarded— Name . Address . (L.N. 82 of 1989; L.N. 332 of 1991; L.N. 60 of 1994; L.N. 211 of 1994; L.N. 533 of 1995; 49 of 2000 s. 14; L.N. 283 of 2000;)
+  - 3. If payment is made by post, state the name and address of the person to whom the receipt should be forwarded— Name . Address . (L.N. 82 of 1989; L.N. 332 of 1991; L.N. 60 of 1994; L.N. 211 of 1994; L.N. 533 of 1995; 49 of 2000 s. 14; L.N. 159 of 2000; 50 of 2000 s. 6; L.N. 282 of 2000; L.N. 283 of 2000)
 
 FORM 2 | [reg. 2(2)]
 
