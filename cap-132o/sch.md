@@ -122,4 +122,6 @@
 
 - 60. The Hong Kong Central Library (including the footbridge connected thereto and the associated structures of the footbridge but excluding the Lecture Theatre and the Exhibition Gallery), 66 Causeway Road, Causeway Bay, Hong Kong. (L.N. 62 of 2001)
 
-- 61. 9 Wan Lung Road, Tseung Kwan O. (L.N. 138 of 2001) (Schedule replaced 78 of 1999 s. 7)
+- 61. 9 Wan Lung Road, Tseung Kwan O. (L.N. 138 of 2001)
+
+- 62. Shop Nos. 101-102, First floor, Kingswood Ginza, Phase 2, 18 Tin Yan Road, Tin Shui Wai, Yuen Long. (L.N. 192 of 2001) (Schedule replaced 78 of 1999 s. 7)
