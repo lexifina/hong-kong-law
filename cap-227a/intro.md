@@ -1,0 +1,5 @@
+MAGISTRATES (ADMINISTRATIVE) RULES
+
+(Cap. 227 sections 35, 62, 63, 64 and 133)
+
+[1 January 1933]
