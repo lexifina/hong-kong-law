@@ -43,3 +43,5 @@
 - 20. Yan Chai Hospital Mortuary
 
 - 21. North District Hospital Mortuary (L.N. 67 of 1998)
+
+- 22. Tseung Kwan O Hospital Mortuary (L.N. 286 of 1999)
