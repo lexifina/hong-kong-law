@@ -80,6 +80,8 @@ Hong Kong Housing Society. (Added L.N. 155 of 1996)
 
 Hong Kong Monetary Authority. (Added L.N. 97 of 1993)
 
+Hong Kong Sports Institute Limited. (Added L.N. 5 of 2005)
+
 Hospital Authority. (Added L.N. 420 of 1991)
 
 Hospital Services Department. (Added L.N. 414 of 1989)
