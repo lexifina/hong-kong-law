@@ -1,0 +1,5 @@
+TRAVEL AGENTS REGULATIONS
+
+(Cap. 218, section 50)
+
+[13 December 1985]
