@@ -330,6 +330,8 @@ THE POISONS LIST
 
 - Benserazide; its salts
 
+- Benzbromarone
+
 - Benzethidine; its salts
 
 - Benzhexol; its salts
@@ -1298,6 +1300,8 @@ THE POISONS LIST
 
 - Meropenem; its salts
 
+- Mesalazine; its salts
+
 - Mescaline; its salts; other derivatives of phenethylamine formed by substitution in the aromatic ring; their salts
 
 - Mesocarb; its salts
@@ -1432,9 +1436,15 @@ THE POISONS LIST
 
 - Nadolol; its salts
 
+- Nadroparin; its salts
+
 - Nafarelin; its salts
 
+- Naftidrofuryl; its salts
+
 - Nalbuphine; its salts
+
+- Nalidixic acid
 
 - Nalorphine; its salts
 
@@ -1461,6 +1471,8 @@ THE POISONS LIST
 - Neostigmine; its salts
 
 - Nevirapine; its salts
+
+- Nicergoline
 
 - Niclofolan
 
@@ -1572,6 +1584,8 @@ THE POISONS LIST
 
 - Pancuronium; its salts
 
+- Pantethine; its salts
+
 - Pantoprazole; its salts
 
 - Paraldehyde
@@ -1668,6 +1682,8 @@ THE POISONS LIST
 
 - Pipecuronium; its salts
 
+- Pipemidic acid
+
 - Pipobroman
 
 - Piritramide; its salts
@@ -1686,6 +1702,8 @@ THE POISONS LIST
 
 - Polymethylenebistrimethylammonium salts
 
+- Pralidoxime; its salts
+
 - Pramipexole; its salts
 
 - Pramoxine; its salts
@@ -1693,6 +1711,8 @@ THE POISONS LIST
 - Pravastatin; its salts; its esters
 
 - Prazosin; its salts
+
+- Pridinol; its salts
 
 - Primaquine; its salts
 
@@ -1764,11 +1784,15 @@ THE POISONS LIST
 
 - Prothipendyl; its salts
 
+- Protirelin; its salts
+
 - Protriptyline; its salts; its derivatives; their salts
 
 - Pseudoephedrine; its salts
 
 - Pyrazinamide
+
+- Pyricarbate (Pyridinolcarbamate)
 
 - Pyridostigmine; its salts
 
@@ -1860,6 +1884,8 @@ THE POISONS LIST
 
 - Savin, oil of
 
+- Sermorelin; its salts
+
 - Sertaconazole; it salts
 
 - Sertraline; its salts
@@ -1880,6 +1906,8 @@ THE POISONS LIST
 
 - Sodium nitroprusside
 
+- Somatostatin
+
 - Sotalol; its salts
 
 - Sparfloxacin; its salts; its esters
@@ -1889,6 +1917,8 @@ THE POISONS LIST
 - Spironolactone
 
 - Stavudine; its salts
+
+- Streptokinase
 
 - Strophanthus, glycosides of
 
@@ -2036,6 +2066,8 @@ THE POISONS LIST
 
 - Trandolapril; its salts
 
+- Tranexamic acid
+
 - Tranylcypromine; its salts
 
 - Trastuzumab
@@ -2056,6 +2088,8 @@ THE POISONS LIST
 
 - 2, 2, 2-Trichloroethyl alcohol, esters of; their salts
 
+- Trifluridine; its salts
+
 - Trilostane
 
 - Trimeperidine; its salts
@@ -2066,6 +2100,8 @@ THE POISONS LIST
 
 - Trimethadione
 
+- Trimethoprim
+
 - Trimetozine
 
 - Trimetrexate; its salts
@@ -2075,6 +2111,8 @@ THE POISONS LIST
 - Trioxsalen
 
 - Triptorelin; its salts
+
+- Tromantadine; its salts
 
 - Tropisetron; its salts
 
@@ -2087,6 +2125,8 @@ THE POISONS LIST
 - Urapidil; its salts
 
 - Urethane
+
+- Urokinase
 
 - Valaciclovir; its salts
 
@@ -2194,7 +2234,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003)
 
 - PART II A
 
