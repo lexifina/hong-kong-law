@@ -22,7 +22,7 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 
 8. | Island West Transfer Station (IWTS) | 88 Victoria Road, Kennedy Town, Western District, Hong Kong. | Drawing number 90833/SP15/04 (L.N. 260 of 1998)
 
-9. | West Kowloon Transfer Station (WKTS) | GLA-NK564, East of the Container Port Road South, Near Stonecutters Island, West Kowloon. | Drawing number 90364/TEN/01 Rev. D (L.N. 260 of 1998)
+9. | West Kowloon Transfer Station (WKTS) | 1 Ngong Shung Road, Kowloon. | Drawing number 90364/TEN/01 Rev. D (L.N. 260 of 1998; L.N. 118 of 2002)
 
 10. | North Lantau Transfer Station (NLTS) | PLA No. TW353, Siu Ho Wan, North Lantau, N.T. | Plan number NANTA 80-A (L.N. 260 of 1998)
 
@@ -33,3 +33,11 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 13. | Outlying Islands Transfer Facilities-Peng Chau Station (OITF-PCS) | GLA IS 296 & GLA IS 335, Tai Lei Island, Peng Chau, N.T. | Plan number IS 2860-DA & Plan number IS 3093-D (L.N. 260 of 1998)
 
 14. | Outlying Islands Transfer Facilities-Hei Ling Chau Station (OITF-HLCS) | Western tip of Hei Ling Chau, adjoining the cargo pier, Hei Ling Chau, N.T. | Plan number ISA 490-E (L.N. 260 of 1998)
+
+15. | Outlying Islands Transfer Facilities-Yung Shue Wan Station (OITF-YSWS) | Yung Shue Wan, Lamma Island, N.T. | Plan number IS 3273-D (L.N. 118 of 2002)
+
+16. | Outlying Islands Transfer Facilities-Sok Kwu Wan Station (OITF-SKWS) | Sok Kwu Wan, Lamma Island, N.T. | Plan number IS 3161-D (L.N. 118 of 2002)
+
+17. | Outlying Islands Transfer Facilities-Ma Wan Station (OITF-MaWS) | Pak Wan, Ma Wan, N.T., adjoining Sewage Treatment Plant. | Plan number TWA 1058-E (L.N. 118 of 2002)
+
+18. | Northwest New Territories Transfer Station (NWNTTS) | Shung Tat Street, Yuen Long, N.T. | Plan number TM 3791-Db (L.N. 118 of 2002)
