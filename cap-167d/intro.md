@@ -1,0 +1,5 @@
+DANGEROUS DOGS REGULATION
+
+(Cap. 167, section 3)
+
+[17 June 2000]
