@@ -1,0 +1,5 @@
+MENTAL HEALTH GUARDIANSHIP BOARD RULES
+
+(Cap. 136, section 59Z)
+
+[1 February 1999] L.N. 33 of 1999
