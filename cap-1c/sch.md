@@ -68,8 +68,6 @@ Chief Secretary for Administration (L.N. 362 of 1997) | Prison Rules (Chapter 23
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Probation of Offenders Rules (Chapter 298 subsidiary legislation), rule 42. (L.N. 48 of 1967)
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Public Health and Municipal Services Ordinance (Chapter 132), section 105S. (L.N. 226 of 1973; 10 of 1986 s. 32(1))
-
 Chief Secretary for Administration (L.N. 362 of 1997) | Registration of Persons Regulations (Chapter 177 subsidiary legislation), regulation 24. (L.N. 137 of 1970)
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Salesian Society Incorporation Ordinance (Chapter 1043), section 5(2). (L.N. 368 of 1984)
@@ -194,51 +192,51 @@ Commissioner of Mines | Mining Ordinance (Chapter 285), sections 13, 18, 20, 21,
 
 Director of Accounting Services | Waterworks Regulations (Chapter 102 subsidiary legislation), regulation 50(2) and (3). (L.N. 221 of 1977)
 
-Director of Agriculture and Fisheries | Animals and Plants (Protection of Endangered Species) Ordinance (Chapter 187), sections 7, 10 and 15. (L.N. 49 of 1979)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Animals and Plants (Protection of Endangered Species) Ordinance (Chapter 187), sections 7, 10 and 15. (L.N. 49 of 1979)
 
-Director of Agriculture and Fisheries | Animals and Plants (Protection of Endangered Species) (Exemption) Order (Chapter 187 subsidiary legislation), paragraphs 1A and 3. (L.N. 418 of 1991)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Animals and Plants (Protection of Endangered Species) (Exemption) Order (Chapter 187 subsidiary legislation), paragraphs 1A and 3. (L.N. 418 of 1991)
 
-Director of Agriculture and Fisheries | Country Parks and Special Areas Regulations (Chapter 208 subsidiary legislation), regulations 4(1) and (2)(a), 5(1) and (2)(b), 8(1), 9(1), 10(1)(a) and (b) and (2), 11(1), (2) and (3)(a), 13(2), 14, 15(4) and 18(5). (L.N. 381 of 1989)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Country Parks and Special Areas Regulations (Chapter 208 subsidiary legislation), regulations 4(1) and (2)(a), 5(1) and (2)(b), 8(1), 9(1), 10(1)(a) and (b) and (2), 11(1), (2) and (3)(a), 13(2), 14, 15(4) and 18(5). (L.N. 381 of 1989)
 
-Director of Agriculture and Fisheries | Country Parks and Special Areas Regulations (Chapter 208 subsidiary legislation), regulation 10(1)(c) and (d). (L.N. 391 of 1982)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Country Parks and Special Areas Regulations (Chapter 208 subsidiary legislation), regulation 10(1)(c) and (d). (L.N. 391 of 1982)
 
-Director of Agriculture and Fisheries | Dairies Regulations (Chapter 139 subsidiary legislation), regulations 3, 8, 9, 11, 15, 16(2), 18, 19(2)(f), 21(3), 26(1) and 29(2). (L.N. 153 of 1967)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Dairies Regulations (Chapter 139 subsidiary legislation), regulations 3, 8, 9, 11, 15, 16(2), 18, 19(2)(f), 21(3), 26(1) and 29(2). (L.N. 153 of 1967)
 
-Director of Agriculture and Fisheries | Forests and Countryside Ordinance (Chapter 96), sections 22(5) and 23. (L.N. 220 of 1993)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Forests and Countryside Ordinance (Chapter 96), sections 22(5) and 23. (L.N. 220 of 1993)
 
-Director of Agriculture and Fisheries | Kadoorie Agricultural Aid Loan Fund Ordinance (Chapter 1080), section 7. (L.N. 397 of 1996)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Kadoorie Agricultural Aid Loan Fund Ordinance (Chapter 1080), section 7. (L.N. 397 of 1996)
 
-Director of Agriculture and Fisheries | Marine Parks Ordinance (Chapter 476), section 22(1). (L.N. 67 of 1997)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Marine Parks Ordinance (Chapter 476), section 22(1). (L.N. 67 of 1997)
 
-Director of Agriculture and Fisheries | Marine Parks and Marine Reserves Regulation (Chapter 476 subsidiary legislation), section 17. (L.N. 67 of 1997)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Marine Parks and Marine Reserves Regulation (Chapter 476 subsidiary legislation), section 17. (L.N. 67 of 1997)
 
-Director of Agriculture and Fisheries | Pearl Culture (Control) Ordinance (Chapter 307), section 3. (L.N. 48 of 1967)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Pearl Culture (Control) Ordinance (Chapter 307), section 3. (L.N. 48 of 1967)
 
-Director of Agriculture and Fisheries | Pesticides Ordinance (Chapter 133), the whole Ordinance except sections 5(4), 6(c), 10, 11 and 14. (L.N. 304 of 1977; 79 of 1990 s. 21)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Pesticides Ordinance (Chapter 133), the whole Ordinance except sections 5(4), 6(c), 10, 11 and 14. (L.N. 304 of 1977; 79 of 1990 s. 21)
 
-Director of Agriculture and Fisheries | Pesticides Regulations (Chapter 133 subsidiary legislation). (L.N. 411 of 1992)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Pesticides Regulations (Chapter 133 subsidiary legislation). (L.N. 411 of 1992)
 
-Director of Agriculture and Fisheries | Plant (Importation and Pest Control) Ordinance (Chapter 207). (L.N. 360 of 1993)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Plant (Importation and Pest Control) Ordinance (Chapter 207). (L.N. 360 of 1993)
 
-Director of Agriculture and Fisheries | Public Health (Animals and Birds) Ordinance (Chapter 139), sections 6, 7 and 10(2). (L.N. 48 of 1967)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) Ordinance (Chapter 139), sections 6, 7 and 10(2). (L.N. 48 of 1967)
 
-Director of Agriculture and Fisheries | Public Health (Animals and Birds) (Animal Traders) Regulations (Chapter 139 subsidiary legislation), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) (Animal Traders) Regulations (Chapter 139 subsidiary legislation), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
 
-Director of Agriculture and Fisheries | Public Health (Animals and Birds) (Exhibitions) Regulations (Chapter 139 subsidiary legislation), regulations 4(1), 4(3), 6(a), 6(b), 8(1) and 8(3). (L.N. 94 of 1978)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) (Exhibitions) Regulations (Chapter 139 subsidiary legislation), regulations 4(1), 4(3), 6(a), 6(b), 8(1) and 8(3). (L.N. 94 of 1978)
 
-Director of Agriculture and Fisheries | Public Health (Animals and Birds) (Keeping of Cattle, Sheep and Goats) Regulations (Chapter 139 subsidiary legislation), regulations 4, 11(1) and 13. (L.N. 153 of 1967)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) (Keeping of Cattle, Sheep and Goats) Regulations (Chapter 139 subsidiary legislation), regulations 4, 11(1) and 13. (L.N. 153 of 1967)
 
-Director of Agriculture and Fisheries | Public Health (Animals and Birds) Regulations (Chapter 139 subsidiary legislation), regulations 30, 34, 35, 37, 44 and 51. (L.N. 153 of 1967)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) Regulations (Chapter 139 subsidiary legislation), regulations 30, 34, 35, 37, 44 and 51. (L.N. 153 of 1967)
 
-Director of Agriculture and Fisheries | Public Health (Animals) (Boarding Establishments) Regulations (Chapter 139 subsidiary legislation), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals) (Boarding Establishments) Regulations (Chapter 139 subsidiary legislation), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
 
-Director of Agriculture and Fisheries | Public Health (Animals) (Riding Establishments) Regulations (Chapter 139 subsidiary legislation), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals) (Riding Establishments) Regulations (Chapter 139 subsidiary legislation), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
 
-Director of Agriculture and Fisheries | Wild Animals Protection Ordinance (Chapter 170), section 13. (L.N. 197 of 1979)
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Wild Animals Protection Ordinance (Chapter 170), section 13. (L.N. 197 of 1979)
 
 Director of Buildings | Child Care Centres Regulations (Chapter 243 subsidiary legislation), regulations 23(2) and 24(2)(b). (L.N. 303 of 1993)
 
-Director of Buildings | Hong Kong Airport (Control of Obstructions) Ordinance (Chapter 301), sections 5, 7(1), 13, 14(1), 15(1), 2(c)(ii) and (8), 16(1), (3), (6), (8) and (9), 17, 18(2) and 20(g). (L.N. 303 of 1993)
+Director of Buildings | Hong Kong Airport (Control of Obstructions) Ordinance (Chapter 301), sections 5, 7(1), 13, 14(1), 15(1), (2)(c)(ii) and (8), 16(1), (3), (6), (8) and (9), 17, 18(2) and 20(g). (L.N. 303 of 1993)
 
 Director of Buildings as Building Authority | Buildings Ordinance (Chapter 123). (L.N. 303 of 1993)
 
@@ -462,7 +460,7 @@ Secretary for Transport | Roads (Works, Use and Compensation) Ordinance (Chapter
 
 Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7)
 
 Editorial Note:
 
