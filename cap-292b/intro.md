@@ -1,0 +1,5 @@
+HONG KONG AIRPORT (TRAFFIC) REGULATIONS
+
+(Cap. 292 section 4)
+
+[1 December 1967] L.N. 183 of 1967
