@@ -70,9 +70,9 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 32. | Hang Seng Properties Sub-Index options contracts | 250 open contracts for any one series | 50 open contracts for any one series
 
-33. | Hang Seng China Enterprises Index futures contracts | 6000 open contracts for any one contract month | 250 open contracts for any one contract month
+33. | Hang Seng China Enterprises Index futures contracts | 6000 open contracts for any one contract month | 500 open contracts for any one contract month
 
-34. | Hang Seng China Enterprises Index options contracts | 6000 open contracts for any one series | 250 open contracts for any one series
+34. | Hang Seng China Enterprises Index options contracts | 6000 open contracts for any one series | 500 open contracts for any one series
 
 35. | PCCW Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
@@ -228,4 +228,4 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 111. | The Kowloon Motor Bus Holdings Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
-(L.N. 84 of 2003)
+(L.N. 84 of 2003; L.N. 221 of 2003)
