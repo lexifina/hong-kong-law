@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 4 of 2000 s. 3)
-
 [ss. 2, 4 & 9]
 
 - 1. Objects The objects of the corporation shall be—
@@ -14,7 +12,7 @@
 
     - (iii) Tung Wah Eastern Hospital;
 
-    - (iv) the Wong Tai Sin Infirmary;
+    - (iv) Tung Wah Group of Hospitals Wong Tai Sin Hospital; (Amended G.N. 2534 of 1997)
 
     - (v) Tung Wah Group of Hospitals Fung Yiu King Hospital; and (Amended G.N. 2837 of 1990; G.N. 4872 of 1994)
 
@@ -202,7 +200,7 @@
 
     - (a) the Secretary for Home Affairs, who shall be chairman; (Amended L.N. 67 of 1985; L.N. 262 of 1989)
 
-    - (aa) the Secretary for Health and Welfare; (Added L.N. 236 of 1974. Amended L.N. 18 of 1983)
+    - (aa) the Secretary for Health, Welfare and Food; (Added L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 106 of 2002)
 
     - (b) 1 person nominated by the Members of the Executive Council, other than Official Members, from among their own number; (Replaced 67 of 1987 s. 2. Amended 4 of 2000 s. 3)
 
@@ -232,7 +230,7 @@
 
     - (b) 4 members of the advisory board. (Replaced L.N. 236 of 1974)
 
-  - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Health and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health and Welfare members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Replaced L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989)
+  - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Health, Welfare and Food shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health, Welfare and Food members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Replaced L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002)
 
 - 20. Procedure at meetings of advisory board
 
@@ -240,7 +238,7 @@
 
   - (2) Every question at any meeting of the advisory board shall be decided by a majority of votes of the members present and in the case of an equality of votes the chairman of the meeting shall have a casting vote.
 
-  - (3) In the absence of the Secretary for Home Affairs the Secretary for Health and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health and Welfare the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Replaced L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989)
+  - (3) In the absence of the Secretary for Home Affairs the Secretary for Health, Welfare and Food shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health, Welfare and Food the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Replaced L.N. 236 of 1974. Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002)
 
 - 21. Annual general meeting There shall be an annual general meeting of the voting members, to be held before 31 March in each year at such place as the board may decide, and 14 days’ notice of the meeting and of the time and place appointed for the same shall be given by the secretary to the voting members. Such notice shall be deemed to have been properly given to a voting member if sent by prepaid registered post to the last known address in Hong Kong of such member. Notification of the date and time of such meeting shall also be published in 2 editions of a Chinese newspaper circulating in Hong Kong.
 
