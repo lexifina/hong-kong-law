@@ -104,7 +104,7 @@
 
 - 51. 38 Sai Lau Kok Road, Tsuen Wan.
 
-- 52. Unit Nos. 102-107, Cheung Lok House, Cheung Wah Estate, Fanling.
+- 52. (Repealed L.N. 150 of 2003)
 
 - 53. Unit Nos. 10-14, Ground Floor, Hong Shing House, Cheung Hong Estate, Tsing Yi.
 
