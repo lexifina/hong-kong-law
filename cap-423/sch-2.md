@@ -330,7 +330,7 @@ Item Body
 
 - 161. Eastern Zone Limited (Added L.N. 353 of 1993)
 
-- 162. Eating Establishment Employees General Union (Added L.N. 353 of 1993)
+- 162. (Repealed L.N. 110 of 1999)
 
 - 163. Fairwood Fast Food Ltd (Added L.N. 353 of 1993)
 
@@ -1422,7 +1422,7 @@ Item Body
 
 - 707. Hong Kong Federation of Women (Added L.N. 473 of 1994)
 
-- 708. Hong Kong Phab Association (Added L.N. 473 of 1994)
+- 708. (Repealed L.N. 110 of 1999)
 
 - 709. The Industrial Evangelistic Fellowship Limited (Added L.N. 473 of 1994)
 
@@ -1706,7 +1706,7 @@ Item Body
 
 - 849. Heung To College of Professional Studies (Added L.N. 538 of 1994)
 
-- 850. The Hong Kong School of Motoring Ltd (Added L.N. 538 of 1994)
+- 850. (Repealed L.N. 110 of 1999)
 
 - 851. The Incorporated Owners of Repulse Bay Garden (Added L.N. 538 of 1994)
 
@@ -1932,7 +1932,7 @@ Item Body
 
 - 962. Hong Kong Association of the Blind (Added L.N. 224 of 1995)
 
-- 963. Patrick M. Connor & Associates, Ltd. (Added L.N. 224 of 1995)
+- 963. (Repealed L.N. 110 of 1999)
 
 - 964. The Scout Association of Hong Kong-The Friends of Scouting (Added L.N. 224 of 1995)
 
