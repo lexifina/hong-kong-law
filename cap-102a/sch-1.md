@@ -1,7 +1,5 @@
 # Schedule 1
 
-(Adaptation amendments retroactively made - see 29 of 1998 s. 105)
-
 [regs. 4, 6, 8, 18, 21, 26, 28, 30, 32, 34, 42 & 46]
 
 - PART I FEES AND CHARGES Fees and charges payable under the regulations shall be—
@@ -10,15 +8,17 @@
 
   - For any length of 100 metres and below | For each metre or part of a metre in excess of 100 metres
 
-  - (a) Pipes of any size up to and including 20 mm in diameter . | $1,140 | $ 48
+  - (a) Pipes of any size up to and including 20 mm in diameter . | $1,310 | $ 55
 
   - For any length of 30 metres and below | For each metre or part of a metre in excess of 30 metres
 
-  - (b) Pipes above 20 mm in diameter up to and including 25 mm in diameter . (c) Pipes above 25 mm in diameter up to and including 40 mm in diameter . | $1,840 $2,320 | $ 75 $ 95
+  - (b) Pipes above 20 mm in diameter up to and including 25 mm in diameter . (c) Pipes above 25 mm in diameter up to and including 40 mm in diameter . | $2,115 $2,670 | $ 85 $ 110
 
-  - 2. Under regulations 18(2) and 28(2)— Reconnecting a fire service or inside service . 3. Under regulation 26(2A)— (a) Providing and installing a meter . (b) Providing a meter . 4. Under regulations 4(3) and 26(3)— Resealing a fire service or meter . 5. Under regulations 28(2), 30(3) and 32(2)— Testing a meter or a private check meter (including removal and refixing)— (a) any size up to and including 80 mm in diameter . (b) above 80 mm in diameter up to and including 100 mm in diameter . (c) above 100 mm in diameter up to and including 150 mm in diameter . (d) above 150 mm in diameter up to and including 200 mm in diameter . 6. Under regulation 34(1) and (2)— Plumber’s licence . 7. Under regulation 34(3)— Renewal of plumber’s licence . 8. Under regulation 34(3C)— Plumber’s licence examination . 9. Under regulation 42— Fishing licence . | $ 240 $ 240 $ 67 $ 165 $ 460 $1,080 $1,800 $2,240 $ 67 $ 67 $ 815 $ 24
+  - 2. Under regulations 18(2) and 28(2)—
 
-  - (L.N. 176 of 1996)
+  - Reconnecting a fire service or inside service . 3. Under regulation 26(2A)— (a) Providing and installing a meter . (b) Providing a meter . 4. Under regulations 4(3) and 26(3)— Resealing a fire service or meter . 5. Under regulations 28(2), 30(3) and 32(2)— Testing a meter or a private check meter (including removal and refixing)— (a) any size up to and including 80 mm in diameter . (b) above 80 mm in diameter up to and including 100 mm in diameter . (c) above 100 mm in diameter up to and including 150 mm in diameter . (d) above 150 mm in diameter up to and including 200 mm in diameter . 6. Under regulation 34(1) and (2)— Plumber’s licence . 7. Under regulation 34(3)— Renewal of plumber’s licence . 8. Under regulation 34(3C)— Plumber’s licence examination . 9. Under regulation 42— Fishing licence . | $ 240 $ 275 $ 75 $ 165 $ 460 $1,080 $1,800 $2,240 $ 67 $ 67 $ 815 $ 24
+
+  - (L.N. 176 of 1996; L.N. 358 of 2000; L.N. 41 of 2001)
 
 - PART II SUPERVISION CHARGE (Regulation 8) The charge for supervision of work carried out by the Water Authority, other than work for which a fee is prescribed in this Schedule, shall be 20% of the actual cost of such work.
 
