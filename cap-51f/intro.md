@@ -1,0 +1,5 @@
+GAS SAFETY (MISCELLANEOUS) REGULATIONS
+
+(Cap. 51, section 8)
+
+[1 April 1991]
