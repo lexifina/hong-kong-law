@@ -1,0 +1,5 @@
+MAGISTRATES (FORMS) RULES
+
+(Cap. 227, section 133)
+
+[31 March 1967]
