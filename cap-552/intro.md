@@ -1,0 +1,3 @@
+An Ordinance to provide for the provision of municipal services by the Government; to repeal the Provisional Regional Council Ordinance and the Provisional Urban Council Ordinance; to make incidental and supplemental and connected provisions, including the vesting of property, rights and liabilities of the Provisional Regional Council and the Provisional Urban Council in the Government and the transfer of their functions; to amend the Public Health and Municipal Services Ordinance, the Municipal Services Appeals Boards Ordinance, the Dutiable Commodities Ordinance and the Places of Public Entertainment Ordinance and to make consequential and related amendments to enactments.
+
+[1 January 2000] L.N. 320 of 1999
