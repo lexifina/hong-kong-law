@@ -4,8 +4,6 @@
 
 DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
 
-(Paragraph 14 was added by L.N. 205 of 1998 and shall come into operation on 3 January 2000.)
-
 - 1. A decision of the Authority to reject an application for approval as an approved trustee. (Added 4 of 1998 s. 2)
 
 - 2. A decision of the Authority imposing conditions on an applicant for approval as an approved trustee. (Added 4 of 1998 s. 2)
@@ -32,7 +30,7 @@ DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
 
 - 13. A decision of the Authority to revoke an exemption granted under section 5 of the Ordinance. (Added 4 of 1998 s. 2)
 
-- [14. A decision of the Authority—
+- 14. A decision of the Authority—
 
   - (a) under section 5 of the Mandatory Provident Fund Schemes (Exemption) Regulation (Cap. 485 sub. leg.) to refuse an application for an exemption certificate;
 
@@ -44,4 +42,4 @@ DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
 
   - (e) under section 19 of that Regulation to refuse an application to withdraw an exemption certificate;
 
-  - (f) under section 23 of that Regulation to withdraw an exemption certificate. (Added L.N. 205 of 1998) ]
+  - (f) under section 23 of that Regulation to withdraw an exemption certificate. (Added L.N. 205 of 1998)
