@@ -82,7 +82,9 @@ Common law offences
 
 - section 146 | indecent conduct towards a child under 16
 
-- section 148 | (Repealed L.N. 495 of 1996)
+- section 148 (Repealed L.N. 495 of 1996)
+
+- For the avoidance of doubt, where an offence under a section of the Crimes Ordinance (Cap. 200) may, by virtue of section 153P of that Ordinance, be constituted by an act committed outside Hong Kong, a reference in this item to an offence under that section includes a reference to an offence so constituted. (31 of 2003 s. 25)
 
 - 5. | Theft Ordinance (Cap. 210)
 

@@ -112,6 +112,10 @@ Common law offences
 
 - section 137 living on earnings of prostitution of others
 
+- section 138A Use, procurement or offer of persons under 18 for making pornography
+
+- or for live pornographic performances (Added 31 of 2003 s. 20)
+
 - section 139 keeping a vice establishment
 
 - section 140 permitting a girl or boy under 13 to resort to or be on
@@ -131,6 +135,10 @@ Common law offences
 - section 146 indecent conduct towards a child under 16
 
 - section 147 soliciting for an immoral purpose
+
+- section 153Q Arrangement or advertisement relating to commission against a child of
+
+- act outside Hong Kong that offends Schedule 2 provision (Added 31 of 2003 s. 20) For the avoidance of doubt, where an offence under a section of the Crimes Ordinance (Cap. 200) may, by virtue of section 153P of that Ordinance, be constituted by an act committed outside Hong Kong, a reference in this item to an offence under that section includes a reference to an offence so constituted. (Added 31 of 2003 s. 20)
 
 - 6. Offences against the
 
@@ -212,7 +220,23 @@ Common law offences
 
 - (Cap. 213) section 26 abduction of child or juvenile
 
-- section 42 assisting escape of child or juvenile from custody or control Miscellaneous
+- section 42 assisting escape of child or juvenile from custody or control
+
+- 7A.
+
+- Prevention of
+
+- Child Pornography
+
+- Ordinance
+
+- (Cap. 579)
+
+- section 3 Offences relating to child pornography
+
+- (Added 31 of 2003 s. 20)
+
+- Miscellaneous
 
 - 8. Any offence proof of the commission of which involves proof that actual bodily harm was occasioned to another person.
 

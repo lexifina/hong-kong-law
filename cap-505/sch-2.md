@@ -32,7 +32,13 @@ DESCRIPTION OF OFFENCES WHICH DISENTITLE PERSONS FROM BEING OR CONTINUING TO BE 
 
 - 132 133 134 135 136 137 | procurement of a girl under 21 to have sexual intercourse procurement of a woman who is a defective to have sexual intercourse detention of a person for an unlawful sexual act or in a vice establishment causing or encouraging the prostitution of, an unlawful sexual act with, or indecent assault on a girl or boy under 16 causing or encouraging the prostitution of a defective living on earnings of prostitution of others
 
+- 138A | Use, procurement or offer of persons under 18 for making pornography or for live pornographic performances (Added 31 of 2003 s. 26)
+
 - 139 140 141 142 146 147 148 | keeping a vice establishment permitting a girl or boy under 13 to resort to or be on premises for prostitution or an unlawful sexual act permitting a young person to resort to or be on premises or vessel for the purpose of sexual intercourse, prostitution, buggery or a homosexual act permitting defective to resort to or be on premises or vessel for intercourse, prostitution or homosexual act indecent conduct towards a child under 16 soliciting for an immoral purpose indecency in public
+
+- 153Q(1) | Arrangement relating to commission against a child of act outside Hong Kong that offends Schedule 2 provision (Added 31 of 2003 s. 26)
+
+- For the avoidance of doubt, where an offence under a section of the Crimes Ordinance (Cap. 200) may, by virtue of section 153P of that Ordinance, be constituted by an act committed outside Hong Kong, a reference in this item to an offence under that section includes a reference to an offence so constituted. (Added 31 of 2003 s. 26)
 
 - 3. An offence under any of the following sections of the Offences against the Person Ordinance (Cap. 212)—
 
@@ -52,6 +58,4 @@ DESCRIPTION OF OFFENCES WHICH DISENTITLE PERSONS FROM BEING OR CONTINUING TO BE 
 
 - 26 42 | abduction of child or juvenile assisting escape of child or juvenile from custody or control
 
-Editorial Note:
-
-* The short description of offences in this Schedule is for ease of reference only.
+- _ *Note: The short description of offences in this Schedule is for ease of reference only.

@@ -1,6 +1,6 @@
-# SCHEDULE
+# SCHEDULE 1
 
-[s. 149]
+[s. 149] (Amended 31 of 2003 s. 17)
 
 OTHER OFFENCES OF WHICH ACCUSED MAY BE CONVICTED
 
@@ -18,4 +18,4 @@ Item | Offence charged | Other offences of which defendant may be convicted
 
 6. | Homosexual buggery committed otherwise than in private (section 118F) | Gross indecency by man with man otherwise than in private (section 118J)
 
-(Schedule added 1 of 1978 s. 7. Amended 90 of 1991 s. 25)
+(Schedule 1 added 1 of 1978 s. 7. Amended 90 of 1991 s. 25)
