@@ -64,6 +64,8 @@ Item | Ordinance | Decision
 
 30. | Dutiable Commodities Ordinance (Cap. 109) | A decision of the Commissioner of Customs and Excise under section 7, 26, 26A or 29. (Added 46 of 1996 s. 43)
 
+33. | Child Care Services Ordinance (Cap. 243) | A decision of the Director of Social Welfare— (a) under section 7(2), refusing an application for registration; (b) under section 9, cancelling a registration; (c) under section 11B(3), refusing an application for exemption from registration; (d) under section 11D, revoking an exemption from registration; (e) under section 15B(2), determining a person to be unsuited to act as a childminder; (f) under section 15C(4), refusing a request for the issue of a certificate; (g) under section 15D(4), refusing to make a declaration that a person should no longer be deemed unsuited to act as a childminder. (Added 38 of 1997 s. 19)
+
 34. | Wild Animals Protection Ordinance (Cap. 170) | A decision of the Director in relation to— (a) the granting of or the refusal to grant a permit or a special permit pursuant to section 13 or 15; or (b) the cancellation of a permit or a special permit under section 15A. (Added 77 of 1996 s. 22)
 
 35. | Occupational Safety and Health Ordinance (Cap. 509) | A decision of the Commission for Labour under Part III. (Added 39 of 1997 s. 49)
@@ -71,5 +73,7 @@ Item | Ordinance | Decision
 36. | Ozone Layer Protection Ordinance (Cap. 403) | A decision of the Director of Environmental Protection under section 5, 6 or 7 or under provisions of the regulations that may be specified to be subject to an appeal under section 8. (Added 6 of 1997 s. 10)
 
 39. | Volunteer and Naval Volunteer Pensions Ordinance (Cap. 202) | A decision in a review under section 22. (Added 56 of 1997 s. 7)
+
+40. | Child Care Centres Regulations (Cap. 243 sub. leg.) | A decision of the Director of Social Welfare under regulation 4 refusing an application for inclusion in a register or removing the name of a person from a register. (Added L.N. 272 of 1997)
 
 Time within which appeals are to be made An appeal under any item mentioned in this Schedule shall be made within 28 days after receipt of notice of the decision to which the appeal relates.
