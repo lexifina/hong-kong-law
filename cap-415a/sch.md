@@ -104,7 +104,7 @@
 
 - Note: The measurement referred to in this item includes— (a) first measurement of a ship registered in Hong Kong; (b) measurement under the Regulations of a ship registered in Hong Kong previously measured before 1 March 1968, where measurement of underdeck tonnage is necessary; (c) measurement of a ship other than a ship registered in Hong Kong; (d) measurement or re-measurement involving underdeck tonnage.
 
-- 4. | For measurement of tonnage in accordance with paragraph 13 of Part III of Schedule 5 to the Regulations— (a) In the case of a ship the gross and register tonnage of which has previously been ascertained in accordance with paragraph 2(2) of Part I of Schedule 5 to the Regulations . (b) In the case of a ship the gross and register tonnage of which has not previously been ascertained in accordance with paragraph 2(2) of Part I of Schedule 5 to the Regulations, not being a case to which sub-item (c) applies | 1/2 of the appropriate fee in item 1 of this Part. the appropriate fee in item 1 of this Part plus 1/2.
+- 4. | For measurement of tonnage in accordance with paragraph 13 of Part III of Schedule 5 to the Regulations— (a) In the case of a ship the gross and register tonnage of which has previously been ascertained in accordance with paragraph 2(2) of Part I of Schedule 5 to the Regulations . (b) In the case of a ship the gross and register tonnage of which has not previously been ascertained in accordance with paragraph 2(2) of Part I of Schedule 5 to the Regulations, not being a case to which sub-item (c) applies . | 1/2 of the appropriate fee in item 1 of this Part. the appropriate fee in item 1 of this Part plus 1/2.
 
 - (c) In the case of a ship the gross and register tonnage of which has previously been ascertained in accordance with paragraph 12 of Part III of Schedule 5 to the Regulations . | 1 1/2 times the appropriate fee in item 1 of this Part less the fee in item 3(b) of this Part.
 
@@ -208,6 +208,8 @@ Item | Particular | Charge $
 
 1. | Annual tonnage charge in respect of a registered ship other than a provisionally registered ship as follows— (a) for a ship not exceeding 1000 net registered tons . (b) for a ship exceeding 1000 net registered tons— for the first 1000 net registered tons . and for each additional net registered ton or part thereof— over 1000 up to 15000 net registered tons . and over 15000 net registered tons . subject to a maximum charge of $100,000. (L.N. 90 of 1999 and 44 of 1999 s. 42) | 1500 1500 3.50 3.00
 
-2. | Annual tonnage charge in respect of a provisionally registered ship . | 25% of the amount payable under item 1 for each period of 3 months of provisional registration.
+2. | Annual tonnage charge in respect of a provisionally registered ship . | 1/12 of the amount payable under item 1 for each period of 1 month of provisional registration.
 
-3. | Annual tonnage charge in respect of a ship changing from provisional to full registration . | the amount payable item 1 less the sum paid under item 2.
+3. | Annual tonnage charge in respect of a ship changing from provisional to full registration . | the amount payable under item 1.
+
+(L.N. 49 of 2001)
