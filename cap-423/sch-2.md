@@ -136,4 +136,6 @@ Item Body
 
 - 66. New Territories Association Retraining Centre Limited (Added L.N. 67 of 2003)
 
-- 67. College of Nursing, Hong Kong (Added L.N. 86 of 2003) (Schedule 2 replaced L.N. 269 of 1999)
+- 67. College of Nursing, Hong Kong (Added L.N. 86 of 2003)
+
+- 68. International Social Service (Hong Kong Branch) (Added L.N. 17 of 2004) (Schedule 2 replaced L.N. 269 of 1999)
