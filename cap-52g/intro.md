@@ -1,5 +1,3 @@
 TELEVISION (DATE OF RENEWAL OF LICENCE) (ASIA TELEVISION LIMITED) ORDER 1995
 
-(Cap. 52, section 9(1)(b))
-
-[27 October 1995]
+(Ceased to be in force)
