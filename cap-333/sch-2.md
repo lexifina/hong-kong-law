@@ -114,4 +114,4 @@ REQUIREMENTS TO BE SATISFIED IN RELATION TO OFFERS TO DISPOSE OF SECURITIES
 
     - (iii) whether or not application for permission to have the securities listed or quoted has been or will be made to the Unified Exchange or a foreign stock exchange and, if such an application has been made, the name of the exchange applied to. (Amended 58 of 1985 s. 88)
 
-- 6. The offer shall contain in a prominent position, in printing not smaller than eight point Times, a notice in the following form— (Amended L.N. 56 of 1974) “IMPORTANT If you are in doubt as to any aspect of this offer, you should consult a stockbroker or other registered dealer in securities, a bank manager, solicitor, professional accountant, or other professional adviser.”.
+- 6. The offer shall contain in a prominent position, in printing not smaller than eight point Times, a notice in the following form— (Amended L.N. 56 of 1974) “IMPORTANT If you are in doubt as to any aspect of this offer, you should consult an exchange participant or other registered dealer in securities, a bank manager, solicitor, professional accountant, or other professional adviser.”. (Amended 12 of 2000 s. 23)

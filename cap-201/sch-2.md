@@ -12,4 +12,6 @@ PUBLIC BODIES SPECIFIED FOR PURPOSES OF DEFINITION OF “PUBLIC SERVANT”
 
 - 4. The SEHK Options Clearing House Limited.
 
-- 5. HKFE Clearing Corporation Limited. (Schedule 2 added 20 of 1999 s. 7)
+- 5. HKFE Clearing Corporation Limited.
+
+- 6. Hong Kong Exchanges and Clearing Limited. (Added 12 of 2000 s. 23) (Schedule 2 added 20 of 1999 s. 7)

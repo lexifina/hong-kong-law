@@ -4,7 +4,7 @@
 
 EXEMPTED TRANSACTION SPECIFIED FOR THE PURPOSES OF SECTION 19(1D) OF THIS ORDINANCE
 
-- 1. An exempted transaction specified for the purposes of section 19(1D) of this Ordinance shall be the sale or purchase of any specified derivative effected by a broker through the Unified Exchange in the ordinary course of his business as a broker, whether as principal or agent.
+- 1. An exempted transaction specified for the purposes of section 19(1D) of this Ordinance shall be the sale or purchase of any specified derivative effected by an exchange participant through the Unified Exchange in the ordinary course of his business as an exchange participant, whether as principal or agent. (Amended 12 of 2000 s. 23)
 
 - 2. For the purposes of this Schedule, the Unified Exchange may, by notice in the Gazette, specify any regional stock exchange as an approved regional stock exchange.
 
@@ -36,7 +36,7 @@ EXEMPTED TRANSACTION SPECIFIED FOR THE PURPOSES OF SECTION 19(1D) OF THIS ORDINA
 
   - “purchase” (購買), “sale” (售賣) and “sale or purchase” (售賣或購買) have the meanings respectively assigned to them in section 19 of this Ordinance;
 
-  - “rules” (規則), in relation to an approved regional stock exchange or the Unified Exchange, means the rules governing the operation and management of the approved regional stock exchange or the Unified Exchange, as the case may be, or the conduct of its members, by whatever name called and wherever contained;
+  - “rules” (規則), in relation to an approved regional stock exchange or the Unified Exchange, means the rules governing the operation and management of the approved regional stock exchange or the Unified Exchange, as the case may be, or the conduct of its members or the exchange participants, by whatever name called and wherever contained; (Amended 12 of 2000 s. 23)
 
   - “specified derivative” (指明衍生工具) means any Hong Kong stock—
 
@@ -50,4 +50,4 @@ EXEMPTED TRANSACTION SPECIFIED FOR THE PURPOSES OF SECTION 19(1D) OF THIS ORDINA
 
   - “value” (價值), in relation to any stock listed on an approved regional stock exchange or on the Unified Exchange, means the closing price of the stock as quoted in the approved regional stock exchange or the Unified Exchange, as the case may be, on the launch date of the specified derivative to which the stock relates or, if there is no such closing price, the previous closing price of the stock by reference to that launch date.
 
-- (Added 33 of 1998 s. 12)
+- (Added 33 of 1998 s. 12. )

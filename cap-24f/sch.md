@@ -16,13 +16,7 @@ REPORTING PERIOD:
 
   - (2) This form must be completed in block letters.
 
-  - (3)
-
-  - Where an item is not applicable please write “N/A”
-
-  - PART A: DETAILS OF REGISTERED PERSON
-
-  - □ Dealer □ Investment Adviser □ Commodity □Trading Adviser □ Representative
+  - (3) Where an item is not applicable please write “N/A” PART A: DETAILS OF REGISTERED PERSON □ Dealer □ Investment Adviser □ Commodity □Trading Adviser □ Representative
 
   - Surname or Given Family Name Name(s) (In the case of corporation, the name of the corporation) | Registered Address | Telephone No | Fax No
 
@@ -34,11 +28,7 @@ REPORTING PERIOD:
 
   - Registration No. | Date of Initial Registration:
 
-  - PART B: TO BE COMPLETED BY ALL REGISTERED PERSONS
-
-  - Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars.
-
-  - * Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
+  - PART B: TO BE COMPLETED BY ALL REGISTERED PERSONS Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars. * Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
 
   - Any change? | Changes notified to the Commission?
 
@@ -76,13 +66,7 @@ REPORTING PERIOD:
 
   - 16. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been convicted of any offence, other than a traffic offence, in Hong Kong or elsewhere
 
-  - (IF YOU ARE REGISTERED AS A REPRESENTATIVE, DO NOT COMPLETE PART C)
-
-  - PART C: TO BE COMPLETED BY DEALERS, INVESTMENT ADVISERS AND COMMODITY TRADING ADVISERS
-
-  - Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars.
-
-  - * Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
+  - (IF YOU ARE REGISTERED AS A REPRESENTATIVE, DO NOT COMPLETE PART C) PART C: TO BE COMPLETED BY DEALERS, INVESTMENT ADVISERS AND COMMODITY TRADING ADVISERS Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars. * Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
 
   - Any change? | Changes notified to the Commission?
 
@@ -100,15 +84,15 @@ REPORTING PERIOD:
 
   - 22. | State whether there has been any change in the control of the business, other than caused by a change in directors or shareholders in the case of a corporation, or a change in the partners in the case of a partnership
 
-  - 23. | State whether the registered person,and in the case of a registered person that is a corporation or partnership,any of its directors/substantial shareholders/partners, has—
+  - 23. | State whether the registered person,and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has—
 
-  - (a) been admitted as a member of a stock or futures/commodities exchange in Hong Kong or elsewhere
+  - (a) been admitted as an exchange participant/member of a stock or futures/commodities exchange in Hong Kong or elsewhere
 
-  - (b) ceased as a member of stock or futures/commodities exchange in Hong Kong or elsewhere
+  - (b) ceased as an exchange participant/member of stock or futures/commodities exchange in Hong Kong or elsewhere
 
-  - 24. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been refused membership of any stock or futures/commodities exchange in Hong Kong or elsewhere
+  - 24. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been refused exchange participantship/membership of any stock or futures/commodities exchange in Hong Kong or elsewhere
 
-  - 25. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been removed or suspended from membership of any stock or futures/commodities exchange in Hong Kong or elsewhere
+  - 25. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been removed or suspended from exchange participantship/membership of any stock or futures/commodities exchange in Hong Kong or elsewhere
 
   - 26. | State whether to the best of your knowledge the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been involved in the management or control of any business in Hong Kong or elsewhere, which is being or has been investigated in relation to any offence involving fraud or dishonesty
 
@@ -128,28 +112,30 @@ REPORTING PERIOD:
 
   - 34. | Provide an updated list of representatives of the business of the registered person, showing their names, registration numbers and dates of commencement of employment
 
-  - PART D: SUPPLEMENTARY INFORMATION
+(12 of 2000 s. 23)
 
-  - (If the space provided is insufficient for your answer, please continue on a separate sheet of paper, specifying the number of the item to which your answer relates, and sign and date each such sheet.)
+PART D: SUPPLEMENTARY INFORMATION
 
-  - ITEM NO. | ANSWER (state details of the change and reasons for failure to notify the Commission)
+(If the space provided is insufficient for your answer, please continue on a separate sheet of paper, specifying the number of the item to which your answer relates, and sign and date each such sheet.)
 
-  - PART E: TO BE COMPLETED BY DEALERS (other than partnerships, firms or corporations and their directors)
+ITEM NO. | ANSWER (state details of the change and reasons for failure to notify the Commission)
 
-  - 35. | State to the best of your knowledge and belief (applying generally accepted accounting principles and after making provision for taxation on your profits up to the date of this return)— | Yes | No
+PART E: TO BE COMPLETED BY DEALERS (other than partnerships, firms or corporations and their directors)
 
-  - (a) whether your personal and business assets exceed your personal and business liabilities; and (b) whether you are able to meet your liabilities as and when they fall due
+35. | State to the best of your knowledge and belief (applying generally accepted accounting principles and after making provision for taxation on your profits up to the date of this return)— | Yes | No
 
-  - PART F: TO BE PROVIDED BY INVESTMENT ADVISERS AND COMMODITY TRADING ADVISERS (other than advisers who are registered by reason only that they are directors or employees of, or partners in partnerships or firms which are, registered advisers)
+(a) whether your personal and business assets exceed your personal and business liabilities; and (b) whether you are able to meet your liabilities as and when they fall due
 
-    - 36. Provide a true and fair profit and loss account, balance sheet, and computation net tangible assets referred to in the Financial Resources Rules (Cap. 24 sub. leg.) made up to the last day of your financial year which on a date not more than 16 months before the date of this return
+PART F: TO BE PROVIDED BY INVESTMENT ADVISERS AND COMMODITY TRADING ADVISERS (other than advisers who are registered by reason only that they are directors or employees of, or partners in partnerships or firms which are, registered advisers)
 
-    - 37. Provide an auditor’s report the profit and loss account, balance sheet and computation of net tangible assets referred to in paragraph 36 WARNING: (1) The accuracy of any statement in annual return may be investigated
+- 36. Provide a true and fair profit and loss account, balance sheet, and computation net tangible assets referred to in the Financial Resources Rules (Cap. 24 sub. leg.) made up to the last day of your financial year which on a date not more than 16 months before the date of this return
 
-  - (2) Failure to make a return in accordance with and within the time required by these rule or furnishing inaccurate information in a return may constitute grounds for suspension or revocation of registration under section 56 of the Securities Ordinance (Cap. 333) or section 36 of the Commodities Trading Ordinance (Cap. 250) I certify that the foregoing answers are true and correct to the best of my knowledge and belief. I understand that any misstatement or omission of a material fact may constitute grounds for suspension or revocation of my registration under section 56 of the Securities Ordinance (Cap. 333) or section 36 of the Commodities Trading Ordinance (Cap. 250), and may result in intervention by the Commission under section 38 of the Securities and Futures Commission Ordinance (Cap. 24). Signature:_ Registration No.: _ Name in Block Letters: _ Date: _ R. J. R. OWEN, Chairman,
+- 37. Provide an auditor’s report the profit and loss account, balance sheet and computation of net tangible assets referred to in paragraph 36 WARNING: (1) The accuracy of any statement in annual return may be investigated
 
-  - Securities and Futures Commission.
+- (2) Failure to make a return in accordance with and within the time required by these rule or furnishing inaccurate information in a return may constitute grounds for suspension or revocation of registration under section 56 of the Securities Ordinance (Cap. 333) or section 36 of the Commodities Trading Ordinance (Cap. 250) I certify that the foregoing answers are true and correct to the best of my knowledge and belief. I understand that any misstatement or omission of a material fact may constitute grounds for suspension or revocation of my registration under section 56 of the Securities Ordinance (Cap. 333) or section 36 of the Commodities Trading Ordinance (Cap. 250), and may result in intervention by the Commission under section 38 of the Securities and Futures Commission Ordinance (Cap. 24). Signature:_ Registration No.: _ Name in Block Letters: _ Date: _ R. J. R. OWEN, Chairman,
 
-  - 17 December 1990.
+- Securities and Futures Commission.
+
+- 17 December 1990.
 
 (L.N. 346 of 1993)

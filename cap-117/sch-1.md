@@ -100,7 +100,7 @@ Note 5 For the purposes of Notes 2, 3 and 4, a person and a parent, spouse or ch
 
 (c) Lease executed in pursuance of a duly stamped agreement for lease | (A) $3 (B) 30 days after execution (C) All parties, and all other persons executing
 
-And see sections 2,16,17,27,39,42 and 43 Partition, Instruments effecting-see section 25(7) Voluntary Chargeable Agreements for Sale-see section 29F (Added 8 of 1992 s. 6) Voluntary Disposition inter vivos-see section 27
+And see sections 2, 16, 17, 27, 39, 42 and 43 Partition, Instruments effecting-see section 25(7) Voluntary Chargeable Agreements for Sale-see section 29F (Added 8 of 1992 s. 6) Voluntary Disposition inter vivos-see section 27
 
 HEAD 2: HONG KONG STOCK
 
@@ -110,19 +110,19 @@ HEAD 2: HONG KONG STOCK
 
 (C) The agent or, where no agent, the principal effecting the sale or purchase
 
-And see sections 2,4,5,5A,6,19,20,23,24,27 and 45
+And see sections 2, 4, 5, 5A, 6, 19, 20, 23, 24, 27 and 45
 
 Note Where the consideration or any part of the consideration consists of any security not being stock, the amount due upon such security for principal and interest on the date on which the contract note falls to be executed shall be taken to be its value at that date
 
 (2) CONTRACT NOTE in respect of jobbing business on every note required to be made under section 19(1) | (A) $5 (B) 2 days after the sale or purchase: see section 19(1)(b)(i)
 
-(C) The broker effecting the sale or purchase
+(C) The exchange participant effecting the sale or purchase (Amended 12 of 2000 s. 23)
 
-And see sections 2,4,19 and 20
+And see sections 2, 4, 19 and 20
 
-(3) TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) $5 and $2.5 for every $1,000 or part thereof of the value of the stock (Amended 18 of 1998 s. 2) (B) 7 days after execution or if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head (C) The transferor and the transferee; but see Note 1 to this sub-head
+(3) TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) $5 and $2.5 for every $1,000 or part thereof of the value of the stock (Amended 18 of 1998 s. 2) (B) 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head (C) The transferor and the transferee; but see Note 1 to this sub-head
 
-And see sections 4,19,27,28,30,44 and 45
+And see sections 4, 19, 27, 28, 30, 44 and 45
 
 Note 1 In the case of a foreclosure order, the time for stamping shall be before the order is signed by the Registrar and the persons liable shall be the persons obtaining the order
 
@@ -136,7 +136,7 @@ Note 3 A foreclosure order shall not be duly stamped unless the Collector has st
 
 (C) The transferor and the transferee
 
-And see sections 5,7,19 and 30
+And see sections 5, 7, 19 and 30
 
 Note No stamp duty under this sub-head shall be payable on a transfer executed by a recognized clearing house (within the meaning of section 19(16)) or its nominee—
 

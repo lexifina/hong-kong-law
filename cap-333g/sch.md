@@ -4,8 +4,6 @@
 
 FORM 1
 
-(Adaptation amendments retroactively made-see 23 of 1998 s. 2)
-
 SECURITIES ORDINANCE (Chapter 333) SECURITIES (DEALERS, INVESTMENT ADVISERS, PARTNERSHIPS
 
 AND REPRESENTATIVES) RULES APPLICATION FOR REGISTRATION AS A DEALER OR INVESTMENT ADVISER
@@ -166,19 +164,7 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
 - Yes/No*
 
-  - (b) If yes, give the following details of each of such businesses:
-
-  - 1 | 2 | 3
-
-  - (i) Name of business
-
-  - (ii) Address (Post Office Box numbers are not acceptable)
-
-  - (iii) Nature of business
-
-  - (iv) Date of commencement
-
-  - (v) Date of termination (if applicable)
+  - (b If yes, give the following details of each of such businesses: 123(i) Name of business(ii) Address (Post Office Box numbers are not acceptable)(iii) Nature of business(iv) Date of commencement(v) Date of termination (if applicable)
 
   - (c) Does the partnership intend to continue such business if this application is successful? Yes/No* C7 Give the following details of each existing partner:
 
@@ -266,9 +252,9 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - (d) If the partnership is not still so registered, licensed, authorised or permitted, give reason(s):
 
-  - (e) If the application was unsuccessful, state reason(s) (if known to you): C12 (a) Is the partnership or has it been a member of any stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+  - (e) If the application was unsuccessful, state reason(s) (if known to you): C12 (a) Is the partnership or has it been an exchange participant/member of any stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
-  - (b) If yes, give the following details of each of such membership:
+  - (b) If yes, give the following details of each of such exchange participantship/membership:
 
   - 1 | 2 | 3
 
@@ -276,13 +262,13 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - (ii) Place of exchange
 
-  - (iii) Date on which the partnership became member
+  - (iii) Date on which the partnership became exchange participant/member
 
-  - (iv) Date and reasons of termination of membership (if applicable)
+  - (iv) Date and reasons of termination of exchange participantship/membership (if applicable)
 
-  - (c) State period (with dates) during which it participated in the above stock or futures exchange: C13 (a) Is the partnership applying for membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
+  - (c) State period (with dates) during which it participated in the above stock or futures exchange: C13 (a) Is the partnership applying for exchange participantship/membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
 
-  - (b) If yes, give name(s) and address(es) of exchange(s): C14 (a) Has the partnership ever been refused membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+  - (b) If yes, give name(s) and address(es) of exchange(s): C14 (a) Has the partnership ever been refused exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
   - (b) If yes, give the following details of each of such refusals:
 
@@ -294,7 +280,7 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - (iii) Reason(s) for such refusal (if known to you)
 
-  - C15 (a) Has the partnership ever had its membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
+  - C15 (a) Has the partnership ever had its exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
 
   - (b) If yes, give the following details of each of such revocations or suspensions:
 
@@ -584,9 +570,9 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - (d) If the corporation is not still so registered, licensed, authorised or permitted, give reason(s):
 
-  - (e) If the application was unsuccessful, state reason(s) (if known to you): D20 (a) Is the corporation or has the corporation been a member of any stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+  - (e) If the application was unsuccessful, state reason(s) (if known to you): D20 (a) Is the corporation or has the corporation been an exchange participant/member of any stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
-  - (b) If yes, give the following details of each of such membership:
+  - (b) If yes, give the following details of each of such exchange participantship:
 
   - 1 | 2 | 3
 
@@ -594,13 +580,13 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - (ii) Place of exchange
 
-  - (iii) Date it became member
+  - (iii) Date it became exchange participant/member
 
-  - (iv) Date and reasons of termination of membership (if applicable)
+  - (iv) Date and reasons of termination of exchange participantship (if applicable)
 
-  - (c) State period (with dates) during which the corporation participated in the above stock or futures exchange: D21 (a) Is the corporation applying for membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
+  - (c) State period (with dates) during which the corporation participated in the above stock or futures exchange: D21 (a) Is the corporation applying for exchange participantship/membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
 
-  - (b) If yes, give name(s) and address(es) of exchange(s): D22 (a) Has the corporation ever been refused membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+  - (b) If yes, give name(s) and address(es) of exchange(s): D22 (a) Has the corporation ever been refused exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
   - (b) If yes, give the following details of each of such refusals:
 
@@ -612,7 +598,7 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - (iii) Reason(s) for refusal (if known to you)
 
-  - D23 (a) Has the corporation ever had its membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
+  - D23 (a) Has the corporation ever had its exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
 
   - (b) If yes, give the following details of each of such revocations or suspensions:
 
@@ -704,7 +690,7 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - Dated this _ day of _ 19 _. (Note: This form must be signed by two directors, including the Chairman, with their names in block letters.) Signed on behalf of the corporation:
 
-- (23 of 1998 s. 2)
+- (23 of 1998 s. 2; 12 of 2000 s. 23)
 
 - FORM 2 SECURITIES ORDINANCE (Chapter 333) SECURITIES (DEALERS, INVESTMENT ADVISERS, PARTNERSHIPS
 
@@ -856,9 +842,9 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - 15.
 
-    - (a) Is the relevant person or has he/she been a member of any stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+    - (a) Is the relevant person or has he/she been an exchange participant/member of any stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
-    - (b) If yes, give the following details of each of such membership:
+    - (b) If yes, give the following details of each of such exchange participantship/membership:
 
     - 1 | 2 | 3
 
@@ -866,23 +852,23 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
     - (ii) Place of exchange
 
-    - (iii) Date became a member
+    - (iii) Date became an exchange participant/member
 
-    - (iv) Date of termination of membership (if applicable)
+    - (iv) Date of termination of exchange participantship/membership (if applicable)
 
-    - (v) Reason(s) for termination of membership
+    - (v) Reason(s) for termination of exchange participantship/membership
 
     - (vi) Period (with dates) during which he/she participated in the above stock or futures exchange
 
   - 16.
 
-    - (a) Is the relevant person applying for membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
+    - (a) Is the relevant person applying for exchange participantship/membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
 
     - (b) If yes, give name(s) and address(es) of exchange(s):
 
   - 17.
 
-    - (a) Has the relevant person or a company of which he/she is/was a director or a firm of which he/she is/was a partner ever been refused membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+    - (a) Has the relevant person or a company of which he/she is/was a director or a firm of which he/she is/was a partner ever been refused exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
     - (b) If yes, give the following details of each of such refusals:
 
@@ -896,7 +882,7 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - 18.
 
-    - (a) Has the relevant person or a company of which he/she is/was a director or a firm of which he/she is/was a partner ever had his/her/its membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
+    - (a) Has the relevant person or a company of which he/she is/was a director or a firm of which he/she is/was a partner ever had his/her/its exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
 
     - (b) If yes, give the following details of each of such revocations or suspensions:
 
@@ -1084,15 +1070,17 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
     - A recent passport size photograph of the Relevant Person. | Signature of the: _ Relevant Person Full Name: _ (in block letters)
 
-    - FORM 3 SECURITIES ORDINANCE (Chapter 333) SECURITIES (DEALERS, INVESTMENT ADVISERS, PARTNERSHIPS
+  - (12 of 2000 s. 23)
 
-    - AND REPRESENTATIVES) RULES APPLICATION FOR REGISTRATION AS A
+  - FORM 3 SECURITIES ORDINANCE (Chapter 333) SECURITIES (DEALERS, INVESTMENT ADVISERS, PARTNERSHIPS
 
-    - DEALER’S REPRESENTATIVE OR INVESTMENT REPRESENTATIVE
+  - AND REPRESENTATIVES) RULES APPLICATION FOR REGISTRATION AS A
 
-    - IMPORTANT- If you are in doubt as to how to complete this application, you should consult your solicitor or other professional advisers. WARNING - Section 62 of the Securities Ordinance makes it an offence punishable with a maximum of 5 years’ imprisonment for a person to make a false of misleading representation for the purposes of obtaining, either for himself/herself or any other person, registration under Part VI of the Ordinance.
+  - DEALER’S REPRESENTATIVE OR INVESTMENT REPRESENTATIVE
 
-      - The applicant hereby applies for registration as a: DEALER’S REPRESENTATIVE □ INVESTMENT REPRESENTATIVE □ (please tick appropriate box) NOTES:
+  - IMPORTANT- If you are in doubt as to how to complete this application, you should consult your solicitor or other professional advisers. WARNING - Section 62 of the Securities Ordinance makes it an offence punishable with a maximum of 5 years’ imprisonment for a person to make a false of misleading representation for the purposes of obtaining, either for himself/herself or any other person, registration under Part VI of the Ordinance.
+
+    - The applicant hereby applies for registration as a: DEALER’S REPRESENTATIVE □ INVESTMENT REPRESENTATIVE □ (please tick appropriate box) NOTES:
 
   - 1. If there is insufficient space to complete your answer to any question, please continue on a separate sheet, specify the question to which the sheet relates and add your signature.
 

@@ -49,3 +49,19 @@ SAVINGS AND TRANSITIONAL PROVISIONS
     - (b) during the ordinary business hours of that office, make the list available for inspection by members of the public, free of charge.
 
 - (Replaced 48 of 1999 s. 45)
+
+- 4. Basis for the next provisional register
+
+- of the financial services functional
+
+- constituency
+
+  - (1) The existing final register of functional constituencies published under section 32(1)(b) of this Ordinance, in so far as it relates to the financial services functional constituency, forms the basis of the next provisional register for the financial services functional constituency.
+
+  - (2) Sections 2 and 3 shall apply to and in relation to the next provisional register for the financial services functional constituency and to the financial services functional constituency as they apply to and in relation to the first provisional register for the catering functional constituency and to the catering functional constituency.
+
+  - (3)
+
+    - In this section, “the next provisional register for the financial services functional constituency” (金融服務界功能界別下一份臨時選民登記冊) means the part in the provisional register of functional constituencies to be compiled not later than 15 April 2000 under section 32(1)(a) of this Ordinance that relates to the financial services functional constituency.
+
+- (Added 12 of 2000 s. 23)

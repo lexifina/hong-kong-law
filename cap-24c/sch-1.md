@@ -78,7 +78,7 @@ Mutual fund corporations and unit trusts
 
 8. | Fee payable in respect of—
 
-(a) authorization under the Securities Ordinance (Cap. 333) of a mutual fund corporation that maintains, or is capable of maintaining, more than one fund | $20,000 plus$2,500 in respect of each fund to which authorization extends
+(a) authorization under the Securities Ordinance (Cap. 333) of a mutual fund corporation that maintains, or is capable of maintaining, more than one fund | $20,000 plus $2,500 in respect of each fund to which authorization extends
 
 (b) authorization under the Securities Ordinance (Cap. 333) of a unit trust within which there is, or could be, more than one fund | $20,000 plus $2,500 in respect of each fund to which authorization extends
 
@@ -170,7 +170,7 @@ Miscellaneous fees
 
 (ii) in any other case | 20000 (L.N. 173 of 1994)
 
-25. | Fee payable on an application for authorization under section 12(2) of the Stock Exchanges Unification Ordinance (Cap. 361) | 2000
+25. | (Repealed 12 of 2000 s. 23)
 
 26. | Fee payable on application under section 55A of the Securities and Futures Commission Ordinance (Cap. 24)—
 

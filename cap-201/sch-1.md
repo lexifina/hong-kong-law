@@ -194,4 +194,6 @@ PUBLIC BODIES
 
 - 94. The SEHK Options Clearing House Limited. (Added 20 of 1999 s. 6)
 
-- 95. HKFE Clearing Corporation Limited. (Added 20 of 1999 s. 6) (Replaced L.N. 272 of 1974)
+- 95. HKFE Clearing Corporation Limited. (Added 20 of 1999 s. 6)
+
+- 96. Hong Kong Exchanges and Clearing Limited. (Added 12 of 2000 s. 23) (Replaced L.N. 272 of 1974)
