@@ -300,6 +300,8 @@ THE POISONS LIST
 
 - Basiliximab; its salts
 
+- Becaplermin; its salts
+
 - Befunolol; its salts
 
 - Benactyzine; its salts
@@ -554,6 +556,8 @@ THE POISONS LIST
 
 - Diatrizoic acid
 
+- Gadobenic acid
+
 - Gadodiamide
 
 - Gadopentetic acid
@@ -785,6 +789,8 @@ THE POISONS LIST
 - Erythrityl tetranitrate
 
 - Esmolol; its salts
+
+- Esomeprazole; its salts
 
 - Etafedrine; its salts
 
@@ -1109,6 +1115,8 @@ THE POISONS LIST
 - Lidoflazine
 
 - Lignocaine; its salts
+
+- Linezolid; its salts
 
 - Lisinopril; its salts
 
@@ -1548,6 +1556,8 @@ THE POISONS LIST
 
 - Piminodine; its salts
 
+- Pioglitazone; its salts
+
 - Pipecuronium; its salts
 
 - Pipobroman
@@ -1946,6 +1956,8 @@ THE POISONS LIST
 
 - Verapamil; its salts
 
+- Verteporfin; its salts
+
 - Vencuronium; its salts
 
 - Venlafaxine; its salts
@@ -2022,7 +2034,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001)
 
 - PART II A
 
