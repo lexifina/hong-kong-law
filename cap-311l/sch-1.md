@@ -6,16 +6,20 @@ SPECIFICATIONS OF MOTOR VEHICLE DIESEL
 
 Any motor vehicle diesel shall—
 
-- (a) contain not more than 0.05% by weight of sulphur as determined by ASTM D4294;
+- (a) contain not more than 0.035% by weight of sulphur as determined by ISO 14596;
 
-- (b) have a cetane number of not less than 50 as determined by ASTM D613;
+- (b) have a cetane number of not less than 51.0 as determined by ISO 5165;
 
-- (c) have a viscosity at 400C of not less than 2.00 centistoke and not more than 4.50 centistoke as determined by ASTM D445;
+- (c) contain not more than 11% by mass of polycyclic aromatic hydrocarbons as determined by IP 391;
 
-- (d) have a 95% distillation temperature of not more than 3700C as determined by ASTM D86; and
+- (d) have a 95% distillation temperature of not more than 360oC as determined by ISO 3405; and
 
-- (e) have a specific gravity at 150C of not less than 0.820 and not more than 0.860 as determined by ASTM D1298.
+- (e) have a density at 15oC of not more than 0.845 kg/L as determined by ISO 3675.
 
-Note: In this Schedule “ASTM D” followed by a numerical symbol (“ASTM number”) means the test procedure of the American Society for Testing and Materials commonly known by that ASTM number.
+Note: In this Schedule—
 
-(L.N. 310 of 1996)
+- “ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Standards Organization commonly known by that ISO number;
+
+- “IP” followed by a numerical symbol (“IP number”) means the test procedures of the Institute of Petroleum commonly known by that IP number.
+
+(L.N. 156 of 2000)
