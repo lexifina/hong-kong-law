@@ -1,147 +1,47 @@
-# Schedule 2
+# SCHEDULE 2
 
-[ss. 3(8), 14 & 15(5) ]
+[ss. 3(8), 14 & 15(5)]
 
-PERFORMANCE SPECIFICATIONS -
+PERFORMANCE SPECIFICATIONS
 
-Merchant Chapter IV
+Merchant Shipping (Safety) (GMDSS Radio Installations) Regulation | Chapter IV (unless otherwise specified) of the International Convention for the Safety of Life at Sea, 1974 | Equipment Description | Performance Specifications
 
-Shipping of the
+Issued by the Telecom— munications Authority | Adopted by the International Maritime Organization (Documents/Resolutions)
 
-(Safety) International
+s. 7(3) | Reg. 7.3 | Radiotelephone equipment operating on the frequency 2182 kHz. | HKTA 1218 | Res. A.335
 
-(GMDSS Convention Equipment Description
+s. 7(2) | Reg. 7.2 | Radiotelephone distress frequency watch receiver. | HKTA 1223 | Res. A.383 (X)
 
-Radio for the
+ss. 8, 9, 10 & 11 | Regs. 8, 9, 10 & 11 | Maritime Mobile single sideband radiotelephone transmitters and receivers for the MF and HF bands. | HKTA 1224 | Res. A.334 (IX)
 
-Installations) Safety of
+s. 7(3) | Reg. 7.3 | Radiotelephone alarm signal generating devices for use in merchant ships. | HKTA 1225 | Res. A.421 (XI)
 
-Regulation Life at
+ss. 7 to 11 | Regs. 7 to 11 | Satellite emergency position— indicating radio beacon operating on 406 MHz— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 but on or after 4 November 1994 (c) installed before 4 November 1994 | (a) Res. A. 810 (19) (b) Res. A. 763 (18) (c) Res. A. 763 (18) ex— cluding para— graph 2.3.14 of Part A of its Annex
 
-Sea, 1974
+s. 7(1)(e) | Reg. 7.1.5 | Narrow-band direct-printing telegraphy for the reception of navigational and meteorological warnings and urgent information to ships (NAVTEX). | HKTA 1257 | Res. A.525 (13)
 
--
+s. 7(1)(e) | Reg. 7.1.5 | Narrow-band direct-printing telegraphy for the reception of navigational and meteorological warnings and urgent information to ships (MSI) by HF. | Res. A.700 (17)
 
-section 7(3) Regulation Radiotelephone equipment operating on the
+ss. 8 to 10 | Regs. 8 to 10 | Ship earth stations capable of 2-way communications— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 808(19) (b) Res. A. 698(17)
 
-7.3 frequency 2182 kHz. section 7(2) Regulation Radiotelephone distress frequency watch
+ss. 7 & 8 | Regs. 7 & 8 | VHF radio installations capable of voice communications and digital selective calling— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 803(19) (b) Res. A. 609(15)
 
-7.2 receiver. sections 8, Regulations 8, Maritime Mobile single sideband
+ss. 8 to 10 | Regs. 8 to 10 | Shipborne MF radio installations capable of voice communications and digital selective calling— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 804(19) (b) Res. A. 610(15)
 
-9, 10 & 11 9, 10 & 11 radiotelephone transmitters and receivers
+ss. 8 to 10 | Regs. 8 to 10 | Shipborne MF/HF radio installations capable of voice communications, narrow-band direct-printing and digital selective calling— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 806(19) (b) Res. A. 613(15)
 
-for the MF and HF bands. section 7(3) Regulation Radiotelephone alarm signal generating
+s. 7(1)(c) | Reg. 7.1.3 | Survival craft radar transponder for use in search and rescue operations. | Res. A.802 (19)
 
-7.3 devices for use in merchant ships. sections 7 Regulation 7 Satellite emergency position-indicating radio
+s. 8(3)(a) | Reg. 8.3.1 | Float-free VHF emergency position-indicating radio beacons— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 805(19) (b) Res. A. 612(15)
 
-to 11 to 11 beacon operating on 406 MHz-
+ss. 8 to 10 | Regs. 8 to 10 | INMARSAT Standard-C ship earth station capable of transmitting and receiving direct-printing communications— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 807(19) (b) Res. A. 663(16)
 
-(a) installed on or after 4 November 1994
+s. 7(1)(e) | Reg. 7.1.5 | Enhanced group call equipment. | Res. A.664 (16)
 
-(b) installed before 4 November 1994
+s. 7(1)(f) | Reg. 7.1.6 | Float-free satellite emergency position-indicating radio beacons operating through the geostationary INMARSAT satellite system on 1.6 GHz— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 812(19) (b) Res. A. 661(16)
 
-(L.N. 659 of 1994)
+s. 7(1)(f)(iv) | Reg. 7.1.6.4 | Float-free release and activation arrangements for emergency radio equipment. | Res. A.662 (16)
 
-section Regulation Narrow-band direct-printing telegraphy for
+ss. 6 & 14 | Regs. 6 & 14 | Shipborne integrated radiocommunications system (IRCS) when used in the GMDSS. | Res. A.811 (19)
 
-7(1)(e) 7.1.5 the reception of navigational and
-
-meteorological warnings and urgent
-
-information to ships (NAVTEX). section Regulation Narrow-band direct-printing telegraphy for
-
-7(1)(e) 7.1.5 the reception of navigational and
-
-meteorological warnings and urgent
-
-information to ships (MSI) by HF. sections 8 Regulations Ship earth stations capable of 2-way
-
-to 10 8 to 10 communications. sections Regulations VHF radio installations capable of
-
-7 & 8 7 & 8 voice communications and digital selective
-
-calling. sections Regulations Shipborne MF radio installations capable of
-
-8 to 10 8 to 10 voice communications and digital selective
-
-calling. sections Regulations Shipborne MF/HF radio installations capable
-
-8 to 10 8 to 10 of voice communications, narrow-band
-
-direct-printing and digital selective
-
-calling. section Regulation Survival craft radar transponder for use in
-
-7(1)(c) 7.1.3 search and rescue operations. section Regulation Float-free VHF emergency position-indicating
-
-8(3)(a) 8.3.1 radio beacons. sections 8 Regulations INMARSAT Standard-C ship earth station
-
-to 10 8 to 10 capable of transmitting and receiving
-
-direct-printing communications. section Regulation Enhanced group call equipment.
-
-7(1)(e) 7.1.5 section Regulation Float-free satellite emergency
-
-7(1)(f) 7.1.6 position-indicating radio beacons operating
-
-through the geostationary INMARSAT satellite
-
-system on 1.6 GHz. section Regulation Float-free release and activation
-
-7(1)(f)(iv) 7.1.6.4 arrangements for emergency radio equipment.
-
-\- -
-
-Performance Specifications
-
--
-
-Issued by the Adopted by the International
-
-Telecommunications Maritime Organization
-
-Authority (Documents / Resolutions)
-
--
-
-HKTA Resolution A. 335
-
-1218 HKTA Resolution A. 383
-
-1223 (X) HKTA Resolution A. 334
-
-1224 (IX) HKTA Resolution A. 421
-
-1225 (XI) (a) Resolution A. 763(18)
-
-(b) Resolution A. 763(18)
-
-excluding paragraph 2.3.14
-
-of Part A of its Annex HKTA Resolution A. 525
-
-1257 (13) Resolution A. 700
-
-(17) HKTA Resolution A. 698
-
-1260 (17) Resolution A. 609
-
-(15) Resolution A. 610
-
-(15) Resolution A. 613
-
-(15) Resolution A. 697
-
-(17) Resolution A. 612
-
-(15) Resolution A. 663
-
-(16) Resolution A. 664
-
-(16) Resolution A. 661
-
-(16) Resolution A. 662
-
-(16)
-
--
+s. 18 | Reg. 6.2.1 of Chapter III | Survival craft 2-way VHF radiotelephone apparatus— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 809(19) (b) Res. A. 762(18)
