@@ -1026,13 +1026,7 @@ In the matter of , Limited. By order of the , dated the day of 19 Mr. of has bee
 
 _
 
-FORM 28 | [rule 46] Fee $3.00
-
-Notice of Appointment of Liquidator MEMBERS OF CREDITORS VOLUNTARY WINDING UP OR WINDING UP BY THE COURT Pursuant to Sections 195 and 253
-
-Name of company or title of proceedings (as the case may be) To The Registrar of Companies. (a)I, (or We) hereby give you notice that I (or we) have been appointed liquidator(s) of Company, Limited by(b) (Signature) (c) Dated this day of , . Presented for filing by | of | (a) Insert name(s) and (i) Hong Kong Identity Card Number(s); or (ii) Passport Number(s) together with the name(s) of the issuing country (or countries). (b) State whether appointed by resolution of the company or by the creditors or by order of the court and give date of resolution or order. (c) To be signed by each liquidator if more than one.
-
-(L.N. 286 of 1997)
+FORM 28 (Repealed 28 of 2003 s. 126)
 
 _
 

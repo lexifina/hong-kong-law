@@ -14,6 +14,8 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 21(9) | Failure by a body to alter its name on the revocation of a licence to use the words “Chamber of Commerce”, etc. in its name | Summary | level 3 | $700
 
+22(1B) | Company failing to give the Registrar notice of change of company name (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+
 22(6) | Company failing to change name on the direction of the Registrar (Replaced 60 of 1990 s. 10) | Summary | level 6 and 6 months | $700
 
 22A(4) | Company failing to change name on the direction of the Registrar on the grounds that the name is misleading | Summary | level 4 | $700
@@ -36,7 +38,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 38D(8) (Amended 86 of 1992 s. 20) | Issuing a company prospectus without delivering a copy to the Registrar or without the requisite endorsements | Summary | level 6 | $300
 
-40A(1) | Authorizing the issue of a prospectus containing an untrue statement. | On indictment Summary | $700,000 and 3 years $150,000 and 12 months | — —
+40A(1) | Authorizing the issue of a prospectus containing an untrue statement | On indictment Summary | $700,000 and 3 years $150,000 and 12 months | — —
 
 43(4) | Allotting shares before the 3rd day after delivering a statement in lieu of prospectus to the Registrar | Summary | level 6 | —
 
@@ -52,9 +54,9 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 47A(3) | Company giving financial assistance for the acquisition of its own shares | Summary | $125,000 and 12 months | —
 
-47F(4) | Company failing to register statutory declaration under section 47E | Summary | level 5 | $1,300
+47F(4) | Company failing to register statement made by directors under section 47E(6) (Amended 28 of 2003 s. 119) | Summary | level 5 | $1,300
 
-47F(5) | Director making statutory declaration under section 47E without having reasonable grounds for the opinion expressed in it | Summary | level 5 and 6 months | —
+47F(5) | Director signing a statement made under section 47E(6) without having reasonable grounds for the opinion expressed in it (Amended 28 of 2003 s. 119) | Summary | level 5 and 6 months | —
 
 47G(10) | Company failing to give the Registrar notice, or copy of court order, of application under section 47G | Summary | level 3 | $250
 
@@ -62,9 +64,9 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 49G(7) | Default by company to keep copy contract, etc., at registered office; refusal of inspection to person demanding it | Summary | level 4 | $250
 
-49K(6) | Director making statutory declaration under section 49K without having reasonable grounds for the opinion expressed in it | On indictment Summary | $125,000 and 2 years level 5 and 6 months | — —
+49K(6) | Director signing a statement under section 49K without having reasonable grounds for the opinion expressed in it (Amended 28 of 2003 s. 119) | On indictment Summary | $125,000 and 2 years level 5 and 6 months | — —
 
-49M(6) | Refusal of inspection of statutory declaration and auditors’ report under section 49K | Summary | level 4 | $650
+49M(6) | Refusal of inspection of directors’ statement and auditors’ report under section 49K (Amended 28 of 2003 s. 119) | Summary | level 4 | $650
 
 49N(4) | Company failing to give the Registrar notice, or copy of court order, of application under section 49N | Summary | level 3 | $250
 
@@ -86,7 +88,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 69(2) | Company failing to forward notice of refusal to register a transfer to the parties or otherwise failing to comply with section 69 | Summary | level 3 | $300
 
-70(2) | Company failing to issue certificates on allotment | Summary | level 3 | $300
+70(2) | Company failing to issue certificates or debentures on allotment or transfer (Amended 28 of 2003 s. 119) | Summary | level 3 | $300
 
 71A(9) | Company failing to publish notice of issue of replacement certificate | Summary | level 3 | $300
 
@@ -98,7 +100,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 82(2) | Company failing to register particulars of an existing charge over property acquired | Summary | level 5 | $1,500
 
-87(3) | Person appointing, etc., a receiver or manager, etc., failing to give notice to the Registrar | Summary | level 3 | $300
+87(7) | Person appointing or ceasing to act as receiver or manager, or entering into or going out of possession as mortgagee, etc., failing to give notice to the Registrar (Amended 28 of 2003 s. 119) | Summary | level 3 | $300
 
 88(4) | Company failing to keep a copy of a charge at the registered office or failing to notify the Registrar where charges are kept | Summary | level 5 | $700
 
@@ -119,6 +121,8 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 93(5) | Officer or other person authorizing the use of improper seal, etc. | Summary | level 3 | —
 
 95(4) | Company failing to keep a register of members or failing to notify place where register is kept | Summary | level 4 | $700
+
+95A(3) | Company failing to enter the required statement in the company’s register of members (Added 28 of 2003 s. 119) | Summary | level 4 | $700
 
 96(3) | Company failing to maintain index to register of members | Summary | level 3 | $300
 
@@ -146,6 +150,10 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 116BA(2) | Director or secretary failing to notify company’s auditor of matters under section 116B (Added 46 of 2000 s. 39) | Summary | Level 3 | —
 
+116BC(5) | Sole member failing to provide the company with a written record of his decision (Added 28 of 2003 s. 119) | Summary | Level 3 | $300
+
+116BC(6) | Company failing to enter record of written record of decision provided in accordance with section 116BC (Added 28 of 2003 s. 119) | Summary | Level 3 | $300
+
 117(5) | Company failing to lodge copies of special resolutions, etc., with the Registrar | Summary | level 3 | $300
 
 117(6) | Company failing to lodge copies of special resolutions, etc., with the Registrar | Summary | level 3 per copy | —
@@ -164,9 +172,9 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 124(3) | Director failing to take reasonable steps to ensure that group accounts tabled at the Annual General Meeting comply with section 124 | Summary | $300,000 and 12 months | —
 
-128(6) | Company failing to annex particulars to a return taking advantage of section 128(4) | Summary | level 6 | $300
+128(6) | Company failing to satisfy obligation imposed under section 128(5) or (5A) (Amended 28 of 2003 s. 119) | Summary | level 6 | $300
 
-129(6) | Company failing to annex particulars to a return taking advantage of section 129(4) | Summary | level 6 | $300
+129(6) | Company failing to satisfy obligation imposed under section 129(5) or (5A) (Amended 28 of 2003 s. 119) | Summary | level 6 | $300
 
 129B(3) | Company failing to have balance sheet signed before issue, etc. | Summary | level 4 | —
 
@@ -214,7 +222,13 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 152E | Person falsifying documents required under section 152A | On indictment Summary | $1,500,000 and 3 years $150,000 and 12 months | — —
 
-153(3) | Company failing to have at least 2 directors | Summary | level 3 | $300
+153(3) | Company (not being a private company) failing to have at least 2 directors (Amended 28 of 2003 s. 119) | Summary | level 3 | $300
+
+153A(3) | Private company failing to have at least one director (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+
+153C(4) | Sole director failing to provide the company with a written record of his decision (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+
+153C(5) | Company failing to enter record of written record of decision provided in accordance with section 153C (Added 28 of 2003 s. 119) | Summary | level 3 | $300
 
 155(5) | Unqualified person acting as a director | Summary | level 3 | $300
 
@@ -226,7 +240,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 156(1) | Undischarged bankrupt acting as a director, etc. | On indictment Summary | $700,000 and 2 years $150,000 and 12 months | — —
 
-157J(3) | Company entering into a loan, etc., contrary to section 157H | On indictment Summary | $150,000 and 2 years level 5 and 6 months | — —
+157J(3) | Company entering into a transaction or arrangement contrary to section 157H (Amended 28 of 2003 s. 119) | On indictment Summary | $150,000 and 2 years level 5 and 6 months | — —
 
 158(8) | Company refusing to permit inspection of register of directors and secretaries or failing to keep or maintain the register | Summary | level 3 | $300
 
@@ -242,11 +256,17 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 161BA(11) | Company failing to permit inspection or to send a copy as required of the register of agreements for an authorized financial institution | Summary | level 3 | $300
 
-161C(3) | Director failing to disclose matters required under section 161 or 161B | Summary | level 5 | —
+161BB(3) | Director failing to take all reasonable steps to ensure the company keeps a register of particulars relating to quasi-loans and credit transactions, etc. (Added 28 of 2003 s. 119) | Summary | level 5 and 6 months | -
+
+161BB(7) | Company failing to permit inspection or to send a copy as required of the register of particulars relating to quasi-loans and credit transactions, etc. (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+
+161C(3) | Director or shadow director failing to disclose matters required under section 161 or 161B (Amended 28 of 2003 s. 119) | Summary | level 5 | —
 
 162(3) | Director failing to disclose material interest in a contract | Summary | level 5 | —
 
 162A(2) | Company failing to disclose, etc., management contract relating to the management of the whole or a substantial part of company business | Summary | level 3 | $300
+
+162B(3) | Company having one member who is also a director failing to set out in a written memorandum the terms of a contract with that member (Added 28 of 2003 s. 119) | Summary | level 3 | $300
 
 163B(2) | Director, etc., failing to disclose payment for loss of office, etc., in connection with transfer of shares in company | Summary | level 5 | —
 
@@ -266,19 +286,25 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 227(3) | Liquidator failing to deliver dissolution order to the Registrar | Summary | level 5 | $300
 
-228A(2) | Director declaring that company cannot continue in business by reason of its liabilities, or declaring that it is not reasonably practicable for company to be wound up under a provision other than section 228A, without having reasonable grounds to do so (Amended 46 of 2000 s. 39) | Summary | level 5 and 6 months | —
+228A(4) | Director signing a winding-up statement without having reasonable grounds for the opinion that the company cannot by reason of its liabilities continue its business, or to consider that the winding up should be commenced under section 228A because it is not reasonably practicable for it to be commenced under another section of the Ordinance (Added 28 of 2003 s. 119) | Summary | level 5 and 6 months | —
 
-228A(3A) (relating to subsection (3)(b)) | Director failing to appoint a provisional liquidator or deliver evidence of appointment (Added 75 of 1993 s. 23) | Summary | level 5 | —
+228A(6) (relating to subsection (5)(b)) | Director failing to appoint a provisional liquidator forthwith after delivery of winding-up statement to the Registrar (Added 28 of 2003 s. 119) | Summary | level 5 | —
 
-228A(3A) (relating to subsection (3)(c)) | Director failing to cause meetings of the company or creditors to be summoned (Added 75 of 1993 s. 23) | Summary | level 5 | —
+228A(6) (relating to subsection (5)(c)) | Director failing to cause meetings of the company or creditors to be summoned within 28 days after delivery of winding-up statement (Added 28 of 2003 s. 119) | Summary | level 5 | —
 
-228A(4B) | Provisional liquidator failing to deliver to the Registrar the notice of appointment required under section 228A(4A) (Added 75 of 1993 s. 23) | Summary | — | $200
+228A(13) (relating to subsection (10)) | Provisional liquidator failing to deliver to the Registrar the notice of appointment required under section 228A(10) (Added 28 of 2003 s. 119) | Summary | level 3 | $200
+
+228A(13) (relating to subsection (11)(a)) | Person ceasing to act as provisional liquidator failing to publish in the Gazette the notice required under section 228A(11)(a) (Added 28 of 2003 s. 119) | Summary | level 3 | $200
+
+228A(13) (relating to subsection (11)(b)) | Person ceasing to act as provisional liquidator failing to deliver to the Registrar the notice required under section 228A(11)(b) (Added 28 of 2003 s. 119) | Summary | level 3 | $200
+
+228A(13) (relating to subsection (12)) | Provisional liquidator failing to deliver to the Registrar the notice of change of particulars required under section 228A(12) (Added 28 of 2003 s. 119) | Summary | level 3 | $200
 
 229(2) | Company failing to advertise in the Gazette notice of resolution to wind up voluntarily | Summary | level 3 | $300
 
-233(3) | Director declaring that company being wound up voluntarily can meet its debts within the time set out in the declaration without having reasonable grounds to do so | Summary | level 5 and 6 months | —
+233(3) | Director signing a certificate that company being wound up voluntarily can meet its debts within the time set out in the certificate without having reasonable grounds to do so (Amended 28 of 2003 s. 119) | Summary | level 5 and 6 months | —
 
-237A(3) | Liquidator failing to call a meeting on forming the opinion that a company in voluntary liquidation will not be able to meet its debts within the time stated in the declaration made under section 233 | Summary | level 3 | —
+237A(3) | Liquidator failing to call a meeting on forming the opinion that a company in voluntary liquidation will not be able to meet its debts within the time stated in the certificate of solvency issued under section 233 (Amended 28 of 2003 s. 119) | Summary | level 3 | —
 
 238(2) | Liquidator failing to call a general meeting at the end of any year | Summary | level 3 | —
 
@@ -298,7 +324,15 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 248(6) | Liquidator failing to call a general meeting of the company or of creditors as required by section 248 | Summary | level 3 | —
 
-253(2) | Liquidator failing to publish notice of his appointment in the Gazette | Summary | level 3 | $300
+253(4) (relating to subsection (1)(a)) | Liquidator failing to publish in the Gazette the notice of appointment required under section 253(1)(a) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+
+253(4) (relating to subsection (1)(b)) | Liquidator failing to deliver to the Registrar the notice of appointment required under section 253(1)(b) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+
+253(4) (relating to subsection (2)(a)) | Person ceasing to act as liquidator failing to publish in the Gazette the notice required under section 253(2)(a) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+
+253(4) (relating to subsection (2)(b)) | Person ceasing to act as liquidator failing to deliver to the Registrar the notice required under section 253(2)(b) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
+
+253(4) (relating to subsection (3)) | Liquidator failing to deliver to the Registrar the notice of change of particulars required under section 253(3) (Added 28 of 2003 s. 119) | Summary | level 3 | $300
 
 271(1) (relating to paragraph (o)) | Officer, etc., failing to comply with section 271 (offences by officers of companies in liquidation) | On indictment Summary | 5 years 2 years | — —
 
@@ -362,4 +396,4 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 360J | Person obstructing Official Receiver | Summary | $150,000 and 6 months | —
 
-(Twelfth Schedule added 7 of 1990 s. 4. Amended 77 of 1991 s. 8; 30 of 1994 s. 12; 84 of 1995 s. 8; L.N. 306 of 1996; 3 of 1997 s. 62)
+(Twelfth Schedule added 7 of 1990 s. 4. Amended 77 of 1991 s. 8; 30 of 1994 s. 12; 84 of 1995 s. 8; L.N. 306 of 1996; 3 of 1997 s. 62; 28 of 2003 s. 119)

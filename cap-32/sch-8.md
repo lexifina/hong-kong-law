@@ -1,26 +1,66 @@
 # EIGHTH SCHEDULE
 
-[ss. 304, 318 & 360]
+[ss. 19, 48B, 49A, 168R, 177, 304, 318 & 360] (Amended 28 of 2003 s. 116)
 
 TABLE OF FEES TO BE PAID TO THE REGISTRAR OF COMPANIES
 
 I.-BY A COMPANY HAVING A SHARE CAPITAL
 
-(a) | for registration of company (Amended 28 of 1990 s. 2) . And, in addition, for every $1,000 or part of $1,000 of the nominal share capital (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $1,425 $ 1
+(a) | for registration of company (Amended 28 of 1990 s. 2) . | $1,425
+
+And, in addition, for every $1,000 or part of $1,000 of the nominal share capital (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $ 1
 
 (aa) | lodgment fee to be paid on delivery of the memorandum and articles under section 15 (Added L.N. 11 of 1996) . | $ 295
 
-(b) | for registration of every increase in nominal share capital made after the first registration of any company, for every $1,000 or part of $1,000 of such increase (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . Provided that where a company has paid an additional fee under paragraph (c)(ii) in respect of shares allotted at a premium, no fee shall be payable under this paragraph in respect of any increase in the nominal share capital of that company where such increase is made for the purpose of capitalizing the whole or any part of that premium and is applied to that purpose. And, in addition, in the case of a company having on the 1 June 1955 a nominal share capital in excess of $3,000,000, on the first such increase after the said date, for every $1,000 or part of $1,000 of such excess nominal share capital as remains unissued immediately before such increase . Provided that no additional fee shall be payable under this sub-paragraph by a company which has paid the additional fee under paragraph (ba). (Added 81 of 1976 s. 6) | $ 1 $ 4
+(b) | for registration of every increase in nominal share capital made after the first registration of any company, for every $1,000 or part of $1,000 of such increase (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $ 1
 
-(ba) | in the case of a company having on the 1st day of June, 1955 a nominal share capital in excess of $3,000,000, for every $1,000 or part of $1,000 of such excess nominal share capital as remains unissued as at the date of payment of this fee . The fee under this paragraph shall be paid on or before the 1st day of January, 1977: Provided that no fee shall be payable under this paragraph by a company which has increased its nominal share capital and paid the additional fee under paragraph (b). (Added 4 of 1976 s. 4. Amended 81 of 1976 s. 6) | $ 4
+Provided that where a company has paid an additional fee under paragraph (c)(ii) in respect of shares allotted at a premium, no fee shall be payable under this paragraph in respect of any increase in the nominal share capital of that company where such increase is made for the purpose of capitalizing the whole or any part of that premium and is applied to that purpose. And, in addition, in the case of a company having on the 1 June 1955 a nominal share capital in excess of $3,000,000, on the first such increase after the said date, for every $1,000 or part of $1,000 of such excess nominal share capital as remains unissued immediately before such increase . | $ 4
 
-(c) | for registration of a return of allotments— (i) in the case of a company having on 1 June 1955 a nominal share capital in excess of $3,000,000, for every $1,000 or part of $1,000 of such excess nominal share capital allotted after the said date . Provided that no additional fee shall be payable under this subparagraph by a company which has paid the additional fee under paragraph (b) or (ba); (ii) in the case of company which allots shares at a premium, whether for cash or otherwise, for every $1,000 or part of $1,000 of the aggregate amount or value of the premiums paid or payable on such shares (subject to the amount of the fee so calculated not exceeding $30,000) (Replaced L.N. 11 of 1996. Amended L.N. 135 of 1996) . | $ 4 $ 1
+Provided that no additional fee shall be payable under this sub-paragraph by a company which has paid the additional fee under paragraph (ba). (Added 81 of 1976 s. 6)
+
+(ba) | in the case of a company having on the 1st day of June, 1955 a nominal share capital in excess of $3,000,000, for every $1,000 or part of $1,000 of such excess nominal share capital as remains unissued as at the date of payment of this fee . | $ 4
+
+The fee under this paragraph shall be paid on or before the 1st day of January, 1977:
+
+Provided that no fee shall be payable under this paragraph by a company which has increased its nominal share capital and paid the additional fee under paragraph (b). (Added 4 of 1976 s. 4. Amended 81 of 1976 s. 6)
+
+(c) | for registration of a return of allotments—
+
+(i) in the case of a company having on 1 June 1955 a nominal share capital in excess of $3,000,000, for every $1,000 or part of $1,000 of such excess nominal share capital allotted after the said date . | $ 4
+
+Provided that no additional fee shall be payable under this subparagraph by a company which has paid the additional fee under paragraph (b) or (ba);
+
+(ii) in the case of company which allots shares at a premium, whether for cash or otherwise, for every $1,000 or part of $1,000 of the aggregate amount or value of the premiums paid or payable on such shares (subject to the amount of the fee so calculated not exceeding $30,000) (Replaced L.N. 11 of 1996. Amended L.N. 135 of 1996) . | $ 1
 
 (ca) | for registration of a prospectus under section 38D or 342C (Replaced 86 of 1992 s. 19) . | $1,415
 
 (d) | for registration of any existing company, except such companies as are by this Ordinance exempted from payment of fees in respect of registration under this Ordinance, the same fee as is charged for the registration of a new company.
 
-(e) | annual registration fee (to be paid on delivery of annual return under section 107)— for a private company having a share capital— (i) if delivered within 42 days after the anniversary of incorporation (ii) if delivered more than 42 days after but within 3 months after the anniversary of incorporation . (iii) if delivered more than 3 months after but within 6 months after the anniversary of incorporation . (iv) if delivered more than 6 months after but within 9 months after the anniversary of incorporation . (v) if delivered more than 9 months after the anniversary of incorporation . for any other company— (vi) if delivered within 42 days after the annual general meeting . (vii) if delivered more than 42 days after but within 3 months after the annual general meeting . (viii) if delivered more than 3 months after but within 6 months after the annual general meeting . (ix) if delivered more than 6 months after but within 9 months after the annual general meeting . (x) if delivered more than 9 months after the annual general meeting (Replaced L.N. 11 of 1996) . | $ 105 $ 870 $1,740 $2,610 $3,480 $ 140 $1,200 $2,400 $3,600 $4,800
+(e) | annual registration fee (to be paid on delivery of annual return under section 107)—
+
+for a private company having a share capital—
+
+(i) if delivered within 42 days after the anniversary of incorporation . | $ 105
+
+(ii) if delivered more than 42 days after but within 3 months after the anniversary of incorporation . | $ 870
+
+(iii) if delivered more than 3 months after but within 6 months after the anniversary of incorporation . | $1,740
+
+(iv) if delivered more than 6 months after but within 9 months after the anniversary of incorporation . | $2,610
+
+(v) if delivered more than 9 months after the anniversary of incorporation . | $3,480
+
+for any other company—
+
+(vi) if delivered within 42 days after the annual general meeting . | $ 140
+
+(vii) if delivered more than 42 days after but within 3 months after the annual general meeting . | $1,200
+
+(viii) if delivered more than 3 months after but within 6 months after the annual general meeting . | $2,400
+
+(ix) if delivered more than 6 months after but within 9 months after the annual general meeting . | $3,600
+
+(x) if delivered more than 9 months after the annual general meeting (Replaced L.N. 11 of 1996) . | $4,800
 
 (f) | (Repealed L.N. 11 of 1996)
 
@@ -78,17 +118,43 @@ V.-MISCELLANEOUS FEES
 
 (a)-(b) (Repealed 60 of 1990 s. 9)
 
-(c) | for inspecting— (i) by virtue of section 305(1), a copy of all documents relating to one company kept by the Registrar and registered in respect of one calendar year, for each inspection . (ii) by virtue of section 305(1), where a copy is not available, the register or any file or any other document, kept by the Registrar, for each inspection . (iia) by virtue of section 305(1), any document kept by the Registrar containing particulars relating to one company, for each inspection (Added L.N. 19 of 2000) . (iii) the register of charges kept under section 83, for each inspection (Replaced 17 of 1990 s. 5) . | $ 20 $ 20 $ 22 $ 20
+(c) | for inspecting—
 
-(d) | for issuing under section 305(1)— (i) a certificate of incorporation . (ii) a copy or extract of any other document or part of any other document— | $ 170
+(i) by virtue of section 305(1), a copy of all documents relating to one company kept by the Registrar and registered in respect of one calendar year, for each inspection . | $ 20
 
-(A) by photostatic means, per sheet or page . (B) where the copy or extract is made other than by photostatic means per folio of 100 words or part thereof For each additional copy or extract after the first or top copy, per folio of 100 words or part thereof . | $ 5 $ 5 $ 5
+(ii) by virtue of section 305(1), where a copy is not available, the register or any file or any other document, kept by the Registrar, for each inspection . | $ 20
 
-(e) (f) | for certifying a copy or extract of any document . for registering— (i) under Part III of the Ordinance any charge required to be registered thereunder whether created by a company or existing on property acquired by a company . (ii) particulars of a series of debentures under Part III of the Ordinance . (iii) the appointment of a receiver or manager, or a mortgagee’s entering into possession, under section 87 . (iv) a memorandum of satisfaction under section 85 (Added L.N. 457 of 1997) . | $ 130 $ 340 $ 340 $ 40 $ 190
+(iia) by virtue of section 305(1), any document kept by the Registrar containing particulars relating to one company, for each inspection (Added L.N. 19 of 2000) . | $ 22
+
+(iii) the register of charges kept under section 83, for each inspection (Replaced 17 of 1990 s. 5) . | $ 20
+
+(d) | for issuing under section 305(1)—
+
+(i) a certificate of incorporation or change of name (Amended 28 of 2003 s. 116) . | $ 170
+
+(ii) a copy of or extract from any document, or a copy of information contained in a record— (Amended 28 of 2003 s. 116)
+
+(A) by photostatic means, per sheet or page . | $ 5
+
+(B) where the copy or extract is made other than by photostatic means per folio of 100 words or part thereof . | $ 5
+
+For each additional copy or extract after the first or top copy, per folio of 100 words or part thereof . | $ 5
+
+(e) | for certifying anything under section 305 (Amended 28 of 2003 s. 116) . | $ 130
+
+(f) | for registering—
+
+(i) under Part III of the Ordinance any charge required to be registered thereunder whether created by a company or existing on property acquired by a company . | $ 340
+
+(ii) particulars of a series of debentures under Part III of the Ordinance . | $ 340
+
+(iii) the appointment of a receiver or manager, or a mortgagee’s entering into possession, under section 87 . | $ 40
+
+(iv) a memorandum under section 85 (Added L.N. 457 of 1997. Amended 28 of 2003 s. 116) . | $ 190
 
 (g) | for endorsing the words “satisfaction entered” or the expression in Chinese “已清償” upon an instrument of charge under section 85 (Amended 3 of 1997 s. 59) . | $ 40
 
-(h) | for furnishing a copy of a memorandum of satisfaction under section 85 . | $ 40
+(h) | (Repealed 28 of 2003 s. 116)
 
 (ha) | for processing an application requesting the Registrar to represent a defunct company or its liquidator under section 291B (Added L.N. 457 of 1997) . | $1,740
 
@@ -96,15 +162,21 @@ V.-MISCELLANEOUS FEES
 
 (j) | for an authorization under section 111(1) . | $ 850
 
-(k) | for inspecting, by virtue of section 158C(2) or 333C(2), the index of directors kept by the Registrar— (i) for each search of the list of directors of a company . (ii) for each search of the personal particulars of a director in a company . (iii) for each search showing all the directorships in companies incorporated in Hong Kong or registered under Part XI of the Ordinance held by a single person (Replaced L.N. 19 of 2000) | $ 11 $ 11 $ 22
+(k) | for inspecting, by virtue of section 158C(2) or 333C(2), the index of directors kept by the Registrar—
+
+(i) for each search of the list of directors of a company . | $ 11
+
+(ii) for each search of the personal particulars of a director in a company . | $ 11
+
+(iii) for each search showing all the directorships in companies incorporated in Hong Kong or registered under Part XI of the Ordinance held by a single person (Replaced L.N. 19 of 2000) . | $ 22
 
 (l) | (Repealed L.N. 19 of 2000)
 
 (m) | for making a single search of the register of disqualification orders, kept by the Registrar (Added L.N. 570 of 1994) . | $ 11
 
-(n) | lodgment fee for special resolution for change of name (Added L.N. 11 of 1996) . | $ 240
+(n) | lodgment fee for notification of change of company name (Added L.N. 11 of 1996. Amended 28 of 2003 s. 116) . | $ 240
 
-(o) | fee for issuing a certificate of incorporation on change of name under section 22 (Added L.N. 11 of 1996) . | $ 55
+(o) | fee for issuing a certificate of change of name under section 22 (Added L.N. 11 of 1996. Amended 28 of 2003 s. 116) . | $ 55
 
 (p) | application fee for deregistration of a private company under section 291AA (Added 30 of 1999 s. 36) . | $ 420
 

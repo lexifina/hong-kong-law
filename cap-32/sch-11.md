@@ -1,8 +1,10 @@
-# ELEVENTH SCHEDULE ACCOUNTS OF CERTAIN PRIVATE COMPANIES UNDER SECTION 141D
+# ELEVENTH SCHEDULE
+
+[ss. 141D & 360] (Amended 28 of 2003 s. 118)
 
 ACCOUNTS OF CERTAIN PRIVATE COMPANIES UNDER SECTION 141D
 
-(Replaced 6 of 1984 s. 259)
+ACCOUNTS OF CERTAIN PRIVATE COMPANIES UNDER SECTION 141D (Replaced 6 of 1984 s. 259)
 
 - 1. This Schedule has effect in addition to the provisions of sections 161 to 161C of this Ordinance.
 
@@ -34,10 +36,6 @@ ACCOUNTS OF CERTAIN PRIVATE COMPANIES UNDER SECTION 141D
 
   - (2) The method or methods used to arrive at the amount of the fixed assets shall be stated.
 
-- 5. There shall be shown under a separate heading the aggregate amount of any outstanding loans made under the authority of [provisos (b) and (c) to section 48(1)]#.
+- 5. There shall be shown under a separate heading the aggregate amount of any outstanding loans made under the authority of section 47C(4)(b) and (c). (Amended 28 of 2003 s. 118)
 
 - 6. Where any liability of the company is secured otherwise than by operation of law on any assets of the company, the fact that that liability is so secured shall be stated, but it shall not be necessary to specify the assets on which the liability is secured. (Eleventh Schedule added 80 of 1974 s. 22)
-
-Editorial Note:
-
-\# Repealed-see 77 of 1991 s. 3

@@ -1,6 +1,10 @@
 # First Schedule
 
-TABLE A [sections 11, 114A & 360]
+[ss. 2, 4, 14 & 360] (Amended 28 of 2003 s. 115)
+
+TABLE A [sections 2, 11, 114A, 322 & 360]
+
+(Amended 28 of 2003 s. 115)
 
 - PART I REGULATIONS FOR MANAGEMENT OF A COMPANY LIMITED
 
@@ -10,13 +14,17 @@ TABLE A [sections 11, 114A & 360]
 
   - 1. In these regulations—
 
-    - “Ordinance” (本條例) means the Companies Ordinance, Chapter 32.
+    - “Ordinance” (本條例) means the Companies Ordinance (Cap. 32);
 
-    - “seal” (印章) means the common seal of the company.
+    - “seal” (印章) means the common seal of the company;
 
-    - “secretary” (秘書) means any person appointed to perform the duties of the secretary of the company. Expressions referring to writing shall, unless the contrary intention appears, be construed as including references to printing, lithography, photography, and other modes of representing or reproducing words in a visible form.
+    - “secretary” (秘書) means any person appointed to perform the duties of the secretary of the company. Expressions used in these regulations referring to writing shall, unless the contrary intention appears, be construed as including references to printing, lithography, photography and other modes of representing or reproducing words in a visible form.
 
-    - Unless the context otherwise requires, words or expressions contained in these regulations shall bear the same meaning as in the Ordinance or any statutory modification thereof in force at the date at which these regulations become binding on the company. Share Capital and Variation of Rights
+    - Wherever any provision of these regulations (except a provision for the appointment of a proxy) requires that a communication as between the company, its directors or members be effected in writing, the requirement may be satisfied by the communication being given in the form of an electronic record if the person to whom the communication is given consents to it being given to him in that form.
+
+    - Wherever any provision of these regulations requires that a meeting of the company, its directors or members be held, the requirement may be satisfied by the meeting being held by such lawful electronic means and in such manner as may be agreed by the company in general meeting.
+
+    - Unless the context otherwise requires, words or expressions used in these regulations shall have the same meaning as in the Ordinance or any statutory modification thereof in force at the date at which these regulations become binding on the company. (Replaced 28 of 2003 s. 115) Share Capital and Variation of Rights
 
   - 2. Without prejudice to any special rights previously conferred on the holders of any existing shares or class of shares, any share in the company may be issued with such preferred, deferred or other special rights or such restrictions, whether in regard to dividend, voting, return of capital or otherwise as the company may from time to time by ordinary resolution determine.
 
@@ -122,7 +130,13 @@ TABLE A [sections 11, 114A & 360]
 
     - (c) cancel any shares which, at the date of the passing of the resolution, have not been taken or agreed to be taken by any person.
 
-  - 47. The company may by special resolution reduce its share capital, any capital redemption reserve fund or any share premium account in any manner and with, and subject to, any incident authorized, and consent required, by law. Purchase of own Shares (Added L.N. 188 of 1993)
+  - 47.
+
+  - The company may by special resolution reduce its share capital, any capital redemption reserve fund or any share premium account in any manner and with, and subject to, any incident authorized, and consent required, by law.
+
+  - Purchase of own Shares
+
+  - (Added L.N. 188 of 1993)
 
   - 47A. At any time while the company is a listed company within the meaning of the Ordinance, it may, subject to sections 49, 49A, 49B(6), 49BA, 49C, 49E, 49F, 49G, 49H, 49P, 49Q, 49R and 49S of the Ordinance, purchase its own shares (including any redeemable shares) (Added L.N. 188 of 1993)
 
@@ -260,7 +274,7 @@ TABLE A [sections 11, 114A & 360]
 
   - Powers and Duties of Directors
 
-  - 82. The business of the company shall be managed by the directors, who may pay all expenses incurred in promoting and registering the company, and may exercise all such powers of the company as are not, by the Ordinance or by these regulations, required to be exercised by the company in general meeting, subject, nevertheless, to any of these regulations, to the provisions of the Ordinance and to such regulations, being not inconsistent with the aforesaid regulations or provisions, as may be prescribed by the company in general meeting; but no regulation made by the company in general meeting shall invalidate any prior act of the directors which would have been valid if that regulation had not been made.
+  - 82. Subject to the provisions of the Ordinance, the memorandum and articles and to any directions given by special resolution, the business and affairs of the company shall be managed by the directors, who may exercise all the powers of the company. No alteration of the memorandum or articles and no such direction shall invalidate any prior act of the directors which would have been valid if that alteration had not been made or that direction had not been given. The powers given by this regulation shall not be limited by any special power given to the directors by the articles, and a meeting of the directors at which a quorum is present may exercise all powers exercisable by the directors. (Replaced 28 of 2003 s. 115)
 
   - 83. The directors may from time to time and at any time by power of attorney appoint any company, firm or person or body of persons, whether nominated directly or indirectly by the directors, to be the attorney or attorneys of the company for such purposes and with such powers, authorities and discretions (not exceeding those vested in or exercisable by the directors under these regulations) and for such period and subject to such conditions as they may think fit, and any such powers of attorney may contain such provisions for the protection and convenience of persons dealing with any such attorney as the directors may think fit and may also authorize any such attorney to delegate all or any of the powers, authorities and discretions vested in him.
 
@@ -462,7 +476,7 @@ TABLE A [sections 11, 114A & 360]
 
   - 3. The directors may, in their absolute discretion and without assigning any reason therefor, decline to register any transfer of any share, whether or not it is a fully paid share. Note: Regulations 2A and 2B of this Part are alternative to regulations 47A and 47B of Part I, and regulation 3 of this Part is alternative to regulation 24 of Part I. (Replaced L.N. 188 of 1993) _
 
-  - TABLE B | [sections 14 & 360]
+  - TABLE B | [sections 4, 14 & 360] (Amended 28 of 2003 s. 115)
 
   - FORM OF MEMORANDUM OF ASSOCIATION OF A
 
