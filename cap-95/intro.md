@@ -1,0 +1,5 @@
+To make better provision as to the constitution, duties and powers of the Fire Services Department and as to the discipline of members thereof and to make provision for the prevention of fire hazards and for a welfare fund; and to regulate the registration of fire service installation contractors and to provide for the control of the sale, supply, installation, repair, maintenance and inspection of fire service installations or equipment; and for purposes connected with the matters aforesaid.
+
+(Amended 42 of 1961 s. 2; 1 of 1964 s. 2; 45 of 1971 s. 2)
+
+[13 August 1954]
