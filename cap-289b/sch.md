@@ -264,4 +264,6 @@ Item | Periods | Rate of interest
 
 130. | On or after 2 July 2002 and before 4 November 2002 (L.N. 109 of 2002; L.N. 163 of 2002) | 0.1908% per annum
 
-131. | On or after 4 November 2002 (L.N. 163 of 2002) | 0.2308% per annum
+131. | On or after 4 November 2002 and before 2 December 2002 (L.N. 163 of 2002; L.N. 192 of 2002) | 0.2308% per annum
+
+132. | On or after 2 December 2002 (L.N. 192 of 2002) | 0.0583% per annum
