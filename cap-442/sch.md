@@ -76,4 +76,6 @@ Item | Ordinance | Decision
 
 40. | Child Care Centres Regulations (Cap. 243 sub. leg.) | A decision of the Director of Social Welfare under regulation 4 refusing an application for inclusion in a register or removing the name of a person from a register. (Added L.N. 272 of 1997)
 
+41. | Prevention of Copyright Piracy Ordinance (Cap. 544) | A decision of the Commissioner of Customs and Excise under section 11 or 12 of the Ordinance. (Added 22 of 1998 s. 43)
+
 Time within which appeals are to be made An appeal under any item mentioned in this Schedule shall be made within 28 days after receipt of notice of the decision to which the appeal relates.

@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 29 of 1998 s. 2)
-
 Public Office | Ordinance or section of Ordinance for which specified
 
 Chief Justice | Bankruptcy Ordinance (Chapter 6), section 99A(7)(c). (L.N. 270 of 1979)
@@ -11,8 +9,6 @@ Chief Justice | Companies Ordinance (Chapter 32), section 222A(7)(c). (L.N. 270 
 Chief Justice | Evidence Ordinance (Chapter 8), sections 27(2) and 29A(2). (L.N. 229 of 1979)
 
 Chief Justice | Juvenile Offenders Ordinance (Chapter 226), section 3A(2). (L.N. 229 of 1979)
-
-Chief Secretary for Administration (L.N. 362 of 1997) | Abbot of the Order of Cistercians of the Strict Observance Incorporation Ordinance (Chapter 1107), section 6(2). (L.N. 368 of 1984; 1 of 2001 s. 8)
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Air Passenger Departure Tax Ordinance (Chapter 140). (L.N. 318 of 1984)
 
@@ -194,7 +190,7 @@ Commissioner of Customs and Excise | Import and Export (Registration) Regulation
 
 Commissioner of Customs and Excise | Industrial Training (Clothing Industry) Ordinance (Chapter 318). (L.N. 51 of 1984)
 
-Commissioner of Customs and Excise | Reserved Commodities Ordinance (Chapter 296), section 10. (L.N. 51 of 1984)
+Commissioner of Customs and Excise Commissioner of Customs and Excise | Prevention of Copyright Piracy Ordinance (Chapter 544). (22 of 1998 s. 41) Reserved Commodities Ordinance (Chapter 296), section 10. (L.N. 51 of 1984)
 
 Commissioner of Customs and Excise | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Chapter 296 subsidiary legislation), regulations 7A and 9(2). (L.N. 51 of 1984)
 

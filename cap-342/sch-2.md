@@ -50,8 +50,10 @@ Organized and Serious Crimes Ordinance (Cap. 455) (Added 82 of 1994 s. 35)
 
 Consumer Goods Safety Ordinance (Cap. 456) (Added 84 of 1994 s. 36)
 
-Mutual Legal Assistance in Criminal Matters Ordinance (Cap. 525) (Added 87 of 1997 ss. 1(2) & 36)
+Mutual Legal Assistance in Criminal Matters Ordinance (Cap. 525) (Added 87 of 1997 s. 36)
 
 Copyright Ordinance (Cap. 528) (Replaced 92 of 1997 s. 280)
+
+Prevention of Copyright Piracy Ordinance (Cap. 544) (Added 22 of 1998 s. 42)
 
 (Amended 13 of 1995 s. 2)
