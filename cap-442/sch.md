@@ -117,3 +117,5 @@ Item | Ordinance | Decision
 60. | Land (Miscellaneous Provisions) Ordinance (Cap. 28) | A decision of the Director of Highways under section 10M(13) relating to an assessment made under section 10M(1)(d), (g), (h) or (i). (Added 17 of 2003 s. 15)
 
 64. | Merchant Shipping (Security of Ships and Port Facilities) Ordinance (Cap. 582) | A decision of the Director of Marine under section 7(1)(a) or (c) or 8(2). (Added 13 of 2004 s. 18)
+
+65. | Merchant Shipping (Security of Ships and Port Facilities) Rules (Cap. 582 sub. leg. A) | A decision of the Director of Marine under rule 27(1). (Added L.N. 130 of 2004)
