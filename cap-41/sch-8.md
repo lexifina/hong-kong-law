@@ -28,8 +28,10 @@ ASSETS WHICH QUALIFY AS ASSETS IN HONG KONG
 
   - (h) debts that may be enforced only by legal proceedings in a Hong Kong court, other than amounts recoverable in respect of claims outstanding under reinsurance contracts ceded;
 
-    - (i)
+  - (i) an interest in a unit trust which is realizable in Hong Kong and in respect of which the governing law of the trust is expressly stated to be that of Hong Kong to the exclusion of all others. (Amended 5 of 2002 s. 407)
 
-      - an interest in a “unit trust” (單位信託), as defined in the Securities Ordinance (Cap. 333), which is realizable in Hong Kong and in respect of which the governing law of the trust is expressly stated to be that of Hong Kong to the exclusion of all others.
+- 2.
 
-- (Eighth Schedule Added 26 of 1994 s. 8)
+  - For the purpose of paragraph 1(i), “unit trust” (單位信託) means any arrangement made for the purpose, or having the effect, of providing facilities for the participation by persons, as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property whatsoever. (Added 5 of 2002 s. 407)
+
+(Eighth Schedule Added 26 of 1994 s. 8)

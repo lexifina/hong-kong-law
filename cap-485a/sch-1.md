@@ -12,7 +12,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (1) In this Schedule—
 
-      - “call warrant” (認購權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to purchase from the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the value of those ordinary shares over the exercise price without the holder of the warrant receiving those shares from the issuer; (L.N. 223 of 2000)
+      - “call warrant” (認購權證) means a security that is listed on an approved stock exchange or an approved futures exchange and that confers a right (but does not impose an obligation) on its holder to purchase from the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the value of those ordinary shares over the exercise price without the holder of the warrant receiving those shares from the issuer; (L.N. 223 of 2000; 5 of 2002 s. 407)
 
       - “collective investment scheme” (集體投資計劃) has the meaning assigned to it by the Securities and Futures Ordinance (Cap. 571); (29 of 2002 s. 14)
 
@@ -30,17 +30,17 @@ INVESTMENT OF SCHEME FUNDS
 
       - “index-tracking collective investment scheme” (緊貼指數集體投資計劃) means a collective investment scheme which has the sole investment objective of tracking a particular market index; (29 of 2002 s. 14)
 
-      - “put warrant” (認沽權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to sell to the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the exercise price over the value of those ordinary shares without the holder of the warrant delivering those shares to the issuer; (L.N. 223 of 2000)
+      - “put warrant” (認沽權證) means a security that is listed on an approved stock exchange or an approved futures exchange and that confers a right (but does not impose an obligation) on its holder to sell to the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the exercise price over the value of those ordinary shares without the holder of the warrant delivering those shares to the issuer; (L.N. 223 of 2000; 5 of 2002 s. 407)
 
       - “warrant” (認股權證) means a security that—
 
-        - (a) is listed on a recognized stock exchange and that confers a right (but does not impose an obligation) on its holder to subscribe for the ordinary shares of the issuer of the warrant on or before a specified date at a specified price or prices; or
+        - (a) is listed on an approved stock exchange and that confers a right (but does not impose an obligation) on its holder to subscribe for the ordinary shares of the issuer of the warrant on or before a specified date at a specified price or prices; or (5 of 2002 s. 407)
 
         - (b) is a call warrant; or
 
         - (c) is a put warrant,
 
-      - and the underlying ordinary shares to which the warrant may be converted are listed on a recognized stock exchange.
+      - and the underlying ordinary shares to which the warrant may be converted are listed on an approved stock exchange. (5 of 2002 s. 407)
 
     - (2) For the purposes of the definition of “effective exposure” in subsection (1), delta is the expected increase or decrease in the market value of the financial option contract given a 1 unit change in the value of the underlying investment.
 
@@ -86,7 +86,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (2) Securities held in respect of a constituent fund may be lent only if—
 
-      - (a) the lending is in respect of fully-paid up shares listed on a recognized stock exchange; and
+      - (a) the lending is in respect of fully-paid up shares listed on an approved stock exchange; and (5 of 2002 s. 407)
 
       - (b) the requirements in section 52 of this Regulation are complied with.
 
@@ -178,7 +178,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (c) a debt security that satisfies a minimum credit rating set by the Authority, based on the credit rating of the security as determined by a credit rating agency approved by the Authority for the purposes of this Schedule; or
 
-      - (d) a debt security listed on a recognized stock exchange, being a security issued by, or guaranteed by, a company or corporation whose shares are listed on that exchange or another recognized stock exchange. (L.N. 223 of 2000; 29 of 2002 s. 14)
+      - (d) a debt security listed on an approved stock exchange, being a security issued by, or guaranteed by, a company or corporation whose shares are listed on that exchange or another recognized stock exchange. (L.N. 223 of 2000; 29 of 2002 s. 14; 5 of 2002 s. 407)
 
     - (3) Section 2 of this Schedule does not apply in relation to a debt security of a kind referred to in subsection (2)(a) or (b) and the following provisions apply instead—
 
@@ -196,17 +196,17 @@ INVESTMENT OF SCHEME FUNDS
 
     - (1) The funds of a constituent fund may be invested in—
 
-      - (a) fully-paid up shares listed on a recognized stock exchange other than the shares of a company which is a collective investment scheme; or
+      - (a) fully-paid up shares listed on an approved stock exchange other than the shares of a company which is a collective investment scheme; or (5 of 2002 s. 407)
 
       - (b) an index-tracking collective investment scheme approved by the Authority for the purposes of section 6A of this Schedule. (29 of 2002 s. 14)
 
     - (2) Not more than 10 per cent of the funds of a constituent fund may be invested in the following—
 
-      - (a) shares listed on a stock exchange that is not a recognized stock exchange;
+      - (a) shares listed on a stock exchange that is not an approved stock exchange;
 
-      - (b) securities of a kind approved by the Authority other than shares listed on a recognized stock exchange;
+      - (b) securities of a kind approved by the Authority other than shares listed on an approved stock exchange;
 
-      - (c) an authorized unit trust or authorized mutual fund of a kind to which Part IV of this Schedule does not apply but which is approved by the Authority for the purposes of this Part.
+      - (c) an authorized unit trust or authorized mutual fund of a kind to which Part IV of this Schedule does not apply but which is approved by the Authority for the purposes of this Part. (5 of 2002 s. 407)
 
   - 9.
 
@@ -214,7 +214,7 @@ INVESTMENT OF SCHEME FUNDS
 
   - The funds of a constituent fund may be invested in—
 
-    - (a) a convertible debt security listed on a recognized stock exchange and convertible to shares listed on that exchange or another recognized stock exchange; or (29 of 2002 s. 14)
+    - (a) a convertible debt security listed on an approved stock exchange and convertible to shares listed on that exchange or another recognized stock exchange; or ( 5 of 2002 s. 407; 29 of 2002 s. 14)
 
     - (b) a convertible debt security that satisfies the minimum credit rating requirements for a debt security.
 
@@ -296,7 +296,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (a) are of a kind to which section 7(2)(d), 8(1) or 9(a) of this Schedule applies; and
 
-      - (b) are to be listed on a recognized stock exchange.
+      - (b) are to be listed on an approved stock exchange. (5 of 2002 s. 407)
 
     - (2) The subscription for an offer of securities under this section may be undertaken before the offer is made to the public.
 
@@ -320,9 +320,9 @@ INVESTMENT OF SCHEME FUNDS
 
         - (ii) the effective exposure of the fund in financial futures contracts and financial option contracts as a result of the acquisition of the contract does not exceed 10 per cent of the market value of the fund.
 
-    - (2) A financial futures contract must not be acquired for a constituent fund unless it is listed on a recognized futures exchange.
+    - (2) A financial futures contract must not be acquired for a constituent fund unless it is listed on an approved futures exchange. (5 of 2002 s. 407)
 
-    - (3) A financial option contract must not be acquired for a constituent fund unless it is listed on a recognized futures exchange or a recognized stock exchange.
+    - (3) A financial option contract must not be acquired for a constituent fund unless it is listed on an approved futures exchange or an approved stock exchange. (5 of 2002 s. 407)
 
     - (4) A financial futures contract or a financial option contract may be acquired for the purposes of a constituent fund only if the approved trustee of the scheme and the investment manager appointed for the purposes of the fund have special qualifications approved or specified by the Authority for the purposes of this section.
 
@@ -382,11 +382,11 @@ INVESTMENT OF SCHEME FUNDS
 
           - (ii) the amounts of the principal to be repaid and the interest to be paid are not, directly or indirectly, affected by fluctuations in exchange rates for a foreign currency;
 
-        - (c) securities of a kind referred to in section 7(2)(d), 8(1) or 9(a) of this Schedule that are listed on the Unified Exchange;
+        - (c) securities of a kind referred to in section 7(2)(d), 8(1) or 9(a) of this Schedule that are listed on a recognized stock market; (5 of 2002 s. 407)
 
-        - (d) warrants of a kind referred to in section 10 of this Schedule that are listed on the Unified Exchange;
+        - (d) warrants of a kind referred to in section 10 of this Schedule that are listed on a recognized stock market; (5 of 2002 s. 407)
 
-        - (e) financial option contracts, of a kind referred to in section 14(3) of this Schedule that are traded on the Futures Exchange or the Unified Exchange with reference to underlying securities or an index of securities of a kind referred to in paragraph (c);
+        - (e) financial option contracts, of a kind referred to in section 14(3) of this Schedule that are traded on a recognized futures market or a recognized stock market with reference to underlying securities or an index of securities of a kind referred to in paragraph (c); (5 of 2002 s. 407)
 
         - (f) currency forward contracts of a kind referred to section 15(2) of this Schedule if the contracts are to buy Hong Kong dollars;
 
@@ -426,7 +426,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (2) A pooled investment fund in which funds are invested as referred to in subsection (1) must comply with the following requirements—
 
-      - (a) the fund must be authorized by the Securities and Futures Commission in accordance with the requirements relating to the investment arrangements within the meaning of the Protection of Investors Ordinance (Cap. 335) and approved by the Authority for the purposes of this Regulation;
+      - (a) the fund must be authorized by the Securities and Futures Commission in accordance with the requirements relating to collective investment schemes under Part IV of the Securities and Futures Ordinance (Cap. 571) and approved by the Authority for the purposes of this Regulation; (5 of 2002 s. 407)
 
       - (b) the bases for all charges (including investment management charges, initial charges, annual and other periodic fees, surrender charges, surrender penalties and other deductions that may apply to that fund) must be disclosed to the holders of interests in the fund;
 
@@ -474,4 +474,4 @@ INVESTMENT OF SCHEME FUNDS
 
     - (4) The underlying investments of an insurance policy of the same series must be kept in a separate pooled investment fund.
 
-    - (5) The insurer may act as the investment manager of the fund referred to in subsection (4) only if the insurer is registered as an investment adviser under the Securities Ordinance (Cap. 333).
+    - (5) The insurer may act as the investment manager of the fund referred to in subsection (4) only if the insurer is a corporation licensed to carry on, or an authorized financial institution registered for carrying on, a business in asset management under Part V of the Securities and Futures Ordinance (Cap. 571). (5 of 2002 s. 407)

@@ -112,7 +112,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (b) a voting controller who is—
 
-          - (i) the trustee or manager of any unit trust or mutual fund corporation authorized under section 15 of the Securities Ordinance (Cap. 333);
+          - (i) the trustee or manager of any unit trust or mutual fund authorized as a collective investment scheme under section 104 of the Securities and Futures Ordinance (Cap. 571); (Amended 5 of 2002 s. 407)
 
           - (ii) the trustee of a charitable scheme made by order of a court of competent jurisdiction;
 
@@ -486,7 +486,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - and confidentiality
 
-    - (1) A person is not obliged to comply with the requirements of a notice under section 9 if he is for the time being exempted by the Financial Secretary by notice in the Gazette from the operation of section 18 of the Securities (Disclosure of Interests) Ordinance (Cap. 396).
+    - (1) A person is not obliged to comply with the requirements of a notice under section 9 if he is for the time being exempted by the Financial Secretary by notice in the Gazette from the operation of section 329 of the Securities and Futures Ordinance (Cap. 571). (Amended 5 of 2002 s. 407)
 
     - (2) Where a corporation is required to give information under section 9 or 10, the corporation may take advantage of the benefit conferred by section 128(3) or 129(3) of the Companies Ordinance (Cap. 32), but where as a consequence of taking such advantage, any information is not given by the corporation, the fact of such omission shall be disclosed by the corporation.
 
@@ -850,7 +850,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - and confidentiality
 
-    - (1) A person is not obliged to comply with the requirements of a notice under section 23 if he is for the time being exempted by the Financial Secretary by notice in the Gazette from the operation of section 18 of the Securities (Disclosure of Interests) Ordinance (Cap. 396).
+    - (1) A person is not obliged to comply with the requirements of a notice under section 23 if he is for the time being exempted by the Financial Secretary by notice in the Gazette from the operation of section 329 of the Securities and Futures Ordinance (Cap. 571). (Amended 5 of 2002 s. 407)
 
     - (2) Where a corporation is required to give information under section 23 or 24, the corporation may take advantage of the benefit conferred by section 128(3) or 129(3) of the Companies Ordinance (Cap. 32), but where as a consequence of taking such advantage, any information is not given, the fact of such omission shall be disclosed by the corporation.
 

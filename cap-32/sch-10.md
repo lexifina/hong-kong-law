@@ -1,7 +1,5 @@
 # TENTH SCHEDULE ACCOUNTS
 
-(Adaptation amendments retroactively made - see 29 of 1998 s. 105)
-
 Preliminary
 
 - 1. Paragraphs 2 to 12 apply to the balance sheet and 13 to 17 to the profit and loss account, and are subject to the exceptions and modifications provided for by Part II in the case of a holding or subsidiary company and by Part III in the case of companies of the classes there mentioned; and this Schedule has effect in addition to the provisions of sections 161 to 161C of this Ordinance.
@@ -126,7 +124,7 @@ Preliminary
 
   - (2) Nothing in head (b) of sub-paragraph (1) shall be taken as requiring the amount of the goodwill, patents and trade marks to be stated otherwise than as a single item.
 
-  - (3) The heading showing the amount of the listed investments shall be subdivided, where necessary, to distinguish the investments as respects which there has, and those as respects which there has not, been granted a listing on the Unified Exchange. (Amended 6 of 1984 s. 259; 10 of 1987 s. 11)
+  - (3) The heading showing the amount of the listed investments shall be subdivided, where necessary, to distinguish the investments as respects which there has, and those as respects which there has not, been granted a listing on a recognized stock market. (Amended 6 of 1984 s. 259; 10 of 1987 s. 11; 5 of 2002 s. 407)
 
   - (4) In relation to each loan falling within head (d) of sub-paragraph 1) (other than a bank loan or overdraft), there shall be stated by way of note (if not otherwise stated) the terms on which it is repayable and the rate at which interest is payable thereon:
 
@@ -414,7 +412,7 @@ Preliminary
 
   - (a)
 
-    - the expression “listed investment” (上市投資) (means an investment as respects which there has been granted a listing on the Unified Exchange, or on any stock exchange of repute outside Hong Kong, and the expression “unlisted investment” (非上市投資) shall be construed accordingly; (Amended 6 of 1984 s. 259; 10 of 1987 s. 11)
+    - the expression “listed investment” (上市投資) (means an investment as respects which there has been granted a listing on a recognized stock market, or on any stock exchange of repute outside Hong Kong, and the expression “unlisted investment” (非上市投資) shall be construed accordingly; (Amended 6 of 1984 s. 259; 10 of 1987 s. 11; 5 of 2002 s. 407)
 
   - (b)
 

@@ -30,7 +30,11 @@ Proceedings before any of the following—
 
 - (l) the Municipal Services Appeals Board established under the Municipal Services Appeals Board Ordinance (Cap. 220); (Added L.N. 59 of 2000)
 
-- (m) the Insider Dealing Tribunal established under the Securities (Insider Dealing) Ordinance (Cap. 395); (Added L.N. 59 of 2000)
+- (m) the Insider Dealing Tribunal established under the Securities (Insider Dealing) Ordinance (Cap. 395) repealed under the Securities and Futures Ordinance (Cap. 571); (Added L.N. 59 of 2000. Amended 5 of 2002 s. 407)
+
+- (ma) the Securities and Futures Appeals Tribunal or the Market Misconduct Tribunal established under Part XI or XIII of the Securities and Futures Ordinance (Cap. 571); (Added 5 of 2002 s. 407)
+
+- (mb) any person arbitrating disputes in accordance with rules made under section 118(2) of the Securities and Futures Ordinance (Cap. 571); (Added 5 of 2002 s. 407)
 
 - (n) the Administrative Appeals Board established under the Administrative Appeals Board Ordinance (Cap. 442); (Added L.N. 59 of 2000)
 
@@ -70,7 +74,7 @@ Proceedings before any of the following—
 
 - (zf) the Registration of Persons Tribunal established under the Registration of Persons Ordinance (Cap. 177); (Added L.N. 59 of 2000)
 
-- (zg) the Hong Kong Special Administrative Region Passports Appeal Board established under the Hong Kong Special Administrative Region Passports (Appeal Board) Regulation (Cap. 539 sub. leg.); (Added L.N. 59 of 2000)
+- (zg) the Hong Kong Special Administrative Region Passports Appeal Board established under the Hong Kong Special Administrative Region Passports (Appeal Board) Regulation (Cap. 539 sub. leg. A); (Added L.N. 59 of 2000)
 
 - (zh) the Copyright Tribunal established under the Copyright Ordinance (Cap. 528); (Added L.N. 59 of 2000)
 
@@ -78,8 +82,6 @@ Proceedings before any of the following—
 
 - (zj) a board of inquiry established under the Labour Relations Ordinance (Cap. 55); (Added L.N. 59 of 2000)
 
-- (zk) the Securities and Futures Appeals Panel and a tribunal established under the Securities and Futures Commission Ordinance (Cap. 24); (Added L.N. 59 of 2000)
-
-- (zl) the Arbitration Panel established under the Leveraged Foreign Exchange Trading (Arbitration) Rules (Cap. 451 sub. leg.); (Added L.N. 59 of 2000)
+- (zk)-(zl) (Repealed 5 of 2002 s. 407)
 
 - (zm) a Solicitors Disciplinary Tribunal established under the Legal Practitioners Ordinance (Cap. 159). (Added L.N. 59 of 2000)

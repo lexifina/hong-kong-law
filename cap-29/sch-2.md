@@ -8,15 +8,17 @@ AUTHORIZED INVESTMENTS
 
   - (a) in the case of shares—
 
-    - (i) the shares are listed on the Unified Exchange or on a stock market specified in Schedule 2 to the Financial Resources Rules (Cap. 24 sub. leg.);
+    - (i) the shares are listed on a recognized stock market or specified stock exchange as these terms are defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Replaced 5 of 2002 s. 407)
 
     - (ii) the market capitalization of the company issuing the shares is not less than $10 billion ($10,000,000,000) or its equivalent in foreign currency; and
 
-    - (iii) the company has paid, in each of the 5 years immediately preceding the calendar year in which the investment is made, a dividend wholly in cash (except to the extent that any shareholder may have opted to accept it other than wholly in cash) on all the shares issued by the company, excluding any shares issued after the dividend was declared and any shares which by their terms of issue did not rank for the dividend in that year; (b) in the case of debentures, the security meets the credit rating as specified in the Table.
+    - (iii) the company has paid, in each of the 5 years immediately preceding the calendar year in which the investment is made, a dividend wholly in cash (except to the extent that any shareholder may have opted to accept it other than wholly in cash) on all the shares issued by the company, excluding any shares issued after the dividend was declared and any shares which by their terms of issue did not rank for the dividend in that year;
 
-- For the purposes of subparagraph (a)(iii) a company formed—
+  - (b) in the case of debentures, the security meets the credit rating as specified in the Table.
 
-  - (i) to take over the business of another company or other companies; or
+  - For the purposes of subparagraph (a)(iii) a company formed—
+
+    - (i) to take over the business of another company or other companies; or
 
     - (ii) to acquire the securities of, or control of, another company or other companies,
 
@@ -28,9 +30,9 @@ AUTHORIZED INVESTMENTS
 
   - (b) outside Hong Kong, the government, the central bank or an equivalent agency of a country which qualifies for the credit rating specified in the Table; or
 
-  - (c) any multilateral agency specified in Part III of the Schedule to the Protection of Investors Ordinance (Cap. 335) which qualifies for the credit rating specified in the Table.
+  - (c) any multilateral agency specified in Part 4 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571) which qualifies for the credit rating specified in the Table. (Amended 5 of 2002 s. 407)
 
-- 3. Any mutual fund corporation or unit trust authorized under section 15 of the Securities Ordinance (Cap. 333) for the purposes of that Ordinance.
+- 3. Any unit trust or mutual fund authorized as a collective investment scheme under section 104 of the Securities and Futures Ordinance (Cap. 571). (Replaced 5 of 2002 s. 407)
 
 - 4. Any deposit (as defined in section 2 of the Banking Ordinance (Cap. 155)) with an authorized institution.
 
@@ -38,17 +40,19 @@ AUTHORIZED INVESTMENTS
 
 - 6. First legal mortgages of any property, including an undivided share in property, which is situated in Hong Kong and held under a Government lease of which the unexpired term at the time of investment is not less than 50 years, excluding any term for which the lease can be renewed. (Amended 29 of 1998 s. 105)
 
-- 7. Any derivatives which are traded on a market listed in Schedule 5 to the Financial Resources Rules (Cap. 24 sub. leg.); except that an investment under this paragraph—
+- 7. Any derivatives which are traded on a recognized stock market, specified stock exchange, recognized futures market or specified futures exchange as these terms are defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); except that an investment under this paragraph—
 
   - (a) shall be made for hedging purposes only, that is to say, the derivatives acquired shall be of a type and specification suitable for reducing the impact on the trust fund of a diminution in the value of specific assets already held by the trust fund or which are to be acquired at the same time as the derivatives; and
 
-  - (b) shall not be made except in accordance with the written advice of an investment adviser (as defined in section 2 of the Securities Ordinance (Cap. 333)) or of a commodity trading adviser (as defined in section 2 of the Commodities Trading Ordinance (Cap. 250)) expressly obtained as to—
+  - (b) shall not be made except in accordance with the written advice of a corporation licensed to carry on, or an authorized financial institution registered for carrying on, a business in advising on securities, advising on futures contracts, advising on corporate finance or asset management under Part V of the Securities and Futures Ordinance (Cap. 571) expressly obtained as to—
 
     - (i) the nature and extent of the risk of diminution in the value of the assets in question, the type and specification of the derivatives suitable to reduce the impact of such diminution in value, and generally the strategy to be adopted in acquiring, holding and disposing of the derivatives;
 
     - (ii) the potential loss that could result from acquiring and holding the derivatives and the risk of such occurring; and
 
     - (iii) the nature and extent of the various risks of diminution in the value of the trust fund and the suitability of using derivatives to protect against those risks.
+
+- (Amended 5 of 2002 s. 407)
 
 - 8. In this Schedule—
 
@@ -84,18 +88,20 @@ AUTHORIZED INVESTMENTS
 
   - “derivative” (衍生工具) means any right in or to a financial contract or financial instrument the value of which is determined by reference to the value of or any fluctuation in the value of a share, index, rate of exchange or rate of interest either individually or in the aggregate;
 
-  - “exempted body” (豁免團體) means a body specified in Part IV or IVA of the Schedule to the Protection of Investors Ordinance (Cap. 335) but does not include any body listed in item 9 of Part IVA of that Schedule;
+  - “exempted body” (豁免團體) means a body specified in Part 3 of Schedule 4 to the Securities and Futures Ordinance (Cap. 571) but does not include a body referred to in item 11 of that Part; (Replaced 5 of 2002 s. 407)
 
   - “shares” (股份) means shares in the capital of a company and includes the stock or any part of the stock of a company;
 
-  - “Unified Exchange” (聯合交易所) has the meaning assigned to it by section 2(1) of the Stock Exchanges Unification Ordinance (Cap. 361). TABLE CREDIT RATINGS
+- (Amended 5 of 2002 s. 407)
 
-  - (a) | For long-term debt (one year or over)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | A3 A—
+- TABLE CREDIT RATINGS
 
-  - or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
+- (a) | For long-term debt (one year or over)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | A3 A—
 
-  - (b) | For short-term debt (less than one year)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | Prime-1 A-1
+- or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
 
-  - or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
+- (b) | For short-term debt (less than one year)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | Prime-1 A-1
+
+- or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
 
 - (Second Schedule replaced L.N. 177 of 1995)

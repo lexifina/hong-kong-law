@@ -10,7 +10,7 @@ To the Registrar of Companies
 
 I furnish the following particulars of a disqualification order made against a person as required by the Companies (Disqualification Orders) Regulation—
 
-- (1) Section of the Companies Ordinance (“CO”) or Securities (Insider Dealing) Ordinance (“SIDO”) under which the order was made+—
+- (1) Section of the Companies Ordinance (“CO”), the repealed Securities (Insider Dealing) Ordinance (“SIDO”) or the Securities and Futures Ordinance (“SFO”) under which the order was made+—
 
 - Section 168E of CO
 
@@ -28,62 +28,80 @@ I furnish the following particulars of a disqualification order made against a p
 
 - Section 24(1) of SIDO
 
+- Section 214(2)(d) of SFO
+
+- Section 257(1)(a) of SFO
+
+- Section 258(1) of SFO
+
+- Section 303(2)(a) of SFO
+
 - (2) Particulars of the person against whom the order was made—
 
-(a) if an individual
+  - (a) if an individual
 
-Forename (Note 2) _ * ( )
+  - Forename (Note 2) | * ( | )
 
-Surname (Note 3) _ * ( )
+  - Surname (Note 3) | * ( | )
 
-Usual residential _ address at the _ date of the _ order (Note 4) _
+  - Usual residential
 
-Hong Kong identity card No., if any (Note 5) _
+  - address at the date of the
 
-Number and issuing country _ of any passport (Note 6) _
+  - order (Note 4)
 
-- (b) if a body corporate
+  - Hong Kong identity card No., if any (Note 5)
 
-- Corporate name _ _
+  - Number and issuing country
 
-- Registered No. _
+  - of any passport (Note 6)
 
-- Address of registered _ or principal office _ in Hong Kong at the _ date of the order
+  - (b) if a body corporate
+
+  - Corporate name
+
+  - Registered No.
+
+  - Address of registered
+
+  - or principal office in Hong Kong at the
+
+  - date of the order
 
 - (3) Date on which the order was made—
 
 - Day | Month | Year
 
-- (4)
+- (4) Period of disqualification specified in the order—
 
-- Period of disqualification specified in the order—
+- Signed | Date
 
-- Signed _ Date _ Name _ Position _ Court++ _
+- Name | Position
 
-- + Please tick appropriate box
+- Court++
 
-- * Note 1
++ Please tick appropriate box
 
-- ++ Please state full name
+* Note 1
 
-- Notes 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included.
+++ Please state full name Notes 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included.
 
-  - 2.
+- 2.
 
-    - “Forename” includes a Christian or given name.
+  - “Forename” includes a Christian or given name.
 
-  - 3.
+- 3.
 
-    - “Surname” in the case of a person usually known by a title different from his surname, means that title.
+  - “Surname” in the case of a person usually known by a title different from his surname, means that title.
 
-  - 4.
+- 4.
 
-    - Usual residential address must be given. “Residential address” does not include an address at a hotel unless the person to whom it relates is stated to have no other permanent address nor does it include a post office box number unless coupled with a residential address.
+  - Usual residential address must be given. “Residential address” does not include an address at a hotel unless the person to whom it relates is stated to have no other permanent address nor does it include a post office box number unless coupled with a residential address.
 
-  - 5.
+- 5.
 
-    - “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”.
+  - “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”.
 
-  - 6. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
+- 6. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
 
-(46 of 2000 s. 40)
+(46 of 2000 s. 40; 5 of 2002 s. 407)

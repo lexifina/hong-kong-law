@@ -10,7 +10,7 @@ of a disqualification order Pursuant to section 168R
 
 To the Registrar of Companies
 
-I furnish the following particulars of the action taken by a court whereby a disqualification order made by this court under the Companies Ordinance or the Securities (Insider Dealing) Ordinance (Cap. 395) was varied or ceased to be in force—
+I furnish the following particulars of the action taken by a court whereby a disqualification order made by this court under the Companies Ordinance, the repealed Securities (Insider Dealing) Ordinance (Cap. 395) or the Securities and Futures Ordinance (Cap. 571) was varied or ceased to be in force—
 
 - (1) Date on which the disqualification order was made by this court—
 
@@ -20,19 +20,21 @@ I furnish the following particulars of the action taken by a court whereby a dis
 
   - (a) if an individual
 
-  - Forename (Note 2) _ * ( )
+  - Forename (Note 2) | * ( | )
 
-  - Surname (Note 3) _ * ( )
+  - Surname (Note 3) | * ( | )
 
-  - Hong Kong identity card No., if any (Note 4) _
+  - Hong Kong identity card No., if any (Note 4)
 
-  - Number and issuing country of any passport (Note 5) _ _
+  - Number and issuing country
+
+  - of any passport (Note 5)
 
   - (b) if a body corporate
 
-  - Corporate name _ _
+  - Corporate name
 
-  - Registered No. _
+  - Registered No.
 
 - (3) Name of court by which action was taken whereby the disqualification order was varied or ceased to be in force—
 
@@ -50,7 +52,11 @@ if (b), state period of disqualification now specified in the order (to run from
 
 - Day | Month | Year
 
-- Signed _ Date _ Name _ Position _ Court++ _
+- Signed | Date
+
+- Name | Position
+
+- Court++
 
 - * Note 1
 
@@ -74,4 +80,4 @@ if (b), state period of disqualification now specified in the order (to run from
 
   - 5. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
 
-(46 of 2000 s. 40)
+(46 of 2000 s. 40; 5 of 2002 s. 407)

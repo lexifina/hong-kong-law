@@ -82,8 +82,6 @@ Chief Secretary for Administration (L.N. 362 of 1997) | Tsung Tsin Mission of Ho
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Union Church Incorporation Ordinance (Chapter 1052), section 14(5). (L.N. 368 of 1984)
 
-Commissioner for Commodities Trading | Commodities Trading Ordinance (Chapter 250). (L.N. 27 of 1982)
-
 Commissioner for Labour | Employees’ Compensation Ordinance (Chapter 282). (L.N. 70 of 1970)
 
 Commissioner for Labour | Factories and Industrial Undertakings Ordinance (Chapter 59), section 7(4). (L.N. 145 of 1970)
@@ -91,8 +89,6 @@ Commissioner for Labour | Factories and Industrial Undertakings Ordinance (Chapt
 Commissioner for Labour | Factories and Industrial Undertakings Ordinance (Chapter 59), section 9A. (L.N. 220 of 1985)
 
 Commissioner for Labour | Pneumoconiosis (Compensation) Ordinance (Chapter 360). (L.N. 188 of 1981)
-
-Commissioner for Securities | Securities Ordinance (Chapter 333). (L.N. 27 of 1982)
 
 Commissioner for Transport | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 405 of 1990)
 
@@ -452,11 +448,11 @@ Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Roads (W
 
 Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407)
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999, L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40 and L.N. 158 of 2002. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Editorial Note: Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999, L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40 and L.N. 158 of 2002. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 

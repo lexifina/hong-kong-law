@@ -8,7 +8,7 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
   - (1) In this Schedule, unless the context otherwise requires—
 
-    - “actuary” (精算師) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg.);
+    - “actuary” (精算師) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
 
     - “associate” (有聯繫者) has the meaning given by Schedule 8 to the Ordinance;
 
@@ -24,13 +24,13 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
     - “investment manager” (投資經理), in relation to a scheme, means a person appointed by a trustee of the scheme to manage the investment of the assets of the scheme;
 
-    - “market value” (市值) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg.);
+    - “market value” (市值) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
 
     - “non-employer trustee” (非僱主受託人) has the same meaning as in section 25 of the relevant Ordinance;
 
     - “qualified director” (合資格董事), in relation to a company which is a trustee of a scheme, means a director of the company who satisfies the Authority that he has the skill, knowledge, experience and qualifications that are, in the opinion of the Authority, necessary for the successful operation of the scheme;
 
-    - “registered trust company” (註冊信託公司) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg.);
+    - “registered trust company” (註冊信託公司) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
 
     - “scheme” (計劃) means a relevant ORSO registered scheme to which an exemption certificate issued under section 16(1) of this Regulation relates.
 
@@ -68,9 +68,9 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
   - (1) On and after the relevant date, no person shall be appointed to be the investment manager of a scheme except an investment management company that—
 
-    - (a) is registered under the Securities Ordinance (Cap. 333) as an investment adviser; or
+    - (a) is a corporation licensed to carry on, or an authorized financial institution registered for carrying on, a business in asset management under Part V of the Securities and Futures Ordinance (Cap. 571); or (5 of 2002 s. 407)
 
-    - (b) is a company authorized by an authority recognized by the Authority to carry on business as an investment adviser under a law of a place outside Hong Kong.
+    - (b) is a company authorized by an authority recognized by the Authority to carry on under the law of a place outside Hong Kong the business referred to in paragraph (a). (5 of 2002 s. 407)
 
   - (2) Subsection (1) shall not of itself prejudice the efficacy of the appointment of the investment manager of a scheme made before the commencement of this section.
 

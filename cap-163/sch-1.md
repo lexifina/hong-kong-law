@@ -32,9 +32,9 @@
 
     - (b) in respect of which the Registrar has declared in writing that he is satisfied that it was established by one or more national governments with the object of financing, or guaranteeing the financing of, the export of a country’s goods or services.
 
-  - 10. A securities margin financier registered under the Securities Ordinance (Cap. 333). (Added 20 of 2000 s. 7)
+  - 10. A corporation licensed to carry on a business in securities margin financing under Part V of the Securities and Futures Ordinance (Cap. 571). (Replaced 5 of 2002 s. 407)
 
-  - 11. A dealer registered under the Securities Ordinance (Cap. 333) who, in the course of carrying on a business of dealing in securities, engages in securities margin financing as defined in that Ordinance. (Added 20 of 2000 s. 7)
+  - 11. A corporation licensed to carry on, or an authorized financial institution registered for carrying on, a business in dealing in securities under Part V of the Securities and Futures Ordinance (Cap. 571) who engages in securities margin financing in order to facilitate acquisitions or holdings of securities by the corporation or institution for its client. (Replaced 5 of 2002 s. 407)
 
 - PART 2 EXEMPTED LOANS
 
@@ -92,8 +92,8 @@
 
   - 14. A loan made to a company the shares or debentures of which are listed on—
 
-    - (a) the Unified Exchange within the meaning of the Stock Exchanges Unification Ordinance (Cap. 361); or
+    - (a) a recognized stock market as defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); or (Replaced 5 of 2002 s. 407)
 
-    - (b) any other stock market declared in writing, by the Securities and Futures Commission established under the Securities and Futures Commission Ordinance (Cap. 24), to be approved for the purposes of this paragraph. (Amended 10 of 1989 s. 65)
+    - (b) any other stock market declared in writing, by the Securities and Futures Commission referred to in section 3(1) of the Securities and Futures Ordinance (Cap. 571), to be approved for the purposes of this paragraph. (Amended 10 of 1989 s. 65; 5 of 2002 s. 407)
 
   - 15. A loan made to the subsidiary of a company referred to in paragraph 14. (Replaced 69 of 1988 s. 33)

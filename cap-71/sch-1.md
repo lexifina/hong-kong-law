@@ -18,9 +18,9 @@ SCOPE OF SECTIONS 7, 8, 9 AND 12
 
     - (ii) to its constitution or the rights or obligations of its corporators or members;
 
-  - (e) any contract so far as it relates to the creation or transfer of securities or of any right or interest in securities;
+  - (e) any contract so far as it relates to the creation or transfer of securities or of any right or interest in securities; (Amended 68 of 1992 s. 20)
 
-  - (f) any contract so far as it relates to a person specified in that contract being a participant within the meaning of section 2 of the Securities and Futures (Clearing Houses) Ordinance (Cap. 420), and includes any other contract entered into by that person— (Amended 62 of 1995 s. 12)
+  - (f) any contract so far as it relates to a person specified in that contract being a clearing participant within the meaning of section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571), and includes any other contract entered into by that person— (Amended 62 of 1995 s. 12; 5 of 2002 s. 407)
 
     - (i) which is required by that first-mentioned contract to be so entered into; and
 
@@ -42,6 +42,8 @@ SCOPE OF SECTIONS 7, 8, 9 AND 12
 
   - (b) makes no provision as to the means of carriage and does not exclude that means,
 
-- then sections 7(2), 8 and 9 do not, except in favour of a person dealing as consumer, apply to the contract as it operates in relation to the carriage of the goods by that means. 4. Section 7(1) and (2) does not apply to a contract of employment, except in favour of the employee.
+- then sections 7(2), 8 and 9 do not, except in favour of a person dealing as consumer, apply to the contract as it operates in relation to the carriage of the goods by that means.
 
-- [cf. 1977 c . 50 Sch. 1 U.K.]
+- 4. Section 7(1) and (2) does not apply to a contract of employment, except in favour of the employee.
+
+[cf. 1977 c. 50 Sch. 1 U.K.]
