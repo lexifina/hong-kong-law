@@ -1,0 +1,5 @@
+SOLICITORS (GROUP PRACTICE) RULES
+
+(Cap. 159, section 73)
+
+[1 February 2003] L.N. 17 of 2003
