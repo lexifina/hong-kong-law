@@ -180,4 +180,6 @@ Item | Periods | Rate of interest
 
 88. | On or after 1 June 1998 and before 1 September 1998 (L.N. 233 of 1998; L.N. 302 of 1998) | 8.28% per annum
 
-89. | On or after 1 September 1998 (L.N. 302 of 1998) | 8.04% per annum
+89. | On or after 1 September 1998 and before 1 December 1998 (L.N. 302 of 1998; L.N. 363 of 1998) | 8.04% per annum
+
+90. | On or after 1 December 1998 (L.N. 363 of 1998) | 8.16% per annum
