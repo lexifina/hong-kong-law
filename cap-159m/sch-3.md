@@ -152,7 +152,43 @@ EXCLUSIONS AND CONDITIONS
 
     - (b) Subject to sub-subparagraph (c) and to the limitation on the amount of the fund’s liability contained in paragraphs 2 and 3, if the indemnified unreasonably refuses to consent to or to accept any proposed settlement made by the Company or continues any legal proceedings in connection therewith the fund’s liability to provide Indemnity to the indemnified shall be limited to the amount for which the claim against the indemnified could have been so settled plus any related costs incurred up to the date of such refusal.
 
-    - (c) Neither the indemnified nor the fund is required to contest legal proceedings relating to a claim unless a Queen’s Counsel or Senior Counsel who has been mutually agreed on by the parties, or, failing agreement, a Queen’s Counsel or Senior Counsel who has been appointed by the President of the Society, has advised that the proceedings should be contested. (94 of 1997 s. 19)
+    - (c)
+
+      - (i) Where a difference or dispute arises between the indemnified and the Company regarding the contest or otherwise of actual or threatened legal proceedings relating to a claim, the difference or dispute shall be referred by the Claims Committee to a Senior Counsel (to be mutually agreed upon or failing agreement to be appointed by the President of the Society) for a determination whether the proceedings should be contested, and the Senior Counsel shall be instructed to certify whether or not he has found substantially in favour of the Company.
+
+      - (ii) The determination referred to in sub-sub-subparagraph (i) shall be binding on the indemnified and the Company and shall be conclusive between them.
+
+      - (iii) The Claims Committee shall make available to the indemnified a draft of the terms of the reference to the Senior Counsel, and the indemnified shall make available to the Claims Committee his comments, if any, on the draft within 7 days of the draft being made available to him.
+
+      - (iv) If the comments of the indemnified are given in accordance with sub-sub-subparagraph (iii), they shall be sent to the Senior Counsel.
+
+      - (v) Unless the Claims Committee otherwise agrees, it shall be a condition precedent to the making of a reference to the Senior Counsel that the indemnified deposits with the Company an amount fixed by the Claims Committee as security for the costs of the reference (in case costs have to be reimbursed by the indemnified under sub-sub-subparagraph (viii)) within 7 days of the Claims Committee requiring the indemnified to do so.
+
+      - (vi) If the indemnified fails to deposit the amount in accordance with sub-sub-subparagraph (v), he shall be bound by the decision of the Claims Committee in respect of the difference or dispute referred to in sub-sub-subparagraph (i).
+
+      - (vii) Subject to sub-sub-subparagraph (viii), the costs of the reference to the Senior Counsel shall be paid by the Company.
+
+      - (viii) If the Senior Counsel certifies that he has found substantially in favour of the Company, the indemnified shall reimburse the Company for the costs of the reference to the Senior Counsel paid by the Company in accordance with this subparagraph.
+
+      - (ix) Subject to sub-sub-subparagraph (x), where the costs of the reference are to be reimbursed by the indemnified, the amount referred to in sub-sub-subparagraph (v) may be applied by the Company in or towards reimbursement of those costs to the Company.
+
+      - (x)
+
+        - (A) If the amount deposited in accordance with sub-sub-subparagraph (v) is less than the amount payable by the indemnified in respect of the costs of the reference, the indemnified shall pay the balance to the Company within 7 days of the request made by the Company.
+
+        - (B) If there is any surplus after the payment of the costs of the reference by the indemnified, it shall be returned to the indemnified without interest.
+
+      - (xi) The balance mentioned in sub-sub-subparagraph (x)(A) shall be recoverable as a civil debt and shall carry simple interest at the judgment rate determined for the time being under section 49(1)(b) of the High Court Ordinance (Cap. 4) from the date of payment by the Company to the date of actual payment of the amount outstanding by the indemnified.
+
+      - (xii) If the Senior Counsel does not find substantially in favour of the Company, the amount referred to in sub-sub-subparagraph (v) shall be refunded by the Company to the indemnified without interest.
+
+      - (xiii) The Claims Committee may, in its sole discretion, extend or abridge any of the time limits specified under this sub-subparagraph (including the time limits mentioned in sub-sub-subparagraphs (iii) and (v)).
+
+      - (xiv)
+
+        - For the purpose of sub-sub-subparagraph (i), “contest” (爭辯) includes a contest in respect of the defence, prosecution, appeal or taking of interlocutory or any ancillary steps or procedures in legal proceedings to which a claim relates.
+
+      - (xv) For the purpose of this sub-subparagraph, costs of the reference to the Senior Counsel include fees of the Senior Counsel. (L.N. 266 of 1999)
 
   - (2) The indemnified shall procure that notice to the Company shall be given in writing as soon as practicable of—
 
