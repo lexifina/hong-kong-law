@@ -1,0 +1,5 @@
+ELECTION COMMITTEE (APPEALS) REGULATION
+
+(Cap. 569, section 46)
+
+[16 November 2001]
