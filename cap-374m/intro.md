@@ -1,0 +1,5 @@
+VARIATION OF SPEED LIMITS NOTICE
+
+(Cap. 374, section 40(2))
+
+[27 August 1984]
