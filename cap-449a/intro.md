@@ -1,0 +1,5 @@
+AMUSEMENT RIDES (SAFETY) (FEES) REGULATION
+
+(Cap. 449 section 48)
+
+[8 December 1994] L.N. 486 of 1994
