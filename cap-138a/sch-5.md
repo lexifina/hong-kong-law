@@ -18,7 +18,7 @@ INDICATION OF STATEMENT PRESCRIBED BY REGULATION 15 FOR THE PURPOSES OF SECTION 
 
 - 7. To be labelled with the words “Caution. This preparation should be administered only under medical supervision. The vapour is dangerous.” 「注意：此藥之蒸氣有危險，須經醫生指示，方可使用。」— Medicines made up ready for the internal or external treatment of human ailments and containing dyflos
 
-- 8. To be labelled with the words “Caution. This may cause drowsiness. If affected, do not drive or operate machinery.” 「注意：此藥可使人昏昏欲睡，服後如有此情形，不得駕駛或動用機械。」— Medicines made up ready for the internal treatment of human ailments containing any of the antihistamine substances (except Astemizole, Loratadine and Terfenadine), their salts or their compounds with any other substance (L.N. 262 of 1995)
+- 8. To be labelled with the words “Caution. This may cause drowsiness. If affected, do not drive or operate machinery.” 「注意：此藥可使人昏昏欲睡，服後如有此情形，不得駕駛或動用機械。」— Medicines made up ready for the internal treatment of human ailments containing any of the antihistamine substances (except Astemizole, Cetirizine, Fexofenadine, Loratadine and Terfenadine), their salts or their compounds with any other substance (L.N. 262 of 1995; L.N. 202 of 1999)
 
 - 9. To be labelled with the words “Caution. Not to be taken internally.” 「注意：忌食。」— Preparations for external use containing mercuric ammonium chlorides
 

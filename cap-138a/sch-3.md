@@ -12,9 +12,13 @@ VETERINARY SURGEON
 
 (L.N. 614 of 1997)
 
+Abciximab Acamprosate; its salts
+
 Acarbose; its salts
 
 Acebutolol; its salts
+
+Acemetacin; its salts
 
 Acetanilide; alkyl acetanilides
 
@@ -30,9 +34,13 @@ Acipimox; its salts
 
 Acitretin; its salts; its esters
 
+Adapalene; its salts; its esters
+
 Alclofenac; its complexes
 
 Alcuronium; its salts
+
+Aldesleukin
 
 Alendronic acid; its salts
 
@@ -108,6 +116,8 @@ Amsacrine; its salts
 
 Amylene hydrate
 
+Anastrozole; its salts
+
 Androgenic, oestrogenic and progestational substances, the following—
 
 Benzoestrol
@@ -126,6 +136,8 @@ Astemizole
 
 Doxylamine
 
+Fexofenadine
+
 Mebhydrolin
 
 Terfenadine
@@ -138,9 +150,9 @@ Apomorphine; its salts; its quaternary compounds; except substances containing l
 
 Aprindine; its salts
 
-Atellin
-
 Atenolol; its salts
+
+Atorvastatin; its salts Atovaquone
 
 Atracurium Besylate
 
@@ -159,6 +171,8 @@ Baclofen
 Bambuterol and its salts when contained in aerosol dispensers
 
 Barbituric acid; its salts; its derivatives; their salts; any compound with any substance falling within this item
+
+Basiliximab; its salts
 
 Befunolol; its salts
 
@@ -180,6 +194,8 @@ Bethanidine; its salts
 
 Bezafibrate
 
+Bicalutamide; its salts
+
 Biphenylacetic acid; its salts; its esters; except when contained in preparations intended for external use only
 
 N-[4,4-Bis(para-fluorophenyl)butyl] piperidine,4-substituted derivatives of; their salts
@@ -192,9 +208,13 @@ Botulinum toxin complexes
 
 Bretylium tosylate
 
+Brimonidine; its salts
+
 Bromocriptine; its salts
 
 Bromvaletone
+
+Broncho-Vaxom
 
 Brotizolam
 
@@ -224,6 +244,8 @@ Cabergoline; its salts
 
 Calcipotriol; its salts
 
+Candesartan; its salts; its esters; their salts
+
 Captodiamine; its salts
 
 Captopril
@@ -252,17 +274,21 @@ Carteolol; its salts
 
 Carvedilol; its salts
 
+Celecoxib; its salts
+
 Celiprolol; its salts
+
+Cerivastatin; its salts
 
 Chloral; its addition and its condensation products other than alphachloralose; any compound with any substance falling within this item, except when contained, in the form of chloral hydrate, in preparations intended for external application only
 
 Chloral; its addition and its condensation products other than alphachloralose; any compound with any substance falling within this item; except when contained, in the form of chloral hydrate, in preparations intended for external application only
 
-Chlordiazepoxide; its salts Chlormethiazole; its salts Chlormezanone
+Chlordiazepoxide; its salts Chlormethiazole; its salts Chlormezanone Chloroquine; its salts
 
 Chlorothiazide and other derivatives of benzo-1,2,4-thiadiazine-7-sulphonamide 1, 1-dioxide, whether hydrogenated or not; their salts
 
-Chlorphenoxamine; its salts Chlorphentermine; its salts Chlorpropamide; its salts Chlorprothixene and other derivatives of 9-methylenethiaxanthen; their salts Chlorthalidone and other derivatives of ortho-chlorobenzene sulphonamide Chlorzoxazone Chymopapain Cicletanine; its salts Cilazapril; its salts Cinepazide; its salts Ciprofloxacin; its salts; its esters Cisapride Cisplatin Citalopram; its salts Cladribine Clioquinol Clobazam Clodronic acid; its salts; its esters Clofibrate Clomiphene; its salts Clomipramine; its salts; its derivatives; their salts Clonidine; its salts Clorexolone Cloridarol Clorprenaline and its salts when contained in aerosol dispensers Clothiapine Colaspase Colchicum, alkaloids of, their salts Colfosceril; its salts Collagen, purified
+Chlorphenoxamine; its salts Chlorphentermine; its salts Chlorpropamide; its salts Chlorprothixene and other derivatives of 9-methylenethiaxanthen; their salts Chlorthalidone and other derivatives of ortho-chlorobenzene sulphonamide Chlorzoxazone Chymopapain Cicletanine; its salts Cidofovir; its salts Cilazapril; its salts Cinepazide; its salts Ciprofibrate; its salts Ciprofloxacin; its salts; its esters Cisapride Cisatracurium besylate Cisplatin Citalopram; its salts Cladribine Clioquinol Clobazam Clodronic acid; its salts; its esters Clofibrate Clomiphene; its salts Clomipramine; its salts; its derivatives; their salts Clonidine; its salts Clopidogrel; its salts Clorexolone Cloridarol Clorprenaline and its salts when contained in aerosol dispensers Clothiapine Colaspase Colchicum, alkaloids of, their salts Colfosceril; its salts Collagen, purified
 
 Contrast media, the following; their salts; and compound with any substance falling within this item; when contained in preparations for parenteral use—
 
@@ -298,6 +324,8 @@ Ioglycamic acid
 
 Iohexol
 
+Iomeprol
+
 Iopamidol
 
 Iopanoic acid
@@ -326,7 +354,7 @@ Propyliodone
 
 Tyropanoic acid
 
-Corticotrophins Corynebacterium parvum Cyclarbamate Cyclobenzaprine; its salts Cyclofenil Cyclosporin A Cytarabine; its salts Dacarbazine Deanol acetamidobenzoate Debrisoquine; its salts Dehydroemetine; its salts Demecarium bromide Desipramine; its salts
+Corticorelin; its salts Corticotrophins Corynebacterium parvum Cyclarbamate Cyclobenzaprine; its salts Cyclofenil Cyclosporin A Cytarabine; its salts Dacarbazine Deanol acetamidobenzoate Debrisoquine; its salts Dehydroemetine; its salts Demecarium bromide Desipramine; its salts
 
 Diazepam and other compounds containing the chemical structure of dihydro-1, 4-benzodiazepine substituted to any degree; their salts
 
@@ -336,7 +364,7 @@ Diclofenac; its salts; except when contained in preparations for external applic
 
 Dithienylallylamines; dithienylalkylallylamines; their salts; except diethylthiambutene, dimethylthiambutene and ethylmethylthiambutene
 
-Dobutamine; its salts Docetaxel; its salts Dopamine; its salts Dornase alfa Dorzolamide; its salts Dothiepin; its salts Doxapram; its salts Doxazosin; its salts Doxepin; its salts; its derivatives; their salts Droperidol Ecothiopate iodide Ectylurea Embutramide Emylcamate Enalapril; its salts Enalaprilat; its salts Enoxacin; its salts; its esters Enoximone Ephedrine; its optical isomers; their salts; when contained in aerosol dispensers Epoetin beta Esmolol; its salts Etafenone; its salts Ethacrynic acid; its salts Ethambutol; its salts Ethchlorvynol Ethinamate Ethionamide Ethoglucid Ethoheptazine; its salts Ethylnoradrenaline and its salts when contained in aerosol dispensers Etidronic acid; its salts Etodolac Etofibrate Etomidate; its salts Etoposide Etretinate Etryptamine; its salts Felodipine Fenbufen Fencamfamin; its salts Fenclofenac; its salts Fendiline; its salts Fenfluramine; its salts Fenofibrate Fenoprofen; its salts Fenoterol and its salts when contained in aerosol dispensers Fenoxazoline; its salts Fentiazac; its salts Feprazone Filgrastim Finasteride Flecainide; its salts Fleroxacin; its salts; its esters Fluanisone Fluconazole; its salts Flufenamic acid; its salts; its esters; their salts Flumazenil Fluorouracil; its derivatives Fluoxetine; its salts Flupenthixol; its salts Flurbiprofen Fluspirilene Flutamide Fluvastatin Fluvoxamine; its salts Formestane Formoterol and its salts when contained in aerosol dispensers Foscarnet Trisodium Hexahydrate Fosinopril; its salts Fotemustine; its salts Frusemide Gabapentin; its salts Gallamine; its salts; its quaternary compounds Gallopamil; its salts Ganciclovir; its salts Gemfibrozil Glibenclamide Glibornuride Gliclazide Glipizide Gliquidone Glutethimide; its salts Glymidine Goserelin; its salts Guanabenz; its salts Guanethidine; its salts Guanfacine; its salts Halofantrine; its salts
+Dobutamine; its salts Docetaxel; its salts Donepezil; its salts Dopamine; its salts Dornase alfa Dorzolamide; its salts Dothiepin; its salts Doxapram; its salts Doxazosin; its salts Doxepin; its salts; its derivatives; their salts Droperidol Ecothiopate iodide Ectylurea Embutramide Emylcamate Enalapril; its salts Enalaprilat; its salts Enoxacin; its salts; its esters Enoximone Entacapone; its salts Ephedrine; its optical isomers; their salts; when contained in aerosol dispensers Epoetin beta Esmolol; its salts Etafenone; its salts Ethacrynic acid; its salts Ethambutol; its salts Ethchlorvynol Ethinamate Ethionamide Ethoglucid Ethoheptazine; its salts Ethylnoradrenaline and its salts when contained in aerosol dispensers Etidronic acid; its salts Etodolac Etofibrate Etomidate; its salts Etoposide; its esters Etretinate Etryptamine; its salts Felodipine Fenbufen Fencamfamin; its salts Fenclofenac; its salts Fendiline; its salts Fenfluramine; its salts Fenofibrate Fenoprofen; its salts Fenoterol and its salts when contained in aerosol dispensers Fenoxazoline; its salts Fentiazac; its salts Feprazone Filgrastim Finasteride Flecainide; its salts Fleroxacin; its salts; its esters Fluanisone Fluconazole; its salts Flufenamic acid; its salts; its esters; their salts Flumazenil Flumethrin; its salts Fluorouracil; its derivatives Fluoxetine; its salts Flupenthixol; its salts Flurbiprofen Fluspirilene Flutamide Fluvastatin Fluvoxamine; its salts Formestane Formoterol and its salts when contained in aerosol dispensers Foscarnet Trisodium Hexahydrate Fosinopril; its salts Fotemustine; its salts Frusemide Gabapentin; its salts Gallamine; its salts; its quaternary compounds Gallopamil; its salts Ganciclovir; its salts Gemcitabine; its salts Gemfibrozil Glibenclamide Glibornuride Gliclazide Glimepiride; its salts Glipizide Gliquidone Glutethimide; its salts Glymidine Goserelin; its salts Grepafloxacin; its salts; its esters Guanabenz; its salts Guanethidine; its salts Guanfacine; its salts Halofantrine; its salts
 
 Halofuginone; its salts; except for incorporation in feed for chickens for fattening at levels not exceeding 3 parts per million
 
@@ -352,11 +380,11 @@ their salts; their acyl derivatives; their salts
 
 Hydroxy-N,N-dimethyltryptamines; their esters and ethers; any salt of any substance falling within this item
 
-Hydroxyphenamate Hydroxyurea Hydroxyzine; its salts Ifosfamide Iloprost; its salts Imipramine; its salts Indinavir; its salts Indomethacin; its salts Indoprofen; its salts Indoramin; its salts Inosine Interferons Iprindole; its salts Isoaminile; its salts Isoetharine; its salts
+Hydroxyphenamate Hydroxyurea Hydroxyzine; its salts Ibandronic acid; its salts Ifosfamide Iloprost; its salts Imidapril; its salts Imipramine; its salts Imiquimod; its salts Indinavir; its salts Indomethacin; its salts Indoprofen; its salts Indoramin; its salts Inosine Interferons Iprindole; its salts Irbesartan; its salts Irinotecan; its salts Isoaminile; its salts Isoetharine; its salts
 
 Isoniazid; its salts; its derivatives; their salts; any compound with any substance falling within this item
 
-Isoprenaline; its salts Isopyrin; its salts Isotretinoin Isoxicam; its salts Isradipine Itraconazole; its salts Ketamine; its salts Ketanserine; its salts Ketoconazole except when contained in preparations for external application only Ketophenylbutazone Ketoprofen; its salts Ketorolac; its salts; its esters Labetalol; its salts Lacidipine; its salts Lamotrigine; its salts Lansoprazole Leuprorelin; its salts Levallorphan; its salts Lidoflazine Lisinopril; its salts Lithium carbonate Lithium Sulphate Lomefloxacin; its salts; its esters Lomustine Lonazolac; its salts Loracarbef; its salts Lorcainide; its salts Losartan; its salts Lovastatin Loxapine; its salts Lysuride; its salts Mannomustine; its salts Maprotiline; its salts Mazindol Mebutamate Mecamylamine; its salts Meclobemide; its salts Meclofenamic acid; its salts Meclofenoxate; its salts Medigoxin Mefenamic acid; its salts; its esters; their salts Mefloquine; its salts Mefruside Mephenesin; its esters; their salts Mephenoxalone Mepirizole; its salts Meprobamate Mercaptopurine; its salts; its derivatives; their salts Meropenem; it salts
+Isoprenaline; its salts Isopyrin; its salts Isotretinoin Isoxicam; its salts Isradipine Itraconazole; its salts Ketamine; its salts Ketanserine; its salts Ketoconazole except when contained in preparations for external application only Ketophenylbutazone Ketoprofen; its salts Ketorolac; its salts; its esters Labetalol; its salts Lacidipine; its salts Lamivudine; its salts Lamotrigine; its salts Lanreotide; its salts Lansoprazole Letrozole Leuprorelin; its salts Levallorphan; its salts Lidoflazine Lisinopril; its salts Lithium carbonate Lithium Sulphate Lomefloxacin; its salts; its esters Lomustine Lonazolac; its salts Loracarbef; its salts Lorcainide; its salts Losartan; its salts Lovastatin Loxapine; its salts Lysuride; its salts Mangafodipir; its salts Mannomustine; its salts Maprotiline; its salts Mazindol Mebutamate Mecamylamine; its salts Meclobemide; its salts Meclofenamic acid; its salts Meclofenoxate; its salts Medigoxin Mefenamic acid; its salts; its esters; their salts Mefloquine; its salts Mefruside Meloxicam; its salts Mephenesin; its esters; their salts Mephenoxalone Mepirizole; its salts Meprobamate Mercaptopurine; its salts; its derivatives; their salts Meropenem; it salts
 
 Mescaline; its salts; other derivatives of phenethylamine formed by substitution in the aromatic ring; their salts
 
@@ -364,7 +392,7 @@ Mesocarb; its salts Metaraminol; its salts Metaxalone Metergoline Metformin; its
 
 alpha-Methylphenethylamine; beta-methylphenethylamine; alpha-ethylphene-thylamine; beta-ethylphenethylamine; their optical isomers; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except hydroxyamphetamine, methoxy-phenamine, phenylpropanolamine, pholedrine and N-substituted derivatives of ephedrine; any salt of any substance falling within this item
 
-Methylphenidate; its salts Methyprylone Metipranolol; its salts Metoclopramide; its salts Metolazone Metoprolol; its salts Mexiletine; its salts Mianserin; its salts Milrinone; its salts Minoxidil Mirtazapine; its salts Mitobronitol Mitopodozide; its salts Mitotane Mitoxantrone; its salts Mivacurium; its salts Mofebutazone; its salts Molgramostim Molindone; its salts Moracizine; its salts Mustine and any other N-substituted derivative of di-(2-chloroethyl) amine; their salts Muzolimine Nabumetone Nadolol; its salts Nafarelin; its salts Nalbuphine; its salts Nalorphine; its salts Naloxone; its salts Naltrexone; its salts alpha-Naphthylacetic acid; its salts Naproxen; its salts Nefopam; its salts Nicocodine; its salts Nifedipine Nifenazone Niflumic acid; its salts Nilvadipine Nimodipine Nitrendipine Nitromethaqualone; its salts Nomifensine; its salts Noramidopyrine methanesulphonate; its salts Norcodeine; its salts; its esters and ethers; their salts Norfloxacin; its salts; its esters Nortriptyline; its salts Octreotide; its salts Ofloxacin; its salts; its esters Olsalazine; its salts Omeprazole Ondansetron; its salts Opipramol; its salts; its derivatives; their salts Orciprenaline and its salts when contained in aerosol dispensers Orgotein Orphenadrine; its salts Ouabain Oxanamide Oxcarbazepine; its salts Oxprenolol; its salts Oxyfedrine; its salts Oxypertine Oxyphenbutazone Oxytocins Paclitaxel Pamidronate; its salts Pancuronium; its salts Pantoprazole; its salts Paraldehyde Paramethadione Pargyline; its salts Paroxetine; its salts Pefloxacin; its salts; its esters Pemoline; its salts Pempidine; its salts Penbutolol; its salts Penicillamine; its salts Pentazocine; its salts Pentolinium; its salts Pergolide; its salts Perindoprilat; its salts; its esters; their salts Phenacemide Phenacetin Phenaglycodol Phenbutrazate Phencyclidine; its salts Phenetidylphenacetin Phenformin; its salts Phenindione
+Methylphenidate; its salts Methyprylone Metipranolol; its salts Metoclopramide; its salts Metolazone Metoprolol; its salts Mexiletine; its salts Mianserin; its salts Mibefradil; its salts Milrinone; its salts Minoxidil Mirtazapine; its salts Mitobronitol Mitopodozide; its salts Mitotane Mitoxantrone; its salts Mivacurium; its salts Moexipril; its salts Mofebutazone; its salts Molgramostim Molindone; its salts Montelukast; its salts Moracizine; its salts Muromonab-CD3 Mustine and any other N-substituted derivative of di-(2-chloroethyl) amine; their salts Muzolimine Mycophenolic acid; its salts; its esters Nabumetone Nadolol; its salts Nafarelin; its salts Nalbuphine; its salts Nalorphine; its salts Naloxone; its salts Naltrexone; its salts alpha-Naphthylacetic acid; its salts Naproxen; its salts Naratriptan; its salts Nefazodone; its salts Nefopam; its salts Nevirapine; its salts Nicocodine; its salts Nifedipine Nifenazone Niflumic acid; its salts Nilvadipine Nimesulide; its salts Nimodipine Nisoldipine Nitrendipine Nitromethaqualone; its salts Nomifensine; its salts Noramidopyrine methanesulphonate; its salts Norcodeine; its salts; its esters and ethers; their salts Norfloxacin; its salts; its esters Nortriptyline; its salts Octreotide; its salts Ofloxacin; its salts; its esters Olanzapine; its salts Olsalazine; its salts Omeprazole Ondansetron; its salts Opipramol; its salts; its derivatives; their salts Orciprenaline and its salts when contained in aerosol dispensers Orgotein Orlistat; its salts Orphenadrine; its salts Ouabain Oxanamide Oxcarbazepine; its salts Oxprenolol; its salts Oxyfedrine; its salts Oxypertine Oxyphenbutazone Oxytocins Paclitaxel Pamidronate; its salts Pancuronium; its salts Pantoprazole; its salts Paraldehyde Paramethadione Pargyline; its salts Paroxetine; its salts Pefloxacin; its salts; its esters Pemoline; its salts Pempidine; its salts Penbutolol; its salts Penciclovir; its salts Penicillamine; its salts Pentazocine; its salts Pentolinium; its salts Pergolide; its salts Perindoprilat; its salts; its esters; their salts Phenacemide Phenacetin Phenaglycodol Phenbutrazate Phencyclidine; its salts Phenetidylphenacetin Phenformin; its salts Phenindione
 
 Phenothiazine; its salts; its derivatives (except dimethoxanate and promethazine); their salts (except salts of dimethoxanate and promethazine); any compound with any substance falling within this item
 
@@ -372,7 +400,7 @@ Phenoxybenzamine; its salts Phenprenazone Phenprobamate Phentolamine; its salts 
 
 Pituitary gland, the active principles of, other than corticotrophins, oxytocins and vasopressins, except when contained in inhalants or in preparations intended for external application only
 
-Polymethylenebistrimethylammonium salts Pravastatin; its salts; its esters Prazosin; its salts Primidone Prindolol; its salts Probucol Procainamide; its salts Procarbazine; its salts Procaterol and its salts when contained in aerosol dispensers Proglumetacin; its salts Promoxolane Propafenone; its salts Propanidid Propofol Propranolol; its salts; its derivatives; their salts Propylhexedrine and its salts, except when contained in inhalers Proquazone Prostaglandins, the following and their derivatives—
+Polymethylenebistrimethylammonium salts Pramipexole; its salts Pravastatin; its salts; its esters Prazosin; its salts Primidone Prindolol; its salts Probucol Procainamide; its salts Procarbazine; its salts Procaterol and its salts when contained in aerosol dispensers Proglumetacin; its salts Promoxolane Propafenone; its salts Propanidid Propofol Propranolol; its salts; its derivatives; their salts Propylhexedrine and its salts, except when contained in inhalers Proquazone Prostaglandins, the following and their derivatives—
 
 Alprostadil
 
@@ -380,23 +408,25 @@ Dinoprost
 
 Dinoprostone
 
+Latanoprost
+
 Misoprostol
 
 their salts; their esters
 
-Prothionamide Prothipendyl; its salts Protriptyline; its salts; its derivatives; their salts Pyrazinamide Pyrithyldione Quinagolide; its salts Quinapril; its salts Quinethazone Quinidine; its salts
+Prothionamide Prothipendyl; its salts Protriptyline; its salts; its derivatives; their salts Pyrazinamide Pyrithyldione Quetiapine; its salts Quinagolide; its salts Quinapril; its salts Quinethazone Quinidine; its salts
 
 Quinine; its salts; its derivatives; their salts; except in preparations containing less than 10% of quinine, its salts, its derivatives or their salts
 
-Ramipril; its salts Rauwolfia, alkaloids of; their salts; derivatives of the alkaloids of rauwolfia; their salts Recombinant human erythropoietin Remoxipride; its salts Reproterol and its salts when contained in aerosol dispensers Rescinnamine Rimiterol and its salts when contained in aerosol dispensers Risperidone Ritodrine; its salts Ritonavir; its salts Rocuronium; its salts Rosoxacin; its salts Salbutamol and its salts except when contained in aerosol dispensers Salmeterol and its salts when contained in aerosol dispensers Sertraline; its salts Sildenafil; its salts Simvastatin Sodium nitroprusside Sotalol; its salts Sparfloxacin; its salts; its esters Sparteine; its salts Spironolactone Stavudine; its salts Strophanthus, glycosides of Styramate Sulindac Sulphinpyrazone Sulphonal; alkyl sulphonals Sulpiride Sultopride Sumatriptan; its salts
+Rabeprazole; its salts Raloxifene; its salts Ramipril; its salts Rauwolfia, alkaloids of; their salts; derivatives of the alkaloids of rauwolfia; their salts Reboxetine; its salts Recombinant human erythropoietin Remifentanil; its salts Remoxipride; its salts Repaglinide; its salts; its esters Reproterol and its salts when contained in aerosol dispensers Rescinnamine Reteplase Reviparin; its salts Riluzole; its salts Rimiterol and its salts when contained in aerosol dispensers Risperidone Ritodrine; its salts Ritonavir; its salts Rivastigmine; its salts Rocuronium; its salts Ropinirole; its salts Ropivacaine; its salts Rosoxacin; its salts Salbutamol and its salts except when contained in aerosol dispensers Salmeterol and its salts when contained in aerosol dispensers Saquinavir; its salts Sertraline; its salts Sildenafil; its salts Simvastatin Sodium nitroprusside Sotalol; its salts Sparfloxacin; its salts; its esters Sparteine; its salts Spironolactone Stavudine; its salts Strophanthus, glycosides of Styramate Sulindac Sulphinpyrazone Sulphonal; alkyl sulphonals Sulpiride Sultopride Sumatriptan; its salts
 
-Suprarenal gland, the active principles of, except adrenaline and noradrenaline (other than when contained in aerosol dispensers); their salts; except salts of adrenaline (other than when contained in aerosol dispensers); their derivatives; their salts; except hydrocortisone and its salts when contained in preparations intended for external application only at not more than 1%
+Suprarenal gland, the active principles of, except adrenaline and noradrenaline (other than when contained in aerosol dispensers); their salts; except salts of adrenaline (other than when contained in aerosol dispensers); their derivatives; their salts; except hydrocortisone and its salts when contained in preparations intended for external application only at not more than 1% and except beclomethasone and its salts when contained in aerosol dispensers
 
 Sutoprofen; its salts
 
-Suxamethonium; its salts Syrosingopine Tacrine; its salts Tamoxifen; its salts Teniposide Tenoxicam Terazosin; its salts Terbinafine; its salts; except when contained in preparations for external application only Terbutaline and its salts when contained in aerosol dispensers Terodiline; its salts Tertatolol; its salts Tetrabenazine; its salts Tetracosatrin; its salts Thalidomide; its salts Theofibrate Thiacetazone Thiocarlide; its salts Thiotepa Thyroid gland, the active principles of; their salts Ticlopidine; its salts Tiletamine; its salts Tilidate; its salts Timolol; its salts Tinoridine; its salts Tizanidine; its salts Tocainide; its salts Todralazine; its salts Tofenacin; its salts Tolazamide Tolbutamide Tolfenamic acid; its salts Tolmetin; its salts Tolperisone; its salts para-Tolylmethylcarbinol nicotinic acid ester Torasemide Tramadol; its salts Trandolapril; its salts Tranylcypromine; its salts Trazodone; its salts Tretamine; its salts Tretinoin Triamterene; its salts Triaziquone Tribromoethyl alcohol 2,2,2-Trichloroethyl alcohol, esters of; their salts Trilostane Trimetaphan; its salts Trimetazidine; its salts Trimethadione Trimetozine Trimipramine; its salts Trioxsalen Triptorelin; its salts Tropisetron; its salts Tulobuterol and its salts when contained in aerosol dispensers Tybamate Urapidil; its salts Urethane Valnoctamide Valproic acid; its salts; its esters Vasopressins Vencuronium; its salts Venlafaxine; its salts Verapamil; its salts Vigabatrin Viloxazine; its salts Vinca, alkaloids of Vindesine; its salts Warfarin salts Xamoterol; its salts Zalcitabine; its salts Zidovudine Zimelidine; its salts Zipeprol; its salts Zolazepam; its salts Zolpidem; its salts Zomepirac; its salts Zopiclone Zoxazolamine; its salts
+Suxamethonium; its salts Syrosingopine Tacrine; its salts Tacrolimus Tamoxifen; its salts Tazarotene; its salts Teniposide Tenoxicam Terazosin; its salts Terbinafine; its salts; except when contained in preparations for external application only Terbutaline and its salts when contained in aerosol dispensers Terodiline; its salts Tertatolol; its salts Tetrabenazine; its salts Tetracosatrin; its salts Thalidomide; its salts Theofibrate Thiacetazone Thiocarlide; its salts Thiotepa Thyroid gland, the active principles of; their salts Ticlopidine; its salts Tiletamine; its salts Tilidate; its salts Tiludronic acid; its salts Timolol; its salts Tinoridine; its salts Tirofiban; its salts Tizanidine; its salts Tocainide; its salts Todralazine; its salts Tofenacin; its salts Tolazamide Tolbutamide Tolcapone; its salts Tolfenamic acid; its salts Tolmetin; its salts Tolperisone; its salts Tolterodine; its salts para-Tolylmethylcarbinol nicotinic acid ester Topiramate; its salts Topotecan; its salts Torasemide Tramadol; its salts Trandolapril; its salts Tranylcypromine; its salts Trazodone; its salts Tretamine; its salts Tretinoin Triamterene; its salts Triaziquone Tribromoethyl alcohol 2,2,2-Trichloroethyl alcohol, esters of; their salts Trilostane Trimetaphan; its salts Trimetazidine; its salts Trimethadione Trimetozine Trimetrexate; its salts Trimipramine; its salts Trioxsalen Triptorelin; its salts Tropisetron; its salts Trovafloxacin; its salts; its derivatives; their salts Tulobuterol and its salts when contained in aerosol dispensers Tybamate Urapidil; its salts Urethane Valnoctamide Valproic acid; its salts; its esters Valsartan; its salts Vasopressins Vencuronium; its salts Venlafaxine; its salts Verapamil; its salts Vigabatrin Viloxazine; its salts Vinca, alkaloids of Vindesine; its salts Vinorelbine; its salts Warfarin salts Xamoterol; its salts Xylazine; its salts Zafirlukast Zalcitabine; its salts Zidovudine Zimelidine; its salts Zipeprol; its salts Zolazepam; its salts Zolmitriptan; its salts Zolpidem; its salts Zomepirac; its salts Zopiclone Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999)
 
 B
 
