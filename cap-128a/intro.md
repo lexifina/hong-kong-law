@@ -1,0 +1,5 @@
+LAND REGISTRATION REGULATIONS
+
+(Cap. 128, section 28)
+
+[8 June 1981]
