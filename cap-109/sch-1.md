@@ -12,7 +12,9 @@
 
 L.N. 90 of 1999 and Ord. No. 44 of 1999 amended L.N. 288 of 1998 so as to maintain the duty on light diesel oil at the reduced rate of $2.00 per litre until 31 March 2000.
 
-L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as amended by Section 8 of Ord. No. 44 of 1999) so as to maintain the duty on light diesel oil at the reduced rate of $2.00 per litre until 31 December 2000.)
+L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as amended by Section 8 of Ord. No. 44 of 1999) so as to maintain the duty on light diesel oil at the reduced rate of $2.00 per litre until 31 December 2000.
+
+With effect from 1 January 2001, the duty payable on light diesel oil is reinstated as $2.89 per litre according to the twice- amended L.N. 288 of 1998.)
 
 [ss. 4(1), (2) & 53(2)] (Amended 46 of 1996 s. 32)
 
@@ -62,7 +64,7 @@ L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as ame
 
   - (a) | aircraft spirit . | 6.51
 
-  - (b) | light diesel oil . | 2.00
+  - (b) | light diesel oil . | 2.89
 
   - (c) | motor spirit (leaded petrol) (Added 2 of 1991 s. 10) . | 6.82
 
