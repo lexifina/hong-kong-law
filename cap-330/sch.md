@@ -8,38 +8,38 @@ Item | Class of motor vehicle | Rate of tax %
 
 1. | Private cars—
 
-(a) where the taxable value of the private car does not exceed $100,000 | 40
+(a) on the first $150,000 . | 35
 
-(b) where the taxable value of the private car exceeds $100,000 but does not exceed $200,000 . | 45
+(b) on the next $150,000 . | 65
 
-(c) where the taxable value of the private car exceeds $200,000 but does not exceed $300,000 . | 50
+(c) on the next $200,000 . | 85
 
-(d) where the taxable value of the private car exceeds $300,000 . | 60
+(d) on the remainder . | 100
 
-2. | Taxis . | 4
+2. | Taxis . | 3.7
 
-3. | Public light buses and private light buses . | 4
+3. | Public light buses and private light buses . | 3.7
 
-4. | Public buses, except buses which are to be used solely in connection with operating a public bus service under the Public Bus Services Ordinance (Cap. 230) or under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area as defined in that Ordinance . | 4
+4. | Public buses, except buses which are to be used solely in connection with operating a public bus service under the Public Bus Services Ordinance (Cap. 230) or under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area as defined in that Ordinance . | 3.7
 
-5. | Private buses, except buses which are to be used solely in connection with the training of drivers for the purposes of operating a public bus service under the Public Bus Services Ordinance (Cap. 230) or within the North-west Transit Service Area under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) . | 4
+5. | Private buses, except buses which are to be used solely in connection with the training of drivers for the purposes of operating a public bus service under the Public Bus Services Ordinance (Cap. 230) or within the North-west Transit Service Area under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) . | 3.7
 
-6. | Motor cycles . | 40
+6. | Motor cycles . | 35
 
-7. | Motor tricycles . | 40
+7. | Motor tricycles . | 35
 
-8. | (a) Goods vehicles, other than van-type light goods vehicles . | 18
+8. | (a) Goods vehicles, other than van-type light goods vehicles . | 15
 
 (b) Van-type light goods vehicle not exceeding 1.9 tonnes permitted gross vehicle weight—
 
-(i) where the taxable value of the van-type light goods vehicle does not exceed $100,000 . | 40
+(i) on the first $150,000 . | 35
 
-(ii) where the taxable value of the van-type light goods vehicle exceeds $100,000 but does not exceed $200,000 . | 45
+(ii) on the next $150,000 . | 65
 
-(iii) where the taxable value of the van-type light goods vehicle exceeds $200,000 . | 50
+(iii) on the remainder . | 85
 
-(c) Van-type light goods vehicle exceeding 1.9 tonnes permitted gross vehicle weight . | 20
+(c) Van-type light goods vehicle exceeding 1.9 tonnes permitted gross vehicle weight . | 17
 
-9. | Special purpose vehicles. | 4
+9. | Special purpose vehicles . | 3.7
 
-(Replaced 43 of 1994 s. 6)
+(Schedule replaced L.N. 59 of 2003 and 22 of 2003 s. 11)
