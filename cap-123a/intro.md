@@ -1,0 +1,5 @@
+BUILDING (ADMINISTRATION) REGULATIONS
+
+(Cap. 123, section 38)
+
+[1 January 1960]
