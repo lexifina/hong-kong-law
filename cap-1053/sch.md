@@ -238,6 +238,8 @@ ARRANGEMENT OF STATUTES
 
     - Master of Financial Engineering
 
+    - Master of Geographic Information Systems
+
     - Master of Housing Management
 
     - Master of International and Public Affairs
@@ -252,6 +254,8 @@ ARRANGEMENT OF STATUTES
 
     - Master of Medical Sciences
 
+    - Master of Nursing
+
     - Master of Nursing in Advanced Practice
 
     - Master of Orthodontics
@@ -259,6 +263,8 @@ ARRANGEMENT OF STATUTES
     - Master of Philosophy
 
     - Master of Public Administration
+
+    - Master of Public Administration (International)
 
     - Master of Research in Medicine
 
@@ -283,6 +289,8 @@ ARRANGEMENT OF STATUTES
     - Master of Science in Global Business Management and E-Commerce
 
     - Master of Science in Information Technology in Education
+
+    - Master of Science in Interdisciplinary Design and Management
 
     - Master of Science in Real Estate
 
@@ -330,7 +338,7 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences honoris causa
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003)
 
   - 2. The University may award any of the following diplomas and certificates—
 
@@ -358,11 +366,15 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Building Services
 
+    - Postgraduate Diploma in Clinical Research Methodology
+
     - Postgraduate Diploma in Commercial Law
 
     - Postgraduate Diploma in Common Law
 
     - Postgraduate Diploma in Community Geriatrics
+
+    - Postgraduate Diploma in Community Psychological Medicine
 
     - Postgraduate Diploma in Conservation
 
@@ -374,15 +386,23 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in General Dental Surgery
 
+    - Postgraduate Diploma in Geographic Information Systems
+
     - Postgraduate Diploma in Infectious Diseases
 
     - Postgraduate Diploma in Information Technology Law
 
     - Postgraduate Diploma in International Affairs
 
+    - Postgraduate Diploma in International Arbitration and Dispute Settlement
+
+    - Postgraduate Diploma in Journalism
+
     - Postgraduate Diploma in Laws
 
     - Postgraduate Diploma in the Law of the People’s Republic of China
+
+    - Postgraduate Diploma in Nursing
 
     - Postgraduate Diploma in Public Law
 
@@ -414,11 +434,13 @@ ARRANGEMENT OF STATUTES
 
     - Hong Kong Common Professional Examination Certificate in Laws
 
+    - Postgraduate Certificate in Clinical Research Methodology
+
     - Postgraduate Certificate in Education
 
     - Postgraduate Certificate in Laws
 
-    - Postgraduate Certificate in Psychology (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002)
+    - Postgraduate Certificate in Psychology (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
