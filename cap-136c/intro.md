@@ -1,0 +1,5 @@
+MENTAL HEALTH REVIEW TRIBUNAL RULES
+
+(Cap. 136, section 59G)
+
+[29 December 1989] L.N. 420 of 1989
