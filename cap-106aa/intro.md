@@ -1,0 +1,7 @@
+TELECOMMUNICATIONS (LEVEL OF SPECTRUM UTILIZATION FEES) (SECOND GENERATION MOBILE SERVICES) REGULATION
+
+(Made under section 32I of the Telecommunications
+
+Ordinance (Cap. 106))
+
+[3 February 2005]
