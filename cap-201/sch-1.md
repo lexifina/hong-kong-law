@@ -200,4 +200,10 @@ PUBLIC BODIES
 
 - 97. Hong Kong Science and Technology Parks Corporation. (Added 5 of 2001 s. 40)
 
-- 98. The Ombudsman. (Added 30 of 2001 s. 24) (Replaced L.N. 272 of 1974)
+- 98. The Ombudsman. (Added 30 of 2001 s. 24)
+
+- * 99. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002) (Replaced L.N. 272 of 1974)
+
+Editorial Note:
+
+* The Investor Compensation Company Limited has been recognised as an investor compensation company (please see G.N. 1220 of 2003) .
