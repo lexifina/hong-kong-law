@@ -16,8 +16,6 @@ Causeway Bay Market | 銅鑼灣街市 (78 of 1999 s. 7)
 
 Centre Street Market | 正街街市 (78 of 1999 s. 7)
 
-Cha Kwo Ling Market | 茶菓嶺街市 (78 of 1999 s. 7)
-
 Chai Wan Kok Cooked Food Market | 柴灣角熟食市場 (L.N. 242 of 1979)
 
 Chai Wan Market | 柴灣街市 (L.N. 44 of 2001)
@@ -160,8 +158,6 @@ Tai O (Lantau) Market | 大澳街市
 
 Tai Po Hui Market | 大埔墟街市 (L.N. 118 of 2004)
 
-Tai Po Temporary Market | 大埔臨時街市 (L.N. 106 of 1983)
-
 Tai Shing Street Market | 大成街街市 (78 of 1999 s. 7)
 
 Tai Tong Road Cooked Food Market | 大棠道熟食市場 (L.N. 280 of 1985)
@@ -214,4 +210,4 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005)
