@@ -1,0 +1,5 @@
+FUGITIVE OFFENDERS (NEW ZEALAND) ORDER
+
+(Cap. 503, section 3)
+
+[23 October 1998] L.N. 339 of 1998
