@@ -4,7 +4,7 @@
 
 - 1. The ground floor, second to sixth floors, and eighth to eleventh floors (excluding the staircase, the floor lobby on each floor and the recital hall on the eighth floor) of the building known as City Hall High Block situated at Edinburgh Place, Hong Kong. (L.N. 69 of 1994)
 
-- 2. The ground and mezzanine floors of the building known as Yau Ma Tei Multistorey Car Park, situated at Yau Ma Tei, Kowloon.
+- 2. The ground and mezzanine floors of the building known as Yau Ma Tei Multi-storey Car Park, situated at Yau Ma Tei, Kowloon.
 
 - 3. Rooms numbered 511 to 519 and rooms numbered 611 to 619 of the building known as Wah Chun House situated at Wah Fu Estate, Shek Pai Wan Road, Hong Kong.
 
@@ -52,7 +52,7 @@
 
 - 25. The ground floor of Yiu Cheong House, Yiu Tung Estate, Hong Kong. (L.N. 487 of 1996)
 
-- 26. The fourth and fifth floors of Urban Council Lockhart Road Complex, 225 Hennessy Road, Wan Chai, Hong Kong. (L.N. 226 of 1986)
+- 26. Unit C of the third floor, the fourth and fifth floors of Urban Council Lockhart Road Complex, 225 Hennessy Road, Wan Chai, Hong Kong. (L.N. 385 of 1998)
 
 - 27. The fourth and fifth floors of the Urban Council Quarry Bay Complex, 38 Quarry Bay Street, Quarry Bay, Hong Kong. (L.N. 195 of 1988)
 
