@@ -60,7 +60,7 @@ Futures Contract | Trading Limit | Position Limit
 
 30. | One-Month Hong Kong Interbank Offered Rate futures contract | Nil | 1000 open contracts for any one contract month and 4000 open contracts for all contract months.
 
-31. | Hang Seng Index futures and options contracts, and Mini-Hang Seng Index futures contracts | 10000 long or short position delta limit for all contract months combined, provided the position delta for the Mini-Hang Seng Index futures contracts shall not at any time exceed 2000 long or short for all contract months combined | 250 open Hang Seng Index futures contracts for any one contract month, 250 open Hang Seng Index options contracts for any one series, and 1250 open Mini-Hang Seng Index futures contracts for any one contract month.
+31. | Hang Seng Index futures and options contracts, and Mini-Hang Seng Index futures and options contracts | 10000 long or short position delta limit for all contract months combined, provided the position delta for the Mini-Hang Seng Index futures contracts or Mini-Hang Seng Index options contracts shall not at any time exceed 2000 long or short for all contract months combined | 250 open Hang Seng Index futures contracts for any one contract month, 250 open Hang Seng Index options contracts for any one series, 1250 open Mini-Hang Seng Index futures contracts for any one contract month, and 1250 open Mini-Hang Seng Index options contracts for any one series.
 
 32. | Hang Seng Finance Sub-Index futures contracts | 300 open contracts for any one contract month | 50 open contracts for any one contract month.
 
@@ -76,11 +76,11 @@ Futures Contract | Trading Limit | Position Limit
 
 38. | Hang Seng China Enterprises Index options contracts | 6000 open contracts for any one series. | 250 open contracts for any one series.
 
-39. | Pacific Century Cyberworks Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
+39. | PCCW Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
 40. | Bank of East Asia Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
-41. | Legend Holdings Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
+41. | Legend Group Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
 42. | MSCI China Free Index futures contract | 10000 open contracts for any one contract month | 500 open contracts for any one contract month.
 
@@ -154,7 +154,7 @@ Futures Contract | Trading Limit | Position Limit
 
 77. | Korea Electric Power Corporation stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
-78. | Korea Telecom Corporation stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
+78. | KT Corporation stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
 79. | Samsung Electronics Company Limited stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
@@ -194,7 +194,7 @@ Futures Contract | Trading Limit | Position Limit
 
 97. | Options on Korea Electric Power Corporation stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
-98. | Options on Korea Telecom Corporation stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
+98. | Options on KT Corporation stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
 99. | Options on Samsung Electronics Company Limited stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
@@ -216,4 +216,10 @@ Futures Contract | Trading Limit | Position Limit
 
 108. | Dow Jones Industrial Average options contract | 20000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
-(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999; L.N. 8 of 2001; L.N. 33 of 2001; L.N. 40 of 2001; L.N. 120 of 2001; L.N. 269 of 2001; L.N. 77 of 2002)
+109. | CNOOC Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
+
+110. | Huaneng Power International, Inc. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
+
+111. | Three-Year Exchange Fund Notes futures contract | 5000 open contracts for any one contract month except that for the spot month contract the trading limit is 1000 open contracts during the last 6 trading days | 1000 open contracts for any one contract month except that for the spot month contract the position limit is 200 open contracts during the last 6 trading days.
+
+(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999; L.N. 8 of 2001; L.N. 33 of 2001; L.N. 40 of 2001; L.N. 120 of 2001; L.N. 269 of 2001; L.N. 77 of 2002; L.N. 142 of 2002)
