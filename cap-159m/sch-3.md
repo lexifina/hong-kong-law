@@ -20,7 +20,7 @@ EXCLUSIONS AND CONDITIONS
 
       - waive in writing in whole or part the Company’s right to be reimbursed the amount of the deductible paid out of the fund, and amend or revoke any such waiver. (L.N. 359 of 1993)
 
-  - (2) The Company will not provide Indemnity in respect of— (L.N. 359 of 1993)
+  - (2) The Company will not provide Indemnity to the indemnified or a former solicitor in respect of— (L.N. 359 of 1993; L.N. 162 of 2001)
 
     - (a) (Repealed L.N. 359 of 1993)
 
@@ -32,9 +32,9 @@ EXCLUSIONS AND CONDITIONS
 
       - (ii) for the payment of a trading debt incurred by the indemnified;
 
-      - (iii) brought about by the dishonesty, fraudulent act or fraudulent omission of the principal; (L.N. 58 of 1993)
+      - (iii) brought about by the dishonesty, fraudulent act or fraudulent omission of any person who was a principal at the relevant time; (L.N. 58 of 1993; L.N. 162 of 2001)
 
-      - (iiia) brought about by the dishonesty, fraudulent act or fraudulent omission of an employee of the Practice unless the indemnified can prove or show to the satisfaction of the Company that such dishonesty, fraudulent act or fraudulent omission of the employee did not occur as a result of recklessness or dishonesty or a fraudulent act or fraudulent omission on the part of a principal in the conduct or management of the Practice; (L.N. 546 of 1994)
+      - (iiia) brought about by the dishonesty, fraudulent act or fraudulent omission of an employee of the firm or the indemnified unless the indemnified can prove or show to the satisfaction of the Company that such dishonesty, fraudulent act or fraudulent omission of the employee did not occur as a result of recklessness or dishonesty or a fraudulent act or fraudulent omission on the part of any person who was a principal at the relevant time in the conduct or management of the Practice; (L.N. 546 of 1994; L.N. 162 of 2001)
 
       - (iv) directly or indirectly caused by or contributed to, by or arising from ionising radiation or contamination by radioactivity from any nuclear fuel or from any nuclear waste from the combustion of nuclear fuel, the radio-active toxic explosive or other hazardous properties of any explosive nuclear assembly or nuclear component thereof; directly occasioned by pressure waves caused by aircraft or other aerial devices travelling at sonic or supersonic speeds; or from war, invasion, acts of foreign enemies, hostilities (whether war be declared or not), civil war, rebellion, revolution, insurrection, military or usurped power;
 
@@ -44,7 +44,7 @@ EXCLUSIONS AND CONDITIONS
 
       - (vii) notwithstanding paragraph 7 but without prejudice to the generality of paragraph 8(8), where non-compliance by the indemnified with a condition of these rules has involved or led to a substantial prejudice, whether or not capable of measurement in monetary terms, to the handling or settlement of the claim; (L.N. 58 of 1993)
 
-      - (viii) for wrongful dismissal or any other alleged breach or any other relief in respect of any contract of employment by the Practice or any member thereof; or for wrongful termination or any other alleged breach or any other relief in respect of any contract for supply to, or use by, the Practice or any member thereof of services, materials, equipment or other goods;
+      - (viii) for wrongful dismissal or any other alleged breach by the indemnified in respect of any contract of employment; or for wrongful termination or any other alleged breach by the indemnified in respect of any contract for supply to, or use by, the indemnified of services, materials, equipment or other goods; or for any other relief in respect of any such contract; (L.N. 162 of 2001)
 
       - (ix) in respect of any undertaking given by any indemnified or on his behalf (whether in his own name or in the name of the Practice) to any person in connection with the provision of finance, property, assistance or other advantage whatsoever to or for the benefit of him or any other indemnified or of his or any other indemnified’s spouse or children or of any business firm, company, enterprise, association or venture owned or controlled by him or any other indemnified in a beneficial capacity whether alone or in concert with others, except to the extent that he shall establish that any such undertaking was given by him or on his behalf without him knowing that the undertaking was or was likely to be connected with the provision of any such finance, property, assistance or other advantage;
 
@@ -55,6 +55,14 @@ EXCLUSIONS AND CONDITIONS
     - (d) a direct or indirect loss by the indemnified of the amount of his fees or profit costs and disbursements; (L.N. 58 of 1993)
 
     - (e) a loss or expense incurred by the indemnified in connection with a claim against the indemnified, including a loss or expense however incurred whether in connection with the notification of the claim to the Company, the investigation of the claim by the Company or panel solicitor, the preparation of the defence and the defence of the claim and the settlement of the claim or in connection generally with the indemnified’s obligations under paragraph 8(10) or otherwise, unless the Company has specifically agreed or specifically agrees in writing that it will pay them. For the purpose of this subparagraph loss and expense includes costs incurred by the indemnified in producing or reproducing and delivering files and documents required by the Company and panel solicitors, the costs incurred by the indemnified in respect of attendance at any meeting or court of law and the value of time expended by the indemnified in connection with the activities mentioned in this subparagraph. (L.N. 58 of 1993)
+
+  - (2A) For the purposes of paragraph 1(2)(c)(iii) and (iiia), a person was a principal at the relevant time if he was a principal—
+
+    - (a) at the time of the event which was alleged to give rise to the claim;
+
+    - (b) at the time when the claim was first made against the indemnified; or
+
+    - (c) in the case of a claim which arose out of circumstances previously notified to the Company, at the time when such notification was given to the Company. (L.N. 162 of 2001)
 
   - (3) In subparagraph (2)(c)(xi) (notwithstanding anything to the contrary in these rules)—
 
@@ -89,6 +97,24 @@ EXCLUSIONS AND CONDITIONS
     - (c) in addition to sub-subparagraph (a) or (b), $15,000 of any one claim multiplied by the number of assistant solicitors and consultants in the firm at the relevant date.
 
   - (3) Notwithstanding subparagraph (2), the aggregate of the amounts set out in subparagraph (2)(a) or (b) and (c) in respect of any firm shall not exceed the first $200,000 of any one claim.
+
+  - (4)
+
+    - (a) Where—
+
+      - (i) a claim (“first-mentioned claim”) is made against the indemnified or a former solicitor in any indemnity period; and
+
+      - (ii) one or more claim has been made against the same indemnified or former solicitor in that indemnity period or the 2 preceding indemnity periods,
+
+    - then in addition to the deductibles described in subparagraph (2)(a) or (b) and subparagraph (2)(c) and subject to subparagraph (3)—
+
+      - (iii) where the first-mentioned claim is the second such claim in the 3 consecutive indemnity periods referred to in sub-sub-subparagraphs (i) and (ii), the first-mentioned claim shall be subject to a further deductible of an amount equivalent to 50% of the deductible applicable to the first claim in those 3 indemnity periods;
+
+      - (iv) where the first-mentioned claim is the third such claim in the 3 consecutive indemnity periods referred to in sub-sub-subparagraphs (i) and (ii), the first-mentioned claim shall be subject to a further deductible of an amount equivalent to 100% of the deductible applicable to the first claim in those 3 indemnity periods;
+
+      - (v) where the first-mentioned claim is the fourth or any subsequent such claim in the 3 consecutive indemnity periods referred to in sub-sub-subparagraphs (i) and (ii), the first-mentioned claim shall be subject to a further deductible of an amount equivalent to 200% of the deductible applicable to the first claim in those 3 indemnity periods.
+
+    - (b) For the purpose of sub-subparagraph (a), a number of claims arising out of the same act or omission shall be treated as one claim. (L.N. 162 of 2001)
 
 - 3. Extent of former solicitors Indemnity
 
@@ -128,15 +154,19 @@ EXCLUSIONS AND CONDITIONS
 
       - (iii) the first $15,000 of any one claim where he was in Practice as an assistant solicitor or consultant at the date when he ceased to be a solicitor in Practice in Hong Kong.
 
+  - (3) In applying rule 16 for the purpose of this paragraph, the reference to “principal” in that rule shall be taken as a reference to “former solicitor”. (L.N. 162 of 2001)
+
 - 4. Related costs For the purpose of calculating the indemnified’s loss in any one claim, related costs shall be aggregated with the sum paid in respect of such claim and claimant’s costs.
 
 - 5. Recoveries subsequent to claim settlement All recoveries or payments recovered or received subsequent to a claim settlement shall be applied as if recovered prior to such settlement and all necessary adjustments shall then be made between the indemnified and the Company.
 
 - 6. Maximum liability of the fund
 
-  - (1) The aggregate liability of the fund for all claims arising from the same act or omission (whether or not made or intimated or arising out of circumstances notified during the same indemnity period) against any Practice or any member of that Practice or both entitled to Indemnity under these rules shall in no event exceed in total the Indemnity limit determined in accordance with paragraph 2.
+  - (1) The aggregate liability of the fund for all claims arising from the same act or omission (whether or not made or intimated or arising out of circumstances notified during the same indemnity period) against any indemnified or former solicitor or any combination of persons entitled to Indemnity under these rules shall in no event exceed in total the Indemnity limit determined in accordance with paragraph 2 or 3, whichever is smaller.
 
-  - (2) If a payment exceeding the Indemnity limit is made to dispose of any claim or claims for loss (including relevant costs) the amount of any such relevant costs shall be limited to such proportion of such relevant costs as the Indemnity limit bears to the amount of the payment so made.
+  - (2) If a payment exceeding the Indemnity limit is made to dispose of any claim or claims for loss (including related costs) the amount of any such related costs shall be limited to such proportion of such related costs as the Indemnity limit bears to the amount of the payment so made.
+
+- (L.N. 162 of 2001)
 
 - 7. Non-compliance
 
@@ -192,7 +222,7 @@ EXCLUSIONS AND CONDITIONS
 
   - (2) The indemnified shall procure that notice to the Company shall be given in writing as soon as practicable of—
 
-    - (a) any claim under rule 10 made during the period of indemnity against the indemnified;
+    - (a) any claim made during the period of indemnity against the indemnified, which falls within rule 10; (L.N. 162 of 2001)
 
     - (b) the receipt by the indemnified of notice from any person of any intention to make any such claim.
 
@@ -200,9 +230,9 @@ EXCLUSIONS AND CONDITIONS
 
   - (4) Any notice to be given to the Company under subparagraph (2) or (3) must be received by the Company not later than the last day of the period of indemnity during which such claim is made, notice is received or circumstances become known, except that the Company may, in its sole discretion, accept such notification not later than 60 days following the last day of such period of indemnity.
 
-  - (5) If notice is given to the Company under subparagraph (2)(b) or (3), any claim subsequently made (whether during or after the period of indemnity) pursuant to such an intention to claim or arising from circumstances so notified shall be deemed to have been made at the date when such notice was given.
+  - (5) If due notice is given to the Company under subparagraph (2)(b) or (3), any claim subsequently made (whether during or after the period of indemnity) pursuant to such an intention to claim or arising from circumstances so notified shall be deemed to have been made at the date when such notice was given. (L.N. 162 of 2001)
 
-  - (6) The Company on behalf of the fund waives any rights of subrogation against any employee of the Practice save where those rights arise in connection with a dishonest or criminal act by that employee.
+  - (6) The Company on behalf of the fund waives any rights of subrogation against any employee of the firm or indemnified save where those rights arise in connection with a dishonest or criminal act by that employee. (L.N. 162 of 2001)
 
   - (7) Notices to the Company to be given hereunder shall be deemed to be properly made if given to the Company at its registered office or to such other person or body as the Society may from time to time determine.
 
@@ -216,4 +246,4 @@ EXCLUSIONS AND CONDITIONS
 
     - (b) in handling a claim which is made against the indemnified or a notice or circumstance of which notice is given under subparagraph (2) or (3). (L.N. 58 of 1993)
 
-- 9. Special Condition Where the issue of a receipt under rule 9 has been withheld or delayed due to the failure of any principal to comply with any provision of these rules and while such receipt remains unissued a claim has been made or intimated against the indemnified in respect of which such indemnified would otherwise have been entitled to be provided with Indemnity, then subject to paragraph 1(2)(c)(x), the Company shall provide such Indemnity by payment (up to the indemnity limit determined in accordance with paragraph 2) in or towards satisfying or enabling the indemnified to satisfy the claim and related costs and the firm shall thereafter upon request reimburse to the Company on behalf of the fund the whole or such part as the Company may request of any payment so made and interest on the amount of any payment so made from the date of the payment thereof at the same rate as allowed for a judgment debt from time to time under section 49 of the High Court Ordinance (Cap. 4) and each principal in such firm shall be jointly and severally liable to the Company for such reimbursement accordingly. (25 of 1998 s. 2) (L.N. 359 of 1993)
+- 9. Special Condition Where the issue of a receipt under rule 9 has been withheld or delayed due to the failure of any principal to comply with any provision of these rules and while such receipt remains unissued a claim has been made or intimated against the indemnified or a former solicitor in respect of which such indemnified or former solicitor would otherwise have been entitled to be provided with Indemnity, then subject to paragraph 1(2)(c)(x), the Company shall provide such Indemnity by payment (up to the indemnity limit determined in accordance with paragraph 2) in or towards satisfying or enabling the indemnified or former solicitor to satisfy the claim and related costs and the firm shall thereafter upon request reimburse to the Company on behalf of the fund the whole or such part as the Company may request of any payment so made and interest on the amount of any payment so made from the date of the payment thereof at the same rate as allowed for a judgment debt from time to time under section 49 of the High Court Ordinance (Cap. 4) and each principal in such firm shall be jointly and severally liable to the Company for such reimbursement accordingly. (25 of 1998 s. 2; L.N. 162 of 2001) (L.N. 359 of 1993)

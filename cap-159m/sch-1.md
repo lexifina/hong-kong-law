@@ -12,21 +12,61 @@ CONTRIBUTIONS TO FUND
 
     - (a) Save in the cases referred to in subparagraphs (2) (when the amount of contribution shall be assessed by the Company as therein provided), (3) (which provides that the amount of the basic contribution shall be not less than the minimum amount as therein provided) and (4) (when the amount of contribution may be reduced as therein provided), the amount of all contributions for the first indemnity period and for each subsequent indemnity period shall be calculated— (L.N. 363 of 1991)
 
-      - (i) according to the formula— C = (N*$8,500) + (M*$5,500) + S Where— * = multiplied by; C = the amount (subject to any appropriate adjustment made under subparagraph (3)) of the basic contribution which may also be the contribution; N = number of principals (as at 31 July immediately preceding such indemnity period); M = number of assistant solicitors and consultants (as at 31 July immediately preceding such indemnity period); and S = the amount established from the following table—
+      - (i) according to the formula— C = (N*$20,000) + (M*$13,000) + S Where— * =multiplied by; C =the amount (subject to any appropriate adjustment made under subparagraph (3)) of the basic contribution which may also be the contribution; N =number of principals (as at 31 July immediately preceding such indemnity period); M =number of assistant solicitors and consultants (as at 31 July immediately preceding such indemnity period); and S =the amount established from the following table—
 
       - Gross fee income of the firm $ Million | Amount $
 
-      - over 0 but not exceeding 5 1.12 % × gross fee income over 5 but not exceeding 6 60,000 over 6 but not exceeding 7 68,000 over 7 but not exceeding 8 76,500 over 8 but not exceeding 9 83,500 over 9 but not exceeding 10 90,000 over 10 but not exceeding 11 96,500 over 11 but not exceeding 12 102,000 over 12 but not exceeding 13 107,000 over 13 but not exceeding 14 112,000 over 14 but not exceeding 15 116,000 over 15 but not exceeding 16 119,000 over 16 but not exceeding 17 121,000 over 17 but not exceeding 18 123,000 over 18 but not exceeding 19 125,000 over 19 but not exceeding 20 126,500 over 20 but not exceeding 21 128,000 over 21 but not exceeding 22 129,500 over 22 but not exceeding 23 131,000 over 23 but not exceeding 24 132,500 over 24 but not exceeding 25 134,000
+      - over 0 but not exceeding 5 | 2.64% × gross fee income
 
-      - over 25 but not exceeding 50 | 0.54% × gross fee income (subject to a maximum amount of $230,000)
+      - over 5 but not exceeding 6 | 142,000
 
-      - over 50 but not exceeding 75 | 0.46% × gross fee income (subject to a maximum amount of $285,000) (L.N. 162 of 1993)
+      - over 6 but not exceeding 7 | 161,000
 
-      - over 75 but not exceeding 100 | 0.38% × gross fee income (subject to a maximum amount of $310,000)
+      - over 7 but not exceeding 8 | 181,000
 
-      - over 100 | 0.31% × gross fee income
+      - over 8 but not exceeding 9 | 197,000
 
-    - and the gross fee income of the firm shall be determined by the particulars contained in the gross fee income certificate produced under rule 8(1)(a) plus a factor to be applied by the Company to this figure to compensate for the historical basis of the gross fee income calculation (such factor not to exceed 10%) and shall be subject to adjustment as provided in sub-subparagraph (b)(iv); or
+      - over 9 but not exceeding 10 | 212,000
+
+      - over 10 but not exceeding 11 | 228,000
+
+      - over 11 but not exceeding 12 | 241,000
+
+      - over 12 but not exceeding 13 | 253,000
+
+      - over 13 but not exceeding 14 | 265,000
+
+      - over 14 but not exceeding 15 | 274,000
+
+      - over 15 but not exceeding 16 | 281,000
+
+      - over 16 but not exceeding 17 | 286,000
+
+      - over 17 but not exceeding 18 | 290,000
+
+      - over 18 but not exceeding 19 | 295,000
+
+      - over 19 but not exceeding 20 | 299,000
+
+      - over 20 but not exceeding 21 | 302,000
+
+      - over 21 but not exceeding 22 | 306,000
+
+      - over 22 but not exceeding 23 | 309,000
+
+      - over 23 but not exceeding 24 | 313,000
+
+      - over 24 but not exceeding 25 | 316,000
+
+      - over 25 but not exceeding 50 | 1.27% × gross fee income (subject to a maximum amount of $543,000)
+
+      - over 50 but not exceeding 75 | 1.09% × gross fee income (subject to a maximum amount of $673,000)
+
+      - over 75 but not exceeding 100 | 0.90% × gross fee income (subject to a maximum amount of $732,000)
+
+      - over 100 | 0.73% × gross fee income
+
+    - and the gross fee income of the firm shall be determined by the particulars contained in the gross fee income certificate produced under rule 8(1)(a) plus a factor to be applied by the Company to this figure to compensate for the historical basis of the gross fee income calculation (such factor not to exceed 10%) and shall be subject to adjustment as provided in sub-subparagraph (b)(iv); or (L.N. 162 of 2001)
 
       - (ii) in the circumstances set out in subparagraph (6), according to the formula— F x C Where— C = the amount (subject to any appropriate adjustment made under subparagraph (3)) of the basic contribution which may also be the contribution; and F = the appropriate factor referred to in subparagraph (6)(d).
 
