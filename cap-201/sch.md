@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[sections 2(1) & 35]
+[ss. 2(1) & 35]
 
 PUBLIC BODIES
 
@@ -136,7 +136,7 @@ PUBLIC BODIES
 
 - 67. (Repealed 134 of 1997 s. 85)
 
-- 68. Tradelink Electronic Document Services Limited. (Added L.N. 215 of 1993)
+- 68. Tradelink Electronic Commerce Limited. (Replaced L.N. 125 of 1998)
 
 - 69. Travel Industry Compensation Fund Management Board. (Added 51 of 1993 s. 8)
 
