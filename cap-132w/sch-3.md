@@ -60,7 +60,9 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
   - (5) Subject to section 58 of the Ordinance and unless the Authority otherwise allows in any particular case, an additive constituting one of the ingredients of a food shall be listed by its specific name or by the appropriate category or by both name and category.
 
-  - (6) The categories of additive for the purpose of sub-paragraph (5) are— Acid (酸味劑) Acidity regulator (酸度調節劑) Anti-caking agent (抗結劑) Anti-foaming agent (消泡劑) Antioxidant (抗氧化劑) Artificial sweetener (人造糖) Colour (色素) Emulsifier (乳化劑) Emulsifying salt (乳化鹽) Flavour enhancer (味道強化劑) Flavouring (調味劑) Flour improver (麵粉改良劑) Gelling agent (膠凝劑) Glazing agent (上光劑) Modified starch (改性澱粉) Preservative (防腐劑) Raising agent (膨脹劑) Stabilizer (穩定劑) Thickener (增稠劑).
+  - (6) The categories of additive for the purpose of sub-paragraph (5) are— Acid (酸味劑) Acidity regulator (酸度調節劑) Anti-caking agent (抗結劑) Anti-foaming agent (消泡劑) Antioxidant (抗氧化劑) Colour (色素) Emulsifier (乳化劑) Emulsifying salt (乳化鹽) Flavour enhancer (味道強化劑) Flavouring (調味劑) Flour improver (麵粉改良劑) Gelling agent (膠凝劑) Glazing agent (上光劑) Modified starch (改性澱粉) Preservative (防腐劑) Raising agent (膨脹劑) Stabilizer (穩定劑) Sweetener (甜味劑) (L.N. 226 of 2003) Thickener (增稠劑)
+
+- (L.N. 226 of 2003)
 
 - 3. List of ingredients of exempt food If any prepackaged food is marked or labelled with a list of ingredients notwithstanding that it is exempted from the requirements of paragraph 2, such list shall conform in all respects with the requirements of this Schedule.
 
@@ -98,9 +100,7 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
   - (7) Where the “best before” (此日期前最佳) date or the “use by” (此日期前食用) date is shown in the English and Chinese languages, there is no restriction in the order in which the day, month or year (as the case may be) may be expressed. (L.N. 80 of 1996)
 
-- 5.
-
-- Statement of special conditions for
+- 5. Statement of special conditions for
 
 - storage or instructions for use
 
