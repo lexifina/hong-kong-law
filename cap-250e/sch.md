@@ -38,7 +38,7 @@ Futures Contract | Trading Limit | Position Limit
 
 17. | Hang Seng China-Affiliated Corporations Index options contract | 10000 open contracts for any one contract month | 500 open contracts for any one contract month.
 
-18. | Three-Month Hong Kong Interbank Offered Rate futures contract | Nil | 5000 open contracts for any one contract month and 20000 open contracts for all contract months.
+18. | Three-Month Hong Kong Interbank Offered Rate futures contract | Nil | 1000 open contracts for any one contract month and 4000 open contracts for all contract months.
 
 19. | COSCO Pacific Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
@@ -58,7 +58,7 @@ Futures Contract | Trading Limit | Position Limit
 
 29. | Hang Seng 100 options contract | Nil | 500 open contracts for any one series.
 
-30. | One-Month Hong Kong Interbank Offered Rate futures contract | Nil | 5000 open contracts for any one contract month and 20000 open contracts for all contract months.
+30. | One-Month Hong Kong Interbank Offered Rate futures contract | Nil | 1000 open contracts for any one contract month and 4000 open contracts for all contract months.
 
 31. | Hang Seng Index futures and options contracts, and Mini-Hang Seng Index futures contracts | 10000 long or short position delta limit for all contract months combined, provided the position delta for the Mini-Hang Seng Index futures contracts shall not at any time exceed 2000 long or short for all contract months combined | 250 open Hang Seng Index futures contracts for any one contract month, 250 open Hang Seng Index options contracts for any one series, and 1250 open Mini-Hang Seng Index futures contracts for any one contract month.
 
@@ -216,4 +216,4 @@ Futures Contract | Trading Limit | Position Limit
 
 108. | Dow Jones Industrial Average options contract | 20000 open contracts for any one contract month | 1000 open contracts for any one contract month.
 
-(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999; L.N. 8 of 2001; L.N. 33 of 2001; L.N. 40 of 2001; L.N. 120 of 2001; L.N. 269 of 2001)
+(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999; L.N. 8 of 2001; L.N. 33 of 2001; L.N. 40 of 2001; L.N. 120 of 2001; L.N. 269 of 2001; L.N. 77 of 2002)
