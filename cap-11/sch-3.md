@@ -1,43 +1,59 @@
 # Schedule 3
 
-(Adaptation amendments retroactively made - see 27 of 1999 s. 3)
-
 [s. 17] (Amended 123 of 1997 s. 18)
 
-- PART I OATHS TO BE ADMINISTERED BY THE CHIEF EXECUTIVE (Amended 123 of 1997 s. 18)
+PART I
 
-- Chief Justice (Added 79 of 1995 s. 50)
+OATHS TO BE ADMINISTERED BY THE CHIEF EXECUTIVE (Amended 123 of 1997 s. 18)
 
-- Permanent judge of the Court of Final Appeal (Added 79 of 1995 s. 50)
+Chief Justice (Added 79 of 1995 s. 50)
 
-- Non-permanent Hong Kong judge of the Court of Final Appeal (Added 79 of 1995 s. 50)
+Permanent judge of the Court of Final Appeal (Added 79 of 1995 s. 50)
 
-- Judge of the Court of Final Appeal from another common law jurisdiction (Added 79 of 1995 s. 50)
+Non-permanent Hong Kong judge of the Court of Final Appeal (Added 79 of 1995 s. 50)
 
-- Chief Judge (Added 123 of 1997 s. 18. Amended 27 of 1999 s. 3)
+Judge of the Court of Final Appeal from another common law jurisdiction (Added 79 of 1995 s. 50)
 
-- Justice of Appeal (Added 26 of 1997 s. 7)
+Chief Judge (Added 123 of 1997 s. 18. Amended 27 of 1999 s. 3)
 
-- Judge of the Court of First Instance (other than a recorder of the Court of First Instance appointed under section 6A of the High Court Ordinance (Cap. 4) or a deputy judge of the Court of First Instance appointed under section 10(1) of that Ordinance). (Amended 27 of 1999 s. 3)
+Justice of Appeal (Added 26 of 1997 s. 7)
 
-- PART II OATHS TO BE ADMINISTERED BY A JUDGE OF THE COURT OF FIRST INSTANCE Recorder of the Court of First Instance
+Judge of the Court of First Instance (other than a recorder of the Court of First Instance appointed under section 6A of the High Court Ordinance (Cap. 4) or a deputy judge of the Court of First Instance appointed under section 10(1) of that Ordinance). (Amended 27 of 1999 s. 3)
 
-- Deputy Judge of the Court of First Instance
+PART II
 
-- District Judge
+OATHS TO BE ADMINISTERED BY A JUDGE OF THE COURT OF FIRST INSTANCE
 
-- Deputy District Judge
+Recorder of the Court of First Instance
 
-- Presiding Officer, Labour Tribunal
+Deputy Judge of the Court of First Instance
 
-- Magistrate
+District Judge
 
-- Adjudicator, Small Claims Tribunal
+Deputy District Judge
 
-- President, Lands Tribunal
+Presiding Officer, Labour Tribunal
 
-- Coroner
+Magistrate
 
-- Adjudication Officer, Minor Employment Claims Adjudication Board
+Adjudicator, Small Claims Tribunal
 
-- PART III (Repealed 123 of 1997 s. 18) (Schedule 3 replaced 80 of 1994 s. 11. Amended 123 of 1997 s. 18)
+President, Lands Tribunal
+
+Coroner
+
+Adjudication Officer, Minor Employment Claims Adjudication Board
+
+Deputy Presiding Officer, Labour Tribunal (Added 21 of 1999 s. 20)
+
+Deputy Magistrate (Added 21 of 1999 s. 20)
+
+Deputy Adjudicator, Small Claims Tribunal (Added 21 of 1999 s. 20)
+
+Temporary Member, Lands Tribunal (Added 21 of 1999 s. 20)
+
+Deputy Coroner (Added 21 of 1999 s. 20)
+
+PART III
+
+(Repealed 123 of 1997 s. 18) (Schedule 3 replaced 80 of 1994 s. 11. Amended 123 of 1997 s. 18)
