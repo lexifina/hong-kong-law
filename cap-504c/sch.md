@@ -2,418 +2,450 @@
 
 [rule 2]
 
-FORM 1 | [section 6(4)]
+FORM 1
 
-AUTOPSY REPORT THIS REPORT IS CONFIDENTIAL. IT SHOULD
+[s. 6(4)]
 
-NOT BE DISCLOSED TO A THIRD PARTY
+Autopsy Report This Report is Confidential. It should not be Disclosed to a Third Party (Except the Commissioner of Police) without the Coroner’s Consent
 
-(EXCEPT THE COMMISSIONER OF POLICE)
+Name of deceased
 
-WITHOUT THE CORONER’S CONSENT
+Sex of deceased
 
-Name of deceased .
+Stated age of deceased (or date of birth)
 
-Sex of deceased .
+Stated race and nationality
 
-Stated age of deceased (or date of birth) .
+Identifier(s)
 
-Stated race and nationality .
+Date and time of autopsy
 
-Identifier(s) .
+Place where autopsy performed
 
-Date and time of autopsy .
-
-Place where autopsy performed .
-
-Estimated time of death .
+Estimated time of death
 
 EXTERNAL EXAMINATION
 
-Height .
+Height
 
-Build/nourishment .
+Build/nourishment
 
-Marks of violence and/or identification .
+Marks of violence and/or identification
 
 INTERNAL EXAMINATION
 
 Cranial cavity
 
-Skull .
+Skull
 
-Brain, meninges, etc. .
+Brain, meninges, etc.
 
 Thoracic cavity
 
-Mouth, tongue, oesophagus, larynx, trachea,
+Mouth, tongue, oesophagus, larynx, trachea, lungs and pleurae
 
-lungs and pleurae .
-
-Pericardium, heart and blood vessels .
+Pericardium, heart and blood vessels
 
 Abdominal cavity
 
-Stomach and contents .
+Stomach and contents
 
-Peritoneum and intestines .
+Peritoneum and intestines
 
-Liver and gall bladder .
+Liver and gall bladder
 
-Spleen .
+Spleen
 
-Urinary system .
+Urinary system
 
-Generative organs .
+Generative organs
 
-Are all other organs healthy? .
+Are all other organs healthy?
 
 The cause of death as shown by the autopsy appears to be—
 
-I (a) . (Direct cause, due to)
+I | (a) | (Direct cause, due to)
 
-- (b) . (Intervening antecedent causes, due to)
+(b) | (Intervening antecedent causes, due to)
 
-- (c) . (Underlying antecedent cause)
+(c) | (Underlying antecedent cause)
 
-II . (Other significant conditions contributing to the
+II | (Other significant conditions contributing to the death but not related to the disease or condition causing it)
 
-death but not related to the disease or condition
+Name and qualifications
 
-causing it)
-
-Name and qualifications .
-
-Appointment and institution .
-
-.
+Appointment and institution
 
 (Signature)
 
--
+_
 
-FORM 2 | [section 10(1)]
+FORM 2
 
-SEARCH WARRANT
+[s. 10(1)]
+
+Search Warrant
+
+To each and all of the police officers of Hong Kong. Having been satisfied by information upon oath (or declaration) that there are reasonable grounds for believing that a thing which may be relevant to the cause of or the circumstances connected with the death of
+
+is likely to be found in or on
+
+....................................................................................................................... :
+
+YOU ARE HEREBY AUTHORIZED, with such assistants as may be necessary, at any reasonable time to enter the said
+
+, by force if necessary, and search the said
+
+for any such thing.
+
+Dated this ............ day of ........................ 19 ........
+
+Coroner
+
+_
+
+FORM 3
+
+[s. 12(1)]
+
+Summons to Witness
+
+To
+
+It having been made to appear to me on credible information that you are capable of giving material evidence at the inquest relevant to the cause of or the circumstances connected with the death of ......................................................................................................... :
+
+YOU ARE HEREBY SUMMONED to be and appear before me at
+
+in Hong Kong on ............day, the ............ day of ................. 19 ...... , at .......... a.m.*/p.m.*, to testify what you know relevant to the cause of or the circumstances connected with the death of the said
+
+Dated this ............ day of ........................ 19 ........
+
+Coroner
+
+* Delete whichever is inapplicable.
+
+_
+
+FORM 4
+
+[s. 12(2)]
+
+Warrant where Witness has not Obeyed Summons
 
 To each and all of the police officers of Hong Kong.
 
-- Having been satisfied by information upon oath (or declaration) that there are reasonable grounds for believing that a thing which may be relevant to the cause of or the circumstances connected with the death of . is likely to be found in or on . :
+It having been made to appear to me that
 
-- YOU ARE HEREBY AUTHORIZED, with such assistants as may be necessary, at any reasonable time to enter the said .
+....................................................................... of
 
-- ., by force if necessary, and search the said .
+was capable of giving material evidence at the inquest relevant to the cause of or the circumstances connected with the death of ....................................................................................., a summons was issued by me to the said ............................................................................., requiring him to be and appear before me at ............................................................................. in Hong Kong on ............ day, the .......... day of .................... 19 .........., at .......... a.m.*/p.m.*, to testify what he knows relevant to the cause of or the circumstances connected with the death of the said ...................................................................................... ; and proof having this day been made before me upon oath (or declaration) of such summons having been served on the said ....................................................................................... [and of a reasonable sum having been tendered to him for his costs or expenses to so appear]**; and the said ..................................................................................... having failed to appear at the place and time appointed by the said summons, and no reasonable excuse having been offered for such failure:
 
-- .
+YOU ARE HEREBY COMMANDED to take the said .................................................. and to bring and have him at .................................................................................................... in Hong Kong on .......... day, the .......... day of ........................................19 .........., at .......... a.m.*/p.m.*, to testify what he knows relevant to the cause of or the circumstances connected with the death of the said
 
-- for any such thing.
+Dated this ............ day of ........................ 19 ........
 
-- Dated this . day of . 19 .
+Coroner
 
-- .
+* | Delete whichever is inapplicable.
 
-- Coroner
+** | Delete if inapplicable by virtue of section 12(2)(c) of the Coroners Ordinance (Cap. 504).
 
-- _
+_
 
-- FORM 3 | [section 12(1)]
+FORM 5
 
-- SUMMONS TO WITNESS
+[s. 12(3)]
 
-- To
+Warrant for Witness in the First Instance
 
-- It having been made to appear to me on credible information that you are capable of giving material evidence at the inquest relevant to the cause of or the circumstances connected with the death of . :
+To each and all of the police officers of Hong Kong.
 
-- YOU ARE HEREBY SUMMONED to be and appear before me at .
+It having been made to appear to me on credible information that
 
-- . . in Hong Kong on .day, the . day of . 19 ., at . a.m.*/p.m.*, to testify what you know relevant to the cause of or the circumstances connected with the death of the said .
+............................................................................. of
 
-- Dated this . day of . 19 .
+is capable of giving material evidence at the inquest relevant to the cause of or the circumstances connected with the death of .................................................................................................... and being satisfied by evidence upon oath (or declaration) that it is probable that the said .................................................. will not attend the said inquest to give evidence without being compelled to do so:
 
-- .
+YOU ARE HEREBY COMMANDED to take the said ........................................ and to bring and have him at .................................................................................................... in Hong Kong on .......... day, the .......... day of ..........19 .........., at .......... a.m.*/p.m.*, to testify what he knows relevant to the cause of or the circumstances connected with the death of the said .....................................................................................
 
-- Coroner
+Dated this ............ day of ........................ 19 ........
 
-- * Delete whichever is inapplicable.
+Coroner
 
-- _
+* Delete whichever is inapplicable.
 
-- FORM 4 | [section 12(2)]
+_
 
-- WARRANT WHERE WITNESS HAS NOT OBEYED SUMMONS
+FORM 6
 
-- To each and all of the police officers of Hong Kong. It having been made to appear to me that .
+[s. 12(4)]
 
-- . of .
+Warrant for Commitment of Witness Refusing to be Sworn or to Give Evidence
 
-- .
+To each and all of the police officers of Hong Kong and to the
 
-- . was capable of giving material evidence at the inquest relevant to the cause of or the circumstances connected with the death of ., a summons was issued by me to the said ., requiring him to be and appear before me at . in Hong Kong on . day, the . day of . 19 ., at . a.m.*/p.m.*, to testify what he knows relevant to the cause of or the circumstances connected with the death of the said . ; and proof having this day been made before me upon oath (or declaration) of such summons having been served on the said . [and of a reasonable sum having been tendered to him for his costs or expenses to so appear]**; and the said . having failed to appear at the place and time appointed by the said summons, and no reasonable excuse having been offered for such failure:
+Commissioner of Correctional Services.
 
-- YOU ARE HEREBY COMMANDED to take the said . and to bring and have him at . in Hong Kong on . day, the . day of .19 ., at . a.m.*/p.m.*, to testify what he knows relevant to the cause of or the circumstances connected with the death of the said .
+It having been made to appear to me that
 
-- Dated this . day of . 19 .
+........................... of
 
-- .
+is capable of giving material evidence at the inquest relevant to the cause of or the circumstances connected with the death of
 
-- Coroner
+........................................ , and the said
 
-- * Delete whichever is inapplicable.
+.............................. now appearing before me at
 
-- ** Delete if inapplicable by virtue of section 12(2)(c) of the Coroners Ordinance (Cap. 504).
+.............................. in Hong Kong on .......... day, the .......... day of ........................................ 19 .........., and being required by me to take oath (or declaration) as a witness in that behalf now refuses so to do (or being sworn or declared as a witness in the matter of the said inquest) refuses to answer certain questions, without offering any reasonable excuse for such his refusal:
 
-- _
+YOU, THE SAID POLICE OFFICERS, ARE HEREBY COMMANDED to take the said
 
-- FORM 5 | [section 12(3)]
+and to safely convey him to a prison, and there to deliver him to the Commissioner of Correctional Services, together with this warrant:
 
-- WARRANT FOR WITNESS IN THE FIRST INSTANCE
+YOU, THE SAID COMMISSIONER OF CORRECTIONAL SERVICES, ARE HEREBY COMMANDED to receive the said
 
-- To each and all of the police officers of Hong Kong. It having been made to appear to me on credible information that .
+...................................................................................... into your custody in a prison, and there imprison him for such his contempt for the space of ....... days, unless he shall in the meantime consent to be examined and to answer concerning the premises; and for your so doing this shall be sufficient warrant.
 
-- . of .
+Dated this ............ day of ........................ 19 ........
 
-- .
+Coroner
 
-- . is capable of giving material evidence at the inquest relevant to the cause of or the circumstances connected with the death of . and being satisfied by evidence upon oath (or declaration) that it is probable that the said . will not attend the said inquest to give evidence without being compelled to do so:
+_
 
-- YOU ARE HEREBY COMMANDED to take the said . and to bring and have him at . in Hong Kong on . day, the . day of .19 ., at . a.m.*/p.m.*, to testify what he knows relevant to the cause of or the circumstances connected with the death of the said .
+FORM 7
 
-- Dated this . day of . 19 .
+[s. 22(1)]
 
-- .
+Summons to Juror
 
-- Coroner
+To
 
-- * Delete whichever is inapplicable.
+You are hereby summoned to attend at
 
-- -
+in Hong Kong on ............... day, the .......... day of ........................................ 19 .......... at ............... a.m.*/p.m.*, and there to appear as a juror at an inquest to be held by a coroner concerning the death of ................................................................................., and there to attend until you shall be discharged.
 
-- FORM 6 | [section 12(4)]
+Dated this ............ day of ........................ 19 ........
 
-- WARRANT FOR COMMITMENT OF WITNESS REFUSING
+Coroner’s Clerk
 
-- TO BE SWORN OR TO GIVE EVIDENCE
+* Delete whichever is inapplicable.
 
-- To each and all of the police officers of Hong Kong and to the Commissioner of Correctional Services.
+Note: | The penalty for failing to comply with this summons is a fine at level 2. Personal service of this summons is not necessary to subject the juror summoned to this penalty.
 
-- It having been made to appear to me that . of . is capable of giving material evidence at the inquest relevant to the cause of or the circumstances connected with the death of ., and the said . now appearing before me at . in Hong Kong on . day, the . day of . 19 ., and being required by me to take oath (or declaration) as a witness in that behalf now refuses so to do (or being sworn or declared as a witness in the matter of the said inquest) refuses to answer certain questions, without offering any reasonable excuse for such his refusal:
+_
 
-- YOU, THE SAID POLICE OFFICERS, ARE HEREBY COMMANDED to take the said . and to safely convey him to a prison, and there to deliver him to the Commissioner of Correctional Services, together with this warrant:
+FORM 8
 
-- YOU, THE SAID COMMISSIONER OF CORRECTIONAL SERVICES, ARE HEREBY COMMANDED to receive the said . into your custody in a prison, and there imprison him for such his contempt for the space of . days, unless he shall in the meantime consent to be examined and to answer concerning the premises; and for your so doing this shall be sufficient warrant.
+[s. 24]
 
-- Dated this . day of . 19 .
+Oath for Juror
 
-- .
+I,
 
-- Coroner
+(Name in full)
 
-- _
+, swear that I will diligently inquire and true presentment make of all such matters and things as shall be here given me in charge, on behalf of the people of Hong Kong, touching the death of .................................... and that I will give true findings according to the evidence. So help me God.
 
-- FORM 7 | [section 22(1)]
+_
 
-- SUMMONS TO JUROR
+FORM 9
 
-- To You are hereby summoned to attend at .
+[s. 24]
 
-- .
+Declaration for Juror
 
-- . in Hong Kong on . day, the . day of . 19 . at . a.m.*/p.m.*, and there to appear as a juror at an inquest to be held by a coroner concerning the death of ., and there to attend until you shall be discharged. Dated this . day of . 19 .
+I,
 
-- .
+(Name in full)
 
-- Coroner’s Clerk
+, do solemnly and sincerely declare that I will diligently inquire and true presentment make of all such matters and things as shall be here given me in charge, on behalf of the people of Hong Kong, touching the death of
 
-- * Delete whichever is inapplicable.
+............................................................ and that I will give true findings according to the evidence.
 
-- Note: The penalty for failing to comply with this summons is a fine at level 2. Personal service of this summons is not necessary to subject the juror summoned to this penalty.
+_
 
-- _
+FORM 10
 
-- FORM 8 | [section 24]
+[s. 28(2)]
 
-- OATH FOR JUROR
+Notice to Properly Interested Persons Informing them of their Right under Section 14(3) of the Ordinance
 
-- I, ., swear that I will diligently
+To ................................................................................ , a properly interested person in the death of .................................................... :
 
-- (Name in full)
+You are hereby advised that you or another person on your behalf may make representations (either in writing* or orally**) to the coroner as to whether the inquest to be held into the death of the above-named person should be held with a jury.
 
-- inquire and true presentment make of all such matters and things as shall be here given me in charge, on behalf of the people of Hong Kong, touching the death of . and that I will give true findings according to the evidence. So help me God.
+Those representations, if any, should be made not later than 14 days after the date of issue of this notice.
 
-- -
+Issued this ............ day of ........................ 19 ........
 
-- FORM 9 | [section 24]
+Coroner
 
-- DECLARATION FOR JUROR
+* | Any written representations must be received at the Coroner’s Office not later than 14 days after the date of issue of this notice.
 
-- I, ., do solemnly and
+** | For any oral representations, the coroner’s clerk should be contacted as soon as practicable to arrange an appointment with the coroner.
 
-- (Name in full)
+_
 
-- sincerely declare that I will diligently inquire and true presentment make of all such matters and things as shall be here given me in charge, on behalf of the people of Hong Kong, touching the death of . and that I will give true findings according to the evidence.
+FORM 11
 
-- -
+[s. 41]
 
-- FORM 10 | [section 28(2)]
+Certificate of the Fact of Death
 
-- NOTICE TO PROPERLY INTERESTED PERSONS
+To whom it may concern.
 
-- INFORMING THEM OF THEIR RIGHT UNDER
+............................................................ (Name) of
 
-- SECTION 14(3) OF THE ORDINANCE
+...................................................................... (Address) died on ............................................................ The precise medical cause of death was as follows*/has yet to be established*
 
-- To ., a properly interested person in the death of . :
+I am satisfied as to the evidence provided by a registered medical practitioner who has personally viewed the body of the person in respect of whose death this certificate is issued and who is satisfied that that death has occurred—
 
-- You are hereby advised that you or another person on your behalf may make representations (either in writing* or orally**) to the coroner as to whether the inquest to be held into the death of the above-named person should be held with a jury.
+(a) | of the identification of, and place and date of death of, that person; and
 
-- Those representations, if any, should be made not later than 14 days after the date of issue of this notice.
+(b) | that an infectious disease** was not the cause of that death.
 
-- Issued this . day of . 19 .
+Dated this ............ day of ........................ 19 ........
 
-- .
+Coroner
 
-- Coroner
+* | Delete whichever is inapplicable.
 
-- * Any written representations must be received at the Coroner’s Office not later than 14 days after the date of issue of this notice.
+** | An infectious disease is any disease which may render the dead body of a person a danger to public health.
 
-- ** For any oral representations, the coroner’s clerk should be contacted as soon as practicable to arrange an appointment with the coroner.
+_
 
-- -
+FORM 12
 
-- FORM 11 | [section 41]
+[s. 43]
 
-- CERTIFICATE OF THE FACT OF DEATH
+Findings at Inquest
 
-- To whom it may concern.
+An inquest held at
 
-- . (Name) of .
+in Hong Kong on the .................... day of .............................. 19 .........., [and by adjournment on the .................... day of .............................. 19 ..........,] [before and by * .........................] me .................................................., a coroner, [and the undermentioned jurors,] into the death of ............................................................ [a person unknown][concerning a stillbirth].
 
-- . (Address) died on . The precise medical cause of death was as follows*/has yet to be established* .
+The following matters are found—
 
-- I am satisfied as to the evidence provided by a registered medical practitioner who has personally viewed the body of the person in respect of whose death this certificate is issued and who is satisfied that that death has occurred—
+1. | Name of deceased (if known):
 
-  - (a) of the identification of, and place and date of death of, that person; and
+2. | Injury or disease causing death:**
 
-  - (b) that an infectious disease** was not the cause of that death.
+3. | Time, place and circumstances at or in which injury was sustained:***
 
-- Dated this . day of . 19 .
+4. | Conclusion of the jury/coroner as to the death: +
 
-- .
+5. | Particulars for the time being required by the Births and Deaths Registration Ordinance (Cap. 174) to be registered concerning the death:
 
-- Coroner
+(1) Date and place of death | (2) Name and surname of deceased | (3) Sex | (4) Maiden surname of woman who has married | (5) Date and place of birth | (6) Occupation and usual address
 
-- * Delete whichever is inapplicable.
+Signature of coroner [and jurors]
 
-- ** An infectious disease is any disease which may render the dead body of a person a danger to public health.
+NOTES
 
-- -
+* | 1. | Modify this as necessary according to whether the inquest is held with or without a jury or partly with and partly without a jury.
 
-- FORM 12 | [section 43]
+** | 2. | In the case of a death from natural causes or from an occupational disease, want of attention at birth, or dependence on, or non-dependent abuse of, drugs, insert the immediate cause of death and the morbid conditions, if any, giving rise to the immediate cause of death.
 
-- FINDINGS AT INQUEST
+*** | 3. | Omit this if the cause of death is one to which Note 2 applies.
 
-- An inquest held at .
++ | 4. | (a) | Where the cause of death is one to which Note 2 applies, it is suggested that one of the following forms be adopted—
 
-- in Hong Kong on the . day of . 19 ., [and
+The deceased died from natural causes.
 
-- by adjournment on the . day of . 19 .,]
+The deceased died from the occupational disease of ....................................................
 
-- [before and by * .] me .,
+The deceased died from dependence on drugs/non-dependent abuse of drugs.
 
-- a coroner, [and the undermentioned jurors,] into the death of .
+The deceased died from want of attention at birth.
 
-- [a person unknown][concerning a stillbirth].
+(In any of the above cases, it is suggested that the following words may, where appropriate, be added—
 
-  - The following matters are found— 1. Name of deceased (if known):
+“to which neglect contributed”).
 
-- 2. Injury or disease causing death:**
+(b) | In any other case, except murder, manslaughter, infanticide, dangerous driving or stillbirth, it is suggested that one of the following forms be adopted— (33 of 2000 s. 5)
 
-- 3. Time, place and circumstances at or in which injury was sustained:***
+The deceased killed himself [whilst the balance of his mind was disturbed].
 
-- 4. Conclusion of the jury/coroner as to the death: +
+The deceased died as a result of an attempted/self-induced abortion.
 
-- 5. Particulars for the time being required by the Births and Deaths Registration Ordinance (Cap. 174) to be registered concerning the death:
+The deceased died as a result of an accident/misadventure.
 
-- (1) Date and place of death | (2) Name and surname of deceased | (3) Sex | (4) Maiden surname of woman who has married | (5) Date and place of birth | (6) Occupation and usual address
+The deceased was killed lawfully.
 
-- Signature of coroner [and jurors]. NOTES
+Open verdict, namely, the evidence did not fully or further disclose the means whereby the cause of death arose.
 
-- * 1. Modify this as necessary according to whether the inquest is held with or without a jury or partly with and partly without a jury.
+(c) | In the case of murder, manslaughter, infanticide or dangerous driving, it is suggested that the following form be adopted— (33 of 2000 s. 5)
 
-- ** 2. In the case of a death from natural causes or from an occupational disease, want of attention at birth, or dependence on, or non-dependent abuse of, drugs, insert the immediate cause of death and the morbid conditions, if any, giving rise to the immediate cause of death.
+The deceased was killed unlawfully.
 
-- *** 3. Omit this if the cause of death is one to which Note 2 applies.
+(d) | In the case of a stillbirth, insert “stillbirth” and do not complete the remainder of the form.
 
-- + 4.
+_
 
-  - (a)
+FORM 13
 
-  - Where the cause of death is one to which Note 2 applies, it is suggested that one of the following forms be adopted—
+[s. 45]
 
-  - The deceased died from natural causes.
+Certificate of Coroner
 
-  - The deceased died from the occupational disease of .
+I hereby certify that on the .......... day of .............................. 19 .........., I held, under the provisions of the Coroners Ordinance (Cap. 504), an inquest into the cause of and the circumstances connected with a death in .................................................................................................... and that the following particulars were then disclosed—
 
-  - The deceased died from dependence on drugs/non-dependent abuse of drugs.
+1. | Name of deceased.
 
-  - The deceased died from want of attention at birth.
+2. | Residence and occupation.
 
-  - (In any of the above cases, it is suggested that the following words may, where appropriate, be added—
+3. | Where found, and when, and in what circumstances.
 
-  - “to which neglect contributed”).
+4. | Date of death.
 
-    - (b) In any other case, except murder, manslaughter, infanticide, reckless driving or stillbirth, it is suggested that one of the following forms be adopted—
+5. | Cause of death.
 
-  - The deceased killed himself [whilst the balance of his mind was disturbed].
+* | 6. | The names of the persons last seen in the company of the deceased.
 
-  - The deceased died as a result of an attempted/self-induced abortion.
+* | 7. | Any suspicious circumstances which point to any person or persons as having caused the death.
 
-  - The deceased died as a result of an accident/misadventure.
+Note: The following are the names, residences and callings of the witnesses examined—
 
-  - The deceased was killed lawfully.
+Dated this ............ day of ........................ 19 ........
 
-  - Open verdict, namely, the evidence did not fully or further disclose the means whereby the cause of death arose.
+Coroner
 
-    - (c) In the case of murder, manslaughter, infanticide or reckless driving, it is suggested that the following form be adopted— The deceased was killed unlawfully.
+* | To be filled up in case the death is supposed to have been caused by improper means.
 
-    - (d) In the case of a stillbirth, insert “stillbirth” and do not complete the remainder of the form. -
+_
 
-    - FORM 13 | [section 45]
+FORM 14
 
-    - CERTIFICATE OF CORONER I hereby certify that on the . day of . 19 ., I held, under the provisions of the Coroners Ordinance (Cap. 504), an inquest into the cause of and the circumstances connected with a death in . . and that the following particulars were then disclosed—
+[s. 47]
 
-  - 1. Name of deceased.
+Warrant for Commitment of Person who has Committed a Contempt at or in Relation to Inquest
 
-  - 2. Residence and occupation.
+To each and all of the police officers of Hong Kong and to the Commissioner of Correctional Services.
 
-  - 3. Where found, and when, and in what circumstances.
+Whereas ....................................................... of .................................................................................................... has, at or in relation to an inquest held by me at ........................................................................... in Hong Kong on the ............. day of ............. 19 ............., committed the following act ........................................................................................................................... and such act being an act by virtue of which I have power under section 47 of the Coroners Ordinance (Cap. 504) to commit the said ............................................ to prison for a specified period not exceeding 2 months [and having the consent of the Secretary for Justice to exercise such power]*:
 
-  - 4. Date of death.
+YOU, THE SAID POLICE OFFICERS, ARE HEREBY COMMANDED to take the said
 
-  - 5. Cause of death.
+and to safely convey him to a prison, and there to deliver him to the Commissioner of Correctional Services, together with this warrant:
 
-  - *6. The names of the persons last seen in the company of the deceased.
+YOU, THE SAID COMMISSIONER OF CORRECTIONAL SERVICES, ARE HEREBY COMMANDED to receive the said
 
-  - *7. Any suspicious circumstances which point to any person or persons as having caused the death. Note: The following are the names, residences and callings of the witnesses examined— Dated this . day of . 19 . . Coroner * To be filled up in case the death is supposed to have been caused by improper means. -
+into your custody in a prison, and there imprison him for such his act for the space of .......... days; and for your so doing this shall be sufficient warrant.
 
-  - FORM 14 | [section 47]
+Dated this ............ day of ........................ 19 ........
 
-  - WARRANT FOR COMMITMENT OF PERSON WHO HAS COMMITTED
+Coroner
 
-  - A CONTEMPT AT OR IN RELATION TO INQUEST To each and all of the police officers of Hong Kong and to the Commissioner of Correctional Services.
+* | Delete if section 47(3) of the Coroners Ordinance (Cap. 504) is not applicable.
 
-  - Whereas . of . .
+(L.N. 362 of 1997)
 
-  - . has, at or in relation to an inquest held by me at .
+_
 
-  - . in Hong Kong on the . day of . 19 ., committed the following act . ., and such act being an act by virtue of which I have power under section 47 of the Coroners Ordinance (Cap. 504) to commit the said . to prison for a specified period not exceeding 2 months [and having the consent of the Secretary for Justice to exercise such power]*: YOU, THE SAID POLICE OFFICERS, ARE HEREBY COMMANDED to take the said . and to safely convey him to a prison, and there to deliver him to the Commissioner of Correctional Services, together with this warrant: YOU, THE SAID COMMISSIONER OF CORRECTIONAL SERVICES, ARE HEREBY COMMANDED to receive the said . into your custody in a prison, and there imprison him for such his act for the space of . days; and for your so doing this shall be sufficient warrant. Dated this . day of . 19 . . Coroner * Delete if section 47(3) of the Coroners Ordinance (Cap. 504) is not applicable.
+FORM 15
 
-- (L.N. 362 of 1997)
+[rule 17]
 
-- -
+Register of Deaths Reported to the Coroner
 
-- FORM 15 | [rule 17]
-
-- REGISTER OF DEATHS REPORTED TO THE CORONER
-
-- Date on which death is reported | Burial/ cremation order number | Name of deceased | Sex and age of deceased | Cause of death | External cause (if applicable) | Findings at inquest (if any)
+Date on which death is reported | Burial/ cremation order number | Name of deceased | Sex and age of deceased | Cause of death | External cause (if applicable) | Findings at inquest (if any)

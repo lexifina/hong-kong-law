@@ -80,9 +80,9 @@ Section | Summary of Offence | Penalty
 
 44 | Failure to secure aircraft | Level 3
 
-48(3) | Causing death by reckless driving | Level 5 and 6 months imprisonment
+48(3) | Causing death by dangerous driving (33 of 2000 s. 5) | Level 5 and 6 months imprisonment
 
-48(4) | Reckless driving | Level 4 and 6 months imprisonment
+48(4) | Dangerous driving (33 of 2000 s. 5) | Level 4 and 6 months imprisonment
 
 48(5) | Careless driving | Level 3 and 3 months imprisonment
 

@@ -8,9 +8,9 @@ Item | Section, Regulation or By-law | Description of general nature of offence 
 
 Road Traffic Ordinance (Cap. 374)
 
-1 | Section 36(1) | Causing death by reckless driving | 10
+1 | Section 36(1) | Causing death by dangerous driving | 10
 
-2 | Section 37(1) | Reckless driving | 10
+2 | Section 37(1) | Dangerous driving | 10
 
 3 | Section 38(1) | Careless driving | 5
 
@@ -120,4 +120,4 @@ Tsing Ma Control Area (General) Regulation (Cap. 498 sub. leg. B)
 
 49 | Section 10(2) | Driving in excess of temporary speed limit by more than 45 kilometres an hour | 8
 
-(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998)
+(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5)
