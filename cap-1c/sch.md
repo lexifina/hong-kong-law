@@ -170,7 +170,7 @@ Commissioner of Correctional Services | Training Centres Ordinance (Chapter 280)
 
 Commissioner of Customs and Excise | Control of Chemicals Ordinance (Chapter 145). (L.N. 51 of 1984; 64 of 1994 s. 18)
 
-Commissioner of Customs and Excise | Copyright Ordinance (Chapter 528). (L.N. 51 of 1984; 92 of 1997 s. 280 & Schs. 2 & 3)
+Commissioner of Customs and Excise | Copyright Ordinance (Chapter 528). (92 of 1997 s. 280 & Schs. 2 & 3)
 
 Commissioner of Customs and Excise | Dutiable Commodities Ordinance (Chapter 109), except section 7. (L.N. 51 of 1984; L.N. 338 of 1987)
 
@@ -474,6 +474,10 @@ Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 2
 
 Editorial Note:
 
-1. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
+- 1. Please also see the Specifications of Public Offices in L.N. 282 of 1998. It was made under s. 43 of Cap. 1 after 1 July 1997. Its particulars are as follows—
 
-2. * This entry was added by section 66 of Ord. No. 18 of 2014. By virtue of section 1(5) of Ord. No. 18 of 2014, section 66 was deemed to have come into operation on 9 April 1998.
+- Public Office | Ordinance or section of Ordinance for which specified
+
+- L.N. 282 of 1998 | Director of Environmental Protection Director of Environmental Protection | Environmental Impact Assessment Ordinance (Chapter 499). Environmental Impact Assessment (Appeal Board) Regulation (Chapter 499 subsidiary legislation).
+
+- 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014. 3. * This entry was added by section 66 of Ord. No. 18 of 2014. By virtue of section 1(5) of Ord. No. 18 of 2014, section 66 was deemed to have come into operation on 9 April 1998.
