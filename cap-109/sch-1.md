@@ -28,7 +28,7 @@
 
   - (a) | for each 1000 cigarettes . | 804
 
-  - (b) | cigars . | 1035/kg
+  - (b) | cigars. | 1035/kg
 
   - (c) | Chinese prepared tobacco . | 197/kg
 
@@ -58,9 +58,9 @@
 
   - 1A. Duty shall be payable on ultra low sulphur diesel at the following rates—
 
-    - (a) from 7 July 2000 to 31 March 2004 (both dates inclusive), at $1.11 per litre; and (Amended L.N. 150 of 2001)
+    - (a) from 7 July 2000 to 31 December 2004 (both dates inclusive), at $1.11 per litre; and (Amended L.N. 150 of 2001; L.N. 50 of 2004)
 
-    - (b) from 1 April 2004, at $2.89 per litre. (Replaced L.N. 150 of 2001)
+    - (b) from 1 January 2005, at $2.89 per litre. (Replaced L.N. 150 of 2001. Amended L.N. 50 of 2004)
 
     - (c) (Repealed L.N. 150 of 2001)
 
