@@ -4,8 +4,6 @@
 
 ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 - PART I (Amended 44 of 1994 s. 17; 74 of 1996 s. 9) Agriculture and Fisheries Department.
 
 - Airport Authority. (Added L.N. 155 of 1996)
@@ -46,6 +44,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Electrical and Mechanical Services Department.
 
+- Employees Retraining Board. (Added L.N. 139 of 1999)
+
 - Environmental Protection Department.
 
 - Fire Services Department.
@@ -75,6 +75,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 - Hong Kong Housing Society. (Added L.N. 155 of 1996)
 
 - Hong Kong Monetary Authority. (Added L.N. 97 of 1993)
+
+- Hong Kong Sports Development Board. (Added L.N. 139 of 1999)
 
 - Hospital Authority. (Added L.N. 420 of 1991)
 
@@ -110,9 +112,13 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Management Services Agency. (Added L.N. 383 of 1993)
 
+- Mandatory Provident Fund Schemes Authority. (Added L.N. 139 of 1999)
+
 - Marine Department.
 
 - Mass Transit Railway Corporation. (Added 44 of 1994 s. 17)
+
+- Observatory. (Amended 25 of 1998 s. 2)
 
 - Office of the Telecommunications Authority. (Added L.N. 242 of 1993)
 
@@ -138,8 +144,6 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Registry of Trade Unions.
 
-- Observatory. (Amended 25 of 1998 s. 2)
-
 - Secretariat of the Standing Commission on Civil Service Salaries and Conditions of Service. (Added L.N. 155 of 1996)
 
 - Secretariat of the Standing Committee on Disciplined Services Salaries and Conditions of Service. (Added L.N. 155 of 1996)
@@ -153,6 +157,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 - Television and Entertainment Licensing Authority.
 
 - Territory Development Department.
+
+- The Hong Kong Examinations Authority. (Added L.N. 139 of 1999)
 
 - Trade Department.
 
