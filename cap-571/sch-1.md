@@ -1,0 +1,1139 @@
+# SCHEDULE 1
+
+[ss. 2, 19, 66, 164, 171, 174, 175, 202 & 406 & Sch. 9]
+
+INTERPRETATION AND GENERAL PROVISIONS
+
+- PART 1 INTERPRETATION
+
+  - 1.
+
+  - Interpretation of this Ordinance In this Ordinance, unless otherwise defined or excluded or the context otherwise requires—
+
+    - “accredited” (隸屬) means accredited to a licensed corporation with the Commission’s approval under section 122 of this Ordinance;
+
+    - “Advisory Committee” (諮詢委員會) means the Advisory Committee referred to in section 7 of this Ordinance;
+
+    - “articles” (章程細則), in relation to a company, means its articles as defined in section 2(1) of the Companies Ordinance (Cap. 32);
+
+    - “associate” (有聯繫者), in relation to a person, means—
+
+      - (a) the spouse, or any minor child (natural or adopted) or minor step-child, of the person;
+
+      - (b) any corporation of which the person is a director;
+
+      - (c) any employee or partner of the person;
+
+      - (d) the trustee of a trust of which the person, his spouse, minor child (natural or adopted) or minor step-child, is a beneficiary or a discretionary object;
+
+      - (e) another person in accordance with whose directions or instructions the person is accustomed or obliged to act;
+
+      - (f) another person accustomed or obliged to act in accordance with the directions or instructions of the person;
+
+      - (g) a corporation in accordance with the directions or instructions of which, or the directions or instructions of the directors of which, the person is accustomed or obliged to act;
+
+      - (h) a corporation which is, or the directors of which are, accustomed or obliged to act in accordance with the directions or instructions of the person;
+
+      - (i) a corporation at general meetings of which the person, either alone or together with another, is directly or indirectly entitled to exercise or control the exercise of 33% or more of the voting power;
+
+      - (j) a corporation of which the person controls the composition of the board of directors;
+
+      - (k) where the person is a corporation—
+
+        - (i) each of its directors and its related corporations and each director or employee of any of its related corporations; and
+
+        - (ii) a pension fund, provident fund or employee share scheme of the corporation or of a related corporation of the corporation;
+
+      - (l) without limiting the circumstances in which paragraphs (a) to (k) apply, in circumstances concerning the securities of or other interest in a corporation, or rights arising out of the holding of such securities or such interest, any other person with whom the person has an agreement or arrangement—
+
+        - (i) with respect to the acquisition, holding or disposal of such securities or such interest; or
+
+        - (ii) under which they undertake to act together in exercising their voting power at general meetings of the corporation;
+
+    - “associated entity” (有聯繫實體), in relation to an intermediary, means a company, or an overseas company complying with the provisions of Part XI of the Companies Ordinance (Cap. 32) relating to the registration of documents, which—
+
+      - (a) is in a controlling entity relationship with the intermediary; and
+
+      - (b) receives or holds in Hong Kong client assets of the intermediary;
+
+    - “auditor” (核數師) means a professional accountant registered and holding a practising certificate under the Professional Accountants Ordinance (Cap. 50), or such other person as is prescribed by rules made under section 397 of this Ordinance for the purposes of this definition;
+
+    - “authorized automated trading services” (認可自動化交易服務) means automated trading services which a person is authorized to provide under section 95(2) of this Ordinance;
+
+    - “authorized financial institution” (認可財務機構) means an authorized institution as defined in section 2(1) of the Banking Ordinance (Cap. 155);
+
+    - “automated trading services” (自動化交易服務) has the meaning assigned to it by Part 2 of Schedule 5 to this Ordinance;
+
+    - “bank” (銀行) means any institution carrying on business similar to—
+
+      - (a) the banking business within the meaning of the Banking Ordinance (Cap. 155) as carried on by an authorized financial institution; or
+
+      - (b) the business of taking deposits within the meaning of that Ordinance as carried on by an authorized financial institution,
+
+    - whether it is an authorized financial institution or not, and “banker” (銀行) shall be construed accordingly;
+
+    - “bank incorporated outside Hong Kong” (在香港以外地方成立為法團的銀行) means a bank incorporated outside Hong Kong that is not an authorized financial institution;
+
+    - “banker’s books” (銀行簿冊) includes—
+
+      - (a) books of a banker;
+
+      - (b) cheques, orders for the payment of money, bills of exchange and promissory notes in the possession of a banker;
+
+      - (c) securities in the possession of a banker, whether as a pledge or otherwise; and
+
+      - (d) any material in which information is recorded (however compiled or stored, and whether recorded in a legible form or recorded otherwise than in a legible form but is capable of being reproduced in a legible form) and which is used in the ordinary course of business of a bank;
+
+    - “books” (簿冊) includes—
+
+      - (a) accounts and any accounting information; and
+
+      - (b) in the case of a banker, any banker’s books,
+
+    - however compiled or stored, and whether recorded in a legible form or recorded otherwise than in a legible form but is capable of being reproduced in a legible form;
+
+    - “broadcast” (廣播), in relation to any material (however described), includes having the information contained in the material broadcast;
+
+    - “broadcaster” (廣播業者) means a person who lawfully—
+
+      - (a) establishes and maintains a broadcasting service within the meaning of Part IIIA of the Telecommunications Ordinance (Cap. 106); or
+
+      - (b) provides a broadcasting service as defined in section 2(1) of the Broadcasting Ordinance (Cap. 562);
+
+    - “business day” (營業日) means a day other than—
+
+      - (a) a public holiday; and
+
+      - (b) a gale warning day or a black rainstorm warning day as defined in section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1);
+
+    - “certificate of deposit” (存款證) means a document relating to money, in any currency, which has been deposited with the issuer or some other person, being a document which recognizes an obligation to pay a stated amount to bearer or to order, with or without interest, and being a document by the delivery of which, with or without endorsement, the right to receive that stated amount, with or without interest, is transferable (and, in the case of any such document which is a prescribed instrument by virtue of paragraph (a) of the definition of “prescribed instrument” in section 137B(1) of the Banking Ordinance (Cap. 155), such document includes any right or interest referred to in paragraph (b) of that definition in respect of such document);
+
+    - “charge” (押記) includes any form of security, including a mortgage;
+
+    - “clearing house” (結算所) means a person—
+
+      - (a) whose activities or objects include the provision of services for the clearing and settlement of transactions in securities effected on a recognized stock market or subject to the rules of a recognized exchange company;
+
+      - (b) whose activities or objects include the provision of services for—
+
+        - (i) the clearing and settlement of transactions in futures contracts; or
+
+        - (ii) the day-to-day adjustment of the financial position of futures contracts,
+
+    - effected on a recognized futures market or subject to the rules of a recognized exchange company; or
+
+      - (c) who guarantees the settlement of any such transactions as are referred to in paragraph (a) or (b),
+
+    - but does not include a corporation operated by or on behalf of the Government;
+
+    - “clearing participant” (結算所參與者) means a person—
+
+      - (a) who, in accordance with the rules of a recognized clearing house, may participate in one or more of the services provided by the clearing house in its capacity as a clearing house; and
+
+      - (b) whose name is entered in a list, roll or register kept by that recognized clearing house as a person who may participate in one or more of the services provided by that clearing house;
+
+    - “client” (客戶), in relation to an intermediary, means a person for whom the intermediary provides a service the provision of which constitutes a regulated activity, and—
+
+      - (a) includes another intermediary that—
+
+        - (i) deposits securities;
+
+        - (ii) deposits money; or
+
+        - (iii) deposits any property as collateral,
+
+      - with the first-mentioned intermediary;
+
+      - (b) in connection with a leveraged foreign exchange contract, does not include a recognized counterparty;
+
+    - “client assets” (客戶資產) means—
+
+      - (a) client securities and collateral; and
+
+      - (b) client money;
+
+    - “client collateral” (客戶抵押品) means—
+
+      - (a) securities collateral; and
+
+      - (b) other collateral;
+
+    - “client money” (客戶款項)—
+
+      - (a) in relation to a licensed corporation, means any money—
+
+        - (i) received or held by or on behalf of the licensed corporation; or
+
+        - (ii) received or held by or on behalf of any corporation which is in a controlling entity relationship with the licensed corporation,
+
+      - which is so received or held on behalf of a client of the licensed corporation or in which a client of the licensed corporation has a legal or equitable interest, and includes any accretions thereto whether as capital or income; or
+
+      - (b) in relation to a registered institution, means any money—
+
+        - (i) received or held by or on behalf of the registered institution, in the course of the conduct of any regulated activity for which the registered institution is registered; or
+
+        - (ii) received or held by or on behalf of any corporation which is in a controlling entity relationship with the registered institution, in relation to such conduct of the regulated activity,
+
+    - which is so received or held on behalf of a client of the registered institution or in which a client of the registered institution has a legal or equitable interest, and includes any accretions thereto whether as capital or income;
+
+    - “client securities” (客戶證券)—
+
+      - (a) in relation to a licensed corporation, means any securities (other than securities collateral)—
+
+        - (i) received or held by or on behalf of the licensed corporation; or
+
+        - (ii) received or held by or on behalf of any corporation which is in a controlling entity relationship with the licensed corporation,
+
+    - which are so received or held on behalf of a client of the licensed corporation or in which a client of the licensed corporation has a legal or equitable interest; or
+
+      - (b) in relation to a registered institution, means any securities (other than securities collateral)—
+
+        - (i) received or held by or on behalf of the registered institution, in the course of the conduct of any regulated activity for which the registered institution is registered; or
+
+        - (ii) received or held by or on behalf of any corporation which is in a controlling entity relationship with the registered institution, in relation to such conduct of the regulated activity,
+
+      - which are so received or held on behalf of a client of the registered institution or in which a client of the registered institution has a legal or equitable interest;
+
+    - “client securities and collateral” (客戶證券及抵押品) means—
+
+      - (a) client securities; and
+
+      - (b) client collateral;
+
+    - “collective investment scheme” (集體投資計劃) means—
+
+      - (a) arrangements in respect of any property—
+
+        - (i) under which the participating persons do not have day-to-day control over the management of the property, whether or not they have the right to be consulted or to give directions in respect of such management;
+
+        - (ii) under which—
+
+          - (A) the property is managed as a whole by or on behalf of the person operating the arrangements;
+
+          - (B) the contributions of the participating persons and the profits or income from which payments are made to them are pooled; or
+
+          - (C) the property is managed as a whole by or on behalf of the person operating the arrangements, and the contributions of the participating persons and the profits or income from which payments are made to them are pooled; and
+
+        - (iii) the purpose or effect, or pretended purpose or effect, of which is to enable the participating persons, whether by acquiring any right, interest, title or benefit in the property or any part of the property or otherwise, to participate in or receive—
+
+          - (A) profits, income or other returns represented to arise or to be likely to arise from the acquisition, holding, management or disposal of the property or any part of the property, or sums represented to be paid or to be likely to be paid out of any such profits, income or other returns; or
+
+          - (B) a payment or other returns arising from the acquisition, holding or disposal of, the exercise of any right in, the redemption of, or the expiry of, any right, interest, title or benefit in the property or any part of the property; or
+
+      - (b) arrangements which are arrangements, or are of a class or description of arrangements, prescribed by notice under section 393 of this Ordinance as being regarded as collective investment schemes in accordance with the terms of the notice,
+
+    - but does not include—
+
+      - (i) arrangements operated by a person otherwise than by way of business;
+
+      - (ii) arrangements under which each of the participating persons is a corporation in the same group of companies as the person operating the arrangements;
+
+      - (iii) arrangements under which each of the participating persons is a bona fide employee or former employee of a corporation in the same group of companies as the person operating the arrangements, or a spouse, widow, widower, minor child (natural or adopted) or minor step-child of such employee or former employee;
+
+      - (iv) franchise arrangements under which the franchisor or franchisee earns profits or income by exploiting a right conferred by the arrangements to use a trade name or design or other intellectual property or the goodwill attached to it;
+
+      - (v) arrangements under which money is taken by a solicitor from his client, or as a stakeholder, acting in his professional capacity in the ordinary course of his practice;
+
+      - (vi) arrangements made for the purposes of any fund or scheme maintained by the Commission, or by a recognized exchange company, recognized clearing house, recognized exchange controller or recognized investor compensation company, under any provision of this Ordinance for the purpose of providing compensation in the event of default by an exchange participant or a clearing participant;
+
+      - (vii) arrangements made by any credit union in accordance with the objects thereof;
+
+      - (viii) arrangements made for the purposes of any chit-fund permitted to operate under the Chit-Fund Businesses (Prohibition) Ordinance (Cap. 262);
+
+      - (ix) arrangements made for the purposes of the Exchange Fund established by the Exchange Fund Ordinance (Cap. 66);
+
+      - (x) arrangements which are arrangements, or are of a class or description of arrangements, prescribed by notice under section 393 of this Ordinance as not being regarded as collective investment schemes in accordance with the terms of the notice;
+
+    - “Commission” (證監會) means the Securities and Futures Commission referred to in section 3(1) of this Ordinance;
+
+    - “Commissioner of the Independent Commission Against Corruption” (廉政專員) means the person who holds the office of the Commissioner of the Independent Commission Against Corruption pursuant to section 5 of the Independent Commission Against Corruption Ordinance (Cap. 204); (Amended 14 of 2003 s. 24)
+
+    - “company” (公司) means a company as defined in section 2(1) of the Companies Ordinance (Cap. 32);
+
+    - “compensation fund” (賠償基金) means the Investor Compensation Fund established under section 236 of this Ordinance;
+
+    - “conduct” (行為) includes any act or omission, and any series of acts or omissions;
+
+    - “constitution” (章程), in relation to a corporation, including a recognized exchange company, recognized clearing house, recognized exchange controller or recognized investor compensation company, means—
+
+      - (a) where the corporation is a company, the memorandum and articles of the corporation; or
+
+      - (b) in any other case, any other instrument providing for the constitution of the corporation;
+
+    - “controlling entity” (控權實體), in relation to a corporation, means a person who, either alone or with any of his associates—
+
+      - (a) is entitled to exercise or control the exercise of not less than—
+
+        - (i) subject to subparagraph (ii), 20%; or
+
+        - (ii) where any other percentage is prescribed by rules made under section 397 of this Ordinance for the purposes of this definition, such other percentage,
+
+      - of the voting power at general meetings of the corporation;
+
+      - (b) has the right to nominate any of the directors of the corporation; or
+
+      - (c) has an interest in shares carrying the right to—
+
+        - (i) veto any resolution; or
+
+        - (ii) amend, modify, limit or add conditions to any resolution,
+
+      - at general meetings of the corporation;
+
+    - “controlling entity relationship” (控權實體關係), in relation to a corporation, means its relationship with an intermediary by virtue of—
+
+      - (a) the intermediary being a controlling entity of the corporation;
+
+      - (b) the corporation being a controlling entity of the intermediary; or
+
+      - (c) another person, who is a controlling entity of the corporation, being also a controlling entity of the intermediary;
+
+    - “corporation” (法團) means a company or other body corporate incorporated either in Hong Kong or elsewhere, but does not include a company or other body corporate which is prescribed by rules made under section 397 of this Ordinance for the purposes of this definition as being exempted from the provisions of this Ordinance, or to the extent that it is prescribed by rules so made as being exempted from any provision of this Ordinance;
+
+    - “court” (法庭、法院) includes a magistrate and a tribunal;
+
+    - “credit union” (儲蓄互助社) means a credit union registered under the Credit Unions Ordinance (Cap. 119);
+
+    - “data material” (數據材料) means a document or other material used with or produced by any information system;
+
+    - “dealing” (交易)—
+
+      - (a) in relation to securities, means, whether as principal or agent, making or offering to make an agreement with another person, or inducing or attempting to induce another person, to enter into or to offer to enter into an agreement—
+
+        - (i) for or with a view to acquiring, disposing of, subscribing for or underwriting securities; or
+
+        - (ii) the purpose or pretended purpose of which is to secure a profit to any of the parties from the yield of securities or by reference to fluctuations in the value of securities; or
+
+      - (b) in relation to futures contracts, means, whether as principal or agent—
+
+        - (i) making or offering to make an agreement with another person to enter into, or to acquire or dispose of, a futures contract;
+
+        - (ii) inducing or attempting to induce another person to enter into, or to offer to enter into, a futures contract; or
+
+        - (iii) inducing or attempting to induce another person to acquire or dispose of a futures contract;
+
+    - “debenture” (債權證) includes debenture stocks, bonds, and other securities of a corporation, whether constituting a charge on the assets of the corporation or not;
+
+    - “defalcation” (虧空) means misapplication, including misappropriation, of any property;
+
+    - “director” (董事) includes a shadow director and any person occupying the position of director by whatever name called;
+
+    - “document” (文件) includes any register and books, any tape recording and any form of input or output into or from an information system, and any other document or similar material (whether produced mechanically, electronically, magnetically, optically, manually or by any other means);
+
+    - “exchange participant” (交易所參與者) means a person—
+
+      - (a) who, in accordance with the rules of a recognized exchange company, may trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company; and
+
+      - (b) whose name is entered in a list, roll or register kept by that recognized exchange company as a person who may trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company;
+
+    - “executive director” (執行董事), in relation to the Commission, means the chairman of the Commission, or any other person who is appointed as an executive director of the Commission under section 1 of Part 1 of Schedule 2 to this Ordinance;
+
+    - “executive officer” (主管人員)—
+
+      - (a) in relation to a licensed corporation, means a responsible officer of the licensed corporation;
+
+      - (b) in relation to a registered institution, means a person who is an executive officer of the registered institution under the Banking Ordinance (Cap. 155); or
+
+      - (c) in relation to an associated entity of an intermediary, means any director of the associated entity who is responsible for directly supervising the receiving or holding by the associated entity of client assets of the intermediary;
+
+    - “fee” (費用) includes a charge;
+
+    - “financial accommodation” (財務通融) means a loan or other arrangement under which a person is or is to be provided with credit, whether directly or through a third party, and in particular includes an overdraft, a discounted negotiable instrument, a guarantee, a forbearance from enforcing any debt that in substance is a loan, and also includes an agreement to secure the payment or repayment of any such accommodation;
+
+    - “financial product” (金融產品) means—
+
+      - (a) any securities;
+
+      - (b) any futures contract;
+
+      - (c) any collective investment scheme;
+
+      - (d) any leveraged foreign exchange contract;
+
+    - “financial resources rules” (財政資源規則) means rules made under section 145 of this Ordinance;
+
+    - “financial year” (財政年度)—
+
+      - (a) in relation to the Commission, means the financial year referred to in section 13(1) of this Ordinance; or
+
+      - (b) in relation to an intermediary, or an associated entity of an intermediary, means—
+
+        - (i) the financial year in respect of which notification is given to the Commission under section 155(1) of this Ordinance or, where an approval is granted under section 155(3)(a) of this Ordinance, the financial year in respect of which the approval is granted;
+
+        - (ii) the financial year in respect of which notification is given to the Monetary Authority under section 59B(1) of the Banking Ordinance (Cap. 155) or, where an approval is granted under section 59B(3)(a) of that Ordinance, the financial year in respect of which the approval is granted; or
+
+        - (iii) in any other case, a period of 12 consecutive months ending on 31 March in a calendar year;
+
+    - “function” (職能) includes power and duty;
+
+    - “futures contract” (期貨合約) means—
+
+      - (a) a contract or an option on a contract made under the rules or conventions of a futures market;
+
+      - (b) interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as being regarded as futures contracts in accordance with the terms of the notice,
+
+    - but does not include interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as not being regarded as futures contracts in accordance with the terms of the notice;
+
+    - “Futures Exchange Company” (期交所) means the company incorporated under the Companies Ordinance (Cap. 32) and registered under that Ordinance by the name Hong Kong Futures Exchange Limited;
+
+    - “futures market” (期貨市場) means a place at which facilities are provided for persons to negotiate or conclude sales and purchases of, or for bringing together on a regular basis sellers and purchasers of—
+
+      - (a) contracts the effect of which is—
+
+        - (i) that one party agrees to deliver to the other party at an agreed future time an agreed property, or an agreed quantity of a property, at an agreed price; or
+
+        - (ii) that the parties will make an adjustment between them at an agreed future time according to whether at that time an agreed property is worth more or less or an index or other factor stands at a higher or lower level than a value or level agreed at the time of making of the contract; or
+
+      - (b) options on contracts of the kind described in paragraph (a),
+
+    - where—
+
+      - (i) the contracts or options of the kind described in paragraph (a) or (b) are novated or guaranteed by a central counterparty under the rules or conventions of the market on which they are traded; or
+
+      - (ii) the contractual obligations under the contracts or options of the kind described in paragraph (a) or (b) are normally discharged before the contractual expiry date under the rules or conventions of the market on which they are traded,
+
+    - but does not include the office of a recognized clearing house;
+
+    - “group of companies” (公司集團) means any 2 or more corporations one of which is the holding company of the other or others (as the case may be);
+
+    - “hold” (持有), in relation to any property, includes—
+
+      - (a) possession of the property;
+
+      - (b) being registered or otherwise recorded, as having title to or being entitled to receive the property, in any register or other record (however compiled or stored) which is established or created for the purpose of identifying persons having title to or being entitled to receive any property; and
+
+      - (c) in the case of a person carrying on business, the person being in a position to transfer the property to himself or otherwise receive the benefit of the property—
+
+        - (i) where another person has a legal or equitable interest in the property;
+
+        - (ii) where there is a connection between the property and the business which is carried on by the person; and
+
+        - (iii) regardless of whether it would be lawful or unlawful for the person to transfer the property to himself or otherwise receive the benefit of the property,
+
+    - but does not include, in the case of a cheque or other order made payable to any person, the possession of the cheque or other order during the course of dispatching or delivering it to that person or any other person on behalf of that person;
+
+    - “holding company” (控股公司), in relation to a corporation, means any other corporation of which it is a subsidiary;
+
+    - “incorporated” (成立、成立為法團) includes formed or established, by whatever means;
+
+    - “information” (資訊、資料、消息) includes data, text, images, sound codes, computer programmes, software and databases, and any combination thereof;
+
+    - “information system” (資訊系統) means an information system as defined in section 2(1) of the Electronic Transactions Ordinance (Cap. 553);
+
+    - “Insurance Authority” (保險業監督) means the Insurance Authority appointed under section 4 of the Insurance Companies Ordinance (Cap. 41);
+
+    - “insurer” (保險人) means an insurer as defined in section 2(1) of the Insurance Companies Ordinance (Cap. 41);
+
+    - “intermediary” (中介人) means a licensed corporation or a registered institution;
+
+    - “judicial or other proceedings” (司法或其他法律程序) means any legal proceedings, whether in the nature of judicial proceedings or otherwise;
+
+    - “legal officer” (律政人員) means a legal officer as defined in section 2 of the Legal Officers Ordinance (Cap. 87);
+
+    - “leveraged foreign exchange contract” (槓桿式外匯交易合約) has the meaning assigned to it by Part 2 of Schedule 5 to this Ordinance;
+
+    - “leveraged foreign exchange trading” (槓桿式外匯交易) has the meaning assigned to it by Part 2 of Schedule 5 to this Ordinance;
+
+    - “licence” (牌、牌照) means a licence granted under section 116, 117, 120 or 121 of this Ordinance, and “licensed” (獲發牌、持牌) shall be construed accordingly;
+
+    - “licensed corporation” (持牌法團) means a corporation which is granted a licence under section 116 or 117 of this Ordinance;
+
+    - “licensed person” (持牌人) means a licensed corporation or a licensed representative;
+
+    - “licensed representative” (持牌代表) means an individual who is granted a licence under section 120 or 121 of this Ordinance;
+
+    - “liquidator” (清盤人) includes a provisional liquidator;
+
+    - “listed” (上市) means listed on a recognized stock market, and for the purposes of this definition—
+
+      - (a) a corporation shall be regarded as listed if any of its securities are listed;
+
+      - (b) securities shall be regarded as listed when a recognized exchange company has, on the application of the corporation which issued them, or on the application of a holder of them, agreed to allow, subject to the requirements of this Ordinance, dealings in those securities to take place on a recognized stock market, and shall continue to be so regarded during a period of suspension of dealings in those securities on the recognized stock market;
+
+    - “listing” (上市), in relation to securities, means the process by which the securities are listed;
+
+    - “live broadcast” (直播), in relation to any material (however described), means having the material broadcast without its being recorded in advance;
+
+    - “Mandatory Provident Fund Schemes Authority” (積金局) means the Mandatory Provident Fund Schemes Authority established under section 6 of the Mandatory Provident Fund Schemes Ordinance (Cap. 485);
+
+    - “market contract” (市場合約) means a contract subject to the rules of a recognized clearing house entered into by the clearing house with a clearing participant pursuant to a novation which is both in accordance with those rules and for the purposes of the clearing and settlement of transactions in securities or futures contracts effected on a recognized stock market or a recognized futures market or subject to the rules of a recognized exchange company;
+
+    - “market misconduct” (市場失當行為) has the meaning assigned to it by section 245(1) of this Ordinance;
+
+    - “Market Misconduct Tribunal” (市場失當行為審裁處) means the Market Misconduct Tribunal established by section 251 of this Ordinance;
+
+    - “member” (成員), in relation to the Commission, means any executive director (whether or not acting as the chairman or deputy chairman) or non-executive director of the Commission;
+
+    - “memorandum” (章程大綱), in relation to a company, means its memorandum as defined in section 2(1) of the Companies Ordinance (Cap. 32);
+
+    - “minor” (未成年), in relation to a person, means not having attained the age of 18 years;
+
+    - “misfeasance” (不當行為) means the performance of an otherwise lawful act in a wrongful manner;
+
+    - “Monetary Authority” (金融管理專員) means the Monetary Authority appointed under section 5A of the Exchange Fund Ordinance (Cap. 66);
+
+    - “money laundering activities” (洗錢活動) means activities intended to have the effect of making any property—
+
+      - (a) which is the proceeds obtained from the commission of an offence under the laws of Hong Kong, or of any conduct which if occurred in Hong Kong would constitute an offence under the laws of Hong Kong; or
+
+      - (b) which in whole or in part, directly or indirectly, represents such proceeds,
+
+    - not to appear to be or so represent such proceeds;
+
+    - “multilateral agency” (多邊機構) means a body specified in Part 4;
+
+    - “non-executive director” (非執行董事), in relation to the Commission, means a person who is appointed as a non-executive director of the Commission under section 1 of Part 1 of Schedule 2 to this Ordinance;
+
+    - “number” (數目), in relation to shares which in the context can be construed to include stock, includes amount;
+
+    - “officer” (高級人員)—
+
+      - (a) in relation to a corporation, means a director, manager or secretary of, or any other person involved in the management of, the corporation; or
+
+      - (b) in relation to an unincorporated body, means any member of the governing body of the unincorporated body;
+
+    - “Official Receiver” (破產管理署署長) means the Official Receiver appointed under section 75 of the Bankruptcy Ordinance (Cap. 6);
+
+    - “Ombudsman” (申訴專員) means The Ombudsman referred to in section 3(1) of The Ombudsman Ordinance (Cap. 397);
+
+    - “other collateral” (其他抵押品)—
+
+      - (a) in relation to a licensed corporation, means any property (other than securities or money)—
+
+        - (i) deposited with, or otherwise provided by or on behalf of a client of the licensed corporation to, the licensed corporation; or
+
+        - (ii) deposited with, or otherwise provided by or on behalf of a client of the licensed corporation to, any other intermediary or person,
+
+      - which is so deposited or provided—
+
+        - (A) as security for the provision by the licensed corporation of financial accommodation; or
+
+        - (B) to facilitate the provision by the licensed corporation of financial accommodation under an arrangement that confers on the licensed corporation a collateral interest in the property; or
+
+      - (b) in relation to a registered institution, means any property (other than securities or money)—
+
+        - (i) deposited with, or otherwise provided by or on behalf of a client of the registered institution to, the registered institution, in the course of the conduct of any regulated activity for which the registered institution is registered; or
+
+        - (ii) deposited with, or otherwise provided by or on behalf of a client of the registered institution to, any other intermediary or person, in relation to such conduct of the regulated activity,
+
+      - which is so deposited or provided—
+
+        - (A) as security for the provision by the registered institution of financial accommodation; or
+
+        - (B) to facilitate the provision by the registered institution of financial accommodation under an arrangement that confers on the registered institution a collateral interest in the property;
+
+    - “overseas company” (海外公司) means an oversea company within the meaning of section 332 of the Companies Ordinance (Cap. 32);
+
+    - “performance” (執行), in relation to a function, includes discharge and exercise;
+
+    - “possession” (管有), in relation to any matter, includes custody, control and power of or over the matter;
+
+    - “Privacy Commissioner for Personal Data” (私隱專員) means the Privacy Commissioner for Personal Data established under section 5(1) of the Personal Data (Privacy) Ordinance (Cap. 486);
+
+    - “professional accountant” (專業會計師) means a professional accountant as defined in section 2 of the Professional Accountants Ordinance (Cap. 50);
+
+    - “professional investor” (專業投資者) means—
+
+      - (a) any recognized exchange company, recognized clearing house, recognized exchange controller or recognized investor compensation company, or any person authorized to provide automated trading services under section 95(2) of this Ordinance;
+
+      - (b) any intermediary, or any other person carrying on the business of the provision of investment services and regulated under the law of any place outside Hong Kong;
+
+      - (c) any authorized financial institution, or any bank which is not an authorized financial institution but is regulated under the law of any place outside Hong Kong;
+
+      - (d) any insurer authorized under the Insurance Companies Ordinance (Cap. 41), or any other person carrying on insurance business and regulated under the law of any place outside Hong Kong;
+
+      - (e) any scheme which—
+
+        - (i) is a collective investment scheme authorized under section 104 of this Ordinance; or
+
+        - (ii) is similarly constituted under the law of any place outside Hong Kong and, if it is regulated under the law of such place, is permitted to be operated under the law of such place,
+
+      - or any person by whom any such scheme is operated;
+
+      - (f) any registered scheme as defined in section 2(1) of the Mandatory Provident Fund Schemes Ordinance (Cap. 485), or its constituent fund as defined in section 2 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A), or any person who, in relation to any such registered scheme, is an approved trustee or service provider as defined in section 2(1) of that Ordinance or who is an investment manager of any such registered scheme or constituent fund;
+
+      - (g) any scheme which—
+
+        - (i) is a registered scheme as defined in section 2(1) of the Occupational Retirement Schemes Ordinance (Cap. 426); or
+
+        - (ii) is an offshore scheme as defined in section 2(1) of that Ordinance and, if it is regulated under the law of the place in which it is domiciled, is permitted to be operated under the law of such place,
+
+    - or any person who, in relation to any such scheme, is an administrator as defined in section 2(1) of that Ordinance;
+
+      - (h) any government (other than a municipal government authority), any institution which performs the functions of a central bank, or any multilateral agency;
+
+      - (i) except for the purposes of Schedule 5 to this Ordinance, any corporation which is—
+
+        - (i) a wholly owned subsidiary of—
+
+          - (A) an intermediary, or any other person carrying on the business of the provision of investment services and regulated under the law of any place outside Hong Kong; or
+
+          - (B) an authorized financial institution, or any bank which is not an authorized financial institution but is regulated under the law of any place outside Hong Kong;
+
+        - (ii) a holding company which holds all the issued share capital of—
+
+          - (A) an intermediary, or any other person carrying on the business of the provision of investment services and regulated under the law of any place outside Hong Kong; or
+
+          - (B) an authorized financial institution, or any bank which is not an authorized financial institution but is regulated under the law of any place outside Hong Kong; or
+
+        - (iii) any other wholly owned subsidiary of a holding company referred to in subparagraph (ii); or
+
+      - (j) any person of a class which is prescribed by rules made under section 397 of this Ordinance for the purposes of this paragraph as within the meaning of this definition for the purposes of the provisions of this Ordinance, or to the extent that it is prescribed by rules so made as within the meaning of this definition for the purposes of any provision of this Ordinance;
+
+    - “property” (財產) includes—
+
+      - (a) money, goods, choses in action and land, whether in Hong Kong or elsewhere; and
+
+      - (b) obligations, easements and every description of estate, interest and profit, present or future, vested or contingent, arising out of or incident to property as defined in paragraph (a);
+
+    - “prospectus” (招股章程) means any prospectus, notice, circular, brochure, advertisement, or other document—
+
+      - (a) offering any shares or debentures of a corporation to the public for subscription or purchase for cash or other consideration; or
+
+      - (b) calculated to invite offers by the public to subscribe for or purchase for cash or other consideration any shares or debentures of a corporation;
+
+    - “public” (公眾、大眾) means the public of Hong Kong, and includes any class of that public;
+
+    - “purchase” (買、購買), in relation to securities, includes subscribing for or acquiring the securities, in whatever form the consideration may be;
+
+    - “qualifying credit rating” (合資格信貸評級) means—
+
+      - (a) a credit rating specified in Part 5; or
+
+      - (b) any credit rating which, in the opinion of the Commission, is equivalent to a credit rating specified in Part 5;
+
+    - “recognized clearing house” (認可結算所) means a company recognized as a clearing house under section 37(1) of this Ordinance;
+
+    - “recognized counterparty” (認可對手方) means—
+
+      - (a) an authorized financial institution;
+
+      - (b) in relation to a particular transaction conducted by a corporation licensed for Type 3 regulated activity, another corporation which is also so licensed; or
+
+      - (c) an institution prescribed by rules made under section 397 of this Ordinance for the purposes of this definition as a recognized counterparty;
+
+    - “recognized exchange company” (認可交易所) means a company recognized as an exchange company under section 19(2) of this Ordinance;
+
+    - “recognized exchange controller” (認可控制人) means a company recognized as an exchange controller under section 59(2) of this Ordinance;
+
+    - “recognized futures market” (認可期貨市場) means a futures market operated by a recognized exchange company;
+
+    - “recognized investor compensation company” (認可投資者賠償公司) means a company recognized as an investor compensation company under section 79(1) of this Ordinance;
+
+    - “recognized stock market” (認可證券市場) means a stock market operated by a recognized exchange company;
+
+    - “record” (紀錄) means any record of information (however compiled or stored) and includes—
+
+      - (a) any books, deeds, contract or agreement, voucher, receipt or data material, or information which is recorded otherwise than in a legible form but is capable of being reproduced in a legible form; and
+
+      - (b) any document, disc, tape, sound track or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of other equipment) of being reproduced, and any film (including a microfilm), tape or other device in which visual images are embodied so as to be capable (with or without the aid of other equipment) of being reproduced;
+
+    - “registered” (註冊) means registered under section 119 of this Ordinance, and “registration” (註冊) shall be construed accordingly;
+
+    - “registered institution” (註冊機構) means an authorized financial institution which is registered under section 119 of this Ordinance;
+
+    - “Registrar of Companies” (公司註冊處處長) means the Registrar of Companies appointed under section 303 of the Companies Ordinance (Cap. 32);
+
+    - “regulated activity” (受規管活動) means any of the regulated activities specified in Part 1 of Schedule 5 to this Ordinance, and a reference to a type of regulated activity by number shall be construed as a reference to the type of regulated activity of that number as specified in that Part;
+
+    - “regulated investment agreement” (受規管投資協議) means an agreement the purpose or effect, or pretended purpose or effect, of which is to provide, whether conditionally or unconditionally, to any party to the agreement a profit, income or other returns calculated by reference to changes in the value of any property, but does not include an interest in a collective investment scheme;
+
+    - “relevant provisions” (有關條文) means the provisions of—
+
+      - (a) this Ordinance;
+
+      - (b) Parts II and XII of the Companies Ordinance (Cap. 32), so far as those Parts relate, directly or indirectly, to the performance of functions relating to—
+
+        - (i) prospectuses;
+
+        - (ii) the purchase by a corporation of its own shares;
+
+        - (iii) a corporation giving financial assistance for the acquisition of its own shares,
+
+    - whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance;
+
+    - “relevant share capital” (有關股本) means the issued share capital of a corporation which is of a class carrying rights to vote in all circumstances at general meetings of the corporation;
+
+    - “remuneration” (報酬) includes money, any consideration, financial accommodation or benefit, whether paid, provided or supplied directly or indirectly; “repealed Commodities Trading Ordinance” (已廢除的《商品交易條例》) means the Commodities Trading Ordinance (Cap. 250) repealed under section 406 of this Ordinance;
+
+    - ”repealed Exchanges and Clearing Houses (Merger) Ordinance” (已廢除的《交易所及結算所(合併)條例》) means the Exchanges and Clearing Houses (Merger) Ordinance (Cap. 555) repealed under section 406 of this Ordinance;
+
+    - ”repealed Leveraged Foreign Exchange Trading Ordinance” (已廢除的《槓桿式外匯買賣條例》) means the Leveraged Foreign Exchange Trading Ordinance (Cap. 451) repealed under section 406 of this Ordinance;
+
+    - ”repealed Protection of Investors Ordinance” (已廢除的《保障投資者條例》) means the Protection of Investors Ordinance (Cap. 335) repealed under section 406 of this Ordinance;
+
+    - ”repealed Securities and Futures (Clearing Houses) Ordinance” (已廢除的《證券及期貨(結算所)條例》) means the Securities and Futures (Clearing Houses) Ordinance (Cap. 420) repealed under section 406 of this Ordinance;
+
+    - ”repealed Securities and Futures Commission Ordinance” (已廢除的《證券及期貨事務監察委員會條例》) means the Securities and Futures Commission Ordinance (Cap. 24) repealed under section 406 of this Ordinance;
+
+    - ”repealed Securities (Disclosure of Interests) Ordinance” (已廢除的《證券(披露權益)條例》) means the Securities (Disclosure of Interests) Ordinance (Cap. 396) repealed under section 406 of this Ordinance;
+
+    - ”repealed Securities (Insider Dealing) Ordinance” (已廢除的《證券(內幕交易)條例》) means the Securities (Insider Dealing) Ordinance (Cap. 395) repealed under section 406 of this Ordinance;
+
+    - ”repealed Securities Ordinance” (已廢除的《證券條例》) means the Securities Ordinance (Cap. 333) repealed under section 406 of this Ordinance;
+
+    - ”repealed Stock Exchanges Unification Ordinance” (已廢除的《證券交易所合併條例》) means the Stock Exchanges Unification Ordinance (Cap. 361) repealed under section 406 of this Ordinance;
+
+    - “responsible officer” (負責人員) means an individual who is approved by the Commission under section 126(1) of this Ordinance as a responsible officer of a licensed corporation;
+
+    - “Risk Management Committee” (風險管理委員會), in relation to a recognized exchange controller, means the committee of that name established under section 65(1) of this Ordinance by the controller;
+
+    - “rules” (規章)—
+
+      - (a) in relation to a recognized exchange company, means the rules, regulations and directions, by whatever name they may be called and wherever contained, governing—
+
+        - (i) its exchange participants;
+
+        - (ii) the persons who may participate in any of the services it provides;
+
+        - (iii) the setting and levying of fees;
+
+        - (iv) the listing of securities;
+
+        - (v) the trading of securities or futures contracts;
+
+        - (vi) the provision of other services; or
+
+        - (vii) generally, its management, operations or procedures,
+
+    - and includes, in respect of sections 24 and 92 of this Ordinance, its constitution;
+
+      - (b) in relation to a recognized clearing house, means the rules, regulations and directions, by whatever name they may be called and wherever contained, governing—
+
+        - (i) its clearing participants;
+
+        - (ii) the persons who may participate in any of the services it provides;
+
+        - (iii) the setting and levying of fees;
+
+        - (iv) the provision of clearing and settlement services, and the suspension or withdrawal of such services;
+
+        - (v) the provision of other services; or
+
+        - (vi) generally, its management, operations or procedures,
+
+      - and includes, in respect of sections 41 and 92 of this Ordinance, its constitution;
+
+      - (c) in relation to a recognized exchange controller, means—
+
+        - (i) its constitution; or
+
+        - (ii) the rules, regulations and directions, by whatever name they may be called and wherever contained, governing the conduct or procedures of—
+
+          - (A) the recognized exchange controller;
+
+          - (B) the Risk Management Committee; or
+
+          - (C) any person or body of persons declared in a notice under section 66(2) of this Ordinance to be a person or body of persons (as the case may be) to which this sub-subparagraph shall apply; or
+
+      - (d) in relation to a recognized investor compensation company, means—
+
+        - (i) its constitution; or
+
+        - (ii) the rules, regulations and directions, by whatever name they may be called and wherever contained, governing its management, operations or procedures, or its provision of services;
+
+    - “securities” (證券) means—
+
+      - (a) shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a body, whether incorporated or unincorporated, or a government or municipal government authority;
+
+      - (b) rights, options or interests (whether described as units or otherwise) in, or in respect of, such shares, stocks, debentures, loan stocks, funds, bonds or notes;
+
+      - (c) certificates of interest or participation in, temporary or interim certificates for, receipts for, or warrants to subscribe for or purchase, such shares, stocks, debentures, loan stocks, funds, bonds or notes;
+
+      - (d) interests in any collective investment scheme;
+
+      - (e) interests, rights or property, whether in the form of an instrument or otherwise, commonly known as securities;
+
+      - (f) interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as being regarded as securities in accordance with the terms of the notice,
+
+    - but does not include—
+
+      - (i) shares or debentures of a company that is a private company within the meaning of section 29 of the Companies Ordinance (Cap. 32);
+
+      - (ii) any interest in any collective investment scheme that is—
+
+        - (A) a registered scheme as defined in section 2(1) of the Mandatory Provident Fund Schemes Ordinance (Cap. 485), or its constituent fund as defined in section 2 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
+
+        - (B) an occupational retirement scheme as defined in section 2(1) of the Occupational Retirement Schemes Ordinance (Cap. 426); or
+
+        - (C) a contract of insurance in relation to any class of insurance business specified in the First Schedule to the Insurance Companies Ordinance (Cap. 41);
+
+      - (iii) any interest arising under a general partnership agreement or proposed general partnership agreement unless the agreement or proposed agreement relates to an undertaking, scheme, enterprise or investment contract promoted by or on behalf of a person whose ordinary business is or includes the promotion of similar undertakings, schemes, enterprises or investment contracts (whether or not that person is, or is to become, a party to the agreement or proposed agreement);
+
+      - (iv) any negotiable receipt or other negotiable certificate or document evidencing the deposit of a sum of money, or any rights or interest arising under the receipt, certificate or document;
+
+      - (v) any bill of exchange within the meaning of section 3 of the Bills of Exchange Ordinance (Cap. 19) and any promissory note within the meaning of section 89 of that Ordinance;
+
+      - (vi) any debenture that specifically provides that it is not negotiable or transferable;
+
+      - (vii) interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as not being regarded as securities in accordance with the terms of the notice;
+
+    - “Securities and Futures Appeals Tribunal” (上訴審裁處) means the Securities and Futures Appeals Tribunal established by section 216 of this Ordinance;
+
+    - “securities and futures industry” (證券期貨業) means the securities and futures market and participants (other than investors) therein (including recognized exchange companies, recognized clearing houses, recognized exchange controllers, recognized investor compensation companies and persons carrying on any regulated activity), and any activities related to financial products that are carried on in such securities and futures market or by such participants;
+
+    - “securities and futures market” (證券期貨市場) means any market, exchange, place or service which facilitates the bringing together on a regular basis persons who are parties to transactions related to financial products;
+
+    - “securities borrowing and lending agreement” (證券借貸協議) means an agreement whereby a person borrows or lends securities pursuant to an arrangement where the borrower undertakes to return securities of the same description, or pay the equivalent value of the securities, to the lender, and includes a stock borrowing within the meaning of section 19(16) of the Stamp Duty Ordinance (Cap. 117);
+
+    - “securities collateral” (證券抵押品)—
+
+      - (a) in relation to a licensed corporation, means any securities—
+
+        - (i) deposited with, or otherwise provided by or on behalf of a client of the licensed corporation to, the licensed corporation; or
+
+        - (ii) deposited with, or otherwise provided by or on behalf of a client of the licensed corporation to, any other intermediary or person,
+
+      - which are so deposited or provided—
+
+        - (A) as security for the provision by the licensed corporation of financial accommodation; or
+
+        - (B) to facilitate the provision by the licensed corporation of financial accommodation under an arrangement that confers on the licensed corporation a collateral interest in the securities; or
+
+      - (b) in relation to a registered institution, means any securities—
+
+        - (i) deposited with, or otherwise provided by or on behalf of a client of the registered institution to, the registered institution, in the course of the conduct of any regulated activity for which the registered institution is registered; or
+
+        - (ii) deposited with, or otherwise provided by or on behalf of a client of the registered institution to, any other intermediary or person, in relation to such conduct of the regulated activity,
+
+      - which are so deposited or provided—
+
+        - (A) as security for the provision by the registered institution of financial accommodation; or
+
+        - (B) to facilitate the provision by the registered institution of financial accommodation under an arrangement that confers on the registered institution a collateral interest in the securities;
+
+    - “securities margin financing” (證券保證金融資) has the meaning assigned to it by Part 2 of Schedule 5 to this Ordinance;
+
+    - “served” (送達) includes given;
+
+    - “shadow director” (幕後董事) means a person in accordance with whose directions or instructions the directors of a corporation are accustomed or obliged to act, but a person shall not be regarded as a shadow director by reason only of the fact that the directors act on advice given by him in a professional capacity;
+
+    - “share” (股份) means any share in the share capital of a corporation, and, except where a distinction between stock and shares is express or implied, includes stock;
+
+    - “short selling order” (賣空指示)—
+
+      - (a) subject to paragraph (b), means an order to sell securities in respect of which the seller, or the person for whose benefit or on whose behalf the order is made, has a presently exercisable and unconditional right to vest the securities in the purchaser of them by virtue of having—
+
+        - (i) under a securities borrowing and lending agreement—
+
+          - (A) borrowed the securities; or
+
+          - (B) obtained a confirmation from the counterparty to the agreement that the counterparty has the securities available to lend to him;
+
+        - (ii) a title to other securities which are convertible into or exchangeable for the securities to which the order relates;
+
+        - (iii) an option to acquire the securities to which the order relates;
+
+        - (iv) rights or warrants to subscribe for and to receive the securities to which the order relates; or
+
+        - (v) entered into with any other person an agreement or arrangement of a description prescribed by rules made under section 397 of this Ordinance for the purposes of this subparagraph;
+
+      - (b) in relation to paragraph (a)(ii), (iii), (iv) or (v), does not include an order where the seller, or the person for whose benefit or on whose behalf the order is made, has, at the time of placing the order, issued unconditional instructions to obtain the securities to which the order relates;
+
+    - “specified debt securities” (指明債務證券) means debenture stocks, loan stocks, debentures, bonds, notes, indexed bonds, convertible debt securities, bonds with warrants, non-interest bearing debt securities and other securities or instruments acknowledging, evidencing or creating indebtedness—
+
+      - (a) which are issued or guaranteed by the Government;
+
+      - (b) which are issued by an issuer that has a qualifying credit rating for any of its debt instruments; or
+
+      - (c) which are issued by any other issuer as may be approved by the Commission in writing in a particular case;
+
+    - “specified futures exchange” (指明期貨交易所) means a futures exchange specified in Part 2;
+
+    - “specified stock exchange” (指明證券交易所) means a stock exchange specified in Part 3;
+
+    - “Stock Exchange Company” (聯交所) means the company incorporated under the Companies Ordinance (Cap. 32) and registered under that Ordinance by the name The Stock Exchange of Hong Kong Limited;
+
+    - “stock market” (證券市場) means a place where persons regularly meet together to negotiate sales and purchases of securities (including prices), or a place at which facilities are provided for bringing together sellers and purchasers of securities; but does not include the office of—
+
+      - (a) an exchange participant of a recognized exchange company which may operate a stock market; or
+
+      - (b) a recognized clearing house;
+
+    - “take-over offer” (收購要約), in relation to a corporation, means an offer made to all the holders (or all the holders other than the person making the offer and his nominees) of the shares in the corporation to acquire the shares or a specified proportion of them, or to all the holders (or all the holders other than the person making the offer and his nominees) of a particular class of the shares to acquire the shares of the class or a specified proportion of them;
+
+    - “title” (稱銜) includes name or description;
+
+    - “trading right” (交易權), in relation to a recognized exchange company, means a right to be eligible to trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company and entered as such a right in a list, roll or register kept by that exchange company.
+
+  - 2. References to subsidiary
+
+    - (1) For the purposes of this Ordinance, a corporation shall be regarded as a subsidiary of another corporation if—
+
+      - (a) the other corporation—
+
+        - (i) controls the composition of its board of directors;
+
+        - (ii) controls more than half of its voting power at general meetings; or
+
+        - (iii) holds more than half of its issued share capital (which issued share capital, for the purposes of this subparagraph, excludes any part thereof which carries no right to participate beyond a specified amount on a distribution of either profits or capital); or
+
+      - (b) it is a subsidiary of a corporation which is the other corporation’s subsidiary.
+
+    - (2) For the purposes of subsection (1), in determining whether a corporation is a subsidiary of another corporation—
+
+      - (a) any shares held or power exercisable by the other corporation in a fiduciary capacity shall be regarded as not held or exercisable by it;
+
+      - (b) subject to paragraphs (c) and (d), any shares held or power exercisable—
+
+        - (i) by a nominee for the other corporation (except where the other corporation is concerned only in a fiduciary capacity); or
+
+        - (ii) by, or by a nominee for, a subsidiary of the other corporation, not being a subsidiary which is concerned only in a fiduciary capacity,
+
+      - shall be regarded as held or exercisable by the other corporation;
+
+      - (c) any shares held or power exercisable by a person under a debenture of the corporation or under a trust deed for securing the issue of the debenture shall be disregarded; and
+
+      - (d) any shares held or power exercisable by, or by a nominee for, the other corporation or its subsidiary, not being held or exercisable as mentioned in paragraph (c), shall be regarded as not held or exercisable by the other corporation if the ordinary business of the other corporation or its subsidiary (as the case may be) includes the lending of money and the shares are held or power is exercisable by way of security only for a transaction entered into in the ordinary course of that business.
+
+  - 3. References to related corporation For the purposes of this Ordinance—
+
+    - (a) 2 or more corporations shall be regarded as related corporations of each other if one of them is—
+
+      - (i) the holding company of the other;
+
+      - (ii) a subsidiary of the other; or
+
+      - (iii) a subsidiary of the holding company of the other;
+
+    - (b) when an individual—
+
+      - (i) controls the composition of the board of directors of one or more corporations;
+
+      - (ii) controls more than half of the voting power at general meetings of one or more corporations; or
+
+      - (iii) holds more than half of the issued share capital (which issued share capital, for the purposes of this subparagraph, excludes any part thereof which carries no right to participate beyond a specified amount on a distribution of either profits or capital) of one or more corporations,
+
+    - each of the corporations referred to in subparagraph (i), (ii) or (iii), and each of their subsidiaries, shall be regarded as related corporations of each other.
+
+  - 4. References to controlling the composition
+
+  - of a corporation’s board of directors
+
+    - (1) For the purposes of this Ordinance, the composition of a corporation’s board of directors shall be regarded as controlled by another corporation if the other corporation, by the exercise of some power exercisable by it, can, without the consent or concurrence of any other person, appoint or remove all or a majority of the directors of the corporation.
+
+    - (2) For the purposes of subsection (1), a corporation shall be regarded as being able to appoint or remove a director of another corporation if—
+
+      - (a) the appointment or removal cannot occur without the corporation exercising a power; or
+
+      - (b) the appointment of a person as a director of the other corporation follows necessarily from his being a director or other officer of the corporation.
+
+    - (3) For the purposes of this Ordinance, the composition of a corporation’s board of directors shall be regarded as controlled by an individual if the individual, by the exercise of some power exercisable by him, can, without the consent or concurrence of any other person, appoint or remove all or a majority of the directors of the corporation.
+
+    - (4) For the purposes of subsection (3), an individual shall be regarded as being able to appoint or remove a director of a corporation if—
+
+      - (a) the appointment or removal cannot occur without the individual exercising a power; or
+
+      - (b) the appointment of a person as a director of the corporation follows necessarily from his being a director or other officer of another corporation and his appointment as a director or other officer of the other corporation cannot occur without the individual exercising a power.
+
+  - 5. References to wholly owned subsidiary For the purposes of this Ordinance, a body corporate shall be regarded as the wholly owned subsidiary of another body corporate if it has no members except that other, that other’s nominee, that other’s wholly owned subsidiary (as construed in accordance with this section), such wholly owned subsidiary’s nominee, or any combination thereof.
+
+  - 6. References to substantial shareholder
+
+    - (1) For the purposes of this Ordinance, a person shall, in relation to a corporation, be regarded as a substantial shareholder of the corporation if he, either alone or with any of his associates—
+
+      - (a) has an interest in shares in the corporation—
+
+        - (i) the nominal value of which shares is equal to more than the nominal value of 10% of the issued share capital of the corporation; or
+
+        - (ii) which entitles the person, either alone or with any of his associates and either directly or indirectly, to exercise or control the exercise of more than 10% of the voting power at general meetings of the corporation; or
+
+      - (b) holds shares in any other corporation which entitles him, either alone or with any of his associates and either directly or indirectly, to exercise or control the exercise of 35% or more of the voting power at general meetings of the other corporation, or of a further corporation, which is itself entitled, either alone or with any of its associates and either directly or indirectly, to exercise or control the exercise of more than 10% of the voting power at general meetings of the corporation.
+
+    - (2) For the purposes of subsection (1), a person shall be regarded as being entitled to exercise or control the exercise of 35% or more of the voting power at general meetings of a corporation indirectly if he, either alone or with any of his associates, has an interest in shares in a further corporation which entitles him, either alone or with any of his associates, to exercise or control the exercise of 35% or more of the voting power at general meetings of the further corporation which is itself entitled, either alone or with any of its associates, to exercise or control the exercise of 35% or more of the voting power at general meetings of the first-mentioned corporation.
+
+  - 7. References to securities of a corporation In this Ordinance, a reference to securities (however described) as those of a corporation shall, unless the context otherwise requires, be construed as a reference to securities (having the applicable meaning, whether under section 1 or otherwise) which are—
+
+    - (a) issued, made available or granted by the corporation;
+
+    - (b) proposed to be issued, made available or granted by the corporation; or
+
+    - (c) proposed to be issued, made available or granted by the corporation when it is incorporated.
+
+  - 8. References to interest of investing public In this Ordinance, a reference to the interest of the investing public does not include any interest the taking into consideration of which is or is likely to be contrary to the public interest.
+
+  - 9. References to conditions In this Ordinance, unless the context otherwise requires, a reference to any condition imposed under or pursuant to any provision of this Ordinance shall, in any case where the condition has been amended (however described) under or pursuant to any provision of this Ordinance, be construed as a reference to the condition as so amended.
+
+  - 10. References relating to regulated activity In this Ordinance—
+
+    - (a) unless otherwise defined or excluded or the context otherwise requires, a person shall be regarded as carrying on a regulated activity if—
+
+      - (i) he carries on a business in a regulated activity; or
+
+      - (ii) he performs for or on behalf of or by arrangement with a person carrying on a business in a regulated activity, any regulated function (as defined in section 113(1) of this Ordinance) in relation to the regulated activity;
+
+    - (b) a person shall be regarded as carrying on a regulated activity for an intermediary if he performs for or on behalf of or by arrangement with the intermediary any regulated function (as defined in section 113(1) of this Ordinance) in relation to the regulated activity;
+
+    - (c)
+
+      - (i) a corporation licensed under section 116 or 117 of this Ordinance to carry on a regulated activity shall be regarded as being licensed for that regulated activity;
+
+      - (ii) an individual licensed under section 120 or 121 of this Ordinance to carry on a regulated activity for a licensed corporation shall be regarded as being licensed for that regulated activity.
+
+  - 11. References to contravention, etc. In this Ordinance, unless the context otherwise requires—
+
+    - (a) a reference to contravention shall—
+
+      - (i) be construed as including a reference to failure to comply; and
+
+      - (ii) in relation to any provision of any Ordinance, be construed as including a reference to the commission of an offence under the provision;
+
+    - (b) a reference to failure to comply shall—
+
+      - (i) be construed as including a reference to contravention; and
+
+      - (ii) in relation to any provision of any Ordinance, be construed as including a reference to the commission of an offence under the provision.
+
+  - 12. References to Ordinance For the avoidance of doubt, in this Ordinance, a reference to this or any other Ordinance, whether generally or specifically and whether by reference to the short title of the Ordinance or otherwise, shall, unless the context otherwise requires, be construed as including any subsidiary legislation made under this or that other Ordinance (as the case may be).
+
+- PART 2 SPECIFIED FUTURES EXCHANGES
+
+  - 1. Australian Stock Exchange
+
+  - 2. Bourse de Montreal Inc.
+
+  - 3. Chicago Board of Trade
+
+  - 4. Chicago Board Options Exchange
+
+  - 5. Chicago Mercantile Exchange Inc.
+
+  - 6. Commodity Exchange, Inc. (New York)
+
+  - 7. Eurex
+
+  - 8. Euronext Amsterdam
+
+  - 9. Hong Kong Futures Exchange Limited
+
+  - 10. Korea Stock Exchange
+
+  - 11. London International Financial Futures and Options Exchange
+
+  - 12. London Metal Exchange
+
+  - 13. Marche a Terme International de France
+
+  - 14. Marche des Options Negociables de Paris
+
+  - 15. New York Cotton Exchange, Inc.
+
+  - 16. New York Futures Exchange
+
+  - 17. New York Mercantile Exchange
+
+  - 18. New Zealand Futures and Options Exchange
+
+  - 19. Osaka Securities Exchange
+
+  - 20. Pacific Exchange
+
+  - 21. Philadelphia Stock Exchange
+
+  - 22. Singapore Exchange Derivatives Trading Limited
+
+  - 23. Stockholmsborsen
+
+  - 24. Sydney Futures Exchange, Ltd.
+
+  - 25. Tokyo Grain Exchange
+
+  - 26. Tokyo International Financial Futures Exchange
+
+  - 27. Tokyo Stock Exchange
+
+  - 28. Winnipeg Commodities Exchange Inc.
+
+- PART 3 SPECIFIED STOCK EXCHANGES
+
+  - 1. American Stock Exchange
+
+  - 2. Australian Stock Exchange
+
+  - 3. Bolsa de Madrid
+
+  - 4. Borsa Italiana S.p.A.
+
+  - 5. Bourse de Montreal Inc.
+
+  - 6. Copenhagen Stock Exchange
+
+  - 7. Deutsche Borse AG
+
+  - 8. Euronext Amsterdam
+
+  - 9. Euronext Brussels
+
+  - 10. Euronext Paris
+
+  - 11. Helsinki Exchanges
+
+  - 12. Japanese Association of Securities Dealers Automated Quotations
+
+  - 13. Korea Stock Exchange
+
+  - 14. Kuala Lumpur Stock Exchange
+
+  - 15. London Stock Exchange
+
+  - 16. Luxembourg Stock Exchange
+
+  - 17. Nagoya Stock Exchange
+
+  - 18. National Association of Securities Dealers Automated Quotations
+
+  - 19. New York Stock Exchange
+
+  - 20. New Zealand Stock Exchange
+
+  - 21. Osaka Securities Exchange
+
+  - 22. Oslo Bors
+
+  - 23. Philippine Stock Exchange Inc.
+
+  - 24. Singapore Exchange Securities Trading Limited
+
+  - 25. The Stock Exchange of Hong Kong Limited
+
+  - 26. Stock Exchange of Thailand
+
+  - 27. Stockholmsborsen
+
+  - 28. SWX Swiss Exchange
+
+  - 29. Tokyo Stock Exchange
+
+  - 30. Toronto Stock Exchange
+
+  - 31. Wiener Borse AG
+
+- PART 4 MULTILATERAL AGENCIES
+
+  - 1. The African Development Bank
+
+  - 2. The Asian Development Bank
+
+  - 3. The European Bank for Reconstruction and Development
+
+  - 4. The European Investment Bank
+
+  - 5. The Inter-American Development Bank
+
+  - 6. The International Bank for Reconstruction and Development (commonly known as the World Bank)
+
+  - 7. The International Finance Corporation (an affiliate of the World Bank)
+
+- PART 5 QUALIFYING CREDIT RATING
+
+  - 1. A Moody’s Investors Service rating of—
+
+    - (a) A3 or above for long term debt; or
+
+    - (b) Prime-3 or above for short term debt.
+
+  - 2. A Standard & Poor’s Corporation rating of—
+
+    - (a) A or above for long term debt; or
+
+    - (b) A-3 or above for short term debt.

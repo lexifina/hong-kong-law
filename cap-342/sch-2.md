@@ -18,7 +18,7 @@ Antibiotics Ordinance (Cap. 137)
 
 Pharmacy and Poisons Ordinance (Cap. 138)
 
-Acetylating Substances (Control) Ordinance (Cap. 145) (Added L.N. 253 of 1975)
+Control of Chemicals Ordinance (Cap. 145) (Replaced 14 of 2003 s. 24)
 
 Animals and Plants (Protection of Endangered Species) Ordinance (Cap. 187) (Added L.N. 235 of 1976)
 

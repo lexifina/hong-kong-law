@@ -408,6 +408,7 @@ s-406.md
 s-407.md
 s-408.md
 s-409.md
+sch-1.md
 sch-2.md
 sch-3.md
 sch-4.md
