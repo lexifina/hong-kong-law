@@ -16,6 +16,10 @@ Chief Ambulance Officer
 
 Deputy Chief Fire Officer
 
+Deputy Chief Ambulance Officer (Added 7 of 2003 s. 15)
+
+Senior Assistant Chief Ambulance Officer (Added 7 of 2003 s. 15)
+
 Assistant Chief Ambulance Officer
 
 Senior Divisional Officer

@@ -4,16 +4,28 @@
 
 POSTS SPECIFIED FOR THE PURPOSES OF SECTION 3(2)
 
-Senior Fire Services Ventilation Officer
+Senior Engineer
 
-Fire Services Ventilation Officer
+Engineer
 
-Building Services Inspector II
+Chief Technical Officer
 
-Electrical Inspector Class II
+Principal Technical Officer
+
+Senior Mechanical Inspector
+
+Mechanical Inspector
+
+Senior Building Services Inspector
+
+Building Services Inspector
+
+Assistant Building Services Inspector
+
+Electrical Inspector
 
 Special Photographer I
 
 Special Photographer II
 
-(Seventh Schedule replaced 4 of 1986 s. 7)
+(Seventh Schedule replaced 4 of 1986 s. 7. Amended 7 of 2003 s. 16)
