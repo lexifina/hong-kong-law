@@ -1,0 +1,9 @@
+# SCHEDULE 1
+
+[ss. 2, 3, 4 & 8]
+
+PROHIBITED GOODS
+
+- (1) Any arms and related material (including weapons, ammunition, military vehicles, military equipment and spare parts for any of the foregoing).
+
+- (2) The following goods— Petroleum oils and oils obtained from bituminous minerals, crude Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations Petroleum gases and other gaseous hydrocarbons Petroleum jelly Paraffin wax containing by weight less than 75% of oil ‘Slack wax’, ‘scale wax’ Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bitumen minerals Bitumen and asphalt, natural; bituminous or oil shale and tar sands, asphaltites and asphaltic rocks Bituminous mixture based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example bituminous mastics, cut-backs) Acyclic hydrocarbons Cyclobexane Benzene Toluene o-Xylene m-Xylene p-Xylene Mixed xylene isomers Styrene Ethylbenzene Cumene Methanol (methyl alcohol) Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould release preparations based on lubricants) and preparations containing, as basic constituents, 70% or more by weight of petroleum oils, or oils obtained from bituminous minerals but not as the basic constituent Additives for lubricating oils; containing petroleum oils, or oils obtained from bituminous minerals Petroleum sulphonates, excluding petroleum sulphonates of alkali metals, of ammonium or of ethanolamines; thiophenated sulphonic acids of oils obtained from bituminous minerals, and their salts.
