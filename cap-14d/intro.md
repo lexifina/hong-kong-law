@@ -1,0 +1,5 @@
+CORONERS (WITNESSES’ ALLOWANCES)
+
+(Cap. 14 section 22A)
+
+[19 November 1971]
