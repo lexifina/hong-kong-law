@@ -62,7 +62,7 @@ L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as ame
 
   - (a) | aircraft spirit . | 6.51
 
-  - (b) | light diesel oil. | 2.00
+  - (b) | light diesel oil . | 2.00
 
   - (c) | motor spirit (leaded petrol) (Added 2 of 1991 s. 10) . | 6.82
 
@@ -72,13 +72,13 @@ L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as ame
 
   - 1A. Duty shall be payable on ultra low sulphur diesel at the following rates—
 
-    - (a) from 7 July 2000 to 31 December 2000 (both dates inclusive), at $1.11 per litre;
+    - (a) from 7 July 2000 to 30 June 2001 (both dates inclusive), at $1.11 per litre;
 
-    - (b) from 1 January 2001 to 31 December 2001 (both dates inclusive), at $2.00 per litre; and
+    - (b) from 1 July 2001 to 31 December 2001 (both dates inclusive), at $2.00 per litre; and
 
     - (c) from 1 January 2002, at $2.89 per litre.
 
-  - (Added L.N. 233 of 2000)
+  - (Added L.N. 233 of 2000. Amended L.N. 364 of 2000)
 
   - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; 21 of 1998 s. 2)
 
