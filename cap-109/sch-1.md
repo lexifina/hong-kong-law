@@ -34,37 +34,33 @@
 
   - $
 
-    - (a) for each 1000 cigarettes . 723.00
+    - (a) for each 1000 cigarettes . 766
 
-    - (b) cigars . 930.00/kg
+    - (b) cigars . 986/kg
 
-    - (c) Chinese prepared tobacco . 177.00/kg
+    - (c) Chinese prepared tobacco . 188/kg
 
-    - (d) all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . 875.00/kg
+    - (d) all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . 928/kg
 
-  - (Amended L. N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3)
+  - (Amended L. N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2)
 
   - 2. For the purpose of applying the duty under paragraph 1(a) a cigarette more than 90 mm long, excluding any filter or mouthpiece, shall be treated as if each additional 90 mm or portion of 90 mm were a separate cigarette. (Replaced 10 of 1988 s. 3)
 
 - PART III DUTY ON HYDROCARBON OIL
 
-  - 1.
+  - 1. Duty shall be payable on hydrocarbon oil at the following rates per litre— $
 
-  - Duty shall be payable on hydrocarbon oil at the following rates per litre—
+  - (a) | aircraft spirit . | 6.51
 
-  - $
+  - (b) | light diesel oil . (*Note: Had been amended to 3.06 from 2:30 pm on 18 February 1998 to 3 April 1998. See L.N. 93 of 1998 and 21 of 1998 s. 2) | *2.89
 
-    - (a) aircraft spirit . 6.14
+  - (c) | motor spirit (leaded petrol) . (*Note: Had been amended to 7.23 from 2:30 pm on 18 February 1998 to 3 April 1998. See L.N. 93 of 1998 and 21 of 1998 s. 2) | *6.82
 
-    - (b) light diesel oil . 2.89
+  - (d) | motor spirit (unleaded petrol) . (*Note: Had been amended to 6.42 from 2:30 pm on 18 February 1998 to 3 April 1998. See L.N. 93 of 1998 and 21 of 1998 s. 2) | *6.06
 
-    - (c) motor spirit (leaded petrol) . 6.82
+  - (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; 2 of 1991 s. 10; L.N. 99 of 1991; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 45 of 1994 s. 4; 42 of 1995 s. 2; 32 of 1996 s. 2; L.N. 89 of 1997; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2)
 
-    - (d) motor spirit (unleaded petrol) . 6.06
-
-  - (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; 2 of 1991 s. 10; L.N. 99 of 1991; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 45 of 1994 s. 4; 42 of 1995 s. 2; 32 of 1996 s. 2; L.N. 89 of 1997; 67 of 1997 s. 3)
-
-  - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles owned and operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6)
+  - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; L.N. 93 of 1998; 21 of 1998 s. 2)
 
   - 3. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles owned and operated by the Kowloon-Canton Railway Corporation under section 4(1)(d) of the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) in maintaining bus services within the North-west Transit Service Area, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Added L.N. 203 of 1987. Amended 35 of 1992 s. 6)
 
@@ -78,7 +74,7 @@
 
 - PART IV DUTY ON METHYL ALCOHOL
 
-  - 1. Duty shall be payable on methyl alcohol and any admixture containing methyl alcohol at the rate of $792.00 per hectolitre measured at a temperature of 20 degree Celsius and in addition, for every 1% by which the alcoholic strength by volume exceeds 30%, $26.5 per hectolitre. (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 67 of 1997 s. 3)
+  - 1. Duty shall be payable on methyl alcohol and any admixture containing methyl alcohol at the rate of $840 per hectolitre measured at a temperature of 20 degree Celsius and in addition, for every 1% by which the alcoholic strength by volume exceeds 30%, $28.1 per hectolitre. (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2)
 
 - PART V (Repealed 35 of 1992 s. 6)
 
