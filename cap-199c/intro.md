@@ -1,0 +1,3 @@
+ROYAL HONG KONG REGIMENT (PENSIONS) REGULATIONS
+
+(Ceased to be in force)
