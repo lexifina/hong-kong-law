@@ -164,6 +164,8 @@ PUBLIC BODIES
 
 - 81. Structural Engineers Registration Committee. (Added 54 of 1996 s. 27)
 
+- 83. The Estate Agents Authority. (Added 48 of 1997 s. 57)
+
 - 84. Long Win Holdings Limited. (Added L.N. 441 of 1996)
 
 - 84. Long-term Prison Sentences Review Board. (Added 86 of 1997 s. 44) (Replaced L.N. 272 of 1974)
