@@ -92,15 +92,15 @@ POSTPONEMENT AND ADJOURNMENT OF ORDINARY ELECTION AND BY-ELECTIONS
 
 - postponement of a count
 
-  - (1) If a count is adjourned under this Schedule or section 38 of the District Councils Ordinance (Cap. 547), or if the count is adjourned due to the postponement of a poll under this Schedule, the Returning Officer must comply with this section.
+  - (1) If a count is adjourned under this Schedule or section 38 of the District Councils Ordinance (Cap. 547), or if the count is adjourned due to the postponement of a poll under this Schedule, the Presiding Officer must comply with this section.
 
-  - (2) The Returning Officer must take steps to cease the count. Then, in the presence of the persons, if any, present at the counting station, deposit the ballot boxes (whether opened or un-opened) and receptacles, if any, together with the ballot papers (whether counted or not), any un-issued ballot papers, tendered ballot papers, ballot paper account, verification of a ballot paper account or re-verification of a ballot paper account, and any other relevant election materials, in a safe place within the counting station. If there is no safe place within the counting station, that Officer must deposit them in a safe place within a police station or a public building close to the counting station. If there is no such police station or public building, that Officer must deposit them in a secure building (which may even be a residential building) close to the counting station. If there is no police station, public building or secure building close to the counting station, that Officer must deposit the election materials in a safe place within any other police station or public building or, in the absence of such a station or building, in a safe place in any other building (which may even be a residential building).
+  - (2) The Presiding Officer must take steps to cease the count. Then, in the presence of the persons, if any, present at the counting station, deposit the ballot boxes (whether opened or un-opened) and receptacles, if any, together with the ballot papers (whether counted or not), any un-issued ballot papers, tendered ballot papers, ballot paper account, verification of a ballot paper account or re-verification of a ballot paper account, and any other relevant election materials, in a safe place within the counting station. If there is no safe place within the counting station, that Officer must deposit them in a safe place within a police station or a public building close to the counting station. If there is no such police station or public building, that Officer must deposit them in a secure building (which may even be a residential building) close to the counting station. If there is no police station, public building or secure building close to the counting station, that Officer must deposit the election materials in a safe place within any other police station or public building or, in the absence of such a station or building, in a safe place in any other building (which may even be a residential building).
 
-  - (3) The election materials must remain in the charge of the Returning Officer. That Officer is to be responsible for their safety and security until the adjourned or postponed count is resumed under section 65(6) of this Regulation.
+  - (3) The election materials must remain in the charge of the Presiding Officer. That Officer is to be responsible for their safety and security until the adjourned or postponed count is resumed under section 65(6) of this Regulation.
 
-  - (4)
+  - (4) (Repealed L.N. 125 of 2003)
 
-    - In this section “Returning Officer” (選舉主任) means a Returning Officer specified by the Chief Electoral Officer for the purposes of this section.
+- (L.N. 125 of 2003)
 
 - 7.
 
