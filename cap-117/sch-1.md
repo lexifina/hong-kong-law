@@ -104,7 +104,7 @@ And see sections 2, 16, 17, 27, 39, 42 and 43 Partition, Instruments effecting-s
 
 HEAD 2: HONG KONG STOCK
 
-(1) CONTRACT NOTE for the sale or purchase of any Hong Kong stock not being jobbing business on every note required to be made under section 19(1) | (A) $1.25 for every $1,000 or part thereof of the amount of the consideration or of its value at the date on which the contract note falls to be executed: but see Note to this sub-head (Amended 18 of 1998 s. 2)
+(1) CONTRACT NOTE for the sale or purchase of any Hong Kong stock not being jobbing business on every note required to be made under section 19(1) | (A) $1.125 for every $1,000 or part thereof of the amount of the consideration or of its value at the date on which the contract note falls to be executed: but see Note to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2)
 
 (B) 2 days after the sale or purchase if effected in Hong Kong: see section 19(1)(b)(i) 30 days after the sale or purchase if effected elsewhere: see section 19(1)(b)(ii)
 
@@ -120,7 +120,7 @@ Note Where the consideration or any part of the consideration consists of any se
 
 And see sections 2, 4, 19 and 20
 
-(3) TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) $5 and $2.5 for every $1,000 or part thereof of the value of the stock (Amended 18 of 1998 s. 2) (B) 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head (C) The transferor and the transferee; but see Note 1 to this sub-head
+(3) TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) $5 and $2.25 for every $1,000 or part thereof of the value of the stock (Amended 18 of 1998 s. 2; 22 of 2000 s. 2) (B) 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head (C) The transferor and the transferee; but see Note 1 to this sub-head
 
 And see sections 4, 19, 27, 28, 30, 44 and 45
 
