@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-[regs. 4, 6, 7 & 14]
+[regs. 4, 6, 7, 14 & 14A] (L.N. 197 of 2002)
 
 FEES
 
@@ -15,6 +15,8 @@ Item | Particular | Fee $
 3. | For restoration of name to any part of the roll . | 245
 
 4. | Entrance fees for examination— (a) Any examination . (b) Any re-examination . | 665 665
+
+4A. | For request for review of result of examination (L.N. 197 of 2002) . | 425
 
 5. | For certificate verifying enrolment . | 170
 
