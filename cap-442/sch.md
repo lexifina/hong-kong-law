@@ -1,8 +1,10 @@
 # SCHEDULE
 
-(Item 45 of this schedule has commenced operation since 19 June 2000 only in so far as it relates to a decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. - see L.N. 131 of 2000.)
+- (1. Item 45 of this schedule has commenced operation since 19 June 2000 only in so far as it relates to a decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. - see L.N. 131 of 2000.
 
-[ss. 3, 4 & 22]
+- 2. paragraphs (b) and (c) of item 45 of this schedule has commenced operation since 1 April 2002. - see L.N. 21 of 2002.)
+
+[sections 3, 4 & 22]
 
 Item | Ordinance | Decision
 
@@ -89,6 +91,8 @@ Item | Ordinance | Decision
 45. | Factories and Industrial Undertakings (Safety Management) Regulation (Cap. 59 sub. leg. AF) | (a) A decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. (b) A decision of the Commissioner for Labour under section 24(1) to require the appointment of a new safety review officer. (c) A decision of the disciplinary board under section 29(2) to reprimand a registered person, cancel the registration of a registered person or suspend the registration of a registered person. (Added L.N. 298 of 1999)
 
 46. | Port Control (Cargo Working Areas) Regulations (Cap. 81 sub. leg.) | A decision of the Director or the supervisor under regulation 4A(4), 5B, 6AA, 7, 7A, 7B, 7C, 7D, 7E, 13 or 21. (Added L.N. 280 of 1999)
+
+48. | Drug Dependent Persons Treatment and Rehabilitation Centres (Licensing) Ordinance (Cap. 566) | A determination or decision of the Director of Social Welfare under section 6(2)(b), 8(3)(b), 9(3)(b) or 14. (Added 10 of 2001 s. 33)
 
 49. | Road Traffic Ordinance (Cap. 374) | A decision of the Commissioner of Police under section 55(3). (Added 3 of 2002 s. 17)
 
