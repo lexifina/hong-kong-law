@@ -1,0 +1,5 @@
+THE RULES OF THE DISTRICT COURT
+
+(Cap. 336, sections 72, 72A, 72B, 72C, 72D and 72E)
+
+[1 September 2000] L.N. 248 of 2000
