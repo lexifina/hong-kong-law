@@ -48,7 +48,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - “no staying zone” (禁止逗留區) means an area determined under section 36 to be an area in which staying or loitering is prohibited;
 
-      - “Nominations Advisory Committee” (提名顧問委員會) means a committee appointed under the Electoral Affairs Commission (Nominations Advisory Committees) Regulation (Cap. 541 sub. leg.);
+      - “Nominations Advisory Committee” (提名顧問委員會) means a committee appointed under the Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg.); (L.N. 115 of 1999)
 
       - “notice appointing the subsector election day” (指定界別分組選舉日公告) means, in relation to a subsector election, a notice by which a date is specified by the Chief Executive under section 12 of Schedule 2 to the Legislative Council Ordinance (Cap. 542) to hold a subsector election;
 
@@ -128,9 +128,13 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (3) In this Schedule, any reference to—
 
-      - (a) “Returning Officer” is to be construed, in relation to a particular subsector, as the Returning Officer appointed for that subsector; and
+      - (a)
 
-      - (b) “subsector” is to be construed, in relation to the sports, performing arts, culture and publication subsector, as including the sub-subsectors constituting that subsector.
+        - “Returning Officer” is to be construed, in relation to a particular subsector, as the Returning Officer appointed for that subsector; and
+
+      - (b)
+
+        - “subsector” is to be construed, in relation to the sports, performing arts, culture and publication subsector, as including the sub-subsectors constituting that subsector.
 
     - (4) In this Schedule, any provision which entitles or permits a subsector candidate, an election agent, a polling agent or a counting agent to do anything in a polling station, counting station, counting zone or in relation to the counting of the votes is to be construed as entitling or permitting the candidate or the agent to do it in a polling station, counting station, counting zone or in relation to the counting of the votes for the subsector for which the subsector candidate is standing for election or for which the agent is appointed, as the case may require.
 
@@ -340,7 +344,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - Nominations Advisory Committee In deciding under section 11 or 12 whether a person is eligible to be or is disqualified from being nominated as a subsector candidate or to be nominated as a member representing the religious subsector on the Election Committee, the Returning Officer must have regard to—
 
-      - (a) advice given by a Nominations Advisory Committee on an application, if any, made by the Returning Officer regarding the subsector candidate or, in the case of a nomination for the religious subsector, regarding the nominee under the Electoral Affairs Commission (Nominations Advisory Committees) Regulation (Cap. 541 sub. leg.); or
+      - (a) advice given by a Nominations Advisory Committee on an application, if any, made by the Returning Officer regarding the subsector candidate or, in the case of a nomination for the religious subsector, regarding the nominee under the Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg.); or (L.N. 115 of 1999)
 
       - (b) advice given by a Nominations Advisory Committee on an application, if any, made by the person being nominated as the subsector candidate or, in the case of a nomination for the religious subsector, by the nominee or the designated body concerned to the Nominations Advisory Committee under that Regulation or, if advice has not been given, the result of the application.
 
@@ -784,7 +788,9 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (12) A notice required to be given to a subsector candidate under this section may be given to the election agent or polling agent of the subsector candidate instead of to the subsector candidate.
 
-      - (13) For the purposes of this section “notice” (通知、公告) means a notice of the determination of the no canvassing zone and the no staying zone with a map or plan or separate maps or plans showing those zones in relation to the relevant polling station.
+      - (13)
+
+        - For the purposes of this section “notice” (通知、公告) means a notice of the determination of the no canvassing zone and the no staying zone with a map or plan or separate maps or plans showing those zones in relation to the relevant polling station.
 
       - (14) On polling day, a person must not—
 
