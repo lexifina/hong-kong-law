@@ -96,7 +96,7 @@ Commissioner for Labour | Pneumoconiosis (Compensation) Ordinance (Chapter 360).
 
 Commissioner for Securities | Securities Ordinance (Chapter 333). (L.N. 27 of 1982)
 
-Commissioner for Transport | Cross Harbour Tunnel Ordinance (Chapter 203). (L.N. 315 of 1985)
+Commissioner for Transport | Cross-Harbour Tunnel Ordinance (Chapter 203). (L.N. 315 of 1985)
 
 Commissioner for Transport | Cross-Harbour Tunnel Regulations (Chapter 203 subsidiary legislation). (L.N. 405 of 1990)
 
@@ -136,7 +136,7 @@ Commissioner for Transport | Road Traffic (Construction and Maintenance of Vehic
 
 Commissioner for Transport | Road Traffic (Driving Licences) Regulations (Chapter 374 subsidiary legislation). (L.N. 315 of 1985)
 
-Commissioner for Transport | Road Traffic (Expressway) Regulations 1991 (L.N. 247 of 1991) . (L.N. 158 of 1992)
+Commissioner for Transport | Road Traffic (Expressway) Regulations (Chapter 374 subsidiary legislation). (L.N. 158 of 1992)
 
 Commissioner for Transport | Road Traffic (Parking) Regulations (Chapter 374 subsidiary legislation). (L.N. 315 of 1985)
 
@@ -160,9 +160,9 @@ Commissioner for Transport | Road Tunnels (Government) Regulations (Chapter 368 
 
 Commissioner for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 405 of 1990)
 
-Commissioner for Transport | Tate’s Cairn Tunnel By-laws (Chapter 393, subsidiary legislation). (L.N. 158 of 1992)
+Commissioner for Transport | Tate’s Cairn Tunnel By-laws (Chapter 393 subsidiary legislation). (L.N. 158 of 1992)
 
-Commissioner for Transport | Tate’s Cairn Tunnel Regulations (Chapter 393, subsidiary legislation). (L.N. 158 of 1992)
+Commissioner for Transport | Tate’s Cairn Tunnel Regulations (Chapter 393 subsidiary legislation). (L.N. 158 of 1992)
 
 Commissioner for Transport | Traffic Accident Victims (Assistance Fund) Ordinance (Chapter 229). (L.N. 315 of 1985)
 
@@ -170,7 +170,7 @@ Commissioner of Correctional Services | Training Centres Ordinance (Chapter 280)
 
 Commissioner of Customs and Excise | Control of Chemicals Ordinance (Chapter 145). (L.N. 51 of 1984; 64 of 1994 s. 18)
 
-Commissioner of Customs and Excise | Copyright Ordinance (Chapter 528). (92 of 1997 s. 280 & Schs. 2 & 3)
+Commissioner of Customs and Excise | Copyright Ordinance (Chapter 528). (92 of 1997 s. 280)
 
 Commissioner of Customs and Excise | Dutiable Commodities Ordinance (Chapter 109), except section 7. (L.N. 51 of 1984; L.N. 338 of 1987)
 
@@ -182,7 +182,7 @@ Commissioner of Customs and Excise | Import and Export Ordinance (Chapter 60), s
 
 Commissioner of Customs and Excise | Import and Export Ordinance (Chapter 60), sections 27(3B), 28(2A) and (10) and 29A(1). (L.N. 320 of 1993)
 
-Commissioner of Customs and Excise | Import and Export Ordinance (Chapter 60), sections 33A(1)(b). (L.N. 175 of 1997)
+Commissioner of Customs and Excise | Import and Export Ordinance (Chapter 60), section 33A(1)(b). (L.N. 175 of 1997)
 
 Commissioner of Customs and Excise | Import and Export (Carriage of Articles) Regulations (Chapter 60 subsidiary legislation), regulation 4. (L.N. 176 of 1991)
 
@@ -248,7 +248,7 @@ Director of Buildings | Child Care Centres Regulations (Chapter 243 subsidiary l
 
 Director of Buildings | Hong Kong Airport (Control of Obstructions) Ordinance (Chapter 301), sections 5, 7(1), 13, 14(1), 15(1), 2(c)(ii) and (8), 16(1), (3), (6), (8) and (9), 17, 18(2) and 20(g). (L.N. 303 of 1993)
 
-Director of Buildings as Building Authority | Buildings Ordinance (Chapter 123) (L.N. 303 of 1993)
+Director of Buildings as Building Authority | Buildings Ordinance (Chapter 123). (L.N. 303 of 1993)
 
 Director of Buildings as Building Authority | Child Care Centres Ordinance (Chapter 243), section 7(1)(b)(ii). (L.N. 303 of 1993)
 
@@ -328,7 +328,7 @@ Director of Marine | Dangerous Goods (Shipping) Regulations (Chapter 295 subsidi
 
 Director of Marine | Merchant Shipping (Safety) Ordinance (Chapter 369), sections 31, 38(4), 51(2) and (3), 57(2) and 63. (L.N. 365 of 1981)
 
-Director of Marketing | Agricultural Products (Market) Ordinance (Chapter 277). (L.N. 239 of 1988)
+Director of Marketing | Agricultural Products (Marketing) Ordinance (Chapter 277). (L.N. 239 of 1988)
 
 Director of Marketing | Marine Fish (Marketing) Ordinance (Chapter 291). (L.N. 239 of 1988)
 
@@ -402,9 +402,9 @@ Financial Secretary | Police (Welfare Fund) Regulations (Chapter 232 subsidiary 
 
 Financial Secretary | Prison Rules (Chapter 234 subsidiary legislation), rules 263 and 265. (L.N. 389 of 1990)
 
-Financial Secretary | Trading Funds Ordinance (Chapter 430), section 8(2). (L.N. 529 of 1994)
-
 Financial Secretary | Trading Funds Ordinance (Chapter 430), section 3(1). (L.N. 36 of 1995)
+
+Financial Secretary | Trading Funds Ordinance (Chapter 430), section 8(2). (L.N. 529 of 1994)
 
 Financial Secretary | Travel Agents Ordinance (Chapter 218), section 32K. (L.N. 350 of 1994)
 
@@ -452,9 +452,9 @@ Secretary for Home Affairs | Heung Yee Kuk Ordinance (Chapter 1097), section 3(3
 
 Secretary for Home Affairs (L.N. 262 of 1989) | New Territories Ordinance (Chapter 97), section 9(2), for the purposes of section 19. (L.N. 188 of 1973)
 
-Secretary for Security | Auxiliary Medical Service Ordinance (Chapter 517) (57 of 1997 ss. 33(2) & (4) & 34)
+Secretary for Security | Auxiliary Medical Service Ordinance (Cap. 517). (57 of 1997 s. 34)
 
-Secretary for Security | Civil Aid Service Ordinance (Chapter 518). (58 of 1997 ss. 33(2) & (4) & 34)
+Secretary for Security | Civil Aid Service Ordinance (Cap. 518). (58 of 1997 s. 34)
 
 Secretary for Security | Essential Services Corps Ordinance (Chapter 197), the whole Ordinance. (L.N. 158 of 1977)
 
@@ -466,7 +466,7 @@ Secretary for Security | Public Order Ordinance (Chapter 245), section 31(6)(i) 
 
 Secretary for Transport | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 308 of 1988)
 
-Secretary for Transport | Roads (Works, Use and Compensation) Ordinance (Chapter 307). (L.N. 133 of 1986)
+Secretary for Transport | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 133 of 1986)
 
 Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
@@ -474,13 +474,21 @@ Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 2
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998 and L.N. 320 of 1998. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998 and L.N. 343 of 1998. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
 L.N. 282 of 1998 | Director of Environmental Protection Director of Environmental Protection | Environmental Impact Assessment Ordinance (Chapter 499). Environmental Impact Assessment (Appeal Board) Regulation (Chapter 499 subsidiary legislation).
 
 L.N. 320 of 1998 | Secretary for Security | Immigration Ordinance (Chapter 115), section 35(2).
+
+L.N. 343 of 1998 | Director of Intellectual Property | Director of Intellectual Property (Establishment) Ordinance (Chapter 412).
+
+Director of Intellectual Property as Registrar of Trade Marks | Trade Marks Ordinance (Chapter 43). Trade Marks Rules (Chapter 43 subsidiary legislation). Trade Marks (Emergency) Ordinance (Chapter 263). Trade Marks (Emergency) Rules (Chapter 263 subsidiary legislation).
+
+Director of Intellectual Property as Registrar of Patents | Patents Ordinance (Chapter 514). Patents (Transitional Arrangements) Rules (Chapter 514 subsidiary legislation). Patents (General) Rules (Chapter 514 subsidiary legislation).
+
+Director of Intellectual Property as Registrar of Designs | Registered Designs Ordinance (Chapter 522). Registered Designs Rules (Chapter 522 subsidiary legislation).
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 
