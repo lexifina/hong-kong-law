@@ -4,6 +4,8 @@
 
 SPECIFIED COUNTRIES OR PLACES
 
+Algeria
+
 Angola
 
 Republic of Armenia
@@ -54,6 +56,8 @@ Guinea
 
 Guyana
 
+Hungary
+
 India
 
 Ireland
@@ -63,6 +67,8 @@ Israel
 Italy
 
 Japan
+
+Democratic People’s Republic of Korea
 
 Republic of Korea
 
@@ -90,6 +96,8 @@ Philippines
 
 Portugal
 
+Romania
+
 Russian Federation
 
 Sierra Leone
@@ -110,6 +118,8 @@ Tanzania
 
 Thailand
 
+Togo
+
 Ukraine
 
 United Arab Emirates
@@ -124,4 +134,4 @@ Vietnam
 
 Zimbabwe
 
-(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003)
+(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003)
