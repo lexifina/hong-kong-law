@@ -14,7 +14,7 @@ Any unleaded petrol shall—
 
 - (d) have a research octane number of not less than 95.0 as determined by ASTM D2699;
 
-- (e) contain not more than 5.0% by volume of benzene as determined by ASTM D4420; and
+- (e) contain not more than 1.0% by volume of benzene as determined by ASTM D4420; and (L.N. 42 of 2000)
 
 - (f) contain not more than the proportions by volume of organic oxygenate compounds in fuel blends as specified in column A of section II in the Annex of Council Directive 85/536/EEC made by the Council of European Communities (not known as the Council of the European Union).
 
