@@ -8,7 +8,7 @@ FEES PAYABLE FOR CARRIER LICENCES
 
 - CARRIER (RESTRICTED) LICENCES
 
-  - 1. A fee of $1,000,000 shall be payable on the issue of a fixed carrier licence (excluding a fixed carrier (restricted) licence) and, in each year while the licence remains in force, on the anniversary of the issue of the licence. If the licence permits the provision of external services only, the fee is $500,000. (L.N. 134 of 2003)
+  - 1. A fee of $1,000,000 shall be payable on the issue of a fixed carrier licence (excluding a fixed carrier (restricted) licence) and, in each year while the licence remains in force, on the anniversary of the issue of the licence. If the licence permits the provision of external services only, the fee is $200,000. (L.N. 134 of 2003; L.N. 34 of 2004)
 
   - 2. A fee of $700 shall be payable on each anniversary of the issue or the renewal of a fixed carrier licence (excluding a fixed carrier (restricted) licence) for each 100 customer connections, made by telecommunications line or radiocommunications means, to the network established and maintained under the licence. If the licence permits the provision of external services only, no such fee is payable. (L.N. 134 of 2003)
 
@@ -36,25 +36,7 @@ FEES PAYABLE FOR CARRIER LICENCES
 
       - (ii) determined on the date on which the fee is payable.
 
-  - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands— 6.765 - 6.795 MHz
-
-  - 13.553 - 13.567 MHz
-
-  - 26.957 - 27.283 MHz
-
-  - 40.66 - 40.7 MHz
-
-  - 2400 - 2500 MHz
-
-  - 5.725 - 5.875 GHz
-
-  - 24.0 - 24.25 GHz
-
-  - 61 - 61.5 GHz
-
-  - 122 - 123 GHz
-
-  - 244 - 246 GHz
+  - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands— 6.765 - 6.795 MHz 13.553 - 13.567 MHz 26.957 - 27.283 MHz 40.66 - 40.7 MHz 2400 - 2500 MHz 5.725 - 5.875 GHz 24.0 - 24.25 GHz 61 - 61.5 GHz 122 - 123 GHz 244 - 246 GHz
 
 - PART 2 FIXED CARRIER (RESTRICTED) LICENCES
 
@@ -86,19 +68,7 @@ FEES PAYABLE FOR CARRIER LICENCES
 
       - (ii) determined on the date on which the fee is payable.
 
-  - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands— 6.765 - 6.795 MHz
-
-  - 13.553 - 13.567 MHz
-
-  - 26.957 - 27.283 MHz
-
-  - 40.66 - 40.7 MHz 2400 - 2500 MHz 5.725 - 5.875 GHz 24.0 - 24.25 GHz
-
-  - 61 - 61.5 GHz
-
-  - 122 - 123 GHz
-
-  - 244 - 246 GHz
+  - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands— 6.765 - 6.795 MHz 13.553 - 13.567 MHz 26.957 - 27.283 MHz 40.66 - 40.7 MHz 2400 - 2500 MHz 5.725 - 5.875 GHz 24.0 - 24.25 GHz 61 - 61.5 GHz 122 - 123 GHz 244 - 246 GHz
 
 - PART 3 MOBILE CARRIER LICENCES OTHER THAN MOBILE
 
@@ -106,27 +76,17 @@ FEES PAYABLE FOR CARRIER LICENCES
 
   - 1. The annual fee payable on the issue and on the anniversary of the issue of a mobile carrier licence (excluding a mobile carrier (restricted) licence) in each year while the licence remains in force shall be the sum of—
 
-    - (a) for the 1st to the 50th base station installed for the service $1,000 per base
+  - (a) | for the 1st to the 50th base station installed for the service | $1,000 per base
 
-    - station
+  - (b) | for the 51st to the 100th base station installed for the service | $500 per base station
 
-    - (b) for the 51st to the 100th base station installed for the service $500 per base
+  - (c) | for the 101st base station installed for the service and any additional base stations | $100 per base station
 
-    - station
+  - (d) | for the 1st 200 mobile stations or less used by customers of the service (L.N. 30 of 2002; L.N. 34 of 2004) | $4,000
 
-    - (c) for the 101st base station installed for the service and any $100 per base
+  - (e) | for every additional 100 mobile stations or less used by customers of the service (L.N. 30 of 2002; L.N. 34 of 2004) | $2,000
 
-    - additional base stations station
-
-    - (d) for the 1st 200 mobile stations or less used by customers of $4,800
-
-    - the service (L.N. 30 of 2002)
-
-    - (e) for every additional 100 mobile stations or less used by $2,400
-
-    - customers of the service (L.N. 30 of 2002)
-
-    - (f) for every 1 kHz of frequency assigned to the licensee $50
+  - (f) | for every 1 kHz of frequency assigned to the licensee | $50
 
   - 2. For the purpose of determining the fees payable under section 1, the number of stations and the width of the frequency assigned shall be those authorized or in service at the time when the mobile carrier licence concerned is issued or on the anniversary of the issue.
 
