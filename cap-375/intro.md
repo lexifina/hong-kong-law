@@ -1,0 +1,3 @@
+To provide for the recording of points in relation to various road traffic offences connected with road safety, for the disqualification from driving of persons in respect of whom a certain number of points have been recorded and for connected purposes.
+
+[25 August 1984] L.N. 295 of 1984
