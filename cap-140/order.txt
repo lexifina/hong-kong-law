@@ -19,5 +19,7 @@ s-017.md
 s-017A.md
 s-018.md
 s-019.md
+s-020.md
 sch-1.md
 sch-2.md
+sch-3.md
