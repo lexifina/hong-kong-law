@@ -1,6 +1,6 @@
-# Schedule 1
+# SCHEDULE 1
 
-[s. 7(2)]
+[ss. 7(2) & 21] (Amended 46 of 1999 s. 4)
 
 - 1. The Hong Kong Naval Volunteer Force
 

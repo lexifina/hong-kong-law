@@ -24,3 +24,4 @@ s-022.md
 s-023.md
 s-024.md
 sch-1.md
+sch-2.md
