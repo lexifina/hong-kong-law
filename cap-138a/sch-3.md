@@ -144,8 +144,6 @@ Astemizole
 
 Doxylamine
 
-Fexofenadine
-
 Mebhydrolin
 
 Terfenadine
@@ -222,6 +220,22 @@ Bisoprolol; its salts
 
 Bitolterol and its salts when contained in aerosol dispensers
 
+Blood products derived from human blood or manufactured by biotechnology, the following-
+
+Albumin
+
+Antithrombins
+
+Blood clotting factors
+
+Fibrin
+
+Fibrinogen
+
+Plasma protein fractions
+
+Thrombin
+
 Botulinum toxin complexes
 
 Bretylium tosylate
@@ -245,6 +259,8 @@ Buformin; its salts
 Bumadizone; its salts
 
 Bumetanide; its salts; its derivatives; their salts
+
+Bupivacaine; its salts
 
 Bupranolol; its salts
 
@@ -277,6 +293,8 @@ Carbachol
 Carbamazepine
 
 Carbidopa; its salts
+
+Carbimazole; its salts
 
 Carboplatin
 
@@ -499,6 +517,8 @@ Digitalis, glycosides of; other active principles of digitalis
 Dihydrallazine; its salts
 
 Dihydroergotamine; its salts, simple or complex
+
+Dihydroetorphine; its salts
 
 Diltiazem; its salts
 
@@ -884,6 +904,8 @@ Mefloquine; its salts
 
 Mefruside
 
+Melitracen; its salts
+
 Meloxicam; its salts
 
 Mephenesin; its esters; their salts
@@ -891,6 +913,8 @@ Mephenesin; its esters; their salts
 Mephenoxalone
 
 Mepirizole; its salts
+
+Mepivacaine; its salts
 
 Meprobamate
 
@@ -911,6 +935,8 @@ Metergoline
 Metformin; its salts
 
 Methaqualone; its salts
+
+Methimazole; its salts
 
 Methixene; its salts
 
@@ -1214,6 +1240,8 @@ Propranolol; its salts; its derivatives; their salts
 
 Propylhexedrine and its salts, except when contained in inhalers
 
+Propylthiouracil; its salts
+
 Proquazone
 
 Prostaglandins, the following and their derivatives-
@@ -1402,6 +1430,8 @@ Thiotepa
 
 Thyroid gland, the active principles of; their salts
 
+Tiapride; its salts
+
 Ticlopidine; its salts
 
 Tiletamine; its salts
@@ -1415,6 +1445,8 @@ Timolol; its salts
 Tinoridine; its salts
 
 Tinzaparin; its salts
+
+Tiratricol; its salts
 
 Tirofiban; its salts
 
@@ -1511,6 +1543,8 @@ Vasopressins
 Vencuronium; its salts
 
 Venlafaxine; its salts
+
+Veralipride; its salts
 
 Verapamil; its salts
 

@@ -22,8 +22,6 @@ Brucine | Surgical spirit containing not more than 0.015% of brucine
 
 Emetine | Ipecacuanha; extracts and tinctures of ipecacuanha; substances containing less than 0.05% of emetine
 
-Ephedra, alkaloids of | Substances containing less than 1% of the alkaloids of ephedra, their optical isomers
-
 Lobelia, alkaloids of | Preparations for the relief of asthma in the form of cigarettes, smoking mixtures or fumigants; substances containing less than 0.1% of the alkaloids of lobelia
 
 Pilocarpus, alkaloids of | Substances containing less than 0.025% of the alkaloids of pilocarpus, preparations containing not more than 2%, weight of the sulphate salt of transpilosine (L.N. 137 of 1978)
@@ -105,6 +103,8 @@ Quinine; its salts; its derivatives; their salts | Preparations containing not m
 Sodium ethyl mercurithio-salicylate | Therapeutic substances containing less than 0.1% of sodium ethyl mercurithiosalicylate as a preservative
 
 Sodium fluoride | Substances containing less than 3% of sodium fluoride as a preservative; dentifrices containing not more than 0.33% of sodium fluoride; mouth wash tables containing not more than 0.2% of sodium fluoride and liquid mouth washes containing not more than 0.05% thereof; tablets containing not more than 0.016%, weight in weight, of sodium fluoride and intended, when chewed to prevent tooth decay (L.N. 202 of 1999)
+
+(L.N. 138 of 2000)
 
 B
 
