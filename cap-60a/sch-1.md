@@ -1,6 +1,6 @@
 # Schedule 1
 
-[regs. 3, 6 & 7]
+[regs. 3, 6, 6AA & 7] (29 of 2000 s. 2)
 
 - PART I
 

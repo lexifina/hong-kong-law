@@ -13,6 +13,7 @@ s-005AD.md
 s-005AE.md
 s-005A.md
 s-006.md
+s-006AA.md
 s-006A.md
 s-006B.md
 s-006C.md
