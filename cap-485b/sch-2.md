@@ -138,7 +138,7 @@ MANDATORY CONDITIONS
 
     - (a) to a registered scheme in which the member’s new employer is a participating employer; or
 
-    - (b) to a master trust scheme, nominated by the member, that accepts transfers of minimum MPF benefits from other registered schemes.
+    - (b) to a master trust scheme or an industry scheme, nominated by the member, that accepts transfers of minimum MPF benefits. (29 of 2002 s. 14)
 
   - (2) In the event of—
 

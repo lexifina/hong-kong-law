@@ -14,6 +14,8 @@ INVESTMENT OF SCHEME FUNDS
 
       - “call warrant” (認購權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to purchase from the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the value of those ordinary shares over the exercise price without the holder of the warrant receiving those shares from the issuer; (L.N. 223 of 2000)
 
+      - “collective investment scheme” (集體投資計劃) has the meaning assigned to it by the Securities and Futures Ordinance (Cap. 571); (29 of 2002 s. 14)
+
       - “constituent fund” (成分基金) means a constituent fund of a registered scheme;
 
       - “effective exposure” (有效風險) means—
@@ -25,6 +27,8 @@ INVESTMENT OF SCHEME FUNDS
         - (c) in relation to other kinds of securities and investments, the market value of the securities and investments;
 
       - “hedging” (對沖) has the meaning given by subsection (3);
+
+      - “index-tracking collective investment scheme” (緊貼指數集體投資計劃) means a collective investment scheme which has the sole investment objective of tracking a particular market index; (29 of 2002 s. 14)
 
       - “put warrant” (認沽權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to sell to the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the exercise price over the value of those ordinary shares without the holder of the warrant delivering those shares to the issuer; (L.N. 223 of 2000)
 
@@ -50,7 +54,31 @@ INVESTMENT OF SCHEME FUNDS
 
     - (2) Not more than 10 per cent of securities or other permissible investments of a particular class issued by one person may be acquired for the purposes of a constituent fund.
 
-    - (3) Notwithstanding subsections (1) and (2), where part or all of the funds of a constituent fund are invested in approved pooled investment funds under section 6(b) of this Schedule, then subsections (1) and (2) shall not apply to that part or all of the funds of the constituent fund so invested. (L.N. 223 of 2000)
+    - (3) Notwithstanding subsections (1) and (2), where part or all of the funds of a constituent fund are invested in accordance with section 6(b)(i), (ii) or (iii) of this Schedule, then subsections (1) and (2) shall not apply to that part or all of the funds of the constituent fund so invested. (29 of 2002 s. 14)
+
+    - (4) Notwithstanding subsections (1) and (2), where a constituent fund has the sole investment objective of tracking a particular market index, then those subsections shall not apply to the constituent fund if the approved trustee has the prior approval of the Authority that those subsections shall not apply to the constituent fund. (29 of 2002 s. 14)
+
+    - (5) In granting an approval mentioned in subsection (4), the Authority may impose such conditions with respect to the constituent fund concerned as the Authority considers appropriate. (29 of 2002 s. 14)
+
+    - (6) Where the Authority—
+
+      - (a) has decided that it is appropriate to—
+
+        - (i) amend any conditions imposed under subsection (5) or this subsection with respect to a constituent fund; or
+
+        - (ii) impose conditions with respect to a constituent fund; and
+
+      - (b) has given to the approved trustee concerned—
+
+        - (i) not less than 30 days’ advance notice of its decision, specifying its grounds; and
+
+        - (ii) an opportunity to make written representations as to why the conditions should not be amended or imposed,
+
+    - then the Authority may, by written notice served on the approved trustee—
+
+      - (c) amend any conditions imposed under subsection (5) or this subsection with respect to the constituent fund; or
+
+      - (d) impose conditions with respect to the constituent fund. (29 of 2002 s. 14)
 
   - 3. Restrictions on borrowing and lending of securities
 
@@ -100,7 +128,33 @@ INVESTMENT OF SCHEME FUNDS
 
     - (a) in investments that satisfy the requirements of sections 7 to 16 of this Schedule; or
 
-    - (b) in an approved pooled investment fund that satisfies the requirements of Part IV of this Schedule, but only if the underlying investments of the fund comply with this Part.
+    - (b) in—
+
+      - (i) an approved pooled investment fund—
+
+        - (A) that satisfies the requirements of Part IV of this Schedule; and
+
+        - (B) the underlying investments of which would comply with this Part if references in this Part to “constituent fund” were references to “approved pooled investment fund”;
+
+      - (ii) an index-tracking collective investment scheme approved by the Authority for the purposes of section 6A of this Schedule; or
+
+      - (iii) a combination of an approved pooled investment fund falling within subparagraph (i) and an index-tracking collective investment scheme falling within subparagraph (ii). (29 of 2002 s. 14)
+
+  - 6A. Permissible investments: index-tracking
+
+  - collective investment scheme
+
+    - (1) The funds of a constituent fund may be invested in an index-tracking collective investment scheme which is—
+
+      - (a) either—
+
+        - (i) authorized by the Securities and Futures Commission, within the meaning of the Securities and Futures Ordinance (Cap. 571); or
+
+        - (ii) listed on a recognized stock exchange approved by the Authority for the purposes of this section; and
+
+      - (b) approved by the Authority for the purposes of this section.
+
+  - (29 of 2002 s. 14)
 
   - 7. Permissible investments: debt securities
 
@@ -124,7 +178,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (c) a debt security that satisfies a minimum credit rating set by the Authority, based on the credit rating of the security as determined by a credit rating agency approved by the Authority for the purposes of this Schedule; or
 
-      - (d) a debt security listed on a recognized stock exchange, being a security issued by, or guaranteed by, a company or corporation whose shares are so listed. (L.N. 223 of 2000)
+      - (d) a debt security listed on a recognized stock exchange, being a security issued by, or guaranteed by, a company or corporation whose shares are listed on that exchange or another recognized stock exchange. (L.N. 223 of 2000; 29 of 2002 s. 14)
 
     - (3) Section 2 of this Schedule does not apply in relation to a debt security of a kind referred to in subsection (2)(a) or (b) and the following provisions apply instead—
 
@@ -140,7 +194,11 @@ INVESTMENT OF SCHEME FUNDS
 
   - 8. Permissible investments: equities and other securities
 
-    - (1) The funds of a constituent fund may be applied for the purpose of acquiring fully-paid up shares listed on a recognized stock exchange.
+    - (1) The funds of a constituent fund may be invested in—
+
+      - (a) fully-paid up shares listed on a recognized stock exchange other than the shares of a company which is a collective investment scheme; or
+
+      - (b) an index-tracking collective investment scheme approved by the Authority for the purposes of section 6A of this Schedule. (29 of 2002 s. 14)
 
     - (2) Not more than 10 per cent of the funds of a constituent fund may be invested in the following—
 
@@ -156,7 +214,7 @@ INVESTMENT OF SCHEME FUNDS
 
   - The funds of a constituent fund may be invested in—
 
-    - (a) a convertible debt security listed on a recognized stock exchange and convertible to shares listed on the exchange; or
+    - (a) a convertible debt security listed on a recognized stock exchange and convertible to shares listed on that exchange or another recognized stock exchange; or (29 of 2002 s. 14)
 
     - (b) a convertible debt security that satisfies the minimum credit rating requirements for a debt security.
 
@@ -187,6 +245,30 @@ INVESTMENT OF SCHEME FUNDS
       - (a) where the total market value of the constituent fund is less than $8,000,000, 25 per cent of that fund; or
 
       - (b) in any other case, 10 per cent of that fund.
+
+    - (3A) Notwithstanding subsection (3), where a constituent fund has a total market value of less than $8,000,000, then that subsection shall not apply to the constituent fund if the approved trustee has the prior approval of the Authority that that subsection shall not apply to the constituent fund. (29 of 2002 s. 14)
+
+    - (3B) In granting an approval mentioned in subsection (3A), the Authority may impose such conditions with respect to the constituent fund concerned as the Authority considers appropriate. (29 of 2002 s. 14)
+
+    - (3C) Where the Authority—
+
+      - (a) has decided that it is appropriate to—
+
+        - (i) amend any conditions imposed under subsection (3B) or this subsection with respect to a constituent fund; or
+
+        - (ii) impose conditions with respect to a constituent fund; and
+
+      - (b) has given to the approved trustee concerned—
+
+        - (i) not less than 30 days’ advance notice of its decision, specifying its grounds; and
+
+        - (ii) an opportunity to make written representations as to why the conditions should not be amended or imposed,
+
+    - then the Authority may, by written notice served on the approved trustee—
+
+      - (c) amend any conditions imposed under subsection (3B) or this subsection with respect to the constituent fund; or
+
+      - (d) impose conditions with respect to the constituent fund. (29 of 2002 s. 14)
 
     - (4) Funds of a constituent fund must not be placed on deposit with a group of associated authorized financial institutions or eligible overseas banks (or a combination of them) if the total amount of funds deposited would exceed 25 per cent of the total market value of the constituent fund.
 
@@ -268,7 +350,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (b) the period of the contract is not more than 12 months.
 
-    - (3) A currency forward contract to sell Hong Kong dollars may not be acquired for a constituent fund unless it is acquired for the purpose of the settlement of a transaction in the acquisition of securities denominated in a foreign currency already committed.
+    - (3) (Repealed 29 of 2002 s. 14)
 
 - PART III CURRENCY EXPOSURE
 

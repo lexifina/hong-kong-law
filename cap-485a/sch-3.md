@@ -56,7 +56,7 @@ CONTENTS OF CUSTODIAL AGREEMENTS
 
   - (a) for any direct losses incurred by scheme members that are attributable to fraudulent, dishonest or negligent acts or omissions committed by the custodian or its employees in connection with the performance of the custodian’s obligations under the agreement; and (L.N. 222 of 2000; L.N. 223 of 2000)
 
-  - (b) for any losses attributable to fraudulent, dishonest or negligent acts or omissions committed by delegates of the custodian to the same extent as if the custodian had committed those acts or omissions itself.
+  - (b) for any direct losses attributable to fraudulent, dishonest or negligent acts or omissions committed by delegates of the custodian to the same extent as if the custodian had committed those acts or omissions itself. (29 of 2002 s. 14)
 
 - 6.
 

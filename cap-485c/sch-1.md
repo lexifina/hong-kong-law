@@ -18,6 +18,6 @@ Item | Relevant section of the Ordinance | Description | Amount
 
 5. | 34 | Fee payable when an application is lodged with the Authority in respect of the voluntary winding up of an employer sponsored scheme | Nil
 
-6. | 34B | Fee payable when an application is lodged with the Authority in respect of the merger of registered schemes | Nil
+6. | 34B | Fee payable when an application is lodged with the Authority in respect of the restructuring of a registered scheme (29 of 2002 s. 14) | Nil
 
-7. | 34C | Fee payable when an application is lodged with the Authority in respect of the division of a registered scheme | Nil
+7. | (Repealed 29 of 2002 s. 14)

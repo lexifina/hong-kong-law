@@ -30,9 +30,9 @@ DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
 
 - 9. A decision of the Authority to refuse to consent to the voluntary winding up of an employer sponsored scheme. (Added 4 of 1998 s. 2)
 
-- 10. A decision of the Authority to reject an application to the Authority for its consent to the merger of 2 or more registered schemes. (Added 4 of 1998 s. 2)
+- 10. A decision of the Authority to reject an application for its consent to the restructuring of one or more registered schemes. (Replaced 29 of 2002 s. 13)
 
-- 11. A decision of the Authority to reject an application to the Authority for its consent to the division of a registered scheme into 2 or more registered schemes. (Added 4 of 1998 s. 2)
+- 11. (Repealed 29 of 2002 s. 13)
 
 - 12. A decision of the Authority to reject an application for the granting of an exemption under section 5 of the Ordinance. (Added 4 of 1998 s. 2)
 
@@ -40,7 +40,7 @@ DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
 
 - 14. A decision of the Authority—
 
-  - (a) under section 5 of the Mandatory Provident Fund Schemes (Exemption) Regulation (Cap. 485 sub. leg.) to refuse an application for an exemption certificate;
+  - (a) under section 5 of the Mandatory Provident Fund Schemes (Exemption) Regulation (Cap. 485 sub. leg. B) to refuse an application for an exemption certificate;
 
   - (b) under section 8 of that Regulation to refuse an application to withdraw an exemption certificate;
 
