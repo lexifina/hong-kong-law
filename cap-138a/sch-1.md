@@ -272,6 +272,8 @@ Bretylium tosylate
 
 Brimonidine; its salts
 
+Brinzolamide; its salts
+
 Bromocriptine; its salts
 
 Bromvaletone
@@ -391,6 +393,8 @@ Cicletanine; its salts
 Cidofovir; its salts
 
 Cilazapril; its salts
+
+Cilostazol; its salts
 
 Cinepazide; its salts
 
@@ -942,6 +946,8 @@ Leflunomide; its salts
 
 Lepirudin; its salts
 
+Lercanidipine; its salts
+
 Letrozole
 
 Leuprorelin; its salts
@@ -1066,7 +1072,7 @@ Methylphenidate; its salts
 
 Methylpentynol; its derivatives
 
-alpha-Methylphenethylamine; beta-methylphenethylamine; alpha-ethylphenethylamine; beta-ethylphenethylamine; their optical isomers; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except hydroxyamphetamine, methoxyphenamine, phenylpropanolamine, pholedrine and N-substituted derivatives of ephedrine; any salt of any substance falling within this item
+alpha-Methylphenethylamine; beta-methylphenethylamine; alpha-ethylphenethylamine; beta-ethylphenethylamine; their optical isomers; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except hydroxyamphetamine, methoxyphenamine, pholedrine and N-substituted derivatives of ephedrine; any salt of any substance falling within this item
 
 1-Methyl-4-phenylpiperidine-4-carboxylic acid; its salts; its esters; their salts
 
@@ -1760,7 +1766,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001)
 
 B
 
