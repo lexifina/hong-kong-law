@@ -28,15 +28,15 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - “EC member” (選委會委員) means a member of the Election Committee;
 
-      - “election advertisement” (選舉廣告) means any publicity material used or intended to be used by or on behalf of a subsector candidate for the purpose of promoting or advertising that candidate in connection with a subsector election;
+      - “election advertisement” (選舉廣告) has the meaning assigned to it by section 2 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554), but the reference to “an election” in that meaning is to be construed as the election referred to in section 4(d) of that Ordinance; (L.N. 65 of 2000)
 
       - “election agent” (選舉代理人) means a person appointed as an election agent under section 19;
 
       - “Election Committee” (選舉委員會) has the meaning assigned to it by section 3(1) of the Legislative Council Ordinance (Cap. 542);
 
-      - “election expense agent” (選舉開支代理人) means a person authorized to incur election expenses under section 21;
+      - “election expense agent” (選舉開支代理人) has the meaning assigned to it by section 2 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554); (L.N. 65 of 2000)
 
-      - “election expenses” (選舉開支), in relation to a subsector election, has the meaning assigned to it by section 2 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554); (10 of 2000 s. 47)
+      - “election expenses” (選舉開支) has the meaning assigned to it by section 2 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554), but the reference to “an election” in that meaning is to be construed as the election referred to in section 4(d) of that Ordinance; (10 of 2000 s. 47; L.N. 65 of 2000)
 
       - “geographical constituencies final register” (地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under the Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) and which is in effect; (L.N. 284 of 1999)
 
@@ -59,6 +59,8 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
         - (b) between 9 a.m. and 5 p.m. on any other day,
 
       - other than a general holiday;
+
+      - “political body” (政治性團體) has the meaning assigned to it by section 2(1) of the Societies Ordinance (Cap. 151); (L.N. 65 of 2000)
 
       - “polling agent” (監察投票代理人) means a person appointed as a polling agent under section 38;
 
@@ -124,15 +126,19 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (b)
 
-        - in the definition of “election advertisement” and section 92, “subsector candidate” (界別分組候選人) includes a person who is a subsector candidate within the meaning of paragraph (a) and a person who intends to stand for election at a subsector election, whether or not that person has submitted a nomination form under Part 2.
+        - in sections 21 and 92, “subsector candidate” (界別分組候選人)—
+
+        - (i) means a person who stands nominated as a subsector candidate at a subsector election; and
+
+        - (ii) also means a person who, at any time before close of nominations for a subsector election, has publicly declared an intention to stand as a subsector candidate at the subsector election. (L.N. 65 of 2000)
 
     - (3) In this Schedule, any reference to—
 
-      - (a)
+      - (a) “Returning Officer” is to be construed, in relation to a particular subsector, as the Returning Officer appointed for that subsector; and
 
-        - “Returning Officer” is to be construed, in relation to a particular subsector, as the Returning Officer appointed for that subsector; and
+      - (b)
 
-      - (b) “subsector” is to be construed, in relation to the sports, performing arts, culture and publication subsector, as including the sub-subsectors constituting that subsector.
+        - “subsector” is to be construed, in relation to the sports, performing arts, culture and publication subsector, as including the sub-subsectors constituting that subsector.
 
     - (4) In this Schedule, any provision which entitles or permits a subsector candidate, an election agent, a polling agent or a counting agent to do anything in a polling station, counting station, counting zone or in relation to the counting of the votes is to be construed as entitling or permitting the candidate or the agent to do it in a polling station, counting station, counting zone or in relation to the counting of the votes for the subsector for which the subsector candidate is standing for election or for which the agent is appointed, as the case may require.
 
@@ -180,7 +186,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
         - (a) the name of each designated body;
 
-        - (b) the number of members allocated to each designated body by the Distribution of Number of Members Among Designated Bodies (Election Committee) (Legislative Council) Order 1997 (Cap. 542 sub. leg.);
+        - (b) the number of members allocated to each designated body by the Distribution of Number of Members Among Designated Bodies (Election Committee) (Legislative Council) Order 2000 (Cap. 542 sub. leg.); (L.N. 65 of 2000)
 
         - (c) that forms nominating members for the purposes of section 3(1) of Schedule 2 to the Legislative Council Ordinance (Cap. 542) are to be submitted to the Returning Officer;
 
@@ -244,7 +250,13 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
         - (c) consents to being so nominated.
 
-      - (5) The subsector nomination form must be signed by the person being nominated as the subsector candidate. The subsector nomination form must contain the name, identity document number and principal residential address of the person being nominated as the subsector candidate.
+      - (4A) The subsector nomination form—
+
+        - (a) must contain the name of the person being nominated as the subsector candidate as shown on the person’s identity document (being the identity document on the basis of which the particulars of the person are recorded in the geographical constituencies final register) and, if the Returning Officer is satisfied that the person is usually known by a name different from that shown on the person’s identity document aforesaid, may also include that different name; and
+
+        - (b) must also contain the identity document number and principal residential address of the person being nominated as the subsector candidate. (L.N. 65 of 2000)
+
+      - (5) The subsector nomination form must be signed by the person being nominated as the subsector candidate. (L.N. 65 of 2000)
 
       - (6) The subsector nomination form must be signed by the person being nominated as the subsector candidate in each place the candidate’s signature is required on that form.
 
@@ -288,9 +300,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (2) When the Returning Officer receives the appropriate deposit, that Officer must issue a receipt for the amount of the deposit.
 
-      - (3)
-
-        - In this section and section 12 “appropriate deposit” (適當的按金) means the amount of deposit to be lodged under the Legislative Council (Subscribers and Election Deposit for Nomination) Regulation (Cap. 541 sub. leg.) for a subsector election.
+      - (3) In this section and section 12 “appropriate deposit” (適當的按金) means the amount of deposit to be lodged under the Legislative Council (Subscribers and Election Deposit for Nomination) Regulation (Cap. 541 sub. leg.) for a subsector election.
 
     - 11.
 
@@ -398,7 +408,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - of validly nominated subsector candidates
 
-      - (1) The Returning Officer must, within 7 days of the expiry of the nomination period, publish a notice in the Gazette which complies with this section.
+      - (1) The Returning Officer must, within 14 days of the expiry of the nomination period, publish a notice in the Gazette which complies with this section. (L.N. 65 of 2000)
 
       - (2) A notice referred to in subsection (1) must be published for all subsectors.
 
@@ -407,6 +417,8 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
       - (4) A notice published for a subsector must state the name and principal residential address of each validly nominated candidate for the subsector. It must also state the number allocated to each subsector candidate under section 45(3).
 
       - (5) A notice under this section must be in the specified form.
+
+      - (6) If one notice is to be published under this section for all the subsectors, the notice is to be published by the Returning Officer specified for the purpose by the Chief Electoral Officer. (L.N. 65 of 2000)
 
     - 18.
 
@@ -438,7 +450,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (4) The appointment of an election agent is not effective until notice of the appointment is received by the Returning Officer.
 
-      - (5) A notice for the purposes of this section must be in writing and state the name, identity document number and registered residential address of the election agent.
+      - (5) A notice for the purposes of this section must be in writing and state the name, identity document number and residential address of the election agent. (L.N. 65 of 2000)
 
       - (6) The notice must be signed by the subsector candidate.
 
@@ -488,41 +500,51 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - 21.
 
-    - A subsector candidate may appoint persons to
+    - Authorization of election expense agent to incur election
 
-    - incur election expenses on candidate’s behalf
+    - expenses at or in connection with a subsector election
 
-      - (1) A subsector candidate may authorize one or more persons to incur election expenses on the subsector candidate’s behalf. (L.N. 147 of 1998)
+      - (1) (Repealed L.N. 65 of 2000)
 
-      - (2) Only a person who has attained the age of 18 years may be authorized under subsection (1).
+      - (2) Only a person who has attained the age of 18 years may be authorized as an election expense agent to incur election expenses at or in connection with a subsector election.
 
-      - (3) An authorization under subsection (1) must be in writing and state the name, identity document number and residential address of the person authorized.
+      - (3) An authorization of such an election expense agent must be in writing and in the specified form and state the name, identity document number and residential address of the person authorized.
 
-      - (4) An authorization must state the maximum amount the person authorized may incur as election expenses.
+      - (4) The authorization must specify the maximum amount of election expenses that the election expense agent is authorized to incur. (L.N. 65 of 2000)
 
-      - (5) An authorization must be signed by the subsector candidate. An authorization must also be signed by the person authorized.
+      - (5) The authorization must be signed by the subsector candidate making the authorization. The authorization must also be signed by the person authorized.
 
-      - (6) If an authorization is given on or after the commencement of the nomination period, the subsector candidate must serve a copy of it on the Returning Officer so that it is received by that Officer within 3 working days after the authorization is given.
+      - (6) A copy of the authorization must be served—
 
-      - (7) If an authorization is given before the commencement of the nomination period by a person who is subsequently nominated as a subsector candidate, the subsector candidate must serve a copy of the authorization on the Returning Officer within 3 working days after the subsector nomination form is submitted.
+        - (a) on the Returning Officer; or
 
-      - (8) If a person has, before the commencement of this section, authorized another person to incur election expenses on his or her behalf for the subsector election and he or she is subsequently nominated as a subsector candidate, he or she must serve a copy of the authorization on the Returning Officer within 3 working days after the subsector nomination form is submitted.
+        - (b) if the Returning Officer has not been appointed, on the Chief Electoral Officer. (L.N. 65 of 2000)
 
-      - (9) If the information required under subsections (3) and (4) to be contained in an authorization is not contained in the authorization referred to in subsection (8), the subsector candidate must, when he or she serves the copy, inform the Returning Officer in writing of the name, identity document number and residential address of the person authorized, the amount the authorized person was authorized to incur as election expenses and the amount actually incurred at the time of giving the information.
+      - (7) Service of a copy of the authorization—
 
-      - (10) Subsections (7) and (8) must be complied with even if the authorization has been revoked at the time a copy of the authorization is required to be served under those subsections.
+        - (a) may be effected by delivery by hand, by post or by facsimile transmission; and
 
-      - (11) If the authorization of an election expense agent has been revoked, the subsector candidate must give notice of the revocation to the Returning Officer as soon as possible after the revocation. (L.N. 147 of 1998)
+        - (b) must be effected by the subsector candidate making the authorization. (L.N. 65 of 2000)
 
-      - (12) A notice of revocation must be in writing and be signed by the subsector candidate.
+      - (8) The Returning Officer or the Chief Electoral Officer, as the case may be, is to regard an authorization of an election expense agent to incur election expenses at or in connection with a subsector election as being effective, for any purpose related to the subsector election for which the authorization is relevant, only when a copy of the authorization has been served on the relevant Officer. (L.N. 65 of 2000)
 
-      - (13) The Returning Officer is to regard a revocation of the authorization of an election expense agent as being effective, for any purpose related to an election for which a revocation is relevant, only when that Officer receives the notice of revocation. (L.N. 147 of 1998)
+      - (9)-(10) (Repealed L.N. 65 of 2000)
 
-      - (14) Subject to subsections (8) and (9), an authorization or a notice of revocation must be in the specified form.
+      - (11) If the authorization of an election expense agent to incur election expenses at or in connection with a subsector election has been revoked, the subsector candidate who made the authorization must as soon as possible after the revocation, give written notice of the revocation, by hand, by post or by facsimile transmission—
 
-      - (15) For the purposes of this section a copy of an authorization may be delivered by hand or sent by post or facsimile transmission.
+        - (a) to the Returning Officer; or
 
-    - 22. Returning Officer to make available copies of authorization of election expense agents for public inspection The Returning Officer must make available for public inspection a copy of each of the copies of authorizations received by that Officer under section 21. A copy must be made available for public inspection as soon as practicable after that Officer receives the copy of the authorization and until the end of the period for which the copy of the election return lodged by the subsector candidate is available for inspection under section 41 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554). (10 of 2000 s. 47)
+        - (b) if the Returning Officer has not been appointed, to the Chief Electoral Officer. (L.N. 147 of 1998)
+
+      - (12) The notice of revocation must be in the specified form and signed by the subsector candidate who made the authorization. (L.N. 65 of 2000)
+
+      - (13) If the authorization of an election expense agent to incur election expenses at or in connection with a subsector election has been revoked, the Returning Officer or the Chief Electoral Officer, as the case may be, is to regard the revocation as being effective, for any purpose related to the subsector election for which the revocation is relevant, only when the relevant Officer receives the notice of revocation. (L.N. 147 of 1998)
+
+      - (14)-(15) (Repealed L.N. 65 of 2000)
+
+    - (L.N. 65 of 2000)
+
+    - 22. Copies of authorization of election expense agents to be made available for public inspection The Returning Officer or the Chief Electoral Officer, as the case may be, must make available for public inspection a copy of each of the copies of authorizations served on that Officer under section 21. A copy must be made available for public inspection as soon as practicable after that Officer is served the copy of the authorization and until the end of the period for which the copy of the election return lodged by the subsector candidate is available for inspection under section 41 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554). (10 of 2000 s. 47; L.N. 65 of 2000)
 
 - PART 3 CONTESTED SUBSECTOR ELECTIONS
 
@@ -604,19 +626,21 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - 26.
 
-    - Chief Electoral Officer to assign polling stations
+    - Chief Electoral Officer may arrange for voting for subsectors
 
-    - for subsectors and to allocate polling stations
+    - to take place at a polling station and to allocate polling
 
-    - to voters and authorized representatives
+    - stations to votes and authorized representatives
 
-      - (1) The Chief Electoral Officer may assign for each subsector one or more polling stations to conduct polling for that subsector.
+      - (1) The Chief Electoral Officer may make arrangements for voting for one or more subsectors to take place at a polling station. (L.N. 65 of 2000)
 
-      - (2) If the Chief Electoral Officer so determines, a polling station assigned for a particular subsector may also be used for polling for another subsector or subsectors in addition to the subsector for which it is assigned.
+      - (2) (Repealed L.N. 65 of 2000)
 
       - (3) The Chief Electoral Officer must allocate to each voter and authorized representative a polling station to cast the vote or votes that person is entitled to cast at a subsector election.
 
       - (4) If a person is entitled to cast more than one vote at subsector elections (one as a voter and the other as an authorized representative), the Chief Electoral Officer may allocate to that person the same polling station to cast both the votes.
+
+      - (5) The Chief Electoral Officer may, if that Officer considers it appropriate to do so in the circumstances, allocate to a voter or authorized representative an alternative polling station, in addition to or in substitution of the polling station allocated under subsection (3), to cast the vote or votes he or she is entitled to cast at a subsector election. (L.N. 65 of 2000)
 
     - 27.
 
@@ -644,6 +668,16 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (5) The Chief Electoral Officer must state in the poll card the polling station at which the voter or the authorized representative must cast his or her vote or votes.
 
+      - (5A) Where an alternative polling station is allocated to a voter or authorized representative under section 26(5), the Chief Electoral Officer must, as soon as practicable, notify, in a manner that Officer considers appropriate—
+
+        - (a) the voter or authorized representative;
+
+        - (b) the Returning Officer;
+
+        - (c) the Presiding Officer of the polling station previously allocated to the voter or authorized representative; and
+
+        - (d) the Presiding Officer of the alternative polling station. (L.N. 65 of 2000)
+
       - (6)
 
         - In this section “corporate voter” (團體投票人) has the meaning assigned to it by section 7(1) of Schedule 2 to the Legislative Council Ordinance (Cap. 542).
@@ -658,13 +692,21 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (1) A voter or authorized representative who claims to be a person with a disability and that access to the polling station which is allocated to him or her under section 26 is difficult for him or her due to the disability, may apply to the Chief Electoral Officer to vote at the special polling station designated for the subsector for which he or she is entitled to vote.
 
-      - (2) An application under subsection (1) must be made at least 3 days before polling day.
+      - (2) An application under subsection (1) must be made at least 3 days before polling day. The application—
 
-      - (3) On receiving an application under subsection (1), the Chief Electoral Officer must, if satisfied that the application is well founded, allocate the appropriate special polling station to the voter or authorized representative.
+        - (a) may be—
+
+          - (i) made in writing; and
+
+          - (ii) delivered by hand or sent by post or by facsimile transmission; or
+
+        - (b) may be made orally by telephone. (L.N. 65 of 2000)
+
+      - (3) On receiving an application under subsection (1), the Chief Electoral Officer must, if satisfied that the application is well founded, allocate to the voter or authorized representative an appropriate special polling station to cast the vote he or she is entitled to cast at the subsector election to which the application relates. (L.N. 65 of 2000)
 
       - (4) The Chief Electoral Officer must inform the applicant in a manner that that Officer considers appropriate, the result of the application, as soon as practicable.
 
-      - (5) A voter or authorized representative who is allocated a special polling station may vote only at that polling station in the subsector election.
+      - (5) (Repealed L.N. 65 of 2000)
 
       - (6) When the Chief Electoral Officer allocates a special polling station to a voter or authorized representative under this section, that Officer must, as soon as practicable, notify, in a manner that Officer considers appropriate—
 
@@ -676,6 +718,18 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - of the name, identity document number and registered residential address (as it appears in the subsector final register) of that voter or authorized representative.
 
+      - (7) The Chief Electoral Officer must notify the persons referred to in subsection (6) of the subsector for which the voter or authorized representative is entitled to vote. (L.N. 65 of 2000)
+
+      - (8) The Chief Electoral Officer may, if that Officer considers it appropriate to do so in the circumstances, allocate to a voter or authorized representative an alternative special polling station, in addition to or in substitution of the special polling station allocated under subsection (3), to cast the vote he or she is entitled to cast at the subsector election. (L.N. 65 of 2000)
+
+      - (9) Where an alternative special polling station is allocated to a voter or authorized representative under subsection (8), the Chief Electoral Officer must, as soon as practicable, notify, in a manner that Officer considers appropriate—
+
+        - (a) the voter or authorized representative;
+
+        - (b) the persons referred to in subsection (6); and
+
+        - (c) the Presiding Officer of the alternative special polling station. (L.N. 65 of 2000)
+
     - 30.
 
     - Chief Electoral Officer to appoint Presiding
@@ -684,35 +738,39 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (1) The Chief Electoral Officer must appoint a person to preside at each polling station.
 
-      - (2) The Chief Electoral Officer may appoint persons that Officer considers suitable to assist the Presiding Officer in the conduct of a poll.
+      - (2) The Chief Electoral Officer may appoint, as polling officers, persons that Officer considers suitable to assist the Presiding Officer in the conduct of a poll. (L.N. 65 of 2000)
 
     - 31.
 
     - Chief Electoral Officer to supply subsector candidates
 
-    - with extract of subsector final register
+    - with copy of subsector final register
 
-      - (1) The Chief Electoral Officer must supply to each subsector candidate an extract of the part of the subsector final register which relates to the subsector for which that subsector candidate is nominated.
+      - (1) The Chief Electoral Officer must supply to each subsector candidate a copy of the part of the subsector final register which relates to the subsector for which that subsector candidate is nominated.
 
-      - (2) An extract under this section must be supplied to a subsector candidate as soon as practicable after the relevant subsector nomination form is submitted to the Returning Officer. An extract may contain additional particulars or information the Chief Electoral Officer thinks fit to include.
+      - (2) A copy under this section must be supplied to a subsector candidate as soon as practicable after the relevant subsector nomination form is submitted to the Returning Officer. The copy may contain additional particulars or information the Chief Electoral Officer thinks fit to include.
 
-      - (3) The form in which an extract is supplied may be in a printed form, a form which is capable of being read by a computer or any other form determined by the Chief Electoral Officer.
+      - (3) The form in which a copy is supplied may be in a printed form, a form which is capable of being read by a computer or any other form determined by the Chief Electoral Officer.
 
-      - (4) An extract for the purposes of this section may be supplied to the election agent of a subsector candidate instead of the subsector candidate to whom it is required to be supplied.
+      - (4) A copy for the purposes of this section may be supplied to the election agent of a subsector candidate instead of the subsector candidate to whom it is required to be supplied.
+
+    - (L.N. 65 of 2000)
 
     - 32.
 
     - Chief Electoral Officer to supply Returning Officer
 
-    - with copy or extract of subsector final register
+    - with copy of subsector final register
 
-      - (1) The Chief Electoral Officer must supply to the Returning Officer, a copy or extract of the part of the subsector final register relating to the subsector for which the Returning Officer is appointed.
+      - (1) The Chief Electoral Officer must supply to the Returning Officer, a copy of the part of the subsector final register relating to the subsector for which the Returning Officer is appointed.
 
-      - (2) A copy or extract under this section must be supplied after the relevant notice of nominations is published.
+      - (2) A copy under this section must be supplied after the relevant notice of nominations is published.
 
-      - (3) A copy or extract may contain additional particulars or information the Chief Electoral Officer thinks fit to include.
+      - (3) There may be added to the copy the identity document numbers of the voters and authorized representatives and such other additional particulars or information as the Chief Electoral Officer thinks fit to include.
 
-      - (4) The form in which a copy or extract is supplied may be in a printed form, a form which is capable of being read by a computer or any other form determined by the Chief Electoral Officer.
+      - (4) The form in which the copy is supplied may be in a printed form, a form which is capable of being read by a computer or any other form determined by the Chief Electoral Officer.
+
+    - (L.N. 65 of 2000)
 
     - 33.
 
@@ -724,11 +782,11 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (2) The Chief Electoral Officer must supply to each Presiding Officer, the number of subsector ballot papers the Chief Electoral Officer considers necessary for the subsector or subsectors for which the polling station is to be used for polling.
 
-      - (3) The Chief Electoral Officer must also supply to the Presiding Officer a copy or extract of the part of the subsector final register relating to that subsector or subsectors.
+      - (3) The Chief Electoral Officer must also supply to the Presiding Officer a copy of the part of the subsector final register relating to that subsector or subsectors. (L.N. 65 of 2000)
 
-      - (4) A copy or extract may contain additional particulars or information the Chief Electoral Officer thinks fit to include.
+      - (4) There may be added to the copy the identity document numbers of the voters and authorized representatives and such other additional particulars or information as the Chief Electoral Officer thinks fit to include. (L.N. 65 of 2000)
 
-      - (5) The form in which a copy or an extract is supplied may be in a printed form, a form which is capable of being read by a computer or any other form determined by the Chief Electoral Officer
+      - (5) The form in which the copy is supplied may be in a printed form, a form which is capable of being read by a computer or any other form determined by the Chief Electoral Officer. (L.N. 65 of 2000)
 
       - (6) The Chief Electoral Officer must provide at each polling station materials that are necessary to enable voters and authorized representatives to mark the subsector ballot papers.
 
@@ -792,13 +850,25 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (14) On polling day, a person must not—
 
-        - (a) engage in canvassing votes in a no canvassing zone;
+        - (a) subject to subsection (15)(a), engage in canvassing for votes in a no canvassing zone; (L.N. 65 of 2000)
 
         - (b) use a sound amplifying system or device for any purpose in the no canvassing zone;
 
-        - (c) use a sound amplifying system or device, for canvassing of votes, so that the sound emitted by it can be heard in the no canvassing zone; or
+        - (c) use a sound amplifying system or device, for canvassing for votes, so that the sound emitted by it can be heard in the no canvassing zone; (L.N. 65 of 2000)
+
+        - (ca) subject to subsection (15)(b), without reasonable excuse, display in the no canvassing zone any badge, emblem or clothing which—
+
+          - (i) may promote or prejudice the election of a subsector candidate or subsector candidates at the subsector election; or
+
+          - (ii) makes direct reference to a body any member of which is standing as a subsector candidate in the subsector election or to a political body in Hong Kong; or (L.N. 65 of 2000)
 
         - (d) stay or loiter in the no staying zone without the express permission of the Presiding Officer.
+
+      - (15) On polling day, a person may, on the storeys above or below street level in a building within the no canvassing zone other than a building in which there is a polling station—
+
+        - (a) without obstructing any person, canvass for votes from door to door; and
+
+        - (b) for the purpose of such canvassing, display any badge, emblem or clothing referred to in subsection (14)(ca). (L.N. 65 of 2000)
 
     - 37.
 
@@ -808,11 +878,17 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (1) The Presiding Officer must use that Officer’s best endeavours to ensure that a person does not, on polling day—
 
-        - (a) engage in the canvassing of votes in the no canvassing zone;
+        - (a) engage in the canvassing for votes in the no canvassing zone (except as provided in section 36(15)(a)); (L.N. 65 of 2000)
 
         - (b) use a sound amplifying system or device in the no canvassing zone;
 
-        - (c) use a sound amplifying system or device, for canvassing votes, so that the sound emitted by it can be heard in the no canvassing zone; or
+        - (c) use a sound amplifying system or device, for canvassing for votes, so that the sound emitted by it can be heard in the no canvassing zone; (L.N. 65 of 2000)
+
+        - (ca) (except as provided in section 36(15)(b)) without reasonable excuse, display in the no canvassing zone any badge, emblem or clothing which—
+
+          - (i) may promote or prejudice the election of a subsector candidate or subsector candidates at the subsector election; or
+
+          - (ii) makes direct reference to a body any member of which is standing as a subsector candidate in the subsector election or to a political body in Hong Kong; or (L.N. 65 of 2000)
 
         - (d) stay or loiter in the no staying zone (except where the person has been expressly permitted to do so by the Presiding Officer).
 
@@ -842,7 +918,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (4) Only a holder of an identity card who has attained the age of 18 years may be appointed as a polling agent. (L.N. 147 of 1998)
 
-      - (5) A subsector candidate who appoints a polling agent must give notice of the appointment either to the Returning Officer at least 3 working days before polling day or on polling day, to the Presiding Officer of the polling station for which the polling agent is appointed.
+      - (5) A subsector candidate who appoints a polling agent must give notice of the appointment either to the Chief Electoral Officer at least 1 week before polling day or on polling day, to the Presiding Officer of the polling station for which the polling agent is appointed. (L.N. 65 of 2000)
 
       - (6) If notice is given on polling day, it must be delivered to the Presiding Officer—
 
@@ -850,17 +926,17 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
         - (b) by the election agent of the subsector candidate, in person.
 
-      - (7) The appointment of a polling agent is not effective until notice is received by the Returning Officer or the Presiding Officer, as may be appropriate.
+      - (7) The appointment of a polling agent is not effective until notice is received by the Chief Electoral Officer or the Presiding Officer, as may be appropriate. (L.N. 65 of 2000)
 
-      - (8) A notice for the purposes of this section must be in writing and in the specified form. It must state the name, identity document number and registered residential address of the polling agent. It must be signed by the subsector candidate.
+      - (8) A notice for the purposes of this section must be in writing and in the specified form. It must state the name, identity document number and residential address of the polling agent. It must be signed by the subsector candidate. (L.N. 65 of 2000)
 
-      - (9) If the appointment of a polling agent is revoked, the subsector candidate must give notice of the revocation to the Returning Officer or the Presiding Officer.
+      - (9) If the appointment of a polling agent is revoked, the subsector candidate must give notice of the revocation to the Chief Electoral Officer or the Presiding Officer. (L.N. 65 of 2000)
 
       - (10) A notice of revocation must be in writing and in the specified form. It must be signed by the subsector candidate.
 
-      - (11) If the notice of revocation is given before polling day, it must be given to the Returning Officer. If it is given on polling day, it must be given to the Presiding Officer for the polling station for which the polling agent is appointed in accordance with subsection (6).
+      - (11) If the notice of revocation is given before polling day, it must be given to the Chief Electoral Officer. If it is given on polling day, it must be given to the Presiding Officer for the polling station for which the polling agent is appointed in accordance with subsection (6). (L.N. 65 of 2000)
 
-      - (12) The revocation of the appointment of a polling agent is not effective unless notice is received by the Returning Officer or the Presiding Officer, as may be appropriate.
+      - (12) The revocation of the appointment of a polling agent is not effective unless notice is received by the Chief Electoral Officer or the Presiding Officer, as may be appropriate. (L.N. 65 of 2000)
 
     - 39.
 
@@ -890,15 +966,19 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
         - (a) a polling officer;
 
-        - (b) the Returning Officers for the subsectors for which the polling station is used;
+        - (aa) the Chief Returning Officer (Subsectors); (L.N. 65 of 2000)
+
+        - (b) the Returning Officers or Assistant Returning Officers for the subsectors for which the polling station is used; (L.N. 65 of 2000)
 
         - (c) members of the Commission;
 
         - (d) public officers on duty at the polling station;
 
-        - (e) the Chief Electoral Officer; or
+        - (e) the Chief Electoral Officer; (L.N. 65 of 2000)
 
-        - (f) public officers authorized in writing by the Chief Electoral Officer.
+        - (f) public officers authorized in writing by the Chief Electoral Officer; or (L.N. 65 of 2000)
+
+        - (g) persons authorized in writing by a member of the Commission. (L.N. 65 of 2000)
 
       - (5) A person authorized by the Commission to be present in a polling station may be present in accordance with the terms of the authorization.
 
@@ -916,7 +996,17 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (12) Only an election agent or polling agent regarding whom notice of appointment has been given under this Regulation may be present at a polling station on behalf of a subsector candidate.
 
-      - (13) If a person arrives at a polling station for the purpose of voting accompanied by a child, the Presiding Officer may permit the child to enter the polling station if that Officer considers that the child should not be left unattended while the person is inside the polling station. (L.N. 147 of 1998)
+      - (13) If—
+
+        - (a) a person arrives at a polling station for the purpose of voting accompanied by a child; and
+
+        - (b) the Presiding Officer considers that the child—
+
+          - (i) should not be left unattended while the person is in the polling station; and
+
+          - (ii) will not disturb or cause inconvenience to any person in the polling station,
+
+      - that Officer may permit the child to enter the polling station. (L.N. 65 of 2000)
 
       - (14) The Presiding Officer must not exercise the powers conferred on that Officer under this section so as to prevent a person from voting at the polling station allocated to that person. (L.N. 147 of 1998)
 
@@ -930,13 +1020,29 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - contrary to a direction of the Presiding Officer not to do so, that person commits an offence. (L.N. 147 of 1998)
 
-      - (2) A person who, on polling day, without the express permission of the Presiding Officer, films, or takes photographs or makes any audio or video recording within a polling station commits an offence.
+      - (2) A person who, on polling day, films or takes photographs or makes any audio or video recording within a polling station without—
 
-      - (3) A person who, on polling day, engages in the canvassing of votes or displays an election advertisement within a polling station commits an offence.
+        - (a) the express permission of—
+
+          - (i) the Presiding Officer; or
+
+          - (ii) any member of the Commission; or
+
+        - (b) the express permission, in writing, of the Returning Officer for the subsector or subsectors for which the polling station is used for polling,
+
+      - commits an offence. (L.N. 65 of 2000)
+
+      - (3) A person who, on polling day, engages in the canvassing for votes or displays an election advertisement within a polling station commits an offence. (L.N. 65 of 2000)
 
       - (4) A person who, on polling day, fails to comply with a lawful order given by the Returning Officer or the Presiding Officer or behaves in a disorderly manner in a no canvassing zone or a no staying zone or within or at a polling station or contravenes section 36(14) or 37(4), commits an offence.
 
-      - (5) A person who, on polling day, wears a badge, emblem, or any clothing which makes direct reference to a subsector election, a political organization in Hong Kong, a subsector candidate or the number allocated to a subsector candidate, within a polling station commits an offence.
+      - (5) A person who, without reasonable excuse, displays, on polling day and within a polling station, any badge, emblem or clothing which—
+
+        - (a) may promote or prejudice the election of a subsector candidate or subsector candidates at the subsector election; or
+
+        - (b) makes direct reference to a body any member of which is standing as a subsector candidate in the subsector election or to a political body in Hong Kong,
+
+      - commits an offence. (L.N. 65 of 2000)
 
       - (6) Subsection (1) does not apply to—
 
@@ -988,7 +1094,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (1) Immediately before the commencement of the poll, the Presiding Officer must show each ballot box, empty, to the persons, if any, as are then present within the polling station. Then the Presiding Officer must lock the ballot box, seal it with a seal provided for that purpose or any other device specified by the Chief Electoral Officer, so that it cannot be opened without breaking the seal or the device.
 
-      - (2) The Presiding Officer must place the ballot box for the receipt of subsector ballot papers in that Officer’s view and must keep it locked and sealed.
+      - (2) The Presiding Officer must place the ballot box for the receipt of subsector ballot papers in that Officer’s view or in the view of any other polling officers, and must keep it locked and sealed. (L.N. 65 of 2000)
 
     - 45.
 
@@ -1086,23 +1192,23 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - to voter or authorized representative
 
-      - (1) At a polling station assigned for a particular subsector but used also for polling for one or more other subsectors, the Presiding Officer is to issue one or 2 subsector ballot papers to a person having regard to whether the person is voting only as a voter, only as an authorized representative or as a voter and an authorized representative.
+      - (1) At a polling station used for polling for more than one subsector, the Presiding Officer is to issue one or 2 subsector ballot papers to a person having regard to whether the person is voting only as a voter, only as an authorized representative or as a voter and an authorized representative. (L.N. 65 of 2000)
 
       - (2) Before issuing a subsector ballot paper or subsector ballot papers under this section, the name of the voter or authorized representative, as may be applicable, as stated in the copy of the subsector final register must be called out.
 
-      - (3) Immediately before issuing the subsector ballot paper, the Presiding Officer must place a line in the copy of the subsector final register across the name, identity document number and other particulars of the voter or authorized representative to denote that the subsector ballot paper the person is entitled to have issued to him or her at that polling station has been so issued.
+      - (3) Immediately before issuing the subsector ballot paper, the Presiding Officer must place a line in the copy of the subsector final register across the name and identity document number of the voter or authorized representative to denote that the subsector ballot paper the person is entitled to have issued to him or her at that polling station has been so issued. (L.N. 65 of 2000)
 
       - (4) No record is to be made of the particular subsector ballot paper issued to a voter or authorized representative.
 
     - 50. Procedure for voting
 
-      - (1) When a voter or authorized representative is issued with a subsector ballot paper, he or she must immediately go into a voting compartment and mark the subsector ballot paper as appropriate. After marking the subsector ballot paper the voter or authorized representative must use the envelope provided for the purpose to conceal the mark or marks on it and put the subsector ballot paper into the envelope un-folded, and put the envelope containing the subsector ballot paper into the appropriate ballot box.
+      - (1) When a voter or authorized representative is issued with a subsector ballot paper, he or she must immediately go into a voting compartment and mark the subsector ballot paper as appropriate. After marking the subsector ballot paper the voter or authorized representative must use the envelope provided for the purpose to conceal the mark or marks on it and put the subsector ballot paper into the envelope un-folded, and put the envelope containing the subsector ballot paper into the ballot box. (L.N. 65 of 2000)
 
       - (2) A voter or authorized representative must cast his or her vote without undue delay. A voter or authorized representative must leave the polling station as soon as he or she has put the subsector ballot paper into the ballot box.
 
       - (3) Subject to subsection (1), a person must not put anything other than a marked subsector ballot paper into the ballot box.
 
-      - (4) Except where it is provided otherwise in this Regulation, a person must not remove a subsector ballot paper from a polling station.
+      - (4) Except where it is provided otherwise in this Regulation, a person must not remove a subsector ballot paper from a polling station. A person who contravenes this subsection commits an offence and is liable to a fine at level 2 and to imprisonment for 6 months. (L.N. 65 of 2000)
 
       - (5)
 
@@ -1170,19 +1276,15 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
           - (iv) the marked copies of the subsector final register.
 
-      - (2) The Presiding Officer must then deliver the ballot box and the sealed packets to the Returning Officer.
+      - (2) The Presiding Officer must then comply with section 63 in relation to the ballot box, the sealed packets and the subsector ballot paper account. (L.N. 65 of 2000)
 
       - (3) At a polling station used for polling for more than one subsector, the Presiding Officer must make separate sealed packets for each subsector.
 
       - (4) For the avoidance of doubt it is stated that the subsector ballot papers in a sealed packet prepared under this section are not to be counted for the purpose of counting the votes. Accordingly, the references to subsector ballot papers in relation to the counting of the votes are to be construed as not including those subsector ballot papers.
 
-    - 57.
+    - 57. Presiding Officer to prepare a subsector ballot paper account
 
-    - Presiding Officer to prepare a subsector ballot paper account
-
-    - for each packet of sealed subsector ballot papers
-
-      - (1) The Presiding Officer must prepare a statement which complies with subsection (2) for each packet prepared under section 56 for a subsector.
+      - (1) The Presiding Officer must prepare a statement which complies with subsection (2). At a polling station used for polling for more than one subsector, the Presiding Officer must make a separate statement for each subsector. (L.N. 65 of 2000)
 
       - (2) The statement under subsection (1) must be in the specified form and show the number of subsector ballot papers for the subsector, supplied to the Presiding Officer under section 33(2) and account for those subsector ballot papers under the following heads—
 
@@ -1194,7 +1296,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
         - (d) the number of spoilt subsector ballot papers.
 
-- PART 4 COUNTING OF VOTES; SUBSECTOR ELECTIONS
+- PART 4 COUNTING OF VOTES: SUBSECTOR ELECTIONS
 
   - 58.
 
@@ -1234,7 +1336,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (6) If notice is given on polling day, it must be delivered to the Returning Officer by the subsector candidate in person or by the election agent of the subsector candidate, in person.
 
-    - (7) A notice for the purposes of this section must be in writing and in the specified form. It must state the name, identity document number and registered residential address of the counting agent. It must be signed by the subsector candidate.
+    - (7) A notice for the purposes of this section must be in writing and in the specified form. It must state the name, identity document number and residential address of the counting agent. It must be signed by the subsector candidate. (L.N. 65 of 2000)
 
     - (8) The appointment of a counting agent is not effective until notice of it is received by the Returning Officer.
 
@@ -1248,7 +1350,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
   - 60. Chief Electoral Officer to appoint counting officers
 
-    - (1) The Chief Electoral Officer may appoint persons that Officer considers suitable to assist a Returning Officer in counting the votes.
+    - (1) The Chief Electoral Officer may appoint, as counting officers, persons that Officer considers suitable to assist a Returning Officer in counting the votes. (L.N. 65 of 2000)
 
     - (2) The Chief Electoral Officer is to supply to the Returning Officer a list of the counting officers appointed to assist the Returning Officer.
 
@@ -1256,7 +1358,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
   - 61. Who may be present at the counting of the votes
 
-    - (1) Subject to subsections (2) and (5), only the Returning Officer and the following persons may be present at the counting of the votes—
+    - (1) Subject to subsections (2) and (5), only the Chief Returning Officer (Subsectors), Returning Officer, Assistant Returning Officer and the following persons may be present at the counting of the votes— (L.N. 65 of 2000)
 
       - (a) counting officers;
 
@@ -1270,17 +1372,39 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (f) police officers on duty at the counting station;
 
-      - (g) members of the Civil Aid Service on duty at the counting station; or
+      - (g) members of the Civil Aid Service on duty at the counting station; (L.N. 65 of 2000)
+
+      - (ga) public officers authorized in writing by the Chief Electoral Officer; or (L.N. 65 of 2000)
 
       - (h) persons authorized in writing by a member of the Commission.
 
-    - (2) No other person may be present except with the permission of the Chief Returning Officer (Subsectors) or the Returning Officer.
+    - (2) No other person may be present at the counting of the votes except with the permission of the Chief Returning Officer (Subsectors), or the Returning Officer in charge of the counting zone at which the counting takes place. (L.N. 65 of 2000)
 
-    - (3) The Chief Returning Officer (Subsectors) and the Returning Officer are to ensure that the arrangements for the count are such that the subsector candidates and their respective election agents or counting agents are able to observe how individual votes are counted.
+    - (3) The Chief Returning Officer (Subsectors), and the Returning Officer in charge of the counting zone are to ensure that the arrangements for the count at a counting zone are such that the subsector candidates and their respective election agents or counting agents are able to observe how individual votes are counted. (L.N. 65 of 2000)
 
     - (4) Only an election agent or counting agent regarding whom notice of appointment has been given under this Regulation may be present during the counting of the votes at the counting zone or zones. On arriving at the counting station, an election agent or counting agent must report in person to the Returning Officer and produce his or her identity document and a declaration of secrecy completed on the specified form by him or her.
 
     - (5) The Chief Returning Officer (Subsectors) may, if that Officer considers it appropriate and practicable without disrupting the count and prejudicing the secrecy of the individual votes, permit members of the public to observe the counting of the votes from an area at the counting station set apart for that purpose by that Officer. The area is to be at such a distance from the place where the votes are being counted as that Officer considers appropriate.
+
+  - 61A. What constitutes an offence at a counting station
+
+    - (1) A person who, during the relevant period, films or takes photographs or makes any audio or video recording within a counting zone of a counting station without the express permission of—
+
+      - (a) the Chief Returning Officer (Subsectors), or the Returning Officer in charge of the counting zone; or
+
+      - (b) any member of the Commission,
+
+    - commits an offence.
+
+    - (2)
+
+      - In subsection (1), “relevant period” (有關期間), in relation to a counting zone, means the period commencing from the time, determined under section 58, at which the counting of the votes is to begin at the zone and ending upon the completion of the counting and re-count, if any, at the zone.
+
+    - (3) A person who, at or in the vicinity of a counting station, behaves in a disorderly manner, or fails to comply with a lawful order given by the Chief Returning Officer (Subsectors), or the Returning Officer in charge of a counting zone of the counting station, commits an offence.
+
+    - (4) A person who commits an offence under this section is liable to a fine at level 2 and to imprisonment for 3 months.
+
+  - (L.N. 65 of 2000)
 
   - 62. Returning Officers to keep order at the counting station
 
@@ -1298,9 +1422,9 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (4) A person who is removed under subsection (3) may not enter the relevant counting station again on that day unless the Officer who ordered his or her removal permits him or her to do so.
 
-    - (5) A person who fails to comply with a lawful order given by the Chief Returning Officer (Subsectors) or the Returning Officer within or at a counting station or behaves in a disorderly manner there commits an offence and is liable to a fine at level 2 and to imprisonment for 3 months.
+    - (5) (Repealed L.N. 65 of 2000)
 
-  - 63. Ballot boxes to be delivered to the central counting station Each Presiding Officer is to arrange for the ballot boxes from that Officer’s polling station to be delivered to the central counting station.
+  - 63. Ballot boxes to be delivered to the central counting station Each Presiding Officer must deliver or arrange to be delivered to the central counting station the ballot boxes from that Officer’s polling station, together with the sealed packets under section 56 and the subsector ballot paper account prepared by that Officer. (L.N. 65 of 2000)
 
   - 64.
 
@@ -1314,17 +1438,19 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
   - 65.
 
-  - Delivered ballot boxes to be taken to relevant counting
+  - Delivered ballot boxes to be given into charge of
 
-  - zones at the central counting station
+  - relevant Returning Officer
 
-    - (1) After delivery to the central counting station, the ballot boxes from a polling station assigned for a particular subsector (that is the ballot box for that subsector and the common ballot box for the other subsectors for which that polling station is used) are to be given into the charge of the Returning Officer for the first-mentioned subsector.
+    - (1) After delivery to the central counting station, the ballot boxes from a polling station are to be given into the charge of the Returning Officer specified for the purpose by the Chief Electoral Officer.
 
-    - (2) If the Chief Electoral Officer considers that the arrangement described in subsection (1) is not practicable, that Officer may modify it.
+    - (2) If the Chief Returning Officer (Subsectors) considers that the arrangement described in subsection (1) is not practicable, that Officer may modify it.
+
+  - (L.N. 65 of 2000)
 
   - 66. Returning Officer to open ballot box
 
-    - (1) A Returning Officer into whose charge a ballot box is handed must open it by breaking the seal. That Officer must do so in the presence of the subsector candidates, their election agents or counting agents, if present at the counting zone.
+    - (1) A Returning Officer into whose charge a ballot box is handed must, at the counting zone of which that Officer is in charge open it by breaking the seal. That Officer must do so in the presence of the subsector candidates, their election agents or counting agents, if present at the counting zone. (L.N. 65 of 2000)
 
     - (2) The Returning Officer must permit a subsector candidate, or the election agent or counting agent of a subsector candidate, to inspect any paper taken from the ballot box, if so requested by the subsector candidate or agent before the paper is disposed of. A subsector candidate or an election agent or a counting agent must not be permitted under this subsection to inspect a subsector ballot paper, an envelope which contains or which appears to the Returning Officer to contain a subsector ballot paper.
 
@@ -1334,7 +1460,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
   - paper account at the counting zone
 
-    - (1) After breaking the seal, the Returning Officer into whose charge the ballot box is delivered under section 65(1) must—
+    - (1) After breaking the seal, the Returning Officer into whose charge the ballot box is delivered under section 65(1) must, at the counting zone of which that Officer is in charge— (L.N. 65 of 2000)
 
       - (a) sort the subsector ballot papers taken out from the subsector ballot boxes according to each subsector; and
 
@@ -1348,9 +1474,9 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (3) When the subsector ballot papers are sorted, the Returning Officer in charge of a counting zone must make into separate bundles the subsector ballot papers for each subsector. Each such bundle is to include the verification of the subsector ballot paper account prepared for the subsector. The Returning Officer must retain the bundle for the subsector of which that Officer is in charge and place the other bundles in separate receptacles and seal the receptacles in the presence of persons present at the counting zone.
 
-    - (4) The Returning Officer must give the receptacles into the charge of the Assistant Returning Officer (General) in attendance at the relevant counting zone.
+    - (4) The Returning Officer must give the receptacles into the charge of the Assistant Returning Officer in attendance at the relevant counting zone. (L.N. 65 of 2000)
 
-    - (5) An Assistant Returning Officer (General) must hand over the bundles given into that Officer’s charge to the Returning Officer for the relevant subsector at the counting zone for that subsector.
+    - (5) An Assistant Returning Officer must hand over the bundles given into that Officer’s charge to the Returning Officer for the relevant subsector at the counting zone for that subsector. (L.N. 65 of 2000)
 
     - (6) In this section, in relation to a subsector ballot paper contained in an envelope, separating, sorting, recording or counting the subsector ballot papers is to be construed as separating, sorting, counting, recording or counting the envelopes containing the subsector ballot papers.
 
@@ -1394,7 +1520,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (c) which has the words “損壞” and “SPOILT” endorsed on the front of it;
 
-    - (d) which is unused;
+    - (d) which has the words “未用” and “UNUSED” endorsed thereon; (L.N. 65 of 2000)
 
     - (e) which is substantially mutilated;
 
@@ -1428,7 +1554,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (c) endorsed with the words “損壞” and “SPOILT”;
 
-      - (d) unused;
+      - (d) endorsed with the words “未用” and “UNUSED”; (L.N. 65 of 2000)
 
       - (e) unmarked;
 
@@ -1594,7 +1720,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (4) A person who interferes with a voter when the voter is recording the vote commits an offence.
 
-    - (5) A person who interferes with or attempts to interfere with any ballot boxes, un-issued subsector ballot papers, unused subsector ballot papers, spoilt subsector ballot papers, tendered subsector ballot papers, marked subsector ballot papers or a copy or extract of the subsector final register marked under section 48(3), commits an offence.
+    - (5) A person who interferes with or attempts to interfere with any ballot boxes, un-issued subsector ballot papers, unused subsector ballot papers, spoilt subsector ballot papers, tendered subsector ballot papers, marked subsector ballot papers or a copy of the subsector final register marked under section 49(3), commits an offence. (L.N. 65 of 2000)
 
     - (6) A person who interferes with or attempts to interfere with any opened ballot boxes, subsector ballot paper accounts, verifications or re-verifications of such accounts or any other relevant subsector election materials referred to in this Schedule commits an offence.
 
@@ -1640,11 +1766,13 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (1) The Returning Officer may publish or display a notice, determination, or other writing under this Schedule in a manner he thinks fit except where specific provision is made for the publication or display in this Schedule.
 
-    - (2) The following applications, notices or notifications may be delivered by hand, sent by post or by facsimile transmission—
+    - (2) The following notices or notifications may be delivered by hand, sent by post or by facsimile transmission— (L.N. 65 of 2000)
+
+      - (aa) notice of the decision of the Returning Officer as to whether a person is validly nominated as a subsector candidate; (L.N. 65 of 2000)
 
       - (a) notice of the appointment or notice of revocation of the appointment of an election agent (other than a notice given on polling day);
 
-      - (b) application to vote at a special polling station;
+      - (b) (Repealed L.N. 65 of 2000)
 
       - (c) notice to Returning Officers and to subsector candidates of the determination of a no canvassing zone and a no staying zone; (L.N. 147 of 1998)
 
@@ -1686,6 +1814,34 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (4) If a report is made under subsection (3) otherwise than in writing, the Officer concerned must make a report also in writing as soon as practicable, and in any event within 30 days of the polling day of the relevant subsector election.
 
+  - 91A. Letters that may be sent free of postage by subsector candidates
+
+    - (1) A letter that may be sent free of postage by or on behalf of a subsector candidate under section 31(1) of Schedule 2 to the Legislative Council Ordinance (Cap. 542) must—
+
+      - (a) be posted in Hong Kong;
+
+      - (b) contain materials relating only to the subsector candidate’s candidature at the subsector election concerned;
+
+      - (c) not exceed 50 grams in weight; and
+
+      - (d) be not larger than 175 mm x 245 mm and not smaller than 90 mm x 140 mm in size.
+
+    - (2) If letters are sent, in a bulk mailing, free of postage by or on behalf of a subsector candidate under section 31(1) of Schedule 2 to the Legislative Council Ordinance (Cap. 542), the subsector candidate or any person authorized by the subsector candidate must provide the Postmaster General with—
+
+      - (a) a specimen of the materials contained in that bulk mailing; and
+
+      - (b) a declaration, in the specified form, signed by the subsector candidate or the person and stating that the materials contained in that bulk mailing are identical with the specimen provided to the Postmaster General.
+
+    - (3) If, in relation to any letters sent, in a bulk mailing, free of postage by or on behalf of a subsector candidate under section 31(1) of Schedule 2 to the Legislative Council Ordinance (Cap. 542)—
+
+      - (a) any letter in that bulk mailing does not comply with subsection (1); or
+
+      - (b) a declaration under subsection (2)(b) is false in any particular,
+
+    - the subsector candidate is liable for payment of postage for all the letters in that bulk mailing.
+
+  - (L.N. 65 of 2000)
+
   - 92. Election advertisements
 
     - (1) Before a subsector candidate displays, distributes or otherwise uses an election advertisement, he or she must allocate a number to each election advertisement. The number must be a consecutive number in a series beginning with the number 1 and is not to be used more than once for a particular type of election advertisement.
@@ -1702,13 +1858,17 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (7) If it is not practicable to make a copy of an election advertisement, the subsector candidate must furnish to the Returning Officer 2 colour photographs in postcard size of that election advertisement.
 
-    - (8) Subsections (1) and (2) do not apply to an election advertisement proposed to be sent by facsimile transmission. (L.N. 147 of 1998)
+    - (8) (Repealed L.N. 65 of 2000)
 
     - (9) If an election advertisement is recorded on a videotape or an audio tape or disc, the subsector candidate must, for the purposes of subsection (6), furnish to the Returning Officer 2 copies of the tape or disc.
 
-    - (10) The subsector candidate must, before he or she displays, distributes or otherwise uses an election advertisement, deposit with the Returning Officer, a copy of the permission or other authorization given or obtained for the purposes of section 104A(1) of the Public Health and Municipal Services Ordinance (Cap. 132).
+    - (10) The subsector candidate must, before he or she displays, distributes or otherwise uses an election advertisement, deposit with the Returning Officer—
 
-    - (11) The Returning Officer must make available for inspection by any person a copy each of any declaration, permission or authorization or election advertisement furnished under this section. They must be made available after the declaration, permission or authorization or election advertisement is furnished to the Returning Officer and until the expiry of the period for which copies of election returns lodged by subsector candidates are available for inspection under section 41 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554). (10 of 2000 s. 47)
+      - (a) a copy of the permission or other authorization given or obtained for the purposes of section 104A(1) of the Public Health and Municipal Services Ordinance (Cap. 132); and
+
+      - (b) is case the election advertisement is of a kind referred to in section 27(1) or (2) of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554), a copy of the consent in writing referred to in section 27(1) or (2), as the case may be, of that Ordinance. (L.N. 65 of 2000)
+
+    - (11) The Returning Officer must make available for inspection by any person a copy each of any declaration, permission or authorization, consent or election advertisement furnished under this section. They must be made available after the declaration, permission or authorization, consent or election advertisement is furnished to the Returning Officer and until the expiry of the period for which copies of election returns lodged by subsector candidates are available for inspection under section 41 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554). (10 of 2000 s. 47; L.N. 65 of 2000)
 
     - (12) A subsector candidate who fails to comply with any requirement in this section commits an offence.
 
@@ -1716,9 +1876,25 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (14) A person who commits an offence under subsection (12) or (13) is liable to a fine at level 2 and imprisonment for 6 months.
 
-    - (15) The Returning Officer may seize and dispose of any election advertisement on display and in respect of which any requirement in this section has not been complied with.
+    - (15) The Returning Officer may seize and dispose of, or destroy, or cover with such materials as that Officer thinks fit, any election advertisement on display and in respect of which any requirement in this section has not been complied with. (L.N. 65 of 2000)
 
-    - (16) The Commission may exempt by notice published in the Gazette any class or type of election advertisement from the application of subsection (1).
+    - (15A) Subsections (1) and (2) do not apply to an election advertisement—
+
+      - (a) which is a printed material—
+
+        - (i) of or smaller than A4 size, that is, 30 cm x 21 cm;
+
+        - (ii) contained in a single sheet of paper; and
+
+        - (iii) bearing upon it the printer’s name and address, number of copies printed and date of printing;
+
+      - (b) appearing on a local newspaper (within the meaning of the Registration of Local Newspapers Ordinance (Cap. 268)) registered under section 7 of that Ordinance;
+
+      - (c) to be sent by facsimile or any other form of electronic transmission; or
+
+      - (d) in the form of a balloon, T-shirt, cap, badge or carrier bag. (L.N. 65 of 2000)
+
+    - (16) The Commission may exempt by notice published in the Gazette any other class or type of election advertisement from the application of subsections (1) and (2). (L.N. 65 of 2000)
 
     - (17) If a Returning Officer has not been appointed for a subsector, the references in this section to a Returning Officer are to be construed as a reference to the Chief Electoral Officer.
 
@@ -1729,6 +1905,8 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
     - (2) A person who directly or indirectly by himself or herself or another person on his or her behalf conspires with, incites, compels, induces, coerces, intimidates or persuades another person to make a false statement in an election related document or to provide information which that person knows to be wrong in a material particular, in an election related document commits an offence.
 
     - (3) A person who commits an offence under this section is liable to a fine at level 2 and to imprisonment for 6 months.
+
+    - (3A) An offence under subsection (1) or (2) is to be an offence prescribed for the purposes of sections 5, 14 and 23 of Schedule 2 to the Legislative Council Ordinance (Cap. 542). (L.N. 65 of 2000)
 
     - (4)
 
