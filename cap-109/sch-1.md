@@ -66,11 +66,11 @@
 
   - 1A. Duty shall be payable on ultra low sulphur diesel at the following rates—
 
-    - (a) from 7 July 2000 to 30 June 2001 (both dates inclusive), at $1.11 per litre;
+    - (a) from 7 July 2000 to 31 March 2002 (both dates inclusive), at $1.11 per litre; and (Amended L.N. 150 of 2001)
 
-    - (b) from 1 July 2001 to 31 December 2001 (both dates inclusive), at $2.00 per litre; and
+    - (b) from 1 April 2002, at $2.89 per litre. (Replaced L.N. 150 of 2001)
 
-    - (c) from 1 January 2002, at $2.89 per litre.
+    - (c) (Repealed L.N. 150 of 2001)
 
   - (Added L.N. 233 of 2000. Amended L.N. 364 of 2000)
 
