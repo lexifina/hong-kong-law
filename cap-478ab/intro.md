@@ -1,0 +1,5 @@
+MERCHANT SHIPPING (SEAFARERS) (FEES) REGULATION
+
+(Cap. 478 sections 133 and 134)
+
+[2 September 1996] L.N. 342 of 1996
