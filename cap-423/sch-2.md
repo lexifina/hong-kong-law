@@ -138,4 +138,8 @@ Item Body
 
 - 67. College of Nursing, Hong Kong (Added L.N. 86 of 2003)
 
-- 68. International Social Service (Hong Kong Branch) (Added L.N. 17 of 2004) (Schedule 2 replaced L.N. 269 of 1999)
+- 68. International Social Service (Hong Kong Branch) (Added L.N. 17 of 2004)
+
+- 69. Hong Kong Federation of Handicapped Youth (Added L.N. 67 of 2004)
+
+- 70. The Society of Rehabilitation and Crime Prevention, Hong Kong (Added L.N. 67 of 2004) (Schedule 2 replaced L.N. 269 of 1999)
