@@ -40,7 +40,7 @@ Item | No. of Group | Description of Group
 
 17. | 17 | Spinning
 
-18. | 18 | Non-manufacturing—I-support services for industry such as law, accountancy, banking, finance, insurance, godowns, real estate, leisure and entertainment
+18. | 18 | Non-manufacturing I—support services for industry such as law, accountancy, banking, finance, insurance, godowns, real estate, leisure and entertainment
 
 19. | 19 | Toys and games
 
@@ -53,5 +53,7 @@ Item | No. of Group | Description of Group
 23. | 23 | Weaving
 
 24. | 24 | Woven garments and other woven made-up goods
+
+25. | 25 | Software and information technology (Added L.N. 174 of 2000)
 
 (Replaced 79 of 1994 s. 27)
