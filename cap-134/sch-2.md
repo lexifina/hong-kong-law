@@ -18,7 +18,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 7. David Trench Rehabilitation Centre
 
-- 8. Duchess of Kent Children’s Hospital
+- 8. The Duchess of Kent Children’s Hospital at Sandy Bay (Replaced L.N. 249 of 1999)
 
 - 9. East Kowloon Polyclinic
 
@@ -188,4 +188,10 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 92. Hong Kong Sheng Kung Hui Nursing Home (Added L.N. 59 of 1999)
 
-- 93. Shatin Sister Aquinas Memorial Women’s Treatment Centre (Added L.N. 59 of 1999) (Second Schedule replaced L.N. 187 of 1992)
+- 93. Shatin Sister Aquinas Memorial Women’s Treatment Centre (Added L.N. 59 of 1999)
+
+- 94. Haven of Hope Nursing Home (Added L.N. 249 of 1999)
+
+- 95. Caritas Wong Yiu Nam Centre (Added L.N. 249 of 1999)
+
+- 96. Alice Ho Miu Ling Nethersole Nursing Home (Added L.N. 249 of 1999) (Second Schedule replaced L.N. 187 of 1992)
