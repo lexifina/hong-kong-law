@@ -1,0 +1,5 @@
+COINAGE (COMMEMORATIVE GOLD COIN) ORDER 1998
+
+(Cap. 454, section 2)
+
+[17 April 1998]
