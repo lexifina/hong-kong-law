@@ -2,97 +2,87 @@
 
 [reg. 8]
 
-FORM 1 NOISE CONTROL ORDINANCE (Chapter 400) APPLICATION FOR A NOISE EMISSION LABEL
+FORM 1
 
-FOR HAND HELD PERCUSSIVE BREAKER Before completing this form read the Notes below. To: The Noise Control Authority
+NOISE CONTROL ORDINANCE (Chapter 400) APPLICATION FOR A NOISE EMISSION LABEL
 
-- 1. I hereby apply for a noise emission label for a hand held percussive
+FOR HAND HELD PERCUSSIVE BREAKER
 
-- breaker under the Noise Control Ordinance. In support of my application I submit the following information and
+Before completing this form read the Notes below.
 
-- particulars:
+To: The Noise Control Authority
+
+- 1. I hereby apply for a noise emission label for a hand held percussive breaker under the Noise Control Ordinance. In support of my application I submit the following information and particulars:
 
 - 2. Details of Applicant
 
-- 2a. Name (person or company): .
+  - 2a. Name (person or company): .
 
-- .
+  - .
 
-- 2b. H.K. Identity Card No. (if the applicant is an individual):
+  - 2b. H.K. Identity Card No. (if the applicant is an individual): .
 
-- . or Business Registration No. (if the applicant is a
+  - .
 
-- company): .
+  - or Business Registration No. (if the applicant is a company): .
 
-- 2c. Correspondence address: .
+  - .
 
-- .
+  - 2c. Correspondence address: .
 
-- 2d. Telephone No.: .
+  - .
+
+  - 2d. Telephone No.: .
 
 - 3. Information on hand held percussive breaker
 
-- 3a. Name and address of manufacturer: .
+  - 3a. Name and address of manufacturer: .
 
-- .
+  - .
 
-- 3b. Name and address of manufacturer’s authorized local
+  - 3b. Name and address of manufacturer’s authorized local representative (if any): .
 
-- representative (if any): .
+  - .
 
-- .
+  - .
 
-- .
+  - 3c. Trade name: .
 
-- 3c. Trade name: .
+  - .
 
-- .
+  - 3d. Model (see Note 1): . 3e.
 
-- 3d. Model (see Note 1): . 3e.
+  - Serial Number
 
-- -
+  - 1.
 
-- Serial Number
+  - 2.
 
-- -
+  - 3.
 
-- 1.
+  - 4.
 
-- -
+  - 5.
 
-- 2.
+  - Continue on separate sheet if necessary. Please state clearly each appliance serial number.
 
-- -
+  - 3f. Mass of breaker (see Note 2): . kg
 
-- 3.
-
-- -
-
-- 4.
-
-- -
-
-- 5.
-
-- - Continue on separate sheet if necessary. Please state
-
-- clearly each appliance serial number.
-
-- 3f. Mass of breaker (see Note 2): . kg
-
-- 3g. Supporting document (see Note 3):
-
-- * EEC type-examination certificate / Noise testing report
+  - 3g. Supporting document (see Note 3): * EEC type-examination certificate/Noise testing report
 
 - 4. Application fee (see Note 4)
 
-- 4a. Number of noise emission labels applied for: .
+  - 4a. Number of noise emission labels applied for: .
 
-- 4b. Total fee payable: .
+  - 4b. Total fee payable: .
 
-- 5. Additional information Give any additional information which is thought to be relevant
+- 5. Additional information Give any additional information which is thought to be relevant to this application: .
 
-- to this application: .
+- .
+
+- .
+
+- .
 
 - .
 
@@ -102,70 +92,24 @@ FOR HAND HELD PERCUSSIVE BREAKER Before completing this form read the Notes belo
 
 - 1. The applicant shall fill in an application form for each model.
 
-- 2. The applicant shall submit all relevant trade leaflets, brochures
+- 2. The applicant shall submit all relevant trade leaflets, brochures or similar documents for the Authority’s consideration.
 
-- or similar documents for the Authority’s consideration.
+- 3. The applicant shall submit for the Authority’s consideration either an EEC type-examination certificate or a noise testing report certificated by a corporate member of the Institute of Acoustics, UK, that the testing was conducted in accordance with the conditions as set out in Schedule 2 to the Noise Control (Hand Held Percussive Breakers) Regulations.
 
-- 3. The applicant shall submit for the Authority’s consideration either
+- 4. The applicant shall submit a fee of $350 for each label applied for. The fee payable on submission of this application will not be refunded. Cheques, drafts or cashier orders shall be made payable to “Hong Kong Government” and crossed.
 
-- an EEC type-examination certificate or a noise testing report
+- 5. Regulation 8(3) of the Noise Control (Hand Held Percussive Breakers) Regulations provides that not later than 28 days after an application is received by the Authority, the Authority shall issue a noise emission label or labels applied for or serve on the applicant written notice of his refusal to issue the label or labels, and if at the end of those 28 days he has done neither of those things, a label or labels shall be deemed to have been issued.
 
-- certificated by a corporate member of the Institute of Acoustics, UK,
+- 6. A noise emission label that is issued in consequence of misleading, false, wrong or incomplete information furnished by an applicant in connection with the application is liable to be cancelled.
 
-- that the testing was conducted in accordance with the conditions as
+- 7. The applicant is advised to read the Noise Control Ordinance and the Noise Control (Hand Held Percussive Breakers) Regulations. _ FOR OFFICE USE ONLY _
 
-- set out in Schedule 2 to the Noise Control (Hand Held Percussive
-
-- Breakers) Regulations.
-
-- 4. The applicant shall submit a fee of $215 for each label applied
-
-- for. The fee payable on submission of this application will not be
-
-- refunded. Cheques, drafts or cashier orders shall be made payable to
-
-- “Hong Kong Government” and crossed. (L.N. 262 of 1994; L.N. 498 of 1996)
-
-- 5. Regulation 8(3) of the Noise Control (Hand Held Percussive Breakers)
-
-- Regulations provides that not later than 28 days after an application
-
-- is received by the Authority, the Authority shall issue a noise emission
-
-- label or labels applied for or serve on the applicant written notice of
-
-- his refusal to issue the label or labels, and if at the end of those 28
-
-- days he has done neither of those things, a label or labels shall be
-
-- deemed to have been issued.
-
-- 6. A noise emission label that is issued in consequence of misleading,
-
-- false, wrong or incomplete information furnished by an applicant in
-
-- connection with the application is liable to be cancelled.
-
-- 7. The applicant is advised to read the Noise Control Ordinance and the
-
-- Noise Control (Hand Held Percussive Breakers) Regulations. -
-
-- FOR OFFICE USE ONLY
-
-- - -
-
-- Permissible limit, dB(A) No. of labels issued
-
-- -
+- Permissible limit, dB(A) | No. of labels issued
 
 - 108
 
-- -
-
 - 111
-
-- -
 
 - 114
 
-- -
+- (L.N. 262 of 1994; L.N. 65 of 1995; L.N. 498 of 1996; L.N. 583 of 1997)
