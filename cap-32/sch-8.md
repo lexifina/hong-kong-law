@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# EIGHTH SCHEDULE
 
 [ss. 304, 318 & 360]
 
@@ -78,11 +78,13 @@ V.-MISCELLANEOUS FEES
 
 (a)-(b) (Repealed 60 of 1990 s. 9)
 
-(c) | for inspecting— (i) by virtue of section 305(1), a copy of all documents relating to one company kept by the Registrar and registered in respect of one calendar year, for each inspection . (ii) by virtue of section 305(1), where a copy is not available, the register or any file or any other document, kept by the Registrar, for each inspection . (iii) the register of charges kept under section 83, for each inspection (Replaced 17 of 1990 s. 5) . | $ 20 $ 20 $ 20
+(c) | for inspecting— (i) by virtue of section 305(1), a copy of all documents relating to one company kept by the Registrar and registered in respect of one calendar year, for each inspection . (ii) by virtue of section 305(1), where a copy is not available, the register or any file or any other document, kept by the Registrar, for each inspection . (iia) by virtue of section 305(1), any document kept by the Registrar containing particulars relating to one company, for each inspection (Added L.N. 19 of 2000) . (iii) the register of charges kept under section 83, for each inspection (Replaced 17 of 1990 s. 5) . | $ 20 $ 20 $ 22 $ 20
 
-(d) | for issuing under section 305(1)— (i) a certificate of incorporation . (ii) a copy or extract of any other document or part of any other document— (A) by photostatic means, per sheet or page . (B) where the copy or extract is made other than by photostatic means per folio of 100 words or part thereof . For each additional copy or extract after the first or top copy, per folio of 100 words or part thereof . | $ 170 $ 5 $ 5 $ 5
+(d) | for issuing under section 305(1)— (i) a certificate of incorporation . (ii) a copy or extract of any other document or part of any other document— | $ 170
 
-(e) (f) | for certifying a copy or extract of any document . for registering— (i) under Part III of the Ordinance any charge required to be registered thereunder whether created by a company or existing on property acquired by a company . (ii) particulars of a series of debentures under Part III of the Ordinance. (iii) the appointment of a receiver or manager, or a mortgagee’s entering into possession, under section 87 . (iv) a memorandum of satisfaction under section 85 (Added L.N. 457 of 1997) . | $ 130 $ 340 $ 340 $ 40 $ 190
+(A) by photostatic means, per sheet or page . (B) where the copy or extract is made other than by photostatic means per folio of 100 words or part thereof For each additional copy or extract after the first or top copy, per folio of 100 words or part thereof . | $ 5 $ 5 $ 5
+
+(e) (f) | for certifying a copy or extract of any document . for registering— (i) under Part III of the Ordinance any charge required to be registered thereunder whether created by a company or existing on property acquired by a company . (ii) particulars of a series of debentures under Part III of the Ordinance . (iii) the appointment of a receiver or manager, or a mortgagee’s entering into possession, under section 87 . (iv) a memorandum of satisfaction under section 85 (Added L.N. 457 of 1997) . | $ 130 $ 340 $ 340 $ 40 $ 190
 
 (g) | for endorsing the words “satisfaction entered” or the expression in Chinese “已清償” upon an instrument of charge under section 85 (Amended 3 of 1997 s. 59) . | $ 40
 
@@ -94,9 +96,9 @@ V.-MISCELLANEOUS FEES
 
 (j) | for an authorization under section 111(1) . | $ 850
 
-(k) | for making a single search (using person or company as the key) of the index of directors, kept by the Registrar (Added L.N. 570 of 1994) . | $ 11
+(k) | for inspecting, by virtue of section 158C(2) or 333C(2), the index of directors kept by the Registrar— (i) for each search of the list of directors of a company . (ii) for each search of the personal particulars of a director in a company . (iii) for each search showing all the directorships in companies incorporated in Hong Kong or registered under Part XI of the Ordinance held by a single person (Replaced L.N. 19 of 2000) | $ 11 $ 11 $ 22
 
-(l) | for issuing a print out of the index of directors, kept by the Registrar, showing all directorships in companies incorporated in Hong Kong or registered under Part XI of the Ordinance held by a single person (Added L.N. 570 of 1994) . | $ 22
+(l) | (Repealed L.N. 19 of 2000)
 
 (m) | for making a single search of the register of disqualification orders, kept by the Registrar (Added L.N. 570 of 1994) . | $ 11
 
