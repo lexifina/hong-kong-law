@@ -12,4 +12,4 @@ Item | Offence | Penalty
 
 3. | Any offence involving violence | Imprisonment
 
-4. | Any offence against Part XII of the Crimes Ordinance (Cap. 200) | Imprisonment
+4. | Any offence against Part XII of the Crimes Ordinance (Cap. 200) (Amended L.N. 48 of 2003) | Any penalty
