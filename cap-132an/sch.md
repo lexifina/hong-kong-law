@@ -48,7 +48,7 @@ Mui Wo Market | 梅窩街市 (L.N. 110 of 1993)
 
 North Kwai Chung Market | 北葵涌街市 (L.N. 112 of 1984)
 
-Peng Chau (South) Market | 坪洲街市
+Peng Chau Market | 坪洲街市 (L.N. 12 of 1999)
 
 Plover Cove Road Market | 寶湖道街市 (L.N. 403 0f 1990)
 
