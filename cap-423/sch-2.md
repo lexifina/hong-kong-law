@@ -24,7 +24,7 @@ Item Body
 
 - 9. Hong Kong Confederation of Trade Unions, The
 
-- 10. Hong Kong Council of Social Service
+- 10. (Repealed L.N. 271 of 2003)
 
 - 11. Sheng Kung Hui Lady MacLehose Centre
 
@@ -48,9 +48,7 @@ Item Body
 
 - 21. (Repealed L.N. 214 of 2001)
 
-- 22. Hong Kong Association of the Deaf
-
-- 23. Hong Kong Christian Service Kwun Tong Vocational Training Centre
+- 22-23. (Repealed L.N. 271 of 2003)
 
 - 24. (Repealed L.N. 99 of 2001)
 
@@ -68,7 +66,7 @@ Item Body
 
 - 31. Heung To College of Professional Studies
 
-- 32. New Territories Association of Societies
+- 32. (Repealed L.N. 271 of 2003)
 
 - 33. (Repealed L.N. 99 of 2001)
 
@@ -76,7 +74,7 @@ Item Body
 
 - 35. The Scout Association of Hong Kong-The Friends of Scouting
 
-- 36. Holy Carpenter Church & Community Centre
+- 36. S.K.H. Holy Carpenter Church Community Centre (Amended L.N. 271 of 2003)
 
 - 37. St. James’ Settlement
 
