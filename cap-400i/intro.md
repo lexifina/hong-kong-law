@@ -1,0 +1,5 @@
+NOISE CONTROL (MOTOR VEHICLES) REGULATION
+
+(Cap. 400 section 27)
+
+[1 August 1996]
