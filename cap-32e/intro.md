@@ -1,0 +1,5 @@
+COMPANIES (SPECIFICATION OF NAMES) ORDER
+
+(Cap. 32, section 22B(1))
+
+[22 February 1991]
