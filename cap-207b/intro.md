@@ -1,0 +1,5 @@
+DECLARATION OF QUARANTINE AREA
+
+(Cap. 207 section 14)
+
+[1 May 1976]
