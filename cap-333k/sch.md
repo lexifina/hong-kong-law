@@ -4,7 +4,7 @@
 
 Item | Stock options contract | Limit | Reporting level
 
-1. | HSBC Holdings Plc stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
+1. | HSBC Holdings Plc stock options contract | 5000 contracts in any one expiry month | 1000 contracts in anyone expiry month
 
 2. | Hong Kong Telecommunication Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
@@ -24,9 +24,9 @@ Item | Stock options contract | Limit | Reporting level
 
 10. | Hopewell Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 119 of 1996)
 
-11. | Amoy Properties Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 142 of 1996)
+11. | Amoy Properties Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month. (L.N. 142 of 1996)
 
-12. | The Bank of East Asia Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 142 of 1996)
+12. | The Bank of East Asia Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month. (L.N. 142 of 1996)
 
 13. | Hang Seng Bank Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 142 of 1996)
 
@@ -69,3 +69,17 @@ Item | Stock options contract | Limit | Reporting level
 32. | South China Morning Post (Holdings) Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 534 of 1996)
 
 33. | Television Broadcasts Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 534 of 1996)
+
+34. | Cheung Kong Infrastructure Holdings Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 338 of 1997)
+
+35. | China Resources Enterprise, Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 338 of 1997)
+
+36. | COSCO Pacific Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 338 of 1997)
+
+37. | HKR International Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 338 of 1997)
+
+38. | New World Infrastructure Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 338 of 1997)
+
+39. | Peregrine Investments Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in anyone expiry month (L.N. 338 of 1997)
+
+40. | Shanghai Industrial Holdings Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 338 of 1997)
