@@ -2,13 +2,13 @@
 
 1. | The Aberdeen Wholesale Marine Fish Market at No. 102, Shek Pai Wan Road, Hong Kong.
 
-2. | The Shau Kei Wan Wholesale Marine Fish Market at Shau Kei Wan Main Street, East, G.L.A. No. THK 402, Hong Kong.
+2. | The Shau Kei Wan Wholesale Marine Fish Market at No. 37, Tam Kung Temple Road, Shau Kei Wan, Hong Kong. (L.N. 164 of 1999)
 
 3. | Tai Po Wholesale Marine Fish Market at No. 1, Yu On Street, Tai Po, New Territories. (L.N. 104 of 1990)
 
 4. | Kwun Tong Wholesale Marine Fish Market at No. 10, Tung Yuen Street, Yau Tong, Kowloon. (L.N. 104 of 1990)
 
-5. | The Cheung Sha Wan Wholesale Marine Fish Market at Fat Tseung Street, G.L.A. No. TNK 474, Cheung Sha Wan, Kowloon.
+5. | The Cheung Sha Wan Wholesale Marine Fish Market at No. 38 Yen Chow Street West, Cheung Sha Wan, Kowloon. (L.N. 164 of 1999)
 
 6. | The Castle Peak Wholesale Marine Fish Market at Sam Shing Street, Y.L.G.L.A. No. 41, Castle Peak Bay, Tuen Mun, New Territories.
 
