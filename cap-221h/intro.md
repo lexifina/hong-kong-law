@@ -1,0 +1,5 @@
+CRIMINAL PROCEDURE (REPRESENTATION) RULES
+
+(Cap. 221, section 9)
+
+[9 January 1987]
