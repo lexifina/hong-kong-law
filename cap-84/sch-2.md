@@ -6,7 +6,9 @@ PILOT BOARDING STATIONS
 
 Description | Location
 
-1. | Area at the northern end of the traffic separation scheme in the East Lamma Channel specified in the Second Schedule to the Shipping and Port Control Regulations (Cap. 313 sub. leg.) | latitude longitude | 22o 114o | 16’ 06’ | 00” 36” | north, east.
+1. | Area off Ha Mei Wan, west of Lamma Island | latitude longitude | 22o 114o | 12’ 05’ | 00” 18” | north, east.
+
+(Replaced L.N. 162 of 1999)
 
 2. | Area off the turning buoy in the Tathong Channel | latitude longitude | 22o 114o | 16’ 15’ | 00” 40” | north, east.
 
