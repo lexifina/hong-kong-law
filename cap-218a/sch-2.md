@@ -544,17 +544,17 @@ A LICENCE BY A BODY CORPORATE
 
   - Yes | No
 
-  - (b) If the answer to (a) is ‘Yes’, give the following details in respect of each bank at which the corporation proposes to keep an account in connection with the business—
+- (b) If the answer to (a) is ‘Yes’, give the following details in respect of each bank at which the corporation proposes to keep an account in connection with the business—
 
-  - 1 | 2 | 3 | 4
+- 1 | 2 | 3 | 4
 
-  - Name of bank
+- Name of bank
 
-  - Address of bank
+- Address of bank
 
-  - Account number
+- Account number
 
-  - Date on which the account was opened
+- Date on which the account was opened
 
 - 4.
 
@@ -570,27 +570,27 @@ A LICENCE BY A BODY CORPORATE
 
   - Yes | No
 
-  - (b) If the answer to (a) is ‘Yes’, give the following details—
+- (b) If the answer to (a) is ‘Yes’, give the following details—
 
-  - 1 | 2 | 3 | 4
+- 1 | 2 | 3 | 4
 
-  - Full name of thedefendant in English
+- Full name of thedefendant in English
 
-  - Full name of the defendant in Chinese characters (if applicable) and code
+- Full name of the defendant in Chinese characters (if applicable) and code
 
-  - Aliases (if any)
+- Aliases (if any)
 
-  - Hong Kong Identity Card number
+- Hong Kong Identity Card number
 
-  - The offence
+- The offence
 
-  - Penalty (if any) imposed
+- Penalty (if any) imposed
 
-  - Date of conviction
+- Date of conviction
 
-  - Place of conviction
+- Place of conviction
 
-  - Name of the court which tried the offence
+- Name of the court which tried the offence
 
 - 6.
 
@@ -1374,7 +1374,7 @@ NOTE: This notice must be delivered to the Registrar not later than 3 clear days
 
 (L.N. 136 of 1996)
 
-FORM 16 | [regulation 16(g)]
+FORM 16 | [ regulation 16(g)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) DISCHARGE OF PROHIBITION ORDER
 
@@ -1400,52 +1400,6 @@ By virtue of section 29(7) of the Travel Agents Ordinance, I hereby discharge th
 
 (L.N. 136 of 1996)
 
-FORM 17 | [regulation 17]
+FORM 17
 
-TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR EX GRATIA PAYMENT FROM THE RESERVE FUND UNDER SECTION 43 OF THE ORDINANCE
-
-In accordance with Part VI of the Travel Agents Ordinance, I _ , a client of _ a licensed travel agent whose licence number is _ , hereby apply for an ex gratia payment from the Reserve Fund under section 44(1) of the Ordinance.
-
-- 2. My personal particulars are as follows—
-
-- (1) Name: *Mr./Madam/Miss _
-
-- (2) Alias (if any): _
-
-- (3) *Hong Kong Identity Card/Passport (if applicable) No.: _
-
-- (4) Age: _
-
-- (5) Occupation: _
-
-- (6) Residential Address: _
-
-- _ Telephone No.: _
-
-- (7) Correspondence Address: _
-
-- _ Telephone No.: _
-
-- 3. In support of this application, I attach herewith a certified true copy of—
-
-  - *(a) a judgment against the travel agent given by _ (give name of the court where the judgment is given) on _(date); or
-
-  - *(b) a proof of debt against the travel agent lodged with _ on _ (date),
-
-- in respect of—
-
-  - *(i) a loss incurred in respect of a payment for travel services made by me to the licensee particulars of which are _ _; or
-
-  - *(ii) a loss or liability incurred in consequence of a breach by the licensee of his obligations as a travel agent to me particulars of which are _ _
-
-- 4. I confirm that the said *judgment/proof of debt has remained unsatisfied for the following reasons (in relation to a judgment, give details of information and evidence as to what steps have been taken to enforce the judgment)— _
-
-- _
-
-- _ _ _ (Signature of applicant) Date _ * Delete as appropriate. NOTES
-
-- 1. The applicant is advised to read Part VI of the Travel Agents Ordinance before submitting this application.
-
-- 2. Additional information and documentary evidence may be required in support of this application.
-
-- 3. This form shall be completed in duplicate, and be delivered by post or in person to the Registrar of Travel Agents at the following address— TRAVEL AGENTS REGISTRY, 6TH FLOOR, EAST WING, HENNESSY CENTRE 500 HENNESSY ROAD, HONG KONG.
+(Repealed L.N. 240 of 1988) (For transitional provision, see reg. 4 of L.N. 240 of 1988.)
