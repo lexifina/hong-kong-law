@@ -462,6 +462,8 @@ THE POISONS LIST
 
 - Carvedilol; its salts
 
+- Caspofungin; its salts
+
 - Celecoxib; its salts
 
 - Celiprolol; its salts
@@ -663,6 +665,8 @@ THE POISONS LIST
 - Deanol acetamidobenzoate
 
 - Debrisoquine; its salts
+
+- Deferiprone; its salts
 
 - Dehydroemetine; its salts
 
@@ -935,6 +939,8 @@ THE POISONS LIST
 - Gallopamil; its salts
 
 - Ganciclovir; its salts
+
+- Ganirelix; its salts
 
 - Gatifloxacin; its salts; its esters
 
@@ -2074,15 +2080,13 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002)
 
 - PART II A
 
 - Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance
 
 - alpha-Chloralose
-
-- Nicotine: chewing gum intended to be used in nicotine replacement therapy which contains not more than 2 mg of Nicotine per piece
 
 - Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison included in part A of Part I of this List, where the proportion of the poison does not exceed the equivalent of—
 
@@ -2139,6 +2143,8 @@ THE POISONS LIST
 - Morphine; its salts
 
 - Nicocodine; its salts
+
+- Nicotine: chewing gum intended to be used in nicotine replacement therapy which contains not more than 2 mg of Nicotine per piece
 
 - Norcodeine; its salts
 
