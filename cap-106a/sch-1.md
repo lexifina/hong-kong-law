@@ -144,13 +144,19 @@ Item | Licence | Fee
 
   - (c) for the 101st base station installed for the Service and any additional base stations | $100 per base station
 
-  - (d) for the 1st 200 mobile stations or less used by customers of the Service | $15,000
+  - (d) for the 1st 200 mobile stations or less used by customers of the Service | $11,000
 
-  - (e) for every additional 100 mobile stations or less used by customers of the Service | $7,500
+  - (e) for every additional 100 mobile stations or less used by customers of the Service | $5,500
 
   - (f) for every 1 kHz of spectrum assigned to the licensee | $50
 
-  - 2. For the purpose of determining the fees payable, the number of stations and the width of the spectrum assigned shall be those authorized or in service at the time when the licence is granted or on the anniversary of the grant. SATELLITE MASTER ANTENNA TELEVISION LICENCE
+  - 2.
+
+  - For the purpose of determining the fees payable, the number of stations and the width of the spectrum assigned shall be those authorized or in service at the time when the licence is granted or on the anniversary of the grant.
+
+  - (L.N. 58 of 1999)
+
+  - SATELLITE MASTER ANTENNA TELEVISION LICENCE
 
   - 1. A fee of $750 shall be payable on the grant or renewal of a satellite master antenna television licence.
 
