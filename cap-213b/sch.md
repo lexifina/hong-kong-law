@@ -25,3 +25,5 @@ Item | Place of refuge
 - 9. (Repealed L.N. 26 of 1986)
 
 - 10. (Repealed L.N. 244 of 1999)
+
+- 11. Wing Lung Bank Golden Jubilee Sheltered Workshop and Hostel. (L.N. 94 of 2001)
