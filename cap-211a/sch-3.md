@@ -6,230 +6,272 @@ PENALTIES FOR OFFENCES
 
 - PART I COMPETENT PERSON
 
-Regulation | Amount of fine | Period of imprisonment | Additional fine for each day on which the offence continues
+Regulation | Fine | Period of imprisonment | Additional fine for each day on which the offence continues
 
-7(1) | $2,000 | 3 months
+7(1) | level 1 | 3 months
 
-7(2) | $2,000 | 3 months
+7(2) | level 1 | 3 months
 
-7(3) | $2,000 | 3 months
+7(3) | level 1 | 3 months
 
-7(4) | $2,000 | 3 months
+7(4) | level 1 | 3 months
 
-8(4) | $5,000 | 6 months
+8(4) | level 2 | 6 months
 
-18 | $5,000 | 6 months | $50
+18 | level 2 | 6 months | $50
 
-19(1) | $2,000 | 3 months
+19(1) | level 1 | 3 months
 
-19(3) | $2,000 | 3 months
+19(3) | level 1 | 3 months
 
-19(4) | $5,000 | 6 months
+19(4) | level 2 | 6 months
 
-20(2) | $5,000 | 6 months
+20(2) | level 2 | 6 months
 
-20(4) | $5,000 | 6 months
+20(4) | level 2 | 6 months
 
-21 | $5,000 | 6 months | $50
+21 | level 2 | 6 months | $50
 
-22(1) | $5,000 | 6 months
+22(1) | level 2 | 6 months
 
-22(2) | $5,000 | 6 months
+22(2) | level 2 | 6 months
 
-22(3) | $5,000 | 6 months
+22(3) | level 2 | 6 months
 
-23(1) | $5,000 | 6 months
+23(1) | level 2 | 6 months
 
-23(2) | $5,000 | 6 months
+23(2) | level 2 | 6 months
 
-23(3) | $2,000 | 3 months
+23(3) | level 2 | 6 months
 
-24 | $5,000 | 6 months | $50
+23(4) | level 1 | 3 months
 
-25(1) | $5,000 | 6 months | $50
+23A(1) | level 2 | 6 months
 
-25(3) | $5,000 | 6 months | $50
+23A(2) | level 2 | 6 months
 
-31(3) | $5,000 | 6 months
+23A(3) | level 2 | 6 months
 
-32(1) | $5,000 | 6 months
+23A(4) | level 2 | 6 months
 
-32(2) | $5,000 | 6 months
+23A(5) | level 1 | 3 months
 
-32(3) | $5,000 | 6 months
+24 | level 2 | 6 months | $50
 
-33 | $5,000 | 6 months | $50
+25(1) | level 2 | 6 months | $50
 
-34(1) | $5,000 | 6 months
+25(3) | level 2 | 6 months | $50
 
-35 | $5,000 | 6 months
+25A(1) | level 2 | 6 months | $50
 
-36(1) | $5,000 | 6 months
+25A(2) | level 2 | 6 months | $50
 
-36(2) | $5,000 | 6 months
+31(3) | level 2 | 6 months
 
-36(3) | $5,000 | 6 months
+32(1) | level 2 | 6 months
+
+32(2) | level 2 | 6 months
+
+32(3) | level 2 | 6 months
+
+33 | level 2 | 6 months | $50
+
+34(1) | level 2 | 6 months
+
+35 | level 2 | 6 months
+
+36(1) | level 2 | 6 months
+
+36(2) | level 2 | 6 months
+
+36(3) | level 2 | 6 months
 
 - PART II CONTROLLER
 
-Regulation | Amount of fine | Period of imprisonment | Additional fine for each day on which the offence continues
+Regulation | Fine | Period of imprisonment | Additional fine for each day on which the offence continues
 
-10 | $5,000 | 6 months
+10 | level 2 | 6 months
 
-11 | $5,000 | 6 months
+11 | level 2 | 6 months
 
-12(1) | $2,000 | 3 months
+12(1) | level 1 | 3 months
 
-13(1) | $5,000 | 6 months
+13(1) | level 2 | 6 months
 
-14 | $5,000 | 6 months
+14 | level 2 | 6 months
 
-15(1) | $5,000 | 6 months
+15(1) | level 2 | 6 months
 
-15(3) | $5,000 | 6 months
+15(3) | level 2 | 6 months
 
-25(2) | $5,000 | 6 months
+25(2) | level 2 | 6 months
 
-27(1) | $5,000 | 6 months
+25A(3) | level 2 | 6 months
+
+27(1) | level 2 | 6 months
 
 - PART III OWNER
 
-Regulation | Amount of fine | Period of imprisonment | Additional fine for each day on which the offence continues
+Regulation | Fine | Period of imprisonment | Additional fine for each day on which the offence continues
 
-6(1) | $10,000 | 6 months
+6(1) | level 3 | 6 months
 
-6(3) | $10,000 | 6 months
+6(3) | level 3 | 6 months
 
-8(1) | $10,000 | 6 months | $100
+8(1) | level 3 | 6 months | $100
 
-8(3) | $10,000 | 6 months
+8(3) | level 3 | 6 months
 
-16 | $50,000 | 2 years
+16 | level 5 | 2 years
 
-17 | $20,000 | 1 year | $500
+17 | level 4 | 1 year | $500
 
-20(1) | $50,000 | 2 years
+20(1) | level 5 | 2 years
 
-20(4) | $20,000 | 1 year
+20(4) | level 4 | 1 year
 
-20(5) | $10,000 | 6 months
+20(5) | level 3 | 6 months
 
-26(1) | $20,000 | 1 year | $500
+22(4) | level 3 | 6 months
 
-26(2) | $ 5,000
+23(5) | level 3 | 6 months
 
-27(2) | $10,000 | 6 months
+23A(6) | level 3 | 6 months
 
-28 | $50,000 | 2 years | $1,000
+26(1) | level 4 | 1 year | $500
 
-29(a) | $10,000 | $100
+26(2) | level 2
 
-29(b) | $10,000 | $100
+27(2) | level 3 | 6 months
 
-29(c) | $ 5,000
+28 | level 5 | 2 years | $1,000
 
-29(d) | $ 5,000
+29(a) | level 3 | $100
 
-29(e) | $20,000 | 1 year | $500
+29(b) | level 3 | $100
 
-30 | $ 5,000
+29(c) | level 2
 
-31(1) | $50,000 | 2 years | $1,000
+29(d) | level 2
 
-31(2) | $50,000 | 2 years | $1,000
+29(e) | level 4 | 1 year | $500
 
-37(1) | $ 5,000
+30 | level 2
 
-37(2) | $ 5,000
+31(1) | level 5 | 2 years | $1,000
 
-38 | $10,000 | 6 months
+31(2) | level 5 | 2 years | $1,000
+
+37(1) | level 2
+
+37(2) | level 2
+
+38 | level 3 | 6 months
 
 - PART IV OWNER
 
-Regulation | Amount of fine | Period of imprisonment | Additional fine for each day on which the offence continues
+Regulation | Fine | Period of imprisonment | Additional fine for each day on which the offence continues
 
-7(1) | $10,000 | 6 months
+7(1) | level 3 | 6 months
 
-7(2) | $10,000 | 6 months
+7(2) | level 3 | 6 months
 
-7(3) | $10,000 | 6 months
+7(3) | level 3 | 6 months
 
-7(4) | $10,000 | 6 months
+7(4) | level 3 | 6 months
 
-8(4) | $10,000 | 6 months
+8(4) | level 3 | 6 months
 
-18 | $20,000 | 1 year | $500
+18 | level 4 | 1 year | $500
 
-19(1) | $10,000 | 6 months
+19(1) | level 3 | 6 months
 
-19(3) | $10,000 | 6 months
+19(3) | level 3 | 6 months
 
-19(4) | $20,000 | 1 year
+19(4) | level 4 | 1 year
 
-20(2) | $20,000 | 1 year
+20(2) | level 4 | 1 year
 
-20(4) | $20,000 | 1 year
+20(4) | level 4 | 1 year
 
-21 | $50,000 | 2 years | $1,000
+21 | level 5 | 2 years | $1,000
 
-22(1) | $20,000 | 1 year
+22(1) | level 4 | 1 year
 
-22(2) | $20,000 | 1 year
+22(2) | level 4 | 1 year
 
-22(3) | $20,000 | 1 year
+22(3) | level 4 | 1 year
 
-23(1) | $20,000 | 1 year
+23(1) | level 4 | 1 year
 
-23(2) | $20,000 | 1 year
+23(2) | level 4 | 1 year
 
-23(3) | $10,000 | 6 months
+23(3) | level 4 | 1 year
 
-24 | $50,000 | 2 years | $1,000
+23(4) | level 3 | 6 months
 
-25(1) | $20,000 | 1 year | $500
+23A(1) | level 4 | 1 year
 
-25(3) | $20,000 | 1 year | $500
+23A(2) | level 4 | 1 year
 
-31(3) | $10,000 | 6 months
+23A(3) | level 4 | 1 year
 
-32(1) | $20,000 | 1 year
+23A(4) | level 4 | 1 year
 
-32(2) | $20,000 | 1 year
+23A(5) | level 3 | 6 months
 
-32(3) | $20,000 | 1 year
+24 | level 5 | 2 years | $1,000
 
-33 | $20,000 | 1 year | $500
+25(1) | level 4 | 1 year | $500
 
-34(1) | $20,000 | 1 year
+25(3) | level 4 | 1 year | $500
 
-35 | $20,000 | 1 year
+25A(1) | level 4 | 1 year | $500
 
-36(1) | $20,000 | 1 year
+25A(2) | level 4 | 1 year | $500
 
-36(2) | $20,000 | 1 year
+31(3) | level 3 | 6 months
 
-36(3) | $20,000 | 1 year
+32(1) | level 4 | 1 year
+
+32(2) | level 4 | 1 year
+
+32(3) | level 4 | 1 year
+
+33 | level 4 | 1 year | $500
+
+34(1) | level 4 | 1 year
+
+35 | level 4 | 1 year
+
+36(1) | level 4 | 1 year
+
+36(2) | level 4 | 1 year
+
+36(3) | level 4 | 1 year
 
 - PART V OWNER
 
-Regulation | Amount of fine | Period of imprisonment | Additional fine for each day on which the offence continues
+Regulation | Fine | Period of imprisonment | Additional fine for each day on which the offence continues
 
-10 | $20,000 | 1 year
+10 | level 4 | 1 year
 
-11 | $50,000 | 1 year
+11 | level 5 | 1 year
 
-12(1) | $10,000 | 6 months
+12(1) | level 3 | 6 months
 
-13(1) | $20,000 | 1 year
+13(1) | level 4 | 1 year
 
-14 | $20,000 | 1 year
+14 | level 4 | 1 year
 
-15(1) | $20,000 | 1 year
+15(1) | level 4 | 1 year
 
-15(3) | $20,000 | 1 year
+15(3) | level 4 | 1 year
 
-25(2) | $20,000 | 1 year
+25(2) | level 4 | 1 year
 
-27(1) | $20,000
+25A(3) | level 4 | 1 year
 
-(L.N. 240 of 1981)
+27(1) | level 4 | 1 year
+
+(Third Schedule replaced L.N. 122 of 2003)
