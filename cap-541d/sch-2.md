@@ -78,7 +78,7 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION, BY-ELECTION AND SUBSECTOR ELEC
 
 - 5. Procedure after adjournment of poll
 
-  - (1) If a poll is adjourned under this Schedule or section 44 of the Legislative Council Ordinance (Cap. 542), the procedure specified in this section is to be complied with.
+  - (1) If a poll is adjourned under this Schedule or section 44 of the Legislative Council Ordinance (Cap. 542) or section 18 of Schedule 2 to that Ordinance, the procedure specified in this section is to be complied with. (L.N. 147 of 1998)
 
   - (2) The Presiding Officer must, in the presence of any persons present within the polling station, secure the ballot boxes and their contents in a manner that Officer thinks fit. Then, without counting or separating the ballot papers or counting the votes, that Officer must deliver the secured ballot boxes together with any un-issued ballot papers, unused ballot papers or spoilt ballot papers, and the marked copies of the final register to the Returning Officer.
 
@@ -86,11 +86,11 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION, BY-ELECTION AND SUBSECTOR ELEC
 
   - (4) If the ballot boxes and other materials are delivered to the Returning Officer, that Officer must take such steps as determined by the Commission (generally or in a particular case) for the purpose of ensuring their safety and security. The Returning Officer must remain in charge of them and be responsible for their safety and security until polling in respect of the adjourned poll commences.
 
-  - (5) If a poll is adjourned under this Schedule or section 44 of the Legislative Council Ordinance (Cap. 542), the polling hours appointed for the resumed poll must be such that the total time allowed for polling (that is the aggregate of the polling hours which had been spent at the time the poll was adjourned and the polling hours appointed for the resumed poll) is not less than the total time that would have been allowed for polling had the poll not been adjourned.
+  - (5) If a poll is adjourned under this Schedule or section 44 of the Legislative Council Ordinance (Cap. 542) or section 18 of Schedule 2 to that Ordinance, the polling hours appointed for the resumed poll must be such that the total time allowed for polling (that is the aggregate of the polling hours which had been spent at the time the poll was adjourned and the polling hours appointed for the resumed poll) is not less than the total time that would have been allowed for polling had the poll not been adjourned. (L.N. 147 of 1998)
 
 - 6. Procedure after adjournment or postponement of a count
 
-  - (1) If a count is adjourned under this Schedule or section 44 of the Legislative Council Ordinance (Cap. 542), or if the count is adjourned due to the postponement of a poll under this Schedule, the Returning Officer must comply with this section.
+  - (1) If a count is adjourned under this Schedule or section 44 of the Legislative Council Ordinance (Cap. 542) or section 18 of Schedule 2 to that Ordinance, or if the count is adjourned due to the postponement of a poll under this Schedule, the Returning Officer must comply with this section. (L.N. 147 of 1998)
 
   - (2) The Returning Officer must take steps to cease the count. Then, in the presence of the persons, if any, present within the counting station, deposit the ballot boxes (whether opened or un-opened) and receptacles, if any, together with the ballot papers (whether counted or not), any un-issued ballot papers, tendered ballot papers, ballot paper account, verification of a ballot paper account or re-verification of a ballot paper account, and any other relevant election materials, in a safe place within the counting station. If there is no safe place within the counting station, that Officer must deposit them in a safe place within a police station or a public building close to the counting station. If there is no such police station or public building, that Officer must deposit them in a secure building (which may even be a residential building) close to the counting station. If there is no police station, public building or secure building close to the counting station, that Officer must deposit the election materials in a safe place within any other police station or public building or in the absence of such a station or building, in a safe place in any other building (which may even be a residential building).
 
