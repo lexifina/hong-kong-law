@@ -1,0 +1,5 @@
+PLEASURE GROUNDS (REGIONAL COUNCIL) BYLAWS
+
+(Cap. 132 section 109)
+
+[1 December 1972] L.N. 243 of 1972
