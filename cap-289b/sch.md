@@ -286,4 +286,6 @@ Item | Periods | Rate of interest
 
 141. | On or after 7 June 2004 and before 6 September 2004 (L.N. 106 of 2004; L.N. 146 of 2004) | 0.050% per annum
 
-142. | On or after 6 September 2004 (L.N. 146 of 2004) | 0.150% per annum
+142. | On or after 6 September 2004 and before 4 October 2004 (L.N. 146 of 2004; L.N. 153 of 2004) | 0.150% per annum
+
+143. | On or after 4 October 2004 (L.N. 153 of 2004) | 0.250% per annum
