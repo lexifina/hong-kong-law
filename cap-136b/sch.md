@@ -2,9 +2,21 @@
 
 [para. 2]
 
-- 1. Castle Peak Hospital. (G.N.A. 9 of 1962)
+- 1. Castle Peak Hospital The hospital at Tsing Chung Koon Road, Tuen Mun, known as the Castle Peak Hospital, but excluding Wards B001, B103 and B202 of Block B and Wards D101 and D102 of Block D of that hospital. (L.N. 104 of 2002)
 
-- 2. Kwai Chung Psychiatric Observation Unit All that part of the Kwai Chung Hospital, Lai King Hill Road, Kwai Chung known as the Kwai Chung Psychiatric Observation Unit, being all the second floor excluding the stairways and lift wells, of the Blocks known as L, M, G, and H Blocks. (L.N. 210 of 1981; L.N. 151 of 1997) All that part of the Kwai Chung Hospital, Lai King Hill Road, Kwai Chung known as the Kwai Chung Psychiatric Observation Unit, being all the seventh floor, excluding the stairways and lift wells, of the Blocks known as G and H Blocks, and all the sixth, ninth and tenth floors, excluding the stairways and lift wells, of the Blocks known as L and M Blocks. (L.N. 305 of 1983; L.N. 151 of 1997)
+- 2.
+
+- Kwai Chung Psychiatric Observation Unit
+
+- That part of the Kwai Chung Hospital, Lai King Hill Road, Kwai Chung, known as the Kwai Chung Psychiatric Observation Unit and consisting of—
+
+  - (a) the second floor of Blocks L, M, G and H;
+
+  - (b) the seventh floor of Blocks G and H;
+
+  - (c) the sixth, ninth and tenth floors of Blocks L and M; and
+
+  - (d) the third floor of Block G, of that hospital, but excluding the stairways and lift wells on those floors. (L.N. 104 of 2002)
 
 - 3. Pamela Youde Nethersole Eastern Psychiatric Observation Unit All those parts of the Pamela Youde Nethersole Eastern Hospital known as Wards G3, J3, H3, K3, G4, J4, H4, K4, H5 and K5 collectively known as the Pamela Youde Nethersole Eastern Psychiatric Observation Unit, being all the third floor, fourth floor and fifth floor (excluding Wards G5 and J5), excluding the stairways, lift lobbies and lift wells, of the Special Block. (L.N. 41 of 1995)
 
