@@ -52,4 +52,6 @@ NEWSPAPER STATEMENTS HAVING QUALIFIED PRIVILEGE
 
   - 13. A copy or fair and accurate report or summary of any notice or other matter issued for the information of the public by or on behalf of the Consumer Council. (Added 23 of 1986 s. 4)
 
-  - 14. A copy or fair and accurate report or summary of any report made or published under section 16 or 16A of The Ombudsman Ordinance (Cap. 397). (Added 44 of 1994 s. 19. Amended 74 of 1996 s. 12) (Added 33 of 1961 s. 12. Amended 23 of 1986 s. 4)
+  - 14. A copy or fair and accurate report or summary of any report made or published under section 16 or 16A of The Ombudsman Ordinance (Cap. 397). (Added 44 of 1994 s. 19. Amended 74 of 1996 s. 12)
+
+  - 15. A copy of a fair and accurate report or summary of any report prepared and supplied for the purposes of section 30 of the Mandatory Provident Fund Schemes Ordinance (Cap. 485) or prepared and published under section 32 of that Ordinance. (Added 4 of 1998 s. 9) (Added 33 of 1961 s. 12. Amended 23 of 1986 s. 4)
