@@ -32,6 +32,8 @@ People’s Republic of China
 
 Democratic Republic of the Congo
 
+Republic of Congo
+
 Cote d’Ivoire
 
 Cyprus
@@ -79,6 +81,8 @@ Lebanon
 Lesotho
 
 Luxembourg
+
+Malaysia
 
 Malta
 
@@ -134,4 +138,4 @@ Vietnam
 
 Zimbabwe
 
-(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003)
+(Schedule 7 added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003)
