@@ -1,0 +1,5 @@
+MINERAL OIL IN FOOD REGULATIONS
+
+(Cap. 132, section 55)
+
+[30 November 1962]
