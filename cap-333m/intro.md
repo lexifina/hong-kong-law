@@ -1,0 +1,5 @@
+SECURITIES (STOCK LENDING) RULES
+
+(Cap. 333, section 146(1)(oa))
+
+[3 July 2000]
