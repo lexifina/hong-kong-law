@@ -1,0 +1,5 @@
+MERCHANT SHIPPING (SAFETY) (LOAD LINE) REGULATIONS
+
+(Cap. 369, sections 51, 63, 102 and 107)
+
+[2 August 1991]
