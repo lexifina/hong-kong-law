@@ -12,6 +12,6 @@ REQUIREMENTS APPLICABLE TO DESIGNATED DRIVING SCHOOLS
 
   - (b) of any change in the proprietorship of the driving school, or any other matter specified by the Commissioner; and
 
-  - (c) if the proprietor has committed an act of bankruptcy or has entered into liquidation or has entered into any composition with his creditors or has suffered any distress or execution to be levied upon his goods.
+  - (c) if grounds exist for a creditor to present a bankruptcy petition against the proprietor or he has entered into liquidation or has entered into any voluntary arrangement with his creditors or has suffered any distress or execution to be levied upon his goods. (Amended 37 of 1998 s. 6)
 
 - 3. The fee payable for designation, or renewal of designation, of a driving school shall be $21,000. (Schedule 9 added 27 of 1989 s. 3)

@@ -8,17 +8,17 @@ PART I
 
 GENERAL
 
-- 1.
-
-- Interpretation
-
-- In this Schedule—
+- 1. Interpretation In this Schedule—
 
   - “criminal bankruptcy debt” (刑事破產債項) means a debt deemed to be due to any person by virtue of paragraph 3.
 
-- 2. (Repealed 76 of 1996 s. 70)
+- 2. Entitlement to present bankruptcy petition
 
-- 3. Creditors and criminal bankruptcy debts
+- Subject to the provisions of this Schedule, where a criminal bankruptcy order is made against any person he shall be treated as a debtor against whom grounds exist for a creditor to present a bankruptcy petition. (Added 37 of 1998 s. 2)
+
+- 3.
+
+- Creditors and criminal bankruptcy debts
 
 - A person specified in a criminal bankruptcy order as having suffered loss or damage of any amount shall be treated for the purpose of any ensuing proceedings pursuant to—
 
@@ -30,17 +30,21 @@ GENERAL
 
   - APPLICATION OF THE ORDINANCE IN PROCEEDINGS BASED ON A CRIMINAL BANKRUPTCY ORDER
 
-- 4. Criminal bankruptcy petition
+- 4.
 
-- No criminal bankruptcy petition shall be presented by the person who under paragraph 2 is the bankrupt; and, in relation to such a petition presented by a creditor, sections 4, 6 and 6B shall have effect with the following modifications— (Amended 76 of 1996 ss. 70 & 72)
+- Criminal bankruptcy petition
+
+- No criminal bankruptcy petition shall be presented by the person who under paragraph 2 is the bankrupt; and, in relation to such a petition presented by a creditor, sections 4, 6 and 6B shall have effect with the following modifications— (Amended 76 of 1996 ss. 70 and 72)
 
   - (a) sections 6(2)(a) and (b) and 6B shall not apply to a criminal bankruptcy debt; (Replaced 76 of 1996 s. 70)
 
   - (b) section 4(1)(a) shall be omitted. (Replaced 76 of 1996 s. 70)
 
-- 5. Receiving order
+- 5.
 
-- For the purposes of section 9(2) and (3) (matters to be proved before bankruptcy order is made) any criminal bankruptcy debt shall be treated as conclusively proved by the production of a copy of the criminal bankruptcy order in question and the following provisions of that section shall not apply in relation to any such debt— (Amended 76 of 1996 ss. 70, 72 & 73)
+- Receiving order
+
+- For the purposes of section 9(2) and (3) (matters to be proved before bankruptcy order is made) any criminal bankruptcy debt shall be treated as conclusively proved by the production of a copy of the criminal bankruptcy order in question and the following provisions of that section shall not apply in relation to any such debt— (Amended 76 of 1996 ss. 70 & 73)
 
   - (a) (Repealed 76 of 1996 s. 70)
 
@@ -48,9 +52,7 @@ GENERAL
 
   - (c) subsection (6).
 
-- 6. Trustee of criminal bankrupt’s property
-
-- Where a person is adjudged bankrupt in proceedings pursuant to a criminal bankruptcy petition the Official Receiver shall in the bankruptcy be the trustee of the property of the bankrupt. (Amended 76 of 1996 s. 70)
+- 6. Trustee of criminal bankrupt’s property Where a person is adjudged bankrupt in proceedings pursuant to a criminal bankruptcy petition the Official Receiver shall in the bankruptcy be the trustee of the property of the bankrupt. (Amended 76 of 1996 s. 70)
 
 - 7. Proof of criminal bankruptcy debt in bankruptcy proceedings
 
@@ -90,9 +92,7 @@ GENERAL
 
   - (2) Paragraph 7 shall apply in relation to proof of criminal bankruptcy debts in proceedings pursuant to a criminal bankruptcy administration petition as it applies in relation to proof of such debts in proceedings pursuant to a criminal bankruptcy petition.
 
-- 10. Bankruptcy proceedings otherwise than by virtue of this Schedule
-
-- Where a criminal bankruptcy order has been made against any person and a bankruptcy petition has been presented in respect of him before the order was made, or is presented in respect of him thereafter otherwise than by virtue of paragraph 2, the court may, on the application of the Official Petitioner, dismiss the petition, rescind any receiving order made in pursuance thereof or, if that person has been adjudged bankrupt, annul the adjudication on such terms, if any, as the court thinks fit.
+- 10. Bankruptcy proceedings otherwise than by virtue of this Schedule Where a criminal bankruptcy order has been made against any person and a bankruptcy petition has been presented in respect of him before the order was made, or is presented in respect of him thereafter otherwise than by virtue of paragraph 2, the court may, on the application of the Official Petitioner, dismiss the petition, rescind any receiving order made in pursuance thereof or, if that person has been adjudged bankrupt, annul the adjudication on such terms, if any, as the court thinks fit.
 
 - 11. Effect of appeal against conviction
 
@@ -136,7 +136,9 @@ GENERAL
 
   - shall apply in relation to a criminal bankruptcy petition presented by the Official Petitioner as if any reference to the debt of the petitioning creditor were a reference to any criminal bankruptcy debt within the meaning of this Schedule; and paragraph 5 shall have effect in relation to section 9(2) and (3) as they apply by virtue of this paragraph.
 
-- 13. Presentation of criminal bankruptcy administration
+- 13.
+
+- Presentation of criminal bankruptcy administration
 
 - petition by Official Petitioner
 
@@ -154,7 +156,7 @@ GENERAL
 
     - (a) to attend any meeting of creditors and, before the meeting, to receive any notice or other document required to be sent before such a meeting to any creditor;
 
-    - (b) to be a member of any creditors’ committee appointed under section 24; (Amended 76 of 1996 ss. 70 & 74)
+    - (b) to be a member of any creditors’ committee appointed under section 24; (Amended 76 of 1996 ss. 70 and 74)
 
     - (c) to be a party to any such proceedings before the court.
 
@@ -170,11 +172,13 @@ GENERAL
 
     - (a) section 15 (power to appoint special manager);
 
-    - (b) section 18 (1) and (5) (statement of affairs); (Amended 76 of 1996 s. 70)
+    - (b) section 18(1) and (5) (statement of affairs); (Amended 76 of 1996 s. 70)
 
-    - (c) section 19(5), (8) and (10) (public examination of bankrupt); (Amended 76 of 1996 ss. 70 & 72)
+    - (c) section 19(5), (8) and (10) (public examination of bankrupt); (Amended 76 of 1996 ss. 70 and 72)
 
-    - (d) sections 20 to 20K (interim orders and voluntary arrangements); (Replaced 76 of 1996 s. 70) (e)-(f) (Repealed 76 of 1996 s. 70)
+    - (d) sections 20 to 20K (interim orders and voluntary arrangements); (Replaced 76 of 1996 s. 70)
+
+    - (e)-(f) (Repealed 76 of 1996 s. 70)
 
     - (g) section 78(1)(e) (report to creditors of bankrupt’s proposal); (Amended 76 of 1996 s. 72)
 
