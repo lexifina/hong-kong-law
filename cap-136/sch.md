@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 60 of 2000 s. 3)
-
 [ss. 59J(4) & 73]
 
 - 1. Terms and conditions of appointment of
@@ -28,7 +26,7 @@
 
 - 3. Fees and allowances payable to members of
 
-- Guardianship Board The Guardianship Board may pay its members such fees and allowances as the Secretary for Health and Welfare, after consulting with the Secretary for the Treasury, determines.
+- Guardianship Board The Guardianship Board may pay its members such fees and allowances as the Secretary for Health, Welfare and Food, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002)
 
 - 4. Absence of Chairperson In the absence, illness or incapacity of the Chairperson at any meeting of the Guardianship Board another member (being a member referred to in section 59J(3)(a) of this Ordinance) may be appointed to act as such Chairperson (“the other member presiding”)—
 

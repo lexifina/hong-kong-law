@@ -78,9 +78,7 @@ To: The Authority
 
 - Normal(kg/h) | Maximum(kg/h) | Normal(kg/h) | Maximum (kg/h)
 
-- 9.
-
-- Drawings
+- 9. Drawings
 
 - Please provide
 
@@ -204,13 +202,11 @@ To: The Authority
 
   - Existing Licence/ Exemption* | Proposed Variation | Existing Licence/ Exemption* | Proposed Variation
 
-  - (2) Terms and Conditions to be Varied or Cancelled
+  - (2) Terms and Conditions to be Varied or Cancelled (To be completed only for application for variation or cancellation of terms and conditions imposed by the Authority on an exemption for conduct of a specified process)
 
-- (To be completed only for application for variation or cancellation of terms and conditions imposed by the Authority on an exemption for conduct of a specified process)
+  - Terms and Conditions imposed on the Existing Exemption | Proposed Variation or Cancellation | Justifications for such Variation or Cancellation
 
-- Terms and Conditions imposed on the Existing Exemption | Proposed Variation or Cancellation | Justifications for such Variation or Cancellation
-
-- * Delete if not applicable
+  - * Delete if not applicable
 
 - (3) Noxious or Offensive Emissions
 
@@ -228,7 +224,7 @@ To: The Authority
 
   - Average | Maximum
 
-- * Expressed as at standard temperature and pressure of 0℃ and 101.325 kPa.
+  - * Expressed as at standard temperature and pressure of 0℃ and 101.325 kPa.
 
 - (b)
 
@@ -276,7 +272,7 @@ To: The Authority
 
   - (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000
 
-(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
+- (L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
 
 FORM 4 | [regulation 4]
 
@@ -320,9 +316,9 @@ To: The Authority
 
   - (2) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $ 50,000.
 
-- * Delete if not applicable.
+  - * Delete if not applicable.
 
-(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
+- (L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
 
 FORM 5 | [regulation 11]
 
@@ -354,8 +350,6 @@ To: The Authority
 
 - Purpose of the Application: . Address of the Premises Where the Specified Process Is To Be Conducted: .
 
-- .
-
 - 4. Relevant Air Quality Objective(s) being Threatened: .
 
 - 5. The grounds for this objection are: (set them out in full) . .
@@ -364,9 +358,7 @@ To: The Authority
 
 - . . (Signature) Objector Dated this . day of . 19 .
 
-- Copy to the Secretary for the Environment and Food * Delete if not applicable.
-
-(L.N. 244 of 1989; L.N 212 of 1996; 78 of 1999 s. 7)
+- Copy to the Secretary for the Environment, Transport and Works * Delete if not applicable. (L.N. 244 of 1989; L.N 212 of 1996; 78 of 1999 s. 7; L.N. 106 of 2002)
 
 FORM 6 | [regulation 12]
 

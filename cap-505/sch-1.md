@@ -4,8 +4,6 @@
 
 PROVISIONS WITH RESPECT TO BOARD AND COMMITTEES AND THEIR MEMBERS, ETC.
 
-(Adaptation amendments retroactively made - see 37 of 2000 s. 3)
-
 Board and members of Board
 
 - 1. Initial constitution of Board, etc.
@@ -14,7 +12,7 @@ Board and members of Board
 
     - (a) 1 shall be the Chairperson of the Council;
 
-    - (b) 2 shall be other members of the Council appointed by the Chief Executive from amongst nominations submitted to the Secretary by the Council; (Amended 37 of 2000 s. 3)
+    - (b) 2 shall be other members of the Council appointed by the Chief Executive from amongst nominations submitted to the Secretary for Health and Welfare by the Council; (Amended 37 of 2000 s. 3; L.N. 106 of 2002)
 
     - (c) 2 shall be persons appointed by the Chief Executive; and (Amended 37 of 2000 s. 3)
 
@@ -66,11 +64,7 @@ Board and members of Board
 
   - (7) This section shall expire on the relevant date.
 
-- 2.
-
-- Members of Board to disclose interests
-
-- in respect of certain contracts
+- 2. Members of Board to disclose interests in respect of certain contracts
 
   - (1) A member of the Board who is in any way directly or indirectly interested in a contract made or proposed to be made by—
 
@@ -96,11 +90,7 @@ Board and members of Board
 
 - 3. Voting All matters for determination at a meeting of the Board shall be decided by a majority of votes of the members present and voting and where there is an equality of votes the Chairperson or other member presiding shall have a casting vote in addition to his original vote.
 
-- 4.
-
-- Fixing of seal of Board
-
-- The fixing of the seal of the Board shall be—
+- 4. Fixing of seal of Board The fixing of the seal of the Board shall be—
 
   - (a) authorized by the Board; and
 
@@ -118,23 +108,17 @@ Board and members of Board
 
 - 6. Certain documents not required to be sealed Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not be required to be under seal may be entered into or executed on behalf of the Board by any member of the Board generally or specifically authorized by the Board for that purpose.
 
-- 7. Procedure of Board Subject to the provisions of this Schedule, the Board shall have power to regulate its own procedure including the manner in which decisions of the Board may be made by a quorum of its members otherwise than at a meeting of the Board. Committees and members of committees
+- 7. Procedure of Board Subject to the provisions of this Schedule, the Board shall have power to regulate its own procedure including the manner in which decisions of the Board may be made by a quorum of its members otherwise than at a meeting of the Board.
 
-- 8.
+Committees and members of committees
 
-- Members of committees
-
-- The Board—
+- 8. Members of committees The Board—
 
   - (a) may appoint members of the Board, and persons who are not such members, to be members of a committee other than a disciplinary committee; and
 
   - (b) shall appoint the chairperson of a committee and determine the number of members of a committee.
 
-- 9.
-
-- Members of committee to disclose interests
-
-- in respect of certain contracts
+- 9. Members of committee to disclose interests in respect of certain contracts
 
   - (1) A member of a committee who is in any way directly or indirectly interested in a contract made or proposed to be made by—
 
@@ -156,7 +140,9 @@ Board and members of Board
 
   - (4) For the purposes of subsection (1), a member may give a notice in writing at a meeting of a committee to the effect that he is a member of a company or firm and is to be regarded as interested in any contract which may, after the date of the notice, be made with the company or firm and the notice shall be regarded as a sufficient disclosure of his interest in relation to any contract so made or proposed to be so made.
 
-  - (5) A member of a committee need not attend in person at a meeting of the committee to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting. Finances, etc. of Board
+  - (5) A member of a committee need not attend in person at a meeting of the committee to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
+
+Finances, etc. of Board
 
 - 10. Resources of Board
 
@@ -202,6 +188,8 @@ Board and members of Board
 
   - (4) Subsection (1) shall not operate to entitle the Director of Audit to question the merits of the policy objectives of the Board.
 
-  - (5) This section shall expire on the relevant date. Delegations
+  - (5) This section shall expire on the relevant date.
+
+Delegations
 
 - 13. Provisions to which section 12(1) of this Ordinance shall not apply Sections 8 and 11(3) shall not be subject to section 12(1) of this Ordinance.

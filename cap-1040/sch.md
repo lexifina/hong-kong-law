@@ -178,7 +178,7 @@
 
     - (a) the Secretary for Home Affairs, who shall be chairman; (Amended L.N. 67 of 1985; L.N. 262 of 1989)
 
-    - (b) the Secretary for Health and Welfare; (Amended L.N. 18 of 1983)
+    - (b) the Secretary for Health, Welfare and Food; (Amended L.N. 18 of 1983; L.N. 106 of 2002)
 
     - (c) the Director of Social Welfare;
 
@@ -210,7 +210,7 @@
 
     - (b) 4 members of the advisory board. (Replaced L.N. 253 of 1974)
 
-  - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Health and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health and Welfare members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989)
+  - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Health, Welfare and Food shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health, Welfare and Food members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002)
 
   - (8) The persons who are members of the Board of Direction of the Society at the commencement of this Ordinance shall be members of the advisory board until 1 April 1974.
 
@@ -220,7 +220,7 @@
 
   - (2) Every question at any meeting of the advisory board shall be decided by a majority of votes of the members present and in the case of an equality of votes the chairman of the meeting shall have a casting vote.
 
-  - (3) In the absence of the Secretary for Home Affairs the Secretary for Health and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health and Welfare the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989)
+  - (3) In the absence of the Secretary for Home Affairs the Secretary for Health, Welfare and Food shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health, Welfare and Food the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002)
 
 - 20. Annual general meeting
 

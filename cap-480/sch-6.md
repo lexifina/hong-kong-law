@@ -4,8 +4,6 @@
 
 PROVISIONS WITH RESPECT TO THE COMMISSION AND COMMITTEES AND THEIR MEMBERS
 
-(Adaptation amendments retroactively made - see 66 of 1999 s. 3)
-
 Members and procedure of Commission
 
 - 1.
@@ -60,7 +58,7 @@ Members and procedure of Commission
 
   - (5) A member of the Commission need not attend in person at a meeting of the Commission to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
 
-- 4. Fees and allowances payable to members of Commission The Commission may pay its members such fees and allowances as the Secretary for Home Affairs, after consulting with the Secretary for the Treasury, determines.
+- 4. Fees and allowances payable to members of Commission The Commission may pay its members such fees and allowances as the Secretary for Home Affairs, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002)
 
 - 5.
 
@@ -180,13 +178,17 @@ Members and procedure of Commission
 
 - 14. Fees and allowances payable to members of committee
 
-  - (1) The Commission may pay to the members of a committee such fees and allowances as the Secretary for Home Affairs, after consulting with the Secretary for the Treasury, determines.
+  - (1) The Commission may pay to the members of a committee such fees and allowances as the Secretary for Home Affairs, after consulting with the Secretary for Financial Services and the Treasury, determines.
 
   - (2) The provisions of this section shall—
 
     - (a) not apply in the case of any member of a committee who is a public officer; and
 
-    - (b) apply in the case of a member of a committee who is a member of the Commission only to such extent as the Secretary for Home Affairs, after consulting with the Secretary for the Treasury, determines. Finances, etc. of Commission
+    - (b) apply in the case of a member of a committee who is a member of the Commission only to such extent as the Secretary for Home Affairs, after consulting with the Secretary for Financial Services and the Treasury, determines.
+
+- (Amended L.N. 106 of 2002)
+
+- Finances, etc. of Commission
 
 - 15. Resources of Commission
 
@@ -200,15 +202,15 @@ Members and procedure of Commission
 
     - (b) all other money and property, including gifts, donations, fees, rent, interest and accumulations of income received by the Commission.
 
-  - (2) The Secretary for the Treasury may give directions in writing of a general or specific character to the Commission in relation to the amount of money which may be expended by the Commission in any financial year and the Commission shall comply with those directions.
+  - (2) The Secretary for Financial Services and the Treasury may give directions in writing of a general or specific character to the Commission in relation to the amount of money which may be expended by the Commission in any financial year and the Commission shall comply with those directions. (Amended L.N. 106 of 2002)
 
 - 16. Borrowing powers
 
   - (1) Subject to subsection (2), the Commission may borrow by way of overdraft such money as it may require for meeting its obligations or performing its functions under this Ordinance.
 
-  - (2) The Secretary for Home Affairs may, after consulting with the Secretary for the Treasury, give directions in writing of a general or specific character to the Commission in relation to the amount of money which may be borrowed under subsection (1) and the Commission shall comply with those directions.
+  - (2) The Secretary for Home Affairs may, after consulting with the Secretary for Financial Services and the Treasury, give directions in writing of a general or specific character to the Commission in relation to the amount of money which may be borrowed under subsection (1) and the Commission shall comply with those directions. (Amended L.N. 106 of 2002)
 
-  - (3) The Commission may with the approval of the Secretary for Home Affairs given after the Secretary has consulted with the Secretary for the Treasury borrow, otherwise than by way of overdraft, such money as it may require for meeting its obligations or performing its functions under this Ordinance.
+  - (3) The Commission may with the approval of the Secretary for Home Affairs given after the Secretary has consulted with the Secretary for Financial Services and the Treasury borrow, otherwise than by way of overdraft, such money as it may require for meeting its obligations or performing its functions under this Ordinance. (Amended L.N. 106 of 2002)
 
   - (4) A person lending money to the Commission shall not be concerned to inquire whether the borrowing of the money is legal or regular or whether the money raised has been properly applied and shall not be prejudiced by any illegality or irregularity or by misapplication or non-application of the money.
 
@@ -216,7 +218,7 @@ Members and procedure of Commission
 
   - (1) Subject to subsection (2), the Commission may invest money that is not immediately required to be expended.
 
-  - (2) The Commission shall not invest money pursuant to subsection (1) except in such forms of investment as the Secretary for Home Affairs, after consulting with the Secretary for the Treasury, approves.
+  - (2) The Commission shall not invest money pursuant to subsection (1) except in such forms of investment as the Secretary for Home Affairs, after consulting with the Secretary for Financial Services and the Treasury, approves. (Amended L.N. 106 of 2002)
 
 - 18. Accounts, audit and annual report of Commission
 

@@ -40,11 +40,11 @@ To: Chairman of the Appeal Board
 
   - (c) where the Authority issues the construction noise permit and subsequently cancels the permit, by that cancellation.
 
-- 3. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board by sending it by registered post addressed to him at the office of the Secretary for the Environment and Food before the expiry of 21 days after the service upon you of the notice from the Authority in respect of the decision you wish to appeal against.
+- 3. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board by sending it by registered post addressed to him at the office of the Secretary for the Environment, Transport and Works before the expiry of 21 days after the service upon you of the notice from the Authority in respect of the decision you wish to appeal against.
 
 - 4. At the same time that this notice is lodged you are required to serve a copy of the notice on the Noise Control Authority, personally, or by registered post addressed to the last known address of the Authority and to furnish to the Authority and the Chairman a statement specifying the particulars of the appeal which you seek to establish, including such particulars of evidence to be adduced, documents to be produced, names of witnesses to be called and other circumstances as may suffice to ensure that the Appeal Board and the Authority are fully and fairly informed of the grounds on which the appeal is based. You may also be required to furnish further particulars or produce documents for the inspection of the Authority.
 
-- 5. You are advised to read the Noise Control Ordinance (Cap. 400), the Noise Control (General) Regulations (Cap. 400 sub. leg.) and the Noise Control (Appeal Board) Regulations (Cap. 400 sub. leg.) before lodging this notice of appeal. (L.N. 65 of 1995; 80 of 1997 s. 102; 78 of 1999 s. 7)
+- 5. You are advised to read the Noise Control Ordinance (Cap. 400), the Noise Control (General) Regulations (Cap. 400 sub. leg.) and the Noise Control (Appeal Board) Regulations (Cap. 400 sub. leg.) before lodging this notice of appeal. (L.N. 65 of 1995; 80 of 1997 s. 102; 78 of 1999 s. 7; L.N. 106 of 2002)
 
 FORM 2 | [regulation 4]
 
@@ -70,11 +70,11 @@ To: Chairman of the Appeal Board
 
   - (b) by the service on him of a notice under section 13(4) varying the requirements of a noise abatement notice under section 13(1).
 
-- 2. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board by sending it by registered post addressed to him at the office of the Secretary for the Environment and Food before the expiry of 21 days after the service upon you of the notice from the Authority in respect of the decision you wish to appeal against.
+- 2. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board by sending it by registered post addressed to him at the office of the Secretary for the Environment, Transport and Works before the expiry of 21 days after the service upon you of the notice from the Authority in respect of the decision you wish to appeal against.
 
 - 3. At the same time that this notice is lodged you are required to serve a copy of the notice on the Noise Control Authority, personally, or by registered post addressed to the last known address of the Authority and to furnish to the Authority and the Chairman a statement specifying the particulars of the appeal which you seek to establish, including such particulars of evidence to be adduced, documents to be produced, names of witnesses to be called and other circumstances as may suffice to ensure that the Appeal Board and the Authority are fully and fairly informed of the grounds on which the appeal is based. You may also be required to furnish further particulars or produce documents for the inspection of the Authority.
 
-- 4. You are advised to read the Noise Control Ordinance (Cap. 400), the Noise Control (General) Regulations (Cap. 400 sub. leg.) and the Noise Control (Appeal Board) Regulations (Cap. 400 sub. leg.) before loading this notice of appeal. (L.N. 65 of 1995; 80 of 1997 s.102; 78 of 1999 s. 7)
+- 4. You are advised to read the Noise Control Ordinance (Cap. 400), the Noise Control (General) Regulations (Cap. 400 sub. leg.) and the Noise Control (Appeal Board) Regulations (Cap. 400 sub. leg.) before loading this notice of appeal. (L.N. 65 of 1995; 80 of 1997 s.102; 78 of 1999 s. 7; L.N. 106 of 2002)
 
 FORM 2A | [regulation 4]
 
@@ -100,11 +100,11 @@ Before completing this form read the note below To: Chairman of the Appeal Board
 
   - (b) by the service on him of a notice under section 16(3) varying the requirements of a notice under section 16(1).
 
-- 2. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board by sending it by registered post addressed to him at the office of the Secretary for the Environment and Food before the expiry of 21 days after the service upon you of the notice from the Authority in respect of the decision you wish to appeal against.
+- 2. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board by sending it by registered post addressed to him at the office of the Secretary for the Environment, Transport and Works before the expiry of 21 days after the service upon you of the notice from the Authority in respect of the decision you wish to appeal against.
 
 - 3. At the same time that this notice is lodged you are required to serve a copy of the notice on the Noise Control Authority, personally, or by registered post addressed to the last known address of the Authority and to furnish to the Authority and the Chairman a statement specifying the particulars of the appeal which you seek to establish, including such particulars of evidence to be adduced, documents to be produced, names of witnesses to be called and other circumstances as may suffice to ensure that the Appeal Board and the Authority are fully and fairly informed of the grounds on which the appeal is based. You may also be required to furnish further particulars or produce documents for the inspection of the Authority.
 
-- 4. You are advised to read the Noise Control Ordinance (Cap. 400), the Noise Control (General) Regulations (Cap. 400 sub. leg.) and the Noise Control (Appeal Board) Regulations (Cap. 400 sub. leg.) before lodging this notice of appeal. (L.N. 424 of 1991; L.N. 65 of 1995; 80 of 1997 s. 102; 78 of 1999 s. 7)
+- 4. You are advised to read the Noise Control Ordinance (Cap. 400), the Noise Control (General) Regulations (Cap. 400 sub. leg.) and the Noise Control (Appeal Board) Regulations (Cap. 400 sub. leg.) before lodging this notice of appeal. (L.N. 424 of 1991; L.N. 65 of 1995; 80 of 1997 s. 102; 78 of 1999 s. 7; L.N. 106 of 2002)
 
 FORM 3 | [regulations 8 & 13]
 

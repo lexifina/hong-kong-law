@@ -578,8 +578,12 @@ Introductory
 
     - Saving of subsidiary legislation
 
-- 41. Until rules are made by the Chief Justice under section 174 of this Ordinance, the Copyright Tribunal Rules (App. I, p. BF1)* in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance.
+- 41. Until rules are made by the Chief Justice under section 174 of this Ordinance, the Copyright Tribunal Rules (App. I, p. BF1)+ in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance.
 
 - 42. Until rules of court under the High Court Ordinance (Cap. 4) are made for the purposes of sections 144 and 271 of this Ordinance, the Copyright (Border Measures) Rules (L.N. 482 of 1996) , so far as they are not inconsistent with this Ordinance, continue in force and have effect as if made for the purposes of those sections subject to such necessary adaptations and modifications as may be necessary for those rules to have effect under the appropriate Part of this Ordinance. (Amended 25 of 1998 s. 2)
 
-- 43. Until regulations are made by the Secretary for Commerce and Industry under section 46 of this Ordinance, the Copyright (Libraries) Regulations (App. I, p. AJ1) as amended and in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance. (Amended L.N. 173 of 2000) - * Please also see L.N. 5 of 1997.
+- 43. Until regulations are made by the Secretary for Commerce, Industry and Technology under section 46 of this Ordinance, the Copyright (Libraries) Regulations (App. I, p. AJ1) as amended and in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance. (Amended L.N. 173 of 2000; L.N. 106 of 2002)
+
+Editorial Note:
+
++ Please also see L.N. 5 of 1997.

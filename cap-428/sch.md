@@ -4,8 +4,6 @@
 
 PROVISIONS AS RESPECTS THE COUNCIL AND ITS MEMBERS
 
-(Adaptation amendments retroactively made - see 37 of 2000 s. 3)
-
 - 1.
 
   - (1) A member of the Council shall hold his office in accordance with the terms of his appointment.
@@ -44,7 +42,7 @@ PROVISIONS AS RESPECTS THE COUNCIL AND ITS MEMBERS
 
   - (5) The Council may make rules, not inconsistent with this section, setting out the procedures to be followed at meetings.
 
-  - (6) The Council shall lodge a copy of any rules made under subsection (5) with the Secretary for Health and Welfare.
+  - (6) The Council shall lodge a copy of any rules made under subsection (5) with the Secretary for Health, Welfare and Food. (Amended L.N. 106 of 2002)
 
 - 5. The Council may transact any of its business by circulation of papers amongst members whether any such member is in or outside Hong Kong, and a resolution in writing which is approved in writing by a majority of the members shall be as valid and effectual as if it had been passed at a meeting of the Council.
 

@@ -4,8 +4,6 @@
 
 AUTHORIZED INVESTMENTS
 
-(Adaptation amendments retroactively made - see 29 of 1998 s. 105)
-
 - 1. Any shares or debentures which are issued or allotted by a company and which satisfy the following conditions at the date the investment is made—
 
   - (a) in the case of shares—
@@ -94,10 +92,10 @@ AUTHORIZED INVESTMENTS
 
   - (a) | For long-term debt (one year or over)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | A3 A—
 
-  - or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services.
+  - or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
 
   - (b) | For short-term debt (less than one year)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | Prime-1 A-1
 
-  - or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services.
+  - or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
 
 - (Second Schedule replaced L.N. 177 of 1995)

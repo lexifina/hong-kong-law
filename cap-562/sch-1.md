@@ -504,7 +504,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (i) to the Broadcasting Authority;
 
-        - (ii) to the Secretary for Information Technology and Broadcasting; or
+        - (ii) to the Secretary for Commerce, Industry and Technology; or (Amended L.N. 106 of 2002)
 
         - (iii) in connection with civil proceedings to which the licensee is a party.
 
@@ -868,7 +868,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (i) to the Broadcasting Authority;
 
-        - (ii) to the Secretary for Information Technology and Broadcasting; or
+        - (ii) to the Secretary for Commerce, Industry and Technology; or (Amended L.N. 106 of 2002)
 
         - (iii) in connection with civil proceedings to which the licensee is a party.
 

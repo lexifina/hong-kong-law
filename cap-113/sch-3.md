@@ -4,8 +4,6 @@
 
 PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
-(Adaptation amendments retroactively made - see 60 of 2000 s. 3)
-
 - 1. Interpretation In this Schedule—
 
   - “Director of Operations” (執行總監) means the principal officer appointed by the Authority to be the Director of Operations for the Authority;
@@ -62,7 +60,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
 - 6. Fees and allowances payable to members of Authority
 
-  - (1) The Authority may pay its members such fees and allowances as the Secretary for Health and Welfare, after consulting with the Secretary for the Treasury, determines.
+  - (1) The Authority may pay its members such fees and allowances as the Secretary for Health, Welfare and Food, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002)
 
   - (2) The provisions of this paragraph shall not apply to any member of the Authority who is a public officer.
 
@@ -256,13 +254,15 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
 - 18. Fees and allowances payable to members of committee
 
-  - (1) The Authority may pay to the members of a committee such fees and allowances as the Secretary for Health and Welfare, after consulting with the Secretary for the Treasury, determines.
+  - (1) The Authority may pay to the members of a committee such fees and allowances as the Secretary for Health, Welfare and Food, after consulting with the Secretary for Financial Services and the Treasury, determines.
 
   - (2) The provisions of this paragraph shall—
 
     - (a) not apply in the case of any member of a committee who is a public officer; and
 
-    - (b) apply in the case of a member of a committee who is a member of the Authority only to such extent as the Secretary for Health and Welfare, after consulting with the Secretary for the Treasury, determines.
+    - (b) apply in the case of a member of a committee who is a member of the Authority only to such extent as the Secretary for Health, Welfare and Food, after consulting with the Secretary for Financial Services and the Treasury, determines.
+
+- (Amended L.N. 106 of 2002)
 
 - 19. Authority not to delegate certain functions and powers The Authority shall not delegate under section 6 any functions or powers imposed or conferred on it under paragraph 3, 6 or 10(1)(a), (4) or (5).
 

@@ -424,7 +424,7 @@ Registrar of Occupational Retirement Schemes | Occupational Retirement Schemes O
 
 Secretary for Broadcasting, Culture and Sport (L.N. 372 of 1996) | Books Registration Ordinance (Chapter 142). (L.N. 403 of 1995)
 
-Secretary for Economic Services | Merchant Shipping (Safety) Ordinance (Chapter 369), section 5. (L.N. 94 of 1984)
+Secretary for Economic Development and Labour (L.N. 106 of 2002) | Merchant Shipping (Safety) Ordinance (Chapter 369), section 5. (L.N. 94 of 1984)
 
 *Secretary for Home Affairs | Books Registration Ordinance (Chapter 142). (18 of 2014 s. 66)
 
@@ -446,11 +446,11 @@ Secretary for Security | Immigration Ordinance (Chapter 115), section 32(2A). (L
 
 Secretary for Security | Public Order Ordinance (Chapter 245), section 31(6)(i) only. (L.N. 158 of 1977)
 
-Secretary for Transport | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 308 of 1988)
+Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 308 of 1988)
 
-Secretary for Transport | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 133 of 1986)
+Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 133 of 1986)
 
-Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
+Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
 (L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40)
 

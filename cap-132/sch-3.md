@@ -22,7 +22,7 @@ Section | Designated Authorities
 
 14 | Director of Food and Environmental Hygiene
 
-15 | Secretary for the Environment and Food
+15 | Secretary for Health, Welfare and Food
 
 20 | Director of Food and Environmental Hygiene
 
@@ -36,13 +36,13 @@ Section | Designated Authorities
 
 24 | Director of Food and Environmental Hygiene
 
-26 | Secretary for the Environment and Food
+26 | Secretary for Health, Welfare and Food
 
 27 | Director of Food and Environmental Hygiene
 
-28 | Secretary for the Environment and Food
+28 | Secretary for Health, Welfare and Food
 
-29 | Secretary for the Environment and Food
+29 | Secretary for Health, Welfare and Food
 
 30 | Director of Food and Environmental Hygiene
 
@@ -52,7 +52,7 @@ Section | Designated Authorities
 
 34 | Director of Food and Environmental Hygiene
 
-35 | Secretary for the Environment and Food
+35 | Secretary for Health, Welfare and Food
 
 36 | Director of Food and Environmental Hygiene
 
@@ -60,7 +60,7 @@ Section | Designated Authorities
 
 38 | Director of Food and Environmental Hygiene
 
-42 | Secretary for Home Affairs in respect of public swimming pools and the Secretary for the Environment and Food in respect of other swimming pools
+42 | Secretary for Home Affairs in respect of public swimming pools and the Secretary for Health, Welfare and Food in respect of other swimming pools
 
 42A | Director of Leisure and Cultural Services
 
@@ -76,7 +76,7 @@ Section | Designated Authorities
 
 48 | Director of Food and Environmental Hygiene
 
-49 | Secretary for the Environment and Food
+49 | Secretary for Health, Welfare and Food
 
 51A | Director of Food and Environmental Hygiene
 
@@ -100,7 +100,7 @@ Section | Designated Authorities
 
 76B | Director of Food and Environmental Hygiene
 
-77 | Secretary for the Environment and Food
+77 | Secretary for Health, Welfare and Food
 
 78 | Director of Food and Environmental Hygiene
 
@@ -108,13 +108,13 @@ Section | Designated Authorities
 
 79A | Director of Food and Environmental Hygiene
 
-80 | Secretary for the Environment and Food
+80 | Secretary for Health, Welfare and Food
 
 81 | Director of Food and Environmental Hygiene
 
 82 | Director of Food and Environmental Hygiene
 
-83A | Secretary for the Environment and Food, but the Director of Food and Environmental Hygiene for section 83A(1)(g) and (i)
+83A | Secretary for Health, Welfare and Food, but the Director of Food and Environmental Hygiene for section 83A(1)(g) and (i)
 
 83B | Director of Food and Environmental Hygiene
 
@@ -130,19 +130,19 @@ Section | Designated Authorities
 
 92AB | Director of Food and Environmental Hygiene
 
-92B | Secretary for Home Affairs in respect of any activity specified in the Eleventh Schedule and the Secretary for the Environment and Food in respect of any activity specified in Schedule 11A
+92B | Secretary for Home Affairs in respect of any activity specified in the Eleventh Schedule and the Secretary for Health, Welfare and Food in respect of any activity specified in Schedule 11A
 
 93 | Director of Food and Environmental Hygiene
 
 94 | Director of Food and Environmental Hygiene
 
-94A | Secretary for the Environment and Food
+94A | Secretary for Health, Welfare and Food
 
 100 | Director of Food and Environmental Hygiene
 
 101 | Director of Food and Environmental Hygiene
 
-104 | Secretary for the Environment and Food
+104 | Secretary for Health, Welfare and Food
 
 105 | Director of Buildings
 
@@ -202,7 +202,7 @@ Section | Designated Authorities
 
 115 | Director of Food and Environmental Hygiene in respect of cemeteries specified in Part I of the Fifth Schedule
 
-116 | Secretary for the Environment and Food in respect of cemeteries specified in Parts I and II of the Fifth Schedule
+116 | Secretary for Health, Welfare and Food in respect of cemeteries specified in Parts I and II of the Fifth Schedule
 
 117 | Director of Food and Environmental Hygiene
 
@@ -214,13 +214,13 @@ Section | Designated Authorities
 
 121 | Director of Food and Environmental Hygiene
 
-123 | Secretary for the Environment and Food
+123 | Secretary for Health, Welfare and Food
 
 123A | Director of Food and Environmental Hygiene
 
 123B | Director of Food and Environmental Hygiene
 
-123C | Secretary for the Environment and Food
+123C | Secretary for Health, Welfare and Food
 
 124 | Director of Food and Environmental Hygiene
 
@@ -232,9 +232,9 @@ Section | Designated Authorities
 
 124D | Director of Food and Environmental Hygiene
 
-124E | Secretary for the Environment and Food
+124E | Secretary for Health, Welfare and Food
 
-124I | Secretary for the Environment and Food
+124I | Secretary for Health, Welfare and Food
 
 124J | Secretary for Home Affairs
 
@@ -246,4 +246,4 @@ Section | Designated Authorities
 
 127 | Director of Food and Environmental Hygiene
 
-(Schedule 3 replaced 78 of 1999 s. 7)
+(Schedule 3 replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002)

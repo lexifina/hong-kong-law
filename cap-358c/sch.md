@@ -4,9 +4,13 @@
 
 FORM 1 | [regulation 3]
 
-NOTICE OF APPEAL Appeal against a requirement or decision of the Authority or Secretary under the
+NOTICE OF APPEAL Appeal against a requirement or decision of the Authority or
 
-Water Pollution Control Ordinance
+Secretary for the Environment, Transport and Works
+
+under the Water Pollution Control Ordinance
+
+(L.N. 106 of 2002)
 
 To: The Chairman, Water Pollution Control Appeal Boards
 
@@ -30,9 +34,7 @@ To: The Chairman, Water Pollution Control Appeal Boards
 
 - FORM 2 | [regulation 4]
 
-- NOTICE OF TIME AND PLACE FIXED FOR HEARING OF AN APPEAL Appeal No.: . of 19. In the matter of the Appeal lodged by . (Appellant) against the requirement or decision contained in a notice issued under the Water Pollution Control Ordinance on the . day of .19 . To . (Appellant). TAKE NOTICE that the above appeal will be heard at . on the day of . 19 . at . a.m./p.m. AND TAKE NOTICE that if you do not attend at the time and place mentioned, either in person or by a person duly authorized to appear on your behalf, the appeal may be dismissed or be heard in your absence. Dated this . day of . 19 . .
-
-- Chairman of Appeal Boards. - This notice was served by me on . at .
+- NOTICE OF TIME AND PLACE FIXED FOR HEARING OF AN APPEAL Appeal No.: . of 19. In the matter of the Appeal lodged by . (Appellant) against the requirement or decision contained in a notice issued under the Water Pollution Control Ordinance on the . day of .19 . To . (Appellant). TAKE NOTICE that the above appeal will be heard at . on the day of . 19 . at . a.m./p.m. AND TAKE NOTICE that if you do not attend at the time and place mentioned, either in person or by a person duly authorized to appear on your behalf, the appeal may be dismissed or be heard in your absence. Dated this . day of . 19 . . Chairman of Appeal Boards. - This notice was served by me on . at .
 
 - on the . day of .19 .
 

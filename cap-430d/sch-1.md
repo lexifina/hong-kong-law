@@ -36,7 +36,7 @@ SERVICES TO BE PROVIDED UNDER THE TRADING FUND
 
   - (o) advice to the Government; and
 
-  - (p) carrying out functions in accordance with directions by the Secretary for Information Technology and Broadcasting on general telecommunications policy matters. (L.N. 206 of 1998)
+  - (p) carrying out functions in accordance with directions by the Secretary for Commerce, Industry and Technology on general telecommunications policy matters. (L.N. 206 of 1998; L.N. 106 of 2002)
 
 - 2. Performing any of the services specified in this Schedule under administrative or statutory authority, as appropriate.
 

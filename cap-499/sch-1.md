@@ -184,7 +184,7 @@ In this Ordinance, unless the context otherwise requires—
 
 - “road tunnel” (行車隧道) means a private or public tunnel and its portal area within the meaning of the Road Tunnels (Government) Ordinance (Cap. 368);
 
-- “Secretary” (局長) means the Secretary for the Environment and Food; (Replaced 78 of 1999 s. 7)
+- “Secretary” (局長) means the Secretary for the Environment, Transport and Works; (Replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002)
 
 - “service reservoir” (配水庫) means a place or structure where water from a water treatment works is stored for delivery to other service reservoirs for distribution to the consumers of a water supply district;
 

@@ -18,7 +18,7 @@ FINANCES, ETC. OF OMBUDSMAN
 
   - (1) Subject to subsection (2), the Ombudsman may invest his funds that are not immediately required to be expended.
 
-  - (2) The Ombudsman shall not invest funds pursuant to subsection (1) except in such form of investment as the Director of Administration, after consulting with the Secretary for the Treasury, approves.
+  - (2) The Ombudsman shall not invest funds pursuant to subsection (1) except in such form of investment as the Director of Administration, after consulting with the Secretary for Financial Services and the Treasury, approves. (Amended L.N. 106 of 2002)
 
 - 3. Accounts, audit and annual report of Ombudsman
 

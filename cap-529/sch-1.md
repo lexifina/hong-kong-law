@@ -6,13 +6,11 @@ PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
 
 - 1.
 
-  - (1) A member of the Board shall hold his office in accordance with the terms of his
+  - (1) A member of the Board shall hold his office in accordance with the terms of his appointment.
 
-  - appointment.
+  - (2) A member of the Board may at any time by notice in writing to the Secretary for Health, Welfare and Food resign his office. (Amended 78 of 1999 s. 7; L.N. 106 of 2002)
 
-  - (2) A member of the Board may at any time by notice in writing to the Secretary for the Environment and Food resign his office. (Amended 78 of 1999 s. 7)
-
-- 2. If the Secretary for the Environment and Food is satisfied that a member of the Board—
+- 2. If the Secretary for Health, Welfare and Food is satisfied that a member of the Board—
 
   - (a) has become bankrupt or made a voluntary arrangement with his creditors within the meaning of the Bankruptcy Ordinance (Cap. 6);
 
@@ -20,7 +18,7 @@ PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
 
   - (c) is otherwise unable or unfit to discharge the functions of a member,
 
-- the Secretary for the Environment and Food may declare his office as a member of the Board to be vacant, and shall notify the fact in such manner as the Secretary for the Environment and Food thinks fit; and upon such declaration the office shall become vacant. (Amended 78 of 1999 s. 7)
+- the Secretary for Health, Welfare and Food may declare his office as a member of the Board to be vacant, and shall notify the fact in such manner as the Secretary for Health, Welfare and Food thinks fit; and upon such declaration the office shall become vacant. (Amended 78 of 1999 s. 7; L.N. 106 of 2002)
 
 - 3.
 
@@ -34,10 +32,12 @@ PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
 
   - (5) The Board may make rules, not inconsistent with this section, setting out the procedures to be followed at meetings.
 
-  - (6) The Board shall lodge a copy of any rules made under subsection (5) with the Secretary for the Environment and Food. (Amended 78 of 1999 s. 7)
+  - (6) The Board shall lodge a copy of any rules made under subsection (5) with the Secretary for Health, Welfare and Food. (Amended 78 of 1999 s. 7; L.N. 106 of 2002)
 
 - 4. The Board may transact any of its business by circulation of papers amongst members whether any such member is in or outside Hong Kong, and a resolution in writing which is approved in writing by a majority of the members shall be as valid and effectual as if it had been passed at a meeting of the Board.
 
-- 5. A certificate signed by the Secretary that an instrument of the Board purporting to be made or issued by or on behalf of the Board was so made or issued shall be conclusive evidence of that fact.
+- 5. A certificate signed by the Secretary that an instrument of the Board purporting to be
+
+- made or issued by or on behalf of the Board was so made or issued shall be conclusive evidence of that fact.
 
 - 6. Every document purporting to be an instrument made or issued by or on behalf of the Board and to be signed or executed by the Secretary or a person authorized by the Board to act in that behalf, shall be received in evidence and deemed, without further proof, to be so made or issued.

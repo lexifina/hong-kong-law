@@ -16,7 +16,7 @@ FINANCES, ETC. OF COMMISSIONER
 
     - (b) all other money and property, including gifts, donations, fees, rent, interest and accumulations of income received by the Commissioner.
 
-  - (2) The Secretary for the Treasury may give directions in writing of a general or specific character to the Commissioner in relation to the amount of money which may be expended by the Commissioner in any financial year and the Commissioner shall comply with those directions.
+  - (2) The Secretary for Financial Services and the Treasury may give directions in writing of a general or specific character to the Commissioner in relation to the amount of money which may be expended by the Commissioner in any financial year and the Commissioner shall comply with those directions. (Amended L.N. 106 of 2002)
 
   - (3) For the avoidance of doubt, it is hereby declared that any remuneration or other benefit payable to, and any expenses of—
 
@@ -30,17 +30,19 @@ FINANCES, ETC. OF COMMISSIONER
 
   - (1) Subject to subsection (2), the Commissioner may borrow by way of overdraft such money as he may require for meeting his obligations or performing his functions under this Ordinance.
 
-  - (2) The Secretary for Home Affairs may, after consulting with the Secretary for the Treasury, give directions in writing of a general or specific character to the Commissioner in relation to the amount of money which may be borrowed under subsection (1) and the Commissioner shall comply with those directions.
+  - (2) The Secretary for Home Affairs may, after consulting with the Secretary for Financial Services and the Treasury, give directions in writing of a general or specific character to the Commissioner in relation to the amount of money which may be borrowed under subsection (1) and the Commissioner shall comply with those directions.
 
-  - (3) The Commissioner may with the approval of the Secretary for Home Affairs given after the Secretary has consulted with the Secretary for the Treasury borrow, otherwise than by way of overdraft, such money as he may require for meeting his obligations or performing his functions under this Ordinance.
+  - (3) The Commissioner may with the approval of the Secretary for Home Affairs given after the Secretary has consulted with the Secretary for Financial Services and the Treasury borrow, otherwise than by way of overdraft, such money as he may require for meeting his obligations or performing his functions under this Ordinance.
 
   - (4) A person lending money to the Commissioner shall not be concerned to inquire whether the borrowing of the money is legal or regular or whether the money raised has been properly applied and shall not be prejudiced by any illegality or irregularity or by misapplication or non-application of the money.
+
+- (Amended L.N. 106 of 2002)
 
 - 3. Investment of surplus funds
 
   - (1) Subject to subsection (2), the Commissioner may invest money that is not immediately required to be expended.
 
-  - (2) The Commissioner shall not invest money pursuant to subsection (1) except in such forms of investment as the Secretary for Home Affairs, after consulting with the Secretary for the Treasury, approves.
+  - (2) The Commissioner shall not invest money pursuant to subsection (1) except in such forms of investment as the Secretary for Home Affairs, after consulting with the Secretary for Financial Services and the Treasury, approves. (Amended L.N. 106 of 2002)
 
   - (3) Subsection (1) shall not be subject to section 10(1) of this Ordinance.
 
