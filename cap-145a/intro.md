@@ -1,0 +1,5 @@
+CONTROL OF CHEMICALS REGULATIONS
+
+(Cap. 145, section 16)
+
+[1 September 1975]
