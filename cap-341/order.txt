@@ -85,6 +85,13 @@ s-037.md
 s-038.md
 s-039.md
 s-040.md
+s-040A.md
+s-040B.md
+s-040C.md
+s-040D.md
+s-040E.md
+s-040F.md
+s-040G.md
 s-041.md
 s-042.md
 s-043.md
