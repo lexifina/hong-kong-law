@@ -1,5 +1,3 @@
 TELEVISION (PROGRAMMES) REGULATION
 
-(Cap. 52, section 32A)
-
-[30 May 1997] L.N. 291 of 1997
+(Ceased to be in force)
