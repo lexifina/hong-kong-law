@@ -26,11 +26,11 @@ Labour Department (i) Factory Inspector (ii) Factory Inspector I (iii) Factory I
 
 Lands Department (Amended L.N. 283 of 1993) (i) Senior Land Executive (ii) Land Executive (iii) Senior Survey Officer (Estate) | (a) Any offence under the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg.). (Replaced 78 of 1999 s. 7) (b) (Repealed 78 of 1999 s. 7)
 
-Leisure and Cultural Services Department (i) Amenities Officer (ii) Amenities Assistant (iii) Senior Foreman (iv) Foreman | (a) Any offence under Part III of the Public Health and Municipal Services Ordinance (Cap. 132).
+Leisure and Cultural Services Department (i) Amenities Officer (ii) Amenities Assistant (iii) Senior Foreman (iv) Foreman (v) Leisure Services Manager (Added L.N. 89 of 2002) | (a) Any offence under Part III of the Public Health and Municipal Services Ordinance (Cap. 132).
 
-(i) Amenities Officer (ii) Amenities Assistant (iii) Curator (iv) Senior Foreman (v) Foreman (vi) Librarian (vii) Manager, Cultural Services (viii) Recreation and Sports Officer | (b) Any offence under the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg.).
+(i) Amenities Officer (ii) Amenities Assistant (iii) Curator (iv) Senior Foreman (v) Foreman (vi) Librarian (vii) Manager, Cultural Services (viii) Recreation and Sports Officer (ix) Leisure Services Manager (Added L.N. 89 of 2002) | (b) Any offence under the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg.).
 
-(i) Amenities Officer (ii) Amenities Assistant (iii) Senior Foreman (iv) Foreman (v) Recreation and Sports Officer | (c) Any offence under section 4D(1) of the Summary Offences Ordinance (Cap. 228). (Added 78 of 1999 s. 7)
+(i) Amenities Officer (ii) Amenities Assistant (iii) Senior Foreman (iv) Foreman (v) Recreation and Sports Officer (vi) Leisure Services Manager (Added L.N. 89 of 2002) | (c) Any offence under section 4D(1) of the Summary Offences Ordinance (Cap. 228). (Added 78 of 1999 s. 7)
 
 Marine Department (i) Marine Officer (ii) Assistant Marine Officer (iii) Marine Inspector I (iv) Marine Inspector II | (a) Any offence under the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg.). (Replaced 78 of 1999 s. 7) (b) (Repealed 78 of 1999 s. 7) (c) Any offence under section 4D(1) of the Summary Offences Ordinance (Cap. 228).
 
