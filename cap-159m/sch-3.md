@@ -4,8 +4,6 @@
 
 EXCLUSIONS AND CONDITIONS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 - 1. Exclusions
 
   - (1) Save as provided below, the fund shall not provide Indemnity in respect of the deductibles of any one claim as set out in paragraph 2(2):
@@ -34,7 +32,7 @@ EXCLUSIONS AND CONDITIONS
 
       - (ii) for the payment of a trading debt incurred by the indemnified;
 
-      - (iii) brought about by the dishonesty, fraudulent act or fraudulent omission of the principal; (L.N. 111 of 1992; L.N. 58 of 1993)
+      - (iii) brought about by the dishonesty, fraudulent act or fraudulent omission of the principal; (L.N. 58 of 1993)
 
       - (iiia) brought about by the dishonesty, fraudulent act or fraudulent omission of an employee of the Practice unless the indemnified can prove or show to the satisfaction of the Company that such dishonesty, fraudulent act or fraudulent omission of the employee did not occur as a result of recklessness or dishonesty or a fraudulent act or fraudulent omission on the part of a principal in the conduct or management of the Practice; (L.N. 546 of 1994)
 
@@ -52,9 +50,31 @@ EXCLUSIONS AND CONDITIONS
 
       - (x) which arises from circumstances occurring when a receipt has not been issued to the indemnified under rule 9 because of the failure of any principal to comply with any provision of these rules. (L.N. 359 of 1993)
 
+      - (xi) which arises directly or indirectly from or is in any way connected with the fact that any Computer Equipment is not Year 2000 Compliant or any cost or expense incurred in preventing or remedying the same (except insofar as the Computer Equipment in question is not owned or operated by the indemnified or a company, the principal business of which is the provision of services ancillary to the indemnified’s business of practising as a solicitor and such claim arises solely from advice which the indemnified has given to his clients in the course of his business of practising as a solicitor); (L.N. 218 of 1999)
+
     - (d) a direct or indirect loss by the indemnified of the amount of his fees or profit costs and disbursements; (L.N. 58 of 1993)
 
     - (e) a loss or expense incurred by the indemnified in connection with a claim against the indemnified, including a loss or expense however incurred whether in connection with the notification of the claim to the Company, the investigation of the claim by the Company or panel solicitor, the preparation of the defence and the defence of the claim and the settlement of the claim or in connection generally with the indemnified’s obligations under paragraph 8(10) or otherwise, unless the Company has specifically agreed or specifically agrees in writing that it will pay them. For the purpose of this subparagraph loss and expense includes costs incurred by the indemnified in producing or reproducing and delivering files and documents required by the Company and panel solicitors, the costs incurred by the indemnified in respect of attendance at any meeting or court of law and the value of time expended by the indemnified in connection with the activities mentioned in this subparagraph. (L.N. 58 of 1993)
+
+  - (3) In subparagraph (2)(c)(xi) (notwithstanding anything to the contrary in these rules)—
+
+    - (a)
+
+      - “Computer Equipment” (電腦設備) includes but is not limited to any or any combination or part of data, computer hardware, firmware, operating system, application, software, computer chip including microprocessor chip or embedded control logic which is integrated or incorporated into another product or component, and any equipment, system, medium or device for processing, transmitting, storing or retrieving data, irrespective of by whom it is owned or operated;
+
+    - (b)
+
+      - “Year 2000 Compliant” (符合2000年數位標準) means that neither the performance nor functionality of any Computer Equipment is affected by any date or dates prior to, during or after Year 2000 and, in particular but without limitation, that—
+
+      - (i) no value for current date will cause any interruption or error in operation;
+
+      - (ii) date based functionality must behave consistently for dates prior to, during and after Year 2000;
+
+      - (iii) in all interfaces and data storage, the century in any date must be specified either explicitly or by unambiguous algorithms or inferencing rules; and
+
+      - (iv) Year 2000 must be recognized as a leap year. (L.N. 218 of 1999)
+
+  - (4) The Company may at its discretion, having regard to all or any of the circumstances of any claim made against any indemnified as may seem relevant to the Company, waive the exclusion set out in subparagraph (2)(c)(xi) in respect of such claim (other than any claim arising from obligations attaching to that indemnified as a result of acting as a director or officer of any company, the principal business of which is not the provision of services ancillary to the indemnified’s business of practising as a solicitor) in the event that that indemnified has completed and submitted to the Company before 30 September 1999 a questionnaire in a form to be determined by the Company to the satisfaction of the Company. (L.N. 218 of 1999)
 
 - 2. Determination of limit of Indemnity
 
