@@ -156,11 +156,11 @@ of .
 
 - (2) has satisfied the Society that he—
 
-  - (a) has complied with the provisions of the Continuing Legal Education Rules (Cap. 159 sub. leg. W);
+  - (a) has complied with the provisions of the repealed Continuing Legal Education Rules or the Continuing Professional Development Rules (Cap. 159 sub. leg. W); (L.N. 627 of 1997)
 
   - (b) has passed or obtained or been granted total exemption from the examinations required by rule 7 of the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
-  - (c) has been employed as a trainee solicitor for a period of . years to the atisfaction of the Society/has been granted exemption from employment as a trainee solicitor* in accordance with the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
+  - (c) has been employed as a trainee solicitor for a period of . years to the satisfaction of the Society/has been granted exemption from employment as a trainee solicitor* in accordance with the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
   - (d) has resided in Hong Kong for at least 3 months immediately before his admission/intends to reside in Hong Kong for at least 3 months immediately after his admission/has been ordinarily resident in Hong Kong for at least 7 years/has been present in Hong Kong for at least 180 days of each of at least 7 years*; and
 
@@ -291,6 +291,8 @@ and . of . . (the “Principal”),
     - (7) Trade Marks, Patents, Copyrights □
 
     - (8) Such other legal topic as may be determined from □ time to time by the Society
+
+  - 9. I have complied with the requirements of the Continuing Professional Development Scheme. (L.N. 627 of 1997)
 
 - (b) AND I, the Principal for myself say as follows—
 
