@@ -60,7 +60,7 @@
 
   - 6. The Kowloon-Canton Railway Corporation.
 
-  - 7. The Mass Transit Railway Corporation.
+  - 7. (Repealed 13 of 2000 s. 65)
 
   - 8. The Land Development Corporation.
 
