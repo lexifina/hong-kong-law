@@ -28,7 +28,7 @@ Road Traffic Ordinance (Cap. 374)
 
 8. | Section 52(9) | Contravening condition of a vehicle licence | $450
 
-Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg.G)
+Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 9. | Regulation 10(1) | Unlawfully entering box junction | $320
 
@@ -138,7 +138,7 @@ Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
 
 52. | Regulation 7A(1)(a) | Driving goods vehicle without being securely fastened with seat belt | $320
 
-53. | Regulation 7A(3) | Driving light bus when front seat passenger under 15 years of age not securely fastened with seat belt | $230
+53. | Regulation 7A(3) | Driving private light bus when front seat passenger under 15 years of age not securely fastened with seat belt (Amended L.N. 114 of 2004) | $230
 
 54. | Regulation 7A(3) | Driving goods vehicle when front seat passenger under 15 years of age not securely fastened with seat belt | $230
 
@@ -148,7 +148,7 @@ Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
 
 55B. | Regulation 7B(6) | Driving private car when rear seat passenger occupies rear seat without seat belt when there is vacant rear seat with seat belt (Added L.N. 219 of 2000) | $230
 
-Road Traffic (Expressway) Regulations (Cap. 374 sub. leg.Q)
+Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q)
 
 56. | Regulation 11 | Failing to comply with restriction on using offside lane (Added L.N. 255 of 1991) | $450
 
