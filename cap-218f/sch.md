@@ -8,93 +8,113 @@ TRAVEL AGENTS ORDINANCE (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT 
 
 AN OUTBOUND FARE FROM THE TRAVEL INDUSTRY
 
-COMPENSATION FUND UNDER SECTION
+COMPENSATION FUND UNDER SECTION 32E
 
-32E OF THE ORDINANCE
+OF THE ORDINANCE (For use by applicants applying on behalf of themselves)
 
-(L.N. 103 of 1996)
-
-(For use by applicants applying on behalf of themselves)
-
-*I/we, *a client/clients of .,
+*I/we, *a client/clients of | ,
 
 (name of travel agent)
 
-a licensed travel agent whose licence number is .,
+a licensed travel agent whose licence number is | ,
 
 hereby apply for an ex gratia payment from the Travel Industry Compensation Fund under section 32E of the Ordinance.
 
-- 2. *My/Our personal particulars are as follows—
+- 2.
 
-- (1) | (2) | (3) | (4)
+- *My/Our personal particulars are as follows—
 
-- (a) | Name in English (Mr/Mrs/Miss/Ms)
+(1) | (2) | (3) | (4)
 
-- Name in Chinese
+(a) | Name in English (Mr/Mrs/Miss/Ms)
 
-- Alias (if any)
+Name in Chinese
 
-- (b) | Date of birth
+Alias (if any)
 
-- (c) | Hong Kong Identity Card/Passport No. (if applicable)
+(b) | Date of birth
 
-- (d) | Residential address | # | # | # | #
+(c) | Hong Kong Identity Card/Passport No. (if applicable)
 
-- Telephone No.
+(d) | Residential address | # | # | # | #
 
-- Office address | # | # | # | #
+Telephone No.
 
-- Telephone No.
+Office address | # | # | # | #
 
-- (# Please tick the appropriate box, if it is also a correspondence address.) (Paragraph 2 should be completed only by applicants who are plaintiffs in a judgement or creditors in a proof of debt. If there are more than 4 applicants, please use a photocopy.)
+Telephone No.
 
-- 3. *My/Our application is in respect of a loss incurred in respect of a payment for travel services made by *me/us to the travel agent. *Moreover, *my/our application is for an amount not exceeding the specified amount. (Delete this sentence if application is not made in accordance with the simplified procedure.)— (L.N. 128 of 1997)
+(# Please tick the appropriate box, if it is also a correspondence address.)
 
-  - (a) particulars of which loss are— . .
+(Paragraph 2 should be completed only by applicants who are plaintiffs in a judgement or creditors in a proof of debt. If there are more than 4 applicants, please use a photocopy.)
 
-  - *(b) the circumstances in which the loss occurred are— . . (not necessary to complete where a judgment has been obtained)
+3. | *My/Our application is in respect of a loss incurred in respect of a payment for travel services made by *me/us to the travel agent. *Moreover, *my/our application is for an amount not exceeding the specified amount. (Delete this sentence if application is not made in accordance with the simplified procedure.)—
 
-- 4 In support of this application, *I/we attach the following documents—
+(a) | particulars of which loss are—
 
-  - (a) *One/ . original(s) of receipt(s) or certified true *copy/copies thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
+*(b) | the circumstances in which the loss occurred are—
 
-  - (b) *A copy/ . copies of *my/our Hong Kong Identity Card(s)/Passport(s).
+(not necessary to complete where a judgment has been obtained)
 
-  - *(c) A sealed copy of a judgment against the travel agent given by . (name of court)
+4. | In support of this application, *I/we attach the following documents—
 
-- on . (If a judgment is submitted, paragraph 6 will not be applicable.)
+(a) | *One/ . original(s) of receipt(s) or certified true *copy/copies thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
 
-- (date of judgment)
+(b) | *A copy/ . copies of *my/our Hong Kong Identity Card(s)/Passport(s).
 
-  - *(d) A proof of debt against the travel agent *lodged/to be lodged with . (liquidator/ . on . Official Receiver/trustee) (date) (If a proof of debt has been/is to be lodged, paragraph 6 will be applicable.)
+*(c) | A sealed copy of a judgment against the travel agent given by
 
-  - *(e) Documentary evidence of payment showing payment of the outbound fare. (L.N. 128 of 1997)
+.on
 
-  - *(f) Verification of payment of the outbound fare by an auditor or a person appointed by the Travel Industry Compensation Fund Management Board. (L.N. 128 of 1997)
+(name of court) (date of judgement)
 
-  - *(g) A statutory declaration stating that the payment(s) of the outbound fare(s) has (have) been made. (L.N. 128 of 1997)
+(If a judgment is submitted, paragraph 6 will not be applicable.)
 
-- 5. *I/We confirm that the *judgment/proof of debt referred to in paragraph 4 has remained unsatisfied for the following reasons (in relation to a judgment, provide information together with supporting documents as to what steps have been taken to enforce the judgment)— .
+*(d) | A proof of debt against the travel agent *lodged/to be lodged with
 
-- .
+(liquidator/Official Receiver/trustee)
 
-- .
+on.
 
-- *6.
+(date)
 
-- In consideration of *my/our receiving an ex gratia payment from the Travel Industry Compensation Fund, *I/we hereby assign *my/our right(s) to receive dividends, if any, from the Official Receiver/liquidator/trustee, to the Travel Industry Compensation Fund Management Board on the understanding that where such dividend is in excess of the ex gratia payment, the excess will be paid to *me/us. In the event that *my/our proof of debt is wholly rejected or admitted only in part, *I/we hereby undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt, as the case may be. (Please see notes under paragraph 4(c) and (d).) (L.N 544 of 1996; L.N. 128 of 1997)
+(If a proof of debt has been/is to be lodged, paragraph 6 will be applicable.)
 
-- (Delete this paragraph if application is made in accordance with the simplified procedure.) (L.N 128 of 1997)
+*(e) | Documentary evidence of payment showing payment of the outbound fare.
 
-  - *6A. In consideration of *my/our receiving an ex gratia payment from the Travel Industry Compensation Fund, *I/we assign *my/our right(s) to receive dividends, if any, from the Official Receiver/liquidator/trustee, to the Travel Industry Compensation Fund Management Board on the undertaking that where such dividend is in excess of the ex gratia payment, the excess will be paid to *me/us. In the event that *my/our proof of debt is wholly rejected or admitted only in part, *I/we hereby undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt as the case may be. *I/We also hereby undertake to abandon *my/our claim for the excess of *my/our outbound fare made to the travel agent upon *my/our receiving an ex gratia payment from the Travel Industry Compensation Fund. (Delete this paragraph if application is not made in accordance with the simplified procedure.) (L.N. 128 of 1997)
+*(f) | Verification of payment of the outbound fare by an auditor or a person appointed by the Travel Industry Compensation Fund Management Board.
 
-- 7. *I/We declare that all the information given by *me/us in this application is true and correct to the best of *my/our knowledge and belief. Signature of Applicant: (1) . ( ) (2) .
+*(g) | A statutory declaration stating that the payment(s) of the outbound fare(s) has (have) been made.
 
-- ( ) (3) .
+5. | *I/We confirm that the *judgment/proof of debt referred to in paragraph 4 has remained unsatisfied for the following reasons (in relation to a judgment, provide information together with supporting documents as to what steps have been taken to enforce the judgment)—
 
-- ( ) (4) .
+*6. | In consideration of *my/our receiving an ex gratia payment from the Travel Industry Compensation Fund, *I/we hereby assign *my/our right(s) to receive dividends, if any, from the Official Receiver/liquidator/trustee, to the Travel Industry Compensation Fund Management Board on the understanding that where such dividend is in excess of the ex gratia payment, the excess will be paid to *me/us. In the event that *my/our proof of debt is wholly rejected or admitted only in part, *I/we hereby undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt, as the case may be. (Please see notes under paragraph 4(c) and (d).) (Delete this paragraph if application is made in accordance with the simplified procedure.)
 
-- ( ) Date: . *Delete as appropriate. NOTES
+*6A. | In consideration of *my/our receiving an ex gratia payment from the Travel Industry Compensation Fund, *I/we assign *my/our right(s) to receive dividends, if any, from the Official Receiver/liquidator/trustee, to the Travel Industry Compensation Fund Management Board on the undertaking that where such dividend is in excess of the ex gratia payment, the excess will be paid to *me/us. In the event that *my/our proof of debt is wholly rejected or admitted only in part, *I/we hereby undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt as the case may be. *I/We also hereby undertake to abandon *my/our claim for the excess of *my/our outbound fare made to the travel agent upon *my/our receiving an ex gratia payment from the Travel Industry Compensation Fund. (Delete this paragraph if application is not made in accordance with the simplified procedure.)
+
+- 7. *I/We declare that all the information given by *me/us in this application is true and correct to the best of *my/our knowledge and belief.
+
+Signature of Applicant: | (1)
+
+()
+
+(2)
+
+()
+
+(3)
+
+()
+
+(4)
+
+()
+
+Date:
+
+*Delete as appropriate.
+
+NOTES
 
 - 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
 
@@ -104,9 +124,7 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
 - 4. The Travel Industry Compensation Fund Management Board shall have absolute discretion to refuse any application for ex gratia payment.
 
-- 5.
-
-- This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address—
+- 5. This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address—
 
 - Travel Agents Registry,
 
@@ -120,594 +138,756 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
 - or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address—
 
-- (L.N. 103 of 1996; L.N. 136 of 1996)
+(L.N. 103 of 1996; L.N. 136 of 1996; L.N. 544 of 1996; L.N. 128 of 1997)
 
-- FORM B TRAVEL AGENTS ORDINANCE (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
+_
 
-- AN OUTBOUND FARE FROM THE TRAVEL INDUSTRY
+FORM B
 
-- COMPENSATION FUND UNDER SECTION 32E
+TRAVEL AGENTS ORDINANCE (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
 
-- OF THE ORDINANCE (For use by applicant acting on behalf of the traveller(s))
+AN OUTBOUND FARE FROM THE TRAVEL INDUSTRY
 
-- I, ., authorized by the traveller(s) listed in the Ａnnex, *a client/
+COMPENSATION FUND UNDER SECTION 32E
 
-- (applicant)
+OF THE ORDINANCE (For use by applicant acting on behalf of the traveller(s))
 
-- clients of ., a licensed travel agent whose licence number is
+I, | ,
 
-- (name of travel agent)
+(applicant)
 
-- ., hereby apply for ex gratia payments from the Travel Industry Compensation Fund under section 32E of the Ordinance for and on behalf of the traveller(s).
+authorized by the traveller(s) listed in the Annex, *a client/clients of
 
-- 2. My personal particulars are as follows— (a) Name (*Mr/Mrs/Miss/Ms) . ( ) (English) (Chinese) Alias (if any) . (b) Date of birth . (c) *Hong Kong Identity Card/Passport No. . (d) Residential address .
+,
 
-- . (Telephone No : .) #
+(name of travel agent)
 
-- (e) Office address .
+a licensed travel agent whose licence number is | ,
 
-- . (Telephone No : .) #
+hereby apply for ex gratia payments from the Travel Industry Compensation Fund under section 32E of the Ordinance for and on behalf of the traveller(s).
 
-- (# Please tick the appropriate box at the end of (d) or (e), if it is also a correspondence address.)
+2. | My personal particulars are as follows—
 
-- 3. The personal particulars of *the/each traveller and his authorization for me to act on his behalf in applying for and receiving ex gratia payments from the Fund and to assign on his behalf his right to receive dividends, if any, from the Official Receiver/liquidator/trustee are at the Annex.
+(a) | Name (*Mr/Mrs/Miss/Ms) . | (.)
 
-- 4. The application is in respect of a loss incurred in respect of a payment for travel services made by the traveller(s) to the travel agent. Moreover, the application is for an amount not exceeding the specified amount. (Delete this sentence if application is not made in accordance with the simplified procedure.)—
+(English) | (Chinese)
 
-  - (a) particulars of which loss are— . .
+Alias (if any)
 
-  - *(b) the circumstances in which the loss occurred are— . (not necessary to complete where a judgment has been obtained) . .
+(b) | Date of birth
 
-- 5. In support of this application, I attach the following documents—
+(c) | *Hong Kong Identity Card/Passport No.
 
-  - (a) One/ . original(s) of receipt(s) or certified true *copy/copies thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
+(d) | Residential address
 
-  - (b)* A copy/ . copies of the *traveller’s/travellers’ *Hong Kong Identity Card(s)/Passport(s).
+(Telephone No.: | )# □
 
-  - *(c) A sealed copy of a judgment against the travel agent given by . (name of Court) . on . (date of judgment) (If a judgment is submitted, paragraph 7 and 7A will not be applicable.)
+(e) | Office Address
 
-  - *(d) A proof of debt against the travel agent *lodged/to be lodged with . . (Official Receiver/liquidator/trustee) on . (date) (If a proof of debt has been/is to be lodged, paragraph 7 or 7A will be applicable.)
+(Telephone No.: | )# □
 
-  - *(e) Documentary evidence of payment showing payment of the outbound fare.
+(# Please tick the appropriate box at the end of (d) or (e), if it is also a correspondence address.)
 
-  - *(f) Verification of payment of the outbound fare by an auditor or a person appointed by the Travel Industry Compensation Fund Management Board.
+3. | The personal particulars of *the/each traveller and his authorization for me to act on his behalf in applying for and receiving ex gratia payments from the Fund and to assign on his behalf his right to receive dividends, if any, from the Official Receiver/liquidator/trustee are at the Annex.
 
-  - *(g) A statutory declaration by the traveller(s) stating that payment(s) of the outbound fare(s) has (have) been made.
+4. | The application is in respect of a loss incurred in respect of a payment for travel services made by the traveller(s) to the travel agent. Moreover, the application is for an amount not exceeding the specified amount. (Delete this sentence if application is not made in accordance with the simplified procedure.)—
 
-  - *(h) *Written authorization(s) of the outbound traveller(s).
+(a) | particulars of which loss are—
 
-  - *(i) My statutory declaration that the application is made on behalf of the outbound traveller(s).
+*(b) | the circumstances in which the loss occurred are—
 
-  - *(j) A copy of my Hong Kong Identity Card/travel document to prove my relationship with the minor outbound traveller(s).
+(not necessary to complete where a judgment has been obtained)
 
-  - *(k) *A copy/ . copies of the minor outbound *traveller’s/travellers’ birth certificate(s).
+5. | In support of this application, I attach the following documents—
 
-  - *(l) Other documentary evidence to prove my relationship with the minor(s).
+(a) | One/ . original(s) of receipt(s) or certified true *copy/copies thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
 
-- 6. I confirm that the *judgment/proof of debt referred to in paragraph 5 has remained unsatisfied for the following reasons (in relation to a judgment, provide information together with supporting documents as to what steps have been taken to enforce the judgment)— . .
+(b) | *A copy/ . copies of the *traveller’s/travellers’ *Hong Kong Identity Card(s)/Passport(s).
 
-- .
+*(c) | A sealed copy of a judgment against the travel agent given by
 
-- .
+on
 
-- *7.
+(name of Court) | (date of judgement)
 
-- In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund on behalf of the traveller(s), I, being authorized for the purpose by the traveller(s), hereby assign the right of the traveller(s) to receive dividends, if any, from the Official Receiver/liquidator/trustee, to the Travel Industry Compensation Fund Management Board on the understanding that where any such dividend is in excess of the ex gratia payment received by myself on behalf of the traveller(s), the excess will be paid to me for the traveller(s). In the event that a proof of debt of the traveller(s) is wholly rejected or admitted only in part, I hereby confirm that I and the traveller(s) undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt, as the case may be. (Please see notes under paragraph 5(c) and (d).)
+(If a judgment is submitted, paragraph 7 and 7A will not be applicable.)
 
-- (Delete this paragraph if application is made in accordance with the simplified procedure.)
+*(d) | A proof of debt against the travel agent *lodged/to be lodged with
 
-  - *7A. In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund on behalf of the traveller(s), I, being authorized for the purpose by the traveller(s), hereby assign the right of the traveller(s) to receive dividends, if any, from the Official Receiver/liquidator/trustee to the Travel Industry Compensation Fund Management Board on the understanding that where any such dividend is in excess of the ex gratia payment received by myself on behalf of the traveller(s), the excess will be paid to me for the traveller(s). In the event that a proof of debt of the traveller(s) is wholly rejected or admitted only in part, I hereby confirm that I and the traveller(s) undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt, as the case may be. I also hereby confirm that I and the traveller(s) undertake to abandon the *traveller’s/travellers’ claim for the excess of the *traveller’s/travellers’ outbound fare(s) made to the travel agent upon my receiving, on behalf of the traveller(s), the ex gratia payment from the Travel Industry Compensation Fund. (Delete this paragraph if application is not made in accordance with the simplified procedure.)
+(Official Receiver/liquidator/trustee)
 
-  - 8. I declare that—
+on .
 
-    - (a) I have been authorized by the traveller(s)—
+(date)
 
-      - (i) to act on *his behalf/behalf of each of them in applying for and receiving ex gratia payments from the Fund; and
+(If a proof of debt has been/is to be lodged, paragraph 7 or 7A will be applicable.)
 
-      - (ii) to assign on *his behalf/behalf of each of them his right to receive dividends from the Official Receiver/liquidator/trustee; and
+*(e) | Documentary evidence of payment showing payment of the outbound fare.
 
-    - (b) all the information given by me in this application is true and correct to the best of my knowledge and belief. Signature of authorized Applicant: . Date: .
+*(f) | Verification of payment of the outbound fare by an auditor or a person appointed by the Travel Industry Compensation Fund Management Board.
 
-  - * Delete as appropriate.
+*(g) | A statutory declaration by the traveller(s) stating that payment(s) of the outbound fare(s) has (have) been made.
 
-  - NOTES
+*(h) | *Written authorization(s) of the outbound traveller(s).
 
-  - 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
+*(i) | My statutory declaration that the application is made on behalf of the outbound traveller(s).
 
-  - 2. Additional information and documentary evidence may be required in support of this application.
+*(j) | A copy of my Hong Kong Identity Card/travel document to prove my relationship with the minor outbound traveller(s).
 
-  - 3. This application must be submitted to the Secretary of the Travel Industry Compensation Fund Management Board or the person appointed under section 3B(1)(b) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules within 24 months beginning on the date the outbound traveller(s) first sustained his/her/their loss/losses.
+*(k) | *A copy/ . copies of the minor outbound *traveller’s/travellers’ birth certificate(s).
 
-  - 4. The Travel Industry Compensation Fund Management Board shall have absolute discretion to refuse any application for ex gratia payment.
+*(l) | Other documentary evidence to prove my relationship with the minor(s).
 
-  - 5. This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address— Travel Agents Registry, 8/F, West Wing, Central Government Offices, Lower Albert Road, Hong Kong. or the person appointed under section 3B(1)(b) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address— ANNEX PERSONAL PARTICULARS AND AUTHORIZATION(S) OF THE TRAVELLER(S)
+- 6. I confirm that the *judgment/proof of debt referred to in paragraph 5 has remained unsatisfied for the following reasons (in relation to a judgment, provide information together with supporting documents as to what steps have been taken to enforce the judgment)—
 
-  - (To be completed by the traveller(s)) *I/We, each and everyone of us at .
+*7. | In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund on behalf of the traveller(s), I, being authorized for the purpose by the traveller(s), hereby assign the right of the traveller(s) to receive dividends, if any, from the Official Receiver/liquidator/trustee, to the Travel Industry Compensation Fund Management Board on the understanding that where any such dividend is in excess of the ex gratia payment received by myself on behalf of the traveller(s), the excess will be paid to me for the traveller(s). In the event that a proof of debt of the traveller(s) is wholly rejected or admitted only in part, I hereby confirm that I and the traveller(s) undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt, as the case may be. (Please see notes under paragraph 5(c) and (d).)
 
-  - . (address) (Telephone No.: .) provide *my/our personal particulars hereunder and declare by appending *my/our signature(s) against *my/our respective personal particulars that *I/we authorize the person named hereunder to act on *my/our behalf in applying for and receiving ex gratia payments from the Travel Industry Compensation Fund and to assign to the Travel Industry Compensation Fund Management Board the right of *mine/each of us to receive dividends, if any, from the Official Receiver/liquidator/trustee.
+(Delete this paragraph if application is made in accordance with the simplified procedure.)
 
-  - 2. The personal particulars of the person authorized to act on *my/our behalf are as follows—
+*7A. | In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund on behalf of the traveller(s), I, being authorized for the purpose by the traveller(s), hereby assign the right of the traveller(s) to receive dividends, if any, from the Official Receiver/liquidator/trustee to the Travel Industry Compensation Fund Management Board on the understanding that where any such dividend is in excess of the ex gratia payment received by myself on behalf of the traveller(s), the excess will be paid to me for the traveller(s). In the event that a proof of debt of the traveller(s) is wholly rejected or admitted only in part, I hereby confirm that I and the traveller(s) undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt, as the case may be. I also hereby confirm that I and the traveller(s) undertake to abandon the *traveller’s/travellers’ claim for the excess of the *traveller’s/travellers’ outbound fare(s) made to the travel agent upon my receiving, on behalf of the traveller(s), the ex gratia payment from the Travel Industry Compensation Fund. (Delete this paragraph if application is not made in accordance with the simplified procedure.)
 
-    - (a) Name (English & Chinese) .
+8. | I declare that—
 
-    - (b) *Hong Kong Identity Card/Passport No. .
+(a) | I have been authorized by the traveller(s)—
 
-    - (c) Residential address .
+(i) | to act on *his behalf/behalf of each of them in applying for and receiving ex gratia payments from the Fund; and
 
-    - . Telephone No.: .
+(ii) | to assign on *his behalf/behalf of each of them his right to receive dividends from the Official Receiver/liquidator/trustee; and
 
-  - 3. (See Note 1) By appending *my/our signature(s) hereunder, *I/we and everyone of us also declare that, in the event that *my/our proof of debt is wholly rejected or admitted only in part, *I/we undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt, as the case may be. *I/We also hereby undertake to abandon *my/our claim(s) for the excess of *my/our outbound fare(s) made to the travel agent upon *my/our receiving the ex gratia payment from the Travel Industry Compensation Fund. (Delete this sentence if application is not made under the simplified procedure.) * Delete as appropriate.
+(b) | all the information given by me in this application is true and correct to the best of my knowledge and belief.
 
-  - Name (English & Chinese) | Hong Kong Identity Card/Passport No. | Residential address & Telephone No. | Amount paid to travel agent $ | Signature
+Signature of authorized Applicant:
 
-  - 1 . | . | . | . | .
+Date:
 
-  - 2 . | . | . | . | .
+*Delete as appropriate.
 
-  - 3 . | . | . | . | .
+NOTES
 
-  - 4 . | . | . | . | .
+- 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
 
-  - 5 . | . | . | . | .
+- 2. Additional information and documentary evidence may be required in support of this application.
 
-  - 6 . | . | . | . | .
+- 3. This application must be submitted to the Secretary of the Travel Industry Compensation Fund Management Board or the person appointed under section 3B(1)(b) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules within 24 months beginning on the date the outbound traveller(s) first sustained his/her/their loss/losses.
 
-  - 7 . | . | . | . | .
+- 4. The Travel Industry Compensation Fund Management Board shall have absolute discretion to refuse any application for ex gratia payment.
 
-  - 8 . | . | . | . | .
+- 5. This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address—
 
-  - 9 . | . | . | . | .
+- Travel Agents Registry,
 
-  - 10 . | . | . | . | .
+- 8/F, West Wing,
 
-  - 11 . | . | . | . | .
+- Central Government Offices,
 
-  - 12 . | . | . | . | .
+- Lower Albert Road,
 
-  - 13 . | . | . | . | .
+- Hong Kong.
 
-  - 14 . | . | . | . | .
+- or the person appointed under section 3B(1)(b) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address—
 
-  - 15 . | . | . | . | .
+ANNEX PERSONAL PARTICULARS AND AUTHORIZATION(S) OF THE TRAVELLER(S) (To be completed by the traveller(s))
 
-  - 16 . | . | . | . | .
+*I/We, each and everyone of us at
 
-  - 17 . | . | . | . | .
+(address)
 
-  - 18 . | . | . | . | .
+(Telephone No.: .) provide *my/our personal particulars hereunder and declare by appending *my/our signature(s) against *my/our respective personal particulars that *I/we authorize the person named hereunder to act on *my/our behalf in applying for and receiving ex gratia payments from the Travel Industry Compensation Fund and to assign to the Travel Industry Compensation Fund Management Board the right of *mine/each of us to receive dividends, if any, from the Official Receiver/liquidator/trustee.
 
-  - 19 . | . | . | . | .
+2. | The personal particulars of the person authorized to act on *my/our behalf are as follows—
 
-  - 20 . | . | . | . | .
+(a) | Name (English & Chinese)
 
-  - 21 . | . | . | . | .
+(b) | *Hong Kong Identity Card/Passport No.
 
-  - 22 . | . | . | . | .
+(c) | Residential address
 
-  - 23 . | . | . | . | .
+Telephone No.:
 
-  - 24 . | . | . | . | .
+- 3.
 
-  - 25 . | . | . | . | .
+- (See Note 1) By appending *my/our signature(s) hereunder, *I/we and everyone of us also declare that, in the event that *my/our proof of debt is wholly rejected or admitted only in part, *I/we undertake to indemnify the Travel Industry Compensation Fund Management Board to the extent of the amount of the ex gratia payment or the difference between the amount of the ex gratia payment and 90% of the amount of the proof of debt, as the case may be. *I/We also hereby undertake to abandon *my/our claim(s) for the excess of *my/our outbound fare(s) made to the travel agent upon *my/our receiving the ex gratia payment from the Travel Industry Compensation Fund. (Delete this sentence if application is not made under the simplified procedure.)
 
-  - Note 1: This is applicable only in cases where a proof of debt has been/is to be lodged.
+* Delete as appropriate.
 
-  - Note 2: If space on both sides of this form is insufficient to accommodate all travellers, please reproduce this Annex by photocopying for their use.
+Name (English & Chinese) | Hong Kong Identity Card/ Passport No. | Residential address & Telephone No. | Amount paid to travel agent $ | Signature
 
-- (L.N. 128 of 1997)
+1 . | . | . | . | .
 
-- FORM C TRAVEL AGENTS ORDINANCE
+2 . | . | . | . | .
 
-- (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
+3 . | . | . | . | .
 
-- AN ACCIDENT FROM THE TRAVEL INDUSTRY
+4 . | . | . | . | .
 
-- COMPENSATION FUND UNDER SECTION
+5 . | . | . | . | .
 
-- 32E OF THE ORDINANCE (For use by an applicant applying on his or her own behalf)
+6 . | . | . | . | .
 
-- I, a client of . ,
+7 . | . | . | . | .
 
-- (name of travel agent)
+8 . | . | . | . | .
 
-- a licensed travel agent whose licence number is . ,
+9 . | . | . | . | .
 
-- hereby apply for an ex gratia payment from the Travel Industry Compensation Fund under section 32E of the Ordinance.
+10 . | . | . | . | .
 
-- 2. My personal particulars are as follows—
+11 . | . | . | . | .
 
-- (a) Name (*Mr/Mrs/Miss/Ms) . (.)
+12 . | . | . | . | .
 
-- (English) (Chinese)
+13 . | . | . | . | .
 
-- Alias (if any) .
+14 . | . | . | . | .
 
-- (b) Date of birth .
+15 . | . | . | . | .
 
-- (c) *Hong Kong Identity
+16 . | . | . | . | .
 
-- Card/Passport No. .
+17 . | . | . | . | .
 
-- (d) Residential address .
+18 . | . | . | . | .
 
-- . #
+19 . | . | . | . | .
 
-- Telephone No. .
+20 . | . | . | . | .
 
-- Office address .
+21 . | . | . | . | .
 
-- . #
+22 . | . | . | . | .
 
-- Telephone No. .
+23 . | . | . | . | .
 
-- (# Please tick the appropriate box, if it is also a correspondence address.)
+24 . | . | . | . | .
 
-  - 3. My application is in respect of a loss incurred in respect of an accident which arises out of and in the course of an outbound travel service provided by the travel agent—
+25 . | . | . | . | .
 
-    - (a) the circumstances in which the loss occurred are— . .
+Note 1: This is applicable only in cases where a proof of debt has been/is to be lodged.
 
-    - (b) particulars of which loss are—
+Note 2: If space on both sides of this form is insufficient to accommodate all travellers, please reproduce this Annex by photocopying for their use.
 
-      - (i) medical expenses incurred in the country or place where the accident occurred— $ .
+(L.N. 128 of 1997)
 
-      - (ii) expenses incurred by my *relative(s)/former spouse for paying visits to the country or place for a purpose relating to or consequent upon my injury— (L.N. 394 of 1998)
+_
 
-      - (1) | (2)
+FORM C TRAVEL AGENTS ORDINANCE
 
-      - Name of *relative/former spouse Relationship with me (in the case of a relative) Amount incurred $ (L.N. 394 of 1998) | . | .
+(Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
 
-      - . | .
+AN ACCIDENT FROM THE TRAVEL INDUSTRY
 
-      - . | .
+COMPENSATION FUND UNDER SECTION
 
-  - 4. In support of the application, I attach the following documents—
+32E OF THE ORDINANCE (For use by an applicant applying on his or her own behalf)
 
-    - (a) One original receipt or certified true copy thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
+I, a client of | ,
 
-    - (b) A copy of my *Hong Kong Identity Card/Passport.
+(name of travel agent)
 
-    - *(c) One original document showing that the accident has been reported to the relevant authority of the country or place where the accident occurred.
+a licensed travel agent whose licence number is | ,
 
-    - (d) *One/ . original(s) of receipt(s) for the expenses described in paragraph 3(b).
+hereby apply for an ex gratia payment from the Travel Industry Compensation Fund under section 32E of the Ordinance.
 
-    - *(e) *One/ . original(s) of receipt(s) for the damages or compensation received in respect of the expenses described in paragraph 3(b).
+2. | My personal particulars are as follows—
 
-  - 5. *(a) Neither I nor any other person has received any damages or compensation in respect of the expenses described in paragraph 3(b); and
+(a) | Name (*Mr/Mrs/Miss/Ms) . | (.)
 
-    - *(a) *I/ . (name of recipient and relationship with me) *have/has received damages or compensation in respect of the expenses described in paragraph 3(b); and
+(English) | (Chinese)
 
-    - *(b) Neither I nor any other person has made a claim or instituted any legal proceedings in respect of those expenses.
+Alias (if any)
 
-    - *(b) *I/ . (name of relevant person and relationship with me)
+(b) | Date of birth
 
-    - *have/has made a claim or instituted legal proceedings in respect of those expenses.
+(c) | * | Hong Kong Identity Card/Passport No.
 
-    - *(c) Person against whom a claim has been made or legal proceedings have been instituted in respect of those expenses— .
+(d) | Residential address
 
-  - 6. In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund, I hereby undertake that—
+\# □
 
-    - (a) within 30 days of the date on which I make any claim or institute any legal proceedings or any other person makes any claim or institutes any legal proceedings in respect of the expenses described in paragraph 3(b), I shall notify the Travel Industry Compensation Fund Management Board of the full particulars of such claim or legal proceedings;
+Telephone No. .
 
-    - (b) in the event that damages or compensation in respect of the expenses described in paragraph 3(b) are or is paid to me or any other person, I shall pay to the Travel Industry Compensation Fund Management Board the amount of the ex gratia payment or the amount of damages or compensation so paid to me, whichever is the less; and
+Office Address
 
-    - (c) in the event that the amount of the ex gratia payment is in excess of the relevant expenses (as defined in section 2 of the Travel Industry Compensation Fund (Amount of Ex gratia Payments and Financial Penalty) Rules) reasonably incurred, I shall indemnify the Travel Industry Compensation Fund Management Board to the extent of the excess.
+\# □
 
-  - 7. I solemnly and sincerely declare that all the information given by me in this application is true and correct to the best of my knowledge and belief and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11). . Signature of applicant Declared at . in Hong Kong this . day of . 19 . Before me, . Commissioner for Oaths * Delete as appropriate. NOTES
+Telephone No. .
 
-  - 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
+(# Please tick the appropriate box, if it is also a correspondence address.)
 
-  - 2. Additional information and documentary evidence may be required in support of this application.
+- 3. My application is in respect of a loss incurred in respect of an accident which arises out of and in the course of an outbound travel service provided by the travel agent—
 
-  - 3. This application must be submitted to the Secretary of the Travel Industry Compensation Fund Management Board or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules within 24 months beginning on the date of the accident.
+- (a) | the circumstances in which the loss occurred are—
 
-  - 4. The Travel Industry Compensation Fund Management Board shall have absolute discretion to determine the amount of, or refuse any application for, ex gratia payment.
+- (b) | particulars of which loss are—
 
-  - 5. This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address— Travel Agents Registry, 8/F, West Wing, Central Government Offices, Lower Albert Road, Hong Kong. or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address—
+- (i) | medical expenses incurred in the country or place where the accident occurred—
 
-- (L.N. 103 of 1996; L.N. 136 of 1996)
+- $ .
 
-- FORM D TRAVEL AGENTS ORDINANCE
+- (ii) | expenses incurred by my *relative(s)/former spouse for paying visits to the country or place for a purpose relating to or consequent upon my injury—
 
-- (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
+(1) | (2)
 
-- AN ACCIDENT FROM THE TRAVEL INDUSTRY
+Name of *relative/former spouse
 
-- COMPENSATION FUND UNDER SECTION
+Relationship with me (in the case of a relative)
 
-- 32E OF THE ORDINANCE (For use by an applicant acting on behalf of an outbound traveller)
+Amount incurred $
 
-- I hereby apply for an ex gratia payment from the Travel Industry Compensation Fund under section 32E of the Ordinance on behalf of . who was a client of . (name of travel agent), a licensed travel agent whose licence number is. .
+4. | In support of the application, I attach the following documents—
 
-  - 2. My personal particulars are as follows—
+(a) | One original receipt or certified true copy thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
 
-    - (a) Name (*Mr/Mrs/Miss/Ms) . ( ) (English) (Chinese)
+(b) | A copy of my *Hong Kong Identity Card/Passport.
 
-    - Alias (if any) .
+*(c) | One original document showing that the accident has been reported to the relevant authority of the country or place where the accident occurred.
 
-    - (b) Date of birth .
+(d) | *One/ . original(s) of receipt(s) for the expenses described in paragraph 3(b).
 
-    - (c) Occupation .
+*(e) | *One/ . original(s) of receipt(s) for the damages or compensation received in respect of the expenses described in paragraph 3(b).
 
-    - (d) *Hong Kong Identity Card/Passport No. .
+5. | *(a) | Neither I nor any other person has received any damages or compensation in respect of the expenses described in paragraph 3(b); and
 
-    - (e) Relationship with the traveller .
+*(a) | *I/
 
-    - (f) Residential address .
+(name of recipient and relationship with me)
 
-    - . # ( )
+*have/has received damages or compensation in respect of the expenses described in paragraph 3(b); and
 
-    - Telephone No. .
+*(b) | Neither I nor any other person has made a claim or instituted any legal proceedings in respect of those expenses.
 
-    - Office address .
+*(b) | *I/
 
-    - . # ( )
+(name of relevant person and relationship with me)
 
-    - Telephone No. .
+*have/has made a claim or instituted legal proceedings in respect of those expenses.
 
-  - (# Please tick the box, if it is also a correspondence address.)
+*(c) | Person against whom a claim has been made or legal proceedings have been instituted in respect of those expenses—
 
-  - 3. The personal particulars of the traveller, his particulars of loss and authorization for me to act on his behalf in applying for and receiving ex gratia payments from the Fund are at the Annex.
+6. | In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund, I hereby undertake that—
 
-  - 4. The application is in respect of a loss incurred in respect of an accident which arises out of and in the course of an outbound travel service provided by the travel agent. The circumstances in which the loss occurred are— .
+(a) | within 30 days of the date on which I make any claim or institute any legal proceedings or any other person makes any claim or institutes any legal proceedings in respect of the expenses described in paragraph 3(b), I shall notify the Travel Industry Compensation Fund Management Board of the full particulars of such claim or legal proceedings;
 
-  - .
+(b) | in the event that damages or compensation in respect of the expenses described in paragraph 3(b) are or is paid to me or any other person, I shall pay to the Travel Industry Compensation Fund Management Board the amount of the ex gratia payment or the amount of damages or compensation so paid to me, whichever is the less; and
 
-  - 5. In support of this application, I attach the following documents—
+(c) | in the event that the amount of the ex gratia payment is in excess of the relevant expenses (as defined in section 2 of the Travel Industry Compensation Fund (Amount of Ex gratia Payments and Financial Penalty) Rules) reasonably incurred, I shall indemnify the Travel Industry Compensation Fund Management Board to the extent of the excess.
 
-    - (a) One original receipt or certified true copy thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
+- 7. I solemnly and sincerely declare that all the information given by me in this application is true and correct to the best of my knowledge and belief and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11).
 
-    - (b) A copy of the traveller’s *Hong Kong Identity Card/Passport.
+Signature of applicant
 
-- *(c) One original document showing that the accident has been reported to the relevant authority of the country or place where the accident occurred.
+Declared at
 
-  - (d) *One/ . original(s) of receipt(s) for the expenses described in the Annex.
+in Hong Kong this . day of . 19 .
 
-  - *(e) *One/ . original(s) of receipt(s) for the damages or compensation received in respect of the expenses described in the Annex.
+Before me,
 
-- 6. I solemnly and sincerely declare that—
+Commissioner for Oaths
 
-  - (a) I have been authorized by the traveller named in paragraph 1; and
+* Delete as appropriate.
 
-  - (b) all the information given by me in this application is true and correct to the best of my knowledge and belief.
+NOTES
 
-- And I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11).
+- 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
 
-- .
+- 2. Additional information and documentary evidence may be required in support of this application.
 
-- Signature of authorized applicant
+- 3. This application must be submitted to the Secretary of the Travel Industry Compensation Fund Management Board or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules within 24 months beginning on the date of the accident.
 
-- Declared at .
+- 4. The Travel Industry Compensation Fund Management Board shall have absolute discretion to determine the amount of, or refuse any application for, ex gratia payment.
 
-- in Hong Kong this . day of . 19.
+- 5. This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address—
 
-- Before me,
+- Travel Agents Registry,
 
-- .
+- 8/F, West Wing,
 
-- Commissioner for Oaths
+- Central Government Offices,
 
-- * Delete as appropriate.
+- Lower Albert Road,
 
-- NOTES
+- Hong Kong.
 
-  - 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
+- or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address—
 
-  - 2. Additional information and documentary evidence may be required in support of this application.
+(L.N. 103 of 1996; L.N. 136 of 1996; L.N. 394 of 1998)
 
-  - 3. This application must be submitted to the Secretary of the Travel Industry Compensation Fund Management Board or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules within 24 months beginning on the date of the accident.
+_ FORM D TRAVEL AGENTS ORDINANCE (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
 
-  - 4. The Travel Industry Compensation Fund Management Board shall have absolute discretion to determine the amount of, or refuse any application for, ex gratia payment.
+AN ACCIDENT FROM THE TRAVEL INDUSTRY
 
-  - 5. This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address— Travel Agents Registry, 8/F, West Wing, Central Government Offices, Lower Albert Road, Hong Kong. or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address— ANNEX (To be completed by the traveller) I hereby authorize . to act on my behalf in applying for and receiving an ex gratia payment from the Travel Industry Compensation Fund.
+COMPENSATION FUND UNDER SECTION
 
-  - 2. My personal particulars are as follows—
+32E OF THE ORDINANCE (For use by an applicant acting on behalf of an outbound traveller)
 
-    - (a) Name (*Mr/Mrs/Miss/Ms) . ( ) (English) (Chinese)
+I hereby apply for an ex gratia payment from the Travel Industry Compensation Fund under section 32E of the Ordinance on behalf of
 
-    - Alias (if any) .
+who was a client of
 
-    - (b) Date of birth .
+(name of travel agent), a licensed travel agent whose licence number is
 
-    - (c) *Hong Kong Identity Card/Passport No. .
+2. | My personal particulars are as follows—
 
-    - (d) Residential address .
+(a) | Name (*Mr/Mrs/Miss/Ms) | ( | )
 
-    - . # ( )
+(English) | (Chinese)
 
-    - Telephone No. .
+Alias (if any)
 
-    - Office address .
+(b) | Date of birth
 
-    - . # ( )
+(c) | Occupation
 
-    - Telephone No. .
+(d) | * | Hong Kong Identity Card/Passport No.
 
-  - (# Please tick the appropriate box, if it is also a correspondence address.)
+(e) | Relationship with the traveller
 
-  - 3. Particulars of my loss are—
+(f) | Residential address
 
-    - (a) medical expenses incurred in the country or place where the accident occurred- $ .
+\# □
 
-    - (b) expenses incurred by my *relative(s)/former spouse for paying visits to the country or place for a purpose relating to or consequent upon my injury— (L.N. 394 of 1998)
+Telephone No. .
 
-    - (1) | (2)
+Office Address
 
-    - Name of *relative/former spouse Relationship with me (in the case of a relative Amount incurred $ (L.N. 394 of 1998) | . | .
+\# □
 
-    - . | .
+Telephone No. .
 
-    - . | .
+(# Please tick the appropriate box, if it is also a correspondence address.)
 
-  - 4. *(a) Neither I nor any other person has received any damages or compensation in respect of the expenses described in paragraph 3; and
+- 3. The personal particulars of the traveller, his particulars of loss and authorization for me to act on his behalf in applying for and receiving ex gratia payments from the Fund are at the Annex.
 
-    - *(a) *I/ . (name of recipient and relationship with me) *have/has received damages or compensation in respect of the expenses described in paragraph 3; and
+- 4. The application is in respect of a loss incurred in respect of an accident which arises out of and in the course of an outbound travel service provided by the travel agent. The circumstances in which the loss occurred are—
 
-    - *(b) Neither I nor any other person has made a claim or instituted any legal proceedings in respect of those expenses.
+5. | In support of this application, I attach the following documents—
 
-    - *(b) *I/ . (name of relevant person and relationship with me)
+(a) | One original receipt or certified true copy thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
 
-    - *have/has made a claim or instituted legal proceedings in respect of those expenses.
+(b) | A copy of the traveller’s *Hong Kong Identity Card/Passport.
 
-    - *(c) Person against whom a claim has been made or legal proceedings have been instituted in respect of those expenses— .
+*(c) | One original document showing that the accident has been reported to the relevant authority of the country or place where the accident occurred.
 
-  - 5. In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund, I hereby undertake that—
+(d) | *One/ . original(s) of receipt(s) for the expenses described in the Annex.
 
-    - (a) within 30 days of the date on which I make any claim or institute any legal proceedings or any other person makes any claim or institute any legal proceedings in respect of the expenses described in paragraph 3, I shall notify the Travel Industry Compensation Fund Management Board of the full particulars of such claim or legal proceedings;
+*(e) | *One/ . original(s) of receipt(s) for the damages or compensation received in respect of the expenses described in the Annex.
 
-    - (b) in the event that damages or compensation in respect of the expenses described in paragraph 3 are or is paid to me (or any other persons), I shall pay to the Travel Industry Compensation Fund Management Board the amount of the ex gratia payment or the amount of damages or compensation so paid to me, whichever is the less; and
+6. | I solemnly and sincerely declare that—
 
-    - (c) in the event that the amount of the ex gratia payment is in excess of the relevant expenses (as defined in section 2 of the Travel Industry Compensation Fund (Amount of Ex gratia Payments and Financial Penalty) Rules) reasonably incurred, I shall indemnify the Travel Industry Compensation Fund Management Board to the extent of the excess.
+(a) | I have been authorized by the traveller named in paragraph 1; and
 
-  - 6. I solemnly and sincerely declare that all the information given by me in this application is true and correct to the best of my knowledge and belief and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11). . Signature of traveller Declared at . in Hong Kong this . day of . 19 . Before me, . Commissioner for Oaths * Delete as appropriate.
+(b) | all the information given by me in this application is true and correct to the best of my knowledge and belief.
 
-- (L.N. 103 of 1996; L.N. 136 of 1996)
+And I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11).
 
-- FORM E TRAVEL AGENTS ORDINANCE (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
+Signature of authorized applicant
 
-- AN ACCIDENT FROM THE TRAVEL INDUSTRY
+Declared at
 
-- COMPENSATION FUND UNDER SECTION
+in Hong Kong this . day of . 19 .
 
-- 32E OF THE ORDINANCE (For use by an applicant applying on behalf of an infant
+Before me,
 
-- traveller or in the case where the accident results
+Commissioner for Oaths
 
-- in the death of a traveller)
+* Delete as appropriate.
 
-- I, the . of
+NOTES
 
-- (relationship with *infant/deceased traveller)
+- 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
 
-- . hereby apply for an ex gratia payment
+- 2. Additional information and documentary evidence may be required in support of this application.
 
-- (name of *infant/deceased traveller)
+- 3. This application must be submitted to the Secretary of the Travel Industry Compensation Fund Management Board or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules within 24 months beginning on the date of the accident.
 
-- from the Travel Industry Compensation Fund under section 32E of the Ordinance. The *infant/deceased traveller was a client of . a licensed travel
+- 4. The Travel Industry Compensation Fund Management Board shall have absolute discretion to determine the amount of, or refuse any application for, ex gratia payment.
 
-- (name of travel agent)
+- 5. This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address—
 
-- agent whose licence number is .
+- Travel Agents Registry,
 
-  - 2. My personal particulars are as follows—
+- 8/F, West Wing,
 
-    - (a) Name (*Mr/Mrs/Miss/Ms) . ( ) (English) (Chinese)
+- Central Government Offices,
 
-    - Alias (if any) .
+- Lower Albert Road,
 
-    - (b) Date of birth .
+- Hong Kong.
 
-    - (c) *Hong Kong Identity
+- or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address—
 
-    - Card/Passport No. .
+ANNEX (To be completed by the traveller)
 
-    - (d) Residential address .
+I hereby authorize
 
-    - . # ( )
+to act on my behalf in applying for and receiving an ex gratia payment from the Travel Industry Compensation Fund.
 
-    - Telephone No. .
+2. | My personal particulars are as follows—
 
-    - Office address .
+(a) | Name (*Mr/Mrs/Miss/Ms) | ( )
 
-    - . # ( )
+(English) | (Chinese)
 
-    - Telephone No. .
+Alias (if any)
 
-  - (# Please tick the appropriate box, if it is also a correspondence address.)
+(b) | Date of birth
 
-  - 3. The personal particulars of the *infant/deceased traveller are as follows—
+(c) | * | Hong Kong Identity Card/Passport No.
 
-    - (a) Name (*Mr/Mrs/Miss/Ms) . ( ) (English) (Chinese)
+(d) | Residential address
 
-  - Alias (if any) .
+\# □
 
-    - (b) Date of birth .
+Telephone No. .
 
-    - *Date of death .
+Office Address
 
-    - (c) *Hong Kong Identity
+\# □
 
-    - Card/Passport No. .
+Telephone No. .
 
-    - (d) Residential address
+(# Please tick the appropriate box, if it is also a correspondence address.)
 
-    - *immediately before death .
+3. | Particulars of my loss are—
 
-  - 4. My application is in respect of a loss incurred in respect of an accident which arises out of and in the course of an outbound travel service provided by the travel agent—
+(a) | medical expenses incurred in the country or place where the accident occurred—
 
-    - (a) the circumstances in which the loss occurred are— . .
+$ .
 
-    - (b) particulars of which loss are—
+(b) | expenses incurred by my *relative(s)/former spouse for paying visits to the country or place for a purpose relating to or consequent upon my injury—
 
-    - *(i) medical expenses incurred in the country or place where the accident occurred — $
+(1) | (2)
 
-    - *(ii) expenses incurred in the country or place in relation to the funeral of the
+Name of *relative/former spouse
 
-    - deceased or incurred in relation to the delivery of the dead body (including ashes
+Relationship with me (in the case of a relative)
 
-    - after cremation thereof) back to Hong Kong- $ .
+Amount incurred $
 
-      - *(iii) expenses incurred by the *relative(s)/former spouse of the *infant/deceased for paying visits to the country or place for a purpose relating to or consequent upon the injury or death— (L.N. 394 of 1998)
+4. | *(a) | Neither I nor any other person has received any damages or compensation in respect of the expenses described in paragraph 3; and
 
-      - (1) | (2)
+*(a) | *I/
 
-      - Name of *relative/former spouse Relationship with the *infant/deceased (in the case of a relative Amount incurred $ (L.N. 394 of 1998) | . | .
+(name of recipient and relationship with me)
 
-      - . | .
+*have/has received damages or compensation in respect of the expenses described in paragraph 3; and
 
-      - . | .
+*(b) | Neither I nor any other person has made a claim or instituted any legal proceedings in respect of those expenses.
 
-  - 5. In support of the application, I attach the following documents—
+*(b) | *I/
 
-    - (a) One original receipt or certified true copy thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
+(name of relevant person and relationship with me)
 
-    - (b) A copy of my *Hong Kong Identity Card/Passport.
+*have/has made a claim or instituted legal proceedings in respect of those expenses.
 
-    - (c) A copy of the *infant’s/deceased’s *Hong Kong Identity Card/Passport/birth certificate.
+*(c) | Person against whom a claim has been made or legal proceedings have been instituted in respect of those expenses—
 
-    - (d) One original . showing my relationship with the *infant/deceased or certified true copy thereof.
+- 5. In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund, I hereby undertake that—
 
-    - *(e) One original document showing that the accident has been reported to relevant authority of the country or place where the accident occurred. (L.N. 259 of 1997)
+  - (a) within 30 days of the date on which I make any claim or institute any legal proceedings or any other person makes any claim or institute any legal proceedings in respect of the expenses described in paragraph 3, I shall notify the Travel Industry Compensation Fund Management Board of the full particulars of such claim or legal proceedings;
 
-    - (f) *One/ . original(s) of receipt(s) for the expenses described in paragraph 4(b).
+  - (b) in the event that damages or compensation in respect of the expenses described in paragraph 3 are or is paid to me (or any other persons), I shall pay to the Travel Industry Compensation Fund Management Board the amount of the ex gratia payment or the amount of damages or compensation so paid to me, whichever is the less; and
 
-    - *(g) *One/ . original(s) of receipt(s) for the damages or compensation received in respect of the expenses described in paragraph 4(b).
+  - (c) in the event that the amount of the ex gratia payment is in excess of the relevant expenses (as defined in section 2 of the Travel Industry Compensation Fund (Amount of Ex gratia Payments and Financial Penalty) Rules) reasonably incurred, I shall indemnify the Travel Industry Compensation Fund Management Board to the extent of the excess.
 
-  - 6. *(a) Neither I nor any other person has received any damages or compensation in respect of the expenses described in paragraph 4(b); and
+- 6. I solemnly and sincerely declare that all the information given by me in this application is true and correct to the best of my knowledge and belief and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11).
 
-    - *(a) *I/ . (name of recipient and relationship with the *infant/deceased)
+Signature of traveller
 
-    - *have/has received damages or compensation in respect of the expenses described in paragraph 4(b); and
+Declared at
 
-    - *(b) Neither I nor any other person has made a claim or instituted any legal proceedings in respect of those expenses.
+in Hong Kong this . day of . 19 .
 
-    - *(b) *I/ . (name of relevant person and relationship with the *infant/deceased) *have/has made a claim or instituted legal proceedings in respect of those expenses.
+Before me,
 
-    - *(c) Person against whom a claim has been made or legal proceedings have been instituted in respect of those expenses— .
+Commissioner for Oaths
 
-  - 7. In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund, I hereby undertake that—
+* Delete as appropriate.
 
-    - (a) within 30 days of the date on which I make any other claim or institute any legal proceedings or any other person makes any claim or institutes any legal proceedings in respect of the expenses described in paragraph 4(b), I shall notify the Travel Industry Compensation Fund Management Board of the full particulars of such claim or legal proceedings;
+(L.N. 103 of 1996; L.N. 136 of 1996; L.N. 394 of 1998)
 
-    - (b) in the event that damages or compensation in respect of the expenses described in paragraph 4(b) are or is paid to me or any other person, I shall pay to the Travel Industry Compensation Fund Management Board the amount of the ex gratia payment or the amount of damages or compensation so paid to me, whichever is the less ; and
+_ FORM E TRAVEL AGENTS ORDINANCE (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
 
-    - (c) in the event that the amount of the ex gratia payment is in excess of the relevant expenses (as defined in section 2 of the Travel Industry Compensation Fund (Amount of Ex gratia Payments and Financial Penalty) Rules) reasonably incurred, I shall indemnify the Travel Industry Compensation Fund Management Board to the extent of the excess.
+AN ACCIDENT FROM THE TRAVEL INDUSTRY
 
-  - 8. I solemnly and sincerely declare that all the information given by me in this application is true and correct to the best of my knowledge and belief and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11). . Signature of applicant Declared at . in Hong Kong this . day of . 19 . Before me, . Commissioner for Oaths * Delete as appropriate. NOTES
+COMPENSATION FUND UNDER SECTION
 
-  - 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
+32E OF THE ORDINANCE (For use by an applicant applying on behalf of an infant
 
-  - 2. Additional information and documentary evidence may be required in support of this application.
+traveller or in the case where the accident results
 
-  - 3. This application must be submitted to the Secretary of the Travel Industry Compensation Fund Management Board or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules within 24 months beginning on the date of the accident. 4 The Travel Industry Compensation Fund Management Board shall have absolute discretion to determine the amount of, or refuse any application for, ex gratia payment. 5 This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address— Travel Agents Registry,
+in the death of a traveller)
 
-  - 8/F, West Wing,
+I, the | of
 
-  - Central Government Offices,
+(relationship with *infant/deceased traveller)
 
-  - Lower Albert Road,
+hereby apply for an ex gratia payment
 
-  - Hong Kong.
+(name of *infant/deceased traveller)
 
-  - or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address—
+from the Travel Industry Compensation Fund under section 32E of the Ordinance. The *infant/deceased traveller was a client of
 
-- (L.N. 103 of 1996; L.N. 136 of 1996)
+. a licensed travel agent whose licence number
+
+(name of travel agent)
+
+is.
+
+2. | My personal particulars are as follows—
+
+(a) | Name (*Mr/Mrs/Miss/Ms) | ( )
+
+(English) | (Chinese)
+
+Alias (if any)
+
+(b) | Date of birth
+
+(c) | * | Hong Kong Identity Card/Passport No.
+
+(d) | Residential address
+
+\# □
+
+Telephone No. .
+
+Office Address
+
+\# □
+
+Telephone No. .
+
+(# Please tick the appropriate box, if it is also a correspondence address.)
+
+3. | The personal particulars of the *infant/deceased traveller are as follows—
+
+(a) | Name (*Mr/Mrs/Miss/Ms) | ()
+
+(English) | (Chinese)
+
+Alias (if any)
+
+(b) | Date of birth
+
+* | Date of death
+
+(c) | * | Hong Kong Identity Card/Passport No.
+
+(d) | Residential address *immediately before death
+
+- 4. My application is in respect of a loss incurred in respect of an accident which arises out of and in the course of an outbound travel service provided by the travel agent—
+
+- (a) | the circumstances in which the loss occurred are—
+
+- (b) | particulars of which loss are—
+
+- *(i) | medical expenses incurred in the country or place where the accident occurred—
+
+- $ .
+
+- *(ii) | expenses incurred in the country or place in relation to the funeral of the deceased or incurred in relation to the delivery of the dead body (including ashes after cremation thereof) back to Hong Kong— $ .
+
+- *(iii) | expenses incurred by the *relative(s)/former spouse of the *infant/deceased for paying visits to the country or place for a purpose relating to or consequent upon the injury or death—
+
+(1) | (2)
+
+Name of *relative/former spouse
+
+Relationship with the *infant/deceased (in the case of a relative)
+
+Amount incurred $
+
+*(iv) | expenses incurred by the *relative(s)/former spouse of the deceased in visiting Hong Kong for a purpose connected with the death—
+
+(1) | (2)
+
+Name of *relative/former spouse
+
+Relationship with the deceased (in the case of a relative)
+
+Amount incurred $
+
+5. | In support of the application, I attach the following documents—
+
+(a) | One original receipt or certified true copy thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
+
+(b) | A copy of my *Hong Kong Identity Card/Passport.
+
+(c) | A copy of the *infant’s/deceased’s *Hong Kong Identity Card/Passport/birth certificate.
+
+(d) | One original
+
+showing my relationship with the *infant/deceased or certified true copy thereof.
+
+*(e) | One original document showing that the accident has been reported to relevant authority of the country or place where the accident occurred.
+
+(f) | *One/ . original(s) of receipt(s) for the expenses described in paragraph 4(b).
+
+*(g) | *One/ . original(s) of receipt(s) for the damages or compensation received in respect of the expenses described in paragraph 4(b).
+
+6. | *(a) | Neither I nor any other person has received any damages or compensation in respect of the expenses described in paragraph 4(b); and
+
+*(a) | *I/
+
+(name of recipient and relationship with the *infant/deceased)
+
+*have/has received damages or compensation in respect of the expenses described in paragraph 4(b); and
+
+*(b) | Neither I nor any other person has made a claim or instituted any legal proceedings in respect of those expenses.
+
+*(b) | *I/
+
+(name of relevant person and relationship with the *infant/deceased)
+
+*have/has made a claim or instituted legal proceedings in respect of those expenses.
+
+*(c) | Person against whom a claim has been made or legal proceedings have been instituted in respect of those expenses—
+
+7. | In consideration of my receiving an ex gratia payment from the Travel Industry Compensation Fund, I hereby undertake that—
+
+(a) | within 30 days of the date on which I make any other claim or institute any legal proceedings or any other person makes any claim or institutes any legal proceedings in respect of the expenses described in paragraph 4(b), I shall notify the Travel Industry Compensation Fund Management Board of the full particulars of such claim or legal proceedings;
+
+(b) | in the event that damages or compensation in respect of the expenses described in paragraph 4(b) are or is paid to me or any other person, I shall pay to the Travel Industry Compensation Fund Management Board the amount of the ex gratia payment or the amount of damages or compensation so paid to me, whichever is the less; and
+
+(c) | in the event that the amount of the ex gratia payment is in excess of the relevant expenses (as defined in section 2 of the Travel Industry Compensation Fund (Amount of Ex gratia Payments and Financial Penalty) Rules) reasonably incurred, I shall indemnify the Travel Industry Compensation Fund Management Board to the extent of the excess.
+
+- 8. I solemnly and sincerely declare that all the information given by me in this application is true and correct to the best of my knowledge and belief and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11).
+
+Signature of applicant
+
+Declared at
+
+in Hong Kong this . day of . 19 .
+
+Before me,
+
+Commissioner for Oaths
+
+* Delete as appropriate.
+
+NOTES
+
+- 1. The applicant is advised to read Part IIIA of the Travel Agents Ordinance (Cap. 218) before submitting this application.
+
+- 2. Additional information and documentary evidence may be required in support of this application.
+
+- 3. This application must be submitted to the Secretary of the Travel Industry Compensation Fund Management Board or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules within 24 months beginning on the date of the accident.
+
+- 4. The Travel Industry Compensation Fund Management Board shall have absolute discretion to determine the amount of, or refuse any application for, ex gratia payment.
+
+- 5. This form must be completed in duplicate and sent by post or delivered in person to the Secretary of the Travel Industry Compensation Fund Management Board at the following address—
+
+- Travel Agents Registry,
+
+- 8/F, West Wing,
+
+- Central Government Offices,
+
+- Lower Albert Road,
+
+- Hong Kong.
+
+- or the person appointed under section 3(5)(a) of the Travel Industry Compensation Fund (Procedure for Ex gratia Payments) Rules at the following address—
+
+(L.N. 103 of 1996; L.N. 136 of 1996; L.N. 394 of 1998; L.N. 26 of 1999)
