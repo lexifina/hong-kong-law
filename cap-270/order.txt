@@ -29,9 +29,11 @@ s-023B.md
 s-023C.md
 s-023D.md
 s-023E.md
+s-024A.md
 s-024.md
 s-025.md
 s-026.md
+s-026A.md
 s-027.md
 s-028.md
 s-029.md
