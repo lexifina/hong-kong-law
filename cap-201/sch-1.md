@@ -104,7 +104,7 @@ PUBLIC BODIES
 
 - 50. Hong Kong Council on Smoking and Health. (Added 56 of 1987 s. 21)
 
-- 51. Land Development Corporation. (Added 71 of 1987 s. 20)
+- 51. Urban Renewal Authority. (Replaced 63 of 2000 s. 38)
 
 - 52. Securities and Futures Commission. (Added 10 of 1989 Schedule 2)
 

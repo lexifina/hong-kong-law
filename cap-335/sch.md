@@ -62,7 +62,7 @@
 
   - 7. (Repealed 13 of 2000 s. 65)
 
-  - 8. The Land Development Corporation.
+  - 8. Urban Renewal Authority. (Replaced 63 of 2000 s. 38)
 
   - 9. Any other corporation which has any of its shares listed on the Unified Exchange, and any wholly owned subsidiary of such a corporation, whether incorporated in Hong Kong or elsewhere. (Added 77 of 1993 s. 7)
 

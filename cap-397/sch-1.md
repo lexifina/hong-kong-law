@@ -102,8 +102,6 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Labour Department.
 
-- Land Development Corporation. (Added L.N. 155 of 1996)
-
 - Land Registry. (Added 8 of 1993 s. 28)
 
 - Lands Department. (Added L.N. 282 of 1993)
@@ -166,9 +164,11 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - University Grants Committee, Secretariat. (Amended L.N. 35 of 1995)
 
+- Urban Renewal Authority (Replaced 63 of 2000 s. 38)
+
 - Vocational Training Council. (Added L.N. 155 of 1996)
 
-- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000)
+- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38)
 
 - PART II
 
