@@ -274,4 +274,6 @@ Item | Periods | Rate of interest
 
 135. | On or after 4 August 2003 and before 1 September 2003 (L.N. 200 of 2003; L.N. 203 of 2003) | 0.0417% per annum
 
-136. | On or after 1 September 2003 (L.N. 203 of 2003) | 0.0375% per annum
+136. | On or after 1 September 2003 and before 3 November 2003 (L.N. 203 of 2003; L.N. 240 of 2003) | 0.0375% per annum
+
+137. | On or after 3 November 2003 (L.N. 240 of 2003) | 0.025% per annum
