@@ -1,0 +1,5 @@
+WEIGHTS AND MEASURES ORDER
+
+(Cap. 68, section 7)
+
+[1 June 1990]
