@@ -10,7 +10,7 @@ Item | Description of food
 
 3. | Fresh, frozen or live fish, excluding live fish on a fish farm
 
-4. | Fresh, frozen or live poultry, excluding live poultry on a poultry farm
+4. | (a) Live water birds, excluding live water birds on a poultry farm or in a wholesale market (b) Other live poultry, excluding live poultry on a poultry farm or in a wholesale market (c) Fresh or frozen poultry carcass (L.N. 171 of 1998)
 
 5. | Fresh or frozen shell fish, excluding shell fish specified in Schedule 1
 
@@ -38,10 +38,10 @@ Item | Description of food
 
 17. | Food sold by means of a vending machine
 
-18. | Sashimi
+18. | Sashimi (L.N. 407 of 1996)
 
-19. | Sushi
+19. | Sushi (L.N. 407 of 1996)
 
-20. | Oyster to be eaten in raw state
+20. | Oyster to be eaten in raw state (L.N. 407 of 1996)
 
-(L.N. 142 of 1994; L.N. 85 of 1995; L.N. 407 of 1996)
+(L.N. 142 of 1994; L.N. 85 of 1995)
