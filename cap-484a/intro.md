@@ -1,0 +1,5 @@
+HONG KONG COURT OF FINAL APPEAL RULES
+
+(Cap. 484, section 39)
+
+[1 July 1997]
