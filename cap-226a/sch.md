@@ -15,3 +15,5 @@ Place | Purpose
 6. | (Repealed L.N. 24 of 1986)
 
 7. | (Repealed L.N. 243 of 1999)
+
+8. | The Ma Tau Wai Girls’ Home situate at 51 Sheung Shing Street, Homantin, Kowloon. (L.N. 95 of 2001) | For all purposes of the Ordinance.
