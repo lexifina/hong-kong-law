@@ -14,7 +14,7 @@
 
   - 2. All that land bounded by a bold continuous black line on the said plans shall be vested absolutely:
 
-    - Provided that there shall be excluded from the land so vested the land registered in the District Land Registry, Sha Tin, as Sha Tin Town Lot No. 87. (Amended 8 of 1993 s. 2)
+    - Provided that there shall be excluded from the land so vested the land registered in the Land Registry, as Sha Tin Town Lot No. 87. (Amended 8 of 1993 s. 2; 20 of 2002 s. 5)
 
   - 3. In respect of the land bounded by a bold discontinuous black line on the said plans there shall be vested such underground wayleaves or rights of passage as are necessary for the Corporation to operate the railway as existing immediately prior to the appointed day, including the right to maintain or reconstruct all railway tracks, tunnels and other works which were constructed for the purposes of or in connexion with the railway and in existence immediately prior to the appointed day and to construct and maintain new works for the better exercise of such wayleave or right of passage.
 
@@ -152,7 +152,7 @@
 
       - Provided that the prior consent of the Corporation shall be required to any amendment which has the effect of imposing any new restriction on the Corporation as to the manner in which it may use the said land or any part thereof or which otherwise limits the rights granted in this Schedule.
 
-  - 23. That part of the said land lying below the land registered in the District Land Registry, Sha Tin, as Sha Tin Town Lot No. 87 shall be subject to the mutual rights and obligations reserved in and imposed by, and the agreements and conditions contained in, the Conditions of Sale registered in the said District Land Registry as New Grant No. 11326. (Amended 8 of 1993 s. 2)
+  - 23. That part of the said land lying below the land registered in the Land Registry as Sha Tin Town Lot No. 87 shall be subject to the mutual rights and obligations reserved in and imposed by, and the agreements and conditions contained in, the Conditions of Sale registered in the Land Registry as New Grant No. 11326. (Amended 8 of 1993 s. 2; 20 of 2002 s. 5)
 
   - 24.
 

@@ -934,7 +934,7 @@ In the matter of a petition dated
 
 - 15. | . | . | . | . | . | . | . | .
 
-- Show the total of column (viii) under “Assets”, item (2) in the Summary of Statement of Affairs $
+- Show the total of column (viii) under “Assets”, item (2) in the Summary of Statement of Affairs $ $
 
 - Show the total of column (ix) under “Liabilities”, item (4) in the Summary of Statement of Affairs $
 
@@ -2426,7 +2426,7 @@ In the matter of a petition dated
 
 - NOTICE OF DISCLAIMER WITHOUT LEAVE OF COURT (Title.)
 
-- (a) the lease dated the day of or as the case may be. (b) Insert description of property disclaimed. (c) on a tenancy or for a term of years or as the case may be. (d) Add where necessary pursuant to notice dated the day of , 19 . | Take notice that, by writing under my hand, bearing date the day of , 19 , I, , the trustee of the property of the above-named bankrupt, disclaimed (a) of the premises known as (b) which were let to (c) at a rent of $ per (d) The above-mentioned disclaimer has been filed in court with the proceedings in the bankruptcy [and has been registered in the Land Registry or in the District Land Registry]. Your attention is directed to the provisions of the Bankruptcy Ordinance (Chapter 6) on the back hereof. Dated this day of , 19 . Trustee. To (Address) _ NOTE.-On the back of this notice the provisions of subsections (2) and (6) of section 59 of the Bankruptcy Ordinance should appear. (G.N.A. 124 of 1955; 8 of 1993 s. 30)
+- (a) the lease dated the day of or as the case may be. (b) Insert description of property disclaimed. (c) on a tenancy or for a term of years or as the case may be. (d) Add where necessary pursuant to notice dated the day of , 19 . | Take notice that, by writing under my hand, bearing date the day of , 19 , I, , the trustee of the property of the above-named bankrupt, disclaimed (a) of the premises known as (b) which were let to (c) at a rent of $ per (d) The above-mentioned disclaimer has been filed in court with the proceedings in the bankruptcy [and has been registered in the Land Registry]. Your attention is directed to the provisions of the Bankruptcy Ordinance (Chapter 6) on the back hereof. Dated this day of , 19 . Trustee. To (Address) _ NOTE.-On the back of this notice the provisions of subsections (2) and (6) of section 59 of the Bankruptcy Ordinance should appear. (G.N.A. 124 of 1955; 8 of 1993 s. 30; 20 of 2002 s. 5)
 
 - _
 
@@ -2434,7 +2434,7 @@ In the matter of a petition dated
 
 - NOTICE OF DISCLAIMER OF LEASE WITH LEAVE OF COURT (Title.)
 
-- Take notice that pursuant to an order of court dated the day of , 19 , I, , the trustee of the property of the above-named bankrupt, by writing under my hand bearing date the day of disclaimed all interest in the lease dated the day of ,19 , whereby the premises were demised to at a rent of $ per annum, for a term of . The above-mentioned disclaimer has been filed in court with the proceedings in bankruptcy [and has been registered in the Land Registry or in the District Land Registry]. Dated this day of , 19 .
+- Take notice that pursuant to an order of court dated the day of , 19 , I, , the trustee of the property of the above-named bankrupt, by writing under my hand bearing date the day of disclaimed all interest in the lease dated the day of ,19 , whereby the premises were demised to at a rent of $ per annum, for a term of . The above-mentioned disclaimer has been filed in court with the proceedings in bankruptcy [and has been registered in the Land Registry]. Dated this day of , 19 .
 
 - Trustee.
 
@@ -2442,7 +2442,7 @@ In the matter of a petition dated
 
 - (Address)
 
-- (G.N.A. 124 of 1955; 8 of 1993 s. 30)
+- (G.N.A. 124 of 1955; 8 of 1993 s. 30; 20 of 2002 s. 5)
 
 - _
 
