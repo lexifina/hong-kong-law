@@ -1975,3 +1975,9 @@ Item Body
 - 983. Neighbourhood & Worker’s Service Centre (Added L.N. 395 of 1998)
 
 - 984. The Young Men’s Christian Association of Hong Kong (Added L.N. 395 of 1998)
+
+- 985. The Hong Kong Management Association (Added L.N. 27 of 1999)
+
+- 986. The Federation of Hong Kong Industries (Added L.N. 27 of 1999)
+
+- 987. Sheng Kung Hui Diocesan Welfare Council (Added L.N. 27 of 1999)
