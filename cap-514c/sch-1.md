@@ -40,9 +40,9 @@ MICRO-ORGANISMS
 
 - 2. Availability of cultures
 
-  - (1) A request to the Registrar for the issue of a notice of confirmation regarding the release of a deposited culture shall be in the specified form and shall be filed in quadruplicate.
+  - (1) A request to the Registrar for the issue of a notice of confirmation regarding the release of a deposited culture shall be in the specified form. (L.N. 37 of 2004)
 
-  - (2) The Registrar shall send copies of the forms lodged with him under subparagraph (1) and of his notice of confirmation regarding the release of the sample—
+  - (2) The Registrar shall send a copy of the form lodged with him under subparagraph (1) and of his notice of confirmation regarding the release of the sample— (L.N. 37 of 2004)
 
     - (a) to the applicant for, or proprietor of, the patent;
 
@@ -64,7 +64,7 @@ MICRO-ORGANISMS
 
     - (b) if a patent is granted on the application, the undertaking set out in subparagraph (3)(a) shall also have effect during any period for which the patent is in force and during the further period of 6 months referred to in section 126(5) of the Ordinance; and
 
-    - (c) the undertaking set out in subparagraph (3)(b) shall not have effect after the date of publication in the Gazette of a notice advertising that the patent has been granted.
+    - (c) the undertaking set out in subparagraph (3)(b) shall not have effect after the date of publication in the official journal of a notice advertising that the patent has been granted. (2 of 2001 s. 19)
 
   - (5) For the purpose of enabling any Government use specified in section 69 of the Ordinance in relation to the culture, the undertakings specified in subparagraph (3)—
 
