@@ -10,7 +10,7 @@ MEMBERS OF THE AUTHORITY AND QUORUM OF MEETINGS
 
   - (b) 2 shall be persons nominated by the Hong Kong Garment Manufacturers’ Association;
 
-  - (c) 2 shall be persons nominated by the Clothing Industry Training Board of the Vocational Training Council;
+  - (c) 2 shall be persons nominated by the Textile and Clothing Training Board of the Vocational Training Council; (Amended L.N. 200 of 1999)
 
   - (d) 1 shall be a person nominated by the Federation of Hong Kong Industries;
 
@@ -32,4 +32,4 @@ MEMBERS OF THE AUTHORITY AND QUORUM OF MEETINGS
 
   - (m) 1 shall be a person, not being a public officer or person connected with any of the organizations mentioned in paragraphs (a) to (k).
 
-- 2. Quorum of meetings The quorum for meetings of the Authority shall be 9 members. (Added 93 of 1993 s. 7)
+- 2. Quorum of meetings The quorum for meetings of the Authority shall be 9 members. (Schedule 2 added 93 of 1993 s. 7)
