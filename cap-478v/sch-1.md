@@ -30,13 +30,17 @@ QUALIFICATIONS FOR ISSUE OF AN ENGINE ROOM WATCH RATING CERTIFICATE
 
     - (vii) the use of escape routes from the machinery spaces of a vessel;
 
-    - (viii) the use of engine room alarm systems including the distinction between the various alarms with special reference to fire-extinguishing gas alarms; and
+    - (viii) the use of engine room alarm systems including the distinction between the various alarms with special reference to fire-extinguishing gas alarms; (L.N. 104 of 1998)
 
-    - (ix) the location and use of fire-fighting equipment in the machinery spaces of a vessel.
+    - (ix) the location and use of fire-fighting equipment in the machinery spaces of a vessel; (L.N. 104 of 1998)
+
+    - (x) safe operation of boilers; and (L.N. 104 of 1998)
+
+    - (xi) knowledge of emergency duties. (L.N. 104 of 1998)
 
 - In addition, the rating must satisfy the Authority that he has the ability to understand and carry out orders and to make himself understood in English in matters relevant to the duties of an engine room watch rating.
 
-- 3. If the rating is the holder of a Navigational Watch Rating Certificate issued under section 5 of the Merchant Shipping (Seafarers) (Navigational Watch Ratings) Regulation (Cap. 478 sub. leg.)—
+- 3. If the rating is the holder of a Navigational Watch Rating Certificate issued under section 5 of the Merchant Shipping (Seafarers) (Navigational Watch Ratings) Regulation (Cap. 478 sub. leg. W)—
 
   - (a) where the rating has completed 3 months’ sea service entirely in the engine department, the Authority may remit the remaining 3 months of the 6 months’ sea service specified in section 2(a);
 
@@ -44,4 +48,4 @@ QUALIFICATIONS FOR ISSUE OF AN ENGINE ROOM WATCH RATING CERTIFICATE
 
   - (c) the rating will be required to receive training only in respect of the matters specified in section 2(b)(ii), (iii), (iv), (v), (vi), (vii), (viii) and (ix).
 
-- 4. An applicant for an Engine Room Watch Rating Certificate must produce a valid medical fitness certificate issued under the Merchant Shipping (Seafarers) (Medical Examination) Regulation (Cap. 478 sub. leg.) or other evidence to satisfy the Authority as to the state of the rating’s health and eyesight.
+- 4. An applicant for an Engine Room Watch Rating Certificate must produce a valid medical fitness certificate issued under the Merchant Shipping (Seafarers) (Medical Examination) Regulation (Cap. 478 sub. leg. O) or other evidence to satisfy the Authority as to the state of the rating’s health and eyesight.
