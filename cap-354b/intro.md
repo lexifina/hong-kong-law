@@ -1,0 +1,5 @@
+WASTE DISPOSAL (APPEAL BOARD) REGULATION
+
+(Cap. 354, section 33)
+
+[7 February 1992]
