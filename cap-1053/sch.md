@@ -136,6 +136,8 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Business Administration (Information Systems)
 
+    - Bachelor of Business Administration (Law)
+
     - Bachelor of Cognitive Science
 
     - Bachelor of Dental Surgery
@@ -166,9 +168,13 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Nursing
 
+    - Bachelor of Pharmacy in Chinese Medicine
+
     - Bachelor of Science
 
     - Bachelor of Science in Actuarial Science
+
+    - Bachelor of Science in Applied Medical Sciences
 
     - Bachelor of Science in Biomedical Sciences
 
@@ -191,6 +197,8 @@ ARRANGEMENT OF STATUTES
     - Bachelor of Science in Surveying
 
     - Bachelor of Social Sciences
+
+    - Bachelor of Social Sciences (Government and Laws)
 
     - Bachelor of Social Work
 
@@ -220,11 +228,17 @@ ARRANGEMENT OF STATUTES
 
     - Master of International and Public Affairs
 
+    - Master of Journalism
+
     - Master of Landscape Architecture
 
     - Master of Laws
 
+    - Master of Laws, in law disciplines as determined by the Senate from time to time
+
     - Master of Medical Sciences
+
+    - Master of Nursing in Advanced Practice
 
     - Master of Orthodontics
 
@@ -258,6 +272,8 @@ ARRANGEMENT OF STATUTES
 
     - Master of Science in Real Estate Development
 
+    - Master of Science in Sports Science
+
     - Master of Science in Urban Planning
 
     - Master of Social Sciences
@@ -267,6 +283,8 @@ ARRANGEMENT OF STATUTES
     - Master of Statistics
 
     - Master of Surgery
+
+    - Master of Traditional Chinese Medicine in Acupuncture and Moxibustion
 
     - Master of Urban Design
 
@@ -300,9 +318,15 @@ ARRANGEMENT OF STATUTES
 
     - (a) Diplomas Advanced Diploma in Education
 
+    - Advanced Diploma in Endodontics
+
     - Advanced Diploma in Orthodontics
 
     - Advanced Diploma in Paediatric Dentistry
+
+    - Advanced Diploma in Periodontology
+
+    - Advanced Diploma in Prosthodontics
 
     - Advanced Diploma in Social Work
 
@@ -332,7 +356,11 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in General Dental Surgery
 
+    - Postgraduate Diploma in Infectious Diseases
+
     - Postgraduate Diploma in International Affairs
+
+    - Postgraduate Diploma in Laws
 
     - Postgraduate Diploma in the Law of the People’s Republic of China
 
@@ -343,6 +371,8 @@ ARRANGEMENT OF STATUTES
     - Postgraduate Diploma in Surveying (Real Estate Development)
 
     - (b) Certificates Certificate in Chinese Language
+
+    - Certificate in Health Economics
 
     - Certificate in In-Service Education for Teachers
 
@@ -362,7 +392,7 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Certificate in Psychology
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
