@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[section 13]
+[s. 13]
 
 STATUTES OF THE UNIVERSITY OF HONG KONG
 
@@ -112,6 +112,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - Master of Arts
 
+    - Master of Arts in Applied Linguistics (L.N. 490 of 1997)
+
     - Master of Business Administration
 
     - Master of Dental Surgery
@@ -136,6 +138,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - Master of Science
 
+    - Master of Science in Audiology (L.N. 490 of 1997)
+
     - Master of Science in Computer Science
 
     - Master of Science in Construction Project Management
@@ -143,6 +147,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
     - Master of Science in Engineering
 
     - Master of Science in Environmental Management
+
+    - Master of Science in Real Estate (L.N. 490 of 1997)
 
     - Master of Science in Real Estate Development
 
@@ -206,6 +212,12 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - Postgraduate Diploma in Dental Surgery
 
+    - Postgraduate Diploma in Public Law (L.N. 490 of 1997)
+
+    - Postgraduate Diploma in Surveying (Quantity Surveying) (L.N. 490 of 1997)
+
+    - Postgraduate Diploma in Surveying (Real Estate Development) (L.N. 490 of 1997)
+
     - Postgraduate Diploma in the Law of the People’s Republic of China
 
     - (b) Certificates Certificate in Chinese Language
@@ -232,9 +244,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
-  - 4. No person shall be allowed to proceed to any degree except an aegrotat degree without examination or other adequate test, but honorary degrees may be conferred as the Chancellor thinks fit on the recommendation of the Council as advised by the Honorary Degrees Committee.
-
-- (L.N. 144 of 1970)
+  - 4. No person shall be allowed to proceed to any degree except an aegrotat degree without examination or other adequate test, but honorary degrees may be conferred as the Chancellor thinks fit on the recommendation of the Honorary Degrees Committee. (L.N. 144 of 1970; L.N. 490 of 1997)
 
   - 5. No first degree, other than a degree in medicine or surgery, shall be conferred on any person who has not completed at least a 3 years’ course of study at a University or other place of learning, including at least 1 year at the University of Hong Kong; and no first degree in medicine or surgery shall be conferred on any person who has not completed a 5 years’ course of medical or related study at a University or other place of learning, including at least 2 years at the University of Hong Kong. (L.N. 82 of 1979; L.N. 83 of 1992)
 
@@ -326,7 +336,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
 - (L.N. 83 of 1992)
 
-  - 1. The Dean of each Faculty shall be elected by the members of the Board of the Faculty from the teachers in the teaching departments and other subdivisions of studies and learning allocated to the Faculty, or failing such election shall be appointed by the Council, for 3 years at a time, and shall be eligible for re-election or re-appointment. (L.N. 123 of 1994)
+  - 1. The Dean of each Faculty shall be elected by the Board of the Faculty from among the members of the Board who are full-time teachers in the teaching departments and other subdivisions of studies and learning allocated to the Faculty, or failing such election shall be appointed by the Council, for 3 years at a time, and shall be eligible for re-election or re-appointment. (L.N. 123 of 1994; L.N. 490 of 1997)
 
   - 2. Whenever the office of Dean becomes vacant a new Dean shall forthwith be elected or appointed.
 
@@ -522,11 +532,11 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - (fa) the Dean of Students; (L.N. 144 of 1970)
 
-    - (g) 6 persons appointed by the Chancellor; (L.N. 212 of 1978; L.N. 24 of 1984)
+    - (g) 10 persons appointed by the Chancellor; (L.N. 212 of 1978; L.N. 24 of 1984; L.N. 490 of 1997)
 
     - (h) 6 persons elected by the Court not being officers or teachers; (L.N. 144 of 1970; L.N. 117 of 1992)
 
-    - (ha) 6 persons appointed by the Council not being officers or teachers; (L.N. 58 of 1976)
+    - (ha) 10 persons appointed by the Council not being officers or teachers; (L.N. 58 of 1976; L.N. 490 of 1997)
 
     - (hb) (Repealed L.N. 24 of 1984)
 
@@ -540,7 +550,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
   - 1A. The Registrar shall be the secretary to the Council but shall not be a member thereof. (L.N. 58 of 1976; L.N. 167 of 1992)
 
-  - 2. The Chairman, the 6 members appointed by the Chancellor, and the 6 members appointed by the Council shall be appointed for a period of 3 years, shall be eligible for re-appointment, and may resign by written notice addressed to the Registrar. (L.N. 137 of 1967; L.N. 144 of 1970; L.N. 58 of 1976; L.N. 44 of 1985; L.N. 167 of 1992)
+  - 2. The Chairman, the 10 members appointed by the Chancellor, and the 10 members appointed by the Council shall be appointed for a period of 3 years, shall be eligible for re-appointment, and may resign by written notice addressed to the Registrar. (L.N. 137 of 1967; L.N. 144 of 1970; L.N. 58 of 1976; L.N. 44 of 1985; L.N. 167 of 1992; L.N. 490 of 1997)
 
   - 2A. (Repealed L.N. 44 of 1985)
 
@@ -568,7 +578,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - (a) to administer and manage the finances, accounts, investments, property, business, and all affairs whatsoever of the University, and for that purpose to appoint bankers, counsel, solicitors, and such officers or agents as it may be expedient to appoint;
 
-    - (b) to recommend the award of honorary degrees;
+    - (b) (Repealed L.N. 490 of 1997)
 
     - (c) to invest the moneys of the University, including any unapplied income, in such stocks, funds, fully paid-up shares or securities, mortgages, or debentures or debenture stock as the Council shall think fit, whether such investments be authorized by the general law for the investment of trust moneys or not, and whether such investments be within Hong Kong or not, and to invest such moneys in the purchase of leasehold property in Hong Kong, and to vary any investments by sale and reinvestment or otherwise; (L.N. 32 of 1987)
 
@@ -642,17 +652,41 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
   - 1. The Honorary Degrees Committee shall consist of—
 
-    - (a) the Chancellor, who shall be chairman;
+    - (a) the Pro-Chancellor, who shall be Chairman;
 
-    - (b) the Vice-Chancellor, who shall be vice-chairman;
+    - (b) the Vice-Chancellor, who shall be Vice-Chairman;
 
-    - (c) the Dean of each Faculty; and
+    - (c) a graduate, appointed by the Court, on whom an honorary degree has been conferred;
 
-    - (d) a member of the Council appointed by the Council.
+    - (d) 2 members of the Council, appointed by the Council, who are members of the Council under paragraph 1(g), (h) or (ha) of Statute XVIII, and of whom at least 1 is a graduate;
 
-  - 2. The member appointed by the Council shall hold office for 3 years at a time and shall be eligible for re-appointment.
+    - (e) 3 Deans of Faculties, elected by the Senate; and
+
+    - (f) a Director of The University of Hong Kong Foundation for Educational Development and Research Limited, appointed by resolution of the Board of that Foundation.
+
+  - (L.N. 490 of 1997)
+
+  - 2.
+
+    - (1) The persons appointed under paragraph 1(c), (d) and (f) shall hold office for a period of 3 years, shall be eligible for reappointment, and may resign by written notice addressed to the Registrar.
+
+    - (2) The persons elected under paragraph 1(e) shall hold office for a period of 3 years, shall be eligible for re-election, and may resign by written notice addressed to the Registrar.
+
+  - (L.N. 490 of 1997)
 
   - 3. The Registrar shall be the secretary to the Honorary Degrees Committee but shall not be a member thereof. (L.N. 58 of 1976)
+
+  - 4. The Honorary Degrees Committee may recommend to the Chancellor the award of honorary degrees to persons who have made, in the opinion of the Honorary Degrees Committee, a contribution of distinction in—
+
+    - (a) services to the University; or
+
+    - (b) services to the Hong Kong community; or
+
+    - (c) services to academia.
+
+  - (L.N. 490 of 1997)
+
+  - 5. The Honorary Degrees Committee shall seek from the members of the Court nominations for the award of honorary degrees, and shall have power to receive nominations from any other person or organization. (L.N. 490 of 1997)
 
 - FINANCIAL PROCEDURE
 
@@ -773,6 +807,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
     - (l) to determine the policy to be followed by the Halls of Residence maintained by the University; and to approve Halls and other accommodation for the residence of students not maintained by the University and to prescribe the conditions under which students may be permitted to reside therein;
 
     - (m) to provide lectures and courses of study for persons who are not members of the University;
+
+    - (ma) to entertain and adjudicate upon appeals on matters within the purview of the Senate, provided that the Senate shall not entertain appeals against decisions made by the examiners in connection with degrees, diplomas, certificates or other academic distinctions or attainments; (L.N. 490 of 1997)
 
     - (n) to advise the Council on any matter which may be referred to the Senate by the Council;
 
