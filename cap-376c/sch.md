@@ -78,13 +78,13 @@
 
 - (32) Kowloon West Regional Police Officers’ Mess | East Wing, 1/F, 190, Argyle Street, Kowloon
 
-- (33) Kwai Tsing Police Officers’ Mess | 13/F, 999, Kwai Chung Road, Kwai Chung, New Territories
+- (33) Kwai Tsing Police District Officers’ Mess | 13/F, 999, Kwai Chung Road, Kwai Chung, New Territories (L.N. 94 of 2002)
 
 - (34) Kwun Tong Police Officers’ Mess | G/F, 1, Lei Yue Mun Road, Kwun Tong, Kowloon
 
 - (35) The Land Registry Staff Recreation Club | Room 1714, 17/F, Queensway Government Offices, High Block, Hong Kong
 
-- (36) Lantau District Officers’ Mess | Room 601, 6/F, 1 Shun Tung Road, Lantau Island, New Territories
+- (36) Lantau District Police Officers’ Mess | Room 601, 6/F, 1 Shun Tung Road, Lantau Island, New Territories (L.N. 94 of 2002)
 
 - (37) Local Inspectors’ Association-Hong Kong Police | Room 6, 1 Arbuthnot Road, Hong Kong
 
@@ -100,7 +100,7 @@
 
 - (43) Mongkok Police Officers’ Mess | West Wing, 2/F, 142, Prince Edward Road West, Kowloon
 
-- (44) The New Territories Regional Police Officers’ Mess | Room 901, 9/F, 6, On Po Lane, Tai Po, New Territories
+- (44) New Territories Regional Police Officers’ Mess | Room 901, 9/F, 6, On Po Lane, Tai Po, New Territories (L.N. 94 of 2002)
 
 - (45) New Territories South Regional Police Officers’ Mess | 15/F, 200, Ma On Shan Road, Shatin, New Territories
 
@@ -140,7 +140,7 @@
 
 - (63) Yau Tsim Police Officers’ Mess | 9/F, 213, Nathan Road, Kowloon
 
-- (64) Yuen Long District Officers’ Mess | G/F, 246, Castle Peak Road, Yuen Long, New Territories
+- (64) Yuen Long Police Officers’ Mess | G/F, Ex-single Quarters, Yuen Long Police Station, 246 Castle Peak Road, Yuen Long, New Territories (L.N. 94 of 2002)
 
 - (65) Cape Collinson Correctional Institution Staff Mess | Mess Hall, Block E, G/F, Cape Collinson Correctional Institution, 123 Cape Collinson Road, Chai Wan, Hong Kong (L.N. 87 of 2001)
 
