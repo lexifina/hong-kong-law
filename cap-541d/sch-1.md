@@ -38,7 +38,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - “election expenses” (選舉開支), in relation to a subsector election, has the meaning assigned to it by section 2 of the Corrupt and Illegal Practices Ordinance (Cap. 288);
 
-      - “geographical constituencies final register” (地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under the Electoral Affairs Commission (Registration of Electors) (Geographical Constituencies) (Legislative Council) Regulation (Cap. 541 sub. leg.) and which is in effect;
+      - “geographical constituencies final register” (地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under the Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) and which is in effect; (L.N. 284 of 1999)
 
       - “identity card” (身分證) has the meaning assigned to it by section 1A of the Registration of Persons Ordinance (Cap. 177); (L.N. 147 of 1998)
 
