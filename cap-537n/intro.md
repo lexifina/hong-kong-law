@@ -1,5 +1,3 @@
 UNITED NATIONS SANCTIONS (AFGHANISTAN) (ARMS EMBARGOES) REGULATION
 
-(Cap. 537, section 3)
-
-[12 October 2001]
+(Omitted as expired)
