@@ -1,7 +1,5 @@
 APPENDIX A FORMS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 No. 1 Writ of Summons (O. 6 r. 1) (Hong Kong Coat of Arms) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
 
 19 ., No. .
@@ -42,15 +40,15 @@ The Plaintiff’s claim is for .
 
 (Where the Plaintiff’s claim is for a debt or liquidated demand only: If, within the time for returning the Acknowledgment of Service, the Defendant pays the amount claimed and $. for costs and, if the Plaintiff obtains an order for substituted service, the additional sum of $ ., further proceedings will be stayed. The money must be paid to the Plaintiff or his Solicitor.)
 
-THIS WRIT was issued by. of .
+THIS WRIT was issued by . of .
 
 Solicitors for the said Plaintiff whose address is . *(or where the Plaintiff sues in person.
 
 THIS WRIT was issued by the said Plaintiff who resides at .
 
-. and (if the Plaintiff does not reside within the jurisdiction) whose address for service is .
+. and (if the Plaintiff does not reside within the jurisdiction) whose address for service is.
 
-.)
+.).
 
 (L.N. 251 of 1997; 25 of 1998 s. 2)
 
@@ -324,9 +322,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - And take notice that within [14 days] after service of this notice on you, counting the day of service, you must acknowledge service and state in your acknowledgment whether you intend to contest the proceedings. If you fail to do so, or if your acknowledgment does not state your intention to contest the proceedings, you will be deemed to admit the plaintiff’s claim against the defendant and the defendant’s claim against you and your liability to [indemnify the defendant or to contribute to the extent claimed or to . stating the relief for remedy sought] and will be bound by any judgement or decision given in the action, and the judgement may be enforced against you in accordance with Order 16 of the Rules of the High Court Chapter 4. Dated the . day of . 19 .
 
-- (Signed) .
+- (Signed).
 
-- Solicitor for the defendant.
+- Solicitor for the defendant
 
 - IMPORTANT
 
@@ -426,7 +424,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 31 Summons for examination within jurisdiction of witness before trial (O. 39 r. 1) (Heading as in cause or matter)
 
-- Let all parties concerned attend the Judge (or Registrar) in chambers at the High Court in Hong Kong on . the . day of . 19 . at . o’clock on the hearing of an application on the part of . . that A.B. a witness on behalf of the . be examined forthwith before a Judge, [the Registrar] or one of the examiners of the Court (or an examiner to be agreed upon) upon the usual terms, and that the costs of this application be (costs in the cause). Dated the . day of . 19 . This summons was taken out by . of . solicitor for the . To the above-named . (and . his solicitor).
+- Let all parties concerned attend the Judge (or Registrar) in chambers at the High Court in Hong Kong on . the . day of . 19 . at . o’clock on the hearing of an application on the part of .
+
+- . that A.B. a witness on behalf of the . be examined forthwith before a Judge, [the Registrar] or one of the examiners of the Court (or an examiner to be agreed upon) upon the usual terms, and that the costs of this application be (costs in the cause). Dated the . day of . 19 . This summons was taken out by . of . solicitor for the . To the above-named . (and . his solicitor).
 
 - (L.N. 313 of 1997; 25 of 1998 s. 2)
 
@@ -462,7 +462,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - _ No. 35 Letter of request for examination of witness out of jurisdiction (O. 39 r. 3)
 
-- To the Competent Judicial Authority of . in the . of . WHEREAS an action is now pending in the High Court of Hong Kong in which . is plaintiff and . is defendant and in which the plaintiff claims . . AND WHEREAS it has been represented to the said Court that it is necessary for the purposes of justice and for the due determination of the matters in dispute between the parties that the following persons should be examined as witnesses upon oath touching such matters, namely . of . and . of . and it appears that such witnesses are resident within your jurisdiction. Now I . the Registrar of the High Court in Hong Kong hereby request that for the reasons aforesaid and for the assistance of the said Court you will be pleased to summon the said witnesses (and such other witnesses as the agents of the said plaintiff and defendant shall humbly request you in writing so to summon) to attend at such time and place as you shall appoint before you, or such other person as according to your procedure is competent to take the examination of witnesses, and that you will cause such witnesses to be examined viva voce (or upon the interrogatories which accompany this letter of request) touching the said matters in question in the presence of the agents of the plaintiff and defendant or such of them as shall, on due notice given, attend the examination. And I further request that you will permit the agents of both the plaintiff and defendant or such of them as shall be present to examine (upon interrogatories and viva voce upon the subject-matter thereof or arising out of the answers thereto) such witnesses as may, after due notice in writing, be produced on their behalf, and the other party to cross-examine the said witnesses (upon cross-interrogatories and viva voce) and the party producing the witness for examination to re-examine him viva voce. And I further request that you will be pleased to cause the evidence of the said witnesses (or the answers of the said witnesses and all additional viva voce questions, whether on examination, cross-examination or re-examination) to be reduced into writing and all books, letters, papers and documents produced on such examination to be duly marked for identification, and that you will be further pleased to authenticate such examination by the seal of your tribunal or in such other way as is in accordance with your procedure and to return it together with (the interrogatories and cross-interrogatories and) a note of the charges and expenses payable in respect of the execution of this request through the British Consul from whom the same was received (or ., one of Her Majesty’s Secretaries of State) for transmission to the High Court, Hong Kong. And I further request that you will cause me, or the agents of the parties if appointed, to be informed of the date and place where the examination is to take place. Dated the . day of . 19 .
+- To the Competent Judicial Authority of . in the . of . WHEREAS an action is now pending in the High Court of Hong Kong in which . is plaintiff and . is defendant and in which the plaintiff claims . AND WHEREAS it has been represented to the said Court that it is necessary for the purposes of justice and for the due determination of the matters in dispute between the parties that the following persons should be examined as witnesses upon oath touching such matters, namely . of . and . of . and it appears that such witnesses are resident within your jurisdiction. Now I . the Registrar of the High Court in Hong Kong hereby request that for the reasons aforesaid and for the assistance of the said Court you will be pleased to summon the said witnesses (and such other witnesses as the agents of the said plaintiff and defendant shall humbly request you in writing so to summon) to attend at such time and place as you shall appoint before you, or such other person as according to your procedure is competent to take the examination of witnesses, and that you will cause such witnesses to be examined viva voce (or upon the interrogatories which accompany this letter of request) touching the said matters in question in the presence of the agents of the plaintiff and defendant or such of them as shall, on due notice given, attend the examination. And I further request that you will permit the agents of both the plaintiff and defendant or such of them as shall be present to examine (upon interrogatories and viva voce upon the subject-matter thereof or arising out of the answers thereto) such witnesses as may, after due notice in writing, be produced on their behalf, and the other party to cross-examine the said witnesses (upon cross-interrogatories and viva voce) and the party producing the witness for examination to re-examine him viva voce. And I further request that you will be pleased to cause the evidence of the said witnesses (or the answers of the said witnesses and all additional viva voce questions, whether on examination, cross-examination or re-examination) to be reduced into writing and all books, letters, papers and documents produced on such examination to be duly marked for identification, and that you will be further pleased to authenticate such examination by the seal of your tribunal or in such other way as is in accordance with your procedure and to return it together with (the interrogatories and cross-interrogatories and) a note of the charges and expenses payable in respect of the execution of this request through the British Consul from whom the same was received (or ., one of Her Majesty’s Secretaries of State) for transmission to the High Court, Hong Kong. And I further request that you will cause me, or the agents of the parties if appointed, to be informed of the date and place where the examination is to take place. Dated the . day of . 19 .
 
 - (25 of 1998 s. 2)
 
@@ -500,7 +500,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 39 Default judgment in action for liquidated demand (O. 13 r. 1; O. 19 r. 2; O. 42 r. 1) (Heading as in action)
 
-- The . day of . 19. No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff $. and $. costs (or costs to be taxed). (The above costs have been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 19 .).
+- The . day of . 19. No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed). (The above costs have been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 19 .).
 
 - (L.N. 251 of 1997)
 
@@ -588,7 +588,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - . having on the . day of . 19 . been tried before the said . and the said . having found . and having ordered that judgment as hereinafter provided be entered for the .
 
-- . (or having dismissed the cause or matter). It is adjudged that (the defendant do pay the plaintiff $ . and his costs of action to be taxed) (the plaintiff do pay the defendant his costs of defence to be taxed) or as may be according to the order made.
+- .(or having dismissed the cause or matter). It is adjudged that (the defendant do pay the plaintiff $ . and his costs of action to be taxed) (the plaintiff do pay the defendant his costs of defence to be taxed) or as may be according to the order made.
 
 - (L.N. 251 of 1997)
 
@@ -742,7 +742,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - It is required that you cause the said goods to be delivered to A.B. and that if possession of the said goods cannot be obtained by you you cause to be made of the goods, chattels and other property of C.D. authorized by law to be seized in execution $ . the assessed value of the said goods and pay it to A.B.
 
-- And it is also required you that of the said property of C.D. you cause to be made the sums of $ . for (damages and) costs and $ . for costs of execution and also interest on $ . at the rate of $4 per cent per annum from the . day of. 19 . until payment together with bailiff’s fees, costs of levying and all other legal incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
+- And it is also required that of the said property of C.D. you cause to be made the sums of $ . for (damages and) costs and $ . for costs of execution and also interest on $ . at the rate of $4 per cent per annum from the . day of. 19 . until payment together with bailiff’s fees, costs of levying and all other legal incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
 
 - And it is also required that you indorse (remainder as in No. 53).
 
@@ -858,7 +858,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - Upon reading the affidavit of . filed the . day of . 19 .:
 
-- It is ordered by (Mr. Justice . ) that all debts due or accruing due from the above-mentioned garnishee to the above-mentioned judgment debtor (in the sum of $ .) be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the High Court on the . day of . 19 . for the sum (or to answer an order made in the High Court on the . day of . 19 .; ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remains due and unpaid.
+- It is ordered by (Mr. Justice .) that all debts due or accruing due from the above-mentioned garnishee to the above-mentioned judgment debtor (in the sum of $ .) be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the High Court on the . day of . 19 . for the sum (or to answer an order made in the High Court on the . day of . 19 .; ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remains due and unpaid.
 
 - And it is ordered that the said garnishee attend Mr. Justice . in Chambers, at the High Court, in Hong Kong on the . day of . 19 . at . o’clock, on an application by the said judgment creditor that the garnishee do pay to the said judgment creditor the debt due from the said garnishee to the said judgment debtor, or so much thereof as may be sufficient to satisfy the said judgment (or order), together with the costs of the garnishee proceedings.
 
@@ -1210,11 +1210,11 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - Upon reading the notice of motion on behalf of the said A.B. and upon hearing Mr. . of counsel for the said A.B.
 
-- It is ordered that upon the said A.B. giving security (by his own recognizance) in the sum of $ . with (two) sufficient sureties in the sum of $ . each before the Registrar for the personal appearance of the said A.B. before the . court within ten days after the judgment of this Honourable Court on his said appeal shall have been given unless the order of the said court is reversed by that judgment, he, the said A.B. be discharged out of the custody of the Commissioner of Prisons . in respect of his commitment as aforesaid.
+- It is ordered that upon the said A.B. giving security (by his own recognizance) in the sum of $ . with (two) sufficient sureties in the sum of $ . each before the Registrar for the personal appearance of the said A.B. before the . court within ten days after the judgment of this Honourable Court on his said appeal shall have been given unless the order of the said court is reversed by that judgment, he, the said A.B. be discharged out of the custody of the Commissioner for Correctional Services . in respect of his commitment as aforesaid.
 
 - By the Court
 
-- (47 of 1997 s. 10)
+- (47 of 1997 s. 10; L.N. 39 of 1999)
 
 - - No. 100 Notice of payment into court in connection with arbitration proceedings (O. 73 r. 11)
 
@@ -1358,7 +1358,11 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - [here set out relief]
 
-- AND that the costs of and incidental to this application may be paid by . . Dated this . day of . 19 .
+- AND that the costs of and incidental to this application may be paid by .
+
+- .
+
+- Dated this . day of . 19 .
 
 - (Sd.) .
 
