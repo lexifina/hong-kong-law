@@ -1,11 +1,31 @@
 # SECOND SCHEDULE
 
-[regs. 4, 6, 7 & 14]
+[regs. 4, 6, 7, 14 & 14A] (L.N. 196 of 2002)
 
 FEES
 
 Item | Particular | Fee $
 
-1. 1A. 2. 3. 4. 5. | For registration in any part of the register— (a) Person qualified in Hong Kong . (b) Person qualified elsewhere . For practising certificate (34 of 1995 s. 34) . For replacement copy of certificate of registration or practising certificate . For restoration of name to any part of register . Entrance fees for examination— (a) Any examination . (b) Any re-examination . For certificate verifying registration . | 360 1035 200 175 245 620 620 170
+1. | For registration in any part of the register—
+
+(a) Person qualified in Hong Kong . | 360
+
+(b) Person qualified elsewhere . | 1035
+
+1A. | For practising certificate (34 of 1995 s. 34) . | 200
+
+2. | For replacement copy of certificate of registration or practising certificate . | 175
+
+3. | For restoration of name to any part of register . | 245
+
+4. | Entrance fees for examination—
+
+(a) Any examination . | 620
+
+(b) Any re-examination . | 620
+
+4A. | For request for review of result of examination (L.N. 196 of 2002) . | 425
+
+5. | For certificate verifying registration . | 170
 
 (Second Schedule replaced L.N. 191 of 1989. L.N. 610 of 1994; 34 of 1995 s. 34; L.N. 13 of 1997; L.N. 317 of 2000; 9 of 2002 s. 4)
