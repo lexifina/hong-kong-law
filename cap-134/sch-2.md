@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-[ss. 2 & 52]
+[ss. 2, 50 & 52] (Amended L.N. 59 of 1999)
 
 PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GOVERNMENT
 
@@ -68,7 +68,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 32. Our Lady of Maryknoll Hospital
 
-- 33. Pacific Dialysis Centre Limited
+- 33. (Repealed L.N. 59 of 1999)
 
 - 34. Pok Oi Hospital
 
@@ -118,7 +118,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 57. Tung Wah Eastern Hospital
 
-- 58. Tung Wah Group of Hospitals, Fung Yiu King Convalescent Hospital
+- 58. Tung Wah Group of Hospitals Fung Yiu King Hospital (Amended L.N. 59 of 1999)
 
 - 59. Tung Wah Hospital
 
@@ -166,7 +166,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 81. Pamela Youde Polyclinic (Added L.N. 174 of 1997)
 
-- 82. Rahabaid Centre (Added L.N. 174 of 1997)
+- 82. Rehabaid Centre (Added L.N. 174 of 1997. Amended L.N. 59 of 1999)
 
 - 83. Tai Po Hospital (Added L.N. 174 of 1997)
 
@@ -176,4 +176,16 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 86. The Lookout (Added L.N. 388 of 1997)
 
-- 87. North District Hospital (Added L.N. 599 of 1997) (Replaced L.N. 187 of 1992)
+- 87. North District Hospital (Added L.N. 599 of 1997)
+
+- 88. Integrated Dialysis Facilities (HK) Limited (Added L.N. 59 of 1999)
+
+- 89. Buddhist Li Chong Yuet Ming Nursing Home for the Elderly (Added L.N. 59 of 1999)
+
+- 90. Pok Oi Hospital Tuen Mun Nursing Home (Added L.N. 59 of 1999)
+
+- 91. Yan Chai Nursing Home (Added L.N. 59 of 1999)
+
+- 92. Hong Kong Sheng Kung Hui Nursing Home (Added L.N. 59 of 1999)
+
+- 93. Shatin Sister Aquinas Memorial Women’s Treatment Centre (Added L.N. 59 of 1999) (Second Schedule replaced L.N. 187 of 1992)
