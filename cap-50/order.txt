@@ -18,6 +18,7 @@ s-016.md
 s-017.md
 s-018.md
 s-018A.md
+s-018B.md
 s-019.md
 s-020.md
 s-021.md
@@ -50,11 +51,13 @@ s-032E.md
 s-032F.md
 s-032G.md
 s-032H.md
+s-032I.md
 s-033.md
 s-033A.md
 s-033B.md
 s-034.md
 s-035.md
+s-035A.md
 s-036.md
 s-037.md
 s-038.md
@@ -62,6 +65,7 @@ s-039.md
 s-040.md
 s-041.md
 s-041A.md
+s-041B.md
 s-042A.md
 s-042B.md
 s-042C.md
@@ -69,6 +73,7 @@ s-042D.md
 s-042E.md
 s-042F.md
 s-042G.md
+s-042H.md
 s-042.md
 s-043.md
 s-044.md
@@ -79,4 +84,6 @@ s-048.md
 s-049.md
 s-050.md
 s-051.md
+s-052.md
+s-053.md
 sch.md

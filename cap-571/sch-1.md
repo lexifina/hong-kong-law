@@ -56,7 +56,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (b) receives or holds in Hong Kong client assets of the intermediary;
 
-    - “auditor” (核數師) means a professional accountant registered and holding a practising certificate under the Professional Accountants Ordinance (Cap. 50), or such other person as is prescribed by rules made under section 397 of this Ordinance for the purposes of this definition;
+    - “auditor” (核數師) means a certified public accountant (practising) as defined in the Professional Accountants Ordinance (Cap. 50), or such other person as is prescribed by rules made under section 397 of this Ordinance for the purposes of this definition; (Amended 23 of 2004 s. 56)
 
     - “authorized automated trading services” (認可自動化交易服務) means automated trading services which a person is authorized to provide under section 95(2) of this Ordinance;
 
@@ -107,6 +107,8 @@ INTERPRETATION AND GENERAL PROVISIONS
       - (b) a gale warning day or a black rainstorm warning day as defined in section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1);
 
     - “certificate of deposit” (存款證) means a document relating to money, in any currency, which has been deposited with the issuer or some other person, being a document which recognizes an obligation to pay a stated amount to bearer or to order, with or without interest, and being a document by the delivery of which, with or without endorsement, the right to receive that stated amount, with or without interest, is transferable (and, in the case of any such document which is a prescribed instrument by virtue of paragraph (a) of the definition of “prescribed instrument” in section 137B(1) of the Banking Ordinance (Cap. 155), such document includes any right or interest referred to in paragraph (b) of that definition in respect of such document);
+
+    - “certified public accountant” (會計師) means a certified public accountant as defined in section 2 of the Professional Accountants Ordinance (Cap. 50); (Replaced 23 of 2004 s. 56)
 
     - “charge” (押記) includes any form of security, including a mortgage;
 
@@ -166,7 +168,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (ii) received or held by or on behalf of any corporation which is in a controlling entity relationship with the licensed corporation,
 
-      - which is so received or held on behalf of a client of the licensed corporation or in which a client of the licensed corporation has a legal or equitable interest, and includes any accretions thereto whether as capital or income; or
+    - which is so received or held on behalf of a client of the licensed corporation or in which a client of the licensed corporation has a legal or equitable interest, and includes any accretions thereto whether as capital or income; or
 
       - (b) in relation to a registered institution, means any money—
 
@@ -174,7 +176,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (ii) received or held by or on behalf of any corporation which is in a controlling entity relationship with the registered institution, in relation to such conduct of the regulated activity,
 
-    - which is so received or held on behalf of a client of the registered institution or in which a client of the registered institution has a legal or equitable interest, and includes any accretions thereto whether as capital or income;
+      - which is so received or held on behalf of a client of the registered institution or in which a client of the registered institution has a legal or equitable interest, and includes any accretions thereto whether as capital or income;
 
     - “client securities” (客戶證券)—
 
@@ -256,9 +258,11 @@ INTERPRETATION AND GENERAL PROVISIONS
 
     - “constitution” (章程), in relation to a corporation, including a recognized exchange company, recognized clearing house, recognized exchange controller or recognized investor compensation company, means—
 
-      - (a) where the corporation is a company, the memorandum and articles of the corporation; or
+  - (a) where the corporation is a company, the memorandum and articles of the corporation; or
 
-      - (b) in any other case, any other instrument providing for the constitution of the corporation;
+  - (b)
+
+  - in any other case, any other instrument providing for the constitution of the corporation;
 
     - “controlling entity” (控權實體), in relation to a corporation, means a person who, either alone or with any of his associates—
 
@@ -530,8 +534,6 @@ INTERPRETATION AND GENERAL PROVISIONS
 
     - “Privacy Commissioner for Personal Data” (私隱專員) means the Privacy Commissioner for Personal Data established under section 5(1) of the Personal Data (Privacy) Ordinance (Cap. 486);
 
-    - “professional accountant” (專業會計師) means a professional accountant as defined in section 2 of the Professional Accountants Ordinance (Cap. 50);
-
     - “professional investor” (專業投資者) means—
 
       - (a) any recognized exchange company, recognized clearing house, recognized exchange controller or recognized investor compensation company, or any person authorized to provide automated trading services under section 95(2) of this Ordinance;
@@ -548,7 +550,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (ii) is similarly constituted under the law of any place outside Hong Kong and, if it is regulated under the law of such place, is permitted to be operated under the law of such place,
 
-      - or any person by whom any such scheme is operated;
+    - or any person by whom any such scheme is operated;
 
       - (f) any registered scheme as defined in section 2(1) of the Mandatory Provident Fund Schemes Ordinance (Cap. 485), or its constituent fund as defined in section 2 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A), or any person who, in relation to any such registered scheme, is an approved trustee or service provider as defined in section 2(1) of that Ordinance or who is an investment manager of any such registered scheme or constituent fund;
 
@@ -558,7 +560,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (ii) is an offshore scheme as defined in section 2(1) of that Ordinance and, if it is regulated under the law of the place in which it is domiciled, is permitted to be operated under the law of such place,
 
-    - or any person who, in relation to any such scheme, is an administrator as defined in section 2(1) of that Ordinance;
+      - or any person who, in relation to any such scheme, is an administrator as defined in section 2(1) of that Ordinance;
 
       - (h) any government (other than a municipal government authority), any institution which performs the functions of a central bank, or any multilateral agency;
 
@@ -696,7 +698,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (vii) generally, its management, operations or procedures,
 
-    - and includes, in respect of sections 24 and 92 of this Ordinance, its constitution;
+      - and includes, in respect of sections 24 and 92 of this Ordinance, its constitution;
 
       - (b) in relation to a recognized clearing house, means the rules, regulations and directions, by whatever name they may be called and wherever contained, governing—
 
@@ -712,7 +714,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (vi) generally, its management, operations or procedures,
 
-      - and includes, in respect of sections 41 and 92 of this Ordinance, its constitution;
+    - and includes, in respect of sections 41 and 92 of this Ordinance, its constitution;
 
       - (c) in relation to a recognized exchange controller, means—
 

@@ -40,7 +40,7 @@ REGULATED ACTIVITIES
 
     - (vi) counsel who gives such advice wholly incidental to his practice as such;
 
-    - (vii) a professional accountant who gives such advice wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50);
+    - (vii) a certified public accountant who gives such advice wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
 
     - (viii) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice wholly incidental to the discharge of its duty as such; or
 
@@ -94,7 +94,7 @@ REGULATED ACTIVITIES
 
     - (vi) counsel who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as counsel;
 
-    - (vii) a professional accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a professional accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50);
+    - (vii) a certified public accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a certified public accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
 
     - (viii) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
 
@@ -148,7 +148,7 @@ REGULATED ACTIVITIES
 
     - (vi) counsel who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as counsel;
 
-    - (vii) a professional accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a professional accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50);
+    - (vii) a certified public accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a certified public accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
 
     - (viii) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
 
@@ -178,7 +178,7 @@ REGULATED ACTIVITIES
 
     - (f) counsel who provides such service wholly incidental to his practice as such;
 
-    - (g) a professional accountant who provides such service wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); or
+    - (g) a certified public accountant who provides such service wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); or (Amended 23 of 2004 s. 56)
 
     - (h) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which provides such service wholly incidental to the discharge of its duty as such;
 
@@ -218,9 +218,9 @@ REGULATED ACTIVITIES
 
       - (B) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 2 regulated activity by an authorized financial institution registered for that regulated activity,
 
-    - but the person shall be regarded as dealing in futures contracts if, in return for a commission, rebate or other remuneration, the person—
+  - but the person shall be regarded as dealing in futures contracts if, in return for a commission, rebate or other remuneration, the person—
 
-      - (I) receives from a third person an offer or invitation to enter into a futures contract, and communicates it, either in his name or in the name of the third person, to the futures dealer;
+    - (I) receives from a third person an offer or invitation to enter into a futures contract, and communicates it, either in his name or in the name of the third person, to the futures dealer;
 
       - (II) effects an introduction between the futures dealer or his representative and a third person, so that the third person may enter into, or offer or invite to enter into, a futures contract with the futures dealer;
 
@@ -260,9 +260,9 @@ REGULATED ACTIVITIES
 
       - (B) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 1 regulated activity by an authorized financial institution registered for that regulated activity,
 
-    - but the person shall be regarded as dealing in securities if, in return for a commission, rebate or other remuneration, the person—
+  - but the person shall be regarded as dealing in securities if, in return for a commission, rebate or other remuneration, the person—
 
-      - (I) receives from a third person an offer or invitation to enter into an agreement referred to in paragraph (a) or (b), and communicates it, either in his name or in the name of the third person, to the securities dealer;
+    - (I) receives from a third person an offer or invitation to enter into an agreement referred to in paragraph (a) or (b), and communicates it, either in his name or in the name of the third person, to the securities dealer;
 
       - (II) effects an introduction between the securities dealer or his representative and a third person, so that the third person may enter into, or offer or invite to enter into, an agreement referred to in paragraph (a) or (b) with the securities dealer;
 
@@ -300,7 +300,7 @@ REGULATED ACTIVITIES
 
       - (B) the shares in which are exclusively, or primarily, redeemable shares,
 
-    - or issues together with the prospectus a form of application for the shares in the corporation;
+  - or issues together with the prospectus a form of application for the shares in the corporation;
 
     - (xi) issues any advertisement, invitation or document the issue of which has been authorized by the Commission under section 105 of this Ordinance;
 
@@ -394,11 +394,9 @@ REGULATED ACTIVITIES
 
       - (II) use any financial accommodation provided by the trader to facilitate foreign exchange trading or facilitate entering into a leveraged foreign exchange contract; or
 
-        - (C)
+        - (C) effects the entering into a leveraged foreign exchange contract by another person through the trader,
 
-        - effects the entering into a leveraged foreign exchange contract by another person through the trader,
-
-          - where in this paragraph, “trader” (交易商) means a corporation licensed for Type 3 regulated activity or an authorized financial institution; or
+  - where in this paragraph, “trader” (交易商) means a corporation licensed for Type 3 regulated activity or an authorized financial institution; or
 
     - (xv) by—
 
@@ -428,7 +426,7 @@ REGULATED ACTIVITIES
 
       - (B) the shares in which are exclusively, or primarily, redeemable shares,
 
-    - in order to finance investment in any interest in the collective investment scheme of which it is the issuer;
+  - in order to finance investment in any interest in the collective investment scheme of which it is the issuer;
 
     - (v) by an authorized financial institution for the purpose of facilitating acquisitions or holdings of securities by the institution’s clients;
 

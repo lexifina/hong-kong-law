@@ -34,7 +34,7 @@ OFFERS BY INTERMEDIARIES OR REPRESENTATIVES FOR TYPE 1, TYPE 4 OR TYPE 6 REGULAT
 
     - you should consult a licensed securities dealer,
 
-    - bank manager, solicitor, professional
+    - bank manager, solicitor, certified public
 
     - accountant or other professional
 
@@ -42,7 +42,9 @@ OFFERS BY INTERMEDIARIES OR REPRESENTATIVES FOR TYPE 1, TYPE 4 OR TYPE 6 REGULAT
 
     - (b) in the case of the Chinese text, the following notice printed in type the face of which is not less than 2.5 mm in depth— “重要提示 如你對此要約的任何方面有疑問，應諮詢持牌證券交易商、
 
-    - 銀行經理、律師、專業會計師或其他專業顧問。”.
+    - 銀行經理、律師、會計師或其他專業顧問。”
+
+  - (Amended 23 of 2004 s. 56)
 
   - 5.
 
@@ -216,7 +218,7 @@ OFFERS BY INTERMEDIARIES OR REPRESENTATIVES FOR TYPE 1, TYPE 4 OR TYPE 6 REGULAT
 
     - you should consult a licensed securities dealer,
 
-    - bank manager, solicitor, professional
+    - bank manager, solicitor, certified public
 
     - accountant or other professional
 
@@ -224,7 +226,9 @@ OFFERS BY INTERMEDIARIES OR REPRESENTATIVES FOR TYPE 1, TYPE 4 OR TYPE 6 REGULAT
 
     - (b) in the case of the Chinese text, the following notice printed in type the face of which is not less than 2.5 mm in depth— “重要提示 如你對此要約的任何方面有疑問，應諮詢持牌證券交易商、
 
-    - 銀行經理、律師、專業會計師或其他專業顧問。”.
+    - 銀行經理、律師、會計師或其他專業顧問。”.
+
+  - (Amended 23 of 2004 s. 56)
 
   - 9.
 

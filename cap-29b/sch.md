@@ -1,10 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [rule 29]
 
-FEES
-
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
+Fees
 
 The following fees shall be payable under these rules—
 
@@ -24,10 +22,10 @@ For filing any other document relating to the trust . | 4.00
 
 For auditing the accounts of the trust when audited by the officer of the court, for every $1,000.00 or fraction of $1,000.00 of the gross amount received as income of the trust without deducting any payments . | 4.00
 
-On the audit of the accounts of the trust where they are referred to a professional accountant for report On inspection of filed accounts for each hour or part of an hour | ｝ | A fee equal to the amount paid to the accountant.
+On the audit of the accounts of the trust where they are referred to a certified public accountant for report . | ｝ | A fee equal to the amount paid to the accountant.
 
-occupied . | 4.00
+On inspection of filed accounts for each hour or part of an hour occupied. | 4.00
 
 Not exceeding on one day . | 10.00
 
-(25 of 1998 s. 2)
+(25 of 1998 s. 2; 23 of 2004 s. 56)

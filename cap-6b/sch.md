@@ -1,7 +1,5 @@
 # SCHEDULE FORMS
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2; 25 of 1998 s. 2)
-
 INDEX
 
 Form
@@ -904,7 +902,7 @@ In the matter of a petition dated
 
 - ｜
 
-- (i) No. | (ii) Name of creditor or claimant | (iii) Address | (iv) Amount owed to creditor | (v) Specify the asset being held or claimed or pledged as security | (vi) Date when security given | (vii) Estimated value of the asset in column (v) $ | (viii) Estimated excess, i.e. (vii) less (iv) $ | (ix) Net indebted-ness i.e. (iv) less (vii) $
+- (i) No. | (ii) Name of creditor or claimant | (iii) Address | (iv) Amount owed to creditor | (v) Specify the asset being held or claimed or pledged as security | (vi) Date when security given | (vii) Estimated value of the asset in column (v) $ | (viii) Estimated excess, i.e. (vii) less (iv) $ | (ix) Net indebtedness i.e. (iv) less (vii) $
 
 - 1. | . | . | . | . | . | . | . | .
 
@@ -936,7 +934,7 @@ In the matter of a petition dated
 
 - 15. | . | . | . | . | . | . | . | .
 
-- Show the total of column (viii) under “Assets”, item (2) in the Summary of Statement of Affairs $ $
+- Show the total of column (viii) under “Assets”, item (2) in the Summary of Statement of Affairs $
 
 - Show the total of column (ix) under “Liabilities”, item (4) in the Summary of Statement of Affairs $
 
@@ -2924,9 +2922,9 @@ In the matter of a petition dated
 
 - ORDINANCE (CHAPTER 6) (Title.)
 
-- (a) Insert name, address and description of applicant. (b) Insert details of documents to be disclosed. (c) Insert date of order under section 30D(1) of the Bankruptcy Ordinance (Chapter 6). (d) Insert the name of the trustee who must be the Official Receiver, a professional accountant or a solicitor. See section 30D(1) of the Bankruptcy Ordinance (Chapter 6). (e) Insert any further order regarding means of disclosure. | in chambers Upon the application of (a) And upon hearing And upon reading the evidence filed It is ordered that— (b) which were produced to this court in compliance with an order dated (c) under section 30D(1) of the Bankruptcy Ordinance (Chapter 6) be disclosed to— (d) And it is ordered that the above-named be at liberty to inspect and peruse the documents so produced and to make notes of the contents thereof and to be entitled to be supplied with copies thereof on payment of the proper charges. (e) Dated this day of , 19 . Registrar.
+- (a) Insert name, address and description of applicant. (b) Insert details of documents to be disclosed. (c) Insert date of order under section 30D(1) of the Bankruptcy Ordinance (Chapter 6). (d) Insert the name of the trustee who must be the Official Receiver, a certified public accountant or a solicitor. See section 30D(1) of the Bankruptcy Ordinance (Chapter 6). (e) Insert any further order regarding means of disclosure. | in chambers Upon the application of (a) And upon hearing And upon reading the evidence filed It is ordered that— (b) which were produced to this court in compliance with an order dated (c) under section 30D(1) of the Bankruptcy Ordinance (Chapter 6) be disclosed to— (d) And it is ordered that the above-named be at liberty to inspect and peruse the documents so produced and to make notes of the contents thereof and to be entitled to be supplied with copies thereof on payment of the proper charges. (e) Dated this day of , 19 . Registrar.
 
-- (L.N. 81 of 1998)
+- (L.N. 81 of 1998; 23 of 2004 s. 56)
 
 - _
 
@@ -2936,9 +2934,9 @@ In the matter of a petition dated
 
 - THE BANKRUPTCY ORDINANCE (CHAPTER 6) (Title.)
 
-- (a) Delete as applicable. (b) Insert details of documents to be disclosed. (c) Insert date of order under section 30D(1) of the Bankruptcy Ordinance (Chapter 6). (d) Insert the name of the trustee who must be the Official Receiver, a professional accountant or a solicitor. See section 30D(1) of the Bankruptcy Ordinance (Chapter 6). (e) Insert any further order required regarding means of disclosure. | I, , the [Official Receiver and] (a) trustee of the property of hereby apply for an order that (b) which were produced to this court in compliance with an order dated (c) under section 30D(1) of the Bankruptcy Ordinance (Chapter 6) be disclosed to-(d) And for an order that the above-named be at liberty to inspect and peruse the documents so produced and to make notes of the contents thereof and to be entitled to be supplied with copies thereof on payment of the proper charges. (e) Dated this day of , 19 . [Official Receiver and] (a) Trustee.
+- (a) Delete as applicable. (b) Insert details of documents to be disclosed. (c) Insert date of order under section 30D(1) of the Bankruptcy Ordinance (Chapter 6). (d) Insert the name of the trustee who must be the Official Receiver, a certified public accountant or a solicitor. See section 30D(1) of the Bankruptcy Ordinance (Chapter 6). (e) Insert any further order required regarding means of disclosure. | I, , the [Official Receiver and] (a) trustee of the property of hereby apply for an order that (b) which were produced to this court in compliance with an order dated (c) under section 30D(1) of the Bankruptcy Ordinance (Chapter 6) be disclosed to-(d) And for an order that the above-named be at liberty to inspect and peruse the documents so produced and to make notes of the contents thereof and to be entitled to be supplied with copies thereof on payment of the proper charges. (e) Dated this day of , 19 . [Official Receiver and] (a) Trustee.
 
-- (L.N. 81 of 1998)
+- (L.N. 81 of 1998; 23 of 2004 s. 56)
 
 - _
 
@@ -2980,7 +2978,7 @@ In the matter of a petition dated
 
   - Any application by you to set aside this demand should be made to the Court of First Instance
 
-  - Part B The person or persons to whom any communication regarding the demand may be addressed is/are:
+  - Part B The person or persons to whom any communication regarding the demand may be addressed is/are-
 
   - Name and Address _ _ _ Tel. No. _ _
 

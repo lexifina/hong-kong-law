@@ -36,9 +36,9 @@ Item | Institution
 
 15. | The Hong Kong Institute of Surveyors incorporated by section 3 of The Hong Kong Institute of Surveyors Ordinance (Cap. 1148)
 
-16. | The Hong Kong Society of Accountants incorporated by section 3 of the Professional Accountants Ordinance (Cap. 50)
+16. | The Hong Kong Institute of Certified Public Accountants incorporated by section 3 of the Professional Accountants Ordinance (Cap. 50) (Amended 23 of 2004 s. 56)
 
-17. | The Hong Kong Society of Notaries referred to in section 2(1) of the Legal Practitioners Ordinance (Cap. 159) as amended by section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998)
+*17. | The Hong Kong Society of Notaries referred to in section 2(1) of the Legal Practitioners Ordinance (Cap. 159) as amended by section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998)
 
 18. | The Housing Managers Registration Board established by section 3 of the Housing Managers Registration Ordinance (Cap. 550)
 
@@ -84,6 +84,8 @@ Item | Institution
 
 Editorial Note:
 
-- 1. The amendments made by 12 of 2004 to this schedule except item 17 apply in relation to the year of assessment 2004/05 and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(a))
+Schedule 13 (except item 17) applies in relation to the year of assessment 2004/05 and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(a))
 
-- 2. The amendment made by 12 of 2004 to item 17 of this schedule applies in relation to the year of assessment in which section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998) comes into operation and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(b))
+* Item 17 applies in relation to the year of assessment in which section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998) comes into operation+ and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(b))
+
++ Commencement date: 30 June 2005.

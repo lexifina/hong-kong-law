@@ -1,42 +1,38 @@
-# Schedule 2
+# SECOND SCHEDULE
 
 [regs. 9, 11, 13, 16 & 17]
 
-FORM 1 | [regulation 11]
+FORM 1 | [reg. 11]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) TRAVEL AGENTS LICENCE
 
-Licence No. _
+Licence No.
 
-LICENCE IS GRANTED this _ day of _ 19 _
+LICENCE IS GRANTED this _ day of _ 19
 
-to _
+to
 
 (name)
 
-to carry on business as a travel agent at _
+to carry on business as a travel agent at
 
 (address(es) of premises)
 
-_
-
-_
-
-This licence shall, unless earlier suspended or revoked, cease to have effect on the _ day of _ 19 _.
+This licence shall, unless earlier suspended or revoked, cease to have effect on the _ day of _ 19 _
 
 This licence is subject to the conditions set out herein.
 
-CONDITIONS
+CONDITIONS (1) The licensee shall notify the Registrar of Travel Agents in writing prior to the licensee ceasing to carry on the business of a travel agent at any address specified in this licence. (2) The licensee shall, prior to the expiry of this licence, submit to the Registrar of Travel Agents the latest statement of accounts in respect of the licensee’s business as a travel agent. (3) The licensee shall, during the period that this licence is in force, be and remain a member of an approved organization specified in Part I of Schedule 1 to the Travel Agents Ordinance (Cap. 218).
 
-- (1) The licensee shall notify the Registrar of Travel Agents in writing prior to the licensee ceasing to carry on the business of a travel agent at any address specified in this licence.
+Signed
 
-- (2) The licensee shall, prior to the expiry of this licence, submit to the Registrar of Travel Agents the latest statement of accounts in respect of the licensee’s business as a travel agent.
+Registrar of Travel Agents
 
-- (3) The licensee shall, during the period that this licence is in force, be and remain a member of an approved organization specified in Part I of Schedule 1 to the Travel Agents Ordinance (Cap. 218). Signed _ Registrar of Travel Agents ENDORSEMENTS
+ENDORSEMENTS
 
 (L.N. 240 of 1988; L.N. 136 of 1996; 80 of 1997 s. 102)
 
-FORM 2 | [regulation 9(1)(a)]
+FORM 2 | [reg. 9(1)(a)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR A LICENCE BY AN INDIVIDUAL
 
@@ -44,727 +40,591 @@ OR BY AN UNINCORPORATED BODY
 
 Application is hereby made to the Registrar of Travel Agents for a licence under Part II of the Travel Agents Ordinance.
 
-- 1. Application by an Individual
+1. | Application by an Individual
 
-  - (a) Full name in English _
+(a) | Full name in English
 
-  - (b) Full name in Chinese characters (if applicable) and code _
+(b) | Full name in Chinese characters (if applicable) and code
 
-  - (c) Aliases (if any) _
+(c) | Aliases (if any)
 
-  - (d) Residential address _
+(d) | Residential address
 
-  - _Telephone No. _
+Telephone No.
 
-  - (e) Hong Kong Identity Card number _
+(e) | Hong Kong Identity Card number
 
-  - (f) Place and date of birth _
+(f) | Place and date of birth
 
-- 2. Application by an Unincorporated Body
+2. | Application by an Unincorporated Body
 
-- To be completed for each partner | 1 | 2 | 3 | 4
+To be completed for each partner | 1 | 2 | 3 | 4
 
-- Full name in English
+Full name in English
 
-- Full name in Chinese characters (if applicable) and code
+Full name in Chinese characters (if applicable) and code
 
-- Aliases (if any)
+Aliases (if any)
 
-- Residential address and telephone number
+Residential address and telephone number
 
-- Hong Kong Identity Card number
+Hong Kong Identity Card number
 
-- Place and date of birth
+Place and date of birth
 
-- 3.
+3. | (a) | Name of the business of a travel agent to be licensed—
 
-  - (a) Name of the business of a travel agent to be licensed—
+(i) | in English
 
-    - (i) in English _
+(ii) | in Chinese
 
-    - (ii) in Chinese _
+(b) | Business Registration number
 
-- (b) Business Registration number _
+(c) | Address of the proposed head office and of all offices in Hong Kong at which it is intended to carry on the business of a travel agent, including the number of the street, flat, floor(s), whether the area occupied is part of a floor, the number of the room(s) and whether the applicant is the owner, the principal tenant or the sub-tenant of the premises.
 
-- (c) Address of the proposed head office and of all offices in Hong Kong at which it is intended to carry on the business of a travel agent, including the number of the street, flat, floor(s), whether the area occupied is part of a floor, the number of the room(s) and whether the applicant is the owner, the principal tenant or the sub-tenant of the premises.
+Address | State whether the premises are owned or rented by the applicant | Telephone number
 
-- Address | State whether the premises are owned or rented by the applicant | Telephone number
+(d) | State which, if any, of the premises listed under (c) are not in a commercial building
 
-- (d) State which, if any, of the premises listed under (c) are not in a commercial building _ _
+(e) | Will the proposed office(s) be used exclusively by the business of the travel agent?
 
-- (e) Will the proposed office(s) be used exclusively by the business of the travel agent?
+Yes □ | No □
 
-- Yes | No
+A DUPLICATE LICENCE WILL BE REQUIRED FOR EACH BRANCH OFFICE UNDER REGULATION 12 OF THE TRAVEL AGENTS REGULATIONS.
 
-- A DUPLICATE LICENCE WILL BE REQUIRED FOR EACH BRANCH OFFICE UNDER REGULATION 12 OF THE TRAVEL AGENTS REGULATIONS.
+4. | Particulars of person(s) in Hong Kong proposed to be responsible for the management of the business, including the management of branch office(s).
 
-- 4. Particulars of person(s) in Hong Kong proposed to be responsible for the management of the business, including the management of branch office(s).
+1 | 2 | 3 | 4
 
-- 1 | 2 | 3 | 4
+Full name in English
 
-- Full name in English
+Full name in Chinese characters (if applicable) and code
 
-- Full name in Chinese characters (if applicable) and code
+Aliases (if any)
 
-- Aliases (if any)
+Residential address and telephone number
 
-- Residential address and telephone number
+Hong Kong Identity Card number
 
-- Hong Kong Identity Card number
+Place and date of birth
 
-- Place and date of birth
+Position held
 
-- Position held
+Date of appointment
 
-- Date of appointment
+I/We* declare that all the information given by me/us* in this application is true and correct to the best of my/our* knowledge and belief.
 
-- I/We* declare that all the information given by me/us* in this application is true and correct to the best of my/our* knowledge and belief.
+Signed | Signed
 
-- Signed _ (Individual Applicant) | Signed _ (Applicant as a partner)
+(Individual Applicant) | (Applicant as a partner)
 
-- Signed _ (Applicant as a partner)
+Signed
 
-- Signed _ (Applicant as a partner)
+(Applicant as a partner)
 
-- Signed _ (Applicant as a partner)
+Signed
 
-- * Delete as appropriate. NOTES
+(Applicant as a partner)
 
-- 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application.
+Signed
 
-- 2. A statement of particulars in support of this application (Form 4) must also be completed and submitted.
+(Applicant as a partner)
 
-- 3. Documentary evidence may be required in support of the information given in this application.
+* Delete as appropriate.
 
-- 4. The prescribed fee payable upon submitting this application is $300.
+NOTES 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application. 2. A statement of particulars in support of this application (Form 4) must also be completed and submitted.
 
-- 5. The original and one copy of—
+3. Documentary evidence may be required in support of the information given in this application.
 
-  - (a) this application; and
+4. The prescribed fee payable upon submitting this application is $300. 5. The original and one copy of— (a) this application; and (b) the statement of particulars in support, together with the application fee should be posted or delivered to the Registrar at the following address— TRAVEL AGENTS REGISTRY, 6th Floor, East Wing, Hennessy Centre, 500 Hennessy Road, Hong Kong. (If payment is made by post, only cheques will be accepted. Cheques should be made payable to ‘Hong Kong Government’ and crossed. They must not be made payable to any individual officer. Postdated cheques will not be accepted.) 6. Upon approval of this application, you will be notified of the amount of the licence fee payable, in accordance with the rates set out in the First Schedule of the Travel Agents Regulations. 7. A licence, if granted, shall not enter in force except on payment of the appropriate fee.
 
-- (b) the statement of particulars in support, together with the application fee should be posted or delivered to the Registrar at the following address— TRAVEL AGENTS REGISTRY,
-
-- 6th Floor, East Wing,
-
-- Hennessy Centre,
-
-- 500 Hennessy Road,
-
-- Hong Kong. (If payment is made by post, only cheques will be accepted. Cheques should be made payable to ‘Hong Kong Government’ and crossed. They must not be made payable to any individual officer. Postdated cheques will not be accepted.)
-
-- 6. Upon approval of this application, you will be notified of the amount of the licence fee payable, in accordance with the rates set out in the First Schedule of the Travel Agents Regulations.
-
-- 7. A licence, if granted, shall not enter in force except on payment of the appropriate fee.
-
-- WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
+WARNING—Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connexion with any application for the issue of a licence.
 
 (L.N. 240 of 1988; L.N. 136 of 1996)
 
-FORM 3 | [regulation 9(1)(b)]
+FORM 3 | [reg. 9(1)(b)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR A LICENCE BY A BODY CORPORATE
 
 Application is hereby made to the Registrar of Travel Agents for a licence under Part II of the Travel Agents Ordinance.
 
-- 1.
+1. | (a) | The name and any former names of the company or other body corporate—
 
-  - (a) The name and any former names of the company or other body corporate—
+(i) | in English
 
-    - (i) in English _
+(ii) | in Chinese
 
-    - (ii) in Chinese _
+(b) | The place of incorporation
 
-- (b) The place of incorporation _ _
+(c) | The date of incorporation
 
-- (c) The date of incorporation _
+(d) | Company Registration number
 
-- (d) Company Registration number _
+(e) | The name of the proposed business of a travel agent if different from (a) above—
 
-- (e) The name of the proposed business of a travel agent if different from (a) above—
+(i) | in English
 
-  - (i) in English _
+(ii) | in Chinese
 
-  - (ii) in Chinese _
+(f) | Address of the corporation’s registered office and of all offices in Hong Kong at which it is intended to carry on the business of a travel agent, including the number of the street, flat, floor(s), whether the area occupied is part of a floor, the number of the room(s) and whether the corporation is the owner, the principal tenant or the sub-tenant of the premises.
 
-- (f) Address of the corporation’s registered office and of all offices in Hong Kong at which it is intended to carry on the business of a travel agent, including the number of the street, flat, floor(s), whether the area occupied is part of a floor, the number of the room(s) and whether the corporation is the owner, the principal tenant or the sub-tenant of the premises.
+Address | State whether the premises are owned or rented by the corporation | Telephone number
 
-- Address | State whether the premises are owned or rented by the corporation | Telephone number
+(g) | State which, if any, of the premises listed above are not in a commercial building
 
-- (g) State which, if any, of the premises listed above are not in a commercial building _
+(h) | Will the proposed office(s) be used exclusively by the business of a travel agent?
 
-- (h) Will the proposed office(s) be used exclusively by the business of a travel agent?
+Yes □ | No □
 
-- Yes | No
+A DUPLICATE LICENCE WILL BE REQUIRED FOR EACH BRANCH OFFICE UNDER REGULATION 12 OF THE TRAVEL AGENTS REGULATIONS.
 
-- A DUPLICATE LICENCE WILL BE REQUIRED FOR EACH BRANCH OFFICE UNDER REGULATION 12 OF THE TRAVEL AGENTS REGULATIONS.
+2. | Particulars of the Controller (see note 3), the Secretary and all Directors and officers of the corporation.
 
-- 2. Particulars of the Controller (see note 3), the Secretary and all Directors and officers of the corporation.
+1 | 2 | 3 | 4
 
-- 1 | 2 | 3 | 4
+Full name in English
 
-- Full name in English
+Full name in Chinese characters (if applicable) and code
 
-- Full name in Chinese characters (if applicable) and code
+Aliases (if any)
 
-- Aliases (if any)
+Residential address and telephone number
 
-- Residential address and telephone number
+Hong Kong Identity Card number
 
-- Hong Kong Identity Card number
+Position held (e.g. Controller/Managing Director/Director/Secretary/Manager/Accountant etc.)
 
-- Position held (e.g. Controller/Managing Director/Director/ Secretary/Manager/ Accountant etc.)
+Date of appointment
 
-- Date of appointment
+I declare that all information given by me in this application is true and correct to the best of my knowledge and belief.
 
-- I declare that all information given by me in this application is true and correct to the best of my knowledge and belief. Signature _ Name of Signatory _ Capacity _ (Evidence of authorization by
+Signature
 
-- the company or other body
+Name of Signatory
 
-- corporate for a person in this
+Capacity
 
-- behalf should be produced) NOTES
+(Evidence of authorization by the company or other body corporate for a person in this behalf should be produced)
 
-- 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application.
+NOTES 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application. 2. A statement of particulars in support of this application (Form 5) must also be completed and submitted.
 
-- 2. A statement of particulars in support of this application (Form 5) must also be completed and submitted.
+3. A controller of a travel agency is a person who controls the applicant company and includes a person in accordance with whose directions or instructions the directors thereof are accustomed to act. 4. Documentary evidence may be required in support of the information given in this application.
 
-- 3. A controller of a travel agency is a person who controls the applicant company and includes a person in accordance with whose directions or instructions the directors thereof are accustomed to act.
+5. The prescribed fee payable upon submitting this application is $300.
 
-- 4. Documentary evidence may be required in support of the information given in this application.
+6. The original and one copy of— (a) this application; and (b) the statement of particulars in support, together with the application fee should be posted or delivered to the Registrar at the following address— TRAVEL AGENTS REGISTRY, 6th Floor, East Wing, Hennessy Centre, 500 Hennessy Road, Hong Kong. (If payment is made by post, only cheques will be accepted. Cheques should be made payable to ‘Hong Kong Government’ and crossed. They must not be made payable to any individual officer. Postdated cheques will not be accepted.)
 
-- 5. The prescribed fee payable upon submitting this application is $300.
+7. Upon approval of this application, you will be notified of the amount of the licence fee payable, in accordance with the rates set out in the First Schedule of the Travel Agents Regulations. 8. A licence, if granted, shall not enter in force except on payment of the appropriate fee.
 
-- 6. The original and one copy of—
-
-  - (a) this application; and
-
-  - (b) the statement of particulars in support,
-
-- together with the application fee should be posted or delivered to the Registrar at the following address-
-
-- TRAVEL AGENTS REGISTRY,
-
-- 6th Floor, East Wing,
-
-- Hennessy Centre,
-
-- 500 Hennessy Road,
-
-- Hong Kong.
-
-- (If payment is made by post, only cheques will be accepted. Cheques should be made payable to ‘Hong Kong Government’ and crossed. They must not be made payable to any individual officer. Postdated cheques will not be accepted.)
-
-- 7. Upon approval of this application, you will be notified of the amount of the licence fee payable, in accordance with the rates set out in the First Schedule of the Travel Agents Regulations.
-
-- 8. A licence, if granted, shall not enter in force except on payment of the appropriate fee.
-
-- WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
+WARNING—Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connexion with any application for the issue of a licence.
 
 (L.N. 240 of 1988; L.N. 136 of 1996)
 
-FORM 4 | [regulation 9(2)(a)]
+FORM 4 | [reg. 9(2)(a)]
 
-TRAVEL AGENTS ORDINANCE (Chapter 218) STATEMENT OF PARTICULARS IN SUPPORT OF AN APPLICATION FOR
+TRAVEL AGENTS ORDINANCE (Chapter 218) STATEMENT OF PARTICULARS IN SUPPORT OF AN APPLICATION FOR A LICENCE BY AN INDIVIDUAL OR BY AN UNINCORPORATED BODY
 
-A LICENCE BY AN INDIVIDUAL OR BY AN UNINCORPORATED BODY
+Please answer the following questions— (If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.)
 
-- Please answer the following questions— (If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.)
+1. | (a) | Have you or any members of your management or staff any previous experience in the business of a travel agent?
 
-- 1.
+Yes □ | No □
 
-  - (a) Have you or any members of your management or staff any previous experience in the business of a travel agent?
+(b) | If the answer to (a) is ‘Yes’, state the type and period of such experience
 
-  - Yes | No
+2. | Is it proposed that your business includes obtaining for another person—
 
-  - (b) If the answer to (a) is ‘Yes’, state the type and period of such experience _
+(a) | carriage, by any means of conveyance, on a journey which is to commence in Hong Kong and which thereafter is to take place mainly outside Hong Kong?
 
-  - _
+Yes □ | No □
 
-  - _
+(b) | accommodation at a place outside Hong Kong for which payment is, or is to be, made by that other person on account of the cost of that accommodation?
 
-  - _
+Yes □ | No □
 
-- 2. Is it proposed that your business includes obtaining for another person—
+(c) | If the answer to (a) is ‘Yes’, state whether the travel agency for which application is made for a licence is—
 
-  - (a) carriage, by any means of conveyance, on a journey which is to commence in Hong Kong and which thereafter is to take place mainly outside Hong Kong?
+(i) | approved by IATA
 
-  - Yes | No
+(ii) | an OAA appointed agent
 
-  - (b) accommodation at a place outside Hong Kong for which payment is, or is to be, made by that other person on account of the cost of that accommodation?
+(iii) | appointed as sales agent for an international scheduled air carrier (give name of the air carrier)
 
-  - Yes | No
+2A. | Is it proposed that your business includes obtaining for a visitor to Hong Kong—
 
-  - (c) If the answer to (a) is ‘Yes’, state whether the travel agency for which application is made for a licence is—
+(a) | carriage, by any means of conveyance, on a journey which is to commence outside Hong Kong and which either—
 
-    - (i) approved by IATA _
+(i) | terminates in Hong Kong; or
 
-    - (ii) an OAA appointed agent _
+(ii) | involves the visitor passing through immigration controls before departing from Hong Kong?
 
-    - (iii) appointed as sales agent for an international scheduled air carrier (give name of the air carrier) _ _
+Yes □ | No □
 
-- 2A. Is it proposed that your business includes obtaining for a visitor to Hong Kong—
+(b) | accommodation in Hong Kong for which payment is, or is to be, made by or on behalf of the visitor of an amount on account of the cost of that accommodation?
 
-  - (a) carriage, by any means of conveyance, on a journey which is to commence outside Hong Kong and which either—
+Yes □ | No □
 
-    - (i) terminates in Hong Kong; or
+(c) | one or more services that are prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance?
 
-    - (ii) involves the visitor passing through immigration controls before departing from Hong Kong?
+Yes □ | No □
 
-    - Yes | No
+3. | (a) | Is the business of a travel agency for which application is being made for a licence, a member of any established travel business association(s) in Hong Kong?
 
-- (b) accommodation in Hong Kong for which payment is, or is to be, made by or on behalf of the visitor of an amount on account of the cost of that accommodation?
+Yes □ | No □
 
-- Yes | No
+(b) | If the answer to (a) is ‘Yes’, give the name(s) of the travel business association(s)—
 
-- (c) one or more services that are prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance?
+(i)
 
-- Yes | No
+(ii)
 
-- 3.
+(iii)
 
-  - (a) Is the business of a travel agency for which application is being made for a licence, a member of any established travel business association(s) in Hong Kong?
+4. | (a) | Do you propose to keep a bank account in connexion with your business as a travel agent?
 
-  - Yes | No
+Yes □ | No □
 
-  - (b) If the answer to (a) is ‘Yes’, give the name(s) of the travel business association(s)—
+(b) | If the answer to (a) is ‘Yes’, give the following details in respect of each bank at which you propose to keep an account in connexion with the business—
 
-    - (i) _
+1 | 2 | 3 | 4
 
-    - (ii) _
+Name of bank
 
-    - (iii) _
+Address of bank
 
-- 4.
+Account number
 
-  - (a) Do you propose to keep a bank account in connection with your business as a travel agent?
+Date on which the account was opened
 
-  - Yes | No
+5. | (a) | Do you propose to appoint a certified public accountant (practising) as defined in the Professional Accountants Ordinance (Cap. 50) to audit the accounts of the business?
 
-  - (b) If the answer to (a) is ‘Yes’, give the following details in respect of each bank at which you propose to keep an account in connection with the business—
+Yes □ | No □
 
-  - 1 | 2 | 3 | 4
+(b) | If the answer to (a) is ‘Yes’, state the name and address of the accountant—
 
-  - Name of bank
+6. | (a) | Have you, or any member of your management named in paragraph 4 of the Application for a Licence, ever been convicted, whether in Hong Kong or elsewhere, of an offence other than a traffic offence?
 
-  - Address of bank
+Yes □ | No □
 
-  - Account number
+(b) | If the answer to (a) is ‘Yes’, give the following details—
 
-  - Date on which the account was opened
+1 | 2 | 3 | 4
 
-- 5.
+Full name of the defendant in English
 
-  - (a) Do you propose to appoint a certified public accountant to audit the accounts of the business?
+Full name of the defendant in Chinese characters (if applicable) and code
 
-  - Yes | No
+Aliases (if any)
 
-  - (b) If the answer to (a) is ‘Yes’, state the name and address of the accountant— _
+Hong Kong Identity Card number
 
-  - _
+The offence
 
-- 6.
+Penalty (if any) imposed
 
-  - (a) Have you, or any member of your management named in paragraph 4 of the Application for a Licence, ever been convicted, whether in Hong Kong or elsewhere, of an offence other than a traffic offence?
+Date of conviction
 
-  - Yes | No
+Place of conviction
 
-  - (b) If the answer to (a) is ‘Yes’, give the following details—
+Name of the court which tried the offence
 
-  - 1 | 2 | 3 | 4
+7. | (a) | Have you any unsatisfied judgment debt outstanding against you in connexion with any business conducted by you in Hong Kong or elsewhere?
 
-  - Fall name of the defendant in English
+Yes □ | No □
 
-  - Full name of the defendant in Chinese characters (if applicable) and code
+(b) | If the answer to (a) is ‘Yes’, please state—
 
-  - Aliases (if any)
+(i) | the date of the judgment
 
-  - Hong Kong Identity Card number
+(ii) | the name of the court giving judgment
 
-  - The offence
+8. | (a) | Have you any unsatisfied judgment or court order requiring the payment of damages or a sum of money in relation to any trade or business carried on by you or in which you have been concerned?
 
-  - Penalty (if any) imposed
+Yes □ | No □
 
-  - Date of conviction
+(b) | If the answer to (a) is ‘Yes’, please state—
 
-  - Place of conviction
+(i) | the date of the judgment
 
-  - Name of the court which tried the offence
+(ii) | the name of the court giving judgment or making the order
 
-- 7.
+9. | (a) | Have you ever been adjudicated bankrupt in Hong Kong or elsewhere?
 
-  - (a) Have you any unsatisfied judgment debt outstanding against you in connection with any business conducted by you in Hong Kong or elsewhere?
+Yes □ | No □
 
-  - Yes | No
+(b) | If the answer to (a) is ‘Yes’, give details of—
 
-  - (b) If the answer to (a) is ‘Yes’, please state—
+(i) | the date of the adjudication
 
-    - (i) the date of the judgment _
+(ii) | the name of the court which made the adjudication of bankruptcy
 
-    - (ii) the name of the court giving judgment _ _
+(c) | If you have been discharged as a bankrupt, state—
 
-- 8.
+(i) | the date of discharge
 
-  - (a) Have you any unsatisfied judgment or court order requiring the payment of damages or a sum of money in relation to any trade or business carried on by you or in which you have been concerned?
+(ii) | the conditions of discharge
 
-  - Yes | No
+10. | (a) | Has a bankruptcy petition ever, in Hong Kong or elsewhere, been served on you which did not result in your being adjudicated bankrupt?
 
-  - (b) If the answer to (a) is ‘Yes’, please state—
+Yes □ | No □
 
-    - (i) the date of the judgment _
+(b) | If the answer to (a) is ‘Yes’, specify details of the petition, including the date, place and the court in which the petition was presented
 
-    - (ii) the name of the court giving judgment or making the order _ _
+11. | (a) | Have you ever, in Hong Kong or elsewhere, been a party to a scheme of arrangement or entered into any form of composition with your creditors?
 
-- 9.
+Yes □ | No □
 
-  - (a) Have you ever been adjudicated bankrupt in Hong Kong or elsewhere?
+(b) | If the answer to (a) is ‘Yes’, give details of the arrangement or composition
 
-  - Yes | No
+12. | (a) | To the best of your knowledge, has any company or other body corporate of which you have been a director, in Hong Kong or elsewhere, been wound up, otherwise than by means of a members’ voluntary winding up, during the 5 years preceding this application?
 
-  - (b) If the answer to (a) is ‘Yes’, give details of—
+Yes □ | No □
 
-    - (i) the date of the adjudication _
+(b) | If the answer to (a) is ‘Yes’, state—
 
-    - (ii) the name of the court which made the adjudication of bankruptcy _ _
+(i) | the name of the company or body corporate
 
-- (c) If you have been discharged as a bankrupt, state—
+(ii) | the mode of winding up
 
-  - (i) the date of discharge _
+(iii) | the reasons for winding up
 
-  - (ii) the conditions of discharge _
+13. | (a) | To the best of your knowledge, has any firm of which you have been a partner, in Hong Kong or elsewhere, been dissolved, otherwise than voluntarily with the consent of all the partners, during the 5 years preceding this application?
 
-- 10.
+Yes □ | No □
 
-  - (a) Has a bankruptcy petition ever, in Hong Kong or elsewhere, been served on you which did not result in your being adjudicated bankrupt?
+(b) | If the answer to (a) is ‘Yes’, state—
 
-  - Yes | No
+(i) | the name of the firm
 
-  - (b) If the answer to (a) is ‘Yes’, specify details of the petition, including the date, place and the court in which the petition was presented _ _
+(ii) | the mode of dissolution
 
-- 11.
+(iii) | the reasons for dissolution
 
-  - (a) Have you ever, in Hong Kong or elsewhere, been a party to a scheme of arrangement or entered into any form of composition with your creditors?
+I/We* declare that all the information given by me/us* in this application is true and correct to the best of my/our* knowledge and belief.
 
-  - Yes | No
+Signed
 
-  - (b) If the answer to (a) is ‘Yes’, give details of the arrangement or composition _
+*(Applicant as an individual)
 
-  - _
+*(Applicant for and on behalf of all partners whose signatures are given in the application form)
 
-- 12.
+* Delete as appropriate.
 
-  - (a) To the best of your knowledge, has any company or other body corporate of which you have been a director, in Hong Kong or elsewhere, been wound up, otherwise than by means of a members’ voluntary winding up, during the 5 years preceding this application?
+Please note: | (i) The original and one copy of this statement, duly completed and signed, should be submitted, together with the Application for a Licence, to the Registrar.
 
-  - Yes | No
+(ii) Documentary evidence may be required in support of any information given in this statement.
 
-  - (b) If the answer to (a) is ‘Yes’, state—
+(iii) The services prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance are: (a) sightseeing or visits to local places of interest; (b) restaurant meals or other catered meals; (c) shopping trips; (d) local transport in connexion with an activity referred to in paragraph (a), (b) or (c).
 
-    - (i) the name of the company or body corporate
+WARNING—Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connexion with any application for the issue of a licence.
 
-    - _
+(L.N. 136 of 1996; 3 of 2001 s. 46; 10 of 2002 s. 10; 23 of 2004 s. 56)
 
-    - (ii) the mode of winding up
-
-    - _
-
-    - (iii) the reasons for winding up
-
-    - _
-
-    - _
-
-- 13.
-
-  - (a) To the best of your knowledge, has any firm of which you have been a partner, in Hong Kong or elsewhere, been dissolved, otherwise than voluntarily with the consent of all the partners, during the 5 years preceding this application?
-
-  - Yes | No
-
-  - (b) If the answer to (a) is ‘Yes’, state—
-
-    - (i) the name of the firm _
-
-    - (ii) the mode of dissolution _
-
-    - (iii) the reasons for dissolution _
-
-    - _
-
-  - I/We* declare that all the information given by me/us* in this application is true and correct to the best of my/our* knowledge and belief.
-
-  - Signed _
-
-  - *(Applicant as an individual)
-
-  - *(Applicant for and on behalf of all
-
-  - partners whose signatures are given
-
-  - in the application form)
-
-  - * Delete as appropriate.
-
-  - Please note: (i) The original and one copy of this statement, duly completed and signed, should be submitted, together with the Application for a Licence, to the Registrar.
-
-    - (ii) Documentary evidence may be required in support of any information given in this statement.
-
-    - (iii) The services prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance are:
-
-      - (a) sightseeing or visits to local places of interest;
-
-      - (b) restaurant meals or other catered meals;
-
-- (c) shopping trips;
-
-  - (d) local transport in connection with an activity referred to in paragraph (a), (b) or (c).
-
-  - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
-
-(L.N. 136 of 1996; 3 of 2001 s. 46; 10 of 2002 s. 10)
-
-FORM 5 | [regulation 9(2)(b)]
+FORM 5 | [reg. 9(2)(b)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) STATEMENT OF PARTICULARS IN SUPPORT OF AN APPLICATION FOR
 
 A LICENCE BY A BODY CORPORATE
 
-- Please answer the following questions— (If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.)
+Please answer the following questions— (If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.)
 
-- 1. Is it proposed that the business of the corporation include obtaining for another person—
+1. | Is it proposed that the business of the corporation include obtaining for another person—
 
-  - (a) carriage, by any means of conveyance, on a journey which is to commence in Hong Kong and which thereafter is to take place mainly outside Hong Kong?
+(a) | carriage, by any means of conveyance, on a journey which is to commence in Hong Kong and which thereafter is to take place mainly outside Hong Kong?
 
-  - Yes | No
+Yes □ | No □
 
-  - (b) accommodation at a place outside Hong Kong for which payment is, or is to be, made by that other person on account of the cost of that accommodation?
+(b) | accommodation at a place outside Hong Kong for which payment is, or is to be, made by that other person on account of the cost of that accommodation?
 
-  - Yes | No
+Yes □ | No □
 
-  - (c) If the answer to (a) is ‘Yes’, state whether the business of a travel agency for which application is made for a licence is—
+(c) | If the answer to (a) is ‘Yes’, state whether the business of a travel agency for which application is made for a licence is—
 
-    - (i) approved by IATA _
+(i) | approved by IATA
 
-    - (ii) an OAA appointed agent _
+(ii) | an OAA appointed agent
 
-    - (iii) appointed as sales agent for an international scheduled air carrier (give name of the air carrier) _
+(iii) | appointed as sales agent for an international scheduled air carrier (give name of the air carrier)
 
-    - _
+1A. | Is it proposed that the business of the corporation includes obtaining for a visitor to Hong Kong—
 
-- 1A. Is it proposed that the business of the corporation includes obtaining for a visitor to Hong Kong—
+(a) | carriage, by any means of conveyance, on a journey which is to commence outside Hong Kong and which either—
 
-  - (a) carriage, by any means of conveyance, on a journey which is to commence outside Hong Kong and which either—
+(i) | terminates in Hong Kong; or
 
-    - (i) terminates in Hong Kong; or
+(ii) | involves the visitor passing through immigration controls before departing from Hong Kong?
 
-    - (ii) involves the visitor passing through immigration controls before departing from Hong Kong?
+Yes □ | No □
 
-    - Yes | No
+(b) | accommodation in Hong Kong for which payment is, or is to be, made by or on behalf of the visitor of an amount on account of the cost of that accommodation?
 
-- (b) accommodation in Hong Kong for which payment is, or is to be, made by or on behalf of the visitor of an amount on account of the cost of that accommodation?
+Yes □ | No □
 
-- Yes | No
+(c) | one or more services that are prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance?
 
-- (c) one or more services that are prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance?
+Yes □ | No □
 
-- Yes | No
+2. | (a) | Is the business of a travel agency for which application is being made for a licence, a member of any established travel business association(s) in Hong Kong?
 
-- 2.
+Yes □ | No □
 
-  - (a) Is the business of a travel agency for which application is being made for a licence, a member of any established travel business association(s) in Hong Kong?
+(b) | If the answer to (a) is ‘Yes’, give the name(s) of the travel business association(s)—
 
-  - Yes | No
+(i)
 
-  - (b) If the answer to (a) is ‘Yes’, give the name(s) of the travel business association(s)—
+(ii)
 
-    - (i) _
+(iii)
 
-    - (ii) _
+3. | (a) | Does the corporation propose to keep a bank account in connexion with its business as a travel agent?
 
-    - (iii) _
+Yes □ | No □
 
-- 3.
+(b) | If the answer to (a) is ‘Yes’, give the following details in respect of each bank at which the corporation proposes to keep an account in connexion with the business—
 
-  - (a) Does the corporation propose to keep a bank account in connection with its business as a travel agent?
+1 | 2 | 3 | 4
 
-  - Yes | No
+Name of bank
 
-  - (b) If the answer to (a) is ‘Yes’, give the following details in respect of each bank at which the corporation proposes to keep an account in connection with the business—
+Address of bank
 
-  - 1 | 2 | 3 | 4
+Account number
 
-  - Name of bank
+Date on which the account was opened
 
-  - Address of bank
+4. | (a) | Does the corporation propose to appoint a certified public accountant (practising) as defined in the Professional Accountants Ordinance (Cap. 50) to audit the corporation’s accounts of the business?
 
-  - Account number
+Yes □ | No □
 
-  - Date on which the account was opened
+(b) | If the answer to (a) is ‘Yes’, state the name and address of the accountant—
 
-- 4.
+5. | (a) | Has the corporation or any controller, director, secretary or officer thereof ever been convicted, whether in Hong Kong or elsewhere, of an offence other than a traffic offence?
 
-  - (a) Does the corporation propose to appoint a certified public accountant to audit the corporation’s accounts of the business?
+Yes □ | No □
 
-  - Yes | No
+(b) | If the answer to (a) is ‘Yes’, give the following details—
 
-  - (b) If the answer to (a) is ‘Yes’, state the name and address of the accountant— _ _
+1 | 2 | 3 | 4
 
-- 5.
+Full name of the defendant in English
 
-  - (a) Has the corporation or any controller, director, secretary or officer thereof ever been convicted, whether in Hong Kong or elsewhere, of an offence other than a traffic offence?
+Full name of the defendant in Chinese characters (if applicable) and code
 
-  - Yes | No
+Aliases (if any)
 
-  - (b) If the answer to (a) is ‘Yes’, give the following details—
+Hong Kong Identity Card number
 
-  - 1 | 2 | 3 | 4
+The offence
 
-  - Full name of thedefendant in English
+Penalty (if any) imposed
 
-  - Full name of the defendant in Chinese characters (if applicable) and code
+Date of conviction
 
-  - Aliases (if any)
+Place of conviction
 
-  - Hong Kong Identity Card number
+Name of the court which tried the offence
 
-  - The offence
+6. | (a) | Are there any unsatisfied judgment debts, or judgments or court orders for the payment of damages or sum of money, outstanding against the corporation?
 
-  - Penalty (if any) imposed
+Yes □ | No □
 
-  - Date of conviction
+(b) | If the answer to (a) is ‘Yes’, state the amount and give full details—
 
-  - Place of conviction
+7. | (a) | Has any controller, director, secretary or officer of the corporation ever in Hong Kong or elsewhere been declared a bankrupt?
 
-  - Name of the court which tried the offence
+Yes □ | No □
 
-- 6.
+(b) | If the answer to (a) is ‘Yes’, give the following particulars—
 
-  - (a) Are there any unsatisfied judgment debts, or judgments or court orders for the payment of damages or sum of money, outstanding against the corporation?
+1 | 2 | 3 | 4
 
-  - Yes | No
+Full name of the controller/director/secretary/officer in English
 
-  - (b) If the answer to (a) is ‘Yes’, state the amount and give full details— _ _
+Full name of the controller/director/secretary/officer in Chinese characters (if applicable) and code
 
-- 7.
+Aliases (if any)
 
-  - (a) Has any controller, director, secretary or officer of the corporation ever in Hong Kong or elsewhere been declared a bankrupt?
+Hong Kong Identity Card number
 
-  - Yes | No
+Date of adjudication
 
-  - (b) If the answer to (a) is ‘Yes’, give the following particulars—
+Place of bankruptcy
 
-  - 1 | 2 | 3 | 4
+Name of the court which made the adjudication
 
-  - Full name of the controller/ director/secretary/officer in English
+If the controller/director/secretary/officer has been discharged as a bankrupt state— | the date of discharge
 
-  - Full name of the controller/ director/secretary/officer in Chinese characters (if applicable) and code
+the condi-tions of discharge
 
-  - Aliases (if any)
+8. | (a) | Has any controller, director, secretary or officer of the corporation ever, in Hong Kong or elsewhere, been served with a bankruptcy petition which did not result in his being declared bankrupt?
 
-  - Hong Kong Identity Card number
+Yes □ | No □
 
-  - Date of adjudication
+(b) | If the answer to (a) is ‘Yes’, give the following details of the petition —
 
-  - Place of bankruptcy
+1 | 2 | 3 | 4
 
-  - Name of the court which made the adjudication
+Full name of the controller/director/secretary/officer in English
 
-  - If the controller/ director/secretary/ officer has been discharged as a bankrupt state— | the date of discharge
+Full name of the controller/director/secretary/officer in Chinese characters (if applicable) and code
 
-  - the conditions of discharge
+Aliases (if any)
 
-- 8.
+Hong Kong Identity Card number
 
-  - (a) Has any controller, director, secretary or officer of the corporation ever, in Hong Kong or elsewhere, been served with a bankruptcy petition which did not result in his being declared bankrupt?
+Date of service of the petition
 
-  - Yes | No
+Place where the petition was presented
 
-  - (b) If the answer to (a) is ‘Yes’, give the following details of the petition—
+Name of the court in which the petition was presented
 
-  - 1 | 2 | 3 | 4
+9. | (a) | Has the corporation or any controller, director, secretary or officer thereof ever, in Hong Kong or elsewhere, been a party to a scheme of arrangement or entered into any form of composition with his creditors?
 
-  - Full name of the controller/director/ secretary/officer in English
+Yes □ | No □
 
-  - Full name of the controller/director/ secretary/officer in Chinese characters (if applicable) and code (L.N. 307 of 1998)
+(b) | If the answer to (a) is ‘Yes’, give the following details—
 
-  - Aliases (if any)
+1 | 2 | 3 | 4
 
-  - Hong Kong Identity Card number
+Full name of the controller/director/secretary/officer in English
 
-  - Date of service of the petition
+Full name of the controller/director/secretary/officer in Chinese characters (if applicable) and code
 
-  - Place where the petition was presented
+Aliases (if any)
 
-  - Name of the court in which the petition was presented
+Hong Kong Identity Card number
 
-- 9.
+Details of arrangement or composition
 
-  - (a) Has the corporation or any controller, director, secretary or officer thereof ever, in Hong Kong or elsewhere, been a party to a scheme of arrangement or entered into any form of composition with his creditors?
+10. | (a) | Has a petition ever been presented for winding up the corporation?
 
-  - Yes | No
+Yes □ | No □
 
-  - (b) If the answer to (a) is ‘Yes’, give the following details—
+(b) | If the answer to (a) is ‘Yes’, is the petition now pending?
 
-  - 1 | 2 | 3 | 4
+(c) | If the answer to (b) is ‘No’, how was the petition disposed of?
 
-  - Full name of the controller/director/ secretary/officer in English
+I declare that all information given by me in this application is true and correct to the best of my knowledge and belief.
 
-  - Full name of the controller/director/ secretary/officer in Chinese characters (if applicable) and code (L.N. 307 of 1998)
+Signature
 
-  - Aliases (if any)
+Name of Signatory
 
-  - Hong Kong Identity Card number
+Capacity
 
-  - Details of arrangement or composition
+(Evidence of authorization by the company or other body corporate for a person in this behalf should be produced)
 
-- 10.
+Please note: | (i) The original and one copy of this statement, duly completed and signed, should be submitted, together with the Application for a Licence, to the Registrar.
 
-  - (a) Has a petition ever been presented for winding up the corporation?
+(ii) Documentary evidence may be required in support of any information given in this statement.
 
-  - Yes | No
+(iii) The services prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance are: (a) sightseeing or visits to local places of interest; (b) restaurant meals or other catered meals; (c) shopping trips; (d) local transport in connexion with an activity referred to in paragraph (a), (b) or (c).
 
-  - (b) If the answer to (a) is ‘Yes’, is the petition now pending?
+WARNING—Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connexion with any application for the issue of a licence.
 
-  - _
+(L.N. 136 of 1996; L.N. 307 of 1998; 3 of 2001 s. 46; 10 of 2002 s. 10; 23 of 2004 s. 56)
 
-  - _
-
-  - (c)
-
-  - If the answer to (b) is ‘No’, how was the petition disposed of?
-
-  - _
-
-  - _ I declare that all information given by me in this application is true and correct to the best of my knowledge and belief.
-
-  - Signature _
-
-  - Name of Signatory _ Capacity _
-
-  - (Evidence of authorization by
-
-  - the company or other body
-
-  - corporate for a person in this
-
-  - behalf should be produced)
-
-  - Please note: (i) The original and one copy of this statement, duly completed and signed, should be submitted, together with the Application for a Licence, to the Registrar.
-
-    - (ii) Documentary evidence may be required in support of any information given in this statement.
-
-      - (iii) The services prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance are:
-
-        - (a) sightseeing or visits to local places of interest;
-
-        - (b) restaurant meals or other catered meals;
-
-        - (c) shopping trips;
-
-        - (d) local transport in connection with an activity referred to in paragraph (a), (b) or (c).
-
-        - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
-
-(L.N. 136 of 1996; L.N. 307 of 1998; 3 of 2001 s. 46; 10 of 2002 s. 10)
-
-FORM 6 | [regulation 13(2)(a)]
+FORM 6 | [reg. 13(2)(a)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR RENEWAL OF A LICENCE BY AN INDIVIDUAL
 
@@ -772,485 +632,403 @@ OR BY AN UNINCORPORATED BODY
 
 Application is hereby made to the Registrar of Travel Agents for the renewal of a licence under section 15 of the Travel Agents Ordinance.
 
-- 1. Application by an Individual
+1. | Application by an Individual
 
-  - (a) Full name in English (including any aliases)
+(a) | Full name in English (including any aliases)
 
-  - _
+(b) | Full name in Chinese characters (if applicable) and code
 
-  - (b) Full name in Chinese characters (if applicable) and code
+(c) | Aliases (if any)
 
-  - _
+(d) | Residential address
 
-  - (c) Aliases (if any)
+Telephone No.
 
-  - _
+(e) | Hong Kong Identity Card number
 
-  - (d) Residential address _
+(f) | Place and date of birth
 
-  - _ Telephone No. _
+2. | Application by an Unincorporated Body
 
-  - (e) Hong Kong Identity Card number
+To be completed for each partner | 1 | 2 | 3 | 4
 
-  - _
+Full name in English
 
-  - (f) Place and date of birth
+Full name in Chinese characters (if applicable) and code
 
-  - _
+Aliases (if any)
 
-- 2. Application by an Unincorporated Body
+Residential address and telephone number
 
-- 1 | 2 | 3 | 4
+Hong Kong Identity Card number
 
-- To be completed for each partner
+Place and date of birth
 
-- Full name in English
+3. | (a) | The name of the business of a travel agent in respect of which renewal of a licence is sought—
 
-- Full name in Chinese characters (if applicable) and code
+(i) | in English
 
-- Aliases (if any)
+(ii) | in Chinese
 
-- Residential address and telephone number
+(b) | Business Registration number
 
-- Hong Kong Identity Card number
+(c) | Address of existing office(s) of business, including any branch office(s).
 
-- Place and date of birth
+Address | State whether the premises are owned or rented by the applicant | Telephone number
 
-- 3.
+(d) | Address of any proposed additional office(s) including any proposed additional branch office(s).
 
-  - (a) The name of the business of a travel agent in respect of which renewal of a licence is sought—
+Address | State whether the premises are owned or rented by the applicant | Telephone number
 
-    - (i) in English _
+A DUPLICATE LICENCE WILL BE REQUIRED FOR EACH BRANCH OFFICE UNDER REGULATION 12 OF THE TRAVEL AGENTS REGULATIONS.
 
-    - (ii) in Chinese _
+4. | Particulars of person(s) in Hong Kong responsible for the management of the business, including the management of any branch office(s).
 
-- (b) Business Registration number
+1 | 2 | 3 | 4
 
-- _
+Full name in English
 
-- (c) Address of existing office(s) of business, including any branch office(s).
+Full name in Chinese characters (if applicable) and code
 
-- Address | State whether the premises are owned or rented by the applicant | Telephone number
+Aliases (if any)
 
-- (d) Address of any proposed additional office(s) including any proposed additional branch office(s).
+Residential address and telephone number
 
-- Address | State whether the premises are owned or rented by the applicant | Telephone number
+Hong Kong Identity Card number
 
-- A DUPLICATE LICENCE WILL BE REQUIRED FOR EACH BRANCH OFFICE UNDER REGULATION 12 OF THE TRAVEL AGENTS REGULATIONS.
+Place and date of birth
 
-- 4. Particulars of person(s) in Hong Kong responsible for the management of the business, including the management of any branch office(s).
+Position held
 
-- 1 | 2 | 3 | 4
+Date of appointment
 
-- Full name in English
+I/We* declare that all the information given by me/us* in this application is true and correct to the best of my/our* knowledge and belief.
 
-- Full name in Chinese characters (if applicable) and code
+Signed | Signed
 
-- Aliases (if any)
+(Individual Applicant) | (Applicant as a partner)
 
-- Residential address and telephone number
+Signed
 
-- Hong Kong Identity Card number
+(Applicant as a partner)
 
-- Place and date of birth
+Signed
 
-- Position held
+(Applicant as a partner)
 
-- Date of appointment
+Signed
 
-- I/We* declare that all the information given by me/us* in this application is true and correct to the best of my/our* knowledge and belief.
+(Applicant as a partner)
 
-- Signed _ (Individual Applicant) | Signed _ (Applicant as a partner)
+* Delete as appropriate.
 
-- Signed _ (Applicant as a partner)
+NOTES 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application. 2. A statement of particulars in support of this application (Form 8) must also be completed and submitted. 3. Documentary evidence may be required in support of the information given in this application. 4. The original and one copy of— (a) this application; and (b) the statement of particulars in support, should be posted or delivered to the Registrar at the following address — TRAVEL AGENTS REGISTRY, 6TH FLOOR, EAST WING, HENNESSY CENTRE, 500 HENNESSY ROAD, HONG KONG. 5. A licence, if renewed, shall not enter in force except on payment of the appropriate fee.
 
-- Signed _ (Applicant as a partner)
-
-- Signed _ (Applicant as a partner)
-
-- * Delete as appropriate. NOTES
-
-- 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application.
-
-- 2. A statement of particulars in support of this application (Form 8) must also be completed and submitted.
-
-- 3. Documentary evidence may be required in support of the information given in this application.
-
-- 4. The original and one copy of—
-
-  - (a) this application; and
-
-  - (b) the statement of particulars in support,
-
-- should be posted or delivered to the Registrar at the following address-
-
-- TRAVEL AGENTS REGISTRY,
-
-- 6TH FLOOR, EAST WING,
-
-- HENNESSY CENTRE,
-
-- 500 HENNESSY ROAD,
-
-- HONG KONG.
-
-- 5. A licence, if renewed, shall not enter in force except on payment of the appropriate fee.
-
-- WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment of by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
+WARNING—Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment of by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connexion with any application for the issue of a licence.
 
 (L.N. 136 of 1996)
 
-FORM 7 | [regulation 13(2)(b)]
+FORM 7 | [reg. 13(2)(b)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR RENEWAL OF A LICENCE BY A BODY CORPORATE
 
 Application is hereby made to the Registrar of Travel Agents for the renewal of a licence under section 15 of the Travel Agents Ordinance.
 
-- 1.
+1. | (a) | The name and any former names of the company or other body corporate—
 
-  - (a) The name and any former names of the company or other body corporate—
+(i) | in English
 
-    - (i) in English _
+(ii) | in Chinese
 
-    - (ii) in Chinese _
+(b) | The place of incorporation
 
-- (b) The place of incorporation _
+(c) | The date of incorporation
 
-- _
+(d) | Company Registration number
 
-- (c) The date of incorporation _
+(e) | The name of the business of a travel agent in respect of which renewal of a licence is sought, if different from (a) above—
 
-- (d) Company Registration number _
+(i) | in English
 
-- (e) The name of the business of a travel agent in respect of which renewal of a licence is sought, if different from (a) above—
+(ii) | in Chinese
 
-  - (i) in English _
+(f) | Address of the registered office and all other office(s) of the business, including any branch office(s).
 
-  - (ii) in Chinese _
+Address | State whether the premises are owned or rented by the corporation | Telephone number
 
-- (f) Address of the registered office and all other office(s) of the business, including any branch office(s).
+(g) | Address of any proposed additional office(s) including any proposed additional branch office(s).
 
-- Address | State whether the premises are owned or rented by the corporation | Telephone number
+Address | State whether the premises are owned or rented by the corporation | Telephone number
 
-- (g) Address of any proposed additional office(s) including any proposed additional branch office(s).
+A DUPLICATE LICENCE WILL BE REQUIRED FOR EACH BRANCH OFFICE UNDER REGULATION 12 OF THE TRAVEL AGENTS REGULATIONS.
 
-- Address | State whether the premises are owned or rented by the corporation | Telephone number
+2. | Particulars of the controller, the director(s), the secretary and the officers of the corporation.
 
-- A DUPLICATE LICENCE WILL BE REQUIRED FOR EACH BRANCH OFFICE UNDER REGULATION 12 OF THE TRAVEL AGENTS REGULATIONS.
+1 | 2 | 3 | 4
 
-- 2. Particulars of the controller, the director(s), the secretary and the officers of the corporation.
+Full name in English
 
-- 1 | 2 | 3 | 4
+Full name in Chinese characters (if applicable) and code
 
-- Full name in English
+Aliases (if any)
 
-- Full name in Chinese characters (if applicable) and code
+Residential address and telephone number
 
-- Aliases (if any)
+Hong Kong Identity Card number
 
-- Residential address and telephone number
+Position held (e.g. Controller/Managing Director/Director/Secretary/Manager/Accountant etc.)
 
-- Hong Kong Identity Card number
+Date of appointment
 
-- Position held (e.g. Controller/Managing Director/Director/ Secretary/Manager/ Accountant etc.)
+I declare that all the information given by me in this application is true and correct to the best of my knowledge and belief.
 
-- Date of appointment
+Signature
 
-- I declare that all the information given by me in this application is true and correct to the best of my knowledge and belief. Signature _ Name of Signatory _ Capacity _
+Name of Signatory
 
-- (Evidence of authorization by the company or other body
+Capacity
 
-- corporate for a person in this
+( Evidence of authorization by the company or other body corporate for a person in this behalf should be produced )
 
-- behalf should be produced) NOTES
+NOTES 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application. 2. A statement of particulars in support of this application (Form 9) must also be completed. 3. Documentary evidence may be required in support of the information given in this application. 4. The original and one copy of— (a) this application; and (b) the statement of particulars in support, should be posted or delivered to the Registrar at the following address— TRAVEL AGENTS REGISTRY, 6TH FLOOR, EAST WING, HENNESSY CENTRE, 500 HENNESSY ROAD, HONG KONG. 5. A licence, if renewed, shall not enter in force except on payment of the appropriate fee.
 
-- 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application.
-
-- 2. A statement of particulars in support of this application (Form 9) must also be completed.
-
-- 3. Documentary evidence may be required in support of the information given in this application.
-
-- 4. The original and one copy of—
-
-  - (a) this application; and
-
-  - (b) the statement of particulars in support,
-
-- should be posted or delivered to the Registrar at the following address-
-
-- TRAVEL AGENTS REGISTRY,
-
-- 6TH FLOOR, EAST WING,
-
-- HENNESSY CENTRE,
-
-- 500 HENNESSY ROAD,
-
-- HONG KONG.
-
-- 5. A licence, if renewed, shall not enter in force except on payment of the appropriate fee.
-
-- WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
+WARNING—Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connexion with any application for the issue of a licence.
 
 (L.N. 136 of 1996)
 
-FORM 8 | [regulation 13(3)(a)]
+FORM 8 | [reg. 13(3)(a)]
 
-TRAVEL AGENTS ORDINANCE (Chapter 218) STATEMENT OF PARTICULARS IN SUPPORT OF AN APPLICATION FOR RENEWAL OF A LICENCE BY AN INDIVIDUAL OR
+TRAVEL AGENTS ORDINANCE (Chapter 218) STATEMENT OF PARTICULARS IN SUPPORT OF AN APPLICATION FOR RENEWAL OF A LICENCE BY AN INDIVIDUAL OR BY AN UNINCORPORATED BODY
 
-BY AN UNINCORPORATED BODY
+Please answer the following questions—
 
-- Please answer the following questions—
+(If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.)
 
-- (If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.) Since the date of your application for a licence or last application for renewal (whichever is the later)—
+Since the date of your application for a licence or last application for renewal (whichever is the later) —
 
-  - (a) have you, or any member of your management named in paragraph 4 of the Application for a Licence or, if applicable, paragraph 4 of the last Application for Renewal of a Licence, been convicted of any offence, other than a traffic offence, in Hong Kong or elsewhere?
+(a) | have you, or any member of your management named in paragraph 4 of the Application for a Licence or, if applicable, paragraph 4 of the last Application for Renewal of a Licence, been convicted of any offence, other than a traffic offence, in Hong Kong or elsewhere?
 
-  - Yes | No
+Yes □ | No □
 
-  - If the answer to (a) is ‘Yes’, give the following details—
+If the answer to (a) is ‘Yes’, give the following details—
 
-  - 1 | 2 | 3 | 4
+1 | 2 | 3 | 4
 
-  - Full name of the defendant in English
+Full name of the defendant in English
 
-  - Full name of the defendant in Chinese characters (if applicable) and code
+Full name of the defendant in Chinese characters (if applicable) and code
 
-  - Aliases (if any)
+Aliases (if any)
 
-  - Hong Kong Identity Card number
+Hong Kong Identity Card number
 
-  - The offence
+The offence
 
-  - Penalty (if any) imposed
+Penalty (if any) imposed
 
-  - Date of conviction
+Date of conviction
 
-  - Place of conviction
+Place of conviction
 
-  - Name of the court which tried the offence
+Name of the court which tried the offence
 
-  - (b) has a bankruptcy petition been served on you in Hong Kong or elsewhere?
+(b) | has a bankruptcy petition been served on you in Hong Kong or elsewhere?
 
-  - Yes | No
+Yes □ | No □
 
-- If the answer to (b) is ‘Yes’, specify details of the petition, including the date, place and the court in which the petition was presented _
+If the answer to (b) is ‘Yes’, specify details of the petition, including the date, place and the court in which the petition was presented
 
-- _
+(c) | have you ever, in Hong Kong or elsewhere, been a party to a scheme of arrangement or entered into any form of composition with your creditors?
 
-  - (c) have you ever, in Hong Kong or elsewhere, been a party to a scheme of arrangement or entered into any form of composition with your creditors?
+Yes □ | No □
 
-  - Yes | No
+If the answer to (c) is ‘Yes’, give details of the arrangement or composition
 
-  - If the answer to (c) is ‘Yes’, give details of the arrangement or composition _
+(d) | to the best of your knowledge has any company or other body corporate of which you have been a director, in Hong Kong or elsewhere, been wound up, otherwise than by means of a members’ voluntary winding up?
 
-  - _
+Yes □ | No □
 
-  - (d)
+If the answer to (d) is ‘Yes’, state—
 
-  - to the best of your knowledge has any company or other body corporate of which you have been a director, in Hong Kong or elsewhere, been wound up, otherwise than by means of a members’ voluntary winding up?
+(i) | the name of the company or body corporate
 
-  - Yes | No
+(ii) | the mode of winding up
 
-  - If the answer to (d) is ‘Yes’, state—
+(iii) | the reasons for winding up
 
-    - (i) the name of the company or body corporate _
+(e) | to the best of your knowledge has any firm of which you have been a partner, in Hong Kong or elsewhere, been dissolved, otherwise than voluntarily with the consent of all the partners?
 
-    - (ii) the mode of winding up _
+Yes □ | No □
 
-    - (iii) the reasons for winding up _
+If the answer to (e) is ‘Yes’, state—
 
-- (e)
+(i) | the name of the firm
 
-- to the best of your knowledge has any firm of which you have been a partner, in Hong Kong or elsewhere, been dissolved, otherwise than voluntarily with the consent of all the partners?
+(ii) | the mode of dissolution
 
-- Yes | No
+(iii) | the reasons for dissolution
 
-- If the answer to (e) is ‘Yes’, state—
+(f) | has there been any change in the bank accounts kept in connexion with the applicant’s business as a travel agent?
 
-  - (i) the name of the firm _
+Yes □ | No □
 
-  - (ii) the mode of dissolution _
+If the answer to (f) is ‘Yes’, give the following details of each bank at which you are keeping an account in connexion with your business as a travel agent—
 
-  - (iii) the reasons for dissolution _
+1 | 2 | 3 | 4
 
-- (f)
+Name of bank
 
-- has there been any change in the bank accounts kept in connection with the applicant’s business as a travel agent?
+Address of bank
 
-- Yes | No
+Account number
 
-- If the answer to (f) is ‘Yes’, give the following details of each bank at which you are keeping an account in connection with your business as a travel agent—
+Date on which the account was opened
 
-- 1 | 2 | 3 | 4
+I/We* declare that all the information given by me/us* in this application is true and correct to the best of my/our* knowledge and belief.
 
-- Name of bank
+Signed
 
-- Address of bank
+*(Applicant as an individual)
 
-- Account number
+*(Applicant for and on behalf of all partners whose signatures are given in the application form)
 
-- Date on which the account was opened
+* Delete as appropriate.
 
-- I/We* declare that all the information given by me/us* in this application is true and correct to the best of my/our* knowledge and belief.
+Please note: | (i) The original and one copy of this statement duly completed and signed, should be submitted, together with the Application for Renewal of a Licence, to the Registrar.
 
-- Signed _
+(ii) Documentary evidence may be required in support of any information given in this statement.
 
-- *(Applicant as an individual)
-
-- *(Applicant for and on behalf of all
-
-- partners whose signatures are
-
-- given in the application form)
-
-- * Delete as appropriate.
-
-- Please note: (i) The original and one copy of this statement duly completed and signed, should be submitted, together with the Application for Renewal of a Licence, to the Registrar.
-
-  - (ii) Documentary evidence may be required in support of any information given in this statement.
-
-  - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue or renewal of a licence.
+WARNING—Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connexion with any application for the issue or renewal of a licence.
 
 (L.N. 136 of 1996)
 
-FORM 9 | [regulation 13(3)(b)]
+FORM 9 | [reg. 13(3)(b)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) STATEMENT OF PARTICULARS IN SUPPORT OF AN APPLICATION
 
 FOR RENEWAL OF A LICENCE BY A BODY CORPORATE
 
-- Please answer the following questions—
+Please answer the following questions—
 
-- (If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.) Since the date of the corporation’s application for a licence or last application for renewal (whichever is the later)—
+(If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.)
 
-  - (a) has the corporation or any controller, director, secretary or officer thereof been convicted of an offence, other than a traffic offence, in Hong Kong or elsewhere?
+Since the date of the corporation’s application for a licence or last application for renewal (whichever is the later)—
 
-  - Yes | No
+(a) | has the corporation or any controller, director, secretary or officer thereof been convicted of an offence, other than a traffic offence, in Hong Kong or elsewhere?
 
-  - If the answer to (a) is ‘Yes’, give the following details—
+Yes □ | No □
 
-  - 1 | 2 | 3 | 4
+If the answer to (a) is ‘Yes’, give the following details—
 
-  - Full name of the defendant in English
+1 | 2 | 3 | 4
 
-  - Full name of the defendant in Chinese characters (if applicable) and code
+Full name of the defendant in English
 
-  - Aliases (if any)
+Full name of the defendant in Chinese characters (if applicable) and code
 
-  - Hong Kong Identity Card number
+Aliases (if any)
 
-  - The offence
+Hong Kong Identity Card number
 
-  - Penalty (if any) imposed
+The offence
 
-  - Date of conviction
+Penalty (if any) imposed
 
-  - Place of conviction
+Date of conviction
 
-  - Name of the court which tried the offence
+Place of conviction
 
-- (b) has any controller, director, secretary or officer of the corporation, in Hong Kong or elsewhere, been served with a bankruptcy petition?
+Name of the court which tried the offence
 
-- Yes | No
+(b) | has any controller, director, secretary or officer of the corporation, in Hong Kong or elsewhere, been served with a bankruptcy petition?
 
-- If the answer to (b) is ‘Yes’, give the following details—
+Yes □ | No □
 
-- 1 | 2 | 3 | 4
+If the answer to (b) is ‘Yes’, give the following details—
 
-- Full name of the controller/director/ secretary/officer in English
+1 | 2 | 3 | 4
 
-- Full name of the controller/director/ secretary/officer in Chinese characters (if applicable) and code
+Full name of the controller/director/secretary/officer in English
 
-- Aliases (if any)
+Full name of the controller/director/secretary/officer in Chinese characters (if applicable) and code
 
-- Hong Kong Identity Card number
+Aliases (if any)
 
-- Date of service of petition
+Hong Kong Identity Card number
 
-- Number of bankruptcy petition
+Date of service of petition
 
-- Name of the court issuing petition
+Number of bankruptcy petition
 
-- (c) has the corporation or any controller, director, secretary or officer thereof, in Hong Kong or elsewhere, been a party to a scheme of arrangement or entered into any form of composition with his creditors?
+Name of the court issuing petition
 
-- Yes | No
+(c) | has the corporation or any controller, director, secretary or officer thereof, in Hong Kong or elsewhere, been a party to a scheme of arrangement or entered into any form of composition with his creditors?
 
-- If the answer to (c) is ‘Yes’, give the following details—
+Yes □ | No □
 
-- 1 | 2 | 3 | 4
+If the answer to (c) is ‘Yes’, give the following details—
 
-- Full name of the controller/director/ secretary/officer in English
+1 | 2 | 3 | 4
 
-- Full name of the controller/director/ secretary/officer in Chinese characters (if applicable) and code
+Full name of the controller/director/secretary/officer in English
 
-- Aliases (if any)
+Full name of the controller/director/secretary/officer in Chinese characters (if applicable) and code
 
-- Hong Kong Identity Card number
+Aliases (if any)
 
-- Details of arrangement or composition
+Hong Kong Identity Card number
 
-- (d) has a petition been presented for winding up the corporation?
+Details of arrangement or composition
 
-- Yes | No
+(d) | has a petition been presented for winding up the corporation?
 
-  - (i) If the answer to (d) is ‘Yes’, is the petition now pending?
+Yes □ | No □
 
-  - _
+(i) | If the answer to (d) is ‘Yes’, is the petition now pending?
 
-  - (ii) If the answer to (i) is ‘No’ how was the petition disposed of?
+(ii) | If the answer to (i) is ‘No’ how was the petition disposed of?
 
-  - _
+(e) | has there been any change in the bank accounts kept in connexion with the corporation’s business as a travel agent?
 
-- (e)
+Yes □ | No □
 
-- has there been any change in the bank accounts kept in connection with the corporation’s business as a travel agent?
+If the answer to (e) is ‘Yes’, give the following details in respect of each bank at which the corporation is keeping an account in connexion with the corporation’s business as a travel agent—
 
-- Yes | No
+1 | 2 | 3 | 4
 
-- If the answer to (e) is ‘Yes’, give the following details in respect of each bank at which the corporation is keeping an account in connection with the corporation’s business as a travel agent—
+Name of bank
 
-- 1 | 2 | 3 | 4
+Address of bank
 
-- Name of bank
+Account number
 
-- Address of bank
+Date on which the account was opened
 
-- Account number
+I declare that all information giving by me in this application is true and correct to the best of my knowledge and belief.
 
-- Date on which the account was opened
+Signature
 
-- I declare that all information giving by me in this application is true and correct to the best of my knowledge and belief.
+Name of Signatory
 
-- Signature _
+Capacity
 
-- Name of Signatory _
+(Evidence of authorization by the company or other body corporate for a person in this behalf should be produced)
 
-- Capacity _
+Please note: | (i) The original and one copy of this statement, duly completed and signed, should be submitted, together with the Application for Renewal of a Licence, to the Registrar.
 
-- (Evidence of authorization by the
+(ii) Documentary evidence may be required in support of any information given in this statement.
 
-- company or other body corporate
-
-- for a person in this behalf should
-
-- be produced)
-
-- Please note: (i) The original and one copy of this statement, duly completed and signed, should be submitted, together with the Application for Renewal of a Licence, to the Registrar.
-
-  - (ii) Documentary evidence may be required in support of any information given in this statement.
-
-  - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue or renewal of a licence.
+WARNING—Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connexion with any application for the issue or renewal of a licence.
 
 (L.N. 136 of 1996)
 
-FORM 10 | [regulation 16(a)]
+FORM 10 | [reg. 16(a)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) CERTIFICATE OF THE REGISTRAR OF TRAVEL AGENTS ISSUED
 
 TO A MAGISTRATE FOR MAKING A PROHIBITION ORDER
 
-TAR FILE REF. _
+TAR FILE REF.
 
 To: The Magistrate,
 
@@ -1258,29 +1036,27 @@ _ Magistracy,
 
 Hong Kong.
 
-- I hereby certify that in connection with an investigation of _ , a licensed travel agent (hereinafter called “the travel agent”) being conducted by me under section 21 of the Travel Agents Ordinance, I am of the opinion that *Mr./Madam/Miss _ (hereinafter called “the associated person”), whose last known place of *abode/business/employment is _ and whose Hong Kong Identity Card number is _ , is:—
+I hereby certify that in connexion with an investigation of _ , a licensed travel agent (hereinafter called “the travel agent”) being conducted by me under section 21 of the Travel Agents Ordinance, I am of the opinion that *Mr./Madam/Miss _ (hereinafter called “the associated person”), whose last known place of *abode/business/employment is _ and whose Hong Kong Identity Card number is _ , is:—
 
-  - (a) able to assist me in connection with that investigation;
+(a) able to assist me in connexion with that investigation; (b) associated with the business of the travel agent; and (c) about to, or is likely to, leave Hong Kong. By virtue of section 29(1) of the Travel Agents Ordinance, I hereby request you to make a prohibition order to prevent the associated person from leaving Hong Kong.
 
-  - (b) associated with the business of the travel agent; and
+I propose to serve the order on the Commissioner of Police, the Director of Immigration, and the associated person *Mr./Madam/Miss _, if *he/she can be found.
 
-  - (c) about to, or is likely to, leave Hong Kong.
+Dated this _ day of _ 19 _.
 
-- By virtue of section 29(1) of the Travel Agents Ordinance, I hereby request you to make a prohibition order to prevent the associated person from leaving Hong Kong. I propose to serve the order on the Commissioner of Police, the Director of Immigration, and the associated person *Mr./Madam/Miss _, if *he/she can be found. Dated this _ day of _ 19 _
+Registrar of Travel Agents
 
-- _
-
-- Registrar of Travel Agents
-
-- * Delete as appropriate.
+*Delete as appropriate.
 
 (L.N. 136 of 1996)
 
-FORM 11 | [regulation 16(b)]
+FORM 11 | [reg. 16(b)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218)
 
-MAGISTRACY REF. _ TAR FILE REF. _
+MAGISTRACY REF.
+
+TAR FILE REF.
 
 PROHIBITION ORDER
 
@@ -1288,111 +1064,101 @@ Upon the receipt of a certificate issued under the hand of the Registrar under s
 
 This order shall lapse after the expiry of 1 month from the date of this order, unless extended or renewed on the application of the Registrar under section 29(4) of the Ordinance.
 
-Dated this _ day of _ 19 _
-
-_
+Dated this _ day of _ 19 _.
 
 Magistrate
-
-_
 
 Magistracy
 
 * Delete as appropriate.
 
-NOTES: (1) Section 29(3) of the Ordinance provides that any person who leaves or attempts to leave Hong Kong in wilful contravention of a prohibition order commits an offence and is liable to a fine of $10,000 and to imprisonment for 6 months and any person who commits an offence under section 29(3) may be arrested without warrant by any immigration officer or police officer.
-
-- (2) Subject to section 29(6) of the Ordinance (which requires an applicant to give 3 clear days written notice to the Registrar of Travel Agents of his intention to make an application and of the time and place at which such application will be made), a person named in a prohibition order may apply to a magistrate for an order to discharge the prohibition order.
-
-- (3) 4 copies of this prohibition order should be signed and sealed by the magistrate.
+NOTES: | (1) Section 29(3) of the Ordinance provides that any person who leaves or attempts to leave Hong Kong in wilful contravention of a prohibition order commits an offence and is liable to a fine of $10,000 and to imprisonment for 6 months and any person who commits an offence under section 29(3) may be arrested without warrant by any immigration officer or police officer. (2) Subject to section 29(6) of the Ordinance (which requires an applicant to give 3 clear days written notice to the Registrar of Travel Agents of his intention to make an application and of the time and place at which such application will be made), a person named in a prohibition order may apply to a magistrate for an order to discharge the prohibition order. (3) 4 copies of this prohibition order should be signed and sealed by the magistrate.
 
 (L.N. 136 of 1996)
 
-FORM 12 | [regulation 16(c)]
+FORM 12 | [reg. 16(c)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR *EXTENSION/RENEWAL OF PROHIBITION ORDER
 
-TAR FILE REF. _
+TAR FILE REF.
 
 To: The Magistrate,
 
-_ Magistracy,
+_Magistracy,
 
 Hong Kong.
 
-IN THE MATTER OF an application under section 29(4) of the Travel Agents Ordinance by the Registrar of Travel Agents for an *extension/renewal of the order no. (Magistracy Ref.) _ dated _ prohibiting (name) _ of (place of *abode/business/employment) _
+IN THE MATTER OF an application under section 29(4) of the Travel Agents Ordinance by the Registrar of Travel Agents for an *extension/renewal of the order no. (Magistracy Ref.) _ dated _ prohibiting (name) _ of (place of *abode/business/employment)
 
 and Hong Kong Identity Card number _ from leaving Hong Kong.
 
-I, _ Registrar of Travel Agents of (office address of Registrar) _ apply for the *extension/renewal of a prohibition order in respect of (name) _ made by (name of Magistrate) _ on (date of order) _ The application is for an *extension/renewal for a period of _ *day/days/month/months from _ to _ (both dates inclusive) in accordance with section 29(4) of the Travel Agents Ordinance.
+I, _ Registrar of Travel Agents of (office address of Registrar) _ apply for the *extension/renewal of a prohibition order in respect of (name) _ made by (name of Magistrate) _ on (date of order) _. The application is for an *extension/renewal for a period of _ *day/days/month/months from _ to _ (both dates inclusive) in accordance with section 29(4) of the Travel Agents Ordinance.
 
-- 2. The grounds of this application are— _
+2. The grounds of this application are—
 
-- _
+Dated this _ day of _ 19 _.
 
-- _ Dated this _ day of _ 19 _ _ Registrar of Travel Agents * Delete as appropriate.
+Registrar of Travel Agents
+
+* Delete as appropriate.
 
 (L.N. 136 of 1996)
 
-FORM 13 | [regulation 16(d)]
+FORM 13 | [reg. 16(d)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218)
 
-MAGISTRACY REF. _
+MAGISTRACY REF.
 
-TAR FILE REF. _
+TAR FILE REF.
 
 *EXTENDED/RENEWED PROHIBITION ORDER
 
-WHEREAS on hearing the application made on the _ day of _ 19 _ by the Registrar of Travel Agents for *extension/renewal of the order no. (Magistracy Ref.) _ dated _ prohibiting (name) _ of (place of *abode/business/employment) _ _ from leaving Hong Kong I am satisfied that such order should be *extended/renewed.
+WHEREAS on hearing the application made on the _ day of _ 19 _ by the Registrar of Travel Agents for *extension/renewal of the order no. (Magistracy Ref.) _ dated _ prohibiting (name) _ of (place of *abode/business/employment)
+
+from leaving Hong Kong I am satisfied that such order should be *extended/renewed.
 
 By virtue of section 29(4) of the Travel Agents Ordinance, it is ordered that the said (name) _ whose last known place of *abode/business/employment is _ and whose Hong Kong Identity Card number is _ , is prohibited from leaving Hong Kong for a further period of _ *day/days/month/months until _ (inclusive).
 
-Dated this _ day of _ 19 _
-
-_
+Dated this _ day of _ 19 _.
 
 Magistrate
-
-_
 
 Magistracy
 
 *Delete as appropriate.
 
-NOTES: (1) Section 29(3) of the Ordinance provides that any person who leaves or attempts to leave Hong Kong in wilful contravention of a prohibition order commits an offence and is liable to a fine of $10,000 and to imprisonment for 6 months and any person who commits an offence under section 29(3) may be arrested without warrant by any immigration officer or police officer.
-
-- (2) Subject to section 29(6) of the Ordinance (which requires an applicant to give 3 clear days written notice to the Registrar of Travel Agents of his intention to make an application and of the time and place at which such application will be made), a person named in a prohibition order may apply to a magistrate for an order to discharge the prohibition order.
-
-- (3) 4 copies of this prohibition order should be signed and sealed by the magistrate.
+NOTES: | (1) Section 29(3) of the Ordinance provides that any person who leaves or attempts to leave Hong Kong in wilful contravention of a prohibition order commits an offence and is liable to a fine of $10,000 and to imprisonment for 6 months and any person who commits an offence under section 29(3) may be arrested without warrant by any immigration officer or police officer. (2) Subject to section 29(6) of the Ordinance (which requires an applicant to give 3 clear days written notice to the Registrar of Travel Agents of his intention to make an application and of the time and place at which such application will be made), a person named in a prohibition order may apply to a magistrate for an order to discharge the prohibition order. (3) 4 copies of this prohibition order should be signed and sealed by the magistrate.
 
 (L.N. 136 of 1996)
 
-FORM 14 | [regulation 16(e)]
+FORM 14 | [reg. 16(e)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR DISCHARGE OF PROHIBITION ORDER
 
 IN THE MATTER of a prohibition order number _ issued under the Travel Agents Ordinance by (name of Magistracy) _ on (date) _.
 
-AND
-
-IN THE MATTER of an application under section 29(5) of the Travel Agents Ordinance for the discharge of a prohibition order.
-
-AND
+AND IN THE MATTER of an application under section 29(5) of the Travel Agents Ordinance for the discharge of a prohibition order. AND
 
 IN THE MATTER of (name of applicant) _ the person affected by the prohibition order.
 
-I (name of applicant) _ of (address of applicant) _ _ apply for discharge of the order prohibiting me from leaving Hong Kong issued by (name of Magistrate) _ on (date) _
+I (name of applicant) _ of (address of applicant)
 
-- The grounds for this application are— _
+apply for discharge of the order prohibiting me from leaving Hong Kong issued by (name of Magistrate) _ on (date) _.
 
-- _
+The grounds for this application are—
 
-- _ A notice of intention to apply for discharge of prohibition Order was served by me on the Registrar of Travel Agents on _ (date). Dated this _ day of _ 19 _ _ Applicant NOTE: Under section 29(6) of the Travel Agents Ordinance an applicant is required to give 3 clear days written notice (which is in prescribed Form 15) to the Registrar of Travel Agents of his intention to make an application to discharge a prohibition order and of the time and place at which such application will be made.
+A notice of intention to apply for discharge of prohibition Order was served by me on the Registrar of Travel Agents on _ (date).
+
+Dated this _ day of _ 19 _.
+
+Applicant
+
+NOTE: | Under section 29(6) of the Travel Agents Ordinance an applicant is required to give 3 clear days written notice (which is in prescribed Form 15) to the Registrar of Travel Agents of his intention to make an application to discharge a prohibition order and of the time and place at which such application will be made.
 
 (L.N. 136 of 1996)
 
-FORM 15 | [regulation 16(f)]
+FORM 15 | [reg. 16(f)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) NOTICE OF INTENTION TO APPLY FOR DISCHARGE OF
 
@@ -1400,43 +1166,39 @@ PROHIBITION ORDER
 
 To: The Registrar of Travel Agents
 
-In accordance with section 29(6) of the Travel Agents Ordinance, I (name) _ of (address) _
-
-_
-
-_
+In accordance with section 29(6) of the Travel Agents Ordinance, I (name) _ of (address)
 
 hereby notify you that I intend to make an application to (name of Magistracy) _ on (date) _ for the discharge of a prohibition order issued by (name of Magistrate) _ on (date) _.
 
-Signature _ Date _
+Signature
+
+Date
 
 NOTE: This notice must be delivered to the Registrar not later than 3 clear days before an application is made to a magistrate to discharge the prohibition order.
 
 (L.N. 136 of 1996)
 
-FORM 16 | [regulation 16(g)]
+FORM 16 | [reg. 16(g)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) DISCHARGE OF PROHIBITION ORDER
 
 To: The Registrar of Travel Agents
 
-WHEREAS on hearing the application made under section 29(5) of the Travel Agents Ordinance on the _ day of _ 19 _ by (name of applicant) _ of (address of applicant) _
+WHEREAS on hearing the application made under section 29(5) of the Travel Agents Ordinance on the _ day of _ 19 _ by (name of applicant) _ of (address of applicant)
 
 to discharge the said applicant from an order prohibiting *him/her from leaving Hong Kong I am satisfied that the order should be discharged.
 
-By virtue of section 29(7) of the Travel Agents Ordinance, I hereby discharge the order issued by (name of Magistrate) _ at the _
+By virtue of section 29(7) of the Travel Agents Ordinance, I hereby discharge the order issued by (name of Magistrate) _ at the _Magistrate on (date) _ prohibiting the said applicant from leaving Hong Kong *subject to the following conditions—
 
-- Magistrate on (date) _ prohibiting the said applicant from leaving Hong Kong *subject to the following conditions-
+Dated this _ day of _ 19 _
 
-- _
+Magistrate
 
-- _
+Magistracy
 
-- _
+* Delete as appropriate.
 
-- _ Dated this _ day of _ 19 _ _ Magistrate _ Magistracy * Delete as appropriate. NOTES: (1) 4 copies of this order should be signed and sealed by the magistrate.
-
-- (2) This order should be served by the applicant on the Registrar of Travel Agents, the Director of Immigration and the Commissioner of Police.
+NOTES: | (1) 4 copies of this order should be signed and sealed by the magistrate. (2) This order should be served by the applicant on the Registrar of Travel Agents, the Director of Immigration and the Commissioner of Police.
 
 (L.N. 136 of 1996)
 
