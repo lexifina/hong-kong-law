@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[regs. 2 & 11]
+[reg. 2] (L.N. 148 of 2002)
 
 APPROVED SEAT BELTS AND APPROVED ANCHORAGE POINTS
 
@@ -24,7 +24,9 @@ APPROVED SEAT BELTS AND APPROVED ANCHORAGE POINTS
 
   - 2. Seat belts of a type approved by the Commissioner and specified by him by notice in the Gazette, bearing a marking determined by the Commissioner indicating that the type of seat belt has been accepted as capable of affording to persons in a motor vehicle a degree of protection from injury equal to or greater than that provided by seat belts of the types specified in paragraph 1. (L.N. 114 of 1998)
 
-- PART II Approved Anchorage Points for Vehicles other than Goods Vehicles (L.N. 37 of 1989) Anchorage points in respect of which either the anchorage or the vehicle is permanently marked by the manufacturer of the anchorage or the vehicle with the specification number, mark or symbol indicating compliance with any of the following—
+- PART II Approved Anchorage Points for Vehicles other than Goods Vehicles
+
+- and Public Light Buses Registered on or after Specified Date (L.N. 37 of 1989; L.N. 148 of 2002)
 
   - (a) British Standard for Seat Belt Anchorage Points-B.S. AU48:1965;
 
@@ -38,9 +40,15 @@ APPROVED SEAT BELTS AND APPROVED ANCHORAGE POINTS
 
   - (f) Australian Design Rule 5A or 5B;
 
-  - (g) Directive 76/115/EEC, as amended by 82/318/EEC, issued by the European Economic Community. (L.N. 37 of 1989)
+  - (g) Directive 76/115/EEC, as amended by 82/318/EEC, issued by the European Economic Community; (L.N. 37 of 1989)
 
-- PART III Seats with Integral Seat Belt Anchorages Seats with integral seat belt anchorages in respect of which the seat or the vehicle is permanently marked by the manufacturer with the specification number, mark or symbol indicating compliance with—
+  - (h) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987 made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Kinshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date* this paragraph comes into operation. (L.N. 148 of 2002)
+
+- (L.N. 148 of 2002)
+
+- PART III Seats with Integral Seat Belt Anchorages for Vehicles other than Public
+
+- Light Buses Registered on or after Specified Date (L.N. 148 of 2002)
 
   - (a) British Standard for seats with Integral Seat Belt Anchorages B.S. AU140:1967;
 
@@ -48,14 +56,70 @@ APPROVED SEAT BELTS AND APPROVED ANCHORAGE POINTS
 
   - (c) E.C.E. Regulation No. 14, including Revision 1, made by the Economic Commission for Europe dated 30 January 1970 and published by the United Nations;
 
-  - (d) Australian Design Rule 5A or 5B.
+  - (d) Australian Design Rule 5A or 5B;
 
-- PART IV Approved Anchorage Points for Goods Vehicles Anchorage points in respect of which either the anchorage or the goods vehicle is permanently marked by the manufacturer of the anchorage or the goods vehicle with the specification number, mark or symbol indicating compliance with any of the following—
+  - (e)
+
+    - (i) Technical Standard for Seats and Seat Anchorages and Type Approval Test Procedures (TRIAS) 35-1975; and
+
+    - (ii) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987,
+
+    - made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Kinshin No. 453 of 24 August 1971 including all revisions of those standards and test procedures made before the date* this paragraph comes into operation. (L.N. 148 of 2002)
+
+- (L.N. 148 of 2002)
+
+- PART IIIA Seats with Integral Seat Belt Anchorages
+
+- for Public Light Buses Registered on
+
+- or after Specified Date
+
+  - (a) ECE Regulation No. 14 made by the Economic Commission for Europe dated 1 April 1970 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 13) including all revisions for vehicles with regard to safety belt anchorage made before the date* this paragraph comes into operation;
+
+  - (b) Directive 76/115/EEC issued by the European Economic Community dated 18 December 1975 including all revisions for anchorages for motor-vehicle safety belts made before the date* this paragraph comes into operation;
+
+  - (c)
+
+    - (i) Technical Standard for Seats and Seat Anchorages and Type Approval Test Procedures (TRIAS) 35-1975; and
+
+    - (ii) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987,
+
+    - made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Kinshin No. 453 of 24 August 1971 including all revisions of those standards and test procedures made before the date* this paragraph comes into operation;
+
+  - (d) Australian Design Rule 5/04 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions for anchorages for seat belt made before the date* this paragraph comes into operation.
+
+- (L.N. 148 of 2002)
+
+- PART IV Approved Anchorage Points for Goods Vehicles
 
   - (a) E.C.E. Regulation No. 14, including Revision 1, made by the Economic Commission for Europe dated 30 January 1970 and published by the United Nations;
 
   - (b) Australian Design Rule 32A;
 
-  - (c) Directive 76/115/EEC of the European Economic Community, including amendment 82/318/EEC by the same authority.
+  - (c) Directive 76/115/EEC of the European Economic Community, including amendment 82/318/EEC by the same authority;
 
-- (L.N. 37 of 1989)
+  - (d) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987 made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Kinshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date* this paragraph comes into operation. (L.N. 148 of 2002)
+
+- (L.N. 37 of 1989; L.N. 148 of 2002)
+
+- PART V Approved Anchorage Points for Public Light
+
+- Buses Registered on or after
+
+- Specified Date
+
+  - (a) ECE Regulation No. 14 made by the Economic Commission for Europe dated 1 April 1970 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 13) including all revisions for vehicles with regard to safety belt anchorage made before the date* this paragraph comes into operation;
+
+  - (b) Directive 76/115/EEC issued by the European Economic Community dated 18 December 1975 including all revisions for anchorages for motor-vehicle safety belts made before the date* this paragraph comes into operation;
+
+  - (c) Technical Standard for Seat Belt Anchorages and Type Approval Test Procedures (TRIAS) 37-1987 made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle in Circular of Jisha No. 899 of 1 October 1983 and Circular of Kinshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date* this paragraph comes into operation;
+
+  - (d) Federal Motor Vehicle Safety Standard No. 210 of Federal Regulations Vol. 36 No. 232 of USA dated 2 December 1971 including all revisions for seat belt assembly anchorages made before the date* this paragraph comes into operation;
+
+  - (e) Australian Design Rule 5/04 approved in Road Vehicle (National Standards) Determination No. 2 of 1997 (Australia) including all revisions for anchorages for seat belt made before the date* this paragraph comes into operation.
+
+- (L.N. 148 of 2002)
+
+Editorial Note:
+
+* Commencement date: 1 August 2004.

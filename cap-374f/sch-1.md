@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[regs. 2 & 11]
+[reg. 2] (L.N. 148 of 2002)
 
 APPROVED PROTECTIVE HELMETS
 
