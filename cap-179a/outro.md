@@ -1,7 +1,5 @@
 APPENDIX FORMS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 FORM 1 | [Rule 5(3)]
 
 Notice of Application under Rule 5 In the District Court of Hong Kong held at No. of
@@ -136,13 +134,13 @@ Statement as to Arrangements for Children [Headings as in Form 3]
 
   - (iv) access
 
-- [In each of these paragraphs state whether the grant of a decree will affect the present arrangements set out above, whether it is proposed that those arrangements should continue, and if not, and to the extent that they are likely to alter, state what alteration is anticipated and what proposals in substitution are proposed. In the case of residence, where it is proposed that for any period a child should be in the immediate care of a person other than the petitioner, give details of that person’s willingness and ability to care for the child. In the case of education state, if possible, any long-term proposals for further education or training. In the case of financial provision give details of any application which will be made for ancillary relief in respect of the children and, where applicable, state the object of any application which is other than for the day-to-day support of the child.] The said child [ren] is [are] [not] suffering from [any] serious disability or chronic illness or from the effects of [any] serious illness [namely [state, in respect of each child so suffering, the nature of the disability or illness and attach a copy of any up-to-date medical report which is available]]. The said child [ren] is [are] [not] under the supervision of a probation officer, social welfare officer or institution [namely [state the date of any order for supervision and the circumstances which gave rise to its being made]]. Dated this day of 19 . Signed Petitioner.
+- [In each of these paragraphs state whether the grant of a decree will affect the present arrangements set out above, whether it is proposed that those arrangements should continue, and if not, and to the extent that they are likely to alter, state what alteration is anticipated and what proposals in substitution are proposed. In the case of residence, where it is proposed that for any period a child should be in the immediate care of a person other than the petitioner, give details of that person’s willingness and ability to care for the child. In the case of education state, if possible, any long-term proposals for further education or training. In the case of financial provision give details of any application which will be made for ancillary relief in respect of the children and, where applicable, state the object of any application which is other than for the day-to-day support of the child.] The said child[ren] is [are] [not] suffering from [any] serious disability or chronic illness or from the effects of [any] serious illness [namely [state, in respect of each child so suffering, the nature of the disability or illness and attach a copy of any up-to-date medical report which is available]]. The said child[ren] is [are] [not] under the supervision of a probation officer, social welfare officer or institution [namely [state the date of any order for supervision and the circumstances which gave rise to its being made]]. Dated this day of 19 . Signed Petitioner.
 
 (L.N. 135 of 1972; L.N. 172 of 1996)
 
 _
 
-FORM 2C | [Rules 9(2) & 33(2B)]
+FORM 2C | [Rules 9(2) &33(2B)]
 
 General Form of Joint Application In the District Court of Hong Kong held at
 
@@ -230,7 +228,7 @@ THE JOINT APPLICATION of and
 
   - (iv) access
 
-- [In each of these paragraphs state whether the grant of a decree will affect the present arrangements set out above, whether it is proposed that those arrangements should continue, and if not, and to the extent that they are likely to alter, state what alteration is anticipated and what proposals in substitution are proposed. In the case of residence, where it is proposed that for any period a child should be in the immediate care of a person other than the applicants, give details of that person’s willingness and ability to care for the child. In the case of education state, if possible, any long-term proposals for further education or training. In the case of financial provision give details of any application which will be made for ancillary relief in respect of the children and, where applicable, state the object of any application which is other than for the day-to-day support of the children.] The said child[ren] is [are] [not] suffering from [any] serious disability or chronic illness or from the effects of [any] serious illness [namely [state, in respect of each child so suffering, the nature of the disability or illness and attach a copy of any up-to-date medical report which is available]] The said child[ren] is[are] [not] under the supervision of a probation officer, social welfare officer or institution [namely [state the date of any order for supervision and the circumstances which gave rise to its being made]] Dated this day of 19 .
+- [In each of these paragraphs state whether the grant of a decree will affect the present arrangements set out above, whether it is proposed that those arrangements should continue, and if not, and to the extent that they are likely to alter, state what alteration is anticipated and what proposals in substitution are proposed. In the case of residence, where it is proposed that for any period a child should be in the immediate care of a person other than the applicants, give details of that person’s willingness and ability to care for the child. In the case of education state, if possible, any long-term proposals for further education or training. In the case of financial provision give details of any application which will be made for ancillary relief in respect of the children and, where applicable, state the object of any application which is other than for the day-to-day support of the children.] The said child[ren] is [are] [not] suffering from [any] serious disability or chronic illness or from the effects of [any] serious illness [namely [state, in respect of each child so suffering, the nature of the disability or illness and attach a copy of any up-to-date medical report which is available]] The said child[ren] is [are] [not] under the supervision of a probation officer, social welfare officer or institution [namely [state the date of any order for supervision and the circumstances which gave rise to its being made]] Dated this day of 19 .
 
 - Signed | Signed
 
@@ -600,7 +598,7 @@ and | Respondent
 
 - 6. The following are particulars of the wilful neglect by the respondent to provide reasonable maintenance for me [or in the case of a husband’s application to provide reasonable maintenance [or to make a proper contribution towards reasonable maintenance] for me] [and for the said child[ren] [state names]] [give particulars adding in the case of a husband’s application in respect of himself the matters set out in section 8(1)(b)(i) of the Matrimonial Proceedings and Property Ordinance (Cap. 192) on which he relies].
 
-- 7. The respondent has not made any payments to me by way of maintenance for myself [or the said child[ ren]] [except [give particulars]].
+- 7. The respondent has not made any payments to me by way of maintenance for myself [or the said child[ren]] [except [give particulars]].
 
 - 8. My means are as follows—
 
@@ -818,33 +816,63 @@ Issued by
 
 (L.N. 135 of 1972)
 
-- _— FORM 21(1)[Rule 33(2A)] Affidavit by Petitioner in Support of Petition under Section 11A(2)(a)
+_
 
-- of Matrimonial Causes Ordinance (Cap. 179) [Heading as in Form 3]
+FORM 21(1) | [Rule 33(2A)]
 
-- QUESTION | ANSWER
+Affidavit by Petitioner in Support of Petition under Section 11A(2)(a)
 
-- 1. Have you read the petition filed in this case?
+of Matrimonial Causes Ordinance [Heading as in Form 3]
 
-- 2. Do you wish to alter or add to any statement in the petition? If so, state the alterations or additions.
+QUESTION | ANSWER
 
-- 3. Subject to these alterations and additions (if any), is everything stated in your petition true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
+About the divorce/judicial separation petition
 
-- 4. State briefly your reasons for saying that the respondent has committed the adultery alleged.
+1. Have you read the petition filed in this case?
 
-- 5. On what date did it first become known to you that the respondent had committed the adultery alleged?
+2. Do you wish to alter anything in the petition or add anything to it? If so, state the alterations or additions.
 
-- 6. Do you find it intolerable to live with the respondent?
+3. Subject to these alterations and additions (if any), is everything stated in your petition true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
 
-- 7. Since the date given in the answer to Question 5, have you ever lived with the respondent in the same household? If so, state the addresses and the period or periods, giving dates.
+4. State briefly your reasons for saying that the respondent has committed the adultery alleged.
 
-- I, (full name)
+5. On what date did it first become known to you that the respondent had committed the adultery alleged?
 
-- of (full residential address) (occupation) make oath/do solemnly, sincerely and truly affirm and say as follows—
+6. Do you find it intolerable to live with the respondent?
 
-- (1) Delete if the acknowl-edgement is signed by a solicitor. (2) Insert name. (3) Insert where confession exhibited. (4) Exhibit any other documents on which the petitioner wishes to rely. (5) If the petitioner seeks a judicial separation, amend accordingly. (6) Amend or delete as appropriate. | 1. I am the petitioner in this cause. 2. The answers to Questions 1 to 7 above are true. 3. (1) I identify the signature . (2) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause. 4. (3) I identify the signature . (2) appearing at the foot of the document now produced to me and marked “B” as the signature of the respondent. 5. (4) 6. I ask the Court to grant a decree dissolving my marriage with the respondent (5) on the grounds stated in my petition [and to order the respondent/co-respondent to pay the costs of this suit] (6). Sworn/Affirmed at this day of 19 . Before me, A Commissioner for Oaths.
+7. Since the date given in the answer to Question 5, have you ever lived with the respondent in the same household? If so, state the addresses and the period or periods, giving dates.
 
-(L.N. 135 of 1976; L.N. 172 of 1996)
+About the children of the family
+
+8. Have you read the Statement as to Arrangements for Children filed in this case?
+
+9. Do you wish to alter anything in the Statement as to Arrangements for Children or add anything to it? If so, state the alterations or additions.
+
+10. Subject to these alterations and additions (if any), is everything stated in the Statement as to Arrangements for Children true and correct to the best of your information and belief?
+
+I, | (full name)
+
+of | (full residential address)
+
+(occupation)
+
+make oath/do solemnly, sincerely and truly affirm and say as follows—
+
+1. I am the petitioner in this cause.
+
+2. The answers to Questions 1 to 10 above are true.
+
+(1) Delete if the acknowl- edgement is signed by a solicitor. (2) Insert name. | 3. (1) I identify the signature . (2) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause.
+
+(3) Insert where confession exhibited. | 4. (3) I identify the signature . (2) appearing at the foot of the document now produced to me and marked “B” as the signature of the respondent.
+
+(4) Exhibit any other documents on which the petitioner wishes to rely. | 5. (4)
+
+(5) If the petitioner seeks a judicial separation, amend accordingly. (6) Amend or delete as appropriate. | 6. I ask the Court to grant a decree dissolving my marriage with the respondent (5) on the grounds stated in my petition [and to order the respondent/co-respondent to pay the costs of this suit] (6). Sworn/Affirmed at this day of 19 . Before me,
+
+A Commissioner for Oaths.
+
+(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001)
 
 _
 
@@ -852,39 +880,61 @@ FORM 21(2) | [Rule 33(2A)]
 
 Affidavit by Petitioner in Support of Petition under Section 11A(2)(e)
 
-of Matrimonial Causes Ordinance (Cap. 179) [Heading as in Form 3]
+of Matrimonial Causes Ordinance [Heading as in Form 3]
 
 QUESTION | ANSWER
 
+About the divorce/judicial separation petition
+
 1. Have you read the petition filed in this case?
 
-2. Do you wish to alter or add to any statement in the petition? If so, state the alterations or additions.
+2. Do you wish to alter anything in the petition or add anything to it? If so, state the alterations or additions.
 
 3. Subject to these alterations and additions (if any), is everything stated in your petition true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
 
-4. State the date on which you and the respondent separated, and, if different, the date on which the alleged desertion began. Did you agree to the separation?
+4. State the date on which you and the respondent began to separate, and, if different, the date on which the alleged desertion began. At that time, did you agree to the separation?
 
 5. State briefly the facts you rely on in support of the allegation that the respondent deserted you, and your reason for saying that the desertion continued up to the presentation of the petition.
 
 6. Did the respondent ever offer to resume cohabitation?
 
-7. State as far as you know the various addresses at which you and the respondent have respectively lived since the last date given in the answer to Question 4, and the periods residence at each address:
+7. State as far as you know the various addresses at which you and the respondent have respectively lived since the last date given in the answer to Question 4, and the periods of residence at each address:
 
-Petitioner’s Address Respondent’s Address
+Petitioner’s Address | Respondent’s Address
 
 From to | From to
 
 8. Since the last date given in the answer to Question 4, have you ever lived with the respondent in the same household? If so, state the addresses and the period or periods, giving dates.
 
-I, (full name)
+About the children of the family
 
-of (full residential address)
+9. Have you read the Statement as to Arrangements for Children filed in this case?
+
+10. Do you wish to alter anything in the Statement as to Arrangements for Children or add anything to it? If so, state the alterations or additions.
+
+11. Subject to these alterations and additions (if any), is everything stated in the Statement as to Arrangements for Children true and correct to the best of your information and belief?
+
+I, | (full name)
+
+of | (full residential address)
 
 (occupation)
 
-- make oath/do solemnly, sincerely and truly affirm and say as follows— (1) Delete if the acknowledgement is signed by a solicitor.(2) Insert name.(3) Exhibit any other documents on which the petitioner wishes to rely.(4) If the petitioner seeks a judicial separation, amend accordingly.(5) Delete if costs are not sought.1. I am the petitioner in this cause.2. The answers to Questions 1 to 8 above are true. 3. (1) I identify the signature . (2) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause.4. (3)5. I ask the Court to grant a decree dissolving my marriage with the respondent (4) on the grounds stated in my petition [and to order the respondent to paythe costs of this unit] (5).Sworn/Affirmed atthis day of 19 .Before me,A Commissioner for Oaths.
+make oath/do solemnly, sincerely and truly affirm and say as follows—
 
-(L.N. 135 of 1976; L.N. 172 of 1996)
+1. I am the petitioner in this cause.
+
+2. The answers to Questions 1 to 11 above are true.
+
+(1) Delete if the acknow— ledgement is signed by a solicitor. (2) Insert name. | 3. (1) I identify the signature . (2) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause.
+
+(3) Exhibit any other documents on which the petitioner wishes to rely. | 4. (3)
+
+(4) If the petitioner seeks a judicial separation, amend accordingly. (5) Delete if costs are not sought. | 5. I ask the Court to grant a decree dissolving my marriage with the respondent (4) on the grounds stated in my petition [and to order the respondent to pay the costs of this unit] (5). Sworn/Affirmed at this day of 19 . Before me,
+
+A Commissioner for Oaths.
+
+(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001)
 
 _
 
@@ -892,35 +942,61 @@ FORM 21(3) | [Rule 33(2A)]
 
 Affidavit by Petitioner in Support of Petition under Section 11A(2)(c)
 
-of Matrimonial Causes Ordinance (Cap. 179) [Heading as in Form 3]
+of Matrimonial Causes Ordinance [Heading as in Form 3]
 
 QUESTION | ANSWER
 
+About the divorce/judicial separation petition
+
 1. Have you read the petition filed in this case?
 
-2. Do you wish to alter or add to any statement in the petition? If so, state the alternations or additions.
+2. Do you wish to alter anything in the petition or add anything to it? If so, state the alterations or additions.
 
 3. Subject to these alterations and additions (if any), is everything stated in your petition true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
 
-4. State the date on which you and the respondent separated.
+4. State the date on which you and the respondent began to separate.
 
 5. State briefly the reason or main reason for the separation.
 
 6. State the date when and the circumstances in which you came to the conclusion that the marriage was in fact at an end.
 
-- 7. State as far as you know the various addresses at which you and the respondent have respectively lived since the date given in the answer to Question 4, and the periods of residence at each address:
+7. State as far as you know the various addresses at which you and the respondent have respectively lived since the date given in the answer to Question 4, and the periods of residence at each address:
 
-- Petitioner’s Address | Respondent’s Address
+Petitioner’s Address | Respondent’s Address
 
-- From to | From to
+From to | From to
 
-- 8. Since the date given in the answer to Question 4, have you ever lived with the respondent in the same household? If so, state the addresses and the period or periods, giving dates.
+8. Since the date given in the answer to Question 4, have you ever lived with the respondent in the same household? If so, state the addresses and the period or periods, giving dates.
 
-- I, (full name) of (full residential address) (occupation) make oath/do solemnly, sincerely and truly affirm and say as follows—
+About the children of the family
 
-- (1) Insert name. (2) Exhibit any other documents on which the petitioner wishes to rely. (3) If the petitioner seeks a judicial separation, amend accordingly. (4) Delete if costs are not sought.) | 1. I am the petitioner in this cause. 2. The answers to Questions 1 to 8 above are true. 3. I identify the signature . (1) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause. 4. (2) 5. I ask the Court to grant a decree dissolving my marriage the respondent (3) on the grounds stated in my petition [and to order the respondent to pay the costs of this suit] (4). Sworn/Affirmed at this day of 19 . Before me, A Commissioner for Oaths.
+9. Have you read the Statement as to Arrangements for Children filed in this case?
 
-(L.N. 135 of 1976; L.N. 172 of 1996)
+10. Do you wish to alter anything in the Statement as to Arrangements for Children or add anything to it? If so, state the alterations or additions.
+
+11. Subject to these alterations and additions (if any), is everything stated in the Statement as to Arrangements for Children true and correct to the best of your information and belief?
+
+I, | (full name)
+
+of | (full residential address)
+
+(occupation)
+
+make oath/do solemnly, sincerely and truly affirm and say as follows—
+
+1. I am the petitioner in this cause.
+
+2. The answers to Questions 1 to 11 above are true.
+
+(1) Insert name. | 3. I identify the signature . (1) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause.
+
+(2) Exhibit any other documents on which the petitioner wishes to rely. | 4. (2)
+
+(3) If the petitioner seeks a judicial separation, amend accordingly. (4) Delete if costs are not sought. | 5. I ask the Court to grant a decree dissolving my marriage with the respondent (3) on the grounds stated in my petition [and to order the respondent to pay the costs of this unit] (4). Sworn/Affirmed at this day of 19 . Before me,
+
+A Commissioner for Oaths.
+
+(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001)
 
 _
 
@@ -928,35 +1004,61 @@ FORM 21(4) | [Rule 33(2A)]
 
 Affidavit by Petitioner in Support of Petition under Section 11A(2)(d)
 
-of Matrimonial Causes Ordinance (Cap. 179) [Heading as in Form 3]
+of Matrimonial Causes Ordinance [Heading as in Form 3]
 
 QUESTION | ANSWER
 
+About the divorce/judicial separation petition
+
 1. Have you read the petition filed in this case?
 
-2. Do you wish to alter or add to any statement in the petition? If so, state the alterations or additions.
+2. Do you wish to alter anything in the petition or add anything to it? If so, state the alterations or additions.
 
 3. Subject to these alterations and additions (if any), is everything stated in your petition true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
 
-4. State the date on which you and the respondent separated.
+4. State the date on which you and the respondent began to separate.
 
 5. State briefly the reason or main reason for the separation.
 
 6. State the date when and the circumstances in which you came to the conclusion that the marriage was in fact at an end.
 
-- 7. State as far as you know the various addresses at which you and the respondent have respectively lived since the date given in the answer to Question 4, and the periods of residence at each address:
+7. State as far as you know the various addresses at which you and the respondent have respectively lived since the date given in the answer to Question 4, and the periods of residence at each address:
 
-- Petitioner’s Address | Respondent’s Address
+Petitioner’s Address | Respondent’s Address
 
-- From to | From to
+From to | From to
 
-- 8. Since the date given in the answer to Question 4, have you ever lived with the respondent in the same household? If so, state the addresses and the period or periods, giving dates.
+8. Since the date given in the answer to Question 4, have you ever lived with the respondent in the same household? If so, state the addresses and the period or periods, giving dates.
 
-- I, (full name) of (full residential address) (occupation) make oath/do solemnly, sincerely and truly affirm and say as follows—
+About the children of the family
 
-- (1) Delete if the acknowl-edgement is signed by a solicitor. (2) Insert name. (3) Exhibit any other documents on which the petitioner wishes to rely. (4) If the petitioner seeks a judicial separation, amend accordingly. (5) Delete if costs are not sought. | 1. I am the petitioner in this cause. 2. The answers to Questions 1 to 8 above are true. 3. (1) I identify the signature . (2) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause. 4. (3) 5. I ask the Court to grant a decree dissolving my marriage with the respondent (4) on the grounds stated in my petition [and to order the respondent to pay the costs of this suit] (5). Sworn/Affirmed at this day of 19 . Before me, A Commissioner for Oaths.
+9. Have you read the Statement as to Arrangements for Children filed in this case?
 
-(L.N. 135 of 1976; L.N. 172 of 1996)
+10. Do you wish to alter anything in the Statement as to Arrangements for Children or add anything to it? If so, state the alterations or additions.
+
+11. Subject to these alterations and additions (if any), is everything stated in the Statement as to Arrangements for Children true and correct to the best of your information and belief?
+
+I, | (full name)
+
+of | (full residential address)
+
+(occupation)
+
+make oath/do solemnly, sincerely and truly affirm and say as follows—
+
+1. I am the petitioner in this cause.
+
+2. The answers to Questions 1 to 11 above are true.
+
+(1) Delete if the acknowl- edgement is signed by a solicitor. (2) Insert name. | 3. (1) I identify the signature . (2) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause.
+
+(3) Exhibit any other documents on which the petitioner wishes to rely. | 4. (3)
+
+(4) If the petitioner seeks a judicial separation, amend accordingly. (5) Delete if costs are not sought. | 5. I ask the Court to grant a decree dissolving my marriage with the respondent (4) on the grounds stated in my petition [and to order the respondent to pay the costs of this suit] (5). Sworn/Affirmed at this day of 19 . Before me,
+
+A Commissioner for Oaths.
+
+(L.N. 135 of 1976; L.N. 172 of 1996; L.N. 270 of 2001)
 
 _
 
@@ -968,99 +1070,217 @@ Section 11B(2)(a) of Matrimonial Causes Ordinance [Heading as in Form 2D]
 
 QUESTION | ANSWER
 
-1. Have you read the petition filed in this case?
+About the divorce application
 
-2. Do you wish to alter or add to any statement in the petition? If so, state the alterations or additions.
+1. Have you read the application filed in this case?
 
-3. Subject to these alterations and additions (if any), is everything stated in your petition true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
+2. Do you wish to alter anything in the application or add anything to it? If so, state the alterations or additions.
 
-4. State the date on which you both separated.
+3. Subject to these alterations and additions (if any), is everything stated in your application true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
+
+4. State the date on which you both began to separate.
 
 5. State briefly the reason or main reason for the separation.
 
 6. State the date when and the circumstances in which you both came to the conclusion that the marriage was in fact at an end.
 
-- 7. State as far as you know the various addresses at which each of you have respectively lived since the date given in the answer to Question 4, and the periods of residence at each address:
+7. State as far as you know the various addresses at which each of you have respectively lived since the date given in the answer to Question 4, and the periods of residence at each address:
 
-- Petitioner’s Address | Respondent’s Address
+1st Applicant’s Address | 2nd Applicant’s Address
 
-- From to | From to
+From to | From to
 
-- 8. Since the date given in the answer to Question 4, have you both ever lived together in the same household? If so, state the addresses and the period or periods, giving dates.
+8. Since the date given in the answer to Question 4, have you both ever lived together in the same household? If so, state the addresses and the period or periods, giving dates.
 
-- We, of | (full name) (full residential address)
+About the children of the family
 
-- (occupation) (full name)
+9. Have you read the Statement as to Arrangements for Children filed in this case?
 
-- and of | (full residential address) (occupation)
+10. Do you wish to alter anything in the Statement as to Arrangements for Children or add anything to it? If so, state the alterations or additions.
 
-- make oath/do solemnly, sincerely and truly affirm and say as follows—
+11. Subject to these alterations and additions (if any), is everything stated in the Statement as to Arrangements for Children true and correct to the best of your information and belief?
 
-- (1) Exhibit any other documents on which the applicants wish to rely. (2) Insert name (3) Insert name | 1. We are the applicants in this cause. 2. The answers to Questions 1 to 8 above are true. 3. (1) 4. We ask the Court to grant a decree dissolving our marriage. Sworn/Affirmed by . (2) at . this day of 19 . Before me, . A Commissioner for Oaths. Sworn/Affirmed by . (2) at . this day of 19 . Before me, . A Commissioner for Oaths. (L.N. 172 of 1996)
+We, | (full name)
 
-- _
+of | (full residential address)
 
-- FORM 21(6) | [Rule 33(2B)]
+(occupation)
 
-- Joint Affidavit by Applicants in Support of an Application under
+and | (full name)
 
-- Section 11B(2)(b) of Matrimonial Causes Ordinance [Heading as in Form 2D]
+of | (full residential address)
 
-- Question | Answer
+(occupation)
 
-- 1. Have you read the application filed in this case?
+make oath/do solemnly, sincerely and truly affirm and say as follows—
 
-- 2. Do you wish to alter or add to any statement in the application? If so, state the alterations or additions.
+1. We are the applicants in this cause.
 
-- 3. Subject to these alterations and additions (if any), is everything stated in your application true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
+2. The answers to Questions 1 to 11 above are true.
 
-- 4. State the date when and the circumstances in which you both came to the conclusion that the marriage was in fact at an end.
+(1) Exhibit any other documents on which the applicants wish to rely. | 3. (1) 4. We ask the Court to grant a decree dissolving our marriage.
 
-- We, of | (full name) (full residential address)
+(2) Insert name | Sworn/Affirmed by . (2) at . this day of 19 . Before me, .
 
-- (occupation) (full name)
+A Commissioner for Oaths.
 
-- and of | (full residential address) (occupation)
+(3) Insert name | Sworn/Affirmed by . (3) at . this day of 19 . Before me, .
 
-- make oath/do solemnly, sincerely and truly affirm and say as follows—
+A Commissioner for Oaths.
 
-- (1) Exhibit any other documents on which the applicants wish to rely. (2) Insert name (3) Insert name | 1. We are the applicants in this cause. 2. The answers to Questions 1 to 4 above are true. 3. (1) 4. We ask the Court to grant a decree dissolving our marriage. Sworn/Affirmed by . (2) at . this day of 19 . Before me, . A Commissioner for Oaths. Sworn/Affirmed by . (2) at . this day of 19 . Before me, . A Commissioner for Oaths. (L.N. 172 of 1996)
+( L.N. 172 of 1996; L.N. 270 of 2001)
 
-- _
+_
 
-- FORM 22 | [Rule 87(3)]
+FORM 21(6) | [Rule 33(2B)]
 
-- Praecipe for Issue of Judgment Summons
+Joint Affidavit by Applicants in Support of an Application under
 
-- IN THE COURT OF FIRST | [or in the District Court of Hong Kong
+Section 11B(2)(b) of Matrimonial Causes Ordinance [Heading as in Form 2D]
 
-- INSTANCE | held at
+QUESTION | ANSWER
 
-- (DIVORCE). | No. of | ｛ | Matter
+About the divorce application
 
-- Judgment summons
+1. Have you read the application filed in this case?
 
-- Between and [and | Petitioner [or Applicant] Respondent Co-Respondent]
+2. Do you wish to alter anything in the application or add anything to it? If so, state the alterations or additions.
 
-- Judgment creditor’s full name and address .
+3. Subject to these alterations and additions (if any), is everything stated in your application true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
 
-- Judgment debtor’s full name and address .
+4. State the date when and the circumstances in which you both came to the conclusion that the marriage was in fact at an end.
 
-- I apply for the issue of a judgment summons against the above-named judgment debtor in respect of an order made in this Court [or as the case may be] on the day of
+About the children of the family
 
-- 19 , for [state nature of order).
+5. Have you read the Statement as to Arrangements for Children filed in this case?
 
-- [If it be the case I intend to apply to the Court at the hearing of the proposed judgment summons for leave to enforce arrears which became due more than twelve months before the date of the proposed summons].
+6. Do you wish to alter anything in the Statement as to Arrangements for Children or add anything to it? If so, state the alterations or additions.
 
-- I am aware that, if I do not prove to the satisfaction of the Court at the hearing that the judgment debtor has, or has had since the date of the said order, the means to pay the sum in respect of which he has made default and that he has refused or neglected, or refuses or neglects, to pay it I may have to pay the costs of the summons.
+7. Subject to these alterations and additions (if any), is everything stated in the Statement as to Arrangements for Children true and correct to the best of your information and belief?
 
-- [Add, except where judgment summons is to issue in the District Court in which order was made: I certify that the said order has not been modified or discharged and that there is no order of commitment in this matter which remains unsatisfied.
+We, | (full name)
 
-- I further certify that no writ of fieri facias has been issued to enforce the said order [or, if a writ of fieri facias has been issued, give details and state what return to it has been made.].] Dated this day of 19 . [Solicitor for the] Judgment Creditor.
+of | (full residential address)
 
-- $
+(occupation)
 
-- Amount due and unpaid in respect of the order and costs . Costs of this summons . Travelling expenses to be paid to the judgment debtor . | _ _
+and | (full name)
+
+of | (full residential address)
+
+(occupation)
+
+make oath/do solemnly, sincerely and truly affirm and say as follows—
+
+1. We are the applicants in this cause.
+
+2. The answers to Questions 1 to 7 above are true.
+
+(1) Exhibit any other documents on which the applicants wish to rely. | 3. (1) 4. We ask the Court to grant a decree dissolving our marriage.
+
+(2) Insert name | Sworn/Affirmed by . (2) at . this day of 19 . Before me, .
+
+A Commissioner for Oaths.
+
+(3) Insert name | Sworn/Affirmed by . (3) at . this day of 19 . Before me, .
+
+A Commissioner for Oaths.
+
+(L.N. 172 of 1996; L.N. 270 of 2001)
+
+_
+
+FORM 21(7) | [Rule 33(2A)]
+
+Affidavit by Petitioner in Support of Petition under Section 11A(2)(b)
+
+of Matrimonial Causes Ordinance [Heading as in Form 3]
+
+QUESTION | ANSWER
+
+About the divorce/judicial separation petition
+
+1. | Have you read the petition filed in this case including what is said about the respondent’s behaviour?
+
+2. | Do you wish to alter anything in the petition or add anything to it? If so, state the alterations or additions.
+
+3. | Subject to these alterations and additions (if any), is everything stated in your petition true? If any statement is not within your own knowledge, indicate this and say whether it is true to the best of your information and belief.
+
+4. | (i) Is the respondent’s behaviour as set out in the petition continuing? (ii) If the respondent’s behaviour is not continuing, what was the date of the final incident relied upon by you in the petition?
+
+5. | (i) Since the date given in the answer to Question 4 or, if no date is given in answer to that question, since the date of the petition, have you ever lived at the same address as the respondent for a period of more than 6 months, or for periods which together amount to more than 6 months? (ii) If so, state the addresses and the period or periods, giving dates to the best of your information and belief, and describe the arrangements for sharing the accommodation. [State: ‧ whether you have shared a bedroom; ‧ whether you have taken your meals together; ‧ what arrangements you have made for cleaning the accommodation and other domestic tasks; ‧ what arrangements you have made for the payment of household bills and other expenses.]
+
+About the children of the family
+
+6. | Have you read the Statement as to Arrangements for Children filed in this case?
+
+7. | Do you wish to alter anything in the Statement as to Arrangements for Children or add anything to it? If so, state the alterations or additions.
+
+8. | Subject to these alterations and additions (if any), is everything stated in the Statement as to Arrangements for Children true and correct to the best of your information and belief?
+
+I, | (full name)
+
+of | (full residential address)
+
+(occupation)
+
+make oath/do solemnly, sincerely and truly affirm and say as follows—
+
+1. I am the petitioner in this cause.
+
+2. The answers to Questions 1 to 8 above are true.
+
+(1) Delete if the acknowledge ment of service is signed by a solicitor or no acknowledge ment of service has been filed. (2) Insert name. | 3. (1) I identify the signature . (2) appearing on the copy acknowledgement of service now produced to me and marked “A” as the signature of my husband/wife, the respondent in this cause.
+
+(3) Exhibit any other documents on which the petitioner wishes to rely. | 4. (3)
+
+(4) If the petitioner seeks a judicial separation, amend accordingly. (5) Delete if costs are not sought. | 5. I ask the Court to grant a decree dissolving my marriage with the respondent (4) on the grounds stated in my petition [and to order the respondent to pay . the costs of this suit] (5). Sworn/Affirmed at this day of . Before me,
+
+A Commissioner for Oaths.
+
+(L.N. 270 of 2001)
+
+_
+
+FORM 22 | [Rule 87(3)]
+
+Praecipe for Issue of Judgment Summons
+
+IN THE COURT OF FIRST | [or in the District Court of Hong Kong
+
+INSTANCE | held at
+
+(DIVORCE). | No. of | ｛ | Matter
+
+Judgment summons
+
+Between and [and | Petitioner [or Applicant] Respondent Co-Respondent]
+
+Judgment creditor’s full name and address .
+
+Judgment debtor’s full name and address .
+
+I apply for the issue of a judgment summons against the above-named judgment debtor in
+
+respect of an order made in this Court [or as the case may be] on the day of
+
+19 , for [state nature of order).
+
+[If it be the case I intend to apply to the Court at the hearing of the proposed judgment summons for leave to enforce arrears which became due more than twelve months before the date of the proposed summons].
+
+I am aware that, if I do not prove to the satisfaction of the Court at the hearing that the judgment debtor has, or has had since the date of the said order, the means to pay the sum in respect of which he has made default and that he has refused or neglected, or refuses or neglects, to pay it I may have to pay the costs of the summons.
+
+[Add, except where judgment summons is to issue in the District Court in which order was made: I certify that the said order has not been modified or discharged and that there is no order of commitment in this matter which remains unsatisfied.
+
+I further certify that no writ of fieri facias has been issued to enforce the said order [or, if a writ of fieri facias has been issued, give details and state what return to it has been made.].]
+
+Dated this day of 19 .
+
+[Solicitor for the] Judgment Creditor.
+
+$
+
+Amount due and unpaid in respect of the order and costs . Costs of this summons . Travelling expenses to be paid to the judgment debtor . | _ _
 
 (L.N. 193 of 1974; 25 of 1998 s. 2)
 
@@ -1214,7 +1434,7 @@ intervention . 62(1)
 
 maintenance out of deceased’s estate . 103(2)
 
-remove divorce district court order to Court of First Instance (25 of 1998 s. 2) . 91(1)
+remove divorce District Court order to Court of First Instance (25 of 1998 s. 2) . 91(1)
 
 settlement of property . 74(1), (2)
 
@@ -1302,7 +1522,7 @@ respondent heard on ancillary questions without filing . 49
 
 to amended petition, time for . 16(5)(a)
 
-APPEAL (上訴):— from registrar in district court proceedings . 116
+APPEAL (上訴):— from registrar in District Court proceedings . 116
 
 no stay . 116(2)
 
@@ -1350,7 +1570,7 @@ re-hearing of a cause . 55
 
 removal of child out of the jurisdiction . 94(1)
 
-remove a divorce district court order into the Court of First Instance (25 of 1998 s. 2) . 91(1)
+remove a divorce District Court order into the Court of First Instance (25 of 1998 s. 2) . 91(1)
 
 rescind decree nisi by consent . 64
 
@@ -1506,7 +1726,7 @@ security for wife’s . 37
 
 COURT (法院):— file, inspection of . 121
 
-COURT OF FIRST INSTANCE (原訟法庭):— (25 of 1998 s. 2) removal of district court order to . 91
+COURT OF FIRST INSTANCE (原訟法庭):— (25 of 1998 s. 2) removal of District Court order to . 91
 
 CREDITOR (債權人):— judgment . 87
 
@@ -1596,7 +1816,7 @@ DIVORCE REGISTRY (辨理離婚案的登記處):— documents:— discovery of, i
 
 filing of, at place of hearing . 118
 
-ENFORCEMENT (強制執行):— of divorce district court order in the Court of First Instance (25 of 1998 s. 2) . 91(1)
+ENFORCEMENT (強制執行):— of divorce District Court order in the Court of First Instance (25 of 1998 s. 2) . 91(1)
 
 of order for payment of money . 86
 
@@ -1820,7 +2040,7 @@ for variation of settlement order . 74(3)
 
 for variation or discharge of supervision order . 93
 
-date and place of trial in district court . 33(2) of causes set down . 44
+date and place of trial in District Court . 33(2) of causes set down . 44
 
 date and place of trial of petition . 47(1)
 
@@ -1858,7 +2078,7 @@ as guardian ad litem of mentally disordered person . 105, 106
 
 ORDER (命令):— drawing of . 56
 
-under section 18(1) or (4) Matrimonial Proceedings and Property Ordinance (Cap. 192). 51
+under section 18(1) or (4) Matrimonial Proceedings and Property Ordinance (Cap. 192) . 51
 
 for payment of money, enforcement of . 86
 
@@ -1982,7 +2202,7 @@ service of . 23
 
 POST (郵遞):— service by . 110
 
-PRACTICE (慣例):— observance of in district courts . 122
+PRACTICE (慣例):— observance of in District Court . 122
 
 PRESUMPTION OF DEATH (推定死亡):— petition for . 9(8)
 
@@ -2034,7 +2254,7 @@ petition on . 14(1)
 
 statement as to arrangements for children . 15B
 
-RE-TRANSFER (再移交):— of cause or application to district court . 32
+RE-TRANSFER (再移交):— of cause or application to District Court . 32
 
 RULES OF THE HIGH COURT (高等法院規則):— (25 of 1998 s. 2) application of . 3
 
@@ -2166,7 +2386,7 @@ TIME (限期):— extension or abridgement of . 113
 
 for answer or amended answer to amended petition . 16(5)(a)
 
-for appeal from registrar in district court . 116(1)
+for appeal from registrar in District Court . 116(1)
 
 for application for appointment of medical inspectors . 30(4)
 
@@ -2182,7 +2402,7 @@ of proceedings . 54(3), (5)
 
 TRANSFER (移交):— of application, for ancillary relief, consideration of, by court . 80(3)
 
-from district court to district court . 80(8)
+from District Court to District Court . 80(8)
 
 on court’s own motion . 80(10)
 
@@ -2192,9 +2412,9 @@ to alter maintenance agreement after death of one party . 102(8)
 
 of cause or application, . 27
 
-back to a district court . 32(3)
+back to a District Court . 32(3)
 
-from district court to Court of First Instance (25 of 1998 s. 2) . 32
+from District Court to Court of First Instance (25 of 1998 s. 2) . 32
 
 on courts own motion . 32
 
