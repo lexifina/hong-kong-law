@@ -12,6 +12,8 @@ DANGEROUS DRUGS
 
   - Alprazolam
 
+  - Amfepramone (Added L.N. 348 of 1998)
+
   - Aminorex
 
   - Amphetamine
@@ -30,7 +32,9 @@ DANGEROUS DRUGS
 
   - Camazepam
 
-  - Cannabinol and its tetrahydro derivatives; their 3-alkyl homologues Cathinone
+  - Cannabinol and its tetrahydro derivatives; their 3-alkyl homologues Cathine (Added L.N. 348 of 1998)
+
+  - Cathinone
 
   - Chlordiazepoxide
 
@@ -96,6 +100,8 @@ DANGEROUS DRUGS
 
   - Etorphine
 
+  - Etryptamine (Added L.N. 348 of 1998)
+
   - Fentanyl
 
   - Fludiazepam
@@ -141,6 +147,8 @@ DANGEROUS DRUGS
   - Mecloqualone
 
   - Medazepam
+
+  - Mesocarb (Added L.N. 348 of 1998)
 
   - Metazocine
 
@@ -249,6 +257,8 @@ DANGEROUS DRUGS
   - Tilidate
 
   - Triazolam
+
+  - Zipeprol (Added L.N. 348 of 1998)
 
   - 4-Cyano-2-dimethylamino-4, 4-diphenylbutane
 
@@ -360,4 +370,4 @@ PREPARATIONS TO WHICH ORDINANCE APPLIES WITH MODIFICATIONS
 
 - PREPARATIONS WHICH MAY BE SOLD BY RETAIL BY LISTED SELLERS OF POISONS UNDER PHARMACY AND POISONS ORDINANCE (CAP. 138) (Amended 46 of 1971 s. 10)
 
-- 23. Any preparation containing not more than 0.1 per cent of any of the following substances, namely— Cocaine Morphine Acetyldihydrocodeine Codeine Dihydrocodeine Ethylmorphine (3-ethylmorphine) Nicocodine Norcodeine Pholcodine, being a preparation compounded with one or more other ingredients in such a way that the preparation has no, or a negligible, risk of abuse and that the substance contained therein cannot be recovered by readily applicable means or in a yield which would constitute a risk to health.
+- 23. Any preparation containing not more than 0.1 per cent of cocaine, being a preparation compounded with one or more other ingredients in such a way that the preparation has no, or a negligible, risk of abuse and that the substance contained therein cannot be recovered by readily applicable means or in a yield which would constitute a risk to health. (Replaced L.N. 348 of 1998)
