@@ -10,7 +10,7 @@ Item | Place of refuge
 
 - 2. (Repealed L.N. 557 of 1994)
 
-- 3. The Chuk Yuen Children’s Reception Centre.
+- 3. (Repealed L.N. 9 of 2004)
 
 - 4. The Ma Tau Wai Girls’ Home.
 
