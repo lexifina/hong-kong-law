@@ -1,0 +1,5 @@
+GENERAL CHINESE CHARITIES FUND DIRECTIONS
+
+(Cap. 153, section 9)
+
+[10 December 1954]
