@@ -8,19 +8,19 @@ INFORMATION TO BE PROVIDED TO THE DIRECTOR BY NOTIFICATION OR REPORT UNDER REGUL
 
   - 1. Name of vessel.
 
-  - 2. Call sign of vessel.
+  - 2. The call sign or MD reference number or (in the absence of call sign or MD reference number) official number of vessel. (L.N. 117 of 2002)
 
   - 3. National colours.
 
   - 4. Type of vessel.
 
-  - 5. Gross registered tonnage of vessel.
+  - 5. Gross tonnage of vessel. (L.N. 117 of 2002)
 
   - 6. Length overall of vessel in metres.
 
   - 7. Number of crew including master.
 
-  - 8. Purpose of call in Hong Kong.
+  - 8. Purpose of call and intended berth or anchorage on arrival in Hong Kong. (L.N. 117 of 2002)
 
   - 9. Estimated maximum draught of vessel in metres on arrival.
 
@@ -32,7 +32,9 @@ INFORMATION TO BE PROVIDED TO THE DIRECTOR BY NOTIFICATION OR REPORT UNDER REGUL
 
   - 11. Quantities and categories of dangerous goods on board including radioactive materials (insert “None” if applicable).
 
-  - 12. (a) Name of agent of vessel in Hong Kong (insert “None” if no agent appointed and indicate whether an agent is to be appointed or whether the master is to act as agent).
+  - 12.
+
+    - (a) Name of agent of vessel in Hong Kong (insert “None” if no agent appointed and indicate whether an agent is to be appointed or whether the master is to act as agent).
 
     - (b) Name of master of vessel.
 
@@ -44,4 +46,12 @@ INFORMATION TO BE PROVIDED TO THE DIRECTOR BY NOTIFICATION OR REPORT UNDER REGUL
 
   - 16. Height to highest point of vessel in metres above waterline on arrival.
 
-  - 17. Any other relevant information (if applicable). (L.N. 408 of 1994)
+  - 17. Any other relevant information (if applicable).
+
+- Note:
+
+  - In this Schedule, for the purpose of item 2—
+
+    - “MD reference number” (海事處參考編號), in relation to a vessel which arrives at the waters of Hong Kong for the first time, means a reference number assigned by the Director to the vessel for the purpose of reporting arrival and departure of the vessel. (L.N. 117 of 2002)
+
+  - (L.N. 408 of 1994)

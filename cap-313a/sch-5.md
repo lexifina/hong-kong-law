@@ -4,7 +4,7 @@
 
 RESTRICTED AREAS, ETC.
 
-RESRICTED AREAS, ETC.
+RESTRICTED AREAS, ETC.
 
 (L.N. 309 of 1993)
 
@@ -408,6 +408,34 @@ RESRICTED AREAS, ETC.
 
   - (l) latitude 22o 18’ 53.6000” north,
 
-  - longitude 114o 08’ 33.1000” east. Note: The geographical co-ordinates of paragraphs 16 and 17 are represented by the WGS 84.
+  - longitude 114o 08’ 33.1000” east.
 
 - (L.N. 140 of 2000)
+
+- 18.
+
+- KAP SHUI MUN SPECIAL AREA
+
+- The area of the waters of Hong Kong bounded—
+
+  - (a) on the north-west, by a straight line drawn from the north-eastern shore of Lantau Island at position latitude 22o 20.750’ north, longitude 114o 03.017’ east to the West Ma Wan light at position latitude 22o 20.925’ north, longitude 114o 03.241’ east;
+
+  - (b) on the north-east, by a straight line drawn from the West Ma Wan light at position latitude 22o 20.925’ north, longitude 114o 03.241’ east to the Tang Lung Chau light at position latitude 22o 20.373’ north, longitude 114o 03.787’ east;
+
+  - (c) on the south-east, by a straight line drawn from the Tang Lung Chau light at position latitude 22o 20.373’ north, longitude 114o 03.787’ east to the headland at position latitude 22o 20.126’ north, longitude 114o 03.455’ east;
+
+  - (d) on the south-west, by a straight line drawn from the headland at position latitude 22o 20.126’ north, longitude 114o 03.455’ east to the north-eastern shore of Lantau Island at position latitude 22o 20.750’ north, longitude 114o 03.017’ east.
+
+- (L.N. 117 of 2002)
+
+- 19. SOUTH-EASTERN BOUNDARY OF THE KAP SHUI MUN SPECIAL AREA The boundary of the waters of Hong Kong indicated by a straight line joining the Tang Lung Chau light at position latitude 22o 20.373’ north, longitude 114o 03.787’ east to the headland at position latitude 22o 20.126’ north, longitude 114o 03.455’ east. (L.N. 117 of 2002)
+
+- 20.
+
+- NORTH-EASTERN BOUNDARY OF THE KAP SHUI MUN SPECIAL AREA
+
+- The boundary of the waters of Hong Kong indicated by a straight line joining the Tang Lung Chau light at position latitude 22o 20.373’ north, longitude 114o 03.787’ east to the southern shore of Ma Wan at position latitude 22o 20.554’ north, longitude 114o 03.608’ east.
+
+- (L.N. 117 of 2002)
+
+- Note: The geographical co-ordinates of paragraphs 16 to 20 are represented by the WGS 84. (L.N. 117 of 2002)
