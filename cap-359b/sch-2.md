@@ -2,228 +2,218 @@
 
 [regs. 7, 9, 14, 23 & 42]
 
-FORM 1 | [regulation 7(1)]
+FORM 1
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND
+[reg. 7(1)]
 
-DISCIPLINARY PROCEDURE) REGULATIONS
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Application for Registration/Provisional Registration as an Occupational Therapist
 
-Application for Registration/Provisional Registration as an Occupational Therapist
-
-I .
+I
 
 (name in both English and Chinese)
 
-of.
+of
 
 (correspondence or home address)
 
-being qualified for registration under section 12(1)*(a)/(b)/(c)/section 15 of the Supplementary Medical Professions Ordinance apply for *registration/provisional registration as an occupational therapist and request that my name be placed on Part . of the Register.
+being qualified for registration under section 12(1)*(a)/(b)/(c)/section 15 of the Supplementary Medical Professions Ordinance apply for *registration/provisional registration as an occupational therapist and request that my name be placed on Part ............ of the Register.
 
-- 2. I hold the following qualifications .
+2. I hold the following qualifications ..........................................................
 
-- . .
+3. I have the following professional experience ........................................
 
-- 3. I have the following professional experience . .
+4. My business address(es) *is/are as follows:
 
-- .
+(English)
 
-- 4. My business address(es) *is/are as follows: (English) .
+(Chinese)
 
-- .
+5. My telephone numbers are:
 
-- (Chinese) .
+(Home)
 
-- .
+(Office)
 
-- 5. My telephone numbers are: (Home) .
+6.I *†have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance. I declare that the information given in this application is correct to the best of my knowledge and belief.
 
-- (Office) .
+Signed at ...................................... the ............. day of ............ 19 ..... | ................................................... (Signature of Applicant)
 
-- 6.
+Before me,
 
-- I *+have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance. I declare that the information given in this application is correct to the best of my knowledge and belief.
+(Name in block letters) | (Signature)
 
-- Signed at . | ﹜ | .
+* Barrister/Commissioner for Oaths/Occupational therapist registered in Part I of the Register/Registered medical practitioner/Solicitor.
 
-- the . day of . 19 . | (Signature of Applicant)
+Photograph of Applicant
 
-- Before me,
+† Please supply details of conviction. * Delete as inappropriate.
 
-- . | .
+(47 of 1997 s. 10)
 
-- (Name in block letters) | (Signature)
+_
 
-- * Barrister/Commissioner for Oaths/Occupational therapist registered in Part I of the Register/Registered medical practitioner/Solicitor
+FORM 2A
 
-- Photograph of Applicant
+[reg. 9(1)]
 
-- + Please supply details of conviction.
+OCCUPATIONAL THERAPISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Registration
 
-- * Delete as inappropriate.
+Number on Register .........................
 
-- (47 of 1997 s. 10)
+This is to certify that ..............................................................................
 
-- _
+whose address is
 
-- FORM 2A | [regulation 9(1)]
+and whose photograph appears hereon was on the ............ day of ............... 19.......... admitted to Part .............. of the Register of Occupational Therapists.
 
-- OCCUPATIONAL THERAPISTS BOARD
+Dated this ......... day of ............. 19 .......
 
-- HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Registration
+Photograph
 
-- Number on Register .
+Secretary, Occupational Therapists Board.
 
-- (I.D. No. )
+(L.N. 87 of 2004)
 
-- This is to certify that . whose address is . . and whose photograph appears hereon was on the . day of . 19. admitted to Part . of the Register of Occupational Therapists. Dated this . day of . 19.
+_
 
-- Photograph
+FORM 2B
 
-- .
+[reg. 9(2)]
 
-- Secretary,
+OCCUPATIONAL THERAPISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Provisional Registration
 
-- Occupational Therapists Board.
+Number on Register: .........................
 
-- _
+This is to certify that
 
-- FORM 2B | [regulation 9(2)]
+whose address is
 
-- OCCUPATIONAL THERAPISTS BOARD
+and whose photograph appears hereon was on the ........... day of ............... 19........ admitted to Part Ill of the Register of Occupational Therapists subject to the undermentioned conditions.
 
-- HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Provisional Registration
+Conditions imposed pursuant to section 15(3) of the Supplementary Medical Professions Ordinance—
 
-- Number on Register .
+Dated this ......... day of ............... 19 .......
 
-- (I.D. No. )
+Photograph
 
-- This is to certify that . whose address is . . and whose photograph appears hereon was on the . day of . 19. admitted to Part Ill of the Register of Occupational Therapists subject to the undermentioned conditions.
+Secretary,
 
-- Conditions imposed pursuant to section 15(3) of the Supplementary Medical Professions Ordinance—
+Occupational Therapists Board.
 
-- Dated this . day of . 19 .
+(L.N. 87 of 2004)
 
-- Photograph
+_
 
-- .
+FORM 3
 
-- Secretary,
+[reg. 14]
 
-- Occupational Therapists Board.
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Particulars of a Company carrying on the Business of Practising Occupational Therapy
 
-- _
+Presented by
 
-- FORM 3 | [regulation 14]
+(Name of Company)
 
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
+of
 
-- (Chapter 359) Occupational Therapists (Registration and Disciplinary
+(Registered Business Address)
 
-- Procedure) Regulations Particulars of a Company carrying on the Business of Practising Occupational Therapy
+(Business Registration Certificate No.)
 
-- Presented by .
+Particulars of the names and addresses of all persons who are professionally qualified directors, other directors or managers of the above company in respect of the business of occupational therapy carried on by it at ..................................................................................................................
 
-- (Name of Company)
+under the name of
 
-- of .
+Name in full | Position | Cert. of Reg. No. and Date of Reg. where Directors are registered under Part I of the Register | Residential Address
 
-- (Registered Business Address)
+and of persons who practise occupational therapy in connection with the business of the said company in the above.
 
-- .
+Name in full | Residential address | Occupation | Qualifications | Cert. of Reg. No. and Date of Reg. | Duties performed
 
-- (Business Registration Certificate No.)
+Dated this ......... day of ............ 19 .......
 
-- Particulars of the names and addresses of all persons who are professionally qualified directors, other directors or managers of the above company in respect of the business of occupational therapy carried on by it at . . under the name of .
+(Signature)
 
-- Name in full | Position | Cert. of Reg. No. and Date of Reg. where Directors are registered under Part I of the Register | Residentia Address
+(State whether director or manager or secretary)
 
-- and of persons who practise occupational therapy in connection with the business of the said company in the above.
+_
 
-- Name in full | Residential address | Occupation | Qualifications | Cert. of Reg. No. and Date of Reg. | Duties performed
+FORM 4
 
-- Dated this . day of . 19 .
+[reg. 23(1)]
 
-- (Signature) .
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Notice of Inquiry
 
-- (State whether director or
+[Date]
 
-- manager or secretary)
+Sir/Madam,
 
-- _
+On behalf of the Occupational Therapists Board notice is hereby given to you that, in consequence of a complaint made against you to the Board/information received by the Board, an inquiry is to be held into the following charge(s) against you—
 
-- FORM 4 | [regulation 23(1)]
+(If the allegation relates to conviction) That you were on the ........ day of ............. 19 ...... at ................................................................................ ......................................................................... (specify court recording the conviction) convicted of ..................................................................................
 
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY
+(set out particulars of the conviction in sufficient detail to identify the case).
 
-- PROCEDURE) REGULATIONS Notice of Inquiry
+or (If the charge relates to conduct) That you ...........................................
 
-- [Date]
+(set out briefly the facts alleged); and that in relation to the facts alleged you have been guilty of unprofessional conduct.
 
-- Sir/Madam,
+or (If the allegation relates to obtaining registration by fraud or misrepresentation) That you ...........................................................................
 
-- On behalf of the Occupational Therapists Board notice is hereby given to you that, in consequence of a complaint made against you to the Board/information received by the Board, an inquiry is to be held into the following charge(s) against you—
+(set out briefly the facts alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation.
 
-- (If the allegation relates to conviction) That you were on the . day of . 19 . at . (specify court recording the conviction) convicted of . . (set out particulars of the conviction in sufficient detail to identify the case).
+or (If the allegation is that the registered occupational therapist was not qualified, at the time of his registration, to be registered) That you ...............
 
-- or
+(set out briefly the facts alleged); and that in relation to the facts alleged you were not at the time of your registration qualified to be registered.
 
-- (If the charge relates to conduct) That you . . . (set out briefly the facts alleged); and that in relation to the facts alleged you have been guilty of unprofessional conduct.
+or (If the allegation is that the registered occupational therapist has not complied with or is in breach of any condition of his registration or has failed to comply with the Ordinance) That you .............................................
 
-- or
+(set out briefly the facts alleged).
 
-- (If the allegation relates to obtaining registration by fraud or misrepresentation) That you . . . (set out briefly the facts alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation.
+or
 
-- or
+(If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance)
 
-- (If the allegation is that the registered occupational therapist was not qualified, at the time of his registration, to be registered) That you . . . . . (set out briefly the facts alleged); and that in relation to the facts alleged you were not at the time of your registration qualified to be registered.
+That on the .......... day of ....................... 19 ......... you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas .............................
 
-- or
+(set out briefly the facts alleged); and that in relation to the facts alleged your name should not be approved to be entered upon the register.
 
-- (If the allegation is that the registered occupational therapist has not complied with or is in breach of any condition of his registration or has failed to comply with the Ordinance) That you . . . . (set out briefly the facts alleged).
+(Where there is more than one charge or allegation they are to be numbered consecutively).
 
-- or
+Notice is further given to you that on .................... (day of the week) the ............... day of .............. 19 ......, a meeting of the Board will be held at .............................................................................., at .......... a.m./p.m. to consider the above-mentioned charge(s)/allegation(s) in a complaint against you, and to determine whether or not the Board should take any action against you under section ................ (state whether section 13 or 22) of the Supplementary Medical Professions Ordinance.
 
-- (If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance) That on the . day of . 19 . you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas . . . . (set out briefly the facts alleged); and that in relation to the facts alleged your name should not be approved to be entered upon the register.
+You are hereby invited to answer in writing the above-mentioned charge(s)/allegation(s) and also to appear before the Board at the place and time specified above, for the purpose of answering such charge(s)/allegation(s). You may appear in person or by counsel or solicitor. The Board has power, if you do not appear, to hear and decide upon the said charge(s)/allegation(s) in your absence.
 
-- (Where there is more than one charge or allegation they are to be numbered consecutively).
+Any answer, admission, or other statement or communication which you may desire to make with respect to the said charge(s)/allegation(s) in a complaint should be addressed to the Secretary.
 
-- Notice is further given to you that on . (day of the week) the . day of . 19 ., a meeting of the Board will be held at . ., at. a.m./p.m. to consider the above-mentioned charge(s)/allegation(s) in a complaint against you, and to determine whether or not the Board should take any action against you under section . (state whether section 13 or 22) of the Supplementary Medical Professions Ordinance. You are hereby invited to answer in writing the above-mentioned charge(s)/allegation(s) and also to appear before the Board at the place and time specified above, for the purpose of answering such charge(s)/allegation(s). You may appear in person or by counsel or solicitor. The Board has power, if you do not appear, to hear and decide upon the said charge(s)/allegation(s) in your absence. Any answer, admission, or other statement or communication which you may desire to make with respect to the said charge(s)/allegation(s) in a complaint should be addressed to the Secretary. If you desire to make any application that the inquiry should be postponed, you should send the application to the Secretary as soon as may be, stating the grounds on which you desire a postponement. Any such application will be considered by the Chairman of the Board. A copy of the Occupational Therapists (Registration and Disciplinary Procedure) Regulations is sent herewith for your information.
+If you desire to make any application that the inquiry should be postponed, you should send the application to the Secretary as soon as may be, stating the grounds on which you desire a postponement. Any such application will be considered by the Chairman of the Board.
 
-- .
+A copy of the Occupational Therapists (Registration and Disciplinary Procedure) Regulations is sent herewith for your information.
 
-- Secretary,
+Secretary, Occupational Therapists Board.
 
-- Occupational Therapists Board.
+_
 
-- _
+FORM 5
 
-- FORM 5 | [regulation 42(2)]
+[reg. 42(2)]
 
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OCCUPATIONAL THERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Summons to Witness
 
-- PROCEDURE) REGULATIONS Summons to Witness
+In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance:
 
-- In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance:
+And in the matter of (1)
 
-- And in the matter of (1) .
+To (2)
 
-- To(2) .
+You are hereby summoned to appear before the Occupational Therapists Board at .....................................................................................
 
-- You are hereby summoned to appear before the Occupational Therapists Board at . on the . day of . 19 ., at . o’clock in the . noon to give evidence touching the matter under inquiry(3) and also to bring with you and produce(4) . .
+on the ................................................................... day of ............ 19 ..........., at ......................... o’clock in the ......... noon to give evidence touching the matter under inquiry (3) and also to bring with you and produce (4)
 
-- Given under my hand this . day of . 19 .
+Given under my hand this ............ day of ...................... 19 .......
 
-- .
+Chairman, Occupational Therapists Board.
 
-- Chairman,
+NOTE: | (1) Insert name of registered occupational therapist. (2) Insert name and address of witness. (3) Delete if not required. (4) Specify the books, documents or other things to be produced.
 
-- Occupational Therapists Board.
-
-- NOTE: (1) Insert name of registered occupational therapist.
-
-  - (2) Insert name and address of witness.
-
-  - (3) Delete if not required.
-
-  - (4) Specify the books, documents or other things to be produced.
+(L.N. 154 of 1996)
