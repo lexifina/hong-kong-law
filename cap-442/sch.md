@@ -1,5 +1,7 @@
 # SCHEDULE
 
+(Item 45 of this schedule has commenced operation since 19 June 2000 only in so far as it relates to a decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. - see L.N. 131 of 2000.)
+
 [ss. 3, 4 & 22]
 
 Item | Ordinance | Decision
@@ -81,6 +83,8 @@ Item | Ordinance | Decision
 41. | Prevention of Copyright Piracy Ordinance (Cap. 544) | A decision of the Commissioner of Customs and Excise under section 11 or 12 of the Ordinance. (Added 22 of 1998 s. 43)
 
 44. | Dangerous Dogs Regulation (Cap. 167 sub. leg.) | A direction by an authorized officer under section 14 of the Regulation. (Added L.N. 185 of 2000)
+
+45. | Factories and Industrial Undertakings (Safety Management) Regulation (Cap. 59 sub. leg. AF) | (a) A decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. (b) A decision of the Commissioner for Labour under section 24(1) to require the appointment of a new safety review officer. (c) A decision of the disciplinary board under section 29(2) to reprimand a registered person, cancel the registration of a registered person or suspend the registration of a registered person. (Added L.N. 298 of 1999)
 
 46. | Port Control (Cargo Working Areas) Regulations (Cap. 81 sub. leg.) | A decision of the Director or the supervisor under regulation 4A(4), 5B, 6AA, 7, 7A, 7B, 7C, 7D, 7E, 13 or 21. (Added L.N. 280 of 1999)
 
