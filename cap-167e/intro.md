@@ -1,0 +1,5 @@
+DANGEROUS DOGS (IDENTIFICATION OF FIGHTING DOGS AND KNOWN DANGEROUS DOGS) NOTICE
+
+(Dangerous Dogs Regulation (Cap. 167 sub. leg. D), sections 8 and 13)
+
+[27 June 2001]
