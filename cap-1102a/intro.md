@@ -1,0 +1,5 @@
+ST. PAUL’S COLLEGE COUNCIL REGULATIONS
+
+(Cap. 1102, section 6)
+
+[25 May 1962]
