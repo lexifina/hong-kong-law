@@ -1,0 +1,3 @@
+An Ordinance to make provisions for the implementation in Hong Kong of certain provisions of the Vienna Convention on Consular Relations and of other agreements concerning consular relations to which the Government of the People’s Republic of China is a party and which are applied to Hong Kong by the Central People’s Government; to make further provisions with respect to consular relations in Hong Kong between the People’s Republic of China and other countries and matters arising in connection therewith; to enable diplomatic agents and consular officers in Hong Kong to administer oaths and do notarial acts in certain cases; and to provide for matters connected therewith and incidental thereto.
+
+[10 March 2000]
