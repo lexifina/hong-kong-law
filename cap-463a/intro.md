@@ -1,0 +1,5 @@
+SEWAGE SERVICES (SEWAGE CHARGE) REGULATION
+
+(Cap. 463, section 12)
+
+[1 April 1995]
