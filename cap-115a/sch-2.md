@@ -48,7 +48,9 @@ Item | Document or Circumstance | Fee $
 
 21. | An application fee payable by an applicant for an application for a quota allocation under a scheme to import managers and professional persons (L.N. 137 of 1994) . | 500
 
-22. | APEC business travel card valid for a period of not more than 5 years (L.N. 593 of 1997) . | 620
+22. | (a) APEC business travel card valid for a period of not more than 5 years . | 427
+
+(b) Replacement of an APEC business travel card for the remainder of its validity period (L.N. 55 of 2001) . | 150
 
 23. | Travel pass valid for not more than 3 years (L.N. 593 of 1997) . | 500
 
