@@ -1,0 +1,5 @@
+TRAINING CENTRES REGULATIONS
+
+(Cap. 280, section 10)
+
+[6 March 1953]
