@@ -20,6 +20,8 @@ THE POISONS LIST
 
 - Acetanilide; alkyl acetanilides
 
+- Acetazolamide; its salts
+
 - Acetohexamide
 
 - Acetorphine; its salts; its esters and ethers; their salts
@@ -262,6 +264,8 @@ THE POISONS LIST
 
 - Antihistamine substances other than the above; their salts; any compounds with such substances; when contained in preparations for parenteral use
 
+- Antilymphocyte Immunoglobulins
+
 - Antimony, chlorides of; organic compounds of; antimonates; antimonites
 
 - Antisera, antitoxins, immunoglobulins and vaccines—
@@ -502,6 +506,8 @@ THE POISONS LIST
 
 - Chlorzoxazone
 
+- Chorionic Gonadotrophin
+
 - Chymopapain
 
 - Cicletanine; its salts
@@ -533,6 +539,8 @@ THE POISONS LIST
 - Clobazam
 
 - Clodronic acid; its salts; its esters
+
+- Clofazimine; its salts
 
 - Clofibrate
 
@@ -674,6 +682,8 @@ THE POISONS LIST
 
 - Demecarium bromide
 
+- Desferrioxamine; its salts
+
 - Desipramine; its salts
 
 - Desomorphine; its salts; its esters and ethers; their salts
@@ -721,6 +731,8 @@ THE POISONS LIST
 - 3-(3, 4-Dihydroxyphenyl) alanine; its salts
 
 - Diltiazem; its salts
+
+- Dimefline; its salts
 
 - Dimenoxadole; its salts
 
@@ -816,6 +828,8 @@ THE POISONS LIST
 
 - Etafenone; its salts
 
+- Etamivan; its salts
+
 - Etanercept
 
 - Ethacrynic acid; its salts
@@ -832,11 +846,15 @@ THE POISONS LIST
 
 - Ethoheptazine; its salts
 
+- Ethosuximide; its salts
+
 - Ethylmorphine; its salts; its esters and ethers; their salts
 
 - Ethylnoradrenaline; its salts
 
 - Etidronic acid; its salts
+
+- Etilefrine; its salts
 
 - Etodolac
 
@@ -894,6 +912,8 @@ THE POISONS LIST
 
 - Finasteride
 
+- Flavoxate; its salts
+
 - Flecainide; its salts
 
 - Fleroxacin; its salts; its esters
@@ -927,6 +947,8 @@ THE POISONS LIST
 - Fluvastatin
 
 - Fluvoxamine; its salts
+
+- Folinic acid; its salts
 
 - Fondaparinux; its salts
 
@@ -972,11 +994,15 @@ THE POISONS LIST
 
 - Gliquidone
 
+- Glucagon; its salts
+
 - Glutethimide; its salts
 
 - Glyceryl trinitrate
 
 - Glymidine
+
+- Gonadorelin; its salts
 
 - Goserelin; its salts
 
@@ -1071,6 +1097,8 @@ THE POISONS LIST
 - Infliximab
 
 - Inosine
+
+- Inosine pranobex
 
 - Insulin
 
@@ -1312,6 +1340,8 @@ THE POISONS LIST
 
 - Metronidazole; its salts
 
+- Metyrapone; its salts
+
 - Mexiletine; its salts
 
 - Mianserin; its salts
@@ -1319,6 +1349,8 @@ THE POISONS LIST
 - Mibefradil; its salts
 
 - Miconazole; its salts
+
+- Midodrine; its salts
 
 - Miglitol; its salts
 
@@ -1353,6 +1385,8 @@ THE POISONS LIST
 - Moracizine; its salts
 
 - Moramide; its salts; its optical isomers; their salts
+
+- Moroxydine; its salts
 
 - Morpheridine; its salts
 
@@ -1760,6 +1794,8 @@ THE POISONS LIST
 
 - Reviparin; its salts
 
+- Ribavirin; its salts
+
 - Rilmenidine; its salts
 
 - Riluzole; its salts
@@ -2052,6 +2088,8 @@ THE POISONS LIST
 
 - Verteporfin; its salts
 
+- Vidarabine; its salts
+
 - Vigabatrin
 
 - Viloxazine; its salts
@@ -2130,7 +2168,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003)
 
 - PART II A
 
