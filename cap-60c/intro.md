@@ -1,0 +1,5 @@
+IMPORT AND EXPORT MANIFESTS NOTICE
+
+(Cap. 60, section 17)
+
+[16 December 1983]
