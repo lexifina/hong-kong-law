@@ -6,7 +6,9 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
 - (1. Paragraphs 1(a), (b), (c), (d), (e), (f) (sub-subparagraphs (i) to (xii)), (g) and (h) and 2 have commenced operation since 20 March 1998.
 
-- 2. Paragraph 1(f)(xxi) has commenced operation since 25 May 1998.)
+- 2. Paragraph 1(f)(xxi) has commenced operation since 25 May 1998.
+
+- 3. Paragraph 1(f) (sub-subparagraphs (xiii) to (xvii) and (xx)) and (j) (other than sub-subparagraph (x)) has commenced operation since 22 June 1998.)
 
 - 1. Permitted area for taxis licensed to be available for hire or to carry passengers within the New Territories—
 
