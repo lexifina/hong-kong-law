@@ -1,10 +1,12 @@
 # SCHEDULE 2
 
-[s. 2]
+[section 2]
 
 RESTRICTED ZONES
 
-(This schedule becomes effective on 22 June 1998 in respect of the places described in items 1(a) to (f) and 2(a) in column 2.)
+- (1. This schedule becomes effective on 22 June 1998 in respect of the places described in items 1(a) to (f) and 2(a) in column 2.
+
+- 2. This schedule becomes effective on 6 July 1998 in respect of the places described in items 1(g) to (i), 2(b) to (d) and 3 in column 2.)
 
 Column 1 | Column 2
 

@@ -1,10 +1,12 @@
 # SCHEDULE 1
 
-[s. 1]
+[section 1]
 
 PROHIBITED ZONES
 
-(This schedule becomes effective on 22 June 1998 in respect of the places described in items 1(a) to (o) and 2(a) and (b) in column 2.)
+- (1. This schedule becomes effective on 22 June 1998 in respect of the places described in items 1(a) to (o) and 2(a) and (b) in column 2.
+
+- 2. This schedule becomes effective on 6 July 1998 in respect of the places described in items 1(p) to (t), 2(c) to (k) and 3 in column 2.)
 
 Column 1 | Column 2 | Column 3
 
