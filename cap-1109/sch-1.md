@@ -208,7 +208,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (1) Persons who hold appointments in the University shall not be eligible for nomination or election under paragraph 1(k), (l), (m) or (n).
 
-      - (2) (Repealed L.N. 481 of 1997)
+    - (2) (Repealed L.N. 481 of 1997)
 
   - 3. The Chairman of the Council shall hold office for 3 years and may be re-appointed for further periods of 3 years.
 
@@ -218,9 +218,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Provided that a member elected under subparagraphs (e), (h), (i), (l) or (n) of paragraph 1 shall cease to be a member of the Council if he ceases to be a member of the body from among whose members he was elected. (L.N. 438 of 1993)
 
-  - (1A) If an elected member of the Council ceases to be a member under the proviso to subparagraph (1), the body which elected him shall duly elect a successor whose membership of the Council shall be for a period not exceeding 3 years. The successor shall be eligible for re-election to which subparagraph (2) shall apply. (L.N. 438 of 1993)
+      - (1A) If an elected member of the Council ceases to be a member under the proviso to subparagraph (1), the body which elected him shall duly elect a successor whose membership of the Council shall be for a period not exceeding 3 years. The successor shall be eligible for re-election to which subparagraph (2) shall apply. (L.N. 438 of 1993)
 
-  - (2) A body re-nominating or re-electing a member may re-nominate or re-elect, as the case may be, such member for a period of 3 years or for a period of less than 3 years. (L.N. 20 of 1988)
+    - (2) A body re-nominating or re-electing a member may re-nominate or re-elect, as the case may be, such member for a period of 3 years or for a period of less than 3 years. (L.N. 20 of 1988)
 
   - 5. Should a nominated or elected member of the Council die or resign during his period of membership, the body which nominated or elected him shall duly nominate or elect, as the case may be, a successor whose membership of the Council shall be for the unexpired period of membership of his predecessor. Such successor shall be eligible for re-nomination or re-election, and paragraph 4(2) shall apply thereto. (L.N. 20 of 1988)
 
@@ -320,7 +320,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (c) the Head of each College; and
 
-  - (d) 3 other persons, including persons who are not members of the Council, as the Council shall appoint.
+    - (d) 3 other persons, including persons who are not members of the Council, as the Council shall appoint.
 
   - There shall be referred to the Finance Committee all matters within the jurisdiction of the Council which have important financial implications.
 
@@ -590,19 +590,19 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 2. The Chairman of each Department shall be appointed by the Council on the recommendation of the Senate for such period as may be determined by the Council.
 
-    - 3.
+  - 3.
 
-      - (1) A Board shall be established for each Department and shall consist of—
+    - (1) A Board shall be established for each Department and shall consist of—
 
-        - (a) the Vice-Chancellor;
+      - (a) the Vice-Chancellor;
 
-        - (aa) the Dean of any Faculty to which the Department is affiliated; (L.N. 101 of 1995)
+      - (aa) the Dean of any Faculty to which the Department is affiliated; (L.N. 101 of 1995)
 
-        - (b) the Chairman of the Department, who shall be Chairman of the Board; and
+      - (b) the Chairman of the Department, who shall be Chairman of the Board; and
 
-        - (c) all of the teachers assigned to the Department.
+      - (c) all of the teachers assigned to the Department.
 
-  - (2) On the approval of the Senate, teachers of other Departments who contribute substantially to the teaching of students pursuing courses of study within the purview of a Department and are nominated by the Board of the Department become members of the Board.
+    - (2) On the approval of the Senate, teachers of other Departments who contribute substantially to the teaching of students pursuing courses of study within the purview of a Department and are nominated by the Board of the Department become members of the Board.
 
     - (3) At the discretion of the Board of the Department, the Board may nominate such students as the Board deems fit as student members for such period as the Board may in its absolute discretion determine, provided that such student members shall not be entitled to participate in that part of meetings considering reserved areas of business or have access to or read papers or any other documents relating thereto. For the purpose of this Statute, reserved areas of business are the same as those referred to in paragraph 5A(b) of Statute 14. The Chairman of the Board may decide in any case of doubt whether or not a matter falls within one of the reserved areas of business referred to above and his decisions shall be final. (L.N. 478 of 1996)
 
@@ -634,7 +634,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (1) Subject to subparagraph (2), the Convocation shall from a date to be appointed by the Council elect such number of members of the Convocation not exceeding 3 as the Council shall from time to time determine to be members of the Council.
 
-      - (2) No member of the Convocation shall be eligible for election under subparagraph (1) to serve, or continue to serve, as a member of the Council if he is or becomes a member of the University by virtue of Statute 3, unless he is such a member by virtue of paragraph (m) only, and not at the same time such a member by virtue of any other paragraph, of that Statute, but, save as aforesaid, a member of the Convocation elected under subparagraph (1) shall continue to be a member of the Council, and shall be eligible for re-election, notwithstanding his being a member of the University by virtue of paragraphs (f) and (m) of Statute 3 at the same time so long as he is such a member of the Council by virtue of paragraph 1(n) of Statute 11 only, and not at the same time a member of the Council by virtue of any other paragraph of that Statute. (L.N. 327 of 1996; L.N. 481 of 1997)
+    - (2) No member of the Convocation shall be eligible for election under subparagraph (1) to serve, or continue to serve, as a member of the Council if he is or becomes a member of the University by virtue of Statute 3, unless he is such a member by virtue of paragraph (m) only, and not at the same time such a member by virtue of any other paragraph, of that Statute, but, save as aforesaid, a member of the Convocation elected under subparagraph (1) shall continue to be a member of the Council, and shall be eligible for re-election, notwithstanding his being a member of the University by virtue of paragraphs (f) and (m) of Statute 3 at the same time so long as he is such a member of the Council by virtue of paragraph 1(n) of Statute 11 only, and not at the same time a member of the Council by virtue of any other paragraph of that Statute. (L.N. 327 of 1996; L.N. 481 of 1997)
 
   - 8. The Convocation shall, after a date to be determined by the Council, meet at least once in each calendar year and notice of such meeting shall be given 4 weeks before the date of meeting. Any member desiring to bring forward any business thereat shall forward a statement in writing to reach the Secretary of the Convocation at least 2 weeks before the date of meeting, setting forth in the form of motions the subject or subjects proposed for consideration. (L.N. 548 of 1994)
 
@@ -756,31 +756,27 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 1. The Council may for good cause as defined in paragraph 2 remove the Treasurer from his office and any member of the Council other than the Chairman and any person appointed under paragraph 1(k) and (1) of Statute 11 from his membership of the Council.
 
-  - 2.
+  - 2. “Good cause” (好的因由) in paragraph 1 means—
 
-    - “Good cause” (好的因由) in paragraph 1 means—
+    - (a) conviction of any crime which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature;
 
-      - (a) conviction of any crime which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature;
+    - (b) actual physical or mental in capacity which shall be judged by the Council to prevent the proper execution of the duties of the officer or membership; or
 
-      - (b) actual physical or mental in capacity which shall be judged by the Council to prevent the proper execution of the duties of the officer or membership; or
-
-      - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
+    - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
 
   - 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Head of each of the Colleges, any of the Professors or Readers or Senior Lecturers, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council.
 
   - 4. The Council may and shall if requested by the person concerned or by any 3 members of the Council before such removal appoint a committee consisting of the Chairman of the Council, 2 other members of the Council and 3 members of the Senate to examine the complaint and to report to the Council thereof.
 
-  - 5.
+  - 5. “Good cause” (好的因由) in paragraph 3 means—
 
-    - “Good cause” (好的因由) in paragraph 3 means—
+    - (a) conviction of any crime which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be of an immoral, scandalous or disgraceful nature;
 
-      - (a) conviction of any crime which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be of an immoral, scandalous or disgraceful nature;
+    - (b) actual physical or mental in capacity which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit for the execution of the duties of his office or appointment;
 
-      - (b) actual physical or mental in capacity which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit for the execution of the duties of his office or appointment;
+    - (c) conduct of an immoral, scandalous or disgraceful nature which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit to continue to hold his office or appointment;
 
-      - (c) conduct of an immoral, scandalous or disgraceful nature which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit to continue to hold his office or appointment;
-
-      - (d) conduct which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to constitute failure or inability to perform the duties of his office or appointment or to comply with the conditions of the tenure of his office or appointment.
+    - (d) conduct which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to constitute failure or inability to perform the duties of his office or appointment or to comply with the conditions of the tenure of his office or appointment.
 
   - 6. Subject to the terms of his appointment no person referred to in paragraph 3 shall be removed from his appointment save for good cause as defined in paragraph 5 and in pursuance of the procedure specified in paragraph 4.
 
@@ -842,11 +838,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Bachelor of Business Administrations (B. B. A.)
 
+      - Bachelor of Chinese Medicine (B. Chi. Med.) (L.N. 2 of 1999)
+
       - Bachelor of Education (B. Ed.)
 
       - Bachelor of Engineering (B. Eng.) (L.N. 114 of 1991)
 
-      - Bachelor of Medical Sciences (B.Med. Sc.) (L.N. 55 of 1990)
+      - Bachelor of Medical Sciences (B. Med. Sc.) (L.N. 55 of 1990)
 
       - Bachelor of Medicine and Bachelor of Surgery (M. B., Ch. B.) Bachelor of Nursing (B. Nurs.) (L.N. 114 of 1991)
 
@@ -946,11 +944,11 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (1) A person who has graduated in another university or who as a registered student of Chung Chi College, The United College of Hong Kong or New Asia College has obtained before the date of establishment of the University a diploma or certificate issued by or on behalf of such Colleges may be exempted from the matriculation requirement of the University and may be admitted as a postgraduate student and may proceed to the degree of Master or Doctor under such conditions as may be prescribed by the Statutes and by decrees and regulations made thereunder.
 
-      - (2) A person who—
+    - (2) A person who—
 
     - (a) has completed a course of study in a tertiary educational institution and holds professional or similar qualifications equivalent to a degree; and
 
-    - (b) has satisfied such other requirements as may be prescribed by the Statutes and by decrees and regulations made thereunder, may be exempted from the matriculation requirements of the University and may be admitted to be a postgraduates student with the approval of the Senate.
+    - (b) has satisfied such other requirements as may be prescribed by the Statutes and by decrees and regulations made thereunder, may be exempted from the matriculation requirements of the University and may be admitted to be a postgraduate student with the approval of the Senate.
 
   - 10. The Senate may recommend the award of the degree of Master or Doctor in any Faculty to any member of the academic staff of the University and for this purpose may exempt any such person from any of the requirements prescribed for the conferment of the degree other than the examination therefor.
 
