@@ -10,14 +10,16 @@
 
   - 3. Senior Solicitor
 
+  - 4. Solicitor (Added L.N. 272 of 1998)
+
 - PART 2
 
   - 1. Principal Intellectual Property Examiner (Added L.N. 407 of 1995)
 
-  - 2. Chief Intellectual Property Examiner (Amended L.N. 407 of 1995)
+  - 2. Chief Intellectual Property Examiner
 
-  - 3. Senior Intellectual Property Examiner (Amended L.N. 407 of 1995)
+  - 3. Senior Intellectual Property Examiner
 
-  - 4. Intellectual Property Examiner I (Amended L.N. 407 of 1995)
+  - 4. Intellectual Property Examiner I
 
   - 5. Intellectual Property Examiner II (Amended L.N. 407 of 1995)
