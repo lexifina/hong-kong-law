@@ -230,4 +230,6 @@ Item | Periods | Rate of interest
 
 113. | On or after 5 February 2001 and before 5 March 2001 (L.N. 34 of 2001; L.N. 57 of 2001) | 4.2708% per annum
 
-114. | On or after 5 March 2001 (L.N. 57 of 2001) | 3.8333% per annum
+114. | On or after 5 March 2001 and before 2 April 2001 (L.N. 57 of 2001; L.N. 77 of 2001) | 3.8333% per annum
+
+115. | On or after 2 April 2001 (L.N. 77 of 2001) | 3.4875% per annum
