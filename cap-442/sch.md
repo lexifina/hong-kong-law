@@ -20,7 +20,7 @@ Item | Ordinance | Decision
 
 8. | Miscellaneous Licences Ordinance (Cap. 114) | The decision under section 5 of any officer authorized to issue a licence under the Ordinance as to the grant of a licence, the renewal of a licence or the revocation of a licence.
 
-9. | Acetylating Substances (Control) Ordinance (Cap. 145) | A decision of the Commissioner, as defined in section 2(1), under the Ordinance, relating to— (a) the issue of a licence or permit; (b) the refusal to issue a licence or permit; (c) the cancellation or suspension of a licence or permit; (d) the cancellation or variation of any condition or the specification of a new condition in a licence or permit.
+9. | Control of Chemicals Ordinance (Cap. 145) (Amended 23 of 2002 s. 14) | A decision of the Commissioner, as defined in section 2(1), under the Ordinance, relating to— (a) the issue of a licence or permit; (b) the refusal to issue a licence or permit; (c) the cancellation or suspension of a licence or permit; (d) the cancellation or variation of any condition or the specification of a new condition in a licence or permit.
 
 10. | Gambling Ordinance (Cap. 148) | The decision under section 22 of the Commissioner for Television and Entertainment Licensing as to the grant of a licence, the renewal of a licence, the imposition of conditions of a licence or the cancellation of a licence.
 
@@ -46,7 +46,7 @@ Item | Ordinance | Decision
 
 21. | Dangerous Goods (General) Regulations (Cap. 295 sub. leg.) | Prohibiting or imposing conditions on the continued use of a storage tank under regulation 127.
 
-22. | Business Registration Ordinance (Cap. 310) | (a) The service of a notice under section 3(4) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business. (b) The service of a notice under section 3(4AA) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business at a branch of a business. (c) The service of a notice under section 6(4D) by the Commissioner of Inland Revenue requesting a person to make an application for registration under a different name. (Amended 3 of 1999 s. 19)
+22. | Business Registration Ordinance (Cap. 310) | (a) The service of a notice under section 3(4) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business. (b) The service of a notice under section 3(4AA) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business at a branch of a business. (c) The service of a notice under section 6(4D) by the Commissioner of Inland Revenue requesting a person to make an application for registration under a different name. (Amended 3 of 1999 s. 19) (d) The service of a notice under section 9(5) by the Commissioner of Inland Revenue that an exemption is not granted. (Added 23 of 2002 s. 14)
 
 23. | Motor Vehicles (First Registration Tax) Ordinance (Cap. 330) | A decision of the Commissioner for Transport under the Ordinance.
 
@@ -92,6 +92,22 @@ Item | Ordinance | Decision
 
 49. | Road Traffic Ordinance (Cap. 374) | A decision of the Commissioner of Police under section 55(3). (Added 3 of 2002 s. 17)
 
-59. | Marine Fish Culture Ordinance (Cap. 353) | A decision of the Director of Agriculture, Fisheries and Conservation— (a) to refuse to grant or renew a licence under section 8(6); (b) to refuse to approve the transfer of a licence under section 8A(3)(b); (c) to cancel a licence under section 9(1); (d) to refuse to grant a permit under section 14(1); (e) to cancel or refuse to renew a permit under section 14(2). (Added 13 of 2002 s. 9)
+50. | Dutiable Commodities Regulations (Cap. 109 sub. leg.) | A forfeiture of security under regulation 27(2). (Added 23 of 2002 s. 14)
 
-Time within which appeals are to be made An appeal under any item mentioned in this Schedule shall be made within 28 days after receipt of notice of the decision to which the appeal relates.
+51. | Security and Guarding Services Ordinance (Cap. 460) | A decision under section 14(5), 15(3), 16(4), 18(4), 21(2), 23(4), 24(4), 24A(13) or 25(4). (Added 23 of 2002 s. 14)
+
+52. | Merchant Shipping (Seafarers) Ordinance (Cap. 478) | A decision of the Superintendent of the Mercantile Marine Office— (a) to refuse to grant a permit; (b) to impose any condition under section 52(3); (c) to refuse to approve any person for the purposes of section 57(1); or (d) to cancel a permit. (Added 23 of 2002 s. 14)
+
+53. | Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority under section 8(2) or 10(2) to refuse to issue a certificate or licence. (Added 23 of 2002 s. 14)
+
+54. | Merchant Shipping (Seafarers) (Tankers-Officers and Ratings) Regulation (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority to refuse to make an entry referred to in section 5(2) or (3) in an employment registration book, service record book or discharge book. (Added 23 of 2002 s. 14)
+
+55. | Merchant Shipping (Seafarers) (Engine Room Watch Ratings) Regulation (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority to refuse to issue an Engine Room Watch Rating Certificate under section 5(1). (Added 23 of 2002 s. 14)
+
+56. | Merchant Shipping (Seafarers) (Navigational Watch Ratings) Regulation (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority to refuse to issue a Navigational Watch Rating Certificate under section 5(1). (Added 23 of 2002 s. 14)
+
+57. | Merchant Shipping (Seafarers) (Certificates of Competency as A.B.) Rules (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority— (a) under section 6(3) to refuse an application for the grant of a certificate of competency as A.B.; or (b) under section 10 (whether to confirm, vary or reverse the decision concerned of the examiner or to substitute another decision for that decision). (Added 23 of 2002 s. 14)
+
+58. | Merchant Shipping (Seafarers) (Certificates of Proficiency in Survival Craft, Rescue Boats and Fast Rescue Boats) Rules (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority— (a) to refuse to issue a certificate of proficiency in survival craft and rescue boats under section 4; (b) to refuse to issue a certificate of proficiency in fast rescue boats under section 4A; or (c) to cancel a certificate of proficiency in survival craft and rescue boats or a certificate of proficiency in fast rescue boats under section 7(2). (Added 23 of 2002 s. 14)
+
+59. | (Repealed 23 of 2002 s. 14)

@@ -28,6 +28,6 @@ CONDITIONS FOR THE USER OF A PRIVATE VEHICLE IN RESPECT OF WHICH A PERMIT IS ISS
 
 - 6. A private car in respect of which a hire car permit is issued for a tour hire car service shall not be hired other than for the conveyance of visitors to Hong Kong and of persons bona fide accompanying such visitors on a journey which commences and terminates at the same point.
 
-- 7. A private car in respect of which a hire car permit is issued for an airport hire car service shall not be hired other than for the conveyance of persons who board or alight from the vehicle at Kai Tak Airport.
+- 7. A private car in respect of which a hire car permit is issued for an airport hire car service shall not be hired other than for the conveyance of persons who board or alight from the vehicle at the Hong Kong International Airport. (23 of 2002 s. 93)
 
 - 8. A private car in respect of which a hire car permit is issued for a school hire car service shall not be hired other than for the conveyance of the students, teachers and employees of any schools.

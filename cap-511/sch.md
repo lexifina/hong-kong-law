@@ -4,15 +4,13 @@
 
 CONSTITUTION, ETC. OF THE AUTHORITY
 
-(Adaptation amendments retroactively made - see 44 of 2000 s. 3)
-
 - 1. Seal
 
   - (1) The Authority shall provide itself with a seal.
 
   - (2) The seal of the Authority shall be authenticated by the signature of the Chairman or of the Vice-chairman, and if the Chairman is or, where appropriate, both the Chairman and the Vice-chairman are, absent from Hong Kong or otherwise unable so to authenticate, the signature of some other member of the Authority authorized by it to act in that behalf.
 
-- 2. Status The Authority shall not be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+- 2. Status The Authority shall not be regarded as a servant or agent of the Government or as enjoying any status, immunity or privilege of the Government. (Amended 23 of 2002 s. 39)
 
 - 3. Constitution of Authority
 
@@ -84,14 +82,10 @@ CONSTITUTION, ETC. OF THE AUTHORITY
 
     - (a) any defect in the appointment or qualification of any person purporting to be a member of the Authority;
 
-    - (b) the absence of any member of the Authority from the meeting at which any such proceedings are conducted; (L.N. 95 of 1999)
+    - (b) the absence of any member of the Authority from the meeting at which any such proceedings are conducted; (Amended L.N. 95 of 1999)
 
     - (c) any vacancy in the membership of the Authority;
 
     - (d) any minor irregularity in the convening of any meeting of the Authority.
 
-- 4.
-
-- Definition
-
-  - In this Schedule “ordinary member” (普通成員) means any member of the Authority who is neither the Chairman nor the Vice-chairman.
+- 4. Definition In this Schedule “ordinary member” (普通成員) means any member of the Authority who is neither the Chairman nor the Vice-chairman.

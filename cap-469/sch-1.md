@@ -6,7 +6,7 @@ PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
 
 - 1. Common seal The Board has a common seal.
 
-- 2. Board not servant or agent of Crown The Board is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+- 2. Board not servant or agent of Government The Board is not to be regarded as a servant or agent of the Government or as enjoying any status, immunity or privilege of the Government. (Amended 23 of 2002 s. 38)
 
 - 3. Composition of the Board
 
@@ -48,7 +48,7 @@ PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
 
 - Governor may declare office of member of Board to be vacant
 
-- If the Governor is satisfied that a member of the Board appointed under.section 3(1)(a), (b), (c), (d) or (e)—
+- If the Governor is satisfied that a member of the Board appointed under section 3(1)(a), (b), (c), (d) or (e)—
 
   - (a) has failed to attend 3 consecutive meetings of the Board without the permission of the Board; or
 

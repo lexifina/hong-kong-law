@@ -4,9 +4,7 @@
 
 PROTECTION OF WAGES ON INSOLVENCY FUND BOARD
 
-(Adaptation amendments retroactively made - see 54 of 2000 s. 3)
-
-- 1. Status of Board The Board shall not be the servant or agent of the Crown nor shall it enjoy any status, immunity or privilege of the Crown.
+- 1. Status of Board The Board shall not be the servant or agent of the Government nor shall it enjoy any status, immunity or privilege of the Government. (Amended 23 of 2002 s. 32)
 
 - 2. Seal
 

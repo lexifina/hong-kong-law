@@ -4,6 +4,8 @@
 
 STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
+(For the transitional provision relating to the amendments made by the Statute Law (Miscellaneous Provisions) Ordinance 2002 (23 of 2002), see section 65 of that Ordinance.)
+
 - STATUTE 1 INTERPRETATION In these Statutes, unless the context otherwise requires—
 
   - “College” (書院) means a constituent College of the University as provided by section 3 and “Colleges” (各書院) shall be construed accordingly; (59 of 1986 s. 4)
@@ -22,7 +24,17 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 1. The time, place and procedure of the Congregations of the whole University shall be determined by the Chancellor.
 
-  - 2. The Chancellor, or in his absence, the Pro-Chancellor or, in the absence of both of them, the Vice-Chancellor, shall preside at Congregations.
+  - 2. The Chancellor, or in his absence, one of the following persons, shall preside at Congregations—
+
+    - (a) the Pro-Chancellor;
+
+    - (b) the Chairman of the Council;
+
+    - (c) the Vice-Chancellor;
+
+    - (d) the Pro-Vice-Chancellor who is carrying out the functions and duties of the Vice-Chancellor in the absence of the Vice-Chancellor.
+
+  - (23 of 2002 s. 57)
 
   - 3. At least one Congregation shall be held in each academic year.
 
@@ -214,6 +226,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 3. The Chairman of the Council shall hold office for 3 years and may be re-appointed for further periods of 3 years.
 
+  - 3A. The Chairman of the Council may confer degrees in the name of the University. (23 of 2002 s. 61)
+
   - 4.
 
     - (1) The nominated and elected members of the Council shall hold office for 3 years from the date of their nomination or election and shall be eligible for re-nomination or re-election:
@@ -230,75 +244,77 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 7. The Council shall elect from among its members a Vice-Chairman who shall hold office for a period of 2 years and who may be re-elected.
 
-  - 8. Subject to the Ordinance and the Statutes and without derogating from the generality of its power, it is specifically prescribed—
+  - 8.
 
-    - (1) that the Council shall have the power—
+  - Subject to the Ordinance and the Statutes and without derogating from the generality of its power, it is specifically prescribed—
 
-      - (a) to make Statutes, provided that no Statute shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
+  - (1) that the Council shall have the power—
 
-      - (b) to make decrees for any purpose for which decrees are or may be authorized to be made, provided that no decree shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
+    - (a) to make Statutes, provided that no Statute shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
 
-      - (c) to invest any money belonging to the University;
+    - (b) to make decrees for any purpose for which decrees are or may be authorized to be made, provided that no decree shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
 
-      - (d) to borrow money on behalf of the University;
+    - (c) to invest any money belonging to the University;
 
-      - (e) to sell, buy, exchange, lease or accept leases of any real or personal property on behalf of the University;
+    - (d) to borrow money on behalf of the University;
 
-      - (f) to enter into, vary, perform and cancel contracts on behalf of the University;
+    - (e) to sell, buy, exchange, lease or accept leases of any real or personal property on behalf of the University;
 
-      - (g) to require the Board of Trustees of each College annually to produce its audited accounts in such form and at such time as the Council may determine;
+    - (f) to enter into, vary, perform and cancel contracts on behalf of the University;
 
-      - (h) to receive from public sources grants for capital and recurrent expenditure;
+    - (g) to require the Board of Trustees of each College annually to produce its audited accounts in such form and at such time as the Council may determine;
 
-      - (i) to receive annually and for such longer periods as the Council may determine from time to time from the Vice-Chancellor, after he has consulted the Senate, and to approve, estimates of expenditure;
+    - (h) to receive from public sources grants for capital and recurrent expenditure;
 
-      - (j) to receive gifts and to approve, subject to such conditions as the Council thinks fit, the receipt of gifts by the Colleges;
+    - (i) to receive annually and for such longer periods as the Council may determine from time to time from the Vice-Chancellor, after he has consulted the Senate, and to approve, estimates of expenditure;
 
-      - (k) to provide for the welfare of persons employed by the University and the wives, widows and dependants of such persons, including the payment of money, pensions, or other payments and to subscribe to benevolent and other funds for the benefit of such persons;
+    - (j) to receive gifts and to approve, subject to such conditions as the Council thinks fit, the receipt of gifts by the Colleges;
 
-      - (l) to provide for the discipline and welfare of students;
+    - (k) to provide for the welfare of persons employed by the University and the wives, widows and dependants of such persons, including the payment of money, pensions, or other payments and to subscribe to benevolent and other funds for the benefit of such persons;
 
-      - (m) to recommend the award of degrees honoris causa;
+    - (l) to provide for the discipline and welfare of students;
 
-      - (n) after report from the Senate to establish additional Faculties or Departments or to abolish, combine or subdivide any Faculty or Department; (L.N. 452 of 1994)
+    - (m) to recommend the award of degrees honoris causa;
 
-      - (na) on the recommendation of the Senate, to determine the organization or structure of each Faculty and its Departments and to make such alterations to such organization or structure as deemed fit by the Council; (L.N. 452 of 1994)
+    - (n) after report from the Senate to establish additional Faculties or Departments or to abolish, combine or subdivide any Faculty or Department; (L.N. 452 of 1994)
 
-      - (o) to prescribe fees of the University;
+    - (na) on the recommendation of the Senate, to determine the organization or structure of each Faculty and its Departments and to make such alterations to such organization or structure as deemed fit by the Council; (L.N. 452 of 1994)
 
-    - (2) that it shall be the duty of the Council—
+    - (o) to prescribe fees of the University;
 
-      - (a) to appoint bankers, auditors and any other agents whom it deems expedient to appoint;
+  - (2) that it shall be the duty of the Council—
 
-      - (b) to appoint an Administrative and Planning Committee;
+    - (a) to appoint bankers, auditors and any other agents whom it deems expedient to appoint;
 
-      - (c) to cause proper books of account to be kept for all sums of money received and expended by the University and for the assets and liabilities of the University so that such books give a true and fair statement of financial transactions and position of the University;
+    - (b) to appoint an Administrative and Planning Committee;
 
-      - (d) to cause the accounts of the University to be audited within 6 months after the termination of each financial year as the Council may determine;
+    - (c) to cause proper books of account to be kept for all sums of money received and expended by the University and for the assets and liabilities of the University so that such books give a true and fair statement of financial transactions and position of the University;
 
-      - (e) to provide the buildings, libraries, laboratories, premises, furniture, apparatus and other equipment needed for the University;
+    - (d) to cause the accounts of the University to be audited within 6 months after the termination of each financial year as the Council may determine;
 
-      - (f) in consultation with the Senate to encourage and provide for research by members of the University;
+    - (e) to provide the buildings, libraries, laboratories, premises, furniture, apparatus and other equipment needed for the University;
 
-      - (g) to review the instruction and teaching in courses of study leading to degrees, diplomas, certificates and other awards of the University;
+    - (f) in consultation with the Senate to encourage and provide for research by members of the University;
 
-      - (h) after consultation with the Senate, to institute all teaching posts;
+    - (g) to review the instruction and teaching in courses of study leading to degrees, diplomas, certificates and other awards of the University;
 
-      - (i) to administer or cause to be administered a Superannuation Fund or Funds for the benefit of persons employed by the University;
+    - (h) after consultation with the Senate, to institute all teaching posts;
 
-      - (j) to establish Boards of Advisers and to appoint external experts thereto on the recommendation of the Senate;
+    - (i) to administer or cause to be administered a Superannuation Fund or Funds for the benefit of persons employed by the University;
 
-      - (k) to appoint on such terms and conditions as the Council may determine each Professor, Reader and Senior Lecturer and the Secretary, the Registrar, the Librarian and the Bursar on the recommendation of duly constituted Boards of Advisers;
+    - (j) to establish Boards of Advisers and to appoint external experts thereto on the recommendation of the Senate;
 
-      - (l) to make, on such terms and conditions as the Council may determine, such other University appointments as the Council deems necessary;
+    - (k) to appoint on such terms and conditions as the Council may determine each Professor, Reader and Senior Lecturer and the Secretary, the Registrar, the Librarian and the Bursar on the recommendation of duly constituted Boards of Advisers;
 
-      - (m) on the recommendation of the Senate, to appoint a Chairman for each Department and a Director of Studies for each academic subject not subsumed under a Department; (L.N. 452 of 1994)
+    - (l) to make, on such terms and conditions as the Council may determine, such other University appointments as the Council deems necessary;
 
-      - (n) to appoint external examiners on the recommendation of the Senate;
+    - (m) on the recommendation of the Senate, to appoint a Chairman for each Department and a Director of Studies for each academic subject not subsumed under a Department; (L.N. 452 of 1994)
 
-      - (o) to provide for the printing and publication of works which may be issued by the University; and
+    - (n) to appoint external examiners on the recommendation of the Senate;
 
-      - (p) to consider reports from the Senate, and if the Council deems it proper to do so, to take action thereon.
+    - (o) to provide for the printing and publication of works which may be issued by the University; and
+
+    - (p) to consider reports from the Senate, and if the Council deems it proper to do so, to take action thereon.
 
   - 9. The Council shall meet at least 3 times in each academic year and additionally on the written request of the Chairman of the Council or the Vice-Chancellor or any 5 members of the Council.
 
@@ -518,9 +534,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 6. A Board of Faculty shall be established for each Faculty and shall consist of—
 
-    - (a) the Vice-Chancellor;
-
-    - (b)-(c) (Repealed L.N. 452 of 1994)
+    - (a) the Vice-Chancellor; (b)-(c) (Repealed L.N. 452 of 1994)
 
     - (d) the Dean, who shall be Chairman;
 

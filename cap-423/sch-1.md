@@ -4,19 +4,21 @@
 
 PROVISIONS AS RESPECTS THE BOARD AND THE MEMBERS THEREOF
 
-(Adaptation amendments retroactively made - see 56 of 2000 s. 3)
-
 Seal and status
 
 - 1. The Board shall have a common seal.
 
-- 2. The Board shall not be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown. Members
+- 2.
+
+- The Board shall not be regarded as a servant or agent of the Government or as enjoying any status, immunity or privilege of the Government.
+
+- (Amended 23 of 2002 s. 37)
+
+Members
 
 - 3.
 
-  - (1)
-
-  - Subject to subsection (3), a member of the Board shall hold and vacate his office in accordance with the terms of his appointment and shall, on ceasing to be a member, be eligible for re-appointment.
+  - (1) Subject to subsection (3), a member of the Board shall hold and vacate his office in accordance with the terms of his appointment and shall, on ceasing to be a member, be eligible for re-appointment.
 
   - (2) Any member appointed under section 3(2)(a) of this Ordinance may at any time—
 
@@ -46,7 +48,7 @@ Seal and status
 
 - (Amended 56 of 2000 s. 3)
 
-- Meetings
+Meetings
 
 - 5. The quorum of the Board shall, in the absence of a quorum decided by the Board, be 7 and, while a member is disqualified from taking part in a decision or deliberation of the Board in respect of a matter, he shall be disregarded for the purposes of constituting a quorum of the Board for deciding, or deliberating on, that matter.
 
@@ -54,19 +56,23 @@ Seal and status
 
   - (1) Subject to the foregoing provisions of this Schedule and to subsections (2) to (5), the Board shall have power to regulate its own procedure including the manner in which decisions of the Board may be made by a quorum of its members otherwise than at a meeting of the Board.
 
-    - (2) Meetings of the Board shall be held at such times and places as the Chairman may appoint.
+  - (2) Meetings of the Board shall be held at such times and places as the Chairman may appoint.
 
-    - (3) The Chairman shall preside at any meeting of the Board.
+  - (3) The Chairman shall preside at any meeting of the Board.
 
-    - (4) If the Chairman is absent from any meeting of the Board, the Vice-Chairman shall act as Chairman in his place, and in the absence of the Vice-Chairman the members present at the meeting shall elect one of their number to act as Chairman.
+  - (4) If the Chairman is absent from any meeting of the Board, the Vice-Chairman shall act as Chairman in his place, and in the absence of the Vice-Chairman the members present at the meeting shall elect one of their number to act as Chairman.
 
-    - (5) The person presiding at any meeting of the Board shall have a deliberative vote on all matters coming before the Board and in the case of an equality of votes he shall also have a casting vote. Transaction of business
+  - (5) The person presiding at any meeting of the Board shall have a deliberative vote on all matters coming before the Board and in the case of an equality of votes he shall also have a casting vote.
+
+Transaction of business
 
 - 7.
 
   - (1) The Board may transact any of its business by circulation of papers amongst members whether any such member is in or outside Hong Kong, and a resolution in writing which is approved in writing by a majority of the members shall be as valid and effectual as if it had been passed at a meeting of the Board.
 
-    - (2) The date of a resolution referred to in subsection (1) shall be deemed to be the latest date on which the resolution, or any written approval in relation to that resolution, was signed or endorsed by a member. Committees
+  - (2) The date of a resolution referred to in subsection (1) shall be deemed to be the latest date on which the resolution, or any written approval in relation to that resolution, was signed or endorsed by a member.
+
+Committees
 
 - 8.
 
@@ -98,6 +104,8 @@ Seal and status
 
     - (c) to establish, manage and control, or enter into an arrangement for the establishment, management and control of, any fund or scheme for the purpose of providing for the payment of allowances, benefits, gratuities, pensions and remuneration to the employees of the Board; or
 
-    - (d) to furnish after the expiry of the financial year, a report on the activities and affairs of the Board for that year, a copy of its statement of accounts therefor and the auditor’s report on the accounts. Documents
+    - (d) to furnish after the expiry of the financial year, a report on the activities and affairs of the Board for that year, a copy of its statement of accounts therefor and the auditor’s report on the accounts.
+
+Documents
 
 - 10. Every document purporting to be an instrument made or issued by or on behalf of the Board and to be duly executed under the seal of the Board or to be signed or executed by a person authorized by the Board to act in that behalf, shall, in the absence of evidence to the contrary, be received in evidence and deemed, without further proof, to be so made or issued.

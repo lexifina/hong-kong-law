@@ -10,7 +10,7 @@ Item | Institution | Executive head
 
 2. | Lingnan University established by the Lingnan University Ordinance (Cap. 1165). | The President within the meaning of section 2 of the Lingnan University Ordinance (Cap. 1165). (Replaced 54 of 1999 s. 34)
 
-3. | The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444). | The Director within the meaning of section 2 of The Hong Kong Institute of Education Ordinance (Cap. 444).
+3. | The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444). | The President within the meaning of section 2 of The Hong Kong Institute of Education Ordinance (Cap. 444). (Amended 23 of 2002 s. 84)
 
 4. | University of Hong Kong established by the University of Hong Kong Ordinance (Cap. 1053). | The Vice-Chancellor of the University.
 
@@ -20,7 +20,7 @@ Item | Institution | Executive head
 
 7. | Hong Kong Baptist University established by the Hong Kong Baptist University Ordinance (Cap. 1126). | The President and Vice-Chancellor within the meaning of section 2 of the Hong Kong Baptist University Ordinance (Cap. 1126).
 
-8. | City University of Hong Kong established by the City University of Hong Kong Ordinance (Cap. 1132). | The Vice-Chancellor within the meaning of section 2 of the City University of Hong Kong Ordinance (Cap. 1132).
+8. | City University of Hong Kong established by the City University of Hong Kong Ordinance (Cap. 1132). | The President within the meaning of section 2 of the City University of Hong Kong Ordinance (Cap. 1132). (Amended 23 of 2002 s. 84)
 
 9. | The Hong Kong Academy for Performing Arts established by The Hong Kong Academy for Performing Arts Ordinance (Cap. 1135). | The Director within the meaning of section 2 of The Hong Kong Academy for Performing Arts Ordinance (Cap. 1135).
 

@@ -4,8 +4,6 @@
 
 MEMBERS OF THE AUTHORITY
 
-(Adaptation amendments retroactively made - see 53 of 2000 s. 3)
-
 The members of the Authority shall be—
 
 - (a) the following persons—
@@ -14,7 +12,7 @@ The members of the Authority shall be—
 
   - (ii)-(iii) (Repealed L.N. 647 of 1994)
 
-  - (iv) the President of the Lingnan University, or his representative; (Amended 54 of 1999 s. 30)
+  - (iv) (Repealed 23 of 2002 s. 23)
 
   - (v) the Chairman of the Curriculum Development Council appointed by the Chief Executive, or his representative;
 
@@ -22,7 +20,7 @@ The members of the Authority shall be—
 
   - (vii) the Director of Education, or his representative;
 
-  - (viii) the Secretary of the Authority appointed under section 7(2)(e) of this Ordinance who shall be the chief executive of the Authority;
+  - (viii) the Secretary General of the Authority appointed under section 7(2)(e) of this Ordinance who shall be the chief executive of the Authority; (Amended 23 of 2002 s. 23)
 
 - (b) the following persons who shall be appointed by the Chief Executive—
 

@@ -156,7 +156,7 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Territory Development Department.
 
-- The Hong Kong Examinations Authority. (Added L.N. 139 of 1999)
+- The Hong Kong Examinations and Assessment Authority. (Replaced 23 of 2002 s. 27)
 
 - Trade and Industry Department. (Replaced L.N. 173 of 2000)
 

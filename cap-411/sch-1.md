@@ -4,11 +4,9 @@
 
 PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
 
-(Adaptation amendments retroactively made - see 56 of 2000 s. 3)
-
 - 1. The Board shall have a common seal.
 
-- 2. The Board shall not be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+- 2. The Board shall not be regarded as a servant or agent of the Government or as enjoying any status, immunity or privilege of the Government. (Amended 23 of 2002 s. 36)
 
 - 3.
 

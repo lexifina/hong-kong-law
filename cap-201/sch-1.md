@@ -80,7 +80,7 @@ PUBLIC BODIES
 
 - 38. (Repealed 5 of 2001 s. 40)
 
-- 39. The Hong Kong Examinations Authority. (Added 23 of 1977 s. 17)
+- 39. The Hong Kong Examinations and Assessment Authority. (Added 23 of 1977 s. 17. Amended 23 of 2002 s. 26)
 
 - 40. Consumer Council. (Added 56 of 1977 s. 22)
 
