@@ -90,6 +90,10 @@ Sugar Street | Pavement in front of House No. 3 (L.N. 565 of 1997) | 1
 
 King’s Road | Pavement against the railing in front of House No. 89 and House No. 91 (L.N. 588 of 1997) | 1
 
+Chiu Lung Street (East side) | At portion facing Queen’s Road Central (L.N. 128 of 1999) | 9
+
+Findlay Road | Kerbside near the Tai Ping Shan Lions View Point Pavilion (L.N. 128 of 1999) | 5
+
 KOWLOON
 
 (1) Name of Street | (2) Extent
