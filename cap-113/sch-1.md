@@ -1,0 +1,41 @@
+# SCHEDULE 1 HOSPITALS THE MANAGEMENT AND CONTROL OF WHICH MAY BE VESTED IN THE AUTHORITY UNDER AGREEMENTS WITH THE GOVERNMENT
+
+[sections 2(1) & 20]
+
+Castle Peak Hospital
+
+Fanling Hospital
+
+Hong Kong Eye Hospital (Added L.N. 385 of 1993)
+
+Kowloon Hospital
+
+Kwai Chung Hospital
+
+Lai Chi Kok Hospital
+
+Pamela Youde Nethersole Eastern Hospital (Added L.N. 385 of 1993)
+
+Prince of Wales Hospital
+
+Princess Margaret Hospital
+
+Queen Elizabeth Hospital
+
+Queen Mary Hospital
+
+Shatin Hospital (Replaced L.N. 385 of 1993)
+
+Siu Lam Hospital
+
+St. John Hospital
+
+Tai Po Hospital (Added L.N. 152 of 1997)
+
+Tang Shiu Kin Hospital
+
+Tsan Yuk Hospital
+
+Tuen Mun Hospital
+
+Wong Chuk Hang Hospital (Added L.N. 233 of 1995)
