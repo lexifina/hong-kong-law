@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# SECOND SCHEDULE
 
 [s. 27(2)]
 
@@ -26,6 +26,30 @@ DETERMINATION OF COMPENSATION
 
 - 4-7. (Repealed 42 of 1985 s. 5)
 
-- 8. The Lands Tribunal may direct that interest be paid on compensation (but not on costs) from such date and for such period as the Lands Tribunal thinks fit, at the lowest rate paid from time to time by members of The Hong Kong Association of Banks on time deposits or at such other rate as may be determined by resolution of the Legislative Council. (Amended 76 of 1980 s. 24; 42 of 1985 s. 5)
+- *8.
+
+  - (1) The Lands Tribunal may direct that interest be paid on compensation (but not on costs) from such date and for such period as the Lands Tribunal thinks fit, at the rate specified in subparagraph (2) or at such other rate as may be determined by resolution of the Legislative Council. (Amended 76 of 1980 s. 24; 42 of 1985 s. 5; 6 of 2001 s. 8)
+
+  - (2) For the purposes of subparagraph (1), the rate of interest paid—
+
+    - (a) in respect of a working day shall be the lowest of the interest rates paid on deposits at 24 hours’ call by note-issuing banks at the close of business on that day; and
+
+    - (b) in respect of a non-working day shall be the lowest of the interest rates paid on deposits at 24 hours’ call by note-issuing banks at the close of business on the last working day before that day. (Added 6 of 2001 s. 8)
+
+  - (3) In this paragraph—
+
+    - “non-working day” (非工作日) means a day that is not a working day;
+
+    - “note-issuing bank” (發鈔銀行) has the meaning assigned to it by section 2 of the Legal Tender Notes Issue Ordinance (Cap. 65);
+
+    - “working day” (工作日) means any day other than—
+
+      - (a) a public holiday; or
+
+      - (b) a gale warning day or black rainstorm warning day as defined in section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1). (Added 6 of 2001 s. 8)
 
 - 9. (Repealed 42 of 1985 s. 5)
+
+Editorial Note:
+
+* For the validation of interest payments and application provisions relating to the amendments made by 6 of 2001, see s. 13 of 6 of 2001.
