@@ -1,0 +1,5 @@
+SOLICITORS’ PRACTICE RULES
+
+(Cap. 159, section 73)
+
+[1 August 1964] L.N. 107 of 1964
