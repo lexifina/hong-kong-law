@@ -1,0 +1,23 @@
+# SCHEDULE
+
+(Adaptation amendments retroactively made - see 68 of 1999 s. 3)
+
+[s. 2]
+
+Item | Signature or service | Fee$
+
+1. | Fees for signatures of—
+
+(a) the Chief Executive | 260
+
+(b) the Chief Secretary for Administration | 220
+
+(c) the Financial Secretary | 220
+
+2. | The issue of a duplicate of any document by a public officer | 140
+
+3. | Any alteration, transfer or endorsement of or addition to a document by a public officer | 140
+
+4. | The certification of a true extract of any document, book, record or instrument by a public officer | 140
+
+(L.N. 362 of 1997; 68 of 1999 s. 3)
