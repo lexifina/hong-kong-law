@@ -210,6 +210,8 @@ PUBLIC BODIES
 
   - 102. Geotechnical Engineers Registration Committee. (Added 15 of 2004 s. 61)
 
+  - 103. Hong Kong Sports Institute Limited. (Added L.N. 4 of 2005)
+
 - (Replaced L.N. 272 of 1974)
 
 Editorial Note:
