@@ -1,0 +1,5 @@
+COMMODITIES TRADING (CONTRACT LEVY) RULES
+
+(Cap. 250 section 79A)
+
+[1 November 1985]
