@@ -78,25 +78,31 @@ FORM 3 | [section 9(4)]
 
 Certificate of Registration of Birth
 
-Registration No.
+出生登記證明書
 
-Surname and name of child
+Registration No. 登記編號
 
-Sex
+Surname and name of child 出生者姓名
 
-Date of birth
+Sex 性別
 
-Date registered
+Date of birth 出生日期
 
-Maiden surname and name of mother
+Date registered 登記日期
 
-Address at birth
+Maiden surname and name of mother 母親婚前姓氏及名字
 
-Signature of registrar
+Address at birth 出生時地址
+
+Signature of registrar 登記官員簽署
 
 This certificate must be produced on demand by a police officer to prove that the name of the person entered has been registered.
 
-NO FEE IS PAYABLE FOR THIS CERTIFICATE
+如遇警務人員索閱時，必須將此證明書出示，以證明上述人名已經登記。
+
+NO FEE IS PAYABLE FOR THIS CERTIFICATE.
+
+領取此證明書無須繳費。
 
 (Replaced L.N. 497 of 1995)
 
@@ -154,7 +160,7 @@ I, (Name) .
 
 (Description) .
 
-Parent (or guardian) of the child of . and ., whose birth
+Parent (or guardian) of the child of . and . whose birth
 
 was registered on the . day of.
 
@@ -266,9 +272,7 @@ Certificate of Registration of Death
 
 I, A.B., a registrar of deaths in the district of , do
 
-hereby certify that the death of has been duly registered by
-
-me on the day of , 19 .
+hereby certify that the death of has been duly registered by me on the day of , 19 .
 
 Dated the day of , 19 .
 
@@ -286,7 +290,7 @@ Certificate of order authorizing burial/cremation of body
 
 I, A.B., a coroner for Hong Kong, hereby certify that I have made an order authorizing the burial/cremation of the body now shown/reported to me as the body of .
 
-Dated this day of 19 .
+Dated this day of ,19 .
 
 .
 
@@ -300,27 +304,35 @@ FORM 12 | [section 17(2)]
 
 Certificate of Registration of Death
 
-Registration No.
+死亡登記證明書
 
-Surname and name of deceased person
+Registration No. 登記編號
 
-Sex
+Surname and name of deceased person 死者姓名
 
-Age
+Sex 性別
 
-Date of death
+Age 年齡
 
-Date registered
+Date of death 死亡日期
 
-Address at death
+Date registered 登記日期
 
-Signature of registrar
+Address at death 死亡時地址
+
+Signature of registrar 登記官員簽署
 
 This certificate must be produced on demand by a police officer to prove that the name of the person entered has been registered.
 
+如遇警務人員索閱時，必須將此證明書出示，以證明上述人名已經登記。
+
 NO FEE IS PAYABLE FOR THIS CERTIFICATE.
 
+領取此證明書無須繳費。
+
 (Replaced L.N. 497 of 1995)
+
+_
 
 FORM 13 | [section 18(a)]
 
@@ -368,19 +380,19 @@ FORM 17 | [section 19]
 
 Notice where coffin also contains the body of a child
 
-I, A.B., hereby give you notice that in the coffin in which C.D. is brought for burial there is the body of a deceased child, name unknown [or of a still-born child] and the name and place of abode of the father [or mother] of such child are and No. .
+I, A.B., hereby give you notice that in the coffin in which C.D. is brought for burial there is the body of a deceased child, name unknown [or of a still-born child] and the name and place of abode of the father [or mother] of such child are and No.
 
 Dated the day of , 19 .
 
 (Signed.) A.B., Undertaker [or person in charge of funeral].
 
--
-
 (M.D. 854) | FORM 18 | [section 20(a)]
 
-Counterfoil for the use of the Medical Attendant, who should in all cases fill it up. | BIRTHS AND DEATHS REGISTRATION ORDINANCE (Chapter 174) MEDICAL CERTIFICATE OF THE CAUSE OF DEATH | No. of corresponding entry in register form of deaths to be inserted here by the registrar.
+Counterfoil for the use of the Medical Attendant, who should in all cases fill it up. | BIRTHS AND DEATHS REGISTRATION ORDINANCE (Chapter 174) PART I MEDICAL CERTIFICATE OF THE CAUSE OF DEATH | No. of corresponding entry in register form of deaths to be inserted here by the registrar.
 
-_ Name of Deceased . | To be given by the medical attendant to the person whose duty it is to give it, with information of the death, to a registrar and to no other person
+To be given by the medical attendant to the person whose duty it is to give it, with information of the death, to a registrar and to no other person
+
+_ Name of Deceased .
 
 Age . Last seen . Died on . At . | _ I HEREBY CERTIFY that I attended . during the last illness; that such person’s age was stated to be . that I last saw h . on the . day of . 19 .; that . died* . on the .day of. 19.; at . and that, to the best of my knowledge and belief the cause of h . death was as hereunder written. An anaesthetic, namely . was administered+ . before the death of . (or, if such was the case: No anaesthetic was administered before the death of .) .
 
@@ -388,7 +400,7 @@ Deceased’s nationality .. | * Should the medical attendant not feel justified 
 
 Deceased’s profession . | CAUSE OF DEATH | Approximate interval between onset and death
 
-Deceased’s address . CAUSE OF DEATH (a) . due to (or as a consequence of) | I. Disease or condition directly leading to death.++ Antecedent causes Morbid conditions, if any giving rise to the above cause, stating the underlying condition last. | (a) . due to (or as a consequence of) (b) . due to (or as a consequence of) (c) . | . . . | (The Informant should read the notice on the back of this form.
+Deceased’s address . CAUSE OF DEATH (a) . due to (or as a consequence of) | I. Disease or condition directly leading to death.++ Antecedent causes Morbid conditions, if any giving rise to the above cause, stating the underlying condition last. | (a) . due to (or as a consequence of) (b) . due to (or as a consequence of) (c) . | . . . | (The Informant should read Parts II and III of this form.)
 
 (b) . due to (or as a consequence of) (c) . Other significant conditions | II. Other significant conditions contributing to the deaths, but not related to the disease or condition causing it. | . . | . .
 
@@ -404,68 +416,174 @@ Deceased’s address . CAUSE OF DEATH (a) . due to (or as a consequence of) | I.
 
 Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE REGISTRAR to whom it should be delivered by the person giving information to him of the particulars required by law to be registered concerning the death. Fine of $1,000 or 6 months’ imprisonment for neglect of informant to deliver this certificate to the registrar or a district registrar. The Registrar of Births and Deaths cautions all persons against accepting or using this certificate for any purpose whatever except that of delivering it to himself or a district registrar. [OVER]
 
-(BACK OF FORM 18) NOTICE
+- PART II NOTICE-DUTIES UNDER THE BIRTHS AND DEATHS
 
-By section 20 of the Births and Deaths Registration Ordinance, Chapter 174, it is enacted that whenever a registered medical practitioner has been in attendance during the last illness of a deceased person such practitioner shall sign and give to a qualified informant of the death a certificate of the cause of death, and including a statement as to whether any, and if so what, anaesthetic was administered during the said illness. The informant is bound to deliver the certificate to a registrar.
+- REGISTRATION ORDINANCE (CAP. 174)
 
-Persons qualified to be informants for the registration of the death, and to whom
+- By section 20 of the Births and Deaths Registration Ordinance, Chapter 174, it is enacted that whenever a registered medical practitioner has been in attendance during the last illness of a deceased person such practitioner shall, subject to the following qualification, sign and give to a qualified informant of the death a certificate of the cause of death, and including a statement as to whether any, and if so what, anaesthetic was administered during the said illness. The qualification is that the said practitioner shall not sign the certificate unless he has personally viewed the body of that person and is satisfied that death has occurred or, if the death has occurred in a hospital, he has received a notice from another registered medical practitioner stating that the other practitioner has personally viewed that body and is satisfied that death has occurred. The informant is bound to deliver the certificate to a registrar.
 
-only this certificate should be given—
+- (Amended 27 of 1997 s. 74)
 
-1 A RELATIVE of the deceased present at the death.
+- Persons qualified to be informants for the registration of the death, and to whom
 
-2 A RELATIVE of the deceased in attendance during the last illness.
+- only this certificate should be given—
 
-3 A person present at the death.
+- 1 A RELATIVE of the deceased present at the death.
 
-4 A person in attendance during the last illness.
+- 2 A RELATIVE of the deceased in attendance during the last illness.
 
-5 The occupier of the house in which the death occurred.
+- 3 A person present at the death.
 
-6 An inmate of the house in which the death occurred.
+- 4 A person in attendance during the last illness.
 
-7 The person causing the body of the deceased to be buried.
+- 5 The occupier of the house in which the death occurred.
 
-Penalty for failing to give information within the 24 hours (in which travelling time and general holidays as defined by the Holidays Ordinance (Chapter 149) shall not be included) next following death is $1,000 fine or 6 months’ imprisonment.
+- 6 An inmate of the house in which the death occurred.
 
-Informants must be prepared to state accurately to the registrar or a district registrar the following particulars—
+- 7 The person causing the body of the deceased to be buried.
 
-- (1) the date and place of death;
+- Penalty for failing to give information within the 24 hours (in which travelling time and general holidays as defined by the Holidays Ordinance (Chapter 149) shall not be included) next following death is $1,000 fine or 6 months’ imprisonment.
 
-- (2) the surname and full names of deceased; (Amended L.N. 497 of 1995)
+- Informants must be prepared to state accurately to the registrar or a district registrar the following particulars—
 
-- (3) the correct age of deceased; and
+  - (1) the date and place of death;
 
-- (4) the rank, profession, or occupation of deceased and nationality so far as is known. [If deceased is a child or an unmarried person without occupation or property the full names and rank or profession of the father will be required (except in the case of illegitimate children); if a wife or widow those of the husband or deceased husband.]
+  - (2) the surname and full names of deceased;
 
-(Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974 ; 80 of 1997 s. 68)
+  - (3) the correct age of deceased; and
 
-_
+  - (4)
 
-FORM 19 | [section 27(c)]
+  - the rank, profession, or occupation of deceased and nationality so far as is known. [If deceased is a child or an unmarried person without occupation or property the full names and rank or profession of the father will be required (except in the case of illegitimate children); if a wife or widow those of the husband or deceased husband.]
 
-Declaration for correction of error in register
+  - (Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974 ; L.N. 497 of 1995; 80 of 1997 s. 68)
 
-We, A.B., of .
+  - _
 
-and C.D., of .
+- PART III NOTICE-DUTIES UNDER THE CORONERS
 
-solemnly and sincerely declare that when the birth (or death) of E.F. was registered on the . day of . 19 ., the following errors of fact or substance occurred in the register, viz.,
+- ORDINANCE (Cap. 504)
 
-(here set forth the error or errors). And we further solemnly and sincerely declare that the true facts of the case are as follows:-
+  - 1. By section 4 of, and Part 2 of Schedule 1 to, the Coroners Ordinance (Cap. 504), it is enacted that where the death to which a certificate of the cause of death relates is a reportable death within the meaning of that Ordinance, the registered medical practitioner who—
 
-(here set forth the true facts). And we make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
+    - (a) signs that certificate;
 
-(Signed) A.B.
+    - (b) if no such certificate is so signed, attended the deceased during his last illness,
 
-C.D.
+  - comes under a duty to make a report of that death to the coroner via the Commissioner of Police as soon as is reasonably practicable after it comes to the knowledge of the practitioner that the death is a reportable death.
 
-Declared at . in Hong Kong this . day of . 19 .
+  - 2.
 
-Before me,
+  - The various types of reportable deaths are specified in Part 1 of Schedule 1 to the Coroners Ordinance (Cap. 504).
 
-(Signed)
+  - They are—
 
-registrar.
+    - (1) Any death of a person where a registered medical practitioner is unable to accurately state the medical cause of the death in the certificate of the cause of death.
 
-(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995)
+    - (2) Any death of a person (excluding a person who, before his death, was diagnosed as having a terminal illness) where no registered medical practitioner has attended the person during his last illness within 14 days prior to his death.
+
+    - (3) Any death of a person where an accident or injury (sustained at any time) caused the death.
+
+    - (4) Any death of a person where a crime or suspected crime caused the death.
+
+    - (5) Any death of a person where—
+
+      - (a) an anaesthetic caused the death;
+
+      - (b) the person was under the influence of a general anaesthetic at the time of the death; or
+
+      - (c) the death occurred within 24 hours after the administering of a general anaesthetic.
+
+    - (6) Any death of a person where—
+
+      - (a) an operation, whether or not lawful, caused the death; or
+
+      - (b) the death occurred within 48 hours after a major operation (as determined in accordance with prevailing medical practice), whether or not lawful.
+
+    - (7) Any death of a person where—
+
+      - (a) an occupational disease, within the meaning of section 3 of the Employees’ Compensation Ordinance (Cap. 282), or pneumoconiosis, within the meaning of section 2(1) of the Pneumoconiosis (Compensation) Ordinance (Cap. 360), caused the death; or
+
+      - (b) having regard to the nature of the last illness of the person, the medical cause of the death and the nature of any known occupation or employment, or previous occupation or employment, of the person, it is reasonable to believe that the death may be connected, either directly or indirectly, with any such occupation or employment.
+
+    - (8) Any still birth where—
+
+      - (a) there is doubt as whether the still born foetus was alive or dead at the time of birth; or
+
+      - (b) there is a suspicion that the still birth might not have been a still birth but for the wilful act or neglect of any person.
+
+    - (9) Any death of a woman where the death occurred within 30 days after—
+
+      - (a) the birth of her child;
+
+      - (b) an operation of abortion, whether or not lawful; or
+
+      - (c) a miscarriage.
+
+    - (10) Any death of a deceased where—
+
+      - (a) septicaemia caused the death; and
+
+      - (b) the primary cause of the septicaemia is unknown.
+
+    - (11) Any death of a person where there is a suspicion the death was caused by suicide.
+
+    - (12) Any death of a person where the death occurred whilst the person was in official custody.
+
+    - (13) Any death of a person where the death occurred during the course of the discharge of his duty by a person having statutory powers of arrest or detention.
+
+    - (14) Any death of a person where the death occurred in the premises of a department of the Government any public officer of which has statutory powers of arrest or detention.
+
+    - (15) Any death of a person where the person—
+
+      - (a) is a patient, within the meaning of section 2 of the Mental Health Ordinance (Cap. 136), and the death occurs in a mental hospital within the meaning of that section; or
+
+      - (b) is a patient the subject of an order under section 31 or 36 of that Ordinance and the death occurs in a hospital other than such a mental hospital.
+
+    - (16) Any death of a person where the death occurred in any premises in which the care of persons is carried on for reward or other financial consideration (other than in any premises which comprise a hospital, nursing home or maternity home registered under the Hospitals, Nursing Homes and Maternity Homes Registration Ordinance (Cap. 165)).
+
+    - (17) Any death of a person where the death was caused by homicide.
+
+    - (18) Any death of a person where the death was caused by the administering of a drug or poison by any other person.
+
+    - (19) Any death of a person where ill-treatment, starvation or neglect caused the death.
+
+    - (20) Any death of a person which occurred outside Hong Kong where the body of the person is brought into Hong Kong.
+
+  - 3.
+
+  - Subject to certain defences, under the Coroners Ordinance (Cap. 504), a registered medical practitioner who fails to discharge the duty referred to in paragraph 1 commits an offence under that Ordinance and may thereby render himself liable to a fine at level 1 and to 14 days imprisonment under that Ordinance.
+
+  - (Added 27 of 1997 s. 74)
+
+  - _
+
+  - FORM 19 | [section 27(c)]
+
+  - Declaration for correction of error in register
+
+  - We, A.B., of .
+
+  - and C.D., of .
+
+  - solemnly and sincerely declare that when the birth (or death) of E.F. was registered on the . day of . 19 ., the following errors of fact or substance occurred in the register, viz.,
+
+  - (here set forth the error or errors).
+
+  - And we further solemnly and sincerely declare that the true facts of the case are as follows:—
+
+  - (here set forth the true facts).
+
+  - And we make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
+
+  - (Signed) A.B.
+
+  - C.D.
+
+  - Declared at . in Hong Kong this . day of . 19 .
+
+  - Before me,
+
+  - (Signed) registrar.
+
+  - (Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995)
