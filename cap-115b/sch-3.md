@@ -43,3 +43,5 @@
 - 21. The area of the 2nd floor, Central Government Pier, Road D3, New Central Reclamation Area, Central, occupied by the Immigration Department set aside as a detention room. (L.N. 391 of 1995)
 
 - 22. High Island Detention Centre. (L.N. 360 of 1997)
+
+- 23. The 1st and 2nd floors of No. 1 Ma Tau Kok Road, Kowloon. (L.N. 538 of 1997)
