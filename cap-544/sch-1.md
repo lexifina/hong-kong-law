@@ -4,22 +4,24 @@
 
 OPTICAL DISCS
 
-- 1. CD (compact disc).
+1. CD (compact disc).
 
-- 2. CD-ROM (compact disc-read only memory).
+2. CD-ROM (compact disc—read only memory).
 
-- 3. CD-R (compact disc-recordable).
+3. CD-R (compact disc—recordable).
 
-- 4. CD-RW (compact disc-rewritable).
+4. CD-RW (compact disc—rewritable).
 
-- 5. CD-W (compact disc-writable).
+5. CD-W (compact disc—writable).
 
-- 6. DVD (digital video disc).
+6. DVD (digital video disc).
 
-- 7. DVD-ROM (digital video disc-read only memory).
+7. DVD-ROM (digital video disc—read only memory).
 
-- 8. LD (laserdisc).
+8. LD (laserdisc).
 
-- 9. MD (mini-disc).
+9. MD (mini-disc).
 
-- 10. VCD (video compact disc).
+10. VCD (video compact disc).
+
+11. Stamper. (Added L.N. 51 of 2002)
