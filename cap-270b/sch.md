@@ -92,4 +92,8 @@ By-law | Summary of offence | Maximum penalty
 
 40 | Failure to report lost property upon discovery | $2,000 fine
 
-(L.N. 201 of 1994)
+42(1) and (1A)(a) | Failure to give particulars of name, address or telephone number or to produce proof thereof or of identity | $5,000 fine and 6 months imprisonment
+
+42(1A)(b) | Giving false or misleading particulars of name, address or telephone number | $5,000 fine and 6 months imprisonment
+
+(L.N. 201 of 1994; L.N. 8 of 1998)
