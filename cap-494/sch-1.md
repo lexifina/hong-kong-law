@@ -6,7 +6,13 @@ COUNTRIES OR TERRITORIES TO WHICH THE TOKYO CONVENTION APPLIES
 
 Afghanistan
 
-Antigua & Barbuda
+Albania
+
+Algeria
+
+Angola
+
+Antigua and Barbuda
 
 Argentina
 
@@ -26,23 +32,27 @@ Belarus
 
 Belgium
 
+Belize
+
 Bhutan
 
 Bolivia
 
-Bosnia & Herzogovina
+Bosnia & Herzegovina
 
 Botswana
 
 Brazil
 
-Brunei
+Brunei Darussalam
 
 Bulgaria
 
 Burkina Faso
 
 Burundi
+
+Cambodia
 
 Cameroon
 
@@ -68,9 +78,15 @@ Costa Rica
 
 Cote d’Ivoire
 
+Croatia
+
 Cyprus
 
 Czech Republic
+
+Democratic People’s Republic of Korea
+
+Democratic Republic of the Congo
 
 Denmark
 
@@ -114,6 +130,8 @@ Guatemala
 
 Guinea
 
+Guyana
+
 Haiti
 
 Holy See
@@ -122,11 +140,13 @@ Honduras
 
 Hungary
 
+Iceland
+
 India
 
 Indonesia
 
-Iran
+Iran, Islamic Republic of
 
 Iraq
 
@@ -142,15 +162,15 @@ Japan
 
 Jordan
 
+Kazakhstan
+
 Kenya
-
-Korea, Democratic People’s Republic of
-
-Korea, Republic of
 
 Kuwait
 
 Lao People’s Democratic Republic
+
+Latvia
 
 Lebanon
 
@@ -158,11 +178,11 @@ Lesotho
 
 Liberia
 
-Libya
+Libyan Arab Jamahiriya
+
+Lithuania
 
 Luxembourg
-
-Macedonia
 
 Madagascar
 
@@ -190,6 +210,8 @@ Mongolia
 
 Morocco
 
+Myanmar
+
 Nauru
 
 Nepal
@@ -210,13 +232,13 @@ Oman
 
 Pakistan
 
+Palau
+
 Panama
 
 Papua New Guinea
 
 Paraguay
-
-People’s Republic of China
 
 Peru
 
@@ -227,6 +249,10 @@ Poland
 Portugal
 
 Qatar
+
+Republic of Korea
+
+Republic of Moldova
 
 Romania
 
@@ -260,17 +286,19 @@ Spain
 
 Sri Lanka
 
-Surinam
+Suriname
 
 Sweden
 
 Switzerland
 
-Syria
+Syrian Arab Republic
 
-Tanzania
+Tajikistan
 
 Thailand
+
+The Former Yugoslav Republic of Macedonia
 
 Togo
 
@@ -288,22 +316,28 @@ United Arab Emirates
 
 United Kingdom
 
-United States of America
+United Republic of Tanzania
+
+United States
 
 Uruguay
+
+Uzbekistan
 
 Vanuatu
 
 Venezuela
 
-Vietnam
+Viet Nam
+
+Western Samoa
 
 Yemen
 
 Yugoslavia
 
-Zaire
-
 Zambia
 
 Zimbabwe
+
+(Replaced L.N. 319 of 1998)
