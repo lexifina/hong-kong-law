@@ -118,13 +118,13 @@ FEES PAYABLE FOR CARRIER LICENCES
 
     - additional base stations station
 
-    - (d) for the 1st 200 mobile stations or less used by customers of $6,000
+    - (d) for the 1st 200 mobile stations or less used by customers of $4,800
 
-    - the service
+    - the service (L.N. 30 of 2002)
 
-    - (e) for every additional 100 mobile stations or less used by $3,000
+    - (e) for every additional 100 mobile stations or less used by $2,400
 
-    - customers of the service
+    - customers of the service (L.N. 30 of 2002)
 
     - (f) for every 1 kHz of frequency assigned to the licensee $50
 
