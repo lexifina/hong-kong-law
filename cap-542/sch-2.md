@@ -1,8 +1,14 @@
 # SCHEDULE 2
 
-[ss. 3, 22, 32, 76 & 83 & Sch. 3]
+[ss. 3, 22, 32, 33, 76 & 83 & Sch. 3] (Amended 48 of 1999 s. 44)
 
 CONSTITUTION OF ELECTION COMMITTEE
+
+(The amendments to this Schedule (except amendments to section 10 in this Schedule) made by Ord. No. 48 of 1999 shall come into operation on—
+
+- (a) 30 July 1999 for the purpose only of enabling arrangements to be made for the holding of the Election Committee subsector elections in 2000 to elect members of the Election Committee for the second term of office of the Legislative Council and for the holding of the second general election in 2000 to elect all Members of that Council;
+
+- (b) 1 July 2000 in so far as those amendments have not already come into operation.)
 
 - PART 1 GENERAL PROVISION
 
@@ -18,17 +24,17 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - (5) The composition of the subsectors is as follows—
 
-      - (a) except in the case of the higher education and education subsectors and the tourism and hotel subsectors, the composition of a subsector specified in Table 1, 2 or 3 which has the same name as that of a functional constituency specified in Schedule 1 is to be the same as that of the functional constituency;
+      - (a) except in the case of the higher education and education subsectors and the tourism and hotel subsectors, the composition of a subsector specified in Table 1, 2 or 3 which has the same name as that of a functional constituency specified in section 20(1) of this Ordinance is to be the same as that of the functional constituency; (Amended 48 of 1999 s. 44)
 
       - (b) each of the subsectors specified in column 2 of Table 4 is to be composed of the persons described in column 3 of the Table in relation to the subsector;
 
-      - (c) the Hong Kong Chinese Enterprises Association, tourism, hotel, Chinese medicine, higher education, education, catering and Employers’ Federation of Hong Kong subsectors are to be composed as shown in Table 5; and
+      - (c) the Hong Kong Chinese Enterprises Association, tourism, hotel, Chinese medicine, higher education, education and Employers’ Federation of Hong Kong subsectors are to be composed as shown in Table 5; and (Amended 48 of 1999 s. 44)
 
       - (d) the religious subsector is to be composed as described in Part 2.
 
-    - (6) Subject to subsections (7), (8), (10) and (11), for the purpose of constituting the Election Committee, each subsector is allocated the number of members specified in the relevant Table in respect of the subsector.
+    - (6) Subject to subsections (7) to (11A), for the purpose of constituting the Election Committee, each subsector is allocated the number of members specified in the relevant Table in respect of the subsector. (Amended 48 of 1999 s. 44)
 
-    - (7) Subject to subsections (8), (10) and (11), the Election Committee is constituted in the following manner—
+    - (7) Subject to subsections (8) to (11A), the Election Committee is constituted in the following manner— (Amended 48 of 1999 s. 44)
 
       - (a) the number of members allocated to the religious subsector is to be nominated by that subsector in accordance with Part 2;
 
@@ -36,25 +42,53 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - (c) the number of members allocated to the subsector specified—
 
-        - (i) in item 1 of Table 4 is to be filled by the persons holding office on the relevant date as Hong Kong deputies to the National People’s Congress; and
+        - (i) in item 1 of Table 4 is to be filled by the persons holding office as Hong Kong deputies to the National People’s Congress; and
 
-        - (ii) in item 2 of Table 4 is to be filled by persons holding office on the relevant date as the Members of the Provisional Legislative Council.
+        - (ii) in item 2 of Table 4 is to be filled by the persons holding office as the Members of the Legislative Council,
 
-    - (8) The Electoral Registration Officer must register the persons referred to in subsection (7)(c), other than those persons who have by notice under subsection (9) declined registration, as ex-officio members of the Election Committee in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541).
+    - who are registered as ex-officio members of the Election Committee in, and whose names have not been removed from, the final register of members of the Election Committee. (Amended 48 of 1999 s. 44)
 
-    - (9) A person referred to in subsection (7)(c)(i) or (ii), who is registered as an elector in a functional constituency may, by giving written notice to the Electoral Registration Officer in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541), decline registration as an ex-officio member of the Election Committee.
+    - (8) Subject to subsection (9), the Electoral Registration Officer must register—
 
-    - (10) If the aggregate of the persons who are ex-officio members is less than 96, (counting any person who is a member of both bodies referred to in subsection (7)(c) only once), the difference is to be added to the number of members allocated to the Chinese People’s Political Consultative Conference subsector.
+      - (a) the persons holding office on 30 June 2000 as Hong Kong deputies to the National People’s Congress; and
 
-    - (11) If, after adding the difference referred to in subsection (10), the number of members allocated to the Chinese People’s Political Consultative Conference subsector is equal to or exceeds the number of the Hong Kong members of the National Committee of the Chinese People’s Political Consultative Conference, subsection (7)(b) is not to apply in relation to this subsector and the number of members allocated to this subsector is to be filled by all the persons holding office on the relevant date as Hong Kong members of the National Committee of the Chinese People’s Political Consultative Conference and, where there is an excess in the number of members allocated, the excess number is to be allocated equally between the subsectors specified in items 5 and 6 of Table 4 and the remaining number, if any, is to be allocated to the subsector specified in item 6 of Table 4.
+      - (b) the persons holding office on 30 June 2000 as the Members of the Legislative Council,
+
+    - (except those persons who are not permanent residents of Hong Kong) as ex-officio members of the Election Committee, in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541), in compiling the final register of members of the Election Committee for the purposes of the second general election. (Replaced 48 of 1999 s. 44)
+
+    - (9) If a person is registered as an ex-officio member of the Election Committee—
+
+      - (a) by virtue of being a person referred to in subsection (8)(a), and subsequently that person ceases to be a Hong Kong deputy to the National People’s Congress, that person ceases to be an ex-officio member of the Election Committee and the Electoral Registration Officer must, subject to subsection (10), remove that person’s name from the final register of members of the Election Committee; or
+
+      - (b) by virtue of being a person referred to in subsection (8)(b), and subsequently that person ceases to be a Member of the Legislative Council, that person ceases to be an ex-officio member of the Election Committee and the Electoral Registration Officer must, subject to subsection (10), remove that person’s name from the final register of members of the Election Committee. (Replaced 48 of 1999 s. 44)
+
+    - (10) The Electoral Registration Officer must register as ex-officio members of the Election Committee—
+
+      - (a) persons who become Hong Kong deputies to the National People’s Congress; and
+
+      - (b) persons who become Members of the Legislative Council,
+
+    - after the publication of the final register of members of the Election Committee for the purposes of the second general election (except those persons who are not permanent residents of Hong Kong) in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541). (Replaced 48 of 1999 s. 44)
+
+    - (11) If the Electoral Registration Officer adds names to or removes names from the final register of members of the Election Committee under this section, that Officer must, as soon as practicable after the addition or removal, publish, in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541), a notice to the effect that names have been so added or removed. (Replaced 48 of 1999 s. 44)
+
+    - (11A) If names have been added to or removed from the final register of members of the Election Committee under subsection (9) or (10), the register as amended is to take effect on the date of the publication of the notice under subsection (11). (Added 48 of 1999 s. 44)
 
     - (12) In this Schedule—
 
       - “name” (名稱), in relation to a subsector, is to be construed by reference to its description under the column headed “subsector” in Table 1, 2, 3 or 4, as may be applicable;
 
-      - “relevant date” (有關日期) means 1 April 1998 or, if some other date is prescribed by the regulations for the purposes of this subsection, that other date;
+      - “subsector” (界別分組) means, subject to section 7, a subsector represented on the Election Committee as provided by subsection (4). (Amended 48 of 1999 s. 44)
 
-      - “subsector” (界別分組) means, subject to section 7, a subsector represented on the Election Committee as provided by subsection (4).
+    - (12A) In column 3 of Table 4—
+
+      - (a)
+
+        - “Hong Kong and Kowloon District Councils” (港九各區議會), in relation to the subsector specified in item 5 of that Table, means the District Councils specified in items 1 to 9 of Schedule 2 to the District Councils Ordinance (Cap. 547); and
+
+      - (b)
+
+        - “New Territories District Councils” (新界各區議會), in relation to the subsector specified in item 6 of that Table, means the District Councils specified in items 10 to 18 of Schedule 2 to the District Councils Ordinance (Cap. 547). (Added 48 of 1999 s. 44)
 
     - (13)
 
@@ -142,15 +176,21 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - 1. | National People’s Congress (“NPC”) | Hong Kong deputies to the NPC. | 36
 
-        - 2. | Provisional Legislative Council (“PLC”) | Members of the PLC. | 60
+        - 2. | Legislative Council | Members of the Legislative Council. | 60
+
+        - (Replaced 48 of 1999 s. 44)
 
         - 3. | Chinese People’s Political Consultative Conference (“CPPCC”) | Hong Kong members of the National Committee of the CPPCC. | 41
 
         - 4. | Heung Yee Kuk | Chairman and Vice-Chairmen of the Heung Yee Kuk and the Ex-Officio, Special and Co-opted Councillors of the Full Council of the Heung Yee Kuk. | 21
 
-        - 5. | Provisional District Boards for the Districts in the Urban Council Area (“Hong Kong and Kowloon Provisional District Boards”) | Members of the Hong Kong and Kowloon Provisional District Boards. | 21
+        - 5. | Hong Kong and Kowloon District Councils | Members of the Hong Kong and Kowloon District Councils. | 21
 
-        - 6. | Provisional District Boards for the Districts in the Regional Council Area (“New Territories Provisional District Boards”) | Members of the New Territories Provisional District Boards. | 21
+        - (Replaced 48 of 1999 s. 44)
+
+        - 6. | New Territories District Councils | Members of the New Territories District Councils. | 21
+
+        - (Replaced 48 of 1999 s. 44)
 
         - TABLE 5 COMPOSITION OF SUBSECTORS
 
@@ -194,7 +234,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - 5. | Higher education | (1) Full-time academic staff engaged in teaching or research and administrative staff of equivalent rank in— (a) institutions of higher education funded through the University Grants Committee; (b) approved post secondary colleges registered under the Post Secondary Colleges Ordinance (Cap. 320); (c) technical colleges established under the Vocational Training Council Ordinance (Cap. 1130); (d) The Hong Kong Academy for Performing Arts; (e) The Open University of Hong Kong.
 
-        - (2) Members of— (a) the Council of the University of Hong Kong; (b) the Council of The Chinese University of Hong Kong; (c) the Council of The Hong Kong University of Science and Technology; (d) the Council of the City University of Hong Kong; (e) the Council of The Hong Kong Polytechnic University; (f) the Council of The Hong Kong Academy for Performing Arts; (g) the Council of The Open University of Hong Kong; (h) the Council of the Vocational Training Council; (i) the Council of The Hong Kong Institute of Education; (j) the Council of the Hong Kong Baptist University; (k) the Board of Governors of the Lingnan College; (l) the Board of Governors of the Hong Kong Shue Yan College.
+        - (2) Members of— (a) the Council of the University of Hong Kong; (b) the Council of The Chinese University of Hong Kong; (c) the Council of The Hong Kong University of Science and Technology; (d) the Council of the City University of Hong Kong; (e) the Council of The Hong Kong Polytechnic University; (f) the Council of The Hong Kong Academy for Performing Arts; (g) the Council of The Open University of Hong Kong; (h) the Council of the Vocational Training Council; (i) the Council of The Hong Kong Institute of Education; (j) the Council of the Hong Kong Baptist University; (k) the Council of Lingnan University; (Replaced 54 of 1999 s. 37) (l) the Board of Governors of the Hong Kong Shue Yan College.
 
         - 6. | Education | (1) Registered teachers registered under the Education Ordinance (Cap. 279).
 
@@ -206,7 +246,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - (5) Registered managers of schools registered under the Education Ordinance (Cap. 279).
 
-        - 7. | Catering | (1) The Association for the Hong Kong Catering Services Management Limited. (2) Hong Kong Catering Industry Association Limited. (3) The Association of Restaurant Managers Limited. (4) Federation of Hong Kong Restaurant Owners Limited. (5) Restaurants and Licensed Premises Association. (6) The Hong Kong Restaurant and Eating House Merchants General Association. (7) The Kowloon Restaurant and Eating House Merchants General Association. (8) Holders of food business licences under the Public Health and Municipal Services Ordinance (Cap. 132).
+        - 7. | (Repealed 48 of 1999 s. 44)
 
         - 8. | Employers’ Federation of Hong Kong | Members of the Employers’ Federation of Hong Kong entitled to vote at general meetings of the Federation.
 
@@ -236,7 +276,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - (2) The process of nomination (other than the selection of nominees) must be carried out in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541).
 
-    - (3) If the number of nominees of a designated body exceeds the assigned number for the body, the body must—
+    - (3) If the number of nominees of a designated body exceeds the assigned number for the body, subject to subsection (4A), the body must— (Amended 48 of 1999 s. 44)
 
       - (a) indicate which of the nominees are to be given preference in making up the assigned number; and
 
@@ -244,9 +284,11 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - (4) If the Returning Officer determines that any of the nominees to be given preference under subsection (3) is not validly nominated, the assigned number is to be made up from the excess nominees (subject to their being validly nominated) in their order of priority.
 
+    - (4A) If the number of nominees of a designated body exceeds the assigned number for the body, but the body does not indicate preference under subsection (3) or the number of nominees to whom preference is given is less than the assigned number for that body, the Returning Officer must determine which nominees of that body (subject to their being validly nominated) are to make up the assigned number by drawing lots in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541). The nominees on whom the lot falls are to become members of the Election Committee. (Added 48 of 1999 s. 44)
+
     - (5) The number of nominees to become members of the Election Committee from each designated body cannot exceed the assigned number of that designated body.
 
-    - (6) The Returning Officer must declare the nominees who become the members of the Election Committee as such Members, in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541).
+    - (6) The Returning Officer must declare the nominees who become the members of the Election Committee as such members in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541). (Amended 48 of 1999 s. 44)
 
     - (7) In this section—
 
@@ -262,13 +304,13 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - (2) A person who is—
 
-      - (a) a person referred to in section 1(7)(c)(i) or (ii) (whether or not the person is an ex-officio member); or
+      - (a) a Hong Kong deputy to the National People’s Congress or a Member of the Legislative Council (whether or not the person is an ex-officio member); or
 
-      - (b) a candidate at an Election Committee subsector election; or
+      - (b) a candidate at an Election Committee subsector election,
 
-      - (c) an elector in the Urban Council functional constituency or the Regional Council functional constituency,
+      - (c) (Repealed 48 of 1999 s. 44)
 
-    - is not eligible to be selected as a nominee under section 3(1).
+    - is not eligible to be selected as a nominee under section 3(1). (Amended 48 of 1999 s. 44)
 
   - 5.
 
@@ -316,11 +358,11 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - “Election Committee sub-subsector election” (選舉委員會小組選舉) means an election to elect members by the sports, performing arts, culture and publication subsector in accordance with section 1(13);
 
-        - “last geographical constituencies provisional register” (對上一份地方選區臨時選民登記冊) means the provisional register of geographical constituencies referred to in section 1(1) of Schedule 3;
+        - “existing functional constituencies final register” (現有功能界別正式選民登記冊) means the final register of electors for functional constituencies compiled under section 32(1) of this Ordinance that is in force on the date of registration of voters for the subsectors; (Added 48 of 1999 s. 44)
 
-        - “last functional constituencies provisional register” (對上一份功能界別臨時選民登記冊) means the provisional register of functional constituencies referred to in section 1(2) of Schedule 3;
+        - “existing geographical constituencies final register” (現有地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under section 32(1) of this Ordinance that is in force on the date of registration of voters for the subsectors; (Added 48 of 1999 s. 44)
 
-        - “prescribed functional constituency” (訂明功能界別) means a prescribed functional constituency within the meaning of section 1(3) of Schedule 3;
+        - “existing subsector final register” (現有界別分組正式投票人登記冊) means the subsector final register compiled and published before the commencement of section 44(zf) of the Legislative Council (Amendment) Ordinance 1999 (48 of 1999); (Added 48 of 1999 s. 44)
 
         - “Returning Officer” (選舉主任) means, in relation to a subsector, the Returning Officer appointed for the subsector in accordance with section 78 of this Ordinance;
 
@@ -336,59 +378,83 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - (2) In this Part, unless the context otherwise requires, all references to the “Election Committee subsector election” and “subsector” shall, in respect of the sports, performing arts, culture and publication subsector, mean an “Election Committee sub-subsector election” and “sub-subsector” respectively and with any necessary modifications.
 
+    - (Amended 48 of 1999 s. 44)
+
   - Division 2-Registration of voters
 
     - 8. Who is eligible to be registered as a voter
 
       - (1) Subject to this section—
 
-        - (a) a person is eligible to be registered as a voter for a subsector with the same name as a functional constituency (other than the higher education and education subsectors and the tourism and hotel subsectors) if the person is eligible to be registered as an elector for that functional constituency and has made an application to be so registered; and
+        - (a) a person is eligible to be registered as a voter for a subsector with the same name as a functional constituency (other than the education subsector, the tourism subsector and the catering subsector) if—
 
-        - (b) a person is eligible to be registered as a voter for a subsector with the same name as a prescribed functional constituency (other than a subsector specified in Table 5) if the person—
+          - (i) the person is eligible to be registered as an elector for that functional constituency and has made an application to be so registered; or
 
-          - (i) was registered for the relevant prescribed functional constituency in the last functional constituencies provisional register; and
+          - (ii) the person—
 
-          - (ii) is eligible to be, and is not disqualified from being, registered as an elector for the functional constituency corresponding to the relevant prescribed functional constituency; and
+            - (A) is registered for that functional constituency in the existing functional constituencies final register; and
 
-        - (c) a person is eligible to be registered as a voter for a subsector specified in Table 5 (other than the higher education and education subsectors and the tourism and hotel subsectors), if the person—
+            - (B) is eligible to be, and is not disqualified from being, registered as an elector for that functional constituency; and (Replaced 48 of 1999 s. 44)
 
-          - (i) is a person specified opposite that subsector in column 3 of Table 5; and
+        - (b) (Repealed 48 of 1999 s. 44)
 
-          - (ii) where the person is a natural person, is eligible to be registered as an elector under Part V of this Ordinance for a geographical constituency and has made an application to be so registered, or was registered in the last geographical constituencies provisional register and is eligible to be and not disqualified from being registered as an elector for a geographical constituency.
+        - (c) a person is eligible to be registered as a voter for a subsector specified in Table 5 (other than the higher education and education subsectors and the tourism and hotel subsectors) if—
+
+          - (i) the person—
+
+            - (A) is a person specified opposite that subsector in column 3 of Table 5; and
+
+            - (B) where the person is a natural person, is eligible to be registered as an elector under Part V of this Ordinance for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; or
+
+          - (ii) the person—
+
+            - (A) is registered for that subsector in the existing subsector final register; and
+
+            - (B) is eligible to be, and is not disqualified from being, registered as a voter for that subsector.
 
       - (2) A person is eligible to be registered as a voter for the sports, performing arts, culture and publication subsector subject to the following conditions—
 
-        - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in paragraph (1), (2), (3), (23), (27), (42), (43), (45), (51), (55) or (60) of item 24 of Schedule 1 may be registered only as a voter for the sports sub-subsector; and
+        - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of this Ordinance, Part 1 of Schedule 1B or item 25, 29, 40, 41, 43, 50, 54 or 59 of Part 3 of Schedule 1B may be registered only as a voter for the sports sub-subsector; and
 
-        - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in paragraph (8), (9), (10), (12), (17), (18), (19), (20), (21), (22), (29), (38), (41), (44), (46), (47), (48), (49), (53), (56), (57), (58), (61), (62) or (67) of item 24 of Schedule 1 may be registered only as a voter for the performing arts sub-subsector; and
+        - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i) of this Ordinance or item 1, 2, 3, 4, 5, 8, 9, 12, 16, 17, 18, 23, 24, 34, 39, 42, 44, 45, 46, 47, 49, 52, 55, 56, 57 or 60 of Part 3 of Schedule 1B may be registered only as a voter for the performing arts sub-subsector; and
 
-        - (c) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in paragraph (4), (5), (11), (13), (14), (15), (24), (25), (30), (31), (32), (33), (34), (35), (36), (37), (40), (50), (54), (59), (63), (66) or (68) of item 24 of Schedule 1 may be registered only as a voter for the culture sub-subsector; and
+        - (c) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(d) or (e) of this Ordinance, Part 2 of Schedule 1B or item 6, 7, 10, 11, 13, 14, 19, 20, 22, 26, 27, 31, 33, 35, 37, 38, 48, 53, 58, 61 or 62 of Part 3 of Schedule 1B may be registered only as a voter for the culture sub-subsector; and
 
-        - (d) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in paragraph (6), (7), (16), (26), (39), (52), (64), (65), (69) or (70) of item 24 of Schedule 1 may be registered only as a voter for the publication sub-subsector.
+        - (d) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(g), (h), (j) or (k) of this Ordinance or item 15, 21, 28, 30, 32, 36 or 51 of Part 3 of Schedule 1B may be registered only as a voter for the publication sub-subsector.
 
       - (3) A person is eligible to be registered as a voter for the higher education subsector if the person—
 
-        - (a) is a person described in paragraph (1) or (2) of item 7 of Schedule 1 and has made an application to be registered for the education functional constituency; or
+        - (a) is a person described in section 20E(a) or (b) of this Ordinance and has made an application to be registered for the education functional constituency; or
 
-        - (b) was registered for the functional constituency corresponding to the education functional constituency in the last functional constituencies provisional register and is eligible to be registered as an elector for the education functional constituency by reason of being a person described in paragraph (1) or (2) of item 7 of Schedule 1.
+        - (b) is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for the education functional constituency by virtue of being a person described in section 20E(a) or (b) of this Ordinance. (Replaced 48 of 1999 s. 44)
 
       - (4) A person is eligible to be registered as a voter for the education subsector if—
 
-        - (a) the person is a person described in paragraph (3), (4), (5), (6) or (7) of item 7 of Schedule 1 and has made an application to be registered in the education functional constituency; or
+        - (a) the person is a person described in section 20E(c), (d), (e), (f) or (g) of this Ordinance and has made an application to be registered in the education functional constituency; or
 
-        - (b) the person was registered for the functional constituency corresponding to the education functional constituency in the last functional constituencies provisional register and is eligible to be registered as an elector for the education functional constituency by virtue of being a person described in paragraph (3), (4), (5), (6) or (7) of item 7 of Schedule 1.
+        - (b) the person is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for the education functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of this Ordinance. (Replaced 48 of 1999 s. 44)
 
       - (5) A person is eligible to be registered as a voter for the tourism subsector if the person—
 
-        - (a) is a person described in paragraph (1), (2) or (3) of item 17 of Schedule 1 and has made an application to be registered for the tourism functional constituency; or
+        - (a) is a person described in section 20O(a), (b) or (c) of this Ordinance and has made an application to be registered for the tourism functional constituency; or
 
-        - (b) was registered for the functional constituency corresponding to the tourism functional constituency in the last functional constituencies provisional register and is eligible to be registered as an elector for the tourism functional constituency by reason of being a person described in paragraph (1), (2) or (3) of item 17 of Schedule 1.
+        - (b) is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for the tourism functional constituency by virtue of being a person described in section 20O(a), (b) or (c) of this Ordinance. (Replaced 48 of 1999 s. 44)
 
       - (6) A person is eligible to be registered as a voter for the hotel subsector if—
 
-        - (a) the person is a person described in paragraph (4) or (5) of item 17 of Schedule 1 and has made an application to be registered in the tourism functional constituency; or
+        - (a) the person is a person described in section 20O(d) or (e) of this Ordinance and has made an application to be registered in the tourism functional constituency; or
 
-        - (b) the person was registered for the functional constituency corresponding to the tourism functional constituency in the last functional constituencies provisional register and is eligible to be registered as an elector for the tourism functional constituency by virtue of being a person described in paragraph (4) or (5) of item 17 of Schedule 1.
+        - (b) the person is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for the tourism functional constituency by virtue of being a person described in section 20O(d) or (e) of this Ordinance. (Replaced 48 of 1999 s. 44)
+
+      - (6A) A person is eligible to be registered as a voter for the catering subsector if the person—
+
+        - (a) is eligible to be registered as an elector for the catering functional constituency and has made an application to be so registered; or
+
+        - (b) is a person registered for the catering subsector in the existing subsector final register, and is eligible to be registered as an elector for the catering functional constituency. (Added 48 of 1999 s. 44)
+
+      - (6B) A person is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 and has made an application to be registered for the District Council functional constituency. (Added 48 of 1999 s. 44)
+
+      - (6C) A person is eligible to be registered as a voter for the New Territories District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 and has made an application to be registered for the District Council functional constituency. (Added 48 of 1999 s. 44)
 
       - (7) Subject to this section—
 
@@ -396,33 +462,65 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - (b) a person who is registered or applies to be registered as a voter for a subsector with the same name as a functional constituency, cannot be registered only as a voter for that subsector and not as an elector for the functional constituency; and
 
-        - (c) a person who is registered, or has made an application to be registered, as an elector for a functional constituency with the same name as a subsector may be registered only as a voter for that subsector (whether or not the person is eligible to be registered as a voter for any other subsector), except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3, 5 or 6 of Table 4 or item 1, 3, 4, 7 or 8 of Table 5, the person may choose to be registered as a voter in the first-mentioned subsector or in that other subsector; and
+        - (c) a person who is registered, or has made an application to be registered, as an elector for a functional constituency with the same name as a subsector may be registered only as a voter for that subsector (whether or not the person is eligible to be registered as a voter for any other subsector), except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4 or item 1, 4 or 8 of Table 5, the person may choose to be registered as a voter in the first-mentioned subsector or in that other subsector; and
 
         - (d) a person who ceases to be eligible to be registered as an elector for a functional constituency with the same name as a subsector ceases to be eligible to be registered as a voter for that subsector, but may, subject to paragraph (a) and subsection (8), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter.
 
+      - (7A) Subject to this section—
+
+        - (a) a person who—
+
+          - (i) is a person described opposite to the Hong Kong and Kowloon District Councils subsector in column 3 of Table 4; and
+
+          - (ii) is registered or applies to be registered as an elector for the District Council functional constituency,
+
+      - cannot, subject to paragraph (c), be registered only as an elector for District Council functional constituency and not as a voter for the Hong Kong and Kowloon District Councils subsector; and
+
+        - (b) a person who—
+
+          - (i) is a person described opposite to the New Territories District Councils subsector in column 3 of Table 4; and
+
+          - (ii) is registered or applies to be registered as an elector for the District Council functional constituency,
+
+        - cannot, subject to paragraph (d), be registered only as an elector for the District Council functional constituency and not as a voter for the New Territories District Councils subsector; and
+
+        - (c) a person who is registered or applies to be registered as a voter for the Hong Kong and Kowloon District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council functional constituency; and
+
+        - (d) a person who is registered or applies to be registered as a voter for the New Territories District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council functional constituency; and
+
+        - (e) a person who is registered, or has made an application to be registered, as an elector for the District Council functional constituency may be registered only as a voter—
+
+          - (i) for the Hong Kong and Kowloon District Councils subsector if the person is a person described opposite that subsector in column 3 of Table 4; or
+
+          - (ii) for the New Territories District Councils subsector if the person is a person described opposite that subsector in column 3 of Table 4,
+
+        - (whether or not the person is eligible to be registered as a voter for any other subsector) except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4 or item 1 or 4 of Table 5, the person may choose to be registered as a voter in the subsector referred to in subparagraph (i) or (ii), as the case may be, or in that other subsector; and
+
+        - (f) a person who ceases to be eligible to be registered as an elector for the District Council functional constituency ceases to be eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector, but may, subject to subsections (7)(a) and (8), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter. (Added 48 of 1999 s. 44)
+
       - (8) A person who would, but for this subsection, be eligible to be registered as a voter for 2 or more subsectors may, subject to subsection (7), be registered as a voter for only one of those subsectors of the person’s choice.
 
-      - (9) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in paragraph (1) or (2) of item 7 of Schedule 1 may be registered only as a voter for the higher education subsector.
+      - (9) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(a) or (b) of this Ordinance may be registered only as a voter for the higher education subsector.
 
-      - (10) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in paragraph (3), (4), (5), (6) or (7) of item 7 of Schedule 1 may be registered only as a voter for the education subsector.
+      - (10) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of this Ordinance may be registered only as a voter for the education subsector.
 
       - (11) A person who is eligible to be registered as a voter for both for the education subsector and the higher education subsector, may only be registered as a voter for the higher education subsector.
 
-      - (12) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in paragraph (1), (2) or (3) of item 17 of Schedule 1 may be registered only as a voter for the tourism subsector.
+      - (12) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(a), (b) or (c) of this Ordinance may be registered only as a voter for the tourism subsector.
 
-      - (13) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in paragraph (4) or (5) of item 17 of Schedule 1 may be registered only as a voter for the hotel subsector.
+      - (13) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(d) or (e) of this Ordinance may be registered only as a voter for the hotel subsector.
 
       - (14) A person who is eligible to be registered as a voter for both for the tourism subsector and the hotel subsector, may only be registered as a voter for the hotel subsector.
 
-      - (15) A person described in column 3 of Table 4 in relation to a subsector specified in item 3, 4, 5 or 6 of that Table, who—
+      - (15) A person described in column 3 of Table 4 in relation to the subsector specified in item 3 of that Table, who—
 
         - (a) is eligible to be registered as an elector under Part V of this Ordinance for a geographical constituency and has made an application to be so registered; or
 
-        - (b) was registered in the last geographical constituencies provisional register and is eligible to be and not disqualified from being registered as an elector for a geographical constituency,
+        - (b) is registered in the existing geographical constituencies final register and is eligible to be and not disqualified from being registered as an elector for a geographical constituency,
 
-      - is eligible to be registered as a voter in the relevant subsector.
+      - is eligible to be registered as a voter in that subsector.
 
-      - (16) A member of a body specified in item 1, 2, 3, 7 or 8 of column 3 of Table 5 is not eligible to be registered as a voter for the relevant subsector, unless immediately before that member applies for registration as a voter—
+      - (16) A member of a body specified in item 1, 2, 3 or 8 of column 3 of Table 5 is not eligible to be registered as a voter for the relevant subsector, unless immediately before that member applies for registration as a voter—
 
         - (a) if the member is a corporate member of a body—
 
@@ -432,17 +530,9 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - (b) if the member is a natural person, the person has been a member of that body for at least 12 months.
 
-      - (17) A reference in Table 5 to an entitlement to vote at a general meeting of a body specified in that Table is a reference to an entitlement vote at such a meeting as provided by the body’s constitution.
+      - (17)-(19) (Repealed 48 of 1999 s. 44)
 
-      - (18) In subsection (17), the reference to the constitution of a body is a reference to the constitution either—
-
-        - (a) as in force at the commencement of this Ordinance; or
-
-        - (b) as subsequently amended or substituted, but only if the amendment or substitution has been approved in writing by the Secretary for Constitutional Affairs.
-
-      - (19) In this section—
-
-        - “constitution” (章程), in relation to a body, includes articles of association and rules.
+    - (Amended 48 of 1999 s. 44)
 
     - 9. Corporate voter to have authorized representative
 
@@ -452,7 +542,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - (a) is—
 
-          - (i) registered; or
+          - (i) registered as an elector for a geographical constituency; or (Amended 48 of 1999 s. 44)
 
           - (ii) is eligible to be registered as an elector for a geographical constituency and has applied to be so registered; and
 
@@ -478,9 +568,9 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - (1) The Electoral Registration Officer must—
 
-        - (a) not later than 15 February 1998, compile a subsector provisional register of voters for an Election Committee subsector election; and
+        - (a) not later than 15 April 2000, compile a subsector provisional register of voters for an Election Committee subsector election; and
 
-        - (b) not later than 15 March 1998, compile and publish in the manner prescribed by regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541), a subsector final register of voters for an Election Committee subsector election.
+        - (b) not later than 25 May 2000, compile and publish in the manner prescribed by regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541), a subsector final register of voters for an Election Committee subsector election. (Amended 48 of 1999 s. 44)
 
       - (2) The Electoral Registration Officer may amend a subsector register so as to rectify any clerical or printing error or any incorrect name, address or other personal particulars of a person who is recorded in such a register.
 
@@ -490,7 +580,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - 12. When an Election Committee subsector election is to be held
 
-      - (1) An Election Committee subsector election is to be held on the date specified by the Chief Executive by notice published in the Gazette.
+      - (1) An Election Committee subsector election is to be held on the date specified by the Chief Executive. The Chief Executive must give notice of that date in the Gazette. (Amended 48 of 1999 s. 44)
 
       - (2) The Chief Executive may specify different dates to hold different Election Committee subsector elections.
 
@@ -514,11 +604,11 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - (2) A person is not eligible to be nominated as a candidate at an Election Committee subsector election if the person is—
 
-        - (a) a nominee of a designated body under section 3;
+        - (a) a nominee of a designated body under section 3; or
 
-        - (b) a person referred to in section 1(7)(c)(i) or (ii) (whether or not the person is an ex-officio member); or
+        - (b) a Hong Kong deputy to the National People’s Congress or a Member of the Legislative Council (whether or not the person is an ex-officio member). (Amended 48 of 1999 s. 44)
 
-        - (c) an elector of the Urban Council functional constituency or the Regional Council functional constituency.
+        - (c) (Repealed 48 of 1999 s. 44)
 
     - 14.
 
@@ -578,7 +668,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - (3) The Returning Officer or Returning Officers concerned must give effect to a direction under this section as soon as practicable after being notified of it.
 
-      - (4) If the Election Committee subsector elections, or polling or counting of votes at the Election Committee subsector elections, are directed to be postponed or adjourned under this section, the Chief Executive must, by notice published in the Gazette, specify a date for the holding of the Election Committee subsector elections, or the polling or counting, in place of the postponed Election Committee subsector elections or the adjourned polling or counting. That date must be not later than 14 days from the date on which the election, polling or counting of votes would have taken place but for the direction.
+      - (4) If the Election Committee subsector elections, or polling or counting of votes at the Election Committee subsector elections, are directed to be postponed or adjourned under this section, the Chief Executive must specify a date for the holding of the Election Committee subsector elections, or the polling or counting, in place of the postponed Election Committee subsector elections or the adjourned polling or counting. The Chief Executive must give notice of that date in the Gazette. That date must be not later than 14 days from the date on which the election, polling or counting of votes would have taken place but for the direction. (Amended 48 of 1999 s. 44)
 
     - 19. What is to happen if insufficient number of candidates is nominated for a subsector If, after the close of nominations of candidates for an Election Committee subsector election, no more candidates have been validly nominated than the number of members allocated to the subsector, the Returning Officer concerned must, in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541), publicly declare the candidates for the subsector to be duly elected as members of the Election Committee representing the subsector.
 
@@ -608,9 +698,13 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - (2) If the subsector election is contested by more candidates than the number of members allocated to the subsector, the candidates to be elected for the subsector are those who obtain the greatest number of votes at the election and then the next greatest and so on until the required number of members is elected.
 
-      - (3) If, after the counting is finished at an Election Committee subsector election, a member or members is still to be returned for the subsector and the most successful candidates remaining have an equal number of votes, the Returning Officer must determine the result of the election by drawing lots.
+      - (3) If, after the counting is finished at an Election Committee subsector election, a member or members is still to be returned for the subsector and the most successful candidates remaining have an equal number of votes, the Returning Officer must determine the result of the election by drawing lots. The candidate or candidates on whom the lot falls is or are to be returned at the subsector election. (Amended 48 of 1999 s. 44)
 
-    - 23. When a voter is disqualified from voting at an Election Committee subsector election
+    - 23.
+
+    - When a voter is disqualified from voting at an
+
+    - Election Committee subsector election
 
       - (1) A person registered as a voter for a subsector is disqualified from voting at an Election Committee subsector election for that subsector, if the person—
 
@@ -622,7 +716,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
           - (ii) received a free pardon; or
 
-        - (c) on the date of the relevant Election Committee Election, is serving a sentence of imprisonment; or
+        - (c) on the date of the relevant Election Committee subsector election, is serving a sentence of imprisonment; or (Amended 48 of 1999 s. 44)
 
         - (d) without limiting paragraph (b), where the Election Committee subsector election is to be held or is held within 3 years from the date of the person’s conviction, is or has been convicted—
 
@@ -642,15 +736,19 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - 24.
 
-    - Consequences of non-compliance with requirements of this Ordinance
+    - Consequences of non-compliance with requirements
 
-    - In any proceedings brought to question the validity of an Election Committee subsector election, the Revising Officer must not declare the election to be invalid only because of—
+    - of this Ordinance In any proceedings brought to question the validity of an Election Committee subsector election, the Revising Officer must not declare the election to be invalid only because of—
 
       - (a) a failure to comply with the regulations or with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); or
 
       - (b) a mistake in the use of a form specified under this Ordinance or under the Electoral Affairs Commission Ordinance (Cap. 541), if the Revising Officer is satisfied on reasonable grounds that the conduct of the election was in accordance with the principles laid down in this Ordinance and the Electoral Affairs Commission Ordinance (Cap. 541) and that the failure to comply or mistake did not affect the result of the election.
 
-    - 25. Misnomer or inaccuracy not to affect operation of election document
+    - 25.
+
+    - Misnomer or inaccuracy not to affect operation
+
+    - of election document
 
       - (1) A misnomer or inaccurate description of a person, a person’s identity document or place specified in a document to which this section applies does not limit the full operation of the document with respect to that person, identity document or place if the description of the person, identity document or place is such as to be commonly understood.
 
@@ -660,7 +758,11 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - 27. Election Committee subsector election not to be questioned only because of defect in appointment of electoral officer An Election Committee subsector election is not to be questioned only because of a defect in the appointment of an electoral officer who is responsible for conducting the Election Committee subsector election.
 
-    - 28. Returning Officer to publish result of Election Committee subsector election
+    - 28.
+
+    - Returning Officer to publish result of Election
+
+    - Committee subsector election
 
       - (1) The Returning Officer must publish in the Gazette the names of the persons duly elected as members of the Election Committee at an Election Committee subsector election.
 
@@ -692,7 +794,11 @@ CONSTITUTION OF ELECTION COMMITTEE
 
   - Division 4-Miscellaneous
 
-    - 31. Subsector candidates entitled to send letters to voters free of postage
+    - 31.
+
+    - Subsector candidates entitled to send
+
+    - letters to voters free of postage
 
       - (1) A validly nominated candidate at an Election Committee subsector election is entitled to send free of postage one letter addressed to each voter whose name appears in the subsector final register for the subsector for which the candidate is nominated.
 
