@@ -1,0 +1,5 @@
+APPRENTICESHIP REGULATIONS
+
+(Cap. 47, section 47)
+
+[19 July 1976]
