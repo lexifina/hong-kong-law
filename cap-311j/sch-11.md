@@ -18,6 +18,8 @@ Every—
 
 - (e) goods vehicle or light bus which has a design weight of more than 2.5 tonnes but not more than 3.5 tonnes and its emission conforms to the emission standards as measured by the 13-mode operation for heavy duty petrol-powered motor vehicles administered by the Ministry of Transport of Japan; or
 
+- (ea) light bus which is registered on or after 1 August 2003 and constructed to operate on liquefied petroleum gas only; or (L.N. 124 of 2003)
+
 - (f) motor cycle; or
 
 - (g) motor tricycle; or
