@@ -1,0 +1,73 @@
+# SCHEDULE 2
+
+[s. 5] (Amended 24 of 1983 s. 6)
+
+PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5
+
+(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
+
+- PART I Description of proceedings
+
+  - 1. Civil proceedings in any of the following courts—
+
+    - (a) Court of Final Appeal; (Replaced 79 of 1995 s. 50)
+
+    - (b) Court of Appeal; (Replaced 79 of 1995 s. 50)
+
+    - (c) Court of First Instance; (Replaced 79 of 1995 s. 50. Amended 25 of 1998 s. 2)
+
+    - (d) District Court. (Added 79 of 1995 s. 50)
+
+  - 2. Civil proceedings before any person to whom a case is referred in whole or in part by any of the said courts.
+
+  - 3. (Repealed 79 of 1995 s. 50)
+
+  - 4. Proceedings in the Lands Tribunal under Part II of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7). (Added L.N. 296 of 1982)
+
+  - 5. Negotiations prior to the issue of legal proceedings, including mediation, and for the payment of compensation by the Motor Insurers’ Bureau for which no legal proceedings are issued. (Added 43 of 1995 s. 13)
+
+  - 6. An application to the Mental Health Review Tribunal. (Added 43 of 1995 s. 13)
+
+- PART II Excepted proceedings
+
+  - 1. Proceedings wholly or partly in respect of—
+
+    - (a) defamation, other than the defence of a counterclaim alleging defamation; (Replaced 27 of 1991 s. 19)
+
+    - (b)-(c) (Repealed 40 of 1986 s. 6) ;
+
+  - 2. Relator actions.
+
+  - 3. Proceedings for the recovery of a penalty where the proceedings may be taken by any person and the whole or part of the penalty is payable to the person taking the proceedings.
+
+  - 4. Election petitions arising from Legislative Council, Urban Council, Regional Council and District Board elections, except where the petitioner claims that a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383) or an inconsistency with the International Covenant on Civil and Political Rights as applied to Hong Kong is an issue and the Director is satisfied that, having regard to the matters set out in section 10(3), the petitioner would be granted a legal aid certificate. (Replaced 43 of 1995 s. 13)
+
+  - 5. In the Court of First Instance or District Court, in the case of a defendant, proceedings where the only question to be brought before the court is as to the time and mode of payment by him of debt (including liquidated damages) and costs. (Amended 43 of 1995 s. 13; 25 of 1998 s. 2)
+
+  - 6. (Repealed 43 of 1995 s. 13)
+
+  - 7. (Repealed 27 of 1991 s. 19)
+
+  - 8. Proceedings incidental to any proceedings mentioned in this Part of this Schedule.
+
+  - 9. In the Small Claims Tribunal, proceedings under the Small Claims Tribunal Ordinance (Cap. 338). (Added 79 of 1975 s. 40)
+
+  - 10. In the Labour Tribunal, proceedings under the Labour Tribunal Ordinance (Cap. 25). (Added 43 of 1995 s. 13)
+
+  - 11.
+
+    - Proceedings—
+
+      - (a) involving money claims in derivatives of securities, currency futures or other futures contracts;
+
+      - (b) for the recovery of a loan made in the ordinary course of a business conducted by the person seeking legal aid;
+
+      - (c) involving disputes between limited companies or their shareholders regarding the respective rights of the company and the shareholders;
+
+      - (d) arising out of disputes over partnerships;
+
+      - (e) for the taxation of costs, unless the person was previously aided in the action for which an order for costs was made.
+
+    - For the purposes of this paragraph—
+
+    - “derivatives of securities” (證券衍生工具) means options to buy or sell interests in, certificates of interest of participation in, warrants to subscribe to or rights (other than shares) in, the capital of, or an instrument issued by, a company, government authority or other body. (Added 43 of 1995 s. 13)
