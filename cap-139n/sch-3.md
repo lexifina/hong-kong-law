@@ -28,7 +28,7 @@ Item | Chemical | Chemical metabolites | Food animal species | MRL
 
 9. | Dicloxacillin | All food animals | 30 μg/kg
 
-*10. | Dihydrostreptomycin | Sum of dihydrostreptomycin and streptomycin | Bovine | 200 μg/kg
+10. | Dihydrostreptomycin | Sum of dihydrostreptomycin and streptomycin | Bovine | 200 μg/kg
 
 *11. | Enrofloxacin | Sum of enrofloxacin and ciprofloxacin | Bovine | 100 μg/kg
 
@@ -44,12 +44,12 @@ Item | Chemical | Chemical metabolites | Food animal species | MRL
 
 *17. | Spectinomycin | Bovine | 200 μg/kg
 
-*18. | Streptomycin | Sum of dihydrostreptomycin and streptomycin | Bovine | 200 μg/kg
+18. | Streptomycin | Sum of dihydrostreptomycin and streptomycin | Bovine | 200 μg/kg
 
 19. | Sulfonamides | Sum of all substances belonging to the sulfonamide group | All food animals | 100 μg/kg
 
 20. | Tetracycline | Sum of parent drug and its 4-epimer | All food animals | 100 μg/kg
 
-*21. | Trimethoprim | Bovine | 50 μg/kg
+21. | Trimethoprim | Bovine | 50 μg/kg
 
 *22. | Tylosin | Bovine | 50 μg/kg

@@ -18,7 +18,7 @@ Item | Chemical | Chemical metabolites | Food animal species | Tissue | MRL
 
 4. | Benzylpenicillin | All food animals | Muscle Liver Kidney | 50 μg/kg 50 μg/kg 50 μg/kg
 
-*5. | Carbadox | Quinoxaline-2— carboxylic acid | Porcine | Muscle Liver | 5 μg/kg 30 μg/kg
+5. | Carbadox | Quinoxaline-2— carboxylic acid | Porcine | Muscle Liver | 5 μg/kg 30 μg/kg
 
 *6. | Ceftiofur | Desfuroylceftiofur | Bovine Porcine | Muscle Liver Kidney Muscle Liver Kidney | 1000 μg/kg 2000 μg/kg 6000 μg/kg 1000 μg/kg 2000 μg/kg 6000 μg/kg
 
@@ -32,9 +32,9 @@ Item | Chemical | Chemical metabolites | Food animal species | Tissue | MRL
 
 11. | Dicloxacillin | All food animals | Muscle Liver Kidney | 300 μg/kg 300 μg/kg 300 μg/kg
 
-*12. | Dihydrostreptomycin | Sum of dihydrostreptomycin and streptomycin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 500 μg/kg 500 μg/kg 1000 μg/kg 500 μg/kg 500 μg/kg 1000 μg/kg 500 μg/kg 500 μg/kg 1000 μg/kg
+12. | Dihydrostreptomycin | Sum of dihydrostreptomycin and streptomycin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 500 μg/kg 500 μg/kg 1000 μg/kg 500 μg/kg 500 μg/kg 1000 μg/kg 500 μg/kg 500 μg/kg 1000 μg/kg
 
-*13. | Dimetridazole | Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney | 5 μg/kg 5 μg/kg 5 μg/kg 5 μg/kg 5 μg/kg 5 μg/kg
+13. | Dimetridazole | Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney | 5 μg/kg 5 μg/kg 5 μg/kg 5 μg/kg 5 μg/kg 5 μg/kg
 
 14. | Doxycycline | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 100 μg/kg 300 μg/kg 600 μg/kg 100 μg/kg 300 μg/kg 600 μg/kg 100 μg/kg 300 μg/kg 600 μg/kg
 
@@ -44,21 +44,21 @@ Item | Chemical | Chemical metabolites | Food animal species | Tissue | MRL
 
 *17. | Flumequine | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 500 μg/kg 500 μg/kg 3000 μg/kg 500 μg/kg 500 μg/kg 3000 μg/kg 500 μg/kg 500 μg/kg 3000 μg/kg
 
-*18. | Furaltadone | Porcine Poultry | Muscle Muscle | 0 μg/kg 0 μg/kg
+18. | Furaltadone | Porcine Poultry | Muscle Muscle | 0 μg/kg 0 μg/kg
 
-*19. | Furazolidone | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg
+19. | Furazolidone | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg
 
 *20. | Gentamicin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 100 μg/kg 2000 μg/kg 5000 μg/kg 100 μg/kg 2000 μg/kg 5000 μg/kg 100 μg/kg 100 μg/kg 100 μg/kg
 
 *21. | Ivermectin | 22,23-Dihydro— avermectin B1a (H2B1a) | Bovine Porcine | Liver Liver | 100 μg/kg 15 μg/kg
 
-*22. | Josamycin | Poultry | Muscle Liver Kidney | 200 μg/kg 200 μg/kg 400 μg/kg
+22. | Josamycin | Poultry | Muscle Liver Kidney | 200 μg/kg 200 μg/kg 400 μg/kg
 
 *23. | Kitasamycin | Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney | 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg
 
 *24. | Lincomycin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 100 μg/kg 500 μg/kg 1500 μg/kg 100 μg/kg 500 μg/kg 1500 μg/kg 100 μg/kg 500 μg/kg 1500 μg/kg
 
-*25. | Metronidazole | Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney | 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg
+25. | Metronidazole | Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney | 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg 0 μg/kg
 
 *26. | Neomycin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 500 μg/kg 500 μg/kg 10000 μg/kg 500 μg/kg 500 μg/kg 10000 μg/kg 500 μg/kg 500 μg/kg 10000 μg/kg
 
@@ -70,7 +70,7 @@ Item | Chemical | Chemical metabolites | Food animal species | Tissue | MRL
 
 *30. | Spectinomycin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 500 μg/kg 2000 μg/kg 5000 μg/kg 500 μg/kg 2000 μg/kg 5000 μg/kg 500 μg/kg 2000 μg/kg 5000 μg/kg
 
-*31. | Streptomycin | Sum of dihydro— streptomycin and streptomycin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 500 μg/kg 500 μg/kg 1000 μg/kg500 μg/kg 500 μg/kg 1000 μg/kg500 μg/kg 500 μg/kg 1000 μg/kg
+31. | Streptomycin | Sum of dihydro— streptomycin and streptomycin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 500 μg/kg 500 μg/kg 1000 μg/kg500 μg/kg 500 μg/kg 1000 μg/kg500 μg/kg 500 μg/kg 1000 μg/kg
 
 32. | Sulfonamides | Sum of all substances belonging to the sulfonamide group | All food animals | Muscle Liver Kidney | 100 μg/kg 100 μg/kg 100 μg/kg
 
@@ -78,7 +78,7 @@ Item | Chemical | Chemical metabolites | Food animal species | Tissue | MRL
 
 *34. | Tiamulin | Sum of metabolites that may be hydrolysed to 8-alpha— hydroxymutilin | Porcine Poultry | Muscle Liver Muscle Liver | 100 μg/kg 500 μg/kg 100 μg/kg 1000 μg/kg
 
-*35. | Trimethoprim | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg
+35. | Trimethoprim | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg 50 μg/kg
 
 *36. | Tylosin | Bovine Porcine Poultry | Muscle Liver Kidney Muscle Liver Kidney Muscle Liver Kidney | 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg 200 μg/kg
 
