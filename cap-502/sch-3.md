@@ -2,15 +2,15 @@
 
 [ss. 5(2) & 25]
 
-FIRE SAFETY MEASURES TO BE COMPLIED WITH BY OCCUPIERS
+FIRE SAFETY MEASURES TO BE COMPLIED WITH BY OCCUPIERS OF PRESCRIBED COMMERCIAL PREMISES
 
-- 1.
+(Replaced 15 of 1998 s. 20)
 
-- Provision of fire safety installations
+- 1. Provision of fire service installations
 
 - and equipment
 
-  - (1) In relation to the provision of fire safety installations and equipment, requirements with which an occupier of prescribed commercial premises can be directed to comply under section 5(2) of this Ordinance are the following—
+  - (1) In relation to the provision of fire service installations and equipment, requirements with which an occupier of prescribed commercial premises can be directed to comply under section 5(2) of this Ordinance are the following— (Amended 15 of 1998 s. 20)
 
     - (a) a requirement to install an automatic cut-off device for a mechanical ventilating system installed on the premises, but only if the system does not serve other premises within the building where the premises are located and the system—
 
@@ -26,8 +26,6 @@ FIRE SAFETY MEASURES TO BE COMPLIED WITH BY OCCUPIERS
 
   - (2) Subsection (1)(d) does not apply to premises that are equipped with a hose reel system.
 
-- 2.
-
-- Definition In this Schedule—
+- 2. Definition In this Schedule—
 
   - “fire compartment” (防火間), in relation to a building, means a part of the building that is physically separated from adjoining parts by walls, and by a floor and ceiling, that meets the standard of fire resistance prescribed by the Code of Practice for Fire Resisting Construction 1996, as published by the Director of Buildings and printed by the Government Printer.
