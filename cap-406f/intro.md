@@ -1,0 +1,5 @@
+PLUGS AND ADAPTORS (SAFETY)
+
+(Cap. 406 section 59(1))
+
+(23 March 1995)
