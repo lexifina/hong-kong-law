@@ -32,9 +32,9 @@ Item | Licence or permit | Fee $
 
 5. | (Repealed L.N. 452 of 1996)
 
-6. | Temporary liquor licence (L.N. 226 of 1994; L.N. 145 of 1995) . | 240 per diem
+6. | Temporary liquor licence (L.N. 226 of 1994; L.N. 145 of 1995) . | 290 per diem
 
-(L.N. 479 of 1997; L.N. 324 of 2000)
+(L.N. 479 of 1997; L.N. 324 of 2000; L.N. 330 of 2000)
 
 - PART III TOBACCO
 
@@ -66,11 +66,11 @@ Item | Service | Fee $
 
 2. | For every transfer of any licence from one person to another, not otherwise specified . | 300
 
-3. | For every certificate of the Government Chemist that any spirits or methyl alcohol are denatured . | 5 or one-twentieth of the duty, which would have been payable on the spirits or methyl alcohol had such spirits, or methyl alcohol not been denatured, whichever is the greater.
+3. | For every certificate of the Government Chemist that any spirits or methyl alcohol are denatured . | 5 or one-twentieth of the duty, which would have been payable on the spirits or methyl alcohol had such spirits or methyl alcohol not been denatured, whichever is the greater.
 
 4. | For every landing certificate, certificate of shortages or breakages of cargo found damaged or short in bond, endorsement, certificate of accuracy or copy of or extract from official records, any other certificates on which statistics or any official signature has been given in connection with the importation, duty collection, shortage or exportation of any goods to which this Ordinance applies . | 130
 
-5. | For storage of goods to which this Ordinance applies at the Customs and Excise warehouse . | 1.20 per package (irrespective of size) per day or part of a day, 48 hours
+5. | For storage of goods to which this Ordinance applies at the Customs and Excise warehouse . | 1.20 per package (irrespective of size) per day or part of a day, after the first 48 hours.
 
 6. | For any attendance of a member of the Customs and Excise Service— (a) at a warehouse or any other place; or (b) during the removal of goods to which this Ordinance applies from one place to another—
 
