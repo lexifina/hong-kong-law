@@ -536,7 +536,7 @@ ARRANGEMENT OF STATUTES
 
   - 2. The Treasurer may resign by written notice addressed to the Council.
 
-- STATUTE IX THE DEANS AND ASSOCIATE DEANS OF THE FACULTIES (L.N. 83 of 1992)
+- * STATUTE IX THE DEANS AND ASSOCIATE DEANS OF THE FACULTIES (L.N. 83 of 1992)
 
   - 1. The Dean of each Faculty shall be appointed by the Council in accordance with regulations—
 
@@ -718,7 +718,7 @@ ARRANGEMENT OF STATUTES
 
   - (f) to appoint life members and to prescribe the procedure for making such appointments.
 
-- STATUTE XVIII THE COUNCIL
+- * STATUTE XVIII THE COUNCIL
 
   - 1. The Council shall consist of—
 
@@ -808,7 +808,7 @@ ARRANGEMENT OF STATUTES
 
     - (k) to co-operate with other Universities and authorities for the regulation and conduct of examinations, for the examination and inspection of schools and other academic institutions, for the extension of University teaching, and for other purposes;
 
-    - (l) to appoint any person or committee to entertain and adjudicate upon, on its behalf, complaints from, and to redress grievances of, members of the University and persons employed therein: (L.N. 186 of 2003)
+    - (l) to appoint any person or committee to entertain and, if appropriate, adjudicate upon, on its behalf, complaints from members of the University and persons employed in it and to redress their grievances: (L.N. 186 of 2003; L.N. 246 of 2003)
 
       - Provided that the Council shall not entertain or adjudicate upon any complaint which falls within the jurisdiction of the Disciplinary Committee; (L.N. 19 of 1971)
 
@@ -902,7 +902,7 @@ ARRANGEMENT OF STATUTES
 
   - 8. The audited account shall be submitted to the Court at its annual meeting. (L.N. 186 of 2003)
 
-- STATUTE XXII THE SENATE
+- * STATUTE XXII THE SENATE
 
   - 1. The Senate shall consist of—
 
@@ -1004,7 +1004,7 @@ ARRANGEMENT OF STATUTES
 
     - (2) All such regulations shall be reported to the Council and shall come into operation not earlier than 1 semester after the day on which they are made, unless otherwise provided by the Council. (L.N. 516 of 1994)
 
-- STATUTE XXIV THE TEACHING DEPARTMENTS
+- * STATUTE XXIV THE TEACHING DEPARTMENTS
 
   - 1. The Teaching Departments shall be formed by the Senate.
 
@@ -1014,7 +1014,7 @@ ARRANGEMENT OF STATUTES
 
   - 3. The Senate shall allocate the Teaching Departments to Faculties. A Teaching Department may be allocated to more than one Faculty. (L.N. 123 of 1994)
 
-- STATUTE XXV INSTITUTES, SCHOOLS, CENTRES, UNITS OR OTHER
+- * STATUTE XXV INSTITUTES, SCHOOLS, CENTRES, UNITS OR OTHER
 
 - SUBDIVISIONS OF STUDIES AND LEARNING
 
@@ -1343,3 +1343,7 @@ ARRANGEMENT OF STATUTES
     - (2) For the purpose of this paragraph “findings” shall include the name of the student against whom the complaint was made, the nature of the offence complained of, the provision of the statute under which the complaint was brought, the decision of the Committee on the complaint, and the penalty, if any, imposed by the Committee.
 
   - 12. The Committee may exercise all or any of the powers conferred under this Statute notwithstanding that the person against whom a complaint has been made had ceased to be a student at the time of the complaint or at the time of the hearing by the Committee of the charge or at the time when the Committee makes its findings on the charge. (L.N. 123 of 1994) (L.N. 19 of 1971)
+
+Editorial Note:
+
+* For the transitional provision relating to the amendments made by the Statutes of the University of Hong Kong (Amendment) (No. 2) Statutes 2003 (L.N. 186 of 2003) , see section 14 of the Statutes.
