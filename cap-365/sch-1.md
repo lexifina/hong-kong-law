@@ -4,11 +4,11 @@
 
 PROVISIONS REGARDING THE BOARD AND ITS MEMBERS
 
-(Adaptation amendments retroactively made - see 56 of 2000 s. 3)
-
 Common seal
 
-- 1. The Board shall have a common seal. Members
+- 1. The Board shall have a common seal.
+
+Members
 
 - 2.
 
@@ -42,9 +42,9 @@ Common seal
 
 - (Amended 56 of 2000 s. 3)
 
-- Meetings
+Meetings
 
-- 4. The quorum of the Board is 4 and, while a member is disqualified from taking part in a decision or deliberation of the Board in respect of a matter, he shall be disregarded for the purposes of constituting a quorum of the Board for deciding, or deliberating on, that matter.
+- 4. The quorum of the Board is 5 and, while a member is disqualified from taking part in a decision or deliberation of the Board in respect of a matter, he shall be disregarded for the purposes of constituting a quorum of the Board for deciding, or deliberating on, that matter. (Amended 16 of 2002 s. 31)
 
 - 5.
 
@@ -56,9 +56,13 @@ Common seal
 
   - (4) If the Chairman is absent from any meeting of the Board, the members present at the meeting shall elect one of their number to act as Chairman in his place.
 
-  - (5) The Chairman has a deliberative vote on all matters coming before the Board and in the case of an equality of votes he also has a casting vote. Transaction of business
+  - (5) The Chairman has a deliberative vote on all matters coming before the Board and in the case of an equality of votes he also has a casting vote.
 
-- 6. The Board may transact any of its business by circulation of papers amongst members whether any such member is in or outside Hong Kong, and a resolution in writing which is approved in writing by a majority of the members is as valid and effectual as if it had been passed at a meeting of the Board by the votes of its members so approving the resolution. Committees
+Transaction of business
+
+- 6. The Board may transact any of its business by circulation of papers amongst members whether any such member is in or outside Hong Kong, and a resolution in writing which is approved in writing by a majority of the members is as valid and effectual as if it had been passed at a meeting of the Board by the votes of its members so approving the resolution.
+
+Committees
 
 - 7.
 
@@ -88,7 +92,9 @@ Common seal
 
     - (c) to establish, manage and control, or enter into an arrangement for the establishment, management and control of any fund or scheme for the purpose of providing for the payment of allowances, benefits, gratuities, pensions and remuneration to the employees of the Board; or
 
-    - (d) to determine any application under Part IV or to conduct or compromise any proceedings under that Part. Miscellaneous
+    - (d) to determine any application under Part IV or to conduct or compromise any proceedings under that Part.
+
+Miscellaneous
 
 - 9. Every document purporting to be an instrument made or issued by or on behalf of the Board, or to be signed or executed by the Chairman or a person authorized by the Board to act in that behalf, shall be received in evidence and deemed, without further proof, to be so made or issued or to be so signed or executed, unless the contrary is shown.
 
