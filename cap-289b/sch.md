@@ -242,4 +242,6 @@ Item | Periods | Rate of interest
 
 119. | On or after 6 August 2001 and before 3 September 2001 (L.N. 180 of 2001; L.N. 182 of 2001) | 2.250% per annum
 
-120. | On or after 3 September 2001 (L.N. 182 of 2001) | 1.8667% per annum
+120. | On or after 3 September 2001 and before 3 October 2001 (L.N. 182 of 2001; L.N. 193 of 2001) | 1.8667% per annum
+
+121. | On or after 3 October 2001 (L.N. 193 of 2001) | 1.0% per annum
