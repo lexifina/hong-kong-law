@@ -6,4 +6,6 @@ SPECIFIED ELIGIBLE AGENTS
 
 - 1. Tradelink Electronic Commerce Limited
 
-- 2. International Chamber of Commerce—Hong Kong, China Business Council (Added L.N. 38 of 2003) (Schedule 1B added 19 of 2001 s. 13)
+- 2. International Chamber of Commerce—Hong Kong, China Business Council (Added L.N. 38 of 2003)
+
+- 3. Global e-Trading Services Limited (Added L.N. 222 of 2003) (Schedule 1B added 19 of 2001 s. 13)

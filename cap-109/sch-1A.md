@@ -12,4 +12,6 @@
 
 SPECIFIED ELECTRONIC SERVICE PROVIDERS
 
-- 1. Tradelink Electronic Commerce Limited (Schedule 1A added 19 of 2001 s. 13)
+- 1. Tradelink Electronic Commerce Limited
+
+- 2. Global e-Trading Services Limited (Added L.N. 222 of 2003) (Schedule 1A added 19 of 2001 s. 13)
