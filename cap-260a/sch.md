@@ -37,3 +37,5 @@ Item | Location | Remarks
 15. | (Repealed L.N. 234 of 1985)
 
 16. | Depot and Earth Station, Chung Hom Kok | Area enclosed by perimeter fence at KV 11305930: KV 11325937: KV 11405944: KV 11555951: KV 11585851: KV 11615949: KV 11595944: KV 11615941: KV 11605937: KV 11635934: KV 11605927: KV 11305930.
+
+17. | Kau Shat Wan | Area enclosed by a perimeter fence on land at JV 92856606: JV 92536614: JV 92596622: JV 92456632: JV 92576632: JV 92866633, and area in sea enclosed by JV 92926648: JV 93276647: JV 93266591: JV 92826592. (L.N. 485 of 1997)
