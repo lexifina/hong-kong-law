@@ -22,4 +22,6 @@ Item | Article | Country or place
 
 2. | Outboard engines exceeding 111.9 kilowatts (150 horsepower). | All countries.
 
+3. | Optical disc mastering and replication equipment. | All places outside Hong Kong. (L.N. 529 of 1997)
+
 (L.N. 136 of 1994)
