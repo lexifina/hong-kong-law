@@ -24,6 +24,8 @@ Ma Hang Prison (the site and buildings situated at number 40, Stanley Village Ro
 
 Ma Po Ping Prison (the site and buildings situated at Tong Fuk on the island of Lantau, New Territories, and until now known as “Ma Po Ping Addiction Treatment Centre”) (L.N. 295 of 1988)
 
+Pak Sha Wan Correctional Institution (the site and buildings situated at 101 Tung Tau Wan Road, Stanley, Hong Kong adjacent to the Stanley Prison) (L.N. 231 of 1999)
+
 Pik Uk Correctional Institution (the site and buildings situated at Clear Water Bay Road, Pik Uk, Hang Hau, Sai Kung adjacent to Pik Uk Prison) (L.N. 285 of 1975)
 
 Pik Uk Prison (the site and buildings situated at Clear Water Bay Road, Pik Uk, Hang Hau, Sai Kung) (L.N. 16 of 1975)
