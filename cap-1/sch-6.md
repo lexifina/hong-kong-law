@@ -12,33 +12,29 @@ Secretary for Justice
 
 Secretary for the Civil Service
 
+Secretary for Commerce, Industry and Technology
+
 Secretary for Constitutional Affairs
 
-Secretary for Economic Services
+Secretary for Economic Development and Labour
 
 Secretary for Education and Manpower
 
-Secretary for Health and Welfare
+Secretary for the Environment, Transport and Works
+
+Secretary for Financial Services and the Treasury
+
+Secretary for Health, Welfare and Food
 
 Secretary for Home Affairs
 
-Secretary for Financial Services
-
-Secretary for Planning and Lands
-
-Secretary for Information Technology and Broadcasting
+Secretary for Housing, Planning and Lands
 
 Secretary for Security
 
-Secretary for Commerce and Industry
-
-Secretary for Transport
-
-Secretary for the Treasury
+Permanent Secretary
 
 Director of Administration
-
-Secretary for Works
 
 Director of Home Affairs
 
@@ -50,4 +46,4 @@ Principal Assistant Secretary
 
 Assistant Director of Administration
 
-(Replaced L.N. 145 of 1974. Amended L.N. 238 of 1976; L.N. 63 of 1978; L.N. 21 of 1979; L.N. 282 of 1981; L.N. 379 of 1981; L.N. 24 of 1982; L.N. 73 of 1982; L.N. 50 of 1984; L.N. 151 of 1984; L.N. 76 of 1985; L.N. 320 of 1985; L.N. 55 of 1989; L.N. 94 of 1989; L.N. 262 of 1989; L.N. 291 of 1989; L.N. 99 of 1990; L.N. 167 of 1990; L.N. 273 of 1990; L.N. 336 of 1990; L.N. 323 of 1992; L.N. 354 of 1992; L.N. 96 of 1993; L.N. 621 of 1994; L.N. 372 of 1996; L.N. 362 of 1997; L.N. 192 of 1998; L.N. 330 of 1999; L.N. 173 of 2000)
+(Schedule 6 replaced L.N. 107 of 2002)
