@@ -1,0 +1,5 @@
+SMALL CLAIMS TRIBUNAL (FEES) RULES
+
+(Cap. 338, section 36)
+
+[26 February 1988]
