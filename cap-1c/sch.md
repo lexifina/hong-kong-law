@@ -466,7 +466,7 @@ Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 2
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998 and L.N. 343 of 1998. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998 and L.N. 324 of 1999. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -481,6 +481,8 @@ Director of Intellectual Property as Registrar of Trade Marks | Trade Marks Ordi
 Director of Intellectual Property as Registrar of Patents | Patents Ordinance (Chapter 514). Patents (Transitional Arrangements) Rules (Chapter 514 subsidiary legislation). Patents (General) Rules (Chapter 514 subsidiary legislation).
 
 Director of Intellectual Property as Registrar of Designs | Registered Designs Ordinance (Chapter 522). Registered Designs Rules (Chapter 522 subsidiary legislation).
+
+L.N. 324 of 1999 | Chief Secretary for Administration | Hong Kong Tourist Association Ordinance (Chapter 302), section 19(2).
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 
