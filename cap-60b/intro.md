@@ -1,0 +1,5 @@
+IMPORT AND EXPORT (FEES) REGULATIONS
+
+(Cap. 60, section 31)
+
+[1 June 1973] L.N. 97 of 1973
