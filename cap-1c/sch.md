@@ -456,7 +456,7 @@ Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999, L.N. 82 of 2001, L.N. 93 of 2001 and 5 of 2001 s. 40. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999, L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40 and L.N. 158 of 2002. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -479,6 +479,8 @@ L.N. 82 of 2001 | Director-General of Trade and Industry | Import and Export (Ge
 L.N. 93 of 2001 | Chief Secretary for Administration | Scout Association of Hong Kong Ordinance (Chapter 1005), section 9(3).
 
 5 of 2001 s. 40 | Financial Secretary | Hong Kong Science and Technology Parks Corporation Ordinance (Cap. 565), sections 23(6) and 24.
+
+L.N. 158 of 2002 | Secretary for Education and Manpower | Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). Hong Kong Council for Academic Accreditation Ordinance (Chapter 1150), sections 5(e), (g) and (l), 9(1) and (2), 10, 12, 13(1) and (2) and 17.
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 
