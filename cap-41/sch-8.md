@@ -10,7 +10,7 @@ ASSETS WHICH QUALIFY AS ASSETS IN HONG KONG
 
   - (b) computer equipment, office machinery, furniture, motor vehicles and other equipment located in Hong Kong;
 
-  - (c) money, in any currency or monetary unit, deposited at an authorized institution, as defined in the Banking Ordinance (Cap. 155);
+  - (c) money, in any currency or monetary unit, deposited and kept in Hong Kong at an authorized institution, as defined in the Banking Ordinance (Cap. 155); (Amended 51 of 1999 s. 8)
 
   - (d) bonds or other securities issued in Hong Kong provided that they are transferable and registrable at a register in Hong Kong and, in the case of bonds or other securities which are evidenced by certificates, the certificates for them are for the time being kept in Hong Kong;
 

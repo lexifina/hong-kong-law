@@ -110,7 +110,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
         - (ii) the treaty is accepted; or
 
-        - (iii) th treaty negotiation is concluded,
+        - (iii) the treaty negotiation is concluded,
 
     - in Hong Kong, other than treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (2); (Added L.N. 391 of 1990)
 
@@ -170,7 +170,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (ii) the amount as may be prescribed by or determined in accordance with regulations made under section 59(1)(aa) of this Ordinance for the purpose of section 8(3)(a)(ii)(B) and (iii)(B) of this Ordinance in the case of the insurer; (Amended 29 of 1997 s. 13)
 
-  - (b) whether in the auditor’s opinion the value of the assets of the insurer exceeds the amount of its liabilities by the amount stated under sub-subparagraph (a);
+  - (b) whether in the auditor’s opinion the value of the assets of the insurer exceeds the amount of its liabilities by the amount stated under sub-paragraph (a);
 
   - (c) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance;
 
@@ -198,7 +198,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - (d) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance; and
 
-  - (e) whether in the auditor’s opinion the insurer’s balance sheet, revenue account and profit and loss account have been properly prepared in accordance with the provisions of thisOrdinance. (Added L.N. 599 of 1995) ▲(1AC) The accounts and statements of an insurer carrying on both general business and long term business to be submitted under Parts 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating—
+  - (e) whether in the auditor’s opinion the insurer’s balance sheet, revenue account and profit and loss account have been properly prepared in accordance with the provisions of this Ordinance (Added L.N. 599 of 1995) ▲(1AC) The accounts and statements of an insurer carrying on both general business and long term business to be submitted under Parts 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating—
 
   - (a) the relevant premium income of the insurer attributable to its general business;
 
@@ -304,7 +304,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
         - (C) such amount as may be prescribed by or determined in accordance with regulations made under section 59(1)(aa) of this Ordinance; (Added 25 of 1994 s. 19. Amended 29 of 1997 s. 13)
 
-    - (e) confirming that he has complied with the standards, if any, prescribed under section 59(2)(aa) of this Ordinance, which are applicable to him; and (Added 29 of 1997 s. 13)
+    - (e) confirming that he has complied with the prescribed standards or other standards as the Insurance Authority accepts as being comparable to the prescribed standards under section 15C of this Ordinance, which are applicable to him; and (Added 29 of 1997 s. 13. Amended 31 of 2000 s. 4)
 
     - (f) specifying such of those standards applicable to him with which he has complied. (Added 29 of 1997 s. 13)
 
@@ -496,7 +496,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
       - (B) claims incurred but not reported;
 
-    - (iv) expenses of settling claims outstanding, if not included under (iii)above;
+    - (iv) expenses of settling claims outstanding, if not included under (iii) above
 
     - (v) funds;
 
@@ -534,9 +534,11 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - (b) where—
 
-    - (i) the amount of the reserves shows a decrease as compared with the amount at the end of the immediately preceding financial year;or
+    - (i) the amount of the reserves shows a decrease as compared with the amount at the end of the immediately preceding financial year; or
 
-    - (ii) at the end of the immediately preceding financial year the amount of the provisions (other than provisions for depreciation, amortization, renewal or diminution in value of assets) exceeded the aggregate of the sum since applied and amounts still retained for the purposes thereof, the application of the amounts derived from the difference.
+    - (ii) at the end of the immediately preceding financial year the amount of the provisions (other than provisions for depreciation, amortization, renewal or diminution in value of assets) exceeded the aggregate of the sum since applied and amounts still retained for the purposes thereof,
+
+  - the application of the amounts derived from the difference.
 
 - 19. If provision is made for claims equalization or to accommodate fluctuations in taxation, or for any other purpose, it shall be stated. If any of the sum so set aside has been used during the financial year for another purpose, the amount thereof and the purpose for which it has been so used shall be stated.
 
@@ -600,7 +602,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (b) may include in accounting class 5 business covering liability for loss or damage to or of goods in transit which would otherwise be included in accounting class 2 provided that the policy does not cover damage to vehicles except as an ancillary risk as defined in the First Schedule.
 
-    - (3) Accounting classes 3, 4 and 5 when accounted for on a fund accounting basis shall also include treaty reinsurance business in the corresponding classes. Subject thereto, the insurer may account for all reinsurance business in accounting classes 9 and 10, or alternatively may combine all such business with similar business falling within accounting classes 1 to 8 inclusive. (Amended L.N. 391 of 1990)
+  - (3) Accounting classes 3, 4 and 5 when accounted for on a fund accounting basis shall also include treaty reinsurance business in the corresponding classes. Subject thereto, the insurer may account for all reinsurance business in accounting classes 9 and 10, or alternatively may combine all such business with similar business falling within accounting classes 1 to 8 inclusive. (Amended L.N. 391 of 1990)
 
 - 25. The following items (a) to (i) shall be shown, for long term business, for each of the following types of business (i) to (ix) (which correspond to the classes of long term business in Part 2 of the First Schedule)— (Amended 59 of 1993 s. 18)
 
@@ -724,7 +726,9 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - (a) the amount of the long term business fund or funds carried forward in the insurer’s revenue account;
 
-  - (b) the amounts of any accounting liabilities, reserves or provisions, other than those mentioned in (a) above, shown in the insurer’s balance sheet as attributable only to the insurer’s long term business; (c)the amounts of any accounting liabilities, reserves or provisions, other than those mentioned in (a) and (b) above, shown or included in the insurer’s balance sheet in relation to which there are records which identify them as attributable only to the insurer’s long term business.
+  - (b) the amounts of any accounting liabilities, reserves or provisions, other than those mentioned in (a) above, shown in the insurer’s balance sheet as attributable only to the insurer’s long term business;
+
+  - (c) the amounts of any accounting liabilities, reserves or provisions, other than those mentioned in (a) and (b) above, shown or included in the insurer’s balance sheet in relation to which there are records which identify them as attributable only to the insurer’s long term business.
 
 - 31. In the case of assets, the assets to be identified shall be such proportion of the insurer’s total assets as the amount of the identified liabilities bears to the total liabilities of the insurer. The insurer’s total assets shall be valued at a fair market value on the base date, the amount of the identified liabilities shall be determined as in paragraph 30, and the total liabilities of the insurer shall be taken as including the share capital and reserves but excluding provisions or other allowances in respect of depreciation, amortization, renewal or diminution in value (whether actual or potential) of assets:
 
@@ -750,7 +754,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (b) identified as assets attributable to the insurer’s long term business all those assets which are required to be so identified in accordance with paragraph 32; and
 
-    - (c) stablished and maintained those books of account and other records which are required to be established and maintained by section 22 of this Ordinance,
+    - (c) established and maintained those books of account and other records which are required to be established and maintained by section 22 of this Ordinance,
 
   - and that certificate shall be signed by at least 2 directors of the insurer and the chief executive thereof or, in the case of an insurer which has no chief executive, by at least 2 directors and the secretary thereof:
 
@@ -820,7 +824,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - Amount of Funds on ., the end of the period . | XX
 
-  - Transfer to Profit and Loss Account . | XX _ XX === | Transfer to Profit and Loss Account . | XX _ XX ===
+  - Transfer from Profit and Loss Account . | XX _ XX === | Transfer to Profit and Loss Account . | XX _ XX ===
 
   - * The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule.
 
@@ -854,13 +858,13 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
 
-  - Class | Type of insurance | Number of contracts | Amount of sums assured or annuities per annum including vested reversionary bonuses | Amount of yearly premiums | Values of sums assured or annuities per annum including vested reversionary bonuses | Values of yearly net premiums | Amount of net liability | Bases of valuation
+  - Class | Type of insurance | Number of contracts | Amount of sums assured or annuities per annum including vested reversionary bonuses | Amount of yearly premiums | Value of sums assured or annuities per annum including vested reversionary bonuses | Value of yearly net premiums | Amount of net liability | Bases of valuation
 
   - Office premiums | Net premium
 
   - A | (I) Life assurance other than annuities (a) With participation in profits: Whole life . Endowment . Other types (to be specified) . | $ | $ | $ | $ | $ | $
 
-  - Total assurances with profits .
+  - Total assurances with profit.
 
   - (b) Without participation in profits: Whole life . Endowment . Other types (to be specified) .
 
@@ -874,7 +878,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - (b) Without participation in profits: Life annuities in course of payment . Deferred life annuities . Other types (to be specified) .
 
-  - Total annuities without profits . .
+  - Total annuities without profits .
 
   - Total annuities . | ╳╳
 
@@ -923,6 +927,8 @@ PART 1: INTERPRETATION AND PRELIMINARY
 - Valuation Balance Sheet of , as at , 19 .
 
 - Net liability under long term insurance business (as per Form L2) . Surplus . | $ _ $ | Long term insurance business funds (as per Balance Sheet) . Deficiency . | $ _ $
+
+- _
 
 - (2)
 
@@ -1094,7 +1100,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - (b) If the insurer’s direct business is accounted for on a fund accounting basis, this form is to be completed in lieu of Forms 1 and 1A.
 
-- (c) a separate form must be submitted in respect of each of the 8 accounting classes of general business specified in Forms 1 and 1A. * Delete as necessary. FORM 4 HONG KONG INSURANCE BUSINESS-REINSURANCE BUSINESS REVENUE ACCOUNT ON THE FUND ACCOUNTING BASIS OF . (Name of insurer)
+- (c) A separate from must be submitted in respect of each of the 8 accounting classes of general business specified in Forms 1 and 1A. * Delete as necessary. FORM 4 HONG KONG INSURANCE BUSINESS-REINSURANCE BUSINESS REVENUE ACCOUNT ON THE FUND ACCOUNTING BASIS OF . (Name of insurer)
 
 - for the period commencing on . and ending on .
 
@@ -1168,37 +1174,39 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - * Delete as necessary.
 
-  - FORM 6 HONG KONG INSURANCE BUSINESS-CLAIMS PAID STATISTICS (GROSS)
+  - [section 6(a)]
 
-  - OF . (Name of insurer)
-
-  - for the period commencing on . and ending on .
-
-  - in respect of Accounting Class of General
-
-  - Business: . (All in $’000)
+  - ##FORM 6 HONG KONG INSURANCE BUSINESS-CLAIMS PAID STATISTICS (GROSS) OF . (Name of insurer) for the period commencing on . and ending on . in respect of Accounting Class of General Business: . (All in $’000)
 
   - Accident/ Underwriting Year* | Claims Paid in each year of development
 
-  - 19_ | 19_ | 19_ | 19_ | 19_ | 19_ | 19_ | 19_
+  - (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year)
 
   - Prior years
 
-  - 19_
+  - (Year)
 
-  - 19_ | -
+  - (Year) | -
 
-  - 19_ | - | -
+  - (Year) | - | -
 
-  - 19_ | - | - | -
+  - (Year) | - | - | -
 
-  - 19_ | - | - | - | -
+  - (Year) | - | - | - | -
 
-  - 19_ | - | - | - | - | -
+  - (Year) | - | - | - | - | -
 
-  - 19_ | - | - | - | - | - | -
+  - (Year) | - | - | - | - | - | -
 
-  - 19_ | - | - | - | - | - | - | -
+  - (Year) | - | - | - | - | - | - | -
+
+  - (Year) | - | - | - | - | - | - | - | -
+
+  - (Year) | - | - | - | - | - | - | - | - | -
+
+  - (Year) | - | - | - | - | - | - | - | - | - | -
+
+  - (Year) | - | - | - | - | - | - | - | - | - | - | -
 
   - TOTAL
 
@@ -1224,49 +1232,57 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - * Delete as necessary.
 
-    - FORM 7 HONG KONG INSURANCE BUSINESS-OUTSTANDING CLAIMS PROVISION
+- (Replaced 51 of 1999 s. 6(a))
 
-    - STATISTICS (GROSS) OF . (Name of insurer)
+- ##FORM 7
 
-    - AS AT .
+- HONG KONG INSURANCE BUSINESS-OUTSTANDING CLAIMS PROVISION
 
-    - Accounting Class of General Business: . (All in $’000)
+- STATISTICS (GROSS) OF . (Name of insurer) AS AT . Accounting Class of General Business: . (All in $’000)
 
-    - Accident/ Underwriting Year* | Outstanding Claims Provision at the end of each year of development
+- Accident/ Underwriting Year* | Outstanding Claims Provision at the end of each year of development
 
-    - 19_ | 19_ | 19_ | 19_ | 19_ | 19_ | 19_ | 19_
+- (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year)
 
-    - Prior years
+- Prior years
 
-    - 19_
+- (Year)
 
-    - 19_ | -
+- (Year) | -
 
-    - 19_ | - | -
+- (Year) | - | -
 
-    - 19_ | - | - | -
+- (Year) | - | - | -
 
-    - 19_ | - | - | - | -
+- (Year) | - | - | - | -
 
-    - 19_ | - | - | - | - | -
+- (Year) | - | - | - | - | -
 
-    - 19_ | - | - | - | - | - | -
+- (Year) | - | - | - | - | - | -
 
-    - 19_ | - | - | - | - | - | - | -
+- (Year) | - | - | - | - | - | - | -
 
-    - TOTAL
+- (Year) | - | - | - | - | - | - | - | -
 
-    - We certify that the above information is true and correct.
+- (Year) | - | - | - | - | - | - | - | - | -
 
-    - _ | _ | _
+- (Year) | - | - | - | - | - | - | - | - | - | -
 
-    - ( ) | ( ) | ( )
+- (Year) | - | - | - | - | - | - | - | - | - | - | -
 
-    - Director | Director | *Chief Executive/Secretary
+- TOTAL
 
-    - Notes: (a) Amounts must be expressed in Hong Kong dollars.
+- We certify that the above information is true and correct.
 
-    - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
+- _ | _ | _
+
+- ( ) | ( ) | ( )
+
+- Director | Director | *Chief Executive/Secretary
+
+- Notes: (a) Amounts must be expressed in Hong Kong dollars.
+
+  - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
 
     - (c) This form must be completed on a gross basis (i.e. before deduction of any reinsurance).
 
@@ -1276,51 +1292,57 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
       - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
 
-    - (e) References to outstanding claims provision shall include outstanding claims and claims incurred but not reported. * Delete as necessary. FORM 8 HONG KONG INSURANCE BUSINESS-CLAIMS PAID STATISTICS (NET)
+    - (e) References to outstanding claims provision shall include outstanding claims and claims incurred but not reported. * Delete as necessary.
 
-    - OF . (Name of insurer)
+- (Replaced 51 of 1999 s. 6(a))
 
-    - for the period commencing on . and ending on .
+- ##FORM 8
 
-    - in respect of Accounting Class of General
+- HONG KONG INSURANCE BUSINESS-CLAIMS PAID STATISTICS (NET) OF . (Name of insurer) for the period commencing on . and ending on . in respect of Accounting Class of General Business: . (All in $’000)
 
-    - Business: . (All in $’000)
+- Accident/ Underwriting Year* | Claims Paid in each year of development
 
-    - Accident/ Underwriting Year* | Claims Paid in each year of development
+- (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year)
 
-    - 19_ | 19_ | 19_ | 19_ | 19_ | 19_ | 19_ | 19_
+- Prior years
 
-    - Prior years
+- (Year)
 
-    - 19_
+- (Year) | -
 
-    - 19_ | -
+- (Year) | - | -
 
-    - 19_ | - | -
+- (Year) | - | - | -
 
-    - 19_ | - | - | -
+- (Year) | - | - | - | -
 
-    - 19_ | - | - | - | -
+- (Year) | - | - | - | - | -
 
-    - 19_ | - | - | - | - | -
+- (Year) | - | - | - | - | - | -
 
-    - 19_ | - | - | - | - | - | -
+- (Year) | - | - | - | - | - | - | -
 
-    - 19_ | - | - | - | - | - | - | -
+- (Year) | - | - | - | - | - | - | - | -
 
-    - TOTAL
+- (Year) | - | - | - | - | - | - | - | - | -
 
-    - We certify that the above information is true and correct.
+- (Year) | - | - | - | - | - | - | - | - | - | -
 
-    - _ | _ | _
+- (Year) | - | - | - | - | - | - | - | - | - | - | -
 
-    - ( ) | ( ) | ( )
+- TOTAL
 
-    - Director | Director | *Chief Executive/Secretary
+- We certify that the above information is true and correct.
 
-    - Notes: (a) Amounts must be expressed in Hong Kong dollars.
+- _ | _ | _
 
-    - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
+- ( ) | ( ) | ( )
+
+- Director | Director | *Chief Executive/Secretary
+
+- Notes: (a) Amounts must be expressed in Hong Kong dollars.
+
+  - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
 
     - (c) This form must be completed on a net basis (i.e. net of reinsurances).
 
@@ -1332,49 +1354,53 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - * Delete as necessary.
 
-    - FORM 9 HONG KONG INSURANCE BUSINESS-OUTSTANDING CLAIMS PROVISION
+- (Replaced 51 of 1999 s. 6(a))
 
-    - STATISTICS (NET) OF . (Name of insurer)
+- ##FORM 9 HONG KONG INSURANCE BUSINESS-OUTSTANDING CLAIMS PROVISION STATISTICS (NET) OF . (Name of insurer) AS AT . Accounting Class of General Business: . (All in $’000)
 
-    - AS AT .
+- Accident/ Underwriting Year* | Outstanding Claims Provision at the end of each year of development
 
-    - Accounting Class of General Business: . (All in $’000)
+- (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year)
 
-    - Accident/ Underwriting Year* | Outstanding Claims Provision at the end of each year of development
+- Prior years
 
-    - 19_ | 19_ | 19_ | 19_ | 19_ | 19_ | 19_ | 19_
+- (Year)
 
-    - Prior years
+- (Year) | -
 
-    - 19_
+- (Year) | - | -
 
-    - 19_ | -
+- (Year) | - | - | -
 
-    - 19_ | - | -
+- (Year) | - | - | - | -
 
-    - 19_ | - | - | -
+- (Year) | - | - | - | - | -
 
-    - 19_ | - | - | - | -
+- (Year) | - | - | - | - | - | -
 
-    - 19_ | - | - | - | - | -
+- (Year) | - | - | - | - | - | - | -
 
-    - 19_ | - | - | - | - | - | -
+- (Year) | - | - | - | - | - | - | - | -
 
-    - 19_ | - | - | - | - | - | - | -
+- (Year) | - | - | - | - | - | - | - | - | -
 
-    - TOTAL
+- (Year) | - | - | - | - | - | - | - | - | - | -
 
-    - We certify that the above information is true and correct.
+- (Year) | - | - | - | - | - | - | - | - | - | - | -
 
-    - _ | _ | _
+- TOTAL
 
-    - ( ) | ( ) | ( )
+- We certify that the above information is true and correct.
 
-    - Director | Director | *Chief Executive/Secretary
+- _ | _ | _
 
-    - Notes: (a) Amounts must be expressed in Hong Kong dollars.
+- ( ) | ( ) | ( )
 
-    - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
+- Director | Director | *Chief Executive/Secretary
+
+- Notes: (a) Amounts must be expressed in Hong Kong dollars.
+
+  - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
 
     - (c) This form must be completed on a net basis (i.e. net of reinsurances).
 
@@ -1386,9 +1412,9 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (e) References to outstanding claims provision shall include outstanding claims and claims incurred but not reported. * Delete as necessary.
 
-- (Part 8 added L.N. 391 of 1990)
+- (Replaced 51 of 1999 s. 6(a)) (Part 8 added L.N. 391 of 1990)
 
-PART 9 | [ss. 25A & 25B]
+PART 9 | [sections 20(1A), 25A, 25B & 50C] (Amended 51 of 1999 s. 6(b))
 
 STATEMENT OF ASSETS AND LIABILITIES PURSUANT TO
 
@@ -1542,7 +1568,7 @@ Name of Insurer .
 
 - ↑ Enter N/A in line 41 to line 49 if section 25A(3)(b) is not applicable.
 
-(Part 9 added 26 of 1994 s.7)
+(Part 9 added 26 of 1994 s. 7)
 
 Editorial Note:
 
@@ -1552,8 +1578,14 @@ Editorial Note:
 
 - 2. L.N. 599 of 1995 commenced operation on 29 December 1995.
 
-- 3. Paragraph 4(1) of Part 1 of the Third Schedule, as in force before L.N. 599 of 1995 was enacted, are reproduced below — “4. (1) The accounts and statements to be submitted under Parts 3, 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating the relevant premium income of, and the relevant amount applicable to, the insurer (within the meaning of section 10 of this Ordinance) and whether in the auditor’s opinion the value of the assets of the insurer exceeds its liabilities by that relevant amount, whether proper records have been maintained in accordance with section 16 of this Ordinance and whether the insurer’s balance sheet, revenue account and profit and loss account and (if it is a holding company submitting group accounts) the group accounts have been properly prepared in accordance with the provisions of this Ordinance and whether in his opinion a true and fair view is given— (Amended 26 of 1994 s. 7) (a) in the case of the balance sheet, of the state of the insurer’s affairs as at the end of its financial year; (b) in the case of the revenue account and profit and loss account (if it is not framed as a consolidated revenue account and profit and loss account), of the insurer’s profit or loss for its financial year; (c) in the case of group accounts submitted by an insurer which is a holding company, of the insurer’s interest therein,
+- 3. Paragraph 4(1) of Part 1 of the Third Schedule, as in force before L.N. 599 of 1995 was enacted, are reproduced below— “4. (1) The accounts and statements to be submitted under Parts 3, 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating the relevant premium income of, and the relevant amount applicable to, the insurer (within the meaning of section 10 of this Ordinance) and whether in the auditor’s opinion the value of the assets of the insurer exceeds its liabilities by that relevant amount, whether proper records have been maintained in accordance with section 16 of this Ordinance and whether the insurer’s balance sheet, revenue account and profit and loss account and (if it is a holding company submitting group accounts) the group accounts have been properly prepared in accordance with the provisions of this Ordinance and whether in his opinion a true and fair view is given— (Amended 26 of 1994 s. 7) (a) in the case of the balance sheet, of the state of the insurer’s affairs as at the end of its financial year; (b) in the case of the revenue account and profit and loss account (if it is not framed as a consolidated revenue account and profit and loss account), of the insurer’s profit or loss for its financial year; (c) in the case of group accounts submitted by an insurer which is a holding company, of the insurer’s interest therein,
 
 - but his opinion as to whether a true and fair view is so given may, where the valuation of any asset or liability or the treatment of any income or expenditure of the insurer is in accordance with any statutory provision which, in the case of that insurer, applied to the preparation of the accounts and statements so submitted, be qualified in such respects as he may specify, indicating the items affected by such valuation or treatment and the statutory provisions in question.”.
 
-- ◆ See 35 of 1996 s. 34
+- ◆ See 35 of 1996 s. 34 ##
+
+- 1. Section 6 of the Insurance Companies (Amendment) Ordinance 1999 (51 of 1999) replaced Forms 6, 7, 8 and 9.
+
+- 2. The transitional provision contained in section 9(6) of Ord. No. 51 of 1999 reads as follows:
+
+  - (6) Notwithstanding the repeal and replacement of Forms 6, 7, 8 and 9 in Part 8 of the Third Schedule of the principal Ordinance by section 6 and the Schedule of this Ordinance, an insurer need only supply the additional information required by the replacement forms for one additional year each year for 4 years, by the end of which the insurer shall supply the required information for all 12 years specified in such forms.

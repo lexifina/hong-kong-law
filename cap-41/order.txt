@@ -74,6 +74,12 @@ s-049.md
 s-049A.md
 s-049B.md
 s-050.md
+s-050A.md
+s-050B.md
+s-050C.md
+s-050D.md
+s-050E.md
+s-050F.md
 s-051.md
 s-052.md
 s-053.md
