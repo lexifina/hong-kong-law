@@ -24,7 +24,7 @@ PROCEDURE FOR EXAMINATION FOR A CERTIFICATE OF PROFICIENCY IN SURVIVAL CRAFT AND
 
 - and rescue boats and certificates of proficiency in fast rescue boats
 
-  - (1) Survival craft and rescue boats to be used in the examination must comply with the requirements of the Merchant Shipping (Safety) (Life-Saving Appliances) (Ships Built On or After 1 July 1986) Regulations (Cap. 369 sub. leg.) and the full range of equipment prescribed in those Regulations must be available during the examination.
+  - (1) Survival craft and rescue boats to be used in the examination must comply with the requirements of the Merchant Shipping (Safety) (Life-Saving Appliances) Regulation (Cap. 369 sub. leg. AY) and the full range of equipment prescribed in those Regulations must be available during the examination. (L.N. 160 of 2001)
 
   - (1A) Fast rescue boats to be used in the examination must comply with the requirements of the Guidelines for Fast Rescue Boats adopted by the International Maritime Organization by resolution A.656(16) and the full range of equipment prescribed in those Guidelines must be available during the examination. (L.N. 106 of 1998)
 
