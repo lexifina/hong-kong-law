@@ -1,0 +1,5 @@
+SECURITIES AND FUTURES APPEALS PANEL (FEE) ORDER
+
+(Cap. 24, section 22(4)(a))
+
+[1 April 1994]
