@@ -36,7 +36,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - “election expense agent” (選舉開支代理人) means a person authorized to incur election expenses under section 21;
 
-      - “election expenses” (選舉開支), in relation to a subsector election, has the meaning assigned to it by section 2 of the Corrupt and Illegal Practices Ordinance (Cap. 288);
+      - “election expenses” (選舉開支), in relation to a subsector election, has the meaning assigned to it by section 2 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554); (10 of 2000 s. 47)
 
       - “geographical constituencies final register” (地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under the Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) and which is in effect; (L.N. 284 of 1999)
 
@@ -132,9 +132,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
         - “Returning Officer” is to be construed, in relation to a particular subsector, as the Returning Officer appointed for that subsector; and
 
-      - (b)
-
-        - “subsector” is to be construed, in relation to the sports, performing arts, culture and publication subsector, as including the sub-subsectors constituting that subsector.
+      - (b) “subsector” is to be construed, in relation to the sports, performing arts, culture and publication subsector, as including the sub-subsectors constituting that subsector.
 
     - (4) In this Schedule, any provision which entitles or permits a subsector candidate, an election agent, a polling agent or a counting agent to do anything in a polling station, counting station, counting zone or in relation to the counting of the votes is to be construed as entitling or permitting the candidate or the agent to do it in a polling station, counting station, counting zone or in relation to the counting of the votes for the subsector for which the subsector candidate is standing for election or for which the agent is appointed, as the case may require.
 
@@ -524,7 +522,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
       - (15) For the purposes of this section a copy of an authorization may be delivered by hand or sent by post or facsimile transmission.
 
-    - 22. Returning Officer to make available copies of authorization of election expense agents for public inspection The Returning Officer must make available for public inspection a copy of each of the copies of authorizations received by that Officer under section 21. A copy must be made available for public inspection as soon as practicable after that Officer receives the copy of the authorization and until the end of the period for which the return and declaration of election expenses of the subsector candidate is to be open for inspection under section 29A of the Corrupt and Illegal Practices Ordinance (Cap. 288).
+    - 22. Returning Officer to make available copies of authorization of election expense agents for public inspection The Returning Officer must make available for public inspection a copy of each of the copies of authorizations received by that Officer under section 21. A copy must be made available for public inspection as soon as practicable after that Officer receives the copy of the authorization and until the end of the period for which the copy of the election return lodged by the subsector candidate is available for inspection under section 41 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554). (10 of 2000 s. 47)
 
 - PART 3 CONTESTED SUBSECTOR ELECTIONS
 
@@ -1072,15 +1070,15 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - paper or who has voted
 
-      - (1) If a subsector candidate, an election agent or a polling agent declares to the Presiding Officer that he or she has reasonable cause to believe that a person has committed the offence of personation and undertakes in writing to substantiate the allegation in a court, the Presiding Officer may request a police officer to arrest that person. A subsector candidate or an election agent or a polling agent may so declare only at the time a person applies for the subsector ballot paper or after a person has applied for a subsector ballot paper and before he or she has left the polling station.
+      - (1) If a subsector candidate, an election agent or a polling agent declares to the Presiding Officer that he or she has reasonable cause to believe that a person has engaged in corrupt conduct by impersonation and undertakes in writing to substantiate the allegation in a court, the Presiding Officer may request a police officer to arrest that person. A subsector candidate or an election agent or a polling agent may so declare only at the time a person applies for the subsector ballot paper or after a person has applied for a subsector ballot paper and before he or she has left the polling station.
 
-      - (2) If the Presiding Officer has reason to believe that a person applying for a subsector ballot paper or who has applied for a subsector ballot paper and who has not left the polling station has committed the offence of personation, the Presiding Officer may request a police officer to arrest that person.
+      - (2) If the Presiding Officer has reason to believe that a person applying for a subsector ballot paper or who has applied for a subsector ballot paper and who has not left the polling station has engaged in corrupt conduct by impersonation, the Presiding Officer may request a police officer to arrest that person.
 
       - (3) A person regarding whom a declaration is made under subsection (1) (whether or not that person is arrested under that subsection) or a person who has been arrested under subsection (2) is not to be prevented from voting only by reason of the declaration or the arrest.
 
-      - (4)
+      - (4) In this section, the reference to corrupt conduct by impersonation is to be construed as the corrupt conduct referred to in section 15 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554). (10 of 2000 s. 47)
 
-        - In this section “personation” (冒充行為) has the meaning assigned to it by section 6 of the Corrupt and Illegal Practices Ordinance (Cap. 288).
+    - (10 of 2000 s. 47)
 
     - 49.
 
@@ -1590,7 +1588,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (1) A person who divulges to any other person, by communicating information as to the name or identity document number in a register of voters, or otherwise, whether a person has or has not applied for a subsector ballot paper or voted, commits an offence.
 
-    - (2) Subsection (1) does not apply to anything done for a purpose authorized by law or when required to do so by a police officer or an officer of the Independent Commission Against Corruption investigating an offence under the Corrupt and Illegal Practices Ordinance (Cap. 288), sections 3, 4 and 8 of the Prevention of Bribery Ordinance (Cap. 201), section 13B of the Independent Commission Against Corruption Ordinance (Cap. 204) or the Electoral Affairs Commission Ordinance (Cap. 541) or any regulation made under that Ordinance.
+    - (2) Subsection (1) does not apply to anything done for a purpose authorized by law or when required to do so by a police officer or an officer of the Independent Commission Against Corruption investigating an offence under the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554), sections 3, 4 and 8 of the Prevention of Bribery Ordinance (Cap. 201), section 13B of the Independent Commission Against Corruption Ordinance (Cap. 204) or the Electoral Affairs Commission Ordinance (Cap. 541) or any regulation made under that Ordinance. (10 of 2000 s. 47)
 
     - (3) A person who communicates to any person any information obtained at a count as to the subsector candidate for whom a vote has been given on any particular subsector ballot paper commits an offence.
 
@@ -1710,7 +1708,7 @@ PROCEDURE FOR NOMINATIONS FOR THE RELIGIOUS SUBSECTOR AND SUBSECTOR ELECTIONS
 
     - (10) The subsector candidate must, before he or she displays, distributes or otherwise uses an election advertisement, deposit with the Returning Officer, a copy of the permission or other authorization given or obtained for the purposes of section 104A(1) of the Public Health and Municipal Services Ordinance (Cap. 132).
 
-    - (11) The Returning Officer must make available for inspection by any person a copy each of any declaration, permission or authorization or election advertisement furnished under this section. They must be made available after the declaration, permission or authorization or election advertisement is furnished to the Returning Officer and until the expiry of the period for which returns and declarations of election expenses of candidates are available for inspection under section 29A(1) of the Corrupt and Illegal Practices Ordinance (Cap. 288).
+    - (11) The Returning Officer must make available for inspection by any person a copy each of any declaration, permission or authorization or election advertisement furnished under this section. They must be made available after the declaration, permission or authorization or election advertisement is furnished to the Returning Officer and until the expiry of the period for which copies of election returns lodged by subsector candidates are available for inspection under section 41 of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554). (10 of 2000 s. 47)
 
     - (12) A subsector candidate who fails to comply with any requirement in this section commits an offence.
 

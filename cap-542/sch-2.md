@@ -326,21 +326,19 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - (b) on the date of nomination, is serving a sentence of imprisonment; or
 
-    - (c) without limiting paragraph (a), where the nomination takes place within 3 years from the date of the person’s conviction, is or has been convicted—
+    - (c) without limiting paragraph (a), where the nomination is made within 3 years after the date of the person’s conviction, is or has been convicted—
 
-      - (i) of a corrupt practice or an illegal practice (other than an illegal practice consisting of a contravention of section 19 of the Corrupt and Illegal Practices Ordinance (Cap. 288); or
+      - (i) of having engaged in corrupt or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554); or
 
-      - (ii) of a corrupt and illegal practice within the meaning of any other enactment providing for the punishment of a corrupt or illegal practice; or
+      - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
 
-      - (iii) of any offence under Part II of the Prevention of Bribery Ordinance (Cap. 201); or
-
-      - (iv) of any offence prescribed by the regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); or
+      - (iii) of any offence prescribed by regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); or (Replaced 10 of 2000 s. 47)
 
     - (d) is, in accordance with the Mental Health Ordinance (Cap. 136), found by the Court to be of unsound mind and incapable of managing himself or herself and his or her affairs; or
 
     - (e) is a member of the armed forces of the Central People’s Government or any other country or territory.
 
-  - 6. Application of the Corrupt and Illegal Practices Ordinance The Corrupt and Illegal Practices Ordinance (Cap. 288) applies, with any necessary modifications, to and in relation to the selection and nomination of persons to be members of the Election Committee under section 3 in the same way as it applies to and in relation to elections and so applies as if the persons selected or nominated were candidates at an election.
+  - 6. Application of the Corrupt and Illegal Practices Ordinance The Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) applies, with any necessary modifications, to and in relation to the selection and nomination of persons to be members of the Election Committee under section 3 in the same way as it applies to and in relation to elections and so applies as if the persons selected or nominated were candidates at an election. (Amended 10 of 2000 s. 47)
 
 - PART 3 ELECTION COMMITTEE SUBSECTOR ELECTION
 
@@ -628,15 +626,13 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - (d) on the date of nomination or on the date of the Election Committee subsector election, is serving a sentence of imprisonment; or
 
-      - (e) without limiting paragraph (c), where the Election Committee subsector election is to be held or is held within 3 years from the date of the person’s conviction, is or has been convicted—
+      - (e) without limiting paragraph (c), where the Election Committee subsector election is to be held or is held within 3 years after the date of the person’s conviction, is or has been convicted—
 
-        - (i) of a corrupt practice or an illegal practice (other than an illegal practice consisting of a contravention of section 19 of the Corrupt and Illegal Practices Ordinance (Cap. 288)); or
+        - (i) of having engaged in corrupt or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554); or
 
-        - (ii) of a corrupt and illegal practice within the meaning of any other enactment providing the punishment of a corrupt or illegal practice; or
+        - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
 
-        - (iii) of any offence under Part II of the Prevention of Bribery Ordinance (Cap. 201); or
-
-        - (iv) of any offence prescribed by regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); or
+        - (iii) of any offence prescribed by regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); or (Replaced 10 of 2000 s. 47)
 
       - (f) is, in accordance with the Mental Health Ordinance (Cap. 136), found by the Court to be of unsound mind and incapable of managing himself or herself and his or her affairs; or
 
@@ -718,15 +714,13 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - (c) on the date of the relevant Election Committee subsector election, is serving a sentence of imprisonment; or (Amended 48 of 1999 s. 44)
 
-        - (d) without limiting paragraph (b), where the Election Committee subsector election is to be held or is held within 3 years from the date of the person’s conviction, is or has been convicted—
+        - (d) without limiting paragraph (b), where the Election Committee subsector election is to be held or is held within 3 years after the date of the person’s conviction, is or has been convicted—
 
-          - (i) of a corrupt practice or an illegal practice (other than an illegal practice consisting of a contravention of section 19 of the Corrupt and Illegal Practices Ordinance (Cap. 288)); or
+          - (i) of having engaged in corrupt or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554); or
 
-          - (ii) of a corrupt or an illegal practice within the meaning of any other enactment providing for the punishment of corrupt or illegal practices; or
+          - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
 
-          - (iii) of any offence under Part II of the Prevention of Bribery Ordinance (Cap. 201); or
-
-          - (iv) of any offence prescribed by regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); or
+          - (iii) of any offence prescribed by regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); or (Replaced 10 of 2000 s. 47)
 
         - (e) is, in accordance with the Mental Health Ordinance (Cap. 136), found by the Court to be of unsound mind and incapable of managing himself or herself and his or her affairs; or
 
