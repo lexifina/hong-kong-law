@@ -16,7 +16,7 @@ REPORTING PERIOD:
 
   - (2) This form must be completed in block letters.
 
-  - (3) Where an item is not applicable please write “N/A” PART A: DETAILS OF REGISTERED PERSON □ Dealer □ Investment Adviser □ Commodity □Trading Adviser □ Representative
+  - (3) Where an item is not applicable please write “N/A” PART A: DETAILS OF REGISTERED PERSON □ Dealer □ Investment □ Commodity Trading □ Securities Margin □ Representative Adviser Adviser Financier
 
   - Surname or Given Family Name Name(s) (In the case of corporation, the name of the corporation) | Registered Address | Telephone No | Fax No
 
@@ -28,91 +28,111 @@ REPORTING PERIOD:
 
   - Registration No. | Date of Initial Registration:
 
-  - PART B: TO BE COMPLETED BY ALL REGISTERED PERSONS Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars. * Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
+(L.N. 92 of 2000)
 
-  - Any change? | Changes notified to the Commission?
+PART B: TO BE COMPLETED BY ALL REGISTERED PERSONS
 
-  - Yes | No | Yes | No*
+Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars.
 
-  - 1. | Name
+* Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
 
-  - 2. | Residential Address
+Any change? | Changes notified to the Commission?
 
-  - 3. | Home Telephone No.
+Yes | No | Yes | No*
 
-  - 4. | Business Name
+1. | Name
 
-  - 5. | Business Address/Telephone No./Fax No.
+2. | Residential Address
 
-  - 6. | Address where the register pursuant to Section 67 of the Securities Ordinance (Cap. 333) is kept.
+3. | Residential Telephone No.
 
-  - 7. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been licensed, registered, authorized or permitted to deal in securities/futures or act as investment adviser/commodity trading adviser in any place outside Hong Kong
+4. | Business Name
 
-  - 8. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been refused the right or restricted in the right to carry on any trade, business or profession in Hong Kong or elsewhere
+5. | Business Address/Telephone No./Fax No.
 
-  - 9. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been subject to a bankruptcy petition in Hong Kong or elsewhere whether or not resulting in being adjudicated bankrupt
+6. | Address where the register pursuant to Section 67 of the Securities Ordinance (Cap. 333) is kept.
 
-  - 10. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been a party to a scheme of arrangement or entered into any form of composition with creditors or had a receiver or administrator appointed over his assets/business
+7. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been licensed, registered, authorized or permitted to deal in securities/futures or provide securities margin financing or act as investment adviser/commodity trading adviser in any place outside Hong Kong
 
-  - 11. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been censured or disciplined in any way by any professional body, by any disciplinary tribunal established under any enactment, or by any other regulatory body in relation to his business in Hong Kong or elsewhere
+8. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been refused the right or restricted in the right to carry on any trade, business or profession in Hong Kong or elsewhere
 
-  - 12. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, is the subject of any pending disciplinary actions or proceeding in relation to any trade, business or profession in Hong Kong or elsewhere
+9. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been subject to a bankruptcy petition in Hong Kong or elsewhere whether or not resulting in being adjudicated bankrupt
 
-  - 13. | State whether any judgment with a finding of fraud has been given against the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, in Hong Kong or elsewhere
+10. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been a party to a scheme of arrangement or entered into any form of composition with creditors or had a receiver or administrator appointed over his assets/business
 
-  - 14. | State whether there is any unsatisfied judgment debt outstanding against the registered person, and in the case of a registered person that is a corporation or partnership, against any of its directors/substantial shareholders/partners, in connection with any business conducted by any of those persons in Hong Kong or elsewhere
+11. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been censured or disciplined in any way by any professional body, by any disciplinary tribunal established under any enactment, or by any other regulatory body in relation to his business in Hong Kong or elsewhere
 
-  - 15. | State whether there is any unsatisfied judgment or court order in Hong Kong or elsewhere, against the registered person, and in the case of a registered person that is a corporation or partnership, against any of its directors/substantial shareholders/partners, requiring the payment of damages or other sums of money in relation to any trade or business carried on by any of those persons or in which any of those persons has been concerned
+12. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, is the subject of any pending disciplinary actions or proceeding in relation to any trade, business or profession in Hong Kong or elsewhere
 
-  - 16. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been convicted of any offence, other than a traffic offence, in Hong Kong or elsewhere
+13. | State whether any judgment with a finding of fraud has been given against the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, in Hong Kong or elsewhere
 
-  - (IF YOU ARE REGISTERED AS A REPRESENTATIVE, DO NOT COMPLETE PART C) PART C: TO BE COMPLETED BY DEALERS, INVESTMENT ADVISERS AND COMMODITY TRADING ADVISERS Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars. * Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
+14. | State whether there is any unsatisfied judgment debt outstanding against the registered person, and in the case of a registered person that is a corporation or partnership, against any of its directors/substantial shareholders/partners, in connection with any business conducted by any of those persons in Hong Kong or elsewhere
 
-  - Any change? | Changes notified to the Commission?
+15. | State whether there is any unsatisfied judgment or court order in Hong Kong or elsewhere, against the registered person, and in the case of a registered person that is a corporation or partnership, against any of its directors/substantial shareholders/partners, requiring the payment of damages or other sums of money in relation to any trade or business carried on by any of those persons or in which any of those persons has been concerned
 
-  - Yes | No | Yes | No*
+16. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been convicted of any offence, other than a traffic offence, in Hong Kong or elsewhere
 
-  - 17. | Address(es) of all business premises where the records and documents are kept pursuant to section 27 of the Securities and Futures Commission Ordinance (Cap. 24)
+(IF YOU ARE REGISTERED AS A REPRESENTATIVE OTHER THAN A
 
-  - 18. | Auditor
+DIRECTOR WHO IS APPROVED UNDER SECTION 121I OF
 
-  - 19. | Business bank accounts
+THE SECURITIES ORDINANCE (CAP. 333),
 
-  - 20. | Corporation’s nominal or issued share capital
+DO NOT COMPLETE PART C)
 
-  - 21. | Corporation’s substantial shareholders
+(L.N. 92 of 2000)
 
-  - 22. | State whether there has been any change in the control of the business, other than caused by a change in directors or shareholders in the case of a corporation, or a change in the partners in the case of a partnership
+PART C: TO BE COMPLETED BY DEALERS, INVESTMENT ADVISERS, COMMODITY TRADING ADVISERS, SECURITIES MARGIN FINANCIERS AND SECURITIES MARGIN FINANCIER’S REPRESENTATIVES (WHO ARE DIRECTORS APPROVED UNDER SECTION 121I OF THE SECURITIES ORDINANCE (CAP. 333))
 
-  - 23. | State whether the registered person,and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has—
+Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars.
 
-  - (a) been admitted as an exchange participant/member of a stock or futures/commodities exchange in Hong Kong or elsewhere
+* Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
 
-  - (b) ceased as an exchange participant/member of stock or futures/commodities exchange in Hong Kong or elsewhere
+Any change? | Changes notified to the Commission?
 
-  - 24. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been refused exchange participantship/membership of any stock or futures/commodities exchange in Hong Kong or elsewhere
+Yes | No | Yes | No*
 
-  - 25. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been removed or suspended from exchange participantship/membership of any stock or futures/commodities exchange in Hong Kong or elsewhere
+17. | Address(es) of all business premises where the records and documents are kept pursuant to section 27 of the Securities and Futures Commission Ordinance (Cap. 24)
 
-  - 26. | State whether to the best of your knowledge the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been involved in the management or control of any business in Hong Kong or elsewhere, which is being or has been investigated in relation to any offence involving fraud or dishonesty
+18. | Auditor
 
-  - 27. | State whether to the best of your knowledge the registered person has been investigated by any professional body, any disciplinary tribunal set up under any enactment or by any other regulatory body in relation to his business of dealing in securities or trading in futures or as an investment adviser or a commodity trading adviser, in Hong Kong or elsewhere, except those conducted in the course of normal monitoring and surveillance with no adverse findings
+19. | Business bank accounts
 
-  - 28. | State whether the registered person has been adjudicated by a court in Hong Kong or elsewhere, in connection with the formation or management of any corporation, civilly liable for any fraud, misfeasance or other misconduct towards that corporation or any member thereof, or disqualified by order of such court from being a director, or the equivalent in other jurisdiction
+20. | Corporation’s nominal or issued share capital
 
-  - 29. | State whether the corporation’s or partnership’s affairs have been investigated by an inspector or officer appointed under any enactment
+21. | Corporation’s substantial shareholders
 
-  - 30. | State whether there have been any unsatisfied judgment debts, or judgments or court orders for the payment of damages or other sums of money, made against the corporation or partnership, in Hong Kong or elsewhere
+22. | State whether there has been any change in the control of the business, other than caused by a change in directors or shareholders in the case of a corporation, or a change in the partners in the case of a partnership
 
-  - 31. | State whether there has been any corporation (of which the registered person has been a director) which has been wound up otherwise than by means of a members’ voluntary winding up
+23. | State whether the registered person,and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has—
 
-  - 32. | State whether there has been any firm (of which the registered person has been a partner) which has been dissolved other than voluntarily with the consent of all the partners
+(a) been admitted as an exchange participant/member of a stock or futures/commodities exchange in Hong Kong or elsewhere
 
-  - 33. | State whether there have been any changes in the nature of the registered business or material changes in internal control procedures in the business to ensure compliance with the relevant legislation, regulations or rules
+(b) ceased as an exchange participant/member of stock or futures/commodities exchange in Hong Kong or elsewhere
 
-  - 34. | Provide an updated list of representatives of the business of the registered person, showing their names, registration numbers and dates of commencement of employment
+24. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been refused exchange participantship/membership of any stock or futures/commodities exchange in Hong Kong or elsewhere
 
-(12 of 2000 s. 23)
+25. | State whether the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been removed or suspended from exchange participantship/membership of any stock or futures/commodities exchange in Hong Kong or elsewhere
+
+26. | State whether to the best of your knowledge the registered person, and in the case of a registered person that is a corporation or partnership, any of its directors/substantial shareholders/partners, has been involved in the management or control of any business in Hong Kong or elsewhere, which is being or has been investigated in relation to any offence involving fraud or dishonesty
+
+27. | State whether to the best of your knowledge the registered person has been investigated by any professional body, any disciplinary tribunal set up under any enactment or by any other regulatory body in relation to his business of dealing in securities or trading in futures or as an investment adviser or a commodity trading adviser or a securities margin financier, in Hong Kong or elsewhere, except those conducted in the course of normal monitoring and surveillance with no adverse findings
+
+28. | State whether the registered person has been adjudicated by a court in Hong Kong or elsewhere, in connection with the formation or management of any corporation, civilly liable for any fraud, misfeasance or other misconduct towards that corporation or any member thereof, or disqualified by order of such court from being a director, or the equivalent in other jurisdiction
+
+29. | State whether the corporation’s or partnership’s affairs have been investigated by an inspector or officer appointed under any enactment
+
+30. | State whether there have been any unsatisfied judgment debts, or judgments or court orders for the payment of damages or other sums of money, made against the corporation or partnership, in Hong Kong or elsewhere
+
+31. | State whether there has been any corporation (of which the registered person has been a director) which has been wound up otherwise than by means of a members’ voluntary winding up
+
+32. | State whether there has been any firm (of which the registered person has been a partner) which has been dissolved other than voluntarily with the consent of all the partners
+
+33. | State whether there have been any changes in the nature of the registered business or material changes in internal control procedures in the business to ensure compliance with the relevant legislation, regulations or rules
+
+34. | Provide an updated list of representatives of the business of the registered person, showing their names, registration numbers and dates of commencement of employment
+
+(12 of 2000 s. 23; L.N 92 of 2000)
 
 PART D: SUPPLEMENTARY INFORMATION
 
@@ -132,10 +152,6 @@ PART F: TO BE PROVIDED BY INVESTMENT ADVISERS AND COMMODITY TRADING ADVISERS (ot
 
 - 37. Provide an auditor’s report the profit and loss account, balance sheet and computation of net tangible assets referred to in paragraph 36 WARNING: (1) The accuracy of any statement in annual return may be investigated
 
-- (2) Failure to make a return in accordance with and within the time required by these rule or furnishing inaccurate information in a return may constitute grounds for suspension or revocation of registration under section 56 of the Securities Ordinance (Cap. 333) or section 36 of the Commodities Trading Ordinance (Cap. 250) I certify that the foregoing answers are true and correct to the best of my knowledge and belief. I understand that any misstatement or omission of a material fact may constitute grounds for suspension or revocation of my registration under section 56 of the Securities Ordinance (Cap. 333) or section 36 of the Commodities Trading Ordinance (Cap. 250), and may result in intervention by the Commission under section 38 of the Securities and Futures Commission Ordinance (Cap. 24). Signature:_ Registration No.: _ Name in Block Letters: _ Date: _ R. J. R. OWEN, Chairman,
+- (2) Failure to make a return in accordance with and within the time required by these rule or furnishing inaccurate information in a return may constitute grounds for suspension or revocation of registration under section 56, 121S or 121U of the Securities Ordinance (Cap. 333) or section 36 of the Commodities Trading Ordinance (Cap. 250) I certify that the foregoing answers are true and correct to the best of my knowledge and belief. I understand that any misstatement or omission of a material fact may constitute grounds for suspension or revocation of my registration under section 56, 121S or 121U of the Securities Ordinance (Cap. 333) or section 36 of the Commodities Trading Ordinance (Cap. 250), and may result in intervention by the Commission under section 38 of the Securities and Futures Commission Ordinance (Cap. 24). Signature:_ Registration No.: _ Name in Block Letters: _ Date: _
 
-- Securities and Futures Commission.
-
-- 17 December 1990.
-
-(L.N. 346 of 1993)
+(L.N. 346 of 1993; L.N. 92 of 2000)
