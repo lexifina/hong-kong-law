@@ -8,7 +8,9 @@
 
 # Schedule 1
 
-[ss. 4(1), (2) & 53(2)]
+(L.N. 288 of 1998 amended Schedule 1, Part III, paragraph 1(b), to reduce the duty payable on light diesel oil from $2.89 to $2.00 per litre as from 23 June 1998. Under L.N. 288 of 1998, the reduction in duty would remain in effect until 31 March 1999.)
+
+[ss. 4(1), (2) & 53(2)] (Amended 46 of 1996 s. 32)
 
 - PART I DUTY ON LIQUOR
 
@@ -52,11 +54,11 @@
 
   - (a) | aircraft spirit . | 6.51
 
-  - (b) | light diesel oil . (*Note: Had been amended to 3.06 from 2:30 pm on 18 February 1998 to 3 April 1998. See L.N. 93 of 1998 and 21 of 1998 s. 2) | *2.89
+  - (b) | light diesel oil (Amended L.N. 249 of 1998; L.N. 288 of 1998) . | 2.00
 
-  - (c) | motor spirit (leaded petrol) . (*Note: Had been amended to 7.23 from 2:30 pm on 18 February 1998 to 3 April 1998. See L.N. 93 of 1998 and 21 of 1998 s. 2) | *6.82
+  - (c) | motor spirit (leaded petrol) (Added 2 of 1991 s. 10) . | 6.82
 
-  - (d) | motor spirit (unleaded petrol) . (*Note: Had been amended to 6.42 from 2:30 pm on 18 February 1998 to 3 April 1998. See L.N. 93 of 1998 and 21 of 1998 s. 2) | *6.06
+  - (d) | motor spirit (unleaded petrol) (Added 2 of 1991 s. 10) . | 6.06
 
   - (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; 2 of 1991 s. 10; L.N. 99 of 1991; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 45 of 1994 s. 4; 42 of 1995 s. 2; 32 of 1996 s. 2; L.N. 89 of 1997; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2)
 
