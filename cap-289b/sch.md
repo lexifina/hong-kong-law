@@ -204,4 +204,6 @@ Item | Periods | Rate of interest
 
 100. | On or after 3 January 2000 and before 8 February 2000 (L.N. 332 of 1999; L.N. 41 of 2000) | 4.6667% per annum
 
-101. | On or after 8 February 2000 (L.N. 41 of 2000) | 4.5625% per annum
+101. | On or after 8 February 2000 and before 6 March 2000 (L.N. 41 of 2000; L.N. 54 of 2000) | 4.5625% per annum
+
+102. | On or after 6 March 2000 (L.N. 54 of 2000) | 4.7708% per annum
