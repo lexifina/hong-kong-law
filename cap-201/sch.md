@@ -174,4 +174,6 @@ PUBLIC BODIES
 
 - 85. Electoral Affairs Commission. (Added 129 of 1997 s. 24)
 
-- 86. Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 8) (Replaced L.N. 272 of 1974)
+- 86. Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 8)
+
+- 87. New World First Bus Services Limited. (Added L.N. 239 of 1998) (Replaced L.N. 272 of 1974)
