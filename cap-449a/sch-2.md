@@ -16,4 +16,4 @@ For permission under section 15 of the Ordinance of an amusement ride in— | Fe
 
 Note: | For the purposes of this Schedule, the meaning given categories A, B, C and D in Schedule 1 shall be the meaning given categories A, B, C and D respectively in this Schedule.
 
-(L.N. 60 of 1996; L.N. 29 of 1997)
+(L.N. 60 of 1996; L.N. 29 of 1997; L.N. 18 of 1998; L.N. 133 of 1998)
