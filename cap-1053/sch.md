@@ -1,16 +1,8 @@
 # SCHEDULE
 
-[section 13]
+[s. 13]
 
 STATUTES OF THE UNIVERSITY OF HONG KONG
-
-- (1. The Statutes of the University of Hong Kong (Amendment)(No. 2) Statutes 2003 (L.N. 186 of 2003) shall come into operation on 8 July 2003 to the extent that is necessary to enable the elections of—
-
-  - (a) members of the Council referred to in the provisions marked with an asterisk in Statutes XVIII; and
-
-  - (b) members of the Senate referred to in the provisions marked with an asterisk in Statutes XXII.
-
-- 2. Except as set out in Remarks 1 above, L.N. 186 of 2003 shall come into operation on 1 November 2003.)
 
 ARRANGEMENT OF STATUTES
 
@@ -734,19 +726,19 @@ ARRANGEMENT OF STATUTES
 
     - (b) 6 persons, not being students or employees of the University, appointed by the Council;
 
-    - *(c) 2 persons, not being students or employees of the University, elected by the Court under sub-subparagraph (ba) of Statute XVII;
+    - (c) 2 persons, not being students or employees of the University, elected by the Court under sub-subparagraph (ba) of Statute XVII;
 
     - (d) the Vice-Chancellor;
 
     - (e) the Treasurer;
 
-    - *(f) 4 full-time teachers elected in accordance with regulations;
+    - (f) 4 full-time teachers elected in accordance with regulations;
 
-    - *(g) 1 full-time employee of the University, not being a teacher, elected in accordance with regulations;
+    - (g) 1 full-time employee of the University, not being a teacher, elected in accordance with regulations;
 
-    - *(h) 1 full-time undergraduate student elected in accordance with regulations; and
+    - (h) 1 full-time undergraduate student elected in accordance with regulations; and
 
-    - *(i) 1 full-time postgraduate student elected in accordance with regulations. (L.N. 186 of 2003)
+    - (i) 1 full-time postgraduate student elected in accordance with regulations. (L.N. 186 of 2003)
 
   - 1A. The Registrar shall be the secretary to the Council but shall not be a member thereof. (L.N. 58 of 1976; L.N. 167 of 1992)
 
@@ -924,9 +916,9 @@ ARRANGEMENT OF STATUTES
 
     - (e) the Chairman of each Board of the Faculty;
 
-    - *(f) 12 Professors elected in accordance with regulations;
+    - (f) 12 Professors elected in accordance with regulations;
 
-    - *(g) 6 teachers, not being Professors, elected in accordance with regulations;
+    - (g) 6 teachers, not being Professors, elected in accordance with regulations;
 
     - (h) the Director of the School of Professional and Continuing Education of the University;
 
@@ -936,7 +928,7 @@ ARRANGEMENT OF STATUTES
 
     - (k) the Dean of Student Affairs; and
 
-    - *(l) 3 full-time students, at least one of whom shall be an undergraduate and one of whom shall be a postgraduate, elected in accordance with regulations. (L.N. 186 of 2003)
+    - (l) 3 full-time students, at least one of whom shall be an undergraduate and one of whom shall be a postgraduate, elected in accordance with regulations. (L.N. 186 of 2003)
 
   - 2. The Senate has power to co-opt other members of the University to serve as members of the Senate for such periods as the Senate may determine, provided that at any one time the total number of serving members of the Senate does not exceed 50. (L.N. 186 of 2003)
 
