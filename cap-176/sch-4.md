@@ -12,19 +12,19 @@ Item | Particular | Fee
 
 $
 
-1. | A search either in indexes or in the register books for any given entry over a period not exceeding 5 years, i.e. a particular search . | 120
+1. | A search either in indexes or in the register books for any given entry over a period not exceeding 5 years, i.e. a particular search . | 140
 
-2. | A search either in indexes or in the register books for information other than that concerning any given entry, i.e. a general search . | 590
+2. | A search either in indexes or in the register books for information other than that concerning any given entry, i.e. a general search . | 680
 
-3. | A correction of an error in any register book . | 370
+3. | A correction of an error in any register book . | 425
 
-4. | A certified copy of an entry in any of the register books . but | 120
+4. | A certified copy of an entry in any of the register books . but | 140
 
-if posted to an addressee outside Hong Kong . and | 240
+if posted to an addressee outside Hong Kong . and | 275
 
 if required to be sent by airmail . | an additional amount equal to the airmail postage at the normal rate.
 
-(Replaced L.N. 79 of 1991. Amended L.N. 208 of 1993; L.N. 342 of 1994; L.N. 206 of 1995; L.N. 232 of 1996)
+(Replaced L.N. 79 of 1991. Amended L.N. 208 of 1993; L.N. 342 of 1994; L.N. 206 of 1995; L.N. 232 of 1996; L.N. 436 of 1997)
 
 PART II | [section 12]
 
@@ -50,4 +50,4 @@ Before me,
 
 Registrar
 
-(Replaced L.N. 216 of 1974 Amended L.N. 499 of 1994)
+(Replaced L.N. 216 of 1974. Amended L.N. 499 of 1994)
