@@ -1,0 +1,7 @@
+MERCHANT SHIPPING (TRAWLER SURVEY) REGULATIONS
+
+(Cap. 281, section 94)
+
+[12 February 1973] L.N. 19 of 1973
+
+Note: | Under s. 1(2) of 25 of 1998, the amendment to this enactment by that Ordinance is deemed to have come into operation on 1 July 1997. The aforesaid s. 1(2) is subject to article 12 of the Hong Kong Bill of Rights set out in Part II of Cap. 383.
