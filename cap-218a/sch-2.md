@@ -640,7 +640,7 @@ A LICENCE BY A BODY CORPORATE
 
   - Full name of the controller/director/ secretary/officer in English
 
-  - Full name of the controller/director/ secretary/officer in Chinese characters (in applicable) and code
+  - Full name of the controller/director/ secretary/officer in Chinese characters (if applicable) and code (L.N. 307 of 1998)
 
   - Aliases (if any)
 
@@ -664,7 +664,7 @@ A LICENCE BY A BODY CORPORATE
 
   - Full name of the controller/director/ secretary/officer in English
 
-  - Full name of the controller/director/ secretary/officer in Chinese characters (in applicable) and code
+  - Full name of the controller/director/ secretary/officer in Chinese characters (if applicable) and code (L.N. 307 of 1998)
 
   - Aliases (if any)
 
@@ -710,7 +710,7 @@ A LICENCE BY A BODY CORPORATE
 
     - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
 
-(L.N. 136 of 1996)
+(L.N. 136 of 1996; L.N. 307 of 1998)
 
 FORM 6 | [regulation 13(2)(a)]
 
@@ -1232,7 +1232,7 @@ I hereby certify that in connection with an investigation of _ , a licensed trav
 
 (L.N. 136 of 1996)
 
-FORM 11 | [regulation 16(b)]
+FORM 11 | [ regulation 16(b)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218)
 
@@ -1330,7 +1330,7 @@ NOTES: (1) Section 29(3) of the Ordinance provides that any person who leaves or
 
 (L.N. 136 of 1996)
 
-FORM 14 | [regulation 16(e)]
+FORM 14 | [ regulation 16(e)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR DISCHARGE OF PROHIBITION ORDER
 
@@ -1354,7 +1354,7 @@ I (name of applicant) _ of (address of applicant) _ _apply for discharge of the 
 
 (L.N. 136 of 1996)
 
-FORM 15 | [regulation 16(f)]
+FORM 15 | [ regulation 16(f)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) NOTICE OF INTENTION TO APPLY FOR DISCHARGE OF PROHIBITION ORDER
 

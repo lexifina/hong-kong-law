@@ -4,11 +4,7 @@ FORM 1 | [regs. 11 & 14]
 
 FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR) REGULATIONS LOCK ATTENDANT’S REGISTER
 
-Contractor . Date .
-
-Construction Site . Wet bulk temperature .
-
-Name of lock attendant .
+Contractor . Construction Site . | Date . Wet bulb temperature . Name of lock attendant .
 
 Record all times as a.m. or p.m.
 
@@ -18,9 +14,13 @@ Time of entry into working chamber | Working pressure | Maximum working pressure
 
 Note: The times recorded on this Form must be taken from the clock provided for the use of the man-lock attendant in accordance with regulation 8.
 
+(L.N. 307 of 1998)
+
 FORM 2 | [reg. 11(3)]
 
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR) REGULATIONS COMPRESSED AIR WORKER’S TRANSFER RECORD
+FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR)
+
+REGULATIONS COMPRESSED AIR WORKER’S TRANSFER RECORD
 
 This record is to be retained by the person to whom it is issued. Entries are to be made by the lock attendant who will also make the necessary entries in the lock attendant’s register (Form 1).
 
@@ -34,17 +34,19 @@ FORM 3
 
 [regs. 24, 27 & 28]
 
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR) REGULATIONS COMPRESSED AIR WORKER’S MEDICAL CARD
+FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR)
+
+REGULATIONS COMPRESSED AIR WORKER’S MEDICAL CARD
 
 CONFIDENTIAL
 
-Contract: . Date: .
+Contract: . | Date: .
 
-Full name of worker: . Date of birth: .
+Full name of worker: . | Date of birth: .
 
 Permanent address: .
 
-Employment (this contract): . Recent occupation: active/sedentary
+Employment (this contract): . | Recent occupation: active/sedentary
 
 Previous compressed air experience
 
@@ -74,13 +76,13 @@ Bronchitis | Yes/No | Asthma | Yes/No | Hay fever | Yes/No
 
 Sinusitis | Yes/No | Diabetes | Yes/No | Fits | Yes/No
 
-Ear trouble | Yes/No | Hernia | Yes/No | Yes/No
+Ear trouble | Yes/No | Hernia | Yes/No
 
 Signature .
 
 Medical examination
 
-Height: . Weight .
+Height: . Weight: .
 
 Lungs: . Heart: . Blood pressure: . Ears: .
 
@@ -98,7 +100,9 @@ _
 
 FORM 4 | [regs. 24 & 27]
 
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR) REGULATIONS COMPRESSED AIR WORKER’S DECOMPRESSION SICKNESS CASE SHEET
+FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR)
+
+REGULATIONS COMPRESSED AIR WORKER’S DECOMPRESSION SICKNESS CASE SHEET
 
 Contract: . Date: .
 
@@ -162,7 +166,9 @@ _
 
 FORM 5 | [regs. 24 & 27]
 
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR) REGULATIONS COMPRESSED AIR WORKER’S INDIVIDUAL AIR RECORD
+FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR)
+
+REGULATIONS COMPRESSED AIR WORKER’S INDIVIDUAL AIR RECORD
 
 Contract: .
 
@@ -190,7 +196,9 @@ _
 
 FORM 6 | [regs. 26 & 27]
 
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR) REGULATIONS COMPRESSED AIR HEALTH REGISTER
+FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR)
+
+REGULATIONS COMPRESSED AIR HEALTH REGISTER
 
 - PART I Person to whom this register relates
 
@@ -252,7 +260,9 @@ FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR) REGULATIONS COMPR
 
 - FORM 8 | [reg. 32]
 
-- FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN COMPRESSED AIR) REGULATIONS
+- FACTORIES AND INDUSTRIAL UNDERTAKINGS (WORK IN
+
+- COMPRESSED AIR) REGULATIONS
 
 - (Regulation 32) ADVISORY LEAFLET FOR ISSUE TO PERSONS WHO WORK
 
