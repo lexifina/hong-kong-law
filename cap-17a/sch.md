@@ -1500,7 +1500,7 @@ Appellant(s))
 
 (L.N. 78 of 2002)
 
-FORM 36 | [rule 74(3A)]
+FORM 37 | [rule 74(3A)]
 
 NOTICE OF APPEAL TO LANDS TRIBUNAL AGAINST DETERMINATION
 
@@ -1542,4 +1542,4 @@ AND TENANT (CONSOLIDATION) ORDINANCE Pursuant to section 121(6)
 
 - Note: If you intend to oppose this appeal, you must personally attend at the Lands Tribunal Registry within 14 days of the day of service of this notice, and file a notice of opposition by means of Form 7.
 
-(32 of 2002 s. 40)
+(32 of 2002 s. 40; L.N. 29 of 2004)

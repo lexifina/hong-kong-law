@@ -162,7 +162,7 @@ The motor vehicle was—
 
 - (01) 停泊方式相當可能對道路造成不必要的障礙，或對其他使用該道路的人造成不必要的危險(條例第4條)。
 
-Parked in a mnnner likely to cause an unnecessary obstruction of a road or danger to other persons using the road (section 4).
+Parked in a manner likely to cause an unnecessary obstruction of a road or danger to other persons using the road (section 4).
 
 - (02) 在斑馬綫的範圍內停車(條例第5條)。
 
@@ -242,7 +242,7 @@ Parked in a mnnner likely to cause an unnecessary obstruction of a road or dange
 
 - Parked in a parking space in respect of which there is a parking meter when the meter does not indicate that payment has been made (section 11(1)).
 
-(L.N. 166 of 2001)
+(L.N. 166 of 2001; L.N. 29 of 2004)
 
 通知書號碼： | 表格2
 
@@ -332,7 +332,7 @@ FIXED PENALTY
 
 - Payment should be made according to the instructions set out overleaf.
 
-- 3. 若按照繳款辦法第1(e)段所示方法繳款，本通知書必須保持完整並於繳款時出示。 For payment made in accordance with paragraph 1(e) of the Payment Instructions, this notice mist be kept intact and produced at the time of payment.
+- 3. 若按照繳款辦法第1(e)段所示方法繳款，本通知書必須保持完整並於繳款時出示。 For payment made in accordance with paragraph 1(e) of the Payment Instructions, this notice must be kept intact and produced at the time of payment.
 
 - 通知書號碼： Notice No.: 身分證號碼： I.D. No.: | 編號： Serial Number.: 違例日期： Contravention Date: | 定額罰款： Fixed Penalty: 繳款類別： Payment Type:
 

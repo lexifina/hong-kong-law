@@ -18,4 +18,4 @@ Item Body
 
 - 6. (Repealed 25 of 2003 s. 48)
 
-- 7. Hong Kong Catering Industry Associated Limited. (Added 25 of 2003 s. 48) (Added 48 of 1999 s. 43)
+- 7. Hong Kong Catering Industry Association Limited. (Added 25 of 2003 s. 48. Amended L.N. 29 of 2004) (Added 48 of 1999 s. 43)

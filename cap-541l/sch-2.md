@@ -38,13 +38,15 @@ INDIGENOUS VILLAGE
 
 候選人編號 Candidate Number | 候選人姓名 Name of Candidate | 所得票數 Number of Votes Given to the Candidate
 
-*2. | 特此公布下列候選人 * (依據以抽籤方式決定的選舉結果)當選為上述原居鄉村的原居民代表—— It is hereby notified that the following *candidate(s) *is/are declared to be elected as an Indigenous Inhabitant Representative for the above-mentioned Indigenous Village *(pursuant to a result determined by drawing lots)—
+2. | 特此公布下列候選人 * (依據以抽籤方式決定的選舉結果)當選為上述原居鄉村的原居民代表—— It is hereby notified that the following *candidate(s) *is/are declared to be elected as an Indigenous Inhabitant Representative for the above-mentioned Indigenous Village *(pursuant to a result determined by drawing lots)—
 
 候選人編號 Candidate Number | 當選的候選人姓名 Name of Candidate Elected
 
 *(日期) *(date) | *(選舉主任姓名) *(鄉村名稱)選舉主任 *(Name of Returning Officer) Returning Officer for *(Name of Village)
 
 * Only the appropriate information will be printed.
+
+(L.N. 29 of 2004)
 
 FORM 3 NOTICE OF RESULT OF ELECTION FOR A COMPOSITE
 

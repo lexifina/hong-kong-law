@@ -1,4 +1,4 @@
-# Schedule 2
+# SCHEDULE 2
 
 [s. 5]
 
@@ -18,4 +18,6 @@ Exceeding $600,000,000 but not exceeding $1,200,000,000 | $350,000
 
 Exceeding $1,200,000,000 but not exceeding $2,000,000,000 | $500,000
 
-Exceeding $2,000,000,000 | $500,000, plus 0.1% of the value over $2,000,000,000
+Exceeding $2,000,000,000 | $500,000, plus 0.01% of the value over $2,000,000,000
+
+(L.N. 29 of 2004)
