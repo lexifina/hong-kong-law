@@ -1,0 +1,5 @@
+FUGITIVE OFFENDERS (MALAYSIA) ORDER
+
+(Cap. 503, section 3)
+
+[16 June 2001] L.N. 136 of 2001
