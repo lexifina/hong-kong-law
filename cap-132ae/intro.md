@@ -1,0 +1,5 @@
+FUNERAL PARLOUR (URBAN COUNCIL) BY-LAWS
+
+(Cap. 132 section 123)
+
+[23 December 1960]
