@@ -348,9 +348,9 @@ Financial Secretary | Companies Ordinance (Chapter 32), section 337B(3). (L.N. 3
 
 Financial Secretary | Consumer Council Ordinance (Chapter 216), section 16(1) and (5). (L.N. 111 of 1987)
 
-Financial Secretary | Customs and Excise Service (Welfare Fund) Regulations (Chapter 342 subsidiary legislation A), regulation 8. (L.N. 389 of 1990)
+Financial Secretary | Customs and Excise Service (Welfare Fund) Regulations (Chapter 342 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
 
-Financial Secretary | Fire Services Department (Welfare Fund) Regulations (Chapter 95 subsidiary legislation D), regulation 8. (L.N. 389 of 1990)
+Financial Secretary | Fire Services Department (Welfare Fund) Regulations (Chapter 95 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
 
 Financial Secretary | Government Lotteries Ordinance (Chapter 334). (L.N. 254 of 1973)
 
@@ -364,13 +364,13 @@ Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (C
 
 Financial Secretary | Hong Kong Tourism Board Ordinance (Chapter 302), section 7(d). (3 of 2001 s. 43)
 
-Financial Secretary | Immigration Service (Welfare Fund) Regulations (Chapter 331 subsidiary legislation A), regulation 8. (L.N. 389 of 1990)
+Financial Secretary | Immigration Service (Welfare Fund) Regulations (Chapter 331 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
 
 Financial Secretary | Legal Tender Notes Issue Ordinance (Chapter 65), section 3(2), (3) and (5). (L.N. 258 of 1996)
 
 Financial Secretary | Money Lenders Ordinance (Chapter 163), sections 33A and 33B. (L.N. 160 of 1989)
 
-Financial Secretary | Police (Welfare Fund) Regulations (Chapter 232 subsidiary legislation B), regulation 9. (L.N. 389 of 1990)
+Financial Secretary | Police (Welfare Fund) Regulations (Chapter 232 subsidiary legislation), regulation 9. (L.N. 389 of 1990)
 
 Financial Secretary | Prison Rules (Chapter 234 subsidiary legislation A), rules 263 and 265. (L.N. 389 of 1990)
 
@@ -452,7 +452,7 @@ Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999, L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40 and L.N. 158 of 2002. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999, L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002 and L.N. 192 of 2003. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -477,6 +477,8 @@ L.N. 93 of 2001 | Chief Secretary for Administration | Scout Association of Hong
 5 of 2001 s. 40 | Financial Secretary | Hong Kong Science and Technology Parks Corporation Ordinance (Cap. 565), sections 23(6) and 24.
 
 L.N. 158 of 2002 | Secretary for Education and Manpower | Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). Hong Kong Council for Academic Accreditation Ordinance (Chapter 1150), sections 5(e), (g) and (l), 9(1) and (2), 10, 12, 13(1) and (2) and 17.
+
+L.N. 192 of 2003 | Secretary for Home Affairs | New Territories Ordinance (Chapter 97), sections 15, 16 and 18. Hotel and Guesthouse Accommodation Ordinance (Chapter 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4). New Territories Land (Exemption) Ordinance (Chapter 452), section 12. Sex Discrimination Ordinance (Chapter 480), section 65(3) and Schedule 6 (sections 16(2) and (3) and 17(2)). Personal Data (Privacy) Ordinance (Chapter 486), section 14(6) and Schedule 2 (sections 2(2) and (3) and 3(2)). Heung Yee Kuk Ordinance (Chapter 1097), section 3(2)(c) and First Schedule (paragraph 6) and Second Schedule (paragraph 5(2)).
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 
