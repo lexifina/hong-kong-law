@@ -12,7 +12,7 @@ Item | Description of food
 
 3. | Fresh, frozen or live fish, other than live fish on a fish farm
 
-4. | Fresh, frozen or live poultry, other than live poultry on a poultry farm
+4. | (a) Live water birds, other than live water birds on a poultry farm or in a wholesale market (b) Other live poultry, other than live poultry on a poultry farm or in a wholesale market (c) Fresh or frozen poultry carcass (L.N. 170 of 1998)
 
 5. | Fresh or frozen shell fish, other than shell fish specified in the First Schedule
 
