@@ -1,7 +1,5 @@
 # SCHEDULE FORMS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 FORM 1
 
 (Repealed L.N. 165 of 1994)
@@ -56,13 +54,11 @@ Address | Period of residence
 
 The attached document marked “ “ is a certified copy of my passport.
 
-- (2) I was admitted as a barrister/advocate* in Hong Kong/England/Scotland/Northern Ireland* on the . day of ., 19 . and the attached document marked “ “ is a certified copy of my admission certificate.
+- (2) I was admitted as a barrister in Hong Kong on the . day of ., 19 . and the attached document marked “ “ is a certified copy of my admission certificate.
 
-- (3) The attached document marked “ “ is a certificate from the Bar Council stating that it knows of no reason why I should not be admitted as a solicitor. OR*
+- (3) The attached document marked “ “ is a certificate from the Bar Council stating that it knows of no reason why I should not be admitted as a solicitor.
 
-- The attached documents, one of them marked “ “ and the other marked “ “, are certificates from 2 benchers of the Inns of Court to which I belong or belonged/certificates from 2 members of the Faculty of Advocates in Scotland* stating that I am fit to be a solicitor.
-
-- (4) My name was removed from the roll of barristers/advocates* in Hong Kong/England/Scotland/Northern Ireland* on the . day of ., 19 . and the attached document marked “ “ is a certificate to that effect from the relevant body in that jurisdiction.
+- (4) My name was removed from the roll of barristers in Hong Kong on the . day of ., 19 . and the attached document marked “ “ is a certificate to that effect from the Registrar of the High Court.
 
 - (5) The Law Society of Hong Kong granted me exemption from employment as a trainee solicitor on the . day of ., 19 .
 
@@ -78,7 +74,7 @@ The attached document marked “ “ is a certified copy of my passport.
 
 - Before me, Commissioner for Oaths/Solicitor. * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994)
+(L.N. 466 of 1994; L.N. 321 of 1998)
 
 _
 
@@ -264,7 +260,7 @@ and . of . . (the “Principal”),
 
   - 6. I have complied with the requirements of rule 7 of the Trainee Solicitors Rules (Cap. 159 sub. leg. J) as to the passing of examinations.
 
-  - 7. I confirm that during the period of my employment as a trainee solicitor I have learned in the office of the Principal the following basic skills and characteristics associated with the practice and profession of a solicitor marked “X” in the appropriate box—
+  - 7. I confirm that my most recent trainee solicitor contract was entered into before 1 September 1998, and that during the period of my employment as a trainee solicitor I have learned in the office of the Principal the following basic skills and characteristics associated with the practice and profession of a solicitor marked “X” in the appropriate box— (L.N. 321 of 1998)
 
     - (1) Drafting documents □
 
@@ -272,9 +268,25 @@ and . of . . (the “Principal”),
 
     - (3) Research □
 
-    - (4) Office routines, procedures and costs □
+    - (4) Office routines, procedures and costs □ OR*
 
-  - 8. I confirm that during the period of my employment as a trainee solicitor I have gained reasonable experience in the office of the Principal in at least 3/2* of the following basic legal topics marked “X” in the appropriate box (and in the office of ., another person qualified under section 20 of the Legal Practitioners Ordinance (Cap. 159) to employ a trainee solicitor, in at least 1 of the following basic legal topics marked “Z” in the appropriate box)*—
+    - I confirm that my most recent trainee solicitor contract was entered into on or after 1 September 1998, and that during the period of my employment as a trainee solicitor I have learned in the office of the Principal the principles of professional conduct and the following basic skills associated with the practice and profession of a solicitor marked “X” in the appropriate box—
+
+    - (1) Communication □
+
+    - (2) Practice support □
+
+    - (3) Legal research □
+
+    - (4) Drafting □
+
+    - (5) Interviewing □
+
+    - (6) Negotiation □
+
+    - (7) Advocacy □
+
+  - 8. I confirm that my most recent trainee solicitor contract was entered into before 1 September 1998, and that during the period of my employment as a trainee solicitor I have gained reasonable experience in the office of the Principal in at least 3/2* of the following basic legal topics being those marked “X” in the appropriate box (and in the office of ., another person qualified under section 20 of the Legal Practitioners Ordinance (Cap. 159) to employ a trainee solicitor, in at least 1 of the following basic legal topics being that/those* marked “Z” in the appropriate box)*—
 
     - (1) Conveyancing □
 
@@ -290,9 +302,35 @@ and . of . . (the “Principal”),
 
     - (7) Trade Marks, Patents, Copyrights □
 
-    - (8) Such other legal topic as may be determined from □ time to time by the Society
+    - (8) Such other legal topic as may be determined from □
 
-  - 9. I have complied with the requirements of the Continuing Professional Development Scheme. (L.N. 627 of 1997)
+  - time to time by the Society
+
+  - OR*
+
+  - I confirm that my most recent trainee solicitor contract was entered into on or after 1 September 1998, and that during the period of my employment as a trainee solicitor I have gained proper training and experience in the office of the Principal in at least 3/2* of the following basic legal topics being those marked “X” in the appropriate box (and in the office of ., another person qualified under section 20 of the Legal Practitioners Ordinance (Cap. 159) to employ a trainee solicitor, in at least 1 of the following basic legal topics being that/those* marked “Z” in the appropriate box)*—
+
+    - (1) Banking □
+
+    - (2) Civil litigation □
+
+    - (3) Commercial □
+
+    - (4) Company □
+
+    - (5) Criminal litigation □
+
+    - (6) Family □
+
+    - (7) Insolvency □
+
+    - (8) Intellectual property □
+
+    - (9) Property □
+
+    - (10) Trusts, Wills and Probate □
+
+  - 9. I have complied with the requirements of the Continuing Professional Development Scheme.
 
 - (b) AND I, the Principal for myself say as follows—
 
@@ -326,11 +364,11 @@ and . of . . (the “Principal”),
 
 - THIRD SCHEDULE
 
-- Period of absence | With/without consentof Principal | Reasons
+- Period of absence | With/without consent of Principal | Reasons
 
 - Note: Where the Trainee Solicitor has been employed under two or more trainee solicitor contracts, each person employing him shall make a separate declaration. * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998)
 
 FORM 5 | [rules 4, 8 & 11]
 
