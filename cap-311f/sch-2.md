@@ -10,7 +10,7 @@ THE AIR POLLUTION CONTROL ORDINANCE
 
 To: The Authority
 
-- 1. I/We* the undersigned hereby apply under section 14 of the Air Pollution Control Ordinance for a licence for the conduct of the undermentioned specified process and I/we* hereby declare that the following particulars and the additional information, if any, provided are correct and the relevant plans and specifications are prepared by the qualified engineer(s)/authorized person(s) listed in paragraph 3 of the application. I/We* enclose the application fee of $100. This application, including plans and specifications, comprises . pages. Dated this . day of . 19 . . Signature of Applicant . Name .
+- 1. I/We* the undersigned hereby apply under section 14 of the Air Pollution Control Ordinance for a licence for the conduct of the undermentioned specified process and I/we* hereby declare that the following particulars and the additional information, if any, provided are correct and the relevant plans and specifications are prepared by the qualified engineer(s)/authorized person(s) listed in paragraph 3 of the application. I/We* enclose the application fee of $ . as prescribed in the Third Schedule to these regulations. This application, including plans and specifications, comprises . pages. Dated this . day of . 19 . . Signature of Applicant . Name .
 
 - 2. Details of Owner(s)+
 
@@ -160,7 +160,7 @@ CONTROL ORDINANCE
 
 To: The Authority
 
-- 1. I/We* the undersigned, being the licence/exemption* holder of the undermentioned licence/exemption*, hereby apply under Section 18/23* of the Air Pollution Control Ordinance for the variation of a licence/variation or cancellation of a term or condition of an exemption* for the conduct of the undermentioned specified process and I/we* hereby declare the following particulars and the additional information, if any, provided are correct and the relevant plans and specifications are prepared by the qualified engineer(s)/authorized person(s) listed in paragraph 3 of this application. I/We* enclose the application fee of $100. This application, including plans and specifications, comprises . pages. Dated this . day of . 19 . . Signature of Applicant . Name .
+- 1. I/We* the undersigned, being the licence/exemption* holder of the undermentioned licence/exemption*, hereby apply under Section 18/23* of the Air Pollution Control Ordinance for the variation of a licence/variation or cancellation of a term or condition of an exemption* for the conduct of the undermentioned specified process and I/we* hereby declare the following particulars and the additional information, if any, provided are correct and the relevant plans and specifications are prepared by the qualified engineer(s)/authorized person(s) listed in paragraph 3 of this application. I/We* enclose the application fee of $ . as prescribed in the Third Schedule to these regulations. This application, including plans and specifications, comprises . pages. Dated this . day of . 19 . . Signature of Applicant . Name .
 
 - 2. Details of Owner(s)+
 
@@ -230,7 +230,9 @@ To: The Authority
 
 - * Expressed as at standard temperature and pressure of 0℃ and 101.325 kPa.
 
-- (b) Proposed Variation
+- (b)
+
+- Proposed Variation
 
 - Emis— sion Point No. | Exhaust Gas Flowrate (m3/h) | Mode of Discharge to Atmosphere | Highest Building/ Structure within 100m of the Premises
 
@@ -286,7 +288,7 @@ To: The Authority
 
 - 1. We the undersigned, being the licence holder and the prospective transferee of the undermentioned licence, hereby apply jointly under section 18A of the Air Pollution Control Ordinance for the transfer of the licence for the conduct of the undermentioned specified process and we hereby declare that the particulars of the undermentioned specified process,
 
-- including any chimney and relevant plant, nature and emission of any air pollutant, the fuel usage, raw materials and products are substantially unchanged and that the following particulars provided are correct. We enclose the application fee of $100. Dated this . day of . 19 . . Signature of Applicant (i) . Licence Holder Name . (ii) . Prospective Transferee Name .
+- including any chimney and relevant plant, nature and emission of any air pollutant, the fuel usage, raw materials and products are substantially unchanged and that the following particulars provided are correct. We enclose the application fee of $ . as prescribed in the Third Schedule to these regulations. Dated this . day of . 19 . . Signature of Applicant (i) . Licence Holder Name . (ii) . Prospective Transferee Name .
 
 - 2. Details of the Transferee
 
