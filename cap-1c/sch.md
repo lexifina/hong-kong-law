@@ -96,14 +96,6 @@ Commissioner for Labour | Pneumoconiosis (Compensation) Ordinance (Chapter 360).
 
 Commissioner for Securities | Securities Ordinance (Chapter 333). (L.N. 27 of 1982)
 
-Commissioner for Transport | Cross-Harbour Tunnel Ordinance (Chapter 203). (L.N. 315 of 1985)
-
-Commissioner for Transport | Cross-Harbour Tunnel Regulations (Chapter 203 subsidiary legislation). (L.N. 405 of 1990)
-
-Commissioner for Transport | Cross-Harbour Tunnel By-laws (Chapter 203 subsidiary legislation). (L.N. 405 of 1990)
-
-Commissioner for Transport | Cross-Harbour Tunnel (Passage Tax) Ordinance (Chapter 274). (L.N. 405 of 1990)
-
 Commissioner for Transport | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 405 of 1990)
 
 Commissioner for Transport | Eastern Harbour Crossing Road Tunnel Regulations (Chapter 215 subsidiary legislation). (L.N. 405 of 1990)
@@ -470,7 +462,7 @@ Secretary for Transport | Roads (Works, Use and Compensation) Ordinance (Chapter
 
 Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999)
 
 Editorial Note:
 

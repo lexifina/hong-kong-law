@@ -66,17 +66,7 @@ Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A)
 
 22 | Regulation 18(4) | Driving in excess of the speed limit referred to in item 20 by more than 45 kilometres an hour | 8
 
-Cross-Harbour Tunnel By-laws (Cap. 203 sub. leg.)
-
-23 | By-law 8 | Driving in excess of speed limit by more than 15 kilometres an hour, other than where item 24 or 25 applies | 3
-
-24 | By-law 8 | Driving in excess of speed limit by more than 30 kilometres an hour, other than where item 25 applies | 5
-
-25 | By-law 8 | Driving in excess of speed limit by more than 45 kilometres an hour | 8
-
-26 | By-law 9(1)(a) | Crossing continuous double lines | 3
-
-27 | By-law 9(1)(aa) | Crossing a continuous line with a broken line | 3
+23 - 27 | (Repealed L.N. 198 of 1999)
 
 Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E)
 

@@ -40,13 +40,13 @@ OFFENCES TO WHICH DEFENDANT MAY PLEAD GUILTY BY LETTER
 
 - (Added L.N. 58 of 1965)
 
-- 6. Cross-Harbour Tunnel Any offence against the Cross-Harbour Tunnel By-laws (Cap. 203 sub. leg.). (Added L.N. 28 of 1974)
+- 6. (Repealed L.N. 198 of 1999)
 
 - 7. Government Tunnels Any offence against the Road Tunnels (Government) Regulations (Cap. 368 sub. leg.). (Replaced L.N. 151 of 1989)
 
 - 8. Hong Kong Airport Any offence against regulation 4, 11, 17, 19A, 20, 23, 24, 25 or 26 of the Hong Kong Airport (Traffic) Regulations (Cap. 292 sub. leg.). (Added L.N. 131 of 1979)
 
-- 9. Immigration An offence against section 17C(3) of theImmigration Ordinance (Cap. 115). (Added L.N. 317 of 1980)
+- 9. Immigration An offence against section 17C(3) of the Immigration Ordinance (Cap. 115). (Added L.N. 317 of 1980)
 
 - 10. Registration of Persons An offence against regulation 11(2A) of the Registration of Persons Regulations (Cap. 177 sub. leg.). (Added L.N. 317 of 1980)
 
@@ -68,16 +68,16 @@ OFFENCES TO WHICH DEFENDANT MAY PLEAD GUILTY BY LETTER
 
 - (Added L.N. 356 of 1997)
 
-- 17. Tai Lam Tunnel and Yuen Long Approach Road
+- 17.
+
+- Tai Lam Tunnel and Yuen Long Approach Road
 
 - Any offence against the Tai Lam Tunnel and Yuen Long Approach Road Bylaw (Cap. 474 sub. leg.).
 
 - (Added 29 of 1999 s. 2) (Third Schedule added 55 of 1961 s. 4)
 
-________________
+- -
 
-Editorial Note:
+- * Repealed-See L.N. 220 of 1986
 
-* Repealed-See L.N. 220 of 1986
-
-+ Repealed-See L.N. 292 of 1983
+- + Repealed-See L.N. 292 of 1983

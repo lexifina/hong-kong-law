@@ -14,7 +14,7 @@ PUBLIC BODIES
 
 - 5. Hong Kong Arts Development Council. (Added 26 of 1995 s. 19)
 
-- 6. Cross-Harbour Tunnel Company Limited.
+- 6. (Repealed L.N. 198 of 1999)
 
 - 7. Fish Marketing Organization.
 
