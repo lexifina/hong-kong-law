@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 [rule 2]
 
 FEES
@@ -10,7 +8,7 @@ Item | Particular | Fee $
 
 Filing of Claim and Summons
 
-1. | Filing of claim— where the claim does not exceed $1,000 . where the claim exceeds $1,000 but does not exceed $5,000 . where the claim exceeds $5,000 but does not exceed $10,000 . where the claim exceeds $10,000 but does not exceed $15,000 . | 20 40 70 120
+1. | Filing of claim— where the claim does not exceed $3,000 . where the claim exceeds $3,000 but does not exceed $17,000 . where the claim exceeds $17,000 but does not exceed $33,000 . where the claim exceeds $33,000 but does not exceed $50,000 (28 of 1999 s. 18) . | 20 40 70 120
 
 2. | Summons and copy including service, each witness . | 33
 

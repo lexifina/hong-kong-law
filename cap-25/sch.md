@@ -34,12 +34,16 @@
 
 - other than a claim specified in the Schedule to the Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Amended 61 of 1994 s. 48)
 
-- 6. Notwithstanding paragraphs 1, 2, 4 and 5, the tribunal shall have jurisdiction to hear and determine a claim transferred to the tribunal under section 8(3) of the Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Added 61 of 1994 s. 48)
+- 6. Notwithstanding paragraphs 1, 2, 4 and 5, the tribunal shall have jurisdiction to hear and determine a claim transferred to the tribunal under section 8(3) of the Minor Employment Claims Adjudication Board Ordinance (Cap. 453) or section 7 or 10 of the Small Claims Tribunal Ordinance (Cap. 338). (Added 61 of 1994 s. 48. Amended 28 of 1999 s. 18)
 
 - 7. A claim for remedies under Part VIA of the Employment Ordinance (Cap. 57). (Added 75 of 1997 s. 6)
 
 - *8. (Repealed 135 of 1997 s. 4)
 
-- **9. (Repealed 135 of 1997 s. 14) - * This paragraph was added by 98 of 1997. As to the suspension of operation of 98 of 1997, please see s. 5(1) and (2) of Cap. 538. On 31 October 1997, that s. 5(1) and (2), to the extent that it was in effect immediately before 31 October 1997, ceased to have effect. Please see s. 4(2) of 135 of 1997.
+- **9. (Repealed 135 of 1997 s. 14)
 
-- ** This paragraph was added by 101 of 1997. As to the suspension of operation of 101 of 1997, please see s. 4(1) and (2) of Cap. 538. On 31 October 1997, that s. 4(1) and (2), to the extent that it was in effect immediately before 31 October 1997, ceased to have effect. Please see s. 14(2) of 135 of 1997.
+Editorial Note:
+
+* This paragraph was added by 98 of 1997. As to the suspension of operation of 98 of 1997, please see s. 5(1) and (2) of Cap. 538. On 31 October 1997, that s. 5(1) and (2), to the extent that it was in effect immediately before 31 October 1997, ceased to have effect. Please see s. 4(2) of 135 of 1997.
+
+** This paragraph was added by 101 of 1997. As to the suspension of operation of 101 of 1997, please see s. 4(1) and (2) of Cap. 538. On 31 October 1997, that s. 4(1) and (2), to the extent that it was in effect immediately before 31 October 1997, ceased to have effect. Please see s. 14(2) of 135 of 1997.
