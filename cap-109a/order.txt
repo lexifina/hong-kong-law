@@ -115,4 +115,5 @@ s-103.md
 s-103A.md
 s-104.md
 s-105.md
+s-106.md
 sch.md
