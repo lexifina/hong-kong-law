@@ -4,12 +4,6 @@
 
 CONSTITUENCIES OF DISTRICTS
 
-(This schedule shall—
-
-- (a) come into operation on 10 July 2003 for the purpose only of enabling arrangements to be made for the holding of the District Council ordinary election in 2003; and
-
-- (b) in so far as it has not come into operation under paragraph (a), come into operation on 1 January 2004.)
-
 Item | Name of District | Delineation of Area | Name of Constituency
 
 1. | Central and Western District | (1) That area delineated by the relevant constituency boundary on the approved map identified as Plan No. DCCA/R/2003/A and marked with the code A01. | Chung Wan
