@@ -1,0 +1,5 @@
+DISTRICT COURT SUITORS’ FUNDS RULES
+
+(Cap. 336, section 73)
+
+[22 June 1973]
