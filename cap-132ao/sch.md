@@ -120,8 +120,6 @@ Tai Kok Tsui Temporary Market | 大角咀臨時街市 | -
 
 Tai Shing Street Market | 大成街街市 | -
 
-Tai Shing Street Temporary Market | 大成街臨時街市 | -
-
 To Kwa Wan Market | 土瓜灣街市 | -
 
 Tsun Yip Cooked Food Market | 駿業熟食市場 | -
@@ -134,4 +132,4 @@ Yau Ma Tei Market | 油蔴地街市 | Yaumati Market
 
 Yuen Ling Market | 元嶺街市 | -
 
-(L.N. 182 of 1995; L.N. 595 of 1995; L.N. 45 of 1996; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 159 of 1997)
+(L.N. 182 of 1995; L.N. 595 of 1995; L.N. 45 of 1996; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 159 of 1997; L.N. 189 of 1998)
