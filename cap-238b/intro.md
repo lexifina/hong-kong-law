@@ -1,0 +1,5 @@
+FIREARMS AND AMMUNITION (STORAGE FEES) ORDER
+
+(Cap. 238 section 46(2))
+
+[1 September 1981]
