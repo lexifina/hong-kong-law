@@ -4,7 +4,7 @@
 
 CONDITIONS OF ISSUE OF A DRIVING INSTRUCTOR’S LICENCE
 
-- 1. A driving instructor’s licence is valid only while the holder is in possession of a valid full driving licence to drive the class of vehicle mentioned in the driving instructor’s licence.
+- 1. A driving instructor’s licence is valid only while the holder is in possession of a valid full driving licence to drive all those classes of motor vehicles in the group for which he is entitled by the driving instructor’s licence to give driving instruction. (L.N. 161 of 2000)
 
 - 2. A driving instructor shall comply with all the regulations and conditions relating to the learner’s driving licence of the person he is instructing.
 
