@@ -1,0 +1,5 @@
+FOOD BUSINESS (URBAN COUNCIL) BY-LAWS (EXEMPTION FROM BY-LAW 32(1)) (CONSOLIDATION) NOTICE
+
+(Food Business (Urban Council) By-laws, by law 32(7))
+
+[15 December 1978]
