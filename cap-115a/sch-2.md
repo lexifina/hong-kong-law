@@ -4,17 +4,15 @@
 
 FEES PAYABLE UNDER THE ORDINANCE
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2)
-
 Item | Document or Circumstance | Fee $
 
-1. | Seaman’s identity book (whether of full or restricted validity) (L.N. 331 of 1994; L.N. 193 of 1995; L.N. 228 of 1996) . | 185
+1. | Seaman’s identity book (whether of full or restricted validity) (L.N. 193 of 1992) . | 185
 
 2. | (Repealed L.N. 193 of 1992)
 
-3. | Seaman’s certificate of nationality and identity (L.N. 331 of 1994; L.N. 193 of 1995; L.N. 228 of 1996) . | 170
+3. | Seaman’s certificate of nationality and identity . | 170
 
-4. | Renewal of a seaman’s certificate of nationality and identity (L.N. 331 of 1994; L.N. 193 of 1995; L.N. 228 of 1996) . | 35
+4. | Renewal of a seaman’s certificate of nationality and identity . | 35
 
 5. | Ordinary visa . | 135
 
@@ -22,11 +20,11 @@ Item | Document or Circumstance | Fee $
 
 7. | Change of conditions of stay or extension of limit of stay . | 135
 
-8. | Hong Kong Certificate of Identity (whether of full or restricted validity)— (a) 44-page certificate . (b) 92-page certificate (L.N. 331 of 1994) . | 270 540
+8. | Hong Kong Certificate of Identity (whether of full or restricted validity)— (a) 44-page certificate . (b) 92-page certificate . | 270 540
 
-9. | Multiple re-entry permit (whether of full or restricted validity) (L.N. 331 of 1994; L.N. 193 of 1995; L.N. 228 of 1996) . | 120
+9. | Multiple re-entry permit (whether of full or restricted validity) . | 120
 
-10. | Re-entry permit valid for 1 visit (L.N. 331 of 1994; L.N. 193 of 1995; L.N. 228 of 1996) . | 40
+10. | Re-entry permit valid for 1 visit . | 40
 
 11. | (Repealed L.N. 202 of 1993)
 
@@ -40,13 +38,13 @@ Item | Document or Circumstance | Fee $
 
 16. | Entry permit for multiple entries and valid for 1 year. | 270
 
-17. | Entry permit for multiple entries and valid for 3 years (L.N. 516 of 1996) | 540
+17. | Entry permit for multiple entries and valid for 3 years . | 540
 
-18. | Endorsement to a travel document for which no specific fee is provided (L.N. 331 of 1994; L.N. 193 of 1995; L.N. 228 of 1996) . | 145
+18. | Endorsement to a travel document for which no specific fee is provided . | 145
 
-19. | Service charge for supplying, on application, a copy of any document, or for making or forwarding, or both, a request or recommendation to any authority of a foreign state, for consular or nationality registration or for the issue or renewal of a passport or other travel document or of a document of identity or for the grant of a visa or entry permit (L.N. 331 of 1994; L.N. 193 of 1995; L.N. 228 of 1996; 23 of 1998 s. 2) . | 155
+19. | Service charge for supplying, on application, a copy of any document, or for making or forwarding, or both, a request or recommendation to any authority of a foreign state, for consular or nationality registration or for the issue or renewal of a passport or other travel document or of a document of identity or for the grant of a visa or entry permit (23 of 1998 s. 2) . | 155
 
-20. | Document of identity valid for 7 years— (a) 44-page document . (b) 92-page document (L.N. 331 of 1994) . | 260 525
+20. | Document of identity valid for 7 years— (a) 44-page document . (b) 92-page document . | 260 525
 
 21. | An application fee payable by an applicant for an application for a quota allocation under a scheme to import managers and professional persons (L.N. 137 of 1994) . | 500
 
@@ -54,4 +52,6 @@ Item | Document or Circumstance | Fee $
 
 23. | Travel pass valid for not more than 3 years (L.N. 593 of 1997) . | 500
 
-(L.N. 69 of 1991; L.N. 193 of 1992; L.N. 202 of 1993; L.N. 432 of 1997)
+24. | Additional fee for delivering a seaman’s identity book or a document of identity to a place outside Hong Kong— (a) by double registered airmail . (b) by express despatch service— (i) Asia-Pacific . (ii) North America and Europe . (iii) Other places (L.N. 318 of 1998) . | 45 115 170 335
+
+(L.N. 69 of 1991; L.N. 202 of 1993; L.N. 331 of 1994; L.N. 193 of 1995; L.N. 228 of 1996; L.N. 516 of 1996; L.N. 432 of 1997)
