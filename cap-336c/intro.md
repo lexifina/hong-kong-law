@@ -1,0 +1,5 @@
+DISTRICT COURT CIVIL PROCEDURE (FEES) RULES
+
+(Cap. 336, section 72)
+
+[25 March 1988]
