@@ -1,0 +1,3 @@
+# Schedule 3
+
+(Repealed 112 of 1997 s. 18)
