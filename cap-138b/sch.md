@@ -10,7 +10,9 @@ THE POISONS LIST
 
 - Acebutolo; its salts
 
-- Acetanilide; alkyl acetanilides Acetohexamide
+- Acetanilide; alkyl acetanilides
+
+- Acetohexamide
 
 - Acetorphine; its salts; its esters and ethers; their salts
 
@@ -20,9 +22,13 @@ THE POISONS LIST
 
 - Acipimox; its salts
 
+- Acitretin; its salts; its esters
+
 - Alclofenac; its complexes
 
 - Alcuronium; its salts
+
+- Alendronic acid; its salts
 
 - Alfuzosin; its salts
 
@@ -112,7 +118,9 @@ THE POISONS LIST
 
 - Alphadolone; its esters
 
-- Alphaxalone Alprenolol; its salts
+- Alphaxalone
+
+- Alprenolol; its salts
 
 - Alteplase
 
@@ -121,6 +129,8 @@ THE POISONS LIST
 - Amantadine; its salts
 
 - Amidopyrine; its salts
+
+- Amifostine; its salts
 
 - Amiloride; its salts
 
@@ -133,6 +143,8 @@ THE POISONS LIST
 - para-Aminobenzoic acid, esters of; their salts
 
 - Aminoglutethimide
+
+- Aminophylline; its salts
 
 - Aminopterin; its derivatives
 
@@ -173,6 +185,8 @@ THE POISONS LIST
 - Antazoline
 
 - Astemizole
+
+- Azelastine
 
 - Bromodiphenhydramine
 
@@ -326,6 +340,8 @@ THE POISONS LIST
 
 - Butylchloral hydrate
 
+- Cabergoline; its salts
+
 - Calcipotriol; its salts
 
 - Cannabinol and its tetrahydro derivatives; their 3-alkyl homologues; any ester or ether of any substance falling within this item
@@ -406,6 +422,8 @@ THE POISONS LIST
 
 - Citalopram; its salts
 
+- Cladribine
+
 - Clioquinol
 
 - Clobazam
@@ -444,7 +462,13 @@ THE POISONS LIST
 
 - Diatrizoic acid
 
+- Gadodiamide
+
 - Gadopentetic acid
+
+- Gadoteric acid
+
+- Iobitridol
 
 - Iocarmic acid
 
@@ -455,6 +479,8 @@ THE POISONS LIST
 - Iodipamide
 
 - Iodised oil
+
+- Iodixanol
 
 - Iodoxamic acid
 
@@ -477,6 +503,8 @@ THE POISONS LIST
 - Iotrolan
 
 - Iotroxic acid
+
+- Ioversol
 
 - Ioxaglic acid
 
@@ -592,7 +620,13 @@ THE POISONS LIST
 
 - Dobutamine; its salts
 
+- Docetaxel; its salts
+
 - Dopamine; its salts
+
+- Dornase alfa
+
+- Dorzolamide; its salts
 
 - Dothiepin; its salts
 
@@ -732,15 +766,21 @@ THE POISONS LIST
 
 - Fluvoxamine; its salts
 
+- Formestane
+
 - Formoterol; its salts
 
 - Foscarnet Trisodium Hexahydrate
 
 - Fosinopril; its salts
 
+- Fotemustine; its salts
+
 - Frusemide
 
 - Furethidine; its salts
+
+- Gabapentin; its salts
 
 - Gallamine; its salts; its quatemary compounds
 
@@ -830,7 +870,11 @@ THE POISONS LIST
 
 - Ifosfamide
 
+- Iloprost; its salts
+
 - Imipramine; its salts
+
+- Indinavir; its salts
 
 - Indomethacin; its salts
 
@@ -916,7 +960,11 @@ THE POISONS LIST
 
 - Lonazolac; its salts
 
+- Loracarbef; its salts
+
 - Lorcainide; its salts
+
+- Losartan; its salts
 
 - Lovastatin
 
@@ -973,6 +1021,8 @@ THE POISONS LIST
 - Mercaptopurine; its salts; its derivatives; their salts
 
 - Mercury, nitrates of; organic compounds of; oxides of; mercuric ammonium chloride; mercuric chloride; mercuric iodide; mercuric oxycyanide; mercuric thiocyanate; potassiomercuric iodides
+
+- Meropenem; its salts
 
 - Mescaline; its salts; other derivatives of phenethylamine formed by substitution in the aromatic ring; their salts
 
@@ -1044,6 +1094,8 @@ THE POISONS LIST
 
 - Minoxidil
 
+- Mirtazapine; its salts
+
 - Mitobronitol
 
 - Mitopodozide; its salts
@@ -1086,6 +1138,8 @@ THE POISONS LIST
 
 - Naloxone; its salts
 
+- Naltrexone; its salts
+
 - alpha-Naphthylacetic acid; its salts
 
 - Naproxen; its salts
@@ -1103,6 +1157,8 @@ THE POISONS LIST
 - Nifenazone
 
 - Niflumic Acid; its salts
+
+- Nilvadipine
 
 - Nimodipine
 
@@ -1136,6 +1192,8 @@ THE POISONS LIST
 
 - Omeprazole
 
+- Omoconazole; its salts
+
 - Ondansetron; its salts
 
 - Opipramol; its salts; its derivatives; their salts
@@ -1155,6 +1213,8 @@ THE POISONS LIST
 - Oxalic acid; its salts other than quadroxalates
 
 - Oxanamide
+
+- Oxcarbazepine; its salts
 
 - Oxethazaine; its salts
 
@@ -1184,6 +1244,8 @@ THE POISONS LIST
 
 - Pancuronium; its salts
 
+- Pantoprazole; its salts
+
 - Paraldehyde
 
 - Paramethadione
@@ -1201,6 +1263,8 @@ THE POISONS LIST
 - Penbutolol; its salts
 
 - Penicillamine; its salts
+
+- Pentaerythritol tetranitrate
 
 - Pentazocine; its salts
 
@@ -1344,9 +1408,13 @@ THE POISONS LIST
 
 - Protriptyline; its salts; its derivatives; their salts
 
+- Pseudoephedrine; its salts
+
 - Pyrazinamide
 
 - Pyrithyldione
+
+- Quinagolide; its salts
 
 - Quinapril; its salts
 
@@ -1372,6 +1440,10 @@ THE POISONS LIST
 
 - Ritodrine; its salts
 
+- Ritonavir; its salts
+
+- Rocuronium; its salts
+
 - Rosoxacin; its salts
 
 - Salbutamol; its salts
@@ -1390,9 +1462,13 @@ THE POISONS LIST
 
 - Sotalol; its salts
 
+- Sparfloxacin; its salts; its esters
+
 - Sparteine; its salts
 
 - Spironolactone
+
+- Stavudine; its salts
 
 - Strophanthus, glycosides of
 
@@ -1419,6 +1495,8 @@ THE POISONS LIST
 - Suxamethonium; its salts
 
 - Syrosingopine
+
+- Tacrine; its salts
 
 - Tamoxifen; its salts
 
@@ -1448,6 +1526,8 @@ THE POISONS LIST
 
 - Theofibrate
 
+- Theophylline; its salts
+
 - Thiacetazone
 
 - Thiocarlide; its salts
@@ -1470,6 +1550,8 @@ THE POISONS LIST
 
 - Tioconazole; its salts
 
+- Tizanidine; its salts
+
 - Tocainide; its salts
 
 - Todralazine; its salts
@@ -1488,13 +1570,19 @@ THE POISONS LIST
 
 - para-Tolylmethylcarbinol nicotinic acid ester
 
+- Torasemide
+
 - Tramadol; its salts
+
+- Trandolapril; its salts
 
 - Tranylcypromine; its salts
 
 - Trazodone; its salts
 
 - Tretamine; its salts
+
+- Tretinoin
 
 - Triamterene; its salts
 
@@ -1542,6 +1630,8 @@ THE POISONS LIST
 
 - Vencuronium; its salts
 
+- Venlafaxine; its salts
+
 - Vigabatrin
 
 - Viloxazine; its salts
@@ -1568,15 +1658,13 @@ THE POISONS LIST
 
 - Zoxazolamine; its salts
 
-- (L.N. 129 of 1990; L.N. 263 of 1995)
-
 - B
 
 - Alkali fluorides other than those specified in Part II of this list
 
 - Barium, salts of, except barium sulphate
 
-- alpha-Chorohydrin 3-chloro-1, 2-Propanediol
+- alpha-Chlorohydrin 3-chloro-1, 2-Propanediol
 
 - Dinitronaphthols; dinitrophenols; dinitrothymols
 
@@ -1602,39 +1690,13 @@ THE POISONS LIST
 
 - 70%, weight in weight, of sulphuric acid
 
-- (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 440 of 1993; L.N. 263 of 1995)
+- (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998)
 
-- PART II A
-
-- Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance
-
-- alpha-Chloralose
-
-- Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison listed in Part IA of this List, (excepting pharmaceutical products containing codeine or its salts, dextromethorphan or its salts or any poison appearing in the Third Schedule to Pharmacy & Poisons Regulations (cap. 138 sub. leg.)) where the proportion of such poison does not exceed the equivalent of 0.01% by weight of arsenic trioxide, cantharidin, cocaine, coniine, ecgonine, hydrocyanic acid, strychnine, alkaloids of aconite, alkaloids of coca and alkaloids of gelsemium, solution of mercurochrome for external use only containing not more than 2%, weight in volume, of mercurochrome and 0.1% in the case of other poisons
-
-- Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols.
-
-- (L.N. 263 of 1995)
-
-- B
-
-- Ammonia
-
-- gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane)
-
-- Diamines, the following; their salts—
-
-- Phenylene diamines; toluene diamines; other alkylated-benzene diamines
-
-- Formaldehyde
+- PART II A Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance alpha-Chloralose Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison listed in Part IA of this List, (excepting pharmaceutical products containing codeine or its salts, dextromethorphan or its salts or any poison appearing in the Third Schedule to Pharmacy & Poisons Regulations (cap. 138 sub. leg.)) where the proportion of such poison does not exceed the equivalent of 0.01% by weight of arsenic trioxide, cantharidin, cocaine, coniine, ecgonine, hydrocyanic acid, strychnine, alkaloids of aconite, alkaloids of coca and alkaloids of gelsemium, solution of mercurochrome for external use only containing not more than 2%, weight in volume, of mercurochrome and 0.1% in the case of other poisons Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols. B Ammonia gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane) Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
 
 - Formic acid
 
-- Hydrochloric acid
-
-- Hydrofluoric acid; alkali fluorides; alkali metal bifluorides; ammonium bifluorides; sodium silicofluoride
-
-- Metallic oxalates
+- Hydrochloric acid Hydrofluoric acid; alkali fluorides; alkali metal bifluorides; ammonium bifluorides; sodium silicofluoride Metallic oxalates
 
 - Nitric acid
 
@@ -1642,12 +1704,6 @@ THE POISONS LIST
 
 - Phosphoric acid
 
-- Potassium hydroxide
+- Potassium hydroxide Products retailed in the form as supplied the manufacturer, containing a poison listed in Part IB of this List, where the proportion of such poison does not exceed the equivalent of 0.1% Sodium hydroxide
 
-- Products retailed in the form as supplied the manufacturer, containing a poison listed in Part IB of this List, where the proportion of such poison does not exceed the equivalent of 0.1%
-
-- Sodium hydroxide
-
-- Sodium nitrite
-
-- (L.N. 138 of 1978; L.N. 263 of 1995)
+- Sodium nitrite (L.N. 138 of 1978; L.N. 263 of 1995)
