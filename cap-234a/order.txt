@@ -289,4 +289,13 @@ s-261.md
 s-262.md
 s-263.md
 s-264.md
+s-264A.md
+s-264B.md
 s-265.md
+s-266.md
+s-267.md
+s-268.md
+s-269.md
+s-270.md
+s-271.md
+s-272.md
