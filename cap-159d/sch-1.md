@@ -4,7 +4,9 @@
 
 FEES PAYABLE UNDER THE ORDINANCE
 
-Item | Section | Description | Payee | Fee $
+Item | Section | Description | Payee | Fee
+
+$
 
 1. | 5(2) | Entry on the roll of solicitors of the name of a solicitor | Registrar | 360
 
@@ -14,7 +16,9 @@ Item | Section | Description | Payee | Fee $
 
 4. | 30(1) | Practising certificate-barrister | Hong Kong Bar Association | 1600
 
-4A. | 31(2) | Limited practising certificate-barrister (L.N. 387 of 1993) | Hong Kong Bar Association | 500
+4A. | 30(1) | Limited practising certificate-barrister (L.N. 387 of 1993; L.N. 6 of 2003) | Hong Kong Bar Association | 500
+
+4B. | 31C | Employed barrister’s certificate (L.N. 6 of 2003) | Hong Kong Bar Association | 1600
 
 5. | 40 | Registration of notary public | Registrar | 1135
 
