@@ -148,6 +148,12 @@ Terfenadine
 
 Tripelennamine
 
+Antisera, antitoxins, immunoglobulins and vaccines—
+
+- (a) the following— Bacillus Calmette-Guerin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
+
+- (b) directed against the following diseases or organisms— Botulism Cholera Diphtheria Japanese encephalitis Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Influenza Measles Mumps Pertussis Plague Poliomyelitis Rabies Rubella Tetanus Typhoid Varicella Yellow fever
+
 Antithymocyte Immunoglobulin
 
 Apomorphine; its salts; its quaternary compounds; except substances containing less than 0.2% of apomorphine
@@ -374,7 +380,7 @@ Colfosceril; its salts
 
 Collagen, purified
 
-Contrast media, the following; their salts; and compound with any substance falling within this item; when contained in preparations for parenteral use—
+Contrast media, the following; their salts; and compound with any substance falling within this item; when contained in preparations for parenteral use-
 
 Acetrizoic acid
 
@@ -710,7 +716,7 @@ Hexobendine; its salts
 
 Hydrallazine; its salts
 
-Hydrazines, the following and their alpha-methyl derivatives—
+Hydrazines, the following and their alpha-methyl derivatives-
 
 Benzyl hydrazine
 
@@ -1186,7 +1192,7 @@ Propylhexedrine and its salts, except when contained in inhalers
 
 Proquazone
 
-Prostaglandins, the following and their derivatives—
+Prostaglandins, the following and their derivatives-
 
 Alprostadil
 
