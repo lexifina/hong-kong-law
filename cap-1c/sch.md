@@ -328,27 +328,27 @@ Director of Social Welfare | Probation of Offenders Ordinance (Chapter 298). (L.
 
 Director of Social Welfare | Reformatory Schools Ordinance (Chapter 225). (L.N. 79 of 1973)
 
-Director-General of Trade (L.N. 292 of 1989) | Export (Certificates of Origin and Commonwealth Preference Certificates) Regulations (Chapter 60 subsidiary legislation), regulations 6(2) and 8(1). (L.N. 132 of 1986)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Export (Certificates of Origin and Commonwealth Preference Certificates) Regulations (Chapter 60 subsidiary legislation), regulations 6(2) and 8(1). (L.N. 132 of 1986)
 
-Director-General of Trade (L.N. 292 of 1989) | Export (Certificates of Origin and Commonwealth Preference Certificates) Regulations (Chapter 60 subsidiary legislation), regulations 7(1)-(4), 8(3), 9(2) and 11(1)(c). (L.N. 51 of 1984)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Export (Certificates of Origin and Commonwealth Preference Certificates) Regulations (Chapter 60 subsidiary legislation), regulations 7(1)-(4), 8(3), 9(2) and 11(1)(c). (L.N. 51 of 1984)
 
-Director-General of Trade (L.N. 292 of 1989) | Import and Export Ordinance (Chapter 60), sections 9(3) and 36(2). (L.N. 51 of 1984)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import and Export Ordinance (Chapter 60), sections 9(3) and 36(2). (L.N. 51 of 1984)
 
-Director-General of Trade | Import and Export Ordinance (Chapter 60), section 33A(1)(b). (L.N. 396 of 1996)
+Director-General of Trade and Industry (L.N. 173 of 2000) | Import and Export Ordinance (Chapter 60), section 33A(1)(b). (L.N. 396 of 1996)
 
-Director-General of Trade (L.N. 292 of 1989) | Import and Export (Fees) Regulations (Chapter 60 subsidiary legislation). (L.N. 51 of 1984)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import and Export (Fees) Regulations (Chapter 60 subsidiary legislation). (L.N. 51 of 1984)
 
-Director-General of Trade (L.N. 292 of 1989) | Import and Export (General) Regulations (Chapter 60 subsidiary legislation), regulation 6(3) and (4). (L.N. 132 of 1986)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import and Export (General) Regulations (Chapter 60 subsidiary legislation), regulation 6(3) and (4). (L.N. 132 of 1986)
 
-Director-General of Trade (L.N. 292 of 1989) | Import and Export (Strategic Commodities) Regulations (Chapter 60 subsidiary legislation), regulation 2. (L.N. 51 of 1984)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import and Export (Strategic Commodities) Regulations (Chapter 60 subsidiary legislation), regulation 2. (L.N. 51 of 1984)
 
-Director-General of Trade (L.N. 292 of 1989) | Import (Radiation) (Prohibition) Regulations (Chapter 60 subsidiary legislation). (L.N. 51 of 1984)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import (Radiation) (Prohibition) Regulations (Chapter 60 subsidiary legislation). (L.N. 51 of 1984)
 
-Director-General of Trade (L.N. 292 of 1989) | Reserved Commodities Ordinance (Chapter 296), section 6. (L.N. 51 of 1984)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Reserved Commodities Ordinance (Chapter 296), section 6. (L.N. 51 of 1984)
 
-Director-General of Trade (L.N. 292 of 1989) | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Chapter 296 subsidiary legislation). (L.N. 51 of 1984)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Chapter 296 subsidiary legislation). (L.N. 51 of 1984)
 
-Director-General of Trade (L.N. 292 of 1989) | Reserved Commodities (Control of Sales by Wholesale) Regulations (Chapter 296 subsidiary legislation). (L.N. 51 of 1984)
+Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Reserved Commodities (Control of Sales by Wholesale) Regulations (Chapter 296 subsidiary legislation). (L.N. 51 of 1984)
 
 Financial Secretary | Companies Ordinance (Chapter 32), sections 123(4), 124(2), 126(2) and (3), 128(3), 129(3) and 129A(2); and paragraphs 6(b), 13(2), 18(4), 27(1) and 28(3) of the Tenth Schedule, only. (L.N. 86 of 1978)
 

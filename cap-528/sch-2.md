@@ -424,7 +424,9 @@ Introductory
 
 - 29.
 
-  - (1) Section 104 of this Ordinance (copyright to pass under will with original document or other material thing embodying unpublished work)—
+  - (1) Section 104 of this Ordinance (copyright to pass under will with original document or
+
+  - other material thing embodying unpublished work)—
 
     - (a) does not apply where the testator died before 12 December 1972; and
 
@@ -440,7 +442,7 @@ Introductory
 
 - 30.
 
-  - (1) Sections 107 and 108 of this Ordinance (remedies for infringement) apply only inrelation to an infringement of copyright committed after commencement; section 17 of the 1956 Act continues to apply in relation to infringements committed before commencement.
+  - (1) Sections 107 and 108 of this Ordinance (remedies for infringement) apply only in relation to an infringement of copyright committed after commencement; section 17 of the 1956 Act continues to apply in relation to infringements committed before commencement.
 
   - (2) Section 109 of this Ordinance (delivery up of infringing copies) applies to infringing copies and other articles made before or after commencement; section 18 of the 1956 Act, and section 7 of the 1911 Act, (conversion damages, etc.), do not apply after commencement except for the purposes of proceedings begun before commencement.
 
@@ -584,4 +586,4 @@ Introductory
 
 - 42. Until rules of court under the High Court Ordinance (Cap. 4) are made for the purposes of sections 144 and 271 of this Ordinance, the Copyright (Border Measures) Rules (L.N. 482 of 1996) , so far as they are not inconsistent with this Ordinance, continue in force and have effect as if made for the purposes of those sections subject to such necessary adaptations and modifications as may be necessary for those rules to have effect under the appropriate Part of this Ordinance. (Amended 25 of 1998 s. 2)
 
-- 43. Until regulations are made by the Secretary for Trade and Industry under section 46 of this Ordinance, the Copyright (Libraries) Regulations (App. I, p. AJ1) as amended and in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance. - * Please also see L.N. 5 of 1997.
+- 43. Until regulations are made by the Secretary for Commerce and Industry under section 46 of this Ordinance, the Copyright (Libraries) Regulations (App. I, p. AJ1) as amended and in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance. (Amended L.N. 173 of 2000) - * Please also see L.N. 5 of 1997.

@@ -1,20 +1,8 @@
 # SCHEDULE 2
 
-[sections 3, 22, 32, 33, 76 & 83 & Schedule 3] (Amended 48 of 1999 s. 44)
+[ss. 3, 22, 32, 33, 76 & 83 & Sch. 3] (Amended 48 of 1999 s. 44)
 
 CONSTITUTION OF ELECTION COMMITTEE
-
-- (1. The amendments to this Schedule (except amendments to section 10 in this Schedule) made by Ord. No. 48 of 1999 shall come into operation on—
-
-  - (a) 30 July 1999 for the purpose only of enabling arrangements to be made for the holding of the Election Committee subsector elections in 2000 to elect members of the Election Committee for the second term of office of the Legislative Council and for the holding of the second general election in 2000 to elect all Members of that Council;
-
-  - (b) 1 July 2000 in so far as those amendments have not already come into operation.
-
-- 2. The amendments made by Ord. No. 15 of 2000 shall come into operation on-)
-
-  - (a) 4 March 2000 for the purpose only of enabling arrangements to be made for the holding of the Election Committee subsector elections in 2000 to elect members of the Election Committee for the second term of office of the Legislative Council and for the holding of the second general election in 2000 to elect all the Members of that Council;
-
-  - (b) 1 July 2000 in so far as it has not already come into operation.
 
 - PART 1 GENERAL PROVISION
 

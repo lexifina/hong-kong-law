@@ -4,12 +4,6 @@
 
 COMPOSITION OF THE AGRICULTURE AND FISHERIES FUNCTIONAL CONSTITUENCY
 
-(The amendments made to this Schedule by Ord. No. 48 of 1999 shall come into operation on—
-
-- (a) 30 July 1999 for the purpose only of enabling arrangements to be made for the holding of the Election Committee subsector elections in 2000 to elect members of the Election Committee for the second term of office of the Legislative Council and for the holding of the second general election in 2000 to elect all Members of that Council;
-
-- (b) 1 July 2000 in so far as the amendments have not already come into operation.)
-
 Item Body
 
 - 1. The Aberdeen Fishermen Friendship Association.
@@ -166,6 +160,4 @@ Item Body
 
 - 77. 荃灣葵青居民聯會(漁民組).
 
-- 78. 荃灣葵青漁民會.
-
-(Replaced 48 of 1999 s. 43)
+- 78. 荃灣葵青漁民會. (Replaced 48 of 1999 s. 43)
