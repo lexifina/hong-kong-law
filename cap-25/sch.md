@@ -1,0 +1,59 @@
+# SCHEDULE
+
+- (1. On and from 18/7/97 to 31/10/97, the Labour Tribunal Ordinance (Cap. 25) shall be read as if the amendments effected by the Employment (Amendment) (No. 4) Ordinance 1997 (98 of 1997) had not been enancted. Please refer to Cap. 538 s. 5 (126 of 1997)
+
+- 2. On and from 18/7/97 to 31/10/97, the Labour Tribunal Ordinance (Cap. 25) shall be read as if the amendments effected by the Employee’s Rights to Representation, Consultation and Collective Bargaining Ordinance(101 of 1997) had not been enancted. Please refer to Cap. 538 s. 4 (126 of 1997)
+
+- 3. Adaptation amendments retroactively made - see 59 of 1999 s. 3)
+
+[section 7]
+
+- 1. A claim for a sum of money which arises from—
+
+  - (a) the breach of a term, whether express or implied, of a contract of employment, whether for performance in Hong Kong or under a contract to which the Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) applies; (Amended 8 of 1976 s. 49; 59 of 1999 s. 3)
+
+  - (aa) the breach of a term, whether express or implied, of a contract of apprenticeship; or (Added 8 of 1976 s. 49)
+
+  - (b) the failure of a person to comply with the provisions of the Employment Ordinance (Cap. 57) or the Apprenticeship Ordinance (Cap. 47), (Amended 39 of 1973 s. 9; 8 of 1976 s. 49)
+
+- other than a claim specified in the Schedule to the Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Amended 61 of 1994 s. 48)
+
+- 2. A claim for contribution under section 26(2).
+
+- 3. Notwithstanding paragraphs 1 and 2, the tribunal shall not have jurisdiction to hear and determine a claim for a sum of money, or otherwise in respect of a cause of action, founded in tort whether arising from a breach of contract or a breach of a duty imposed by a rule of common law or by any enactment.
+
+- 4. Any question as to—
+
+  - (a) the right of an employee to a severance payment under Part VA of the Employment Ordinance (Cap. 57); or
+
+  - (b) the amount of such payment, (Added L.N. 178 of 1974)
+
+- other than a claim specified in the Schedule to the Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Amended 61 of 1994 s. 48)
+
+- 5. Any question as to—
+
+  - (a) the right of an employee to payment of wages by a person other than his employer under Part IXA of the Employment Ordinance (Cap. 57); and
+
+  - (b) the amount of such payment, (Added 54 of 1977 s. 3)
+
+- other than a claim specified in the Schedule to the Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Amended 61 of 1994 s. 48)
+
+- 6. Notwithstanding paragraphs 1, 2, 4 and 5, the tribunal shall have jurisdiction to hear and determine a claim transferred to the tribunal under section 8(3) of the Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Added 61 of 1994 s. 48)
+
+- 7. A claim for remedies under Part VIA of the Employment Ordinance (Cap. 57). (Added 75 of 1997 s. 6)
+
+- 8. A claim for remedies under Part IVA of the Employment Ordinance (Cap. 57). (Added 98 of 1997 s. 3)
+
+- 9. Any question under the Employee’s Rights to Representation, Consultation and Collective Bargaining Ordinance (Cap. 530) as to—
+
+  - (a) the rights of an employee to consultation under sections 7 to 10;
+
+  - (b) the rights of an employee to be covered by a collective agreement under sections 14 to 17;
+
+  - (c) the interpretation, application or enforcement of a collective agreement or arbitration award under section 19;
+
+  - (d) the appointment of a scrutineer under section 20;
+
+  - (e) the issue of a certificate of representativeness under section 22; and
+
+  - (f) the failure of an employer to permit an employee who is a trade union representative to take time off or to pay him in accordance with section 23. (Added 101 of 1997 s. 25)
