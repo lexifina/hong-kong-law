@@ -2,9 +2,11 @@
 
 [reg. 5]
 
-ANNUAL SURVEY
+PERIODICAL AND ANNUAL SURVEYS
 
-In general the scope of the annual survey shall be as follows—
+PERIODICAL AND ANNUAL SURVEYS
+
+(L.N. 34 of 2000) In general the scope of the periodical and annual surveys shall be as follows— (L.N. 34 of 2000)
 
 - 1. It shall consist of—
 
@@ -26,9 +28,7 @@ SURVEY
 
 - The examination of the ship’s certificates in general shall consist of checking—
 
-  - (a) the validity of the Cargo Ship Safety Construction Certificate, the Cargo Ship Safety Equipment Certificate, the Cargo Ship Safety Radio Certificate and Exemption Certificates;
-
-- (L.N. 11 of 1992)
+  - (a) the validity of the Cargo Ship Safety Construction Certificate, the Cargo Ship Safety Equipment Certificate, the Cargo Ship Safety Radio Certificate and Exemption Certificates; (L.N. 11 of 1992)
 
   - (b) the validity of the International Load Line Certificate, or the International Load Line Exemption Certificate; and
 
@@ -42,7 +42,7 @@ SURVEY
 
   - (a) confirming that any new equipment has been properly approved before installation and that no changes have been made such as will affect the validity of the Cargo Ship Safety Equipment Certificate;
 
-  - (b) an examination of the ship’s Official Log Book to establish that the required musters, training, emergency procedures and inspections of lifeboat equipment have been carried out as required by the Merchant Shipping (Safety) (Musters and Training) Regulations (Cap. 369 sub. leg.), together with posting of the appropriate Muster List as required by those regulations;
+  - (b) an examination of the ship’s Official Log Book to establish that the required musters, training, emergency procedures and inspections of lifeboat equipment have been carried out as required by the Merchant Shipping (Safety) (Musters and Training) Regulations (Cap. 369 sub. leg. AI), together with posting of the appropriate Muster List as required by those regulations;
 
   - (c) an examination of all lifeboats, davits, embarkation arrangements and launching gear in position, as far as practicable. If practicable, one of the lifeboats shall be lowered to the water;
 
@@ -102,7 +102,7 @@ SURVEY
 
   - (d) checking that pilot ladders, associated equipment and mechanical pilot hoists are in good condition and operational; and
 
-  - (e) checking that the nautical publications and charts are adequate for the ship’s intended trading programme and that they comply with the requirements of the Merchant Shipping (Safety) (Carriage of Nautical Publications) Regulations (Cap. 369 sub. leg.).
+  - (e) checking that the nautical publications and charts are adequate for the ship’s intended trading programme and that they comply with the requirements of the Merchant Shipping (Safety) (Carriage of Nautical Publications) Regulations (Cap. 369 sub. leg. M).
 
 - 5.
 
