@@ -1,0 +1,5 @@
+LEVERAGED FOREIGN EXCHANGE TRADING (CALLS) RULES
+
+(Cap. 451 sections 39(2)(b) and 73)
+
+[28 July 1995]
