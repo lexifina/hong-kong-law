@@ -14,6 +14,8 @@ Item | Article | Country or place
 
 4-5. | (Repealed L.N. 246 of 1997)
 
+6. | Rough diamonds within the meaning of regulation 6DA. | Without prejudice to regulation 6DE, any country or place. (L.N. 179 of 2002)
+
 - PART II
 
 Item | Article | Country or place

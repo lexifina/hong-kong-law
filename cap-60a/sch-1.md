@@ -12,6 +12,8 @@
 
   - 4-5. (Repealed L.N. 246 of 1997)
 
+  - 5A. Rough diamonds within the meaning of regulation 6DA. (L.N. 179 of 2002)
+
   - 6. Frozen or chilled beef, mutton, pork, veal or lamb, and the frozen or chilled offal of any animal from which such meat is derived. (L.N. 142 of 2000)
 
   - 7. The frozen or chilled carcass of a domestic fowl, duck, goose or turkey or any part of such a carcass. (L.N. 142 of 2000)
