@@ -1,0 +1,5 @@
+TELECOMMUNICATION REGULATIONS
+
+(Cap. 106, section 37)
+
+[1 January 1963]
