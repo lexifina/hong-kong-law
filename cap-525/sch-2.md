@@ -4,8 +4,6 @@
 
 ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2; 71 of 1999 s. 3)
-
 - 1. Interpretation
 
   - (1) In this Schedule, unless the context otherwise requires—
@@ -254,6 +252,30 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
     - (b) be registrable as such in the Land Registry under that Ordinance in such manner as the Land Registrar thinks fit.
 
+  - (11) An authorized officer may, by notice in writing served on a person who holds any realisable property the subject of a restraint order, require the person to deliver to the authorized officer, to the extent that it is practicable to do so, documents, or copies of documents, or any other information (in whatever form), in his possession or control which may assist the authorized officer to determine the value of the property. (Added 26 of 2002 s. 5)
+
+  - (12) A person who receives a notice under subsection (11) shall, as soon as is practicable after receipt of the notice, comply with the notice to the extent that it is practicable to do so taking into account the nature of the realisable property the subject of the restraint order concerned. (Added 26 of 2002 s. 5)
+
+  - (13) A disclosure made in order to comply with a requirement under subsection (11)—
+
+    - (a) shall not be treated as a breach of any restriction upon the disclosure of information imposed by contract or by any enactment, rule of conduct or other provision;
+
+    - (b) shall not render the person who made it liable in damages for any loss arising out of—
+
+      - (i) the disclosure;
+
+      - (ii) any act done or omitted to be done in relation to the property concerned in consequence of the disclosure. (Added 26 of 2002 s. 5)
+
+  - (14) Any person who contravenes subsection (12) commits an offence and is liable on conviction to a fine at level 5 and to imprisonment for 1 year. (Added 26 of 2002 s. 5)
+
+  - (15) A person who knowingly deals in any realisable property in contravention of a restraint order commits an offence. (Added 26 of 2002 s. 5)
+
+  - (16) A person who commits an offence under subsection (15) is liable—
+
+    - (a) on conviction upon indictment to a fine of $500,000 or to the value of the realisable property the subject of the restraint order concerned which has been dealt with in contravention of that order, whichever is the greater, and to imprisonment for 5 years; or
+
+    - (b) on summary conviction to a fine of $250,000 and to imprisonment for 2 years. (Added 26 of 2002 s. 5)
+
 - (Amended 25 of 1998 s. 2)
 
 - 8. Charging orders in respect of land, securities, etc.
@@ -293,6 +315,30 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
   - (7) An application for the discharge or variation of a charging order may be made by any person affected by it.
 
   - (8) Subject to the provisions of this Schedule, a charge imposed by a charging order shall have the like effect and shall be enforceable in the same manner as an equitable charge created by the person holding the beneficial interest or, as the case may be, the trustee, by writing under his hand.
+
+  - (9) An authorized officer may, by notice in writing served on a person who holds any realisable property the subject of a charging order, require the person to deliver to the authorized officer, to the extent that it is practicable to do so, documents, or copies of documents, or any other information (in whatever form), in his possession or control which may assist the authorized officer to determine the value of the property. (Added 26 of 2002 s. 5)
+
+  - (10) A person who receives a notice under subsection (9) shall, as soon as is practicable after receipt of the notice, comply with the notice to the extent that it is practicable to do so taking into account the nature of the realisable property the subject of the charging order concerned. (Added 26 of 2002 s. 5)
+
+  - (11) A disclosure made in order to comply with a requirement under subsection (9)—
+
+    - (a) shall not be treated as a breach of any restriction upon the disclosure of information imposed by contract or by any enactment, rule of conduct or other provision;
+
+    - (b) shall not render the person who made it liable in damages for any loss arising out of—
+
+      - (i) the disclosure;
+
+      - (ii) any act done or omitted to be done in relation to the property concerned in consequence of the disclosure. (Added 26 of 2002 s. 5)
+
+  - (12) Any person who contravenes subsection (10) commits an offence and is liable on conviction to a fine at level 5 and to imprisonment for 1 year. (Added 26 of 2002 s. 5)
+
+  - (13) A person who knowingly deals in any realisable property in contravention of a charging order commits an offence. (Added 26 of 2002 s. 5)
+
+  - (14) A person who commits an offence under subsection (13) is liable—
+
+    - (a) on conviction upon indictment to a fine of $500,000 or to the value of the realisable property the subject of the charging order concerned which has been dealt with in contravention of that order, whichever is the greater, and to imprisonment for 5 years; or
+
+    - (b) on summary conviction to a fine of $250,000 and to imprisonment for 2 years. (Added 26 of 2002 s. 5)
 
 - (Amended 25 of 1998 s. 2)
 

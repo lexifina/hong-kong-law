@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 2 & 31]
+[ss. 2, 8 & 31] (Replaced 26 of 2002 s. 3)
 
 OFFENCES RELEVANT TO DEFINITIONS OF “ORGANIZED CRIME” AND “SPECIFIED OFFENCE”
 
@@ -66,9 +66,9 @@ Common law offences
 
 - 15. | Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405)
 
-- section 25(1) | assisting another to retain the benefit of drug trafficking
+- section 25(1) | dealing with property known or believed to represent proceeds of drug trafficking (Replaced 26 of 2002 s. 3)
 
-- 16. | Organized and Serious Crimes Ordinance (Cap. 455) section 25(1) | assisting a person to retain proceeds of indictable offence
+- 16. | Organized and Serious Crimes Ordinance (Cap. 455) section 25(1) | dealing with property known or believed to represent proceeds of indictable offence (Replaced 26 of 2002 s. 3)
 
 - 17. | Weapons of Mass Destruction (Control of Provision of Services) Ordinance (Cap. 526)
 
@@ -76,6 +76,6 @@ Common law offences
 
 - 18. | Copyright Ordinance (Cap. 528) section 118(1), (4) and (8) (provided that for the purpose of this Ordinance, “infringing copy” referred to in section 118(1) and (4) of the Copyright Ordinance does not include a copy of a work which is an infringing copy by virtue only of section 35(3) of that Ordinance) section 120(1), (2), (3) and (4) (provided that for the purpose of this Ordinance, “infringing copy” referred to in section 120(1) and (3) of the Copyright Ordinance does not include a copy of a work which is an infringing copy by virtue only of section 35(3) of that Ordinance) | offences relating to making or dealing with infringing copies offences relating to making infringing copies outside Hong Kong (Added L.N. 11 of 2000)
 
-- -
+Editorial Note:
 
-- * Note: The short description of offences in this Schedule is for ease of reference only.
+* The short description of offences in this Schedule is for ease of reference only.

@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[ss. 2 & 31]
+[ss. 2, 8 & 31] (Replaced 26 of 2002 s. 3)
 
 OTHER SPECIFIED OFFENCES
 
@@ -84,4 +84,6 @@ Common law offences
 
 - section 90(1) | doing an act with intent to impede apprehension or prosecution of offender
 
-- - * Note: The short description of offences in this Schedule is for ease of reference only.
+Editorial Note:
+
+* The short description of offences in this Schedule is for ease of reference only.

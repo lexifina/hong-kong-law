@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[s. 2]
+[ss. 2 & 3] (Replaced 26 of 2002 s. 2)
 
 DRUG TRAFFICKING OFFENCES
 
