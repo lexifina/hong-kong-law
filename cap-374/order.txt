@@ -140,6 +140,13 @@ s-099.md
 s-100.md
 s-101.md
 s-102.md
+s-102A.md
+s-102B.md
+s-102C.md
+s-102D.md
+s-102E.md
+s-102F.md
+s-102G.md
 s-103.md
 s-104.md
 s-105.md
@@ -183,3 +190,4 @@ sch-7.md
 sch-8.md
 sch-9.md
 sch-10.md
+sch-12.md
