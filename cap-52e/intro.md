@@ -1,5 +1,3 @@
 TELEVISION (PERIOD OF VALIDITY OF LICENCE) (WHARF CABLE LIMITED) ORDER
 
-(Cap. 52, section 9)
-
-[4 June 1993]
+(Ceased to be in force)
