@@ -38,13 +38,13 @@ In this Schedule—
 
   - 10. | For the release of any cargo or cargo container seized under section 5 of the Ordinance per m2 of land occupied per day . | 280
 
-  - 11. | For the issue of any permission in writing not otherwise specified . | 305
+  - 11. | For the issue of any permission in writing under regulation 6AA . | 305
 
   - 12. | For the issue of a duplicate or replacement ticket, permit or other written permission . | 150
 
-  - 13. | For the issue of a permit for working cargo after operation hours . | 245
+  - 13. | For the issue of a permission for loading or unloading cargo or cargo containers after operation hours . | 245
 
-  - 14. | For the issue of a permit to van or devan containers not across a seawall during operating hours per operation per day . | 365
+  - 14. | Vanning and Devanning Permit per cargo container per operation per day . | 365
 
   - 15. | Vehicle Entry Ticket—
 
@@ -54,4 +54,4 @@ In this Schedule—
 
   - 16. | Operation Area Permit per m2 of area per month (L.N. 71 of 1999) . | 10
 
-  - (L.N. 252 of 1992; L.N. 338 of 1993; L.N. 419 of 1993; L.N. 513 of 1994; L.N. 321 of 1995; L.N. 480 of 1995; L.N. 71 of 1999)
+  - (L.N. 252 of 1992; L.N. 338 of 1993; L.N. 419 of 1993; L.N. 513 of 1994; L.N. 321 of 1995; L.N. 480 of 1995; L.N. 71 of 1999; L.N. 279 of 1999)
