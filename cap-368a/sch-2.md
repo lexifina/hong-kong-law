@@ -28,4 +28,4 @@ Aberdeen Tunnel | Airport Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung
 
 All vehicles | $82 | $82 | $82 | $82 | $82
 
-(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996)
+(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998)
