@@ -1,0 +1,5 @@
+THE EUROPEAN COMMUNITIES NOTIFICATION
+
+(Cap. 190, section 2)
+
+[10 December 1993]
