@@ -1,0 +1,5 @@
+MILITARY INSTALLATIONS CLOSED AREAS ORDER
+
+(Cap. 245, sections 36(1) and 39(4))
+
+[7 December 1984]
