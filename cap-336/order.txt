@@ -79,6 +79,11 @@ s-069.md
 s-070.md
 s-071.md
 s-072.md
+s-072A.md
+s-072B.md
+s-072C.md
+s-072D.md
+s-072E.md
 s-073.md
 s-073A.md
 s-073B.md
