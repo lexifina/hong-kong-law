@@ -126,4 +126,6 @@ Item Body
 
 - 60. China Business Centre, The Hong Kong Polytechnic University
 
-- 61. The Evangelical Lutheran Church of Hongkong (Schedule 2 replaced L.N. 269 of 1999)
+- 61. The Evangelical Lutheran Church of Hongkong
+
+- 62. The Boys’ and Girls’ Clubs Association of Hong Kong (Added L.N. 260 of 2000) (Schedule 2 replaced L.N. 269 of 1999)
