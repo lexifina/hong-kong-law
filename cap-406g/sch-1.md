@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[ss. 2, 4 & 5 & Sch. 2]
+[ss. 4 & 5 & Sch. 2] (L.N. 77 of 2000)
 
 ESSENTIAL SAFETY REQUIREMENTS FOR ELECTRICAL PRODUCTS
 
@@ -12,7 +12,7 @@ ESSENTIAL SAFETY REQUIREMENTS FOR ELECTRICAL PRODUCTS
 
     - (a) rated voltage and frequency;
 
-    - (b) rated input in terms of watts or kilowatts and amperes or milliamperes;
+    - (b) rated input in terms of watts, kilowatts, amperes or milliamperes; (L.N. 77 of 2000)
 
     - (c) model or type reference number; and
 
@@ -20,9 +20,7 @@ ESSENTIAL SAFETY REQUIREMENTS FOR ELECTRICAL PRODUCTS
 
   - (3) The electrical product, together with its component parts, shall be made in such a way as to ensure that it can be safely and properly assembled and connected.
 
-- 2. Protection against hazards arising
-
-- from an electrical product An electrical product shall be so designed and constructed in order to ensure that—
+- 2. Protection against hazards arising from an electrical product An electrical product shall be so designed and constructed in order to ensure that—
 
   - (a) persons and animals are adequately protected against danger of physical injury or other harm which might be caused by electrical contact whether direct or indirect;
 
@@ -34,11 +32,7 @@ ESSENTIAL SAFETY REQUIREMENTS FOR ELECTRICAL PRODUCTS
 
   - (e) the insulation is suitable for foreseeable conditions.
 
-- 3. Protection against hazards which may
-
-- be caused by external influences on
-
-- an electrical product An electrical product shall be so designed and constructed in order to ensure that—
+- 3. Protection against hazards which may be caused by external influences on an electrical product An electrical product shall be so designed and constructed in order to ensure that—
 
   - (a) the electrical product meets the expected mechanical requirements in such a way that persons, animals and property are adequately protected against danger caused by the electrical product;
 
