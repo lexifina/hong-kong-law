@@ -4,8 +4,6 @@
 
 FORM 1
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 LABOUR TRIBUNAL ORDINANCE
 
 (Chapter 25)
@@ -36,13 +34,43 @@ LABOUR TRIBUNAL ORDINANCE
 
 TO THE DEFENDANT.
 
-- The claimant claims the amount of . particulars of the grounds for which and the manner in which it is calculated are set out as follows: (a) 1. The grounds for the claim are: . . . (b) 2. The amount of claim is calculated as follows: . . . Dated this . day of . 19 . .
+- The claimant claims the amount of . particulars of the grounds for which and the manner in which it is calculated are set out as follows:
 
-- (c) (Signature of Claimant) Filed this. day of . 19 . Registrar L.S. Note: (a) Set out sufficient particulars to inform the defendant of the grounds for the claim.
+  - (a)
 
-- (b) Set out in full the manner in which the amount of claim is calculated and whether it includes any interest or expenses.
+    - 1.
 
-- (c) This claim must be signed by each claimant or person represented before the date of hearing.
+    - The grounds for the claim are:
+
+    - .
+
+    - .
+
+    - .
+
+      - (b)
+
+    - .
+
+    - .
+
+    - . Dated this . day of . 19 .
+
+    - .
+
+      - (c) (Signature of Claimant)
+
+- Filed this. day of . 19 .
+
+- Registrar
+
+- L.S.
+
+- Note: (a) Set out sufficient particulars to inform the defendant of the grounds for the claim.
+
+  - (b) Set out in full the manner in which the amount of claim is calculated and whether it includes any interest or expenses.
+
+  - (c) This claim must be signed by each claimant or person represented before the date of hearing.
 
 (L.N. 125 of 1995)
 
@@ -116,13 +144,13 @@ FORM 5 | [(Gen.) rule 7]
 
 LABOUR TRIBUNAL ORDINANCE
 
-(Chapter 25) NOTICE OF DAY OF HEARING BY COURT TO WHICH CLAIM
+(Chapter 25) NOTICE OF DAY OF HEARING BY COURT/TRIBUNAL TO WHICH CLAIM
 
-HAS BEEN TRANSFERRED In the *Court of First Instance/District Court of Hong Kong [title as in Form 1]
+HAS BEEN TRANSFERRED In the *Court of First Instance/District Court/Small Claims Tribunal of Hong Kong [title as in Form 1]
 
 TO ALL PARTIES INTERESTED.
 
-TAKE NOTICE that this claim has been transferred to this Court and will be heard at . on the . day of . 19., at . *a.m./p.m.
+TAKE NOTICE that this claim has been transferred to *this Court/this Tribunal and will be heard at . on the . day of . 19., at . *a.m./p.m.
 
 Dated this . day of . 19 .
 
@@ -130,7 +158,9 @@ Dated this . day of . 19 .
 
 Registrar,
 
-*High Court/District Court
+*High Court/District Court/
+
+Small Claims Tribunal
 
 L.S.
 
@@ -144,7 +174,7 @@ _
 
 - * Delete whichever is not applicable. Note: (a) Service shall be effected in accordance with the Labour Tribunal (General) Rules.
 
-(L.N. 125 of 1995; 25 of 1998 s. 2)
+(L.N. 125 of 1995; 25 of 1998 s. 2; 25 of 1999 s. 19)
 
 _
 
@@ -206,7 +236,7 @@ LABOUR TRIBUNAL ORDINANCE
 
 TO THE COMMISSIONER FOR LABOUR.
 
-TAKE NOTICE that it appearing to me that there is a reasonable likelihood of a settlement of this claim being agreed to by all or some of the parties thereto, I have ordered that hearing of this claim be adjourned to the . day of . 19 . at . *a.m./p.m.
+TAKE NOTICE that this appearing to me that there is a reasonable likelihood of a settlement of this claim being agreed to by all or some of the parties thereto, I have ordered that hearing of this claim be adjourned to the . day of . 19 . at . *a.m./p.m.
 
 Dated this . day of . 19 .
 
@@ -248,25 +278,17 @@ We, (a) .
 
 - parties to this claim, hereby agree to a settlement of this claim on the following terms:
 
-- (b)
+  - (b) .
 
 - .
 
-- .
+- . The above agreement has been interpreted to us in the . dialect and understood by us. Dated this . day of . 19 .
 
 - .
 
-- The above agreement has been interpreted to us in the . dialect and understood by us. Dated this . day of . 19 .
+  - (c) (Signature of Claimant(s)) .
 
-- .
-
-  - (c)
-
-  - (Signature of Claimant(s))
-
-  - .
-
-    - (c) (Signature of Defendant(s)) Before me, . Authorized Officer. Filed this . day of . 19 . Registrar L.S. Note : (a) Insert full names of those parties who agree to the settlement.
+  - (c) (Signature of Defendant(s)) Before me, . Authorized Officer. Filed this . day of . 19 . Registrar L.S. Note : (a) Insert full names of those parties who agree to the settlement.
 
 - (b) Set out in full the conditions on which the settlement is agreed
 
@@ -380,61 +402,59 @@ I, (a) ., a party to this claim which was heard and determined before you on the
 
 - Note : (a) Insert full name of the party making application
 
-  - (b)
+  - (b) An application for a review of an award or order must be made within 7 days of the award or order.
 
-  - An application for a review of an award or order must be made within 7 days of the award or order.
+(L.N. 125 of 1995)
 
-  - _
+_
 
-  - FORM 14 | [section 32(2)]
+FORM 14 | [section 32(2)]
 
-  - LABOUR TRIBUNAL ORDINANCE
+LABOUR TRIBUNAL ORDINANCE
 
-  - (Chapter 25) APPLICATION FOR LEAVE TO APPEAL ON POINT OF LAW [title as in Form 1]
+(Chapter 25) APPLICATION FOR LEAVE TO APPEAL ON POINT OF LAW [title as in Form 1]
 
-  - TO THE COURT OF FIRST INSTANCE.
+TO THE COURT OF FIRST INSTANCE.
 
-  - I, (a) ., a party to this claim, pursuant to section 32 of the Labour Tribunal Ordinance do hereby apply for leave to appeal against the *award/order/determination by .,
+I, (a) ., a party to this claim, pursuant to section 32 of the Labour Tribunal Ordinance do hereby apply for leave to appeal against the *award/order/determination by ., Presiding Officer, made in respect of this claim on the .day of . 19 .
 
-  - Presiding Officer, made in respect of this claim on the .day of . 19 .
+- The grounds on which I desire to appeal are that—
 
-  - The grounds on which I desire to appeal are that—
+- *the *award/order/determination is erroneous in point of law in that-(b)
 
-  - *the *award/order/determination is erroneous in point of law in that-(b)
+- 1. | .
 
-  - 1. | .
+- 2. | .
 
-  - 2. | .
+- 3. | .
 
-  - 3. | .
+- 4. | .
 
-  - 4. | .
+- *the *award/order/determination is outside the jurisdiction of the tribunal in that-(c)
 
-  - *the *award/order/determination is outside the jurisdiction of the tribunal in that-(c)
+- 1. | .
 
-  - 1. | .
+- 2. | .
 
-  - 2. | .
+- 3. | .
 
-  - 3. | .
+- 4. | .
 
-  - 4. | .
+- Dated this . day of . 19 .
 
-  - Dated this . day of . 19 .
+- .
 
-  - .
+- (Signature of Applicant)
 
-  - (Signature of Applicant)
+  - (d) Lodged this . day of . 19 . . Registrar, High Court L.S.
 
-    - (d) Lodged this . day of . 19 . . Registrar, High Court L.S.
+- * Delete whichever is not applicable. Note: (a) Insert full name of the party making the application for leave to appeal.
 
-  - * Delete whichever is not applicable. Note: (a) Insert full name of the party making the application for leave to appeal.
+  - (b) Set out the point of law in question.
 
-    - (b) Set out the point of law in question.
+  - (c) Set out the reasons.
 
-    - (c) Set out the reasons.
-
-    - (d) This application must be lodged with the Registrar, High Court, within 7 days after the date on which the written award/order/determination appealed against was served.
+  - (d) This application must be lodged with the Registrar, High Court, within 7 days after the date on which the written award/order/determination appealed against was served.
 
 (L.N. 133 of 1974; L.N. 126 of 1976; L.N. 203 of 1982; L.N. 125 of 1995; 25 of 1998 s. 2)
 
@@ -506,7 +526,7 @@ _
 
 - * Delete whichever is not applicable Note: (a) Service to be effected in accordance with the Labour Tribunal (General) Rules.
 
-(L.N. 133 of 1974; L.N. 203 of 1982;L.N. 125 of 1995; 25 of 1998 s. 2)
+(L.N. 133 of 1974; L.N. 203 of 1982; L.N. 125 of 1995; 25 of 1998 s. 2)
 
 _
 
@@ -516,9 +536,7 @@ LABOUR TRIBUNAL ORDINANCE
 
 (Chapter 25) CERTIFICATE OF *AWARD/ORDER [title as in Form 1]
 
-I, ., certify that (a) .
-
-on the . day of . 19 . obtained against (b) . in the tribunal *the award of ./the order for the payment of .
+I, ., certify that (a) . on the . day of . 19 . obtained against (b) . in the tribunal *the award of ./the order for the payment of .
 
 Dated this . day of . 19 .
 
@@ -552,9 +570,7 @@ LABOUR TRIBUNAL ORDINANCE
 
 TO THE LABOUR TRIBUNAL.
 
-I, (a)., a claimant
-
-to this claim, which was struck out by the tribunal in my absence on the . day of . 19 . hereby, pursuant to section 20A of the Labour Tribunal Ordinance, make application for the restoration of the claim.
+I, (a)., a claimant to this claim, which was struck out by the tribunal in my absence on the . day of . 19 . hereby, pursuant to section 20A of the Labour Tribunal Ordinance, make application for the restoration of the claim.
 
 The *reason/reasons for my non-appearance at the hearing *is/are .
 
@@ -562,7 +578,7 @@ The *reason/reasons for my non-appearance at the hearing *is/are .
 
 .
 
-- (b) Dated this . day of . 19 . . (Signature of Applicant) *Delete whichever is not applicable. Note: (a) Insert full name of the claimant making application.
+- (b) Dated this . day of . 19 . . (Signature of Applicant) * Delete whichever is not applicable. Note: (a) Insert full name of the claimant making application.
 
 - (b) This application must be made to the tribunal within 7 days after the hearing or such further period as the tribunal may allow.
 
@@ -614,7 +630,9 @@ An application has been made by (a) .
 
 - *restore under section 20A of the Labour Tribunal Ordinance a claim which was struck out
 
-- *set aside under section 21A of the Labour Tribunal Ordinance the *award/order made in the absence of the applicant on the . day of . 19 . in respect of this claim. The reasons for the non-appearance of the applicant are set out in the Application, a copy of which is annexed hereto.
+- *set aside under section 21A of the Labour Tribunal Ordinance the *award/order made
+
+- in the absence of the applicant on the . day of . 19 . in respect of this claim. The reasons for the non-appearance of the applicant are set out in the Application, a copy of which is annexed hereto.
 
 - TAKE NOTICE that the Application will be heard at a tribunal to be held at . before ., Presiding Officer, on the . day of . 19 ., at . *a.m./p.m.
 
