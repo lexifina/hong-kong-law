@@ -110,6 +110,8 @@ s-067.md
 s-067A.md
 s-067B.md
 s-067C.md
+s-067D.md
+s-067E.md
 s-068.md
 s-069.md
 s-070.md
