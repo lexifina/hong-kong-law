@@ -1,17 +1,5 @@
-# SCHEDULE
+# Schedule
 
-[s. 2]
+(Ceased to be in force)
 
-Item | Designated body | Number of members
-
-1. | Catholic Diocese of Hong Kong | 7
-
-2. | Chinese Muslim Cultural and Fraternal Association | 6
-
-3. | Hong Kong Christian Council | 7
-
-4. | The Hong Kong Taoist Association | 6
-
-5. | The Confucian Academy | 7
-
-6. | The Hong Kong Buddhist Association | 7
+(This Order was originally made under section 2(2) of Schedule 2 to Cap. 542. That Schedule was repealed by the Chief Executive Election Ordinance (Cap. 569) with effect from 21 September 2001 but section 2(2) was re-enacted as section 6(2) of the Schedule to Cap. 569. This Order therefore continued in force as if made under Cap. 569 until a new Order made under section 6(2) of the Schedule to Cap. 569, namely, the Distribution of Number of Members among Designated Bodies (Election Committee) Order 2001 (Cap. 569 sub. leg. D), came into operation on 23 November 2001.)
