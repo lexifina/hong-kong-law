@@ -1,0 +1,5 @@
+PUBLIC MARKET (REGIONAL COUNCIL) BY-LAWS
+
+(Cap. 132, section 80)
+
+[1 July 1963] L.N. 79 of 1963
