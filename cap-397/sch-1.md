@@ -48,6 +48,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Environmental Protection Department.
 
+- Equal Opportunities Commission. (Added 30 of 2001 s. 19)
+
 - Fire Services Department.
 
 - Food and Environmental Hygiene Department. (Added 78 of 1999 s. 7)
@@ -133,6 +135,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 - Post Office.
 
 - Printing Department.
+
+- Privacy Commissioner for Personal Data. (Added 30 of 2001 s. 19)
 
 - Radio Television Hong Kong.
 

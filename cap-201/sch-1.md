@@ -198,4 +198,6 @@ PUBLIC BODIES
 
 - 96. Hong Kong Exchanges and Clearing Limited. (Added 12 of 2000 s. 23)
 
-- 97. Hong Kong Science and Technology Parks Corporation. (Added 5 of 2001 s. 40) (Replaced L.N. 272 of 1974)
+- 97. Hong Kong Science and Technology Parks Corporation. (Added 5 of 2001 s. 40)
+
+- 98. The Ombudsman. (Added 30 of 2001 s. 24) (Replaced L.N. 272 of 1974)
