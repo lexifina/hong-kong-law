@@ -1,0 +1,5 @@
+MUNSANG COLLEGE RULES
+
+(Cap. 1094 section 9)
+
+[24 May 1957]
