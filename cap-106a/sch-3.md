@@ -4,8 +4,6 @@
 
 FORM OF LICENCES
 
-(Adaptation amendments retroactively made - see 29 of 1998 ss. 24 & 105)
-
 TELECOMMUNICATION ORDINANCE
 
 (Chapter 106) PRIVATE TELEGRAPH (RECEPTION) LICENCE
@@ -230,11 +228,7 @@ CONDITIONS
 
   - Provided that the Licensee shall permit any person, acting in the course of his duty on behalf of the Telecommunications Authority or the Director of Marine, to have access to the Station at all reasonable times for the purpose of inspecting and testing the apparatus comprised therein. The Licensee shall ensure that persons operating the Station shall observe the conditions of this licence at all times.
 
-- 5.
-
-- The Station shall be operated only by persons authorized by the Licensee in that behalf and possessing the written authority of the Telecommunications Authority to fill the position of operator of a ship’s station for radiocommunication of the type of the Station, but these
-
-- requirements —
+- 5. The Station shall be operated only by persons authorized by the Licensee in that behalf and possessing the written authority of the Telecommunications Authority to fill the position of operator of a ship’s station for radiocommunication of the type of the Station, but these requirements—
 
   - (a) shall not prevent the use or operation of the Station in time of distress in whatever manner and by any persons for the purpose of attracting attention, making known their position and obtaining help; and
 
@@ -446,9 +440,7 @@ CONDITIONS
 
 - 8. In this Licence—
 
-  - (1)
-
-    - “Press message” (新聞訊息) means messages of which the text consists exclusively of information, comment, reports and narratives on subjects of public interest for the time being intended for publication in a newspaper; or for broadcasting;
+  - (1) “Press message” (新聞訊息) means messages of which the text consists exclusively of information, comment, reports and narratives on subjects of public interest for the time being intended for publication in a newspaper; or for broadcasting;
 
   - (2) (Repealed L.N. 4 of 1984)
 
@@ -2574,7 +2566,9 @@ CONDITIONS
 
   - (a) to establish and maintain a satellite master antenna television system or systems (hereinafter referred to as “the system”) consisting of a radio communication receiving station or stations at the location or locations specified in the Schedule connected by wire to outlet points at the premises of users of the system within the area or areas specified in the Schedule;
 
-  - (b) to receive television programmes transmitted from satellites intended for general reception;
+  - (b) to receive television programmes, teletext services or other subcarrier information and sound programmes transmitted from satellites intended for general reception;
+
+  - (baa) commencing from 1 January 2000, to receive telecommunications messages transmitted from satellites intended for reception by users of the system;
 
   - (ba) by connecting the system with a subscription television network pursuant to an agreement between the licensee and the relevant subscription television broadcasting licensee—
 
@@ -2582,35 +2576,103 @@ CONDITIONS
 
       - (A) television programmes and ancillary telecommunication services; and
 
-      - (B) functional data signals, transmitted in accordance with the relevant subscription television broadcasting licence; and
+      - (B) functional data signals,
 
-    - (ii) to relay to the subscription television network functional data signals from outlet points of the system referred to in paragraph (a);
+- transmitted by the relevant subscription television broadcasting licensee; and
 
-  - (bb) to receive—
+  - (ii) to relay to the subscription television network functional data signals from outlet points of the system referred to in paragraph (a);
 
-    - (i) teletext services; and
+  - (bb) by connecting the system with a programme service pursuant to an agreement between the licensee and the relevant programme service licensee—
 
-    - (ii) sound programmes intended for general reception, transmitted from satellites; and
+    - (i) to receive—
 
-  - (c) to distribute to outlet points of the system referred to in paragraph (a) the programmes, services and signals received in accordance with paragraphs (b), (ba) and (bb).
+      - (A) television programmes and ancillary telecommunication services; and
 
-- In this Licence—
+      - (B) functional data signals,
 
-  - “ancillary telecommunication services” (附屬電訊服務) means—
+    - provided by the relevant programme service licensee; and
 
-    - (a) the teletext or other subcarrier information; and
+    - (ii) to relay to the programme service functional data signals from outlet points of the system referred to in paragraph (a);
 
-    - (b) the sound programmes,
+  - (bc) by connecting the system with subscription satellite television services pursuant to an agreement between the licensee and the relevant Satellite Television Uplink and Downlink Licensee—
 
-  - transmitted in accordance with a subscription television broadcasting licence;
+    - (i) to receive—
 
-  - “functional data signals” (功能數據訊號) means data signals which are necessary for the reception, interruption or cessation of television programmes and ancillary telecommunication services or other functions incidental to the provision of such programmes and services;
+      - (A) television programmes and ancillary telecommunication services; and
 
-  - “subscription television broadcasting licensee” (收費電視廣播持牌人) and “subscription television network” (收費電視網絡) have the same meaning as in section 2 of the Television Ordinance (Cap. 52);
+      - (B) functional data signals,
 
-  - “subscription television programmes” (收費電視節目) is to be construed according to the meaning of subscription television broadcasting in the Television Ordinance (Cap. 52);
+  - transmitted by the relevant Satellite Television Uplink and Downlink Licensee; and
 
-  - “television programme” (電視節目) has the same meaning as in section 2 of the Television Ordinance (Cap. 52). GENERAL CONDITIONS
+    - (ii) to relay to the subscription satellite television services via a telecommunication system or a telecommunication service functional data signals from outlet points of the system referred to in paragraph (a);
+
+  - (bd) by connecting the system with a telecommunication system or a telecommunication service pursuant to an agreement between the licensee and the licensee, or the exempted person, of the relevant telecommunication system or telecommunication service—
+
+    - (i) to receive telecommunications messages transmitted by the licensee, or the exempted person, of the relevant telecommunication system or telecommunication service; and
+
+    - (ii) to relay telecommunications messages to the telecommunication system or telecommunication service from outlet points of the system referred to in paragraph (a);
+
+  - (be) to receive commercial television programmes by connecting the system with a communal aerial broadcast distribution system pursuant to an agreement between the licensee and the relevant communal aerial broadcast distribution system owner; and
+
+  - (c) to distribute to outlet points of the system referred to in paragraph (a) the programmes, services and signals received in accordance with paragraphs (b), (ba), (baa), (bb), (bc), (bd) and (be). In this Licence—
+
+    - “ancillary telecommunication services” (附屬電訊服務) means—
+
+  - (a) the teletext or other subcarrier information; and
+
+  - (b) the sound programmes, transmitted in accordance with a subscription television broadcasting licence, a programme service licence or a Satellite Television Uplink and Downlink Licence, as the case may be;
+
+    - “commercial television broadcasting licensee” (商營電視廣播持牌人) has the same meaning as in section 2 of the Television Ordinance (Cap. 52);
+
+    - “commercial television programmes” (商營電視節目) is to be construed according to the meaning of commercial television broadcasting in the Television Ordinance (Cap. 52);
+
+    - “communal aerial broadcast distribution system” (公共天線系統) means a coaxial cable system distributing signals transmitted by commercial television broadcasting licensees;
+
+    - “communication” (通訊) includes any communication—
+
+  - (a) whether between persons and persons, things and things or persons and things; and
+
+  - (b)
+
+  - whether in the form of speech, music or other sounds; or text, or visual images whether or not animated; or signals in any form or combination of forms;
+
+    - “exempted person” (獲豁免人士) means, in relation to a telecommunication system or a telecommunication service, a person exempted from licensing under the Ordinance;
+
+    - “functional data signals” (功能數據訊號) means data signals which are necessary for the reception, interruption or cessation of television programmes and ancillary telecommunication services or other functions incidental to the provision of such programmes and services;
+
+    - “Ordinance” (《條例》) means the Telecommunication Ordinance (Cap. 106);
+
+    - “programme service” (節目服務) means a programme service within the meaning of the Television Ordinance (Cap. 52);
+
+    - “programme service licence” (節目服務牌照) and “programme service licensee” (節目服務持牌人) have the same meaning as in section 2 of the Television Ordinance (Cap. 52);
+
+    - “programme service programmes” (節目服務節目) is to be construed according to the meaning of programme service in the Television Ordinance (Cap. 52);
+
+    - “Satellite Television Uplink and Downlink Licence” (衞星電視上行及下行牌照) means a licence granted under sections 7 and 34 of the Ordinance that has the title “Satellite Television Uplink and Downlink Licence”;
+
+    - “Satellite Television Uplink and Downlink Licensee” (衞星電視上行及下行持牌人) means the holder of a Satellite Television Uplink and Downlink Licence;
+
+    - “subscription satellite television programmes” (收費衞星電視節目) is to be construed according to the meaning of subscription satellite television services;
+
+    - “subscription satellite television services” (收費衞星電視服務) means the subscription services expressly permitted to be provided in Hong Kong under a Satellite Television Uplink and Downlink Licence;
+
+    - “subscription television broadcasting licence” (收費電視廣播牌照) has the same meaning as in section 2 of the Television Ordinance (Cap. 52);
+
+    - “subscription television broadcasting licensee” (收費電視廣播持牌人) and “subscription television network” (收費電視網絡) have the same meaning as in section 2 of the Television Ordinance (Cap. 52);
+
+    - “subscription television programmes” (收費電視節目) is to be construed according to the meaning of subscription television broadcasting in the Television Ordinance (Cap. 52);
+
+    - “telecommunication service” (電訊服務) means a telecommunication service licensed under the Ordinance, expressed as being licensed in exercise of the powers conferred by sections 7 and 34 of the Ordinance, exempted from licensing under the Ordinance or deemed to be licensed under the Ordinance;
+
+    - “telecommunication system” (電訊系統) means a telecommunication system licensed under the Ordinance, expressed as being licensed in exercise of the powers conferred by sections 7 and 34 of the Ordinance, exempted from licensing under the Ordinance or deemed to be licensed under the Ordinance;
+
+    - “telecommunications messages” (電訊訊息) means any communication sent or received by telecommunication but does not include—
+
+  - (a) television programmes, teletext or other subcarrier information, or sound programmes; or
+
+  - (b) other data signals incidental to the provision of such television programmes, teletext or other subcarrier information, or sound programmes, transmitted pursuant to a satellite broadcasting service or a terrestrial broadcasting service;
+
+    - “television programme” (電視節目) has the same meaning as in section 2 of the Television Ordinance (Cap. 52). GENERAL CONDITIONS
 
 - 1. The system shall be operated only by the licensee and persons authorized by him in that behalf.
 
@@ -2632,13 +2694,17 @@ CONDITIONS
 
     - (c) on receipt of a notice in writing from the Authority, disconnect or remove any part of the system which, in the opinion of the Authority, is interfering, or is likely to interfere, with the working of any other means of telecommunication.
 
-  - (2) The licensee shall not use any instrument, apparatus or material on, or connect or apply any electrical currents to, any part of the system if the same interferes, or is likely to interfere, with the working of any other means of telecommunication. 4. The licensee shall permit any public officer authorized in writing by the Authority to inspect the system, relevant records and this licence at all reasonable times, and shall forthwith furnish to the Authority any information required by the Authority in connection with the operation of the system. 5. (1) If any message which the licensee is not authorized to distribute in accordance with General Condition 11 is unintentionally received by means of the system, neither the licensee nor any person operating the system shall disclose the contents of any such message, its origin or destination, its existence or the fact of its receipt to any person except a public officer authorized by the Authority or a competent court or tribunal, and shall not retain any copy, or make any use, of any such message, or allow it to be reproduced, copied or made use of.
+  - (2) The licensee shall not use any instrument, apparatus or material on, or connect or apply any electrical currents to, any part of the system if the same interferes, or is likely to interfere, with the working of any other means of telecommunication. 4. (1) The licensee shall at all reasonable times, when directed by the Authority, make the system available for inspection and testing by the Authority and any person authorized by the Authority in writing for that purpose.
 
-  - (2) The licensee shall take all practicable steps to prevent such a message from being received by any person. 6. The licensee shall not originate any material or message which is distributed to users of the system. 7. Nothing herein contained authorizes the licensee to do any act which is an infringement of any copyright which may exist in any programme or other matter received by the system. 8. This licence is not transferable and shall be returned to the Authority if it is revoked or when it has expired. 9. (1) No wire may be laid or maintained across any street or unleased Government land without the written authorization of the Authority.
+  - (2) The licensee shall permit the Authority or any person authorized by the Authority in writing to enter its premises for inspection of records, documents and accounts relating to the licensee’s business, at all reasonable times, in order for the Authority to perform his functions under this licence and the Ordinance. The licensee shall also provide copies of such records, documents and accounts to the Authority on demand.
 
-  - (2) The licensee shall comply with any conditions imposed, or directions given, by the Authority on the giving of his authorization for the purposes of paragraph (1). 10. (1) The licensee shall not charge or receive the benefit of, directly or indirectly, any fee for the right to receive programmes distributed by means of the system.
+  - (3) The Authority may make such use of any information obtained under this General Condition as he considers necessary for the administration of this licence and the Ordinance. 5. (1) If any message which the licensee is not authorized to distribute in accordance with General Condition 11 is unintentionally received by means of the system, neither the licensee nor any person operating the system shall disclose the contents of any such message, its origin or destination, its existence or the fact of its receipt to any person except a public officer authorized by the Authority or a competent court or tribunal, and shall not retain any copy, or make any use, of any such message, or allow it to be reproduced, copied or made use of.
 
-  - (1A) The licensee shall not, except for subscription television programmes, facilitate the charging of a fee for the right to receive programmes received by means of the system.
+  - (2) The licensee shall take all practicable steps to prevent such a message from being received by any person. 6. The licensee shall not originate any material or message which is distributed to users of the system. 7. Nothing herein contained authorizes the licensee to do any act which is an infringement of any copyright which may exist in any programme or other communication received by the system. 8. This licence is not transferable and shall be returned to the Authority if it is revoked or when it has expired. 9. (1) No wire may be laid or maintained across any street or unleased Government land without the written authorization of the Authority.
+
+  - (2) The licensee shall comply with any conditions imposed, or directions given, by the Authority on the giving of his authorization for the purposes of paragraph (1). 10. (1) The licensee shall not charge or receive the benefit of, directly or indirectly, any fee for the right to receive programmes or other communication distributed by means of the system.
+
+  - (1A) The licensee shall not, except for subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunication services and telecommunications messages, facilitate the charging of a fee for the right to receive programmes or other communication received by means of the system.
 
     - (2) The licensee shall, except in so far as the Authority may otherwise in writing permit, publish in the manner specified in paragraph (3) a notice specifying, or specifying the method that is to be adopted for determining, the charges and other terms and conditions on which he offers his services.
 
@@ -2654,33 +2720,47 @@ CONDITIONS
 
     - (4) The licensee shall not levy charges exceeding or in addition to the charges specified in the notice referred to in paragraph (2).
 
-    - (5) The licensee shall notify the Authority in writing of any fees payable to the licensee under an agreement between the licensee and a subscription television broadcasting licensee for the connection of the system with a subscription television network not later than 7 days prior to the fees becoming effective.
+    - (5) The licensee shall ensure a copy of an agreement—
+
+    - (a) between the licensee and a subscription television broadcasting licensee for the connection of the system with a subscription television network;
+
+    - (b) between the licensee and a programme service licensee for the connection of the system with a programme service;
+
+    - (c) between the licensee and a Satellite Television Uplink and Downlink Licensee for the connection of the system with subscription satellite television services;
+
+    - (d) between the licensee and the licensee, or the exempted person, of a telecommunication system or telecommunication service for the connection of the system with a telecommunication system or a telecommunication service; or
+
+    - (e) between the licensee and a communal aerial broadcast distribution system owner for the connection of the system with a communal aerial broadcast distribution system, is filed with the Authority within 14 days of the agreement being made.
+
+    - (6) The obligation under paragraph (5) may be waived by the Authority in relation to a particular agreement or agreements of a certain kind.
 
     - 11.
 
       - (1) Subject to paragraph (3), the licensee shall distribute only signals intended for general reception. For the purpose of this condition a signal is intended for general reception if—
 
-    - (a) the programme carried by the signal is not encrypted or where the programme carried by the signal is encrypted, the programme originator has declared publicly and notified the Authority and the Authority is satisfied that (i) the programme is intended for general reception and (ii) he will not charge any fee for the right to view or listen to the programme in Hong Kong; and
+    - (a) the programme (or other communication) carried by the signal is not encrypted or where the programme (or other communication) carried by the signal is encrypted, the signal originator has declared publicly and notified the Authority and the Authority is satisfied that (i) the programme (or other communication) is intended for general reception and (ii) he will not charge any fee for the right to view or listen to the programme (or other communication) in Hong Kong; and
 
-    - (b) neither the licensee nor the users of the system are required to pay a fee to the programme originator or his authorized agent.
+    - (b) neither the licensee nor the users of the system are required to pay a fee to the signal originator or his authorized agent.
 
-    - (2) For the purpose of paragraph (1)(a), it will be regarded as a public declaration if the programme originator declares publicly by publication in—
+  - (2) For the purpose of paragraph (1)(a), it will be regarded as a public declaration if the signal originator declares publicly by publication in—
 
     - (a) 1 Chinese language newspaper circulating in Hong Kong; and
 
     - (b) 1 English language newspaper circulating in Hong Kong.
 
-  - (3) The licensee may distribute signals carrying subscription television programmes.
+  - (3) The licensee may distribute signals carrying subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunication services and telecommunications messages.
 
     - 12.
 
-      - (1) Subject to paragraph (2), the licensee shall not distribute programmes carried by signals in an encrypted form to outlet points.
+      - (1) Subject to paragraph (2), the licensee shall not distribute programmes or other communication carried by signals in an encrypted form to outlet points.
 
     - (2)
 
-      - For the purposes of paragraph (1), “programmes” (節目) do not include subscription television programmes.
+      - For the purposes of paragraph (1), “programmes or other communication” (節目或其他通訊) does not include subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunication services and telecommunications messages.
 
-    - 13. The frequency plan employed in the system shall be approved by the Authority. The Performance Specification for Communal Aerial Distribution System (HKTA 1104) shall be observed unless otherwise directed by the Authority.
+    - 12A. Without the Authority’s consent in writing, the licensee shall not transmit any telecommunications messages received from satellites to any location outside the premises of users of the system.
+
+    - 13. The transmission plan employed in the system shall be approved by the Authority. The licensee shall distribute programmes, services, telecommunications messages and signals permitted under this licence in accordance with such approved plan and such approved plan may be modified by the Authority from time to time. The Performance Specification for Communal Aerial Distribution System (HKTA 1104) shall be observed unless otherwise directed by the Authority.
 
     - 14.
 
@@ -2694,13 +2774,17 @@ CONDITIONS
 
     - (2) The licensee shall ensure that the state of matters referred to in paragraph (1) shall be maintained throughout the duration of the licence.
 
-    - (3) The confirmation referred to in paragraph (1) shall be made by a structural engineer registered under section 3 of the Buildings Ordinance (Cap. 123). SPECIAL CONDITIONS SCHEDULE Location of radio communication receiving station
+    - (3) The confirmation referred to in paragraph (1) shall be made by a structural engineer registered under section 3 of the Buildings Ordinance (Cap. 123).
+
+    - 15. The licensee shall at all times perform and observe the requirements of the Constitution and Convention of the International Telecommunication Union and the regulations and recommendations annexed to or made under the Constitution and Convention as are applicable to Hong Kong except to the extent that the Authority may in writing expressly exempt the licensee from such compliance.
+
+    - 16. The Authority may at his discretion make the terms and conditions of this licence (including any specific conditions, transmission plan and Schedules to this licence) publicly available in any manner he thinks fit. SPECIAL CONDITIONS SCHEDULE Location of radio communication receiving station
 
     - Area of distribution
 
     - Number of outlet points within each area of distribution . For the Telecommunications Authority.
 
-- (L.N. 182 of 1991; L.N. 362 of 1993; 29 of 1998 s. 105)
+- (L.N. 182 of 1991; L.N. 362 of 1993; 29 of 1998 s. 105; L.N. 180 of 1999)
 
 - TELECOMMUNICATION ORDINANCE
 
