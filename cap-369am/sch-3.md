@@ -1,16 +1,12 @@
 # SCHEDULE 3
 
-[regs. 11A, 11B, 16(4), 19(2) & 31(1)(a), Sch. 1, Schedule 6(7) & Sch. 2, Schedule 10(2)]
+[regs. 11A, 11B, 16(4), 19(2) & 31(1)(a), Sch. 1 para. 6(7) & Sch. 2 para. 10(2)]
 
-STABILITY IN DAMAGED CONDITION
+Stability in Damaged Condition
 
 - PART 1
 
-  - 1.
-
-  - Assumptions on which calculations
-
-  - are to be based The sufficiency on intact stability of every ship to which Part IIA of these regulations applies shall be determined by calculation which has regard to the design and construction of the ship, and the damaged compartments, and which is in accordance with the following assumptions—
+  - 1. Assumptions on which calculations are to be based The sufficiency on intact stability of every ship to which Part IIA of these regulations applies shall be determined by calculation which has regard to the design and construction of the ship, and the damaged compartments, and which is in accordance with the following assumptions—
 
     - (1) The ship shall be assumed to be in the worst service conditions as regards stability which is likely to be experienced having regard to the intended service of the ship, or damage calculations shall be made over the operational draught range as a basis for curves of required metacentric height (GM) values or permissible vertical centre of gravity (KG) values.
 
@@ -44,13 +40,7 @@ STABILITY IN DAMAGED CONDITION
 
 - PART 2
 
-  - 2.
-
-  - Sufficiency of the stability in the damaged condition as applicable
-
-  - to all passenger ships to which Part IIA of these
-
-  - regulations applies, except post 1990 ships The intact stability of the ship shall be deemed to be sufficient if the calculation specified in paragraph 1 shows that, after the assumed damage, the condition of the ship is as follows—
+  - 2. Sufficiency of the stability in the damaged condition as applicable to all passenger ships to which Part IIA of these regulations applies, except post 1990 ships The intact stability of the ship shall be deemed to be sufficient if the calculation specified in paragraph 1 shows that, after the assumed damage, the condition of the ship is as follows—
 
     - (1) In the event of symmetrical flooding—
 
@@ -72,17 +62,13 @@ STABILITY IN DAMAGED CONDITION
 
 - PART 3
 
-  - 3.
-
-  - Sufficiency of stability in the damaged condition as applicable
-
-  - to all passenger ships to which Part IIA of these
-
-  - regulations applies and which are post 1990 ships The intact stability of the ship shall be deemed to be sufficient if the calculation specified in paragraph 1 shows that, after the assumed damage, the condition of the ship is as follows—
+  - 3. Sufficiency of stability in the damaged condition as applicable to all passenger ships to which Part IIA of these regulations applies and which are post 1990 ships The intact stability of the ship shall be deemed to be sufficient if the calculation specified in paragraph 1 shows that, after the assumed damage, the condition of the ship is as follows—
 
     - (1) In the final stage after damage, and after equalization where provided—
 
-      - (a) the positive residual righting lever curve shall have a minimum range of 15 degrees beyond the angle of equilibrium;
+      - (a) the positive residual righting lever curve shall have a minimum range of 15 degrees beyond the angle of equilibrium and this range may be reduced to a minimum of 10 degrees, in the case where the area under the righting lever curve is that specified in sub-subparagraph (b), increase by ratio: 15 Range
+
+      - where range is expressed in degrees; (L.N. 109 of 2001)
 
       - (b) the area under the righting lever curve shall be at least 0.015 metre radians, measured from the angle of equilibrium to the lesser of—
 
@@ -90,21 +76,13 @@ STABILITY IN DAMAGED CONDITION
 
         - (ii) 22 degrees (measured from the upright) in the case of one compartment flooding, or 27 degrees (measured from the upright) in the case of the simultaneous flooding of two or more adjacent compartments;
 
-      - (c) a residual righting lever is to be obtained within the ranged specified in subparagraph (1)(a), taking into account the greatest of the following heeling moments—
+      - (c) a residual righting lever is to be obtained within the range of positive stability, taking into account the greatest of the following heeling moments— (L.N. 109 of 2001)
 
         - (i) the crowding of all passengers towards one side;
 
         - (ii) the launching of all fully loaded davit-launched survival craft on one side;
 
-        - (iii) due to wind pressure as calculated by the formula—
-
-        - heeling moment
-
-        - GZ (in metres) = _ + 0.04
-
-        - displacement
-
-        - However, in no case is this righting lever to be less than 0.10 metres;
+        - (iii) due to wind pressure as calculated by the formula— GZ (in metres) = heeling moment displacement + 0.04 However, in no case is this righting lever to be less than 0.10 metres;
 
       - (d) for the purpose of calculating the heeling moments in sub-subparagraph (c), the following assumptions shall be made—
 
