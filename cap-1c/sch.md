@@ -448,6 +448,8 @@ Secretary for Broadcasting, Culture and Sport (L.N. 372 of 1996) | Books Registr
 
 Secretary for Economic Services | Merchant Shipping (Safety) Ordinance (Chapter 369), section 5. (L.N. 94 of 1984)
 
+*Secretary for Home Affairs | Books Registration Ordinance (Chapter 142). (18 of 2014 s. 66)
+
 Secretary for Home Affairs | Clubs (Safety of Premises) Ordinance (Chapter 376). (L.N. 91 of 1992)
 
 Secretary for Home Affairs | Heung Yee Kuk Ordinance (Chapter 1097), section 3(3). (L.N. 235 of 1995)
@@ -476,4 +478,6 @@ Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 2
 
 Editorial Note:
 
-For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
+1. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
+
+2. * This entry was added by section 66 of Ord. No. 18 of 2014. By virtue of section 1(5) of Ord. No. 18 of 2014, section 66 was deemed to have come into operation on 9 April 1998.
