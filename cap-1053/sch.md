@@ -132,7 +132,7 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Business Administration in Accounting and Finance
 
-    - Bachelor of Cognitive Science (L.N. 99 of 1997)
+    - Bachelor of Cognitive Science
 
     - Bachelor of Dental Surgery
 
@@ -152,7 +152,7 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Medicine and Bachelor of Surgery
 
-    - Bachelor of Nursing (L.N. 99 of 1997)
+    - Bachelor of Nursing
 
     - Bachelor of Science
 
@@ -162,7 +162,7 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Science in Computer Science
 
-    - Bachelor of Science in Computer Science and Information Systems (L.N. 299 of 1998)
+    - Bachelor of Science in Computer Science and Information Systems
 
     - Bachelor of Science in Computer Studies
 
@@ -184,11 +184,11 @@ ARRANGEMENT OF STATUTES
 
     - Master of Arts
 
-    - Master of Arts in Applied Linguistics (L.N. 490 of 1997)
+    - Master of Arts in Applied Linguistics
 
     - Master of Business Administration
 
-    - Master of Common Law (L.N. 299 of 1998)
+    - Master of Common Law
 
     - Master of Dental Surgery
 
@@ -204,7 +204,7 @@ ARRANGEMENT OF STATUTES
 
     - Master of Medical Sciences
 
-    - Master of Orthodontics (L.N. 99 of 1997)
+    - Master of Orthodontics
 
     - Master of Philosophy
 
@@ -212,7 +212,7 @@ ARRANGEMENT OF STATUTES
 
     - Master of Science
 
-    - Master of Science in Audiology (L.N. 490 of 1997)
+    - Master of Science in Audiology
 
     - Master of Science in Computer Science
 
@@ -222,7 +222,7 @@ ARRANGEMENT OF STATUTES
 
     - Master of Science in Environmental Management
 
-    - Master of Science in Real Estate (L.N. 490 of 1997)
+    - Master of Science in Real Estate
 
     - Master of Science in Real Estate Development
 
@@ -260,15 +260,15 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences honoris causa
 
-  - (L.N. 516 of 1994)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998)
 
   - 2. The University may award any of the following diplomas and certificates—
 
     - (a) Diplomas Advanced Diploma in Education
 
-    - Advanced Diploma in Orthodontics (L.N. 99 of 1997)
+    - Advanced Diploma in Orthodontics
 
-    - Advanced Diploma in Paediatric Dentistry (L.N. 299 of 1998)
+    - Advanced Diploma in Paediatric Dentistry
 
     - Advanced Diploma in Social Work
 
@@ -284,19 +284,19 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Commercial Law
 
-    - Postgraduate Diploma in Common Law (L.N. 299 of 1998)
+    - Postgraduate Diploma in Common Law
 
     - Postgraduate Diploma in Construction Project Management
 
     - Postgraduate Diploma in Dental Surgery
 
-    - Postgraduate Diploma in Public Law (L.N. 490 of 1997)
-
-    - Postgraduate Diploma in Surveying (Quantity Surveying) (L.N. 490 of 1997)
-
-    - Postgraduate Diploma in Surveying (Real Estate Development) (L.N. 490 of 1997)
-
     - Postgraduate Diploma in the Law of the People’s Republic of China
+
+    - Postgraduate Diploma in Public Law
+
+    - Postgraduate Diploma in Surveying (Quantity Surveying)
+
+    - Postgraduate Diploma in Surveying (Real Estate Development)
 
     - (b) Certificates Certificate in Chinese Language
 
@@ -318,7 +318,7 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Certificate in Psychology
 
-  - (L.N. 516 of 1994)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
@@ -382,7 +382,7 @@ ARRANGEMENT OF STATUTES
 
   - 3. The Vice-Chancellor shall be a member of every committee of the Court, Council or Senate, and of every committee of the Board of any Faculty but shall not be a member of the Disciplinary Committee. (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 72 of 1993)
 
-  - 4. The Vice-Chancellor shall have power to appoint a person to act as an officer during a temporary vacancy in the office or in the temporary absence from duty or inability of the officer except where an alternative method of making such a temporary appointment during a temporary vacancy or temporary absence is prescribed by the Ordinance or by these statues. The Vice-Chancellor shall also have power to appoint a person to act in any other official capacity as may be determined by the Council during a temporary vacancy in such official capacity or in the temporary absence from duty or inability of the holder of the official capacity. The person so appointed may exercise all or any of the powers, perform all or any of the duties, and have such of the privileges of the holder of the office or of the holder of the official capacity in which he is appointed to act as the Vice-Chancellor may determine. (L.N. 267 of 1988)
+  - 4. The Vice-Chancellor shall have power to appoint a person to act as an officer during a temporary vacancy in the office or in the temporary absence from duty or inability of the officer except where an alternative method of making such a temporary appointment during a temporary vacancy or temporary absence is prescribed by the Ordinance or by these statutes. The Vice-Chancellor shall also have power to appoint a person to act in any other official capacity as may be determined by the Council during a temporary vacancy in such official capacity or in the temporary absence from duty or inability of the holder of the official capacity. The person so appointed may exercise all or any of the powers, perform all or any of the duties, and have such of the privileges of the holder of the office or of the holder of the official capacity in which he is appointed to act as the Vice-Chancellor may determine. (L.N. 267 of 1988)
 
   - 5. The Vice-Chancellor shall have such disciplinary powers in respect of students as may be conferred by these statutes and any regulations made thereunder. (L.N. 19 of 1971)
 
@@ -414,25 +414,25 @@ ARRANGEMENT OF STATUTES
 
 - (L.N. 83 of 1992)
 
-  - 1. Subject to the decision of the Council, on the recommendation of the Senate, the Dean of each Faculty shall either be—
+  - 1. Subject to the approval of the Council, on the recommendation of the relevant Board of Faculty and endorsed by the Senate, the Dean of each Faculty shall either be—
 
-    - (a) elected, for a period of 3 years, by the Board of the Faculty from among the members of the Board who are full-time teachers in the teaching departments and other sub-divisions of studies and learning allocated to the Faculty; or
+    - (a) elected, for a period of 3 years, by the members of the relevant Board of the Faculty, from among the teachers in the Faculty; or
 
     - (b) appointed by the Council, for such period as the Council shall determine.
 
-- A Dean shall be eligible for re-election or re-appointment. (L.N. 299 of 1998)
+- A Dean shall be eligible for re-election or re-appointment. (L.N. 327 of 1998)
 
   - 2. Whenever the office of Dean becomes vacant a new Dean shall forthwith be elected or appointed.
 
   - 3. The Dean shall be a member of all committees of the Board of the Faculty and shall present candidates for degrees (except honorary degrees) in the subjects of the Faculty. (L.N. 299 of 1998)
 
-  - 4. An elected Dean of a Faculty may resign by written notice addressed to the Board of the Faculty. An appointed Dean may resign by written notice addressed to the Council. (L.N. 299 0f 1998)
+  - 4. An elected Dean of a Faculty may resign by written notice addressed to the Board of the Faculty. An appointed Dean may resign by written notice addressed to the Council. (L.N. 299 of 1998)
 
     - 5.
 
       - (a) Associate Deans of each Faculty shall be appointed by the Vice-Chancellor after nomination by, and consultation with, the Dean of the Faculty. (L.N. 299 of 1998)
 
-      - (b) The period of office of an Associate Dean shall expire on the same day as the period of office of the Dean of the Faculty to which the Associate Dean is appointed.
+      - (b) The period of office of an Associate Dean shall expire on the same day as the period of office of the Dean of the Faculty to which the Associate Dean is appointed. (L.N. 83 of 1992)
 
   - 6. An Associate Dean of a Faculty shall discharge such duties as may be determined by the Dean of the Faculty. (L.N. 83 of 1992)
 
@@ -616,7 +616,7 @@ ARRANGEMENT OF STATUTES
 
     - (fa) the Dean of Students; (L.N. 144 of 1970)
 
-    - (g) 10 persons appointed by the Chancellor; (L.N. 212 of 1978; L.N. 24 of 1984; L.N. 490 of 1997)
+    - (g) 10 persons appointed by the Chancellor; (L.N. 490 of 1997)
 
     - (h) 6 persons elected by the Court not being officers or teachers; (L.N. 144 of 1970; L.N. 117 of 1992)
 
@@ -748,17 +748,13 @@ ARRANGEMENT OF STATUTES
 
     - (e) 3 Deans of Faculties, elected by the Senate; and
 
-    - (f) a Director of The University of Hong Kong Foundation for Educational Development and Research Limited, appointed by resolution of the Board of that Foundation.
-
-  - (L.N. 490 of 1997)
+    - (f) a Director of The University of Hong Kong Foundation for Educational Development and Research Limited, appointed by resolution of the Board of that Foundation. (L.N. 490 of 1997)
 
   - 2.
 
     - (1) The persons appointed under paragraph 1(c), (d) and (f) shall hold office for a period of 3 years, shall be eligible for reappointment, and may resign by written notice addressed to the Registrar.
 
-    - (2) The persons elected under paragraph 1(e) shall hold office for a period of 3 years, shall be eligible for re-election, and may resign by written notice addressed to the Registrar.
-
-  - (L.N. 490 of 1997)
+    - (2) The persons elected under paragraph 1(e) shall hold office for a period of 3 years, shall be eligible for re-election, and may resign by written notice addressed to the Registrar. (L.N. 490 of 1997)
 
   - 3. The Registrar shall be the secretary to the Honorary Degrees Committee but shall not be a member thereof. (L.N. 58 of 1976)
 
@@ -768,9 +764,7 @@ ARRANGEMENT OF STATUTES
 
     - (b) services to the Hong Kong community; or
 
-    - (c) services to academia.
-
-  - (L.N. 490 of 1997)
+    - (c) services to academia. (L.N. 490 of 1997)
 
   - 5. The Honorary Degrees Committee shall seek from the members of the Court nominations for the award of honorary degrees, and shall have power to receive nominations from any other person or organization. (L.N. 490 of 1997)
 
