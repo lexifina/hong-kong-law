@@ -216,6 +216,8 @@ Benoxaprofen; its salts
 
 Benserazide; its salts
 
+Benzbromarone
+
 Benzhexol; its salts
 
 Benzquinamide
@@ -1032,6 +1034,8 @@ Mercaptopurine; its salts; its derivatives; their salts
 
 Meropenem; it salts
 
+Mesalazine; its salts
+
 Mescaline; its salts; other derivatives of phenethylamine formed by substitution in the aromatic ring; their salts
 
 Mesocarb; its salts
@@ -1136,9 +1140,15 @@ Nabumetone
 
 Nadolol; its salts
 
+Nadroparin; its salts
+
 Nafarelin; its salts
 
+Naftidrofuryl; its salts
+
 Nalbuphine; its salts
+
+Nalidixic acid
 
 Nalorphine; its salts
 
@@ -1163,6 +1173,8 @@ Nelfinavir; its salts
 Neostigmine; its salts
 
 Nevirapine; its salts
+
+Nicergoline
 
 Nicocodine; its salts
 
@@ -1242,6 +1254,8 @@ Pamidronate; its salts
 
 Pancuronium; its salts
 
+Pantethine; its salts
+
 Pantoprazole; its salts
 
 Paraldehyde
@@ -1316,6 +1330,8 @@ Pioglitazone; its salts
 
 Pipecuronium; its salts
 
+Pipemidic acid
+
 Pipobroman
 
 Piromidic acid; its salts
@@ -1330,11 +1346,15 @@ Pizotifen; its salts
 
 Polymethylenebistrimethylammonium salts
 
+Pralidoxime; its salts
+
 Pramipexole; its salts
 
 Pravastatin; its salts; its esters
 
 Prazosin; its salts
+
+Pridinol; its salts
 
 Primaquine; its salts
 
@@ -1396,9 +1416,13 @@ Prothionamide
 
 Prothipendyl; its salts
 
+Protirelin; its salts
+
 Protriptyline; its salts; its derivatives; their salts
 
 Pyrazinamide
+
+Pyricarbate (Pyridinolcarbamate)
 
 Pyridostigmine; its salts
 
@@ -1490,6 +1514,8 @@ Salmeterol and its salts when contained in aerosol dispensers
 
 Saquinavir; its salts
 
+Sermorelin; its salts
+
 Sertraline; its salts
 
 Sevelamer; its salts
@@ -1506,6 +1532,8 @@ Sodium aurothiomalate
 
 Sodium nitroprusside
 
+Somatostatin
+
 Sotalol; its salts
 
 Sparfloxacin; its salts; its esters
@@ -1515,6 +1543,8 @@ Sparteine; its salts
 Spironolactone
 
 Stavudine; its salts
+
+Streptokinase
 
 Strophanthus, glycosides of
 
@@ -1650,6 +1680,8 @@ Tramadol; its salts
 
 Trandolapril; its salts
 
+Tranexamic acid
+
 Tranylcypromine; its salts
 
 Trastuzumab
@@ -1668,6 +1700,8 @@ Tribromoethyl alcohol
 
 2,2,2-Trichloroethyl alcohol, esters of; their salts
 
+Trifluridine; its salts
+
 Trilostane
 
 Trimetaphan; its salts
@@ -1675,6 +1709,8 @@ Trimetaphan; its salts
 Trimetazidine; its salts
 
 Trimethadione
+
+Trimethoprim
 
 Trimetozine
 
@@ -1685,6 +1721,8 @@ Trimipramine; its salts
 Trioxsalen
 
 Triptorelin; its salts
+
+Tromantadine; its salts
 
 Tropisetron; its salts
 
@@ -1697,6 +1735,8 @@ Tybamate
 Urapidil; its salts
 
 Urethane
+
+Urokinase
 
 Valaciclovir; its salts
 
@@ -1774,7 +1814,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003)
 
 B
 
