@@ -22,6 +22,8 @@ Albania
 
 Algeria
 
+Angola (Added L.N. 342 of 1998)
+
 Antigua and Barbuda
 
 Argentina
@@ -66,6 +68,8 @@ Burkina Faso
 
 Burundi
 
+Cambodia (Added L.N. 342 of 1998)
+
 Cameroon
 
 Canada
@@ -94,6 +98,10 @@ Czech Republic
 
 Democratic People’s Republic of Korea
 
+Democratic Republic of Sao Tome and Principe (Added L.N. 342 of 1998)
+
+Democratic Republic of the Congo (Added L.N. 342 of 1998)
+
 Denmark
 
 Djibouti
@@ -109,6 +117,8 @@ Egypt
 El Salvador
 
 Estonia
+
+European Community (Added L.N. 342 of 1998)
 
 Fiji
 
@@ -168,7 +178,7 @@ Japan
 
 Jordan
 
-Kazakstan
+Kazakhstan (Added L.N. 342 of 1998)
 
 Kenya
 
@@ -218,8 +228,6 @@ Mongolia
 
 Morocco
 
-Mozambique
-
 Myanmar
 
 Namibia
@@ -238,6 +246,10 @@ Norway
 
 Pakistan
 
+Panama (Added L.N. 342 of 1998)
+
+Papua New Guinea (Added L.N. 342 of 1998)
+
 Paraguay
 
 Peru
@@ -253,6 +265,8 @@ Qatar
 Republic of Korea
 
 Republic of Moldova
+
+Republic of Mozambique (Added L.N. 342 of 1998)
 
 Romania
 
@@ -278,6 +292,8 @@ Slovak Republic
 
 Slovenia
 
+Solomon Islands (Added L.N. 342 of 1998)
+
 South Africa
 
 Spain
@@ -297,8 +313,6 @@ Switzerland
 Syria
 
 Tajikistan
-
-Tanzania
 
 Thailand
 
@@ -322,6 +336,8 @@ United Arab Emirates
 
 United Kingdom (Added 22 of 1999 s. 3)
 
+United Republic of Tanzania (Added L.N. 342 of 1998)
+
 United States of America
 
 Uruguay
@@ -334,10 +350,8 @@ Viet Nam
 
 Yugoslavia
 
-Zaire
-
 Zambia
 
 Zimbabwe
 
-(Replaced L.N. 314 of 1996. Amended 22 of 1999 s. 3)
+(Replaced L.N. 314 of 1996. Amended L.N. 342 of 1998; 22 of 1999 s. 3)
