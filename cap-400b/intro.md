@@ -1,0 +1,5 @@
+NOISE CONTROL (APPEAL BOARD) REGULATIONS
+
+(Cap. 400, section 27)
+
+[17 February 1989] L.N. 46 of 1989
