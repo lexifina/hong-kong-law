@@ -114,70 +114,166 @@ THIS ORDINANCE
 
 (Replaced 41 of 1989 s. 5)
 
-V.-MISCELLANEOUS FEES
+V.-FEES FOR INSPECTING, OBTAINING DOCUMENTS AND
 
-(a)-(b) (Repealed 60 of 1990 s. 9)
+RECORDS KEPT BY THE REGISTRAR, ETC.
 
-(c) | for inspecting—
+Description | Unregistered on-line user | Registered on-line user | On-site user
 
-(i) by virtue of section 305(1), a copy of all documents relating to one company kept by the Registrar and registered in respect of one calendar year, for each inspection . | $ 20
+(a) by virtue of section 158C(2) or 333C(2) or both, for inspecting the index of directors kept by the Registrar—
 
-(ii) by virtue of section 305(1), where a copy is not available, the register or any file or any other document, kept by the Registrar, for each inspection . | $ 20
+(i) for each inspection of the list of directors and reserve director (if any) of a company, or of the list of directors of an oversea company | $11 | $11 | $11
 
-(iia) by virtue of section 305(1), any document kept by the Registrar containing particulars relating to one company, for each inspection (Added L.N. 19 of 2000) . | $ 22
+(ii) for each inspection of the particulars of a director or a reserve director (if any) of a company, or of the particulars of a director of an oversea company | $11 | $11 | $11
 
-(iii) the register of charges kept under section 83, for each inspection (Replaced 17 of 1990 s. 5) . | $ 20
+(iii) for each inspection of all the directorships and reserve directorships held by a person in any companies, and all the directorships held by that person in any oversea companies | $22 | $22 | $22
 
-(d) | for issuing under section 305(1)—
+(b) by virtue of section 168R(4), for each inspection of the register of disqualification orders kept by the Registrar, per disqualified person | $11 | $11 | $11
 
-(i) a certificate of incorporation or change of name (Amended 28 of 2003 s. 116) . | $ 170
+(c) by virtue of section 305(1)—
 
-(ii) a copy of or extract from any document, or a copy of information contained in a record— (Amended 28 of 2003 s. 116)
+(i) for obtaining, by way of downloading through on-line medium, an image record of the following documents kept by the Registrar—
 
-(A) by photostatic means, per sheet or page . | $ 5
+(A) (I) each prospectus of a company or a company incorporated outside Hong Kong | $23 | $21 | Not applicable
 
-(B) where the copy or extract is made other than by photostatic means per folio of 100 words or part thereof . | $ 5
+(II) the memorandum, articles, or memorandum and articles of a company | $23 | $21 | Not applicable
 
-For each additional copy or extract after the first or top copy, per folio of 100 words or part thereof . | $ 5
+(III) the charter, statutes, memorandum and articles, or any other instrument, constituting or defining the constitution of an oversea company | $23 | $21 | Not applicable
 
-(e) | for certifying anything under section 305 (Amended 28 of 2003 s. 116) . | $ 130
+(IV) interim accounts prepared for a proposed distribution by a listed company and delivered under section 79H(4) | $23 | $21 | Not applicable
 
-(f) | for registering—
+(V) balance sheet (including any documents annexed to it), auditors’ report and directors’ report forwarded under section 109(3) in relation to an annual return of a company | $23 | $21 | Not applicable
 
-(i) under Part III of the Ordinance any charge required to be registered thereunder whether created by a company or existing on property acquired by a company . | $ 340
+(VI) account made up by liquidator in respect of a company filed under section 239(3) | $23 | $21 | Not applicable
 
-(ii) particulars of a series of debentures under Part III of the Ordinance . | $ 340
+(VII) account made up by liquidator in respect of a company filed under section 248(3) | $23 | $21 | Not applicable
 
-(iii) the appointment of a receiver or manager, or a mortgagee’s entering into possession, under section 87 . | $ 40
+(VIII) accounts of an oversea company delivered under section 333(1)(f) | $23 | $21 | Not applicable
 
-(iv) a memorandum under section 85 (Added L.N. 457 of 1997. Amended 28 of 2003 s. 116) . | $ 190
+(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of an oversea company delivered under section 336(1)(a) and (b) | $23 | $21 | Not applicable
 
-(g) | for endorsing the words “satisfaction entered” or the expression in Chinese “已清償” upon an instrument of charge under section 85 (Amended 3 of 1997 s. 59) . | $ 40
+(B) (I) each annual return of a company (but excluding those documents which are forwarded under section 109(3)(a) and (b)) | $18 | $16 | Not applicable
 
-(h) | (Repealed 28 of 2003 s. 116)
+(II) the lists in specified form delivered under section 333(1)(b) and (c) or each return delivered under section 336(1), in respect of an oversea company | $18 | $16 | Not applicable
 
-(ha) | for processing an application requesting the Registrar to represent a defunct company or its liquidator under section 291B (Added L.N. 457 of 1997) . | $1,740
+(C) (I) the register of charges in respect of a company or a company (whether a company within the meaning of this Ordinance or not) incorporated outside Hong Kong which has a place of business in Hong Kong kept under section 83(1), per charge | $10 | $9 | Not applicable
 
-(i) | for the completion of or giving effect to any dealing, transaction or matter relating to a defunct company, by any act done or caused to be done by the Registrar under section 291B . | $1,240
+(II) any other document | $10 | $9 | Not applicable
 
-(j) | for an authorization under section 111(1) . | $ 850
+(ii) for inspecting and obtaining, at the office for the registration of companies, a copy of an image record of the following documents kept by the Registrar—
 
-(k) | for inspecting, by virtue of section 158C(2) or 333C(2), the index of directors kept by the Registrar—
+(A) (I) each prospectus of a company or a company incorporated outside Hong Kong | Not applicable | Not applicable | $35
 
-(i) for each search of the list of directors of a company . | $ 11
+(II) the memorandum, articles, or memorandum and articles of a company | Not applicable | Not applicable | $35
 
-(ii) for each search of the personal particulars of a director in a company . | $ 11
+(III) the charter, statutes, memorandum and articles, or any other instrument, constituting or defining the constitution of an oversea company | Not applicable | Not applicable | $35
 
-(iii) for each search showing all the directorships in companies incorporated in Hong Kong or registered under Part XI of the Ordinance held by a single person (Replaced L.N. 19 of 2000) . | $ 22
+(IV) interim accounts prepared for a proposed distribution by a listed company and delivered under section 79H(4) | Not applicable | Not applicable | $35
 
-(l) | (Repealed L.N. 19 of 2000)
+(V) balance sheet (including any documents annexed to it), auditors’ report and directors’ report forwarded under section 109(3) in relation to an annual return of a company | Not applicable | Not applicable | $35
 
-(m) | for making a single search of the register of disqualification orders, kept by the Registrar (Added L.N. 570 of 1994) . | $ 11
+(VI) account made up by liquidator in respect of a company filed under section 239(3) | Not applicable | Not applicable | $35
 
-(n) | lodgment fee for notification of change of company name (Added L.N. 11 of 1996. Amended 28 of 2003 s. 116) . | $ 240
+(VII) account made up by liquidator in respect of a company filed under section 248(3) | Not applicable | Not applicable | $35
 
-(o) | fee for issuing a certificate of change of name under section 22 (Added L.N. 11 of 1996. Amended 28 of 2003 s. 116) . | $ 55
+(VIII) accounts of an oversea company delivered under section 333(1)(f) | Not applicable | Not applicable | $35
 
-(p) | application fee for deregistration of a private company under section 291AA (Added 30 of 1999 s. 36) . | $ 420
+(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of an oversea company delivered under section 336(1)(a) and (b) | Not applicable | Not applicable | $35
 
-(Replaced 41 of 1989 s. 5)(Eighth Schedule amended L.N. 231 of 1993; L.N. 371 of 1994; L.N. 11 of 1996; L.N. 457 of 1997; L.N. 149 of 1998)
+(B) (I) each annual return of a company (but excluding those documents which are forwarded under section 109(3)(a) and (b)) | Not applicable | Not applicable | $30
+
+(II) the lists in specified form delivered under section 333(1)(b) and (c) or each return delivered under section 336(1), in respect of an oversea company | Not applicable | Not applicable | $30
+
+(C) (I) the register of charges in respect of a company or a company (whether a company within the meaning of this Ordinance or not) incorporated outside Hong Kong which has a place of business in Hong Kong kept under section 83(1), per charge | Not applicable | Not applicable | $20
+
+(II) any other document | Not applicable | Not applicable | $20
+
+(iii) for on-line inspection of, and obtaining, an image record of the following documents kept by the Registrar—
+
+(A) (I) each prospectus of a company or a company incorporated outside Hong Kong | $29 | $26 | Not applicable
+
+(II) the memorandum, articles, or memorandum and articles of a company | $29 | $26 | Not applicable
+
+(III) the charter, statutes, memorandum and articles, or any other instrument, constituting or defining the constitution of an oversea company | $29 | $26 | Not applicable
+
+(IV) interim accounts prepared for a proposed distribution by a listed company and delivered under section 79H(4) | $29 | $26 | Not applicable
+
+(V) balance sheet (including any documents annexed to it), auditors’ report and directors’ report forwarded under section 109(3) in relation to an annual return of a company | $29 | $26 | Not applicable
+
+(VI) account made up by liquidator in respect of a company filed under section 239(3) | $29 | $26 | Not applicable
+
+(VII) account made up by liquidator in respect of a company filed under section 248(3) | $29 | $26 | Not applicable
+
+(VIII) accounts of an oversea company delivered under section 333(1)(f) | $29 | $26 | Not applicable
+
+(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of an oversea company delivered under section 336(1)(a) and (b) | $29 | $26 | Not applicable
+
+(B) (I) each annual return of a company (but excluding those documents which are forwarded under section 109(3)(a) and (b)) | $23 | $21 | Not applicable
+
+(II) the lists in specified form delivered under section 333(1)(b) and (c) or each return delivered under section 336(1), in respect of an oversea company | $23 | $21 | Not applicable
+
+(C) (I) the register of charges in respect of a company or a company (whether a company within the meaning of this Ordinance or not) incorporated outside Hong Kong which has a place of business in Hong Kong kept under section 83(1), per charge | $13 | $12 | Not applicable
+
+(II) any other document | $13 | $12 | Not applicable
+
+(iv) where an image record of any document kept by the Registrar pursuant to any provision of this Ordinance is not available, for each inspection at the office for the registration of companies of the document or the relevant record kept by the Registrar | Not applicable | Not applicable | $20
+
+(v) for obtaining a copy of any record containing the current particulars of a company or an oversea company, per company | $22 | $22 | $22
+
+(d) initial fee payable by a registered on-line user for the purpose of inspecting and obtaining documents and records specified in paragraphs (a), (b), and (c)(i), (iii) and (v), per year (in addition to the fees payable under the said paragraphs)—
+
+(i) for a principal account | Not applicable | $500 | Not applicable
+
+(ii) or each subsequent account | Not applicable | $100 | Not applicable
+
+Note: For the purpose of this Part—
+
+- “on-site user” (註冊處使用者) means a person inspecting or obtaining documents and records specified in paragraphs (a), (b), and (c)(ii), (iv) and (v) at the office for the registration of companies;
+
+- “principal account” (主要帳戶) means the first account which a registered on-line user registers with the Registrar under a registration arrangement;
+
+- “registered on-line user” (登記聯線使用者) means a person who has entered into a registration arrangement with the Registrar;
+
+- “registration arrangement” (登記安排) means an arrangement whereby a person may register one or more accounts with the Registrar through which that person may use an on-line medium, at fees which are the same as or lesser than those payable by an unregistered on-line user, for inspecting and obtaining documents and records specified in paragraphs (a), (b), and (c)(i), (iii) and (v);
+
+- “subsequent account” (其後帳戶) means any account, other than the principal account, which a registered on-line user registers with the Registrar under a registration arrangement;
+
+- “unregistered on-line user” (非登記聯線使用者) means a person, not in the capacity of a registered on-line user, using an on-line medium for inspecting or obtaining documents and records specified in paragraphs (a), (b), and (c)(i), (iii) and (v).
+
+(Replaced L.N. 78 of 2004)
+
+VI.-MISCELLANEOUS FEES
+
+(a) | lodgment fee for a notification of change of name under section 22(1A) . | $ 240
+
+(b) | for issuing a certificate of change of name under section 22(7) . | $ 55
+
+(c) | for registering—
+
+(i) under Part III of this Ordinance any charge required to be registered thereunder whether created by a company or existing on property acquired by a company . | $ 340
+
+(ii) particulars of a series of debentures under Part III of this Ordinance . | $ 340
+
+(iii) a memorandum under section 85(1) or (2) . | $ 190
+
+(iv) a notice of appointment of a receiver or manager, or of a mortgagee’s entering into possession, under section 87(3) . | $ 40
+
+(d) | for endorsing the words “satisfaction entered” or the expression in Chinese “已清償” upon an instrument of charge under section 85(6) . | $ 40
+
+(e) | for an authorization under section 111(1) . | $ 850
+
+(f) | application fee for deregistration of a private company under section 291AA . | $ 420
+
+(g) | for processing an application requesting the Registrar to represent a defunct company or its liquidator under section 291B . | $1,740
+
+(h) | for the completion of or giving effect to any dealing, transaction or matter relating to a defunct company, by any act done or caused to be done by the Registrar under section 291B . | $1,240
+
+(i) | for issuing under section 305(1)—
+
+(i) a certificate of incorporation or a certificate of change of name . | $ 170
+
+(ii) a copy of or an extract from the relevant record or document referred to in paragraph (c)(iv) of Part V, or an extract from any other document, per page . | $ 5
+
+(j) | for certifying under section 305(3A) a copy of or an extract from a document, or a copy of information contained in a record, per copy or extract (as the case may be) . | $ 130
+
+(Added L.N. 78 of 2004)(Eighth Schedule amended L.N. 231 of 1993; L.N. 371 of 1994; L.N. 11 of 1996; L.N. 457 of 1997; L.N. 149 of 1998)
