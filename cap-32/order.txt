@@ -247,6 +247,14 @@ s-141.md
 s-141A.md
 s-141B.md
 s-141C.md
+s-141CA.md
+s-141CB.md
+s-141CC.md
+s-141CD.md
+s-141CE.md
+s-141CF.md
+s-141CG.md
+s-141CH.md
 s-141D.md
 s-142.md
 s-143.md

@@ -188,6 +188,20 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 140B(3) | Director failing to convene a meeting on the requisition of the auditor | On indictment Summary | $150,000 and 2 years level 5 and 6 months | — —
 
+141CA(2) | Company sending copy of summary financial report in place of copy of relevant financial documents in contravention of section 141CA(1) (Added 27 of 2001 s. 8) | Summary | level 3 | -
+
+141CC(3) | Company sending copy of summary financial report in contravention of section 141CC(1) (Added 27 of 2001 s. 8) | Summary | level 3 | —
+
+141CC(3) | Company sending copy of relevant financial documents in contravention of section 141CC(2) (Added 27 of 2001 s. 8) | Summary | level 3 | -
+
+141CD(3) | Company failing to comply with request for copy of relevant financial documents (Added 27 of 2001 s. 8) | Summary | level 5 | $300
+
+141CE(2) | Company sending copy of summary financial report where there is in existence any of the events mentioned in section 141CE(1) (Added 27 of 2001 s. 8) | Summary | level 5 | -
+
+141CF(3)(a) | Company circulates, issues or publishes copy of summary financial report which does not comply with requirements referred to in section 141CF(1) (Added 27 of 2001 s. 8) | Summary | $300,000 | -
+
+141CF(3)(b) | Officer circulates, issues or publishes copy of summary financial report which does not comply with requirements referred to in section 141CF(1) (Added 27 of 2001 s. 8) | Summary | $300,000 and 12 months | -
+
 141D(4) | Director failing to take reasonable steps to ensure directors’ report is attached to balance sheet | Summary | level 5 and 6 months | —
 
 152A(4) | Company, etc., failing to produce books, etc., to Financial Secretary when required under section 152A | Summary | level 5 and 6 months | —
