@@ -1,0 +1,5 @@
+ADMISSION AND REGISTRATION RULES
+
+(Cap. 159, section 72)
+
+[1 August 1964] L.N. 107 of 1964
