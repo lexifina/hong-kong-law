@@ -1,0 +1,5 @@
+MARINE CLOSED AREA (CONSOLIDATION) ORDER
+
+(Cap. 245, sections 36(1) and 37(2))
+
+[15 June 1979]
