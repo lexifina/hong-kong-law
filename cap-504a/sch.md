@@ -32,7 +32,7 @@
 
 - 15. Ruttonjee Hospital Mortuary
 
-- 16. Tai Po Hospital Mortuary
+- 16. (Repealed L.N. 101 of 2000)
 
 - 17. Tuen Mun Hospital Mortuary
 
