@@ -40,6 +40,8 @@ Tang Shiu Kin Hospital
 
 Tsan Yuk Hospital
 
+Tseung Kwan O Hospital (Added L.N. 285 of 1999)
+
 Tuen Mun Hospital
 
 Wong Chuk Hang Hospital (Added L.N. 233 of 1995)
