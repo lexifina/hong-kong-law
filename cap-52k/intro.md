@@ -1,5 +1,3 @@
 TELEVISION (DATE OF RENEWAL OF LICENCE) (HONG KONG CABLE TELEVISION LIMITED) ORDER 2000
 
-(Cap. 52, section 9(1)(b))
-
-[28 January 2000]
+(Ceased to be in force)
