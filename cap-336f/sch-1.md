@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# FIRST SCHEDULE
 
 [rule 3]
 
-FIXED COSTS
+Fixed Costs
 
 - 1. In this Schedule—
 
@@ -16,48 +16,60 @@ FIXED COSTS
 
 - 4. The costs specified in Part III of the Table shall be allowed in addition to any costs allowed under Part I or Parts I and II as fixed costs payable to a solicitor under the Legal Aid (Scale of Fees) Regulations (Cap. 91 sub. leg. C).
 
+- 4A. The cost specified in Part IV of the Table shall apply in respect of the substituted service of a petition and any other documents. (L.N. 52 of 2000)
+
 - 5. There shall be added to the costs fixed in accordance with the Table—
 
   - (a) all court fees payable including the court fee payable on the filing of the petition;
 
   - (b) any reasonable disbursements as may be allowed by the Registrar.
 
-  - TABLE OF FIXED COSTS
+TABLE OF FIXED COSTS
 
-  - Item | Matter | Costs $
+Item | Matter | Costs $
 
-  - PART I
+PART I
 
-  - 1. | Where a decree is made pursuant to—
+1. | Where a decree is made in pursuant to—
 
-  - (a) rule 47A of the Matrimonial Causes Rules (cause disposed of in the special procedure list); or | 5250
+(a) | rule 47A of the Matrimonial Causes Rules (cause disposed of in the special procedure list) | 8,800
 
-  - (b) a petition filed pursuant to section 11A(1)(a) of the Ordinance (Adultery); or | 7500
+(b) | a petition filed pursuant to section 11A(2)(a) of the Ordinance (Adultery) | 12,600
 
-  - (c) a petition filed pursuant to section 11A(1)(b) of the Ordinance (Behaviour); or | 8500
+(c) | a petition filed pursuant to section 11A(2)(b) of the Ordinance (Behaviour) | 14,200
 
-  - (d) a petition filed pursuant to section 11A(1)(c) of the Ordinance (Desertion); or | 7500
+(d) | a petition filed pursuant to section 11A(2)(c) of the Ordinance (Consent) | 11,700
 
-  - (e) a petition filed pursuant to section 11A(1)(d) of the Ordinance (Consent); or | 7000
+(e) | a petition filed pursuant to section 11A(2)(d) of the Ordinance (2 years Separation) | 11,700
 
-  - (f) a petition filed pursuant to section 11A(1)(e) of the Ordinance (5 years Separation) | 7000
+(f) | a petition filed pursuant to section 11A(2)(e) of the Ordinance (Desertion) | 12,600
 
-  - PART II
+(L.N. 52 of 2000)
 
-  - 2. | Where separate attendance is required in respect of the hearing of a question of—
+PART II
 
-  - (a) either custody or access only or custody and access only | 2500
+2. | Where separate attendance is required in respect of the hearing of a question of—
 
-  - (b) ancillary relief only | 3000
+(a) | either custody or access only or custody and access only | 4,200
 
-  - (c) custody, access and ancillary relief or ancillary relief and either custody or access | 5000
+(b) | ancillary relief only | 5,000
 
-  - plus
+(c) | custody, access and ancillary relief or ancillary relief and either custody or access | 8,400
 
-  - For each subsequent attendance after the first chambers appointment | 1000 (up to a maximum of 8000$ per matter)
+plus
 
-  - PART III
+For each subsequent attendance after the first chambers appointment | 1,700 (up to a maximum of $13,400 per matter)
 
-  - 3. | Additional costs to be allowed in accordance with the Legal Aid (Scale of Fees) Regulations | 400
+PART III
 
-- (L.N. 245 of 1991)
+3. | Additional costs to be allowed in accordance with the Legal Aid (Scale of Fees) Regulations | 700
+
+(L.N. 52 of 2000)
+
+PART IV
+
+4. | Substituted service of a petition and any other documents | 3,700
+
+(L.N. 52 of 2000)
+
+(L.N. 245 of 1991)
