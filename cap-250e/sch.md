@@ -86,4 +86,8 @@ Futures Contract | Trading Limit | Position Limit
 
 41. Legend Holdings Ltd. stock futures contract | 1000 open contracts for any one contract month | 200 open contracts for any one contract month.
 
-(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999; L.N. 8 of 2001; L.N. 33 of 2001)
+42. MSCI China Free Index futures contract | 10000 open contracts for any one contract month | 500 open contracts for any one contract month.
+
+43. MSCI China Free Index options contract | 10000 open contracts for any one contract month | 500 open contracts for any one contract month.
+
+(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999; L.N. 8 of 2001; L.N. 33 of 2001; L.N. 40 of 2001)
