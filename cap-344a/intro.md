@@ -1,0 +1,7 @@
+BUILDING MANAGEMENT (FEES) REGULATIONS
+
+(27 of 1993 s. 51)
+
+(Cap. 344, section 41)
+
+[17 July 1970]
