@@ -4,8 +4,6 @@
 
 CONVENTION COUNTRIES
 
-(Adaptation amendments retroactively made - see 22 of 1999 s. 3)
-
 Countries which have acceded to the Paris
 
 Convention and countries, territories
@@ -18,340 +16,354 @@ World Trade Organization Agreement
 
 (Amended 22 of 1999 s. 3)
 
-Albania
+The Republic of Albania
 
-Algeria
+The Democratic People’s Republic of Algeria
 
-Angola (Added L.N. 342 of 1998)
+The Republic of Angola
 
 Antigua and Barbuda
 
-Argentina
+Republic of Argentina
 
-Armenia
+The Republic of Armenia
 
-Australia
+The Commonwealth of Australia
 
-Austria
+The Republic of Austria
 
-Azerbaijan
+The Republic of Azerbaijan
 
-Bahamas
+The Commonwealth of The Bahamas
 
-Bahrain
+The State of Bahrain
 
-Bangladesh
+The People’s Republic of Bangladesh
 
 Barbados
 
-Belarus
+The Republic of Belarus
 
-Belgium
+The Kingdom of Belgium
 
 Belize
 
-Benin
+The Republic of Benin
 
-Bolivia
+The Kingdom of Bhutan
+
+The Republic of Bolivia
 
 Bosnia and Herzegovina
 
-Botswana
+The Republic of Botswana
 
-Brazil
+The Federative Republic of Brazil
 
-Brunei Darussalam
+Negara Brunei Darussalam
 
-Bulgaria
+The Republic of Bulgaria
 
-Burkina Faso
+The Burkina Faso
 
-Burundi
+The Republic of Burundi
 
-Cambodia (Added L.N. 342 of 1998)
+Kingdom of Cambodia
 
-Cameroon
+The Republic of Cameroon
 
 Canada
 
-Central African Republic
+The Central African Republic
 
-Chad
+The Republic of Chad
 
-Chile
+Republic of Chile
 
-Colombia
+The Republic of Colombia
 
-Congo
+The Democratic Republic of Congo
 
-Costa Rica
+The Republic of Congo
 
-Cote d’Ivoire
+The Republic of Costa Rica
 
-Croatia
+The Republic of Cote d’Ivoire
 
-Cuba
+The Republic of Croatia
 
-Cyprus
+The Republic of Cuba
 
-Czech Republic
+The Czech Republic
 
-Democratic People’s Republic of Korea
+The Kingdom of Denmark
 
-Democratic Republic of Sao Tome and Principe (Added L.N. 342 of 1998)
+The Republic of Djibouti
 
-Democratic Republic of the Congo (Added L.N. 342 of 1998)
+The Commonwealth of Dominica
 
-Denmark
+The Dominican Republic
 
-Djibouti
+The Republic of Ecuador
 
-Dominica
+The Arab Republic of Egypt
 
-Dominican Republic
+The Republic of El Salvador
 
-Ecuador
+The Republic of Equatorial Guinea
 
-Egypt
+Republic of Estonia
 
-El Salvador
+European Community
 
-Estonia
+The Republic of The Fiji Islands
 
-European Community (Added L.N. 342 of 1998)
+The Republic of Finland
 
-Fiji
+The Republic of France
 
-Finland
+The Gabonese Republic
 
-France
-
-Gabon
-
-Gambia
+The Republic of the Gambia
 
 Georgia
 
-Germany
+The Federal Republic of Germany
 
-Ghana
-
-Greece
+The Republic of Ghana
 
 Grenada
 
-Guatemala
+The Republic of Guatemala
 
-Guinea
+The Republic of Guinea
 
-Guinea Bissau
+The Republic of Guinea-Bissau
 
-Guyana
+The Cooperative Republic of Guyana
 
-Haiti
+The Republic of Haiti
+
+The Hellenic Republic (Greece)
 
 Holy See
 
-Honduras
+The Republic of Honduras
 
-Hungary
+The Republic of Hungary
 
-Iceland
+The Republic of Iceland
 
-India
+The Republic of India
 
-Indonesia
+The Republic of Indonesia
 
-Iran (Islamic Republic of)
+The Islamic Republic of Iran
 
-Iraq
+The Republic of Iraq
 
 Ireland
 
-Israel
+The State of Israel
 
-Italy
+The Republic of Italy
 
 Jamaica
 
 Japan
 
-Jordan
+The Hashemite Kingdom of Jordan
 
-Kazakhstan (Added L.N. 342 of 1998)
+The Republic of Kazakhstan
 
-Kenya
+The Republic of Kenya
 
-Kuwait
-
-Kyrgyzstan
-
-Latvia
-
-Lebanon
-
-Lesotho
-
-Liberia
-
-Libya
-
-Liechtenstein
-
-Lithuania
-
-Luxembourg
-
-Macau
-
-Madagascar
-
-Malawi
-
-Malaysia
-
-Maldives
-
-Mali
-
-Malta
-
-Mauritania
-
-Mauritius
-
-Mexico
-
-Monaco
-
-Mongolia
-
-Morocco
-
-Myanmar
-
-Namibia
-
-Netherlands-For the Kingdom in Europe and for the Netherlands Antilles
-
-New Zealand
-
-Nicaragua
-
-Niger
-
-Nigeria
-
-Norway
-
-Pakistan
-
-Panama (Added L.N. 342 of 1998)
-
-Papua New Guinea (Added L.N. 342 of 1998)
-
-Paraguay
-
-Peru
-
-Philippines
-
-Poland
-
-Portugal
-
-Qatar
+The Democratic People’s Republic of Korea
 
 Republic of Korea
 
-Republic of Moldova
+The State of Kuwait
 
-Republic of Mozambique (Added L.N. 342 of 1998)
+Kyrghyz Republic
+
+The Lao People’s Democratic Republic
+
+Republic of Latvia
+
+The Republic of Lebanon
+
+The Kingdom of Lesotho
+
+The Republic of Liberia
+
+The Great Socialist People’s Libyan Arab Jamahiriya
+
+The Principality of Liechtenstein
+
+The Republic of Lithuania
+
+The Grand Duchy of Luxembourg
+
+The Macao Special Administrative Region
+
+The Republic of Macedonia
+
+The Republic of Madagascar
+
+The Republic of Malawi
+
+Malaysia
+
+The Republic of Maldives
+
+The Republic of Mali
+
+The Republic of Malta
+
+The Islamic Republic of Mauritania
+
+The Republic of Mauritius
+
+The Republic of Moldova
+
+The Principality of Monaco
+
+Mongolia
+
+The Kingdom of Morocco
+
+The Republic of Mozambique
+
+The Union of Myanmar
+
+The Republic of Namibia
+
+The Kingdom of Nepal
+
+The Kingdom of the Netherlands
+
+New Zealand
+
+The Republic of Nicaragua
+
+The Republic of Niger
+
+The Federal Republic of Nigeria
+
+The Kingdom of Norway
+
+The Sultanate of Oman
+
+The Islamic Republic of Pakistan
+
+The Republic of Panama
+
+The Independent State of Papua New Guinea
+
+Republic of Paraguay
+
+The Republic of Peru
+
+Republic of the Philippines
+
+The Republic of Poland
+
+The Portuguese Republic
+
+The State of Qatar
 
 Romania
 
-Russian Federation
+The Russian Federation
 
-Rwanda
+The Republic of Rwanda
 
-Saint Kitts and Nevis
+The Federation of Saint Kitts and Nevis
 
 Saint Lucia
 
 Saint Vincent and the Grenadines
 
-San Marino
+The Republic of San Marino
 
-Senegal
+The Democratic Republic of Sao Tome and Principe
 
-Sierra Leone
+The Republic of Senegal
 
-Singapore
+Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
 
-Slovak Republic
+The Republic of Sierra Leone
 
-Slovenia
+The Republic of Singapore
 
-Solomon Islands (Added L.N. 342 of 1998)
+The Slovak Republic
 
-South Africa
+The Republic of Slovenia
+
+The Solomon Islands
+
+The Republic of South Africa
 
 Spain
 
-Sri Lanka
+The Democratic Socialist Republic of Sri Lanka
 
-Sudan
+The Republic of the Sudan
 
-Suriname
+The Republic of Suriname
 
-Swaziland
+The Kingdom of Swaziland
 
-Sweden
+The Kingdom of Sweden
 
-Switzerland
+Swiss Confederation
 
-Syria
+The Republic of Syprus (Cyprus)
 
-Tajikistan
+The Syrian Arab Republic
 
-Thailand
+The Republic of Tajikistan
 
-The former Yugoslav Republic of Macedonia
+Royal Thai (Thailand)
 
-Togo
+The Republic of Togo
 
-Trinidad and Tobago
+The Kingdom of Tonga
 
-Tunisia
+The Republic of Trinidad and Tobago
 
-Turkey
+The Republic of Tunisia
+
+The Republic of Turkey
 
 Turkmenistan
 
-Uganda
+The Republic of Uganda
 
 Ukraine
 
-United Arab Emirates
+The United Arab Emirates
 
-United Kingdom (Added 22 of 1999 s. 3)
+The United Kingdom of Great Britain and Northern Ireland
 
-United Republic of Tanzania (Added L.N. 342 of 1998)
+The United Republic of Tanzania
 
-United States of America
+The United States of America
 
-Uruguay
+The United States of Mexico
 
-Uzbekistan
+Oriental Republic of Uruguay
 
-Venezuela
+The Republic of Uzbekistan
 
-Viet Nam
+The Bolivar Republic of Venezuela
 
-Yugoslavia
+The Socialist Republic of Viet Nam
 
-Zambia
+The Federal Republic of Yugoslavia
 
-Zimbabwe
+The Republic of Zambia
 
-(Replaced L.N. 314 of 1996. Amended L.N. 342 of 1998; 22 of 1999 s. 3)
+The Republic of Zimbabwe
+
+(Replaced L.N. 314 of 1996. Amended L.N. 342 of 1998; 22 of 1999 s. 3; L.N. 68 of 2002)
