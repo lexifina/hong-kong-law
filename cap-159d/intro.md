@@ -1,0 +1,5 @@
+LEGAL PRACTITIONERS (FEES) RULES
+
+(Cap. 159, section 72)
+
+[5 August 1983]
