@@ -282,4 +282,6 @@ Item | Periods | Rate of interest
 
 139. | On or after 1 March 2004 and before 3 May 2004 (L.N. 30 of 2004; L.N. 69 of 2004) | 0.010% per annum
 
-140. | On or after 3 May 2004 (L.N. 69 of 2004) | 0.0171% per annum
+140. | On or after 3 May 2004 and before 7 June 2004 (L.N. 69 of 2004; L.N. 106 of 2004) | 0.0171% per annum
+
+141. | On or after 7 June 2004 (L.N. 106 of 2004) | 0.050% per annum
