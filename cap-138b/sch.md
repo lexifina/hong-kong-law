@@ -6,6 +6,8 @@ THE POISONS LIST
 
 - PART I A
 
+- Abacavir; its salts
+
 - Abciximab
 
 - Acamprosate; its salts
@@ -165,6 +167,8 @@ THE POISONS LIST
 - para-Aminosalicylic acid; its salts; its derivatives; their salts; any compound with any substance falling within this item
 
 - Amiodarone; its salts
+
+- Amisulpride; its salts
 
 - Amitriptyline; its salts
 
@@ -390,6 +394,8 @@ THE POISONS LIST
 
 - Cantharidin; cantharidates
 
+- Capecitabine; its salts
+
 - Captodiamine; its salts
 
 - Captopril
@@ -604,7 +610,9 @@ THE POISONS LIST
 
 - Cytarabine; its salts
 
-- Dacarbazinc
+- Dacarbazine
+
+- Daclizumab
 
 - Dalteparin; its salts
 
@@ -737,6 +745,8 @@ THE POISONS LIST
 - Entacapone; its salts
 
 - Epoetin beta
+
+- Eptifibatide; its salts
 
 - Erythrityl tetranitrate
 
@@ -1284,6 +1294,8 @@ THE POISONS LIST
 
 - Nefopam; its salts
 
+- Nelfinavir; its salts
+
 - Neostigmine; its salts
 
 - Nevirapine; its salts
@@ -1359,6 +1371,8 @@ THE POISONS LIST
 - Ouabain
 
 - Oxalic acid; its salts other than quadroxalates
+
+- Oxaliplatin; its salts
 
 - Oxanamide
 
@@ -1630,6 +1644,8 @@ THE POISONS LIST
 
 - Ritonavir; its salts
 
+- Rituximab
+
 - Rivastigmine; its salts
 
 - Rizatriptan; its salts
@@ -1884,6 +1900,8 @@ THE POISONS LIST
 
 - Zalcitabine; its salts
 
+- Zaleplon; its salts
+
 - Zanamivir; its salts
 
 - Zidovudine
@@ -1936,7 +1954,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000)
 
 - PART II A Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance alpha-Chloralose Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison listed in Part IA of this List, (excepting pharmaceutical products containing acetyldihydrocodeine, codeine, dextromethorphan, dihydrocodeine, ethylmorphine, morphine, nicocodine, norcodeine, pholcodine or any salts of any of these substances or any poison appearing in the Third Schedule to Pharmacy & Poisons Regulations (Cap. 138 sub. leg.)) where the proportion of such poison does not exceed the equivalent of 0.01% by weight of arsenic trioxide, cantharidin, cocaine, coniine, ecgonine, hydrocyanic acid, strychnine, alkaloids of aconite, alkaloids of coca and alkaloids of gelsemium, solution of mercurochrome for external use only containing not more than 2%, weight in volume, of mercurochrome and 0.1% in the case of other poisons Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols. B Ammonia gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane) Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
 
