@@ -4,15 +4,17 @@
 
 PERSONS TO WHICH THE ORDINANCE DOES NOT APPLY
 
-(Adaptation amendments retroactively made - see 13 of 1999 s. 3)
-
 - (1) Any company registered under the Companies Ordinance (Cap. 32).
 
 - (2) Any co-operative society registered under the Co-operative Societies Ordinance (Cap. 33).
 
 - (3) Any trade union or any trade union federation registered under the Trade Unions Ordinance (Cap. 332). (Replaced L.N. 59 of 1964)
 
-- (4) Any pupils’ association registered under the Education Regulations (Cap. 279 sub. leg.).
+- (4)
+
+  - (a) An association the affairs of which are conducted wholly or partly in any school premises and which consists wholly or mainly of persons under the age of 21 years who are undergoing primary education or secondary education in any school.
+
+  - (b) For the purposes of this item, “primary education” (小學教育), “school” (學校), “school premises” (校舍) and “secondary education” (中學教育) have the meanings assigned to them by section 3 of the Education Ordinance (Cap. 279). (Replaced 8 of 2001 s. 30)
 
 - (5) Any company or association constituted pursuant to or under any Ordinance or other legislation applicable to Hong Kong. (Replaced 13 of 1999 s. 3)
 
@@ -36,7 +38,7 @@ PERSONS TO WHICH THE ORDINANCE DOES NOT APPLY
 
   - (b) conducts its activities wholly or largely in a Community or Youth Centre; and
 
-  - (c) was formed with and continues to have the approval of the Director of Social Welfare. (Added L. N. 112 of 1974)
+  - (c) was formed with and continues to have the approval of the Director of Social Welfare. (Added L.N. 112 of 1974)
 
 - (13) Any association of which—
 
