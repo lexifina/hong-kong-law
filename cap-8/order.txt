@@ -57,6 +57,7 @@ s-044.md
 s-045.md
 s-046.md
 s-047.md
+s-047A.md
 s-048.md
 s-049.md
 s-050.md
@@ -65,6 +66,8 @@ s-052.md
 s-053.md
 s-054.md
 s-055.md
+s-055A.md
+s-055B.md
 s-056.md
 s-057.md
 s-058.md
