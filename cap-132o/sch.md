@@ -120,4 +120,6 @@
 
 - 59. The first floor of Urban Council Sam Ka Tsuen Complex, 6 Lei Yue Mun Path, Sam Ka Tsuen, Kwun Tong, Kowloon.
 
-- 60. The Hong Kong Central Library (including the footbridge connected thereto and the associated structures of the footbridge but excluding the Lecture Theatre and the Exhibition Gallery), 66 Causeway Road, Causeway Bay, Hong Kong. (L.N. 62 of 2001) (Schedule replaced 78 of 1999 s. 7)
+- 60. The Hong Kong Central Library (including the footbridge connected thereto and the associated structures of the footbridge but excluding the Lecture Theatre and the Exhibition Gallery), 66 Causeway Road, Causeway Bay, Hong Kong. (L.N. 62 of 2001)
+
+- 61. 9 Wan Lung Road, Tseung Kwan O. (L.N. 138 of 2001) (Schedule replaced 78 of 1999 s. 7)
