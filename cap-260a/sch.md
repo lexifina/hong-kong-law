@@ -2,40 +2,46 @@
 
 [para. 2]
 
-(All map references are taken from Edition 1-GSGS, Series L. 8811)
+(Grid system: Universal Transverse Mercator (UTM) Grid. Items 1 to 17: the geodetic datum is Hong Kong 1980 Geodetic Datum (HK80). Items 18 to 21: the geodetic datum is WGS 84.)
+
+(L.N. 172 of 2000)
 
 Item | Location | Remarks
 
-1. | Peak Radio Station | Area enclosed by perimeter fence at KV 055664.
+1. | Peak Radio Station | Area enclosed by perimeter fence at KV055664.
 
-2. | Osborn Barracks | All buildings within the area bounded by KV 09207328: KV 09457327: KV 09427307: KV 09357297: KV 09187297.
+2-3. | (Repealed L.N. 172 of 2000)
 
-3. | Blackdown Barracks | Area enclosed by perimeter fence at KV 11427282: KV 11457314: Choi Hung Road: KV 11737292: KV 11757282: Prince Edward Road: KV 11457279: KV 11527282.
+4. | Tate’s Cairn | Area enclosed by perimeter fence at KV128752.
 
-4. | Tate’s Cairn | Area enclosed by perimeter fence at KV 128752.
+5. | Tai Mo Shan | Area enclosed by perimeter fence at KV03708122:KV03588137:KV03638154: KV03788133:KV03708122.
 
-5. | Tai Mo Shan | Area enclosed by perimeter fence at KV 03708122: KV 03588137: KV 03638154: KV 03788133: KV 03708122.
+6. | Lower Radio Station, Tai Mo Shan | Area enclosed by perimeter fence at KV03588165:KV03578172:KV03628187: KV03678188:KV03708172:KV03628167: KV03588165.
 
-6. | Lower Radio Station, Tai Mo Shan | Area enclosed by perimeter fence at KV 03588165: KV 03578172: KV 03628187: KV 03678188: KV 03708172: KV 03628167: KV 03588165.
+7-8. | (Repealed L.N. 172 of 2000)
 
-7. | Sek Kong Camp | Building enclosed by perimeter fence at JV 99548428.
+9. | Green Island and Little Green Island | Islands at KV023674 and KV026675.
 
-8. | Sek Kong Camp South | Buildings surrounded by fence on northern side of road between JV 98628428 and JV 99068390.
+10. | (Repealed L.N. 172 of 2000)
 
-9. | Green Island and Little Green Island | Islands at KV 023674 and KV 026675.
+11. | Government Explosive Depot, Pipers Hill, Tai Po Road, Kowloon | Area enclosed by perimeter fence at KV067748.
 
-10. | Stonecutters Island | Depot enclosed by perimeter fence at KV 05037108: KV 05137122: KV 05417122: KV 05467112: KV 05557110: Coastline to KV 05337074: Coastline to KV 05037108.
-
-11. | Government Explosive Depot, Pipers Hill, Tai Po Road, Kowloon | Area enclosed by perimeter fence at KV 067748.
-
-12. | Headquarters, British Forces | The Prince of Wales Building at KV 07516695.
-
-13. | Radio Station, Sek Kong Camp South | Buildings and area enclosed by perimeter fence at JV 99528397: JV 99748397: JV 99908389: JV 99488389, then at 102 metres radius on JV 99418397 to JV 99528397.
+12-13. | (Repealed L.N. 172 of 2000)
 
 14. | (Repealed L.N. 398 of 1990)
 
 15. | (Repealed L.N. 234 of 1985)
 
-16. | Depot and Earth Station, Chung Hom Kok | Area enclosed by perimeter fence at KV 11305930: KV 11325937: KV 11405944: KV 11555951: KV 11585851: KV 11615949: KV 11595944: KV 11615941: KV 11605937: KV 11635934: KV 11605927: KV 11305930.
+16. | (Repealed L.N. 172 of 2000)
 
-17. | Kau Shat Wan | Area enclosed by a perimeter fence on land at JV 92856606: JV 92536614: JV 92596622: JV 92456632: JV 92576632: JV 92866633, and area in sea enclosed by JV 92926648: JV 93276647: JV 93266591: JV 92826592. (L.N. 485 of 1997)
+17. | Kau Shat Wan | Area enclosed by a perimeter fence on land at JV92856606:JV92536614:JV92596622: JV92456632:JV92576632:JV92866633, and area in sea enclosed by JV92926648: JV93276647:JV93266591:JV92826592. (L.N. 485 of 1997)
+
+18. | Central Barracks | Area enclosed by perimeter wall at KK07686685:KK07836680:KK07786666: KK07706670:KK07616682:KK07686685. (L.N. 172 of 2000)
+
+19. | Headquarters House | Area enclosed by perimeter wall/fence at KK07336555:KK07396557:KK07456557: KK07456554:KK07376550:KK07336555. (L.N. 172 of 2000)
+
+20. | Ching Yi To Barracks | Area enclosed by perimeter wall/fence at KK08086631:KK08136627:KK08056615: KK07956612:KK07906616:KK08016623: KK08086631. (L.N. 172 of 2000)
+
+21. | Shek Kong Village (a) Block 20 Area | Area enclosed by following points at KK02118324:KK02168322:KK02188317: KK02168316:KK02138309:KK02108310: KK02088317:KK02118324.
+
+(b) Block 46 Area | Area enclosed by following points at KK02178315:KK02198314:KK02258306: KK02238299:KK02118303:KK02178315. (L.N. 172 of 2000)
