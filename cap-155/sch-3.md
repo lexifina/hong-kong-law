@@ -1,6 +1,6 @@
 # SCHEDULE 3
 
-[ss. 98 & 135(3)]
+[ss. 79, 81, 98 & 135(3)] (Amended 42 of 1999 s. 17)
 
 CAPITAL ADEQUACY RATIO
 
@@ -44,7 +44,7 @@ CAPITAL ADEQUACY RATIO
 
     - (a) the borrower is an individual person;
 
-    - (b) the principal sum does not exceed 90% of the purchase price or the market value of the property, whichever amount is the lower;
+    - (b) the principal sum does not exceed 90% of the purchase price or the market value of the property at the time the mortgage was approved by the authorized institution concerned, whichever amount is the lower; (Amended 42 of 1999 s. 17)
 
     - (c) the debt is secured by a first legal charge on the property;
 
