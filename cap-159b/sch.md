@@ -182,7 +182,9 @@ THIS IS TO CERTIFY THAT
 
 of .
 
-- (1) on the . day of . applied under rule 3(1) of the Admission and Registration Rules (Cap. 159 sub. leg. B) for a certificate of eligibility for admission as a solicitor on the basis of compliance with section 4(1)(b) of the Legal Practitioners Ordinance (Cap. 159); and
+- (1)
+
+- on the . day of . applied under rule 3(1) of the Admission and Registration Rules (Cap. 159 sub. leg. B) for a certificate of eligibility for admission as a solicitor on the basis of compliance with section 4(1)(b) of the Legal Practitioners Ordinance (Cap. 159); and
 
 - (2) has satisfied the Society that—
 
@@ -224,7 +226,9 @@ We, .
 
 of .
 
-. (the “Trainee Solicitor”) and .
+. (the “Trainee Solicitor”)
+
+and .
 
 of .
 
@@ -372,7 +376,7 @@ of .
 
 - _
 
-- FORM 5 | [rules 4, 8 & 11]
+- FORM 5 | [rules 4 & 11]
 
 - ADMISSION AND REGISTRATION RULES AFFIDAVIT OF IDENTITY
 
@@ -388,7 +392,7 @@ of .
 
   - # Delete whichever is inapplicable.
 
-  - (L.N. 212 of 1976; L.N. 41 of 1981; L.N. 198 of 1981; L.N. 28 of 1992; L.N. 466 of 1994; L.N. 114 of 2000)
+  - (L.N. 212 of 1976; L.N. 41 of 1981; L.N. 198 of 1981; L.N. 28 of 1992; L.N. 466 of 1994; L.N. 114 of 2000; L.N. 5 of 2003)
 
   - _ FORM 6
 
@@ -414,21 +418,9 @@ of .
 
 _
 
-FORM 8 | [rule 10]
+FORM 8
 
-ADMISSION AND REGISTRATION RULES ROLL OF BARRISTERS
-
-. was admitted as a barrister of the High Court of Hong Kong on the . day of ., 19 .
-
-.
-
-Registrar,
-
-High Court,
-
-Hong Kong.
-
-(L.N. 212 of 1976; 25 of 1998 s. 2)
+(Repealed L.N. 5 of 2003)
 
 _
 
@@ -440,14 +432,6 @@ Name | Date of Production of Notarial Faculty | Date of Registry | Affidavit of 
 
 _
 
-FORM 10 | [rule 8]
+FORM 10
 
-ADMISSION AND REGISTRATION RULES CERTIFICATE AS TO DATE OF ADMISSION
-
-I HEREBY CERTIFY THAT . was duly admitted as a solicitor of the High Court of Hong Kong on the . day of . and .
-
-- .and his name has been on the Roll of Solicitors continuously between the following dates-
-
-- . Dated this . day of . . Registrar, High Court, Hong Kong.
-
-(L.N. 121 of 1993; 25 of 1998 s. 2; L.N. 114 of 2000)
+(Repealed L.N. 5 of 2003)

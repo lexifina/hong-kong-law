@@ -10,7 +10,7 @@ Item | Rule | Description | Payee | Fee $
 
 2. | 4(1) | Application for admission as a solicitor | Registrar | 1135
 
-3. | 8(1) | Application for admission as a barrister | Registrar | 1135
+3. | (Repealed L.N. 5 of 2003)
 
 4-5. | (Repealed L.N. 166 of 1994)
 
