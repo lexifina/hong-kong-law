@@ -112,9 +112,9 @@ Item | Enactment | Provision
 
 53. | Railways Ordinance (Cap. 519) | Sections 10(1) and (4) and 34(1)
 
-54. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) | Sections 5(2), 11(1) and 17(1)
+54. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) | Section 5(2) (L.N. 261 of 2000)
 
-55. | Electoral Affairs Commission (Registration) (Electors for Functional Constituencies) (Voters for Subsectors) (Members of Election Committee) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Sections 21(2), 26(1) and 33(1)
+55. | Electoral Affairs Commission (Registration) (Electors for Functional Constituencies) (Voters for Subsectors) (Members of Election Committee) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Section 21(2) (L.N. 261 of 2000)
 
 56. | Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg.) | Sections 5(13) and 8(2)
 

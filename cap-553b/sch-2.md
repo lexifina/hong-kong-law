@@ -30,9 +30,9 @@ Item | Enactment | Provision
 
 12. | Land Survey Ordinance (Cap. 473) | Section 30(4)
 
-13. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) | Sections 4(1), 14(2) and 15(6)
+13. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) | Sections 14(2) and 15(6) (L.N. 261 of 2000)
 
-14. | Electoral Affairs Commission (Registration) (Electors for Functional Constituencies) (Voters for Subsectors) (Members of Election Committee) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Sections 19(1), 20(2), (3), (5), (7) and (8), 26(6), 30(2), 31(7) and 33(9)
+14. | Electoral Affairs Commission (Registration) (Electors for Functional Constituencies) (Voters for Subsectors) (Members of Election Committee) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Sections 19(1)(e), 20(2), (3), (5), (7) and (8), 26(6), 30(2), 31(7) and 33(9) (L.N. 261 of 2000)
 
 15. | Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg.) | Section 5(4)
 
