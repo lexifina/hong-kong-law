@@ -60,7 +60,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 28. MacLehose Medical Rehabilitation Centre
 
-- 29. Margaret Trench Medical Rehabilitation Centre
+- 29. (Repealed L.N. 359 of 2000)
 
 - 30. Matilda and War Memorial Hospital
 
