@@ -1,17 +1,21 @@
 # SCHEDULE 1
 
-[s. 25(9)]
+[ss. 22(2) & 25(9)]
 
 OVERALL LIMIT ON LIABILITY OF FUND
 
-Fund Convention, Article 4-paragraphs 4, 5 and 6
+Fund Convention, Article 4-paragraphs 4 and 5
 
 - 4.
 
-  - (a) Except as otherwise provided in subparagraph (b), the aggregate amount of compensation payable by the Fund under this Article shall in respect of any one incident be limited, so that the total sum of that amount and the amount of compensation actually paid under the Liability Convention for pollution damage caused in the territory of the Contracting States, including any sums in respect of which the Fund is under an obligation to indemnify the owner pursuant to Article 5, paragraph 1, of this Convention, shall not exceed 450 million francs.
+  - (a) Except as otherwise provided in subparagraphs (b) and (c) of this paragraph, the aggregate amount of compensation payable by the Fund under this Article shall in respect of any one incident be limited, so that the total sum of that amount and the amount of compensation actually paid under the 1992 Liability Convention for pollution damage within the scope of application of this Convention as defined in Article 3 shall not exceed 135 million units of account.
 
-  - (b) The aggregate amount of compensation payable by the Fund under this Article for pollution damage resulting from a natural phenomenon of an exceptional, inevitable and irresistible character shall not exceed 450 million francs.
+  - (b) Except as otherwise provided in subparagraph (c), the aggregate amount of compensation payable by the Fund under this Article for pollution damage resulting from a natural phenomenon of an exceptional, inevitable and irresistible character shall not exceed 135 million units of account.
 
-- 5. Where the amount of established claims against the Fund exceeds the aggregate amount of compensation payable under paragraph 4, the amount available shall be distributed in such a manner that the proportion between any established claim and the amount of compensation actually recovered by the claimant under the Liability Convention and this Convention shall be the same for all claimants.
+  - (c) The maximum amount of compensation referred to in subparagraphs (a) and (b) shall be 200 million units of account with respect to any incident occurring during any period when there are three Parties to this Convention in respect of which the combined relevant quantity of contributing oil received by persons in the territories of such Parties, during the preceding calendar year, equalled or exceeded 600 million tons.
 
-- 6. The Assembly of the Fund may, having regard to the experience of incidents which have occurred and in particular the amount of damage resulting therefrom and to changes in the monetary values, decide that the amount of 450 million francs referred to in paragraph 4(a) and (b) shall be changed; provided, however, that this amount shall in no case exceed 900 million francs or be lower than 450 million francs. The changed amount shall apply to incidents which occur after the date of the decision effecting the change.
+  - (d) Interest accrued on a fund constituted in accordance with Article V, paragraph 3, of the 1992 Liability Convention, if any, shall not be taken into account for the computation of the maximum compensation payable by the Fund under this Article.
+
+  - (e) The amounts mentioned in this Article shall be converted into national currency on the basis of the value of that currency by reference to the Special Drawing Right on the date of the decision of the Assembly of the Fund as to the first date of payment of compensation.
+
+- 5. Where the amount of established claims against the Fund exceeds the aggregate amount of compensation payable under paragraph 4, the amount available shall be distributed in such a manner that the proportion between any established claim and the amount of compensation actually recovered by the claimant under this Convention shall be the same for all claimants. (Replaced 46 of 1997 s. 25)
