@@ -446,6 +446,7 @@ s-264B.md
 s-265.md
 s-266.md
 s-266A.md
+s-266B.md
 s-267.md
 s-268.md
 s-269.md
