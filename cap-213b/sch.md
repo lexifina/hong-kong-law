@@ -14,7 +14,7 @@ Item | Place of refuge
 
 - 4. The Ma Tau Wai Girls’ Home.
 
-- 5. Begonia Road Boy’s Home. (L.N. 13 of 1971)
+- 5. (Repealed L.N. 244 of 1999)
 
 - 6. (Repealed L.N. 557 of 1994)
 
@@ -24,4 +24,4 @@ Item | Place of refuge
 
 - 9. (Repealed L.N. 26 of 1986)
 
-- 10. Pui Yin Juvenile Home. (L.N. 25 of 1986)
+- 10. (Repealed L.N. 244 of 1999)
