@@ -32,11 +32,13 @@ Item | Document or Circumstance | Fee $
 
 13. | Visitor’s permit, valid for 1 visit, for resident of Macau who was formerly resident in China and settled in Macau after 14 January 1979 . | 135
 
-14. | Entry permit valid for 1 entry. | 135
+14. | Entry permit valid for 1 entry . | 135
+
+14A. | Entry permit for 2 entries and valid for 2 months issued by electronic means (L.N. 14 of 2002) . | 50
 
 15. | (Repealed L.N. 516 of 1996)
 
-16. | Entry permit for multiple entries and valid for 1 year. | 270
+16. | Entry permit for multiple entries and valid for 1 year . | 270
 
 17. | Entry permit for multiple entries and valid for 3 years . | 540
 
