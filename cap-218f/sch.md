@@ -4,9 +4,7 @@
 
 FORM A
 
-TRAVEL AGENTS ORDINANCE
-
-(Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
+TRAVEL AGENTS ORDINANCE (Cap. 218) APPLICATION FOR EX GRATIA PAYMENT IN RESPECT OF
 
 AN OUTBOUND FARE FROM THE TRAVEL INDUSTRY
 
@@ -54,7 +52,9 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
   - (a) particulars of which loss are— . .
 
-  - *(b) the circumstances in which the loss occurred are— . . (not necessary to complete where a judgment has been obtained) 4 In support of this application, *I/we attach the following documents—
+  - *(b) the circumstances in which the loss occurred are— . . (not necessary to complete where a judgment has been obtained)
+
+- 4 In support of this application, *I/we attach the following documents—
 
   - (a) *One/ . original(s) of receipt(s) or certified true *copy/copies thereof duly stamped/franked to show payment of levy to the Travel Industry Compensation Fund and a total payment of $ . made to the travel agent.
 
@@ -66,7 +66,7 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
 - (date of judgment)
 
-  - *(d) A proof of debt against the travel agent *lodged / to be lodged with . (liquidator/ . on . Official Receiver/trustee) (date) (If a proof of debt has been/is to be lodged, paragraph 6 will be applicable.)
+  - *(d) A proof of debt against the travel agent *lodged/to be lodged with . (liquidator/ . on . Official Receiver/trustee) (date) (If a proof of debt has been/is to be lodged, paragraph 6 will be applicable.)
 
   - *(e) Documentary evidence of payment showing payment of the outbound fare. (L.N. 128 of 1997)
 
@@ -154,11 +154,9 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
 - 4. The application is in respect of a loss incurred in respect of a payment for travel services made by the traveller(s) to the travel agent. Moreover, the application is for an amount not exceeding the specified amount. (Delete this sentence if application is not made in accordance with the simplified procedure.)—
 
-  - (a) particulars of which loss are — . .
+  - (a) particulars of which loss are— . .
 
-  - *(b) the circumstances in which the loss occurred are— . (not necessary to complete where a judgment has been obtained) .
-
-  - .
+  - *(b) the circumstances in which the loss occurred are— . (not necessary to complete where a judgment has been obtained) . .
 
 - 5. In support of this application, I attach the following documents—
 
@@ -352,15 +350,15 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
       - (i) medical expenses incurred in the country or place where the accident occurred— $ .
 
-      - (ii) expenses incurred by my relative(s) for paying visits to the country or place for a purpose relating to or consequent upon my injury—
+      - (ii) expenses incurred by my *relative(s)/former spouse for paying visits to the country or place for a purpose relating to or consequent upon my injury— (L.N. 394 of 1998)
 
-        - (1) (2)
+      - (1) | (2)
 
-      - Name of relative . .
+      - Name of *relative/former spouse Relationship with me (in the case of a relative) Amount incurred $ (L.N. 394 of 1998) | . | .
 
-      - Relationship with me . .
+      - . | .
 
-      - Amount incurred $ . .
+      - . | .
 
   - 4. In support of the application, I attach the following documents—
 
@@ -380,7 +378,9 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
     - *(b) Neither I nor any other person has made a claim or instituted any legal proceedings in respect of those expenses.
 
-    - *(b) *I/ . (name of relevant person and relationship with me) *have/has made a claim or instituted legal proceedings in respect of those expenses.
+    - *(b) *I/ . (name of relevant person and relationship with me)
+
+    - *have/has made a claim or instituted legal proceedings in respect of those expenses.
 
     - *(c) Person against whom a claim has been made or legal proceedings have been instituted in respect of those expenses— .
 
@@ -428,7 +428,7 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
     - (c) Occupation .
 
-    - (d) *Hong Kong Identity Card / Passport No. .
+    - (d) *Hong Kong Identity Card/Passport No. .
 
     - (e) Relationship with the traveller .
 
@@ -448,7 +448,7 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
   - 3. The personal particulars of the traveller, his particulars of loss and authorization for me to act on his behalf in applying for and receiving ex gratia payments from the Fund are at the Annex.
 
-  - 4. The application is in respect of a loss incurred in respect of a accident which arises out of and in the course of an outbound travel service provided by the travel agent The circumstances in which the loss occurred are— .
+  - 4. The application is in respect of a loss incurred in respect of an accident which arises out of and in the course of an outbound travel service provided by the travel agent. The circumstances in which the loss occurred are— .
 
   - .
 
@@ -528,17 +528,19 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
     - (a) medical expenses incurred in the country or place where the accident occurred- $ .
 
-    - (b) expenses incurred by my relative(s) for paying visits to the country or place for a purpose relating to or consequent upon my injury—
+    - (b) expenses incurred by my *relative(s)/former spouse for paying visits to the country or place for a purpose relating to or consequent upon my injury— (L.N. 394 of 1998)
 
-      - (1) (2) Name of relative . .
+    - (1) | (2)
 
-      - Relationship with me . .
+    - Name of *relative/former spouse Relationship with me (in the case of a relative Amount incurred $ (L.N. 394 of 1998) | . | .
 
-      - Amount incurred $ . .
+    - . | .
+
+    - . | .
 
   - 4. *(a) Neither I nor any other person has received any damages or compensation in respect of the expenses described in paragraph 3; and
 
-    - *(a) *I/ . (name of recipient and relationship with me) *have / has received damages or compensation in respect of the expenses described in paragraph 3; and
+    - *(a) *I/ . (name of recipient and relationship with me) *have/has received damages or compensation in respect of the expenses described in paragraph 3; and
 
     - *(b) Neither I nor any other person has made a claim or instituted any legal proceedings in respect of those expenses.
 
@@ -644,19 +646,15 @@ hereby apply for an ex gratia payment from the Travel Industry Compensation Fund
 
     - after cremation thereof) back to Hong Kong- $ .
 
-    - *(iii) expenses incurred by the relative(s) of the *infant/deceased for paying visits to
+      - *(iii) expenses incurred by the *relative(s)/former spouse of the *infant/deceased for paying visits to the country or place for a purpose relating to or consequent upon the injury or death— (L.N. 394 of 1998)
 
-    - the country or place for a purpose relating to or consequent upon the injury or
+      - (1) | (2)
 
-    - death—
+      - Name of *relative/former spouse Relationship with the *infant/deceased (in the case of a relative Amount incurred $ (L.N. 394 of 1998) | . | .
 
-      - (1) (2) Name of relative . .
+      - . | .
 
-      - Relationship with the
-
-      - *infant/deceased . .
-
-      - Amount incurred $ . .
+      - . | .
 
   - 5. In support of the application, I attach the following documents—
 
