@@ -1,0 +1,5 @@
+LABOUR TRIBUNAL (SUITORS’ FUNDS) RULES
+
+(Cap. 25, section 45)
+
+[27 October 1978]
