@@ -1,0 +1,5 @@
+TRADE UNION REGISTRATION REGULATIONS
+
+(Cap. 332, section 59)
+
+[1 April 1962]
