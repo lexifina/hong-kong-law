@@ -1,0 +1,5 @@
+DETENTION CENTRE (CONSOLIDATION) ORDER
+
+(Cap. 239, section 3)
+
+[16 June 1972]
