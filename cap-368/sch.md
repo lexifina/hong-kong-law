@@ -1,5 +1,7 @@
 # SCHEDULE
 
+(According to L.N. 90 of 1999 and Ord. No. 44 of 1999, this Schedule is amended by adding “Cross-Harbour Tunnel”. This amendment shall only apply to take effect on and after 1 September 1999.)
+
 [s. 3]
 
 Aberdeen Tunnel.
