@@ -188,6 +188,8 @@ Barbituric acid; its salts; its derivatives; their salts; any compound with any 
 
 Basiliximab; its salts
 
+Becaplermin; its salts
+
 Befunolol; its salts
 
 Benactyzine; its salts
@@ -418,6 +420,8 @@ Acetrizoic acid
 
 Diatrizoic acid
 
+Gadobenic acid
+
 Gadodiamide
 
 Gadopentetic acid
@@ -595,6 +599,8 @@ Eprosartan; its salts
 Eptifibatide; its salts
 
 Esmolol; its salts
+
+Esomeprazole; its salts
 
 Etafenone; its salts
 
@@ -865,6 +871,8 @@ Leuprorelin; its salts
 Levallorphan; its salts
 
 Lidoflazine
+
+Linezolid; its salts
 
 Lisinopril; its salts
 
@@ -1199,6 +1207,8 @@ Phenylbutazone; its salts
 5-Phenylhydantoin; its alkyl and aryl derivatives; their salts
 
 Picrotoxin
+
+Pioglitazone; its salts
 
 Pipecuronium; its salts
 
@@ -1566,6 +1576,8 @@ Veralipride; its salts
 
 Verapamil; its salts
 
+Verteporfin; its salts
+
 Vigabatrin
 
 Viloxazine; its salts
@@ -1608,7 +1620,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001)
 
 B
 
