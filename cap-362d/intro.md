@@ -1,0 +1,5 @@
+TRADE DESCRIPTIONS (COUNTRY OF ORIGIN) (WATCHES) ORDER
+
+(Cap. 362, section 2(2)(b)(ii))
+
+[1 January 1991]
