@@ -10,8 +10,6 @@ The Island of Hong Kong
 
 Aberdeen Boulder’s Corner Rest Garden
 
-Aberdeen Complex Indoor Games Hall
-
 Aberdeen Praya Road Sitting-out Area
 
 Aberdeen Promenade
@@ -19,6 +17,8 @@ Aberdeen Promenade
 Aberdeen Reservoir Road Garden
 
 Aberdeen Reservoir Road Sitting-out Area
+
+Aberdeen Sports Centre
 
 Aberdeen Sports Ground
 
@@ -46,13 +46,13 @@ Ap Lei Chau Playground
 
 Ap Lei Chau Service Reservoir Playground
 
-Ap Lei Chau West Industrial Area Cooked Food Market Roof Top Garden
+Ap Lei Chau Sports Centre
 
 Apleichau Bridge (North) Children’s Playground
 
 Basel Road Playground
 
-Belcher Bay Temporary Park
+Belcher Bay Park
 
 Belcher’s Street Sitting-out Area
 
@@ -100,15 +100,11 @@ Caine Road Garden
 
 Caine Road Sitting-out Area
 
-Canal Road Flyover Sitting-out Area
-
 Causeway Bay Promenade
 
 Causeway Bay Sports Ground
 
 Cenotaph, the
-
-Chai Wan Indoor Games Hall
 
 Chai Wan Park
 
@@ -123,6 +119,8 @@ Chai Wan Road Sitting-out Area No. 1
 Chai Wan Road Sitting-out Area No. 2
 
 Chai Wan Road Temporary Rest Garden
+
+Chai Wan Sports Centre
 
 Chater Garden
 
@@ -200,7 +198,7 @@ Happy Valley Recreation Ground
 
 Harbour Road Garden
 
-Harbour Road Indoor Games Hall
+Harbour Road Sports Centre
 
 Harcourt Garden
 
@@ -226,13 +224,9 @@ Hing Wah Estate Playground No. 1
 
 Hoi Ning Street Temporary Sitting-out Area
 
-Hoi Yu Street Temporary Sitting-out Area
-
 Hollywood Road Children’s Playground
 
 Hollywood Road Park
-
-Hong Cheung Street Children’s Playground No. 1
 
 Hong Cheung Street Children’s Playground No. 2
 
@@ -242,7 +236,7 @@ Hong Fu Playground
 
 Hong Kong Park
 
-Hong Kong Park Indoor Games Hall
+Hong Kong Park Sports Centre
 
 Hong Kong Squash Centre
 
@@ -250,9 +244,13 @@ Hong Kong Tennis Centre
 
 Hong Kong Zoological and Botanical Gardens
 
+Hung Shing Street Rest Garden
+
 Island East Sports Centre
 
 Java Road Playground
+
+Java Road Sports Centre
 
 Ka Ning Path Garden
 
@@ -312,9 +310,9 @@ Lin Fa Kung Garden
 
 Lin Fa Kung Street East Sitting-out Area
 
-Lockhart Road Indoor Games Hall
-
 Lockhart Road Playground
+
+Lockhart Road Sports Centre
 
 Lok Hing Lane Temporary Sitting-out Area
 
@@ -322,7 +320,7 @@ Lok Man Road Sitting-out Area
 
 Lower Albert Road Sitting-out Area
 
-Luen Fat Street Sitting-out Area
+Lun Fat Street Sitting-out Area
 
 Magazine Gap Road Garden
 
@@ -416,6 +414,8 @@ Quarry Bay Park
 
 Quarry Bay Reservoir Garden
 
+Quarry Bay Sports Centre
+
 Queen’s Road East Garden
 
 Queen’s Road East/Hennessy Road Sitting-out Area
@@ -433,6 +433,8 @@ Sai On Lane Children’s Playground
 Sai On Lane Rest Garden
 
 Sai Wan Ho Playground
+
+Sai Wan Ho Sports Centre
 
 Sai Woo Lane Playground
 
@@ -472,7 +474,11 @@ Shek Pai Wan Road Amenity Plot
 
 Shek Pai Wan Road Playground
 
+Shek Tong Tsui Sports Centre
+
 Sheung On Street Playground
+
+Sheung Wan Sports Centre
 
 Ship Street Playground
 
@@ -491,6 +497,8 @@ Sitting-out Area under Flyover in Pok Fu Lam Road
 Siu Sai Wan Sports Ground
 
 Smithfield Road Children’s Playground
+
+Smithfield Sports Centre
 
 So Kon Po Recreation Ground
 
@@ -536,8 +544,6 @@ Stubbs Road Lookout
 
 Stubbs Road Sitting-out Area
 
-Sugar Street Sitting-out Area
-
 Sun Pat Kan Sitting-out Area
 
 Sun Yat Sen Memorial Park
@@ -567,8 +573,6 @@ Tai Tam Road/Chai Wan Road Amenity Plot
 Tai Wo Street Playground
 
 Tak Yan Street Children’s Playground
-
-Telegraph Bay Playground
 
 Third Street Playground
 
@@ -602,25 +606,9 @@ Tung Wah Centenary Square Garden
 
 Tunnel Approach Rest Garden
 
-UC Ap Lei Chau Complex Leisure Centre
-
 Upper Kai Lun Wan Temporary Sitting-out Area
 
 Upper Station Street Sitting-out Area
-
-Urban Council Java Road Complex Indoor Games Hall
-
-Urban Council Quarry Bay Complex Indoor Games Hall
-
-Urban Council Sai Wan Ho Complex Indoor Games Hall
-
-Urban Council Shek Tong Tsui Complex Indoor Games Hall
-
-Urban Council Sheung Wan Complex Indoor Games Hall
-
-Urban Council Smithfield Complex Indoor Games Hall
-
-Urban Council Wong Nai Chung Complex Indoor Games Hall
 
 Ventris Road Garden
 
@@ -646,6 +634,8 @@ Wan Chai Park
 
 Wan Chai Sports Ground
 
+Wan Chai Temporary Promenade
+
 Wan Tsui Lane Sitting-out Area
 
 Wan Tsui Road Amenity Plot
@@ -656,7 +646,7 @@ Watson Road Rest Garden
 
 West End Park
 
-Western Park Indoor Games Hall
+Western Park Sports Centre
 
 Wharf Road Rest Garden
 
@@ -672,15 +662,15 @@ Wing Ning Street Sitting-out Area
 
 Wing Tai Road Garden
 
-Wong Chuk Hang Indoor Games Hall
+Wong Chuk Hang Recreation Ground
 
 Wong Chuk Hang Road Garden
 
 Wong Chuk Hang Service Reservoir Rest Garden
 
-Wong Chuk Hang Temporary Cycling Area
+Wong Chuk Hang Sports Centre
 
-Wong Lung Street Sitting-out Area
+Wong Chuk Hang Temporary Cycling Area
 
 Wong Ma Kok Road Playground
 
@@ -698,15 +688,17 @@ Wong Nai Chung Road Rest Garden
 
 Wong Nai Chung Road Sitting-out Area
 
+Wong Nai Chung Sports Centre
+
 Wun Sha Street Children’s Playground
 
 Yee Shing Lane Temporary Sitting-out Area
 
 Yip Kan Street Sitting-out Area
 
-Yue Kwong Road Indoor Games Hall
+Yue Kwong Road Sports Centre
 
-Kowloon and New Kowloon
+Kowloon
 
 Anchor Street Playground
 
@@ -722,13 +714,13 @@ Battery Street Sitting-out Area
 
 Berwick Street Sitting-out Area
 
-Boundary Street Indoor Games Hall No. 1
-
-Boundary Street Indoor Games Hall No. 2
+Boundary Street Amenity Plot
 
 Boundary Street Recreation Ground
 
-Boundary Street Rest Garden (opposite Tai Hang Tung Road)
+Boundary Street Sports Centre No. 1
+
+Boundary Street Sports Centre No. 2
 
 Broadcast Drive Garden
 
@@ -750,7 +742,7 @@ Changsha Street Sitting-out Area
 
 Chatham Road/Winslow Street Sitting-out Area
 
-Cheung Sha Wan Indoor Games Hall
+Cherry Street Sitting-out Area
 
 Cheung Sha Wan Playground
 
@@ -758,21 +750,21 @@ Cheung Sha Wan Road/Cheung Shun Street Playground
 
 Cheung Sha Wan Road/Lai Chi Kok Road Flyover Amenity Plot
 
-Cherry Street Playground
+Cheung Sha Wan Sports Centre
 
 Ching Cheung Road Extension Amenity Plot
 
-Choi Hung Bus Terminus Sitting-out Area
-
 Choi Hung Road Badminton Centre
-
-Choi Hung Road Indoor Games Hall
 
 Choi Hung Road Interchange Amenity Plot
 
 Choi Hung Road Playground
 
-Choi Hung Road Rest Garden
+Choi Hung Road Sports Centre
+
+Chuk Yuen Sports Centre
+
+Chun Wah Road Sports Centre
 
 Clear Water Bay Road Central Strip
 
@@ -784,11 +776,13 @@ Cornwall Street/Ede Road Garden
 
 Cornwall Street Park
 
+Cornwall Street Squash and Table Tennis Centre
+
 Cox’s Road Children’s Playground
 
 Diamond Hill Crematorium Sitting-out Area
 
-Diocesan Boys’ School Approach Road Garden
+Diocesan Boys’ School Approach Road Sitting-out Area
 
 Dorset Crescent Rest Garden
 
@@ -804,6 +798,8 @@ Essex Crescent Rest Garden
 
 Fa Hui Park
 
+Fa Yuen Street Sports Centre
+
 Fan Wa Street Sitting-out Area
 
 Fan Wa Street Temporary Sitting-out Area
@@ -814,15 +810,11 @@ Fat Kwong Street Garden No. 2
 
 Fat Kwong Street Playground
 
-Fat Kwong Street Sitting-out Area
+Fat Kwong Street Sports Centre
 
 Fei Fung Street Sitting-out Area
 
 Ferry Street Playground
-
-Fook Wah Tsuen Playground
-
-Fuk Tsun Street Temporary Sitting-out Area
 
 Fuk Wah Street Rest Garden
 
@@ -833,8 +825,6 @@ Fung Mo Interchange Amenity Plot
 Fung Tak Park
 
 Gascoigne Road/Nathan Road Rest Garden (Stage I)
-
-Gascoigne Road Rest Garden
 
 Ha Yuen Ling Amenity Plot
 
@@ -852,13 +842,13 @@ Hip Wo Street/Mut Wah Street Sitting-out Area
 
 Hiu Kwong Street Children’s Playground
 
-Hiu Kwong Street Indoor Games Hall
-
 Hiu Kwong Street Park Strip
 
 Hiu Kwong Street Recreation Ground
 
 Hiu Kwong Street Rest Garden
+
+Hiu Kwong Street Sports Centre
 
 Hiu Ming Street Playground
 
@@ -868,9 +858,9 @@ Ho Man Tin High Level Service Reservoir Playground
 
 Ho Man Tin Hill Road Rest Garden
 
-Ho Man Tin Leisure Centre
-
 Ho Man Tin Park
+
+Ho Man Tin Sports Centre
 
 Hoi Bun Road Park
 
@@ -896,6 +886,10 @@ Hong Ning Road Rest Garden
 
 Hong Tat Path Garden
 
+Hung Hom Bay Sports Centre
+
+Hung Hom South Road Rest Garden
+
 Hutchison Park
 
 Inverness Road Garden
@@ -906,9 +900,9 @@ Junction Road Park
 
 Kai Cheung Road Sitting-out Area
 
-Kai Tak East Indoor Games Hall
-
 Kai Tak East Playground
+
+Kai Tak East Sports Centre
 
 Kai Tin Road Sitting-out Area
 
@@ -944,13 +938,15 @@ Ko Chiu Road Rest Garden
 
 Ko Shan Road Park
 
-Kowloon Bay Indoor Games Hall
-
 Kowloon Bay Playground
+
+Kowloon Bay Sports Centre
 
 Kowloon Bay Sports Ground
 
 Kowloon City Road Flyover Sitting-out Area
+
+Kowloon City Sports Centre
 
 Kowloon Park
 
@@ -958,15 +954,15 @@ Kowloon Park Drive Children’s Playground
 
 Kowloon Park Drive Rest Garden
 
-Kowloon Park Indoor Games Hall
+Kowloon Park Sports Centre
 
 Kowloon Tsai Park
 
 Kowloon Tsai Park Squash Court
 
-Kowloon Walled City Park
+Kowloon Tsai Sports Ground
 
-Kun Yam Street Rest Garden
+Kowloon Walled City Park
 
 Kung Lok Road Amenity Plot
 
@@ -978,11 +974,11 @@ Kwei Chow Street/Yuk Yat Street Sitting-out Area
 
 Kwong Lee Road Playground
 
+Kwun Chung Sports Centre
+
 Kwun Tong Ferry Pier Square
 
 Kwun Tong High Level Service Reservoir Garden
-
-Kwun Tong Promenade Breakwater Sitting-out Area
 
 Kwun Tong Recreation Ground (South of Kwun Tong (Tsui Ping Road) Housing Estate)
 
@@ -1008,7 +1004,7 @@ Lai Chi Kok Interchange Amenity Plot
 
 Lai Chi Kok Park
 
-Lai Chi Kok Park Indoor Games Hall
+Lai Chi Kok Park Sports Centre
 
 Lai Chi Kok Road/Canton Road Garden
 
@@ -1029,6 +1025,8 @@ Lam Tin Bus Terminus Sitting-out Area
 Lam Tin Park
 
 Lam Tin Service Reservoir Playground
+
+Lam Tin South Sports Centre
 
 Lam Wah Street Playground
 
@@ -1060,11 +1058,11 @@ Lok Sin Road/Carpenter Road Sitting-out Area
 
 Lok Sin Road/Choi Hung Road Sitting-out Area
 
+Lok Wah Playground
+
 Lok Wah Street Playground
 
 Lomond Road Garden
-
-Lower Ngau Tau Kok Estate Playground No. 7
 
 Lower Ngau Tau Kok Estate Playground No. 8
 
@@ -1075,6 +1073,8 @@ Lung Cheung Road North/Po Kong Village Road Sitting-out Area
 Lung Cheung Road Park
 
 Lung Cheung Road Playground
+
+Lung Cheung Road Sitting-out Area
 
 Ma Chai Hang Recreation Ground
 
@@ -1120,7 +1120,7 @@ Moray Road Children’s Playground
 
 Morse Park
 
-Morse Park Indoor Games Hall
+Morse Park Sports Centre
 
 Morse Park Squash Court
 
@@ -1140,9 +1140,9 @@ Nathan Road/Boundary Street Sitting-out Area
 
 Nga Tsin Wai Road Sitting-out Area
 
-Ngau Chi Wan Indoor Games Hall
-
 Ngau Chi Wan Market Roof Top Children’s Playground
+
+Ngau Chi Wan Sports Centre
 
 Ngau Chi Wan Street Temporary Sitting-out Area
 
@@ -1152,9 +1152,9 @@ Ngau Tau Kok Road Children’s Playground
 
 Ngau Tau Kok Road Flyover Rest Garden
 
-Ngau Tau Kok Road Indoor Games Hall
-
 Ngau Tau Kok Road Rest Garden
+
+Ngau Tau Kok Road Sports Centre
 
 Ning Po Street/Shanghai Street Rest Garden
 
@@ -1172,6 +1172,8 @@ Pak Kung Street Garden
 
 Peace Avenue Playground
 
+Pei Ho Street Sports Centre
+
 Peking Road Sitting-out Area
 
 Pentland Street Garden
@@ -1180,15 +1182,17 @@ Perth Street Sports Ground
 
 Pik Wan Road Rest Garden
 
+Ping Shek Playground
+
 Po Kong Interchange Rest Garden
 
-Po Kong Village Road Indoor Games Hall
+Po Kong Village Road Sports Centre
 
 Po On Road Playground
 
-Poplar Street Children’s Playground
+Po On Road Sports Centre
 
-Portland Street/Man Ming Lane Sitting-out Area
+Poplar Street Children’s Playground
 
 Portland Street Rest Garden
 
@@ -1228,9 +1232,9 @@ Salisbury Road Garden
 
 Sam Chuk Street Sitting-out Area
 
-Sam Ka Tsuen Leisure Centre
-
 Sam Ka Tsuen Recreation Ground
+
+Sam Ka Tsuen Sports Centre
 
 Sam Ka Tsuen Typhoon Shelter Breakwater Sitting-out Area
 
@@ -1268,7 +1272,7 @@ Shek Kip Mei Central Playground
 
 Shek Kip Mei Park
 
-Shek Kip Mei Park Indoor Games Hall
+Shek Kip Mei Park Sports Centre
 
 Shek Kip Mei Service Reservoir Playground
 
@@ -1280,6 +1284,8 @@ Shek Ku Lung Road Rest Garden
 
 Sheung Li Uk Garden
 
+Sheung Lok Street Garden
+
 Sheung Shing Street Park
 
 Sheung Wo Street Sitting-out Area
@@ -1288,7 +1294,7 @@ Shing Tak Street Sitting-out Area
 
 Shing Yip Street Rest Garden
 
-Shun Lee Tsuen Leisure Centre
+Shui Wo Street Sports Centre
 
 Shun Lee Tsuen Park
 
@@ -1296,9 +1302,13 @@ Shun Lee Tsuen Playground
 
 Shun Lee Tsuen Road Lookout
 
+Shun Lee Tsuen Sports Centre
+
 Shun Ning Road Recreation Ground
 
 Shung Ling Street Playground
+
+Shung Ling Street Sitting-out Area
 
 Signal Hill Garden
 
@@ -1356,9 +1366,9 @@ Temple Street/Kansu Street Temporary Rest Garden
 
 Thistle Street Rest Garden
 
-Tin Kwong Road Playground
-
 Tin Kwong Road Recreation Ground
+
+Tin Kwong Road Tennis Court
 
 Ting Fu Street Sitting-out Area
 
@@ -1370,9 +1380,9 @@ To Kwa Wan Complex Indoor Games Room
 
 To Kwa Wan Complex Playground
 
-To Kwa Wan Indoor Games Hall
-
 To Kwa Wan Recreation Ground
+
+To Kwa Wan Sports Centre
 
 To Yuen Street Playground
 
@@ -1409,28 +1419,6 @@ Tung Chau Street Park
 Tung On Street Rest Garden
 
 Urban Council Centenary Garden
-
-Urban Council Chuk Yuen Indoor Games Hall
-
-Urban Council Chun Wah Road Indoor Games Hall
-
-Urban Council Fa Yuen Street Complex Indoor Games Hall
-
-Urban Council Fat Kwong Street Indoor Games Hall
-
-Urban Council Hung Hom Complex Indoor Games Hall
-
-Urban Council Kowloon City Complex Indoor Games Hall
-
-Urban Council Kwun Chung Complex Indoor Games Hall
-
-Urban Council Lam Tin South Indoor Games Hall
-
-Urban Council Pei Ho Street Complex Indoor Games Hall
-
-Urban Council Po On Road Complex Indoor Games Hall
-
-Urban Council Shui Wo Street Complex Indoor Games Hall
 
 Wai Chi Street Playground
 
@@ -1490,6 +1478,8 @@ Yuen Po Street Bird Garden
 
 Yuet Wah Street Playground
 
+The New Territories
+
 Ap Chau Sitting-out Area
 
 Butterfly Beach Park
@@ -1506,9 +1496,9 @@ Chai Wan Kok Rest Garden
 
 Che Kung Miu Road Playground
 
-Cheung Chau Indoor Recreation Centre
-
 Cheung Chau Park
+
+Cheung Chau Sports Centre
 
 Cheung Chau Sports Ground
 
@@ -1516,7 +1506,7 @@ Cheung Chau Tung Wan Children’s Playground
 
 Cheung Fai Road Promenade
 
-Cheung Fat Indoor Recreation Centre
+Cheung Fat Sports Centre
 
 Cheung Hang Village Playground
 
@@ -1604,9 +1594,11 @@ Finger Hill Sitting-out Area, Peng Chau
 
 Fong Ma Po Children’s Playground
 
-Fu Heng Indoor Recreation Centre
+Fu Heng Sports Centre
 
-Fu Shin Indoor Recreation Centre
+Fu Pui Garden
+
+Fu Shin Sports Centre
 
 Fu Tei Chung Tsuen Children’s Playground
 
@@ -1622,13 +1614,15 @@ Fung Cheung Road Garden
 
 Fung Heung Street Sitting-out Area
 
-Fung Kam Street Indoor Recreation Centre
+Fung Kam Street Sports Centre
 
 Fung Kwan Street Garden
 
-Fung Shue Wo Indoor Recreation Centre
+Fung Nam Road Garden
 
 Fung Shue Wo Resite Village Basketball Court
+
+Fung Shue Wo Sports Centre
 
 Fung Tei Garden
 
@@ -1648,6 +1642,8 @@ Ha Wan Tsuen Basketball Court
 
 Hang Hau Basketball Court
 
+Hang Hau Garden
+
 Hang Hau Tsuen Sitting-out Area
 
 Hang Mei Tsuen Sitting-out Area
@@ -1658,9 +1654,9 @@ Hang Tak Pavilion
 
 Hang Tau Tsuen Playground
 
-Heng On Indoor Recreation Centre
+Heng On Sports Centre
 
-Hin Keng Indoor Recreation Centre
+Hin Keng Sports Centre
 
 Hin Tin Playground
 
@@ -1700,7 +1696,7 @@ The Jockey Club Kwai Shing Public Squash Courts
 
 Jockey Club Tak Wah Park
 
-The Jockey Club Tuen Mun Butterfly Beach Indoor Recreation Centre
+The Jockey Club Tuen Mun Butterfly Beach Sports Centre
 
 Ka Loon Garden
 
@@ -1802,11 +1798,13 @@ Kwu Tung Playground
 
 Kwun Yam Wan Road Seaview Shelter, Cheung Chau
 
+Lady MacLehose Holiday Village
+
 Lai King Hill Road Playground
 
-Lai King Indoor Recreation Centre
-
 Lai King Soccer Pitch
+
+Lai King Sports Centre
 
 Lau Fau Shan Playground
 
@@ -1820,7 +1818,7 @@ Lek Yuen Street Rest Garden
 
 Leng Pei Playground
 
-Leung Tin Indoor Recreation Centre
+Leung Tin Sports Centre
 
 Leung Tin Tsuen Garden
 
@@ -1848,9 +1846,13 @@ Lok Shun Path Barbecue Area
 
 Lok Yuen Path Children’s Playground
 
+Long Ping Sports Centre
+
 Lower Cheung Sha Village Children’s Playground
 
 Luen Wo Hui Playground
+
+Luen Wo Hui Sports Centre
 
 Luk Keng Sitting-out Area
 
@@ -1860,7 +1862,7 @@ Lung Fung Sitting-out Area
 
 Lung Mei Village Garden
 
-Lung Sum Avenue Indoor Recreation Centre
+Lung Sum Avenue Sports Centre
 
 Lung Tsai Tsuen Sitting-out Area, Cheung Chau
 
@@ -1906,7 +1908,7 @@ Mang Kung Uk Rest Garden
 
 Mei King Playground
 
-Mei Lam Indoor Recreation Centre
+Mei Lam Sports Centre
 
 Miu Kong Street Sitting-out Area
 
@@ -1920,9 +1922,9 @@ Mui Wo Ferry Concourse Rest Garden
 
 Mui Wo Ferry Pier Road Sitting-out Area
 
-Mui Wo Indoor Recreation Centre
-
 Mui Wo Playground
+
+Mui Wo Sports Centre
 
 Muk Min Ha Garden
 
@@ -1940,13 +1942,15 @@ Ngan Wai Rest Garden
 
 Ngau Pei Sha Street Playground
 
+Nim Wan Tsuen Children’s Playground
+
 North District Park
 
 North District Sports Ground
 
 North Kwai Chung Market Roof-top Playground
 
-North Kwai Chung Tang Shiu Kin Indoor Recreation Centre
+North Kwai Chung Tang Shiu Kin Sports Centre
 
 On Chit Street Playground
 
@@ -1976,7 +1980,7 @@ On Pong Road Sitting-out Area
 
 On Shing Street Garden
 
-Osman Ramju Sadick Memorial Games Hall, Kwai Chung
+Osman Ramju Sadick Memorial Sports Centre
 
 Pai Cheong Road Sitting-out Area, Cheung Chau
 
@@ -2010,13 +2014,13 @@ Pau Cheung Square Playground
 
 Pei Tau Village Playground
 
-Peng Chau Indoor Recreation Centre
-
 Peng Chau Mini-soccer Pitch
 
 Peng Chau Playground
 
 Peng Chau Sitting-out Area
+
+Peng Chau Sports Centre
 
 Peng Chau Waterfront Playground
 
@@ -2028,11 +2032,15 @@ Pik Uk Garden
 
 Ping Che Children’s Playground
 
+Ping Che Kat Tin Children’s Playground
+
 Ping Che Mini-soccer Pitch
 
 Ping Kong Children’s Playground
 
 Ping Long Playground
+
+Ping Shan Lane Garden
 
 Ping Wui Street Rest Garden
 
@@ -2044,7 +2052,7 @@ Po Heung Bridge Sitting-out Area
 
 Po Hong Park
 
-Po Lam Indoor Recreation Centre
+Po Lam Sports Centre
 
 Po Lo Che Garden
 
@@ -2052,7 +2060,7 @@ Po Tsui Park
 
 Po Yip Street Sitting-out Area
 
-Praya Street Indoor Recreation Centre
+Praya Street Sports Centre
 
 Pui O Children’s Playground
 
@@ -2060,13 +2068,13 @@ Pui O Playground, Lantau
 
 Pui To Road (South) Rest Garden
 
-Regional Council Long Ping Indoor Recreation Centre
-
 Round Table Third Village Playground, Cheung Chau
 
 Sai Ching Street Children’s Playground
 
 Sai Ching Street Tennis Court
+
+Sai Kung Outdoor Recreation Centre
 
 Sai Kung Park
 
@@ -2077,6 +2085,8 @@ Sai Kung Tang Shiu Kin Sports Ground
 Sai Kung Tennis Courts
 
 Sai Lau Kok Garden
+
+Sai Lau Kok Tsuen Children’s Playground
 
 Sam Mun Tsai Children’s Playground
 
@@ -2133,6 +2143,8 @@ San Uk Tsai Playground
 San Uk Tsuen Sitting-out Area
 
 San Wan Road Garden
+
+San Wo Lane Playground
 
 Sha Kok Mei Basketball Court
 
@@ -2300,7 +2312,7 @@ Siu Hang Tsuen Sitting-out Area
 
 Siu Lek Yuen Road Playground
 
-Siu Lun Sportsground
+Siu Lun Sports Ground
 
 So Kwun Wat Sitting-out Area
 
@@ -2316,7 +2328,7 @@ Ta Kwu Ling Playground
 
 Tai Choi Yuen Playground, Cheung Chau
 
-Tai Hing Indoor Recreation Centre
+Tai Hing Sports Centre
 
 Tai Ho Road Sitting-out Area No. 1
 
@@ -2370,8 +2382,6 @@ Tai Po Central Town Square
 
 Tai Po Contour Sitting-out Area
 
-Tai Po Indoor Recreation Centre
-
 Tai Po Kau Garden
 
 Tai Po Kau Park
@@ -2393,6 +2403,8 @@ Tai Po Road 10 M.S. Lookout No. 2
 7 1/2 M.S. Tai Po Road Rest Garden
 
 Tai Po Shuen Wan Temporary Golf Driving Range
+
+Tai Po Sports Centre
 
 Tai Po Sports Ground
 
@@ -2422,13 +2434,13 @@ Tai Wan Sitting-out Area, Po Toi
 
 Tai Wan Tau Garden
 
-Tai Wo Hau Indoor Recreation Centre
-
 Tai Wo Hau Road Playground
 
 Tai Wo Hau Road South Playground
 
-Tai Wo Indoor Recreation Centre
+Tai Wo Hau Sports Centre
+
+Tai Wo Sports Centre
 
 Tai Wong Ha Playground
 
@@ -2454,7 +2466,9 @@ Tin Ho Road Playground
 
 Tin Liu Children’s Playground
 
-Tin Ping Indoor Recreation Centre
+Tin Ping Road Garden
+
+Tin Ping Sports Centre
 
 Tin Sam Garden No. 1
 
@@ -2466,9 +2480,9 @@ Tin Sam Sitting-out Area
 
 Tin Shui Road Park
 
-Tin Shui Wai Indoor Recreation Centre
-
 Tin Shui Wai Park
+
+Tin Shui Wai Sports Centre
 
 Tin Shui Wai Sports Ground
 
@@ -2504,7 +2518,7 @@ Tseng Tau Chung Tsuen Sitting-out Area
 
 Tseng Tau Sheung Tsuen Sitting-out Area
 
-Tseung Kwan O Indoor Recreation Centre
+Tseung Kwan O Sports Centre
 
 Tsing Bik Sitting-out Area
 
@@ -2532,6 +2546,8 @@ Tsing Sin Garden
 
 Tsing Sin Playground
 
+Tsing Tin Garden
+
 Tsing Tin Playground
 
 Tsing Wah Garden
@@ -2548,11 +2564,13 @@ Tsing Yeung Rest Garden, Tuen Mun
 
 Tsing Yi Four Village Playground
 
-Tsing Yi Indoor Recreation Centre
-
 Tsing Yi Park
 
+Tsing Yi Promenade
+
 Tsing Yi Road West Park
+
+Tsing Yi Sports Centre
 
 Tsing Yi Sports Ground
 
@@ -2560,17 +2578,19 @@ Tsing Yu Street Garden
 
 Tsing Yuen Children’s Playground
 
+Tso Kung Tam Outdoor Recreation Centre
+
 Tsuen Fu Street Garden
 
 Tsuen King Circuit Children’s Playground
 
 Tsuen King Circuit Garden
 
-Tsuen King Circuit Indoor Recreation Centre
-
 Tsuen King Circuit Playground
 
 Tsuen King Circuit Recreation Ground and Rest Garden
+
+Tsuen King Circuit Sports Centre
 
 Tsuen Kwai Street Sitting-out Area
 
@@ -2582,11 +2602,11 @@ Tsuen Wan Riviera Park
 
 Tsuen Wan Tin Hau Temple Garden
 
-Tsuen Wan West Indoor Recreation Centre
+Tsuen Wan West Sports Centre
 
 Tsuen Wing Street Playground
 
-Tsui Lam Indoor Recreation Centre
+Tsui Lam Sports Centre
 
 Tsung Pak Long Children’s Playground
 
@@ -2648,13 +2668,13 @@ Wai Ming Street Garden
 
 Wai Tau Tsuen Playground
 
-Wai Tsuen Indoor Recreation Centre
-
 Wai Tsai Street Sitting-out Area, Peng Chau
 
 Wai Tsuen Road Garden
 
 Wai Tsuen Road Rest Garden
+
+Wai Tsuen Sports Centre
 
 Wan Tau Kok Playground
 
@@ -2680,9 +2700,9 @@ Wing Lung Street Sitting-out Area, Peng Chau
 
 Wing Ping Tsuen Sitting-out Area
 
-Wo Hing Indoor Recreation Centre
-
 Wo Hing Playground
+
+Wo Hing Sports Centre
 
 Wo Liu Hang Playground
 
@@ -2710,17 +2730,21 @@ Wu Kau Tang Playground
 
 Wu King Road Garden
 
+Wu Shan Bowling Green
+
+Wu Shan Garden
+
 Wu Shan Recreation Playground
 
-Yan Oi Market Roof-top Playground
+Wu Shan Tennis Courts
 
 Yan Oi Town Square
 
 Yau Ma Hom Garden
 
-Yau Oi Indoor Recreation Centre
-
 Yau Oi Sitting-out Area
+
+Yau Oi Sports Centre
 
 Yau Yue Wan Children’s Playground
 
@@ -2730,7 +2754,7 @@ Yeung King Playground
 
 Yeung Siu Hang Garden
 
-Yeung Uk Road Indoor Recreation Centre
+Yeung Uk Road Sports Centre
 
 Yeung UK Tsuen Garden
 
@@ -2774,7 +2798,7 @@ Yuen Tun Garden
 
 Yuen Wo Playground
 
-Yuen Wo Road Indoor Recreation Centre
+Yuen Wo Road Sports Centre
 
 Yung Shue Tsuen Children’s Playground
 
@@ -2788,92 +2812,90 @@ Yung Shue Wan/Sok Kwu Wan Rainshelter
 
 Bathing beaches
 
-Big Wave Bay
+The Island of Hong Kong
+
+Big Wave Bay Beach
 
 Chung Hom Kok Beach
 
-Deep Water Bay
+Deep Water Bay Beach
 
-Hairpin
+Hairpin Beach
 
-Middle Bay
+Middle Bay Beach
 
-Repulse Bay
+Repulse Bay Beach
 
-Shek 0
+Rocky Bay Beach
 
-South Bay
+Shek O Beach
 
-St. Stephen’s
+South Bay Beach
 
-Turtle Cove
+St. Stephen’s Beach
 
 Stanley Main Beach
 
-Rocky Bay Beach, Shek 0
+Turtle Cove Beach
 
-Islands District
+The New Territories
 
-Cheung Sha Beach, Lantau Island
+Anglers’ Beach
 
-Hung Shing Yeh, Lamma Island
+Approach Beach
 
-Kwun Yam (Afternoon) Beach, Cheung Chau
+Butterfly Beach
 
-Lo So Shing, Lamma Island
+Cafeteria New Beach
 
-Pui 0 Beach, Lantau Island
+Cafeteria Old Beach
 
-Silver Mine Bay, Lantau Island
+Casam Beach
 
-Tong Fuk Beach, Lantau Island
+Castle Peak Beach
 
-Tung Wan Beach, Cheung Chau
+Cheung Chau Tung Wan Beach
 
-Sai Kung District
+Clear Water Bay First Beach
 
-Clear Water Bay First Beach, Tai Wan Tau, Clear Water Bay Road
+Clear Water Bay Second Beach
 
-Clear Water Bay Second Beach, Tai 0 Mun Road
-
-Hap Mun Bay, Sharp Island
-
-Kiu Tsui, Sharp Island
-
-Silverstrand, Clear Water Bay Road
-
-Trio (Hebehaven)
-
-Tuen Mun District
-
-Butterfly Beach, Lung Mun Road
-
-Cafeteria New Beach, 18 1/2 milestone, Castle Peak Road
-
-Cafeteria Old Beach, 18 3/4 milestone, Castle Peak Road
-
-Castle Peak Beach, 19 milestone, Castle Peak Road
+Gemini Beaches
 
 Golden Beach
 
-Kadoorie Beach, 18 3/4 milestone, Castle Peak Road
+Hap Mun Bay Beach
 
-Tsuen Wan District
+Hoi Mei Wan Beach
 
-Anglers’ Beach, 13 milestone, Castle Peak Road
+Hung Shing Yeh Beach
 
-Approach Beach, 10 1/2 milestone, Castle Peak Road
+Kadoorie Beach
 
-Casam Beach, 11 1/2 milestone, Castle Peak Road
+Kiu Tsui Beach
 
-Gemini Beaches, 12 milestone, Castle Peak Road
+Kwun Yam Beach
 
-Hoi Mei Wan, 11 3/4 milestone, Castle Peak Road
+Lido Beach
 
-Lido Beach, 11 1/2 milestone, Castle Peak Road
+Lo So Shing Beach
 
-Ting Kau Beach, 11 milestone, Castle Peak Road
+Lower Cheung Sha Beach
 
-Tung Wan Beach, Ma Wan
+Ma Wan Tung Wan Beach
 
-(Amended G.N.A. 135 of 1960; G.N.A. 114 of 1961; G.N.A. 4 of 1962; L.N. 27 of 1967; L.N. 155 of 1967; L.N. 121 of 1968; L.N. 38 of 1969; L.N. 38 of 1970; L.N. 179 of 1970; L.N. 38 of 1972; L.N. 84 of 1973; L.N. 1 of 1975; L.N. 67 of 1975; L.N. 10 of 1977; L.N. 50 of 1977; L.N. 226 of 1977; L.N. 283 of 1977; L.N. 24 of 1978; L.N. 110 of 1978; L.N. 143 of 1978; L.N. 221 of 1978; L.N. 261 of 1978; L.N. 267 of 1978; L.N. 142 of 1979; L.N. 162 of 1979; L.N. 206 of 1979; L.N. 302 of 1979; L.N. 303 of 1979; L.N. 50 of 1980; L.N. 88 of 1980; L.N. 162 of 1980; L.N. 193 of 1980; L.N. 382 of 1980; L.N. 180 of 1981; L.N. 265 of 1981; L.N. 399 of 1981; L.N. 23 of 1982; L.N. 38 of 1982; L.N. 84 of 1982; L.N. 95 of 1982; L.N. 96 of 1982; L.N. 138 of 1982; L N. 168 of 1982; L.N. 319 of 1982; L.N. 324 of 1982; L.N. 336 of 1982; L.N. 338 of 1982; L.N. 348 of 1982; L.N. 381 of 1982; L.N. 396 of 1982; L.N. 34 of 1983; L.N. 41 of 1983; L.N. 120 of 1983; L.N. 308 of 1983; L.N. 394 of 1983; L.N. 207 of 1984; L.N. 359 of 1984; L.N. 407 of 1984; L.N. 191 of 1985; L.N. 276 of 1985; L.N. 326 of 1985; L.N. 356 of 1985; L.N. 68 of 1986; L.N. 77 of 1986; 10 of 1986 s. 26; L.N. 164 of 1986; L.N. 279 of 1986; L.N. 321 of 1986; L.N. 109 of 1987; L.N. 212 of 1987; L.N. 244 of 1987; L.N. 283 of 1987; L.N. 352 of 1987; L.N. 410 of 1987; L.N. 425 of 1987; L.N. 91 of 1988; L.N. 120 of 1988; L.N. 170 of 1988; L.N. 180 of 1988; L.N. 271 of 1988; L.N. 277 of 1988; L.N. 359 of 1988; L.N. 52 of 1989; L.N. 108 of 1989; L.N. 147 of 1989; L.N. 229 of 1989; L.N. 324 of 1989; L.N. 332 of 1989; L.N. 408 of 1989; L.N. 3 of 1990; L.N. 89 of 1990; L.N. 114 of 1990; L.N. 197 of 1990; L.N. 228 of 1990; L.N. 308 of 1990; L.N. 326 of 1990; L.N. 1 of 1991; L.N. 20 of 1991; L.N. 145 of 1991; L.N. 146 of 1991; L.N. 260 of 1991; L.N. 274 of 1991; L.N. 372 of 1991; L.N. 382 of 1991; L.N. 461 of 1991; L.N. 13 of 1992; L.N. 52 of 1992; L.N. 95 of 1992; L.N. 109 of 1992; L.N. 229 of 1992; L.N. 260 of 1992; L.N. 322 of 1992; L.N. 336 of 1992; L.N. 4 of 1993; L.N. 98 of 1993; L.N. 161 of 1993; L.N. 264 of 1993; L.N. 369 of 1993; L.N. 395 of 1993; L.N. 468 of 1993; L.N. 494 of 1993; L.N. 71 of 1994; L.N. 206 of 1994; L.N. 231 of 1994; L.N. 424 of 1994; L.N. 445 of 1994; L.N. 536 of 1994; L.N. 628 of 1994; L.N. 16 of 1995; L.N. 108 of 1995; L.N. 149 of 1995; L.N. 342 of 1995; L.N. 343 of 1995; L.N. 460 of 1995; L.N. 535 of 1995; L.N. 26 of 1996; L.N. 181 of 1996; L.N. 216 of 1996; L.N. 334 of 1996; L.N. 390 of 1996; L.N. 424 of 1996; L.N. 488 of 1996; L.N. 560 of 1996; L.N. 134 of 1997; L.N. 156 of 1997; L.N. 389 of 1997; L.N. 444 of 1997; L.N. 460 of 1997; L.N. 616 of 1997; L.N. 626 of 1997; L.N. 225 of 1998; L.N. 273 of 1998; L.N. 316 of 1998; L.N. 326 of 1998; L.N. 355 of 1998; L.N. 9 of 1999; L.N. 48 of 1999; L.N. 49 of 1999; L.N. 94 of 1999; L.N. 170 of 1999; L.N. 255 of 1999; L.N. 260 of 1999; L.N. 303 of 1999; 78 of 1999 s. 7; L.N. 360 of 2000)
+Pui O Beach
+
+Silver Mine Bay Beach
+
+Silverstrand Beach
+
+Ting Kau Beach
+
+Tong Fuk Beach
+
+Trio Beach
+
+Upper Cheung Sha Beach
+
+(Amended G.N.A. 135 of 1960; G.N.A. 114 of 1961; G.N.A. 4 of 1962; L.N. 27 of 1967; L.N. 155 of 1967; L.N. 121 of 1968; L.N. 38 of 1969; L.N. 38 of 1970; L.N. 179 of 1970; L.N. 38 of 1972; L.N. 84 of 1973; L.N. 1 of 1975; L.N. 67 of 1975; L.N. 10 of 1977; L.N. 50 of 1977; L.N. 226 of 1977; L.N. 283 of 1977; L.N. 24 of 1978; L.N. 110 of 1978; L.N. 143 of 1978; L.N. 221 of 1978; L.N. 261 of 1978; L.N. 267 of 1978; L.N. 142 of 1979; L.N. 162 of 1979; L.N. 206 of 1979; L.N. 302 of 1979; L.N. 303 of 1979; L.N. 50 of 1980; L.N. 88 of 1980; L.N. 162 of 1980; L.N. 193 of 1980; L.N. 382 of 1980; L.N. 180 of 1981; L.N. 265 of 1981; L.N. 399 of 1981; L.N. 23 of 1982; L.N. 38 of 1982; L.N. 84 of 1982; L.N. 95 of 1982; L.N. 96 of 1982; L.N. 138 of 1982; L N. 168 of 1982; L.N. 319 of 1982; L.N. 324 of 1982; L.N. 336 of 1982; L.N. 338 of 1982; L.N. 348 of 1982; L.N. 381 of 1982; L.N. 396 of 1982; L.N. 34 of 1983; L.N. 41 of 1983; L.N. 120 of 1983; L.N. 308 of 1983; L.N. 394 of 1983; L.N. 207 of 1984; L.N. 359 of 1984; L.N. 407 of 1984; L.N. 191 of 1985; L.N. 276 of 1985; L.N. 326 of 1985; L.N. 356 of 1985; L.N. 68 of 1986; L.N. 77 of 1986; 10 of 1986 s. 26; L.N. 164 of 1986; L.N. 279 of 1986; L.N. 321 of 1986; L.N. 109 of 1987; L.N. 212 of 1987; L.N. 244 of 1987; L.N. 283 of 1987; L.N. 352 of 1987; L.N. 410 of 1987; L.N. 425 of 1987; L.N. 91 of 1988; L.N. 120 of 1988; L.N. 170 of 1988; L.N. 180 of 1988; L.N. 271 of 1988; L.N. 277 of 1988; L.N. 359 of 1988; L.N. 52 of 1989; L.N. 108 of 1989; L.N. 147 of 1989; L.N. 229 of 1989; L.N. 324 of 1989; L.N. 332 of 1989; L.N. 408 of 1989; L.N. 3 of 1990; L.N. 89 of 1990; L.N. 114 of 1990; L.N. 197 of 1990; L.N. 228 of 1990; L.N. 308 of 1990; L.N. 326 of 1990; L.N. 1 of 1991; L.N. 20 of 1991; L.N. 145 of 1991; L.N. 146 of 1991; L.N. 260 of 1991; L.N. 274 of 1991; L.N. 372 of 1991; L.N. 382 of 1991; L.N. 461 of 1991; L.N. 13 of 1992; L.N. 52 of 1992; L.N. 95 of 1992; L.N. 109 of 1992; L.N. 229 of 1992; L.N. 260 of 1992; L.N. 322 of 1992; L.N. 336 of 1992; L.N. 4 of 1993; L.N. 98 of 1993; L.N. 161 of 1993; L.N. 264 of 1993; L.N. 369 of 1993; L.N. 395 of 1993; L.N. 468 of 1993; L.N. 494 of 1993; L.N. 71 of 1994; L.N. 206 of 1994; L.N. 231 of 1994; L.N. 424 of 1994; L.N. 445 of 1994; L.N. 536 of 1994; L.N. 628 of 1994; L.N. 16 of 1995; L.N. 108 of 1995; L.N. 149 of 1995; L.N. 342 of 1995; L.N. 343 of 1995; L.N. 460 of 1995; L.N. 535 of 1995; L.N. 26 of 1996; L.N. 181 of 1996; L.N. 216 of 1996; L.N. 334 of 1996; L.N. 390 of 1996; L.N. 424 of 1996; L.N. 488 of 1996; L.N. 560 of 1996; L.N. 134 of 1997; L.N. 156 of 1997; L.N. 389 of 1997; L.N. 444 of 1997; L.N. 460 of 1997; L.N. 616 of 1997; L.N. 626 of 1997; L.N. 225 of 1998; L.N. 273 of 1998; L.N. 316 of 1998; L.N. 326 of 1998; L.N. 355 of 1998; L.N. 9 of 1999; L.N. 48 of 1999; L.N. 49 of 1999; L.N. 94 of 1999; L.N. 170 of 1999; L.N. 255 of 1999; L.N. 260 of 1999; L.N. 303 of 1999; 78 of 1999 s. 7; L.N. 360 of 2000; L.N. 31 of 2002)
