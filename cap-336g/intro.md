@@ -1,5 +1,7 @@
 DISTRICT COURT EQUAL OPPORTUNITIES RULES
 
-(Cap. 336 sections 73B and 73C)
+(Cap. 336 sections 73B, 73C and 73D)
+
+(L.N. 464 of 1997)
 
 [20 September 1996] L.N. 393 of 1996
