@@ -8,7 +8,7 @@ QUALIFICATIONS FOR ISSUE OF A NAVIGATIONAL WATCH RATING CERTIFICATE
 
   - (a) have attained the age of 17 years; and
 
-  - (b)be a registered seafarer or have been granted a dispensation from such requirement in writing by the Authority. The grant of such dispensation may be made subject to such conditions as to the rating’s existing qualifications as the Authority thinks fit.
+  - (b) be a registered seafarer or have been granted a dispensation from such requirement in writing by the Authority. The grant of such dispensation may be made subject to such conditions as to the rating’s existing qualifications as the Authority thinks fit.
 
 - 2. The qualifications for a Navigational Watch Rating Certificate shall be that the rating—
 
@@ -28,7 +28,13 @@ QUALIFICATIONS FOR ISSUE OF A NAVIGATIONAL WATCH RATING CERTIFICATE
 
     - (vii) knowledge of the emergency duties of navigational watch ratings;
 
-    - (viii) knowledge of nautical terms and their meanings appropriate to the duties of navigational watch ratings; and
+    - (viii) knowledge of nautical terms and their meanings appropriate to the duties of navigational watch ratings; (L.N. 103 of 1998)
+
+    - (ix) knowledge of basic environmental protection procedures; (L.N. 103 of 1998)
+
+    - (x) knowledge of satellite emergency position indicating radio beacons, and search and rescue radar transponders, the avoidance of false distress alerts, and action to be taken following accidental transmission of distress signals; (L.N. 103 of 1998)
+
+    - (xi) knowledge of procedures for relief, maintenance and handover of a watch and information required to maintain a safe watch; and (L.N. 103 of 1998)
 
   - (b) satisfies the Authority that he has the ability to understand and carry out orders and to make himself understood in English in matters relevant to the duties of a navigational watch rating.
 
@@ -38,18 +44,16 @@ QUALIFICATIONS FOR ISSUE OF A NAVIGATIONAL WATCH RATING CERTIFICATE
 
   - (b) If the rating has attended a course of training as in paragraph (a) and has failed to pass the examinations to qualify him as a seafarer, but has completed 4 months’ sea service in the deck department associated particularly with navigational watchkeeping duties, the Authority may remit the remaining 2 months of the 6 months’ sea service specified in section 2(a).
 
-  - (c) If the rating is the holder of an Engine Room Watch Rating Certificate issued under section 5 of the Merchant Shipping (Seafarers) (Engine Room Watch Ratings) Regulation (Cap. 478 sub. leg.)—
+  - (c) If the rating is the holder of an Engine Room Watch Rating Certificate issued under section 5 of the Merchant Shipping (Seafarers) (Engine Room Watch Ratings) Regulation (Cap. 478 sub. leg. V)—
 
     - (i) where the rating has completed 3 months’ sea service entirely in the deck department, the Authority may remit the remaining 3 months of the 6 months’ sea service specified in section 2(a);
 
-    - (ii) the 6 months’ sea service specified in section 2(a) may be performed in a general purpose capacity being mixed service partly in the deck department and partly in the engine
-
-  - department; and
+    - (ii) the 6 months’ sea service specified in section 2(a) may be performed in a general purpose capacity being mixed service partly in the deck department and partly in the engine department; and
 
     - (iii) the rating will be required to receive training only in respect of the matters specified in section 2(a)(ii), (iii), (iv), (v), (vi), (vii) and (viii).
 
 - 4. An applicant for a Navigational Watch Rating Certificate must produce—
 
-  - (a) a valid medical fitness certificate issued under the Merchant Shipping (Seafarers) (Medical Examination) Regulation (Cap. 478 sub. leg.) or other evidence to satisfy the Authority as to the state of the rating’s health and eyesight; and
+  - (a) a valid medical fitness certificate issued under the Merchant Shipping (Seafarers) (Medical Examination) Regulation (Cap. 478 sub. leg. O) or other evidence to satisfy the Authority as to the state of the rating’s health and eyesight; and
 
   - (b) a Steering Certificate or series of certificates showing that the rating has taken turns at the wheel in steering a ship (other than under instruction) for not less than 10 hours in total.
