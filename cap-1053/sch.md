@@ -134,6 +134,8 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Business Administration in Accounting and Finance
 
+    - Bachelor of Business Administration (Information Systems)
+
     - Bachelor of Cognitive Science
 
     - Bachelor of Dental Surgery
@@ -184,9 +186,9 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Science in Speech and Hearing Sciences
 
-    - Bachelor of Science in Surveying
+    - Bachelor of Science in Sports Science and Leisure Management
 
-    - Bachelor of Science (Sports Science and Leisure Management)
+    - Bachelor of Science in Surveying
 
     - Bachelor of Social Sciences
 
@@ -212,7 +214,11 @@ ARRANGEMENT OF STATUTES
 
     - Master of Education
 
+    - Master of Financial Engineering
+
     - Master of Housing Management
+
+    - Master of International and Public Affairs
 
     - Master of Landscape Architecture
 
@@ -226,19 +232,27 @@ ARRANGEMENT OF STATUTES
 
     - Master of Public Administration
 
+    - Master of Research in Medicine
+
     - Master of Science
 
     - Master of Science in Audiology
 
     - Master of Science in Computer Science
 
+    - Master of Science in Conservation
+
     - Master of Science in Construction Project Management
+
+    - Master of Science in Electronic Commerce and Internet Computing
 
     - Master of Science in Engineering
 
     - Master of Science in Engineering, in engineering disciplines as determined by the Senate from time to time
 
     - Master of Science in Environmental Management
+
+    - Master of Science in Information Technology in Education
 
     - Master of Science in Real Estate
 
@@ -280,7 +294,7 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences honoris causa
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001)
 
   - 2. The University may award any of the following diplomas and certificates—
 
@@ -306,6 +320,10 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Common Law
 
+    - Postgraduate Diploma in Community Geriatrics
+
+    - Postgraduate Diploma in Conservation
+
     - Postgraduate Diploma in Construction Project Management
 
     - Postgraduate Diploma in Dental Surgery
@@ -313,6 +331,8 @@ ARRANGEMENT OF STATUTES
     - Postgraduate Diploma in Engineering, in engineering disciplines as determined by the Senate from time to time
 
     - Postgraduate Diploma in General Dental Surgery
+
+    - Postgraduate Diploma in International Affairs
 
     - Postgraduate Diploma in the Law of the People’s Republic of China
 
@@ -342,7 +362,7 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Certificate in Psychology
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
@@ -832,9 +852,9 @@ ARRANGEMENT OF STATUTES
 
     - (h) the Director, Language Centre;
 
-    - (i) the Director, Radioisotope Unit;
+    - (i) (Repealed L.N. 81 of 2001)
 
-    - (ia) the Director of the School of Postgraduate Medical Education and Training; (L.N. 72 of 1993)
+    - (ia) the Director of the Medical Education Unit; (L.N. 72 of 1993; L.N. 81 of 2001)
 
     - (ib) the Director, Centre of Urban Planning and Environmental Management; (L.N. 83 of 1992)
 
