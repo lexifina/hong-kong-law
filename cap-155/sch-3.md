@@ -36,7 +36,7 @@ CAPITAL ADEQUACY RATIO
 
   - “Net/Gross Ratio” (淨額/總額比率) means the ratio of net replacement cost to gross replacement cost for the contracts referred to in items 12 to 16 of Table B covered by a valid bilateral netting agreement and is calculated as the ratio, expressed as a percentage, of the net amount, if positive, of the sum of the positive and negative mark-to-market values, calculated in Hong Kong dollars, of the contracts (provided that the net amount, if negative, should be taken as zero) to the sum of the positive mark-to-market values, calculated in Hong Kong dollars, of the contracts; (Added L.N. 336 of 1996)
 
-  - “public sector entity in Hong Kong” (香港公營單位) means the Mass Transit Railway Corporation, the Kowloon-Canton Railway Corporation, the Hong Kong Housing Authority, the Hospital Authority, the Airport Authority, The Hong Kong Mortgage Corporation Limited and any body specified by the Monetary Authority in a notice published in the Gazette; (Amended L.N. 326 of 1999)
+  - “public sector entity in Hong Kong” (香港公營單位) means the MTR Corporation Limited, the Kowloon-Canton Railway Corporation, the Hong Kong Housing Authority, the Hospital Authority, the Airport Authority, The Hong Kong Mortgage Corporation Limited and any body specified by the Monetary Authority in a notice published in the Gazette; (Amended L.N. 326 of 1999; 13 of 2000 s. 65)
 
   - “public sector entity of any other Tier 1 country” (任何其他第1級國家的公營單位) means an entity which is regarded as a public sector entity by a recognized banking supervisory authority in the place in which it is incorporated;
 

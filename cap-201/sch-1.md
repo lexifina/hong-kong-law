@@ -76,7 +76,7 @@ PUBLIC BODIES
 
 - 36. Vegetable Marketing Organization.
 
-- 37. Mass Transit Railway Corporation. (Added 36 of 1975 s. 31)
+- 37. MTR Corporation Limited. (Added 36 of 1975 s. 31. Amended 13 of 2000 s. 65)
 
 - 38. The Hong Kong Industrial Estates Corporation. (Added 17 of 1976 s. 13. Amended 16 of 1977 s. 43)
 

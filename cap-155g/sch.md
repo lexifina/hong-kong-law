@@ -8,7 +8,7 @@
 
   - 1. Services for the carriage of passengers provided by any of the following operators of transport services—
 
-    - (a) Mass Transit Railway Corporation;
+    - (a) MTR Corporation Limited; (13 of 2000 s. 65)
 
     - (b) Kowloon-Canton Railway Corporation;
 

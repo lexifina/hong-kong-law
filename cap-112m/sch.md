@@ -2,7 +2,7 @@
 
 [ss. 1 & 2]
 
-- 1. Mass Transit Railway Corporation.
+- 1. MTR Corporation Limited, for as long as the Government beneficially owns more than half in nominal value of the issued share capital of the company for the time being. (13 of 2000 s. 65)
 
 - 2. Airport Authority.
 

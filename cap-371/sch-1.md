@@ -16,7 +16,7 @@ under the Road Traffic Ordinance (Cap. 374) other than when hired to any person 
 
 4. | A registered taxi within the meaning of the Road Traffic Ordinance (Cap. 374) other than when hired to any person under regulation 38 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg.).
 
-5. | A train operated on the Mass Transit Railway under the Mass Transit Railway Corporation Ordinance (Cap. 270).
+5. | A train operated on the Mass Transit Railway under the Mass Transit Railway Ordinance (Cap. 556). (Amended 13 of 2000 s. 65)
 
 6. | A train operated on the Kowloon-Canton Railway under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372).
 

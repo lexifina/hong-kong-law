@@ -120,8 +120,6 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Marine Department.
 
-- Mass Transit Railway Corporation. (Added 44 of 1994 s. 17)
-
 - Observatory. (Amended 25 of 1998 s. 2)
 
 - Office of the Telecommunications Authority. (Added L.N. 242 of 1993)
@@ -170,7 +168,7 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Vocational Training Council. (Added L.N. 155 of 1996)
 
-- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7)
+- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65)
 
 - PART II
 

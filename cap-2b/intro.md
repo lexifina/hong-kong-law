@@ -12,7 +12,7 @@ RESOLVED that with effect from 1 April 1990—
 
 3. there shall be credited to the Fund—
 
-- (a) all the assets of the Mass Transit Fund, including the shares in the Mass Transit Railway Corporation allotted to the Government and held by the Financial Secretary Incorporated, as at 31 March 1990;
+- (a) the shares in the MTR Corporation Limited issued to the Financial Secretary Incorporated and held by the Financial Secretary Incorporated on behalf of the Government; (13 of 2000 s. 65)
 
 - (b) the assets of, including the investments, and any advances in respect of such investments, made from, the Development Loan Fund as at 31 March 1990 specified in Part I of the Schedule;
 
@@ -26,7 +26,7 @@ RESOLVED that with effect from 1 April 1990—
 
   - (ii) any loan or advance made from the Fund under paragraph 5;
 
-- (f) subject to the Mass Transit Railway Corporation Ordinance (Cap. 270) and the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) all sums received by way of interest or dividend or under profit sharing arrangements on the investments, loans or advances specified in the Schedule or made under paragraph 5;
+- (f) subject to the Mass Transit Railway Ordinance (Cap. 556) and the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) all sums received by way of interest or dividend or under profit sharing arrangements on the investments, loans or advances specified in the Schedule or made under paragraph 5; (13 of 2000 s. 65)
 
 - (g) such appropriations from the general revenue as may be approved by the Legislative Council for the purpose of the Fund;
 
@@ -48,11 +48,11 @@ RESOLVED that with effect from 1 April 1990—
 
 5. the Financial Secretary may expend moneys from the Fund for the purpose of—
 
-- (a) meeting the liabilities assumed under paragraph 4 under terms and conditions already approved by the Finance Committee as at 31 March 1990; (L.N. 400 of 1991)
+- (a) meeting the liabilities assumed under paragraph 4 under terms and conditions already approved by the Finance Committee as at 31 March 1990;
 
-- (b) financing loans, advances and investments (including investments by way of waived land premium, donated works or other benefits (other than cash)) to or in such persons as may be approved by the Finance Committee, in accordance with such terms and conditions as may be specified by the Finance Committee; or (L.N. 400 of 1991)
+- (b) financing loans, advances and investments (including investments by way of waived land premium, donated works or other benefits (other than cash)) to or in such persons as may be approved by the Finance Committee, in accordance with such terms and conditions as may be specified by the Finance Committee; or
 
-- (c) repaying or, where appropriate, paying the principal and interest of and expenses incurred in relation to sums borrowed under section 3 of the Lands Ordinance (Cap. 61) where the sums have been credited to the Fund; (L.N. 400 of 1991)
+- (c) repaying or, where appropriate, paying the principal and interest of and expenses incurred in relation to sums borrowed under section 3 of the Loans Ordinance (Cap. 61) where the sums have been credited to the Fund; (L.N. 400 of 1991)
 
 6. the Director of Accounting Services shall, under the authority of a funds warrant issued by the Financial Secretary, pay from the Fund such sums as may be required to meet expenditure from the Fund;
 

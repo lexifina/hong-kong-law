@@ -196,7 +196,7 @@ Item Body
 
 - 92. Maritime Affairs Research Association Ltd.
 
-- 93. Mass Transit Railway Corporation.
+- 93. MTR Corporation Limited. (Amended 13 of 2000 s. 65)
 
 - 94. Merchant Navy Officers’ Guild-Hong Kong.
 
