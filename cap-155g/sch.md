@@ -24,7 +24,7 @@
 
   - 1. Goods or services supplied by any vending machine or photo booth situated in any transport premises or transport carrier.
 
-  - 2. Telephone call service available from any public payphone situated in any transport premises or transport carrier.
+  - 2. Telephone call, facsimile transmission, electronic mail and electronic data transmission services available from any public payphone situated in any transport premises or transport carrier or in the Hong Kong International Airport. (L.N. 148 of 1999)
 
   - 2A. Services for the carriage of passengers provided by any operator of transport services other than those referred to in paragraph 1 of Part 1. (L.N. 120 of 1998)
 
