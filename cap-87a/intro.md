@@ -1,0 +1,5 @@
+LEGAL OFFICERS (FEES AND COSTS) RULES
+
+(Cap. 87, section 10)
+
+[9 October 1953]
