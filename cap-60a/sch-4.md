@@ -1,8 +1,6 @@
 # Schedule 4
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2)
-
-[regs. 5A & 7]
+[regs. 5A, 6 & 7] (L.N. 118 of 2001)
 
 Textiles traders carrying on business of—
 
@@ -16,13 +14,13 @@ Textiles traders carrying on business of—
 
 - (e) exporting textiles to the United States of America provided that the conditions in either subparagraph (i) or (ii) are satisfied—
 
-  - (i) Samples not exceeding US$250 in free-on-board value—
+  - (i) Samples not exceeding US$800 in free-on-board value— (L.N. 118 of 2001)
 
     - (A) The textiles are bona fide samples not for resale.
 
     - (B) The textiles are of Hong Kong origin under the certification of origin or export licensing system administered by the Director.
 
-    - (C) Each consignment of textiles must not exceed US$250 in free-on-board value. The free-on-board value is determined on the basis of all expenses incurred in the manufacture and delivery of the textiles up to the time the textiles are deposited on board the vessel, aircraft or vehicle of export, including the cost of all materials, manufacturing costs, export packing charges, local transport charges, loading charges, documentation fees (including consular fees), commissions payable to local or non-local agencies, and local insurance charges. This calculation will be applied notwithstanding subsequent reimbursement of any of the expenses by the purchaser outside Hong Kong. The seller’s profits, if any, must also be included in the calculation of the free-on-board value. (23 of 1998 s. 2)
+    - (C) Each consignment of textiles must not exceed US$800 in free-on-board value. The free-on-board value is determined on the basis of all expenses incurred in the manufacture and delivery of the textiles up to the time the textiles are deposited on board the vessel, aircraft or vehicle of export, including the cost of all materials, manufacturing costs, export packing charges, local transport charges, loading charges, documentation fees (including consular fees), commissions payable to local or non-local agencies, and local insurance charges. This calculation will be applied notwithstanding subsequent reimbursement of any of the expenses by the purchaser outside Hong Kong. The seller’s profits, if any, must also be included in the calculation of the free-on-board value. (23 of 1998 s. 2; L.N. 118 of 2001)
 
     - (D) Each consignment must be covered by separate export notification, and packed and invoiced separately.
 
@@ -34,7 +32,7 @@ Textiles traders carrying on business of—
 
       - (I) For wearing apparel—
 
-        - (1) The inside of the apparel must be indelibly stamped with the word “SAMPLE” in block letters. The size of the word must be at least 26 mm in height and 51 mm in length. The stamping must be in contrasting colour to the apparel and near the country of origin label and must be physically placed on the apparel itself.
+        - (1) The inside of the apparel must be indelibly stamped with the word “SAMPLE” in block letters. The size of the word must be at least 26 mm in height and 153 mm in length. The stamping must be in contrasting colour to the apparel and near the country of origin label and must be physically placed on the apparel itself. (L.N. 118 of 2001)
 
         - (2) For apparel which is transparent or incapable of being stamped (including briefs, bikinis, hosiery, sheer or very thin garments) and for which the stamping of the word “SAMPLE” may render the apparel unsuitable for use as a trade sample, fabric labels not smaller than 64 mm x 13 mm containing the words “Sample-Not for Resale” must be conspicuously and permanently affixed to the apparel in close proximity to the country of origin label.
 
@@ -42,17 +40,17 @@ Textiles traders carrying on business of—
 
         - (1) The fabric must not exceed 1829 mm in length.
 
-        - (2) The fabric must be indelibly stamped with the word “SAMPLE” in block letters at a diagonal angle across the back of the fabric at intervals of 457 mm for the entire length of the fabric. The size of the word must be at least 26 mm in height and 127 mm in length and in contrasting colour to the fabric.
+        - (2) The fabric must be indelibly stamped with the word “SAMPLE” in block letters at a diagonal angle across the back of the fabric at intervals of 457 mm for the entire length of the fabric. The size of the word must be at least 26 mm in height and 153 mm in length and in contrasting colour to the fabric. (L.N. 118 of 2001)
 
       - (III) For fabric swatches—
 
-        - (1) The size of the fabric swatch must be under 304 mm × 304 mm.
+        - (1) The size of the fabric swatch must be under 304 mm x 304 mm.
 
-        - (2) The fabric swatch must be indelibly stamped with the word “SAMPLE” in block letters at a diagonal angle across the back of the fabric swatch. The size of the word must be at least 26 mm in height and 51 mm in length and in contrasting colour to the fabric swatch.
+        - (2) The fabric swatch must be indelibly stamped with the word “SAMPLE” in block letters at a diagonal angle across the back of the fabric swatch. The size of the word must be at least 26 mm in height and 153 mm in length and in contrasting colour to the fabric swatch. (L.N. 118 of 2001)
 
       - (IV) For hats and gloves—
 
-        - (1) The inside of the hat or glove must be indelibly stamped with the words “SAMPLE-NOT FOR RESALE” in block letters. The size of the words must be at least 26 mm in height and 51 mm in length. The stamping must be in contrasting colour to the hat or glove and placed on the underside of the bill of the hat, or other conspicuous location and physically placed on the hat or gloves itself.
+        - (1) The inside of the hat or glove must be indelibly stamped with the words “SAMPLE-NOT FOR RESALE” in block letters. The size of each block letter must be at least 26 mm in height and in length. The stamping must be in contrasting colour to the hat or glove and placed on the underside of the bill of the hat, or other conspicuous location and physically placed on the hat itself. For gloves, the stamping must be near the country of origin label and physically placed on the glove itself. (L.N. 118 of 2001)
 
         - (2) Hats or gloves which are incapable of being stamped must be labelled in accordance with the labelling requirements set out in subparagraph (i)(G)(I)(2).
 
@@ -60,45 +58,47 @@ Textiles traders carrying on business of—
 
         - (1) A hole of 6.5 mm in diameter must be punched or cut into the sole of the footwear; or
 
-        - (2) A label not smaller than 64 mm × 13 mm containing the words “Sample-Not for Resale” must be sewn or permanently affixed to the outside of the footwear, or to the inside which is readily visible when the footwear is viewed.
+        - (2) A label not smaller than 64 mm x 13 mm containing the words “Sample-Not for Resale” must be sewn or permanently affixed to the outside of the footwear, or to the inside which is readily visible when the footwear is viewed.
 
       - (VI) For luggage, handbags, furnishings and other miscellaneous textile articles—
 
-A stamp in indelible ink must be placed on the inside of the article near the top and easily readable with the words “SAMPLE-NOT FOR RESALE” in block letters. The size of the words must be at least 26 mm in height and 127 mm in length for those articles with surface area of the prominent side at or exceeding 304 mm × 304 mm, and must be at least 26 mm in height and 51 mm in length for those articles with surface area of the prominent side below 304 mm × 304 mm. The stamping must be physically placed on the article itself and in contrasting colour to the article.
+A stamp in indelible ink must be placed on the inside of the article near the top and easily readable with the words “SAMPLE-NOT FOR RESALE” in block letters. The size of each block letter must be at least 26 mm in height and in length. The stamping must be physically placed on the article itself and in contrasting colour to the article. (L.N. 118 of 2001)
 
 - (H) For the purpose of meeting the indelible stamping requirement referred to in subparagraph (i)(G), an indelible stamping is that which must be incapable of being erased or obliterated. Markings in chalk or white-out are not acceptable.
 
-  - (ii) Mutilated or stamped samples—
+  - (I) For mail packages, the declaration “Marked Sample - Not for Resale” must be on both the mail declaration attached to the package and the enclosed invoice. (L.N. 118 of 2001)
 
-    - (A) The textiles are bona fide samples not for resale.
+    - (ii) Mutilated or stamped samples—
 
-    - (B) The textiles are of Hong Kong origin under the certification of origin or export licensing system administered by the Director.
+  - (A) The textiles are bona fide samples not for resale.
 
-    - (C) The textiles must be mutilated or stamped in accordance with the following requirements—
+  - (B) The textiles are of Hong Kong origin under the certification of origin or export licensing system administered by the Director.
 
-      - (I) For wearing apparel—
+  - (C) The textiles must be mutilated or stamped in accordance with the following requirements—
 
-        - (1) A section must be cut or torn from the main body of the apparel. This cut must be on the outside of the apparel and must be visible and not be on a seam or border. The size of the cut or tear must be at least 51 mm in length; or
+    - (I) For wearing apparel—
 
-        - (2) A hole or section must be punched or cut into the apparel on the outside in a prominent area of at least 26 mm in diameter and in a location where it cannot be covered by a patch or an emblem; or
+      - (1) A section must be cut or torn from the main body of the apparel. This cut must be on the outside of the apparel and must be visible and not be on a seam or border. The size of the cut or tear must be at least 51 mm in length; or
 
-        - (3) The apparel must be stamped with the word “SAMPLE” in block letters in indelible ink or paint. The size of the word must be at least 26 mm in height and 51 mm in length. The word must be placed in a prominent area on the outside of the apparel which will be visible when worn and in contrasting colour to the apparel.
+      - (2) A hole or section must be punched or cut into the apparel on the outside in a prominent area of at least 26 mm in diameter and in a location where it cannot be covered by a patch or an emblem; or
 
-      - (II) For fabrics—
+      - (3) The apparel must be stamped with the word “SAMPLE” in block letters in indelible ink or paint. The size of the word must be at least 26 mm in height and 51 mm in length. The word must be placed in a prominent area on the outside of the apparel which will be visible when worn and in contrasting colour to the apparel.
 
-        - (1) The fabric must not exceed 1829 mm in length.
+    - (II) For fabrics—
 
-        - (2) The fabric must be stamped in indelible ink or paint, or perforated with the word “SAMPLE” in block letters at intervals of 457 mm for the entire length of the fabric. The size of the word must be at least 26 mm in height and 127 mm in length and be placed at a perpendicular angle across the fabric. The word must be on the face or the front of the fabric and in contrasting colour to the fabric.
+      - (1) The fabric must not exceed 1829 mm in length.
 
-      - (III) For fabric swatches—
+      - (2) The fabric must be stamped in indelible ink or paint, or perforated with the word “SAMPLE” in block letters at intervals of 457 mm for the entire length of the fabric. The size of the word must be at least 26 mm in height and 127 mm in length and be placed at a perpendicular angle across the fabric. The word must be on the face or the front of the fabric and in contrasting colour to the fabric.
 
-        - (1) The size of the fabric swatch must be under 304 mm x 304 mm.
+    - (III) For fabric swatches—
 
-        - (2) A hole or section of 26 mm in diameter must be cut in the main body of the fabric swatch or the fabric swatch must be stamped with the word “SAMPLE” in block letters in indelible ink or paint on the face or front. The size of the word must be at least 26 mm in height and 51 mm in length and in contrasting colour to the fabric swatch.
+      - (1) The size of the fabric swatch must be under 304 mm x 304 mm.
 
-        - (3) Fabric swatches smaller than 203 mm × 203 mm may be exported as mutilated samples without being cut or stamped, provided that they cannot be used for any purpose other than for soliciting orders.
+      - (2) A hole or section of 26 mm in diameter must be cut in the main body of the fabric swatch or the fabric swatch must be stamped with the word “SAMPLE” in block letters in indelible ink or paint on the face or front. The size of the word must be at least 26 mm in height and 51 mm in length and in contrasting colour to the fabric swatch.
 
-      - (IV) For footwear—
+      - (3) Fabric swatches smaller than 203 mm x 203 mm may be exported as mutilated samples without being cut or stamped, provided that they cannot be used for any purpose other than for soliciting orders.
+
+    - (IV) For footwear—
 
   - A hold of 6.5 mm in diameter must be punched or cut into the sole of the footwear.
 
@@ -110,12 +110,14 @@ A stamp in indelible ink must be placed on the inside of the article near the to
 
       - (1) a hole of at least 26 mm in diameter or a cut of at least 51 mm in length; or
 
-      - (2) an indelible ink stamping of the word “SAMPLE” in block letters and in contrasting colour to the article. The size of the word must be at least 26 mm in height and 127 mm in length for those articles with surface area of the prominent side at or exceeding 304 mm × 304 mm, and must be at least 26 mm in height and 51 mm in length for those articles with surface area of the prominent side below 304 mm x 304 mm.
+      - (2) an indelible ink stamping of the word “SAMPLE” in block letters and in contrasting colour to the article. The size of the word must be at least 26 mm in height and 127 mm in length for those articles with surface area of the prominent side at or exceeding 304 mm x 304 mm, and must be at least 26 mm in height and 51 mm in length for those articles with surface area of the prominent side below 304 mm x 304 mm.
 
     - The hole, cut or stamp must be on the outer surface of the article and in location which is visible when the article is in use.
 
-      - (D) For the purpose of meeting the indelible stamping requirement referred to in subparagraph (ii)(C), an indelible stamping is that which must be incapable of being erased or obliterated. Markings in chalk or white-out are not acceptable.
+  - (D) For the purpose of meeting the indelible stamping requirement referred to in subparagraph (ii)(C), an indelible stamping is that which must be incapable of being erased or obliterated. Markings in chalk or white-out are not acceptable.
 
-      - (E) The invoice for such samples must contain the declaration “Stamped or Mutilated Sample-Not for Resale”. (L.N. 422 of 1996)
+  - (E) The invoice for such samples must contain the declaration “Stamped or Mutilated Sample-Not for Resale”. (L.N. 422 of 1996)
+
+  - (F) For mail packages, the declaration “Stamped or Mutilated Sample - Not for Resale” must be on both the mail declaration attached to the package and the enclosed invoice. (L.N. 118 of 2001)
 
 (L.N. 111 of 1993)
