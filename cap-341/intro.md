@@ -1,0 +1,11 @@
+ARBITRATION* To make provision for arbitration in respect of civil matters.
+
+[5 July 1963]
+
+Editorial Note:
+
+* For transitional provisions relating to previous amendments, see the Notes below—
+
+1. Section 26 of the Arbitration (Amendment) (No. 2) Ordinance 1989 (64 of 1989) provides as follows:
+
+“26. Transitional (1) An arbitration commenced, within the meaning of section 31(1) of the principal Ordinance, after the commencement of the principal Ordinance but before the commencement@ of this Ordinance shall be governed by the principal Ordinance as if this Ordinance had not been enacted. (2) An arbitration commenced, within the meaning of section 31(1) of the principal Ordinance, after the commencement@ of this Ordinance under an agreement made before the commencement@ of this Ordinance shall be subject to sections 2B, 2E and 14(3A) of the principal Ordinance but, subject to that, shall be governed by the principal Ordinance as if this Ordinance had not been enacted.”. @ Commencement date: 6 April 1990. 2. Section 18 of the Arbitration (Amendment) Ordinance 1996 (75 of 1996) provides as follows: “18. Transitional provisions (1) A provision of this Ordinance applies to and in relation to an agreement entered into before or after the commencement# of the provision. However, such a provision does not apply to or in relation to an arbitration commenced before the commencement# of the provision and in that case the provisions of the principal Ordinance that were in force immediately before that commencement continue to apply to and in relation to the arbitration in so far as it has not been completed. (2) In this section “commenced”, in relation to an arbitration, means commenced within the meaning of section 31(1) of the principal Ordinance.”. # Commencement date: 27 June 1997. 3. Section 12 of the Arbitration (Amendment) Ordinance 2000 (2 of 2000) provides as follows: “12. Transitional Notwithstanding the repeal of Part III of the Arbitration Ordinance (Cap. 341) by section 4, an award to which that Part applied immediately before the commencement+ of that section shall be governed by the Arbitration Ordinance (Cap. 341) in force immediately before that commencement, as if this Ordinance had not been enacted.”. + Commencement date: 1 February 2000.
