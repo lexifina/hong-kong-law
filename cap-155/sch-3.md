@@ -174,7 +174,27 @@ Category II-Supplementary Capital
 
   - (vi) the authorized institution is entitled to defer the payment of interest where its profitability will not support such payment;
 
-- (l) its paid-up irredeemable cumulative preference shares, that is to say, shares that are irredeemable or that may be redeemed only with the prior consent of the Monetary Authority;
+  - (vii) if the rate of interest payable on the debt is liable to be increased under the terms of the debt instrument, the rate of interest will not be increased—
+
+    - (A) until the expiry of 10 years from the day when the debt is issued;
+
+    - (B) more than once; and
+
+    - (C) beyond a limit considered appropriate by the Monetary Authority; (Added L.N. 249 of 2002)
+
+- (l) its paid-up irredeemable cumulative preference shares, if the Monetary Authority is satisfied that under the terms on which the shares are to be issued, the following conditions are met—
+
+  - (i) the shares are not redeemable without the prior consent of the Monetary Authority;
+
+  - (ii) the money raised by the issue of the shares is available to meet losses without the authorized institution being obliged to cease trading;
+
+  - (iii) if the dividends payable on the shares are liable to be increased under the terms, such dividends will not be increased—
+
+    - (A) until the expiry of 10 years from the day when the shares are issued;
+
+    - (B) more than once; and
+
+    - (C) beyond a limit considered appropriate by the Monetary Authority; (Amended L.N. 249 of 2002)
 
 - (m) its term subordinated debt, where the Monetary Authority is satisfied that under the terms of the debt instrument the following conditions are met—
 
@@ -182,25 +202,41 @@ Category II-Supplementary Capital
 
   - (ii) the debt is not secured against any assets of the authorized institution;
 
-  - (iii) the debt has a minimum initial period to maturity of more than 5 years (and notwithstanding that that period may be reduced with the prior consent of the Monetary Authority); (Amended L.N. 210 of 1990)
+  - (iii) the debt has a minimum initial period to maturity of more than 5 years (even though that period may be subsequently reduced with the prior consent of the Monetary Authority); (Amended L.N. 210 of 1990; L.N. 249 of 2002)
 
-  - (iv) where the debt is repaid prior to maturity, the debt is not repayable without the prior consent of the Monetary Authority: (Amended L.N. 449 of 1994)
+  - (iv) any debt repayable prior to maturity wil not be so repaid without the prior consent of the Monetary Authority; (Replaced L.N. 249 of 2002)
 
-    - Provided that—
+  - (v) if the rate of interest payable on the debt is liable to be increased under the terms of the debt instrument, the rate of interest will not be increased—
 
-  - (A) amounts included under this subparagraph shall be discounted by 20% each year during the 4 years immediately preceding maturity; and
+    - (A) until the expiry of 5 years from the day when the debt is issued;
+
+    - (B) more than once; and
+
+    - (C) beyond a limit considered appropriate by the Monetary Authority: (Added L.N. 249 of 2002)
+
+      - Provided that—
+
+  - (A) amounts included under this subparagraph shall be discounted by 20% of the original amount of such debt each year during the 4 years immediately preceding maturity; and (Amended L.N. 249 of 2002)
 
   - (B) the total amount included under this subparagraph and subparagraph (n) shall not exceed in total, 50% of the total of the Core Capital;
 
-- (n) its paid-up term preference shares, where the Monetary Authority is satisfied that the shares have been issued and remain subject to the following conditions—
+- (n) its paid-up term preference shares, where the Monetary Authority is satisfied that under the terms on which the shares are to be issued, the following conditions are met- (Amended L.N. 249 of 2002)
 
-  - (i) the shares have a minimum initial period to maturity of more than 5 years;
+  - (i) the shares have a minimum initial period to maturity of more than 5 years (even though that period may be subsequently reduced with the prior consent of the Monetary Authority); (Amended L.N. 249 of 2002)
 
-  - (ii) the shares are not redeemable without the prior consent of the Monetary Authority:
+  - (ii) any shares redeemable prior to maturity will not be so redeemed without the prior consent of the Monetary Authority; (Replaced L.N. 249 of 2002)
 
-    - Provided that—
+  - (iii) if the dividends payable on the shares are liable to be increased under the terms, such dividends will not be increased—
 
-  - (A) amounts included under this subparagraph shall be discounted by 20% of the original amount each year during the 4 years immediately preceding maturity; and
+    - (A) until the expiry of 5 years from the day when the shares are issued;
+
+    - (B) more than once; and
+
+    - (C) beyond a limit considered appropriate by the Monetary Authority: (Added L.N. 249 of 2002)
+
+      - Provided that—
+
+  - (A) amounts included under this subparagraph shall be discounted by 20% of the original amount of such shares each year during the 4 years immediately preceding maturity; and (Amended L.N. 249 of 2002)
 
   - (B) the total amount included under this subparagraph and subparagraph (m) shall not exceed in total, 50% of the total of the Core Capital; and
 
