@@ -8,9 +8,11 @@
 
 # Schedule 1
 
-(L.N. 288 of 1998 amended Schedule 1, Part III, paragraph 1(b), to reduce the duty payable on light diesel oil from $2.89 to $2.00 per litre as from 23 June 1998. Under L.N. 288 of 1998, the reduction in duty would remain in effect until 31 March 1999.)
+- (1. L.N. 288 of 1998 amended Schedule 1, Part III, paragraph 1(b), to reduce the duty payable on light diesel oil from $2.89 to $2.00 per litre as from 23 June 1998. Under L.N. 288 of 1998, the reduction in duty would remain in effect until 31 March 1999.
 
-[ss. 4(1), (2) & 53(2)] (Amended 46 of 1996 s. 32)
+- 2. L.N. 90 of 1999 and Ord. No. 44 of 1999 amended L.N. 288 of 1998 so as to maintain the duty on light diesel oil at the reduced rate of $2.00 per litre until 31 March 2000.)
+
+[sections 4(1), (2) & 53(2)] (Amended 46 of 1996 s. 32)
 
 - PART I DUTY ON LIQUOR
 
@@ -54,13 +56,13 @@
 
   - (a) | aircraft spirit . | 6.51
 
-  - (b) | light diesel oil (Amended L.N. 249 of 1998; L.N. 288 of 1998) . | 2.00
+  - (b) | light diesel oil. | 2.00
 
   - (c) | motor spirit (leaded petrol) (Added 2 of 1991 s. 10) . | 6.82
 
   - (d) | motor spirit (unleaded petrol) (Added 2 of 1991 s. 10) . | 6.06
 
-  - (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; 2 of 1991 s. 10; L.N. 99 of 1991; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 45 of 1994 s. 4; 42 of 1995 s. 2; 32 of 1996 s. 2; L.N. 89 of 1997; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2)
+  - (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; 2 of 1991 s. 10; L.N. 99 of 1991; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 45 of 1994 s. 4; 42 of 1995 s. 2; 32 of 1996 s. 2; L.N. 89 of 1997; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2; L.N. 249 of 1998 and L.N. 288 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 8)
 
   - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; L.N. 93 of 1998; 21 of 1998 s. 2)
 
