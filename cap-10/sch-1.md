@@ -1,6 +1,6 @@
-# Schedule
+# SCHEDULE 1
 
-[s. 63]
+[s. 63] (Amended 67 of 1999 s. 3)
 
 - PART I Rules as to payment of debts where estate is insolvent
 
