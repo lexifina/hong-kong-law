@@ -8,7 +8,9 @@ CONSEQUENTIAL AND OTHER AMENDMENTS
 
 - 2. Section 5 of this schedule has come into operation on 14 January 2005.
 
-- 3. Remaining provisions of this schedule are not yet in operation.)
+- 3. Section 3 of this schedule has come into operation on 25 February 2005.
+
+- 4. Remaining provisions of this schedule are not yet in operation.)
 
 Companies Ordinance
 
@@ -154,7 +156,7 @@ Companies Ordinance
 
       - (b) the date on which the petition for the winding up of the company is presented, whichever is the earlier;”.
 
-    - Banking Ordinance
+Banking Ordinance
 
 - 2. Official secrecy Section 120 of the Banking Ordinance (Cap. 155) is amended—
 
@@ -168,19 +170,15 @@ Companies Ordinance
 
   - “21. The authorized institution has failed to comply with any requirement under the Deposit Protection Scheme Ordinance (Cap. 581) applicable to the institution.”.
 
-- Prevention of Bribery Ordinance
+Prevention of Bribery Ordinance
 
 - 4. Public bodies Schedule 1 to the Prevention of Bribery Ordinance (Cap. 201) is amended by adding—
 
   - “101. Hong Kong Deposit Protection Board.”.
 
-- Electronic Transactions Ordinance
+Electronic Transactions Ordinance
 
-- 5. Proceedings in relation to which sections 5,
-
-- 6, 7 and 8 of this Ordinance do not apply
-
-- under section 13(1) of this Ordinance Schedule 2 to the Electronic Transactions Ordinance (Cap. 553) is amended—
+- 5. Proceedings in relation to which sections 5, 6, 7 and 8 of this Ordinance do not applyunder section 13(1) of this Ordinance Schedule 2 to the Electronic Transactions Ordinance (Cap. 553) is amended—
 
   - (a) in paragraph (zm), by repealing the full stop at the end and substituting a semicolon;
 
@@ -188,15 +186,9 @@ Companies Ordinance
 
     - “(zn) the Deposit Protection Appeals Tribunal established by the Deposit Protection Scheme Ordinance (Cap. 581).”.
 
-  - Securities and Futures Ordinance
+Securities and Futures Ordinance
 
-- 6.
-
-- Subrogation of recognized investor compensation
-
-- company to rights, etc. of claimant on payment
-
-- from compensation fund Section 87 of the Securities and Futures Ordinance (Cap. 571) is amended—
+- 6. Subrogation of recognized investor compensation company to rights, etc. of claimant on paymentfrom compensation fund Section 87 of the Securities and Futures Ordinance (Cap. 571) is amended—
 
   - (a) in subsection (1)(a), by adding “subject to subsection (1A),” before “the company”;
 
@@ -204,11 +196,7 @@ Companies Ordinance
 
     - “(1A) The company is not subrogated to any rights and remedies of the claimant in respect of compensation from the Deposit Protection Scheme Fund established by section 14 of the Deposit Protection Scheme Ordinance (Cap. 581).”.
 
-- 7.
-
-- Subrogation of the Commission to rights, etc. of
-
-- claimant on payment from compensation fund Section 243 is amended—
+- 7. Subrogation of the Commission to rights, etc. ofclaimant on payment from compensation fund Section 243 is amended—
 
   - (a) in subsection (1)(a), by adding “subject to subsection (1A),” before “the Commission”;
 
@@ -220,13 +208,9 @@ Companies Ordinance
 
   - “(ea) the disclosure of information to the Hong Kong Deposit Protection Board established by section 3 of the Deposit Protection Scheme Ordinance (Cap. 581) for the purpose of enabling or assisting the Board to perform its functions under section 5(a), (d) and (e) of that Ordinance;”.
 
-- Securities and Futures (Investor Compensation—Claims) Rules
+Securities and Futures (Investor Compensation—Claims) Rules
 
-- 9.
-
-- Making a claim for compensation
-
-- Section 4 of the Securities and Futures (Investor Compensation—Claims) Rules (Cap. 571 sub. leg. T) is amended—
+- 9. Making a claim for compensation Section 4 of the Securities and Futures (Investor Compensation—Claims) Rules (Cap. 571 sub. leg. T) is amended—
 
   - (a) in subsection (1), by repealing “Where” and substituting “Subject to subsection (1A), where”;
 
