@@ -26,6 +26,14 @@ Bunk beds for domestic use | British Standard Furniture-bunk beds for domestic u
 
 British Standard Furniture-bunk beds for domestic use Part 2. Test methods BS EN 747-2:1993 | AMD 8084:1993
 
+ASTM Standard Standard Consumer Safety Specification for Bunk Beds ASTM F 1427-96
+
+Australian/New Zealand Standard Bunk beds AS/NZS 4220:1994
+
+European Standard Furniture-Bunk beds for domestic use— Part 1: Safety requirements and Part 2: Test methods EN 747-1 & 2:1993
+
+International Standard Bunk beds for domestic use— Safety requirements and tests— Part 1: Safety requirements and Part 2: Test methods ISO 9098-1 & 2:1994
+
 Carry cots and similar handled products and stands | British Standard Specification for safety requirements for carry cots and similar handled products and stands BS 7551:1992
 
 Australian Standard Carry cots and stands (Safety requirements) AS 2196:1978
@@ -34,7 +42,15 @@ New Zealand Standard Carry cots and stands (Safety requirements) NZS 5844:1989 (
 
 Child safety barriers for domestic use | British Standard Specification for child safety barriers for domestic use BS 4125:1991
 
+ASTM Standard Standard Consumer Safety Specification for expansion gates and expandable enclosures ASTM F 1004-92
+
 Children’s cots for domestic use | British Standard Furniture-Children’s cots and folding cots for domestic use-Part 1 Safety requirements and Part 2 Test methods BS EN 716-1 & 2:1996
+
+ASTM Standard Standard Specification for full size baby crib ASTM F 1169-88
+
+European Standard Furniture-Children’s cots and folding cots for domestic use— Part 1: Safety requirements and Part 2: Test methods EN 716-1 & 2:1995
+
+International Standard Children’s cots and folding cots for domestic use— Part 1: Safety requirements and Part 2: Test methods ISO 7175-1 & 2:1997
 
 Children’s high chairs and multi-purpose high chairs for domestic use | British Standard Specification for safety requirements for children’s high chairs and multi— purpose high chairs for domestic use BS 5799:1986 | AMD 6681:1991
 
@@ -54,7 +70,11 @@ European Standard Safety of toys-Part 3: Migration of certain elements EN 71-3:1
 
 New Zealand Standard Specification for the safety of toys NZS 5820:1982
 
+International Standard Safety of toys— Part 3: Migration of certain elements ISO 8124-3:1997
+
 Children’s safety harnesses | British Standard Specification for safety harnesses (including detachable walking reins) for restraining children when in perambulators (baby carriages), pushchairs and high chairs and when walking BS 6684:1989 | AMD 6531:1990
+
+Australian Standard Harnesses for use in prams, strollers, and high chairs (including a detachable walking rein) AS 3747-1989
 
 Playpens for domestic use | British Standard Specification for safety requirements for playpens for domestic use BS 4863:1991
 
@@ -66,4 +86,4 @@ ASTM Standard Standard Consumer Safety Performance Specification for carriages a
 
 Australian Standard/New Zealand Standard Prams and Strollers-Safety requirements AS/NZS 2088:1993
 
-(Replaced 16 of 1997 s. 12. Amended L.N. 418 of 1997)
+(Replaced 16 of 1997 s. 12. Amended L.N. 418 of 1997; L.N. 333 of 1998)
