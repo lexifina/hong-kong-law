@@ -226,6 +226,8 @@ s-126.md
 s-127.md
 s-128.md
 s-128A.md
+s-128B.md
+s-128C.md
 s-128D.md
 s-129.md
 s-130.md

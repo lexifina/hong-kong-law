@@ -122,13 +122,13 @@ Section | Penalty | Daily penalty
 
 124(2) | level 2 | -
 
-124F(1) | level 2 and 6 months imprisonment | -
+124F(1) | level 2 and 6 months imprisonment | ─
 
-124F(2) | 2 years imprisonment | -
+124F(2) | 2 years imprisonment | ─
 
-124F(3) | 5 years imprisonment | -
+124F(3) | 5 years imprisonment | ─
 
-125(5) | level 2 | -
+125(5) | level 2 | ─
 
 127(3)(a) or (b) | level 3 | $200 fine
 
@@ -138,8 +138,12 @@ Section | Penalty | Daily penalty
 
 128(10)(a) | level 6 and 12 months imprisonment | $1,750 fine
 
-128(10)(b) or (c) | level 4 and 6 months imprisonment | -
+128(10)(b) or (c) | level 4 and 6 months imprisonment | ─
 
-139 | level 4 and 6 months imprisonment | -
+128B(12)(c)and 128C(12)(c) | level 6 and 12 months imprisonment | $1,750 fine
 
-(Replaced L.N. 177 of 1996. Amended 78 of 1999 s. 7)
+128B(12)(a)and (b) and 128C(12)(a) and (b) | level 4 and 6 months imprisonment | ─
+
+139 | level 4 and 6 months imprisonment | ─
+
+(Replaced L.N. 177 of 1996. Amended 78 of 1999 s. 7; 1 of 2002 s. 7)

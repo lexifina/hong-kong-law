@@ -246,4 +246,10 @@ Section | Designated Authorities
 
 127 | Director of Food and Environmental Hygiene
 
-(Schedule 3 replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002)
+128B | Director of Food and Environmental Hygiene
+
+128C | Director of Food and Environmental Hygiene
+
+128D | Director of Food and Environmental Hygiene
+
+(Schedule 3 replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002; 1 of 2002 s. 4)

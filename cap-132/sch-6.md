@@ -124,4 +124,8 @@ Director of Health where the offence committed is in respect of drugs.
 
 128 | Director of Food and Environmental Hygiene
 
-(Sixth schedule replaced 78 of 1999 s. 7)
+128B | Director of Food and Environmental Hygiene
+
+128C | Director of Food and Environmental Hygiene
+
+(Sixth schedule replaced 78 of 1999 s. 7. Amended 1 of 2002 s. 5)

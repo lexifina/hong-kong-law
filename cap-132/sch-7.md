@@ -171,3 +171,77 @@ WHEREAS a Prohibition Order was made by me . . (OR specify the person who made t
   - 2. The penalty for removing or defacing a copy of this Order affixed to any premises, vessel or specified part or for breaking or interfering with any lock or seal placed on any premises, vessel or specified part is a fine at level 4 and imprisonment for 6 months.
 
 - (Added 76 of 1988 s. 6. Amended L.N. 164 of 1996; 78 of 1999 s. 7)
+
+FORM H | [section 128B(1)]
+
+PUBLIC HEALTH AND MUNICIPAL SERVICES ORDINANCE (Chapter 132) (section 128B(1)) Closure Order
+
+TO the Director of Food and Environmental Hygiene.
+
+You have applied to me for a closure order in respect of the premises situated at ./vessel .* on the ground that the premises are/vessel is* used or occupied/certain activity is conducted* on the premises/in the vessel* without a licence, permit or permission under the Public Health and Municipal Services Ordinance (Cap. 132) (“the Ordinance”);
+
+NOW on proof to my satisfaction of this ground and that a copy of the notice of intention to apply for this order was affixed at a conspicuous place on the premises/vessel* and served on the owner of the premises/vessel* as required by section 128B(3) of the Ordinance, I DO, in exercise of my powers under section 128B(1) of the Ordinance, authorize you, subject to the requirement of section 128B(6) of the Ordinance, to close the premises/vessel* in the manner prescribed by the Ordinance.
+
+Dated this . day of . , .
+
+[L.S.]
+
+(Signed) .
+
+Magistrate.
+
+Note: 1. It is an offence for any unauthorized person to enter or remain on the premises/in the vessel* to which this order relates after it has come into force. The penalties are a fine at level 6 and imprisonment for 12 months and a fine of $1,750 for each day during which the offence continues.
+
+- 2. The penalties for removing or defacing a copy of this order affixed to any premises/vessel* or for breaking or interfering with any lock or seal made or caused to be made by the Director on the premises/in the vessel* without lawful authority or reasonable excuse are a fine at level 4 and imprisonment for 6 months. * Delete as appropriate.
+
+(Added 1 of 2002 s. 6)
+
+FORM I | [section 128C(1)]
+
+PUBLIC HEALTH AND MUNICIPAL SERVICES ORDINANCE (Chapter 132) (section 128C(1)) Closure Order
+
+TO the owner and occupier of the premises situated at . . /owner and master of the vessel . *
+
+I now have reasonable cause to believe that an immediate health hazard exists on the premises/in the vessel/in . of the vessel*, I DO, in exercise of my powers under section 128C(1) of the Public Health and Municipal Services Ordinance (Cap. 132) (“the Ordinance”), order to close the premises/vessel/that part of the vessel* with immediate effect in the manner prescribed by the Ordinance.
+
+- The details of the immediate health hazard are:
+
+- This order remains in force until a notice to rescind it is issued by me upon proof to my satisfaction that—
+
+  - (a) the immediate health hazard on the premises/in the vessel/in that part of the vessel* has been eliminated and the use or occupation of/the activity to be conducted on or in* the premises/vessel/that part of the vessel* has been licensed or permitted; or
+
+  - (b) the premises/vessel/that part of the vessel* will not be used or occupied for a purpose that requires a licence, permit or permission under any subsidiary legislation mentioned in section 128A(1) of the Ordinance and no activity mentioned in that section will be conducted on the premises/in the vessel/in that part of the vessel*.
+
+- Any person who feels aggrieved by this order may, within 7 days after the day on which this order was made or such longer time as the Chairman of the Appeal Board on Closure Orders (Immediate Health Hazard) may allow, appeal to that Appeal Board against this order. Dated this . day of . , .
+
+- (Signed) .
+
+- Director of Food and Environmental Hygiene.
+
+- Note: 1. It is an offence for any unauthorized person to enter or remain on the premises/in the vessel* to which this order relates after it has come into force. The penalties are a fine at level 6 and imprisonment for 12 months and a fine of $1,750 for each day during which the offence continues.
+
+  - 2. The penalties for removing or defacing a copy of this order affixed to any premises/vessel* or for breaking or interfering with any lock or seal made or caused to be made by the Director on the premises/in the vessel* without lawful authority or reasonable excuse are a fine at level 4 and imprisonment for 6 months. * Delete as appropriate.
+
+- (Added 1 of 2002 s. 6)
+
+FORM J | [section 128C(6)]
+
+PUBLIC HEALTH AND MUNICIPAL SERVICES ORDINANCE (Chapter 132) (section 128C(6)) Notice of Rescission of Closure Order
+
+TO the owner and occupier of the premises situated at . /owner and master of the vessel .*
+
+- NOW on proof to my satisfaction that—
+
+  - (a) the immediate health hazard on the premises/in the vessel/in the . of the vessel* has been eliminated and the use or occupation of/the activity to be conducted on or in* the premises/vessel/that part of the vessel* has been licensed or permitted; or
+
+  - (b) the premises/vessel/that part of the vessel* will not be used or occupied for a purpose that requires a licence, permit or permission under any subsidiary legislation mentioned in section 128A(1) of the Public Health and Municipal Services Ordinance (Cap. 132) (“the Ordinance”) and no activity mentioned in that section will be conducted on the premises/in the vessel/in that part of the vessel*.
+
+- I DO, in exercise of my powers under section 128C(6) of the Ordinance, rescind the closure order in respect of the premises/vessel/that part of the vessel* with immediate effect. Dated this . day of . , .
+
+- (Signed) .
+
+- Director of Food and Environmental Hygiene.
+
+- * Delete as appropriate.
+
+- (Added 1 of 2002 s. 6)
