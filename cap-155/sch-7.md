@@ -38,7 +38,9 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
     - (a) by means of the holding of shares or the possession of voting power in or in relation to that first-mentioned company or any other body corporate; or
 
-    - (b) by virtue of any powers conferred by the memorandum or articles of association or other document regulating that first-mentioned company or any other body corporate, significantly influence the conduct of the affairs of that first-mentioned company.
+    - (b) by virtue of any powers conferred by the memorandum or articles of association or other document regulating that first-mentioned company or any other body corporate,
+
+  - significantly influence the conduct of the affairs of that first-mentioned company.
 
 - 2. If the company is incorporated outside Hong Kong, it is a bank—
 
@@ -54,7 +56,9 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
   - (a) a chief executive of the business in Hong Kong of the company;
 
-  - (b) a director, controller or chief executive of the business of the company in the place where it is incorporated, is a fit and proper person to hold the particular position which he holds or is to hold.
+  - (b) a director, controller or chief executive of the business of the company in the place where it is incorporated,
+
+- is a fit and proper person to hold the particular position which he holds or is to hold.
 
 - 6. The Monetary Authority is satisfied that the company presently has, and will if it is authorized continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing—
 
@@ -64,7 +68,15 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
   - (c) in the case of a company seeking authorization to carry on a deposit-taking business as a restricted licence bank, its paid-up share capital is not less than $100,000,000 or an equivalent amount in any other approved currency;
 
-  - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization have and maintain a capital adequacy ratio which complies with the provisions of Part XVII applicable to it.
+  - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization have and maintain a capital adequacy ratio which complies with the provisions of Part XVII applicable to it; (Amended L.N. 431 of 1997)
+
+  - (e) in the case of a company incorporated in Hong Kong, the company presently has, and will if it is authorized continue to have, adequate capital to support any positions held by the company—
+
+    - (i) for trading purposes in debt securities, interest rate-related contracts, equities and equity-related contracts; and
+
+    - (ii) in foreign exchange, exchange rate-related contracts, commodities and commodity-related contracts,
+
+  - having regard to any potential loss arising from fluctuations in the value of those positions. (Added L.N. 431 of 1997)
 
 - 7. The Monetary Authority is satisfied that the company—
 
@@ -118,24 +130,26 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
     - (i) it is, in the opinion of the Monetary Authority, closely associated and identified with Hong Kong;
 
-  - (ii) it has—
+    - (ii) it has—
 
-    - (A) total deposits from the public of not less than $3,000,000,000, or an equivalent amount in any other approved currency, excluding any deposits by—
+      - (A) total deposits from the public of not less than $3,000,000,000, or an equivalent amount in any other approved currency, excluding any deposits by—
 
-      - (I) any authorized institution;
+        - (I) any authorized institution;
 
-      - (II) any bank incorporated outside Hong Kong which is not an authorized institution;
+        - (II) any bank incorporated outside Hong Kong which is not an authorized institution;
 
-      - (III) any controller or director of the company;
+        - (III) any controller or director of the company;
 
-      - (IV) any relative, within the meaning of section 79, of any such controller or director;
+        - (IV) any relative, within the meaning of section 79, of any such controller or director;
 
-      - (V) any firm, partnership or body corporate in which the company, any controller or director of the company or any relative, within the meaning of section 79, of any such controller or director, is interested as director, partner, manager or agent;
+        - (V) any firm, partnership or body corporate in which the company, any controller or director of the company or any relative, within the meaning of section 79, of any such controller or director, is interested as director, partner, manager or agent;
 
-      - (VI) any holding company, subsidiary or associated company of the company;
+        - (VI) any holding company, subsidiary or associated company of the company;
 
-      - (VII) any subsidiary or associated company of any such holding company; and
+        - (VII) any subsidiary or associated company of any such holding company; and
 
-    - (B) total assets (less contra items) of not less than $4,000,000,000 or an equivalent amount in any other approved currency; and
+      - (B) total assets (less contra items) of not less than $4,000,000,000 or an equivalent amount in any other approved currency; and
 
-      - (iii) it has been a deposit-taking company or a restricted licence bank (or any combination thereof) for not less than 10 continuous years. (Added 49 of 1995 s. 52)
+    - (iii) it has been a deposit-taking company or a restricted licence bank (or any combination thereof) for not less than 10 continuous years.
+
+- (Added 49 of 1995 s. 52)
