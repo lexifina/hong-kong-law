@@ -1,0 +1,5 @@
+CHINESE MEDICINE (FEES) REGULATION
+
+(Cap. 549, section 161(1))
+
+[30 April 2003] L.N. 55 of 2003
