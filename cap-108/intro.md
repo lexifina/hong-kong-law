@@ -1,5 +1,5 @@
-To make provision for the taxation of bets on authorized totalizators or pari-mutuels or lotteries and on contributions or subscriptions towards authorized cash-sweeps and to amend the law relating to gambling.
+To provide for the authorization of cash-sweeps, lotteries, betting on horse or pony races and betting on football matches; to charge duties in relation to those authorized betting activities; to establish a body to be known as the “Football Betting and Lotteries Commission”; to amend the law relating to gambling; and to provide for related matters.
 
-(Amended 17 of 1933 s. 2; 51 of 1975 s. 2)
+(Replaced 29 of 2003 s. 2)
 
 [1 January 1932]
