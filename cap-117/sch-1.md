@@ -104,7 +104,7 @@ And see sections 2, 16, 17, 27, 39, 42 and 43 Partition, Instruments effecting-s
 
 HEAD 2: HONG KONG STOCK
 
-(1) CONTRACT NOTE for the sale or purchase of any Hong Kong stock not being jobbing business on every note required to be made under section 19(1) | (A) $1.125 for every $1,000 or part thereof of the amount of the consideration or of its value at the date on which the contract note falls to be executed: but see Note to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2)
+(1) CONTRACT NOTE for the sale or purchase of any Hong Kong stock not being jobbing business on every note required to be made under section 19(1) | (A) 0.1% of the amount of the consideration or of its value at the date on which the contract note falls to be executed: but see Note to this sub-head (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4)
 
 (B) 2 days after the sale or purchase if effected in Hong Kong: see section 19(1)(b)(i) 30 days after the sale or purchase if effected elsewhere: see section 19(1)(b)(ii)
 
@@ -120,7 +120,7 @@ Note Where the consideration or any part of the consideration consists of any se
 
 And see sections 2, 4, 19 and 20
 
-(3) TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) $5 and $2.25 for every $1,000 or part thereof of the value of the stock (Amended 18 of 1998 s. 2; 22 of 2000 s. 2) (B) 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head (C) The transferor and the transferee; but see Note 1 to this sub-head
+(3) TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) $5 and 0.2% of the value of the stock (Amended 18 of 1998 s. 2; 22 of 2000 s. 2; 22 of 2001 s. 4) (B) 7 days after execution or, if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head (C) The transferor and the transferee; but see Note 1 to this sub-head
 
 And see sections 4, 19, 27, 28, 30, 44 and 45
 
@@ -170,6 +170,6 @@ And see section 8 Note If in the case of a lease or agreement for a lease the st
 
 (Amended 29 of 1988 s. 2; 43 of 1991 s. 7; 85 of 1991 s. 6; 8 of 1992 s. 6; 36 of 1992 s. 3; 40 of 1992 s. 7; L.N. 50 of 1993; 31 of 1993 s. 2)
 
-_
+Editorial Note:
 
 * The amendments made by L.N. 90 of 1999 and Ord. No. 44 of 1999 to paragraph (B), Note 2(a) and (b) and Note 3 under head 1(1A) of the First Schedule shall only apply to an agreement for sale, or an unwritten sale agreement, as defined in section 29A(1), if the relevant date within the meaning of section 29B(3) is, in so far as such agreement for sale or unwritten sale agreement (as the case may be) is concerned, on or after 1 April 1999.
