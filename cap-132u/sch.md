@@ -2,24 +2,20 @@
 
 [reg. 3]
 
-PERMITTED ARTIFICIAL SWEETENERS
+PERMITTED SWEETENERS
 
-- 1. Saccharin.
+- 1. Acesulfame Potassium
 
-- 2. Saccharin Sodium.
+- 2. Alitame
 
-- 3. Saccharin Calcium.
+- 3. Aspartame
 
-- 4. Aspartame. (L.N. 299 of 1983)
+- 4. Aspartame-acesulfame Salt
 
-- 5. Acesulfame Potassium. (L.N. 33 of 1989)
+- 5. Cyclamic Acid (and Sodium, Potassium, Calcium Salts)
 
-- 6. Cyclamic Acid. (L.N. 259 of 1999)
+- 6. Saccharin (and Sodium, Potassium, Calcium Salts)
 
-- 7. Sodium Cyclamate. (L.N. 259 of 1999)
+- 7. Sucralose
 
-- 8. Calcium Cyclamate. (L.N. 259 of 1999)
-
-- 9. Thaumatin. (L.N. 259 of 1999)
-
-- 10. Sucralose. (L.N. 259 of 1999)
+- 8. Thaumatin (Schedule replaced L.N. 225 of 2003)
