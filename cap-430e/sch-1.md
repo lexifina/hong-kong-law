@@ -21,3 +21,5 @@ SERVICES
 - 8. Agency services for Government departments, public bodies and public utilities, which are compatible with postal related services.
 
 - 9. Letting out of accommodation that is not immediately required to provide postal services if the letting out does not affect the provision of postal services.
+
+- 10. Providing the services of a certification authority within the meaning of the Electronic Transactions Ordinance (Cap. 553) and services incidental or related to such services. (L.N. 12 of 2000)
