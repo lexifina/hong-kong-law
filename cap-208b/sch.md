@@ -26,17 +26,17 @@
 
 - 12. Tai Lam Country Park Those areas delineated and coloured pink on map CP/TLE approved on 21 March 1995 by the Governor in Council and deposited in the Land Registry. (L.N. 54 of 1979; L.N. 134 of 1995)
 
-- 13. Tai Mo Shan Country Park Those areas delineated and coloured pink on map CP/TMSc approved on 23 January 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 54 of 1979)
+- 13. Tai Mo Shan Country Park Those areas delineated and coloured pink on map CP/TMSC approved on 23 January 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 54 of 1979)
 
-- 14. Lam Tsuen Country Park Those areas delineated and coloured pink on map CP/LTc approved on 23 January 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 54 of 1979)
+- 14. Lam Tsuen Country Park Those areas delineated and coloured pink on map CP/LTC approved on 23 January 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 54 of 1979)
 
-- 15. Ma On Shan Country Park That area delineated and coloured pink on plan CP/MOSE approved on 10 April 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 110 of 1979)
+- 15. Ma On Shan Country Park That area delineated and coloured pink on map CP/MOSF approved on 10 November 1998 by the Chief Executive in Council and deposited in the Land Registry. (L.N. 110 of 1979; L.N. 382 of 1998)
 
 - 16. Kiu Tsui Country Park Those areas delineated and coloured pink on map CP/KT approved on 15 May 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 137 of 1979)
 
 - 17. Plover Cove (Extension) Country Park Those areas delineated and coloured pink on map CP/PC(EXT) approved on 15 May 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 137 of 1979)
 
-- 18. Shek O Country Park Those areas delineated and coloured pink on map CP/SOc approved on 12 October 1993 by the Governor in Council and deposited in the Land Registry. (L.N. 227 of 1979; L.N. 207 of 1986; L.N. 409 of 1993)
+- 18. Shek O Country Park Those areas delineated and coloured pink on map CP/SOC approved on 12 October 1993 by the Governor in Council and deposited in the Land Registry. (L.N. 227 of 1979; L.N. 207 of 1986; L.N. 409 of 1993)
 
 - 19. Pokfulam Country Park Those areas delineated and coloured pink on map CP/PFL approved on 28 August 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 227 of 1979; L.N. 207 of 1986)
 
@@ -45,6 +45,8 @@
 - 21. Clear Water Bay Country Park Those areas delineated and coloured pink on plan CP/CWBB approved on 18 September 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 237 of 1979)
 
 - 22. Sai Kung West Country Park (Wan Tsai Extension) Those areas delineated and coloured pink on Plan No. CP/SKW (EXT)A approved on 28 May 1996 by the Governor in Council and deposited in the Land Registry. (L.N. 264 of 1996)
+
+- 23. Lung Fu Shan Country Park Those areas delineated and coloured pink on map CP/LFSB approved on 10 November 1998 by the Chief Executive in Council and deposited in the Land Registry. (L.N. 383 of 1998)
 
 - (8 of 1993 s. 30)
 
