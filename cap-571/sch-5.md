@@ -1,0 +1,449 @@
+# SCHEDULE 5
+
+[ss. 114, 118, 139 & 142 & Sch. 1]
+
+REGULATED ACTIVITIES
+
+- PART 1 The following are regulated activities— Type 1 : dealing in securities; Type 2 : dealing in futures contracts; Type 3 : leveraged foreign exchange trading; Type 4 : advising on securities; Type 5 : advising on futures contracts; Type 6 : advising on corporate finance; Type 7 : providing automated trading services; Type 8 : securities margin financing; Type 9 : asset management.
+
+- PART 2 In this Schedule—
+
+  - “advising on corporate finance” (就機構融資提供意見) means giving advice—
+
+    - (a) concerning compliance with or in respect of rules made under section 23 or 36 of this Ordinance governing the listing of securities and the code published under section 399(2)(a) or (b) of this Ordinance;
+
+    - (b) concerning—
+
+      - (i) any offer to dispose of securities to the public;
+
+      - (ii) any offer to acquire securities from the public; or
+
+      - (iii) acceptance of any offer referred to in subparagraph (i) or (ii), but only in so far as the advice is given generally to holders of securities or a class of securities; or
+
+    - (c) to a listed corporation or public company or a subsidiary of the corporation or company, or to its officers or shareholders, concerning corporate restructuring in respect of securities (including the issue, cancellation or variation of any rights attaching to any securities),
+
+  - but does not include such advice given by—
+
+    - (i) a corporation solely to any of its wholly owned subsidiaries, its holding company which holds all its issued shares, or other wholly owned subsidiaries of that holding company;
+
+    - (ii) a person who is licensed for Type 1 regulated activity who gives such advice wholly incidental to the carrying on of that regulated activity;
+
+    - (iii) an authorized financial institution which is registered for Type 1 regulated activity which gives such advice wholly incidental to the carrying on of that regulated activity;
+
+    - (iv) an individual—
+
+      - (A) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 1 regulated activity by an authorized financial institution registered for that regulated activity; and
+
+      - (B) who gives such advice wholly incidental to the carrying on of that regulated activity;
+
+    - (v) a solicitor who gives such advice wholly incidental to his practice as such in a Hong Kong firm or foreign firm within the meaning of the Legal Practitioners Ordinance (Cap. 159);
+
+    - (vi) counsel who gives such advice wholly incidental to his practice as such;
+
+    - (vii) a professional accountant who gives such advice wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50);
+
+    - (viii) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice wholly incidental to the discharge of its duty as such; or
+
+    - (ix) a person through—
+
+      - (A) a newspaper, magazine, book or other publication which is made generally available to the public; or
+
+      - (B) television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise;
+
+  - “advising on futures contracts” (就期貨合約提供意見) means—
+
+    - (a) giving advice on—
+
+      - (i) whether;
+
+      - (ii) which;
+
+      - (iii) the time at which; or
+
+      - (iv) the terms or conditions on which,
+
+    - futures contracts should be entered into; or
+
+    - (b) issuing analyses or reports, for the purposes of facilitating the recipients of the analyses or reports to make decisions on—
+
+      - (i) whether;
+
+      - (ii) which;
+
+      - (iii) the time at which; or
+
+      - (iv) the terms or conditions on which,
+
+    - futures contracts are to be entered into,
+
+    - otherwise than by—
+
+    - (i) a corporation which gives such advice or issues such analyses or reports solely to any of its wholly owned subsidiaries, its holding company which holds all its issued shares, or other wholly owned subsidiaries of that holding company;
+
+    - (ii) a person who is licensed for Type 2 regulated activity who gives such advice or issues such analyses or reports wholly incidental to the carrying on of that regulated activity;
+
+    - (iii) an authorized financial institution which is registered for Type 2 regulated activity which gives such advice or issues such analyses or reports wholly incidental to the carrying on of that regulated activity;
+
+    - (iv) an individual—
+
+      - (A) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 2 regulated activity by an authorized financial institution registered for that regulated activity; and
+
+      - (B) who gives such advice or issues such analyses or reports wholly incidental to the carrying on of that regulated activity;
+
+    - (v) a solicitor who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a solicitor in a Hong Kong firm or foreign firm within the meaning of the Legal Practitioners Ordinance (Cap. 159);
+
+    - (vi) counsel who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as counsel;
+
+    - (vii) a professional accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a professional accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50);
+
+    - (viii) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
+
+    - (ix) a person who gives such advice or issues such analyses or reports through—
+
+      - (A) a newspaper, magazine, book or other publication which is made generally available to the public; or
+
+      - (B) television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise;
+
+  - “advising on securities” (就證券提供意見) means—
+
+    - (a) giving advice on—
+
+      - (i) whether;
+
+      - (ii) which;
+
+      - (iii) the time at which; or
+
+      - (iv) the terms or conditions on which,
+
+    - securities should be acquired or disposed of; or
+
+    - (b) issuing analyses or reports, for the purposes of facilitating the recipients of the analyses or reports to make decisions on—
+
+      - (i) whether;
+
+      - (ii) which;
+
+      - (iii) the time at which; or
+
+      - (iv) the terms or conditions on which,
+
+    - securities are to be acquired or disposed of,
+
+    - otherwise than by—
+
+    - (i) a corporation which gives such advice or issues such analyses or reports solely to any of its wholly owned subsidiaries, its holding company which holds all its issued shares, or other wholly owned subsidiaries of that holding company;
+
+    - (ii) a person who is licensed for Type 1 regulated activity who gives such advice or issues such analyses or reports wholly incidental to the carrying on of that regulated activity;
+
+    - (iii) an authorized financial institution which is registered for Type 1 regulated activity which gives such advice or issues such analyses or reports wholly incidental to the carrying on of that regulated activity;
+
+    - (iv) an individual—
+
+      - (A) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 1 regulated activity by an authorized financial institution registered for that regulated activity; and
+
+      - (B) who gives such advice or issues such analyses or reports wholly incidental to the carrying on of that regulated activity;
+
+    - (v) a solicitor who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a solicitor in a Hong Kong firm or foreign firm within the meaning of the Legal Practitioners Ordinance (Cap. 159);
+
+    - (vi) counsel who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as counsel;
+
+    - (vii) a professional accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a professional accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50);
+
+    - (viii) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
+
+    - (ix) a person who gives such advice or issues such analyses or reports through—
+
+      - (A) a newspaper, magazine, book or other publication which is made generally available to the public; or
+
+      - (B) television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise,
+
+  - but does not include the giving of such advice that falls within the meaning of “advising on corporate finance”;
+
+  - “asset management” (資產管理), in relation to a person, means providing a service of managing a portfolio of securities or futures contracts for another person by the person, otherwise than by—
+
+    - (a) a corporation which provides such service solely to any of its wholly owned subsidiaries, its holding company which holds all its issued shares, or other wholly owned subsidiaries of that holding company;
+
+    - (b) a person who is licensed for Type 1 or Type 2 regulated activity who provides such service wholly incidental to the carrying on of that regulated activity;
+
+    - (c) an authorized financial institution which is registered for Type 1 or Type 2 regulated activity which provides such service wholly incidental to the carrying on of that regulated activity;
+
+    - (d) an individual—
+
+      - (i) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 1 or Type 2 (as the case may be) regulated activity by an authorized financial institution registered for that regulated activity; and
+
+      - (ii) who provides such service wholly incidental to the carrying on of that regulated activity;
+
+    - (e) a solicitor who provides such service wholly incidental to his practice as such in a Hong Kong firm or foreign firm within the meaning of the Legal Practitioners Ordinance (Cap. 159);
+
+    - (f) counsel who provides such service wholly incidental to his practice as such;
+
+    - (g) a professional accountant who provides such service wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); or
+
+    - (h) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which provides such service wholly incidental to the discharge of its duty as such;
+
+  - “automated trading services” (自動化交易服務) means services provided by means of electronic facilities, not being facilities provided by a recognized exchange company or a recognized clearing house, whereby—
+
+    - (a) offers to sell or purchase securities or futures contracts are regularly made or accepted in a way that forms or results in a binding transaction in accordance with established methods, including any method commonly used by a stock market or futures market;
+
+    - (b) persons are regularly introduced, or identified to other persons in order that they may negotiate or conclude, or with the reasonable expectation that they will negotiate or conclude sales or purchases of securities or futures contracts in a way that forms or results in a binding transaction in accordance with established methods, including any method commonly used by a stock market or futures market; or
+
+    - (c) transactions—
+
+      - (i) referred to in paragraph (a);
+
+      - (ii) resulting from the activities referred to in paragraph (b); or
+
+      - (iii) effected on, or subject to the rules of, a stock market or futures market,
+
+    - may be novated, cleared, settled or guaranteed,
+
+    - but does not include such services provided by a corporation operated by or on behalf of the Government;
+
+  - “dealing in futures contracts” (期貨合約交易), in relation to a person, means—
+
+    - (a) making or offering to make an agreement with another person to enter into, or to acquire or dispose of, a futures contract;
+
+    - (b) inducing or attempting to induce another person to enter into, or to offer to enter into, a futures contract; or
+
+    - (c) inducing or attempting to induce another person to acquire or dispose of a futures contract,
+
+  - by the person, except where the person—
+
+    - (i) is carrying out his functions as a recognized clearing house;
+
+    - (ii) performs the act referred to in paragraph (a), (b) or (c) through another person (“the futures dealer”)—
+
+      - (A) who is licensed or registered for Type 2 regulated activity; or
+
+      - (B) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 2 regulated activity by an authorized financial institution registered for that regulated activity,
+
+    - but the person shall be regarded as dealing in futures contracts if, in return for a commission, rebate or other remuneration, the person—
+
+      - (I) receives from a third person an offer or invitation to enter into a futures contract, and communicates it, either in his name or in the name of the third person, to the futures dealer;
+
+      - (II) effects an introduction between the futures dealer or his representative and a third person, so that the third person may enter into, or offer or invite to enter into, a futures contract with the futures dealer;
+
+      - (III) effects an acquisition or disposal of a futures contract for a third person through the futures dealer;
+
+      - (IV) makes an offer for the futures dealer to a third person to acquire or dispose of a futures contract; or
+
+      - (V) accepts for the futures dealer an offer by a third person to acquire or dispose of a futures contract;
+
+    - (iii) performs the act referred to in paragraph (a), (b) or (c) only on a market referred to in section 3(a), (b) or (c) of the Commodity Exchanges (Prohibition) Ordinance (Cap. 82);
+
+    - (iv) is a member of a commodity exchange referred to in section 3(d) of the Commodity Exchanges (Prohibition) Ordinance (Cap. 82) who only performs the act referred to in paragraph (a), (b) or (c) on such an exchange;
+
+    - (v) enters into a market contract;
+
+    - (vi) is licensed or registered for Type 9 regulated activity and performs the act referred to in paragraph (a), (b) or (c) solely for the purposes of carrying on that regulated activity; or
+
+    - (vii) as principal performs the act referred to in paragraph (a), (b) or (c) in relation to a futures contract traded otherwise than on a recognized futures market by way of dealing with a person who is a professional investor (whether acting as principal or agent);
+
+  - “dealing in securities” (證券交易), in relation to a person, means making or offering to make an agreement with another person, or inducing or attempting to induce another person to enter into or to offer to enter into an agreement—
+
+    - (a) for or with a view to acquiring, disposing of, subscribing for or underwriting securities; or
+
+    - (b) the purpose or pretended purpose of which is to secure a profit to any of the parties from the yield of securities or by reference to fluctuations in the value of securities,
+
+  - by the person, except where the person—
+
+    - (i) is a recognized exchange company operating a stock market;
+
+    - (ii) is a recognized clearing house;
+
+    - (iii) is a corporation providing automated trading services under authorization granted under section 95(2) of this Ordinance;
+
+    - (iv) performs the act through another person (“the securities dealer”)—
+
+      - (A) who is licensed or registered for Type 1 regulated activity; or
+
+      - (B) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 1 regulated activity by an authorized financial institution registered for that regulated activity,
+
+    - but the person shall be regarded as dealing in securities if, in return for a commission, rebate or other remuneration, the person—
+
+      - (I) receives from a third person an offer or invitation to enter into an agreement referred to in paragraph (a) or (b), and communicates it, either in his name or in the name of the third person, to the securities dealer;
+
+      - (II) effects an introduction between the securities dealer or his representative and a third person, so that the third person may enter into, or offer or invite to enter into, an agreement referred to in paragraph (a) or (b) with the securities dealer;
+
+      - (III) effects an agreement referred to in paragraph (a) or (b) on behalf of a third person through the securities dealer;
+
+      - (IV) makes an offer to the securities dealer on behalf of a third person to acquire or dispose of securities; or
+
+      - (V) accepts for the securities dealer an offer by a third person to enter into an agreement referred to in paragraph (a) or (b);
+
+    - (v) as principal—
+
+      - (A) performs the act by way of dealing with a person who is a professional investor (whether acting as principal or agent); or
+
+      - (B) acquires, disposes of, subscribes for or underwrites securities;
+
+    - (vi) enters into a market contract;
+
+    - (vii) issues a prospectus which complies with, or is exempt from compliance with, Part II of the Companies Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong, Part XII of that Ordinance;
+
+    - (viii) issues a document relating to the securities of a corporation incorporated in Hong Kong which is not a company, being a document which—
+
+      - (A) would, if the corporation were a company, be a prospectus to which section 38 of the Companies Ordinance (Cap. 32) applies, or would apply if not excluded by section 38(5)(b) or 38A of that Ordinance; and
+
+      - (B) contains all the matters which, under Part XII of that Ordinance, would be required to contain if the corporation were a corporation incorporated outside Hong Kong and the document were a prospectus issued by the corporation;
+
+    - (ix) issues a form of application for the shares or debentures of a corporation, together with—
+
+      - (A) a prospectus which complies with, or is exempt from compliance with, Part II of the Companies Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong, Part XII of that Ordinance; or
+
+      - (B) in the case of a corporation incorporated in Hong Kong which is not a company, a document which contains the matters specified in paragraph (viii)(B);
+
+    - (x) issues a prospectus the registration of which has been authorized by the Commission under section 342C of the Companies Ordinance (Cap. 32) in relation to a collective investment scheme that is a corporation—
+
+      - (A) which is or holds itself out as being engaged primarily in the business of investing, reinvesting or trading in any property (including securities and futures contracts); and
+
+      - (B) the shares in which are exclusively, or primarily, redeemable shares,
+
+    - or issues together with the prospectus a form of application for the shares in the corporation;
+
+    - (xi) issues any advertisement, invitation or document the issue of which has been authorized by the Commission under section 105 of this Ordinance;
+
+    - (xii) is a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) acting as an agent for a collective investment scheme which, by performing the act, is carrying out its functions of distributing application forms, redemption notices, conversion notices and contract notes, receiving money and issuing receipts on behalf of its principal;
+
+    - (xiii) is licensed or registered for Type 4 or Type 6 regulated activity and, solely for the purposes of carrying on that regulated activity, he issues a document under section 175(1)(a)(i) or (ii) of this Ordinance, the content of which complies with the requirements of section 175(1)(b) and (c) of this Ordinance; or
+
+    - (xiv) is licensed or registered for Type 9 regulated activity and performs the act solely for the purposes of carrying on that regulated activity;
+
+  - “foreign exchange trading” (外匯交易) means entering into or offering to enter into, or inducing or attempting to induce a person to enter into or to offer to enter into, a contract or arrangement whereby any person undertakes to—
+
+    - (a) exchange currency with another person;
+
+    - (b) deliver an amount of foreign currency to another person; or
+
+    - (c) credit the account of another person with an amount of foreign currency,
+
+  - but does not include any act performed for or in connection with any contract or arrangement or a proposed contract or arrangement as described in paragraphs (i) to (xv) of the definition of “leveraged foreign exchange trading”;
+
+  - “leveraged foreign exchange contract” (槓桿式外匯交易合約) means a contract or arrangement the effect of which is that one party agrees or undertakes to—
+
+    - (a) make an adjustment between himself and the other party or another person according to whether a currency is worth more or less (as the case may be) in relation to another currency;
+
+    - (b) pay an amount of money or to deliver a quantity of any commodity determined or to be determined by reference to the change in value of a currency in relation to another currency to the other party or another person; or
+
+    - (c) deliver to the other party or another person at an agreed future time an agreed amount of currency at an agreed consideration;
+
+  - “leveraged foreign exchange trading” (槓桿式外匯交易) means—
+
+    - (a) the act of entering into or offering to enter into, or inducing or attempting to induce a person to enter into or to offer to enter into, a leveraged foreign exchange contract;
+
+    - (b) the act of providing any financial accommodation to facilitate foreign exchange trading or to facilitate an act referred to in paragraph (a); or
+
+    - (c) the act of entering into or offering to enter into, or inducing or attempting to induce a person to enter into, an arrangement with another person, on a discretionary basis or otherwise, to enter into a contract to facilitate an act referred to in paragraph (a) or (b),
+
+  - but does not include any act performed for or in connection with any contract or arrangement or a proposed contract or arrangement—
+
+    - (i) wholly referable to the provision of property, other than currency, or services or employment at fair or market value;
+
+    - (ii) where the contract or arrangement is entered into by a corporation—
+
+      - (A) the principal business of which does not include dealing in currency in any form;
+
+      - (B) for the purpose of hedging its exposure to currency exchange risks in connection with its business; and
+
+      - (C) with another corporation;
+
+    - (iii) that is an exchange transaction within the meaning of the Money Changers Ordinance (Cap. 34);
+
+    - (iv) arranged by an approved money broker within the meaning of section 2(1) of the Banking Ordinance (Cap. 155) and every party to which is a corporation or a limited partnership registered under the Limited Partnerships Ordinance (Cap. 37);
+
+    - (v) that is a transaction executed solely for the purpose of its insurance business by an insurer authorized under section 8 of the Insurance Companies Ordinance (Cap. 41) to carry on insurance business or deemed to be so authorized under section 61(1) or (2) of that Ordinance;
+
+    - (vi) that is a contract executed on a specified futures exchange by or through a person who is licensed or registered for Type 2 regulated activity or is wholly incidental to one or more than one such contract or a series of such contracts;
+
+    - (vii) arranged by—
+
+      - (A) a body which, in the opinion of the Monetary Authority, is—
+
+        - (I) a central bank; or
+
+        - (II) an institution which performs the functions of a central bank; or
+
+      - (B) an organization which, with the approval of the Monetary Authority, is acting on behalf of a body referred to in subparagraph (A);
+
+    - (viii) that is a transaction executed on a specified stock exchange by or through a person who is licensed or registered for Type 1 regulated activity or is wholly incidental to one or more than one such transaction or a series of such transactions;
+
+    - (ix) that is a transaction executed by or through a person who is licensed or registered for Type 7 regulated activity or is wholly incidental to one or more than one such transaction or a series of such transactions;
+
+    - (x) that is a transaction in an interest or interests in a collective investment scheme authorized by the Commission under section 104 of this Ordinance;
+
+    - (xi) that is wholly incidental to one or more than one transaction in specified debt securities or a series of such transactions;
+
+    - (xii) by an authorized financial institution;
+
+    - (xiii) by any person belonging to a class of persons, or carrying on a type of business, as prescribed by rules made under section 397 of this Ordinance for the purposes of this paragraph;
+
+    - (xiv) by a person through a trader, but the person shall be regarded as carrying on leveraged foreign exchange trading if, in return for a commission, rebate or other remuneration, the person—
+
+      - (A) receives from another person an offer or invitation to—
+
+        - (I) enter into a leveraged foreign exchange contract; or
+
+        - (II) use any financial accommodation to facilitate foreign exchange trading or facilitate entering into a leveraged foreign exchange contract,
+
+  - and communicates it, either in his name or in the name of the other person, to the trader;
+
+    - (B) effects an introduction between the trader or its representative and another person, so that the other person may—
+
+      - (I) enter into a leveraged foreign exchange contract with the trader; or
+
+      - (II) use any financial accommodation provided by the trader to facilitate foreign exchange trading or facilitate entering into a leveraged foreign exchange contract; or
+
+        - (C)
+
+        - effects the entering into a leveraged foreign exchange contract by another person through the trader,
+
+          - where in this paragraph, “trader” (交易商) means a corporation licensed for Type 3 regulated activity or an authorized financial institution; or
+
+    - (xv) by—
+
+      - (A) a collective investment scheme; or
+
+      - (B) a person in the course of business for the purpose of operating a collective investment scheme,
+
+    - authorized by the Commission under section 104 of this Ordinance;
+
+  - “securities margin financing” (證券保證金融資) means providing a financial accommodation in order to facilitate—
+
+    - (a) the acquisition of securities listed on any stock market, whether a recognized stock market or any other stock market outside Hong Kong; and
+
+    - (b) (where applicable) the continued holding of those securities,
+
+  - whether or not those or other securities are pledged as security for the accommodation, but does not include the provision of financial accommodation—
+
+    - (i) that forms part of an arrangement to underwrite or sub-underwrite securities;
+
+    - (ii) to facilitate an acquisition of securities in accordance with the term of a prospectus, regardless of whether the offer of securities is made in Hong Kong or elsewhere;
+
+    - (iii) by a person who is licensed or registered for Type 1 regulated activity in order to facilitate acquisitions or holdings of securities by the person for his client;
+
+    - (iv) by a collective investment scheme that is a corporation—
+
+      - (A) which is or holds itself out as being engaged primarily in the business of investing, reinvesting or trading in any property (including securities and futures contracts); and
+
+      - (B) the shares in which are exclusively, or primarily, redeemable shares,
+
+    - in order to finance investment in any interest in the collective investment scheme of which it is the issuer;
+
+    - (v) by an authorized financial institution for the purpose of facilitating acquisitions or holdings of securities by the institution’s clients;
+
+    - (vi) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities; or
+
+    - (vii) by an intermediary by way of effecting an introduction between a person and a related corporation of the intermediary in order that the corporation may provide the person with financial accommodation.
+
+- PART 3 The following are the specified activities referred to in section 114(5) of this Ordinance—
+
+  - (a) the acquisition of securities listed on a stock market which is or forms part of a stock borrowing or stock return as defined in section 19(16) of the Stamp Duty Ordinance (Cap. 117), or any transaction in securities similar to such a borrowing or return; or
+
+  - (b) the provision of financial accommodation—
+
+    - (i) to a corporation licensed for Type 1 or Type 8 regulated activity or an authorized financial institution to facilitate acquisitions or holdings of securities;
+
+    - (ii) by a company to its directors or employees to facilitate acquisitions or holdings of its own securities; or
+
+    - (iii) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member.
