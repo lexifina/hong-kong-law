@@ -1,0 +1,5 @@
+SMALL CLAIMS TRIBUNAL (SUITORS’ FUNDS) RULES
+
+(Cap. 338, section 36)
+
+[27 October 1978]
