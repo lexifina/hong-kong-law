@@ -1,8 +1,4 @@
-MAXIMUM SCALE OF ELECTION EXPENSES (LEGISLATIVE COUNCIL) ORDER
-
-MAXIMUM SCALE OF ELECTION EXPENSES (LEGISLATIVE COUNCIL) ORDER*
-
-(L.N. 16 of 2000)
+MAXIMUM SCALE OF ELECTION EXPENSES (LEGISLATIVE COUNCIL) (ELECTION COMMITTEE) ORDER
 
 (Cap. 554, section 45)
 
@@ -12,4 +8,4 @@ Editorial Note:
 
 - 1. This Order was originally made under the Corrupt and Illegal Practices Ordinance (Cap. 288). Though that Ordinance was repealed, this Order continues in force so far as it is not inconsistent with the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) and has the effect for all purposes as if made under Cap. 554. (See section 48 of Cap. 554)
 
-- 2. The title of this Order was amended from “Maximum Scale of Election Expenses (Legislative Council) Order 1997” to “Maximum Scale of Election Expenses (Legislative Council) Order” — see L.N. 16 of 2000.
+- 2. The title of this Order was amended from “Maximum Scale of Election Expenses (Legislative Council) Order 1997” to “Maximum Scale of Election Expenses (Legislative Council) Order”, and then to “Maximum Scale of Election Expenses (Legislative Council) (Election Committee) Order” — see L.N. 16 of 2000 and 21 of 2001 s.50.

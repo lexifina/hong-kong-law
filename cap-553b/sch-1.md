@@ -124,7 +124,7 @@ Item | Enactment | Provision
 
 59. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg.) | Sections 26(5) and (9), 28(3), (9) and (12), 45(8) and (10), 66(6) and (9) and 102(4)
 
-60. | Legislative Council Ordinance (Cap. 542) | Sections 13(1), 14(1), 26(6), 38(3), 40(1)(b) and 42(2) and Schedule 2, sections 9(6) and 17(2)
+60. | Legislative Council Ordinance (Cap. 542) | Sections 13(1), 14(1), 26(6), 38(3), 40(1)(b) and 42(2) (21 of 2001 s. 75)
 
 61. | Registration of Electors (Appeals) Regulation (Cap. 542 sub. leg.) | Section 2(1) and (2)(c)
 
@@ -133,3 +133,5 @@ Item | Enactment | Provision
 63. | District Councils Ordinance (Cap. 547) | Sections 15(1), 23(1), 25(1), 34(1)(b), 35(2) and 63(1) and Schedule 5, section 2
 
 64. | Election (Corrupt and Illegal Conduct) Ordinance (Cap. 554) | Section 37(1) and (2) (L.N. 167 of 2000)
+
+65. | Chief Executive Election Ordinance (Cap. 569) | Sections 16(2) and (7), 31(1), 33(1) and 34(2) and the Schedule, sections 3(3), 13(6) and 21(2) (21 of 2001 s. 75)

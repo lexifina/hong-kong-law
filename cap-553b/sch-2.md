@@ -42,8 +42,10 @@ Item | Enactment | Provision
 
 18. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg.) | Sections 12(7) and (8), 20(2), 26(6) and (9), 28(5) and (12), 45(8), 66(6) and (9), 102(4) and 103(4)
 
-19. | Legislative Council Ordinance (Cap. 542) | Sections 13(2), 14(2), 40(2) and 42(2) and Schedule 2, section 17(2)
+19. | Legislative Council Ordinance (Cap. 542) | Sections 13(2), 14(2), 40(2) and 42(2) (21 of 2001 s. 76)
 
 20. | District Councils Ordinance (Cap. 547) | Sections 15(2), 23(2), 25(2), 35(2) and 63(2)
 
 21. | Air Navigation (Hong Kong) Order 1995 (Cap. 448 sub. leg.) | Articles 10(2) and 28(4) and Schedule 15, Regulation 1(1)
+
+22. | Chief Executive Election Ordinance (Cap. 569) | Sections 16(3) and (8) and 33(2) and the Schedule, sections 3(4) and 21(2) (21 of 2001 s. 76)

@@ -10,9 +10,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
   - (1) The existing subsector final register as defined in section 7(1) of Schedule 2, in so far as it relates to the catering subsector, forms the basis of the first provisional register for the catering functional constituency.
 
-  - (2)
-
-    - In this Schedule, “the first provisional register for the catering functional constituency” (飲食界功能界別首份臨時選民登記冊) means the part in the provisional register of functional constituencies to be compiled not later than 15 April 2000 under section 32(1) of this Ordinance that relates to the catering functional constituency.
+  - (2) In this Schedule, “the first provisional register for the catering functional constituency” (飲食界功能界別首份臨時選民登記冊) means the part in the provisional register of functional constituencies to be compiled not later than 15 April 2000 under section 32(1) of this Ordinance that relates to the catering functional constituency.
 
 - 2. Electoral Registration Officer to prepare
 
@@ -54,8 +52,8 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
   - (2) Sections 2 and 3 shall apply to and in relation to the next provisional register for the financial services functional constituency and to the financial services functional constituency as they apply to and in relation to the first provisional register for the catering functional constituency and to the catering functional constituency.
 
-  - (3)
-
-    - In this section, “the next provisional register for the financial services functional constituency” (金融服務界功能界別下一份臨時選民登記冊) means the part in the provisional register of functional constituencies to be compiled not later than 15 April 2000 under section 32(1)(a) of this Ordinance that relates to the financial services functional constituency.
+  - (3) In this section, “the next provisional register for the financial services functional constituency” (金融服務界功能界別下一份臨時選民登記冊) means the part in the provisional register of functional constituencies to be compiled not later than 15 April 2000 under section 32(1)(a) of this Ordinance that relates to the financial services functional constituency.
 
 - (Added 12 of 2000 s. 23)
+
+- 5. Saving provision for Members returned by the Election Committee For the avoidance of doubt, the amendments made to this Ordinance by sections 62 to 73 of the Chief Executive Election Ordinance (Cap. 569) do not affect an election by the Election Committee held before the commencement of those sections to return a Member or Members for the second term of office of the Legislative Council, or the office of such a Member or Members. (Added 21 of 2001 s. 74)
