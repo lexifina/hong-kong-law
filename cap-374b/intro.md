@@ -1,0 +1,5 @@
+ROAD TRAFFIC (DRIVING LICENCES) REGULATIONS
+
+(Cap. 374, sections 5 and 8)
+
+[25 August 1984] L.N. 298 of 1984
