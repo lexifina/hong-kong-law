@@ -194,13 +194,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (i) 3 members elected by the Senate from among the academic members of the Senate;
 
-    - (j) not more than 4 persons from Universities or education organizations outside Hong Kong who shall be nominated by the Council;
+    - (j) (Repealed L.N. 481 of 1997)
 
-    - (k) 4 persons nominated by the Chancellor;
+    - (k) 6 persons nominated by the Chancellor; (L.N. 481 of 1997)
 
     - (l) 3 persons elected by the Unofficial Members of the Legislative Council, other than Official Members, from among their own number; (67 of 1987 s. 2)
 
-    - (m) not more than 4 other persons, normally resident in Hong Kong; who shall be elected by the Council;
+    - (m) not more than 6 other persons, normally resident in Hong Kong; who shall be elected by the Council; (L.N. 481 of 1997)
 
     - (n) after a date to be appointed by the Council, such number of members of the Convocation not exceeding 3 as shall be determined by the Council from time to time, to be elected by the Convocation in the manner determined by the Council.
 
@@ -208,9 +208,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (1) Persons who hold appointments in the University shall not be eligible for nomination or election under paragraph 1(k), (l), (m) or (n).
 
-      - (2) Any person who is a member of the Board of Trustees of any
-
-    - College who is nominated or elected under paragraph 1(k), (l) or (m) shall resign from membership of the Board of Trustees.
+      - (2) (Repealed L.N. 481 of 1997)
 
   - 3. The Chairman of the Council shall hold office for 3 years and may be re-appointed for further periods of 3 years.
 
@@ -634,13 +632,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (1) Subject to subparagraph (2), the Convocation shall from a date to be appointed by the Council elect such number of members of the Convocation not exceeding 3 as the Council shall from time to time determine to be members of the Council.
 
-      - (2) No member of the Convocation shall be eligible for election under subparagraph (1) to serve, or continue to serve, as a member of the Council if he is or becomes—
-
-        - (a) a member of the University by virtue of Statute 3, unless he is such a member by virtue of paragraph (m) only, and not at the same time such a member by virtue of any other paragraph, of that Statute; or
-
-        - (b) a member of the Board of Trustees of any of the Colleges,
-
-    - but, save as aforesaid, a member of the Convocation elected under subparagraph (1) shall continue to be a member of the Council, and shall be eligible for re-election, notwithstanding his being a member of the University by virtue of paragraphs (f) and (m) of Statute 3 at the same time so long as he is such a member of the Council by virtue of paragraph 1(n) of Statute 11 only, and not at the same time a member of the Council by virtue of any other paragraph of that Statute. (L.N. 327 of 1996)
+      - (2) No member of the Convocation shall be eligible for election under subparagraph (1) to serve, or continue to serve, as a member of the Council if he is or becomes a member of the University by virtue of Statute 3, unless he is such a member by virtue of paragraph (m) only, and not at the same time such a member by virtue of any other paragraph, of that Statute, but, save as aforesaid, a member of the Convocation elected under subparagraph (1) shall continue to be a member of the Council, and shall be eligible for re-election, notwithstanding his being a member of the University by virtue of paragraphs (f) and (m) of Statute 3 at the same time so long as he is such a member of the Council by virtue of paragraph 1(n) of Statute 11 only, and not at the same time a member of the Council by virtue of any other paragraph of that Statute. (L.N. 327 of 1996; L.N. 481 of 1997)
 
   - 8. The Convocation shall, after a date to be determined by the Council, meet at least once in each calendar year and notice of such meeting shall be given 4 weeks before the date of meeting. Any member desiring to bring forward any business thereat shall forward a statement in writing to reach the Secretary of the Convocation at least 2 weeks before the date of meeting, setting forth in the form of motions the subject or subjects proposed for consideration. (L.N. 548 of 1994)
 
@@ -862,13 +854,17 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Bachelor of Social Science (B. S. Sc.)
 
-  - (b) Master’s Degrees Master of Architecture (M. Arch.) (L.N. 114 of 1991)
+  - (b) Master’s Degrees Master of Accountancy (M. Acc.) (L.N. 481 of 1997)
+
+  - Master of Architecture (M. Arch.) (L.N. 114 of 1991)
 
   - Master of Arts (M. A.)
 
   - Master of Business Administration (M. B. A.)
 
   - Master of City Planning (M. C. P.) (L.N. 453 of 1994)
+
+  - Master of Clinical Pharmacy (M. Clin. Pharm.) (L.N. 481 of 1997)
 
   - Master of Divinity (M. Div.)
 
@@ -893,6 +889,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
   - Master of Social Work (M. S. W.)
 
   - (c) Doctoral Degrees Doctor of Business Administration (D. B. A.)
+
+  - Doctor of Education (Ed. D.) (L.N. 481 of 1997)
 
   - Doctor of Literature (D. Lit.)
 
