@@ -734,7 +734,7 @@ The decision was served on *me/us by the Commissioner pursuant to section *39/40
 
 .
 
-The Tribunal is requested to make an order under section 44(1) of theOrdinance that .
+The Tribunal is requested to make an order under section 44(1) of the Ordinance that .
 
 .
 
@@ -838,47 +838,31 @@ To: 1. The Registrar, Lands Tribunal.
 
 FORM 22 | [rule 68]
 
-NOTICE OF APPLICATION TO LANDS TRIBUNAL UNDER LANDLORD AND
+NOTICE OF APPLICATION UNDER LANDLORD AND
 
 TENANT (CONSOLIDATION) ORDINANCE
 
-Lands Tribunal
-
-Application No. .
-
 Pursuant to section .
 
-- *Name, address and status of applicant:
+LD
 
-- Name, address and status of respondent:
+No. .
 
-- Address and user of premises:
+Applicant’s Name: .* (Landlord/Tenant/Sub-tenant)
 
-- Duration of tenancy:
+and Address: .
 
-- Rent:
+Respondent’s Name: .* (Landlord/Tenant/Sub-tenant)
 
-- Names, ages and relationship to applicant of persons for whom occupation of premises required (only if application pursuant to section 53(2)(b)):
+and Address: .
 
-- Other grounds and particulars:
+Address of premises: . User of premises: .* (Residential/Business) Duration of tenancy: From . To . Existing rent: $ . /month
 
-- Dated this . day of . 19 .
+- Nature and particulars of application: * Application for new tenancy. / *Application for determination of prevailing market rent. * Application for recovery of possession of the suit premises and rent as the respondent has failed to pay rent from the day of and application for order for mesne profits, costs, *interest, *management fees, *rates/Government rent, *water/electricity/gas charges and *other utility charges. * Application for disposal of properties left in the premises by the respondent. Dated this . day of . .+ (Signature of *the authorized representative of Applicant) Full name of authorized representative: . To: 1. The Registrar, Lands Tribunal. 2. The Respondent. Address for service of the applicant: .
 
-- .
+- . + If the applicant is a company/incorporation, please affix the company seal and write down the full name of the signatory. * Delete whichever is inapplicable. Note: If the respondent intends to oppose this application, he must personally attend at the Lands Tribunal Registry within 14 days of the date of service of this notice, and file a notice of opposition (Form 7).
 
-- (Applicant)
-
-- Address for service of the Applicant:
-
-- To: 1. The Registrar, Lands Tribunal.
-
-  - 2. The Respondent.
-
-  - 3. (Please add such other persons as may be required to be served)
-
-- * State whether status in relation to the premises is landlord, tenant or sub-tenant. Note: 1. If you intend to oppose this application, you must personally attend at the Lands Tribunal Registry within 14 days of the day of service of this notice and file a notice of opposition by means of Form 7.
-
-(L.N. 417 of 1995; 25 of 1998 s. 2)
+(32 of 2002 s. 40)
 
 -
 
@@ -1512,6 +1496,50 @@ Appellant(s))
 
   - (a) for an appeal under section 4(11) of the Ordinance, the grounds of the appeal are confined to the question of whether the interest held under an applicable lease or the tenement is entitled to an exemption from liability to pay Government rent;
 
-  - (b) for an appeal under section 21(1) or 25(3) of the Ordinance, the grounds of the appeal are confined to those of the proposal or objection, as the case may be.■
+  - (b) for an appeal under section 21(1) or 25(3) of the Ordinance, the grounds of the appeal are confined to those of the proposal or objection, as the case may be.
 
 (L.N. 78 of 2002)
+
+FORM 36 | [rule 74(3A)]
+
+NOTICE OF APPEAL TO LANDS TRIBUNAL AGAINST DETERMINATION
+
+OF COMMISSIONER OF RATING AND VALUATION ON WHETHER A
+
+TENANCY IS EXCLUDED FROM PART V OF THE LANDLORD
+
+AND TENANT (CONSOLIDATION) ORDINANCE Pursuant to section 121(6)
+
+- Name, address and status of appellant: Name, address and status of respondent:
+
+- The appellant hereby appeals against the determination of the Commissioner of Rating and Valuation upon an application pursuant to section 121(4) to determine whether a tenancy is excluded from Part V under section 121(3). The tenancy concerned is in respect of the premises known as .
+
+- (description of premises)
+
+- A copy of the notice issued by the Commissioner of Rating and Valuation setting out the determination appealed against is attached.
+
+- The grounds of appeal are: (here state briefly the grounds of appeal)
+
+- The appellant also applies for an order for costs.
+
+- Address for the service of the appellant:
+
+- Dated this . day of .
+
+- .
+
+- (to be signed by or on behalf
+
+- of the Appellant)
+
+- To: 1. The Registrar, Lands Tribunal.
+
+  - 2. The Respondent.
+
+  - 3. Commissioner of Rating and Valuation.
+
+  - 4. (Please add such other persons as may be required to be served)
+
+- Note: If you intend to oppose this appeal, you must personally attend at the Lands Tribunal Registry within 14 days of the day of service of this notice, and file a notice of opposition by means of Form 7.
+
+(32 of 2002 s. 40)

@@ -151,6 +151,7 @@ s-111.md
 s-112.md
 s-113.md
 s-114.md
+s-114A.md
 s-115.md
 s-115A.md
 s-116.md
@@ -180,6 +181,7 @@ s-119R.md
 s-119RA.md
 s-119S.md
 s-119T.md
+s-119TA.md
 s-119U.md
 s-119V.md
 s-119W.md
@@ -209,6 +211,7 @@ s-132A.md
 s-133.md
 s-134.md
 s-135.md
+s-135A.md
 s-136.md
 s-136A.md
 s-137.md
@@ -218,6 +221,7 @@ s-140.md
 s-141.md
 s-142.md
 s-143.md
+s-144.md
 sch-1.md
 sch-2.md
 sch-3.md
