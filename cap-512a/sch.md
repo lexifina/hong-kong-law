@@ -2,118 +2,134 @@
 
 [s. 1]
 
-Column 1 | Column 2
+Column 1 | Column 2 | Column 3
 
-Contracting States to the Convention | Territories specified in declarations under Article 39 or 40 of the Convention
+Contracting States to the Convention | Territories specified in declarations under Article 39 or 40 of the Convention | Date of coming into force of the Convention
 
-Argentina
+Republic of Argentina | } }
 
-Australia | Australian States and Mainland Territories
+Commonwealth of Australia | Australian States and Mainland Territories
 
-Austria
+Republic of Austria
 
-The Bahamas
+Commonwealth of the Bahamas | } } }
 
 Belize
 
-Bosnia and Herzegovina
+Republic of Bosnia and Herzegovina
 
-Burkina Faso
+Democratic Republic of Burkina Faso | }
 
-Canada | Ontario
-
-New Brunswick
+Canada | Alberta | }
 
 British Columbia
 
-Manitoba
+Manitoba | } | 1 September 1997
+
+New Brunswick
+
+Newfoundland | }
 
 Nova Scotia
 
-Newfoundland
+Ontario | }
 
 Prince Edward Island
 
-Quebec
-
-Yukon Territory
+Quebec | }
 
 Saskatchewan
 
-Alberta
+Yukon Territory | }
 
 Northwest Territories
 
-Chile
+Republic of Chile | }
 
-Colombia
+Republic of Colombia
 
-Croatia
+Republic of Croatia | }
 
-Cyprus
+Republic of Cyprus
 
-Denmark (except the Faroe Islands and Greenland)
+Czech Republic | 1 March 1998
 
-Ecuador
+Kingdom of Denmark (except the Faroe Islands and Greenland) | }
 
-Finland
+Republic of Ecuador | }
 
-France (for the whole of the territory of the French Republic)
+Republic of Finland | 1 September 1997
 
-Germany
+Republic of France (for the whole of the territory of the Republic of France) | }
 
-Greece
+Republic of Georgia | 1 December 1998
 
-Honduras
+Federal Republic of Germany | }
 
-Hungary
+Helenic Republic (Greece)
 
-Iceland
+Republic of Honduras | }
 
-Ireland
+Republic of Hungary
 
-Israel
+Republic of Iceland | }
 
-Italy
+Republic of Ireland
 
-Luxembourg
+State of Israel | }
 
-Mauritius
+Republic of Italy
 
-Mexico
-
-Monaco
-
-Netherlands (for the Kingdom in Europe)
-
-New Zealand
-
-Norway
-
-Panama
-
-Poland
-
-Portugal
+Grand-Duchy of Luxembourg | }
 
 Republic of Macedonia
 
+Republic of Mauritius | }
+
+United States of Mexico | 1 September 1997
+
+Principaute de Monaco | } }
+
+Kingdom of the Netherlands (for the Kingdom in Europe)
+
+New Zealand | }
+
+Kingdom of Norway
+
+Republic of Panama | }
+
+Polish Republic (Poland)
+
+Republic of Portugal | } } }
+
 Romania
 
-Saint Kitts and Nevis
+Federation of Saint Kitts and Nevis
 
-Slovenia
+Republic of Slovenia
 
-Spain
+Republic of South Africa | 1 December 1998
 
-Sweden
+Kingdom of Spain | } }
 
-Switzerland
+Kingdom of Sweden | 1 September 1997
 
-United Kingdom of Great Britain and Northern Ireland | Isle of Man
+Confederation Suisse (Switzerland)
 
-United States
+Republic of Turkmenistan | 1 December 1998
 
-Venezuela
+United Kingdom of Great Britain and Northern Ireland | 1 September 1997
 
-Zimbabwe
+Cayman Islands | 1 August 1998
+
+las Islas Malvinas (The Falkland Islands) | 1 June 1998
+
+Isle of Man | 1 September 1997
+
+United States of America | }
+
+Republic of Venezuela | 1 September 1997
+
+Republic of Zimbabwe
+
+(L.N. 108 of 1999)
