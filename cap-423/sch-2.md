@@ -132,4 +132,8 @@ Item Body
 
 - 63. Hong Kong Small and Medium Enterprises Association (Added L.N. 214 of 2001)
 
-- 64. Hong Kong Association of Gerontology (Added L.N. 214 of 2001) (Schedule 2 replaced L.N. 269 of 1999)
+- 64. Hong Kong Association of Gerontology (Added L.N. 214 of 2001)
+
+- 65. Hong Kong Employment Development Service Limited (Added L.N. 67 of 2003)
+
+- 66. New Territories Association Retraining Centre Limited (Added L.N. 67 of 2003) (Schedule 2 replaced L.N. 269 of 1999)
