@@ -8,7 +8,7 @@ PARTICULARS TO BE ENTERED IN THE ROLL
 
 - (b) Full name including in the case of a married woman her maiden name.
 
-- (c) Address at which notices from the Board may be served.
+- (c) Address at which notices from the Council may be served. (L.N. 117 of 1999)
 
 - (d) Date of enrolment.
 
