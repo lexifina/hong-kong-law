@@ -474,10 +474,14 @@ Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 2
 
 Editorial Note:
 
-- 1. Please also see the Specifications of Public Offices in L.N. 282 of 1998. It was made under s. 43 of Cap. 1 after 1 July 1997. Its particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998 and L.N. 320 of 1998. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
-- Public Office | Ordinance or section of Ordinance for which specified
+Public Office | Ordinance or section of Ordinance for which specified
 
-- L.N. 282 of 1998 | Director of Environmental Protection Director of Environmental Protection | Environmental Impact Assessment Ordinance (Chapter 499). Environmental Impact Assessment (Appeal Board) Regulation (Chapter 499 subsidiary legislation).
+L.N. 282 of 1998 | Director of Environmental Protection Director of Environmental Protection | Environmental Impact Assessment Ordinance (Chapter 499). Environmental Impact Assessment (Appeal Board) Regulation (Chapter 499 subsidiary legislation).
 
-- 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014. 3. * This entry was added by section 66 of Ord. No. 18 of 2014. By virtue of section 1(5) of Ord. No. 18 of 2014, section 66 was deemed to have come into operation on 9 April 1998.
+L.N. 320 of 1998 | Secretary for Security | Immigration Ordinance (Chapter 115), section 35(2).
+
+- 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
+
+3. * This entry was added by section 66 of Ord. No. 18 of 2014. By virtue of section 1(5) of Ord. No. 18 of 2014, section 66 was deemed to have come into operation on 9 April 1998.
