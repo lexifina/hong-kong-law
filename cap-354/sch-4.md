@@ -1,0 +1,45 @@
+# FOURTH SCHEDULE
+
+[ss. 2 & 37]
+
+EXEMPT PERSONS
+
+Item | Description
+
+1. | Any person who owns, leases or manages any abattoir or slaughter house in which livestock is kept.
+
+2. | Any person who owns, leases or manages any part of any wholesale market or retail market (including a stall situated in such market) in which livestock is kept.
+
+3. | Any person who owns, leases or manages any lairage in which livestock is kept.
+
+4. | Any person who holds a valid licence granted under Part IV of the Food Business (Urban Council) By-laws (Cap. 132 sub. leg.) in respect of a fresh provision shop in which live poultry are kept.
+
+5. | Any person who holds a valid licence granted under Part IV of the Food Business (Regional Council) By-laws (Cap. 132 sub. leg.) in respect of a fresh provision shop in which live poultry are kept.
+
+6. | Any person who owns, leases or manages any hatchery in which poultry of not more than 12 days old are kept.
+
+7. | Any person who owns or keeps in or on his premises in any livestock waste prohibition area or livestock waste restriction area not more than 20 poultry. (Amended L.N. 311 of 1994)
+
+8. | Any person who owns or keeps in or on his premises in any livestock waste control area— (a) 1 pig, including, in the case of a sow, the unweaned litter of that sow; or (b) not more than 20 poultry. (Amended L.N. 311 of 1994)
+
+9. | Any person who has been granted an exemption by the Director of Agriculture and Fisheries from applying and holding a licence to keep livestock under any regulation made under the Public Health (Animals and Birds) Ordinance (Cap. 139). (Added 28 of 1994 s. 27)
+
+10. | The Director of Agriculture and Fisheries. (Added L.N. 311 of 1994)
+
+11. | The Director of Urban Services. (Added L.N. 311 of 1994)
+
+12. | The Director of Regional Services. (Added L.N. 311 of 1994)
+
+13. | Any person who holds a valid licence or permit granted under the Public Health (Animals and Birds) Ordinance (Cap. 139) in respect of holding of exhibition of animals or birds. (Added L.N. 311 of 1994)
+
+14. | Any person who owns or manages a park for public access in which livestock is kept solely for the purpose of exhibition to which the public are admitted, whether on payment or not. (Added L.N. 311 of 1994)
+
+15. | Any person who owns or manages a school or other educational institution providing kindergarten, primary, secondary, post-secondary or tertiary education in which livestock is kept for the purpose of education. (Added L.N. 311 of 1994)
+
+Note:
+
+For the purposes of calculating the permitted number of livestock in paragraphs 7 and 8, any livestock owned or kept in or on those premises by any person’s spouse, father, mother, sister, brother, son, daughter or other remoter relative or ancestor or nominee residing with that person
+
+shall be deemed to be owned or kept by that person.
+
+(Added 58 of 1987 s. 14)
