@@ -56,3 +56,4 @@ s-051.md
 s-052.md
 s-053.md
 sch-1.md
+sch-2.md
