@@ -28,7 +28,7 @@ Duplicate trade licence or permit | 65
 
 Annual Licence Fees
 
-1. | (a) | Goods vehicle (other than van-type light goods vehicle) and special purpose vehicle—
+1. | (a) Goods vehicle (other than van-type light goods vehicle) and special purpose vehicle—
 
 (i) not exceeding 1.9 tonnes permitted gross vehicle weight | 1175
 
@@ -56,33 +56,19 @@ Annual Licence Fees
 
 4. | Taxi | 3045
 
-5. | Private car (other than of the type specified in item 5A)—
+5. | Private car of which the cylinder capacity of the engine—
 
-Where the cylinder capacity of the engine—
+(a) does not exceed 1500 cubic centimetres | 3815
 
-(a) does not exceed 1500 cubic centimetres | 4200
+(b) exceeds 1500 cubic centimetres but does not exceed 2500 cubic centimetres | 5680
 
-(b) exceeds 1500 cubic centimetres but does not exceed 2500 cubic centimetres | 6250
+(c) exceeds 2500 cubic centimetres but does not exceed 3500 cubic centimetres | 7550
 
-(c) exceeds 2500 cubic centimetres but does not exceed 3500 cubic centimetres | 8305
+(d) exceeds 3500 cubic centimetres but does not exceed 4500 cubic centimetres | 9420
 
-(d) exceeds 3500 cubic centimetres but does not exceed 4500 cubic centimetres | 10360
+(e) exceeds 4500 cubic centimetres | 11215
 
-(e) exceeds 4500 cubic centimetres (L.N. 61 of 2001) | 12340
-
-5A. | Private car the engine of which is designed to use as a fuel light diesel oil as defined in section 69 of the Dutiable Commodities Ordinance (Cap. 109)—
-
-Where the cylinder capacity of the engine—
-
-(a) does not exceed 1500 cubic centimetres | 5805
-
-(b) exceeds 1500 cubic centimetres but does not exceed 2500 cubic centimetres | 7855
-
-(c) exceeds 2500 cubic centimetres but does not exceed 3500 cubic centimetres | 9910
-
-(d) exceeds 3500 cubic centimetres but does not exceed 4500 cubic centimetres | 11965
-
-(e) exceeds 4500 cubic centimetres (L.N. 61 of 2001) | 13945
+and in addition to the appropriate fee mentioned above, in the case of a private car the engine of which is designed to use as a fuel light diesel oil as defined in section 69 of the Dutiable Commodities Ordinance (Cap. 109) | 1460
 
 6. | Electrically powered passenger vehicle—
 
@@ -90,15 +76,13 @@ Where the cylinder capacity of the engine—
 
 (b) an additional fee for each 250 kg unladen weight or part thereof | 95
 
-7. | Motor cycle | 1320
+7. | Motor cycle | 1200
 
-8. | Trailer-for each 250 kg permitted gross vehicle weight or part thereof,
+8. | Trailer-for each 250 kg permitted gross vehicle weight or part thereof, excluding
 
-excluding any gross vehicle weight of the trailer imposed on the drawing
+any gross vehicle weight of the trailer imposed on the drawing vehicle | 30
 
-vehicle | 30
-
-9. | Motor tricycle | 1320
+9. | Motor tricycle | 1200
 
 10. | Invalid carriage | 12
 
@@ -108,7 +92,7 @@ vehicle | 30
 
 13. | Rickshaw | 50
 
-(18 of 1989 s. 3; 26 of 1990 s. 3; 40 of 1991 s. 8; L.N. 61 of 2001)
+(18 of 1989 s. 3; 26 of 1990 s. 3; 40 of 1991 s. 8)
 
 Permit and Certificate Fees
 
