@@ -4,246 +4,200 @@
 
 FORMS
 
-FORM 1 | [section 7(1)]
+FORM 1 | [s. 7(1)]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Application for Registration/Provisional Registration as a Physiotherapist
 
-(Chapter 359) PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY
-
-PROCEDURE) REGULATION Application for Registration/Provisional Registration as a Physiotherapist
-
-I . of
+I
 
 (name in both English and Chinese)
 
-. being
+of
 
 (correspondence or home address)
 
-qualified for registration as a physiotherapist under section 12(1)*(a)/(b)/(c)/section 15 of the Supplementary Medical Professions Ordinance apply for *registration/provisional registration as a physiotherapist and request that my name be placed on Part *Ia/Ib/II of the Register.
+being qualified for registration as a physiotherapist under section 12(1)*(a)/(b)/(c)/section 15 of the Supplementary Medical Professions Ordinance apply for *registration/provisional registration as a physiotherapist and request that my name be placed on Part *Ia/Ib/II of the Register.
 
-- 2. I hold the following qualifications (please state qualifications obtained in chronological order):
+2. I hold the following qualifications (please state qualifications obtained in chronological order):
 
-- Qualification | Issuing Authority | Date Issued
+Qualification | Issuing Authority | Date Issued
 
-- 3. I have the following professional experience (please state professional experience obtained in chronological order):
+3. I have the following professional experience (please state professional experience obtained in chronological order):
 
-- Post Title | Name of Organization/Company | Period
+Post Title | Name of Organization/Company | Period
 
-- From | To
+From | To
 
-- 4. My business address(es) *is/are as follows: (English) .
+4. My business address(es) *is/are as follows:
 
-- . (Chinese) .
+(English)
 
-- .
+(Chinese)
 
-- 5. My telephone numbers are . (Home) . (Office)
+5. My telephone numbers are ......................................... (Home) ......................................... (Office).
 
-- 6. I *+have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance. I declare that the information given in this application is correct to the best of my knowledge and belief.
+6. I *†have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance.
 
-- Signed at . | ｝ | .
+I declare that the information given in this application is correct to the best of my knowledge and belief.
 
-- the . day of . 19 . | (Signature of Applicant)
+Signed at | } | ....................................................
 
-- Before me,
+the .............. day of ............. 19 .......
 
-- . | .
+(Signature of Applicant)
 
-- (Name in block letters) | (Signature)
+Before me,
 
-- * Commissioner for Oaths/ Solicitor/Barrister/Part Ia Physiotherapist/
+(Name in block letters) | (Signature)
 
-- Registered Medical Practitioner.
+* Commissioner for Oaths/ Solicitor/Barrister/Part Ia Physiotherapist/ Registered Medical Practitioner.
 
-- Photograph of Applicant
+Photograph of Applicant
 
-- + Please supply details of conviction.
+† Please supply details of conviction. * Delete if inappropriate.
 
-- * Delete if inappropriate. (47 of 1997 s. 10)
+(47 of 1997 s. 10) __________
 
-FORM 2A | [section 9(1)]
+FORM 2A | [s. 9(1)]
 
-PHYSIOTHERAPISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
+PHYSIOTHERAPISTS BOARD HONG KONG
 
-(Chapter 359) Certificate of Registration
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Registration
 
-Number of Register : .
+Number of Register: .........................
 
-(ID No. : .)
+This is to certify that ..............................................................................
 
-This is to certify that . whose photograph appears hereon was on the . day of . 19 . admitted to Part Ia of the Register of Physiotherapists.
-
-Dated this . day of . 19 .
+whose photograph appears hereon was on the .......................... day of .................................... 19 ........... admitted to Part Ia of the Register of Physiotherapists. Dated this ......... day of ............. 19 .......
 
 Photograph
 
-.
+Secretary, Physiotherapists Board.
 
-Secretary,
+(L.N. 89 of 2004) __________
 
-Physiotherapists Board.
+FORM 2B | [s. 9(1)]
 
-FORM 2B | [section 9(1)]
+PHYSIOTHERAPISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359)
 
-PHYSIOTHERAPISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
+Certificate of Registration
 
-(Chapter 359) Certificate of Registration
+Number of Register: .........................
 
-Number of Register : .
+This is to certify that ..............................................................................
 
-(ID No. : .)
-
-This is to certify that . whose photograph appears hereon was on the . day of . 19 . admitted to Part Ib of the Register of Physiotherapists.
-
-Dated this . day of . 19 .
+whose photograph appears hereon was on the .......................... day of .................................... 19 ........... admitted to Part Ib of the Register of Physiotherapists. Dated this ......... day of ............. 19 .......
 
 Photograph
 
-.
+Secretary, Physiotherapists Board.
 
-Secretary,
+(L.N. 89 of 2004) __________
 
-Physiotherapists Board.
+FORM 2C | [s. 9(2)]
 
-FORM 2C | [section 9(2)]
+PHYSIOTHERAPISTS BOARD HONG KONG
 
-PHYSIOTHERAPISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Provisional Registration
 
-(Chapter 359) Certificate of Provisional Registration
+Number of Register: .........................
 
-Number of Register : .
+This is to certify that ..............................................................................
 
-(ID No. : .)
+whose photograph appears hereon was on the .......................... day of .................................... 19 ........... admitted to Part II of the Register of Physiotherapists subject to the under-mentioned conditions. Conditions imposed pursuant to section 15(3) of the Supplementary Medical Professions Ordinance─ Dated this ......... day of ............. 19 .......
 
-This is to certify that . whose photograph appears hereon was on the . day of . 19 . admitted to Part II of the Register of Physiotherapists subject to the under-mentioned conditions.
+Photograph
 
-- Conditions imposed pursuant to section 15(3) of the Supplementary Medical Professions Ordinance—
+Secretary, Physiotherapists Board.
 
-- Dated this . day of . 19 .
+(L.N. 89 of 2004) __________
 
-- Photograph
+FORM 3 | [s. 14]
 
-- .
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Particulars of a Company carrying on the Business of Practising Physiotherapy
 
-- Secretary,
+Presented by
 
-- Physiotherapists Board.
+(Name of Company)
 
-- FORM 3 | [section 14]
+of
 
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
+(Registered Business Address)
 
-- (Chapter 359)
+(Business Registration Certificate No.)
 
-- PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY
+Particulars of the names and addresses of all persons who are professionally qualified directors, other directors or managers of the above company in respect of the business of physiotherapy carried on by it at ...............................................................................................................................
 
-- PROCEDURE) REGULATION Particulars of a Company carrying on the
+under the name of
 
-- Business of Practising Physiotherapy
+Name in full | Position | Certificate of Registration No. and Date of Registration where Directors are registered | Part registered in | Residential address
 
-- Presented by .
+and of persons who practise physiotherapy in connection with the business of the said company in the above.
 
-- (Name of Company)
+Name in full | Residential address | Occupation | Qualifications | Certificate of Registration No. and Date of Registration | Part registered in | Duties performed
 
-- of .
+Dated this .......... day of ................... 19.........
 
-- (Registered Business Address)
+(Signature)
 
-- .
+(State whether director or manager or secretary)
 
-- (Business Registration Certificate No.)
+__________
 
-- Particulars of the names and addresses of all persons who are professionally qualified directors, other directors or managers of the above company in respect of the business of physiotherapy carried on by it at . . under the name of .
+FORM 4 | [s. 23(2)]
 
-- Name in full | Position | Certificate of Registration No. and Date of Registration where Directors are registered | Part registered in | Residential address
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Notice of Inquiry
 
-- and of persons who practise physiotherapy in connection with the business of the said company in the above.
+[Date]
 
-- Name in full | Residential address | Occupation | Qualifications | Certificate of Registration No. and Date of Registration | Part registered in | Duties performed
+Sir/Madam, On behalf of the Physiotherapists Board notice is hereby given to you that, in consequence of a complaint made against you to the Board/information received by the Board, an inquiry is to be held into the following charge(s) against you— (If the allegation relates to conviction) That you were on the ........ day of ............. 19 ...... at ................................................................................ ......................................................................... (specify court recording the conviction) convicted of ................................................................................. (set out particulars of the conviction in sufficient detail to identify the case).
 
-- Dated this . day of . 19 .
+or (If the charge relates to conduct) That you ............................................
 
-- (Signature) .
+(set out briefly the facts alleged); and that in relation to the facts alleged you have been guilty of unprofessional conduct. or (If the allegation relates to obtaining registration by fraud or misrepresentation) That you ...........................................................................
 
-- (State whether director
+(set out briefly the facts alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation. or (If the allegation is that the registered physiotherapist was not qualified, at the time of his registration, to be registered) That you .......................................................................................................................................
 
-- or manager or secretary)
+(set out briefly the facts alleged); and that in relation to the facts alleged you were not at the time of your registration qualified to be registered.
 
-- FORM 4 | [section 23(2)]
+or
 
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
+(If the allegation is that the registered physiotherapist has not complied with or is in breach of any condition of his registration or has failed to comply with the Ordinance) That you .............................................
 
-- (Chapter 359) PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY
+(set out briefly the facts alleged). or
 
-- PROCEDURE) REGULATION
+(If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance) That on the .......... day of ....................... 19 ......... you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas ..............................
 
-- Notice of Inquiry
+(set out briefly the facts alleged); and that in relation to the facts alleged your name should not be approved to be entered upon the register.
 
-- [Date]
+(Where there is more than one charge or allegation they are to be numbered consecutively).
 
-- Sir/Madam,
+Notice is further given to you that on .................... (day of the week) the ............... day of .............. 19 ......, a meeting of the Board will be held at .............................................................................., at ................. a.m./p.m. to consider the above-mentioned charge(s)/allegation(s) in a complaint against you, and to determine whether or not the Board should take any action against you under section ..................................... (state whether section 13 or 22) of the Supplementary Medical Professions Ordinance.
 
-- On behalf of the Physiotherapists Board notice is hereby given to you that, in consequence of a complaint made against you to the Board/information received by the Board, an inquiry is to be held into the following charge(s) against you—
+You are hereby invited to answer in writing the above-mentioned charge(s)/allegation(s) and also to appear before the Board at the place and time specified above, for the purpose of answering such charge(s)/allegation(s). You may appear in person or by counsel or solicitor. The Board has power, if you do not appear, to hear and decide upon the said charge(s)/allegation(s) in your absence.
 
-- (If the allegation relates to conviction) That you were on the . day of . 19 . at . . (specify court recording the conviction) convicted of . (set out particulars of the conviction in sufficient detail to identify the case).
+Any answer, admission, or other statement or communication which you may desire to make with respect to the said charge(s)/allegation(s) in a complaint should be addressed to the Secretary.
 
-- or
+If you desire to make any application that the inquiry should be postponed, you should send an application in writing to the Secretary as soon as may be, stating the grounds on which you desire a postponement. Any such application will be considered by the Chairman of the Board. A copy of the Physiotherapists (Registration and Disciplinary Procedure) Regulation is sent herewith for your information.
 
-- (If the charge relates to conduct) That you . . . . (set out briefly the facts alleged); and that in relation to the facts alleged you have been guilty of unprofessional conduct.
+Secretary, Physiotherapists Board.
 
-- or
+__________
 
-- (If the allegation relates to obtaining registration by fraud or misrepresentation) That you . . . (set out briefly the facts alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation.
+FORM 5 | [s. 42(2)]
 
-- or
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Summons to Witness
 
-- (If the allegation is that the registered physiotherapist was not qualified, at the time of his registration, to be registered) That you . . . . (set out briefly the facts alleged); and that in relation to the facts alleged you were not at the time of your registration qualified to be registered.
+In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance:
 
-- or
+And in the matter of (1) ....................................................................... To (2) .............................................................................................................
 
-- (If the allegation is that the registered physiotherapist has not complied with or is in breach of any condition of his registration or has failed to comply with the Ordinance) That you . . . . (set out briefly the facts alleged).
+You are hereby summoned to appear before the Physiotherapists Board at ......................................................................................................
 
-- or
+on the ................. day of ............ 19 .........., at ............. o’clock in the ........................................................... noon to give evidence touching the matter under inquiry (3) and also to bring with you and produce (4) .................................................................................................................................
 
-- (If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance) That on the . day of . 19 . you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas . . (set out briefly the facts alleged); and that in relation to the facts alleged your name should not be approved to be entered upon the register.
+Given under my hand this ............ day of ............. 19 .......
 
-- (Where there is more than one charge or allegation they are to be numbered consecutively). Notice is further given to you that on . (day of the week) the . day of . 19 ., a meeting of the Board will be held at . . , at . a.m./p.m. to consider the above-mentioned charge(s)/allegation(s) in a complaint against you, and to determine whether or not the Board should take any action against you under section . (state whether section 13 or 22) of the Supplementary Medical Professions Ordinance. You are hereby invited to answer in writing the above-mentioned charge(s)/allegation(s) and also to appear before the Board at the place and time specified above, for the purpose of answering such charge(s)/allegation(s). You may appear in person or by counsel or solicitor. The Board has power, if you do not appear, to hear and decide upon the said charge(s)/allegation(s) in your absence. Any answer, admission, or other statement or communication which you may desire to make with respect to the said charge(s)/allegation(s) in a complaint should be addressed to the Secretary. If you desire to make any application that the inquiry should be postponed, you should send an application in writing to the Secretary as soon as may be, stating the grounds on which you desire a postponement. Any such application will be considered by the Chairman of the Board. A copy of the Physiotherapists (Registration and Disciplinary Procedure) Regulation is sent herewith for your information.
+Chairman, Physiotherapists Board.
 
-- .
-
-- Secretary,
-
-- Physiotherapists Board.
-
-- FORM 5 | [section 42(2)]
-
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
-
-- (Chapter 359)
-
-- PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY
-
-- PROCEDURE) REGULATION Summons to Witness
-
-- In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance :
-
-- And in the matter of(1) . To(2) .
-
-- You are hereby summoned to appear before the Physiotherapists Board at . . on the . day of . 19 ., at . o’clock in the . noon to give evidence touching the matter under inquiry(3) and also to bring with you and produce(4) . .
-
-- Given under my hand this . day of . 19 .
-
-- .
-
-- Chairman,
-
-- Physiotherapists Board.
-
-- Note : (1) Insert name of registered physiotherapist.
-
-  - (2) Insert name and address of witness.
-
-  - (3) Delete if not required.
-
-  - (4) Specify the books, documents or other things to be produced.
+Note: | (1)Insert name of registered physiotherapist. (2)Insert name and address of witness. (3)Delete if not required. (4)Specify the books, documents or other things to be produced.
