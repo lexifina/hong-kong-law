@@ -1,0 +1,5 @@
+CONSUMER GOODS SAFETY REGULATION
+
+(Cap. 456 section 30(1)(a))
+
+[1 April 1998] L.N. 182 of 1998
