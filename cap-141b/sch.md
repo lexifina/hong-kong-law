@@ -48,23 +48,25 @@ Hospital(s) attended: | Hospital/A & E Number:
 
 Disease (✓) below Suspected/Confirmed on _/_/_.
 
-Acute Poliomyelitis | Leprosy | Rubella
+Acute Poliomyelitis | Leprosy | Scarlet Fever
 
-Amoebic Dysentery | Malaria | Scarlet Fever
+Amoebic Dysentery | Malaria | Severe Acute Respiratory Syndrome
 
-Bacillary Dysentery | Measles | Severe Acute Respiratory Syndrome
+Bacillary Dysentery | Measles | Tetanus
 
-Chickenpox | Meningococcal Infections | Tetanus
+Chickenpox | Meningococcal Infections | Typhoid Fever
 
-Cholera | Mumps | Typhoid Fever
+Cholera | Mumps | Typhus
 
-Dengue Fever | Paratyphoid Fever | Typhus
+Dengue Fever | Paratyphoid Fever | Viral Hepatitis
 
-Diphtheria | Plague | Viral Hepatitis
+Diphtheria | Plague | Whooping Cough
 
-Food Poisoning | Rabies | Whooping Cough
+Food Poisoning | Rabies | Yellow Fever
 
-Legionnaires’ Disease | Relapsing Fever | Yellow Fever
+Influenza A (H5) | Relapsing Fever
+
+Legionnaires’ Disease | Rubella
 
 Notified under the Prevention of the Spread of Infectious Diseases Regulations by
 
@@ -78,4 +80,4 @@ Telephone Number: _ | _
 
 Remarks:
 
-(L.N. 81 of 1994; L.N. 347 of 1998; L.N. 80 of 2003)
+(L.N. 81 of 1994; L.N. 347 of 1998; L.N. 80 of 2003; L.N. 15 of 2004)
