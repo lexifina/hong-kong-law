@@ -1,0 +1,5 @@
+ADMINISTRATION OF TRUST FUNDS RULES
+
+(Cap. 29, section 76)
+
+[27 July 1934]
