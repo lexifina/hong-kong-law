@@ -12,9 +12,9 @@ Item | Ordinance | Decision
 
 4. | Factories and Industrial Undertakings Ordinance (Cap. 59) | (a) An exemption by the Commissioner for Labour under section 7(4) of an industrial undertaking from any regulation. (b) An order by the Commissioner for Labour under section 7(4), for an industrial undertaking to adopt special precautions in addition to any precautions required by any regulation. (c) Under section 9A— (i) the issue by the Commissioner for Labour of a prohibition notice in respect of a notifiable workplace; (ii) a refusal by the Commissioner for Labour to cancel a prohibition notice; (iii) the giving by the Commissioner for Labour of any direction upon the cancellation of a prohibition notice. (d) (Repealed 39 of 1997 s. 49)
 
-5. | Quarries (Safety) Regulations (Cap. 59 sub. leg.) | (a) A refusal by the Commissioner for Labour to approve any person as a supervisor or deputy supervisor under regulation 4(1) or 6(1). (b) A withdrawal by the Commissioner for Labour of his approval of a supervisor or deputy supervisor under regulation 10(1).
+5. | Quarries (Safety) Regulations (Cap. 59 sub. leg. F) | (a) A refusal by the Commissioner for Labour to approve any person as a supervisor or deputy supervisor under regulation 4(1) or 6(1). (b) A withdrawal by the Commissioner for Labour of his approval of a supervisor or deputy supervisor under regulation 10(1).
 
-6. | Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations (Cap. 59 sub. leg.) | (a) A refusal by the Commissioner for Labour to register a person as a safety officer under regulation 7. (b) The cancellation by the Commissioner for Labour of a person’s registration as a safety officer under regulation 9. (c) The suspension by the Commissioner for Labour of a person’s registration as a safety officer under regulation 10. (d) A refusal by the Commissioner for Labour to renew or revalidate a person’s registration as a safety officer under regulation 7B. (Added L.N. 100 of 2002)
+6. | Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations (Cap. 59 sub. leg. Z) | (a) A refusal by the Commissioner for Labour to register a person as a safety officer under regulation 7. (b) The cancellation by the Commissioner for Labour of a person’s registration as a safety officer under regulation 9. (c) The suspension by the Commissioner for Labour of a person’s registration as a safety officer under regulation 10. (d) A refusal by the Commissioner for Labour to renew or revalidate a person’s registration as a safety officer under regulation 7B. (Added L.N. 100 of 2002)
 
 7. | Weights and Measures Ordinance (Cap. 68) | A decision of the Commissioner, as defined in section 2, or of an authorized officer which is taken in the exercise or performance of any function under the Ordinance.
 
@@ -34,17 +34,17 @@ Item | Ordinance | Decision
 
 15. | Massage Establishments Ordinance (Cap. 266) | A decision of the licensing authority under section 6, 7, 8 or 9.
 
-16. | Grant Schools Provident Fund Rules (Cap. 279 sub. leg.) | A question of interpretation or application of the Rules.
+16. | Grant Schools Provident Fund Rules (Cap. 279 sub. leg. C) | A question of interpretation or application of the Rules.
 
-17. | Subsidized Schools Provident Fund Rules (Cap. 279 sub. leg.) | A decision of the Board under the Rules.
+17. | Subsidized Schools Provident Fund Rules (Cap. 279 sub. leg. D) | A decision of the Board under the Rules.
 
 18. | Mining Ordinance (Cap. 285) | The cancellation of an Authorized Buyer’s Licence under section 41.
 
-19. | Mining (General) Regulations (Cap. 285 sub. leg.) | A decision of the Commissioner of Mines under regulation 30(4A)(a) specifying the rate per tonne at which royalty shall be payable in respect of minerals and the period for which it shall be payable.
+19. | Mining (General) Regulations (Cap. 285 sub. leg. A) | A decision of the Commissioner of Mines under regulation 30(4A)(a) specifying the rate per tonne at which royalty shall be payable in respect of minerals and the period for which it shall be payable.
 
 20. | Dangerous Goods Ordinance (Cap. 295) | A decision under section 9 of an officer authorized under the Ordinance to issue a licence— (a) to refuse to grant a licence; (b) to refuse to renew a licence; or (c) to revoke a licence.
 
-21. | Dangerous Goods (General) Regulations (Cap. 295 sub. leg.) | Prohibiting or imposing conditions on the continued use of a storage tank under regulation 127.
+21. | Dangerous Goods (General) Regulations (Cap. 295 sub. leg. B) | Prohibiting or imposing conditions on the continued use of a storage tank under regulation 127.
 
 22. | Business Registration Ordinance (Cap. 310) | (a) The service of a notice under section 3(4) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business. (b) The service of a notice under section 3(4AA) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business at a branch of a business. (c) The service of a notice under section 6(4D) by the Commissioner of Inland Revenue requesting a person to make an application for registration under a different name. (Amended 3 of 1999 s. 19) (d) The service of a notice under section 9(5) by the Commissioner of Inland Revenue that an exemption is not granted. (Added 23 of 2002 s. 14)
 
@@ -52,7 +52,7 @@ Item | Ordinance | Decision
 
 24. | Animals (Control of Experiments) Ordinance (Cap. 340) | A refusal to issue a licence, endorsement or permit under section 7, 8, 9, 10 or 14.
 
-25. | Chinese Permanent Cemeteries Rules (Cap. 1112 sub. leg.) | A decision of the Board of Management of the Chinese Permanent Cemeteries not to withdraw a notice in rule 12(2) regarding reversion of a subscriber lot to the Board. Note: The Board of Management of the Chinese Permanent Cemeteries is specified for the purpose of section 22(5) of this Ordinance.
+25. | Chinese Permanent Cemeteries Rules (Cap. 1112 sub. leg. A) | A decision of the Board of Management of the Chinese Permanent Cemeteries not to withdraw a notice in rule 12(2) regarding reversion of a subscriber lot to the Board. Note: The Board of Management of the Chinese Permanent Cemeteries is specified for the purpose of section 22(5) of this Ordinance.
 
 26. | Sewage Services Ordinance (Cap. 463) | A decision of the Drainage Authority under the Ordinance. (Added 105 of 1994 s. 15)
 
@@ -76,38 +76,40 @@ Item | Ordinance | Decision
 
 39. | Volunteer and Naval Volunteer Pensions Ordinance (Cap. 202) | A decision in a review under section 22. (Added 56 of 1997 s. 7)
 
-40. | Child Care Services Regulations (Cap. 243 sub. leg.) | A decision of the Director of Social Welfare under regulation 4 refusing an application for inclusion in a register or removing the name of a person from a register. (Added L.N. 272 of 1997. Amended 32 of 2000 s. 37)
+40. | Child Care Services Regulations (Cap. 243 sub. leg. A) | A decision of the Director of Social Welfare under regulation 4 refusing an application for inclusion in a register or removing the name of a person from a register. (Added L.N. 272 of 1997. Amended 32 of 2000 s. 37)
 
 41. | Prevention of Copyright Piracy Ordinance (Cap. 544) | A decision of the Commissioner of Customs and Excise under section 11 or 12 of the Ordinance. (Added 22 of 1998 s. 43)
 
 42. | Education Ordinance (Cap. 279) | (a) An attendance order made under section 74(1). (b) A variation of an attendance order made under section 74(2). (Added 8 of 2001 s. 31)
 
-44. | Dangerous Dogs Regulation (Cap. 167 sub. leg.) | A direction by an authorized officer under section 14 of the Regulation. (Added L.N. 185 of 2000)
+44. | Dangerous Dogs Regulation (Cap. 167 sub. leg. D) | A direction by an authorized officer under section 14 of the Regulation. (Added L.N. 185 of 2000)
 
 45. | Factories and Industrial Undertakings (Safety Management) Regulation (Cap. 59 sub. leg. AF) | (a) A decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. (b) A decision of the Commissioner for Labour under section 24(1) to require the appointment of a new safety review officer. (c) A decision of the disciplinary board under section 29(2) to reprimand a registered person, cancel the registration of a registered person or suspend the registration of a registered person. (Added L.N. 298 of 1999)
 
-46. | Port Control (Cargo Working Areas) Regulations (Cap. 81 sub. leg.) | A decision of the Director or the supervisor under regulation 4A(4), 5B, 6AA, 7, 7A, 7B, 7C, 7D, 7E, 13 or 21. (Added L.N. 280 of 1999)
+46. | Port Control (Cargo Working Areas) Regulations (Cap. 81 sub. leg. A) | A decision of the Director or the supervisor under regulation 4A(4), 5B, 6AA, 7, 7A, 7B, 7C, 7D, 7E, 13 or 21. (Added L.N. 280 of 1999)
+
+47. | Karaoke Establishments Ordinance (Cap. 573) | A decision of the Secretary for Home Affairs or the Director of Food and Environmental Hygiene (as the case may be) under section 5, 6, 8, 9 or 10. (Added 22 of 2002 s. 22)
 
 48. | Drug Dependent Persons Treatment and Rehabilitation Centres (Licensing) Ordinance (Cap. 566) | A determination or decision of the Director of Social Welfare under section 6(2)(b), 8(3)(b), 9(3)(b) or 14. (Added 10 of 2001 s. 33)
 
 49. | Road Traffic Ordinance (Cap. 374) | A decision of the Commissioner of Police under section 55(3). (Added 3 of 2002 s. 17)
 
-50. | Dutiable Commodities Regulations (Cap. 109 sub. leg.) | A forfeiture of security under regulation 27(2). (Added 23 of 2002 s. 14)
+50. | Dutiable Commodities Regulations (Cap. 109 sub. leg A) | A forfeiture of security under regulation 27(2). (Added 23 of 2002 s. 14)
 
 51. | Security and Guarding Services Ordinance (Cap. 460) | A decision under section 14(5), 15(3), 16(4), 18(4), 21(2), 23(4), 24(4), 24A(13) or 25(4). (Added 23 of 2002 s. 14)
 
 52. | Merchant Shipping (Seafarers) Ordinance (Cap. 478) | A decision of the Superintendent of the Mercantile Marine Office— (a) to refuse to grant a permit; (b) to impose any condition under section 52(3); (c) to refuse to approve any person for the purposes of section 57(1); or (d) to cancel a permit. (Added 23 of 2002 s. 14)
 
-53. | Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority under section 8(2) or 10(2) to refuse to issue a certificate or licence. (Added 23 of 2002 s. 14)
+53. | Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J) | A decision of the Seafarers’ Authority under section 8(2) or 10(2) to refuse to issue a certificate or licence. (Added 23 of 2002 s. 14)
 
-54. | Merchant Shipping (Seafarers) (Tankers-Officers and Ratings) Regulation (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority to refuse to make an entry referred to in section 5(2) or (3) in an employment registration book, service record book or discharge book. (Added 23 of 2002 s. 14)
+54. | Merchant Shipping (Seafarers) (Tankers-Officers and Ratings) Regulation (Cap. 478 sub. leg. K) | A decision of the Seafarers’ Authority to refuse to make an entry referred to in section 5(2) or (3) in an employment registration book, service record book or discharge book. (Added 23 of 2002 s. 14)
 
-55. | Merchant Shipping (Seafarers) (Engine Room Watch Ratings) Regulation (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority to refuse to issue an Engine Room Watch Rating Certificate under section 5(1). (Added 23 of 2002 s. 14)
+55. | Merchant Shipping (Seafarers) (Engine Room Watch Ratings) Regulation (Cap. 478 sub. leg. V) | A decision of the Seafarers’ Authority to refuse to issue an Engine Room Watch Rating Certificate under section 5(1). (Added 23 of 2002 s. 14)
 
-56. | Merchant Shipping (Seafarers) (Navigational Watch Ratings) Regulation (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority to refuse to issue a Navigational Watch Rating Certificate under section 5(1). (Added 23 of 2002 s. 14)
+56. | Merchant Shipping (Seafarers) (Navigational Watch Ratings) Regulation (Cap. 478 sub. leg. W) | A decision of the Seafarers’ Authority to refuse to issue a Navigational Watch Rating Certificate under section 5(1). (Added 23 of 2002 s. 14)
 
-57. | Merchant Shipping (Seafarers) (Certificates of Competency as A.B.) Rules (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority— (a) under section 6(3) to refuse an application for the grant of a certificate of competency as A.B.; or (b) under section 10 (whether to confirm, vary or reverse the decision concerned of the examiner or to substitute another decision for that decision). (Added 23 of 2002 s. 14)
+57. | Merchant Shipping (Seafarers) (Certificates of Competency as A.B.) Rules (Cap. 478 sub. leg. Y) | A decision of the Seafarers’ Authority— (a) under section 6(3) to refuse an application for the grant of a certificate of competency as A.B.; or (b) under section 10 (whether to confirm, vary or reverse the decision concerned of the examiner or to substitute another decision for that decision). (Added 23 of 2002 s. 14)
 
-58. | Merchant Shipping (Seafarers) (Certificates of Proficiency in Survival Craft, Rescue Boats and Fast Rescue Boats) Rules (Cap. 478 sub. leg.) | A decision of the Seafarers’ Authority— (a) to refuse to issue a certificate of proficiency in survival craft and rescue boats under section 4; (b) to refuse to issue a certificate of proficiency in fast rescue boats under section 4A; or (c) to cancel a certificate of proficiency in survival craft and rescue boats or a certificate of proficiency in fast rescue boats under section 7(2). (Added 23 of 2002 s. 14)
+58. | Merchant Shipping (Seafarers) (Certificates of Proficiency in Survival Craft, Rescue Boats and Fast Rescue Boats) Rules (Cap. 478 sub. leg. Z) | A decision of the Seafarers’ Authority— (a) to refuse to issue a certificate of proficiency in survival craft and rescue boats under section 4; (b) to refuse to issue a certificate of proficiency in fast rescue boats under section 4A; or (c) to cancel a certificate of proficiency in survival craft and rescue boats or a certificate of proficiency in fast rescue boats under section 7(2). (Added 23 of 2002 s. 14)
 
 59. | (Repealed 23 of 2002 s. 14)
