@@ -64,4 +64,20 @@ Futures Contract | Trading Limit | Position Limit
 
 30. One-Month Hong Kong Interbank Offered Rate futures contract | Nil | 5000 open contracts for any one contract month and 20000 open contracts for all contract months.
 
-(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997;L.N. 426 of 1997; L.N. 331 of 1998)
+31. Hang Seng Index futures and options contracts | 10000 long or short position delta limit for all contract months combined | 250 open futures contracts for any one contract month and 250 open options contracts for any one series.
+
+32. Hang Seng Finance Sub-Index futures contracts | 300 open contracts for any one contract month | 50 open contracts for any one contract month.
+
+33. Hang Seng Utilities Sub-Index futures contracts | 300 open contracts for any one contract month | 50 open contracts for any one contract month.
+
+34. Hang Seng Commerce and Industry Sub-Index futures contracts | 300 open contracts for any one contract month | 50 open contracts for any one contract month.
+
+35. Hang Seng Properties Sub-Index futures contracts | 250 open contracts for any one contract month | 50 open contracts for any one contract month.
+
+36. Hang Seng Properties Sub-Index options contracts | 250 open contracts for any one series | 50 open contracts for any one series.
+
+37. Hang Seng China Enterprises Index futures contracts | 6000 open contracts for any one contract month | 250 open contracts for any one contract month.
+
+38. Hang Seng China Enterprises Index options contracts | 6000 open contracts for any one series | 250 open contracts for any one series.
+
+(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999)
