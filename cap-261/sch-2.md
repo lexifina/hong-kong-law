@@ -8,9 +8,7 @@ The members of the Authority shall be—
 
 - (a) the following persons—
 
-  - (i) the Vice-Chancellor, President or other chief executive officer of each university established in Hong Kong by enactment, or his representative; (Amended 27 of 1995 s. 8)
-
-  - (ii)-(iii) (Repealed L.N. 647 of 1994)
+  - (i) (Repealed L.N. 64 of 2004) (ii)-(iii) (Repealed L.N. 647 of 1994)
 
   - (iv) (Repealed 23 of 2002 s. 23)
 
@@ -22,17 +20,23 @@ The members of the Authority shall be—
 
   - (viii) the Secretary General of the Authority appointed under section 7(2)(e) of this Ordinance who shall be the chief executive of the Authority; (Amended 23 of 2002 s. 23)
 
+- (aa) 2 persons nominated by the Heads of Universities Committee; (Added L.N. 64 of 2004)
+
 - (b) the following persons who shall be appointed by the Chief Executive—
 
   - (i) (Repealed 3 of 2003 s. 23)
 
-  - (ii) 1 person experienced in teacher training in Hong Kong;
+  - (ii) (Repealed L.N. 64 of 2004)
 
-  - (iii) 5 persons who are principals of registered schools providing secondary education within the meaning of the Education Ordinance (Cap. 279);
+  - (iii) 3 persons who are principals of registered schools providing secondary education within the meaning of the Education Ordinance (Cap. 279); (Amended L.N. 64 of 2004)
 
-  - (iv) 3 persons who are registered teachers in registered schools providing secondary education within the meaning of the Education Ordinance (Cap. 279);
+  - (iiia) 1 person who is a principal of a registered school providing primary education within the meaning of the Education Ordinance (Cap. 279); (Added L.N. 64 of 2004)
 
-  - (v) 3 persons experienced in commerce, industry or a profession in Hong Kong;
+  - (iv) 1 person who is a registered teacher in a registered school providing secondary education within the meaning of the Education Ordinance (Cap. 279); (Amended L.N. 64 of 2004)
+
+  - (v) 2 persons experienced in commerce, industry or a profession in Hong Kong; (Amended L.N. 64 of 2004)
+
+  - (vi) 1 person who is able, in the opinion of the Chief Executive, to represent the interests of parents of pupils in Hong Kong; (Added L.N. 64 of 2004)
 
 - (c) such other persons, not exceeding 3, as the Chief Executive may appoint.
 
