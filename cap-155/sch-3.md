@@ -98,7 +98,7 @@ CAPITAL ADEQUACY RATIO
 
   - (a) its paid-up ordinary share capital other than any shares issued by the authorized institution through capitalising any property revaluation reserves referred to in subparagraph (h); (Amended L.N. 336 of 1996)
 
-  - (b) its paid-up, irredeemable, non-cumulative preference shares, that is to say, shares that are irredeemable or that may be redeemed only with the prior consent of the Monetary Authority; (Amended L.N. 82 of 1993)
+  - (b) its paid-up irredeemable non-cumulative preference shares, that is to say, shares that are irredeemable or that may be redeemed only with the prior consent of the Monetary Authority; (Amended L.N. 82 of 1993; L.N. 273 of 2000)
 
   - (c) its share premium account;
 
@@ -106,7 +106,7 @@ CAPITAL ADEQUACY RATIO
 
   - (e) its profit and loss account including its current year’s profit or loss;
 
-  - (f) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, minority interests arising on such consolidation in the equity of its subsidiaries: (Amended 95 of 1991 s. 52)
+  - (f) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, minority interests arising on such consolidation in the equity of its subsidiaries, provided that the minority interests arising on consolidation in the paid-up irredeemable non-cumulative preference shares of all its subsidiaries which are special purpose vehicles shall not exceed 15% of its Core Capital (including such minority interests) in total: (Amended 95 of 1991 s. 52; L.N. 273 of 2000)
 
     - Provided that the amount to be included as Core Capital shall be determined by deducting therefrom the book value calculated in Hong Kong dollars of the goodwill of the institution;
 
@@ -194,9 +194,13 @@ CAPITAL ADEQUACY RATIO
 
     - (B) the total amount included under this subparagraph and subparagraph (m) shall not exceed in total, 50% of the total of the Core Capital; and
 
-  - (o) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, any minority interests arising on such consolidation in the paid-up irredeemable cumulative preference shares and paid-up term preference shares of its subsidiaries: (Amended 95 of 1991 s. 52)
+  - (o) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, any minority interests arising on such consolidation in—
 
-    - Provided that the amount to be included as Supplementary Capital shall not exceed the total of the amount determined as Core Capital,
+    - (i) the paid-up irredeemable cumulative preference shares and paid-up term preference shares of its subsidiaries; and
+
+    - (ii) the paid-up irredeemable non-cumulative preference shares of all its subsidiaries which are special purpose vehicles in excess of the amount permitted for inclusion as its Core Capital: (Amended 95 of 1991 s. 52; L.N. 273 of 2000)
+
+      - Provided that the amount to be included as Supplementary Capital shall not exceed the total of the amount determined as Core Capital,
 
 - and by deducting therefrom the sum calculated in Hong Kong dollars of the book value of—
 
