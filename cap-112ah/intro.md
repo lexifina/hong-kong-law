@@ -1,0 +1,5 @@
+RATE OF DEDUCTIBLE INTEREST NOTICE
+
+(Cap. 112, section 16(2)(b))
+
+[1 December 2002]
