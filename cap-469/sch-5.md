@@ -34,28 +34,40 @@ AMOUNT OF COMPENSATION
 
   - (d) any overtime payments or other special remuneration for work done, whether by way of bonus, allowance or otherwise, if of constant character or for work habitually performed; and
 
-  - (e) tips if the employment be of such a nature that the habitual giving or receiving thereof is open and well known and is recognized by the employer,
+  - (e) tips if the employment be of such a nature that the habitual giving or receiving thereof is open and well known and is recognized by the employer, but do not include—
 
-- but do not include—
+    - (i) remuneration for intermittent overtime;
 
-  - (i) remuneration for intermittent overtime;
+    - (ii) casual payments of a non-recurrent nature;
 
-  - (ii) casual payments of a non-recurrent nature;
+    - (iii) the value of a travelling allowance or a travelling concession;
 
-  - (iii) the value of a travelling allowance or a travelling concession;
+    - (iv) a contribution paid by the employer of a claimant towards any pension or provident fund; or
 
-  - (iv) a contribution paid by the employer of a claimant towards any pension or provident fund; or
-
-  - (v) a sum paid to a claimant to cover any special expenses entailed on him by the nature of his employment.
+    - (v) a sum paid to a claimant to cover any special expenses entailed on him by the nature of his employment.
 
 - 3. For the purpose of this Schedule—
 
   - (a) if a claimant can provide documentary evidence to the satisfaction of the Board concerning the earnings received by him as remuneration from his employer or employers in respect of his employment for 12 months in aggregate immediately preceding the relevant date of application in noisy occupations in Hong Kong, the monthly earnings of the claimant are the average monthly earnings for those 12 months;
 
-  - (b) if a claimant cannot provide the documentary evidence as required by paragraph (a) and he is entitled to compensation by virtue of his fulfilling the condition in section 14(2)(b)(i) of this Ordinance but not section 14(2)(b)(ii) of this Ordinance, the monthly earnings of the claimant are the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the commencement of Part V of this Ordinance;
+  - (b) if a claimant cannot provide the documentary evidence as required by paragraph (a) and he is entitled to compensation by virtue of his fulfilling the condition in section 14(2)(b)(i) of this Ordinance but not section 14(2)(b)(ii) of this Ordinance or he is entitled to compensation by virtue of section 48(1) of this Ordinance, the monthly earnings of the claimant are, subject to paragraph (ba), the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the commencement of Part V of this Ordinance; (Amended 5 of 1998 s. 20)
+
+  - (ba) if a claimant referred to in paragraph (b) has been employed at any time beginning on the commencement of Part V of this Ordinance under a continuous contract in any noisy occupation in Hong Kong, the monthly earnings of the claimant are the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the commencement of sections 1 to 20 of the amending Ordinance; (Added 5 of 1998 s. 20)
 
   - (c) in any other case, the monthly earnings of a claimant are the median monthly employment earnings of the total employed population of Hong Kong published by the Census and Statistics Department for the quarter immediately before the relevant date of application.
 
+- 3A. Section 3(ba) shall only apply to an application for compensation made on or after the commencement of sections 1 to 20 of the amending Ordinance. (Added 5 of 1998 s. 20)
+
+- 3B. For the purposes of computing a claimant’s employment for 12 months in aggregate under section 3(a), the claimant’s absence from work by reason of—
+
+  - (a) the claimant’s taking any period of maternity leave under section 12 of the Employment Ordinance (Cap. 57);
+
+  - (b) the claimant’s being unfit therefor on account of injury or sickness; or
+
+  - (c) the claimant’s injury or his suffering from an occupational disease in respect of which compensation is payable in accordance with the Employees’ Compensation Ordinance (Cap. 282),
+
+- shall not be counted towards the 12-month period in aggregate if the period or periods of absence from work amount to 30 consecutive days or more. (Added 5 of 1998 s. 20)
+
 - 4.
 
-  - In this Schedule, “relevant date of application” (提出申請的有關日期) means the date of an application for compensation under section 15of this Ordinance by a claimant and pursuant to that application compensation is payable or was paid to the claimant.
+  - In this Schedule, “relevant date of application” (提出申請的有關日期) means the date of an application for compensation under section 15 of this Ordinance by a claimant and pursuant to that application compensation is payable or was paid to the claimant.

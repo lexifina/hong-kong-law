@@ -1,103 +1,57 @@
-# Schedule 3
+# SCHEDULE 3
 
-(sections 2 & 39) NOISY OCCUPATIONS A noisy occupation is an occupation involving-
+[ss. 2 & 39]
 
-(a) the use of power driven grinding tools on metal or on billets
+NOISY OCCUPATIONS
 
-of metal or blooms, or work wholly or mainly in the immediate
+A noisy occupation is an occupation involving—
 
-vicinity of those tools whilst they are being so used;
+- (a) the use of power driven grinding tools on metal or on billets of metal or blooms, or work wholly or mainly in the immediate vicinity of those tools whilst they are being so used;
 
-(b) the use of power driven percussive tools on metal or on billets
+- (b) the use of power driven percussive tools on metal or on billets of metal or blooms, or work wholly or mainly in the immediate vicinity of those tools whilst they are being so used;
 
-of metal or blooms, or work wholly or mainly in the immediate
+- (c) the use of power driven grinding, chiselling, cutting or percussive tools on rocks, concrete or marble, or work wholly or mainly in the immediate vicinity of those tools whilst they are being so used;
 
-vicinity of those tools whilst they are being so used;
+- (d) work wholly or mainly in the immediate vicinity of plant (excluding power press plant) engaged in the forging (including drop stamping) of metal by means of closed or open dies or drop hammers;
 
-(c) the use of power driven grinding, chiselling, cutting or
+- (e) work in textile manufacturing where the work is undertaken wholly or mainly in rooms or sheds in which there are machines engaged in weaving man-made or natural (including mineral) fibres or in the high speed false twisting of fibres;
 
-percussive tools on rocks, concrete or marble, or work wholly
+- (f) the use of, or work wholly or mainly in the immediate vicinity of, machines engaged in cutting, shaping or cleaning metal nails or screws;
 
-or mainly in the immediate vicinity of those tools whilst they
+- (g) the use of, or work wholly or mainly in the immediate vicinity of, plasma spray guns engaged in the deposition of metal;
 
-are being so used;
+- (h) the use of, or work wholly or mainly in the immediate vicinity of, any of the following machines: multi-cutter moulding machines, planing machines, automatic or semi-automatic lathes, multiple cross-cut machines, automatic shaping machines, double-end tenoning machines, vertical spindle moulding machines (including high-speed routing machines), edge banding machines, bandsawing machines with a blade width of not less than 75 mm and circular sawing machines;
 
-(d) work wholly or mainly in the immediate vicinity of plant
+- (i) the use of chain saws;
 
-(excluding power press plant) engaged in the forging (including
+- (j) the use of, or work wholly or mainly in the immediate vicinity of, machines engaged in percussive pile or metal plank driving on construction sites;
 
-drop stamping) of metal by means of closed or open dies or drop
+- (k) work wholly or mainly in the immediate vicinity of abrasive blasting operations;
 
-hammers;
+- (l) the use of, or work wholly or mainly in the immediate vicinity of, machines engaged in grinding of glass;
 
-(e) work in textile manufacturing where the work is undertaken
+- (m) work wholly or mainly in the immediate vicinity of machines engaged in crushing or screening of rocks or stone aggregate;
 
-wholly or mainly in rooms or sheds in which there are machines
+- (n) the use of, or work wholly or mainly in the immediate vicinity of, machines engaged in granulating of plastic materials;
 
-engaged in weaving man-made or natural (including mineral)
+- (o) work wholly or mainly in the immediate vicinity of machines or hand tools engaged in descaling of ships;
 
-fibres or in the high speed false twisting of fibres;
+- (p) work wholly or mainly in the immediate vicinity of internal combustion engines or turbines or pressurized fuel burners or jet engines; (Amended 5 of 1998 s. 18)
 
-(f) the use of, or work wholly or mainly in the immediate vicinity
+- (q) work wholly or mainly in the immediate vicinity of car body repair, or of making metal articles by manual hammering; (Amended 5 of 1998 s. 18)
 
-of, machines engaged in cutting, shaping or cleaning metal
+- (r) the use of, or work wholly or mainly in the immediate vicinity of, machines engaged in extruding of plastic materials; (Added 5 of 1998 s. 18)
 
-nails or screws;
+- (s) the use of paper corrugating machines, or work wholly or mainly in the immediate vicinity of those machines whilst they are being so used; (Added 5 of 1998 s. 18)
 
-(g) the use of, or work wholly or mainly in the immediate vicinity
+- (t) work wholly or mainly in the immediate vicinity of bleaching and dyeing of fabric involving machines using pressurized steam; (Added 5 of 1998 s. 18)
 
-of, plasma spray guns engaged in the deposition of metal;
+- (u) work wholly or mainly in the immediate vicinity of glass-bottling lines; (Added 5 of 1998 s. 18)
 
-(h) the use of, or work wholly or mainly in the immediate vicinity
+- (v) work wholly or mainly in the immediate vicinity of metal-can bottling lines; (Added 5 of 1998 s. 18)
 
-of, any of the following machines: multi-cutter moulding
+- (w) the use of paper folding machines, or work wholly or mainly in the immediate vicinity of those machines whilst they are being so used; (Added 5 of 1998 s. 18)
 
-machines, planing machines, automatic or semi-automatic
+- (x) the use of high speed web-fed offset printing machines, or work wholly or mainly in the immediate vicinity of those machines whilst they are being so used; or (Added 5 of 1998 s. 18)
 
-lathes, multiple cross-cut machines, automatic shaping machines,
-
-double-end tenoning machines, vertical spindle moulding machines
-
-(including high-speed routing machines), edge banding machines,
-
-bandsawing machines with a blade width of not less than 75 mm
-
-and circular sawing machines;
-
-(i) the use of chain saws;
-
-(j) the use of, or work wholly or mainly in the immediate vicinity
-
-of, machines engaged in percussive pile or metal plank driving
-
-on construction sites;
-
-(k) work wholly or mainly in the immediate vicinity of abrasive
-
-blasting operations;
-
-(l) the use of, or work wholly or mainly in the immediate vicinity
-
-of, machines engaged in grinding of glass;
-
-(m) work wholly or mainly in the immediate vicinity of machines
-
-engaged in crushing or screening of rocks or stone aggregate;
-
-(n) the use of, or work wholly or mainly in the immediate vicinity
-
-of, machines engaged in granulating of plastic materials;
-
-(o) work wholly or mainly in the immediate vicinity of machines or
-
-hand tools engaged in descaling of ships;
-
-(p) work wholly or mainly in the immediate vicinity of internal
-
-combustion engines or turbines or pressurized fuel burners or
-
-jet engines; or
-
-(q) work wholly or mainly in the immediate vicinity of car body
-
-repair, or of making metal articles by manual hammering.
+- (y) work wholly or mainly in the immediate vicinity of gun-firing operation. (Added 5 of 1998 s. 18)
