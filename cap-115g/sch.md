@@ -4,7 +4,7 @@
 
 - 1. (Repealed L.N. 143 of 1992)
 
-- 2. Pillar Point Vietnamese Refugee Centre, being the area near Tuen Mun outlined in red and coloured green on a plan numbered SRHK-OT87/140A signed by the Secretary for Security and dated 12 October 1988 copies of which are deposited in the offices of the Security Branch of the Government Secretariat, Central Government Offices, Hong Kong and at the Pillar Point Vietnamese Refugee Centre. (L.N. 255 of 1989)
+- 2. (Repealed L.N. 201 of 2000)
 
 - 3. (Repealed L.N. 74 of 1996)
 
