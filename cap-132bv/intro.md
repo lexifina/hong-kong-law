@@ -1,0 +1,5 @@
+SLAUGHTERHOUSES (URBAN COUNCIL) BYLAWS
+
+(Chapter 132 section 77)
+
+[19 October 1990]
