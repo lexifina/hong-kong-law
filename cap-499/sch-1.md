@@ -184,7 +184,7 @@ In this Ordinance, unless the context otherwise requires—
 
 - “road tunnel” (行車隧道) means a private or public tunnel and its portal area within the meaning of the Road Tunnels (Government) Ordinance (Cap. 368);
 
-- “Secretary” means the Secretary for Planning, Environment and Lands;
+- “Secretary” (局長) means the Secretary for the Environment and Food; (Replaced 78 of 1999 s. 7)
 
 - “service reservoir” (配水庫) means a place or structure where water from a water treatment works is stored for delivery to other service reservoirs for distribution to the consumers of a water supply district;
 
@@ -192,7 +192,7 @@ In this Ordinance, unless the context otherwise requires—
 
 - “site of cultural heritage” (文化遺產地點) means an antiquity or monument, whether being a place, building, site or structure or a relic, as defined in the Antiquities and Monuments Ordinance (Cap. 53) and any place, building, site, or structure or a relic identified by the Antiquities and Monuments Office to be of archaelogical, historical or palaeontological significance;
 
-- “site of special scientific interest” (具有特別科學價值的地點) means an area of land or water of special scientific interest by reason of its flora, fauna or geographical features identified by the Agriculture and Fisheries Department and listed in the register of sites of special scientific interest maintained by the Planning Department;
+- “site of special scientific interest” (具有特別科學價值的地點) means an area of land or water of special scientific interest by reason of its flora, fauna or geographical features identified by the Agriculture, Fisheries and Conservation Department and listed in the register of sites of special scientific interest maintained by the Planning Department; (Amended L.N. 331 of 1999)
 
 - “special area” (特別地區) means a special area as defined in the Country Parks Ordinance (Cap. 208);
 
