@@ -24,4 +24,4 @@ $
 
 9. | Trailer (other than a trailer towed by a private car) | 530
 
-(Replaced L.N. 210 of 1995)
+(Schedule 3 replaced L.N. 210 of 1995. Amended L.N. 33 of 1998; L.N. 145 of 1998)
