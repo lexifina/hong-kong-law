@@ -1,0 +1,5 @@
+CHINESE PERMANENT CEMETERIES RULES
+
+(Cap. 1112, section 8)
+
+[12 December 1975]
