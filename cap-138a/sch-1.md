@@ -20,6 +20,8 @@ Acemetacin; its salts
 
 Acetanilide; alkyl acetanilides
 
+Acetazolamide; its salts
+
 Acetohexamide
 
 Acetorphine; its salts; its esters and ethers; their salts
@@ -171,6 +173,8 @@ Mebhydrolin
 Terfenadine
 
 Tripelennamine
+
+Antilymphocyte Immunoglobulins
 
 Antimonial poisons, except substances containing less than the equivalent of 1% of antimony trioxide
 
@@ -398,6 +402,8 @@ Chlorthalidone and other derivatives of ortho-chlorobenzene-sulphonamide
 
 Chlorzoxazone
 
+Chorionic Gonadotrophin
+
 Chymopapain
 
 Cicletanine; its salts
@@ -429,6 +435,8 @@ Clioquinol
 Clobazam
 
 Clodronic acid; its salts; its esters
+
+Clofazimine; its salts
 
 Clofibrate
 
@@ -560,6 +568,8 @@ Dehydroemetine; its salts
 
 Demecarium bromide
 
+Desferrioxamine; its salts
+
 Desipramine; its salts
 
 Desomorphine; its salts; its esters and ethers; their salts
@@ -597,6 +607,8 @@ Dihydromorphine; its salts; its esters and ethers; their salts
 3-(3,4-Dihydroxyphenyl)alanine; its salts
 
 Diltiazem; its salts
+
+Dimefline; its salts
 
 Dimenoxadole; its salts
 
@@ -680,6 +692,8 @@ Esomeprazole; its salts
 
 Etafenone; its salts
 
+Etamivan; its salts
+
 Etanercept
 
 Ethacrynic acid; its salts
@@ -696,9 +710,13 @@ Ethoglucid
 
 Ethoheptazine; its salts
 
+Ethosuximide; its salts
+
 Ethylmorphine; its salts; its esters and ethers; their salts; except substances containing less than 0.2% of ethylmorphine
 
 Etidronic acid; its salts
+
+Etilefrine; its salts
 
 Etodolac
 
@@ -756,6 +774,8 @@ Filgrastim
 
 Finasteride
 
+Flavoxate; its salts
+
 Flecainide; its salts
 
 Fleroxacin; its salts; its esters
@@ -787,6 +807,8 @@ Flutamide
 Fluvastatin
 
 Fluvoxamine; its salts
+
+Folinic acid; its salts
 
 Fondaparinux; its salts
 
@@ -832,9 +854,13 @@ Glipizide
 
 Gliquidone
 
+Glucagon; its salts
+
 Glutethimide; its salts
 
 Glymidine
+
+Gonadorelin; its salts
 
 Goserelin; its salts
 
@@ -927,6 +953,8 @@ Indoramin; its salts
 Infliximab
 
 Inosine
+
+Inosine pranobex
 
 Interferons
 
@@ -1138,11 +1166,15 @@ Metopon; its salts; its esters and ethers; their salts
 
 Metoprolol; its salts
 
+Metyrapone; its salts
+
 Mexiletine; its salts
 
 Mianserin; its salts
 
 Mibefradil; its salts
+
+Midodrine; its salts
 
 Miglitol; its salts
 
@@ -1177,6 +1209,8 @@ Montelukast; its salts
 Moracizine; its salts
 
 Moramide; its salts; its optical isomers; their salts
+
+Moroxydine; its salts
 
 Morpheridine; its salts
 
@@ -1550,6 +1584,8 @@ Reteplase
 
 Reviparin; its salts
 
+Ribavirin; its salts
+
 Rilmenidine; its salts
 
 Riluzole; its salts
@@ -1824,6 +1860,8 @@ Verapamil; its salts
 
 Verteporfin; its salts
 
+Vidarabine; its salts
+
 Vigabatrin
 
 Viloxazine; its salts
@@ -1870,7 +1908,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003)
 
 B
 
