@@ -120,8 +120,12 @@
 
 - 59. The first floor of Urban Council Sam Ka Tsuen Complex, 6 Lei Yue Mun Path, Sam Ka Tsuen, Kwun Tong, Kowloon.
 
-- 60. The Hong Kong Central Library (including the footbridge connected thereto and the associated structures of the footbridge but excluding the Lecture Theatre and the Exhibition Gallery), 66 Causeway Road, Causeway Bay, Hong Kong. (L.N. 62 of 2001)
+- 60. The building known as the Hong Kong Central Library at 66 Causeway Road, Causeway Bay, Hong Kong, together with the footbridge connected to that building and the strctures associated with the footbridge, but excluding the Lecture Theatre, the Exhibition Gallery, Activity Room 1, Activity Room 2, the Book and Gift Shop and the Cafeteria in that building. (L.N. 245 of 2002)
 
 - 61. 9 Wan Lung Road, Tseung Kwan O. (L.N. 138 of 2001)
 
-- 62. Shop Nos. 101-102, First floor, Kingswood Ginza, Phase 2, 18 Tin Yan Road, Tin Shui Wai, Yuen Long. (L.N. 192 of 2001) (Schedule replaced 78 of 1999 s. 7)
+- 62. Shop Nos. 101-102, First floor, Kingswood Ginza, Phase 2, 18 Tin Yan Road, Tin Shui Wai, Yuen Long. (L.N. 192 of 2001)
+
+- 63. The second floor, 9 Wo Mun Street, Fanling. (L.N. 243 of 2002)
+
+- 64. Units 1-4, LG1, Fu Yan House, Fu Shan Estate, Po Kong Village Road, Kowloon. (L.N. 244 of 2002) (Schedule replaced 78 of 1999 s. 7)
