@@ -1,0 +1,5 @@
+POISONS LIST REGULATIONS
+
+(Cap. 138, section 29)
+
+[1 July 1978] L.N. 146 of 1978
