@@ -4,8 +4,6 @@
 
 ORDINANCES UNDER WHICH MATTERS MAY BE SUBMITTED TO THE TRIBUNAL FOR DETERMINATION
 
-(Adaptation amendments retroactively made - see 29 of 1998 s. 8)
-
 Chapter Short title
 
 - 7. Landlord and Tenant (Consolidation) Ordinance. (Added 49 of 1982 s. 16)
@@ -47,3 +45,5 @@ Chapter Short title
 - 515. Government Rent (Assessment and Collection) Ordinance. (Added 53 of 1997 s. 48)
 
 - 519. Railways Ordinance. (Added 59 of 1997 s. 46)
+
+- 545. Land (Compulsory Sale for Redevelopment) Ordinance. (Added 30 of 1998 s. 15)
