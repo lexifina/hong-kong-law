@@ -1,0 +1,5 @@
+TELEPHONE REGULATION
+
+(Cap. 269 section 24)
+
+[18 June 1993]
