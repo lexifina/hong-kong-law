@@ -1,0 +1,5 @@
+MAGISTRATES (FEES) REGULATIONS
+
+(Cap. 227, section 134(1))
+
+[29 April 1988]
