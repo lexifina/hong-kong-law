@@ -2,46 +2,44 @@
 
 [ss. 3 & 6]
 
-PUBLIC HOLIDAYS
+GENERAL HOLIDAYS
+
+(31 December 1999 was appointed as an additional general holiday under section 6(1) of this Ordinance (see L.N. 191 of 1999).)
 
 - (a) every Sunday;
 
-- (b) the first week-day in January;
+- (b) the first day of January (or if that day is a Sunday, then the following day);
 
-- (c) Lunar New Year’s Day;
+- (c) Lunar New Year’s Day (or if that day is a Sunday, then the day preceding Lunar New Year’s Day);
 
-- (d) the second day of Lunar New Year;
+- (d) the second day of Lunar New Year (or if that day is a Sunday, then the day preceding Lunar New Year’s Day);
 
-- (e) the third day of Lunar New Year;
+- (e) the third day of Lunar New Year (or if that day is a Sunday, then the day preceding Lunar New Year’s Day);
 
-- (f) in a year in which Lunar New Year’s Day or the second or the third day of Lunar New Year is a Sunday, the day preceding Lunar New Year’s Day;
+- (f) Ching Ming Festival (or if that day is a Sunday, then the following day);
 
-- (g) Ching Ming Festival (or if that day is a Sunday, then the following day);
+- (g) Good Friday;
 
-- (h) Good Friday;
+- (h) the day following Good Friday;
 
-- (i) the day following Good Friday;
+- (i) Easter Monday;
 
-- (j) Easter Monday;
+- (j) Labour Day, being the first day of May (or if that day is a Sunday, then the following day);
 
-- (k) the birthday of Her Majesty The Queen, being the second Saturday in June or such other day as the Governor may, by order in the Gazette, appoint in place thereof,
+- (k) the Birthday of the Buddha, being the eighth day of the fourth lunar month (or if that day is a Sunday, then the following day);
 
-- (l) the Monday following the birthday of Her Majesty The Queen;
+- (l) Tuen Ng Festival (or if that day is a Sunday, then the following day);
 
-- (m) Tuen Ng Festival or, if that day is a Sunday, then the week-day preceding or following that day, being a day appointed by the Governor by order in the Gazette;
+- (m) Hong Kong Special Administrative Region Establishment Day, being the first day of July (or if that day is a Sunday, then the following day);
 
-- (n) the Saturday preceding the last Monday in August;
+- (n) National Day, being the first day of October (or if that day is a Sunday, then the following day);
 
-- (o) Liberation Day, being the last Monday in August;
+- (o) the day following the Chinese Mid-Autumn Festival (or if that day is a Sunday, then the day of that Festival) or such other day as the Chief Executive in Council may, by order in the Gazette, appoint in place of that day;
 
-- (p) the day following the Chinese Mid-Autumn Festival (or if that day is a Sunday then the day of that Festival) or such other day as the Governor may, by order in the Gazette, appoint in place thereof,
+- (p) Chung Yeung Festival (or if that day is a Sunday, then the following day) or such other day as the Chief Executive in Council may, by order in the Gazette, appoint in place of that day;
 
-- (q) Chung Yeung Festival (or if that day is a Sunday, then the following day) or such other day as the Governor may, by order in the Gazette, appoint in place thereof,
+- (q) Christmas Day (or if that day is a Sunday, then the second weekday after Christmas Day);
 
-- (r) Christmas Day;
+- (r) the first weekday after Christmas Day.
 
-- (s) the first week-day after Christmas Day;
-
-- (t) in a year in which Christmas Day is a Sunday, the second week-day after Christmas Day.
-
-(Added 70 of 1983 s. 4)
+(Replaced 35 of 1998 s. 4)

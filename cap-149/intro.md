@@ -4,14 +4,16 @@ To consolidate and amend the law relating to general holidays.
 
 [10 January 1947]
 
-_
+Editorial Note:
 
-Note: For—
+For—
 
-(a) general holidays in 1981, also see 39 of 1981;
+- (a) general holidays in 1981, also see 39 of 1981;
 
-(b) general holidays in 1986, also see 35 of 1986;
+- (b) general holidays in 1986, also see 35 of 1986;
 
-(c) general holidays in 1997, also see L.N. 294 of 1996, 84 of 1997 and s. 2(2) and (3) of 111 of 1997;
+- (c) general holidays in 1997, also see L.N. 294 of 1996, 84 of 1997 and s. 2(2) and (3) of 111 of 1997;
 
-(d) general holidays in 1998, also see s. 3 of 111 of 1997.
+- (d) general holidays in 1998, also see s. 3 of 111 of 1997;
+
+- (e) the Schedule of general holidays replaced by s. 4 of 35 of 1998, see the Revised Edition of the Laws.

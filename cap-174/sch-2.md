@@ -290,7 +290,7 @@ Certificate of order authorizing burial/cremation of body
 
 I, A.B., a coroner for Hong Kong, hereby certify that I have made an order authorizing the burial/cremation of the body now shown/reported to me as the body of .
 
-Dated this day of ,19 .
+Dated this day of , 19 .
 
 .
 
@@ -422,8 +422,6 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
 - By section 20 of the Births and Deaths Registration Ordinance, Chapter 174, it is enacted that whenever a registered medical practitioner has been in attendance during the last illness of a deceased person such practitioner shall, subject to the following qualification, sign and give to a qualified informant of the death a certificate of the cause of death, and including a statement as to whether any, and if so what, anaesthetic was administered during the said illness. The qualification is that the said practitioner shall not sign the certificate unless he has personally viewed the body of that person and is satisfied that death has occurred or, if the death has occurred in a hospital, he has received a notice from another registered medical practitioner stating that the other practitioner has personally viewed that body and is satisfied that death has occurred. The informant is bound to deliver the certificate to a registrar.
 
-- (Amended 27 of 1997 s. 74)
-
 - Persons qualified to be informants for the registration of the death, and to whom
 
 - only this certificate should be given—
@@ -442,7 +440,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
 - 7 The person causing the body of the deceased to be buried.
 
-- Penalty for failing to give information within the 24 hours (in which travelling time and general holidays as defined by the Holidays Ordinance (Chapter 149) shall not be included) next following death is $1,000 fine or 6 months’ imprisonment.
+- Penalty for failing to give information within the 24 hours (in which travelling time and general holidays as defined by the General Holidays Ordinance (Chapter 149) shall not be included) next following death is $1,000 fine or 6 months’ imprisonment.
 
 - Informants must be prepared to state accurately to the registrar or a district registrar the following particulars—
 
@@ -452,13 +450,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - (3) the correct age of deceased; and
 
-  - (4)
-
-  - the rank, profession, or occupation of deceased and nationality so far as is known. [If deceased is a child or an unmarried person without occupation or property the full names and rank or profession of the father will be required (except in the case of illegitimate children); if a wife or widow those of the husband or deceased husband.]
-
-  - (Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974 ; L.N. 497 of 1995; 80 of 1997 s. 68)
-
-  - _
+  - (4) the rank, profession, or occupation of deceased and nationality so far as is known. [If deceased is a child or an unmarried person without occupation or property the full names and rank or profession of the father will be required (except in the case of illegitimate children); if a wife or widow those of the husband or deceased husband.] _
 
 - PART III NOTICE-DUTIES UNDER THE CORONERS
 
@@ -472,11 +464,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - comes under a duty to make a report of that death to the coroner via the Commissioner of Police as soon as is reasonably practicable after it comes to the knowledge of the practitioner that the death is a reportable death.
 
-  - 2.
-
-  - The various types of reportable deaths are specified in Part 1 of Schedule 1 to the Coroners Ordinance (Cap. 504).
-
-  - They are—
+  - 2. The various types of reportable deaths are specified in Part 1 of Schedule 1 to the Coroners Ordinance (Cap. 504). They are—
 
     - (1) Any death of a person where a registered medical practitioner is unable to accurately state the medical cause of the death in the certificate of the cause of death.
 
@@ -554,7 +542,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - Subject to certain defences, under the Coroners Ordinance (Cap. 504), a registered medical practitioner who fails to discharge the duty referred to in paragraph 1 commits an offence under that Ordinance and may thereby render himself liable to a fine at level 1 and to 14 days imprisonment under that Ordinance.
 
-  - (Added 27 of 1997 s. 74)
+  - (Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974 ; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5)
 
   - _
 
