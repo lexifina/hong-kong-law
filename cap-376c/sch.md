@@ -32,7 +32,7 @@
 
 - (9) Disciplined Services Sports and Recreation Club | 9, Cotton Path, Hong Kong
 
-- (10) Eastern District Police Staff Club | 13/F, 343, Java Road, Hong Kong
+- (10) Eastern District Police Officers’ Mess | 13/F, 343, Java Road, Hong Kong (L.N. 216 of 2003)
 
 - (11) Government Flying Service Officers’ Mess | Room 223, Government Flying Service Building, 18, South Perimeter Road, Chek Lap Kok, Lantau Island, New Territories
 
@@ -48,17 +48,17 @@
 
 - (17) The Hong Kong Fire Services Retired Members’ Mutual Aid Association Limited | Room 307, Tsimshatsui Fire Station Complex, 333, Canton Road, Tsimshatsui, Kowloon
 
-- (18) Hong Kong Fire Services Senior Officers’ Mess | 4/F, Tsimshatsui Fire Station Complex, 333, Canton Road, Tsimshatsui, Kowloon
+- (18) Hong Kong Fire Services Officers’ Mess | 4/F, Tsimshatsui Fire Station Complex, 333, Canton Road, Tsimshatsui, Kowloon (L.N. 216 of 2003)
 
-- (19) Hong Kong Island Region and Central District Police Officers’ Mess | Room 322, 1/F, 10, Hollywood Road, Hong Kong
+- (19) Hong Kong Island Region and Central District Police Officers’ Mess | Room 322, 3/F, Headquarters Block, Central Police Station Complex, 10 Hollywood Road, Hong Kong (L.N. 216 of 2003)
 
-- (20) Hong Kong Police Senior Officers’ Mess | East Wing, 6/F, Caine House Police Headquarters, Arsenal Street, Wanchai, Hong Kong
+- (20) The Hong Kong Police Senior Officers’ Mess | East Wing, 6/F, Caine House Police Headquarters, Arsenal Street, Wanchai, Hong Kong (L.N. 216 of 2003)
 
 - (21) HKPF Tai Mei Tuk Activities Training Centre | Mei Wu Road, Tai Po, New Territories
 
-- (22) HKPF—Tso Wo Hang Police Recreation Centre | Tso Wo Hang, Tai Mong Tsai Road, Sai Kung, New Territories
+- (22) HKPF—Tso Wo Hang Recreation Centre | Tso Wo Hang, Tai Mong Tsai Road, Sai Kung, New Territories (L.N. 216 of 2003)
 
-- (23) HKPF-Wong Hau Shan Police Recreation Centre | Queen’s Hill, Fanling, New Territories
+- (23) (Repealed L.N. 216 of 2003)
 
 - (24) Housing Authority Staff Club | L3 & L5, Block 4, Housing Authority Headquarters, 33 Fat Kwong Street, Homantin, Kowloon (L.N. 181 of 2001)
 
@@ -74,7 +74,7 @@
 
 - (30) Kowloon East Operational Base Officers’ Mess | Room 706, 7/F, 2, Siu Yip Street, Kowloon Bay, Kowloon
 
-- (31) Kowloon East Regional Headquarters District Officers’ Mess | 15/F, 110, Po Lam North Road, Tseung Kwan O, Kowloon
+- (31) Kowloon East Regional Police Officers’ Mess | 15/F, Tseung Kwan O Police Station, 110 Po Lam Road North, Tseung Kwan O, Kowloon (L.N. 216 of 2003)
 
 - (32) Kowloon West Regional Police Officers’ Mess | East Wing, 1/F, 190, Argyle Street, Kowloon
 
@@ -92,7 +92,7 @@
 
 - (39) Marine Police Officers’ Mess | Room 301-302, 3/F, Tai Hong Street, Sai Wan Ho, Hong Kong
 
-- (40) Marine Police West Division Officers’ Mess | Room 402, 4/F, 16 1/2 Milestone, Castle Peak Road, New Territories
+- (40) (Repealed L.N. 216 of 2003)
 
 - (41) Marine Port District Officers’ Mess | 7/F, 28, Shum Wan Road, Aberdeen, Hong Kong
 
@@ -110,11 +110,11 @@
 
 - (48) Police Civilian Staff Club | Room 4, G/F, Old Central Magistracy, Hong Kong
 
-- (49) Police Officers’ Club | Hung Hing Road, Causeway Bay, Hong Kong
+- (49) Police Officers’ Club | 28 Hung Hing Road, Causeway Bay, Hong Kong (L.N. 216 of 2003)
 
 - (50) Police Sports and Recreation Club | 430, Sai Yeung Choi Street, Kowloon
 
-- (51) Police Tactical Unit Officers’ Mess | G/F, Block M, 1 Pak Fuk Tsuen, Fanling, New Territories
+- (51) Police Tactical Unit Officers’ Mess | G/F, Block G, 1 Pak Fuk Tsuen, Fanling, New Territories (L.N. 216 of 2003)
 
 - (52) Prince Philip Dental Hospital Senior Staff Association Club | Room 7A11, 7/F, Common Room, Prince Philip Dental Hospital, 34, Hospital Road, Hong Kong
 
