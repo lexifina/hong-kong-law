@@ -59,7 +59,10 @@ s-057.md
 s-058.md
 s-059.md
 s-060.md
+s-060A.md
 s-061.md
+s-061A.md
+s-061B.md
 s-062.md
 s-063.md
 s-064.md
