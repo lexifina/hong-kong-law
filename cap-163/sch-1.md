@@ -32,6 +32,10 @@
 
     - (b) in respect of which the Registrar has declared in writing that he is satisfied that it was established by one or more national governments with the object of financing, or guaranteeing the financing of, the export of a country’s goods or services.
 
+  - 10. A securities margin financier registered under the Securities Ordinance (Cap. 333). (Added 20 of 2000 s. 7)
+
+  - 11. A dealer registered under the Securities Ordinance (Cap. 333) who, in the course of carrying on a business of dealing in securities, engages in securities margin financing as defined in that Ordinance. (Added 20 of 2000 s. 7)
+
 - PART 2 EXEMPTED LOANS
 
   - 1. A loan made bona fide by an employer to his employee.
@@ -40,7 +44,7 @@
 
     - (a) registered, or to be registered, under the Companies Ordinance (Cap. 32); or
 
-    - (b) which would, in the case of a company referred to in paragraph (b) or (c) of the definition of “company” (公司)in section 2(1), be able to be registered under that Ordinance if that company were a company referred to in paragraph (a) of that definition.
+    - (b) which would, in the case of a company referred to in paragraph (b) or (c) of the definition of “company” (公司) in section 2(1), be able to be registered under that Ordinance if that company were a company referred to in paragraph (a) of that definition.
 
   - 3. A loan made by a company under a bona fide credit-card scheme operated by the company to any holder of a credit-card issued under that scheme.
 
