@@ -1,0 +1,5 @@
+CLUBS (SAFETY OF PREMISES) (APPEAL BOARD) REGULATIONS
+
+(Cap. 376, section 22)
+
+[1 November 1991]
