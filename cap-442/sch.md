@@ -46,7 +46,7 @@ Item | Ordinance | Decision
 
 21. | Dangerous Goods (General) Regulations (Cap. 295 sub. leg.) | Prohibiting or imposing conditions on the continued use of a storage tank under regulation 127.
 
-22. | Business Registration Ordinance (Cap. 310) | An assessment of a business registration fee under section 3(4) or 9(5).
+22. | Business Registration Ordinance (Cap. 310) | (a) The service of a notice under section 3(4) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business. (b) The service of a notice under section 3(4AA) by the Commissioner of Inland Revenue that a person is to be deemed to be a person carrying on business at a branch of a business. (c) The service of a notice under section 6(4D) by the Commissioner of Inland Revenue requesting a person to make an application for registration under a different name. (Amended 3 of 1999 s. 19)
 
 23. | Motor Vehicles (First Registration Tax) Ordinance (Cap. 330) | A decision of the Commissioner for Transport under the Ordinance.
 
