@@ -46,6 +46,6 @@ REQUIREMENTS APPLICABLE TO CAR TESTING CENTRES
 
   - (iii) Issue of a duplicate copy of a certificate of roadworthiness— (A) Private car (B) Light goods vehicle (Replaced L.N. 453 of 1995. Amended L.N. 513 of 1995) | $165 $210
 
-  - (c) (Repealed L.N. 513 of 1995)
+  - (c) Fee payable for supply of each form of a certificate of road worthiness— (i) Private car (ii) Light goods vehicle (Added L.N. 50 of 1998) | $58 $58
 
-- (Schedule 8 added 65 of 1985 s. 4)
+- (Added 65 of 1985 s. 4)
