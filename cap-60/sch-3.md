@@ -14,4 +14,8 @@ SPECIFIED AGENTS
 
 - 5. The Hong Kong General Chamber of Commerce (Added L.N. 380 of 1998)
 
-- 6. The Indian Chamber of Commerce Hong Kong (Added L.N. 380 of 1998) (Added 30 of 1995 s. 17. Amended L.N. 587 of 1997)
+- 6. The Indian Chamber of Commerce Hong Kong (Added L.N. 380 of 1998)
+
+- 7. Dah Sing Bank, Limited (Added L.N. 71 of 2000)
+
+- 8. International Chamber of Commerce—Hong Kong, China Business Council (Added L.N. 71 of 2000) (Added 30 of 1995 s. 17. Amended L.N. 587 of 1997)
