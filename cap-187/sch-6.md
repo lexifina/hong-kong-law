@@ -330,7 +330,7 @@ Trichechus manatus | West Indian Manatee
 
 PERISSODACTYLA
 
-Equidae | Equus africanus (=asinus) | African Ass
+Equidae | Equus africanus (excluding animals of the domesticated form, which is referred to as Equus asinus) | African Ass
 
 Equus grevyi | Grevy’s Zebra
 
@@ -340,7 +340,7 @@ Equus onager khur (=Equus hemionus khur) | Indian Wild Ass
 
 Equus przewalskii (=Equus caballus przewalskii) | Przewalski’s Horse
 
-Equus zebra zebra | Cape Mountain Zebra
+Equus zebra zebra | Cape Mountain Zebra (Amended L.N. 6 of 2004)
 
 Tapiridae | Tapiridae species (excluding Tapirus terrestris) | Tapirs
 
@@ -352,9 +352,9 @@ Suidae | Babyrousa babyrussa Sus salvanius | Borneo Wild Pig Pygmy Hog
 
 Tayassuidae | Catagonus wagneri | Chacoan Peccary
 
-Camelidae | Vicugna vicugna (excluding part of the population of Parinacota Province, Ia. Region of Tarapaca, Chile; the whole population of Peru; the population of the Province of Jujuy and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan of Argentina; and the populations of the Conservation Units of Mauri-Desaguadero, Ulla Ulla and Lipez-Chichas, Bolivia) | Vicuna
+Camelidae | Vicugna vicugna (excluding the populations of the Provinces of Jujuy and Catamarca and the semicaptive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan of Argentina; the whole population of Bolivia; the population of the Primera Region of Chile; and the whole population of Peru) | Vicuna
 
-(Amended L.N. 38 of 1999)
+(Amended L.N. 38 of 1999; L.N. 6 of 2004)
 
 Moschidae | Moschus species (populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan) | Musk Deer
 
@@ -444,9 +444,9 @@ Struthionidae | Struthio camelus (populations of Algeria, Burkina Faso, Cameroon
 
 RHEIFORMES
 
-Rheidae | Rhea (=Pterocnemia) pennata (excluding population of Rhea pennata pennata of Argentina) | Darwin’s Rhea
+Rheidae | Rhea (=Pterocnemia) pennata (excluding Rhea pennata pennata) | Darwin’s Rhea
 
-(Amended L.N. 237 of 2001)
+(Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 TINAMIFORMES
 
@@ -652,6 +652,18 @@ Amazona imperialis | Imperial Amazon
 
 Amazona leucocephala | Cuban Amazon
 
+Amazona ochrocephala auropalliata | Yellow-naped Amazon
+
+Amazona ochrocephala belizensis
+
+Amazona ochrocephala caribaea
+
+Amazona ochrocephala oratrix | Yellow-headed Amazon
+
+Amazona ochrocephala parvipes
+
+Amazona ochrocephala tresmariae
+
 Amazona pretrei | Red-spectacled Amazon
 
 Amazona rhodocorytha (=Amazona dufresniana rhodocorytha) | Red-crowned Amazon
@@ -669,6 +681,8 @@ Amazona vittata | Puento Rican Amazon
 Anodorhynchus species | Blue Macaws
 
 Ara ambigua | Buffon’s Macaw
+
+Ara (=Propyrrhura) couloni | Blue-headed Macaw
 
 Ara glaucogularis (=caninde) | Blue-throated Macaw
 
@@ -730,7 +744,7 @@ Strigops habroptilus | Kakapo
 
 Vini ultramarina | Ultramarine Lorikeet
 
-(Amended L.N. 38 of 1999; L.N. 237 of 2001)
+(Amended L.N. 38 of 1999; L.N. 237 of 2001; L.N. 6 of 2004)
 
 STRIGIFORMES
 
@@ -828,7 +842,11 @@ Gopherus flavomarginatus | Bolson Tortoise
 
 Psammobates (=Testudo) geometricus | Geometric Tortoise
 
+Pyxis planicauda | Flat-backed Spider Tortoise
+
 Testudo kleinmanni | Egyptian Tortoise
+
+(Amended L.N. 6 of 2004)
 
 Cheloniidae | Cheloniidae species | Sea Turtles
 
@@ -836,13 +854,13 @@ Dermochelyidae | Dermochelys coriacea | Leathery Turtle
 
 Trionychidae | Apalone ater | Mexico Soft-shelled Turtle
 
-Asperidetes gangeticus | Ganges Soft-shelled Turtle
+Aspideretes gangeticus | Ganges Soft-shelled Turtle
 
-Asperidetes hurum | Lower Ganges Soft-shelled Turtle
+Aspideretes hurum | Lower Ganges Soft-shelled Turtle
 
-Asperidetes nigricans | Eastern Soft-shelled Turtle
+Aspideretes nigricans | Eastern Soft-shelled Turtle
 
-(Amended L.N. 237 of 2001)
+(Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 Chelidae | Pseudemydura umbrina | Snake-necked Turtle
 
@@ -891,6 +909,8 @@ RHYNCHOCEPHALIA
 Sphenodontidae | Sphenodon species | Tuataras
 
 SAURIA
+
+Chamaeleonidae | Brookesia perarmata | Antsingy Leaf Chameleon (Added L.N. 6 of 2004)
 
 Iguanidae | Brachylophus species | Banded Crested Iguanas, Fiji Crested Iguanas
 
@@ -1074,9 +1094,9 @@ Pachypodium baronii
 
 Pachypodium decaryi
 
-ARAUCARIACEAE | Araucaria araucana (populations of Argentina and Chile) | Chile Pine or Monkey Puzzle
+ARAUCARIACEAE | Araucaria araucana | Chile Pine or Monkey Puzzle
 
-(Amended L.N. 237 of 2001)
+(Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 CACTACEAE | Ariocarpus species
 
@@ -1134,6 +1154,8 @@ Sclerocactus (=Neolloydia =Echinomastus) mariposensis | Mariposa Cactus
 
 Sclerocactus mesae-verdae | Mesa Verde Cactus
 
+Sclerocactus nyensis | Tonopah Fishhook Cactus
+
 Sclerocactus (=Toumeya =Pediocactus) papyracanthus | Grama-grass Cactus
 
 Sclerocactus pubispinus | Great Basin Fishhook Cactus
@@ -1144,13 +1166,11 @@ Strombocactus species
 
 Turbinicarpus (=Neolloydia) species | Turbinicacti
 
-Uebelmannia species | (Amended L.N. 237 of 2001)
+Uebelmannia species
+
+(Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 COMPOSITAE (ASTERACEAE) | Saussurea costus (=lappa) | Costas
-
-CRASSULACEAE | Dudleya traskiae
-
-(Amended L.N. 237 of 2001)
 
 CUPRESSACEAE | Fitzroya cupressoides
 
@@ -1222,17 +1242,19 @@ Aloe rauhii
 
 Aloe suzannae
 
-Aloe thorncroftii
-
 Aloe versicolor
 
-Aloe vossii | (Amended L.N. 237 of 2001)
+Aloe vossii
+
+(Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 NEPENTHACEAE | Nepenthes khasiana | Pitcher Plants
 
 Nepenthes rajah
 
-ORCHIDACEAE | Cattleya trianae | Christmas Orchid
+ORCHIDACEAE | Aerangis ellisii
+
+Cattleya trianae | Christmas Orchid
 
 Dendrobium cruentum
 
@@ -1249,6 +1271,8 @@ Phragmipedium species
 Renanthera imschootiana | Red Vanda Orchid
 
 Vanda coerulea | Blue Vanda Orchid
+
+(Amended L.N. 6 of 2004)
 
 PINACEAE | Abies guatemalensis | Guatamalan Fir
 
@@ -1272,7 +1296,7 @@ Encephalartos species | Bread Palms
 
 Microcycas calocoma | Palma Corcho
 
-(Part 2 amended L.N. 38 of 1999)
+(Part 2 amended L.N. 38 of 1999; L.N. 6 of 2004)
 
 Note: In this Schedule, “species” does not include animals bred in captivity or plants propagated artificially.
 

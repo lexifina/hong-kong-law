@@ -110,19 +110,37 @@ LILIACEAE | Aloe species (excluding Aloe vera (=barbadensis)) | Aloes
 
 MELIACEAE | Swietenia humilis | Mexican Mahogany
 
+Swietenia macrophylla (Populations of the Neotropics) (logs, sawn wood, veneer sheets and plywood only) | Big-leaf Mahogany
+
 Swietenia mahagoni (Saw-logs, sawn wood and veneers only) | Mexican Mahogany
+
+(Amended L.N. 6 of 2004)
 
 NEPENTHACEAE | Nepenthes species | Pitcher-plants
 
 ORCHIDACEAE | ORCHIDACEAE species (Includes families Apostasiaceae and Cypripediaceae as subfamilies Apostasioideae and Cypripedioideae) | Orchids
 
-OROBANCHACEAE | Cistanche deserticola (root or any part thereof) | Desert-living Cistanche
+OROBANCHACEAE | Cistanche deserticola | Desert-living Cistanche
 
-(Added L.N. 237 of 2001)
+(Added L.N. 237 of 2001. Amended L.N. 6 of 2004)
 
-PALMAE (ARECACEAE) | Chrysalidocarpus decipiens | Butterfly Palm
+PALMAE (ARECACEAE) | Beccariophoenix madagascariensis
+
+Chrysalidocarpus decipiens | Butterfly Palm
+
+Lemurophoenix halleuxii | Red-lemur Palm
+
+Marojejya darianii
 
 Neodypsis decaryi
+
+Ravenea louvelii
+
+Ravenea rivularis
+
+Satranala decussilvae
+
+Voanioala gerardii | (Amended L.N. 6 of 2004)
 
 PINACEAE | Abies guatemalensis | Guatamalan Fir
 
@@ -132,11 +150,9 @@ PORTULACACEAE | Anacampseros species | Purselanes
 
 Avonia species
 
-Lewisia maguirei
-
 Lewisia serrata
 
-(Amended L.N. 38 of 1999; L.N. 237 of 2001)
+(Amended L.N. 38 of 1999; L.N. 237 of 2001; L.N. 6 of 2004)
 
 PRIMULACEAE | Cyclamen species | Cyclamens
 
@@ -182,9 +198,9 @@ ZAMIACEAE | ZAMIACEAE species | Cycads
 
 ZINGIBERACEAE | Hedychium philippinense | Philippine Garland Flower
 
-ZYGOPHYLLACEAE | Guaiacum officinale
+ZYGOPHYLLACEAE | Guaiacum species | Sonora Guaiacum
 
-Guaiacum sanctum | Holywood or Lignumvitae
+(Amended L.N. 6 of 2004)
 
 Note In this Part, the specification of a plant in column 2— (a) does not include the specification of its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro; (b) includes the specification of an artificially propagated plant, its parts and derivatives other than its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro and cut flowers. (Replaced L.N. 164 of 2000)
 
@@ -198,15 +214,15 @@ ORDER/Family | Scientific Name | Common Name (for information only)
 
 GNETACEAE | Gnetum montanum | Gnetum
 
+LEGUMINOSAE | Dipteryx panamensis | (Added L.N. 6 of 2004)
+
 MAGNOLIACEAE | Magnolia liliifera var. obovata (=Magnolia hodgsonii) (=Magnolia candollii var. obovata)
 
 (Amended L.N. 237 of 2001)
 
 MELIACEAE | Cedrela odorata (logs, sawn wood and veneer sheets only)
 
-Swietenia macrophylla (logs, sawn wood and veneer sheets only) | Big Leaf Mahogany
-
-(Added L.N. 38 of 1999. Amended L.N. 237 of 2001)
+(Added L.N. 38 of 1999. Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 PAPAVERACEAE | Meconopsis regia
 

@@ -178,7 +178,7 @@ Trichechus senegalensis | West African Manatee
 
 PERISSODACTYLA
 
-Equidae | Equus africanus (=asinus) | African Ass
+Equidae | Equus africanus (excluding animals of the domesticated form, which is referred to as Equus asinus) | African Ass
 
 Equus grevyi | Grevy’s Zebra
 
@@ -197,6 +197,8 @@ Equus zebra zebra | Cape Mountain Zebra
 Tapiridae | Tapiridae species | Tapirs
 
 Rhinocerotidae | Rhinocerotidae species | Rhinoceroses
+
+(Amended L.N. 6 of 2004)
 
 ARTIODACTYLA
 
@@ -652,7 +654,11 @@ TESTUDINATA
 
 Dermatemydidae | Dermatemys mawii | Central American River Turtle
 
-Emydidae | Batagur baska | Batagur
+Platysternidae | Platysternon megacephalum | Big-headed Turtle (Added L.N. 6 of 2004)
+
+Emydidae | Annamemys annamensis | Annam Leaf Turtle
+
+Batagur baska | Batagur
 
 Callagur borneoensis | Painted Terrapin
 
@@ -664,15 +670,35 @@ Cuora species | Asian Box Turtles
 
 Geoclemys hamiltonii | Black Pond Turtle
 
-Kachuga tecta (=Kachuga tecta tecta) | Indian Roofed Turtle
+Heosemys depressa | Arakan Forest Turtle
+
+Heosemys grandis | Giant Asian Pond Turtle
+
+Heosemys leytensis | Leyte Pond Turtle
+
+Heosemys spinosa | Spiny Turtle
+
+Hieremys annandalii | Yellow-headed Temple Turtle
+
+Kachuga species | Roofed Turtles
+
+Leucocephalon yuwonoi | Sulawesi Forest Turtle
+
+Mauremys mutica | Yellow Pond Turtle
 
 Melanochelys (=Nicoria =Geoemyda) tricarinata | Terrestrial Turtle
 
 Morenia ocellata | Burmese Yellow Turtle
 
+Orlitia borneensis | Bornean River Turtle
+
+Pyxidea mouhotii | Keeled Box Turtle
+
+Siebenrockiella crassicollis | Black Marsh Turtle
+
 Terrapene species | Box Turtles
 
-(Amended L.N. 237 of 2001)
+(Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 Testudinidae | Testudinidae species | True Tortoises
 
@@ -682,15 +708,19 @@ Dermochelyidae | Dermochelys coriacea | Leathery Turtle
 
 Trionychidae | Apalone ater | Mexico Soft-shelled Turtle
 
-Asperidetes gangeticus | Ganges Soft-shelled Turtle
+Aspideretes gangeticus | Ganges Soft-shelled Turtle
 
-Asperidetes hurum | Lower Ganges Soft-shelled Turtle
+Aspideretes hurum | Lower Ganges Soft-shelled Turtle
 
-Asperidetes nigricans | Eastern Soft-shelled Turtle
+Aspideretes nigricans | Eastern Soft-shelled Turtle
+
+Chitra species | Narrow-headed Softshell Turtles
 
 Lissemys punctata | India Flapshell Turtle
 
-(Amended L.N. 237 of 2001)
+Pelochelys species | Giant Softshell Turtles
+
+(Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 Pelomedusidae | Erymnochelys madagascariensis | Hidden-necked Turtle
 
@@ -716,13 +746,15 @@ Agamidae | Uromastyx species | Spiny-tailed Lizards
 
 Chamaeleonidae | Bradypodion species | Chameleons
 
+Brookesia species | Leaf Chameleons
+
 Calumma species | Chameleons
 
 Chamaeleo species | Chameleons
 
 Furcifer species | Chameleons
 
-(Amended L.N. 237 of 2001)
+(Amended L.N. 237 of 2001; L.N. 6 of 2004)
 
 Iguanidae | Amblyrhynchus cristatus | Galapagos Marine Iguana
 
@@ -748,13 +780,13 @@ Cordylidae | Cordylus species | Girdled Lizards
 
 Pseudocordylus species | Crag Lizards
 
-Teiidae | Cnemidophorus hyperythrus | Orange-throated Whiptail
-
-Crocodilurus lacertinus | Dragon Lizardlet
+Teiidae | Crocodilurus lacertinus | Dragon Lizardlet
 
 Dracaena species | Caiman Lizards
 
 Tupinambis species | Tegus or Tegu Lizards
+
+(Amended L.N. 6 of 2004)
 
 Scincidae | Corucia zebrata | Giant Skink
 
@@ -848,7 +880,19 @@ Mantella species | Mantella Frogs
 
 Microhylidae | Dyscophus antongilii
 
+Scaphiophryne gottlebei | Red Rain Frog
+
+(Amended L.N. 6 of 2004)
+
 Pisces (Fish)
+
+ORECTOLOBIFORMES
+
+Rhincodontidae | Rhincodon typus | Whale Shark (Added L.N. 6 of 2004)
+
+LAMNIFORMES
+
+Cetorhinidae | Cetorhinus maximus | Basking Shark (Added L.N. 6 of 2004)
 
 CERATODONTIFORMES
 
@@ -880,6 +924,10 @@ SILURIFORMES
 
 Pangasiidae | Pangasianodon gigas | Giant Catfish
 
+SYNGNATHIFORMES
+
+Syngnathidae | Hippocampus species | Seahorses (Added L.N. 6 of 2004)
+
 PERCIFORMES
 
 Sciaenidae | Cynoscion macdonaldi | Totoaba, MacDonald Weakfish
@@ -888,7 +936,11 @@ ARTHROPODA Insecta (Insects)
 
 LEPIDOPTERA
 
-Papilionidae | Bhutanitis species | Bhutan Glory Butterflies
+Papilionidae | Atrophaneura jophon | Sri Lankan Rose
+
+Atrophaneura pandiyana
+
+Bhutanitis species | Bhutan Glory Butterflies
 
 Ornithoptera (=Sensu D’Abrera) species | Birdwing Butterflies
 
@@ -905,6 +957,8 @@ Teinopalpus species | Kaiser-I Hind Butterflies
 Trogonoptera (=Sensu D’Abrera) species | Birdwing Butterflies
 
 Troides (=Sensu D’Abrera) species | Birdwing Butterflies
+
+(Amended L.N. 6 of 2004)
 
 Arachnida (Arachnids)
 
@@ -1528,6 +1582,12 @@ Pelusios gabonensis (=subniger) | Stripe-backed Side-necked Turtle
 
 Pelusios niger | Black Side-necked Turtle
 
+SAURIA
+
+Gekkonidae | Hoplodactylus species | Sticky-toed Geckos
+
+Naultinus species | New Zealand Tree Geckos (Added L.N. 6 of 2004)
+
 SERPENTES
 
 Colubridae | Atretium schistosum | Olive keel-back
@@ -1540,31 +1600,27 @@ Elapidae | Micrurus diastema | Atlantic Coral Snake
 
 Micrurus nigrocinctus | Black-banded Coral Snake
 
-Viperidae | Agkistrodon bilineatus | Cantil
+Viperidae | Crotalus durissus | Neotropical Rattle Snake
 
-Bothrops asper | Terciopolo
-
-Bothrops nasutus | Horned Hog-nosed Pit Viper
-
-Bothrops nummifer | Jumping Pit Viper
-
-Bothrops ophryomegas | Slender Hog-nosed Pit Viper
-
-Bothrops schlegelii | Eyelash Viper
-
-Crotalus durissus | Neotropical Rattle Snake
-
-Vipera russellii | Russell’s Viper
+Daboia (=Vipera) russellii | Russell’s Viper (Amended L.N. 6 of 2004)
 
 Pisces (Fish)
 
 LAMNIFORMES
 
-Cetorhinidae | Cetorhinus maximus | Basking Shark
+Lamnidae | Carcharodon carcharias | Great White Shark (Replaced L.N. 6 of 2004)
 
 (Added L.N. 237 of 2001)
 
-ARTHROPODA Insecta (Insects)
+ECHINODERMATA Holothuroidea (Sea Cucumbers)
+
+ASPIDOCHIROTIDA
+
+Stichopodidae | Isostichopus (=Stichopus) fuscus | Sea Cucumber (Added L.N. 6 of 2004)
+
+ARTHROPODA
+
+Insecta (Insects)
 
 COLEOPTERA
 
