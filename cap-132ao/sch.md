@@ -4,8 +4,6 @@ Name of Market | Name in Chinese | Former Name of Market
 
 Aberdeen Market, Urban Council Aberdeen Complex | 香港仔街市 | Aberdeen Market
 
-Ap Le Chau Market | 鴨脷洲街市 | Aplichau Market
-
 Ap Lei Chau Market, Ap Lei Chau Complex | 鴨脷洲街市，鴨脷洲市政大廈 | -
 
 Apleichau West Industrial Area Cooked Food Market | 鴨脷洲西岸工業熟食市場 | -
@@ -40,6 +38,8 @@ Quarry Bay Market | 鰂魚涌街市 | -
 
 Sai Wan Ho Market | 西灣河街市 | -
 
+Sai Ying Pun Market | 西營盤街市 | -
+
 Shau Kei Wan Market | 筲箕灣街市 | Shaukiwan Market
 
 Shek Tong Tsui Market, Shek Tong Tsui Complex | 石塘咀街市 | -
@@ -64,7 +64,7 @@ Yue Kwong Road Market | 漁光道街市 | -
 
 Yue Wan Market | 漁灣街市 | -
 
-(L.N. 38 of 1993; L.N. 228 of 1993; L.N. 451 of 1994; L.N. 17 of 1995; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 388 of 1998)
+(L.N. 38 of 1993; L.N. 228 of 1993; L.N. 451 of 1994; L.N. 17 of 1995; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 388 of 1998; L.N. 127 of 1999)
 
 MARKETS IN KOWLOON AND NEW KOWLOON
 
