@@ -6,11 +6,11 @@ TAXI FARES
 
 1. Taxis licensed to operate in Hong Kong and Kowloon (L.N. 69 of 1997) . | $14.5 for the first 2 kilometres or any part thereof and $1.3 for every 200 metres or part thereof thereafter.
 
-2. Taxis licensed to operate within Lantau (L.N. 308 of 1992; L.N. 225 of 1995 L.N.; 225 of 1996) . | $11.00 for the first 2 kilometres or any part thereof and $1.1 for every 200 metres or part thereof thereafter.
+2. Taxis licensed to operate within Lantau (L.N. 308 of 1992; L.N. 225 of 1995 L.N.; 225 of 1996; L.N. 15 of 1998) . | $12.00 for the first 2 kilometres or any part thereof and $1.2 for every 200 metres or part thereof thereafter.
 
 2a. Taxis licensed to operate in the New Territories (L.N. 69 of 1997) . | $12.5 for the first 2 kilometres or any part thereof and $1.2 for every 200 metres or part thereof thereafter.
 
-3. Waiting Time (i) Taxis licensed to operate in Hong Kong and Kowloon: For every period of 1 minute or part thereof during which the taxi is hired but not in motion (L.N. 69 of 1997) . (ii) Taxis licensed to operate within Lantau: For every period of 1 minute or part thereof during which the taxi is hired but not in motion (L.N. 225 of 1995; L.N. 225 of 1996) . (iii) Taxis licensed to operate in the New Territories : For every period of 1 minute or part thereof during which the taxi is hired but not in motion (L.N. 69 of 1997) . | $1.3 $1.1 $1.2
+3. Waiting Time (i) Taxis licensed to operate in Hong Kong and Kowloon: For every period of 1 minute or part thereof during which the taxi is hired but not in motion (L.N. 69 of 1997) . (ii) Taxis licensed to operate within Lantau: For every period of 1 minute or part thereof during which the taxi is hired but not in motion (L.N. 225 of 1995; L.N. 225 of 1996; L.N. 15 of 1998) . (iii) Taxis licensed to operate in the New Territories : For every period of 1 minute or part thereof during which the taxi is hired but not in motion (L.N. 69 of 1997) . | $1.3 $1.2 $1.2
 
 3a. (Repealed L.N. 211 of 1991)
 
