@@ -1,0 +1,5 @@
+AERIAL ROPEWAYS (FEES) REGULATION
+
+(Cap. 211 section 28(1A))
+
+[26 February 1993]
