@@ -1,0 +1,5 @@
+EXEMPTION FROM SALARIES TAX ORDER
+
+(Cap. 112, section 87)
+
+[3 February 1967]
