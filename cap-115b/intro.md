@@ -1,0 +1,5 @@
+IMMIGRATION (PLACES OF DETENTION) ORDER
+
+(Cap. 115, section 35(1))
+
+[21 February 1975]
