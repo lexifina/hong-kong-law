@@ -68,12 +68,16 @@ s-055.md
 s-056.md
 s-057.md
 s-058.md
+s-058A.md
 s-059.md
 s-059A.md
+s-059B.md
 s-060.md
 s-061.md
 s-062.md
 s-063.md
+s-063A.md
+s-063B.md
 s-064.md
 s-065.md
 s-066.md
@@ -86,6 +90,10 @@ s-070B.md
 s-070C.md
 s-070D.md
 s-071.md
+s-071C.md
+s-071D.md
+s-071E.md
+s-071F.md
 s-072.md
 s-072A.md
 s-072B.md

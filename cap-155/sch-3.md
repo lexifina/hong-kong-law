@@ -128,15 +128,15 @@ Category II-Supplementary Capital
 
   - (i) its land and interests in land other than any interest in land mortgaged to it to secure a debt; and
 
-  - (ii) its share of the net asset value of any subsidiary to the extent that such value has changed as a result of a revaluation of such subsidiary’s land and interests in land other than any interest in land mortgaged to such subsidiary to secure a debt:
+  - (ii)
+
+  - its share of the net asset value of any subsidiary to the extent that such value has changed as a result of a revaluation of such subsidiary’s land and interests in land other than any interest in land mortgaged to such subsidiary to secure a debt:
 
     - Provided that the amount of reserves for each of sub-subparagraphs (i) and (ii) to be included in Supplementary Capital shall not exceed—
 
-  - (A) 70% of surplus, if any, on revaluation of each of sub-subparagraphs (i) and (ii) respectively; and
+      - (A) 70% of surplus, if any, on revaluation of each of sub-subparagraphs (i) and (ii) respectively; and
 
-  - (B)
-
-  - their respective amounts included in Supplementary Capital as at 31 December 1998. (Replaced L.N. 326 of 1999)
+      - (B) their respective amounts included in Supplementary Capital as at 31 December 1998. (Replaced L.N. 326 of 1999)
 
     - For the purpose of this subparagraph “reserves” (儲備) includes any shares issued by the authorized institution through capitalising reserves arising from revaluation of sub-subparagraphs (i) and (ii); (Replaced L.N. 336 of 1996)
 
@@ -148,7 +148,7 @@ Category II-Supplementary Capital
 
   - (ii) the amount of overall deficit, if any, on revaluation shall be deducted from Supplementary Capital; (Added L.N. 326 of 1999)
 
-- (i) its latent reserves (i.e. the difference between the market value and the book value) determined upon revaluation, of long-term holding of equity securities listed on the Unified Exchange or on any exchange referred to in the Schedule to the *Securities (Specification of Approved Assets, Liquid Assets and Ranking Liabilities) Notice (Cap. 333 sub. leg.): (Amended L.N. 210 of 1990; L.N. 63 of 1991)
+- (i) its latent reserves (i.e. the difference between the market value and the book value) determined upon revaluation, of long-term holding of equity securities listed on the recognized stock market or on any stock exchange referred to in Part 3 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571): (Amended L.N. 210 of 1990; L.N. 63 of 1991; 5 of 2002 s. 407)
 
   - Provided that—
 
@@ -182,7 +182,7 @@ Category II-Supplementary Capital
 
     - (C) beyond a limit considered appropriate by the Monetary Authority; (Added L.N. 249 of 2002)
 
-- (l) its paid-up irredeemable cumulative preference shares, if the Monetary Authority is satisfied that under the terms on which the shares are to be issued, the following conditions are met—
+- (l) its paid-up irredeemable cumulative preference shares, if the Monetary Authority is satisfied that under the terms on which the shares are to be issued, the following conditions are met- (Amended L.N. 249 of 2002)
 
   - (i) the shares are not redeemable without the prior consent of the Monetary Authority;
 
@@ -420,9 +420,7 @@ Category II-Supplementary Capital
 
 - 2. In relation to exchange rate and gold contracts and interest rate contracts an authorized institution shall, in determining the credit equivalent amount use either the current exposure method of valuation or, with the agreement of the Monetary Authority, the original exposure method of valuation. (Amended L.N. 336 of 1996)
 
-- 3.
-
-- If an authorized institution nets its obligation with a counterparty under a valid bilateral netting agreement, it may use the following credit conversion factor—
+- 3. If an authorized institution nets its obligation with a counterparty under a valid bilateral netting agreement, it may use the following credit conversion factor—
 
 - Nature of item | Credit conversion factor
 
@@ -431,7 +429,3 @@ Category II-Supplementary Capital
 - 2. | Interest rate contracts Credit conversion factors to be used in calculating contracts with an original maturity of— (a) 1 year or less (Amended L.N. 336 of 1996) (b) over 1 year to 2 years (Amended L.N. 336 of 1996) (c) over 2 years, the factor for over 1 year to 2 years plus for each additional year (Amended L.N. 336 of 1996) | 0.35% 0.75% 0.75%
 
 - (Third Schedule replaced L.N. 412 of 1989. Amended 82 of 1992 s. 25)
-
-- _
-
-- * This Notice was omitted as spent in Issue 7 of the Loose-leaf Edition of Laws. For text, please see L.N. 402 of 1990, as amended by L.N. 278 of 1991 and L.N. 181 of 1992.
