@@ -1,0 +1,5 @@
+LIFE SAVING APPLIANCES (EXEMPTION) NOTICE
+
+(Cap. 369 section 114)
+
+[12 September 1986]
