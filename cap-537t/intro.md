@@ -1,5 +1,3 @@
 UNITED NATIONS SANCTIONS (LIBERIA) REGULATION 2003
 
-(Cap. 537, section 3)
-
-[7 November 2003]
+(Ceased to have effect)
