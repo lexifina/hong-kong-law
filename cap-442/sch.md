@@ -80,4 +80,6 @@ Item | Ordinance | Decision
 
 41. | Prevention of Copyright Piracy Ordinance (Cap. 544) | A decision of the Commissioner of Customs and Excise under section 11 or 12 of the Ordinance. (Added 22 of 1998 s. 43)
 
+46. | Port Control (Cargo Working Areas) Regulations (Cap. 81 sub. leg.) | A decision of the Director or the supervisor under regulation 4A(4), 5B, 6AA, 7, 7A, 7B, 7C, 7D, 7E, 13 or 21. (Added L.N. 280 of 1999)
+
 Time within which appeals are to be made An appeal under any item mentioned in this Schedule shall be made within 28 days after receipt of notice of the decision to which the appeal relates.
