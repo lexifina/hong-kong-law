@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 4, 5, 5A, 19, 20, 29, 29A, 29C, 29D, 29G, 29H, 29I, 30 & 45]
+[ss. 4, 5, 5A, 19, 20, 29, 29A, 29C, 29D, 29G, 29H, 29I, 30, 45 & 47B] (Amended 34 of 2003 s. 8)
 
 Nature of Instrument | (A) Stamp Duty (B) Time for stamping (C) Persons liable
 
@@ -136,7 +136,7 @@ Note 3 A foreclosure order shall not be duly stamped unless the Collector has st
 
 (C) The transferor and the transferee
 
-And see sections 5, 7, 19, 30 and 47A (Amended 70 of 2000 s. 3)
+And see sections 5, 7, 19, 30, 47A and 47B (Amended 70 of 2000 s. 3; 34 of 2003 s. 8)
 
 Note No stamp duty under this sub-head shall be payable on a transfer executed by a recognized clearing house (within the meaning of section 19(16)) or its nominee—
 
