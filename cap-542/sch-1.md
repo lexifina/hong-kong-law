@@ -66,7 +66,7 @@ Item Body
 
 - 30. Lamma Island Lo Dik Wan Aquaculture Association.
 
-- 31. The Lamma Island (North) Villagers’ Thrift and Loan Co-operative Society Limited.
+- 31. (Repealed 25 of 2003 s. 43)
 
 - 32. Lau Fau Shan Oyster Industry Association, New Territories.
 
@@ -92,7 +92,7 @@ Item Body
 
 - 43. Quality Broiler Development Association.
 
-- 44. The Sai Kung Agricultural Products Marketing & Credit Co-operative Society, Ltd.
+- 44. (Repealed 25 of 2003 s. 43)
 
 - 45. Sai Kung Fishermen Association Limited.
 
@@ -140,7 +140,7 @@ Item Body
 
 - 67. The Tsuen Wan Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 68. The Tsuen Wan Gill Net Fishermen’s Credit Co-operative Society, Unlimited.
+- 68. The Tuen Mun Mechanized Fishing Boat Fishermen’s Credit Co-operative Society, Unlimited. (Replaced 25 of 2003 s. 43)
 
 - 69. Tuen Mun Agricultural Association.
 
@@ -154,10 +154,20 @@ Item Body
 
 - 74. Yung Shue Au Marine Fish Culture Business Association.
 
-- 75. 大嶼山水陸居民聯合會.
+- 75. (Repealed 25 of 2003 s. 43)
 
 - 76. 青衣水陸居民聯誼會.
 
 - 77. 荃灣葵青居民聯會(漁民組).
 
-- 78. 荃灣葵青漁民會. (Replaced 48 of 1999 s. 43)
+- 78. 荃灣葵青漁民會
+
+- 79. The Shau Kei Wan Stern Trawler Fishermen’s Credit Co-operative Society, Unlimited. (Added 25 of 2003 s. 43)
+
+- 80. Hong Kong Organic Farming Association Limited. (Added 25 of 2003 s. 43)
+
+- 81. N.T. North District Fishermen’s Association. (Added 25 of 2003 s. 43)
+
+- 82. Tai Po Off Shore Fishermen’s Association. (Added 25 of 2003 s. 43)
+
+- 83. Aberdeen Fisherwomen Association. (Added 25 of 2003 s. 43) (Replaced 48 of 1999 s. 43)

@@ -6,11 +6,11 @@ COMPOSITION OF THE TRANSPORT FUNCTIONAL CONSTITUENCY
 
 Item Body
 
-- 1. Adams Parking (International) Limited.
+- 1. VINCI Park Services Hong Kong Limited. (Replaced 25 of 2003 s. 44)
 
 - 2. Airport Authority Hong Kong.
 
-- 3. Airport Ferry Services Ltd.
+- 3. (Repealed 25 of 2003 s. 44)
 
 - 4. Articulated & Commercial Vehicle’s Instructors Union.
 
@@ -18,7 +18,7 @@ Item Body
 
 - 6. Autotoll Limited.
 
-- 7. Chartered Institute of Transport in Hong Kong.
+- 7. The Chartered Institute of Logistics and Transport in Hong Kong. (Replaced 25 of 2003 s. 44)
 
 - 8. China Merchants Shipping & Enterprises Co. Ltd.
 
@@ -38,7 +38,7 @@ Item Body
 
 - 16. CTOD Association Company Ltd.
 
-- 17. CTS-Parkview Ferry Services Ltd.
+- 17. Turbojet Ferry Services (Guangzhou) Limited. (Replaced 25 of 2003 s. 44)
 
 - 18. Discovery Bay Transportation Services Ltd.
 
@@ -66,7 +66,7 @@ Item Body
 
 - 30. Hoi Kong Container Services Co. Ltd.
 
-- 31. Holiday Resorts (Hong Kong) Ltd.
+- 31. (Repealed 25 of 2003 s. 44)
 
 - 32. Hon Wah Public Light Bus Association Ltd.
 
@@ -82,17 +82,17 @@ Item Body
 
 - 38. Hong Kong and Kowloon Rich Radio Car Service Centre Association Ltd.
 
-- 39. Hong Kong & Kowloon Taxi Companies Association Ltd.
+- 39. Hong Kong and Kowloon Taxi Companies Association Limited. (Replaced 25 of 2003 s. 44)
 
-- 40. Hong Kong Association of Freight Forwarding Agents Ltd.
+- 40. HongKong Association of Freight Forwarding and Logistics Limited. (Replaced 25 of 2003 s. 44)
 
 - 41. Hong Kong Automobile Association.
 
 - 42. The Hong Kong Cargo-Vessel Traders’ Association Ltd.
 
-- 43. Hong Kong Commercial Vehicle Driving Instructors Association Ltd.
+- 43. Hong Kong Commercial Vehicle Driving Instructors Association. (Replaced 25 of 2003 s. 44)
 
-- 44. Hong Kong Container Freight Station Association Limited.
+- 44. Hong Kong CFS and Logistics Association Limited. (Replaced 25 of 2003 s. 44)
 
 - 45. Hong Kong Container Tractor Owner Association Ltd.
 
@@ -138,7 +138,7 @@ Item Body
 
 - 66. Hong Kong Tele-call Taxi Association.
 
-- 67. Hong Kong Tramways Ltd.
+- 67. Hong Kong Tramways, Limited. (Replaced 25 of 2003 s. 44)
 
 - 68. Hong Kong Transportation Warehouse Wharf Club.
 
@@ -148,9 +148,9 @@ Item Body
 
 - 71. Hongkong International Terminals Ltd.
 
-- 72. Hop Shing Kung Ferry Co., Ltd.
+- 72. (Repealed 25 of 2003 s. 44)
 
-- 73. Institute of Advanced Motorists Hong Kong.
+- 73. Institute of Advanced Motorists (Hong Kong) Limited. (Replaced 25 of 2003 s. 44)
 
 - 74. The Institute of Seatransport.
 
@@ -226,13 +226,13 @@ Item Body
 
 - 110. Organisation of Hong Kong Drivers.
 
-- 111. Owners and Drivers Association.
+- 111. Ken On Concrete Co. Ltd. Concrete Lorry Owner-Drivers Association. (Replaced 25 of 2003 s. 44)
 
 - 112. Peak Tramways Co., Ltd.
 
 - 113. Pioneer Concrete Owners Drivers Association.
 
-- 114. The Polly Ferry Co., Ltd.
+- 114. (Repealed 25 of 2003 s. 44)
 
 - 115. Private Hire Car for Young Children Association Ltd.
 
@@ -254,23 +254,23 @@ Item Body
 
 - 124. Route 3 (CPS) Company Limited.
 
-- 125. Sai Kung PLB Drivers and Owners Association.
+- 125. Sai Kung Public Light Bus Drivers and Owners Association. (Replaced 25 of 2003 s. 44)
 
 - 126. Sai Kung Taxi Operators Association Ltd.
 
 - 127. Salvage Association (Hong Kong Office).
 
-- 128. Sea-Land Orient Terminals Ltd.
+- 128. CSX World Terminals Hong Kong Limited. (Replaced 25 of 2003 s. 44)
 
-- 129. Serco Guardian (F.M.) Ltd.
+- 129. Serco Group (HK) Limited. (Replaced 25 of 2003 s. 44)
 
-- 130. Shun Tak Ferries Ltd.
+- 130. (Repealed 25 of 2003 s. 44)
 
 - 131. The “Star” Ferry Co., Ltd.
 
 - 132. Sun Hing Taxi Radio Association.
 
-- 133. T.C. Taxi United Association Ltd.
+- 133. (Repealed 25 of 2003 s. 44)
 
 - 134. Tang’s Taxi Companies Association Ltd.
 
@@ -292,7 +292,7 @@ Item Body
 
 - 143. Tuen Mun PLB Association.
 
-- 144. Tung Yee Shipbuilding & Repairing Merchants General Association.
+- 144. Tung Yee Shipbuilding and Repairing Merchants General Association Limited. (Replaced 25 of 2003 s. 44)
 
 - 145. United Association of Public Lightbus Hong Kong.
 
@@ -304,7 +304,7 @@ Item Body
 
 - 149. Wai Fat Taxi Owners Association Ltd.
 
-- 150. Wai Yik HK & Kln & NT Taxi Owners Association.
+- 150. Wai Yik H.K. & Kowloon and New Territories Taxi Owners Association. (Replaced 25 of 2003 s. 44)
 
 - 151. West Coast International (Parking) Limited.
 
@@ -316,7 +316,7 @@ Item Body
 
 - 155. Wing Tai Car Owners & Drivers Association Ltd.
 
-- 156. Wing Yip Shipping & Transportation Co. Ltd.
+- 156. (Repealed 25 of 2003 s. 44)
 
 - 157. Wu Gang Shipping Co. Ltd.
 
@@ -326,4 +326,78 @@ Item Body
 
 - 160. Young Children School Mini-Buses Operators Association Ltd.
 
-- 161. Yuen Long Tai Po PLB Merchants Association Ltd. (Added 48 of 1999 s. 43)
+- 161. Yuen Long Tai Po PLB Merchants Association Ltd.
+
+- 162. Rights of Taxi Owners and Drivers Association Limited. (Added 25 of 2003 s. 44)
+
+- 163. New World First Ferry Services Limited. (Added 25 of 2003 s. 44)
+
+- 164. New World First Ferry Services (Macau) Limited. (Added 25 of 2003 s. 44)
+
+- 165. Hong Kong Container Drayage Services Association Limited. (Added 25 of 2003 s. 44)
+
+- 166. Hong Kong Kowloon & N.T. Grab-Mounted Lorries Association Limited. (Added 25 of 2003 s. 44)
+
+- 167. Hong Kong Waste Disposal Industry Association. (Added 25 of 2003 s. 44)
+
+- 168. HK Public-light Bus Owner & Driver Association. (Added 25 of 2003 s. 44)
+
+- 169. Container Truck Drivers Union. (Added 25 of 2003 s. 44)
+
+- 170. The Concrete Producers Association of Hong Kong Limited. (Added 25 of 2003 s. 44)
+
+- 171. Hongkong Guangdong Boundary Crossing Bus Association Limited. (Added 25 of 2003 s. 44)
+
+- 172. Tsui Wah Ferry Service Company Limited. (Added 25 of 2003 s. 44)
+
+- 173. Quality Driver Training Centre Limited. (Added 25 of 2003 s. 44)
+
+- 174. Public and Private Commercial Driving Instructors’ Society. (Added 25 of 2003 s. 44)
+
+- 175. Shun Tak-China Travel Ship Management Limited. (Added 25 of 2003 s. 44)
+
+- 176. Cruise Ferries (HK) Limited. (Added 25 of 2003 s. 44)
+
+- 177. Asia Airfreight Terminal Company Limited. (Added 25 of 2003 s. 44)
+
+- 178. The Hong Kong Joint Branch of The Royal Institution of Naval Architects and The Institute of Marine Engineering, Science and Technology. (Added 25 of 2003 s. 44)
+
+- 179. The Hongkong Salvage & Towage Company Limited. (Added 25 of 2003 s. 44)
+
+- 180. The Institute of Chartered Shipbrokers, Hong Kong Branch. (Added 25 of 2003 s. 44)
+
+- 181. Hongkong United Dockyards Limited. (Added 25 of 2003 s. 44)
+
+- 182. Guangdong and Hong Kong Feeder Association Limited. (Added 25 of 2003 s. 44)
+
+- 183. Hong Kong Right Hand Drive Motors Association Limited. (Added 25 of 2003 s. 44)
+
+- 184. The Institute of the Motor Industry Hong Kong. (Added 25 of 2003 s. 44)
+
+- 185. Hong Kong Vehicle Repair Merchants Association Limited. (Added 25 of 2003 s. 44)
+
+- 186. Environmental Vehicle Repairers Association Limited. (Added 25 of 2003 s. 44)
+
+- 187. The Hong Kong Taxi and Public Light Bus Association Limited. (Added 25 of 2003 s. 44)
+
+- 188. Park Island Transport Company Limited. (Added 25 of 2003 s. 44)
+
+- 189. Discovery Bay Road Tunnel Company Limited. (Added 25 of 2003 s. 44)
+
+- 190. International Association of Transport Officers. (Added 25 of 2003 s. 44)
+
+- 191. Helicopters Hong Kong Limited. (Added 25 of 2003 s. 44)
+
+- 192. Hong Kong (Cross Border) Transportation Drivers’ Association. (Added 25 of 2003 s. 44)
+
+- 193. Hong Kong Logistics Association Limited. (Added 25 of 2003 s. 44)
+
+- 194. Hong Kong Container Depot and Repairer Association Limited. (Added 25 of 2003 s. 44)
+
+- 195. New World Parking Management Limited. (Added 25 of 2003 s. 44)
+
+- 196. The Nautical Institute-Hong Kong Branch. (Added 25 of 2003 s. 44)
+
+- 197. The Hong Kong Union of Light Van Employees. (Added 25 of 2003 s. 44)
+
+- 198. Worldwide Flight Services, Inc. (Added 25 of 2003 s. 44) (Added 48 of 1999 s. 43)

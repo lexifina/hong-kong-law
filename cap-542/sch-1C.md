@@ -8,13 +8,13 @@ Item Body
 
 - 1. The Anglo-Chinese Vegetable Wholesale Merchants Association Limited.
 
-- 2. The Association of Retailers and Tourism Services.
+- 2. Association of Better Business & Tourism Services. (Replaced 25 of 2003 s. 46)
 
 - 3. Cheung Sha Wan Poultry United Wholesalers Association Ltd.
 
 - 4. Chinese Medicine Merchants Association Ltd.
 
-- 5. Chinese Merchants Association.
+- 5. Chinese Merchants (H.K.) Association. (Replaced 25 of 2003 s. 46)
 
 - 6. Chinese Paper Merchants Association.
 
@@ -68,7 +68,7 @@ Item Body
 
 - 31. Hong Kong & Kowloon Timber Merchants Association.
 
-- 32. Hong Kong & Kowloon Vegetable Transportation Fraternity Association.
+- 32. (Repealed 25 of 2003 s. 46)
 
 - 33. Hong Kong & Kowloon Vermicelli & Noodle Manufacturing Industry Merchants’ General Association.
 
@@ -88,7 +88,7 @@ Item Body
 
 - 41. Hong Kong Flower Retailers Association.
 
-- 42. The Hong Kong Food Trades Association Limited.
+- 42. The Hong Kong Food Council Limited. (Replaced 25 of 2003 s. 46)
 
 - 43. Hong Kong Fresh Fish Merchants Association.
 
@@ -116,7 +116,7 @@ Item Body
 
 - 55. Hong Kong Petroleum, Chemicals and Pharmaceutical Materials Merchants Association Ltd.
 
-- 56. The Hong Kong Photo Marketing Association Limited.
+- 56. Hong Kong Photo Marketing Association Limited. (Replaced 25 of 2003 s. 46)
 
 - 57. Hong Kong Piece Goods Merchants’ Association.
 
@@ -126,11 +126,11 @@ Item Body
 
 - 60. Hong Kong Provision & Grocery General Commercial Chamber.
 
-- 61. Hong Kong Rattan Merchants Association.
+- 61. (Repealed 25 of 2003 s. 46)
 
 - 62. Hong Kong Record Merchants Association Ltd.
 
-- 63. Hong Kong Registered Rice Wholesalers Association Limited.
+- 63. Hong Kong Rice Suppliers’ Association Limited. (Replaced 25 of 2003 s. 46)
 
 - 64. Hong Kong Retail Management Association Ltd.
 
@@ -138,7 +138,7 @@ Item Body
 
 - 66. Hong Kong Stamp and Coin Dealers Association Ltd.
 
-- 67. Hong Kong Sugar Merchants’ Association.
+- 67. (Repealed 25 of 2003 s. 46)
 
 - 68. The Hong Kong Video Industry Association Ltd.
 
@@ -146,7 +146,7 @@ Item Body
 
 - 70. The Hongkong & Kowloon General Merchandise Merchants’ Association.
 
-- 71. Hongkong Diamond Bourse Limited.
+- 71. (Repealed 25 of 2003 s. 46)
 
 - 72. Hongkong Kowloon New Territories & Overseas Fish Wholesalers Association Limited.
 
@@ -160,7 +160,7 @@ Item Body
 
 - 77. The Kowloon Pearls, Precious Stones, Jade, Gold & Silver Ornament Merchants Association.
 
-- 78. Kowloon Pig Laan Merchants Association.
+- 78. (Repealed 25 of 2003 s. 46)
 
 - 79. Kowloon Poultry Laan Merchants Association.
 
@@ -172,7 +172,7 @@ Item Body
 
 - 83. Nam Pak Hong Association.
 
-- 84. New Territories Poultry Wholesalers Association.
+- 84. (Repealed 25 of 2003 s. 46)
 
 - 85. Po Sau Tong Ginseng & Antler Association Hong Kong Ltd.
 
@@ -184,6 +184,14 @@ Item Body
 
 - 89. Umbrella Dealers Association, Hong Kong and Kowloon.
 
-- 90. Victoria Cottonyard and Piecegoods Merchants Association Ltd.
+- 90. (Repealed 25 of 2003 s. 46)
 
-- 91. Yuet Sum Kong Vegetable Association (Hong Kong) Co. (Added 48 of 1999 s. 43)
+- 91. Yuet Sum Kong Vegetable Association (Hong Kong) Co.
+
+- 92. Kowloon Fruit & Vegetable Merchants Association Limited. (Added 25 of 2003 s. 46)
+
+- 93. The Hong Kong And Kowloon Electric Trade Association. (Added 25 of 2003 s. 46)
+
+- 94. Hong Kong Poultry Wholesalers Association. (Added 25 of 2003 s. 46)
+
+- 95. Diamond Federation of Hong Kong, China Limited. (Added 25 of 2003 s. 46) (Added 48 of 1999 s. 43)

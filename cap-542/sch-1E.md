@@ -12,8 +12,10 @@ Item Body
 
 - 3. Federation of Hong Kong Restaurant Owners Limited.
 
-- 4. Hong Kong Catering Industry Association Limited.
+- 4. (Repealed 25 of 2003 s. 48)
 
 - 5. The Hong Kong Restaurant and Eating House Merchants General Association.
 
-- 6. The Kowloon Restaurant and Eating House Merchants General Association. (Added 48 of 1999 s. 43)
+- 6. (Repealed 25 of 2003 s. 48)
+
+- 7. Hong Kong Catering Industry Associated Limited. (Added 25 of 2003 s. 48) (Added 48 of 1999 s. 43)

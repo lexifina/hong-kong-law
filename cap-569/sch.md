@@ -270,9 +270,11 @@ ELECTION COMMITTEE
 
       - 1. | Hong Kong Chinese Enterprises Association | Members of the Hong Kong Chinese Enterprises Association entitled to vote at general meetings of the Association.
 
-      - 2. | Tourism | (1) Members of the Travel Industry Council of Hong Kong entitled to vote at general meetings of the Council.
+      - 2. | Tourism | (1A) Travel industry members of the body known immediately before 1 April 2001 as the Hong Kong Tourist Association, entitled immediately before that date, under the constitution of that body in force immediately before that date, to vote at general meetings of that body. (Added 25 of 2003 s. 56)
 
-      - (2) Members of the Board of Airline Representatives in Hong Kong.
+      - (1) Members of the Travel Industry Council of Hong Kong entitled to vote at general meetings of the Council.
+
+      - (2) Members of the Hong Kong Board of Airline Representatives. (Replaced 25 of 2003 s. 56)
 
       - 3. | Hotel | (1) Members of the Hong Kong Hotels Association entitled to vote at general meetings of the Association.
 
@@ -288,7 +290,7 @@ ELECTION COMMITTEE
 
       - (4) The Society of Practitioners of Chinese Herbal Medicine Limited;
 
-      - (5) The Hong Kong Traditional Chinese Medicine Orthopaedic and Traumatic Association Limited;
+      - (5) The Hong Kong T.C.M. Orthopaedic and Traumatic Association Limited; (Replaced 25 of 2003 s. 56)
 
       - (6) The Hong Kong Federation of China of Traditional Chinese Medicine;
 
@@ -312,7 +314,23 @@ ELECTION COMMITTEE
 
       - (d) The Hong Kong Academy for Performing Arts;
 
-      - (e) The Open University of Hong Kong.
+      - (e) The Open University of Hong Kong; (Amended 25 of 2003 s. 56)
+
+      - (f) the School of Continuing and Professional Education of the City University of Hong Kong; (Added 25 of 2003 s. 56)
+
+      - (g) the School of Continuing Education of the Hong Kong Baptist University; (Added 25 of 2003 s. 56)
+
+      - (h) the Lingnan Institute of Further Education of the Lingnan University; (Added 25 of 2003 s. 56)
+
+      - (i) the School of Continuing Studies of The Chinese University of Hong Kong; (Added 25 of 2003 s. 56)
+
+      - (j) the Division of Continuing Professional Education of The Hong Kong Institute of Education; (Added 25 of 2003 s. 56)
+
+      - (k) the School of Professional Education and Executive Development of The Hong Kong Polytechnic University; (Added 25 of 2003 s. 56)
+
+      - (l) the HKUST College of Lifelong Learning Limited; (Added 25 of 2003 s. 56)
+
+      - (m) the HKU School of Professional and Continuing Education. (Added 25 of 2003 s. 56)
 
       - (2) Members of—
 
@@ -338,7 +356,9 @@ ELECTION COMMITTEE
 
       - (k) the Council of Lingnan University;
 
-      - (l) the Board of Governors of the Hong Kong Shue Yan College.
+      - (l) the Board of Governors of the Hong Kong Shue Yan College; (Amended 25 of 2003 s. 56)
+
+      - (m) the Board of Governors of the Caritas Francis Hsu College. (Added 25 of 2003 s. 56)
 
       - 6. | Education | (1) Registered teachers registered under the Education Ordinance (Cap. 279).
 
@@ -354,9 +374,9 @@ ELECTION COMMITTEE
 
       - (c) industrial training centres established under the Industrial Training (Clothing Industry) Ordinance (Cap. 318);
 
-      - (d) Pinehill Village Advanced Training Centre of the Hong Kong Association for the Mentally Handicapped;
+      - (d) Hong Chi Association-Hong Chi Pinehill Advanced Training Centre; (Replaced 25 of 2003 s. 56)
 
-      - (e) Caritas Lok Mo Vocational Training Centre of the Caritas-Hong Kong under the Caritas-Hong Kong Incorporation Ordinance (Cap. 1092).
+      - (e) Caritas Lok Mo Skills Centre of Caritas-Hong Kong incorporated under the Caritas-Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56)
 
       - (5) Registered managers of schools registered under the Education Ordinance (Cap. 279).
 
@@ -472,11 +492,7 @@ ELECTION COMMITTEE
 
         - (b) the compilation of a provisional register of members of the Election Committee to be compiled and published after the making of a vacancy declaration, means the date of the making of the vacancy declaration;
 
-      - “vacancy declaration” (空缺宣布) means—
-
-        - (a) a declaration under section 5 of this Ordinance; or
-
-        - (b) a declaration under section 35 of the Legislative Council Ordinance (Cap. 542) as to the existence of a vacancy among the Members of the Legislative Council returned by the Election Committee.
+      - “vacancy declaration” (空缺宣布) means a declaration under section 5 of this Ordinance. (Replaced 25 of 2003 s. 56)
 
   - 5. Supplementary nomination or subsector
 
@@ -680,9 +696,9 @@ ELECTION COMMITTEE
 
       - (2) A person is eligible to be registered as a voter for the sports, performing arts, culture and publication subsector subject to the following conditions—
 
-        - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of, or Part 1 of Schedule 1B or item 25, 29, 40, 41, 43, 50, 54 or 59 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the sports sub-subsector;
+        - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of, or Part 1 of Schedule 1B or item 40, 41, 43, 50, 54 or 59 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the sports sub-subsector; (Amended 25 of 2003 s. 56)
 
-        - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i) of, or item 1, 2, 3, 4, 5, 8, 9, 12, 16, 17, 18, 23, 24, 34, 39, 42, 44, 45, 46, 47, 49, 52, 55, 56, 57 or 60 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the performing arts sub-subsector;
+        - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i), (ka) or (kb) of, or item 1, 2, 3, 5, 9, 16, 17, 23, 24, 34, 39, 42, 45, 52, 55, 56, 57, 63 or 64 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the performing arts sub-subsector; (Amended 25 of 2003 s. 56)
 
         - (c) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(d) or (e) of, or Part 2 of Schedule 1B or item 6, 7, 10, 11, 13, 14, 19, 20, 22, 26, 27, 31, 33, 35, 37, 38, 48, 53, 58, 61 or 62 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the culture sub-subsector; and
 
@@ -690,9 +706,9 @@ ELECTION COMMITTEE
 
       - (3) A person is eligible to be registered as a voter for the higher education subsector if the person—
 
-        - (a) is a person described in section 20E(a) or (b) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the education functional constituency; or
+        - (a) is a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the education functional constituency; or
 
-        - (b) is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20E(a) or (b) of the Legislative Council Ordinance (Cap. 542).
+        - (b) is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542). (Amended 25 of 2003 s. 56)
 
       - (4) A person is eligible to be registered as a voter for the education subsector if—
 
@@ -716,9 +732,9 @@ ELECTION COMMITTEE
 
       - (6) A person is eligible to be registered as a voter for the tourism subsector if the person—
 
-        - (a) is a person described in section 20O(b) or (c) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the tourism functional constituency; or
+        - (a) is a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the tourism functional constituency; or
 
-        - (b) is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(b) or (c) of the Legislative Council Ordinance (Cap. 542).
+        - (b) is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542). (Amended 25 of 2003 s. 56)
 
       - (7) A person is eligible to be registered as a voter for the hotel subsector if—
 
@@ -774,13 +790,13 @@ ELECTION COMMITTEE
 
       - (12) A person who would, but for this subsection, be eligible to be registered as a voter for 2 or more subsectors may, subject to subsection (10), be registered as a voter for only one of those subsectors of the person’s choice.
 
-      - (13) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(a) or (b) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the higher education subsector.
+      - (13) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the higher education subsector. (Amended 25 of 2003 s. 56)
 
       - (14) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the education subsector.
 
       - (15) A person who is eligible to be registered as a voter for both the education subsector and the higher education subsector, may only be registered as a voter for the higher education subsector.
 
-      - (16) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(b) or (c) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the tourism subsector.
+      - (16) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the tourism subsector. (Amended 25 of 2003 s. 56)
 
       - (17) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the hotel subsector.
 

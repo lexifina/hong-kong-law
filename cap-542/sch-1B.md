@@ -20,7 +20,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 7. Kwun Tong Sports Promotion Association Ltd.
 
-  - 8. Mongkok District Cultural Recreation & Sports Association Ltd.
+  - 8. Mong Kok District Cultural, Recreational and Sports Association Limited. (Replaced 25 of 2003 s. 45)
 
   - 9. North District Sports Association.
 
@@ -54,11 +54,11 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 4. Kwai Chung and Tsing Yi District Culture and Arts Co-ordinating Association Limited.
 
-  - 5. Kwun Tong District Culture & Recreation Promotion Association Limited.
+  - 5. Kwun Tong District Culture and Recreation Promotion Association. (Replaced 25 of 2003 s. 45)
 
   - 6. North District Arts Advancement Association Limited.
 
-  - 7. Saikung Cultural & Recreation Advancement Association.
+  - 7. Sai Kung Culture & Recreational Advancement Association. (Replaced 25 of 2003 s. 45)
 
   - 8. Sha Tin Arts Association Limited.
 
@@ -86,7 +86,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 3. Artiste Training Alumni Association Limited.
 
-  - 4. Asia Television Limited.
+  - 4. (Repealed 25 of 2003 s. 45)
 
   - 5. Composers and Authors Society of Hong Kong Limited.
 
@@ -94,7 +94,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 7. The Friends of the Hong Kong Museum of Art.
 
-  - 8. Galaxy Satellite Broadcasting Limited.
+  - 8. (Repealed 25 of 2003 s. 45)
 
   - 9. HK Film Directors’ Guild Ltd.
 
@@ -102,7 +102,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 11. Hong Kong Archaeological Society.
 
-  - 12. Hong Kong Cable Television Limited.
+  - 12. (Repealed 25 of 2003 s. 45)
 
   - 13. The Hong Kong Children’s Choir.
 
@@ -110,15 +110,15 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 15. Hong Kong Chinese Press Association.
 
-  - 16. Hong Kong Cinema and Theatrical Enterprise Association Ltd.
+  - 16. Hong Kong & Macau Cinema and Theatrical Enterprise Association Limited. (Replaced 25 of 2003 s. 45)
 
   - 17. Hong Kong Cinematography and Television Lighting Association Limited.
 
-  - 18. Hong Kong Commercial Broadcasting Company Limited.
+  - 18. (Repealed 25 of 2003 s. 45)
 
   - 19. Hong Kong Curators Association.
 
-  - 20. Hong Kong Dance Company.
+  - 20. Hong Kong Dance Company Limited. (Replaced 25 of 2003 s. 45)
 
   - 21. Hong Kong Federation of Journalists Ltd.
 
@@ -128,7 +128,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 24. Hong Kong Film Arts Association Limited.
 
-  - 25. Hong Kong Golf Association.
+  - 25. (Repealed 25 of 2003 s. 45)
 
   - 26. Hong Kong History Society.
 
@@ -136,13 +136,13 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 28. Hong Kong Journalists Association.
 
-  - 29. The Hong Kong Life Saving Society.
+  - 29. (Repealed 25 of 2003 s. 45)
 
   - 30. The Hong Kong Mass Media Professionals Association Ltd.
 
   - 31. Hong Kong Museum of Medical Sciences Society.
 
-  - 32. Hong Kong News Executives’ Association Ltd.
+  - 32. Hong Kong News Executives’ Association, Limited. (Replaced 25 of 2003 s. 45)
 
   - 33. Hong Kong PEN (English) Centre.
 
@@ -152,9 +152,9 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 36. Hong Kong Press Photographers Association.
 
-  - 37. Hong Kong Recreation Management Association.
+  - 37. Hong Kong Recreation Management Association Limited. (Replaced 25 of 2003 s. 45)
 
-  - 38. Hong Kong Repertory Theatre.
+  - 38. Hong Kong Repertory Theatre Limited. (Replaced 25 of 2003 s. 45)
 
   - 39. Hong Kong Screen Writers’ Guild Ltd.
 
@@ -166,17 +166,15 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 43. Hong Kong Tai Chi Association.
 
-  - 44. Hong Kong Telecom VOD Limited.
+  - 44. (Repealed 25 of 2003 s. 45)
 
   - 45. Hong Kong United Arts Entertainment Co. Ltd.
 
-  - 46. Hutchvision Hong Kong Limited.
-
-  - 47. Metro Broadcast Corporation Limited.
+  - 46-47. (Repealed 25 of 2003 s. 45)
 
   - 48. Min Chiu Society.
 
-  - 49. Motion Picture Production Executives (Hong Kong) Association.
+  - 49. (Repealed 25 of 2003 s. 45)
 
   - 50. New Territories Regional Sports Association.
 
@@ -186,7 +184,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 53. Royal Asiatic Society Hong Kong Branch.
 
-  - 54. Sail Training Association of Hong Kong Ltd.
+  - 54. Sail Training Association of Hong Kong Limited. (Replaced 25 of 2003 s. 45)
 
   - 55. Society of Cinematographers (Hong Kong) Limited.
 
@@ -198,8 +196,12 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 59. Swimming Teacher’s Association Hong Kong.
 
-  - 60. Television Broadcasts Limited.
+  - 60. (Repealed 25 of 2003 s. 45)
 
   - 61. Videotage.
 
-  - 62. Zuni Icosahedron. (Added 48 of 1999 s. 43)
+  - 62. Zuni Icosahedron.
+
+  - 63. Federation of Hong Kong Film Workers Limited. (Added 25 of 2003 s. 45)
+
+  - 64. Hong Kong Movie Production Executives Association Limited. (Added 25 of 2003 s. 45) (Added 48 of 1999 s. 43)
