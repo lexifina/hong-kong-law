@@ -38,17 +38,11 @@ PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
     - (b) he is not subject to any limit of stay in Hong Kong.
 
-- 2.
-
-- Permanent resident of the Hong Kong
+- 2. Permanent resident of the Hong Kong
 
 - Special Administrative Region A person who is within one of the following categories is a permanent resident of the Hong Kong Special Administrative Region—
 
-  - (a) A Chinese citizen born in Hong Kong—
-
-    - (i) before 1 July 1987; or
-
-    - (ii) on or after 1 July 1987 if his father or mother was settled or had the right of abode in Hong Kong at the time of his birth or at any later time. (Replaced L.N. 192 of 1999)
+  - (a) A Chinese citizen born in Hong Kong before or after the establishment of the Hong Kong Special Administrative Region. (Replaced L.N. 192 of 1999. Amended L.N. 84 of 2002)
 
   - (b) A Chinese citizen who has ordinarily resided in Hong Kong for a continuous period of not less than 7 years before or after the establishment of the Hong Kong Special Administrative Region.
 
@@ -60,7 +54,9 @@ PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
   - (f) A person other than those residents in categories (a) to (e), who, before the establishment of the Hong Kong Special Administrative Region, had the right of abode in Hong Kong only.
 
-- 3. Establishing permanent residence under paragraph 2(d)
+- 3. Establishing permanent residence
+
+- under paragraph 2(d)
 
   - (1) For the purposes of paragraph 2(d), the person is required—
 
@@ -126,4 +122,4 @@ PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
   - (b) being a person falling within the category in paragraph 2(f), has been absent from Hong Kong for a continuous period of not less than 36 months after he obtained the right of abode in any place other than Hong Kong and has ceased to have ordinarily resided in Hong Kong.
 
-- (Replaced 122 of 1997 s. 5)
+- (Schedule 1 replaced 122 of 1997 s. 5)
