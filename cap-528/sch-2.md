@@ -4,8 +4,6 @@
 
 COPYRIGHT: TRANSITIONAL PROVISIONS AND SAVINGS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 Introductory
 
 - 1.
@@ -424,9 +422,7 @@ Introductory
 
 - 29.
 
-  - (1) Section 104 of this Ordinance (copyright to pass under will with original document or
-
-  - other material thing embodying unpublished work)—
+  - (1) Section 104 of this Ordinance (copyright to pass under will with original document or other material thing embodying unpublished work)—
 
     - (a) does not apply where the testator died before 12 December 1972; and
 
@@ -568,7 +564,7 @@ Introductory
 
 - 40.
 
-  - For the purposes of the application of the definition in section 198 of this Ordinance (minor definitions) of the expression “unauthorized” in relation to things done before commencement—
+  - For the purposes of the application of the definition in section 198(1) of this Ordinance (minor definitions) of the expression “unauthorized” in relation to things done before commencement— (Amended 64 of 2000 s. 18)
 
     - (a) paragraph (a) applies in relation to things done before 12 December 1972 as if the reference to the licence of the copyright owner were a reference to his consent or acquiescence;
 
