@@ -920,6 +920,8 @@ THE POISONS LIST
 
 - Fluvoxamine; its salts
 
+- Fondaparinux; its salts
+
 - Formestane
 
 - Formoterol; its salts
@@ -1137,6 +1139,8 @@ THE POISONS LIST
 - Levallorphan; its salts
 
 - Levetiracetam; its salts
+
+- Levosimendan; its salts
 
 - Lidoflazine
 
@@ -1508,6 +1512,8 @@ THE POISONS LIST
 
 - Paramethadione
 
+- Parecoxib; its salts
+
 - Pargyline; its salts
 
 - Paroxetine; its salts
@@ -1677,6 +1683,10 @@ THE POISONS LIST
 - Latanoprost
 
 - Misoprostol
+
+- Travoprost
+
+- Unoprostone
 
 - their salts; their esters
 
@@ -1990,6 +2000,8 @@ THE POISONS LIST
 
 - Valaciclovir; its salts
 
+- Valdecoxib; its salts
+
 - Valnoctamide
 
 - Valproic acid; its salts; its esters
@@ -2084,7 +2096,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002)
 
 - PART II A
 
