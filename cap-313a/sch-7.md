@@ -28,19 +28,21 @@ SPECIAL ANCHORAGES
 
   - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (i) latitude 22o 19’ 15” north, longitude 114o 06’ 18” east;
+    - (i) latitude 22o 18.858’ north, longitude 114o 06.197’ east; (L.N. 123 of 2002)
 
-    - (ii) latitude 22o 18’ 30” north, longitude 114o 06’ 22” east;
+    - (ii) latitude 22o 18.325’ north, longitude 114o 05.914’ east; (L.N. 123 of 2002)
 
-    - (iii) latitude 22o 18’ 21” north, longitude 114o 06’ 03” east;
+    - (iii) latitude 22o 17.825’ north, longitude 114o 05.964’ east; (L.N. 123 of 2002)
 
-    - (iv) latitude 22o 18’ 21” north, longitude 114o 05’ 47” east;
+    - (iv) latitude 22o 18.409’ north, longitude 114o 06.515’ east; (L.N. 123 of 2002)
 
-    - (v) latitude 22o 18’ 25” north, longitude 114o 05’ 46” east;
+    - (v) latitude 22o 19.000’ north, longitude 114o 06.459’ east. (L.N. 123 of 2002)
 
-    - (vi) latitude 22o 18’ 57” north, longitude 114o 05’ 49” east;
+    - (vi)-(vii) (Repealed L.N. 123 of 2002)
 
-    - (vii) latitude 22o 19’ 09” north, longitude 114o 05’ 59” east. (L.N. 303 of 1994)
+    - Note: The geographical co-ordinates of item 1(b) are represented by the WGS 84. (L.N. 123 of 2002)
+
+- (L.N. 303 of 1994)
 
 - 2. Dangerous Goods Anchorages
 
@@ -80,19 +82,21 @@ SPECIAL ANCHORAGES
 
   - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (i) latitude 22o 19’ 15” north, longitude 114o 06’ 18” east;
+    - (i) latitude 22o 18.409’ north, longitude 114o 06.515’ east; (L.N. 123 of 2002)
 
-    - (ii) latitude 22o 19’ 19” north, longitude 114o 06’ 33” east;
+    - (ii) latitude 22o 19.000’ north, longitude 114o 06.459’ east; (L.N. 123 of 2002)
 
-    - (iii) latitude 22o 19’ 18” north, longitude 114o 06’ 48” east;
+    - (iii) latitude 22o 19.168’ north, longitude 114o 06.767’ east; (L.N. 123 of 2002)
 
-    - (iv) latitude 22o 19’ 01” north, longitude 114o 07’ 21” east;
+    - (iv) latitude 22o 19.171’ north, longitude 114o 07.020’ east; (L.N. 123 of 2002)
 
-    - (v) latitude 22o 18’ 53” north, longitude 114o 07’ 24” east;
+    - (v) latitude 22o 18.927’ north, longitude 114o 07.496’ east; (L.N. 123 of 2002)
 
-    - (vi) latitude 22o 18’ 27” north, longitude 114o 07’ 03” east;
+    - (vi) latitude 22o 18.792’ north, longitude 114o 07.547’ east; (L.N. 123 of 2002)
 
-    - (vii) latitude 22o 18’ 47” north, longitude 114o 06’ 20” east. (L.N. 303 of 1994)
+    - (vii) latitude 22o 18.358’ north, longitude 114o 07.197’ east. (L.N. 123 of 2002) Note: The geographical co-ordinates of item 2(c) are represented by the WGS 84. (L.N. 123 of 2002)
+
+- (L.N. 303 of 1994)
 
   - (d)
 
