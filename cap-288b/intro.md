@@ -1,0 +1,5 @@
+HEUNG YEE KUK ELECTION EXPENSES ORDER
+
+(Cap. 288 section 13)
+
+[18 December 1981]
