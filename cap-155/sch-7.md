@@ -1,0 +1,141 @@
+# SCHEDULE 7
+
+[ss. 16(2) & (10), 17, 29(2) & 135(1) & 8th Sch.]
+
+MINIMUM CRITERIA FOR AUTHORIZATION
+
+- 1.
+
+  - (1) In this Schedule—
+
+    - “adequate” (足夠), in relation to systems of control, includes operating effectively;
+
+    - “controller” (控權人) includes a minority shareholder controller;
+
+    - “net debit balance” (借方淨差額), in relation to a company, means the aggregate of the excess of accumulated losses over accumulated profits disclosed in the profit and loss account, and other reserves separately disclosed in the balance sheet, of the most recent audited accounts of the company;
+
+    - “system of control” (管控制度) includes procedures.
+
+  - (2) For the purposes of the calculation of the paid-up share capital of a company required by this Schedule, there shall be deducted from such share capital any net debit balance.
+
+  - (3) For the avoidance of doubt, it is hereby declared that where pursuant to the provisions of this Schedule the Monetary Authority holds an opinion, or is satisfied, in relation to any matter, his holding that opinion or being so satisfied, as the case may be, shall not of itself bind the Monetary Authority—
+
+    - (a) to continue to hold that opinion or to be so satisfied, as the case may be, whether before, on or after the authorization, if any, of the company to which the matter directly or indirectly relates (including any case where that company is seeking a different authorization); or
+
+    - (b) to hold any similar opinion or to be similarly satisfied, as the case may be, in respect of any similar matter which directly or indirectly relates to any other company seeking or having the same or a different authorization from that first-mentioned company.
+
+  - (4) Without prejudice to the generality of subparagraph (3), the Monetary Authority may regard himself as being satisfied in relation to any matter in respect of which he may be satisfied pursuant to the provisions of this Schedule where—
+
+    - (a) the matter directly or indirectly relates to a company incorporated outside Hong Kong;
+
+    - (b) the relevant banking supervisory authority informs the Monetary Authority that it is satisfied in relation to that matter; and
+
+    - (c) the Monetary Authority is satisfied as to the scope and nature of the supervision exercised by that authority.
+
+  - (5) For the avoidance of doubt, it is hereby declared that subparagraph (4) shall operate before, on and after the authorization, if any, of the company to which any matter referred to in that subparagraph directly or indirectly relates.
+
+  - (6) For the purposes of paragraph 13(b)(ii)(A)(VI) and (VII), a company is an associated company of any other company where that second-mentioned company may—
+
+    - (a) by means of the holding of shares or the possession of voting power in or in relation to that first-mentioned company or any other body corporate; or
+
+    - (b) by virtue of any powers conferred by the memorandum or articles of association or other document regulating that first-mentioned company or any other body corporate, significantly influence the conduct of the affairs of that first-mentioned company.
+
+- 2. If the company is incorporated outside Hong Kong, it is a bank—
+
+  - (a) as defined in section 46(9); and
+
+  - (b) in respect of which the Monetary Authority is satisfied that it is adequately supervised by the relevant banking supervisory authority.
+
+- 3. The Monetary Authority is satisfied that he knows the identity of each controller of the company.
+
+- 4. If the company is incorporated in Hong Kong, the Monetary Authority is satisfied that each person who is, or is to be, a director, controller or chief executive of the company is a fit and proper person to hold the particular position which he holds or is to hold.
+
+- 5. If the company is incorporated outside Hong Kong, the Monetary Authority is satisfied that each person who is, or is to be—
+
+  - (a) a chief executive of the business in Hong Kong of the company;
+
+  - (b) a director, controller or chief executive of the business of the company in the place where it is incorporated, is a fit and proper person to hold the particular position which he holds or is to hold.
+
+- 6. The Monetary Authority is satisfied that the company presently has, and will if it is authorized continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing—
+
+  - (a) in the case of a company incorporated in Hong Kong seeking authorization to carry on banking business in Hong Kong, its paid-up share capital is not less than $150,000,000 or an equivalent amount in any other approved currency;
+
+  - (b) in the case of a company seeking authorization to carry on a deposit-taking business as a deposit-taking company, its paid-up share capital is not less than $25,000,000 or an equivalent amount in any other approved currency;
+
+  - (c) in the case of a company seeking authorization to carry on a deposit-taking business as a restricted licence bank, its paid-up share capital is not less than $100,000,000 or an equivalent amount in any other approved currency;
+
+  - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization have and maintain a capital adequacy ratio which complies with the provisions of Part XVII applicable to it.
+
+- 7. The Monetary Authority is satisfied that the company—
+
+  - (a) presently maintains, and will if it is authorized continue to maintain, adequate liquidity to meet its obligations as they will or may fall due; and
+
+  - (b) without prejudice to the generality of subparagraph (a), if it is authorized, will on and after authorization have and maintain a liquidity ratio which complies with the provisions of Part XVIII applicable to it.
+
+- 8. The Monetary Authority is satisfied that the company, if it is authorized, will on and after authorization comply with the provisions of Part XV applicable to it.
+
+- 9. The Monetary Authority is satisfied that the company presently maintains, and will if it is authorized continue to maintain, adequate provision for depreciation or diminution in the value of its assets (including provision for bad and doubtful debts), for liabilities which will or may fall to be discharged by it and for losses which will or may occur.
+
+- 10. The Monetary Authority is satisfied that the company presently has, and will if it is authorized continue to have, adequate accounting systems and adequate systems of control.
+
+- 11. If the company is incorporated in Hong Kong, the Monetary Authority is satisfied that it presently discloses, and will if it is authorized continue to disclose, adequate information—
+
+  - (a) in relation to the state of its affairs and its profit and loss; and
+
+  - (b) in—
+
+    - (i) its audited annual accounts within the meaning of section 60(11);
+
+    - (ii) any supplementary information to those audited annual accounts;
+
+    - (iii) the report of the directors under section 129D(1) of the Companies Ordinance (Cap. 32); and
+
+    - (iv) the institution’s cash flow statement, together with any notes thereon, where the statement does not already form part of those audited annual accounts.
+
+- 12. The Monetary Authority is satisfied that the business of the company is presently, and will if it is authorized continue to be, carried on—
+
+  - (a) with integrity, prudence and the appropriate degree of professional competence; and
+
+  - (b) in a manner which is not detrimental, or likely to be detrimental, to the interests of depositors or potential depositors.
+
+- 13. Where the company is seeking authorization to carry on banking business in Hong Kong—
+
+  - (a) in the case of a company incorporated outside Hong Kong—
+
+    - (i) either—
+
+      - (A) the total assets (less contra items) of the whole banking group of which the company is a part are more than US$16,000,000,000 or an equivalent amount in any other approved currency; or
+
+      - (B) that, in the opinion of the Monetary Authority, authorizing the company to carry on banking business in Hong Kong would help to promote the interests of Hong Kong as an international financial centre; and
+
+    - (ii) either—
+
+      - (A) there is, in the opinion of the Monetary Authority, an acceptable degree of reciprocity in respect of banks incorporated in Hong Kong seeking to carry on banking business in the place where that company is incorporated; or
+
+      - (B) the place where that company is incorporated is, or is part of the territory of, a member of the World Trade Organization; (Replaced L.N. 70 of 1996)
+
+  - (b) in the case of a company incorporated in Hong Kong—
+
+    - (i) it is, in the opinion of the Monetary Authority, closely associated and identified with Hong Kong;
+
+  - (ii) it has—
+
+    - (A) total deposits from the public of not less than $3,000,000,000, or an equivalent amount in any other approved currency, excluding any deposits by—
+
+      - (I) any authorized institution;
+
+      - (II) any bank incorporated outside Hong Kong which is not an authorized institution;
+
+      - (III) any controller or director of the company;
+
+      - (IV) any relative, within the meaning of section 79, of any such controller or director;
+
+      - (V) any firm, partnership or body corporate in which the company, any controller or director of the company or any relative, within the meaning of section 79, of any such controller or director, is interested as director, partner, manager or agent;
+
+      - (VI) any holding company, subsidiary or associated company of the company;
+
+      - (VII) any subsidiary or associated company of any such holding company; and
+
+    - (B) total assets (less contra items) of not less than $4,000,000,000 or an equivalent amount in any other approved currency; and
+
+      - (iii) it has been a deposit-taking company or a restricted licence bank (or any combination thereof) for not less than 10 continuous years. (Added 49 of 1995 s. 52)
