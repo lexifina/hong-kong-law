@@ -1,0 +1,5 @@
+PUBLIC FUNERAL HALL (URBAN COUNCIL) BY-LAWS
+
+(Cap. 132, sections 123 and 123C)
+
+[31 March 1978]
