@@ -4,8 +4,6 @@
 
 LIQUIDITY RATIO
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2)
-
 - 1. In this Schedule—
 
   - “debt securities” (債務證券) means any securities other than shares, stocks, import or export trade bills;
@@ -14,17 +12,21 @@ LIQUIDITY RATIO
 
     - (a) which the authorized institution is not committed to continue, by renewal or otherwise; and
 
-    - (b) which is fully performing, being a repayment —
+    - (b) which is fully performing,
 
-      - (i) the date of which is fixed;
+  - being a repayment—
 
-      - (ii) which will fall due within 1 month; and
+    - (i) the date of which is fixed;
 
-      - (iii) in respect of which the authorized institution has no reason to expect a default, and where the loan is secured by a deposit referred to in paragraph 7—
+    - (ii) which will fall due within 1 month; and
 
-        - (A) in the case where the loan will be fully repaid after receiving the repayment, only that part of the repayment that exceeds the aggregate of the deposit and interest payable on the deposit shall be taken to be eligible loan repayment;
+    - (iii) in respect of which the authorized institution has no reason to expect a default,
 
-        - (B) in the case where the loan will not be so fully repaid, the repayment so far as it is not made by a corresponding reduction of the amount of the deposit or interest payable on the deposit or both shall be taken to be eligible loan repayment;
+  - and where the loan is secured by a deposit referred to in paragraph 7—
+
+    - (A) in the case where the loan will be fully repaid after receiving the repayment, only that part of the repayment that exceeds the aggregate of the deposit and interest payable on the deposit shall be taken to be eligible loan repayment;
+
+    - (B) in the case where the loan will not be so fully repaid, the repayment so far as it is not made by a corresponding reduction of the amount of the deposit or interest payable on the deposit or both shall be taken to be eligible loan repayment, but excludes any repayment in respect of mortgage loans referred to in item 7 of Table A; (Amended L.N. 112 of 1999)
 
   - “marketable debt securities” (有價債務證券) means debt securities which have an established secondary market in Hong Kong or elsewhere in which they can be sold readily;
 
@@ -52,9 +54,9 @@ LIQUIDITY RATIO
 
       - (i) in the case of long-term rating, the rating specified in column 2 in relation to that credit rating agency; and
 
-      - (ii) in the case of short-term rating, the rating specified in column 3 in relation to that credit rating agency: TABLE
+      - (ii) in the case of short-term rating, the rating specified in column 3 in relation to that credit rating agency:
 
-      - Column 1 | Column 2 | Column 3
+      - Column 1 | TABLE Column 2 | Column 3
 
       - Credit rating agency | Long-term rating | Short-term rating
 
@@ -74,7 +76,9 @@ LIQUIDITY RATIO
 
       - (i) which, in the opinion of the Monetary Authority, is not adequately supervised by the relevant banking supervisory authority; or
 
-      - (ii) the licence or other authorization of which to carry on banking business is for the time being suspended, (Replaced 49 of 1995 s. 51) and includes the Exchange Fund established by the Exchange Fund Ordinance (Cap. 66).
+      - (ii) the licence or other authorization of which to carry on banking business is for the time being suspended, (Replaced 49 of 1995 s. 51)
+
+    - and includes the Exchange Fund established by the Exchange Fund Ordinance (Cap. 66).
 
 - 2. The liquidity ratio of an authorized institution shall be calculated—
 
@@ -92,7 +96,9 @@ LIQUIDITY RATIO
 
   - (a) the amount, if any, by which the total one-month liabilities of relevant banks to the authorized institution are exceeded by its total one-month liabilities to relevant banks; and
 
-  - (b) the total of its other one-month liabilities, at the close of business on a working day and for this purpose, interest payable by the authorized institution and the relevant banks shall be included in the calculation of the liabilities.
+  - (b) the total of its other one-month liabilities,
+
+- at the close of business on a working day and for this purpose, interest payable by the authorized institution and the relevant banks shall be included in the calculation of the liabilities.
 
 - 7. A deposit which has been pledged with an authorized institution for securing a loan granted to a customer other than a relevant bank and the deposit would otherwise be included in the calculation of qualifying liabilities under paragraph 6 shall be excluded in the calculation to the extent of the outstanding balance of the loan.
 
@@ -132,7 +138,9 @@ LIQUIDITY RATIO
 
     - (ii) the new or revised repayment terms are not unfavourable to the authorized institution as compared to the terms of other loans of similar nature granted by the authorized institution to other customers and negotiated at arm’s length; and
 
-    - (iii) the loan meets the requirement of paragraph 10(a). TABLE A
+    - (iii) the loan meets the requirement of paragraph 10(a).
+
+    - TABLE A
 
     - Item | Liquefiable assets | Liquidity conversion factor
 
@@ -142,11 +150,39 @@ LIQUIDITY RATIO
 
     - 3. | The amount, if any, by which the total one-month liabilities of the authorized institution to relevant banks are exceeded by the total one-month liabilities of relevant banks to it | 100%
 
-    - 4. | Export bills— (a) payable within 1 month and which are either drawn under letters of credit issued by relevant banks or accepted and payable by relevant banks; or (b) covered by irrevocable re-discounting facilities approved by the Monetary Authority | 100% 100%
+    - 4. | Export bills— (a) payable within 1 month and which are either drawn under letters of credit issued by relevant banks or accepted and payable by relevant banks; or | 100%
 
-    - 5. | Marketable debt securities or prescribed instruments— (a) issued or guaranteed by— (i) the Hong Kong Government, the Exchange Fund, a public sector entity in Hong Kong or multilateral development bank with a remaining term to maturity of— (A) not more than 1 year (B) more than 1 year (ii) an authorized institution incorporated in Hong Kong or the Hong Kong branch of an authorized institution incorporatedoutside Hong Kong with a remaining term to maturity of— (Amended 23 of 1998 s. 2) (A) not more than 1 month (B) more than 1 month but not more than 1 year (C) more than 1 year (b) with a qualifying credit rating, issued or guaranteed by— (i) the central bank or central government of any country with a remaining term to maturity of— (A) not more than 1 year (B) more than 1 year (See Note 1) (ii) a relevant bank, other than one referred to in paragraph (a)(ii), with a remaining term to maturity of— (A) not more than 1 month (B) more than 1 month but not more than 1 year (C) more than 1 year (iii) a regional government of any country or other institution with a remaining term to maturity of— (A) not more than 1 year (B) more than 1 year but not more than 5 years (C) more than 5 years (c) without a qualifying credit rating, issued or guaranteed by a relevant bank, other than one referred to in paragraph (a)(ii), with a remaining term to maturity of not more than 1 month (d) approved for inclusion by the Monetary Authority (e) not included elsewhere in this item with a remaining term to maturity of not more than 1 month | 100% 95% 100% 95% 90% 100% 95% 100% 95% 90% 90% 85% 80% 100% 80% 80%
+    - (b) covered by irrevocable re-discounting facilities approved by the Monetary Authority | 100%
+
+    - 5. | Marketable debt securities or prescribed instruments— (a) issued or guaranteed by— (i) the Hong Kong Government, the Exchange Fund, a public sector entity in Hong Kong or multilateral development bank with a remaining term to maturity of—
+
+    - (A) not more than 1 year (B) more than 1 year | 100% 95%
+
+    - (ii) an authorized institution incorporated in Hong Kong or the Hong Kong branch of an authorized institution incorporated outside Hong Kong with a remaining term to maturity of— (Amended 23 of 1998 s. 2)
+
+    - (A) not more than 1 month (B) more than 1 month but not more than 1 year (C) more than 1 year | 100% 95% 90%
+
+    - (b) with a qualifying credit rating, issued or guaranteed by— (i) the central bank or central government of any country with a remaining term to maturity of—
+
+    - (A) not more than 1 year (B) more than 1 year (See Note 1) | 100% 95%
+
+    - (ii) a relevant bank, other than one referred to in paragraph (a)(ii), with a remaining term to maturity of—
+
+    - (A) not more than 1 month (B) more than 1 month but not more than 1 year (C) more than 1 year | 100% 95% 90%
+
+    - (iii) a regional government of any country or other institution with a remaining term to maturity of—
+
+    - (A) not more than 1 year (B) more than 1 year but not more than 5 years (C) more than 5 years | 90% 85% 80%
+
+    - (c) without a qualifying credit rating, issued or guaranteed by a relevant bank, other than one referred to in paragraph (a)(ii), with a remaining term to maturity of not more than 1 month | 100%
+
+    - (d) approved for inclusion by the Monetary Authority | 80%
+
+    - (e) not included elsewhere in this item with a remaining term to maturity of not more than 1 month | 80%
 
     - 6. | Eligible loan repayments | 80%
+
+    - 7. | Residential mortgage loans in respect of which there has been issued by the Hong Kong Mortgage Corporation Limited an irrevocable commitment to purchase which is approved by the Monetary Authority (Added L.N. 112 of 1999) | 90%
 
 - Note 1
 
@@ -158,4 +194,4 @@ LIQUIDITY RATIO
 
 - 1. | Debt securities or prescribed instruments with a remaining term to maturity of not more than 1 month issued by the authorized institution | 100%
 
-- (Replaced L.N. 450 of 1994)
+- (Fourth Schedule replaced L.N. 450 of 1994)
