@@ -524,6 +524,8 @@ Demecarium bromide
 
 Desipramine; its salts
 
+Dexmedetomidine; its salts
+
 Diazepam and other compounds containing the chemical structure of dihydro-1, 4-benzodiazepine substituted to any degree; their salts
 
 Diazoxide
@@ -1346,6 +1348,8 @@ Raltitrexed; its salts
 
 Ramipril; its salts
 
+Rasburicase; its salts
+
 Rauwolfia, alkaloids of; their salts; derivatives of the alkaloids of rauwolfia; their salts
 
 Reboxetine; its salts
@@ -1444,7 +1448,7 @@ Sultopride
 
 Sumatriptan; its salts
 
-Suprarenal gland, the active principles of, except adrenaline and noradrenaline (other than when contained in aerosol dispensers); their salts; except salts of adrenaline (other than when contained in aerosol dispensers); their derivatives; their salts; except hydrocortisone and its salts when contained in preparations intended for external application only at not more than 1% and except beclomethasone and its salts when contained in aerosol dispensers
+Suprarenal gland, the active principles of, except adrenaline and noradrenaline (other than when contained in aerosol dispensers); their salts; except salts of adrenaline (other than when contained in aerosol dispensers); their derivatives; their salts; except hydrocortisone and its salts when contained in preparations intended for external application only at not more than 1%; except beclomethasone and its salts when contained in aerosol dispensers and except clobetasone butyrate when contained in preparations intended for external application only at not more than 0.05%
 
 Sutoprofen; its salts
 
@@ -1664,7 +1668,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002)
 
 B
 

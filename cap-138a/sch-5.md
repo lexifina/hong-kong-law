@@ -8,7 +8,7 @@ INDICATION OF STATEMENT PRESCRIBED BY REGULATION 15 FOR THE PURPOSES OF SECTION 
 
 - 2. To be labelled with the words “Caution. It is dangerous to exceed the stated dose.” 「注意：服食過量有危險。」— Medicines (other than medicines containing insulin and medicines mentioned in paragraph 8 of this Schedule) made up ready for the internal treatment of human ailments except in the case of a substance included in the First Schedule
 
-- 3. To be labelled with the words “Poison. For animal treatment only.” 「毒藥：衹限醫治禽畜用。」— Medicines made up ready for the treatment of animals
+- 3. To be labelled with the words “Poison. For animal treatment only.” 「毒藥：祇限醫治禽畜用。」— Medicines made up ready for the treatment of animals
 
 - 4. To be labelled with the words “Caution. This preparation may cause serious inflammation of the skin in certain persons and should be used only in accordance with expert advice.” 「注意：此藥可使某些人士皮膚嚴重發炎，須照專家指示使用。」— Preparations for the dyeing of hair containing phenylene diamines, toluene diamines or other alkylated-benzene diamines or their salts
 
@@ -18,7 +18,7 @@ INDICATION OF STATEMENT PRESCRIBED BY REGULATION 15 FOR THE PURPOSES OF SECTION 
 
 - 7. To be labelled with the words “Caution. This preparation should be administered only under medical supervision. The vapour is dangerous.” 「注意：此藥之蒸氣有危險，須經醫生指示，方可使用。」— Medicines made up ready for the internal or external treatment of human ailments and containing dyflos
 
-- 8. To be labelled with the words “Caution. This may cause drowsiness. If affected, do not drive or operate machinery.” 「注意：此藥可使人昏昏欲睡，服後如有此情形，不得駕駛或動用機械。」— Medicines made up ready for the internal treatment of human ailments containing any of the antihistamine substances (except Astemizole, Cetirizine, Fexofenadine, Loratadine and Terfenadine), their salts or their compounds with any other substance (L.N. 262 of 1995; L.N. 202 of 1999)
+- 8. To be labelled with the words “Caution. This may cause drowsiness. If affected, do not drive or operate machinery.” 「注意：此藥可使人昏昏欲睡，服後如有此情形，不得駕駛或動用機械。」— Medicines made up ready for the internal treatment of human ailments containing any of the antihistamine substances (except Astemizole, Cetirizine, Desloratadine, Fexofenadine, Loratadine and Terfenadine), their salts or their compounds with any other substance (L.N. 262 of 1995; L.N. 202 of 1999; L.N. 132 of 2002)
 
 - 9. To be labelled with the words “Caution. Not to be taken internally.” 「注意：忌食。」— Preparations for external use containing mercuric ammonium chlorides
 
