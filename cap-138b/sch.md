@@ -82,6 +82,8 @@ THE POISONS LIST
 
 - Ergot, alkaloids of
 
+- Galantamine
+
 - Gelsemium, alkaloids of
 
 - Homatropine
@@ -94,7 +96,7 @@ THE POISONS LIST
 
 - Morphine; its esters and ethers
 
-- Nicotine
+- Nicotine, except chewing gum intended to be used in nicotine replacement therapy which contains not more than 2 mg of Nicotine per piece
 
 - Nux Vomica, alkaloids of
 
@@ -770,6 +772,8 @@ THE POISONS LIST
 
 - Elaterin
 
+- Eletriptan; its salts
+
 - Embutramide
 
 - Emylcamate
@@ -932,6 +936,8 @@ THE POISONS LIST
 
 - Ganciclovir; its salts
 
+- Gatifloxacin; its salts; its esters
+
 - Gemcitabine; its salts
 
 - Gemfibrozil
@@ -1025,6 +1031,8 @@ THE POISONS LIST
 - Ifosfamide
 
 - Iloprost; its salts
+
+- Imatinib; its salts
 
 - Imidapril; its salts
 
@@ -1822,6 +1830,8 @@ THE POISONS LIST
 
 - Temozolomide; its salts
 
+- Tenecteplase; its salts
+
 - Teniposide
 
 - Tenoxicam
@@ -1857,6 +1867,8 @@ THE POISONS LIST
 - Thiotepa
 
 - Thyroid gland, the active principles of; their salts
+
+- Tiagabine; its salts; its esters; their salts
 
 - Tiapride; its salts
 
@@ -2062,13 +2074,15 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002)
 
 - PART II A
 
 - Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance
 
 - alpha-Chloralose
+
+- Nicotine: chewing gum intended to be used in nicotine replacement therapy which contains not more than 2 mg of Nicotine per piece
 
 - Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison included in part A of Part I of this List, where the proportion of the poison does not exceed the equivalent of—
 
@@ -2166,4 +2180,4 @@ THE POISONS LIST
 
   - Sodium nitrite
 
-- (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999; L.N. 139 of 2000)
+- (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999; L.N. 139 of 2000; L.N. 57 of 2002)
