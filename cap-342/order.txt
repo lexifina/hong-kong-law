@@ -31,6 +31,16 @@ s-017H.md
 s-017I.md
 s-018.md
 s-019.md
+s-019A.md
+s-019B.md
+s-019C.md
+s-019D.md
+s-019E.md
+s-019F.md
+s-019G.md
+s-019H.md
+s-019I.md
+s-019J.md
 s-020.md
 s-021.md
 s-022.md

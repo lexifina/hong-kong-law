@@ -8,7 +8,7 @@ PRESCRIBED OFFICES
 
   - 1. Any judicial office.
 
-  - 2. Any office of police officer in the Hong Kong Police Force or the Hong Kong Auxiliary Police Force. (Amended L.N. 362 of 1997; L.N. 140 of 1999)
+  - 2. Any office of police officer in the Hong Kong Police Force or the Hong Kong Auxiliary Police Force. (Amended L.N. 362 of 1997; L.N. 140 of 1999; 58 of 1999 s. 8)
 
   - 3. Any office in the Correctional Services Department the holder of which is remunerated by reference to the General Disciplined Services Pay Scale. (Replaced L.N. 140 of 1999)
 
@@ -32,7 +32,7 @@ PRESCRIBED OFFICES
 
   - 13. Any office occupied by the executive, professional, managerial, technical, inspectorate or secretarial staff of the Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 11)
 
-  - 14. Any office of Senior Officer or Officer in the Government Flying Service mentioned in Schedule 1 to the Government Flying Service (General) Regulation (Cap. 322 sub. leg.) (Added L.N. 140 of 1999)
+  - 14. Any office of Senior Officer or Officer in the Government Flying Service mentioned in Schedule 1 to the Government Flying Service (General) Regulation (Cap. 322 sub. leg. B) (Added L.N. 140 of 1999)
 
 - PART 2 OTHER OFFICES
 

@@ -36,5 +36,16 @@ s-023.md
 s-024.md
 s-024A.md
 s-024B.md
+s-024C.md
+s-024D.md
+s-024E.md
+s-024F.md
+s-024G.md
+s-024H.md
+s-024I.md
+s-024J.md
+s-024K.md
+s-024L.md
+s-024M.md
 s-025.md
 s-026.md
