@@ -1,0 +1,5 @@
+DESIGNATION OF MUSEUMS ORDER
+
+(Cap. 132, section 105G)
+
+[11 July 1975]
