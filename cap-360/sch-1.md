@@ -44,7 +44,7 @@ AMOUNTS OF COMPENSATION
 
 - PART IIA COMPENSATION FOR PAIN, SUFFERING
 
-- AND LOSS OF AMENITIES $2,570. (Part IIA added 4 of 1996 s. 12)
+- AND LOSS OF AMENITIES $3,180. (Part IIA added 4 of 1996 s. 12. Amended L.N. 286 of 1998)
 
 - PART III COMPENSATION FOR PERIOD PRIOR TO DATE OF DIAGNOSIS
 
@@ -66,11 +66,11 @@ AMOUNTS OF COMPENSATION
 
     - “No. of months” (月數) means the number of full months, not exceeding 24, in the period from the earliest diagnosed date to the date of diagnosis.
 
-- PART IV COMPENSATION FOR CARE AND ATTENTION $4,050. (Amended L.N. 567 of 1995)
+- PART IV COMPENSATION FOR CARE AND ATTENTION $4,160. (Amended L.N. 567 of 1995; L.N. 286 of 1998)
 
-- PART V COMPENSATION FOR BEREAVEMENT $70,000.
+- PART V COMPENSATION FOR BEREAVEMENT $100,000. (Amended L.N. 286 of 1998)
 
-- PART VI FUNERAL EXPENSES An amount not exceeding $14,000, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995)
+- PART VI FUNERAL EXPENSES An amount not exceeding $16,000, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998)
 
 - PART VII INTERPRETATION In this Schedule—
 
