@@ -1,0 +1,5 @@
+DUTIABLE COMMODITIES REGULATIONS
+
+(Cap. 109, section 6)
+
+[16 October 1963] L.N. 120 of 1963
