@@ -36,7 +36,11 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 38C(2) | Issuing a company prospectus with an expert’s statement in it, he not having given his consent | Summary | level 6 | —
 
-38D(8) (Amended 86 of 1992 s. 20) | Issuing a company prospectus without delivering a copy to the Registrar or without the requisite endorsements | Summary | level 6 | $300
+38D(8) | Issuing a company prospectus without delivering a copy to the Registrar or without the requisite endorsements (Amended 86 of 1992 s. 20) | Summary | level 6 | $300
+
+39A(3) | Amendment of prospectus consisting of one document not done in compliance with Part 1 of the Twentieth Schedule (Added 30 of 2004 s. 2) | Summary | level 6 | —
+
+39B(4) | Amendment of prospectus consisting of more than one document not done in compliance with Part 1 of the Twenty-first Schedule (Added 30 of 2004 s. 2) | Summary | level 6 | —
 
 40A(1) | Authorizing the issue of a prospectus containing an untrue statement | On indictment Summary | $700,000 and 3 years $150,000 and 12 months | — —
 
@@ -377,6 +381,10 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 337B(7) | Overseas company carrying on business after being given notice under section 337B (Replaced 60 of 1990 s. 10) | Summary | level 6 and 6 months | $700
 
 340 | Overseas company failing to comply with Part XI | Summary | level 5 | $700
+
+342CA(3) | Amendment of prospectus consisting of one document not done in compliance with Part 2 of the Twentieth Schedule (Added 30 of 2004 s. 2) | Summary | level 6 | —
+
+342CB(4) | Amendment of prospectus consisting of more than one document not done in compliance with Part 2 of the Twenty-first Schedule (Added 30 of 2004 s. 2) | Summary | level 6 | —
 
 342D | Person responsible for issue, etc., of prospectus, etc., contravening sections 342 to 342C | Summary | $150,000 | —
 

@@ -10,7 +10,7 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
   - 2. The authorized share capital and the description and nominal value of the shares into which it is divided, the amount of share capital issued or agreed to be issued, and the amount paid up on the shares which have been issued.
 
-  - 3. Sufficient particulars and information to enable a reasonable person to form as a result thereof a valid and justifiable opinion of the shares or debentures and the financial condition and profitability of the company at the time of the issue of the prospectus.
+  - 3. Sufficient particulars and information to enable a reasonable person to form as a result thereof a valid and justifiable opinion of the shares or debentures and the financial condition and profitability of the company at the time of the issue of the prospectus, taking into account the nature of the shares or debentures being offered and the nature of the company, and the nature of the persons likely to consider acquiring them. (Amended 30 of 2004 s. 2)
 
   - 4. The number of founders or management or deferred shares, if any, and the nature and extent of the interest of the holders in the property and profits of the company.
 
@@ -116,7 +116,7 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
     - (c) particulars of any guarantee subsisting in respect of the debentures, including the name and address of the guarantor, and the designation or any description of the debentures shall only incorporate the word “guaranteed” or the expression in Chinese “獲擔保” if they are guaranteed to a substantial extent by a legally enforceable guarantee. (Replaced 3 of 1997 s. 57)
 
-  - 27. A statement as to the gross trading income or sales turnover (as may be appropriate) of the company during the 3 preceding years including an explanation of the method used for the computation of such income or turnover, and a reasonable break-down between the more important trading activities; but a bank, discount house or other company whose business is in the opinion of the directors of a character that such a statement is either not practicable or not of value may instead include an explanation of the absence of such a statement. (Amended 86 of 1992 s. 18)
+  - 27. A statement as to the gross trading income or sales turnover (as may be appropriate) of the company during each of the 3 financial years immediately preceding the issue of the prospectus including an explanation of the method used for the computation of such income or turnover, and a reasonable break-down between the more important trading activities; but a bank, discount house or other company whose business is in the opinion of the directors of a character that such a statement is either not practicable or not of value may instead include an explanation of the absence of such a statement. (Amended 86 of 1992 s. 18; 30 of 2004 s. 2)
 
   - 28. If the prospectus offers shares in the company for sale to the public—
 
@@ -132,37 +132,37 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
   - 31.
 
-    - (1) A report by the auditors of the company and of any guarantor corporation referred to in the prospectus with respect to—
+    - (1) A report by the auditors of the company with respect to—
 
-      - (a) profits and losses and assets and liabilities of the company and of any guarantor corporation referred to in the prospectus in accordance with sub-paragraph (2) or (3), as the case required; and
+      - (a) profits and losses and assets and liabilities of the company in accordance with sub-paragraph (2) or (3), as the case required; and
 
-      - (b) the rates of the dividends, if any, paid by the company in respect of each class of shares in the company in respect of each of the 3 financial years immediately preceding the issue of the prospectus, giving particulars of each such class of shares on which such dividends have been paid and particulars of the cases in which no dividends have been paid in respect of any class of shares in respect of any of those years;
+      - (b) the rates of the dividends, if any, paid by the company in respect of each class of shares in the company in respect of each of the 3 financial years immediately preceding the issue of the prospectus, giving particulars of each such class of shares on which such dividends have been paid and particulars of the cases in which no dividends have been paid in respect of any class of shares in respect of any of those years,
 
-    - and, if no accounts have been made up in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact. (Amended 86 of 1992 s. 18)
+    - and, if no accounts have been made up in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
 
-    - (2) If the company or the guarantor corporations have no subsidiaries, the report shall—
+    - (2) If the company has no subsidiaries, the report shall—
 
-      - (a) so far as regards profits and losses, deal with the profits or losses of the company and of the guarantor corporations referred to in the prospectus in respect of each of the 3 financial years immediately preceding the issue of the prospectus; and (Amended 86 of 1992 s. 18)
+      - (a) so far as regards profits and losses, deal with the profits or losses of the company in respect of each of the 3 financial years immediately preceding the issue of the prospectus; and
 
-      - (b) so far as regards assets and liabilities, deal with the assets and liabilities of the company and of the guarantor corporations referred to in the prospectus at the last date to which the accounts of the company and of the guarantor corporations were made up.
+      - (b) so far as regards assets and liabilities, deal with the assets and liabilities of the company at the last date to which the accounts of the company were made up.
 
-    - (3) If the company or the guarantor corporations have subsidiaries, the report shall—
+    - (3) If the company has subsidiaries, the report shall—
 
-      - (a) so far as regards profits and losses, deal separately with the company’s and the guarantor corporations’ (other than subsidiaries) profits or losses as provided by sub-paragraph (2) and, in addition, deal either—
+      - (a) so far as regards profits and losses, deal separately with the company’s (other than subsidiaries) profits or losses as provided by sub-paragraph (2) and, in addition, deal either—
 
-        - (i) as a whole with the combined profits or losses of their subsidiaries;
+        - (i) as a whole with the combined profits or losses of its subsidiaries; or
 
-        - (ii) individually with the profits or losses of each subsidiary;
+        - (ii) individually with the profits or losses of each subsidiary,
 
-      - or, instead of dealing separately with the company’s profits or losses, deal as a whole with the profits or losses of the company and of the guarantor corporations and with the combined profits or losses of their subsidiaries; and
+      - or, instead of dealing separately with the company’s profits or losses, deal as a whole with the profits or losses of the company and with the combined profits or losses of its subsidiaries; and
 
-      - (b) so far as regards assets and liabilities, deal separately with the company’s and the guarantor corporations’ (other than subsidiaries) assets and liabilities as provided by sub-paragraph (2) and, in addition, deal either—
+      - (b) so far as regards assets and liabilities, deal separately with the company’s (other than subsidiaries) assets and liabilities as provided by sub-paragraph (2) and, in addition, deal either—
 
-        - (i) is a whole with the combined assets and liabilities of its or their subsidiaries, with or without the company’s assets and liabilities; or
+        - (i) as a whole with the combined assets and liabilities of its subsidiaries, with or without the company’s assets and liabilities; or
 
-        - (ii) individually with the assets and liabilities of each subsidiary;
+        - (ii) individually with the assets and liabilities of each subsidiary,
 
-      - and shall indicate as respects the profits or losses and assets and liabilities of the subsidiaries the allowance to be made for persons other than members of the company.
+    - and shall indicate as respects the profits or losses and assets and liabilities of the subsidiaries the allowance to be made for persons other than members of the company. (Replaced 30 of 2004 s. 2)
 
   - 32. If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in the purchase of any business, a report made by accountants (who shall be named in the prospectus) upon—
 
@@ -292,8 +292,4 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
       - (ii) has either a paid up capital of less than $1,000,000 or the assets of which do not exceed liabilities by $1,000,000 or more as shown in the company’s last balance sheet.
 
-  - 47.
-
-    - For the purposes of Part II, “guarantor corporation” (提供擔保的法團) in relation to a company, means a corporation that has guaranteed or has agreed to guarantee the repayment of any money received or to be received by the company in response to an invitation to the public to subscribe for or purchase debentures of the company.
-
-  - (Third Schedule replaced 78 of 1972 s. 21)
+  - 47. (Repealed 30 of 2004 s. 2) (Third Schedule replaced 78 of 1972 s. 21)

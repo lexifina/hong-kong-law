@@ -588,11 +588,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (b) obligations, easements and every description of estate, interest and profit, present or future, vested or contingent, arising out of or incident to property as defined in paragraph (a);
 
-    - “prospectus” (招股章程) means any prospectus, notice, circular, brochure, advertisement, or other document—
-
-      - (a) offering any shares or debentures of a corporation to the public for subscription or purchase for cash or other consideration; or
-
-      - (b) calculated to invite offers by the public to subscribe for or purchase for cash or other consideration any shares or debentures of a corporation;
+    - “prospectus” (招股章程) means prospectus as defined in section 2(1) of the Companies Ordinance (Cap. 32); (Replaced 30 of 2004 s. 3)
 
     - “public” (公眾、大眾) means the public of Hong Kong, and includes any class of that public;
 
@@ -653,6 +649,8 @@ INTERPRETATION AND GENERAL PROVISIONS
         - (iii) a corporation giving financial assistance for the acquisition of its own shares,
 
     - whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance;
+
+      - (c) Parts II and XII of the Companies Ordinance (Cap. 32), for the purposes only of section 213 of this Ordinance, and so far as those Parts relate, directly or indirectly, to an advertisement mentioned in section 38B(1) of that Ordinance; (Added 30 of 2004 s. 3)
 
     - “relevant share capital” (有關股本) means the issued share capital of a corporation which is of a class carrying rights to vote in all circumstances at general meetings of the corporation;
 

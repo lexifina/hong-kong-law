@@ -50,9 +50,13 @@ s-037.md
 s-038.md
 s-038A.md
 s-038B.md
+s-038BA.md
 s-038C.md
 s-038D.md
 s-039.md
+s-039A.md
+s-039B.md
+s-039C.md
 s-040.md
 s-040A.md
 s-040B.md
@@ -578,6 +582,9 @@ s-342.md
 s-342A.md
 s-342B.md
 s-342C.md
+s-342CA.md
+s-342CB.md
+s-342CC.md
 s-342D.md
 s-342E.md
 s-342F.md
@@ -646,3 +653,9 @@ sch-13.md
 sch-14.md
 sch-15.md
 sch-16.md
+sch-17.md
+sch-18.md
+sch-19.md
+sch-20.md
+sch-21.md
+sch-22.md

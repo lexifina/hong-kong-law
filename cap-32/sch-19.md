@@ -1,0 +1,35 @@
+# Nineteenth Schedule
+
+[ss. 38B & 360]
+
+CONTENTS AND PUBLICATION REQUIREMENTS OF ADVERTISEMENTS MENTIONED IN SECTION 38B(2)(e) OF THIS ORDINANCE
+
+- 1. Contents of advertisement
+
+  - (1) The advertisement must contain the following mandatory particulars or particulars to the like effect—
+
+    - (a) a statement that the advertisement is issued by the company to which the advertisement relates;
+
+    - (b) a warning statement that potential investors should read the prospectus for detailed information about the company and the proposed offering before deciding whether or not to invest in the shares or debentures concerned; and
+
+    - (c) a statement that the advertisement does not constitute an offer or an invitation to induce an offer by any person to acquire, subscribe for or purchase the shares or debentures concerned.
+
+  - (2) The advertisement may contain the following discretionary particulars but, subject to section 38B(2AA) of this Ordinance, no other discretionary particulars—
+
+    - (a) the name of the company to which the advertisement relates and the place of incorporation of the company;
+
+    - (b) a description of the shares or debentures offered or proposed to be offered;
+
+    - (c) the dates on which, and the places at which, the prospectus to which the advertisement relates is or will be available to the public;
+
+    - (d) details of the administrative procedures relevant to investors that are likely to assist their participation in the offer;
+
+    - (e) if a listing is being applied for in Hong Kong or elsewhere, a statement that the company is seeking listing of, and permission to deal in, the shares or debentures concerned on the stock exchange or stock exchanges concerned; and
+
+    - (f) legends designed to clarify the legal nature of the advertisement if, but only if, the legends are consistent with—
+
+      - (i) the advertisement not being a prospectus; and
+
+      - (ii) guidelines published under section 38BA of this Ordinance.
+
+- 2. Language The advertisement may be in the English language or the Chinese language or both languages. (Nineteenth Schedule added 30 of 2004 s. 2)
