@@ -172,4 +172,6 @@ PUBLIC BODIES
 
 - 84. Long-term Prison Sentences Review Board. (Added 86 of 1997 s. 44)
 
-- 85. Electoral Affairs Commission. (Added 129 of 1997 s. 24) (Replaced L.N. 272 of 1974)
+- 85. Electoral Affairs Commission. (Added 129 of 1997 s. 24)
+
+- 86. Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 8) (Replaced L.N. 272 of 1974)
