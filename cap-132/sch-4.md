@@ -42,6 +42,8 @@ Apleichau Bridge (North) Children’s Playground
 
 Ap Lei Chau Main Street Temporary Sitting-out Area
 
+Ap Lei Chau Park
+
 Ap Lei Chau Playground
 
 Ap Lei Chau Service Reservoir Playground
@@ -600,8 +602,6 @@ Upper Kai Lun Wan Temporary Sitting-out Area
 
 Upper Station Street Sitting-out Area
 
-Urban Council Chambers Rest Garden
-
 Urban Council Java Road Complex Indoor Games Hall
 
 Urban Council Quarry Bay Complex Indoor Games Hall
@@ -704,7 +704,7 @@ Yue Kwong Road Indoor Games Hall
 
 Yue Wan Estate Sitting-out Area
 
-(Amended L.N. 52 of 1989; L.N. 147 of 1989; L.N. 324 of 1989; L.N.408 of 1989; L.N. 89 of 1990; L.N. 197 of 1990; L.N. 326 of 1990; L.N. 20 of 1991; L.N. 274 of 1991; L.N. 382 of 1991; L.N. 13 of 1992; L.N. 109 of 1992; L.N. 260 of 1992; L.N. 336 of 1992; L.N. 161 of 1993; L.N. 369 of 1993; L.N. 71 of 1994; L.N. 231 of 1994; L.N. 445 of 1994; L.N. 628 of 1994; L.N. 108 of 1995; L.N. 343 of 1995; L.N. 535 of 1995; L.N. 216 of 1996; L.N. 390 of 1996; L.N. 488 of 1996; L.N. 156 of 1997)
+(Amended L.N. 52 of 1989; L.N. 147 of 1989; L.N. 324 of 1989; L.N.408 of 1989; L.N. 89 of 1990; L.N. 197 of 1990; L.N. 326 of 1990; L.N. 20 of 1991; L.N. 274 of 1991; L.N. 382 of 1991; L.N. 13 of 1992; L.N. 109 of 1992; L.N. 260 of 1992; L.N. 336 of 1992; L.N. 161 of 1993; L.N. 369 of 1993; L.N. 71 of 1994; L.N. 231 of 1994; L.N. 445 of 1994; L.N. 628 of 1994; L.N. 108 of 1995; L.N. 343 of 1995; L.N. 535 of 1995; L.N. 216 of 1996; L.N. 390 of 1996; L.N. 488 of 1996; L.N. 156 of 1997; L.N. 444 of 1997)
 
 Kowloon and New Kowloon
 
@@ -1041,6 +1041,8 @@ Lok Fu Park
 Lok Fu Recreation Ground
 
 Lok Fu Service Reservoir Rest Garden
+
+Lok Kwan Street Park
 
 Lok Shan Road Playground
 
@@ -1476,7 +1478,7 @@ Yuen Po Street Bird Garden
 
 Yuet Wah Street Playground
 
-(Amended L.N. 52 of 1989; L.N. 147 of 1989; L.N. 408 of 1989; L.N. 197 of 1990; L.N. 326 of 1990; L.N. 20 of 1991; L.N. 145 of 1991; L.N. 274 of 1991; L.N. 382 of 1991; L.N. 13 of 1992; L.N. 109 of 1992; L.N. 260 of 1992; L.N. 336 of 1992; L.N. 161 of 1993; L.N. 369 of 1993; L.N. 71 of 1994; L.N. 231 of 1994; L.N. 445 of 1994; L.N. 628 of 1994; L.N. 108 of 1995; L.N. 343 of 1995; L.N. 535 of 1995; L.N. 216 of 1996; L.N. 390 of 1996; L.N. 488 of 1996; L.N. 156 of 1997)
+(Amended L.N. 52 of 1989; L.N. 147 of 1989; L.N. 408 of 1989; L.N. 197 of 1990; L.N. 326 of 1990; L.N. 20 of 1991; L.N. 145 of 1991; L.N. 274 of 1991; L.N. 382 of 1991; L.N. 13 of 1992; L.N. 109 of 1992; L.N. 260 of 1992; L.N. 336 of 1992; L.N. 161 of 1993; L.N. 369 of 1993; L.N. 71 of 1994; L.N. 231 of 1994; L.N. 445 of 1994; L.N. 628 of 1994; L.N. 108 of 1995; L.N. 343 of 1995; L.N. 535 of 1995; L.N. 216 of 1996; L.N. 390 of 1996; L.N. 488 of 1996; L.N. 156 of 1997; L.N. 444 of 1997)
 
 Regional Council Area
 
