@@ -118,6 +118,8 @@ Po On Road Market | 保安道街市 (78 of 1999 s. 7)
 
 Quarry Bay Market | 鰂魚涌街市 (78 of 1999 s. 7)
 
+Queen Street Cooked Food Market | 皇后街熟食市場 (L.N. 144 of 2004)
+
 Sai Kung Market | 西貢街市 (L.N. 52 of 1985)
 
 Sai Wan Ho Market | 西灣河街市 (78 of 1999 s. 7)
