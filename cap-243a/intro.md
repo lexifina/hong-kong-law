@@ -1,0 +1,5 @@
+CHILD CARE CENTRES REGULATIONS
+
+(Cap. 243, section 18)
+
+[1 June 1976] L.N. 105 of 1976
