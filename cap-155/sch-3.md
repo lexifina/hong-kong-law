@@ -36,7 +36,7 @@ CAPITAL ADEQUACY RATIO
 
   - “Net/Gross Ratio” (淨額/總額比率) means the ratio of net replacement cost to gross replacement cost for the contracts referred to in items 12 to 16 of Table B covered by a valid bilateral netting agreement and is calculated as the ratio, expressed as a percentage, of the net amount, if positive, of the sum of the positive and negative mark-to-market values, calculated in Hong Kong dollars, of the contracts (provided that the net amount, if negative, should be taken as zero) to the sum of the positive mark-to-market values, calculated in Hong Kong dollars, of the contracts; (Added L.N. 336 of 1996)
 
-  - “public sector entity in Hong Kong” (香港公營單位) means the Mass Transit Railway Corporation, the Kowloon-Canton Railway Corporation, the Hong Kong Housing Authority and any body specified by the Monetary Authority in a notice published in the Gazette;
+  - “public sector entity in Hong Kong” (香港公營單位) means the Mass Transit Railway Corporation, the Kowloon-Canton Railway Corporation, the Hong Kong Housing Authority, the Hospital Authority, the Airport Authority, The Hong Kong Mortgage Corporation Limited and any body specified by the Monetary Authority in a notice published in the Gazette; (Amended L.N. 326 of 1999)
 
   - “public sector entity of any other Tier 1 country” (任何其他第1級國家的公營單位) means an entity which is regarded as a public sector entity by a recognized banking supervisory authority in the place in which it is incorporated;
 
@@ -52,7 +52,13 @@ CAPITAL ADEQUACY RATIO
 
   - “risk weighted exposure” (加權風險值) means the risk weighted exposure of an authorized institution determined in accordance with paragraph 4;
 
-  - “Supplementary Capital” (附加資本) means the sum, calculated in Hong Kong dollars, of the book values of the capital items listed in paragraph 3(g) to (o) calculated in accordance with that paragraph;
+  - “securities not held for trading purposes” (非作交易用途証券), in relation to an authorized institution, means securities—
+
+    - (a) held by the institution other than those which are acquired principally for the purpose of generating a profit from short-term fluctuations in price or dealer’s margin; and
+
+    - (b) designated as such by the institution; (Added L.N. 326 of 1999)
+
+  - “Supplementary Capital” (附加資本) means the sum, calculated in Hong Kong dollars, of the book values of the capital items listed in paragraph 3(h) to (o) calculated in accordance with that paragraph; (Amended L.N. 326 of 1999)
 
   - “Tier 1 country” (第1級國家) means a country which is a member of the Organization for Economic Co-operation and Development or a country which has concluded a special lending arrangement with the International Monetary Fund associated with the Fund’s General Arrangements to Borrow, and also includes Hong Kong but excludes any country which has rescheduled its external sovereign debt, whether to central government or non-central government creditors, within the previous 5 years; (Amended L.N. 307 of 1995)
 
@@ -96,7 +102,7 @@ CAPITAL ADEQUACY RATIO
 
   - (c) its share premium account;
 
-  - (d) its reserves other than those referred to in subparagraphs (e), (g), (h) and (i);
+  - (d) its reserves other than those referred to in subparagraphs (e), (h), (ha) and (i); (Amended L.N. 326 of 1999)
 
   - (e) its profit and loss account including its current year’s profit or loss;
 
@@ -106,7 +112,7 @@ CAPITAL ADEQUACY RATIO
 
   - Category II-Supplementary Capital
 
-  - (g) its inner reserves;
+  - (g) (Repealed L.N. 326 of 1999)
 
   - (h) its reserves on revaluation of—
 
@@ -114,17 +120,31 @@ CAPITAL ADEQUACY RATIO
 
     - (ii) its share of the net asset value of any subsidiary to the extent that such value has changed as a result of a revaluation of such subsidiary’s land and interests in land other than any interest in land mortgaged to such subsidiary to secure a debt:
 
-      - Provided that such reserves shall not exceed 70% of any surplus on revaluation of each of sub-subparagraphs (i) and (ii).
+      - Provided that the amount of reserves for each of sub-subparagraphs (i) and (ii) to be included in Supplementary Capital shall not exceed—
 
-    - For the purpose of this subparagraph “reserves” (儲備) includes any shares issued by the authorized institution through capitalising reserves arising from revaluation of sub-subparagraphs (i) and (ii); (Replaced L.N. 336 of 1996)
+    - (A) 70% of surplus, if any, on revaluation of each of sub-subparagraphs (i) and (ii) respectively; and
+
+    - (B)
+
+    - their respective amounts included in Supplementary Capital as at 31 December 1998. (Replaced L.N. 326 of 1999)
+
+      - For the purpose of this subparagraph “reserves” (儲備) includes any shares issued by the authorized institution through capitalising reserves arising from revaluation of sub-subparagraphs (i) and (ii); (Replaced L.N. 336 of 1996)
+
+  - (ha) its reserves on revaluation of its holding of securities not held for trading purposes:
+
+    - Provided that—
+
+    - (i) the amount of overall surplus, if any, on revaluation to be included in Supplementary Capital shall be limited to 70% of such surplus;
+
+    - (ii) the amount of overall deficit, if any, on revaluation shall be deducted from Supplementary Capital; (Added L.N. 326 of 1999)
 
   - (i) its latent reserves (i.e. the difference between the market value and the book value) determined upon revaluation, of long-term holding of equity securities listed on the United Exchange or on any exchange referred to in the Schedule to the *Securities (Specification of Approved Assets, Liquid Assets and Ranking Liabilities) Notice (Cap. 333 sub. leg.): (Amended L.N. 210 of 1990; L.N. 63 of 1991)
 
     - Provided that—
 
-    - (i) the amount of any increase in value to be included shall be limited to 45% of such increase;
+    - (i) the amount of overall surplus, if any, on revaluation to be included in Supplementary Capital shall be limited to 45% of such surplus;
 
-    - (ii) the amount of any diminution in value is deducted;
+    - (ii) the amount of overall deficit, if any, on revaluation shall be deducted from Supplementary Capital; (Replaced L.N. 326 of 1999)
 
   - (j) its general provisions against doubtful debts but not including any provisions against specific or identified losses and against the diminution in the value of particular assets:
 
@@ -188,7 +208,9 @@ CAPITAL ADEQUACY RATIO
 
     - (iii) the authorized institution’s reserves arising from the revaluation of the land and interests in land of any subsidiary not falling within the meaning of reserves under subparagraph (h); (Added L.N. 336 of 1996)
 
-  - (B) its loans to, shares and debentures issued by, and its guarantees of the liabilities of, connected companies of the authorized institution (other than shares that fall to be deducted under subparagraph (D)), where in the opinion of the Monetary Authority the institution has made the loans, is holding the shares or debentures or, as the case may be, has given the guarantees, other than in the ordinary course of business; and for the purposes of this subparagraph “shares” (股份) and “debentures” (債權證) mean shares and debentures within the meaning of section 2(1) of the Companies Ordinance (Cap. 32), and a company shall be treated as a connected company of the institution if it is a subsidiary or the holding company of the institution, or is otherwise of a description falling within section 64(1)(b), (c), (d) or (e);
+  - (B)
+
+    - its loans to, shares and debentures issued by, and its guarantees of the liabilities of, connected companies of the authorized institution (other than shares that fall to be deducted under subparagraph (D)), where in the opinion of the Monetary Authority the institution has made the loans, is holding the shares or debentures or, as the case may be, has given the guarantees, other than in the ordinary course of business; and for the purposes of this subparagraph “shares” (股份) and “debentures” (債權證) mean shares and debentures within the meaning of section 2(1) of the Companies Ordinance (Cap. 32), and a company shall be treated as a connected company of the institution if it is a subsidiary or the holding company of the institution, or is otherwise of a description falling within section 64(1)(b), (c), (d) or (e);
 
   - (C) its shareholding in any company in which the authorized institution is entitled to exercise, or control the exercise of, more than 20% of the voting power at general meetings of the company; and
 
@@ -214,7 +236,11 @@ CAPITAL ADEQUACY RATIO
 
       - (B) in any case apart from those mentioned in sub-sub-subparagraph (A), including in relation to items 12 and 13 referred to in Table B where the original exposure method of valuation is used, by taking the principal amount, calculated in Hong Kong dollars, of each of the items referred to in Table B in relation to the authorized institution and multiplying the principal amount by the credit conversion factor specified in Table B in relation to that item; and (Replaced L.N. 307 of 1995)
 
-  - (b) subtracting from the sum calculated under subparagraph (a) the value of general provisions not included in the capital base of the authorized institution. (Replaced L.N. 210 of 1990. Amended L.N. 234 of 1990) TABLE A-ON-BALANCE SHEET ITEMS
+  - (b) subtracting from the sum calculated under subparagraph (a)—
+
+    - (i) the value of general provisions not included in the capital base of the authorized institution; and
+
+    - (ii) the amount, if any, by which the book value of reserves on revaluation of paragraph 3(h)(i) exceeds the book value of such reserves as at 31 December 1998. (Replaced L.N. 210 of 1990; L.N. 326 of 1999) TABLE A-ON-BALANCE SHEET ITEMS
 
 - Category I-Cash items
 
@@ -298,7 +324,7 @@ CAPITAL ADEQUACY RATIO
 
 - 27. | Other interests in land. (Amended L.N. 336 of 1996) | 100%
 
-- 28. | All assets not elsewhere specified. | 100%
+- 28. | All assets not elsewhere specified, other than those which are deducted in determining the capital base of the authorized institution. (Amended L.N. 326 of 1999) | 100%
 
 - TABLE B-OFF-BALANCE SHEET ITEMS
 
@@ -350,7 +376,7 @@ CAPITAL ADEQUACY RATIO
 
 - 1. | Exchange rate contracts Credit conversion factors to be used in calculating contracts with an original maturity of— (a) 1 year or less (Amended L.N. 336 of 1996) (b) over 1 year to 2 years (Amended L.N. 336 of 1996) (c) over 2 years, the factor for over 1 year to 2 years plus for each additional year (Amended L.N. 336 of 1996) | 1.5% 3.75% 2.25%
 
-- 2. | Interest rate contracts Credit conversion factors to be used in calculating contracts with an original maturity of— (a) 1 year or less. (Amended L.N. 336 of 1996) (b) over 1 year to 2 years (Amended L.N. 336 of 1996) (c) over 2 years, the factor for over 1 year to 2 years plus for each additional year (Amended L.N. 336 of 1996) | 0.35% 0.75% 0.75%
+- 2. | Interest rate contracts Credit conversion factors to be used in calculating contracts with an original maturity of— (a) 1 year or less (Amended L.N. 336 of 1996) (b) over 1 year to 2 years (Amended L.N. 336 of 1996) (c) over 2 years, the factor for over 1 year to 2 years plus for each additional year (Amended L.N. 336 of 1996) | 0.35% 0.75% 0.75%
 
 - (Third Schedule replaced L.N. 412 of 1989. Amended 82 of 1992 s. 25)
 
