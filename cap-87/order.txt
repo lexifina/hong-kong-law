@@ -13,3 +13,4 @@ s-010.md
 s-011.md
 s-012.md
 sch-1.md
+sch-2.md
