@@ -138,7 +138,11 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Business Administration (Law)
 
+    - Bachelor of Chinese Medicine
+
     - Bachelor of Cognitive Science
+
+    - Bachelor of Criminal Justice
 
     - Bachelor of Dental Surgery
 
@@ -176,6 +180,8 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Science in Applied Medical Sciences
 
+    - Bachelor of Science in Bioinformatics
+
     - Bachelor of Science in Biomedical Sciences
 
     - Bachelor of Science in Computer Science
@@ -210,9 +216,15 @@ ARRANGEMENT OF STATUTES
 
     - Master of Arts in Applied Linguistics
 
+    - Master of Arts in Transport Policy and Planning
+
+    - Master of Buddhist Studies
+
     - Master of Business Administration
 
     - Master of Business Administration (International)
+
+    - Master of Chinese Medicine in Acupuncture and Moxibustion
 
     - Master of Common Law
 
@@ -221,6 +233,8 @@ ARRANGEMENT OF STATUTES
     - Master of Economics
 
     - Master of Education
+
+    - Master of Finance
 
     - Master of Financial Engineering
 
@@ -266,6 +280,8 @@ ARRANGEMENT OF STATUTES
 
     - Master of Science in Environmental Management
 
+    - Master of Science in Global Business Management and E-Commerce
+
     - Master of Science in Information Technology in Education
 
     - Master of Science in Real Estate
@@ -277,6 +293,8 @@ ARRANGEMENT OF STATUTES
     - Master of Science in Urban Planning
 
     - Master of Social Sciences
+
+    - Master of Social Service Management
 
     - Master of Social Work
 
@@ -312,7 +330,7 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences honoris causa
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002)
 
   - 2. The University may award any of the following diplomas and certificates—
 
@@ -358,6 +376,8 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Infectious Diseases
 
+    - Postgraduate Diploma in Information Technology Law
+
     - Postgraduate Diploma in International Affairs
 
     - Postgraduate Diploma in Laws
@@ -366,9 +386,17 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Public Law
 
-    - Postgraduate Diploma in Surveying (Quantity Surveying)
+    - Postgraduate Diploma in Science (Computer Science)
 
-    - Postgraduate Diploma in Surveying (Real Estate Development)
+    - Postgraduate Diploma in Science (Electronic Commerce
+
+  - and Internet Computing)
+
+  - Postgraduate Diploma in Surveying (Quantity Surveying)
+
+  - Postgraduate Diploma in Surveying (Real Estate Development)
+
+  - Postgraduate Diploma in Urban Design
 
     - (b) Certificates Certificate in Chinese Language
 
@@ -390,9 +418,7 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Certificate in Laws
 
-    - Postgraduate Certificate in Psychology
-
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001)
+    - Postgraduate Certificate in Psychology (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
