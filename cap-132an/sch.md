@@ -88,6 +88,8 @@ Lau Fau Shan Market | 流浮山街市
 
 Lockhart Road Market | 駱克道街市 (78 of 1999 s. 7)
 
+Luen Wo Hui Market | 聯和墟街市 (L.N. 96 of 2002)
+
 Luen Wo Private Market | 聯和市場
 
 Mong Kok Market | 旺角街市 (78 of 1999 s. 7)
