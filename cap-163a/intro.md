@@ -1,0 +1,5 @@
+MONEY LENDERS REGULATIONS
+
+(Cap. 163 section 34)
+
+[1 October 1988]
