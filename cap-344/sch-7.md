@@ -98,9 +98,11 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
     - (b) by post addressed to the owner at his last known address; or
 
-    - (c) by leaving the notice at the owner’s flat.
+    - (c) by leaving the notice at the owner’s flat or depositing the notice in his letter box. (Amended 12 of 1998 s. 9)
 
-- 7. Termination of manager’s appointment
+- 7.
+
+- Termination of manager’s appointment
 
 - by owners’ corporation
 
@@ -146,7 +148,11 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
   - (8) This paragraph is subject to any notice relating to the building that may be published by the Authority under section 34E(4) but does not apply to any single manager referred to in that section.
 
-- 8. Obligations after manager’s appointment ends If the manager’s appointment ends for any reason, he shall within 2 months of the date his appointment ends—
+- 8.
+
+- Obligations after manager’s appointment ends
+
+- If the manager’s appointment ends for any reason, he shall within 2 months of the date his appointment ends—
 
   - (a) prepare—
 

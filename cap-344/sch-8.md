@@ -16,7 +16,7 @@ Meetings of owners’ committee
 
   - (b) by post addressed to the member of the owners’ committee at his last known address; or
 
-  - (c) by leaving the notice at the member’s flat.
+  - (c) by leaving the notice at the member’s flat or depositing the notice in his letter box. (Amended 12 of 1998 s. 10)
 
 - 4. The quorum at a meeting of the owners’ committee shall be 50% of the members of the owners’ committee (rounded up to the nearest whole number) or 3 such members, whichever is the greater.
 
@@ -44,7 +44,7 @@ Meetings of owners’ committee
 
   - (b) by post addressed to the owner at his last known address; or
 
-  - (c) by leaving the notice at the owner’s flat.
+  - (c) by leaving the notice at the owner’s flat or depositing the notice in his letter box. (Amended 12 of 1998 s. 10)
 
 - 11. The quorum at a meeting of owners shall be 10% of the owners.
 
@@ -54,9 +54,7 @@ Meetings of owners’ committee
 
   - (a) each owner shall have 1 vote in respect of each share that he owns;
 
-  - (b) the votes of owners may be given either personally or by
-
-  - proxy;
+  - (b) the votes of owners may be given either personally or by proxy;
 
   - (c) if a share is jointly owned by 2 or more persons, the vote in respect of that share may be cast—
 
