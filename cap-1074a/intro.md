@@ -1,0 +1,5 @@
+HOSEINEE SOCIETY OF HONG KONG RULES
+
+(Cap. 1074, section 7)
+
+[10 September 1954]
