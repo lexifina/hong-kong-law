@@ -518,9 +518,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 2. Each teacher assigned by the Senate to a Faculty or Faculties shall be a member of such Faculty or Faculties during the tenure of his appointment. (L.N. 25 of 2002)
 
-  - 3. The members of each Faculty shall elect, in such form and manner as may be determined by the Senate, a Dean of their Faculty from among the members of their Board of Faculty who hold the rank of Senior Lecturer or above; and a Dean so elected shall hold office
-
-  - for a term of 3 years.
+  - 3. The members of each Faculty shall elect, in such form and manner as may be determined by the Senate, a Dean of their Faculty from among the members of their Board of Faculty who hold the rank of Senior Lecturer or above; and a Dean so elected shall hold office for a term of 3 years.
 
   - 4. Subject to paragraph 3—
 
@@ -915,6 +913,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
       - Master of Music (M. Mus.) (L.N. 453 of 1994)
 
       - Master of Nursing (M. Nurs.) (L.N. 323 of 1995)
+
+      - Master of Occupational Medicine (M.O.M.) (L.N. 213 of 2003)
 
       - Master of Philosophy (M. Phil.)
 
