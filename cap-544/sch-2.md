@@ -2,14 +2,12 @@
 
 [ss. 30 & 39]
 
-FEES
+Fees
 
-Item Matter or proceeding Amount
+Item | Matter or proceeding | Amount $
 
-$
+1. | Application for licence | 5,500
 
-- 1. Application for licence 5500
+2. | Application for renewal of licence (Amended L.N. 119 of 2001) | 1,270
 
-- 2. Application for renewal of licence 5500
-
-- 3. Application for transfer of licence 5500
+3. | Application for transfer of licence | 5,500
