@@ -14,7 +14,7 @@ $
 
 (i) from 1 July to 31 March inclusive | 10000
 
-(ii) from 1 April to 30 June inclusive | 5000
+(ii) from 1 April to 30 June inclusive ( L.N. 312 of 1997) | 5000
 
 (b) Renewal of registration | 10000
 
@@ -22,12 +22,10 @@ $
 
 (a) First registration—
 
-(i) for a new firm | 30000
+(i) for a new firm | 35000
 
 (ii) for an existing firm | 20000
 
-(b) Renewal of registration | 10000
+(b) Renewal of registration (L.N. 216 of 1998) | 12000
 
 3. | 39C | Registration as an Association | 15000
-
-(L.N. 312 of 1997)
