@@ -4,7 +4,7 @@
 
 OFFENCE
 
-Item | Section or Regulation | Description of general nature of offence | Points
+Item | Section, Regulation or By-law | Description of general nature of offence | Points
 
 Road Traffic Ordinance (Cap. 374)
 
@@ -14,13 +14,13 @@ Road Traffic Ordinance (Cap. 374)
 
 3 | Section 38(1) | Careless driving | 5
 
-4 | Section 39 | Driving, attempting to drive or being in charge of a motor vehicle under the influence of drink or drugs (Replaced 39 of 1995 s. 14) | 10
+4 | Section 39 | Driving, attempting to drive or being in charge of a motor vehicle under the influence of drink or drugs | 10
 
-4A | Section 39A | Driving, attempting to drive or being in charge of a motor vehicle with alcohol concentration above prescribed limit (Added 39 of 1995 s. 14) | 10
+4A | Section 39A | Driving, attempting to drive or being in charge of a motor vehicle with alcohol concentration above prescribed limit | 10
 
-4B | Section 39B(6) | Failing to provide a specimen of breath for screening breath test without reasonable excuse (Added 39 of 1995 s. 14) | 10
+4B | Section 39B(6) | Failing to provide a specimen of breath for screening breath test without reasonable excuse | 10
 
-4C | Section 39C(15) | Failing to provide a specimen of breath for breath analysis or a specimen of blood or urine for laboratory test without reasonable excuse (Added 39 of 1995 s. 14) | 10
+4C | Section 39C(15) | Failing to provide a specimen of breath for breath analysis or a specimen of blood or urine for laboratory test without reasonable excuse | 10
 
 5 | Section 41 | Driving in excess of speed limit by more than 15 kilometres an hour, other than where item 5A or 5B applies | 3
 
@@ -46,6 +46,88 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 13 | Regulation 31 | Failing to give precedence to pedestrians on zebra crossing | 3
 
-14 | Regulation 38(2) | Failing to stop for school crossing patrol (Amended 44 of 1986 s. 3) | 3
+14 | Regulation 38(2) | Failing to stop for school crossing patrol | 3
 
-(Amended 44 of 1986 s. 3; 39 of 1995 s. 14)
+Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A)
+
+15 | Regulation 4(2) | Driving in excess of temporary maximum speed limit by more than 15 kilometres an hour, other than where item 16 or 17 applies | 3
+
+16 | Regulation 4(2) | Driving in excess of temporary maximum speed limit by more than 30 kilometres an hour, other than where item 17 applies | 5
+
+17 | Regulation 4(2) | Driving in excess of temporary maximum speed limit by more than 45 kilometres an hour | 8
+
+18 | Regulation 9(g) | Crossing continuous double lines | 3
+
+19 | Regulation 18(4) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+
+20 | Regulation 18(4) | Driving in excess of the speed limit indicated by a traffic sign of the type shown in Figure No. 136 in Schedule 1 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) by more than 15 kilometres an hour, other than where item 21 or 22 applies | 3
+
+21 | Regulation 18(4) | Driving in excess of the speed limit referred to in item 20 by more than 30 kilometres an hour, other than where item 22 applies | 5
+
+22 | Regulation 18(4) | Driving in excess of the speed limit referred to in item 20 by more than 45 kilometres an hour | 8
+
+Cross-Harbour Tunnel By-laws (Cap. 203 sub. leg.)
+
+23 | By-law 8 | Driving in excess of speed limit by more than 15 kilometres an hour, other than where item 24 or 25 applies | 3
+
+24 | By-law 8 | Driving in excess of speed limit by more than 30 kilometres an hour, other than where item 25 applies | 5
+
+25 | By-law 8 | Driving in excess of speed limit by more than 45 kilometres an hour | 8
+
+26 | By-law 9(1)(a) | Crossing continuous double lines | 3
+
+27 | By-law 9(1)(aa) | Crossing a continuous line with a broken line | 3
+
+Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E)
+
+28 | By-law 8 | Crossing continuous double lines inside road tunnel | 3
+
+29 | By-law 10(a) | Driving in excess of the speed limit indicated by a traffic sign of the type shown in Figure No. 6 or 7 in the Schedule to the Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E) by more than 15 kilometres an hour, other than where item 30 or 31 applies | 3
+
+30 | By-law 10(a) | Driving in excess of the speed limit referred to in item 29 by more than 30 kilometres an hour, other than where item 31 applies | 5
+
+31 | By-law 10(a) | Driving in excess of the speed limit referred to in item 29 by more than 45 kilometres an hour | 8
+
+32 | By-law 10(b) | Crossing continuous double white lines or a continuous white line with a broken white line of the type shown in Figure No. 501 or 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+
+Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B)
+
+33 | By-law 8 | Crossing continuous double lines | 3
+
+34 | By-law 10(1) | Driving in excess of the speed limit indicated by a traffic sign of the type shown in Figure No. 6 or 7 in the Schedule to the Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B) by more than 15 kilometres an hour, other than where item 35 or 36 applies | 3
+
+35 | By-law 10(1) | Driving in excess of the speed limit referred to in item 34 by more than 30 kilometres an hour, other than where item 36 applies | 5
+
+36 | By-law 10(1) | Driving in excess of the speed limit referred to in item 34 by more than 45 kilometres an hour | 8
+
+37 | By-law 10(2) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+
+Western Harbour Crossing Bylaw (Cap. 436 sub. leg. D)
+
+38 | Section 7 | Driving in excess of speed limit by more than 15 kilometres an hour, other than where item 39 or 40 applies | 3
+
+39 | Section 7 | Driving in excess of speed limit by more than 30 kilometres an hour, other than where item 40 applies | 5
+
+40 | Section 7 | Driving in excess of speed limit by more than 45 kilometres an hour | 8
+
+41 | Section 8 | Crossing continuous double white lines | 3
+
+42 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+
+Tsing Ma Control Area (General) Regulation (Cap. 498 sub. leg. B)
+
+43 | Section 9 | Driving in excess of the speed limit indicated by a traffic sign of the type shown in Figure No. 22 in Schedule 1 to the Tsing Ma Control Area (General) Regulation (Cap. 498 sub. leg. B) by more than 15 kilometres an hour, other than where item 44 or 45 applies | 3
+
+44 | Section 9 | Driving in excess of the speed limit referred to in item 43 by more than 30 kilometres an hour, other than where item 45 applies | 5
+
+45 | Section 9 | Driving in excess of the speed limit referred to in item 43 by more than 45 kilometres an hour | 8
+
+46 | Section 9 | Crossing continuous double white lines or a continuous white line with a broken white line of the type shown in Figure No. 501, 502 or 503 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+
+47 | Section 10(2) | Driving in excess of temporary speed limit by more than 15 kilometres an hour, other than where item 48 or 49 applies | 3
+
+48 | Section 10(2) | Driving in excess of temporary speed limit by more than 30 kilometres an hour, other than where item 49 applies | 5
+
+49 | Section 10(2) | Driving in excess of temporary speed limit by more than 45 kilometres an hour | 8
+
+(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998)
