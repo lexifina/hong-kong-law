@@ -1,0 +1,5 @@
+PEAK TRAMWAY (SAFETY) REGULATIONS
+
+(Cap. 265, section 15)
+
+[1 September 1989]
