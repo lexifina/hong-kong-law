@@ -192,4 +192,6 @@ Item | Periods | Rate of interest
 
 94. | On or after 3 May 1999 and before 7 June 1999 (L.N. 111 of 1999; L.N. 145 of 1999) | 4.7083% per annum
 
-95. | On or after 7 June 1999 (L.N. 145 of 1999) | 4.5417% per annum
+95. | On or after 7 June 1999 and before 6 September 1999 (L.N. 145 of 1999; L.N. 220 of 1999) | 4.5417% per annum
+
+96. | On or after 6 September 1999 (L.N. 220 of 1999) | 4.7917% per annum
