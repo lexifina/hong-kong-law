@@ -10,4 +10,4 @@ Fee $
 
 2. | For amendment under regulation 5(7) of the Aerial Ropeways (Operation and Maintenance) Regulations (Cap. 211 sub. leg.) of a limited certificate of approval | 1,270
 
-(L.N. 112 of 1994; L.N. 598 of 1994; L.N. 41 of 1996; L.N. 30 of 1997)
+(L.N. 112 of 1994; L.N. 598 of 1994; L.N. 41 of 1996; L.N. 30 of 1997; L.N. 17 of 1998; L.N. 132 of 1998)
