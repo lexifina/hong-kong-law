@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[rules 6(4) & 12]
+[rules 6(4), 6G(4) & 12] (L.N. 88 of 2000)
 
 FORM 1 | [rule 6(4)]
 
@@ -10,9 +10,9 @@ WITH THE SECURITIES AND FUTURES COMMISSION
 
 In the matter of . of . in Hong Kong.
 
-- 1. Notice is hereby given that all persons claiming to have sustained pecuniary loss from a default committed in the course of or in connection with the business of the above-named . . of dealing in securities are required to deliver to the Securities and Futures Commission particulars of their claims in writing on or before the . of . 19 .
+- 1. Notice is hereby given that all persons claiming to have sustained pecuniary loss from a default committed in the course of or in connection with the business of the above-named . . of *dealing in securities/providing securities margin financing are required to deliver to the Securities and Futures Commission particulars of their claims in writing on or before the . of . 19 .
 
-- 2. Claims not received by the Commission on or before the date specified in paragraph 1 above will not be admitted and no payment will be made in respect of those claims. Dated this . day of . 19. . Chairman, Securities and Futures Commission. (L.N. 356 of 1990; L.N. 253 of 1997)
+- 2. Claims not received by the Commission on or before the date specified in paragraph 1 above will not be admitted and no payment will be made in respect of those claims. Dated this . day of . 19. . Chairman, Securities and Futures Commission. * Delete as appropriate (L.N. 356 of 1990; L.N. 253 of 1997; L.N. 88 of 2000)
 
 FORM 2 | [rule 12]
 
@@ -55,3 +55,17 @@ To: .
   - Note: Unless there is a reasonable excuse, failure to comply with this Notice, knowingly furnishing to an inspector information that is false or misleading in a material particular, or failure to take an oath required to be taken by an inspector for the purposes of an examination, is an offence punishable by a fine not exceeding $5,000. Attention is drawn to sections 126 to 134 of the Securities Ordinance.
 
 - (L.N. 356 of 1990; L.N. 253 of 1997)
+
+FORM 3 | [rule 6G(4)]
+
+SECURITIES ORDINANCE
+
+(Chapter 333) SECURITIES (MISCELLANEOUS) RULES NOTICE CALLING FOR CLAIMS AGAINST SECURITY LODGED
+
+WITH THE SECURITIES AND FUTURES COMMISSION
+
+In the matter of . of . in Hong Kong.
+
+- 1. Notice is hereby given that all persons claiming to have sustained pecuniary loss from a default committed in the course of or in connection with the business of the above-named . of providing securities margin financing are required to deliver to the Securities and Futures Commission particulars of their claims in writing on or before the . of .
+
+- 2. Claims not received by the Commission on or before the date specified in paragraph 1 above will not be admitted and no payment will be paid out of the security lodged in respect of those claims. Dated this . day of . . Chairman, Securities and Futures Commission (L.N. 88 of 2000)
