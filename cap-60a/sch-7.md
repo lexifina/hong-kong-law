@@ -102,13 +102,15 @@ Norway
 
 Philippines
 
-Portugal
+Poland
 
-Romania
+Portugal
 
 Russian Federation
 
 Sierra Leone
+
+Slovenia
 
 South Africa
 
@@ -128,6 +130,8 @@ Thailand
 
 Togo
 
+Tunisia
+
 Turkey
 
 Ukraine
@@ -144,4 +148,4 @@ Vietnam
 
 Zimbabwe
 
-(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003)
+(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003; L.N. 128 of 2003)
