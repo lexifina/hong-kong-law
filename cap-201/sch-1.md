@@ -204,6 +204,8 @@ PUBLIC BODIES
 
 - * 99. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002 and 5 of 2002 s. 407)
 
+  - 100. Construction Workers Registration Authority. (Added 18 of 2004 s. 66)
+
   - 101. Hong Kong Deposit Protection Board. (Added 7 of 2004 s. 55)
 
 - (Replaced L.N. 272 of 1974)
