@@ -26,6 +26,8 @@ THE POISONS LIST
 
 - Acetyldihydrocodeine; its salts
 
+- Aciclovir; its salts
+
 - Acipimox; its salts
 
 - Acitretin; its salts; its esters
@@ -294,6 +296,8 @@ THE POISONS LIST
 
 - Benoxaprofen; its salts
 
+- Benserazide; its salts
+
 - Benzethidine; its salts
 
 - Benzhexol; its salts
@@ -319,6 +323,8 @@ THE POISONS LIST
 - Bicalutamide; its salts
 
 - Bifonazole; its satls
+
+- Biperiden; its salts
 
 - Biphenylacetic acid; its salts; its esters
 
@@ -388,6 +394,8 @@ THE POISONS LIST
 
 - Carbamazepine
 
+- Carbidopa; its salts
+
 - Carboplatin
 
 - Carbromal
@@ -411,6 +419,8 @@ THE POISONS LIST
 - Celiprolol; its salts
 
 - Cerivastatin; its salts
+
+- Chlofenamic acid; its salts
 
 - Chloral; its addition and its condensation products; any compound with any substance falling within this item
 
@@ -590,6 +600,10 @@ THE POISONS LIST
 
 - Dacarbazinc
 
+- Dalteparin; its salts
+
+- Dapsone
+
 - Deanol acetamidobenzoate
 
 - Debrisoquine; its salts
@@ -634,6 +648,8 @@ THE POISONS LIST
 
 - Dihydrocodeinone enol acetate; its salts
 
+- Dihydroergotamine; its salts, simple or complex
+
 - Dihydromorphine; its salts; its esters and ethers; their salts
 
 - 3-(3, 4-Dihydroxyphenyl) alanine; its salts
@@ -657,6 +673,8 @@ THE POISONS LIST
 - Dipyridamole
 
 - Disopyramide; its salts
+
+- Distigmine; its salts
 
 - Disulfiram
 
@@ -703,6 +721,8 @@ THE POISONS LIST
 - Enalaprilat; its salts
 
 - Enoxacin; its salts; its esters
+
+- Enoxaparin; its salts
 
 - Enoximone
 
@@ -755,6 +775,8 @@ THE POISONS LIST
 - Etretinate
 
 - Etryptamine; its salts
+
+- Famciclovir; its salts
 
 - Felodipine
 
@@ -864,6 +886,8 @@ THE POISONS LIST
 
 - Goserelin; its salts
 
+- Granisetron; its salts
+
 - Grepafloxacin; its salts; its esters
 
 - Guanabenz; its salts
@@ -971,6 +995,8 @@ THE POISONS LIST
 - Isoprenaline; its salts
 
 - Isopyrin; its salts
+
+- Isosorbide; its nitrates
 
 - Isotretinoin
 
@@ -1242,6 +1268,8 @@ THE POISONS LIST
 
 - Nefopam; its salts
 
+- Neostigmine; its salts
+
 - Nevirapine; its salts
 
 - Niclofolan
@@ -1292,7 +1320,7 @@ THE POISONS LIST
 
 - Olsalazine; its salts
 
-- Omeprazole
+- Omeprazole; its salts
 
 - Omoconazole; its salts
 
@@ -1372,6 +1400,8 @@ THE POISONS LIST
 
 - Pentaerythritol tetranitrate
 
+- Pentamidine; its salts
+
 - Pentazocine; its salts
 
 - Pentolinium; its salts
@@ -1448,6 +1478,8 @@ THE POISONS LIST
 
 - Pituitary gland, the active principles of, other than corticotrophins, oxytocins and vasopressins
 
+- Pizotifen; its salts
+
 - Podophyllum resin
 
 - Polymethylenebistrimethylammonium salts
@@ -1459,6 +1491,8 @@ THE POISONS LIST
 - Pravastatin; its salts; its esters
 
 - Prazosin; its salts
+
+- Primaquine; its salts
 
 - Primidone
 
@@ -1479,6 +1513,8 @@ THE POISONS LIST
 - beta-Prodine; its salts
 
 - Proglumetacin; its salts
+
+- Proguanil; its salts
 
 - Proheptazine; its salts
 
@@ -1521,6 +1557,10 @@ THE POISONS LIST
 - Pseudoephedrine; its salts
 
 - Pyrazinamide
+
+- Pyridostigmine; its salts
+
+- Pyrimethamine
 
 - Pyrithyldione
 
@@ -1593,6 +1633,8 @@ THE POISONS LIST
 - Sildenafil; its salts
 
 - Simvastatin
+
+- Sodium aurothiomalate
 
 - Sodium cromoglycate
 
@@ -1692,6 +1734,8 @@ THE POISONS LIST
 
 - Tinoridiner; its salts
 
+- Tinzaparin; its salts
+
 - Tioconazole; its salts
 
 - Tirofiban; its salts
@@ -1777,6 +1821,8 @@ THE POISONS LIST
 - Urapidil; its salts
 
 - Urethane
+
+- Valaciclovir; its salts
 
 - Valnoctamide
 
@@ -1874,6 +1920,6 @@ THE POISONS LIST
 
 - Phosphoric acid
 
-- Potassium hydroxide Products retailed in the form as supplied the manufacturer, containing a poison listed in Part IB of this List, where the proportion of such poison does not exceed the equivalent of 0.1% Sodium hydroxide
+- Potassium hydroxide Products retailed in the form as supplied by the manufacturer, containing a poison listed in Part IB of this List, where the proportion of such poison does not exceed the equivalent of 0.1% Sodium hydroxide
 
 - Sodium nitrite (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999)
