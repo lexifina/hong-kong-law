@@ -93,6 +93,9 @@ s-077.md
 s-078.md
 s-079.md
 s-080.md
+s-080A.md
+s-080B.md
+s-080C.md
 s-081.md
 s-081A.md
 s-081B.md
