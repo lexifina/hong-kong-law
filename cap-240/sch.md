@@ -1,0 +1,149 @@
+# SCHEDULE
+
+[ss. 2 & 12]
+
+OFFENCE
+
+Item | Section or Regulation | Description | Fixed Penalty
+
+Road Traffic Ordinance (Cap. 374)
+
+1. | Section 41 | Driving in excess of speed limit by 15 km/h or less | $320
+
+2. | Section 41 | Driving in excess of speed limit by more than 15 km/h, other than where item 2A or 2B applies | $450
+
+2A. | Section 41 | Driving in excess of speed limit by more than 30 km/h, other than where item 2B applies | $450
+
+2B. | Section 41 | Driving in excess of speed limit by more than 45 km/h | $450
+
+3. | Section 42(1) | Driving with an expired driving licence | $320
+
+4. | Section 42(2) | Failing to carry driving licence when driving | $320
+
+5. | Section 43(3) | Failing to produce driving licence | $320
+
+6. | Section 52(1) | Driving unlicensed vehicle | $450
+
+7. | Section 52(8) | Driving a private car which is carrying goods weighing more than 200 kg | $320
+
+8. | Section 52(9) | Contravening condition of a vehicle licence | $450
+
+Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
+
+9. | Regulation 10(1) | Unlawfully entering box junction | $320
+
+9A. | Regulation 10A | Unlawfully entering yellow striped light signal crossing (Added L.N. 88 of 1990) | $320
+
+10. | Regulation 11(1) | Crossing continuous double white line or white line with a broken white line | $450
+
+11. | Regulation 14(5) | Driving in prohibited zone | $450
+
+12. | Regulation 14(6) | Picking up/setting down passengers in restricted zone | $450
+
+13. | Regulation 14(7) | Loading/unloading goods in restricted zone | $450
+
+14. | Regulation 18 | Failing to comply with traffic signals | $450
+
+15. | Regulation 27(4) | Driving on closed road without permit | $320
+
+16. | Regulation 31 | Failing to give precedence to pedestrians on a zebra crossing | $450
+
+17. | Regulation 38(2) | Failing to stop for school crossing patrol | $450
+
+18. | Regulation 42(d) | “U” turn causing obstruction | $320
+
+19. | Regulation 43 | Sounding audible warning device unnecessarily | $320
+
+20. | Regulation 45 | Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place | $320
+
+21. | Regulation 47(1)(a) | Driving without necessary lights illuminated | $320
+
+22. | Regulation 47(1)(b) and (c) | Light other than permitted illuminated lights showing to rear | $320
+
+23. | Regulation 53(3) | Excess passengers | $450
+
+24. | Regulation 54(1) | Overloading (Amend L.N. 477 of 1993) | $1,000
+
+25. | Regulation 57 | Insecure load | $450
+
+26. | Regulation 59 | Failing to comply with traffic signs | $450
+
+27. | Regulation 59 | Failing to comply with road markings | $450
+
+Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 sub. leg. A)
+
+28. | Regulation 5(4) | Defective direction indicator | $320
+
+29. | Regulation 31(1)(a) | Excess smoke or visible vapour | $450
+
+30. | Regulation 90(2) | Defective or inadequate dipping mechanism | $320
+
+Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E)
+
+31. | Regulation 8(2) | Registration mark not displayed/lit/ adequately fitted | $320
+
+32. | Regulation 18(1) | Failing to report change of vehicle particulars | $320
+
+33. | Regulation 25 | Failing to display valid licence | $320
+
+Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B)
+
+34. | Regulation 17(4) | Contravening condition of driving licence | $320
+
+35. | Regulation 30(3)(b) | Failing to display “L” plates | $450
+
+36. | Regulation 30(4) | Contravening condition of learner’s driving licence | $450
+
+Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
+
+37. | Regulation 3(1) | Driving motor cycle without protective helmet | $320
+
+38. | Regulation 7(1)(a) | Driving private car without being securely fastened with seat belt | $320
+
+39. | Regulation 7(3) | Driving private car when front seat passenger not securely fastened with seat belt | $230
+
+Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D)
+
+40. | Regulation 35(1)(a) | Driver of first or second public light bus at public light bus stand leaving vehicle | $320
+
+41. | Regulation 35(1)(b) | Driver of first or second public light bus at public light bus stand not ready/ willing to drive from public light bus stand | $320
+
+42. | Regulation 35(2)(a) | Public light bus driver not moving forward at public light bus stand | $320
+
+43. | Regulation 35(2)(b) | Public light bus obstructing other public light bus at public light bus stand | $320
+
+44. | Regulation 35(2)(c) | Public light bus driver at stand not obeying directions given by police officer/traffic warden | $320
+
+45. | Regulation 36(2) | Taxi driver not moving forward at taxi stand | $320
+
+45A. | Regulation 36(1) | Taxi driver of first or second taxi at a taxi stand not sitting in or standing beside his taxi (Added L.N. 110 of 1994) | $320
+
+46. | Regulation 36(3)(b) | Taxi driver at stand accepting fare out of turn | $320
+
+47. | Regulation 45(1)(d) | Driver not taking all reasonable precautions to ensure safety of passengers of a public bus, public light bus or taxi | $320
+
+48. | Regulation 45(1)(h) | Stopping public bus, public light bus or taxi longer than necessary when picking up/setting down passengers | $320
+
+49. | Regulation 49(2) | Not setting taxi meter to recording position | $320
+
+Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
+
+50. | Regulation 7A(1)(a) | Driving taxi without being securely fastened with seat belt | $320
+
+51. | Regulation 7A(1)(a) | Driving light bus without being securely fastened with seat belt | $320
+
+52. | Regulation 7A(1)(a) | Driving goods vehicle without being securely fastened with seat belt | $320
+
+53. | Regulation 7A(3) | Driving taxi when front seat passenger under 15 years of age not securely fastened with seat belt | $230
+
+54. | Regulation 7A(3) | Driving light bus when front seat passenger under 15 years of age not securely fastened with seat belt | $230
+
+55. | Regulation 7A(3) | Driving goods vehicle when front seat passenger under 15 years of age not securely fastened with seat belt | $230
+
+Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q)
+
+56. | Regulation 11 | Failing to comply with restriction on using offside lane (Added L.N. 255 of 1991) | $450
+
+57. | Regulation 13 | Overtaking another vehicle on its nearside (Added L.N.255 of 1991) | $450
+
+(Schedule replaced L.N. 47 of 1989. Amended L.N. 110 of 1994)
