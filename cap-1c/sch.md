@@ -10,6 +10,8 @@ Chief Justice | Evidence Ordinance (Chapter 8), sections 27(2) and 29A(2). (L.N.
 
 Chief Justice | Juvenile Offenders Ordinance (Chapter 226), section 3A(2). (L.N. 229 of 1979)
 
+Chief Secretary for Administration (L.N. 362 of 1997) | Abbot of the Order of Cistercians of the Strict Observance Incorporation Ordinance (Chapter 1107), section 6(2). (L.N. 368 of 1984; 1 of 2001 s. 8)
+
 Chief Secretary for Administration (L.N. 362 of 1997) | Air Passenger Departure Tax Ordinance (Chapter 140). (L.N. 318 of 1984)
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Basel Evangelical Missionary Society Incorporation Ordinance (Chapter 1002), section 6(2). (L.N. 368 of 1984)
@@ -61,8 +63,6 @@ Chief Secretary for Administration (L.N. 362 of 1997) | Norwegian Seamen’s Mis
 Chief Secretary for Administration (L.N. 362 of 1997) | Petites Sœurs des Pauvres, St. Pern, Bretagne, Incorporation Ordinance (Chapter 1039), section 6(2). (L.N. 368 of 1984)
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Pontifical Foreign Missions Institute Incorporation Ordinance (Chapter 1041), section 5(2). (L.N. 368 of 1984)
-
-Chief Secretary for Administration (L.N. 362 of 1997) | Prior of the Order of Cistercians of the Strict Observance Incorporation Ordinance (Chapter 1107), section 6(2). (L.N. 368 of 1984)
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Prison Rules (Chapter 234 subsidiary legislation), rule 222(2). (L.N. 48 of 1967)
 
