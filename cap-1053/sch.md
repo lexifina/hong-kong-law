@@ -26,7 +26,7 @@ ARRANGEMENT OF STATUTES
 
     - IX. The Deans and Associate Deans of the Faculties
 
-    - IXA. The Dean of Students
+    - IXA. The Dean of Student Affairs (L.N. 165 of 1999)
 
     - IXB. (Repealed)
 
@@ -110,7 +110,7 @@ ARRANGEMENT OF STATUTES
 
 - (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 123 of 1994)
 
-- CONGREGATIONS
+- STATUTE II CONGREGATIONS
 
   - 1. The time, place and procedure of the congregations of the whole University shall be determined by the Chancellor.
 
@@ -118,11 +118,13 @@ ARRANGEMENT OF STATUTES
 
   - 3. At least one congregation shall be held in each academic year.
 
-- DEGREES AND OTHER ACADEMIC DISTINCTIONS
+- STATUTE III DEGREES AND OTHER ACADEMIC DISTINCTIONS
 
   - 1. The University may confer any of the following degrees—
 
-    - (a) Bachelors degrees Bachelor of Architecture
+    - (a) Bachelors degrees Bachelor of Accounting
+
+    - Bachelor of Architecture
 
     - Bachelor of Arts
 
@@ -138,6 +140,8 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Economics
 
+    - Bachelor of Economics and Finance
+
     - Bachelor of Education
 
     - Bachelor of Education in Language Education
@@ -146,9 +150,15 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Engineering
 
+    - Bachelor of Engineering, in engineering disciplines as determined by the Senate from time to time
+
     - Bachelor of Finance
 
+    - Bachelor of Housing Management
+
     - Bachelor of Laws
+
+    - Bachelor of Management Studies
 
     - Bachelor of Medicine and Bachelor of Surgery
 
@@ -176,9 +186,13 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Science in Surveying
 
+    - Bachelor of Science (Sports Science and Leisure Management)
+
     - Bachelor of Social Sciences
 
     - Bachelor of Social Work
+
+    - Bachelor of Traditional Chinese Medicine
 
     - (b) Masters degrees Master of Architecture
 
@@ -187,6 +201,8 @@ ARRANGEMENT OF STATUTES
     - Master of Arts in Applied Linguistics
 
     - Master of Business Administration
+
+    - Master of Business Administration (International)
 
     - Master of Common Law
 
@@ -220,6 +236,8 @@ ARRANGEMENT OF STATUTES
 
     - Master of Science in Engineering
 
+    - Master of Science in Engineering, in engineering disciplines as determined by the Senate from time to time
+
     - Master of Science in Environmental Management
 
     - Master of Science in Real Estate
@@ -239,6 +257,8 @@ ARRANGEMENT OF STATUTES
     - Master of Urban Design
 
     - (c) Doctors degrees Doctor of Laws
+
+    - Doctor of Legal Science
 
     - Doctor of Letters
 
@@ -260,7 +280,7 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences honoris causa
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999)
 
   - 2. The University may award any of the following diplomas and certificates—
 
@@ -290,6 +310,10 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Dental Surgery
 
+    - Postgraduate Diploma in Engineering, in engineering disciplines as determined by the Senate from time to time
+
+    - Postgraduate Diploma in General Dental Surgery
+
     - Postgraduate Diploma in the Law of the People’s Republic of China
 
     - Postgraduate Diploma in Public Law
@@ -318,7 +342,7 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Certificate in Psychology
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
@@ -330,7 +354,7 @@ ARRANGEMENT OF STATUTES
 
   - 7. No person shall be deprived of any degree, diploma, certificate or other academic distinction except for good cause by the Chancellor on the joint recommendation of the Council and the Senate.
 
-- MEMBERS OF THE UNIVERSITY
+- STATUTE IV MEMBERS OF THE UNIVERSITY
 
   - 1. The members of the University shall be—
 
@@ -340,7 +364,7 @@ ARRANGEMENT OF STATUTES
 
     - (c) the Deans of the Faculties, the Registrar, and the Librarian; (L.N. 54 of 1972; L.N. 58 of 1976; L.N. 167 of 1992)
 
-    - (ca) the Dean of Students; (L.N. 19 of 1971)
+    - (ca) the Dean of Student Affairs; (L.N. 19 of 1971; L.N. 165 of 1999)
 
     - (d) the members of the Court;
 
@@ -364,17 +388,17 @@ ARRANGEMENT OF STATUTES
 
     - (m) the postgraduate students. (L.N. 58 of 1976)
 
-- In addition, such persons holding such offices of appointments at or made by the University as shall hereafter from time to time be determined by the Council, shall be members of the University. (L.N. 96 of 1965)
+  - In addition, such persons holding such offices of appointments at or made by the University as shall hereafter from time to time be determined by the Council, shall be members of the University. (L.N. 96 of 1965)
 
   - 2. A member of the University shall continue to be a member so long as he possesses any one of the qualifications set out in this statute.
 
-- THE PRO-CHANCELLOR
+- STATUTE V THE PRO-CHANCELLOR
 
   - 1. The Pro-Chancellor may, on the authorization of the Chancellor and on his behalf, exercise any of the powers or perform any of the duties conferred or imposed on the Chancellor by the statutes.
 
   - 2. The Pro-Chancellor may resign by written notice addressed to the Chancellor. (L.N. 4 of 1968)
 
-- THE VICE-CHANCELLOR
+- STATUTE VI THE VICE-CHANCELLOR
 
   - 1. The Vice-Chancellor shall be appointed by the Council after consultation with the Senate.
 
@@ -386,7 +410,7 @@ ARRANGEMENT OF STATUTES
 
   - 5. The Vice-Chancellor shall have such disciplinary powers in respect of students as may be conferred by these statutes and any regulations made thereunder. (L.N. 19 of 1971)
 
-- THE DEPUTY VICE-CHANCELLOR
+- STATUTE VIA THE DEPUTY VICE-CHANCELLOR
 
   - 1. The Deputy Vice-Chancellor shall be appointed by the Council after consultation with the Senate.
 
@@ -394,7 +418,7 @@ ARRANGEMENT OF STATUTES
 
   - 3. The Deputy Vice-Chancellor may resign by written notice addressed to the Council. (L.N. 167 of 1992)
 
-- THE PRO-VICE-CHANCELLORS
+- STATUTE VII THE PRO-VICE-CHANCELLORS
 
   - 1. The Pro-Vice-Chancellors shall be appointed by the Council from among the members of the Senate not being student members. (L.N. 58 of 1976; L.N. 115 of 1991)
 
@@ -404,15 +428,13 @@ ARRANGEMENT OF STATUTES
 
   - 4. The Pro-Vice-Chancellors may resign by written notice addressed to the Council. (L.N. 159 of 1970)
 
-- THE TREASURER
+- STATUTE VIII THE TREASURER
 
   - 1. The Treasurer shall be appointed by the Council for 3 years and shall be eligible for re-appointment. The Council may appoint a person to act as Treasurer during a temporary vacancy in the office of Treasurer or in the temporary absence from duty or inability of the Treasurer. The person so appointed may exercise all or any of the powers, perform all or any of the duties, and have such of the privileges of the Treasurer as the Council may determine. (L.N. 267 of 1988)
 
   - 2. The Treasurer may resign by written notice addressed to the Council.
 
-- THE DEANS AND ASSOCIATE DEANS OF THE FACULTIES
-
-- (L.N. 83 of 1992)
+- STATUTE IX THE DEANS AND ASSOCIATE DEANS OF THE FACULTIES (L.N. 83 of 1992)
 
   - 1. Subject to the approval of the Council, on the recommendation of the relevant Board of Faculty and endorsed by the Senate, the Dean of each Faculty shall either be—
 
@@ -420,7 +442,7 @@ ARRANGEMENT OF STATUTES
 
     - (b) appointed by the Council, for such period as the Council shall determine.
 
-- A Dean shall be eligible for re-election or re-appointment. (L.N. 327 of 1998)
+  - A Dean shall be eligible for re-election or re-appointment. (L.N. 327 of 1998)
 
   - 2. Whenever the office of Dean becomes vacant a new Dean shall forthwith be elected or appointed.
 
@@ -438,17 +460,15 @@ ARRANGEMENT OF STATUTES
 
   - 7. An Associate Dean of a Faculty may resign by written notice addressed to the Vice-Chancellor. (L.N. 83 of 1992) (L.N. 58 of 1976; L.N. 44 of 1985)
 
-- THE DEAN OF STUDENTS
+- STATUTE IXA THE DEAN OF STUDENT AFFAIRS
 
-  - 1. The Dean of Students shall be an officer and shall be appointed by the Council after consultation with the Senate.
+  - 1. The Dean of Student Affairs shall be an officer and shall be appointed by the Council after consultation with the Senate.
 
-  - 2. The Dean of Students shall be responsible to the Vice-Chancellor for such duties in connection with student affairs as may be determined by the Council from time to time. (L.N. 4 of 1983) (L.N. 19 of 1971)
+  - 2. The Dean of Student Affairs shall be responsible to the Vice-Chancellor for such duties in connection with student affairs as may be determined by the Council from time to time. (L.N. 4 of 1983) (L.N. 19 of 1971; L.N. 165 of 1999)
 
-(Repealed L.N. 72 of 1993)
+- STATUTE IXB (Repealed L.N. 72 of 1993)
 
-- THE REGISTRAR AND OTHER OFFICERS
-
-- (L.N. 167 of 1992)
+- STATUTE X THE REGISTRAR AND OTHER OFFICERS (L.N. 167 of 1992)
 
   - 1. The Registrar—
 
@@ -470,7 +490,7 @@ ARRANGEMENT OF STATUTES
 
     - (b) shall be responsible to the Council for the keeping of all University accounts;
 
-    - (c) shall be responsible to the Registrar for the discharge of such other duties in connection with University finance as the Registrar may determine.
+    - (c) shall be responsible to the Vice-Chancellor for the discharge of such other duties in connection with University finance as the Vice-Chancellor may determine. (L.N. 165 of 1999)
 
   - 3. The Librarian—
 
@@ -482,19 +502,19 @@ ARRANGEMENT OF STATUTES
 
     - (a) shall be appointed by the Council;
 
-    - (b) shall be responsible to the Registrar for general maintenance of all University buildings, properties, and grounds;
+    - (b) shall be responsible to the Vice-Chancellor for general maintenance of all University buildings, properties, and grounds;
 
-    - (c) shall be responsible to the Registrar for the discharge of such other duties in connection with the University buildings, properties, and grounds as the Registrar may determine. (L.N. 56 of 1966; L.N. 15 of 1973)
+    - (c) shall be responsible to the Vice-Chancellor for the discharge of such other duties in connection with the University buildings, properties, and grounds as the Vice-Chancellor may determine. (L.N. 56 of 1966; L.N. 15 of 1973; L.N. 165 of 1999)
 
   - (L.N. 54 of 1972; L.N. 58 of 1976; L.N. 167 of 1992; L.N. 72 of 1993)
 
-- THE AUDITORS
+- STATUTE XI THE AUDITORS
 
   - 1. The Court shall appoint an auditor or auditors, who shall not be members of the Court, the Council, the Senate, the Board of any Faculty or any committee. (L.N. 58 of 1976; L.N. 72 of 1993)
 
   - 2. Auditors shall hold office for 1 year at a time, and shall be eligible for re-appointment.
 
-- THE TEACHERS OF THE UNIVERSITY
+- STATUTE XII THE TEACHERS OF THE UNIVERSITY
 
   - 1. In addition to the persons designated as such by the Ordinance, the senior lecturers, the assistant lecturers, the appointed Deans of Faculties and the Heads and Deputy Heads of the Institutes, Schools, Centres and Units and other subdivisions of Studies and Learning appointed under the provisions of Statute XXV shall be teachers. (L.N. 72 of 1993; L.N. 123 of 1994; L.N. 299 of 1998)
 
@@ -502,13 +522,13 @@ ARRANGEMENT OF STATUTES
 
   - 3. The Senate shall organize the teachers into such Faculties, Teaching Departments, Institutes, Schools, Centres, and Units and other subdivisions of studies and learning as the Senate shall see fit. (L.N. 123 of 1994; L.N. 299 of 1998)
 
-- HONORARY AND EMERITUS PROFESSORS
+- STATUTE XIII HONORARY AND EMERITUS PROFESSORS
 
   - 1. Upon the recommendation of the Senate, the Council may appoint Honorary Professors and may confer the title of Emeritus Professor upon any professor who has retired from office.
 
   - 2. An Honorary or Emeritus Professor shall not ex officio be a member of the Court, Council, Senate or the Board of any Faculty. (L.N. 72 of 1993)
 
-- PROCEDURE GENERALLY
+- STATUTE XIV PROCEDURE GENERALLY
 
   - 1. Except as provided in the statutes, in the absence of the president or chairman and, if there is a vice-president or vice-chairman, of the vice-president or vice-chairman from a meeting of the Court, Council, Senate, the Board of any Faculty, or any committee, the members present at that meeting shall choose a president or chairman, as the case may be, to act at that meeting. (L.N. 69 of 1968)
 
@@ -522,7 +542,7 @@ ARRANGEMENT OF STATUTES
 
   - 6. In the case of equality of votes on a question at a meeting of the Court, Council, Senate, the Board of any Faculty or any committee, the president or chairman of the meeting shall have a casting vote. (L.N. 58 of 1976; L.N. 72 of 1993)
 
-- THE COURT
+- STATUTE XV THE COURT
 
   - 1. The Court shall consist of—
 
@@ -540,9 +560,9 @@ ARRANGEMENT OF STATUTES
 
       - (iii) 5 members elected by the Court,
 
-      - (iv) 3 members elected by the Grant Schools Council, (L.N. 82 of 1979)
+      - (iv) 3 members elected by the Grant Schools Council from among its number, (L.N. 82 of 1979; L.N. 165 of 1999)
 
-      - (v) 3 members elected by the Hong Kong Subsidized Secondary Schools Council; and (L.N. 56 of 1986)
+      - (v) 3 members elected by the Hong Kong Subsidized Secondary Schools Council from among its number; and (L.N. 56 of 1986; L.N. 165 of 1999)
 
     - (e) not more than 20 members, not being already included in any of the foregoing classes, appointed by the Chancellor.
 
@@ -560,13 +580,13 @@ ARRANGEMENT OF STATUTES
 
   - 8. If any appointed or elected member leaves Hong Kong and either remains absent for 3 months or more or gives notice of his intended absence for 3 months or more the appointing or electing person or body may appoint or elect, as the case may require, another person to act as member in his place during his absence. The acting member shall vacate his office either on the return of the absent member to Hong Kong, or on the expiry of the absent member’s term of office, whichever first happens. (L.N. 32 of 1987)
 
-  - 9. A member elected by the Standing Committee of Convocation shall be deemed—
+  - 9. A member elected under paragraph 1(d)(i), (ii), (iv) or (v) of this Statute shall be deemed—
 
-    - (a) to have resigned from the Court if he ceases to be a member of that committee;
+    - (a) to have resigned from the Court if he ceases to be a member of the body which elected him;
 
-    - (b) to have resigned from his membership of the Court in that capacity if he becomes a member of the Court in another capacity. (L.N. 44 of 1985)
+    - (b) to have resigned from his membership of the Court in that capacity if he becomes a member of the Court in another capacity. (L.N. 44 of 1985; L.N. 165 of 1999)
 
-- MEETINGS OF THE COURT
+- STATUTE XVI MEETINGS OF THE COURT
 
   - 1. The Court shall meet at least once in each academic year.
 
@@ -578,9 +598,7 @@ ARRANGEMENT OF STATUTES
 
   - 5. The Vice-Chancellor may require any officer or teacher to be present at a meeting of the Court to assist the Vice-Chancellor or the Registrar. (L.N. 167 of 1992)
 
-- POWERS OF THE COURT
-
-- Subject to the provisions of the Ordinance and the statutes, the Court shall have power—
+- STATUTE XVII POWERS OF THE COURT Subject to the provisions of the Ordinance and the statutes, the Court shall have power—
 
   - (a) to recommend to the Chancellor additions to, or the amendment or repeal of any of the statutes on the proposal of the Council;
 
@@ -594,7 +612,7 @@ ARRANGEMENT OF STATUTES
 
   - (f) to appoint life members and to prescribe the procedure for making such appointments.
 
-- THE COUNCIL
+- STATUTE XVIII THE COUNCIL
 
   - 1. The Council shall consist of— (L.N. 137 of 1967)
 
@@ -614,7 +632,7 @@ ARRANGEMENT OF STATUTES
 
     - (f) the Dean of each Faculty;
 
-    - (fa) the Dean of Students; (L.N. 144 of 1970)
+    - (fa) the Dean of Student Affairs; (L.N. 144 of 1970; L.N. 165 of 1999)
 
     - (g) 10 persons appointed by the Chancellor; (L.N. 490 of 1997)
 
@@ -656,7 +674,7 @@ ARRANGEMENT OF STATUTES
 
   - 8. If any appointed or elected member leaves Hong Kong and either remains absent for 2 months or more or gives notice of his intended absence for 2 months or more the appointing or electing person or body may appoint or elect, as the case may require, another person to act as member in his place during the absence. The acting member shall vacate his office either on the return of the absent member to Hong Kong or on the expiry of the absent member’s term of office whichever first happens. (L.N. 32 of 1987)
 
-- POWERS OF THE COUNCIL
+- STATUTE XIX POWERS OF THE COUNCIL
 
   - 1. The Council shall administer the affairs of the University other than those vested by the Ordinance or the statutes in some other authority of the University or in an officer.
 
@@ -734,7 +752,7 @@ ARRANGEMENT OF STATUTES
 
     - (2) All such regulations shall come into operation on the day on which they are made, unless otherwise provided by the Council.
 
-- THE HONORARY DEGREES COMMITTEE
+- STATUTE XX THE HONORARY DEGREES COMMITTEE
 
   - 1. The Honorary Degrees Committee shall consist of—
 
@@ -768,7 +786,7 @@ ARRANGEMENT OF STATUTES
 
   - 5. The Honorary Degrees Committee shall seek from the members of the Court nominations for the award of honorary degrees, and shall have power to receive nominations from any other person or organization. (L.N. 490 of 1997)
 
-- FINANCIAL PROCEDURE
+- STATUTE XXI FINANCIAL PROCEDURE
 
   - 1. The Council shall fix the financial year.
 
@@ -786,7 +804,7 @@ ARRANGEMENT OF STATUTES
 
   - 8. The current estimates, together with the latest audited account, shall be submitted to the Court at its annual meeting, in order that the observations of the Court may be transmitted to the Council.
 
-- THE SENATE
+- STATUTE XXII THE SENATE
 
   - 1. The Senate shall consist of— (L.N. 144 of 1970)
 
@@ -820,9 +838,11 @@ ARRANGEMENT OF STATUTES
 
     - (ib) the Director, Centre of Urban Planning and Environmental Management; (L.N. 83 of 1992)
 
+    - (ic) the Dean of the Graduate School; (L.N. 165 of 1999)
+
     - (j) the Librarian;
 
-    - (k) the Dean of Students;
+    - (k) the Dean of Student Affairs; (L.N. 165 of 1999)
 
     - (l) 2 teachers from each Faculty being members of the Board of that Faculty and not being Professors or the Heads of Teaching Departments, who shall be elected by the non-professorial members of the Board;
 
@@ -850,7 +870,7 @@ ARRANGEMENT OF STATUTES
 
     - (c) in the case of a student, he ceases to be registered in the Faculty by which he was elected.
 
-- For the purposes of this statute the masters of undergraduate student colleges shall rank as wardens. (L.N. 58 of 1976; L.N. 44 of 1985; L.N. 72 of 1993)
+  - For the purposes of this statute the masters of undergraduate student colleges shall rank as wardens. (L.N. 58 of 1976; L.N. 44 of 1985; L.N. 72 of 1993)
 
   - 4. The Senate shall meet at least once in each semester of every academic year, and at such other times as may be necessary. (L.N. 516 of 1994)
 
@@ -860,7 +880,7 @@ ARRANGEMENT OF STATUTES
 
   - 7. The Registrar shall be the secretary to the Senate but shall not be a member thereof. (L.N. 58 of 1976)
 
-- POWERS OF THE SENATE
+- STATUTE XXIII POWERS OF THE SENATE
 
   - 1. Subject to the provision of the Ordinance and the statutes, and to the availability of the funds provided by the Council, the Senate shall have power—
 
@@ -922,7 +942,7 @@ ARRANGEMENT OF STATUTES
 
     - (2) All such regulations shall be reported to the Council and shall come into operation not earlier than 1 semester after the day on which they are made, unless otherwise provided by the Council. (L.N. 516 of 1994)
 
-- THE TEACHING DEPARTMENTS
+- STATUTE XXIV THE TEACHING DEPARTMENTS
 
   - 1. The Teaching Departments shall be formed by the Senate.
 
@@ -930,7 +950,7 @@ ARRANGEMENT OF STATUTES
 
   - 3. The Senate shall allocate the Teaching Departments to Faculties. A Teaching Department may be allocated to more than one Faculty. (L.N. 123 of 1994)
 
-- INSTITUTES, SCHOOLS, CENTRES, UNITS OR OTHER
+- STATUTE XXV INSTITUTES, SCHOOLS, CENTRES, UNITS OR OTHER
 
 - SUBDIVISIONS OF STUDIES AND LEARNING
 
@@ -938,7 +958,7 @@ ARRANGEMENT OF STATUTES
 
   - 2. An Institute, School, Centre, Unit or other subdivision of studies and learning may be allocated by the Senate to one or more Faculties. (L.N. 123 of 1994)
 
-- THE BOARDS OF THE FACULTIES
+- STATUTE XXVI THE BOARDS OF THE FACULTIES
 
   - 1. The Board of each Faculty shall consist of—
 
@@ -978,7 +998,7 @@ ARRANGEMENT OF STATUTES
 
     - (1) Convocation shall consist of the following members—
 
-      - (a) the Chancellor, the Vice-Chancellor, the Deputy Vice-Chancellor, the Pro-Vice-Chancellors, the Treasurer, the Deans of the Faculties, the Dean of Students and the Registrar; (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 82 of 1979; L.N. 167 of 1992; L.N. 72 of 1993)
+      - (a) the Chancellor, the Vice-Chancellor, the Deputy Vice-Chancellor, the Pro-Vice-Chancellors, the Treasurer, the Deans of the Faculties, the Dean of Student Affairs and the Registrar; (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 82 of 1979; L.N. 167 of 1992; L.N. 72 of 1993; L.N. 165 of 1999)
 
       - (b) the professors, readers, lecturers, tutors and demonstrators of the University;
 
@@ -1024,7 +1044,7 @@ ARRANGEMENT OF STATUTES
 
     - (f) generally to do any other act necessary to give effect to the powers conferred on Convocation by the Ordinance or the statutes.
 
-- EXAMINATIONS
+- STATUTE XXIX EXAMINATIONS
 
   - 1. Examinations for degrees, diplomas certificates and other awards shall be conducted by examiners appointed by the Council and the Senate on the recommendation of the appropriate Boards of Faculties, or committees of the Senate. (L.N. 58 of 1976; L.N. 72 of 1993)
 
@@ -1034,7 +1054,7 @@ ARRANGEMENT OF STATUTES
 
   - 4. The Registrar shall discharge such duties in respect of examinations as may be delegated to him by the Senate, and he may perform these duties by deputy.
 
-- THE DISCIPLINARY COMMITTEE
+- STATUTE XXX THE DISCIPLINARY COMMITTEE
 
   - 1. In this statute, unless the context otherwise requires—
 
@@ -1064,7 +1084,7 @@ ARRANGEMENT OF STATUTES
 
     - (3) If the Registrar fails to make any appointment from the Senate panel as required under paragraph 2(1)(a) such vacancy may be filled by the Senate by appointing a person from the Senate or from amongst the teachers as defined in section 12(9) of the Ordinance and Statute XII.
 
-    - (4) Neither the Vice-Chancellor nor the Dean of Students shall be eligible for appointment to the Senate panel or as a member of the Committee under the provisions of subparagraph (1) or (3) of paragraph 2 or subparagraph (3) of this paragraph.
+    - (4) Neither the Vice-Chancellor nor the Dean of Student Affairs shall be eligible for appointment to the Senate panel or as a member of the Committee under the provisions of subparagraph (1) or (3) of paragraph 2 or subparagraph (3) of this paragraph. (L.N. 165 of 1999)
 
   - 4.
 
@@ -1116,7 +1136,7 @@ ARRANGEMENT OF STATUTES
 
   - 11. Decisions of the Committee shall be made by a majority of the members present and voting at a duly constituted meeting. In the event of an equality of votes the Chairman shall have a casting vote in addition to his original vote except in the case of a verdict of guilty or not guilty. Where an equality of votes occurs in relation to any such verdict upon a student a verdict of not guilty shall be recorded. (L.N. 19 of 1971; L.N. 167 of 1992)
 
-- POWERS OF THE DISCIPLINARY COMMITTEE
+- STATUTE XXXI POWERS OF THE DISCIPLINARY COMMITTEE
 
   - 1.
 
@@ -1196,25 +1216,25 @@ ARRANGEMENT OF STATUTES
 
       - (e) expulsion from the University,
 
-- and where applicable may require such student to make good any damage to property or premises caused by him:
+    - and where applicable may require such student to make good any damage to property or premises caused by him:
 
-  - Provided that where the Committee is satisfied that any damage to or defacement of property was accidentally caused it shall not impose any penalty on the student responsible for such damage to or defacement of property, but may require such student to make good the damage or defacement accidentally caused.
+      - Provided that where the Committee is satisfied that any damage to or defacement of property was accidentally caused it shall not impose any penalty on the student responsible for such damage to or defacement of property, but may require such student to make good the damage or defacement accidentally caused.
 
-  - (1A) The Committee in addition to or as an alternative to imposing any of the penalties set out in subparagraph (1) may report to the Council and the Senate the offence of which the student has been found guilty where such offence falls within the provisions of paragraph 2(1)(g), (h) or (i) and has been committed in connection with a degree or other academic distinction conferred upon the student and the Council and the Senate may if they think fit, recommend to the Chancellor the deprivation of any degree, diploma, certificate or other academic distinction conferred upon such person. (L.N. 123 of 1994)
+    - (1A) The Committee in addition to or as an alternative to imposing any of the penalties set out in subparagraph (1) may report to the Council and the Senate the offence of which the student has been found guilty where such offence falls within the provisions of paragraph 2(1)(g), (h) or (i) and has been committed in connection with a degree or other academic distinction conferred upon the student and the Council and the Senate may if they think fit, recommend to the Chancellor the deprivation of any degree, diploma, certificate or other academic distinction conferred upon such person. (L.N. 123 of 1994)
 
-  - (1B) Where a student has been found guilty of an offence which falls within the provisions of paragraph 2(1)(g), the Committee shall report such offence to the examiners appointed under Statute XXIX for the relevant examination who may then take such action within their competence as they consider appropriate. (L.N. 99 of 1997)
+    - (1B) Where a student has been found guilty of an offence which falls within the provisions of paragraph 2(1)(g), the Committee shall report such offence to the examiners appointed under Statute XXIX for the relevant examination who may then take such action within their competence as they consider appropriate. (L.N. 99 of 1997)
 
-  - (2)
+    - (2)
 
-    - In this paragraph “suspension” (暫時停學) means the withdrawal of all academic or other University privileges, benefits, rights and facilities and during the period of suspension the student shall not be entitled to enter or remain on any property or premises of the University:
+      - In this paragraph “suspension” (暫時停學) means the withdrawal of all academic or other University privileges, benefits, rights and facilities and during the period of suspension the student shall not be entitled to enter or remain on any property or premises of the University:
 
-      - Provided that the Committee may in its discretion and taking into account the length of the period of suspension permit the student to remain eligible for the benefits of the University Health Service and the Personal Development and Counselling Centre. (L.N. 123 of 1994)
+        - Provided that the Committee may in its discretion and taking into account the length of the period of suspension permit the student to remain eligible for the benefits of the University Health Service and the Personal Development and Counselling Centre. (L.N. 123 of 1994)
 
-  - (3) The Vice-Chancellor may at any time permit any student in respect of whom a penalty of suspension or withdrawal has been imposed to enter and remain on the property or premises of the University for such purposes as may be specified by the Vice-Chancellor in writing in letter addressed to the student.
+    - (3) The Vice-Chancellor may at any time permit any student in respect of whom a penalty of suspension or withdrawal has been imposed to enter and remain on the property or premises of the University for such purposes as may be specified by the Vice-Chancellor in writing in letter addressed to the student.
 
-  - (4) Where under this paragraph or paragraph 8 a student is suspended his entitlement to take any examination shall be determined according to the regulations made by the Senate governing the conditions for the award of degrees, diplomas, certificates and other marks of distinction, and governing courses of study and examinations.
+    - (4) Where under this paragraph or paragraph 8 a student is suspended his entitlement to take any examination shall be determined according to the regulations made by the Senate governing the conditions for the award of degrees, diplomas, certificates and other marks of distinction, and governing courses of study and examinations.
 
-  - (5) Where the Committee orders the imposition of any penalty the operation of any such order shall be suspended until expiration of 14 days after the day on which such order was made or such longer period as may be permitted by the Committee or by the Registrar for giving notice of appeal under paragraph 7. Where notice of appeal is given the operation of any such order shall be further suspended until the determination of the appeal. (L.N. 167 of 1992)
+    - (5) Where the Committee orders the imposition of any penalty the operation of any such order shall be suspended until expiration of 14 days after the day on which such order was made or such longer period as may be permitted by the Committee or by the Registrar for giving notice of appeal under paragraph 7. Where notice of appeal is given the operation of any such order shall be further suspended until the determination of the appeal. (L.N. 167 of 1992)
 
   - 5. Where it is alleged that a student has been convicted of an offence by a court of law the Committee shall confine its proceedings to—
 
