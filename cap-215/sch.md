@@ -2,34 +2,26 @@
 
 [ss. 4, 46, 55, 56 & 58]
 
-EASTERN HARBOUR CROSSING ROAD TUNNEL TOLLS Category Vehicle Toll
+EASTERN HARBOUR CROSSING ROAD TUNNEL TOLLS
 
-- 1. Motorcycles, motor tricycles . $5
+Category | Vehicle | Toll
 
-- 2. Private cars, electrically powered passenger vehicles,
+1. | Motorcycles, motor tricycles. | $ 8
 
-- taxis . $10
+2. | Private cars, electrically powered passenger vehicles, taxis. | $15
 
-- 3. Public and private light buses . $15
+3. | Public and private light buses. | $23
 
-- 4. Light goods vehicles and special purpose vehicles of a
+4. | Light goods vehicles and special purpose vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes. | $23
 
-- permitted gross vehicle weight not exceeding 5.5 tonnes $15
+5. | Medium goods vehicles and special purpose vehicles of a permitted gross vehicle weight of or exceeding 5.5 tonnes but not exceeding 24 tonnes. | $30
 
-- 5. Medium goods vehicles and special purpose vehicles of a
+6. | Heavy goods vehicles and special purpose vehicles of a permitted gross vehicle weight of or exceeding 24 tonnes but not exceeding 38 tonnes. | $45
 
-- permitted gross vehicle weight of or exceeding 5.5
+7. | Public and private single-decker buses. | $30
 
-- tonnes but not exceeding 24 tonnes . $20
+8. | Public and private double-decker buses. | $45
 
-- 6. Heavy goods vehicles and special purpose vehicles of a
+9. | Each additional axle in excess of two. | $15
 
-- permitted gross vehicle weight of or exceeding 24
-
-- tonnes but not exceeding 38 tonnes. $30
-
-- 7. Public and private single-decker buses . $20
-
-- 8. Public and private double-decker buses . $30
-
-- 9. Each additional axle in excess of two . $10
+(Amended L.N. 531 of 1997)
