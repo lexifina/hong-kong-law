@@ -1,5 +1,7 @@
 # Schedule 1
 
+(For the transitional provision relating to the amendments made by the Massage Establishments (Amendment) Regulation 2003 (L.N. 51 of 2003), see section 4 of the Regulation.)
+
 [regs. 2, 3 & 5]
 
 FORM 1 | [regulation 2]
@@ -15,8 +17,6 @@ APPLICATION FOR THE ISSUE/RENEWAL OF
 A MASSAGE ESTABLISHMENTS LICENCE
 
 I . hereby apply for a licence to operate a massage establishment at .
-
-.
 
 In support of my application I submit the following information and particulars—
 
@@ -48,7 +48,9 @@ PERSONAL DETAILS OF APPLICANT
 
 - 8. Name (in English and in Chinese) of the proposed massage establishment . .
 
-- 9. Address of the proposed massage establishment (including floor, and flat/shop/unit number as appropriate) . .
+- 9. Address of the proposed massage establishment (including floor, and flat/shop/unit number as appropriate) .
+
+- .
 
 - 10. Indicate by deleting as necessary whether the proposed massage establishment will be in premises that are—
 
@@ -224,9 +226,9 @@ PERSONAL DETAILS OF APPLICANT
 
   - (f) if the massage establishment is to be owned by a partnership, a copy of the partnership agreement and business registration certificate of that partnership; and
 
-  - (g) if the massage establishment is to be owned by a body corporate, a copy of the Certificate of Incorporation issued by the Registrar of Companies. I DECLARE that the information and particulars submitted by me in support of this application are, to the best of my knowledge and belief, both true and correct. I have read the Massage Establishments Ordinance (Chapter 266) and the Massage Establishments Regulations made thereunder. I understand that section 13(3) of the Ordinance provides that any person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue or renewal of a licence commits an offence and shall be liable to a fine of $50,000 and to imprisonment for 6 months. Dated this day of 19 . Signed . Applicant.
+  - (g) if the massage establishment is to be owned by a body corporate, a copy of the Certificate of Incorporation issued by the Registrar of Companies. I DECLARE that the information and particulars submitted by me in support of this application are, to the best of my knowledge and belief, both true and correct. I have read the Massage Establishments Ordinance (Chapter 266) and the Massage Establishments Regulations made thereunder. I understand that section 13(3) of the Ordinance provides that any person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue or renewal of a licence commits an offence and shall be liable to a fine of $50,000 and to imprisonment for 6 months. Dated this day of 20 . Signed . Applicant.
 
-- (L.N. 510 of 1996)
+- (L.N. 510 of 1996; L.N. 51 of 2003)
 
 FORM 2 | [regulation 5]
 
@@ -234,13 +236,13 @@ Licence No. .
 
 MASSAGE ESTABLISHMENTS ORDINANCE (Chapter 266) MASSAGE ESTABLISHMENT LICENCE
 
-LICENCE is granted this . day of . 19 . to (name) . (Hong Kong Identity Card No. .) to operate a massage establishment at (address of premises) .
+LICENCE is granted this . day of . 20 . to (name) . (Hong Kong Identity Card No. .) to operate a massage establishment at (address of premises) .
 
 .
 
 .
 
-for a period of 12 months from date of grant. THIS LICENCE is subject to those conditions endorsed on the document attached hereto.
+for a period of 12 months/24 months* from date of grant. THIS LICENCE is subject to those conditions endorsed on the document attached hereto.
 
 Fee: | Photograph
 
@@ -248,4 +250,6 @@ Fee: | Photograph
 
 for Commissioner of Police.
 
-(L.N. 510 of 1996)
+*Delete as appropriate.
+
+(L.N. 510 of 1996; L.N. 51 of 2003)
