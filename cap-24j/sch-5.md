@@ -14,7 +14,7 @@ STOCK MARKETS
 
 - Copenhagen Stock Exchange
 
-- Eurex
+- Deutsche Borse AG (L.N. 284 of 2000)
 
 - Helsinki Stock Exchange
 
