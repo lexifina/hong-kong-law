@@ -1,0 +1,5 @@
+IMPORT AND EXPORT (GENERAL) REGULATIONS
+
+(Cap. 60, section 31)
+
+[1 January 1972]
