@@ -6,8 +6,6 @@ HOSPITALS THE MANAGEMENT AND CONTROL OF WHICH MAY BE VESTED IN THE AUTHORITY UND
 
 Castle Peak Hospital
 
-Fanling Hospital
-
 Hong Kong Eye Hospital (Added L.N. 385 of 1993)
 
 Kowloon Hospital
@@ -45,3 +43,5 @@ Tseung Kwan O Hospital (Added L.N. 285 of 1999)
 Tuen Mun Hospital
 
 Wong Chuk Hang Hospital (Added L.N. 233 of 1995)
+
+(Amended L.N. 162 of 2002)
