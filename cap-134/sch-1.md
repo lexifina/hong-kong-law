@@ -72,6 +72,8 @@ DANGEROUS DRUGS
 
   - Dihydrocodeine
 
+  - Dihydroetorphine (Added L.N. 166 of 2000)
+
   - Dihydromorphine
 
   - Dimenoxadol
@@ -241,6 +243,8 @@ DANGEROUS DRUGS
   - Racemoramide
 
   - Racemorphan
+
+  - Remifentanil (Added L.N. 166 of 2000)
 
   - Rolicyclidine
 
