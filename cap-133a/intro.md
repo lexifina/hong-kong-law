@@ -1,0 +1,5 @@
+PESTICIDES REGULATIONS
+
+(Cap. 133 section 19)
+
+[15 July 1977]
