@@ -1,0 +1,3 @@
+An Ordinance to prohibit the production, possession and publication of child pornography; to amend the Crimes Ordinance to prohibit the use, procurement or offer of persons under the age of 18 for making pornography or for live pornographic performances, to extend the application of certain sexual offence provisions of that Ordinance to acts committed against children outside Hong Kong, and to prohibit the making of arrangements relating to the commission of those acts and the advertisement of such arrangements; and to make provision for connected purposes.
+
+[19 December 2003] L.N. 232 of 2003
