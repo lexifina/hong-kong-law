@@ -1,0 +1,5 @@
+DESIGNATION OF PUBLIC FUNERAL HALL ORDER
+
+(Cap. 132, section 123A)
+
+[18 November 1983]
