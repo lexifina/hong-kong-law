@@ -4,8 +4,6 @@
 
 PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
-(Adaptation amendments retroactively made - see 28 of 1998 s. 2(2))
-
 - 1. Interpretation
 
   - (1) In this Schedule, unless the context otherwise requires—
@@ -16,9 +14,9 @@ PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
   - (2) The relationship of parent and child is taken to exist as follows—
 
-    - (a) of a mother and child, between a woman and a child born to the mother in or out of wedlock;
+    - (a) of a parent and child, between a person and a child born to such person in or out of wedlock; (Replaced L.N. 192 of 1999)
 
-    - (b) of a father and child, between a man and a child born to him in wedlock or, if out of wedlock, between a father and a child subsequently legitimated by the marriage of his parents;
+    - (b) (Repealed L.N. 192 of 1999)
 
     - (c) of a parent and adopted child, between a parent and a child adopted only in Hong Kong under an order made by a Court in Hong Kong under the Adoption Ordinance (Cap. 290).
 
@@ -46,11 +44,15 @@ PERMANENT RESIDENTS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
 - Special Administrative Region A person who is within one of the following categories is a permanent resident of the Hong Kong Special Administrative Region—
 
-  - (a) A Chinese citizen born in Hong Kong before or after the establishment of the Hong Kong Special Administrative Region if his father or mother was settled or had the right of abode in Hong Kong at the time of the birth of the person or at any later time.
+  - (a) A Chinese citizen born in Hong Kong—
+
+    - (i) before 1 July 1987; or
+
+    - (ii) on or after 1 July 1987 if his father or mother was settled or had the right of abode in Hong Kong at the time of his birth or at any later time. (Replaced L.N. 192 of 1999)
 
   - (b) A Chinese citizen who has ordinarily resided in Hong Kong for a continuous period of not less than 7 years before or after the establishment of the Hong Kong Special Administrative Region.
 
-  - (c) A person of Chinese nationality born outside Hong Kong to a parent who is a permanent resident of the Hong Kong Special Administrative Region in category (a) or (b) if the parent had the right of abode in Hong Kong at the time of the birth of the person.
+  - (c) A person of Chinese nationality born outside Hong Kong before or after the establishment of the Hong Kong Special Administrative Region to a parent who, at the time of birth of that person, was a Chinese citizen falling within category (a) or (b). (Replaced L.N. 192 of 1999)
 
   - (d) A person not of Chinese nationality who has entered Hong Kong with a valid travel document, has ordinarily resided in Hong Kong for a continuous period of not less than 7 years and has taken Hong Kong as his place of permanent residence before or after the establishment of the Hong Kong Special Administrative Region.
 
