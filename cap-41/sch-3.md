@@ -88,21 +88,17 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - “Hong Kong insurance business” (香港保險業務) means—
 
-      - (a) any direct business or facultative reinsurance business, being general business, in relation to which the risk—
+      - ※(a) any direct business or facultative reinsurance business, being general business, in relation to which the risk is underwritten in Hong Kong, that is to say—
 
-        - (i) is underwritten in Hong Kong, that is to say—
+        - (i) the policy is issued in Hong Kong;
 
-          - (A) the policy is issued;
+        - (ii) the proposal form, application form or any other form of a similar nature is prepared or signed in Hong Kong;
 
-          - (B) the proposal form is prepared or signed;
+        - (iii) the proposal form, application form or any other form of a similar nature is submitted or received in Hong Kong;
 
-          - (C) the proposal form is submitted or received; or
+        - (iv) the proposal form, application form or any other form of a similar nature is accepted in Hong Kong; or
 
-          - (D) the proposal form or risk is accepted,
-
-        - in Hong Kong; or (Amended 26 of 1994 s. 7)
-
-        - (ii) (Repealed 26 of 1994 s. 7)
+        - (v) the risk is accepted in Hong Kong; or (Replaced L.N. 2 of 2003)
 
       - (b) any treaty reinsurance business, being general business, in relation to which the risk is underwritten in Hong Kong, that is to say—
 
@@ -113,6 +109,30 @@ PART 1: INTERPRETATION AND PRELIMINARY
         - (iii) the treaty negotiation is concluded,
 
     - in Hong Kong, other than treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (2); (Added L.N. 391 of 1990)
+
+    - ※”Hong Kong long term insurance business” (香港長期保險業務) means—
+
+      - (a) any direct business or facultative reinsurance business, being long term business, in relation to which the risk is underwritten in Hong Kong, that is to say—
+
+        - (i) the policy is issued in Hong Kong;
+
+        - (ii) the proposal form, application form or any other form of a similar nature is signed in Hong Kong;
+
+        - (iii) the proposal form, application form or any other form of a similar nature is submitted or received in Hong Kong;
+
+        - (iv) the proposal form, application form or any other form of a similar nature is accepted in Hong Kong; or
+
+        - (v) the risk is accepted in Hong Kong; or
+
+      - (b) any treaty reinsurance business, being long term business, in relation to which the risk is underwritten in Hong Kong, that is to say—
+
+        - (i) the treaty is signed in Hong Kong;
+
+        - (ii) the treaty is accepted in Hong Kong; or
+
+        - (iii) the treaty negotiation is concluded in Hong Kong,
+
+    - but does not include any treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (3); (Added L.N. 2 of 2003)
 
     - “intermediary” (中介人) means a person who in the course of any business or profession invites other persons to make offers or proposals or to take other step with a view to entering into contracts of insurance with an insurer, other than a person who only publishes such invitations on behalf of, or to the order of, some other person;
 
@@ -146,7 +166,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - “unearned premiums” (未滿期保費) means the amount set aside by an insurer at the end of its financial year out of premiums in respect of risks to be borne by the insurer after the end of the financial year under contracts of insurance entered into before the end of that year.
 
-  - (2) For the purposes of this paragraph a risk is deemed to arise in Hong Kong—
+  - ※(2) For the purposes of paragraph (b) of the definition of “Hong Kong insurance business”, a risk is deemed to arise in Hong Kong— (Amended L.N. 2 of 2003)
 
     - (a) in the case of insurance business of “accident and health” or “pecuniary loss”, if—
 
@@ -158,67 +178,77 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (c) in all other cases of insurance business, if the risk is located in Hong Kong. (Added L.N. 391 of 1990)
 
+  - ※(3) For the purposes of paragraph (b) of the definition of “Hong Kong long term insurance business”, a risk is deemed to arise in Hong Kong, if—
+
+    - (a) the policy holder being an individual is resident in Hong Kong; or
+
+    - (b) the policy holder is a company within the meaning of section 2 of the Companies Ordinance (Cap. 32). (Added L.N. 2 of 2003)
+
 - 2. All accounts and statements shall be produced in the Chinese or the English language or, if not so produced, be accompanied by a complete Chinese or English translation. (Replaced L.N. 599 of 1995)
 
 - 3. Subject to the provisions of Part 8, the information to be submitted under this Schedule shall be submitted in respect of the total business of the insurer. (Amended L.N. 391 of 1990)
 
-- 4. ▲(1) The accounts and statements of an insurer carrying on long term business only to be submitted under Parts 3, 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating—
+- 4.
 
-  - (a) the greater of the following—
+  - (1) The accounts and statements of an insurer carrying on long term business only to be submitted under Parts 3, 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating—
 
-    - (i) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer; or
+    - (a) the greater of the following—
 
-    - (ii) the amount as may be prescribed by or determined in accordance with regulations made under section 59(1)(aa) of this Ordinance for the purpose of section 8(3)(a)(ii)(B) and (iii)(B) of this Ordinance in the case of the insurer; (Amended 29 of 1997 s. 13)
+      - (i) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer; or
 
-  - (b) whether in the auditor’s opinion the value of the assets of the insurer exceeds the amount of its liabilities by the amount stated under sub-subparagraph (a);
+      - (ii) the amount as may be prescribed by or determined in accordance with regulations made under section 59(1)(aa) of this Ordinance for the purpose of section 8(3)(a)(ii)(B) and (iii)(B) of this Ordinance in the case of the insurer; (Amended 29 of 1997 s. 13)
 
-  - (c) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance;
+    - (b) whether in the auditor’s opinion the value of the assets of the insurer exceeds the amount of its liabilities by the amount stated under sub-subparagraph (a);
 
-  - (d) whether in the auditor’s opinion the insurer’s balance sheet, revenue account and profit and loss account and (if it is a holding company submitting group accounts) the group accounts have been properly prepared in accordance with the provisions of this Ordinance; and
+    - (c) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance;
 
-  - (e) whether in the auditor’s opinion a true and fair view is given—
+    - (d) whether in the auditor’s opinion the insurer’s balance sheet, revenue account and profit and loss account and (if it is a holding company submitting group accounts) the group accounts have been properly prepared in accordance with the provisions of this Ordinance; and
 
-    - (i) in the case of the balance sheet, of the state of the insurer’s affairs as at the end of its financial year;
+    - (e) whether in the auditor’s opinion a true and fair view is given—
 
-    - (ii) in the case of the revenue account and profit and loss account (if it is not framed as a consolidated revenue account and profit and loss account), of the insurer’s profit and loss for its financial year; and
+      - (i) in the case of the balance sheet, of the state of the insurer’s affairs as at the end of its financial year;
 
-    - (iii) in the case of group accounts submitted by an insurer which is a holding company, of the insurer’s interest therein. (Replaced L.N. 599 of 1995 s. 2(1)(c))
+      - (ii) in the case of the revenue account and profit and loss account (if it is not framed as a consolidated revenue account and profit and loss account), of the insurer’s profit and loss for its financial year; and
 
-- ▲(1AA) Notwithstanding subparagraph (1)(e), the appointed auditor’s opinion given under that subparagraph as to whether a true and fair view is so given may, where the valuation of any asset or liability or the treatment of any income or expenditure of the insurer is in accordance with any statutory provision which, in the case of that insurer, applied to the preparation of the accounts and statements so submitted, be qualified in such respects as he may specify, indicating the items affected by such valuation or treatment and the statutory provisions in question. (Added L.N. 599 of 1995 s. 2(1)(c))
+      - (iii) in the case of group accounts submitted by an insurer which is a holding company, of the insurer’s interest therein. (Replaced L.N. 599 of 1995 s. 2(1)(c))
 
-- ▲(1AB) The accounts and statements of an insurer carrying on general business only, other than a captive insurer, to be submitted under Parts 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating— (Amended 29 of 1997 s. 13)
+  - (1AA) Notwithstanding subparagraph (1)(e), the appointed auditor’s opinion given under that subparagraph as to whether a true and fair view is so given may, where the valuation of any asset or liability or the treatment of any income or expenditure of the insurer is in accordance with any statutory provision which, in the case of that insurer, applied to the preparation of the accounts and statements so submitted, be qualified in such respects as he may specify, indicating the items affected by such valuation or treatment and the statutory provisions in question. (Added L.N. 599 of 1995 s. 2(1)(c))
 
-  - (a) the relevant premium income of the insurer;
+  - (1AB) The accounts and statements of an insurer carrying on general business only, other than a captive insurer, to be submitted under Parts 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating— (Amended 29 of 1997 s. 13)
 
-  - ◆(aa) the relevant claims outstanding of the insurer; (Added 35 of 1996 s. 33)
+    - (a) the relevant premium income of the insurer;
 
-  - (b) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer;
+    - ◆(aa) the relevant claims outstanding of the insurer; (Added 35 of 1996 s. 33)
 
-  - (c) whether in the auditor’s opinion the value of the assets of the insurer exceeds its liabilities by that relevant amount;
+    - (b) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer;
 
-  - (d) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance; and
+    - (c) whether in the auditor’s opinion the value of the assets of the insurer exceeds its liabilities by that relevant amount;
 
-  - (e) whether in the auditor’s opinion the insurer’s balance sheet, revenue account and profit and loss account have been properly prepared in accordance with the provisions of this Ordinance (Added L.N. 599 of 1995 s. 2(1)(c)) ▲(1AC) The accounts and statements of an insurer carrying on both general business and long term business to be submitted under Parts 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating—
+    - (d) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance; and
 
-  - (a) the relevant premium income of the insurer attributable to its general business;
+    - (e) whether in the auditor’s opinion the insurer’s balance sheet, revenue account and profit and loss account have been properly prepared in accordance with the provisions of this Ordinance (Added L.N. 599 of 1995 s. 2(1)(c))
 
-  - ◆(aa) the relevant claims outstanding of the insurer attributable to its general business; (Added 35 of 1996 s. 33)
+  - (1AC) The accounts and statements of an insurer carrying on both general business and long term business to be submitted under Parts 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating—
 
-  - (b) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer having regard to its general business;
+    - (a) the relevant premium income of the insurer attributable to its general business;
 
-  - (c) the greater of the following—
+    - ◆(aa) the relevant claims outstanding of the insurer attributable to its general business; (Added 35 of 1996 s. 33)
 
-    - (i) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer having regard to its long term business; or
+    - (b) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer having regard to its general business;
 
-    - (ii) the amount as may be prescribed by or determined in accordance with regulations made under section 59(1)(aa) of this Ordinance for the purpose of section 8(3)(a)(ii)(B) and (iii)(B) of this Ordinance in the case of the insurer having regard to its long term business; (Amended 29 of 1997 s. 13)
+    - (c) the greater of the following—
 
-  - (d) whether in the auditor’s opinion the value of the assets of the insurer exceeds its liabilities by the aggregate of the amounts stated under sub-subparagraphs (b) and (c);
+      - (i) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer having regard to its long term business; or
 
-  - (e) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance;
+      - (ii) the amount as may be prescribed by or determined in accordance with regulations made under section 59(1)(aa) of this Ordinance for the purpose of section 8(3)(a)(ii)(B) and (iii)(B) of this Ordinance in the case of the insurer having regard to its long term business; (Amended 29 of 1997 s. 13)
 
-  - (f) whether in the auditor’s opinion the insurer’s balance sheet, revenue account and profit and loss account have been properly prepared in accordance with the provisions of this Ordinance; and
+    - (d) whether in the auditor’s opinion the value of the assets of the insurer exceeds its liabilities by the aggregate of the amounts stated under sub-subparagraphs (b) and (c);
 
-  - (g) whether in the auditor’s opinion the balance sheet gives a true and fair view of the financial position, as at the end of its financial year, of the business of the insurer for which an account is maintained pursuant to section 22 or 22A of this Ordinance, but his opinion as to whether a true and fair view is so given may, where the valuation of any asset or liability of the insurer is in accordance with any statutory provision which, in the case of that insurer, applied to the preparation of the balance sheet so submitted, be qualified in such respects as he may specify, indicating the items affected by such valuation and the statutory provisions in question. (Added L.N. 599 of 1995 s. 2(1)(c))
+    - (e) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance;
+
+    - (f) whether in the auditor’s opinion the insurer’s balance sheet, revenue account and profit and loss account have been properly prepared in accordance with the provisions of this Ordinance; and
+
+    - (g) whether in the auditor’s opinion the balance sheet gives a true and fair view of the financial position, as at the end of its financial year, of the business of the insurer for which an account is maintained pursuant to section 22 or 22A of this Ordinance, but his opinion as to whether a true and fair view is so given may, where the valuation of any asset or liability of the insurer is in accordance with any statutory provision which, in the case of that insurer, applied to the preparation of the balance sheet so submitted, be qualified in such respects as he may specify, indicating the items affected by such valuation and the statutory provisions in question. (Added L.N. 599 of 1995 s. 2(1)(c))
 
   - (1AD) The accounts and statements of a captive insurer to be submitted under Parts 3, 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating—
 
@@ -244,15 +274,21 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - (1AE) Notwithstanding subparagraph (1AD)(g), the appointed auditor’s opinion given under that subparagraph as to whether a true and fair view is so given may, where the valuation of any asset or liability or the treatment of any income or expenditure of the captive insurer is in accordance with any statutory provision which, in the case of that captive insurer, applied to the preparation of the accounts and statements so submitted, be qualified in such respects as he may specify, indicating the items affected by such valuation or treatment and the statutory provisions in question. (Added 29 of 1997 s. 13)
 
-  - (1A) The forms and statements to be submitted under Parts 8 and 9 of this Schedule shall be audited by a person who is qualified for appointment as auditor of a company under the Professional Accountants Ordinance (Cap. 50) and is not disqualified under section 140 of the Companies Ordinance (Cap. 32), and the auditor shall—
+  - ※(1A) The forms and statements to be submitted under Parts 8 and 9 of this Schedule (except the forms to be submitted in Form HKL2 and Form HKL3 under Part 8) shall be audited by a person who is qualified for appointment as auditor of a company under the Professional Accountants Ordinance (Cap. 50) and is not disqualified under section 140 of the Companies Ordinance (Cap. 32), and the auditor shall— (Amended L.N. 2 of 2003)
 
-    - (a) with respect to the forms under Part 8, annex a report thereto stating whether or not in his opinion—
+    - (a) with respect to the forms (except Form HKL1) under Part 8, annex a report thereto stating whether or not in his opinion— (Amended L.N. 2 of 2003)
 
       - (i) the insurer maintains proper records in accordance with section 16 of this Ordinance for the purposes of preparing the forms;
 
       - (ii) the forms have been properly prepared in accordance with those records; and
 
-      - (iii) the information supplied in the forms presents fairly in all material respects the underwriting results pertaining to the Hong Kong insurance business; and
+      - (iii) the information supplied in the forms presents fairly in all material respects the underwriting results pertaining to the Hong Kong insurance business; (Amended L.N. 2 of 2003)
+
+    - (aa) with respect to Form HKL1 under Part 8, annex a report to the form stating whether or not in his opinion—
+
+      - (i) the insurer maintains proper records in accordance with section 16 of this Ordinance for the purposes of preparing the form; and
+
+      - (ii) the form has been properly prepared in accordance with those records; and (Added L.N. 2 of 2003)
 
     - (b) with respect to the statement under Part 9, annex a report thereto stating whether or not in his opinion—
 
@@ -938,7 +974,11 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - PART 8: ACCOUNTS AND INFORMATION IN RESPECT OF THE
 
-- HONG KONG INSURANCE BUSINESS OF AN INSURER
+- HONG KONG INSURANCE BUSINESS AND HONG KONG LONG
+
+- TERM INSURANCE BUSINESS OF AN INSURER
+
+- (Amended L.N. 3 of 2003)
 
   - 40.
 
@@ -1404,7 +1444,193 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (e) References to outstanding claims provision shall include outstanding claims and claims incurred but not reported. * Delete as necessary.
 
-- (Replaced 51 of 1999 s. 6(a)) (Part 8 added L.N. 391 of 1990)
+- (Replaced 51 of 1999 s. 6(a))
+
+  - 41.
+
+    - (1) Subject to subparagraphs (5) and (6), an insurer who is authorized to carry on long term business shall, in relation to the Hong Kong long term insurance business carried on by it, submit to the Insurance Authority—
+
+      - (a) if its financial year ends on 31 December, in respect of the financial year ending on 31 December 2003; or
+
+      - (b) in any other case, in respect of the first financial year ending after 31 December 2003,
+
+    - and in respect of every successive financial year—
+
+      - (c) the revenue account, together with the supplementary information, specified in subparagraph (2);
+
+      - (d) the valuation summary specified in subparagraph (3); and
+
+      - (e) the valuation balance sheet, together with the supplementary information, specified in subparagraph (4).
+
+- (2) The revenue account referred to in subparagraph (1)(c) is, in respect of each class of business specified in Part 2 of the First Schedule, a revenue account, in Form HKL1, and the supplementary information referred to in that subparagraph is—
+
+  - (a) the date up to which the valuation referred to in section 18(1)(a) or 32(1)(a) of this Ordinance (“the valuation”) is made;
+
+  - (b) the principles on which the valuation and distribution of profits among the policy holders are made, and whether those principles were determined by the instrument constituting the insurer or by the insurer’s regulations or bylaws or otherwise;
+
+  - (c) the table or tables of mortality used in the valuation;
+
+  - (d) the rate or rates of interest assumed in the calculations;
+
+  - (e) the proportion of the annual premium income reserved as a provision for future expenses and profit or, if no such provision is made, a statement as to what provision is made;
+
+  - (f) the period during which a policy must be in force in order to entitle the policy holders to share in the profits; and
+
+  - (g) the results of the valuation, in respect of the Hong Kong long term insurance business carried on by the insurer, showing—
+
+    - (i) the total amount of profit made by the insurer;
+
+    - (ii) the amount of profit divided among the policy holders, and the number and amount of the policies which participated; and
+
+    - (iii) the amount of profit brought forward from the previous valuation, the amount of profit allotted to policy holders and shareholders.
+
+- (3) The valuation summary referred to in subparagraph (1)(d) is a valuation summary, as at the date up to which the valuation is made, in Form HKL2.
+
+- (4) The valuation balance sheet referred to in subparagraph (1)(e) is a valuation balance sheet, as at the date up to which the valuation is made, in Form HKL3, and the supplementary information referred to in that subparagraph is particulars of the average rate of interest yielded by the assets (whether invested or uninvested) constituting the long term business fund of the insurer, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by it (“Hong Kong fund”), calculated on the mean Hong Kong fund of the financial year.
+
+- (5) If, during a financial year, an insurer authorized to carry on long term business does not carry on Hong Kong long term insurance business in respect of which information would have had to be submitted under subparagraph (1) had the insurer carried on such business, the insurer shall submit a statement to that effect.
+
+- (6) A statement required to be submitted under subparagraph (5) shall be contained—
+
+  - (a) in Form HKL1;
+
+  - (b) in Form HKL2; and
+
+  - (c) in Form HKL3. FORM HKL1 HONG KONG LONG TERM INSURANCE BUSINESS - REVENUE ACCOUNT
+
+  - OF . (Name of insurer) in respect of class(es) *
+
+  - . for the period commencing on . and ending on .
+
+  - HK$ | HK$
+
+  - Amount of Fund(s)# as at the Beginning of the Period . | XX | Gross Claims Payable:
+
+  - Gross Premiums Receivable: | Direct | Reinsurance Accepted | Recoverable from Reinsurers
+
+  - Reinsurance | Reinsurance | On Death | . . . | . . . | (. . .)
+
+  - Direct | Accepted | Ceded | On Surrender | . . . | . . . | (. . .)
+
+  - Regular Premiums | . . . | . . . | (. . .) | On Maturity | . . . | . . . | (. . .)
+
+  - Single Premiums | . . . | . . . | (. . .) | On Other Events | . . . | . . . | (. . .)
+
+  - Transferred Premiums | . . . _ . . . | . . . _ . . . | (. . .) _ (. . .) | _ . . . | _ . . . | _ (. . .)
+
+  - Net Premiums Receivable . Interest or Income from Long Term Business Assets Attributable to Hong Kong Long Term Insurance Business . Commissions Receivable . Other Receipts (accounts to be specified) . Transfer from Other Long Term Insurance Class(es)* . Transfer from Profit and Loss Account . | XX XX XX XX XX XX _ XX ==== | Net Claims Payable . Dividends to Policy Holders . Commissions Payable . Other Payments (accounts to be specified) . Transfer to Other Long Term Insurance Class(es)* . Transfer to Profit and Loss Account . Amount of Fund(s)# as at the End of the Period . | XX XX XX XX XX XX XX _ XX ====
+
+  - We certify that the above information is true and correct. _ _ _ ( ) ( ) ( ) Director Director § Chief Executive/Secretary * The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule to the Insurance Companies Ordinance (Cap. 41). # “Fund” means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the insurer.
+
+- § Delete as necessary.
+
+- FORM HKL2 HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION SUMMARY
+
+- OF . (Name of insurer) for the period
+
+- commencing on . and ending on .
+
+- 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
+
+- Class | Type of business | Number of contracts | Amount of sums assured or annuities per annum including vested reversionary bonuses | Amount of yearly premiums | Value of sums assured or annuities per annum including vested reversionary bonuses | Value of yearly net premiums | Amount of net liability | Bases of valuation
+
+- Office premiums | Net premiums
+
+- A | (I) Life assurance other than annuities (a) With participation in profits: Whole life . Endowment . Term . Other types (to be specified) . | HK$ | HK$ | HK$ | HK$ | HK$ | HK$
+
+- Total assurances with profits .
+
+- (b) Without participation in profits: Whole life . Endowment . Term . Other types (to be specified) .
+
+- Total assurances without profits .
+
+- Total assurances . | ╳╳
+
+- (II) Annuities (a) With participation in profits . (b) Without participation in profits .
+
+- Total annuities . | ╳╳
+
+- Total of Class A | ╳╳
+
+- B | Marriage and birth | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+- C | Linked long term: Whole life . Endowment . Annuity . Others .
+
+- Total of Class C | ╳╳
+
+- D | Permanent health | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+- E | Tontines | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+- F | Capital redemption | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+- G | Retirement scheme management category I: (i) MPF subfunds (ii) other subfunds | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳
+
+- Total of Class G* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+- H | Retirement scheme management category II: (i) MPF subfunds (ii) other subfunds | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳
+
+- Total of Class H* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+- Total of Classes G & H* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+- I | Retirement scheme management category III
+
+- Other reserves (to be specified) | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+- TOTALS | ╳╳
+
+- We certify that the above information is true and correct.
+
+- _ | _ | _
+
+- ( ) | ( ) | ( )
+
+- Director | Director | # Chief Executive/Secretary
+
+  - Notes:
+
+  - 1. The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule to the Insurance Companies Ordinance (Cap. 41).
+
+  - 2. Within each class of long term insurance business, the following are to be shown—
+
+    - (i) direct business and reinsurances accepted;
+
+    - (ii) reinsurances ceded; and
+
+    - (iii) net retained business.
+
+  - 3. The entry under column 8 should either refer to details given as supplementary information or should state the mortality tables/statistical tables and rates of interest employed, as appropriate.
+
+  - 4.
+
+    - With regard to business within class A—
+
+      - (i) separate summaries similar in form to the above must be furnished in respect of policies valued by different mortality tables, or at different rates of interest; and
+
+      - (ii) contracts the nature of which or the method of valuation of which makes it impossible or inappropriate to give the information required in columns 4, 5 and 6 of any valuation summary are to be shown separately and the reason stated.
+
+    - * Eliminate duplicate in total line.
+
+    - # Delete as necessary.
+
+    - FORM HKL3 HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION BALANCE
+
+    - SHEET OF . (Name of insurer) as at .
+
+    - Net liability under Hong Kong Long Term Insurance Business Surplus . | HK$ _ $ ======== | Fund(s)* (as per Balance Sheet) . Deficiency . | HK$ _ $ ========
+
+    - We certify that the above information is true and correct.
+
+    - _ | _ | _
+
+    - ( ) | ( ) | ( )
+
+    - Director | Director | # Chief Executive/Secretary
+
+    - * “Fund” means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the insurer. # Delete as necessary.
+
+- (Added L.N. 3 of 2003) (Part 8 added L.N. 391 of 1990)
 
 PART 9 | [sections 20(1A), 25A, 25B & 50C] (Amended 51 of 1999 s. 6(b))
 
@@ -1562,20 +1788,14 @@ STATEMENT OF ASSETS AND LIABILITIES PURSUANT TO
 
 Editorial Note:
 
-▲
+◆ See 35 of 1996 s. 34
 
-- 1. The operation of this provision is affected by section 1 of L.N. 599 of 1995, which section is reproduced as follows: “1. Application (1) Section 2(1)(b) and (c) and (2) applies to the accounts and statements of an insurer approved under section 6(1)(c) of the Ordinance or authorized under section 8 of the Ordinance after the commencement of this Regulation in respect of a financial year ending on a date after the commencement of this Regulation. (2) Section 2(1)(b) and (c) and (2) applies to the accounts and statements of an insurer approved under section 6(1)(c) of the Ordinance or authorized under section 8 of the Ordinance immediately before the commencement of this Regulation in respect of a financial year ending on a date after the expiry of 12 months beginning on the commencement of this Regulation, and notwithstanding the amendment in section 2(1)(b) and (c) and (2), the accounts and statements of such an insurer in respect of a financial year ending on a date before such expiry shall be dealt with in accordance with the requirements of the Third Schedule to the Ordinance as if section 2(1)(b) and (c) and (2)had not been enacted.”.
-
-- 2. L.N. 599 of 1995 commenced operation on 29 December 1995.
-
-- 3. Paragraph 4(1) of Part 1 of the Third Schedule, as in force before L.N. 599 of 1995 was enacted, are reproduced below— “4. (1) The accounts and statements to be submitted under Parts 3, 4 and 5 of this Schedule shall be audited by the appointed auditor who shall annex to the accounts and statements a report stating the relevant premium income of, and the relevant amount applicable to, the insurer (within the meaning of section 10 of this Ordinance) and whether in the auditor’s opinion the value of the assets of the insurer exceeds its liabilities by that relevant amount, whether proper records have been maintained in accordance with section 16 of this Ordinance and whether the insurer’s balance sheet, revenue account and profit and loss account and (if it is a holding company submitting group accounts) the group accounts have been properly prepared in accordance with the provisions of this Ordinance and whether in his opinion a true and fair view is given— (Amended 26 of 1994 s. 7) (a) in the case of the balance sheet, of the state of the insurer’s affairs as at the end of its financial year; (b) in the case of the revenue account and profit and loss account (if it is not framed as a consolidated revenue account and profit and loss account), of the insurer’s profit or loss for its financial year; (c) in the case of group accounts submitted by an insurer which is a holding company, of the insurer’s interest therein,
-
-- but his opinion as to whether a true and fair view is so given may, where the valuation of any asset or liability or the treatment of any income or expenditure of the insurer is in accordance with any statutory provision which, in the case of that insurer, applied to the preparation of the accounts and statements so submitted, be qualified in such respects as he may specify, indicating the items affected by such valuation or treatment and the statutory provisions in question.”.
-
-- ◆ See 35 of 1996 s. 34 ##
+\##
 
 - 1. Section 6 of the Insurance Companies (Amendment) Ordinance 1999 (51 of 1999) replaced Forms 6, 7, 8 and 9.
 
 - 2. The transitional provision contained in section 9(6) of Ord. No. 51 of 1999 reads as follows:
 
   - (6) Notwithstanding the repeal and replacement of Forms 6, 7, 8 and 9 in Part 8 of the Third Schedule of the principal Ordinance by section 6 and the Schedule of this Ordinance, an insurer need only supply the additional information required by the replacement forms for one additional year each year for 4 years, by the end of which the insurer shall supply the required information for all 12 years specified in such forms.
+
+- ※ The application provision contained in section 2 of the Insurance Companies Ordinance (Amendment of Part 1 of Third Schedule) Regulation 2003 (L.N. 2 of 2003) reads as follows: “2. Application This Regulation applies to an insurer within the meaning of the Insurance Companies Ordinance (Cap. 41) in respect of its financial year ending on or after 31 December 2003 and every successive financial year.”.
