@@ -14,7 +14,7 @@ TO
 
 of
 
-YOU ARE HEREBY SUMMONED to appear before His Honour . Presiding Officer at his Chambers at the Lands Tribunal at . on . day the . day of . 19 . at . o’clock in the noon on the hearing of an application on the part of the Applicant/Respondent* for an order to be made that (1)—
+YOU ARE HEREBY SUMMONED to appear before His Honour . Presiding Officer at his Chambers at the Lands Tribunal at . on . day the . day of . 19 . at . o’clock in the . noon on the hearing of an application on the part of the Applicant/Respondent* for an order to be made that (1)—
 
 And you are to take notice that if you do not appear the Tribunal may consider and deal with the application in a summary way.
 
@@ -40,7 +40,7 @@ _ FORM 1 INTERLOCUTORY APPLICATION (reverse)
 
 Affidavit/Affirmation* of Service | Bailiff’s Notes
 
-I, . make oath do solemnly, sincerely and truly declare and affirm* and say that the within application was served by me on the said Applicant/Respondent* . . on the . day of . 19 . by delivering a copy thereof to . . Sworn/Affirmed* at the courts of Justice/Lands Tribunal Registry*, . Hong Kong, the . day of . 19 . Before me, A Commissioner etc. *Delete whichever is inapplicable.
+I, . make oath/do solemnly, sincerely and truly declare and affirm* and say that the within application was served by me on the said Applicant/Respondent* . . on the . day of . 19 . by delivering a copy thereof to . . Sworn/Affirmed* at the courts of Justice/Lands Tribunal Registry*, . Hong Kong, the . day of . 19 . Before me, A Commissioner etc. *Delete whichever is inapplicable.
 
 (L.N. 417 of 1995)
 
@@ -100,7 +100,7 @@ Application No. .
 
 To [Name, address and occupation]
 
-You are hereby summoned to attend at a sitting of the Lands Tribunal to be held at . on . day the . day of . 19 . at . a.m./p.m. to give evidence in the above proceedings (and also to bring with you and produce. [State particulars of documents required]).
+You are hereby summoned to attend at a sitting of the Lands Tribunal to be held at . on . day the . day of . 19 . at . a.m./p.m. to give evidence in the above proceedings (and also to bring with you and produce [State particulars of documents required]).
 
 This summons was issued on behalf of Applicant/Respondent .
 
@@ -150,9 +150,7 @@ or
 
 because
 
-*an offer made under section 6(1)(a) of the Ordinance has been rejected. (Attach a statement of particulars required by rule 34(3).)
-
-*a claim submitted under section *6(2)/8(1) of the Ordinance has not been agreed. (Attach a copy of the claim.) *no claim has been submitted under section 6(2) of the Ordinance. (Attach a statement of the particulars required by rule 34(3).)
+*an offer made under section 6(1)(a) of the Ordinance has been rejected. (Attach a statement of particulars required by rule 34(3).) *a claim submitted under section *6(2)/8(1) of the Ordinance has not been agreed. (Attach a copy of the claim.) *no claim has been submitted under section 6(2) of the Ordinance. (Attach a statement of the particulars required by rule 34(3).)
 
 Dated this . day of . 19 .
 
@@ -190,7 +188,9 @@ or
 
 *The Director of Lands
 
-- require(s) the Lands Tribunal to determine the amount of compensation to be paid in respect of damage caused by reason of— +entry upon . (describe the land) . and/or works performed thereon, under section 7(1) of the Ordinance. A claim for compensation (copy attached) was made pursuant to section 7(2) of the Ordinance but no agreement has been reached by way of settlement or compromise. Dated this . day of . 19 .
+- require(s) the Lands Tribunal to determine the amount of compensation to be paid in respect of damage caused by reason of— +entry upon . (describe the land) .
+
+- and/or works performed thereon, under section 7(1) of the Ordinance. A claim for compensation (copy attached) was made pursuant to section 7(2) of the Ordinance but no agreement has been reached by way of settlement or compromise. Dated this . day of . 19 .
 
 - .
 
@@ -340,7 +340,7 @@ COMPENSATION) ORDINANCE Pursuant to section .
 
 .
 
-* The Secretary for Transport
+* The Secretary for the Environment, Transport and Works
 
 * require(s) the Lands Tribunal to extend pursuant to section 28(2) of the Ordinance the period(s) specified by section 28(1) of the Ordinance.
 
@@ -366,7 +366,7 @@ or
 
 - To: 1. The Registrar, Lands Tribunal. 2. Address for service of the applicant: *Delete whichever is inapplicable.
 
-(L.N. 417 of 1995; 25 of 1998 s. 2)
+(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002)
 
 -
 
@@ -388,39 +388,23 @@ I/We . of .
 
 - in the undermentioned contiguous or adjacent land and—
 
-  - (a) being the former owner(s)/occupier(s) of .
+  - (a) being the former owner(s)/occupier(s) of . . (describe the resumed land) *OR
 
-  - . (describe the resumed land) *OR
+  - (a) being aggrieved by the closing of the road or extinguishment, modification or restriction of the private right, namely— . . (describe the road or private right)
 
-  - (a) being aggrieved by the closing of the road or extinguishment, modification or restriction of the private right, namely—
+  - (b) the contiguous or adjacent land being . . (describe the contiguous or adjacent land)
+
+- apply to the Lands Tribunal to review the decision of the Chief Executive made under section 23(1) of the Ordinance that the resumed land/road/right is not reasonably necessary to the use and enjoyment of the contiguous or adjacent land. A copy of the application made to the Chief Executive pursuant to section 23(1) of the Ordinance is attached. Dated this . day of . 19 .
 
 - .
 
-- .
+- (to be signed by or on behalf of the Applicant)
 
-- (describe the road or private right)
+- To: 1 The Registrar, Lands Tribunal.
 
-  - (b)
+  - 2. Secretary for the Environment, Transport and Works. Address for service of the applicant: *Delete whichever does not apply.
 
-  - the contiguous or adjacent land being .
-
-  - .
-
-  - (describe the contiguous or adjacent land)
-
-  - apply to the Lands Tribunal to review the decision of the Chief Executive made under section 23(1) of the Ordinance that the resumed land/road/right is not reasonably necessary to the use and enjoyment of the contiguous or adjacent land.
-
-  - A copy of the application made to the Chief Executive pursuant to section 23(1) of the Ordinance is attached. Dated this . day of . 19 .
-
-  - .
-
-  - (to be signed by or on behalf of the Applicant)
-
-  - To: 1 The Registrar, Lands Tribunal.
-
-    - 2. Secretary for Transport. Address for service of the applicant: *Delete whichever does not apply.
-
-(L.N. 417 of 1995; 25 of 1998 s. 2)
+(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002)
 
 -
 
@@ -442,7 +426,7 @@ or
 
 *The Director of Lands
 
-require(s) the Lands Tribunal to determine under section 13 of the Ordinance, the amount of compensation payable in respect of a claim (copy attached) made undersection 12 of the Ordinance by .
+require(s) the Lands Tribunal to determine under section 13 of the Ordinance, the amount of compensation payable in respect of a claim (copy attached) made under section 12 of the Ordinance by .
 
 .
 
@@ -992,7 +976,7 @@ ORDINANCE Pursuant to section 51D
 
 -
 
-FORM 25 | [rule 74(2)]
+FOR M 25 | [rule 74(2)]
 
 NOTICE OF APPEAL TO LANDS TRIBUNAL AGAINST DECISION OF
 
@@ -1192,9 +1176,9 @@ Pursuant to Tenth Schedule, paragraph .
 
 - 1. | The applicant(s) apply(ies) for an order relating to .
 
-- . (specify the particular issue under the appropriate paragraph.of the Tenth Schedule
+- . (specify the particular issue under the appropriate paragraph of the Tenth Schedule
 
-- . pursuant .to which application brought)
+- . pursuant to which application brought)
 
 - +2. | The question of law, interpretation and enforcement or other issue to be determined is:
 
@@ -1238,9 +1222,7 @@ I, ., of .
 
 - 1.
 
-  - (a) I did on . day the . day of . 19 . serve . the person named as the respondent in the abovementioned application with a true copy of the application of which the document now shown to me and marked . is also a true copy by sending the same to him by ordinary post addressed to him at . .
-
-  - his address for service OR at . his last known or usual place of abode or business in Hong Kong OR at . its registered office. OR
+  - (a) I did on . day the . day of . 19 . serve . the person named as the respondent in the abovementioned application with a true copy of the application of which the document now shown to me and marked . is also a true copy by sending the same to him by ordinary post addressed to him at . . his address for service OR at . his last known or usual place of abode or business in Hong Kong OR at . its registered office. OR
 
 - 1.
 
@@ -1250,13 +1232,13 @@ I, ., of .
 
   - . Hong Kong | .
 
-  - this . day of . 19 .
+  - this . day of . 19 . Before me:
 
-  - Before me: * Strike out inapplicable words.
+  - * Strike out inapplicable words.
 
   - + For affirmations only.
 
-(L.N. 417 of 1995; 25 of 1998 s. 2)
+(L.N. 650 of 1994; L.N. 417 of 1995; 25 of 1998 s. 2)
 
 -
 
@@ -1438,37 +1420,33 @@ NOTICE OF OPPOSITION TO APPLICATION FOR DETERMINATION OF COMPENSATION UNDER LAND
 
 Pursuant to sections 4(6) and 8(3)
 
-(a) Name, address and status of applicant (tenant/principal tenant/sub-tenant):
+- (a) Name, address and status of applicant (tenant/principal tenant/sub-tenant):
 
-(b) Name, address and status of respondent (majority/minority owner):
+- (b) Name, address and status of respondent (majority/minority owner):
 
-(c) Address and description of premises:
+- (c) Address and description of premises: I am/We are a party to the Main Application No. . My/Our/applicant’s/respondent’s no. is .
 
-I am/We are a party to the Main Application No. . My/Our/applicant’s/respondent’s no. is .
+- 2. I/We oppose to the amount of compensation claimed by the applicant tenant/principal tenant/sub-tenant to the following extent:
 
-2. I/We oppose to the amount of compensation claimed by the applicant tenant/principal tenant/sub-tenant to the following extent:
+  - (a) No compensation should be payable to the applicant for the following reasons (please state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet):
 
-(a) No compensation should be payable to the applicant for the following reasons (please state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet):
+  - (b) The amount of compensation payable to the applicant should be . for the following reasons (state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet):
 
-(b) The amount of compensation payable to the applicant should be . for the following reasons (state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet):
+- 3. I/We do/do not wish to be heard. Dated this . day of . 19 .
 
-3. I/We do/do not wish to be heard.
+- .
 
-Dated this . day of . 19 .
+- (Name of the Respondent Owner)
 
-.
+- Address for service of the Respondent:
 
-(Name of the Respondent Owner)
+- To: 1. The Registrar, Lands Tribunal.
 
-Address for service of the Respondent:
+- 2. The Applicant tenant/Principal tenant/Sub-tenant.
 
-To: 1. The Registrar, Lands Tribunal.
+- 3. The Applicant (majority owner) in the main application.
 
-2. The Applicant tenant/Principal tenant/Sub-tenant.
-
-3. The Applicant (majority owner) in the main application.
-
-4. (Please add such other persons as may be required to be served)
+- 4. (Please add such other persons as may be required to be served)
 
 (L.N. 100 of 1999)
 
