@@ -86,11 +86,47 @@ Applicant.
 
 (L.N. 390 of 1992)
 
+FORM 1C | [rule 2]
+
+APPLICATION BY AN EMPLOYED BARRISTER FOR
+
+AN EMPLOYED BARRISTER’S CERTIFICATE
+
+To: The Bar Council.
+
+I, .,
+
+(name)
+
+of .
+
+(office’s or chambers’ address)
+
+apply for the issue to me of an employed barrister’s certificate in accordance with section 31C(2) of the Legal Practitioners Ordinance.
+
+I confirm that I—
+
+* hold a valid practising certificate issued under section 30 of the Ordinance.
+
+* have completed the prescribed qualifying period of active practice.
+
+* have been an employed barrister for at least 12 months immediately preceding the date of this application.
+
+Dated this . day of .
+
+.
+
+Applicant
+
+* Delete whichever is inapplicable.
+
+(L.N. 7 of 2003)
+
 FORM 2 | [rule 3(1)]
 
 PRACTISING CERTIFICATE AS A BARRISTER LEGAL PRACTITIONERS ORDINANCE (Chapter 159)
 
-It is hereby certified, in accordance with subsection (1) of section 30 of the Legal Practitioners Ordinance, that. of . a Barrister, has complied with that subsection and is therefore entitled to practise as a Barrister for the period from . 19 . to 31 December 19 .*.
+It is hereby certified, in accordance with subsection (1) of section 30 of the Legal Practitioners Ordinance, that . of . a Barrister, has complied with that subsection and is therefore entitled to practise as a Barrister for the period from . 19 . to 31 December 19 .*.
 
 Dated this . day of . 19.
 
@@ -137,3 +173,25 @@ for Bar Council.
 * This certificate is not evidence that the holder, who is subject to the current Code of Conduct for the Bar of Hong Kong, is or has been in practice as a Barrister during the above period.
 
 (L.N. 390 of 1992)
+
+FORM 5 | [rule 3(4)]
+
+EMPLOYED BARRISTER’S CERTIFICATE LEGAL PRACTITIONERS ORDINANCE
+
+(Chapter 159)
+
+It is hereby certified, in accordance with section 31C(3) of the Legal Practitioners Ordinance, that .
+
+(name)
+
+of .
+
+(office’s or chambers’ address)
+
+is an employed barrister, has complied with section 31C(2) of the Ordinance and is therefore entitled to be issued this certificate which shall be valid from . to .
+
+.
+
+for Bar Council
+
+(L.N. 7 of 2003)
