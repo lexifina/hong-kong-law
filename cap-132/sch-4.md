@@ -1846,6 +1846,8 @@ Ma Ling Path Rest Garden
 
 Ma Mei Ha Playground
 
+Ma On Shan Pavilion
+
 Ma Tin Road 5-a-side Football Pitch
 
 Ma Tseuk Leng Children’s Playground
@@ -1962,6 +1964,8 @@ Pak She Cheung Lee Playground, Cheung Chau
 
 Pak She San Tsuen Garden
 
+Pak Shek Terrace Garden
+
 Pak Tai Temple Playground, Cheung Chau
 
 Pat Heung Temple Sitting-out Area
@@ -2022,9 +2026,9 @@ Regional Council Long Ping Indoor Recreation Centre
 
 Round Table Third Village Playground, Cheung Chau
 
-The Royal Hong Kong Jockey Club Public Squash Court
+The Jockey Club Kwai Shing Public Squash Courts
 
-Royal Hong Kong Jockey Club Tuen Mun Butterfly Beach Indoor Recreation Centre
+The Jockey Club Tuen Mun Butterfly Beach Indoor Recreation Centre
 
 Sai Ching Street Children’s Playground
 
@@ -2055,8 +2059,6 @@ San Hui Playground
 San Hui Rest Garden
 
 San Hui Sitting-out Area
-
-San Hui Tennis Court
 
 San Hui Tsuen Basketball Court
 
@@ -2672,6 +2674,8 @@ Yau Oi Indoor Recreation Centre
 
 Yau Oi Sitting-out Area
 
+Yau Yue Wan Children’s Playground
+
 Yau Yue Wan Playground
 
 Yeung Siu Hang Garden
@@ -2732,7 +2736,7 @@ Yung Shue Wan Sitting-out Area
 
 Yung Shui Wan/Sok Kwu Wan Rainshelter
 
-(Amended L.N. 108 of 1989; L.N. 229 of 1989; L.N. 332 of 1989; L.N. 3 of 1990; L.N. 114 of 1990; L.N. 228 of 1990; L.N. 308 of 1990; L.N. 1 of 1991; L.N. 146 of 1991; L.N. 260 of 1991; L.N. 372 of 1991; L.N. 461 of 1991; L.N. 52 of 1992; L.N. 95 of 1992; L.N. 229 of 1992; L.N. 322 of 1992; L.N. 4 of 1993; L.N. 98 of 1993; L.N. 264 of 1993; L.N. 395 of 1993; L.N. 396 of 1993; L.N. 468 of 1993; L.N. 494 of 1993; L.N. 206 of 1994; L.N. 424 of 1994; L.N. 536 of 1994; L.N. 16 of 1995; L.N. 149 of 1995; L.N. 342 of 1995; L.N. 460 of 1995; L.N. 26 of 1996; L.N. 181 of 1996; L.N. 334 of 1996; L.N. 424 of 1996; L.N. 560 of 1996; L.N. 134 of 1997; L.N. 389 of 1997)
+(Amended L.N. 108 of 1989; L.N. 229 of 1989; L.N. 332 of 1989; L.N. 3 of 1990; L.N. 114 of 1990; L.N. 228 of 1990; L.N. 308 of 1990; L.N. 1 of 1991; L.N. 146 of 1991; L.N. 260 of 1991; L.N. 372 of 1991; L.N. 461 of 1991; L.N. 52 of 1992; L.N. 95 of 1992; L.N. 229 of 1992; L.N. 322 of 1992; L.N. 4 of 1993; L.N. 98 of 1993; L.N. 264 of 1993; L.N. 395 of 1993; L.N. 396 of 1993; L.N. 468 of 1993; L.N. 494 of 1993; L.N. 206 of 1994; L.N. 424 of 1994; L.N. 536 of 1994; L.N. 16 of 1995; L.N. 149 of 1995; L.N. 342 of 1995; L.N. 460 of 1995; L.N. 26 of 1996; L.N. 181 of 1996; L.N. 334 of 1996; L.N. 424 of 1996; L.N. 560 of 1996; L.N. 134 of 1997; L.N. 389 of 1997; L.N. 460 of 1997)
 
 Bathing beaches
 
