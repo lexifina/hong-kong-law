@@ -4,15 +4,15 @@
 
 ALLOWANCES
 
-For the year of assessment 1989/90—
+For the year of assessment 1989/90
 
 FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
-1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) (d) subsection (1)(b), being the prescribed percentage | $32,000 $7,000 $39,000 10%
+1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) (d) subsection (1)(b), being the prescribed percentage | $32,000 $ 7,000 $39,000 10%
 
 2. | Section 29 (married person’s allowance)— (a) subsection (3)(a) (b) subsection (3)(b), being the first reference to the prescribed amount (c) subsection (3)(b), being the references to the prescribed amount in subparagraphs (i), (ii) and (iii) (d) subsection (3)(b), being the prescribed percentage | $66,000 $14,000 $80,000 10%
 
-Section 30 (dependent parent allowance)— (a) subsection (3)(a) (b) subsection (3)(b) (c) subsection (4)(a) | $11,000 $3,000 $1,200
+3. | Section 30 (dependent parent allowance)— (a) subsection (3)(a) (b) subsection (3)(b) (c) subsection (4)(a) | $11,000 $ 3,000 $ 1,200
 
 4. | Section 31 (child allowance)— (a) subsection (1) (b) subsection (5) | (i) $13,000 for the first child (ii) $9,000 for the second child (iii) $3,000 for the third child (iv) $2,000 each for the fourth, fifth and sixth child (v) $1,000 for each subsequent child $34,000
 
@@ -36,7 +36,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 (Added 30 of 1990 s. 6. Amended 42 of 1991 s. 3)
 
-For the year of assessment 1991/92—
+For the year of assessment 1991/92
 
 FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
@@ -52,7 +52,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 (Added 42 of 1991 s. 3. Amended 34 of 1992 s. 4)
 
-For the year of assessment 1992/93—
+For the year of assessment 1992/93
 
 FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
@@ -84,7 +84,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 (Added 28 of 1993 s. 3. Amended 37 of 1994 s. 7)
 
-For the year of assessment 1994/95—
+For the year of assessment 1994/95
 
 FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
@@ -123,8 +123,6 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 (Added 48 of 1995 s. 13; Amended 24 of 1996 s. 11)
 
 For the year of assessment 1996/97
-
-(Amended 42 of 1997 s. 6)
 
 FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
@@ -178,11 +176,9 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 8. | Section 32(1) (single parent allowance) | $ 45,000
 
-(Added 24 of 1996 s. 11)
+(Added 24 of 1996 s. 11. Amended 42 of 1997 s. 6)
 
-For the year of assessment 1997/98 and for
-
-each year after that year
+For the year of assessment 1997/98
 
 FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
@@ -234,4 +230,44 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 8. | Section 32(1) (single parent allowance) | $ 75,000
 
-(Added 42 of 1997 s. 6)
+(Added 42 of 1997 s. 6. Amended 31 of 1998 s. 23)
+
+For the year of assessment 1998/99 and for
+
+each year after that year
+
+FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+
+1. | Section 28 (basic allowance) | $108,000
+
+2. | Section 29 (married person’s allowance) | $216,000
+
+3. | Section 30 (dependent parent allowance)—
+
+(a) subsection (3)(a) | $ 30,000
+
+(b) subsection (3)(b) | $ 30,000
+
+(c) subsection (4)(a) | $ 12,000
+
+4. | Section 30A (dependent grandparent allowance)—
+
+(a) subsection (3)(a) | $ 30,000
+
+(b) subsection (3)(b) | $ 30,000
+
+(c) subsection (4)(a) | $ 12,000
+
+5. | Section 30B(1) (dependent brother or dependent sister allowance) | $ 30,000
+
+6. | Section 31 (child allowance)— (a) subsection (1) | (i) $30,000 for each of the first and second children
+
+(ii) $15,000 for each subsequent child
+
+(b) subsection (5) | $165,000
+
+7. | Section 31A(1) (disabled dependant allowance) | $ 60,000
+
+8. | Section 32(1) (single parent allowance) | $108,000
+
+(Added 31 of 1998 s. 23)
