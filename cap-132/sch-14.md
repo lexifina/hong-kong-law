@@ -1,4 +1,4 @@
-# Schedule 14
+# SCHEDULE 14
 
 [s. 42A(2)]
 
@@ -46,6 +46,8 @@ Fanling Swimming Pool
 
 Hin Tin Public Swimming Pool
 
+The Jockey Club Yan Oi Tong Swimming Pool
+
 Kwai Shing Swimming Pool
 
 Ma On Shan Swimming Pool
@@ -53,8 +55,6 @@ Ma On Shan Swimming Pool
 Mui Wo Swimming Pool
 
 North Kwai Chung Jockey Club Public Swimming Pool
-
-The Royal Hong Kong Jockey Club Yan Oi Tong Swimming Pool
 
 Sai Kung Public Swimming Pool
 
@@ -66,6 +66,8 @@ Shing Mun Valley Swimming Complex
 
 Tai Po Public Swimming Pool
 
+Tin Shui Wai Swimming Pool
+
 Tsing Yi Swimming Pool
 
 Tsuen King Circuit Wu Chung Public Swimming Pool
@@ -74,4 +76,4 @@ Tuen Mun Swimming Pool
 
 Yuen Long Public Swimming Pool
 
-(Added L.N. 199 of 1975. Amended L.N. 25 of 1978; L.N. 285 of 1978; L.N. 179 of 1981; L.N. 40 of 1983; L.N. 208 of 1984; L.N. 239 of 1984; 10 of 1986 s. 31; L.N. 322 of 1986; L.N. 360 of 1988; L.N. 115 of 1990; L.N. 147 of 1991; L.N. 262 of 1991; L.N. 373 of 1991; L.N. 335 of 1996; L.N. 425 of 1996)
+(Added L.N. 199 of 1975. Amended L.N. 25 of 1978; L.N. 285 of 1978; L.N. 179 of 1981; L.N. 40 of 1983; L.N. 208 of 1984; L.N. 239 of 1984; 10 of 1986 s. 31; L.N. 322 of 1986; L.N. 360 of 1988; L.N. 115 of 1990; L.N. 147 of 1991; L.N. 262 of 1991; L.N. 373 of 1991; L.N. 396 of 1993; L.N. 335 of 1996; L.N. 425 of 1996; L.N. 461 of 1997)
