@@ -16,7 +16,9 @@ Registration and registered persons
 
 (c) an investment adviser (including an investment advisers’ partnership) | 4900
 
-(d) an investment representative | 1850
+(d) an investment representative (other than one referred to in paragraph (e)) (L.N. 141 of 1999) | 1850
+
+(e) an investment representative (for advising on securities incidental to the marketing of mandatory provident fund schemes only) (L.N. 141 of 1999) | 400
 
 2. | Fee payable on application under the Commodities Trading Ordinance (Cap. 250) for registration as—
 
