@@ -1,13 +1,13 @@
 # Second Schedule
 
-[reg. 5(1)]
+[reg. 5 & Third Sch.]
 
 QUALIFICATIONS FOR REGISTRATION AS SAFETY OFFICER
 
 Scheduled qualification | Industrial undertaking
 
-A, B or C | Construction sites
+A, B, C or D | Construction sites
 
-A or B | Shipyards
+A, B or C | Industrial undertakings to which these regulations apply except construction sites
 
-(L.N. 352 of 1994)
+(L.N. 352 of 1994; L.N. 100 of 2002)
