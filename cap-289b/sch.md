@@ -222,4 +222,6 @@ Item | Periods | Rate of interest
 
 109. | On or after 3 October 2000 and before 6 November 2000 (L.N. 268 of 2000; L.N. 292 of 2000) | 5.0708% per annum
 
-110. | On or after 6 November 2000 (L.N. 292 of 2000) | 4.9042% per annum
+110. | On or after 6 November 2000 and before 4 December 2000 (L.N. 292 of 2000; L.N. 347 of 2000) | 4.9042% per annum
+
+111. | On or after 4 December 2000 (L.N. 347 of 2000) | 4.8625% per annum
