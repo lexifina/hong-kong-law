@@ -1,0 +1,63 @@
+# SECOND SCHEDULE
+
+[s. 12]
+
+PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
+
+(Adaptation amendments retroactively made - see 28 of 1998 s. 2; 81 of 1999 s. 3; 2 of 2012 s. 3)
+
+- 1. Direct transit passengers, that is to say passengers arriving at the airport by aircraft from a place outside Hong Kong who—
+
+  - (a) do not, otherwise than for reasons which are, to the satisfaction of the Director, beyond the passengers’ control, pass through arrival immigration controls; and
+
+  - (b) subsequently depart from Hong Kong on the same aircraft or, by reason of that aircraft being declared unserviceable, on a substituted aircraft.
+
+- 2. Connecting airside transfer passengers, that is to say passengers arriving at the airport by aircraft from a place outside Hong Kong who—
+
+  - (a) do not, otherwise than for reasons which are, to the satisfaction of the Director, beyond the passengers’ control, pass through arrival immigration controls; and
+
+  - (b) subsequently depart from Hong Kong on another aircraft,
+
+- not being direct transit passengers.
+
+- 3. Passengers who—
+
+  - (a) arrive on an aircraft landing in Hong Kong solely by reason of distress, emergency or adverse weather; and
+
+  - (b) subsequently depart from Hong Kong by aircraft as soon as practicable.
+
+- 4. Passengers departing from Hong Kong by aircraft being used at the time of departure—
+
+  - (a) for official or ceremonial purposes of the Government;
+
+  - (b) for military, diplomatic or ceremonial purposes of the government of any country; or
+
+  - (c) for official or diplomatic purposes of the United Nations or any Specialized Agency thereof.
+
+- 5. Passengers departing from Hong Kong by civilian aircraft, who—
+
+  - (a) are members of the Chinese People’s Liberation Army or are civilians sponsored by the Ministry of National Defence in the Central People’s Government; and
+
+  - (b) are present in Hong Kong with or in connection with the Hong Kong Garrison,
+
+- and members of their families forming part of their households, if their passages have been arranged by the appropriate authority or with the approval of the appropriate authority, as evidenced by a certificate issued by or on behalf of the Commander of the Hong Kong Garrison. (Replaced 2 of 2012 s. 3)
+
+- 6. Passengers who are Vietnamese refugees as defined by section 2 of the Immigration Ordinance (Cap. 115), and who are permanently departing from Hong Kong for resettlement elsewhere.
+
+- 7. Passengers who are entitled to be accorded exemption from the tax by operation of the International Organizations and Diplomatic Privileges Ordinance (Cap. 190).
+
+- 8. Passengers who—
+
+  - (a) are consuls or consular staff within the meaning of regulation 2 of the Registration of Persons Regulations (Cap. 177 sub. leg.) (other than consuls or consular staff who are Chinese citizens or permanent residents of the Hong Kong Special Administrative Region), and members of their families forming part of their households; or (Amended L.N. 207 of 1985; 28 of 1998 s. 2)
+
+  - (b) are employed exclusively in the private service of consuls or consular staff of a consular post in Hong Kong, who are nationals of the country represented by the consular post and who have been brought to Hong Kong solely for the purposes of such service; or
+
+  - (c) are otherwise entitled to be accorded exemption from the tax by operation of the Consular Relations Ordinance (Cap. 259),
+
+- upon production by such persons of evidence of their status in a form satisfactory to the Director.
+
+- 9. (Repealed 81 of 1999 s. 3)
+
+- 10. Passengers who are persons to whom the Privileges and Immunities (Joint Liaison Group) Ordinance (Cap. 36) applies upon production by such persons of evidence of their status in a form satisfactory to the Director. (Added 18 of 1985 s. 5. Amended 44 of 1985 s. 7; 81 of 1999 s. 3)
+
+- 11. Passengers under 12 years of age. (Added L.N. 193 of 1991)
