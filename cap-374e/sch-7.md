@@ -1,32 +1,38 @@
-# SCHEDULE 7 PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
+# SCHEDULE 7
 
-[regulation 29]
+[reg. 29]
+
+PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
+
+(Paragraphs 1(a), (b), (c), (d), (e), (f) (sub-subparagraphs (i) to (xii)), (g) and (h) and 2 have commenced operation since 20 March 1998.)
 
 - 1. Permitted area for taxis licensed to be available for hire or to carry passengers within the New Territories—
 
-  - (a) The following roads in the Kwun Tong District as delineated in Part I of the Schedule to the Declaration of Districts Order (Cap. 366 sub. leg.)—
+  - (a) The following roads in the Kwun Tong District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)—
 
-    - (i) New Clear Water Bay Road from the boundary of the Kwun Tong District to its junction with Shun Ching Street;
+    - (i) New Clear Water Bay Road from the boundary of the Kwun Tong District to Shun Ching Street;
 
-    - (ii) Shun Lee Tsuen Road from its junction with Shun Ching Street to its junction with Shun King Street;
+    - (ii) Shun Lee Tsuen Road between Shun Ching Street and Shun King Street;
 
     - (iii) Shun King Street;
 
-    - (iv) Lee On Road from its junction with Shun King Street to its junction with New Clear Water Bay Road.
+    - (iv) Lee On Road between Shun King Street and New Clear Water Bay Road.
 
-  - (b) The following roads in the New Territories Districts as delineated in Part II of the Schedule to the Declaration of Districts Order (Cap. 366 sub. leg.)—
+  - (b) The following roads in the North District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)— All roads.
 
-- North All roads.
+  - (c)
 
-- Sai Kung All roads, but excluding—
+  - The following roads in the Sai Kung District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)—
 
-  - (i) Fei Ngo Shan Road;
+  - All roads, but excluding—
+
+    - (i) Fei Ngo Shan Road;
 
     - (ii) Clear Water Bay Road west of its junction with New Clear Water Bay Road;
 
     - (iii) Anderson Road and all roads leading from Anderson Road south of its junction with Clear Water Bay Road;
 
-    - (iv) the road leading from Clear Water Bay Road to Clear Water Bay Film Studios beyond a point 170 metres from its junction with Clear Water Bay Road; and
+    - (iv) Ying Yip Road beyond a point 170 metres west of its junction with Clear Water Bay Road; and
 
     - (v) all roads leading from the following roads into Tseung Kwan O New Town—
 
@@ -36,68 +42,134 @@
 
       - (C) Wan Po Road between Chiu Shun Road and Shek Kok Road; and
 
-      - (D) Shek Kok Road. (L.N. 147 of 1987; L.N. 101 of 1992)
+      - (D) Shek Kok Road.
 
-  - Sha Tin (i) Tai Po Road and local access roads leading therefrom north of its junction with Sha Tin Road but excluding Kau To Shan Road and the 2 slip roads joining Tai Po Road and Yuen Wo Road;
+  - (d) The following roads in the Sha Tin District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)—
+
+    - (i) Tai Po Road and local access roads leading therefrom north of its junction with Sha Tin Road but excluding Kau To Shan Road and the 2 slip roads joining Tai Po Road and Yuen Wo Road;
 
     - (ii) Tolo Highway and access roads leading therefrom north of its junction with Tai Po Road near Sha Tin Race Course;
 
-    - (iii) the access road linking Tai Po Road with Sha Tin Race Course;
+    - (iii) the access road joining Tai Po Road and Sha Tin Race Course;
 
-      - (iv)-(v) (Repealed L.N. 101 of 1992)
+    - (iv) the 2 slip roads joining Sha Tin Wai Road and Sha Tin Road to the north of Sha Tin Wai Road;
 
-    - (vi) the 2 slip roads joining Sha Tin Wai Road and Sha Tin Road to the north of Sha Tin Wai Road;
+    - (v) Sha Tin Road north of its junction with the slip roads mentioned in sub-subparagraph (iv);
 
-    - (vii) Sha Tin Road north of its junction with the
+    - (vi) Sha Tin Wai Road between its north-bound slip road to Sha Tin Road and Siu Lek Yuen Road;
 
-    - slip roads mentioned in (vi) above;
+    - (vii) Ngan Shing Street between Sha Tin Wai Road and Chap Wai Kon Street;
 
-    - (viii) Sha Tin Wai Road between its junction with its north-bound slip road to Sha Tin Road and Siu Lek Yuen Road;
+    - (viii) Chap Wai Kon Street west of its junction with Ngan Shing Street;
 
-    - (ix) the section of Ngan Shing Street between Sha Tin Wai Road and Chap Wai Kon Street;
+    - (ix) Ma On Shan Road;
 
-    - (x) Chap Wai Kon Street west of its junction with Ngan Shing Street;
+    - (x) all roads in Ma On Shan;
 
-      - (xi)-(xiii) (Repealed L.N. 101 of 1992)
+    - (xi) Shing Mun Tunnels;
 
-    - (xiv) Ma On Shan Road;
+    - (xii) Shing Mun Tunnel Road;
 
-    - (xv) all roads in Ma On Shan;
+    - (xiii) Tai Po Road between Shing Mun Tunnel Road and Sha Tin Road;
 
-    - (xvi) Shing Mun Tunnels;
+    - (xiv) the 2 slip roads joining Tate’s Cairn Highway and Ma on Shan Road;
 
-    - (xvii) Shing Mun Tunnel Road;
+    - (xv) the 2 slip roads joining Sha Tin Wai Road and Tate’s Cairn Highway to the north of Siu Lek Yuen Road;
 
-    - (xviii) Tai Po Road between Shing Mun Tunnel Road and Sha Tin Road;
+    - (xvi) Tate’s Cairn Highway between Tolo Highway and the 2 slip roads mentioned in sub-subparagraph (xv).
 
-    - (xix) the 2 slip roads joining Tate’s Cairn Highway and Ma On Shan Road;
+  - (e) The following roads in the Tai Po District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)— All roads.
 
-    - (xx) the 2 slip roads joining Sha Tin Wai Road and Tate’s Cairn Highway to the north of Siu Lek Yuen Road;
+  - (f) The following roads in the Tsuen Wan District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)—
 
-    - (xxi) Tate’s Cairn Highway between Tolo Highway and the 2 slip roads mentioned in (xx) above. (L.N. 110 of 1989; L.N. 101 of 1992) Tai Po All roads.
+    - (i) Castle Peak Road between Tuen Mun and the Lido Car Park underneath Ting Kau Bridge and local access roads leading from that section of Castle Peak Road;
 
-    - Tsuen Wan (i) Castle Peak Road between Tuen Mun and the Lido Car Park near 11- 1/4 milestone at Ting Kau and local access roads leading from that section of Castle Peak Road;
-
-    - (ii) Castle Peak Road from its junction with Tuen Mun Road in Chai Wan Kok to its junction with Tai Ho Road;
+    - (ii) Castle Peak Road between Tuen Mun Road at Chai Wan Kok and Tai Ho Road;
 
     - (iii) Tuen Mun Road;
 
-    - (iv) Route Twisk and Tai Mo Shan Road;
+    - (iv) Route Twisk;
 
-    - (v) Sai Lau Kok Road;
+    - (v) Tai Mo Shan Road;
 
-    - (vi) Wai Tsuen Road;
+    - (vi) Sai Lau Kok Road;
 
-    - (vii) Miu Kong Street;
+    - (vii) Wai Tsuen Road;
 
-    - (viii) the section of Shing Mun Road between Miu Kong street and Sai Lau Kok Road;
+    - (viii) Miu Kong Street;
 
-    - (ix) Cheung Pei Shan Road; and
+    - (ix) Shing Mun Road between Miu Kong Street and Sai Lau Kok Road;
 
-    - (x) Shing Mun Tunnels. (L.N. 158 of 1989; L.N. 101 of 1992) Tuen Mun All roads.
+    - (x) Cheung Pei Shan Road;
 
-    - Yuen Long All roads.
+    - (xi) Shing Mun Tunnels;
 
-- (L.N. 262 of 1984)
+    - (xii) Tsuen Kam Interchange;
 
-  - 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau — The island of Lantau. The island of Chek Lap Kok. (L.N. 172 of 1997)
+    - (xiii) Tsuen Wan Road between Tuen Mun Road and Tsuen Tsing Interchange;
+
+    - (xiv) Texaco Road North;
+
+    - (xv) Texaco Road;
+
+    - (xvi) Tsuen Tsing Interchange;
+
+    - (xvii) Tsing Tsuen Road;
+
+    - (xviii) Lantau Link;
+
+    - (xix) North Lantau Highway;
+
+    - (xx) Ting Kau Bridge; and
+
+    - (xxi) Tai Lam Tunnel.
+
+  - (g) The following roads in the Tuen Mun District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)— All roads.
+
+  - (h) The following roads in the Yuen Long District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)— All roads.
+
+  - (i) The following roads in the Islands District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)—
+
+    - (i) North Lantau Highway;
+
+    - (ii) Airport Road;
+
+    - (iii) Cheong Hong Road;
+
+    - (iv) Cheong Hing Road;
+
+    - (v) Cheong Wong Road;
+
+      - (vi) Cheong Lin Road between Cheong Wong Road and Airport South Interchange;
+
+    - (vii) Airport South Interchange; and
+
+    - (viii) Airport North Interchange.
+
+  - (j) The following roads in the Kwai Tsing District as delineated in the Schedule to the Declaration of Districts Order 1994 (Cap. 366 sub. leg.)—
+
+    - (i) Texaco Road;
+
+    - (ii) Tsuen Tsing Interchange;
+
+    - (iii) Tsing Tsuen Road;
+
+    - (iv) Tam Kon Shan Interchange;
+
+    - (v) Fung Shue Wo Road between Tam Kon Shan Interchange and Tsing Yi Road West;
+
+    - (vi) Tsing Yi Road West between Fung Shue Wo Road and Cheung Tsing Highway;
+
+    - (vii) the slip road joining Tsing Yi Road West and Cheung Tsing Highway;
+
+    - (viii) Cheung Tsing Highway between the slip road joining Cheung Tsing Highway and Tsing Yi Road West and North West Tsing Yi Interchange;
+
+    - (ix) North West Tsing Yi Interchange;
+
+    - (x) Lantau Link;
+
+    - (xi) Ting Kau Bridge; and
+
+    - (xii) Tsing King Road between Tam Kon Shan Interchange and Tsing Yi Station of the Airport Railway.
+
+- 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau— The island of Lantau; and The island of Chek Lap Kok. (L.N. 65 of 1998)
