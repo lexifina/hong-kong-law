@@ -26,6 +26,8 @@
 
   - 2. Telephone call service available from any public payphone situated in any transport premises or transport carrier.
 
+  - 2A. Services for the carriage of passengers provided by any operator of transport services other than those referred to in paragraph 1 of Part 1. (L.N. 120 of 1998)
+
   - 3. Use of any metered parking space or car park for the purpose of parking any motor vehicle.
 
   - 4. Use of any road or tunnel for the purpose of passage of any motor vehicle in respect of which a toll is payable under any Ordinance.
