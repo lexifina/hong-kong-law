@@ -24,6 +24,14 @@ s-006BE.md
 s-006BF.md
 s-006C.md
 s-006D.md
+s-006DAA.md
+s-006DAB.md
+s-006DAC.md
+s-006DAD.md
+s-006DAE.md
+s-006DAF.md
+s-006DAG.md
+s-006DAH.md
 s-006DA.md
 s-006DB.md
 s-006DC.md
@@ -46,3 +54,4 @@ sch-5.md
 sch-6.md
 sch-7.md
 sch-8.md
+sch-9.md

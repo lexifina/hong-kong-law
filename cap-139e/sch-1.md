@@ -4,4 +4,4 @@
 
 NAME OF COUNTRY
 
-- 1. The United States of America.
+- 1. (Repealed 33 of 2003 s. 4)

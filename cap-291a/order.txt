@@ -1,12 +1,16 @@
 intro.md
 s-001.md
 s-001A.md
+s-001B.md
 s-002.md
+s-002A.md
 s-003.md
+s-003A.md
 s-004.md
 s-004A.md
 s-004B.md
 s-004BA.md
+s-004BB.md
 s-004C.md
 s-004D.md
 s-004E.md

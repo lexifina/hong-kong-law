@@ -20,9 +20,7 @@ Item | Article | Country or place
 
 Item | Article | Country or place
 
-1. | Left hand drive vehicles. | All countries.
-
-2. | Outboard engines exceeding 111.9 kilowatts (150 horsepower). | All countries.
+1-2. | (Repealed 33 of 2003 s. 2)
 
 3. | Optical disc mastering and replication equipment. | All places outside Hong Kong. (L.N. 529 of 1997)
 

@@ -22,8 +22,6 @@
 
 - PART II
 
-  - 1. Left hand drive vehicles.
-
-  - 2. Outboard engines exceeding 111.9 kilowatts (150 horsepower).
+  - 1-2. (Repealed 33 of 2003 s. 2)
 
   - 3. Optical disc mastering and replication equipment. (L.N. 529 of 1997) (L.N. 136 of 1994)
