@@ -8,21 +8,17 @@ Item | Enactment | Provision
 
 1. | Landlord and Tenant (Consolidation) Ordinance (Cap. 7) | Section 116(4A)
 
-2. | Employment Ordinance (Cap. 57) | Section 72(1)(b) and (e)
-
-3. | Import and Export Ordinance (Cap. 60) | Sections 15(1) and 19(1)
-
-4. | Import and Export (Registration) Regulations (Cap. 60 sub. leg. E) | Regulations 11(1) and 12(1)
+2-4. | (Repealed L.N. 36 of 2003)
 
 5. | Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) | Sections 5(1), 6 and 8(a) and (b)
 
-6. | Dutiable Commodities Regulations (Cap. 109 sub. leg. A) | Regulation 22(1) and (4)
+6. | (Repealed L.N. 36 of 2003)
 
 7. | Dutiable Commodities (Liquor) Regulations (Cap. 109 sub. leg. B) | Regulations 15 and 26
 
-8. | Immigration Ordinance (Cap. 115) | Sections 2AB(2)(a), 2AC(2)(a), 5(6) and (7), 6(1) and (2), 17L(1)(a) and (b) and 17LA(1)
+8. | Immigration Ordinance (Cap. 115) | Sections 2AB(2)(a), 2AC(2)(a), 5(6) and (7) and 6(1) and (2) (L.N. 36 of 2003)
 
-9. | Buildings Ordinance (Cap. 123) | Sections 8B(1), 8C(2), 8D(2), 17(1)(Column B), 19(1) and (4), 20(2), 21(2), 25(1) and 42(2)
+9. | Buildings Ordinance (Cap. 123) | Sections 8B(1), 8C(2), 8D(2), 17(1) (Column B), 19(1) and (4), 20(2), 21(2), 25(1) and 42(2)
 
 10. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulations 6(1), 11, 18(1), 18A, 23(1A) and (2), 29(1), 31(1), 33(1), 38 and 47
 
@@ -78,7 +74,7 @@ Item | Enactment | Provision
 
 36. | Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (Cap. 276) | Section 21(1)
 
-37. | Employees’ Compensation Ordinance (Cap. 282) | Sections 45(1)(b) and (c), 45A(b) and 45C(1) and (3)
+37. | (Repealed L.N. 36 of 2003)
 
 38. | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Cap. 296 sub. leg. A) | Regulations 11(2) and 12(2)
 
@@ -147,3 +143,9 @@ Item | Enactment | Provision
 67. | Election Committee (Registration) (Voters for Subsectors) (Members of Election Committee) (Appeals) Regulation (Cap. 569 sub. leg. B) | Section 3(1) and (2)(c) (L.N. 268 of 2001)
 
 68. | Village Representative Election Ordinance (Cap. 576) | Sections 8(1), 10(1), 24 and 26(2) (2 of 2003 s. 68)
+
+69. | Antibiotics Ordinance (Cap. 137) | Section 4(1)(c) (L.N. 36 of 2003)
+
+70. | Pharmacy and Poisons Regulations (Cap. 138 sub. leg. A) | Regulation 9(3)(a) (L.N. 36 of 2003)
+
+71. | Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229) | Section 9(1) (L.N. 36 of 2003)

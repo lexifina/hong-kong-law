@@ -8,7 +8,7 @@ Item | Enactment | Provision
 
 1. | Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) | Sections 5(1) and 8(a) and (b)
 
-2. | Dutiable Commodities Regulations (Cap. 109 sub. leg. A) | Regulation 22(1) and (6)
+2. | (Repealed L.N. 36 of 2003)
 
 3. | Immigration Ordinance (Cap. 115) | Section 5(4)(b) and (5)(a)(ii) and (b)(ii)
 
@@ -59,3 +59,9 @@ Item | Enactment | Provision
 23. | Election Committee (Appeals) Regulation (Cap. 569 sub. leg. A) | Section 3(2) (L.N. 268 of 2001)
 
 24. | Village Representative Election Ordinance (Cap. 576) | Sections 8(2), 10(2), 24 and 26(2) (2 of 2003 s. 68)
+
+25. | Antibiotics Ordinance (Cap. 137) | Section 4(1)(c) (L.N. 36 of 2003)
+
+26. | Pharmacy and Poisons Regulations (Cap. 138 sub. leg. A) | Regulation 9(3)(a) (L.N. 36 of 2003)
+
+27. | Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229) | Section 9(1) (L.N. 36 of 2003)
