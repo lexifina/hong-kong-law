@@ -32,4 +32,6 @@ Tuen Mun Typhoon Shelter. (L.N. 55 of l982)
 
 To Kwa Wan Typhoon Shelter. (L.N. 255 of 1993)
 
+Hei Ling Chau Typhoon Shelter. (L.N. 235 of 1999)
+
 (L.N. 219 of 1984; L.N. 286 of 1992)
