@@ -1,0 +1,5 @@
+HONG KONG TOURIST ASSOCIATION RULES
+
+(Cap. 302 section 20)
+
+[31 October 1958]
