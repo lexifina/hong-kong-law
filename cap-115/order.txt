@@ -9,6 +9,7 @@ s-002AC.md
 s-002AD.md
 s-002AE.md
 s-002AF.md
+s-002AG.md
 s-003.md
 s-004.md
 s-005.md
