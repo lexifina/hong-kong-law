@@ -1,0 +1,5 @@
+FOOD BUSINESS (REGIONAL COUNCIL) BYLAWS (EXEMPTION FROM BYLAW 31(1)) (CONSOLIDATION)
+
+(Food Business (Regional Council) Bylaws, bylaw 31(7))
+
+[19 January 1979]
