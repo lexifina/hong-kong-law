@@ -4,8 +4,6 @@
 
 PUBLIC PLEASURE GROUNDS
 
-PUBLIC PLEASURE GROUNDS
-
 Public pleasure grounds (other than bathing beaches)
 
 Urban Council Area
@@ -1616,6 +1614,8 @@ Fung Shue Wo Indoor Recreation Centre
 
 Fung Shue Wo Resite Village Basketball Court
 
+Fung Tei Garden
+
 Fung Wong Wu Playground
 
 Fung Yau Street North Sitting-out Area
@@ -1795,6 +1795,8 @@ Lek Yuen Street Rest Garden
 Leng Pei Playground
 
 Leung Tin Indoor Recreation Centre
+
+Leung Tin Tsuen Garden
 
 Leung Uk Children’s Playground, Tai O
 
@@ -2041,6 +2043,8 @@ Sam Mun Tsai Children’s Playground
 Sam Pei Square Playground
 
 Sam Tung Uk Garden
+
+Sam Tung Uk Village Playground
 
 San Hei Pavilion
 
@@ -2342,8 +2346,6 @@ Tai Po Old Market Playground
 
 Tai Po Playground
 
-Tai Po Promenade
-
 Tai Po Road Look-out
 
 Tai Po Road 10 M.S. Lookout No. 1
@@ -2357,6 +2359,8 @@ Tai Po Sports Ground
 Tai Po Tau Playground
 
 Tai Po Tsai Rest Garden
+
+Tai Po Waterfront Park
 
 Tai Sang Wai Playground
 
@@ -2373,6 +2377,8 @@ Tai Tong Wu Sitting-out Area
 Tai Wai Playground
 
 Tai Wan Sitting-out Area, Po Toi
+
+Tai Wan Tau Garden
 
 Tai Wo Hau Indoor Recreation Centre
 
@@ -2474,7 +2480,11 @@ Tsing Shan Keuk Look-out
 
 Tsing Shan Pavilion
 
+Tsing Sin Garden
+
 Tsing Sin Playground
+
+Tsing Tin Playground
 
 Tsing Wah Garden
 
@@ -2589,6 +2599,8 @@ Wai Tau Tsuen Playground
 Wai Tsuen Indoor Recreation Centre
 
 Wai Tsai Street Sitting-out Area, Peng Chau
+
+Wai Tsuen Road Garden
 
 Wai Tsuen Road Rest Garden
 
@@ -2718,7 +2730,7 @@ Yung Shue Wan Sitting-out Area
 
 Yung Shui Wan/Sok Kwu Wan Rainshelter
 
-(Amended L.N. 108 of 1989; L.N. 229 of 1989; L.N. 332 of 1989; L.N. 3 of 1990; L.N. 114 of 1990; L.N. 228 of 1990; L.N. 308 of 1990; L.N. 1 of 1991; L.N. 146 of 1991; L.N. 260 of 1991; L.N. 372 of 1991; L.N. 461 of 1991; L.N. 52 of 1992; L.N. 95 of 1992; L.N. 229 of 1992; L.N. 322 of 1992; L.N. 4 of 1993; L.N. 98 of 1993; L.N. 264 of 1993; L.N. 395 of 1993; L.N. 396 of 1993; L.N. 468 of 1993; L.N. 494 of 1993; L.N. 206 of 1994; L.N. 424 of 1994; L.N. 536 of 1994; L.N. 16 of 1995; L.N. 149 of 1995; L.N. 342 of 1995; L.N. 460 of 1995; L.N. 26 of 1996; L.N. 181 of 1996; L.N. 334 of 1996; L.N. 424 of 1996; L.N. 560 of 1996; L.N. 134 of 1997)
+(Amended L.N. 108 of 1989; L.N. 229 of 1989; L.N. 332 of 1989; L.N. 3 of 1990; L.N. 114 of 1990; L.N. 228 of 1990; L.N. 308 of 1990; L.N. 1 of 1991; L.N. 146 of 1991; L.N. 260 of 1991; L.N. 372 of 1991; L.N. 461 of 1991; L.N. 52 of 1992; L.N. 95 of 1992; L.N. 229 of 1992; L.N. 322 of 1992; L.N. 4 of 1993; L.N. 98 of 1993; L.N. 264 of 1993; L.N. 395 of 1993; L.N. 396 of 1993; L.N. 468 of 1993; L.N. 494 of 1993; L.N. 206 of 1994; L.N. 424 of 1994; L.N. 536 of 1994; L.N. 16 of 1995; L.N. 149 of 1995; L.N. 342 of 1995; L.N. 460 of 1995; L.N. 26 of 1996; L.N. 181 of 1996; L.N. 334 of 1996; L.N. 424 of 1996; L.N. 560 of 1996; L.N. 134 of 1997; L.N. 389 of 1997)
 
 Bathing beaches
 
