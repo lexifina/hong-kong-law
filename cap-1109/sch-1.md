@@ -230,75 +230,77 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 8. Subject to the Ordinance and the Statutes and without derogating from the generality of its power, it is specifically prescribed—
 
-  - (1) that the Council shall have the power—
+    - (1) that the Council shall have the power—
 
-    - (a) to make Statutes, provided that no Statute shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
+      - (a) to make Statutes, provided that no Statute shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
 
-    - (b) to make decrees for any purpose for which decrees are or may be authorized to be made, provided that no decree shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
+      - (b) to make decrees for any purpose for which decrees are or may be authorized to be made, provided that no decree shall be made until the Senate shall have had an opportunity of reporting thereon to the Council;
 
-    - (c) to invest any money belonging to the University;
+      - (c) to invest any money belonging to the University;
 
-    - (d) to borrow money on behalf of the University;
+      - (d) to borrow money on behalf of the University;
 
-    - (e) to sell, buy, exchange, lease or accept leases of any real or personal property on behalf of the University;
+      - (e) to sell, buy, exchange, lease or accept leases of any real or personal property on behalf of the University;
 
-    - (f) to enter into, vary, perform and cancel contracts on behalf of the University;
+      - (f) to enter into, vary, perform and cancel contracts on behalf of the University;
 
-    - (g) to require the Board of Trustees of each College annually to produce its audited accounts in such form and at such time as the Council may determine;
+      - (g) to require the Board of Trustees of each College annually to produce its audited accounts in such form and at such time as the Council may determine;
 
-    - (h) to receive from public sources grants for capital and recurrent expenditure;
+      - (h) to receive from public sources grants for capital and recurrent expenditure;
 
-    - (i) to receive annually and for such longer periods as the Council may determine from time to time from the Vice-Chancellor, after he has consulted the Senate, and to approve, estimates of expenditure;
+      - (i) to receive annually and for such longer periods as the Council may determine from time to time from the Vice-Chancellor, after he has consulted the Senate, and to approve, estimates of expenditure;
 
-    - (j) to receive gifts and to approve, subject to such conditions as the Council thinks fit, the receipt of gifts by the Colleges;
+      - (j) to receive gifts and to approve, subject to such conditions as the Council thinks fit, the receipt of gifts by the Colleges;
 
-    - (k) to provide for the welfare of persons employed by the University and the wives, widows and dependants of such persons, including the payment of money, pensions, or other payments and to subscribe to benevolent and other funds for the benefit of such persons;
+      - (k) to provide for the welfare of persons employed by the University and the wives, widows and dependants of such persons, including the payment of money, pensions, or other payments and to subscribe to benevolent and other funds for the benefit of such persons;
 
-    - (l) to provide for the discipline and welfare of students;
+      - (l) to provide for the discipline and welfare of students;
 
-    - (m) to recommend the award of degrees honoris causa;
+      - (m) to recommend the award of degrees honoris causa;
 
-    - (n) after report from the Senate to establish additional Faculties or Departments or to abolish, combine or subdivide any Faculty or Department; (L.N. 452 of 1994)
+      - (n) after report from the Senate to establish additional Faculties or Departments or to abolish, combine or subdivide any Faculty or Department; (L.N. 452 of 1994)
 
-    - (na) on the recommendation of the Senate, to determine the organization or structure of each Faculty and its Departments and to make such alterations to such organization or structure as deemed fit by the Council; (L.N. 452 of 1994)
+      - (na) on the recommendation of the Senate, to determine the organization or structure of each Faculty and its Departments and to make such alterations to such organization or structure as deemed fit by the Council; (L.N. 452 of 1994)
 
-    - (o) to prescribe fees of the University;
+      - (o) to prescribe fees of the University;
 
-  - (2) that it shall be the duty of the Council—
+    - (2) that it shall be the duty of the Council—
 
-    - (a) to appoint bankers, auditors and any other agents whom it deems expedient to appoint;
+      - (a) to appoint bankers, auditors and any other agents whom it deems expedient to appoint;
 
-    - (b) to appoint an Administrative and Planning Committee;
+      - (b) to appoint an Administrative and Planning Committee;
 
-    - (c) to cause proper books of account to be kept for all sums of money received and expended by the University and for the assets and liabilities of the University so that such books give a true and fair statement of financial transactions and position of the University;
+      - (c) to cause proper books of account to be kept for all sums of money received and expended by the University and for the assets and liabilities of the University so that such books give a true and fair statement of financial transactions and position of the University;
 
-    - (d) to cause the accounts of the University to be audited within 6 months after the termination of each financial year as the Council may determine;
+      - (d) to cause the accounts of the University to be audited within 6 months after the termination of each financial year as the Council may determine;
 
-    - (e) to provide the buildings, libraries, laboratories, premises, furniture, apparatus and other equipment needed for the University;
+      - (e) to provide the buildings, libraries, laboratories, premises, furniture, apparatus and other equipment needed for the University;
 
-    - (f) in consultation with the Senate to encourage and provide for research by members of the University;
+      - (f) in consultation with the Senate to encourage and provide for research by members of the University;
 
-    - (g) to review the instruction and teaching in courses of study leading to degrees, diplomas, certificates and other awards of the University;
+      - (g) to review the instruction and teaching in courses of study leading to degrees, diplomas, certificates and other awards of the University;
 
-    - (h) after consultation with the Senate, to institute all teaching posts;
+      - (h) after consultation with the Senate, to institute all teaching posts;
 
-    - (i) to administer or cause to be administered a Superannuation Fund or Funds for the benefit of persons employed by the University;
+      - (i) to administer or cause to be administered a Superannuation Fund or Funds for the benefit of persons employed by the University;
 
-    - (j) to establish Boards of Advisers and to appoint external experts thereto on the recommendation of the Senate;
+      - (j) to establish Boards of Advisers and to appoint external experts thereto on the recommendation of the Senate;
 
-    - (k) to appoint on such terms and conditions as the Council may determine each Professor, Reader and Senior Lecturer and the Secretary, the Registrar, the Librarian and the Bursar on the recommendation of duly constituted Boards of Advisers;
+      - (k) to appoint on such terms and conditions as the Council may determine each Professor, Reader and Senior Lecturer and the Secretary, the Registrar, the Librarian and the Bursar on the recommendation of duly constituted Boards of Advisers;
 
-    - (l) to make, on such terms and conditions as the Council may determine, such other University appointments as the Council deems necessary;
+      - (l) to make, on such terms and conditions as the Council may determine, such other University appointments as the Council deems necessary;
 
-    - (m) on the recommendation of the Senate, to appoint a Chairman for each Department and a Director of Studies for each academic subject not subsumed under a Department; (L.N. 452 of 1994)
+      - (m) on the recommendation of the Senate, to appoint a Chairman for each Department and a Director of Studies for each academic subject not subsumed under a Department; (L.N. 452 of 1994)
 
-    - (n) to appoint external examiners on the recommendation of the Senate;
+      - (n) to appoint external examiners on the recommendation of the Senate;
 
-    - (o) to provide for the printing and publication of works which may be issued by the University; and
+      - (o) to provide for the printing and publication of works which may be issued by the University; and
 
-    - (p) to consider reports from the Senate, and if the Council deems it proper to do so, to take action thereon.
+      - (p) to consider reports from the Senate, and if the Council deems it proper to do so, to take action thereon.
 
   - 9. The Council shall meet at least 3 times in each academic year and additionally on the written request of the Chairman of the Council or the Vice-Chancellor or any 5 members of the Council.
+
+  - 9A. The Council may transact any of its business by circulation of papers, and unless the Vice-Chancellor or 5 members of the Council in writing request the Chairman of the Council to refer any particular item of the business being so transacted to the next meeting of the Council, a resolution in writing which is approved in writing by a majority of the members shall be as valid and effectual as if it had been passed at a meeting of the Council. (L.N. 256 of 1998)
 
   - 10. 7 days’ notice in writing of any meeting of the Council shall be sent by the Secretary to each person entitled to receive notice of the meeting with the agenda thereof, and no business not included in the agenda shall be transacted if the Chairman or any 2 members present object.
 
@@ -338,19 +340,19 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 1. There shall be a Committee of the Council known as the Administrative and Planning Committee, which shall consist of—
 
-  - (a) the Vice-Chancellor, who shall be the Chairman;
+    - (a) the Vice-Chancellor, who shall be the Chairman;
 
-  - (b) the Pro-Vice-Chancellors;
+    - (b) the Pro-Vice-Chancellors;
 
-  - (c) the Head of each College;
+    - (c) the Head of each College;
 
-  - (d) the Dean of each Faculty and of the Graduate School;
+    - (d) the Dean of each Faculty and of the Graduate School;
 
-  - (e) the Secretary;
+    - (e) the Secretary;
 
-  - (f) the Registrar; and
+    - (f) the Registrar; and
 
-  - (g) the Bursar.
+    - (g) the Bursar.
 
   - The Secretary or his deputy shall serve as secretary of the Committee.
 
@@ -754,27 +756,31 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 1. The Council may for good cause as defined in paragraph 2 remove the Treasurer from his office and any member of the Council other than the Chairman and any person appointed under paragraph 1(k) and (1) of Statute 11 from his membership of the Council.
 
-  - 2. “Good cause” in paragraph 1 means—
+  - 2.
 
-    - (a) conviction of any crime which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature;
+    - “Good cause” (好的因由) in paragraph 1 means—
 
-    - (b) actual physical or mental in capacity which shall be judged by the Council to prevent the proper execution of the duties of the officer or membership; or
+      - (a) conviction of any crime which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature;
 
-    - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
+      - (b) actual physical or mental in capacity which shall be judged by the Council to prevent the proper execution of the duties of the officer or membership; or
+
+      - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
 
   - 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Head of each of the Colleges, any of the Professors or Readers or Senior Lecturers, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council.
 
   - 4. The Council may and shall if requested by the person concerned or by any 3 members of the Council before such removal appoint a committee consisting of the Chairman of the Council, 2 other members of the Council and 3 members of the Senate to examine the complaint and to report to the Council thereof.
 
-  - 5. “Good cause” in paragraph 3 means—
+  - 5.
 
-    - (a) conviction of any crime which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be of an immoral, scandalous or disgraceful nature;
+    - “Good cause” (好的因由) in paragraph 3 means—
 
-    - (b) actual physical or mental in capacity which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit for the execution of the duties of his office or appointment;
+      - (a) conviction of any crime which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be of an immoral, scandalous or disgraceful nature;
 
-    - (c) conduct of an immoral, scandalous or disgraceful nature which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit to continue to hold his office or appointment;
+      - (b) actual physical or mental in capacity which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit for the execution of the duties of his office or appointment;
 
-    - (d) conduct which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to constitute failure or inability to perform the duties of his office or appointment or to comply with the conditions of the tenure of his office or appointment.
+      - (c) conduct of an immoral, scandalous or disgraceful nature which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit to continue to hold his office or appointment;
+
+      - (d) conduct which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to constitute failure or inability to perform the duties of his office or appointment or to comply with the conditions of the tenure of his office or appointment.
 
   - 6. Subject to the terms of his appointment no person referred to in paragraph 3 shall be removed from his appointment save for good cause as defined in paragraph 5 and in pursuance of the procedure specified in paragraph 4.
 
@@ -824,7 +830,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - (c) have complied in all other respects with the requirements prescribed therefor.
 
-  - (2) The University may confer any of the degrees with the designations prescribed in paragraph 2(2) on any person who has rendered distinguished service in the advancement of any branch of learning or who has otherwise rendered himself worthy of such a degree. (L.N. 31 of 1981; L.N. 121 of 1989)
+    - (2) The University may confer any of the degrees with the designations prescribed in paragraph 2(2) on any person who has rendered distinguished service in the advancement of any branch of learning or who has otherwise rendered himself worthy of such a degree. (L.N. 31 of 1981; L.N. 121 of 1989)
 
   - 2. The degrees which may be conferred by the University shall have the following designations—
 
@@ -840,13 +846,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Bachelor of Engineering (B. Eng.) (L.N. 114 of 1991)
 
-      - Bachelor of Medical Sciences (B. Med. Sc.) (L.N. 55 of 1990)
+      - Bachelor of Medical Sciences (B.Med. Sc.) (L.N. 55 of 1990)
 
-      - Bachelor of Medicine and
-
-      - Bachelor of Surgery (M. B., Ch. B.)
-
-      - Bachelor of Nursing (B. Nurs.) (L.N. 114 of 1991)
+      - Bachelor of Medicine and Bachelor of Surgery (M. B., Ch. B.) Bachelor of Nursing (B. Nurs.) (L.N. 114 of 1991)
 
       - Bachelor of Pharmacy (B. Pharm.) (L.N. 114 of 1991)
 
@@ -854,63 +856,63 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Bachelor of Social Science (B. S. Sc.)
 
-  - (b) Master’s Degrees Master of Accountancy (M. Acc.) (L.N. 481 of 1997)
+      - (b) Master’s Degrees Master of Accountancy (M. Acc.) (L.N. 481 of 1997)
 
-  - Master of Architecture (M. Arch.) (L.N. 114 of 1991)
+      - Master of Architecture (M. Arch.) (L.N. 114 of 1991)
 
-  - Master of Arts (M. A.)
+      - Master of Arts (M. A.)
 
-  - Master of Business Administration (M. B. A.)
+      - Master of Business Administration (M. B. A.)
 
-  - Master of City Planning (M. C. P.) (L.N. 453 of 1994)
+      - Master of City Planning (M. C. P.) (L.N. 453 of 1994)
 
-  - Master of Clinical Pharmacy (M. Clin. Pharm.) (L.N. 481 of 1997)
+      - Master of Clinical Pharmacy (M. Clin. Pharm.) (L.N. 481 of 1997)
 
-  - Master of Divinity (M. Div.)
+      - Master of Divinity (M. Div.)
 
-  - Master of Education (M. Ed.)
+      - Master of Education (M. Ed.)
 
-  - Master of Engineering (M. Eng.) (L.N. 114 of 1991)
+      - Master of Engineering (M. Eng.) (L.N. 114 of 1991)
 
-  - Master of Fine Arts (M. F. A.) (L.N. 453 of 1994)
+      - Master of Fine Arts (M. F. A.) (L.N. 453 of 1994)
 
-  - Master of Music (M. Mus.) (L.N. 453 of 1994)
+      - Master of Music (M. Mus.) (L.N. 453 of 1994)
 
-  - Master of Nursing (M. Nurs.) (L.N. 323 of 1995)
+      - Master of Nursing (M. Nurs.) (L.N. 323 of 1995)
 
-  - Master of Philosophy (M. Phil.)
+      - Master of Philosophy (M. Phil.)
 
-  - Master of Public Health (M. P. H.) (L.N. 573 of 1995)
+      - Master of Public Health (M. P. H.) (L.N. 573 of 1995)
 
-  - Master of Science (M. Sc.)
+      - Master of Science (M. Sc.)
 
-  - Master of Social Science (M. S. Sc.)
+      - Master of Social Science (M. S. Sc.)
 
-  - Master of Social Work (M. S. W.)
+      - Master of Social Work (M. S. W.)
 
-  - (c) Doctoral Degrees Doctor of Business Administration (D. B. A.)
+      - (c) Doctoral Degrees Doctor of Business Administration (D. B. A.)
 
-  - Doctor of Education (Ed. D.) (L.N. 481 of 1997)
+      - Doctor of Education (Ed. D.) (L.N. 481 of 1997)
 
-  - Doctor of Literature (D. Lit.)
+      - Doctor of Literature (D. Lit.)
 
-  - Doctor of Medicine (M. D.)
+      - Doctor of Medicine (M. D.)
 
-  - Doctor of Music (D. Mus.) (L.N. 453 of 1994)
+      - Doctor of Music (D. Mus.) (L.N. 453 of 1994)
 
-  - Doctor of Philosophy (Ph. D.)
+      - Doctor of Philosophy (Ph. D.)
 
-  - Doctor of Science (D. Sc.)
+      - Doctor of Science (D. Sc.)
 
-  - Doctor of Social Science (D. S. Sc.) (L.N. 121 of 1989)
+      - Doctor of Social Science (D. S. Sc.) (L.N. 121 of 1989)
 
-  - (2) Honorary Degrees Doctor of Laws honoris causa (L. L. D. honoris causa)
+    - (2) Honorary Degrees Doctor of Laws honoris causa (L. L. D. honoris causa)
 
-  - Doctor of Literature honoris causa (D. Lit. honoris causa)
+    - Doctor of Literature honoris causa (D. Lit. honoris causa)
 
-  - Doctor of Science honoris causa (D. Sc. honoris causa)
+    - Doctor of Science honoris causa (D. Sc. honoris causa)
 
-  - Doctor of Social Science honoris causa (D. S. Sc. honoris causa) (L.N. 121 of 1989)
+    - Doctor of Social Science honoris causa (D. S. Sc. honoris causa) (L.N. 121 of 1989)
 
   - 3. The degree of Bachelor shall not be conferred upon a student unless he shall have attended approved courses of study as a matriculated student of the University. (L.N. 114 of 1991)
 
@@ -946,9 +948,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - (2) A person who—
 
-      - (a) has completed a course of study in a tertiary educational institution and holds professional or similar qualifications equivalent to a degree; and
+    - (a) has completed a course of study in a tertiary educational institution and holds professional or similar qualifications equivalent to a degree; and
 
-      - (b) has satisfied such other requirements as may be prescribed by the Statutes and by decrees and regulations made thereunder, may be exempted from the matriculation requirements of the University and may be admitted to be a postgraduates student with the approval of the Senate.
+    - (b) has satisfied such other requirements as may be prescribed by the Statutes and by decrees and regulations made thereunder, may be exempted from the matriculation requirements of the University and may be admitted to be a postgraduates student with the approval of the Senate.
 
   - 10. The Senate may recommend the award of the degree of Master or Doctor in any Faculty to any member of the academic staff of the University and for this purpose may exempt any such person from any of the requirements prescribed for the conferment of the degree other than the examination therefor.
 
