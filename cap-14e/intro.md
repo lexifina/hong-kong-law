@@ -1,0 +1,5 @@
+MEDICAL PRACTITIONERS (FEES)
+
+(Cap. 14 section 21)
+
+[20 November 1967]
