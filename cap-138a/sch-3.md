@@ -580,6 +580,8 @@ Doxepin; its salts; its derivatives; their salts
 
 Droperidol
 
+Drotrecogin alfa
+
 Ecothiopate iodide
 
 Ectylurea
@@ -1476,6 +1478,8 @@ Tamoxifen; its salts
 
 Tazarotene; its salts
 
+Tegaserod; its salts
+
 Telmisartan; its salts
 
 Temozolomide; its salts
@@ -1509,6 +1513,8 @@ Thiacetazone
 Thiocarlide; its salts
 
 Thiotepa
+
+Thymosin alpha 1
 
 Thyroid gland, the active principles of; their salts
 
@@ -1686,7 +1692,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003)
 
 B
 
