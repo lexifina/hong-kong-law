@@ -8,13 +8,9 @@ PRELIMINARY INVESTIGATION COMMITTEE
 
 - 2. Appointment of acting Chairman If the Chairman of the Committee is or will be unable temporarily to exercise his functions another member of the Board may be nominated by the Board and appointed by the Chairman of the Board to act during the period of his appointment, as Chairman of the Committee.
 
-- 3. Appointment of acting member If a member of the Committee is or will be unable temporarily to exercise his functions as a member of the Committee a person satisfying the same criteria as applied to the appointment of that member may be nominated by the Hong Kong Association of Occupational Therapists and appointed by the Chairman of the Board to act during the period of his appointment, as that member.
+- 3. Appointment of acting member If a member of the Committee is or will be unable temporarily to exercise his functions as a member of the Committee a person satisfying the same criteria as applied to the appointment of that member may be nominated by the Hong Kong Occupational Therapy Association and appointed by the Chairman of the Board to act during the period of his appointment, as that member. (L.N. 87 of 2004)
 
-- 4.
-
-- Effect of lapse or termination of appointment
-
-- If at the time the Committee is considering any complaint or information under these regulations—
+- 4. Effect of lapse or termination of appointment If at the time the Committee is considering any complaint or information under these regulations—
 
   - (a) the appointment of any person to be the Chairman or a member of the Committee lapses by virtue of regulation 17 or terminates by operation of paragraph 1 of this Schedule; or
 
