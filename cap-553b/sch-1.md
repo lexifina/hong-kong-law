@@ -114,24 +114,32 @@ Item | Enactment | Provision
 
 54. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) | Section 5(2) (L.N. 261 of 2000)
 
-55. | Electoral Affairs Commission (Registration) (Electors for Functional Constituencies) (Voters for Subsectors) (Members of Election Committee) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Section 21(2) (L.N. 261 of 2000)
+55. | Electoral Affairs Commission (Registration) (Electors for Legislative Council Functional Constituencies) (Voters for Election Committee Subsectors) (Members of Election Committee) Regulation (Cap. 541 sub. leg.) | Section 21(2) (L.N. 261 of 2000; L.N. 268 of 2001)
 
 56. | Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg.) | Sections 5(13) and 8(2)
 
-57. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Sections 23(8) and (12), 25(6) and (15), 42(11) and (13) and 66(7) and (10) and Schedule 1, sections 19(5) and (9), 21(3), (9) and (12), 38(8) and (10) and 59(7) and (10)
+57. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Sections 23(8) and (12), 25(6) and (15), 42(11) and (13) and 66(7) and (10) (L.N. 268 of 2001)
 
 58. | Electoral Affairs Commission (Nominations Advisory Committees (District Councils)) Regulation (Cap. 541 sub. leg.) | Sections 5(8) and 8(2)
 
 59. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg.) | Sections 26(5) and (9), 28(3), (9) and (12), 45(8) and (10), 66(6) and (9) and 102(4)
 
+59A. | Electoral Affairs Commission (Nominations Advisory Committees (Election Committee)) Regulation (Cap. 541 sub. leg.) | Sections 6(13) and 9(2) (L.N. 268 of 2001)
+
+59B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg.) | Sections 23(5) and (9), 25(2), 42(8) and (10) and 64(8) and (10) (L.N. 268 of 2001)
+
 60. | Legislative Council Ordinance (Cap. 542) | Sections 13(1), 14(1), 26(6), 38(3), 40(1)(b) and 42(2) (21 of 2001 s. 75)
 
 61. | Registration of Electors (Appeals) Regulation (Cap. 542 sub. leg.) | Section 2(1) and (2)(c)
 
-62. | Legislative Council (Formation of Election Committee) (Appeals) Regulation (Cap. 542 sub. leg.) | Sections 2(1) and (2), 3(1), 4(1) and 5(1) and (2)(c)
+62. | (Repealed L.N. 268 of 2001)
 
 63. | District Councils Ordinance (Cap. 547) | Sections 15(1), 23(1), 25(1), 34(1)(b), 35(2) and 63(1) and Schedule 5, section 2
 
 64. | Election (Corrupt and Illegal Conduct) Ordinance (Cap. 554) | Section 37(1) and (2) (L.N. 167 of 2000)
 
 65. | Chief Executive Election Ordinance (Cap. 569) | Sections 16(2) and (7), 31(1), 33(1) and 34(2) and the Schedule, sections 3(3), 13(6) and 21(2) (21 of 2001 s. 75)
+
+66. | Election Committee (Appeals) Regulation (Cap. 569 sub. leg.) | Sections 4(1) and 5(1) and (2)(c) (L.N. 268 of 2001)
+
+67. | Election Committee (Registration) (Voters for Subsectors) (Members of Election Committee) (Appeals) Regulation (Cap. 569 sub. leg.) | Section 3(1) and (2)(c) (L.N. 268 of 2001)

@@ -32,15 +32,19 @@ Item | Enactment | Provision
 
 13. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg.) | Sections 14(2) and 15(6) (L.N. 261 of 2000)
 
-14. | Electoral Affairs Commission (Registration) (Electors for Functional Constituencies) (Voters for Subsectors) (Members of Election Committee) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Sections 19(1)(e), 20(2), (3), (5), (7) and (8), 26(6), 30(2), 31(7) and 33(9) (L.N. 261 of 2000)
+14. | Electoral Affairs Commission (Registration) (Electors for Legislative Council Functional Constituencies) (Voters for Election Committee Subsectors) (Members of Election Committee) Regulation (Cap. 541 sub. leg.) | Sections 19(1)(e), 20(2), (3), (5), (7) and (8), 26(6), 30(2), 31(7), 31A(2) and 33(9) (L.N. 261 of 2000; L.N. 268 of 2001)
 
 15. | Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg.) | Section 5(4)
 
-16. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Sections 10(7) and (8), 11(7) and (8), 12(7) and (8), 20(2)(b), 23(9) and (12), 25(8) and (15), 42(11) and (13), 66(7) and (10) and 102(4) and Schedule 1, sections 6(4), 7(6) and (7), 16(2), 19(6) and (9), 21(5) and (12), 38(8) and (10), 59(7) and (10) and 92(4)
+16. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg.) | Sections 10(7) and (8), 11(7) and (8), 12(7) and (8), 20(2), 23(9) and (12), 25(8) and (15), 42(11) and (13), 66(7) and (10) and 102(4) (L.N. 268 of 2001)
 
 17. | Electoral Affairs Commission (Nominations Advisory Committees (District Councils)) Regulation (Cap. 541 sub. leg.) | Section 5(2)
 
 18. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg.) | Sections 12(7) and (8), 20(2), 26(6) and (9), 28(5) and (12), 45(8), 66(6) and (9), 102(4) and 103(4)
+
+18A. | Electoral Affairs Commission (Nominations Advisory Committees (Election Committee)) Regulation (Cap. 541 sub. leg.) | Section 6(4) (L.N. 268 of 2001)
+
+18B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg.) | Sections 7(4), 8(6) and (7), 17(2), 23(6) and (9), 25(4) and (9), 42(8) and (10), 64(8) and (10), 99(2)(b) and 100(4) (L.N. 268 of 2001)
 
 19. | Legislative Council Ordinance (Cap. 542) | Sections 13(2), 14(2), 40(2) and 42(2) (21 of 2001 s. 76)
 
@@ -49,3 +53,5 @@ Item | Enactment | Provision
 21. | Air Navigation (Hong Kong) Order 1995 (Cap. 448 sub. leg.) | Articles 10(2) and 28(4) and Schedule 15, Regulation 1(1)
 
 22. | Chief Executive Election Ordinance (Cap. 569) | Sections 16(3) and (8) and 33(2) and the Schedule, sections 3(4) and 21(2) (21 of 2001 s. 76)
+
+23. | Election Committee (Appeals) Regulation (Cap. 569 sub. leg.) | Section 3(2) (L.N. 268 of 2001)
