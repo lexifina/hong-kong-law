@@ -1,0 +1,7 @@
+FIRE SERVICES DEPARTMENT (WELFARE FUND) REGULATIONS
+
+(Cap. 95, section 25)
+
+[13 August 1954]
+
+(32 of 1954 Fourth Schedule)
