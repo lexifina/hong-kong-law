@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[reg. 5]
+[regs. 2(1), 4A, 5, 11A & 12(1B)] (9 of 2003 s. 20)
 
 CONTENTS OF FORMS OF IDENTITY CARD
 
@@ -16,13 +16,21 @@ CONTENTS OF FORMS OF IDENTITY CARD
 
   - (e) the date of issue of the card;
 
-  - (f) a photograph of the applicant, unless the applicant is under the age of 11 years; and
+  - (f) a photograph of the applicant, unless the applicant is under the age of 11 years; (9 of 2003 s. 20)
 
-  - (g) such symbols, letters or numbers (if any) as the Commissioner may determine.
+  - (g) such data, symbols, letters or numbers representing prescribed information, particulars or data within the meaning of section 7(2A)(b) of the Ordinance as the Commissioner may determine; and (9 of 2003 s. 20)
+
+  - (h) in the form of data stored in the chip in the identity card—
+
+    - (i) template of the applicant’s thumb-prints or other fingerprints taken under regulation 4(1)(a); and
+
+    - (ii) (where the applicant does not have a right of abode in Hong Kong) the conditions of stay (including a limit of stay) imposed in relation to him under section 11 of the Immigration Ordinance (Cap. 115). (9 of 2003 s. 20)
 
 - 2.
 
-- A permanent identity card shall include the following statement— “The holder of this card has the right of abode in Hong Kong
+- A permanent identity card shall include the following statement—
+
+- “The holder of this card has the right of abode in Hong Kong
 
 - 本證持有人擁有香港居留權”;
 

@@ -20,15 +20,25 @@ section 7AA | transfer of identity card
 
 section 7B | failure to apply for new identity cards
 
-2. | Registration of Persons Regulations (Cap. 177 sub. leg.)
+section 11 | unauthorized handling of particulars (Amended 9 of 2003 s. 24)
+
+2. | Registration of Persons Regulations (Cap. 177 sub. leg. A)
 
 regulation 11(2A) | failure to carry and produce identity card
 
-regulation 12(4) | making alteration to identity card
+regulation 11A(2) | obstructing public officers in verification of identity
+
+regulation 12(1) | making alteration to identity card or documents
+
+regulation 12(1A) | tampering with chip in identity card
+
+regulation 12(2) | possession of altered identity card or documents
+
+regulation 12(2A) | possession of identity card embodying chip tampered with
 
 regulation 13A | furnishing false particulars of loss, etc. of identity card
 
-regulation 19 | miscellaneous offences
+regulation 19 | miscellaneous offences (Amended 9 of 2003 s. 24)
 
 3. | Crimes Ordinance (Cap. 200)
 

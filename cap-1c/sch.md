@@ -68,7 +68,7 @@ Chief Secretary for Administration (L.N. 362 of 1997) | Prison Rules (Chapter 23
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Probation of Offenders Rules (Chapter 298 subsidiary legislation A), rule 42. (L.N. 48 of 1967)
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Registration of Persons Regulations (Chapter 177 subsidiary legislation A), regulation 24. (L.N. 137 of 1970)
+Chief Secretary for Administration (L.N. 362 of 1997) | Registration of Persons Ordinance (Chapter 177), section 11. (L.N. 137 of 1970; 9 of 2003 s. 23)
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Salesian Society Incorporation Ordinance (Chapter 1043), section 5(2). (L.N. 368 of 1984)
 
