@@ -20,7 +20,7 @@ Item | Disease | Occupation
 
 7. | Bursitis or subcutaneous cellulitis arising at or about the elbow due to severe or prolonged external friction or pressure at or about the elbow (beat elbow) | Any occupation involving manual labour causing severe or prolonged external friction or pressure at or about the elbow.
 
-8. | Traumatic inflammation of the tendons of the hand or forearm, or of the associated tendon sheaths | Any occupation involving manual labour, or frequent or repeated movements of the hand or wrist.
+8. | Traumatic inflammation of the tendons of the hand or forearm (including elbow), or of the associated tendon sheaths (Amended L.N. 147 of 1999) | Any occupation involving manual labour, or frequent or repeated movements of the hand or wrist.
 
 9. | Anthrax | Any occupation involving contact with animals infected with anthrax or the handling (including the loading and unloading or transport) of animal products or residues.
 
@@ -92,10 +92,14 @@ Item | Disease | Occupation
 
 43. | Byssinosis | Any occupation involving exposure to raw cotton dust.
 
-44. | Occupational asthma | Any occupation involving the use or handling of, or exposure to, any of the following agents which may irritate or sensitise the respiratory system— (a) isccyanates; (b) platinum salts; (c) fumes or dusts arising from the manufacture, transport or use of hardening agents (such as epoxy resin curing agents) based on phthalic anhydride, trimellitic anhydride or triethylenetetramine; (d) fumes arising from the use of rosin as a soldering flux; (e) formaldehyde; (f) proteolytic enzymes; (g) animals or insects used for the purposes of research or education or in laboratories; (h) dusts arising from the sowing, cultivation, harvesting, drying, handling, milling, transport or storage of barley, oats, rye, wheat or maize, or the handling, milling, transport or storage of meal or flour made from them.
+44. | Occupational asthma | Any occupation involving the use or handling of, or exposure to, any of the following agents which may irritate or sensitise the respiratory system— (a) isccyanates; (b) platinum salts; (c) fumes or dusts arising from the manufacture, transport or use of hardening agents (such as epoxy resin curing agents) based on phthalic anhydride, trimellitic anhydride or triethylenetetramine; (d) fumes arising from the use of rosin as a soldering flux; (e) formaldehyde; (f) proteolytic enzymes; (g) animals or insects used for the purposes of research or education or in laboratories; (h) dusts arising from the sowing, cultivation, harvesting, drying, handling, milling, transport or storage of barley, oats, rye, wheat or maize, or the handling, milling, transport or storage of meal or flour made from them. (i) any other sensitising agent inhaled at work. (Added L.N. 147 of 1999)
 
 45. | Silicosis | Any occupation.
 
 46. | Asbestos-related diseases (such as asbestosis and mesothelioma) | Any occupation.
 
 47. | Occupational deafness | Any occupation.
+
+48. | Carpal tunnel syndrome | Any occupation involving repetitive use of hand-held powered tools whose internal parts vibrate so as to transmit that vibration to the hand, but excluding those which are solely powered by hand. (Added L.N. 147 of 1999)
+
+49. | Legionnaires’ disease | Any occupation involving the repair, maintenance or service of— (a) cooling systems that use fresh water; or (b) hot water service systems. (Added L.N. 147 of 1999)
