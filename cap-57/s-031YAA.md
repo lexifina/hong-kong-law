@@ -1,0 +1,9 @@
+# 31YAA. Set-off of long service payment against gratuity or retirement scheme payment
+
+(1) The gratuity or retirement scheme payment to which an employee is entitled as referred to in section 31Y(1)(b) in respect of all the years of service in respect of which a long service payment is payable under this Part shall be reduced by the long service payment paid to the employee under this Part.
+
+(2) Any retirement scheme payment which would have to be paid under a retirement scheme to an employee but for the reduction under subsection (1) shall be paid by the trustee of the retirement scheme to the employer.
+
+(3) For the purpose of subsections (1) and (2), any reference therein to a retirement scheme payment shall not include that part (if any) of the payment which represents an employee’s own contributions, including any sum payable in respect of interest thereon.
+
+(Added 62 of 1992 s. 11)

@@ -1,0 +1,43 @@
+# FIRST SCHEDULE
+
+[ss. 3 & 75] (Amended 16 of 2006 s. 10)
+
+CONTINUOUS EMPLOYMENT
+
+- 1. | (a) | The provisions of this Schedule are to ascertain whether or not any contract of employment is a “continuous contract” for the purposes of this Ordinance.
+
+- (b) | In the case of a contract of employment existing at the commencement of this Ordinance, such period of employment next preceding the date of commencement of the Ordinance as may be necessary shall be taken into account in order to ascertain whether or not the contract of employment is a continuous contract.
+
+- 2. Subject to the following provisions, where at any time an employee has been employed under a contract of employment during the period of 4 or more weeks next preceding such time he shall be deemed to have been in continuous employment during that period.
+
+- 3.
+
+  - (1) For the purposes of paragraph 2, no week shall count unless the employee has worked for 18 hours or more in that week, and in determining whether he has worked in any hour the provisions of sub-paragraph (2) shall apply.
+
+  - (2) If in any hour the employee is, for the whole or part of the hour—
+
+    - (a) incapable of work in consequence of sickness or injury; provided that any such incapability in excess of 48 hours is supported by a certificate issued by a registered medical practitioner, registered Chinese medicine practitioner or registered dentist; or (Amended 5 of 1995 s. 11; 16 of 2006 s. 10)
+
+    - (b) absent from work in circumstances such that, by law, mutual arrangement or the custom of the trade, business or undertaking, he is regarded as continuing in the employment of his employer for any purpose,
+
+  - then, save as provided in paragraph 4, that hour shall count as an hour in which he has worked.
+
+- 4. Where an employee is absent from work for the whole or part of any hour—
+
+  - (a) because of a strike (which is not illegal) in which he takes part; or
+
+  - (b) because of a lock-out by his employer,
+
+- that hour shall not count as an hour in which he has worked, but the continuity of his period of employment shall not be treated as broken by any such absence.
+
+- 5. If a trade, business or undertaking is transferred from one person to another, the period of employment of an employee in the trade, business or undertaking at the time of the transfer shall count as a period of employment with the transferee, and the transfer shall not break the continuity of the period employment.
+
+- 6. For the purposes of this Schedule, any reference to hours in which an employee has worked shall mean hours in which he has worked for his employer whether or not the hours were worked under the same or another contract of employment with that employer and whether or not they were consecutive hours. (Replaced 41 of 1990 s. 23)
+
+- 7. In this Schedule, unless the context otherwise requires—
+
+  - “lock-out” (閉廠) and “strike” (罷工), respectively, have the meanings assigned to them in the Trade Unions Ordinance (Cap. 332);
+
+  - “week” (星期) means a week ending with Saturday.
+
+- (Amended 5 of 1970 s. 9; 71 of 1970 s. 6; 41 of 1990 s. 23)
