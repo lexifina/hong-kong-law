@@ -1,0 +1,5 @@
+LEVERAGED FOREIGN EXCHANGE TRADING (EXEMPTION) RULES
+
+(Cap. 451 sections 2(2)(k) and 73)
+
+[1 September 1994] L.N. 482 of 1994
