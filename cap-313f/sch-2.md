@@ -1,0 +1,3 @@
+# Schedule 2
+
+(Repealed L.N. 86 of 1965)
