@@ -168,4 +168,6 @@ PUBLIC BODIES
 
 - 84. Long Win Holdings Limited. (Added L.N. 441 of 1996)
 
-- 84. Long-term Prison Sentences Review Board. (Added 86 of 1997 s. 44) (Replaced L.N. 272 of 1974)
+- 84. Long-term Prison Sentences Review Board. (Added 86 of 1997 s. 44)
+
+- 85. Electoral Affairs Commission. (Added 129 of 1997 s. 24) (Replaced L.N. 272 of 1974)
