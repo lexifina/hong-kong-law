@@ -1,374 +1,508 @@
 # SCHEDULE
 
+[通知書號碼: ]
+
+[Notice No.: ]
+
+表格1 | [第2(1)條]
+
 FORM 1 | [reg. 2(1)]
 
-FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE (Chapter 240) NOTICE OF PARTICULARS OF ALLEGED
+涉嫌犯定額罰款交通罪行的通知書
 
-FIXED PENALTY TRAFFIC OFFENCE (Section 3(1))
+NOTICE OF PARTICULARS OF ALLEGED FIXED PENALTY TRAFFIC OFFENCE 《定額罰款(刑事訴訟)條例》
 
-THE DRIVER | OWNER | OF VEHICLE | letters | numbers
+(第240章第3(1)條)
 
-IS ALLEGED TO HAVE COMMITTED AN OFFENCE
+FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE
+
+(Chapter 240, section 3(1))
+
+字母 letters | 號碼 numbers
+
+右述車輛的司機 THE DRIVER | 車主 OWNER | 車輛號碼 OF VEHICLE NO.
+
+檔號 TRANSACTION NO.
+
+涉嫌犯交通罪行
+
+IS ALLEGED TO HAVE COMMITTED A TRAFFIC OFFENCE
+
+司機詳情(如知悉者) | 罪行詳情
 
 DETAILS OF DRIVER (IF AVAILABLE) | OFFENCE DETAILS
 
-day | month | year
+駕駛執照/身分證號碼 | 日 day | 月 | month | 年 | year
 
-IDENTITY NO.
+DRIVING LICENCE / IDENTITY CARD NO.
 
-DATE
+時 hours | 分 minutes | 罪行編號 OFFENCE CODE NO.
 
-hours | minutes | numbers
+電單車 | 車輛類別(在其中一格加✓號) | 其他車輛
 
-TIME | OFFENCE NUMBER
+\- | M. Cycle | VEHICLE TYPE (tick one) | other
 
-M. Cycle | VEHICLE TYPE | other
+英文姓氏 SURNAME | 定額罰款(在其中一格加✓號) FIXED PENALTY (tick one)
 
-(tick one)
+(從左方起每格填一個字母) | $1,000 | $600 | $450 | $320 | $230
 
-.
+(one letter per box from left)
 
-SURNAME | $1,000 | $600 | $450 | $320 | $230
+地點(如以英文填寫請用正楷) 必須填寫A及B PLACE (Use block letters if in English) Always complete A and B
 
-(1 letter per box from left) | FIXED PENALTY (tick one)
+A. 路名 ROAD
 
-PLACE (Use block letters if in English) Always complete A. If B not available, complete C if possible.
+*B. 位置(如項目1或2不適用，則填寫項目3) LOCATION (If item 1 or 2 is not applicable, then complete item 3)
 
-A. ROAD | B. HOUSE NUMBER
+1. □ 在右述地點 | 外 / 對面 / 附近 / 內 O/S / OPP / NEAR / I/S | 屋宇 / 地段 / 路段 / 燈柱 / 咪錶號碼 Hse. / Lot / Ch. / L/P / Meter No.
 
-C. ROAD JUNCTION OR OTHER IDENTIFYING FEATURE
+2. □ | 在 / 近 AT / NEAR | 與右列道路交匯處 Junction with
 
-1. | At the junction with
+3. □ 在右述地點 | 外 / 對面 O/S / OPP | 大廈 / 建築物 / 其他可予識辨的特徵 Bldg. / Erection / Other identifying feature
 
-2. | Near junction with
+* 在適當方格加上「✓」號並刪去不適用者。 | * Tick the appropriate box(es) and delete where appropriate.
 
-3. | Other
+發出日期 DATE OF ISSUE 簽發通知書人員 ISSUING OFFICER
 
-day | month | year | * | letter | number
+日 day | 月 month | 年 year | *字母 *Letter | 號碼 Number | 所屬單位 Unit
 
-DATE OF ISSUE | ISSUING OFFICER
+(* 輔警請在此欄填寫“A”字) (* Auxiliary Police Officer write “A”in the box)
 
-* Auxiliary Police Officer write “A” here
+如對本通知書的發出有任何疑問，可與任何警署的值日警官聯絡。
+
+Enquiries concerning the issue of this notice may be made by contacting the Duty Officer of any Police Station.
+
+\| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| | [ 條碼 | ]
+
+[ Bar Code | ]
+
+郵寄付款須知： 請沿左面虛線撕下郵寄付款回條，並將回條連同支票、匯票或本票寄回。
+
+Instruction for Postal Payment : Please detach along the perforated line on the left and send in the Slip for Payment by Post together with the cheque, draft or cashier order.
+
+局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。
+
+Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment. 郵寄付款回條 Slip for Payment by Post
+
+電子繳款號碼 E-Payment Number
+
+請輸入下列18位數字 | 02
+
+Please key in the following 18 digit nos. 帳類 Bill Type
+
+C.R.C.
+
+105
+
+附註 (請細心閱讀)
+
+Notes (Please read carefully)
+
+A. | 罪行編號指《定額罰款(刑事訴訟)條例》的附表第1欄內所列的項目編號。
+
+The Offence Code Number refers to the item number shown in the first column of the Schedule to the Fixed Penalty (Criminal Proceedings) Ordinance.
+
+B. | 如於本通知書發出日期起計21天內繳付定額罰款，即可解除就有關罪行所須負的法律責任。若按照繳款辦法第1(e)段繳款，本通知書必須保持完整並於繳款時出示。
+
+Liability for the offence can be discharged by paying the Fixed Penalty within 21 days of the date of issue. For payment made in accordance with paragraph 1(e) of the Payment Instructions, this notice must be kept intact and produced at the time of payment.
+
+C. | 不論是否已收到罰款，在每宗個案中都會發出註明本通知書號碼的繳款通知書，而繳款則可藉相同方式作出。
+
+A Demand Notice quoting the number of this notice, on which payment may be similarly made, will be sent in every case, whether or not payment has already been received.
+
+D. | 如不依時繳付罰款，可能會被起訴。
+
+Failure to pay in time may result in the institution of court proceedings.
+
+E. | 如對本通知書有任何查詢，請致電中央交通違例檢控科。 (電話：2866 6552)
+
+For enquiry on this notice, please contact the Central Traffic Prosecutions Bureau. (Tel.: 2866 6552)
+
+FP M
+
+郵寄付款回條
+
+Slip for Payment by Post
+
+繳款辦法： | PAYMENT INSTRUCTIONS :
+
+1. | 可按下列方式繳款—— | 1. | Payment may be made—
+
+(a) 使用銀行自動櫃員機繳款 在任何貼有“繳款服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例定額罰款”，並輸入帳單類別“02”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment Service” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “02” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
+
+(b) 使用「繳費聆」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費聆」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
+
+(c) 透過互聯網繳款 透過銀行或「繳費聆」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址： http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址︰http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例定額罰款”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address :http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address :http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
+
+(d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄香港告士打道郵政局信箱28000號(註明庫務署為收件人)。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment.
+
+(e) 親自繳款 親自或由代理人往下列辦事處繳付—— (i) 任何郵政局(郵政局信箱及流動郵政局除外)。如欲查詢有關地址及辦公時間，請致電香港郵政熱線︰2921 2222或瀏覽其網站(URL 位址： http://www.hongkongpost.com); | (e) In Person Payment may be made personally or by an agent at any of the following offices— (i) Any Post Office other than a post office letter box or a mobile post office. For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit their web site (URL address: http://www.hongkongpost.com);
+
+港島 (ii) 薄扶林道2號A西區裁判法院； (iii) 西灣河太安街29號東區法院大樓東區裁判法院； | Hong Kong Island (ii) Western Magistracy, 2A Pok Fu Lam Road; (iii) Eastern Magistracy, Eastern Law Courts Building, 29 Tai On Street, Sai Wan Ho;
+
+九龍 (iv) 亞皆老街147號M九龍城裁判法院大樓九龍城裁判法院； (v) 觀塘鯉魚門道10號觀塘法院大樓觀塘裁判法院； (vi) 大埔道292號北九龍裁判法院； | Kowloon (iv) Kowloon City Magistrates’ Courts, Kowloon City Law Courts Building, 147M Argyle Street; (v) Kwun Tong Magistracy, Kwun Tong Law Courts Building, 10 Lei Yue Mun Road, Kwun Tong; (vi) North Kowloon Magistracy, 292 Tai Po Road;
+
+新界 (vii) 粉嶺馬會道302號粉嶺裁判法院； (viii) 荃灣大河道70號荃灣法院大樓荃灣裁判法院； (ix) 沙田宜正里1號沙田法院大樓沙田裁判法院； (x) 屯門屯喜路1號屯門裁判法院。 | New Territories (vii) Fanling Magistracy, 302 Jockey Club Road, Fanling; (viii) Tsuen Wan Magistracy, Tsuen Wan Law Courts Building, 70 Tai Ho Road, Tsuen Wan; (ix) Shatin Magistracy, Shatin Law Courts Building, 1 Yi Ching Lane, Shatin; (x) Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun.
+
+上述裁判法院於下列時間收款—— 星期一 ：上午9時至下午1時； 至 及 星期五 下午2時至4時 星期六 ：上午9時至中午12時 本通知書必須保持完整並於繳款時出示。 | The above magistracies receive payments during the hours of— Monday : 9 a.m. to 1 p.m.; to and Friday 2 p.m. to 4 p.m. Saturday : 9 a.m. to 12 noon This notice must be kept intact and produced at the time of payment.
+
+2. | 支票、匯票或本票均須以“香港特別行政區政府”或“特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 | 2. | Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
+
+3. | 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 3. | Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment.
+
+罪行及定額罰款一覽表
 
 LIST OF OFFENCES AND FIXED PENALTY
 
-Code Number | Offence | Contrary To | Fixed Penalty
+編號 Code Number | 罪行 Offence | 違反 Contrary To | 定額罰款 Fixed Penalty
 
-Road Traffic Ordinance (Cap. 374)
+《道路交通條例》(第374章) Road Traffic Ordinance (Cap. 374)
 
-1. | Driving in excess of speed limit by 15 km/h or less | Section 41 | $320
+1. | 以比速度限制高出每小時15公里或以下的速度駕駛 Driving in excess of speed limit by 15 km/h or less | 第41條 Section 41 | $320 $320
 
-\#2. | Driving in excess of speed limit by more than 15 km/h, other than where Code Number 2A or 2B applies | Section 41 | $450
+\#2. | 以比速度限制高出逾每小時15公里的速度駕駛，但罪行編號2A或2B適用的情況除外 Driving in excess of speed limit by more than 15 km/h, other than where Code Number 2A or 2B applies | 第41條 Section 41 | $450 $450
 
-!2A. | Driving in excess of speed limit by more than 30 km/h, other than where Code Number 2B applies | Section 41 | $600
+!2A. | 以比速度限制高出逾每小時30公里的速度駕駛，但罪行編號2B適用的情況除外 Driving in excess of speed limit by more than 30 km/h, other than where Code Number 2B applies | 第41條 Section 41 | $600 $600
 
-Ω2B. | Driving in excess of speed limit by more than 45 km/h | Section 41 | $1,000
+Ω2B. | 以比速度限制高出逾每小時45公里的速度駕駛 | 第41條 | $1,000
 
-3. | Driving with an expired driving licence | Section 42(1) | $320
+Driving in excess of speed limit by more than 45 km/h | Section 41 | $1,000
 
-4. | Failing to carry driving licence when driving | Section 42(2) | $320
+3. | 持過期駕駛執照駕駛 Driving with an expired driving licence | 第42(1)條 Section 42(1) | $320 $320
 
-5. | Failing to produce driving licence | Section 43(3) | $320
+4. | 駕駛時沒有攜帶駕駛執照 Failing to carry driving licence when driving | 第42(2)條 Section 42(2) | $320 $320
 
-6. | Driving unlicensed vehicle | Section 52(1) | $450
+5. | 沒有出示駕駛執照 Failing to produce driving licence | 第43(3)條 Section 43(3) | $320 $320
 
-7. | Driving a private car which is carrying goods weighing more than 200 kg | Section 52(8) | $320
+6. | 駕駛未獲發牌照的車輛 Driving unlicensed vehicle | 第52(1)條 Section 52(1) | $450 $450
 
-*8. | Contravening condition of a vehicle licence | Section 52(9) | $450
+7. | 駕駛運載重量超過200公斤的貨物的私家車 Driving a private car which is carrying goods weighing more than 200 kg | 第52(8)條 Section 52(8) | $320 $320
 
-Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
+*8. | 違反車輛牌照的條件 Contravening condition of a vehicle licence | 第52(9)條 Section 52(9) | $450 $450
 
-9. | Unlawfully entering box junction | Regulation 10(1) | $320
+《道路交通(交通管制)規例》(第374 章，附屬法例G) Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
-9A. | Unlawfully entering yellow striped light signal crossing | Regulation 10A | $320
+9. | 非法進入黃色方格路口 Unlawfully entering box junction | 第10(1)條 Regulation 10(1) | $320 $320
 
-\#10. | Crossing continuous double white line or white line with a broken white line | Regulation 11(1) | $450
+9A. | 非法進入交通燈控制的黃條過路處 Unlawfully entering yellow striped light signal crossing | 第10A條 Regulation 10A | $320 $320
 
-11. | Driving in prohibited zone | Regulation 14(5) | $450
+\#10. | 橫過連續雙白綫或附有虛綫的連續雙白綫 Crossing continuous double white line or white line with a broken white line | 第11(1)條 Regulation 11(1) | $450 $450
 
-12. | Picking up/setting down passengers in restricted zone | Regulation 14(6) | $450
+11. | 在禁區內駕駛 Driving in prohibited zone | 第14(5)條 Regulation 14(5) | $450 $450
 
-13. | Loading/unloading goods in restricted zone | Regulation 14(7) | $450
+12. | 在限制區內讓乘客上落 Picking up/setting down passengers in restricted zone | 第14(6)條 Regulation 14(6) | $450 $450
 
-\#14. | Failing to comply with traffic signals | Regulation 18 | $450
+13. | 在限制區內裝卸貨物 Loading/unloading goods in restricted zone | 第14(7)條 Regulation 14(7) | $450 $450
 
-15. | Driving on closed road without permit | Regulation 27(4) | $320
+\#14. | 沒有遵從交通燈的指示 Failing to comply with traffic signals | 第18條 Regulation 18 | $450 $450
 
-\#16. | Failing to give precedence to pedestrians on a zebra crossing | Regulation 31 | $450
+15. | 沒有許可證而在封閉道路上駕駛 Driving on closed road without permit | 第27(4)條 Regulation 27(4) | $320 $320
 
-\#17. | Failing to stop for school crossing patrol | Regulation 38(2) | $450
+\#16. | 沒有讓斑馬綫上的行人先行 Failing to give precedence to pedestrians on a zebra crossing | 第31條 Regulation 31 | $450 $450
 
-18. | “U” turn causing obstruction | Regulation 42(d) | $320
+\#17. | 沒有為學校交通安全隊員而停車 Failing to stop for school crossing patrol | 第38(2)條 Regulation 38(2) | $450 $450
 
-19. | Sounding audible warning device unnecessarily | Regulation 43 | $320
+18. | 車輛作“U”字形轉向導致阻礙 “U” turn causing obstruction | 第42(d)條 Regulation 42(d) | $320 $320
 
-20. | Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place | Regulation 45 | $320
+19. | 在不必要的情況下鳴響發聲警報設備 Sounding audible warning device unnecessarily | 第43條 Regulation 43 | $320 $320
 
-21. | Driving without necessary lights illuminated | Regulation 47(1)(a) | $320
+20. | 未經授權而在巴士站、公共小巴站、的士站或公共小巴停車處停車 Unauthorized stopping at bus stop/public light bus stand/taxi stand/public light bus stopping place | 第45條 Regulation 45 | $320 $320
 
-22. | Light other than permitted illuminated lights showing to rear | Regulation 47(1)(b) and (c) | $320
+21. | 在沒有亮着所需車燈的情況下駕駛 Driving without necessary lights illuminated | 第47(1)(a)條 Regulation 47(1)(a) | $320 $320
 
-23. | Excess passengers | Regulation 53(3) | $450
+22. | 車尾亮着並非准許亮着的燈 | 第47(1)(b)及(c)條 | $320
 
-24. | Overloading | Regulation 54(1) | $1,000
+Light other than permitted illuminated lights showing to rear | Regulation 47(1)(b) and (c) | $320
 
-25. | Insecure load | Regulation 57 | $450
+23. | 超額載客 Excess passengers | 第53(3)條 Regulation 53(3) | $450 $450
 
-26. | Failing to comply with traffic signs | Regulation 59 | $450
+24. | 超重 Overloading | 第54(1)條 Regulation 54(1) | $1,000 $1,000
 
-27. | Failing to comply with road markings | Regulation 59 | $450
+25. | 負載物不穩固 Insecure load | 第57條 Regulation 57 | $450 $450
 
-Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 sub. leg. A)
+26. | 沒有遵從交通標誌 Failing to comply with traffic signs | 第59條 Regulation 59 | $450 $450
 
-*28. | Defective direction indicator | Regulation 5(4) | $320
+27. | 沒有遵從道路標記 Failing to comply with road markings | 第59條 Regulation 59 | $450 $450
 
-*29. | Excess smoke or visible vapour | Regulation 31(1)(a) | $1,000
+《道路交通(車輛構造及保養)規例》(第374章，附屬法例A) Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 sub. leg. A)
 
-*30. | Defective or inadequate dipping mechanism | Regulation 90(2) | $320
+*28. | 轉向指示器欠妥 Defective direction indicator | 第5(4)條 Regulation 5(4) | $320 $320
 
-Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E)
+*29. | 煙霧或可見氣體過量 Excess smoke or visible vapour | 第31(1)(a)條 Regulation 31(1)(a) | $1,000 $1,000
 
-31. | Registration mark not displayed/lit/adequately fitted | Regulation 8(2) | $320
+*30. | 低燈機制欠妥或不適當 Defective or inadequate dipping mechanism | 第90(2)條 Regulation 90(2) | $320 $320
 
-*32. | Failing to report change of vehicle particulars | Regulation 18(1) | $320
+《道路交通(車輛登記及領牌)規例》(第374章，附屬法例E) Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E)
 
-*33. | Failing to display valid licence | Regulation 25 | $320
+31. | 沒有展示、亮起或裝妥車輛登記號碼 Registration mark not displayed/lit/adequately fitted | 第8(2)條 Regulation 8(2) | $320 $320
 
-Road Traffic (Driving licences) Regulations (Cap. 374 sub. leg. B)
+*32. | 沒有申報已變更的車輛資料 Failing to report change of vehicle particulars | 第18(1)條 Regulation 18(1) | $320 $320
 
-33A. | Driving a vehicle without a “P” plate | Regulation 12K(1) | $450
+*33. | 沒有展示有效的車輛牌照 Failing to display valid licence | 第25條 Regulation 25 | $320 $320
 
-33B. | Failing to comply with restriction on carrying passengers | Regulation 12K(2) | $450
+《道路交通(駕駛執照)規例》(第374章，附屬法例B) Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B)
 
-34. | Contravening condition of driving licence Regulation 17(4) | Regulation 17(4) | $320
+33A. | 駕駛沒有展示“P”字牌的車輛 Driving a vehicle without a “P” plate | 第12K(1)條 Regulation 12K(1) | $450 $450
 
-35. | Failing to display “L” plates | Regulation 30(3)(b) | $450
+33B. | 違反禁止運載乘客的規定 Failing to comply with restriction on carrying passengers | 第12K(2)條 Regulation 12K(2) | $450 $450
 
-36. | Contravening condition of learner’s driving licence | Regulation 30(4) | $450
+34. | 違反駕駛執照的條件 Contravening condition of driving licence | 第17(4)條 Regulation 17(4) | $320 $320
 
-Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
+35. | 沒有展示“學”字牌 Failing to display “L” plates | 第30(3)(b)條 Regulation 30(3)(b) | $450 $450
 
-37. | Driving motor cycle without protective helmet | Regulation 3(1) | $320
+36. | 違反學習駕駛執照的條件 Contravening condition of learner’s driving licence | 第30(4)條 Regulation 30(4) | $450 $450
 
-38. | Driving private car without being securely fastened with seat belt | Regulation 7(1)(a) | $320
+《道路交通(安全裝備)規例》(第374章，附屬法例F) Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
 
-39. | Driving private car when front seat passenger not securely fastened with seat belt | Regulation 7(3) | $230
+37. | 在沒有戴上防護頭盔的情況下駕駛電單車 Driving motor cycle without protective helmet | 第3(1)條 Regulation 3(1) | $320 $320
 
-Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D)
+38. | 在沒有穩妥繫上安全帶的情況下駕駛私家車 Driving private car without being securely fastened with seat belt | 第7(1)(a)條 Regulation 7(1)(a) | $320 $320
 
-40. | Driver of first or second public light bus at public light bus stand leaving vehicle | Regulation 35(1)(a) | $320
+39. | 在前排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 Driving private car when front seat passenger not securely fastened with seat belt | 第7(3)條 Regulation 7(3) | $230 $230
 
-41. | Driver of first or second public light bus at public light bus stand not ready/willing to drive from public light bus stand | Regulation 35(1)(b) | $320
+《道路交通(公共服務車輛)規例》(第374章，附屬法例D) Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D)
 
-42. | Public light bus driver not moving forward at public light bus stand | Regulation 35(2)(a) | $320
+40. | 公共小巴站內最前面的第一或第二輛公共小巴的司機離開其車輛 Driver of first or second public light bus at public light bus stand leaving vehicle | 第35(1)(a)條 Regulation 35(1)(a) | $320 $320
 
-43. | Public light bus obstructing other public light bus at pubic light bus stand | Regulation 35(2)(b) | $320
+41. | 公共小巴站內最前面的第一或第二輛公共小巴的司機沒有隨時準備或不願意將其車輛駛離該站 Driver of first or second public light bus at public light bus stand not ready/willing to drive from public light bus stand | 第35(1)(b)條 Regulation 35(1)(b) | $320 $320
 
-44. | Public light bus driver at stand not obeying directions given by police officer/traffic warden | Regulation 35(2)(c) | $320
+42. | 公共小巴司機在公共小巴站內不將其車輛駛前 | 第35(2)(a)條 | $320
 
-45. | Taxi driver not moving forward at taxi stand | Regulation 36(2) | $320
+Public light bus driver not moving forward at public light bus stand | Regulation 35(2)(a) | $320
 
-45A. | Taxi driver of first or second taxi at a taxi stand not sitting in or standing beside his taxi | Regulation 36(1) | $320
+43. | 公共小巴在公共小巴站內阻礙其他公共小巴 Public light bus obstructing other public light bus at public light bus stand | 第35(2)(b)條 Regulation 35(2)(b) | $320 $320
 
-46. | Taxi driver at stand accepting fare out of turn | Regulation 36(3)(b) | $320
+44. | 公共小巴司機在車站內不遵從警務人員或交通督導員給予的指示 Public light bus driver at stand not obeying directions given by police officer/traffic warden | 第35(2)(c)條 Regulation 35(2)(c) | $320 $320
 
-47. | Driver not taking all reasonable precautions to ensure safety of passengers of a public bus, public light bus or taxi | Regulation 45(1)(d) | $320
+45. | 的士司機在的士站內不將車輛駛前 Taxi driver not moving forward at taxi stand | 第36(2)條 Regulation 36(2) | $320 $320
 
-48. | Stopping public bus, public light bus or taxi longer than necessary when picking up/setting down passengers | Regulation 45(1)(h) | $320
+45A. | 的士站內最前面的第一或第二輛的士的的士司機不坐在其車內或不站在其車旁 Taxi driver of first or second taxi at a taxi stand not sitting in or standing beside his taxi | 第36(1)條 Regulation 36(1) | $320 $320
 
-49. | Not setting taxi meter to recording position | Regulation 49(2) | $320
+46. | 的士司機在的士站內不依輪候次序載客 Taxi driver at stand accepting fare out of turn | 第36(3)(b)條 Regulation 36(3)(b) | $320 $320
 
-Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg.)
+47. | 司機沒有採取一切合理預防措施，以確保公共巴士、公共小巴或的士乘客的安全 Driver not taking all reasonable precautions to ensure safety of passengers of a public bus, public light bus or taxi | 第45(1)(d)條 Regulation 45(1)(d) | $320 $320
 
-50. | Driving taxi without being securely fastened with seat belt | Regulation 7A(1)(a) | $320
+48. | 公共巴士、公共小巴或的士上落乘客時停車超過所需的時間 Stopping public bus, public light bus or taxi longer than necessary when picking up/setting down passengers | 第45(1)(h)條 Regulation 45(1)(h) | $320 $320
 
-51. | Driving light bus without being securely fastened with seat belt | Regulation 7A(1)(a) | $320
+49. | 沒有將的士計程錶設定於記錄位置 Not setting taxi meter to recording position | 第49(2)條 Regulation 49(2) | $320 $320
 
-52. | Driving goods vehicle without being securely fastened with seat belt | Regulation 7A(1)(a) | $320
+《道路交通(安全裝備)規例》(第374章，附屬法例F) Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
 
-53. | Driving light bus when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
+50. | 在沒有穩妥繫上安全帶的情況下駕駛的士 Driving taxi without being securely fastened with seat belt | 第7A(1)(a)條 Regulation 7A(1)(a) | $320 $320
 
-54. | Driving goods vehicle when front seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7A(3) | $230
+51. | 在沒有穩妥繫上安全帶的情況下駕駛小型巴士 | 第7A(1)(a)條 | $320
 
-55. | Driving private car when rear seat passenger not securely fastened with seat belt | Regulation 7B(2) | $230
+Driving light bus without being securely fastened with seat belt | Regulation 7A(1)(a) | $320
 
-55A. | Driving private car when rear seat passenger under 15 years of age not securely fastened with seat belt | Regulation 7B(3) | $230
+52. | 在沒有穩妥繫上安全帶的情況下駕駛貨車 Driving goods vehicle without being securely fastened with seat belt | 第7A(1)(a)條 Regulation 7A(1)(a) | $320 $320
 
-55B. | Driving private car when rear seat passenger occupies rear seat without seat belt when there is vacant rear seat with seat belt | Regulation 7B(6) | $230
+53. | 在有15 歲以下的前排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家小巴 Driving private light bus when front seat passenger under 15 years of age not securely fastened with seat belt | 第7A(3)條 Regulation 7A(3) | $230 $230
 
-Road Traffic (Expressway) Regulation (Cap. 374 sub. leg.)
+54. | 在有15 歲以下的前排座位乘客沒有穩妥繫上安全帶的情況下駕駛貨車 Driving goods vehicle when front seat passenger under 15 years of age not securely fastened with seat belt | 第7A(3)條 Regulation 7A(3) | $230 $230
 
-56. | Failing to comply with restriction on using offside lane | Regulation 11 | $450
+55. | 在後排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 Driving private car when rear seat passenger not securely fastened with seat belt | 第7B(2)條 Regulation 7B(2) | $230 $230
 
-57. | Overtaking another vehicle on its nearside | Regulation 13 | $450
+55A. | 在有15 歲以下的後排座位乘客沒有穩妥繫上安全帶的情況下駕駛私家車 Driving private car when rear seat passenger under 15 years of age not securely fastened with seat belt | 第7B(3)條 Regulation 7B(3) | $230 $230
 
-\# Offences marked with # carry 3 driving-offence points.
+55B. | 在一個並沒設有安全帶的私家車後排座位上有乘客但該私家車內有另外一個設有安全帶且無人佔用的後排座位的情況下，駕駛該私家車 | 第7B(6)條 | $230
 
-! Offence marked with ! carries 5 driving-offence points.
+Driving private car when rear seat passenger occupies rear seat without seat belt when there is vacant rear seat with seat belt | Regulation 7B(6) | $230
 
-Ω Offence marked with Ω carries 10 driving-offence points.
+《道路交通(快速公路)規例》(第374章，附屬法例Q) Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q)
 
-* Vehicle owners liable for offences marked with asterisk.
+56. | 沒有遵守使用右邊行車綫的限制 Failing to comply with restriction on using offside lane | 第11條 Regulation 11 | $450 $450
 
-NOTES (Please read carefully)
+57. | 在其他車輛的左邊超越該車輛 Overtaking another vehicle on its nearside | 第13條 Regulation 13 | $450 $450
 
-- A. The Code Number refers to the item number shown in the first column of the Schedule to the Fixed Penalty (Criminal Proceedings) Ordinance.
+\# 凡有“#”符號的罪行每宗記3分。
 
-- B. Liability for the offence can be discharged by presenting this notice intact at any of the specified payment centres, and paying the Fixed Penalty within 21 days of the date of issue. Write your name and address in the space provided when paying by post to enable a receipt to be returned to you.
+Offences marked with “#” carry 3 driving-offence points.
 
-  - C. A Demand Note quoting the number of this notice, on which payment may be similarly made, will be sent in every case, whether or not payment has already been received.
+! 凡有“!”符號的罪行每宗記5分。
 
-  - D. Failure to pay may result in the institution of court proceedings. PAYMENT INSTRUCTIONS
+Offence marked with “!” carries 5 driving-offence points.
 
-  - 1. Payment may be made—
+Ω 凡有“Ω”符號的罪行每宗記10分。
 
-    - (a) BY POST ADDRESSED TO THE DIRECTOR OF ACCOUNTING SERVICES, P.O. BOX 8000, GENERAL POST OFFICE, HONG KONG; OR
+Offence marked with “Ω” carries 10 driving-offence points.
 
-    - (b) PERSONALLY OR BY AN AGENT at any of the following offices—
+* 凡有“*”符號的罪行，車主均須負法律責任。
 
-  - Hong Kong Island
+Vehicle owners liable for offences marked with “*”.
 
-    - (i) The Treasury Central Collection and Payment Office, Central Government Offices (West Wing), 11 Ice House Street (side entrance to the building in Ice House Street), Hong Kong;
+(L.N. 165 of 2001; L.N. 103 of 2004)
 
-    - (ii) The North Point Sub-Treasury, Odeon Building, 1st floor, 28 Shu Kuk Street, Hong Kong;
+通知書號碼： | 表格 2 | [第2(2)條]
 
-    - (iii) The Central Magistracy, Wan Chai Tower 1, 12 Harbour Road;
+Notice No. : | FORM 2 | [reg. 2(2)]
 
-    - (iv) The Western Magistracy, 2A Pok Fu Lam Road. Kowloon
+《定額罰款(刑事訴訟)條例》 | 電子繳款號碼 E-Payment Number
 
-    - (v) The Yaumati Sub-Treasury, Kowloon Government Offices, 4th floor, 405 Nathan Road (Market Street entrance);
+(第240章) | 請輸入下列18位數字 Please key in the following 18 digit nos.
 
-    - (vi) The Kowloon City Sub-Treasury, Man Sang Commercial Building, 1st floor, 348-352 Prince Edward Road (corner of Prince Edward Road and Junction Road);
+FIXED PENALTY (CRIMINAL PROCEEDING) ORDINANCE
 
-    - (vii) The San Po Kong Magistracy, 690 Prince Edward Road;
+(Chapter 240) | 帳類 Bill Type | 04
 
-    - (viii) The South Kowloon Magistracy, 38 Gascoigne Road;
+批次日期： | 繳付定額罰款通知書
 
-    - (ix) The Kwun Tong Magistracy, Kwun Tong Lawcourts, 10 Lee Yue Mun Road;
+Batch Date: | (第3(3)條)
 
-    - (x) The North Kowloon Magistracy, 292 Tai Po Road. New Territories
+NOTICE DEMANDING PAYMENT OF FIXED PENALTY | 個人資料 PERSONAL DATA
 
-    - (xi) The Fanling Magistracy, Fanling Cross Roads, Fanling;
+(Section 3(3)) | FP M
 
-    - (xii) The Tsuen Wan Magistracy, 70 Taiho Road, Tsuen Wan;
+致：
 
-    - (xiii) The Shatin Magistracy, 1 Yi Ching Lane, Shatin;
+先寫姓氏 | To:
 
-    - (xiv) The Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun;
+Surname First | 地址：
 
-    - (xv) The District Office at Sai Kung, Sha Tin, Tai Po, North, Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing.
+of
 
-    - These offices receive payments during the hours of— Monday to Friday 9 a.m. to 4 p.m. (District Offices and Magistracies close 1-2 p.m.) Saturday 9 a.m. to 12 noon (District Offices close 11.30 a.m.)
+於 (日期) 大約 (時間) 在 (地點)
 
-  - 2. Cheques, drafts and cashier orders should be made payable to “Hong Kong Government” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post-dated cheques will not be accepted.
+On at about at
 
-  - 3. If payment is made by post, state the name and address of the person to whom the receipt should be forwarded— Name . Address . (L.N. 82 of 1989; L.N. 332 of 1991; L.N. 60 of 1994; L.N. 211 of 1994; L.N. 533 of 1995; 49 of 2000 s. 14; L.N. 159 of 2000; 50 of 2000 s. 6; L.N. 282 of 2000; L.N. 283 of 2000)
+發生一宗觸犯交通罪行的事件，違反
 
-FORM 2 | [reg. 2(2)]
+a traffic offence contrary to
 
-FIXED PENALTY (CRIMINAL PROCEEDING) ORDINANCE (Chapter 240) NOTICE DEMANDING PAYMENT OF FIXED PENALTY
+而你作為汽車 的 涉嫌須對該事件負法律責任。
+
+was committed for which you as the of the motor vehicle no. are alleged to be liable.
+
+該罪行屬本條例的附表內所列的第 項，即 。
+
+The offence is listed at item of the Schedule to the Ordinance, namely .
+
+本人現要求你繳付 ，作為該罪行的定額罰款，並通知你若意欲就該罪行的法
+
+I hereby demand payment of which is the Fixed Penalty for this offence and inform you
+
+律責任提出爭議，你必須通知本人。你必須在 或之前——
+
+that, if you wish to dispute liability for the offence, you should inform me. You are required—
+
+- (a) 繳付定額罰款；或 to pay the Fixed Penalty; or
+
+- (b) (使用背頁的通知書)告知本人你意欲就該罪行的法律責任提出爭議。 to notify me that you wish to dispute liability for the offence (by using the notification
+
+- form overleaf),
+
+on or before . 倘若你不按照本通知書繳付定額罰款或告知本人你意欲就法律責任提出爭議，本人將向
+
+If you do not pay the Fixed Penalty or notify me that you wish to dispute liability in accordance with this
+
+裁判官申請頒發命令，飭令你繳付定額罰款、一項相等於定額罰款數額的附加罰款及訟費。
+
+notice, an application will be made to a magistrate for an order that you pay the Fixed Penalty, an additional
+
+penalty equal to the amount of the Fixed Penalty and costs. 下列機印所示款項收訖。
+
+RECEIVED the sum imprinted below. 警務處處長( 代行)
+
+for Commissioner of Police
+
+日期：
+
+Date:
+
+繳款/通知爭議的最後日期： | 郵寄付款回條
+
+Last Date for Payment/Notification of Dispute: | Slip for Payment by Post
+
+請注意：
+
+Please note:
+
+1. 就此事根據本條例第3(1)條發出的通知書(號碼： )可能經已向你送達。
+
+A notice under section 3(1) of the Ordinance (No.: ) may already have been served on you in this case.
+
+如你已繳付該通知書所指明的定額罰款，則無須理會本通知書。 | C.R.C.
+
+If you have paid the Fixed Penalty specified by that notice, you should ignore | 105
+
+this demand. | FP M
+
+2. 款項應按照背面所載的指示繳付。
+
+Payment should be made according to the instructions set out overleaf.
+
+3. 若按照繳款辦法第1(e)段所示方法繳款，本通知書必須保持完整並於繳款時出示。
+
+For payment made in accordance with paragraph 1(e) of the Payment Instructions, this notice must be kept intact and produced at the time of payment.
+
+通知書號碼： 罪行編號： 定額罰款：
+
+Notice No.: Offence Code: Fixed Penalty:
+
+身分證號碼： 犯罪日期： 繳款類別：
+
+I.D. No.: Offence Date: Payment Type:
+
+繳款辦法： | PAYMENT INSTRUCTIONS :
+
+1. | 可按下列方式繳款—— | 1. | Payment may be made—
+
+(a) 使用銀行自動櫃員機繳款 在任何貼有“繳款服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例定額罰款”，並輸入帳單類別“04”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment Service” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “04” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
+
+(b) 使用「繳費聆」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費聆」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
+
+(c) 透過互聯網繳款 透過銀行或「繳費聆」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址： http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址︰http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例定額罰款”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address :http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address :http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
+
+(d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄香港告士打道郵政局信箱28000號(註明庫務署為收件人)。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment.
+
+(e) 親自繳款 親自或由代理人往下列辦事處繳付—— (i) 任何郵政局(郵政局信箱及流動郵政局除外)。如欲查詢有關地址及辦公時間，請致電香港郵政熱線︰2921 2222或瀏覽其網站(URL 位址： http://www.hongkongpost.com); | (e) In Person Payment may be made personally or by an agent at any of the following offices— (i) Any Post Office other than a post office letter box or a mobile post office. For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit their web site (URL address: http://www.hongkongpost.com);
+
+港島 (ii) 薄扶林道2號A西區裁判法院； (iii) 西灣河太安街29號東區法院大樓東區裁判法院； | Hong Kong Island (ii) Western Magistracy, 2A Pok Fu Lam Road; (iii) Eastern Magistracy, Eastern Law Courts Building, 29 Tai On Street, Sai Wan Ho;
+
+九龍 (iv) 亞皆老街147號M九龍城裁判法院大樓九龍城裁判法院； (v) 觀塘鯉魚門道10號觀塘法院大樓觀塘裁判法院； (vi) 大埔道292號北九龍裁判法院； | Kowloon (iv) Kowloon City Magistrates’ Courts, Kowloon City Law Courts Building, 147M Argyle Street; (v) Kwun Tong Magistracy, Kwun Tong Law Courts Building, 10 Lei Yue Mun Road, Kwun Tong; (vi) North Kowloon Magistracy, 292 Tai Po Road;
+
+新界 (vii) 粉嶺馬會道302號粉嶺裁判法院； (viii) 荃灣大河道70號荃灣法院大樓荃灣裁判法院； (ix) 沙田宜正里1號沙田法院大樓沙田裁判法院； (x) 屯門屯喜路1號屯門裁判法院。 | New Territories (vii) Fanling Magistracy, 302 Jockey Club Road, Fanling; (viii) Tsuen Wan Magistracy, Tsuen Wan Law Courts Building, 70 Tai Ho Road, Tsuen Wan; (ix) Shatin Magistracy, Shatin Law Courts Building, 1 Yi Ching Lane, Shatin; (x) Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun.
+
+上述裁判法院於下列時間收款—— 星期一 ：上午9時至下午1時； 至 及 星期五 下午2時至4時 星期六 ：上午9時至中午12時 本通知書必須保持完整並於繳款時出示。 | The above magistracies receive payments during the hours of— Monday : 9 a.m. to 1 p.m.; to and Friday 2 p.m. to 4 p.m. Saturday : 9 a.m. to 12 noon This notice must be kept intact and produced at the time of payment.
+
+2. 3. | 支票、匯票或本票均須以“香港特別行政區政府”或“特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 2. | Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
+
+3. | Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment.
+
+查詢： | Enquiries :
+
+如對本通知書有任何查詢，請致電中央交通違例檢控科。(電話：2866 6552) | For enquiries on this notice, please contact the Central Traffic Prosecutions Bureau. (Tel. : 2866 6552 )
+
+欲就法律責任提出爭議者請注意： | NOTES FOR THOSE WHO WISH TO DISPUTE LIABILITY :
+
+1. 若你意欲就上述罪行的法律責任提出爭議，可簽署下列表格，並於通知爭議的最後日期或該日之前將之交付本人，以告知本人你有此意欲。 2. 如你告知本人欲就上述罪行的法律責任提出爭議，事件會以告發方式交由裁判官按照上述條例裁定，傳票將會在適當時候向你送達。 3. 如你在告知本人欲就上述罪行的法律責任提出爭議後，沒有應傳票出庭應訊，或在應訊後你並沒有提出免責辯護或你提出瑣屑無聊或無理取鬧的免責辯護，則可被判繳付定額罰款、一項相等於定額罰款數額的附加罰款及訟費。 | 1. You may notify me, if you wish to dispute liability for the offence, by signing the form appended below and delivering it to me on or before the last day for notification of dispute. 2. If you notify me that you wish to dispute liability for the offence, the matter will be determined by a magistrate on information in accordance with the Ordinance and you will be served with a summons in due course. 3. If, having notified me that you wish to dispute liability for the offence, you do not appear in court to answer the summons or, having appeared, you offer no defence or a defence which is frivolous or vexatious, you are liable to the Fixed Penalty, an additional penalty equal to the amount of the Fixed Penalty and costs.
+
+《定額罰款(刑事訴訟)條例》
+
+(第240章) FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE
+
+(Chapter 240) 致 警務處處長意欲就罪行的法律責任提出爭議的通知書
+
+(第3(3)條) NOTIFICATION TO COMMISSIONER OF POLICE OF WISH TO DISPUTE
+
+LIABILITY FOR OFFENCE
 
 (Section 3(3))
 
-To: Surname first
+致：警務處處長 香港灣仔軒尼詩道1號 熙信大廈15樓 香港警務處交通總部第3組 | To : The Commissioner of Police Traffic Branch Headquarters, Unit 3 15th Floor, Asian House, 1 Hennessy Road, Wan Chai, Hong Kong.
 
-On at about at a traffic offence was committed for which you, as the of motor vehicle are alleged to be liable.
+就貴處根據《定額罰款(刑事訴訟)條例》第3(3)條所發出的通知書(詳情見背頁而本人經已閱悉)，本人意欲就該通知書所指罪行的法律責任提出爭議，特此通知。
 
-The offence is listed at item of the Schedule to the Ordinance,
+Take notice that I wish to dispute liability for the offence specified in your notice (details of which are given overleaf and of which I have taken notice) issued under section 3(3) of the Fixed Penalty (Criminal Proceedings) Ordinance.
 
-namely
+日期：
 
-I hereby demand payments of $ which is the fixed penalty for this offence and inform you that, if you wish to dispute liability for the offence, you should inform me.
+Date : . | .
 
-- You are required—
+簽名 Signature
 
-- (a) to pay the Fixed Penalty; or
+(L.N. 165 of 2001)
 
-- (b)
-
-- to notify me that you wish to dispute liability for the offence,
-
-- on or before If you do not pay the Fixed Penalty or notify me that you wish to dispute liability in accordance with this notice, an application will be made to a magistrate for an order that you pay the Fixed Penalty, an additional penalty equal to the Fixed Penalty, and costs. Date:
-
-- (Chief Inspector of Police)
-
-- for Commissioner of Police. RECEIVED the sum imprinted below.
-
-- P.T.O.
-
-- -
-
-- Last Date for Payment / Notification of Dispute
-
-- T.A.S.K.
-
-- 05
-
-- Please note: I. A notice under section 3(1) of the Ordinance (number ) may already have been served on you in this case. If you have paid the Fixed Penalty specified by that notice, you should ignore this demand. II. Payment should be made according to the instructions set out overleaf. III. This form (intact) must accompany the payment. It will be returned with a receipt.
-
-- PAYMENT INSTRUCTIONS
-
-  - 1. Payment may be made—
-
-- (a) BY POST ADDRESSED TO THE DIRECTOR OF ACCOUNTING SERVICES, P.O. BOX 8000, GENERAL POST OFFICE, HONG KONG; OR
-
-- (b)
-
-- PERSONALLY OR BY AN AGENT at any of the following offices—
-
-- Hong Kong Island
-
-  - (i) The Treasury, Central Collection and Payment Office, Central Government Offices (West Wing), 11 Ice House Street (side entrance to the building in Ice House Street);
-
-  - (ii) The Causeway Bay Sub-Treasury, Causeway Bay Magistracy Building, 2nd floor, 20 Electric Road;
-
-  - (iii) The Causeway Bay Magistracy, 20 Electric Road;
-
-  - (iv) The Western Magistracy, 2A Pok Fu Lam Road
-
-- Kowloon
-
-  - (v) The Yaumatei Sub-Treasury, 4th floor, 405 Nathan Road (Market Street entrance);
-
-  - (vi) The Kowloon City Sub-treasury, Man Sang Commercial Building, 1st floor, 348-352 Prince Edward Road (Corner of Prince Edward Road and Junction Road);
-
-  - (vii) The San Po Kong Magistracy, 690 Prince Edward Road;
-
-  - (viii) The South Kowloon Magistracy, 38 Gascoigne Road;
-
-  - (ix) The Kwun Tong Magistracy, 6 Tung Yan Street;
-
-  - (x) The North Kowloon Magistracy, 292 Tai Po Road. New Territories
-
-  - (xi) The Fanling Magistracy, Fanling Cross Roads, Fanling;
-
-  - (xii) The Tsuen Wan Magistracy, 70 Taiho Road, Tsuen Wan;
-
-  - (xiii) The Tai Po, North, Yuen Long, Tsuen Wan, Sha Tin, or Tuen Mun District Offices;
-
-  - (xiv) Kwai Chung Sub-District Headquarters, 31 Kwong Fai Circuit, Kwai Chung.
-
-  - These offices receive payments during the hours of— Monday to Friday 9 a.m. to 4 p.m. (District Offices and Magistracies close 1-2 p.m.) Saturday 9 a.m. to 12 noon (District Offices close 11.30 a.m.)
-
-    - 2. Cheques, drafts and cashier orders should be made payable to “Hong Kong Government” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post-dated cheques will not be accepted.
-
-    - Enquiries: For enquiries about this notice, please contact the Central Traffic Prosecutions Office (Tel.: 8329215)
-
-    - NOTES FOR THOSE WHO WISH TO DISPUTE LIABILITY:
-
-    - 1. You may notify me, if you wish to dispute liability for the offence, by signing the form appended below and delivering it to me on or before the last date for notification of dispute.
-
-    - 2. If you notify me that you wish to dispute liability for the offence, the matter will be determined by a magistrate on information in accordance with the Ordinance and you will be served with a summons in due course.
-
-    - 3. If, having notified me that you wish to dispute liability for the offence, you do not appear in court to answer the summons or, having appeared, you offer no defence or a defence which is frivolous or vexatious, you are liable to the Fixed Penalty, an additional penalty equal to the Fixed Penalty and costs. FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE (Chapter 240) NOTIFICATION TO COMMISSIONER OF POLICE OF WISH
-
-    - TO DISPUTE LIABILITY FOR OFFENCE (Section 3(3)) To: The Commissioner of Police Traffic Headquarters
-
-    - Sun Hung Kai Centre, 20th floor,
-
-    - 30 Harbour Road, Hong Kong. Take notice that I wish to dispute liability before a magistrate for the offence specified in your notice (details given overleaf) issued under section 3(3) of the Fixed Penalty (Criminal Proceedings) Ordinance. Signature
-
-- (L.N. 89 of 1984; L.N. 82 of 1989; L.N. 533 of 1995; 80 of 1997 s. 102)
+_
 
 FORM 3 | [regulation 4]
 
@@ -376,7 +510,17 @@ FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE (Chapter 240) CERTIFICATE OF IDEN
 
 NON-PAYMENT OF FIXED PENALTY (Section 8)
 
-- This is to certify that— A. On the at about the registered owner of the motor vehicle bearing registration mark was— B. On the the registered address of the person specified at A above was— C. On the the holder of driving licence number was— D. On the the registered address of the person specified at C above was— E. On the the registered address of the person specified at above was—
+- This is to certify that—
+
+- A. On the at about the registered owner of the motor vehicle bearing registration mark was—
+
+- B. On the the registered address of the person specified at A above was—
+
+- C. On the the holder of driving licence number was—
+
+- D. On the the registered address of the person specified at C above was—
+
+- E. On the the registered address of the person specified at above was—
 
 - F. Before the full payment of the Fixed Penalty in respect of the offence shown at item in the Schedule to the Fixed Penalty (Criminal Proceedings) Ordinance specified in a notice under section 3(3) of the Ordinance, bearing the number and dated was not made.
 
@@ -384,9 +528,7 @@ NON-PAYMENT OF FIXED PENALTY (Section 8)
 
 - . (Date) | . (Signature)
 
-- . (Full Name)
-
-- for Commissioner of Police.
+- . (Full Name) for Commissioner of Police.
 
 (L.N. 89 of 1984)
 
@@ -394,7 +536,9 @@ FORM 4 | [regulation 5]
 
 FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE (Chapter 240) CERTIFICATE OF CLEARANCE (Section 10(3))
 
-This is to certify that there are no fines or costs unpaid by . the registered owner of motor vehicle registration mark . Issued on the . day of . 19 . at . a.m./p.m.
+This is to certify that there are no fines or costs unpaid by .
+
+the registered owner of motor vehicle registration mark . Issued on the . day of . at . a.m./p.m.
 
 .
 
@@ -402,4 +546,4 @@ for Commissioner of Transport.
 
 NOTE: This certificate remains valid for not more than 72 hours from the time of issue.
 
-(L.N. 533 of 1995)
+(L.N. 533 of 1995; L.N. 165 of 2001)
