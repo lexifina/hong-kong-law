@@ -1985,3 +1985,7 @@ Item Body
 - 988. Hong Kong St. John Ambulance (Added L.N. 67 of 1999)
 
 - 989. Hong Kong Association for Democracy and People’s Livelihood (Added L.N. 67 of 1999)
+
+- 990. School of Professional And Continuing Education, The University of Hong Kong (Added L.N. 132 of 1999)
+
+- 991. China Business Centre, The Hong Kong Polytechnic University (Added L.N. 132 of 1999)
