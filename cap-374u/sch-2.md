@@ -61,3 +61,7 @@ Column 1 | Column 2
 (b) The section of the eastern kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction.
 
 5. | The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction. | All goods vehicles.
+
+6. | Tung Fai Road. (L.N. 207 of 2000) | All motor vehicles except franchised buses.
+
+7. | The road intersecting the south end of Tung Fai Road, being the area delineated by hatching on a plan numbered AMD/LOD/GZ/008A and deposited in the head office of the Authority. (L.N. 207 of 2000) | All motor vehicles except franchised buses.
