@@ -14,9 +14,9 @@ For the purpose of section 13(10) of this Regulation, the total current used in 
 
 - (d) 1/3 of the highest current which may be drawn by an MF or MF/HF transmitter for speech or DSC transmission on the frequency at which the current consumption of the transmitter is at a maximum;
 
-- (e) the highest current consumption of an INMARSAT ship earth station when it is receiving signals or tracking;
+- (e) the highest current consumption of an Inmarsat ship earth station when it is receiving signals or tracking; (L.N. 110 of 1998)
 
-- (f) 1/4 of the current which may be drawn by an INMARSAT ship earth station when it is transmitting in the mode at which the current consumption is at a maximum;
+- (f) 1/4 of the current which may be drawn by an Inmarsat ship earth station when it is transmitting in the mode at which the current consumption is at a maximum; (L.N. 110 of 1998)
 
 - (g) the current consumption of the Enhanced Group Call receiver, if it is installed; and
 
