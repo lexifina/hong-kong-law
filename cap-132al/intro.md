@@ -1,0 +1,5 @@
+LIBRARY (REGIONAL COUNCIL) BY-LAWS
+
+(Cap. 132 section 105L)
+
+[8 February 1974]
