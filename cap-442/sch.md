@@ -6,7 +6,7 @@ Item | Ordinance | Decision
 
 1. | Apprenticeship Ordinance (Cap. 47) | A decision of the Director of Apprenticeship or any public officer in the performance or exercise of any function, duty or power under the Ordinance.
 
-2. | Boilers and Pressure Vessels Ordinance (Cap. 56) | The revocation or suspension of an appointment as a boiler inspector, air receiver inspector or pressurized fuel container inspector under section 5A.
+2. | Boilers and Pressure Vessels Ordinance (Cap. 56) | (a) The revocation or suspension of an appointment as a boiler inspector, air receiver inspector or pressurized fuel container inspector under section 5A. (Amended 15 of 2002 s. 8) (b) A decision of the Boilers and Pressure Vessels Authority on the issue or endorsement of a certificate of competency under section 6(1)(a) or (3A)(a). (Added 15 of 2002 s. 8) (c) A decision of the Boilers and Pressure Vessels Authority to revoke or amend a certificate of competency under section 6(4)(a) or (b), as the case may be. (Added 15 of 2002 s. 8)
 
 3. | Employment Ordinance (Cap. 57) | A decision of the Commissioner for Labour under section 53(1) to refuse to issue or renew or to revoke a licence to operate an employment agency.
 
