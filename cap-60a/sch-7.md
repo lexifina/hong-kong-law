@@ -4,8 +4,6 @@
 
 SPECIFIED COUNTRIES OR PLACES
 
-Algeria
-
 Angola
 
 Republic of Armenia
@@ -20,12 +18,6 @@ Belgium
 
 Botswana
 
-Brazil
-
-Burkina Faso
-
-Cameroon
-
 Canada
 
 Central African Republic
@@ -38,9 +30,7 @@ Republic of Congo
 
 Cote d’Ivoire
 
-Cyprus
-
-Czech Republic
+Croatia
 
 Denmark
 
@@ -48,11 +38,7 @@ Finland
 
 France
 
-Gabon
-
 Germany
-
-Ghana
 
 Greece
 
@@ -72,8 +58,6 @@ Italy
 
 Japan
 
-Democratic People’s Republic of Korea
-
 Republic of Korea
 
 Lao People’s Democratic Republic
@@ -84,23 +68,11 @@ Lesotho
 
 Luxembourg
 
-Malaysia
-
-Mali
-
-Malta
-
 Mauritius
-
-Mexico
 
 Namibia
 
 The Netherlands
-
-Norway
-
-Philippines
 
 Poland
 
@@ -118,8 +90,6 @@ Spain
 
 Sri Lanka
 
-Swaziland
-
 Sweden
 
 Switzerland
@@ -127,12 +97,6 @@ Switzerland
 Tanzania
 
 Thailand
-
-Togo
-
-Tunisia
-
-Turkey
 
 Ukraine
 
@@ -144,8 +108,6 @@ United States of America
 
 Venezuela
 
-Vietnam
-
 Zimbabwe
 
-(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003; L.N. 128 of 2003)
+(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003; L.N. 128 of 2003; L.N. 202 of 2003)
