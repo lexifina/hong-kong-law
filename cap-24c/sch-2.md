@@ -18,4 +18,4 @@ Exceeding $600,000,000 but not exceeding $1,200,000,000 | 350000
 
 Exceeding $1,200,000,000 | $500,000 plus 0.01% of value over $2,000,000,000
 
-(L.N. 76 of 1993; L.N. 430 of 1997; L.N. 471 of 1997)
+(L.N. 76 of 1993; L.N. 430 of 1997; L.N. 471 of 1997; L.N. 166 of 1998; L.N. 207 of 1998)

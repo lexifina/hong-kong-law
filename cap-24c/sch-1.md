@@ -106,7 +106,7 @@ Authorization of advertisements etc.
 
 (b) item 10(b) | 20000
 
-12. | Where authorization under section 4(2)(g) of theProtection of Investors Ordinance (Cap. 335) is not limited to a period of less than 12 months, fee payable annually unless the authorization relates to any of the following— | 6000
+12. | Where authorization under section 4(2)(g) of the Protection of Investors Ordinance (Cap. 335) is not limited to a period of less than 12 months, fee payable annually unless the authorization relates to any of the following— | 6000
 
 (a) instruments specified in Part II of the Schedule to the Protection of Investors Ordinance (Cap. 335)
 
@@ -222,4 +222,4 @@ Miscellaneous fees
 
 30. | (Repealed L.N. 471 of 1997)
 
-(L.N. 76 of 1993; L.N. 173 of 1994; L.N. 430 of 1997; L.N. 471 of 1997)
+(L.N. 76 of 1993; L.N. 173 of 1994; L.N. 430 of 1997; L.N. 471 of 1997; L.N. 166 of 1998; L.N. 207 of 1998)
