@@ -1,0 +1,5 @@
+BUILDING (APPEAL) REGULATION
+
+(Cap. 123, section 38(1B))
+
+[16 November 1994]
