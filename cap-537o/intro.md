@@ -1,5 +1,3 @@
 UNITED NATIONS SANCTIONS (LIBERIA) REGULATION
 
-(Cap. 537, section 3)
-
-[14 December 2001]
+(Omitted as expired)
