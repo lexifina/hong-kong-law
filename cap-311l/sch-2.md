@@ -10,9 +10,9 @@ Any unleaded petrol shall—
 
 - (b) contain not more than 0.015% by weight of sulphur as determined by ISO 14596;
 
-- (c) have a motor octane number of not less than 85 as determined by EN 25163;
+- (c) have a motor octane number of not lower than 85 as determined by EN 25163;
 
-- (d) have a research octane number of not less than 95 as determined by EN 25164;
+- (d) have a research octane number of not lower than 95 as determined by EN 25164;
 
 - (e) contain not more than 1.0% by volume of benzene as determined by EN 12177;
 
@@ -24,7 +24,7 @@ Any unleaded petrol shall—
 
 - (i)
 
-  - (i) contain stablizing agent if it contains methanol; and
+  - (i) contain stabilizing agent if it contains methanol; and
 
   - (ii) in any event, contain not more than 3% by volume of methanol as determined by EN 1601;
 
@@ -52,6 +52,6 @@ Note: In this Schedule—
 
 - “EN” followed by a numerical symbol (“EN number”) means the test procedures of the European Standards commonly known by that EN number;
 
-- “ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Standards Organization commonly known by that ISO number.
+- “ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Organization for Standardization commonly known by that ISO number.
 
-(L.N. 156 of 2000)
+(L.N. 156 of 2000; L.N. 15 of 2002)
