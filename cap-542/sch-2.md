@@ -1,14 +1,20 @@
 # SCHEDULE 2
 
-[ss. 3, 22, 32, 33, 76 & 83 & Sch. 3] (Amended 48 of 1999 s. 44)
+[sections 3, 22, 32, 33, 76 & 83 & Schedule 3] (Amended 48 of 1999 s. 44)
 
 CONSTITUTION OF ELECTION COMMITTEE
 
-(The amendments to this Schedule (except amendments to section 10 in this Schedule) made by Ord. No. 48 of 1999 shall come into operation on—
+- (1. The amendments to this Schedule (except amendments to section 10 in this Schedule) made by Ord. No. 48 of 1999 shall come into operation on—
 
-- (a) 30 July 1999 for the purpose only of enabling arrangements to be made for the holding of the Election Committee subsector elections in 2000 to elect members of the Election Committee for the second term of office of the Legislative Council and for the holding of the second general election in 2000 to elect all Members of that Council;
+  - (a) 30 July 1999 for the purpose only of enabling arrangements to be made for the holding of the Election Committee subsector elections in 2000 to elect members of the Election Committee for the second term of office of the Legislative Council and for the holding of the second general election in 2000 to elect all Members of that Council;
 
-- (b) 1 July 2000 in so far as those amendments have not already come into operation.)
+  - (b) 1 July 2000 in so far as those amendments have not already come into operation.
+
+- 2. The amendments made by Ord. No. 15 of 2000 shall come into operation on-)
+
+  - (a) 4 March 2000 for the purpose only of enabling arrangements to be made for the holding of the Election Committee subsector elections in 2000 to elect members of the Election Committee for the second term of office of the Legislative Council and for the holding of the second general election in 2000 to elect all the Members of that Council;
+
+  - (b) 1 July 2000 in so far as it has not already come into operation.
 
 - PART 1 GENERAL PROVISION
 
@@ -24,11 +30,11 @@ CONSTITUTION OF ELECTION COMMITTEE
 
     - (5) The composition of the subsectors is as follows—
 
-      - (a) except in the case of the higher education and education subsectors and the tourism and hotel subsectors, the composition of a subsector specified in Table 1, 2 or 3 which has the same name as that of a functional constituency specified in section 20(1) of this Ordinance is to be the same as that of the functional constituency; (Amended 48 of 1999 s. 44)
+      - (a) except in the case of the higher education and education subsectors, the social welfare subsector and the tourism and hotel subsectors, the composition of a subsector specified in Table 1, 2 or 3 which has the same name as that of a functional constituency specified in section 20(1) of this Ordinance is to be the same as that of the functional constituency; (Amended 48 of 1999 s. 44; 15 of 2000 s. 4)
 
       - (b) each of the subsectors specified in column 2 of Table 4 is to be composed of the persons described in column 3 of the Table in relation to the subsector;
 
-      - (c) the Hong Kong Chinese Enterprises Association, tourism, hotel, Chinese medicine, higher education, education and Employers’ Federation of Hong Kong subsectors are to be composed as shown in Table 5; and (Amended 48 of 1999 s. 44)
+      - (c) the Hong Kong Chinese Enterprises Association, tourism, hotel, Chinese medicine, higher education, education, Employers’ Federation of Hong Kong and social welfare subsectors are to be composed as shown in Table 5; and (Amended 48 of 1999 s. 44; 15 of 2000 s. 4)
 
       - (d) the religious subsector is to be composed as described in Part 2.
 
@@ -89,6 +95,30 @@ CONSTITUTION OF ELECTION COMMITTEE
       - (b)
 
         - “New Territories District Councils” (新界各區議會), in relation to the subsector specified in item 6 of that Table, means the District Councils specified in items 10 to 18 of Schedule 2 to the District Councils Ordinance (Cap. 547). (Added 48 of 1999 s. 44)
+
+    - (12B) In item 9 of Table 5—
+
+      - (a)
+
+        - “non-profit making company” (非牟利公司) means a company formed for the purpose of promoting the aims specified in paragraph (4)(a), (b) or (c) opposite that item in column 3 of that Table, that is required by its constitution to apply its profits, if any, or other income solely in promoting those aims and to prohibit the payment of any dividend to its members; and
+
+      - (b)
+
+        - “social service” (社會服務) means the provision of any one or more of the following services for the benefit of the community—
+
+        - (i) family and child welfare services;
+
+        - (ii) services for young people;
+
+        - (iii) services for the elderly;
+
+        - (iv) services for offenders;
+
+        - (v) rehabilitation services;
+
+        - (vi) community development;
+
+        - (vii) social security. (Added 15 of 2000 s. 4)
 
     - (13)
 
@@ -250,6 +280,8 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - 8. | Employers’ Federation of Hong Kong | Members of the Employers’ Federation of Hong Kong entitled to vote at general meetings of the Federation.
 
+        - 9. | Social welfare | (1) Social workers registered under the Social Workers Registration Ordinance (Cap. 505). (2) Corporate members of the Hong Kong Council of Social Service entitled to vote at general meetings of the Council. (3) Exempted societies within the meaning of the Societies Ordinance (Cap. 151) that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter— (a) to promote the co-ordination and improvement of social service activities; or (b) to develop resources, such as manpower, funds and data, for social service activities; or (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs, and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure. (4) Non-profit making companies registered under the Companies Ordinance (Cap. 32) that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter— (a) to promote the co-ordination and improvement of social service activities; or (b) to develop resources, such as manpower, funds and data, for social service activities; or (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs, and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure. (Added 15 of 2000 s. 4)
+
 - PART 2 RELIGIOUS SUBSECTOR
 
   - 2. Composition of the religious subsector
@@ -384,7 +416,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - (1) Subject to this section—
 
-        - (a) a person is eligible to be registered as a voter for a subsector with the same name as a functional constituency (other than the education subsector, the tourism subsector and the catering subsector) if—
+        - (a) a person is eligible to be registered as a voter for a subsector with the same name as a functional constituency (other than the education subsector, the social welfare subsector, the tourism subsector and the catering subsector) if— (Amended 15 of 2000 s. 4)
 
           - (i) the person is eligible to be registered as an elector for that functional constituency and has made an application to be so registered; or
 
@@ -396,7 +428,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - (b) (Repealed 48 of 1999 s. 44)
 
-        - (c) a person is eligible to be registered as a voter for a subsector specified in Table 5 (other than the higher education and education subsectors and the tourism and hotel subsectors) if—
+        - (c) a person is eligible to be registered as a voter for a subsector specified in Table 5 (other than the higher education and education subsectors, the social welfare subsector and the tourism and hotel subsectors) if— (Amended 15 of 2000 s. 4)
 
           - (i) the person—
 
@@ -432,6 +464,20 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - (b) the person is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for the education functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of this Ordinance. (Replaced 48 of 1999 s. 44)
 
+      - (4A) A person is eligible to be registered as a voter for the social welfare subsector if—
+
+        - (a) the person is a person described in section 20M of this Ordinance and has made an application to be registered in the social welfare functional constituency;
+
+        - (b) the person is registered for the social welfare functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for the social welfare functional constituency by virtue of being a person described in section 20M of this Ordinance;
+
+        - (c) the person is a person described in paragraph (2), (3) or (4) of item 9 of Table 5 and has made an application to be registered for the social welfare subsector; or
+
+        - (d) the person—
+
+          - (i) is registered for the social welfare subsector in the existing subsector final register by virtue of being a person described in paragraph (2), (3) or (4) of item 9 of Table 5; and
+
+          - (ii) is not disqualified from being registered as a voter for that subsector. (Added 15 of 2000 s. 4)
+
       - (5) A person is eligible to be registered as a voter for the tourism subsector if the person—
 
         - (a) is a person described in section 20O(a), (b) or (c) of this Ordinance and has made an application to be registered for the tourism functional constituency; or
@@ -460,7 +506,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
         - (b) a person who is registered or applies to be registered as a voter for a subsector with the same name as a functional constituency, cannot be registered only as a voter for that subsector and not as an elector for the functional constituency; and
 
-        - (c) a person who is registered, or has made an application to be registered, as an elector for a functional constituency with the same name as a subsector may be registered only as a voter for that subsector (whether or not the person is eligible to be registered as a voter for any other subsector), except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4 or item 1, 4 or 8 of Table 5, the person may choose to be registered as a voter in the first-mentioned subsector or in that other subsector; and
+        - (c) a person who is registered, or has made an application to be registered, as an elector for a functional constituency with the same name as a subsector may be registered only as a voter for that subsector (whether or not the person is eligible to be registered as a voter for any other subsector), except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4 or item 1, 4, 8 or 9 (by virtue of subsection (4A)(c) or (d)) of Table 5, the person may choose to be registered as a voter in the first-mentioned subsector or in that other subsector; and (Amended 15 of 2000 s. 4)
 
         - (d) a person who ceases to be eligible to be registered as an elector for a functional constituency with the same name as a subsector ceases to be eligible to be registered as a voter for that subsector, but may, subject to paragraph (a) and subsection (8), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter.
 
@@ -518,7 +564,7 @@ CONSTITUTION OF ELECTION COMMITTEE
 
       - is eligible to be registered as a voter in that subsector.
 
-      - (16) A member of a body specified in item 1, 2, 3 or 8 of column 3 of Table 5 is not eligible to be registered as a voter for the relevant subsector, unless immediately before that member applies for registration as a voter—
+      - (16) A member of a body specified in item 1, 2, 3, 8 or 9 of column 3 of Table 5 is not eligible to be registered as a voter for the relevant subsector, unless immediately before that member applies for registration as a voter— (Amended 15 of 2000 s. 4)
 
         - (a) if the member is a corporate member of a body—
 
