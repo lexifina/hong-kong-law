@@ -1,0 +1,5 @@
+CHATER MASONIC SCHOLARSHIP FUND BY-LAWS
+
+(Cap. 1007, section 4)
+
+[1 November 1929]
