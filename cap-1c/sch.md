@@ -242,9 +242,9 @@ Director of Buildings as Building Authority | Mass Transit Railway (Land Resumpt
 
 Director of Buildings as Building Authority | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 303 of 1993)
 
-Director of Civil Engineering Services | Ferry Services Ordinance (Chapter 104), sections 16(1)(a), 20(1) and 28(4). (L.N. 133 of 1986)
+Director of Civil Engineering and Development (L.N. 6 of 2005) | Ferry Services Ordinance (Chapter 104), sections 16(1)(a), 20(1) and 28(4). (L.N. 133 of 1986)
 
-Director of Civil Engineering Services | Sand Ordinance (Chapter 147), sections 2 and 3. (L.N. 133 of 1986)
+Director of Civil Engineering and Development (L.N. 6 of 2005) | Sand Ordinance (Chapter 147), sections 2 and 3. (L.N. 133 of 1986)
 
 Director of Electrical and Mechanical Services | Aerial Ropeways (Safety) Ordinance (Chapter 211). (L.N. 133 of 1986)
 
@@ -446,7 +446,7 @@ Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003 and L.N. 21 of 2004. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004 and L.N. 6 of 2005. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -473,6 +473,8 @@ L.N. 158 of 2002 | Secretary for Education and Manpower | Employees Retraining O
 L.N. 192 of 2003 | Secretary for Home Affairs | New Territories Ordinance (Chapter 97), sections 15, 16 and 18. Hotel and Guesthouse Accommodation Ordinance (Chapter 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4). New Territories Land (Exemption) Ordinance (Chapter 452), section 12. Sex Discrimination Ordinance (Chapter 480), section 65(3) and Schedule 6 (sections 16(2) and (3) and 17(2)). Personal Data (Privacy) Ordinance (Chapter 486), section 14(6) and Schedule 2 (sections 2(2) and (3) and 3(2)). Heung Yee Kuk Ordinance (Chapter 1097), section 3(2)(c) and First Schedule (paragraph 6) and Second Schedule (paragraph 5(2)).
 
 L.N. 21 of 2004 | Collector of Stamp Revenue | Betting Duty Ordinance (Chapter 108), sections 6L(2), 6M(3), 6N(4), 6O(1), 6P, 6Q, 6R(1), 6S(4) and (7)(b), 6T(4)(a), 6V(2), (4) and (6)(b), 6ZL(1), 6ZM(1) and 7(3). Betting Duty Regulations (Chapter 108 subsidiary legislation A), regulation 3(4).
+
+L.N. 6 of 2005 | Commissioner of Mines | Dangerous Goods (Government Explosives Depots) Regulations (Chapter 295 subsidiary legislation D), regulations 3(2) and 7.
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 
