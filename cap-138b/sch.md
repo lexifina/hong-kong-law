@@ -36,6 +36,8 @@ THE POISONS LIST
 
 - Acitretin; its salts; its esters
 
+- Adalimumab
+
 - Adapalene; its salts; its esters
 
 - Adefovir; its salts
@@ -187,6 +189,8 @@ THE POISONS LIST
 - Amyl nitrite
 
 - Amylene hydrate
+
+- Anagrelide; its salts
 
 - Anastrozole; its salts
 
@@ -377,6 +381,8 @@ THE POISONS LIST
 - Plasma protein fractions
 
 - Thrombin
+
+- Bosentan; its salts
 
 - Botulinum toxin complexes
 
@@ -576,7 +582,11 @@ THE POISONS LIST
 
 - Diatrizoic acid
 
+- Ferucarbotran
+
 - Gadobenic acid
+
+- Gadobutrol
 
 - Gadodiamide
 
@@ -634,6 +644,8 @@ THE POISONS LIST
 
 - Propyliodone
 
+- Sulphur Hexafluoride
+
 - Tyropanoic acid
 
 - Corticorelin; its salts
@@ -671,6 +683,8 @@ THE POISONS LIST
 - Dalteparin; its salts
 
 - Dapsone
+
+- Darbepoetin alfa
 
 - Deanol acetamidobenzoate
 
@@ -781,6 +795,8 @@ THE POISONS LIST
 - Droperidol
 
 - Drotrecogin alfa
+
+- Dutasteride
 
 - Dyflos
 
@@ -977,6 +993,8 @@ THE POISONS LIST
 - Ganirelix; its salts
 
 - Gatifloxacin; its salts; its esters
+
+- Gefitinib; its salts
 
 - Gemcitabine; its salts
 
@@ -1178,6 +1196,8 @@ THE POISONS LIST
 
 - Levetiracetam; its salts
 
+- Levodropropizine; its salts
+
 - Levosimendan; its salts
 
 - Lidoflazine
@@ -1255,6 +1275,8 @@ THE POISONS LIST
 - Melitracen; its salts
 
 - Meloxicam; its salts
+
+- Memantine; its salts
 
 - Mephenesin; its esters; their salts
 
@@ -1828,6 +1850,8 @@ THE POISONS LIST
 
 - Rosoxacin; its salts
 
+- Rosuvastatin; its salts
+
 - Salbutamol; its salts
 
 - Salmeterol; its salts
@@ -2076,6 +2100,8 @@ THE POISONS LIST
 
 - Valsartan; its salts
 
+- Vardenafil; its salts
+
 - Vasopressins
 
 - Veralipride; its salts
@@ -2168,7 +2194,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003)
 
 - PART II A
 
