@@ -4,8 +4,6 @@
 
 FORM 1
 
-(Adaptation amendments retroactively made-see 23 of 1998 s. 2)
-
 COMMODITIES TRADING ORDINANCE (Chapter 250) COMMODITIES TRADING (DEALERS, COMMODITY TRADING ADVISERS
 
 AND REPRESENTATIVES) RULES APPLICATION FOR REGISTRATION AS A DEALER OR
@@ -80,7 +78,7 @@ A9 (a) Addresses of all premises at which any record or other document relating 
 
 - (c) If yes, give details:
 
-A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus lies with applicants for registration to satisfy the Securities and Futures Commission that they are fit and proper persons to be so registered. With this in mind, please set out your case that you are a fit and proper person to be registered. (Please refer to the Commission’s Fit and Proper Criteria Guidelines). A11 Set out in detail the nature of the business that you propose to carry on together with the services that you propose to provide. Include full details of key personnel (including names, addresses, relevant experience, qualifications etc.) and operational systems to satisfy the Securities and Futures Commission that you will be able to comply on an on-going basis with the requirements of the Commodities Trading Ordinance and the Securities and Futures Commission Ordinance (Cap. 24) and that you have adequate means of supervising employees and handling handling complaints. (Please refer to the Commission’s Fit and Proper Criteria Guidelines).
+A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus lies with applicants for registration to satisfy the Securities and Futures Commission that they are fit and proper persons to be so registered. With this in mind, please set out your case that you are a fit and proper person to be registered. (Please refer to the Commission’s Fit and Proper Criteria Guidelines). A11 Set out in detail the nature of the business that you propose to carry on together with the services that you propose to provide. Include full details of key personnel (including names, addresses, relevant experience, qualifications etc.) and operational systems to satisfy th Securities and Futures Commission that you will be able to comply on an on-going basis with the requirements of the Commodities Trading Ordinance and the Securities and Futures Commission Ordinance (Cap. 24) and that you have adequate means of supervising employees and handling handling complaints. (Please refer to the Commission’s Fit and Proper Criteria Guidelines).
 
 - PART B TO BE COMPLETED BY INDIVIDUAL APPLICANTS
 
@@ -284,21 +282,21 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - (d) If the firm is not still so registered, licensed, authorised or permitted, give reason(s):
 
-  - (e) If the application was unsuccessful, give reason(s) (if known to you): C13 (a) Is the firm, or has it been, a shareholder of the Hong Kong Exchange Company (ie the Hong Kong Futures Exchange Limited)? Yes/No*
+  - (e) If the application was unsuccessful, give reason(s) (if known to you): C13 (a) Is the firm, or has it been, an exchange participant of the Hong Kong Exchange Company (ie the Hong Kong Futures Exchange Limited)? Yes/No*
 
   - (b) If yes, give the following details:
 
-    - (i) Date it became shareholder
+    - (i) Date it became exchange participant
 
     - (ii) Date of and reasons for cessation (if applicable)
 
-  - (c) If an application by the firm to become a shareholder of the Hong Kong Exchange Company is under consideration, state date of submission of the application:
+  - (c) If an application by the firm to become an exchange participant of the Hong Kong Exchange Company is under consideration, state date of submission of the application:
 
-  - (d) If the firm is a shareholder of the Hong Kong Exchange Company, has the Hong Kong Exchange Company deposited towards the Compensation Fund under Part VIII of the Commodities Trading Ordinance in respect of the firm? Yes/No*
+  - (d) If the firm is an exchange participant of the Hong Kong Exchange Company, has the Hong Kong Exchange Company deposited towards the Compensation Fund under Part VIII of the Commodities Trading Ordinance in respect of the firm? Yes/No*
 
-  - (e) If yes, state date of deposit: C14 (a) Is the firm or has it been a member of any stock or futures exchange in Hong Kong or elsewhere, other than aforesaid? Yes/No*
+  - (e) If yes, state date of deposit: C14 (a) Is the firm or has it been an exchange participant/member of any stock or futures exchange in Hong Kong or elsewhere, other than aforesaid? Yes/No*
 
-  - (b) If yes, give the following details of each of such membership:
+  - (b) If yes, give the following details of each of such exchange participantship/membership:
 
   - 1 | 2 | 3
 
@@ -306,13 +304,13 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - (ii) Place of exchange
 
-  - (iii) Date on which the firm became member
+  - (iii) Date on which the firm became exchange participant/member
 
-  - (iv) Date and reasons of termination of membership (if applicable)
+  - (iv) Date and reasons of termination of exchange participantship/membership (if applicable)
 
-  - (c) State period (with dates) during which it participated in the above stock or futures exchange: C15 (a) Is the firm applying for membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
+  - (c) State period (with dates) during which it participated in the above stock or futures exchange: C15 (a) Is the firm applying for exchange participantship/membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
 
-  - (b) If yes, give name(s) and address(es) of exchange(s): C16 (a) Has the firm ever been refused membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+  - (b) If yes, give name(s) and address(es) of exchange(s): C16 (a) Has the firm ever been refused exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
   - (b) If yes, give the following details of each of such refusals:
 
@@ -324,7 +322,7 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - (iii) Reason(s) for such refusal (if known to you)
 
-  - C17 (a) Has the firm ever had its membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
+  - C17 (a) Has the firm ever had its exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
 
   - (b) If yes, give the following details of each of such revocations or suspensions:
 
@@ -396,7 +394,7 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - Dated this _ day of _ 19 _. (Note: This application must be signed by all general partners with their names in block letters.)
 
-- (23 of 1998 s. 2)
+- (23 of 1998 s. 2; 12 of 2000 s. 23)
 
 - PART D TO BE COMPLETED BY APPLICANTS THAT ARE CORPORATIONS
 
@@ -628,21 +626,21 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - (d) If the corporation is not still so registered, licensed, authorised or permitted, give reason(s):
 
-  - (e) If the application was unsuccessful, state reason(s) (if known to you): D21 (a) Is the corporation or has the corporation been a shareholder of the Hong Kong Exchange Company (ie the Hong Kong Futures Exchange Limited)? Yes/No*
+  - (e) If the application was unsuccessful, state reason(s) (if known to you): D21 (a) Is the corporation or has the corporation been an exchange participant of the Hong Kong Exchange Company (ie the Hong Kong Futures Exchange Limited)? Yes/No*
 
   - (b) If yes, give the following details:
 
-    - (i) Date it became shareholder
+    - (i) Date it became exchange participant
 
     - (ii) Date of and reasons for cessation (if applicable)
 
-  - (c) If an application by the corporation to become a shareholder of the Hong Kong Exchange Company is under consideration, please state date of submission of application:
+  - (c) If an application by the corporation to become an exchange participant of the Hong Kong Exchange Company is under consideration, please state date of submission of application:
 
-  - (d) If the corporation is a shareholder of the Hong Kong Exchange Company, has the Hong Kong Exchange Company deposited towards the Compensation Fund under Part VIII of the Commodities Trading Ordinance in respect of the corporation? Yes/No*
+  - (d) If the corporation is an exchange participant of the Hong Kong Exchange Company, has the Hong Kong Exchange Company deposited towards the Compensation Fund under Part VIII of the Commodities Trading Ordinance in respect of the corporation? Yes/No*
 
-  - (e) If yes, please state date of deposit: D22 (a) Is the corporation or has the corporation been a member of any stock or futures exchange in Hong Kong or elsewhere, other than aforesaid? Yes/No*
+  - (e) If yes, please state date of deposit: D22 (a) Is the corporation or has the corporation been an exchange participant/member of any stock or futures exchange in Hong Kong or elsewhere, other than aforesaid? Yes/No*
 
-  - (b) If yes, give the following details of each of such membership:
+  - (b) If yes, give the following details of each of such exchange participantship/membership:
 
   - 1 | 2 | 3
 
@@ -650,13 +648,13 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - (ii) Place of exchange
 
-  - (iii) Date it became member
+  - (iii) Date it became exchange participant/member
 
-  - (iv) Date and reasons of termination of membership (if applicable)
+  - (iv) Date and reasons of termination of exchange participantship/membership (if applicable)
 
-  - (c) State period (with dates) during which the corporation participated in the above stock or futures exchange: D23 (a) Is the corporation applying for membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
+  - (c) State period (with dates) during which the corporation participated in the above stock or futures exchange: D23 (a) Is the corporation applying for exchange participantship/membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
 
-  - (b) If yes, give name(s) and address(es) of exchange(s): D24 (a) Has the corporation ever been refused membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+  - (b) If yes, give name(s) and address(es) of exchange(s): D24 (a) Has the corporation ever been refused exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
   - (b) If yes, give the following details of each of such refusals:
 
@@ -668,7 +666,7 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - (iii) Reason for refusal (if known to you)
 
-  - D25 (a) Has the corporation ever had its membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
+  - D25 (a) Has the corporation ever had its exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
 
   - (b) If yes, give the following details of each of such revocations or suspensions:
 
@@ -760,7 +758,7 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - Dated this _ day of _ 19 _. (Note: This form must be signed by two directors, including the Chairman, with their names in block letters) Signed on behalf of the corporation:
 
-- (23 of 1998 s. 2)
+- (23 of 1998 s. 2; 12 of 2000 s. 23)
 
 - FORM 2 COMMODITIES TRADING ORDINANCE (Chapter 250) COMMODITIES TRADING (DEALERS, COMMODITY TRADING ADVISERS
 
@@ -878,9 +876,9 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
     - (iii) Nature of business
 
-    - (iv) If employer is or has been a registered person under the Commodities Trading Ordinance and/or the Securities Ordinance (Cap. 333), type(s) of registration and number(s)
+    - (iv) If employer is or has been a registered person under the Commodities TradingOrdinance and/or the Securities Ordinance (Cap. 333), type(s) of registration and number(s)
 
-    - (v) Capacity in which employed (give details of employment duties on a separate sheet)
+    - (v) Capacity in which employed (give details of employmentduties on a separate sheet)
 
     - (vi) Date of commencement of employment
 
@@ -910,27 +908,27 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - 15.
 
-    - (a) Is the relevant person or has he/she been a shareholder of the Hong Kong Exchange Company (ie Hong Kong Futures Exchange Limited)? Yes/No*
+    - (a) Is the relevant person or has he/she been an exchange participant of the Hong Kong Exchange Company (ie Hong Kong Futures Exchange Limited)? Yes/No*
 
     - (b) If yes, give the following details:
 
-      - (i) Date became a shareholder
+      - (i) Date became an exchange participant
 
-      - (ii) Date of ceasing to be a shareholder (if applicable)
+      - (ii) Date of ceasing to be an exchange participant (if applicable)
 
       - (iii) Reason(s) for cessation (if applicable)
 
-    - (c) If an application by the relevant person to become a shareholder of the Hong Kong Exchange Company is under consideration, please state date of submission of application:
+    - (c) If an application by the relevant person to become an exchange participant of the Hong Kong Exchange Company is under consideration, please state date of submission of application:
 
-    - (d) If the relevant person is a shareholder of the Hong Kong Exchange Company, has the Hong Kong Exchange Company deposited towards the Compensation Fund under Part VIII of the Commodities Trading Ordinance in respect of him/her? Yes/No*
+    - (d) If the relevant person is an exchange participant of the Hong Kong Exchange Company, has the Hong Kong Exchange Company deposited towards the Compensation Fund under Part VIII of the Commodities Trading Ordinance in respect of him/her? Yes/No*
 
     - (e) If yes, state date of deposit:
 
   - 16.
 
-    - (a) Is the relevant person or has he/she been a member of any stock or futures exchange in Hong Kong or elsewhere, other than aforesaid? Yes/No*
+    - (a) Is the relevant person or has he/she been an exchange participant/member of any stock or futures exchange in Hong Kong or elsewhere, other than aforesaid? Yes/No*
 
-    - (b) If yes, give the following details of each of such membership:
+    - (b) If yes, give the following details of each of such exchange participantship/membership:
 
     - 1 | 2 | 3
 
@@ -938,23 +936,23 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
     - (ii) Place of exchange
 
-    - (iii) Date became a member
+    - (iii) Date became an exchange participant/member
 
-    - (iv) Date of termination of membership (if applicable)
+    - (iv) Date of termination of exchange participantship/membership (if applicable)
 
-    - (v) Reason(s) for termination of membership
+    - (v) Reason(s) for termination of exchange participantship/membership
 
     - (vi) Period (with dates) during which he/she participated in the above stock or futures exchange
 
   - 17.
 
-    - (a) Is the relevant person applying for membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
+    - (a) Is the relevant person applying for exchange participantship/membership of any stock or futures exchange(s) in Hong Kong or elsewhere? Yes/No*
 
     - (b) If yes, give name(s) and address(es) of exchange(s):
 
   - 18.
 
-    - (a) Has the relevant person or a company of which he/she is/was a director or a firm of which he/she is/was a partner ever been refused membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
+    - (a) Has the relevant person or a company of which he/she is/was a director or a firm of which he/she is/was a partner ever been refused exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere? Yes/No*
 
     - (b) If yes, give the following details of each of such refusals:
 
@@ -968,7 +966,7 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - 19.
 
-    - (a) Has the relevant person or a company of which he/she is/was a director or a firm of which he/she is/was a partner ever had his/her/its membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
+    - (a) Has the relevant person or a company of which he/she is/was a director or a firm of which he/she is/was a partner ever had his/her/its exchange participantship/membership of a stock or futures exchange in Hong Kong or elsewhere revoked or suspended? Yes/No*
 
     - (b) If yes, give the following details of each of such revocations or suspensions:
 
@@ -1156,15 +1154,17 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
     - Full Name: _
 
-    - FORM 3 COMMODITIES TRADING ORDINANCE (CHAPTER 250) COMMODITIES TRADING (DEALERS, COMMODITY TRADING ADVISERS
+  - (L.N. 440 of 1993; 12 of 2000 s. 23)
 
-    - AND REPRESENTATIVES) RULES APPLICATION FOR REGISTRATION AS A DEALER’S
+  - FORM 3 COMMODITIES TRADING ORDINANCE (CHAPTER 250) COMMODITIES TRADING (DEALERS, COMMODITY TRADING ADVISERS
 
-    - REPRESENTATIVE OR COMMODITY TRADING ADVISER’S REPRESENTATIVE
+  - AND REPRESENTATIVES) RULES APPLICATION FOR REGISTRATION AS A DEALER’S
 
-    - IMPORTANT-If you are in doubt as to how to complete this application, you should consult your solicitor or other professional advisers. WARNING -Section 40 of the Commodities Trading Ordinance makes it an offence punishable with a maximum fine of $20,000 and 2 years’ imprisonment for a person to make a false or misleading representation for the purposes of obtaining, either for himself/herself or any other person, registration under Part IV of the Ordinance.
+  - REPRESENTATIVE OR COMMODITY TRADING ADVISER’S REPRESENTATIVE
 
-      - The applicant hereby applies for registration as a: DEALER’S REPRESENTATIVE □ COMMODITY TRADING ADVISER’S □ REPRESENTATIVE (please tick appropriate box) NOTES:
+  - IMPORTANT-If you are in doubt as to how to complete this application, you should consult your solicitor or other professional advisers. WARNING -Section 40 of the Commodities Trading Ordinance makes it an offence punishable with a maximum fine of $20,000 and 2 years’ imprisonment for a person to make a false or misleading representation for the purposes of obtaining, either for himself/herself or any other person, registration under Part IV of the Ordinance.
+
+    - The applicant hereby applies for registration as a: DEALER’S REPRESENTATIVE □ COMMODITY TRADING ADVISER’S □ REPRESENTATIVE (please tick appropriate box) NOTES:
 
   - 1. If there is insufficient space to complete your answer to any question, please continue on a separate sheet, specify the question to which the sheet relates and add your signature.
 
@@ -1412,17 +1412,11 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - 26. Give two references from persons who have known you personally for not less than 3 years:
 
-    - (a) I _ of _ (name of referee) (address and occupation of referee)
-
-  - have personally known _. for a period
-
-  - (name of the applicant)
+    - (a) I _ of _ (name of referee) (address and occupation of referee) have personally known _. for a period (name of the applicant)
 
   - of _ .
 
-  - (number of years)
-
-  - I came to know the applicant on _
+  - (number of years) I came to know the applicant on _
 
   - (approximate date on which the referee first met
 
@@ -1432,13 +1426,13 @@ A10 Under the Securities and Futures Commission Ordinance (Cap. 24), the onus li
 
   - To the best of my knowledge, the applicant is a person of good character and is a fit and proper person to be registered as a dealer’s/commodity trading adviser’s* representative. Dated this _ day of _ 19 _.
 
-  - Signature _ Name _
+  - Signature _
+
+  - Name _
 
   - (in block letters)
 
-    - (b) I _ of _
-
-    - (name of referee) (address and occupation of referee) have personally known _ for a period (name of the applicant) of _ . (number of years) I came to know the applicant on _
+    - (b) I _ of _ (name of referee) (address and occupation of referee) have personally known _ for a period (name of the applicant) of _ . (number of years) I came to know the applicant on _
 
     - (approximate date on which the referee first met the applicant and the extent of the
 
