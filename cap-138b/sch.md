@@ -392,6 +392,8 @@ THE POISONS LIST
 
 - Buprenorphine; its salts
 
+- Bupropion; its salts
+
 - Buserelin; its salts
 
 - Buspirone; its salts
@@ -453,6 +455,8 @@ THE POISONS LIST
 - Celiprolol; its salts
 
 - Cerivastatin; its salts
+
+- Cetrorelix; its salts; its esters; their salts
 
 - Chlofenamic acid; its salts
 
@@ -819,6 +823,8 @@ THE POISONS LIST
 - Etretinate
 
 - Etryptamine; its salts
+
+- Exemestane; its salts
 
 - Famciclovir; its salts
 
@@ -1292,6 +1298,8 @@ THE POISONS LIST
 
 - Morpheridine; its salts
 
+- Moxifloxacin; its salts
+
 - Muromonab-CD3
 
 - Mustine and any other N-substituted derivative of di-(2-chloroethyl)amine; their salts
@@ -1700,6 +1708,8 @@ THE POISONS LIST
 
 - Ropivacaine; its salts
 
+- Rosiglitazone; its salts
+
 - Rosoxacin; its salts
 
 - Salbutamol; its salts
@@ -1769,6 +1779,8 @@ THE POISONS LIST
 - Tazarotene; its salts
 
 - Telmisartan; its salts
+
+- Temozolomide; its salts
 
 - Teniposide
 
@@ -2004,7 +2016,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000)
 
 - PART II A
 
@@ -2084,9 +2096,7 @@ THE POISONS LIST
 
 - Terbutaline; its salts
 
-- Tretoquinol; its salts
-
-- Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols.
+- Tretoquinol; its salts Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols.
 
 - B
 
