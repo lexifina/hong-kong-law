@@ -254,11 +254,11 @@ Certificate of Registration (Article 4(8))
 
 - Licensing of Aerodromes (Article 68)
 
-- 14. The fee for the issue of an aerodrome licence shall be an amount equal to the costs of the investigations required by the Chief Executive into the adequacy of the operational and safety facilities provided, but shall not exceed the amount specified in the following table— (36 of 1999 s. 3)
+- 14.
 
-- The weight certified in the licence application as being the maximum total weight authorized of the heaviest aircraft which the applicant expects to use the aerodrome, while the licence is in force, for the purpose of public transport of passengers or of instruction in flying. | Maximum charge
+- The fee for the issue of an aerodrome licence shall be an amount equal to the costs of the investigations required by the Chief Executive into the adequacy of the operational and safety facilities provided, but shall not exceed $10,000,000.
 
-- Not exceeding 2730 kg. Exceeding 2730 kg. | $3,380 $6,760
+- (L.N. 53 of 1998; 36 of 1999 s. 3)
 
 - Copies of Documents (Article 91(3))
 
