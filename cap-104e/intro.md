@@ -1,0 +1,5 @@
+“STAR” FERRY COMPANY, LIMITED, BY-LAWS
+
+(Cap. 104, section 45(1))
+
+[13 July 1984]
