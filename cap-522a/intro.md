@@ -1,0 +1,5 @@
+REGISTERED DESIGNS RULES
+
+(Cap. 522, sections 79, 80, 81 and 82)
+
+[27 June 1997] L.N. 368 of 1997
