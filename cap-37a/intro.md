@@ -1,0 +1,5 @@
+LIMITED PARTNERSHIPS RULES
+
+(Cap. 37, section 15)
+
+[13 December 1912]
