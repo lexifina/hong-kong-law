@@ -44,6 +44,8 @@ X | 83 | the whole, other than subsections (1)(b), (c), (d) and (e), and (3)
 
 89 to 93 | the whole
 
-103, 104 | the whole
+104 | the whole
 
-\- | Schedules 1, 2 and 5 | the whole
+— | Schedules 1, 2 and 5 | the whole
+
+(Amended 64 of 1999 s. 3)
