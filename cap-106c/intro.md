@@ -1,0 +1,5 @@
+CHARGES FOR RADIOTELEGRAMS ORDER
+
+(Cap. 106, section 38)
+
+[1 October 1981]
