@@ -1,185 +1,247 @@
 # SCHEDULE
 
-[paras. 3, 4, 4A, 4B, 5 & 8] (L.N. 558 of 1994)
+[paras. 3, 4A, 4B, 5 & 8] (L.N. 558 of 1994; L.N. 188 of 1999)
 
-- PART I HEALTH WARNINGS AND TAR GROUP DESIGNATIONS
+- PART I (Repealed L.N. 188 of 1999)
 
-- ON PACKETS OF LESS THAN 20 CIGARETTES
+- PART II HEALTH WARNINGS AND INDICATION OF TAR
 
-Form 1 | HK GOVT. HEALTH WARNING SMOKING HARMS YOURSELF AND OTHERS 香港政府忠告市民 吸煙害己害人
+- AND NICOTINE YIELDS ON PACKETS
 
-LOW TO MIDDLE TAR 焦油含量低至中
-
-Form 2 | HK GOVT. HEALTH WARNING SMOKING CAN CAUSE HEART DISEASE 香港政府忠告市民 吸煙可引致心臟病
-
-LOW TO MIDDLE TAR 焦油含量低至中
-
-Form 3 | HK GOVT. HEALTH WARNING SMOKING CAN CAUSE CANCER 香港政府忠告市民 吸煙可以致癌
-
-LOW TO MIDDLE TAR 焦油含量低至中
-
-Form 4 | HK GOVT. HEALTH WARNING SMOKING CAN KILL 香港政府忠告市民 吸煙可以致命
-
-LOW TO MIDDLE TAR 焦油含量低至中
-
-- PART II HEALTH WARNINGS AND TAR GROUP DESIGNATIONS ON
-
-- PACKETS OF 20 OR MORE CIGARETTES AND
+- OF 20 OR MORE CIGARETTES AND
 
 - ON THEIR RETAIL CONTAINERS
 
-Form 1 | HK GOVT. HEALTH WARNING SMOKING HARMS YOURSELF AND OTHERS 香港政府忠告市民 吸煙害己害人
+Form 1 | TAR: 9 mg NICOTINE: 2.5 mg
 
-LOW TO MIDDLE TAR 焦油含量低至中
+English Version | SMOKING KILLS
 
-Or alternative versions
+HKSAR GOVERNMENT HEALTH WARNING
 
-(a) | HK GOVT. HEALTH WARNING SMOKING HARMS YOURSELF AND OTHERS 香港政府忠告市民 吸煙害己害人
+焦油： 9 毫克 尼古丁： 2.5 毫克
 
-LOW TO MIDDLE TAR 焦油含量低至中
+Chinese Version | 吸煙足以致命
 
-(b) | HK GOVT. HEALTH WARNING SMOKING HARMS YOURSELF AND OTHERS 香港政府忠告市民 吸煙害己害人
+特區政府忠告市民
 
-LOW TO MIDDLE TAR 焦油含量低至中
+Form 2 | TAR: 9 mg NICOTINE: 2.5 mg
 
-(L.N. 237 of 1993)
+English Version | SMOKING CAUSES CANCER
 
-Form 2 | HK GOVT. HEALTH WARNING SMOKING CAN CAUSE HEART DISEASE 香港政府忠告市民 吸煙可引致心臟病
+HKSAR GOVERNMENT HEALTH WARNING
 
-LOW TO MIDDLE TAR 焦油含量低至中
+焦油： 9 毫克 尼古丁： 2.5 毫克
 
-Or an alternative version
+Chinese Version | 吸煙引致癌病
 
-HK GOVT. HEALTH WARNING SMOKING CAN CAUSE HEART DISEASE 香港政府忠告市民 吸煙可引致心臟病
+特區政府忠告市民
 
-LOW TO MIDDLE TAR 焦油含量低至中
+Form 3 | TAR: 9 mg NICOTINE: 2.5 mg
 
-Form 3 | HK GOVT. HEALTH WARNING SMOKING CAN CAUSE CANCER 香港政府忠告市民 吸煙可以致癌
+English Version | SMOKING CAUSES HEART DISEASE
 
-LOW TO MIDDLE TAR 焦油含量低至中
+HKSAR GOVERNMENT HEALTH WARNING
 
-Or an alternative version
+焦油： 9 毫克 尼古丁： 2.5 毫克
 
-HK GOVT. HEALTH WARNING SMOKING CAN CAUSE CANCER 香港政府忠告市民 吸煙可以致癌
+Chinese Version | 吸煙引致心臟病
 
-LOW TO MIDDLE TAR 焦油含量低至中
+特區政府忠告市民
 
-Form 4 | HK GOVT. HEALTH WARNING SMOKING CAN KILL 香港政府忠告市民 吸煙可以致命
+Form 4 | TAR: 9 mg NICOTINE: 2.5 mg
 
-LOW TO MIDDLE TAR 焦油含量低至中
+English Version | SMOKING CAUSES LUNG CANCER
 
-Or an alternative version
+HKSAR GOVERNMENT HEALTH WARNING
 
-HK GOVT. HEALTH WARNING SMOKING CAN KILL 香港政府忠告市民 吸煙可以致命
+焦油： 9 毫克 尼古丁： 2.5 毫克
 
-LOW TO MIDDLE TAR 焦油含量低至中
+Chinese Version | 吸煙引致肺癌
 
-- PART III HEALTH WARNINGS ON ADVERTISEMENTS
+特區政府忠告市民
 
-  - 1.
+Form 5 | TAR: 9 mg NICOTINE: 2.5 mg
 
-    - (1) From 1 January to 31 March (both dates inclusive) of a year, the prevailing health warning shall be—
+English Version | SMOKING CAUSES RESPIRATORY DISEASES
 
-    - HK GOVERNMENT HEALTH WARNING SMOKING CAN KILL
+HKSAR GOVERNMENT HEALTH WARNING
 
-    - ( | 香港政府忠告市民 | )
+焦油： 9 毫克 尼古丁： 2.5 毫克
 
-    - 吸煙可以致命
+Chinese Version | 吸煙引致 呼吸系統疾病
 
-    - (2) Alternative versions, which may be used where space is restricted due to the shape of the advertisement are— (a) HK GOVERNMENT HEALTH WARNING SMOKING CAN KILL
+特區政府忠告市民
 
-    - ( 香港政府忠告市民 吸煙可以致命 )
+Form 6 | TAR: 9 mg NICOTINE: 2.5 mg
 
-    - (b) | HK GOVERNMENT HEALTH WARNING SMOKING CAN KILL
+English Version | SMOKING HARMS YOUR CHILDREN
 
-    - ( | 香港政府忠告市民 吸煙 可以致命 | )
+HKSAR GOVERNMENT HEALTH WARNING
 
-  - 2.
+焦油： 9 毫克 尼古丁： 2.5 毫克
 
-    - (1) From 1 April to 30 June (both dates inclusive) of a year, the prevailing health warning shall be— HK GOVERNMENT HEALTH WARNING
+Chinese Version | 吸煙禍及子女
 
-    - SMOKING CAN CAUSE CANCER
+特區政府忠告市民
 
-    - ( | 香港政府忠告市民 | )
+(L.N. 188 of 1999)
 
-    - 吸煙可以致癌
+- PART IIA HEALTH WARNINGS ON PACKETS, CONTAINERS,
 
-    - (2) Alternative versions, which may be used where space is restricted due to the shape of the advertisement are— (a) HK GOVERNMENT HEALTH WARNING SMOKING CAN CAUSE CANCER
+- DRUMS OR WRAPPING CONTAINING
 
-    - (香港政府忠告市民 吸煙可以致癌)
+- CIGARS, PIPE TOBACCO AND
 
-    - (b) | HK GOVERNMENT
+- CIGARETTE TOBACCO
 
-    - HEALTH WARNING SMOKING CAN CAUSE CANCER
+Form 1 | HKSAR GOVERNMENT HEALTH WARNING
 
-    - ( | 香港政府忠告市民 | )
+English Version | SMOKING KILLS
 
-    - 吸煙
+特區政府忠告市民
 
-    - 可以致癌
+Chinese Version | 吸煙足以致命
 
-  - 3.
+Form 2 | HKSAR GOVERNMENT HEALTH WARNING
 
-    - (1) From 1 July to 30 September (both dates inclusive) of a year, the prevailing health warning shall be— HK GOVERNMENT HEALTH WARNING
+English Version | SMOKING CAUSES CANCER
 
-    - SMOKING HARMS YOURSELF AND OTHERS
+特區政府忠告市民
 
-    - ( | 香港政府忠告市民 | )
+Chinese Version | 吸煙引致癌病
 
-    - 吸煙害己害人
+Form 3 | HKSAR GOVERNMENT HEALTH WARNING
 
-    - (2) Alternative versions, which may be used where space is restricted due to the shape of the advertisement are— (a) HK GOVERNMENT HEALTH WARNING SMOKING HARMS YOURSELF AND OTHERS (香港政府忠告市民 吸煙害己害人)
+English Version | SMOKING CAUSES HEART DISEASE
 
-    - (b) | HK GOVERNMENT
+特區政府忠告市民
 
-    - HEALTH WARNING SMOKING HARMS YOURSELF AND OTHERS
+Chinese Version | 吸煙引致心臟病
 
-    - ( | 香港政府忠告市民 | )
+Form 4 | HKSAR GOVERNMENT HEALTH WARNING
 
-    - 吸煙
+English Version | SMOKING CAUSES LUNG CANCER
 
-    - 害己害人
+特區政府忠告市民
 
-  - 4.
+Chinese Version | 吸煙引致肺癌
 
-    - (1) From 1 October to 31 December (both dates inclusive) of a year, the prevailing health warning shall be— HK GOVERNMENT HEALTH WARNING
+Form 5 | HKSAR GOVERNMENT HEALTH WARNING
 
-    - SMOKING CAN CAUSE HEART DISEASE
+English Version | SMOKING CAUSES RESPIRATORY DISEASES
 
-    - ( | 香港政府忠告市民 | )
+特區政府忠告市民
 
-    - 吸煙可引致心臟病
+Chinese Version | 吸煙引致 呼吸系統疾病
 
-    - (2) Alternative versions, which may be used where space is restricted due to the shape of the advertisement are— (a) HK GOVERNMENT HEALTH WARNING SMOKING CAN CAUSE HEART DISEASE (香港政府忠告市民 吸煙可引致心臟病)
+Form 6 | HKSAR GOVERNMENT HEALTH WARNING
 
-    - (b) | HK GOVERNMENT
+English Version | SMOKING HARMS YOUR CHILDREN
 
-    - HEALTH WARNING SMOKING CAN CAUSE HEART DISEASE
+特區政府忠告市民
 
-    - ( | 香港政府忠告市民 | )
+Chinese Version | 吸煙禍及子女
 
-    - 吸煙可引致
+(L.N. 188 of 1999)
 
-    - 心臟病
+- PART IIB HEALTH WARNING ON PACKET, CONTAINER,
 
-- PART IV MEASUREMENT OF AREA OF PRESCRIBED PARTICULARS
+- DRUM OR WRAPPING CONTAINING A CIGAR
 
-香港政府忠告市民 吸煙害己害人
+- WHICH IS SOLD INDIVIDUALLY
 
-HK GOVERNMENT HEALTH WARNING SMOKING CAN CAUSE HEART DISEASE LOW TAR
+Form 1 | HKSAR GOVERNMENT HEALTH WARNING SMOKING KILLS 特區政府忠告市民 吸煙足以致命
 
-香港政府忠告市民 吸煙可引致心臟病 焦油含量低
+Form 2 | HKSAR GOVERNMENT HEALTH WARNING SMOKING CAUSES CANCER 特區政府忠告市民 吸煙引致癌病
 
-(L.N. 413 of 1992)
+Form 3 | HKSAR GOVERNMENT HEALTH WARNING SMOKING CAUSES HEART DISEASE 特區政府忠告市民 吸煙引致心臟病
+
+Form 4 | HKSAR GOVERNMENT HEALTH WARNING SMOKING CAUSES LUNG CANCER 特區政府忠告市民 吸煙引致肺癌
+
+Form 5 | HKSAR GOVERNMENT HEALTH WARNING SMOKING CAUSES RESPIRATORY DISEASES 特區政府忠告市民 吸煙引致呼吸系統疾病
+
+Form 6 | HKSAR GOVERNMENT HEALTH WARNING SMOKING HARMS YOUR CHILDREN 特區政府忠告市民 吸煙禍及子女
+
+(L.N. 188 of 1999)
+
+- PART III HEALTH WARNINGS ON TOBACCO
+
+- ADVERTISEMENTS ON DISPLAY
+
+  - 1. From 1 January to the last day of February (both dates inclusive) of a year, the prevailing health warning shall be—
+
+  - HKSAR GOVERNMENT HEALTH WARNING
+
+  - English Version | SMOKING KILLS
+
+  - 特區政府忠告市民
+
+  - Chinese Version | 吸煙足以致命
+
+  - 2. From 1 March to 30 April (both dates inclusive) of a year, the prevailing health warning shall be—
+
+  - HKSAR GOVERNMENT HEALTH WARNING
+
+  - English Version | SMOKING CAUSES CANCER
+
+  - 特區政府忠告市民
+
+  - Chinese Version | 吸煙引致癌病
+
+  - 3. From 1 May to 30 June (both dates inclusive) of a year, the prevailing health warning shall be—
+
+  - HKSAR GOVERNMENT HEALTH WARNING
+
+  - English Version | SMOKING CAUSES HEART DISEASE
+
+  - 特區政府忠告市民
+
+  - Chinese Version | 吸煙引致心臟病
+
+  - 4. From 1 July to 31 August (both dates inclusive) of a year, the prevailing health warning shall be—
+
+  - HKSAR GOVERNMENT HEALTH WARNING
+
+  - English Version | SMOKING CAUSES LUNG CANCER
+
+  - 特區政府忠告市民
+
+  - Chinese Version | 吸煙引致肺癌
+
+  - 5. From 1 September to 31 October (both dates inclusive) of a year, the prevailing health warning shall be—
+
+  - HKSAR GOVERNMENT HEALTH WARNING
+
+  - English Version | SMOKING CAUSES RESPIRATORY DISEASES
+
+  - 特區政府忠告市民
+
+  - Chinese Version | 吸煙引致 呼吸系統疾病
+
+  - 6. From 1 November to 31 December (both dates inclusive) of a year, the prevailing health warning shall be—
+
+  - HKSAR GOVERNMENT HEALTH WARNING
+
+  - English Version | SMOKING HARMS YOUR CHILDREN
+
+  - 特區政府忠告市民
+
+  - Chinese Version | 吸煙禍及子女
+
+  - (L.N. 188 of 1999)
+
+- PART IV (Repealed L.N. 188 of 1999)
 
 - PART V RESTAURANT SIGNS Form A Form B (L.N. 558 of 1994)
 
 - PART VI SIGN WHEN OFFERING TOBACCO
 
-- PRODUCTS FOR SALE, ETC. BY ORDER OF HK GOVT: NO TOBACCO PRODUCT SHALL BE SOLD OR
+- PRODUCTS FOR SALE, ETC. BY ORDER OF HKSAR GOVERNMENT: NO TOBACCO PRODUCT SHALL BE SOLD
 
-- GIVEN FOR PROMOTION TO PERSONS UNDER 18 香港政府諭
+- TO PERSON UNDER 18 OR GIVEN FOR
 
-- 禁止售賣或派贈煙草產品
+- PROMOTION TO ANY PERSON 特區政府諭 禁止售賣煙草產品予
 
-- 予十八歲以下人士 (L.N. 558 of 1994)
+- 十八歲以下人士或派
+
+- 贈煙草產品予任何人士 (L.N. 558 of 1994; L.N. 188 of 1999)
