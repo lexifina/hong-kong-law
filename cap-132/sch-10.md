@@ -50,8 +50,6 @@ Sheung Wan Market | 上環街市
 
 Smithfield Market | 士美菲路街市
 
-Stanley Market | 赤柱街市
-
 Stanley Temporary Market | 赤柱臨時街市
 
 Tang Lung Chau Market | 燈籠洲街市
@@ -59,8 +57,6 @@ Tang Lung Chau Market | 燈籠洲街市
 Tin Wan Market | 田灣街市
 
 Wan Chai Market | 灣仔街市
-
-Wan Chai Temporary Market | 灣仔臨時街市
 
 Wong Nai Chung Market | 黃泥涌街市
 
@@ -79,8 +75,6 @@ Choi Hung Road Market | 彩虹道街市
 Fa Yuen Street Market | 花園街街市
 
 Haiphong Road Temporary Market | 海防道臨時街市
-
-Hip Wo Street Temporary Market | 協和街臨時街市
 
 Hung Hom Market | 紅磡街市
 
@@ -133,8 +127,6 @@ Tung Yuen Street Cooked Food Market | 東源街熟食市場
 Yau Ma Tei Market | 油蔴地街市
 
 Yee On Street Market | 宜安街街市
-
-Yuen Ling Market | 元嶺街市
 
 Chai Wan Kok Cooked Food Market | 柴灣角熟食市場
 
@@ -228,4 +220,4 @@ Yan Oi Market | 仁愛街市
 
 Yeung Uk Road Market | 楊屋道街市
 
-(Added 21 of 1973 s. 19. Amended L.N. 179 of 1973; L.N. 181 of 1973; L.N. 258 of 1973; L.N. 206 of 1974; L.N. 198 of 1975; L.N. 213 of 1975; L.N. 132 of 1976; L.N. 103 of 1979; L.N. 141 of 1979; L.N. 179 of 1979; L.N. 241 of 1979; L.N. 301 of 1979; L.N. 31 of 1980; L.N. 49 of 1980; L.N. 60 of 1980; L.N. 117 of 1980; L.N. 138 of 1980; L.N. 183 of 1980; L.N. 206 of 1980; L.N. 155 of 1981; L.N. 167 of 1981; L.N. 186 of 1981; L.N. 205 of 1981; L.N. 338 of 1981; L.N. 346 of 1981; L.N. 63 of 1982; L.N. 93 of 1982; L.N. 94 of 1982; L.N. 125 of 1982; L.N. 212 of 1982; L.N. 280 of 1982; L.N. 382 of 1982; L.N. 389 of 1982; L.N. 398 of 1982; L.N. 399 of 1982; L.N. 45 of 1983; L.N. 62 of 1983; L.N. 91 of 1983; L.N. 151 of 1983; L.N. 169 of 1983; L.N. 347 of 1983; L.N. 48 of 1984; L.N. 61 of 1984; L.N. 111 of 1984; L.N. 159 of 1984; L.N. 287 of 1984; L.N. 351 of 1984; L.N. 396 of 1984; L.N. 421 of 1984; L.N. 30 of 1985; L.N. 54 of 1985; L.N. 149 of 1985; L.N. 204 of 1985; L.N. 275 of 1985; L.N. 355 of 1985; L.N. 10 of 1986; 10 of 1986 s. 30; L.N. 103 of 1986; L.N. 289 of 1986; L.N. 314 of 1986; L.N. 94 of 1987; L.N. 169 of 1987; L.N. 372 of 1987; L.N. 387 of 1987; L.N. 197 of 1988; L.N. 342 of 1988; L.N. 343 of 1988; L.N. 258 of 1989; L.N. 395 of 1989; L.N. 52 of 1990; L.N. 325 of 1990; L.N. 399 of 1990; L.N. 400 of 1990; L.N. 43 of 1991; L.N. 104 of 1991; L.N. 124 of 1991; L.N. 437 of 1991; L.N. 259 of 1992; L.N. 34 of 1993; L.N. 109 of 1993; L.N. 224 of 1993; L.N. 444 of 1994; L.N. 479 of 1994; L.N. 15 of 1995; L.N. 42 of 1995; L.N. 176 of 1995; L.N. 588 of 1995; L.N. 44 of 1996; L.N. 164 of 1996; L.N. 215 of 1996; L.N. 423 of 1996; L.N. 155 of 1997; L.N. 190 of 1998; L.N. 387 of 1998; L.N. 11 of 1999; L.N. 126 of 1999; L.N. 154 of 1999; L.N. 184 of 1999; L.N. 233 of 1999; L.N. 293 of 1999; 78 of 1999 s. 7)
+(Added 21 of 1973 s. 19. Amended L.N. 179 of 1973; L.N. 181 of 1973; L.N. 258 of 1973; L.N. 206 of 1974; L.N. 198 of 1975; L.N. 213 of 1975; L.N. 132 of 1976; L.N. 103 of 1979; L.N. 141 of 1979; L.N. 179 of 1979; L.N. 241 of 1979; L.N. 301 of 1979; L.N. 31 of 1980; L.N. 49 of 1980; L.N. 60 of 1980; L.N. 117 of 1980; L.N. 138 of 1980; L.N. 183 of 1980; L.N. 206 of 1980; L.N. 155 of 1981; L.N. 167 of 1981; L.N. 186 of 1981; L.N. 205 of 1981; L.N. 338 of 1981; L.N. 346 of 1981; L.N. 63 of 1982; L.N. 93 of 1982; L.N. 94 of 1982; L.N. 125 of 1982; L.N. 212 of 1982; L.N. 280 of 1982; L.N. 382 of 1982; L.N. 389 of 1982; L.N. 398 of 1982; L.N. 399 of 1982; L.N. 45 of 1983; L.N. 62 of 1983; L.N. 91 of 1983; L.N. 151 of 1983; L.N. 169 of 1983; L.N. 347 of 1983; L.N. 48 of 1984; L.N. 61 of 1984; L.N. 111 of 1984; L.N. 159 of 1984; L.N. 287 of 1984; L.N. 351 of 1984; L.N. 396 of 1984; L.N. 421 of 1984; L.N. 30 of 1985; L.N. 54 of 1985; L.N. 149 of 1985; L.N. 204 of 1985; L.N. 275 of 1985; L.N. 355 of 1985; L.N. 10 of 1986; 10 of 1986 s. 30; L.N. 103 of 1986; L.N. 289 of 1986; L.N. 314 of 1986; L.N. 94 of 1987; L.N. 169 of 1987; L.N. 372 of 1987; L.N. 387 of 1987; L.N. 197 of 1988; L.N. 342 of 1988; L.N. 343 of 1988; L.N. 258 of 1989; L.N. 395 of 1989; L.N. 52 of 1990; L.N. 325 of 1990; L.N. 399 of 1990; L.N. 400 of 1990; L.N. 43 of 1991; L.N. 104 of 1991; L.N. 124 of 1991; L.N. 437 of 1991; L.N. 259 of 1992; L.N. 34 of 1993; L.N. 109 of 1993; L.N. 224 of 1993; L.N. 444 of 1994; L.N. 479 of 1994; L.N. 15 of 1995; L.N. 42 of 1995; L.N. 176 of 1995; L.N. 588 of 1995; L.N. 44 of 1996; L.N. 164 of 1996; L.N. 215 of 1996; L.N. 423 of 1996; L.N. 155 of 1997; L.N. 190 of 1998; L.N. 387 of 1998; L.N. 11 of 1999; L.N. 126 of 1999; L.N. 154 of 1999; L.N. 184 of 1999; L.N. 233 of 1999; L.N. 293 of 1999; 78 of 1999 s. 7; L.N. 262 of 2000)
