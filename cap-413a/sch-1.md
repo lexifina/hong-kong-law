@@ -252,7 +252,7 @@ OIL POLLUTION AND PREVENTION CERTIFICATES
 
 - Total
 
-- 5.3.3 The ship has been supplied with a valid Dedicated Clean Ballast Tank Operation Manual, which is dated . □
+- 5.3.3 The ship has been supplied with a valid Dedicated Clean Ballast Tank Operation Manual, which is dated .□
 
 - 5.3.4 The ship has common piping and pump arrangements for ballasting the CBT and handling cargo oil □
 
@@ -576,7 +576,7 @@ OIL POLLUTION AND PREVENTION CERTIFICATES
 
 - 2.5 Maximum throughput of the system is . m3/h □ 2.6 Waiver of regulation 16—
 
-- 2.6.1 The requirements of regulation 16(1) or (2) are waived in respect of the ship in accordance with regulation 16(3)(a). The ship is engaged exclusively on—
+- 2.6.1 The requirements of regualtion 16(1) or (2) are waived in respect of the ship in accordance with regulation 16(3)(a). The ship is engaged exclusively on—
 
 - .1 voyages within special area(s)—
 
@@ -590,11 +590,7 @@ OIL POLLUTION AND PREVENTION CERTIFICATES
 
 - .□
 
-- 2.6.2 The ship is fitted with holding . tank(s) having a volume of . m3 for the total retention on board of all oily bilge water .□
-
-- .
-
-- (L.N. 641 of 1994)
+- 2.6.2 The ship is fitted with holding tank(s) having a volume of . m3 for the total retention on board of all oily bilge water □
 
 - 3.
 
@@ -666,7 +662,7 @@ OIL POLLUTION AND PREVENTION CERTIFICATES
 
 - 2. That the survey shows that the structure, equipment, systems, fittings, arrangement and material of the ship and the condition thereof are in all respects satisfactory and that the ship complies with the applicable requirements of the MERCHANT SHIPPING PREVENTION) OF OIL POLLUTION) REGULATIONS 1984. This Certificate is valid until . Issued at . (Place of issue of certificate)
 
-- . 19 | . (Signature of duly authorized official issuing the Certificate)
+- . 19. | . (Signature of duly authorized official issuing the Certificate)
 
 - * Delete as appropriate. THE GOVERNMENT OF HONG KONG SUPPLEMENT TO THE HONG KONG OIL POLLUTION
 
@@ -766,19 +762,17 @@ OIL POLLUTION AND PREVENTION CERTIFICATES
 
 - .
 
-- . □
+- .□
 
 - .2 voyages within 12 miles of the nearest land outside special area(s) restricted to- .
 
 - .
 
-- . □
+- .□
 
-- 2.6.2 The ship is fitted with holding . tank(s) having a volume of . m3 for the total retention on board of all oily bilge water □
+- 2.6.2 The ship is fitted with holding tank(s) having a volume of . m3 for the total retention on board of all oily bilge water □
 
 - 2.6.3 In lieu of the holding tank the ship is provided with arrangements to transfer bilge water to the slop tank □
-
-- (L.N. 641 of 1994)
 
 - 3. MEANS FOR RETENTION AND DISPOSAL OF OIL RESIDUES (SLUDGE) (Regulation 25) 3.1 The ship is provided with oil residue (sludge) tanks as follows—
 
@@ -994,7 +988,7 @@ OIL POLLUTION AND PREVENTION CERTIFICATES
 
 - (L.N. 641 of 1994)
 
-  - 10. OIL-LIKE NOXIOUS LIQUID SUBSTANCES 10.1 The ship is permitted in accordance with regulation 18 of the Merchant Shipping (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations (Cap. 413 sub. leg.) to carry the oil-like noxious liquid substances specified in the list attached (The list of oil-like noxious substances permitted for carriage, signed, dated and certified by a seal or a stamp of the issuing authority shall be attached.).
+  - 10. OIL-LIKE NOXIOUS LIQUID SUBSTANCES 10.1 The ship is permitted in accordance with regulation 18 of the Merchant Shipping (Control of Pollution by Noxious Liquid Substances in Bulk) Regulations (Cap. 413 sub. leg. B) to carry the oil-like noxious liquid substances specified in the list attached (The list of oil-like noxious substances permitted for carriage, signed, dated and certified by a seal or a stamp of the issuing authority shall be attached.).
 
 - (L.N. 641 of 1994)
 
@@ -1084,25 +1078,25 @@ OIL POLLUTION AND PREVENTION CERTIFICATES
 
 - (L.N. 641 of 1994)
 
-  - 2.4 Approval standards— 2.4.1 The separating/filtering equipment— .1 has been approved in accordance with resolution A.393(X) □ .2 has been approved in accordance with resolution A.233(VII) □ .3 has been approved in accordance with National Standards not based upon resolution A.393(X) or A.233(VII) □ .4 has not been approved □ 2.4.2 The process unit has been approved in accordance with resolution A.444(XI) □ 2.4.3 The oil content meter has approved in accordance with resolution A.393(X) □ 2.5 Maximum throughput of the system is . m3/h 2.6 Waiver of regulation 14— 2.6.1 The requirements of regulation 14(1) or (2) are waived in respect of the ship in accordance with regulation 14(3)(a). The ship is engaged exclusively on— .1 voyages within special area(s)- . . □ .2 voyages within 12 miles of the nearest land outside special area(s) restricted to- . . □ 2.6.2 The ship is fitted with holding . tank(s) having a volume of . m3 for the total retention on board of all oily bilge water □
+  - 2.4 Approval standards— 2.4.1 The separating/filtering equipment— .1 has been approved in accordance with resolution A.393(X) □ .2 has been approved in accordance with resolution A.233(VII) □ .3 has been approved in accordance with National Standards not based upon resolution A.393(X) or A.233(VII) □ .4 has not been approved □ 2.4.2 The process unit has been approved in accordance with resolution A.444(XI) □ 2.4.3 The oil content meter has approved in accordance with resolution A.393(X) □ 2.5 Maximum throughput of the system is . m3/h 2.6 Waiver of regulation 14— 2.6.1 The requirements of regulation 14(1) or (2) are waived in respect of the ship in accordance with regulation 14(3)(a). The ship is engaged exclusively on— .1 voyages within special area(s)- . . □ .2 voyages within 12 miles of the nearest land outside special area(s) restricted to- . . □ 2.6.2 The ship is fitted with holding tank(s) having a volume of . m3 for the total retention on board of all oily bilge water □
+
+  - 3. MEANS FOR RETENTION AND DISPOSAL OF OIL RESIDUES (SLUDGE) (Regulation 25) 3.1 The ship is provided with oil residue (sludge) tanks as follows—
+
+  - Tank Identification | Tank Location | Volume m3
+
+  - Frames (from)-(to) | Lateral Position
+
+  - Total volume . m3
+
+  - 3.2 Means for the disposal of residues in addition to the provisions of sludge tanks— 3.2.1 incinerator for oil residues; capacity . 1/h □
+
+  - 3.2.2 auxiliary boiler suitable for burning oil residues □
+
+  - 3.2.3 tank for mixing oil residues with fuel oil; capacity . m3 □
+
+  - 3.2.4 other acceptable means— . □
 
 - (L.N. 641 of 1994)
-
-- 3. MEANS FOR RETENTION AND DISPOSAL OF OIL RESIDUES (SLUDGE) (Regulation 25) 3.1 The ship is provided with oil residue (sludge) tanks as follows—
-
-- Tank Identification | Tank Location | Volume m3
-
-- Frames (from)-(to) | Lateral Position
-
-- Total volume . m3
-
-- 3.2 Means for the disposal of residues in addition to the provisions of sludge tanks— 3.2.1 incinerator for oil residues; capacity . 1/h □
-
-- 3.2.2 auxiliary boiler suitable for burning oil residues □
-
-- 3.2.3 tank for mixing oil residues with fuel oil; capacity . m3 □
-
-- 3.2.4 other acceptable means— . □ (L.N. 641 of 1994)
 
 - 4. STANDARD DISCHARGE CONNECTION (Regulation 25(3)) 4.1 The ship provided with a pipeline for the discharge of residues from machinery bilges to reception facilities, fitted with a standard discharge connection in accordance with regulation 25(3) □
 
@@ -1123,3 +1117,5 @@ OIL POLLUTION AND PREVENTION CERTIFICATES
 - (Place of issue of the Record)
 
 - . 19. | . (Signature of duly authorized official issuing the Record)
+
+- (L.N. 641 of 1994; 32 of 2000 s. 48)

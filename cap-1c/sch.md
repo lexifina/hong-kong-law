@@ -234,13 +234,11 @@ Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public 
 
 Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Wild Animals Protection Ordinance (Chapter 170), section 13. (L.N. 197 of 1979)
 
-Director of Buildings | Child Care Centres Regulations (Chapter 243 subsidiary legislation), regulations 23(2) and 24(2)(b). (L.N. 303 of 1993)
-
 Director of Buildings | Hong Kong Airport (Control of Obstructions) Ordinance (Chapter 301), sections 5, 7(1), 13, 14(1), 15(1), (2)(c)(ii) and (8), 16(1), (3), (6), (8) and (9), 17, 18(2) and 20(g). (L.N. 303 of 1993)
 
 Director of Buildings as Building Authority | Buildings Ordinance (Chapter 123). (L.N. 303 of 1993)
 
-Director of Buildings as Building Authority | Child Care Centres Ordinance (Chapter 243), section 7(1)(b)(ii). (L.N. 303 of 1993)
+Director of Buildings as Building Authority | Child Care Services Ordinance (Chapter 243), section 7(1)(b)(ii). (L.N. 303 of 1993; 32 of 2000 s. 26)
 
 Director of Buildings as Building Authority | Education Ordinance (Chapter 279), section 12(1)(d). (L.N. 303 of 1993)
 
@@ -460,7 +458,7 @@ Secretary for Transport | Roads (Works, Use and Compensation) Ordinance (Chapter
 
 Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48)
 
 Editorial Note:
 

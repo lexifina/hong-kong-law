@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# FIRST SCHEDULE
 
 [reg. 2]
 
@@ -34,6 +34,6 @@ DANGEROUS PARTS OF MACHINERY OR PLANT
 
 - 15. Projecting belt fasteners and fast running belts.
 
-- 16. Nips between connecting rods or links, and rotating wheel cranks or dies.
+- 16. Nips between connecting rods or links, and rotating wheel cranks or discs. (32 of 2000 s. 48)
 
 - 17. Traps arising from the traversing carriages of self-acting machines.

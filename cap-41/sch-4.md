@@ -34,7 +34,7 @@ PROPOSED APPOINTMENT OF CONTROLLER WITHIN THE MEANING OF SECTION 13A(1) OR AUTHO
 
 FORM A | [paragraph 2, 4th Schedule]
 
-PARTICULARS REQUIRED IN REPECT OF INDIVIDUALS WHO ARE
+PARTICULARS REQUIRED IN RESPECT OF INDIVIDUALS WHO ARE
 
 PROPOSED TO BE APPOINTED AS CONTROLLERS WITHIN THE
 
@@ -44,53 +44,53 @@ REPRESENTATIVE UNDER SECTION 50B
 
 Name of Proposer* .
 
-- The following are particulars of—
+- The following are particulars of— #(a)+ . #(b)++ ., of which+ . is a partner.
 
-- #(a)+ .
+- 1. Family name Other names . .
 
-- #(b)++ ., of which+ . is a partner.
+- Any other name(s) by which he has been known or is known
 
-  - 1. Family name Other names .
+- .
 
-  - Any other name(s) by which he has been known or is known
+- 2. Private address.
 
-  - .
+- 3. Date of birth. Place of birth (including town or city).
 
-  - 2. Private address.
+- 4. Nationality, including a statement as to whether it was acquired by birth or naturalization.
 
-  - 3. Date of birth. Place of birth (including town or city).
+- 5. Qualifications and experience, including those relating to insurance and allied matters.
 
-  - 4. Nationality, including a statement as to whether it was acquired by birth or naturalization.
+- 6. Present occupation or employment and occupations and employment during the last 10 years, including the name of the employer, the nature of the business, the position held and relevant dates.
 
-  - 5. Qualifications and experience, including those relating to insurance and allied matters.
+- 7. Has he at any time been convicted of any criminal offence (other than an offence committed when he was of or under the age of 16 years unless the same was committed within the last 10 years) by any court, including a military tribunal, in Hong Kong or elsewhere? If so, give full particulars of the court by which he was convicted, the offence and the penalty imposed and the date of the conviction.
 
-  - 6. Present occupation or employment and occupations and employment during the last 10 years, including the name of the employer, the nature of the business, the position held and relevant dates.
+- 8. Has he in the last 10 years, in Hong Kong or elsewhere, been censured, disciplined or publicly criticized by any professional body to which he belongs or belonged or been dismissed from any office or employment or refused entry to any profession or occupation? If so, give full particulars.
 
-  - 7. Has he at any time been convicted of any criminal offence (other than an offence committed when he was of or under the age of 16 years unless the same was committed within the last 10 years) by any court, including a military tribunal, in Hong Kong or elsewhere? If so, give full particulars of the court by which he was convicted, the offence and the penalty imposed and the date of the conviction.
+- 9. Has he at any time been adjudicated bankrupt by a court in Hong Kong or elsewhere? If so, give full particulars.
 
-  - 8. Has he in the last 10 years, in Hong Kong or elsewhere, been censured, disciplined or publicly criticized by any professional body to which he belongs or belonged or been dismissed from any office or employment or refused entry to any profession or occupation? If so, give full particulars.
+- 10. Has he at any time in the last 10 years failed to satisfy any debt adjudged due and payable by him as a judgment-debtor under an order of a court in Hong Kong or elsewhere? If so, give full particulars.
 
-  - 9. Has he at any time been adjudicated bankrupt by a court in Hong Kong or elsewhere? If so, give full particulars.
+- 11. Has he, in connection with the formation or management of any body corporate or insurer, been adjudged by a court in Hong Kong or elsewhere civilly liable for any fraud, misfeasance or other misconduct by him towards such a body or insurer or towards any members thereof? If so, give full particulars.
 
-  - 10. Has he at any time in the last 10 years failed to satisfy any debt adjudged due and payable by him as a judgment-debtor under an order of a court in Hong Kong or elsewhere? If so, give full particulars.
+- 12.
 
-  - 11. Has he, in connection with the formation or management of any body corporate or insurer, been adjudged by a court in Hong Kong or elsewhere civilly liable for any fraud, misfeasance or other misconduct by him towards such a body or insurer or towards any members thereof? If so, give full particulars.
+- Has any body corporate or insurer with which he was associated as director or controller (within the meaning of section 9 of this Ordinance) in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either whilst he was associated with it or within one year after he ceased to be associated with it? If so, give full particulars.
 
-  - 12.
+  - (Note: In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if he were a company, be a holding company of that body in accordance with section 2(7) of the Companies Ordinance (Cap. 32)).
 
-  - Has any body corporate or insurer with which he was associated as director or controller (within the meaning of section 9 of this Ordinance) in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either whilst he was associated with it or within one year after he ceased to be associated with it? If so, give full particulars.
+- 13. Of what bodies corporate or insurers—
 
-    - (Note: In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if he were a company, be a holding company of that body in accordance with section 2(7) of the Companies Ordinance (Cap. 32)).
+  - (a) is he now a director or controller (within the meaning of section 9 of this Ordinance)?
 
-  - 13. Of what bodies corporate or insurers—
+  - (b) has he been a director or controller (within the meaning of section 9 of this Ordinance)?
 
-    - (a) is he now a director or controller (within the meaning of section 9 of this Ordinance)?
+- 14. Has he any other occupation other than that disclosed at items 6 and 13 above? If so, give full details.
 
-    - (b) has he been a director or controller (within the meaning of section 9 of this Ordinance)?
+- 15.
 
-  - 14. Has he any other occupation other than that disclosed at items 6 and 13 above? If so, give full details.
+- In carrying out his duties, will he be acting on the directions or instructions of any other person? If so, give full particulars.
 
-  - 15. In carrying out his duties, will he be acting on the directions or instructions of any other person? If so, give full particulars. I certify that the above information is complete and correct to the best of my knowledge and belief.
+- I certify that the above information is complete and correct to the best of my knowledge and belief.
 
 - Date .
 
@@ -98,31 +98,31 @@ Name of Proposer* .
 
 - (individual named in paragraph 1 above.)
 
-  - I certify that+ . has supplied the above information and that in respect of* . he is—
+- I certify that+ . has supplied the above information and that in respect of* . he is—
 
-    - #(a) proposed to be appointed as a controller within the meaning of section 13A(1) of this Ordinance;
+  - #(a) proposed to be appointed as a controller within the meaning of section 13A(1) of this Ordinance;
 
-    - #(b) a partner in ++ . which is proposed to be appointed as a controller within the meaning of section 13A(1) of this Ordinance;
+  - #(b) a partner in ++ . which is proposed to be appointed as a controller within the meaning of section 13A(1) of this Ordinance;
 
-    - #(c) proposed to be appointed as an authorized representative of Lloyd’s under section 50B of this Ordinance.
+  - #(c) proposed to be appointed as an authorized representative of Lloyd’s under section 50B of this Ordinance.
 
-  - Date .
+- Date .
 
-  - Signed .
+- Signed .
 
-  - (Director/Secretary# of the Insurer)/
+- (Director/Secretary# of the Insurer)/
 
-  - (Chairman of Lloyd’s)#
+- (Chairman of Lloyd’s)#
 
-  - * Insert name of Insurer or Lloyd’s.
+- * Insert name of Insurer or Lloyd’s.
 
-  - + Insert name of individual to whom particulars relate.
+- + Insert name of individual to whom particulars relate.
 
-  - ++ Insert name of partnership.
+- ++ Insert name of partnership.
 
-  - # Delete as necessary.
+- # Delete as necessary.
 
-- (Replaced 51 of 1999 s. 7)
+- (Replaced 51 of 1999 s. 7. Amended 32 of 2000 s. 48)
 
 FORM B | [paragraph 2, 4th Schedule]
 
@@ -178,10 +178,10 @@ The following are particulars of a body corporate which is proposed to be appoin
 
   - +(b) #. of which the above-named body corporate is a partner is proposed to be appointed as a controller within the meaning of section 13A(1) of this Ordinance. Date .
 
-  - Signed . (Director/Secretary + of body corporate.) * Insert name of Insurer.
+  - Signed . (Director/Secretary + of the insurer.) * Insert name of Insurer.
 
   - + Delete as necessary.
 
   - # Insert name of partnership.
 
-(Fourth Schedule added 44 of 1990 s. 10)
+- (Amended 32 of 2000 s. 48) (Fourth Schedule added 44 of 1990 s. 10)

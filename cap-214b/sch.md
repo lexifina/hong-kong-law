@@ -1,3 +1,5 @@
 # SCHEDULE
 
-[para. 5] (Amendments incorporated)
+[para. 5]
+
+(Amendments incorporated)

@@ -72,7 +72,7 @@ SPECIFICATIONS FOR POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES OF 
 
 3.4 ppm
 
-- 3.4.1 “ppm” (百萬分之) means parts of oil per million parts of water by volume. 4 TECHNICAL SPECIFICATIONS 4.1 Oil filtering equipment 4.1.1 The equipment should be strongly constructed and suitable for shipboard use, bearing in mind its intended location on the ship. 4.1.2 It should, if intended to be fitted in locations where flammable atmospheres may be present, comply with the relevant safety regulations for such spaces. Any electrical equipment which is part of the equipment should be based in a non-hazardous area, or should be certified by the Director as safe for use in a hazardous area. Any moving parts which are fitted in hazardous areas should be arranged so as to avoid the formation of static electricity. 4.1.3 The equipment should be so designed that it functions automatically. However, provisions should be made for emergency manual control. 4.1.4 Changing the feed to the oil filtering equipment from oily-water to oil, or from oil and/or water to air should not result in a discharge overboard of any mixture containing more than 15 ppm of oil. 4.1.5 The system should require the minimum of attention to bring it into operation. In the case of equipment used for engine room bilges, there should be no need for any adjustment to valves and other equipment to bring the system into operation, and when fitted in unattended machinery spaces the equipment should be capable of operating for at least 24 hours of normal duty without attention. 4.1.6 All working parts of the equipment which are liable to wear or to damage should be easily accessible for maintenance. 4.2 Oil content meters 4.2.1 These Specifications relate to oil content meters for bilge alarms. 4.2.2 The meters should resist corrosion in conditions of the marine environment. 4.2.3 The meters should, if intended to be fitted in locations where flammable atmospheres may be present, comply with the relevant safety regulations for such spaces. Any electrical equipment which is part of the meter should be placed in a non-hazardous area, or should be certified as safe for use in a hazardous atmosphere. Any moving parts which are fitted in hazardous areas should be arranged so as to avoid the formation of static electricity. 4.2.4 The meter should not contain or use any substance of a dangerous nature, unless adequate arrangements, acceptable to the Director, are provided to eliminate any hazards introduced thereby. 4.2.5 It is desirable that the reading should not be affected by the type of oil. If it is, it should not be necessary to calibrate the meter on board ship, but pre-set alterations in the calibration in accordance with instructions drawn up at the time of manufacture are permitted. In the latter case, means should be available to check that the correct calibration has been selected for the oil in question. The accuracy of the readings should at all times remain within the limit specified in paragraph 2.2.1 of Part 2 of the Annex. 4.2.6 The response time of the meter, that is, the time which elapses between an alteration in the sample being supplied to the meter and the meter showing the correct response, should not exceed 20 seconds. 4.2.7 The meter should be fitted with an alarm device which can be set to operate automatically at any pre-stated value either to alert the crew of the ship or to operate control valves. The meter for the bilge alarm should be fitted with an alarm device which should be pre-set by the manufacturer to activate when the effluent exceeds 15 ppm. These alarms should also operate automatically if at any time the meter should fail to function, require a warm-up period or otherwise be de-energized. 4.2.8 It is recommended that a simple means be provided aboard ship to check on instrument drift, and to confirm the accuracy and repeatability of the instrument reading. 5 SPECIFICATIONS FOR TYPE APPROVAL TESTING OF POLLUTION PREVENTION EQUIPMENT 5.1 Testing requirements 5.1.1 The production model of pollution prevention equipment, for which the approval will apply, should be identical to the equipment, type-tested in accordance with the Test and Performance Specifications contained in Part 1 or 2 of the Annex to these Specifications. The equipment should also be type-tested in accordance with the specifications for environmental testing contained in Part 3 of the Annex. 5.2 Approval and certification procedures 5.2.1 Pollution prevention equipment which in every respect fulfils the requirements of these Specifications may be approved by the Director for fitting on board ships. The approval should take the form of a certificate of type approval specifying the main particulars of the apparatus and any limiting conditions on its usage necessary to ensure its proper performance. Such certificate should be issued in the format shown in Part 5 of the Annex. A copy of the certificate of type approval for pollution prevention equipment should be carried on board ships fitted with such equipment at all times. 5.2.2 A certificate of type approval for an oil content meter should be issued for the bilge alarm. 5.2.3 Approved pollution prevention equipment may be accepted by other countries for use on their vessels on the basis of the first trials, or after new tests carried out under the supervision of their own representatives. Should equipment pass a test in one country but fail a test of a similar nature in another country, then the 2 countries concerned should consult one another with a view to reaching a mutually acceptable agreement. 6 INSTALLATION REQUIREMENTS 6.1 Oil filtering equipment 6.1.1 For future inspection purposes on board ship, a sampling point should be provided in a vertical section of the water effluent piping as close as is practicable to the equipment outlet. Recirculating facilities should be provided to enable the oil filtering equipment to be tested with the overboard discharge closed at initial and periodic surveys. 6.1.2 Means should be taken to ensure that, in practice, the rated capacity of the equipment is not exceeded by— .1 connecting only pumps of a capacity equal to, or less than, that of the equipment; or .2 permanently restricting the discharge to the equipment where larger pumps may be connected. 6.1.3 In any case, equipment should not be supplied from a pump which has a capacity more than 1.5 times the rated capacity of the equipment. 6.1.4 The equipment should be fitted with a permanently attached plate giving any operational or installation limits considered necessary by the manufacturer or the Administration. 6.2 Oil content meters for bilge alarms 6.2.1 The layout of the shipboard installation should be arranged so that the overall response time between an alteration in the mixture being pumped and the alteration in the meter reading should be as short as possible and in any case not more than 40 seconds, to allow for remedial action being taken before the oil content of the mixture being discharged exceeds the permissible limit. 6.2.2 The arrangement on board ship for the extraction of samples from the discharge line to the meter should give a truly representative sample of the effluent. Sampling points should be arranged in all discharge pipes which have to be monitored for compliance with these Regulations. 6.2.3 Where these Regulations require records, the oil content meter should be so designed and constructed that any operation carried out on the oil filtering equipment is automatically registered by the meter. ANNEX This Annex provides detailed Test and Performance Specifications for pollution prevention equipment and contains— Part 1- Test and Performance Specifications for Type Approval of Oil Filtering Equipment Part 2- Test and Performance Specifications for Type Approval of Oil Content Meters for Bilge Alarms Part 3- Specifications for Environmental Testing for Type Approval of Pollution Prevention Equipment Part 4- Method for the Determination of Oil Content Part 5- Documentation of Approval
+- 3.4.1 “ppm” (百萬分之) means parts of oil per million parts of water by volume. 4 TECHNICAL SPECIFICATIONS 4.1 Oil filtering equipment 4.1.1 The equipment should be strongly constructed and suitable for shipboard use, bearing in mind its intended location on the ship. 4.1.2 It should, if intended to be fitted in locations where flammable atmospheres may be present, comply with the relevant safety regulations for such spaces. Any electrical equipment which is part of the equipment should be placed in a non-hazardous area, or should be certified by the Director as safe for use in a hazardous area. Any moving parts which are fitted in hazardous areas should be arranged so as to avoid the formation of static electricity. 4.1.3 The equipment should be so designed that it functions automatically. However, provisions should be made for emergency manual control. 4.1.4 Changing the feed to the oil filtering equipment from oily-water to oil, or from oil and/or water to air should not result in a discharge overboard of any mixture containing more than 15 ppm of oil. 4.1.5 The system should require the minimum of attention to bring it into operation. In the case of equipment used for engine room bilges, there should be no need for any adjustment to valves and other equipment to bring the system into operation, and when fitted in unattended machinery spaces the equipment should be capable of operating for at least 24 hours of normal duty without attention. 4.1.6 All working parts of the equipment which are liable to wear or to damage should be easily accessible for maintenance. 4.2 Oil content meters 4.2.1 These Specifications relate to oil content meters for bilge alarms. 4.2.2 The meters should resist corrosion in conditions of the marine environment. 4.2.3 The meters should, if intended to be fitted in locations where flammable atmospheres may be present, comply with the relevant safety regulations for such spaces. Any electrical equipment which is part of the meter should be placed in a non-hazardous area, or should be certified as safe for use in a hazardous atmosphere. Any moving parts which are fitted in hazardous areas should be arranged so as to avoid the formation of static electricity. 4.2.4 The meter should not contain or use any substance of a dangerous nature, unless adequate arrangements, acceptable to the Director, are provided to eliminate any hazards introduced thereby. 4.2.5 It is desirable that the reading should not be affected by the type of oil. If it is, it should not be necessary to calibrate the meter on board ship, but pre-set alterations in the calibration in accordance with instructions drawn up at the time of manufacture are permitted. In the latter case, means should be available to check that the correct calibration has been selected for the oil in question. The accuracy of the readings should at all times remain within the limit specified in paragraph 2.2.1 of Part 2 of the Annex. 4.2.6 The response time of the meter, that is, the time which elapses between an alteration in the sample being supplied to the meter and the meter showing the correct response, should not exceed 20 seconds. 4.2.7 The meter should be fitted with an alarm device which can be set to operate automatically at any pre-stated value either to alert the crew of the ship or to operate control valves. The meter for the bilge alarm should be fitted with an alarm device which should be pre-set by the manufacturer to activate when the effluent exceeds 15 ppm. These alarms should also operate automatically if at any time the meter should fail to function, require a warm-up period or otherwise be de-energized. 4.2.8 It is recommended that a simple means be provided aboard ship to check on instrument drift, and to confirm the accuracy and repeatability of the instrument reading. 5 SPECIFICATIONS FOR TYPE APPROVAL TESTING OF POLLUTION PREVENTION EQUIPMENT 5.1 Testing requirements 5.1.1 The production model of pollution prevention equipment, for which the approval will apply, should be identical to the equipment, type-tested in accordance with the Test and Performance Specifications contained in Part 1 or 2 of the Annex to these Specifications. The equipment should also be type-tested in accordance with the specifications for environmental testing contained in Part 3 of the Annex. 5.2 Approval and certification procedures 5.2.1 Pollution prevention equipment which in every respect fulfils the requirements of these Specifications may be approved by the Director for fitting on board ships. The approval should take the form of a certificate of type approval specifying the main particulars of the apparatus and any limiting conditions on its usage necessary to ensure its proper performance. Such certificate should be issued in the format shown in Part 5 of the Annex. A copy of the certificate of type approval for pollution prevention equipment should be carried on board ships fitted with such equipment at all times. 5.2.2 A certificate of type approval for an oil content meter should be issued for the bilge alarm. 5.2.3 Approved pollution prevention equipment may be accepted by other countries for use on their vessels on the basis of the first trials, or after new tests carried out under the supervision of their own representatives. Should equipment pass a test in one country but fail a test of a similar nature in another country, then the 2 countries concerned should consult one another with a view to reaching a mutually acceptable agreement. 6 INSTALLATION REQUIREMENTS 6.1 Oil filtering equipment 6.1.1 For future inspection purposes on board ship, a sampling point should be provided in a vertical section of the water effluent piping as close as is practicable to the equipment outlet. Recirculating facilities should be provided to enable the oil filtering equipment to be tested with the overboard discharge closed at initial and periodic surveys. 6.1.2 Means should be taken to ensure that, in practice, the rated capacity of the equipment is not exceeded by— .1 connecting only pumps of a capacity equal to, or less than, that of the equipment; or .2 permanently restricting the discharge to the equipment where larger pumps may be connected. 6.1.3 In any case, equipment should not be supplied from a pump which has a capacity more than 1.5 times the rated capacity of the equipment. 6.1.4 The equipment should be fitted with a permanently attached plate giving any operational or installation limits considered necessary by the manufacturer or the Administration. 6.2 Oil content meters for bilge alarms 6.2.1 The layout of the shipboard installation should be arranged so that the overall response time between an alteration in the mixture being pumped and the alteration in the meter reading should be as short as possible and in any case not more than 40 seconds, to allow for remedial action being taken before the oil content of the mixture being discharged exceeds the permissible limit. 6.2.2 The arrangement on board ship for the extraction of samples from the discharge line to the meter should give a truly representative sample of the effluent. Sampling points should be arranged in all discharge pipes which have to be monitored for compliance with these Regulations. 6.2.3 Where these Regulations require records, the oil content meter should be so designed and constructed that any operation carried out on the oil filtering equipment is automatically registered by the meter. ANNEX This Annex provides detailed Test and Performance Specifications for pollution prevention equipment and contains— Part 1- Test and Performance Specifications for Type Approval of Oil Filtering Equipment Part 2- Test and Performance Specifications for Type Approval of Oil Content Meters for Bilge Alarms Part 3- Specifications for Environmental Testing for Type Approval of Pollution Prevention Equipment Part 4- Method for the Determination of Oil Content Part 5- Documentation of Approval
 
 - PART 1 TEST AND PERFORMANCE SPECIFICATIONS FOR TYPE
 
@@ -140,45 +140,13 @@ Figure 1 Diagrammatic arrangements of test facilities
 
 - where— R = mg of oil in 100 ml solution (determined from calibration plot) D = extract dilution factor, if used (4.7.6) V = volume of sample, in millilitres (4.6.7) 4.8.3 Report results to 2 significant figures for levels below 100 mg/l. NOTE3: For quality control, a reagent blank should be carried through each step of the procedure. 4.8.4 For purposes of comparison to meter records, the results should also be presented in parts per million (volume/volume) with due allowance for the relative density of the oil.
 
-- PART 5 DOCUMENTATION OF APPROVAL
-
-- 5.1 Certificate of Type Approval for pollution prevention equipment
-
-- 5.1.1 Satisfactory compliance with all the test requirements enumerated in Parts 1 and 2 of this Annex should be shown in the Certificate of Type Approval issued by the Director in the format specified in paragraph 5.1.2. The Director may issue a Certificate of Type Approval based on separate testing or on testing already carried out under supervision by another Administration.
-
-- 5.1.2 A Certificate of Type Approval should be in the format shown as Form “A” or “B” to this Annex. The Certificate should identify the type and model of the pollution prevention equipment to which it applies and identify equipment assembly drawings, duly dated. Each drawing should bear the model specification numbers or equivalent identification details. The Certificate should include the full performance test protocol on which it is based. If a Certificate of Type Approval is issued by the Director based on a Certificate previously issued by another Administration, the Certificate should identify the Administration which conducted the tests on the pollution prevention equipment and a copy of the original test results should be attached to it.
-
-- 5.2 Format of environmental test protocol
-
-- 5.2.1 Satisfactory compliance with the environmental tests laid down in these Guidelines and Specifications, where applicable, should be shown on the environmental test protocol issued by the testing laboratory. The protocol should include at least the following details—
-
-- .1 identification of the equipment by type and drawing number, duly dated; and
-
-- .2 a statement of the tests conducted on the equipment, including the results thereof.
-
-- 5.2.2 The environmental test protocol should be endorsed by either the Director or a competent authority of the manufacturer’s home country to confirm that the laboratory is approved to conduct such tests. The protocol should also be signed and dated by the person in charge of the laboratory.
-
-- FORM A
+- PART 5 DOCUMENTATION OF APPROVAL 5.1 Certificate of Type Approval for pollution prevention equipment 5.1.1 Satisfactory compliance with all the test requirements enumerated in Parts 1 and 2 of this Annex should be shown in the Certificate of Type Approval issued by the Director in the format specified in paragraph 5.1.2. The Director may issue a Certificate of Type Approval based on separate testing or on testing already carried out under supervision by another Administration. 5.1.2 A Certificate of Type Approval should be in the format shown as Form “A” or “B” to this Annex. The Certificate should identify the type and model of the pollution prevention equipment to which it applies and identify equipment assembly drawings, duly dated. Each drawing should bear the model specification numbers or equivalent identification details. The Certificate should include the full performance test protocol on which it is based. If a Certificate of Type Approval is issued by the Director based on a Certificate previously issued by another Administration, the Certificate should identify the Administration which conducted the tests on the pollution prevention equipment and a copy of the original test results should be attached to it. 5.2 Format of environmental test protocol 5.2.1 Satisfactory compliance with the environmental tests laid down in these Guidelines and Specifications, where applicable, should be shown on the environmental test protocol issued by the testing laboratory. The protocol should include at least the following details— .1 identification of the equipment by type and drawing number, duly dated; and .2 a statement of the tests conducted on the equipment, including the results thereof. 5.2.2 The environmental test protocol should be endorsed by either the Director or a competent authority of the manufacturer’s home country to confirm that the laboratory is approved to conduct such tests. The protocol should also be signed and dated by the person in charge of the laboratory. FORM A
 
 - [NAME OF ISSUING AUTHORITY] CERTIFICATE OF TYPE APPROVAL FOR OIL FILTERING EQUIPMENT (15 PPM EQUIPMENT)
 
-- This is to certify that the equipment listed below has been examined and tested in accordance with the requirements of the Specifications contained in Part 1 of the Annex to the Guidelines and Specifications contained in IMO resolution MEPC 60(33). This Certificate is valid only for equipment referred to below.
+- This is to certify that the equipment listed below has been examined and tested in accordance with the requirements of the Specifications contained in Part 1 of the Annex to the Guidelines and Specifications contained in IMO resolution MEPC 60(33). This Certificate is valid only for equipment referred to below. Equipment supplied by .
 
-- Equipment supplied by .
-
-- under type and model designation and incorporating: .
-
-- * Equipment manufactured by .
-
-- to specification/assembly drawing No. . date .
-
-- * Coalescer manufactured by .
-
-- to specification/assembly drawing No. . date .
-
-- * Filters manufactured by .
-
-- to specification/assembly drawing No. . date .
+- under type and model designation and incorporating: . * Equipment manufactured by . to specification/assembly drawing No. . date . * Coalescer manufactured by . to specification/assembly drawing No. . date . * Filters manufactured by . to specification/assembly drawing No. . date .
 
 - Control equipment manufactured by .
 
@@ -186,27 +154,13 @@ Figure 1 Diagrammatic arrangements of test facilities
 
 - Maximum throughput of system . m3/h .
 
-- The equipment has been tested with residual oil having a relative density of not less than 0.94* or 0.98* at 15℃.
-
-- If integral feed pump is not fitted state method proposed for ensuring maximum throughput of system is not exceeded. (L.N. 259 of 1997)
+- The equipment has been tested with residual oil having a relative density of not less than 0.94* or 0.98* at 15℃. If integral feed pump is not fitted state method proposed for ensuring maximum throughput of system is not exceeded. (L.N. 259 of 1997)
 
 - A copy of this Certificate should be carried aboard a vessel fitted with this equipment at all times.
 
 - Limiting Conditions imposed
 
-- Test data and results attached in the Appendix
-
-- .
-
-- (Signature of duly authorized official
-
-- issuing the Certificate)
-
-- Dated this . day of . 19 .
-
-- * Delete as appropriate.
-
-- APPENDIX TEST DATA AND RESULTS OF TESTS CONDUCTED ON
+- Test data and results attached in the Appendix . (Signature of duly authorized official issuing the Certificate) Dated this . day of . 19 . * Delete as appropriate. APPENDIX TEST DATA AND RESULTS OF TESTS CONDUCTED ON
 
 - FILTERING EQUIPMENT
 
@@ -214,9 +168,7 @@ Figure 1 Diagrammatic arrangements of test facilities
 
 - GUIDELINES AND SPECIFICATIONS CONTAINED
 
-- IN IMO RESOLUTION MEPC 60(33)
-
-- Equipment submitted by .
+- IN IMO RESOLUTION MEPC 60(33) Equipment submitted by .
 
 - Test location .
 
@@ -238,25 +190,15 @@ Figure 1 Diagrammatic arrangements of test facilities
 
 - Diagram of test rig attached
 
-- Diagram of sampling arrangement attached
-
-- * Delete as appropriate.
-
-- TEST RESULTS (IN PPM) AND TEST PROCEDURES
+- Diagram of sampling arrangement attached * Delete as appropriate. TEST RESULTS (IN PPM) AND TEST PROCEDURES
 
 - Signed . Date .
 
-- (Official stamp or equivalent identification and the date of approval to be placed on all pages of the test protocol.)
-
-- * Delete as appropriate.
-
-- FORM B
+- (Official stamp or equivalent identification and the date of approval to be placed on all pages of the test protocol.) * Delete as appropriate. FORM B
 
 - [NAME OF ISSUING AUTHORITY] CERTIFICATE OF TYPE APPROVAL FOR OIL CONTENT METERS INTENDED FOR BILGE ALARMS (15 PPM ALARM)
 
-- This is to certify that the oil content meter, comprising the equipment listed below, has been examined and tested in accordance with the requirements of the Specifications contained in Part 2 of the Annex to the Guidelines and Specifications contained in IMO resolution MEPC 60(33). This Certificate is valid only for an oil content meter referred to below.
-
-- Oil content meter supplied by .
+- This is to certify that the oil content meter, comprising the equipment listed below, has been examined and tested in accordance with the requirements of the Specifications contained in Part 2 of the Annex to the Guidelines and Specifications contained in IMO resolution MEPC 60(33). This Certificate is valid only for an oil content meter referred to below. Oil content meter supplied by .
 
 - under type and model designation and incorporating: .
 
@@ -274,27 +216,13 @@ Figure 1 Diagrammatic arrangements of test facilities
 
 - *Sample conditioning unit manufactured by .
 
-- to specification/assembly drawing No. . date . The oil content meter is acceptable for use with a 15 ppm bilge alarm in accordance with regulation 16(5). A copy of this Certificate should be carried aboard a vessel fitted with this equipment at all times. Test data and results attached as Appendix.
-
-- .
-
-- (Signature of duly authorized official
-
-- issuing the Certificate)
-
-- Dated this . day of . 19 .
-
-- * Delete as appropriate.
-
-- APPENDIX TEST DATA AND RESULTS OF TESTS CONDUCTED ON AN
+- to specification/assembly drawing No. . date . The oil content meter is acceptable for use with a 15 ppm bilge alarm in accordance with regulation 16(5). A copy of this Certificate should be carried aboard a vessel fitted with this equipment at all times. Test data and results attached as Appendix. . (Signature of duly authorized official issuing the Certificate) Dated this . day of . 19 . * Delete as appropriate. APPENDIX TEST DATA AND RESULTS OF TESTS CONDUCTED ON AN
 
 - OIL CONTENT METER IN ACCORDANCE WITH PART 2 OF
 
 - THE ANNEX TO THE GUIDELINES AND SPECIFICATIONS
 
-- CONTAINED IN IMO RESOLUTION MEPC 60(33)
-
-- Oil content meter submitted by .
+- CONTAINED IN IMO RESOLUTION MEPC 60(33) Oil content meter submitted by .
 
 - Test location .
 
@@ -324,37 +252,7 @@ Figure 1 Diagrammatic arrangements of test facilities
 
 - . | . | .
 
-- RESPONSE TIMES 15 ppm . seconds
-
-- CONTAMINANTS TEST
-
-- 1 Non-oil particulate matter
-
-- Meter reading shift with ppm non-oil particulate contaminants mixed with water and light distillate oil added in oil concentrations of:
-
-- -ppm . ppm
-
-- -ppm . ppm
-
-- -ppm . ppm
-
-- COLOUR TEST
-
-- 2.5 ppm black ink test pass/fail*
-
-- SAMPLE PRESSURE OR FLOW TEST
-
-- Meter reading shift at 50% of normal . ppm
-
-- Meter reading shift at 200% of normal . ppm
-
-- Deviations from this test should be stated if necessary
-
-- Meter reading before shut-off . ppm
-
-- Meter reading after start-up (minimum dry period 8 hours) . ppm
-
-- Damage to meter as follows—
+- RESPONSE TIMES 15 ppm . seconds CONTAMINANTS TEST 1 Non-oil particulate matter Meter reading shift with ppm non-oil particulate contaminants mixed with water and light distillate oil added in oil concentrations of: -ppm . ppm -ppm . ppm -ppm . ppm COLOUR TEST 2.5 ppm black ink test pass/fail* SAMPLE PRESSURE OR FLOW TEST Meter reading shift at 50% of normal . ppm Meter reading shift at 200% of normal . ppm Deviations from this test should be stated if necessary Meter reading before shut-off . ppm Meter reading after start-up (minimum dry period 8 hours) . ppm Damage to meter as follows— . . . . UTILITIES SUPPLY VARIATION TEST 110% voltage effects . 90% voltage effects . 110% air pressure effects . 90% air pressure effects . 110% hydraulic pressure effects . 90% hydraulic pressure effects . OTHER COMMENTS
 
 - .
 
@@ -364,46 +262,14 @@ Figure 1 Diagrammatic arrangements of test facilities
 
 - .
 
-- UTILITIES SUPPLY VARIATION TEST
-
-- 110% voltage effects .
-
-- 90% voltage effects .
-
-- 110% air pressure effects .
-
-- 90% air pressure effects .
-
-- 110% hydraulic pressure effects .
-
-- 90% hydraulic pressure effects .
-
-- OTHER COMMENTS
-
-- .
-
-- .
-
-- .
-
-- .
-
-- . CALIBRATION AND ZERO TEST
-
-- Calibration drift . ppm
-
-- Zero drift . ppm
+- . CALIBRATION AND ZERO TEST Calibration drift . ppm Zero drift . ppm
 
 - Signed . Date .
 
-- (Official stamp or equivalent identification and the date of approval to be placed on all pages of the test protocol.)
+- (Official stamp or equivalent identification and the date of approval to be placed on all pages of the test protocol.) * Delete as appropriate. (L.N. 641 of 1994; 32 of 2000 s. 48)
 
-- * Delete as appropriate.
+Editorial Note:
 
-- (L.N. 641 of 1994)
+1 Reference is made to Form A of this Annex for the Certificate of Type Approval for oil filtering equipment.
 
-- _
-
-- 1 Reference is made to Form A of this Annex for the Certificate of Type Approval for oil filtering equipment.
-
-- ** Percentage of volume.
+** Percentage of volume.

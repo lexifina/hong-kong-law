@@ -1,7 +1,5 @@
 # SECOND SCHEDULE
 
-(Adaptation amendments retroactively made - see 29 of 1998 ss. 80 & 105; 62 of 1999 s. 3)
-
 [s. 7(1)]
 
 - PART I
@@ -114,7 +112,7 @@
 
       - (i) for railway purposes;
 
-      - (ii) for any purpose in the exercise of the powers conferred on it by the Chief Executive under section 4(1)(c), (Amended 62 of 1999 s. 3)
+      - (ii) for any purpose in the exercise of the powers conferred on it by the Chief Executive under section 4(1)(e), (Amended 62 of 1999 s. 3; 32 of 2000 s. 48)
 
   - and for purposes ancillary thereto, excluding staff housing and including, within station premises only, the provision of services or articles for the use or enjoyment of passengers on the railway; or
 

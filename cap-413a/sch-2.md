@@ -36,7 +36,7 @@ OIL RECORD BOOKS
 
   - 3. Cleaning process— .1 Position of ship and time at the start and completion of cleaning; .2 Identity of tank(s) in which one or another method has been employed (rinsing through, steaming, cleaning with chemicals; type and quantity of chemicals used); .3 Identity of tank(s) into which cleaning water was transferred.
 
-  - 4. Ballasting— .1 Position of ship and time at start and end of ballasting; .2 Quantity of ballast if tanks are not cleaned; .3 Position of ship at start of cleaning; .4 Position of ship at start of ballasting.
+  - 4. Ballasting— .1 Position of ship and time at start and end of ballasting; .2 Quantity of ballast if tanks are not cleaned; .3-.4 (Repealed 32 of 2000 s. 48)
 
 - (B) DISCHARGE OF DIRTY BALLAST OR CLEANING WATER FROM OIL FUEL TANKS REFERRED TO UNDER SECTION (A)
 
@@ -372,7 +372,7 @@ OIL RECORD BOOKS
 
   - (L.N. 641 of 1994)
 
-  - -
+  - _
 
     - (1) Only in tanks listed in item 3 of the Supplement to the Certificate in Appendix I and II of Schedule 1, and item 3 of Supplements to the HKOPP Certificate in Appendix III and IV of Schedule 1.
 

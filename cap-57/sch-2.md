@@ -1,14 +1,12 @@
 # SECOND SCHEDULE
 
-[section. 67]
+[s. 67]
 
 PROCEDURE FOR APPREHENSION OF ABSCONDING EMPLOYER
 
-(Adaptation amendments retroactively made - see 56 of 2000 s. 3)
-
 - PART I
 
-  - 1. In this Part, the wages and moneys described in section 67(a) and (b) are referred to as “the debt”.
+  - 1. In this Part, the wages and moneys described in section 67(1)(a) and (b) are referred to as “the debt”. (Amended 32 of 2000 s. 48)
 
   - 2. An application under section 67 shall be as in Form 1 in Part II.
 
@@ -38,7 +36,7 @@ PROCEDURE FOR APPREHENSION OF ABSCONDING EMPLOYER
 
   - 8.
 
-    - (1) On the application of the employer, or of any surety for a bond entered underparagraph 5, a District Judge, if he is satisfied that any of the conditions specified in sub-paragraph (2) have been fulfilled, shall order as may be appropriate—
+    - (1) On the application of the employer, or of any surety for a bond entered under paragraph 5, a District Judge, if he is satisfied that any of the conditions specified in sub-paragraph (2) have been fulfilled, shall order as may be appropriate—
 
       - (a) that any warrant issued under paragraph 3 be discharged;
 
@@ -72,104 +70,142 @@ PROCEDURE FOR APPREHENSION OF ABSCONDING EMPLOYER
 
 - PART II
 
-FORM 1 | [Employment Ordinance, Second Schedule, Part I, paragraph 2]
+- Form 1 | [Employment Ordinance,
 
-APPLICATION FOR WARRANT FOR APPREHENSION OF ABSCONDING
+- Second Schedule, Part I,
 
-EMPLOYER Title IN THE DISTRICT COURT OF HONG KONG
+- paragraph 2]
 
-Held at .
+- Application for Warrant for Apprehension of Absconding Employer
 
-No. . of 19 .
+- Title
 
-IN THE MATTER of an application under section 67 of the Employment Ordinance, for a warrant for the apprehension of.
+- In the District Court of Hong Kong
 
-., an employer.
+- Held at
 
-EX PARTE., an employee.
+- No. .of 19
 
-I, . , of .
+- IN THE MATTER of an application under section 67 of the Employment
 
-(name of applicant) | (address of applicant)
+- Ordinance, for a warrant for the apprehension of
 
-apply for the issue of a warrant in accordance with paragraph 3 of Part I of the Second Schedule
+- , an employer.
 
-to the Employment Ordinance in respect of .
+- EX PARTE | , an employee.
 
-(name of employer)
+- I, | , of
 
-of .
+- (name of applicant) | (address of applicant)
 
-(address of employer)
+- apply for the issue of a warrant in accordance with paragraph 3 of Part I of the Second Schedule to the Employment Ordinance in respect of
 
-.
+- (name of employer)
 
-(occupation of employer)
+- of
 
-- 2. The grounds for my application are—
+- (address of employer)
 
-  - (a) that I am an employee/former employee (1) of .; (name of employer)
+- (occupation of employer)
 
-  - (b) that . is the employer/former (name of employer)
+- 2. | The grounds for my application are—
+
+- (a) | that I am an employee/former employee(1) of | ;
+
+- (name of employer)
+
+- (b) | that | is the employer/former
+
+- (name of employer)
 
 - employer (1) of each person specified in the First Column of the Schedule;
 
-  - (c) that the employer owes to such employees the wages and/or(1) other moneys specified in the Second Column of the Schedule opposite their names, by reason of the facts specified in the Third Column of the Schedule; and
+- (c) | that the employer owes to such employees the wages and/or(1) other moneys specified in the Second Column of the Schedule opposite their names, by reason of the facts specified in the Third Column of the Schedule; and
 
-  - (d) that I believe for the following reasons that the employer is about to leave Hong Kong with intent to evade payment of the wages and/or(1) other moneys specified in the Second Column of the Schedule— . . SCHEDULE
+- (d) | that I believe for the following reasons that the employer is about to leave Hong Kong with intent to evade payment of the wages and/or(1) other moneys specified in the Second Column of the Schedule—
 
-  - FIRST COLUMN | SECOND COLUMN | THIRD COLUMN
+- SCHEDULE
 
-  - Name and address of employee | Amount of wages and/ or(1) other moneys owing to employee | Reason for which moneys owing
+- First Column | Second Column | Third Column
 
-  - Total amount owing to employees
+- Name and address of employee | Amount of wages and/or(1) other moneys owing to employee | Reason for which moneys owing
 
-  - Dated this day of 19 . . Applicant. AFFIDAVIT IN SUPPORT OF APPLICATION I, . make oath/do solemnly, sincerely and truly declare and affirm(1) and say that the facts stated in paragraph 2 of the above application are correct to the best of my knowledge and belief. Sworn/affirmed(1) at Hong Kong, the day of 19 . Before me, A Commissioner, &c. Note: (1) Delete whichever is inapplicable.
+- Total amount owing to employees
+
+- Dated this day of 19 .
+
+- Applicant.
+
+- Affidavit in Support of Application
+
+- I, . make oath/do solemnly, sincerely and truly declare and affirm(1) and say that the facts stated in paragraph 2 of the above application are correct to the best of my knowledge and belief.
+
+- Sworn/affirmed(1) at
+
+- Hong Kong, the day of 19 .
+
+- Before me,
+
+- A Commissioner, &c.
+
+- Note: | (1) | Delete whichever is inapplicable.
 
 - (Amended L.N. 48 of 1972; L.N. 177 of 1981)
 
 - _
 
-- FORM 2 | [Employment Ordinance, Second Schedule, Part I, paragraph 3]
+- Form 2 | [Employment Ordinance,
 
-- WARRANT FOR APPREHENSION OF ABSCONDING EMPLOYER [Title as in Form 1]
+- Second Schedule, Part I,
+
+- paragraph 3]
+
+- Warrant for Apprehension of Absconding Employer
+
+- [Title as in Form 1]
 
 - To each and all the police officers and bailiffs of Hong Kong.
 
-  - Whereas I am satisfied, on application made on the day of 19 by [name of applicant that the applicant [and the other persons referred to in the application](2) is/are/was/were(1) the employee/employees(1) of [name of employer], and that there is probable cause for believing that the said [name of employer] is about to leave Hong Kong with intent to evade payment of the sum of [amount of debt] being moneys earned by and owed to such employee/employees(1):
+- Whereas I am satisfied, on application made on the day of 19 by [name of applicant] that the applicant [and the other persons referred to in the application](2) is/are/was/were(1) the employee/employees(1) of [name of employer], and that there is probable cause for believing that the said [name of employer] is about to leave Hong Kong with intent to evade payment of the sum of [amount of debt] being moneys earned by and owed to such employee/employees(1):
 
-  - This is therefore to command you forthwith to apprehend the said [name of employer] and to bring him before a District Judge to show cause why he the said [name of employer] should not be required to give security in accordance with paragraph 5 of Part I of the Second Schedule to the Employment Ordinance, and to be further dealt with according to law.
+- This is therefore to command you forthwith to apprehend the said [name of employer] and to bring him before a District Judge to show cause why he the said [name of employer] should not be required to give security in accordance with paragraph 5 of Part I of the Second Schedule to the Employment Ordinance, and to be further dealt with according to law.
 
-  - Dated this day of 19 .
+- Dated this day of 19 .
 
-  - .
+- District Judge.
 
-  - District Judge.
+- [L.S.]
 
-  - [L.S.]
+- Notes︰ | (1) Delete whichever is inapplicable.
 
-  - Notes: (1) Delete whichever is inapplicable.
-
-    - (2) Delete if inapplicable.
+- (2) Delete if inapplicable.
 
 - (Amended L.N. 177 of 1981; 56 of 2000 s. 3)
 
 - _
 
-- FORM 3 | [Employment Ordinance, Second Schedule, Part I, paragraph 5]
+- Form 3 | [Employment Ordinance,
 
-- BOND TO SECURE PAYMENT OF WAGES DUE TO EMPLOYEES BY EMPLOYER
+- Second Schedule, Part I,
 
-- I/We(1) [name of employer] of [address], [name of surety] of [address], and [name of surety] of [[address], is/are(1) bound to [name of employee [and the other employees of (name of employer) specified in the application of (name of applicant) made on the day of 19 to District Judge , under section 67 of the Employment Ordinance](2) in the sum of $ , to be paid to [name of employee] [and the said other employees](2) or his/their respective(1) executors, administrators or assignees; for which payment to be made I/we jointly and severally(1) bind myself/ourselves(1), and my/our respective(1) heirs, executors and administrators. In witness whereof I/we(1) have hereto set my hand and seal/our hands and seals(1) this day of 19 . The condition of this obligation is that if [name of employer] appears before a District Judge whenever called upon until he has paid [name of employee] [and the said other employees](2) the full amount of $ specified in the application, then this obligation shall be void but this obligation shall otherwise remain in full force.
+- paragraph 5]
 
-- Signed, sealed and | ｝ | [Employer] (L.S.)
+- Bond to Secure Payment of Wages due to Employees by Employer
 
-- delivered in the | [Surety] (L.S.)
+- I/We(1) [name of employer] of [address], [name of surety] of [address], and [name of surety] of [address], is/are(1) bound to [name of employee] [and the other employees of (name of employer) specified in the application of (name of applicant) made on the day of 19 to District Judge , under section 67 of the Employment Ordinance](2) in the sum of $ , to be paid to [name of employee] [and the said other employees](2) or his/their respective(1) executors, administrators or assignees; for which payment to be made I/we jointly and severally(1) bind myself/ourselves(1), and my/our respective(1) heirs, executors and administrators.
 
-- presence of | [Surety] (L.S.)
+- In witness whereof I/we(1) have hereto set my hand and seal/our hands and seals(1) this day of 19 .
 
-- Notes: (1) Delete whichever is inapplicable.
+- The condition of this obligation is that if [name of employer] appears before a District Judge whenever called upon until he has paid [name of employee] [and the said other employees](2) the full amount of $ specified in the application, then this obligation shall be void but this obligation shall otherwise remain in full force.
 
-  - (2) Delete if inapplicable.
+- Signed, sealed and | } | [Employer] | (L.S.)
+
+- delivered in the | [Surety] | (L.S.)
+
+- presence of | [Surety] | (L.S.)
+
+- Notes︰ | (1) Delete whichever is inapplicable.
+
+- (2) Delete if inapplicable.
 
 - (Second Schedule added 71 of 1970 s. 7)

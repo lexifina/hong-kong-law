@@ -322,7 +322,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (a) an amount equal to 30 per cent of the market value of the approved pooled investment funds referred to in paragraph (k) of the definition of “Hong Kong dollar currency investment” in subsection (3) that are held in respect of the constituent fund;
 
-      - (b) an amount equal to the market value of the investments referred to in paragraphs (a) to (e) of that definition that are held in respect of that fund;
+      - (b) an amount equal to the market value of the investments referred to in paragraphs (a) to (e) and (j) of that definition that are held in respect of that fund; (32 of 2000 s. 48)
 
       - (c) an amount equal to the market value of the currency forward contracts referred to in paragraph (f) of that definition that are held in respect of that fund;
 
