@@ -1,0 +1,5 @@
+ROAD TRAFFIC (PARKING) REGULATIONS
+
+(Cap. 374 section 12)
+
+[25 August 1984] L.N. 299 of 1984
