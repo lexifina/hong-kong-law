@@ -112,6 +112,8 @@ DANGEROUS DRUGS
 
   - Flurazepam
 
+  - Gamma-hydroxybutyric acid (Added L.N. 149 of 2001)
+
   - Halazepam
 
   - Haloxazolam
@@ -280,6 +282,8 @@ DANGEROUS DRUGS
 
   - 4-Methyl aminorex
 
+  - 4-Methylthioamphetamine (Added L.N. 149 of 2001)
+
   - 4-Phenylpiperidine-4-carboxylic acid ethyl ester;
 
   - (b) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from tryptamine or from a ring-hydroxy tryptamine by substitution at the nitrogen atom of the sidechain with one or more alkyl substituents but no other substituent;
@@ -352,7 +356,7 @@ PREPARATIONS TO WHICH ORDINANCE APPLIES WITH MODIFICATIONS
 
 - 16B. A preparation for oral use containing not more than 135 milligrams of dextropropoxyphene base per dosage unit or with a concentration of not more than 2.5 per cent in undivided preparations:
 
-  - Provided that such preparations do not contain any substance specified in the Third Schedule to the Pharmacy and Poisons Regulations (Cap. 138 sub. leg.). (Added L.N. 185 of 1983)
+  - Provided that such preparations do not contain any substance specified in the Third Schedule to the Pharmacy and Poisons Regulations (Cap. 138 sub. leg. A). (Added L.N. 185 of 1983)
 
 - 16C. A preparation of Propiram containing not more than 100 milligrams of propiram per dosage unit and compounded with at least the same amount of methylcellulose. (Added L.N. 185 of 1983)
 
