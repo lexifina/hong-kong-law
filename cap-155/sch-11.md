@@ -14,6 +14,12 @@ MINIMUM CRITERIA FOR APPROVAL AS MONEY BROKER
 
     - “net debit balance” (借方淨差額), in relation to a company, means the aggregate of the excess of accumulated losses over accumulated profits disclosed in the profit and loss account, and other reserves separately disclosed in the balance sheet, of the most recent audited accounts of the company;
 
+    - “share premium account” (股份溢價帳)—
+
+      - (a) in relation to a company incorporated in Hong Kong, means a share premium account referred to in section 48B(1) of the Companies Ordinance (Cap. 32) maintained in respect of the company;
+
+      - (b) in relation to a company incorporated outside Hong Kong, means an account having the same characteristics of a share premium account referred to in section 48B(1) of the Companies Ordinance (Cap. 32) irrespective of its name; (Added L.N. 137 of 2001)
+
     - “systems of control” (管控制度) includes procedures.
 
   - (2) For the purpose of the calculation of the paid-up share capital of a company required by this Schedule, there shall be deducted from such share capital any net debit balance.
@@ -46,7 +52,7 @@ MINIMUM CRITERIA FOR APPROVAL AS MONEY BROKER
 
 - is a fit and proper person to hold the particular position which he holds or is to hold.
 
-- 5. The Monetary Authority is satisfied that the company presently has, and will if it is approved continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing, its paid-up share capital is not less than $5,000,000 or an equivalent amount in any other approved currency.
+- 5. The Monetary Authority is satisfied that the company presently has, and will if it is approved continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $5,000,000 or an equivalent amount in any other approved currency. (Amended L.N. 137 of 2001)
 
 - 6. The Monetary Authority is satisfied that the company presently has, and will if it is approved continue to have, adequate accounting systems and adequate systems of control.
 
