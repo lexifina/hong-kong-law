@@ -1,0 +1,5 @@
+SOLICITORS (GENERAL) COSTS RULES
+
+(Cap. 159, section 74)
+
+[1 July 1970]
