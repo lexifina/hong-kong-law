@@ -1,191 +1,363 @@
 # SCHEDULE 1
 
-[ss. 6, 7, 8, 9, 12,13, 14, 16, 17, 20 & 24]
+[ss. 6, 7, 8, 9, 12, 13, 14, 16, 17, 20 & 24]
 
 FORM 1
 
-MECICAL COUNCIL (ELECTORAL PROVISIONS)
+MEDICAL COUNCIL (ELECTORAL PROVISIONS)
 
-(PROCEDURE) REGULATION NOTICE OF ELECTION
+(PROCEDURE) REGULATION
 
-- 1. It is hereby notified that there *is a vacancy for an elected member/are . vacancies for elected members of the Medical Council of Hong Kong under section 3(2)(j) of the Ordinance.
+NOTICE OF ELECTION
 
-- 2. Nominations for the above *vacancy/vacancies shall be received by me at the Medical Council Secretariat, (address) . during office hours on any working day up to and including (date) .
+1. It is hereby notified that there *is a vacancy for an elected member/are . vacancies for elected members of the Medical Council of Hong Kong under section 3(2)(j) of the Ordinance.
 
-- 3. Nomination papers (No. of copies) are attached and extra copies may be obtained free of charge during office hours on any working day from the Medical Council Secretariat at the above address.
+2. Nominations for the above *vacancy/vacancies shall be received by me at the Medical Council Secretariat, (address) . during office hours on any working day up to and including (date) .
 
-- 4. If the election is contested, a poll will be conducted by postal ballot, details of which will be announced in due course.
+3. Nomination papers (No. of copies) are attached and extra copies may be obtained free of charge during office hours on any working day from the Medical Council Secretariat at the above address.
 
-- Date . | . Secretary, Medical Council of Hong Kong.
+4. If the election is contested, a poll will be conducted by postal ballot, details of which will be announced in due course.
 
-- *Delete words which do not apply. _ FORM 2 MECICAL COUNCIL (ELECTORAL PROVISIONS)
+Date
 
-- (PROCEDURE) REGULATION ELECTION OF A MEDICAL COUNCIL MEMBER
+Secretary, Medical Council of Hong Kong.
 
-- FOR THE PERIOD . TO . NOMINATION PAPER PART I (to be completed by proposer and seconder)—
+* Delete words which do not apply.
 
-- 1. We are registered medical practitioners qualified to vote under section 5 of the Medical Council (Electoral Provisions) (Procedure) Regulation and we hereby nominate the following registered medical practitioner as a candidate at the above election (candidate’s name to be given in English and Chinese, if applicable)— Dr. . PROPOSER: Name in English and Chinese (if applicable): . Registration No.: . Hong Kong Identity Card No.: . Registered Address: . . Telephone Number: . Signature: . SECONDER: Name in English and Chinese (if applicable): . Registration No.: . Hong Kong Identity Card No.: . Registered Address: . . Telephone Number: . Signature: . PART II (to be completed by candidate)—
+(L.N. 312 of 1998)
 
-- 1. I hereby consent to my nomination as a candidate at the above election.
+_
 
-- 2. I hereby declare that I am qualified under section 4(1) of the Medical Council (Electoral Provisions) (Procedure) Regulation for nomination as a candidate and for election. The date of my registration with the Medical Council is .
+FORM 2
 
-- 3. I hereby further declare that to the best of my knowledge and belief I am not disqualified from being nominated or elected by reason of any disqualification contained in section 4(2) of the aforementioned Regulation. Name in English and Chinese (if applicable): . Registration No.: .
+MEDICAL COUNCIL (ELECTORAL PROVISIONS)
 
-- Hong Kong Identity Card No.: .
+(PROCEDURE) REGULATION
 
-- Registered Address: . . Telephone Number: .
+ELECTION OF A MEDICAL COUNCIL MEMBER
 
-- Signature: . Note: This nomination paper must be completed and returned by post to the Secretary, Medical Council at (Address) . .
+FOR THE PERIOD . TO .
 
-- . up to and including (Date) .
+NOMINATION PAPER
 
-- The date of the post mark shall be taken as the date of delivery of this nomination paper. _ FORM 3 MEDICAL COUNCIL (ELECTORAL PROVISIONS)
+PART I (to be completed by proposer and seconder)—
 
-- (PROCEDURE) REGULATION NOMINATION FOR APPOINTMENT OF A MEDICAL COUNCIL MEMBER
+1. We are registered medical practitioners qualified to vote under section 5 of the Medical Council (Electoral Provisions) (Procedure) Regulation and we hereby nominate the following registered medical practitioner as a candidate at the above election (candidate’s name to be given in English and Chinese, if applicable)—
 
-- FOR THE PERIOD . TO . (pursuant to section 8) We wish to nominate— Dr. . (Name in block letters and in Chinese, if applicable) of Registration No.: . and Registered address: . . for appointment to be a member of the Medical Council of Hong Kong. Proposer: . (Name in block letters and in Chinese, if applicable) . (Signature) Seconder: . (Name in block letters and in Chinese, if applicable) . (Signature)
+Dr.
 
-- 2. I agree to be nominated and will serve on the Council if appointed. Signature of Nominee: . Date: .
+PROPOSER:
 
-- _ FORM 4 MEDICAL COUNCIL (ELECTORAL PROVISIONS)
+Name in English and
 
-- (PROCEDURE) REGULATION ELECTION OF A MEDICAL COUNCIL MEMBER FOR THE
+Chinese (if applicable):
 
-- PERIOD . TO . WITHDRAWAL OF CANDIDATURE
+Registration No.:
 
-- 1. I, . (name of candidate as described on nomination paper), of Hong Kong Identity Card no. ., Registration No.: . and with registered address at . ., was duly nominated as a candidate at the above election.
+Hong Kong Identity Card No.:
 
-- 2. I do not now wish to be nominated as such candidate and I hereby withdraw my consent indicated in a nomination paper dated . Signature of Candidate: . Date: .
+Registered Address:
 
-- 3. This form was signed in the presence of the following registered medical practitioner and elector— Name of Witness: .
+Telephone Number:
 
-- Hong Kong Identity Card No.: .
+Signature:
 
-- Registered Address: .
+SECONDER:
 
-- .
+Name in English and
 
-- Signature of Witness: .
+Chinese (if applicable):
 
-- Date: .
+Registration No.:
 
-- _ FORM 5 MEDICAL COUNCIL (ELECTORAL PROVISIONS)
+Hong Kong Identity Card No.:
 
-- (PROCEDURE) REGULATION ELECTION OF A MEDICAL COUNCIL MEMBER FOR THE
+Registered Address:
 
-- PERIOD . TO . Closing Date of Nomination . NOTICE OF RESULT OF NOMINATIONS
+Telephone Number:
 
-- 1.
+Signature:
 
-- The following is a statement as to candidates nominated at the above election—
+PART II (to be completed by candidate)—
 
-- List A: CANDIDATES VALIDLY NOMINATED
+1. I hereby consent to my nomination as a candidate at the above election.
 
-- Particulars as shown on Nomination Paper
+2. I hereby declare that I am qualified under section 4(1) of the Medical Council (Electoral Provisions) (Procedure) Regulation for nomination as a candidate and for election. The date of my registration with the Medical Council is .
 
-- Candidate’s Name | Registration Number | Registered Address | Proposer’s Name
+3. I hereby further declare that to the best of my knowledge and belief I am not disqualified from being nominated or elected by reason of any disqualification contained in section 4(2) of the aforementioned Regulation.
 
-- List B (if any): CANDIDATES NOT VALIDLY NOMINATED
+Name of Candidate in English and
 
-- (including those who have withdrawn)
+Chinese (if applicable):
 
-- Particulars as shown on Nomination Paper | Secretary’s decision that nomination paper is invalid, or other reason why a candidate no long stands nominated
+Registration No.:
 
-- Candidate’s Name | Registration Number | Registered Address | Proposer’s Name
+Hong Kong Identity Card No.:
 
-- (or) #2 It is hereby notified that as there are more validly nominated candidates than vacancies available, polling will be conducted by postal ballot. A ballot form is attached for the purpose.
+Registered Address:
 
-- Ballots will be received by me at (address) .
+Telephone Number:
 
-- . on any working day up to and including (date) . In this context, the date of the post mark shall be taken as the date of delivery of the ballot. Ballot which is returned postmarked after this date shall be void.
+Signature:
 
-- The date for polling is scheduled for ., this date being the date on which the ballot papers are to be counted.
+Date:
 
-- (or) #2 It is hereby notified that since the number of candidates in List A above falls short of the number of vacancies available—
+Note: | This nomination paper must be completed and returned by post to the Secretary, Medical Council at (Address)
 
-  - (i) the candidates in List A above are declared to be elected; and
+. up to and including (Date)
 
-  - (ii) the remaining *. vacancy(ies) is/are* open to nominations and a notice of election for this purpose is attached.
+The date of the post mark shall be taken as the date of delivery of this nomination paper.
 
-- (or) #2 It is hereby notified that *no candidate is validly nominated/the following nominated candidates have withdrawn under section 12. Nomination for the *vacancy/. (No.) vacancies are invited afresh. A notice of election for this purpose is attached.
+(L.N. 312 of 1998)
 
-- Date . | . Secretary, Medical Council of Hong Kong.
+_
 
-- #if inapplicable.
+FORM 3
 
-- *Delete words which do not apply.
+MEDICAL COUNCIL (ELECTORAL PROVISIONS)
 
-- _ FORM 6 MECICAL COUNCIL (ELECTORAL PROVISIONS)
+(PROCEDURE) REGULATION
 
-- (PROCEDURE) REGULATION ELECTION OF A MEDICAL COUNCIL MEMBER Date of Election . NOTICE OF COUNTERMAND OF ELECTION
+NOMINATION FOR APPOINTMENT OF A MEDICAL COUNCIL MEMBER
 
-- 1. It is hereby notified that the election of Medical Council members scheduled for . (date) is countermanded under section 17 of the Medical Council (Electoral Provisions) (Procedure) Regulation.
+FOR THE PERIOD . TO .
 
-- 2. Nominations for the *vacancy/. (No.) vacancies are invited afresh and shall be received by me at the Medical Council Secretariat, (address) .
+(pursuant to section 8)
 
-- . during office hours on any working day up to and including (date) .
+We wish to nominate—
 
-- 3. Forms of nomination papers (No. of copies) are attached and extra copies may be obtained free of charge during office hours on any working day from the Medical Council Secretariat at the above address.
+Dr.
 
-- 4. If the election is contested, a poll will be conducted by postal ballot, details to be announced in due course.
+(Name in block letters and in Chinese, if applicable)
 
-- Date . | . Secretary, Medical Council of Hong Kong.
+of Registration No.: | and
 
-- *Delete words which do not apply. _ FORM 7 MECICAL COUNCIL (ELECTORAL PROVISIONS)
+Registered address:
 
-- (PROCEDURE) REGULATION ELECTION OF MEDICAL COUNCIL MEMBERS Date of Election : . BALLOT PAPER Serial No. . (Please read “Directions for completing ballot paper” at the back before completion.) I wish to elect the following candidate(s), against whose names I have placed an “X”, to be elected member(s) of the Medical Council of Hong Kong—
+for appointment to be a member of the Medical Council of Hong Kong.
 
-- Name of Candidate | Registered Address of Candidate (as in Notice of Nomination)
+Proposer:
 
-- Name of Elector: .
+(Name in block letters and in Chinese, if applicable)
 
-- Registration No.: .
+(Signature)
 
-- Hong Kong Identity Card No.: .
+Seconder:
 
-- Registered Address: .
+(Name in block letters and in Chinese, if applicable)
 
-- .
+(Signature)
 
-- Telephone No.: .
+2. I agree to be nominated and will serve on the Council if appointed.
 
-- Signature: . DIRECTIONS FOR COMPLETING BALLOT PAPER
+Signature of Nominee:
 
-- 1. The elector shall submit one ballot paper only, in accordance with this Part.
+Date:
 
-- 2. In the case of duplicate ballot papers, both papers shall be void.
+_
 
-- 3. The elector shall indicate his preference by marking an “X” in the box against the name of the candidate of his choice.
+FORM 4
 
-- 4. The elector may only mark on his ballot paper his preference for up to a maximum of . candidates, i.e. the number of vacancies available.
+MEDICAL COUNCIL (ELECTORAL PROVISIONS)
 
-- 5. Where the elector marks his ballot paper for more candidates than there are vacancies, his ballot paper shall be void for uncertainty.
+(PROCEDURE) REGULATION
 
-- 6. Ballot papers which are not clearly marked or which contain alterations shall be void for uncertainty.
+ELECTION OF A MEDICAL COUNCIL MEMBER
 
-- 7. The elector shall furnish his personal particulars as required on the ballot paper and shall personally sign it. No proxy shall be allowed.
+FOR THE PERIOD . TO .
 
-- 8. Only original ballot papers, which are serially numbered, shall be accepted.
+WITHDRAWAL OF CANDIDATURE
 
-- 9. An elector who has inadvertently marked, torn or otherwise spoilt his ballot paper may, only on returning the spoilt original ballot paper to the Medical Council Secretariat, obtain another ballot paper in the place of the spoilt ballot paper.
+1. I, . (name of candidate as described on nomination paper), of Hong Kong Identity Card no. ., Registration No.: . and with registered address at ., was duly nominated as a candidate at the above election.
 
-- 10. Completed ballot papers must be returned by post to the Medical Council Secretariat at (address) . on any working day up to and including (date) . Returns postmarked after that date shall be void.
+2. I do not now wish to be nominated as such candidate and I hereby withdraw my consent indicated in a nomination paper dated .
 
-- _ FORM 8 MECICAL COUNCIL (ELECTORAL PROVISIONS)
+Signature of Candidate:
 
-- (PROCEDURE) REGULATION ELECTION TO THE MEDICAL COUNCIL NOTICE OF RESULT OF ELECTION
+Date:
 
-- *1. The following is a statement of the results of the polling on .
+3. This form was signed in the presence of the following registered medical practitioner and elector—
 
-- Candidate’s Name | Number of votes received
+Name of Witness:
 
-- *Delete if inapplicable.
+Hong Kong Identity Card No.:
 
-- 2. It is hereby notified that the following *candidate has/candidates have been declared to be elected as *a member/members of the Medical Council—
+Registered Address:
 
-- Name of Candidate Elected | Registration No. | Period of Office | Remarks
+Signature of Witness:
 
-- Date . | . Secretary, Medical Council of Hong Kong.
+Date:
 
-- *Delete words that do not apply.
+_
+
+FORM 5
+
+MEDICAL COUNCIL (ELECTORAL PROVISIONS)
+
+(PROCEDURE) REGULATION
+
+ELECTION OF A MEDICAL COUNCIL MEMBER
+
+FOR THE PERIOD . TO .
+
+Closing Date of Nomination .
+
+NOTICE OF RESULT OF NOMINATIONS
+
+1. The following is a statement as to candidates nominated at the above election—
+
+List A: CANDIDATES VALIDLY NOMINATED
+
+Particulars as shown on Nomination Paper
+
+Candidate’s Name | Registration Number | Registered Address | Proposer’s Name
+
+List B (if any): | CANDIDATES NOT VALIDLY NOMINATED
+
+(including those who have withdrawn)
+
+Particulars as shown on Nomination Paper | Secretary’s decision that nomination paper is invalid, or other reason why a candidate no longer stands nominated
+
+Candidate’s Name | Registration Number | Registered Address | Proposer’s Name
+
+(or) #2 It is hereby notified that as there are more validly nominated candidates than vacancies available, polling will be conducted by postal ballot. A ballot form is attached for the purpose.
+
+Ballots will be received by me at (address)
+
+. on any working day up to and including (date) . In this context, the date of the post mark shall be taken as the date of delivery of the ballot. Ballot which is returned postmarked after this date shall be void.
+
+The date for polling is scheduled for ., this date being the date on which the ballot papers are to be counted.
+
+(or) #2 It is hereby notified that since the number of candidates in List A above falls short of the number of vacancies available—
+
+(i) | the candidates in List A above are declared to be elected; and
+
+(ii) | the remaining *. vacancy(ies) is/are* open to nominations and a notice of election for this purpose is attached.
+
+(or) #2 It is hereby notified that *no candidate is validly nominated/the following nominated candidates have withdrawn under section 12. Nomination for the *vacancy/. (No.) vacancies are invited afresh. A notice of election for this purpose is attached.
+
+Date
+
+Secretary, Medical Council of Hong Kong.
+
+\# Delete if inapplicable.
+
+* Delete words which do not apply.
+
+(L.N. 312 of 1998)
+
+_
+
+FORM 6
+
+MEDICAL COUNCIL (ELECTORAL PROVISIONS)
+
+(PROCEDURE) REGULATION
+
+ELECTION OF A MEDICAL COUNCIL MEMBER
+
+Date of Election .
+
+NOTICE OF COUNTERMAND OF ELECTION
+
+1. It is hereby notified that the election of Medical Council members scheduled for . (date) is countermanded under section 17 of the Medical Council (Electoral Provisions) (Procedure) Regulation. 2. Nominations for the *vacancy/. (No.) vacancies are invited afresh and shall be received by me at the Medical Council Secretariat, (address) . during office hours on any working day up to and including (date) .
+
+3. Forms of nomination papers (No. of copies) are attached and extra copies may be obtained free of charge during office hours on any working day from the Medical Council Secretariat at the above address.
+
+4. If the election is contested, a poll will be conducted by postal ballot, details to be announced in due course.
+
+Date
+
+Secretary, Medical Council of Hong Kong.
+
+*Delete words which do not apply.
+
+(L.N. 312 of 1998)
+
+_
+
+FORM 7
+
+MEDICAL COUNCIL (ELECTORAL PROVISIONS)
+
+(PROCEDURE) REGULATION
+
+ELECTION OF MEDICAL COUNCIL MEMBERS
+
+Date of Election:.
+
+BALLOT PAPER
+
+Serial No. .
+
+(Please read “Directions for completing ballot paper” at the back before completion.)
+
+I wish to elect the following candidate(s), against whose names I have placed an “X”, to be elected member(s) of the Medical Council of Hong Kong—
+
+Name of Candidate | Registered Address of Candidate (as in Notice of Nomination)
+
+Name of Elector:
+
+Registration No.:
+
+Hong Kong Identity Card No.:
+
+Registered Address:
+
+Telephone No.:
+
+Signature:
+
+DIRECTIONS FOR COMPLETING BALLOT PAPER
+
+1. The elector shall submit one ballot paper only, in accordance with this Part.
+
+2. In the case of duplicate ballot papers, both papers shall be void.
+
+3. The elector shall indicate his preference by marking an “X” in the box against the name of the candidate of his choice.
+
+4. The elector may only mark on his ballot paper his preference for up to a maximum of . candidates, i.e. the number of vacancies available.
+
+5. Where the elector marks his ballot paper for more candidates than there are vacancies, his ballot paper shall be void for uncertainty.
+
+6. Ballot papers which are not clearly marked or which contain alterations shall be void for uncertainty.
+
+7. The elector shall furnish his personal particulars as required on the ballot paper and shall personally sign it. No proxy shall be allowed.
+
+8. Only original ballot papers, which are serially numbered, shall be accepted.
+
+9. An elector who has inadvertently marked, torn or otherwise spoilt his ballot paper may, only on returning the spoilt original ballot paper to the Medical Council Secretariat, obtain another ballot paper in the place of the spoilt ballot paper.
+
+10. Completed ballot papers must be returned by post to the Medical Council Secretariat at (address).on any working day up to and including (date) . Returns postmarked after that date shall be void.
+
+(L.N. 312 of 1998)
+
+_
+
+FORM 8
+
+MEDICAL COUNCIL (ELECTORAL PROVISIONS)
+
+(PROCEDURE) REGULATION
+
+ELECTION TO THE MEDICAL COUNCIL
+
+NOTICE OF RESULT OF ELECTION
+
+*1. The following is a statement of the results of the polling on .
+
+Candidate’s Name | Number of votes received
+
+* Delete if inapplicable.
+
+2. It is hereby notified that the following *candidate has/candidates have been declared to be elected as *a member/members of the Medical Council—
+
+Name of Candidate Elected | Registration No. | Period of Office | Remarks
+
+Date
+
+Secretary, Medical Council of Hong Kong.
+
+*Delete words that do not apply.
+
+(L.N. 312 of 1998)
