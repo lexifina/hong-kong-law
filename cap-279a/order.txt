@@ -73,6 +73,7 @@ s-066.md
 s-067.md
 s-068.md
 s-069.md
+s-069A.md
 s-070.md
 s-070A.md
 s-071.md

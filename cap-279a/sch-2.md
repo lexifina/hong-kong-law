@@ -4,11 +4,11 @@ PART I | [regulation 68]
 
 QUALIFICATIONS FOR A REGISTERED TEACHER
 
-- (1) An approved degree of either the University of Hong Kong, or of The Chinese University of Hong Kong, together with an approved teacher’s diploma, certificate, or like qualification to teach;
+- (1) An approved degree of a specified institution together with an approved teacher’s diploma, certificate, or like qualification to teach; (1 of 2004 s. 18)
 
-- (2) a degree in education of either the University of Hong Kong or of The Chinese University of Hong Kong;
+- (2) a degree in education of a specified institution; (1 of 2004 s. 18)
 
-- (3) an approved degree of either the University of Hong Kong, or of The Chinese University of Hong Kong, and 3 years approved teaching experience;
+- *(3) (Repealed 1 of 2004 s. 18)
 
 - (4) a teacher’s certificate issued by the Hong Kong Government;
 
@@ -18,53 +18,81 @@ QUALIFICATIONS FOR A REGISTERED TEACHER
 
 - (7) a certificate of status as “Qualified Teacher” or “Qualified Kindergarten Teacher” issued by the Hong Kong Education Department to a teacher who has completed an approved course of training and passed a written and practical test, and approved teaching experience; (L.N. 122 of 1974; L.N. 268 of 1990)
 
-- (8) any other educational training and experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2), (3), (4), (5), (6) or (7); or (3 of 2003 s. 14)
+- (8) any other educational training and experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2), (4), (5), (6) or (7); or (3 of 2003 s. 14; 1 of 2004 s. 18)
 
-- (9)
-
-  - (a) 10 years approved teaching experience and one or more Hong Kong Certificates of Education with an aggregate of 5 separate subjects at Grade E or a higher grade, including—
-
-    - (i) English Language in the Hong Kong Certificate of Education (English), or of a standard which in the opinion of the Permanent Secretary is equivalent to Grade E or a higher grade in that Certificate; or
-
-    - (ii) Chinese Language;
-
-  - (b) 10 years approved teaching experience and one or more Hong Kong Certificates of Education with an aggregate of 4 separate subjects, 2 of which are at Grade C or a higher grade and the other 2 of which are at Grade E or a higher grade, including—
-
-    - (i) English Language in the Hong Kong Certificate of Education (English), or of a standard which in the opinion of the Permanent Secretary is equivalent to Grade E or a higher grade in that Certificate; or
-
-    - (ii) Chinese Language;
-
-  - (c) 10 years approved teaching experience and any educational training which in the opinion of the Permanent Secretary is equivalent to the other qualifications specified in subparagraph (a) or (b); or
-
-  - (d) 10 years approved teaching experience and a Hong Kong English School Certificate, a Hong Kong Chinese School Certificate, or a Hong Kong School Certificate. (3 of 2003 s. 14) For the purposes of this Part—
+- *(9) (Repealed 1 of 2004 s. 18) For the purposes of this Part and Part II—
 
   - (a)
 
-    - “approved” (認可) means approved by the Permanent Secretary; (3 of 2003 s. 14)
+    - “approved” (認可) means approved by the Permanent Secretary;
 
-  - (b) a subject is not separate from another subject by reason only that instruction in the first subject is given in a different language to that in which instruction in the second subject is given.
+  - (b)
 
-  - PART II | [regulation 69]
+    - “specified institution” (指明院校) means any of the following—
 
-  - QUALIFICATIONS FOR A PERMITTED TEACHER, OTHER THAN A TEACHER TO WHOM PART III OR IV APPLIES
+    - (i) the Lingnan University established by the Lingnan University Ordinance (Cap. 1165);
 
-(L.N. 268 of 1990)
+    - (ii) The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444);
 
-- (1) The qualifications (other than 10 years approved teaching experience) specified in paragraph (9)(a), (b) or (d) of Part I; or
+    - (iii) the University of Hong Kong established by the University of Hong Kong Ordinance (Cap. 1053);
 
-- (2) any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1). (L.N. 237 of 1982; 3 of 2003 s. 14)
+    - (iv) The Hong Kong Polytechnic University established by The Hong Kong Polytechnic University Ordinance (Cap. 1075);
+
+    - (v) The Chinese University of Hong Kong established by The Chinese University of Hong Kong Ordinance (Cap. 1109);
+
+    - (vi) the Hong Kong Baptist University established by the Hong Kong Baptist University Ordinance (Cap. 1126);
+
+    - (vii) the City University of Hong Kong established by the City University of Hong Kong Ordinance (Cap. 1132);
+
+    - (viii) The Hong Kong Academy for Performing Arts established by The Hong Kong Academy for Performing Arts Ordinance (Cap. 1135);
+
+    - (ix) The Hong Kong University of Science and Technology established by The Hong Kong University of Science and Technology Ordinance (Cap. 1141);
+
+    - (x) The Open University of Hong Kong established by The Open University of Hong Kong Ordinance (Cap. 1145);
+
+    - (xi) any Post Secondary College registered under the Post Secondary Colleges Ordinance (Cap. 320). (1 of 2004 s. 18)
+
+    - PART II | [regulation 69]
+
+    - QUALIFICATIONS FOR A PERMITTED TEACHER, OTHER THAN A TEACHER
+
+    - TO WHOM PART IIA, III OR IV APPLIES
+
+(L.N. 268 of 1990; 1 of 2004 s. 18)
+
+- (1) A higher diploma issued by a specified institution; (1 of 2004 s. 18)
+
+- (1A) an associate degree of a specified institution; or (1 of 2004 s. 18)
+
+- (2) any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1) or (1A). (L.N. 237 of 1982; 3 of 2003 s. 14; 1 of 2004 s. 18)
+
+- PART IIA | [regulation 69A]
+
+- QUALIFICATIONS FOR A PERMITTED TEACHER
+
+- WHO IS PERMITTED TO TEACH OTHER
+
+- EDUCATIONAL COURSES
+
+- (1) One or two Hong Kong Certificates of Education Examination with an aggregate of 5 separate subjects at Grade E or a higher grade, including—
+
+  - (a) English Language (Syllabus B), or of a standard which in the opinion of the Permanent Secretary is equivalent to Grade E or a higher grade in that Certificate; or
+
+  - (b) Chinese Language; or
+
+- (2) any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1). For the purposes of this Part and Part IV, a subject is not separate from another subject by reason only that instruction in the first subject is given in a language different from that in which instruction in the second subject is given. (1 of 2004 s. 18)
 
 - PART III | [regulation 70]
 
 - QUALIFICATIONS FOR A PERMITTED TEACHER
 
-- WHO IS PERMITTED TO TEACH ENGLISH The qualifications specified in paragraph (1) or (2) of Part II and—
+- WHO IS PERMITTED TO TEACH ENGLISH The qualifications specified in Part II or IIA and— (1 of 2004 s. 18)
 
-- (1) Grade E or higher grade in English Language in the Hong Kong Certificate of Education (English) Examination;
+- (1) Grade E or higher grade in English Language (Syllabus B) in the Hong Kong Certificate of Education Examination; (1 of 2004 s. 18)
 
 - (2) a pass in English Language in the Hong Kong English School Certificate, the Hong Kong Chinese School Certificate, or the Hong Kong School Certificate; or
 
-- (3) a knowledge of English of a standard which in the opinion of the Permanent Secretary is equivalent to Grade E in English Language in the Hong Kong Certificate of Education (English). (3 of 2003 s. 14)
+- (3) a knowledge of English of a standard which in the opinion of the Permanent Secretary is equivalent to Grade E in English Language (Syllabus B) in the Hong Kong Certificate of Education Examination. (3 of 2003 s. 14; 1 of 2004 s. 18)
 
 - PART IV | [regulation 70A]
 
@@ -76,7 +104,7 @@ QUALIFICATIONS FOR A REGISTERED TEACHER
 
 - (1) A certificate of status as “Qualified Assistant Kindergarten Teacher” issued by the Hong Kong Education Department to a teacher who has completed an approved course of training, and approved teaching experience;
 
-- (2) full-time secondary education of approved duration; or
+- (2) one or two Hong Kong Certificates of Education Examination with an aggregate of 5 separate subjects at Grade E or a higher grade, including English Language (Syllabus A or B) and Chinese Language; or (1 of 2004 s. 18)
 
 - (3)
 
@@ -85,3 +113,17 @@ QUALIFICATIONS FOR A REGISTERED TEACHER
   - For the purposes of this Part, “approved” (認可) means approved by the Permanent Secretary. (3 of 2003 s. 14)
 
 (L.N. 268 of 1990)
+
+Editorial Note:
+
+* This paragraph was repealed by section 18 of the Education (Miscellaneous Amendments) Ordinance 2004 (1 of 2004). The saving and transitional provisions contained in sections 20 and 21 of that Amendment Ordinance read as follows—
+
+“20. Saving regarding qualifications of registered teachers and permitted teachers (1) If immediately before the commencement date there is in existence an application— (a) for registration as a teacher made under section 44 of the Education Ordinance (Cap. 279); or (b) to employ a person as a permitted teacher in a school made under section 49 of the Education Ordinance (Cap. 279),
+
+which has not been disposed of, then the application is to be disposed of as if this Ordinance has not been enacted.
+
+(2) A person who possesses the prescribed qualifications for registration as a teacher immediately before the commencement date may apply for registration within 2 months from the commencement date and the application is to be disposed of as if this Ordinance had not been enacted. (3) This section is in addition to and not in derogation from section 23 of the Interpretation and General Clauses Ordinance (Cap. 1).
+
+- **(4) In this section and section 21, “commencement date” (生效日期) means the date appointed by the Secretary for Education and Manpower for the commencement of section 18 of this Ordinance under section 1(2) of this Ordinance. ** Commencement date: 1 October 2004.
+
+21. Transitional provisions regarding qualifications of permitted teachers (1) Notwithstanding section 51(1)(c) of the Education Ordinance (Cap. 279), the Permanent Secretary may issue a permit under section 50 of that Ordinance in respect of a person who was serving as permitted teacher in a school immediately before the commencement date even though the person does not possess the prescribed qualifications for a permitted teacher on or after the commencement date. (2) Subsection (1) applies where— (a) an application to employ the person as a permitted teacher in a school is made under section 49 of the Education Ordinance (Cap. 279) within 5 years from the commencement date; and (b) at the time of making the application the person has been enrolled in or is attending a training course approved by the Permanent Secretary for the purpose.”.
