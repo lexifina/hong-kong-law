@@ -27,3 +27,5 @@ Fee No. | Description | Fee $
 6 | Processing of a bill of costs which is withdrawn less than 7 days before the appointment for taxation | 10% of the taxing fee which would be payable if the bill was to be allowed in full or $1,000 whichever is the less
 
 7 | Authentication of document by the Registrar | 125
+
+(L.N. 336 of 2000; L.N. 24 of 2001)
