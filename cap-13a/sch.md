@@ -1,8 +1,8 @@
 # SCHEDULE
 
-[rules 3, 4, 5, 6, 7, 9 & 10]
+[rules 3, 3A, 3B, 3C, 4, 5, 6, 7, 9 & 10] (L.N. 260 of 2001)
 
-FORM 1 | [rule 3(3)]
+FORM 1 | [rules 3(3), 3A, 3B & 3C]
 
 STATEMENT OF MEANS OF THE MAINTENANCE PAYER IN THE DISTRICT COURT OF THE HONG KONG SPECIAL ADMINISTRATIVE
 
@@ -12,7 +12,7 @@ OF THE HIGH COURT OF THE HONG KONG
 
 SPECIAL ADMINISTRATIVE REGION
 
-In the Matter of an Application by . under section 20 of the Guardianship of Minors Ordinance (Cap. 13)/section 9A of the Separation and Maintenance Orders Ordinance (Cap. 16)/section 28 of the Matrimonial Proceedings and Property Ordinance (Cap. 192)
+In the Matter of an Application by . /a Motion of the Court under section 20 of the Guardianship of Minors Ordinance (Cap. 13)/section 9A of the Separation and Maintenance Orders Ordinance (Cap. 16)/section 28 of the Matrimonial Proceedings and Property Ordinance (Cap. 192)
 
 Between | A.B. | Applicant (Designated Payee)
 
@@ -34,7 +34,7 @@ set out hereunder the particulars of my income and expenses and I understand tha
 
   - 1. My income (e.g. wages, rents and dividends)—
 
-  - Name of the Income Source | Nature of Income | Amount | Frequency (e.g.Daily/ Weekly/Monthly) | Annex No.
+  - Name of the Income Source | Nature of Income | Amount | Frequency (e.g. Daily/ Weekly/Monthly) | Annex No.
 
   - . | . | $ . | . | .
 
@@ -110,17 +110,41 @@ THE HONOURABLE MR. JUSTICE/MASTER . IN CHAMBERS)
 
 To the above-named Maintenance Payer
 
-WHEREAS an application was made to the Court on the . day of .19., by the above-named Designated Payee for an Attachment of Income Order in respect of your income.
+WHEREAS an application was made to the Court on the . day of ., by the above-named Designated Payee for an Attachment of Income Order in respect of your income.
 
 THE COURT HEREBY ORDERS that you do file in Court a statement of means (a blank form annexed) within 7 days of the date of this Order and that you do serve a copy of the statement of means on the above-named Designated Payee.
 
 AND THE COURT FURTHER ORDERS that you do pay the Designated Payee the costs of and incidental to this application.
 
-Dated this . day of . 19 .
+Dated this . day of .
 
 Registrar
 
-FORM 3 | [rule 5(1)]
+(L.N. 260 of 2001)
+
+FORM 2A | [rule 3C]
+
+ORDER TO MAINTENANCE PAYER TO FURNISH
+
+STATEMENT OF MEANS (Heading as in Form 1) (BEFORE HIS HONOUR JUDGE .,
+
+JUDGE OF DISTRICT COURT IN CHAMBERS/BEFORE
+
+THE HONOURABLE MR. JUSTICE/MASTER . IN CHAMBERS)
+
+To the above-named Maintenance Payer
+
+WHEREAS the Court intends to make an Attachment of Income Order on its own motion in respect of your income.
+
+THE COURT HEREBY ORDERS that you do file in Court a statement of means (a blank form annexed) within 7 days of the date of this Order and that you do serve a copy of the statement of means on the above-named Designated Payee.
+
+Dated this . day of .
+
+Registrar
+
+(L.N. 260 of 2001)
+
+FORM 3 | [rules 3A, 3B & 5(1)]
 
 ORDER TO INCOME SOURCE TO VERIFY STATEMENT
 
@@ -132,17 +156,15 @@ THE HONOURABLE MR. JUSTICE/MASTER . IN CHAMBERS)
 
 To XYZ (Income Source)
 
-WHEREAS an application was made to the Court on the . day of .
+*WHEREAS an application was made to the Court on the . day of ., by the above-named Designated Payee/jointly by the above-named Designated Payee and the Maintenance Payer for an Attachment of Income Order in respect of income which falls to be paid to the above-named Maintenance Payer residing at . (full residential address).
 
-19 ., by the above-named Designated Payee for an Attachment of Income Order in respect of income which falls to be paid to the above-named Maintenance Payer of .
-
-. (full residential address).
+*WHEREAS the Court intends to make an Attachment of Income Order on its own motion in respect of income which falls to be paid to the above-named Maintenance Payer residing at . . (full residential address).
 
 AND WHEREAS it appears to the Court that you are an income source of the Maintenance Payer.
 
 YOU ARE HEREBY ORDERED to verify the contents of the annexed statement of means of the Maintenance Payer by filling in the attached statement of verification, and filing the same in Court within 14 days of the date of this Order. The statement of verification may be signed by you or in the case of a public body, body corporate or body unincorporate, any person authorized to sign on its behalf.
 
-Dated this . day of . 19 .
+Dated this . day of .
 
 Registrar
 
@@ -160,6 +182,66 @@ Name in Block Letters .
 
 Date .
 
+* Delete where inapplicable.
+
+(L.N. 260 of 2001)
+
+FORM 3A | [rules 5A]
+
+NOTICE OF INTENTION TO SEEK ATTACHMENT OF INCOME
+
+ORDER TO BE MADE IN THE SAME HEARING IN WHICH
+
+A RELATED MAINTENANCE ORDER IS MADE
+
+IN THE DISTRICT COURT OF THE HONG KONG SPECIAL
+
+ADMINISTRATIVE REGION/IN THE COURT OF
+
+FIRST INSTANCE OF THE HIGH COURT
+
+OF THE HONG KONG SPECIAL
+
+ADMINISTRATIVE REGION
+
+Between | A.B. | Petitioner
+
+AND
+
+C.D. | Respondent
+
+- To:
+
+- The Petitioner [or Respondent or both the Petitioner and Respondent] having applied for a related maintenance order in these proceedings.
+
+- TAKE NOTICE that the Petitioner [or Respondent or both the Petitioner and Respondent] intend(s), after the related maintenance order is made, to request the Court to make an Attachment of Income Order on its own motion in the same hearing in which the related maintenance order is made.
+
+- The following information is supplied to enable the Court to make the Attachment of Income Order—
+
+  - 1. Name and address of the Petitioner
+
+- .
+
+- .
+
+  - 2. Name and address of the Respondent .
+
+  - .
+
+  - 3. If known to the Petitioner or Respondent, the name and address of the income source .
+
+  - .
+
+  - and the nature of the income .
+
+  - .
+
+  - .
+
+  - 4. The grounds for seeking an Attachment of Income Order .
+
+  - . Dated this . day of . Registrar (L.N. 260 of 2001)
+
 FORM 4 | [rules 6(2) & 9(5)]
 
 ATTACHMENT OF INCOME ORDER/VARIATION OF ATTACHMENT OF
@@ -174,7 +256,9 @@ THE HONOURABLE MR. JUSTICE .)
 
 To XYZ (Income Source)
 
-- WHEREAS by maintenance order dated . day of . 19 . , made at the sitting of the . Court at ., the Maintenance Payer . residing at ., whose identifying particulars are as follows—
+WHEREAS by maintenance order dated . day of . , made at the sitting of the . Court at ., the Maintenance Payer . residing at .
+
+- ., whose identifying particulars are as follows—
 
 - .
 
@@ -182,7 +266,9 @@ To XYZ (Income Source)
 
 - is required to make payments. An application has been made for an Attachment of Income Order/Variation of an Attachment of Income Order* to secure the payments and it appears that income is payable by you to him. (See Note 1)
 
-- THE COURT HEREBY ORDERS you to whom this Order is addressed, on the expiration of 14 days from the date of service of this Order upon you, to make out of the income, namely . (nature of income), periodical deductions as set out below and transmit the said sums to . (Designated Payee) of .
+- THE COURT HEREBY ORDERS you to whom this Order is addressed, on the expiration of 14 days from the date of service of this Order upon you, to make out of the income, namely . (nature of income), periodical deductions as set out below and transmit the said sums to .
+
+- (Specified Payee) of .
 
   - *1. The sum of $. per week/month* in respect of current payments under the maintenance order first mentioned.
 
@@ -190,7 +276,7 @@ To XYZ (Income Source)
 
   - *3. The sum of $. per week/month* for . consecutive weeks/months* and a final payment of $. * in respect of costs in connection with the maintenance order first mentioned and this Order.
 
-- THE COURT ALSO DIRECTS that during the period when this Order is in force, you may make one further deduction of not exceeding $ . from the said income to defray the administrative expenses reasonably incurred by you in complying with this Order. If any deduction is authorized under section 32(2) of the Employment Ordinance (Cap. 57) to be made by you from the wages of the maintenance payer, and the total of such deduction together with the sums referred to at 1, 2 or 3 above exceeds the whole wages of the maintenance payer in respect of that wage period, such deduction shall be accorded priority over the payment referred to at 1, 2 or 3 above. (See Note 2) This Order shall be effective for the period from . to . Dated this . day of . 19 .
+- THE COURT ALSO DIRECTS that during the period when this Order is in force, you may make one further deduction of not exceeding $ . from the said income to defray the administrative expenses reasonably incurred by you in complying with this Order. If any deduction is authorized under section 32(2) of the Employment Ordinance (Cap. 57) to be made by you from the wages of the maintenance payer, and the total of such deduction together with the sums referred to at 1, 2 or 3 above exceeds the whole wages of the maintenance payer in respect of that wage period, such deduction shall be accorded priority over the payment referred to at 1, 2 or 3 above. (See Note 2) This Order shall be effective for the period from . to . Dated this . day of .
 
 - Registrar
 
@@ -198,54 +284,64 @@ To XYZ (Income Source)
 
 - * Delete where inapplicable.
 
-- FORM 5 | [rules 5(2) & 7(4)]
+- (L.N. 260 of 2001)
 
-- NOTICE OF CESSATION OF BEING AN INCOME SOURCE
+FORM 5 | [rules 5(2) & 7(4)]
 
-- To THE REGISTRAR,
+NOTICE OF CESSATION OF BEING AN INCOME SOURCE
 
-- DISTRICT COURT OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION/ COURT OF FIRST INSTANCE OF THE HIGH COURT OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION An Attachment of Income Order dated . day of . 19 ., made at the sitting of . Court relating to income falling to be paid to . of . was directed to and served on me . of
+To THE REGISTRAR,
 
-- .
+DISTRICT COURT OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION/COURT OF FIRST INSTANCE OF THE HIGH COURT OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
-- I hereby give you notice that I cease to be an income source of the said . on the . day of . 19 . The reason for the cessation is . .
+An Attachment of Income Order dated . day of ., made at the sitting of . Court relating to income falling to be paid to . of . was directed to and served on me . of .
 
-- Dated this . day of . 19 .
+I hereby give you notice that I cease to be an income source of the said . on the . day of . The reason for the cessation is .
 
-- Signature .
+.
 
-- Name in Block Letters .
+Dated this . day of .
 
-- FORM 6 | [rule 10(4)]
+Signature .
 
-- ORDER DISCHARGING ATTACHMENT OF INCOME ORDER (Heading as in Form 1) (BEFORE HIS HONOUR JUDGE ., JUDGE OF DISTRICT
+Name in Block Letters .
 
-- COURT/BEFORE THE HONOURABLE MR. JUSTICE . )
+(L.N. 260 of 2001)
 
-- To the above-named Maintenance Payer
+FORM 6 | [rule 10(4)]
 
-- Designated Payee
+ORDER DISCHARGING ATTACHMENT OF INCOME ORDER (Heading as in Form 1) (BEFORE HIS HONOUR JUDGE ., JUDGE OF DISTRICT
 
-- X Y Z Income Source
+COURT/BEFORE THE HONOURABLE MR. JUSTICE . )
 
-- WHEREAS by the Attachment of Income Order dated . day of . 19 ., made at the sitting of the Court at .,
+To the above-named Maintenance Payer
 
-- . (Income Source) of .
+Designated Payee
 
-- . being an income source of the Maintenance Payer was ordered to deduct the sum of $. per week/month* from the income of the Maintenance Payer and transmit such sums to the Designated Payee of .
+X Y Z Income Source
 
-- .
+WHEREAS by the Attachment of Income Order dated . day of ., made at the sitting of the Court at .,
 
-- *AND WHEREAS an application was made to the Court on the . day of . 19 . by the Maintenance Payer/Designated Payee* to have the said Attachment of Income Order discharged.
+. (Income Source) of .
 
-- AND UPON READING the affidavit of . filed herein the . day of . 19 .
+. being an income source of the Maintenance Payer was ordered to deduct the sum of $. per week/month* from the income of the Maintenance Payer and transmit such sums to the Specified Payee of .
 
-- *AND WHEREAS the Income Source notified the Court that he had ceased to be an income source of the Maintenance Payer.
+.
 
-- *AND WHEREAS the maintenance order which the said Attachment of Income Order sought to secure payment has lapsed/has been discharged.
+*AND WHEREAS an application was made to the Court on the . day of . by the Maintenance Payer/Designated Payee* to have the said Attachment of Income Order discharged.
 
-- THE COURT HEREBY ORDERS that the said Attachment of Income Order be discharged. Dated this . day of . 19 .
+AND UPON READING the affidavit of . filed herein the . day of .
 
-- Registrar
+*AND WHEREAS the Income Source notified the Court that he had ceased to be an income source of the Maintenance Payer.
 
-- *Delete where inapplicable.
+*AND WHEREAS the maintenance order which the said Attachment of Income Order sought to secure payment has lapsed/has been discharged.
+
+THE COURT HEREBY ORDERS that the said Attachment of Income Order be discharged.
+
+Dated this . day of .
+
+Registrar
+
+*Delete where inapplicable.
+
+(L.N. 260 of 2001)
