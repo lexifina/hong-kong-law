@@ -48,7 +48,7 @@
 
 - 23. Units No. 104-109, ground floor, Sau Ming House, Sau Mau Ping Estate (I), Kowloon.
 
-- 24. T111, Third floor, Lok Fu Shopping Centre, Junction Road, Kowloon.
+- 24. Shop No. 112, Third floor, Lok Fu Shopping Centre I, Junction Road, Kowloon. (L.N. 291 of 1998)
 
 - 25. The ground floor of Yiu Cheong House, Yiu Tung Estate, Hong Kong. (L.N. 487 of 1996)
 
