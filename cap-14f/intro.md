@@ -1,0 +1,5 @@
+PLACES FOR POST-MORTEM EXAMINATION
+
+(Cap. 14 section 4)
+
+[20 November 1967]
