@@ -14,7 +14,7 @@ Cheshire Home, Chung Hom Kok (Replaced L.N. 428 of 1991)
 
 Cheshire Home, Shatin (Replaced L.N. 428 of 1991)
 
-Duchess of Kent Children’s Hospital
+The Duchess of Kent Children’s Hospital at Sandy Bay (Replaced L. N. 285 of 1999)
 
 Grantham Hospital
 
