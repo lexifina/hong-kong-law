@@ -1,0 +1,393 @@
+# SCHEDULE 1
+
+[ss. 37, 39, 40 & 118]
+
+INVESTMENT OF SCHEME FUNDS
+
+INVESTMENT OF SCHEME FUNDS
+
+- PART I Preliminary
+
+  - 1. Definitions
+
+    - (1) In this Schedule—
+
+      - “call warrant” (認購權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to purchase from the issuer of the security the ordinary shares of a company or companies on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the value of those ordinary shares over the exercise price without the holder of the warrant receiving those shares from the issuer;
+
+      - “constituent fund” (成分基金) means a constituent fund of a registered scheme;
+
+      - “effective exposure” (有效風險) means—
+
+        - (a) in relation to financial option contracts, the nominal value of the investment multiplied by delta (as defined by subsection (2)); or
+
+        - (b) in relation to financial futures contracts, the full value of the contracts; or
+
+        - (c) in relation to other kinds of securities and investments, the market value of the securities and investments;
+
+      - “hedging” (對沖) has the meaning given by subsection (3);
+
+      - “put warrant” (認沽權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to sell to the issuer of the security the ordinary shares of a company or companies on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the exercise price over the value of those ordinary shares without the holder of the warrant delivering those shares to the issuer;
+
+      - “warrant” (認股權證) means a security that—
+
+        - (a) is listed on a recognized stock exchange and that confers a right (but does not impose an obligation) on its holder to subscribe for the ordinary shares of the issuer of the warrant on or before a specified date at a specified price or prices; or
+
+        - (b) is a call warrant; or
+
+        - (c) is a put warrant,
+
+      - and the underlying ordinary shares to which the warrant may be converted are listed on a recognized stock exchange.
+
+    - (2) For the purposes of the definition of “effective exposure” in subsection (1), delta is the expected increase or decrease in the market value of the financial option contract given a 1 unit change in the value of the underlying investment.
+
+    - (3) For the purposes of this Schedule, a financial futures contract, a financial option contract, a currency forward contract or a put warrant is acquired for hedging purposes if it is of a kind that will have the effect of reducing the impact on existing assets of a constituent fund, or on assets acquired for the fund at the same time as the contract or warrant is acquired, of a possible reduction in the value of those assets.
+
+- PART II PERMISSIBLE INVESTMENTS
+
+  - 2. General restrictions—spread of investments
+
+    - (1) The total amount invested in securities and other permissible investments issued by any one person must not exceed 10 per cent of the total funds of a constituent fund.
+
+    - (2) Not more than 10 per cent of securities or other permissible investments of a particular class issued by one person may be acquired for the purposes of a constituent fund.
+
+  - 3. Restrictions on borrowing and lending of securities
+
+    - (1) Securities must not be borrowed for the purposes of a constituent fund (whether for the purposes of selling the securities short or any other purposes).
+
+    - (2) Securities held in respect of a constituent fund may be lent only if—
+
+      - (a) the lending is in respect of fully-paid up shares listed on a recognized stock exchange; and
+
+      - (b) the requirements in section 52 of this Regulation are complied with.
+
+  - 4.
+
+  - Restrictions on borrowing of money
+
+  - Money may be borrowed for the purposes of a constituent fund only if it is borrowed—
+
+    - (a) for the purpose of enabling accrued benefits to be paid to or in respect of scheme members, and then only if—
+
+      - (i) the amount borrowed (together with any other borrowings made for the same purpose) does not exceed 10 per cent of the market value of the fund at the time of the borrowing; and
+
+      - (ii) the borrowing is not part of a series of borrowings; and
+
+      - (iii) the period of the borrowing does not exceed 90 days; or
+
+    - (b) for the purpose of settling a transaction relating to the acquisition of securities or other investments in respect of the fund, and then only if—
+
+      - (i) the amount borrowed (together with any other borrowings made for the same purpose) does not exceed 10 per cent of the market value of the fund at the time of the borrowing; and
+
+      - (ii) the borrowing is not part of a series of borrowings; and
+
+      - (iii) the period of the borrowing does not exceed 7 working days; and
+
+      - (iv) at the time the decision to enter into the transaction was made, it was unlikely that the borrowing would be necessary.
+
+  - 5. Restrictions on acquiring securities that carry an unlimited liability
+
+    - (1) A security involving the assumption of a potential liability that is unlimited must not be acquired for the purposes of a constituent fund.
+
+    - (2) A liability must not be incurred in respect of a constituent fund in excess of the total value of the accrued benefits of the scheme members in relation to the fund.
+
+  - 6.
+
+  - Permissible investments: general restrictions
+
+  - The funds of a constituent fund may be invested only—
+
+    - (a) in investments that satisfy the requirements of sections 7 to 16 of this Schedule; or
+
+    - (b) in an approved pooled investment fund that satisfies the requirements of Part IV of this Schedule, but only if the underlying investments of the fund comply with this Part.
+
+  - 7. Permissible investments: debt securities
+
+    - (1) In this section—
+
+      - “exempt authority” (獲豁免當局) means—
+
+        - (a) the Government; or
+
+        - (b) the Exchange Fund established by the Exchange Fund Ordinance (Cap. 66); or
+
+        - (c) a company all of the shares of which are owned beneficially by the Government; or
+
+        - (d) a government, the central or reserve bank of a country or territory, or a multilateral international agency all with the highest possible credit rating determined by a credit rating agency approved by the Authority.
+
+    - (2) The funds of a constituent fund may be invested in—
+
+      - (a) a debt security issued by an exempt authority; or
+
+      - (b) a debt security in respect of which the repayment of the principal and the payment of interest is unconditionally guaranteed by an exempt authority; or
+
+      - (c) a debt security that satisfies a minimum credit rating set by the Authority, based on the credit rating of the security as determined by a credit rating agency approved by the Authority for the purposes of this Schedule; or
+
+      - (d) a debt security listed on a recognized stock exchange, being a security issued by, or guaranteed by, a company whose shares are so listed.
+
+    - (3) Section 2 of this Schedule does not apply in relation to a debt security of a kind referred to in subsection (2)(a) or (b) and the following provisions apply instead—
+
+      - (a) not more than 30 per cent of the funds of a constituent fund may be invested in debt securities of the same issue if they are of a kind referred to in either of those paragraphs;
+
+      - (b) all of the funds of a constituent fund may be invested in debt securities of the same issuer so long as they comprise at least 6 different issues and are of a kind referred to in either of those paragraphs.
+
+    - (4) The funds of a constituent fund may be applied for the purposes of entering into a repurchase agreement, but only if—
+
+      - (a) the agreement is in respect of a debt security of a kind referred to in subsection (2)(a), (b), (c) or (d); and
+
+      - (b) the requirements in section 51 of this Regulation are complied with.
+
+  - 8. Permissible investments: equities and other securities
+
+    - (1) The funds of a constituent fund may be applied for the purpose of acquiring fully-paid up shares listed on a recognized stock exchange.
+
+    - (2) Not more than 10 per cent of the funds of a constituent fund may be invested in the following—
+
+      - (a) shares listed on a stock exchange that is not a recognized stock exchange;
+
+      - (b) securities of a kind approved by the Authority other than shares listed on a recognized stock exchange;
+
+      - (c) an authorized unit trust or authorized mutual fund of a kind to which Part IV of this Schedule does not apply but which is approved by the Authority for the purposes of this Part.
+
+  - 9.
+
+  - Permissible investments: convertible debt securities
+
+  - The funds of a constituent fund may be invested in—
+
+    - (a) a convertible debt security listed on a recognized stock exchange and convertible to shares listed on the exchange; or
+
+    - (b) a convertible debt security that satisfies the minimum credit rating requirements for a debt security.
+
+  - 10.
+
+  - Permissible investments: warrants
+
+  - The funds of a constituent fund may be applied for the purposes of acquiring a warrant, but only if—
+
+    - (a) the warrant does not (except when the warrant is purchased for the specific purpose of hedging) contain a put warrant; and
+
+    - (b) after acquisition of the warrant, no more than 5 per cent of the total funds of the constituent fund will be invested in warrants.
+
+  - 11. Permissible investments: deposits
+
+    - (1) The funds of a constituent fund may be deposited with—
+
+      - (a) an authorized financial institution; or
+
+      - (b) an eligible overseas bank,
+
+    - but only in accordance with this section.
+
+    - (2) The funds of a constituent fund must not be deposited with an authorized financial institution or an eligible overseas bank if the total amount deposited would be more than 10 per cent of the issued capital and reserves of the institution or bank.
+
+    - (3) Funds of a constituent fund must not be deposited with an authorized financial institution or an eligible overseas bank if the total amount of funds deposited would exceed—
+
+      - (a) where the total market value of the constituent fund is less than $8,000,000, 25 per cent of that fund; or
+
+      - (b) in any other case, 10 per cent of that fund.
+
+    - (4) Funds of a constituent fund must not be placed on deposit with a group of associated authorized financial institutions or eligible overseas banks (or a combination of them) if the total amount of funds deposited would exceed 25 per cent of the total market value of the constituent fund.
+
+    - (5) In this section—
+
+      - “deposit” (存款) has the same meaning as in section 2 of the Banking Ordinance (Cap. 155) but includes a certificate of deposit issued by an authorized financial institution.
+
+  - 12. Permissible investments: underwriting
+
+    - (1) The funds of a constituent fund may be applied for the purposes of subscribing for debt securities from an underwriter or sub-underwriter, but only if section 7 of this Schedule is complied with.
+
+    - (2) The value of debt securities to be subscribed under this section must not exceed the amount of money held on deposit for the constituent fund.
+
+    - (3) The subscription for debt securities under this section must not be undertaken if, assuming those securities were acquired as assets of the constituent fund, the acquisition would otherwise contravene this Schedule.
+
+    - (4) In this section—
+
+      - “sub-underwriting” (分包銷) means the process under which, for a fee or other consideration given by an underwriter, a sub-underwriter assumes responsibility for a portion of the underwriting risk;
+
+      - “underwriter” (包銷商) means a person who for remuneration undertakes to subscribe for, or purchase, on specified terms specified securities that are not subscribed for, or purchased, by the public after having been offered to the public by a person who is issuing or selling those securities.
+
+  - 13. Permissible investments: public offers
+
+    - (1) The funds of a constituent fund may be applied for the purposes of subscribing for an offer to the public of securities, but only if the securities—
+
+      - (a) are of a kind to which section 7(2)(d), 8(1) or 9(a) of this Schedule applies; and
+
+      - (b) are to be listed on a recognized stock exchange.
+
+    - (2) The subscription for an offer of securities under this section may be undertaken before the offer is made to the public.
+
+    - (3) The total value of securities to be subscribed for under this section must not exceed the amount of money held on deposit for the constituent fund.
+
+    - (4) The subscription for an offer of securities under this section must not be undertaken if, assuming those securities were acquired as assets of the constituent fund, the acquisition would otherwise contravene this Schedule.
+
+  - 14.
+
+  - Futures contracts and option contracts:
+
+  - restrictions on acquisition
+
+    - (1) Subject to this section, the funds of a constituent fund may be applied for acquiring a financial futures contract or a financial option contract only—
+
+      - (a) for hedging purposes; or
+
+      - (b) for any other purpose, but only if—
+
+        - (i) the acquisition does not result in the constituent fund becoming leveraged; and
+
+        - (ii) the effective exposure of the fund in financial futures contracts and financial option contracts as a result of the acquisition of the contract does not exceed 10 per cent of the market value of the fund.
+
+    - (2) A financial futures contract must not be acquired for a constituent fund unless it is listed on a recognized futures exchange.
+
+    - (3) A financial option contract must not be acquired for a constituent fund unless it is listed on a recognized futures exchange or a recognized stock exchange.
+
+    - (4) A financial futures contract or a financial option contract may be acquired for the purposes of a constituent fund only if the approved trustee of the scheme and the investment manager appointed for the purposes of the fund have special qualifications approved or specified by the Authority for the purposes of this section.
+
+    - (5) For the purposes of this section—
+
+      - (a) a constituent fund is leveraged if the effective exposure of the fund exceeds the market value of the fund; and
+
+      - (b) the effective exposure, in relation to a constituent fund, means the sum of the effective exposures of all investments of the fund.
+
+  - 15.
+
+  - Currency forward contracts:
+
+  - restrictions on acquisition
+
+    - (1) Subject to this section, the funds of a constituent fund may be applied for acquiring a currency forward contract only—
+
+      - (a) for hedging purposes; or
+
+      - (b) for the purpose of settling a transaction relating to the acquisition of securities.
+
+    - (2) A currency forward contract may be acquired for a constituent fund only if it is acquired—
+
+      - (a) from an authorized financial institution; and
+
+      - (b) the period of the contract is not more than 12 months.
+
+    - (3) A currency forward contract to sell Hong Kong dollars may not be acquired for a constituent fund unless it is acquired for the purpose of the settlement of a transaction in the acquisition of securities denominated in a foreign currency already committed.
+
+- PART III CURRENCY EXPOSURE
+
+  - 16.
+
+  - Permissible investments: minimum Hong Kong
+
+  - dollar currency exposure
+
+    - (1) At least 30 per cent of a constituent fund must be held in Hong Kong dollar currency investments, as measured by the effective currency exposure.
+
+    - (2) The percentage referred to in subsection (1) is to be calculated—
+
+      - (a) by dividing the total effective currency exposure of Hong Kong dollar currency investments by the total market value of the constituent fund (disregarding the value of any collateral securities given as referred to in sections 51 and 52 of this Regulation); and
+
+      - (b) by multiplying the resulting amount by 100.
+
+    - (3) In this section—
+
+      - “effective currency exposure” (有效貨幣風險), in relation to a constituent fund, means the proportion of the fund that is effectively invested in investments of a particular currency denomination as compared with the market value of the fund;
+
+      - “Hong Kong dollar currency investment” (港元貨幣投資項目) means an investment that is denominated in Hong Kong dollars and of which the value is not linked to a foreign currency and, in particular, includes any of the following—
+
+        - (a) cash in Hong Kong dollars and deposits in Hong Kong dollars, other than deposits in relation to which the repayment of principal or the payment of interest is, directly or indirectly, affected by fluctuations in exchange rates for a foreign currency;
+
+        - (b) debt securities of a kind referred to in section 7(2)(a), (b) or (c) or 9(b) of this Schedule that are denominated in Hong Kong dollars and in relation to which—
+
+          - (i) the repayment of principal and the payment of interest are to be made in Hong Kong dollars; and
+
+          - (ii) the amounts of the principal to be repaid and the interest to be paid are not, directly or indirectly, affected by fluctuations in exchange rates for a foreign currency;
+
+        - (c) securities of a kind referred to in section 7(2)(d), 8(1) or 9(a) of this Schedule that are listed on the Unified Exchange;
+
+        - (d) warrants of a kind referred to in section 10 of this Schedule that are listed on the Unified Exchange;
+
+        - (e) financial option contracts, of a kind referred to in section 14(3) of this Schedule that are traded on the Futures Exchange or the Unified Exchange with reference to underlying securities or an index of securities of a kind referred to in paragraph (c);
+
+        - (f) currency forward contracts of a kind referred to section 15(2) of this Schedule if the contracts are to buy Hong Kong dollars;
+
+        - (g) currency forward contracts of a kind referred to in section 15(2) of this Schedule if the contracts are to sell Hong Kong dollars;
+
+        - (h) receivables in Hong Kong dollars;
+
+        - (i) payables in Hong Kong dollars;
+
+        - (j) approved pooled investment funds that are denominated in Hong Kong dollars, but only if each of those funds has a total value of Hong Kong dollar currency investments equal to the total market value of the fund, as measured by the effective currency exposure;
+
+        - (k) other approved pooled investment funds.
+
+    - (4) For the purposes of this section, the effective currency exposure, in relation to the Hong Kong dollar currency investments of a constituent fund, is the amount by which the aggregate of all amounts specified in subsection (5) exceed the aggregate of all amounts specified in subsection (6).
+
+    - (5) The following amounts are the amounts firstly referred to in subsection (4)—
+
+      - (a) an amount equal to 30 per cent of the market value of the approved pooled investment funds referred to in paragraph (k) of the definition of “Hong Kong dollar currency investment” in subsection (3) that are held in respect of the constituent fund;
+
+      - (b) an amount equal to the market value of the investments referred to in paragraphs (a) to (e) of that definition that are held in respect of that fund;
+
+      - (c) an amount equal to the market value of the currency forward contracts referred to in paragraph (f) of that definition that are held in respect of that fund;
+
+      - (d) an amount equal to the receivables referred to in paragraph (h) of that definition that relates to that fund.
+
+    - (6) The following amounts are the amounts secondly referred to in subsection (4)—
+
+      - (a) an amount equal to the market value of the currency forward contracts referred to in paragraph (g) of the definition of “Hong Kong dollar currency investment” in subsection (3) that are held in respect of the constituent fund;
+
+      - (b) an amount equal to the amount of the payables referred to in paragraph (i) of that definition that relates to that fund.
+
+- PART IV POOLED INVESTMENTS
+
+  - 17. Pooled investment funds
+
+    - (1) Subject to subsection (2), the funds comprising a constituent fund may be invested in a pooled investment fund, which may in turn be invested in 1 or more other pooled investment funds.
+
+    - (2) A pooled investment fund in which funds are invested as referred to in subsection (1) must comply with the following requirements—
+
+      - (a) the fund must be authorized by the Securities and Futures Commission in accordance with the requirements relating to the investment arrangements within the meaning of the Protection of Investors Ordinance (Cap. 335) and approved by the Authority for the purposes of this Regulation;
+
+      - (b) the bases for all charges (including investment management charges, initial charges, annual and other periodic fees, surrender charges, surrender penalties and other deductions that may apply to that fund) must be disclosed to the holders of interests in the fund;
+
+      - (c) investment management charges in respect of that fund must be expressed as a percentage of the assets of the fund or on some other basis approved by the Authority;
+
+      - (d) if the fund provides a guaranteed return of capital or of income on capital (or both), there must be full disclosure of main features of the guarantee, including a clear description of how the return is to be determined and the extent of any discretion that may be exercised in making such a determination;
+
+      - (e) if the fund is a unit trust or mutual fund, it must satisfy the requirements of section 18 of this Schedule;
+
+      - (f) if the fund is an insurance policy, it must satisfy the requirements in section 19 of this Schedule;
+
+      - (g) the trustee of the fund, and any investment manager or custodian appointed by the trustee in relation to the fund, must comply with such of the requirements of this Regulation as relate to an approved trustee of a registered scheme, and to an investment manager or custodian appointed by such an approved trustee, in so far as those requirements are relevant to the fund;
+
+      - (h) the financial statements, investment reports and auditor’s reports of the fund must be lodged with the Authority and additional information relating to those statements and reports must be provided to the Authority whenever the Authority requests;
+
+      - (i) no additional initial charges may be imposed in relation to the management of the fund if the manager of the fund, or an associate of that manager, manages the relevant constituent fund;
+
+      - (j) if the fund is invested in another fund and the manager of the fund, or an associate of that manager, manages the other fund, no additional initial charges may be imposed in relation to the management of that other fund;
+
+      - (k) the fund must be governed by the law of Hong Kong.
+
+  - 18. Unit trusts and mutual funds
+
+    - (1) The funds of a constituent fund may be invested in a unit trust or mutual fund, but only if it is an authorized unit trust or an authorized mutual fund.
+
+    - (2) An authorized unit trust or an authorized mutual fund that provides for a guaranteed amount to be paid to investors who hold units in the unit trust, or shares in the mutual fund, at a specified date in the future must have a guarantor that is an authorized financial institution that complies with subsection (3).
+
+    - (3) For the purposes of subsection (2), an authorized financial institution complies with this subsection only if it satisfies capital adequacy or reserve requirements imposed in respect of investment guarantees by the Monetary Authority.
+
+  - 19. Insurance policies
+
+    - (1) The funds of a constituent fund may be invested in an insurance policy, but only if the policy—
+
+      - (a) is within class G or H insurance business for the purposes of the Insurance Companies Ordinance (Cap. 41); and
+
+      - (b) is issued by an authorized insurer; and
+
+      - (c) in the case of a policy that is within class H insurance business, operates, to the satisfaction of the Authority, as a full investment-linked policy linked to a separate pooled investment fund; and
+
+      - (d) in the case of a policy that is fully or partially investment-linked, has policy values that are, to the satisfaction of the Authority, fully unitised.
+
+    - (2) An authorized financial institution may act as the guarantor of an insurance policy of class G, but only if the institution complies with subsection (3).
+
+    - (3) For the purposes of subsection (2), an authorized financial institution complies with this subsection only if it satisfies capital adequacy or reserve requirements imposed in respect of investment guarantees by the Monetary Authority.
+
+    - (4) The underlying investments of an insurance policy of the same series must be kept in a separate pooled investment fund.
+
+    - (5) The insurer may act as the investment manager of the fund referred to in subsection (4) only if the insurer is registered as an investment adviser under the Securities Ordinance (Cap. 333).
