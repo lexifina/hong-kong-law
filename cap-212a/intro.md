@@ -1,0 +1,5 @@
+TERMINATION OF PREGNANCY REGULATIONS
+
+(Cap. 212 section 47A(5))
+
+[12 January 1973]
