@@ -4,280 +4,246 @@
 
 DESIGNATED AUTHORITIES
 
-Section | Urban Council Area | Regional Council Area
+Section | Designated Authorities
 
-4 | Director of Drainage Services | Director of Drainage Services
+4 | Director of Drainage Services
 
-5 | Director of Drainage Services | Director of Drainage Services
+5 | Director of Drainage Services
 
-6 | Director of Drainage Services | Director of Drainage Services
+6 | Director of Drainage Services
 
-7 | Director of Drainage Services | Director of Drainage Services
+7 | Director of Drainage Services
 
-9 | Director of Drainage Services | Director of Drainage Services
+9 | Director of Drainage Services
 
-10 | Director of Drainage Services | Director of Drainage Services
+10 | Director of Drainage Services
 
-13 | Urban Council | Regional Council
+13 | Director of Food and Environmental Hygiene
 
-14 | Urban Council | Regional Council
+14 | Director of Food and Environmental Hygiene
 
-15 | Urban Council | Regional Council
+15 | Secretary for the Environment and Food
 
-15A | Urban Council | Regional Council
+20 | Director of Food and Environmental Hygiene
 
-20 | Urban Council | Regional Council
+22 | Director of Food and Environmental Hygiene
 
-22 | Urban Council | Regional Council
+22A | Director of Food and Environmental Hygiene
 
-22A | Urban Council | Regional Council
+23 | Director of Food and Environmental Hygiene
 
-23 | Urban Council | Regional Council
+23A | Director of Food and Environmental Hygiene
 
-23A | Urban Council | Regional Council
+24 | Director of Food and Environmental Hygiene
 
-24 | Urban Council | Regional Council
+26 | Secretary for the Environment and Food
 
-26 | Urban Council | Regional Council
+27 | Director of Food and Environmental Hygiene
 
-27 | Urban Council | Regional Council
+28 | Secretary for the Environment and Food
 
-28 | Urban Council | Regional Council
+29 | Secretary for the Environment and Food
 
-29 | Urban Council | Regional Council
+30 | Director of Food and Environmental Hygiene
 
-30 | Urban Council | Regional Council
+32 | Director of Food and Environmental Hygiene
 
-32 | Urban Council | Regional Council
+33 | Director of Food and Environmental Hygiene
 
-33 | Urban Council | Regional Council
+34 | Director of Food and Environmental Hygiene
 
-34 | Urban Council | Regional Council
+35 | Secretary for the Environment and Food
 
-35 | Urban Council | Regional Council
+36 | Director of Food and Environmental Hygiene
 
-35A | Urban Council | Regional Council
+37 | Director of Food and Environmental Hygiene
 
-36 | Urban Council | Regional Council
+38 | Director of Food and Environmental Hygiene
 
-37 | Urban Council | Regional Council
+42 | Secretary for Home Affairs in respect of public swimming pools and the Secretary for the Environment and Food in respect of other swimming pools
 
-38 | Urban Council | Regional Council
+42A | Director of Leisure and Cultural Services
 
-40 | Urban Council | Regional Council
+42B | Director of Leisure and Cultural Services
 
-40A | Urban Council | Regional Council
+43 | Director of Leisure and Cultural Services
 
-41 | Urban Council | Regional Council
+44 | Director of Leisure and Cultural Services
 
-42 | Urban Council | Regional Council
+46 | Director of Food and Environmental Hygiene
 
-42AA | Urban Council | Regional Council
+47 | Director of Food and Environmental Hygiene
 
-42A | Urban Council | Regional Council
+48 | Director of Food and Environmental Hygiene
 
-42B | Urban Council | Regional Council
+49 | Secretary for the Environment and Food
 
-44 | Urban Council | Regional Council
+51A | Director of Food and Environmental Hygiene
 
-46 | Urban Council | Regional Council
+56 | Director of Food and Environmental Hygiene, but in respect of drugs, Director of Health
 
-47 | Urban Council | Regional Council
+56A | Director of Health
 
-48 | Urban Council | Regional Council
+58 | Director of Food and Environmental Hygiene, but in respect of drugs, Director of Health
 
-49 | Urban Council | Regional Council
+59 | Director of Food and Environmental Hygiene, but in respect of drugs, Director of Health
 
-49A | Urban Council | Regional Council
+62 | Director of Food and Environmental Hygiene, but in respect of drugs, Director of Health
 
-51A | Urban Council | Regional Council
+69 | Director of Food and Environmental Hygiene, but in respect of drugs, Director of Health
 
-56 | Urban Council, but in respect of drugs, Director of Health | Regional Council, but in respect of drugs, Director of Health
+70 | Director of Food and Environmental Hygiene, but in respect of drugs, Director of Health
 
-56A | Director of Health | Director of Health
+75 | Director of Food and Environmental Hygiene, but in respect of drugs, Director of Health
 
-56B | Urban Council | Regional Council
+76A | Director of Food and Environmental Hygiene
 
-58 | Urban Council, but in respect of drugs, Director of Health | Regional Council, but in respect drugs, Director of Health
+76B | Director of Food and Environmental Hygiene
 
-59 | Urban Council, but in respect of drugs, Director of Health | Regional Council, but in respect drugs, Director of Health
+77 | Secretary for the Environment and Food
 
-62 | Urban Council, but in respect of drugs, Director of Health | Regional Council, but in respect drugs, Director of Health
+78 | Director of Food and Environmental Hygiene
 
-69 | Urban Council, but in respect of drugs, Director of Health | Regional Council, but in respect drugs, Director of Health
+79(1), (3) and (5) | Director of Food and Environmental Hygiene
 
-70 | Urban Council, but in respect of drugs, Director of Health | Regional Council, but in respect drugs, Director of Health
+79A | Director of Food and Environmental Hygiene
 
-75 | Urban Council, but in respect of drugs, Director of Health | Regional Council, but in respect drugs, Director of Health
+80 | Secretary for the Environment and Food
 
-76A | Urban Council | Regional Council
+81 | Director of Food and Environmental Hygiene
 
-76B | Urban Council | Regional Council
+82 | Director of Food and Environmental Hygiene
 
-77 | Urban Council | Regional Council
+83A | Secretary for the Environment and Food, but the Director of Food and Environmental Hygiene for section 83A(1)(g) and (i)
 
-77A | Urban Council | Regional Council
+83B | Director of Food and Environmental Hygiene
 
-78 | Urban Council | Regional Council
+84 | Director of Food and Environmental Hygiene
 
-79(1),(3) and (5) | Urban Council | Regional Council
+86 | Director of Food and Environmental Hygiene
 
-79(2) | - | Regional Council
+86B | Director of Food and Environmental Hygiene
 
-79A | Urban Council | Regional Council
+92A | Director of Leisure and Cultural Services
 
-80 | Urban Council | Regional Council
+92AA | Secretary for Home Affairs
 
-80A | Urban Council | Regional Council
+92AB | Director of Food and Environmental Hygiene
 
-82 | Urban Council | Regional Council
+92B | Secretary for Home Affairs in respect of any activity specified in the Eleventh Schedule and the Secretary for the Environment and Food in respect of any activity specified in Schedule 11A
 
-83A | Urban Council | Regional Council
+93 | Director of Food and Environmental Hygiene
 
-83AA | Urban Council | Regional Council
+94 | Director of Food and Environmental Hygiene
 
-83B | Urban Council | Regional Council
+94A | Secretary for the Environment and Food
 
-84 | Urban Council | Regional Council
+100 | Director of Food and Environmental Hygiene
 
-86 | Urban Council | Regional Council
+101 | Director of Food and Environmental Hygiene
 
-86B | Urban Council | Regional Council
+104 | Secretary for the Environment and Food
 
-88 | Urban Council | Regional Council
+105 | Director of Buildings
 
-89 | Urban Council | Regional Council
+105A | Director of Leisure and Cultural Services
 
-90 | Urban Council | Regional Council
+105B | Director of Leisure and Cultural Services
 
-90A | Urban Council | Regional Council
+105C | Director of Leisure and Cultural Services
 
-91 | Urban Council | Regional Council
+105D | Secretary for Home Affairs
 
-92A | Urban Council | Regional Council
+105E | Director of Leisure and Cultural Services
 
-92B | Urban Council | Regional Council
+105G | Director of Leisure and Cultural Services
 
-92BA | Urban Council | Regional Council
+105H | Director of Leisure and Cultural Services
 
-93 | Urban Council | Regional Council
+105I | Secretary for Home Affairs
 
-94 | Urban Council | Regional Council
+105K | Director of Leisure and Cultural Services
 
-94A | Urban Council | Regional Council
+105L | Secretary for Home Affairs
 
-100 | Urban Council | Regional Council
+105M | Director of Leisure and Cultural Services
 
-101 | Urban Council | Regional Council
+105N | Director of Leisure and Cultural Services
 
-104(1) | Governor in Council | Governor in Council
+105O | Secretary for Home Affairs
 
-104(3) | Director of Lands | Director of Lands
+105P | Director of Leisure and Cultural Services
 
-105 | Director of Buildings | Director of Buildings
+105Q | Director of Leisure and Cultural Services
 
-105A | Urban Council | Regional Council
+106(1) and (6) | Director of Leisure and Cultural Services
 
-105B | Urban Council | Regional Council
+106(3) and (4) | Director of Lands
 
-105C | Urban Council | Regional Council
+107 | Director of Leisure and Cultural Services
 
-105D | Urban Council | Regional Council
+108 | Director of Leisure and Cultural Services
 
-105E | Urban Council | Regional Council
+109 | Secretary for Home Affairs
 
-105F | Urban Council | Regional Council
+110 | Director of Leisure and Cultural Services
 
-105G | Urban Council | Regional Council
+111 | Director of Leisure and Cultural Services
 
-105H | Urban Council | Regional Council
+111B | Director of Lands
 
-105I | Urban Council | Regional Council
+111C | Director of Lands
 
-105J | Urban Council | Regional Council
+112 | Director of Food and Environmental Hygiene
 
-105K | Urban Council | Regional Council
+112A | Director of Food and Environmental Hygiene
 
-105L | Urban Council | Regional Council
+114 | Director of Lands in respect of cemeteries specified in Parts I, II and IVA of the Fifth Schedule
 
-105LA | Urban Council | Regional Council
+115 | Director of Food and Environmental Hygiene in respect of cemeteries specified in Part I of the Fifth Schedule
 
-105M | Urban Council | Regional Council
+116 | Secretary for the Environment and Food in respect of cemeteries specified in Parts I and II of the Fifth Schedule
 
-105N | Urban Council | Regional Council
+117 | Director of Food and Environmental Hygiene
 
-105O | Urban Council | Regional Council
+118(1) and (4) | Director of Food and Environmental Hygiene
 
-105P | Urban Council | Regional Council
+118(2) | Director of Food and Environmental Hygiene in respect of cemeteries specified in Parts I, II and IVA of the Fifth Schedule
 
-105Q | Urban Council | Regional Council
+119A | Director of Food and Environmental Hygiene in respect of cemeteries specified in Part I of the Fifth Schedule
 
-106(1) and (6) | Urban Council | Regional Council
+121 | Director of Food and Environmental Hygiene
 
-106(3) and (4) | Director of Lands | Director of Lands
+123 | Secretary for the Environment and Food
 
-107 | Urban Council | Regional Council
+123A | Director of Food and Environmental Hygiene
 
-108 | Urban Council | Regional Council
+123B | Director of Food and Environmental Hygiene
 
-109 | Urban Council | Regional Council
+123C | Secretary for the Environment and Food
 
-109A | Urban Council | Regional Council
+124 | Director of Food and Environmental Hygiene
 
-111 | Urban Council | Regional Council
+124A | Director of Food and Environmental Hygiene
 
-111B | Urban Council | Director of Lands
+124B | Director of Food and Environmental Hygiene
 
-111C | Urban Council | Director of Lands
+124C | Director of Food and Environmental Hygiene
 
-112 | Urban Council | Regional Council
+124D | Director of Food and Environmental Hygiene
 
-112A | Urban Council | Regional Council
+124E | Secretary for the Environment and Food
 
-114 | Director of Lands in respect of cemeteries specified in Parts I, II and IVA of the Fifth Schedule | Director of Lands in respect of cemeteries specified in Parts III and IV of the Fifth Schedule
+124I | Secretary for the Environment and Food
 
-115 | Urban Council in respect of cemeteries specified in Part I of the Fifth Schedule | Regional Council in respect of cemeteries specified in Part III of the Fifth Schedule
+124J | Secretary for Home Affairs
 
-116 | Urban Council in respect of cemeteries specified in Parts I and II of the Fifth Schedule | Regional Council in respect of cemeteries specified in Parts III and IV of the Fifth Schedule
+124K(1) | Director of Leisure and Cultural Services
 
-116A | Urban Council in respect of cemeteries specified in Parts I and II of the Fifth Schedule | Regional Council in respect of cemeteries specified in Parts III and IV of the Fifth Schedule
+124K(3) | Director of Leisure and Cultural Services
 
-118(1),(4) and (5) | Urban Council | Regional Council
+124L | Secretary for Home Affairs
 
-118(2) | Urban Council in respect of any place in a cemetery specified in Parts I and II of the Fifth Schedule and Director of Urban Services in respect of any place in a cemetery specified in Part IVA of the Fifth Schedule | Regional Council in respect of any place in a cemetery specified in Parts III and IV of the Fifth Schedule
+127 | Director of Food and Environmental Hygiene
 
-118A | Urban Council | Regional Council
-
-119A | Urban Council in respect of cemeteries specified in Part I of the Fifth Schedule | Regional Council in respect of cemeteries specified in Part III of the Fifth Schedule
-
-121 | Urban Council | Regional Council
-
-123 | Urban Council | Regional Council
-
-123AA | Urban Council | Regional Council
-
-123A | Urban Council | Regional Council
-
-123B | Urban Council | Regional Council
-
-123C | Urban Council | Regional Council
-
-123D | Urban Council | Regional Council
-
-124 | Urban Council | Regional Council
-
-124A | Urban Council | Regional Council
-
-124B | Urban Council | Regional Council
-
-124C | Urban Council | Regional Council
-
-124D | Urban Council | Regional Council
-
-124E | Urban Council | Regional Council
-
-124EA | Urban Council | Regional Council
-
-127 | Urban Council | Regional Council
-
-(Replaced 10 of 1986 s. 25. Amended L.N. 94 of 1986; L.N. 127 of 1986; L.N. 194 of 1986; L.N. 318 of 1988; L.N. 76 of 1989; L.N. 364 of 1991; L.N. 88 of 1993; L.N. 291 of 1993; 12 of 1994 s. 10; 49 of 1994 s. 38)
+(Schedule 3 replaced 78 of 1999 s. 7)

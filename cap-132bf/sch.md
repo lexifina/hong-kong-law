@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[by-law 5(1)]
+[s. 5(1)] (78 of 1999 s. 7)
 
 PARTICULARS TO BE RECORDED IN REGISTER
 

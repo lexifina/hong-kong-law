@@ -2,112 +2,126 @@
 
 [s. 131]
 
-NAME IN WHICH PROCEEDINGS FOR OFFENCES MAY BE BROUGHT
+NAMES IN WHICH PROCEEDINGS FOR OFFENCES MAY BE BROUGHT UNDER SECTION 131(1)
 
-Section | Urban Council Area | Regional Council Area
+Section | Name in which proceedings for offences may be brought
 
-6 | Director of Drainage Services | Director of Drainage Services
+6 | Director of Drainage Services
 
-7 | Director of Drainage Services | Director of Drainage Services
+7 | Director of Drainage Services
 
-9 | Director of Drainage Services | Director of Drainage Services
+9 | Director of Drainage Services
 
-10 | Director of Drainage Services | Director of Drainage Services
+10 | Director of Drainage Services
 
-13 | Urban Council | Regional Council
+13 | Director of Food and Environmental Hygiene
 
-14 | Urban Council | Regional Council
+14 | Director of Food and Environmental Hygiene
 
-20 | Urban Council | Regional Council
+20 | Director of Food and Environmental Hygiene
 
-22 | Urban Council | Regional Council
+22 | Director of Food and Environmental Hygiene
 
-22A | Urban Council | Regional Council
+22A | Director of Food and Environmental Hygiene
 
-24 | Urban Council | Regional Council
+24 | Director of Food and Environmental Hygiene
 
-25 | Urban Council | Regional Council
+25 | Director of Food and Environmental Hygiene
 
-27 | Urban Council or Director of Health | Regional Council or Director of Health
+27 | Director of Food and Environmental Hygiene or Director of Health
 
-30 | Urban Council | Regional Council
+30 | Director of Food and Environmental Hygiene
 
-31 | Urban Council | Regional Council
+31 | Director of Food and Environmental Hygiene
 
-32 | Urban Council | Regional Council
+32 | Director of Food and Environmental Hygiene
 
-33 | Urban Council | Regional Council
+33 | Director of Food and Environmental Hygiene
 
-34 | Urban Council | Regional Council
+34 | Director of Food and Environmental Hygiene
 
-36 | Urban Council | Regional Council
+36 | Director of Food and Environmental Hygiene
 
-43 | Urban Council | Regional Council
+43 | Director of Leisure and Cultural Services
 
-47 | Urban Council | Regional Council
+47 | Director of Food and Environmental Hygiene
 
-50 | Urban Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs. | Regional Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs.
+50 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
 
-51 | Urban Council | Regional Council
+Director of Health where the offence committed is in respect of drugs.
 
-51A | Urban Council | Regional Council
+51 | Director of Food and Environmental Hygiene
 
-52 | Urban Council where the offence is committed in respect of food. Director of Health where the offence iscommitted in respect of drugs. | Regional Council where the offence is committed is respect of food. Director of Health where the offence is committed in respect of drugs.
+51A | Director of Food and Environmental Hygiene
 
-54 | Urban Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs. | Regional Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs.
+52 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
 
-59 | Urban Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs. | Regional Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs.
+Director of Health where the offence committed is in respect of drugs.
 
-61 | Urban Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs. | Regional Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs.
+54 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
 
-62 | Urban Council where the demand or requisition relates to food. Director of Health where the demand orrequisition relates to drugs. | Regional Council where the demand or requisition relates to food. Director of Health where the demand or requisition relates to drugs.
+Director of Health where the offence committed is in respect of drugs.
 
-63 | Urban Council where the certificate relates to food. Director of Health where the certificate relates to drugs. | Regional Council where the certificate relates to food. Director of Health where the certificate relates to drugs.
+59 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
 
-68 | Urban Council or Director of Health | Regional Council or Director of Health
+Director of Health where the offence committed is in respect of drugs.
 
-69 | Urban Council where the direction is given by a public officer authorized by the Council and where the notification is given in relation to food. Director of Health where the direction is given by a public officer authorized by him and where the notification is given in relation to drugs. | Regional Council where the direction is given by a public officer authorized by the Council and where the notification is given in relation to food. Director of Health where the direction is given by a public officer authorized by him and where the notification is given in relation to drugs.
+61 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
 
-72 | Urban Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs. | Regional Council where the offence is committed in respect of food. Director of Health where the offence is committed in respect of drugs.
+Director of Health where the offence committed is in respect of drugs.
 
-81 | Urban Council | Regional Council
+62 | Director of Food and Environmental Hygiene where the demand or requisition relates to food.
 
-83B | Urban Council | Regional Council
+Director of Health where the demand or requisition relates to drugs.
 
-92C | Urban Council | Regional Council
+63 | Director of Food and Environmental Hygiene where the certificate relates to food.
 
-93 | Urban Council | Regional Council
+Director of Health where the certificate relates to drugs.
 
-94 | Urban Council | Regional Council
+68 | Director of Food and Environmental Hygiene or Director of Health
 
-101 | Urban Council | Regional Council
+69 | Director of Food and Environmental Hygiene where the direction is given by him or a public officer authorized by him and the notification is given in relation to food.
 
-105 | Director of Buildings | Director of Buildings
+Director of Health where the direction is given by him or a public officer authorized by him and the notification is given in relation to drugs.
 
-105F | Urban Council | Regional Council
+72 | Director of Food and Environmental Hygiene where the offence committed is in respect of food.
 
-105S | Urban Council | Regional Council
+Director of Health where the offence committed is in respect of drugs.
 
-110 | Urban Council | Regional Council
+81 | Director of Food and Environmental Hygiene
 
-111D | Urban Council | Director of Lands
+83B | Director of Food and Environmental Hygiene
 
-112 | Urban Council | Regional Council
+92C | Director of Leisure and Cultural Services in respect of section 92A and Director of Food and Environmental Hygiene in respect of section 92AB
 
-112A | Urban Council | Regional Council
+93 | Director of Food and Environmental Hygiene
 
-115 | Urban Council | Regional Council
+94 | Director of Food and Environmental Hygiene
 
-117 | Urban Council where the offence is committed in a cemetery specified in Part I of the Fifth Schedule and Director of Urban Services where the offence is committed in a cemetery specified in Part IVA of the Fifth Schedule. | Regional Council
+101 | Director of Food and Environmental Hygiene
 
-118 | Urban Council where the offence is committed in any place in a cemetery specified in Part I or II of the Fifth Schedule and Director of Urban Services where the offence is committed in any place in a cemetery specified in Part IVA of the Fifth Schedule. | Regional Council
+105 | Director of Buildings
 
-124 | Urban Council | Regional Council
+110 | Director of Leisure and Cultural Services
 
-124F | Urban Council | Regional Council
+111D | Director of Lands
 
-127 | Urban Council | Regional Council
+112 | Director of Food and Environmental Hygiene
 
-128 | Urban Council | Regional Council
+112A | Director of Food and Environmental Hygiene
 
-(Replaced 10 of 1986 s. 28. Amended L.N. 127 of 1986; 76 of 1988 s. 5; L.N. 319 of 1988; 11 of 1989 s. 3; L.N. 76 of 1989; L.N. 364 of 1991; L.N. 89 of 1993; L.N. 291 of 1993)
+115 | Director of Food and Environmental Hygiene
+
+117 | Director of Food and Environmental Hygiene
+
+118 | Director of Food and Environmental Hygiene
+
+124 | Director of Food and Environmental Hygiene
+
+124F | Director of Food and Environmental Hygiene
+
+127 | Director of Food and Environmental Hygiene
+
+128 | Director of Food and Environmental Hygiene
+
+(Sixth schedule replaced 78 of 1999 s. 7)

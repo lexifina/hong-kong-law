@@ -1,7 +1,3 @@
-# SCHEDULE
+# Schedule
 
-[by-law 2]
-
-- 1. Tsuen Wan.
-
-- 2. Kau Wa Keng.
+(Repealed 78 of 1999 s. 7)

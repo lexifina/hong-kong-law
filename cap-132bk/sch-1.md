@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# FIRST SCHEDULE
 
-[by-laws 3 & 5]
+[ss. 3 & 5] (78 of 1999 s. 7)
 
-COMMON PARTS OF A BUILDING
+Common parts of a building
 
 - 1. The roofs, chimneys, gables.
 

@@ -1,3 +1,3 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 (Repealed L.N. 283 of 1995)

@@ -1,6 +1,8 @@
-# SCHEDULE 2 RESTRICTED FOODS
+# SCHEDULE 2
 
-[bylaw 30]
+[s. 30] (78 of 1999 s. 7)
+
+RESTRICTED FOODS
 
 Item | Description of food
 
@@ -20,7 +22,7 @@ Item | Description of food
 
 8. | Imported pies, sausages or other prepared or manufactured articles of food which contain any meat or cooked or dried meat other than fat
 
-9. | Milk or any milk beverage, being milk or a milk beverage to which the Milk (Regional Council) Bylaws (Cap. 132 sub. leg.) apply, other than sterilized milk or milk beverage approved under bylaw 4(2) thereof
+9. | Milk or any milk beverage, being milk or a milk beverage to which the Milk Regulation (Cap. 132 sub. leg.) apply, other than sterilized milk or milk beverage approved under section 4(2) thereof (78 of 1999 s. 7)
 
 10. | (a) Soft ice cream (b) Other frozen confections
 

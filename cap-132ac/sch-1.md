@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[by-laws 3 & 4]
+[ss. 3 & 4] (78 of 1999 s. 7)
 
 HEAT-TREATMENT
 

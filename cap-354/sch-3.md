@@ -6,7 +6,7 @@ ENLARGED AREAS
 
 Area No. | Livestock Waste Prohibition Area | Description of Enlarged Area
 
-1 & 2 | Urban Council Area | Those parts of area No. 1 and No. 2 delineated on 5 maps dated 23 May 1994 and numbered as follows— (a) LW/20/7; (b) LW/20/10 (Edition 2); (c) LW/20/11; (d) LW/20/15; (e) LW/20/16.
+1 & 2 | Urban Area (Amended 78 of 1999 s. 7) | Those parts of area No. 1 and No. 2 delineated on 5 maps dated 23 May 1994 and numbered as follows— (a) LW/20/7; (b) LW/20/10 (Edition 2); (c) LW/20/11; (d) LW/20/15; (e) LW/20/16.
 
 3. | Sha Tin New Town and Environs | Those parts of area No. 3 delineated on 3 maps dated 23 May 1994 and numbered as follows— (a) LW/20/7; (b) LW/20/8 (Edition 2); (c) LW/20/11.
 
@@ -23,6 +23,8 @@ Area No. | Livestock Waste Prohibition Area | Description of Enlarged Area
 9. | Part of Junk Bay New Town | Those parts of area No. 9 delineated on 3 maps dated 23 May 1994 and numbered as follows— (a) LW/20/8 (Edition 2); (b) LW/20/11; (c) LW/20/12.
 
 9A. | Part of Lantau Island and Part of Outlying Islands | Those parts of area No. 9A delineated on 12 maps dated 23 May 1994 and numbered as follows— (a) LW/20/3; (b) LW/20/4 (Edition 2); (c) LW/20/5; (d) LW/20/7; (e) LW/20/8 (Edition 2); (f) LW/20/9; (g) LW/20/10 (Edition 2); (h) LW/20/12; (i) LW/20/13; (j) LW/20/14; (k) LW/20/15; (l) LW/20/16.
+
+Area No. | Livestock Waste Control Area | Description of Enlarged Area
 
 10. | Part of River Indus Area | Those parts of area No. 10 delineated on 4 maps dated 23 May 1994 and numbered as follows— (a) LW/20/2; (b) LW/20/3; (c) LW/20/6; (d) LW/20/7.
 
@@ -58,6 +60,8 @@ Area No. | Livestock Waste Prohibition Area | Description of Enlarged Area
 
 10R | Part of River Indus Area | Those parts of area No. 10R delineated on a map dated 23 May 1994 and numbered as follows— (a) LW/20/3.
 
+Area No. | Livestock Waste Restriction Area | Description of Enlarged Area
+
 11R | Part of Mui Wo and Part of Tolo Channel Area | Those parts of area No 11R delineated on 5 maps dated 23 Many 1994 and numbered as follows— (a) LW/20/3; (b) LW/20/6; (c) LW/20/7; (d) LW/20/10 (Edition 2); (e) LW/20/11.
 
 13R | Part of Tsuen Wan Area | Those parts of area No. 13R delineated on 4 maps dated 23 May 1994 and numbered as follows— (a) LW/20/6; (b) LW/20/7; (c) LW/20/10 (Edition 2); (d) LW/20/11.
@@ -76,7 +80,9 @@ Area No. | Livestock Waste Prohibition Area | Description of Enlarged Area
 
 24R | Part of Long Harbour Area | Those parts of area No. 24R delineated on a map dated 23 May 1994 and numbered as follows— (a) LW/20/8 (Edition 2).
 
-25R | Part of Starling Inlet Area | Those parts of area No. 25R delineated on a map dated 23 May 1994 and numbered as follows— (a) LW/20/8 (Edition 2). (Replaced L.N. 311 of 1994)
+25R | Part of Starling Inlet Area | Those parts of area No. 25R delineated on a map dated 23 May 1994 and numbered as follows— (a) LW/20/8 (Edition 2).
+
+(Replaced L.N. 311 of 1994)
 
 Note:
 

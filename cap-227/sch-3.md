@@ -30,7 +30,7 @@ OFFENCES TO WHICH DEFENDANT MAY PLEAD GUILTY BY LETTER
 
 - (Replaced L.N. 229 of 1984)
 
-- 4. Public Health and Urban Services Any offence against by-law 9 (Prevention of obstruction) of the Public Market (Urban Council) By-laws (Cap. 132 sub. leg.). (Amended 10 of 1986 s. 32)
+- 4. Public Health and Urban Services Any offence against section 9 (Prevention of obstruction) of the Public Markets Regulation (Cap. 132 sub. leg.). (Amended 10 of 1986 s. 32; 78 of 1999 s. 7)
 
 - 5. Tramway
 

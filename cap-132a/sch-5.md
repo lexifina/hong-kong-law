@@ -1,3 +1,15 @@
-# SCHEDULE 5 DUCTLESS GLANDS
+# SCHEDULE 5
 
-[bylaw 26(b)] Thyroid Parathyroids Suprarenals Pituitary Pineal
+[s. 26(b)] (78 of 1999 s. 7)
+
+DUCTLESS GLANDS
+
+Thyroid
+
+Parathyroids
+
+Suprarenals
+
+Pituitary
+
+Pineal

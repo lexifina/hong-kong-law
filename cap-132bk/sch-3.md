@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# THIRD SCHEDULE
 
-[by-law 3]
+[s. 3] (78 of 1999 s. 7)
 
-SPECIFIED VEHICLES
+Specified vehicles
 
 - 1. Goods vehicle.
 

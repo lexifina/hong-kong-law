@@ -1,6 +1,6 @@
 # FIRST SCHEDULE
 
-[by-law 4(1)]
+[s. 4(1)] (78 of 1999 s. 7)
 
 Register of Graves
 

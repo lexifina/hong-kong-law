@@ -1,8 +1,8 @@
-# SCHEDULE 5 APPORTIONMENT OF SPACE IN RESTAURANTS AND FACTORY CANTEENS
+# SCHEDULE 5
 
-[bylaw 33(1)(ja), (ka) &
+[s. 33(1)(ja), (ka) &(kb)] (78 of 1999 s. 7)
 
-(kb)]
+APPORTIONMENT OF SPACE IN RESTAURANTS AND FACTORY CANTEENS
 
 Ratio of Food Preparation Space, Scullery and Kitchen Area to
 

@@ -1,10 +1,8 @@
-# SCHEDULE 2
+# SECOND SCHEDULE
 
-[by-law 3]
+[s. 3] (78 of 1999 s. 7)
 
-DANGEROUS WASTE
-
-DANGEROUS WASTE
+Dangerous waste
 
 (8 of 1980 s. 37)
 

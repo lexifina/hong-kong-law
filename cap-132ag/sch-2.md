@@ -1,4 +1,6 @@
-# SECOND SCHEDULE HONG KONG
+# SECOND SCHEDULE
+
+HONG KONG
 
 (1) Name of Street | (2) Extent
 

@@ -1,6 +1,8 @@
-# SCHEDULE 1 METHODS OF HEAT-TREATMENT
+# SCHEDULE 1
 
-[bylaws 3 & 4]
+[ss. 3 & 4] (78 of 1999 s. 7)
+
+METHODS OF HEAT-TREATMENT
 
 - 1. Pasteurization—
 

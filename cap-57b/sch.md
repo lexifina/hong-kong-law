@@ -6,7 +6,7 @@ PROHIBITED OCCUPATIONS
 
 - 1. In any premises or place where intoxicating liquor is sold and consumed.
 
-- 2. Without prejudice to by-law 15 of the Public Cleansing and Prevention of Nuisances (Regional Council) By-laws (Cap. 132 sub. leg.) and to by-law 15 of the Public Cleansing and Prevention of Nuisances (Urban Council) By-laws (Cap. 132 sub. leg.), in the handling for gain or profit of any refuse in any public place.
+- 2. Without prejudice to section 15 of the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg. BK), in the handling for gain or profit of any refuse in any public place. (78 of 1999 s. 7)
 
 - 3. In the handling or delivery of any dangerous goods to which section 3 of the Dangerous Goods Ordinance (Cap. 295) applies.
 

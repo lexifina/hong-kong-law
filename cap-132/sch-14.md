@@ -4,8 +4,6 @@
 
 PUBLIC SWIMMING POOLS
 
-Urban Council Area
-
 Chai Wan Swimming Pool
 
 Hammer Hill Road Leisure Pool
@@ -41,8 +39,6 @@ Victoria Park Swimming Pool
 Wan Chai Training Pool
 
 (Added 21 of 1973 s. 19. Amended L.N. 199 of 1975; L.N. 129 of 1977; L.N. 248 of 1977; L.N. 255 of 1980; L.N. 360 of 1984; L.N. 277 of 1985; L.N. 328 of 1985; 10 of 1986 s. 31; L.N. 53 of 1989; L.N. 536 of 1995; L.N. 261 of 1999)
-
-Regional Council Area
 
 Fanling Swimming Pool
 
@@ -80,4 +76,4 @@ Tuen Mun Swimming Pool
 
 Yuen Long Public Swimming Pool
 
-(Added L.N. 199 of 1975. Amended L.N. 25 of 1978; L.N. 285 of 1978; L.N. 179 of 1981; L.N. 40 of 1983; L.N. 208 of 1984; L.N. 239 of 1984; 10 of 1986 s. 31; L.N. 322 of 1986; L.N. 360 of 1988; L.N. 115 of 1990; L.N. 147 of 1991; L.N. 262 of 1991; L.N. 373 of 1991; L.N. 396 of 1993; L.N. 335 of 1996; L.N. 425 of 1996; L.N. 461 of 1997; L.N. 10 of 1999)
+(Added L.N. 199 of 1975. Amended L.N. 25 of 1978; L.N. 285 of 1978; L.N. 179 of 1981; L.N. 40 of 1983; L.N. 208 of 1984; L.N. 239 of 1984; 10 of 1986 s. 31; L.N. 322 of 1986; L.N. 360 of 1988; L.N. 115 of 1990; L.N. 147 of 1991; L.N. 262 of 1991; L.N. 373 of 1991; L.N. 396 of 1993; L.N. 335 of 1996; L.N. 425 of 1996; L.N. 461 of 1997; L.N. 10 of 1999; 78 of 1999 s. 7)

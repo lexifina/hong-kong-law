@@ -1,6 +1,6 @@
 # THIRD SCHEDULE
 
-[by-law 4]
+[s. 4] (78 of 1999 s. 7)
 
 REPOSITORIES FOR HUMAN REMAINS
 

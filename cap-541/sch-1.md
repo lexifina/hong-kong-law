@@ -12,11 +12,9 @@
 
   - (a) a person who is an employee or servant of—
 
-    - (i) the Legislative Council or a committee of any such Council; (Amended 48 of 1999 s. 53)
+    - (i) the Legislative Council or a committee of any such Council; or (Amended 48 of 1999 s. 53; 78 of 1999 s. 7)
 
-    - (ii) the Provisional Urban Council, the provisional Regional Council or the committee of such Council;
-
-    - (iii) a body which is the successor to a Council referred to in sub-subparagraph (ii) or a committee of any such body; or
+    - (ii)-(iii) (Repealed 78 of 1999 s. 7)
 
     - (iv) a member of any political body; and
 

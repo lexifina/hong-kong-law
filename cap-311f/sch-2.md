@@ -364,9 +364,9 @@ To: The Authority
 
 - . . (Signature) Objector Dated this . day of . 19 .
 
-- Copy to the Secretary for Planning, Environment and Lands * Delete if not applicable.
+- Copy to the Secretary for the Environment and Food * Delete if not applicable.
 
-(L.N. 244 of 1989; L.N 212 of 1996)
+(L.N. 244 of 1989; L.N 212 of 1996; 78 of 1999 s. 7)
 
 FORM 6 | [regulation 12]
 

@@ -1,6 +1,8 @@
-# SCHEDULE 1 SPECIFIED ABATTOIRS
+# SCHEDULE 1
 
-[bylaw 2]
+[s. 2] (78 of 1999 s. 7)
+
+SPECIFIED ABATTOIRS
 
 Name of abattoir | Address
 

@@ -1,6 +1,8 @@
-# SCHEDULE 6 REQUIREMENTS FOR TRANSPORTATION OF DRESSED CARCASSES AND OFFAL
+# Schedule 6
 
-[bylaw 25(1)]
+[s. 25(1)] (78 of 1999 s. 7)
+
+REQUIREMENTS FOR TRANSPORTATION OF DRESSED CARCASSES AND OFFAL
 
 - 1. The motor vehicle shall be clean and free from refuse, dirt, or other offensive matter.
 
@@ -10,7 +12,7 @@
 
 - 4. Dressed carcasses and offal shall be conveyed within the meat conveying compartment of the motor vehicle in such manner as to ensure that the dressed carcasses and offal are kept clean.
 
-- 5 Every door or window of the meat conveying compartment of the motor vehicle shall be kept properly closed while the motor vehicle is in motion.
+- 5. Every door or window of the meat conveying compartment of the motor vehicle shall be kept properly closed while the motor vehicle is in motion.
 
 - 6. Persons engaged in the delivery or portering of dressed carcasses and offal to and from the motor vehicle shall wear clean and washable protective clothing and head covering.
 

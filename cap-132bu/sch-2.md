@@ -1,39 +1,45 @@
 # Schedule 2
 
-[bylaw 7]
+[s. 7]
 
-(a) FORM OF REGISTER FOR EXAMINATIONS UNDER BYLAW 15(1)
+(a) Form of Register for Examinations under Section 15(1)
 
 Page No. .
 
-- 1. Name of Licensee .
+1. | Name of Licensee
 
-- Licence Number .
+Licence Number
 
-- 2. Date .
+2. | Date
 
-- 3. Number of bovine animals examined during day .
+3. | Number of bovine animals examined during day
 
-- 4. Number of swine examined during day .
+4. | Number of swine examined during day
 
-- 5. Number of other food animals examined during day .
+5. | Number of other food animals examined during day
 
-- 6. Signature of Licensee .
+6. | Signature of Licensee
 
-- 7. Signature of authorized officer . (b) FORM OF REGISTER FOR EXAMINATIONS UNDER BYLAW 21(1) Page No. .
+7. | Signature of authorized officer
 
-- 1. Name of Licensee .
+(b) Form of Register for Examinations under Section 21(1)
 
-- Licence Number .
+Page No. .
 
-- 2. Date .
+1. | Name of Licensee
 
-- 3. Number of bovine carcasses (including offal) examined during day .
+Licence Number
 
-- 4. Number of swine carcasses (including offal) examined during day .
+2. | Date
 
-- 5. Number of other food animal carcasses (including offal) examined during day .
+3. | Number of bovine carcasses (including offal) examined during day
 
-- 6. Signature of Licensee .
+4. | Number of swine carcasses (including offal) examined during day
 
-- 7. Signature of authorized officer .
+5. | Number of other food animal carcasses (including offal) examined during day
+
+6. | Signature of Licensee
+
+7. | Signature of authorized officer
+
+(78 of 1999 s. 7)

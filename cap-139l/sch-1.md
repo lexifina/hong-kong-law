@@ -6,13 +6,15 @@ LIVESTOCK WASTE CONTROL AREAS
 
 Item | Description | Relevant date
 
-Regional Council area
+(78 of 1999 s. 7)
 
 1. | Those parts of North, Tai Po and Yuen Long districts delineated on 2 maps dated 23 May 1994 numbered LW/50/1 (Edition 3) and LW/50/2 (Edition 3) described as “PART OF RIVER INDUS AREA” and identified by the number 10 thereon. | 1 July 1995
 
 2. | Those parts of Tai Po, Sha Tin, North, Tsuen Wan, Kwai Tsing, Sai Kung and Yuen Long districts delineated on a map dated 23 May 1994 numbered LW/50/2 (Edition 3) described as “TOLO HARBOUR AND PART OF TOLO CHANNEL AREA” and identified by the number 11 thereon. | 1 July 1995
 
 3. | Those parts of North and Yuen Long districts delineated on 2 maps dated 23 May 1994 numbered LW/50/1 (Edition 3) and LW/50/2 (Edition 3) described as “UPPER SHAM CHUN (SHENZHEN) RIVER AREA” and identified by the number 12 thereon. | 1 July 1995
+
+Item | Description | Relevant date
 
 4. | Those parts of Tsuen Wan, Tuen Mun, Kwai Tsing and Yuen Long districts delineated on 2 maps dated 23 May 1994 numbered LW/50/1 (Edition 3) and LW/50/2 (Edition 3) described as “PART OF TSUEN WAN, LIU TO VILLAGE AND ENVIRONS AND TAI LAM CHUNG AREA” and identified by the number 13 thereon. | 1 July 1995
 

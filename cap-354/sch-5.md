@@ -2,11 +2,11 @@
 
 [ss. 2, 15AA & 37]
 
-LIVESTOCK WASTE RESTRICTION AREAS
+Livestock Waste Restriction Areas
 
 Item | Description | Relevant Date
 
-Regional Council area | 1 July 1994
+(Amended 78 of 1999 s. 7)
 
 1. | Those parts of Sheung Shui and Fanling districts delineated on a map dated 23 May 1994 numbered LW/50/2 (Edition 3) described as “PART OF RIVER INDUS AREA” and identified by the number 10R thereon. | 1 July 1994
 

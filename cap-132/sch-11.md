@@ -1,6 +1,6 @@
 # SCHEDULE 11
 
-[s. 92A]
+[ss. 92A & 124L] (Amended 78 of 1999 s. 7)
 
 LICENSED ACTIVITIES
 
@@ -10,8 +10,4 @@ Public bowling-alley
 
 Public skating rink
 
-Public table tennis saloon
-
-Undertaker of burials
-
-(Added 21 of 1973 s. 19. Amended 53 of 1988 s. 6)
+(Added 21 of 1973 s. 19. Amended 53 of 1988 s. 6; 78 of 1999 s. 7)

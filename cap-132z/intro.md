@@ -1,5 +1,9 @@
-FOOD BUSINESS (REGIONAL COUNCIL) BYLAWS (EXEMPTION FROM BYLAW 31(1)) (CONSOLIDATION)
+FOOD BUSINESS REGULATION (EXEMPTION FROM SECTION 31(1)) NOTICE
 
-(Food Business (Regional Council) Bylaws, bylaw 31(7))
+(Food Business Regulation, s. 31(7))
 
 [19 January 1979]
+
+Editorial Note:
+
+The title of this Notice was amended from “Food Business (Regional Council) Bylaws (Exemption from Bylaw 31(1)) (Consolidation) Notice” to “Food Business Regulation (Exemption from section 31(1)) Notice” — see 78 of 1999 s. 7.

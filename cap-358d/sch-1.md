@@ -4,11 +4,7 @@
 
 FORM OF NOTICE TO BE PUBLISHED BY THE AUTHORITY UNDER SECTION 19(3)(b) OF THE WATER POLLUTION CONTROL ORDINANCE
 
-WATER POLLUTION CONTROL ORDINANCE
-
-(Chapter 358)
-
-NOTICE UNDER SECTION 19(3)
+WATER POLLUTION CONTROL ORDINANCE (Chapter 358) NOTICE UNDER SECTION 19(3)
 
 Water Pollution Control Authority, . Control Zone.
 
@@ -30,8 +26,6 @@ New components—
 
 Maximum flow rate or water consumption—
 
-Copies of the above application/s may be inspected during office hours in the register, which is kept at the Environmental Protection Department at .
+Copies of the above application/s may be inspected during office hours in the register, which is kept at the Environmental Protection Department at . Objections to the grant of any application noted above should be lodged in writing at the same office, setting out the reason for objection, within 30 days of this notice. The only ground of objection specified in section 19(4) of the Water Pollution Control Ordinance is that the grant of an application would tend to inhibit the attainment or maintenance of the water quality objectives established under section 5 of the Ordinance in respect of the . Control Zone.
 
-. Objections to the grant of any application noted above should be lodged in writing at the same office, setting out the reason for objection, within 30 days of this notice. The only ground of objection specified in section 19(4) of the Water Pollution Control Ordinance is that the grant of an application would tend to inhibit the attainment or maintenance of the water quality objectives specified by the Secretary for Planning, Environment and Lands in respect of the . Control Zone.
-
-(L.N. 244 of 1989; L.N. 375 of 1990; L.N. 324 of 1994; L.N. 80 of 1997)
+( L.N. 244 of 1989; L.N. 375 of 1990; L.N. 324 of 1994; L.N. 80 of 1997; 78 of 1999 s. 7)

@@ -1,15 +1,19 @@
-# SCHEDULE 4 STATEMENT AS TO ADMISSION OF FOOD ANIMALS AND CARCASSES TO LICENSED SLAUGHTERHOUSE
+# Schedule 4
 
-[bylaw 13]
+[s. 13]
 
-To: The Authorized Officer, . Slaughterhouse
+STATEMENT AS TO ADMISSION OF FOOD ANIMALS AND CARCASSES TO LICENSED SLAUGHTERHOUSE
 
-Pursuant to bylaw 13 of the Slaughterhouses (Regional Council) Bylaws, I hereby supply the following information concerning food animals and carcasses brought into the licensed slaughterhouse within the previous 24 hours—
+To: | The Authorized Officer, | Slaughterhouse
 
-- 1. Date of admission .
+Pursuant to section 13 of the Slaughterhouses Regulation, I hereby supply the following information concerning food animals and carcasses brought into the licensed slaughterhouse within the previous 24 hours—
 
-- 2. | Type of food animals | Country of origin | Number
+1. | Date of admission
 
-- 3. | Type of carcasses | Country of origin | Number
+2. | Type of food animals | Country of origin | Number
 
-- 4. Signature of Licensee .
+3. | Type of carcasses | Country of origin | Number
+
+4. | Signature of Licensee
+
+(78 of 1999 s. 7)

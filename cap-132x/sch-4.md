@@ -1,6 +1,8 @@
-# SCHEDULE 4 APPORTIONMENT OF SPACE IN RESTAURANTS
+# SCHEDULE 4
 
-[bylaw 33(1)(j) & (k)]
+[s. 33(1)(j) & (k)] (78 of 1999 s. 7)
+
+APPORTIONMENT OF SPACE IN RESTAURANTS
 
 - PART I Class B1 restaurants
 

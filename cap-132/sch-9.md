@@ -20,17 +20,17 @@ Section | Penalty | Daily penalty
 
 13(2)(a) | level 2 | $100 fine
 
-13(5) | level 1 | $50 fine
+13(5) | level 1 | $ 50 fine
 
-14(2)(a) | level 2 | $50 fine
+14(2)(a) | level 2 | $ 50 fine
 
 20(3)(b) | level 2 | $300 fine
 
-22(1)(a) | level 2 | $50 fine
+22(1)(a) | level 2 | $ 50 fine
 
 22A(1)(b) | level 2 | $100 fine
 
-24(2)(a) | level 2 | $50 fine
+24(2)(a) | level 2 | $ 50 fine
 
 25(a) | level 1 | -
 
@@ -104,10 +104,6 @@ Section | Penalty | Daily penalty
 
 105(2)(a) | level 2 | $100 fine
 
-105F(3) | level 2 | -
-
-105S(1) | level 3 and 3 months imprisonment | -
-
 110(2) | level 1 | -
 
 111D | level 3 | -
@@ -146,4 +142,4 @@ Section | Penalty | Daily penalty
 
 139 | level 4 and 6 months imprisonment | -
 
-(Replaced L.N. 177 of 1996)
+(Replaced L.N. 177 of 1996. Amended 78 of 1999 s. 7)

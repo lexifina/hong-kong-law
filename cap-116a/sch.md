@@ -4,7 +4,7 @@
 
 - 1. All tenements, or parts thereof, used wholly or mainly for the purpose of public religious worship, other than those exempt from assessment to rates under section 36(1)(d) of the Ordinance.
 
-- 2. All tenements, or parts thereof, occupied for public purposes by or on behalf of the Government, the Urban Council, the Regional Council or the Financial Secretary Incorporated, other than those exempt from assessment to rates under section 36(1)(f) or (h) of the Ordinance. (L.N. 307 of 1986)
+- 2. All tenements, or parts thereof, occupied for public purposes by or on behalf of the Government or the Financial Secretary Incorporated, other than those exempt from assessment to rates under section 36(1)(f) or (h) of the Ordinance. (L.N. 307 of 1986; 78 of 1999 s. 7)
 
 - 3. All tenements, or parts thereof, held by the Government or the Financial Secretary Incorporated and occupied or to be occupied as dwellings by public officers—
 

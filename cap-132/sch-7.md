@@ -116,7 +116,7 @@ TO the occupier of the said premises/master of the said vessel OR to the occupie
 
 WHEREAS application has been made to me by . .
 
-- (public officer or public body making the application) for an order prohibiting the use of the above premises/vessel/specified part as . (specify use to be prohibited) on the grounds that the said premises are/vessel is/specified part is being used without registration/licence/permit OR in contravention of a suspension of registration/licence/permit OR in contravention of the provisions of the Public Health and Municipal Services Ordinance, namely . . (specify the contravention):
+- (public officer making the application) for an order prohibiting the use of the above premises/vessel/specified part as . (specify use to be prohibited) on the grounds that the said premises are/vessel is/specified part is being used without registration/licence/permit OR in contravention of a suspension of registration/licence/permit OR in contravention of the provisions of the Public Health and Municipal Services Ordinance, namely . . (specify the contravention):
 
 - NOW on proof to my satisfaction of the said grounds and that at least 14 days’ notice of intention to apply for this Order has been given as required by law, I DO, in exercise of my powers under section 128(1) of the Public Health and Municipal Services Ordinance—
 
@@ -132,13 +132,13 @@ WHEREAS application has been made to me by . .
 
 - Magistrate.
 
-- Note: 1. The penalties for a breach of this Order are a fine of $60,000 and imprisonment for 12 months and a fine of $1,000 for each day during which the offence continues.
+- Note: 1. The penalties for a breach of this Order are a fine at level 6 and imprisonment for 12 months and a fine of $1,750 for each day during which the offence continues.
 
   - 2. If this Order relates to premises, a vessel or a specified part to which regulations made under section 56 of the Public Health and Municipal Services Ordinance apply, failure to comply with it continuously from the 8th day after service of this Order may result in a Closure Order being made in respect of the premises/vessel/specified part.
 
-  - 3. The penalty for removing or defacing a copy of this Order affixed to any premises, vessel or specified part is a fine of $10,000 and imprisonment for 6 months.
+  - 3. The penalty for removing or defacing a copy of this Order affixed to any premises, vessel or specified part is a fine at level 4 and imprisonment for 6 months.
 
-- (Added 76 of 1988 s. 6. Amended L.N. 164 of 1996)
+- (Added 76 of 1988 s. 6. Amended L.N. 164 of 1996; 78 of 1999 s. 7)
 
 FORM G | [section 128(4)]
 
@@ -146,19 +146,19 @@ PUBLIC HEALTH AND MUNICIPAL SERVICES ORDINANCE (Chapter 132) (section 128(4)) Cl
 
 TO .
 
-(public officer or public body making the application).
+(public officer making the application).
 
 WHEREAS a Prohibition Order was made by me . . (OR specify the person who made the order) on the . day of . 19 ., in respect of the premises/vessel/specified part known as . situated at . prohibiting the use of those premises/that vessel/that part as . . (specify use prohibited);
 
 - AND WHEREAS application has been made to me for a Closure Order in respect of those premises/that vessel/that part, being premises/a vessel/a part to which regulations made under section 56 of the above Ordinance apply:
 
-- NOW on proof to my satisfaction that the Prohibition Order has not been continuously complied with from the 8th day after it was served and that at least 14 days’ notice of intention to apply for this Order has been given as required by law, I DO, in exercise of my powers under section 128(4) of the Public Health and Municipal Services Ordinance, authorize you,. (public officer or public body applying for the Closure Order)—
+- NOW on proof to my satisfaction that the Prohibition Order has not been continuously complied with from the 8th day after it was served and that at least 14 days’ notice of intention to apply for this Order has been given as required by law, I DO, in exercise of my powers under section 128(4) of the Public Health and Municipal Services Ordinance, authorize you, . (public officer applying for the Closure Order)—
 
   - (a) to serve a copy of this Order by affixing it to a conspicuous part of the said premises/vessel/specified part;
 
   - (b) on the 8th day thereafter to close the said premises/vessel/specified part in the manner prescribed by law.
 
-- Dated this . day of., 19 .
+- Dated this . day of ., 19 .
 
 - [L.S.]
 
@@ -166,8 +166,8 @@ WHEREAS a Prohibition Order was made by me . . (OR specify the person who made t
 
 - Magistrate.
 
-- Note: 1. It is an offence for any unauthorized person to enter or remain in or on the premises, vessel or specified part to which this Order relates after it has been served. The penalties are a fine of $60,000 and imprisonment for 12 months and a fine of $1,000 for each day during which the offence continues.
+- Note: 1. It is an offence for any unauthorized person to enter or remain in or on the premises, vessel or specified part to which this Order relates after it has been served. The penalties are a fine at level 6 and imprisonment for 12 months and a fine of $1,750 for each day during which the offence continues.
 
-  - 2. The penalty for removing or defacing a copy of this Order affixed to any premises, vessel or specified part or for breaking or interfering with any lock or seal placed on any premises, vessel or specified part is a fine of $10,000 and imprisonment for 6 months.
+  - 2. The penalty for removing or defacing a copy of this Order affixed to any premises, vessel or specified part or for breaking or interfering with any lock or seal placed on any premises, vessel or specified part is a fine at level 4 and imprisonment for 6 months.
 
-- (Added 76 of 1988 s. 6. Amended L.N. 164 of 1996)
+- (Added 76 of 1988 s. 6. Amended L.N. 164 of 1996; 78 of 1999 s. 7)
