@@ -14,7 +14,7 @@ PART 1
 
 3. | A student in the course of undergoing any course of training to be a medical laboratory technologist, in medicine or in dentistry at the University of Hong Kong, The Chinese University of Hong Kong or The Hong Kong Polytechnic University (L.N. 640 of 1994) | 21(1)
 
-4. | A duly qualified veterinary surgeon as defined by section 2 of the Pharmacy and Poisons Ordinance (Cap. 138) in relation to any treatment by him of an animal | 21(1) and (2)
+4. | A veterinary surgeon registered under the Veterinary Surgeons Registration Ordinance (Cap. 529) in relation to any treatment by him of an animal (L.N. 5 of 1999) | 21(1) and (2)
 
 5. | Chemists and Scientific Officers (Medical) employed by the Government of Hong Kong or the Hospital Authority within the meaning of the Hospital Authority Ordinance (Cap. 113), and persons holding an academic or scientific appointment at the University of Hong Kong, The Chinese University of Hong Kong or The Hong Kong Polytechnic University, while discharging their official duties (L.N. 421 of 1991; L.N. 640 of 1994) | 21(1)
 
