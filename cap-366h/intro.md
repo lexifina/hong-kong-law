@@ -1,5 +1,3 @@
 DECLARATION OF DISTRICTS ORDER 1994
 
-(Cap. 366 section 3(1))
-
-[1 April 1994]
+(Ceased to be in force)
