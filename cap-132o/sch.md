@@ -71,3 +71,5 @@
 - 34. The third floor of San Po Kong Plaza, 33 Shung Ling Street, San Po Kong, Kowloon. (L.N. 487 of 1996)
 
 - 35. No. 702, 7/F., Tsz Wan Shan Shopping Centre, Kowloon. (L.N. 188 of 1998)
+
+- 36. The fifth floor of Urban Council Ap Lei Chau Complex, 8 Hung Shing Street, Ap Lei Chau, Hong Kong. (L.N. 354 of 1998)
