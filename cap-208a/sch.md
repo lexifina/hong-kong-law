@@ -32,4 +32,4 @@ Regulation | Description | Fee
 
 11(3)(a) | Permit to camp or to erect a tent or temporary shelter at a designated camping site | Nil
 
-(L.N. 326 of 1992; L.N. 38 of 1995; L.N. 178 of 1996; L.N. 473 of 1997)
+(L.N. 326 of 1992; L.N. 38 of 1995; L.N. 178 of 1996; L.N. 473 of 1997; L.N. 349 of 2000; L.N. 30 of 2001)
