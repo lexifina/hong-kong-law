@@ -6,7 +6,7 @@
 
 - Item | Licence | Fee
 
-- 1. | Private Telegraph (Reception). | $ 20 | per receiving channel
+- 1. | Private Telegraph (Reception) . | $ 20 | per receiving channel
 
 - 2. | Private Telegraph (Transmission) . | $ 55 | per station irrespective of the number of transmitting channels.
 
@@ -18,7 +18,7 @@
 
 - 6. | Press Reception (Direct). | $1,500
 
-- 7. | General Communication Radio Receiving Station (other than a Sound Broadcast Receiving Apparatus) . | $ 80
+- 7. | General Communication Radio Receiving Station (other than a Sound Broadcast Receiving Apparatus) | $ 80
 
 - 8. | Experimental Station . | $ 300
 
@@ -74,7 +74,7 @@
 
 - 28. | Hotel Television (Transmission) Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 301 of 1989; L.N. 430 of 1990; 48 of 2000 s. 44)
 
-- 29. | Public Radiocommunications Service Licence | to be assessed on the basis set out in Part II of this Schedule. (L.N. 430 of 1990; 36 of 2000 s. 28)
+- 29. | Public Radiocommunications Service Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 430 of 1990; 36 of 2000 s. 28)
 
 - 30. | Satellite Master Antenna Television Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 182 of 1991)
 
@@ -150,9 +150,9 @@ Item | Licence | Fee
 
   - (c) for the 101st base station installed for the Service and any additional base stations | $100 per base station
 
-  - (d) for the 1st 200 mobile stations or less used by customers of the Service | $4,800
+  - (d) for the 1st 200 mobile stations or less used by customers of the Service | $4,000
 
-  - (e) for every additional 100 mobile stations or less used by customers of the Service | $2,400
+  - (e) for every additional 100 mobile stations or less used by customers of the Service | $2,000
 
   - (f) for every 1 kHz of spectrum assigned to the licensee | $50
 
@@ -160,7 +160,7 @@ Item | Licence | Fee
 
   - For the purpose of determining the fees payable, the number of stations and the width of the spectrum assigned shall be those authorized or in service at the time when the licence is granted or on the anniversary of the grant.
 
-  - (L.N. 58 of 1999; L.N. 62 of 2000; 36 of 2000 s. 28; L.N. 29 of 2002)
+  - (L.N. 58 of 1999; L.N. 62 of 2000; 36 of 2000 s. 28; L.N. 29 of 2002; L.N. 33 of 2004)
 
   - SATELLITE MASTER ANTENNA TELEVISION LICENCE
 
