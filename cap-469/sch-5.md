@@ -16,13 +16,15 @@ AMOUNT OF COMPENSATION
 
 - under 40 40 to under 56 56 and above | 96 72 48; or
 
-  - (ii) the sum of $248,000; or
+  - (ii) the sum of $341,000; or (Amended 16 of 2003 s. 24)
 
   - (b) the appropriate sum specified in column 2 of Table 2 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table— TABLE 2
 
   - Age | Sum
 
-  - under 40 40 to under 56 56 and above | $1,440,000 $1,080,000 $ 720,000
+  - under 40 40 to under 56 56 and above | $2,016,000 $1,512,000 $1,008,000
+
+- (Amended 16 of 2003 s. 24)
 
 - 2. For the purpose of this Schedule, earnings include—
 
@@ -62,9 +64,11 @@ AMOUNT OF COMPENSATION
 
   - (a) the claimant’s taking any period of maternity leave under section 12 of the Employment Ordinance (Cap. 57);
 
-  - (b) the claimant’s being unfit therefor on account of injury or sickness; or
+  - (b) the claimant’s being unfit therefor on account of injury or sickness; (Amended 16 of 2003 s. 24)
 
-  - (c) the claimant’s injury or his suffering from an occupational disease in respect of which compensation is payable in accordance with the Employees’ Compensation Ordinance (Cap. 282),
+  - (c) the claimant’s injury or his suffering from an occupational disease in respect of which compensation is payable in accordance with the Employees’ Compensation Ordinance (Cap. 282); (Amended 16 of 2003 s. 24)
+
+  - (d) the claimant’s having obtained his employer’s consent to the absence subject to a condition that no earnings are accrued for the claimant during such absence, (Added 16 of 2003 s. 24)
 
 - shall not be counted towards the 12-month period in aggregate if the period or periods of absence from work amount to 30 consecutive days or more. (Added 5 of 1998 s. 20)
 

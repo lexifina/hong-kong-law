@@ -52,6 +52,14 @@ A noisy occupation is an occupation involving—
 
 - (w) the use of paper folding machines, or work wholly or mainly in the immediate vicinity of those machines whilst they are being so used; (Added 5 of 1998 s. 18)
 
-- (x) the use of high speed web-fed offset printing machines, or work wholly or mainly in the immediate vicinity of those machines whilst they are being so used; or (Added 5 of 1998 s. 18)
+- (x) the use of high speed web-fed offset printing machines, or work wholly or mainly in the immediate vicinity of those machines whilst they are being so used; (Added 5 of 1998 s. 18. Amended 16 of 2003 s. 22)
 
-- (y) work wholly or mainly in the immediate vicinity of gun-firing operation. (Added 5 of 1998 s. 18)
+- (y) work wholly or mainly in the immediate vicinity of gun-firing operation; (Added 5 of 1998 s. 18. Amended 16 of 2003 s. 22)
+
+- (z) work wholly or mainly in the immediate vicinity of a place where the electric stunning of pigs for the purpose of slaughter takes place; (Added 16 of 2003 s. 22)
+
+- (za) playing mahjong (as the main duty) inside a mahjong parlour licensed under section 22(1)(b) of the Gambling Ordinance (Cap. 148); (Added 16 of 2003 s. 22)
+
+- (zb) preparing or serving drinks (as the main duty) in the immediate vicinity of the dancing area of a discotheque; or (Added 16 of 2003 s. 22)
+
+- (zc) controlling or operating a system for playing back and broadcasting recorded music in a discotheque. (Added 16 of 2003 s. 22)

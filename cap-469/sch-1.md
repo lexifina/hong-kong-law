@@ -10,13 +10,13 @@ PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
 
 - 3. Composition of the Board
 
-  - (1) The Board consists of the following members all of whom are appointed by the Governor—
+  - (1) The Board consists of the following members all of whom are appointed by the Chief Executive— (Amended 16 of 2003 s. 20)
 
     - (a) a chairman;
 
-    - (b) not more than 2 persons, not being public officers, who, in the opinion of the Governor, represent employers;
+    - (b) not more than 2 persons, not being public officers, who, in the opinion of the Chief Executive, represent employers;
 
-    - (c) not more than 2 persons, not being public officers, who, in the opinion of the Governor, represent employees;
+    - (c) not more than 2 persons, not being public officers, who, in the opinion of the Chief Executive, represent employees;
 
     - (d) a medical practitioner;
 
@@ -26,7 +26,9 @@ PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
 
   - (2) The appointment of a person appointed to the Board under subsection (1)(a), (b), (c), (d) or (e) must not exceed 3 years.
 
-  - (3) A person appointed to the Board under subsection (1)(f) holds office at the pleasure of the Governor.
+  - (3) A person appointed to the Board under subsection (1)(f) holds office at the pleasure of the Chief Executive.
+
+- (Amended 16 of 2003 s. 20)
 
 - 4. Terms and appointment of members
 
@@ -34,21 +36,19 @@ PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
 
   - (2) Any member appointed under section 3(1)(a), (b), (c), (d) or (e) may at any time—
 
-    - (a) resign from his office by notice in writing to the Governor; or
+    - (a) resign from his office by notice in writing to the Chief Executive; or
 
-    - (b) be removed from office by the Governor for permanent incapacity or other sufficient cause,
+    - (b) be removed from office by the Chief Executive for permanent incapacity or other sufficient cause,
 
   - and upon such resignation or removal the term for which he was appointed is deemed to have expired.
 
-  - (3) Where any member appointed under section 3(1)(a), (b), (c), (d) or (e) is precluded by temporary incapacity or other cause from performing his functions as a member for any period, the Governor may appoint another person to act in place of that member during that period.
+  - (3) Where any member appointed under section 3(1)(a), (b), (c), (d) or (e) is precluded by temporary incapacity or other cause from performing his functions as a member for any period, the Chief Executive may appoint another person to act in place of that member during that period.
 
-  - (4) Where any question arises under subsection (2)(b) or (3) as to whether any incapacity or cause exists or whether any incapacity is temporary or permanent or any cause is sufficient, the decision of the Governor shall be final.
+  - (4) Where any question arises under subsection (2)(b) or (3) as to whether any incapacity or cause exists or whether any incapacity is temporary or permanent or any cause is sufficient, the decision of the Chief Executive shall be final.
 
-- 5.
+- (Amended 16 of 2003 s. 20)
 
-- Governor may declare office of member of Board to be vacant
-
-- If the Governor is satisfied that a member of the Board appointed under section 3(1)(a), (b), (c), (d) or (e)—
+- 5. Chief Executive may declare office of member of Board to be vacant If the Chief Executive is satisfied that a member of the Board appointed under section 3(1)(a), (b), (c), (d) or (e)— (Amended 16 of 2003 s. 20)
 
   - (a) has failed to attend 3 consecutive meetings of the Board without the permission of the Board; or
 
@@ -56,7 +56,11 @@ PROVISIONS WITH RESPECT TO THE BOARD AND MEMBERS THEREOF
 
   - (c) is incapacitated by physical or mental illness; or
 
-  - (d) is otherwise unable or unfit to discharge the functions of a member, the Governor may declare his office as a member of the Board to be vacant, and shall notify that fact in such manner as the Governor thinks fit and upon such declaration the office shall become vacant.
+  - (d) is otherwise unable or unfit to discharge the functions of a member,
+
+- the Chief Executive may declare his office as a member of the Board to be vacant, and shall notify that fact in such manner as the Chief Executive thinks fit and upon such declaration the office shall become vacant.
+
+- (Amended 16 of 2003 s. 20)
 
 - 6. Quorum The quorum of the Board is 5 and, while a member is disqualified from taking part in a decision or deliberation of the Board in respect of a matter, he is disregarded for the purposes of constituting a quorum of the Board for deciding, or deliberating on, that matter.
 
