@@ -6,6 +6,6 @@ BANKS SPECIFIED FOR THE PURPOSES OF DEFINITION OF “NOTE-ISSUING BANK”
 
 - 1. Bank of China (Hong Kong) Limited. (Replaced L.N. 184 of 2001)
 
-- 2. Standard Chartered Bank.
+- 2. Standard Chartered Bank (Hong Kong) Limited. (Replaced L.N. 105 of 2004)
 
 - 3. The Hongkong and Shanghai Banking Corporation Limited. (Added 98 of 1995 s. 5)
