@@ -4,144 +4,116 @@
 
 SPECIFIED AUTHORITIES
 
-\- -
+Regulation (1) | Authority (2) | Regulation (1) | Authority (2)
 
-Regulation Authority Regulation Authority
+4 | ｝ | Commissioner of Mines, and, in the case of removal by water, the Director of Marine. | 72 | ｝
 
-- (1) (2) (1) (2)
+5 | 73 74
 
-- - - 4 ) Commissioner of Mines, 72 )
+6 | ｝ | 75 | ｝
 
-- ) and, in the case of removal 73 )
+9 | 77
 
-- ) by water, the Director of 74 )
+10 | ｝ | 77A | ｝
 
-- 5 ) Marine. 75 )
+11 | Commissioner of Mines. | 78
 
-- 77 )
+12 | ｝ | 78A | ｝
 
-- 6 ) 77A )
+13 | 78B
 
-- 9 ) 78 )
+16 | ｝ | 81 | ｝
 
-- 10 ) 78A )
+18 | 82
 
-- 11 ) 78B )
+20 | Commissioner of Police. | 84 | ｝
 
-- 12 ) Commissioner of Mines. 81 )
+22 | ｝ | (Table)
 
-- 13 ) 82 )
+24 | 87 | ｝
 
-- 16 ) 84 )
+25 | ｝ | 88
 
-- 18 ) (Table) )
+27 | 92 | ｝
 
-- 87 )
+29 | ｝ | (Table)
 
-- 20 Commissioner of Police. 88 )
+30 | 96 | ｝
 
-- 92 )
+31 | ｝ | 97
 
-- 22 ) (Table) )
+31A | 99 | ｝
 
-- 24 ) 96 )
+32 | ｝ | (Table)
 
-- 25 ) 97 )
+33 | Commissioner of Mines. | 99A | ｝
 
-- 27 ) 99 )
+34 | ｝ | 100
 
-- 29 ) (Table) )
+35 | 101 | ｝
 
-- 30 ) 99A )
+38 | ｝ | 105
 
-- 31 ) 100 )
+45 | 107 | ｝
 
-- 31A ) 101 )
+(Table) | ｝ | 108
 
-- 32 ) 105 )
+46 | 115 | ｝
 
-- 33 ) Commissioner of Mines. 107 )
+47 | ｝ | 116
 
-- 34 ) 108 )
+55 | 124 | ｝
 
-- 35 ) 115 )
+56 | ｝ | 125
 
-- 38 ) 116 )
+58 | 126 | ｝ ｝ ｝ ｝ | Director of Fire Services.
 
-- 45 ) 124 ) Director of Fire
+59 | Secretary for Home Affairs and the Commissioner for Television and Entertainment Licensing for the whole of Hong Kong with the exception of the waters thereof; Director of Marine for the waters of Hong Kong. | 127 128 129 131 132 136 137 139
 
-- (Table)) 125 ) Services.
+61A | ｝ | (Table) | ｝
 
-- 46 ) 126 )
+62 | 143
 
-- 47 ) 127 )
+63 | ｝ | 144 | ｝
 
-- 55 ) 128 )
+64 | 147
 
-- 56 ) 129 )
+66 | ｝ | Director of Fire Services. | 150 | ｝
 
-- 58 ) 131 )
+67 | 151
 
-- 132 )
+68 | ｝ | 153 | ｝
 
-- 136 )
+69 | (Table)
 
-- 59 Secretary for Broadcasting, 137 )
+70 | ｝ | 156 | ｝
 
-- Culture and Sport for the whole 139 )
+(Table) | 157
 
-- of Hong Kong with the exception (Table) )
+160 | ｝
 
-- of the waters thereof; 143 )
+167
 
-- Director of Marine for the 144 )
+168 | ｝
 
-- waters of Hong Kong. 147 )
+171B
 
-- 150 )
+171C | ｝
 
-- 61A ) 151 )
+173
 
-- 62 ) 153 )
+174 | ｝
 
-- 63 ) (Table) )
+177E
 
-- 64 ) 156 )
+177FA | ｝
 
-- 66 ) Director of Fire Services. 157 )
+177I
 
-- 67 ) 160 )
+182
 
-- 68 ) 167 )
+177D | ｝ | Director of Marine.
 
-- 69 ) 168 )
+177F
 
-- 70 ) 171B )
-
-- (Table)) 171C )
-
-- 173 )
-
-- 174 )
-
-- 177E )
-
-- 177FA )
-
-- 177I )
-
-- 182 ) 177D ) Director
-
-- )
-
-- of
-
-- 177F ) Marine
-
-- (L.N. 104 of 1967; L.N. 22 of 1969; L.N. 40 of 1973; L.N. 95
-
-- of 1974; L.N. 266 of 1980; L.N. 267 of 1980; L.N. 18 of 1983;
-
-- L.N. 67 of 1985; L.N. 242 of 1989; L.N. 88 of 1991; L.N. 372
-
-- of 1996)
+(L.N. 104 of 1967; L.N. 22 of 1969; L.N. 40 of 1973; L.N. 95 of 1974; L.N. 266 of 1980; L.N. 267 of 1980; L.N. 18 of 1983; L.N. 67 of 1985; L.N. 242 of 1989; L.N. 88 of 1991; L.N. 372 of 1996; L.N. 192 of 1998; L.N. 206 of 1998)
