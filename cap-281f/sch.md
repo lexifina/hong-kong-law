@@ -1,6 +1,6 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2; 64 of 1999 s. 3)
+(Adaptation amendments retroactively made - see 64 of 1999 s. 3)
 
 [regs. 3, 5, 5A, 6, 7, 8, 11A & 12]
 
@@ -276,19 +276,25 @@ Note: For every extension of a radio certificate or radio-telephone certificate 
 
 Note: (1) The fee under this item is in addition to the fee chargeable under regulation 6 for the provision of facilities outside office hours.
 
-- (2) The fee under this item is chargeable in case of cancellation of service unless notice of cancellation is given at least 2 office hours prior to the time at which the facilities were requested. SECTION F-SAFETY EQUIPMENT CERTIFICATE Note: (1) The services specified in items 1, 2, 3 and 4 of this Section include—
+- (2)
 
-- (a) the survey or inspection of life-saving appliances except inflatable life rafts and inflatable boats at servicing depots;
+- The fee under this item is chargeable in case of cancellation of service unless notice of cancellation is given at least 2 office hours prior to the time at which the facilities were requested.
 
-- (b) the survey or inspection of fire appliances;
+- SECTION F-SAFETY EQUIPMENT CERTIFICATE
 
-- (c) the survey or inspection of pilot ladders;
+- Note: (1) The services specified in items 1, 2, 3 and 4 of this Section include—
 
-- (d) the survey or inspection of lights and sound signalling apparatus;
+  - (a) the survey or inspection of life-saving appliances except inflatable life rafts and inflatable boats at servicing depots;
 
-- (e) the issue of Form Surveys 183/183A; and
+  - (b) the survey or inspection of fire appliances;
 
-- (f) the cost of endorsement on Form Surveys 183/183A, where such endorsement is necessary.
+  - (c) the survey or inspection of pilot ladders;
+
+  - (d) the survey or inspection of lights and sound signalling apparatus;
+
+  - (e) the issue of Form Surveys 183/183A; and
+
+  - (f) the cost of endorsement on Form Surveys 183/183A, where such endorsement is necessary.
 
 - (2) For a partial inspection of safety equipment on a ship, Form Surveys 183/183A will be completed only for the items surveyed.
 
@@ -362,13 +368,7 @@ Note: (1) The fee under this item is in addition to the fee chargeable under reg
 
 - For each visit made to the ship | 4425 but where more than one visit is necessary the total fee for all visits shall not exceed the appropriate fee in item 2 of Section A for a passenger ship or item 7 of this Section for any other ship.
 
-- 10. For an inspection by a Government surveyor of the safety equipment of a ship required to have a safety equipment certificate or a qualified safety equipment certificate where such ship is registered in Hong Kong for the first time, or is re-registered in Hong Kong, in the case of a ship—
-
-- (a) 500 tons or over but under 1600 tons | 47190
-
-- (b) 1600 tons or over but under 10000 tons | 66070
-
-- (c) 10000 tons or over | 94380
+- 10. (Repealed L.N. 90 of 1999 and 44 of 1999 s. 25)
 
 - SECTION G-LIFE-SAVING APPLIANCES
 
@@ -530,7 +530,7 @@ Note: (1) The fee under this item is in addition to the fee chargeable under reg
 
 - 10000 tons and under | 259340 | 207945 | 25950
 
-(L.N. 270 of 1995)
+- (L.N. 270 of 1995)
 
 (b) For the survey for the issue or renewal of an International Load Line Certificate, or for the periodical survey or inspection of the load line, when carried out by the assigning authority at the same time as a survey for classification purposes | no fee
 
@@ -694,7 +694,9 @@ Note: (1) Surveys for the services under this Section (except item 6) do not inc
 
   - Purpose or service | Fee $
 
-  - The following fees shall be payable— 1. For a survey of and the issue of a certificate of survey for a launch or ferry vessel to ply within the Specified Sheltered Waters only that is certified to carry— (L.N. 576 of 1994)
+  - The following fees shall be payable—
+
+  - 1. | For a survey of and the issue of a certificate of survey for a launch or ferry vessel to ply within the Specified Sheltered Waters only that is certified to carry— (L.N. 576 of 1994)
 
   - (a) not more than 50 passengers | 1335
 
@@ -702,7 +704,7 @@ Note: (1) Surveys for the services under this Section (except item 6) do not inc
 
   - (c) more than 100 passengers, for each 50 passengers, or part thereof, over 100 passengers | 515
 
-  - 2. For a survey of and the issue of a certificate of survey for a launch or ferry vessel which is not confined to plying within the Specified Sheltered Waters only and which is certified to carry—
+  - 2. | For a survey of and the issue of a certificate of survey for a launch or ferry vessel which is not confined to plying within the Specified Sheltered Waters only and which is certified to carry—
 
   - (a) not more than 50 passengers | 2270
 
@@ -712,47 +714,49 @@ Note: (1) Surveys for the services under this Section (except item 6) do not inc
 
   - (d) more than 500 passengers for each 100 passengers, or part thereof, over 500 passengers | 970
 
-  - (L.N. 576 of 1994)
+- (L.N. 576 of 1994)
 
-  - 3. For a survey of and the issue of a certificate of survey for a passenger vehicular ferry vessel; being in addition to the appropriate fee payable under item 2(a), (b), (c) or (d). | 4745
+3. | For a survey of and the issue of a certificate of survey for a passenger vehicular ferry vessel; being in addition to the appropriate fee payable under item 2(a), (b), (c) or (d). | 4745
 
-  - (L.N. 576 of 1994)
+(L.N. 576 of 1994)
 
-  - 4. For a survey of and the issue of a certificate of survey for a launch certified to tow other craft— | 2860
+4. | For a survey of and the issue of a certificate of survey for a launch certified to tow other craft— | 2860
 
-  - Note: If a survey under item 1 or 2 is required simultaneously with a survey under this item, then only 1/2 of the fee under this item shall be payable in addition to the fee payable under item 1 or 2, as the case may be. (L.N. 576 of 1994)
+Note: If a survey under item 1 or 2 is required simultaneously with a survey under this item, then only 1/2 of the fee under this item shall be payable in addition to the fee payable under item 1 or 2, as the case may be.
 
-  - 5. (Repealed L.N. 576 of 1994)
+(L.N. 576 of 1994)
 
-  - 6. For the examination of plans and stability information—
+5. | (Repealed L.N. 576 of 1994)
 
-  - (a) Hull plans for a vessel certified to carry—
+6. | For the examination of plans and stability information—
 
-  - (i) not more than 50 passengers | 1815
+(a) Hull plans for a vessel certified to carry—
 
-  - (ii) more than 50 passengers but not more than 100 passengers | 2970
+(i) not more than 50 passengers | 1815
 
-  - (iii) more than 100 passengers | 5930
+(ii) more than 50 passengers but not more than 100 passengers | 2970
 
-  - (b) Machinery plans for a vessel certified to carry—
+(iii) more than 100 passengers | 5930
 
-  - (i) not more than 50 passengers | 1815
+(b) Machinery plans for a vessel certified to carry—
 
-  - (ii) more than 50 passengers but not more than 100 passengers | 2970
+(i) not more than 50 passengers | 1815
 
-  - (iii) more than 100 passengers | 5930
+(ii) more than 50 passengers but not more than 100 passengers | 2970
 
-  - (c) Electrical plans, for each generator installed | 1235
+(iii) more than 100 passengers | 5930
 
-  - (d) Stability information | 1235
+(c) Electrical plans, for each generator installed | 1235
 
-  - (e) Structural fire protection | 2970
+(d) Stability information | 1235
 
-  - (f) Fire extinguishing installation | 2970
+(e) Structural fire protection | 2970
 
-  - Note: (1) For examination of plans in respect of minor modification to an existing licensed vessel, the fee shall be 1/2 of the appropriate fee. (2) For examination of plans and stability information in respect of a floating restaurant referred to in Section Q the fee shall be twice the appropriate fee under this item.
+(f) Fire extinguishing installation | 2970
 
-  - SECTION Q-SMALL CRAFT AND OTHER MISCELLANEOUS VESSELS Note: (1) Inspection for the services specified in this Section does not include inspection for measurement of tonnage or for examination of plans and stability information.
+Note: (1) For examination of plans in respect of minor modification to an existing licensed vessel, the fee shall be 1/2 of the appropriate fee.
+
+- (2) For examination of plans and stability information in respect of a floating restaurant referred to in Section Q the fee shall be twice the appropriate fee under this item. SECTION Q-SMALL CRAFT AND OTHER MISCELLANEOUS VESSELS Note: (1) Inspection for the services specified in this Section does not include inspection for measurement of tonnage or for examination of plans and stability information.
 
 - (2) If more than 3 visits of a surveyor or an inspector to the vessel are required before the issue or endorsement of any certificate, the appropriate fee shall be increased by 1/4 in respect of each surveyor or each inspector for each such visit exceeding 3, including the final inspection visit.
 
@@ -826,11 +830,13 @@ Note: (1) Surveys for the services under this Section (except item 6) do not inc
 
 - Note: (1) For examination of plans in respect of minor modification to an existing licensed vessel, the fee shall be 1/2 of the appropriate fee.
 
-- (2) For examination of plans and stability information in respect of a floating restaurant the fee shall be twice of the appropriate fee under item 6 of Section P. SECTION R-CARRIAGE OF DANGEROUS GOODS-LOCAL CRAFT Note: (1) Inspection for the services specified in this Section does not include inspection and the issue of a certificate of inspection under Sections P and Q.
+  - (2) For examination of plans and stability information in respect of a floating restaurant the fee shall be twice of the appropriate fee under item 6 of Section P. SECTION R-CARRIAGE OF DANGEROUS GOODS-LOCAL CRAFT Note: (1) Inspection for the services specified in this Section does not include inspection and the issue of a certificate of inspection under Sections P and Q.
 
 - (2) If more than 3 visits of a surveyor or an inspector to the vessel are required before the issue of any certificate or declaration of fitness, the appropriate fee shall be increased by 1/4 in respect of each surveyor and each inspector for each such visit exceeding 3, including the final inspection visit.
 
-- (3) For the extension of any Declaration of Fitness for a period not exceeding 3 months the fee payable shall be 1/2 of the appropriate fee.
+- (3)
+
+- For the extension of any Declaration of Fitness for a period not exceeding 3 months the fee payable shall be 1/2 of the appropriate fee.
 
 - Purpose or service | Fee $
 
@@ -854,11 +860,13 @@ Note: (1) Surveys for the services under this Section (except item 6) do not inc
 
 - (ii) 500 gross registered tonnage and over | 4710
 
-- Note: For examination of plans in respect of modification to an existing vessel and the issue of a Declaration of Fitness, the fee payable shall be 1/2 of the appropriate fee. _
+- Note: For examination of plans in respect of modification to an existing vessel and the issue of a Declaration of Fitness, the fee payable shall be 1/2 of the appropriate fee.
 
-- PART III FEES FOR CERTAIN SERVICES RENDERED BY THE
+- _
 
-- MERCANTILE MARINE OFFICE
+  - PART III FEES FOR CERTAIN SERVICES RENDERED BY THE
+
+  - MERCANTILE MARINE OFFICE
 
 Purpose or service | Fee $
 
@@ -942,7 +950,7 @@ _
 
   - (2)
 
-    - In this Part, “Specified Sheltered Waters” (指明遮蔽水域) means the waters specified in the First Schedule to the Merchant Shipping (Launches and Ferry Vessels) Regulations (Cap. 313 sub. leg.) (L.N. 576 of 1994)
+    - In this Part, “Specified Sheltered Waters” (指明遮蔽水域) means the waters specified in the First Schedule to the Merchant Shipping (Launches and Ferry Vessels) Regulations (Cap. 313 sub. leg.). (L.N. 576 of 1994)
 
     - Purpose or service | Fee $
 
@@ -1100,7 +1108,7 @@ _
 
 - For every 100 net registered tons or part thereof For every 100 net registered tons or part thereof in the case of a vessel that is moored to an area of sea bed which is included in a lease of the adjacent foreshore, or the lease of which is granted in conjunction with a lease of the adjacent foreshore | 3665 730
 
-- Licence Fees-Class VII Vessels
+- Licence Fees-Class VIII Vessels
 
 - For every 100 Thames gross tons or part thereof And in addition, for each person the vessel is licensed to carry (as shown in the licence book of the vessel) | 3665 175
 
