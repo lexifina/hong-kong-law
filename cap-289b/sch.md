@@ -238,4 +238,6 @@ Item | Periods | Rate of interest
 
 117. | On or after 4 June 2001 and before 3 July 2001 (L.N. 124 of 2001; L.N. 151 of 2001) | 2.5750% per annum
 
-118. | On or after 3 July 2001 (L.N. 151 of 2001) | 2.3750% per annum
+118. | On or after 3 July 2001 and before 6 August 2001 (L.N. 151 of 2001; L.N. 180 of 2001) | 2.3750% per annum
+
+119. | On or after 6 August 2001 (L.N. 180 of 2001) | 2.250% per annum
