@@ -1,20 +1,20 @@
-# SCHEDULE
+# SCHEDULE 1
 
-[regs. 6(9) & 10]
+[regs. 6(9) & 10] (L.N. 110 of 2001)
 
 GUIDELINES FOR TRAINING CREWS FOR THE PURPOSE OF LAUNCHING LIFEBOATS AND RESCUE BOATS FROM SHIPS MAKING HEADWAY THROUGH THE WATER
 
-- 1. In this Schedule—
+- 1.
 
-  - “new ship” (新船舶) has the same meaning as in the Merchant Shipping (Safety) (Life-Saving Appliances) (Ships Built On or After 1 July 1986) Regulations (Cap. 369 sub. leg.);
+  - In this Schedule, “training manual” (訓練手冊) is a manual complying with the requirements of Regulation 35 of Chapter III of the Convention.
 
-  - “training manual” (訓練手冊) is a training manual required to be provided under regulation 5(15) of the Merchant Shipping (Safety) (Life-Saving Appliances) (Ships Built On or After 1 July 1986) Regulations (Cap. 369 sub. leg.).
+- (L.N. 110 of 2001)
 
 - 2. These guidelines apply to launching drills referred to in regulation 6(9) carried out, with lifeboats and rescue boats capable of being safely launched with the ship making headway at speeds up to 5 knots in calm water, in—
 
-  - (a) ships which are new cargo ships of 20000 GRT or more which are required under regulation 18(6) of the Merchant Shipping (Safety) (Life-Saving Appliances) (Ships Built On or After 1 July 1986) Regulations (Cap. 369 sub. leg.) to carry such lifeboats;
+  - (a) cargo ships of 20 000 GRT or more constructed on or after 1 July 1986 which are required under Regulation 31.1.1.1 of Chapter III of the Convention to carry such lifeboats; (L.N. 110 of 2001)
 
-  - (b) new ships which under regulation 20(3) of those regulations are required to carry such rescue boats; and
+  - (b) ships constructed on or after 1 July 1986 which are required under Regulation 31.2 of Chapter III of the Convention to carry such rescue boats; and (L.N. 110 of 2001)
 
   - (c) any other ship fitted with a lifeboat or a rescue boat, with on load release gear adequately protected against accidental or premature use, or with both such a lifeboat and a rescue boat.
 
@@ -28,7 +28,7 @@ GUIDELINES FOR TRAINING CREWS FOR THE PURPOSE OF LAUNCHING LIFEBOATS AND RESCUE 
 
     - (b) alongside the ship where there is a relative movement between ship and water;
 
-    - (c) suitable shore establishment where conditions similar to sub-subparagraph (a) or (b) prevail; or
+    - (c) at suitable shore establishment where conditions similar to sub-subparagraph (a) or (b) prevail; or
 
     - (d) at the master’s discretion, on board a ship when making headway in sheltered waters.
 
