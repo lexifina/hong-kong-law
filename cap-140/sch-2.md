@@ -4,7 +4,7 @@
 
 PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
 
-(Adaptation amendments retroactively made - see 28 of 1998 s. 2; 81 of 1999 s. 3; 2 of 2012 s. 3)
+(Adaptation amendments retroactively made - see 2 of 2012 s. 3)
 
 - 1. Direct transit passengers, that is to say passengers arriving at the airport by aircraft from a place outside Hong Kong who—
 
@@ -58,7 +58,7 @@ PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
 
   - (b) are employed exclusively in the private service of consuls or consular staff of a consular post in Hong Kong, who are nationals of the country represented by the consular post and who have been brought to Hong Kong solely for the purposes of such service; or
 
-  - (c) are otherwise entitled to be accorded exemption from the tax by operation of the Consular Relations Ordinance (Cap. 259),
+  - (c) are otherwise entitled to be accorded exemption from the tax by operation of the Consular Relations Ordinance (Cap. 557), (Amended 16 of 2000 s. 14)
 
 - upon production by such persons of evidence of their status in a form satisfactory to the Director.
 
