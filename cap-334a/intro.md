@@ -1,0 +1,5 @@
+GOVERNMENT LOTTERIES RULES
+
+(Cap. 334, section 9)
+
+[31 March 1962]
