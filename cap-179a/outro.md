@@ -140,7 +140,7 @@ Statement as to Arrangements for Children [Headings as in Form 3]
 
 _
 
-FORM 2C | [Rules 9(2) &33(2B)]
+FORM 2C | [Rules 9(2) & 33(2B)]
 
 General Form of Joint Application In the District Court of Hong Kong held at
 
@@ -438,7 +438,7 @@ Dated this day of 19 .
 
 _
 
-FORM 8 | [Rule 68(2)(a) & (3)]
+FORM 8 | [Rules 68(2)(a) & (3) & 84A(3)(c)]
 
 Notice of Application for Ancillary Relief [Heading as in Form 3]
 
@@ -450,11 +450,11 @@ of 19 , at o’clock].
 
 - [Unless the parties are agreed upon the terms of the proposed order, add in the case of an application for an order for maintenance pending suit, periodical payments or a lump sum: TAKE NOTICE ALSO that you must send to the court, so as to reach it within 14 days after you receive this notice, an affidavit giving full particulars of your property and income. You must at the same time send a copy of your affidavit to the [solicitor for] the applicant. If you wish to allege that the petitioner has property or income, you should say so in your affidavit]. Dated this day of 19 . [Solicitor for the] Petitioner/Respondent.
 
-(L.N. 325 of 1982)
+(L.N. 325 of 1982; L.N. 246 of 1995; L.N. 209 of 2003)
 
 _
 
-FORM 8A | [Rule 56B]
+FORM 8A | [Rule 56B & 84A(3)(a)]
 
 Notice of Application under Rule 56B [Heading as in Form 3]
 
@@ -474,11 +474,11 @@ Signed
 
 * Delete if not applicable.
 
-(L.N. 325 of 1982; L.N. 246 of 1995)
+(L.N. 325 of 1982; L.N. 246 of 1995; L.N. 209 of 2003)
 
 _
 
-FORM 8B | [Rules 68A(1), 70, 73, 74 & 77]
+FORM 8B | [Rules 68A(1), 70, 73, 74, 77 & 84A(3)(c)]
 
 Notice of Application for Ancillary Relief [Heading as in Form 2D]
 
@@ -492,7 +492,7 @@ on day, the day of 199 , at o’clock].
 
 - [Unless the parties are agreed upon the terms of the proposed order, add in the case of an application for an order for maintenance pending suit, periodical payments or a lump sum: TAKE NOTICE ALSO that you must send to the court, so as to reach it within 14 days after you receive this notice, an affidavit giving full particulars of your property and income. You must at the same time send a copy of your affidavit to the [solicitor for] the applicant in this application for ancillary relief. If you wish to allege that the applicant has property or income, you should say so in your affidavit]. Dated this day of 19 . [Solicitor for the] Applicant in this application for ancillary relief
 
-(L.N. 172 of 1996)
+(L.N. 172 of 1996; L.N. 209 of 2003)
 
 _
 
@@ -1366,7 +1366,101 @@ ON the day of , 19 .
 
 (L.N. 78 of 1986)
 
-_ ALPHABETICAL INDEX ALPHABETICAL INDEX TO THE MATRIMONIAL
+_
+
+FORM 25 | [Rule 84A(3)(c)]
+
+Notice of Application for Ancillary Relief
+
+In the District Court / High Court*
+
+Case No. Always quote this
+
+Between | Petitioner / 1st Applicant* Solicitor’s ref. | And | Respondent / 2nd Applicant* Solicitor’s ref.
+
+- TAKE NOTICE that— The Petitioner / 1st Applicant / Respondent / 2nd Applicant* intends [to apply to the Court for] [to proceed with the application in the [petition] [answer] [application] for-]
+
+- (a) | an order for maintenance pending suit;
+
+- (b) | a periodical payments order;
+
+- (c) | a secured periodical payments order;
+
+- (d) | a lump sum order;
+
+- (e) | a settlement of property order;
+
+- (f) | a transfer of property order;
+
+- (g) | a variation of settlement order;
+
+- (h) | an avoidance of disposition order
+
+- and on behalf of the children of the family for—
+
+- (a) | an order for maintenance pending suit;
+
+- (b) | a periodical payments order;
+
+- (c) | a secured periodical payments order;
+
+- (d) | a lump sum order;
+
+- (e) | a settlement of property order;
+
+- (f) | a transfer of property order;
+
+- (g) | a variation of settlement order;
+
+- (h) | an avoidance of disposition order
+
+- * delete if not applicable.
+
+- Signed: | Date:
+
+- [Solicitor for the] [Petitioner / 1st Applicant] [Respondent / 2nd Applicant] Address all communications to the Chief Judicial Clerk or if the matter is in the High Court, the Clerk of Court and quote the case number. If you do not quote this number, your correspondence may be returned. Chief Judicial Clerk
+
+- Family Court Registry
+
+- Wanchai Law Courts OR If the matter is in the High Court
+
+- The Clerk of Court
+
+- High Court of Hong Kong
+
+(L.N. 209 of 2003)
+
+_
+
+FORM 26 | [Rule 84A(3)(a)]
+
+Notice of Application under Rule 56B
+
+In the District Court / High Court*
+
+Case No. Always quote this
+
+Between | Petitioner Solicitor’s ref. | And | Respondent Solicitor’s ref.
+
+- TAKE NOTICE that— The Respondent intends to apply to the court under section 17A of the Matrimonial Causes Ordinance (Cap. 179) for the court to consider the financial position of the respondent after the divorce. * The application will be heard on a date to be fixed. * A first appointment date has been fixed by the court on the day of 20 at o’clock. Dated this day of 20 . * delete if not applicable.
+
+- Signed: | Date:
+
+- [Solicitor for the] Respondent Address all communications to the Chief Judicial Clerk or if the matter is in the High Court, the Clerk of Court and quote the case number. If you do not quote this number, your correspondence may be returned. Chief Judicial Clerk
+
+- Family Court Registry
+
+- Wanchai Law Courts OR If the matter is in the High Court
+
+- The Clerk of Court
+
+- High Court of Hong Kong
+
+(L.N. 209 of 2003)
+
+_
+
+ALPHABETICAL INDEX ALPHABETICAL INDEX TO THE MATRIMONIAL
 
 CAUSES RULES
 
@@ -2078,7 +2172,7 @@ as guardian ad litem of mentally disordered person . 105, 106
 
 ORDER (命令):— drawing of . 56
 
-under section 18(1) or (4) Matrimonial Proceedings and Property Ordinance (Cap. 192) . 51
+under section 18(1) or (4) Matrimonial Proceedings and Property Ordinance (Cap. 192). 51
 
 for payment of money, enforcement of . 86
 
