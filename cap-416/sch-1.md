@@ -4,8 +4,6 @@
 
 DUTIES OF THE OFFICIAL SOLICITOR
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 - PART 1
 
   - 1. To act as guardian ad litem or next friend to any person under a disability of age or mental capacity, in proceedings before any court.
@@ -14,11 +12,11 @@ DUTIES OF THE OFFICIAL SOLICITOR
 
 - PART 2
 
-  - 1. To act as Receiver of a patient on appointment under section 12(4) of the High Court Ordinance (Cap. 4).
+  - 1. (Repealed 81 of 1997 s. 59)
 
   - 2. On appointment under the Mental Health Ordinance (Cap. 136)—
 
-    - (a) at section 11, to act as committee of the estate of a mentally disordered person;
+    - (a) at section 11 or 26B, to act as committee of the estate of a mentally incapacitated person; (Replaced 81 of 1997 s. 59)
 
     - (b) at section 14, to act as guardian of an infant relative or next-of-kin;
 

@@ -14,7 +14,7 @@ Item | Offence charged | Other offences of which defendant may be convicted
 
 4. | Homosexual buggery with or by man under 21 (section 118C) | Indecent assault (section 122) Gross indecency with or by man under 21 (section 118H)
 
-5. | Buggery with defective (section 118E) | Gross indecency by man with male defective (section 118I) Indecent assault (section 122)
+5. | Buggery with mentally incapacitated person (section 118E) | Gross indecency by man with male mentally incapacitated person (section 118I) Indecent assault (section 122) (Amended 81 of 1997 s. 59)
 
 6. | Homosexual buggery committed otherwise than in private (section 118F) | Gross indecency by man with man otherwise than in private (section 118J)
 
