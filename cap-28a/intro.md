@@ -1,0 +1,5 @@
+LAND (MISCELLANEOUS PROVISIONS) REGULATIONS
+
+(Cap. 28, section 19)
+
+[1 October 1972]
