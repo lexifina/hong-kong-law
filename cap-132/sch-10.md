@@ -1,4 +1,4 @@
-# Schedule 10
+# SCHEDULE 10
 
 [s. 79]
 
@@ -22,15 +22,11 @@ Centre Street Market | 正街街市
 
 Chai Wan Market | 柴灣街市
 
-Chai Wan Temporary Market | 柴灣臨時街市
-
 Electric Road Market | 電氣道街市
 
 Java Road Market | 渣華道街市
 
 Kut Shing Street Cooked Food Market | 吉勝街熟食市場
-
-Lee Chung Street Cooked Food Market | 利眾街熟食市場
 
 Lockhart Road Market | 駱克道街市
 
@@ -222,4 +218,4 @@ Yan Oi Market | 仁愛街市
 
 Yeung Uk Road Market | 楊屋道街市
 
-(Added 21 of 1973 s. 19. Amended L.N. 179 of 1973; L.N. 181 of 1973; L.N. 258 of 1973; L.N. 206 of 1974; L.N. 198 of 1975; L.N. 213 of 1975; L.N. 132 of 1976; L.N. 103 of 1979; L.N. 141 of 1979; L.N. 179 of 1979; L.N. 241 of 1979; L.N. 301 of 1979; L.N. 31 of 1980; L.N. 49 of 1980; L.N. 60 of 1980; L.N. 117 of 1980; L.N. 138 of 1980; L.N. 183 of 1980; L.N. 206 of 1980; L.N. 155 of 1981; L.N. 167 of 1981; L.N. 186 of 1981; L.N. 205 of 1981; L.N. 338 of 1981; L.N. 346 of 1981; L.N. 63 of 1982; L.N. 93 of 1982; L.N. 94 of 1982; L.N. 125 of 1982; L.N. 212 of 1982; L.N. 280 of 1982; L.N. 382 of 1982; L.N. 389 of 1982; L.N. 398 of 1982; L.N. 399 of 1982; L.N. 45 of 1983; L.N. 62 of 1983; L.N. 91 of 1983; L.N. 151 of 1983; L.N. 169 of 1983; L.N. 347 of 1983; L.N. 48 of 1984; L.N. 61 of 1984; L.N. 111 of 1984; L.N. 159 of 1984; L.N. 287 of 1984; L.N. 351 of 1984; L.N. 396 of 1984; L.N. 421 of 1984; L.N. 30 of 1985; L.N. 54 of 1985; L.N. 149 of 1985; L.N. 204 of 1985; L.N. 275 of 1985; L.N. 355 of 1985; L.N. 10 of 1986; 10 of 1986 s. 30; L.N. 103 of 1986; L.N. 289 of 1986; L.N. 314 of 1986; L.N. 94 of 1987; L.N. 169 of 1987; L.N. 372 of 1987; L.N. 387 of 1987; L.N. 197 of 1988; L.N. 342 of 1988; L.N. 343 of 1988; L.N. 258 of 1989; L.N. 395 of 1989; L.N. 52 of 1990; L.N. 325 of 1990; L.N. 399 of 1990; L.N. 400 of 1990; L.N. 43 of 1991; L.N. 104 of 1991; L.N. 124 of 1991; L.N. 437 of 1991; L.N. 259 of 1992; L.N. 34 of 1993; L.N. 109 of 1993; L.N. 224 of 1993; L.N. 444 of 1994; L.N. 479 of 1994; L.N. 15 of 1995; L.N. 42 of 1995; L.N. 176 of 1995; L.N. 588 of 1995; L.N. 44 of 1996; L.N. 164 of 1996; L.N. 215 of 1996; L.N. 423 of 1996; L.N. 155 of 1997; L.N. 190 of 1998; L.N. 387 of 1998; L.N. 11 of 1999; L.N. 126 of 1999; L.N. 154 of 1999; L.N. 184 of 1999; L.N. 233 of 1999; L.N. 293 of 1999; 78 of 1999 s. 7; L.N. 262 of 2000; L.N. 43 of 2001)
+(Added 21 of 1973 s. 19. Amended L.N. 179 of 1973; L.N. 181 of 1973; L.N. 258 of 1973; L.N. 206 of 1974; L.N. 198 of 1975; L.N. 213 of 1975; L.N. 132 of 1976; L.N. 103 of 1979; L.N. 141 of 1979; L.N. 179 of 1979; L.N. 241 of 1979; L.N. 301 of 1979; L.N. 31 of 1980; L.N. 49 of 1980; L.N. 60 of 1980; L.N. 117 of 1980; L.N. 138 of 1980; L.N. 183 of 1980; L.N. 206 of 1980; L.N. 155 of 1981; L.N. 167 of 1981; L.N. 186 of 1981; L.N. 205 of 1981; L.N. 338 of 1981; L.N. 346 of 1981; L.N. 63 of 1982; L.N. 93 of 1982; L.N. 94 of 1982; L.N. 125 of 1982; L.N. 212 of 1982; L.N. 280 of 1982; L.N. 382 of 1982; L.N. 389 of 1982; L.N. 398 of 1982; L.N. 399 of 1982; L.N. 45 of 1983; L.N. 62 of 1983; L.N. 91 of 1983; L.N. 151 of 1983; L.N. 169 of 1983; L.N. 347 of 1983; L.N. 48 of 1984; L.N. 61 of 1984; L.N. 111 of 1984; L.N. 159 of 1984; L.N. 287 of 1984; L.N. 351 of 1984; L.N. 396 of 1984; L.N. 421 of 1984; L.N. 30 of 1985; L.N. 54 of 1985; L.N. 149 of 1985; L.N. 204 of 1985; L.N. 275 of 1985; L.N. 355 of 1985; L.N. 10 of 1986; 10 of 1986 s. 30; L.N. 103 of 1986; L.N. 289 of 1986; L.N. 314 of 1986; L.N. 94 of 1987; L.N. 169 of 1987; L.N. 372 of 1987; L.N. 387 of 1987; L.N. 197 of 1988; L.N. 342 of 1988; L.N. 343 of 1988; L.N. 258 of 1989; L.N. 395 of 1989; L.N. 52 of 1990; L.N. 325 of 1990; L.N. 399 of 1990; L.N. 400 of 1990; L.N. 43 of 1991; L.N. 104 of 1991; L.N. 124 of 1991; L.N. 437 of 1991; L.N. 259 of 1992; L.N. 34 of 1993; L.N. 109 of 1993; L.N. 224 of 1993; L.N. 444 of 1994; L.N. 479 of 1994; L.N. 15 of 1995; L.N. 42 of 1995; L.N. 176 of 1995; L.N. 588 of 1995; L.N. 44 of 1996; L.N. 164 of 1996; L.N. 215 of 1996; L.N. 423 of 1996; L.N. 155 of 1997; L.N. 190 of 1998; L.N. 387 of 1998; L.N. 11 of 1999; L.N. 126 of 1999; L.N. 154 of 1999; L.N. 184 of 1999; L.N. 233 of 1999; L.N. 293 of 1999; 78 of 1999 s. 7; L.N. 262 of 2000; L.N. 43 of 2001; L.N. 139 of 2001)
