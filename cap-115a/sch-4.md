@@ -4,9 +4,9 @@
 
 - 1. Interpretation In this Schedule, unless the context otherwise requires—
 
-  - “appellant” (上訴人) includes a person who has made an application on behalf of another person under section 2AB(2)(b) or 2AC(2)(b) of the Ordinance;
-
   - “notice of appeal” (上訴通知書) means the form specified by the Director under section 2AD(1) or (2) of the Ordinance for the purpose of lodging an appeal under that section.
+
+- (L.N. 4 of 2000)
 
 - 2. Notice of appeal to Tribunal
 
@@ -62,7 +62,7 @@
 
 - Notice of hearing date
 
-- Unless an appeal is to be heard in the absence of the appellant under paragraph 14, the Tribunal shall cause notice in writing to be given as soon as is practicable to—
+- The Tribunal shall cause notice in writing to be given as soon as is practicable to— (L.N. 4 of 2000)
 
   - (a) the Director; and
 
@@ -84,7 +84,7 @@
 
   - (5)
 
-    - (a) The Tribunal may, on the application of a witness who attends at the hearing of an appeal to give evidence (including professional or expert evidence), allow in respect of him a professional witness allowance, expert witness allowance or loss allowance, as the case may be, not exceeding the professional witness allowance, expert witness allowance or loss allowance that a magistrate may allow under the Criminal Procedure (Witnesses’ Allowances) Rules (Cap. 221 sub. leg.) in respect of a witness who attends to give evidence in criminal proceedings.
+    - (a) The Tribunal may, on the application of a witness who attends at the hearing of an appeal to give evidence (including professional or expert evidence), allow in respect of him a professional witness allowance, expert witness allowance or loss allowance, as the case may be, not exceeding the professional witness allowance, expert witness allowance or loss allowance that a magistrate may allow under the Criminal Procedure (Witnesses’ Allowances) Rules (Cap. 221 sub. leg. B) in respect of a witness who attends to give evidence in criminal proceedings.
 
     - (b) Any sum allowed under sub-subparagraph (a) shall cease to be payable unless claimed by or on behalf of the witness who made the application to the Tribunal in that behalf within 3 months from the date on which it was allowed.
 
@@ -98,17 +98,17 @@
 
   - (1) The Tribunal may hear an appeal in the absence of the appellant—
 
-    - (a) if the appellant is unable to appear in person by reason of section 2AD(3) of the Ordinance;
+    - (a) if the appellant refuses or declines to appear when given the opportunity to do so;
 
-    - (b) if the appellant refuses or declines to appear when given the opportunity to do so; or
+    - (b) if the appellant fails to appear and the Tribunal is satisfied that he will not appear; or
 
-    - (c) if satisfied that—
+    - (c) if the Tribunal is satisfied that—
 
       - (i) by reason of illness or injury the appellant cannot attend the hearing; or
 
       - (ii) if the appellant did attend the hearing he would present a threat to the health or safety of other persons at the hearing,
 
-  - and that it would be proper in all the circumstances to proceed in the absence of the appellant.
+  - and having made due enquiry as is practicable, the Tribunal is satisfied that it would be proper in all the circumstances to proceed in the absence of the appellant. (L.N. 4 of 2000)
 
   - (2) The Tribunal may, if it hears an appeal in the absence of an appellant under subparagraph (1), determine the appeal without an oral hearing on the basis of such written submissions which may have been submitted (if any) to the Tribunal.
 
