@@ -24,10 +24,10 @@ PART 2-BERTHING
 
 PART 3-PASSENGER EMBARKATION
 
-(a) | For each passenger paying an amount exceeding $12 for a single journey . | $ 25
+(a) | For each passenger paying an amount exceeding $12 for a single journey . | $ 18
 
-(b) | For each passenger travelling free of charge on a complimentary ticket . | 25
+(b) | For each passenger travelling free of charge on a complimentary ticket . | 18
 
 (c) | For each passenger not falling within (a) or (b) . | 6
 
-(L.N. 168 of 1988; L.N. 314 of 1989; L.N. 97 of 1990; 40 of 1991 s. 3; L.N. 380 of 1992)
+(L.N. 168 of 1988; L.N. 314 of 1989; L.N. 97 of 1990; 40 of 1991 s. 3; L.N. 380 of 1992; L.N. 148 of 1998)
