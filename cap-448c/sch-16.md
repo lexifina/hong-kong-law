@@ -1,7 +1,5 @@
 # SCHEDULE 16 THE AIR NAVIGATION (DANGEROUS GOODS) REGULATIONS
 
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
 - Article 44
 
   - 1. Citation These Regulations may be cited as the Air Navigation (Dangerous Goods) Regulations.
@@ -14,7 +12,15 @@
 
       - “consignment” means one or more packages of dangerous goods accepted by an operator from one shipper at one time and at one address receipted for in one lot and moving to one consignee at one destination address;
 
-      - “dangerous goods” means any article or substance which is capable of posing significant risk to health, safety or property when carried by air and which is classified in Part 2 or 3 of the Technical Instructions; (L.N. 234 of 2001)
+      - “dangerous goods” means any article or substance which—
+
+        - (a) is capable of posing a risk to health, safety, property or the environment; and
+
+        - (b) is—
+
+          - (i) classified as dangerous goods according to Part 2 of the Technical Instructions; or
+
+          - (ii) shown in the list of dangerous goods in Part 3 of the Technical Instructions; (L.N. 214 of 2003)
 
       - “dangerous goods transport document” means a document, not being an air waybill, which is required by Regulation 4 of these Regulations to accompany a consignment of dangerous goods;
 
@@ -24,7 +30,7 @@
 
       - “States concerned” has the same meaning as it has in Chapter 1.1.2 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001)
 
-      - “Technical Instructions” means the 2001-2002 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001)
+      - “Technical Instructions” means the 2003-2004 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003)
 
       - “unit load device” means any type of freight container including any container designed for loading on an aircraft.
 
@@ -46,7 +52,7 @@
 
       - (c) deliver or cause to be delivered for loading on or suspension beneath (L.N. 179 of 1999)
 
-    - an aircraft any goods which he knows or ought to know or suspect to be goods capable of posing significant risk to health, safety or property when carried by air, unless the provisions of these Regulations are complied with.
+    - an aircraft any goods which he knows or ought to know or suspect to be dangerous goods, unless the provisions of these Regulations are complied with. (L.N. 214 of 2003)
 
     - (3) These Regulations shall not apply to dangerous goods of a type specified in Chapter 1.1.3(a), 1.1.3(b), 1.1.3(d), 1.1.3(e), 1.1.3(f) or 2.2 of Part 1 or Chapter 1.1.2 of Part 8 of the Technical Instructions which are carried, loaded or suspended in accordance with the provisions of such Chapters, and which are— (L.N. 179 of 1999; L.N. 234 of 2001)
 
@@ -56,7 +62,7 @@
 
       - (c) to provide during the flight veterinary aid or a humane killer for an animal; (L.N. 179 of 1999)
 
-      - (d) to provide during the flight medical aid to a person; (L.N. 179 of 1999)
+      - (d) placed on board with the approval of the operator of an aircraft to provide during the flight medical aid to a patient; (L.N. 214 of 2003)
 
       - (e) to provide, during flight, aid in connection with search and rescue operations; (L.N. 179 of 1999; L.N. 234 of 2001)
 
@@ -148,17 +154,27 @@
 
   - by operators
 
-    - (1) The operator of an aircraft in which dangerous goods are to be carried shall, before the flight begins, provide the commander of the aircraft with written information specifying the matters required by the provisions of Chapter 4.1 of Part 7 of the Technical Instructions and shall preserve a copy thereof for not less than six months. (L.N. 234 of 2001)
+    - (1) The operator of an aircraft in which dangerous goods are to be carried shall—
 
-    - (2) The operator of an aircraft in which passengers are to be carried or his agent shall notify them of the categories of dangerous goods which may not be taken on board an aircraft either as checked baggage or accompanying a passenger by the provision of information with each passenger ticket which shall be sufficient in prominence for this purpose and by displaying notices, sufficient in number and prominence for this purpose, at each of the places at an airport where the operator or his agent issues tickets, checks in baggage or maintains areas to assemble passengers to board the aircraft.
+      - (a) as early as practicable before departure of the aircraft, provide the commander of the aircraft with accurate and legible written or printed information in respect of the dangerous goods in accordance with the provisions of Chapters 4.1.1, 4.1.2, 4.1.4, 4.1.7 and 4.1.8 of Part 7 of the Technical Instructions;
+
+      - (b) ensure that the information is readily available to the commander during the flight; and
+
+      - (c) preserve a copy of the information for not less than six months. (L.N. 214 of 2003)
+
+    - (1A) The commander shall indicate on a copy of the information provided to him under paragraph (1)(a), or in some other way, that he has received the information. (L.N. 214 of 2003)
+
+    - (1B) The operator shall ensure that—
+
+      - (a) a legible copy of the information which has an indication on it, or with it, that the commander has received the information is retained on the ground; and
+
+      - (b) the copy, or the information contained in it, is readily accessible to the aerodromes of last departure and next scheduled arrival point until after the flight to which the information refers. (L.N. 214 of 2003)
+
+    - (2) The operator of an aircraft in which passengers are to be carried or his agent shall notify them of the categories of dangerous goods which may not be taken on board an aircraft either as checked baggage or accompanying a passenger by the provision of information with each passenger ticket which shall be sufficient in prominence for this purpose and by displaying notices, sufficient in number and prominence for this purpose, at each of the places at an airport where the operator or his agent issues tickets, checks in passengers or maintains areas to assemble passengers to board the aircraft, and at any other location where passengers are checked in. (L.N. 214 of 2003)
 
     - (3) The operator of an aircraft and his agent shall inform any of their respective employees whose duties include a function connected with the carriage of passengers or cargo by air of the provisions of the Technical Instructions and for this purpose shall establish and undertake training programmes, as required by Chapter 4 of Part 1 of the Technical Instructions, which shall be submitted to the Chief Executive for approval on such occasions as the Chief Executive may require and which shall be amended as the Chief Executive may require. (36 of 1999 s. 3; L.N. 234 of 2001)
 
-  - 9.
-
-  - Production of documents and records
-
-  - The operator of an aircraft shall, within a reasonable time after being requested so to do by an authorized person, cause to be produced to that person such of the following documents as may have been requested by that person—
+  - 9. Production of documents and records The operator of an aircraft shall, within a reasonable time after being requested so to do by an authorized person, cause to be produced to that person such of the following documents as may have been requested by that person—
 
     - (a) the written permission referred to in Regulation 3(1) of these Regulations;
 
@@ -166,7 +182,7 @@
 
     - (c) the completed acceptance check list in a legible form in respect of any dangerous goods, referred to in Regulation 6(2) of these Regulations;
 
-    - (d) a copy of the written information provided to the commander of the aircraft in respect of any dangerous goods, referred to in Regulation 8(1) of these Regulations.
+    - (d) a copy of the written or printed information provided to the commander of the aircraft in respect of any dangerous goods, referred to in Regulation 8(1) of these Regulations. (L.N. 214 of 2003)
 
   - 10. Dropping articles for agricultural, horticultural, forestry
 
