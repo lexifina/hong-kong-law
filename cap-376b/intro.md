@@ -1,0 +1,5 @@
+CLUBS (SAFETY OF PREMISES) (FEES) REGULATIONS
+
+(Cap. 376, section 22)
+
+[1 March 1992]
