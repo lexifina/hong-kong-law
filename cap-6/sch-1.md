@@ -8,15 +8,17 @@ PART I
 
 GENERAL
 
-- 1. Interpretation In this Schedule—
+- 1.
+
+- Interpretation
+
+- In this Schedule—
 
   - “criminal bankruptcy debt” (刑事破產債項) means a debt deemed to be due to any person by virtue of paragraph 3.
 
-- 2. Act of bankruptcy Subject to the provisions of this Schedule, where a criminal bankruptcy order is made against any he shall be treated as a debtor who has committed an act of bankruptcy on the date on which the order is made.
+- 2. (Repealed 76 of 1996 s. 70)
 
-- 3.
-
-- Creditors and criminal bankruptcy debts
+- 3. Creditors and criminal bankruptcy debts
 
 - A person specified in a criminal bankruptcy order as having suffered loss or damage of any amount shall be treated for the purpose of any ensuing proceedings pursuant to—
 
@@ -28,35 +30,29 @@ GENERAL
 
   - APPLICATION OF THE ORDINANCE IN PROCEEDINGS BASED ON A CRIMINAL BANKRUPTCY ORDER
 
-- 4.
+- 4. Criminal bankruptcy petition
 
-- Criminal bankruptcy petition
+- No criminal bankruptcy petition shall be presented by the person who under paragraph 2 is the bankrupt; and, in relation to such a petition presented by a creditor, sections 4, 6 and 6B shall have effect with the following modifications— (Amended 76 of 1996 ss. 70 & 72)
 
-- No criminal bankruptcy petition shall be presented by the person who under paragraph 2 is the debtor; and, in relation to such a petition presented by a creditor, section 6 shall have effect with the following modifications—
+  - (a) sections 6(2)(a) and (b) and 6B shall not apply to a criminal bankruptcy debt; (Replaced 76 of 1996 s. 70)
 
-  - (a) subsections (1)(a) and (b) and (2) (conditions as to nature of debt) shall not apply to a criminal bankruptcy debt; and
+  - (b) section 4(1)(a) shall be omitted. (Replaced 76 of 1996 s. 70)
 
-  - (b) subsection (1)(d) (domicile of debtor) shall be omitted.
+- 5. Receiving order
 
-- 5.
+- For the purposes of section 9(2) and (3) (matters to be proved before bankruptcy order is made) any criminal bankruptcy debt shall be treated as conclusively proved by the production of a copy of the criminal bankruptcy order in question and the following provisions of that section shall not apply in relation to any such debt— (Amended 76 of 1996 ss. 70, 72 & 73)
 
-- Receiving order
-
-- For the purposes of section 9(2) and (3) (matters to be proved before receiving order is made) the act of bankruptcy which a person is treated by this Schedule as having committed and any criminal bankruptcy debt shall be treated as conclusively proved by the production of a copy of the criminal bankruptcy order in question and the following provisions of that section shall not apply in relation to any such debt—
-
-  - (a) so much of subsection (3) which provides that if the court is not satisfied that the assets for division among the unsecured creditors, after payment of all costs, charges and expenses, and the debts which are preferential under that Ordinance, will be sufficient to pay a dividend of 15 per cent, it may dismiss the petition;
+  - (a) (Repealed 76 of 1996 s. 70)
 
   - (b) subsection (5);
 
   - (c) subsection (6).
 
-- 6.
+- 6. Trustee of criminal bankrupt’s property
 
-- Trustee of criminal bankrupt’s property
+- Where a person is adjudged bankrupt in proceedings pursuant to a criminal bankruptcy petition the Official Receiver shall in the bankruptcy be the trustee of the property of the bankrupt. (Amended 76 of 1996 s. 70)
 
-- Where a person is adjudged bankrupt in proceedings pursuant to a criminal bankruptcy petition the Official Receiver shall in the bankruptcy be the trustee of the property of the bankrupt and section 23 shall not apply in relation to any such proceedings.
-
-  - 7. Proof of criminal bankruptcy debt in bankruptcy proceedings
+- 7. Proof of criminal bankruptcy debt in bankruptcy proceedings
 
   - (1) For the purpose of proving a criminal bankruptcy debt in proceedings pursuant to a criminal bankruptcy petition, a copy of the criminal bankruptcy order specifying the amount deemed by virtue of paragraph 3 to be due as a debt shall, subject to paragraph 5, be treated as sufficient evidence of the debt unless it is shown by any party to the proceedings that the amount of the relevant loss or damage is greater or less than the amount specified in the order or that the loss or damage did not in fact result from any offence specified in the order; and if it is shown by any party to the proceedings that the amount of the relevant loss or damage is other than that specified in the order, paragraph 3 shall have effect as if that other amount had been specified in the order, but without prejudice to the validity of the order if the amount of the relevant loss is shown not to exceed $150,000 or such other amount as may be specified in an order made under section 84A(5) of the Criminal Procedure Ordinance (Cap. 221).
 
@@ -90,11 +86,13 @@ GENERAL
 
 - 9. Administration in bankruptcy of deceased offender’s estate
 
-  - (1) Where an order for administration is made under section 112 on a criminal bankruptcy administration petition, so much of subsection (4) of that section as enables the creditors to appoint a trustee of the property of the debtor in place of the Official Receiver shall not apply.
+  - (1) Where an order for administration is made under section 112 on a criminal bankruptcy administration petition, so much of subsection (4) of that section as enables the creditors to appoint a trustee of the property of the bankrupt in place of the Official Receiver shall not apply. (Amended 76 of 1996 s. 72)
 
   - (2) Paragraph 7 shall apply in relation to proof of criminal bankruptcy debts in proceedings pursuant to a criminal bankruptcy administration petition as it applies in relation to proof of such debts in proceedings pursuant to a criminal bankruptcy petition.
 
-- 10. Bankruptcy proceedings otherwise than by virtue of this Schedule Where a criminal bankruptcy order has been made against any person and a bankruptcy petition has been presented in respect of him before the order was made, or is presented in respect of him thereafter otherwise than by virtue of paragraph 2, the court may, on the application of the Official Petitioner, dismiss the petition, rescind any receiving order made in pursuance thereof or, if that person has been adjudged bankrupt, annul the adjudication on such terms, if any, as the court thinks fit.
+- 10. Bankruptcy proceedings otherwise than by virtue of this Schedule
+
+- Where a criminal bankruptcy order has been made against any person and a bankruptcy petition has been presented in respect of him before the order was made, or is presented in respect of him thereafter otherwise than by virtue of paragraph 2, the court may, on the application of the Official Petitioner, dismiss the petition, rescind any receiving order made in pursuance thereof or, if that person has been adjudged bankrupt, annul the adjudication on such terms, if any, as the court thinks fit.
 
 - 11. Effect of appeal against conviction
 
@@ -110,7 +108,7 @@ GENERAL
 
   - (4) Where in consequence of an appeal a criminal bankruptcy order is rescinded—
 
-    - (a) any bankruptcy petition based on the order shall lapse and any receiving order or adjudication of bankruptcy made in consequence thereof shall cease to have effect, but without prejudice to anything previously done thereunder;
+    - (a) any bankruptcy petition based on the order shall lapse and any adjudication of bankruptcy made in consequence thereof shall cease to have effect, but without prejudice to anything previously done thereunder; (Amended 76 of 1996 s. 70)
 
     - (b) where any such adjudication ceases to have effect, the property of the person who was adjudicated bankrupt shall revert to him for all his estate or interest therein; and
 
@@ -124,23 +122,23 @@ GENERAL
 
 - 12. Presentation of criminal bankruptcy petition by Official Petitioner
 
-  - (1) The Official Petitioner may present a criminal bankruptcy petition, and a receiving order may be made on that petition.
+  - (1) The Official Petitioner may present a criminal bankruptcy petition, and a bankruptcy order may be made on that petition. (Amended 76 of 1996 s. 73)
 
-  - (2) Section 6, as modified by paragraph 4 of this Schedule, shall apply to a criminal bankruptcy petition presented by the Official Petitioner as it applies to a petition presented by a creditor, but the court may allow the petition to be presented later than required by subsection (1)(c) of that section.
+  - (2) Sections 4, 6 and 6B, as modified by paragraph 4 of this Schedule, shall apply to a criminal bankruptcy petition presented by the Official Petitioner as it applies to a petition presented by a creditor. (Amended 76 of 1996 s. 70)
 
   - (3) The following provisions—
 
-    - (a) section 9(2) (making of receiving order on creditor’s petition);
+    - (a) section 9(2) (making of bankruptcy order on creditor’s petition); (Amended 76 of 1996 s. 73)
 
     - (b) section 9(3) (dismissal of petition); and
 
-    - (c) section 9(7) (withdrawal of creditor’s petition),
+    - (c) (Repealed 76 of 1996 s. 70)
 
   - shall apply in relation to a criminal bankruptcy petition presented by the Official Petitioner as if any reference to the debt of the petitioning creditor were a reference to any criminal bankruptcy debt within the meaning of this Schedule; and paragraph 5 shall have effect in relation to section 9(2) and (3) as they apply by virtue of this paragraph.
 
-- 13. Presentation of criminal bankruptcy administration petition
+- 13. Presentation of criminal bankruptcy administration
 
-- by Official Petitioner
+- petition by Official Petitioner
 
   - (1) The Official Petitioner may present a petition under section 112 in any case in which a creditor could do so by virtue of this Schedule, and an order may be made under that section on that petition.
 
@@ -156,7 +154,7 @@ GENERAL
 
     - (a) to attend any meeting of creditors and, before the meeting, to receive any notice or other document required to be sent before such a meeting to any creditor;
 
-    - (b) to be a member of any committee of inspection appointed under section 24, but not so as to count towards the number of members mentioned in subsection (2) or (9), or be subject to removal under subsection (7), of that section;
+    - (b) to be a member of any creditors’ committee appointed under section 24; (Amended 76 of 1996 ss. 70 & 74)
 
     - (c) to be a party to any such proceedings before the court.
 
@@ -172,20 +170,16 @@ GENERAL
 
     - (a) section 15 (power to appoint special manager);
 
-    - (b) section 18(2) and (4) (debtor’s statement of affairs);
+    - (b) section 18 (1) and (5) (statement of affairs); (Amended 76 of 1996 s. 70)
 
-    - (c) section 19(4) and (8) (public examination of debtor);
+    - (c) section 19(5), (8) and (10) (public examination of bankrupt); (Amended 76 of 1996 ss. 70 & 72)
 
-    - (d) section 20(5), (6) and (8) (compositions and schemes of arrangement);
+    - (d) sections 20 to 20K (interim orders and voluntary arrangements); (Replaced 76 of 1996 s. 70) (e)-(f) (Repealed 76 of 1996 s. 70)
 
-    - (e) section 30(2) and (8) (discharge of bankrupt);
+    - (g) section 78(1)(e) (report to creditors of bankrupt’s proposal); (Amended 76 of 1996 s. 72)
 
-    - (f) section 42 (relation back of trustee’s title);
+    - (h) section 83 (appeal to court against act or decision of trustee). (Amended 76 of 1996 s. 70; 80 of 1997 s. 102)
 
-    - (g) section 78(1)(e) (report to creditors of debtor’s proposal);
-
-    - (h) section 83 (appeal to court against act or decision of trustee).
-
-- (Schedule added 21 of 1979 s. 3. Amended 39 of 1992 s.6)
+- (Schedule added 21 of 1979 s. 3. Amended 39 of 1992 s. 6)
 
 - [cf. 1973 c. 62 Schedule 2 U.K.]
