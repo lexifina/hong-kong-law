@@ -36,7 +36,7 @@ Androgenic, oestrogenic and progestational substances, the following— Benzoest
 
 Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters
 
-Steroid compounds with androgenic or oestrogenic or progestational activity; their esters | preparations intended to be taken orally for contraceptive purposes only which contain not more than 50 microgrammes of oestrogenic substance and not more than 5 milligrammes of progestational substance; multivitamin preparations with or without minerals containing not more than 0.01 mg. ethinyloestradiol or not more than 2.5 mg. Methyltestosterone or both in each dosage form (L.N. 369 of 1980)
+Steroid compounds with androgenic or oestrogenic or progestational activity; their esters | preparations intended to be taken orally for contraceptive purposes only which contain not more than the following per dose— 0.15 milligrammes Desogestrel; 3.00 milligrammes Drospirenone; 0.05 milligrammes Ethinyloestradiol; 0.10 milligrammes Gestodene; 0.25 milligrammes Levonorgestrel; 2.50 milligrammes Lynoestrenol; 0.05 milligrammes Mestranol; 1.00 milligrammes Norethisterone; 0.25 milligrammes Norgestimate; and 0.50 milligrammes Norgestrel, multivitamin preparations with or without minerals containing not more than 0.01 mg. ethinyloestradiol or not more than 2.5 mg. Methyltestosterone or both in each dosage form (L.N. 369 of 1980; L.N. 112 of 2002)
 
 Antihistamine substances; their salts; any compound with any substance falling within this item | Preparations intended for external application only and preparations containing not more than 1% of anti-histamine substances for application in the nose or eye
 

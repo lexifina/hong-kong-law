@@ -358,6 +358,8 @@ Carteolol; its salts
 
 Carvedilol; its salts
 
+Caspofungin; its salts
+
 Celecoxib; its salts
 
 Celiprolol; its salts
@@ -549,6 +551,8 @@ Dapsone
 Deanol acetamidobenzoate
 
 Debrisoquine; its salts
+
+Deferiprone; its salts
 
 Dehydroemetine; its salts
 
@@ -795,6 +799,8 @@ Gallamine; its salts; its quaternary compounds
 Gallopamil; its salts
 
 Ganciclovir; its salts
+
+Ganirelix; its salts
 
 Gatifloxacin; its salts; its esters
 
@@ -1816,7 +1822,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002)
 
 B
 
