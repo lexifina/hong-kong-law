@@ -56,7 +56,7 @@ Common law offences
 
 - section 137 section 139 | living on earnings of prostitution keeping a vice establishment
 
-- 12. | Theft Ordinance (Cap. 210) section 9 section 10 section 11(1) section 17 section 18 section 18D section 19 section 23(1) and (4) section 24(1) | theft robbery burglary obtaining property by deception obtaining a pecuniary advantage by deception procuring false entry in certain records false accounting blackmail handling stolen goods
+- 12. | Theft Ordinance (Cap. 210) section 9 section 10 section 11(1) section 16A section 17 section 18 section 18D section 19 section 23(1) and (4) section 24(1) | theft robbery burglary fraud (Added 45 of 1999 s. 6) obtaining property by deception obtaining a pecuniary advantage by deception procuring false entry in certain records false accounting blackmail handling stolen goods
 
 - 13. | Offences against the Person Ordinance (Cap. 212) section 17 | shooting or attempting to shoot, or wounding or striking with intent to do grievous bodily harm
 
