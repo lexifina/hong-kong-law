@@ -1,0 +1,5 @@
+SWIMMING POOLS (URBAN COUNCIL) BYLAWS
+
+(Cap. 132, section 42)
+
+[3 March 1961]
