@@ -1,0 +1,5 @@
+ELECTRICAL PRODUCTS (SAFETY) REGULATION
+
+(Cap. 406, section 59)
+
+[24 October 1997] L.N. 491 of 1997
