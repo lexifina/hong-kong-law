@@ -4,8 +4,6 @@
 
 FORMS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2; 29 of 1998 s. 9)
-
 FORM 1 | [rule 4(1)]
 
 INTERLOCUTORY APPLICATION (Heading)
@@ -192,9 +190,7 @@ or
 
 *The Director of Lands
 
-- require(s) the Lands Tribunal to determine the amount of compensation to be paid in respect of damage caused by reason of— +entry upon . (describe the land) .
-
-- and/or works performed thereon, under section 7(1) of the Ordinance. A claim for compensation (copy attached) was made pursuant to section 7(2) of the Ordinance but no agreement has been reached by way of settlement or compromise. Dated this . day of . 19 .
+- require(s) the Lands Tribunal to determine the amount of compensation to be paid in respect of damage caused by reason of— +entry upon . (describe the land) . and/or works performed thereon, under section 7(1) of the Ordinance. A claim for compensation (copy attached) was made pursuant to section 7(2) of the Ordinance but no agreement has been reached by way of settlement or compromise. Dated this . day of . 19 .
 
 - .
 
@@ -304,7 +300,9 @@ I/We . of .
 
 - as former owner(s)/occupier(s) of—
 
-  - (a) the resumed land being . . ; (describe the resumed land)
+  - (a) the resumed land being .
+
+  - . ; (describe the resumed land)
 
 - and
 
@@ -390,21 +388,37 @@ I/We . of .
 
 - in the undermentioned contiguous or adjacent land and—
 
-  - (a) being the former owner(s)/occupier(s) of . . (describe the resumed land) *OR
+  - (a) being the former owner(s)/occupier(s) of .
 
-  - (a) being aggrieved by the closing of the road or extinguishment, modification or restriction of the private right, namely— . . (describe the road or private right)
+  - . (describe the resumed land) *OR
 
-  - (b) the contiguous or adjacent land being . .
-
-- (describe the contiguous or adjacent land) apply to the Lands Tribunal to review the decision of the Chief Executive made under section 23(1) of the Ordinance that the resumed land/road/right is not reasonably necessary to the use and enjoyment of the contiguous or adjacent land. A copy of the application made to the Chief Executive pursuant to section 23(1) of the Ordinance is attached. Dated this . day of . 19 .
+  - (a) being aggrieved by the closing of the road or extinguishment, modification or restriction of the private right, namely—
 
 - .
 
-- (to be signed by or on behalf of the Applicant)
+- .
 
-- To: 1 The Registrar, Lands Tribunal.
+- (describe the road or private right)
 
-  - 2. Secretary for Transport. Address for service of the applicant: *Delete whichever does not apply.
+  - (b)
+
+  - the contiguous or adjacent land being .
+
+  - .
+
+  - (describe the contiguous or adjacent land)
+
+  - apply to the Lands Tribunal to review the decision of the Chief Executive made under section 23(1) of the Ordinance that the resumed land/road/right is not reasonably necessary to the use and enjoyment of the contiguous or adjacent land.
+
+  - A copy of the application made to the Chief Executive pursuant to section 23(1) of the Ordinance is attached. Dated this . day of . 19 .
+
+  - .
+
+  - (to be signed by or on behalf of the Applicant)
+
+  - To: 1 The Registrar, Lands Tribunal.
+
+    - 2. Secretary for Transport. Address for service of the applicant: *Delete whichever does not apply.
 
 (L.N. 417 of 1995; 25 of 1998 s. 2)
 
@@ -1184,7 +1198,7 @@ Pursuant to Tenth Schedule, paragraph .
 
 - . (specify the particular issue under the appropriate paragraph
 
-- .of the Tenth Schedule pursuant to which application brought)
+- . of the Tenth Schedule pursuant to which application brought)
 
 - +2. | The question of law, interpretation and enforcement or other issue to be determined is:
 
@@ -1277,3 +1291,187 @@ To: The Registrar, Lands Tribunal.
   - AND To: The Respondent/Applicant.
 
 (L.N. 417 of 1995)
+
+-
+
+FORM 32 | [rule 78B]
+
+Application No. .
+
+NOTICE OF APPLICATION TO LANDS TRIBUNAL FOR AN ORDER FOR SALE UNDER LAND (COMPULSORY SALE FOR REDEVELOPMENT) ORDINANCE
+
+Pursuant to section 3(1)
+
+Name and address of the applicant (the majority owner) and the number (shown in brackets) of undivided shares held by the applicant in the lot mentioned below:
+
+Name and address of the respondent (the minority owner) and the number (shown in brackets) of undivided shares held by the respondent in the lot mentioned below:
+
+Description and number of all the undivided shares of the lot sought to be sold:
+
+The applicant hereby applies for an order to sell all the undivided shares in the lot for the purposes of the redevelopment of the lot on the grounds that:
+
+(a) The applicant is the person or persons who owns or own, otherwise than as a mortgagee, not less than 90% of the undivided shares in the lot (or not less than % being the percentage specified by the Chief Executive in Council on (date) (L.N. ). The exact percentage of the undivided shares owned by the applicant is .
+
+(b) A valuation report as specified in Part 1 of Schedule 1 to the Ordinance setting out the assessed market value of each property on the lot has been prepared and is attached hereto.
+
+(c) In the event that the above-mentioned application is granted, the applicant hereby applies for a further order that the following amounts of compensation be paid by the applicant/respondent to their respective tenants specified below for the termination of their tenancies upon successful sale of the lot.
+
+Applicant/ Respondent No. & Name | Tenant Payee | Maximum Amount of Compensation | Duration of Tenancy | Existing Rent per month | Remarks (e.g. why no figure given or what affects the compensation)
+
+Other grounds and particulars:
+
+Dated this . day of . 19 .
+
+.
+
+(Applicant)
+
+Address for service of the Applicant:
+
+To: 1. The Registrar, Lands Tribunal.
+
+2. The Respondent.
+
+3. (Please add such other persons as may be required to be served)
+
+Note: If you intend to oppose this application, you must personally attend at the Lands Tribunal Registry within 21 days of service of this notice and file a notice of opposition by means of Form 33.
+
+(L.N. 100 of 1999)
+
+-
+
+FORM 33 | [rule 78C]
+
+Application No. .
+
+NOTICE OF OPPOSITION TO APPLICATION FOR AN ORDER FOR SALE UNDER LAND (COMPULSORY SALE FOR REDEVELOPMENT) ORDINANCE
+
+Pursuant to section 4(2)
+
+Name and address of applicant (the majority owner):
+
+Name, address and status of respondent (the minority owner):
+
+Address and description of premises:
+
+1. Application for an order to sell all the undivided shares in the lot for the purposes of the redevelopment of the lot is opposed on the following grounds:
+
+(a) The value of some or all units of property as assessed in the application is disputed for the following reasons:
+
+(b) Other reasons (if any):
+
+2. The proposed amount of compensation to be paid by the said respondent (minority owner) to his own tenants is opposed for the following reasons:
+
+3. I/We do/do not wish to be heard.
+
+Dated this . day of . 19 .
+
+.
+
+(Name and No. of the Respondent)
+
+Address for service of the Respondent:
+
+To: 1. The Registrar, Lands Tribunal.
+
+2. The Applicant (majority owner).
+
+3. (Please add such other persons as may be required to be served)
+
+(L.N. 100 of 1999)
+
+-
+
+FORM 34 | [rule 78E]
+
+Application No. .
+
+(related to Main Application No. .)
+
+NOTICE OF APPLICATION FOR DETERMINATION OF COMPENSATION UNDER LAND (COMPULSORY SALE FOR REDEVELOPMENT) ORDINANCE
+
+Pursuant to sections 4(6) and 8(3) and (4)
+
+(a) Name, address and status of applicant (tenant/principal tenant/sub-tenant):
+
+(b) Name, address and status of respondent (majority/minority owner):
+
+(c) Address and user of premises:
+
+(d) Duration of tenancy:
+
+(e) Rent:
+
+(f) The main application no. under which an order to sell all the undivided shares of the lot inclusive of the premises herein being sought by the majority owner is: .
+
+(g) The proposed maximum amount of compensation payable to the applicant herein as set out in the said main application is: .
+
+The applicant hereby applies for a determination of the amount of compensation to be paid in the event of termination of the tenancy herein under section 8(1)(b) following the making of an order for sale by the Tribunal pursuant to section 4(6) of the Ordinance. The amount of compensation claimed by the applicant herein is . , and the grounds and facts relied upon by the applicant are:
+
+Dated this . day of . 19 .
+
+.
+
+(Applicant Tenant)
+
+Address for service of the Applicant:
+
+To: 1. The Registrar, Lands Tribunal.
+
+2. The Respondent.
+
+3. The Applicant (majority owner) in the main application.
+
+4. (Please add such other persons as may be required to be served)
+
+Note: (a) If you wish to oppose this application, you must personally attend at the Lands Tribunal Registry within 21 days of service of this notice, and file a notice of opposition by means of Form 35.
+
+(b) Neither the applicant nor the respondent needs to take active steps to set a date for the determination of the compensation. Parties herein will receive a notice of hearing of the main application and that they may attend the Tribunal if they so wish. If an order for sale is made by the Tribunal, either party may apply to the Tribunal to review the amount of compensation determined within one month of the making of the order, if either party is not satisfied with the amount of compensation determined, pursuant to section 11A of the Lands Tribunal Ordinance (Cap. 17).
+
+(L.N. 100 of 1999)
+
+-
+
+FORM 35 | [rule 78F]
+
+Application No. .
+
+(related to Main Application No. .)
+
+NOTICE OF OPPOSITION TO APPLICATION FOR DETERMINATION OF COMPENSATION UNDER LAND (COMPULSORY SALE FOR REDEVELOPMENT) ORDINANCE
+
+Pursuant to sections 4(6) and 8(3)
+
+(a) Name, address and status of applicant (tenant/principal tenant/sub-tenant):
+
+(b) Name, address and status of respondent (majority/minority owner):
+
+(c) Address and description of premises:
+
+I am/We are a party to the Main Application No. . My/Our/applicant’s/respondent’s no. is .
+
+2. I/We oppose to the amount of compensation claimed by the applicant tenant/principal tenant/sub-tenant to the following extent:
+
+(a) No compensation should be payable to the applicant for the following reasons (please state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet):
+
+(b) The amount of compensation payable to the applicant should be . for the following reasons (state the facts relied upon in sufficient detail to enable the applicant to know the case he has to meet):
+
+3. I/We do/do not wish to be heard.
+
+Dated this . day of . 19 .
+
+.
+
+(Name of the Respondent Owner)
+
+Address for service of the Respondent:
+
+To: 1. The Registrar, Lands Tribunal.
+
+2. The Applicant tenant/Principal tenant/Sub-tenant.
+
+3. The Applicant (majority owner) in the main application.
+
+4. (Please add such other persons as may be required to be served)
+
+(L.N. 100 of 1999)
