@@ -1,8 +1,16 @@
 # SCHEDULE
 
-[s. 13]
+[section 13]
 
 STATUTES OF THE UNIVERSITY OF HONG KONG
+
+- (1. The Statutes of the University of Hong Kong (Amendment)(No. 2) Statutes 2003 (L.N. 186 of 2003) shall come into operation on 8 July 2003 to the extent that is necessary to enable the elections of—
+
+  - (a) members of the Council referred to in the provisions marked with an asterisk in Statutes XVIII; and
+
+  - (b) members of the Senate referred to in the provisions marked with an asterisk in Statutes XXII.
+
+- 2. Except as set out in Remarks 1 above, L.N. 186 of 2003 shall come into operation on 1 November 2003.)
 
 ARRANGEMENT OF STATUTES
 
@@ -518,11 +526,11 @@ ARRANGEMENT OF STATUTES
 
 - STATUTE VII THE PRO-VICE-CHANCELLORS
 
-  - 1. The Pro-Vice-Chancellors shall be appointed by the Council from among the members of the Senate not being student members. (L.N. 58 of 1976; L.N. 115 of 1991)
+  - 1. The Pro-Vice-Chancellors shall be appointed by the Council on such terms and conditions as the Council shall prescribe. (L.N. 58 of 1976; L.N. 115 of 1991; L.N. 186 of 2003)
 
   - 2. Subject to the Ordinance and Statutes and unless the Council shall otherwise prescribe, the Pro-Vice-Chancellor who is in Hong Kong and has presently served the longest continuous period in that office shall, in the event of vacancies in the offices of both Vice-Chancellor and Deputy Vice-Chancellor, or of the absence or inability to act as such of both the Vice-Chancellor and the Deputy Vice-Chancellor, act as Vice-Chancellor. (L.N. 167 of 1992)
 
-  - 3. A Pro-Vice-Chancellor shall hold office for such period as the Council shall determine. (L.N. 32 of 1981)
+  - 3. A Pro-Vice-Chancellor shall hold office for such period as the Council shall determine, and shall undertake such duties as may be assigned by the Vice-Chancellor. (L.N. 32 of 1981; L.N. 186 of 2003)
 
   - 4. The Pro-Vice-Chancellors may resign by written notice addressed to the Council. (L.N. 159 of 1970)
 
@@ -534,29 +542,31 @@ ARRANGEMENT OF STATUTES
 
 - STATUTE IX THE DEANS AND ASSOCIATE DEANS OF THE FACULTIES (L.N. 83 of 1992)
 
-  - 1. Subject to the approval of the Council, on the recommendation of the relevant Board of Faculty and endorsed by the Senate, the Dean of each Faculty shall either be—
+  - 1. The Dean of each Faculty shall be appointed by the Council in accordance with regulations—
 
-    - (a) elected, for a period of 3 years, by the members of the relevant Board of the Faculty, from among the teachers in the Faculty; or
+    - (a) on the recommendation of the Vice-Chancellor;
 
-    - (b) appointed by the Council, for such period as the Council shall determine.
+    - (b) on such terms and conditions as may be determined by the Council; and
 
-  - A Dean shall be eligible for re-election or re-appointment. (L.N. 327 of 1998)
+    - (c) for a period of 5 years or such other period as may be determined by the Council. (L.N. 186 of 2003)
 
-  - 2. Whenever the office of Dean becomes vacant a new Dean shall forthwith be elected or appointed.
+  - 1A. A Dean shall be eligible for re-appointment. (L.N. 186 of 2003)
+
+  - 2. Whenever the office of Dean becomes vacant a new Dean shall forthwith be appointed. (L.N. 186 of 2003)
 
   - 3. The Dean shall be a member of all committees of the Board of the Faculty and shall present candidates for degrees (except honorary degrees) in the subjects of the Faculty. (L.N. 299 of 1998)
 
-  - 4. An elected Dean of a Faculty may resign by written notice addressed to the Board of the Faculty. An appointed Dean may resign by written notice addressed to the Council. (L.N. 299 of 1998)
+  - 4. A Dean may resign by written notice addressed to the Council. (L.N. 299 of 1998; L.N. 186 of 2003)
 
     - 5.
 
-      - (a) Associate Deans of each Faculty shall be appointed by the Vice-Chancellor after nomination by, and consultation with, the Dean of the Faculty. (L.N. 299 of 1998)
+      - (a) Associate Deans of each Faculty shall be appointed by the Dean of the Faculty. (L.N. 299 of 1998)
 
-      - (b) The period of office of an Associate Dean shall expire on the same day as the period of office of the Dean of the Faculty to which the Associate Dean is appointed. (L.N. 83 of 1992)
+      - (b) The period of office of an Associate Dean of a Faculty shall be determined by the Dean of the Faculty and shall not exceed or be extended beyond the period of office of the Dean. (L.N. 83 of 1992; L.N. 186 of 2003)
 
   - 6. An Associate Dean of a Faculty shall discharge such duties as may be determined by the Dean of the Faculty. (L.N. 83 of 1992)
 
-  - 7. An Associate Dean of a Faculty may resign by written notice addressed to the Vice-Chancellor. (L.N. 83 of 1992) (L.N. 58 of 1976; L.N. 44 of 1985)
+  - 7. An Associate Dean of a Faculty may resign by written notice addressed to the Dean of the Faculty. (L.N. 83 of 1992; L.N. 186 of 2003) (L.N. 58 of 1976; L.N. 44 of 1985)
 
 - STATUTE IXA THE DEAN OF STUDENT AFFAIRS
 
@@ -648,7 +658,7 @@ ARRANGEMENT OF STATUTES
 
     - (b) life members;
 
-    - (c) the following members ex officio: the members of the Council, the members of the Senate, the Registrar, the Deputy Chairman and Clerk of Convocation; (L.N. 15 of 1973)
+    - (c) the following members ex officio: the members of the Council, the members of the Senate, the Registrar, the Chairman, Deputy Chairman and Clerk of Convocation; (L.N. 15 of 1973; L.N. 186 of 2003)
 
     - (d) the following elected members:
 
@@ -700,7 +710,9 @@ ARRANGEMENT OF STATUTES
 
   - (a) to recommend to the Chancellor additions to, or the amendment or repeal of any of the statutes on the proposal of the Council;
 
-  - (b) to consider the annual budget estimates and to make representations thereon to the Council;
+  - (b) (Repealed L.N. 186 of 2003)
+
+  - (ba) to elect, in accordance with regulations, its members to be members of the Council and to, on the recommendation of the Council, give the approval referred to in paragraph 2 of Statute XVIII; (L.N. 186 of 2003)
 
   - (c) to consider the annual accounts together with any comments that may have been made by the auditors;
 
@@ -712,65 +724,57 @@ ARRANGEMENT OF STATUTES
 
 - STATUTE XVIII THE COUNCIL
 
-  - 1. The Council shall consist of— (L.N. 137 of 1967)
+  - 1. The Council shall consist of—
 
-    - (a) the Chairman, who shall be appointed by the Chancellor;
+    - (a) 7 persons, not being students or employees of the University, appointed by the Chancellor, one of whom shall be appointed the Chairman by the Chancellor;
 
-    - (b) the Vice-Chancellor;
+    - (b) 6 persons, not being students or employees of the University, appointed by the Council;
 
-    - (ba) the Deputy Vice-Chancellor; (L.N. 167 of 1992)
+    - *(c) 2 persons, not being students or employees of the University, elected by the Court under sub-subparagraph (ba) of Statute XVII;
 
-    - (c) the Pro-Vice-Chancellors; (L.N. 159 of 1970)
+    - (d) the Vice-Chancellor;
 
-    - (d) the Treasurer;
+    - (e) the Treasurer;
 
-    - (e) the Chairman of Convocation;
+    - *(f) 4 full-time teachers elected in accordance with regulations;
 
-    - (ea) the President of the Hong Kong University Alumni Association; (L.N. 117 of 1992)
+    - *(g) 1 full-time employee of the University, not being a teacher, elected in accordance with regulations;
 
-    - (f) the Dean of each Faculty;
+    - *(h) 1 full-time undergraduate student elected in accordance with regulations; and
 
-    - (fa) the Dean of Student Affairs; (L.N. 144 of 1970; L.N. 165 of 1999)
-
-    - (g) 10 persons appointed by the Chancellor; (L.N. 490 of 1997)
-
-    - (h) 6 persons elected by the Court not being officers or teachers; (L.N. 144 of 1970; L.N. 117 of 1992)
-
-    - (ha) 10 persons appointed by the Council not being officers or teachers; (L.N. 58 of 1976; L.N. 490 of 1997)
-
-    - (hb) (Repealed L.N. 24 of 1984)
-
-    - (i) 2 members of the Senate elected by the Senate; (L.N. 212 of 1978; L.N. 24 of 1984; L.N. 83 of 1992; L.N. 123 of 1994)
-
-    - (j) the President of the Students’ Union; (L.N. 83 of 1992)
-
-    - (ja) the Chairman of the Postgraduate Students Association of the University of Hong Kong; (L.N. 299 of 1998)
-
-    - (k) 1 full-time undergraduate student, registered as such at the time of election, who shall be elected by the undergraduate students similarly so registered; (L.N. 83 of 1992)
-
-    - (l) 1 postgraduate student, registered as such at the time of election, who shall be elected by the postgraduate students similarly so registered. (L.N. 83 of 1992)
+    - *(i) 1 full-time postgraduate student elected in accordance with regulations. (L.N. 186 of 2003)
 
   - 1A. The Registrar shall be the secretary to the Council but shall not be a member thereof. (L.N. 58 of 1976; L.N. 167 of 1992)
 
-  - 2. The Chairman, the 10 members appointed by the Chancellor, and the 10 members appointed by the Council shall be appointed for a period of 3 years, shall be eligible for re-appointment, and may resign by written notice addressed to the Registrar. (L.N. 137 of 1967; L.N. 144 of 1970; L.N. 58 of 1976; L.N. 44 of 1985; L.N. 167 of 1992; L.N. 490 of 1997)
+  - 2. A member referred to in paragraph 1(a), (b), (c), (e), (f) or (g)—
+
+    - (a) shall serve for a term of 3 years;
+
+    - (b) shall be eligible for re-appointment or re-election but no member may serve more than 3 consecutive terms without approval of the Court; and
+
+    - (c) may resign by written notice addressed to the Registrar. (L.N. 186 of 2003)
 
   - 2A. (Repealed L.N. 44 of 1985)
 
-  - 3. The 6 members selected by the Court and the member elected by the Senate shall be elected for a period of 3 years, shall be eligible for re-election, and may resign by written notice addressed to the Registrar. (L.N. 144 of 1970; L.N. 58 of 1976; L.N. 212 of 1978; L.N. 44 of 1985; L.N. 117 of 1992; L.N. 167 of 1992)
+  - 3. A member referred to in paragraph 1(h) or (i)—
 
-  - 4.
+    - (a) shall serve for a term as determined by the Council from time to time;
 
-    - (1) The 2 elected student members shall be elected for a period of 1 year, shall be eligible for re-election, and may resign by written notice addressed to the Registrar. They shall not be deemed to have resigned their membership solely by reason of graduation.
+    - (b) shall be eligible for re-election;
 
-    - (2) Student members shall not be entitled to participate in any way in the consideration of reserved areas of business. Reserved areas of business are matters affecting the appointment, promotion and personal affairs of individual officers, teachers and other members of staff of the University and the admission and academic assessment of individual students. Papers for consideration at meetings of the Council and minutes and other records relating to such matters shall not at any time be available to a student member. The Chairman shall decide in any case of doubt whether a matter is one to which this subparagraph applies and his decision shall be final. (L.N. 83 of 1992)
+    - (c) may resign by written notice addressed to the Registrar; and
 
-  - 5. 7 members of the Council shall form a quorum.
+    - (d) shall cease to be a member when he ceases to be a full-time student of the University. (L.N. 186 of 2003)
+
+  - 4. (Repealed L.N. 186 of 2003)
+
+  - 5. Not less than one third of the members of the Council shall constitute a quorum at any meeting of the Council. (L.N. 186 of 2003)
 
   - 6. The powers of the Council may be exercised notwithstanding any vacancy in its number, but if at any time and as long as the number of members of the Council is less than 10 the Council shall discontinue the exercise of its powers.
 
   - 7. The Chairman may require any officer or teacher to be present at a meeting of the Council. (L.N. 137 of 1967)
 
-  - 8. If any appointed or elected member leaves Hong Kong and either remains absent for 2 months or more or gives notice of his intended absence for 2 months or more the appointing or electing person or body may appoint or elect, as the case may require, another person to act as member in his place during the absence. The acting member shall vacate his office either on the return of the absent member to Hong Kong or on the expiry of the absent member’s term of office whichever first happens. (L.N. 32 of 1987)
+  - 8. (Repealed L.N. 186 of 2003)
 
 - STATUTE XIX POWERS OF THE COUNCIL
 
@@ -808,11 +812,11 @@ ARRANGEMENT OF STATUTES
 
     - (k) to co-operate with other Universities and authorities for the regulation and conduct of examinations, for the examination and inspection of schools and other academic institutions, for the extension of University teaching, and for other purposes;
 
-    - (l) to entertain and adjudicate upon complaints from, and to redress grievances of, members of the University and persons employed therein:
+    - (l) to appoint any person or committee to entertain and adjudicate upon, on its behalf, complaints from, and to redress grievances of, members of the University and persons employed therein: (L.N. 186 of 2003)
 
       - Provided that the Council shall not entertain or adjudicate upon any complaint which falls within the jurisdiction of the Disciplinary Committee; (L.N. 19 of 1971)
 
-    - (la) to allow or dismiss an appeal from the Disciplinary Committee and to vary any penalty imposed by the Disciplinary Committee; (L.N. 19 of 1971)
+    - (la) to allow or dismiss an appeal from the Disciplinary Committee and to vary any penalty imposed by the Disciplinary Committee, or to appoint any person or committee to discharge those duties; (L.N. 19 of 1971; L.N. 186 of 2003)
 
     - (m) to propose to the Court additions to, or the amendment or repeal of any of the statutes;
 
@@ -842,7 +846,7 @@ ARRANGEMENT OF STATUTES
 
       - (d) fees;
 
-      - (e) the conduct of elections to such offices or memberships as the Ordinance or the statutes prescribe shall be filled by election;
+      - (e) the conduct of elections and the mode of appointments prescribed by the Ordinance and the statutes; (L.N. 186 of 2003)
 
       - (f) the prescribing of anything which is by the Ordinance or the statutes to be prescribed by regulations made by the Council; and
 
@@ -860,7 +864,7 @@ ARRANGEMENT OF STATUTES
 
     - (c) a graduate, appointed by the Court, on whom an honorary degree has been conferred;
 
-    - (d) 2 members of the Council, appointed by the Council, who are members of the Council under paragraph 1(g), (h) or (ha) of Statute XVIII, and of whom at least 1 is a graduate;
+    - (d) 2 members of the Council, appointed by the Council, who are members of the Council under paragraph 1(a), (b), (c) or (e) of Statute XVIII, and of whom at least 1 is a graduate; (L.N. 186 of 2003)
 
     - (e) 3 Deans of Faculties, elected by the Senate; and
 
@@ -900,79 +904,43 @@ ARRANGEMENT OF STATUTES
 
   - 7. But nothing in this statute shall deprive the Council of power to invest surpluses or prospective surpluses at any time.
 
-  - 8. The current estimates, together with the latest audited account, shall be submitted to the Court at its annual meeting, in order that the observations of the Court may be transmitted to the Council.
+  - 8. The audited account shall be submitted to the Court at its annual meeting. (L.N. 186 of 2003)
 
 - STATUTE XXII THE SENATE
 
-  - 1. The Senate shall consist of— (L.N. 144 of 1970)
+  - 1. The Senate shall consist of—
 
-    - (a) the Vice-Chancellor, who shall be chairman;
+    - (a) the Vice-Chancellor, who shall be the chairman;
 
-    - (aa) the Deputy Vice-Chancellor; (L.N. 167 of 1992)
+    - (b) the Deputy Vice-Chancellor;
 
-    - (b) the Dean of each Faculty;
+    - (c) the Pro-Vice-Chancellors;
 
-    - (ba) the Associate Dean of each Faculty; (L.N. 83 of 1992)
+    - (d) the Dean of each Faculty;
 
-    - (bb) (Repealed L.N. 72 of 1993)
+    - (e) the Chairman of each Board of the Faculty;
 
-    - (c) the Professors;
+    - *(f) 12 Professors elected in accordance with regulations;
 
-    - (d) the Heads of Teaching Departments;
+    - *(g) 6 teachers, not being Professors, elected in accordance with regulations;
 
-    - (e) the Director of the school of Professional and Continuing Education; (L.N. 72 of 1993)
+    - (h) the Director of the School of Professional and Continuing Education of the University;
 
-    - (f) the Director, Centre of Asian Studies;
-
-    - (g) (Repealed L.N. 114 of 1989)
-
-    - (ga) the Director, Computer Centre; (L.N. 83 of 1992)
-
-    - (h) the Director, Language Centre;
-
-    - (i) (Repealed L.N. 81 of 2001)
-
-    - (ia) the Director of the Medical Education Unit; (L.N. 72 of 1993; L.N. 81 of 2001)
-
-    - (ib) the Director, Centre of Urban Planning and Environmental Management; (L.N. 83 of 1992)
-
-    - (ic) the Dean of the Graduate School; (L.N. 165 of 1999)
+    - (i) the Dean of the Graduate School;
 
     - (j) the Librarian;
 
-    - (k) the Dean of Student Affairs; (L.N. 165 of 1999)
+    - (k) the Dean of Student Affairs; and
 
-    - (l) 2 teachers from each Faculty being members of the Board of that Faculty and not being Professors or the Heads of Teaching Departments, who shall be elected by the non-professorial members of the Board;
+    - *(l) 3 full-time students, at least one of whom shall be an undergraduate and one of whom shall be a postgraduate, elected in accordance with regulations. (L.N. 186 of 2003)
 
-    - (la) (Repealed L.N. 72 of 1993)
+  - 2. The Senate has power to co-opt other members of the University to serve as members of the Senate for such periods as the Senate may determine, provided that at any one time the total number of serving members of the Senate does not exceed 50. (L.N. 186 of 2003)
 
-    - (m) 1 warden elected by the wardens;
-
-    - (n) the President of the Students’ Union;
-
-    - (na) the Internal Vice-President of the Students’ Union; (L.N. 24 of 1984; L.N. 72 of 1993; L.N. 299 of 1998)
-
-    - (nb) the Chairman of the Postgraduate Students Association of the University of Hong Kong; and (L.N. 299 of 1998)
-
-    - (o) in respect of each Faculty in which the number of registered undergraduate students exceeds the number of registered postgraduate students, one student who shall be registered in that Faculty to read full time for an undergraduate degree, such undergraduate student being elected by the undergraduate students similarly so registered in that Faculty; and, in respect of such Faculty in which the number of registered postgraduate students exceeds the number of registered undergraduate students, one student who shall be a registered postgraduate student of that Faculty, such postgraduate student being elected by the postgraduate students registered in that Faculty. (L.N. 114 of 1989; L.N. 72 of 1993)
-
-    - (p) (Repealed L.N. 72 of 1993)
-
-  - 2. The Senate shall have power to co-opt 2 further teachers to serve for such periods as the Senate may determine.
-
-  - 3. The members elected by the non-professorial members of the Boards of the Faculties, by the wardens, and by the students shall serve for such periods as the Senate shall determine. Such period shall be announced not less than 1 month before the said elections are held. The elected members shall be eligible for re-election and may resign by written notice addressed to the secretary to the Senate. A member so elected shall be deemed to have resigned if—
-
-    - (a) in the case of a member elected by the non-professorial members of the Board of a Faculty, he becomes a member of the Senate in another capacity or ceases to be a member of member of the Board of the Faculty by which he was elected;
-
-    - (b) in the case of a warden, he ceases to be a warden; and
-
-    - (c) in the case of a student, he ceases to be registered in the Faculty by which he was elected.
-
-  - For the purposes of this statute the masters of undergraduate student colleges shall rank as wardens. (L.N. 58 of 1976; L.N. 44 of 1985; L.N. 72 of 1993)
+  - 3. (Repealed L.N. 186 of 2003)
 
   - 4. The Senate shall meet at least once in each semester of every academic year, and at such other times as may be necessary. (L.N. 516 of 1994)
 
-  - 5. The quorum of the Senate shall be the smallest number which is not less than one-quarter of the number of members for the time being. (L.N. 112 of 1969)
+  - 5. Not less than one third of the members of the Senate shall constitute a quorum at any meeting of the Senate. (L.N. 186 of 2003)
 
   - 6. The chairman shall be empowered to require any officer or teacher to attend a meeting of the Senate.
 
@@ -1044,7 +1012,9 @@ ARRANGEMENT OF STATUTES
 
   - 1. The Teaching Departments shall be formed by the Senate.
 
-  - 2. The Head of a Teaching Department shall be appointed by the Vice-Chancellor in consultation with the Dean of the Faculty to which the Department is allocated, and he shall be responsible to the Board of the Faculty for the organization of teaching in the Department.
+  - 2. The Head of a Teaching Department allocated to a Faculty shall be appointed, with the concurrence of the Vice-Chancellor, by the Dean of the Faculty in accordance with regulations for a period determined in accordance with those regulations. (L.N. 186 of 2003)
+
+  - 2A. The Head of a Teaching Department allocated to a Faculty shall be responsible to the Board of the Faculty for the organization of teaching in the Department. (L.N. 186 of 2003)
 
   - 3. The Senate shall allocate the Teaching Departments to Faculties. A Teaching Department may be allocated to more than one Faculty. (L.N. 123 of 1994)
 
@@ -1052,7 +1022,7 @@ ARRANGEMENT OF STATUTES
 
 - SUBDIVISIONS OF STUDIES AND LEARNING
 
-  - 1. The Head and any Deputy Head of an Institute, School, Centre, Unit or other subdivision of studies and learning shall be appointed by the Council upon the recommendation of the Senate.
+  - 1. The Head and any Deputy Head of an Institute, School, Centre, Unit or other subdivision of studies and learning shall be appointed by the Vice-Chancellor in accordance with regulations. (L.N. 186 of 2003)
 
   - 2. An Institute, School, Centre, Unit or other subdivision of studies and learning may be allocated by the Senate to one or more Faculties. (L.N. 123 of 1994)
 
@@ -1062,7 +1032,9 @@ ARRANGEMENT OF STATUTES
 
     - (a) the Vice-Chancellor;
 
-    - (b) a Chairman, who shall either be the Dean of the Faculty elected under the provisions of paragraph 1 of Statute IX, or, where the Dean has been appointed by the Council, a member of the Board of the Faculty other than the Dean, elected by the members of the Board for a period of 3 years; (L.N. 299 of 1998)
+    - (b) a Chairman, who shall be a member of the Board of the Faculty other than the Dean or a member referred to in sub-subparagraph (g), elected by the members of the Board for a period of 3 years; (L.N. 299 of 1998; L.N. 186 of 2003)
+
+    - (ba) the Dean of the Faculty; (L.N. 186 of 2003)
 
     - (c) the teachers who are members of the Faculty and who are full-time employees of the University; (L.N. 299 of 1998)
 
@@ -1070,7 +1042,7 @@ ARRANGEMENT OF STATUTES
 
     - (e) such other persons not being teachers as may be appointed to the Board by the Senate on the recommendation of the Board, provided that the number of such persons shall not exceed one-fourth of the whole number of members of the Board;
 
-    - (f) the student from the Faculty who has been elected as a member of the Senate under the provisions of paragraph 1(o) of Statute XXII; (L.N. 58 of 1976; L.N. 44 of 1985)
+    - (f) (Repealed L.N. 186 of 2003)
 
     - (g) in respect of a Faculty in which the number of registered undergraduate students exceeds the number of registered postgraduate students, 3 undergraduate students who shall be registered in that Faculty to read full time for a degree, such undergraduate students being elected by the undergraduate students similarly so registered, and one postgraduate student, not being an officer or a teacher or a person employed by the University whose employment is permanent and full time or a member of the Board in any other category of membership, who shall be registered in that Faculty, such postgraduate student being elected by the postgraduate students similarly so registered; and, in respect of a Faculty in which the number of registered postgraduate students exceeds the number of registered undergraduate students, one undergraduate student who shall be registered in that Faculty, such undergraduate student being elected by the undergraduate students similarly so registered, and 3 postgraduate students, not being officers or teachers or persons employed by the University whose employment is permanent and full-time or members of the Board in any other category of membership, who shall be registered in that Faculty, such postgraduate students being elected by the postgraduate students similarly so registered. (L.N. 114 of 1989)
 
@@ -1078,7 +1050,7 @@ ARRANGEMENT OF STATUTES
 
     - (a) The persons appointed under paragraph 1(d) and (e) shall hold office for a period of 3 years or for such other period as the Senate may specify in any particular case and shall be eligible for re-appointment. (L.N. 24 of 1984)
 
-    - (b) The persons elected under paragraph 1(f) and (g) shall hold office for such periods as the Senate shall determine, and shall be eligible for re-election provided that no person shall be elected more than twice under paragraph 1(g). (L.N. 115 of 1991)
+    - (b) The persons elected under paragraph 1(g) shall hold office for such periods as the Senate shall determine, and shall be eligible for re-election provided that no person shall be elected more than twice. (L.N. 115 of 1991; L.N. 186 of 2003)
 
   - 3. The Board of each Faculty shall be responsible to the Senate for the teaching of the subjects assigned to that Faculty and shall report thereon to the Senate from time to time.
 
@@ -1102,7 +1074,7 @@ ARRANGEMENT OF STATUTES
 
       - (c) graduates of the University registered in accordance with regulations made by the Council. (L.N. 112 of 1969)
 
-  - (2) Persons on whom an honorary degree has been conferred shall not, solely by reason thereof, be members of Convocation, but may be elected by Convocation to be members thereof.
+    - (2) Persons on whom an honorary degree has been conferred shall not, solely by reason thereof, be members of Convocation, but may be elected by Convocation to be members thereof.
 
   - 2. A register of the members of Convocation shall be kept by the Registrar.
 
