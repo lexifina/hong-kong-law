@@ -1,0 +1,5 @@
+TATE’S CAIRN TUNNEL REGULATIONS
+
+(Cap. 393 section 24)
+
+[22 April 1991]
