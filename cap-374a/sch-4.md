@@ -1,8 +1,10 @@
 # FOURTH SCHEDULE
 
-[reg. 31]
+[regs. 31 & 31A]
 
-MAXIMUM PERMITTED SMOKE OR VISIBLE VAPOUR EMISSIONS FROM MOTOR VEHICLES
+- PART I MAXIMUM PERMITTED SMOKE OR VISIBLE VAPOUR EMISSIONS
+
+- FROM MOTOR VEHICLES
 
 Column 1 | Column 2
 
@@ -10,4 +12,44 @@ Maximum permitted smoke or visible vapour level | Maximum permitted smoke or vis
 
 60 Hartridge Smoke Units | 2.13
 
-(L.N. 14 of 1999)
+- PART II STANDARDS FOR EXHAUST EMISSIONS FROM MOTOR VEHICLES
+
+- EQUIPPED WITH POSITIVE-IGNITION ENGINE AND
+
+- USING UNLEADED PETROL AS FUEL
+
+Column 1 | Column 2 | Column 3
+
+Date of manufacture | Measurement procedures | Emission standards
+
+Between 1 January 1975 and 31 December 1986 (both dates inclusive) | As specified in item 8.2.1(a) of Annex II of the Council Directive 96/96 EC made by the Council of the European Union | (a) carbon monoxide level at idle is not to exceed the maximum permissible level specified by the vehicle manufacturer and which is available to the Authority; or
+
+(b) where the specified level is not available to the Authority, carbon monoxide level at idle is not to exceed 4.5% vol.
+
+Between 1 January 1987 and 31 December 1991 (both dates inclusive) | As specified in item 8.2.1(a) of Annex II of the Council Directive 96/96 EC made by the Council of the European Union | (a) carbon monoxide level at idle is not to exceed the maximum permissible level specified by the vehicle manufacturer and which is available to the Authority ; or
+
+(b) where the specified level is not available to the Authority, carbon monoxide level at idle is not to exceed 3.5% vol.
+
+On or after 1 January 1992 | As specified in item 8.2.1(b) of Annex II of the Council Directive 96/96 EC made by the Council of the European Union | (a) carbon monoxide level at idle is not to exceed the maximum permissible level specified by the vehicle manufacturer and which is available to the Authority ; or
+
+(b) where the specified level is not available to the Authority—
+
+(i) at idle, carbon monoxide level is not to exceed 0.5% vol.; and
+
+(ii) at high idle1, carbon monoxide level is not to exceed 0.3% vol. and Lambda2 is not to exceed 1±0.03
+
+- PART III STANDARDS FOR EXHAUST EMISSIONS FROM MOTOR VEHICLES
+
+- EQUIPPED WITH POSITIVE-IGNITION ENGINE AND
+
+- USING LIQUEFIED PETROLEUM GAS AS FUEL
+
+Column 1 | Column 2
+
+Measurement procedure | Emission standards
+
+As specified in item 4-21-1 of Chapter 11-2 of the Automobile Type Approval Handbook for Japanese Certification, October 1997, Technical Edition II by the Japan Automobile Standards International Centre | Carbon monoxide level is not to exceed 1.0% vol.; and Hydrocarbons are not to exceed 300ppm vol. as normal-hexane equivalent
+
+Note: 1. At high idle, the speed of engine must not be less than 2000 rev/min.
+
+- 2. Lambda is the quantity of intake air divided by the theoretical air requirement of the engine. (Fourth Schedule replaced L.N. 160 of 2000)
