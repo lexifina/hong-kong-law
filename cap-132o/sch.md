@@ -20,7 +20,7 @@
 
 - 9. The fifth and sixth floors of Urban Council Ngau Chi Wan Complex, 11 Clear Water Bay Road, Ngau Chi Wan, Kowloon.
 
-- 10. The second floor of the building known as Yue Wan Market Building, Yue Wan Estate, Chai Wan, Hong Kong.
+- 10. The fourth, fifth and eighth floors, Chai Wan Municipal Services Building, 338 Chai Wan Road, Hong Kong. (L.N. 267 of 2001)
 
 - 11. The ground floor of the building known as North Point Market, Pak Fuk Road, North Point, Hong Kong.
 
