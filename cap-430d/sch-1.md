@@ -1,42 +1,42 @@
-# Schedule 1
+# SCHEDULE 1
 
-(paragraph (b))
+[paragraph (b)]
 
 SERVICES TO BE PROVIDED UNDER THE TRADING FUND
 
 - 1. Supporting the Telecommunications Authority in administering and enforcing the provisions of the Telecommunication Ordinance (Cap. 106) and the Telephone Ordinance (Cap. 269) as those provisions may from time to time be amended or repealed and re-enacted with or without modification, including the statutory functions relating to—
 
-- (a) setting of technical standards for telecommunications;
+  - (a) setting of technical standards for telecommunications;
 
-- (b) type approval and certification of telecommunications equipment;
+  - (b) type approval and certification of telecommunications equipment;
 
-- (c) economic and technical regulation of the telecommunications industry;
+  - (c) economic and technical regulation of the telecommunications industry;
 
-- (d) interconnection and shared use of telecommunications networks and facilities;
+  - (d) interconnection and shared use of telecommunications networks and facilities;
 
-- (e) controlling and administering the telecommunications numbering plan;
+  - (e) controlling and administering the telecommunications numbering plan;
 
-- (f) promotion of competition within the telecommunications industry;
+  - (f) promotion of competition within the telecommunications industry;
 
-- (g) protecting the interests of telecommunications users and consumers;
+  - (g) protecting the interests of telecommunications users and consumers;
 
-- (h) management of the radio spectrum;
+  - (h) management of the radio spectrum;
 
-- (i) regulation and control of harmful radio interference;
+  - (i) regulation and control of harmful radio interference;
 
-- (j) licensing of telecommunications services, networks, systems and installations;
+  - (j) licensing of telecommunications services, networks, systems and installations;
 
-- (k) representation of Hong Kong in public telecommunications related forums;
+  - (k) representation of Hong Kong in public telecommunications related forums;
 
-- (l) accounting standards, tariffs and price control of the telecommunications industry;
+  - (l) accounting standards, tariffs and price control of the telecommunications industry;
 
-- (m) investigation and enforcement;
+  - (m) investigation and enforcement;
 
-- (n) observance of the terms of international conventions;
+  - (n) observance of the terms of international conventions;
 
-- (o) advice to the Government; and
+  - (o) advice to the Government; and
 
-- (p) carrying out functions in accordance with directions by the Secretary for Economic Services on general telecommunications policy matters.
+  - (p) carrying out functions in accordance with directions by the Secretary for Information Technology and Broadcasting on general telecommunications policy matters. (L.N. 206 of 1998)
 
 - 2. Performing any of the services specified in this Schedule under administrative or statutory authority, as appropriate.
 
