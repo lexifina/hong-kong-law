@@ -44,4 +44,6 @@ Item | Description of food
 
 20. | Oyster to be eaten in raw state (L.N. 407 of 1996)
 
+21. | Meat to be eaten in raw state (L.N. 1 of 1999)
+
 (L.N. 142 of 1994; L.N. 85 of 1995)
