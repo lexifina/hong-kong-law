@@ -36,7 +36,7 @@
 
 - 17. The second and third floors of the Urban Council Ngau Tau Kok Complex, No. 183, Ngau Tau Kok Road, Kowloon. (L.N. 50 of 1991)
 
-- 18. Units No. 5 and 6, ground floor, Commercial Centre, Pak Tin Estate, Kowloon.
+- 18. Units No. 1 to 6, ground floor, Commercial Centre, Pak Tin Estate, Kowloon. (L.N. 337 of 1998)
 
 - 19. The Arts Library at the Hong Kong Cultural Centre, 10 Salisbury Road, Kowloon. (L.N. 119 of 1989)
 
