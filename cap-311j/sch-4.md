@@ -6,12 +6,12 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR PRIVATE CARS EQUIPPED WITH COMPRESSION-I
 
 Emission shall not exceed—
 
-non-methane organic gases | 0.16 grams per kilometre
+non-methane organic gases | 0.16 gram per kilometre
 
 carbon monoxide | 2.10 grams per kilometre
 
-oxides of nitrogen | 0.25 grams per kilometre
+oxides of nitrogen | 0.25 gram per kilometre
 
-particulate emissions | 0.05 grams per kilometre
+particulate emissions | 0.05 gram per kilometre
 
-as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America. (L.N. 96 of 1998)
+as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America. (L.N. 96 of 1998; L.N. 121 of 1999)
