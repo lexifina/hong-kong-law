@@ -196,4 +196,6 @@ Item | Periods | Rate of interest
 
 96. | On or after 6 September 1999 and before 4 October 1999 (L.N. 220 of 1999; L.N. 246 of 1999) | 4.7917% per annum
 
-97. | On or after 4 October 1999 (L.N. 246 of 1999) | 4.6250% per annum
+97. | On or after 4 October 1999 and before 1 November 1999 (L.N. 246 of 1999; L.N. 267 of 1999) | 4.6250% per annum
+
+98. | On or after 1 November 1999 (L.N. 267 of 1999) | 4.7917% per annum
