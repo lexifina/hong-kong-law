@@ -20,7 +20,9 @@ JURISDICTION OF TRIBUNAL
 
     - (ca) any action that lies within the jurisdiction of the Minor Employment Claims Adjudication Board established by section 3 of the Minor Employment Claims Adjudication Board Ordinance (Cap. 453); (Added 61 of 1994 s. 56)
 
-    - (d) any action that lies within the jurisdiction of the Labour Tribunal established under the Labour Tribunal Ordinance (Cap. 25).
+    - (d) any action that lies within the jurisdiction of the Labour Tribunal established under the Labour Tribunal Ordinance (Cap. 25);
+
+    - (e) any action which is submitted to the jurisdiction of the Estate Agents Authority established by section 4 of the Estate Agents Ordinance (Cap. 511) and in respect of which the Estate Agents Authority has not declined jurisdiction, under or pursuant to section 49 of that Ordinance. (Added 48 of 1997 s. 58)
 
 - 1A. Notwithstanding subparagraph (d) of the proviso to paragraph 1, the tribunal shall have jurisdiction to hear and determine a claim transferred to the tribunal under section 10(2) of the Labour Tribunal Ordinance (Cap. 25). (Added 25 of 1999 s. 19)
 
