@@ -12,39 +12,21 @@ Item | $
 
 (c) In respect of textiles—
 
-(i) application for issue of export licence (Form 4 TIC 353) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 160 of 1992) . | 56
+(i) application for issue of consignment specific export licence (Form 4 TIC 353) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 160 of 1992; L.N. 156 of 2004) . | 56
 
-(ii) application for issue of export licence—
-
-(A) where the application is made on paper (Form 5 TIC 353A) . | 216
-
-(B) where the application is made using services provided by a specified body (L.N. 484 of 1996) . | 141
-
-(iii) application for swing of quotas (Form TIC 395) (L.N. 126 of 1984; L.N. 315 of 1984; L.N. 160 of 1992) . | 251
-
-(iv) application for free quota export authorizations (Form TIC 355 (FQ)) (L.N. 315 of 1984; L.N. 160 of 1992) . | 508
-
-(v) application for transfer of quotas (Forms TIC 396, TIC 397, TIC 398) (L.N. 126 of 1984; L.N. 160 of 1992) . | 280
+(ii)-(v) (Repealed L.N. 156 of 2004)
 
 (vi) (Repealed L.N. 484 of 1996)
 
-(vii) application for issue of import licence (Form 7 TRA 23) (L.N. 315 of 1984; L.N. 129 of 1989) . | 40
+(vii) application for issue of consignment specific import licence (Form 7 TRA 23) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 156 of 2004) . | 40
 
 (viii) (Repealed L.N. 189 of 1993)
 
-(ix) application for issue of special export licence (Forms 8a TRA 534A and 8d TRA 534D) (L.N. 160 of 1992) . | 58
-
-(x) application for issue of special import licence (Forms 8b TRA 534B, 8c TRA 534C and 8e TRA 534E) (L.N. 160 of 1992) . | 43
-
-(xi) application for issue of export licence—
-
-(A) where the application is made on paper (Form 8 TRA 534) . | 216
-
-(B) where the application is made using services provided by a specified body (L.N. 484 of 1996) . | 141
+(ix)-(xi) (Repealed L.N. 156 of 2004)
 
 2. | Issue of import or export licence in respect of prohibited, restricted or controlled articles, other than rough diamonds (L.N. 180 of 2002) . | No fee
 
-3. | Annual fee for registration of a person for textile controls purposes (L.N. 315 of 1984; L.N. 160 of 1992; L.N. 128 of 2001) . | 1712
+3. | (Repealed L.N. 156 of 2004)
 
 4. | (a) Application for the issue of a certificate of Hong Kong origin, certificate of processing or of any other certificate mentioned in item 5 other than a generalized preference certificate—
 
