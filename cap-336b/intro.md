@@ -1,0 +1,5 @@
+DISTRICT COURT CIVIL PROCEDURE (COSTS) RULES
+
+(Cap. 336 section 72)
+
+[1 December 1986]
