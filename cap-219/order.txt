@@ -34,6 +34,7 @@ s-031.md
 s-032.md
 s-033.md
 s-034.md
+s-034A.md
 s-035.md
 s-036.md
 s-037.md
