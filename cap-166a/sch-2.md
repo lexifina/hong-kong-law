@@ -4,7 +4,7 @@
 
 PART I-FEES
 
-Fee payable upon the grant or renewal of a licence under section 5 of the Ordinance . | $4,000
+Fee payable upon the grant or renewal of a licence under section 5 of the Ordinance (L.N. 333 of 2000) . | $4,600
 
 PART II-EXPENSES
 
