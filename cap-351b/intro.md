@@ -1,0 +1,5 @@
+EXCHANGES (SPECIAL LEVY) (SUSPENSION) ORDER
+
+(Cap. 351 section 4A)
+
+[16 August 1993]
