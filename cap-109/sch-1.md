@@ -8,14 +8,6 @@
 
 # Schedule 1
 
-(L.N. 288 of 1998 amended Schedule 1, Part III, paragraph 1(b), to reduce the duty payable on light diesel oil from $2.89 to $2.00 per litre as from 23 June 1998. Under L.N. 288 of 1998, the reduction in duty would remain in effect until 31 March 1999.
-
-L.N. 90 of 1999 and Ord. No. 44 of 1999 amended L.N. 288 of 1998 so as to maintain the duty on light diesel oil at the reduced rate of $2.00 per litre until 31 March 2000.
-
-L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as amended by Section 8 of Ord. No. 44 of 1999) so as to maintain the duty on light diesel oil at the reduced rate of $2.00 per litre until 31 December 2000.
-
-With effect from 1 January 2001, the duty payable on light diesel oil is reinstated as $2.89 per litre according to the twice- amended L.N. 288 of 1998.)
-
 [ss. 4(1), (2) & 53(2)] (Amended 46 of 1996 s. 32)
 
 - PART I DUTY ON LIQUOR
@@ -26,11 +18,11 @@ With effect from 1 January 2001, the duty payable on light diesel oil is reinsta
 
   - Liquor with an alcoholic strength of more than 30% by volume measured at a temperature of 20°C | 100%
 
-  - Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20°C | 30%
+  - Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20°C | 40%
 
   - Wine | 60%
 
-  - (Amended 67 of 1997 s. 3)
+  - (Amended 67 of 1997 s. 3; L.N. 61 of 2001 and 14 of 2001 s. 2)
 
   - 2. Where there is no or insufficient information available from which the Commissioner (or any officer authorized by him in that behalf) is able to determine the value of any quantity of liquor of less than 12 litres, imported at any time in one consignment, he may assess the duty payable on such liquor at the rate of $160 per litre.
 
@@ -44,15 +36,15 @@ With effect from 1 January 2001, the duty payable on light diesel oil is reinsta
 
   - $
 
-    - (a) for each 1000 cigarettes . 766
+    - (a) for each 1000 cigarettes . 804
 
-    - (b) cigars . 986/kg
+    - (b) cigars . 1035/kg
 
-    - (c) Chinese prepared tobacco . 188/kg
+    - (c) Chinese prepared tobacco . 197/kg
 
-    - (d) all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . 928/kg
+    - (d) all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . 974/kg
 
-  - (Amended L. N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2)
+  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2)
 
   - 2. For the purpose of applying the duty under paragraph 1(a) a cigarette more than 90 mm long, excluding any filter or mouthpiece, shall be treated as if each additional 90 mm or portion of 90 mm were a separate cigarette.
 
