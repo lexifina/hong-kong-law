@@ -1,0 +1,5 @@
+BEDSPACE APARTMENTS (APPEAL BOARD) REGULATION
+
+(Cap. 447, section 35)
+
+[9 February 1995]
