@@ -1,0 +1,3 @@
+# Schedule 2
+
+(Repealed L.N. 361 of 1982)
