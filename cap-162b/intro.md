@@ -1,0 +1,5 @@
+MIDWIVES REGISTRATION (FEES) REGULATION
+
+(Cap. 162, section 23(1))
+
+[1 January 2000] L.N. 314 of 1999
