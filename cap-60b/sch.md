@@ -4,7 +4,7 @@
 
 SCALE OF FEES
 
-Item | $
+Item | SCALE OF FEES | $
 
 1. | (a) Application for issue of import licence otherwise than in respect of textiles . | No fee
 
@@ -70,7 +70,7 @@ Item | $
 
 11. | (Repealed L.N. 484 of 1996)
 
-12. | Registration of person approved as eligible to receive a certificate under the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) . | 2807
+12. | Registration of person approved as eligible to receive a certificate under the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) . | 3003
 
 13. | Annual fee for any period beginning on or after 1 July 1993 for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) . | 2825
 
