@@ -1,0 +1,5 @@
+TSING MA CONTROL AREA (GENERAL) REGULATION
+
+(Cap. 498, section 27(2))
+
+[16 May 1997]
