@@ -20,6 +20,10 @@ Registration and registered persons
 
 (e) an investment representative (for advising on securities incidental to the marketing of mandatory provident fund schemes only) (L.N. 141 of 1999) | 400
 
+(f) a securities margin financier (L.N. 87 of 2000) | 4900
+
+(g) a securities margin financier’s representative (L.N. 87 of 2000) | 1850
+
 2. | Fee payable on application under the Commodities Trading Ordinance (Cap. 250) for registration as—
 
 (a) a dealer | 4900
@@ -39,6 +43,10 @@ Registration and registered persons
 (c) an investment adviser (including an investment advisers’ partnership) | 4900
 
 (d) an investment representative | 1850
+
+(e) a securities margin financier (L.N. 87 of 2000) | 4900
+
+(f) a securities margin financier’s representative (L.N. 87 of 2000) | 1850
 
 4. | Annual fee payable by a person registered under the Commodities Trading Ordinance (Cap. 250) as—
 
@@ -140,7 +148,7 @@ Authorization of advertisements etc.
 
 Miscellaneous fees
 
-17. | Fee payable for each inspection of a register that is kept by the Commission | 50
+17. | (Repealed L.N. 87 of 2000)
 
 18. | Fee payable for a duplicate of a certificate of registration under the Securities Ordinance (Cap. 333) or the Commodities Trading Ordinance (Cap. 250) | 200
 
@@ -155,6 +163,10 @@ Miscellaneous fees
 (a) for permission under section 87A(2) for a dealer to alter his financial year | 2000
 
 (b) for an extension of time for lodging documents under section 88(2) | 2000
+
+(c) for allowing a registered financier to vary the date on which its financial year ends under section 121AH(2) (L.N. 87 of 2000) | 2000
+
+(d) for an extension of time for lodging documents under section 121AI(2) (L.N. 87 of 2000) | 2000
 
 23. | Fee payable on an application under section 50(2) of the Commodities Trading Ordinance (Cap. 250) for an extension of time for lodging documents | 2000
 
@@ -176,9 +188,15 @@ Miscellaneous fees
 
 (a)-(b) (Repealed L.N. 173 of 1994)
 
-(c) for a waiver or modification of the requirements of section 81(1) of the Securities Ordinance (Cap. 333) | 6500
+(c) for a waiver or modification of the requirements of section 81(2) of the Securities Ordinance (Cap. 333) (L.N. 87 of 2000) | 6500
 
-(d) for renewal of a waiver or modification referred to in paragraph (c) | 4500
+(ca) for a waiver or modification of the requirements of section 81(4) of the Securities Ordinance (Cap. 333) (L.N. 87 of 2000) | 6500
+
+(cb) for a waiver or modification of the requirements of section 81A(2) of the Securities Ordinance (Cap. 333) (L.N. 87 of 2000) | 6500
+
+(cc) for a waiver or modification of the requirements of section 81A(4) of the Securities Ordinance (Cap. 333) (L.N. 87 of 2000) | 6500
+
+(d) for renewal of a waiver or modification referred to in paragraph (c), (ca), (cb) or (cc) (L.N. 87 of 2000) | 4500
 
 (da) for a waiver or modification of the requirements of section 84 of the Securities Ordinance (Cap. 333) (L.N. 76 of 1993) | 4500
 
@@ -198,7 +216,9 @@ Miscellaneous fees
 
 (d) to approve the redemption of redeemable shares which have been excluded from computations of net tangible assets, ranking liabilities, or adjusted liabilities | 6500
 
-(e) for a dealer registered under the Securities Ordinance (Cap. 333) or the Commodities Trading Ordinance (Cap. 250) to be treated as a securities introducing broker or a futures introducing broker | 4900 (L.N. 173 of 1994)
+(e) for a dealer registered under the Securities Ordinance (Cap. 333) or the Commodities Trading Ordinance (Cap. 250) to be treated as a securities introducing broker or a futures introducing broker | 4900
+
+(L.N. 173 of 1994)
 
 27A. | (Repealed L.N. 173 of 1994)
 
@@ -224,4 +244,14 @@ Miscellaneous fees
 
 30. | (Repealed L.N. 471 of 1997)
 
-(L.N. 76 of 1993; L.N. 173 of 1994; L.N. 430 of 1997; L.N. 471 of 1997; L.N. 166 of 1998; L.N. 207 of 1998)
+31. | Fee payable on application under section 121BE of the Securities Ordinance (Cap. 333)—
+
+(a) for a waiver or modification of the requirements of section 121AB | 6500
+
+(b) for renewal of a waiver or modification referred to in paragraph (a) | 4500
+
+(c) for a waiver or modification of any or all of the requirements of section 121AJ, 121AK, 121AM or 121AP | 4500
+
+(d) for a waiver or modification of the requirements of any other provision prescribed in section 121BE | 6500
+
+(L.N. 87 of 2000)(L.N. 76 of 1993; L.N. 173 of 1994; L.N. 430 of 1997; L.N. 471 of 1997; L.N. 166 of 1998; L.N. 207 of 1998)
