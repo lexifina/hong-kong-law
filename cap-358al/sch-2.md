@@ -36,7 +36,7 @@ APPLICATION OF THE ROADS (WORKS, USE AND COMPENSATION) ORDINANCE
 
     - (ii) in the definition of “claim”, repeal “section 29” and substitute “the Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg.)”;
 
-    - (iii) in the definition of “Secretary”, repeal “Transport” and substitute “Planning, Environment and Lands”;
+    - (iii) in the definition of “Secretary”, repeal “Transport” and substitute “the Environment and Food”; (L.N. 183 of 2000)
 
     - (iv) in the definition of “use”, repeal “road” where it twice occurs and substitute “sewerage”;
 
