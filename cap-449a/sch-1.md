@@ -10,9 +10,9 @@ For approval under section 10 of the Ordinance for commencement of operation of 
 
 (b) category B | 355
 
-(c) category C | 2,825
+(c) category C | 2,800
 
-(d) category D | 5,410
+(d) category D | 5,340
 
 Note: For the purposes of this Schedule, an amusement ride in—
 
@@ -24,4 +24,4 @@ Note: For the purposes of this Schedule, an amusement ride in—
 
 - (d) category D, means any amusement ride which is permitted to carry 21 or more persons.
 
-(L.N. 60 of 1996; 29 of 1997; L.N. 18 of 1998; L.N. 133 of 1998)
+(L.N. 60 of 1996; 29 of 1997; L.N. 18 of 1998; L.N. 133 of 1998; L.N. 287 of 2000)
