@@ -2,13 +2,19 @@
 
 [para. 2]
 
-Trade | Period of Apprenticeship (Years)
+Trade | Period of Apprenticeship
+
+(Years)
+
+Audio-Visual and Radio-Frequency Mechanic (L.N. 149 of 2003) | 3
 
 Bamboo Scaffolder | 3
 
 Bookbinder | 3
 
 Bricklayer/Plasterer/Tiler | 3
+
+Building Services Mechanic (L.N. 149 of 2003) | 4
 
 Cable Jointer (Power) | 4
 
