@@ -12,9 +12,9 @@ PRINCIPAL FAIRWAYS
 
   - (ii) | latitude longitude | 22 o 17’ 31” 114 o 07’ 19” | north, east;
 
-  - (iii) | latitude longitude | 22 o 17’ 23” 114 o 07’ 12” | north, east;
+  - (iii) | latitude longitude | 22 o 17’ 23” 114 o 07’ 17” | north, east; (L.N. 601 of 1997)
 
-  - (iv) | latitude longitude | 22 o 16’ 59” 114 o 06’ 34” | north, east.
+  - (iv) | latitude longitude | 22 o 16’ 58” 114 o 06’ 35” | north, east. (L.N. 601 of 1997)
 
   - (b) On the south, straight lines joining the following positions—
 
@@ -22,7 +22,7 @@ PRINCIPAL FAIRWAYS
 
   - (ii) | latitude longitude | 22 o 17’ 30” 114 o 07’ 46” | north, east; (L.N. 13 of 1986)
 
-  - (iii) | latitude longitude | 22 o 16’ 50” 114 o 06’ 39” | north, east. (L.N. 13 of 1986)
+  - (iii) | latitude longitude | 22 o 16’ 50.5” 114 o 06’ 40” | north, east. (L.N. 601 of 1997)
 
   - (iv) | (Repealed L.N.13 of 1986)
 
@@ -38,9 +38,9 @@ PRINCIPAL FAIRWAYS
 
   - (b) On the south, straight line joining the following positions—
 
-  - (i) | latitude longitude | 22 o 17’ 31” 114 o 07’ 12” | north, east;
+  - (i) | latitude longitude | 22 o 17’ 23” 114 o 07’ 17” | north, east; (L.N. 601 of 1997)
 
-  - (ii) | latitude longitude | 22 o 17’ 23” 114 o 06’ 28” | north, east.
+  - (ii) | latitude longitude | 22 o 17’ 23” 114 o 06’ 28.5” | north, east. (L.N. 601 of 1997)
 
   - (c) On the east and west, straight lines adjoining the extremities of the north and south boundaries.
 
@@ -48,9 +48,9 @@ PRINCIPAL FAIRWAYS
 
   - (a) On the north, straight lines joining the following positions—
 
-  - (i) | latitude longitude | 22 o 17’ 52” 114 os 08’ 37” | north, east;
+  - (i) | latitude longitude | 22 o 17’ 52” 114 o 08’ 37” | north, east;
 
-  - (ii) | latitude longitude | 22 o19’ 04” 114 o 07’ 38” | north, east;
+  - (ii) | latitude longitude | 22 o 19’ 04” 114 o 07’ 38” | north, east;
 
   - (iii) | latitude longitude | 22 o 19’ 39” 114 o 06’ 30” | north, east;
 
@@ -86,19 +86,23 @@ PRINCIPAL FAIRWAYS
 
   - (i) | latitude longitude | 22 o 17’ 52” 114 o 08’ 37” | north, east;
 
-  - (ii) | latitude longitude | 22 o 17’ 36.5” 114 o 09’ 44.5” | north, east. (L.N. 13 of 1986)
+  - (ii) | latitude longitude | 22 o 17’ 57” 114 o 08’ 57” | north, east. (L.N. 601 of 1997)
 
-  - (iii) | (Repealed L.N. 13 of 1986)
+  - (iii) | latitude longitude | 22 o 17’ 57” 114 o 09’ 03” | north, east; (L.N. 601 of 1997)
+
+  - (iv) | latitude longitude | 22 o 17’ 43” 114 o 09’ 16” | north, east; (L.N. 601 of 1997)
+
+  - (v) | latitude longitude | 22 o 17’ 34” 114 o 09’ 55” | north, east. (L.N. 601 of 1997)
 
   - (b) On the south, straight lines joining the following positions—
 
   - (i) | latitude longitude | 22 o 17’ 40” 114 o 08’ 35” | north, east;
 
-  - (ii) | latitude longitude | 22 o 17’ 24” 114 o 09’ 44.5” | north, east. (L.N. 13 of 1986)
+  - (ii) | latitude longitude | 22 o 17’ 22” 114 o 09’ 53.5” | north, east. (L.N. 601 of 1997)
 
   - (iii) | (Repealed L.N. 13 of 1986)
 
-  - (c) On the west, bounded by the eastern limits of the Northern and Southern Fairways.
+  - (c) On the west, bounded by the southern limit of the Northern Fairway and the eastern limit of the Southern Fairway. (L.N. 601 of 1997)
 
   - (d) On the east, straight lines adjoining the extremities of the north and south boundaries.
 
@@ -106,21 +110,21 @@ PRINCIPAL FAIRWAYS
 
   - (a) On the north, straight lines joining the following positions—
 
-  - (i) | latitude longitude | 22 o 17’ 36.5” 114 o 09’ 44.5” | north, east;
+  - (i) | latitude longitude | 22 o 17’ 34” 114 o 09’ 55” | north, east; (L.N. 601 of 1997)
 
-  - (ii) | latitude longitude | 22 o 17’ 38” 114 o 10’ 21” | north, east;
+  - (ii) | latitude longitude | 22 o 17’ 34.5” 114 o 10’ 15.5” | north, east; (L.N. 601 of 1997)
 
-  - (iii) | latitude longitude | 22 o 18’ 04” 114 o 11’ 09.5” | north, east;
+  - (iii) | latitude longitude | 22 o 18’ 04” 114 o 11’ 18.5” | north, east; (L.N. 601 of 1997)
 
   - (iv) | latitude longitude | 22 o 18’ 04” 114 o 12’ 18” | north, east. (L.N. 13 of 1986)
 
   - (b) On the south, straight lines joining the following positions—
 
-  - (i) | latitude longitude | 22 o 17’ 24” 114 o 09’ 44.5” | north, east;
+  - (i) | latitude longitude | 22 o 17’ 22” 114 o 09’ 53.5” | north, east; (L.N. 601 of 1997)
 
-  - (ii) | latitude longitude | 22 o 17’ 25.5” 114 os 10’ 24.5” | north, east;
+  - (ii) | latitude longitude | 22 o 17’ 22.5” 114 o 10’ 19” | north, east; (L.N. 601 of 1997)
 
-  - (iii) | latitude longitude | 22 o 17’ 49” 114 o 11’ 14.5” | north, east;
+  - (iii) | latitude longitude | 22 o 17’ 49” 114 o 11’ 15.5” | north, east; (L.N. 601 of 1997)
 
   - (iv) | latitude longitude | 22 o 17’ 50” 114 o 12’ 18” | north, east. (L.N. 13 of 1986)
 
@@ -166,7 +170,7 @@ PRINCIPAL FAIRWAYS
 
   - (iii) | latitude longitude | 22 o 21’ 31” 114 o 03’ 56” | north, east;
 
-  - (iv) | latitude longitude | 22 os 21’ 31” 114 o 03’ 15” | north, east.
+  - (iv) | latitude longitude | 22 o 21’ 31” 114 o 03’ 15” | north, east.
 
   - (c) On the east and west, straight lines adjoining the extremities of the north and south boundaries.
 
@@ -186,7 +190,7 @@ PRINCIPAL FAIRWAYS
 
   - (i) | latitude longitude | 22 o 19’ 31” 114 o 04’ 46” | north, east;
 
-  - (ii) | latitude longitude | 22o 20’ 09” 114 o 03’ 34” | north, east;
+  - (ii) | latitude longitude | 22 o 20’ 09” 114 o 03’ 34” | north, east;
 
   - (iii) | latitude longitude | 22 o 20’ 55” 114 o 02’ 58” | north, east.
 
@@ -226,7 +230,7 @@ PRINCIPAL FAIRWAYS
 
   - (iii) | latitude longitude | 22 o 19’ 10” 114 o 09’ 03” | north, east;
 
-  - (iv) | latitude longitude | 22 o 17’ 46” 114 o 09’ 03” | north, east.
+  - (iv) | latitude longitude | 22 o 17’ 57” 114 o 09’ 03” | north, east. (L.N. 601 of 1997)
 
   - (b) On the west, straight lines joining the following positions—
 
@@ -236,8 +240,8 @@ PRINCIPAL FAIRWAYS
 
   - (iii) | latitude longitude | 22 o 19’ 10” 114 o 08’ 57” | north, east;
 
-  - (iv) | latitude longitude | 22 o 17’ 47” 114 o 08’ 57” | north, east.
+  - (iv) | latitude longitude | 22 o 17’ 57” 114 o 08’ 57” | north, east. (L.N. 601 of 1997)
 
-  - (c) On the north and south, straight lines joining the extremities of the east and west boundaries. (L.N. 281 of 1995)
+  - (c) On the north and south, straight lines joining the extremities of the east and west boundaries.
 
-- (L.N. 303 of 1994)
+- (L.N. 281 of 1995)
