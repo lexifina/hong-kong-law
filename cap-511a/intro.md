@@ -1,0 +1,5 @@
+ESTATE AGENTS (LICENSING) REGULATION
+
+(Cap. 511, section 56)
+
+[19 November 1998]
