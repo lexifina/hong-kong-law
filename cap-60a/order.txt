@@ -18,6 +18,15 @@ s-006A.md
 s-006B.md
 s-006C.md
 s-006D.md
+s-006DA.md
+s-006DB.md
+s-006DC.md
+s-006DD.md
+s-006DE.md
+s-006DF.md
+s-006DG.md
+s-006DH.md
+s-006DI.md
 s-006E.md
 s-006F.md
 s-006G.md
@@ -28,3 +37,4 @@ sch-3.md
 sch-4.md
 sch-5.md
 sch-6.md
+sch-7.md
