@@ -18,7 +18,7 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5
 
   - 2. Civil proceedings before any person to whom a case is referred in whole or in part by any of the said courts.
 
-  - 3. (Repealed 79 of 1995 s. 50)
+  - 3. Inquests into deaths under the Coroners Ordinance (Cap. 504) where, following a request for legal aid in that behalf by the family of the deceased person concerned, the Director is of the opinion that the interests of public justice require that legal aid be given. (Replaced 26 of 2000 s. 10)
 
   - 4. Proceedings in the Lands Tribunal under Part II of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7). (Added L.N. 296 of 1982)
 
