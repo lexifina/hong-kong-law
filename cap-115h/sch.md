@@ -2,7 +2,7 @@
 
 [rule 2]
 
-- 1. Pillar Point Vietnamese Refugee Centre. (L.N. 257 of 1989)
+- 1. (Repealed L.N. 202 of 2000)
 
 - 2. (Repealed L.N. 75 of 1996)
 
