@@ -78,7 +78,7 @@ PUBLIC BODIES
 
 - 37. MTR Corporation Limited. (Added 36 of 1975 s. 31. Amended 13 of 2000 s. 65)
 
-- 38. The Hong Kong Industrial Estates Corporation. (Added 17 of 1976 s. 13. Amended 16 of 1977 s. 43)
+- 38. (Repealed 5 of 2001 s. 40)
 
 - 39. The Hong Kong Examinations Authority. (Added 23 of 1977 s. 17)
 
@@ -108,7 +108,7 @@ PUBLIC BODIES
 
 - 52. Securities and Futures Commission. (Added 10 of 1989 Schedule 2)
 
-- 53. The Open University of Hong Kong. (Added 22 of 1987 Schedule 2. Amended L.N. 176 of 1989. Replaced 50 of 1997 s. 29)
+- 53. The Open University of Hong Kong. (Replaced 50 of 1997 s. 29)
 
 - 54. Hong Kong Sports Development Board. (Added 8 of 1990 s. 18)
 
@@ -120,7 +120,7 @@ PUBLIC BODIES
 
 - 58. The Hospital Authority (including any committee established by the Hospital Authority). (Added 68 of 1990 s. 24)
 
-- 59. The Airport Authority. (Added L.N. 249 of 1990. Replaced 71 of 1995 s. 49)
+- 59. The Airport Authority. (Replaced 71 of 1995 s. 49)
 
 - 60. Metro Broadcast Corporation Limited. (Added L.N. 184 of 1991)
 
@@ -134,7 +134,7 @@ PUBLIC BODIES
 
 - 65. Tate’s Cairn Tunnel Company Limited. (Added L.N. 382 of 1992)
 
-- 66. Hong Kong Industrial Technology Centre Corporation. (Added 21 of 1993 s. 25)
+- 66. (Repealed 5 of 2001 s. 40)
 
 - 67. (Repealed 134 of 1997 s. 85)
 
@@ -196,4 +196,6 @@ PUBLIC BODIES
 
 - 95. HKFE Clearing Corporation Limited. (Added 20 of 1999 s. 6)
 
-- 96. Hong Kong Exchanges and Clearing Limited. (Added 12 of 2000 s. 23) (Replaced L.N. 272 of 1974)
+- 96. Hong Kong Exchanges and Clearing Limited. (Added 12 of 2000 s. 23)
+
+- 97. Hong Kong Science and Technology Parks Corporation. (Added 5 of 2001 s. 40) (Replaced L.N. 272 of 1974)

@@ -140,7 +140,7 @@ In this Ordinance, unless the context otherwise requires—
 
 - “heavy railway” (重型鐵路) means railway for freight transport or for a passenger transit system with a capacity exceeding 40000 passengers per hour per direction;
 
-- “industrial estate” (工業邨) means an industrial estate within the meaning of section 2 of the Hong Kong Industrial Estates Corporation Ordinance (Cap. 209);
+- “industrial estate” (工業邨) means any industrial estate referred to in Schedule 1 to the Hong Kong Science and Technology Parks Corporation Ordinance (Cap. 565); (Replaced 5 of 2001 s. 40)
 
 - “light railway” (輕型鐵路) means railway for a passenger transit system with a capacity not exceeding 40000 passengers per hour per direction;
 

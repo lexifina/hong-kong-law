@@ -372,10 +372,6 @@ Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (C
 
 Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (Chapter 1115), section 24(2). (L.N. 512 of 1996)
 
-Financial Secretary | Hong Kong Industrial Estates Corporation Ordinance (Chapter 209), section 26. (L.N. 106 of 1986)
-
-Financial Secretary | Hong Kong Industrial Technology Centre Corporation Ordinance (Chapter 431), section 20(5). (L.N. 185 of 1993)
-
 Financial Secretary | Hong Kong Tourism Board Ordinance (Chapter 302), section 7(d). (3 of 2001 s. 43)
 
 Financial Secretary | Immigration Service (Welfare Fund) Regulations (Chapter 331 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
@@ -456,11 +452,11 @@ Secretary for Transport | Roads (Works, Use and Compensation) Ordinance (Chapter
 
 Secretary for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40)
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 and L.N. 93 of 2001. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999, L.N. 93 of 2001 and 5 of 2001 s. 40. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -479,6 +475,8 @@ Director of Intellectual Property as Registrar of Designs | Registered Designs O
 L.N. 324 of 1999 | Chief Secretary for Administration | Hong Kong Tourism Board Ordinance (Chapter 302), section 19(2). (3 of 2001 s. 44)
 
 L.N. 93 of 2001 | Chief Secretary for Administration | Scout Association of Hong Kong Ordinance (Chapter 1005), section 9(3).
+
+5 of 2001 s. 40 | Financial Secretary | Hong Kong Science and Technology Parks Corporation Ordinance (Cap. 565), sections 23(6) and 24.
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 

@@ -36,7 +36,7 @@
 
   - 1. Hong Kong Export Credit Insurance Corporation.
 
-  - 2. The Hong Kong Industrial Estates Corporation.
+  - 2. Hong Kong Science and Technology Parks Corporation. (Replaced 5 of 2001 s. 40)
 
   - 3. Hong Kong Productivity Council.
 
