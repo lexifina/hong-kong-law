@@ -10,6 +10,8 @@ Chai Wan Swimming Pool
 
 Hammer Hill Road Leisure Pool
 
+Ho Man Tin Leisure Pool
+
 Jordan Valley Leisure Pool
 
 Kennedy Town Swimming Pool
@@ -38,7 +40,7 @@ Victoria Park Swimming Pool
 
 Wan Chai Training Pool
 
-(Added 21 of 1973 s. 19. Amended L.N. 199 of 1975; L.N. 129 of 1977; L.N. 248 of 1977; L.N. 255 of 1980; L.N. 360 of 1984; L.N. 277 of 1985; L.N. 328 of 1985; 10 of 1986 s. 31; L.N. 53 of 1989; L.N. 536 of 1995)
+(Added 21 of 1973 s. 19. Amended L.N. 199 of 1975; L.N. 129 of 1977; L.N. 248 of 1977; L.N. 255 of 1980; L.N. 360 of 1984; L.N. 277 of 1985; L.N. 328 of 1985; 10 of 1986 s. 31; L.N. 53 of 1989; L.N. 536 of 1995; L.N. 261 of 1999)
 
 Regional Council Area
 
