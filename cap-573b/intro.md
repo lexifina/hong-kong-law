@@ -1,0 +1,5 @@
+KARAOKE ESTABLISHMENTS (FEES) REGULATION
+
+(Cap. 573, section 21)
+
+[8 January 2003] L.N. 253 of 2002
