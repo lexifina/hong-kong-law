@@ -14,7 +14,7 @@ TERMS, COVENANTS AND CONDITIONS
 
   - (a) either—
 
-    - (i) a period of 10 years has elapsed from the date of the first assignment of the land—
+    - (i) a period of 5 years has elapsed from the date of the first assignment of the land— (Amended L.N. 63 of 1999)
 
       - (A) from the Authority to any purchaser; or
 
@@ -22,7 +22,7 @@ TERMS, COVENANTS AND CONDITIONS
 
     - whichever is the earlier; or
 
-    - (ii) before that period has elapsed, the purchaser has offered to assign the land to the Authority and the Authority or its nominee (other than a prescribed nominee) has declined to accept the assignment; and
+      - (ii) before that period has elapsed, the purchaser has offered to assign the land to the Authority and the Authority or its nominee (other than a prescribed nominee) has declined to accept the assignment; and
 
   - (b) the purchaser has first paid to the Authority the amount of the premium calculated under the following formula—
 
@@ -62,7 +62,7 @@ TERMS, COVENANTS AND CONDITIONS
 
 - 2. Where the purchaser offers to assign the land to the Authority, or a person nominated by the Authority (other than a prescribed nominee), the price shall be—
 
-  - (a) where the purchaser offers to assign the land before the period of 3 years has elapsed from the date of the first assignment of the land—
+  - (a) where the purchaser offers to assign the land before the period of 2 years has elapsed from the date of the first assignment of the land— (Amended L.N. 63 of 1999)
 
     - (i) from the Authority to any purchaser; or
 
@@ -74,7 +74,7 @@ TERMS, COVENANTS AND CONDITIONS
 
     - (B) if there has been any subsequent sale of the land by the Authority or to any purchaser nominated by the Authority (other than a prescribed nominee), the purchase price specified in the last assignment of the land under such a sale;
 
-  - (b) where the purchaser offers to assign the land after a period of not less than 3 years has elapsed from the date of the first assignment of the land—
+  - (b) where the purchaser offers to assign the land after a period of not less than 2 years has elapsed from the date of the first assignment of the land— (Amended L.N. 63 of 1999)
 
     - (i) from the Authority to any purchaser; or
 
@@ -82,9 +82,15 @@ TERMS, COVENANTS AND CONDITIONS
 
   - whichever is the earlier, an amount fixed by the Director who, in fixing that amount, shall have regard to—
 
-    - (A) the price of land, as similar as possible to that to be assigned by the purchaser, being offered for sale, either by the Authority or in respect of which the Authority is authorized to nominate purchasers, at the time of the purchaser’s offer to assign (but excluding the price of relevant land being offered for sale to a prescribed nominee); and
+    - (A) the market value of the land assessed by the Director of Housing at the time of the purchaser’s offer to assign; and (Replaced L.N. 63 of 1999)
 
-    - (B) if no similar land is being offered for sale at that time, the price of similar land last offered for sale. (Replaced L.N. 189 of 1997)
+    - (B) the discount that was afforded to the purchaser at the time of purchase calculated under the following formula—
+
+    - Discount = | Initial Market Value － Purchase Price
+
+    - Initial Market Value
+
+    - Where “Initial Market Value” (最初市值) and “Purchase Price” (買價) have the same meanings respectively assigned to them under paragraph 1(b) of this Schedule. (Replaced L.N. 63 of 1999)
 
 - 3. Against assignment of the land to the Authority, or a person nominated by the Authority (other than a prescribed nominee), the purchaser shall be entitled to receive the price as mentioned in paragraph 2(a) or (b) of this Schedule, less—
 
@@ -106,7 +112,7 @@ TERMS, COVENANTS AND CONDITIONS
 
   - (b) where—
 
-    - (i) before the expiry of 10 years from the date of the first assignment of the land—
+    - (i) before the expiry of 5 years from the date of the first assignment of the land— (Amended L.N. 63 of 1999)
 
       - (A) from the Authority to any purchaser; or
 
@@ -114,7 +120,7 @@ TERMS, COVENANTS AND CONDITIONS
 
     - whichever is the earlier, the purchaser has offered to assign the land to the Authority and the Authority or its nominee (other than a prescribed nominee) has declined to accept such an assignment; or
 
-    - (ii) 10 years has elapsed since the date of the first assignment of the land—
+    - (ii) 5 years has elapsed since the date of the first assignment of the land— (Amended L.N. 63 of 1999)
 
       - (A) from the Authority to any purchaser; or
 
@@ -122,9 +128,9 @@ TERMS, COVENANTS AND CONDITIONS
 
     - whichever is the earlier,
 
-    - enter into an agreement for sale and purchase of the land providing it is a condition of such agreement that the premium as assessed by the Director be paid to the Authority prior to assignment and within 28 days of the date of the agreement or within such period as may be otherwise stipulated by the Director;
+  - enter into an agreement for sale and purchase of the land providing it is a condition of such agreement that the premium as assessed by the Director be paid to the Authority prior to assignment and within 28 days of the date of the agreement or within such period as may be otherwise stipulated by the Director;
 
-  - (c) where 3 years has elapsed since the date of the first assignment of the land—
+  - (c) where 2 years has elapsed since the date of the first assignment of the land— (Amended L.N. 63 of 1999)
 
     - (i) from the Authority to any purchaser; or
 
@@ -154,7 +160,7 @@ TERMS, COVENANTS AND CONDITIONS
 
   - (c) if the purchaser pays the premium as assessed by the Director to the Authority within the time notified under subparagraph (b), the Authority shall deduct an amount equivalent to the administrative fee paid under subparagraph (a) from the premium as assessed;
 
-  - (d) the purchaser may appeal to the Lands Tribunal in accordance with the Lands Tribunal Rules (Cap. 17 sub. leg.) against the Director’s assessment of the prevailing market value of the land within 28 days of the date of notification under subparagraph (b);
+  - (d) the purchaser may appeal to the Lands Tribunal in accordance with the Lands Tribunal Rules (Cap. 17 sub. leg. A) against the Director’s assessment of the prevailing market value of the land within 28 days of the date of notification under subparagraph (b);
 
   - (e) notwithstanding that an appeal to the Lands Tribunal has been lodged, the Director may vary his assessment of the premium at any time prior to the determination of the appeal by the Lands Tribunal.
 
@@ -174,9 +180,7 @@ TERMS, COVENANTS AND CONDITIONS
 
   - (a) where he has paid the assessed premium, pay the amount by which the premium is increased; or
 
-  - (b)
-
-  - where he has not paid the assessed premium, pay the premium as re-assessed by the Lands Tribunal,
+  - (b) where he has not paid the assessed premium, pay the premium as re-assessed by the Lands Tribunal,
 
 - within 28 days of the Lands Tribunal’s decision or such period as the Lands Tribunal orders.
 
