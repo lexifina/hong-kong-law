@@ -86,6 +86,8 @@ Lam Tei Market | 藍地街市
 
 Lau Fau Shan Market | 流浮山街市
 
+Lei Yue Mun Market | 鯉魚門街市 (L.N. 195 of 2002)
+
 Lockhart Road Market | 駱克道街市 (78 of 1999 s. 7)
 
 Luen Wo Hui Market | 聯和墟街市 (L.N. 96 of 2002)
