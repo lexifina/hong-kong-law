@@ -78,6 +78,8 @@ Tai Yuen Street Cooked Food Market | 大圓街熟食市場 (L.N. 49 of 1984)
 
 Tsing Yeung Cooked Food Market | 青楊熟食市場 (L.N. 348 of 1983)
 
+Tsing Yi Market | 青衣街市 (L.N. 185 of 1999)
+
 Tsuen King Circuit Market | 荃景圍街市 (L.N. 348 of 1988)
 
 Tsuen Wan Market | 荃灣街市 (L.N. 168 of 1981)
