@@ -130,11 +130,13 @@ Vulpes (=Fennecus) zerda | Fennec
 
 Ursidae | Ursidae species | Bears, Panda, Lesser Panda
 
-Mustelidae | Conepatus humboldtii | Patagonian Skunk
+Mustelidae | (Replaced L.N. 237 of 2001)
 
-Lutrinae species | Otters
+Lutrinae | Lutrinae species | Otters (Added L.N. 237 of 2001)
 
-Mustela nigripes | Black-footed Ferret
+Mephitinae | Conepatus humboldtii | Patagonian Skunk (Added L.N. 237 of 2001)
+
+Mustelinae | Mustela nigripes | Black-footed Ferret (Added L.N. 237 of 2001)
 
 Viverridae | Cryptoprocta ferox | Fossa
 
@@ -149,8 +151,6 @@ Hemigalus derbyanus | Banded Palm Civet
 Prionodon linsang | Banded Linsang
 
 Prionodon pardicolor | Spotted Linsang
-
-Hyaenidae | Parahyaena (=Hyaena) brunnea | Brown Hyena
 
 Felidae | Felidae species (excluding captive-bred Felis silvestris (=catus)) | Cats except Domestic Cats (e.g. Tigers, Lions, Leopards, Lynxes, Wild Cats)
 
@@ -218,9 +218,9 @@ Moschidae | Moschus species | Musk deer
 
 Cervidae | Axis (=Cervus) porcinus annamiticus | Thai Hog Deer
 
-Axis (=Cervus) porcinus calamianensis | Calamian Hog Deer or Philippine Deer
+Axis calamianensis (=Cervus porcinus calamianensis) | Calamian Hog Deer or Philippine Deer
 
-Axis (=Cervus) porcinus kuhli | Kuhl’s (Hog) Deer
+Axis kuhlii (=Cervus porcinus kuhlii) | Kuhl’s (Hog) Deer
 
 Blastocerus dichotomus | Marsh Deer
 
@@ -245,6 +245,8 @@ Ozotoceros bezoarticus | Pampas Deer
 Pudu mephistophiles | Pudu
 
 Pudu pudu | Chilean Pudu
+
+(Amended L.N. 237 of 2001)
 
 Antilocapridae | Antilocapra americana (population of Mexico) | Pronghorn
 
@@ -282,7 +284,7 @@ Cephalophus silvicultor | Yellow-backed Duiker
 
 Cephalophus zebra | Banded Duiker
 
-Damaliscus pygargus dorcas (=Damaliscus dorcas dorcas) | Bontebok Antelope
+Damaliscus pygargus pygargus (=Damaliscus dorcas dorcas) | Bontebok Antelope
 
 Gazella dama | Addra Gazelle
 
@@ -317,6 +319,8 @@ Pseudoryx nghetinhensis | Vu Quang Ox
 Rupicapra pyrenaica ornata (=Rupicapra rupicapra ornata) | Abruzzi Chamois
 
 Saiga tatarica | Saiga Antelope
+
+(Amended L.N. 237 of 2001)
 
 Aves (Birds)
 
@@ -420,15 +424,17 @@ Megapodiidae | Macrocephalon maleo | Maleo
 
 Cracidae | Crax blumenbachii | Red-billed Curassow
 
-Mitu (=Crax) mitu mitu | Great Razor-billed Curassow
+Mitu mitu (=Crax mitu mitu) | Great Razor-billed Curassow
 
 Oreophasis derbianus | Horned Guan
 
 Penelope albipennis | White-winged Guan
 
-Pipile (=Aburria) jacutinga | Black-fronted Piping Guan
+Pipile jacutinga | Black-fronted Piping Guan
 
-Pipile (=Aburria) pipile pipile | Trinidad White-headed Curassow
+Pipile pipile (=Pipile pipile pipile) | Trinidad White-headed Curassow
+
+(Amended L.N. 237 of 2001)
 
 Phasianidae | Argusianus argus | Great Argus Fowl
 
@@ -596,6 +602,8 @@ Dasyornis broadbenti litoralis | Western Rufous Bristlebird
 
 Dasyornis longirostris (=Dasyornis brachypterus longirostris) | Bristle-Bird
 
+Garrulax canorus | Hwamei or Melodious Laughing Thrush
+
 Leiothrix argentauris | Silver-eared Mesia
 
 Leiothrix lutea | Red-billed Leiothrix
@@ -605,6 +613,8 @@ Liocichla omeiensis | Omei Shan Liocichla
 Picathartes gymnocephalus | White-necked Rockfowl
 
 Picathartes oreas | Grey-necked Rockfowl
+
+(Amended L.N. 237 of 2001)
 
 Zosteropidae | Zosterops albogularis | White-chested White-eye
 
@@ -650,6 +660,8 @@ Clemmys insculpta | Wood Turtle
 
 Clemmys muhlenbergi | Bog Turtle
 
+Cuora species | Asian Box Turtles
+
 Geoclemys hamiltonii | Black Pond Turtle
 
 Kachuga tecta (=Kachuga tecta tecta) | Indian Roofed Turtle
@@ -660,21 +672,25 @@ Morenia ocellata | Burmese Yellow Turtle
 
 Terrapene species | Box Turtles
 
+(Amended L.N. 237 of 2001)
+
 Testudinidae | Testudinidae species | True Tortoises
 
 Cheloniidae | Cheloniidae species | Sea Turtles
 
 Dermochelyidae | Dermochelys coriacea | Leathery Turtle
 
-Trionychidae | Lissemys punctata | India Flapshell Turtle
+Trionychidae | Apalone ater | Mexico Soft-shelled Turtle
 
-Trionyx (=Aspideretes) ater | Mexico Soft-shelled Turtle
+Asperidetes gangeticus | Ganges Soft-shelled Turtle
 
-Trionyx (=Aspideretes) gangeticus | Ganges Soft-shelled Turtle
+Asperidetes hurum | Lower Ganges Soft-shelled Turtle
 
-Trionyx (=Aspideretes) hurum | Lower Ganges Soft-shelled Turtle
+Asperidetes nigricans | Eastern Soft-shelled Turtle
 
-Trionyx (=Aspideretes) nigricans | Eastern Soft-shelled Turtle
+Lissemys punctata | India Flapshell Turtle
+
+(Amended L.N. 237 of 2001)
 
 Pelomedusidae | Erymnochelys madagascariensis | Hidden-necked Turtle
 
@@ -700,7 +716,13 @@ Agamidae | Uromastyx species | Spiny-tailed Lizards
 
 Chamaeleonidae | Bradypodion species | Chameleons
 
+Calumma species | Chameleons
+
 Chamaeleo species | Chameleons
+
+Furcifer species | Chameleons
+
+(Amended L.N. 237 of 2001)
 
 Iguanidae | Amblyrhynchus cristatus | Galapagos Marine Iguana
 
@@ -746,6 +768,10 @@ SERPENTES
 
 Boidae | Boidae species | Boas and Pythons
 
+Bolyeriidae | Bolyeriidae species | Round Island Boas
+
+(Added L.N. 237 of 2001)
+
 Colubridae | Clelia clelia (=Pseudoboa cloelia) | Mussurana
 
 Cyclagras (=Hydrodynastes) gigas
@@ -759,6 +785,10 @@ Elapidae | Hoplocephalus bungaroides | Broad-headed Snake
 Naja naja | Asiatic Cobra
 
 Ophiophagus hannah | King Cobra
+
+Pythonidae | Pythonidae species | Pythons
+
+(Added L.N. 237 of 2001)
 
 Viperidae | Vipera ursinii (population of Europe excluding the area which formerly constituted the Union of Soviet Socialist Republics) | Meadow Viper
 
@@ -776,27 +806,45 @@ Cryptobranchidae | Andrias (=Megalobatrachus) species | Giant Salamanders
 
 ANURA
 
-Bufonidae | Atelopus varius zeteki | Tree Frog, Golden Frog
+Bufonidae | Altiphrynoides species
+
+Atelopus varius zeteki | Tree Frog, Golden Frog
 
 Bufo periglenes | Golden Toad
-
-Bufo retiformis | Sonoran Green Toad
 
 Bufo superciliaris | Cameroon Toad
 
 Nectophrynoides species | Live-bearer Toads
 
+Nimbaphrynoides species
+
+Spinophrynoides species
+
+(Amended L.N. 237 of 2001)
+
 Myobatrachidae | Rheobatrachus species | Gastric Brooding Frogs
 
-Dendrobatidae | Dendrobates species | Poison Dart Frogs, Poison-arrow Frogs
+Dendrobatidae | Allobates species
+
+Dendrobates species | Poison Dart Frogs, Poison-arrow Frogs
+
+Epipedobates species
+
+Minyobates species
+
+Phobobates species
 
 Phyllobates species | Poison-arrow Frogs
 
-Ranidae | Mantella aurantiaca | Golden Mantella, Malagasy Golden Frog
+(Amended L.N. 237 of 2001)
 
-Rana hexadactyla | Bullfrog
+Ranidae | Euphlyctis (=Rana) hexadactylus | Bullfrog
 
-Rana tigerina | Indian Bullfrog
+Hoplobatrachus (=Rana) tigerinus | Indian Bullfrog
+
+Mantella species | Mantella Frogs
+
+(Amended L.N. 237 of 2001)
 
 Microhylidae | Dyscophus antongilii
 
@@ -808,7 +856,9 @@ Ceratodontidae | Neoceratodus forsteri | Australian Lungfish
 
 COELACANTHIFORMES
 
-Latimeriidae | Latimeria chalumnae | Coelacanth
+Latimeriidae | Latimeria species | Coelacanth
+
+(Amended L.N. 237 of 2001)
 
 ACIPENSERIFORMES | ACIPENSERIFORMES species | Sturgeon
 
@@ -990,13 +1040,17 @@ Column 1 | Column 2 | Column 3
 
 ORDER/Family | Scientific Name | Common Name (for information only)
 
+CHORDATA (Added L.N. 237 of 2001)
+
 Mammalia (Mammals)
 
 CHIROPTERA
 
 Phyllostomidae | Platyrrhinus (=Vampyrops) lineatus | White-lined Bat
 
-EDENTATA
+XENARTHRA
+
+(Replaced L.N. 237 of 2001)
 
 Myrmecophagidae | Tamandua mexicana | Collared Anteater
 
@@ -1060,9 +1114,11 @@ Mustelidae | Eira barbara | Tayra
 
 Galictis vittata (=allamandi) | Greater Grison
 
-Martes flavigula (=gwatkinsii) | Yellow-throated Marten
+Martes flavigula | Yellow-throated Marten
 
 Martes foina intermedia | Central Asian Stone Marten
+
+Martes gwatkinsii
 
 Mellivora capensis | Honey Badger
 
@@ -1073,6 +1129,8 @@ Mustela erminea ferghanae | Ermine
 Mustela kathiah | Yellow-bellied Weasel
 
 Mustela sibirica (excluding captive— bred animals) | Siberian Weasel
+
+(Amended L.N. 237 of 2001)
 
 Viverridae | Arctictis binturong | Binturong
 
@@ -1103,8 +1161,6 @@ Herpestes urva | Crab-eating Mongoose
 Herpestes vitticollis | Stripe-necked Mongoose
 
 Hyaenidae | Proteles cristatus | Aardwolf
-
-PINNIPEDIA
 
 Odobenidae | Odobenus rosmarus | Walrus
 
@@ -1500,8 +1556,22 @@ Crotalus durissus | Neotropical Rattle Snake
 
 Vipera russellii | Russell’s Viper
 
-(Part 2 added L.N. 69 of 1998. Amended L.N. 38 of 1999)
+Pisces (Fish)
+
+LAMNIFORMES
+
+Cetorhinidae | Cetorhinus maximus | Basking Shark
+
+(Added L.N. 237 of 2001)
+
+ARTHROPODA Insecta (Insects)
+
+COLEOPTERA
+
+Lucanidae | Colophon species
+
+(Added L.N. 237 of 2001) (Part 2 added L.N. 69 of 1998. Amended L.N. 38 of 1999)
 
 Note In this Schedule, the species of an order, family, subfamily or genus means all the species of that order, family, subfamily or genus.
 
-(Schedule 1 replaced L.N. 341 of 1995)
+(Schedule 1 replaced L.N. 341 of 1995. Amended L.N. 237 of 2001)

@@ -30,13 +30,13 @@ APOCYNACEAE | Pachypodium species | Elephant’s trunks
 
 Rauvolfia serpentina (excluding chemical derivatives)
 
-ARALIACEAE | Panax quinquefolius (root or any part thereof) | American Ginseng
+ARALIACEAE | Panax ginseng (population of Russian Federation) (root or any part thereof) | Asian Ginseng
+
+Panax quinquefolius (root or any part thereof) | American Ginseng
+
+(Amended L.N. 237 of 2001)
 
 ARAUCARIACEAE | Araucaria araucana | Chile Pine or Money Puzzle
-
-ASCLEPIADACEAE | Ceropegia species | Rosary vines
-
-Frerea indica | Milkweed
 
 BERBERIDACEAE | Podophyllum hexandrum (=Podophyllum emodi =Sinopodophyllum hexandrum) (excluding chemical derivatives)
 
@@ -54,13 +54,9 @@ Tillandsia sucrei
 
 Tillandsia xerographica
 
-BYBLIDACEAE | Byblis species | Byblis
-
 CACTACEAE | CACTACEAE species | Cacti
 
 CARYOCARACEAE | Caryocar costaricense
-
-CEPHALOTACEAE | Cephalotus follicularis | Albany Pitcher-plant
 
 COMPOSITAE | Saussurea costus (=lappa) | Costas
 
@@ -74,21 +70,23 @@ CUPRESSACEAE | Fitzroya cupressoides
 
 Pilgerodendron uviferum | Alerce
 
-CYATHEACEAE | CYATHEACEAE species | Tree Ferns
+CYATHEACEAE | Cyathea species (including genera Alsophila, Nephelea, Sphaeropteris and Trichipteris) | Tree Ferns
+
+(Amended L.N. 237 of 2001)
 
 CYCADACEAE | CYCADACEAE species | Cycads
 
 DIAPENSIACEAE | Shortia galacifolia | Oconeebells
 
-DICKSONIACEAE | DICKSONIACEAE species | Dicksonia Tree Ferns
+DICKSONIACEAE | Cibotium barometz Dicksonia species (populations of the Americas) | Golden Haired Dog Fern Tree Ferns
+
+(Amended L.N. 237 of 2001)
 
 DIDIEREACEAE | DIDIEREACEAE species | Tree Ferns
 
 DIOSCOREACEAE | Dioscorea deltoidea | Elephant’s Foot
 
 DROSERACEAE | Dionaea muscipula | Venus Fly-Trap
-
-ERICACEAE | Kalmia cuneata | Whitewicky Kalmia
 
 EUPHORBIACEAE | Euphorbia species (excluding species that are not succulent) | Euphorbia
 
@@ -118,6 +116,10 @@ NEPENTHACEAE | Nepenthes species | Pitcher-plants
 
 ORCHIDACEAE | ORCHIDACEAE species (Includes families Apostasiaceae and Cypripediaceae as subfamilies Apostasioideae and Cypripedioideae) | Orchids
 
+OROBANCHACEAE | Cistanche deserticola (root or any part thereof) | Desert-living Cistanche
+
+(Added L.N. 237 of 2001)
+
 PALMAE (ARECACEAE) | Chrysalidocarpus decipiens | Butterfly Palm
 
 Neodypsis decaryi
@@ -128,13 +130,13 @@ PODOCARPACEAE | Podocarpus parlatorei | Parlatore’s Podocarp
 
 PORTULACACEAE | Anacampseros species | Purselanes
 
-Lewisia cotyledon
+Avonia species
 
 Lewisia maguirei
 
 Lewisia serrata
 
-(Amended L.N. 38 of 1999)
+(Amended L.N. 38 of 1999; L.N. 237 of 2001)
 
 PRIMULACEAE | Cyclamen species | Cyclamens
 
@@ -142,23 +144,27 @@ PROTEACEAE | Orothamnus zeyheri | Marsh Rose
 
 Protea odorata
 
-RANUNCULACEAE | Hydrastis canadensis (root or any part thereof)
+RANUNCULACEAE | Adonis vernalis | Spring Adonis
 
-(Added L.N. 38 of 1999)
+Hydrastis canadensis (root or any part thereof)
+
+(Added L.N. 38 of 1999. Amended L.N. 237 of 2001)
 
 ROSACEAE | Prunus africana | Red Stinkwood or African Cherry
 
 RUBIACEAE | Balmea stormiae | Ayugue
 
-SARRACENIACEAE | Darlingtonia californica | California Pitcher-plant
-
-Sarracenia species | Pitcher Plants
+SARRACENIACEAE | Sarracenia species | Pitcher Plants
 
 SCROPHULARIACEAE | Picrorhiza kurrooa (root or any part thereof) | Picrorhiza
 
 (Added L.N. 38 of 1999)
 
-STANGERIACEAE | Stangeria eriopus (=paradoxa) | Cycad
+STANGERIACEAE | Bowenia species
+
+Stangeria eriopus (=paradoxa) | Cycad
+
+(Amended L.N. 237 of 2001)
 
 TAXACEAE | Taxus wallichiana (=baccata ssp. wallichiana) | Himalayan Yew
 
@@ -182,7 +188,7 @@ Guaiacum sanctum | Holywood or Lignumvitae
 
 Note In this Part, the specification of a plant in column 2— (a) does not include the specification of its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro; (b) includes the specification of an artificially propagated plant, its parts and derivatives other than its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro and cut flowers. (Replaced L.N. 164 of 2000)
 
-(Part 1 amended L.N. 38 of 1999)
+(Part 1 amended L.N. 38 of 1999; L.N. 237 of 2001)
 
 PART 2
 
@@ -192,17 +198,25 @@ ORDER/Family | Scientific Name | Common Name (for information only)
 
 GNETACEAE | Gnetum montanum | Gnetum
 
-MAGNOLIACEAE | Magnolia hodgsonii
+MAGNOLIACEAE | Magnolia liliifera var. obovata (=Magnolia hodgsonii) (=Magnolia candollii var. obovata)
 
-MELIACEAE | Swietenia macrophylla (logs, sawn wood and veneer sheets only) | Big Leaf Mahogany
+(Amended L.N. 237 of 2001)
 
-(Added L.N. 38 of 1999)
+MELIACEAE | Cedrela odorata (logs, sawn wood and veneer sheets only)
+
+Swietenia macrophylla (logs, sawn wood and veneer sheets only) | Big Leaf Mahogany
+
+(Added L.N. 38 of 1999. Amended L.N. 237 of 2001)
 
 PAPAVERACEAE | Meconopsis regia
 
 PODOCARPACEAE | Podocarpus neriifolius | Thitmin
 
 TETRACENTRACEAE | Tetracentron sinense
+
+THYMELAEACEAE | Gonystylus species
+
+(Added L.N. 237 of 2001)
 
 Note In this Part, the specification of a plant in column 2— (a) does not include the specification of its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro; (b) includes the specification of an artificially propagated plant, its parts and derivatives other than its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro and cut flowers. (Replaced L.N. 164 of 2000)
 

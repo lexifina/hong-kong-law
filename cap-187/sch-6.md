@@ -198,6 +198,8 @@ Eschrichtiidae | Eschrichtius robustus (=glaucus) | Grey Whale
 
 Balaenopteridae | Balaenoptera acutorostrata (excluding population of West Greenland) | Minke Whale
 
+Balaenoptera bonaerensis
+
 Balaenoptera borealis | Sei Whale
 
 Balaenoptera edeni | Bryde’s Whale
@@ -206,7 +208,7 @@ Balaenoptera musculus | Blue Whale
 
 Balaenoptera physalus | Fin Whale
 
-Megaptera novaeangliae | Humpback Whale
+Megaptera novaeangliae | Humpback Whale (Amended L.N. 237 of 2001)
 
 Balaenidae | Balaena mysticetus | Greenland Right Whale
 
@@ -236,7 +238,11 @@ Ursus arctos isabellinus | Himalayan Brown Bear
 
 Ursus (=Selenarctos) thibetanus | Asiatic Black Bear
 
-Mustelidae | Aonyx congicus (=Aonyx microdon =Paraonyx microdon) (populations of Cameroon and Nigeria) | Cameroon Clawless Otter
+Mustelidae
+
+(Replaced L.N. 237 of 2001)
+
+Lutrinae | Aonyx congicus (=Aonyx microdon =Paraonyx microdon) (populations of Cameroon and Nigeria) | Cameroon Clawless Otter
 
 Enhydra lutris nereis | Southern Sea Otter
 
@@ -248,9 +254,9 @@ Lontra (=Lutra) provocax | Southern River Otter
 
 Lutra lutra | Eurasian Otter
 
-Mustela nigripes | Black-footed Ferret
+Pteronura brasiliensis | Giant Otter (Added L.N. 237 of 2001)
 
-Pteronura brasiliensis | Giant Otter
+Mustelinae | Mustela nigripes | Black-footed Ferret (Added L.N. 237 of 2001)
 
 Viverridae | Prionodon pardicolor | Spotted Linsang
 
@@ -310,13 +316,13 @@ PROBOSCIDEA
 
 Elephantidae | Elephas maximus | Asian Elephant
 
-Loxodonta africana (excluding populations of Botswana, Namibia and Zimbabwe) | African Elephant
+Loxodonta africana (excluding populations of Botswana, Namibia, South Africa and Zimbabwe) | African Elephant
 
-(Amended L.N. 38 of 1999)
+(Amended L.N. 38 of 1999; L.N. 237 of 2001)
 
 SIRENIA
 
-Dugongidae | Dugong dugon (excluding population of Australia) | Dugong
+Dugongidae | Dugong dugon | Dugong (Amended L.N. 237 of 2001)
 
 Trichechidae | Trichechus inunguis | Amazonian Manatee
 
@@ -354,9 +360,9 @@ Moschidae | Moschus species (populations of Afghanistan, Bhutan, India, Myanmar,
 
 Cervidae | Axis (=Cervus) porcinus annamiticus | Thai Hog Deer
 
-Axis (=Cervus) porcinus calamianensis | Calamian Hog Deer or Philippine Deer
+Axis calamianensis (=Cervus porcinus calamianensis) | Calamian Hog Deer or Philippine Deer
 
-Axis (=Cervus) porcinus kuhli | Kuhl’s (Hog) Deer
+Axis kuhlii (=Cervus porcinus kuhlii) | Kuhl’s (Hog) Deer
 
 Blastocerus dichotomus | Marsh Deer
 
@@ -420,7 +426,7 @@ Ovis ammon nigrimontana | Kara Tau Argali
 
 Ovis orientalis ophion (=Ovis aries ophion) | Cyprian Mouflon
 
-Ovis vignei | Urial or Shapo
+Ovis vignei vignei | Urial or Shapo
 
 Pantholops hodgsoni | Chiru or Tibetan Antelope
 
@@ -428,7 +434,7 @@ Pseudoryx nghetinhensis | Vu Quang Ox
 
 Rupicapra pyrenaica ornata (=Rupicapra rupicapra ornata) | Abruzzi Chamois
 
-(Amended L.N. 38 of 1999)
+(Amended L.N. 38 of 1999; L.N. 237 of 2001)
 
 Aves (Birds)
 
@@ -438,7 +444,9 @@ Struthionidae | Struthio camelus (populations of Algeria, Burkina Faso, Cameroon
 
 RHEIFORMES
 
-Rheidae | Rhea (=Pterocnemia) | Darwin’s Rhea pennata
+Rheidae | Rhea (=Pterocnemia) pennata (excluding population of Rhea pennata pennata of Argentina) | Darwin’s Rhea
+
+(Amended L.N. 237 of 2001)
 
 TINAMIFORMES
 
@@ -532,15 +540,15 @@ Megapodiidae | Macrocephalon maleo | Maleo
 
 Cracidae | Crax blumenbachii | Red-billed Curassow
 
-Mitu (=Crax) mitu mitu | Great Razor-billed Curassow
+Mitu mitu (=Crax mitu mitu) | Great Razor-billed Curassow
 
 Oreophasis derbianus | Horned Guan
 
 Penelope albipennis | White-winged Guan
 
-Pipile (=Aburria) jacutinga | Black-fronted Piping Guan
+Pipile jacutinga | Black-fronted Piping Guan
 
-Pipile (=Aburria) pipile pipile | Trinidad White-headed Curassow
+Pipile pipile (=Pipile pipile pipile) | Trinidad White-headed Curassow (Amended L.N. 237 of 2001)
 
 Phasianidae | Catreus wallichii | Cheer Pheasant
 
@@ -692,6 +700,8 @@ Cyclopsitta (=Opopsitta) diophthalma coxeni | Coxen’s Doubled-eyed Fig Parrot
 
 Eos histrio | Red-and-blue Lory
 
+Eunymphicus cornutus | Horned Parakeet
+
 Geopsittacus (=Pezoporus) occidentalis | Night Parrot
 
 Neophema chrysogaster | Orange-bellied Parrot
@@ -720,7 +730,7 @@ Strigops habroptilus | Kakapo
 
 Vini ultramarina | Ultramarine Lorikeet
 
-(Amended L.N. 38 of 1999)
+(Amended L.N. 38 of 1999; L.N. 237 of 2001)
 
 STRIGIFORMES
 
@@ -824,13 +834,15 @@ Cheloniidae | Cheloniidae species | Sea Turtles
 
 Dermochelyidae | Dermochelys coriacea | Leathery Turtle
 
-Trionychidae | Trionyx (=Aspideretes) ater | Mexico Soft-shelled Turtle
+Trionychidae | Apalone ater | Mexico Soft-shelled Turtle
 
-Trionyx (=Aspideretes) gangeticus | Ganges Soft-shelled Turtle
+Asperidetes gangeticus | Ganges Soft-shelled Turtle
 
-Trionyx (=Aspideretes) hurum | Lower Ganges Soft-shelled Turtle
+Asperidetes hurum | Lower Ganges Soft-shelled Turtle
 
-Trionyx (=Aspideretes) nigricans | Eastern Soft-shelled Turtle
+Asperidetes nigricans | Eastern Soft-shelled Turtle
+
+(Amended L.N. 237 of 2001)
 
 Chelidae | Pseudemydura umbrina | Snake-necked Turtle
 
@@ -902,19 +914,19 @@ Boidae | Acrantophis species | Madagascar Boas
 
 Boa (=Constrictor) constrictor occidentalis | Argentina Boa Constrictor
 
-Bolyeria multocarinata | Round Island Boa
-
-Casarea dussumieri | Keel-scaled Boa
-
 Epicrates inornatus | Puerto Rican Boa
 
 Epicrates monensis | Mona Island Boa
 
 Epicrates subflavus | Jamaican Boa
 
-Python molurus molurus (=pimbura) | Indian Rock Python
+Sanzinia madagascariensis | Madagascar Tree Boa (Replaced L.N. 237 of 2001)
 
-Sanzinia madagascariensis | Madagascar Tree Boa
+Bolyeriidae | Bolyeria multocarinata | Round Island Boa
+
+Casarea dussumieri | Keel-scaled Boa (Added L.N. 237 of 2001)
+
+Pythonidae | Python molurus molurus (=pimbura) | Indian Rock Python (Added L.N. 237 of 2001)
 
 Viperidae | Vipera ursinii (population of Europe, except the area which formerly constituted the Union of Soviet Socialist Republics) | Meadow Viper
 
@@ -926,7 +938,9 @@ Cryptobranchidae | Andrias (=Megalobatrachus) species | Giant Salamanders
 
 ANURA
 
-Bufonidae | Atelopus varius zeteki | Tree Frog, Golden Frog
+Bufonidae | Altiphrynoides species
+
+Atelopus varius zeteki | Tree Frog, Golden Frog
 
 Bufo periglenes | Golden Toad
 
@@ -934,13 +948,19 @@ Bufo superciliaris | Cameroon Toad
 
 Nectophrynoides species | Live-bearer Toads
 
+Nimbaphrynoides species
+
+Spinophrynoides species | (Amended L.N. 237 of 2001)
+
 Microhylidae | Dyscophus antongilii
 
 Pisces (Fish)
 
 COELACANTHIFORMES
 
-Latimeriidae | Latimeria chalumnae | Coelacanth
+Latimeriidae | Latimeria species | Coelacanth
+
+(Amended L.N. 237 of 2001)
 
 ACIPENSERIFORMES
 
@@ -1054,7 +1074,9 @@ Pachypodium baronii
 
 Pachypodium decaryi
 
-ARAUCARIACEAE | Araucaria araucana (population of Chile) | Chile Pine or Monkey Puzzle
+ARAUCARIACEAE | Araucaria araucana (populations of Argentina and Chile) | Chile Pine or Monkey Puzzle
+
+(Amended L.N. 237 of 2001)
 
 CACTACEAE | Ariocarpus species
 
@@ -1066,9 +1088,7 @@ Coryphantha werdermannii | Jabali Pincushion Cactus
 
 Discocactus species
 
-Disocactus (=Lobeira =Nopalxochia) macdougallii | Mac Dongal’s Cactus
-
-Echinocereus ferreirianus var. lindsayi (=Echinocereus lindsayi) | Lindsay’s Cactus
+Echinocereus ferreirianus ssp. lindsayi (=Echinocereus lindsayi) | Lindsay’s Cactus
 
 Echinocereus (=Wilcoxia) schmollii
 
@@ -1092,9 +1112,7 @@ Obregonia denegrii | Artichoke Cactus
 
 Pachycereus (=Backebergia) militaris | Teddy-bear Cactus
 
-Pediocactus (=Toumeya) bradyi | Bradys Pincushion Cactus
-
-Pediocactus despainii | Despain’s Cactus
+Pediocactus (=Toumeya) bradyi (=Pediocactus despainii=Pediocactus simpsonii ssp. bradyi=Pediocactus winkleri) | Bradys Pincushion Cactus
 
 Pediocactus (=Toumeya) knowltonii | Knowlton’s Cactus or Knowiocactus
 
@@ -1104,11 +1122,9 @@ Pediocactus (=Toumeya) peeblesianus | Peebles’ Navajo Cactus
 
 Pediocactus sileri | Silver’s Pincushion Cactus
 
-Pediocactus winkleri | Winkler’s Cactus
-
 Pelecyphora species
 
-Sclerocactus brevihamatus (=Ancistrocactus tobuschii) | Tobusch’s Fishhook Cactus
+Sclerocactus (=Pediocactus) brevihamatus ssp. tobuschii (=Ancistrocactus tobuschii=Ferocactus tobuschii) | Tobusch’s Fishhook Cactus
 
 Sclerocactus (=Neolloydia =Echinomastus) erectocentrus | Needle-spined Pineapple Cactus
 
@@ -1124,17 +1140,17 @@ Sclerocactus pubispinus | Great Basin Fishhook Cactus
 
 Sclerocactus wrightiae | Wright’s Fishhook Cactus
 
-Strombocactus disciformis
+Strombocactus species
 
 Turbinicarpus (=Neolloydia) species | Turbinicacti
 
-Uebelmannia species
+Uebelmannia species | (Amended L.N. 237 of 2001)
 
 COMPOSITAE (ASTERACEAE) | Saussurea costus (=lappa) | Costas
 
-CRASSULACEAE | Dudleya stolonifera
+CRASSULACEAE | Dudleya traskiae
 
-Dudleya traskiae
+(Amended L.N. 237 of 2001)
 
 CUPRESSACEAE | Fitzroya cupressoides
 
@@ -1143,6 +1159,8 @@ Pilgerodendron uviferum | Alerce
 CYCADACEAE | Cycas beddomei | Beddomes’s Cycad
 
 EUPHORBIACEAE | Euphorbia ambovombensis | Euphorbia
+
+Euphorbia capsaintemariensis (=decaryi var. capsaintemariensis)
 
 Euphorbia cremersii
 
@@ -1158,7 +1176,7 @@ Euphorbia parvicyathophora
 
 Euphorbia quartziticola
 
-Euphorbia tulearensis (=Euphorbia capsaintemariensis var. tulearensis)
+Euphorbia tulearensis (=Euphorbia capsaintemariensis var. tulearensis) | (Amended L.N. 237 of 2001)
 
 FOUQUIERIACEAE | Fouquieria fasciculata
 
@@ -1178,7 +1196,7 @@ Aloe bellatula
 
 Aloe calcairophila
 
-Aloe compressa (including var. rugosquamosa and schistophila)
+Aloe compressa (including var. rugosquamosa, schistophila and paucituberculata)
 
 Aloe delphinensis
 
@@ -1208,7 +1226,7 @@ Aloe thorncroftii
 
 Aloe versicolor
 
-Aloe vossii
+Aloe vossii | (Amended L.N. 237 of 2001)
 
 NEPENTHACEAE | Nepenthes khasiana | Pitcher Plants
 
