@@ -1,0 +1,5 @@
+FOREIGN LAWYERS REGISTRATION (FEES) RULES
+
+(Cap. 159, section 73)
+
+[25 November 1994]
