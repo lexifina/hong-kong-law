@@ -54,22 +54,30 @@
 
   - 8.
 
-    - (1) There shall not be taken into account the following amount—
+    - (1) An amount equivalent to the 35-percentile household expenditure shall not be taken into account in relation to the person concerned and his dependants, if any.
 
-      - (a) if the person concerned has no dependant, an amount equivalent to the current standard rate for a single person able-bodied adult under the Scheme;
+    - (2) For the purposes of this rule—
 
-      - (b) if the person concerned has one or more dependants, an amount equivalent to the sum of—
+      - (a)
 
-        - (i) the current standard rate for a family member able-bodied adult under the Scheme; and
+        - the expression “35-percentile household expenditure” (住戶開支第35個百分值) means the level of expenditure of households of a particular size, excluding expenditure for rent, as obtained in the 5-yearly Household Expenditure Survey conducted by the Census and Statistics Department, so that 35% of the households of that size have household expenditure below that level and 65% of the households have household expenditure above that level;
 
-        - (ii) the number of dependants times the current standard rate for a family member able-bodied adult under the Scheme. (L.N. 241 of 1993)
+      - (b) the household expenditure obtained in the 1994-1995 Household Expenditure Survey shall, until the results of the next Household Expenditure Survey are obtained, be adjusted in accordance with subparagraph (c), on the coming into operation of the Legal Aid (Assessment of Resources and Contributions) (Amendment) Regulation 2000 (L.N. 148 of 2000) ;
 
-    - (1A) In this rule—
+      - (c) the amount that, in any particular year, shall not be taken into account for a particular household size shall be calculated in February of that particular year according to the following formula rounded to the nearest $10 amount— Ei × CPI(A) excluding rent component, j-l
 
-      - “current standard rate” (現行標準金額) means the standard rate in force on the date of application;
+    - 100
 
-      - “Scheme” (援助計劃) means the Comprehensive Social Security Assistance Scheme administered by the Director of Social Welfare. (L.N. 241 of 1993)
+    - Where—
 
-    - (2) In ascertaining whether a person is a dependant regard shall be had to his income and other resources.
+      - (i) “Ei” is the 35-percentile household expenditure (excluding expenditure for rent) for a particular household size “i” based on the results of the latest round of the Household Expenditure Survey conducted by the Census and Statistics Department;
+
+      - (ii) “CPI(A) excluding rent component, j-l” is the average monthly Consumer Price Index (A) which excludes the result derived from the item for “rent, including rates and government rents” in year “j-l”, with the base period of the Index being the same as the survey period of the Household Expenditure Survey mentioned in sub-subparagraph (i);
+
+      - (iii) “j” represents that particular year;
+
+      - (d) only the person concerned and his dependants, if any, are to be taken into account in determining the size of household; and
+
+      - (e) in ascertaining whether a person is a dependant, regard shall be had to his income and other resources. (L.N. 148 of 2000)
 
   - (L.N. 105 of 1988)

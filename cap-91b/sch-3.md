@@ -1,86 +1,82 @@
 # SCHEDULE 3
 
-[regs. 13 & 14]
+[regs. 8A, 13 & 14] (L.N. 148 of 2000)
 
 CONTRIBUTIONS
 
 - PART I The maximum contribution of an aided person under section 18(1)(b) of the Ordinance shall—
 
-  - (a) if his financial resources do not exceed $86,000, be nil;
+  - (a) if his financial resources do not exceed $20,000, be nil; (L.N. 148 of 2000)
 
-  - (b) except as provided in subparagraph (c), if his financial resources exceed the amount indicated in column A but do not exceed the amount indicated opposite in column B, be the percentage of his financial resources indicated opposite in column C as follows—
+  - (b) except as provided in subparagraph (c), if his financial resources exceed the amount indicated in column A but do not exceed the amount indicated opposite in column B, be the amount or, as the case may be, the percentage of his financial resources indicated opposite in column C as follows—
 
   - A | B | C
 
   - If his financial resources exceed | But do not exceed | Then, in relation to his financial resources, his maximum contribution is
 
-  - $86,000 | $94,300 | 10%
+  - $20,000 | $40,000 | $1,000
 
-  - $94,300 | $104,900 | 15%
+  - $40,000 | $60,000 | $2,000
 
-  - $104,900 | $121,400 | 20%
+  - $60,000 | $80,000 | 5%
 
-  - $121,400 | $129,600 | 25%
+  - $80,000 | $100,000 | 10%
 
-  - $129,600 | $139,100 | 30%
+  - $100,000 | $120,000 | 15%
 
-  - $139,100 | $147,300 | 34%
+  - $120,000 | $144,000 | 20%
 
-  - $147,300 | $155,600 | 38%
+  - $144,000 | $169,700 | 25%;
 
-  - $155,600 | $163,800 | 41%
-
-  - $163,800 | $169,700 | 43%; and
+- and (L.N. 148 of 2000)
 
   - (c) if his certificate is for proceedings in which a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383) or an inconsistency with the International Convenant on Civil and Political Rights as applied to Hong Kong is an issue and—
 
-    - (i) if his financial resources exceed the amount indicated in column A but do not exceed the amount indicated opposite in column B, be the percentage of his financial resources indicated opposite in column C as follows—
+    - (i) if his financial resources exceed the amount indicated in column A but do not exceed the amount indicated opposite in column B, be the amount or, as the case may be, the percentage of his financial resources indicated opposite in column C as follows—
 
     - A | B | C
 
     - If his financial resources exceed | But do not exceed | Then, in relation to his financial resources, his maximum contribution is
 
-    - $86,000 | $94,300 | 10%
+    - $20,000 | $40,000 | $1,000
 
-    - $94,300 | $104,900 | 15%
+    - $40,000 | $60,000 | $2,000
 
-    - $104,900 | $121,400 | 20%
+    - $60,000 | $80,000 | 5%
 
-    - $121,400 | $129,600 | 25%
+    - $80,000 | $100,000 | 10%
 
-    - $129,600 | $139,100 | 30%
+    - $100,000 | $120,000 | 15%
 
-    - $139,100 | $147,300 | 34%
+    - $120,000 | $144,000 | 20%
 
-    - $147,300 | $155,600 | 38%
+    - $144,000 | $169,700 | 25%
 
-    - $155,600 | $163,800 | 41%
+    - $169,700 | $269,700 | 30%
 
-    - $163,800 | $284,100 | 43%
+    - $269,700 | $369,700 | 35%
 
-    - $284,100 | $425,600 | 46%
+    - $369,700 | $469,700 | 40%
 
-    - $425,600 | $568,200 | 49%
+    - $469,700 | $569,700 | 45%
 
-    - $568,200 | $709,700 | 52%
+    - $569,700 | $669,700 | 50%
 
-    - $709,700 | $852,400 | 55%
+    - $669,700 | $769,700 | 55%
 
-    - $852,400 | $993,800 | 58%
+    - $769,700 | $869,700 | 60%
 
-    - $993,800 | $1,136,500 | 61%
+    - $869,700 | $1,200,000 | 65%; or
 
-    - $1,136,500 | $1,278,000 | 64%; or
-
-    - (ii) if his financial resources exceed $1,278,000, be 67% of his financial resources.
+    - (ii) if his financial resources exceed $1,200,000, be 67% of his financial resources. (L.N. 148 of 2000)
 
 - (L.N. 85 of 1997)
 
-- PART II (Repealed L.N.195 of 1992)
+- PART II (Repealed L.N. 195 of 1992)
 
 - PART III CONTRIBUTIONS UNDER THE SUPPLEMENTARY LEGAL AID SCHEME
 
-  - 3. Where a claim proceeds to judgment the rate of contribution is 15%. (L.N.353 of 1995)
+  - 3. Where a claim proceeds to judgment the rate of contribution is 12%. (L.N. 353 of 1995; L.N. 148 of 2000)
 
   - 4. Where a claim is settled prior to judgment the rate of contribution shall be reduced as follows—
 

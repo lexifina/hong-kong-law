@@ -1,10 +1,8 @@
 # SCHEDULE 2
 
-[regs. 4(b) & 7(1)]
+[reg. 4(b)] (L.N. 148 of 2000)
 
 RULES FOR COMPUTING DISPOSABLE CAPITAL
-
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
 
 - 1. Subject to the provisions of these regulations or rules, there shall be included in the computation of the amount of the capital of the person concerned the amount or value of every resource of a capital nature ascertained as on the date of the application:
 
@@ -60,7 +58,7 @@ RULES FOR COMPUTING DISPOSABLE CAPITAL
 
   - (a) the amount of any moneys paid to him from the assistance fund established under section 3 of the Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229);
 
-  - (b) the amount of any interim payment made to him in accordance with an order made under the Rules of the High Court (Cap. 4 sub. leg.), or in accordance with an agreement having the same effect as such an order; and (25 of 1998 s. 2)
+  - (b) the amount of any interim payment made to him in accordance with an order made under the Rules of the High Court (Cap. 4 sub. leg. A), or in accordance with an agreement having the same effect as such an order; and (25 of 1998 s. 2)
 
   - (c) such amount or value, if any, of a donation or gift received by him, as the Director considers to be reasonable having regard to the amount, value and nature of the donation or gift.
 
