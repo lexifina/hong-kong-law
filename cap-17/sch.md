@@ -45,3 +45,5 @@ Chapter Short title
 - 488. Block Crown Lease (Cheung Chau) Ordinance. (Added 97 of 1995 s. 11)
 
 - 515. Government Rent (Assessment and Collection) Ordinance. (Added 53 of 1997 s. 48)
+
+- 519. Railways Ordinance. (Added 59 of 1997 s. 46)
