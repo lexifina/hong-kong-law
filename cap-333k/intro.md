@@ -1,0 +1,5 @@
+SECURITIES (EXCHANGE—TRADED STOCK OPTIONS) RULES
+
+(Cap. 333 sections 80(4)(d) and 146(1))
+
+[18 August 1995]
