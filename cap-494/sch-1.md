@@ -4,340 +4,350 @@
 
 COUNTRIES OR TERRITORIES TO WHICH THE TOKYO CONVENTION APPLIES
 
-Afghanistan
+1. | The Islamic State of Afghanistan
 
-Albania
+2. | The Republic of Albania
 
-Algeria
+3. | The Democratic People’s Republic of Algeria
 
-Angola
+4. | The Republic of Angola
 
-Antigua and Barbuda
+5. | Antigua and Barbuda
 
-Argentina
+6. | The Republic of Argentina
 
-Australia
+7. | The Commonwealth of Australia
 
-Austria
+8. | The Republic of Austria
 
-Bahamas
+9. | The Commonwealth of the Bahamas
 
-Bahrain
+10. | The State of Bahrain
 
-Bangladesh
+11. | The People’s Republic of Bangladesh
 
-Barbados
+12. | Barbados
 
-Belarus
+13. | The Republic of Belarus
 
-Belgium
+14. | The Kingdom of Belgium
 
-Belize
+15. | Belize
 
-Bhutan
+16. | The Kingdom of Bhutan
 
-Bolivia
+17. | The Republic of Bolivia
 
-Bosnia & Herzegovina
+18. | Bosnia and Herzegovina
 
-Botswana
+19. | The Republic of Botswana
 
-Brazil
+20. | The Federative Republic of Brazil
 
-Brunei Darussalam
+21. | Brunei Darussalam
 
-Bulgaria
+22. | The Republic of Bulgaria
 
-Burkina Faso
+23. | The Burkina Faso
 
-Burundi
+24. | The Republic of Burundi
 
-Cambodia
+25. | The Kingdom of Cambodia
 
-Cameroon
+26. | The Republic of Cameroon
 
-Canada
+27. | Canada
 
-Cape Verde
+28. | The Republic of Cape Verde
 
-Central African Republic
+29. | The Central African Republic
 
-Chad
+30. | The Republic of Chad
 
-Chile
+31. | The Republic of Chile
 
-China
+32. | The People’s Republic of China
 
-Colombia
+33. | The Republic of Colombia
 
-Comoros
+34. | The Federal Islamic Republic of the Comoros
 
-Congo
+35. | The Democratic Republic of Congo
 
-Costa Rica
+36. | The Republic of Congo
 
-Cote d’Ivoire
+37. | The Republic of Costa Rica
 
-Croatia
+38. | The Republic of Cote d’Ivoire
 
-Cyprus
+39. | The Republic of Croatia
 
-Czech Republic
+40. | The Republic of Cuba
 
-Democratic People’s Republic of Korea
+41. | The Czech Republic
 
-Democratic Republic of the Congo
+42. | The Kingdom of Denmark
 
-Denmark
+43. | The Republic of Djibouti
 
-Djibouti
+44. | The Dominican Republic
 
-Dominican Republic
+45. | The Republic of Ecuador
 
-Ecuador
+46. | The Arab Republic of Egypt
 
-Egypt
+47. | The Republic of El Salvador
 
-El Salvador
+48. | The Republic of Equatorial Guinea
 
-Equatorial Guinea
+49. | The Republic of Estonia
 
-Estonia
+50. | The Federal Democratic Republic of Ethiopia
 
-Ethiopia
+51. | The Republic of the Fiji Islands
 
-Fiji
+52. | The Republic of Finland
 
-Finland
+53. | The Republic of France
 
-France
+54. | The Gabonese Republic
 
-Gabon
+55. | The Republic of the Gambia
 
-Gambia
+56. | Georgia
 
-Georgia
+57. | The Federal Republic of Germany
 
-Germany
+58. | The Republic of Ghana
 
-Ghana
+59. | Grenada
 
-Greece
+60. | The Republic of Guatemala
 
-Grenada
+61. | The Republic of Guinea
 
-Guatemala
+62. | The Cooperative Republic of Guyana
 
-Guinea
+63. | The Republic of Haiti
 
-Guyana
+64. | The Hellenic Republic (Greece)
 
-Haiti
+65. | The Republic of Honduras
 
-Holy See
+66. | The Republic of Hungary
 
-Honduras
+67. | The Republic of Iceland
 
-Hungary
+68. | The Republic of India
 
-Iceland
+69. | The Republic of Indonesia
 
-India
+70. | The Islamic Republic of Iran
 
-Indonesia
+71. | The Republic of Iraq
 
-Iran, Islamic Republic of
+72. | Ireland
 
-Iraq
+73. | The State of Israel
 
-Ireland
+74. | The Republic of Italy
 
-Israel
+75. | Jamaica
 
-Italy
+76. | Japan
 
-Jamaica
+77. | The Hashemite Kingdom of Jordan
 
-Japan
+78. | The Republic of Kazakhstan
 
-Jordan
+79. | The Republic of Kenya
 
-Kazakhstan
+80. | The Democratic People’s Republic of Korea
 
-Kenya
+81. | The Republic of Korea
 
-Kuwait
+82. | The State of Kuwait
 
-Lao People’s Democratic Republic
+83. | The Kyrghyz Republic
 
-Latvia
+84. | The Lao People’s Democratic Republic
 
-Lebanon
+85. | The Republic of Latvia
 
-Lesotho
+86. | The Republic of Lebanon
 
-Liberia
+87. | The Kingdom of Lesotho
 
-Libyan Arab Jamahiriya
+88. | The Great Socialist People’s Libyan Arab Jamahiriya
 
-Lithuania
+89. | The Principality of Liechtenstein
 
-Luxembourg
+90. | The Republic of Lithuania
 
-Madagascar
+91. | The Grand Duchy of Luxembourg
 
-Malawi
+92. | The Republic of Macedonia
 
-Malaysia
+93. | The Republic of Madagascar
 
-Maldives
+94. | The Republic of Malawi
 
-Mali
+95. | Malaysia
 
-Malta
+96. | The Republic of Maldives
 
-Marshall Islands
+97. | The Republic of Mali
 
-Mauritania
+98. | The Republic of Malta
 
-Mauritius
+99. | The Republic of the Marshall Islands
 
-Mexico
+100. | The Islamic Republic of Mauritania
 
-Monaco
+101. | The Republic of Mauritius
 
-Mongolia
+102. | The Republic of Moldova
 
-Morocco
+103. | The Principality of Monaco
 
-Myanmar
+104. | Mongolia
 
-Nauru
+105. | The Kingdom of Morocco
 
-Nepal
+106. | The Union of Myanmar
 
-Netherlands, Kingdom of the
+107. | The Republic of Nauru
 
-New Zealand
+108. | The Kingdom of Nepal
 
-Nicaragua
+109. | The Kingdom of the Netherlands
 
-Niger
+110. | New Zealand
 
-Nigeria
+111. | The Republic of Nicaragua
 
-Norway
+112. | The Republic of Niger
 
-Oman
+113. | The Federal Republic of Nigeria
 
-Pakistan
+114. | The Kingdom of Norway
 
-Palau
+115. | The Sultanate of Oman
 
-Panama
+116. | The Islamic Republic of Pakistan
 
-Papua New Guinea
+117. | The Republic of Palau
 
-Paraguay
+118. | The Republic of Panama
 
-Peru
+119. | The Independent State of Papua New Guinea
 
-Philippines
+120. | The Republic of Paraguay
 
-Poland
+121. | The Republic of Peru
 
-Portugal
+122. | The Republic of the Philippines
 
-Qatar
+123. | The Republic of Poland
 
-Republic of Korea
+124. | The Portuguese Republic
 
-Republic of Moldova
+125. | The State of Qatar
 
-Romania
+126. | Romania
 
-Russian Federation
+127. | The Russian Federation
 
-Rwanda
+128. | The Republic of Rwanda
 
-Saint Lucia
+129. | Saint Lucia
 
-Saint Vincent and the Grenadines
+130. | Saint Vincent and the Grenadines
 
-Saudi Arabia
+131. | The Independent State of Samoa
 
-Senegal
+132. | The Kingdom of Saudi Arabia
 
-Seychelles
+133. | The Republic of Senegal
 
-Sierra Leone
+134. | The Republic of Seychelles
 
-Singapore
+135. | The Republic of Sierra Leone
 
-Slovakia
+136. | The Republic of Singapore
 
-Slovenia
+137. | The Slovak Republic
 
-Solomon Islands
+138. | The Republic of Slovenia
 
-South Africa
+139. | The Solomon Islands
 
-Spain
+140. | The Republic of South Africa
 
-Sri Lanka
+141. | Spain
 
-Suriname
+142. | The Democratic Socialist Republic of Sri Lanka
 
-Sweden
+143. | The Republic of the Sudan
 
-Switzerland
+144. | The Republic of Suriname
 
-Syrian Arab Republic
+145. | The Kingdom of Swaziland
 
-Tajikistan
+146. | The Kingdom of Sweden
 
-Thailand
+147. | The Swiss Confederation
 
-The Former Yugoslav Republic of Macedonia
+148. | The Republic of Syprus (Cyprus)
 
-Togo
+149. | The Syrian Arab Republic
 
-Trinidad and Tobago
+150. | The Republic of Tajikistan
 
-Tunisia
+151. | The Kingdom of Thailand
 
-Turkey
+152. | The Republic of Togo
 
-Uganda
+153. | The Kingdom of Tonga
 
-Ukraine
+154. | The Republic of Trinidad and Tobago
 
-United Arab Emirates
+155. | The Republic of Tunisia
 
-United Kingdom
+156. | The Republic of Turkey
 
-United Republic of Tanzania
+157. | Turkmenistan
 
-United States
+158. | The Republic of Uganda
 
-Uruguay
+159. | Ukraine
 
-Uzbekistan
+160. | The United Arab Emirates
 
-Vanuatu
+161. | The United Kingdom of Great Britain and Northern Ireland
 
-Venezuela
+162. | The United Republic of Tanzania
 
-Viet Nam
+163. | The United States of America
 
-Western Samoa
+164. | The United States of Mexico
 
-Yemen
+165. | The Oriental Republic of Uruguay
 
-Yugoslavia
+166. | The Republic of Uzbekistan
 
-Zambia
+167. | The Republic of Vanuatu
 
-Zimbabwe
+168. | The Bolivar Republic of Venezuela
 
-(Replaced L.N. 319 of 1998)
+169. | The Socialist Republic of Viet Nam
+
+170. | The Republic of Yemen
+
+171. | The Federal Republic of Yugoslavia
+
+172. | The Republic of Zambia
+
+173. | The Republic of Zimbabwe
+
+(Schedule 1 replaced L.N. 155 of 2002)
