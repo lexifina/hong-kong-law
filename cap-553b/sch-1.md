@@ -131,3 +131,5 @@ Item | Enactment | Provision
 62. | Legislative Council (Formation of Election Committee) (Appeals) Regulation (Cap. 542 sub. leg.) | Sections 2(1) and (2), 3(1), 4(1) and 5(1) and (2)(c)
 
 63. | District Councils Ordinance (Cap. 547) | Sections 15(1), 23(1), 25(1), 34(1)(b), 35(2) and 63(1) and Schedule 5, section 2
+
+64. | Election (Corrupt and Illegal Conduct) Ordinance (Cap. 554) | Section 37(1) and (2) (L.N. 167 of 2000)
