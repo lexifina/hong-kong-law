@@ -16,7 +16,7 @@ Scheduled Offence* | Authority | Public Officer
 
 2, 3, 4 | Director of Housing | Housing Manager Assistant Housing Manager Housing Officer
 
-2, 3, 4, 7 | Director of Leisure and Cultural Services | Amenities Officer Amenities Assistant Senior Foreman Foreman Librarian Manager, Cultural Services Recreation and Sports Officer Leisure Services Manager (Added L.N. 90 of 2002)
+2, 3, 4, 7 | Director of Leisure and Cultural Services | Amenities Officer I Amenities Officer II Senior Amenities Assistant Amenities Assistant I Amenities Assistant II Amenities Assistant III Chief Librarian Senior Librarian Librarian Assistant Librarian Chief Manager, Cultural Services Senior Manager, Cultural Services Manager, Cultural Services Assistant Manager, Cultural Services Assistant Recreation and Sport Officer II Chief Leisure Services Manager Senior Leisure Services Manager Leisure Services Manager Assistant Leisure Services Manager I Assistant Leisure Services Manager II (Amended L.N. 20 of 2005)
 
 7 | Director of Marine | Marine Officer Marine Controller Assistant Marine Controller Senior Assistant Shipping Master Marine Inspector I Marine Inspector II
 
