@@ -50,24 +50,6 @@ FORM 2 NOTICE OF RESULT OF ELECTION FOR FUNCTIONAL CONSTITUENCIES
 
 (L.N. 65 of 2000)
 
-FORM 3 NOTICE OF RESULT OF ELECTION FOR THE ELECTION COMMITTEE
+FORM 3
 
-《選舉管理委員會(選舉程序)(立法會)規例》 ELECTORAL AFFAIRS COMMISSION (ELECTORAL PROCEDURE) (LEGISLATIVE COUNCIL) REGULATION
-
-選舉結果公告 NOTICE OF RESULT OF ELECTION
-
-立法會*換屆選舉/補選 選舉委員會 LEGISLATIVE COUNCIL *GENERAL ELECTION/BY-ELECTION ELECTION COMMITTEE
-
-1. | 於*( 年 月 日)舉行的上述選舉的結果公布如下—— The following is a statement of the result of the above election held on *(date)—
-
-候選人姓名 Name(s) of Candidate(s) | 所得票數 Number of Votes Given to the Candidate
-
-2. | 特此公布下列候選人 * 依據以抽籤方式決定的選舉結果而在選舉委員會選舉中當選—— It is hereby notified that the following candidate(s) *is/are declared to be elected by the Election Committee *pursuant to a result determined by drawing lots—
-
-(當選的候選人姓名) (Name(s) of Candidate(s) Elected)
-
-日期：. Date: . | 選舉委員會的選舉主任 Returning Officer for the Election Committee
-
-* Only the appropriate information will be printed.
-
-(L.N. 65 of 2000)
+(Repealed L.N. 84 of 2004)
