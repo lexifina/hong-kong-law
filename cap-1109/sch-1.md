@@ -16,6 +16,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - “Ordinance” (條例) means The Chinese University of Hong Kong Ordinance (Cap. 1109).
 
+  - “unit” (單位) means an institution established or formed by the Council under section 12 of the Ordinance. (L.N. 25 of 2002)
+
 - STATUTE 2 CONGREGATIONS
 
   - 1. The time, place and procedure of the Congregations of the whole University shall be determined by the Chancellor.
@@ -438,6 +440,12 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (j) to recommend to the Council the institution, abolition or holding in abeyance of all teaching posts and the assignment of teachers to a College after consultation with the Assembly of Fellows (where one has been established) of the College concerned; (L.N. 25 of 1987)
 
+    - (ja) to assign teachers—
+
+      - (i) to Faculties, Departments and Schools of Studies; and
+
+      - (ii) to units, if the Senate thinks it fit in relation to such units; (L.N. 25 of 2002)
+
     - (k) to recommend to the Council external experts to serve as members of Boards of Advisers; (L.N. 100 of 1984)
 
     - (l) to report to the Council on all Statutes and Decrees and proposed changes thereof;
@@ -492,7 +500,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 1. The Vice-Chancellor shall be a member of each Faculty. (L.N. 452 of 1994)
 
-  - 2. Each teacher shall be assigned by the Senate to a Faculty or Faculties and shall be a member of such Faculty or Faculties during the tenure of his appointment.
+  - 2. Each teacher assigned by the Senate to a Faculty or Faculties shall be a member of such Faculty or Faculties during the tenure of his appointment. (L.N. 25 of 2002)
 
   - 3. The members of each Faculty shall elect, in such form and manner as may be determined by the Senate, a Dean of their Faculty from among the members of their Board of Faculty who hold the rank of Senior Lecturer or above; and a Dean so elected shall hold office
 
@@ -608,7 +616,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - (c) all of the teachers assigned to the Department.
 
-    - (2) On the approval of the Senate, teachers of other Departments who contribute substantially to the teaching of students pursuing courses of study within the purview of a Department and are nominated by the Board of the Department become members of the Board.
+    - (2) A teacher, who contributes substantially to the teaching of students pursuing courses of study within the purview of a Department but who is not assigned to that Department, becomes a member of the Board of that Department on being nominated by that Board and approved by the Senate. (L.N. 25 of 2002)
 
     - (3) At the discretion of the Board of the Department, the Board may nominate such students as the Board deems fit as student members for such period as the Board may in its absolute discretion determine, provided that such student members shall not be entitled to participate in that part of meetings considering reserved areas of business or have access to or read papers or any other documents relating thereto. For the purpose of this Statute, reserved areas of business are the same as those referred to in paragraph 5A(b) of Statute 14. The Chairman of the Board may decide in any case of doubt whether or not a matter falls within one of the reserved areas of business referred to above and his decisions shall be final. (L.N. 478 of 1996)
 
@@ -676,7 +684,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (d) the Head of the College to which the appointee will be assigned;
 
-    - (e) the Chairman of the Department in which the appointment is to be made, except that no such Chairman shall serve on a Board that is concerned with a post senior to his own post; and (L.N. 452 of 1994)
+    - (e) the Chairman of the Department or head of the unit in which the appointment is to be made, except that no such Chairman or head shall serve on a Board that is concerned with a post senior to his own post; and (L.N. 452 of 1994; L.N. 25 of 2002)
 
     - (f) 2 external experts.
 
@@ -690,7 +698,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (d) the Head of the College to which the appointee will be assigned;
 
-    - (e) the Chairman of the Department in which the appointment is to be made; and (L.N. 452 of 1994)
+    - (e) the Chairman of the Department or head of the unit in which the appointment is to be made; and (L.N. 452 of 1994; L.N. 25 of 2002)
 
     - (f) if considered necessary or desirable by the Council, one external expert. (L.N. 267 of 1993)
 
@@ -704,7 +712,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (d) the Head of College to which the appointee will be assigned;
 
-    - (e) the Chairman of the Department in which the appointment is to be made. (L.N. 452 of 1994)
+    - (e) the Chairman of the Department or head of the unit in which the appointment is to be made. (L.N. 452 of 1994; L.N. 25 of 2002)
 
   - 5. The Board of Advisers for the appointment of the Librarian shall consist of—
 
@@ -830,11 +838,11 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (1) The University may confer the degrees of Bachelor, Master and Doctor with the designations prescribed in paragraph 2(1) to students who— (L.N. 31 of 1981; L.N. 121 of 1989)
 
-      - (a) have attended an approved course of study;
+    - (a) have attended an approved course of study;
 
-      - (b) have passed the appropriate examination or examinations; and
+    - (b) have passed the appropriate examination or examinations; and
 
-      - (c) have complied in all other respects with the requirements prescribed therefor.
+    - (c) have complied in all other respects with the requirements prescribed therefor.
 
     - (2) The University may confer any of the degrees with the designations prescribed in paragraph 2(2) on any person who has rendered distinguished service in the advancement of any branch of learning or who has otherwise rendered himself worthy of such a degree. (L.N. 31 of 1981; L.N. 121 of 1989)
 
