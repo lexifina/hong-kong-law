@@ -4,23 +4,25 @@
 
 APPROVED SEAT BELTS AND APPROVED ANCHORAGE POINTS
 
-- PART I Approved Seat Belts Seat belts in respect of which either the seat belt assembly or the vehicle is permanently marked by the manufacturer of the belt or vehicle with the specification number, mark or symbol indicating compliance with any of the following—
+- PART I Approved Seat Belts
 
-  - (a) British Standard for Seat Belt Assemblies for road vehicles BS 3254, including Part 1:1988 Specification for restraining devices for adults, and Part 2: 1991 Specification for restraining devices for children;
+  - 1. Seat belts in respect of which either the seat belt assembly or the vehicle to which it is attached is permanently marked by the manufacturer of the belt or vehicle with the specification number, mark or symbol indicating compliance with any of the following—
 
-  - (b) British Standard Specification for passive seat belt systems BS AU 183:1989;
+    - (a) British Standard for Seat Belt Assemblies for motor vehicles BS 3254: 1960 and BS 3254, including Part 1: 1988 Specification for restraining devices for adults; and BS 3254, including Part 2: 1991 Specification for restraining devices for children;
 
-  - (c) ECE Regulation No. 16, including Revision 1, made by the Economic Commission for Europe dated 7 May 1973 and published by the United Nations;
+    - (b) British Standard Specification for Passive Seat Belt Systems BS AU 160a and BS AU 183: 1989; and BS AU 157a, BS AU 185, BS AU 186, BS AU 186a, BS AU 202 and BS AU 202a for child restraint system;
 
-  - (d) Australian Standards for Seat Belt Assembles for motor vehicles 2596:1983 including modifications complying with Australian Design Rules No. 4;
+    - (c) ECE Regulation No. 16 made by the Economic Commission for Europe dated 7 May 1973 including all Revisions for Seat Belt made before the date this paragraph comes into operation; and ECE Regulation No. 44 made by the Economic Commission for Europe dated 1 February 1981 including all Revisions for restraining devices for children made before the date this paragraph comes into operation;
 
-  - (e) New Zealand Specification for Seat Belt Assembles for motor vehicles NZS 5401:1982;
+    - (d) Australian Standards for Seat Belt Assemblies for motor vehicles E35-1965, E35, Part I-1970 and E35, Part II-1970 (including retractors), including modification authorized by Australian Design Rules No. 4, 4A, 4B and 4C; AS 2596-1995 and 2596-1983, including modifications complying with Australian Design Rule No. 4; and AS 1754-1995 for restraining devices for children;
 
-  - (f) Federal Motor Vehicle Safety Standard (USA) No. 209;
+    - (e) New Zealand Specification for Seat Belt Assemblies for motor vehicles NZS 1662: 1969 and NZS 5401; and NZS 5411 for restraining devices for children;
 
-  - (g) Japanese Industrial Standard JIS D4604:1988.
+    - (f) Federal Motor Vehicle Safety Standard (USA) No. 209 for Seat Belt; and No. 213 for restraining devices for children; and
 
-- (L.N. 288 of 1995)
+    - (g) Japanese Industrial Standard JIS D4604: 1969 (three-point belts only) and D4604: 1988; and JIS D0401: 1990 and JIS D0401: 1996 for restraining devices for children.
+
+  - 2. Seat belts of a type approved by the Commissioner and specified by him by notice in the Gazette, bearing a marking determined by the Commissioner indicating that the type of seat belt has been accepted as capable of affording to persons in a motor vehicle a degree of protection from injury equal to or greater than that provided by seat belts of the types specified in paragraph 1. (L.N. 114 of 1998)
 
 - PART II Approved Anchorage Points for Vehicles other than Goods Vehicles (L.N. 37 of 1989) Anchorage points in respect of which either the anchorage or the vehicle is permanently marked by the manufacturer of the anchorage or the vehicle with the specification number, mark or symbol indicating compliance with any of the following—
 
@@ -40,9 +42,9 @@ APPROVED SEAT BELTS AND APPROVED ANCHORAGE POINTS
 
 - PART III Seats with Integral Seat Belt Anchorages Seats with integral seat belt anchorages in respect of which the seat or the vehicle is permanently marked by the manufacturer with the specification number, mark or symbol indicating compliance with—
 
-  - (a) British Standard for seats with Integral Seat Belt Anchorages B.S.AU140:1967;
+  - (a) British Standard for seats with Integral Seat Belt Anchorages B.S. AU140:1967;
 
-  - (b) British Standard for seats with Integral Seat Belt Anchorages B.S.AU140a;
+  - (b) British Standard for seats with Integral Seat Belt Anchorages B.S. AU140a;
 
   - (c) E.C.E. Regulation No. 14, including Revision 1, made by the Economic Commission for Europe dated 30 January 1970 and published by the United Nations;
 
