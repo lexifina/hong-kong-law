@@ -1,0 +1,5 @@
+COSTS IN CRIMINAL CASES RULES
+
+(Cap. 492, section 22)
+
+[17 January 1997] L.N. 25 of 1997
