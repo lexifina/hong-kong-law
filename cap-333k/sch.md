@@ -80,7 +80,7 @@ Item | Stock options contract | Limit | Reporting level
 
 38. | New World Infrastructure Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 338 of 1997)
 
-39. | Peregrine Investments Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in anyone expiry month (L.N. 338 of 1997)
+39. | (Repealed L.N. 47 of 2000)
 
 40. | Shanghai Industrial Holdings Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 338 of 1997)
 
@@ -105,3 +105,5 @@ Item | Stock options contract | Limit | Reporting level
 50. | China Telecom (Hong Kong) Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 332 of 1998)
 
 51. | Beijing Enterprises Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
+
+52. | Tracker Fund of Hong Kong stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 47 of 2000)
