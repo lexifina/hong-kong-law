@@ -8,9 +8,7 @@ TABLE A
 
 Item | Description | Fee $
 
-1. | Filing of a declaration by a debtor of inability to pay his debts . | 105.00
-
-2. | Bankruptcy notice . | 220.00
+1-2. | (Repealed L.N. 83 of 1998)
 
 3. | Bankruptcy petition . | 1045.00
 
@@ -18,7 +16,7 @@ Item | Description | Fee $
 
 5. | Petition under section 112 . | 1045.00
 
-6. | (a) Application for an order of discharge, including the expense of gazetting the date of hearing and the order of the court made on the application . | 528.00
+6. | (a) Application for early discharge, for the suspension of discharge or for the lifting of a suspension of discharge including any gazetting costs (L.N. 83 of 1998) . | 528.00
 
 (b) and for each creditor notified (L.N. 164 of 1997) . | 35.00
 
@@ -38,23 +36,17 @@ Item | Description | Fee $
 
 (b) The total fees taken under item 11(a)(ii) shall not exceed $45,000 in each bankruptcy. (L.N. 164 of 1997)
 
-12. | On an application to the court to approve a compositing, a fee computed at the following rates on the gross amount of the composition—
+12. | On an application to the court for an interim order under section 20, a fee computed at the following rates on the gross amount of the proposal—
 
 (a) on every $1,000 or fraction of $1,000 up to $1,00000 . | 15.00
 
-(b) on every $1,000 or fraction of $1,000 beyond $1,00000 . Provided that where a fee has been taken on a previous application to the court to approve a previous application to the court to approve a composition, or where a fee has been paid under item 9 of Table B, seven-eighths of the amount thereof shall be deducted from the fee payable. For the purpose of calculating this fee, the gross amount means the amount to be provided under the terms of the composition for ordinary and preferential creditors, and for costs, charges and expenses, and for fees and percentages (other than this fee). | 7.50
+(b) on every $1,000 or fraction of $1,000 beyond $1,00000 . Provided that where a fee has been taken on a previous application to the court for an interim order under section 20, or where a fee has been paid under item 9 of Table B, seven-eighths of the amount thereof shall be deducted from the fee payable. For the purpose of calculating this fee, the gross amount means the amount to be provided under the terms of the proposal for ordinary and preferential creditors, and for costs, charges and expenses, and for fees and percentages (other than this fee). (L.N. 83 of 1998) | 7.50
 
-13. | On an application to the court to approve a scheme of arrangement, a fee computed at the following rates on the gross amount of the estimated assets (but not exceeding the gross amount of the unsecured liabilities)—
-
-(a) on every $1,000 or fraction of $1,000 up to $1,00000 . | 15.00
-
-(b) on every $1,000 or fraction of $1,000 beyond $1,00000 . | 7.50
-
-Provided that where a fee has been taken on a previous application to the court to approve a scheme, or where a fee has been paid under item 9 of Table B, seven-eighths of the amount thereof shall be deducted from the fee payable.
+13. | (Repealed L.N. 83 of 1998)
 
 14. | On an application for release by a trustee— for every $1,000 or fraction of $1,000 of the gross amount of assets realized and brought to credit . | 5.00
 
-15. | Registration of assignment of book debts under rule 127 (a) on producing original assignment, filing attested copy thereof and certified translation (when necessary) in the English language, including registering and marking original . | 220.00
+15. | Registration of assignment of book debts under rule 127— (a) on producing original assignment, filing attested copy thereof and certified translation (when necessary) in the English or Chinese language, including registering and marking original (L.N. 83 of 1998) | 220.00
 
 (b) every search or official certificate of the result of a search in one name in any register or index in the custody of the Register . | 220.00
 
@@ -68,33 +60,39 @@ Provided that where a fee has been taken on a previous application to the court 
 
 18. | For insertion in the Gazette of a notice relating to bankruptcy (L.N. 223 of 1989; L.N. 567 of 1994; L.N. 164 of 1997) . | 355.00
 
+19. | Examination by a creditor of the record signed by the bankrupt under section 19 (L.N. 83 of 1998) . | 85.00
+
+20. | Examination by a creditor of the proofs of debt of other creditors under rule 7 of the Proof of Debts Rules (Cap. 6 sub. leg.) (L.N. 83 of 1998) . | 85.00
+
+21. | Photocopying charge per page or part thereof for furnishing a creditor with a list of creditors under section 87 (L.N. 83 of 1998) . | 6.10
+
 (L.N. 136 of 1988; L.N. 359 of 1992; L.N. 162 of 1994; L.N. 89 of 1996)
 
 TABLE B
 
-- 1. On payments made by the Official Receiver into the Official Receiver in Bankruptcy Account, whether acting as interim receiver, receiver or trustee to administer a debtor’s property, including payments under composition or scheme, after deducting any sums paid to secured creditors in respect of their securities, and not being monies received and spent in carrying on the business of a debtor, a charge of 10%. (L.N. 427 of 1993)
+- 1. On payments made by the Official Receiver into the Official Receiver in Bankruptcy Account, whether acting as interim receiver, receiver or trustee to administer a debtor’s or bankrupt’s property, and on payments made by the Official Receiver into any bank account opened by him in his capacity as nominee under a voluntary arrangement, after deducting any sums paid to secured creditors in respect of their securities, and not being monies received and spent in carrying on the business of a debtor or bankrupt, a charge of 10%. (L.N. 427 of 1993; L.N. 83 of 1998)
 
 - 2.
 
-  - (a) On the amount distributed to creditors by the Official Receiver when acting a trustee under a composition or scheme, a fee of 5%.
+  - (a) On the amount distributed to creditors by the Official Receiver when acting as nominee under a voluntary arrangement, a fee of 5%.
 
-  - (b) For the work done by the Official Receiver in connection with a composition or scheme, whether or not such composition or scheme is approved, a fee of such amount as the court considers reasonable. (L.N. 427 of 1993)
+  - (b) For the work done by the Official Receiver in connection with an approved voluntary arrangement to which the Official Receiver was not appointed to act as nominee by the creditors at the meeting, a fee of such amount as the appointed nominee and the Official Receiver may agree or as the court may approve. (L.N. 83 of 1998)
 
-- 3. On the amount paid to preferential creditors or distributed in dividend or otherwise by the Official Receiver when acting otherwise than as trustee under a composition or scheme, a charge of 5%.
+- 3. On the amount paid to preferential creditors or distributed in dividend or otherwise by the Official Receiver when acting otherwise than as nominee under an approved voluntary arrangement, a charge of 5%. (L.N. 83 of 1998)
 
 - 4. For the Official Receiver acting as interim receiver of the property of a debtor under section 13, in addition to the percentage chargeable on realizations, on every order . $1,100 and in addition, where the order is in force for a longer period than 14 days, for every 7 days after the first 14, and for every fraction of 7 days . $1,100 (L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997)
 
 - 5. For all official stationery, printing and postage within Hong Kong; and to include notices to creditors of meetings and sittings of the court and room hire—
 
-  - (a) for a number of creditors and debtors not exceeding 10 . $670
+  - (a) for a number of creditors and bankrupts not exceeding 10 . $670
 
-  - (b) thereafter for every 10 additional creditors and debtors or part thereof . $670
+  - (b) thereafter for every 10 additional creditors and bankrupts or part thereof . $670
 
-- This fee does not include the charge which may be made by the Official Receiver on calling a meeting at the request of creditors, for which provision is made in paragraph 6. (L.N. 223 of 1989; L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997)
+- This fee does not include the charge which may be made by the Official Receiver on calling a meeting at the request of creditors, for which provision is made in paragraph 6. (L.N. 223 of 1989; L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 83 of 1998)
 
 - 6. Where the Official Receiver calls a meeting at the request of the creditors, the costs of summoning the meeting, which shall be deemed to include all disbursements for stationery, printing and postage within Hong Kong shall be $1,560. Any charge for hiring a room outside the Official Receiver’s Office by reason of the large number of creditors shall be additional to the said sum. (L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997)
 
-- 7. For the Official Receiver supervising a special manager or the carrying on of a debtor’s business— such amount as the court, on application of the Official Receiver, may consider reasonable. (L.N. 223 of 1989)
+- 7. For the Official Receiver supervising a special manager or the carrying on of a bankrupt’s business— such amount as the court, on application of the Official Receiver, may consider reasonable. (L.N. 223 of 1989; L.N. 83 of 1998)
 
 - 8. Travelling, keeping possession and other reasonable expenses of Official Receiver-the amount disbursed.
 
@@ -116,23 +114,21 @@ TABLE B
 
   - (v) on the next $40,000,000 or fraction thereof, $20 on every $1,000 or fraction thereof;
 
-  - (vi) on all further amounts, $10 on every $1,000 or fraction thereof:
-
-    - Provided that where a fee has been taken on an application to approve a composition or scheme of arrangement seven-eighths of the amount thereof shall be deducted from the fee.
+  - (vi) on all further amounts, $10 on every $1,000 or fraction thereof. (L.N. 83 of 1998)
 
 - 10. Where the Official Receiver performs any special duties not provided for under the other paragraphs of this Table-such amount as the court, on the application of the Official Receiver, may consider reasonable.
 
-- 11. Notwithstanding the fees and charges prescribed in the foregoing paragraphs, where the Official Receiver acts as trustee to administer a debtor’s property, the total fees and charges under this Table shall not be less than $12,150. (L.N. 164 of 1997) (L.N. 195 of 1987; L.N. 89 of 1996)
+- 11. Notwithstanding the fees and charges prescribed in the foregoing paragraphs but subject to the availability of funds, where the Official Receiver acts as trustee to administer a bankrupt’s property, the total fees and charges under this Table shall not be less than $12,150. (L.N. 164 of 1997; L.N. 83 of 1998) (L.N. 195 of 1987; L.N. 89 of 1996)
 
 TABLE C | [rule 181]
 
 I-Auctioneers
 
-For inventory, valuation, sales by auction or private treaty of assets . | Such an amount as the Committee of Inspection or the Registrar approves.
+For inventory, valuation, sales by auction or private treaty of assets . | Such an amount as the Creditors’ Committee or the Registrar approves.
 
 II-Architects
 
-(a) For valuation of leasehold property, and reporting thereon . | Such an amount as the Committee of Inspection or the Registrar approves.
+(a) For valuation of leasehold property, and reporting thereon . | Such an amount as the Creditors’ Committee or the Registrar approves.
 
 (b) Cost of surveys, dilapidations and specifications . | Such an amount as the Registrar approves.
 
@@ -142,6 +138,12 @@ General
 
 An architect or auctioneer who uses his own motor car or motor cycle, instead of travelling by railway or hired vehicles, shall be entitled if the taxing officer is satisfied that such user was reasonable to an allowance not exceeding $1.00 per kilometre.
 
-III-Special manager’s and accountant’s charges
+- III— (Repealed L.N. 83 of 1998) (L.N. 83 of 1998)
 
-- Where the employment of a special manager or accountant has been duly sanctioned- For carrying on a business and supervising same and all accounting, collecting and realizing assets in respect thereof, preparing balance sheet, investigating accounts, etc. including necessary affidavit verifying accounts, and stationery .Such an amount as the Committee of Inspection or the Registrar allows. N.B. Charges will be allowed according to the size, nature and difficulty of the business or case, the complexity of negotiations, etc., the degree of responsibility assumed, the special manager’s or accountant’s normal professional charges, the salaries paid to his staff, and other similar considerations.
+Editorial Note:
+
+- 1. Please see the transitional provisions contained in s. 3 of L.N. 83 of 1998, which section is reproduced as follows— “3. Transitional Where before this Order comes into operation— (a) a petition in bankruptcy has been presented; or (b) a receiving order or adjudication in bankruptcy has been made,
+
+- under the Ordinance, then the principal Order as it existed before being amended by this Order continues to apply to proceedings in respect of such a petition, receiving order or adjudication in bankruptcy.”.
+
+- 2. L.N. 83 of 1998 came into operation on 1 April 1998.
