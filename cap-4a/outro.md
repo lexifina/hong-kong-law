@@ -10,9 +10,7 @@ AND
 
 C.D. | Defendant
 
-TO THE DEFENDANT (name) .
-
-of (address) .
+TO THE DEFENDANT (name) . of (address) .
 
 THIS WRIT OF SUMMONS has been issued against you by the above-named Plaintiff in respect of the claim set out on the back.
 
@@ -20,7 +18,7 @@ Within (14 days) after the service of this Writ on you, counting the day of serv
 
 If you fail to satisfy the claim or to return the Acknowledgment within the time stated, or if you return the Acknowledgment without stating therein an intention to contest the proceedings, the Plaintiff may proceed with the action and judgment may be entered against you forthwith without further notice.
 
-Issued from the Registry of the High Court this . day of .19 . .
+Issued from the Registry of the High Court this . day of . 19 . .
 
 Note:-This Writ may not be served later than 12 calendar months beginning with that date unless renewed by order of the Court.
 
@@ -36,9 +34,7 @@ The Plaintiff’s claim is for .
 
 *(Signed if statement of claim indorsed.)
 
--
-
-(Where the Plaintiff’s claim is for a debt or liquidated demand only: If, within the time for returning the Acknowledgment of Service, the Defendant pays the amount claimed and $. for costs and, if the Plaintiff obtains an order for substituted service, the additional sum of $ ., further proceedings will be stayed. The money must be paid to the Plaintiff or his Solicitor.)
+(Where the Plaintiff’s claim is for a debt or liquidated demand only: If, within the time for returning the Acknowledgment of Service, the Defendant pays the amount claimed and $ . for costs and, if the Plaintiff obtains an order for substituted service, the additional sum of $ ., further proceedings will be stayed. The money must be paid to the Plaintiff or his Solicitor.)
 
 THIS WRIT was issued by . of .
 
@@ -46,13 +42,13 @@ Solicitors for the said Plaintiff whose address is . *(or where the Plaintiff su
 
 THIS WRIT was issued by the said Plaintiff who resides at .
 
-. and (if the Plaintiff does not reside within the jurisdiction) whose address for service is.
+. and (if the Plaintiff does not reside within the jurisdiction) whose address for service is .
 
 .).
 
 (L.N. 251 of 1997; 25 of 1998 s. 2)
 
-No. 8 Originating summons-general form (O. 7 r. 2) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
+\- No. 8 Originating summons-general form (O. 7 r. 2) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
 
 19 ., No. .
 
@@ -72,7 +68,7 @@ By this summons, which is issued on the application of the plaintiff A.B. of ., 
 
 If the defendant does not acknowledge service, such judgment may be given or order made against or in relation to him as the Court may think just and expedient.
 
-Dated the . day of . 19.
+Dated the . day of . 19 .
 
 Note:-This summons may not be served later than 12 calendar months beginning with the above date unless renewed by order of the Court.
 
@@ -84,7 +80,7 @@ Directions for Acknowledgment of Service are given with the accompanying form.
 
 (L.N. 251 of 1997; 25 of 1998 s. 2)
 
-No. 10 Originating summons-expedited form (O. 7 r. 2) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
+\- No. 10 Originating summons-expedited form (O. 7 r. 2) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
 
 19 ., No. .
 
@@ -100,13 +96,15 @@ Let C.D. of . attend before the Registrar (or Judge) in Chambers, at the High Co
 
 And let the defendant within (14 days) after service of this summons on him counting the day of service, return the accompanying Acknowledgment of Service to the Registry of the High Court.
 
-Dated the . day of . 19.
+Dated the . day of . 19 .
 
 Note:-This summons may not be served later than 12 calendar months beginning with the above date unless renewed by order of the Court.
 
 This summons was taken out by . of . solicitors for the said plaintiff whose address is as stated above (or where the plaintiff sues in person.
 
-This summons was taken out by the said plaintiff who resides at . and (if the plaintiff does not reside within the jurisdiction) whose address for service is.).
+This summons was taken out by the said plaintiff who resides at . and (if the plaintiff does not reside within the jurisdiction) whose address for service is .
+
+.)
 
 Note:-If a defendant does not attend personally or by his counsel or solicitor at the time and place above-mentioned such order will be made as the Court may think just and expedient.
 
@@ -116,7 +114,7 @@ Directions for Acknowledgment of Service are given with the accompanying form.
 
 (L.N. 251 of 1997; 25 of 1998 s. 2)
 
-No. 11 Ex parte originating summons (O. 7 r. 2)
+\- No. 11 Ex parte originating summons (O. 7 r. 2)
 
 19 ., No. .
 
@@ -126,7 +124,7 @@ In the matter of .
 
 Let all parties concerned attend before the Judge in Chambers (or the master) at the High Court in Hong Kong, on . day, the . day of . 19 ., at . o’clock, on the hearing of an application by A.B. that .
 
-Dated the . day of . 19.
+Dated the . day of . 19 .
 
 This summons was taken out by . of . solicitor for the applicant whose address is .
 
@@ -146,7 +144,9 @@ C.D. | Defendant (if any) whose name is known
 
 To [C.D. and] every [other] person in occupation of .
 
-Let all persons concerned attend before . Court of First Instance . of Hong Kong in Hong Kong on . day, the . day of . 19 ., at . o’clock, on the hearing of an application by A.B. for an order that he do recover possession of . on the ground that he is entitled to possession and that the person(s) in occupation is (are) in occupation without licence or consent.
+Let all persons concerned attend before .
+
+. Court of First Instance . of Hong Kong in Hong Kong on . day, the . day of . 19 ., at . o’clock, on the hearing of an application by A.B. for an order that he do recover possession of . on the ground that he is entitled to possession and that the person(s) in occupation is (are) in occupation without licence or consent.
 
 Dated the . day of . 19 .
 
@@ -160,13 +160,13 @@ Note:-Any person occupying the premises may apply to the Court personally or by 
 
 (L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2)
 
-No. 12 Notice of appointment to hear originating summons (O. 28 r. 2) (Heading as in summons)
+\- No. 12 Notice of appointment to hear originating summons (O. 28 r. 2) (Heading as in summons)
 
 To (name of defendant) of .
 
 Take notice that the originating summons issued herein on the . day of . 19 ., will be heard by the Judge in Chambers (or the master) at the High Court in Hong Kong, on . day, the . day of . 19., at . o’clock. You may attend in person, or by your solicitor or counsel. If you fail to attend, such order will be made as the Court may think just and expedient.
 
-Dated the . day of. 19.
+Dated the . day of . 19 .
 
 (Signed) .
 
@@ -200,7 +200,7 @@ To . of .
 
 (L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2)
 
-No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for Acknowledgment of Service
+\- No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for Acknowledgment of Service
 
 - 1. The accompanying form of ACKNOWLEDGMENT OF SERVICE should be detached and completed by a Solicitor acting on behalf of the Defendant or by the Defendant if acting in person. After completion it must be delivered or sent by post to the Registry of the High Court at the following address:—
 
@@ -208,7 +208,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - If a Statement of Claim is indorsed on the Writ (i.e. the words “Statement of Claim” appear at the top of the back), the Defence must be filed and served within 14 days after the time for acknowledging service of the Writ, unless in the meantime a summons for judgment is served on the Defendant.
 
-- If a Statement of Claim is not indorsed on the Writ, the Defence need not be filed and served until 14 days after a Statement of Claim has been served on the Defendant.
+- If a Statement of Claim is not indorsed on the Writ, the Defence must be filed and served within 14 days after a Statement of Claim has been served on the Defendant.
 
 - If the Defendant fails to file and serve his defence within the appropriate time, the Plaintiff may enter judgment against him without further notice.
 
@@ -258,9 +258,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
   - Defendant in person. Where the Defendant is acting in person, he must give his residence OR, if he does not reside in Hong Kong, he must give an address in Hong Kong where communications for him should be sent. In the case of a limited company, “residence” (居所) means its registered or principal office. (Back of page (1)) Indorsement by plaintiff’s solicitor (or by plaintiff if suing in person) of his name, address and reference, if any.
 
-- (L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2)
+- (L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2; L.N. 129 of 2000)
 
-- No. 15 Acknowledgment of Service of Originating Summons (O. 10 r. 5) Directions for Acknowledgment of Service
+- - No. 15 Acknowledgment of Service of Originating Summons (O. 10 r. 5) Directions for Acknowledgment of Service
 
 - The accompanying form of ACKNOWLEDGMENT OF SERVICE should be detached and completed by a Solicitor acting on behalf of the Defendant or by the Defendant if acting in person. After completion it must be delivered or sent by post to the Registry of the High Court of the following address:—
 
@@ -270,7 +270,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - If you intend to instruct a Solicitor to act for you, give him this form IMMEDIATELY. Important. Read the accompanying directions and notes for guidance carefully before completing this form. If any information required is omitted or given wrongly, THIS FORM MAY HAVE TO BE RETURNED.
 
-- See Notes 1, 3, 4 and 5. | 1. State the full name of the Defendant by whom or on whose behalf the service of the Originating Summons is being acknowledged.
+- see Notes 1, 3, 4 and 5. | 1. State the full name of the Defendant by whom or on whose behalf the service of the Originating Summons is being acknowledged.
 
 - 2. State whether the Defendant intends to contest the proceedings (tick appropriate box) p yes p no
 
@@ -282,7 +282,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - (L.N. 251 of 1997; 25 of 1998 s. 2)
 
-- No. 17 Notice to be indorsed on copy of counterclaim (O. 15 r. 3(6))
+- - No. 17 Notice to be indorsed on copy of counterclaim (O. 15 r. 3(6))
 
 - To X. Y. Take notice that, within [14 days] after service of this defence and counterclaim on you, counting the day of service, you must acknowledge service and state in your acknowledgment whether you intend to contest the proceedings. If you fail to do so or if your acknowledgment does not state your intention to contest the proceedings, judgment may be given against you without further notice.
 
@@ -306,9 +306,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - C.D. | Defendant
 
-- AND
-
-- T.P. | Third Party
+- AND T.P. | Third Party
 
 - Third Party Notice
 
@@ -322,9 +320,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - And take notice that within [14 days] after service of this notice on you, counting the day of service, you must acknowledge service and state in your acknowledgment whether you intend to contest the proceedings. If you fail to do so, or if your acknowledgment does not state your intention to contest the proceedings, you will be deemed to admit the plaintiff’s claim against the defendant and the defendant’s claim against you and your liability to [indemnify the defendant or to contribute to the extent claimed or to . stating the relief for remedy sought] and will be bound by any judgement or decision given in the action, and the judgement may be enforced against you in accordance with Order 16 of the Rules of the High Court Chapter 4. Dated the . day of . 19 .
 
-- (Signed).
+- (Signed) .
 
-- Solicitor for the defendant
+- Solicitor for the defendant.
 
 - IMPORTANT
 
@@ -336,7 +334,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - Issue to be determined (O. 16) [Title etc. as in No. 20 down to end of first paragraph]
 
-- The defendant requires that the following question or issue, viz. [here state the question or issue required to be determined] should be determined not only as between the plaintiff and the defendant but also as between either or both of them and yourself. And take notice that [as in No. 20 down to the words “intention to contest the proceedings”] you will be bound by any judgment or decision in the action so far as it is relevant to the said question or issue, and the judgment may be enforced against you in accordance with Order 16 of the Rules of the High Court Chapter 4. Dated the . day of . 19.
+- The defendant requires that the following question or issue, viz. [here state the question or issue required to be determined] should be determined not only as between the plaintiff and the defendant but also as between either or both of them and yourself. And take notice that [as in No. 20 down to the words “intention to contest the proceedings”] you will be bound by any judgment or decision in the action so far as it is relevant to the said question or issue, and the judgment may be enforced against you in accordance with Order 16 of the Rules of the High Court Chapter 4. Dated the . day of . 19 .
 
 - (Signed) .
 
@@ -348,13 +346,13 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - (L.N. 251 of 1997; 25 of 1998 s. 2)
 
-- No. 23 Notice of payment into court (O. 6 r. 2; O. 22 rr. 1, 2) (Heading as in action)
+- - No. 23 Notice of payment into court (O. 6 r. 2; O. 22 rr. 1, 2) (Heading as in action)
 
 - Take notice that—
 
 - The defendant . has paid $ . into court.
 
-- The said $. is in satisfaction of (the cause of action) (all the causes of action) in respect of which the plaintiff claims (and after taking into account and satisfying the above-named defendant’s cause of action for .
+- The said $ . is in satisfaction of (the cause of action) (all the causes of action) in respect of which the plaintiff claims (and after taking into account and satisfying the above-named defendant’s cause of action for .
 
 - . in respect of which he counterclaims).
 
@@ -364,15 +362,15 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - or
 
-- Of the said $., $ . is in satisfaction of the plaintiff’s cause(s) of action for . (and after taking into account as above) and $ . is in satisfaction of the plaintiff’s cause(s) of action for . (and after taking into account as above). Dated the . day of . 19.
+- Of the said $ ., $ . is in satisfaction of the plaintiff’s cause(s) of action for . (and after taking into account as above) and $ . is in satisfaction of the plaintiff’s cause(s) of action for . (and after taking into account as above). Dated the . day of . 19 .
 
 - (L.N. 251 of 1997)
 
 - - No. 24 Notice of acceptance of money paid into court (O. 22 r. 3) (Heading as in action)
 
-- Take notice that the plaintiff accepts the sum of $ . paid in by the defendant C.D. in satisfaction of the cause(s) of action in respect of which it was paid in and in respect of which the plaintiff claims (against that defendant) (and abandons the other causes of action in respect of which he claims in this action). Dated the . day of . 19.
+- Take notice that the plaintiff accepts the sum of $ . paid in by the defendant C.D. in satisfaction of the cause(s) of action in respect of which it was paid in and in respect of which the plaintiff claims (against that defendant) (and abandons the other causes of action in respect of which he claims in this action). Dated the . day of . 19 .
 
-- No. 26 List of Documents (O. 24 r. 5) (Heading as in cause or matter) List of documents
+- - No. 26 List of Documents (O. 24 r. 5) (Heading as in cause or matter) List of documents
 
 - The following is a list of the documents relating to the matters in question in this action which are or have been in the possession, custody or power of the above-named plaintiff (or defendant) A.B. and which is served in compliance with Order 24, rule 2 (or the order herein dated the . day of . 19 .).
 
@@ -396,11 +394,11 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
   - Part 2 (Here enumerate as aforesaid the documents in the possession, custody or power of the party in question which he objects to produce.) SCHEDULE 2 (Here enumerate as aforesaid the documents which have been, but at the date of service of the list are not, in the possession, custody or power of the party in question.)
 
-  - Dated the . day of . 19. Notice to inspect Take notice that the documents in the above list, other than those listed in part 2 of schedule 1 (and schedule 2), may be inspected at (the office of the solicitor of the above-named (plaintiff) (defendant) (insert address) or as may be) on the . day of . 19., between the hours of . and .
+  - Dated the . day of . 19 . Notice to inspect Take notice that the documents in the above list, other than those listed in part 2 of schedule 1 (and schedule 2), may be inspected at (the office of the solicitor of the above-named (plaintiff) (defendant) (insert address) or as may be) on the . day of . 19., between the hours of . and .
 
   - To the defendant (or plaintiff) C.D. and his solicitor.
 
-  - Served the .day of . 19 . by . of . solicitor for the (plaintiff) (defendant). No. 27 Affidavit verifying list of documents (O. 24 r. 5) (Heading as in cause or matter) I, the above-named plaintiff (or defendant) A.B., make oath and say as follows:—
+  - Served the . day of . 19 . by . of . solicitor for the (plaintiff) (defendant). - No. 27 Affidavit verifying list of documents (O. 24 r. 5) (Heading as in cause or matter) I, the above-named plaintiff (or defendant) A.B., make oath and say as follows:—
 
 - 1. The statements made by me in paragraphs 1, 3 and 4 of the list of documents now produced and shown to me marked . are true.
 
@@ -412,7 +410,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 28 Writ of subpoena (O. 38 r. 14) (Heading as in cause or matter)
 
-- To (names of witnesses). You are required to attend (at the High Court in Hong Kong at the sittings of our High Court) on the day fixed for the trial of the above-named cause, notice of which will be given to you, and from day to day thereafter until the end of the trial, to give evidence on behalf of the (plaintiff) or (defendant)*. Witness . Chief Justice of Hong Kong the . day of . 19 . Issued on the . day of . 19. by . solicitor for the . *If duces tecum add: And it is also required to bring with you and produce at the place aforesaid on the day notified to you (here describe the documents or things to be produced).
+- To (names of witnesses). You are required to attend (at the High Court in Hong Kong at the sittings of our High Court) on the day fixed for the trial of the above-named cause, notice of which will be given to you, and from day to day thereafter until the end of the trial, to give evidence on behalf of the (plaintiff) or (defendant)*. Witness . Chief Justice of Hong Kong the . day of . 19 . Issued on the . day of . 19 . by . solicitor for the . *If duces tecum add: And it is also required to bring with you and produce at the place aforesaid on the day notified to you (here describe the documents or things to be produced).
 
 - (L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2)
 
@@ -432,11 +430,13 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 32 Order for examination within jurisdiction of witness before trial (O. 39 r. 1) (Heading as in cause or matter)
 
-- On hearing (the solicitors on both sides) and on reading the affidavit of . filed herein the . day of . 19. It is ordered that . a witness on behalf of the . be examined viva voce on oath or affirmation before a Judge, the Registrar or one of the examiners of the Court (or . Esq., the examiner agreed upon or an examiner to be agreed upon), the plaintiff’s (or defendant’s) solicitor giving to the defendant’s (or plaintiff’s) solicitor . days’ notice in writing of the time and place where the examination is to take place (or state the time and place if fixed by the order). And it is ordered that the depositions taken at the examination be filed in the Registry of the High Court, and that office copies thereof may be read and given in evidence on the trial of this cause, saving all just exceptions, without any further proof of the absence of the said witness than the affidavit of the solicitor of the party using the same, as to his belief, and that the costs of this application (and of the examination) be (costs in the cause). Dated the . day of . 19.
+- On hearing (the solicitors on both sides) and on reading the affidavit of . filed herein the . day of . 19 . It is ordered that . a witness on behalf of the . be examined viva voce on oath or affirmation before a Judge, the Registrar or one of the examiners of the Court (or . Esq., the examiner agreed upon or an examiner to be agreed upon), the plaintiff’s (or defendant’s) solicitor giving to the defendant’s (or plaintiff’s) solicitor . days’ notice in writing of the time and place where the examination is to take place (or state the time and place if fixed by the order). And it is ordered that the depositions taken at the examination be filed in the Registry of the High Court, and that office copies thereof may be read and given in evidence on the trial of this cause, saving all just exceptions, without any further proof of the absence of the said witness than the affidavit of the solicitor of the party using the same, as to his belief, and that the costs of this application (and of the examination) be (costs in the cause). Dated the . day of . 19 .
 
 - (L.N. 251 of 1997; 25 of 1998 s. 2)
 
-- - No. 33 Summons for issue of letter of request to judicial authority out of jurisdiction (O. 39 r. 2) (Heading as in cause or matter)
+- - No. 33 Summons for issue of letter of request to judicial authority
+
+- out of jurisdiction (O. 39 r. 2) (Heading as in cause or matter)
 
 - Let all parties (as in No. 31) on the hearing of an application on the part of . for an order that a letter of request shall issue to the proper judicial authority of . for the examination of E.F. and G.H. and other witnesses on the plaintiff’s (or the defendant’s) behalf at . in (name of country), and that the action be stayed until the return of the said letter of request and examination, and that the costs of and incidental to this application and the said letter of request and examination be costs in the cause. Dated, etc. (conclude as in No. 31).
 
@@ -456,7 +456,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - And it is ordered that (the trial of this action be stayed until the said depositions have been filed and that) the costs of and incidental to the application for this order and the said letter of request and examination be (costs in the cause).
 
-- Dated the . day of . 19.
+- Dated the . day of . 19 .
 
 - (25 of 1998 s. 2)
 
@@ -490,9 +490,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - (Signed) .
 
-- of .
-
-- Solicitor for .
+- of . Solicitor for .
 
 - To Solicitor for .
 
@@ -500,19 +498,23 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 39 Default judgment in action for liquidated demand (O. 13 r. 1; O. 19 r. 2; O. 42 r. 1) (Heading as in action)
 
-- The . day of . 19. No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed). (The above costs have been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 19 .).
+- The . day of . 19 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed). (The above costs have been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 19 .).
 
 - (L.N. 251 of 1997)
 
 - - No. 40 Default judgment in action for unliquidated damages (O. 13 r. 2; O. 19 r. 3; O. 42 r. 1) (Heading as in action)
 
-- The . day of . 19.
+- The . day of . 19 .
 
 - No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff damages to be assessed.
 
-- ------------------------------------------------------------------------------------------------------------
+- The amount found due to the plaintiff under this judgment having been certified at $ . as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 19 .
 
-- The amount found due to the plaintiff under this judgment having been certified at $ . as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 19 . It is adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39). (Note:-This form is a combined form of interlocutory and final judgment. The plaintiff may at his option enter interlocutory judgment by omitting the words below the line in the form and enter a separate final judgment in Form No. 43.)
+- It is adjudged that the defendant do pay the plaintiff $ . and costs to be taxed.
+
+- The above costs, etc. (as in No. 39).
+
+- (Note:-This form is a combined form of interlocutory and final judgment. The plaintiff may at his option enter interlocutory judgment by omitting the words below the line in the form and enter a separate final judgment in Form No. 43.)
 
 - (L.N. 251 of 1997)
 
@@ -524,35 +526,37 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - It is this day adjudged that the defendant do pay the plaintiff the value of the goods described in the writ of summons (or statement of claim) to be assessed (and also damages for their detention to be assessed).
 
-- ------------------------------------------------------------------------------------------------------------
+- The value of the said goods having been assessed at $ . (and damages at $ .) as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 19 . .
 
-- The value of the said goods having been assessed at $ . (and damages at $ .) as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 19 . . It is adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39). (Note:-See the note to No. 40.)
+- It is adjudged that the defendant do pay the plaintiff $ . and costs to be taxed.
+
+- The above costs, etc. (as in No. 39).
+
+- (Note:-See the note to No. 40.)
 
 - (L.N. 251 of 1997)
 
 - - No. 42 Default judgment in action for possession of land (O. 13 r. 4; O. 19 r. 5; O. 42 r. 1) (Heading as in action)
 
-- The . day of . 19. No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do give the plaintiff possession of the land described in the writ of summons (or statement of claim) as . and pay the plaintiff $ . costs (or costs to be taxed). The above costs, etc. (as in No. 39).
+- The . day of . 19 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do give the plaintiff possession of the land described in the writ of summons (or statement of claim) as . and pay the plaintiff $ . costs (or costs to be taxed). The above costs, etc. (as in No. 39).
 
 - (L.N. 251 of 1997)
 
 - - No. 42A Order for possession (O. 113 r. 6) [Heading as in summons]
 
-- Upon hearing . and upon reading the affidavit of . filed the . day of . 19 ., it is ordered that the plaintiff A.B. do recover possession of the land described in the originating summons as . [and that the defendant . do pay the plaintiff $ . costs [or costs to be taxed]]. The above costs have been taxed and allowed at $ . as appears by a taxing master’s certificate dated the . day of . 19 . Dated the . day of . 19.
+- Upon hearing . and upon reading the affidavit of . filed the . day of . 19 ., it is ordered that the plaintiff A.B. do recover possession of the land described in the originating summons as . [and that the defendant . do pay the plaintiff $ . costs [or costs to be taxed]]. The above costs have been taxed and allowed at $ . as appears by a taxing master’s certificate dated the . day of . 19 . Dated the . day of . 19 .
 
 - (L.N. 251 of 1997)
 
 - - No. 43 Final judgment after assessment of damages, etc. (O. 42 r. 1) (Heading as in action)
 
-- The . day of . 19 . The plaintiff having on the . day of . 19 . obtained interlocutory judgment herein against the defendant for damages (or as may be) to be assessed, and the amount found due to the plaintiff having been certified at $ . as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 19 .
-
-- It is this day adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39).
+- The . day of . 19 . The plaintiff having on the . day of . 19 . obtained interlocutory judgment herein against the defendant for damages (or as may be) to be assessed, and the amount found due to the plaintiff having been certified at $ . as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 19 . It is this day adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39).
 
 - (L.N. 251 of 1997)
 
 - - No. 44 Judgment under Order 14 (O. 14 r. 3; O. 42 r. 1) (Heading as in action)
 
-- The . day of . 19. The defendant having given notice of intention to defend herein and the Court having under Order 14, rule 3 ordered that judgment as hereinafter provided be entered for the plaintiff against the defendant. It is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed)
+- The . day of . 19 . The defendant having given notice of intention to defend herein and the Court having under Order 14, rule 3 ordered that judgment as hereinafter provided be entered for the plaintiff against the defendant. It is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed)
 
 - or
 
@@ -564,15 +568,15 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - or
 
-- give the plaintiff possession of the land described in the writ of summons (or statement of claim) as . and costs to be taxed.
-
-- The above costs, etc. (as in No. 39).
+- give the plaintiff possession of the land described in the writ of summons (or statement of claim) as . and costs to be taxed. The above costs, etc. (as in No. 39).
 
 - (L.N. 251 of 1997)
 
 - - No. 45 Judgment after trial before judge without jury (O. 42 r. 1) (Heading as in action)
 
-- Dated and entered the . day of . 19 . This action having been tried before the Honourable Mr. Justice . without a jury, at the High Court, Hong Kong, and the said Mr. Justice . having on the . day of . 19 . ordered that judgment as hereinafter provided be entered for the plaintiff (or defendant) (and directed that execution be stayed for the period and on the terms hereinafter provided). It is adjudged that the defendant do pay the plaintiff $ . and his costs of action to be taxed (or that the plaintiff do pay the defendant his costs of defence to be taxed or as may be according to the judge’s order). (It is further adjudged that execution be stayed for . days and if within that time the . gives notice of appeal and sets down the appeal, execution be further stayed until the determination of the appeal or as may be according to the judge’s direction). The above costs, etc. (as in No. 39).
+- Dated and entered the . day of . 19 . This action having been tried before the Honourable Mr. Justice . without a jury, at the High Court, Hong Kong, and the said Mr. Justice .
+
+- . having on the . day of . 19 . ordered that judgment as hereinafter provided be entered for the plaintiff (or defendant) (and directed that execution be stayed for the period and on the terms hereinafter provided). It is adjudged that the defendant do pay the plaintiff $ . and his costs of action to be taxed (or that the plaintiff do pay the defendant his costs of defence to be taxed or as may be according to the judge’s order). (It is further adjudged that execution be stayed for . days and if within that time the . gives notice of appeal and sets down the appeal, execution be further stayed until the determination of the appeal or as may be according to the judge’s direction). The above costs, etc. (as in No. 39).
 
 - (L.N. 251 of 1997; 25 of 1998 s. 2)
 
@@ -588,7 +592,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - . having on the . day of . 19 . been tried before the said . and the said . having found . and having ordered that judgment as hereinafter provided be entered for the .
 
-- .(or having dismissed the cause or matter). It is adjudged that (the defendant do pay the plaintiff $ . and his costs of action to be taxed) (the plaintiff do pay the defendant his costs of defence to be taxed) or as may be according to the order made.
+- . (or having dismissed the cause or matter). It is adjudged that (the defendant do pay the plaintiff $ . and his costs of action to be taxed) (the plaintiff do pay the defendant his costs of defence to be taxed) or as may be according to the order made.
 
 - (L.N. 251 of 1997)
 
@@ -614,7 +618,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 52 Notice of judgment or order (O. 44 r. 3) (Heading as in cause or matter)
 
-- Take notice that a judgment (or order) of this Court was given (or made) on the . day of . 19 . by which it was (state substance of judgment or order). And also take notice that from the time of the service of this notice you (or the infant . or the patient . as may be) will be bound by the said judgment (or order) to the same extent as you (or he) would have been if you (or he) had originally been made a party. And also take notice that you (or the said infant or patient) may within one month after the service of this notice apply to the Court to discharge, vary or add to the said judgment (or order) and that after acknowledging service of this notice at the Registry of the High Court in Hong Kong, you (or the said infant or patient) may attend the proceedings under the said judgment (or order). Dated the . day of . 19.
+- Take notice that a judgment (or order) of this Court was given (or made) on the . day of . 19 . by which it was (state substance of judgment or order). And also take notice that from the time of the service of this notice you (or the infant . or the patient . as may be) will be bound by the said judgment (or order) to the same extent as you (or he) would have been if you (or he) had originally been made a party. And also take notice that you (or the said infant or patient) may within one month after the service of this notice apply to the Court to discharge, vary or add to the said judgment (or order) and that after acknowledging service of this notice at the Registry of the High Court in Hong Kong, you (or the said infant or patient) may attend the proceedings under the said judgment (or order). Dated the . day of . 19 .
 
 - To .
 
@@ -684,7 +688,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - To the bailiff . :
 
-- Whereas in the above named action it was on the . day of . 19. adjudged (or ordered) that the defendant C.D. as executor (or administrator) of E.F. deceased do pay the plaintiff A.B. $ . and $ . costs (or costs to be taxed which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 19.), the said sums and interest to be levied of the real and personal estate of the said E.F. at the time of his death in the hands of the defendant C.D. as his executor (or administrator) to be administered, if he had or should thereafter have so much thereof in his hands to be administered, (and if he had not, then the said costs to be levied of the goods, chattels and other property of the defendant C.D. authorized by law to be seized in execution):
+- Whereas in the above named action it was on the . day of . 19 . adjudged (or ordered) that the defendant C.D. as executor (or administrator) of E.F. deceased do pay the plaintiff A.B. $ . and $ . costs (or costs to be taxed which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 19 .), the said sums and interest to be levied of the real and personal estate of the said E.F. at the time of his death in the hands of the defendant C.D. as his executor (or administrator) to be administered, if he had or should thereafter have so much thereof in his hands to be administered, (and if he had not, then the said costs to be levied of the goods, chattels and other property of the defendant C.D. authorized by law to be seized in execution):
 
 - It is required that of the real and personal estate of E.F. deceased, at the time of his death, which is in the hands of C.D. as his executor (or administrator) to be administered you cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at the rate of $4 per cent per annum from the . day of . 19 . until payment (together with bailiff’s fees, cost of levying and all other legal incidental expenses) (and if the said C.D. has not so much thereof in his hands to be administered that you cause to be made of the goods, chattels and other property of C.D. authorized by law to be seized in execution the sum of $ . for costs) and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
 
@@ -742,7 +746,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - It is required that you cause the said goods to be delivered to A.B. and that if possession of the said goods cannot be obtained by you you cause to be made of the goods, chattels and other property of C.D. authorized by law to be seized in execution $ . the assessed value of the said goods and pay it to A.B.
 
-- And it is also required that of the said property of C.D. you cause to be made the sums of $ . for (damages and) costs and $ . for costs of execution and also interest on $ . at the rate of $4 per cent per annum from the . day of. 19 . until payment together with bailiff’s fees, costs of levying and all other legal incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
+- And it is also required that of the said property of C.D. you cause to be made the sums of $ . for (damages and) costs and $ . for costs of execution and also interest on $ . at the rate of $4 per cent per annum from the . day of . 19 . until payment together with bailiff’s fees, costs of levying and all other legal incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
 
 - And it is also required that you indorse (remainder as in No. 53).
 
@@ -774,7 +778,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - To the bailiff . :
 
-- Whereas it was on the . day of . 19 .ordered that the plaintiff A.B. do recover possession of [describe the land recovery of which has been ordered] [and that the defendant C.D. do pay him $ . costs [or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the taxing master’s certificate dated the . day of . 19 .]]:
+- Whereas it was on the . day of . 19 . ordered that the plaintiff A.B. do recover possession of [describe the land recovery of which has been ordered] [and that the defendant C.D. do pay him $ . costs [or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the taxing master’s certificate dated the . day of . 19 .]]:
 
 - It is required that you enter the said land and cause A.B. to have possession of it.
 
@@ -838,7 +842,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 71 Notice of renewal of writ of execution (O. 46 r. 8) (Heading as in cause or matter)
 
-- Take notice that the writ of . issued in this cause (or matter) directed to the bailiff and bearing date the . day of . 19 . has by order dated the . day of . 19 . been renewed for one year beginning with the date of the said order. To the bailiff. (Signed)
+- Take notice that the writ of . issued in this cause (or matter) directed to the bailiff and bearing date the . day of . 19 . has by order dated the . day of . 19 . been renewed for one year beginning with the date of the said order. To the bailiff.
+
+- (Signed)
 
 - Solicitor for .
 
@@ -858,7 +864,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - Upon reading the affidavit of . filed the . day of . 19 .:
 
-- It is ordered by (Mr. Justice .) that all debts due or accruing due from the above-mentioned garnishee to the above-mentioned judgment debtor (in the sum of $ .) be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the High Court on the . day of . 19 . for the sum (or to answer an order made in the High Court on the . day of . 19 .; ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remains due and unpaid.
+- It is ordered by (Mr. Justice . ) that all debts due or accruing due from the above-mentioned garnishee to the above-mentioned judgment debtor (in the sum of $ .) be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the High Court on the . day of . 19 . for the sum (or to answer an order made in the High Court on the . day of . 19 .; ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remains due and unpaid.
 
 - And it is ordered that the said garnishee attend Mr. Justice . in Chambers, at the High Court, in Hong Kong on the . day of . 19 . at . o’clock, on an application by the said judgment creditor that the garnishee do pay to the said judgment creditor the debt due from the said garnishee to the said judgment debtor, or so much thereof as may be sufficient to satisfy the said judgment (or order), together with the costs of the garnishee proceedings.
 
@@ -952,9 +958,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - To . Co. Ltd. Take notice that the securities comprised in and subject to the trusts of the settlement (or as may be) referred to in the affidavit to which this notice is annexed consist of the following, namely (specify the stock, shares, etc. stating the names in which it stands). This notice is intended to stop the transfer of the said securities and not the payment of any dividend thereof or interest thereon (or and also the payment of any dividend thereof or interest thereon).
 
-- (Signed) A.B. (or C.D. if affidavit
+- (Signed) | A.B. (or C.D. if affidavit
 
-- sworn by him).
+- sworn by him)
 
 - (25 of 1998 s. 2)
 
@@ -966,7 +972,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - Upon the hearing of the originating motion for an injunction this day made unto this Court by counsel for the applicant A.B.:
 
-- And the applicant by his counsel undertaking to abide by any order the Court may hereafter make should it decide that the respondents (the . Co. Ltd.) have sustained damage by reason of this order and are entitled to damages which the applicant ought to pay:
+- And the applicant by his counsel undertaking to abide by any order the Court may hereafter make should it decide that the respondents (the .
+
+- . Co. Ltd.) have sustained damage by reason of this order and are entitled to damages which the applicant ought to pay:
 
 - It is ordered that (the . Co. Ltd.) be restrained until the . day of . 19 . or further order from permitting the transfer of (describe stock) standing in the name of (state name of holder of stock) in their books, or any part thereof, and from paying any dividend or interest due or to become due thereon.
 
@@ -990,7 +998,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - And the plaintiff (by his solicitor) hereby undertaking to abide by any order the Court may hereafter make should it decide that the said defendant has sustained damage by reason of this order and is entitled to damages which the plaintiff ought to pay, it is ordered that the said defendant by himself, his agents or servants, or otherwise, be restrained, and an injunction is hereby granted restraining him, until after the hearing of the above application, from assigning, charging or otherwise dealing with the said property.
 
-- Dated the . day of . 19.
+- Dated the . day of . 19 .
 
 - (L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2)
 
@@ -1020,7 +1028,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - And that any of the parties be at liberty to apply to the Judge in chambers as there may be occasion.
 
-- Dated the . day of . 19.
+- Dated the . day of . 19 .
 
 - (L.N. 251 of 1997)
 
@@ -1066,15 +1074,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - Take notice that pursuant to the leave of the . given on the . day of . 19 ., the . will be moved on the . day of . 19 ., or so soon thereafter as counsel can be heard on behalf of . (for an order of mandamus that .) (or for an order of certiorari to remove .) (in terms of the relief sought in the statement accompanying the affidavit in support of the application for leave to apply for the order) on the grounds set out in the copy statement served herewith used on the application for leave to apply for such order. And that the costs of and occasioned by this motion be . And take notice that on the hearing of this motion the said . will use the affidavit of . and the exhibits therein referred to. (And also take notice that the . by order dated . directed that all proceedings in (or on) the said . be stayed until after the hearing of this motion or further order.) Dated the . day of . 19 .
 
-- (Signed) .
+- (Signed) . of . Solicitor for .
 
-- of .
-
-- Solicitor for .
-
-- To
-
-- Solicitor for .
+- To Solicitor for .
 
 - (25 of 1998 s. 2)
 
@@ -1086,17 +1088,11 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - COURT OF FIRST INSTANCE
 
-- Applicant-
+- Applicant
 
-- Notice of Application for leave to
-
-- apply for Judicial Review (O. 53, r. 3)
-
-- -
+- Notice of Application for leave to apply for Judicial Review (O. 53, r. 3)
 
 - This form must be read together with Notes for Guidance obtainable from the Registry.
-
-- -
 
 - To the Registrar, High Court, Hong Kong.
 
@@ -1114,7 +1110,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - (If there has been any delay, include reasons here)
 
-- Note: - Grounds must be supported by an affidavit which verifies the facts relied on.
+- Note:-Grounds must be supported by an affidavit which verifies the facts relied on.
 
 - (L.N. 251 of 1997; 25 of 1998 s. 2)
 
@@ -1126,11 +1122,15 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - of habeas corpus ad subjiciendum
 
-- Take notice that pursuant to the direction of the ., the . will be moved on the . day of . 19 ., or so soon thereafter as counsel can be heard on behalf of A.B. for an order that a writ of habeas corpus do issue directed to . to have A.B. before the Honourable Mr. Justice . at such time as the judge . may direct upon the grounds set out in the affidavits of the said A.B. and . and the exhibits therein respectively referred to used on the application to the . for such order, copies of which affidavits and exhibits are served herewith. And that the costs of and occasioned by this motion be the applicant’s to be taxed and paid by the respondents to the applicant. And take notice that on the hearing of this motion the said A.B. will use the affidavits of himself and the said . and the exhibits therein referred to. Dated the . day of . 19 .
+- Take notice that pursuant to the direction of the ., the . will be moved on the . day of . 19 ., or so soon thereafter as counsel can be heard on behalf of A.B. for an order that a writ of habeas corpus do issue directed to .
+
+- . to have A.B. before the Honourable Mr. Justice . at such time as the judge . may direct upon the grounds set out in the affidavits of the said A.B. and . and the exhibits therein respectively referred to used on the application to the . for such order, copies of which affidavits and exhibits are served herewith. And that the costs of and occasioned by this motion be the applicant’s to be taxed and paid by the respondents to the applicant. And take notice that on the hearing of this motion the said A.B. will use the affidavits of himself and the said . and the exhibits therein referred to. Dated the . day of . 19 .
 
 - (Signed) . of . Solicitor for .
 
-- To Solicitor for .
+- To
+
+- Solicitor for .
 
 - (25 of 1998 s. 2)
 
@@ -1172,7 +1172,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - (Repealed 95 of 1997 s. 7)
 
-- No. 94 Order for production of documents in marine insurance action (O. 72 r. 10) (Heading as in action)
+- - No. 94 Order for production of documents in marine insurance action (O. 72 r. 10) (Heading as in action)
 
 - Upon hearing . (and upon reading the affidavit of . filed the . day of . 19 .):
 
@@ -1202,7 +1202,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 99 Order of Court of Appeal to admit prisoner to bail (O. 59 r. 20) IN THE COURT OF APPEAL On appeal from the . court
 
-- Dated the . day of . 19. .
+- Dated the . day of . 19 . .
 
 - Whereas on the . day of . 19 . A.B. was ordered by (description of court) to be imprisoned for . for contempt of court and the said A.B. has appealed to this Honourable Court against the said order:—
 
@@ -1222,7 +1222,9 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - commenced between A.B. . 1st party
 
-- C.D. . 2nd party E.F. . 3rd party
+- C.D. . 2nd party
+
+- E.F. . 3rd party
 
 - etc.
 
@@ -1236,7 +1238,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - or
 
-- Of the said $ ., $ . is in satisfaction of the following matter in dispute in respect of which the . party claims (and after taking into account as above) and $ . is in satisfaction of the following matter in dispute in respect of which the . party claim (and after taking into account as above). Dated the . day of . 19 .
+- Of the said $ .; $ . is in satisfaction of the following matter in dispute in respect of which the . party claims (and after taking into account as above) and $ . is in satisfaction of the following matter in dispute in respect of which the . party claim (and after taking into account as above). Dated the . day of . 19 .
 
 - - No. 101 Notice of acceptance of money paid into court in connection with
 
@@ -1246,11 +1248,17 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - commenced between A.B. . 1st party
 
-- C.D. . 2nd party E.F. . 3rd party Take notice that the . party . accepts the sum of $ . paid in by the . party in satisfaction of the matter(s) in dispute in respect of which it was paid in and in respect of which the . party claims (against that party) (and abandons his claim(s) against that party in respect of the other matter(s) in dispute in the arbitration proceedings). Dated the . day of . 19 .
+- C.D. . 2nd party
+
+- E.F. . 3rd party Take notice that the . party . accepts the sum of $ . paid in by the . party in satisfaction of the matter(s) in dispute in respect of which it was paid in and in respect of which the . party claims (against that party) (and abandons his claim(s) against that party in respect of the other matter(s) in dispute in the arbitration proceedings). Dated the . day of . 19 .
 
 - - No. 102 Order of issue of warrant of arrest for examination (O. 49B r. 1) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
 
-- Between | A.B. AND C.D. | Judgment Creditor Judgment Debtor
+- Between | A.B. | Judgment Creditor
+
+- AND
+
+- C.D. | Judgment Debtor
 
 - Upon the application of the Judgment Creditor A.B. and upon hearing the solicitor for the said Judgment Creditor, and upon reading the affidavit of . filed the . day of . 19 . :
 
@@ -1292,7 +1300,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - [Delete, amend or substitute conditions in accordance with the order of the Court.]
 
-- Dated the . day of . 19.
+- Dated the . day of . 19 .
 
 - NOTE: The Judgment Debtor may apply to the Court to discharge this order.
 
@@ -1300,7 +1308,11 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 104 Order for imprisonment for debt (O. 49B r. 1B) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
 
-- Between | A.B. AND C.D. | Judgment Creditor Judgment Debtor
+- Between | A.B. | Judgment Creditor
+
+- AND
+
+- C.D. | Judgment Debtor
 
 - [Following examination of the Judgment Debtor under Order 49B rule 1A and upon the Court being satisfied as required by Order 49B rule 1B:] or [Upon the Court being satisfied that the Judgment Debtor has failed to comply with an order made under Order 49B rule 1B(3):] It is ordered that the bailiff do take the Judgment Debtor and deliver him into the custody of the Commissioner of Correctional Services to be kept in prison as a prisoner for debt for a period of . unless he shall be sooner discharged in due course of law. The Court has fixed the support and maintenance allowance at the rate of $ . a day. Dated the . day of . 19 .
 
@@ -1308,7 +1320,11 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 105 Application for order for imprisonment in default of payment (O. 49B r. 1B) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
 
-- Between | A.B. AND C.D. | Judgment Creditor Judgment Debtor
+- Between | A.B. | Judgment Creditor
+
+- AND
+
+- C.D. | Judgment Debtor
 
 - TAKE NOTICE that the Judgment Creditor will apply to the Court on . day of . 19 . for an order for the imprisonment of the Judgment Debtor on the ground that the Judgment Debtor has failed to make payment of the sum of $ . as ordered by the Court on . day of . 19 . Dated the . day of . 19 .
 
@@ -1316,7 +1332,11 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - - No. 106 Order prohibiting departure from Hong Kong (O. 44A r. 3) IN THE HIGH COURT OF HONG KONG COURT OF FIRST INSTANCE
 
-- Between | A.B. AND C.D. | Judgment Creditor/ Plaintiff/Claimant Judgment Debtor/ Defendant/Person against whom claim is made
+- Between | A.B. | Judgment Creditor/
+
+- AND | Plaintiff/Claimant
+
+- C.D. | Judgment Debtor/ Defendant/Person against whom claim is made
 
 - Upon the application of A.B. and upon hearing the solicitor for A.B., and upon reading the affidavit of . filed the . day of . 19. :
 
@@ -1362,7 +1382,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - .
 
-- Dated this . day of . 19 .
+- Dated the . day of . 19 .
 
 - (Sd.) .
 
@@ -1390,9 +1410,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - IN CHAMBERS ORDER
 
-- UPON the application of [A.B.] AND UPON HEARING [the said A.B.] AND UPON READING the affidavit of [A.B.] made on . IT IS ORDERED THAT the sum of $ . seized from [C.D.] of . (or, from person or persons unknown) at . Hong Kong on .-day, the . day of . at . o’clock Hong Kong time by [E.F.] of the . be further detained for a period of . days from the date hereof or until further order of this Court.
-
-- Dated this . day of . 19 .
+- UPON the application of [A.B.] AND UPON HEARING [the said A.B.] AND UPON READING the affidavit of [A.B.] made on . IT IS ORDERED THAT the sum of $ . seized from [C.D.] of . (or, from person or persons unknown) at . Hong Kong on .-day, the . day of . at . o’clock Hong Kong time by [E.F.] of the . be further detained for a period of . days from the date hereof or until further order of this Court. Dated the . day of . 19 .
 
 - Registrar.
 
@@ -1414,9 +1432,7 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - OF BRIBERY ORDINANCE (CAP. 201)
 
-- _
-
-- BETWEEN | [ ] and [ ] | Applicant Respondent
+- BETWEEN | _ [ ] and [ ] | Applicant Respondent
 
 - _ NOTICE OF MOTION
 
@@ -1426,11 +1442,15 @@ No. 14 Acknowledgment of Service of Writ of Summons (O. 12 r. 3) Directions for 
 
 - AND that the costs of and incidental to this application may be paid by .
 
-- . Dated this . day of . 19 .
+- . Dated the . day of . 19 .
 
 - (Sd.) .
 
-- The address for service of the Applicant, ., is . Hong Kong.
+- The address for service of the Applicant, .
+
+- ., is .
+
+- . Hong Kong.
 
 - (L.N. 222 of 1997; 25 of 1998 s. 2)
 
