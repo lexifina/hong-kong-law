@@ -1,0 +1,5 @@
+PRACTISING CERTIFICATE (BARRISTERS) RULES
+
+(Cap. 159, section 72)
+
+[20th August 1976]
