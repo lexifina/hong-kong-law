@@ -1,0 +1,5 @@
+LEGAL AID (SCALE OF FEES) REGULATIONS
+
+(Cap. 91, section 28)
+
+[23 June 1989]
