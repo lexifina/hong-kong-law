@@ -4,84 +4,88 @@
 
 FORMS
 
-FORM 1 PLANT (IMPORTATION AND PEST CONTROL) ORDINANCE
+FORM 1
 
-(Chapter 207) PLANT IMPORT LICENCE
+PLANT (IMPORTATION AND PEST CONTROL) ORDINANCE
+
+(Chapter 207)
+
+PLANT IMPORT LICENCE
 
 Permission is hereby given to
 
-Mr ./Mrs./Miss . | (name)
+Mr./Mrs./Miss | (name)
 
-of . . | (address)
+of
 
-to import the following plants/plant products/seeds provided that they are accompanied by a valid phytosanitary certificate. Species of Plant .
+(address)
 
-Quantity .
+to import the following plants/plant products/seeds provided that they are accompanied by a valid phytosanitary certificate.
 
-Source/Origin .
+Species of Plant
 
-Period of Validity of the Licence .
+Quantity
+
+Source/Origin
+
+Period of Validity of the Licence
 
 Other conditions:
 
 .
 
-Director of Agriculture and Fisheries.
+Director of Agriculture, Fisheries and Conservation.
 
-Date .
+Date
 
-FORM 2 | [sections 6 & 25]
+(Amended L.N. 331 of 1999)
+
+_
+
+FORM 2
+
+[ss. 6 & 25]
 
 PHYTOSANITARY CERTIFICATE
 
-PLANT PROTECTION SERVICE | No. .
+PLANT PROTECTION SERVICE | No.
 
-OF: .
+OF:
 
-This is to certify— that the plants or plant products described below or representative samples of them were thoroughly examined on (date) .
-
-by (name) . an
-
-authorized officer of the (service) .
-
-. and were found to the best of his
-
-knowledge to be substantially free from injurious diseases and pests; and that the consignment is believed to conform with the current phytosanitary regulations of the importing country both as stated in the additional declaration hereon and otherwise.
+This is to certify— that the plants or plant products described below or representative samples of them were thoroughly examined on (date) . by (name) . an authorized officer of the (service) . . and were found to the best of his knowledge to be substantially free from injurious diseases and pests; and that the consignment is believed to conform with the current phytosanitary regulations of the importing country both as stated in the additional declaration hereon and otherwise.
 
 Identity and Description of Consignment.
 
-Name and address of exporter: .
+Name and address of exporter:
 
-Name and address of consignee: .
+Name and address of consignee:
 
-Number and description of packages: .
+Number and description of packages:
 
-Distinguishing marks: .
+Distinguishing marks:
 
-Origin: .
+Origin:
 
-Means of conveyance: .
+Means of conveyance:
 
-Point of entry: .
+Point of entry:
 
-Quantity (or weight) and name of produce: .
+Quantity (or weight) and name of produce:
 
-Botanical name: .
+Botanical name:
 
 Fumigation or disinfection treatment (if any)
 
-Date: . | Treatment: .
+Date: | Treatment:
 
-Duration and Temperature: . | Chemical: .
+Duration and Temperature: | Chemical:
 
-Additional Information: . | Concentration: .
+Additional Information: | Concentration:
 
 Additional Declaration
 
-. 19 . .
+. 19
 
-(Signature)
+. (Signature)
 
-(Stamp of the Service) | .
-
-(Rank)
+(Stamp of the Service) | . (Rank)

@@ -224,7 +224,7 @@ Director-General of Telecommunications | Director-General of Telecommunications 
 
 Director of Accounting Services | Director of Accounting Services Deputy Director of Accounting Services Assistant Director of Accounting Services | 1.3.1975 1.3.1975 11.1.1978
 
-Director of Agriculture and Fisheries | Director of Agriculture and Fisheries Deputy Director of Agriculture and Fisheries Assistant Director of Agriculture and Fisheries | 1.4.1966 12.5.1971 1.7.1964
+Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) Deputy Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) Assistant Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | 1.4.1966 12.5.1971 1.7.1964
 
 Director of Architectural Services | Director of Architectural Services Deputy Director of Architectural Services | 11.4.1986 11.4.1986
 

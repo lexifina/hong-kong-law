@@ -440,7 +440,9 @@ CONDITIONS
 
 - 8. In this Licence—
 
-  - (1) “Press message” (新聞訊息) means messages of which the text consists exclusively of information, comment, reports and narratives on subjects of public interest for the time being intended for publication in a newspaper; or for broadcasting;
+  - (1)
+
+    - “Press message” (新聞訊息) means messages of which the text consists exclusively of information, comment, reports and narratives on subjects of public interest for the time being intended for publication in a newspaper; or for broadcasting;
 
   - (2) (Repealed L.N. 4 of 1984)
 
@@ -2742,13 +2744,13 @@ CONDITIONS
 
     - (b) neither the licensee nor the users of the system are required to pay a fee to the signal originator or his authorized agent.
 
-  - (2) For the purpose of paragraph (1)(a), it will be regarded as a public declaration if the signal originator declares publicly by publication in—
+    - (2) For the purpose of paragraph (1)(a), it will be regarded as a public declaration if the signal originator declares publicly by publication in—
 
     - (a) 1 Chinese language newspaper circulating in Hong Kong; and
 
     - (b) 1 English language newspaper circulating in Hong Kong.
 
-  - (3) The licensee may distribute signals carrying subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunication services and telecommunications messages.
+    - (3) The licensee may distribute signals carrying subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunication services and telecommunications messages.
 
     - 12.
 
@@ -3170,7 +3172,7 @@ CONDITIONS
 
         - public buildings and trees
 
-    - 33. No part of the Network shall be attached to any Government building except with the prior written consent of the Government Property Administrator or to any Urban Council or Regional Council building except with the prior written consent of the Director of Urban Services or the Director of Regional Services, or to any tree on any Government land except with the prior written consent of the Director of Agriculture and Fisheries, the Director of Urban Services or the Director of Regional Services. Works in public streets
+    - 33. No part of the Network shall be attached to any Government building except with the prior written consent of the Government Property Administrator or to any Urban Council or Regional Council building except with the prior written consent of the Director of Urban Services or the Director of Regional Services, or to any tree on any Government land except with the prior written consent of the Director of Agriculture, Fisheries and Conservation, the Director of Urban Services or the Director of Regional Services. (L.N. 331 of 1999) Works in public streets
 
     - 34.
 
@@ -3276,7 +3278,7 @@ CONDITIONS
 
     - THE PROVISION OF THE SERVICE
 
-- (L.N. 133 of 1995; 29 of 1998 ss. 24 & 105)
+- (L.N. 133 of 1995; 29 of 1998 ss. 24 & 105; L.N. 331 of 1999)
 
 - TELECOMMUNICATION ORDINANCE
 
