@@ -18,7 +18,7 @@ BEFORE completing this application READ the Note below.
 
 -
 
-I . hereby apply for a licence to promote and conduct at lottery.
+I . hereby apply for a licence to promote and conduct a lottery.
 
 In support of my application I attach Form .
 
@@ -70,7 +70,7 @@ to be used for .
 
 - If the Commissioner decides to grant a licence, a fee of $3,165 will be payable to the Commissioner upon such grant, unless waived or reduced.
 
-- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000)
+- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000 ; L.N. 92 of 2002)
 
 - FORM 2
 
@@ -88,9 +88,7 @@ to be used for .
 
 - - -
 
-- I . hereby apply for a licence to organize and conduct games of tombola.
-
-- In support of my application I attach Form .
+- I . hereby apply for a licence to organize and conduct games of tombola. In support of my application I attach Form .
 
 - (see Note 2 below)
 
@@ -116,9 +114,7 @@ to be used for .
 
 - 5. The maximum commission or charge levied against the total contributions to any individual game will be . per cent.
 
-- 6. The total number of games held in any single day will not exceed . .
-
-- (delete one)
+- 6. The total number of games held in any single day will not exceed . . (delete one)
 
 - 7. A “jackpot” (大獎) or “snowball” (累積獎金) will/will not be offered in respect of a day’s play, of an amount of $ . I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
 
@@ -176,9 +172,7 @@ to be used for .
 
 - 3. The cost of participation in each game will be $ .
 
-- 4. The value of an individual prize will not exceed $ .
-
-- I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
+- 4. The value of an individual prize will not exceed $ . I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
@@ -388,13 +382,7 @@ BEFORE completing this form READ the Note below.
 
 - .
 
-- 12. Has the applicant ever been convicted of an offence? Yes/No If “Yes”, give details . .
-
-- (court where convicted, date of conviction, offence and penalty)
-
-- .
-
-- I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. Complete this form only if you are not making application on behalf of a company or on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies.
+- 12. Has the applicant ever been convicted of an offence? Yes/No If “Yes”, give details . . (court where convicted, date of conviction, offence and penalty) . I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. Complete this form only if you are not making application on behalf of a company or on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies.
 
 - 2. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41)
 
@@ -474,7 +462,7 @@ BEFORE completing this form READ the Note below.
 
 - .
 
-- . I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19. . (Signature) Position in Company .
+- . I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) Position in Company .
 
 - - Note: 1. Complete this form only if you are making application on behalf of a company.
 
@@ -504,13 +492,13 @@ BEFORE completing this form READ the Note below.
 
 - Name | Address
 
-- President/ Chairman | . | .
+- President/Chairman | . | .
 
 - Secretary | . | .
 
 - Treasurer | . | .
 
-- Accountant/ Auditor | . | .
+- Accountant/Auditor | . | .
 
 - 5. Has an officer of or any person involved in the administration of the club or society ever been convicted of an offence? Yes/No If “Yes”, give details. (Court where convicted, date of conviction, offence and penalty)
 
