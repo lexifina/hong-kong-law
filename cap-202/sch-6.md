@@ -10,8 +10,8 @@ Rank of qualified person | Monthly rate | Monthly rate
 
 (HK$) | (HK$)
 
-Officer rank | 5066.16 | 5066.16
+Officer rank | 5091.49 | 5091.49
 
-Member rank | 4900.52 | 1147.36
+Member rank | 4925.02 | 1153.10
 
-(Amended L.N. 489 of 1997; L.N. 308 of 1998; L.N. 217 of 1999)
+(Amended L.N. 489 of 1997; L.N. 308 of 1998; L.N. 217 of 1999; L.N. 134 of 2005)
