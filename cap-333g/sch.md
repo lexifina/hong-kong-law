@@ -164,7 +164,19 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
 - Yes/No*
 
-  - (b If yes, give the following details of each of such businesses: 123(i) Name of business(ii) Address (Post Office Box numbers are not acceptable)(iii) Nature of business(iv) Date of commencement(v) Date of termination (if applicable)
+  - (b) If yes, give the following details of each of such businesses:
+
+  - 1 | 2 | 3
+
+  - (i) Name of business
+
+  - (ii) Address (Post Office Box numbers are not acceptable)
+
+  - (iii) Nature of business
+
+  - (iv) Date of commencement
+
+  - (v) Date of termination (if applicable)
 
   - (c) Does the partnership intend to continue such business if this application is successful? Yes/No* C7 Give the following details of each existing partner:
 
@@ -352,7 +364,7 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
   - Dated this _ day of _ 19 _. (Note: This application must be signed by all general partners with their names in block letters.)
 
-- (23 of 1998 s. 2)
+- (23 of 1998 s. 2; 12 of 2000 s. 23)
 
 - PART D TO BE COMPLETED BY APPLICANTS THAT ARE CORPORATIONS
 
@@ -1068,7 +1080,7 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
     - Dated this _ day of _ 19 _ .
 
-    - A recent passport size photograph of the Relevant Person. | Signature of the: _ Relevant Person Full Name: _ (in block letters)
+    - A recent passport size photograph of the Relevant Person. | Signature of the : _ Relevant Person Full Name: _ (in block letters)
 
   - (12 of 2000 s. 23)
 
@@ -1362,166 +1374,6 @@ Copies of (b) and (c) must be certified by two directors of the corporation.
 
     - A recent passport size photograph of the applicant | Signature: _ Name of applicant: _ (in block letters)
 
-    - FORM 4 SECURITIES ORDINANCE SECTION 63 SECTION 54A(1) SECURITIES (DEALERS, INVESTMENT ADVISERS, PARTNERSHIPS
+    - FORM 4 (Repealed L.N. 89 of 2000)
 
-    - AND REPRESENTATIVES) RULES SECURITIES (MISCELLANEOUS) RULES NOTICE ALL PERSONS SUBMITTING A NOTIFICATION MUST COMPLETE PARTS A AND B PLEASE READ THE NOTES BELOW BEFORE COMPLETING THIS FORM NOTES:
-
-  - 1. If there is insufficient space to complete the information, please continue on a separate sheet, specify the type of notification to which the sheet relates and add your signature.
-
-  - 2. *means delete whichever is inappropriate.
-
-  - 3. All surnames of individuals must be underlined.
-
-  - 4. In this form, unless the context requires otherwise, ‘business’ (業務) means the business in respect of which you are registered.
-
-  - 5. In the case of a partnership, this notice must be signed by all general partners. In the case of a corporation, two directors, including the Chairman, must sign.
-
-  - 6. Notification of new director appointed or partner admitted must be accompanied by the following:
-
-    - (a) Photocopy of the Hong Kong identity card/Passport of that director or partner
-
-    - (b) Certified copy of the board resolution authorising his capacity (for dealing/supervisory directors only)
-
-  - PART A-DETAILS OF PERSON MAKING NOTIFICATION AS CURRENTLY NOTIFIED TO THE COMMISSION Name: Business address: Registration number: Business name (if any): If registered as representative, employer/principal: -
-
-  - PART B-TYPE OF EVENT(S) NOTIFIED (please indicate) ˙Change of business address . □
-
-  - (Also complete PART C & PART I) ˙Change of information supplied in or in connection with an application, including the addresses at which all records and documents are kept as required by section 27 of the Securities and Futures Commission Ordinance . □.
-
-  - (Also complete PART C & PART I) ˙Cessation of business . □
-
-  - (Also complete PART D & PART I) ˙Change of directors of a corporation . □
-
-  - (Also complete PART E & PART I) ˙A person ceasing to be a representative . □
-
-  - (Also complete PART F-SECTION 1 if notification is by a principal; SECTION 2 if notification is by a representative & PART I) ˙A person becoming a representative . □
-
-  - (Also complete PART G-SECTION 1 if notification is by a principal; SECTION 2 if notification is by a representative & PART I) ˙Change in the partner of a partnership; a partner dying, becoming bankrupt or, being a corporation, going into liquidation or being wound up; or a partnership being dissolved by order of court . □
-
-  - (Also complete PART H & PART I)
-
-  - -
-
-  - PART C-TO BE COMPLETED FOR CHANGED DETAILS Name: Business address: (including telephone number & fax. number) Business name (if any): Information supplied in or in connection with an application for registration, including the addresses at which all records and documents are kept as required by section 27 of the Securities and Futures Commission Ordinance (Cap. 24): Effective date: -
-
-  - PART D-TO BE COMPLETED FOR CESSATION OF BUSINESS Date of ceasing to carry on business: Reason for cessation: -
-
-  - PART E-TO BE COMPLETED FOR CHANGES IN DIRECTORS OF CORPORATIONS NEW DIRECTOR
-
-  - 1 | 2 | 3
-
-  - Name in English: in Chinese & code number (if applicable):
-
-  - Residential address and telephone number or, in the case of a corporate director, address and telephone number of its registered office or principal place of business:
-
-  - Nationality or, in the case of a corporation, its place of incorporation:
-
-  - Hong Kong identity card number/Passport number (if applicable):
-
-  - Date of birth (if applicable):
-
-  - Registration number (if applicable):
-
-  - Effective date:
-
-  - Will participate actively in dealing/advising (yes/no):
-
-  - CEASING DIRECTOR
-
-  - 1 | 2 | 3
-
-  - Name in English: in Chinese (if applicable):
-
-  - Registration number (if appropriate):
-
-  - Effective date:
-
-  - Reason for change:
-
-  - PART F-TO BE COMPLETED FOR PERSONS CEASING TO BE REPRESENTATIVES SECTION 1 -TO BE COMPLETED BY PRINCIPALS
-
-  - -DETAILS OF EACH PERSON CEASED TO BE A REPRESENTATIVE
-
-  - 1 | 2 | 3
-
-  - Name in English: in Chinese (if applicable):
-
-  - Registration number:
-
-  - Effective date:
-
-  - Reason for change:
-
-  - SECTION 2 -TO BE COMPLETED BY REPRESENTATIVES
-
-  - -DETAILS OF FORMER PRINCIPAL Name of former principal: Registration number of former principal: Date of ceasing to be that person’s representative: Reason for change: -
-
-  - PART G-TO BE COMPLETED FOR PERSONS BECOMING REPRESENTATIVES SECTION 1 -TO BE COMPLETED BY PRINCIPALS
-
-  - -DETAILS OF EACH NEW REPRESENTATIVE
-
-  - 1 | 2 | 3
-
-  - Name in English: in Chinese (if applicable):
-
-  - Registration number (if appropriate):
-
-  - Effective date:
-
-  - SECTION 2-TO BE COMPLETED BY REPRESENTATIVES
-
-  - -DETAILS OF NEW PRINCIPAL Name of new principal: Registration number of new principal: Date of commencing to be that person’s representative: -
-
-  - PART H-TO BE COMPLETED FOR CHANGES TO PARTNERSHIPS OR OTHER NOTIFIABLE EVENTS IN RELATION TO PARTNERSHIPS NEW PARTNER
-
-  - 1 | 2 | 3
-
-  - Name in English: in Chinese & code number (if applicable):
-
-  - Nationality or, in the case of a corporate partner, place of incorporation or principal place of business:
-
-  - Residential address and telephone number or, in the case of a corporate partner, address and telephone number of its registered office or principal place of business:
-
-  - Hong Kong identity card number/Passport number (if applicable):
-
-  - Date of birth (if applicable):
-
-  - Registration number:
-
-  - Effective date:
-
-  - Whether general or limited partner:
-
-  - CEASING PARTNER
-
-  - 1 | 2 | 3
-
-  - Name in English: in Chinese (if applicable):
-
-  - Registration number (if applicable):
-
-  - Effective date:
-
-  - Reason for cessation:
-
-  - OTHER NOTIFIABLE EVENTS Other notifiable events are the bankruptcy, liquidation or winding up of a partner; or the dissolution of the partnership by order of court. Type of event: Date: Court: Case number: NOTICE OF CONTINUATION OF BUSINESS PURSUANT TO SECTION 54A(1) The following partners desire to continue to carry on the business of dealing partnership/investment advisers’ partnership, and hereby give notice of that intention pursuant to section 54A(1).
-
-  - 1 | 2 | 3
-
-  - Name:
-
-  - Address:
-
-  - Registration number:
-
-  - Whether general or limited partner:
-
-- PART I Pursuant to section 63/section 54A(1) of the Securities Ordinance, Securities (Dealers, Investment Advisers, Partnerships and Representatives) Rules and Securities (Miscellaneous) Rules, I/we hereby give notice of the events specified above. Dated this . day of . 19 . .
-
-- Signed . | Signed .
-
-- Name . (in block letters) | Name . (in block letters)
-
-- Capacity . | Capacity .
-
-- (L.N. 253 of 1997)
+  - (L.N. 253 of 1997)
