@@ -20,6 +20,12 @@ PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
 
 - not being direct transit passengers.
 
+- 2A. Passengers who—
+
+  - (a) arrive at the airport from a place outside Hong Kong by an aircraft which, when the passenger ticket for the flight of the aircraft by which they so arrive at the airport was issued, has been scheduled to land at the airport on a particular day; and
+
+  - (b) subsequently depart from Hong Kong by an aircraft which, when the passenger ticket for the flight of the aircraft by which they so depart from Hong Kong was issued, has been scheduled to take off at the airport on the same day as the particular day referred to in paragraph (a). (Added L.N. 90 of 1999 and 44 of 1999 s. 23)
+
 - 3. Passengers who—
 
   - (a) arrive on an aircraft landing in Hong Kong solely by reason of distress, emergency or adverse weather; and
