@@ -89,3 +89,5 @@ ORDINANCE DO NOT APPLY UNDER SECTION 13(1) OF THIS ORDINANCE
 - (zk)-(zl) (Repealed 5 of 2002 s. 407)
 
 - (zm) a Solicitors Disciplinary Tribunal established under the Legal Practitioners Ordinance (Cap. 159). (Added L.N. 59 of 2000)
+
+- (zp) the Clearing and Settlement Systems Appeals Tribunal established under the Clearing and Settlement Systems Ordinance (Cap. 584). (Added 20 of 2004 s. 59)
