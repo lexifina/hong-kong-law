@@ -1981,3 +1981,7 @@ Item Body
 - 986. The Federation of Hong Kong Industries (Added L.N. 27 of 1999)
 
 - 987. Sheng Kung Hui Diocesan Welfare Council (Added L.N. 27 of 1999)
+
+- 988. Hong Kong St. John Ambulance (Added L.N. 67 of 1999)
+
+- 989. Hong Kong Association for Democracy and People’s Livelihood (Added L.N. 67 of 1999)
