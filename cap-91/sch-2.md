@@ -4,8 +4,6 @@
 
 PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 - PART I Description of proceedings
 
   - 1. Civil proceedings in any of the following courts—
@@ -40,7 +38,7 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5
 
   - 3. Proceedings for the recovery of a penalty where the proceedings may be taken by any person and the whole or part of the penalty is payable to the person taking the proceedings.
 
-  - 4. Election petitions arising from Legislative Council, Urban Council, Regional Council and District Board elections, except where the petitioner claims that a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383) or an inconsistency with the International Covenant on Civil and Political Rights as applied to Hong Kong is an issue and the Director is satisfied that, having regard to the matters set out in section 10(3), the petitioner would be granted a legal aid certificate. (Replaced 43 of 1995 s. 13)
+  - 4. Election petitions arising from Legislative Council, Urban Council, Regional Council and District Council elections, except where the petitioner claims that a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383) or an inconsistency with the International Covenant on Civil and Political Rights as applied to Hong Kong is an issue and the Director is satisfied that, having regard to the matters set out in section 10(3), the petitioner would be granted a legal aid certificate. (Replaced 43 of 1995 s. 13. Amended 8 of 1999 s. 89)
 
   - 5. In the Court of First Instance or District Court, in the case of a defendant, proceedings where the only question to be brought before the court is as to the time and mode of payment by him of debt (including liquidated damages) and costs. (Amended 43 of 1995 s. 13; 25 of 1998 s. 2)
 
