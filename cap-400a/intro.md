@@ -1,0 +1,5 @@
+NOISE CONTROL (GENERAL) REGULATIONS
+
+(Cap. 400, section 27)
+
+[17 February 1989] L.N. 45 of 1989
