@@ -6,6 +6,8 @@ SUBSTANCES FALLING WITHIN THE POISONS LIST TO WHICH SPECIAL RESTRICTIONS APPLY U
 
 A
 
+Abacavir; its salts
+
 Abciximab
 
 Acamprosate; its salts
@@ -125,6 +127,8 @@ Aminorex; its salts
 para-Aminosalicylic acid; its salts; its derivatives; their salts; any compound with any substance falling within this item
 
 Amiodarone; its salts
+
+Amisulpride; its salts
 
 Amitriptyline; its salts
 
@@ -293,6 +297,8 @@ Candesartan; its salts; its esters; their salts
 Cannabinol and its tetrahydro derivatives; their 3-alkyl homologues; any ester or ether of any substance falling within this item
 
 Cannabis; the resin of cannabis; extracts of cannabis; tinctures of cannabis; cannabin tennate
+
+Capecitabine; its salts
 
 Captodiamine; its salts
 
@@ -498,6 +504,8 @@ Cytarabine; its salts
 
 Dacarbazine
 
+Daclizumab
+
 Dalteparin; its salts
 
 Dapsone
@@ -611,6 +619,8 @@ Enoximone
 Entacapone; its salts
 
 Epoetin beta
+
+Eptifibatide; its salts
 
 Esmolol; its salts
 
@@ -1110,6 +1120,8 @@ Nefazodone; its salts
 
 Nefopam; its salts
 
+Nelfinavir; its salts
+
 Neostigmine; its salts
 
 Nevirapine; its salts
@@ -1175,6 +1187,8 @@ Orlistat; its salts
 Orphenadrine; its salts
 
 Ouabain
+
+Oxaliplatin; its salts
 
 Oxanamide
 
@@ -1426,6 +1440,8 @@ Ritodrine; its salts
 
 Ritonavir; its salts
 
+Rituximab
+
 Rivastigmine; its salts
 
 Rizatriptan; its salts
@@ -1666,6 +1682,8 @@ Zafirlukast
 
 Zalcitabine; its salts
 
+Zaleplon; its salts
+
 Zanamivir; its salts
 
 Zidovudine
@@ -1686,7 +1704,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000)
 
 B
 
