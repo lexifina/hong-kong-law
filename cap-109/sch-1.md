@@ -22,9 +22,9 @@ L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as ame
 
   - Type of Liquor | Rate
 
-  - Liquor with an alcoholic strength of more than 30% by volume measured at a temperature of 20 degrees Celsius | 100%
+  - Liquor with an alcoholic strength of more than 30% by volume measured at a temperature of 20°C | 100%
 
-  - Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20 degrees Celsius | 30%
+  - Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20°C | 30%
 
   - Wine | 60%
 
@@ -90,7 +90,7 @@ L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as ame
 
 - PART III DUTY ON HYDROCARBON OIL
 
-  - 1. Duty shall be payable on hydrocarbon oil at the following rates per litre— $
+  - 1. Subject to paragraph 1A, duty shall be payable on hydrocarbon oil at the following rates per litre— (Amended L.N. 233 of 2000) $
 
   - (a) | aircraft spirit . | 6.51
 
@@ -101,6 +101,14 @@ L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as ame
   - (d) | motor spirit (unleaded petrol) (Added 2 of 1991 s. 10) . | 6.06
 
   - (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; 2 of 1991 s. 10; L.N. 99 of 1991; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 45 of 1994 s. 4; 42 of 1995 s. 2; 32 of 1996 s. 2; L.N. 89 of 1997; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2; L.N. 249 of 1998 and L.N. 288 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 8; L.N. 70 of 2000 and 27 of 2000 s. 2)
+
+  - 1A. Duty shall be payable on ultra low sulphur diesel at the following rates—
+
+    - (a) from 7 July 2000 to 31 December 2000 (both dates inclusive), at $1.11 per litre;
+
+    - (b) from 1 January 2001 to 31 December 2001 (both dates inclusive), at $2.00 per litre; and
+
+    - (c) from 1 January 2002, at $2.89 per litre. (Added L.N. 233 of 2000)
 
   - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; L.N. 93 of 1998; 21 of 1998 s. 2)
 
@@ -114,9 +122,27 @@ L.N. 70 of 2000 and Ord. No. 27 of 2000 further amended L.N. 288 of 1998 (as ame
 
   - for each such person. (Replaced 32 of 1993 s. 5)
 
+  - 5.
+
+    - For the purposes of paragraph 1A, “ultra low sulphur diesel” (超低含硫量柴油) means a light diesel oil which—
+
+      - (a) contains not more than 0.005% by weight of sulphur as determined by ISO 14596;
+
+      - (b) has a cetane number of not less than 51.0 as determined by ISO 5165;
+
+      - (c) has a viscosity at 40°C of not less than 2.00 mm2/s and not more than 4.50 mm2/s as determined by ISO 3104;
+
+      - (d) has a 95% distillation temperature of not more than 345°C as determined by ISO 3405;
+
+      - (e) has a specific gravity at 15°C of not more than 0.835 as determined by ISO 3675; and
+
+      - (f) has a distillation percentage recovered at 250°C not more than 65% by volume as determined by ISO 3405.
+
+    - Note: In this Part, “ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Organization for Standardization commonly known by that ISO number. (Added L.N. 233 of 2000)
+
 - PART IV DUTY ON METHYL ALCOHOL
 
-  - 1. Duty shall be payable on methyl alcohol and any admixture containing methyl alcohol at the rate of $840 per hectolitre measured at a temperature of 20 degree Celsius and in addition, for every 1% by which the alcoholic strength by volume exceeds 30%, $28.1 per hectolitre. (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2)
+  - 1. Duty shall be payable on methyl alcohol and any admixture containing methyl alcohol at the rate of $840 per hectolitre measured at a temperature of 20°C and in addition, for every 1% by which the alcoholic strength by volume exceeds 30%, $28.1 per hectolitre. (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 67 of 1997 s. 3; L.N. 93 of 1998; 21 of 1998 s. 2)
 
 - PART V (Repealed 35 of 1992 s. 6)
 
