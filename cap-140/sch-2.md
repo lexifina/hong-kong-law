@@ -50,7 +50,7 @@ PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
 
 - 6. Passengers who are Vietnamese refugees as defined by section 2 of the Immigration Ordinance (Cap. 115), and who are permanently departing from Hong Kong for resettlement elsewhere.
 
-- 7. Passengers who are entitled to be accorded exemption from the tax by operation of the International Organizations and Diplomatic Privileges Ordinance (Cap. 190).
+- 7. Passengers who are entitled to be accorded exemption from the tax by operation of the International Organizations and Diplomatic Privileges Ordinance (Cap. 190) or the International Organizations (Privileges and Immunities) Ordinance (Cap. 558). (Amended 17 of 2000 s. 9)
 
 - 8. Passengers who—
 
