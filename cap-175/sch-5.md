@@ -1,4 +1,4 @@
-# FIFTH SCHEDULE
+# Schedule 5
 
 [s. 9]
 
@@ -12,19 +12,19 @@ Item | Particular | Fee
 
 $
 
-1. | A search either in indexes or in the register books for any given entry over a period not exceeding 5 years, i.e. a particular search . | 120
+1. | A search either in indexes or in the register books for any given entry over a period not exceeding 5 years, i.e. a particular search . | 140
 
-2. | A search either in indexes or in the register books for information other than that concerning any given entry, i.e. a general search . | 590
+2. | A search either in indexes or in the register books for information other than that concerning any given entry, i.e. a general search . | 680
 
-3. | A correction of an error in any register book . | 370
+3. | A correction of an error in any register book . | 425
 
-4. | A certified copy of an entry in any of the register books . but | 120
+4. | A certified copy of an entry in any of the register books . but | 140
 
-if posted to an addressee outside Hong Kong . and | 240
+if posted to an addressee outside Hong Kong . and | 275
 
 if required to be sent by airmail . | an additional amount equal to the airmail postage at the normal rate.
 
-(Replaced L.N. 77 of 1991. Amended L.N. 207 of 1993; L.N. 340 of 1994; L.N. 205 of 1995; L.N. 231 of 1996)
+(Replaced L.N. 77 of 1991. Amended L.N. 207 of 1993; L.N. 340 of 1994; L.N. 205 of 1995; L.N. 231 of 1996; L.N. 435 of 1997)
 
 PART II | [section 12]
 
@@ -32,7 +32,7 @@ FORM 1 DECLARATION FOR CORRECTION OF ERROR IN
 
 SPECIAL REGISTER OF BIRTHS
 
-We, A.B. of . and C.D. of . solemnly and sincerely declare that when the birth of E.F. was registered on the .day of . 19 ., the following errors of fact or substance occurred in the register, viz., (here set forth the error or errors).
+We, A.B. of . and C.D. of . solemnly and sincerely declare that when the birth of E.F. was registered on the . day of . 19 ., the following errors of fact or substance occurred in the register, viz., (here set forth the error or errors).
 
 And we further solemnly and sincerely declare that the true facts of the case are as follows-(here set forth the true facts).
 
