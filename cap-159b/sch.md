@@ -54,27 +54,27 @@ Address | Period of residence
 
 The attached document marked “ “ is a certified copy of my passport.
 
-- (2) I was admitted as a barrister in Hong Kong on the . day of ., 19 . and the attached document marked “ “ is a certified copy of my admission certificate.
+- (2) I was admitted as a barrister in Hong Kong on the . day of . and the attached document marked “ “ is a certified copy of my admission certificate.
 
 - (3) The attached document marked “ “ is a certificate from the Bar Council stating that it knows of no reason why I should not be admitted as a solicitor.
 
-- (4) My name was removed from the roll of barristers in Hong Kong on the . day of ., 19 . and the attached document marked “ “ is a certificate to that effect from the Registrar of the High Court.
+- (4) My name was removed from the roll of barristers in Hong Kong on the . day of . and the attached document marked “ “ is a certificate to that effect from the Registrar of the High Court.
 
-- (5) The Law Society of Hong Kong granted me exemption from employment as a trainee solicitor on the . day of ., 19 .
+- (5) The Law Society of Hong Kong granted me exemption from employment as a trainee solicitor on the . day of .
 
 - (6) I was not required to pass any examinations prior to applying for admission as a solicitor. OR*
 
-- I was required to pass an examination/examinations* in . prior to applying for admission as a solicitor. I passed the examination/examinations* on the . day of ., 19 . The attached document marked “ “ is a certified copy of a certificate from the authority administering the examination.
+- I was required to pass an examination/examinations* in . prior to applying for admission as a solicitor. I passed the examination/examinations* on the . day of . The attached document marked “ “ is a certified copy of a certificate from the authority administering the examination.
 
 - AND I make this solemn declaration conscientiously believing it to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
 
 - DECLARED at . | ｝
 
-- HONG KONG this . day of ., 19 .
+- HONG KONG this . day of .
 
 - Before me, Commissioner for Oaths/Solicitor. * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 321 of 1998)
+(L.N. 466 of 1994; L.N. 321 of 1998; L.N. 114 of 2000)
 
 _
 
@@ -118,23 +118,21 @@ Telephone contact number .
 
 - The attached document marked “ “ is a certified copy of my passport.
 
-- (2) I was admitted as an attorney/a solicitor/a barrister* of . on the . day of ., 19 . The attached document marked “ “ is a certified copy of my admission certificate.
+- (2) I was admitted as an attorney/a solicitor/a barrister* of . on the . day of . The attached document marked “ “ is a certified copy of my admission certificate.
 
 - (3) I was not required to pass any examinations prior to applying for admission as a solicitor. The attached document marked “ “ is the Hong Kong Law Society certificate to this effect. OR*
 
-- I was required to pass an examination/examinations* in . prior to applying for admission as a solicitor. I passed the examination/examinations* on the . day of ., 19 . The attached document marked “ “ is a certified copy of a
-
-- certificate from the authority administering the examination.
+- I was required to pass an examination/examinations* in . prior to applying for admission as a solicitor. I passed the examination/examinations* on the . day of . The attached document marked “ “ is a certified copy of a certificate from the authority administering the examination.
 
 - AND I make this solemn declaration conscientiously believing it to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
 
 - DECLARED at . | ｝
 
-- HONG KONG this . day of ., 19 .
+- HONG KONG this . day of .
 
 - Before me, Commissioner for Oaths/Solicitor. * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994)
+(L.N. 466 of 1994; L.N. 114 of 2000)
 
 _
 
@@ -148,11 +146,11 @@ THIS IS TO CERTIFY THAT
 
 of .
 
-- (1) on the . day of ., 19 . applied under rule 3(1) of the Admission and Registration Rules (Cap. 159 sub. leg. B) for a certificate of eligibility for admission as a solicitor on the basis of compliance with section 4(1)(a) of the Legal Practitioners Ordinance (Cap. 159); and
+- (1) on the . day of . applied under rule 3(1) of the Admission and Registration Rules (Cap. 159 sub. leg. B) for a certificate of eligibility for admission as a solicitor on the basis of compliance with section 4(1)(a) of the Legal Practitioners Ordinance (Cap. 159); and
 
 - (2) has satisfied the Society that he—
 
-  - (a) has complied with the provisions of the repealed Continuing Legal Education Rules or the Continuing Professional Development Rules (Cap. 159 sub. leg. W); (L.N. 627 of 1997)
+  - (a) has complied with the provisions of the repealed Continuing Legal Education Rules or the Continuing Professional Development Rules (Cap. 159 sub. leg. W);
 
   - (b) has passed or obtained or been granted total exemption from the examinations required by rule 7 of the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
@@ -162,7 +160,7 @@ of .
 
   - (e) is in other respects fit to be a solicitor.
 
-- Dated this . day of ., 19 .
+- Dated this . day of .
 
 - (Sgd.) .
 
@@ -170,7 +168,7 @@ of .
 
 - * Delete whichever inapplicable.
 
-(L.N. 466 of 1994)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000)
 
 FORM 3 | [rule 3(5)]
 
@@ -182,7 +180,7 @@ THIS IS TO CERTIFY THAT
 
 of .
 
-- (1) on the . day of ., 19. applied under rule 3(1) of the Admission and Registration Rules (Cap. 159 sub. leg. B) for a certificate of eligibility for admission as a solicitor on the basis of compliance with section 4(1)(b) of the Legal Practitioners Ordinance (Cap. 159); and
+- (1) on the . day of . applied under rule 3(1) of the Admission and Registration Rules (Cap. 159 sub. leg. B) for a certificate of eligibility for admission as a solicitor on the basis of compliance with section 4(1)(b) of the Legal Practitioners Ordinance (Cap. 159); and
 
 - (2) has satisfied the Society that—
 
@@ -194,17 +192,15 @@ of .
 
   - (c) he has resided in Hong Kong for at least 3 months immediately before his admission/intends to reside in Hong Kong for at least 3 months immediately after his admission/has been ordinarily resident in Hong Kong for at least 7 years/has been present in Hong Kong for at least 180 days of each of at least 7 years*; and
 
-  - (d) is in other respects fit to be a solicitor. Dated this . day of ., 19. (Sgd.) . for The Law Society of Hong Kong. # Please insert relevant profession (e.g. solicitor/advocate/attorney etc.) and the relevant jurisdiction. * Delete whichever is inapplicable.
+  - (d) is in other respects fit to be a solicitor. Dated this . day of . (Sgd.) . for The Law Society of Hong Kong. # Please insert relevant profession (e.g. solicitor/advocate/attorney etc.) and the relevant jurisdiction. * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994)
+(L.N. 466 of 1994; L.N. 114 of 2000)
 
 _
 
 FORM 4 | [rule 3(2)(b)]
 
-ADMISSION AND REGISTRATION RULES
-
-APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR ADMISSION
+ADMISSION AND REGISTRATION RULES APPLICATION FOR A CERTIFICATE OF ELIGIBILITY FOR ADMISSION
 
 AS A SOLICITOR ON THE BASIS OF COMPLIANCE WITH
 
@@ -228,7 +224,11 @@ of .
 
 . (the “Trainee Solicitor”)
 
-and . of . . (the “Principal”),
+and .
+
+of .
+
+. (the “Principal”),
 
 - do solemnly and sincerely declare as follows—
 
@@ -348,7 +348,7 @@ and . of . . (the “Principal”),
 
   - DECLARED at . | ｝
 
-  - HONG KONG this . day of ., 19 .
+  - HONG KONG this . day of .
 
 - Before me,
 
@@ -368,7 +368,7 @@ and . of . . (the “Principal”),
 
 - Note: Where the Trainee Solicitor has been employed under two or more trainee solicitor contracts, each person employing him shall make a separate declaration. * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000)
 
 FORM 5 | [rules 4, 8 & 11]
 
@@ -376,41 +376,41 @@ ADMISSION AND REGISTRATION RULES AFFIDAVIT OF IDENTITY
 
 - I, . of . Hong Kong, Solicitor, make oath and say (or solemnly and sincerely declare and affirm) as follows—
 
-  - 1. The photograph attached hereto and marked “ “ is a true likeness of . of . Hong Kong, a .*,
+  - 1. The photograph attached hereto and marked “ “ is a true likeness of . of . Hong Kong, a .*, the applicant herein.
 
-- the applicant herein.
+  - 2. I have examined [Hong Kong Identity Card No. .] [passport No. .] # of the said . and I am satisfied that from such examination that he is the person shown in the photograph attached hereto and that he is the applicant in these proceedings.
 
-  - 2. I have examined [Hong Kong Identity Card No. .] passport No. .] # of the said . and I am satisfied that from such examination that he is the person shown in the photograph attached hereto and that he is the applicant in these proceedings.
+  - SWORN/DECLARED at . Hong Kong this . day of . | ｝
 
-  - SWORN/DECLARED at . Hong Kong this . day of ., 19 . | ｝
+  - Before me Commissioner for Oaths/Solicitors.
 
-  - Before me Commissioner for Oaths/Solicitors. * Please insert relevant profession (e.g. barrister/solicitor/advocate/notary etc.) and the relevant court/bar/chamber.
+- * Please insert relevant profession (e.g. barrister/solicitor/advocate/notary etc.) and the relevant court/bar/chamber.
 
-  - # Delete whichever is inapplicable.
+- # Delete whichever is inapplicable.
 
-(L.N. 212 of 1976; L.N. 41 of 1981; L.N. 198 of 1981; L.N. 28 of 1992; L.N. 466 of 1994)
+- (L.N. 212 of 1976; L.N. 41 of 1981; L.N. 198 of 1981; L.N. 28 of 1992; L.N. 466 of 1994; L.N. 114 of 2000)
 
-_ FORM 6
+- _ FORM 6
 
-(Repealed L.N. 312 of 1988)
+- (Repealed L.N. 312 of 1988)
 
-_
+- _
 
-FORM 7 | [rule 7]
+- FORM 7 | [rule 7]
 
-ADMISSION AND REGISTRATION RULES ROLL OF SOLICITORS
+- ADMISSION AND REGISTRATION RULES ROLL OF SOLICITORS
 
-.was duly admitted to practise as a Solicitor of the High Court of Hong Kong on the . day of ., 19 .
+- .was duly admitted to practise as a Solicitor of the High Court of Hong Kong on the . day of .
 
-.
+- .
 
-Registrar,
+- Registrar,
 
-High Court,
+- High Court,
 
-Hong Kong.
+- Hong Kong.
 
-(L.N. 212 of 1976; L.N. 41 of 1981; 25 of 1998 s. 2)
+(L.N. 212 of 1976; L.N. 41 of 1981; 25 of 1998 s. 2; L.N. 114 of 2000)
 
 _
 
@@ -444,10 +444,10 @@ FORM 10 | [rule 8]
 
 ADMISSION AND REGISTRATION RULES CERTIFICATE AS TO DATE OF ADMISSION
 
-I HEREBY CERTIFY THAT . was duly admitted as a solicitor of the High Court of Hong Kong on the . day of ., 19 . and .
+I HEREBY CERTIFY THAT . was duly admitted as a solicitor of the High Court of Hong Kong on the . day of . and .
 
 - .and his name has been on the Roll of Solicitors continuously between the following dates-
 
-- . Dated this . day of ., 19 . . Registrar, High Court, Hong Kong.
+- . Dated this . day of . . Registrar, High Court, Hong Kong.
 
-(L.N. 121 of 1993; 25 of 1998 s. 2)
+(L.N. 121 of 1993; 25 of 1998 s. 2; L.N. 114 of 2000)
