@@ -1,21 +1,17 @@
-# Schedule 2
+# SCHEDULE 2
 
-[ss. 4, 6(3) & 7(1) ]
+[ss. 4, 6(3) & 7(1)]
 
-BODIES SPECIFIED FOR THE PURPOSES
+BODIES SPECIFIED FOR THE PURPOSES OF SECTION 7(1)
 
-OF SECTION 7(1) Proportion of the net
+Item | Specified body | Proportion of the net resources of the Board to be distributed
 
-Item Specified body resources of the Board
+Proportion of the net resources up to the relevant period ending on 31.3 1998 | Proportion of the net resources in respect of the relevant period ending on 30.6.1998 and thereafter
 
-to be distributed
+1. | The Occupational Safety and Health Council | two sevenths | four ninths
 
-- 1. The Occupational Safety and Health Council two sevenths
+2. | The Employees Compensation Assistance Fund Board | two sevenths | two ninths
 
-- 2. The Employees Compensation Assistance two sevenths
+3. | The Occupational Deafness Compensation Board | three sevenths | three ninths
 
-- Fund Board
-
-- 3. The Occupational Deafness Compensation three sevenths
-
-- Board (Added 21 of 1995 s. 44) (Amended 54 of 1991 s. 47; 21 of 1995 s. 44)
+(Replaced L.N. 484 of 1997)
