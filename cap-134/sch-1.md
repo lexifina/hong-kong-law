@@ -124,6 +124,8 @@ DANGEROUS DRUGS
 
   - Isomethadone
 
+  - Ketamine (Added L.N. 329 of 2000)
+
   - Ketazolam
 
   - Ketobemidone
