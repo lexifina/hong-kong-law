@@ -1,0 +1,5 @@
+EMPLOYEES’ COMPENSATION REGULATIONS
+
+(Cap. 282, section 49)
+
+[1 December 1953]
