@@ -1,0 +1,5 @@
+FOREIGN LAWYERS PRACTICE RULES
+
+(Cap. 159, section 73)
+
+[9 September 1994]
