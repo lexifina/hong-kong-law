@@ -180,7 +180,7 @@ ZYGOPHYLLACEAE | Guaiacum officinale
 
 Guaiacum sanctum | Holywood or Lignumvitae
 
-Note In this Part, the specification of a plant in column 2 does not include the specification of an artificially propagated plant specimen. (Amended L.N. 69 of 1998)
+Note In this Part, the specification of a plant in column 2— (a) does not include the specification of its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro; (b) includes the specification of an artificially propagated plant, its parts and derivatives other than its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro and cut flowers. (Replaced L.N. 164 of 2000)
 
 (Part 1 amended L.N. 38 of 1999)
 
@@ -204,7 +204,7 @@ PODOCARPACEAE | Podocarpus neriifolius | Thitmin
 
 TETRACENTRACEAE | Tetracentron sinense
 
-Note In this Part, the specification of a plant in column 2 does not include the specification of any seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro or artificially propagated plant specimen.
+Note In this Part, the specification of a plant in column 2— (a) does not include the specification of its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro; (b) includes the specification of an artificially propagated plant, its parts and derivatives other than its seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro and cut flowers. (Replaced L.N. 164 of 2000)
 
 (Part 2 added L.N. 69 of 1998)
 
