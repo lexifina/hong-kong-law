@@ -1,0 +1,363 @@
+# FIRST SCHEDULE
+
+PART I | [sections 2, 3 & 22]
+
+DANGEROUS DRUGS
+
+- 1. The following substances, namely—
+
+  - (a) Acetyldihydrocodeine Alphacetylmethadol
+
+  - Alphamethadol
+
+  - Alprazolam
+
+  - Aminorex
+
+  - Amphetamine
+
+  - Barbitone
+
+  - Benzylmorphine (3-benzylmorphine) Betacetylmethadol
+
+  - Betamethadol
+
+  - Bezitramide
+
+  - Bromazepam
+
+  - Brotizolam
+
+  - Camazepam
+
+  - Cannabinol and its tetrahydro derivatives; their 3-alkyl homologues Cathinone
+
+  - Chlordiazepoxide
+
+  - Clobazam
+
+  - Clonazepam
+
+  - Clonitazene
+
+  - Clorazepate
+
+  - Clotiazepam
+
+  - Cloxazolam
+
+  - Cocaine
+
+  - Codeine
+
+  - Codoxime
+
+  - Delorazepam
+
+  - Desomorphine
+
+  - Dextromoramide
+
+  - Dextropropoxyphene
+
+  - Diampromide (N-[2-(N-methylphenethylamine)propyl] propionanilide) Diazepam
+
+  - Diethylthiambutene
+
+  - Difenoxin
+
+  - Dihydrocodeine
+
+  - Dihydromorphine
+
+  - Dimenoxadol
+
+  - Dimepheptanol
+
+  - Dimethylthiambutene
+
+  - Dioxaphetyl butyrate
+
+  - Dipipanone
+
+  - Drotebanol
+
+  - Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine
+
+  - Estazolam
+
+  - Ethyl Loflazepate
+
+  - Ethylmethylthiambutene
+
+  - Eticyclidine
+
+  - Ethylmorphine (3-ethylmorphine) Etonitazene
+
+  - Etorphine
+
+  - Fentanyl
+
+  - Fludiazepam
+
+  - Flunitrazepam
+
+  - Flurazepam
+
+  - Halazepam
+
+  - Haloxazolam
+
+  - Heroin (diacetylmorphine) Hydrocodone (dihydro-codeinone) Hydromorphinol
+
+  - Hydromorphone
+
+  - Hydroxypethidine
+
+  - Isomethadone
+
+  - Ketazolam
+
+  - Ketobemidone
+
+  - Levomethorphan
+
+  - Levomoramide
+
+  - Levophenacylmorphan
+
+  - Levorphanol
+
+  - Loprazolam
+
+  - Lorazepam
+
+  - Lormetazepam
+
+  - Lysergamide
+
+  - Lysergide and other N-alkyl derivatives of lysergamide
+
+  - Mecloqualone
+
+  - Medazepam
+
+  - Metazocine
+
+  - Methadone
+
+  - Methadyl acetate
+
+  - Methamphetamine (methylamphetamine) Methaqualone
+
+  - Methcathinone
+
+  - Methyldesorphine
+
+  - Methyldihydromorphine (6-methyldihydromorphine) Methyl phenidate
+
+  - Metopon
+
+  - Midazolam
+
+  - Morphine
+
+  - Morphine methobromide, morphine-N-oxide and other pentavalent nitrogen morphine derivatives
+
+  - Myrophine
+
+  - Nicocodine
+
+  - Nicomorphine (3, 6-dinicotinoyl-morphine)
+
+  - Nimetazepam
+
+  - Nitrazepam
+
+  - Noracylmethadol
+
+  - Norcodeine
+
+  - Nordazepam
+
+  - Norlevorphanol
+
+  - Normethadone
+
+  - Normorphine
+
+  - Norpipanone
+
+  - Oxazepam
+
+  - Oxazolam
+
+  - Oxycodone
+
+  - Oxymorphone
+
+  - Pethidine
+
+  - Phenadoxone
+
+  - Phenampromide
+
+  - Phenazocine
+
+  - Phencyclidine
+
+  - Phendimetrazine
+
+  - Phenmetrazine
+
+  - Phenomorphan
+
+  - Phentermine
+
+  - Pholcodine
+
+  - Pinazepam
+
+  - Piritramide
+
+  - Prazepam
+
+  - Proheptazine
+
+  - Propiram
+
+  - Quinalbarbitone
+
+  - Racemethorphan
+
+  - Racemoramide
+
+  - Racemorphan
+
+  - Rolicyclidine
+
+  - Temazepam
+
+  - Tetrazepam
+
+  - Tenocyclidine
+
+  - Thebacon
+
+  - Thebaine
+
+  - Tilidate
+
+  - Triazolam
+
+  - 4-Cyano-2-dimethylamino-4, 4-diphenylbutane
+
+  - 4-Cyano-1-methyl-4-phenylpiperidine
+
+  - N, N-dimethylamphetamine
+
+  - N-[α-Methyl-3, 4-(methylenedioxy)phenethyl] hydroxylamine
+
+  - 1-Methyl-4-phenylpiperidine-4-carboxylic acid
+
+  - 2-Methyl-3-morpholino-1, 1-diphenyl-propanecarboxylic acid
+
+  - 4-Methyl aminorex
+
+  - 4-Phenylpiperidine-4-carboxylic acid ethyl ester;
+
+  - (b) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from tryptamine or from a ring-hydroxy tryptamine by substitution at the nitrogen atom of the sidechain with one or more alkyl substituents but no other substituent;
+
+  - (c) any compound (not being methoxyphenamine or a compound for the time being specified in subparagraph (a)) structurally derived from phenethylamine, an N-alkylphenethylamine, alpha-methylphenethylamine, an N-alkyl-α-methylphenethylamine, α-ethylphenethylamine, or an N-alkyl-α-ethylphenethylamine by substitution in the ring to any extent with alkyl, alkoxy, alkyl-enedioxy or halide substituents, whether or not further substituted in the ring by one or more other univalent substituents;
+
+  - (d) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from fentanyl by modification in any of the following ways, that is to say—
+
+    - (i) by replacement of the phenyl portion of the phenethyl group by any heteromonocycle whether or not further substituted in the heterocycle;
+
+    - (ii) by substitution in the phenethyl group with alkyl, alkenyl, alkoxy, hydroxy, halogeno, haloalkyl, amino or nitro groups;
+
+    - (iii) by substitution in the piperidine ring with alkyl or alkenyl groups;
+
+    - (iv) by substitution in the aniline ring with alkyl, alkoxy, alkenedioxy, halogeno or haloalkyl groups;
+
+    - (v) by substitution at the 4-position of the piperidine ring with any alkoxycarbonyl or alkoxyalkyl or acyloxy group;
+
+    - (vi) by replacement of the N-propionyl group by another acyl group;
+
+  - (e) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from pethidine by modification in any of the following ways, that is to say—
+
+    - (i) by replacement of the 1-methyl group by an acyl, alkyl whether or not unsaturated, benzyl or phenethyl group, whether or not further substituted;
+
+    - (ii) by substitution in the piperidine ring with alkyl or alkenyl groups or with a propano bridge, whether or not further substituted;
+
+    - (iii) by substitution in the 4-phenyl ring with alkyl, alkoxy, aryloxy, halogeno or haloalkyl group;
+
+    - (iv) by replacement of the 4-ethoxycarbonyl by any other alkoxycarbonyl or any alkoxyalkyl or acyloxy group;
+
+    - (v) by formation of an N-oxide or of a quarternary base.
+
+- 2. Any stereoisomeric form of a substance for the time being specified in paragraph 1 not being dextromethorphan or dextrophan.
+
+- 3. Any ester or ether of a substance for the time being specified in paragraph 1 or 2.
+
+- 4. Any salt of a substance for the time being specified in paragraph 1, 2 or 3.
+
+- 5. Concentrate of poppy straw (that is to say, the material arising when poppy straw has entered into a process for the concentration of its alkaloids).
+
+- 6. Medicinal opium.
+
+- 7. Any preparation, mixture, extract or other substance (whether natural or otherwise) containing any proportion of a substance for the time being specified in paragraph 1 or in any of paragraphs 2 to 6.
+
+- 8. Opium and opium water.
+
+- 9. Coca leaves.
+
+- 10. Poppy straw.
+
+- 11. Cannabis and cannabis resin. (Replaced 62 of 1994 s. 9)
+
+PART II | [sections 4, 23 & 24]
+
+PREPARATIONS TO WHICH ORDINANCE APPLIES WITH MODIFICATIONS
+
+- 13. A preparation of not more than one of the substances specified in paragraph 19 or 20, when—
+
+  - (a) compounded with one or more other ingredients in such a way that the preparation has no, or a negligible, risk of abuse and that the substance cannot be recovered by readily applicable means or in a yield which would constitute a risk to health; and
+
+  - (b) containing not more than 100 milligrams of the substance per dosage unit and with a concentration of not more than 0.5 per cent in undivided preparations. (Amended 62 of 1994 s. 9)
+
+- 14. A preparation of cocaine containing not more than 0.1 per cent of cocaine calculated as cocaine base, being a preparation compounded with one or more other ingredients in such a way that the preparation has no, or a negligible, risk of abuse and that the cocaine cannot be recovered by readily applicable means or in a yield which would constitute a risk to health.
+
+- 15. A preparation of medicinal opium or of morphine containing (in either case) not more than 0.2 per cent of morphine calculated as anhydrous morphine base, being a preparation compounded with one or more other ingredients in such a way that the preparation has no, or a negligible, risk of abuse and that the opium or, as the case may be, the morphine cannot be recovered by readily applicable means or in a yield which would constitute a risk to health.
+
+- 16. A preparation of diphenoxylate containing, per dosage unit, not more than 2.5 milligrams of diphenoxylate calculated as base and not less than 25 micrograms of atropine sulphate. (Amended L.N. 324 of 1980)
+
+- 16A. A preparation of difenoxin containing, per dosage unit, not more than 0.5 milligram of difenoxin calculated as base and a quantity of atrophine sulphate equivalent to at least 5% of the dose of difenoxin. (Added L.N. 321 of 1977. Amended L.N. 324 of 1980)
+
+- 16B. A preparation for oral use containing not more than 135 milligrams of dextropropoxyphene base per dosage unit or with a concentration of not more than 2.5 per cent in undivided preparations:
+
+  - Provided that such preparations do not contain any substance specified in the Third Schedule to the Pharmacy and Poisons Regulations (Cap. 138 sub. leg.). (Added L.N. 185 of 1983)
+
+- 16C. A preparation of Propiram containing not more than 100 milligrams of propiram per dosage unit and compounded with at least the same amount of methylcellulose. (Added L.N. 185 of 1983)
+
+- 17. Pulvis Ipecacuanhae et Opii Compositus— 10 per cent opium, in powder, 10 per cent Ipecacuanhae root, in powder, well mixed with 80 per cent of any other powdered ingredient containing no dangerous drug.
+
+- 18. Mixtures containing not more than one of the preparations specified in paragraphs 13 to 17, being mixtures whereof none of the other ingredients is a dangerous drug.
+
+- PART III | [sections 25, 26 & 32]
+
+- DANGEROUS DRUGS TO WHICH ORDINANCE APPLIES WITH OTHER MODIFICATIONS
+
+- 19. The following substances, namely— Acetyldihydrocodeine Codeine Dextropropoxyphene Dihydrocodeine Ethylmorphine (3-ethylmorphine) Nicocodine Norcodeine Pholcodine Propiram (Amended L.N. 185 of 1983)
+
+- 20. Any salt of a substance specified in paragraph 19.
+
+- 21. Any preparation, mixture, extract or other substance containing any proportion of a substance specified in paragraph 19 or 20, being a preparation, mixture, extract or other substance whereof none of the other ingredients is a dangerous drug. (Amended 46 of 1971 s. 10)
+
+- 22. Any other preparation specified in Part II of this Schedule.
+
+- PART IV | [sections 24, 25 & 26]
+
+- PREPARATIONS WHICH MAY BE SOLD BY RETAIL BY LISTED SELLERS OF POISONS UNDER PHARMACY AND POISONS ORDINANCE (CAP. 138) (Amended 46 of 1971 s. 10)
+
+- 23. Any preparation containing not more than 0.1 per cent of any of the following substances, namely— Cocaine Morphine Acetyldihydrocodeine Codeine Dihydrocodeine Ethylmorphine (3-ethylmorphine) Nicocodine Norcodeine Pholcodine, being a preparation compounded with one or more other ingredients in such a way that the preparation has no, or a negligible, risk of abuse and that the substance contained therein cannot be recovered by readily applicable means or in a yield which would constitute a risk to health.
