@@ -46,7 +46,7 @@ PUBLIC BODIES
 
 - 21. Hong Kong Telephone Company Limited.
 
-- 22. Hong Kong Tourist Association.
+- 22. Hong Kong Tourism Board. (Replaced 3 of 2001 s. 45)
 
 - 23. Hong Kong Trade Development Council.
 

@@ -216,7 +216,9 @@ Application is hereby made to the Registrar of Travel Agents for a licence under
 
 - corporate for a person in
 
-- this behalf should be produced) NOTES
+- this behalf should be
+
+- produced) NOTES
 
 - 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application.
 
@@ -298,15 +300,11 @@ A LICENCE BY AN INDIVIDUAL OR BY AN UNINCORPORATED BODY
 
 - 3.
 
-  - (a) Is the business of a travel agency for which application is being made for a licence, a member of the Hong Kong Tourist Association?
+  - (a) Is the business of a travel agency for which application is being made for a licence, a member of any established travel business association(s) in Hong Kong?
 
   - Yes | No
 
-  - (b) Is the business of a travel agency for which application is being made for a licence, a member of any established travel business association(s) in Hong Kong?
-
-  - Yes | No
-
-  - (c) If the answer to (b) is ‘Yes’, give the name(s) of the travel business association(s)—
+  - (b) If the answer to (a) is ‘Yes’, give the name(s) of the travel business association(s)—
 
     - (i) _
 
@@ -490,7 +488,7 @@ A LICENCE BY AN INDIVIDUAL OR BY AN UNINCORPORATED BODY
 
     - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
 
-(L.N. 136 of 1996)
+(L.N. 136 of 1996; 3 of 2001 s. 46)
 
 FORM 5 | [regulation 9(2)(b)]
 
@@ -522,15 +520,11 @@ A LICENCE BY A BODY CORPORATE
 
 - 2.
 
-  - (a) Is the business of a travel agency for which application is being made for a licence, a member of the Hong Kong Tourist Association?
+  - (a) Is the business of a travel agency for which application is being made for a licence, a member of any established travel business association(s) in Hong Kong?
 
   - Yes | No
 
-  - (b) Is the business of a travel agency for which application is being made for a licence, a member of any established travel business association(s) in Hong Kong?
-
-  - Yes | No
-
-  - (c) If the answer to (b) is ‘Yes’, give the name(s) of the travel business association(s)—
+  - (b) If the answer to (a) is ‘Yes’, give the name(s) of the travel business association(s)—
 
     - (i) _
 
@@ -544,17 +538,17 @@ A LICENCE BY A BODY CORPORATE
 
   - Yes | No
 
-- (b) If the answer to (a) is ‘Yes’, give the following details in respect of each bank at which the corporation proposes to keep an account in connection with the business—
+  - (b) If the answer to (a) is ‘Yes’, give the following details in respect of each bank at which the corporation proposes to keep an account in connection with the business—
 
-- 1 | 2 | 3 | 4
+  - 1 | 2 | 3 | 4
 
-- Name of bank
+  - Name of bank
 
-- Address of bank
+  - Address of bank
 
-- Account number
+  - Account number
 
-- Date on which the account was opened
+  - Date on which the account was opened
 
 - 4.
 
@@ -570,27 +564,27 @@ A LICENCE BY A BODY CORPORATE
 
   - Yes | No
 
-- (b) If the answer to (a) is ‘Yes’, give the following details—
+  - (b) If the answer to (a) is ‘Yes’, give the following details—
 
-- 1 | 2 | 3 | 4
+  - 1 | 2 | 3 | 4
 
-- Full name of thedefendant in English
+  - Full name of thedefendant in English
 
-- Full name of the defendant in Chinese characters (if applicable) and code
+  - Full name of the defendant in Chinese characters (if applicable) and code
 
-- Aliases (if any)
+  - Aliases (if any)
 
-- Hong Kong Identity Card number
+  - Hong Kong Identity Card number
 
-- The offence
+  - The offence
 
-- Penalty (if any) imposed
+  - Penalty (if any) imposed
 
-- Date of conviction
+  - Date of conviction
 
-- Place of conviction
+  - Place of conviction
 
-- Name of the court which tried the offence
+  - Name of the court which tried the offence
 
 - 6.
 
@@ -710,7 +704,7 @@ A LICENCE BY A BODY CORPORATE
 
     - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
 
-(L.N. 136 of 1996; L.N. 307 of 1998)
+(L.N. 136 of 1996; L.N. 307 of 1998; 3 of 2001 s. 46)
 
 FORM 6 | [regulation 13(2)(a)]
 
@@ -908,9 +902,9 @@ Application is hereby made to the Registrar of Travel Agents for the renewal of 
 
 - Date of appointment
 
-- I declare that all the information given by me in this application is true and correct to the best of my knowledge and belief. Signature _ Name of Signatory _ Capacity _
+- I declare that all the information given by me in this application is true and correct to the best of my knowledge and belief. Signature _ Name of Signatory _ Capacity _ (Evidence of authorization by the
 
-- (Evidence of authorization by the company or other body corporate
+- company or other body corporate
 
 - for a person in this behalf
 
@@ -960,27 +954,27 @@ BY AN UNINCORPORATED BODY
 
   - Yes | No
 
-  - If the answer to (a) is ‘Yes’, give the following details—
+- If the answer to (a) is ‘Yes’, give the following details—
 
-  - 1 | 2 | 3 | 4
+- 1 | 2 | 3 | 4
 
-  - Full name of the defendant in English
+- Full name of the defendant in English
 
-  - Full name of the defendant in Chinese characters (if applicable) and code
+- Full name of the defendant in Chinese characters (if applicable) and code
 
-  - Aliases (if any)
+- Aliases (if any)
 
-  - Hong Kong Identity Card number
+- Hong Kong Identity Card number
 
-  - The offence
+- The offence
 
-  - Penalty (if any) imposed
+- Penalty (if any) imposed
 
-  - Date of conviction
+- Date of conviction
 
-  - Place of conviction
+- Place of conviction
 
-  - Name of the court which tried the offence
+- Name of the court which tried the offence
 
   - (b) has a bankruptcy petition been served on you in Hong Kong or elsewhere?
 
@@ -1368,7 +1362,9 @@ _
 
 hereby notify you that I intend to make an application to (name of Magistracy) _ on (date) _ for the discharge of a prohibition order issued by (name of Magistrate) _ on (date) _.
 
-Signature _ Date _
+Signature _
+
+Date _
 
 NOTE: This notice must be delivered to the Registrar not later than 3 clear days before an application is made to a magistrate to discharge the prohibition order.
 

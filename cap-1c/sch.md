@@ -376,9 +376,7 @@ Financial Secretary | Hong Kong Industrial Estates Corporation Ordinance (Chapte
 
 Financial Secretary | Hong Kong Industrial Technology Centre Corporation Ordinance (Chapter 431), section 20(5). (L.N. 185 of 1993)
 
-Financial Secretary | Hong Kong Tourist Association Ordinance (Chapter 302), section 16(da). (L.N. 233 of 1980)
-
-Financial Secretary | Hong Kong Tourist Association Rules (Chapter 302 subsidiary legislation), rule 3(1). (L.N. 129 of 1983)
+Financial Secretary | Hong Kong Tourism Board Ordinance (Chapter 302), section 7(d). (3 of 2001 s. 43)
 
 Financial Secretary | Immigration Service (Welfare Fund) Regulations (Chapter 331 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
 
@@ -478,7 +476,7 @@ Director of Intellectual Property as Registrar of Patents | Patents Ordinance (C
 
 Director of Intellectual Property as Registrar of Designs | Registered Designs Ordinance (Chapter 522). Registered Designs Rules (Chapter 522 subsidiary legislation).
 
-L.N. 324 of 1999 | Chief Secretary for Administration | Hong Kong Tourist Association Ordinance (Chapter 302), section 19(2).
+L.N. 324 of 1999 | Chief Secretary for Administration | Hong Kong Tourism Board Ordinance (Chapter 302), section 19(2). (3 of 2001 s. 44)
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 
