@@ -1,0 +1,5 @@
+BUILDING (DEMOLITION WORKS) REGULATIONS
+
+(Cap. 123, section 38)
+
+[1 October 1962]
