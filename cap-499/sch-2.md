@@ -274,7 +274,7 @@ DESIGNATED PROJECTS REQUIRING ENVIRONMENTAL PERMITS
 
   - O-TOURIST AND RECREATIONAL DEVELOPMENTS
 
-  - O.1 An outdoor golf course and all managed turf areas. O.2 A marina designed to provide moorings or dry storage for not less than 30 vessels used primarily for pleasure or recreation. O.3 A horse racing course. O.4 A motor racing circuit. O.5 An open firing range. O.6 An open air concert venue with a capacity to accommodate more than 10000 persons. O.7 An outdoor sporting facility with a capacity to accommodate more than 10000 persons.
+  - O.1 An outdoor golf course and all managed turf areas. O.2 A marina designed to provide moorings or dry storage for not less than 30 vessels used primarily for pleasure or recreation. O.3 A horse racing course. O.4 A motor racing circuit. O.5 An open firing range. O.6 An open air concert venue with a capacity to accommodate more than 10000 persons. O.7 An outdoor sporting facility with a capacity to accommodate more than 10000 persons. O.8 A theme park or amusement park with a site area of more than 20 ha in size. (Added L.N. 205 of 1999)
 
   - P-RESIDENTIAL AND OTHER DEVELOPMENTS
 
