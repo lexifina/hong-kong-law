@@ -88,8 +88,6 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Immigration Department.
 
-- Industry Department.
-
 - Information Services Department.
 
 - Information Technology Services Department. (Added L.N. 373 of 1989)
@@ -97,6 +95,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 - Inland Revenue Department.
 
 - Intellectual Property Department. (Added L.N. 236 of 1990)
+
+- Invest Hong Kong. (Added L.N. 152 of 2000)
 
 - Kowloon-Canton Railway Corporation. (Added 44 of 1994 s. 17)
 
@@ -158,7 +158,7 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - The Hong Kong Examinations Authority. (Added L.N. 139 of 1999)
 
-- Trade Department.
+- Trade and Industry Department. (Replaced L.N. 173 of 2000)
 
 - Transport Department.
 
@@ -168,7 +168,7 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Vocational Training Council. (Added L.N. 155 of 1996)
 
-- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65)
+- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000)
 
 - PART II
 
