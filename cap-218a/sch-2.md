@@ -54,7 +54,7 @@ Application is hereby made to the Registrar of Travel Agents for a licence under
 
   - (d) Residential address _
 
-  - _ Telephone No. _
+  - _Telephone No. _
 
   - (e) Hong Kong Identity Card number _
 
@@ -90,9 +90,7 @@ Application is hereby made to the Registrar of Travel Agents for a licence under
 
 - Address | State whether the premises are owned or rented by the applicant | Telephone number
 
-- (d) State which, if any, of the premises listed under (c) are not in a commercial building _
-
-- _
+- (d) State which, if any, of the premises listed under (c) are not in a commercial building _ _
 
 - (e) Will the proposed office(s) be used exclusively by the business of the travel agent?
 
@@ -144,7 +142,15 @@ Application is hereby made to the Registrar of Travel Agents for a licence under
 
   - (a) this application; and
 
-- (b) the statement of particulars in support, together with the application fee should be posted or delivered to the Registrar at the following address— TRAVEL AGENTS REGISTRY, 6th Floor, East Wing, Hennessy Centre, 500 Hennessy Road, Hong Kong. (If payment is made by post, only cheques will be accepted. Cheques should be made payable to ‘Hong Kong Government’ and crossed. They must not be made payable to any individual officer. Postdated cheques will not be accepted.)
+- (b) the statement of particulars in support, together with the application fee should be posted or delivered to the Registrar at the following address— TRAVEL AGENTS REGISTRY,
+
+- 6th Floor, East Wing,
+
+- Hennessy Centre,
+
+- 500 Hennessy Road,
+
+- Hong Kong. (If payment is made by post, only cheques will be accepted. Cheques should be made payable to ‘Hong Kong Government’ and crossed. They must not be made payable to any individual officer. Postdated cheques will not be accepted.)
 
 - 6. Upon approval of this application, you will be notified of the amount of the licence fee payable, in accordance with the rates set out in the First Schedule of the Travel Agents Regulations.
 
@@ -214,11 +220,9 @@ Application is hereby made to the Registrar of Travel Agents for a licence under
 
 - the company or other body
 
-- corporate for a person in
+- corporate for a person in this
 
-- this behalf should be
-
-- produced) NOTES
+- behalf should be produced) NOTES
 
 - 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application.
 
@@ -297,6 +301,24 @@ A LICENCE BY AN INDIVIDUAL OR BY AN UNINCORPORATED BODY
     - (ii) an OAA appointed agent _
 
     - (iii) appointed as sales agent for an international scheduled air carrier (give name of the air carrier) _ _
+
+- 2A. Is it proposed that your business includes obtaining for a visitor to Hong Kong—
+
+  - (a) carriage, by any means of conveyance, on a journey which is to commence outside Hong Kong and which either—
+
+    - (i) terminates in Hong Kong; or
+
+    - (ii) involves the visitor passing through immigration controls before departing from Hong Kong?
+
+    - Yes | No
+
+- (b) accommodation in Hong Kong for which payment is, or is to be, made by or on behalf of the visitor of an amount on account of the cost of that accommodation?
+
+- Yes | No
+
+- (c) one or more services that are prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance?
+
+- Yes | No
 
 - 3.
 
@@ -402,9 +424,7 @@ A LICENCE BY AN INDIVIDUAL OR BY AN UNINCORPORATED BODY
 
     - (i) the date of the adjudication _
 
-    - (ii) the name of the court which made the adjudication of bankruptcy _
-
-    - _
+    - (ii) the name of the court which made the adjudication of bankruptcy _ _
 
 - (c) If you have been discharged as a bankrupt, state—
 
@@ -486,9 +506,19 @@ A LICENCE BY AN INDIVIDUAL OR BY AN UNINCORPORATED BODY
 
     - (ii) Documentary evidence may be required in support of any information given in this statement.
 
-    - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
+    - (iii) The services prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance are:
 
-(L.N. 136 of 1996; 3 of 2001 s. 46)
+      - (a) sightseeing or visits to local places of interest;
+
+      - (b) restaurant meals or other catered meals;
+
+- (c) shopping trips;
+
+  - (d) local transport in connection with an activity referred to in paragraph (a), (b) or (c).
+
+  - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
+
+(L.N. 136 of 1996; 3 of 2001 s. 46; 10 of 2002 s. 10)
 
 FORM 5 | [regulation 9(2)(b)]
 
@@ -514,9 +544,27 @@ A LICENCE BY A BODY CORPORATE
 
     - (ii) an OAA appointed agent _
 
-    - (iii) appointed as sales agent for an international scheduled air carrier (give name of the air carrier)_
+    - (iii) appointed as sales agent for an international scheduled air carrier (give name of the air carrier) _
 
     - _
+
+- 1A. Is it proposed that the business of the corporation includes obtaining for a visitor to Hong Kong—
+
+  - (a) carriage, by any means of conveyance, on a journey which is to commence outside Hong Kong and which either—
+
+    - (i) terminates in Hong Kong; or
+
+    - (ii) involves the visitor passing through immigration controls before departing from Hong Kong?
+
+    - Yes | No
+
+- (b) accommodation in Hong Kong for which payment is, or is to be, made by or on behalf of the visitor of an amount on account of the cost of that accommodation?
+
+- Yes | No
+
+- (c) one or more services that are prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance?
+
+- Yes | No
 
 - 2.
 
@@ -690,21 +738,31 @@ A LICENCE BY A BODY CORPORATE
 
   - Name of Signatory _ Capacity _
 
-  - (Evidence of authorization by the
+  - (Evidence of authorization by
 
-  - company or other body corporate
+  - the company or other body
 
-  - for a person in this behalf
+  - corporate for a person in this
 
-  - should be produced)
+  - behalf should be produced)
 
   - Please note: (i) The original and one copy of this statement, duly completed and signed, should be submitted, together with the Application for a Licence, to the Registrar.
 
     - (ii) Documentary evidence may be required in support of any information given in this statement.
 
-    - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
+      - (iii) The services prescribed by regulations made under section 50(1)(fa) of the Travel Agents Ordinance are:
 
-(L.N. 136 of 1996; L.N. 307 of 1998; 3 of 2001 s. 46)
+        - (a) sightseeing or visits to local places of interest;
+
+        - (b) restaurant meals or other catered meals;
+
+        - (c) shopping trips;
+
+        - (d) local transport in connection with an activity referred to in paragraph (a), (b) or (c).
+
+        - WARNING-Section 48(1)(c) of the Travel Agents Ordinance makes it an offence punishable by a fine of $100,000 and to imprisonment for 2 years on conviction upon indictment or by a fine of $10,000 and to imprisonment for 6 months on summary conviction for a person who makes any false or misleading statement or furnishes any false or misleading information in connection with any application for the issue of a licence.
+
+(L.N. 136 of 1996; L.N. 307 of 1998; 3 of 2001 s. 46; 10 of 2002 s. 10)
 
 FORM 6 | [regulation 13(2)(a)]
 
@@ -728,9 +786,7 @@ Application is hereby made to the Registrar of Travel Agents for the renewal of 
 
   - _
 
-  - (d) Residential address
-
-  - _
+  - (d) Residential address _
 
   - _ Telephone No. _
 
@@ -846,9 +902,7 @@ Application is hereby made to the Registrar of Travel Agents for the renewal of 
 
 FORM 7 | [regulation 13(2)(b)]
 
-TRAVEL AGENTS ORDINANCE (Chapter 218)
-
-APPLICATION FOR RENEWAL OF A LICENCE BY A BODY CORPORATE
+TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR RENEWAL OF A LICENCE BY A BODY CORPORATE
 
 Application is hereby made to the Registrar of Travel Agents for the renewal of a licence under section 15 of the Travel Agents Ordinance.
 
@@ -902,13 +956,13 @@ Application is hereby made to the Registrar of Travel Agents for the renewal of 
 
 - Date of appointment
 
-- I declare that all the information given by me in this application is true and correct to the best of my knowledge and belief. Signature _ Name of Signatory _ Capacity _ (Evidence of authorization by the
+- I declare that all the information given by me in this application is true and correct to the best of my knowledge and belief. Signature _ Name of Signatory _ Capacity _
 
-- company or other body corporate
+- (Evidence of authorization by the company or other body
 
-- for a person in this behalf
+- corporate for a person in this
 
-- should be produced) NOTES
+- behalf should be produced) NOTES
 
 - 1. You are advised to read the Travel Agents Ordinance and the Travel Agents Regulations before submitting this application.
 
@@ -954,27 +1008,27 @@ BY AN UNINCORPORATED BODY
 
   - Yes | No
 
-- If the answer to (a) is ‘Yes’, give the following details—
+  - If the answer to (a) is ‘Yes’, give the following details—
 
-- 1 | 2 | 3 | 4
+  - 1 | 2 | 3 | 4
 
-- Full name of the defendant in English
+  - Full name of the defendant in English
 
-- Full name of the defendant in Chinese characters (if applicable) and code
+  - Full name of the defendant in Chinese characters (if applicable) and code
 
-- Aliases (if any)
+  - Aliases (if any)
 
-- Hong Kong Identity Card number
+  - Hong Kong Identity Card number
 
-- The offence
+  - The offence
 
-- Penalty (if any) imposed
+  - Penalty (if any) imposed
 
-- Date of conviction
+  - Date of conviction
 
-- Place of conviction
+  - Place of conviction
 
-- Name of the court which tried the offence
+  - Name of the court which tried the offence
 
   - (b) has a bankruptcy petition been served on you in Hong Kong or elsewhere?
 
@@ -1046,9 +1100,9 @@ BY AN UNINCORPORATED BODY
 
 - *(Applicant for and on behalf of all
 
-- partners whose signatures are given
+- partners whose signatures are
 
-- in the application form)
+- given in the application form)
 
 - * Delete as appropriate.
 
@@ -1178,9 +1232,9 @@ FOR RENEWAL OF A LICENCE BY A BODY CORPORATE
 
 - company or other body corporate
 
-- for a person in this behalf
+- for a person in this behalf should
 
-- should be produced)
+- be produced)
 
 - Please note: (i) The original and one copy of this statement, duly completed and signed, should be submitted, together with the Application for Renewal of a Licence, to the Registrar.
 
@@ -1194,9 +1248,7 @@ FORM 10 | [regulation 16(a)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) CERTIFICATE OF THE REGISTRAR OF TRAVEL AGENTS ISSUED
 
-TO A MAGISTRATE
-
-FOR MAKING A PROHIBITION ORDER
+TO A MAGISTRATE FOR MAKING A PROHIBITION ORDER
 
 TAR FILE REF. _
 
@@ -1206,9 +1258,7 @@ _ Magistracy,
 
 Hong Kong.
 
-I hereby certify that in connection with an investigation of _ , a licensed travel agent (hereinafter called “the travel agent”) being conducted by me under section 21 of the Travel Agents Ordinance, I am of the opinion that *Mr./Madam/Miss _ (hereinafter called “the associated person”), whose last known place of *abode/business/
-
-- employment is _ and whose Hong Kong Identity Card number is _ , is:—
+- I hereby certify that in connection with an investigation of _ , a licensed travel agent (hereinafter called “the travel agent”) being conducted by me under section 21 of the Travel Agents Ordinance, I am of the opinion that *Mr./Madam/Miss _ (hereinafter called “the associated person”), whose last known place of *abode/business/employment is _ and whose Hong Kong Identity Card number is _ , is:—
 
   - (a) able to assist me in connection with that investigation;
 
@@ -1216,7 +1266,7 @@ I hereby certify that in connection with an investigation of _ , a licensed trav
 
   - (c) about to, or is likely to, leave Hong Kong.
 
-- By virtue of section 29(1) of the Travel Agents Ordinance, I hereby request you to make a prohibition order to prevent the associated person from leaving Hong Kong. I propose to serve the order on the Commissioner of Police, the Director of Immigration, and the associated person *Mr./Madam/Miss _ , if *he/she can be found. Dated this _ day of _ 19 _
+- By virtue of section 29(1) of the Travel Agents Ordinance, I hereby request you to make a prohibition order to prevent the associated person from leaving Hong Kong. I propose to serve the order on the Commissioner of Police, the Director of Immigration, and the associated person *Mr./Madam/Miss _, if *he/she can be found. Dated this _ day of _ 19 _
 
 - _
 
@@ -1226,7 +1276,7 @@ I hereby certify that in connection with an investigation of _ , a licensed trav
 
 (L.N. 136 of 1996)
 
-FORM 11 | [ regulation 16(b)]
+FORM 11 | [regulation 16(b)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218)
 
@@ -1234,9 +1284,7 @@ MAGISTRACY REF. _ TAR FILE REF. _
 
 PROHIBITION ORDER
 
-Upon the receipt of a certificate issued under the hand of the Registrar under section 29(1) of the Travel Agents Ordinance, it is ordered that *Mr./Madam/Miss _ whose last known place of *abode/business/employment is _
-
-and whose Hong Kong Identity Card number is _ , is prohibited from leaving Hong Kong.
+Upon the receipt of a certificate issued under the hand of the Registrar under section 29(1) of the Travel Agents Ordinance, it is ordered that *Mr./Madam/Miss _ whose last known place of *abode/business/employment is _and whose Hong Kong Identity Card number is _ , is prohibited from leaving Hong Kong.
 
 This order shall lapse after the expiry of 1 month from the date of this order, unless extended or renewed on the application of the Registrar under section 29(4) of the Ordinance.
 
@@ -1260,7 +1308,7 @@ NOTES: (1) Section 29(3) of the Ordinance provides that any person who leaves or
 
 (L.N. 136 of 1996)
 
-FORM 12 | [ regulation 16(c)]
+FORM 12 | [regulation 16(c)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR *EXTENSION/RENEWAL OF PROHIBITION ORDER
 
@@ -1272,15 +1320,11 @@ _ Magistracy,
 
 Hong Kong.
 
-IN THE MATTER OF an application under section 29(4) of the Travel Agents Ordinance by the Registrar of Travel Agents for an *extension/renewal of the order no. (Magistracy Ref.) _ dated _ prohibiting (name) _
-
-of (place of *abode/business/employment) _
-
-_
+IN THE MATTER OF an application under section 29(4) of the Travel Agents Ordinance by the Registrar of Travel Agents for an *extension/renewal of the order no. (Magistracy Ref.) _ dated _ prohibiting (name) _ of (place of *abode/business/employment) _
 
 and Hong Kong Identity Card number _ from leaving Hong Kong.
 
-I, _ Registrar of Travel Agents of (office address of Registrar) _apply for the *extension / renewal of a prohibition order in respect of (name) _ made by (name of Magistrate) _ on (date of order) _ The application is for an *extension/renewal for a period of _ *day/days/month/months from _ to _ (both dates inclusive) in accordance with section 29(4) of the Travel Agents Ordinance.
+I, _ Registrar of Travel Agents of (office address of Registrar) _ apply for the *extension/renewal of a prohibition order in respect of (name) _ made by (name of Magistrate) _ on (date of order) _ The application is for an *extension/renewal for a period of _ *day/days/month/months from _ to _ (both dates inclusive) in accordance with section 29(4) of the Travel Agents Ordinance.
 
 - 2. The grounds of this application are— _
 
@@ -1290,7 +1334,7 @@ I, _ Registrar of Travel Agents of (office address of Registrar) _apply for the 
 
 (L.N. 136 of 1996)
 
-FORM 13 | [ regulation 16(d)]
+FORM 13 | [regulation 16(d)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218)
 
@@ -1324,7 +1368,7 @@ NOTES: (1) Section 29(3) of the Ordinance provides that any person who leaves or
 
 (L.N. 136 of 1996)
 
-FORM 14 | [ regulation 16(e)]
+FORM 14 | [regulation 16(e)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) APPLICATION FOR DISCHARGE OF PROHIBITION ORDER
 
@@ -1338,7 +1382,7 @@ AND
 
 IN THE MATTER of (name of applicant) _ the person affected by the prohibition order.
 
-I (name of applicant) _ of (address of applicant) _ _apply for discharge of the order prohibiting me from leaving Hong Kong issued by (name of Magistrate) _ on (date) _
+I (name of applicant) _ of (address of applicant) _ _ apply for discharge of the order prohibiting me from leaving Hong Kong issued by (name of Magistrate) _ on (date) _
 
 - The grounds for this application are— _
 
@@ -1348,9 +1392,11 @@ I (name of applicant) _ of (address of applicant) _ _apply for discharge of the 
 
 (L.N. 136 of 1996)
 
-FORM 15 | [ regulation 16(f)]
+FORM 15 | [regulation 16(f)]
 
-TRAVEL AGENTS ORDINANCE (Chapter 218) NOTICE OF INTENTION TO APPLY FOR DISCHARGE OF PROHIBITION ORDER
+TRAVEL AGENTS ORDINANCE (Chapter 218) NOTICE OF INTENTION TO APPLY FOR DISCHARGE OF
+
+PROHIBITION ORDER
 
 To: The Registrar of Travel Agents
 
@@ -1362,15 +1408,13 @@ _
 
 hereby notify you that I intend to make an application to (name of Magistracy) _ on (date) _ for the discharge of a prohibition order issued by (name of Magistrate) _ on (date) _.
 
-Signature _
-
-Date _
+Signature _ Date _
 
 NOTE: This notice must be delivered to the Registrar not later than 3 clear days before an application is made to a magistrate to discharge the prohibition order.
 
 (L.N. 136 of 1996)
 
-FORM 16 | [ regulation 16(g)]
+FORM 16 | [regulation 16(g)]
 
 TRAVEL AGENTS ORDINANCE (Chapter 218) DISCHARGE OF PROHIBITION ORDER
 
