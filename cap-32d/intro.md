@@ -1,0 +1,5 @@
+COMPANIES (EXEMPTION FROM STATEMENT OF TURNOVER) ORDER
+
+(Cap. 32, Tenth Schedule Part I, para. 16(2))
+
+[3 September 1976]
