@@ -24,7 +24,7 @@ Republic of Bosnia and Herzegovina | 1 September 1997
 
 Democratic Republic of Burkina Faso | 1 September 1997
 
-Canada | Alberta British Columbia Manitoba New Brunswick Newfoundland Nova Scotia Ontario Prince Edward Island Quebec Saskatchewan Yukon Territory Northwest Territories | 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997
+Canada | Alberta British Columbia Manitoba New Brunswick Newfoundland Nova Scotia Ontario Prince Edward Island Quebec Saskatchewan Yukon Territory Northwest Territories Nunavut | 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 January 2001
 
 Republic of Chile | 1 September 1997
 
@@ -90,6 +90,8 @@ Romania | 1 September 1997
 
 Federation of Saint Kitts and Nevis | 1 September 1997
 
+Slovak Republic | 1 February 2001
+
 Republic of Slovenia | 1 September 1997
 
 Republic of South Africa | 1 December 1998
@@ -99,6 +101,8 @@ Kingdom of Spain | 1 September 1997
 Kingdom of Sweden | 1 September 1997
 
 Confederation Suisse (Switzerland) | 1 September 1997
+
+Republic of Turkey | 1 August 2000
 
 Republic of Turkmenistan | 1 December 1998
 
@@ -118,6 +122,8 @@ United States of America | 1 September 1997
 
 Republic of Venezuela | 1 September 1997
 
+Federal Republic of Yugoslavia | 1 September 1997
+
 Republic of Zimbabwe | 1 September 1997
 
-(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999)
+(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002)
