@@ -1,0 +1,5 @@
+CONTINUING LEGAL EDUCATION
+
+(Cap. 159 section 73)
+
+[1 August 1991] L.N. 284 of 1991
