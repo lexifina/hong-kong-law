@@ -1,0 +1,5 @@
+TIMBER STORES REGULATION
+
+(Cap. 464 section 12)
+
+(17 March 1995) L.N. 97 of 1995
