@@ -60,7 +60,7 @@
 
 - (23) HKPF-Wong Hau Shan Police Recreation Centre | Queen’s Hill, Fanling, New Territories
 
-- (24) Housing Authority Staff Club | B1, B2 & 10/F, Block II, Housing Authority Headquarters Building, 33 Fat Kwong Street, Homantin, Kowloon
+- (24) Housing Authority Staff Club | L3 & L5, Block 4, Housing Authority Headquarters, 33 Fat Kwong Street, Homantin, Kowloon (L.N. 181 of 2001)
 
 - (25) ICAC Staff Club | G/F, Murray Road Carpark Building, 2 Murray Road, Central, Hong Kong
 
@@ -88,7 +88,7 @@
 
 - (37) Local Inspectors’ Association-Hong Kong Police | Room 6, 1 Arbuthnot Road, Hong Kong
 
-- (38) Marine East Division Officers’ Mess | Room 303, 3/F, 1, Wa Yung Road, Tui Min Hoi, Sai Kung, New Territories
+- (38) Marine Outer Waters District Officers’ Mess | Room 303, 3/F, 1, Wa Yung Road, Tui Min Hoi, Sai Kung, New Territories (L.N. 181 of 2001)
 
 - (39) Marine Police Officers’ Mess | Room 301-302, 3/F, Tai Hong Street, Sai Wan Ho, Hong Kong
 
@@ -191,5 +191,7 @@
 - (88) Tai Tam Gap Correctional Institution Staff Mess | Block 1, 1/F, 110 Shek O Road, Hong Kong (L.N. 87 of 2001)
 
 - (89) Tung Tau Correctional Institution Staff Mess | G/F, Block 3, 68 Tung Tau Wan Road, Stanley, Hong Kong (L.N. 87 of 2001)
+
+- (90) Fire Safety Ambassadors Club | Flat 1, Additional Quarters, Kwun Tong Fire Station, 426 Kwun Tong Road, Kowloon (L.N. 181 of 2001)
 
 - (L.N. 308 of 1999)
