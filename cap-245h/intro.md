@@ -1,0 +1,5 @@
+FRONTIER CLOSED AREA (PERMISSION TO ENTER) NOTICE
+
+(Cap. 245 section 38A(1))
+
+[9 September 1983]
