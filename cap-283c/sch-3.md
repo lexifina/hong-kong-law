@@ -4,217 +4,309 @@
 
 FORMS
 
-FORM 1 NOTICE OF PARTICULARS OF ALLEGED FIXED PENALTY
+FP T | 香港房屋委員會 HONG KONG HOUSING AUTHORITY 表格1 FORM 1 | [通知書號碼：] [Notice No. :]
 
-TRAFFIC CONTRAVENTION (Housing (Traffic Contraventions) (Fixed Penalty) Bylaw (Cap. 283 sub. leg.), Section 8(2))
+關於涉嫌犯定額罰款交通違例事項的通知書 NOTICE OF PARTICULARS OF ALLEGED FIXED PENALTY TRAFFIC CONTRAVENTION 《房屋(交通違例事項)(定額罰款)附例》(第283章，附屬法例C)第8(2)條 Housing (Traffic Contraventions) (Fixed Penalty) Bylaw (Cap. 283 sub. leg. C), Section 8(2)
 
-_
+右述車輛的車主/司機 | 字母 letters 號碼 numbers
 
-letters numbers
+THE OWNER/DRIVER | 車輛號碼
 
-VEHICLE □□□□ VEHICLE NO. □□ □□□□ □
+OF VEHICLE NO.
 
-TYPE
+車輛類別 | 檔號
 
-TRANSACTION NO. □□□□□□□□
+VEHICLE TYPE | TRANSACTION NO.
+
+涉嫌犯交通違例事項
 
 IS ALLEGED TO HAVE COMMITTED A TRAFFIC CONTRAVENTION
 
-CONTRAVENTION DETAILS day month year DATE □□ □□ □□ $320 hours minutes TIME □□ □□ CONTRAVENTION □□ CODE NO.
+違例事項詳情 CONTRAVENTION DETAILS
 
-PLACE (Use block letters if in English) Always complete A. If B not available, complete C if possible.
+日 day | 月 month | 年 year
 
-A. ESTATE | B. NEAR BLOCK/HOUSE
+日期
 
-C. OTHER IDENTIFYING FEATURE 1. □ Near/In parking space no. . 2. □ Other
+DATE
 
-day month years letters numbers □□ □□ □□ □□ □□□□ □ DATE OF ISSUE ISSUING OFFICER ISSUING OFFICE
+時 hours | 分 minutes
 
-Enquiries concerning the issue of this notice may be made by contacting the concerned estate office.
+時間 | $320
 
-LIST OF CONTRAVENTIONS
+TIME
 
-The motor vehicle was—
+違例事項編號
 
-(Code No.):
+CONTRAVENTION
 
-- (51) Parked on a restricted road other than in a parking place (section 4(1)(a)).
+CODE NO.
 
-- (52) Parked in a parking place on a restricted road in contravention of any sign or road marking (section 4(1)(b)).
+地點 (如以英文填寫請用正楷) A及B欄必須填寫。如B欄不詳，則盡可能填寫C欄。 PLACE (Use block letters if in English) Always complete A and B. If B not available, complete C if possible.
 
-- (53) Parked on a restricted road in a manner likely to cause danger to other persons using the road (section 4(1)(c)).
+A. 屋邨 ESTATE | B. 鄰近 座／樓 NEAR BLOCK/HOUSE
 
-- (54) Parked on a restricted road with the vehicle projecting unnecessarily outside a parking space (section 4(2)).
+C. 其他可資識別的特徵 OTHER IDENTIFYING FEATURE 1. 鄰近／位於泊車位編號 □ Near/In parking space no. _ 2. 其他 □ Other
 
-- (55) Parked on a restricted road in a parking place where parking is suspended or cancelled by the Housing Authority (section 4(3)). PAYMENT INSTRUCTIONS
+日 day | 月 month | 年 year | 字母 letters | 號碼 numbers
 
-1. Payment may be made—
+發出日期 DATE OF ISSUE | 發通知書人員 ISSUING OFFICER | 發通知書辦事處 ISSUING OFFICE
 
-- (a) BY POST ADDRESSED TO THE DIRECTOR OF ACCOUNTING SERVICES, P.O. BOX 8000, GENERAL POST OFFICE, HONG KONG; OR
+如對本通知書的發出有任何疑問，可與有關屋邨辦事處聯絡。 Enquiries concerning the issue of this notice may be made by contacting the relevant estate office. HD 734(S)
 
-- (b)
+[ [ | 條碼 Bar Code | ] ]
 
-- PERSONALLY OR BY AN AGENT at any of the following offices—
+郵寄付款須知： 請沿左面虛線撕下郵寄付款回 條，並將回條連同支票、匯票 或本票寄回。 Instruction for Postal Payment : Please detach along the perforated line on the left and send in the Slip for Payment by Post together with the cheque, draft or cashier order. 局部繳款、逾期繳款或不能予以識 辨的繳款將不會視為有效的繳款。
 
-- Hong Kong Island
+Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment. 郵寄付款回條 Slip for Payment by Post
 
-  - (i) The Treasury Headquarters, Collection and Payment Office, Immigration Tower, 1st floor, 7 Gloucester Road;
+電子繳款號碼 E-Payment Number
 
-  - (ii) The Central Sub-Treasury, Central Government Offices, West Wing, 1st floor, 11 Ice House Street (side entrance to the building in Ice House Street);
+請輸入下列18位數字 Please key in the following 18 digit nos. 帳類 Bill type | 01
 
-  - (iii) The North Point Sub-Treasury, Max Share Centre, 1st floor, 373 King’s Road;
+附註(請細心閱讀) | Notes (Please read carefully)
 
-  - (iv) The Sai Wan Ho Sub-Treasury, Eastern Law Courts Building, Ground floor, 29 Tai On Street;
+A. | 如於本通知書發出日期後21天內繳付定額罰款，即可解除就有關違例事項所須負的法律責任。若按照繳款辦法第1(e)段繳款，本通知書必須保持完整並於繳款時出示。 | A. | Liability for the contravention can be discharged by paying the Fixed Penalty within 21 days after the date of issue of this notice. For payment made in accordance with paragraph 1(e) of the Payment Instructions, this notice must be kept intact and produced at the time of payment.
 
-  - (v) The Western Magistracy, 2A Pok Fu Lam Road;
+B. | 繳款通知書將會在適當時候發出，如你已依照本通知書繳付罰款，則無須理會該通知書。 | B. | A Demand Notice will be issued in due course. You may ignore the Demand Notice only if you have made prior payment on this notice.
 
-  - (vi) The Eastern Magistracy, Eastern Law Courts Building, 7th floor, 29 Tai On Street. Kowloon
+C. | 如你不依照本通知書繳付罰款，或不通知房屋署署長意欲就法律責任提出爭議，則可能須繳付附加罰款。 | C. | Failure to pay in accordance with this notice or to notify the Director of Housing that you wish to dispute liability may result in an additional penalty being imposed.
 
-  - (vii) The Yaumati Sub-Treasury, 4th floor, Kowloon Government Offices, 405 Nathan Road (Market Street entrance);
+D. | 如對本通知書有任何查詢，請致電房屋署檢控組。 (電話:2761 0715) | D. | For enquiry on this notice, please contact the Prosecutions Section, Housing Department. (Tel. 2761 0715)
 
-  - (viii) The Kowloon City Sub-Treasury, Man Sang Commercial Building, 1st floor, 348-352 Prince Edward Road (corner of Prince Edward Road and Junction Road);
+FP T | 320 元 | C.R.C.
 
-  - (ix) The San Po Kong Magistracy, 690 Prince Edward Road East;
+$320 | 105
 
-  - (x) The South Kowloon Magistracy, 38 Gascoigne Road;
+違例事項一覽表 | List of Contraventions
 
-  - (xi) The Kwun Tong Magistracy, Kwun Tong Law Courts, 10 Lei Yue Mun Road;
+該車輛—— (違例事項編號)： | The motor vehicle was— (Code No.):
 
-  - (xii) The North Kowloon Magistracy, 292 Tai Po Road. New Territories
+(51) 停泊於受限制道路上而非泊車處的地方(第4(1)(a)條)。 | (51) Parked on a restricted road other than in a parking place (section 4(1)(a)).
 
-  - (xiii) The Fanling Magistracy, 302 Jockey Club Road, Fanling;
+(52) 在違反標誌或道路標記的情況下停泊於受限制道路上的泊車處(第4(1)(b)條)。 | (52) Parked in a parking place on a restricted road in contravention of any sign or road marking (section 4(1)(b)).
 
-  - (xiv) The Tsuen Wan Magistracy, 70 Tai Ho Road, Tsuen Wan;
+(53) 停泊於受限制道路上而停泊方式相當可能危及使用該道路的其他人士(第4(1)(c)條)。 | (53) Parked on a restricted road in a manner likely to cause danger to other persons using the road (section 4(1)(c)).
 
-  - (xv) The Shatin Magistracy, 1 Yi Ching Lane, Shatin;
+(54) 停泊於受限制道路上的泊車處但車輛不必要地越出有關泊車位(第4(2)條)。 | (54) Parked in a parking place on a restricted road with the vehicle projecting unnecessarily outside a parking space (section 4(2)).
 
-  - (xvi) The Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun;
+(55) 停泊於受限制道路上已被房屋委員會中止或取消的泊車處(第4(3)條)。 | (55) Parked in a parking place on a restricted road where parking is suspended or cancelled by the Housing Authority (section 4(3)).
 
-  - (xvii) The District Offices at Sai Kung, Sha Tin, Tai Po, North, Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing.
+繳款辦法： | Payment Instructions:
 
-  - These offices receive payments during the hours of— Monday to Friday 9 a.m. to 4 p.m. (District Offices and Magistracies close 1-2 p.m.) Saturday 9 a.m. to 12 noon (District Offices close 11:30 a.m.)
+1. | 可按下列方式繳款—— | 1. | Payment may be made—
 
-2. Cheques, drafts and cashier orders should be made payable to “Hong Kong Government” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post dated cheques will not be accepted. Overdue payment will not be accepted. NOTES (Please read carefully)
+(a) 使用銀行自動櫃員機繳款 在任何貼有“繳款服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例(定額罰款)”，並輸入帳單類別“01”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment Service” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “01” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
 
-- A. Liability for the contravention can be discharged by presenting this notice intact and paying the Fixed Penalty within 21 days of the date of issue. Payment must be made in accordance with the Payment Instructions.
+(b) 使用「繳費聆」繳款 以電話繳款，請先使用音頻電話將本通知書登記(電話號碼：18013)，選擇“商戶編號” “9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費聆」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. No.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
 
-- B. A Demand Notice will be issued in due course. You may ignore the Demand Notice only if you have made prior payment on this notice.
+(c) 透過互聯網繳款 透過銀行或「繳費聆」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址：http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址：http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例(定額罰款)”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address : http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address : http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
 
-- C. Failure to pay and to notify the Director of Housing that you wish to dispute liability may result in additional penalty being imposed. PAYMENT BY POST
+(d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄香港告士打道郵政局信箱28000號(註明庫務署為收件人)。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment.
 
-- This form (intact) must accompany the payment. It will be returned with a receipt.
+(e) 親自繳款 親自或由代理人往下列辦事處繳付—— (i) 任何郵政局(郵政局信箱及流動郵政局除外)。如欲查詢有關地址及辦公時間，請致電香港郵政熱線：2921 2222 或瀏覽其網站(URL 位址：http://www.hongkongpost.com)； | (e) In Person Payment may be made personally or by an agent at any of the following offices— (i) Any Post Office other than a post office letter box or a mobile post office. For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit their web site (URL address : http://www.hongkongpost.com)；
 
-- If payment is made by post, state the name and address of the person to whom the receipt should be forwarded— Name: . Address: . . RECEIVED the sum imprinted below—
+港島 | Hong Kong Island
 
-(L.N. 249 of 1997)
+(ii) 薄扶林道2號A西區裁判法院； | (ii) Western Magistracy, 2A Pok Fu Lam Road ;
 
-_ FORM 2
+(iii) 西灣河太安街29號東區法院大樓東區裁判法院； | (iii) Eastern Magistracy, Eastern Law Courts Building, 29 Tai On Street, Sai Wan Ho ;
 
-Serial No. .
+九龍 | Kowloon
 
-HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation) NOTICE DEMANDING PAYMENT OF FIXED PENALTY (Section 8(3))
+(iv) 亞皆老街147號M九龍城裁判法院大樓九龍城裁判法院； | (iv) Kowloon City Magistrates’ Courts, Kowloon City Law Courts Building, 147M Argyle Street ;
 
-To: . Surname first
+(v) 觀塘鯉魚門道10號觀塘法院大樓觀塘裁判法院； | (v) Kwun Tong Magistracy, Kwun Tong Law Courts Building, 10 Lei Yue Mun Road, Kwun Tong ;
 
-of .
+(vi) 大埔道292號北九龍裁判法院； | (vi) North Kowloon Magistracy, 292 Tai Po Road ;
 
-On . at about . at .
+新界 | New Territories
 
-. a contravention of section . of
+(vii) 粉嶺璧峰路1號粉嶺裁判法院； | (vii) Fanling Magistrates’ Courts, No. 1, Pik Fung Road, Fanling ;
 
-the Bylaw was committed for which you, as the registered owner/driver of motor vehicle No.
+(viii) 荃灣大河道70號荃灣法院大樓荃灣裁判法院； | (viii) Tsuen Wan Magistracy, Tsuen Wan Law Courts Building, 70 Tai Ho Road, Tsuen Wan ;
 
-. at the time, are liable.
+(ix) 沙田宜正里1號沙田法院大樓沙田裁判法院； | (ix) Shatin Magistracy, Shatin Law Courts Building, 1 Yi Ching Lane, Shatin ;
 
-I hereby demand payment of the Fixed Penalty of $320 and inform you that, if you wish to dispute liability for the contravention, you should inform me.
+(x) 屯門屯喜路1號屯門裁判法院。 | (x) Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun.
 
-- You are required—
+上述裁判法院於下列時間收款—— | The above magistracies receive payments during the hours of—
 
-- (a) to pay the Fixed Penalty; or
+星期一： 上午9時至下午1時； 至 及 星期五 下午2時至5時 星期六： 上午9時至中午12時 | Monday : 9 a.m. to 1 p.m.; to and Friday 2 p.m. to 5 p.m. Saturday : 9 a.m. to 12 noon
 
-- (b) to notify me that you wish to dispute liability for the contravention, on or before . If you do not pay the Fixed Penalty or notify me that you wish to dispute liability in accordance with this notice, an application will be made to a magistrate for an order that you pay the Fixed Penalty, an additional penalty equal to the Fixed Penalty and costs. for Director of Housing Date: RECEIVED the sum imprinted below— P.T.O. $320 Last Date of Payment/Notification of dispute Please note:
+本通知書必須保持完整並於繳款時出示。 | This notice must be kept intact and produced at the time of payment.
 
-- I. A notice under section 8(2) of the Bylaw (number ) may already have been served on you in this case. If you have paid the Fixed Penalty specified by that notice, you should ignore this demand. II. Payment should be made according to the instructions set out overleaf. III. This form (intact) must accompany the payment. It will be returned with a receipt.
+2. | 支票、匯票或本票均須以“香港特別行政區政府”或“特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 | 2. | Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
 
-- LIST OF CONTRAVENTIONS The motor vehicle was— (Code No.):
+3. | 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 3. | Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment.
 
-- (51) Parked on a restricted road other than in a parking place (section 4(1)(a)).
+(L.N. 43 of 2003)
 
-- (52) Parked in a parking place on a restricted road in contravention of any sign or road marking (section 4(1)(b)).
+_
 
-- (53) Parked on a restricted road in a manner likely to cause danger to other persons using the road (section 4(1)(c)).
+HD735(S) | 表格2
 
-- (54) Parked on a restricted road with the vehicle projecting unnecessarily outside a parking space (section 4(2)).
+FORM 2
 
-- (55) Parked on a restricted road in a parking place where parking is suspended or cancelled by the Housing Authority (section 4(3)). PAYMENT INSTRUCTIONS
+《房屋(交通違例事項)(定額罰款)附例》 (第283章，附屬法例C) | 電子繳款號碼 E-Payment Number
 
-- 1. Payment may be made—
+通知書號碼： | HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED | 請輸入下列18位數字
 
-- (a) BY POST ADDRESSED TO THE DIRECTOR OF ACCOUNTING SERVICES, P.O. BOX 8000, GENERAL POST OFFICE, HONG KONG; OR
+Notice No.: 編號： | PENALTY) BYLAW (Cap. 283 sub. leg. C) 繳付定額罰款通知書(第8(3)條) | Please key in the following 18 digit nos. 帳類 Bill type | 03
 
-- (b)
+Serial No.: | NOTICE DEMANDING PAYMENT OF FIXED
 
-- PERSONALLY OR BY AN AGENT at any of the following offices—
+PENALTY (Section 8(3))
 
-- Hong Kong Island
+致： | 個人資料 PERSONAL DATA | FP T
 
-  - (i) The Treasury Headquarters, Collection and Payment Office, Immigration Tower, 1st floor, 7 Gloucester Road;
+先寫姓氏 To:
 
-  - (ii) The Central Sub-Treasury, Central Government Offices, West Wing, 1st floor, 11 Ice House Street (side entrance to the building in Ice House Street);
+Surname 地址： First of
 
-  - (iii) The North Point Sub-Treasury, Max Share Centre, 1st floor, 373 King’s Road;
+於(日期) 大約(時間) 在(地點)
 
-  - (iv) The Sai Wan Ho Sub-Treasury, Eastern Law Courts Building, Ground floor, 29 Tai On Street;
+On at about at
 
-  - (v) The Western Magistracy, 2A Pok Fu Lam Road;
+發生一宗違反本附例第 條 (
 
-  - (vi) The Eastern Magistracy, Eastern Law Courts Building, 7th floor, 29 Tai On Street. Kowloon
+a contravention of section (
 
-  - (vii) The Yaumati Sub-Treasury, 4th floor, Kowloon Government Offices, 405 Nathan Road (Market Street entrance);
+)
 
-  - (viii) The Kowloon City Sub-Treasury, Man Sang Commercial Building, 1st floor, 348-352 Prince Edward Road (corner of Prince Edward Road and Junction Road);
+)
 
-  - (ix) The San Po Kong Magistracy, 690 Prince Edward Road East;
+的事件而你須對該事件負法律責任，因為當時你是 號汽車的登記車主/司機。
 
-  - (x) The South Kowloon Magistracy, 38 Gascoigne Road;
+of the Bylaw was committed for which you as the registered owner/driver of motor vehicle no. at the time are liable.
 
-  - (xi) The Kwun Tong Magistracy, Kwun Tong Law Courts, 10 Lei Yue Mun Road;
+本人現要求你繳付定額罰款 ，並通知你若意欲就上述違例事項的法律責任提出爭
 
-  - (xii) The North Kowloon Magistracy, 292 Tai Po Road. New Territories
+I hereby demand payment of the Fixed Penalty of and inform you that, if you wish to
 
-  - (xiii) The Fanling Magistracy, 302 Jockey Club Road, Fanling;
+議，你必須通知本人。你必須在 或之前——
 
-  - (xiv) The Tsuen Wan Magistracy, 70 Tai Ho Road, Tsuen Wan;
+dispute liability for the contravention, you should inform me. You are required—
 
-  - (xv) The Shatin Magistracy, 1 Yi Ching Lane, Shatin;
+- (a) 繳付定額罰款；或
 
-  - (xvi) The Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun;
+to pay the Fixed Penalty; or
 
-  - (xvii) The District Offices at Sai Kung, Sha Tin, Tai Po, North, Yuen Long, Tuen Mun, Tsuen Wan or Kwai Tsing.LIST OF CONTRAVENTIONS
+- (b) (使用背頁的通知書)告知本人你意欲就該違例事項的法律責任提出爭議。 to notify me that you wish to dispute liability for the contravention (by using the notification form overleaf),
 
-  - These offices receive payments during the hours of— Monday to Friday 9 a.m. to 4 p.m. (District Offices and Magistracies close 1-2 p.m.) Saturday 9 a.m. to 12 noon (District Offices close 11:30 a.m.)
+- on or before 倘若你不按照本通知書繳付定額罰款或告知本人你意欲就法律責任提出爭議，本人將向裁判官
 
-- 2. Cheques, drafts and cashier orders should be made payable to “Hong Kong Government” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post dated cheques will not be accepted. Overdue payment will not be accepted. Enquiries: For enquiries about this notice, please contact the Prosecutions Unit, Housing Department
+- If you do not pay the Fixed Penalty or notify me that you wish to dispute liability in accordance with 申請頒發命令，飭令你繳付定額罰款、一項相等於定額罰款款額的附加罰款及訟費。
 
-- (Tel.: 761 0715) NOTES FOR THOSE WHO WISH TO DISPUTE LIABILITY—
+- this notice, an application will be made to a magistrate for an order that you pay the Fixed Penalty, an additional
 
-- 1. You may notify me, if you wish to dispute liability for the contravention, by signing the form appended below and delivering it to me on or before the last date for notification of dispute.
+- penalty equal to the amount of the Fixed Penalty and costs. 下列機印所示款項收訖。
 
-- 2. If you notify me that you wish to dispute liability for the contravention, the matter will be determined by a magistrate on complaint in accordance with the Bylaw and you will be served with a summons in due course.
+- RECEIVED the sum imprinted below. 房屋署署長( 代行) for Director of Housing 日期：
 
-- 3. If, having notified me that you wish to dispute liability for the contravention, you do not appear in court to answer the summons or, having appeared, you offer no defence or a defence which is frivolus or vexatious, you are liable to the Fixed Penalty, an additional penalty equal to the Fixed Penalty and costs. HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation) NOTIFICATION TO DIRECTOR OF HOUSING OF WISH TO DISPUTE
+- Date: 繳款/通知爭議的最後日期： 郵寄付款回條
 
-- LIABILITY BEFORE A MAGISTRATE FOR CONTRAVENTION (Section 8(3)) To: The Director of Housing, Prosecutions Unit,
+- Last Date for Payment/ Slip for Payment by Post Notification of Dispute:
 
-- LG1, Oi Man Commercial Complex,
+- 請注意： Please note:
 
-- Oi Man Estate, Kowloon. Take notice that I wish to dispute liability for the contravention specified in your notice (details given overleaf) issued under section 8(3) of the Housing (Traffic Contraventions) (Fixed Penalty) Bylaw. . Signature Date: .
+- 1. 根據本附例第8(2)條所發出有關此事的通知書(號碼 )可能經已向你送達。 A notice under section 8(2) of the Bylaw (No.: ) may already have been served on you in this case.
 
-(L.N. 249 of 1997)
+- 如你已繳付該通知書所指明的定額罰款，則無須理會本通知書。 | C.R.C.
 
-_ FORM 3 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation) CERTIFICATE OF POSTING OF NOTICE (Section 8(8)) This is to certify that
+- If you have paid the Fixed Penalty specified in that notice, you should ignore this demand. | 105
 
-- on the . day of . a Notice under section 8(3) of the Housing (Traffic Contraventions) (Fixed Penalty) Bylaw was posted. The particulars of the Notice are as follows— Serial No.: . Date of Notice: .Name of Addressee: .Address: . . for Director of Housing . (Full name in block letters) Date: . _ FORM 4 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation) CERTIFICATE OF POSTING OF SUMMONS (Section 13(2)) This is to certify that on the . day of . a Summons issued by the magistrate sitting in the Magistrate’s Court at .,. was posted. The particulars of the Summons are as follows— Serial No.: . Date of Notice: . Name of Defendant: . Address: . . . for Director of Housing . (Full name in block letters) Date: . _ FORM 5 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation) CERTIFICATE OF IDENTITY OF REGISTERED OWNER/DRIVER, REGISTERED
+- 2. 你須依照背頁所列的繳款辦法付款。 | FP T
+
+- Payment should be made according to the instructions set out overleaf.
+
+- 3. 若按照繳款辦法第1(e)段所示方法繳款，本通知書必須保持完整並於繳款時出示。 For payment made in accordance with paragraph 1(e) of the Payment Instructions, this notice must be kept intact and produced at the time of payment.
+
+- [條碼 ]
+
+- [Bar Code ]
+
+- 通知書號碼： Notice No.: 身分證號碼： I.D. No.: | 編號： Serial No.: 違例日期： Contravention Date: | 定額罰款： Fixed Penalty: 繳款類別： Payment Type:
+
+- HD735(S)
+
+- 繳款辦法： | PAYMENT INSTRUCTIONS:
+
+- 1. | 可按下列方式繳款— | 1. | Payment may be made—
+
+- (a) 使用銀行自動櫃員機繳款 在任何貼有“繳款服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例(定額罰款)”，並輸入帳單類別“03”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment Service” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “03” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
+
+- (b) 使用「繳費聆」繳款 以電話繳款，請先使用音頻電話將本通知書登記(電話號碼：18013)，選擇“商戶編號” “9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費聆」熱線：2311 9876。 | (b) By Phone by using Payment by Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline: 2311 9876.
+
+- (c) 透過互聯網繳款 透過銀行或「繳費聆」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址：http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址：http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例(定額罰款)”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address: http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address: http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
+
+- (d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄香港告士打道郵政局信箱28000號(註明庫務署為收件人)。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment.
+
+- (e) 親自繳款 親自或由代理人往下列辦事處繳付—— (i) 任何郵政局(郵政局信箱及流動郵政局除外)。如欲查詢有關地址及辦公時間，請致電香港郵政熱線：2921 2222 或瀏覽其網站(URL 位址：http://www.hongkongpost.com)； | (e) In Person Payment may be made personally or by an agent at any of the following offices— (i) Any Post Office other than a post office letter box or a mobile post office. For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit their web site (URL address: http://www.hongkongpost.com);
+
+- 港島 | Hong Kong Island
+
+- (ii) 薄扶林道2號A西區裁判法院； | (ii) Western Magistracy, 2A Pok Fu Lam Road;
+
+- (iii) 西灣河太安街29號東區法院大樓東區裁判法院； | (iii) Eastern Magistracy, Eastern Law Courts Building, 29 Tai On Street, Sai Wan Ho;
+
+- 九龍 | Kowloon
+
+- (iv) 亞皆老街147號M九龍城裁判法院大樓九龍城裁判法院； | (iv) Kowloon City Magistrates’ Courts, Kowloon City Law Courts Building, 147M Argyle Street;
+
+- (v) 觀塘鯉魚門道10號觀塘法院大樓觀塘裁判法院； | (v) Kwun Tong Magistracy, Kwun Tong Law Courts Building, 10 Lei Yue Mun Road, Kwun Tong;
+
+- (vi) 大埔道292號北九龍裁判法院； | (vi) North Kowloon Magistracy, 292 Tai Po Road;
+
+- 新界 | New Territories
+
+- (vii) 粉嶺璧峰路1號粉嶺裁判法院； | (vii) Fanling Magistrates’ Courts, No. 1 Pik Fung Road, Fanling;
+
+- (viii) 荃灣大河道70號荃灣法院大樓荃灣裁判法院； | (viii) Tsuen Wan Magistracy, Tsuen Wan Law Courts Building, 70 Tai Ho Road, Tsuen Wan;
+
+- (ix) 沙田宜正里1號沙田法院大樓沙田裁判法院； | (ix) Shatin Magistracy, Shatin Law Courts Building, 1 Yi Ching Lane, Shatin;
+
+- (x) 屯門屯喜路1號屯門裁判法院。 | (x) Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun.
+
+- 上述裁判法院於下列時間收款—— | The above magistracies receive payments during the hours of—
+
+- 星期一： 上午9時至下午1時； 至 及 星期五 下午2時至5時 星期六： 上午9時至中午12時 | Monday : 9 a.m. to 1 p.m.; to and Friday 2 p.m. to 5 p.m. Saturday: 9 a.m. to 12 noon
+
+- 本通知書必須保持完整並於繳款時出示。 | This notice must be kept intact and produced at the time of payment.
+
+- 2. | 支票、匯票或本票均須以“香港特別行政區政府”或“特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 | 2. | Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
+
+- 3. | 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 3. | Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment.
+
+- 查詢： 如對本通知書有任何查詢，請致電房屋署檢控組。 (電話：2761 0715) | Enquiries : For enquiries on this notice, please contact the Prosecutions Section of Housing Department. (Tel.: 2761 0715)
+
+- 欲就法律責任提出爭議者請注意： | NOTES FOR THOSE WHO WISH TO DISPUTE LIABILITY :
+
+- 1. | 若你意欲就上述違例事項的法律責任提出爭議，可簽署下列表格，並於通知爭議的最後日期或該日之前將之交付本人，以告知本人你有此意欲。 | 1. | You may notify me, if you wish to dispute liability for the contravention, by signing the form appended below and delivering it to me on or before the last day for notification of dispute.
+
+- 2. | 如你告知本人欲就上述違例事項的法律責任提出爭議，事件會以申訴方式交由裁判官按照上述附例裁定，傳票將會在適當時候向你送達。 | 2. | If you notify me that you wish to dispute liability for the contravention, the matter will be determined by a magistrate on complaint in accordance with the Bylaw and you will be served with a summons in due course.
+
+- 3. | 如你在告知本人欲就上述違例事項的法律責任提出爭議後，沒有應傳票出庭應訊，或在應訊後你並沒有提出免責辯護或你提出瑣屑無聊或無理取鬧的免責辯護，則可被判繳付定額罰款、一項相等於定額罰款款額的附加罰款及訟費。 | 3. | If, having notified me that you wish to dispute liability for the contravention, you do not appear in court to answer the summons or, having appeared; you offer no defence or a defence which is frivolous or vexatious, you are liable to the Fixed Penalty, an additional penalty equal to the amount of the Fixed Penalty and costs.
+
+- 《房屋(交通違例事項)(定額罰款)附例》(第283章，附屬法例C) HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW
+
+- (Cap. 283 sub. leg. C)
+
+- 致 房屋署署長意欲就違例事項的法律責任提出爭議的通知書(第8(3)條)
+
+- NOTIFICATION TO DIRECTOR OF HOUSING OF WISH TO DISPUTE
+
+- LIABILITY FOR CONTRAVENTION (Section 8(3)) 致： 房屋署署長 To: The Director of Housing 九龍何文田佛光街33號 Prosecutions Section
+
+- 房屋委員會總辦事處 Housing Authority Headquarters
+
+- 檢控組 33 Fat Kwong Street, Homantin, Kowloon. 就貴署根據《房屋(交通違例事項)(定額罰款)附例》第8(3)條所發出的通知書(詳情見背頁而本人經已閱悉)，本人意欲就該通知書所指的違例事項的法律責任提出爭議，特此通知。 Take notice that I wish to dispute liability for the contravention specified in your notice (details of which are given overleaf and of which I have taken notice) issued under section 8(3) of the Housing (Traffic Contraventions) (Fixed Penalty) Bylaw. 日期： Date : . . 簽名 Signature
+
+(L.N. 43 of 2003)
+
+_ FORM 3 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation C) CERTIFICATE OF POSTING OF NOTICE (Section 8(8)) This is to certify that
+
+- on the . day of . a Notice under section 8(3) of the Housing (Traffic Contraventions) (Fixed Penalty) Bylaw was posted. The particulars of the Notice are as follows— Serial No.: . Date of Notice: .Name of Addressee: .Address: . . for Director of Housing . (Full name in block letters) Date: . _ FORM 4 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation C) CERTIFICATE OF POSTING OF SUMMONS (Section 13(2)) This is to certify that on the . day of . a Summons issued by the magistrate sitting in the Magistrate’s Court at .,. was posted. The particulars of the Summons are as follows— Serial No.: . Date of Summons: . Name of Defendant: . Address: . . . for Director of Housing . (Full name in block letters) Date: . _ FORM 5 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation C) CERTIFICATE OF IDENTITY OF REGISTERED OWNER/DRIVER, REGISTERED
 
 - ADDRESS AND NON-PAYMENT OF FIXED PENALTY (Section 19) This is to certify that
 
@@ -230,15 +322,15 @@ _ FORM 3 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsid
 
 - * Insert date and time of the contravention to which the proceedings relate. + Insert date on which notice under section 8(3) in respect of such contravention was posted. # Insert date on which summons under section 13(1) in respect of such proceedings was posted. @ Insert last date of payment specified in the notice under section 8(3).
 
-- _ FORM 6 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation) APPLICATION FOR CERTIFICATE OF CLEARANCE (Section 20(7)) To: The Commissioner for Transport, Hong Kong. Dear Sir, *I am [I intend to become] the new owner of motor vehicle registration mark . . . I hereby apply for a Certificate of Clearance under section 20(7) of the Housing (Traffic Contraventions) (Fixed Penalty) Bylaw in respect of the motor vehicle. Yours faithfully, (Signature) . Name: (in block letters) . . Address: (in block letters) . . . Date: . * Delete whichever is inapplicable.
+- _ FORM 6 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation C) APPLICATION FOR CERTIFICATE OF CLEARANCE (Section 20(7)) To: The Commissioner for Transport, Hong Kong. Dear Sir, *I am [I intend to become] the new owner of motor vehicle registration mark . . . I hereby apply for a Certificate of Clearance under section 20(7) of the Housing (Traffic Contraventions) (Fixed Penalty) Bylaw in respect of the motor vehicle. Yours faithfully, (Signature) . Name: (in block letters) . . Address: (in block letters) . . . Date: . * Delete whichever is inapplicable.
 
 (L.N. 249 of 1997)
 
-_ FORM 7 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation) CERTIFICATE OF CLEARANCE (Section 20(6))
+_ FORM 7 HOUSING (TRAFFIC CONTRAVENTIONS) (FIXED PENALTY) BYLAW (Cap. 283 subsidiary legislation C) CERTIFICATE OF CLEARANCE (Section 20(6))
 
 This is to certify that no notice of a valid order under section 20(2)(b)(ii) of the Housing (Traffic Contraventions) (Fixed Penalty) Bylaw appears in my records in respect of motor vehicle registration mark . .
 
-Issued on the . day of . 19 . at . a.m./p.m.
+Issued on the . day of . at . a.m./p.m.
 
 .
 
@@ -250,4 +342,4 @@ Commissioner for Transport
 
 Note: This certificate remains valid for not more than 72 hours from the time of issue. No general holiday will be taken into account in computing the period of 72 hours.
 
-(L.N. 249 of 1997)
+(L.N. 249 of 1997; L.N. 43 of 2003)
