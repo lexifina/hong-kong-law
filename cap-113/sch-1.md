@@ -1,6 +1,8 @@
-# SCHEDULE 1 HOSPITALS THE MANAGEMENT AND CONTROL OF WHICH MAY BE VESTED IN THE AUTHORITY UNDER AGREEMENTS WITH THE GOVERNMENT
+# SCHEDULE 1
 
-[sections 2(1) & 20]
+[ss. 2(1) & 20]
+
+HOSPITALS THE MANAGEMENT AND CONTROL OF WHICH MAY BE VESTED IN THE AUTHORITY UNDER AGREEMENTS WITH THE GOVERNMENT
 
 Castle Peak Hospital
 
@@ -13,6 +15,8 @@ Kowloon Hospital
 Kwai Chung Hospital
 
 Lai Chi Kok Hospital
+
+North District Hospital (Added L.N. 623 of 1997)
 
 Pamela Youde Nethersole Eastern Hospital (Added L.N. 385 of 1993)
 
