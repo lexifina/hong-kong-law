@@ -1,0 +1,5 @@
+POLICE (DISCIPLINE) REGULATIONS
+
+(Cap. 232, section 45)
+
+[1 September 1977] L.N. 209 of 1977
