@@ -1,0 +1,3 @@
+MERCHANT SHIPPING (CONDUCT OF INQUIRIES) RULES
+
+(Ceased to be in force)
