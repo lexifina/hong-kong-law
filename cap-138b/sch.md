@@ -268,6 +268,8 @@ THE POISONS LIST
 
 - Apomorphine; its salts; its quatemary compounds
 
+- Apraclonidine; its salts
+
 - Aprindine; its salts
 
 - Arsenical substances, the following: halides of arsenic; organic compounds of arsenic; oxides of arsenic; sulphides of arsenic; arsenates; arsenites; thioarsenates
@@ -344,6 +346,22 @@ THE POISONS LIST
 
 - Bitolterol; its salts
 
+- Blood products derived from human blood or manufactured by biotechnology, the following-
+
+- Albumin
+
+- Antithrombins
+
+- Blood clotting factors
+
+- Fibrin
+
+- Fibrinogen
+
+- Plasma protein fractions
+
+- Thrombin
+
 - Botulinum toxin complexes
 
 - Bretylium tosylate
@@ -367,6 +385,8 @@ THE POISONS LIST
 - Bumadizone; its salts
 
 - Bumetanide; its salts; its derivatives; their salts
+
+- Bupivacaine; its salts
 
 - Bupranolol; its salts
 
@@ -407,6 +427,8 @@ THE POISONS LIST
 - Carbamazepine
 
 - Carbidopa; its salts
+
+- Carbimazole; its salts
 
 - Carboplatin
 
@@ -663,6 +685,8 @@ THE POISONS LIST
 - Dihydrocodeinone enol acetate; its salts
 
 - Dihydroergotamine; its salts, simple or complex
+
+- Dihydroetorphine; its salts
 
 - Dihydromorphine; its salts; its esters and ethers; their salts
 
@@ -1136,6 +1160,8 @@ THE POISONS LIST
 
 - Mefruside
 
+- Melitracen; its salts
+
 - Meloxicam; its salts
 
 - Mephenesin; its esters; their salts
@@ -1143,6 +1169,8 @@ THE POISONS LIST
 - Mephenoxalone
 
 - Mepirizole
+
+- Mepivacaine; its salts
 
 - Meprobamate
 
@@ -1175,6 +1203,8 @@ THE POISONS LIST
 - Methadyl acetate; its salts
 
 - Methaqualone; its salts
+
+- Methimazole; its salts
 
 - Methixene; its salts
 
@@ -1574,6 +1604,8 @@ THE POISONS LIST
 
 - Propylhexedrine; its salts
 
+- Propylthiouracil; its salts
+
 - Proquazone
 
 - Prostaglandins, the following and their derivatives-
@@ -1774,6 +1806,8 @@ THE POISONS LIST
 
 - Thyroid gland, the active principles of; their salts
 
+- Tiapride; its salts
+
 - Ticlopidine; its salts
 
 - Tiletamine; its salts
@@ -1791,6 +1825,8 @@ THE POISONS LIST
 - Tinzaparin; its salts
 
 - Tioconazole; its salts
+
+- Tiratricol; its salts
 
 - Tirofiban; its salts
 
@@ -1835,6 +1871,8 @@ THE POISONS LIST
 - Tretamine; its salts
 
 - Tretinoin
+
+- Tretoquinol; its salts
 
 - Triamterene; its salts
 
@@ -1885,6 +1923,8 @@ THE POISONS LIST
 - Valsartan; its salts
 
 - Vasopressins
+
+- Veralipride; its salts
 
 - Verapamil; its salts
 
@@ -1966,18 +2006,108 @@ THE POISONS LIST
 
   - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000)
 
-- PART II A Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance alpha-Chloralose Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison listed in Part IA of this List, (excepting pharmaceutical products containing acetyldihydrocodeine, codeine, dextromethorphan, dihydrocodeine, ethylmorphine, morphine, nicocodine, norcodeine, pholcodine or any salts of any of these substances or any poison appearing in the Third Schedule to Pharmacy & Poisons Regulations (Cap. 138 sub. leg.)) where the proportion of such poison does not exceed the equivalent of 0.01% by weight of arsenic trioxide, cantharidin, cocaine, coniine, ecgonine, hydrocyanic acid, strychnine, alkaloids of aconite, alkaloids of coca and alkaloids of gelsemium, solution of mercurochrome for external use only containing not more than 2%, weight in volume, of mercurochrome and 0.1% in the case of other poisons Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols. B Ammonia gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane) Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
+- PART II A
 
-- Formic acid
+- Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance
 
-- Hydrochloric acid Hydrofluoric acid; alkali fluorides; alkali metal bifluorides; ammonium bifluorides; sodium silicofluoride Metallic oxalates
+- alpha-Chloralose
 
-- Nitric acid
+- Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison included in part A of Part I of this List, where the proportion of the poison does not exceed the equivalent of—
 
-- Nitrobenzene
+  - (a) 0.01% by weight of arsenic trioxide, cantharidin, cocaine, coniine, ecgonine, hydrocyanic acid, strychnine, alkaloids of aconite, alkaloids of coca or alkaloids of gelsemium;
 
-- Phosphoric acid
+  - (b) 2%, weight in volume, of mercurochrome when contained in solutions for external use only; and
 
-- Potassium hydroxide Products retailed in the form as supplied by the manufacturer, containing a poison listed in Part IB of this List, where the proportion of such poison does not exceed the equivalent of 0.1% Sodium hydroxide
+  - (c) 0.1% by weight in the case of other poisons,
 
-- Sodium nitrite (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999)
+- except pharmaceutical products containing any poison—
+
+  - (i) included in the Third Schedule to the Pharmacy and Poisons Regulations (Cap. 138 sub. leg.); or
+
+  - (ii) in the following list—
+
+- Acetyldihydrocodeine; its salts
+
+- Alkaloids of belladonna; their salts
+
+- Alkaloids of ephedra; their salts
+
+- Atropine; its salts
+
+- Bambuterol; its salts
+
+- Benzydamine; its salts
+
+- Butropium; its salts
+
+- Codeine; its salts
+
+- Dextromethorphan; its salts
+
+- Diclofenac; its salts
+
+- Dihydrocodeine; its salts
+
+- Ethylmorphine; its salts
+
+- Fenoterol; its salts
+
+- Formoterol; its salts
+
+- Homatropine; its salts
+
+- Hyoscine; its salts
+
+- Hyoscyamine; its salts
+
+- Ipratropium; its salts
+
+- Methylaminoheptane; its salts
+
+- Morphine; its salts
+
+- Nicocodine; its salts
+
+- Norcodeine; its salts
+
+- Orciprenaline; its salts
+
+- Papaverine; its salts
+
+- Phenylpropanolamine; its salts
+
+- Pholcodine; its salts
+
+- Procaterol; its salts
+
+- Salmeterol; its salts
+
+- Terbutaline; its salts
+
+- Tretoquinol; its salts
+
+- Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols.
+
+- B
+
+- Ammonia
+
+- gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane)
+
+  - Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
+
+  - Formic acid
+
+  - Hydrochloric acid Hydrofluoric acid; alkali fluorides; alkali metal bifluorides; ammonium bifluorides; sodium silicofluoride Metallic oxalates
+
+  - Nitric acid
+
+  - Nitrobenzene
+
+  - Phosphoric acid
+
+  - Potassium hydroxide Products retailed in the form as supplied by the manufacturer, containing a poison listed in Part IB of this List, where the proportion of such poison does not exceed the equivalent of 0.1% Sodium hydroxide
+
+  - Sodium nitrite
+
+- (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999; L.N. 139 of 2000)
