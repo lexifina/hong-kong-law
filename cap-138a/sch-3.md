@@ -42,6 +42,8 @@ Acitretin; its salts; its esters
 
 Adapalene; its salts; its esters
 
+Adefovir; its salts
+
 Alclofenac; its complexes
 
 Alcuronium; its salts
@@ -648,11 +650,15 @@ Etomidate; its salts
 
 Etoposide; its esters
 
+Etoricoxib; its salts
+
 Etretinate
 
 Etryptamine; its salts
 
 Exemestane; its salts
+
+Ezetimibe
 
 Famciclovir; its salts
 
@@ -1250,6 +1256,8 @@ Phenylbutazone; its salts
 
 Picrotoxin
 
+Pimecrolimus
+
 Pioglitazone; its salts
 
 Pipecuronium; its salts
@@ -1313,6 +1321,8 @@ Proquazone
 Prostaglandins, the following and their derivatives-
 
 Alprostadil
+
+Bimatoprost
 
 Dinoprost
 
@@ -1424,6 +1434,8 @@ Saquinavir; its salts
 
 Sertraline; its salts
 
+Sevelamer; its salts
+
 Sibutramine; its salts
 
 Sildenafil; its salts
@@ -1474,6 +1486,8 @@ Tacrine; its salts
 
 Tacrolimus
 
+Tadalafil; its salts
+
 Tamoxifen; its salts
 
 Tazarotene; its salts
@@ -1519,6 +1533,8 @@ Thymosin alpha 1
 Thyroid gland, the active principles of; their salts
 
 Tiagabine; its salts; its esters; their salts
+
+Tianeptine; its salts; its esters; their salts
 
 Tiapride; its salts
 
@@ -1628,6 +1644,8 @@ Valaciclovir; its salts
 
 Valdecoxib; its salts
 
+Valganciclovir; its salts
+
 Valnoctamide
 
 Valproic acid; its salts; its esters
@@ -1655,6 +1673,8 @@ Vinca, alkaloids of
 Vindesine; its salts
 
 Vinorelbine; its salts
+
+Voriconazole; its salts
 
 Warfarin salts
 
@@ -1692,7 +1712,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003)
 
 B
 
