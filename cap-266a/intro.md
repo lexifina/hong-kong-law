@@ -1,0 +1,5 @@
+MASSAGE ESTABLISHMENTS REGULATIONS
+
+(Cap. 266 section 12)
+
+[18 November 1988]
