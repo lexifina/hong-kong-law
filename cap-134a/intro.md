@@ -1,0 +1,5 @@
+DANGEROUS DRUGS REGULATIONS
+
+(Cap. 134 section 51)
+
+[17 January 1969]

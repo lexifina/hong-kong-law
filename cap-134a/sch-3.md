@@ -1,0 +1,3 @@
+# Third Schedule
+
+(Repealed 31 of 1969 s. 7)
