@@ -700,7 +700,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - N.B.:
 
-  - See also 1A005 of the Dual-use Goods List. ML14 Specialised equipment for military training or for simulating military scenarios, and specially designed components and accessories therefor; Technical Note: The term ‘specialised equipment for military training includes military types of attack trainers, operational flight trainers, radar target trainers, radar target generators, gunnery training devices, anti-submarine warfare trainers, flight simulators (including human-rated centrifuges for pilot/astronaut training), radar trainers, instrument flight trainers, navigation trainers, missile launch trainers, target equipment, drone “aircraft”, armament trainers, pilotless “aircraft” trainers and mobile training units.
+  - See also 1A005 of the Dual-use Goods List. ML14 Specialised equipment for military training or for simulating military scenarios, and specially designed components and accessories therefor; Technical Note: The term ‘specialised equipment for military training’ includes military types of attack trainers, operational flight trainers, radar target trainers, radar target generators, gunnery training devices, anti-submarine warfare trainers, flight simulators (including human-rated centrifuges for pilot/astronaut training), radar trainers, instrument flight trainers, navigation trainers, missile launch trainers, target equipment, drone “aircraft”, armament trainers, pilotless “aircraft” trainers and mobile training units.
 
   - Note:
 
@@ -1368,7 +1368,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - BEZ(ppm) = CF×Concentration of element Z in ppm;
 
-  - and σB and σz are the thermal neutron capture cross sections (in barns) for naturally occurring boron and element Z respectively; and AB and AZ are the atomic masses of naturally occurring boron and element Z respectively. 0C005 Specially prepared compounds or powders for the manufacture of gaseous diffusion barriers, resistant to corrosion by UF6 (e.g. nickel or alloy containing 60 weight percent or more nickel, aluminium oxide and fully fluorinated hydrocarbon polymers), having a purity of 99.9 weight percent or more and a mean particle size of less than 10 micrometres measured by American Society for Testing and Materials (ASTM) B330 standard and a high degree of particle size uniformity; 0D SOFTWARE 0D001 “Software” specially designed or modified for the “development”, “production” or “use” of goods controlled by this Category; 0E TECHNOLOGY 0E001 “Technology” according to the Nuclear Technology Note for the “development”, “production” or “use” of goods controlled by this Category;
+  - and σB andσz are the thermal neutron capture cross sections (in barns) for naturally occurring boron and element Z respectively; and AB and AZ are the atomic masses of naturally occurring boron and element Z respectively. 0C005 Specially prepared compounds or powders for the manufacture of gaseous diffusion barriers, resistant to corrosion by UF6 (e.g. nickel or alloy containing 60 weight percent or more nickel, aluminium oxide and fully fluorinated hydrocarbon polymers), having a purity of 99.9 weight percent or more and a mean particle size of less than 10 micrometres measured by American Society for Testing and Materials (ASTM) B330 standard and a high degree of particle size uniformity; 0D SOFTWARE 0D001 “Software” specially designed or modified for the “development”, “production” or “use” of goods controlled by this Category; 0E TECHNOLOGY 0E001 “Technology” according to the Nuclear Technology Note for the “development”, “production” or “use” of goods controlled by this Category;
 
 - (L.N. 183 of 1999)
 
@@ -1386,7 +1386,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (2) With a thickness exceeding 200 μm;
 
-  - (c) Seals, gaskets, valve seats, bladders or diaphragms made from fluoroelastomers containing at least one vinylether monomer, specially designed for “aircraft”, aerospace or ‘missile’use; Note:
+  - (c) Seals, gaskets, valve seats, bladders or diaphragms made from fluoroelastomers containing at least one vinylether monomer, specially designed for “aircraft”, aerospace or ‘missile’ use; Note:
 
   - ‘Missile’ in 1A001(c) means complete rocket systems and unmanned air vehicle systems. 1A002 “Composite” structures or laminates, having any of the following:
 
@@ -3060,7 +3060,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - Note:
 
-  - In 2B116, “bare table” means a flat table, or surface, with no fixture or fittings. 2B201 Machine tools, other than those controlled by 2B001, as follows, for removing or cutting metals, ceramics or “composites”, which, according to the manufacturer’s technical specification, can be equipped with electronic devices for simultaneous “contouring control” in two or more axes:
+  - In 2B116, ‘bare table’ means a flat table, or surface, with no fixture or fittings. 2B201 Machine tools, other than those controlled by 2B001, as follows, for removing or cutting metals, ceramics or “composites”, which, according to the manufacturer’s technical specification, can be equipped with electronic devices for simultaneous “contouring control” in two or more axes:
 
   - (a) Machine tools for milling, having any of the following characteristics:
 
@@ -3976,7 +3976,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (a)
 
-          - A “composite theoretical performance” (“CTP”) of 260 million theoretical operations per second (Mtops) or more and an arithmetic logic unit with an access width of 32 bit or more;
+          - A “composite theoretical performance” (“CTP”) of 3500 million theoretical operations per second (Mtops) or more and an arithmetic logic unit with an access width of 32 bit or more; (L.N. 2 of 2000)
 
         - (b) Manufactured from a compound semiconductor and operating at a clock frequency exceeding 40 MHz; or
 
@@ -4712,7 +4712,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (b)
 
-      - “Digital computers” having a “composite theoretical performance” (“CTP”) exceeding 2000 million theoretical operations per second (Mtops); (L.N. 183 of 1999)
+      - “Digital computers” having a “composite theoretical performance” (“CTP”) exceeding 6500 million theoretical operations per second (Mtops); (L.N. 183 of 1999; L.N. 2 of 2000)
 
     - (c)
 
@@ -4730,7 +4730,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (g) Equipment specially designed to provide external interconnection of “digital computers” or associated equipment which allows communications at data rates exceeding 80 Mbyte/s; Note:
 
-    - 4A003(g) does not control internal interconnection equipment (e.g. backplanes, buses), passive interconnection equipment, “network access controllers” or “communications channel controllers”. (L.N. 183 of 1999) 4A004 Computers, as follows, and specially designed related equipment, “electronic assemblies” and components therefor:
+    - 4A003(g) does not control internal interconnection equipment (e.g., backplanes, buses), passive interconnection equipment, “network access controllers” or “communications channel controllers”. (L.N. 183 of 1999) 4A004 Computers, as follows, and specially designed related equipment, “electronic assemblies” and components therefor:
 
     - (a) “Systolic array computers”;
 
@@ -4948,7 +4948,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (2) Incorporating a linear power amplifier configuration having a capability to support multiple signals simultaneously at an output power of 1 kW or more in the 1.5 MHz to 30 MHz frequency range or 250 W or more in the 30 MHz to 87.5 MHz frequency range, over an “instantaneous bandwidth” of one octave or more and with an output harmonic and distortion content of better than -80 dB;
 
-  - (3) Being radio equipment employing “spread spectrum” or “frequency agility” (frequency hopping) techniques having any of the following characteristics:
+  - (3) Being radio equipment employing “spread spectrum” or “” (frequency hopping) techniques having any of the following characteristics:
 
     - (a) User programmable spreading codes; or
 
@@ -5094,7 +5094,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (3) “Technology” for the “development” of digital cellular radio systems;
 
-      - (4) “Technology” for the “development” of “spread spectrum” or “frequency agility” (frequency hopping) techniques;
+      - (4) “Technology” for the “development” of “spread spectrum” or “” (frequency hopping) techniques;
 
     - (c) “Technology” according to the General Technology Note for the “development” or “production” of any of the following telecommunication transmission or “stored programme controlled” switching equipment, functions or features:
 
@@ -5200,7 +5200,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (4) Specially designed or modified to reduce the compromising emanations of information-bearing signals beyond what is necessary for health, safety or electromagnetic interference standards;
 
-  - (5) Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” or the hopping code for “frequency agility” systems;
+  - (5) Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” or the hopping code for “” systems;
 
   - (6) Designed or modified to provide certified or certifiable “multilevel security” or user isolation at a level exceeding Class B2 of the Trusted Computer System Evaluation Criteria (TCSEC) or equivalent;
 
@@ -6124,7 +6124,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (1) “Radar spread spectrum” techniques; or
 
-      - (2) “Radar frequency agility” techniques;
+      - (2) “Radar “ techniques;
 
     - (i)
 
@@ -6166,9 +6166,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (l) Having data processing sub-systems with any of the following:
 
-      - (1)
+      - (1) “Automatic target tracking” providing, at any antenna rotation, the predicted target position beyond the time of the next antenna beam passage; Note:
 
-        - “Automatic target tracking” providing, at any antenna rotation, the predicted target position beyond the time of the next antenna beam passage; Note: 6A008(l)(1) does not control conflict alert capability in ATC systems, or marine or harbour radar.
+      - 6A008(l)(1) does not control conflict alert capability in ATC systems, or marine or harbour radar.
 
       - (2) Calculation of target velocity from primary radar having non-periodic (variable) scanning rates;
 
@@ -7712,7 +7712,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 5 “Frequency agility” (frequency hopping) (頻率跳頻) A form of “spread spectrum” in which the transmission frequency of a single communication channel is made to change by discrete steps.
 
-      - 6 “Frequency agility” (radar) (頻率跳頻) (雷達)-see “Radar frequency agility”
+      - 6 “Frequency agility” (radar) (頻率跳頻) (雷達)-see “Radar “
 
       - 3 5 “Frequency switching time” (頻率切換時間) The maximum time (i.e., delay), taken by a signal, when switched from one selected output frequency to another selected output frequency, to reach:
 
@@ -7776,7 +7776,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 9 “Insulation” (絕緣襯片) Material intended to provide protection from the effects of heat during the operation of rocket motors. The material includes cured or semi-cured compounded rubber sheet stock containing an insulating or refractory material. It is applied to the components of a rocket motor, i.e. the case, nozzle, inlets, case closures.
 
-      - 6 “Interconnected radar sensors” (相結連的雷達感測器) Two or more radar sensors are interconnected when they mutually exchange data in real time. GTN “In the public domain” (在公共領域內) GSN As it applies to these Lists, means “technology” or “software” which has been made available without restrictions upon its further dissemination. N.B.: Copyright restrictions do not remove “technology” or “software” from being “in the public domain”.
+      - 6 “Interconnected radar sensors” (相結連的雷達感測器) Two or more radar sensors are interconnected when they mutually exchange data in real time.
+
+      - GTN “In the public domain” (在公共領域內) GSN As it applies to these Lists, means “technology” or “software” which has been made available without restrictions upon its further dissemination. N.B.: Copyright restrictions do not remove “technology” or “software” from being “in the public domain”.
 
       - 9 “Interior lining” (內襯套) Suited for the bond interface between the solid propellant and the case or insulating liner. Usually a liquid polymer based dispersion of refractory or insulating materials, e.g. carbon filled hydroxyl terminated polybutadiene (HTPB) or other polymer with added curing agents sprayed or screeded over a case interior.
 
@@ -7952,7 +7954,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 6 “Q-switched laser” (Q開關式雷射器) A “laser” in which the energy is stored in the population inversion or in the optical resonator and subsequently emitted in a pulse.
 
-      - 6 “Radar frequency agility” (雷達頻率跳頻) Any technique which changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth.
+      - 6 “Radar “ (雷達頻率跳頻) Any technique which changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth.
 
       - 6 “Radar spread spectrum” (雷達擴散頻譜) Any modulation technique for spreading energy originating from a signal with a relatively narrow frequency band, over a much wider band of frequencies, by using random or pseudo-random coding.
 
