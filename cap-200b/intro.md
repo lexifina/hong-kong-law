@@ -1,0 +1,5 @@
+PROTECTED COINS (DESIGNATION) ORDER
+
+(Cap. 200 section 107)
+
+[18 August 1995]
