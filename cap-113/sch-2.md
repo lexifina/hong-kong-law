@@ -26,8 +26,6 @@ Kwong Wah Hospital
 
 MacLehose Medical Rehabilitation Centre
 
-Margaret Trench Medical Rehabilitation Centre
-
 Nam Long Hospital
 
 Our Lady of Maryknoll Hospital
@@ -48,4 +46,4 @@ United Christian Hospital
 
 Yan Chai Hospital
 
-(Amended L.N. 428 of 1991)
+(Amended L.N. 428 of 1991; L.N. 170 of 2000)
