@@ -198,4 +198,6 @@ Item | Periods | Rate of interest
 
 97. | On or after 4 October 1999 and before 1 November 1999 (L.N. 246 of 1999; L.N. 267 of 1999) | 4.6250% per annum
 
-98. | On or after 1 November 1999 (L.N. 267 of 1999) | 4.7917% per annum
+98. | On or after 1 November 1999 and before 6 December 1999 (L.N. 267 of 1999; L.N. 305 of 1999) | 4.7917% per annum
+
+99. | On or after 6 December 1999 (L.N. 305 of 1999) | 4.8750% per annum
