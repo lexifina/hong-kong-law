@@ -24,11 +24,11 @@ REGISTRATION OF BIRTHS OF LEGITIMATED PERSONS
 
 - 4. The failure of the parents or either of them to furnish information as required by this Schedule in respect of any legitimated person shall not affect the legitimation of that person.
 
-- 5. No fee for re-registration under this Schedule shall be charged if the necessary information for the purpose is furnished within the time above specified; but in any other case there shall be charged in respect of such re-registration a fee of $295. (Amended 69 of 1984 s. 2; 53 of 1986 s. 3; L.N. 75 of 1991; L.N. 198 of 1993; L.N. 364 of 1994; L.N. 243 of 1995; L.N. 285 of 1996)
+- 5. No fee for re-registration under this Schedule shall be charged if the necessary information for the purpose is furnished within the time above specified; but in any other case there shall be charged in respect of such re-registration a fee of $340. (Amended 69 of 1984 s. 2; 53 of 1986 s. 3; L.N. 75 of 1991; L.N. 198 of 1993; L.N. 364 of 1994; L.N. 243 of 1995; L.N. 285 of 1996; L.N. 453 of 1997)
 
 - 6.
 
-  - (1) Upon application being made to a Registrar and upon payment of a fee of $120 a certified copy of the entry of the birth of a legitimated person whose birth has been re-registered shall be supplied to the person applying and paying the fee. (Amended 69 of 1984 s. 2; 53 of 1986 s. 3; L.N. 75 of 1991; L.N. 198 of 1993; L.N. 364 of 1994; L.N. 243 of 1995; L.N. 285 of 1996)
+  - (1) Upon application being made to a Registrar and upon payment of a fee of $140 a certified copy of the entry of the birth of a legitimated person whose birth has been re-registered shall be supplied to the person applying and paying the fee. (Amended 69 of 1984 s. 2; 53 of 1986 s. 3; L.N. 75 of 1991; L.N. 198 of 1993; L.N. 364 of 1994; L.N. 243 of 1995; L.N. 285 of 1996; L.N. 453 of 1997)
 
   - (2) Where the birth of a legitimated person has been re-registered no certified copy of any previous entry shall be supplied without the consent of the Registrar.
 
