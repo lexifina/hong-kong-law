@@ -96,6 +96,7 @@ s-082.md
 s-083.md
 s-084.md
 s-085.md
+s-085A.md
 s-086.md
 s-086A.md
 s-086B.md
