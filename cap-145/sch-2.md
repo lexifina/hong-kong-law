@@ -34,4 +34,6 @@ Item | Substance
 
 15. | Potassium permanganate (高錳酸鉀) (*) (Added L.N. 144 of 1999)
 
+16. | Norephedrine (苯丙醇胺) (*) (Added L.N. 165 of 2000)
+
 (*) Including the salts of these substances whenever the existence of such salts is possible. (Schedule 2 replaced L.N. 53 of 1997)
