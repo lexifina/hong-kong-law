@@ -36,7 +36,7 @@ PUBLIC BODIES
 
 - 17. (Repealed 50 of 1987 s. 13)
 
-- 18. The Hong Kong Polytechnic University. (Amended 94 of 1994 s. 23)
+- 18. The Hong Kong Polytechnic University. (Replaced 94 of 1994 s. 23)
 
 - 19. Hong Kong Productivity Council.
 
@@ -104,9 +104,9 @@ PUBLIC BODIES
 
 - 51. Land Development Corporation. (Added 71 of 1987 s. 20)
 
-- 52. Securities and Futures Commission. (Added 10 of 1989 s. 65)
+- 52. Securities and Futures Commission. (Added 10 of 1989 Schedule 2)
 
-- 53. The Open University of Hong Kong. (Replaced 50 of 1997 s. 29)
+- 53. The Open University of Hong Kong. (Added 22 of 1987 Schedule 2. Amended L.N. 176 of 1989. Replaced 50 of 1997 s. 29)
 
 - 54. Hong Kong Sports Development Board. (Added 8 of 1990 s. 18)
 
@@ -118,7 +118,7 @@ PUBLIC BODIES
 
 - 58. The Hospital Authority (including any committee established by the Hospital Authority). (Added 68 of 1990 s. 24)
 
-- 59. The Airport Authority. (Replaced 71 of 1995 s. 49)
+- 59. The Airport Authority. (Added L.N. 249 of 1990. Replaced 71 of 1995 s. 49)
 
 - 60. Metro Broadcast Corporation Limited. (Added L.N. 184 of 1991)
 
@@ -150,7 +150,7 @@ PUBLIC BODIES
 
 - 74. Hong Kong Quality Assurance Agency. (Added L.N. 409 of 1994)
 
-- 75. Equal Opportunities Commission. (Added 67 of 1995 s. 91(2))
+- 75. Equal Opportunities Commission. (Added 67 of 1995 s. 91)
 
 - 76. The Security and Guarding Services Industry Authority. (Added 97 of 1994 s. 34)
 
@@ -180,4 +180,6 @@ PUBLIC BODIES
 
 - 88. The Hong Kong Mortgage Corporation Limited. (Added L.N. 313 of 1998)
 
-- 89. Hong Kong Note Printing Limited. (Added L.N. 313 of 1998) (Replaced L.N. 272 of 1974)
+- 89. Hong Kong Note Printing Limited. (Added L.N. 313 of 1998)
+
+- 90. Exchange Fund Investment Limited. (Added L.N. 16 of 1999) (Replaced L.N. 272 of 1974)
