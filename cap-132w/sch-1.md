@@ -6,6 +6,18 @@
 
 means proportion or percentage by weight)
 
+- PART IA GOOD MANUFACTURING PRACTICE
+
+  - For the purposes of this Schedule, “good manufacturing practice” (優良製造規範) includes a manufacturing practice which complies with the following requirements—
+
+    - (a) the quantity of the additive added to food is limited to the lowest possible level necessary to accomplish its desired effect;
+
+    - (b) the quantity of the additive that becomes a component of food as a result of its use in the manufacturing, processing or packaging of a food and which is not intended to accomplish any physical, or other technical effect in the food itself, is reduced to the extent reasonably possible; and
+
+    - (c) the additive is prepared and handled in the same way as a food ingredient.
+
+- (L.N. 207 of 2004)
+
 - PART I COMPOSITION OF FOODS AND DRUGS OTHER THAN
 
 - MILK AND MILK PRODUCTS
@@ -18,7 +30,7 @@ means proportion or percentage by weight)
 
   - 4. Lard shall be the clean fat rendered from the meat of the hog. It shall contain not more than 1% of substances other than hog fat unavoidably incorporated with it in the process of rendering, and not more than 1% of water. It shall not contain any foreign substance.
 
-  - 5. Vinegar shall be a liquid derived wholly from alcoholic and acetous fermentations without any intermediate distillation. It shall contain not less than 4.0 grammes of acetic acid in 100 cubic centimetres of the vinegar, and shall not contain any other foreign substance, except caramel.
+  - 5. Vinegar shall be a liquid derived wholly from alcoholic and acetous fermentations without any intermediate distillation. It shall contain not less than 4.0 grams of acetic acid in 100 cubic centimetres of the vinegar, and shall not contain any other foreign substance, except caramel. (L.N. 207 of 2004)
 
   - 6. Malt vinegar shall be vinegar as prescribed in item 5, but it shall be derived wholly from malted barley, with or without addition of cereals, the starch of which has been saccharified by the diastase of malt.
 
@@ -28,7 +40,7 @@ means proportion or percentage by weight)
 
   - 8. Baking powder shall yield not more than 1.5% of its weight of residual carbon dioxide and not less than 8% of its weight of available carbon dioxide, the weight of residual and available carbon dioxide, respectively, being determined in the following manner—
 
-    - (a) Residual carbon dioxide— A sample of 2 grammes of baking powder shall be treated with 25 millilitres of water and evaporated to dryness on a boiling water bath and subsequently treated with a further 25 millilitres of water and evaporated in like manner. The weight of the residual carbon dioxide is the weight evolved when the sample so treated is further treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling or by means of reduced pressure.
+    - (a) Residual carbon dioxide— A sample of 2 grams of baking powder shall be treated with 25 millilitres of water and evaporated to dryness on a boiling water bath and subsequently treated with a further 25 millilitres of water and evaporated in like manner. The weight of the residual carbon dioxide is the weight evolved when the sample so treated is further treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling or by means of reduced pressure. (L.N. 207 of 2004)
 
     - (b) Available carbon dioxide— The weight of available carbon dioxide is the difference between the total weight of carbon dioxide and the weight of the residual carbon dioxide obtained when the sample is treated in the manner prescribed in paragraph (a), the total weight of carbon dioxide being determined by ascertaining the weight evolved when a similar sample of the baking powder is treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling for minutes or by means of reduced pressure.
 
@@ -64,37 +76,35 @@ means proportion or percentage by weight)
 
   - 12.
 
-    - (1) No sterilized cream or ultra heat treated cream shall contain more than 0.2% of any one or, as the case may be, more than 0.2% of any combination of the following ingredients—
+    - (1) Subject to paragraphs (1A), (1B), (1C), (1D), (1E), (3) and (6), cream shall not contain any ingredient except any additive specified in column 2 of Division 3 of Part III of this Schedule not exceeding the level specified in respect of the additive in column 3 of that Division. (L.N. 207 of 2004)
 
-      - (a) calcium chloride;
+    - (1A) There may be added into cream to serve as stabilizers or thickeners—
 
-      - (b) sodium or potassium salts of—
+      - (a) ingredients derived exclusively from milk or whey and containing 35% or more of any type of milk protein; and
 
-        - (i) carbonic acid;
+      - (b) milk powder.
 
-        - (ii) citric acid;
+    - The total quantity of the ingredients and milk powder shall not exceed 20 grams per kilogram of cream. (L.N. 207 of 2004)
 
-        - (iii) orthophosphoric acid.
+    - (1B) Gelatin and starch may be added into cream to serve as stabilizers in amounts governed by good manufacturing practice. (L.N. 207 of 2004)
 
-    - (2) No cream which is sold or delivered to a manufacturer for the purpose of his manufacturing business or to a caterer for the purpose of his catering business shall contain more than 13% sugar.
+    - (1C) Whipped cream and cream in an aerosol container may contain carbon dioxide, nitrogen or nitrous oxide as packing gases or propellants. (L.N. 207 of 2004)
 
-    - (3) No whipping cream which is sold or delivered to a manufacturer for the purpose of his manufacturing business or to a caterer for the purpose of his catering business, whipped cream and cream in an aerosol container shall contain—
+    - (1D) Fermented cream may contain starter cultures of harmless micro-organisms. (L.N. 207 of 2004)
 
-      - (a) more than 13% sugar; and
+    - (1E) Fermented cream and acidified cream may contain—
 
-      - (b) more than 0.3% of any one or, as the case may be, more than 0.3% of any combination of the following ingredients—
+      - (a) sodium chloride;
 
-        - (i) sodium alginate or a mixture of sodium bicarbonate, tetrasodium pyrophosphate and alginic acid;
+      - (b) rennet; or
 
-        - (ii) sodium carboxymethyl cellulose;
+      - (c) other coagulating enzymes which are safe for human consumption. (L.N. 207 of 2004)
 
-        - (iii) carrageenan;
+    - (2) (Repealed L.N. 207 of 2005)
 
-        - (iv) gelatin.
+    - (3) Cream which is sold or delivered to a manufacturer for the purpose of his manufacturing business or to a caterer for the purpose of his catering business, whipped cream and cream in an aerosol container may contain not more than 13% sugar. (L.N. 207 of 2004)
 
-    - (4) Whipped cream and cream in an aerosol container may contain nitrous oxide.
-
-    - (5) No cream in an aerosol container shall contain more than 0.5% of glyceryl monostearate.
+    - (4)-(5) (Repealed L.N. 207 of 2005)
 
     - (6) Clotted cream may contain nisin. (L.N. 217 of 1977)
 
@@ -198,12 +208,130 @@ Acidity Regulators
 
 5. | Calcium hydroxide
 
-- For the purposes of this Part, “good manufacturing practice” (優良製造規範) includes a manufacturing practice which complies with the following requirements—
+- Division 3 Additives in cream
 
-- (a) the quantity of the additive added to food is limited to the lowest possible level necessary to accomplish its desired effect;
+Item | Additive | Maximum Level
 
-- (b) the quantity of the additive that becomes a component of food as a result of its use in the manufacturing, processing or packaging of a food and which is not intended to accomplish any physical, or other technical effect in the food itself, is reduced to the extent reasonably possible; and
+Stabilizers
 
-- (c) the additive is prepared and handled in the same way as a food ingredient.
+1. | Calcium carbonates | } } } } | Limited by good manufacturing practice
 
-(L.N. 85 of 2004)
+2. | Sodium lactate
+
+3. | Potassium lactate
+
+4. | Calcium lactate
+
+5. | Sodium citrates
+
+6. | Potassium citrates
+
+7. | Calcium citrates
+
+8. | Calcium sulphate
+
+9. | Sodium phosphates | 2 grams per kilogram, whether the additives are used singly or in combination, expressed as phosphorus pentaoxide (P2O5)
+
+10. | Potassium phosphates
+
+11. | Calcium phosphates
+
+12. | Diphosphates
+
+13. | Triphosphates
+
+14. | Polyphosphates
+
+Acidity Regulators
+
+15. | Sodium carbonates | } | Limited by good manufacturing practice
+
+16. | Potassium carbonates
+
+17. | Lactic acid (L, D, and DL-)
+
+18. | Citric acid
+
+Thickeners and Emulsifiers
+
+19. | Lecithins | } } } } | Limited by good manufacturing practice
+
+20. | Alginic acid
+
+21. | Sodium alginate
+
+22. | Potassium alginate
+
+23. | Ammonium alginate
+
+24. | Calcium alginate
+
+25. | Agar
+
+26. | Carrageenan and its sodium, potassium and ammonium salts
+
+27. | Carob bean gum
+
+28. | Guar gum
+
+29. | Gum Arabic
+
+30. | Xanthan gum
+
+31. | Gellan gum
+
+32. | Polyoxyethylene (20) sorbitan monolaurate | } } } | 1 gram per kilogram
+
+33. | Polyoxyethylene (20) sorbitan monooleate
+
+34. | Polyoxyethylene (20) sorbitan monopalmitate
+
+35. | Polyoxyethylene (20) sorbitan monostearate
+
+36. | Polyoxyethylene (20) sorbitan tristearate
+
+37. | Pectins | } } } } } | Limited by good manufacturing practice
+
+38. | Cellulose
+
+39. | Methyl cellulose
+
+40. | Hydroxypropyl cellulose
+
+41. | Hydroxypropyl methyl cellulose
+
+42. | Methyl ethyl cellulose
+
+43. | Sodium carboxymethyl cellulose
+
+44. | Mono- and diglycerides of fatty acids
+
+45. | Acetic and fatty acid esters of glycerol
+
+46. | Lactic and fatty acid esters of glycerol
+
+47. | Citric and fatty acid esters of glycerol
+
+48. | Potassium chloride
+
+49. | Calcium chloride
+
+50. | Monostarch phosphate | } } } } } | Limited by good manufacturing practice
+
+51. | Distarch phosphate esterified with sodium trimetaphosphate; distarch phosphate esterified with phosphorus oxychloride
+
+52. | Phosphated distarch phosphate
+
+53. | Acetylated distarch phosphate
+
+54. | Starch acetate esterified with acetic anhydride
+
+55. | Acetylated distarch adipate
+
+56. | Hydroxypropyl starch
+
+57. | Hydroxypropyl distarch phosphate
+
+58. | Starch sodium octenyl succinate
+
+(L.N. 207 of 2004) (L.N. 85 of 2004; L.N. 207 of 2004)
