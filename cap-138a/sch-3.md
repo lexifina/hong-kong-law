@@ -266,6 +266,8 @@ Bupranolol; its salts
 
 Buprenorphine; its salts
 
+Bupropion; its salts
+
 Buserelin; its salts
 
 Buspirone; its salts
@@ -319,6 +321,8 @@ Celecoxib; its salts
 Celiprolol; its salts
 
 Cerivastatin; its salts
+
+Cetrorelix; its salts; its esters; their salts
 
 Chlofenamic acid; its salts
 
@@ -619,6 +623,8 @@ Etoposide; its esters
 Etretinate
 
 Etryptamine; its salts
+
+Exemestane; its salts
 
 Famciclovir; its salts
 
@@ -1004,6 +1010,8 @@ Montelukast; its salts
 
 Moracizine; its salts
 
+Moxifloxacin; its salts
+
 Muromonab-CD3
 
 Mustine and any other N-substituted derivative of di-(2-chloroethyl) amine; their salts
@@ -1336,6 +1344,8 @@ Ropinirole; its salts
 
 Ropivacaine; its salts
 
+Rosiglitazone; its salts
+
 Rosoxacin; its salts
 
 Salbutamol and its salts except when contained in aerosol dispensers
@@ -1399,6 +1409,8 @@ Tamoxifen; its salts
 Tazarotene; its salts
 
 Telmisartan; its salts
+
+Temozolomide; its salts
 
 Teniposide
 
@@ -1590,7 +1602,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000)
 
 B
 
