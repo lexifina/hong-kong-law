@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[ss. 37, 39, 40 & 118]
+[ss. 37, 39, 40, 65 & 118 & Sch. 3] (L.N. 223 of 2000)
 
 INVESTMENT OF SCHEME FUNDS
 
@@ -12,7 +12,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (1) In this Schedule—
 
-      - “call warrant” (認購權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to purchase from the issuer of the security the ordinary shares of a company or companies on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the value of those ordinary shares over the exercise price without the holder of the warrant receiving those shares from the issuer;
+      - “call warrant” (認購權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to purchase from the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the value of those ordinary shares over the exercise price without the holder of the warrant receiving those shares from the issuer; (L.N. 223 of 2000)
 
       - “constituent fund” (成分基金) means a constituent fund of a registered scheme;
 
@@ -26,7 +26,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - “hedging” (對沖) has the meaning given by subsection (3);
 
-      - “put warrant” (認沽權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to sell to the issuer of the security the ordinary shares of a company or companies on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the exercise price over the value of those ordinary shares without the holder of the warrant delivering those shares to the issuer;
+      - “put warrant” (認沽權證) means a security that is listed on a recognized stock exchange or a recognized futures exchange and that confers a right (but does not impose an obligation) on its holder to sell to the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the exercise price over the value of those ordinary shares without the holder of the warrant delivering those shares to the issuer; (L.N. 223 of 2000)
 
       - “warrant” (認股權證) means a security that—
 
@@ -49,6 +49,8 @@ INVESTMENT OF SCHEME FUNDS
     - (1) The total amount invested in securities and other permissible investments issued by any one person must not exceed 10 per cent of the total funds of a constituent fund.
 
     - (2) Not more than 10 per cent of securities or other permissible investments of a particular class issued by one person may be acquired for the purposes of a constituent fund.
+
+    - (3) Notwithstanding subsections (1) and (2), where part or all of the funds of a constituent fund are invested in approved pooled investment funds under section 6(b) of this Schedule, then subsections (1) and (2) shall not apply to that part or all of the funds of the constituent fund so invested. (L.N. 223 of 2000)
 
   - 3. Restrictions on borrowing and lending of securities
 
@@ -122,7 +124,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (c) a debt security that satisfies a minimum credit rating set by the Authority, based on the credit rating of the security as determined by a credit rating agency approved by the Authority for the purposes of this Schedule; or
 
-      - (d) a debt security listed on a recognized stock exchange, being a security issued by, or guaranteed by, a company whose shares are so listed.
+      - (d) a debt security listed on a recognized stock exchange, being a security issued by, or guaranteed by, a company or corporation whose shares are so listed. (L.N. 223 of 2000)
 
     - (3) Section 2 of this Schedule does not apply in relation to a debt security of a kind referred to in subsection (2)(a) or (b) and the following provisions apply instead—
 
