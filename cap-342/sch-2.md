@@ -56,6 +56,8 @@ Copyright Ordinance (Cap. 528) (Replaced 92 of 1997 s. 280)
 
 Prevention of Copyright Piracy Ordinance (Cap. 544) (Added 22 of 1998 s. 42)
 
+Chemical Weapons (Convention) Ordinance (Cap. 578) (Added 26 of 2003 s. 44)
+
 Prevention of Child Pornography Ordinance (Cap. 579) (Added 31 of 2003 s. 21)
 
 (Amended 13 of 1995 s. 2)

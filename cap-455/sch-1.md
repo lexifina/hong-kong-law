@@ -76,6 +76,8 @@ Common law offences
 
 - 18. | Copyright Ordinance (Cap. 528) section 118(1), (4) and (8) (provided that for the purpose of this Ordinance, “infringing copy” referred to in section 118(1) and (4) of the Copyright Ordinance does not include a copy of a work which is an infringing copy by virtue only of section 35(3) of that Ordinance) section 120(1), (2), (3) and (4) (provided that for the purpose of this Ordinance, “infringing copy” referred to in section 120(1) and (3) of the Copyright Ordinance does not include a copy of a work which is an infringing copy by virtue only of section 35(3) of that Ordinance) | offences relating to making or dealing with infringing copies offences relating to making infringing copies outside Hong Kong (Added L.N. 11 of 2000)
 
+- 19. | Chemical Weapons (Convention) Ordinance (Cap. 578) section 5 | prohibition against using, developing or producing, acquiring, stockpiling, retaining, participating in the transfer of, engaging in military preparations, or in preparations of a military nature, intending to use, chemical weapons, or assisting, encouraging or inducing anyone to engage in any activity prohibited by the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, signed at Paris on 13 January 1993 (Added 26 of 2003 s. 44)
+
 Editorial Note:
 
 * The short description of offences in this Schedule is for ease of reference only.
