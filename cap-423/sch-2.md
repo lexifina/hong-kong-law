@@ -54,7 +54,7 @@ Item Body
 
 - 24. (Repealed L.N. 99 of 2001)
 
-- 25. Hong Kong Federation of Women
+- 25. Hong Kong Federation of Women Limited (Amended L.N. 149 of 2002)
 
 - 26. The Industrial Evangelistic Fellowship Limited
 
