@@ -1,5 +1,15 @@
 # SCHEDULE
 
+- (1. According to L.N. 90 of 1999 and Ord. No. 44 of 1999—
+
+  - (a) the Cross-Harbour Tunnel Ordinance (Cap. 203) and all subsidiary legislation made thereunder are repealed;
+
+  - (b) the Secretary for Transport may by regulation provide for such consequential amendments (whether made to the provisions of any Ordinance or to the provisions of any subsidiary legislation), and such savings and transitional arrangements, as are required or expedient consequent on that repeal.
+
+- The above provisions shall only apply to take effect on and after 1 September 1999.
+
+- 2. For saving and transitional provisions, see L.N. 198 of 1999 ss. 2 to 4 (reproduced at the footnotes to the Schedule to Cap. 368).)
+
 [by-laws 2 & 10]
 
 DIAGRAM NO. 1
@@ -154,7 +164,7 @@ The significance of the signal shall be as follows—
 
 - (i) The display of a red signal indicates that the appropriate toll payment has not been made.
 
-(ii) The display of a green signal indicates that the appropriate toll payment has been made.
+- (ii) The display of a green signal indicates that the appropriate toll payment has been made.
 
 (L.N. 288 of 1993)
 
@@ -162,13 +172,11 @@ DIAGRAM NO. 21
 
 AUTOTOLL ACCOUNT BALANCE SIGNAL
 
-This signal is placed in a vertical position at the side of a traffic lane dedicated for use of an automatic toll collection facility. It may be used in conjunction with the signal in Diagram No. 20.
-
-- The significance of the signal shall be as follows—
+This signal is placed in a vertical position at the side of a traffic lane dedicated for use of an automatic toll collection facility. It may be used in conjunction with the signal in Diagram No. 20. The significance of the signal shall be as follows—
 
 - (i) The display of the red dollar sign indicates that the account balance with the Company in respect of the electronic pass is nil.
 
-  - (ii) The display of the amber dollar sign indicates that the account balance with the Company in respect of the electronic pass is less than the amount specified by the Company.
+- (ii) The display of the amber dollar sign indicates that the account balance with the Company in respect of the electronic pass is less than the amount specified by the Company.
 
 (L.N. 288 of 1993)
 
