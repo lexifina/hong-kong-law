@@ -100,4 +100,4 @@ Miscellaneous Fees
 
 23. | On sealing of an injunction order undertaken before commencement of a cause . | 630.00 (L.N. 187 of 2000)
 
-(L.N. 402 of 1992; L.N. 140 of 1994; 25 of 1998 s. 2; L.N. 187 of 2000)
+(L.N. 402 of 1992; L.N. 140 of 1994; 25 of 1998 s. 2; L.N. 187 of 2000; L.N. 338 of 2000; L.N. 26 of 2001)
