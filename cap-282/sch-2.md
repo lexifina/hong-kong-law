@@ -12,7 +12,7 @@ A1 | Inflammation, ulceration or malignant disease of the skin or subcutaneous t
 
 A2 | Heat cataract | Any occupation involving frequent or prolonged exposure to rays from molten or red-hot material. | 3 years.
 
-A3 | Dysbarism, including decompression sickness, barotrauma and osteonecrosis | Any occupation involving subjection to compressed or rarefied air or other gases or gaseous mixtures. | 1 year. In the case of arthritis —5 years.
+A3 | Dysbarism, including decompression sickness, barotrauma and osteonecrosis | Any occupation involving subjection to compressed or rarefied air or other gases or gaseous mixtures. | 1 year. In the case of arthritis—5 years.
 
 A4 | Cramp of the hand or forearm due to repetitive movements | Any occupation involving prolonged periods of handwriting, typing or other repetitive movements of the fingers, hand or arm. | 1 year.
 
@@ -55,6 +55,14 @@ B9 | Avian chlamydiosis | Any occupation involving contact with birds infected w
 B10 | Legionnaires’ disease | Any occupation involving the repair, maintenance or service of— (a) cooling systems that use fresh water; or (b) hot water service systems. | 1 month.
 
 (Added L.N. 146 of 1999)
+
+B11 | Severe acute respiratory syndrome | Any occupation involving close and frequent contacts with a source or sources of severe acute respiratory syndrome infection by reason of employment— (a) in the medical treatment or nursing of a person suffering from severe acute respiratory syndrome, or in a service ancillary to that treatment or nursing; (b) in attending to a person suffering from severe acute respiratory syndrome, where the need for attendance arises by reason of the person’s physical or mental infirmity; (c) in identifying, detecting, tracing, isolating, detaining, supervising or surveillance of a person suffering from severe acute respiratory syndrome; (d) as a research worker engaged in research in connection with severe acute respiratory syndrome, or in a service ancillary to that research; or (e) as a laboratory worker, pathologist, post-mortem worker or funeral services worker, where the employment involves the handling of any human body or other materials that are a source of severe acute respiratory syndrome infection, or in a service ancillary to that handling. | 1 month.
+
+(Added L.N. 213 of 2004)
+
+B12 | Avian influenza A | Any occupation involving close and frequent contacts with a source or sources of avian influenza A infection by reason of employment— (a) as a worker engaged in the handling of poultry or birds or their uncooked remains or residues, or their untreated products, that are a source of avian influenza A infection, or in a service ancillary to that handling; (Amended L.N. 13 of 2005) (b) as a research worker engaged in research in connection with avian influenza A, or in a service ancillary to that research; or (c) as a laboratory worker engaged in the handling of materials that are a source of avian influenza A infection, or in a service ancillary to that handling. | 14 days.
+
+(Added L.N. 213 of 2004)
 
 C. CAUSED BY CHEMICAL AGENTS
 
