@@ -1,4 +1,4 @@
-# SCHEDULE 8
+# EIGHTH SCHEDULE
 
 [ss. 22(1) & 135(1)]
 
@@ -54,8 +54,10 @@ GROUNDS FOR REVOCATION OF AUTHORIZATION
 
 - 19. The authorized institution requests in writing the Monetary Authority to revoke its authorization and the Monetary Authority is satisfied that the interests of depositors of the institution are or will be adequately safeguarded if he complies with that request.
 
-- 20. The Monetary Authority is satisfied that the authorized institution engages in business practices which would be likely to prejudice the interests of Hong Kong as an international financial centre. (Eighth Schedule added 49 of 1995 s. 52)
+- 20. The Monetary Authority is satisfied that the authorized institution engages in business practices which would be likely to prejudice the interests of Hong Kong as an international financial centre.
+
+- 21. The authorized institution has failed to comply with any requirement under the Deposit Protection Scheme Ordinance (Cap. 581) applicable to the institution. (Added 7 of 2004 s. 55) (Eighth Schedule added 49 of 1995 s. 52)
 
 Editorial Note:
 
-* The operation of this paragraph is affected by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002) . See the transitional provision in section 2 of that Notice.
+* | The operation of this paragraph is affected by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002). See the transitional provision in section 2 of that Notice.
