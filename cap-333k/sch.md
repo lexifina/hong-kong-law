@@ -90,9 +90,9 @@ Item | Stock options contract | Limit | Reporting level
 
 53. | (Repealed L.N. 121 of 2001)
 
-54. | Legend Holdings Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 9 of 2001)
+54. | Legend Group Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 9 of 2001; L.N. 143 of 2002)
 
-55. | Pacific Century CyberWorks Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 9 of 2001)
+55. | PCCW Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 9 of 2001; L.N. 143 of 2002)
 
 56. | (Repealed L.N. 121 of 2001)
 
@@ -115,3 +115,7 @@ Item | Stock options contract | Limit | Reporting level
 65. | Wing Hang Bank, Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 121 of 2001)
 
 66. | Yue Yuen Industrial (Holdings) Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 121 of 2001)
+
+67. | CNOOC Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 143 of 2002)
+
+68. | Huaneng Power International, Inc. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 143 of 2002)
