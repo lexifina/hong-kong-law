@@ -1,0 +1,5 @@
+DISTRICT COURT EQUAL OPPORTUNITIES RULES
+
+(Cap. 336 sections 73B and 73C)
+
+[20 September 1996] L.N. 393 of 1996
