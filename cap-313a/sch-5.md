@@ -4,8 +4,6 @@
 
 RESTRICTED AREAS, ETC.
 
-(Paragraphs 5 to 12 not yet in operation.)
-
 - 1.
 
 - HONG KONG AIRPORT APPROACH AREA NO. 1
