@@ -44,7 +44,7 @@ Item | $
 
 2. | Issue of import or export licence in respect of prohibited, restricted or controlled articles . | No fee
 
-3. | Annual fee for registration of companies for textile controls purposes (Form TIC 473), such fee being payable on the date of first registration and thereafter on 1 November in each year (L.N. 315 of 1984; L.N. 160 of 1992) . | 1712
+3. | Annual fee for registration of a person for textile controls purposes (L.N. 315 of 1984; L.N. 160 of 1992; L.N. 128 of 2001) . | 1712
 
 4. | (a) Application for the issue of a certificate of Hong Kong origin, certificate of processing or of any other certificate mentioned in item 5 other than a generalized preference certificate—
 
@@ -74,7 +74,7 @@ Item | $
 
 11. | (Repealed L.N. 484 of 1996)
 
-12. | Registration of person under Part IIIA of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999) . | 3003
+12. | Annual fee for registration of a person under Part IIIA of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999; L.N. 128 of 2001) . | 3003
 
 13. | Annual fee for any period beginning on or after 1 July 1993 for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993) | 2825
 
