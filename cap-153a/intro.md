@@ -1,0 +1,5 @@
+CHINESE TEMPLES FUND REGULATIONS
+
+(Cap. 153, section 3(1)(b))
+
+[10 December 1954]
