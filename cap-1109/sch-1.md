@@ -902,6 +902,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Master of Philosophy (M. Phil.)
 
+      - Master of Professional Accountancy (M.P. Acc.) (L.N. 97 of 2002)
+
       - Master of Public Health (M. P. H.) (L.N. 573 of 1995)
 
       - Master of Science (M. Sc.)
