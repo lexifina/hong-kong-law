@@ -22,6 +22,8 @@ INFECTIOUS DISEASES
 
 - 7A. Influenza A (H5) (Added L.N. 14 of 2004)
 
+- 7B. Japanese encephalitis (Added L.N. 137 of 2004)
+
 - 8. Legionnaires’ disease
 
 - 9. Leprosy
