@@ -8,7 +8,7 @@ Any unleaded petrol shall—
 
 - (a) contain not more than 0.005 gram of lead per litre as determined by EN 237;
 
-- (b) contain not more than 0.015% by weight of sulphur as determined by ISO 14596;
+- (b) contain not more than 0.005% by weight of sulphur as determined by ISO 14596; (L.N. 160 of 2004)
 
 - (c) have a motor octane number of not lower than 85 as determined by EN 25163;
 
@@ -18,7 +18,7 @@ Any unleaded petrol shall—
 
 - (f) have a Reid vapour pressure of not more than 60.0 kPa as determined by EN 12;
 
-- (g) contain not more than 42.0% by volume of aromatic hydrocarbons as determined by ASTM D1319;
+- (g) contain not more than 35.0% by volume of aromatic hydrocarbons as determined by ASTM D1319; (L.N. 160 of 2004)
 
 - (h) contain not more than 18.0% by volume of olefins as determined by ASTM D1319;
 
