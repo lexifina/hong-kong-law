@@ -1,5 +1,3 @@
 BANKING ORDINANCE (DECLARATION UNDER SECTION 2(14)(d)) (NO. 3) NOTICE 1997
 
-(Cap. 155, section 2(14)(d))
-
-[27 December 1997]
+(Omitted as expired)
