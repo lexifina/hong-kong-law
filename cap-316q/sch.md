@@ -6,7 +6,7 @@ MATTERS IN RESPECT OF WHICH INFORMATION IS TO BE GIVEN
 
 - 1. In the case of a reporting undertaking, the following matters in respect of that undertaking and each of its related undertakings (individually “the undertaking concerned”)—
 
-  - (a) name and business address;
+  - (a) name, business address, place of incorporation, business registration number, nature of business and, if the undertaking concerned is a listed corporation, stock code of the securities concerned; (L.N. 240 of 2001)
 
   - (b) percentage of the following equity ownership—
 
@@ -14,17 +14,31 @@ MATTERS IN RESPECT OF WHICH INFORMATION IS TO BE GIVEN
 
     - (ii) in any other case, percentage of equity ownership by place of residence of persons who have each contributed (otherwise than by way of a loan) not less than 10% of the capital of the undertaking concerned;
 
-  - (c) name and business address of each of the affiliated undertakings of the undertaking concerned (if the undertaking concerned is a local undertaking);
+  - (c) the following matters in respect of each of the affiliated undertakings of the undertaking concerned (if the undertaking concerned is a local undertaking)—
 
-  - (d) name and business address of each of the related undertakings of those affiliated undertakings;
+    - (i) name, business address, place of incorporation, nature of business and equity ownership;
 
-  - (e) name and business address of any other business undertaking that—
+    - (ii) business receipts and operating expenses;
 
-    - (i) acts as a manager, custodian or agent on behalf of the undertaking concerned in conducting external transactions; or
+    - (iii) total number of working proprietors, active partners, unpaid family workers, full-time employees and part-time employees engaged in business undertaken by that affiliated undertaking; (L.N. 240 of 2001)
 
-    - (ii) has connections through which the undertaking concerned conducts external transactions;
+  - (d) the following matters in respect of each of the related undertakings of those affiliated undertakings mentioned in paragraph (c)—
 
-  - (f) number of employees, by type and by function;
+    - (i) name, business address, place of incorporation, nature of business and equity ownership;
+
+    - (ii) business receipts and operating expenses;
+
+    - (iii) total number of working proprietors, active partners, unpaid family workers, full-time employees and part-time employees engaged in business undertaken by that related undertaking; (L.N. 240 of 2001)
+
+  - (e) name, business address and nature of business of any other business undertaking that— (L.N. 240 of 2001)
+
+    - (i) acts as a manager, custodian or agent on behalf of the undertaking concerned in conducting external transactions; (L.N. 240 of 2001)
+
+    - (ii) has connections through which the undertaking concerned conducts external transactions; or (L.N. 240 of 2001)
+
+    - (iii) is a listed corporation the shareholder registration and dividend distribution matters of which are handled by the undertaking concerned; (L.N. 240 of 2001)
+
+  - (f) total number of working proprietors, active partners, unpaid family workers, full-time employees and part-time employees engaged in business undertaken by the undertaking concerned, by type and by function; (L.N. 240 of 2001)
 
   - (g) value of working capital, loans, staff training expenditures and research and development expenditure, by type;
 
