@@ -1,0 +1,5 @@
+MENTAL HEALTH (GUARDIANSHIP) REGULATIONS
+
+(Cap. 136, section 72)
+
+[29 December 1989] L.N. 420 of 1989
