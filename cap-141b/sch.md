@@ -52,19 +52,19 @@ Acute Poliomyelitis | Leprosy | Rubella
 
 Amoebic Dysentery | Malaria | Scarlet Fever
 
-Bacillary Dysentery | Measles | Tetanus
+Bacillary Dysentery | Measles | Severe Acute Respiratory Syndrome
 
-Chickenpox | Meningococcal Infections | Typhoid Fever
+Chickenpox | Meningococcal Infections | Tetanus
 
-Cholera | Mumps | Typhus
+Cholera | Mumps | Typhoid Fever
 
-Dengue Fever | Paratyphoid Fever | Viral Hepatitis
+Dengue Fever | Paratyphoid Fever | Typhus
 
-Diphtheria | Plague | Whooping Cough
+Diphtheria | Plague | Viral Hepatitis
 
-Food Poisoning | Rabies | Yellow Fever
+Food Poisoning | Rabies | Whooping Cough
 
-Legionnaires’ Disease | Relapsing Fever
+Legionnaires’ Disease | Relapsing Fever | Yellow Fever
 
 Notified under the Prevention of the Spread of Infectious Diseases Regulations by
 
@@ -78,4 +78,4 @@ Telephone Number: _ | _
 
 Remarks:
 
-(L.N. 81 of 1994; L.N. 347 of 1998)
+(L.N. 81 of 1994; L.N. 347 of 1998; L.N. 80 of 2003)
