@@ -28,7 +28,7 @@ Census and Statistics Department.
 
 Civil Aviation Department.
 
-Civil Engineering Department. (Replaced L.N. 183 of 1992)
+Civil Engineering and Development Department. (Replaced L.N. 183 of 1992. Amended L.N. 104 of 2004)
 
 Civil Service Training and Development Institute. (Added L.N. 155 of 1996)
 
@@ -152,8 +152,6 @@ Technical Education and Industrial Training Department.
 
 Television and Entertainment Licensing Authority.
 
-Territory Development Department.
-
 The Hong Kong Examinations and Assessment Authority. (Replaced 23 of 2002 s. 27)
 
 Trade and Industry Department. (Replaced L.N. 173 of 2000)
@@ -170,7 +168,7 @@ Vocational Training Council. (Added L.N. 155 of 1996)
 
 Water Supplies Department.
 
-(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28; L.N. 164 of 2003)
+(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28; L.N. 164 of 2003; L.N. 104 of 2004)
 
 - PART II Independent Commission Against Corruption. Hong Kong Auxiliary Police Force. (Amended 25 of 1998 s. 2) Hong Kong Police Force. (Amended 25 of 1998 s. 2) Secretariat of the Independent Police Complaints Council. Secretariat of the Public Service Commission. (Part II added 74 of 1996 s. 9)
 
