@@ -170,7 +170,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (ii) the amount as may be prescribed by or determined in accordance with regulations made under section 59(1)(aa) of this Ordinance for the purpose of section 8(3)(a)(ii)(B) and (iii)(B) of this Ordinance in the case of the insurer; (Amended 29 of 1997 s. 13)
 
-  - (b) whether in the auditor’s opinion the value of the assets of the insurer exceeds the amount of its liabilities by the amount stated under sub-paragraph (a);
+  - (b) whether in the auditor’s opinion the value of the assets of the insurer exceeds the amount of its liabilities by the amount stated under sub-subparagraph (a);
 
   - (c) whether in the auditor’s opinion proper records have been maintained in accordance with section 16 of this Ordinance;
 
@@ -1100,7 +1100,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - (b) If the insurer’s direct business is accounted for on a fund accounting basis, this form is to be completed in lieu of Forms 1 and 1A.
 
-- (c) A separate from must be submitted in respect of each of the 8 accounting classes of general business specified in Forms 1 and 1A. * Delete as necessary. FORM 4 HONG KONG INSURANCE BUSINESS-REINSURANCE BUSINESS REVENUE ACCOUNT ON THE FUND ACCOUNTING BASIS OF . (Name of insurer)
+- (c) a separate form must be submitted in respect of each of the 8 accounting classes of general business specified in Forms 1 and 1A. * Delete as necessary. FORM 4 HONG KONG INSURANCE BUSINESS-REINSURANCE BUSINESS REVENUE ACCOUNT ON THE FUND ACCOUNTING BASIS OF . (Name of insurer)
 
 - for the period commencing on . and ending on .
 
