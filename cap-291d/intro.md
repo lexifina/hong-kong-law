@@ -1,5 +1,5 @@
 MARINE FISH (MARKETING) (RATE OF COMMISSION) NOTICE
 
-(Cap. 291B, by-law 21(1A))
+(Marine Fish (Marketing) By-laws by-law 21(1A))
 
-[1 July 1993]
+[25 June 1999]
