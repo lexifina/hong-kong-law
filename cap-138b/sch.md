@@ -278,6 +278,8 @@ THE POISONS LIST
 
 - Atorvastatin; its salts
 
+- Atosiban; its salts
+
 - Atovaquone
 
 - Atracurium Besylate
@@ -1112,6 +1114,8 @@ THE POISONS LIST
 
 - Levallorphan; its salts
 
+- Levetiracetam; its salts
+
 - Lidoflazine
 
 - Lignocaine; its salts
@@ -1131,6 +1135,8 @@ THE POISONS LIST
 - Lomustine
 
 - Lonazolac; its salts
+
+- Lopinavir; its salts
 
 - Loracarbef; its salts
 
@@ -1345,6 +1351,8 @@ THE POISONS LIST
 - Naproxen; its salts
 
 - Naratriptan; its salts
+
+- Nateglinide; its salts; its esters
 
 - Nedocromil; its salts
 
@@ -1704,6 +1712,8 @@ THE POISONS LIST
 
 - Rimiterol; its salts
 
+- Risedronic acid; its salts
+
 - Risperidone
 
 - Ritodrine; its salts
@@ -1743,6 +1753,8 @@ THE POISONS LIST
 - Sildenafil; its salts
 
 - Simvastatin
+
+- Sirolimus; its salts
 
 - Sodium aurothiomalate
 
@@ -1956,11 +1968,11 @@ THE POISONS LIST
 
 - Verapamil; its salts
 
-- Verteporfin; its salts
-
 - Vencuronium; its salts
 
 - Venlafaxine; its salts
+
+- Verteporfin; its salts
 
 - Vigabatrin
 
@@ -2034,7 +2046,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001)
 
 - PART II A
 
