@@ -16,6 +16,11 @@ s-012.md
 s-013.md
 sch-1.md
 sch-2.md
+sch-2A.md
 sch-3.md
 sch-4.md
 sch-5.md
+sch-6.md
+sch-7.md
+sch-8.md
+sch-9.md
