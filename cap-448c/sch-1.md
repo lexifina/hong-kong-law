@@ -532,7 +532,7 @@ NATIONALITY AND REGISTRATION MARKS OF
 
 AIRCRAFT REGISTERED IN HONG KONG
 
-- 1. The nationality mark of the aircraft shall be a group of two capital letters in Roman character and the registration mark shall be a group of three capital letters in Roman character assigned by the Governor on the registration of the aircraft. The letters shall be without ornamentation and a hyphen shall be placed between the nationality mark and the registration mark. (66 of 1997 s. 16)
+- 1. The nationality mark of the aircraft shall be the capital letter “B” in Roman character and the registration mark shall be a group of three capital letters in Roman character assigned by the Chief Executive on the registration of the aircraft. The letters shall be without ornamentation and a hyphen shall be placed between the nationality mark and the registration mark. (66 of 1997 s. 16; L.N. 560 of 1997)
 
 - 2. The nationality and registration marks shall be displayed to the best advantage, taking into consideration the constructional features of the aircraft and shall always be kept clean and visible.
 
