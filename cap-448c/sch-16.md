@@ -14,7 +14,7 @@
 
       - “consignment” means one or more packages of dangerous goods accepted by an operator from one shipper at one time and at one address receipted for in one lot and moving to one consignee at one destination address;
 
-      - “dangerous goods” means any article or substance which is capable of posing significant risk to health, safety or property when carried by air and which is classified in Part 2 of the Technical Instructions;
+      - “dangerous goods” means any article or substance which is capable of posing significant risk to health, safety or property when carried by air and which is classified in Part 2 or 3 of the Technical Instructions; (L.N. 234 of 2001)
 
       - “dangerous goods transport document” means a document, not being an air waybill, which is required by Regulation 4 of these Regulations to accompany a consignment of dangerous goods;
 
@@ -22,9 +22,9 @@
 
       - “packing” means the art and operation whereby articles and substances are wrapped up, enclosed in containers or otherwise secured, and “packed” shall be construed accordingly;
 
-      - “States concerned” has the same meaning as it has in Chapter 1.1.1 of Part 1 of the Technical Instructions; (L.N. 179 of 1999)
+      - “States concerned” has the same meaning as it has in Chapter 1.1.2 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001)
 
-      - “Technical Instructions” means the 1999-2000 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999)
+      - “Technical Instructions” means the 2001-2002 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001)
 
       - “unit load device” means any type of freight container including any container designed for loading on an aircraft.
 
@@ -48,7 +48,7 @@
 
     - an aircraft any goods which he knows or ought to know or suspect to be goods capable of posing significant risk to health, safety or property when carried by air, unless the provisions of these Regulations are complied with.
 
-    - (3) These Regulations shall not apply to dangerous goods of a type specified in Chapter 1.1.2(a), 1.1.2(b), 1.1.2(d), 1.1.2(e) and 2.3 of Part 1 and Chapter 1.2 of Part 9 of the Technical Instructions which are carried, loaded or suspended in accordance with the provisions of the aforesaid Chapters 1.1.2(a), 1.1.2(b), 1.1.2(d), 1.1.2(e) and 2.3 of Part 1 and Chapter 1.2 of Part 9 and which are— (L.N. 179 of 1999)
+    - (3) These Regulations shall not apply to dangerous goods of a type specified in Chapter 1.1.3(a), 1.1.3(b), 1.1.3(d), 1.1.3(e), 1.1.3(f) or 2.2 of Part 1 or Chapter 1.1.2 of Part 8 of the Technical Instructions which are carried, loaded or suspended in accordance with the provisions of such Chapters, and which are— (L.N. 179 of 1999; L.N. 234 of 2001)
 
       - (a) articles and equipment which are required to be carried on an aircraft by or under the Order or are otherwise intended for use on an aircraft for the purpose of the good order of the flight in accordance with normal practice whether or not, in either case, such articles and equipment are required to be carried or intended to be used on that particular flight;
 
@@ -58,11 +58,13 @@
 
       - (d) to provide during the flight medical aid to a person; (L.N. 179 of 1999)
 
-      - (e) to provide, during flight, aid in connection with search and rescue operations; or (L.N. 179 of 1999)
+      - (e) to provide, during flight, aid in connection with search and rescue operations; (L.N. 179 of 1999; L.N. 234 of 2001)
+
+      - (ea) required for the airworthiness, safe operation or propulsion of the aircraft or the operation of its specialized equipment during flight; or (L.N. 234 of 2001)
 
       - (f) vehicles which are carried in aircraft designed or modified for vehicle ferry operations: (L.N. 179 of 1999)
 
-        - Provided that goods specified in sub-paragraphs (c), (d) and (e) shall only be carried if- (L.N. 179 of 1999)
+        - Provided that goods specified in sub-paragraph (c), (d), (e) or (ea) shall only be carried if- (L.N. 179 of 1999; L.N. 234 of 2001)
 
           - (i) they are or may be required for use during the flight;
 
@@ -72,61 +74,35 @@
 
         - Provided that goods specified in sub-paragraph (f) shall only be carried if all the following requirements are met—
 
-        - (aa) authorizations have been given by the appropriate authorities of the States concerned, and the appropriate authorities of the States concerned have prescribed specific terms and conditions for the particular operator’s operation;
+          - (i) authorizations have been given by the appropriate authorities of the States concerned, and the appropriate authorities of the States concerned have prescribed specific terms and conditions for the particular operator’s operation;
 
-        - (bb) vehicles are secured in an upright position;
+          - (ii) vehicles are secured in an upright position;
 
-        - (cc) fuel tanks are so filled as to prevent spillage of fuel during loading, unloading and transit; and
+          - (iii) fuel tanks are so filled as to prevent spillage of fuel during loading, unloading and transit; and
 
-        - (dd) adequate ventilation rates are maintained in the aircraft compartment in which the vehicle is carried. (L.N. 179 of 1999)
+          - (iv) adequate ventilation rates are maintained in the aircraft compartment in which the vehicle is carried. (L.N. 234 of 2001)
 
-    - (4) Save for Regulations 3(1)(a), 7(1) but only to the extent that it refers to the provisions in Chapter 2.1 of Part 5 of the Technical Instructions and 7(2) and 8(3) of these Regulations, these Regulations shall not apply to dangerous goods of the classifications specified in Chapter 2.5 of Part 1 of the Technical Instructions provided that:
+    - (4) Save for Regulations 3(1)(a), 7(1) but only to the extent that it refers to the provisions in Chapter 2.1 of Part 7 of the Technical Instructions and 7(2) and 8(3) of these Regulations, these Regulations shall not apply to dangerous goods of the classifications specified in Chapter 2.4 of Part 1 of the Technical Instructions provided that: (L.N. 234 of 2001)
 
       - (a) the dangerous goods do not exceed the appropriate quantity limitations specified therein; and
 
       - (b) such other conditions as are specified therein are complied with.
 
-  - 4.
+  - 4. Documentation
 
     - (1) An aircraft shall not carry dangerous goods as cargo unless the shipper of the goods has furnished the operator of the aircraft with a dangerous goods transport document, except that such a document shall not be required in respect of such categories of dangerous goods as may be specified in the Technical Instructions as being goods in respect of which a dangerous goods transport document is not required.
 
-    - (2) The dangerous goods transport document shall be completed in duplicate by the shipper and shall:
-
-      - (a) describe the dangerous goods in accordance with and contain such information as is required by the provisions of Chapter 4.1 of Part 4 of the Technical Instructions;
-
-      - (b) contain a signed declaration that the Technical Instructions have been complied with in that the dangerous goods—
-
-        - (i) are fully and accurately described, and
-
-        - (ii) are correctly classified, packed, marked and labelled, and
-
-        - (iii) are in a proper condition for carriage by air.
-
-    - (3) The shipper of dangerous goods shall furnish the operator of the aircraft with such other documents in respect of dangerous goods as are required by Part 3 and Chapters 4.3 and 4.5 of Part 4 of the Technical Instructions.
+    - (2)-(3) (Repealed L.N. 234 of 2001)
 
     - (4) The operator of an aircraft shall preserve for not less than six months any dangerous goods transport document or other document in respect of dangerous goods which has been furnished to him in accordance with this Regulation.
 
-  - 5.
-
-  - Shipper’s responsibilities
-
-  - Before consigning any package containing dangerous goods for carriage by air the shipper shall ensure that:
-
-    - (a) the goods are not of a category whose carriage by air is prohibited by the provisions of Chapters 2.1 and 2.2 of Part 1 of the Technical Instructions; (L.N. 150 of 1997; L.N. 179 of 1999)
-
-    - (b) the goods are classified and packed in accordance with Chapter 2.6 of Part 1 and Parts 2, 3 and 8 of the Technical Instructions and the packagings used are in accordance with such provisions of Part 7 of the Technical Instructions as apply to the goods;
-
-    - (c) the package is marked and labelled in accordance with such provisions of Chapter 2.6 of Part 1, Chapter 11 of Part 2 and Part 3 as relate to marking and labelling and in accordance with Chapters 1.6, 2 and 3 of Part 4 of the Technical Instructions; (L.N. 150 of 1997)
-
-    - (d) the package is in a fit condition for carriage by air;
-
-    - (e) the dangerous goods transport document required by Regulation 4 of these Regulations has been completed and that the declaration therein has been signed by him or on his behalf.
+  - 5. (Repealed L.N. 234 of 2001)
 
   - 6. Operator’s responsibilities
 
     - (1) The operator of an aircraft in which any package or unit load device containing dangerous goods is to be carried shall satisfy himself by making an inspection:
 
-      - (a) that the package is marked and labelled in accordance with the provisions of these Regulations, such provisions of Chapter 2.6 of Part 1, Chapter 11 of Part 2 and Part 3 as relate to marking and labelling and Chapters 1.6, 2 and 3 of Part 4 of the Technical Instructions before accepting the package; (L.N. 150 of 1997)
+      - (a) that the package is marked and labelled in accordance with the provisions of these Regulations, such provisions of Part 4 and Chapters 2 and 4 of Part 3 as relate to marking and labelling, and Chapters 1.6, 1.7, 1.8, 2 and 3 of Part 5 of the Technical Instructions before accepting the package; (L.N. 150 of 1997; L.N. 234 of 2001)
 
       - (b) that the package is not leaking or damaged so that the contents may escape—
 
@@ -158,23 +134,25 @@
 
     - and the operator shall remove or repair any contamination or damage.
 
-    - (6) The operator of an aircraft shall not permit it to fly for the purpose of carrying passengers or cargo if he knows or suspects radioactive materials to have leaked in or contaminated the aircraft or any sling or other apparatus attached to the aircraft unless the radiation level resulting from the fixed contamination at any accessible surface and the non-fixed contamination are not more than the values specified in Chapter 3.2 of Part 5 of the Technical Instructions.
+    - (6) The operator of an aircraft shall not permit it to fly for the purpose of carrying passengers or cargo if he knows or suspects radioactive materials to have leaked in or contaminated the aircraft or any sling or other apparatus attached to the aircraft unless the radiation level resulting from the fixed contamination at any accessible surface and the non-fixed contamination are not more than the values specified in Chapter 3.2 of Part 7 of the Technical Instructions. (L.N. 234 of 2001)
 
   - 7. Method of loading by operator
 
-    - (1) The operator shall ensure that any package containing dangerous goods is loaded, stowed and unloaded from or from beneath an aircraft in accordance with the provisions in Chapter 2 of Part 5 of the Technical Instructions which apply to that category of dangerous goods.
+    - (1) The operator shall ensure that any package containing dangerous goods is loaded, stowed and unloaded from or from beneath an aircraft in accordance with the provisions in Chapter 2 of Part 7 of the Technical Instructions which apply to that category of dangerous goods.
 
-    - (2) An aircraft shall not carry any dangerous goods either in any compartment occupied by passengers or in the flight crew compartment, except in circumstances permitted by the provisions of Chapter 2.1 of Part 5 of the Technical Instructions.
+    - (2) An aircraft shall not carry any dangerous goods either in any compartment occupied by passengers or in the flight crew compartment, except in circumstances permitted by the provisions of Chapter 2.1 of Part 7 of the Technical Instructions.
+
+  - (L.N. 234 of 2001)
 
   - 8. Provisions of information and training programmes
 
-  - by operators and shippers
+  - by operators
 
-    - (1) The operator of an aircraft in which dangerous goods are to be carried shall, before the flight begins, provide the commander of the aircraft with written information specifying the matters required by the provisions of Chapter 4.1 of Part 5 of the Technical Instructions and shall preserve a copy thereof for not less than six months.
+    - (1) The operator of an aircraft in which dangerous goods are to be carried shall, before the flight begins, provide the commander of the aircraft with written information specifying the matters required by the provisions of Chapter 4.1 of Part 7 of the Technical Instructions and shall preserve a copy thereof for not less than six months. (L.N. 234 of 2001)
 
     - (2) The operator of an aircraft in which passengers are to be carried or his agent shall notify them of the categories of dangerous goods which may not be taken on board an aircraft either as checked baggage or accompanying a passenger by the provision of information with each passenger ticket which shall be sufficient in prominence for this purpose and by displaying notices, sufficient in number and prominence for this purpose, at each of the places at an airport where the operator or his agent issues tickets, checks in baggage or maintains areas to assemble passengers to board the aircraft.
 
-    - (3) The operator of an aircraft and a shipper of dangerous goods by air and, in each case, any agent thereof shall inform any of their respective employees whose duties include a function connected with the carriage of passengers or cargo by air of the provisions of the Technical Instructions and for this purpose shall establish and undertake training programmes, as required by Chapter 1 of Part 6 of the Technical Instructions, which shall be submitted to the Chief Executive for approval on such occasions as the Chief Executive may require and which shall be amended as the Chief Executive may require. (36 of 1999 s. 3)
+    - (3) The operator of an aircraft and his agent shall inform any of their respective employees whose duties include a function connected with the carriage of passengers or cargo by air of the provisions of the Technical Instructions and for this purpose shall establish and undertake training programmes, as required by Chapter 4 of Part 1 of the Technical Instructions, which shall be submitted to the Chief Executive for approval on such occasions as the Chief Executive may require and which shall be amended as the Chief Executive may require. (36 of 1999 s. 3; L.N. 234 of 2001)
 
   - 9.
 
