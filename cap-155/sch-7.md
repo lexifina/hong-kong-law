@@ -14,6 +14,12 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
     - “net debit balance” (借方淨差額), in relation to a company, means the aggregate of the excess of accumulated losses over accumulated profits disclosed in the profit and loss account, and other reserves separately disclosed in the balance sheet, of the most recent audited accounts of the company;
 
+    - “share premium account” (股份溢價帳)—
+
+      - (a) in relation to a company incorporated in Hong Kong, means a share premium account referred to in section 48B(1) of the Companies Ordinance (Cap. 32) maintained in respect of the company;
+
+      - (b) in relation to a company incorporated outside Hong Kong, means an account having the same characteristics of a share premium account referred to in section 48B(1) of the Companies Ordinance (Cap. 32) irrespective of its name; (Added L.N. 130 of 2001)
+
     - “system of control” (管控制度) includes procedures.
 
   - (2) For the purposes of the calculation of the paid-up share capital of a company required by this Schedule, there shall be deducted from such share capital any net debit balance.
@@ -42,11 +48,11 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
   - significantly influence the conduct of the affairs of that first-mentioned company.
 
-- 2. If the company is incorporated outside Hong Kong, it is a bank—
+  - 2. If the company is incorporated outside Hong Kong, it is a bank—
 
-  - (a) as defined in section 46(9); and
+    - (a) as defined in section 46(9); and
 
-  - (b) in respect of which the Monetary Authority is satisfied that it is adequately supervised by the relevant banking supervisory authority.
+    - (b) in respect of which the Monetary Authority is satisfied that it is adequately supervised by the relevant banking supervisory authority.
 
 - 3. The Monetary Authority is satisfied that he knows the identity of each controller of the company.
 
@@ -62,11 +68,11 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
 - 6. The Monetary Authority is satisfied that the company presently has, and will if it is authorized continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing—
 
-  - (a) in the case of a company incorporated in Hong Kong seeking authorization to carry on banking business in Hong Kong, its paid-up share capital is not less than $150,000,000 or an equivalent amount in any other approved currency;
+  - (a) in the case of a company incorporated in Hong Kong seeking authorization to carry on banking business in Hong Kong, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $150,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
 
-  - (b) in the case of a company seeking authorization to carry on a deposit-taking business as a deposit-taking company, its paid-up share capital is not less than $25,000,000 or an equivalent amount in any other approved currency;
+  - (b) in the case of a company seeking authorization to carry on a deposit-taking business as a deposit-taking company, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $25,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
 
-  - (c) in the case of a company seeking authorization to carry on a deposit-taking business as a restricted licence bank, its paid-up share capital is not less than $100,000,000 or an equivalent amount in any other approved currency;
+  - (c) in the case of a company seeking authorization to carry on a deposit-taking business as a restricted licence bank, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $100,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
 
   - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization have and maintain a capital adequacy ratio which complies with the provisions of Part XVII applicable to it; (Amended L.N. 431 of 1997)
 
@@ -152,4 +158,4 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
     - (iii) it has been a deposit-taking company or a restricted licence bank (or any combination thereof) for not less than 10 continuous years.
 
-- (Added 49 of 1995 s. 52)
+- (Seventh Schedule added 49 of 1995 s. 52)
