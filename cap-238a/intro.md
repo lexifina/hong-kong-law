@@ -1,0 +1,5 @@
+FIREARMS AND AMMUNITION REGULATIONS
+
+(Cap. 238 section 52)
+
+[1 September 1981]
