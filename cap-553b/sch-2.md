@@ -36,7 +36,7 @@ Item | Enactment | Provision
 
 15. | Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg. C) | Section 5(4)
 
-16. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg. D) | Sections 10(7) and (8), 11(7) and (8), 12(7) and (8), 20(2), 23(9) and (12), 25(8) and (15), 42(11) and (13), 66(7) and (10) and 102(4) (L.N. 268 of 2001)
+16. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg. D) | Sections 10(7) and (8), 11(7) and (8), 20(2), 23(9) and (12), 25(8) and (15), 42(11) and (13), 66(7) and (10) and 102(4) (L.N. 268 of 2001; 25 of 2003 s. 50)
 
 17. | Electoral Affairs Commission (Nominations Advisory Committees (District Councils)) Regulation (Cap. 541 sub. leg. E) | Section 5(2)
 
