@@ -38,7 +38,7 @@ REQUIREMENTS APPLICABLE TO CAR TESTING CENTRES
 
   - 6. | Fees
 
-  - (a) Fee payable for designation or renewal of designation of a place as a car testing centre. (Amended L.N. 529 of 1996) | $12,100
+  - (a) Fee payable for designation or renewal of designation of a place as a car testing centre. (Amended L.N. 529 of 1996; L.N. 35 of 1998; L.N. 146 of 1998) | $12,100
 
   - (b) Fees to be charged in respect of an examination— (i) Initial examination— (A) Private car (B) Light goods vehicle | $530 $630
 
@@ -46,6 +46,10 @@ REQUIREMENTS APPLICABLE TO CAR TESTING CENTRES
 
   - (iii) Issue of a duplicate copy of a certificate of roadworthiness— (A) Private car (B) Light goods vehicle (Replaced L.N. 453 of 1995. Amended L.N. 513 of 1995) | $165 $210
 
-  - (c) Fee payable for supply of each form of a certificate of road worthiness— (i) Private car (ii) Light goods vehicle (Added L.N. 50 of 1998) | $58 $58
+  - *(c) Fee payable for supply of each form of a certificate of road worthiness— (i) Private car (ii) Light goods vehicle (Added L.N. 50 of 1998) | $58 $58
 
-- (Added 65 of 1985 s. 4)
+- (Schedule 8 added 65 of 1985 s. 4)
+
+Editorial Note:
+
+* Please see Cap. 543 in relation to the fees paid by any proprietor of a car testing centre for the supply of a form of a certificate of roadworthiness in respect of a private car or light goods vehicle during the period from 9.11.1995 to 22.1.1998 (the date immediately before the commencement of L.N. 50 of 1998) .
