@@ -41,3 +41,5 @@ Yan Chai Hospital Mortuary. (L.N. 375 of 1994)
 Ruttonjee Hospital Mortuary. (L.N. 26 of 1995)
 
 Tai Po Hospital Mortuary (L.N. 154 of 1997)
+
+North District Hospital Mortuary. (L.N. 624 of 1997)
