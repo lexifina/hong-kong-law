@@ -1,0 +1,5 @@
+ABATTOIRS (URBAN COUNCIL) BYLAWS
+
+(Cap. 132 section 77)
+
+[1 August 1968] L.N. 73 of 1968
