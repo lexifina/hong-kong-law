@@ -1,0 +1,5 @@
+MEDICAL CLINICS (FORMS) REGULATIONS
+
+(Cap. 343, section 15)
+
+[1 January 1964]
