@@ -26,7 +26,7 @@ Acetylcarbromal
 
 Acetyldihydrocodeine; its salts
 
-Aciclovir; its salts
+Aciclovir; its salts; except when contained in skin creams packed in a package size of not more than 3 grams and labelled for the treatment of cold sores only
 
 Acipimox; its salts
 
@@ -586,6 +586,8 @@ Ecothiopate iodide
 
 Ectylurea
 
+Efavirenz; its salts
+
 Embutramide
 
 Emylcamate
@@ -683,6 +685,8 @@ Fleroxacin; its salts; its esters
 Fluanisone
 
 Fluconazole; its salts
+
+Fludarabine; its salts
 
 Flufenamic acid; its salts; its esters; their salts
 
@@ -820,6 +824,8 @@ Iloprost; its salts
 
 Imidapril; its salts
 
+Imiglucerase
+
 Imipramine; its salts
 
 Imiquimod; its salts
@@ -887,6 +893,8 @@ Lanreotide; its salts
 Lansoprazole
 
 Lead, compounds of, with acids from fixed oils
+
+Lepirudin; its salts
 
 Letrozole
 
@@ -1027,6 +1035,8 @@ Mexiletine; its salts
 Mianserin; its salts
 
 Mibefradil; its salts
+
+Miglitol; its salts
 
 Milrinone; its salts
 
@@ -1324,6 +1334,8 @@ Propanidid
 
 Propofol
 
+Propoxur; its salts
+
 Propoxyphene; its salts; its optical isomers; their salts
 
 Propranolol; its salts; its derivatives; their salts
@@ -1376,6 +1388,8 @@ Rabeprazole; its salts
 
 Raloxifene; its salts
 
+Raltitrexed; its salts
+
 Ramipril; its salts
 
 Reboxetine; its salts
@@ -1408,7 +1422,11 @@ Ritonavir; its salts
 
 Rivastigmine; its salts
 
+Rizatriptan; its salts
+
 Rocuronium; its salts
+
+Rofecoxib; its salts
 
 Ropinirole; its salts
 
@@ -1423,6 +1441,8 @@ Salmeterol and its salts when contained in aerosol dispensers
 Saquinavir; its salts
 
 Sertraline; its salts
+
+Sibutramine; its salts
 
 Sildenafil; its salts
 
@@ -1473,6 +1493,8 @@ Tacrolimus
 Tamoxifen; its salts
 
 Tazarotene; its salts
+
+Telmisartan; its salts
 
 Teniposide
 
@@ -1638,6 +1660,8 @@ Zafirlukast
 
 Zalcitabine; its salts
 
+Zanamivir; its salts
+
 Zidovudine
 
 Zimelidine; its salts
@@ -1656,7 +1680,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000)
 
 B
 
