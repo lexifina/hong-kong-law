@@ -40,11 +40,11 @@ to be used for .
 
 - 3. The lottery will commence on . (date tickets first available for sale) and end on . (date lottery drawn)
 
-- 4. The number of tickets available for sale will be . and the price of one ticket will be .
+- 4. The number of tickets available for sale will be . . and the price of one ticket will be .
 
 - 5. The nature, value and source of the main prizes will be as follows—
 
-- Nature | Value | Source (If purchased say “Purchased”-if donated say “Donated by .”)
+- Nature | Value | Source (If purchased say “Purchased”— if donated say “Donated by .”)
 
 - . | . | .
 
@@ -60,7 +60,7 @@ to be used for .
 
 - 6. The lottery will be drawn on . at . by .
 
-- 7. The results of the lottery will be advertised in . and in . (name 2 English and 2 Chinese newspapers) I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
+- 7. The results of the lottery will be advertised in . . and in . (name 2 English and 2 Chinese newspapers) I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
@@ -68,9 +68,9 @@ to be used for .
 
 - 4.
 
-- If the Commissioner decides to grant a licence, a fee of $3,135 will be payable to the Commissioner upon such grant, unless waived or reduced.
+- If the Commissioner decides to grant a licence, a fee of $3,165 will be payable to the Commissioner upon such grant, unless waived or reduced.
 
-- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997)
+- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000)
 
 - FORM 2
 
@@ -96,7 +96,7 @@ to be used for .
 
 - duly completed, together with the following particulars:
 
-- 1. The purpose of the game is to raise funds for the . to be used (name of club, society) for . (club expenses, particular project)
+- 1. The purpose of the game is to raise funds for the . . to be used (name of club, society) for . (club expenses, particular project)
 
 - 2. The games will be conducted at the following place, days and times—
 
@@ -110,13 +110,15 @@ to be used for .
 
 - and the first games will be held at . (place) on . at . (date) (time)
 
-- 3. The cost of one tombola card taken in an individual game will be .
+- 3. The cost of one tombola card taken in an individual game will be . .
 
 - 4. The maximum number of tombola cards which may be issued for an individual game will be .
 
 - 5. The maximum commission or charge levied against the total contributions to any individual game will be . per cent.
 
-- 6. The total number of games held in any single day will not exceed . . (delete one)
+- 6. The total number of games held in any single day will not exceed . .
+
+- (delete one)
 
 - 7. A “jackpot” (大獎) or “snowball” (累積獎金) will/will not be offered in respect of a day’s play, of an amount of $ . I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
 
@@ -126,9 +128,9 @@ to be used for .
 
 - 4.
 
-- If the Commissioner decides to grant a licence, a fee of $12,840 will be payable to the Commissioner upon such grant, unless waived or reduced.
+- If the Commissioner decides to grant a licence, a fee of $13,100 will be payable to the Commissioner upon such grant, unless waived or reduced.
 
-- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997)
+- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000)
 
 - FORM 3
 
@@ -144,7 +146,7 @@ to be used for .
 
 - BEFORE completing this application READ the Note below.
 
-- -
+- - -
 
 - I . hereby apply for a licence to organize and conduct games of amusement with prizes on premises situated at .
 
@@ -184,9 +186,9 @@ to be used for .
 
 - 4.
 
-- If the Commissioner decides to grant a licence, a fee of $3,040 will be payable to the Commissioner upon such grant, unless waived or reduced.
+- If the Commissioner decides to grant a licence, a fee of $3,200 will be payable to the Commissioner upon such grant, unless waived or reduced.
 
-- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997)
+- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000)
 
 - FORM 4
 
@@ -202,7 +204,7 @@ to be used for .
 
 - BEFORE completing this application READ the Note below.
 
-- - -
+- -
 
 - I . hereby apply for a licence to organize and conduct a trade promotion competition. In support of my application I attach Form .
 
@@ -224,7 +226,7 @@ to be used for .
 
 - 4. The period of the competition is from . (date starting) . to . (date finishing)
 
-- 5. The premises from which the competition will be organized are situated at . (address) and described as . (name)
+- 5. The premises from which the competition will be organized are situated at . . (address) and described as . (name)
 
 - 6. The nature of the competition will be . . (lucky numbers on packaged product, writing of a slogan) .
 
@@ -256,13 +258,15 @@ to be used for .
 
 - and together with the minor prizes, the total value of all the prizes is $ .
 
-- 10. The drawing or judging of the competition will be held on . .at .
+- 10. The drawing or judging of the competition will be held on . . at .
 
 - by .
 
-- 11. The results of the competition will be advertised in . . and in
+- 11. The results of the competition will be advertised in . .
 
-- . . (name 2 English and 2 Chinese newspapers) I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
+- and in .
+
+- . (name 2 English and 2 Chinese newspapers) I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
@@ -270,9 +274,9 @@ to be used for .
 
 - 4.
 
-- If the Commissioner decides to grant a licence, a fee of $1,585 will be payable to the Commissioner upon such grant.
+- If the Commissioner decides to grant a licence, a fee of $1,590 will be payable to the Commissioner upon such grant.
 
-- (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997)
+- (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000)
 
 - FORM 5
 
@@ -336,7 +340,9 @@ to be used for .
 
 - .
 
-- . I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
+- .
+
+- I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
@@ -382,7 +388,13 @@ BEFORE completing this form READ the Note below.
 
 - .
 
-- 12. Has the applicant ever been convicted of an offence? Yes/No If “Yes”, give details . . (court where convicted, date of conviction, offence and penalty) . I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. Complete this form only if you are not making application on behalf of a company or on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies.
+- 12. Has the applicant ever been convicted of an offence? Yes/No If “Yes”, give details . .
+
+- (court where convicted, date of conviction, offence and penalty)
+
+- .
+
+- I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. Complete this form only if you are not making application on behalf of a company or on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies.
 
 - 2. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41)
 
@@ -430,9 +442,7 @@ BEFORE completing this form READ the Note below.
 
 - .
 
-- 9. Has the company ever been the subject of a winding-up petition? Yes/No If “Yes”, give details .
-
-- .
+- 9. Has the company ever been the subject of a winding-up petition? Yes/No If “Yes”, give details . .
 
 - .
 
