@@ -2,7 +2,7 @@
 
 [ss. 3(1)(d) & (e) & 7(1)]
 
-SYLLABUS FOR A CERTIFICATE OF PROFICIENCY IN SURVIVAL CRAFT
+SYLLABUS FOR A CERTIFICATE OF PROFICIENCY IN SURVIVAL CRAFT AND RESCUE BOATS
 
 Each candidate will be required to satisfy the examiner—
 
@@ -58,6 +58,8 @@ Each candidate will be required to satisfy the examiner—
 
     - (e) Methods of helicopter rescue.
 
+    - (f) Action to be taken to maximize detectability and location of survival craft. (L.N. 106 of 1998)
+
   - 4. Life-saving appliances
 
 Life-saving appliances and arrangements in general use on board ships.
@@ -88,7 +90,7 @@ Life-saving appliances and arrangements in general use on board ships.
 
   - (a) Preparation.
 
-  - (b) Launching, including methods of launching into a rough sea.
+  - (b) Launching and recovery, including methods of launching into a rough sea. (L.N. 106 of 1998)
 
   - (c) Boarding.
 
@@ -152,9 +154,11 @@ Life-saving appliances and arrangements in general use on board ships.
 
   - (e) Fire extinguishers.
 
-  - (f) Radio life-saving appliances including approved satellite emergency position indicating radio beacons.
+  - (f) Radio life-saving appliances including approved satellite emergency position indicating radio beacons and search and rescue radar transponders. (L.N. 106 of 1998)
 
-  - (g) Other survival craft and rescue boat equipment.
+  - (g) Pyrotechnic distress signals. (L.N. 106 of 1998)
+
+  - (h) Other survival craft and rescue boat equipment. (L.N. 106 of 1998)
 
 - 13. Medical
 
@@ -162,7 +166,7 @@ Life-saving appliances and arrangements in general use on board ships.
 
   - (b) The effects of dehydration and heat exposure.
 
-  - (c) Resuscitation techniques.
+  - (c) Use of resuscitation techniques. (L.N. 106 of 1998)
 
   - (d) Dealing with injured persons during and after abandonment or rescue.
 

@@ -1,14 +1,14 @@
 # SCHEDULE 2
 
-[ss. 3(2) & 7(1) & (2)(b)]
+[ss. 3(2), 3A(2) & 7(1) & (2)(b)] (L.N. 106 of 1998)
 
-PROCEDURE FOR EXAMINATION FOR A CERTIFICATE OF PROFICIENCY IN SURVIVAL CRAFT
+PROCEDURE FOR EXAMINATION FOR A CERTIFICATE OF PROFICIENCY IN SURVIVAL CRAFT AND RESCUE BOATS AND CERTIFICATE OF PROFICIENCY IN FAST RESCUE BOATS
 
 - 1. Application for examination
 
-  - (1) Every application to be examined for a certificate of proficiency in survival craft shall be made to the Examination Centre.
+  - (1) Every application to be examined for a certificate of proficiency in survival craft and rescue boats or certificate of proficiency in fast rescue boats shall be made to the Examination Centre. (L.N. 106 of 1998)
 
-  - (2) Every application to be examined shall be made on a form obtainable from the Examination Centre and shall be accompanied by —
+  - (2) Every application to be examined shall be made on a form obtainable from the Examination Centre and shall be accompanied by—
 
     - (a) an employment registration book, service record book, discharge book or such other evidence as may be necessary to establish to the satisfaction of the examiner that the applicant has performed the sea service specified in section 3 of these Rules;
 
@@ -18,17 +18,27 @@ PROCEDURE FOR EXAMINATION FOR A CERTIFICATE OF PROFICIENCY IN SURVIVAL CRAFT
 
   - (3) Every application when completed shall be lodged with the examiner, who shall, if satisfied that the applicant is eligible to take the examination, ensure that the applicant is notified of the arrangements made for the examination, or if not so satisfied, inform the applicant in writing that his application is refused, stating the reason for refusal.
 
-- 2. Conduct of examinations for certificates of proficiency in survival craft
+- 2.
+
+- Conduct of examinations for certificates of proficiency in survival craft
+
+- and rescue boats and certificates of proficiency in fast rescue boats
 
   - (1) Survival craft and rescue boats to be used in the examination must comply with the requirements of the Merchant Shipping (Safety) (Life-Saving Appliances) (Ships Built On or After 1 July 1986) Regulations (Cap. 369 sub. leg.) and the full range of equipment prescribed in those Regulations must be available during the examination.
+
+  - (1A) Fast rescue boats to be used in the examination must comply with the requirements of the Guidelines for Fast Rescue Boats adopted by the International Maritime Organization by resolution A.656(16) and the full range of equipment prescribed in those Guidelines must be available during the examination. (L.N. 106 of 1998)
 
   - (2) Candidates will be required to wear lifejackets throughout the examination unless the examiner, at his discretion, allows them to be removed during a portion of the examination.
 
   - (3) On the completion of the examination, the examiner shall inform the applicant of the result, record the result on the form of application and submit the form to the Authority.
 
-- 3. Examinations at training schools An examination for a certificate of proficiency in survival craft may, in the case of a person undergoing an approved course of pre-sea training at an approved nautical school, be taken by that person at that school during the course in accordance with approved arrangements made by the responsible authority.
+- (L.N. 106 of 1998)
 
-- 4. Issue of certificates of proficiency in survival craft The Authority shall, if satisfied that an applicant is entitled to the grant of a certificate of proficiency in survival craft, cause such a certificate to be issued to the applicant in the form specified in Schedule 3 or, if not so satisfied, inform the applicant in writing that his application is refused, stating the reasons for the refusal.
+- 3. Examinations at training schools An examination for a certificate of proficiency in survival craft and rescue boats or certificate of proficiency in fast rescue boats may, in the case of a person undergoing an approved course of pre-sea training at an approved nautical school, be taken by that person at that school during the course in accordance with approved arrangements made by the responsible authority. (L.N. 106 of 1998)
+
+- 4. Issue of certificates of proficiency in survival craft and rescue boats and certificates of
+
+- proficiency in fast rescue boats The Authority shall, if satisfied that an applicant is entitled to the grant of a certificate of proficiency in survival craft and rescue boats or certificate of proficiency in fast rescue boats, cause such a certificate to be issued to the applicant or, if not so satisfied, inform the applicant in writing that his application is refused, stating the reasons for the refusal. (L.N. 106 of 1998)
 
 - 5.
 
