@@ -188,4 +188,6 @@ Item | Periods | Rate of interest
 
 92. | On or after 1 February 1999 and before 7 April 1999 (L.N. 28 of 1999; L.N. 92 of 1999) | 5.4583% per annum
 
-93. | On or after 7 April 1999 (L.N. 92 of 1999) | 5.2083% per annum
+93. | On or after 7 April 1999 and before 3 May 1999 (L.N. 92 of 1999; L.N. 111 of 1999) | 5.2083% per annum
+
+94. | On or after 3 May 1999 (L.N. 111 of 1999) | 4.7083% per annum
