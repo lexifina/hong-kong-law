@@ -9,6 +9,7 @@ s-007.md
 s-008.md
 s-009.md
 s-010.md
+s-011.md
 s-012.md
 s-013.md
 s-014.md
@@ -36,6 +37,9 @@ s-035.md
 s-036.md
 s-037.md
 s-038.md
+s-046.md
+s-047.md
+s-048.md
 s-055.md
 s-056.md
 s-057.md
