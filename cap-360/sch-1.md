@@ -70,7 +70,7 @@ AMOUNTS OF COMPENSATION
 
 - PART V COMPENSATION FOR BEREAVEMENT $100,000. (Amended L.N. 286 of 1998)
 
-- PART VI FUNERAL EXPENSES An amount not exceeding $16,000, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998)
+- PART VI FUNERAL EXPENSES An amount not exceeding $35,000, payable against any sum actually spent for the burial or cremation of the deceased and for any ceremony connected with his burial or cremation. (Amended L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 365 of 2000)
 
 - PART VII INTERPRETATION In this Schedule—
 
