@@ -1,0 +1,5 @@
+FINANCIAL RESOURCES RULES
+
+(Cap. 24, section 28)
+
+[12 June 2000]
