@@ -1,0 +1,5 @@
+HONG KONG CEMETERY, HAPPY VALLEY, RULES
+
+(Cap. 132, section 117)
+
+[20 April 1961]
