@@ -1,0 +1,5 @@
+DETENTION CENTRES REGULATIONS
+
+(Cap. 239, section 11)
+
+[16 June 1972]
