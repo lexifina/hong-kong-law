@@ -1,0 +1,5 @@
+CO-OPERATIVE SOCIETIES RULES
+
+(Cap. 33, section 51)
+
+[15 February 1951]
