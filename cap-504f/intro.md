@@ -1,0 +1,5 @@
+MEDICAL PRACTITIONERS (FEES) ORDER
+
+(Cap. 504, section 52)
+
+[4 May 1998] L.N. 211 of 1998
