@@ -92,9 +92,9 @@ Item | LIABILITIES AND FINANCIAL ADJUSTMENTS | Liquid Capital Computation | Bala
 
 20 | Short position in securities and other investments | 24(1)
 
-21 | Amounts payable to clients | 20(1)(a), (2) and (3), 21(a) and 22(1)(a)
+21 | Amounts payable to clients | 20(1)(a), (2) and (3), 21(1)(a) and 22(1)(a)
 
-22 | Amounts payable to dealer arising from provision of securities margin financing | 21(b)
+22 | Amounts payable to dealer arising from provision of securities margin financing | 21(1)(b)
 
 23 | Amounts payable to clearing houses
 
@@ -118,7 +118,7 @@ Item | LIABILITIES AND FINANCIAL ADJUSTMENTS | Liquid Capital Computation | Bala
 
 29 | Financial adjustments and provisions relating to
 
--short selling of securities on behalf of clients | 24(6)
+-gearing adjustment -short selling of securities on behalf of clients | 21(2) 24(6)
 
 -futures & options contracts | 22(2) to (5)
 
@@ -199,3 +199,5 @@ Capacity: sole proprietor/general partner/dealing director/director who is regis
 Date:
 
 * Delete where inappropriate.
+
+(L.N. 87 of 2002)
