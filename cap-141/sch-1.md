@@ -10,6 +10,8 @@ INFECTIOUS DISEASES
 
 - 3. Bacillary dysentery
 
+- 3A. Chickenpox (Added L.N. 346 of 1998)
+
 - 4. Cholera
 
 - 5. Dengue fever
