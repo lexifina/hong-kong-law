@@ -40,7 +40,7 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
   - (5) For the avoidance of doubt, it is hereby declared that subparagraph (4) shall operate before, on and after the authorization, if any, of the company to which any matter referred to in that subparagraph directly or indirectly relates.
 
-  - (6) For the purposes of paragraph 13(b)(ii)(A)(VI) and (VII), a company is an associated company of any other company where that second-mentioned company may—
+  - (6) For the purposes of paragraph 13(a)(i)(F) and (G), a company is an associated company of any other company where that second-mentioned company may— (Amended L.N. 63 of 2002)
 
     - (a) by means of the holding of shares or the possession of voting power in or in relation to that first-mentioned company or any other body corporate; or
 
@@ -68,7 +68,7 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
 - 6. The Monetary Authority is satisfied that the company presently has, and will if it is authorized continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing—
 
-  - (a) in the case of a company incorporated in Hong Kong seeking authorization to carry on banking business in Hong Kong, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $150,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
+  - *(a) in the case of a company seeking authorization to carry on banking business in Hong Kong, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $300,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001; L.N. 63 of 2002)
 
   - (b) in the case of a company seeking authorization to carry on a deposit-taking business as a deposit-taking company, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $25,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
 
@@ -118,44 +118,46 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
 - 13. Where the company is seeking authorization to carry on banking business in Hong Kong—
 
-  - (a) in the case of a company incorporated outside Hong Kong—
+  - (a) it has (or, where subparagraph (b)(ii)(B) is applicable, will have)—
 
-    - (i) either—
+    - (i) total customer deposits of not less than $3,000,000,000, or an equivalent amount in any other approved currency, excluding any deposits by—
 
-      - (A) the total assets (less contra items) of the whole banking group of which the company is a part are more than US$16,000,000,000 or an equivalent amount in any other approved currency; or
+      - (A) any authorized institution;
 
-      - (B) that, in the opinion of the Monetary Authority, authorizing the company to carry on banking business in Hong Kong would help to promote the interests of Hong Kong as an international financial centre; and
+      - (B) any bank incorporated outside Hong Kong which is not an authorized institution;
 
-    - (ii) either—
+      - (C) any controller or director of the company;
+
+      - (D) any relative, within the meaning of section 79, of any such controller or director;
+
+      - (E) any firm, partnership or body corporate in which the company, any controller or director of the company or any relative, within the meaning of section 79, of any such controller or director, is interested as director, partner, manager or agent;
+
+      - (F) any holding company, subsidiary or associated company of the company;
+
+      - (G) any subsidiary or associated company of any such holding company; and
+
+    - (ii) total assets (less contra items) of not less than $4,000,000,000 or an equivalent amount in any other approved currency; and
+
+  - (b) in the case of—
+
+    - (i) a company incorporated outside Hong Kong, either—
 
       - (A) there is, in the opinion of the Monetary Authority, an acceptable degree of reciprocity in respect of banks incorporated in Hong Kong seeking to carry on banking business in the place where that company is incorporated; or
 
-      - (B) the place where that company is incorporated is, or is part of the territory of, a member of the World Trade Organization; (Replaced L.N. 70 of 1996)
+      - (B) the place where that company is incorporated is, or is part of the territory of, a member of the World Trade Organization;
 
-  - (b) in the case of a company incorporated in Hong Kong—
+    - (ii) a company incorporated in Hong Kong, either—
 
-    - (i) it is, in the opinion of the Monetary Authority, closely associated and identified with Hong Kong;
+      - (A) it has been a deposit-taking company or a restricted licence bank (or any combination thereof) for not less than 3 continuous years; or
 
-    - (ii) it has—
+      - (B) it is a subsidiary of a bank incorporated outside Hong Kong or a subsidiary of a holding company of such bank and that—
 
-      - (A) total deposits from the public of not less than $3,000,000,000, or an equivalent amount in any other approved currency, excluding any deposits by—
+        - (I) the bank has been authorized to carry on banking business in Hong Kong for not less than 3 continuous years; and
 
-        - (I) any authorized institution;
-
-        - (II) any bank incorporated outside Hong Kong which is not an authorized institution;
-
-        - (III) any controller or director of the company;
-
-        - (IV) any relative, within the meaning of section 79, of any such controller or director;
-
-        - (V) any firm, partnership or body corporate in which the company, any controller or director of the company or any relative, within the meaning of section 79, of any such controller or director, is interested as director, partner, manager or agent;
-
-        - (VI) any holding company, subsidiary or associated company of the company;
-
-        - (VII) any subsidiary or associated company of any such holding company; and
-
-      - (B) total assets (less contra items) of not less than $4,000,000,000 or an equivalent amount in any other approved currency; and
-
-    - (iii) it has been a deposit-taking company or a restricted licence bank (or any combination thereof) for not less than 10 continuous years.
+        - (II) the Monetary Authority is satisfied that the bank will transfer, and is capable of transferring, as soon as reasonably practicable after the company is authorized, from its principal place of business in Hong Kong or any local branch or local office (within the meaning of this Ordinance as amended by the Banking (Amendment) Ordinance 2001 (32 of 2001)), to the company amounts of customer deposits and assets not less than the respective amounts specified in subparagraph (a)(i) and (ii). (Replaced L.N. 63 of 2002)
 
 - (Seventh Schedule added 49 of 1995 s. 52)
+
+- -
+
+- * For the transitional provision relating to the amendments made by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002) , see section 2 of that Notice.
