@@ -6,7 +6,7 @@ Item | Stock options contract | Limit | Reporting level
 
 1. | HSBC Holdings Plc stock options contract | 5000 contracts in any one expiry month | 1000 contracts in anyone expiry month
 
-2. | Hong Kong Telecommunication Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+2. | (Repealed L.N. 18 of 2001)
 
 3. | Cheung Kong (Holdings) Telecommunication Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
 
@@ -102,8 +102,16 @@ Item | Stock options contract | Limit | Reporting level
 
 49. | China Merchants Holdings (International) Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
 
-50. | China Telecom (Hong Kong) Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 332 of 1998)
+50. | China Mobile (Hong Kong) Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 18 of 2001)
 
 51. | Beijing Enterprises Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
 
 52. | Tracker Fund of Hong Kong stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 47 of 2000)
+
+53. | Dao Heng Bank Group Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 9 of 2001)
+
+54. | Legend Holdings Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 9 of 2001)
+
+55. | Pacific Century CyberWorks Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 9 of 2001)
+
+56. | SmarTone Communications Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 9 of 2001)
