@@ -1,0 +1,5 @@
+HOUSING (TENANCY APPEALS) RULES
+
+(Cap. 283, section 7A(7))
+
+[1 July 1995]
