@@ -6,7 +6,7 @@ BROADCASTING COMPANIES AND COMPANIES DIRECTLY CONNECTED WITH BROADCASTING
 
 - PART I
 
-  - 1. A company holding any of the following licences granted under regulation 2 of the Telecommunication Regulations (Cap. 106 sub. leg.)—
+  - 1. A company holding any of the following licences granted under regulation 2 of the Telecommunications Regulations (Cap. 106 sub. leg.)— (Amended 36 of 2000 s. 28)
 
     - (a) Broadcast Relay Station Licence;
 
@@ -20,7 +20,7 @@ BROADCASTING COMPANIES AND COMPANIES DIRECTLY CONNECTED WITH BROADCASTING
 
   - 1. A company holding a commercial television broadcasting licence.
 
-  - 2. A company holding a sound broadcasting licence granted under section 13C of the Telecommunication Ordinance (Cap. 106).
+  - 2. A company holding a sound broadcasting licence granted under section 13C of the Telecommunications Ordinance (Cap. 106). (Amended 36 of 2000 s. 28)
 
   - 3. (Repealed 21 of 1997 s. 17)
 

@@ -1,7 +1,5 @@
 # SCHEDULE 12 DOCUMENTS TO BE CARRIED BY AIRCRAFT REGISTERED IN HONG KONG
 
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
 Articles 57 and 59
 
 On a flight for the purpose of public transport:
@@ -18,7 +16,7 @@ Documents A, B, C and G.
 
 For the purposes of this Schedule:
 
-- “A” means the licence in force in respect of the aircraft radio station installed in the aircraft, and the current telecommunication log book required by this Order;
+- “A” means the licence in force in respect of the aircraft radio station installed in the aircraft, and the current telecommunications log book required by this Order; (36 of 2000 s. 28)
 
 - “B” means the certificate of airworthiness in force in respect of the aircraft:
 
@@ -34,12 +32,12 @@ For the purposes of this Schedule:
 
 - “E” means one copy of each certificate of maintenance review, if any, in force in respect of the aircraft;
 
+- “External air navigation” means any flight which includes passage over the territory of any country other than Hong Kong.
+
 - “F” means the technical log, if any, in which entries are required to be made under Article 10;
 
 - “G” means the certificate of registration in force in respect of the aircraft;
 
 - “H” means the operations manual, if any, required by Article 25(2)(a)(iii) of this Order to be carried out on the flight;
-
-- “External air navigation” means any flight which includes passage over the territory of any country other than Hong Kong.
 
 (36 of 1999 s. 3)

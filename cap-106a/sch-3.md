@@ -4,7 +4,7 @@
 
 FORM OF LICENCES
 
-TELECOMMUNICATION ORDINANCE
+TELECOMMUNICATIONS ORDINANCE
 
 (Chapter 106) PRIVATE TELEGRAPH (RECEPTION) LICENCE
 
@@ -16,7 +16,7 @@ FEE ON ISSUE:
 
 FEE ON RENEWAL:
 
-. of . (hereinafter called “the Licensee”) having paid to the Telecommunications Authority an issue fee of $. is hereby licensed, subject to the conditions herein contained—
+. of . (hereinafter called “the Licensee”) having paid to the Telecommunications Authority an issue fee of $ . is hereby licensed, subject to the conditions herein contained—
 
 to possess, establish and maintain a telegraph apparatus for receiving telegraph signals from a channel between . and .
 
@@ -56,15 +56,15 @@ CONDITIONS
 
 - 12.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the
 
   - Telecommunications Authority.
 
   - SCHEDULE APPARATUS LOCATION FROM WHICH MESSAGES ARE RECEIVED
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) PRIVATE TELEGRAPH (TRANSMISSION) LICENCE
 
@@ -112,11 +112,11 @@ CONDITIONS
 
 - 11.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE APPARATUS LOCATIONS TO WHICH MESSAGES ARE TRANSMITTED
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE APPARATUS LOCATIONS TO WHICH MESSAGES ARE TRANSMITTED
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) PRIVATE TELEGRAPH (TRANSMISSION AND RECEPTION) LICENCE
 
@@ -164,11 +164,11 @@ CONDITIONS
 
 - 11.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) HONG KONG SHIP STATION LICENCE
 
@@ -180,7 +180,7 @@ CONDITIONS
 
 - Period of validity: 1 year
 
-- In accordance with the Telecommunication Ordinance (Cap. 106) and with the Radio Regulations annexed to the International Telecommunication Convention now in force, this licence is herewith issued, subject to conditions herein contained, to . . of . (hereinafter referred to as “the Licensee”) for the installation and use of the radio equipment described below (hereinafter referred to as “the Station”)—
+- In accordance with the Telecommunications Ordinance (Cap. 106) and with the Radio Regulations annexed to the Constitution and Convention of the International Telecommunication Union now in force, this licence is herewith issued, subject to conditions herein contained, to . of . (hereinafter referred to as “the Licensee”) for the installation and use of the radio equipment described below (hereinafter referred to as “the Station”)—
 
 - 1 | 2 | 3
 
@@ -212,7 +212,7 @@ CONDITIONS
 
 - 2.
 
-  - (a) The apparatus comprised in the Station shall be so designed, constructed, maintained and used that the use of the Station does not cause any avoidable interference with any radiocommunication.
+  - (a) The apparatus comprised in the Station shall be so designed, constructed, maintained and used that the use of the Station does not cause any avoidable interference with any radiocommunications.
 
   - (b) Any such apparatus shall at all times comply with—
 
@@ -228,7 +228,7 @@ CONDITIONS
 
   - Provided that the Licensee shall permit any person, acting in the course of his duty on behalf of the Telecommunications Authority or the Director of Marine, to have access to the Station at all reasonable times for the purpose of inspecting and testing the apparatus comprised therein. The Licensee shall ensure that persons operating the Station shall observe the conditions of this licence at all times.
 
-- 5. The Station shall be operated only by persons authorized by the Licensee in that behalf and possessing the written authority of the Telecommunications Authority to fill the position of operator of a ship’s station for radiocommunication of the type of the Station, but these requirements—
+- 5. The Station shall be operated only by persons authorized by the Licensee in that behalf and possessing the written authority of the Telecommunications Authority to fill the position of operator of a ship’s station for radiocommunications of the type of the Station, but these requirements—
 
   - (a) shall not prevent the use or operation of the Station in time of distress in whatever manner and by any persons for the purpose of attracting attention, making known their position and obtaining help; and
 
@@ -252,7 +252,7 @@ CONDITIONS
 
   - (b) The Licensee shall pay to the Telecommunications Authority—
 
-    - (i) on the issue of this licence the sum prescribed by or under regulations for the time being in force under the Telecommunication Ordinance (Cap. 106); and
+    - (i) on the issue of this licence the sum prescribed by or under regulations for the time being in force under the Telecommunications Ordinance (Cap. 106); and
 
     - (ii) in advance in each year on or before the anniversary of the date of issue the renewal fee prescribed by or under the said regulations, and on payment of such fee the Telecommunications Authority shall issue to the Licensee a document in the form of the front page of this licence which shall indicate the date which this licence will be next due for renewal.
 
@@ -268,7 +268,7 @@ CONDITIONS
 
   - (e) This licence shall be revoked with effect from the date upon which a new licence is granted. The Licensee shall upon receipt by him of the new licence return this licence to the Telecommunications Authority. No refund shall be made in respect of fees paid for a licence that is revoked.
 
-  - (f) The Licensee shall pay to the Telecommunications Authority in respect of the new licence the fee prescribed by or under the regulations for the time being in force under the Telecommunication Ordinance (Cap. 106).
+  - (f) The Licensee shall pay to the Telecommunications Authority in respect of the new licence the fee prescribed by or under the regulations for the time being in force under the Telecommunications Ordinance (Cap. 106).
 
 - 10. This licence is not transferable and shall be returned forthwith to the Telecommunications Authority—
 
@@ -286,7 +286,7 @@ CONDITIONS
 
 - 12.
 
-- In this licence, “the Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which for the time being applies to Hong Kong.
+- In this licence, “the Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which for the time being applies to Hong Kong.
 
 - SPECIAL CONDITIONS
 
@@ -298,9 +298,9 @@ CONDITIONS
 
 - Equipment Particulars | Maximum Power (dBW) | Frequencies (in MHz) | Classes of Emission
 
-- (L.N. 406 of 1992)
+- (L.N. 406 of 1992; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) AIRCRAFT STATION LICENCE
 
@@ -308,7 +308,7 @@ CONDITIONS
 
 - Period of Validity .
 
-- In accordance with the requirements of the Telecommunication Ordinance (Cap. 106) and with the Radio Regulations annexed to the International Telecommunication Convention now in force, this licence is herewith issued for the installation and for the use of the radio equipment described below—
+- In accordance with the requirements of the Telecommunications Ordinance (Cap. 106) and with the Radio Regulations annexed to the Constitution and Convention of the International Telecommunication Union now in force, this licence is herewith issued for the installation and for the use of the radio equipment described below—
 
 - 1 | 2 | 3 | 4
 
@@ -336,13 +336,13 @@ CONDITIONS
 
 - (hereinafter called “the Licensee”) is hereby licensed, subject to the conditions herein contained—
 
-  - (a) to possess and establish in the aircraft described above (hereinafter called “the aircraft”) a transmitting and receiving station for radiocommunication (hereinafter called “the Station” which expression includes any apparatus for radiocommunication in any survival-craft associated with and normally carried by the aircraft); and
+  - (a) to possess and establish in the aircraft described above (hereinafter called “the aircraft”) a transmitting and receiving station for radiocommunications (hereinafter called “the Station” which expression includes any apparatus for radiocommunications in any survival-craft associated with and normally carried by the aircraft); and
 
   - (b) to use the Station for the purpose of—
 
-    - (i) transmitting messages by radiocommunication; and
+    - (i) transmitting messages by radiocommunications; and
 
-    - (ii) receiving by radiocommunication messages transmitted for general reception by aircraft stations or for reception by the Station, and receiving by radiocommunication messages including programmes transmitted by authorized broadcasting stations;
+    - (ii) receiving by radiocommunications messages transmitted for general reception by aircraft stations or for reception by the Station, and receiving by radiocommunications messages including programmes transmitted by authorized broadcasting stations;
 
   - (c) to possess and establish an aircraft’s radar transmitting and receiving station for radio determination (hereinafter called “the Radar Station”) in the aircraft; and
 
@@ -352,7 +352,7 @@ CONDITIONS
 
   - (1) The Station and the Radar Station shall be operated only by persons authorized by the Licensee in that behalf, and the Licensee shall not permit or suffer it to be operated by any other person:
 
-    - Provided that nothing in this Licence shall prevent the use or operation of radiocommunication apparatus in survival-craft in distress in whatever manner may be necessary for the purpose of attracting attention, making known their position and obtained help.
+    - Provided that nothing in this Licence shall prevent the use or operation of radiocommunications apparatus in survival-craft in distress in whatever manner may be necessary for the purpose of attracting attention, making known their position and obtained help.
 
 - (2) The Licensee and all persons operating the Station and the Radar Station shall observe and comply with the relevant provisions of the Telecommunication Convention.
 
@@ -368,7 +368,7 @@ CONDITIONS
 
   - (1) Subject as hereinafter provided this Licence shall continue in force from year to year until revoked by the Telecommunications Authority.
 
-- (2) The Licensee shall pay to the Telecommunications Authority on the issue of this Licence the sum prescribed by or under regulations for the time being in force under the Telecommunication Ordinance (Cap. 106) and in advance in each year on or before the anniversary of the date of issue the renewal fee prescribed by or under the said regulations.
+- (2) The Licensee shall pay to the Telecommunications Authority on the issue of this Licence the sum prescribed by or under regulations for the time being in force under the Telecommunications Ordinance (Cap. 106) and in advance in each year on or before the anniversary of the date of issue the renewal fee prescribed by or under the said regulations.
 
 - (3) The Licensee shall make application promptly in writing to the Telecommunications Authority for a new licence whenever there is any change—
 
@@ -378,7 +378,7 @@ CONDITIONS
 
 - (4) This Licence shall be revoked with effect from the date upon which a new licence is granted. The Licensee shall upon receipt by him of the new licence return this Licence to the said Authority.
 
-- (5) The Licensee shall pay to the Telecommunications Authority in respect of the new licence the fee prescribed by or under the regulations for the time being in force under the Telecommunication Ordinance (Cap. 106) for an Aircraft Station Licence less an amount equal to one-twelfth of such fee multiplied by the number of months that remain in the unexpired period within which this Licence would have been valid had the same not been revoked. Such number of months shall be calculated from the first day of the month next following the day on which the new licence is granted. For the purpose of this subclause, in calculating the one-twelfth of the licence fee mentioned herein any fraction of a dollar shall be disregarded.
+- (5) The Licensee shall pay to the Telecommunications Authority in respect of the new licence the fee prescribed by or under the regulations for the time being in force under the Telecommunications Ordinance (Cap. 106) for an Aircraft Station Licence less an amount equal to one-twelfth of such fee multiplied by the number of months that remain in the unexpired period within which this Licence would have been valid had the same not been revoked. Such number of months shall be calculated from the first day of the month next following the day on which the new licence is granted. For the purpose of this subclause, in calculating the one-twelfth of the licence fee mentioned herein any fraction of a dollar shall be disregarded.
 
 - 4. This Licence is not transferable.
 
@@ -390,7 +390,7 @@ CONDITIONS
 
 - 8.
 
-- In this Licence, “the Telecommunication Convention” (電信公約) means any International Telecommunication Convention, and the Radio Regulations annexed thereto, which has from time to time or at any time been acceded to by or applied to Hong Kong.
+- In this Licence, “the Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union, and the Radio Regulations annexed thereto, which has from time to time or at any time been acceded to by or applied to Hong Kong.
 
 - .
 
@@ -398,9 +398,9 @@ CONDITIONS
 
 - Telecommunications Authority.
 
-- (L.N. 43 of 1966; L.N. 72 of 1972; L.N. 4 of 1984; 29 of 1998 s. 105)
+- (L.N. 43 of 1966; L.N. 72 of 1972; L.N. 4 of 1984; 29 of 1998 s. 105; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) PRESS RECEPTION (DIRECT) LICENCE
 
@@ -418,11 +418,11 @@ CONDITIONS
 
 - (hereinafter called “the Licensee”) having paid to the Telecommunications Authority an issue fee of $ . is hereby licensed, subject to the conditions herein contained—
 
-  - (a) to possess, establish and maintain a receiving station for radiocommunication, (hereinafter called “the Station”) at .; and . (Address).
+  - (a) to possess, establish and maintain a receiving station for radiocommunications, (hereinafter called “the Station”) at .; and . (Address).
 
   - (b) to use the Station for the sole purpose of receiving press messages sent by stations for radiotelegraphy outside Hong Kong and addressed to all stations, and such press messages addressed to several destinations as are specified in the Schedule hereto. CONDITIONS
 
-- 1. The apparatus comprised in the Station shall be so designed, constructed, maintained and used that the use of the Station does not cause any interference with any radiocommunication.
+- 1. The apparatus comprised in the Station shall be so designed, constructed, maintained and used that the use of the Station does not cause any interference with any radiocommunications.
 
 - 2. The Station and the Licence shall be available for inspection at all reasonable times by an officer of the Telecommunications Authority.
 
@@ -446,11 +446,11 @@ CONDITIONS
 
   - (2) (Repealed L.N. 4 of 1984)
 
-  - (3) “The Telecommunication Convention” (電信公約) means any International Telecommunication Convention, and the Radio Regulations annexed thereto, which has from time to time or at any time been acceded to by or applied to Hong Kong;
+  - (3) “The Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union, and the Radio Regulations annexed thereto, which has from time to time or at any time been acceded to by or applied to Hong Kong;
 
   - (4)
 
-    - “Radiocommunication” (無線電通訊) shall mean a system of telecommunication for the transmission of written matter by the use of a signal code.
+    - “Radiocommunications” (無線電通訊) shall mean a system of telecommunications for the transmission of written matter by the use of a signal code.
 
 - 9. The Licensee shall—
 
@@ -484,9 +484,9 @@ CONDITIONS
 
 - Name and Call Sign of Agency Sending Station | Frequencies Used for Reception | Hours of Reception (0000-2400 G.M.T.) | Names and Addresses of Recipients of Press Messages
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE`
 
 - (Chapter 106) GENERAL COMMUNICATION RADIO RECEIVING
 
@@ -536,53 +536,41 @@ CONDITIONS
 
 - 10. This Licence shall continue in force for one year from the date of issue and thereafter for successive periods of one year, so long as the Licensee pays to the Telecommunications Authority in advance before the beginning of each successive period the renewal fee prescribed by or under the regulations for the time being in force.
 
-- 11.
+- 11. In the event of any contravention by the Licensee of any condition herein or of the Telecommunications Ordinance (Cap. 106) the Telecommunications Authority may at any time after the date of issue cancel this Licence by a notice in writing served on the Licensee. Any notice given under this paragraph may take effect forthwith or on any such subsequent date as may be specified in the notice.
 
-- In the event of any contravention by the Licensee of any condition herein or of the Telecommunication Ordinance (Cap. 106) the Telecommunications Authority may at any time after the date of issue cancel this Licence by a notice in writing served on the Licensee. Any notice given under this paragraph may take effect forthwith or on any such subsequent date as may be specified in the notice.
+- Note: (1) This Licence does not authorize any infringement of copy right in the matter received.
 
-- Note:(1)This Licence does not authorize any infringement of copy right in the matter received.
+  - (2) A licence is required for apparatus which is rented or hired (See section 8(2) of the Telecommunications Ordinance (Cap. 106)). . For and on behalf of the Telecommunications Authority. SCHEDULE APPARATUS
 
-- (2)A licence is required for apparatus which is rented or hired (See section 8(2) of the Telecommunication Ordinance (Cap. 106)).
+  - Make | Type | Serial No. | Frequency Range of Receiver | Remarks
 
-- .
+  - STATION FUNCTION
 
-- For and on behalf of the
+  - Service(s) Authorized | Operating Frequencies | Authority for Reception | Remarks
 
-- Telecommunications Authority.
+- (L.N. 195 of 1967; L.N. 294 of 1985; 36 of 2000 s. 28)
 
-- SCHEDULE
-
-- APPARATUS
-
-- Make | Type | Serial No. | Frequency Range of Receiver | Remarks
-
-- STATION FUNCTION
-
-- Service(s) Authorized | Operating Frequencies | Authority for Reception | Remarks
-
-- (L.N. 195 of 1967; L.N. 294 of 1985)
-
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) EXPERIMENTAL STATION LICENCE
 
-- DATE OF ISSUE:
+  - DATE OF ISSUE:
 
-- RENEWABLE:
+  - RENEWABLE:
 
-- FEE ON ISSUE:
+  - FEE ON ISSUE:
 
-- FEE ON RENEWAL:
+  - FEE ON RENEWAL:
 
-- . of . (hereinafter called “the Licensee”) is hereby licensed, subject to the conditions herein contained—
+  - . of . (hereinafter called “the Licensee”) is hereby licensed, subject to the conditions herein contained—
 
-  - (a) to possess, establish and maintain a transmitting and receiving station for radiocommunication (hereinafter called “the Station”) at .and (Address).
+    - (a) to possess, establish and maintain a transmitting and receiving station for radiocommunications (hereinafter called “the Station”) at . .; and (Address).
 
-  - (b) for the purpose only of testing and developing the radiocommunication apparatus from time to time comprised in the Station, to use the Station for transmitting test messages intended solely for reception within the room in which the Station is situated and receiving the same test messages, and for receiving test messages from any of the stations specified in the Schedule hereto. CONDITIONS
+    - (b) for the purpose only of testing and developing the radiocommunications apparatus from time to time comprised in the Station, to use the Station for transmitting test messages intended solely for reception within the room in which the Station is situated and receiving the same test messages, and for receiving test messages from any of the stations specified in the Schedule hereto. CONDITIONS
 
 - 1.
 
-  - (a) The Station shall be used only under suppressed radiation conditions, that is to say, in such a way that no electro-magnetic energy capable of reception by any station or apparatus for radiocommunication situated outside the curtilage of the premises in which the Station is situated shall be emitted from the Station.
+  - (a) The Station shall be used only under suppressed radiation conditions, that is to say, in such a way that no electro-magnetic energy capable of reception by any station or apparatus for radiocommunications situated outside the curtilage of the premises in which the Station is situated shall be emitted from the Station.
 
   - (b) The Station shall be operated only by persons authorized by the Licensee in that behalf.
 
@@ -592,15 +580,13 @@ CONDITIONS
 
 - 4. The Station, and this Licence, shall be available for inspection at all reasonable times by duly authorized officers of the Telecommunications Authority.
 
-- 5.
-
-- This Licence shall continue in force for one year from the date of issue, and thereafter for successive periods of one year so long as the Licensee pays to the Telecommunications Authority in advance before the beginning of each successive period the renewal fee prescribed by or under the regulations for the time being in force:
+- 5. This Licence shall continue in force for one year from the date of issue, and thereafter for successive periods of one year so long as the Licensee pays to the Telecommunications Authority in advance before the beginning of each successive period the renewal fee prescribed by or under the regulations for the time being in force:
 
   - Provided that the Telecommunications Authority may at any time after the date of issue revoke this Licence or vary the terms, provisions or limitations thereof by a notice in writing served on the Licensee. Any notice given under this clause may take effect either forthwith or on such subsequent date as may be specified in the notice.
 
-- 6.This Licence is not transferable.
+- 6. This Licence is not transferable.
 
-- 7.The Licensee shall—
+- 7. The Licensee shall—
 
   - (a) give notice promptly in writing to the Telecommunications Authority of any change—
 
@@ -614,7 +600,7 @@ CONDITIONS
 
 - 9. Any Licence however described which has previously been granted to the Licensee in respect of the Station is hereby revoked.
 
-- 10. This Licence does not authorize the use of the Station for the reception of messages for the purpose of conveying news or any other information not directly related to the purpose of the testing of the radiocommunication apparatus.
+- 10. This Licence does not authorize the use of the Station for the reception of messages for the purpose of conveying news or any other information not directly related to the purpose of the testing of the radiocommunications apparatus.
 
 - 11. If any message, the receipt of which is not authorized by this Licence, is received by means of the Station, neither the Licensee nor any person using the Station shall make known the contents of any such message, its origin or destination, its existence or the fact of its receipt to any person except a duly authorized officer of the Telecommunications Authority or a competent legal tribunal, and shall not retain any copy or make use of any such message, or allow it to be reproduced in writing, copied or made use of.
 
@@ -622,11 +608,11 @@ CONDITIONS
 
 - 13.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) MOBILE RADIO SYSTEM
 
@@ -702,7 +688,7 @@ CONDITIONS
 
 - 21.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. MOBILE RADIO STATION SCHEDULE Name and Address of Licensee .
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. MOBILE RADIO STATION SCHEDULE Name and Address of Licensee .
 
   - . .
 
@@ -726,9 +712,9 @@ CONDITIONS
 
   - “Bandwidth” (頻帶寬度) and “frequency tolerance” (頻差容限) have the meanings assigned to them in the Telecommunication Convention.
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) MOBILE RADIO SYSTEM
 
@@ -760,11 +746,11 @@ CONDITIONS
 
 - 5.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
 
-- (L.N. 4 of 1984)
+- (L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) AERONAUTICAL V.H.F. STATION LICENCE
 
@@ -778,7 +764,7 @@ CONDITIONS
 
 - . of . (hereinafter called “the Licensee”) is hereby licensed, subject to the conditions herein contained—
 
-  - (a) to possess, establish and maintain at . a transmitting and receiving station for radiocommunication (hereinafter called “the Station”);
+  - (a) to possess, establish and maintain at . a transmitting and receiving station for radiocommunications (hereinafter called “the Station”);
 
   - (b) to use the Station for the purpose of transmitting and receiving messages only to aircraft in flight which are owned by or represented exclusively by the Lisensee;
 
@@ -840,7 +826,7 @@ CONDITIONS
 
 - 18.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. AERONAUTICAL V.H.F. STATION SCHEDULE Name and Address of Licensee .
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. AERONAUTICAL V.H.F. STATION SCHEDULE Name and Address of Licensee .
 
   - .
 
@@ -862,9 +848,9 @@ CONDITIONS
 
   - “Bandwidth” (頻帶寬度) and “frequency tolerance” (頻差容限) have the meanings assigned to them in the Telecommunication Convention.
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) RADIOPHONE COMMUNICATION (FIXED) STATION LICENCE
 
@@ -898,7 +884,7 @@ CONDITIONS
 
   - 1 | 2 | 3 | 4
 
-  - Transmitting Frequency and Maximum Frequency Tolerance (See Clause 7(d)) | Class of Emission (See Clause 7(c)) | Maximum Effective Radiated Power (Watts) (See Clause 7(a) & 7(b)) | Aeria Characteristics (See Clause 7(a) & 7(b))
+  - Transmitting Frequency and Maximum Frequency Tolerance (See Clause 7(d)) | Class of Emission (See Clause 7(c)) | Maximum Effective Radiated Power (Watts) (See Clause 7(a) & 7(b)) | Aerial Characteristics (See Clause 7(a) & 7(b))
 
     - (b) The apparatus comprised in the Station shall at all times comply with the same technical standards as may be prescribed by the Telecommunications Authority.
 
@@ -952,11 +938,11 @@ CONDITIONS
 
 - 9.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) RADIOPHONE COMMUNICATION (MOBILE) STATION LICENCE
 
@@ -1044,11 +1030,11 @@ CONDITIONS
 
 - 9.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) INDUCTION COMMUNICATION LICENCE
 
@@ -1080,7 +1066,7 @@ CONDITIONS
 
 - 2.
 
-  - (a) The apparatus comprised in the Stations shall be so designed, constructed, maintained and used that the use of the Stations does not cause any interference with any radiocommunication, or with the working of any station or circuit duly licensed or authorized by the Telecommunications Authority.
+  - (a) The apparatus comprised in the Stations shall be so designed, constructed, maintained and used that the use of the Stations does not cause any interference with any radiocommunications, or with the working of any station or circuit duly licensed or authorized by the Telecommunications Authority.
 
   - (b) A satisfactory method of frequency stabilization shall be employed in the transmitting apparatus.
 
@@ -1114,7 +1100,7 @@ CONDITIONS
 
 - 11.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE
 
   - Frequency Bands (Kc/s.) | Classes of Emission (See A below) | Maximum Radiated Field
 
@@ -1126,11 +1112,11 @@ CONDITIONS
 
 - B.
 
-- “The Telecommunication Convention” (電信公約) means any International Telecommunication Convention, and the Radio Regulations annexed thereto, which has from time to time or at any time been acceded to by or applied to Hong Kong.
+- “The Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union, and the Radio Regulations annexed thereto, which has from time to time or at any time been acceded to by or applied to Hong Kong.
 
-- (L.N. 43 of 1966; L.N. 4 of 1984; L.N. 294 of 1985)
+- (L.N. 43 of 1966; L.N. 4 of 1984; L.N. 294 of 1985; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) RADIO DEALERS LICENCE
 
@@ -1188,9 +1174,9 @@ CONDITIONS
 
 - Telecommunications Authority.
 
-- (L.N. 43 of 1966)
+- (L.N. 43 of 1966; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) RADIO DEALERS LICENCE
 
@@ -1214,7 +1200,7 @@ CONDITIONS
 
 - 2. All the Licensed Apparatus shall, unless and until disposed of in accordance with the Licence, be stored at . and in no other place without the written permission of the Telecommunications Authority.
 
-- 3. The Licensed Apparatus shall not be used for or by the Licensee for the purpose of radiocommunication, except under and in accordance with a Licence granted by the Telecommunications Authority.
+- 3. The Licensed Apparatus shall not be used for or by the Licensee for the purpose of radiocommunications, except under and in accordance with a Licence granted by the Telecommunications Authority.
 
 - 4. This Licence Form shall be placed in a glass fronted frame and prominently displayed in the licensed premises at all times.
 
@@ -1228,7 +1214,9 @@ CONDITIONS
 
   - The list referred to in paragraph (c) above shall consist of four parts, namely, “Goods Purchased”, “Goods Sold”, “Repairs Carried Out” and “Stock in Hand”, and in the case of the first three parts the names and addresses of all customers or suppliers shall be included.
 
-- 6. This Licence shall continue in force for one year from the date of issue and thereafter so long as the Licensee pays to the Telecommunications Authority in advance in each year on or before the anniversary of the date of issue a renewal fee of $ .: Provided that the Telecommunications Authority may at any time after the date of issue revoke this Licence or vary the terms, provisions or limitations thereof by a notice in writing served on the Licensee.
+- 6. This Licence shall continue in force for one year from the date of issue and thereafter so long as the Licensee pays to the Telecommunications Authority in advance in each year on or before the anniversary of the date of issue a renewal fee of $ .:
+
+  - Provided that the Telecommunications Authority may at any time after the date of issue revoke this Licence or vary the terms, provisions or limitations thereof by a notice in writing served on the Licensee.
 
 - 7. This Licence is not transferable.
 
@@ -1244,9 +1232,9 @@ CONDITIONS
 
 - Telecommunications Authority.
 
-- (L.N. 43 of 1966)
+- (L.N. 43 of 1966; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) DEMONSTRATION LICENCE
 
@@ -1262,7 +1250,7 @@ CONDITIONS
 
 - . of . (hereinafter called “the Licensee”) is hereby licensed, subject to the terms, provisions and limitations herein contained—
 
-  - (a) to possess, establish and maintain transmitting and receiving station(s) for radiocommunication (hereinafter called the “Base Station(s)”) at locations approved by the Telecommunications Authority and to establish transmitting and receiving station(s) for radiocommunication (hereinafter called “the Mobile Station(s)”); and
+  - (a) to possess, establish and maintain transmitting and receiving station(s) for radiocommunications (hereinafter called the “Base Station(s)”) at locations approved by the Telecommunications Authority and to establish transmitting and receiving station(s) for radiocommunications (hereinafter called “the Mobile Station(s)”); and
 
   - (b) to use the Base Station(s) and the Mobile Station(s) (hereinafter collectively called “the Stations”) for the purpose of transmitting and receiving, between the Base Station(s) on the one hand and the Mobile Station(s) on the other, or between one of the Mobile Stations and another of the Mobile Stations, spoken test messages for demonstrating the apparatus comprised in the Stations in the course of the Licensee’s business as manufacturer or dealer in such apparatus. CONDITIONS
 
@@ -1308,13 +1296,13 @@ CONDITIONS
 
 - 18.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
-- (Chapter 106) RADIOCOMMUNICATION SCHOOL LICENCE
+- (Chapter 106) RADIOCOMMUNICATIONS SCHOOL LICENCE
 
 - DATE OF ISSUE:
 
@@ -1324,7 +1312,7 @@ CONDITIONS
 
 - FEE ON RENEWAL:
 
-- . of .(hereinafter called “the Licensee”) is hereby licensed, subject to the terms, provisions and limitations herein contained to possess, establish and maintain, work and maintain a radiocommunication transmitting and receiving station at .
+- . of .(hereinafter called “the Licensee”) is hereby licensed, subject to the terms, provisions and limitations herein contained to possess, establish and maintain, work and maintain a radiocommunications transmitting and receiving station at .
 
 - .
 
@@ -1368,7 +1356,7 @@ CONDITIONS
 
 - 11.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which for the time being applies to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE Name and address of Licensee
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which for the time being applies to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE Name and address of Licensee
 
   - Location of station Transmitting apparatus that may be connected to an aerial and radiation therefrom may go beyond the building in which the apparatus is installed— Description of apparatus
 
@@ -1382,9 +1370,9 @@ CONDITIONS
 
   - Aerial Characteristics
 
-- (L.N. 43 of 1966; L.N. 4 of 1984; L.N. 406 of 1992)
+- (L.N. 43 of 1966; L.N. 4 of 1984; L.N. 406 of 1992; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) HONG KONG AMATEUR STATION LICENCE
 
@@ -1400,7 +1388,7 @@ CONDITIONS
 
 - .(hereinafter referred to as “the Licensee”) is hereby licensed, subject to the conditions herein contained—
 
-  - (a) to possess, establish and maintain an amateur transmitting and receiving station for radiocommunication (hereinafter referred to as “the Station”);
+  - (a) to possess, establish and maintain an amateur transmitting and receiving station for radiocommunications (hereinafter referred to as “the Station”);
 
   - (b) to use the Station, as a part of the self-training of the Licensee, to communicate with other amateur stations by transmitting and receiving—
 
@@ -1502,7 +1490,7 @@ CONDITIONS
 
   - “messages about matters of a personal nature” (關於個人事務的訊息) does not include messages about business affairs;
 
-  - “messages” (訊息) and “signals” (訊號) include telephony, visual communication, digital communication and telegraphy; “the Telecommunication Convention” (電信公約) means any International Telecommunication Convention, and the Radio Regulations annexed thereto, which for the time being applies to Hong Kong. Others
+  - “messages” (訊息) and “signals” (訊號) include telephony, visual communication, digital communication and telegraphy; “the Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union, and the Radio Regulations annexed thereto, which for the time being applies to Hong Kong. Others
 
 - 19. The Licensee and all persons operating any stations which the Licensee is authorized by this licence to establish and use shall observe and comply with the relevant provisions of the Telecommunication Convention.
 
@@ -1532,9 +1520,9 @@ CONDITIONS
 
   - Location of Station | Remarks
 
-- (L.N. 406 of 1992)
+- (L.N. 406 of 1992; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) MODEL CONTROL LICENCE
 
@@ -1550,7 +1538,7 @@ CONDITIONS
 
 - called “the Licensee”) is hereby licensed, subject to the conditions herein contained-
 
-- to possess, establish and maintain and use a radiocommunication station (hereinafter called “the Station”) for the purpose only of controlling the movement of a model vehicle, vessel or aircraft, by means of the emission of electromagnetic energy from transmitting apparatus, and the reception of such energy by receiving apparatus in the model (which transmitting and receiving apparatus are together comprised in the expression “the Station”).
+- to possess, establish and maintain and use a radiocommunications station (hereinafter called “the Station”) for the purpose only of controlling the movement of a model vehicle, vessel or aircraft, by means of the emission of electromagnetic energy from transmitting apparatus, and the reception of such energy by receiving apparatus in the model (which transmitting and receiving apparatus are together comprised in the expression “the Station”).
 
 - CONDITIONS
 
@@ -1588,11 +1576,11 @@ CONDITIONS
 
 - 12.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) INDUSTRIAL, SCIENTIFIC AND MEDICAL
 
@@ -1656,13 +1644,13 @@ CONDITIONS
 
 - 11.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE
 
   - Apparatus | Date Installed | Operating Frequency
 
-- (L.N. 43 of 1966; L.N. 4 of 1984)
+- (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) RADIO PAGING SYSTEM LICENCE
 
@@ -1722,7 +1710,7 @@ CONDITIONS
 
 - 19.
 
-  - In this Licence, “Telecommunication Convention” (電信公約) means any International Telecommunication Convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. RADIO PAGING SYSTEM SCHEDULE Name and address of Licensee: . . . . Location of Fixed Transmitting Stations: . . . .
+  - In this Licence, “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. RADIO PAGING SYSTEM SCHEDULE Name and address of Licensee: . . . . Location of Fixed Transmitting Stations: . . . .
 
   - Frequency and Maximum Frequency Tolerance | Bandwidth of Emission | Class of Emission | Maximum Effective Radiated Power (Watts) | Aerial Characteristics
 
@@ -1738,9 +1726,9 @@ CONDITIONS
 
   - “Bandwidth” (頻帶寬度) and “frequency tolerance” (頻差容限) have the meanings assigned to them in the Telecommunication Convention. NUMBER OF RECEIVING STATIONS .
 
-- (L.N. 37 of 1971; L.N. 4 of 1984)
+- (L.N. 37 of 1971; L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) WIDE BAND LINK AND RELAY STATION LICENCE
 
@@ -1780,7 +1768,7 @@ CONDITIONS
 
   - (c) The station shall be used only for the purpose of conducting the business of the licensee as .
 
-- (3) Non-Interference: The apparatus comprised in the station shall be so designed, constructed maintained and used that the use of the station does not cause any avoidable interference with any radiocommunication service.
+- (3) Non-Interference: The apparatus comprised in the station shall be so designed, constructed maintained and used that the use of the station does not cause any avoidable interference with any radiocommunications service.
 
 - (4) Operators and Access to Apparatus: The licensee shall not permit or suffer any unauthorized person to operate the station or to have access to the apparatus comprised therein. The licensee shall ensure that persons operating the station observe the terms, provisions and limitations of this licence at all times.
 
@@ -1788,7 +1776,7 @@ CONDITIONS
 
   - (6) Station to close down: The station shall be closed down at any time on the demand of a person acting under the authority of the Telecommunications Authority.
 
-- (7) Other stations: Other wide-band link/relay stations may have assigned to them the frequency channels assiged to the station referred to in this licence at the discretion of the Telecommunications Authority.
+- (7) Other stations: Other wide-band link/relay stations may have assigned to them the frequency channels assigned to the station referred to in this licence at the discretion of the Telecommunications Authority.
 
 - (8) Period of Licence, Renewal, Revocation and Variation: This licence shall continue in force for one year from the date of issue and thereafter so long as the licensee pays to the Telecommunications Authority in advance in each year on or before the anniversary of the date of issue a renewal fee of .: Provided that the Telecommunications Authority may at any time after the date of issue revoke this licence or vary the terms, provisions or limitations thereof by a notice in writing served on the licensee.
 
@@ -1798,11 +1786,11 @@ CONDITIONS
 
 - (11) Application of licence: This licence shall apply to wide-band link and relay systems utilizing frequencies allocated by the Authority above 890 MHz. . For and on behalf of the Telecommunications Authority. SCHEDULE Name and address of Licensee: . .
 
-- Location of Station | Frequency and Maximum Frequency Tolerance (para. D applies) | Bandwidth of Emission (para. D applies) | Class of Emission (para. C applies) | Pulse characteristics (pulse repetition frequency, pulse duration, pulse rise time-para 2 applies) | Effective radiated power in the direction of maximum radiation (Watts) (paras. A & B apply) | Aerial Charateristics (paras. A & B apply)
+- Location of Station | Frequency and Maximum Frequency Tolerance (para. D applies) | Bandwidth of Emission (para. D applies) | Class of Emission (para. C applies) | Pulse characteristics (pulse repetition frequency, pulse duration, pulse rise time-para 2 applies) | Effective radiated power in the direction of maximum radiation (Watts) (paras. A & B apply) | Aerial Characteristics (paras. A & B apply)
 
 - For the purposes of the Schedule
 
-- A. Effective Radiated Power (ERP) is the power supplied to the antenna multiplied by the relative gain of the antenna in a given direction. The (ERP) shall be expressed in terms of the peak envelope power (Pp), the mean power (Ppm), or the carrier power (Po), whichever is appropriate, taking into account the class of emission used. These powers shall have the meanings assigned to them in the Telecommunication Convention.
+- A. Effective Radiated Power (ERP) is the power supplied to the antenna multiplied by the relative gain of the antenna in a given direction. The (ERP) shall be expressed in terms of the peak envelope power (Pp), the mean power (Pm), or the carrier power (Po), whichever is appropriate, taking into account the class of emission used. These powers shall have the meanings assigned to them in the Telecommunication Convention.
 
 - B. ERP and the aerial characteristics will be assessed either by measurements or by calculation from the characteristics of the types of apparatus used, at the discretion of the Telecommunications Authority. For this purpose the appropriate recommendation of the International Radio Consultative Committee (CCIR) should be used as a guide.
 
@@ -1816,9 +1804,9 @@ CONDITIONS
 
 - Public Repetition Frequency (PRF) is the reciprocal of the minimum interval separating corresponding points (e.g., 50% of the peak amplitude) of successive pulses. Pulse duration (length) of any specific pulse is the interval between the first and the last instance at which the instantaneous amplitude reaches 50% of the peak amplitude. Pulse rise time is the time taken during any specific pulse for the amplitude to increase from 10% to 90% of the peak amplitude.
 
-- (L.N. 159 of 1972; L.N. 204 of 1973)
+- (L.N. 159 of 1972; L.N. 204 of 1973; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) BROADCAST RELAY STATION LICENCE
 
@@ -1836,7 +1824,7 @@ CONDITIONS
 
   - (c) to connect by wires any of the stations with the premises of a subscriber in the area or areas specified in the Schedule and to distribute thereby to those premises the programmes and messages received in accordance with paragraph (b). CONDITIONS
 
-- 1. The stations shall be so maintained and operated that they do not cause undue interference with any other radiocommunication station.
+- 1. The stations shall be so maintained and operated that they do not cause undue interference with any other radiocommunications station.
 
 - 2.
 
@@ -1854,7 +1842,7 @@ CONDITIONS
 
 - 7. The licensee shall provide to every subscriber a full and contemporaneous relay of all the sound and television programmes broadcast by the broadcasting stations specified in the Schedule.
 
-- 8. All apparatus used by the licensee shall comply with such requirements as may be specified by the authority and shall be so designed, constructed, maintained and operated that the same does not cause any interference with any other means of telecommunication or interference between subscribers.
+- 8. All apparatus used by the licensee shall comply with such requirements as may be specified by the authority and shall be so designed, constructed, maintained and operated that the same does not cause any interference with any other means of telecommunications or interference between subscribers.
 
 - 9. The system shall be operated only by persons authorized by the licensee in that behalf.
 
@@ -1910,9 +1898,9 @@ CONDITIONS
 
 - Area of distribution
 
-- (L.N. 215 of 1973; 29 of 1998 s. 105)
+- (L.N. 215 of 1973; 29 of 1998 s. 105; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) CLOSED CIRCUIT TELEVISION LICENCE
 
@@ -1936,7 +1924,7 @@ CONDITIONS
 
 - 3. The licensee shall—
 
-  - (a) operate the system in such a manner as not to cause interference with any other means of telecommunication; and
+  - (a) operate the system in such a manner as not to cause interference with any other means of telecommunications; and
 
   - (b) comply with any direction given by the Authority for the purpose of avoiding any such interference.
 
@@ -1944,9 +1932,9 @@ CONDITIONS
 
 - 5.
 
-  - (1) The licensee shall not use any instrument, apparatus or material on, or connect or apply any electrical currents to, any part of the system if the same interferes, or is likely to interfere, with the working of any other means of telecommunication.
+  - (1) The licensee shall not use any instrument, apparatus or material on, or connect or apply any electrical currents to, any part of the system if the same interferes, or is likely to interfere, with the working of any other means of telecommunications.
 
-- (2) The licensee shall, on receipt of a notice in writing from the Authority, disconnect or remove any part of the system which, in the opinion of the Authority, is interfering, or is likely to interfere, with the working of any other means of telecommunication.
+- (2) The licensee shall, on receipt of a notice in writing from the Authority, disconnect or remove any part of the system which, in the opinion of the Authority, is interfering, or is likely to interfere, with the working of any other means of telecommunications.
 
 - 6. The licensee shall not operate the system except for the purpose of providing the information or security communication system or other system specified in the Second Schedule hereto.
 
@@ -1994,9 +1982,9 @@ CONDITIONS
 
 - SECOND SCHEDULE PURPOSE OF SYSTEM
 
-- (L.N. 215 of 1973; 29 of 1998 s. 105)
+- (L.N. 215 of 1973; 29 of 1998 s. 105; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) BROADCAST RADIO RELAY STATION LICENCE
 
@@ -2044,7 +2032,7 @@ CONDITIONS
 
 - 10. The licensee shall provide a full and contemporaneous relay of all *sound/television programmes broadcast by each of the broadcasting stations specified in the Schedule.
 
-- 11. All apparatus used by the licensee shall comply with those technical requirements specified in the Schedule and shall be so designed, constructed, maintained and operated that the same does not cause undue interference with any other means of telecommunication.
+- 11. All apparatus used by the licensee shall comply with those technical requirements specified in the Schedule and shall be so designed, constructed, maintained and operated that the same does not cause undue interference with any other means of telecommunications.
 
 - 12.
 
@@ -2086,9 +2074,9 @@ CONDITIONS
 
 - Technical Requirements
 
-- (L.N. 259 of 1982; L.N. 365 of 1987; 29 of 1998 s. 105)
+- (L.N. 259 of 1982; L.N. 365 of 1987; 29 of 1998 s. 105; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) PUBLIC NON-EXCLUSIVE TELECOMMUNICATIONS
 
@@ -2110,17 +2098,17 @@ CONDITIONS
 
   - (a) to provide a public service (hereinafter called “the service”) more particularly described in the First Schedule hereto; and
 
-  - (b) to possess, establish, use and maintain such radiocommunication apparatus as described in the Second Schedule hereto as may be necessary to provide for service; and
+  - (b) to possess, establish, use and maintain such radiocommunications apparatus as described in the Second Schedule hereto as may be necessary to provide for service; and
 
-  - (c) to deal in and demonstrate with a view to sale in the course of trade or business, such apparatus or material for radiocommunication as may be necessary to supply customers of the service.
+  - (c) to deal in and demonstrate with a view to sale in the course of trade or business, such apparatus or material for radiocommunications as may be necessary to supply customers of the service.
 
 - 2. This licence shall not be construed as granting any exclusive rights to the licensee in the operation of the service.
 
 - 3. This licence replaces any licence, however described, which the Telecommunications Authority may have granted to the licensee in respect of the service. NOTES
 
-- 1. It is an offence for the licensee or his customers to operate licensed apparatus in such a manner as to cause direct or indirect interference with any other telecommunication service lawfully carried on, or other apparatus for telecommunication lawfully operated in or outside Hong Kong.
+- 1. It is an offence for the licensee or his customers to operate licensed apparatus in such a manner as to cause direct or indirect interference with any other telecommunications service lawfully carried on, or other apparatus for telecommunications lawfully operated in or outside Hong Kong.
 
-- 2. Under section 34(2) of the Telecommunication Ordinance (Chapter 106) any licence may at any time be cancelled or withdrawn by the Telecommunications Authority or suspended for such period, not exceeding 12 months as the Authority specifies in the event of any contravention by the licensee of the Ordinance (which includes the regulations thereunder) or of any condition to which the licence is subject.
+- 2. Under section 34(2) of the Telecommunications Ordinance (Chapter 106) any licence may at any time be cancelled or withdrawn by the Telecommunications Authority or suspended for such period, not exceeding 12 months as the Authority specifies in the event of any contravention by the licensee of the Ordinance (which includes the regulations thereunder) or of any condition to which the licence is subject.
 
 - 3. It is an offence upon the expiry or cancellation of this licence not to surrender it to the Telecommunications Authority within 4 weeks of such expiry or cancellation.
 
@@ -2128,11 +2116,11 @@ CONDITIONS
 
 - 1. The licensee shall at all times and from time to time during the continuation of this licence operate, maintain and provide the service in a manner satisfactory to the Telecommunications Authority.
 
-- 2. The licensee shall at all times perform and observe the requirements and except insofar as the Telecommunications Authority may in writing expressly absolve the licensee from such compliance all provisions of the International Telecommunications Convention and all regulations and recommendations annexed thereto or made thereunder as are applicable in Hong Kong.
+- 2. The licensee shall at all times perform and observe the requirements and except insofar as the Telecommunications Authority may in writing expressly absolve the licensee from such compliance all provisions of the Constitution and Convention of the International Telecommunication Union and all regulations and recommendations annexed thereto or made thereunder as are applicable in Hong Kong.
 
 - 3.
 
-  - (1) Notwithstanding regulation 8(1) of the Telecommunication Regulations (Cap. 106 sub. leg.) the licensee may with the prior consent in writing of the Telecommunications Authority transfer this licence and any permission or any right or benefit arising therefrom.
+  - (1) Notwithstanding regulation 8(1) of the Telecommunications Regulations (Cap. 106 sub. leg.) the licensee may with the prior consent in writing of the Telecommunications Authority transfer this licence and any permission or any right or benefit arising therefrom.
 
 - (2) Any such consent shall be subject to such conditions as the Telecommunications Authority may impose.
 
@@ -2176,7 +2164,7 @@ CONDITIONS
 
 - 7.
 
-- The licensee shall not enter into any agreement or arrangement whether legally enforceable or not which shall in any way prevent or restrict competition in relation to the operation of the service or any other telecommunication service licensed by the Telecommunications Authority.
+- The licensee shall not enter into any agreement or arrangement whether legally enforceable or not which shall in any way prevent or restrict competition in relation to the operation of the service or any other telecommunications service licensed by the Telecommunications Authority.
 
 - SPECIAL CONDITIONS FIRST SCHEDULE DESCRIPTION OF THE PUBLIC TELECOMMUNICATIONS SERVICE SECOND SCHEDULE
 
@@ -2200,9 +2188,9 @@ CONDITIONS
 
 - Telecommunications Authority.
 
-- (L.N. 4 of 1984)
+- (L.N. 4 of 1984; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) PLEASURE VESSEL RADIO NETWORK STATION LICENCE
 
@@ -2218,9 +2206,9 @@ CONDITIONS
 
 - hereinafter called the “Licensee”) is hereby licensed, subject to the conditions hereinafter contained, to possess such apparatus as is specified in the Schedule hereto and to establish and maintain—
 
-  - (a) a transmitting and receiving station for radiocommunication in the pleasure vessel or location named above (hereinafter called “the Pleasure Vessel Radio Network Station”);
+  - (a) a transmitting and receiving station for radiocommunications in the pleasure vessel or location named above (hereinafter called “the Pleasure Vessel Radio Network Station”);
 
-  - (b) transmitting and receiving stations for radiocommunication in the life boats or other survival-crafts associated with and normally carried by the pleasure vessel (hereinafter called “the Survival Craft Stations”);
+  - (b) transmitting and receiving stations for radiocommunications in the life boats or other survival-crafts associated with and normally carried by the pleasure vessel (hereinafter called “the Survival Craft Stations”);
 
   - (c) a radar station for the purpose of radio-determination (hereinafter called “the Radar Station”) in the pleasure vessel or in any of the life boats or other survival-crafts associated with, and normally carried by, the pleasure vessel. CONDITIONS
 
@@ -2228,13 +2216,13 @@ CONDITIONS
 
 - 1. The apparatus comprised in the Pleasure Vessel Radio Network Station, Survival Craft Stations and Radar Station (hereinafter called “the Stations”)—
 
-  - (a) shall be so designed, constructed, maintained and used that the use of the Stations does not cause any avoidable interference with any radiocommunication; and
+  - (a) shall be so designed, constructed, maintained and used that the use of the Stations does not cause any avoidable interference with any radiocommunications; and
 
   - (b) shall be maintained in good working conditions and no modification or alteration shall be made without the consent in writing of the Telecommunications Authority (hereinafter called “the Authority”).
 
 - 2. The Stations shall be used only with emissions which are of the classes specified in the Schedule hereto, on the frequencies specified in the Schedule hereto in relation to those respective classes of emission, and with a power not exceeding that specified in the Schedule hereto in relation to the class of emission and frequency in use at the time.
 
-- 3. The Stations shall be operated only by persons possessing a certificate granted by the Authority under regulation 4 of the Telecommunication Regulations (Cap. 106 sub. leg.), but this requirement—
+- 3. The Stations shall be operated only by persons possessing a certificate granted by the Authority under regulation 4 of the Telecommunications Regulations (Cap. 106 sub. leg.), but this requirement—
 
   - (a) shall not apply to stations which operate solely on frequencies above 30 MHz other than frequencies assigned for international use; and
 
@@ -2252,11 +2240,11 @@ CONDITIONS
 
 - 7. This licence is not transferable.
 
-- 8. The licensee shall at all times perform and observe the requirements and, except insofar as the Authority may in writing expressly absolve the Licensee from such compliance, all provisions of the International Telecommunication Convention and all regulations and recommendations annexed thereto or made thereunder as are applicable in Hong Kong.
+- 8. The licensee shall at all times perform and observe the requirements and, except insofar as the Authority may in writing expressly absolve the Licensee from such compliance, all provisions of the Constitution and Convention of the International Telecommunication Union and all regulations and recommendations annexed thereto or made thereunder as are applicable in Hong Kong.
 
 - 9. This licence shall continue in force for one year from the date of issue.
 
-- 10. The Licensee shall render to the Authority such accounts as the Authority may direct in respect of all charges due or payable under the International Telecommunication Convention in respect of messages exchanged between the Stations and other stations, and shall pay to the Authority at such times and in such manner as the Authority may direct all sums due from the Licensee for such messages.
+- 10. The Licensee shall render to the Authority such accounts as the Authority may direct in respect of all charges due or payable under the Constitution and Convention of the International Telecommunication Union in respect of messages exchanged between the Stations and other stations, and shall pay to the Authority at such times and in such manner as the Authority may direct all sums due from the Licensee for such messages.
 
 - 11. Every message sent from the Pleasure Vessel Radio Network Station shall start with an announcement of the call sign of the called and calling stations. The call sign of the calling station shall be repeated at the end of every period of transmission but no call sign need be announced more than once in any period not exceeding one minute. The Pleasure Vessel Radio Network Station shall be called and identified only by its authorized call sign.
 
@@ -2288,9 +2276,9 @@ CONDITIONS
 
 - (D) | Other Equipment
 
-- (L.N. 269 of 1985)
+- (L.N. 269 of 1985; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) RADIODETERMINATION AND CONVEYANCE OF COMMANDS,
 
@@ -2344,7 +2332,7 @@ CONDITIONS
 
 - 11.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any International Telecommunication convention and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE Location
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE Location
 
   - Transmitting Frequency
 
@@ -2360,9 +2348,9 @@ CONDITIONS
 
   - Other Performance and Technical Standards
 
-- (L.N. 193 of 1989)
+- (L.N. 193 of 1989; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
 - (Chapter 106) HOTEL TELEVISION SERVICES LICENCE
 
@@ -2390,13 +2378,13 @@ CONDITIONS
 
   - (1) The licensee shall—
 
-    - (a) operate the system in such a manner as not to cause interference with any other means of telecommunication;
+    - (a) operate the system in such a manner as not to cause interference with any other means of telecommunications;
 
     - (b) comply with any direction given by the Authority for the purpose of avoiding any such interference; and
 
-    - (c) on receipt of a notice in writing from the Authority, disconnect or remove any part of the system which, in the opinion of the Authority, is interfering, or is likely to interfere, with the working of any other means of telecommunication.
+    - (c) on receipt of a notice in writing from the Authority, disconnect or remove any part of the system which, in the opinion of the Authority, is interfering, or is likely to interfere, with the working of any other means of telecommunications.
 
-- (2) The licensee shall not use any instrument, apparatus or material on, or connect or apply any electrical currents to, any part of the system if the same interferes, or is likely to interfere, with the working of any other means of telecommunication.
+- (2) The licensee shall not use any instrument, apparatus or material on, or connect or apply any electrical currents to, any part of the system if the same interferes, or is likely to interfere, with the working of any other means of telecommunications.
 
 - 4. The licensee shall permit any public officer authorized in writing by the Authority to inspect the system, relevant records and this licence at all reasonable times, and shall forthwith furnish to the Authority any information required by the Authority in connection with the operation of the system.
 
@@ -2452,11 +2440,11 @@ CONDITIONS
 
 - SECOND SCHEDULE PURPOSE OF SYSTEM
 
-- (L.N. 301 of 1989; 29 of 1998 s. 105)
+- (L.N. 301 of 1989; 29 of 1998 s. 105; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
-- (Chapter 106) PUBLIC RADIOCOMMUNICATION SERVICE LICENCE
+- (Chapter 106) PUBLIC RADIOCOMMUNICATIONS SERVICE LICENCE
 
 - DATE OF ISSUE:
 
@@ -2470,11 +2458,11 @@ CONDITIONS
 
 - (the “licensee”) is licensed, subject to the conditions set out in this licence—
 
-  - (a) to provide a public radiocommunication service (the “Service”) described in Schedule 1;
+  - (a) to provide a public radiocommunications service (the “Service”) described in Schedule 1;
 
-  - (b) to establish, maintain, possess and use the radiocommunication apparatus described in Schedule 2 to provide the Service; and
+  - (b) to establish, maintain, possess and use the radiocommunications apparatus described in Schedule 2 to provide the Service; and
 
-  - (c) to deal in and demonstrate with a view to sale in the course of trade or business, such apparatus or material for radiocommunication as may be necessary to supply customers of the Service. GENERAL CONDITIONS
+  - (c) to deal in and demonstrate with a view to sale in the course of trade or business, such apparatus or material for radiocommunications as may be necessary to supply customers of the Service. GENERAL CONDITIONS
 
 - 1. This licence shall not be construed as granting any exclusive rights to the licensee in the provision of the Service.
 
@@ -2482,11 +2470,11 @@ CONDITIONS
 
 - 3. The licensee shall at all times and from time to time during the continuance of this licence operate, maintain and provide the Service in a manner satisfactory to the Authority.
 
-- 4. The licensee shall at all times perform and observe the requirements of the International Telecommunication Convention and the regulations and recommendations annexed to or made under the Convention as are applicable to Hong Kong except to the extent that the Authority may in writing expressly exempt the licensee from such compliance.
+- 4. The licensee shall at all times perform and observe the requirements of the Constitution and Convention of the International Telecommunication Union and the regulations and recommendations annexed to or made under the Convention as are applicable to Hong Kong except to the extent that the Authority may in writing expressly exempt the licensee from such compliance.
 
 - 5.
 
-  - (1) Notwithstanding regulation 8(1) of the Telecommunication Regulations, the licensee may with the prior written consent of the Authority transfer this licence and any permission, right or benefit under this licence.
+  - (1) Notwithstanding regulation 8(1) of the Telecommunications Regulations, the licensee may with the prior written consent of the Authority transfer this licence and any permission, right or benefit under this licence.
 
 - (2) The consent of the Authority shall be subject to such conditions as the Authority thinks fit.
 
@@ -2498,7 +2486,7 @@ CONDITIONS
 
   - (2) The apparatus comprised in each base station shall at all times comply with the technical and performance standards as may be prescribed by the Authority and specified in Schedule 2.
 
-- (3) The apparatus comprised in each base or mobile station (being a mobile station used by the customer of the licensee) shall be of a type approved by the Authority and shall be so designed, constructed, maintained and operated that its use does not cause any avoidable interference with any radiocommunication.
+  - (3) The apparatus comprised in each base or mobile station (being a mobile station used by the customer of the licensee) shall be of a type approved by the Authority and shall be so designed, constructed, maintained and operated that its use does not cause any avoidable interference with any radiocommunications.
 
   - (4) Each base station shall be operated only by the licensee or a person authorized by the licensee in that behalf. The licensee shall not permit or suffer any person not so authorized to have access to the apparatus comprised in each base station. The licensee shall ensure that persons operating each base station observe the conditions of the licence at all times.
 
@@ -2518,7 +2506,7 @@ CONDITIONS
 
   - (7) If any base station aerial crosses above or may fall or be blown onto any overhead power wire (including electric lighting and tramway wires) or power apparatus it shall be guarded to the reasonable satisfaction of the owner of the power apparatus concerned.
 
-- (8) The licensee shall take all reasonable measures to ensure that customers of the Service do not cause interference to other users of radiocommunication and shall take all the necessary measures to stop such interference as may occur.
+- (8) The licensee shall take all reasonable measures to ensure that customers of the Service do not cause interference to other users of radiocommunications and shall take all the necessary measures to stop such interference as may occur.
 
 - (9) The licensee shall cease to offer service to a customer if instructed to do so by the Authority.
 
@@ -2530,11 +2518,11 @@ CONDITIONS
 
 - 9.
 
-- The licensee shall not enter into any agreement or arrangement whether legally enforceable or not which shall in any way prevent or restrict competition in relation to the operation of the Service or any other telecommunication service licensed by the Authority.
+- The licensee shall not enter into any agreement or arrangement whether legally enforceable or not which shall in any way prevent or restrict competition in relation to the operation of the Service or any other telecommunications service licensed by the Authority.
 
 - SPECIAL CONDITIONS (Special conditions may be inserted on the Grant
 
-- or Extension of this Licence) SCHEDULE 1 DESCRIPTION OF THE PUBLIC RADIOCOMMUNICATION SERVICE SCHEDULE 2
+- or Extension of this Licence) SCHEDULE 1 DESCRIPTION OF THE PUBLIC RADIOCOMMUNICATIONS SERVICE SCHEDULE 2
 
 - Location
 
@@ -2554,9 +2542,9 @@ CONDITIONS
 
 - For the Authority
 
-- (L.N. 430 of 1990)
+- (L.N. 430 of 1990; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCES
 
 - (Chapter 106) SATELLITE MASTER ANTENNA TELEVISION LICENCE
 
@@ -2576,7 +2564,7 @@ CONDITIONS
 
     - (i) to receive—
 
-      - (A) television programmes and ancillary telecommunication services; and
+      - (A) television programmes and ancillary telecommunications services; and
 
       - (B) functional data signals,
 
@@ -2588,7 +2576,7 @@ CONDITIONS
 
     - (i) to receive—
 
-      - (A) television programmes and ancillary telecommunication services; and
+      - (A) television programmes and ancillary telecommunications services; and
 
       - (B) functional data signals,
 
@@ -2600,25 +2588,25 @@ CONDITIONS
 
     - (i) to receive—
 
-      - (A) television programmes and ancillary telecommunication services; and
+      - (A) television programmes and ancillary telecommunications services; and
 
       - (B) functional data signals,
 
   - transmitted by the relevant Satellite Television Uplink and Downlink Licensee; and
 
-    - (ii) to relay to the subscription satellite television services via a telecommunication system or a telecommunication service functional data signals from outlet points of the system referred to in paragraph (a);
+    - (ii) to relay to the subscription satellite television services via a telecommunications system or a telecommunications service functional data signals from outlet points of the system referred to in paragraph (a);
 
-  - (bd) by connecting the system with a telecommunication system or a telecommunication service pursuant to an agreement between the licensee and the licensee, or the exempted person, of the relevant telecommunication system or telecommunication service—
+  - (bd) by connecting the system with a telecommunications system or a telecommunications service pursuant to an agreement between the licensee and the licensee, or the exempted person, of the relevant telecommunications system or telecommunications service—
 
-    - (i) to receive telecommunications messages transmitted by the licensee, or the exempted person, of the relevant telecommunication system or telecommunication service; and
+    - (i) to receive telecommunications messages transmitted by the licensee, or the exempted person, of the relevant telecommunications system or telecommunications service; and
 
-    - (ii) to relay telecommunications messages to the telecommunication system or telecommunication service from outlet points of the system referred to in paragraph (a);
+    - (ii) to relay telecommunications messages to the telecommunications system or telecommunications service from outlet points of the system referred to in paragraph (a);
 
   - (be) to receive commercial television programmes by connecting the system with a communal aerial broadcast distribution system pursuant to an agreement between the licensee and the relevant communal aerial broadcast distribution system owner; and
 
   - (c) to distribute to outlet points of the system referred to in paragraph (a) the programmes, services and signals received in accordance with paragraphs (b), (ba), (baa), (bb), (bc), (bd) and (be). In this Licence—
 
-    - “ancillary telecommunication services” (附屬電訊服務) means—
+    - “ancillary telecommunications services” (附屬電訊服務) means—
 
   - (a) the teletext or other subcarrier information; and
 
@@ -2638,11 +2626,11 @@ CONDITIONS
 
   - whether in the form of speech, music or other sounds; or text, or visual images whether or not animated; or signals in any form or combination of forms;
 
-    - “exempted person” (獲豁免人士) means, in relation to a telecommunication system or a telecommunication service, a person exempted from licensing under the Ordinance;
+    - “exempted person” (獲豁免人士) means, in relation to a telecommunications system or a telecommunications service, a person exempted from licensing under the Ordinance;
 
-    - “functional data signals” (功能數據訊號) means data signals which are necessary for the reception, interruption or cessation of television programmes and ancillary telecommunication services or other functions incidental to the provision of such programmes and services;
+    - “functional data signals” (功能數據訊號) means data signals which are necessary for the reception, interruption or cessation of television programmes and ancillary telecommunications services or other functions incidental to the provision of such programmes and services;
 
-    - “Ordinance” (《條例》) means the Telecommunication Ordinance (Cap. 106);
+    - “Ordinance” (《條例》) means the Telecommunications Ordinance (Cap. 106);
 
     - “programme service” (節目服務) means a programme service within the meaning of the Television Ordinance (Cap. 52);
 
@@ -2664,11 +2652,11 @@ CONDITIONS
 
     - “subscription television programmes” (收費電視節目) is to be construed according to the meaning of subscription television broadcasting in the Television Ordinance (Cap. 52);
 
-    - “telecommunication service” (電訊服務) means a telecommunication service licensed under the Ordinance, expressed as being licensed in exercise of the powers conferred by sections 7 and 34 of the Ordinance, exempted from licensing under the Ordinance or deemed to be licensed under the Ordinance;
+    - “telecommunications service” (電訊服務) means a telecommunications service licensed under the Ordinance, expressed as being licensed in exercise of the powers conferred by sections 7 and 34 of the Ordinance, exempted from licensing under the Ordinance or deemed to be licensed under the Ordinance;
 
-    - “telecommunication system” (電訊系統) means a telecommunication system licensed under the Ordinance, expressed as being licensed in exercise of the powers conferred by sections 7 and 34 of the Ordinance, exempted from licensing under the Ordinance or deemed to be licensed under the Ordinance;
+    - “telecommunications system” (電訊系統) means a telecommunications system licensed under the Ordinance, expressed as being licensed in exercise of the powers conferred by sections 7 and 34 of the Ordinance, exempted from licensing under the Ordinance or deemed to be licensed under the Ordinance;
 
-    - “telecommunications messages” (電訊訊息) means any communication sent or received by telecommunication but does not include—
+    - “telecommunications messages” (電訊訊息) means any communication sent or received by telecommunications but does not include—
 
   - (a) television programmes, teletext or other subcarrier information, or sound programmes; or
 
@@ -2690,13 +2678,13 @@ CONDITIONS
 
   - (1) The licensee shall—
 
-    - (a) operate the system in such a manner as not to cause interference with any other means of telecommunication;
+    - (a) operate the system in such a manner as not to cause interference with any other means of telecommunications;
 
     - (b) comply with any direction given by the Authority for the purpose of avoiding any such interference; and
 
-    - (c) on receipt of a notice in writing from the Authority, disconnect or remove any part of the system which, in the opinion of the Authority, is interfering, or is likely to interfere, with the working of any other means of telecommunication.
+    - (c) on receipt of a notice in writing from the Authority, disconnect or remove any part of the system which, in the opinion of the Authority, is interfering, or is likely to interfere, with the working of any other means of telecommunications.
 
-  - (2) The licensee shall not use any instrument, apparatus or material on, or connect or apply any electrical currents to, any part of the system if the same interferes, or is likely to interfere, with the working of any other means of telecommunication. 4. (1) The licensee shall at all reasonable times, when directed by the Authority, make the system available for inspection and testing by the Authority and any person authorized by the Authority in writing for that purpose.
+  - (2) The licensee shall not use any instrument, apparatus or material on, or connect or apply any electrical currents to, any part of the system if the same interferes, or is likely to interfere, with the working of any other means of telecommunications. 4. (1) The licensee shall at all reasonable times, when directed by the Authority, make the system available for inspection and testing by the Authority and any person authorized by the Authority in writing for that purpose.
 
   - (2) The licensee shall permit the Authority or any person authorized by the Authority in writing to enter its premises for inspection of records, documents and accounts relating to the licensee’s business, at all reasonable times, in order for the Authority to perform his functions under this licence and the Ordinance. The licensee shall also provide copies of such records, documents and accounts to the Authority on demand.
 
@@ -2706,7 +2694,7 @@ CONDITIONS
 
   - (2) The licensee shall comply with any conditions imposed, or directions given, by the Authority on the giving of his authorization for the purposes of paragraph (1). 10. (1) The licensee shall not charge or receive the benefit of, directly or indirectly, any fee for the right to receive programmes or other communication distributed by means of the system.
 
-  - (1A) The licensee shall not, except for subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunication services and telecommunications messages, facilitate the charging of a fee for the right to receive programmes or other communication received by means of the system.
+  - (1A) The licensee shall not, except for subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunications services and telecommunications messages, facilitate the charging of a fee for the right to receive programmes or other communication received by means of the system.
 
     - (2) The licensee shall, except in so far as the Authority may otherwise in writing permit, publish in the manner specified in paragraph (3) a notice specifying, or specifying the method that is to be adopted for determining, the charges and other terms and conditions on which he offers his services.
 
@@ -2730,7 +2718,7 @@ CONDITIONS
 
     - (c) between the licensee and a Satellite Television Uplink and Downlink Licensee for the connection of the system with subscription satellite television services;
 
-    - (d) between the licensee and the licensee, or the exempted person, of a telecommunication system or telecommunication service for the connection of the system with a telecommunication system or a telecommunication service; or
+    - (d) between the licensee and the licensee, or the exempted person, of a telecommunications system or telecommunications service for the connection of the system with a telecommunications system or a telecommunications service; or
 
     - (e) between the licensee and a communal aerial broadcast distribution system owner for the connection of the system with a communal aerial broadcast distribution system, is filed with the Authority within 14 days of the agreement being made.
 
@@ -2750,7 +2738,7 @@ CONDITIONS
 
     - (b) 1 English language newspaper circulating in Hong Kong.
 
-    - (3) The licensee may distribute signals carrying subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunication services and telecommunications messages.
+    - (3) The licensee may distribute signals carrying subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunications services and telecommunications messages.
 
     - 12.
 
@@ -2758,7 +2746,7 @@ CONDITIONS
 
     - (2)
 
-      - For the purposes of paragraph (1), “programmes or other communication” (節目或其他通訊) does not include subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunication services and telecommunications messages.
+      - For the purposes of paragraph (1), “programmes or other communication” (節目或其他通訊) does not include subscription television programmes, programme service programmes, subscription satellite television programmes, their ancillary telecommunications services and telecommunications messages.
 
     - 12A. Without the Authority’s consent in writing, the licensee shall not transmit any telecommunications messages received from satellites to any location outside the premises of users of the system.
 
@@ -2786,11 +2774,11 @@ CONDITIONS
 
     - Number of outlet points within each area of distribution . For the Telecommunications Authority.
 
-- (L.N. 182 of 1991; L.N. 362 of 1993; 29 of 1998 s. 105; L.N. 180 of 1999)
+- (L.N. 182 of 1991; L.N. 362 of 1993; 29 of 1998 s. 105; L.N. 180 of 1999; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
-- (Chapter 106) FIXED TELECOMMUNICATION NETWORK SERVICES LICENCE
+- (Chapter 106) FIXED TELECOMMUNICATIONS NETWORK SERVICES LICENCE
 
   - DATE OF ISSUE:
 
@@ -2798,31 +2786,31 @@ CONDITIONS
 
   - (the “licensee”) is licensed, subject to the following conditions set out in this licence—
 
-    - (a) to provide a public fixed telecommunication network service (the “Service”), the scope of which is described in Schedule 1;
+    - (a) to provide a public fixed telecommunications network service (the “Service”), the scope of which is described in Schedule 1;
 
-    - (b) to establish and maintain a telecommunication network (the “Network”) described in Schedule 2 to provide the Service;
+    - (b) to establish and maintain a telecommunications network (the “Network”) described in Schedule 2 to provide the Service;
 
-    - (c) to possess and use the telecommunication installations for radiocommunication described in Schedule 3 to provide the Service; and
+    - (c) to possess and use the telecommunications installations for radiocommunications described in Schedule 3 to provide the Service; and
 
-    - (d) to deal in, import and demonstrate, with a view to sale in the course of trade or business, such apparatus or material for radiocommunication as may be necessary to supply customers of the Service. GENERAL CONDITIONS
+    - (d) to deal in, import and demonstrate, with a view to sale in the course of trade or business, such apparatus or material for radiocommunications as may be necessary to supply customers of the Service. GENERAL CONDITIONS
 
     - 1. This licence shall not be construed as granting an exclusive right to the licensee to provide the Service.
 
     - 2. This licence replaces any licence or any exemption from licensing, however described, which the Authority may have granted to the licensee for providing the Service.
 
-    - 3. The grant of this licence does not authorize the licensee to do anything which infringes any exclusive right to provide telecommunication circuits or services granted under any Ordinance. In particular, this licence does not confer any right on the licensee to provide public telephonic communications prior to 30 June 1995. Transfer
+    - 3. The grant of this licence does not authorize the licensee to do anything which infringes any exclusive right to provide telecommunications circuits or services granted under any Ordinance. In particular, this licence does not confer any right on the licensee to provide public telephonic communications prior to 30 June 1995. Transfer
 
     - 4.
 
       - (1) The licensee may only with the prior written consent of the Authority and subject to such reasonable conditions as the Authority thinks fit transfer this licence or any permission, right or benefit under this licence. In giving his consent the Authority will have regard to such matters as he thinks fit including but not limited to the effect which the transfer will have on market structure and the financial and technical competence and viability of the transferee.
 
-      - (2) Where a licensee is in a dominant position in a market for the provision of a public basic telephonic service over fixed telecommunication networks within the meaning described in General Condition 16(2), it may not without the prior written consent of the Authority, which can be withheld for the purposes of General Condition 10(1), assign, transfer or otherwise dispose of more than 15% of the licensee’s assets constituting the Network, other than where the transfer or disposal of those assets is in the ordinary course of the licensee’s maintenance, replacement or upgrading of the Network. Compliance
+      - (2) Where a licensee is in a dominant position in a market for the provision of a public basic telephonic service over fixed telecommunications networks within the meaning described in General Condition 16(2), it may not without the prior written consent of the Authority, which can be withheld for the purposes of General Condition 10(1), assign, transfer or otherwise dispose of more than 15% of the licensee’s assets constituting the Network, other than where the transfer or disposal of those assets is in the ordinary course of the licensee’s maintenance, replacement or upgrading of the Network. Compliance
 
     - 5. If the licensee employs any person under contract for the purpose of the Service, or for the installation, operation or maintenance of the Network (a “Contractor”), the licensee shall continue to be responsible for compliance with the conditions of this licence, and the performance thereof, by any Contractor. International conventions
 
     - 6.
 
-      - (1) The licensee shall at all times perform and observe the requirements of the International Telecommunication Convention and the regulations and recommendations annexed to it, and without limiting the generality of the foregoing, the recommendations made by the Radiocommunication Sector and Standardisation Sector established under the Convention, as are stated to be applicable to Hong Kong, and any other international convention, agreement, protocol, understanding or the like to the extent that the instruments described in this paragraph impose obligations on Hong Kong of which the Authority gives notice to the licensee, except to the extent that the Authority may in writing exempt the licensee from such compliance.
+      - (1) The licensee shall at all times perform and observe the requirements of the Constitution and Convention of the International Telecommunication Union and the regulations and recommendations annexed to it, and without limiting the generality of the foregoing, the recommendations made by the Radiocommunications Sector and Standardisation Sector established under the Convention, as are stated to be applicable to Hong Kong, and any other international convention, agreement, protocol, understanding or the like to the extent that the instruments described in this paragraph impose obligations on Hong Kong of which the Authority gives notice to the licensee, except to the extent that the Authority may in writing exempt the licensee from such compliance.
 
       - (2) Where the Government has been consulted about or is involved in the preparation or negotiation of an international convention, agreement, protocol or understanding or the like or amendments thereto which are on the subject-matter of telecommunications or which relate to another subject-matter but which the Government anticipates could have a material impact on the provision of services under this licence, the Government will, where practicable, provide the licensee with a reasonable opportunity to make a submission stating its views on the matter. Compliance generally
 
@@ -2830,9 +2818,9 @@ CONDITIONS
 
     - 8.
 
-      - (1) The licensee shall take reasonable measures to install, maintain and operate the Service and the Network in such a manner as not to cause any harmful radio interference or physical obstruction to any lawful telecommunication service, or cause any physical obstruction to the installation, maintenance, operation, adjustment, repair, alteration, removal or replacement of the facilities of any lawful telecommunication or utility service provider.
+      - (1) The licensee shall take reasonable measures to install, maintain and operate the Service and the Network in such a manner as not to cause any harmful radio interference or physical obstruction to any lawful telecommunications service, or cause any physical obstruction to the installation, maintenance, operation, adjustment, repair, alteration, removal or replacement of the facilities of any lawful telecommunications or utility service provider.
 
-      - (2) The licensee shall take reasonable measures to ensure that the customers of the Service do not cause harmful radio interference to lawful telecommunication services or utility services through use of the Service.
+      - (2) The licensee shall take reasonable measures to ensure that the customers of the Service do not cause harmful radio interference to lawful telecommunications services or utility services through use of the Service.
 
       - (3) The Authority may give such reasonable directions as he thinks fit to avoid harmful radio interference or physical obstruction referred to in paragraph (1). The licensee shall comply with the directions. Inspection and testing of installations
 
@@ -2840,7 +2828,7 @@ CONDITIONS
 
       - (1) On receiving reasonable prior written notice from the Authority, the licensee shall allow the Authority and any person authorized in writing by the Authority for the Authority’s own purposes to enter and inspect the offices, places and premises in Hong Kong where the licensee has installed the Network or any equipment associated with the Network, or the provision of the Service, to verify that the licensee is in compliance with the licence conditions.
 
-      - (2) The licensee shall provide and maintain, up to the reasonable technical standards set by the Authority, facilities to enable the Authority to inspect, test, read or measure, as the case may be, any telecommunication installations, equipment (including, but not limited to testing instruments) or premises used or to be used for the provision of the Service, and may at its option, and shall on the written request of the Authority, and subject to the provision by the Authority of reasonable prior written notice, provide a representative to be present at any such inspection, testing, reading or measurement.
+      - (2) The licensee shall provide and maintain, up to the reasonable technical standards set by the Authority, facilities to enable the Authority to inspect, test, read or measure, as the case may be, any telecommunications installations, equipment (including, but not limited to testing instruments) or premises used or to be used for the provision of the Service, and may at its option, and shall on the written request of the Authority, and subject to the provision by the Authority of reasonable prior written notice, provide a representative to be present at any such inspection, testing, reading or measurement.
 
       - (3) On giving reasonable prior written notice, the Authority may direct the licensee to demonstrate that the Service complies with the technical requirements imposed by the Ordinance and Regulations or any other instruments which may be issued by the Authority under the Ordinance and the licensee shall comply with such directions.
 
@@ -2850,7 +2838,7 @@ CONDITIONS
 
       - (1) The licensee shall, subject to Schedule 1 and any Special Conditions of this licence relating to the provision of the Service, at all times during the validity period of this licence operate, maintain and provide a good, efficient and continuous service in a manner satisfactory to the Authority. The Authority may, on application in writing by the licensee, exempt a part or parts of the Service from the requirement of continuous provision.
 
-      - (2) The licensee shall, subject to Schedule 1 and any Special Conditions of this licence relating to the provision of the Service, provide the Service on its published terms and conditions and at the tariff published in accordance with General Condition 20 (as applicable) on request of a customer whether or not the customer intends the Service to be available for its own use or intends to utilize the Service to provide a lawful telecommunication service to third parties.
+      - (2) The licensee shall, subject to Schedule 1 and any Special Conditions of this licence relating to the provision of the Service, provide the Service on its published terms and conditions and at the tariff published in accordance with General Condition 20 (as applicable) on request of a customer whether or not the customer intends the Service to be available for its own use or intends to utilize the Service to provide a lawful telecommunications service to third parties.
 
       - (3) Subject to Schedule 1 and any Special Conditions relating to the provision of the Service, the licensee shall comply with a customer request for the Service as tariffed by the licensee in accordance with General Condition 20 where the Service reasonably could be provided by the licensee to the customer at the location at which the Service is requested utilizing the licensee’s Network in place at the time of the request. Customer charter
 
@@ -2864,13 +2852,13 @@ CONDITIONS
 
     - 13.
 
-      - (1) The licensee shall interconnect the Service and the Network with the external public telecommunication network and services operated by Hong Kong Telecom International Limited under its licence granted under the Ordinance and other fixed telecommunication networks and services licensed under the Ordinance and, where directed by the Authority, other telecommunication networks and services licensed, or deemed to be licensed, or exempt from licensing under the Ordinance.
+      - (1) The licensee shall interconnect the Service and the Network with the external public telecommunications network and services operated by Hong Kong Telecom International Limited under its licence granted under the Ordinance and other fixed telecommunications networks and services licensed under the Ordinance and, where directed by the Authority, other telecommunications networks and services licensed, or deemed to be licensed, or exempt from licensing under the Ordinance.
 
-      - (2) The licensee shall also interconnect the Service and the Network with the fixed telecommunication network and services provided by the Hong Kong Telephone Company Limited under the Telephone Ordinance (Cap. 269) prior to 30 June 1995 or licensed under the Telecommunication Ordinance (Cap. 106), as the case may be.
+      - (2) The licensee shall also interconnect the Service and the Network with the fixed telecommunications network and services provided by the Hong Kong Telephone Company Limited under the Telephone Ordinance (Cap. 269) prior to 30 June 1995 or licensed under the Telecommunications Ordinance (Cap. 106), as the case may be.
 
       - (3) The licensee shall use all reasonable endeavours to ensure that interconnection is done promptly, efficiently and at charges which are based on reasonable relevant costs incurred so as to fairly compensate the licensee for those costs.
 
-      - (4) The licensee shall provide facilities and services reasonably necessary for the prompt and efficient interconnection of the Service and the Network with the telecommunication networks or services of the other entities referred to in paragraphs (1) and (2). Such facilities and services include—
+      - (4) The licensee shall provide facilities and services reasonably necessary for the prompt and efficient interconnection of the Service and the Network with the telecommunications networks or services of the other entities referred to in paragraphs (1) and (2). Such facilities and services include—
 
         - (a) carriage services for codes, messages or signals across and between the interconnected networks;
 
@@ -2890,13 +2878,13 @@ CONDITIONS
 
       - (3) Where requested by the Authority, the licensee shall prepare and furnish to the Authority proposals for developing, adding to or replacing the numbering plan relating to the Service.
 
-      - (4) The licensee shall, in such manner as the Authority may direct, facilitate the portability of numbers assigned to any customer of any fixed telecommunication network service licensee, or the Hong Kong Telephone Company Limited, so that any number so assigned may be used by that customer should it cease to be a customer of any such entity and become a customer of any other fixed telecommunication network service licensee or the Hong Kong Telephone Company Limited, as the case may be.
+      - (4) The licensee shall, in such manner as the Authority may direct, facilitate the portability of numbers assigned to any customer of any fixed telecommunications network service licensee, or the Hong Kong Telephone Company Limited, so that any number so assigned may be used by that customer should it cease to be a customer of any such entity and become a customer of any other fixed telecommunications network service licensee or the Hong Kong Telephone Company Limited, as the case may be.
 
-      - (5) Directions by the Authority under paragraph (4) include reasonable directions concerning the equitable sharing of all relevant costs associated with providing portability of numbers as between the licensee, any other fixed telecommunication network services licensee, the Hong Kong Telephone Company Limited, and any other person. Anti-competitive conduct
+      - (5) Directions by the Authority under paragraph (4) include reasonable directions concerning the equitable sharing of all relevant costs associated with providing portability of numbers as between the licensee, any other fixed telecommunications network services licensee, the Hong Kong Telephone Company Limited, and any other person. Anti-competitive conduct
 
     - 15.
 
-      - (1) (a) A licensee shall not engage in any conduct which, in the opinion of the Authority, has the purpose or effect of preventing or substantially restricting competition in the operation of the Service or in any market for the provision or acquisition of a telecommunication installation, service or apparatus.
+      - (1) (a) A licensee shall not engage in any conduct which, in the opinion of the Authority, has the purpose or effect of preventing or substantially restricting competition in the operation of the Service or in any market for the provision or acquisition of a telecommunications installation, service or apparatus.
 
         - (b) Conduct which the Authority may consider has the relevant purpose or effect referred to in subparagraph (a) includes, but is not limited to—
 
@@ -2910,9 +2898,9 @@ CONDITIONS
 
   - (2) In particular, but without limiting the generality of the conduct referred to in paragraph (1), a licensee shall not—
 
-    - (a) enter into any agreement, arrangement or understanding, whether legally enforceable or not, which has or is likely to have the purpose or effect of preventing or substantially restricting competition in any market for the provision or acquisition of any telecommunication installations, services or apparatus;
+    - (a) enter into any agreement, arrangement or understanding, whether legally enforceable or not, which has or is likely to have the purpose or effect of preventing or substantially restricting competition in any market for the provision or acquisition of any telecommunications installations, services or apparatus;
 
-      - (b) without the authorization of the Authority, make it a condition of the provision or connection of telecommunication installations, services or apparatus that the person acquiring such telecommunication installations, services or apparatus also acquire or not acquire any other service or apparatus either from itself or of any kind from another person; or
+      - (b) without the authorization of the Authority, make it a condition of the provision or connection of telecommunications installations, services or apparatus that the person acquiring such telecommunications installations, services or apparatus also acquire or not acquire any other service or apparatus either from itself or of any kind from another person; or
 
       - (c) give an undue preference to, or receive an unfair advantage from, a business carried on by it or an associated or affiliated company, service or person if, in the opinion of the Authority, competitors could be placed at a significant competitive disadvantage or competition would be prevented or substantially restricted within the meaning of paragraph (1). Abuse of position
 
@@ -2924,7 +2912,7 @@ CONDITIONS
 
         - (3)
 
-          - (a) A licensee which is in a dominant position within the meaning in paragraph (1) shall be taken to have abused its position if, in the opinion of the Authority, it has engaged in conduct which has the purpose of preventing or substantially restricting competition in a market for the provision or acquisition of telecommunication installations, services or apparatus.
+          - (a) A licensee which is in a dominant position within the meaning in paragraph (1) shall be taken to have abused its position if, in the opinion of the Authority, it has engaged in conduct which has the purpose of preventing or substantially restricting competition in a market for the provision or acquisition of telecommunications installations, services or apparatus.
 
           - (b) Conduct which the Authority may consider to fall within the conduct referred to in subparagraph (a) includes, but is not limited to—
 
@@ -2962,9 +2950,9 @@ CONDITIONS
 
         - (c) sending a copy to any person who may request it. The licensee shall not levy a charge greater than that is necessary to cover reasonable costs involved.
 
-  - (3) Where the licensee provides customer equipment integral to the provision of a telecommunication service to its customers, the tariff shall clearly state the price of the customer equipment separately from the charges for the telecommunication service.
+  - (3) Where the licensee provides customer equipment integral to the provision of a telecommunications service to its customers, the tariff shall clearly state the price of the customer equipment separately from the charges for the telecommunications service.
 
-  - (4) The licensee shall not offer any discount to its published tariffs for a particular telecommunication service provided under this licence or customer equipment subject to paragraph (3) (other than a discount calculated in accordance with a formula or methodology approved by the Authority and published together with its tariffs) if, in the opinion of the Authority, the licensee is in a dominant position in any market for or which includes that telecommunication service.
+  - (4) The licensee shall not offer any discount to its published tariffs for a particular telecommunications service provided under this licence or customer equipment subject to paragraph (3) (other than a discount calculated in accordance with a formula or methodology approved by the Authority and published together with its tariffs) if, in the opinion of the Authority, the licensee is in a dominant position in any market for or which includes that telecommunications service.
 
   - (5) The licensee shall not, without the approval of the Authority, bundle a number of services into a single tariff without also offering each of the constituent services under separate tariffs.
 
@@ -3054,13 +3042,13 @@ CONDITIONS
 
     - (a) unless otherwise agreed by the Authority, publish or arrange at least biennially for the publication of directory information in a printed or other form approved by the Authority, relating to all its customers, other than its customers who request not to be included in a directory to be published (“the printed directory”); and
 
-      - (b) establish, maintain and operate, or arrange for the establishment, maintenance or operation of a telecommunication service whereby customers may, upon request, be provided with directory information other than that of its customers who request the information not to be disclosed (“the telephonic directory service”).
+      - (b) establish, maintain and operate, or arrange for the establishment, maintenance or operation of a telecommunications service whereby customers may, upon request, be provided with directory information other than that of its customers who request the information not to be disclosed (“the telephonic directory service”).
 
   - (4) The printed directory and the telephonic directory service provided under paragraph (3) shall be made available free of charge to all of the licensee’s customers and shall be provided in a manner satisfactory to the Authority.
 
-  - (5) The licensee is permitted to make commercial arrangements with one or more of the other fixed telecommunication network service licensees and the Hong Kong Telephone Company Limited to co-operate in the provision jointly by them of either or both of the printed directory and the telephonic directory service which the licensee is required to provide under paragraph (3).
+  - (5) The licensee is permitted to make commercial arrangements with one or more of the other fixed telecommunications network service licensees and the Hong Kong Telephone Company Limited to co-operate in the provision jointly by them of either or both of the printed directory and the telephonic directory service which the licensee is required to provide under paragraph (3).
 
-  - (6) The licensee’s printed directory shall be a unified printed directory and the licensee’s telephonic directory service shall be a unified telephonic directory service and shall utilise a unified directory database, containing directory information on all customers of all fixed telecommunication network service licensees and the Hong Kong Telephone Company Limited, except for those customers who request that directory information about them not be disclosed. The licensee shall provide, and regularly update, raw directory information about its customers to each other fixed telecommunication network service licensee and the Hong Kong Telephone Company Limited, for which the licensee will be able to impose a charge to fairly compensate it for providing the raw directory information. The licensee shall endeavour to agree with each of the other licensees and the Hong Kong Telephone Company Limited on a reasonable mode of exchange and transmission format for the raw directory information.
+  - (6) The licensee’s printed directory shall be a unified printed directory and the licensee’s telephonic directory service shall be a unified telephonic directory service and shall utilise a unified directory database, containing directory information on all customers of all fixed telecommunications network service licensees and the Hong Kong Telephone Company Limited, except for those customers who request that directory information about them not be disclosed. The licensee shall provide, and regularly update, raw directory information about its customers to each other fixed telecommunications network service licensee and the Hong Kong Telephone Company Limited, for which the licensee will be able to impose a charge to fairly compensate it for providing the raw directory information. The licensee shall endeavour to agree with each of the other licensees and the Hong Kong Telephone Company Limited on a reasonable mode of exchange and transmission format for the raw directory information.
 
   - (7) Where the licensee is unable to agree with another licensee pursuant to paragraph (6) on what amounts to fair compensation for provision of, or the reasonable mode of exchange and transmission format of, raw directory information, the matter at issue may be referred by either licensee or the Hong Kong Telephone Company Limited to the Authority for determination.
 
@@ -3074,7 +3062,7 @@ CONDITIONS
 
     - 27.
 
-      - (1) The licensee shall keep records and plans (including overall network plans and cable route maps) of the telecommunication installations, installations for radiocommunication and telecommunication nodes and exchanges provided under this license and any other details concerning the Network as may be reasonably required by the Authority, including but not limited to information from operational support systems, traffic flow information, and database information relating to the manner in which the Network treats calls of a particular kind (“Network Information”).
+      - (1) The licensee shall keep records and plans (including overall network plans and cable route maps) of the telecommunications installations, installations for radiocommunications and telecommunications nodes and exchanges provided under this license and any other details concerning the Network as may be reasonably required by the Authority, including but not limited to information from operational support systems, traffic flow information, and database information relating to the manner in which the Network treats calls of a particular kind (“Network Information”).
 
       - (2) As required by the Authority, the licensee shall make the Network Information available, within reasonable time, to the Authority or to a person authorized in writing by the Authority for inspection for the Authority’s own purposes.
 
@@ -3094,7 +3082,7 @@ CONDITIONS
 
       - (4) The licensee shall, at the request of the Director of Highways, the Director of Lands, the Authority or any person who intends to undertake works in the vicinity of the Network and who is authorized to do so by the Director of Highways, the Director of Lands or the Authority, provide free of charge information about the location of the Network in diagrammatic or other form. The licensee shall make trained staff available on site to indicate the location and nature of the Network to the Director of Highways, the Director of Lands, the Authority or any person authorized by the Director of Highways, the Director of Lands or the Authority.
 
-      - (5) The licensee shall mark or otherwise identify every wire laid or telecommunication installation installed by the licensee or any Contractor on its behalf throughout the course of the wire, or at the location of the installation, so as to distinguish it from any other wire or telecommunication installation laid or installed in Hong Kong.
+      - (5) The licensee shall mark or otherwise identify every wire laid or telecommunications installation installed by the licensee or any Contractor on its behalf throughout the course of the wire, or at the location of the installation, so as to distinguish it from any other wire or telecommunications installation laid or installed in Hong Kong.
 
       - (6) The licensee shall provide, at such intervals as the Authority may determine, distinguishable surface markers of the underground position of the Network. Changes to the Network
 
@@ -3106,9 +3094,9 @@ CONDITIONS
 
       - (3) The licensee shall not, without the prior consent in writing of the Authority, make any material changes which might reasonably be anticipated by the licensee to affect—
 
-        - (a) any telecommunication service or installation connected to the Network;
+        - (a) any telecommunications service or installation connected to the Network;
 
-        - (b) a person producing or supplying telecommunication apparatus for connection to the Network;
+        - (b) a person producing or supplying telecommunications apparatus for connection to the Network;
 
         - (c) a licensee under the Ordinance;
 
@@ -3118,11 +3106,11 @@ CONDITIONS
 
         - (f) a customer or a consumer of goods and services provided by any person or entity,
 
-      - if the change is in the opinion of the Authority likely to require modifications or replacements to, or cessation in the production or supply of any of the telecommunication apparatus involved, or if the proposed alteration would require substantial Network reconfiguration or rerouting.
+      - if the change is in the opinion of the Authority likely to require modifications or replacements to, or cessation in the production or supply of any of the telecommunications apparatus involved, or if the proposed alteration would require substantial Network reconfiguration or rerouting.
 
       - (4) The licensee shall prepare and publish, after consultation with the Authority, its procedures for consulting with and giving notice to persons likely to be affected materially by changes to its Network which are required to be notified in accordance with paragraph (2) and any other changes required to be notified pursuant to any technical standard which the Authority has power to issue. Subject to approval of the Authority, the notification procedures to each of the classes of persons likely to be affected under paragraph (3) may differ having regard to the practicality and costs of notifying them. Requirements for road opening
 
-    - 30. The licensee shall co-ordinate and co-operate with any other fixed telecommunication network services licensee under the Ordinance, the Hong Kong Telephone Company Limited and any other authorized person in respect of road openings and shall, after being consulted by the Authority, comply with any guidelines issued by the Authority. Provision, use and sharing of certain facilities
+    - 30. The licensee shall co-ordinate and co-operate with any other fixed telecommunications network services licensee under the Ordinance, the Hong Kong Telephone Company Limited and any other authorized person in respect of road openings and shall, after being consulted by the Authority, comply with any guidelines issued by the Authority. Provision, use and sharing of certain facilities
 
     - 31.
 
@@ -3144,7 +3132,7 @@ CONDITIONS
 
         - (g) the costs, time penalties and inconvenience to the licensees and the public of the alternatives to the shared provision and use of the facility.
 
-  - (3) Where a fixed telecommunication network service licensee, the Hong Kong Telephone Company Limited or another person authorized by the Authority reasonably requests to share a facility, the licensee shall endeavour to come to an agreement with the requesting party on the terms and conditions, including but not limited to providing for fair compensation to the licensee for the provision, use or sharing of any such facility. If an agreement cannot be reached within a reasonable time and the Authority requires sharing pursuant to paragraph (1), the terms and conditions shall be determined by the Authority.
+  - (3) Where a fixed telecommunications network service licensee, the Hong Kong Telephone Company Limited or another person authorized by the Authority reasonably requests to share a facility, the licensee shall endeavour to come to an agreement with the requesting party on the terms and conditions, including but not limited to providing for fair compensation to the licensee for the provision, use or sharing of any such facility. If an agreement cannot be reached within a reasonable time and the Authority requires sharing pursuant to paragraph (1), the terms and conditions shall be determined by the Authority.
 
   - (4)
 
@@ -3158,7 +3146,7 @@ CONDITIONS
 
         - (d) reasonable space within the licensee’s, or the Hong Kong Telephone Company Limited’s, exchange buildings or other sites for the purposes of locating equipment of another licensee required to establish interconnection between the licensee’s and that other licensee’s or the Hong Kong Telephone Company Limited’s network at that exchange or site;
 
-        - (e) other telecommunication or ancillary installations, including the in-building risers, cable trays and cable entry points into buildings, reasonably necessary for the efficient provision and establishment of fixed telecommunication networks. Requirements of installation of lines or cables
+        - (e) other telecommunications or ancillary installations, including the in-building risers, cable trays and cable entry points into buildings, reasonably necessary for the efficient provision and establishment of fixed telecommunications networks. Requirements of installation of lines or cables
 
     - 32.
 
@@ -3172,7 +3160,7 @@ CONDITIONS
 
         - public buildings and trees
 
-    - 33. No part of the Network shall be attached to any Government building except with the prior written consent of the Government Property Administrator or to any Urban Council or Regional Council building except with the prior written consent of the Director of Urban Services or the Director of Regional Services, or to any tree on any Government land except with the prior written consent of the Director of Agriculture, Fisheries and Conservation, the Director of Urban Services or the Director of Regional Services. (L.N. 331 of 1999) Works in public streets
+    - 33. No part of the Network shall be attached to any Government building except with the prior written consent of the Government Property Administrator or to any Urban Council or Regional Council building except with the prior written consent of the Director of Urban Services or the Director of Regional Services, or to any tree on any Government land except with the prior written consent of the Director of Agriculture, Fisheries and Conservation, the Director of Urban Services or the Director of Regional Services. Works in public streets
 
     - 34.
 
@@ -3194,7 +3182,7 @@ CONDITIONS
 
     - 35.
 
-      - (1) Where in the course of installing or maintaining the Network, the licensee after obtaining the approval of the Director of Highways breaks up or opens any public street it shall not remove, displace or interfere with any telecommunication line, any gas pipe or water pipe or main or any drain or sewer or any tube, casing, duct, wire or cable for the carriage of electrical current and ancillary installations installed by any other person without that other person’s consent.
+      - (1) Where in the course of installing or maintaining the Network, the licensee after obtaining the approval of the Director of Highways breaks up or opens any public street it shall not remove, displace or interfere with any telecommunications line, any gas pipe or water pipe or main or any drain or sewer or any tube, casing, duct, wire or cable for the carriage of electrical current and ancillary installations installed by any other person without that other person’s consent.
 
       - (2) In the case where the other person holds a licence under the Land (Miscellaneous Provisions) Ordinance (Cap. 28), any consent referred to in paragraph (1) is refused, or cannot be obtained for any reason, the licensee may request the consent to proceed from the relevant authority in accordance with the terms of any licence issued to such other person under the Land (Miscellaneous Provisions) Ordinance (Cap. 28), if any. Prohibition of claims against Government
 
@@ -3204,33 +3192,31 @@ CONDITIONS
 
       - (1) The licensee shall, within such reasonable time and in such manner as may be directed by notice in writing by the Director of Highways or the Director of Lands, and at its own expense, alter the course, depth position or mode of attachment of any apparatus forming part of the Network.
 
-      - (2) Where the Director of Highways or the Director of Lands gives a direction under paragraph (1), General Condition 34 shall apply as if such alteration were part of the installation or maintenance of the Network. Requirements of telecommunication installations
+      - (2) Where the Director of Highways or the Director of Lands gives a direction under paragraph (1), General Condition 34 shall apply as if such alteration were part of the installation or maintenance of the Network. Requirements of telecommunications installations
 
-      - for radiocommunication
+      - for radiocommunications
 
     - 38.
 
-      - (1) Each telecommunication installation for radiocommunication operated by or on behalf of the licensee shall be used only at the location and with emissions and at the frequencies and of the classes and characteristics specified in Schedule 3 and with such power and aerial characteristics as are specified in that Schedule in relation to the class and characteristics of the emission in use.
+      - (1) Each telecommunications installation for radiocommunications operated by or on behalf of the licensee shall be used only at the location and with emissions and at the frequencies and of the classes and characteristics specified in Schedule 3 and with such power and aerial characteristics as are specified in that Schedule in relation to the class and characteristics of the emission in use.
 
-      - (2) The apparatus comprised in each telecommunication installation for radiocommunication shall at all times comply with such technical standards as may be issued by the Authority.
+      - (2) The apparatus comprised in each telecommunications installation for radiocommunications shall at all times comply with such technical standards as may be issued by the Authority.
 
-      - (3) The apparatus comprised in a telecommunication installation for radiocommunication shall be of a type approved by the Authority and shall be so designed, constructed, maintained and operated that its use shall not cause any interference to any radiocommunication.
+      - (3) The apparatus comprised in a telecommunications installation for radiocommunications shall be of a type approved by the Authority and shall be so designed, constructed, maintained and operated that its use shall not cause any interference to any radiocommunications.
 
-      - (4) A telecommunication installation for radiocommunication shall be operated only by the licensee or a person authorized by the licensee. The licensee shall not allow an unauthorized person to have access to the apparatus comprised in a telecommunication installation for radiocommunication. The licensee shall ensure that persons operating each telecommunication installation for radiocommunication shall at all times observe the conditions of this licence.
+      - (4) A telecommunications installation for radiocommunications shall be operated only by the licensee or a person authorized by the licensee. The licensee shall not allow an unauthorized person to have access to the apparatus comprised in a telecommunications installation for radiocommunications. The licensee shall ensure that persons operating each telecommunications installation for radiocommunications shall at all times observe the conditions of this licence.
 
       - (5) The licensee shall not make a change—
 
-        - (a) to any telecommunication installation for radiocommunication; or
+        - (a) to any telecommunications installation for radiocommunications; or
 
-        - (b) of the location of any installed telecommunication installation for radiocommunication, without the prior approval in writing of the Authority.
+        - (b) of the location of any installed telecommunications installation for radiocommunications,
 
-  - (6)
+      - without the prior approval in writing of the Authority.
 
-  - If any telecommunication installation or radiocommunication aerial crosses above or may fall or be blown onto any overhead power wire (including electric lighting and tramway wires) or power apparatus it shall be guarded to the reasonable satisfaction of the owner of the power wire or power apparatus concerned.
+      - (6) If any telecommunications installation or radiocommunications aerial crosses above or may fall or be blown onto any overhead power wire (including electric lighting and tramway wires) or power apparatus it shall be guarded to the reasonable satisfaction of the owner of the power wire or power apparatus concerned. Use of frequencies
 
-  - Use of frequencies
-
-    - 39. The telecommunication installations for radiocommunication operated by or on behalf of the licensee shall only be operated on such radio frequencies as the Authority may assign. The Authority may by notice require the licensee to cease operating the telecommunication installations for radiocommunication on any frequency assigned to the licensee if in the opinion of the Authority, the licensee is not making efficient use of that portion of the radio frequency spectrum. Safety
+    - 39. The telecommunications installations for radiocommunications operated by or on behalf of the licensee shall only be operated on such radio frequencies as the Authority may assign. The Authority may by notice require the licensee to cease operating the telecommunications installations for radiocommunications on any frequency assigned to the licensee if in the opinion of the Authority, the licensee is not making efficient use of that portion of the radio frequency spectrum. Safety
 
     - 40.
 
@@ -3272,31 +3258,31 @@ CONDITIONS
 
       - (3) If the Authority, after considering a report provided under paragraph (2), is of the reasonable belief that the licensee would be able to provide the Service within a reasonable period of time despite the circumstances outlined in that report the Authority may direct that the licensee recommence the Service within such reasonable period as the Authority may in writing direct. The licensee shall comply with such direction. Applicability of certain conditions
 
-    - 44. Where the Authority forms the opinion that a licensee is not in a dominant position with respect to any market for telecommunicaiton services provided under the licence within the meaning of General Condition 16(2), the Authority may by direction in writing, for such period and on such conditions as the Authority may determine, direct that either one or any combination of General Conditions 17, 20, 21, 22 and 23, either completely or as to particular obligations imposed thereunder, shall not apply to the licensee. Publication of licence
+    - 44. Where the Authority forms the opinion that a licensee is not in a dominant position with respect to any market for telecommunications services provided under the licence within the meaning of General Condition 16(2), the Authority may by direction in writing, for such period and on such conditions as the Authority may determine, direct that either one or any combination of General Conditions 17, 20, 21, 22 and 23, either completely or as to particular obligations imposed thereunder, shall not apply to the licensee. Publication of licence
 
     - 45. The licensee, or the Authority, may at their discretion make the terms and conditions of this licence, including any specific conditions, publicly available in any manner they think fit. SPECIAL CONDITIONS [Special conditions may be specified by the Authority on the grant or renewal of this licence.] SCHEDULE 1 SCOPE OF THE SERVICE SCHEDULE 2 DESCRIPTION OF NETWORK SCHEDULE 3 TECHNICAL PARTICULARS OF RADIO STATIONS FOR
 
     - THE PROVISION OF THE SERVICE
 
-- (L.N. 133 of 1995; 29 of 1998 ss. 24 & 105; L.N. 331 of 1999)
+- (L.N. 133 of 1995; 29 of 1998 ss. 24 & 105; L.N. 331 of 1999; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
-- (Chapter 106) SELF-PROVIDED EXTERNAL TELECOMMUNICATION SYSTEM LICENCE
+- (Chapter 106) SELF-PROVIDED EXTERNAL TELECOMMUNICATIONS SYSTEM LICENCE
 
   - DATE OF ISSUE:
 
   - .of .
 
-  - (hereinafter called “the Licensee”) is hereby licensed, subject to the conditions herein contained, to possess, establish and maintain a telecommunication system (hereinafter called “the System”) described in Schedule 1 and Schedule 2 and to use the System for transmitting messages
+  - (hereinafter called “the Licensee”) is hereby licensed, subject to the conditions herein contained, to possess, establish and maintain a telecommunications system (hereinafter called “the System”) described in Schedule 1 and Schedule 2 and to use the System for transmitting messages
 
   - or receiving messages, or both, as set out in the conditions attached to this licence.
 
   - CONDITIONS
 
-    - 1. This licence does not authorize the Licensee to use the System for the operation of a public telecommunication service.
+    - 1. This licence does not authorize the Licensee to use the System for the operation of a public telecommunications service.
 
-    - 2. This licence does not authorize the Licensee to do anything which infringes any exclusive right to provide telecommunication or telephone services granted under any Ordinance.
+    - 2. This licence does not authorize the Licensee to do anything which infringes any exclusive right to provide telecommunications or telephone services granted under any Ordinance.
 
     - 3. Subject to paragraph 4, the Licensee shall only use the System for carriage of, in the case of—
 
@@ -3342,11 +3328,11 @@ CONDITIONS
 
         - In this licence, “organization” (組織) means a group of persons, businesses or companies engaged in a common business or activity which group was formed for the specific purpose of furthering such common business or activity, and the Authority shall determine the types of messages that relate to the common business or activity having regard to the objects as stated in the organization’s memorandum and articles of association or other relevant documents relating to its establishment.
 
-    - 5. The Licensee shall not connect the System with any public telecommunication network in Hong Kong except for the use of circuits as specified in Schedule 1 for relaying messages between the System and the Licensee’s premises, and such connection shall be done in accordance with conditions specified by the Authority.
+    - 5. The Licensee shall not connect the System with any public telecommunications network in Hong Kong except for the use of circuits as specified in Schedule 1 for relaying messages between the System and the Licensee’s premises, and such connection shall be done in accordance with conditions specified by the Authority.
 
     - 6. The Licensee shall at all times comply with the requirements of—
 
-      - (a) the International Telecommunication Convention and the regulations and recommendations annexed to it;
+      - (a) the Constitution and Convention of the International Telecommunication Union and the regulations and recommendations annexed to it;
 
       - (b) the provisions of the ITU-R and ITU-T Recommendations made by the International Telecommunication Union that are applicable to Hong Kong; and
 
@@ -3358,15 +3344,15 @@ CONDITIONS
 
     - 9. The Licensee shall indemnify the Government against any losses, claims, charges, expenses, actions, damages or demands which the Government incurs or which may be made against the Government as a result of or in relation to the activities of the Licensee or any employee, agent or contractor of the Licensee in relation to the installation, maintenance and operation of the System.
 
-    - 10. The Licensee shall furnish to the Authority, in such manner and at such times as the Authority may request in writing, such information and accounts as he may reasonably require to perform his functions under the Telecommunication Ordinance (Cap. 106) and this licence.
+    - 10. The Licensee shall furnish to the Authority, in such manner and at such times as the Authority may request in writing, such information and accounts as he may reasonably require to perform his functions under the Telecommunications Ordinance (Cap. 106) and this licence.
 
     - 11.
 
-      - (1) The Licensee shall permit the Authority and any person authorized by him in writing to enter any of the Licensee’s offices or premises where telecommunication equipment is installed to inspect any of the telecommunication equipment or to monitor traffic carried by the equipment for the purpose of verifying whether the Licensee is running the System in accordance with this licence.
+      - (1) The Licensee shall permit the Authority and any person authorized by him in writing to enter any of the Licensee’s offices or premises where telecommunications equipment is installed to inspect any of the telecommunications equipment or to monitor traffic carried by the equipment for the purpose of verifying whether the Licensee is running the System in accordance with this licence.
 
       - (2) The Licensee shall afford to the Authority all facilities for—
 
-        - (a) examining or testing its telecommunication equipment and inspecting offices or facilities used or to be used under this licence; and
+        - (a) examining or testing its telecommunications equipment and inspecting offices or facilities used or to be used under this licence; and
 
         - (b) monitoring the traffic carried by the licensed equipment and facilities,
 
@@ -3374,7 +3360,7 @@ CONDITIONS
 
     - (3) The Authority may from time to time require the Licensee to demonstrate that the System complies with—
 
-      - (a) this licence, the Telecommunication Ordinance (Cap. 106) and the Telecommunication Regulations (Cap. 106 sub. leg.); and
+      - (a) this licence, the Telecommunications Ordinance (Cap. 106) and the Telecommunications Regulations (Cap. 106 sub. leg.); and
 
       - (b) any technical standards, specifications, codes of practice, directions determinations or orders issued by the Authority from time to time.
 
@@ -3412,27 +3398,27 @@ CONDITIONS
 
     - 16.
 
-      - (1) Each telecommunication installation for radiocommunication operated by or on behalf of the Licensee shall be used only at the location and with emissions at the frequencies and of the classes and characteristics (including aerial characteristics), and with such power or power density, as specified in Schedule 2.
+      - (1) Each telecommunications installation for radiocommunications operated by or on behalf of the Licensee shall be used only at the location and with emissions at the frequencies and of the classes and characteristics (including aerial characteristics), and with such power or power density, as specified in Schedule 2.
 
-    - (2) The apparatus comprised in each telecommunication installation for radiocommunication shall at all times comply with such technical and performance standards as may be specified by the Authority.
+    - (2) The apparatus comprised in each telecommunications installation for radiocommunications shall at all times comply with such technical and performance standards as may be specified by the Authority.
 
-    - (3) The apparatus comprised in a telecommunication installation for radiocommunication shall be of a type approved by the Authority and be so designed, constructed, maintained and operated that its use does not cause any avoidable and harmful interference with any other means of telecommunications.
+    - (3) The apparatus comprised in a telecommunications installation for radiocommunications shall be of a type approved by the Authority and be so designed, constructed, maintained and operated that its use does not cause any avoidable and harmful interference with any other means of telecommunications.
 
       - (4) The Licensee—
 
         - (a) shall not make any change—
 
-          - (i) in any telecommunication installation for radiocommunication; or
+          - (i) in any telecommunications installation for radio communication; or
 
-          - (ii) in the location of any installed telecommunication installation for radiocommunication, without the prior approval in writing of the Authority; and
+          - (ii) in the location of any installed telecommunications installation for radiocommunications, without the prior approval in writing of the Authority; and
 
-    - (b) shall return this licence to the Authority for amendment when a change referred to in sub-subparagraph (a) has been effected. SCHEDULE 1 The following telecommunication installation for radiocommunication and/or wireline communication is authorized to be established and maintained by the Licensee— SCHEDULE 2 Technical particulars of the radiocommunication apparatus comprised in the System as follows—
+    - (b) shall return this licence to the Authority for amendment when a change referred to in sub-subparagraph (a) has been effected. SCHEDULE 1 The following telecommunications installation for radiocommunications and/or wireline communication is authorized to be established and maintained by the Licensee— SCHEDULE 2 Technical particulars of the radiocommunications apparatus comprised in the System as follows—
 
-- (L.N. 291 of 1995; 29 of 1998 s. 105)
+- (L.N. 291 of 1995; 29 of 1998 s. 105; 36 of 2000 s. 28)
 
-- TELECOMMUNICATION ORDINANCE
+- TELECOMMUNICATIONS ORDINANCE
 
-- (Chapter 106) SELF-PROVIDED EXTERNAL TELECOMMUNICATION SYSTEM
+- (Chapter 106) SELF-PROVIDED EXTERNAL TELECOMMUNICATIONS SYSTEM
 
 - (SHORT TERM) LICENCE
 
@@ -3446,13 +3432,13 @@ CONDITIONS
 
   - (hereinafter called “the Licensee”) is hereby licensed, subject to the conditions herein contained—
 
-    - (a) to possess, establish and maintain a telecommunication system (hereinafter called “the System”) described in Schedule 1 and Schedule 2; and to use the System for transmitting messages or receiving messages, or both, as set out in the conditions attached to this licence; and
+    - (a) to possess, establish and maintain a telecommunications system (hereinafter called “the System”) described in Schedule 1 and Schedule 2; and to use the System for transmitting messages or receiving messages, or both, as set out in the conditions attached to this licence; and
 
-    - (b) to possess, establish and maintain the ancillary and associated telecommunication installations (hereinafter called “the Ancillary Installations”) described in Schedule 3; and to use the Ancillary Installations in accordance with the conditions attached to this licence and Schedule 3. CONDITIONS
+    - (b) to possess, establish and maintain the ancillary and associated telecommunications installations (hereinafter called “the Ancillary Installations”) described in Schedule 3; and to use the Ancillary Installations in accordance with the conditions attached to this licence and Schedule 3. CONDITIONS
 
-    - 1. This licence does not authorize the Licensee to use the System or the Ancillary Installations for the operation of a public telecommunication service or a satellite broadcasting service.
+    - 1. This licence does not authorize the Licensee to use the System or the Ancillary Installations for the operation of a public telecommunications service or a satellite broadcasting service.
 
-    - 2. This licence does not authorize the Licensee to do anything which infringes any exclusive right to provide telecommunication or telephone services granted under any Ordinance.
+    - 2. This licence does not authorize the Licensee to do anything which infringes any exclusive right to provide telecommunications or telephone services granted under any Ordinance.
 
     - 3. Subject to paragraph 4, the Licensee shall only use the System for carriage of, in the case of—
 
@@ -3498,11 +3484,11 @@ CONDITIONS
 
         - In this licence, “organization” (組織) means a group of persons, businesses or companies engaged in a common business or activity which group was formed for the specific purpose of furthering such common business or activity, and the Authority shall determine the types of messages that relate to the common business or activity having regard to the objects as stated in the organization’s memorandum and articles of association or other relevant documents relating to its establishment.
 
-    - 5. The Licensee shall not connect the System or the Ancillary Installations with any public telecommunication network in Hong Kong except for the use of circuits as specified in Schedule 1 for relaying messages between the System and the Licensee’s premises, and such connection shall be done in accordance with conditions specified by the Authority.
+    - 5. The Licensee shall not connect the System or the Ancillary Installations with any public telecommunications network in Hong Kong except for the use of circuits as specified in Schedule 1 for relaying messages between the System and the Licensee’s premises, and such connection shall be done in accordance with conditions specified by the Authority.
 
     - 6. The Licensee shall at all times comply with the requirements of—
 
-      - (a) the International Telecommunication Convention and the regulations and recommendations annexed to it;
+      - (a) the Constitution and Convention of the International Telecommunication Union and the regulations and recommendations annexed to it;
 
       - (b) the provisions of the ITU-R and ITU-T Recommendations made by the International Telecommunication Union that are applicable to Hong Kong; and
 
@@ -3514,15 +3500,15 @@ CONDITIONS
 
     - 9. The Licensee shall indemnify the Government against any losses, claims, charges, expenses, actions, damages or demands which the Government incurs or which may be made against the Government as a result of or in relation to the activities of the Licensee or any employee, agent or contractor of the Licensee in relation to the installation, operation and maintenance of the System and the Ancillary Installations.
 
-    - 10. The Licensee shall furnish to the Authority, in such manner and at such times as the Authority may request in writing, such information and accounts as he may reasonably require to perform his functions under the Telecommunication Ordinance (Cap. 106) and this licence.
+    - 10. The Licensee shall furnish to the Authority, in such manner and at such times as the Authority may request in writing, such information and accounts as he may reasonably require to perform his functions under the Telecommunications Ordinance (Cap. 106) and this licence.
 
     - 11.
 
-      - (1) The Licensee shall permit the Authority and any person authorized by him in writing to enter any of the Licensee’s offices or premises where telecommunication equipment is installed to inspect any of the telecommunication equipment or to monitor traffic carried by the equipment for the purpose of verifying whether the Licensee is running the System and the Ancillary Installations in accordance with this licence.
+      - (1) The Licensee shall permit the Authority and any person authorized by him in writing to enter any of the Licensee’s offices or premises where telecommunications equipment is installed to inspect any of the telecommunications equipment or to monitor traffic carried by the equipment for the purpose of verifying whether the Licensee is running the System and the Ancillary Installations in accordance with this licence.
 
       - (2) The Licensee shall afford to the Authority all facilities for—
 
-        - (a) examining or testing its telecommunication equipment and inspecting offices or facilities used or to be used under this licence; and
+        - (a) examining or testing its telecommunications equipment and inspecting offices or facilities used or to be used under this licence; and
 
         - (b) monitoring the traffic carried by the licensed equipment and facilities,
 
@@ -3530,9 +3516,9 @@ CONDITIONS
 
     - (3) The Authority may from time to time require the Licensee to demonstrate that the System and the Ancillary Installations comply with—
 
-    - (a) this licence, the Telecommunication Ordinance (Cap. 106) and the Telecommunication Regulations (Cap. 106 sub. leg.); and
+      - (a) this licence, the Telecommunications Ordinance (Cap. 106) and the Telecommunications Regulations (Cap. 106 sub. leg.); and
 
-    - (b) any technical standards, specifications, codes of practice, directions, determinations or orders issued by the Authority from time to time.
+      - (b) any technical standards, specifications, codes of practice, directions, determinations or orders issued by the Authority from time to time.
 
     - 12. The Licensee shall permit the Authority or an officer authorized by him in writing to inspect and make copies of records, documents and accounts relating to the Licensee’s business for the purpose of confirming that the Licensee is complying with this licence.
 
@@ -3556,29 +3542,43 @@ CONDITIONS
 
     - 16.
 
-      - (1) Each telecommunication installation for radiocommunication operated by or on behalf of the Licensee shall be used only at the location and with emissions at the frequencies and of the classes and characteristics (including aerial characteristics), and with such power or power density, as specified in Schedule 2.
+      - (1) Each telecommunications installation for radiocommunications operated by or on behalf of the Licensee shall be used only at the location and with emissions at the frequencies and of the classes and characteristics (including aerial characteristics), and with such power or power density, as specified in Schedule 2.
 
-      - (2) The apparatus comprised in each telecommunication installation for radiocommunication shall at all times comply with such technical and performance standards as may be specified by the Authority.
+      - (2) The apparatus comprised in each telecommunications installation for radiocommunications shall at all times comply with such technical and performance standards as may be specified by the Authority.
 
-      - (3) The apparatus comprised in a telecommunication installation for radiocommunication shall be of a type approved by the Authority and be so designed, constructed, maintained and operated that its use does not cause any avoidable and harmful interference with any other means of telecommunications.
+      - (3) The apparatus comprised in a telecommunications installation for radiocommunications shall be of a type approved by the Authority and be so designed, constructed, maintained and operated that its use does not cause any avoidable and harmful interference with any other means of telecommunications.
 
       - (4) The Licensee—
 
         - (a) shall not make any change—
 
-          - (i) in any telecommunication installation for radiocommunication; or
+          - (i) in any telecommunications installation for radiocommunications; or
 
-          - (ii) in the location of any installed telecommunication installation for radiocommunication, without the prior approval in writing of the Authority; and
+          - (ii) in the location of any installed telecommunications installation for radiocommunications,
 
-    - (b) shall return this licence to the Authority for amendment when a change referred to in sub-subparagraph (a) has been effected. SCHEDULE 1 The following telecommunication installation for radiocommunication and/or wireline communication is authorized to be established and maintained by the Licensee— SCHEDULE 2 Technical particulars of the radiocommunication apparatus comprised in the System as follows— SCHEDULE 3 The following ancillary or associated telecommunication installations for radiocommunication and/or wireline communication are authorized to be established, maintained and used by the Licensee— .
+        - without the prior approval in writing of the Authority; and
 
-    - For the Telecommunications Authority.
+        - (b) shall return this licence to the Authority for amendment when a change referred to in sub-subparagraph (a) has been effected. SCHEDULE 1
 
-- (L.N. 28 of 1997; 29 of 1998 s. 105)
+      - The following telecommunications installation for radiocommunications and/or wireline communication is authorized to be established and maintained by the Licensee—
 
-- TELECOMMUNICATION ORDINANCE
+      - SCHEDULE 2
 
-- (Chapter 106) PUBLIC RADIOCOMMUNICATION SERVICE LICENCE
+      - Technical particulars of the radiocommunications apparatus comprised in the System as follows—
+
+      - SCHEDULE 3
+
+      - The following ancillary or associated telecommunications installations for radiocommunications and/or wireline communication are authorized to be established, maintained and used by the Licensee—
+
+      - .
+
+      - For the Telecommunications Authority.
+
+- (L.N. 28 of 1997; 29 of 1998 s. 105; 36 of 2000 s. 28)
+
+- TELECOMMUNICATIONS ORDINANCE
+
+- (Chapter 106) PUBLIC RADIOCOMMUNICATIONS SERVICE LICENCE
 
 - (FOR SERVICES OTHER THAN LAND MOBILE SERVICES)
 
@@ -3596,11 +3596,11 @@ CONDITIONS
 
   - (“the licensee”) is licensed, subject to the conditions set out in this licence—
 
-    - (a) to provide a public radiocommunication service (“the Service”) described in Schedule 1;
+    - (a) to provide a public radiocommunications service (“the Service”) described in Schedule 1;
 
-    - (b) to establish, maintain, possess and use the radiocommunication apparatus described in Schedule 2 to provide the Service; and
+    - (b) to establish, maintain, possess and use the radiocommunications apparatus described in Schedule 2 to provide the Service; and
 
-    - (c) to deal in and demonstrate with a view to sale in the course of trade or business, such apparatus or material for radiocommunication as may be necessary to supply customers of the Service. GENERAL CONDITIONS
+    - (c) to deal in and demonstrate with a view to sale in the course of trade or business, such apparatus or material for radiocommunications as may be necessary to supply customers of the Service. GENERAL CONDITIONS
 
     - 1. This licence shall not be construed as granting any exclusive rights to the licensee in the provision of the Service.
 
@@ -3612,7 +3612,7 @@ CONDITIONS
 
     - 5.
 
-      - (1) Notwithstanding regulation 8(1) of the Telecommunication Regulations (Cap. 106 sub. leg.), the licensee may with the prior written consent of the Authority transfer this licence and any permission, right or benefit under this licence.
+      - (1) Notwithstanding regulation 8(1) of the Telecommunications Regulations (Cap. 106 sub. leg.), the licensee may with the prior written consent of the Authority transfer this licence and any permission, right or benefit under this licence.
 
       - (2) The consent of the Authority shall be subject to such conditions as the Authority thinks fit.
 
@@ -3624,7 +3624,7 @@ CONDITIONS
 
       - (2) The apparatus comprised in each land station or land earth station shall at all times comply with the technical and performance standards as may be prescribed by the Authority and specified in Schedule 2.
 
-      - (3) The apparatus comprised in each land station or land earth station or mobile station or mobile earth station (being a mobile station or mobile earth station used by the customer of the licensee) shall be so designed, constructed, maintained and operated that its use does not cause any avoidable interference with any radiocommunication.
+      - (3) The apparatus comprised in each land station or land earth station or mobile station or mobile earth station (being a mobile station or mobile earth station used by the customer of the licensee) shall be so designed, constructed, maintained and operated that its use does not cause any avoidable interference with any radiocommunications.
 
       - (4) Each land station or land earth station shall be operated only by the licensee or a person authorized by the licensee in that behalf. The licensee shall not permit or suffer any person not so authorized to have access to the apparatus comprised in each land station and land earth station. The licensee shall ensure that persons operating each land station or land earth station observe the conditions of the licence at all times.
 
@@ -3644,13 +3644,13 @@ CONDITIONS
 
   - (7) If any land station or land earth station aerial crosses above or may fall or be blown onto any overhead power wire (including electric lighting and tramway wires) or power apparatus it shall be guarded to the reasonable satisfaction of the owner of the power apparatus concerned.
 
-  - (8) The licensee shall take all reasonable measures to ensure that customers of the Service do not cause interference to other users of radiocommunication and shall take all the necessary measures to stop such interference as may occur.
+  - (8) The licensee shall take all reasonable measures to ensure that customers of the Service do not cause interference to other users of radiocommunications and shall take all the necessary measures to stop such interference as may occur.
 
     - 7. The apparatus operated by the licensee shall be operated only on such radio frequencies as the Authority may assign to the licensee and the Authority may refuse to assign further frequencies or require the licensee, by notice to him, to cease to operate the apparatus on any frequency previously assigned to him if in the opinion of the Authority the licensee is not making efficient use of that frequency.
 
     - 8. The Authority may, by giving not less than 12 months’ notice in writing to the licensee, require him upon such date as may be specified in the notice to cease using any frequency previously assigned to him by the Authority and to use such new frequency as the Authority may designate.
 
-    - 9. The licensee shall not enter into any agreement or arrangement whether legally enforceable or not which shall in any way prevent or restrict competition in relation to the operation of the Service or any other telecommunication service licensed by the Authority.
+    - 9. The licensee shall not enter into any agreement or arrangement whether legally enforceable or not which shall in any way prevent or restrict competition in relation to the operation of the Service or any other telecommunications service licensed by the Authority.
 
     - 10. In this licence—
 
@@ -3660,7 +3660,7 @@ CONDITIONS
 
       - “station” (電台), “earth station” (地球站), “mobile service” (移動業務), “land mobile service” (陸地移動業務) and “mobile-satellite service” (衞星移動業務) have the same meanings as defined in the Radio Regulations annexed to the Constitution and Convention of the International Telecommunication Union. SPECIAL CONDITIONS (Special conditions may be inserted on the Grant
 
-      - or Extension of this Licence) SCHEDULE 1 DESCRIPTION OF THE PUBLIC RADIOCOMMUNICATION SERVICE SCHEDULE 2 Location
+      - or Extension of this Licence) SCHEDULE 1 DESCRIPTION OF THE PUBLIC RADIOCOMMUNICATIONS SERVICE SCHEDULE 2 Location
 
       - Transmitting Frequencies
 
@@ -3674,4 +3674,4 @@ CONDITIONS
 
       - Other Performance and Technical Standards . For the Telecommunications Authority.
 
-- (L.N. 52 of 1998)
+- (L.N. 52 of 1998; 36 of 2000 s. 28)

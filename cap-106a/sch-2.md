@@ -1,7 +1,5 @@
 # Schedule 2
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2)
-
 [reg. 3]
 
 - PART I
@@ -10,13 +8,13 @@ Item | Examination | Fee
 
 1. | For Special Class certificate of competency in radiotelegraphy . | $ 510
 
-2. | For general certificate of competency in radiotelephony | $ 150
+2. | For general certificate of competency in radiotelephony . | $ 150
 
 3. | For restricted certificate of competency in radiotelephony. | $ 150
 
-4. | For maritime radiocommunication general certificate- Part I . | $ 220 | per paper
+4. | For maritime radiocommunications general certificate-Part I . | $ 220 | per paper (36 of 2000 s. 28)
 
-5. | For maritime radiocommunication general certificate- Part II .l. | $ 510
+5. | For maritime radiocommunications general certificate-Part II . | $ 510 | (36 of 2000 s. 28)
 
 6. | For conversion of valid 1st and 2nd Class certificate of competency-Part I . | $ 220 | per paper
 
@@ -32,7 +30,7 @@ Item | Test | Fee
 
 2. | Revalidation test of holder of 1st, 2nd or Special Class certificates of competency in radiotelegraphy. | $ 510
 
-3. | Re-examination on the subject, “Watchkeeping and Communication” for maritime radiocommunication general certificate . | $ 220
+3. | Re-examination on the subject, “Watchkeeping and Communication” for maritime radiocommunications general certificate . | $ 220 | (36 of 2000 s. 28)
 
 4. | Validation test for holder of— (a) a certificate of competency in radiotelegraphy issued outside Hong Kong; or (b) a GMDSS radio electronic certificate issued outside Hong Kong . | $1,500 | (23 of 1998 s. 2)
 
@@ -48,7 +46,7 @@ Item | Issue of certificate of competency | Fee
 
 3. | Restricted certificate of competency in radiotelephony. | $ 120
 
-4. | Maritime radiocommunication general certificate . | $ 620
+4. | Maritime radiocommunications general certificate . | $ 620 | (36 of 2000 s. 28)
 
 5. | Radio amateur certificate . | $ 120
 

@@ -150,7 +150,7 @@ PART A. GENERAL RULE 1 Application
 
   - (ii) This Rule does not relieve the overtaking vessel of her obligation under Rule 13.
 
-- (f) A vessel nearing a bend or an area of a narrow channel or fairway where othervessels may be obscured by an intervening obstruction shall navigate with particular alertness and caution and shall sound the appropriate signal prescribed in Rule 34(e).
+- (f) A vessel nearing a bend or an area of a narrow channel or fairway where other vessels may be obscured by an intervening obstruction shall navigate with particular alertness and caution and shall sound the appropriate signal prescribed in Rule 34(e).
 
 - (g) Any vessel shall, if the circumstances of the case admit, avoid anchoring in a narrow channel. RULE 10 Traffic separation schemes
 
@@ -200,13 +200,13 @@ PART A. GENERAL RULE 1 Application
 
   - (iii) if a vessel with the wind on the port side sees a vessel to windward and cannot determine with certainty whether the other vessel has the wind on the port or on the starboard side, she shall keep out of the way of the other.
 
-- (b) For the purposes of this Rule the windward side shall be deemed to be the sideopposite to that on which the mainsail is carried or, in the case of a square-rigged vessel, the side opposite to that on which the largest fore-and-aft sail is carried. RULE 13 Overtaking
+- (b) For the purposes of this Rule the windward side shall be deemed to be the side opposite to that on which the mainsail is carried or, in the case of a square-rigged vessel, the side opposite to that on which the largest fore-and-aft sail is carried. RULE 13 Overtaking
 
 - (a) Notwithstanding anything contained in the Rules of Part B, Sections I and II, any vessel overtaking any other shall keep out of the way of the vessel being overtaken.
 
 - (b) A vessel shall be deemed to be overtaking when coming up with another vessel from a direction more than 22.5° abaft her beam, that is, in such a position with reference to the vessel she is overtaking, that at night she would be able to see only the sternlight of that vessel but neither of her sidelights.
 
-- (c) When a vessel is in any doubt as to whether she is overtaking another, she shallassume that this is the case and act accordingly.
+- (c) When a vessel is in any doubt as to whether she is overtaking another, she shall assume that this is the case and act accordingly.
 
 - (d) Any subsequent alteration of the bearing between the 2 vessels shall not make the overtaking vessel a crossing vessel within the meaning of these Rules or relieve her of the duty of keeping clear of the overtaken vessel until she is finally past and clear. RULE 14 Head-on situation
 
@@ -384,7 +384,7 @@ PART A. GENERAL RULE 1 Application
 
   - (iv) a diamond shape at or near the aftermost extremity of the last vessel or object being towed and if the length of the tow exceeds 200 m an additional diamond shape where it can best be seen and located as far forward as is practicable.
 
-- (h) Where from any sufficient cause it is impracticable for a vessel or object being towedto exhibit the lights or shapes prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
+- (h) Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights or shapes prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
 
 - (i) Where from any sufficient cause it is impracticable for a vessel not normally engaged in towing operations to display the lights prescribed in paragraph (a) or (c) of this Rule, such vessel shall not be required to exhibit those lights when engaged in towing another vessel in distress or otherwise in need of assistance. All possible measures shall be taken to indicate the nature of the relationship between the towing vessel and the vessel being towed as authorized by Rule 36, in particular by illuminating the towline. RULE 25 Sailing vessels underway and vessels under oars
 
@@ -462,7 +462,7 @@ PART A. GENERAL RULE 1 Application
 
   - (ii) a rigid replica of the International Code flag “A” not less than 1 m in height. Measures shall be taken to ensure its all-round visibility.
 
-- (f) A vessel engaged in mineclearance operations shall in addition to the lights prescribed for a power-driven vessel in Rule 23 or to the lights or shape prescribed for a vessel at anchor in Rule 30 as appropriate, exhibit 3 all-round green lights or 3 balls. One of these lights or shapes shall be exhibited near the foremast head and one at each end of the fore yard. These lights or shapes indicate that it is dangerous for another vessel to approach within 1 000 m of the mineclearance vessel.
+- (f) A vessel engaged in mine clearance operations shall in addition to the lights prescribed for a power-driven vessel in Rule 23 or to the lights or shape prescribed for a vessel at anchor in Rule 30 as appropriate, exhibit 3 all-round green lights or 3 balls. One of these lights or shapes shall be exhibited near the foremast head and one at each end of the fore yard. These lights or shapes indicate that it is dangerous for another vessel to approach within 1 000 m of the mine clearance vessel.
 
 - (g) Vessels of less than 12 m in length, except those engaged in diving operations, shall not be required to exhibit the lights and shapes prescribed in this Rule.
 
@@ -572,7 +572,7 @@ PART A. GENERAL RULE 1 Application
 
 - (f) The repositioning of sidelights resulting from the prescriptions of paragraphs 2(g) and 3(b) of Annex I to these Regulations, until 9 years after the date of entry into force of these Regulations.
 
-- (g) The requirements for sound signal appliances prescribed in Annex III to theseRegulations, until 9 years after the date of entry into force of these Regulations.
+- (g) The requirements for sound signal appliances prescribed in Annex III to these Regulations until 9 years after the date of entry into force of these Regulations.
 
 - (h) The repositioning of all-round lights resulting from the prescription of paragraph 9(b) of Annex I to these Regulations, permanent exemption. ANNEX I Positioning and technical details of lights and shapes
 
@@ -856,7 +856,7 @@ PART A. GENERAL RULE 1 Application
 
   - (n) signals transmitted by emergency position-indicating radio beacons;
 
-  - (o) approved signals transmitted by radiocommunication systems, including survival craft radar transponders. (L.N. 365 of 1989; L.N. 486 of 1995)
+  - (o) approved signals transmitted by radiocommunications systems, including survival craft radar transponders. (L.N. 365 of 1989; L.N. 486 of 1995; 36 of 2000 s. 28)
 
 - 2. The use or exhibition of any of the foregoing signals except for the purpose of indicating distress and need of assistance and the use of other signals which may be confused with any of the above signals is prohibited.
 

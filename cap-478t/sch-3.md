@@ -8,7 +8,7 @@ PRINCIPLES TO BE OBSERVED IN KEEPING A RADIO WATCH
 
 - Interpretation
 
-  - In this Schedule, “Radio Regulations” (無線電規例) means the Radio Regulations annexed to, or regarded as being annexed to, the most recent International Telecommunication Convention which is in force at any time.
+  - In this Schedule, “Radio Regulations” (無線電規例) means the Radio Regulations annexed to, or regarded as being annexed to, the most recent Constitution and Convention of the International Telecommunication Union which is in force at any time. (36 of 2000 s. 28)
 
 - 2.
 

@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 29 of 1998 s. 105)
-
 [paras. 2 & 3]
 
 - 1. A device with fundamental frequencies less than 3000 GHz shall satisfy at least one of the following conditions—
@@ -74,10 +72,10 @@
 
   - (b) the transmission path does not cross a public street or unleased Government land. (29 of 1998 s. 105)
 
-- 4. The use of the device shall not cause harmful interference with any other authorized telecommunication apparatus or system.
+- 4. The use of the device shall not cause harmful interference with any other authorized telecommunications apparatus or system. (36 of 2000 s. 28)
 
-- 5. The device shall tolerate interference from other authorized telecommunication apparatus or system.
+- 5. The device shall tolerate interference from other authorized telecommunications apparatus or system. (36 of 2000 s. 28)
 
 - 6. The device shall be made available for inspection, if so required, by any person authorized for the purpose by the Authority.
 
-- 7. Any person using the device shall comply with any direction given by the Authority for the purpose of avoiding interference with any other authorized telecommunication apparatus or system.
+- 7. Any person using the device shall comply with any direction given by the Authority for the purpose of avoiding interference with any other authorized telecommunications apparatus or system. (36 of 2000 s. 28)

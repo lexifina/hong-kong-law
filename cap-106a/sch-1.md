@@ -38,13 +38,13 @@
 
 - 12. | Induction Communication . | $ 150
 
-- 13. | Radio Dealers (Restricted) . | $ 750 | or in the case of an auctioneer or pawnbroker,$80.
+- 13. | Radio Dealers (Restricted) . | $ 750 | or in the case of an auctioneer or pawnbroker, $80.
 
 - 14. | Radio Dealers (Unrestricted) . | $1,500
 
 - 15. | Demonstration, Unrestricted . | $ 300
 
-- 16. | Radiocommunication School . | $ 300
+- 16. | Radiocommunications School . | $ 300 | (36 of 2000 s. 28)
 
 - 17. | Amateur Station . | $ 150
 
@@ -74,29 +74,29 @@
 
 - 28. | Hotel Television Services Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 301 of 1989; L.N. 430 of 1990)
 
-- 29. | Public Radiocommunication Service Licence | to be assessed on the basis set out in Part II of this Schedule. (L.N. 430 of 1990)
+- 29. | Public Radiocommunications Service Licence | to be assessed on the basis set out in Part II of this Schedule. (L.N. 430 of 1990; 36 of 2000 s. 28)
 
 - 30. | Satellite Master Antenna Television Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 182 of 1991)
 
-- 31. | Fixed Telecommunication Network Services Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 133 of 1995)
+- 31. | Fixed Telecommunications Network Services Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 133 of 1995; 36 of 2000 s. 28)
 
-- 32. | Self-Provided External Telecommunication System Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 291 of 1995)
+- 32. | Self-Provided External Telecommunications System Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 291 of 1995; 36 of 2000 s. 28)
 
-- 33. | Public Radiocommunication Service Licence (for services other than land mobile services) . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 52 of 1998)
+- 33. | Public Radiocommunications Service Licence (for services other than land mobile services) . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 52 of 1998; 36 of 2000 s. 28)
 
 - PART IA LICENCES THAT MAY BE GRANTED BY AUTHORITY
 
 Item | Licence | Fee
 
-1. | Self-Provided External Telecommunication System (Short Term) Licence | $750
+1. | Self-Provided External Telecommunications System (Short Term) Licence . | $750
 
-(L.N. 28 of 1997)
+(L.N. 28 of 1997; 36 of 2000 s. 28)
 
 - PART II FEES FOR CERTAIN LICENCES
 
 - BROADCAST RELAY STATION LICENCE
 
-  - 1. Subject to paragraph 2, a fee of $360 for every 100 outlet points,or part thereof, shall be payable on the grant of a broadcast relay station licence and on the anniversary of the grant thereof in each year thereafter while the licence continues in force.
+  - 1. Subject to paragraph 2, a fee of $360 for every 100 outlet points, or part thereof, shall be payable on the grant of a broadcast relay station licence and on the anniversary of the grant thereof in each year thereafter while the licence continues in force.
 
   - 2. If, during the period of 12 months after the payment of any such fee—
 
@@ -134,9 +134,9 @@ Item | Licence | Fee
 
   - 3. For the purposes of determining the fees payable under paragraph 2(a) and (b), for the transmitter units and the reception units, the number of units shall be those functioning at the time when the licence is granted or, as the case may be, renewed.
 
-  - 4. For the purposes of determining the fees payable under paragraph 2(a) and (b), the occupied bandwidth shall be that occupied at the time when the licence is granted or, as the case may be, renewed. PUBLIC RADIOCOMMUNICATION SERVICE LICENCE
+  - 4. For the purposes of determining the fees payable under paragraph 2(a) and (b), the occupied bandwidth shall be that occupied at the time when the licence is granted or, as the case may be, renewed. PUBLIC RADIOCOMMUNICATIONS SERVICE LICENCE
 
-  - 1. The annual fee payable on the grant and on the anniversary of the grant of a public radiocommunication service licence in each year while the licence remains in force shall be the sum of—
+  - 1. The annual fee payable on the grant and on the anniversary of the grant of a public radiocommunications service licence in each year while the licence remains in force shall be the sum of—
 
   - (a) for the 1st to the 50th base station installed for the Service | $1,000 per base station
 
@@ -154,7 +154,7 @@ Item | Licence | Fee
 
   - For the purpose of determining the fees payable, the number of stations and the width of the spectrum assigned shall be those authorized or in service at the time when the licence is granted or on the anniversary of the grant.
 
-  - (L.N. 58 of 1999; L.N. 62 of 2000)
+  - (L.N. 58 of 1999; L.N. 62 of 2000; 36 of 2000 s. 28)
 
   - SATELLITE MASTER ANTENNA TELEVISION LICENCE
 
@@ -168,11 +168,13 @@ Item | Licence | Fee
 
   - (L.N. 182 of 1991)
 
-  - FIXED TELECOMMUNICATION NETWORK SERVICES LICENCE
+  - FIXED TELECOMMUNICATIONS NETWORK
 
-  - 1. A fee of $1,000,000 shall be payable on the grant of a fixed telecommunication network services licence and, in each year while the licence remains in force, on the anniversary of the grant of the licence.
+  - SERVICES LICENCE
 
-  - 2. A fee of $700 shall be payable on each anniversary of the grant or the renewal of the licence for each 100 customer connections, made by telecommunication line or radiocommunication means, to the Network established and maintained under Schedule 2 to the licence provided by the licensee.
+  - 1. A fee of $1,000,000 shall be payable on the grant of a fixed telecommunications network services licence and, in each year while the licence remains in force, on the anniversary of the grant of the licence.
+
+  - 2. A fee of $700 shall be payable on each anniversary of the grant or the renewal of the licence for each 100 customer connections, made by telecommunications line or radiocommunications means, to the Network established and maintained under Schedule 2 to the licence provided by the licensee.
 
   - 3. Save as provided in paragraph 4, a fee for use of radio spectrum assigned to the licensee shall be payable on the grant and on each anniversary of the grant of the licence and calculated in accordance with the formula set out below—
 
@@ -194,15 +196,15 @@ Item | Licence | Fee
 
   - 6.765 | - | 6.795 MHz
 
-  - 13.553 | - | 13.567MHz
+  - 13.553 | - | 13.567 MHz
 
-  - 26.957 | - | 27.283MHz
+  - 26.957 | - | 27.283 MHz
 
-  - 40.66 | - | 40.7MHz
+  - 40.66 | - | 40.7 MHz
 
-  - 2400 | - | 2500MHz
+  - 2400 | - | 2500 MHz
 
-  - 5.725 | - | 5.875GHz
+  - 5.725 | - | 5.875 GHz
 
   - 24.0 | - | 24.25 GHz
 
@@ -212,42 +214,46 @@ Item | Licence | Fee
 
   - 244 | - | 246 GHz
 
-  - (L.N. 133 of 1995)
+  - (L.N. 133 of 1995; 36 of 2000 s. 28)
 
-  - SELF-PROVIDED EXTERNAL TELECOMMUNICATION
+  - SELF-PROVIDED EXTERNAL TELECOMMUNICATIONS
 
   - SYSTEM LICENCE
 
   - 1. A fee of $750 shall be payable on the grant or renewal of the licence.
 
-  - 2. If the telecommunication system includes one or more earth stations, the following additional fees, calculated according to the type of earth station, shall be payable on the grant of the licence—
+  - 2.
 
-    - (a) a fee of $6,000 for a Very Small Aperture Terminal (VSAT) earth station that requires radio frequency co-ordination by the Authority;
+    - If the telecommunications system includes one or more earth stations, the following additional fees, calculated according to the type of earth station, shall be payable on the grant of the licence—
 
-    - (b) a fee of $5,000 for a VSAT earth station that does not require radio frequency co-ordination by the Authority;
+      - (a) a fee of $6,000 for a Very Small Aperture Terminal (VSAT) earth station that requires radio frequency co-ordination by the Authority;
 
-    - (c) a fee of $17,000 for an earth station, other than a VSAT earth station, that requires radio frequency co-ordination by the Authority;
+      - (b) a fee of $5,000 for a VSAT earth station that does not require radio frequency co-ordination by the Authority;
 
-    - (d) a fee of $11,000 for an earth station, other than a VSAT earth station, that does not require radio frequency co-ordination by the Authority, and, for the purposes of this paragraph—
+      - (c) a fee of $17,000 for an earth station, other than a VSAT earth station, that requires radio frequency co-ordination by the Authority;
 
-      - “earth station” (地球站) means a station located on the surface of the earth and intended for communication with one or more satellites;
+      - (d) a fee of $11,000 for an earth station, other than a VSAT earth station, that does not require radio frequency co-ordination by the Authority,
+
+    - and, for the purposes of this paragraph—
+
+    - “earth station” (地球站) means a station located on the surface of the earth and intended for communication with one or more satellites;
 
       - “radio frequency co-ordination” (射頻協調) means radio frequency co-ordination as described in Article 11 of the Radio Regulations issued by the International Telecommunication Union;
 
       - “VSAT” (小型衞星通訊地球站) means an earth station with an antenna diameter of less than 4 metres (or having the equivalent surface area if not circular in shape).
 
-  - (L.N. 291 of 1995)
+    - (L.N. 291 of 1995; 36 of 2000 s. 28)
 
-  - PUBLIC RADIOCOMMUNICATION SERVICE
+    - PUBLIC RADIOCOMMUNICATIONS SERVICE LICENCE
 
-  - LICENCE (FOR SERVICES OTHER THAN
+    - (FOR SERVICES OTHER THAN LAND
 
-  - LAND MOBILE SERVICES)
+    - MOBILE SERVICES)
 
-  - 1. The annual fee payable on the grant and on the anniversary of the grant of the public radiocommunication service licence (for services other than land mobile services) in each year while the licence remains in force shall be the sum of—
+  - 1. The annual fee payable on the grant and on the anniversary of the grant of the public radiocommunications service licence (for services other than land mobile services) in each year while the licence remains in force shall be the sum of—
 
     - (a) $50,000 per licence; and
 
     - (b) $1,000 per land station or land earth station operated by the licensee for the Service.
 
-  - (L.N. 52 of 1998) (Part II added L.N. 430 of 1990) (Schedule 1 replaced L.N. 192 of 1988)
+  - (L.N. 52 of 1998; 36 of 2000 s. 28) (Part II added L.N. 430 of 1990) (Schedule 1 replaced L.N. 192 of 1988)

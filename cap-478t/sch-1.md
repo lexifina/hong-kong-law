@@ -78,7 +78,7 @@ PRINCIPLES OF WATCHKEEPING ARRANGEMENTS FOR NAVIGATIONAL WATCH
 
       - (g) the experience of each officer of the navigational watch, and the familiarity of that officer with the ship’s equipment, procedures and manoeuvring capability;
 
-      - (h) the activities taking place on board the ship at any particular time, including radiocommunication activities, and the availability of assistance to be summoned immediately to the bridge when necessary;
+      - (h) the activities taking place on board the ship at any particular time, including radiocommunications activities, and the availability of assistance to be summoned immediately to the bridge when necessary; (36 of 2000 s. 28)
 
       - (i) the operational status of bridge instrumentation and controls, including alarm systems;
 

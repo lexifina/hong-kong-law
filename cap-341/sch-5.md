@@ -72,7 +72,7 @@ Article 1. Scope of application*
 
   - “Arbitration agreement” is an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not. An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement.
 
-- (2) The arbitration agreement shall be in writing. An agreement is in writing if it is contained in a document signed by the parties or in an exchange of letters, telex, telegrams or other means of telecommunication which provide a record of the agreement, or in an exchange of statements of claim and defence in which the existence of an agreement is alleged by one party and not denied by another. The reference in a contract to a document containing an arbitration clause constitutes an arbitration agreement provided that the contract is in writing and the reference is such as to make that clause part of the contract. Note: Section 2AC of this Ordinance applies instead of article 7(2). See subsection (5) of that section. (Added 75 of 1996 s. 17) Article 8. Arbitration agreement and substantive claim before court
+- (2) The arbitration agreement shall be in writing. An agreement is in writing if it is contained in a document signed by the parties or in an exchange of letters, telex, telegrams or other means of telecommunications which provide a record of the agreement, or in an exchange of statements of claim and defence in which the existence of an agreement is alleged by one party and not denied by another. The reference in a contract to a document containing an arbitration clause constitutes an arbitration agreement provided that the contract is in writing and the reference is such as to make that clause part of the contract. (Amended 36 of 2000 s. 28) Note: Section 2AC of this Ordinance applies instead of article 7(2). See subsection (5) of that section. (Added 75 of 1996 s. 17) Article 8. Arbitration agreement and substantive claim before court
 
 - (1) A court before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party so requests not later than when submitting his first statement on the substance of the dispute, refer the parties to arbitration unless it finds that the agreement is null and void, inoperative or incapable of being performed.
 
@@ -262,7 +262,7 @@ Article 1. Scope of application*
 
 (Fifth Schedule added 64 of 1989 s. 25)
 
--
+Editorial Note:
 
 * Article headings are for reference purposes only and are not to be used for purposes of interpretation.
 

@@ -1366,9 +1366,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - In 0C004, ‘boron equivalent’ (BE) is defined as the sum of BEZ for impurities (excluding BEcarbon since carbon is not considered an impurity) including boron, where:
 
-  - BEZ(ppm) = CF×Concentration of element Z in ppm;
-
-  - and σB andσz are the thermal neutron capture cross sections (in barns) for naturally occurring boron and element Z respectively; and AB and AZ are the atomic masses of naturally occurring boron and element Z respectively. 0C005 Specially prepared compounds or powders for the manufacture of gaseous diffusion barriers, resistant to corrosion by UF6 (e.g. nickel or alloy containing 60 weight percent or more nickel, aluminium oxide and fully fluorinated hydrocarbon polymers), having a purity of 99.9 weight percent or more and a mean particle size of less than 10 micrometres measured by American Society for Testing and Materials (ASTM) B330 standard and a high degree of particle size uniformity; 0D SOFTWARE 0D001 “Software” specially designed or modified for the “development”, “production” or “use” of goods controlled by this Category; 0E TECHNOLOGY 0E001 “Technology” according to the Nuclear Technology Note for the “development”, “production” or “use” of goods controlled by this Category;
+  - BEZ(ppm) = CF×Concentration of element Z in ppm; and σB andσz are the thermal neutron capture cross sections (in barns) for naturally occurring boron and element Z respectively; and AB and AZ are the atomic masses of naturally occurring boron and element Z respectively. 0C005 Specially prepared compounds or powders for the manufacture of gaseous diffusion barriers, resistant to corrosion by UF6 (e.g. nickel or alloy containing 60 weight percent or more nickel, aluminium oxide and fully fluorinated hydrocarbon polymers), having a purity of 99.9 weight percent or more and a mean particle size of less than 10 micrometres measured by American Society for Testing and Materials (ASTM) B330 standard and a high degree of particle size uniformity; 0D SOFTWARE 0D001 “Software” specially designed or modified for the “development”, “production” or “use” of goods controlled by this Category; 0E TECHNOLOGY 0E001 “Technology” according to the Nuclear Technology Note for the “development”, “production” or “use” of goods controlled by this Category;
 
 - (L.N. 183 of 1999)
 
@@ -1922,7 +1920,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (3) The total acid or base number is less than 0.40;
 
-  - (e) Autogenous ignition temperature is determined using the method described in ASTM E-659 or national equivalents. 1C007 Ceramic base materials, non-“composite” ceramic materials, ceramic-”matrix” “composite” materials and precursor materials, as follows:
+  - (e) Autogenous ignition temperature is determined using the method described in ASTM E-659 or national equivalents. 1C007 Ceramic base materials, non-“composite” ceramic materials, ceramic-“matrix” “composite” materials and precursor materials, as follows:
 
   - N.B.:
 
@@ -3974,9 +3972,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 3A001(a)(3) includes digital signal processors, digital array processors and digital coprocessors.
 
-        - (a)
-
-          - A “composite theoretical performance” (“CTP”) of 3500 million theoretical operations per second (Mtops) or more and an arithmetic logic unit with an access width of 32 bit or more; (L.N. 2 of 2000)
+        - (a) A “composite theoretical performance” (“CTP”) of 3500 million theoretical operations per second (Mtops) or more and an arithmetic logic unit with an access width of 32 bit or more; (L.N. 2 of 2000)
 
         - (b) Manufactured from a compound semiconductor and operating at a clock frequency exceeding 40 MHz; or
 
@@ -4710,13 +4706,13 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 4. The synchronisation of two central processing units by “software” so that one central processing unit recognises when the other central processing unit fails and recovers tasks from the failing unit.
 
-    - (b)
-
-      - “Digital computers” having a “composite theoretical performance” (“CTP”) exceeding 6500 million theoretical operations per second (Mtops); (L.N. 183 of 1999; L.N. 2 of 2000)
+    - (b) “Digital computers” having a “composite theoretical performance” (“CTP”) exceeding 6500 million theoretical operations per second (Mtops); (L.N. 183 of 1999; L.N. 2 of 2000)
 
     - (c)
 
-      - “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of “computing elements” (“CEs”) so that the “CTP” of the aggregation exceeds the limit in 4A003(b); (L.N. 183 of 1999) Notes:
+    - “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of “computing elements” (“CEs”) so that the “CTP” of the aggregation exceeds the limit in 4A003(b); (L.N. 183 of 1999)
+
+    - Notes:
 
       - 1. 4A003(c) applies only to “electronic assemblies” and programmable interconnections not exceeding the limit in 4A003(b), when shipped as unintegrated “electronic assemblies”. It does not apply to “electronic assemblies” inherently limited by nature of their design for use as related equipment controlled by 4A003(d) or 4A003(e). (L.N. 183 of 1999)
 
@@ -4730,7 +4726,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (g) Equipment specially designed to provide external interconnection of “digital computers” or associated equipment which allows communications at data rates exceeding 80 Mbyte/s; Note:
 
-    - 4A003(g) does not control internal interconnection equipment (e.g., backplanes, buses), passive interconnection equipment, “network access controllers” or “communications channel controllers”. (L.N. 183 of 1999) 4A004 Computers, as follows, and specially designed related equipment, “electronic assemblies” and components therefor:
+    - 4A003(g) does not control internal interconnection equipment (e.g. backplanes, buses), passive interconnection equipment, “network access controllers” or “communications channel controllers”. (L.N. 183 of 1999) 4A004 Computers, as follows, and specially designed related equipment, “electronic assemblies” and components therefor:
 
     - (a) “Systolic array computers”;
 
@@ -4754,9 +4750,15 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 4D003(c) does not control “software” when accompanying its user for the user’s personal use. (L.N. 183 of 1999)
 
-    - (d) Operating systems specially designed for “real time processing” equipment which guarantees a “global interrupt latency time” of less than 20 μs; 4E TECHNOLOGY 4E001 “Technology” according to the General Technology Note, for the “development”, “production” or “use” of equipment or “software” controlled by 4A or 4D;
+    - (d)
 
-      - TECHNICAL NOTE ON “COMPOSITE THEORETICAL PERFORMANCE” (“CTP”) Abbreviations used in this Technical Note:
+    - Operating systems specially designed for “real time processing” equipment which guarantees a “global interrupt latency time” of less than 20 μs;
+
+    - 4E TECHNOLOGY 4E001 “Technology” according to the General Technology Note, for the “development”, “production” or “use” of equipment or “software” controlled by 4A or 4D;
+
+    - TECHNICAL NOTE ON “COMPOSITE THEORETICAL PERFORMANCE” (“CTP”)
+
+    - Abbreviations used in this Technical Note:
 
       - “CE” “computing element” (typically an arithmetic logical unit) FP floating point
 
@@ -4770,143 +4772,163 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - TP theoretical performance (of a single “CE”)
 
-      - “CTP” “composite theoretical performance” (multiple “CEs”) R effective calculating rate
+      - ”CTP” “composite theoretical performance” (multiple “CEs”)
+
+      - R effective calculating rate
 
       - WL word length
 
       - L word length adjustment
 
-      - x multiply
+      - x multiply Execution time ‘t’ is expressed in μs, TP and “CTP” are expressed in millions of theoretical operations per second (Mtops) and WL is expressed in bits. Outline of the “CTP” calculation method:
 
-      - Execution time ‘t’ is expressed in μs, TP and “CTP” are expressed in millions of theoretical operations per second (Mtops) and WL is expressed in bits.
+      - ”CTP” is a measure of computational performance given in Mtops. In calculating the “CTP” of an aggregation of “CEs” the following three steps are required:
 
-      - Outline of the “CTP” calculation method:
+- 1. Calculate the effective calculating rate R for each “CE”;
 
-      - “CTP” is a measure of computational performance given in Mtops. In calculating the “CTP” of an aggregation of “CEs” the following three steps are required:
+- 2. Apply the word length adjustment (L) to the effective calculating rate (R), resulting in a Theoretical Performance (TP) for each “CE”;
 
-- 1.
+- 3. If there is more than one “CE”, combine the TPs, resulting in a “CTP” for the aggregation. Details for these steps are given in the following sections.
 
-  - Calculate the effective calculating rate R for each “CE”;
+- Notes:
 
-- 2.
-
-  - Apply the word length adjustment (L) to the effective calculating rate (R), resulting in a Theoretical Performance (TP) for each “CE”;
-
-- 3.
-
-  - If there is more than one “CE”, combine the TPs, resulting in a “CTP” for the aggregation. Details for these steps are given in the following sections. Notes:
-
-- 1.
-
-  - For aggregations of multiple “CEs” which have both shared and unshared memory subsystems, the calculation of “CTP” is completed hierarchically, in two steps: first, aggregate the groups of “CEs” sharing memory; second, calculate the “CTP” of the groups using the calculation method for multiple “CEs” not sharing memory.
+- 1. For aggregations of multiple “CEs” which have both shared and unshared memory subsystems, the calculation of “CTP” is completed hierarchically, in two steps: first, aggregate the groups of “CEs” sharing memory; second, calculate the “CTP” of the groups using the calculation method for multiple “CEs” not sharing memory.
 
 - 2.
 
-  - “CEs” that are limited to input/output and peripheral functions (e.g. disk drive, communication and video display controllers) are not aggregated into the “CTP” calculation.
+- “CEs” that are limited to input/output and peripheral functions (e.g. disk drive, communication and video display controllers) are not aggregated into the “CTP” calculation.
 
-  - The following table shows the method of calculating the Effective Calculating Rate (R) for each “CE”: Step 1: The effective calculating rate R
+- The following table shows the method of calculating the Effective Calculating Rate (R) for each “CE”:
 
-  - For “CEs” implementing: Note: Every “CE” must be evaluated independently. | Effective calculating rate, R
+- Step 1: The effective calculating rate R
 
-  - XP only (Rxp) | 1 - 3 x (t xp add) if no add is implemented use: 1 - (t xp mult) If neither add nor multiply is implemented use the fastest available arithmetic operation as follows: 1 - 3 x t xp See Notes X & Z
+- For “CEs” implementing: Note: Every “CE” must be evaluated independently. | Effective calculating rate, R
 
-  - FP only (Rfp) | 1 1 max - , - t fp add t fp mult See Notes X & Y
+- XP only (Rxp) | 1 - 3 x (t xp add) if no add is implemented use: 1 - (t xp mult) If neither add nor multiply is implemented use the fastest available arithmetic operation as follows: 1 - 3 x t xp See Notes X & Z
 
-  - Both FP and XP (R) | Calculate both Rxp, Rfp
+- FP only (Rfp) | 1 1 max - , - t fp add t fp mult See Notes X & Y
 
-  - For simple logic processors not implementing any of the specified arithmetic operations. | 1 - 3 x tlog Where tlog is the execute time of the XOR, or for logic hardware not implementing the XOR, the fastest simple logic operation. See Notes X & Z
+- Both FP and XP (R) | Calculate both Rxp, Rfp
 
-  - For special logic processors not using any of the specified arithmetic or logic operations. | R = R’ x WL/64 Where R’ is the number of results per second, WL is the number of bits upon which the logic operation occurs, and 64 is a factor to normalize to a 64 bit operation.
+- For simple logic processors not implementing any of the specified arithmetic operations. | 1 - 3 x tlog Where tlog is the execute time of the XOR, or for logic hardware not implementing the XOR, the fastest simple logic operation. See Notes X & Z
 
-  - Note W: For a pipelined “CE” capable of executing up to one arithmetic or logic operation every clock cycle after the pipeline is full, a pipelined rate can be established. The effective calculating rate (R) for such a “CE” is the faster of the pipelined rate or non-pipelined execution rate.
+- For special logic processors not using any of the specified arithmetic or logic operations. | R = R’ x WL/64 Where R’ is the number of results per second, WL is the number of bits upon which the logic operation occurs, and 64 is a factor to normalize to a 64 bit operation.
 
-  - Note X: For a “CE” which performs multiple operations of a specific type in a single cycle (e.g., two additions per cycle or two identical logic operations per cycle), the execution time t is given by: cycle time t = - the number of identical operations per machine cycle
+- Note W: For a pipelined “CE” capable of executing up to one arithmetic or logic operation every clock cycle after the pipeline is full, a pipelined rate can be established. The effective calculating rate (R) for such a “CE” is the faster of the pipelined rate or non-pipelined execution rate. Note X: For a “CE” which performs multiple operations of a specific type in a single cycle (e.g., two additions per cycle or two identical logic operations per cycle), the execution time t is given by:
 
-  - “CEs” which perform different types of arithmetic or logic operations in a single machine cycle are to be treated as multiple separate “CEs” performing simultaneously (e.g. a “CE” performing an addition and a multiplication in one cycle is to be treated as two “CEs”, the first performing an addition in one cycle and the second performing a multiplication in one cycle).
+- cycle time
 
-  - If a single “CE” has both scalar function and vector function, use the shorter execution time value.
+- t = -
 
-  - Note Y: For the “CE” that does not implement FP add or FP multiply, but that performs FP divide : 1 Rfp = - t fp divide
+- the number of identical operations per machine cycle
 
-  - If the “CE” implements FP reciprocal but not FP add, FP multiply or FP divide, then 1 Rfp = - t fp reciprocal If none of the specified instructions is implemented, the effective FP rate is 0. Note Z: In simple logic operations, a single instruction performs a single logic manipulation of no more than two operands of given lengths. In complex logic operations, a single instruction performs multiple logic manipulations to produce one or more results from two or more operands. Rates should be calculated for all supported operand lengths considering both pipelined operations (if supported), and non-pipelined operations using the fastest executing instruction for each operand length based on:
+- ”CEs” which perform different types of arithmetic or logic operations in a single machine cycle are to be treated as multiple separate “CEs” performing simultaneously (e.g. a “CE” performing an addition and a multiplication in one cycle is to be treated as two “CEs”, the first performing an addition in one cycle and the second performing a multiplication in one cycle).
 
-- 1. Pipelined or register-to-register operations. Exclude extraordinarily short execution times generated for operations on a predetermined operand or operands (for example, multiplication by 0 or 1). If no register-to-register operations are implemented, continue with 2.
+- If a single “CE” has both scalar function and vector function, use the shorter execution time value.
 
-- 2. The faster of register-to-memory or memory-to-register operations; if these also do not exist, then continue with 3.
+- Note Y: For the “CE” that does not implement FP add or FP multiply, but that performs FP divide :
 
-- 3. Memory-to-memory.
+- 1
 
-- In each case above, use the shortest execution time certified by the manufacturer. Step 2: TP for each supported operand length WL
+- Rfp = -
 
-- Adjust the effective rate R (or R’) by the word length adjustment L as follows: TP = R x L,
+- t fp divide
 
-- where L = (1/3 + WL/96) Note:
+- If the “CE” implements FP reciprocal but not FP add, FP multiply or FP divide, then
 
-  - The word length WL used in these calculations is the operand length in bits. (If an operation uses operands of different lengths, select the largest word length.) The combination of a mantissa ALU and an exponent ALU of a floating point processor or unit is considered to be one “CE” with a Word Length (WL) equal to the number of bits in the data representation (typically 32 or 64) for purposes of the “CTP” calculation. This adjustment is not applied to specialized logic processors which do not use XOR instructions. In this case TP = R. Select the maximum resulting value of TP for:
+- 1
 
-    - Each XP-only “CE” (Rxp);
+- Rfp = -
 
-    - Each FP-only “CE” (Rfp);
+- t fp reciprocal
 
-    - Each combined FP and XP “CE” (R); Each simple logic processor not implementing any of the specified arithmetic operations; and
+- If none of the specified instructions is implemented, the effective FP rate is 0.
 
-    - Each special logic processor not using any of the specified arithmetic or logic operations.
+- Note Z: In simple logic operations, a single instruction performs a single logic manipulation of no more than two operands of given lengths.
 
-  - Step 3: “CTP” for aggregations of “CEs”, including CPUs
+- In complex logic operations, a single instruction performs multiple logic manipulations to produce one or more results from two or more operands. Rates should be calculated for all supported operand lengths considering both pipelined operations (if supported), and non-pipelined operations using the fastest executing instruction for each operand length based on:
 
-  - For a CPU with a single “CE”,
+  - 1. Pipelined or register-to-register operations. Exclude extraordinarily short execution times generated for operations on a predetermined operand or operands (for example, multiplication by 0 or 1). If no register-to-register operations are implemented, continue with 2.
 
-  - “CTP” = TP
+  - 2. The faster of register-to-memory or memory-to-register operations; if these also do not exist, then continue with 3.
 
-  - (for “CEs” performing both fixed and floating point operations TP = max (TPfp, TPxp)) “CTP” for aggregations of multiple “CEs” operating simultaneously is calculated as follows : Notes:
+  - 3. Memory-to-memory.
 
-- 1.
+  - In each case above, use the shortest execution time certified by the manufacturer. Step 2: TP for each supported operand length WL
 
-  - For aggregations that do not allow all of the “CEs” to run simultaneously, the possible combination of “CEs” that provides the largest “CTP” should be used. The TP of each contributing “CE” is to be calculated at its maximum value theoretically possible before the “CTP” of the combination is derived. N.B.:
+  - Adjust the effective rate R (or R’) by the word length adjustment L as follows: TP = R x L,
 
-    - To determine the possible combinations of simultaneously operating “CEs”, generate an instruction sequence that initiates operations in multiple “CEs”, beginning with the slowest “CE” (the one needing the largest number of cycles to complete its operation) and ending with the fastest “CE”. At each cycle of the sequence, the combination of “CEs” that are in operation during that cycle is a possible combination. The instruction sequence must take into account all hardware and/or architectural constraints on overlapping operations.
+  - where L = (1/3 + WL/96) Note: The word length WL used in these calculations is the operand length in bits. (If an operation uses operands of different lengths, select the largest word length.) The combination of a mantissa ALU and an exponent ALU of a floating point processor or unit is considered to be one “CE” with a Word Length (WL) equal to the number of bits in the data representation (typically 32 or 64) for purposes of the “CTP” calculation. This adjustment is not applied to specialized logic processors which do not use XOR instructions. In this case TP = R.
 
-- 2. A single integrated circuit chip or board assembly may contain multiple “CEs”.
+  - Select the maximum resulting value of TP for:
 
-- 3. Simultaneous operations are assumed to exist when the computer manufacturer claims concurrent, parallel or simultaneous operation or execution in a manual or brochure for the computer.
+  - Each XP-only “CE” (Rxp);
 
-- 4.
+  - Each FP-only “CE” (Rfp);
 
-  - “CTP” values are not to be aggregated for “CE” combinations (inter)connected by “Local Area Networks”, Wide Area Networks, Input/Output shared connections/devices, Input/Output controllers and any communication interconnection implemented by software.
+  - Each combined FP and XP “CE” (R);
 
-- 5.
+  - Each simple logic processor not implementing any of the specified arithmetic operations; and
 
-  - “CTP” values must be aggregated for multiple “CEs” specially designed to enhance performance by aggregation, operating simultaneously and sharing memory, -or multiple memory/”CE”-combinations operating simultaneously utilising specially designed hardware. This aggregation does not apply to “electronic assemblies” described by 4A003(c). (L.N. 183 of 1999)
+  - Each special logic processor not using any of the specified arithmetic or logic operations. Step 3: “CTP” for aggregations of “CEs”, including CPUs
 
-  - “CTP”=TP1+C2 x TP2+ . + Cn x TPn , where the TPs are ordered by value, with TP1 being the highest, TP2 being the second highest, ., and TPn being the lowest. Ci is a coefficient determined by the strength of the interconnection between “CEs”, as follows: For multiple “CEs” operating simultaneously and sharing memory: C2 = C3 = C4 = . = Cn = 0.75 Notes:
+  - For a CPU with a single “CE”, “CTP” = TP
 
-- 1.
+  - (for “CEs” performing both fixed and floating point operations TP = max (TPfp, TPxp)) “CTP” for aggregations of multiple “CEs” operating simultaneously is calculated as follows :
 
-  - When the “CTP” calculated by the above method does not exceed 194 Mtops, the following formula may be used to calculate Ci: 0.75 Ci = ---------- (i = 2, ., n) √m where m = number of “CEs” or groups of “CEs” sharing access,
+  - Notes:
+
+  - 1. For aggregations that do not allow all of the “CEs” to run simultaneously, the possible combination of “CEs” that provides the largest “CTP” should be used. The TP of each contributing “CE” is to be calculated at its maximum value theoretically possible before the “CTP” of the combination is derived. N.B.:
+
+  - To determine the possible combinations of simultaneously operating “CEs”, generate an instruction sequence that initiates operations in multiple “CEs”, beginning with the slowest “CE” (the one needing the largest number of cycles to complete its operation) and ending with the fastest “CE”. At each cycle of the sequence, the combination of “CEs” that are in operation during that cycle is a possible combination. The instruction sequence must take into account all hardware and/or architectural constraints on overlapping operations.
+
+  - 2. A single integrated circuit chip or board assembly may contain multiple “CEs”.
+
+  - 3. Simultaneous operations are assumed to exist when the computer manufacturer claims concurrent, parallel or simultaneous operation or execution in a manual or brochure for the computer.
+
+  - 4. “CTP” values are not to be aggregated for “CE” combinations (inter)connected by “Local Area Networks”, Wide Area Networks, Input/Output shared connections/devices, Input/Output controllers and any communication interconnection implemented by software.
+
+  - 5. “CTP” values must be aggregated for multiple “CEs” specially designed to enhance performance by aggregation, operating simultaneously and sharing memory, -or multiple memory/”CE”-combinations operating simultaneously utilising specially designed hardware. This aggregation does not apply to “electronic assemblies” described by 4A003(c). (L.N. 183 of 1999) “CTP”=TP1+C2 x TP2+ . + Cn x TPn ,
+
+  - where the TPs are ordered by value, with TP1 being the highest, TP2 being the second highest, ., and TPn being the lowest. Ci is a coefficient determined by the strength of the interconnection between “CEs”, as follows:
+
+  - For multiple “CEs” operating simultaneously and sharing memory: C2 = C3 = C4 = . = Cn = 0.75
+
+  - Notes:
+
+  - 1.
+
+  - When the “CTP” calculated by the above method does not exceed 194 Mtops, the following formula may be used to calculate Ci:
+
+  - 0.75
+
+  - Ci = ---------- (i = 2, ., n)
+
+  - √m
+
+  - where m = number of “CEs” or groups of “CEs” sharing access,
 
   - provided:
 
     - 1. The TPi of each “CE” or group of “CEs” does not exceed 30 Mtops;
 
-- 2. The “CEs” or groups of “CEs” share access to main memory (excluding cache memory) over a single channel; and
+    - 2. The “CEs” or groups of “CEs” share access to main memory (excluding cache memory) over a single channel; and
 
-- 3.
+    - 3. Only one “CE” or group of “CEs” can have use of the channel at any given time.
 
-  - Only one “CE” or group of “CEs” can have use of the channel at any given time. N.B.: This does not apply to items controlled under Category 3.
+  - N.B.:
 
-- 2. “CEs” share memory if they access a common segment of solid state memory. This memory may include cache memory, main memory, or other internal memory. Peripheral memory devices such as disk drives, tape drives or RAM disks are not included. For Multiple “CEs” or groups of “CEs” not sharing memory, interconnected by one or more data channels: Ci = 0.75 x ki (i = 2, ., 32) (see Note below) = 0.60 x ki (i = 33, ., 64)
+  - This does not apply to items controlled under Category 3.
 
-- = 0.45 x ki (i = 65, ., 256)
+  - 2. “CEs” share memory if they access a common segment of solid state memory. This memory may include cache memory, main memory, or other internal memory. Peripheral memory devices such as disk drives, tape drives or RAM disks are not included. For Multiple “CEs” or groups of “CEs” not sharing memory, interconnected by one or more data channels: Ci = 0.75 x ki (i = 2, ., 32) (see Note below) = 0.60 x ki (i = 33, ., 64)
 
-- = 0.30 x ki (i > 256) The value of Ci is based on the number of “CEs”, not the number of nodes.
+  - = 0.45 x ki (i = 65, ., 256)
 
-- where ki = min (Si/Kr, 1), and Kr = normalizing factor of 20 MByte/s.
+  - = 0.30 x ki (i > 256) The value of Ci is based on the number of “CEs”, not the number of nodes.
 
-  - Si = sum of the maximum data rates (in units of MByte/s) for all data channels connected to the ith “CE” or group of “CEs” sharing memory.
+  - where ki = min (Si/Kr, 1), and Kr = normalizing factor of 20 MByte/s. Si = sum of the maximum data rates (in units of MByte/s) for all data channels connected to the ith “CE” or group of “CEs” sharing memory. When calculating a Ci for a group of “CEs”, the number of the first “CE” in a group determines the proper limit for Ci. For example, in an aggregation of groups consisting of 3 “CEs” each, the 22nd group will contain “CE”64, “CE”65 and “CE”66. The proper limit for Ci for this group is 0.60.
 
-  - When calculating a Ci for a group of “CEs”, the number of the first “CE” in a group determines the proper limit for Ci. For example, in an aggregation of groups consisting of 3 “CEs” each, the 22nd group will contain “CE”64, “CE”65 and “CE”66. The proper limit for Ci for this group is 0.60. Aggregation (of “CEs” or groups of “CEs”) should be from the fastest-to-slowest; i.e.: TP1 > TP2 > . > TPn, and in the case of TPi = TPi+1, from the largest to smallest; i.e.: Ci > Ci+1 Note:
-
-  - The ki factor is not to be applied to “CEs” 2 to 12 if the TPi of the “CE” or group of “CEs” is more than 50 Mtops; i.e., Ci for “CEs” 2 to 12 is 0.75. CATEGORY 5-TELECOMMUNICATIONS AND “INFORMATION SECURITY” Part 1-Telecommunications Notes:
+  - Aggregation (of “CEs” or groups of “CEs”) should be from the fastest-to-slowest; i.e.: TP1 > TP2 > . > TPn, and in the case of TPi = TPi+1, from the largest to smallest; i.e.: Ci > Ci+1 Note: The ki factor is not to be applied to “CEs” 2 to 12 if the TPi of the “CE” or group of “CEs” is more than 50 Mtops; i.e., Ci for “CEs” 2 to 12 is 0.75. CATEGORY 5-TELECOMMUNICATIONS AND “INFORMATION SECURITY” Part 1-Telecommunications Notes:
 
 - 1. The control status of components, “lasers”, test and “production” equipment and “software” therefor which are specially designed for telecommunications equipment or systems is determined in Category 5, Part 1.
 
@@ -4928,7 +4950,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - 5A001(a)(2) and 5A001(a)(3) do not control equipment designed or modified for use on board satellites.
 
-    - (b) Telecommunication transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features:
+    - (b) Telecommunications transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features: (36 of 2000 s. 28)
 
   - (1) Being underwater communications systems having any of the following characteristics:
 
@@ -4948,7 +4970,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (2) Incorporating a linear power amplifier configuration having a capability to support multiple signals simultaneously at an output power of 1 kW or more in the 1.5 MHz to 30 MHz frequency range or 250 W or more in the 30 MHz to 87.5 MHz frequency range, over an “instantaneous bandwidth” of one octave or more and with an output harmonic and distortion content of better than -80 dB;
 
-  - (3) Being radio equipment employing “spread spectrum” or “” (frequency hopping) techniques having any of the following characteristics:
+  - (3) Being radio equipment employing “spread spectrum” or “frequency agility” (frequency hopping) techniques having any of the following characteristics:
 
     - (a) User programmable spreading codes; or
 
@@ -4994,7 +5016,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - Note:
 
-      - 5A001(c)(2) does not control standard civil telecommunication cables and accessories.
+      - 5A001(c)(2) does not control standard civil telecommunications cables and accessories. (36 of 2000 s. 28)
 
       - N.B.:
 
@@ -5010,7 +5032,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 5B001(a) does not control optical fibre characterization equipment not using semiconductor “lasers”.
 
-    - (b) Equipment and specially designed components or accessories therefor, specially designed for the “development” of any of the following telecommunication transmission or “stored programme controlled” switching equipment:
+    - (b) Equipment and specially designed components or accessories therefor, specially designed for the “development” of any of the following telecommunications transmission or “stored programme controlled” switching equipment: (36 of 2000 s. 28)
 
       - (1)
 
@@ -5058,7 +5080,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (3) “Software” other than in machine-executable form, specially designed for “dynamic adaptive routing”;
 
-    - (d) “Software” specially designed or modified for the “development” of any of the following telecommunication transmission or “stored programme controlled” switching equipment:
+    - (d) “Software” specially designed or modified for the “development” of any of the following telecommunications transmission or “stored programme controlled” switching equipment: (36 of 2000 s. 28)
 
       - (1)
 
@@ -5094,9 +5116,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (3) “Technology” for the “development” of digital cellular radio systems;
 
-      - (4) “Technology” for the “development” of “spread spectrum” or “” (frequency hopping) techniques;
+      - (4) “Technology” for the “development” of “spread spectrum” or “frequency agility” (frequency hopping) techniques;
 
-    - (c) “Technology” according to the General Technology Note for the “development” or “production” of any of the following telecommunication transmission or “stored programme controlled” switching equipment, functions or features:
+    - (c) “Technology” according to the General Technology Note for the “development” or “production” of any of the following telecommunications transmission or “stored programme controlled” switching equipment, functions or features: (36 of 2000 s. 28)
 
       - (1)
 
@@ -5200,7 +5222,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (4) Specially designed or modified to reduce the compromising emanations of information-bearing signals beyond what is necessary for health, safety or electromagnetic interference standards;
 
-  - (5) Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” or the hopping code for “” systems;
+  - (5) Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” or the hopping code for “frequency agility” systems;
 
   - (6) Designed or modified to provide certified or certifiable “multilevel security” or user isolation at a level exceeding Class B2 of the Trusted Computer System Evaluation Criteria (TCSEC) or equivalent;
 
@@ -6124,7 +6146,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (1) “Radar spread spectrum” techniques; or
 
-      - (2) “Radar “ techniques;
+      - (2) “Radar frequency agility” techniques;
 
     - (i)
 
@@ -7522,9 +7544,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 2 “Camming” (axial displacement) (軸向移位) Axial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle faceplate, at a point next to the circumference of the spindle faceplate (Reference: ISO 230/1 1986, paragraph 5.63).
 
-    - 1 “Carbon fibre preforms” (碳纖維預製成形品) An ordered arrangement of uncoated or coated fibres intended to constitute a framework of a part before the “matrix” is introduced to form a “composite”. (L.N. 183 of 1999)
-
-    - 4 “CE”
+    - 1 “Carbon fibre preforms” (碳纖維預製成形品) An ordered arrangement of uncoated or coated fibres intended to constitute a framework of a part before the “matrix” is introduced to form a “composite”. (L.N. 183 of 1999) 4 “CE”
 
     - “CE” is equivalent to “computing element”. (L.N. 183 of 1999)
 
@@ -7576,9 +7596,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 1 3 6 “Critical temperature” (臨界溫度) (Sometimes referred to as the transition temperature) of a specific “superconductive” material is the temperature at which the material loses all resistance to the flow of direct electrical current.
 
-      - 5 “Cryptography” (密碼學) The discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more ‘secret parameters’ (e.g., crypto variables) or associated key management. N.B.: ‘Secret parameter’: a constant or key kept from the knowledge of others or shared only within a group.
-
-      - 3 4 “CTP”
+      - 5 “Cryptography” (密碼學) The discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more ‘secret parameters’ (e.g., crypto variables) or associated key management. N.B.: ‘Secret parameter’: a constant or key kept from the knowledge of others or shared only within a group. 3 4 “CTP”
 
       - “CTP” is equivalent to “Composite theoretical performance”. (L.N. 183 of 1999)
 
@@ -7712,7 +7730,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 5 “Frequency agility” (frequency hopping) (頻率跳頻) A form of “spread spectrum” in which the transmission frequency of a single communication channel is made to change by discrete steps.
 
-      - 6 “Frequency agility” (radar) (頻率跳頻) (雷達)-see “Radar “
+      - 6 “Frequency agility” (radar) (頻率跳頻) (雷達)-see “Radar frequency agility”
 
       - 3 5 “Frequency switching time” (頻率切換時間) The maximum time (i.e., delay), taken by a signal, when switched from one selected output frequency to another selected output frequency, to reach:
 
@@ -7792,7 +7810,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 2 “Isostatic presses” (均壓裝置) Equipment capable of pressurising a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal pressure in all directions within the cavity upon a workpiece or material.
 
-      - 3 5 “ITU” International Telecommunications Union.
+      - 3 5 “ITU” International Telecommunication Union. (36 of 2000 s. 28)
 
       - “Laser” (雷射器)-see “Chemical laser” “Laser” “Q-switched laser” “Super High Power Laser” “Transfer laser”
 
@@ -7954,7 +7972,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 6 “Q-switched laser” (Q開關式雷射器) A “laser” in which the energy is stored in the population inversion or in the optical resonator and subsequently emitted in a pulse.
 
-      - 6 “Radar “ (雷達頻率跳頻) Any technique which changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth.
+      - 6 “Radar frequency agility” (雷達頻率跳頻) Any technique which changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth.
 
       - 6 “Radar spread spectrum” (雷達擴散頻譜) Any modulation technique for spreading energy originating from a signal with a relatively narrow frequency band, over a much wider band of frequencies, by using random or pseudo-random coding.
 
@@ -8076,7 +8094,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - ‘Technical assistance’ may take forms such as instruction, skills, training, working knowledge, consulting services. ‘Technical assistance’ may involve transfer of ‘technical data’.
 
-      - 4 “Terminal interface equipment” (終端介面裝備) Equipment at which information enters or leaves the telecommunication system, e.g., telephone, data device, computer and facsimile device.
+      - 4 “Terminal interface equipment” (終端介面裝備) Equipment at which information enters or leaves the telecommunications system, e.g., telephone, data device, computer and facsimile device. (36 of 2000 s. 28)
 
       - 4 “Three dimensional vector rate” (三維向量運算率) The number of vectors generated per second which have 10 pixel poly line vectors, clip tested, randomly oriented, with either integer or floating point X-Y-Z coordinate values (whichever produces the maximum rate).
 
