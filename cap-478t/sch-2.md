@@ -1,307 +1,163 @@
-# Schedule 2
+# SCHEDULE 2
 
-(sections 4, 5, 6 & 14) PRINCIPLES OF WATCHKEEPING ARRANGEMENTS
+[ss. 4, 5 & 14]
 
-FOR ENGINE ROOM WATCH
+PRINCIPLES OF WATCHKEEPING ARRANGEMENTS FOR ENGINE ROOM WATCH
 
-- 1. Watch arrangements (a) The chief engineer officer of every ship is bound, in
+- 1. General
 
-- consultation with the master, to ensure that watchkeeping
+  - (1) The chief engineer of every ship shall, in consultation with the master, ensure that watchkeeping arrangements are adequate to maintain a safe engineering watch.
 
-- arrangements are adequate to maintain a safe watch. When
+  - (2)
 
-- deciding the composition of the watch, which may include
+    - The term “engineering watch” (機房值班人員、機房值班) as used in this Schedule and in Schedule 4 means either a person or a group of personnel comprising the watch or a period of responsibility for an officer during which the physical presence in the machinery spaces of that officer may or may not be required.
 
-- appropriate engine room ratings, the following criteria,
+  - (3) The officer in charge of the engineering watch is the chief engineer officer’s representative and is primarily responsible at all times for the safe and efficient operation and upkeep of machinery affecting the safety of the ship and is responsible for the inspection, operation and testing, as required, of all machinery and equipment under the responsibility of the engineering watch.
 
-- amongst others, shall be taken into account-
+- 2. Watch arrangements
 
-- (i) type of ship;
+  - (1) The composition of the engineering watch shall at all times be adequate to ensure the safe operation of all machinery affecting the operation of the ship, in either automated or manual mode, and be appropriate to the prevailing circumstances and conditions.
 
-- (ii) type and condition of the ship’s machinery;
+  - (2) When deciding the composition of the engineering watch, which may include appropriately qualified ratings, the following criteria, inter alia, shall be taken into account—
 
-- (iii) special modes of operation dictated by conditions such as
+    - (a) the type of ship and the type and condition of the machinery;
 
-- weather, ice, contaminated water, shallow water,
+    - (b) the adequate supervision, at all times, of machinery affecting the safe operation of the ship;
 
-- emergency conditions, or the need for damage containment
+    - (c) any special modes of operation dictated by conditions such as weather, ice, contaminated water, shallow water, emergency conditions, damage containment or pollution abatement;
 
-- or pollution abatement;
+    - (d) the qualifications and experience of the engineering watch;
 
-- (iv) qualifications and experience of the watch;
+    - (e) the safety of life, ship, cargo and port, and protection of the marine environment;
 
-- (v) requirements for the safety of life, ship, cargo and
+    - (f) the observance of international, national and local regulations; and
 
-- port, and for protection of the environment;
+    - (g) the maintenance of the normal operations of the ship.
 
-- (vi) need for observance of international, national and local
+- 3. Taking over the watch
 
-- regulations;
+  - (1) The officer in charge of the engineering watch shall not hand over the watch to the relieving officer if there is reason to believe that the latter is obviously not capable of carrying out the watchkeeping duties effectively, in which case the chief engineer officer shall be notified.
 
-- (vii) need for maintaining the normal operations of the ship.
+  - (2) The relieving officer of the engineering watch shall ensure that the members of the relieving engineering watch are apparently fully capable of performing their duties effectively.
 
-- (b) Under the direction of the chief engineer officer, the engineer
+  - (3) Prior to taking over the engineering watch, relieving officers shall satisfy themselves regarding at least the following—
 
-- officer in charge of the watch shall be responsible for the
+    - (a) the standing orders and special instructions of the chief engineer officer relating to the operation of the ship’s systems and machinery;
 
-- Inspection, operation and testing, as required, of all
+    - (b) the nature of all work being performed on machinery and systems, the personnel involved and potential hazards;
 
-- machinery and equipment under his responsibility. The engineer
+    - (c) the level and, where applicable, the condition of water or residues in bilges, ballast tanks, slop tanks, reserve tanks, fresh water tanks, sewage tanks and any special requirements for use or disposal of the contents thereof;
 
-- officer in charge of a watch is the chief engineer officer’s
+    - (d) the condition and level of fuel in the reserve tanks, settling tank, day tank and other fuel storage facilities;
 
-- representative and his primary responsibility, at all times,
+    - (e) any special requirements relating to sanitary system disposals;
 
-- shall be the safe and efficient operation and upkeep of
+    - (f) the condition and mode of operation of the various main and auxiliary systems, including the electrical power distribution system;
 
-- machinery affecting the safety of the ship.
+    - (g) where applicable, the condition of monitoring and control console equipment, and which equipment is being operated manually;
 
-- (c) The chief engineer officer shall, in consultation with the
+    - (h) where applicable, the condition and mode of operation of automatic boiler controls such as flame safeguard control systems, limit control systems, combustion control systems, fuel-supply control systems and other equipment related to the operation of steam boilers;
 
-- master, determine in advance the ship’s needs during the
+    - (i) any potentially adverse conditions resulting from bad weather, ice, or contaminated or shallow water;
 
-- intended voyage, taking into consideration the requirements for
+    - (j) any special modes of operation dictated by equipment failure or adverse ship conditions;
 
-- fuel, water, lubricants, chemicals, expendable and other spare
+    - (k) the reports of engine room ratings relating to their assigned duties;
 
-- parts, tools, supplies and any other requirements.
+    - (l) the availability of fire-fighting appliances; and
 
-- 2. Operation (a) The engineer officer in charge of the watch shall ensure that
+    - (m) the state of completion of engine room log.
 
-- the established watchkeeping arrangements are maintained.
+- 4. Performing the engineering watch
 
-- Under his general direction engine room ratings, if forming
+  - (1) The officer in charge of the engineering watch shall ensure that the established watchkeeping arrangements are maintained and that, under direction, engine room ratings, if forming part of the engineering watch, assist in the safe and efficient operation of the propulsion machinery and auxiliary equipment.
 
-- part of the watch, shall be required to assist in the safe and
+  - (2) The officer in charge of the engineering watch shall continue to be responsible for machinery space operations, despite the presence of the chief engineer officer in the machinery spaces, until specifically informed that the chief engineer officer has assumed that responsibility and this is mutually understood.
 
-- efficient operation of the propulsion machinery and the
+  - (3) All members of the engineering watch shall be familiar with their assigned watchkeeping duties. In addition, every member shall, with respect to the ship they are serving in, have knowledge of—
 
-- auxiliary equipment.
+    - (a) the use of appropriate internal communication systems;
 
-- (b) At the commencement of the engineering watch, the current
+    - (b) the escape routes from machinery spaces;
 
-- operational parameters and condition of all machinery shall be
+    - (c) the engine room alarm systems and be able to distinguish between the various alarms, with special reference to the fire-extinguishing media alarm; and
 
-- verified. Any machinery not functioning properly, expected to
+    - (d) the number, location and types of fire-fighting equipment and damage control gear in the machinery spaces, together with their use and the various safety precautions to be observed.
 
-- malfunction or requiring special service, shall be noted along
+  - (4) Any machinery not functioning properly, expected to malfunction or requiring special service shall be noted along with any action already taken. Plans shall be made for any further action if required.
 
-- with any action already taken. Plans shall be made for any
+  - (5) When the machinery spaces are in the manned condition, the officer in charge of the engineering watch shall at all times be readily capable of operating the propulsion equipment in response to the needs for changes in direction or speed.
 
-- further action which may be required.
+  - (6) When the machinery spaces are in the periodic unmanned condition, the designated duty officer in charge of the engineering watch shall be immediately available and on call to attend the machinery spaces.
 
-- (c) The engineer officer in charge of the watch shall ensure that
+  - (7) All bridge orders shall be promptly executed. Changes in direction or speed of the main propulsion units shall be recorded, except where the government of a state party to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 has determined that the size or characteristics of a particular ship make such recording impracticable. The officer in charge of the engineering watch shall ensure that the main propulsion unit controls, when in the manual mode of operation, are continuously attended under stand-by or manoeuvring conditions.
 
-- the main propulsion plant and auxiliary systems are kept under
+  - (8) Due attention shall be paid to the ongoing maintenance and support of all machinery, including mechanical, electrical, electronic, hydraulic and pneumatic systems, their control apparatus and associated safety equipment, all accommodation service systems equipment and the recording of stores and spare gear usage.
 
-- constant surveillance, inspections are made of the machinery
+  - (9) The chief engineer officer shall ensure that the officer in charge of the engineering watch is informed of all preventative maintenance, damage control, or repair operations to be performed during the engineering watch. The officer in charge of the engineering watch shall be responsible for the isolation, bypassing and adjustment of all machinery under the responsibility of the engineering watch that is to be worked on, and shall record all work carried out.
 
-- and steering gear spaces at suitable intervals and appropriate
+  - (10) When the engine room is put in stand-by condition, the officer in charge of the engineering watch shall ensure that all machinery and equipment which may be used during manoeuvring is in a state of immediate readiness and that an adequate reserve of power is available for steering gear and other requirements.
 
-- action is taken to remedy any malfunction discovered.
+  - (11) Officers in charge of an engineering watch shall not be assigned or undertake any duties which would interfere with their supervisory duties in respect of the main propulsion system and ancillary equipment. They shall keep the main propulsion plant and auxiliary systems under constant supervision until properly relieved, and shall periodically inspect the machinery in their charge. They shall also ensure that adequate rounds of machinery and steering-gear spaces are made for the purpose of observing and reporting equipment malfunctions or breakdowns, performing or directing routine adjustments, required upkeep and any other necessary tasks.
 
-- (d) When the machinery spaces are in the manned condition, the
+  - (12) Officers in charge of an engineering watch shall direct any other member of the engineering watch to inform them of potentially hazardous conditions which may adversely affect the machinery or jeopardise the safety of life or of the ship.
 
-- engineer officer in charge of the watch shall all times be
+  - (13) The officer in charge of the engineering watch shall ensure that the machinery space watch is supervised, and shall arrange for substitute personnel in the event of the incapacity of any engineering watch personnel. The engineering watch shall not leave the machinery space watch unsupervised in a manner that would prevent the manual operation of the engine room plant or throttles.
 
-- capable of readily operating the propulsion equipment in
+  - (14) The officer in charge of the engineering watch shall take the action necessary to contain the effects of damage resulting from equipment breakdown, fire, flooding, rupture, collision, stranding, or other cause.
 
-- response to needs for changes in direction or speed. When the
+  - (15) Before going off duty, the officer in charge of the engineering watch shall ensure that all events related to the main and auxiliary machinery which have occurred during the engineering watch are suitably recorded.
 
-- machinery spaces are in the periodic unmanned condition, the
+  - (16) The officer in charge of the engineering watch shall co-operate with any engineer in charge of maintenance work during all preventative maintenance, damage control or repairs. This shall include but not necessarily be limited to—
 
-- designated duty engineer officer in charge of the watch shall
+    - (a) isolating and bypassing machinery to be worked on;
 
-- be immediately available and on call to attend the machinery
+    - (b) adjusting the remaining plant to function adequately and safely during the maintenance period;
 
-- spaces.
+    - (c) recording, in the engine room log or other suitable document, the equipment worked on and the personnel involved, and which safety steps have been taken and by whom, for the benefit of relieving officers and for record purposes; and
 
-- (e) All bridge orders shall be promptly executed. Changes in
+    - (d) testing and putting into service, when necessary, the repaired machinery or equipment.
 
-- direction or speed of the main propulsion unit shall be
+  - (17) The officer in charge of the engineering watch shall ensure that any engine room ratings who perform maintenance duties are available to assist in the manual operation of machinery in the event of automatic equipment failure.
 
-- recorded except in respect of a ship or class of ship specified
+  - (18) The officer in charge of the engineering watch shall bear in mind that changes in speed, resulting from machinery malfunction, or any loss of steering, may imperil the safety of the ship and life at sea. The bridge shall be immediately notified, in the event of fire, and of any impending action in machinery spaces that may cause reduction in the ship’s speed, imminent steering failure, stoppage of the ship’s propulsion system or any alteration in the generation of electric power or similar threat to safety. This notification, where possible, shall be accomplished before changes are made, in order to afford the bridge the maximum available time to take whatever action is possible to avoid a potential marine casualty.
 
-- as being a ship or class of ship which need not comply with
+  - (19) The officer in charge of the engineering watch shall notify the chief engineer officer without delay—
 
-- such requirement because the size and characteristics of the
+    - (a) when engine damage or a malfunction occurs which may be such as to endanger the safe operation of the ship;
 
-- ship make such recording impracticable. The engineer officer
+    - (b) when any malfunction occurs which, it is believed, may cause damage or breakdown of propulsion machinery, auxiliary machinery or monitoring and governing systems; and
 
-- in charge of the watch shall ensure that the main propulsion
+    - (c) in any emergency or if in any doubt as to what decision or measures to take.
 
-- unit controls, when in the manual mode of operation, are
+  - (20) Despite the requirement to notify the chief engineer officer in the circumstances referred to in subsection (19), the officer in charge of the engineering watch shall not hesitate to take immediate action for the safety of the ship, its machinery and crew where `circumstances so require.
 
-- continuously attended under standby or manoeuvring conditions.
+  - (21) The officer in charge of the engineering watch shall give the watchkeeping personnel all appropriate instructions and information which will ensure the keeping of a safe engineering watch. Routine machinery upkeep, performed as incidental tasks as a part of keeping a safe watch, shall be set up as an integral part of the watch routine. Detailed repair maintenance involving repairs to electrical, mechanical, hydraulic, pneumatic or applicable electronic equipment throughout the ship shall be performed with the cognizance of the officer in charge of the engineering watch and chief engineer officer. Such repairs shall be recorded.
 
-- (f) The engineer officer in charge of the watch shall not be
+- 5.
 
-- assigned or undertake any duties which would interfere with
+- Engineering watchkeeping under different
 
-- his supervisory duty in respect of the main propulsion system
+- conditions and in different areas
 
-- and its ancillary equipment and he shall ensure that the main
+  - (1) Restricted visibility The officer in charge of the engineering watch shall ensure that permanent air or steam pressure is available for sound signals and that at all times bridge orders relating to changes in speed or direction of operation are immediately implemented and, in addition, that auxiliary machinery used for manoeuvring is readily available.
 
-- propulsion system and auxiliary equipment are kept under
+  - (2) Coastal and congested waters The officer in charge of the engineering watch shall ensure that all machinery involved with the manoeuvring of the ship can immediately be placed in the manual mode of operation when notified that the ship is in congested waters. The officer in charge of the engineering watch shall also ensure that an adequate reserve of power is available for steering and other manoeuvring requirements. Emergency steering and other auxiliary equipment shall be ready for immediate operation.
 
-- constant surveillance until he is properly relieved.
+  - (3) Ship at anchor
 
-- (g) Due attention shall be paid to the maintenance and support of
+    - (a) At an unsheltered anchorage the chief engineer officer shall consult the master whether or not to maintain the same engineering watch as when underway.
 
-- all machinery, including mechanical, electrical, hydraulic and
+    - (b) When a ship is at anchor in an open roadstead or any other virtually “at-sea” condition, the engineer officer in charge of the engineering watch shall ensure that—
 
-- pneumatic systems, their control apparatus and associated
+      - (i) an efficient engineering watch is kept;
 
-- safety equipment, all accommodation service systems equipment
+      - (ii) periodic inspection is made of all operating and stand-by machinery;
 
-- and the recording of stores and spare gear usage.
+      - (iii) main and auxiliary machinery is maintained in a state of readiness in accordance with the orders from the bridge;
 
-- (h) The chief engineer officer shall ensure that the engineer
+      - (iv) measures are taken to protect the environment from pollution by the ship, and that applicable pollution-prevention regulations are complied with; and
 
-- officer in charge of the watch is informed of all preventive
+      - (v) all damage-control and fire-fighting systems are in readiness.
 
-- maintenance, damage control, or repair operations to be
-
-- performed during the watch. The engineer officer in charge of
-
-- the watch shall be responsible for the isolation, by-passing
-
-- and adjustment of all machinery under his responsibility that
-
-- is to be worked on, and shall record all work carried out.
-
-- (i) Before going off duty, the engineer officer in charge of the
-
-- watch shall ensure that all events related to the main and
-
-- auxiliary machinery are suitably recorded.
-
-- (j) To avoid any danger to the safety of the ship and its crew, the
-
-- engineer officer in charge of the watch shall notify the bridge
-
-- immediately in the event of fire, impending actions in
-
-- machinery spaces that may cause reduction in ship’s speed,
-
-- imminent steering failure, stoppage of the ship’s propulsion
-
-- system, any alteration in the generation of electric power, or
-
-- any similar threat to safety. This notification, where
-
-- possible, shall be accomplished before changes are made in
-
-- order to afford the bridge the maximum available time to take
-
-- whatever action is possible to avoid a potential marine
-
-- casualty.
-
-- (k) When the engine room is put in a standby condition, the
-
-- engineer officer in charge of the watch shall ensure that all
-
-- machinery and equipment which may be used during manoeuvring is
-
-- in a state of immediate readiness and that an adequate reserve
-
-- of power is available for steering gear and other requirements.
-
-- 3. Watch requirements (a) Every member of the watch shall be familiar with his assigned
-
-- watchkeeping duties. In addition, every member shall in
-
-- relation to that ship-
-
-- (i) know the use of appropriate internal communication
-
-- systems;
-
-- (ii) know the escape routes from the machinery spaces;
-
-- (iii) know the engine room alarm systems and be able to
-
-- distinguish between the various alarms with special
-
-- reference to the fire extinguishing gas alarm;
-
-- (iv) know the position and use of the fire-fighting equipment
-
-- in the machinery spaces.
-
-- (b) The composition of an underway watch shall, at all times, be
-
-- adequate to ensure the safe operation of all machinery
-
-- affecting the operation of the ship, in either automated or
-
-- manual mode, and be appropriate to the prevailing circumstances
-
-- and conditions. To achieve this, the following, amongst
-
-- others, shall be taken into account-
-
-- (i) the need for adequate supervision, at all times, of
-
-- machinery affecting the safe operation of the ship;
-
-- (ii) the condition and reliability of any remotely operated
-
-- propulsion and steering equipment and their controls, the
-
-- location of such controls and the procedures involved in
-
-- placing them in a manual mode of operation in the event
-
-- of breakdown or emergency;
-
-- (iii) the location and method of operation of fixed fire
-
-- detection, fire extinction or fire containment devices
-
-- and apparatus;
-
-- (iv) the method of use and the operational condition of
-
-- auxiliary, standby and emergency equipment affecting the
-
-- safe navigation, mooring or docking operations of the
-
-- ship;
-
-- (v) steps and procedures necessary to maintain the condition
-
-- of machinery installations in order to ensure their
-
-- efficient operation during all modes of ship operation;
-
-- (vi) any other demands on the watch which may arise as a
-
-- result of special operating circumstances.
-
-- (c) At an unsheltered anchorage the chief engineer officer shall
-
-- consult with the master whether or not to maintain an underway
-
-- watch.
-
-- 4. Fitness for duty The watch system shall be such that the efficiency of the watch is not
-
-- impaired by fatigue. Duties shall be so organized by the chief engineer
-
-- officer that the first watch at the commencement of a voyage and the
-
-- subsequent relieving watches are sufficiently rested and otherwise fit for
-
-- duty.
-
-- 5. Protection of the marine environment All engineer officers and engine room ratings shall be aware of the
-
-- serious effects of operational or accidental pollution of the marine
-
-- environment and shall take all possible precautions to prevent such
-
-- pollution, particularly within the framework of relevant international and
-
-- port regulations.
+- (L.N. 101 of 1998)
