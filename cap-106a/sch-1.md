@@ -72,7 +72,7 @@
 
 - 27. | Radiodetermination and Conveyance of Commands, Status and Data . | $ 80 | (L.N. 193 of 1989)
 
-- 28. | Hotel Television Services Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 301 of 1989; L.N. 430 of 1990)
+- 28. | Hotel Television (Transmission) Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 301 of 1989; L.N. 430 of 1990; 48 of 2000 s. 44)
 
 - 29. | Public Radiocommunications Service Licence | to be assessed on the basis set out in Part II of this Schedule. (L.N. 430 of 1990; 36 of 2000 s. 28)
 
@@ -122,9 +122,9 @@ Item | Licence | Fee
 
     - (b) a fee in respect of mobile stations used by the customers of the service calculated at the rate of $15,000 for the first 200 stations and a further fee of $7,500 for every 100 or part of a 100 mobile stations exceeding 200.
 
-  - 3. For the purposes of determining the fees payable under paragraph 2(a) and (b), the number of stations shall be those functioning at the time when the licence is granted or, as the case may be, renewed. HOTEL TELEVISION SERVICES LICENCE
+  - 3. For the purposes of determining the fees payable under paragraph 2(a) and (b), the number of stations shall be those functioning at the time when the licence is granted or, as the case may be, renewed. HOTEL TELEVISION (TRANSMISSION) LICENCE
 
-  - 1. A fee of $150 for every transmitter unit functioning as an independent source of television programmes and $80 for every reception unit functioning as an independent output from the system shall be payable on the grant or renewal of a hotel television services licence.
+  - 1. A fee of $150 for every transmitter unit functioning as an independent source of television programmes and $80 for every reception unit functioning as an independent output from the system shall be payable on the grant or renewal of a hotel television (transmission) licence.
 
   - 2. When apparatus for radiocommunications is possessed, used, established or maintained in the distribution system of the service licensed, the following additional fees shall be payable on the grant or renewal of the licence—
 
@@ -134,7 +134,13 @@ Item | Licence | Fee
 
   - 3. For the purposes of determining the fees payable under paragraph 2(a) and (b), for the transmitter units and the reception units, the number of units shall be those functioning at the time when the licence is granted or, as the case may be, renewed.
 
-  - 4. For the purposes of determining the fees payable under paragraph 2(a) and (b), the occupied bandwidth shall be that occupied at the time when the licence is granted or, as the case may be, renewed. PUBLIC RADIOCOMMUNICATIONS SERVICE LICENCE
+  - 4.
+
+  - For the purposes of determining the fees payable under paragraph 2(a) and (b), the occupied bandwidth shall be that occupied at the time when the licence is granted or, as the case may be, renewed.
+
+  - (48 of 2000 s. 44)
+
+  - PUBLIC RADIOCOMMUNICATIONS SERVICE LICENCE
 
   - 1. The annual fee payable on the grant and on the anniversary of the grant of a public radiocommunications service licence in each year while the licence remains in force shall be the sum of—
 

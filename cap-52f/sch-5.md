@@ -1,9 +1,7 @@
-# SCHEDULE 5
+# Schedule 5 Ceased to be in force*
 
-[s. 4(3)]
+_
 
-ANNUAL LICENCE FEE FOR A PROGRAMME SERVICE LICENCE
+Note:
 
-The licensee shall pay a fee of $394,590 within 14 days of the grant of the licence, and on the anniversary date of the grant of the licence during the continuance of the licence.
-
-(L.N. 188 of 1997)
+* Please see 48 of 2000 s. 44(1).

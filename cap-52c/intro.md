@@ -1,5 +1,7 @@
 TELEVISION (PERIOD OF VALIDITY OF LICENCE) (TELEVISION BROADCASTS LIMITED) ORDER
 
-(Cap. 52, section 9)
+(Ceased to be in force)
 
-[25 November 1988]
+Editorial Note:
+
+* Please see 48 of 2000 s. 44(1).

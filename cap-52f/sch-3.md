@@ -1,9 +1,7 @@
-# SCHEDULE 3
+# Schedule 3 Ceased to be in force*
 
-[s. 4(1)]
+_
 
-ANNUAL LICENCE FEE FOR A COMMERCIAL TELEVISION BROADCASTING LICENCE
+Note:
 
-An annual fee of $3,944,000 shall be paid by the licensee on 1 January during the continuance of the licence.
-
-(L.N. 485 of 1996; L.N. 518 of 1997)
+* Please see 48 of 2000 s. 44(1).

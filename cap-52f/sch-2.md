@@ -1,7 +1,7 @@
-# SCHEDULE 2
+# Schedule 2 Ceased to be in force*
 
-[s. 3]
+_
 
-SUBSCRIPTION ROYALTY
+Note:
 
-Number of authorized decoders Not more than 83500 More than 83500 but not more than 167000 More than 167000 but not more than 250000 More than 250000 | Rate 1% 2.5% 5% 7.5%
+* Please see 48 of 2000 s. 44(1).

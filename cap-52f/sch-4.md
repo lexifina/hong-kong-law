@@ -1,9 +1,7 @@
-# SCHEDULE 4
+# Schedule 4 Ceased to be in force*
 
-[s. 4(2)]
+_
 
-ANNUAL LICENCE FEE
+Note:
 
-Hong Kong Cable Television Limited shall pay a fee of $1,341,293 within 1 month of the renewal of the licence, and on the anniversary date of the renewal of the licence during the continuance of the licence.
-
-(L.N. 25 of 2000)
+* Please see 48 of 2000 s. 44(1).
