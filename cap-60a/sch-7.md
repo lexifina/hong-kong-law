@@ -6,9 +6,13 @@ SPECIFIED COUNTRIES OR PLACES
 
 Angola
 
+Republic of Armenia
+
 Australia
 
 Austria
+
+Belarus
 
 Belgium
 
@@ -30,6 +34,8 @@ Cote d’Ivoire
 
 Cyprus
 
+Czech Republic
+
 Denmark
 
 Finland
@@ -46,6 +52,8 @@ Greece
 
 Guinea
 
+Guyana
+
 India
 
 Ireland
@@ -57,6 +65,10 @@ Italy
 Japan
 
 Republic of Korea
+
+Lao People’s Democratic Republic
+
+Lebanon
 
 Lesotho
 
@@ -106,8 +118,10 @@ United Kingdom
 
 United States of America
 
+Venezuela
+
 Vietnam
 
 Zimbabwe
 
-(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002)
+(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003)
