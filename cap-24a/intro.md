@@ -1,0 +1,5 @@
+SECURITIES AND FUTURES COMMISSION (LEVY) (SECURITIES) ORDER
+
+(Cap. 24, section 52(1) and (3)(c))
+
+[1 May 1989]
