@@ -19,3 +19,5 @@
 - 8. The area of the first floor of the China Ferry Terminal, Canton Road, Tsimshatsui occupied by the Immigration Department set aside as detention quarters.
 
 - 9. The area of the 2nd floor, Central Government Pier, Road D3, New Central Reclamation Area, Central, occupied by the Immigration Department set aside as a detention room.
+
+- 10. The 1st and 2nd floors of No. 1 Ma Tau Kok Road, Kowloon. (L.N. 537 of 1997)
