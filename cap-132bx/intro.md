@@ -1,0 +1,5 @@
+STADIA (REGIONAL COUNCIL) BY-LAWS
+
+(Cap. 132 section 105D)
+
+[12 October 1973]
