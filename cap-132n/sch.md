@@ -22,7 +22,7 @@
 
 - 10. 1 Tuen Hi Road, Tuen Mun. (L.N. 394 of 1989)
 
-- 11. Ground Floor, Regional Council Peng Chau Complex, Peng Chau. (L.N. 459 of 1991 )
+- 11. Ground Floor, Regional Council Peng Chau Complex, Peng Chau. (L.N. 459 of 1991)
 
 - 12. Ground Floor, Regional Council Mui Wo Complex, Mui Wo. (L.N. 274 of 1993)
 
@@ -34,7 +34,7 @@
 
 - 16. Unit Nos. 102-107, Cheung Lok House, Cheung Wah Estate, Fanling.
 
-- 17. Unit Nos. 10-14, Ground Floor, Hong Shing House, Cheung Hong Estate, Tsing Yi.
+- 17. First Floor, Regional Council Tsing Yi Complex, 38 Tsing Luk Street, Tsing Yi. (L.N. 309 of 1999)
 
 - 18. Unit Nos. 126-130, Ground Floor, Tip Ying House, Butterfly Estate, Tuen Mun.
 
