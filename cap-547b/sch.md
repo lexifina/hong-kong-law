@@ -4,6 +4,12 @@
 
 CONSTITUENCIES OF DISTRICTS
 
+(This Order shall—
+
+- (a) be treated as having been repealed since 10 July 2003 for the purpose only of enabling arrangements to be made for the holding of the District Council ordinary election in 2003; and
+
+- (b) in so far as it has not been treated as repealed under paragraph (a), be repealed on 1 January 2004.)
+
 Item | Name of District | Name of Area | Delineation of Area | Name of Constituency
 
 1. | Central and Western | (1) Chung Wan | That area delineated by the constituency boundary on the approval map identified as Plan No. DCCA/2000/A and marked with the code A01. | Chung Wan
