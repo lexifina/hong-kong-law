@@ -16,7 +16,7 @@ WARNING: (1) The accuracy of any statement made in this annual return may be inv
 
 - (3) This form must be completed in block letters.
 
-- (4) Where an item is not applicable, please write “N/A”. PART A: DETAILS OF LICENCE HOLDER (Please tick the appropriate box.)  Licensed Leveraged Foreign Exchange Trader (Do not complete Part C.)  Representative (Do not complete Part B.)
+- (4) Where an item is not applicable, please write “N/A”. PART A: DETAILS OF LICENCE HOLDER (Please tick the appropriate box.) □ Licensed Leveraged Foreign Exchange Trader (Do not complete Part C.) □ Representative (Do not complete Part B.)
 
 - 1. | Name in English:
 
@@ -108,6 +108,18 @@ WARNING: (1) The accuracy of any statement made in this annual return may be inv
 
 - List of Representatives 26. Please provide an updated list of representatives of the licence holder showing their names, licence numbers and dates of commencement of employment. | N/A | N/A | N/A | N/A
 
+- Continuous Professional Training (“CPT”)
+
+- 27. State whether the licence holder has implemented a training programme to meet the training needs of its licensed representatives (including responsible directors). | N/A | N/A
+
+- 28. State whether the licence holder has evaluated its training programme at least once during the last calendar year. | N/A | N/A
+
+- 29. State whether all of the licensed representatives of the licence holder have attained the required number of CPT hours during the last calendar year. | N/A | N/A
+
+- 30. State whether the licence holder has maintained sufficient records as evidence of its training programme and the CPT activities undertaken by its licensed representatives. | N/A | N/A
+
+- Note: The licence holder may be requested to produce the records for inspection.
+
 - PART C : TO BE COMPLETED BY LICENSED REPRESENTATIVE Please indicate by ticking the appropriate column, whether there have been any changes in the following particulars during the reporting period. Please explain under Part D “SUPPLEMENTARY INFORMATION” if changes have not been notified to the Commission.
 
 - Any change? | Changes notified to the Commission?
@@ -174,6 +186,14 @@ WARNING: (1) The accuracy of any statement made in this annual return may be inv
 
 - Conviction 22. State whether you have been charged with or convicted of any offence, other than a traffic offence, in Hong Kong or elsewhere.
 
+- Continuous Professional Training (“CPT”)
+
+- 23. State whether you have attained the required number of CPT hours during the last calendar year. | N/A | N/A
+
+- 24. State whether you have retained sufficient records of all your CPT activities undertaken during the last calendar year. | N/A | N/A
+
+- Note: You may be requested to produce the records for inspection.
+
 - PART D : SUPPLEMENTARY INFORMATION (If the space provided is insufficient for your answer, please continue on a separate sheet of paper, specifying the number of the item to which your answer relates, and sign and date each such sheet.)
 
 - PART | ITEM NO. | DETAILS (State details of the change and reasons for failure to notify the Commission.)
@@ -186,6 +206,6 @@ WARNING: (1) The accuracy of any statement made in this annual return may be inv
 
 - _ Date | _ Date
 
-- * Delete whichever is inappropriate.
+- * Delete whichever is inappropriate. ** In the case of licensed leveraged foreign exchange trader, this form should be signed by 2 directors, including the responsible director nominated under section 8(b)(ii) of the Ordinance.
 
-- ** In the case of licensed leveraged foreign exchange trader, this form should be signed by 2 directors, including the responsible director nominated under section 8(b)(ii) of the Ordinance.
+(L.N. 16 of 2002)
