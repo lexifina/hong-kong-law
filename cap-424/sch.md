@@ -56,7 +56,7 @@ Children’s high chairs and multi-purpose high chairs for domestic use | Britis
 
 ASTM Standard Standard Consumer Safety Specification for high chairs ASTM F 404-89
 
-International Standard Furniture-Children’s high chairs-Part 1: Safety requirements and Part 2: Test methods ISO 9221-1 & 2:1992
+International Standard Furniture-Children’s high chairs— Part 1: Safety requirements and Part 2: Test methods ISO 9221-1 & 2:1992
 
 New Zealand Standard Specification for safety requirements for children’s high chairs and multi-purpose high chairs for domestic use NZS/BS 5799:1986
 
@@ -78,11 +78,11 @@ Australian Standard Harnesses for use in prams, strollers, and high chairs (incl
 
 Playpens for domestic use | British Standard Specification for safety requirements for playpens for domestic use BS 4863:1991
 
-ASTM Standard Standard Consumer Safety Specification for play yards ASTM F 406-89
+ASTM Standard Standard Consumer Safety Specification for play yards ASTM F 406-97
 
-Wheeled child conveyances | British Standard Specification for safety requirements for wheeled child conveyances BS 7409:1996
+Wheeled child conveyances | British Standard Specification for safety requirements for wheeled child conveyances BS 7409:1996 | AMD 9270:1996
 
-ASTM Standard Standard Consumer Safety Performance Specification for carriages and strollers ASTM F 833-95a
+ASTM Standard Standard Consumer Safety Performance Specification for carriages and strollers ASTM F 833-97
 
 Australian Standard/New Zealand Standard Prams and Strollers-Safety requirements AS/NZS 2088:1993
 
