@@ -46,8 +46,6 @@ Haiphong Road Temporary Market | 海防道臨時街市 (78 of 1999 s. 7)
 
 Heung Che Street Market | 香車街街市
 
-Hip Wo Street Temporary Market | 協和街臨時街市 (78 of 1999 s. 7)
-
 Hung Cheung Cooked Food Market | 洪祥熟食市場 (L.N. 180 of 1979)
 
 Hung Hom Market, Hung Hom Complex | 紅磡街市 (78 of 1999 s. 7)
@@ -152,8 +150,6 @@ Smithfield Market | 士美非路街市 (78 of 1999 s. 7)
 
 Soy Street Temporary Cooked Food Market | 豉油街臨時熟食市場 (78 of 1999 s. 7)
 
-Stanley Market | 赤柱街市 (78 of 1999 s. 7)
-
 Stanley Temporary Market | 赤柱臨時街市 (78 of 1999 s. 7)
 
 Sze Shan Street Cooked Food Market | 四山街熟食市場 (78 of 1999 s. 7)
@@ -200,8 +196,6 @@ Tung Yuen Street Cooked Food Market | 東源街熟食市場 (78 of 1999 s. 7)
 
 Wan Chai Market | 灣仔街市 (78 of 1999 s. 7)
 
-Wan Chai Temporary Market | 灣仔臨時街市 (78 of 1999 s. 7)
-
 Wing Fong Street Market | 榮芳街街市 (L.N. 402 of 1982)
 
 Wo Yi Hop Road Cooked Food Market | 和宜合道熟食市場 (L.N. 62 of 1984)
@@ -220,6 +214,4 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-Yuen Ling Market | 元嶺街市 (78 of 1999 s. 7)
-
-( L.N. 43 of 1995; L.N. 164 of 1996)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000)
