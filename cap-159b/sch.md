@@ -330,7 +330,7 @@ of .
 
     - (10) Trusts, Wills and Probate □
 
-  - 9. I have complied with the requirements of the Continuing Professional Development Scheme.
+  - 9. I have accumulated the number of CPD accreditation points that is required by section 5 of the Continuing Professional Development Rules (Cap. 159 sub. leg. W) to be accumulated by the end of my period of employment as a trainee solicitor.
 
 - (b) AND I, the Principal for myself say as follows—
 
@@ -368,7 +368,7 @@ of .
 
 - Note: Where the Trainee Solicitor has been employed under two or more trainee solicitor contracts, each person employing him shall make a separate declaration. * Delete whichever is inapplicable.
 
-(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000)
+- (L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002)
 
 FORM 5 | [rules 4, 8 & 11]
 
@@ -382,9 +382,7 @@ ADMISSION AND REGISTRATION RULES AFFIDAVIT OF IDENTITY
 
   - SWORN/DECLARED at . Hong Kong this . day of . | ｝
 
-  - Before me Commissioner for Oaths/Solicitors.
-
-- * Please insert relevant profession (e.g. barrister/solicitor/advocate/notary etc.) and the relevant court/bar/chamber.
+- Before me Commissioner for Oaths/Solicitors. * Please insert relevant profession (e.g. barrister/solicitor/advocate/notary etc.) and the relevant court/bar/chamber.
 
 - # Delete whichever is inapplicable.
 
