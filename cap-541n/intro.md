@@ -1,0 +1,7 @@
+ELECTORAL AFFAIRS COMMISSION (FINANCIAL ASSISTANCE FOR LEGISLATIVE COUNCIL ELECTIONS) (APPLICATION AND PAYMENT PROCEDURE) REGULATION
+
+(Made by the Electoral Affairs Commission under section 7 of the
+
+Electoral Affairs Commission Ordinance (Cap. 541))
+
+[15 July 2004]
