@@ -76,6 +76,10 @@ s-047G.md
 s-048.md
 s-048A.md
 s-048B.md
+s-048C.md
+s-048D.md
+s-048E.md
+s-048F.md
 s-049.md
 s-049A.md
 s-049B.md
@@ -479,6 +483,8 @@ s-290D.md
 s-290E.md
 s-291.md
 s-291A.md
+s-291AA.md
+s-291AB.md
 s-291B.md
 s-292.md
 s-292A.md
@@ -499,6 +505,7 @@ s-302.md
 s-302A.md
 s-303.md
 s-303A.md
+s-303B.md
 s-304.md
 s-305.md
 s-306.md
@@ -616,3 +623,4 @@ sch-12.md
 sch-13.md
 sch-14.md
 sch-15.md
+sch-16.md

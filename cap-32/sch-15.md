@@ -20,7 +20,7 @@ MATTERS FOR DETERMINING UNFITNESS OF DIRECTORS
 
     - (d) section 107;
 
-    - (e) section 108;
+    - (e) (Repealed 30 of 1999 s. 40)
 
     - (f) section 109;
 

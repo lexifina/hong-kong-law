@@ -1,7 +1,5 @@
 # First Schedule
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2 ; 25 of 1998 s. 2)
-
 TABLE A [sections 11, 114A & 360]
 
 - PART I REGULATIONS FOR MANAGEMENT OF A COMPANY LIMITED
@@ -218,17 +216,27 @@ TABLE A [sections 11, 114A & 360]
 
   - 72. An instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit— “ Limited
 
-  - I/We , of , being a member/members of the
+  - I/We , of , being a member/members of the above-named company, hereby appoint
 
-  - above-named company, hereby appoint of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof. Signed this day of 19 .”.
+  - of , or failing him, | of
 
-  - 73. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit— “ Limited.
+  - , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof. Signed this day of 19 .”.
+
+  - 73. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit— “ Limited
 
   - I/We, , of , being a member/members of the
 
-  - above-named company, hereby appoint of , or failing him, of ,
+  - above-named company, hereby appoint | of
 
-  - as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company, to be held on the day of 19 , and at any adjournment thereof. Signed this day of 19 . This form is to be used *in favour of/against the resolution. Unless otherwise instructed, the proxy will vote as he thinks fit.
+  - , or failing him, of | ,
+
+  - as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company, to be held on the day of 19 , and at any adjournment thereof. Signed this day of 19 .
+
+  - This form is to be used | *in favour of | the resolution.
+
+  - against
+
+  - Unless otherwise instructed, the proxy will vote as he thinks fit.
 
   - *Strike out whichever is not desired.”.
 
@@ -294,7 +302,7 @@ TABLE A [sections 11, 114A & 360]
 
   - and every director present at any meeting of directors or committee of directors shall sign his name in a book to be kept for that purpose.
 
-  - 89. The directors on behalf of the company may pay a gratuity or pension or allowance on retirement to any director who has held any other salaried office or place of profit with the company or to his widow or dependants and may make contributions to any fund and pay premiums for the purchase or provision of any such gratuity, pension or allowance. Disqualification of Directors
+  - 89. The directors on behalf of the company may pay a gratuity or pension or allowance on retirement to any director who has held any other salaried office or place of profit with the company or to the director’s spouse or dependants and may make contributions to any fund and pay premiums for the purchase or provision of any such gratuity, pension or allowance. (Amended 30 of 1999 s. 35) Disqualification of Directors
 
   - 90. The office of director shall be vacated if the director—
 
@@ -346,7 +354,7 @@ TABLE A [sections 11, 114A & 360]
 
   - 108. A resolution in writing, signed by all the directors for the time being entitled to receive notice of a meeting of the directors, shall be as valid and effectual as if it had been passed at a meeting of the directors duly convened and held:
 
-    - Provided that this regulation shall not apply in relation to any contract or arrangement (not being one of the types specified in regulation 86(2) ) in which a director or directors are interested, unless the number of directors signing the resolution who are not interested in the contract or arrangement would have constituted a quorum of directors if a meeting had been held for the purpose of considering the contract or arrangement.
+    - Provided that this regulation shall not apply in relation to any contract or arrangement (not being one of the types specified in regulation 86(2)) in which a director or directors are interested, unless the number of directors signing the resolution who are not interested in the contract or arrangement would have constituted a quorum of directors if a meeting had been held for the purpose of considering the contract or arrangement.
 
   - Managing Director
 
@@ -480,7 +488,7 @@ TABLE A [sections 11, 114A & 360]
 
   - , Banker. | -
 
-  - Total shares taken | 2 ==
+  - Total shares taken | 2 =====
 
   - Dated the day of 19 .
 
@@ -536,9 +544,7 @@ TABLE A [sections 11, 114A & 360]
 
   - (Amended 25 of 1998 s. 2)
 
-  - _
-
-  - ARTICLES OF ASSOCIATION TO ACCOMPANY PRECEDING
+  - _ ARTICLES OF ASSOCIATION TO ACCOMPANY PRECEDING
 
   - MEMORANDUM OF ASSOCIATION Interpretation
 
@@ -614,17 +620,39 @@ TABLE A [sections 11, 114A & 360]
 
   - 24. The instrument appointing a proxy and the power of attorney or other authority, if any, under which it is signed or a notarially certified copy of that power or authority shall be deposited at the registered office of the company or at such other place within Hong Kong as is specified for that purpose in the notice convening the meeting, not less than 48 hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote, or, in the case of a poll, not less than 24 hours before the time appointed for the taking of the poll, and in default the instrument of proxy shall not be treated as valid.
 
-  - 25. An instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit— “ Limited.
+  - 25. An instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit—
 
-  - I/We of , being a member/members of the above named company, hereby appoint of or failing him of
+  - “ | Limited.
 
-  - , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof. Signed this day of 19 .”.
+  - I/We of , being a member/members
 
-  - 26. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit— “ Limited.
+  - of the above named company, hereby appoint | of
 
-  - I/We , of
+  - or failing him
 
-  - , being a member/members of the above named company, hereby appoint of or failing him of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof. Signed this day of 19 . This form is to be used *in favour of/against the solution. Unless otherwise instructed, the proxy will vote as he thinks fit. *Strike out whichever is not desired.”.
+  - of | ,
+
+  - as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof.
+
+  - Signed this | day of | 19 .”.
+
+  - 26. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit—
+
+  - “ | Limited.
+
+  - I/We , of , being a member/members of the above named company, hereby appoint of
+
+  - or failing him | of | ,
+
+  - as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof.
+
+  - Signed this | day of | 19 .
+
+  - This form is to be used will vote as he thinks fit. | *in favour of | the resolution. Unless otherwise instructed, the proxy
+
+  - against
+
+  - *Strike out whichever is not desired.”.
 
   - 27. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
 
@@ -760,7 +788,7 @@ TABLE A [sections 11, 114A & 360]
 
   - 1. | Chan Kwok-wah (陳國華) of , Headmaster.
 
-  - 2. | Lee Wing-tak (李榮德)of , Stockbroker.
+  - 2. | Lee Wing-tak (李榮德) of , Stockbroker.
 
   - Dated the day of 19 .
 
@@ -802,11 +830,11 @@ TABLE A [sections 11, 114A & 360]
 
   - 1. | Chow Tak-kwong (周德光) of , Hotel Executive. | 1
 
-  - 2. | Hamish MacDonald of , Banker. | 1
+  - 2. | Hamish MacDonald of | 1
 
-  - _
+  - , Banker. | -
 
-  - Total shares taken | 2 ==
+  - Total shares taken | 2 =====
 
   - Dated the day of 19 .
 
@@ -822,9 +850,7 @@ TABLE A [sections 11, 114A & 360]
 
   - Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
 
-  - _
-
-  - ARTICLES OF ASSOCIATION TO ACCOMPANY
+  - _ ARTICLES OF ASSOCIATION TO ACCOMPANY
 
   - PRECEDING MEMORANDUM OF ASSOCIATION
 
@@ -862,9 +888,9 @@ TABLE A [sections 11, 114A & 360]
 
   - MEMORANDUM AND ARTICLES OF ASSOCIATION
 
-  - OF AN UNLIMITED COMPANY HAVING A SHARE
+  - OF AN UNLIMITED COMPANY HAVING
 
-  - CAPITAL Memorandum of Association
+  - A SHARE CAPITAL Memorandum of Association
 
   - 1st. The name of the company is “Chan and Ma Consulting Civil Engineers Company (陳馬工程顧問公司)”.
 
@@ -876,17 +902,13 @@ TABLE A [sections 11, 114A & 360]
 
   - Names, Addresses and Descriptions of Subscribers | Number of Shares taken by each Subscriber
 
-  - 1. | Chan Tai-wai (陳大偉) of | 1
-
-  - , Consulting Civil Engineer.
+  - 1. | Chan Tai-wai (陳大偉) of , Consulting Civil Engineer. | 1
 
   - 2. | Ma Wai-tong (馬偉棠) of | 1
 
-  - , Consulting Civil Engineer. | _
+  - , Consulting Civil Engineer. | -
 
-  - Total shares taken | 2
-
-  - ==
+  - Total shares taken | 2 =====
 
   - Dated the day of 19 .
 
@@ -902,9 +924,7 @@ TABLE A [sections 11, 114A & 360]
 
   - Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
 
-  - _
-
-  - ARTICLES OF ASSOCIATION TO ACCOMPANY
+  - _ ARTICLES OF ASSOCIATION TO ACCOMPANY
 
   - THE PRECEDING MEMORANDUM OF
 
@@ -932,11 +952,7 @@ TABLE A [sections 11, 114A & 360]
 
   - 1. | Chan Tai-wai (陳大偉) of , Consulting Civil Engineer.
 
-  - 2. | Ma Wai-tong (馬偉棠) of , Consulting Civil Engineer,
-
-  - Dated the day of 19 .
-
-  - Witness to the above signatures,
+  - 2. | Ma Wai-tong (馬偉棠) of , Consulting Civil Engineer. Dated the day of 19 . Witness to the above signatures,
 
   - John Jones,
 

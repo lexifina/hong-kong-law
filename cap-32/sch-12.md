@@ -10,6 +10,8 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 10(3) | Company without a share capital failing to give notice of an increase of number of members beyond the registered number | Summary | level 3 | $300
 
+13(4) | Company failing to deliver to the Registrar document following alteration to its articles (Added 30 of 1999 s. 38) | Summary | level 3 | $300
+
 21(9) | Failure by a body to alter its name on the revocation of a licence to use the words “Chamber of Commerce”, etc. in its name | Summary | level 3 | $700
 
 22(6) | Company failing to change name on the direction of the Registrar (Replaced 60 of 1990 s. 10) | Summary | level 6 and 6 months | $700
@@ -303,6 +305,10 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 284(3) | Liquidator failing to send prescribed particulars with respect to the proceedings in and position of the liquidation during the liquidation to the Registrar | Summary | level 3 | $700
 
 290(2) | Person failing to deliver an office copy of an order under section 290 to the Registrar for registration | Summary | level 3 | $300
+
+291AA(14) | Person giving false or misleading information in connection with application for deregistration (Added 30 of 1999 s. 38) | Summary | level 6 and 6 months | —
+
+292(5) | Former director failing to keep books and papers of dissolved company (Added 30 of 1999 s. 38) | Summary | level 3 | —
 
 297(2) | Body corporate acting as a receiver | Summary | level 5 | —
 

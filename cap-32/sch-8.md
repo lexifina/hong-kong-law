@@ -1,4 +1,4 @@
-# EIGHTH SCHEDULE
+# SCHEDULE 8
 
 [ss. 304, 318 & 360]
 
@@ -20,7 +20,7 @@ I.-BY A COMPANY HAVING A SHARE CAPITAL
 
 (d) | for registration of any existing company, except such companies as are by this Ordinance exempted from payment of fees in respect of registration under this Ordinance, the same fee as is charged for the registration of a new company.
 
-(e) | annual registration fee (to be paid on delivery of annual return under section 107)— for a private company having a share capital— (i) if delivered within 42 days after the anniversary of incorporation . (ii) if delivered more than 42 days after but within 3 months after the anniversary of incorporation . (iii) if delivered more than 3 months after but within 6 months after the anniversary of incorporation . (iv) if delivered more than 6 months after but within 9 months after the anniversary of incorporation . (v) if delivered more than 9 months after the anniversary of incorporation . for any other company— (vi) if delivered within 42 days after the annual general meeting . (vii) if delivered more than 42 days after but within 3 months after the annual general meeting . (viii) if delivered more than 3 months after but within 6 months after the annual general meeting . (ix) if delivered more than 6 months after but within 9 months after the annual general meeting . (x) if delivered more than 9 months after the annual general meeting (Replaced L.N. 11 of 1996) . | $ 105 $ 870 $1,740 $2,610 $3,480 $ 140 $1,200 $2,400 $3,600 $4,800
+(e) | annual registration fee (to be paid on delivery of annual return under section 107)— for a private company having a share capital— (i) if delivered within 42 days after the anniversary of incorporation (ii) if delivered more than 42 days after but within 3 months after the anniversary of incorporation . (iii) if delivered more than 3 months after but within 6 months after the anniversary of incorporation . (iv) if delivered more than 6 months after but within 9 months after the anniversary of incorporation . (v) if delivered more than 9 months after the anniversary of incorporation . for any other company— (vi) if delivered within 42 days after the annual general meeting . (vii) if delivered more than 42 days after but within 3 months after the annual general meeting . (viii) if delivered more than 3 months after but within 6 months after the annual general meeting . (ix) if delivered more than 6 months after but within 9 months after the annual general meeting . (x) if delivered more than 9 months after the annual general meeting (Replaced L.N. 11 of 1996) . | $ 105 $ 870 $1,740 $2,610 $3,480 $ 140 $1,200 $2,400 $3,600 $4,800
 
 (f) | (Repealed L.N. 11 of 1996)
 
@@ -103,5 +103,7 @@ V.-MISCELLANEOUS FEES
 (n) | lodgment fee for special resolution for change of name (Added L.N. 11 of 1996) . | $ 240
 
 (o) | fee for issuing a certificate of incorporation on change of name under section 22 (Added L.N. 11 of 1996) . | $ 55
+
+(p) | application fee for deregistration of a private company under section 291AA (Added 30 of 1999 s. 36) . | $ 420
 
 (Replaced 41 of 1989 s. 5)(Eighth Schedule amended L.N. 231 of 1993; L.N. 371 of 1994; L.N. 11 of 1996; L.N. 457 of 1997; L.N. 149 of 1998)

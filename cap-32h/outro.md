@@ -1,7 +1,5 @@
 APPENDIX FORMS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 FORM 1 | [rule 7]
 
 FORM OF SUMMONS (General) (Title)
@@ -70,7 +68,9 @@ the court under the provisions of the Companies Ordinance.
 
 NOTE-(d) It is intended to serve this petition on.
 
-(L.N. 201 of 1984; 25 of 1998 s. 2) | (d) This note will be unnecessary if the Company is petitioner.
+(d) This note will be unnecessary if the Company is petitioner.
+
+(L.N. 201 of 1984; 25 of 1998 s. 2)
 
 _
 
@@ -100,7 +100,9 @@ PETITION BY MINORITY SHAREHOLDER
 
 (Title)
 
-Paragraphs 1, 2, 3 and 4 as in Form 2. [Then set out in paragraphs the facts on which the petitioner relies and continue as follows]:— In these circumstances your petitioner submits that the affairs of the company are being conducted in a manner unfairly prejudicial to a part of the members of the company including your petitioner. Your petitioner therefore humbly prays as follows:— (1) [Here set out remedy sought and conclude] (2) Or that such other order may be made in the premises as shall be just. _ NOTE-It is intended to serve this petition on. (L.N. 178 of 1978)
+Paragraphs 1, 2, 3 and 4 as in Form 2. [Then set out in paragraphs the facts on which the petitioner relies and continue as follows]:— In these circumstances your petitioner submits that the affairs of the company are being conducted in a manner unfairly prejudicial to a part of the members of the company including your petitioner. Your petitioner therefore humbly prays as follows:— (1) [Here set out remedy sought and conclude] (2) Or that such other order may be made in the premises as shall be just. _ NOTE-It is intended to serve this petition on.
+
+(L.N. 178 of 1978)
 
 _
 
@@ -114,7 +116,9 @@ Notice is hereby given that a petition for the winding up of the above-named com
 
 Signed (b) [Name] | (b) To be signed by the solicitor to the petitioner or by the petitioner if he has no solicitor.
 
-[Address] _ NOTE-Any person who intends to appear on the hearing of the said petition must serve on or send by post to the above-named, notice in writing of his intention so to do. The notice must state the name and address of the person, or, if a firm, the name and address of the firm, and must be signed by the person or firm, or his or their solicitor (if any), and must be served, or if posted, must be sent by post in sufficient time to reach the above-named not later than 6 o’clock in the afternoon of the of 19 . (L.N. 201 of 1984; 25 of 1998 s. 2)
+[Address] _ NOTE-Any person who intends to appear on the hearing of the said petition must serve on or send by post to the above-named, notice in writing of his intention so to do. The notice must state the name and address of the person, or, if a firm, the name and address of the firm, and must be signed by the person or firm, or his or their solicitor (if any), and must be served, or if posted, must be sent by post in sufficient time to reach the above-named not later than 6 o’clock in the afternoon of the of 19 .
+
+(L.N. 201 of 1984; 25 of 1998 s. 2)
 
 _
 
@@ -136,7 +140,9 @@ on the day of 19 ; and any creditor or contributory
 
 of the said company desirous to support or oppose the making of an order on the said petition may appear at the time of hearing in person or by his counsel for that purpose; and a copy of the petition will be furnished by the undersigned to any creditor or contributory of the said company requiring such copy on payment of the regulated charge for the same.
 
-Signed (c) [Name] [Address] _ NOTE-Any person who intends to appear on the hearing of the said petition must serve on or send by post to the above-named, notice in writing of this intention so to do. The notice must state the name and address of the person, or, if a firm, the name and address of the firm, and must be signed by the person or firm, or his or their solicitor (if any), and must be served, or if posted, must be sent by post in sufficient time to reach the above-named not later than 6 o’clock in the afternoon of the of , 19 . (L.N. 178 of 1978; 25 of 1998 s. 2) | (c) To be signed by the solicitor to the petitioner or by the petitioner if he has no solicitor.
+Signed (c) [Name] [Address] _ NOTE-Any person who intends to appear on the hearing of the said petition must serve on or send by post to the above-named, notice in writing of this intention so to do. The notice must state the name and address of the person, or, if a firm, the name and address of the firm, and must be signed by the person or firm, or his or their solicitor (if any), and must be served, or if posted, must be sent by post in sufficient time to reach the above-named not later than 6 o’clock in the afternoon of the of , 19 . | (c) To be signed by the solicitor to the petitioner or by the petitioner if he has no solicitor.
+
+(L.N. 178 of 1978; 25 of 1998 s. 2)
 
 _
 
@@ -198,11 +204,11 @@ NOTICE OF INTENTION TO APPEAR ON PETITION
 
 (Title)
 
-Take notice that A.B., of (a) a creditor for $ of (or contributory holding (b) shares in) the above company intends to appear on the hearing of the petition advertised to be heard on the day of , 19 , and to support (or oppose) such petition. (Signed) (c) [Address] To | (a) State full name, or if a firm, the name of the firm and address
+Take notice that A.B., of (a) a creditor for $ of (or contributory holding (b) shares in) the above company intends to appear on the hearing of the petition advertised to be heard on the day of , 19 , and to support (or oppose) such petition. (Signed) (c) [Address] To | (a) State full name, or if a firm, the name of the firm and address.
 
-(b) State number and class of shares held
+(b) State number and class of shares held.
 
-(c) To be signed by the person or his solicitor or agent
+(c) To be signed by the person or his solicitor or agent.
 
 _
 
@@ -262,7 +268,9 @@ day of , 19 .
 
 (Title)
 
-Upon the petition of the above-named company (or A.B., of &c., a creditor (or contributory) of the above-named company), on the day of , 19 , preferred unto the court, and upon hearing for the petitioner, and for and upon reading the said petition, an affidavit of (the said petitioner), filed, &c., verifying the said petition, an affidavit of L.M., filed the day of , 19 , the Gazette of the day of , 19 , the newspaper of the day of (enter any other papers), each containing an advertisement of the said petition (enter any other evidence), this court doth order that the said company be wound up by this court under the provisions of the Companies Ordinance (Chapter 32), and that the Official Receiver, or as the case may be, be constituted provisional liquidator of the affairs of the company. And it is ordered that the costs of of the said petition be taxed and paid out of the assets of the said company. _ NOTE-It will be the duty of the secretary and of every officer of the company and of such of the persons who are liable to make out or concur in making out the company’s statement of affairs, as the Official Receiver may require, to attend on the Official Receiver at such time and place as he may appoint and to give him all information he may require. (L.N. 201 of 1984)
+Upon the petition of the above-named company (or A.B., of &c., a creditor (or contributory) of the above-named company), on the day of , 19 , preferred unto the court, and upon hearing for the petitioner, and for and upon reading the said petition, an affidavit of (the said petitioner), filed, &c., verifying the said petition, an affidavit of L.M., filed the day of , 19 , the Gazette of the day of , 19 , the newspaper of the day of (enter any other papers), each containing an advertisement of the said petition (enter any other evidence), this court doth order that the said company be wound up by this court under the provisions of the Companies Ordinance (Chapter 32), and that the Official Receiver, or as the case may be, be constituted provisional liquidator of the affairs of the company. And it is ordered that the costs of of the said petition be taxed and paid out of the assets of the said company. _ NOTE-It will be the duty of the secretary and of every officer of the company and of such of the persons who are liable to make out or concur in making out the company’s statement of affairs, as the Official Receiver or provisional liquidator may require, to attend on the Official Receiver or provisional liquidator at such time and place as he may appoint and to give him all information he may require.
+
+(L.N. 201 of 1984)
 
 _
 
@@ -290,7 +298,9 @@ AFFIDAVIT BY SPECIAL MANAGER VERIFYING ACCOUNT
 
 (Title)
 
-I, , of make oath and say as follows— 1. The account hereunto annexed, marked with the letter “A”, produced and shown to me at the time of swearing this my affidavit, and purporting to be my account as special manager of the estate or business of the above-named company, contains a true account of all and every sums and sum of money received by me or by any other person or persons by my order or to my knowledge or belief for my use on account or in respect of the said estate or business. 2. The several sums of money mentioned in the said account hereby verified to have been paid or allowed have been actually and truly so paid and allowed for the several purposes in the said account mentioned. 3. The said account is just and true in all and every items and particulars therein contained, according to the best of my knowledge and belief. Sworn, &c. (L.N. 587 of 1995)
+I, , of make oath and say as follows— 1. The account hereunto annexed, marked with the letter “A”, produced and shown to me at the time of swearing this my affidavit, and purporting to be my account as special manager of the estate or business of the above-named company, contains a true account of all and every sums and sum of money received by me or by any other person or persons by my order or to my knowledge or belief for my use on account or in respect of the said estate or business. 2. The several sums of money mentioned in the said account hereby verified to have been paid or allowed have been actually and truly so paid and allowed for the several purposes in the said account mentioned. 3. The said account is just and true in all and every items and particulars therein contained, according to the best of my knowledge and belief. Sworn, &c.
+
+(L.N. 587 of 1995)
 
 _
 
@@ -300,7 +310,9 @@ NOTICE TO CREDITORS OF FIRST MEETING
 
 (Title)
 
-(Under the order for winding up the above-named company, dated the day of , 19 .) Notice is hereby given that the first meeting of creditors in the above matter will be held at on the day of 19 , at o’clock in the noon. To entitle you to vote thereat your proof must be lodged with me not later than o’clock on the day of , 19 . Forms of proof and of general and special proxies are enclosed herewith. Proxies to be used at the meeting must be lodged with me not later than o’clock on the day of , 19 . Official Receiver Address (The statement of the company’s affairs (a) ) Note At the first meetings of the creditors and contributories they may amongst other things— 1. By resolution determine whether or not an application is to be made to the court to appoint a liquidator in place of the Official Receiver. 2. By resolution determine whether or not an application shall be made to the court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of the committee if appointed. Note-If a liquidator is not appointed by the court the Official Receiver will be the liquidator. | (a) Here insert “has not been lodged” or “has been lodged, and summary is enclosed”
+(Under the order for winding up the above-named company, dated the day of , 19 .) Notice is hereby given that the first meeting of creditors in the above matter will be held at on the day of 19 , at o’clock in the noon. To entitle you to vote thereat your proof must be lodged with me not later than o’clock on the day of , 19 . Forms of proof and of general and special proxies are enclosed herewith. Proxies to be used at the meeting must be lodged with me not later than o’clock on the day of , 19 . Address (The statement of the company’s affairs (a) ) Note At the first meetings of the creditors and contributories they may amongst other things— 1. By resolution determine whether or not an application is to be made to the court to appoint a liquidator in place of the provisional liquidator. 2. By resolution determine whether or not an application shall be made to the court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of the committee if appointed. | (a) Here insert “has not been lodged” or “has been lodged, and summary is enclosed”.
+
+(46 of 2000 s. 40)
 
 _
 
@@ -310,7 +322,9 @@ NOTICE TO CONTRIBUTORIES OF FIRST MEETING
 
 (Title)
 
-Notice is hereby given that the first meeting of the contributories in the above matter will be held at on the day of , 19 , at o’clock in the noon. Forms of general and special proxies are enclosed herewith. Proxies to be used at the meeting must be lodged with me not later than o’clock on the day of , 19 . Dated this day of ,19 . Official Receiver Address (The company’s statement of affairs (a) ). Note At the first meetings of creditors and contributories they may amongst other things— 1. By resolution determine whether or not an application shall be made to the court to appoint a liquidator in place of the Official Receiver. 2. By resolution determine whether or not an application shall be made to the court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of the committee if appointed. Note-If a liquidator is not appointed by the court the Official Receiver will be the liquidator. | (a) Here insert “has not been lodged” or “ has been lodged, and summary is enclosed”.
+Notice is hereby given that the first meeting of the contributories in the above matter will be held at on the day of , 19 , at o’clock in the noon. Forms of general and special proxies are enclosed herewith. Proxies to be used at the meeting must be lodged with me not later than o’clock on the day of , 19 . Dated this day of ,19 . Address (The company’s statement of affairs (a) ). Note At the first meetings of creditors and contributories they may amongst other things— 1. By resolution determine whether or not an application shall be made to the court to appoint a liquidator in place of the provisional liquidator. 2. By resolution determine whether or not an application shall be made to the court for the appointment of a committee of inspection to act with the liquidator, and who are to be the members of the committee if appointed. | (a) Here insert “has not been lodged” or “ has been lodged, and summary is enclosed”.
+
+(46 of 2000 s. 40)
 
 _
 
@@ -324,7 +338,9 @@ FIRST MEETING OF CREDITORS OR CONTRIBUTORIES
 
 Take notice that the first meeting of creditors [or contributories] will be held on the day of , 19 , at o’clock at (a) and that you are required to attend thereat, and give such information as the meeting may require. | (a) Here insert place where meeting will be held.
 
-Dated this day of , 19 . To (b) Official Receiver _ NOTE-The failure of any director or officer to attend will be reported by the Official Receiver to the court. | (b) Insert name of person required to attend.
+Dated this day of , 19 . To (b) _ NOTE-The failure of any director or officer to attend will be reported to the court. | (b) Insert name of person required to attend.
+
+(46 of 2000 s. 40)
 
 _
 
@@ -370,7 +386,7 @@ In the matter of the Companies Ordinance (Chapter 32).
 
 STATEMENT OF AFFAIRS on the _ day of _ 19 _ , the
 
-date of the Winding-up Order (or such other date as the Official Receiver has for special reasons directed). Notes
+date of the Winding-up Order (or such other date as the liquidator has for special reasons directed). Notes
 
 - (1) Please complete this Statement of Affairs and such of the attached lists A, B, C, D, E, F, G, H, I and J as are applicable. If there is a dispute about any amount due to or by the wound-up company please specify this in the relevant list and supply details in a separate schedule which should be signed and attached as part of the Statement of Affairs.
 
@@ -436,7 +452,7 @@ date of the Winding-up Order (or such other date as the Official Receiver has fo
 
 - AFFIDAVIT OR AFFIRMATION Notes: (1) The Commissioner is particularly requested, before swearing the Affidavit or making the Affirmation, to ascertain that the full name, address and description of the Deponent are stated, and to initial all crossings-out or other alterations on the printed form. A deficiency in the Affidavit/Affirmation in any of the above respects will entail its refusal by the court, and will necessitate it being re-sworn/re-affirmed.
 
-- (2) Where the Official Receiver has directed any date other than the date of the winding-up order, substitute such other date.
+- (2) Where the liquidator has directed any date other than the date of the winding-up order, substitute such other date.
 
 - (3) An asterisk (*) signifies that the inapplicable words should be deleted. -
 
@@ -468,7 +484,7 @@ date of the Winding-up Order (or such other date as the Official Receiver has fo
 
 - (g) Security held by the _ company in respect of loans granted to _ others (Please provide details) _ | _ _ _
 
-- (h) Any other assets _ (please provide details) _ | _ _
+- (h) Any other assets _ (please provide details) _ | _
 
 - (i) Total (show the total under “Assets” on page 1 of the Statement of Affairs) $
 
@@ -950,7 +966,7 @@ date of the Winding-up Order (or such other date as the Official Receiver has fo
 
 - Note: Where particulars are numerous they should be inserted in a separate schedule. Dated this day of 19 . (Signature)
 
-(L.N. 24 of 1995; 25 of 1998 s. 2)
+(L.N. 24 of 1995; 25 of 1998 s. 2; 46 of 2000 s. 40)
 
 _
 
@@ -1000,17 +1016,17 @@ ORDER APPOINTING LIQUIDATOR
 
 (Title)
 
-the day of
+the day of .
 
-Upon the application of the Official Receiver and provisional liquidator of the above-named company, by summons dated and upon hearing the applicant in person and upon reading the order to wind up the said company dated , and the reports of the Official Receiver of the results of the meetings of creditors and contributories made to the court and respectively dated the (a)[, and the affidavit of as to the fitness of the liquidator hereinafter named filed ]. It is ordered that of be appointed liquidator of the above-named company. | (a) To be inserted only if such affidavit is required.
+Upon the application of the provisional liquidator of the above-named company, by summons dated and upon hearing the applicant in person and upon reading the order to wind up the said company dated , and the reports of the provisional liquidator of the results of the meetings of creditors and contributories made to the court and respectively dated the (a)[, and the affidavit of as to the fitness of the liquidator hereinafter named filed ]. It is ordered that of be appointed liquidator of the above-named company. | (a) To be inserted only if such affidavit is required.
 
 (b) It is also ordered that the following persons be appointed a committee of inspection to act with the said liquidator, namely— | (b) To be struck out if no committee of inspection appointed.
 
-And it is ordered that the said liquidator do within 7 days from the date of this order give security to the satisfaction of the Official Receiver as provided by the Companies (Winding-up) Rules.
+And it is ordered that the said liquidator do within 7 days from the date of this order give security to the satisfaction of the provisional liquidator as provided by the Companies (Winding-up) Rules.
 
 And notice of this order is to be gazetted and advertised in the(c). | (c) State name of newspaper (if any).
 
-(L.N. 286 of 1997)
+(L.N. 286 of 1997; 46 of 2000 s. 40)
 
 _
 
@@ -1044,7 +1060,9 @@ OR WINDING UP BY THE COURT
 
 Pursuant to Sections 195 and 253
 
-Name of company or title of proceedings (as the case may be) To The Registrar of Companies. (a)I, (or We) of hereby give you notice that I (or we) have been appointed liquidator(s) of Company, Limited by(b) (Signature) (c) Dated this day of , . Presented for filing by (L.N. 286 of 1997) | (a) Insert name(s) and (i) Hong Kong Identity Card Number(s); or (ii) Pass— port Number(s) together with the name(s) of the issuing country (or countries). (b) State whether appointed by resolution of the company or by the creditors or by order of the court and give date of resolution or order. (c) To be signed by each liquidator if more than one.
+Name of company or title of proceedings (as the case may be) To The Registrar of Companies. (a)I, (or We) of hereby give you notice that I (or we) have been appointed liquidator(s) of Company, Limited by(b) (Signature) (c) Dated this day of , . Presented for filing by | (a) Insert name(s) and (i) Hong Kong Identity Card Number(s); or (ii) Pass— port Number(s) together with the name(s) of the issuing country (or countries). (b) State whether appointed by resolution of the company or by the creditors or by order of the court and give date of resolution or order. (c) To be signed by each liquidator if more than one.
+
+(L.N. 286 of 1997)
 
 _
 
@@ -1054,11 +1072,13 @@ ORDER DIRECTING A PUBLIC EXAMINATION
 
 (Title)
 
-Upon reading the reports of the Official Receiver in the above matter, dated respectively the day of 19 , the day of 19 and It is ordered that the several persons whose names and addresses are set forth in the schedule hereto do attend before the court on a day and at a place to be named for the purpose, and be publicly examined as to the promotion or formation of the company, and as to the conduct of the business of the company, and as to their conduct and dealings as directors or officers of the company.
+Upon reading the reports of the Official Receiver or liquidator, as the case may be, in the above matter, dated respectively the day of 19 , the day of 19 and It is ordered that the several persons whose names and addresses are set forth in the schedule hereto do attend before the court on a day and at a place to be named for the purpose, and be publicly examined as to the promotion or formation of the company, and as to the conduct of the business of the company, and as to their conduct and dealings as directors or officers of the company.
 
 THE SCHEDULE REFERRED TO
 
 Name | Address | Connexion with the company
+
+(46 of 2000 s. 40)
 
 _
 
@@ -1068,7 +1088,9 @@ ORDER APPOINTING A TIME FOR PUBLIC EXAMINATION
 
 (Title)
 
-Upon the application of the Official Receiver in the above matter, it is ordered that the public examination of who, by the order of the court dated the day of 19 , was directed to attend before the court to be publicly examined, be held at the Courts of Justice on the day of 19 , at o’clock in the noon. And it is ordered that the above-named do attend at the place and time above-mentioned. Dated this day of , 19 . _ NOTE-Notice is hereby given that if you, the above-named fail, without reasonable excuse, to attend at the time and place aforesaid, you will be liable to be committed to prison without further notice.
+Upon the application of the Official Receiver or liquidator, as the case may be, in the above matter, it is ordered that the public examination of who, by the order of the court dated the day of 19 , was directed to attend before the court to be publicly examined, be held at the Courts of Justice on the day of 19 , at o’clock in the noon. And it is ordered that the above-named do attend at the place and time above-mentioned. Dated this day of , 19 . _ NOTE-Notice is hereby given that if you, the above-named fail, without reasonable excuse, to attend at the time and place aforesaid, you will be liable to be committed to prison without further notice.
+
+(46 of 2000 s. 40)
 
 _
 
@@ -1078,7 +1100,9 @@ NOTICE TO ATTEND PUBLIC EXAMINATION
 
 (Title)
 
-Whereas by an order of this court, made on the day of 19 , it was ordered that you, the undermentioned should attend before the court on the day and at a place to be named for the purpose, and be publicly examined as to the promotion or formation of the company, and as to the conduct of the business of the company, and as to your conduct and dealings as (a) And whereas the day of 19 , at o’clock, in the noon, before the sitting at has been appointed as the time and place for holding the said examination. Notice is hereby given that you are required to attend at the said time and place, and at any adjournments of the examination which may be ordered, and to bring with you and produce all books, papers, and writing and other documents in your custody or power in any way relating to the above-named company. And take notice that if you fail, without reasonable excuse, to attend at such time and place, and at the adjournments of the said public examination which may be ordered, you will be liable to be committed to prison without further notice. Dated this day of , 19 . To Official Receiver | (a) Insert director or officer [or as the case may be.]
+Whereas by an order of this court, made on the day of 19 , it was ordered that you, the undermentioned should attend before the court on the day and at a place to be named for the purpose, and be publicly examined as to the promotion or formation of the company, and as to the conduct of the business of the company, and as to your conduct and dealings as (a) And whereas the day of 19 , at o’clock, in the noon, before the sitting at has been appointed as the time and place for holding the said examination. Notice is hereby given that you are required to attend at the said time and place, and at any adjournments of the examination which may be ordered, and to bring with you and produce all books, papers, and writing and other documents in your custody or power in any way relating to the above-named company. And take notice that if you fail, without reasonable excuse, to attend at such time and place, and at the adjournments of the said public examination which may be ordered, you will be liable to be committed to prison without further notice. Dated this day of , 19 . To Official Receiver or liquidator, as the case may be | (a) Insert director or officer [or as the case may be.]
+
+(46 of 2000 s. 40)
 
 _
 
@@ -1090,9 +1114,11 @@ DOWN NOTES OF PUBLIC EXAMINATION AND ORDER THEREON
 
 (Title)
 
-Ex parte the Official Receiver.
+Ex parte the Official Receiver or liquidator, as the case may be.
 
-I, the Official Receiver herein, do hereby, pursuant to rule 60 of the Companies (Winding-up) Rules, apply to the court for an order for the appointment of of to take down in shorthand the notes of examination of at their public examination, the costs of taking such notes, and of making a transcript thereof, to be paid in accordance with rule 60. Dated this day of , 19 . Official Receiver Before Upon the application of the Official Receiver the court hereby appoints of to take down in shorthand the notes of examination of the persons mentioned in the above application at their public examination, or at any adjournment thereof pursuant to rule 60 of the Companies (Winding-up) Rules, the costs of taking such notes, and of making a transcript thereof, to be paid in accordance with rule 60. Dated this day of , 19 .
+I, the Official Receiver or liquidator, as the case may be, herein, do hereby, pursuant to rule 60 of the Companies (Winding-up) Rules, apply to the court for an order for the appointment of of to take down in shorthand the notes of examination of at their public examination, the costs of taking such notes, and of making a transcript thereof, to be paid in accordance with rule 60. Dated this day of , 19 . Official Receiver or liquidator, as the case may be Before Upon the application of the Official Receiver or liquidator, as the case may be, the court hereby appoints of to take down in shorthand the notes of examination of the persons mentioned in the above application at their public examination, or at any adjournment thereof pursuant to rule 60 of the Companies (Winding-up) Rules, the costs of taking such notes, and of making a transcript thereof, to be paid in accordance with rule 60. Dated this day of , 19 .
+
+(46 of 2000 s. 40)
 
 _
 
@@ -1148,7 +1174,7 @@ ORDER ON PERSONS TO ATTEND AT CHAMBERS TO BE EXAMINED
 
 (Title)
 
-A.B. of &c., and E.F. of &c., are hereby severally ordered to attend at (a) on the day of , at of the clock in the noon, to be examined on the part of the Official Receiver [or the liquidator] for the purpose of proceedings directed by the court to be taken in the above matter. [And the said A.B. is hereby required to bring with him and produce, at the time and place aforesaid, the documents mentioned in the schedule hereto, and all other books, papers, deeds, writings, and other documents in his custody or power in anywise relating to the above-named company.] Dated this day of , 19 . This order was made on the application of Messrs. C. and D., of Solicitors for The schedule above referred to | (a) State place of examination.
+A.B. of &c., and E.F. of &c., are hereby severally ordered to attend at (a) on the day of , at of the clock in the noon, to be examined on the part of the Official Receiver [or the liquidator] for the purpose of proceedings directed by the court to be taken in the above matter. [And the said A. B. is hereby required to bring with him and produce, at the time and place aforesaid, the documents mentioned in the schedule hereto, and all other books, papers, deeds, writings, and other documents in his custody or power in anywise relating to the above-named company.] Dated this day of , 19 . This order was made on the application of Messrs. C. and D., of Solicitors for The schedule above referred to | (a) State place of examination.
 
 _
 
@@ -1166,7 +1192,9 @@ AND WHEREAS by evidence taken upon oath, it hath been made to appear to the sati
 
 (AND WHEREAS the said (a) did without good cause fail to attend on the said day of , 19 , for the purpose of being examined, according to the requirements of the said order of this court made on the day of , 19 , directing him so to attend.) (or, and that the said (a) has absconded (or, and that there is good reason to believe that the said (a) is about to abscond) with a view to avoiding examination under the Companies Ordinance (Chapter 32)).
 
-THESE ARE THEREFORE to require you the said bailiff and police officers to take the said (a) and to deliver him to the Commissioner of Correctional Services, and you the said Commissioner of Correctional Services to receive the said (a) and him safely keep in prison until such time as this Court may order. Dated the day of , 19 . Registrar (L.N. 201 of 1984)
+THESE ARE THEREFORE to require you the said bailiff and police officers to take the said (a) and to deliver him to the Commissioner of Correctional Services, and you the said Commissioner of Correctional Services to receive the said (a) and him safely keep in prison until such time as this Court may order. Dated the day of , 19 . Registrar
+
+(L.N. 201 of 1984)
 
 _
 
@@ -1178,7 +1206,9 @@ ATTEND PUBLIC EXAMINATION
 
 (Title)
 
-Upon the application of S.W. the Official Receiver and Liquidator of the above-named company by summons dated the day of , 19 , and upon hearing the applicant in person and upon reading the order to wind up the said company dated the order dated . and the affidavit of C.D. filed . and the exhibits therein referred to and by which said affidavit it has been made to appear to the court that by the said order dated A.B. was directed to attend before the court on a day to be named for the purpose and be publicly examined as to the matters referred to in the said order and that the . day of . , at . o’clock in the . noon at the Courts of Justice, Hong Kong, were appointed as the day, time and place for holding the said examination and it has also been duly proved by the said affidavit of C.D. that the said order dated the . and the notice to attend such examination on the . at . o’clock respectively had been duly served upon the said A.B. and it appearing that the said A.B. without good cause failed to attend on the . in pursuance of the said order of the (date). IT IS ORDERED that a warrant do issue for the arrest of the said A.B. Dated the day of , 19 . Registrar (25 of 1998 s. 2)
+Upon the application of S.W. the Official Receiver or Liquidator of the above-named company, as the case may be by summons dated the day of , 19 , and upon hearing the applicant in person and upon reading the order to wind up the said company dated the order dated . and the affidavit of C.D. filed . and the exhibits therein referred to and by which said affidavit it has been made to appear to the court that by the said order dated A.B. was directed to attend before the court on a day to be named for the purpose and be publicly examined as to the matters referred to in the said order and that the . day of ., at . o’clock in the . noon at the Courts of Justice, Hong Kong, were appointed as the day, time and place for holding the said examination and it has also been duly proved by the said affidavit of C.D. that the said order dated the . and the notice to attend such examination on the . at . o’clock respectively had been duly served upon the said A.B. and it appearing that the said A.B. without good cause failed to attend on the . in pursuance of the said order of the (date). IT IS ORDERED that a warrant do issue for the arrest of the said A.B. Dated the day of , 19 . Registrar
+
+(25 of 1998 s. 2; 46 of 2000 s. 40)
 
 _
 
@@ -1540,11 +1570,11 @@ $ | $
 
 - Admitted non-preferentially for $ Date Liquidator
 
-- To be returned to the Official Receiver or, if a liquidator has been appointed, to the liquidator.
+- To be returned to the provisional liquidator or, if a liquidator has been appointed, to the liquidator.
 
-- Note: The proof cannot be admitted for voting at the first meeting unless it is properly completed and lodged with the Official Receiver not later than 24 hours before the time specified in the notice convening the meeting.
+- Note: The proof cannot be admitted for voting at the first meeting unless it is properly completed and lodged with the liquidator not later than 24 hours before the time specified in the notice convening the meeting.
 
-(L.N. 225 of 1992; L.N. 306 of 1996; 25 of 1998 s. 2)
+(L.N. 225 of 1992; L.N. 306 of 1996; 25 of 1998 s. 2; 46 of 2000 s. 40)
 
 _
 
@@ -1578,9 +1608,9 @@ Warning: A person convicted of making a false statement in respect of a proof of
 
 -
 
-To be returned to the Official Receiver or, if a liquidator has been appointed, to the liquidator.
+To be returned to the provisional liquidator or, if a liquidator has been appointed, to the liquidator.
 
-(L.N. 225 of 1992; L.N. 306 of 1996; 47 of 1997 s. 10; 25 of 1998 s. 2)
+(L.N. 225 of 1992; L.N. 306 of 1996; 47 of 1997 s. 10; 25 of 1998 s. 2; 46 of 2000 s. 40)
 
 _
 
@@ -1604,7 +1634,9 @@ SCHEDULE referred to on the other side
 
 $ | ￠
 
-Signature of Deponent. (L.N. 201 of 1984)
+Signature of Deponent.
+
+(L.N. 201 of 1984)
 
 _
 
@@ -1894,35 +1926,9 @@ In a voluntary winding up the liquidator or if there is no liquidator the chairm
 
 _
 
-FORM 82 | [rule 157]
+FORMS 82-83
 
-APPLICATION TO OFFICIAL RECEIVER TO AUTHORIZE A SPECIAL
-
-BANK ACCOUNT
-
-(Title)
-
-We, the committee of inspection, being of opinion that Mr. of , the liquidator in the above matter, should have a special bank account for the purpose of (a) hereby apply to the Official Receiver to authorize him to make his payments into and out of the bank. | (a) Here insert grounds of application.
-
-All cheques to be countersigned by , a member of the committee of inspection, and by of
-
-Dated this day of , 19 .
-
-_ | ｝ | Committee of Inspection.
-
-_
-
-_
-
-_
-
-FORM 83 | [rule 157]
-
-ORDER OF OFFICIAL RECEIVER FOR SPECIAL BANK ACCOUNT
-
-(Title)
-
-You are hereby authorized to make your payments in the above matter into, and out of, the bank. [Here insert any special terms.] All cheques to be countersigned by , a member of the committee of inspection, and by Dated this day of , 19 . To Liquidator Official Receiver
+(Repealed 30 of 1999 s. 44)
 
 _
 
@@ -2218,7 +2224,7 @@ Less— Payments to redeem securities . Costs of execution . Payments per tradin
 
 $ Net realizations . $
 
-Creditors, viz.— (a) Preferential . (a) Unsecured: dividend of $ per cent . The estimate of amount expected to rank for Amount returned to contributories . | $ | ￠ | (a) State number of creditors
+Creditors, viz.— (a) Preferential . (a) Unsecured: dividend of $ per cent . The estimate of amount expected to rank for Amount returned to contributories . | $ | ￠ | (a) State number of creditors.
 
 Amounts received from calls on contributories made by the liquidator | Balance .
 

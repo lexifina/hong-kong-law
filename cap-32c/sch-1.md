@@ -18,6 +18,8 @@ Item | Particular | Fee | Document to be stamped
 
 (c) under section 291 to restore a name to the register of companies;
 
+(ca) under section 291AB to reinstate the registration of a company deregistered under section 291AA; (30 of 1999 s. 44)
+
 (d) under section 86 for extension of time for registration or for rectification of register of charges; and
 
 (e) under section 166 to sanction a compromise or arrangement. | $1,045.00 | The notice of motion or summons.
