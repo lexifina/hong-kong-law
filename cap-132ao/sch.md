@@ -6,8 +6,6 @@ Aberdeen Market, Urban Council Aberdeen Complex | 香港仔街市 | Aberdeen Mar
 
 Ap Lei Chau Market, Ap Lei Chau Complex | 鴨脷洲街市，鴨脷洲市政大廈 | -
 
-Apleichau West Industrial Area Cooked Food Market | 鴨脷洲西岸工業熟食市場 | -
-
 Bowrington Road Market | 鵝頸街市 | -
 
 Bridges Street Market | 必列嗜士街街市 | -
@@ -66,7 +64,7 @@ Yue Kwong Road Market | 漁光道街市 | -
 
 Yue Wan Market | 漁灣街市 | -
 
-(L.N. 38 of 1993; L.N. 228 of 1993; L.N. 451 of 1994; L.N. 17 of 1995; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 388 of 1998; L.N. 127 of 1999; L.N. 155 of 1999)
+(L.N. 38 of 1993; L.N. 228 of 1993; L.N. 451 of 1994; L.N. 17 of 1995; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 388 of 1998; L.N. 127 of 1999; L.N. 155 of 1999; L.N. 234 of 1999)
 
 MARKETS IN KOWLOON AND NEW KOWLOON
 
@@ -99,8 +97,6 @@ Kwun Tong Ferry Concourse Cooked Food Market | 觀塘碼頭熟食市場 | -
 Lai Wan Market | 荔灣街市 | -
 
 Mong Kok Market | 旺角街市 | Mong Kok Tsui Market
-
-Nelson Street Temporary Cooked Food Market | 奶路臣街臨時熟食市場 | -
 
 Ngau Chi Wan Market | 牛池灣街市 | -
 
@@ -138,4 +134,4 @@ Yee On Street Market | 宜安街街市 | -
 
 Yuen Ling Market | 元嶺街市 | -
 
-(L.N. 182 of 1995; L.N. 595 of 1995; L.N. 45 of 1996; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 159 of 1997; L.N. 189 of 1998; L.N. 155 of 1999)
+(L.N. 182 of 1995; L.N. 595 of 1995; L.N. 45 of 1996; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 159 of 1997; L.N. 189 of 1998; L.N. 155 of 1999; L.N. 234 of 1999)
