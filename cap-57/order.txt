@@ -95,6 +95,7 @@ s-031ZC.md
 s-031ZD.md
 s-031ZE.md
 s-031ZF.md
+s-031ZG.md
 s-032A.md
 s-032B.md
 s-032C.md
