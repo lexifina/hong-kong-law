@@ -52,11 +52,9 @@
 
   - 1. The Government.
 
-  - 2. The Urban Council.
+  - 2-3. (Repealed 78 of 1999 s. 7)
 
-  - 3. The Regional Council.
-
-  - 4. Any District Board.
+  - 4. Any District Council. (Amended 8 of 1999 s. 89)
 
   - 5. The Hong Kong Housing Authority.
 
