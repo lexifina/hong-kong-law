@@ -44,6 +44,8 @@ INFECTIOUS DISEASES
 
 - 19. Scarlet fever
 
+- 19A. Severe Acute Respiratory Syndrome (Added L.N. 79 of 2003)
+
 - 20. Tetanus
 
 - 21. Tuberculosis
