@@ -1,0 +1,5 @@
+USE OF ELECTRIC POWER ON THE TRAMWAY RULES
+
+(Cap. 107, sections 31 and 34)
+
+[14 May 1902]
