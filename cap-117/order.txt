@@ -1,6 +1,7 @@
 intro.md
 s-001.md
 s-002.md
+s-002A.md
 s-003.md
 s-004.md
 s-005.md
@@ -82,6 +83,7 @@ s-063.md
 s-064.md
 s-065.md
 s-066.md
+s-067.md
 sch-1.md
 sch-2.md
 sch-3.md
