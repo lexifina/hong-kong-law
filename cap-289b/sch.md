@@ -246,4 +246,6 @@ Item | Periods | Rate of interest
 
 121. | On or after 3 October 2001 and before 5 November 2001 (L.N. 193 of 2001; L.N. 228 of 2001) | 1.0% per annum
 
-122. | On or after 5 November 2001 (L.N. 228 of 2001) | 0.675% per annum
+122. | On or after 5 November 2001 and before 3 December 2001 (L.N. 228 of 2001; L.N. 254 of 2001) | 0.675% per annum
+
+123. | On or after 3 December 2001 (L.N. 254 of 2001) | 0.6292% per annum
