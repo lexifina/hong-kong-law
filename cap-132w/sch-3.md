@@ -58,11 +58,47 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
     - (b) a reference in the labelling of a food to an ingredient which is used in a small quantity and only as a flavouring shall not of itself constitute the placing of special emphasis on the presence or low content of that ingredient. (L.N. 80 of 1996)
 
-  - (5) Subject to section 58 of the Ordinance and unless the Authority otherwise allows in any particular case, an additive constituting one of the ingredients of a food shall be listed by its specific name or by the appropriate category or by both name and category.
+  - (4E)
 
-  - (6) The categories of additive for the purpose of sub-paragraph (5) are— Acid (酸味劑) Acidity regulator (酸度調節劑) Anti-caking agent (抗結劑) Anti-foaming agent (消泡劑) Antioxidant (抗氧化劑) Colour (色素) Emulsifier (乳化劑) Emulsifying salt (乳化鹽) Flavour enhancer (味道強化劑) Flavouring (調味劑) Flour improver (麵粉改良劑) Gelling agent (膠凝劑) Glazing agent (上光劑) Modified starch (改性澱粉) Preservative (防腐劑) Raising agent (膨脹劑) Stabilizer (穩定劑) Sweetener (甜味劑) (L.N. 226 of 2003) Thickener (增稠劑)
+    - (a) If a food consists of or contains any of the following substances—
 
-- (L.N. 226 of 2003)
+      - (i) cereals containing gluten (namely wheat, rye, barley, oats, spelt, their hybridized strains and their products);
+
+      - (ii) crustacea and crustacean products;
+
+      - (iii) eggs and egg products;
+
+      - (iv) fish and fish products;
+
+      - (v) peanuts, soyabeans and their products;
+
+      - (vi) milk and milk products (including lactose);
+
+      - (vii) tree nuts and nut products,
+
+      - the name of the substance shall be specified in the list of ingredients.
+
+    - (b) If a food consists of or contains sulphite in a concentration of 10 parts per million or more, the functional class of the sulphite and its name shall be specified in the list of ingredients. (L.N. 85 of 2004)
+
+  - (5) Subject to section 58 of the Ordinance and unless the Authority otherwise allows in any particular case, an additive (except an additive specified in sub-paragraph (7)) constituting one of the ingredients of a food shall be listed by its functional class and— (L.N. 85 of 2004)
+
+    - (a) its specific name; or
+
+    - (b) its identification number under the International Numbering System for Food Additives; or
+
+    - (c) its identification number under the International Numbering System for Food Additives with the prefix “E” or “e”. (L.N. 85 of 2004)
+
+  - (6) The functional classes of additive for the purpose of sub-paragraph (5) are— (L.N. 85 of 2004) Acid (酸味劑) Acidity regulator (酸度調節劑) Anti-caking agent (抗結劑) Anti-foaming agent (消泡劑) Antioxidant (抗氧化劑) Bulking agent (增體劑) (L.N. 85 of 2004) Colour (色素) Colour retention agent (護色劑) (L.N. 85 of 2004) Emulsifier (乳化劑) Emulsifying salt (乳化鹽) Firming agent (固化劑) (L.N. 85 of 2004) Flavour enhancer (增味劑) (L.N. 85 of 2004) Flour treatment agent (麵粉處理劑) (L.N. 85 of 2004) Foaming agent (發泡劑) (L.N. 85 of 2004) Gelling agent (膠凝劑) Glazing agent (上光劑) Humectant (水分保持劑) (L.N. 85 of 2004) Preservative (防腐劑) Propellant (推進劑) (L.N. 85 of 2004) Raising agent (膨脹劑) Stabilizer (穩定劑) Sweetener (甜味劑) (L.N. 226 of 2003) Thickener (增稠劑)
+
+- (L.N. 226 of 2003; L.N. 85 of 2004)
+
+  - (7) An additive which constitutes one of the ingredients of a food and falls in any of the following classes shall be listed by the appropriate class title—
+
+    - (a) flavour and flavouring (調味料及調味劑);
+
+    - (b) modified starch (改性澱粉),
+
+  - and the expression “flavour” may be qualified by “natural”, “natural identical”, “artificial” or a combination of these words as appropriate. (L.N. 85 of 2004)
 
 - 3. List of ingredients of exempt food If any prepackaged food is marked or labelled with a list of ingredients notwithstanding that it is exempted from the requirements of paragraph 2, such list shall conform in all respects with the requirements of this Schedule.
 
@@ -86,19 +122,27 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
     - (b) a statement of any storage conditions which need to be observed if the food is to retain its quality attributes until that date.
 
-  - (4) The “best before” (此日期前最佳) date shall be shown either in Arabic numerals or in both the English and Chinese languages and, subject to sub-paragraph (7), shall be expressed in terms of a day, a month and a year, in that order, except that—
+  - (4) The “best before” (此日期前最佳) date shall be shown either in Arabic numerals or in both the English and Chinese languages and, subject to sub-paragraph (7), shall be expressed in terms of a day, a month and a year except that— (L.N. 85 of 2004)
 
-    - (a) in the case of a food which can reasonably be expected to retain its specific properties for not more than 3 months, the date may be expressed in terms of a day and a month, in that order;
+    - (a) in the case of a food which can reasonably be expected to retain its specific properties for not more than 3 months, the date may be expressed in terms of a day and a month;
 
-    - (b) in the case of a food which can reasonably be expected to retain its specific properties for more than 3 but not more than 18 months, the date may be expressed in terms of a month and a year, in that order, if the date is preceded by the word “end” in English lettering and is followed immediately by the word “底” in Chinese character; or
+    - (b) in the case of a food which can reasonably be expected to retain its specific properties for more than 3 but not more than 18 months, the date may be expressed in terms of a month and a year if the date is preceded by the word “end” in English lettering and is followed immediately by the word “底” in Chinese character; or
 
-    - (c) in the case of a food which can reasonably be expected to retain its specific properties for more than 18 months, the date may be expressed either in terms of a month and a year, in that order, or in terms of a year, if the date is preceded by the word “end” in English lettering and is followed immediately by the word “底” in Chinese character.
+    - (c) in the case of a food which can reasonably be expected to retain its specific properties for more than 18 months, the date may be expressed either in terms of a month and a year or in terms of a year, if the date is preceded by the word “end” in English lettering and is followed immediately by the word “底” in Chinese character. (L.N. 85 of 2004)
 
-  - (5) The “use by” (此日期前食用) date shall be shown either in Arabic numerals or in both the English and Chinese languages and, subject to sub-paragraph (7), shall be expressed in terms of a day and a month, in that order, or in terms of a day, a month and a year, in that order.
+  - (5) The “use by” (此日期前食用) date shall be shown either in Arabic numerals or in both the English and Chinese languages and, subject to sub-paragraph (7), shall be expressed in terms of a day and a month or in terms of a day, a month and a year. (L.N. 85 of 2004)
 
   - (6) The “best before” (此日期前最佳) date or the “use by” (此日期前食用) date may appear on the labelling of a food separately from the words immediately preceding the date, provided that those words are followed by a reference to the place where the date appears.
 
-  - (7) Where the “best before” (此日期前最佳) date or the “use by” (此日期前食用) date is shown in the English and Chinese languages, there is no restriction in the order in which the day, month or year (as the case may be) may be expressed. (L.N. 80 of 1996)
+  - (7) Where the “best before” (此日期前最佳) date or the “use by” (此日期前食用) date is shown in Arabic numerals—
+
+    - (a) the day shall be indicated by the words “DD”, “dd”, “D” or “d” in English lettering and “日” in Chinese character;
+
+    - (b) the month shall be indicated by the words “MM”, “mm”, “M” or “m” in English lettering and “月” in Chinese character; and
+
+    - (c) the year shall be indicated by the words “YY”, “yy”, “Y” or “y” in English lettering and “年” in Chinese character,
+
+  - and the day, month and year can appear in any order. (L.N. 85 of 2004)
 
 - 5. Statement of special conditions for
 
@@ -144,7 +188,7 @@ MARKING AND LABELLING OF PREPACKAGED FOODS
 
 - 8. Appropriate language
 
-  - (1) Except as provided in paragraph 4(2), (3), (4) and (5) and subject to sub-paragraph (3), the marking or labelling of prepackaged food for purposes of this Schedule shall be in either the English or the Chinese language or in both languages. (L.N. 80 of 1996)
+  - (1) Except as provided in paragraph 4(2), (3), (4) , (5) and (7) and subject to sub-paragraph (3), the marking or labelling of prepackaged food for purposes of this Schedule shall be in either the English or the Chinese language or in both languages. (L.N. 80 of 1996; L.N. 85 of 2004)
 
   - (2) If both the English and Chinese languages are used in the labelling or marking of prepackaged food, the name of the food and the list of ingredients shall appear in both languages, but otherwise the requirements of this Schedule need only be met in one of those languages.
 
