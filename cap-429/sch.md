@@ -1,0 +1,3 @@
+# SCHEDULE
+
+(Omitted as spent)
