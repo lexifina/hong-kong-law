@@ -4,15 +4,85 @@
 
 STATUTES OF THE UNIVERSITY OF HONG KONG
 
-- INTERPRETATION
+ARRANGEMENT OF STATUTES
 
-- In these statutes, unless the context otherwise requires—
+  - I. Interpretation
+
+  - II. Congregations
+
+    - III. Degrees and other academic distinctions
+
+    - IV. Members of the University
+
+    - V. The Pro-Chancellor
+
+    - VI. The Vice-Chancellor
+
+    - VIA. The Deputy Vice-Chancellor
+
+    - VII. The Pro-Vice-Chancellors
+
+    - VIII. The Treasurer
+
+    - IX. The Deans and Associate Deans of the Faculties
+
+    - IXA. The Dean of Students
+
+    - IXB. (Repealed)
+
+    - X. The Registrar and other officers
+
+    - XI. The Auditors
+
+    - XII. The Teachers of the University
+
+    - XIII. Honorary and Emeritus Professors
+
+    - XIV. Procedure Generally
+
+    - XV. The Court
+
+    - XVI. Meetings of the Court
+
+    - XVII. Powers of the Court
+
+    - XVIII. The Council
+
+    - XIX. Powers of the Council
+
+    - XX. The Honorary Degrees Committee
+
+    - XXI. Financial Procedure
+
+    - XXII. The Senate
+
+    - XXIII. Powers of the Senate
+
+    - XXIV. The Teaching Departments
+
+    - XXV. Institutes, Schools, Centres, Units or other Subdivisions of Studies and Learning
+
+    - XXVI. The Boards of the Faculties
+
+    - XXVII. Powers of the Boards of the Faculties
+
+      - XXVIIA-XXVIIB. (Repealed)
+
+    - XXVIII. Convocation
+
+    - XXIX. Examinations
+
+    - XXX. The Disciplinary Committee
+
+    - XXXI. Powers of the Disciplinary Committee
+
+- STATUTE I INTERPRETATION In these statutes, unless the context otherwise requires—
 
   - “academic year” (學年) means such period, not exceeding 12 consecutive months, as the Senate shall from time to time determine; (L.N. 516 of 1994)
 
   - “Disciplinary Committee” (紀律委員會) means the Disciplinary Committee appointed under Statute XXX;
 
-  - “Faculty” (學院) means a group of teaching departments and other subdivisions of studies and learning; (L.N. 123 of 1994)
+  - “Faculty” (學院) means a group of related academic disciplines which may or may not be divided into teaching departments and other subdivisions of studies and learning; (L.N. 123 of 1994; L.N. 299 of 1998)
 
   - “graduate” (畢業生) means a person—
 
@@ -36,7 +106,7 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
   - “undergraduate student” (本科生) means a person who is registered to read for a degree of bachelor of the University;
 
-  - “University” (大學), “statutes” (規程), “Court” (校董會), “Council” (校務委員會), “Senate” (教務委員會), “Convocation” (評議會), “Chancellor” (校監), “Pro-Chancellor” (副校監), “Vice-Chancellor” (校長), “Deputy Vice-Chancellor” (首席副校長), “Pro-Vice-Chancellor” (副校長), “Treasurer” (司庫), “Deans of Faculties” (學院院長), “Registrar” (教務長), “Librarian” (圖書館館長), “officer” (主管人員), “teacher” (教師), shall have respectively the same meanings as they have in the Ordinance. (L.N. 137 of 1967; L.N. 4 of 1968; L.N. 167 of 1992)
+  - “University” (大學), “statutes” (規程), “Court” (校董會), “Council” (校務委員會), “Senate” (教務委員會), “Convocation” (畢業生議會), “Chancellor” (校監), “Pro-Chancellor” (副校監), “Vice-Chancellor” (校長), “Deputy Vice-Chancellor” (首席副校長), “Pro-Vice-Chancellor” (副校長), “Treasurer” (司庫), “Deans of Faculties” (學院院長), “Registrar” (教務長), “Librarian” (圖書館館長), “officer” (主管人員), “teacher” (教師), shall have respectively the same meanings as they have in the Ordinance. (L.N. 137 of 1967; L.N. 4 of 1968; L.N. 167 of 1992; 80 of 1997 s. 100)
 
 - (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 123 of 1994)
 
@@ -92,6 +162,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - Bachelor of Science in Computer Science
 
+    - Bachelor of Science in Computer Science and Information Systems (L.N. 299 of 1998)
+
     - Bachelor of Science in Computer Studies
 
     - Bachelor of Science in Engineering
@@ -115,6 +187,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
     - Master of Arts in Applied Linguistics (L.N. 490 of 1997)
 
     - Master of Business Administration
+
+    - Master of Common Law (L.N. 299 of 1998)
 
     - Master of Dental Surgery
 
@@ -194,6 +268,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - Advanced Diploma in Orthodontics (L.N. 99 of 1997)
 
+    - Advanced Diploma in Paediatric Dentistry (L.N. 299 of 1998)
+
     - Advanced Diploma in Social Work
 
     - Diploma in Architecture
@@ -207,6 +283,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
     - Postgraduate Diploma in Building Services
 
     - Postgraduate Diploma in Commercial Law
+
+    - Postgraduate Diploma in Common Law (L.N. 299 of 1998)
 
     - Postgraduate Diploma in Construction Project Management
 
@@ -336,17 +414,23 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
 - (L.N. 83 of 1992)
 
-  - 1. The Dean of each Faculty shall be elected by the Board of the Faculty from among the members of the Board who are full-time teachers in the teaching departments and other subdivisions of studies and learning allocated to the Faculty, or failing such election shall be appointed by the Council, for 3 years at a time, and shall be eligible for re-election or re-appointment. (L.N. 123 of 1994; L.N. 490 of 1997)
+  - 1. Subject to the decision of the Council, on the recommendation of the Senate, the Dean of each Faculty shall either be—
+
+    - (a) elected, for a period of 3 years, by the Board of the Faculty from among the members of the Board who are full-time teachers in the teaching departments and other sub-divisions of studies and learning allocated to the Faculty; or
+
+    - (b) appointed by the Council, for such period as the Council shall determine.
+
+- A Dean shall be eligible for re-election or re-appointment. (L.N. 299 of 1998)
 
   - 2. Whenever the office of Dean becomes vacant a new Dean shall forthwith be elected or appointed.
 
-  - 3. The Dean shall be chairman of the Board of his Faculty; he shall be a member of all committees of the Board of the Faculty; and he shall present candidates for degrees (except honorary degrees) in the subjects of the Faculty. (L.N. 123 of 1994)
+  - 3. The Dean shall be a member of all committees of the Board of the Faculty and shall present candidates for degrees (except honorary degrees) in the subjects of the Faculty. (L.N. 299 of 1998)
 
-  - 4. The Dean of a Faculty may resign by written notice addressed to the Board of the Faculty.
+  - 4. An elected Dean of a Faculty may resign by written notice addressed to the Board of the Faculty. An appointed Dean may resign by written notice addressed to the Council. (L.N. 299 0f 1998)
 
     - 5.
 
-      - (a) There may be not more than 2 Associate Deans of each Faculty who shall be appointed by the Vice-Chancellor after nomination by, and consultation with, the Dean of the Faculty.
+      - (a) Associate Deans of each Faculty shall be appointed by the Vice-Chancellor after nomination by, and consultation with, the Dean of the Faculty. (L.N. 299 of 1998)
 
       - (b) The period of office of an Associate Dean shall expire on the same day as the period of office of the Dean of the Faculty to which the Associate Dean is appointed.
 
@@ -412,11 +496,11 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
 - THE TEACHERS OF THE UNIVERSITY
 
-  - 1. In addition to the persons designated as such by the Ordinance, the senior lecturers and the assistant lecturers and the Heads and Deputy Heads of the Institutes, Schools, Centres and Units and other subdivisions of Studies and Learning appointed under the provisions of Statute XXV shall be teachers. (L.N. 72 of 1993; L.N. 123 of 1994)
+  - 1. In addition to the persons designated as such by the Ordinance, the senior lecturers, the assistant lecturers, the appointed Deans of Faculties and the Heads and Deputy Heads of the Institutes, Schools, Centres and Units and other subdivisions of Studies and Learning appointed under the provisions of Statute XXV shall be teachers. (L.N. 72 of 1993; L.N. 123 of 1994; L.N. 299 of 1998)
 
   - 2. The teachers whose services are exclusively at the disposal of the University shall not during the tenure of their appointments engage in outside practice for reward without the consent of the Council.
 
-  - 3. The Senate shall organize the teachers into such Teaching Departments, Institutes, Schools, Centres, and Units and other subdivisions of studies and learning as the Senate shall see fit. (L.N. 123 of 1994)
+  - 3. The Senate shall organize the teachers into such Faculties, Teaching Departments, Institutes, Schools, Centres, and Units and other subdivisions of studies and learning as the Senate shall see fit. (L.N. 123 of 1994; L.N. 299 of 1998)
 
 - HONORARY AND EMERITUS PROFESSORS
 
@@ -543,6 +627,8 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
     - (i) 2 members of the Senate elected by the Senate; (L.N. 212 of 1978; L.N. 24 of 1984; L.N. 83 of 1992; L.N. 123 of 1994)
 
     - (j) the President of the Students’ Union; (L.N. 83 of 1992)
+
+    - (ja) the Chairman of the Postgraduate Students Association of the University of Hong Kong; (L.N. 299 of 1998)
 
     - (k) 1 full-time undergraduate student, registered as such at the time of election, who shall be elected by the undergraduate students similarly so registered; (L.N. 83 of 1992)
 
@@ -752,7 +838,9 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - (n) the President of the Students’ Union;
 
-    - (na) the Internal Vice-President of the Students’ Union; and (L.N. 24 of 1984; L.N. 72 of 1993)
+    - (na) the Internal Vice-President of the Students’ Union; (L.N. 24 of 1984; L.N. 72 of 1993; L.N. 299 of 1998)
+
+    - (nb) the Chairman of the Postgraduate Students Association of the University of Hong Kong; and (L.N. 299 of 1998)
 
     - (o) in respect of each Faculty in which the number of registered undergraduate students exceeds the number of registered postgraduate students, one student who shall be registered in that Faculty to read full time for an undergraduate degree, such undergraduate student being elected by the undergraduate students similarly so registered in that Faculty; and, in respect of such Faculty in which the number of registered postgraduate students exceeds the number of registered undergraduate students, one student who shall be a registered postgraduate student of that Faculty, such postgraduate student being elected by the postgraduate students registered in that Faculty. (L.N. 114 of 1989; L.N. 72 of 1993)
 
@@ -862,9 +950,9 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
     - (a) the Vice-Chancellor;
 
-    - (b) the Dean of the Faculty, who shall be Chairman;
+    - (b) a Chairman, who shall either be the Dean of the Faculty elected under the provisions of paragraph 1 of Statute IX, or, where the Dean has been appointed by the Council, a member of the Board of the Faculty other than the Dean, elected by the members of the Board for a period of 3 years; (L.N. 299 of 1998)
 
-    - (c) the Professors, Readers, Senior Lecturers, Lecturers, and Assistant Lecturers who are members of the Teaching Departments and other subdivisions of studies and learning allocated to the Faculty and who are full-time employees of the University; (L.N. 56 of 1966; L.N. 112 of 1969; L.N. 123 of 1994)
+    - (c) the teachers who are members of the Faculty and who are full-time employees of the University; (L.N. 299 of 1998)
 
     - (d) such other teachers as may be appointed to the Board by the Senate;
 
@@ -884,19 +972,13 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
   - 4. The Registrar shall be the secretary to the Board of each Faculty but shall not be a member thereof. (L.N. 58 of 1976)
 
-- POWERS OF THE BOARDS OF THE FACULTIES
-
-- Subject to the provisions of the Ordinance and the statutes, the Board of each Faculty shall have power—
+- STATUTE XXVII POWERS OF THE BOARDS OF THE FACULTIES Subject to the provisions of the Ordinance and the statutes, the Board of each Faculty shall have power—
 
   - (a) to advise the Senate on any questions relating to the work of the Faculty; and
 
-  - (b) to do all such other acts and things as may be requisite to perform any duty which the Senate may delegate to it.
+  - (b) to do all such other acts and things as may be requisite to perform any duty which the Senate may delegate to it. STATUTE XXVIIA-XXVIIB (Repealed L.N. 83 of 1992)
 
-(Repealed L.N. 83 of 1992)
-
-(Repealed L.N. 83 of 1992)
-
-- CONVOCATION
+- STATUTE XXVIII CONVOCATION
 
   - 1.
 
