@@ -8,9 +8,9 @@ FEES PAYABLE FOR CARRIER LICENCES
 
 - CARRIER (RESTRICTED) LICENCES
 
-  - 1. A fee of $1,000,000 shall be payable on the issue of a fixed carrier licence (excluding a fixed carrier (restricted) licence) and, in each year while the licence remains in force, on the anniversary of the issue of the licence.
+  - 1. A fee of $1,000,000 shall be payable on the issue of a fixed carrier licence (excluding a fixed carrier (restricted) licence) and, in each year while the licence remains in force, on the anniversary of the issue of the licence. If the licence permits the provision of external services only, the fee is $500,000. (L.N. 134 of 2003)
 
-  - 2. A fee of $700 shall be payable on each anniversary of the issue or the renewal of a fixed carrier licence (excluding a fixed carrier (restricted) licence) for each 100 customer connections, made by telecommunications line or radiocommunications means, to the network established and maintained under the licence.
+  - 2. A fee of $700 shall be payable on each anniversary of the issue or the renewal of a fixed carrier licence (excluding a fixed carrier (restricted) licence) for each 100 customer connections, made by telecommunications line or radiocommunications means, to the network established and maintained under the licence. If the licence permits the provision of external services only, no such fee is payable. (L.N. 134 of 2003)
 
   - 3. Subject to section 4, a fee for the management of radio frequency assigned shall be payable on the issue and on each anniversary of the issue of the fixed carrier licence concerned (excluding a fixed carrier (restricted) licence) and calculated as follows—
 
