@@ -1,0 +1,5 @@
+ROAD TRAFFIC (VILLAGE VEHICLES) REGULATIONS
+
+(Cap. 374, section 12A)
+
+[2 February 1987]
