@@ -1,0 +1,5 @@
+POLICE FORCE (WELFARE FUND) REGULATION
+
+(Cap. 232, section 45)
+
+[19 November 1999] L.N. 289 of 1999
