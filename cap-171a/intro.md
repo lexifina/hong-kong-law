@@ -1,0 +1,5 @@
+FISHERIES PROTECTION REGULATIONS
+
+(Cap. 171 section 4)
+
+[12 October 1962]
