@@ -2,7 +2,7 @@
 
 [ss. 2 & 52]
 
-PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE CROWN
+PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GOVERNMENT
 
 - 1. Alice Ho Miu Ling Nethersole Hospital
 
@@ -142,7 +142,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE CR
 
 - 69. Tuen Mun Specialist Clinic (Added L.N. 372 of 1994)
 
-  - 70. Yung Fung Shee Memorial Centre (Pamela Youde Specialist Clinic) (Added L.N. 372 of 1994)
+- 70. Yung Fung Shee Memorial Centre (Pamela Youde Specialist Clinic) (Added L.N. 372 of 1994)
 
 - 71. Yau Ma Tei Psychiatric Centre (Added L.N. 372 of 1994)
 
@@ -154,7 +154,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE CR
 
 - 75. Sha Tin International Medical Centre Union Hospital (Added L.N. 612 of 1994)
 
-  - 76. The Hong Kong Kidney Foundation Jockey Club Dialysis Centre (Added L.N. 612 of 1994)
+- 76. The Hong Kong Kidney Foundation Jockey Club Dialysis Centre (Added L.N. 612 of 1994)
 
 - 77. The Hong Kong Kidney Foundation Kowloon City Dialysis Centre (L.N. 164 of 1995)
 
@@ -174,4 +174,6 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE CR
 
 - 85. Wong Chuk Hang Hospital (Added L.N. 174 of 1997)
 
-- 86. The Lookout (Added L.N. 388 of 1997) (Replaced L.N. 187 of 1992)
+- 86. The Lookout (Added L.N. 388 of 1997)
+
+- 87. North District Hospital (Added L.N. 599 of 1997) (Replaced L.N. 187 of 1992)
