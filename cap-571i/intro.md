@@ -1,0 +1,5 @@
+SECURITIES AND FUTURES (CLIENT MONEY) RULES
+
+(Cap. 571, section 149)
+
+[1 April 2003] L.N. 12 of 2003
