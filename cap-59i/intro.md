@@ -1,0 +1,5 @@
+CONSTRUCTION SITES (SAFETY) REGULATIONS
+
+(Cap. 59, section 7)
+
+[21 July 1978]
