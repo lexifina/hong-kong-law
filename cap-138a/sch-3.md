@@ -42,6 +42,8 @@ Acipimox; its salts
 
 Acitretin; its salts; its esters
 
+Adalimumab
+
 Adapalene; its salts; its esters
 
 Adefovir; its salts
@@ -129,6 +131,8 @@ Amrinone
 Amsacrine; its salts
 
 Amylene hydrate
+
+Anagrelide; its salts
 
 Anastrozole; its salts
 
@@ -249,6 +253,8 @@ Fibrinogen
 Plasma protein fractions
 
 Thrombin
+
+Bosentan; its salts
 
 Botulinum toxin complexes
 
@@ -438,7 +444,11 @@ Acetrizoic acid
 
 Diatrizoic acid
 
+Ferucarbotran
+
 Gadobenic acid
+
+Gadobutrol
 
 Gadodiamide
 
@@ -496,6 +506,8 @@ Metrizamide
 
 Propyliodone
 
+Sulphur Hexafluoride
+
 Tyropanoic acid
 
 Corticorelin; its salts
@@ -521,6 +533,8 @@ Daclizumab
 Dalteparin; its salts
 
 Dapsone
+
+Darbepoetin alfa
 
 Deanol acetamidobenzoate
 
@@ -595,6 +609,8 @@ Doxepin; its salts; its derivatives; their salts
 Droperidol
 
 Drotrecogin alfa
+
+Dutasteride
 
 Ecothiopate iodide
 
@@ -769,6 +785,8 @@ Ganciclovir; its salts
 Ganirelix; its salts
 
 Gatifloxacin; its salts; its esters
+
+Gefitinib; its salts
 
 Gemcitabine; its salts
 
@@ -997,6 +1015,8 @@ Mefruside
 Melitracen; its salts
 
 Meloxicam; its salts
+
+Memantine; its salts
 
 Mephenesin; its esters; their salts
 
@@ -1462,6 +1482,8 @@ Rosiglitazone; its salts
 
 Rosoxacin; its salts
 
+Rosuvastatin; its salts
+
 Salbutamol and its salts except when contained in aerosol dispensers
 
 Salmeterol and its salts when contained in aerosol dispensers
@@ -1688,6 +1710,8 @@ Valproic acid; its salts; its esters
 
 Valsartan; its salts
 
+Vardenafil; its salts
+
 Vasopressins
 
 Vencuronium; its salts
@@ -1750,7 +1774,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003)
 
 B
 
