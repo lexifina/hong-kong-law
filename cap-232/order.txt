@@ -69,6 +69,15 @@ s-056.md
 s-057.md
 s-058.md
 s-059.md
+s-059A.md
+s-059B.md
+s-059C.md
+s-059D.md
+s-059E.md
+s-059F.md
+s-059G.md
+s-059H.md
+s-059I.md
 s-060.md
 s-061.md
 s-062.md
@@ -77,4 +86,6 @@ s-064.md
 s-065.md
 s-066.md
 s-067.md
-sch.md
+sch-1.md
+sch-2.md
+sch-3.md

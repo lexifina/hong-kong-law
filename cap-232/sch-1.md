@@ -1,10 +1,8 @@
-# SCHEDULE
+# SCHEDULE 1
 
 [s. 26]
 
 OATH OR DECLARATION OF OFFICE
-
-(Adaptation amendments retroactively made - see 76 of 1999 s. 3)
 
 I, .
 
@@ -20,10 +18,10 @@ SWORN | ｝ | before me | ｝
 
 DECLARED
 
-this day of ,19 .
+this day of , 19 .
 
 .
 
 Magistrate/Gazetted Police Officer.
 
-(Replaced 29 of 1950 s. 18. Amended 11 of 1968 Schedule; 47 of 1997 s. 10; 76 of 1999 s. 3)
+(Replaced 29 of 1950 s. 18. Amended 11 of 1968 Schedule; 47 of 1997 s. 10; 76 of 1999 s. 3; 68 of 2000 s. 8)

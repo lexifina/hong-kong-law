@@ -83,6 +83,9 @@ s-053A.md
 s-053B.md
 s-054.md
 s-054A.md
+s-054AA.md
+s-054AB.md
+s-054AC.md
 s-055.md
 s-056.md
 s-056A.md
@@ -94,3 +97,4 @@ sch-3.md
 sch-4.md
 sch-5.md
 sch-6.md
+sch-7.md
