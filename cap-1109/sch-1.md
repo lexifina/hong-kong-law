@@ -350,11 +350,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (e) the Secretary;
 
-    - (f) the Registrar; and
+    - (f) the Registrar;
 
-    - (g) the Bursar.
+    - (g) the Bursar; and
 
-  - The Secretary or his deputy shall serve as secretary of the Committee.
+    - (h) the University Dean of Students. (L.N. 103 of 1999)
+
+  - The Secretary or his deputy shall serve as secretary of the Committee. (L.N. 103 of 1999)
 
   - 2. Subject to the Ordinance and the Statutes, it shall be the duty of the Administrative and Planning Committee—
 
@@ -873,6 +875,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
       - Master of Engineering (M. Eng.) (L.N. 114 of 1991)
 
       - Master of Fine Arts (M. F. A.) (L.N. 453 of 1994)
+
+      - Master of Midwifery (M. Mid.) (L.N. 103 of 1999)
 
       - Master of Music (M. Mus.) (L.N. 453 of 1994)
 
