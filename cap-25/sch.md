@@ -1,12 +1,8 @@
 # SCHEDULE
 
-- (1. On and from 18/7/97 to 31/10/97, the Labour Tribunal Ordinance (Cap. 25) shall be read as if the amendments effected by the Employment (Amendment) (No. 4) Ordinance 1997 (98 of 1997) had not been enancted. Please refer to Cap. 538 s. 5 (126 of 1997)
+(Adaptation amendments retroactively made - see 59 of 1999 s. 3)
 
-- 2. On and from 18/7/97 to 31/10/97, the Labour Tribunal Ordinance (Cap. 25) shall be read as if the amendments effected by the Employee’s Rights to Representation, Consultation and Collective Bargaining Ordinance(101 of 1997) had not been enancted. Please refer to Cap. 538 s. 4 (126 of 1997)
-
-- 3. Adaptation amendments retroactively made - see 59 of 1999 s. 3)
-
-[section 7]
+[s. 7]
 
 - 1. A claim for a sum of money which arises from—
 
@@ -42,18 +38,8 @@
 
 - 7. A claim for remedies under Part VIA of the Employment Ordinance (Cap. 57). (Added 75 of 1997 s. 6)
 
-- 8. A claim for remedies under Part IVA of the Employment Ordinance (Cap. 57). (Added 98 of 1997 s. 3)
+- *8. (Repealed 135 of 1997 s. 4)
 
-- 9. Any question under the Employee’s Rights to Representation, Consultation and Collective Bargaining Ordinance (Cap. 530) as to—
+- **9. (Repealed 135 of 1997 s. 14) - * This paragraph was added by 98 of 1997. As to the suspension of operation of 98 of 1997, please see s. 5(1) and (2) of Cap. 538. On 31 October 1997, that s. 5(1) and (2), to the extent that it was in effect immediately before 31 October 1997, ceased to have effect. Please see s. 4(2) of 135 of 1997.
 
-  - (a) the rights of an employee to consultation under sections 7 to 10;
-
-  - (b) the rights of an employee to be covered by a collective agreement under sections 14 to 17;
-
-  - (c) the interpretation, application or enforcement of a collective agreement or arbitration award under section 19;
-
-  - (d) the appointment of a scrutineer under section 20;
-
-  - (e) the issue of a certificate of representativeness under section 22; and
-
-  - (f) the failure of an employer to permit an employee who is a trade union representative to take time off or to pay him in accordance with section 23. (Added 101 of 1997 s. 25)
+- ** This paragraph was added by 101 of 1997. As to the suspension of operation of 101 of 1997, please see s. 4(1) and (2) of Cap. 538. On 31 October 1997, that s. 4(1) and (2), to the extent that it was in effect immediately before 31 October 1997, ceased to have effect. Please see s. 14(2) of 135 of 1997.
