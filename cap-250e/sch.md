@@ -14,7 +14,7 @@ Futures Contract | Trading Limit | Position Limit
 
 5. Swire Pacific Ltd. ‘A’ stock futures contract | 500 open contracts for any one contract month | 200 open contracts for any one contract month.
 
-6. China Light and Power Co., Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
+6. CLP Holdings Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
 
 7. China Resources Enterprise Ltd. stock futures contract | 500 open contracts for any one contract month | 200 open contracts for any one contract month.
 
@@ -38,6 +38,30 @@ Futures Contract | Trading Limit | Position Limit
 
 17. Hang Seng China— Affiliated Corporations Index options contract | 10000 open contracts for any one contract month | 500 open contracts for any one contract month.
 
-18. Hong Kong Interbank Offered Rate futures contract | Nil | 5000 open contracts for any one contract month and 20000 open contracts for all contract months.
+18. Three-Month Hong Kong Interbank Offered Rate futures contract | Nil | 5000 open contracts for any one contract month and 20000 open contracts for all contract months.
 
-(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997)
+19. Cosco Pacific Ltd. stock futures contract | 500 open contracts for any one contract month | 200 open contracts for any one contract month.
+
+20. China Overseas Land and Investment Ltd. stock futures contract | 500 open contracts for any one contract month | 200 open contracts for any one contract month.
+
+21. Guangnan (Holdings) Ltd. stock futures contract | 500 open contracts for any one contract month | 200 open contracts for any one contract month.
+
+22. Ng Fung Hong Ltd. stock futures contract | 500 open contracts for any one contract month | 200 open contracts for any one contract month.
+
+23. Hong Kong and China Gas Co. Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
+
+24. Hongkong Electric Holdings Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
+
+25. China Telecom (Hong Kong) Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
+
+26. HKFE Taiwan Index futures contract | Nil | 500 open contracts for any one contract month.
+
+27. HKFE Taiwan Index options contract | Nil | 500 open contracts for any one contract month.
+
+28. Hang Seng 100 futures contract | Nil | 500 open contracts for any one contract month.
+
+29. Hang Seng 100 options contract | Nil | 500 open contracts for any one series.
+
+30. One-Month Hong Kong Interbank Offered Rate futures contract | Nil | 5000 open contracts for any one contract month and 20000 open contracts for all contract months.
+
+(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997;L.N. 426 of 1997; L.N. 331 of 1998)
