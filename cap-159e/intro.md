@@ -1,0 +1,5 @@
+BARRISTERS (QUALIFICATION) RULES
+
+(Cap. 159, sections 72 and 72A)
+
+[19 January 1973]
