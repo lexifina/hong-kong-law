@@ -118,7 +118,7 @@ Chlorothiazide and other derivatives of benzo-1,2,4-thiadiazine-7-sulphonamide 1
 
 Chlorphenoxamine; its salts Chlorphentermine; its salts Chlorpropamide; its salts Chlorprothixene and other derivatives of 9-methylenethiaxanthen; their salts Chlorthalidone and other derivatives of ortho-chlorobenzene-sulphonamide Chlorzoxazone Chymopapain Cicletanine; its salts Cilazapril; its salts Cinepazide; its salts Ciprofloxacin; its salts; its esters Cisapride Cisplatin Citalopram; its salts Cladribine Clioquinol Clobazam Clodronic acid; its salts; its esters Clofibrate Clomiphene; its salts Clomipramine; its salts; its derivatives; their salts Clonidine; its salts Clonitazene; its salts Clorexolone Cloridarol Clorprenaline and its salts when contained in aerosol dispensers Clothiapine Colaspase Colfosceril; its salts Collagen, purified
 
-Contrast media, the following; their salts; any compound with any substancefalling within this item; when contained in preparations for parenteral use—
+Contrast media, the following; their salts; any compound with any substance falling within this item; when contained in preparations for parenteral use—
 
 Acetrizoic acid
 
@@ -294,7 +294,7 @@ Prindolol; its salts
 
 Probucol
 
-Procainanmide; its salts
+Procainamide; its salts
 
 Procarbazine; its salts
 
@@ -386,6 +386,8 @@ Salmeterol and its salts when contained in aerosol dispensers
 
 Sertraline; its salts
 
+Sildenafil; its salts
+
 Simvastatin
 
 Sodium nitroprusside
@@ -436,7 +438,7 @@ Terazosin; its salts
 
 Terbinafine; its salts; except when contained in preparations for external application only Terbutaline and its salts when contained in aerosol dispensers Terodiline; its salts Tertatolol; its salts Tetrabenazine; its salts Tetracosatrin; its salts Thalidomide; its salts Thallium, salts of Theofibrate Thiacetazone Thiocarlide; its salts Thiotepa Thyroid gland, the active principles of; their salts Ticlopidine; its salts Tiletamine; its salts Tilidate; its salts Timolol; its salts Tinoridine; its salts Tizanidine; its salts Tocainide; its salts Todralazine; its salts Tofenacin; its salts Tolazamide Tolbutamide Tolfenamic Acid; its salts Tolmetin; its salts Tolperisone; its salts para-Tolylmethylcarbinol nicotinic acid ester Torasemide Tramadol; its salts Trandolapril; its salts Tranylcypromine; its salts Trazodone; its salts Tretamine; its salts Tretinoin Triamterene; its salts Triaziquone Tribromoethyl alcohol 2,2,2-Trichloroethyl alcohol, esters of; their salts Trilostane Trimeperidine; its salts Trimetaphan; its salts Trimetazidine; its salts Trimethadione Trimetozine Trimipramine; its salts Trioxsalen Triptorelin; its salts Tropisetron; its salts Tulobuterol and its salts when contained in aerosol dispensers Tybamate Urapidil; its salts Urethane Valnoctamide Valproic acid; its salts; its esters Vasopressins Vencuronium; its salts Venlafaxine; its salts Verapamil; its salts Vigabatrin Viloxazine; its salts Vindesine; its salts Warfarin salts Xamoterol; its salts Zalcitabine; its salts Zidovudine Zimelidine; its salts Zolazepam; its salts Zolpidem; its salts Zomepirac; its salts Zopiclone Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999)
 
 B
 
