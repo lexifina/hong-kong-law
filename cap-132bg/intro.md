@@ -1,0 +1,5 @@
+PRIVATE MARKETS (REGIONAL COUNCIL) BY-LAWS
+
+(Cap. 132, section 80)
+
+[1 July 1963]
