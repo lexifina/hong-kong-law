@@ -32,6 +32,8 @@ Item | Type of Licence or Permission | Annual Levy in respect of a levy paid in 
 
 3. | Temporary driving licence | $28 | $38
 
+3A. | Probationary driving licence (Added 49 of 2000 s. 12) | not applicable | $38
+
 4. | Driving licence or other authorization permitting a person in the public service of the Government to drive a vehicle belonging to the Government (Amended 2 of 2012 s. 3) | $28 | $38
 
 5. | Permission permitting a member of the Hong Kong Garrison to drive a vehicle belonging to the Hong Kong Garrison (Added 2 of 2012 s. 3) | — | $38

@@ -88,6 +88,10 @@ Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub.
 
 Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B)
 
+33A. | Regulation 12K(1) | Driving a vehicle without a “P” plate (Added 49 of 2000 s. 13) | $450
+
+33B. | Regulation 12K(2) | Failing to comply with restriction on carrying passengers (Added 49 of 2000 s. 13) | $450
+
 34. | Regulation 17(4) | Contravening condition of driving licence | $320
 
 35. | Regulation 30(3)(b) | Failing to display “L” plates | $450

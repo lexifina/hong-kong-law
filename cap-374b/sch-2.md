@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-[regs. 11(6), 12(3), 12A(3), 12B(2), 13(5), 15(1), 22(1), 22A(2), 23(1), 23A(2), 24(3), 31(2), 36(2), 40 & 42(1)] (L.N. 161 of 2000)
+[regs. 11(6), 12(3), 12A(3), 12B(2), 12G(1), 12H(1), 13(5), 15(1), 22(1), 22A(2), 23(1), 23A(2), 24(3), 31(2), 36(2), 40 & 42(1)] (L.N. 161 of 2000; 49 of 2000 s. 8)
 
 FEES
 
@@ -11,6 +11,8 @@ FEES | $
 (aa) Full driving licence for applicants over the age of 60 (for every year (or any part thereof) of the validity period) | 52
 
 (b) Driving instructor’s licence | 760
+
+1A. | Fee for issue of probationary driving licence (49 of 2000 s. 8) | 52
 
 2. | Fees for— (a) Learner’s driving licence | 510
 
@@ -31,5 +33,7 @@ FEES | $
 (i) Record of convictions | 97
 
 (j) Certificate of no recorded convictions | 97
+
+(k) Renewal of probationary driving licence (49 of 2000 s. 8) | 26
 
 (40 of 1991 s. 5; L.N. 197 of 1995; L.N. 183 of 1997)
