@@ -1,0 +1,15 @@
+# SCHEDULE 2
+
+[ss. 17 & 29]
+
+OFFENCES FOR WHICH PERMIT TO BE REVOKED
+
+Item | Offence | Penalty
+
+1. | Any offence against the Societies Ordinance (Cap. 151) or the Dangerous Drugs Ordinance (Cap. 134) | Any penalty
+
+2. | Any offence involving fraud or dishonesty | Any penalty
+
+3. | Any offence involving violence | Imprisonment
+
+4. | Any offence against Part XII of the Crimes Ordinance (Cap. 200) | Imprisonment
