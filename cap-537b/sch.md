@@ -2,54 +2,42 @@
 
 [s. 9]
 
-EVIDENCE AND INFORMATION
+EVIDENCE
 
-- 1.
+(L.N. 132 of 2004)
 
-  - (1) Without prejudice to any other provision of this Regulation, or any provision of any other law, the Chief Executive (or an authorized officer) may request any person in or resident in the HKSAR to furnish to the Chief Executive (or to that authorized officer) any information in his possession or control, or to produce to the Chief Executive (or to that authorized officer) any document in his possession or control which the Chief Executive (or that authorized officer) may require for the purpose of securing compliance with or detecting evasion of this Regulation, and any person to whom such a request is made shall comply with it within such time and in such manner as may be specified in the request.
-
-  - (2) Nothing in subsection (1) shall be taken to require any person who has acted as counsel or solicitor for any person to disclose any privileged communication made to him in that capacity.
-
-  - (3) Where a person is convicted of failing to furnish information or produce a document when requested so to do under this section, the magistrate or court may make an order requiring him, within such period as may be specified in the order, to furnish the information or produce the document.
-
-  - (4) The power conferred by this section to request any person to produce documents shall include power to take copies of or extracts from any document so produced and to request that person, or, where that person is a body corporate, any other person who is a present or past officer of, or is employed by, the body corporate, to provide an explanation of any of them.
+- 1. (Repealed L.N. 132 of 2004)
 
 - 2.
 
-  - (1) If any magistrate or judge is satisfied by information on oath given by a police officer, customs officer or authorized officer—
+  - (1) If any magistrate or judge is satisfied by information on oath given by an authorized officer— (L.N. 132 of 2004)
 
-    - (a) that there is reasonable ground for suspecting that an offence under this Regulation or, with respect to any of the matters regulated by this Regulation, an offence under any enactment relating to customs has been or is being committed and that evidence of the commission of the offence is to be found on any premises specified in the information, or in any vehicle, vessel or aircraft so specified; or
+    - (a) that there is reasonable ground for suspecting that an offence under this Regulation has been or is being committed and that evidence relating to the offence is to be found on any premises specified in the information, or in any vehicle, ship or aircraft so specified,
 
-    - (b) that any documents which ought to have been produced under section 1 and have not been produced are to be found on any such premises or in any such vehicle, vessel or aircraft,
+    - (b) (Repealed L.N. 132 of 2004)
 
-  - he may grant a search warrant authorizing any police or customs officer, together with any other persons named in the warrant and any other police or customs officers, to enter the premises specified in the information or, as the case may be, any premises upon which the vehicle, vessel or aircraft so specified may be, at any time within one month from the date of the warrant and to search the premises or, as the case may be, the vehicle, vessel or aircraft.
+  - he may grant a search warrant authorizing an authorized officer, together with any other persons named in the warrant, to enter the premises specified in the information or, as the case may be, any premises upon which the vehicle, ship or aircraft so specified may be, at any time within one month from the date of the warrant and to search the premises or, as the case may be, the vehicle, ship or aircraft.
 
-  - (2) A person authorized by any such warrant to search any premises or any vehicle, vessel or aircraft may search every person who is found in, or whom he has reasonable ground to believe to have recently left or to be about to enter, those premises or that vehicle, vessel or aircraft and may seize any document or article found on the premises or in the vehicle, vessel or aircraft or on such person which he has reasonable ground to believe to be evidence of the commission of any offence as aforesaid, or any document which he has reasonable ground to believe ought to have been produced under section 1, or to take in relation to any such document or article any other steps which may appear necessary for preserving it and preventing interference with it:
+  - (2) A person authorized by any such warrant to search any premises or any vehicle, ship or aircraft may search every person who is found in, or whom he has reasonable ground to believe to have recently left or to be about to enter, those premises or that vehicle, ship or aircraft and may seize any document or article found on the premises or in the vehicle, ship or aircraft or on such person which he has reasonable ground to believe to be evidence relating to an offence under this Regulation, or to take in relation to any such document or article any other steps which may appear necessary for preserving it and preventing interference with it:
 
     - Provided that no person shall in pursuance of any warrant issued under this section be searched except by a person of the same sex.
 
-  - (3) Where, by virtue of this section, a person is empowered to enter any premises, vehicle, vessel or aircraft he may use such force as is reasonably necessary for that purpose.
+  - (3) Where, by virtue of this section, a person is empowered to enter any premises, vehicle, ship or aircraft he may use such force as is reasonably necessary for that purpose.
 
   - (4) Any documents or articles of which possession is taken under this section may be retained for a period of 3 months or, if within that period there are commenced any proceedings for an offence as aforesaid to which they are relevant, until the conclusion of those proceedings.
 
-  - (5) No information furnished or document produced (including any copy or extract made of any document produced) by any person in pursuance of a request made under this Schedule and no document seized under subsection (2) shall be disclosed except—
+  - (5) No document seized under subsection (2) shall be disclosed except— (L.N. 132 of 2004)
 
-    - (a) with the consent of the person by whom the information was furnished or the document was produced or the person from whom the document was seized:
+    - (a) with the consent of the person from whom the document was seized:
 
-      - Provided that a person who has obtained information or is in possession of a document only in his capacity as servant or agent of another person may not give consent for the purposes of this paragraph but such consent may instead be given by any person who is entitled to that information or to the possession of that document in his own right;
+      - Provided that a person who is in possession of a document only in his capacity as servant or agent of another person may not give consent for the purposes of this paragraph but such consent may instead be given by any person who is entitled to the possession of that document in his own right;
 
-    - (b) to any person who would have been empowered under this Schedule to request that it be furnished or produced;
+    - (b) (Repealed L.N. 132 of 2004)
 
-    - (c) on the authority of the Chief Executive, subject to the information or document being transmitted through and with the approval of the instructing authority, to any organ of the United Nations or to any person in the service of the United Nations or to the Government of any place outside the People’s Republic of China for the purpose of assisting the United Nations or that Government in securing compliance with or detecting evasion of measures in relation to Iraq decided upon by the Security Council of the United Nations; or
+    - (c) on the authority of the Chief Executive, subject to the document being transmitted through and with the approval of the instructing authority, to any organ of the United Nations or to any person in the service of the United Nations or to the Government of any place outside the People’s Republic of China for the purpose of assisting the United Nations or that Government in securing compliance with or detecting evasion of measures in relation to Iraq decided upon by the Security Council of the United Nations; or
 
-    - (d) with a view to the institution of, or otherwise for the purposes of, any proceedings for an offence under this Regulation or, with respect to any of the matters regulated by this Regulation, for an offence against any enactment relating to customs.
+    - (d) with a view to the institution of, or otherwise for the purposes of, any proceedings for an offence under this Regulation.
 
-- 3. Any person who—
+- (L.N. 132 of 2004)
 
-  - (a) without reasonable excuse, refuses or fails within the time and in the manner specified (or, if no time has been specified, within a reasonable time) to comply with any request made under this Schedule by any person who is empowered to make it;
-
-  - (b) intentionally furnishes false information or a false explanation or otherwise intentionally obstructs any person in the exercise of his powers under this Schedule; or
-
-  - (c) with intent to evade the provisions of this Schedule, destroys, mutilates, defaces, secretes, or removes any document,
-
-- shall be guilty of an offence.
+- 3. A person who obstructs another person in the exercise of his powers under this Schedule commits an offence and is liable on conviction to a fine at level 6 and to imprisonment for 6 months. (L.N. 132 of 2004)
