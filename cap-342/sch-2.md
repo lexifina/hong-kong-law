@@ -4,8 +4,6 @@
 
 ORDINANCES REFERRED TO IN SECTIONS 17 AND 17A
 
-Copyright Ordinance (Cap. 528) (Replaced 92 of 1997 s. 280)
-
 Import and Export Ordinance (Cap. 60)
 
 Post Office Ordinance (Cap. 98)
@@ -26,7 +24,7 @@ Animals and Plants (Protection of Endangered Species) Ordinance (Cap. 187) (Adde
 
 Plant (Importation and Pest Control) Ordinance (Cap. 207) (Added L.N. 117 of 1976)
 
-Weapons Ordinance (Cap. 217). (Added L.N. 361 of 1981)
+Weapons Ordinance (Cap. 217) (Added L.N. 361 of 1981)
 
 Firearms and Ammunition Ordinance (Cap. 238) (Replaced L.N. 361 of 1981)
 
@@ -51,5 +49,9 @@ Toys and Children’s Products Safety Ordinance (Cap. 424) (Added 80 of 1992 s. 
 Organized and Serious Crimes Ordinance (Cap. 455) (Added 82 of 1994 s. 35)
 
 Consumer Goods Safety Ordinance (Cap. 456) (Added 84 of 1994 s. 36)
+
+Mutual Legal Assistance in Criminal Matters Ordinance (Cap. 525) (Added 87 of 1997 ss. 1(2) & 36)
+
+Copyright Ordinance (Cap. 528) (Replaced 92 of 1997 s. 280)
 
 (Amended 13 of 1995 s. 2)

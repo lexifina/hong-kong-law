@@ -48,7 +48,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - “property” (財產) includes both movable and immovable property within the meaning of section 3 of the Interpretation and General Clauses Ordinance (Cap. 1);
 
-    - “Registrar” (司法常務官) means the Registrar of the High Court. (25 of 1998 s. 2)
+    - “Registrar” (司法常務官) means the Registrar of the High Court. (89 of 1995 s. 33; 25 of 1998 s. 2)
 
   - (2) The expressions listed in the left hand column below are respectively defined or (as the case may be) fall to be construed in accordance with the provisions of this Ordinance listed in the right hand column in relation to those expressions.
 
@@ -108,13 +108,21 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
 - 3. External confiscation orders
 
-  - (1) An order made by a court in a designated country for the purpose of recovering (including forfeiting and confiscating)—
+  - (1) An order made by a court in a designated country for the purpose of—
 
-    - (a) payments or other rewards received in connection with drug trafficking or their value; or
+    - (a) recovering (including forfeiting and confiscating)—
+
+      - (i) payments or other rewards received in connection with drug trafficking or their value;
+
+      - (ii) property derived or realised, directly or indirectly, from payments or other rewards received in connection with drug trafficking or the value of such property; or
+
+      - (iii) property used or intended to be used in connection with drug trafficking or the value of such property; or
 
     - (b)
 
-      - property used or intended to be used in connection with drug trafficking, and whether the proceedings which gave rise to the order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property, is referred to in this Ordinance as an “external confiscation order” (外地沒收令). (89 of 1995 s. 33)
+    - depriving a person of a pecuniary advantage obtained in connection with drug trafficking,
+
+      - and whether the proceedings which gave rise to the order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property, is referred to in this Ordinance as an “external confiscation order” (外地沒收令). (87 of 1997 ss. 1(2) & 36)
 
   - (2) In subsection (1) the reference to an order includes any order, decree, direction or judgment, or any part thereof, however described.
 
@@ -130,11 +138,11 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
 - under external confiscation orders
 
-  - (1) Where a fixed amount is payable under an external confiscation order, that amount shall be treated as a judgment debt for the purposes of section 49 of the High Court Ordinance (Cap. 4) and, for those purposes, the date on which the external confiscation order was registered under section 29 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) shall be treated as the date of the judgment debt.
+  - (1) Where a fixed amount is payable under an external confiscation order, that amount shall be treated as a judgment debt for the purposes of section 49 of the High Court Ordinance (Cap. 4) and, for those purposes, the date on which the external confiscation order was registered under section 29 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) shall be treated as the date of the judgment debt. (25 of 1998 s. 2)
 
   - (2) Where by virtue of subsection (1) any interest accrues on the amount payable under an external confiscation order, the defendant shall be liable to pay that interest and the amount of the interest shall for the purposes of enforcement be treated as part of the amount payable under the external confiscation order.
 
-- (89 of 1995 s. 33; 25 of 1998 s. 2)
+- (89 of 1995 s. 33)
 
 - 7. Definition of principal terms used
 
@@ -232,7 +240,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
       - (B) a trust that has a relationship to the property; and
 
-      - (C) family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in subparagraph (A) or trusts of the kind referred to in subparagraph (B), and other persons. (89 of 1995 s. 33)
+      - (C) family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in subparagraph (A) or trusts of the kind referred to in subparagraph (B), and other persons. (89 of 1995 section 33)
+
+  - (12) Where a person obtains a pecuniary advantage referred to in section 3(1)(b), he is to be treated for the purposes of this Ordinance as if he had obtained in connection with the drug trafficking to which the advantage relates a sum of money equal to the value of the advantage, and the other provisions of this Ordinance shall be construed accordingly. (87 of 1997 ss. 1(2) & 36)
 
 - 8. .
 
@@ -260,9 +270,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
 - 10. Restraint orders
 
-  - (1)
-
-    - The Court of First Instance may by order (in this Ordinance referred to as a “restraint order” (限制令)) prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order.
+  - (1) The Court of First Instance may by order (in this Ordinance referred to as a “restraint order” (限制令)) prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order. (25 of 1998 s. 2)
 
   - (2) A restraint order may apply to any realisable property, including property transferred to a person after the making of the order. (L.N. 247 of 1993)
 
@@ -274,7 +282,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (b) may be made on an ex parte application to a judge in chambers; and
 
-    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg.), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct.
+    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg.), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct. (25 of 1998 s. 2)
 
   - (5) A restraint order—
 
@@ -288,15 +296,15 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (a) to take possession of any realisable property; and
 
-    - (b) in accordance with the directions of the Court of First Instance, to manage or otherwise deal with any property in respect of which he is appointed, (25 of 1998 s. 2)
+    - (b) in accordance with the directions of the Court of First Instance, to manage or otherwise deal with any property in respect of which he is appointed,
 
-  - subject to such exceptions and conditions as may be specified by the Court of First Instance; and may require any person having possession of property in respect of which a receiver is appointed under this section to give possession of it to the receiver.
+  - subject to such exceptions and conditions as may be specified by the Court of First Instance; and may require any person having possession of property in respect of which a receiver is appointed under this section to give possession of it to the receiver. (25 of 1998 s. 2)
 
   - (8) (Repealed 89 of 1995 s. 33)
 
-  - (9) Where the Court of First Instance has made a restraint order, an authorized officer may, for the purpose of preventing any realisable property being removed from Hong Kong, seize the property.
+  - (9) Where the Court of First Instance has made a restraint order, an authorized officer may, for the purpose of preventing any realisable property being removed from Hong Kong, seize the property. (25 of 1998 s. 2)
 
-  - (10) Property seized under subsection (9) shall be dealt with in accordance with the directions of the Court of First Instance.
+  - (10) Property seized under subsection (9) shall be dealt with in accordance with the directions of the Court of First Instance. (25 of 1998 s. 2)
 
   - (11) Where any property specified in a restraint order is immovable property the order shall, for the purposes of the Land Registration Ordinance (Cap. 128)—
 
@@ -306,7 +314,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
 - 11. Charging orders in respect of land, securities, etc.
 
-  - (1) The Court of First Instance may make a charging order on realisable property for securing the payment to the Government—
+  - (1) The Court of First Instance may make a charging order on realisable property for securing the payment to the Government— (25 of 1998 s. 2)
 
     - (a) where a fixed amount is payable under an external confiscation order, of an amount not exceeding the amount so payable; and
 
@@ -322,7 +330,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg.), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct; and
 
-    - (d) may be made subject to such conditions as the Court of First Instance thinks fit and, without prejudice to the generality of this paragraph, such conditions as it thinks fit as to the time when the charge is to become effective.
+    - (d) may be made subject to such conditions as the Court of First Instance thinks fit and, without prejudice to the generality of this paragraph, such conditions as it thinks fit as to the time when the charge is to become effective. (25 of 1998 s. 2)
 
   - (4) Subject to subsection (6), a charge may be imposed by a charging order only on—
 
@@ -334,9 +342,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (b) any interest in realisable property held by a person as trustee of a trust if the interest is in such an asset or is an interest under another trust and a charge may by virtue of paragraph (a) be imposed by a charging order on the whole beneficial interest under the first mentioned trust.
 
-  - (5) In any case where a charge is imposed by a charging order on any interest in an asset of a kind specified in Schedule 2, the Court of First Instance may provide for the charge to extend to any interest, divided or other distribution payable and any bonus issue in respect of the asset.
+  - (5) In any case where a charge is imposed by a charging order on any interest in an asset of a kind specified in Schedule 2, the Court of First Instance may provide for the charge to extend to any interest, divided or other distribution payable and any bonus issue in respect of the asset. (25 of 1998 s. 2)
 
-  - (6) The Court of First Instance may make an order discharging or varying the charging order and shall make an order discharging the charging order if the proceedings in the designated country or territory are concluded or the amount payment of which is secured by the charge is paid into the Court of First Instance.
+  - (6) The Court of First Instance may make an order discharging or varying the charging order and shall make an order discharging the charging order if the proceedings in the designated country or territory are concluded or the amount payment of which is secured by the charge is paid into the Court of First Instance. (25 of 1998 s. 2)
 
   - (7) An application for the discharge or variation of a charging order may be made by any person affected by it.
 
@@ -402,9 +410,11 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (a) the proceeds of the enforcement of any charge imposed under section 11;
 
-    - (b) the proceeds of the realisation, other than by the enforcement of such a charge, of any property under section 10 or 12; and
+    - (b) the proceeds of the realisation, other than byenforcement of such a charge, of any property under section 10 or 12; and
 
-    - (c) any other sums, being property held by the defendant, shall first be applied in payment of such expenses incurred by a person acting as an insolvency officer as are payable under section 18(2) and then shall, after such payments (if any) as the Court of First Instance may direct have been made out of those sums be paid to the Registrar and applied for the purposes specified in subsections (4) to (6) and in the order so specified. (25 of 1998 s. 2)
+    - (c) any other sums, being property held by the defendant,
+
+  - shall first be applied in payment of such expenses incurred by a person acting as an insolvency officer as are payable under section 18(2) and then shall, after such payments (if any) as the Court of First Instance may direct have been made out of those sums be paid to the Registrar and applied for the purposes specified in subsections (4) to (6) and in the order so specified. (25 of 1998 s. 2)
 
   - (2) Where a fixed amount is payable under the external confiscation order and, after that amount has been fully paid, any such sums remain in the hands of such a receiver, the receiver shall distribute those sums—
 
@@ -472,7 +482,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (a) property for the time being comprised in the property of the bankrupt for the purposes of the Bankruptcy Ordinance (Cap. 6); and
 
-    - (b) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 30(3) of the Bankruptcy Ordinance (Cap. 6)
+    - (b) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 30A(9) of the Bankruptcy Ordinance (Cap. 6). (87 of 1997 ss. 1(2) & 36)
 
   - (3) Nothing in the Bankruptcy Ordinance (Cap. 6) shall be taken as restricting, or enabling the restriction of, the exercise of the powers conferred on the Court of First Instance by sections 10 to 13. (25 of 1998 s. 2)
 
@@ -488,7 +498,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (a) a court shall not make an order under—
 
-      - (i) section 31, 47 or 49 of the Bankruptcy Ordinance (Cap. 6); or
+      - (i) section 49 or 50 of the Bankruptcy Ordinance (Cap. 6); or (87 of 1997 ss. 1(2) & 36)
 
       - (ii) section 60 of the Conveyancing and Property Ordinance (Cap. 219), in respect of the making of the gift at any time when property of the person to whom the gift was made is subject to a restraint order or charging order; and
 

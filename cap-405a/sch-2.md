@@ -12,13 +12,13 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
   - (a) in subsection (1)—
 
-    - (i) the definitions of “absconded”, “confiscation order”, defendant”, “drug trafficking offence” and “material” shall be omitted;
+    - (i) the definitions of “absconded”, “confiscation order”, defendant”, “drug trafficking offence” and “material” shall be omitted; (89 of 1995 s. 32)
 
-    - (ia) in the definition of “dealing” for the words “, section 10(1) or 25” there shall be substituted “or section 10(1)”; (89 of 1995 section 32)
+    - (ia) in the definition of “dealing” for the words “, section 10(1) or 25” there shall be substituted “or section 10(1)”; (89 of 1995 s. 32)
 
     - (ii) in the definition of “drug trafficking”, for paragraph (a) there shall be substituted—
 
-      - “(a) an offence specified in Schedule 1; or”; (89 of 1995 section 32)
+      - “(a) an offence specified in Schedule 1; or”; (89 of 1995 s. 32)
 
   - (b) in subsection (2) for the list of expressions and relevant provisions there shall be substituted—
 
@@ -42,13 +42,13 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
   - Value of property (財產的價值) . | Section 7(4)”;
 
-- (89 of 1995 section 32)
+- (89 of 1995 s. 32)
 
   - (c) subsection (4) shall be omitted;
 
   - (d) in subsection (5) the words “other connection” shall be omitted and the words “other connection, and whether received before or after the commencement of the Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg.) and whether received in connection with drug trafficking carried on by the recipient or some other person” shall be substituted;
 
-  - (e) for subsections (11), (12), (12A), (12B) and (13), there shall be substituted- (89 of 1995 section 32)
+  - (e) for subsections (11), (12), (12A), (12B) and (13), there shall be substituted— (89 of 1995 s. 32)
 
     - “(11) Proceedings are instituted in a designated country when—
 
@@ -70,13 +70,21 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
   - “3. External confiscation orders
 
-    - (1) An order made by a court in a designated country for the purpose of recovering (including forfeiting and confiscating)—
+    - (1) An order made by a court in a designated country for the purpose of—
 
-      - (a) payments or other rewards received in connection with drug trafficking or their value; or
+      - (a) recovering (including forfeiting and confiscating)—
+
+        - (i) payments or other rewards received in connection with drug trafficking or their value;
+
+        - (ii) property derived or realised, directly or indirectly, from payments or other rewards received in connection with drug trafficking or the value of such property; or
+
+        - (iii) property used or intended to be used in connection with drug trafficking or the value of such property; or
 
       - (b)
 
-        - property used or intended to be used in connection with drug trafficking, and whether the proceedings which gave rise to the order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property, is referred to in this Ordinance as an “external confiscation order” (外地沒收令). (89 of 1995 s. 32)
+      - depriving a person of a pecuniary advantage obtained in connection with drug trafficking,
+
+        - and whether the proceedings which gave rise to the order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property, is referred to in this Ordinance as an “external confiscation order” (外地沒收令). (87 of 1997 ss. 1(2) & 36)
 
     - (2) In subsection (1) the reference to an order includes any order, decree, direction or judgment, or any part thereof, however described.
 
@@ -90,13 +98,13 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
   - “6A. Interest on amounts to be recovered
 
-- under external confiscation orders
+  - under external confiscation orders
 
-  - (1) Where a fixed amount is payable under an external confiscation order, that amount shall be treated as a judgment debt for the purposes of section 49 of the High Court Ordinance (Cap. 4) and, for those purposes, the date on which the external confiscation order was registered under section 29 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) shall be treated as the date of the judgment debt.
+    - (1) Where a fixed amount is payable under an external confiscation order, that amount shall be treated as a judgment debt for the purposes of section 49 of the High Court Ordinance (Cap. 4) and, for those purposes, the date on which the external confiscation order was registered under section 29 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) shall be treated as the date of the judgment debt. (25 of 1998 s. 2)
 
-  - (2) Where by virtue of subsection (1) any interest accrues on the amount payable under an external confiscation order, the defendant shall be liable to pay that interest and the amount of the interest shall for the purposes of enforcement be treated as part of the amount payable under the external confiscation order.”.
+    - (2) Where by virtue of subsection (1) any interest accrues on the amount payable under an external confiscation order, the defendant shall be liable to pay that interest and the amount of the interest shall for the purposes of enforcement be treated as part of the amount payable under the external confiscation order.”.
 
-- (89 of 1995 s. 32; 25 of 1998 s. 2)
+- (89 of 1995 s. 32)
 
 - 5. In section 7—
 
@@ -114,13 +122,15 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
       - (i) any property held by the defendant;
 
-      - (ii) any property held by a person to whom the defendant has directly or indirectly made a gift caught by this Ordinance; and
+        - (ii) any property held by a person to whom the defendant has directly or indirectly made a gift caught by this Ordinance; and
 
-      - (iii) any property that is subject to the effective control of the defendant. (89 of 1995 s. 32)
+        - (iii) any property that is subject to the effective control of the defendant.”; (89 of 1995 s. 32)
 
-        - (b) subsections (3), (7) and (8) shall be omitted;
+  - (b) subsections (3), (7) and (8) shall be omitted;
 
-        - (c) in subsection (9) for the words “this Ordinance” where they first occur there shall be substituted the words “the Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg.)”.
+  - (c) in subsection (9) for the words “this Ordinance” where they first occur there shall be substituted the words “the Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg.)”;
+
+  - (d) for subsection (12) there shall be substituted— “(12) Where a person obtains a pecuniary advantage referred to in section 3(1)(b), he is to be treated for the purposes of this Ordinance as if he had obtained in connection with the drug trafficking to which the advantage relates a sum of money equal to the value of the advantage, and the other provisions of this Ordinance shall be construed accordingly.”. (87 of 1997 ss. 1(2) & 36)
 
 - 6. Section 8 shall be omitted.
 
@@ -132,7 +142,7 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
   - (ab) for subsection (1)(b) there shall be substituted—
 
-    - “(b) the proceedings have not been concluded; and”; (89 of 1995 section 32)
+    - “(b) the proceedings have not been concluded; and”; (89 of 1995 s. 32)
 
   - (b) for subsection (1)(c) there shall be substituted—
 
@@ -178,21 +188,19 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
   - (c) for subsection (3)(c) there shall be substituted—
 
-    - “(c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg.), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct; and”;
+    - “(c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg.), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct; and”; (25 of 1998 s. 2)
 
   - (d) for subsection (6) there shall be substituted—
 
-    - “(6) The Court of First Instance may make an order discharging or varying the charging order and shall make an order discharging the charging order if the proceedings in the designated country or territory are concluded or the amount payment of which is secured by the charge is paid into the Court of First Instance.”. (89 of 1995 section 32)
-
-- (25 of 1998 s. 2)
+    - “(6) The Court of First Instance may make an order discharging or varying the charging order and shall make an order discharging the charging order if the proceedings in the designated country or territory are concluded or the amount payment of which is secured by the charge is paid into the Court of First Instance.”. (89 of 1995 s. 32; 25 of 1998 s. 2)
 
 - 10. After section 11 there shall be added—
 
   - “11A. Applications for restraint and charging orders
 
-    - (1) Order 115 of the Rules of the High Court (Cap. 4 sub. leg.) shall apply to applications made under this Ordinance subject to the modifications set out in subsections (1A) to (7). (89 of 1995 section 32; 25 of 1998 s. 2)
+    - (1) Order 115 of the Rules of the High Court (Cap. 4 sub. leg.) shall apply to applications made under this Ordinance subject to the modifications set out in subsections (1A) to (7). (89 of 1995 s. 32; 25 of 1998 s. 2)
 
-    - (1A) Rule 2A shall be omitted. (89 of 1995 section 32)
+    - (1A) Rule 2A shall be omitted. (89 of 1995 s. 32)
 
     - (2) For the rule 3(2) there shall be substituted—
 
@@ -204,9 +212,9 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
         - (c) in a case to which section 9(2) applies, indicate when it is intended that proceedings should be instituted in the designated country concerned.”.
 
-    - (3) (Repealed 89 of 1995 section 32)
+    - (3) (Repealed 89 of 1995 s. 32)
 
-    - (4) For rule 5(3) there shall be subsituted—
+    - (4) For rule 5(3) there shall be substituted—
 
       - “(3) Upon the Court being notified that proceedings have been concluded any restraint or charging order shall be discharged.”.
 
@@ -232,7 +240,7 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
   - (c) subsection (3) shall be omitted;
 
-  - (d) in subsection (4), for the words “The Registrar shall first”, there shall be substituted the words “Any sums paid to the Registrar under subsection (1) or otherwise in satisfaction of an external confiscation order shall be first applied to”; (89 of 1995 section 32)
+  - (d) in subsection (4), for the words “The Registrar shall first”, there shall be substituted the words “Any sums paid to the Registrar under subsection (1) or otherwise in satisfaction of an external confiscation order shall be first applied to”; (89 of 1995 s. 32)
 
   - (e) for subsection (7) there shall be substituted—
 
@@ -248,7 +256,7 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
     - (b) pay any remainder of that balance, together with any interest earned on that balance, into the general revenue.
 
-  - (9) The Registrar shall not comply with subsection (7)(b) in respect of any balance referred to in that subsection (including any interest earned thereon) until any application referred to in subsection (8) made in respect of that balance has been determined, whether by a direction under subsection (8) or otherwise.”. (89 of 1995 section 32)
+  - (9) The Registrar shall not comply with subsection (7)(b) in respect of any balance referred to in that subsection (including any interest earned thereon) until any application referred to in subsection (8) made in respect of that balance has been determined, whether by a direction under subsection (8) or otherwise.”. (89 of 1995 s. 32)
 
 - 13. In section 14—
 
@@ -260,21 +268,25 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
 - 14. Section 15 shall be omitted.
 
-- 15. In section 16, for subsection (6) there shall be substituted—
+- 15. In section 16—
 
-  - “(6) Where a person is adjudged bankrupt and has directly or indirectly made a gift caught by this Ordinance—
+  - (a) in subsection (2)(b), for “30(3)” there shall be substituted “30A(9)”;
 
-    - (a) a court shall not make an order under—
+  - (b) for subsection (6) there shall be substituted—
 
-      - (i) section 31, 47 or 49 of the Bankruptcy Ordinance (Cap. 6); or
+    - “(6) Where a person is adjudged bankrupt and has directly or indirectly made a gift caught by this Ordinance—
 
-      - (ii) section 60 of the Conveyancing and Property Ordinance (Cap. 219),
+      - (a) a court shall not make an order under—
+
+        - (i) section 49 or 50 of the Bankruptcy Ordinance (Cap. 6); or
+
+        - (ii) section 60 of the Conveyancing and Property Ordinance (Cap. 219),
 
     - in respect of the making of the gift at any time when property of the person to whom the gift was made is subject to a restraint order or charging order; and
 
     - (b) any order made under any of those sections after the discharge of the restraint order or charging order shall take into account any realisation under this Ordinance of property held by the person to whom the gift was made.”.
 
-- (89 of 1995 s. 32)
+- (87 of 1997 ss. 1(2) & 36)
 
 - 16. In section 19(2), for “13(3)” there shall be substituted “13(5)” and the words “by the prosecutor or, in a case where proceedings for a drug trafficking offence are not instituted,” shall be omitted. (L.N. 247 of 1993)
 
@@ -288,7 +300,7 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
 - 19. In Schedule 1—
 
-  - (a) the items shall be numbered 1, 2, 3, 4, 5, 6, 7, 7A and 8 respectively; (89 of 1995 section 32)
+  - (a) the items shall be numbered 1, 2, 3, 4, 5, 6, 7, 7A and 8 respectively; (89 of 1995 s. 32)
 
   - (b) item 8 (relating to section 25, Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405)) shall be omitted; and
 
@@ -318,4 +330,4 @@ MODIFICATIONS OF THE DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE
 
 - United States of America | When an indictment, information or complaint has been filed against a person in respect of an offence.”. (L.N. 247 of 1993)
 
-- 21. Schedules 3 and 4 shall be omitted. (89 of 1995 section 32)
+- 21. Schedules 3 and 4 shall be omitted. (89 of 1995 s. 32)
