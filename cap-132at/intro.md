@@ -1,0 +1,5 @@
+MUSEUMS (REGIONAL COUNCIL) BY-LAWS
+
+(Cap. 132, section 105I)
+
+[11 February 1983]
