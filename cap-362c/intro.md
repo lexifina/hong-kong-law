@@ -1,0 +1,5 @@
+TRADE DESCRIPTIONS (MARKING) (PLATINUM) ORDER
+
+(Cap. 362, section 4)
+
+[1 April 1989]
