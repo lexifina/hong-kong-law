@@ -1,0 +1,5 @@
+EXPORT (PRESCRIBED ARTICLES) REGULATIONS
+
+(Cap. 60, section 31)
+
+[8 June 1990]
