@@ -1,109 +1,91 @@
 # SECOND SCHEDULE
 
-[reg. 18] (Repealed 13 of 1995 s. 2)
+[reg. 18]
 
-FORM 1
+Form 1
 
-_ FORM 2
+(Repealed 13 of 1995 s. 2)
+
+_ Form 2
 
 (Repealed 53 of 1983 s. 18)
 
-_ FORMS 3 & 4
+_ Form 3 & 4
 
 (Repealed 54 of 1978 s. 3)
 
-_ FORM 5
+_ Form 5
 
 (Repealed L.N. 301 of 1976)
 
 _
 
-FORM 6 | [regulation 57]
+Form 6 | [reg. 57]
 
-Licence No. .
+Licence No.
 
-PUBLIC DANCE HALL LICENCE (Annual)
+Public Dance Hall Licence (Annual)
 
-. of .
+. | of
 
-is hereby licensed to keep . as a public
+is hereby licensed to keep ............................................................ as a public
 
 (description of licensed premises)
 
-dance hall until the . day of., 19. inclusive, subject to the conditions and for the further periods endorsed hereon.
+dance hall until the .......... day of........................................, 19.......... inclusive, subject to the conditions and for the further periods endorsed hereon.
 
-Dated this . day of ., 19 .
+Dated this .......... day of .............................., 19 .
 
 Licensing Authority.
 
-_ FORM 7
+_ Form 7
 
 (Repealed L.N. 301 of 1976)
 
-_ FORM 8
+_ Form 8
 
 (Repealed 11 of 1995 s. 21)
 
-_ FORMS 9 & 10
+_ Form 9 & 10
 
 (Repealed L.N. 301 of 1976)
 
 _
 
-FORM 11 | [regulation 106]
+Form 11 | [reg. 106]
 
-Licence No. .
+Licence No.
 
-DANCING SCHOOL LICENCE (Annual)
+Dancing School Licence (Annual)
 
-. of .
+. | of
 
-is hereby licensed to keep . as a dancing
+is hereby licensed to keep
 
 (description of licensed premises)
 
-school until the . day of., 19. inclusive, and for the further periods endorsed hereon subject to complying with the regulations affecting dancing schools from time to time in force under the Miscellaneous Licences Ordinance and to observing the special conditions endorsed hereon.
+as a dancing school until the . day of., 19. inclusive, and for the further periods endorsed hereon subject to complying with the regulations affecting dancing schools from time to time in force under the Miscellaneous Licences Ordinance and to observing the special conditions endorsed hereon.
 
-Dated this . day of ., 19 .
+Dated this .......... day of .............................., 19 .
 
 Licensing Authority.
 
-CONDITION 1
+Condition 1
 
-Aggregate maximum number of instructors and dancing partners permitted .
-
-.
+Aggregate maximum number of instructors and dancing partners permitted
 
 (G.N.A. 95 of 1952)
 
-FORM 12
+_ Form 12
 
 (Repealed L.N. 301 of 1976)
 
 _
 
-FORM 13 | [regulation 135]
+Form 13
 
-Licence No. .
+(Repealed 67 of 1985 s. 16)
 
-PHYSIOTHERAPY CLINIC LICENCE (Annual)
+_ Form 14
 
-. of . is hereby licensed to carry on a physiotherapy clinic at . . until the . (description of licensed premises) day of ., 19 . inclusive, subject to the conditions and for the further periods endorsed hereon. Dated this . day of ., 19 . | Photograph.
-
-Licensing Authority.
-
-CONDITIONS
-
-- 1. No person shall be accepted for treatment except on the written recommendation of a duly registered medical practitioner.
-
-- 2. No advertising in respect of the clinic shall be permitted, except in publications intended primarily for the use of the medical profession.
-
-- 3.
-
-- Radio emissions from therapeutic equipment and apparatus used in the clinic shall be confined to the frequencies designated for medical purposes within the tolerances specified in the Radio Regulations annexed to the International Telecommunication Convention of Buenos Aires, 1952, as applicable to Hong Kong.
-
-- (G.N.A. 1 of 1956)
-
-- _ FORM 14
-
-- (Repealed 64 of 1993 s. 24)
+(Repealed 64 of 1993 s. 24)
