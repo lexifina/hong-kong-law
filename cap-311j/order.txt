@@ -28,4 +28,5 @@ sch-8.md
 sch-9.md
 sch-10.md
 sch-10A.md
+sch-10B.md
 sch-11.md

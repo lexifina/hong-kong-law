@@ -2,7 +2,15 @@
 
 [reg. 7]
 
-VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR AFTER 1 JANUARY 2001
+VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED BETWEEN 1 JANUARY 2001 AND 31 DECEMBER 2001 (BOTH DATES INCLUSIVE)
+
+VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR
+
+VEHICLES REGISTERED BETWEEN 1 JANUARY 2001 AND
+
+31 DECEMBER 2001 (BOTH DATES INCLUSIVE)
+
+(L.N. 102 of 2001)
 
 - Part I
 
@@ -350,7 +358,7 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
 - as measured by the Type I test procedure specified in Council Directive 70/220/EEC as amended by Council Directive 98/69/EC, both made by the Council; and evaporative emission shall not exceed 2.0 grams per test as measured by the Type IV test procedure specified in Council Directive 98/69/EC made by the Council;
 
-  - (ii) for a vehicle with a reference mass of more than 1250 kg but not more than 1700 kg
+  - (ii) for a vehicle with a reference mass of more than 1250 kg but not more than 1700 kg—
 
   - hydrocarbons and oxides of | 0.6 gram per kilometre
 
