@@ -58,13 +58,13 @@
 
   - 1A. Duty shall be payable on ultra low sulphur diesel at the following rates—
 
-    - (a) from 7 July 2000 to 31 December 2004 (both dates inclusive), at $1.11 per litre; and (Amended L.N. 150 of 2001; L.N. 50 of 2004)
+    - (a) from 7 July 2000 to 31 December 2005 (both dates inclusive), at $1.11 per litre; and (Amended L.N. 150 of 2001)
 
-    - (b) from 1 January 2005, at $2.89 per litre. (Replaced L.N. 150 of 2001. Amended L.N. 50 of 2004)
+    - (b) from 1 January 2006, at $2.89 per litre. (Replaced L.N. 150 of 2001)
 
     - (c) (Repealed L.N. 150 of 2001)
 
-  - (Added L.N. 233 of 2000. Amended L.N. 364 of 2000; L.N. 39 of 2002; L.N. 76 of 2003)
+  - (Added L.N. 233 of 2000. Amended L.N. 364 of 2000; L.N. 39 of 2002; L.N. 76 of 2003; L.N. 50 of 2004; L.N. 199 of 2004)
 
   - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; 21 of 1998 s. 2)
 
