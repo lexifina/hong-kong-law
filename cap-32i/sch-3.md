@@ -10,7 +10,7 @@ of a disqualification order Pursuant to section 168R
 
 To the Registrar of Companies
 
-I furnish the following particulars of the action taken by a court whereby a disqualification order made by this court under the Companies Ordinance was varied or ceased to be in force—
+I furnish the following particulars of the action taken by a court whereby a disqualification order made by this court under the Companies Ordinance or the Securities (Insider Dealing) Ordinance (Cap. 395) was varied or ceased to be in force—
 
 - (1) Date on which the disqualification order was made by this court—
 
@@ -73,3 +73,5 @@ if (b), state period of disqualification now specified in the order (to run from
     - “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”.
 
   - 5. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
+
+(46 of 2000 s. 40)

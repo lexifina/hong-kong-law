@@ -12,7 +12,7 @@ Item | Particular | Fee $
 
 2. | For a copy of or extract from any such statement— (a) if the copy is made by photographic means— for each page or portion of a page . Provided that, where any copy exceeds in size 210 x 297 mm, such additional fee, not exceeding $5, shall be paid as the Registrar may direct; (L.N. 397 of 1984; L.N. 412 of 1994; L.N. 85 1996; L.N. 468 of 1997) (b) if the copy is made by other means— per page (uncertified) . per page (certified) (L.N. 412 of 1994; L.N. 85 1996; L.N. 468 of 1997) . | 13.00 4.00 8.00
 
-3. | On an application by a committee of inspection to the Official Receiver for a special bank account under section 202 (L.N. 221 of 1989) . | 390.00
+3. | On an application by a liquidator to the Official Receiver for a special bank account under section 202 (L.N. 221 of 1989; 46 of 2000 s. 40) . | 390.00
 
 4. | On an order by the Official Receiver for a special bank account (L.N. 221 of 1989) . | 390.00
 
@@ -26,7 +26,9 @@ Item | Particular | Fee $
 
 8. | On an application by a member of the public to the Official Receiver for a search on whether a winding-up petition has been presented against a company (L.N. 221 of 1989) . | 85.00
 
-9. | On an application for release by a liquidator for every $1,000 or fraction of $1,000 of the gross amount of assets realized and brought to credit (L.N. 221 of 1989) . | 5.00
+9. | (Repealed 46 of 2000 s. 40)
+
+10. | On proof of debt above $250 (other than a proof for workmen’s wages) . This fee includes administering oath and filing. No fee is payable on a proof for $250 or under. (46 of 2000 s. 40) | 40.00
 
 TABLE B
 

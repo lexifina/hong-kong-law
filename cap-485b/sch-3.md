@@ -228,4 +228,4 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
       - (ii) if, and only if, the conditions specified in the notice are complied with.
 
-  - (5) Without prejudice to the generality of conditions which may be specified in a notice under subsection (4), such conditions may provide that the retirement or appointment of a trustee, or of a director of a company, shall become void and of no effect unless and until the Authority approves the appointment in writing before the expiration of a period specified in the notice.
+  - (5) Without prejudice to the generality of conditions which may be specified in a notice under subsection (4), such conditions may provide that the retirement or appointment of a trustee, or of a director of a company, shall become void and of no effect unless and until the Authority approves the retirement or appointment in writing before the expiration of a period specified in the notice. (46 of 2000 s. 40)

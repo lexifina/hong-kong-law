@@ -142,6 +142,10 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 115A(7) | Officer failing to circulate members’ resolutions, etc. | Summary | level 5 | —
 
+116B(10) | Company failing to enter record of resolutions agreed in accordance with section 116B (Added 46 of 2000 s. 39) | Summary | Level 3 | $300
+
+116BA(2) | Director or secretary failing to notify company’s auditor of matters under section 116B (Added 46 of 2000 s. 39) | Summary | Level 3 | —
+
 117(5) | Company failing to lodge copies of special resolutions, etc., with the Registrar | Summary | level 3 | $300
 
 117(6) | Company failing to lodge copies of special resolutions, etc., with the Registrar | Summary | level 3 per copy | —
@@ -244,11 +248,11 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 168M | Person contravening a disqualification order (Added 30 of 1994 s. 12) | On indictment Summary | $100,000 and 2 years $25,000 and 6 months | — —
 
-190(5) | Person failing to comply with requirements to give information, etc., to Official Receiver under section 190 | Summary | level 5 | $300
+190(5) | Person failing to comply with requirements to give information, etc., to liquidator under section 190 (Amended 46 of 2000 s. 39) | Summary | level 5 | $300
 
 227(3) | Liquidator failing to deliver dissolution order to the Registrar | Summary | level 5 | $300
 
-228A(2) | Director declaring that company cannot continue in business by reason of its liabilities without having reasonable grounds to do so | Summary | level 5 and 6 months | —
+228A(2) | Director declaring that company cannot continue in business by reason of its liabilities, or declaring that it is not reasonably practicable for company to be wound up under a provision other than section 228A, without having reasonable grounds to do so (Amended 46 of 2000 s. 39) | Summary | level 5 and 6 months | —
 
 228A(3A) (relating to subsection (3)(b)) | Director failing to appoint a provisional liquidator or deliver evidence of appointment (Added 75 of 1993 s. 23) | Summary | level 5 | —
 

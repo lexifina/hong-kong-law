@@ -206,6 +206,8 @@ s-115A.md
 s-116.md
 s-116A.md
 s-116B.md
+s-116BA.md
+s-116BB.md
 s-116C.md
 s-117.md
 s-118.md
@@ -320,6 +322,7 @@ s-168F.md
 s-168G.md
 s-168H.md
 s-168I.md
+s-168IA.md
 s-168J.md
 s-168K.md
 s-168L.md
