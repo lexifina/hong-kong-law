@@ -20,7 +20,7 @@ INFECTIOUS DISEASES
 
 - 7. Food poisoning
 
-- 7A. Influenza A (H5) (Added L.N. 14 of 2004)
+- 7A. Influenza A (H5), Influenza A (H7) or Influenza A (H9) (Added L.N. 14 of 2004. Amended L.N. 223 of 2004)
 
 - 7B. Japanese encephalitis (Added L.N. 137 of 2004)
 
