@@ -290,4 +290,6 @@ Item | Periods | Rate of interest
 
 143. | On or after 4 October 2004 and before 6 December 2004 (L.N. 153 of 2004; L.N. 194 of 2004) | 0.250% per annum
 
-144. | On or after 6 December 2004 (L.N. 194 of 2004) | 0.1250% per annum
+144. | On or after 6 December 2004 and before 7 March 2005 (L.N. 194 of 2004; L.N. 25 of 2005) | 0.1250% per annum
+
+145. | On or after 7 March 2005 (L.N. 25 of 2005) | 0.2000% per annum
