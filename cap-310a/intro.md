@@ -1,5 +1,5 @@
 BUSINESS REGISTRATION REGULATIONS
 
-(Cap. 310, section 14)
+(Cap. 310 section 14)as save
 
 [13 February 1959]
