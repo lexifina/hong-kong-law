@@ -10,11 +10,11 @@ To: The Council,
 
 The Law Society of Hong Kong,
 
-1403-1413 Swire House,
+3rd Floor, Wing On House,
 
-11 Chater Road,
+71 Des Voeux Road Central,
 
-Hong Kong.
+Hong Kong. (L.N. 252 of 1998)
 
 - 1. Name of firm: .
 
