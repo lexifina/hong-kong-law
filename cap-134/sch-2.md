@@ -56,7 +56,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 26. Lock Tao Nursing Home
 
-- 27. Ma Tau Chung Nursing Home
+- 27. (Repealed L.N. 79 of 2004)
 
 - 28. MacLehose Medical Rehabilitation Centre
 
@@ -174,7 +174,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 85. Wong Chuk Hang Hospital (Added L.N. 174 of 1997)
 
-- 86. The Lookout (Added L.N. 388 of 1997)
+- 86. (Repealed L.N. 79 of 2004)
 
 - 87. North District Hospital (Added L.N. 599 of 1997)
 
@@ -196,4 +196,20 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 96. Alice Ho Miu Ling Nethersole Nursing Home (Added L.N. 249 of 1999)
 
-- 97. Tseung Kwan O Hospital (Added L.N. 249 of 1999) (Second Schedule replaced L.N. 187 of 1992)
+- 97. Tseung Kwan O Hospital (Added L.N. 249 of 1999)
+
+- 98. Lions Kidney Education Centre and Research Foundation (L.K.E.C.) Chan Wong Sau Wah Memorial Renal Dialysis Centre (Added L.N. 79 of 2004)
+
+- 99. General Eye and Low Vision Centre (Added L.N. 79 of 2004)
+
+- 100. Hong Kong Christian Service Jockey Club Lodge of Rising Sun (Added L.N. 79 of 2004)
+
+- 101. Yan Chai Hospital Au Yeung Sum Memorial Elderly Home Cum Day Care Unit (Added L.N. 79 of 2004)
+
+- 102. T.W.G.Hs Women’s Welfare Club Western District, Hong Kong Residential Care Home for the Elderly (Added L.N. 79 of 2004)
+
+- 103. Alice Ho Miu Ling Nethersole Elderly Care Home (Added L.N. 79 of 2004)
+
+- 104. Po Leung Kuk Eco-Home for the Senior (Added L.N. 79 of 2004)
+
+- 105. True Light Home for the Aged (Added L.N. 79 of 2004) (Second Schedule replaced L.N. 187 of 1992)
