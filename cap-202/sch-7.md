@@ -1,4 +1,4 @@
-# Schedule 7
+# SCHEDULE 7
 
 [ss. 17 & 35]
 
@@ -10,10 +10,10 @@ Age of elderly surviving spouse | Monthly rate
 
 (HK$)
 
-Aged 65 but under 70 | 488
+Aged 65 but under 70 | 523
 
-Aged 70 but under 80 | 939
+Aged 70 but under 80 | 1007
 
-Aged 80 or over | 1397
+Aged 80 or over | 1498
 
-(Added 56 of 1997 s. 5)
+(Amended L.N. 489 of 1997)

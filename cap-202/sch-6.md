@@ -1,4 +1,4 @@
-# Schedule 6
+# SCHEDULE 6
 
 [ss. 16 & 35]
 
@@ -10,8 +10,8 @@ Rank of qualified person | Monthly rate | Monthly rate
 
 (HK$) | (HK$)
 
-Officer rank | 4439 | 4439
+Officer rank | 4759 | 4759
 
-Member rank | 4294 | 1005
+Member rank | 4603 | 1077
 
-(Added 56 of 1997 s. 5)
+(Amended L.N. 489 of 1997)

@@ -1,4 +1,4 @@
-# Schedule 5
+# SCHEDULE 5
 
 [ss. 10, 11, 12, 13 & 35]
 
@@ -10,20 +10,20 @@ Description of allowance | Monthly rate
 
 (HK$)
 
-Constant attendance allowance | 4286 (maximum)
+Constant attendance allowance | 4595 (maximum)
 
-Exceptionally severe disablement allowance | 2144 (maximum)
+Exceptionally severe disablement allowance | 2298 (maximum)
 
-Comforts allowance | 918 (maximum)
+Comforts allowance | 984 (maximum)
 
 Age allowance, with degree of disablement being—
 
-(a) 40 to 50% | 378
+(a) 40 to 50% | 405
 
-(b) over 50%, but not exceeding 70% | 584
+(b) over 50%, but not exceeding 70% | 626
 
-(c) over 70%, but not exceeding 90% | 834
+(c) over 70%, but not exceeding 90% | 894
 
-(d) over 90% | 1166
+(d) over 90% | 1250
 
-(Added 56 of 1997 s. 5)
+(Amended L.N. 489 of 1997)

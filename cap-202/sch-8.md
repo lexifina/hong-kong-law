@@ -1,4 +1,4 @@
-# Schedule 8
+# SCHEDULE 8
 
 [ss. 35 & 36(1) & (2)]
 
@@ -10,10 +10,10 @@ Article | Monthly rate
 
 (HK$)
 
-18 | 3501
+18 | 3753
 
-21 | 2136
+21 | 2290
 
-26A | 2036
+26A | 2183
 
-(Added 56 of 1997 s. 5)
+(Amended L.N. 489 of 1997)
