@@ -10,7 +10,7 @@ Area Number | Description
 
 2. | North-western part of the New Territories being the area delineated and shown edged black on a plan numbered GS-SP/714-1, dated 8 June 1990, signed by the Secretary for Planning, Environment and Lands and deposited in the Land Registry.
 
-3. | The railway protection areas along the Mass Transit Railway lines being the areas delineated and shown edged black on the plans numbered MT/RP/1 to 21, MT/G/113, MT/RP/30 to 42, MT/G/115, MT/RP/50 to 65, MT/G/310, EHC/RP/1 to 5 and EHC/019 dated 17 March 1992 signed by the Secretary for Planning, Environment and Lands and deposited in the Land Registry. (Added 42 of 1992 s. 11)
+3. | The railway protection areas along the Mass Transit Railway lines being the areas delineated and shown edged black on the plans numbered MTR/G/1 to 3, MTR/RP/1 to 46, MTR/RP/50 to 66 and MTR/RP/101 to 170 dated 29 June 1998 signed by the Secretary for Planning, Environment and Lands and deposited in the Land Registry. (Added 42 of 1992 s. 11. Amended L.N. 287 of 1998)
 
 4. | Ma On Shan area being the area delineated and shown edged black on a plan numbered GS-SP/717-3, dated 25 March 1993, signed by the Secretary for Planning, Environment and Lands and deposited in the Land Registry. (Added 68 of 1993 s. 21)
 
