@@ -1,0 +1,35 @@
+# Schedule 2
+
+[ss. 2, 2A, 3, 5, 7 & 18A]
+
+Item | Substance
+
+1. | Ephedrine (麻黃碱) (*)
+
+2. | Ergotamine (麥角胺) (*)
+
+3. | Ergometrine (麥角新碱) (*)
+
+4. | Pseudoephedrine (假麻黃碱) (*)
+
+5. | Lysergic Acid (麥角酸) (*)
+
+6. | 1-phenyl-2-propanone (1-苯基-2-丙酮) (*)
+
+7. | N-Acetylanthranilic acid (N-乙酰鄰氨苯甲酸) (*)
+
+8. | 3, 4-Methylenedioxy-phenyl-2-propanone (3, 4-亞甲二氧-苯基-2-丙酮) (*)
+
+9. | Safrole (黃樟素) (*)
+
+10. | Isosafrole (異黃樟素) (*)
+
+11. | Piperonal (胡椒醛) (*)
+
+12. | Anthranilic Acid (鄰氨苯甲酸) (*)
+
+13. | Phenylacetic Acid (苯乙酸) (*)
+
+14. | Piperidine (哌啶) (*)
+
+(*) Including the salts of these substances whenever the existence of such salts is possible. (Schedule 2 replaced L.N. 53 of 1997)
