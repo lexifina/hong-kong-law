@@ -284,15 +284,17 @@ SPECIAL ANCHORAGES
 
   - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (i) latitude 22o 19’ 11” north, longitude 114o 08’ 55” east;
+    - (i) latitude 22o 19’ 05” north, longitude 114o 08’ 36” east;
 
-    - (ii) latitude 22o 18’ 27” north, longitude 114o 08’ 55” east;
+    - (ii) latitude 22o 19’ 12” north, longitude 114o 08’ 43” east;
 
-    - (iii) latitude 22o 18’ 35” north, longitude 114os 08’ 35” east;
+    - (iii) latitude 22o 19’ 11” north, longitude 114o 08’ 55” east;
 
-    - (iv) latitude 22o 19’ 01” north, longitude 114o 08’ 33” east;
+    - (iv) latitude 22o 18’ 06” north, longitude 114o 08’ 55” east;
 
-    - (v) latitude 22o 19’ 12” north, longitude 114o 08’ 43” east. (L.N. 221 of 1996)
+    - (v) latitude 22o 18’ 06” north, longitude 114o 08’ 36” east. (L.N. 270 of 1999)
+
+- (L.N. 303 of 1994)
 
 - 4.
 
@@ -300,12 +302,20 @@ SPECIAL ANCHORAGES
 
 - The area of the waters of Hong Kong bounded by lines drawn—
 
-  - (a) from a point on the northern shore of Hong Kong Island position latitude 22o 17’ 03” north, longitude 114o 09’ 37” east, to position latitude 22o 17’ 14” north, longitude 114o 09’ 39.5” east;
+  - (a) from position latitude 22o 18’ 15” north, longitude 114o 08’ 18” east, to position latitude 22o 18’ 20.5” north, longitude 114o 08’ 26” east;
 
-  - (b) thence to position latitude 22o 17’ 23” north, longitude 114o 09’ 49” east and to position latitude 22o 17’ 25” north, longitude 114o 10’ 11.5” east;
+  - (b) thence following the minor arc on the circumference of a circle with its centre at position latitude 22o 18’ 26.5” north, longitude 114o 08’ 21.5” east and with radius 220 metres to position latitude 22o 18’ 23.5” north, longitude 114o 08’ 28.5” east;
 
-  - (c) thence following the circumference of a circle with radius 300 metres from position latitude 22o 17’ 15” north, longitude 114o10’ 11” east to position latitude 22o 17’ 05.2” north, longitude 114o 10’ 13” east;
+  - (c) thence to position latitude 22o 18’ 36.5” north, longitude 114o 08’ 34.5” east;
 
-  - (d) thence to position latitude 22o 17’ 03” north, longitude 114o 09’ 59” east;
+  - (d) thence following the minor arc on the circumference of a circle with its centre at position latitude 22o 18’ 39.5” north, longitude 114o 08’ 27.5” east and with radius 220 metres to position latitude 22o 18’ 45.5” north, longitude 114o 08’ 31.5” east;
 
-  - (e) thence to a point on the northern shore of Hong Kong Island position latitude 22o 16’ 58.5” north, longitude 114o 09’ 53” east.
+  - (e) thence to position latitude 22o 18’ 53.5” north, longitude 114o 08’ 19” east;
+
+  - (f) thence following the minor arc on the circumference of a circle with its centre at position latitude 22o 18’ 48” north, longitude 114o 08’ 15.5” east and with radius 190 metres to position latitude 22o 18’ 50” north, longitude 114o 08’ 09” east;
+
+  - (g) thence to position latitude 22o 18’ 32.5” north, longitude 114o 08’ 03.5” east;
+
+  - (h) thence to position latitude 22o 18’ 15” north, longitude 114o 08’ 18” east.
+
+- (L.N. 270 of 1999)
