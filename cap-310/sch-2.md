@@ -26,12 +26,12 @@ Item | Sum | Section
 
 3. | Levy payable on registration of business or branch, issue of further business registration certificate or issue of further branch registration certificate—
 
-(a) where no election is made under section 6(5C) | $250 | 7
+(a) where no election is made under section 6(5C) | $600 | 7
 
-(b) where an election is made under section 6(5C) (Replaced L.N. 90 of 1999 and 44 of 1999 s. 29) | $750 | 7
+(b) where an election is made under section 6(5C) (Replaced L.N. 90 of 1999 and 44 of 1999 s. 29. Amended L.N. 46 of 2002) | $1,800 | 7
 
 (Added 33 of 1994 s. 8. Amended L.N. 57 of 1995; 3 of 1999 s. 17; L.N. 90 of 1999 and 44 of 1999 s. 29)
 
 Editorial Note:
 
-\#Please see Endnotes for this Ordinance in Hong Kong e-Legislation (http://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed business registration fee in respect of business registration certificates).
+\#Please see Endnotes for this Ordinance in Hong Kong e-Legislation (http://www.elegislation.gov.hk) for related information (including information about Orders for reduction of prescribed branch registration fee in respect of branch registration certificates).
