@@ -1,6 +1,6 @@
-# SCHEDULE
+# SCHEDULE 1
 
-[s. 2(1)]
+[s. 2(1)] (Amended 21 of 2004 s. 22)
 
 FUNDS
 
