@@ -84,7 +84,7 @@ CONSTITUTION, ETC. OF THE AUTHORITY
 
     - (a) any defect in the appointment or qualification of any person purporting to be a member of the Authority;
 
-    - (b) the absence of any member of the Authority from the meeting at which any such proceedings are conducted;
+    - (b) the absence of any member of the Authority from the meeting at which any such proceedings are conducted; (L.N. 95 of 1999)
 
     - (c) any vacancy in the membership of the Authority;
 

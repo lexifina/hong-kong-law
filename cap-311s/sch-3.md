@@ -68,4 +68,4 @@ EFFECTIVENESS TEST FOR THE VAPOUR RECOVERY SYSTEM OF A PETROL FILLING STATION DU
 
   - 6.8 Disconnect all the testing instrumentation from the vapour recovery system after the testing.
 
-  - 6.9 Compare the pressure readings recorded in sections 6.4 and 6.5 and the measured maximum vapour concentrations recorded in section 6.6 to the requirements in section 2.1.
+  - 6.9 Compare the pressure readings recorded in sections 6.4 and 6.5 and the measured maximum vapour concentrations recorded in section 6.6 to the requirements in section 2. (L.N. 95 of 1999)
