@@ -66,6 +66,8 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
 - is a fit and proper person to hold the particular position which he holds or is to hold.
 
+- 5A. The Monetary Authority is satisfied that the company has, and will if it is authorized continue to have, adequate systems of control to ensure that each person who is, or is to be, a manager of the company is a fit and proper person to hold the particular position which he holds or is to hold. (Added 32 of 2001 s. 27)
+
 - 6. The Monetary Authority is satisfied that the company presently has, and will if it is authorized continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing—
 
   - *(a) in the case of a company seeking authorization to carry on banking business in Hong Kong, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $300,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001; L.N. 63 of 2002)

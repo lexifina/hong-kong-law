@@ -1,6 +1,6 @@
-# SCHEDULE 5
+# FIFTH SCHEDULE
 
-[ss. 92(5)(c) & (7) & 135(3)]
+[ss. 92(2)(c) & (7) & 135(3)] (Amended 32 of 2001 s. 26)
 
 REQUIREMENTS APPLICABLE TO PRESCRIBED ADVERTISEMENTS
 
@@ -30,9 +30,7 @@ REQUIREMENTS APPLICABLE TO PRESCRIBED ADVERTISEMENTS
 
 - 4. Assets and liabilities
 
-  - (1) Every prescribed advertisement shall state the amount of the paid-up capital and reserves, described as such, of the deposit-taker (if a body corporate) or the amount of the total assets less liabilities, described as such, of the deposit-taker (if a person other than a body
-
-  - corporate).
+  - (1) Every prescribed advertisement shall state the amount of the paid-up capital and reserves, described as such, of the deposit-taker (if a body corporate) or the amount of the total assets less liabilities, described as such, of the deposit-taker (if a person other than a body corporate).
 
   - (2) Where a prescribed advertisement contains any reference to the amount of the assets of the deposit-taker, it shall state the total amount of the deposit-taker’s liabilities, described as such, which statement shall be not less prominent than such reference.
 

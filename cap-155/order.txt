@@ -45,6 +45,7 @@ s-042.md
 s-043.md
 s-044.md
 s-045.md
+s-045A.md
 s-046.md
 s-047.md
 s-048.md
@@ -87,6 +88,7 @@ s-070D.md
 s-071.md
 s-072.md
 s-072A.md
+s-072B.md
 s-073.md
 s-074.md
 s-075.md
@@ -199,3 +201,4 @@ sch-10.md
 sch-11.md
 sch-12.md
 sch-13.md
+sch-14.md

@@ -1,4 +1,4 @@
-# SCHEDULE 9
+# NINTH SCHEDULE
 
 [ss. 53C(1)(b) & 135(3)]
 
@@ -18,7 +18,7 @@ POWERS OF MANAGER OF AUTHORIZED INSTITUTION
 
   - (a) in the case of an institution incorporated in Hong Kong, are owned by the institution;
 
-  - (b) in the case of an institution incorporated outside Hong Kong, are an asset of the institution’s principal place of business in Hong Kong or of any local branch.
+  - (b) in the case of an institution incorporated outside Hong Kong, are an asset of the institution’s principal place of business in Hong Kong or of any local branch or local office. (Amended 32 of 2001 s. 28)
 
 - 7. Power to bring or defend any action or other legal proceedings in the name and on behalf of the institution.
 
@@ -52,4 +52,4 @@ POWERS OF MANAGER OF AUTHORIZED INSTITUTION
 
 - 22. Power to change the situation of the institution’s business office.
 
-- 23. Power to do all other things incidental to the exercise of the powers specified in this Schedule. (Added 49 of 1995 s. 52)
+- 23. Power to do all other things incidental to the exercise of the powers specified in this Schedule. (Ninth Schedule added 49 of 1995 s. 52)
