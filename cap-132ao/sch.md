@@ -50,6 +50,8 @@ Smithfield Market | 士美菲路街市 | -
 
 Stanley Market | 赤柱街市 | Stanley Market
 
+Stanley Temporary Market | 赤柱臨時街市 | -
+
 Tang Lung Chau Market | 燈籠洲街市 | So Kon Po Market
 
 Tin Wan Market | 田灣街市 | -
@@ -64,7 +66,7 @@ Yue Kwong Road Market | 漁光道街市 | -
 
 Yue Wan Market | 漁灣街市 | -
 
-(L.N. 38 of 1993; L.N. 228 of 1993; L.N. 451 of 1994; L.N. 17 of 1995; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 388 of 1998; L.N. 127 of 1999)
+(L.N. 38 of 1993; L.N. 228 of 1993; L.N. 451 of 1994; L.N. 17 of 1995; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 388 of 1998; L.N. 127 of 1999; L.N. 155 of 1999)
 
 MARKETS IN KOWLOON AND NEW KOWLOON
 
@@ -132,6 +134,8 @@ Tung Yuen Street Cooked Food Market | 東源街熟食市場 | -
 
 Yau Ma Tei Market | 油蔴地街市 | Yaumati Market
 
+Yee On Street Market | 宜安街街市 | -
+
 Yuen Ling Market | 元嶺街市 | -
 
-(L.N. 182 of 1995; L.N. 595 of 1995; L.N. 45 of 1996; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 159 of 1997; L.N. 189 of 1998)
+(L.N. 182 of 1995; L.N. 595 of 1995; L.N. 45 of 1996; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 159 of 1997; L.N. 189 of 1998; L.N. 155 of 1999)
