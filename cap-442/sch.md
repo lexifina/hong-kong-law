@@ -113,3 +113,5 @@ Item | Ordinance | Decision
 58. | Merchant Shipping (Seafarers) (Certificates of Proficiency in Survival Craft, Rescue Boats and Fast Rescue Boats) Rules (Cap. 478 sub. leg. Z) | A decision of the Seafarers’ Authority— (a) to refuse to issue a certificate of proficiency in survival craft and rescue boats under section 4; (b) to refuse to issue a certificate of proficiency in fast rescue boats under section 4A; or (c) to cancel a certificate of proficiency in survival craft and rescue boats or a certificate of proficiency in fast rescue boats under section 7(2). (Added 23 of 2002 s. 14)
 
 59. | (Repealed 23 of 2002 s. 14)
+
+60. | Land (Miscellaneous Provisions) Ordinance (Cap. 28) | A decision of the Director of Highways under section 10M(13) relating to an assessment made under section 10M(1)(d), (g), (h) or (i). (Added 17 of 2003 s. 15)
