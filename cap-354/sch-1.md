@@ -6,7 +6,7 @@ LIVESTOCK WASTE PROHIBITION AREAS
 
 Item | Description | Relevant Date
 
-1. | The area comprising the Districts specified as Central and Western District, Eastern District, Kowloon City District, Kwun Tong District, Sham Shui Po District, Southern District, Wan Chai District, Wong Tai Sin District and Yau Tsim Mong District in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547) and that part of Sai Kung district delineated on a map dated 23 May 1994 numbered LW/50/2 (Edition 3) described as “URBAN AREA” and identified by the numbers 1 and 2 thereon. | 1 July 1994
+1. | The area comprising the Districts specified as Central and Western District, Eastern District, Kowloon City District, Kwun Tong District, Sham Shui Po District, Southern District, Wan Chai District, Wong Tai Sin District and Yau Tsim Mong District in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547) and that part of Sai Kung district delineated on a map dated 23 May 1994 numbered LW/50/2 (Edition 3) described as “URBAN COUNCIL AREA” and identified by the numbers 1 and 2 thereon and with effect from 20 April 2000, the same area delineated on a map dated 31 March 2000 numbered LW/50/2 (Edition 4) described as “URBAN AREA” and identified by the numbers 1 and 2 thereon. | 1 July 1994
 
 2. | Those parts of Sha Tin and Tai Po districts delineated on a map dated 23 May 1994 numbered LW/50/2 (Edition 3) described as “SHA TIN NEW TOWN AND ENVIRONS” and identified by the number 3 thereon. | 1 July 1994
 
@@ -36,4 +36,4 @@ The precise location of livestock premises situated in the vicinity of a common 
 
 may be determined by reference to a map or maps comprising the relevant enlarged area specified in the Third Schedule and identified in that Schedule.
 
-(Replaced L.N. 311 of 1994. Amended L.N. 326 of 1995; 78 of 1999 s. 7)
+(Replaced L.N. 311 of 1994. Amended L.N. 326 of 1995; 78 of 1999 s. 7; L.N. 100 of 2000)
