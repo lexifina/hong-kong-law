@@ -6,7 +6,7 @@
 
 - Item | Licence | Fee
 
-- 1. | Private Telegraph (Reception) . | $ 20 | per receiving channel
+- 1. | Private Telegraph (Reception). | $ 20 | per receiving channel
 
 - 2. | Private Telegraph (Transmission) . | $ 55 | per station irrespective of the number of transmitting channels.
 
@@ -16,7 +16,7 @@
 
 - 5. | Aircraft Station . | $ 150
 
-- 6. | Press Reception (Direct) . | $1,500
+- 6. | Press Reception (Direct). | $1,500
 
 - 7. | General Communication Radio Receiving Station (other than a Sound Broadcast Receiving Apparatus) . | $ 80
 
@@ -74,7 +74,7 @@
 
 - 28. | Hotel Television Services Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 301 of 1989; L.N. 430 of 1990)
 
-- 29. | Public Radiocommunication Service Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 430 of 1990)
+- 29. | Public Radiocommunication Service Licence | to be assessed on the basis set out in Part II of this Schedule. (L.N. 430 of 1990)
 
 - 30. | Satellite Master Antenna Television Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 182 of 1991)
 
@@ -82,11 +82,15 @@
 
 - 32. | Self-Provided External Telecommunication System Licence . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 291 of 1995)
 
+- 33. | Public Radiocommunication Service Licence (for services other than land mobile services) . | to be assessed on the basis set out in Part II of this Schedule. (L.N. 52 of 1998)
+
 - PART IA LICENCES THAT MAY BE GRANTED BY AUTHORITY
 
 Item | Licence | Fee
 
-1. | Self-Provided External Telecommunication System (Short Term) Licence | $750 | (L.N. 28 of 1997)
+1. | Self-Provided External Telecommunication System (Short Term) Licence | $750
+
+(L.N. 28 of 1997)
 
 - PART II FEES FOR CERTAIN LICENCES
 
@@ -226,4 +230,18 @@ Item | Licence | Fee
 
       - “VSAT” (小型衞星通訊地球站) means an earth station with an antenna diameter of less than 4 metres (or having the equivalent surface area if not circular in shape).
 
-  - (L.N. 291 of 1995) (Part II added L.N. 430 of 1990) (Schedule 1 replaced L.N. 192 of 1988)
+  - (L.N. 291 of 1995)
+
+  - PUBLIC RADIOCOMMUNICATION SERVICE
+
+  - LICENCE (FOR SERVICES OTHER THAN
+
+  - LAND MOBILE SERVICES)
+
+  - 1. The annual fee payable on the grant and on the anniversary of the grant of the public radiocommunication service licence (for services other than land mobile services) in each year while the licence remains in force shall be the sum of—
+
+    - (a) $50,000 per licence; and
+
+    - (b) $1,000 per land station or land earth station operated by the licensee for the Service.
+
+  - (L.N. 52 of 1998) (Part II added L.N. 430 of 1990) (Schedule 1 replaced L.N. 192 of 1988)
