@@ -1262,7 +1262,7 @@ Item Body
 
 - 627. Panalpina (Hong Kong-China) Ltd (Added L.N. 429 of 1994)
 
-- 628. Pansy Jewellery (Internationl) Co Ltd (Added L.N. 429 of 1994)
+- 628. Pansy Jewellery (International) Co Ltd (Added L.N. 429 of 1994)
 
 - 629. Paul Civil Engineering Co (Added L.N. 429 of 1994)
 
@@ -1971,3 +1971,7 @@ Item Body
 - 981. Hong Kong Federation of Women’s Centre (Added L.N. 317 of 1998)
 
 - 982. The Federation of Hong Kong and Kowloon Labour Unions (Added L.N. 317 of 1998)
+
+- 983. Neighbourhood & Worker’s Service Centre (Added L.N. 395 of 1998)
+
+- 984. The Young Men’s Christian Association of Hong Kong (Added L.N. 395 of 1998)
