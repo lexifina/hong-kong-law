@@ -1,10 +1,12 @@
-# SCHEDULE MARKETS IN HONG KONG
+# SCHEDULE
+
+MARKETS IN HONG KONG
 
 Name of Market | Name in Chinese | Former Name of Market
 
 Aberdeen Market, Urban Council Aberdeen Complex | 香港仔街市 | Aberdeen Market
 
-Ap Lei Chau Market, Ap Lei Chau Complex | 鴨脷洲街市，鴨脷洲市政大廈 | -
+Ap Lei Chau Market, Ap Lei Chau Complex | 鴨脷洲街市，鴨脷洲市 政大廈 | -
 
 Bowrington Road Market | 鵝頸街市 | -
 
@@ -108,6 +110,8 @@ Pei Ho Street Market | 北河街街市 | -
 
 Po On Road Market | 保安道街市 | -
 
+Sam Ka Tsuen Market | 三家村街市 | -
+
 Sheung Fung Street Market | 雙鳳街街市 | -
 
 Shui Wo Street Market | 瑞和街街市 | -
@@ -134,4 +138,4 @@ Yee On Street Market | 宜安街街市 | -
 
 Yuen Ling Market | 元嶺街市 | -
 
-(L.N. 182 of 1995; L.N. 595 of 1995; L.N. 45 of 1996; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 159 of 1997; L.N. 189 of 1998; L.N. 155 of 1999; L.N. 234 of 1999)
+(L.N. 182 of 1995; L.N. 595 of 1995; L.N. 45 of 1996; L.N. 219 of 1996; L.N. 430 of 1996; L.N. 159 of 1997; L.N. 189 of 1998; L.N. 155 of 1999; L.N. 234 of 1999; L.N. 294 of 1999)
