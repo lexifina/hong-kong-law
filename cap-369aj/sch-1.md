@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 35(2)(c)]
 

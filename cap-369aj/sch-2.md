@@ -1,4 +1,4 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 36(d)]
 
