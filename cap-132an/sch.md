@@ -158,6 +158,8 @@ Tai Kok Tsui Temporary Market | 大角咀臨時街市 (78 of 1999 s. 7)
 
 Tai O (Lantau) Market | 大澳街市
 
+Tai Po Hui Market | 大埔墟街市 (L.N. 118 of 2004)
+
 Tai Po Temporary Market | 大埔臨時街市 (L.N. 106 of 1983)
 
 Tai Shing Street Market | 大成街街市 (78 of 1999 s. 7)
