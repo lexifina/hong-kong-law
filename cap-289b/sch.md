@@ -216,4 +216,6 @@ Item | Periods | Rate of interest
 
 106. | On or after 3 July 2000 and before 7 August 2000 (L.N. 232 of 2000; L.N. 246 of 2000) | 5.4533% per annum
 
-107. | On or after 7 August 2000 (L.N. 246 of 2000) | 5.1042% per annum
+107. | On or after 7 August 2000 and before 4 September 2000 (L.N. 246 of 2000; L.N. 258 of 2000) | 5.1042% per annum
+
+108. | On or after 4 September 2000 (L.N. 258 of 2000) | 4.9875% per annum
