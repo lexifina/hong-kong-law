@@ -248,8 +248,6 @@ Director of Buildings as Building Authority | Mass Transit Railway (Land Resumpt
 
 Director of Buildings as Building Authority | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 303 of 1993)
 
-Director of Civil Aviation | Air Passenger Departure Tax Ordinance (Chapter 140). (L.N. 191 of 1983)
-
 Director of Civil Engineering Services | Ferry Services Ordinance (Chapter 104), sections 16(1)(a), 20(1) and 28(4). (L.N. 133 of 1986)
 
 Director of Civil Engineering Services | Sand Ordinance (Chapter 147), sections 2 and 3. (L.N. 133 of 1986)
@@ -327,6 +325,8 @@ Director of Social Welfare | Offences against the Person Ordinance (Chapter 212)
 Director of Social Welfare | Probation of Offenders Ordinance (Chapter 298). (L.N. 79 of 1973)
 
 Director of Social Welfare | Reformatory Schools Ordinance (Chapter 225). (L.N. 79 of 1973)
+
+Director-General of Civil Aviation (L.N. 326 of 2000) | Air Passenger Departure Tax Ordinance (Chapter 140). (L.N. 191 of 1983)
 
 Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Export (Certificates of Origin and Commonwealth Preference Certificates) Regulations (Chapter 60 subsidiary legislation), regulations 6(2) and 8(1). (L.N. 132 of 1986)
 

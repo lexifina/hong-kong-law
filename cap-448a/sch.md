@@ -1,10 +1,8 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
 FORM 1 | [regulation 6]
 
-Hong Kong APPLICATION FOR LICENCE TO OPERATE A SCHEDULED SERVICE (To: The Licensing Authority through the (Director of Civil Aviation))
+Hong Kong APPLICATION FOR LICENCE TO OPERATE A SCHEDULED SERVICE (To: The Licensing Authority through the (Director-General of Civil Aviation))
 
 - 1. APPLICANT (full name) . If a body corporate give full particulars and title of applicant.
 
@@ -64,7 +62,7 @@ Hong Kong APPLICATION FOR LICENCE TO OPERATE A SCHEDULED SERVICE (To: The Licens
 
 - CONDITIONS
 
-- Note: Before the application overleaf is submitted by the Director of Civil Aviation to the Licensing Authority for consideration, the applicant must first satisfy the Director of Civil Aviation as regards:
+- Note: Before the application overleaf is submitted by the Director-General of Civil Aviation to the Licensing Authority for consideration, the applicant must first satisfy the Director-General of Civil Aviation as regards:
 
   - 1. Operational procedures to be observed-including Route Capacity Schedules, Operations Manual, Route Book for aircrew, Preparations for flight; such documents as Flight Plans, Log-books, (Aircraft, Engine and Journey), Loadsheet; Radio apparatus to operate on the required frequencies for the proposed Route.
 
@@ -72,7 +70,7 @@ Hong Kong APPLICATION FOR LICENCE TO OPERATE A SCHEDULED SERVICE (To: The Licens
 
   - 3. Traffic handling .
 
-  - 4. The adequacy and competence of the staff to be employed. ENDORSEMENT OF APPLICATION (by the Director of Civil Aviation)
+  - 4. The adequacy and competence of the staff to be employed. ENDORSEMENT OF APPLICATION (by the Director-General of Civil Aviation)
 
 - The Secretary/Chairman,
 
@@ -88,7 +86,7 @@ Hong Kong APPLICATION FOR LICENCE TO OPERATE A SCHEDULED SERVICE (To: The Licens
 
   - Title .
 
-- (36 of 1999 s. 3)
+- (36 of 1999 s. 3; L.N. 326 of 2000)
 
 - _
 

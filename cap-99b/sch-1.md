@@ -234,8 +234,6 @@ Director of Broadcasting | Director of Broadcasting Deputy Director of Broadcast
 
 Director of Buildings | Director of Buildings Deputy Director of Buildings | 1.8.1993 19.1.1996
 
-Director of Civil Aviation | Director of Civil Aviation Deputy Director of Civil Aviation Assistant Director of Civil Aviation | 19.3.1948 4.9.1973 8.12.1965
-
 Director of Civil Engineering | Director of Civil Engineering | 1.4.1991
 
 Director of Drainage Services | Director of Drainage Services | 1.7.1989
@@ -283,6 +281,8 @@ Director of Social Welfare | Deputy Director of Social Welfare Assistant Directo
 Director of Territory Development | Director of Territory Development Assistant Director of Territory Development | 11.4.1986 11.4.1986
 
 Director of Water Supplies | Director of Water Supplies Deputy Director of Water Supplies Assistant Director of Water Supplies | 1.4.1965 13.10.1982 10.10.1984
+
+Director-General of Civil Aviation (L.N. 326 of 2000) | Director-General of Civil Aviation (L.N. 326 of 2000) Deputy Director-General of Civil Aviation (L.N. 326 of 2000) Assistant Director-General of Civil Aviation (L.N. 326 of 2000) | 19.3.1948 4.9.1973 8.12.1965
 
 Dispenser | Chief Dispenser Senior Dispenser Dispenser Student Dispenser | 1.4.1959 23.4.1949 1.4.1957 1.4.1957
 

@@ -358,7 +358,7 @@ CONDITIONS
 
 - (3) The apparatus comprised in the Station and the Radar Station shall be so designed, constructed, maintained and used that the use of the Station does not cause any avoidable interference with any radiocommunications.
 
-- (4) This Licence shall be available for inspection when required by any person acting in the course of his duty on behalf of the Telecommunications Authority or the Director of Civil Aviation and by competent authorities of the countries where the aircraft calls.
+- (4) This Licence shall be available for inspection when required by any person acting in the course of his duty on behalf of the Telecommunications Authority or the Director-General of Civil Aviation and by competent authorities of the countries where the aircraft calls.
 
 - (5) No message which is grossly offensive or of an indecent or obscene character shall be transmitted.
 
@@ -398,7 +398,7 @@ CONDITIONS
 
 - Telecommunications Authority.
 
-- (L.N. 43 of 1966; L.N. 72 of 1972; L.N. 4 of 1984; 29 of 1998 s. 105; 36 of 2000 s. 28)
+- (L.N. 43 of 1966; L.N. 72 of 1972; L.N. 4 of 1984; 29 of 1998 s. 105; 36 of 2000 s. 28; L.N. 326 of 2000)
 
 - TELECOMMUNICATIONS ORDINANCE
 
@@ -3284,7 +3284,11 @@ CONDITIONS
 
     - [Special conditions may be specified by the Authority on the grant or renewal of this licence.]
 
-    - SCHEDULE 1 SCOPE OF THE SERVICE SCHEDULE 2 DESCRIPTION OF NETWORK SCHEDULE 3 TECHNICAL PARTICULARS OF RADIO STATIONS FOR
+    - SCHEDULE 1 SCOPE OF THE SERVICE
+
+    - _ SCHEDULE 2 DESCRIPTION OF NETWORK
+
+    - _ SCHEDULE 3 TECHNICAL PARTICULARS OF RADIO STATIONS FOR
 
     - THE PROVISION OF THE SERVICE
 
