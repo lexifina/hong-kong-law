@@ -56,7 +56,7 @@ Delete Paragraph I or II according to circumstances, complete the remaining para
 
   - (b) repay the principal sum of $. together with any interest payable from the date of issue of this Certificate to the date of final determination of the objection/appeal; and/or
 
-  - (c) issue a new Certificate for $. in place of this Certificate bearing the same date of issue and the rate of interest. (Not applicable if the Certificate was purchased more than 36 months previously.)
+  - (c) make an entry in an account maintained in the name of the holder named in this Certificate, for the principal sum of $. together with any interest payable from the date of issue of this Certificate to the date of the final determination of the objection/appeal.
 
 - Name . (1) Signature .
 
@@ -64,4 +64,4 @@ Delete Paragraph I or II according to circumstances, complete the remaining para
 
 - (1) Insert full name of person signing this Certificate.
 
-- (2) Delete the alternatives which do not apply. (L.N. 556 of 1995)
+- (2) Delete the alternatives which do not apply. (L.N. 556 of 1995; 24 of 1999 s. 8)
