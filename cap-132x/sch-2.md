@@ -6,15 +6,15 @@ RESTRICTED FOODS
 
 Item | Description of food
 
-1. | Fresh or frozen meat, excluding meat specified in Schedule 1
+1. | Fresh, chilled or frozen meat, excluding meat specified in Schedule 1 (L.N. 220 of 2001)
 
-2. | Fresh or frozen game
+2. | Fresh, chilled or frozen game (L.N. 220 of 2001)
 
-3. | Fresh, frozen or live fish, excluding live fish on a fish farm
+3. | Fresh, chilled, frozen or live fish, excluding live fish on a fish farm (L.N. 220 of 2001)
 
-4. | (a) Live water birds, excluding live water birds on a poultry farm or in a wholesale market (b) Other live poultry, excluding live poultry on a poultry farm or in a wholesale market (c) Fresh or frozen poultry carcass (L.N. 171 of 1998)
+4. | (a) Live water birds, excluding live water birds on a poultry farm or in a wholesale market (b) Other live poultry, excluding live poultry on a poultry farm or in a wholesale market (c) Fresh, chilled or frozen poultry carcass (L.N. 171 of 1998; L.N. 220 of 2001)
 
-5. | Fresh or frozen shell fish, excluding shell fish specified in Schedule 1
+5. | Fresh, chilled or frozen shell fish, excluding shell fish specified in Schedule 1 (L.N. 220 of 2001)
 
 6. | Imported cooked or dried meat or imported meat which has been otherwise treated or prepared
 

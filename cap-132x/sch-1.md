@@ -8,7 +8,7 @@ Item | Description of food
 
 1. | The following Chinese dishes— Yu Sang (魚生).
 
-2. | Fresh or frozen meat of animals which have not been slaughtered in a Government slaughterhouse or in a slaughterhouse approved by the Director except where such meat was lawfully imported into Hong Kong in accordance with the Imported Game, Meat and Poultry Regulations (Cap. 132 sub. leg.). (78 of 1999 s. 7)
+2. | Fresh, chilled or frozen meat of animals which have not been slaughtered in a Government slaughterhouse or in a slaughterhouse approved by the Director except where such meat was lawfully imported into Hong Kong in accordance with the Imported Game, Meat and Poultry Regulations (Cap. 132 sub. leg. AK). (78 of 1999 s. 7; L.N. 220 of 2001)
 
 3. | Shell fish which has been collected in contravention of section 28 of this Regulation. (78 of 1999 s. 7)
 
