@@ -14,7 +14,7 @@ Item | Stock options contract | Limit | Reporting level
 
 5. | Swire Pacific Ltd ‘A’ stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
 
-6. | China Light and Power Co. Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 572 of 1995)
+6. | CLP Holdings Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 332 of 1998)
 
 7. | Henderson Land Development Co. Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 572 of 1995)
 
@@ -83,3 +83,25 @@ Item | Stock options contract | Limit | Reporting level
 39. | Peregrine Investments Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in anyone expiry month (L.N. 338 of 1997)
 
 40. | Shanghai Industrial Holdings Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 338 of 1997)
+
+41. | China Overseas Land & Investment Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
+
+42. | China Travel International Investment Hong Kong Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
+
+43. | Guangnan (Holdings) Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 332 of 1998)
+
+44. | The HKCB Bank Holding Co. Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 332 of 1998)
+
+45. | CITIC Ka Wah Bank Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
+
+46. | Liu Chong Hing Bank Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
+
+47. | Ng Fung Hong Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 332 of 1998)
+
+48. | Union Bank of Hong Kong Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
+
+49. | China Merchants Holdings (International) Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
+
+50. | China Telecom (Hong Kong) Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month (L.N. 332 of 1998)
+
+51. | Beijing Enterprises Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month (L.N. 332 of 1998)
