@@ -1,0 +1,5 @@
+SECURITIES (MISCELLANEOUS) RULES
+
+(Cap. 333 section 146(1))
+
+[8 June 1990]
