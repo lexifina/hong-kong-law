@@ -150,8 +150,6 @@ Smithfield Market | 士美非路街市 (78 of 1999 s. 7)
 
 Soy Street Temporary Cooked Food Market | 豉油街臨時熟食市場 (78 of 1999 s. 7)
 
-Stanley Temporary Market | 赤柱臨時街市 (78 of 1999 s. 7)
-
 Sze Shan Street Cooked Food Market | 四山街熟食市場 (78 of 1999 s. 7)
 
 Tai Kiu Market | 大橋街市 (L.N. 288 of 1984)
@@ -216,4 +214,4 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004)
