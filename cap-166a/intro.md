@@ -1,0 +1,5 @@
+PAWNBROKERS REGULATIONS
+
+(Cap. 166, section 26)
+
+[24 August 1984]
