@@ -1,0 +1,75 @@
+# SCHEDULE 1
+
+[reg. 3]
+
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) MEDICAL LABORATORY TECHNOLOGISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATIONS Register of Medical Laboratory Technologists PART I
+
+REGISTRATION NO. | :
+
+NAME | : | ...................................... ()
+
+ADDRESS | :
+
+BUSINESS ADDRESS | :
+
+QUALIFICATIONS AND DATE OBTAINED | :
+
+DETAILS OF WORKING EXPERIENCE | :
+
+CERTIFICATION OF REGISTRATION SERIAL NO. | :
+
+DATE OF REGISTRATION | :
+
+REMARKS | :
+
+Photograph
+
+Secretary, Medical Laboratory Technologists Board.
+
+PART II
+
+REGISTRATION NO. | :
+
+NAME | : | ...................................... ()
+
+ADDRESS | :
+
+BUSINESS ADDRESS | :
+
+QUALIFICATIONS AND DATE OBTAINED | :
+
+DETAILS OF WORKING EXPERIENCE | :
+
+CERTIFICATION OF REGISTRATION SERIAL NO. | :
+
+DATE OF REGISTRATION | :
+
+REMARKS | :
+
+Photograph
+
+Secretary, Medical Laboratory Technologists Board.
+
+PART III
+
+REGISTRATION NO. | :
+
+NAME | : | ...................................... ()
+
+ADDRESS | :
+
+BUSINESS ADDRESS | :
+
+QUALIFICATIONS AND DATE OBTAINED | :
+
+DETAILS OF WORKING EXPERIENCE | :
+
+CERTIFICATION OF REGISTRATION SERIAL NO. | :
+
+DATE OF REGISTRATION | :
+
+REMARKS | :
+
+Photograph
+
+Secretary, Medical Laboratory Technologists Board.
