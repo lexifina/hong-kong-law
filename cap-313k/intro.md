@@ -1,0 +1,5 @@
+SHIPPING AND PORT CONTROL REGULATIONS (SPEED RESTRICTED ZONES FOR PLEASURE VESSELS) NOTICE
+
+(Regulation 67(1) of the Shipping and Port Control Regulations)
+
+[1 May 1981]
