@@ -62,6 +62,8 @@ Common law offences
 
 - 14. | Firearms and Ammunition Ordinance (Cap. 238) section 13 section 14 | possession of arms or ammunition without licence dealing in arms or ammunition without a licence
 
+- 14A. | Trade Descriptions Ordinance (Cap. 362) section 9(1) and (2) section 12 (provided that for the purpose of this Ordinance, an offence under section 12 of the Trade Descriptions Ordinance does not include an offence relating only to false trade description) section 22 (provided that for the purpose of this Ordinance, “offence under this Ordinance” referred to in section 22 of the Trade Descriptions Ordinance only means an offence under— (a) section 9(1) or (2) of that Ordinance; or (b) section 12 of that Ordinance, excluding any offence relating only to false trade description) | offences in respect of infringement of trade mark rights import or export of goods bearing forged trade mark being accessory to certain offences committed outside Hong Kong (Added L.N. 11 of 2000)
+
 - 15. | Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405)
 
 - section 25(1) | assisting another to retain the benefit of drug trafficking
@@ -71,6 +73,8 @@ Common law offences
 - 17. | Weapons of Mass Destruction (Control of Provision of Services) Ordinance (Cap. 526)
 
 - section 4 | providing services that assist the development, production, acquisition or stockpiling of weapons of mass destruction (Added 90 of 1997 s. 15)
+
+- 18. | Copyright Ordinance (Cap. 528) section 118(1), (4) and (8) (provided that for the purpose of this Ordinance, “infringing copy” referred to in section 118(1) and (4) of the Copyright Ordinance does not include a copy of a work which is an infringing copy by virtue only of section 35(3) of that Ordinance) section 120(1), (2), (3) and (4) (provided that for the purpose of this Ordinance, “infringing copy” referred to in section 120(1) and (3) of the Copyright Ordinance does not include a copy of a work which is an infringing copy by virtue only of section 35(3) of that Ordinance) | offences relating to making or dealing with infringing copies offences relating to making infringing copies outside Hong Kong (Added L.N. 11 of 2000)
 
 - -
 
