@@ -1,0 +1,5 @@
+INTESTATE SUCCESSION (RECKONING OF CAPITAL VALUE) NOTICE
+
+(Cap. 73, paragraph 5(3) of Schedule 1)
+
+[22 December 1995]
