@@ -83,6 +83,8 @@ s-074B.md
 s-074C.md
 s-074D.md
 s-074E.md
+s-074F.md
+s-074G.md
 s-075.md
 s-076.md
 s-077.md
