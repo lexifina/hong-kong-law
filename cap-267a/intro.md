@@ -1,0 +1,5 @@
+CONSULAR CONVENTIONS (CONSOLIDATION) ORDER
+
+(Cap. 267, section 5)
+
+[16 November 1951]
