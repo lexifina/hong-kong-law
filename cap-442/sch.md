@@ -82,6 +82,8 @@ Item | Ordinance | Decision
 
 41. | Prevention of Copyright Piracy Ordinance (Cap. 544) | A decision of the Commissioner of Customs and Excise under section 11 or 12 of the Ordinance. (Added 22 of 1998 s. 43)
 
+42. | Education Ordinance (Cap. 279) | (a) An attendance order made under section 74(1). (b) A variation of an attendance order made under section 74(2). (Added 8 of 2001 s. 31)
+
 44. | Dangerous Dogs Regulation (Cap. 167 sub. leg.) | A direction by an authorized officer under section 14 of the Regulation. (Added L.N. 185 of 2000)
 
 45. | Factories and Industrial Undertakings (Safety Management) Regulation (Cap. 59 sub. leg. AF) | (a) A decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. (b) A decision of the Commissioner for Labour under section 24(1) to require the appointment of a new safety review officer. (c) A decision of the disciplinary board under section 29(2) to reprimand a registered person, cancel the registration of a registered person or suspend the registration of a registered person. (Added L.N. 298 of 1999)
