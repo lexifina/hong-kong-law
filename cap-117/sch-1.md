@@ -10,21 +10,21 @@ Agreement for Lease, See LEASE and section 16 Agreement or Contract for Sale of 
 
 (1) CONVEYANCE ON SALE (a) where the amount or value of the consideration does not exceed $1,000,000 and the instrument is certified in accordance with section 29 at $1,000,000 | (A) (a) $100
 
-(b) where the amount or value of the consideration exceeds $1,000,000 but does not exceed $1,080,010 and the instrument is certified in accordance with section 29 at $1,080,010 | (b) $100 plus 10% of the amount by which the amount or value of the consideration exceeds $1,000,000
+(b) where the amount or value of the consideration exceeds $1,000,000 but does not exceed $1,080,000 and the instrument is certified in accordance with section 29 at $1,080,000 | (b) $100 plus 10% of the amount by which the amount or value of the consideration exceeds $1,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(c) where the amount or value of the consideration exceeds $1,080,010 but does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (c) 75 cents for every $100 or part of $100 of the amount or value of the consideration
+(c) where the amount or value of the consideration exceeds $1,080,000 but does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (c) 0.75% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(d) where the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,176,480 and the instrument is certified in accordance with section 29 at $2,176,480 | (d) $15,000 plus 10% of the amount by which the amount or value of the consideration exceeds $2,000,000
+(d) where the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,176,470 and the instrument is certified in accordance with section 29 at $2,176,470 | (d) $15,000 plus 10% of the amount by which the amount or value of the consideration exceeds $2,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(e) where the amount or value of the consideration exceeds $2,176,480 but does not exceed $3,000,000 and the instrument is certified in accordance with section 29 at $3,000,000 | (e) $1.5 for every $100 or part of $100 of the amount or value of the consideration
+(e) where the amount or value of the consideration exceeds $2,176,470 but does not exceed $3,000,000 and the instrument is certified in accordance with section 29 at $3,000,000 | (e) 1.5% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(f) where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,187,520 and the instrument is certified in accordance with section 29 at $3,187,520 | (f) $45,000 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000
+(f) where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,290,320 and the instrument is certified in accordance with section 29 at $3,290,320 | (f) $45,000 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(g) where the amount or value of the consideration exceeds $3,187,520 but does not exceed $4,000,000 and the instrument is certified in accordance with section 29 at $4,000,000 | (g) $2 for every $100 or part of $100 of the amount or value of the consideration
+(g) where the amount or value of the consideration exceeds $3,290,320 but does not exceed $4,000,000 and the instrument is certified in accordance with section 29 at $4,000,000 | (g) 2.25% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(h) where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,413,830 and the instrument is certified in accordance with section 29 at $4,413,830 | (h) $80,000 plus 10% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced 43 of 1997 s. 2)
+(h) where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,428,570 and the instrument is certified in accordance with section 29 at $4,428,570 | (h) $90,000 plus 10% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(i) in any other case | (i) $2.75 for every $100 or part thereof of the amount or value of the consideration
+(i) where the amount or value of the consideration exceeds $4,428,570 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29 at $6,000,000 (j) where the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29 at $6,720,000 (k) in any other case | (i) 3% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22) (j) $180,000 plus 10% of the amount by which the amount or value of the consideration exceeds $6,000,000 (Added L.N. 90 of 1999 and 44 of 1999 s. 22) (k) 3.75% of the amount or value of the consideration (Added L.N. 90 of 1999 and 44 of 1999 s. 22)
 
 (B) 30 days after the execution; but see Note 2 to this sub-head
 
@@ -32,7 +32,7 @@ Agreement for Lease, See LEASE and section 16 Agreement or Contract for Sale of 
 
 And see sections 2, 4, 22, 23, 24, 25, 26, 27, 28, 29, 39, 43, 44 and 45
 
-Note 1 This sub-head shall apply in relation to the stamp duty chargeable by reference to it by virtue of sub-head (2)(a), in a case where part of the consideration for a lease consists of rent, as if paragraphs (a) to (h) and the words “in any other case” in paragraph (i) were omitted
+Note 1 This sub-head shall apply in relation to the stamp duty chargeable by reference to it by virtue of sub-head (2)(a), in a case where part of the consideration for a lease consists of rent, as if paragraphs (a) to (j) and the words “in any other case” in paragraph (k) were omitted (Amended L.N. 90 of 1999 and 44 of 1999 s. 22)
 
 Note 2 In the case of a vesting order consequential upon an order for sale or partition or a foreclosure order, the time for stamping shall be before the order is signed by the Registrar and the persons liable shall be the persons obtaining the order
 
@@ -48,23 +48,23 @@ Note 6 (Repealed 33 of 1998 s. 11) Exchange, Instruments effecting-see section 2
 
 (a) where the amount or value of the consideration does not exceed $1,000,000 and the instrument is certified in accordance with section 29G at $1,000,000 | (A) (a) $100
 
-(b) where the amount or value of the consideration exceeds $1,000,000 but does not exceed $1,080,010 and the instrument is certified in accordance with section 29G at $1,080,010 | (b) $100 plus 10% of the amount by which the amount or value of the consideration exceeds $1,000,000
+(b) where the amount or value of the consideration exceeds $1,000,000 but does not exceed $1,080,000 and the instrument is certified in accordance with section 29G at $1,080,000 | (b) $100 plus 10% of the amount by which the amount or value of the consideration exceeds $1,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(c) where the amount or value of the consideration exceeds $1,080,010 but does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (c) 75 cents for every $100 or part of $100 of the amount or value of the consideration
+(c) where the amount or value of the consideration exceeds $1,080,000 but does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (c) 0.75% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(d) where the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,176,480 and the instrument is certified in accordance with section 29G at $2,176,480 | (d) $15,000 plus 10% of the amount by which the amount or value of the consideration exceeds $2,000,000
+(d) where the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,176,470 and the instrument is certified in accordance with section 29G at $2,176,470 | (d) $15,000 plus 10% of the amount by which the amount or value of the consideration exceeds $2,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(e) where the amount or value of the consideration exceeds $2,176,480 but does not exceed $3,000,000 and the instrument is certified in accordance with section 29G at $3,000,000 | (e) $1.5 for every $100 or part of $100 of the amount or value of the consideration
+(e) where the amount or value of the consideration exceeds $2,176,470 but does not exceed $3,000,000 and the instrument is certified in accordance with section 29G at $3,000,000 | (e) 1.5% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(f) where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,187,520 and the instrument is certified in accordance with section 29G at $3,187,520 | (f) $45,000 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000
+(f) where the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,290,320 and the instrument is certified in accordance with section 29G at $3,290,320 | (f) $45,000 plus 10% of the amount by which the amount or value of the consideration exceeds $3,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(g) where the amount or value of the consideration exceeds $3,187,520 but does not exceed $4,000,000 and the instrument is certified in accordance with section 29G at $4,000,000 | (g) $2 for every $100 or part of $100 of the amount or value of the consideration
+(g) where the amount or value of the consideration exceeds $3,290,320 but does not exceed $4,000,000 and the instrument is certified in accordance with section 29G at $4,000,000 | (g) 2.25% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(h) where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,413,830 and the instrument is certified in accordance with section 29G at $4,413,830 | (h) $80,000 plus 10% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced 43 of 1997 s. 2)
+(h) where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,428,570 and the instrument is certified in accordance with section 29G at $4,428,570 | (h) $90,000 plus 10% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(i) in any other case | (i) $2.75 for every $100 or part thereof of the amount or value of the consideration
+(i) where the amount or value of the consideration exceeds $4,428,570 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29G at $6,000,000 (j) where the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29G at $6,720,000 | (i) 3% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22) (j) $180,000 plus 10% of the amount by which the amount or value of the consideration exceeds $6,000,000 (Added L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-(B) 30 days after the relevant date (within the meaning of section 29B(3)); but see Note 2 to this sub-head
+(k) in any other case | (k) 3.75% of the amount or value of the consideration (Added L.N. 90 of 1999 and 44 of 1999 s. 22) *(B) 30 days after the relevant date (within the meaning of section 29B(3)); but see section 29C(11) and Notes 2 and 3 to this sub-head (Amended L.N. 90 of 1999 and 44 of 1999 s. 22)
 
 (C) All parties except a party who on the relevant date (within the meaning of section 29B(3)) does not know that the agreement affects him, and all other persons executing (Replaced 36 of 1994 s. 3)
 
@@ -72,9 +72,9 @@ And see section 4 and Part IIIA
 
 Note 1 This sub-head does not apply to an agreement for sale in respect of non-residential property (see section 29A(5))
 
-Note 2 If, within the first 14 days of the time for stamping, an agreement for sale is superseded by another agreement for sale made between the same parties and on the same terms, executed in accordance with section 29B(1), and containing the matters specified in section 29B(5)— (a) the time for stamping the second-mentioned agreement is not later than 30 days after it was executed; and (b) if the second-mentioned agreement is duly stamped or stamped under section 5(1) or 13(2) the obligation to stamp any preceding agreement between the same parties and on the same terms is discharged
+Note 2 If, within the first 14 days of the time for stamping, an agreement for sale is superseded by another agreement for sale made between the same parties and on the same terms, executed in accordance with section 29B(1), and containing the matters specified in section 29B(5)— (aa) for the purposes of Part IIIA and this sub-head, the second-mentioned agreement is deemed to be made on the relevant date (within the meaning of section 29B(3)); (Added L.N. 90 of 1999 and 44 of 1999 s. 22) *(a) notwithstanding paragraph (aa) but subject to section 29C(11), the time for stamping the second-mentioned agreement is not later than 30 days after it was executed; and (Amended L.N. 90 of 1999 and 44 of 1999 s. 22) *(b) if the second-mentioned agreement is duly stamped or stamped under section 5(1) or 13(2), or is endorsed under section 29C(13)(a), the obligation to stamp any preceding agreement between the same parties and on the same terms is discharged (Amended L.N. 90 of 1999 and 44 of 1999 s. 22)
 
-Note 3 Subject to Note 2, if 2 or more agreements for sale are made between the same parties and on the same terms and any of the agreements is duly stamped, or is stamped under section 5(1) or 13(2), the other agreements are each chargeable with stamp duty of $100
+*Note 3 Subject to Note 2, if 2 or more agreements for sale are made between the same parties and on the same terms— (a) for the purposes of Part IIIA and this sub-head, all of the agreements are deemed to be made on the relevant date (within the meaning of section 29B(3)); and (b) where any of the agreements is duly stamped or stamped under section 5(1) or 13(2), or is endorsed under section 29C(13)(a)— (i) the other agreements are each chargeable with stamp duty of $100; and (ii) notwithstanding paragraph (a) and section 29C(11), the time for stamping each of the other agreements is not later than 30 days after it was executed (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
 
 Note 4 Where 2 agreements for sale are made in respect of the same, or part of the same, property and involve a common purchaser (but are not made between the same parties), this sub-head is subject to section 29C(5)
 
@@ -169,3 +169,7 @@ DUPLICATE OR COUNTERPART of any instrument chargeable with any stamp duty | (A) 
 And see section 8 Note If in the case of a lease or agreement for a lease the stamp duty payable in respect thereof is limited in accordance with section 42(2) or 43(2) to 50% of the stamp duty chargeable thereon, the stamp duty chargeable on a duplicate or counterpart thereof shall be limited to 50% of the stamp duty otherwise chargeable under this head
 
 (Amended 29 of 1988 s. 2; 43 of 1991 s. 7; 85 of 1991s. 6; 8 of 1992 s. 6; 36 of 1992 s. 3; 40 of 1992 s. 7; L.N. 50 of 1993; 31 of 1993 s. 2)
+
+_
+
+* The amendments made by L.N. 90 of 1999 and Ord. No. 44 of 1999 to paragraph (B), Note 2(a) and (b) and Note 3 under head 1(1A) of the First Schedule shall only apply to an agreement for sale, or an unwritten sale agreement, as defined in section 29A(1), if the relevant date within the meaning of section 29B(3) is, in so far as such agreement for sale or unwritten sale agreement (as the case may be) is concerned, on or after 1 April 1999.
