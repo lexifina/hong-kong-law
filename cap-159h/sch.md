@@ -10,13 +10,13 @@ I, .,
 
 (full name as it appears on your practising certificate)
 
-hereby declare as follows—
+solemnly and sincerely declare as follows—
 
 - 1. I am engaged in practice (on my own account/in partnership and am providing this return on behalf of my partners*).
 
-- 2. The name of my/our* firm is
+- 2. The name of my/our* firm is | .
 
-- 3. During the period 1 January 19 . to 31 December 19 ., I/we* have not shared with any person not being a solicitor practising in Hong Kong, or a solicitor or other duly qualified legal agent practising in the United Kingdom or in some other part of the Commonwealth, my/our* profit costs in respect of any business, whether by way of paying or agreeing to pay a commission on business introduced by any such person or otherwise, except as set out in Schedule 1.
+- 3. During the period 1 January . to 31 December ., I/we* have not shared with any person not being a solicitor practising in Hong Kong my/our* profit costs in respect of any business, whether by way of paying or agreeing to pay a commission on business introduced by any such person or otherwise, except as set out in Schedule 1/where a waiver of rule 4 of the Rules was granted by the Council on . *
 
 - 4. The number of principals, assistant solicitors and consultants in my/our* firm as at 31 December 19 ., was—
 
@@ -32,9 +32,9 @@ hereby declare as follows—
 
 - 7. The particulars of every employee of my/our* firm (except employees who are solicitors) who is not included in Schedule 3 between 1 January 19 . to 31 December 19 . are set out in Schedule 4.
 
-- 8. My/our* firm engages a service company to provide staff for the firm and the details of this company are set out in Schedule 5. The particulars of the employees provided by this company are included in Schedules 3 and 4. (Delete this paragraph if it does not apply.)
+- 8. My/our* firm engages a service company to provide staff for the firm and the details of this company are set out in Schedule 5. The particulars of the employees provided by this company are included in Schedules 3 and 4.
 
-Declared at Hong Kong this . day of . 19 .
+(Delete this paragraph if it does not apply.) And I make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11). Declared at Hong Kong this . day of . 19 .
 
 _
 
@@ -44,7 +44,7 @@ _
 
 *Delete one of the alternatives.
 
-SCHEDULE 1
+_ SCHEDULE 1
 
 Give details of all commissions paid to unqualified persons.
 
@@ -56,7 +56,7 @@ _ SCHEDULE 2
 
 - List the names of all principals, assistant solicitors or consultants of your firm who are not resident in Hong Kong.
 
-- SCHEDULE 3 PARTICULARS OF NEW EMPLOYEES BETWEEN 1 JAN 19 _ TO 31 DEC 19 ._
+- SCHEDULE 3 PARTICULARS OF NEW EMPLOYEES BETWEEN 1 JAN 19 _ TO 31 DEC 19 _
 
 - Name (English & Chinese, if applicable), as appears on the employee’s Hong Kong identity card | Name (English & Chinese, if applicable), as appears on the employee’s name card (if applicable) | ID card/ passport No. | Chinese Commer-cial Code No. | Date of Birth | Position | Mark “X” if Authorized Clerk @ | Monthly Salary | Bonus/es or other Allow-ances# | Date/s of Bonus/es or other Allow— ances# | Date of Employ-ment*
 
@@ -73,8 +73,6 @@ _ SCHEDULE 2
 - # Include any loans to employees written off during this period.
 
 - * If an employee has already ceased employment with the firm, put also the date of cessation of employment in this column.
-
-- (L.N. 593 of 1995)
 
 - SCHEDULE 4 PARTICULARS OF ALL OTHER EMPLOYEES
 
@@ -94,8 +92,6 @@ _ SCHEDULE 2
 
 - # Include any loans to employees written off during this period.
 
-- (L.N. 593 of 1995)
-
 - SCHEDULE 5
 
 - Name of Service Company: Directors of the Company:
@@ -108,8 +104,6 @@ _ SCHEDULE 2
 
 - Commissioner/Solicitor.
 
-- (47 of 1997 s. 10)
-
 - _
 
 - Note:
@@ -118,4 +112,4 @@ _ SCHEDULE 2
 
   - 2. If your firm does not pay any non-discretionary bonuses, put 12 in the box. Details of any discretionary bonuses, allowances or other payments must be shown in the columns relating to bonuses. If no such payments are made, put “not applicable” in these columns.
 
-  - 3. All bonuses, allowances and other payments made to staff in addition to salary must be included in the columns relating to bonuses. (L.N. 138 of 1993; L.N. 484 of 1993)
+  - 3. All bonuses, allowances and other payments made to staff in addition to salary must be included in the columns relating to bonuses. (L.N. 138 of 1993; L.N. 484 of 1993; L.N. 593 of 1995; 47 of 1997 s. 10; L.N. 389 of 1998)
