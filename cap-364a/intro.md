@@ -1,0 +1,5 @@
+THE HONG KONG ASSOCIATION OF BANKS BY-LAWS
+
+(Cap. 364, section 6)
+
+[13 March 1981]
