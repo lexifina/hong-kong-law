@@ -14,8 +14,6 @@ Bridges Street Market | 必列嗜士街街市 (78 of 1999 s. 7)
 
 Causeway Bay Market | 銅鑼灣街市 (78 of 1999 s. 7)
 
-Central Market | 中環街市 (78 of 1999 s. 7)
-
 Centre Street Market | 正街街市 (78 of 1999 s. 7)
 
 Cha Kwo Ling Market | 茶菓嶺街市 (78 of 1999 s. 7)
@@ -91,8 +89,6 @@ Lei Yue Mun Market | 鯉魚門街市 (L.N. 195 of 2002)
 Lockhart Road Market | 駱克道街市 (78 of 1999 s. 7)
 
 Luen Wo Hui Market | 聯和墟街市 (L.N. 96 of 2002)
-
-Luen Wo Private Market | 聯和市場
 
 Mong Kok Market | 旺角街市 (78 of 1999 s. 7)
 
@@ -216,4 +212,4 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003)
