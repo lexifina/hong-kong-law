@@ -32,4 +32,6 @@ Item | Substance
 
 14. | Piperidine (哌啶) (*)
 
+15. | Potassium permanganate (高錳酸鉀) (*) (Added L.N. 144 of 1999)
+
 (*) Including the salts of these substances whenever the existence of such salts is possible. (Schedule 2 replaced L.N. 53 of 1997)
