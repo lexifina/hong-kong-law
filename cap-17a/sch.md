@@ -206,7 +206,7 @@ Lands Tribunal
 
 Application No. .
 
-FORM 7 | [rules 36, 39, 40, 45, 49, 51, 54, 57, 58, 59, 61, 69, 73, 75, 78]
+FORM 7 | [rules 36, 39, 40, 45, 49, 51, 54, 57, 58, 59, 61, 69, 73, 75, 78, 78I]
 
 NOTICE OF OPPOSITION TO APPLICATION/APPEAL
 
@@ -238,9 +238,11 @@ TENANT (CONSOLIDATION) ORDINANCE *or . ORDINANCE Pursuant to section .
 
   - 2. The Applicant.
 
-- (Please add such other persons as may be required to be served) * Delete whichever is inapplicable and if necessary add title of relevant Ordinance. + State in relation to applications under the Landlord and Tenant (Consolidation) Ordinance (Cap. 7) whether status of party is landlord, principal tenant, tenant or sub-tenant.
+- (Please add such other persons as may be required to be served) * Delete whichever is inapplicable and if necessary add title of relevant Ordinance.
 
-(L.N. 417 of 1995; 25 of 1998 s. 2)
+- + State in relation to applications under the Landlord and Tenant (Consolidation) Ordinance (Cap. 7) whether status of party is landlord, principal tenant, tenant or sub-tenant.
+
+(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 78 of 2002)
 
 -
 
@@ -300,9 +302,7 @@ I/We . of .
 
 - as former owner(s)/occupier(s) of—
 
-  - (a) the resumed land being .
-
-  - . ; (describe the resumed land)
+  - (a) the resumed land being . . ; (describe the resumed land)
 
 - and
 
@@ -662,8 +662,6 @@ as *owner(s)/mortgagee(s) of .
 
 .
 
-.
-
 require the Lands Tribunal to hear an appeal against assessment of incremental value in respect of such property made by the Director of Lands pursuant to section 6(1) of the Ordinance and notified to *me/us on the . day of . 19.
 
 The grounds of appeal are .
@@ -844,9 +842,7 @@ Dated this . day of . 19 .
 
 .
 
-for and on behalf of the Director
-
-of Housing
+for and on behalf of the Director of Housing
 
 To: 1. The Registrar, Lands Tribunal.
 
@@ -1196,9 +1192,9 @@ Pursuant to Tenth Schedule, paragraph .
 
 - 1. | The applicant(s) apply(ies) for an order relating to .
 
-- . (specify the particular issue under the appropriate paragraph
+- . (specify the particular issue under the appropriate paragraph.of the Tenth Schedule
 
-- . of the Tenth Schedule pursuant to which application brought)
+- . pursuant .to which application brought)
 
 - +2. | The question of law, interpretation and enforcement or other issue to be determined is:
 
@@ -1475,3 +1471,69 @@ To: 1. The Registrar, Lands Tribunal.
 4. (Please add such other persons as may be required to be served)
 
 (L.N. 100 of 1999)
+
+FORM 36 | [rule 78H]
+
+Appeal No. . of .
+
+NOTICE OF APPEAL TO LANDS TRIBUNAL UNDER GOVERNMENT
+
+RENT (ASSESSMENT AND COLLECTION) ORDINANCE Pursuant to section 26(1)
+
+*I/We . of .
+
+.
+
+as *owner(s)/lessee(s)/occupier(s)/other(s)/ .
+
+(specify any other capacity)
+
+require the Lands Tribunal to hear an appeal against the decision of *the Director of Lands/the Commissioner of Rating and Valuation that .
+
+.
+
+.
+
+(describe the tenement and summarize the decision affecting it)
+
+The decision was *made known to/served on *me/us by *the Director of Lands/the Commissioner of Rating and Valuation pursuant to section *4(11)/21(1)/25(3) of the Ordinance on the . day of .
+
++The grounds of the appeal and the facts on which they are based are .
+
+.
+
+.
+
+The Tribunal is requested to make an order under section 27 of the Ordinance that .
+
+.
+
+.
+
+(set out the remedy sought)
+
+Dated this . day of .
+
+.
+
+(to be signed by or on behalf of the
+
+Appellant(s))
+
+- Address for service of the Appellant(s):
+
+- To: 1. The Registrar, Lands Tribunal.
+
+  - 2. *Director of Lands/Commissioner of Rating and Valuation.
+
+  - 3. (Please add such other persons as may be required to be served).
+
+- * Delete whichever is inapplicable.
+
+- + Note section 26(2) of the Ordinance—
+
+  - (a) for an appeal under section 4(11) of the Ordinance, the grounds of the appeal are confined to the question of whether the interest held under an applicable lease or the tenement is entitled to an exemption from liability to pay Government rent;
+
+  - (b) for an appeal under section 21(1) or 25(3) of the Ordinance, the grounds of the appeal are confined to those of the proposal or objection, as the case may be.■
+
+(L.N. 78 of 2002)

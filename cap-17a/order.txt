@@ -84,5 +84,9 @@ s-078C.md
 s-078D.md
 s-078E.md
 s-078F.md
+s-078G.md
+s-078H.md
+s-078I.md
+s-078J.md
 s-079.md
 sch.md
