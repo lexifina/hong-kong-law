@@ -1,0 +1,5 @@
+BUILDING (PLANNING) REGULATIONS
+
+(Cap. 123, section 38)
+
+[1 June 1956]
