@@ -1,0 +1,5 @@
+ESTATE AGENTS (EXEMPTION FROM LICENSING) ORDER
+
+(Cap. 511, section 3)
+
+[19 November 1998]
