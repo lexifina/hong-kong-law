@@ -46,7 +46,7 @@ Item Body
 
 - 20. Hong Kong and Kowloon Electrical Engineering and Appliances Trade Workers Union
 
-- 21. Hong Kong and Kowloon Electronics Industry Employees’ General Union
+- 21. (Repealed L.N. 214 of 2001)
 
 - 22. Hong Kong Association of the Deaf
 
@@ -60,7 +60,7 @@ Item Body
 
 - 27. Methodist Centre
 
-- 28. Richmond Fellowship of Hong Kong Limited
+- 28. Richmond Fellowship of Hong Kong (Amended L.N. 214 of 2001)
 
 - 29. Christian Action
 
@@ -72,7 +72,7 @@ Item Body
 
 - 33. (Repealed L.N. 99 of 2001)
 
-- 34. Hong Kong Association of the Blind
+- 34. (Repealed L.N. 214 of 2001)
 
 - 35. The Scout Association of Hong Kong-The Friends of Scouting
 
@@ -84,7 +84,7 @@ Item Body
 
 - 39. Queen Elizabeth Hospital-Hospital Authority
 
-- 40. Hong Kong Rehabilitation Power Limited
+- 40. Hong Kong Rehabilitation Power (Amended L.N. 214 of 2001)
 
 - 41. The Hong Kong Society for the Deaf
 
@@ -128,4 +128,8 @@ Item Body
 
 - 61. The Evangelical Lutheran Church of Hongkong
 
-- 62. The Boys’ and Girls’ Clubs Association of Hong Kong (Added L.N. 260 of 2000) (Schedule 2 replaced L.N. 269 of 1999)
+- 62. The Boys’ and Girls’ Clubs Association of Hong Kong (Added L.N. 260 of 2000)
+
+- 63. Hong Kong Small and Medium Enterprises Association (Added L.N. 214 of 2001)
+
+- 64. Hong Kong Association of Gerontology (Added L.N. 214 of 2001) (Schedule 2 replaced L.N. 269 of 1999)
