@@ -1,6 +1,8 @@
 # SIXTH SCHEDULE
 
-[ss. 6, 7, 8, 11, 16A, 36C, 36J & 48A]
+[ss. 6, 6C, 6D, 6E, 7, 8, 11, 16A, 36C, 36J & 48A]
+
+SPECIFIED AMOUNT OF COMPENSATION
 
 Section | Amount $ | Percentage
 
@@ -12,7 +14,19 @@ Section | Amount $ | Percentage
 
 6(2) | 303000
 
-6(5) | 16000
+6(5) | 35000
+
+6C(8)(a) | 490 | 5
+
+6C(8)(b) | 970 | 10
+
+6D(3)(a) | 490 | 5
+
+6D(3)(b) | 970 | 10
+
+6E(9)(a) | 490 | 5
+
+6E(9)(b) | 970 | 10
 
 7(1)(a) | 21000
 
@@ -36,4 +50,4 @@ Section | Amount $ | Percentage
 
 36J | 100000
 
-(Added 36 of 1996 s. 28. Amended L.N. 285 of 1998)
+( Sixth Schedule replaced 52 of 2000 s. 27)

@@ -4,470 +4,504 @@
 
 FORM 1 | [rule 16]
 
-EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Application by Injured Employee in respect of Compensation Payable to him
+Employees’ Compensation (Rules of Court) Rules Application by Injured Employee in respect of Compensation Payable to him
 
-The . Court of . Case No. .
+The | Court of
 
-In the matter of an Application between-
+Case No.
 
-., applicant,
+In the matter of an Application between—
+
+, applicant,
 
 and
 
-., respondent.
+, respondent.
 
 _
 
-- 1.
+1. | (a) | On the . day of . 19 ., personal injury by accident arising out of and in the course of employment was caused to the applicant, an employee employed by the respondent/*the 1st respondent.
 
-  - (a) On the . day of . 19 ., personal injury by accident arising out of and in the course of employment was caused to the applicant, an employee employed by the respondent/*the 1st respondent.
+(b) | *At all material times the 1st respondent was a sub-contractor within the meaning of the Ordinance to a principal contractor within the meaning of the Ordinance namely the 2nd respondent.
 
-    - (b) *At all material times the 1st respondent was a sub-contractor within the meaning of the Ordinance to a principal contractor within the meaning of the Ordinance namely the 2nd respondent.
+2. | An application under the Ordinance is hereby made by the applicant for compensation under section(s) . of the Ordinance.
 
-- 2. An application under the Ordinance is hereby made by the applicant for compensation under section(s) . of the Ordinance.
+3. | Particulars are as follows—
 
-- 3. Particulars are as follows—
+Particulars
 
-  - PARTICULARS
+(1) | Date of birth or age of the applicant at the date of the accident
 
-    - (1) Date of birth or age of the applicant at the date of the accident
+(2) | Nature of employment of the applicant at the time of the accident
 
-- .
+(3) | Date and place of accident, nature of work on which the applicant was then engaged and nature of accident and cause of injury
 
-  - (2) Nature of employment of the applicant at the time of the accident .
+(4) | Nature of injury
 
-  - (3) Date and place of accident, nature of work on which the applicant was then engaged and nature of accident and cause of injury . .
+(5) | Particulars of incapacity and/or of attention
 
-  - (4) Nature of injury . .
+(6) | Monthly earnings of the applicant from employment with the respondent—
 
-  - (5) Particulars of incapacity and/or of attention . .
+(a) | for the month immediately preceding the accident
 
-  - (6) Monthly earnings of the applicant from employment with the respondent—
+(b) | on average during the 12 months (or any lesser period of employment with the employer) prior to the accident
 
-    - (a) for the month immediately preceding the accident .
+(7) | If temporary incapacity pursuant to section 10 of the Ordinance is alleged, monthly earnings (if any) which the applicant is earning or is capable of earning (if known) during the period of temporary incapacity
 
-    - (b) on average during the 12 months (or any lesser period of employment with the employer) prior to the accident .
+(8) | Amount claimed as compensation
 
-- (7) If temporary incapacity pursuant to section 10 of the Ordinance is alleged, monthly earnings (if any) which the applicant is earning or is capable of earning (if known) during the period of temporary incapacity .
+(9) | Date of giving notice of accident to respondent
 
-.
+(10) | If notice not given, reason for omission to give such notice
 
-- (8) Amount claimed as compensation .
+The name and address of the applicant or his solicitor are—
 
-- (9) Date of giving notice of accident to respondent .
+Of the applicant
 
-- (10)
+Of his solicitor
 
-- If notice not given, reason for omission to give such notice . The name and address of the applicant or his solicitor are— Of the applicant . Of his solicitor . The name and address of the respondent(s) to be served with this application are .
+The name and address of the respondent(s) to be served with this application are
 
-- .
+Dated this day of 19 .
 
-- Dated this day of 19 .
+Applicant/Solicitor for the Applicant
 
-- .
+* Delete as required.
 
-- Applicant/Solicitor for the Applicant
+(L.N. 227 of 1983; L.N. 383 of 1995; 36 of 1996 s. 32)
 
-- * Delete as required.
+_
 
-- (L.N. 227 of 1983; L.N. 383 of 1995; 36 of 1996 s. 32)
+FORM 2 | [rule 16]
 
-- _
+Employees’ Compensation (Rules of Court) Rules Application on behalf of Members of the Family in respect of Compensation Payable where death has resulted from injury to the Employee
 
-- FORM 2 | [rule 16]
+The | Court of
 
-- EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Application on behalf of Dependants of Deceased Employee in respect of
+Case No.
 
-- Compensation Payable where death has resulted from injury to the Employee
+In the matter of an Application between—
 
-- The . Court of .
+, applicant,
 
-- Case No. .
+and
 
-- In the matter of an Application between-
+, respondent.
 
-- ., applicant,
+1. | (a) | On the . day of . 19., personal injury causing death by accident arising out of and in the course of employment was caused to . deceased, an employee employed by the respondent/*1st respondent.
 
-- and
+(b) | *At all material times the 1st respondent was a sub-contractor within the meaning of the Ordinance to a principal contractor within the meaning of the Ordinance namely the 2nd respondent.
 
-- ., respondent.
+2. | An application under the Ordinance is hereby made by
 
-- 1.
+acting on behalf of the members of the family against the respondent(s) for compensation pursuant to the Ordinance.
 
-  - (a) On the . day of . 19., personal injury causing death by accident arising out of and in the course of employment was caused to . deceased, an employee employed by the respondent/*1st respondent.
+3. | Particulars are as follows—
 
-  - (b) *At all material times the 1st respondent was a sub-contractor within the meaning of the Ordinance to a principal contractor within the meaning of the Ordinance namely the 2nd respondent.
+Particulars
 
-- 2. An application under the Ordinance is hereby made by .
+(1) | Date of birth or age of the deceased employee at the date of the accident
 
-- acting on behalf of the dependants of the deceased employee against the respondent(s) for compensation pursuant to the Ordinance.
+(2) | Nature of employment of the deceased at the time of the accident
 
-- 3. Particulars are as follows—
+(3) | Date and place of accident, nature of work on which the deceased was then engaged, and nature of accident and cause of injury
 
-  - PARTICULARS
+(4) | Nature of injury to the deceased and date of death
 
-    - (1) Date of birth or age of the deceased employee at the date of the accident .
+(5) | Monthly earnings of the deceased from employment with the respondent—
 
-- .
+(a) | for the month immediately preceding the accident
 
-- (2) Nature of employment of the deceased at the time of the accident . .
+(b) | on average during the 12 months (or any lesser period of employment with the employer) prior to the accident
 
-- (3) Date and place of accident, nature of work on which the deceased was then engaged, and nature of accident and cause of injury .
+(6) | Particulars as to members of the family by whom or on whose behalf the application is made—
 
-- (4) Nature of injury to the deceased and date of death .
+Name | Address | Description/ Occupation | Relationship to the deceased | Age
 
-- (5) Monthly earnings of the deceased from employment with the respondent—
+(7) | Amount claimed as compensation
 
-  - (a) for the month immediately preceding the accident .
+(8) | Date of giving notice of accident to respondent(s)
 
-  - (b) on average during the 12 months (or any lesser period of employment with the employer) prior to the accident .
+(9) | If notice not given, reason for omission to give such notice
 
-- (6) Particulars as to dependants of the deceased by whom or on whose behalf the application is made—
+The name and address of the applicant or his solicitor are—
 
-- Name | Address | Description Occupation | Relationship to the deceased | Age | Wholly/ Partially/ Dependent
+Of the applicant
 
-- (7) Amount claimed as compensation .
+Of his solicitor
 
-- (8) Date of giving notice of accident to respondent(s) .
+The name and address of the respondent(s) to be served with this application are
 
-- (9)
+Dated this day of 19 .
 
-- If notice not given, reason for omission to give such notice .
+Applicant/Solicitor for the Applicant
 
-- . The name and address of the applicant or his solicitor are— Of the applicant . Of his solicitor . The name and address of the respondent(s) to be served with this application are .
+* Delete as required.
 
-- .
+(L.N. 227 of 1983; L.N. 383 of 1995; 52 of 2000 s. 38)
 
-- Dated this day of 19 .
+_
 
-- .
+FORM 3 | [rule 16]
 
-- Applicant/Solicitor for the Applicant
+Employees’ Compensation (Rules of Court) Rules General Application
 
-- * Delete as required
+The | Court of
 
-- (L.N. 227 of 1983; L.N. 383 of 1995)
+Case No.
 
-- _
+In the matter of an Application between—
 
-- FORM 3 | [rule 16]
+, applicant,
 
-- EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES General Application
+and
 
-- The . Court of .
+, respondent.
 
-- Case No. .
+Application is hereby made by (1)
 
-- In the matter of an Application between-
+. against (2)
 
-- ., applicant,
+The circumstances in which the application is made are shortly as follows: (3)
 
-- and
+The relief or order which the applicant claims is shortly as follows: (4)
 
-- ., respondent. Application is hereby made by (1) .
+The full names and addresses of the applicant and his solicitor are—
 
-- . against (2) .
+Of the applicant
 
-- . The circumstances in which the application is made are shortly as follows: (3) .
+Of his solicitor
 
-- .
+The name and address of the respondent to be served with this application are
 
-- . The relief or order which the applicant claims is shortly as follows: (4) .
+Dated this . day of . 19 .
 
-- .
+Applicant (or his Solicitor)
 
-- .
+Note.—Where the application is made by an employer, and any question of his liability to pay compensation is involved, it must be accompanied by a statement whether he admits his liability to pay compensation or denies such liability, and whether the admission or denial is total or partial, and if he admits or denial is total or partial, and if he admits or denies liability partially, a statement of the extent to which he admits or denies liability. In the case of a denial of liability, the ground shall be stated.
 
-- The full names and addresses of the applicant and his solicitor are—
+(1) | Name and address of applicant.
 
-- Of the applicant .
+(2) | Name and address of respondent.
 
-- .
+(3) | State concisely in numbered paragraphs in chronological order the circumstances in which the application is made.
 
-- .
+(4) | State concisely the relief or order which the applicant claims.
 
-- Of his solicitor .
+(L.N. 227 of 1983; L.N. 383 of 1995)
 
-- .
-
-- .
-
-- The name and address of the respondent to be served with this application are .
-
-- .
-
-- Dated this . day of . 19 .
-
-- .
-
-- Applicant (or his Solicitor)
-
-- Note-Where the application is made by an employer, and any question of his liability to pay compensation is involved, it must be accompanied by a statement whether he admits his liability to pay compensation or denies such liability, and whether the admission or denial is total or partial, and if he admits or denial is total or partial, and if he admits or denies liability partially, a statement of the extent to which he admits or denies liability. In the case of a denial of liability, the ground shall be stated.
-
-- -
-
-- (1) Name and address of applicant.
-
-- (2) Name and address of respondent.
-
-- (3) State concisely in numbered paragraphs in chronological order the circumstances in which the application is made.
-
-- (4) State concisely the relief or order which the applicant claims. (L.N. 227 of 1983)
+_
 
 FORM 4 | [rule 17]
 
-EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Notice to Respondent as to Application
+Employees’ Compensation (Rules of Court) Rules Notice to Respondent as to Application
 
-The . Court of .
+The | Court of
 
-Case No. .
+Case No.
 
-- In the matter of an Application between— ., applicant, and ., respondent. To . of . TAKE NOTICE that, if you intend to oppose the application, of which a copy is served upon you herewith, you must lodge with me, within 21 days after the service of this notice upon you, a written answer thereto containing a concise statement of the extent and grounds of your
+In the matter of an Application between—
 
-- opposition. And further take notice that . the . day of . 19 . at . m., or so soon thereafter as the application can be heard, at the . at . has been fixed as the time and place of the hearing of the application and that in default of your lodging with me within the time aforesaid a written answer as herein required, or of your appearing at the said time and place fixed for the hearing of the application, such order may be made as the Court deems just and expedient. Dated this . day of . 19 . .
+, applicant,
 
-- Registrar of the Court _
+and
 
-- FORM 5 | [rule 17]
+, respondent.
 
-- EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Respondent’s answer to Notice The . Court of . Case No. . In the matter of an Application between— ., applicant, and ., respondent. To the Registrar of the Court, . The respondent intends to oppose the above application. The following is a concise statement of the extent and grounds of his opposition: . . .
+To .
 
-- Respondent (or his Counsel or Solicitor) Date .
+of .
 
-- Place . _
+TAKE NOTICE that, if you intend to oppose the application, of which a copy is served upon you herewith, you must lodge with me, within 21 days after the service of this notice upon you, a written answer thereto containing a concise statement of the extent and grounds of your opposition.
 
-- FORM 6 | [rule 18]
+And further take notice that . the . day of . 19 . at . m., or so soon thereafter as the application can be heard, at the . at . has been fixed as the time and place of the hearing of the application and that in default of your lodging with me within the time aforesaid a written answer as herein required, or of your appearing at the said time and place fixed for the hearing of the application, such order may be made as the Court deems just and expedient.
 
-- EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Request for Particulars The . Court of . Case No. . In the matter of an Application between— ., applicant, and ., respondent. To (1).
+Dated this . day of . 19 .
 
-- . TAKE NOTICE that you are hereby requested to furnish me with answers in writing to the following questions: (2) .
+Registrar of the Court
 
-- . Dated this . day of . 19 . (3) .
+_
 
-- .
+FORM 5 | [rule 17]
 
-- . _
+Employees’ Compensation (Rules of Court) Rules Respondent’s answer to Notice
 
-- (1) Name and address of employee, applicant, or respondent to whom request is made.
+The | Court of
 
-- (2) State shortly and clearly under consecutive numbers the questions to which answers are requested.
+Case No.
 
-- (3) Signature and address of person making the request. _
+In the matter of an Application between—
 
-- FORM 7 | [rule 26]
+, applicant,
 
-- EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Order for Periodical Payments The . Court of . Case No. . In the matter of an Application between— ., applicant, and ., respondent. It is ordered that (1) .
+and
 
-- .
+, respondent.
 
-- do forthwith pay to (2) .
+To the Registrar of the Court,
 
-- at (3) . the taxed or assessed costs of an application heard on the . day of . 19 ., and the sum of $ . being the amount now due from the said (1) .
+.
 
-- to the said (2) .
+The respondent intends to oppose the above application.
 
-- in respect of a monthly payment of . from the
+The following is a concise statement of the extent and grounds of his opposition:
 
-- . day of . 19 . being the date of the injury, to the date of order; and do further pay at the same place on every . day from the date of this order until otherwise ordered, the sum of . Dated this . day of . 19 . .
+Respondent (or his Counsel or Solicitor)
 
-- Registrar of the Court _
+Date
 
-- (1) Employer’s name and address.
+Place
 
-- (2) Employee’s name and address.
+_
 
-- (3)
+FORM 6 | [rule 18]
 
-- Place where payment is to be made.
+Employees’ Compensation (Rules of Court) Rules Request for Particulars
 
-- _
+The | Court of
 
-- FORM 8 | [rule 28]
+Case No.
 
-- EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Application for the Revision of a Periodical Payment
+In the matter of an Application between—
 
-- The . Court of . Case No. .
+, applicant,
 
-- In the matter of an Application between—
+and
 
-- ., applicant,
+, respondent.
 
-- and
+To (1)
 
-- ., respondent. An application is hereby made by . against . with respect to the revision of the order made by the Court on the . day of . 19 ., (or the agreement arrived at between the said parties on the . day of .
+TAKE NOTICE that you are hereby requested to furnish me with answers in writing to the following questions: (2)
 
-- 19 .) and for the termination (or suspension, diminution, or increase, as the case may be) of the monthly payment payable to the said .
+Dated this . day of . 19 .
 
-- . under the said order (or agreement) in respect of personal injury which arose out of and in the course of his employment.
+(3)
 
-- Particulars are hereto appended (or annexed)—
+(1) | Name and address of employee, applicant, or respondent to whom request is made.
 
-  - PARTICULARS
+(2) | State shortly and clearly under consecutive numbers the questions to which answers are requested.
 
-    - (1) Name and address of injured employee . .
+(3) | Signature and address of person making the request.
 
-    - (2) Name and place of business of employer by whom compensation is payable . .
+_
 
-    - (3) Date and nature of accident, and injury .
+FORM 7 | [rule 26]
 
-    - (4) Date of order or agreement fixing monthly payment, amount of such payment, and date from which it commenced . .
+Employees’ Compensation (Rules of Court) Rules Order for Periodical Payments
 
-    - (5) Relief sought by applicant, (whether termination, suspension, diminution, or increase) .
+The | Court of
 
-    - .
+Case No.
 
-    - .
+In the matter of an Application between—
 
-    - (6) Grounds on which (termination, suspension, diminution or increase) is claimed— . . . The names and addresses of the applicant and his Counsel or Solicitor are— Of the applicant: .
+, applicant,
 
-- .
+and
 
-- .
+, respondent.
 
-- Of his Counsel .
+It is ordered that (1)
 
-- .
+do forthwith pay to (2)
 
-- .
+at (3) . the taxed or assessed costs of an application heard on the . day of . 19 ., and the sum of $ . being the amount now due from the said (1) .to the said (2)
 
-- or Solicitor: .
+in respect of a monthly payment of . from the . day of . 19 . being the date of the injury, to the date of order; and do further pay at the same place on every . day from the date of this order until otherwise ordered, the sum of
 
-- .
+Dated this . day of . 19 .
 
-- .
+Registrar of the Court
 
-- The name and address of the respondent to be served with this application are .
+(1) | Employer’s name and address.
 
-- . Dated this . day of . 19 .
+(2) | Employee’s name and address.
 
-- .
+(3) | Place where payment is to be made.
 
-- Applicant (or his Counsel or Solicitor)
+_
 
-- _
+FORM 8 | [rule 28]
 
-- FORM 9 | [rule 28]
+Employees’ Compensation (Rules of Court) Rules Application for the Revision of a Periodical Payment
 
-- EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Order on Revision of Order/Agreement for Periodical Payments
+The | Court of
 
-- The . Court of . Case No. .
+Case No.
 
-  - In the matter of an Application between—
+In the matter of an Application between—
 
-  - ., applicant,
+, applicant,
 
-  - and
+and
 
-  - ., respondent. Before . on . day, the . day of . 19 .
+, respondent.
 
-  - Upon revision of the order for periodical payments made .
+An application is hereby made by . against . with respect to the revision of the order made by the Court on the . day of . 19 ., (or the agreement arrived at between the said parties on the . day of . 19 .) and for the termination (or suspension, diminution, or increase, as the case may be) of the monthly payment payable to the said . under the said order (or agreement) in respect of personal injury which arose out of and in the course of his employment.
 
-  - on the . day of . 19 . (or the agreement arrived at between the said parties on the . day of . 19 .) and upon hearing the evidence given by . and Mr. . for the applicant and Mr. . for the respondent.
+Particulars are hereto appended (or annexed)—
 
-  - It is hereby ordered that the said order/agreement be varied in the following manner:
+Particulars
 
-  - .
+(1) | Name and address of injured employee
 
-  - .
+(2) | Name and place of business of employer by whom compensation is payable
 
-  - .
+(3) | Date and nature of accident, and injury
 
-  - .
+(4) | Date of order or agreement fixing monthly payment, amount of such payment, and date from which it commenced
 
-  - and that the costs of the said .
+(5) | Relief sought by applicant, (whether termination, suspension, diminution, or increase)
 
-  - of and incidental to this application and order be taxed or assessed and paid by the said .
+(6) | Grounds on which (termination, suspension, diminution or increase) is claimed—
 
-  - to the said .
+The names and addresses of the applicant and his Counsel or Solicitor are—
 
-  - Dated this . day of . 19 .
+Of the applicant:
 
-  - .
+Of his Counsel
 
-  - Registrar of the Court
+or Solicitor:
 
-  - _
+The name and address of the respondent to be served with this application are
 
-  - FORM 10 | [rule 22]
+Dated this . day of . 19 .
 
-  - EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Notice by Principal Contractor to Sub-Contractor
+Applicant (or his Counsel or Solicitor)
 
-  - The . Court of .
+_
 
-  - Case No. .
+FORM 9 | [rule 28]
 
-  - In the matter of an Application between—
+Employees’ Compensation (Rules of Court) Rules Order on Revision of Order/Agreement for Periodical Payments
 
-  - ., applicant,
+The | Court of
 
-  - and
+Case No.
 
-  - ., respondent. To (1) .
+In the matter of an Application between—
 
-  - . Notice is hereby given to you that an application/a claim for compensation is made against (2) . by(3) . who alleges that the said (4) . is liable to pay him compensation in respect of an accident which occurred at (5) . on the . day of . 19 . Dated this . day of . 19 .
+, applicant,
 
-  - (6) .
+and
 
-  - .
+, respondent.
 
-  - .
+Before
 
-  - _
+on . day, the . day of . 19 .
 
-    - (1) Name and address of the sub-contractor.
+Upon revision of the order for periodical payments made
 
-    - (2) Name and address of principal contractor.
+on the . day of . 19 . (or the agreement arrived at between the said parties on the . day of . 19 .) and upon hearing the evidence given by . and Mr. . for the applicant and Mr. . for the respondent.
 
-    - (3) Name and address of employee.
+It is hereby ordered that the said order/agreement be varied in the following manner:
 
-    - (4) Name of principal contractor.
+and that the costs of the said
 
-    - (5) Place of accident.
+of and incidental to this application and order be taxed or assessed and paid by the said
 
-    - (6) Signature and address of person giving the notice. _
+to the said
 
-    - FORM 11 | [rule 22]
+Dated this . day of . 19 .
 
-    - EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Notice of Intervention by Sub-Contractor
+Registrar of the Court
 
-  - The . Court of . Case No. . In the matter of an Application between— ., applicant,
+_
 
-  - and
+FORM 10 | [rule 22]
 
-  - ., respondent.
+Employees’ Compensation (Rules of Court) Rules Notice by Principal Contractor to Sub-Contractor
 
-  - To the Registrar of the Court
+The | Court of
 
-  - and to the (applicant) and the (principal contractor). Notice is hereby given by (1) . that he intervenes in this application for compensation made by (2) . against (3) . The address for service of the said (4) . is .
+Case No.
 
-  - .
+In the matter of an Application between—
 
-  - . Dated this . day of . 19 .
+, applicant,
 
-  - (5) .
+and
 
-  - .
+, respondent.
 
-  - .
+To (1)
 
-  - _
+Notice is hereby given to you that an application/a claim for compensation is made against (2) . by (3) . who alleges that the said (4) . is liable to pay him compensation in respect of an accident which occurred at (5) . on the . day of . 19 .
 
-- (1) Name and address of the sub-contractor.
+Dated this . day of . 19 .
 
-- (2) Name of employee.
+(6)
 
-- (3) Name of principal contractor.
+(1) | Name and address of the sub-contractor.
 
-- (4) Name of the sub-contractor.
+(2) | Name and address of principal contractor.
 
-- (5) Signature and address of the person giving the notice. _
+(3) | Name and address of employee.
 
-- FORM 12 | [rule 7]
+(4) | Name of principal contractor.
 
-- EMPLOYEES’ COMPENSATION (RULES OF COURT) RULES Application Record Book The . Court of .
+(5) | Place of accident.
 
-- No. of application | Date application lodged | Nature of application | Names and address of parties and of their respective Counsel of Solicitors | Date application served | Date answer received | Hearing | Remarks
+(6) | Signature and address of person giving the notice.
 
-- Date | Order made
+_
 
-- Applicant | Respondent
+FORM 11 | [rule 22]
+
+Employees’ Compensation (Rules of Court) Rules Notice of Intervention by Sub-Contractor
+
+The | Court of
+
+Case No.
+
+In the matter of an Application between—
+
+, applicant,
+
+and
+
+, respondent.
+
+To the Registrar of the Court
+
+and to the (applicant) and the (principal contractor).
+
+Notice is hereby given by (1)
+
+that he intervenes in this application for compensation made by (2)
+
+against (3)
+
+The address for service of the said (4)
+
+is
+
+Dated this . day of . 19 .
+
+(5)
+
+(1) | Name and address of the sub-contractor.
+
+(2) | Name of employee.
+
+(3) | Name of principal contractor.
+
+(4) | Name of the sub-contractor.
+
+(5) | Signature and address of the person giving the notice.
+
+_
+
+FORM 12 | [rule 7]
+
+Employees’ Compensation (Rules of Court) Rules Application Record Book
+
+The | Court of
+
+No. of application | Date application lodged | Nature of application | Names and address of parties and of their respective Counsel of Solicitors | Date application served | Date answer received | Hearing | Remarks
+
+Date | Order made
+
+Applicant | Respondent
