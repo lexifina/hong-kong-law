@@ -1,0 +1,5 @@
+MASS TRANSIT RAILWAY (TRANSPORT INTERCHANGE) (DESIGNATION OF PROHIBITED AND RESTRICTED ZONES) NOTICE
+
+(Mass Transit Railway (Transport Interchange) Regulation, section 13(4))
+
+[19 June 1998]
