@@ -1,0 +1,5 @@
+PUBLIC SERVICE COMMISSION REGULATIONS
+
+(Cap. 93, section 14)
+
+[29 September 1950]
