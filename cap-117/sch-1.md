@@ -100,7 +100,7 @@ Note 5 For the purposes of Notes 2, 3 and 4, a person and a parent, spouse or ch
 
 (c) Lease executed in pursuance of a duly stamped agreement for lease | (A) $3 (B) 30 days after execution (C) All parties, and all other persons executing
 
-And see sections 2, 16, 17, 27, 39, 42 and 43 Partition, Instruments effecting-see section 25(7) Voluntary Chargeable Agreements for Sale-see section 29F (Added 8 of 1992 s. 6) Voluntary Disposition inter vivos-see section 27
+And see sections 2, 16, 17, 27, 39, 42 and 43 Partition, Instruments effecting-see section 25(7) Voluntary Chargeable Agreements for Sale-see section 29F (Added 8 of 1992 s. 6) Voluntary Disposition inter vivos - see section 27
 
 HEAD 2: HONG KONG STOCK
 
@@ -136,7 +136,7 @@ Note 3 A foreclosure order shall not be duly stamped unless the Collector has st
 
 (C) The transferor and the transferee
 
-And see sections 5, 7, 19 and 30
+And see sections 5, 7, 19, 30 and 47A (Amended 70 of 2000 s. 3)
 
 Note No stamp duty under this sub-head shall be payable on a transfer executed by a recognized clearing house (within the meaning of section 19(16)) or its nominee—
 
@@ -168,7 +168,7 @@ DUPLICATE OR COUNTERPART of any instrument chargeable with any stamp duty | (A) 
 
 And see section 8 Note If in the case of a lease or agreement for a lease the stamp duty payable in respect thereof is limited in accordance with section 42(2) or 43(2) to 50% of the stamp duty chargeable thereon, the stamp duty chargeable on a duplicate or counterpart thereof shall be limited to 50% of the stamp duty otherwise chargeable under this head
 
-(Amended 29 of 1988 s. 2; 43 of 1991 s. 7; 85 of 1991s. 6; 8 of 1992 s. 6; 36 of 1992 s. 3; 40 of 1992 s. 7; L.N. 50 of 1993; 31 of 1993 s. 2)
+(Amended 29 of 1988 s. 2; 43 of 1991 s. 7; 85 of 1991 s. 6; 8 of 1992 s. 6; 36 of 1992 s. 3; 40 of 1992 s. 7; L.N. 50 of 1993; 31 of 1993 s. 2)
 
 _
 
