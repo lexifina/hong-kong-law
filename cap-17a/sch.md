@@ -220,7 +220,7 @@ TENANT (CONSOLIDATION) ORDINANCE *or . ORDINANCE Pursuant to section .
 
 - Address and description of premises:
 
-- Names, ages and relationship to respondent of persons occupying premises (if application under section 53(2)(b) of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7)) or requiring to occupy the premises (if notice of opposition under section 119E(1)(b) of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7)):
+- Names, ages and relationship to respondent of persons occupying premises (if application under section 53(2)(b) of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7)):
 
 - Grounds and particulars:
 
@@ -242,7 +242,7 @@ TENANT (CONSOLIDATION) ORDINANCE *or . ORDINANCE Pursuant to section .
 
 - + State in relation to applications under the Landlord and Tenant (Consolidation) Ordinance (Cap. 7) whether status of party is landlord, principal tenant, tenant or sub-tenant.
 
-(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 78 of 2002)
+(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 78 of 2002; 16 of 2004 s. 16)
 
 -
 
@@ -863,6 +863,130 @@ Address of premises: . User of premises: .* (Residential/Business) Duration of t
 - . + If the applicant is a company/incorporation, please affix the company seal and write down the full name of the signatory. * Delete whichever is inapplicable. Note: If the respondent intends to oppose this application, he must personally attend at the Lands Tribunal Registry within 14 days of the date of service of this notice, and file a notice of opposition (Form 7).
 
 (32 of 2002 s. 40)
+
+_
+
+FORM 22A | [rule 68(1A)]
+
+NOTICE OF APPLICATION UNDER LANDLORD AND TENANT
+
+(CONSOLIDATION) (AMENDMENT) ORDINANCE 2004 Pursuant to section 5(2) LD /
+
+No. .
+
+Applicant’s Name: . *(Landlord/Tenant)
+
+and Address: .
+
+Respondent’s Name: . *(Tenant/Sub-tenant)
+
+and Address: .
+
+Address of premises: .
+
+Duration of tenancy
+
+before service of
+
+Transitional
+
+Termination Notice: | From . To . | Existing rent: $ . /month
+
+Transitional | Date of | Date of Expiry
+
+Termination Notice: | Service: . | of Notice: .
+
+Mode of Service:.
+
+- Nature and particulars of application: The tenancy having been terminated upon the expiry of a transitional termination notice, the applicant applies for recovery of possession of the suit premises and claims against the respondent for the following item(s):
+
+- (1) Arrears of rent/mesne profits from . to the date of delivery of vacant possession of the suit premises and costs.
+
+- (2)
+
+- And others .
+
+- .
+
+- Dated this . day of .
+
+- .+
+
+- (Signature of *Applicant/authorized representative of Applicant)
+
+- Full name of authorized
+
+- representative: .
+
+- To: 1. The Registrar, Lands Tribunal.
+
+  - 2. The Respondent. Applicant’s address for service: .
+
+  - . + If the applicant is a company/incorporation, please affix the company seal and write down the full name of the signatory.
+
+  - * Delete whichever is inapplicable. Note: If you intend to oppose this application, you must personally attend at the Lands Tribunal Registry within 7 days of the date of service of this notice or within the time as ordered by the Tribunal, and file a notice of opposition (Form 7).
+
+(16 of 2004 s. 16)
+
+_
+
+FORM 22B | [rule 68(1B)]
+
+NOTICE OF APPLICATION UNDER LANDLORD AND TENANT
+
+(CONSOLIDATION) (AMENDMENT) ORDINANCE 2004 Pursuant to section 7(1) LD /
+
+No. .
+
+Applicant’s Name: . *(Landlord/Tenant)
+
+and Address: .
+
+Respondent’s Name: . *(Tenant/Sub-tenant)
+
+and Address: .
+
+Address of premises: .
+
+Duration of tenancy: From . To . Existing rent: $ . /month
+
+Transitional Termination | Date of | Date of Expiry
+
+Notice (if any): | Service: . | of Notice: .
+
+Mode of Service: .
+
+- Nature and particulars of application: The applicant applies for possession of the suit premises on the ground that the suit premises are reasonably required by the applicant as a residence for— [Names, ages and relationship to the applicant of person(s) for whom occupation of the suit premises is required]
+
+- . And further claims against the respondent for the following item(s):
+
+- (1) Arrears of rent/mesne profits from . to the date of delivery of vacant possession of the suit premises and costs.
+
+- (2)
+
+- And others .
+
+- .
+
+- Dated this . day of .
+
+- .+
+
+- (Signature of *Applicant/authorized representative of Applicant)
+
+- Full name of authorized
+
+- representative: .
+
+- To: 1. The Registrar, Lands Tribunal.
+
+  - 2. The Respondent. Applicant’s address for service: .
+
+  - . + If the applicant is a company/incorporation, please affix the company seal and write down the full name of the signatory.
+
+  - * Delete whichever is inapplicable. Note: If you intend to oppose this application, you must personally attend at the Lands Tribunal Registry within 7 days of the date of service of this notice or within the time as ordered by the Tribunal, and file a notice of opposition (Form 7).
+
+(16 of 2004 s. 16)
 
 -
 

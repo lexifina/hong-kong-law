@@ -6,7 +6,7 @@ PROVISIONS EXCLUDED FROM APPLICATION OF SECTION 5 OF ORDINANCE
 
 Item | Enactment | Provision
 
-1. | Landlord and Tenant (Consolidation) Ordinance (Cap. 7) | Section 116(4A)
+1. | (Repealed 16 of 2004 s. 16)
 
 2-4. | (Repealed L.N. 36 of 2003)
 
