@@ -32,323 +32,385 @@ Application for renewal of salesperson’s licence | Form 13
 
 Application for renewal of statement of particulars of business | Form 14
 
-Form 1 | [section 4]
+Form 1 | [s. 4]
 
 Estate Agents Authority
 
 Register of Licences
 
-- Part A
+Part A
 
 Type of Licence: Estate Agent’s Licence (Individual)
 
-Licence Number | Name of Licensee | Business Name (if applicable) | Place of Business (if applicable) | Registered Address for Communication | Validity | Suspension | Revocation on
+Licence Number | Name of Licensee | Registered Address for Communication | Validity | Suspension | Revocation on | Date of Cessation of Engagement in Estate Agency Work by Licensee
 
 From | To | From | To
 
-Form 1 | [section 4]
+Form 1 | [s. 4]
 
 Estate Agents Authority
 
 Register of Licences
 
-- Part B
+Part B
 
 Type of Licence: Estate Agent’s Licence (Company)
 
-Licence Number | Name of Licensee | Business Name | Place of Business | Registered Address for Communication | Validity | Suspension | Revocation on
+Licence Number | Name of Licensee | Business Name | Place of Business | Registered Address for Communication | Validity | Suspension | Revocation on | Date of Cessation of Engagement in Estate Agency Work by Licensee
 
 From | To | From | To
 
-Form 1 | [section 4]
+Form 1 | [s. 4]
 
 Estate Agents Authority
 
 Register of Licences
 
-- Part C
+Part C
 
 Type of Licence: Salesperson’s Licence
 
-Licence Number | Name of Licensee | Registered Address for Communication | Validity | Suspension | Revocation on
+Licence Number | Name of Licensee | Registered Address for Communication | Validity | Suspension | Revocation on | Date of Cessation of Engagement in Estate Agency Work by Licensee
 
 From | To | From | To
 
-FORM 2 | [section 4]
+Form 1 | [s. 4]
 
-ESTATE AGENTS AUTHORITY APPLICATION FOR THE GRANT OF ESTATE AGENT’S LICENCE (INDIVIDUAL)
+Estate Agents Authority
 
-You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. (*Delete as inappropriate)
+Register of Licences
 
-A-1 | Particulars of Applicant
+Part D
 
-Surname | Name in Chinese
+Statements of Particulars of Business
 
-Other Name (s) | Alias
+Statement of Particulars of Business Number | Name(s) of Licensed estate agent(s) | Business Name | Place of Business | Validity | Remarks
 
-H.K.I.D. Card/Travel Document* No. | Sex | [ ]Male | [ ]Female
+From | To
 
-Date of Birth (DD/MM/YYYY)
+(L.N. 147 of 2001)
 
-Educational Level | [ ]Below F.5 | [ ]Completed F.5 or equivalent | [ ]Tertiary or above
+__________
 
-Pass in Qualifying Examination | [ ]Yes, proof is enclosed | [ ]Not Applicable
+FORM 2 | ESTATE AGENTS AUTHORITY APPLICATION FOR THE GRANT OF ESTATE AGENT’S LICENCE (INDIVIDUAL)
 
-Experience in Estate Agency Work prior to 1 January 1999 | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
 
-Completion of Training Course specified by the Authority | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Note: | 1) Please ‘✓’ in the appropriate box. 2) * Delete as appropriate.
 
-Professional Surveyor | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Validity Period of Licence applied for | □ 12 months | □ 24 months
 
-Correspondence Address | _ Flat/Room | _ Floor | _ Block
+Particulars of Applicant
 
-_ Name of Building/Estate
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No.
 
-_ Number and Name of Street
+Date of Birth (DD/MM/YYYY) | Sex | Alias
 
-_HK/KLN/NT* District
+□ Male | □ Female
 
-Telephone/Mobile Phone* No. | Fax No. (if any)
+Educational Level | □ Below F. 5 | □ Completed F. 5 or equivalent | □ Tertiary or above
 
-A-2 | Declaration
+Pass in Qualifying Examination | □ Estate Agents Examination | □ Salespersons Examination
 
-Note: Questions 1 to 6 below refer to factors which will be considered in the determination for the grant of licence. They form an integral part of this form and must be answered.
+Have you ever held a licence issued by the Estate Agents Authority? | If the answer is ‘yes’, please state the Licence No.
+
+□ Yes | □ No
+
+Registered Address
+
+Flat/Room | Floor | Block | Name of Building/Estate
+
+HK / KLN / NT*
+
+Number and Name of Street | District
+
+Telephone No. | Mobile Phone No. | Fax No. | Email Address
+
+Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the grant of licence. They form an integral part of this form and must be answered.
 
 Yes | No
 
-1. Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-3. Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | [ ] | [ ]
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
 
-4. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-5. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | [ ] | [ ]
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-6. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-I hereby declare that for each place at which and each business name under which I am to carry on an estate agency business (if any), I have filed as part of this application an application for the grant of statement of particulars of business (Form 8), and that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+Photograph (40 mm X 50 mm) | I hereby declare that for each place at which and each business name under which I am to carry on an estate agency business (if any), I have filed as part of this application an application for the grant of statement of particulars of business (Form 8), and that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-_ Date (DD/MM/YYYY) | _ Signature of Applicant
+Date (DD/MM/YYYY) | Signature of Applicant
 
-FORM 3 | [section 4]
+(L.N. 147 of 2001)
 
-ESTATE AGENTS AUTHORITY APPLICATION FOR THE GRANT OF ESTATE AGENT’S LICENCE (COMPANY)/STATEMENT OF PARTICULARS OF BUSINESS
+__________
 
-Section A | Application for Grant of Estate Agent’s Licence (Company) and Statement of Particulars of Business for Place of Business
+FORM 3 | ESTATE AGENTS AUTHORITY APPLICATION FOR THE GRANT OF ESTATE AGENT’S LICENCE (COMPANY) / STATEMENT OF PARTICULARS OF BUSINESS
 
-You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement of furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Section A of this application form has to be completed by a representative of the applicant company. The representative must be in effective control of the applicant company’s estate agency business and he has to be a licensed estate agent. (*Delete as inappropriate)
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
+
+Note: | 1) Please ‘✓’ in the appropriate box. 2) * Delete as appropriate.
+
+Section A | Section A of this form has to be completed by a representative of the applicant company. The representative must be in effective control of the applicant company’s estate agency business and he has to be a licensed estate agent.
+
+Validity Period of Licence applied for | □ 12 months | □ 24 months
 
 A-1 | Particulars of Applicant Company
 
-Certificate of Incorporation No.
+Name of Applicant Company in English (As registered with Companies Registry)
 
-Business Registration No. | Expiry Date (DD/MM/YYYY)
+Name of Applicant Company in Chinese (As registered with Companies Registry)
 
-Business Name
+Certificate of Incorporation No. | Business Registration No. | Expiry Date (DD/MM/YYYY)
 
-Business Name in Chinese
+Address of Registered Office
 
-Address of registered office | _ Flat/Room | _ Floor | _ Block
+Flat/Room | Floor | Block | Name of Building/Estate
 
-_ Name of Building/Estate
+HK / KLN / NT*
 
-_ Number and Name of Street
+Number and Name of Street | District
 
-_HK/KLN/NT* District
+Telephone No. | Fax No. | Email Address
 
-Address of Place of Business (if different from above) | _ Flat/Room | _ Floor | _ Block
+A-2 | Particulars of Business (if DIFFERENT from above)
 
-_ Name of Building/Estate
+Business Name in English (as shown in Business Registration Certificate)
 
-_ Number and Name of Street
+Business Name in Chinese (as shown in Business Registration Certificate)
 
-_HK/KLN/NT* District
+Place of Business
 
-Telephone/Mobile Phone* No. | Fax No. (if any)
+Flat/Room | Floor | Block | Name of Building/Estate
 
-Number of Additional Places of Business of the Company
+HK / KLN / NT*
 
-Number of Directors in the Company
+Number and Name of Street | District
 
-A-2 | Declaration
+Telephone No. | Fax No. | Email Address
 
-Note: Questions 1 to 3 below refer to factors which will be considered in the determination for the grant of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in questions 1 to 3 means the company applying for the grant of the Estate Agent’s Licence (Company)/Statement of Particulars of Business.
+A-3 | List of Directors | Note: | 1) | As registered with Companies Registry. Please use additional sheet if necessary.
 
-1. Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | Yes [ ] | No [ ]
+2) | Directors without a valid Estate Agent’s Licence (Individual)/(Company) must complete Section B / Section C of this form.
 
-2. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | [ ] | [ ]
+List of Directors (Individual) | Name in English (Surname first) | Name in Chinese | Licence Number | Expiry Date (DD/MM/YYYY)
 
-3. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+List of Directors (Company)
 
-On behalf of the applicant company, I hereby declare that for each place at which and each business name under which the applicant company is to carry on an estate agency business, the applicant company has filed as part of this application an application for the grant of statement of particulars of business (Form 8), and that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+A-4 | Declaration | Note: | The questions below refer to factors which will be considered in the determination for the grant of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in the questions means the company applying for the grant of the Estate Agent’s Licence (Company)/Statement of Particulars of Business.
 
-_ Date (DD/MM/YYYY) | _ Name of Representative (in BLOCK LETTERS) | _ Position (in BLOCK LETTERS) | _ Estate Agent’s Licence (Individual) Number (if applicable) | _ Authorized Signature and Stamp
+Yes | No
 
-Section B | Particulars of Company Director (Directorship held by an Individual) | Form 3 (Page 2)
+1. | Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | □ | □
 
-You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain sufficient number of Section B of Form 3 as necessary for the completion by EACH director who is an individual. (*Delete as inappropriate)
+2. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | □ | □
+
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
+
+On behalf of the applicant company, I hereby declare that for each place at which and each business name under which the applicant company is to carry on an estate agency business, the applicant company has filed as part of this application an application for the grant of statement of particulars of business (Form 8), and that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+
+Name of Representative (in BLOCK LETTERS) | Estate Agent’s (Individual) Licence number
+
+Position (in BLOCK LETTERS) | Date (DD/MM/YYYY) | Authorized Signature and Company Chop
+
+Section B | Particulars of Director (Directorship held by an individual without a valid estate agent’s individual licence) | Form 3 (Page 2)
+
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain or copy sufficient copies of Section B of this form as necessary for completion by EACH director without a valid estate agent’s individual licence.
 
 B-1 | Particulars of Applicant Company
 
-Business Registration No. (same as in page 1 of this form) | Expiry Date (DD/MM/YYYY)
-
-Business Name
+Certificate of Incorporation No. | Name of Applicant Company in English
 
 B-2 | Particulars of Director
 
-Are you engaged in estate agency work? | □ Yes | □ No
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No.
 
-Estate Agent’s Licence No. (if applicable) | Expiry Date (DD/MM/YYYY)
-
-If you do not have an Estate Agent’s Licence, please complete the following of Section B-2 and Section B-3:
-
-Surname | Name in Chinese
-
-Other Name (s) | Alias
-
-H.K.I.D. Card/Travel Document* No. | Sex | [ ] Male | [ ] Female
-
-Date of Birth (DD/MM/YYYY) | Estate Agency Work Experience (if applicable) | _ Years | _Months
-
-B-3 | Declaration
-
-Note: Questions 1 to 6 below refer to factors which will be considered in the determination for the grant of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered.
+B-3 | Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the grant of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered.
 
 Yes | No
 
-1. Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-3. Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | [ ] | [ ]
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
 
-4. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-5. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | [ ] | [ ]
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-6. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-_ Date (DD/MM/YYYY) | _ Name of Director (in BLOCK LETTERS) | _ Signature
+Date (DD/MM/YYYY) | Name of Director (in BLOCK LETTERS) | Signature
 
-Section C | Particulars of Company Director (Directorship held by a Company) | Form 3 (Page 3)
+B-2 | Particulars of Director
 
-You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain sufficient copies of Section C of Form 3 as necessary for the completion by EACH director who is a company. (*Delete as inappropriate)
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No.
+
+B-3 | Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the grant of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered.
+
+Yes | No
+
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
+
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
+
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
+
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
+
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
+
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
+
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+
+Date (DD/MM/YYYY) | Name of Director (in BLOCK LETTERS) | Signature
+
+Section C | Particulars of Director (Directorship held by a company without a valid estate agent’s company licence) | Form 3 (Page 3)
+
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain or copy sufficient copies of Section C of this form as necessary for completion by EACH director who is a company without a valid estate agent’s individual licence.
 
 C-1 | Particulars of Applicant Company
 
-Business Registration No. (same as in page 1 of this form) | Expiry Date (DD/MM/YYYY)
-
-Business Name
+Certificate of Incorporation No. | Name of Applicant Company in English
 
 C-2 | Particulars of Director
 
-Are you engaged in estate agency work? | □ Yes | □ No
+Business Registration No. | Expiry Date (DD/MM/YYYY)
 
-Estate Agent’s Licence No. (if applicable) | Expiry Date (DD/MM/YYYY)
+Business Name in English | Business Name in Chinese
 
-If you do not have an Estate Agent’s Licence, please complete the following of Section C-2 and Section C-3:
+C-3 | Declaration | Note: | Questions 1 to 4 below refer to factors which will be considered in the determination for the grant of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in questions 1 to 4 means the director of the company applying for the grant of the Estate Agent’s Licence (Company)/ Statement of Particulars of Business (directorship is held by a company).
+
+Yes | No
+
+1. | Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | □ | □
+
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
+
+3. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
+
+4. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | □ | □
+
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
+
+I, on behalf of the director company, hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+
+Name of Representative (in BLOCK LETTERS) | Authorized Signature and Company Chop
+
+Position (in BLOCK LETTERS) | Date (DD/MM/YYYY)
+
+C-2 | Particulars of Director
 
 Business Registration No. | Expiry Date (DD/MM/YYYY)
 
-Business Name
+Business Name in English | Business Name in Chinese
 
-Business Name in Chinese
-
-C-3 | Declaration
-
-Note: Questions 1 to 5 below refer to factors which will be considered in the determination for the grant of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in questions 1 to 5 means the director of the company applying for the grant of the Estate Agent’s Licence (Company)/Statement of Particulars of Business (directorship is held by a company).
+C-3 | Declaration | Note: | Questions 1 to 4 below refer to factors which will be considered in the determination for the grant of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in questions 1 to 4 means the director of the company applying for the grant of the Estate Agent’s Licence (Company)/ Statement of Particulars of Business (directorship is held by a company).
 
 Yes | No
 
-1. Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+1. | Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | □ | □
 
-2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-3. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+3. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-4. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | [ ] | [ ]
+4. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | □ | □
 
-5. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-I, on behalf of the director company, hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+I, on behalf of the director company, hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-_ Date (DD/MM/YYYY) | _ Name of Representative (in BLOCK LETTERS) | _ Position (in BLOCK LETTERS) | _ Authorized Signature and Stamp
+Name of Representative (in BLOCK LETTERS) | Authorized Signature and Company Chop
 
-FORM 4 | [section 4]
+Position (in BLOCK LETTERS) | Date (DD/MM/YYYY)
 
-ESTATE AGENTS AUTHORITY APPLICATION FOR THE GRANT OF SALESPERSON’S LICENCE
+(L.N. 147 of 2001)
 
-You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(d) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. (*Delete as inappropriate)
+__________
 
-A-1 | Particulars of Applicant
+FORM 4 | ESTATE AGENTS AUTHORITY APPLICATION FOR THE GRANT OF SALESPERSON’S LICENCE
 
-Surname | Name in Chinese
+Section 55(1)(d) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
 
-Other Name (s) | Alias
+Note: | 1) Please ‘✓’ in the appropriate box. 2) * Delete as appropriate.
 
-H.K.I.D. Card/Travel Document* No. | Sex | [ ]Male | [ ]Female
+Validity Period of Licence applied for | □ 12 months | □ 24 months
 
-Date of Birth (DD/MM/YYYY)
+Particulars of Applicant
 
-Educational Level | [ ]Below F.5 | [ ]Completed F.5 or equivalent | [ ]Tertiary or above
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No.
 
-Pass in Qualifying Examination | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Date of Birth (DD/MM/YYYY) | Sex | Alias
 
-Experience in Estate Agency Work prior to 1 January 1999 | [ ]Yes, proof is enclosed | [ ]Not Applicable
+□ Male | □ Female
 
-Completion of Training Course specified by the Authority | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Educational Level | □ Below F. 5 | □ Completed F. 5 or equivalent | □ Tertiary or above
 
-Professional Surveyor | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Pass in Qualifying Examination | □ Estate Agents Examination | □ Salespersons Examination
 
-Correspondence Address | _ Flat/Room | _ Floor | _ Block
+Have you ever held a licence issued by the Estate Agents Authority? | If the answer is ‘yes’, please state the Licence No.
 
-_ Name of Building/Estate
+□ Yes | □ No
 
-_ Number and Name of Street
+Registered Address
 
-_HK/KLN/NT* District
+Flat/Room | Floor | Block | Name of Building/Estate
 
-Telephone/Mobile Phone* No. | Fax No. (if any)
+HK / KLN / NT*
 
-A-2 | Declaration
+Number and Name of Street | District
 
-Note: Questions 1 to 6 below refer to factors which will be considered in the determination for the grant of licence. They form an integral part of this form and must be answered.
+Telephone No. | Mobile Phone No. | Fax No. | Email Address
+
+Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the grant of licence. They form an integral part of this form and must be answered.
 
 Yes | No
 
-1. Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-3. Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | [ ] | [ ]
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
 
-4. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-5. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | [ ] | [ ]
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-6. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+Photograph (40 mm X 50 mm) | I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-_ Date (DD/MM/YYYY) | _ Signature of Applicant
+Date (DD/MM/YYYY) | Signature of Applicant
 
-FORM 5 | [section 4]
+(L.N. 147 of 2001)
 
-ESTATE AGENTS AUTHORITY ESTATE AGENTS ORDINANCE
+__________
 
-(Chapter 511)
+FORM 5 | [s. 4]
+
+ESTATE AGENTS AUTHORITY
+
+ESTATE AGENTS ORDINANCE (Chapter 511)
 
 ESTATE AGENT’S LICENCE (INDIVIDUAL)
 
-Licence No.: _
+Licence No.:
 
-LICENCE IS GRANTED on _
+LICENCE IS GRANTED on
 
-to _ to carry on estate agency work as an estate agent.
+to
+
+to carry on estate agency work as an estate agent.
 
 This licence shall, unless earlier suspended or revoked, cease to have effect on _.
 
@@ -356,628 +418,754 @@ This licence is subject to the conditions set out herein.
 
 General Conditions
 
-- 1. Every holder of an estate agent’s licence shall:
+1. | Every holder of an estate agent’s licence shall—
 
-  - (a) display and keep displayed, at a conspicuous position at each place at which he carries on business as an estate agent, the relevant statement of particulars of business;
+(a) | display and keep displayed, at a conspicuous position at each place at which he carries on business as an estate agent, the relevant statement of particulars of business;
 
-  - (b) state clearly and conspicuously on any letter, account, receipt, pamphlet, brochure and other document issued by him or on his behalf the following—
+(b) | state clearly and conspicuously on any letter, account, receipt, pamphlet, brochure and other document issued by him or on his behalf the following—
 
-    - (i) the name of the licensee;
+(i) | the number of his licence or the relevant statement of particulars of business;
 
-    - (ii) the number of his licence;
+(ii) | the business name as stated in the relevant statement of particulars of business; and
 
-    - (iii) the business name as stated in the relevant statement of particulars of business; and
+(iii) | the place of business as stated in the relevant statement of particulars of business;
 
-    - (iv) the place of business as stated in the relevant statement of particulars of business;
+(c) | state clearly and conspicuously in all advertisements, pamphlets and brochures excepted, by him or on his behalf, the items in paragraph (b)(i) and (ii);
 
-  - (c) state clearly and conspicuously in all advertisements, pamphlets and brochures excepted, by him or on his behalf, the items in paragraph (b) (i), (ii) and (iii);
+(d) | not carry on estate agency business under a business name or at a place of business other than the one specified in a statement of particulars of business granted to him; and
 
-  - (d) not carry on estate agency business under a business name or at a place of business other than the one specified in a statement of particulars of business granted to him; and
+(e) | apply to the Estate Agents Authority to have his statement of particulars of business amended under section 12 of the Estate Agents (Licensing) Regulation (Cap. 511 sub. leg. A), if any matter stated therein is for any reason incorrect.
 
-  - (e) apply to the Estate Agents Authority to have his statement of particulars of business amended under section 12 of the Estate Agents (Licensing) Regulation (Cap. 511 sub. leg.), if any matter stated therein is for any reason incorrect.
+2. | Every licensee shall, upon request in writing by the Estate Agents Authority, surrender his licence to the Estate Agents Authority for amendment or variation of any existing conditions or for attachment of new conditions.
 
-- 2. Every licensee shall, upon request in writing by the Estate Agents Authority, surrender his licence to the Estate Agents Authority for amendment or variation of any existing conditions or for attachment of new conditions.
+3. | For the purpose of these conditions, where a licensed estate agent carries on at any place estate agency business under different business names, he shall display at that place a statement of particulars of business for each and every business name so used.
 
-- 3. For the purpose of these conditions, where a licensed estate agent carries on at any place estate agency business under different business names, he shall display at that place a statement of particulars of business for each and every business name so used. Other Conditions
+Other Conditions
 
-- 1. [Any other conditions imposed by the Estate Agents Authority under section 17(3) of the Ordinance]
+1. | [Any other conditions imposed by the Estate Agents Authority under section 17(3) of the Ordinance]
 
-- _ EAA Stamp | Signed _ CHIEF EXECUTIVE OFFICER ESTATE AGENTS AUTHORITY
+○ | Signed
 
-- FORM 6 | [section 4]
+EAA Stamp | CHIEF EXECUTIVE OFFICER ESTATE AGENTS AUTHORITY
 
-- ESTATE AGENTS AUTHORITY ESTATE AGENTS ORDINANCE (Chapter 511) ESTATE AGENT’S LICENCE (COMPANY) Licence No.: _ LICENCE IS GRANTED on _ to _ to carry on estate agency work as an estate agent. This licence shall, unless earlier suspended or revoked, cease to have effect on _. This licence is subject to the conditions set out herein. General Conditions
+(L.N. 147 of 2001)
 
-- 1. Every holder of an estate agent’s licence shall:
+__________
 
-  - (a) display and keep displayed, at a conspicuous position at each place at which he carries on business as an estate agent, the relevant statement of particulars of business;
+FORM 6 | [s. 4]
 
-  - (b) state clearly and conspicuously on any letter, account, receipt, pamphlet, brochure and other document issued by him or on his behalf the following—
+ESTATE AGENTS AUTHORITY
 
-    - (i) the name of the licensee;
+ESTATE AGENTS ORDINANCE (Chapter 511)
 
-    - (ii) the number of his licence;
+ESTATE AGENT’S LICENCE (COMPANY)
 
-    - (iii) the business name as stated in the relevant statement of particulars of business; and
+Licence No.:
 
-    - (iv) the place of business as stated in the relevant statement of particulars of business;
+LICENCE IS GRANTED on
 
-  - (c) state clearly and conspicuously in all advertisements, pamphlets and brochures excepted, by him or on his behalf, the items in paragraph (b) (i), (ii) and (iii);
+to
 
-  - (d) not carry on estate agency business under a business name or at a place of business other than the one specified in a statement of particulars of business granted to him; and
+to carry on estate agency work as an estate agent.
 
-  - (e) apply to the Estate Agents Authority to have his statement of particulars of business amended under section 12 of the Estate Agents (Licensing) Regulation (Cap. 511 sub. leg.), if any matter stated therein is for any reason incorrect.
+This licence shall, unless earlier suspended or revoked, cease to have effect on _.
 
-- 2. Every licensee shall, upon request in writing by the Estate Agents Authority, surrender his licence to the Estate Agents Authority for amendment or variation of any existing conditions or for attachment of new conditions.
+This licence is subject to the conditions set out herein.
 
-- 3. For the purpose of these conditions, where a licensed estate agent carries on at any place estate agency business under different business names, he shall display at that place a statement of particulars of business for each and every business name so used. Other Conditions
+General Conditions
 
-- 1. [Any other conditions imposed by the Estate Agents Authority under section 17(3) of the Ordinance]
+1. | Every holder of an estate agent’s licence shall—
 
-- _ EAA Stamp | Signed _ CHIEF EXECUTIVE OFFICER ESTATE AGENTS AUTHORITY
+(a) | display and keep displayed, at a conspicuous position at each place at which he carries on business as an estate agent, the relevant statement of particulars of business;
 
-- FORM 7 | [section 4]
+(b) | state clearly and conspicuously on any letter, account, receipt, pamphlet, brochure and other document issued by him or on his behalf the following—
 
-- ESTATE AGENTS AUTHORITY ESTATE AGENTS ORDINANCE (Chapter 511) SALESPERSON’S LICENCE Licence No.: _ LICENCE IS GRANTED on _ to _ to carry on estate agency work as a salesperson. This licence shall, unless earlier suspended or revoked, cease to have effect on _. This licence is subject to the conditions set out herein. General Conditions
+(i) | the number of his licence or the relevant statement of particulars of business;
 
-- 1. Every licensee shall, upon request in writing by the Authority, surrender his licence to the Authority for amendment or variation of any existing conditions or for attachment of new conditions. Other Conditions
+(ii) | the business name as stated in the relevant statement of particulars of business; and
 
-- 1. [Any other conditions imposed by the Estate Agents Authority under section 17(3) of the Ordinance]
+(iii) | the place of business as stated in the relevant statement of particulars of business;
 
-- _ EAA Stamp | Signed _ CHIEF EXECUTIVE OFFICER ESTATE AGENTS AUTHORITY
+(c) | state clearly and conspicuously in all advertisements, pamphlets and brochures excepted, by him or on his behalf, the items in paragraph (b)(i) and (ii);
 
-- FORM 8 | [section 4]
+(d) | not carry on estate agency business under a business name or at a place of business other than the one specified in a statement of particulars of business granted to him; and
 
-- ESTATE AGENTS AUTHORITY APPLICATION FOR GRANT OF STATEMENT OF PARTICULARS OF BUSINESS
+(e) | apply to the Estate Agents Authority to have his statement of particulars of business amended under section 12 of the Estate Agents (Licensing) Regulation (Cap. 511 sub. leg. A), if any matter stated therein is for any reason incorrect.
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the issue or renewal of a licence. This form has to be completed and signed by the licensee. For a company that applies for the grant of a Statement of Particulars of Business, this form has to be completed by a representative of the company. The representative must be in effective control of the company’s estate agency business and he has to be a licensed estate agent. For a sole proprietorship that applies for the grant of a Statement of Particulars of Business, this form has to be completed by the sole proprietor and he must be a licensed estate agent. For a partnership that applies for the grant of a Statement of Particulars of Business, this form has to be completed by a partner and he has to be a licensed estate agent. In addition, each partner of the partnership has to complete and submit a Section B of this form. This application forms part of the application for the grant of estate agent’s licence or the latest application for renewal thereof, as the case may be. (*Delete as inappropriate)
+2. | Every licensee shall, upon request in writing by the Estate Agents Authority, surrender his licence to the Estate Agents Authority for amendment or variation of any existing conditions or for attachment of new conditions.
 
-- Section A | Particulars of Business
+3. | For the purpose of these conditions, where a licensed estate agent carries on at any place estate agency business under different business names, he shall display at that place a statement of particulars of business for each and every business name so used.
 
-- Nature of Business (please 3in the appropriate box)
+Other Conditions
 
-- Company | Sole Proprietorship | Partnership
+1. | [Any other conditions imposed by the Estate Agents Authority under section 17(3) of the Ordinance]
 
-- Information on the Licensee (if the application is made by a partnership, please provide the Estate Agent’s Licence number of the partner who completes this form)
+○ | Signed
 
-- Estate Agent’s Licence No. | Expiry Date (DD/MM/YYYY)
+EAA Stamp | CHIEF EXECUTIVE OFFICER ESTATE AGENTS AUTHORITY
 
-- H.K.I.D. Card/Travel Document* No.
+(L.N. 147 of 2001)
 
-- Number of Partners (including the partner completing this form) in the Partnership (applicable for partnership only)
+__________
 
-- Nature of the place of business (please 3in the appropriate box)
+FORM 7 | [s. 4]
 
-- Principal Office | Branch Office
+ESTATE AGENTS AUTHORITY
 
-- Information on the place of business
+ESTATE AGENTS ORDINANCE (Chapter 511)
 
-- Business Name
+SALESPERSON’S LICENCE
 
-- Business Registration No. | Expiry Date (DD/MM/YYYY)
+Licence No.:
 
-- Address of the Place of Business | _ Flat/Room | _ Floor | _ Block
+LICENCE IS GRANTED on
 
-- _ Name of Building/Estate
+to
 
-- _ Number and Name of Street
+to carry on estate agency work as a salesperson.
 
-- _HK/KLN/NT* District
+This licence shall, unless earlier suspended or revoked, cease to have effect on _.
 
-- Telephone/Mobile Phone* No. | Fax No. (if any)
+This licence is subject to the conditions set out herein.
 
-- On behalf of my company#, I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit. (#Delete the entire phrase in italics if licensee is an individual)
+General Conditions
 
-- _ Date (DD/MM/YYYY) | _ Name of Representative / Sole Proprietor / Partner* | _ Estate Agent’s Licence (Individual) number of Representative / Sole Proprietor / Partner* | _ Authorized Signature and Stamp
+1. | Every licensee shall, upon request in writing by the Authority, surrender his licence to the Authority for amendment or variation of any existing conditions or for attachment of new conditions.
 
-- Section B | Particulars of Partners | Form 8 (Page 2)
+Other Conditions
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain sufficient number of Section B of Form 8 for the completion by EACH of the partners. (*Delete as inappropriate)
+1. [Any other conditions imposed by the Estate Agents Authority under section 17(3) of the Ordinance]
 
-- B-1 | Particulars of Partnership
+○ | Signed
 
-- Business Registration No. | Expiry Date (DD/MM/YYYY)
+EAA Stamp | CHIEF EXECUTIVE OFFICER ESTATE AGENTS AUTHORITY
 
-- Business Name of the Partnership
+__________
 
-- B-2 | Particulars of Partner
+FORM 8 | ESTATE AGENTS AUTHORITY APPLICATION FOR THE GRANT OF STATEMENT OF PARTICULARS OF BUSINESS
 
-- Are you engaged in estate agency work? | □ Yes | □ No
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
 
-- Estate Agent’s Licence No. (if applicable) | Expiry Date (DD/MM/YYYY)
+Note: | 1) | This application forms part of the application for the grant of estate agent’s licence or the latest application for renewal thereof, as the case may be.
 
-- If you do not have an Estate Agent’s Licence, please complete the following of Section B-2 and Section B-3:
+2) | For a company that applies for the grant of a Statement of Particulars of Business, this form has to be completed by a representative of the company. The representative must be in effective control of the company’s estate agency business and he has to be a licensed estate agent.
 
-- Surname | Name in Chinese
+3) | For a sole proprietorship that applies for the grant of a Statement of Particulars of Business, this form has to be completed by the sole proprietor and he must be a licensed estate agent.
 
-- Other Name (s) | Alias
+4) | For a partnership that applies for the grant of a Statement of Particulars of Business, this form has to be completed by a partner and he has to be a licensed estate agent. In addition, each partner of the partnership has to complete and submit a Section B of this form.
 
-- H.K.I.D. Card/Travel Document* No. | Sex | [ ] Male | [ ] Female
+5) | Please ‘✓’ in the appropriate box.
 
-- Date of Birth (DD/MM/YYYY) | Estate Agency Work Experience (if applicable) | _ Years | _Months
+6) | * Delete as appropriate.
 
-- B-3 | Declaration
+Validity Period of Licence applied for | □ 12 months | □ 24 months
 
-- Note: Questions 1 to 6 below refer to factors which will be considered in the determination for the grant of Statement of Particulars of Business. They form an integral part of this form and must be answered.
+Section A | Particulars of Business
 
-- Yes | No
+Nature of Business | □ Sole Proprietorship | □ Partnership | □ Company Branch
 
-- 1. Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+Statement of Particulars of Business No. (if applicable)
 
-- 2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+Expiry Date (DD/MM/YYYY)
 
-- 3. Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | [ ] | [ ]
+Applicant’s Individual / Company Licence No.
 
-- 4. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+Expiry Date (DD/MM/YYYY)
 
-- 5. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | [ ] | [ ]
+H.K.I.D. Card / Travel Document / Certificate of Incorporation* No.
 
-- 6. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+Number of Partners in the Partnership
 
-- I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+Nature of the Place of Business | □ Principal Office | □ Branch Office
 
-- _ Date (DD/MM/YYYY) | _ Name of Partner (in BLOCK LETTERS) | _ Signature
+Business Name in English (as shown in Business Registration Certificate)
 
-- FORM 9 | [section 4]
+Business Name in Chinese (as shown in Business Registration Certificate)
 
-- ESTATE AGENTS AUTHORITY ESTATE AGENTS ORDINANCE (Chapter 511) STATEMENT OF PARTICULARS OF BUSINESS
+Business Registration No. | Expiry Date (DD/MM/YYYY)
 
-- Information on licensee(s)
+Address of Place of Business
 
-- Name of licensee(s) | Number of the Estate Agent’s Licence(s) | Expiry Date(s)
+Flat/Room | Floor | Block | Name of Building/Estate
 
-- Statement of Particulars of Business Number:
+HK / KLN / NT*
 
-- Business Name Place of business
+Number and Name of Street | District
 
-- This Statement of Particulars of Business is valid from _ to _ The licensee(s) above is/are subject to the conditions set out herein. General Conditions
+Telephone No. | Fax No. | Email Address
 
-- 1. Every holder of an estate agent’s licence shall:
+On behalf of my sole proprietorship, partnership or company (as the case may be), I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-  - (a) display and keep displayed, at a conspicuous position at each place at which he carries on business as an estate agent, the relevant statement of particulars of business;
+Date (DD/MM/YYYY) | Name of Representative / Sole Proprietor / Partner* (in BLOCK LETTERS) | Estate Agent’s Licence (Individual) No. of Representative / Sole Proprietor / Partner* | Authorized Signature and Company Chop
 
-  - (b) state clearly and conspicuously on any letter, account, receipt, pamphlet, brochure and other document issued by him or on his behalf the following—
+Section B | Particulars of Partners | Form 8 (Page 2)
 
-    - (i) the name of the licensee;
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Partnerships with more than 2 partners are requested to obtain or copy sufficient copies of Section B of this form for completion by EACH of the partners.
 
-    - (ii) the number of his licence;
+B-1 | Particulars of Partnership
 
-    - (iii) the business name as stated in the relevant statement of particulars of business; and
+Business Registration No. | Expiry Date (DD/MM/YYYY)
 
-    - (iv) the place of business as stated in the relevant statement of particulars of business;
+Business Name of Partnership
 
-  - (c) state clearly and conspicuously in all advertisements, pamphlets and brochures excepted, by him or on his behalf, the items in paragraph (b) (i), (ii) and (iii);
+B-2 | Particulars of Partner
 
-  - (d) not carry on estate agency business under a business name or at a place of business other than the one specified in a statement of particulars of business granted to him; and
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document *No. | Estate Agent’s Licence No. (if applicable)
 
-  - (e) apply to the Estate Agents Authority to have his statement of particulars of business amended under section 12 of the Estate Agents (Licensing) Regulation (Cap. 511 sub. leg.), if any matter stated therein is for any reason incorrect.
+B-3 | Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the grant of Statement of Particulars of Business. They form an integral part of this form and must be answered.
 
-- 2. Every licensee shall, upon request in writing by the Estate Agents Authority, surrender his licence to the Estate Agents Authority for amendment or variation of any existing conditions or for attachment of new conditions.
+Yes | No
 
-- 3. For the purpose of these conditions, where a licensed estate agent carries on at any place estate agency business under different business names, he shall display at that place a statement of particulars of business for each and every business name so used. Other Conditions
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-- 1. [Any other conditions imposed by the Estate Agents Authority under section 17(3) of the Ordinance]
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-- _ EAA Stamp | Signed _ CHIEF EXECUTIVE OFFICER ESTATE AGENTS AUTHORITY
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap.136)? | □ | □
 
-- FORM 10 | [section 4]
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-- ESTATE AGENTS AUTHORITY APPLICATION FOR REPLACEMENT OF LICENCE/STATEMENT OF PARTICULARS OF BUSINESS
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) and (d) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. This form has to be completed and signed by the licensee. For a company licensee, this form has to be completed by a representative of the company. The representative must be in effective control of the company’s estate agency business and he has to be a licensed estate agent. (*Delete as inappropriate) Application for a replacement of the following licence/Statement of Particulars of Business*
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-- No. of the Licence/ Statement of Particulars of Business* | Expiry Date (DD/MM/YYYY)
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- Please indicate the reason for applying for a replacement of licence/Statement of Particulars of Business (please 3in the appropriate box below):
+Date (DD/MM/YYYY) | Name of Partner (in BLOCK LETTERS) | Signature
 
-- the original licence/Statement of Particulars of Business* is lost
+B-2 | Particulars of Partner
 
-- the original licence/Statement of Particulars of Business* is stolen
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document *No. | Estate Agent’s Licence No. (if applicable)
 
-- the original licence/Statement of Particulars of Business* is destroyed
+B-3 | Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the grant of Statement of Particulars of Business. They form an integral part of this form and must be answered.
 
-- the original licence/Statement of Particulars of Business* is damaged (the damaged licence/Statement of Particulars of Business has to be submitted with this application)
+Yes | No
 
-- Information on the licensee
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-- Name of the Licensee (surname first for individual)
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-- Business Name (if applicable and if different from above)
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap.136)? | □ | □
 
-- On behalf of my company#, I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-- (#Delete the entire phrase in italics if licensee is an individual)
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-- _ Date (DD/MM/YYYY) | _ Name of Representative (for company licensee only) (in BLOCK LETTERS) | _ Estate Agent’s Licence (Individual) number of Representative (for company licensee only) | _ Authorized Signature and Stamp (Stamp is required if the licensee is a company, a sole proprietor or a partner)
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-- FORM 11 | [section 4]
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- ESTATE AGENTS AUTHORITY
+Date (DD/MM/YYYY) | Name of Partner (in BLOCK LETTERS) | Signature
 
-- APPLICATION FOR RENEWAL OF ESTATE AGENT’S LICENCE (INDIVIDUAL)
+(L.N. 147 of 2001)
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
+__________
 
-- (*Delete as inappropriate)
+FORM 9 | [s. 4]
 
-- A-1 | Particulars of Applicant
+ESTATE AGENTS AUTHORITY
 
-- Estate Agent’s Licence (Individual) No. | Expiry Date (DD/MM/YYYY)
+ESTATE AGENTS ORDINANCE (Chapter 511)
 
-- Educational Level | [ ]Below F.5 | [ ]Completed F.5 or equivalent | [ ]Tertiary or above
+STATEMENT OF PARTICULARS OF BUSINESS
 
-- Pass in Qualifying Examination | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Information on licensee(s)
 
-- [ ]Proof has already been provided in the first application / previous application for renewal
+Name of licensee(s) | Number of the Estate Agent’s Licence(s) | Expiry Date(s)
 
-- Experience in Estate Agency Work prior to 1 January 1999 | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Statement of Particulars of Business Number
 
-- [ ]Proof has already been provided in the first application / previous application for renewal
+Business Name
 
-- Completion of Training Course specified by the Authority | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Place of business
 
-- [ ]Proof has already been provided in the first application / previous application for renewal
+This Statement of Particulars of Business is valid from _to_. The licensee(s) above is/are subject to the conditions set out herein.
 
-- Professional Surveyor | [ ]Yes, proof is enclosed | [ ]Not Applicable
+General Conditions
 
-- [ ]Proof has already been provided in the first application / previous application for renewal
+1. | Every holder of an estate agent’s licence shall—
 
-- For the following particulars in Section A-1, you only need to provide the information that is different from what you have provided in your last application.
+(a) | display and keep displayed, at a conspicuous position at each place at which he carries on business as an estate agent, the relevant statement of particulars of business;
 
-- Correspondence Address | _ Flat/Room | _ Floor | _ Block
+(b) | state clearly and conspicuously on any letter, account, receipt, pamphlet, brochure and other document issued by him or on his behalf the following—
 
-- _ Name of Building/Estate
+(i) | the number of his licence or the relevant statement of particulars of business;
 
-- _ Number and Name of Street
+(ii) | the business name as stated in the relevant statement of particulars of business; and
 
-- _HK/KLN/NT* District
+(iii) | the place of business as stated in the relevant statement of particulars of business;
 
-- Telephone/Mobile Phone* No. | Fax No. (if any)
+(c) | state clearly and conspicuously in all advertisements, pamphlets and brochures excepted, by him or on his behalf, the items in paragraph (b)(i) and (ii);
 
-- A-2 | Declaration
+(d) | not carry on estate agency business under a business name or at a place of business other than the one specified in a statement of particulars of business granted to him; and
 
-- Note: Questions 1 to 6 below refer to factors which will be considered in the determination for the renewal of licence.
+(e) | apply to the Estate Agents Authority to have his statement of particulars of business amended under section 12 of the Estate Agents (Licensing) Regulation (Cap. 511 sub. leg. A), if any matter stated therein is for any reason incorrect.
 
-- They form an integral part of this form and must be answered.
+2. | Every licensee shall, upon request in writing by the Estate Agents Authority, surrender his licence to the Estate Agents Authority for amendment or variation of any existing conditions or for attachment of new conditions.
 
-- Yes | No
+3. | For the purpose of these conditions, where a licensed estate agent carries on at any place estate agency business under different business names, he shall display at that place a statement of particulars of business for each and every business name so used.
 
-- 1. Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+Other Conditions
 
-- 2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+1. | [Any other conditions imposed by the Estate Agents Authority under section 17(3) of the Ordinance]
 
-- 3. Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | [ ] | [ ]
+○ | Signed
 
-- 4. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+EAA Stamp | CHIEF EXECUTIVE OFFICER ESTATE AGENTS AUTHORITY
 
-- 5. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | [ ] | [ ]
+(L.N. 147 of 2001)
 
-- 6. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+__________
 
-- I hereby declare that for each place at which and each business name under which I am to carry on an estate agency business (if any), I have filed as part of this application an application for the grant or renewal of a statement of particulars of business (Form 8 or 14), and that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+Form 10 | ESTATE AGENTS AUTHORITY APPLICATION FOR REPLACEMENT OF LICENCE/STATEMENT OF PARTICULARS OF BUSINESS
 
-- _ Date (DD/MM/YYYY) | _ Signature of Applicant
+Sections 55(1)(c) and (d) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
 
-- FORM 12 | [section 4]
+Note: | 1) | This form has to be completed and signed by the licensee.
 
-- ESTATE AGENTS AUTHORITY
+2) | For a company licensee, this form has to be complete by a representative of the company. The representative must be in effective control of the company’s estate agency business and he has to be a licensed estate agent.
 
-- APPLICATION FOR RENEWAL OF
+3) | Please ‘✓’ in the appropriate box.
 
-- ESTATE AGENT’S LICENCE (COMPANY)/STATEMENT OF PARTICULARS OF BUSINESS
+4) | * Delete as appropriate.
 
-- Section A | Application for Renewal of Estate Agent’s Licence (Company) and Statement of Particulars of Business for Place of Business
+Application for a replacement of the following licence/Statement of Particulars of Business*
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Section A of this application form has to be completed by a representative of the applicant company. The representative must be in effective control of the applicant company’s estate agency business and he has to be a licensed estate agent.
+No. of the Licence/ Statement of Particulars of Business* | Expiry Date (DD/MM/YYYY)
 
-- (*Delete as inappropriate)
+Please indicate the reason for applying for a replacement of licence/Statement of Particulars of Business
 
-- A-1 | Particulars of Applicant Company
+□ | the original licence/Statement of Particulars of Business * is lost
 
-- Estate Agent’s (Company) Licence No. | Expiry Date (DD/MM/YYYY)
+□ | the original licence/Statement of Particulars of Business * is stolen
 
-- Statement of Particulars of Business No. (place of business) | Expiry Date (DD/MM/YYYY)
+□ | the original licence/Statement of Particulars of Business * is destroyed
 
-- Certificate of Incorporation No.
+□ | the original licence/Statement of Particulars of Business * is damaged (the damaged licence/Statement of Particulars of Business has to be submitted with this application)
 
-- Business Registration No. | Expiry Date (DD/MM/YYYY)
+Information on the licensee
 
-- Business Name
+Name of the Licensee (surname first for individual)
 
-- For the following particulars in Section A-1, you only need to provide the information that is different from what you have provided in your last application.
+Business Name (if applicable and if different from above)
 
-- Company’s Registered Address | _ Flat/Room | _ Floor | _ Block
+I / I, on behalf of my company, sole proprietorship or partnership (as the case may be)* hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- _ Name of Building/Estate
+Date (DD/MM/YYYY) | Name of Representative (for company licensee only) (in BLOCK LETTERS)
 
-- _ Number and Name of Street
+Estate Agent’s Licence (Individual) number of Representative (for company licensee only) | Signature of licensee (Authorized signature and company chop are required if the licensee is a company, a sole proprietor or a partner)
 
-- _HK/KLN/NT* District
+(L.N. 147 of 2001)
 
-- Address of Place of Business (if different from above) | _ Flat/Room | _ Floor | _ Block
+__________
 
-- _ Name of Building/Estate
+FORM 11 | ESTATE AGENTS AUTHORITY APPLICATION FOR RENEWAL OF ESTATE AGENT’S LICENCE (INDIVIDUAL)
 
-- _ Number and Name of Street
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
 
-- _HK/KLN/NT* District
+Note: | 1) Please ‘✓’ in the appropriate box. 2) * Delete as appropriate.
 
-- Telephone/Mobile Phone* No. | Fax No. (if any)
+Estate Agent’s Licence No. | Expiry Date (DD/MM/YYYY)
 
-- Number of Additional Places of Business of the Company
+Validity Period of Licence applied for | □ 12 months | □ 24 months
 
-- Number of Directors in the Company
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No.
 
-- A-2 | Declaration
+Particulars of Applicant | Note: | Applicants should provide the information below only where the information is DIFFERENT from application last filed.
 
-- Note: Question 1 to 3 below refer to factors which will be considered in the determination for the renewal of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in questions 1 to 3 means the company applying for the renewal of Estate Agent’s Licence (Company)/Statement of Particulars of Business.
+Educational Level | □ Completed F. 5 or equivalent | □ Tertiary or above | Alias
 
-- Yes | No
+Pass in Qualifying Examination | □ Estate Agents Examination | □ Salespersons Examination
 
-- 1. Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+Registered Address
 
-- 2. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | [ ] | [ ]
+Flat/Room | Floor | Block | Name of Building/Estate
 
-- 3. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+HK / KLN / NT*
 
-- On behalf of the applicant company, I hereby declare that for each place at which and each business name under which the applicant company is to carry on an estate agency business, the applicant company has filed as part of this application an application for the grant or renewal of a statement of particulars of business (Form 8 or 14), and that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+Number and Name of Street | District
 
-- _ Date (DD/MM/YYYY) | _ Name of Representative (in BLOCK LETTERS) | _ Position (in BLOCK LETTERS) | _ Estate Agent’s Licence (Individual) Number (if applicable) | _ Authorized Signature and Stamp
+Telephone No. | Mobile Phone No. | Fax No. | Email Address
 
-- Section B | Particulars of Company Director (Directorship held by an Individual) | Form 12 (Page 2)
+Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the renewal of licence. They form an integral part of this form and must be answered.
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain sufficient number of Section B of Form 12 as necessary for the completion by EACH director who is an individual. (*Delete as inappropriate)
+Yes | No
 
-- B-1 | Particulars of Applicant Company
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-- Estate Agent’s (Company) Licence No. | Expiry Date (DD/MM/YYYY)
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-- Business Name
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
 
-- B-2 | Particulars of Director
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-- Are you engaged in estate agency work? | □ Yes | □ No
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-- Estate Agent’s Licence No. (if applicable) | Expiry Date (DD/MM/YYYY)
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-- If you do not have an Estate Agent’s Licence, please complete the following of Section B-2 and Section B-3:
+I hereby declare that for each place at which and each business name under which I am to carry on an estate agency business (if any), I have filed as part of this application an application for the grant or renewal of statement of particulars of business (Form 8 or 14), and that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- Surname | Name in Chinese
+Date (DD/MM/YYYY) | Signature of Applicant
 
-- Other Name (s) | Alias
+(L.N. 147 of 2001)
 
-- H.K.I.D. Card/Travel Document* No. | Sex | [ ] Male | [ ] Female
+__________
 
-- Date of Birth (DD/MM/YYYY) | Estate Agency Work Experience (if applicable) | _ Years | _Months
+FORM 12 | ESTATE AGENTS AUTHORITY APPLICATION FOR RENEWAL OF ESTATE AGENT’S LICENCE (COMPANY) / STATEMENT OF PARTICULARS OF BUSINESS
 
-- B-3 | Declaration
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
 
-- Note: Questions 1 to 6 below refer to factors which will be considered in the determination for the renewal of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered.
+Note: | 1) Please ‘✓’ in the appropriate box. 2) * Delete as appropriate.
 
-- Yes | No
+Section A | Section A of this form has to be completed by a representative of the applicant company. The representative must be in effective control of the applicant company’s estate agency business and he has to be a licensed estate agent.
 
-- 1. Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+Validity Period of Licence applied for | □ 12 months | □ 24 months
 
-- 2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+A-1 | Particulars of Applicant Company
 
-- 3. Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | [ ] | [ ]
+Name of Applicant Company in English (As registered with Companies Registry) | Licence No.
 
-- 4. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+Name of Applicant Company in Chinese (As registered with Companies Registry) | Expiry Date (DD/MM/YYYY)
 
-- 5. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | [ ] | [ ]
+Certificate of Incorporation No. | Business Registration No. | Expiry Date (DD/MM/YYYY)
 
-- 6. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+For the following particulars in sections A-1 and A-2, applicants only need to provide the information that is DIFFERENT from application last filed.
 
-- I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+Address of Registered Office
 
-- _ Date (DD/MM/YYYY) | _ Name of Director (in BLOCK LETTERS) | _ Signature
+Flat/Room | Floor | Block | Name of Building/Estate
 
-- Section C | Particulars of Company Director (Directorship held by a Company) | Form 12 (Page 3)
+HK / KLN / NT*
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain sufficient copies of Section C of Form 12 as necessary for the completion by EACH of the director who is a company. (*Delete as inappropriate)
+Number and Name of Street | District
 
-- C-1 | Particulars of Applicant Company
+Telephone No. | Fax No. | Email Address
 
-- Estate Agent’s (Company) Licence No. | Expiry Date (DD/MM/YYYY)
+A-2 | Particulars of Business (if DIFFERENT from above)
 
-- Business Name
+Business Name in English (as shown in Business Registration Certificate)
 
-- C-2 | Particulars of Director
+Business Name in Chinese (as shown in Business Registration Certificate)
 
-- Are you engaged in estate agency work? | □ Yes | □ No
+Place of Business
 
-- Estate Agent’s Licence No. (if applicable) | Expiry Date (DD/MM/YYYY)
+Flat/Room | Floor | Block | Name of Building/Estate
 
-- If you do not have an Estate Agent’s Licence, please complete the following of Section C-2 and Section C-3:
+HK / KLN / NT*
 
-- Business Registration No. | Expiry Date (DD/MM/YYYY)
+Number and Name of Street | District
 
-- Business Name
+Telephone No. | Fax No. | Email Address
 
-- Business Name in Chinese
+A-3 | List of Directors | Note: | 1) | As registered with Companies Registry. Please use additional sheet if necessary.
 
-- C-3 | Declaration
+2) | Directors without a valid Estate Agent’s Licence (Individual) / (Company) must complete Section B / Section C of this form.
 
-- Note: Questions 1 to 5 below refer to factors which will be considered in the determination for the renewal of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in questions 1 to 5 means the director of the company applying for the renewal of the Estate Agent’s Licence (Company)/Statement of Particulars of Business (directorship is held by a company).
+List of Directors (Individual) | Name in English (Surname first) | Name in Chinese | Licence Number | Expiry Date (DD/MM/YYYY)
 
-- Yes | No
+List of Directors (Company)
 
-- 1. Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+A-4 | Declaration | Note: | The questions below refer to factors which will be considered in the determination for the renewal of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in the questions means the company applying for the renewal of the Estate Agent’s Licence (Company)/Statement of Particulars of Business.
 
-- 2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+Yes | No
 
-- 3. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+1. | Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | □ | □
 
-- 4. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | [ ] | [ ]
+2. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | □ | □
 
-- 5. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-- I, on behalf of the director company, hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+On behalf of the applicant company, I hereby declare that for each place at which and each business name under which the applicant company is to carry on an estate agency business, the applicant company has filed as part of this application an application for the grant or renewal of statement of particulars of business (Form 8 or 14), and that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- _ Date (DD/MM/YYYY) | _ Name of Representative (in BLOCK LETTERS) | _ Position (in BLOCK LETTERS) | _ Authorized Signature and Stamp
+Name of Representative (in BLOCK LETTERS) | Estate Agent’s (Individual) Licence number
 
-- FORM 13 | [section 4]
+Position (in BLOCK LETTERS) | Date (DD/MM/YYYY) | Authorized Signature and Company Chop
 
-- ESTATE AGENTS AUTHORITY
+Section B | Particulars of Director (Directorship held by an individual without a valid estate agent’s individual licence) | Form 12 (Page 2)
 
-- APPLICATION FOR RENEWAL OF SALESPERSON’S LICENCE
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain or copy sufficient copies of Section B of this form as necessary for completion by EACH director without a valid estate agent’s individual licence.
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(d) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
+B-1 | Particulars of Applicant Company
 
-- (*Delete as inappropriate)
+Certificate of Incorporation No. | Name of Applicant Company in English
 
-- A-1 | Particulars of Applicant
+B-2 | Particulars of Director
 
-- Salesperson’s Licence No. | Expiry Date (DD/MM/YYYY)
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No.
 
-- Educational Level | [ ]Below F.5 | [ ]Completed F.5 or equivalent | [ ]Tertiary or above
+B-3 | Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the renewal of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered.
 
-- Pass in Qualifying Examination | [ ]Yes, proof is enclosed | [ ]Not Applicable
+Yes | No
 
-- [ ]Proof has already been provided in the first application / previous application for renewal
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-- Experience in Estate Agency Work prior to 1 January 1999 | [ ]Yes, proof is enclosed | [ ]Not Applicable
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-- [ ]Proof has already been provided in the first application / previous application for renewal
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
 
-- Completion of Training Course specified by the Authority | [ ]Yes, proof is enclosed | [ ]Not Applicable
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-- [ ]Proof has already been provided in the first application / previous application for renewal
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-- Professional Surveyor | [ ]Yes, proof is enclosed | [ ]Not Applicable
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-- [ ]Proof has already been provided in the first application / previous application for renewal
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- For the following particulars in Section A-1, you only need to provide the information that is different from what you have provided in your last application
+Date (DD/MM/YYYY) | Name of Director (in BLOCK LETTERS) | Signature
 
-- Correspondence Address | _ Flat/Room | _ Floor | _ Block
+B-2 | Particulars of Director
 
-- _ Name of Building/Estate
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No.
 
-- _ Number and Name of Street
+B-3 | Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the renewal of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered.
 
-- _HK/KLN/NT* District
+Yes | No
 
-- Telephone/Mobile Phone* No. | Fax No. (if any)
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-- A-2 | Declaration
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-- Note: Questions 1 to 6 below refer to factors which will be considered in the determination for the renewal of licence. They form an integral part of this form and must be answered.
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
 
-- Yes | No
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-- 1. Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-- 2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-- 3. Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | [ ] | [ ]
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- 4. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+Date (DD/MM/YYYY) | Name of Director (in BLOCK LETTERS) | Signature
 
-- 5. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | [ ] | [ ]
+Section C | Particulars of Director (Directorship held by a company without a valid estate agent’s company licence) | Form 12 (Page 3)
 
-- 6. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain or copy sufficient copies of Section C of this form as necessary for completion by EACH director who is a company without a valid estate agent’s company licence.
 
-- I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+C-1 | Particulars of Applicant Company
 
-- _ Date (DD/MM/YYYY) | _ Signature of Applicant
+Certificate of Incorporation No. | Name of Applicant Company in English
 
-- FORM 14 | [section 4]
+C-2 | Particulars of Director
 
-- ESTATE AGENTS AUTHORITY APPLICATION FOR RENEWAL OF STATEMENT OF PARTICULARS OF BUSINESS
+Business Registration No. | Expiry Date (DD/MM/YYYY)
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form.
+Business Name in English | Business Name in Chinese
 
-- Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
+C-3 | Declaration | Note: | Questions 1 to 4 below refer to factors which will be considered in the determination for the renewal of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in questions 1 to 4 means the director of the company applying for the renewal of the Estate Agent’s Licence (Company)/ Statement of Particulars of Business (directorship is held by a company).
 
-- This form has to be completed and signed by the licensee.
+Yes | No
 
-- For a company that applies for renewal of a Statement of Particulars of Business, this form has to be completed by a representative of the company. The representative must be in effective control of the company’s estate agency business and he has to be a licensed estate agent. For a sole proprietorship that applies for renewal of a Statement of Particulars of Business, this form has to be completed by the sole proprietor and he must be a licensed estate agent. For a partnership that applies for renewal of a Statement of Particulars of Business, this form has to be completed by a partner and he has to be a licensed estate agent. In addition, each partner of the partnership has to complete and submit a Section B of this form.
+1. | Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | □ | □
 
-- This application forms part of the applicant’s application for the grant of estate agent’s licence or the latest application for renewal thereof, as the case may be.
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-- (*Delete as inappropriate)
+3. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-- Section A | Particulars of Business
+4. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | □ | □
 
-- Nature of Business (please 3in the appropriate box)
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-- Company | Sole Proprietorship | Partnership
+I, on behalf of the director company, hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- Information on the Licensee (if the application is made by a partnership, please provide the Estate Agent’s Licence number of the partner completes this form)
+Name of Representative (in BLOCK LETTERS) | Authorized Signature and Company Chop
 
-- Estate Agent’s Licence No. | Expiry Date (DD/MM/YYYY)
+Position (in BLOCK LETTERS) | Date (DD/MM/YYYY)
 
-- Number of Partners (including the partner completing this form) in the Partnership (applicable for partnership only)
+C-2 | Particulars of Director
 
-- Information on the place of business
+Business Registration No. | Expiry Date (DD/MM/YYYY)
 
-- Business Name
+Business Name in English | Business Name in Chinese
 
-- Statement of Particulars of Business Number | Expiry Date (DD/MM/YYYY)
+C-3 | Declaration | Note: | Questions 1 to 4 below refer to factors which will be considered in the determination for the renewal of licence/Statement of Particulars of Business. They form an integral part of this form and must be answered. “You” in questions 1 to 4 means the director of the company applying for the renewal of the Estate Agent’s Licence (Company)/ Statement of Particulars of Business (directorship is held by a company).
 
-- Business Registration No. | Expiry Date (DD/MM/YYYY)
+Yes | No
 
-- For the following particulars, you only need to provide the information that is different from what you have provided in your last application.
+1. | Are you in liquidation or the subject of a winding-up order, or is there a receiver appointed in relation to you, or have you, within the 5 years immediately prior to the date of this application, entered into a composition or scheme of arrangement with your creditors? | □ | □
 
-- Address of the Place of Business | _ Flat/Room | _ Floor | _ Block
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-- _ Name of Building/Estate
+3. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-- _ Number and Name of Street
+4. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511)? | □ | □
 
-- _HK/KLN/NT* District
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
 
-- Telephone/Mobile Phone* No. | Fax No. (if any)
+I, on behalf of the director company, hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
 
-- On behalf of my company#, I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit. (#Delete the entire phrase in italics if licensee is an individual)
+Name of Representative (in BLOCK LETTERS) | Authorized Signature and Company Chop
 
-- _ Date (DD/MM/YYYY) | _ Name of Representative / Sole Proprietor / Partner* | _ Estate Agent’s Licence (Individual) number of Representative / Sole Proprietor / Partner* | _ Authorized Signature and Stamp
+Position (in BLOCK LETTERS) | Date (DD/MM/YYYY)
 
-- Section B | Particulars of Partners | Form 14 (Page 2)
+(L.N. 147 of 2001)
 
-- You are advised to read the Licensing Handbook for Estate Agents and Salespersons (“Licensing Handbook”) before completing this application form. Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Please obtain sufficient number of Section B of Form 14 for the completion by EACH of the partners. (*Delete as inappropriate)
+__________
 
-- B-1 | Particulars of Partnership
+FORM 13 | ESTATE AGENTS AUTHORITY APPLICATION FOR RENEWAL OF SALESPERSON’S LICENCE
 
-- Business Registration No. | Expiry Date (DD/MM/YYYY)
+Section 55(1)(d) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
 
-- Business Name of the Partnership
+Note: | 1) Please ‘✓’ in the appropriate box. 2) * Delete as appropriate.
 
-- B-2 | Particulars of Partner
+Salesperson’s Licence No. | Expiry Date (DD/MM/YYYY)
 
-- Are you engaged in estate agency work? | □ Yes | □ No
+Validity Period of Licence applied for | □ 12 months | □ 24 months
 
-- Estate Agent’s Licence No. (if applicable) | Expiry Date (DD/MM/YYYY)
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No.
 
-- If you do not have an Estate Agent’s Licence, please complete the following of Section B-2 and Section B-3:
+Particulars of Applicant | Note: | Applicants should provide the information below only where the information is DIFFERENT from application last filed.
 
-- Surname | Name in Chinese
+Educational Level | □ Completed F. 5 or equivalent | □ Tertiary or above | Alias
 
-- Other Name (s) | Alias
+Pass in Qualifying Examination | □ Estate Agents Examination | □ Salespersons Examination
 
-- H.K.I.D. Card/Travel Document* No. | Sex | [ ] Male | [ ] Female
+Registered Address
 
-- Date of Birth (DD/MM/YYYY) | Estate Agency Work Experience (if applicable) | _ Years | _Months
+Flat/Room | Floor | Block | Name of Building/Estate
 
-- B-3 | Declaration
+HK / KLN / NT*
 
-- Note: Questions 1 to 6 below refer to factors which will be considered in the determination for the renewal of Statement of Particulars of Business. They form an integral part of this form and must be answered.
+Number and Name of Street | District
 
-- Yes | No
+Telephone No. | Mobile Phone No. | Fax No. | Email Address
 
-- 1. Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | [ ] | [ ]
+Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the renewal of licence. They form an integral part of this form and must be answered.
 
-- 2. Are you a director or officer of a company which is for the time being disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | [ ] | [ ]
+Yes | No
 
-- 3. Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | [ ] | [ ]
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
 
-- 4. Have you ever been convicted, whether in Hong Kong or elsewhere, of any fraud, corruption or other dishonest acts? | [ ] | [ ]
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
 
-- 5. Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | [ ] | [ ]
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
 
-- 6. If you have answered ‘Yes’ to any of the above questions, please give details (Use additional sheet if necessary): _
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
 
-- I hereby declare that all the foregoing information in this application is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
 
-- _ Date (DD/MM/YYYY) | _ Name of Partner (in BLOCK LETTERS) | _ Signature
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
+
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+
+Date (DD/MM/YYYY) | Signature of Applicant
+
+(L.N. 147 of 2001)
+
+__________
+
+FORM 14 | ESTATE AGENTS AUTHORITY APPLICATION FOR RENEWAL OF STATEMENT OF PARTICULARS OF BUSINESS
+
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence.
+
+Note: | 1) | This application forms part of the application for the grant of estate agent’s licence or the latest application for renewal thereof, as the case may be.
+
+2) | For a company that applies for the renewal of a Statement of Particulars of Business, this form has to be completed by a representative of the company. The representative must be in effective control of the company’s estate agency business and he has to be a licensed estate agent.
+
+3) | For a sole proprietorship that applies for the renewal of a Statement of Particulars of Business, this form has to be completed by the sole proprietor and he must be a licensed estate agent.
+
+4) | For a partnership that applies for the renewal of a Statement of Particulars of Business, this form has to be completed by a partner and he has to be a licensed estate agent. In addition, each partner of the partnership has to complete and submit a Section B of this form.
+
+5) | Please ‘✓’ in the appropriate box.
+
+6) | * Delete as appropriate.
+
+Validity Period of Licence applied for | □ 12 months | □ 24 months
+
+Section A | Particulars of Business
+
+Nature of Business | □ Sole Proprietorship | □ Partnership | □ Company Branch
+
+Statement of Particulars of Business No.
+
+Expiry Date (DD/MM/YYYY)
+
+Applicant’s Individual / Company Licence No.
+
+Expiry Date (DD/MM/YYYY)
+
+H.K.I.D. Card / Travel Document / Certificate of Incorporation* No.
+
+Number of Partners in the Partnership
+
+Nature of the Place of Business | □ Principal Office | □ Branch Office
+
+Business Name in English (as shown in Business Registration Certificate)
+
+Business Name in Chinese (as shown in Business Registration Certificate)
+
+Business Registration No. | Expiry Date (DD/MM/YYYY)
+
+For the following particulars, applicants only need to provide the information that is DIFFERENT from application last filed.
+
+Address of Place of Business
+
+Flat/Room | Floor | Block | Name of Building/Estate
+
+HK / KLN / NT*
+
+Number and Name of Street | District
+
+Telephone No. | Fax No. | Email Address
+
+On behalf of my sole proprietorship, partnership or company (as the case may be), I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+
+Date (DD/MM/YYYY) | Name of Representative / Sole Proprietor / Partner* (in BLOCK LETTERS) | Estate Agent’s Licence (Individual) No. of Representative / Sole Proprietor / Partner* | Authorized Signature and Company Chop
+
+Section B | Particulars of Partners | Form 14 (Page 2)
+
+Section 55(1)(c) of the Estate Agents Ordinance (Cap. 511) makes it an offence punishable by a fine at level 6 and/or imprisonment for 1 year on conviction upon indictment or by a fine at level 5 and/or imprisonment for 6 months on summary conviction if a person makes any false or misleading statement or furnishes any false or misleading information in connection with an application for the grant or renewal of a licence. Partnerships with more than two partners are requested to obtain or copy sufficient copies of Section B of this form for completion by EACH of the partners.
+
+B-1 | Particulars of Partnership
+
+Business Registration No. | Expiry Date (DD/MM/YYYY)
+
+Business Name of Partnership
+
+B-2 | Particulars of Partner
+
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No. | Estate Agent’s Licence No. (if applicable)
+
+B-3 | Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the renewal of Statement of Particulars of Business. They form an integral part of this form and must be answered.
+
+Yes | No
+
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
+
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
+
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap.136)? | □ | □
+
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
+
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
+
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
+
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+
+Date (DD/MM/YYYY) | Name of Partner (in BLOCK LETTERS) | Signature
+
+B-2 | Particulars of Partner
+
+Name in English (Surname first) | Name in Chinese | H.K.I.D. Card/Travel Document* No. | Estate Agent’s Licence No. (if applicable)
+
+B-3 | Declaration | Note: | Questions 1 to 5 below refer to factors which will be considered in the determination for the renewal of Statement of Particulars of Business. They form an integral part of this form and must be answered.
+
+Yes | No
+
+1. | Are you an undischarged bankrupt or have you within the 5 years immediately prior to the date of this application made a composition or scheme of arrangement with your creditors? | □ | □
+
+2. | Are you a director or officer of a company which is now disqualified under the Estate Agents Ordinance (Cap. 511) for holding a licence, or were you a director or officer of that company at the date when the company was so disqualified? | □ | □
+
+3. | Are you a mentally disordered person or a patient within the meaning of section 2 of the Mental Health Ordinance (Cap. 136)? | □ | □
+
+4. | Have you ever been convicted, whether in Hong Kong or elsewhere, on the basis of any fraudulent, corrupt or dishonest acts? | □ | □
+
+5. | Have you ever been convicted under the Estate Agents Ordinance (Cap. 511) in respect of which you have been sentenced to imprisonment, whether the sentence is suspended or not? | □ | □
+
+If you have answered ‘Yes’ to any of the above questions, please give details using additional sheets.
+
+I hereby declare that all the foregoing information is FULL, COMPLETE AND TRUE to the best of my knowledge and belief and I authorize the Estate Agents Authority to verify the foregoing information in any manner as it deems fit.
+
+Date (DD/MM/YYYY) | Name of Partner (in BLOCK LETTERS) | Signature
+
+(L.N. 147 of 2001)
