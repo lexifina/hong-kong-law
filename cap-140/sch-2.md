@@ -4,8 +4,6 @@
 
 PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
 
-(Adaptation amendments retroactively made - see 2 of 2012 s. 3)
-
 - 1. Direct transit passengers, that is to say passengers arriving at the airport by aircraft from a place outside Hong Kong who—
 
   - (a) do not, otherwise than for reasons which are, to the satisfaction of the Director, beyond the passengers’ control, pass through arrival immigration controls; and
@@ -54,7 +52,7 @@ PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
 
 - 8. Passengers who—
 
-  - (a) are consuls or consular staff within the meaning of regulation 2 of the Registration of Persons Regulations (Cap. 177 sub. leg.) (other than consuls or consular staff who are Chinese citizens or permanent residents of the Hong Kong Special Administrative Region), and members of their families forming part of their households; or (Amended L.N. 207 of 1985; 28 of 1998 s. 2)
+  - (a) are consuls or consular staff within the meaning of regulation 2 of the Registration of Persons Regulations (Cap. 177 sub. leg. A) (other than consuls or consular staff who are Chinese citizens or permanent residents of the Hong Kong Special Administrative Region), and members of their families forming part of their households; or (Amended L.N. 207 of 1985; 28 of 1998 s. 2)
 
   - (b) are employed exclusively in the private service of consuls or consular staff of a consular post in Hong Kong, who are nationals of the country represented by the consular post and who have been brought to Hong Kong solely for the purposes of such service; or
 
@@ -67,3 +65,11 @@ PASSENGERS EXEMPTED FROM LIABILITY TO PAY THE TAX
 - 10. Passengers who are persons to whom the Privileges and Immunities (Joint Liaison Group) Ordinance (Cap. 36) applies upon production by such persons of evidence of their status in a form satisfactory to the Director. (Added 18 of 1985 s. 5. Amended 44 of 1985 s. 7; 81 of 1999 s. 3)
 
 - 11. Passengers under 12 years of age. (Added L.N. 193 of 1991)
+
+- 12. Passengers who—
+
+  - (a) arrive at the Hong Kong International Airport from any place in China (other than Hong Kong) on board a ship that is approved by the Airport Authority of Hong Kong to berth at the Airport;
+
+  - (b) subsequently depart from Hong Kong by aircraft; and
+
+  - (c) before such departure remain at all times within the Restricted Area specified pursuant to section 37 of the Airport Authority Ordinance (Cap. 483). (Added L.N. 208 of 2003)
