@@ -34,6 +34,7 @@ s-032.md
 s-033.md
 s-034.md
 s-035.md
+s-035A.md
 s-036.md
 s-037.md
 s-038.md
@@ -117,6 +118,7 @@ s-115.md
 s-116.md
 s-117.md
 s-118.md
+s-118A.md
 s-119.md
 s-120.md
 s-120A.md
@@ -281,8 +283,10 @@ s-278.md
 s-279.md
 s-280.md
 s-281.md
+s-282.md
 sch-1.md
 sch-2.md
 sch-3.md
 sch-4.md
 sch-5.md
+sch-6.md
