@@ -128,4 +128,6 @@
 
 - 63. The second floor, 9 Wo Mun Street, Fanling. (L.N. 243 of 2002)
 
-- 64. Units 1-4, LG1, Fu Yan House, Fu Shan Estate, Po Kong Village Road, Kowloon. (L.N. 244 of 2002) (Schedule replaced 78 of 1999 s. 7)
+- 64. Units 1-4, LG1, Fu Yan House, Fu Shan Estate, Po Kong Village Road, Kowloon. (L.N. 244 of 2002)
+
+- 65. Shop No. 211, second floor, Yat Tung Shopping Centre, Yat Tung (I) Estate, Tung Chung. (L.N. 47 of 2004) (Schedule replaced 78 of 1999 s. 7)
