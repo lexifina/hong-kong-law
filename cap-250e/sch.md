@@ -6,7 +6,7 @@ Futures Contract | Trading Limit | Position Limit
 
 1. HSBC Holdings Plc stock futures contract | 1300 open contracts for any one contract month | 200 open contracts for any one contract month.
 
-2. Hong Kong Telecommunications Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
+2. (Repealed L.N. 8 of 2001)
 
 3. CITIC Pacific Ltd. stock futures contract | 500 open contracts for any one contract month | 200 open contracts for any one contract month.
 
@@ -52,7 +52,7 @@ Futures Contract | Trading Limit | Position Limit
 
 24. Hongkong Electric Holdings Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
 
-25. China Telecom (Hong Kong) Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
+25. China Mobile (Hong Kong) Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
 
 26. HKFE Taiwan Index futures contract | Nil | 500 open contracts for any one contract month.
 
@@ -64,7 +64,7 @@ Futures Contract | Trading Limit | Position Limit
 
 30. One-Month Hong Kong Interbank Offered Rate futures contract | Nil | 5000 open contracts for any one contract month and 20000 open contracts for all contract months.
 
-31. Hang Seng Index futures and options contracts | 10000 long or short position delta limit for all contract months combined | 250 open futures contracts for any one contract month and 250 open options contracts for any one series.
+31. Hang Seng Index futures and options contracts, and Mini-Hang Seng Index futures contracts | 10000 long or short position delta limit for all contract months combined, provided the position delta for the Mini-Hang Seng Index futures contracts shall not at any time exceed 2000 long or short for all contract months combined | 250 open Hang Seng Index futures contracts for any one contract month, 250 open Hang Seng Index options contracts for any one series, and 1250 open Mini-Hang Seng Index futures contracts for any one contract month.
 
 32. Hang Seng Finance Sub-Index futures contracts | 300 open contracts for any one contract month | 50 open contracts for any one contract month.
 
@@ -80,4 +80,6 @@ Futures Contract | Trading Limit | Position Limit
 
 38. Hang Seng China Enterprises Index options contracts | 6000 open contracts for any one series | 250 open contracts for any one series.
 
-(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999)
+39. Pacific Century CyberWorks Ltd. stock futures contract | 1100 open contracts for any one contract month | 200 open contracts for any one contract month.
+
+(L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997; L.N. 426 of 1997; L.N. 331 of 1998; L.N. 206 of 1999; L.N. 8 of 2001)
