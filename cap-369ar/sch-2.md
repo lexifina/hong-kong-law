@@ -34,14 +34,16 @@ s. 7(1)(c) | Reg. 7.1.3 | Survival craft radar transponder for use in search and
 
 s. 8(3)(a) | Reg. 8.3.1 | Float-free VHF emergency position-indicating radio beacons— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 805(19) (b) Res. A. 612(15)
 
-ss. 8 to 10 | Regs. 8 to 10 | INMARSAT Standard-C ship earth station capable of transmitting and receiving direct-printing communications— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 807(19) (b) Res. A. 663(16)
+ss. 8 to 10 | Regs. 8 to 10 | Inmarsat Standard-C ship earth station capable of transmitting and receiving direct-printing communications— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 807(19) (b) Res. A. 663(16)
 
 s. 7(1)(e) | Reg. 7.1.5 | Enhanced group call equipment. | Res. A.664 (16)
 
-s. 7(1)(f) | Reg. 7.1.6 | Float-free satellite emergency position-indicating radio beacons operating through the geostationary INMARSAT satellite system on 1.6 GHz— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 812(19) (b) Res. A. 661(16)
+s. 7(1)(f) | Reg. 7.1.6 | Float-free satellite emergency position-indicating radio beacons operating through the geostationary Inmarsat satellite system on 1.6 GHz— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 812(19) (b) Res. A. 661(16)
 
 s. 7(1)(f)(iv) | Reg. 7.1.6.4 | Float-free release and activation arrangements for emergency radio equipment. | Res. A.662 (16)
 
 ss. 6 & 14 | Regs. 6 & 14 | Shipborne integrated radiocommunications system (IRCS) when used in the GMDSS. | Res. A.811 (19)
 
 s. 18 | Reg. 6.2.1 of Chapter III | Survival craft 2-way VHF radiotelephone apparatus— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 809(19) (b) Res. A. 762(18)
+
+(L.N. 415 of 1997; L.N. 110 of 1998)
