@@ -906,6 +906,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Master of Engineering (M. Eng.) (L.N. 114 of 1991)
 
+      - Master of Family Medicine (M. F. M.) (L.N. 114 of 2003)
+
       - Master of Fine Arts (M. F. A.) (L.N. 453 of 1994)
 
       - Master of Midwifery (M. Mid.) (L.N. 103 of 1999)
