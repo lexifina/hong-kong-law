@@ -1,0 +1,9 @@
+PUBLIC HEALTH (ANIMALS AND BIRDS) (CHEMICAL RESIDUES) REGULATION
+
+(Cap. 139, section 3)
+
+[31 December 2001] L.N. 274 of 2001
+
+[31 January 2003] L.N. 233 of 2002
+
+[31 December 2003] L.N. 231 of 2003
