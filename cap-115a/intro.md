@@ -1,0 +1,5 @@
+IMMIGRATION REGULATIONS
+
+(Cap. 115, section 59)
+
+[1 April 1972]
