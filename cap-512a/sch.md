@@ -86,8 +86,6 @@ Polish Republic (Poland) | 1 September 1997
 
 Republic of Portugal | 1 September 1997
 
-Macau | 1 March 1999
-
 Romania | 1 September 1997
 
 Federation of Saint Kitts and Nevis | 1 September 1997
@@ -122,4 +120,4 @@ Republic of Venezuela | 1 September 1997
 
 Republic of Zimbabwe | 1 September 1997
 
-(Schedule replaced L.N. 302 of 1999)
+(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999)
