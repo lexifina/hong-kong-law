@@ -1,70 +1,66 @@
-# Schedule 1
+# SCHEDULE 1
 
 [ss. 11, 12, 13, 14 & 22]
 
 COMPENSATION RIGHTS AND ASSESSMENT
 
-(Adaptation amendments retroactively made - see 29 of 1998 ss. 76 & 105)
-
 - PART I
 
-Item | Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim shall be served on the Secretary
+- Item | Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim shall be served on the Secretary
 
-1. | (a) Physical or structural damage to any land or building resulting from any works undertaken by the Authority— (i) under Part II of this Regulation; or (ii) under Part IV of this Regulation, but only if attributable to the negligence of the Authority. | The expense which is fairly and reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | Any person owning a compensatable interest in the land or building. | Before the expiration of 1 year from the date of the completion of the works.
+- 1. | (a) | Physical or structural damage to any land or building resulting from any works undertaken by the Authority— | The expense which is fairly and reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | Any person owning a compensatable interest in the land or building. | Before the expiration of 1 year from the date of the completion of the works.
 
-(b) Disturbance resulting from the structural damage mentioned in paragraph (a). | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
+- (i) | under Part II of this Regulation; or
 
-2. | The resumption of land under section 13 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | As if the claim were made under the Crown Lands Resumption Ordinance (Cap. 124) for land resumed under that Ordinance. | Any person who would be entitled to claim compensation for land resumed under the Crown Lands Resumption Ordinance (Cap. 124) if the land had been resumed under that Ordinance. | Before the expiration of 1 year from the date of resumption.
+- (ii) | under Part IV of this Regulation, but only if attributable to the negligence of the Authority.
 
-3. | (a) The creation of an easement or other permanent right or a right of temporary occupation under section 15 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | (i) In the case of an easement or other permanent right, the amount by which the open market value of the claimant’s interest in the land is diminished. | Any person owning a compensatable interest in the land. | Before the expiration of 1 year from the date on which the easement or right is created.
+- (b) | Disturbance resulting from the structural damage mentioned in paragraph (a). | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
 
-Item | Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim shall be served on the Secretary
+- 2. | The resumption of land under section 13 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | As if the claim were made under the Crown Lands Resumption Ordinance (Cap. 124) for land resumed under that Ordinance. | Any person who would be entitled to claim compensation for land resumed under the Crown Lands Resumption Ordinance (Cap. 124) if the land had been resumed under that Ordinance. | Before the expiration of 1 year from the date of resumption.
 
-(ii) In the case of the creation of a right of temporary occupation, the amount of an open market rent for the claimant’s interest in the land occupied during the period of the easement.
+- 3. | (a) | The creation of an easement or other permanent right or a right of temporary occupation under section 15 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | (i) | In the case of an easement or other permanent right, the amount by which the open market value of the claimant’s interest in the land is diminished. | Any person owning a compensatable interest in the land. | Before the expiration of 1 year from the date on which the easement or right is created.
 
-(b) Disturbance resulting from the creation of an easement or other permanent right or a right of temporary occupation under section 15 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
+- (ii) | In the case of the creation of a right of temporary occupation, the amount of an open market rent for the claimant’s interest in the land occupied during the period of the easement.
 
-4. | (a) The extinction, by the operation of section 13(3) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), of any easement in favour of land not resumed when adjacent or contiguous land is resumed. | The expense fairly and reasonably incurred in remedying or mitigating the effect of the extinction of the easement, as far as may be practicable, and any diminution in the open market value of the claimant’s interest in the land not resumed after such expense has been incurred. | Any person owning a compensatable interest in the land not resumed. | Before the expiration of 1 year from the date of resumption of the adjacent or contiguous land.
+- (b) | Disturbance resulting from the creation of an easement or other permanent right or a right of temporary occupation under section 15 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
 
-(b) Disturbance resulting from the extinction of that easement. | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
+- 4. | (a) | The extinction, by the operation of section 13(3) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), of any easement in favour of land not resumed when adjacent or contiguous land is resumed. | The expense fairly and reasonably incurred in remedying or mitigating the effect of the extinction of the easement, as far as may be practicable, and any diminution in the open market value of the claimant’s interest in the land not resumed after such expense has been incurred. | Any person owning a compensatable interest in the land not resumed. | Before the expiration of 1 year from the date of resumption of the adjacent or contiguous land.
 
-Item | Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim shall be served on the Secretary
+- (b) | Disturbance resulting from the extinction of that easement. | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
 
-5. | The closure of, or extinction, modification or restriction of a private right in respect of, a road or part of a road under section 17 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), so that access to any land is adversely affected. | (a) The expense fairly and reasonably incurred in remedying or mitigating the effect of such closure, extinction, modification or restriction, as far as may be practicable, and any diminution in the open market value of the claimant’s interest in the land after such expense has been incurred. | Any person owning a compensatable interest in the land. | Before the expiration of 1 year from the closure, extinction, modification or restriction.
+- 5. | The closure of, or extinction, modification or restriction of a private right in respect of, a road or part of a road under section 17 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), so that access to any land is adversely affected. | (a) | The expense fairly and reasonably incurred in remedying or mitigating the effect of such closure, extinction, modification or restriction, as far as may be practicable, and any diminution in the open market value of the claimant’s interest in the land after such expense has been incurred. | Any person owning a compensatable interest in the land. | Before the expiration of 1 year from the closure, extinction, modification or restriction.
 
-(b) A disturbance payment.
+- (b) | A disturbance payment.
 
-6. | (a) The extinction, modification or restriction of any private right over Crown foreshore or sea-bed under section 17 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | The amount which is fairly and reasonably assessed to be the open market value of the right and, where the claimant has a compensatable interest in adjacent or contiguous land, any diminution in the open market value of that interest. | Any person in whom the private right is vested. | Before the expiration of 1 year from the date of extinction, modification or restriction.
+- 6. | (a) | The extinction, modification or restriction of any private right over Crown foreshore or sea-bed under section 17 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | The amount which is fairly and reasonably assessed to be the open market value of the right and, where the claimant has a compensatable interest in adjacent or contiguous land, any diminution in the open market value of that interest. | Any person in whom the private right is vested. | Before the expiration of 1 year from the date of extinction, modification or restriction.
 
-(b) Disturbance resulting from that extinction, modification or restriction. | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
+- (b) | Disturbance resulting from that extinction, modification or restriction. | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
 
-7. | (a) Physical or structural damage to any land or building resulting from the exercise of any power contained in section 19 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | The expense which is fairly and reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | Any person owning a compensatable interest in the land or building. | Before the expiration of 1 year from the date of completion of the operations carried out under section 19 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370) from which the damage is alleged to have resulted.
+- 7. | (a) | Physical or structural damage to any land or building resulting from the exercise of any power contained in section 19 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | The expense which is fairly and reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | Any person owning a compensatable interest in the land or building. | Before the expiration of 1 year from the date of completion of the operations carried out under section 19 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370) from which the damage is alleged to have resulted.
 
-Item | Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim shall be served on the Secretary
+- (b) | Disturbance resulting from the exercise of any power contained in section 19 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
 
-(b) Disturbance resulting from the exercise of any power contained in section 19 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
+- 8. | (a) | The removal, under section 21 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), of any object or structure which was erected and maintained without the contravention of any Ordinance or Crown lease. | Any diminution in the open market value of the claimant’s interest in the land or building; and the expense which is fairly and reasonably incurred in moving the object or structure and making good that part of the building from which it is removed. | Any person owning a compensatable interest in the land or building. | Before the expiration of 1 year from the date of removal.
 
-8. | (a) The removal, under section 21 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), of any object or structure which was erected and maintained without the contravention of any Ordinance or Crown lease. | Any diminution in the open market value of the claimant’s interest in the land or building; and the expense which is fairly and reasonably incurred in moving the object or structure and making good that part of the building from which it is removed. | Any person owning a compensatable interest in the land or building. | Before the expiration of 1 year from the date of removal.
+- (b) | Reinstating an object or structure described in paragraph (a) or of replacing the same with a similar object or structure. | The expense fairly and reasonably incurred in so doing in so far as that expense is not taken into account under paragraph (a). | Same as in paragraph (a). | Before the expiration of 1 year from the date of reinstatement or replacement.
 
-(b) Reinstating an object or structure described in paragraph (a) or of replacing the same with a similar object or structure. | The expense fairly and reasonably incurred in so doing in so far as that expense is not taken into account under paragraph (a). | Same as in paragraph (a). | Before the expiration of 1 year from the date of reinstatement or replacement.
+- (c) | The loss sustained in respect of an object or structure which was erected and maintained without the contravention of any Ordinance or Crown lease and is not to be reinstated or replaced with a similar object or structure. | The amount which is fairly and reasonably estimated as the value of the object or structure. | Any person owning a share or interest in the object or structure. | Before the expiration of 1 year from the date of removal.
 
-(c) The loss sustained in respect of an object or structure which was erected and maintained without the contravention of any Ordinance or Crown lease and is not to be reinstated or replaced with a similar object or structure. | The amount which is fairly and reasonably estimated as the value of the object or structure. | Any person owning a share or interest in the object or structure. | Before the expiration of 1 year from the date of removal.
+- (d) | Disturbance resulting from the exercise of any power contained in section 21 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
 
-(d) Disturbance resulting from the exercise of any power contained in section 21 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370). | A disturbance payment. | Same as in paragraph (a). | Same as in paragraph (a).
+- 9. | An amendment required or a condition imposed, under section 22(1)(c) or (d) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), (other than a condition mentioned in section 22(6) of that Ordinance), to avoid incompatibility with the works. | The amount which is fairly and reasonably estimated as the loss to the claimant, including— | The owner of the land on which the building works are carried out. | Before the expiration of 1 year from the completion of the building works.
 
-Item | Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim shall be served on the Secretary
+- (i) | any additional expense fairly and reasonably incurred in carrying out building works; and
 
-9. | An amendment required or a condition imposed, under section 22(1)(c) or (d) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), (other than a condition mentioned in section 22(6) of that Ordinance), to avoid incompatibility with the works. | The amount which is fairly and reasonably estimated as the loss to the claimant, including— (i) any additional expense fairly and reasonably incurred in carrying out building works; and (ii) in respect of professional fees and expenses, which loss, expense, fees and expenses are attributable solely to compliance with the amendment required or the condition imposed. | The owner of the land on which the building works are carried out. | Before the expiration of 1 year from the completion of the building works.
+- (ii) | professional fees and expenses,
 
-10. | Physical or structural damage or disturbance resulting from the restoration of waters undertaken by the Authority under section 13A of the Ordinance, but in the case of a person convicted of an offence referred to in subsection (1) of that section, limited to damage attributable to the negligence of the Authority. | Same as in item 1(a) and (b). | Same as in item 1(a) and (b). | Same as in item 1(a) and (b).
+- which loss, expense, fees and expenses are attributable solely to compliance with the amendment required or the condition imposed. (L.N. 281 of 1998)
+
+- 10. | Physical or structural damage or disturbance resulting from the restoration of waters undertaken by the Authority under section 13A of the Ordinance, but in the case of a person convicted of an offence referred to in subsection (1) of that section, limited to damage attributable to the negligence of the Authority. | Same as in item 1(a) and (b). | Same as in item 1(a) and (b). | Same as in item 1(a) and (b).
 
 - PART II
 
-  - 1.
-
-  - General effect of this Part
-
-  - The provisions in this Part shall, where applicable, have effect for the purpose of assessing compensation under Part I and shall—
+  - 1. General effect of this Part The provisions in this Part shall, where applicable, have effect for the purpose of assessing compensation under Part I and shall—
 
     - (a) be in addition to such of the provisions of the Lands Resumption Ordinance (Cap. 124) as apply, by virtue of Part I, to the assessment of compensation; and (29 of 1998 s. 76)
 
@@ -82,7 +78,7 @@ Item | Matters for which compensation may be claimed | Basis on which compensati
 
       - (b) in the case of disturbance of a trade or business on any land, the expenditure and loss of money actually and reasonably incurred or to be reasonably incurred and arising from the disturbance of that trade or business by reason of the matter for which the claimant is entitled to claim compensation under Part I,
 
-    - except that a disturbance payment shall not include any expenditure or loss which would not be recoverable, on the grounds that the expenditure or loss was too remote or was not caused by the disturbance, if that disturbance were a tort;
+  - except that a disturbance payment shall not include any expenditure or loss which would not be recoverable, on the grounds that the expenditure or loss was too remote or was not caused by the disturbance, if that disturbance were a tort;
 
     - “open market value” (公開市場價值) means the amount which the land, if sold in the open market by a willing seller, might reasonably be expected to realize;
 
@@ -106,23 +102,27 @@ Item | Matters for which compensation may be claimed | Basis on which compensati
 
   - 5. Unlawful building or development works Compensation may be reduced so far as may be just and equitable in respect of any building or development, or part thereof which has been constructed or modified, or on which building works have been carried out, so as to amount to a contravention of the Buildings Ordinance (Cap. 123) or the Town Planning Ordinance (Cap. 131) being a contravention within the meaning of that Ordinance or to a contravention of a Government lease or other instrument under which land built upon is held. (29 of 1998 s. 105)
 
-  - 6. Compensation where damage results only partly from the works The compensation assessed under item 1, 7 or 10 of Part I shall be reduced to such extent as may be just and equitable having regard to the share in the responsibility for the loss or damage not reasonably attributable to or connected with the works.
+  - 6. Compensation where damage results
 
-  - 7. No compensation under item 8 for loss of advertising Where a sign advertising any business, product, service or activity is removed under section 21 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), nothing in item 8 of Part I shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
+  - only partly from the works The compensation assessed under item 1, 7 or 10 of Part I shall be reduced to such extent as may be just and equitable having regard to the share in the responsibility for the loss or damage not reasonably attributable to or connected with the works.
 
-  - 8. Set off where compensation paid for loss of value and land later resumed Where compensation under item 3, 4, 5, 6, 8 or 9 of Part I has been paid in respect of the diminution in value of any land and such land or part of such land is subsequently resumed by the Government under this Regulation or any other enabling power, then notwithstanding section 3 or any other provision of law to the same or similar effect, that diminution in value shall be taken into account to reduce the compensation for the resumption of that land in so far as it was taken into account in the assessment of compensation for the diminution in value thereof. (29 of 1998 s. 105)
+  - 7. No compensation under item 8 for
 
-  - 9.
+  - loss of advertising Where a sign advertising any business, product, service or activity is removed under section 21 of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), nothing in item 8 of Part I shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
 
-  - Claim by a mortgagee in possession
+  - 8. Set off where compensation paid for loss
 
-  - Where under this Regulation a claim for compensation may be made by a mortgagee in possession—
+  - of value and land later resumed Where compensation under item 3, 4, 5, 6, 8 or 9 of Part I has been paid in respect of the diminution in value of any land and such land or part of such land is subsequently resumed by the Government under this Regulation or any other enabling power, then notwithstanding section 3 or any other provision of law to the same or similar effect, that diminution in value shall be taken into account to reduce the compensation for the resumption of that land in so far as it was taken into account in the assessment of compensation for the diminution in value thereof. (29 of 1998 s. 105)
+
+  - 9. Claim by a mortgagee in possession Where under this Regulation a claim for compensation may be made by a mortgagee in possession—
 
     - (a) such claim may include compensation in respect of the whole interest which comprises the mortgage security; and
 
     - (b) compensation received by a mortgagee in possession shall be applied by him firstly, to the settlement or reduction of the debt due under the mortgage and then to the payment of any excess to the mortgagor.
 
-  - 10. Limitation on compensation payable under item 9 Compensation shall be payable under item 9 of Part I only to the extent that the carrying out of building works in accordance with an amendment required, or condition imposed, under section 22(1)(c) or (d) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370) does not increase the open market value of the land on which the building works are carried out.
+  - 10. Limitation on compensation payable
+
+  - under item 9 Compensation shall be payable under item 9 of Part I only to the extent that the carrying out of building works in accordance with an amendment required, or condition imposed, under section 22(1)(c) or (d) of the Roads (Works, Use and Compensation) Ordinance (Cap. 370) does not increase the open market value of the land on which the building works are carried out.
 
   - 11. Apportionment of compensation Where there is a dispute between persons owning compensatable interests in any land or building as to the apportionment of the compensation payable or paid, the Lands Tribunal shall, on the application of any such person, apportion that compensation amongst such persons in such manner as may be just and equitable having regard to their respective rights and interests in the land or building.
 
