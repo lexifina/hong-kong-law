@@ -1,0 +1,5 @@
+COMPANIES (FEES AND PERCENTAGES)
+
+(Cap. 32, section 296)
+
+[1 January 1937]
