@@ -78,13 +78,11 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 36. | The Bank of East Asia Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
-37. | Legend Group Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+37. | Lenovo Group Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
-38. | MSCI China Free Index futures contract | 10000 open contracts for any one contract month | 500 open contracts for any one contract month
+38-39. (Repealed L.N. 66 of 2004)
 
-39. | MSCI China Free Index options contract | 10000 open contracts for any one series | 500 open contracts for any one series
-
-40. | Amoy Properties Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+40. | Hang Lung Properties Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
 41. | Cathay Pacific Airways Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
@@ -100,7 +98,7 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 47. | Guoco Group Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
-48. | Hang Lung Development Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+48. | Hang Lung Group Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
 49. | Henderson Investment Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
@@ -120,7 +118,7 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 57. | Sino Land Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
-58. | South China Morning Post (Holdings) Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+58. | SCMP Group Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
 59. | Television Broadcasts Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
@@ -228,4 +226,34 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 111. | The Kowloon Motor Bus Holdings Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
-(L.N. 84 of 2003; L.N. 221 of 2003)
+112. | Aluminum Corporation of China Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+113. | ASM Pacific Technology Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+114. | Beijing Datang Power Generation Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+115. | Brilliance China Automotive Holdings Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+116. | China Life Insurance Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+117. | China Shipping Development Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+118. | China Telecom Corporation Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+119. | Kerry Properties Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+120. | PICC Property and Casualty Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+121. | Sinotrans Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+122. | Standard Chartered Plc. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+123. | Techtronic Industries Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+124. | Tingyi (Cayman Islands) Holdings Corp. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+125. | Yanzhou Coal Mining Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+126. | Zhejiang Expressway Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+(L.N. 84 of 2003; L.N. 221 of 2003; L.N. 66 of 2004)

@@ -24,7 +24,7 @@ Item | Stock options contract | Prescribed limit | Reporting level
 
 9. | Hopewell Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
-10. | Amoy Properties Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+10. | Hang Lung Properties Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
 11. | The Bank of East Asia Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
@@ -44,7 +44,7 @@ Item | Stock options contract | Prescribed limit | Reporting level
 
 19. | Cathay Pacific Airways Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
 
-20. | Hang Lung Development Co. Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
+20. | Hang Lung Group Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
 
 21. | Henderson Investment Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
@@ -54,7 +54,7 @@ Item | Stock options contract | Prescribed limit | Reporting level
 
 24. | Sino Land Co. Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
 
-25. | South China Morning Post (Holdings) Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+25. | SCMP Group Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
 26. | Television Broadcasts Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
 
@@ -72,7 +72,7 @@ Item | Stock options contract | Prescribed limit | Reporting level
 
 33. | Tracker Fund of Hong Kong stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
-34. | Legend Group Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
+34. | Lenovo Group Ltd. stock options contract | 5000 contracts in any one expiry month | 1000 contracts in any one expiry month
 
 35. | PCCW Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
@@ -108,4 +108,34 @@ Item | Stock options contract | Prescribed limit | Reporting level
 
 51. | The Kowloon Motor Bus Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
-(L.N. 84 of 2003)
+52. | Aluminum Corporation of China Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+53. | ASM Pacific Technology Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+54. | Beijing Datang Power Generation Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+55. | Brilliance China Automotive Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+56. | China Life Insurance Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+57. | China Shipping Development Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+58. | China Telecom Corporation Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+59. | Kerry Properties Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+60. | PICC Property and Casualty Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+61. | Sinotrans Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+62. | Standard Chartered Plc. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+63. | Techtronic Industries Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+64. | Tingyi (Cayman Islands) Holdings Corp. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+65. | Yanzhou Coal Mining Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+66. | Zhejiang Expressway Co. Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+(L.N. 84 of 2003; L.N. 66 of 2004)
