@@ -4,8 +4,6 @@
 
 JUDICIAL OFFICE
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 Chief Justice (Added 79 of 1995 s. 50)
 
 Judge of the Court of Final Appeal (Added 79 of 1995 s. 50)
@@ -53,5 +51,11 @@ Registrar of the High Court
 Deputy Registrar, High Court (Added L.N. 268 of 1986)
 
 Assistant Registrar, High Court (Added L.N. 268 of 1986)
+
+Registrar of the District Court (Added 28 of 2000 s. 45)
+
+Deputy Registrar, District Court (Added 28 of 2000 s. 45)
+
+Assistant Registrar, District Court (Added 28 of 2000 s. 45)
 
 (Schedule 1 amended 121 of 1997 s. 8)
