@@ -46,7 +46,17 @@ Meetings of owners’ committee
 
   - (c) by leaving the notice at the owner’s flat or depositing the notice in his letter box. (Amended 12 of 1998 s. 10)
 
-- 11. The quorum at a meeting of owners shall be 10% of the owners.
+- 11.
+
+- The quorum at a meeting of owners shall be 10% of the owners.
+
+- 11A. For the purposes of paragraph 11, the reference in that paragraph to “10% of the owners” shall—
+
+  - (a) be construed as a reference to 10% of the number of persons who are owners without regard to their ownership of any particular percentage of the total number of shares into which the building is divided; and
+
+  - (b) not be construed as the owners of 10% of the shares.
+
+- (Added 69 of 2000 s. 26)
 
 - 12. A meeting of the owners shall be presided over by the chairman of the owners’ committee or, in his absence, by an owner appointed by the owners as chairman for that meeting.
 
@@ -62,7 +72,7 @@ Meetings of owners’ committee
 
     - (ii) by 1 co-owner appointed by the others; or
 
-    - (iii) if no appointment has been made under sub-subparagraph (i) or (ii), by the co-owner whose name stands first in relation to that share in the register kept at the Land Registry; and
+    - (iii) if no appointment has been made under sub-subparagraph (i) or (ii), then either personally or by proxy by one of the co-owners; and, in the case of any meeting where more than one of the co-owners seeks to cast a vote in respect of the share, only the vote that is cast, in person or by proxy, by the co-owner whose name, in order of priority, stands highest in relation to that share in the register kept at the Land Registry shall be treated as valid; and (Replaced 69 of 2000 s. 26)
 
   - (d) if there is an equality of votes the person presiding over the meeting shall have, in addition to a deliberative vote, a casting vote.
 

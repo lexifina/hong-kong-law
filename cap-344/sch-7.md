@@ -1,6 +1,6 @@
 # SCHEDULE 7
 
-[ss. 34D, 34E, 34J & 42]
+[ss. 34D, 34E, 34J, 40D & 42] (Amended 69 of 2000 s. 25)
 
 MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
@@ -106,13 +106,13 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
 - by owners’ corporation
 
-  - (1) Subject to subparagraph (5), at a general meeting convened for the purpose a corporation may, by a resolution of the owners of not less than 50% of the shares, terminate by notice the manager’s appointment without compensation.
+  - (1) Subject to subparagraph (5) and (5A), at a general meeting convened for the purpose a corporation may, by a resolution of the owners of not less than 50% of the shares, terminate by notice the manager’s appointment without compensation. (Amended 69 of 2000 s. 25)
 
   - (2) A resolution under subparagraph (1) shall have effect only if—
 
     - (a) the notice of termination of appointment is in writing;
 
-    - (b) the length of notice specified therein is for a period of not less than 3 months;
+    - (b) provision is made in the resolution for a period of not less than 3 months notice or, in lieu of notice, provision is made for an agreement to be made with the manager for the payment to him of a sum equal to the amount of remuneration which would have accrued to him during that period; (Replaced 69 of 2000 s. 25)
 
     - (c) the notice is accompanied by a copy of the resolution terminating the manager’s appointment; and
 
@@ -137,6 +137,12 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
     - (c) if, within the previous 3 years, the appointment of a previous manager was terminated under this paragraph; or
 
     - (d) if the manager was appointed by the corporation under subparagraph (6)(b).
+
+  - (5A) For the purposes of subparagraph (1)—
+
+    - (a) only the owners of shares who pay or who are liable to pay the management expenses relating to those shares shall be entitled to vote;
+
+    - (b) the reference in subparagraph (1) to “the owners of not less than 50% of the shares” shall be construed as a reference to the owners of not less than 50% of the shares who are entitled to vote. (Added 69 of 2000 s. 25)
 
   - (6) If a notice to terminate a manager’s appointment is given under this paragraph—
 

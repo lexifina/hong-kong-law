@@ -6,6 +6,8 @@ s-003.md
 s-003A.md
 s-004.md
 s-005.md
+s-005A.md
+s-005B.md
 s-006.md
 s-007.md
 s-008.md
@@ -55,6 +57,9 @@ s-038.md
 s-039.md
 s-040.md
 s-040A.md
+s-040B.md
+s-040C.md
+s-040D.md
 s-041.md
 s-042.md
 s-043.md
@@ -70,3 +75,4 @@ sch-7.md
 sch-8.md
 sch-9.md
 sch-10.md
+sch-11.md

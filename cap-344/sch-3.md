@@ -54,7 +54,7 @@ MEETINGS AND PROCEDURE OF CORPORATION
 
       - (ii) by one co-owner appointed by the others; or
 
-      - (iii) if no appointment has been made under (i) or (ii), either personally or by proxy by the co-owner whose name stands first in relation to that share in the register kept by the secretary of the management committee under section 38.
+      - (iii) if no appointment has been made under sub-sub-subparagraph (i) or (ii), then either personally or by proxy by one of the co-owners; and, in the case of any meeting where more than one of the co-owners seeks to cast a vote in respect of the share, only the vote that is cast, in person or by proxy, by the co-owner whose name, in order of priority, stands highest in relation to that share in the register maintained under section 38 shall be treated as valid. (Replaced 69 of 2000 s. 24)
 
   - (6) If a registered mortgagee is in possession of an owner’s flat, such mortgagee shall, to the exclusion of the owner, be entitled to exercise the voting rights of such owner.
 
@@ -70,11 +70,15 @@ MEETINGS AND PROCEDURE OF CORPORATION
 
   - (3) The appointment of a proxy shall have no effect unless the instrument appointing the proxy is lodged with the secretary of the management committee not less than 24 hours before the time for the holding of the meeting at which the proxy proposes to vote, or within such lesser time as the chairman shall allow.
 
-- 5. The quorum at a meeting of the corporation shall be—
+- 5.
 
-  - (a) 20% of the owners, in the case of a meeting at which a resolution for the dissolution of the management committee under section 30 is proposed; or
+  - (1) The quorum at a meeting of the corporation shall be— (Amended 69 of 2000 s. 24)
 
-  - (b) 10% of the owners in any other case.
+    - (a) 20% of the owners, in the case of a meeting at which a resolution for the dissolution of the management committee under section 30 is proposed; or
+
+    - (b) 10% of the owners in any other case.
+
+  - (2) A proxy appointed in accordance with paragraph 4 to give the vote of an owner at a meeting of the corporation shall, for the purposes of establishing a quorum, be treated as being an owner present at that meeting. (Added 69 of 2000 s. 24)
 
 - 6.
 
@@ -88,4 +92,12 @@ MEETINGS AND PROCEDURE OF CORPORATION
 
 - 7. The procedure at a general meeting shall be as is determined by the corporation. (Added 27 of 1993 s. 40)
 
-- 8. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail. (Added 27 of 1993 s. 40) (Amended 27 of 1993 ss. 40 & 42)
+- 8. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail. (Added 27 of 1993 s. 40)
+
+- 9. For the purposes of paragraphs 1(2) and 5, the references in those paragraphs to a percentage “of the owners” shall—
+
+  - (a) be construed as references to the total expressed percentage of the number of persons who are owners without regard to their ownership of any particular percentage of the total number of shares into which the building is divided; and
+
+  - (b) not be construed as the owners of the total expressed percentage of the shares.
+
+- (Added 69 of 2000 s. 24) (Amended 27 of 1993 ss. 40 & 42)

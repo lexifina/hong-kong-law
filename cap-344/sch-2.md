@@ -22,9 +22,15 @@ COMPOSITION AND PROCEDURE OF MANAGEMENT COMMITTEE
 
 - (Replaced 27 of 1993 s. 39)
 
+- 1A.
+
+  - In paragraph 1, “flats” (單位) does not mean any garage, carpark or carport.
+
+- (Added 69 of 2000 s. 23)
+
 - 2.
 
-  - (1) Subject to subparagraph (2), the owners shall, at a meeting convened under section 3, 3A or 4—
+  - (1) Subject to subparagraph (2), the owners shall, at a meeting convened under section 3, 3A, 4 or 40C— (Amended 69 of 2000 s. 23)
 
     - (a) appoint—
 
@@ -46,7 +52,7 @@ COMPOSITION AND PROCEDURE OF MANAGEMENT COMMITTEE
 
 - (Replaced 27 of 1993 s. 39)
 
-- 3. Subject to section 14 and paragraph 4, the members of the management committee appointed at a meeting convened under section 3, 3A or 4 shall hold office until a new management committee is appointed and assumes office at the second annual general meeting of the corporation.
+- 3. Subject to section 14 and paragraph 4, the members of the management committee appointed at a meeting convened under section 3, 3A, 4 or 40C shall hold office until a new management committee is appointed and assumes office at the second annual general meeting of the corporation. (Amended 69 of 2000 s. 23)
 
 - 4.
 
