@@ -1,0 +1,5 @@
+POLICE (WELFARE FUND) REGULATIONS
+
+(Cap. 232 section 45)
+
+[16 January 1953]
