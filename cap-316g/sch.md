@@ -16,10 +16,14 @@ Nature of business.
 
 Number and sex of persons engaged.
 
-Number of persons engaged by operatives (or site workers) and other persons.
+Number of persons engaged working outside Hong Kong by sex.
 
-Number of vacancies by sex.
+Number of vacancies.
 
-Number of vacancies by operatives (or site workers) and other persons.
+Reasons for significant changes in the number of persons engaged and vacancies.
 
-(L.N. 115 of 1994)
+Characteristics of vacancies.
+
+Information to facilitate contact with the person required to give information under paragraph 5 including his name, telephone number and fax number.
+
+(L.N. 115 of 1994; L.N. 42 of 1999)
