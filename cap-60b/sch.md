@@ -46,7 +46,11 @@ Item | $
 
 3. | Annual fee for registration of companies for textile controls purposes (Form TIC 473), such fee being payable on the date of first registration and thereafter on 1 November in each year (L.N. 315 of 1984; L.N. 160 of 1992) . | 1712
 
-4. | (a) Application for the issue of a certificate of Hong Kong origin, certificate of processing (Form TIC 185) or of any other certificate mentioned in item 5 other than a generalized preference certificate (L.N. 390 of 1989; L.N. 120 of 1990; L.N. 237 of 1992; L.N. 245 of 1997) . | 159
+4. | (a) Application for the issue of a certificate of Hong Kong origin, certificate of processing or of any other certificate mentioned in item 5 other than a generalized preference certificate—
+
+(i) where the application is made on paper (Form TIC 185) . | 110
+
+(ii) where the application is made using services provided by a specified body (L.N. 195 of 1999) . | 95
 
 (b) Application for the issue of a generalized preference certificate (Form TIC 185B) (L.N. 390 of 1989; L.N. 237 of 1992; L.N. 245 of 1997) . | 324
 
@@ -73,5 +77,11 @@ Item | $
 12. | Registration of person under Part IIIA of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999) . | 3003
 
 13. | Annual fee for any period beginning on or after 1 July 1993 for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993) | 2825
+
+14. | Fee payable when a production notification is lodged—
+
+(a) where the production notification is lodged on paper (Form TRA 579) . | 49
+
+(b) where the production notification is lodged using services provided by a specified body (L.N. 195 of 1999) . | 34
 
 (L.N. 258 of 1982; L.N. 189 of 1993; L.N. 259 of 1994; L.N. 203 of 1995; L.N. 202 of 1996; L.N. 245 of 1997)
