@@ -14,7 +14,7 @@ Serial Number: (for internal use)
 
 I. Particulars of the Donor
 
-Full name: . (in BLOCK letters, Surname first) HKIC/Passport* No.: . Age: . Sex: M/F* Marital status: Single/Married* - (a) □ The donor was LIVING at the time of the removal of the organ(s)— (i) □ The donor and the recipient are genetically related. They are . (please state the genetic relationship) and a copy of proof is enclosed. I am satisfied that the requirements in section 5(4)(b)-(e) of the Human Organ Transplant Ordinance have been complied with. (ii) □ The donor and the recipient are a married couple. Their marriage has subsisted for not less than 3 years and a copy of proof is enclosed. I am satisfied that the requirements in section 5(4)(b)-(e) of the Human Organ Transplant Ordinance have been complied with. (iii) □ The donor and the recipient are neither genetically related nor a married couple whose marriage has subsisted for not less than three years. Approval has been given by the Human Organ Transplant Board for the removal and transplant through File Reference . dated . . - (b) □ The donor was DEAD at the time of the removal of the organ(s)— Time and date of death: . am/pm; . /. / . Day Month Year Cause of death: .
+Full name: . (in BLOCK letters, Surname first) HKIC/Passport* No.: . Age: . Sex: M/F* Marital status (if donor is living): Single/Married* - (a) □ The donor was LIVING at the time of the removal of the organ(s)— (i) □ The donor and the recipient are genetically related. They are . (please state the genetic relationship) and a copy of proof is enclosed. I am satisfied that the requirements in section 5(4)(b)-(e)/section 5(4)(b), (c) (insofar as it relates to the donor), (d) and (e) and (6A)* of the Human Organ Transplant Ordinance have been complied with. (ii) □ The donor and the recipient are a married couple. Their marriage has subsisted for not less than 3 years and a copy of proof is enclosed. I am satisfied that the requirements in section 5(4)(b)-(e)/section 5(4)(b), (c) (insofar as it relates to the donor), (d) and (e) and (6A)* of the Human Organ Transplant Ordinance have been complied with. (iii) □ The donor and the recipient are neither genetically related nor a married couple whose marriage has subsisted for not less than three years. Approval has been given by the Human Organ Transplant Board for the removal and transplant through File Reference . dated . . - (b) □ The donor was DEAD at the time of the removal of the organ(s)— Time and date of death: . am/pm; . /. / . Day Month Year Cause of death (please state “pending coroner’s inquest” for such cases and supply the cause of death to the Human Organ Transplant Board as soon as it is available): .
 
 II. □ Organ(s) removed Description of the organ(s) removed: . Date of the removal: . / . / . Day Month Year Name of the hospital/clinic/institution where the removal of the organ(s) took place: (Also state the address if the removal of the organ(s) took place in clinic/institution) . .
 
@@ -38,7 +38,7 @@ Notes:
 
 - 2. One form should be used for each donor.
 
-- 3. Unless the Board has given approval for extension of the submission deadline, this form must be submitted within 30 days of the removal of the organ or the Board’s approval if no removal subsequently took place. (L.N. 615 of 1997)
+- 3. Unless the Board has given approval for extension of the submission deadline, this form must be submitted within 30 days of the removal of the organ or the Board’s approval if no removal subsequently took place. (L.N. 615 of 1997; L.N. 66 of 1999)
 
 FORM 2 | [section 3(1)]
 
@@ -50,13 +50,13 @@ Serial Number: (for internal use)
 
 I. Particulars of the Recipient
 
-Full name: . (in BLOCK letters, Surname first) HKIC/Passport* No.: . Age: . Sex: M/F* Marital status: Single/Married*
+Full name: . (in BLOCK letters, Surname first) HKIC/Passport* No.: . Age: . Sex: M/F*
 
 II. Particulars of the Organ □ The organ is donated locally— Full name of the Donor: . (in BLOCK letters, Surname first) HKIC/Passport* No.: . □ The organ is imported— Please state the date of submission of the certificate accompanying the organ to the Board under Section 7(1) of the Ordinance: . /. /. Day Month Year - Description of the organ transplanted: . Date of the transplant: . / . / . Day Month Year Name of the hospital/clinic/institution where the transplant of the organ took place: (Also state the address if the transplant of the organ took place in clinic/institution) .
 
 III. Extension of Deadline □ A request for extending the deadline for submission of the Form has been made and approval has been given by the Human Organ Transplant Board. (Please state the File Reference and date of the approval for the extension) .
 
-IV. Submitted under section 6 of the Human Organ Transplant Ordinance by— Dr. . HKIC/Passport*No.: . (Full name in BLOCK letters, Surname first) Telephone number: . Fax number: . Address/Hospital name: . Date: . Signature: .
+IV. Submitted under section 6 of the Human Organ Transplant Ordinance by— Dr. . HKIC/Passport* No.: . (Full name in BLOCK letters, Surname first) Telephone number: . Fax number: . Address/Hospital name: . Date: . Signature: .
 
 * Please delete whichever is inapplicable.
 
@@ -68,25 +68,27 @@ Notes:
 
 - 2. One form should be used for each organ transplanted.
 
-- 3. Unless the Board has given approval for extension of the submission deadline, this form must be submitted within 30 days of the transplant of the organ into the recipient.
+- 3. Unless the Board has given approval for extension of the submission deadline, this form must be submitted within 30 days of the transplant of the organ into the recipient. (L.N. 66 of 1999)
 
-- FORM 3 | [section 3(1)]
+FORM 3 | [section 3(1)]
 
-- HUMAN ORGAN TRANSPLANT ORDINANCE (CHAPTER 465)
+HUMAN ORGAN TRANSPLANT ORDINANCE (CHAPTER 465)
 
-- HUMAN ORGAN TRANSPLANT REGULATION INFORMATION ON FINAL DISPOSAL OF ORGAN REMOVED/IMPORTED
+HUMAN ORGAN TRANSPLANT REGULATION INFORMATION ON FINAL DISPOSAL OF ORGAN REMOVED/IMPORTED
 
-- Serial Number: (for internal use)
+Serial Number: (for internal use)
 
-- I. Particulars of the Donor (for organs removed in Hong Kong)
+I. Particulars of the Donor (for organs removed in Hong Kong)
 
-- (i) Full name: . (in BLOCK letters, Surname first) (ii) HKIC/Passport* No.: . For imported organ only (i) Name of donor in full: . (in BLOCK letters, Surname first) (ii) Name of airline or carrier: . (iii) Date of shipment: . / . / . Day Month Year
+(i) Full name: . (in BLOCK letters, Surname first) (ii) HKIC/Passport* No.: . For imported organ only (i) Name of donor in full: . (in BLOCK letters, Surname first) (ii) Name of airline or carrier: . (iii) Date of shipment: . / . / . Day Month Year
 
-- II. Disposal of Organ (i) Description of the organ: . (ii) Reason(s) why the organ was considered unusable: . (iii) Manner of disposal of the organ: . (iv) Date of disposal: . / . / . Day Month Year
+II. Disposal of Organ (i) Description of the organ: . (ii) Reason(s) why the organ was considered unusable: . (iii) Manner of disposal of the organ: . (iv) Date of disposal: . / . / . Day Month Year
 
-- III. Submitted under section 6 of the Human Organ Transplant Ordinance by— Dr./Mr/Ms* . HKIC/Passport* No.: . (Full name in BLOCK letters, Surname first) Telephone number: . Fax number: . Address/Hospital name: . . Date: . Signature: .
+III. Submitted under section 6 of the Human Organ Transplant Ordinance by— Dr./Mr/Ms* . HKIC/Passport* No.: . (Full name in BLOCK letters, Surname first) Telephone number: . Fax number: . Address/Hospital name: . . Date: . Signature: .
 
-- * Please delete whichever is inappropriate. Notes:
+* Please delete whichever is inappropriate.
+
+- Notes:
 
 - 1. This form must be completed by the person who made the decision to dispose of the organ.
 
