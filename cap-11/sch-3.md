@@ -1,0 +1,43 @@
+# Schedule 3
+
+(Adaptation amendments retroactively made - see 27 of 1999 s. 3)
+
+[s. 17] (Amended 123 of 1997 s. 18)
+
+- PART I OATHS TO BE ADMINISTERED BY THE CHIEF EXECUTIVE (Amended 123 of 1997 s. 18)
+
+- Chief Justice (Added 79 of 1995 s. 50)
+
+- Permanent judge of the Court of Final Appeal (Added 79 of 1995 s. 50)
+
+- Non-permanent Hong Kong judge of the Court of Final Appeal (Added 79 of 1995 s. 50)
+
+- Judge of the Court of Final Appeal from another common law jurisdiction (Added 79 of 1995 s. 50)
+
+- Chief Judge (Added 123 of 1997 s. 18. Amended 27 of 1999 s. 3)
+
+- Justice of Appeal (Added 26 of 1997 s. 7)
+
+- Judge of the Court of First Instance (other than a recorder of the Court of First Instance appointed under section 6A of the High Court Ordinance (Cap. 4) or a deputy judge of the Court of First Instance appointed under section 10(1) of that Ordinance). (Amended 27 of 1999 s. 3)
+
+- PART II OATHS TO BE ADMINISTERED BY A JUDGE OF THE COURT OF FIRST INSTANCE Recorder of the Court of First Instance
+
+- Deputy Judge of the Court of First Instance
+
+- District Judge
+
+- Deputy District Judge
+
+- Presiding Officer, Labour Tribunal
+
+- Magistrate
+
+- Adjudicator, Small Claims Tribunal
+
+- President, Lands Tribunal
+
+- Coroner
+
+- Adjudication Officer, Minor Employment Claims Adjudication Board
+
+- PART III (Repealed 123 of 1997 s. 18) (Schedule 3 replaced 80 of 1994 s. 11. Amended 123 of 1997 s. 18)
