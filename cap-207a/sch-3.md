@@ -6,12 +6,44 @@ FEES FOR THE TREATMENT OF PLANTS AND SOIL
 
 Item | Particulars | Fee $
 
-1. | Bulbs, corms, roots and tubers— Not exceeding 1000 Exceeding 1000— (a) The first 1000 (b) Thereafter, each additional multiple of 1000 or part thereof | 77 77 59
+1. | Bulbs, corms, roots and tubers—
 
-2. | Foliated materials— Not exceeding 20 pieces Exceeding 20 pieces— (a) The first 20 pieces (b) Thereafter, each additional multiple of 20 pieces or part thereof | 66 66 46
+Not exceeding 1 000 | 80
 
-3. | Seeds, grains and pulses— Not exceeding 100 kg Exceeding 100 kg— (a) The first 100 kg (b) Thereafter, each additional multiple of 100 kg or part thereof | 66 66 46
+Exceeding 1 000—
 
-4. | Soil— Not exceeding 40 kg Exceeding 40 kg— (a) The first 40 kg (b) Thereafter, each additional multiple of 40 kg or part thereof | 34 34 26
+(a) | The first 1 000 | 80
 
-(L.N. 52 of 1995; L.N. 205 of 1996; L.N. 521 of 1997)
+(b) | Thereafter, each additional multiple of 1 000 or part thereof | 60
+
+2. | Foliated materials—
+
+Not exceeding 20 pieces | 70
+
+Exceeding 20 pieces—
+
+(a) | The first 20 pieces | 70
+
+(b) | Thereafter, each additional multiple of 20 pieces or part thereof | 47
+
+3. | Seeds, grains and pulses—
+
+Not exceeding 100 kg | 70
+
+Exceeding 100 kg—
+
+(a) | The first 100 kg | 70
+
+(b) | Thereafter, each additional multiple of 100 kg or part thereof | 47
+
+4. | Soil—
+
+Not exceeding 40 kg | 35
+
+Exceeding 40 kg—
+
+(a) | The first 40 kg | 35
+
+(b) | Thereafter, each additional multiple of 40 kg or part thereof | 27
+
+(L.N. 52 of 1995; L.N. 205 of 1996; L.N. 521 of 1997; L.N. 2 of 2001)
