@@ -176,4 +176,8 @@ PUBLIC BODIES
 
 - 86. Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 8)
 
-- 87. New World First Bus Services Limited. (Added L.N. 239 of 1998) (Replaced L.N. 272 of 1974)
+- 87. New World First Bus Services Limited. (Added L.N. 239 of 1998)
+
+- 88. The Hong Kong Mortgage Corporation Limited. (Added L.N. 313 of 1998)
+
+- 89. Hong Kong Note Printing Limited. (Added L.N. 313 of 1998) (Replaced L.N. 272 of 1974)
