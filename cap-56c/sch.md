@@ -24,7 +24,7 @@
 
 - 11. All steam heated copper hot plates used for hydraulic pressing and manufactured by Worthy Trivision Ltd. of 28A Hung To Road, Kwun Tong, Hong Kong, subject to each new hot plate, before it is put into use, being examined and stamped for the purpose of identification by the Authority or his nominee.
 
-- 12. All hot water pressure washers of the type known as Hurricane Model 830, manufactured by the Advance Machine Company, Spring Park, Minnesota-55384, U.S.A.
+- 12. All hot water pressure washers of the type known as Hurricane Model 830, manufactured by the Advance Machine Company, Spring Park, Minnesota—55384, U.S.A.
 
 - 13. All steam cleaning machines of the type known as Automatic Control Cleaner Model HW-1300D, manufactured by Kobe Kosaku Company Limited, Japan. (L.N. 59 of 1982)
 
@@ -34,7 +34,7 @@
 
 - 16. All Autoservices High Pressure Hot Water Cleaners, Model C50 and C70, manufactured by Cristanini S.p.A. of Italy. (L.N. 233 of 1984)
 
-- 17. All cleaning machines of the types known as Hot Water Pressure Cleaners, Models HDS/75, HDS/200, HDS/580, HDS/755 and HDS/760, manufactured by Alfred Karcher G M B H & Co. of West Germany. (L.N. 80 of 1985; L.N. 317 of 1985)
+- 17. All cleaning machines of the types known as Hot Water Pressure Cleaners, Models HDS/75, HDS/200, HDS/580, HDS/755 and HDS/760, manufactured by Alfred Karcher GmbH & Co. of West Germany. (L.N. 80 of 1985; L.N. 317 of 1985)
 
 - 18. All cleaning machines of the types known as Hot Water and Steam Cleaners, Models HS 90, HS 150, 1502V-66, 4203V-109 and 5003V-115, manufactured by K.E.W. Industri A/S of Denmark. (L.N. 230 of 1985; L.N. 244 of 1985; L.N. 293 of 1985)
 
@@ -44,7 +44,7 @@
 
 - 21. All cleaning machines of the types known as Hot Water Cleaners, Models 0801V-31 and 38A2V-71, manufactured by K.E.W. Industri A/S of Denmark. (L.N. 225 of 1986)
 
-- 22. All cleaning machines of the types known as Hot Water Cleaners, Models HDS 610, HDS 650, HDS 690, HDS 750, HDS 890 and HDS 1250, manufactured by Alfred Karcher GMBH & Co. of West Germany. (L.N. 159 of 1988)
+- 22. All cleaning machines of the types known as Hot Water Cleaners, Models HDS 610, HDS 650, HDS 690, HDS 750, HDS 890 and HDS 1250, manufactured by Alfred Karcher GmbH & Co. of West Germany. (L.N. 159 of 1988)
 
 - 23. All cleaning machines of the type known as Unieco Steam/Hot Water Pressure Cleaner, Model Clipper 100, manufactured by Unieco, Via Matteotti, 5-42010 Rio Salticeto (RE), Italy. (L.N. 73 of 1987)
 
@@ -52,9 +52,9 @@
 
 - 25. All cleaning machines of the types known as Hot Water Cleaners, Models HW 606 BMI and HW 907 DMS, manufactured by Frank Aktiengesellscahft AG, West Germany. (L.N. 253 of 1989)
 
-- 26. All cleaning machines of the type known as Hot Water Cleaner, Model CS930E, manufactured by Wap Reinigungssysteme GMBH & Co., West Germany. (L.N. 253 of 1989)
+- 26. All cleaning machines of the type known as Hot Water Cleaner, Model CS930E, manufactured by Wap Reinigungssysteme GmbH & Co., West Germany. (L.N. 253 of 1989)
 
-- 27. All cleaning machines of the type known as Hot Water Cleaner, Model HD 622, manufactured by the Ehrle Reinigungstechnik GMbH of West Germany. (L.N. 367 of 1989)
+- 27. All cleaning machines of the type known as Hot Water Cleaner, Model HD 622, manufactured by the Ehrle Reinigungstechnik GmbH of West Germany. (L.N. 367 of 1989)
 
 - 28. All cleaning machines of the type known as Hot Water Cleaner, Model CS 820, manufactured by the Wap Reinigungssysteme GmbH & Co. of West Germany. (L.N. 56 of 1990)
 
@@ -68,10 +68,12 @@
 
 - 33. All pressure fryers of the types known as Models 500, 500F, 580KFC and E600, manufactured by the Henny Penny Corporation, Eaton, Ohio 45320, U.S.A. (L.N. 33 of 1993)
 
-- 34. All cleaning machines of the types known as Hot Water Cleaners, Models DX820 and DX930, manufactured by the Wap Reinigungssysteme GMbH & Co. of Germany. (L.N. 459 of 1993)
+- 34. All cleaning machines of the types known as Hot Water Cleaners, Models DX820 and DX930, manufactured by the Wap Reinigungssysteme GmbH & Co. of Germany. (L.N. 459 of 1993)
 
-- 35. All cleaning machines of the types known as Hot Water Cleaners, Models DX800S and DX830, manufactured by the Wap Reinigungssysteme GMbH & Co. of Germany. (L.N. 490 of 1994)
+- 35. All cleaning machines of the types known as Hot Water Cleaners, Models DX800S and DX830, manufactured by the Wap Reinigungssysteme GmbH & Co. of Germany. (L.N. 490 of 1994)
 
 - 36. All cleaning machines of the types known as High Pressure Washers, Model SYNCRON DS2360T, manufactured by the Portotecnica S.p.A. of Italy. (L.N. 519 of 1995)
 
 - 37. All pressure fryers of the type known as Flavor Crisp of America, Model DSSE-13, manufactured by Ballantyne of Omaha Inc., 4350 McKinley Street, Omaha, Nebraska 68112, U.S.A. (L.N. 376 of 1996)
+
+- 38. All cleaning machines of the type known as High Pressure Hot Water Cleaner, Model C1250 Classic, manufactured by the Wap Reinigungssysteme GmbH & Co. of Germany. (L.N. 300 of 1998)
