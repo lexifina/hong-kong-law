@@ -2,9 +2,7 @@
 
 FORM 1 | [rule 5]
 
-SOLICITORS’ PRACTICE RULES
-
-PARTICULARS RELATING TO SOLICITORS’ FIRMS
+SOLICITORS’ PRACTICE RULES PARTICULARS RELATING TO SOLICITORS’ FIRMS
 
 I, .,
 
@@ -12,29 +10,33 @@ I, .,
 
 solemnly and sincerely declare as follows—
 
-- 1. I am engaged in practice (on my own account/in partnership and am providing this return on behalf of my partners*).
+1. | I am engaged in practice (on my own account/in partnership and am providing this return on behalf of my partners*).
 
-- 2. The name of my/our* firm is | .
+2. | The name of my/our* firm is | .
 
-- 3. During the period 1 January . to 31 December ., I/we* have not shared with any person not being a solicitor practising in Hong Kong my/our* profit costs in respect of any business, whether by way of paying or agreeing to pay a commission on business introduced by any such person or otherwise, except as set out in Schedule 1/where a waiver of rule 4 of the Rules was granted by the Council on . *
+3. | During the period 1 January . to 31 December ., I/we* have not shared with any person not being a solicitor practising in Hong Kong my/our* profit costs in respect of any business, whether by way of paying or agreeing to pay a commission on business introduced by any such person or otherwise, except as set out in Schedule 1/where a waiver of rule 4 of the Rules was granted by the Council on . *
 
-- 4. The number of principals, assistant solicitors and consultants in my/our* firm as at 31 December 19 ., was—
+4. | The number of principals, assistant solicitors and consultants in my/our* firm as at 31 December ., was—
 
-- Principals
+Principals
 
-- Assistant Solicitors
+Assistant Solicitors
 
-- Consultants
+Consultants
 
-- 5. All of the principals, assistant solicitors and consultants in my/our* firm are resident in Hong Kong and are not principals or employees of another firm of solicitors in Hong Kong or a salaried employee of a company in Hong Kong, except as set out in Schedule 2.
+5. | All of the principals, assistant solicitors and consultants in my/our* firm are resident in Hong Kong and are not principals or employees of another firm of solicitors in Hong Kong or a salaried employee of a company in Hong Kong, except as set out in Schedule 2.
 
-- 6. The particulars of every employee who has joined my/our* firm (except employees who are solicitors) since 1 January 19 . are set out in Schedule 3.
+6. | The particulars of every employee who has joined my/our* firm (except employees who are solicitors) since 1 January . are set out in Schedule 3.
 
-- 7. The particulars of every employee of my/our* firm (except employees who are solicitors) who is not included in Schedule 3 between 1 January 19 . to 31 December 19 . are set out in Schedule 4.
+7. | The particulars of every employee of my/our* firm (except employees who are solicitors) who is not included in Schedule 3 between 1 January . to 31 December . are set out in Schedule 4.
 
-- 8. My/our* firm engages a service company to provide staff for the firm and the details of this company are set out in Schedule 5. The particulars of the employees provided by this company are included in Schedules 3 and 4.
+8. | My/our* firm engages a service company to provide staff for the firm and the details of this company are set out in Schedule 5. The particulars of the employees provided by this company are included in Schedules 3 and 4.
 
-(Delete this paragraph if it does not apply.) And I make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11). Declared at Hong Kong this . day of . 19 .
+(Delete this paragraph if it does not apply.)
+
+And I make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
+
+Declared at Hong Kong this . day of .
 
 _
 
@@ -44,72 +46,86 @@ _
 
 *Delete one of the alternatives.
 
-_ SCHEDULE 1
+_
+
+SCHEDULE 1
 
 Give details of all commissions paid to unqualified persons.
 
 _ SCHEDULE 2
 
-- PART A List the names of all principals, assistant solicitors or consultants of your firm who are also employees or principals of another firm of solicitors in Hong Kong or a salaried employee of a company in Hong Kong, the name of the other firm or company and their position in the other firm or company.
+PART A
 
-- PART B
+List the names of all principals, assistant solicitors or consultants of your firm who are also employees or principals of another firm of solicitors in Hong Kong or a salaried employee of a company in Hong Kong, the name of the other firm or company and their position in the other firm or company.
 
-- List the names of all principals, assistant solicitors or consultants of your firm who are not resident in Hong Kong.
+PART B
 
-- SCHEDULE 3 PARTICULARS OF NEW EMPLOYEES BETWEEN 1 JAN 19 _ TO 31 DEC 19 _
+List the names of all principals, assistant solicitors or consultants of your firm who are not resident in Hong Kong.
 
-- Name (English & Chinese, if applicable), as appears on the employee’s Hong Kong identity card | Name (English & Chinese, if applicable), as appears on the employee’s name card (if applicable) | ID card/ passport No. | Chinese Commer-cial Code No. | Date of Birth | Position | Mark “X” if Authorized Clerk @ | Monthly Salary | Bonus/es or other Allow-ances# | Date/s of Bonus/es or other Allow— ances# | Date of Employ-ment*
+SCHEDULE 3
 
-- Total number of current employees in this Schedule: _
+PARTICULARS OF NEW EMPLOYEES BETWEEN 1 JAN _ TO 31 DEC _
 
-- (Do not include employees who have left the firm’s employment). The monthly salary shown is paid for _ months each year (see note).
+Name (English & Chinese, if applicable), as appears on the employee’s Hong Kong identity card | Name (English & Chinese, if applicable), as appears on the employee’s name card (if applicable) | ID card/passport No. | Chinese Commercial Code No. | Date of Birth | Position | Mark “X” if Authorized Clerk @ | Monthly Salary | Bonus/es or other Allowances# | Date/s of Bonus/es or other Allowances# | Date of Employment*
 
-- Please list: | all employees (except employees who are solicitors)
+Total number of current employees in this Schedule: _
 
-- include | (a) Trainee solicitors (b) All other non professional staff (full time & part time)
+(Do not include employees who have left the firm’s employment).
 
-- @ Authorized clerks are employees who are duly authorized to visit clients in places of detention.
+The monthly salary shown is paid for _ months each year (see note).
 
-- # Include any loans to employees written off during this period.
+Please list: include | all employees (except employees who are solicitors)
 
-- * If an employee has already ceased employment with the firm, put also the date of cessation of employment in this column.
+(a) | Trainee solicitors)
 
-- SCHEDULE 4 PARTICULARS OF ALL OTHER EMPLOYEES
+(b) | All other non professional staff (full time & part time)
 
-- BETWEEN 1 JAN 19 _ TO 31 DEC 19 _
+@ | Authorized clerks are employees who are duly authorized to visit clients in places of detention.
 
-- Name (English & Chinese, if applicable), as appears on the employee’s Hong Kong identity card | Name (English & Chinese, if applicable), as appears on the employee’s name card (if applicable) | ID card/ passport No. | Chinese Commer-cial Code No. | Date of Birth | Position | Mark “X” if Authorized Clerk @ | Monthly Salary | Bonus/es or other Allow-ances# | Date/s of Bonus/es or other Allow— ances# | Date ceased Employ-ment*
+\# | Include any loans to employees written off during this period.
 
-- Total number of current employees in this Schedule: _
+* | If an employee has already ceased employment with the firm, put also the date of cessation of employment in this column.
 
-- (Do not include employees who have left the firm’s employment). The monthly salary shown is paid for _ months each year (see note).
+SCHEDULE 4
 
-- Please list: | all employees (except employees who are solicitors)
+PARTICULARS OF ALL OTHER EMPLOYEES BETWEEN 1 JAN _ TO 31 DEC _
 
-- include | (a) Trainee solicitors (b) All other non professional staff (full time & part time)
+Name (English & Chinese, if applicable), as appears on the employee’s Hong Kong identity card | Name (English & Chinese, if applicable), as appears on the employee’s name card (if applicable) | ID card/passport No. | Chinese Commercial Code No. | Date of Birth | Position | Mark “X” if Authorized Clerk @ | Monthly Salary | Bonus/es or other Allowances# | Date/s of Bonus/es or other Allowances# | Date ceased Employment
 
-- @ Authorized clerks are employees who are duly authorized to visit clients in places of detention.
+Total number of current employees in this Schedule: _
 
-- # Include any loans to employees written off during this period.
+(Do not include employees who have left the firm’s employment).
 
-- SCHEDULE 5
+The monthly salary shown is paid for _ months each year (see note).
 
-- Name of Service Company: Directors of the Company:
+Please list: include | all employees (except employees who are solicitors)
 
-- Note: If your firm engages more than one service company, details of all companies must be given.
+(a) | Trainee solicitors)
 
-- This page and the preceding . pages are the Schedules referred to in the declaration of . made before me at Hong Kong this . day of . 19 .
+(b) | All other non professional staff (full time & part time)
 
-- _
+@ | Authorized clerks are employees who are duly authorized to visit clients in places of detention.
 
-- Commissioner/Solicitor.
+\# | Include any loans to employees written off during this period.
 
-- _
+SCHEDULE 5
 
-- Note:
+Name of Service Company: Directors of the Company:
 
-  - 1. If your firm pays non-discretionary bonuses at certain times of the year by way of an additional month’s salary, such as at Chinese New Year, put the total number of months salary paid in the box, for example, 13. Details of any discretionary bonuses, allowances or other payments must be shown in the columns relating to bonuses. If no such payments are made, put “not applicable” in these columns.
+Note: If your firm engages more than one service company, details of all companies must be given.
 
-  - 2. If your firm does not pay any non-discretionary bonuses, put 12 in the box. Details of any discretionary bonuses, allowances or other payments must be shown in the columns relating to bonuses. If no such payments are made, put “not applicable” in these columns.
+This page and the preceding . pages are the Schedules referred to in the declaration of . made before me at Hong Kong this . day of .
 
-  - 3. All bonuses, allowances and other payments made to staff in addition to salary must be included in the columns relating to bonuses. (L.N. 138 of 1993; L.N. 484 of 1993; L.N. 593 of 1995; 47 of 1997 s. 10; L.N. 389 of 1998)
+_
+
+Commissioner/Solicitor.
+
+Note:
+
+1. | If your firm pays non-discretionary bonuses at certain times of the year by way of an additional month’s salary, such as at Chinese New Year, put the total number of months salary paid in the box, for example, 13. Details of any discretionary bonuses, allowances or other payments must be shown in the columns relating to bonuses. If no such payments are made, put “not applicable” in these columns.
+
+2. | If your firm does not pay any non-discretionary bonuses, put 12 in the box. Details of any discretionary bonuses, allowances or other payments must be shown in the columns relating to bonuses. If no such payments are made, put “not applicable” in these columns.
+
+3. | All bonuses, allowances and other payments made to staff in addition to salary must be included in the columns relating to bonuses.
+
+(L.N. 138 of 1993; L.N. 484 of 1993; L.N. 593 of 1995; 47 of 1997 s. 10; L.N. 389 of 1998; L.N. 117 of 2000)
