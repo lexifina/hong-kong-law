@@ -86,6 +86,8 @@ Stewart Road | Pavement of Stewart Road at junction of House No. 138, Gloucester
 
 Tonnochy Road | Pavement of Tonnochy Road at junction of House No. 297, Jaffe Road near the western part of the entrance of the foot-bridge (L.N. 448 of 1996) | 1
 
+Sugar Street | Pavement in front of House No. 3 (L.N. 565 of 1997) | 1
+
 KOWLOON
 
 (1) Name of Street | (2) Extent
