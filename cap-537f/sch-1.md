@@ -11,3 +11,13 @@ PROHIBITED GOODS
   - (2) The following goods— Petroleum oils and oils obtained from bituminous minerals, crude Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations Petroleum gases and other gaseous hydrocarbons Petroleum jelly Paraffin wax containing by weight less than 75% of oil ‘Slack wax’, ‘scale wax’ Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bitumen minerals Bitumen and asphalt, natural; bituminous or oil shale and tar sands, asphaltites and asphaltic rocks Bituminous mixture based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example bituminous mastics, cut-backs) Acyclic hydrocarbons Cyclobexane Benzene Toluene o-Xylene m-Xylene p-Xylene Mixed xylene isomers Styrene Ethylbenzene Cumene Methanol (methyl alcohol) Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould release preparations based on lubricants) and preparations containing, as basic constituents, 70% or more by weight of petroleum oils, or oils obtained from bituminous minerals but not as the basic constituent Additives for lubricating oils; containing petroleum oils, or oils obtained from bituminous minerals Petroleum sulphonates, excluding petroleum sulphonates of alkali metals, of ammonium or of ethanolamines; thiophenated sulphonic acids of oils obtained from bituminous minerals, and their salts.
 
 - PART 2 Aircraft Any aircraft and any component specially designed for aircraft. (L.N. 314 of 1998)
+
+- PART 3
+
+  - (1) Equipment used in mining or mining services.
+
+  - (2) Motorized vehicle or watercraft or their spare parts.
+
+- (L.N. 166 of 1999)
+
+- PART 4 Ground or waterborne transportation services. (L.N. 166 of 1999)
