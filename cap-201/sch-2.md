@@ -1,0 +1,15 @@
+# Schedule 2
+
+[ss. 2(1) & 35]
+
+PUBLIC BODIES SPECIFIED FOR PURPOSES OF DEFINITION OF “PUBLIC SERVANT”
+
+- 1. The Stock Exchange of Hong Kong Limited.
+
+- 2. Hong Kong Futures Exchange Limited.
+
+- 3. Hong Kong Securities Clearing Company Limited.
+
+- 4. The SEHK Options Clearing House Limited.
+
+- 5. HKFE Clearing Corporation Limited. (Schedule 2 added 20 of 1999 s. 7)

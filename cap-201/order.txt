@@ -54,3 +54,5 @@ s-033A.md
 s-034.md
 s-035.md
 sch.md
+sch-1.md
+sch-2.md
