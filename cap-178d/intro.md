@@ -1,0 +1,5 @@
+DESIGNATION OF PUBLIC OFFICERS NOTICE
+
+(Cap. 178, section 22)
+
+[22 February 1974]
