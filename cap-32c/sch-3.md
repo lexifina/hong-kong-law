@@ -6,11 +6,11 @@ TABLE A
 
 Item | Particular | Fee $
 
-1. | On an inspection of a liquidator’s statement sent to the Registrar of Companies under section 284 (L.N. 412 of 1994; L.N. 85 1996) . | 24.00
+1. | On an inspection of a liquidator’s statement sent to the Registrar of Companies under section 284 (L.N. 412 of 1994; L.N. 85 of 1996; L.N. 468 of 1997) . | 26.00
 
 1A. | On an inspection of a copy of the liquidator’s accounts filed under section 203(4) or (6) (L.N. 202 of 1984; L.N. 198 of 1987) . | 12.00
 
-2. | For a copy of or extract from any such statement— (a) if the copy is made by photographic means— for each page or portion of a page . Provided that, where any copy exceeds in size 210 x 297 mm, such additional fee, not exceeding $5, shall be paid as the Registrar may direct; (L.N. 397 of 1984; L.N. 412 of 1994; L.N. 85 1996) (b) if the copy is made by other means— per page (uncertified) . per page (certified) (L.N. 412 of 1994; L.N. 85 1996) . | 12.00 4.00 7.00
+2. | For a copy of or extract from any such statement— (a) if the copy is made by photographic means— for each page or portion of a page . Provided that, where any copy exceeds in size 210 x 297 mm, such additional fee, not exceeding $5, shall be paid as the Registrar may direct; (L.N. 397 of 1984; L.N. 412 of 1994; L.N. 85 1996; L.N. 468 of 1997) (b) if the copy is made by other means— per page (uncertified) . per page (certified) (L.N. 412 of 1994; L.N. 85 1996; L.N. 468 of 1997) . | 13.00 4.00 8.00
 
 3. | On an application by a committee of inspection to the Official Receiver for a special bank account under section 202 (L.N. 221 of 1989) . | 390.00
 
@@ -54,24 +54,34 @@ TABLE B
 
 (L.N. 198 of 1987)
 
-- III. Where the Official Receiver acts as liquidator of the company and a special manager is appointed (to include the Official Receiver’s services as provisional liquidator)— such amount as the court, on the application of the Official Receiver, may consider reasonable.
+- III.
 
-- IV. In all other cases where the Official Receiver acts as liquidator of the company (to include his services as provisional liquidator—
+- Where the Official Receiver acts as liquidator of the company and a special manager is appointed (to include the Official Receiver’s services as provisional liquidator)—
 
-  - (1) In respect of every 10 members, creditors and debtors, and every fraction of 10 (L.N. 251 of 1981; L.N. 140 of 1985) . 670 (This fee is to include cost of official stationery, printing, books, forms and postages in Hong Kong).
+- such amount as the court, on the application of the Official Receiver, may consider reasonable.
 
-  - (2) Upon the total assets, including the produce of calls on contributories, realized or brought to credit by the Official Receiver, after deducting sums on which fees are chargeable under number V of this Table, and the amount spent out of the money received in carrying on the business of the company, 10%. (L.N. 140 of 1985)
+  - IV. In all other cases where the Official Receiver acts as liquidator of the company (to include his services as provisional liquidator—
 
-  - (3) On the amount distributed in dividend or paid to contributories, preferential creditors, and debenture holders by the Official Receiver, 5%.
+    - (1) In respect of every 10 members, creditors and debtors, and every fraction of 10 (L.N. 251 of 1981; L.N. 140 of 1985) . $670 (This fee is to include cost of official stationery, printing, books, forms and postages in Hong Kong).
 
-- V. Where the Official Receiver collects, calls or realizes property for debenture holders— the same fees as under number IV(2) and (3) of this table, to be paid out of the proceeds of such calls or property.
+    - (2) Upon the total assets, including the produce of calls on contributories, realized or brought to credit by the Official Receiver, after deducting sums on which fees are chargeable under number V of this Table, and the amount spent out of the money received in carrying on the business of the company, 10%. (L.N. 140 of 1985)
 
-- VI. Where the Official Receiver realizes property for secured creditors other than debenture holders— the same fees as under number IV(2) of this table, to be paid out of the proceeds of such property.
+    - (3) On the amount distributed in dividend or paid to contributories, preferential creditors, and debenture holders by the Official Receiver, 5%.
 
-- VII. Where the Official Receiver performs any special duties not provided for under the foregoing numbers in these Tables— such amount as the court, on the application of the Official Receiver may consider reasonable.
+  - V. Where the Official Receiver collects, calls or realizes property for debenture holders—
 
-- VIII. Travelling, keeping possession, law costs, and other reasonable expenses of the Official Receiver-the amount disbursed.
+- the same fees as under number IV(2) and (3) of this table, to be paid out of the proceeds of such calls or property.
 
-- IX. Notwithstanding the fees and percentages prescribed in number I and numbers III to VII of this Table, where the Official Receiver acts as liquidator of the company, the total fees under those numbers shall not be less than $12,150.
+  - VI. Where the Official Receiver realizes property for secured creditors other than debenture holders— the same fees as under number IV(2) of this table, to be paid out of the proceeds of such property.
+
+  - VII.
+
+  - Where the Official Receiver performs any special duties not provided for under the foregoing numbers in these Tables—
+
+  - such amount as the court, on the application of the Official Receiver may consider reasonable.
+
+    - VIII. Travelling, keeping possession, law costs, and other reasonable expenses of the Official Receiver-the amount disbursed.
+
+  - IX. Notwithstanding the fees and percentages prescribed in number I and numbers III to VII of this Table, where the Official Receiver acts as liquidator of the company, the total fees under those numbers shall not be less than $12,150.
 
 (L.N. 140 of 1985)(G.N.A. 106 of 1955; L.N. 52 of 1964; L.N. 9 of 1976; L.N. 251 of 1981; L.N. 140 of 1985; L.N. 270 of 1993; L.N. 431 of 1993; L.N. 569 of 1994; L.N. 93 of 1996; L.N. 168 of 1997)
