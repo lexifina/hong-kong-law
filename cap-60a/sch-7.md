@@ -24,6 +24,8 @@ Brazil
 
 Burkina Faso
 
+Cameroon
+
 Canada
 
 Central African Republic
@@ -84,6 +86,8 @@ Luxembourg
 
 Malaysia
 
+Mali
+
 Malta
 
 Mauritius
@@ -124,6 +128,8 @@ Thailand
 
 Togo
 
+Turkey
+
 Ukraine
 
 United Arab Emirates
@@ -138,4 +144,4 @@ Vietnam
 
 Zimbabwe
 
-(Schedule 7 added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003)
+(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003)
