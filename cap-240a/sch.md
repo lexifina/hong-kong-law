@@ -122,7 +122,7 @@ Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 su
 
 *28. | Defective direction indicator | Regulation 5(4) | $320
 
-*29. | Excess smoke or visible vapour | Regulation 31(1)(a) | $450
+*29. | Excess smoke or visible vapour | Regulation 31(1)(a) | $1,000
 
 *30. | Defective or inadequate dipping mechanism | Regulation 90(2) | $320
 
@@ -134,7 +134,7 @@ Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub.
 
 *33. | Failing to display valid licence | Regulation 25 | $320
 
-Road Traffic (Driving licences) Regulations (Cap. 374 sub. leg.B)
+Road Traffic (Driving licences) Regulations (Cap. 374 sub. leg. B)
 
 33A. | Driving a vehicle without a “P” plate | Regulation 12K(1) | $450
 
@@ -258,7 +258,7 @@ NOTES (Please read carefully)
 
   - 2. Cheques, drafts and cashier orders should be made payable to “Hong Kong Government” and crossed. They should not be made payable to any individual officer. CASH should NOT be sent through the post. Post-dated cheques will not be accepted.
 
-  - 3. If payment is made by post, state the name and address of the person to whom the receipt should be forwarded— Name . Address . (L.N. 82 of 1989; L.N. 332 of 1991; L.N. 60 of 1994; L.N. 211 of 1994;L.N. 533 of 1995; 49 of 2000 s. 14)
+  - 3. If payment is made by post, state the name and address of the person to whom the receipt should be forwarded— Name . Address . (L.N. 82 of 1989; L.N. 332 of 1991; L.N. 60 of 1994; L.N. 211 of 1994; L.N. 533 of 1995; 49 of 2000 s. 14; L.N. 283 of 2000;)
 
 FORM 2 | [reg. 2(2)]
 
