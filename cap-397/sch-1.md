@@ -98,6 +98,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Invest Hong Kong. (Added L.N. 152 of 2000)
 
+- Joint Secretariat for the Advisory Bodies on Civil Service and Judicial Salaries and Conditions of Service. (Added L.N. 253 of 2001)
+
 - Kowloon-Canton Railway Corporation. (Added 44 of 1994 s. 17)
 
 - Labour Department.
@@ -140,10 +142,6 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Registry of Trade Unions.
 
-- Secretariat of the Standing Commission on Civil Service Salaries and Conditions of Service. (Added L.N. 155 of 1996)
-
-- Secretariat of the Standing Committee on Disciplined Services Salaries and Conditions of Service. (Added L.N. 155 of 1996)
-
 - Securities and Futures Commission. (Added 44 of 1994 s. 17)
 
 - Social Welfare Department.
@@ -168,7 +166,7 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Vocational Training Council. (Added L.N. 155 of 1996)
 
-- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38)
+- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001)
 
 - PART II
 
