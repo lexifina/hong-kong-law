@@ -1,0 +1,5 @@
+JUDGMENTS (FACILITIES FOR ENFORCEMENT) RULES
+
+(Cap. 9, section 5)
+
+[14 March 1924]
