@@ -1,0 +1,7 @@
+# SCHEDULE
+
+[s. 4]
+
+AMENDMENTS TO THE CHINESE UNIVERSITY OF HONG KONG ORDINANCE (Cap. 1109)
+
+(Amendments incorporated)
