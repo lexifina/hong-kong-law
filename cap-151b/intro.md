@@ -1,0 +1,5 @@
+SOCIETIES (SUSPENSION OF SECTION 26C) ORDER
+
+(Cap. 151 section 26N(1))
+
+[1 April 1991]
