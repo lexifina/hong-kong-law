@@ -1,0 +1,5 @@
+RATING (MISCELLANEOUS EXEMPTIONS) ORDER
+
+(Cap. 116, section 36(2))
+
+[1 July 1981]
