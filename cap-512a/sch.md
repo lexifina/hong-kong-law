@@ -6,119 +6,107 @@ Column 1 | Column 2 | Column 3
 
 Contracting States to the Convention | Territories specified in declarations under Article 39 or 40 of the Convention | Date of coming into force of the Convention
 
-Republic of Argentina | } }
+Republic of Argentina | 1 September 1997
 
-Commonwealth of Australia | Australian States and Mainland Territories
+Commonwealth of Australia | Australian States and Mainland Territories | 1 September 1997
 
-Republic of Austria
+Republic of Austria | 1 September 1997
 
-Commonwealth of the Bahamas | } } }
+Commonwealth of the Bahamas | 1 September 1997
 
-Belize
+Republic of Belarus | 1 June 1999
 
-Republic of Bosnia and Herzegovina
+Kingdom of Belgium | 1 May 1999
 
-Democratic Republic of Burkina Faso | }
+Belize | 1 September 1997
 
-Canada | Alberta | }
+Republic of Bosnia and Herzegovina | 1 September 1997
 
-British Columbia
+Democratic Republic of Burkina Faso | 1 September 1997
 
-Manitoba | } | 1 September 1997
+Canada | Alberta British Columbia Manitoba New Brunswick Newfoundland Nova Scotia Ontario Prince Edward Island Quebec Saskatchewan Yukon Territory Northwest Territories | 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997
 
-New Brunswick
+Republic of Chile | 1 September 1997
 
-Newfoundland | }
+Republic of Colombia | 1 September 1997
 
-Nova Scotia
+Republic of Croatia | 1 September 1997
 
-Ontario | }
-
-Prince Edward Island
-
-Quebec | }
-
-Saskatchewan
-
-Yukon Territory | }
-
-Northwest Territories
-
-Republic of Chile | }
-
-Republic of Colombia
-
-Republic of Croatia | }
-
-Republic of Cyprus
+Republic of Cyprus | 1 September 1997
 
 Czech Republic | 1 March 1998
 
-Kingdom of Denmark (except the Faroe Islands and Greenland) | }
+Kingdom of Denmark (except the Faroe Islands and Greenland) | 1 September 1997
 
-Republic of Ecuador | }
+Republic of Ecuador | 1 September 1997
 
 Republic of Finland | 1 September 1997
 
-Republic of France (for the whole of the territory of the Republic of France) | }
+Republic of France (for the whole of the territory of the Republic of France) | 1 September 1997
 
 Republic of Georgia | 1 December 1998
 
-Federal Republic of Germany | }
+Federal Republic of Germany | 1 September 1997
 
-Helenic Republic (Greece)
+Helenic Republic (Greece) | 1 September 1997
 
-Republic of Honduras | }
+Republic of Honduras | 1 September 1997
 
-Republic of Hungary
+Republic of Hungary | 1 September 1997
 
-Republic of Iceland | }
+Republic of Iceland | 1 September 1997
 
-Republic of Ireland
+Republic of Ireland | 1 September 1997
 
-State of Israel | }
+State of Israel | 1 September 1997
 
-Republic of Italy
+Republic of Italy | 1 September 1997
 
-Grand-Duchy of Luxembourg | }
+Grand-Duchy of Luxembourg | 1 September 1997
 
-Republic of Macedonia
+Republic of Macedonia | 1 September 1997
 
-Republic of Mauritius | }
+Republic of Mauritius | 1 September 1997
 
 United States of Mexico | 1 September 1997
 
-Principaute de Monaco | } }
+Republic of Moldova | 1 June 1999
 
-Kingdom of the Netherlands (for the Kingdom in Europe)
+Principaute de Monaco | 1 September 1997
 
-New Zealand | }
+Kingdom of the Netherlands (for the Kingdom in Europe) | 1 September 1997
 
-Kingdom of Norway
+New Zealand | 1 September 1997
 
-Republic of Panama | }
+Kingdom of Norway | 1 September 1997
 
-Polish Republic (Poland)
+Republic of Panama | 1 September 1997
 
-Republic of Portugal | } } }
+Polish Republic (Poland) | 1 September 1997
 
-Romania
+Republic of Portugal | 1 September 1997
 
-Federation of Saint Kitts and Nevis
+Macau | 1 March 1999
 
-Republic of Slovenia
+Romania | 1 September 1997
+
+Federation of Saint Kitts and Nevis | 1 September 1997
+
+Republic of Slovenia | 1 September 1997
 
 Republic of South Africa | 1 December 1998
 
-Kingdom of Spain | } }
+Kingdom of Spain | 1 September 1997
 
 Kingdom of Sweden | 1 September 1997
 
-Confederation Suisse (Switzerland)
+Confederation Suisse (Switzerland) | 1 September 1997
 
 Republic of Turkmenistan | 1 December 1998
 
 United Kingdom of Great Britain and Northern Ireland | 1 September 1997
+
+Bermuda | 1 March 1999
 
 Cayman Islands | 1 August 1998
 
@@ -126,10 +114,12 @@ las Islas Malvinas (The Falkland Islands) | 1 June 1998
 
 Isle of Man | 1 September 1997
 
-United States of America | }
+Montserrat | 1 March 1999
+
+United States of America | 1 September 1997
 
 Republic of Venezuela | 1 September 1997
 
-Republic of Zimbabwe
+Republic of Zimbabwe | 1 September 1997
 
-(L.N. 108 of 1999)
+(Schedule replaced L.N. 302 of 1999)
