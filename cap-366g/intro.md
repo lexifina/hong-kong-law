@@ -1,5 +1,7 @@
 DECLARATION OF NUMBER OF PROPOSED DISTRICTS AND SPECIFICATION OF DISTRICT NAMES ORDER
 
-(Cap. 366 section 3(1A))
+(Ceased to be in force)
 
-[4 June 1993]
+Editorial Note:
+
+* Please see 8 of 1999 s. 88(1).
