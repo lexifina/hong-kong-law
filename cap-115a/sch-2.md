@@ -38,7 +38,7 @@ Item | Document or Circumstance | Fee $
 
 15. | (Repealed L.N. 516 of 1996)
 
-16. | Entry permit for multiple entries and valid for 1 year . | 270
+16. | Entry permit for multiple entries and valid for 1 year. | 270
 
 17. | Entry permit for multiple entries and valid for 3 years (L.N. 516 of 1996) | 540
 
@@ -49,5 +49,9 @@ Item | Document or Circumstance | Fee $
 20. | Document of identity valid for 7 years— (a) 44-page document . (b) 92-page document (L.N. 331 of 1994) . | 260 525
 
 21. | An application fee payable by an applicant for an application for a quota allocation under a scheme to import managers and professional persons (L.N. 137 of 1994) . | 500
+
+22. | APEC business travel card valid for a period of not more than 5 years (L.N. 593 of 1997) . | 620
+
+23. | Travel pass valid for not more than 3 years (L.N. 593 of 1997) . | 500
 
 (L.N. 69 of 1991; L.N. 193 of 1992; L.N. 202 of 1993; L.N. 432 of 1997)
