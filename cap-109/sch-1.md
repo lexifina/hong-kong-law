@@ -1,11 +1,3 @@
-## Part VII
-
-(Repealed 35 of 1992 s. 5)
-
-## Part VIII
-
-(Repealed 32 of 1993 s. 4)
-
 # Schedule 1
 
 [ss. 4(1), (2) & 53(2)] (Amended 46 of 1996 s. 32)
