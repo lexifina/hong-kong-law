@@ -74,7 +74,7 @@
 
 - 36. The fifth floor of Urban Council Ap Lei Chau Complex, 8 Hung Shing Street, Ap Lei Chau, Hong Kong.
 
-- 37. Shop No. 201, Level Two, Plover Cove Garden, No. 3 Plover Cove Road, Tai Po.
+- 37. The 5th floor, Tai Po Complex, 8 Heung Sze Wui Street, Tai Po. (L.N. 217 of 2004)
 
 - 38. Second Floor, Regional Council Cheung Chau Complex, No. 2 Tai Hing Tai Road, Cheung Chau.
 
