@@ -1,0 +1,3 @@
+To grant franchises for the construction of a combined road and rail tunnel across the eastern harbour, for the construction of a railway line through the tunnel and of other railway works and the regulation of the construction and maintenance of the works to be constructed; for the payment of tolls to the franchise holder for the use by motor vehicles of the tunnel and the regulation of vehicular traffic in relation to such use; for the transfer by the franchise holder of its right to operate the railway line to the Mass Transit Railway Corporation, and for matters ancillary thereto and connected therewith.
+
+[1 August 1986] L.N. 184 of 1986
