@@ -1,0 +1,9 @@
+# SCHEDULE
+
+[reg. 6]
+
+LABEL A
+
+LABEL B
+
+(L.N. 410 of 1982; L.N. 228 of 1985)
