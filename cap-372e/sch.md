@@ -14,6 +14,8 @@ By-law | Penalty
 
 9 | $5,000 fine
 
+10(1) | $5,000 fine
+
 13(3) | $2,000 fine
 
 15 | $5,000 fine
@@ -66,4 +68,4 @@ By-law | Penalty
 
 40(4) | $3,000 fine and 3 months imprisonment
 
-(L.N. 205 of 1994)
+(L.N. 205 of 1994; L.N. 6 of 1998)
