@@ -1,0 +1,59 @@
+# SCHEDULE
+
+[ss. 2 & 3]
+
+SCALES OF AMOUNTS OF CONTRIBUTIONS TO BE MADE IN RESPECT OF CASUAL EMPLOYEES
+
+- PART I Scale of amounts of contributions to be made in the case of a
+
+- casual employee to whom an employer pays the relevant
+
+- income more than once a day
+
+Total amount of relevant income paid by an employer to a casual employee in a day | Total amount to be contributed by the employer for that day | Total amount to be deducted by the employer from the employee’s relevant income for that day
+
+Less than $130.00 | $7.5 | Nil
+
+$130.00 or more but less than $260.00 | $7.5 | $7.5
+
+$260.00 or more but less than $390.00 | $15.00 | $15.00
+
+$390.00 or more but less than $520.00 | $22.5 | $22.5
+
+$520.00 or more but not more than $650.00 | $30.00 | $30.00
+
+More than $650.00 | $30.00 | $30.00
+
+- PART II Scale of amounts of contributions to be made in the case of a
+
+- casual employee to whom an employer pays the relevant
+
+- income at least, but not more than, once a day
+
+Amount of relevant income paid by an employer to a casual employee in a day | Amount to be contributed by the employer for that day | Amount to be deducted by the employer from the employee’s relevant income for that day
+
+Less than $130.00 | $7.5 | Nil
+
+$130.00 or more but less than $260.00 | $7.5 | $7.5
+
+$260.00 or more but less than $390.00 | $15.00 | $15.00
+
+$390.00 or more but less than $520.00 | $22.5 | $22.5
+
+$520.00 or more but not more than $650.00 | $30.00 | $30.00
+
+More than $650.00 | $30.00 | $30.00
+
+- PART III Scale of amounts of contributions to be made in the case of a
+
+- casual employee to whom an employer pays the relevant
+
+- income less frequently than once a day
+
+Average amount of relevant income paid by an employer to a casual employee per day in a contribution period | Amount to be contributed by the employer for that contribution period | Amount to be deducted by the employer from the employee’s relevant income for that contribution period
+
+Less than $130.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | Nil
+
+$130.00 or more but not more than $650.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | 5% of the relevant income paid by the employer to the employee for that contribution period
+
+More than $650.00 | $32.5 per day in that contribution period | $32.5 per day in that contribution period
