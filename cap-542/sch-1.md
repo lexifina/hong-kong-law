@@ -78,7 +78,7 @@ Constituency | Electors
 
 (28) | Fish Farming and Stuff Association.
 
-(29) | Fishery Development Association (Hong Kong) Limited.
+(29) | Fishery Development Association (Hong Kong Limited.
 
 (30) | 南丫島蘆荻灣養殖業協會.
 
@@ -488,8 +488,6 @@ Insurers authorized or deemed to be authorized under the Insurance Companies Ord
 
 PART 3
 
-Column 1 Constituency | Column 2 Electors
-
 7. | Education functional constituency | (1) | Full-time academic staff engaged in teaching or research and administrative staff of equivalent rank in— (a) institutions of higher education funded through the University Grants Committee; (b) approved post secondary colleges registered under the Post Secondary Colleges Ordinance (Cap. 320); (c) technical colleges established under the Vocational Training Council Ordinance (Cap. 1130); (d) The Hong Kong Academy for Performing Arts; (e) The Open University of Hong Kong.
 
 (2) | Members of— (a) the Council of the University of Hong Kong; (b) the Council of The Chinese University of Hong Kong; (c) the Council of The Hong Kong University of Science and Technology; (d) the Council of the City University of Hong Kong; (e) the Council of The Hong Kong Polytechnic University; (f) the Council of The Hong Kong Academy for Performing Arts; (g) the Council of The Open University of Hong Kong; (h) the Council of the Vocational Training Council; (i) the Council of The Hong Kong Institute of Education; (j) the Council of the Hong Kong Baptist University; (k) the Board of Governors of the Lingnan College; (l) the Board of Governors of the Hong Kong Shue Yan College.
@@ -514,7 +512,7 @@ Column 1 Constituency | Column 2 Electors
 
 (5) | Persons deemed to be legal officers for the purpose of the Legal Officers Ordinance (Cap. 87) by section 75(3) of the Bankruptcy Ordinance (Cap. 6) or section 3(3) of the Director of Intellectual Property (Establishment) Ordinance (Cap. 412).
 
-(6) | The Legal Adviser of the Legislative Council Secretariat (including the Provisional Legislative Council Secretariat) and his assistants who are in the full-time employment of The Legislative Council Commission (including The Provisional Legislative Council Commission) and are barristers or solicitors as defined in the Legal Practitioners Ordinance (Cap. 159).
+(6) | The Legal Adviser of the Legislative Council Secretariat (including the Provisional Legislative Council Secretariat) and his assistants who are in the full-time employment of the Legislative Council Commission (including The Provisional Legislative Council Commission) and are barristers or solicitors as defined in the Legal Practitioners Ordinance (Cap. 159).
 
 9. | Accountancy functional constituency | Professional accountants registered under the Professional Accountants Ordinance (Cap. 50).
 
@@ -572,13 +570,13 @@ Column 1 Constituency | Column 2 Electors
 
 (2) | Social workers registered under the Social Workers Registration Ordinance (Cap. 505).
 
-(3) | Exempted societies within the meaning of the Societies Ordinance (Cap. 151) whose aims are as follows—
+(3) | Exempted societies within the meaning of the Societies Ordinance (Cap. 151) who have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as an elector— (Amended L.N. 495 of 1997)
 
-(a) to promote the co-ordination and improvement of social service activities; (b) to develop resources, such as manpower, funds and data, for social service activities; or (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs.
+(a) to promote the co-ordination and improvement of social service activities; (b) to develop resources, such as manpower, funds and data, for social service activities; or (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs, and who publish their annual report and audited accounts or certified accounts with regards to annual income and expenditure. (Amended L.N. 495 of 1997)
 
-(4) | Non-profit making companies registered under the Companies Ordinance (Cap. 32) whose aims are as follows—
+(4) | Non-profit making companies registered under the Companies Ordinance (Cap. 32) who have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as an elector— (Amended L.N. 495 of 1997)
 
-(a) to promote the co-ordination and improvement of social service activities; (b) to develop resources, such as manpower, funds and data, for social service activities; or (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs.
+(a) to promote the co-ordination and improvement of social service activities; (b) to develop resources, such as manpower, funds and data, for social service activities; or (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs, and who publish their annual report and audited accounts or certified accounts with regards to annual income and expenditure. (Amended L.N. 495 of 1997)
 
 16. | Real Estate and Construction functional constituency | (1) | Members of The Real Estate Developers Association of Hong Kong entitled to vote at general meetings of the Association.
 
@@ -776,7 +774,7 @@ Column 1 Constituency | Column 2 Electors
 
 (5) | Textiles & Clothing manufacturers registered under the Factory Registration of the Trade Department for the purpose of applying for the certificate of Hong Kong origin.
 
-(6) | Textiles traders who are registered by the Director-General of Trade as Textiles Traders pursuant to regulation 5A of the Import and Export (General) Regulations (Cap. 60 sub. leg.) and are carrying on business of— (a) importing textiles from any country or place; (b) exporting textiles that are not entitled to a certificate of Hong Kong origin to any country or place; or (c) exporting textiles that are entitled to a certificate of Hong Kong origin to a country or place with which Hong Kong does not have a bilateral textiles agreement to control exports of textiles from Hong Kong to the country or place.
+(6) | Textiles traders who are registered by the Director-General of Trade as Textiles Traders pursuant to regulation 5A of the Import and Export (General) Regulations (Cap. 60 sub. leg.) and have been so registered for a period of 12 months immediately before making the application for registration as an elector and are carrying on business of— (Amended L.N. 495 of 1997) (a) importing textiles from any country or place; (b) exporting textiles that are not entitled to a certificate of Hong Kong origin to any country or place; or (c) exporting textiles that are entitled to a certificate of Hong Kong origin to a country or place with which Hong Kong does not have a bilateral textiles agreement to control exports of textiles from Hong Kong to the country or place.
 
 27. | Wholesale and retail functional constituency | Members of— (1) The Association of Retailers and Tourism Services;
 
@@ -1017,3 +1015,27 @@ entitled to vote at general meetings of the respective bodies.
     - (3) In this section—
 
       - “constitution” (章程), in relation to a body, includes articles of association and rules.
+
+  - 2. Non-profit making companies A non-profit making company referred to in paragraph (4) of item 15 of Part 3 means a company formed for the purpose of promoting the objects specified in subparagraphs (a) to (c) of that paragraph and is required by its constitution to apply its profits, if any, or other income solely in promoting those objects and to prohibit the payment of any dividend to its members. (Added L.N. 495 of 1997)
+
+  - 3.
+
+  - Social service
+
+  - Social service referred to in paragraphs (3) and (4) of item 15 of Part 3 means the provision of any one or more of the following services for the benefit of the community—
+
+    - (a) family and child welfare services;
+
+    - (b) services for young people;
+
+    - (c) services for the elderly;
+
+    - (d) services for offenders;
+
+    - (e) rehabilitation services;
+
+    - (f) community development; or
+
+    - (g) social security.
+
+  - (Added L.N. 495 of 1997)
