@@ -912,7 +912,7 @@ Item Body
 
 - 452. Medipharma Limited (Added L.N. 279 of 1994)
 
-- 453. Ming Lee Tool - Steel and Machines Company Limited (Added L.N. 279 of 1994)
+- 453. Ming Lee Tool-Steel and Machines Company Limited (Added L.N. 279 of 1994)
 
 - 454. The Royal HK Golf Club (Added L.N. 279 of 1994)
 
@@ -1260,7 +1260,7 @@ Item Body
 
 - 626. Ornate Collections (Added L.N. 429 of 1994)
 
-- 627. Panalpina (Hong Kong - China) Ltd (Added L.N. 429 of 1994)
+- 627. Panalpina (Hong Kong-China) Ltd (Added L.N. 429 of 1994)
 
 - 628. Pansy Jewellery (Internationl) Co Ltd (Added L.N. 429 of 1994)
 
@@ -1965,3 +1965,9 @@ Item Body
 - 978. Management Society for Healthcare Professionals (Added L.N. 65 of 1997)
 
 - 979. The Hong Kong E&M Contractors’ Association Limited (Added L.N. 287 of 1997)
+
+- 980. Hong Kong Red Cross (Added L.N. 317 of 1998)
+
+- 981. Hong Kong Federation of Women’s Centre (Added L.N. 317 of 1998)
+
+- 982. The Federation of Hong Kong and Kowloon Labour Unions (Added L.N. 317 of 1998)
