@@ -22,19 +22,17 @@
 
 - PART II DUTY ON TOBACCO
 
-  - 1.
-
-  - Duty shall be payable on tobacco at the following rates— (Amended L.N. 204 of 1999; 57 of 2000 s. 9)
+  - 1. Duty shall be payable on tobacco at the following rates— (Amended L.N. 204 of 1999; 57 of 2000 s. 9)
 
   - $
 
-    - (a) for each 1000 cigarettes . 804
+  - (a) | for each 1000 cigarettes . | 804
 
-    - (b) cigars . 1035/kg
+  - (b) | cigars . | 1035/kg
 
-    - (c) Chinese prepared tobacco . 197/kg
+  - (c) | Chinese prepared tobacco . | 197/kg
 
-    - (d) all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . 974/kg
+  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . | 974/kg
 
   - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2)
 
@@ -44,7 +42,9 @@
 
 - PART III DUTY ON HYDROCARBON OIL
 
-  - 1. Subject to paragraph 1A, duty shall be payable on hydrocarbon oil at the following rates per litre— (Amended L.N. 233 of 2000) $
+  - 1. Subject to paragraph 1A, duty shall be payable on hydrocarbon oil at the following rates per litre— (Amended L.N. 233 of 2000)
+
+  - $
 
   - (a) | aircraft spirit . | 6.51
 
@@ -58,13 +58,13 @@
 
   - 1A. Duty shall be payable on ultra low sulphur diesel at the following rates—
 
-    - (a) from 7 July 2000 to 31 March 2003 (both dates inclusive), at $1.11 per litre; and (Amended L.N. 150 of 2001)
+    - (a) from 7 July 2000 to 31 March 2004 (both dates inclusive), at $1.11 per litre; and (Amended L.N. 150 of 2001)
 
-    - (b) from 1 April 2003, at $2.89 per litre. (Replaced L.N. 150 of 2001)
+    - (b) from 1 April 2004, at $2.89 per litre. (Replaced L.N. 150 of 2001)
 
     - (c) (Repealed L.N. 150 of 2001)
 
-  - (Added L.N. 233 of 2000. Amended L.N. 364 of 2000; L.N. 39 of 2002)
+  - (Added L.N. 233 of 2000. Amended L.N. 364 of 2000; L.N. 39 of 2002; L.N. 76 of 2003)
 
   - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; 21 of 1998 s. 2)
 
