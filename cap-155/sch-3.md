@@ -102,123 +102,135 @@ CAPITAL ADEQUACY RATIO
 
   - (c) its share premium account;
 
-  - (d) its reserves other than those referred to in subparagraphs (e), (h), (ha) and (i); (Amended L.N. 326 of 1999)
+  - (d) its reserves other than those referred to in subparagraphs (e), (h), (ha) and (i): (Amended L.N. 326 of 1999)
 
-  - (e) its profit and loss account including its current year’s profit or loss;
+    - Provided that the amount to be included under this subparagraph as at a particular date shall be net of dividends proposed or declared by the authorized institution after that date that are recorded or required to be recorded as equity on its balance sheet as at that date; (Amended L.N. 164 of 2001)
 
-  - (f) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, minority interests arising on such consolidation in the equity of its subsidiaries, provided that the minority interests arising on consolidation in the paid-up irredeemable non-cumulative preference shares of all its subsidiaries which are special purpose vehicles shall not exceed 15% of its Core Capital (including such minority interests) in total: (Amended 95 of 1991 s. 52; L.N. 273 of 2000)
+  - (e) its profit and loss account including its current year’s profit or loss:
 
-    - Provided that the amount to be included as Core Capital shall be determined by deducting therefrom the book value calculated in Hong Kong dollars of the goodwill of the institution;
+    - Provided that the amount to be included under this subparagraph as at a particular date shall be net of dividends proposed or declared by the authorized institution after that date that are recorded or required to be recorded as equity on its balance sheet as at that date; (Amended L.N. 164 of 2001)
 
-  - Category II-Supplementary Capital
-
-  - (g) (Repealed L.N. 326 of 1999)
-
-  - (h) its reserves on revaluation of—
-
-    - (i) its land and interests in land other than any interest in land mortgaged to it to secure a debt; and
-
-    - (ii) its share of the net asset value of any subsidiary to the extent that such value has changed as a result of a revaluation of such subsidiary’s land and interests in land other than any interest in land mortgaged to such subsidiary to secure a debt:
-
-      - Provided that the amount of reserves for each of sub-subparagraphs (i) and (ii) to be included in Supplementary Capital shall not exceed—
-
-    - (A) 70% of surplus, if any, on revaluation of each of sub-subparagraphs (i) and (ii) respectively; and
-
-    - (B)
-
-    - their respective amounts included in Supplementary Capital as at 31 December 1998. (Replaced L.N. 326 of 1999)
-
-      - For the purpose of this subparagraph “reserves” (儲備) includes any shares issued by the authorized institution through capitalising reserves arising from revaluation of sub-subparagraphs (i) and (ii); (Replaced L.N. 336 of 1996)
-
-  - (ha) its reserves on revaluation of its holding of securities not held for trading purposes:
+  - (f) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, minority interests arising on such consolidation in the equity of its subsidiaries: (Amended 95 of 1991 s. 52; L.N. 273 of 2000)
 
     - Provided that—
 
-    - (i) the amount of overall surplus, if any, on revaluation to be included in Supplementary Capital shall be limited to 70% of such surplus;
+    - (i) the minority interests arising on consolidation in the paid-up irredeemable non-cumulative preference shares of all its subsidiaries which are special purpose vehicles shall not exceed 15% of its Core Capital (including such minority interests) in total; and
 
-    - (ii) the amount of overall deficit, if any, on revaluation shall be deducted from Supplementary Capital; (Added L.N. 326 of 1999)
+    - (ii) the amount to be included under this subparagraph as at a particular date shall be net of dividends proposed or declared by the authorized institution’s subsidiaries after that date that are recorded or required to be recorded as equity on the subsidiaries’ balance sheets as at that date: (Amended L.N. 164 of 2001)
 
-  - (i) its latent reserves (i.e. the difference between the market value and the book value) determined upon revaluation, of long-term holding of equity securities listed on the United Exchange or on any exchange referred to in the Schedule to the *Securities (Specification of Approved Assets, Liquid Assets and Ranking Liabilities) Notice (Cap. 333 sub. leg.): (Amended L.N. 210 of 1990; L.N. 63 of 1991)
+      - Provided that the amount to be included as Core Capital shall be determined by deducting therefrom the book value calculated in Hong Kong dollars of the goodwill of the institution;
 
-    - Provided that—
+Category II-Supplementary Capital
 
-    - (i) the amount of overall surplus, if any, on revaluation to be included in Supplementary Capital shall be limited to 45% of such surplus;
+- (g) (Repealed L.N. 326 of 1999)
 
-    - (ii) the amount of overall deficit, if any, on revaluation shall be deducted from Supplementary Capital; (Replaced L.N. 326 of 1999)
+- (h) its reserves on revaluation of—
 
-  - (j) its general provisions against doubtful debts but not including any provisions against specific or identified losses and against the diminution in the value of particular assets:
+  - (i) its land and interests in land other than any interest in land mortgaged to it to secure a debt; and
 
-    - Provided that the amount included under this subparagraph may not exceed 1.25% of the figure derived by the calculation specified in subparagraph (a) of paragraph 4 carried out in relation to the authorized institution; (Amended L.N. 210 of 1990)
+  - (ii) its share of the net asset value of any subsidiary to the extent that such value has changed as a result of a revaluation of such subsidiary’s land and interests in land other than any interest in land mortgaged to such subsidiary to secure a debt:
 
-  - (k) its perpetual subordinated debt where the Monetary Authority is satisfied that under the terms of the debt instrument the following conditions are met—
+    - Provided that the amount of reserves for each of sub-subparagraphs (i) and (ii) to be included in Supplementary Capital shall not exceed—
 
-    - (i) the claims of the lender against the authorized institution are fully subordinated to those of all unsubordinated creditors;
-
-    - (ii) the debt is not secured against any assets of the authorized institution;
-
-    - (iii) the money advanced to the authorized institution is permanently available to it;
-
-    - (iv) the debt is not repayable without the prior consent of the Monetary Authority;
-
-    - (v) the money advanced to the authorized institution is available to meet losses without the institution being obliged to cease trading;
-
-    - (vi) the authorized institution is entitled to defer the payment of interest where its profitability will not support such payment;
-
-  - (l) its paid-up irredeemable cumulative preference shares, that is to say, shares that are irredeemable or that may be redeemed only with the prior consent of the Monetary Authority;
-
-  - (m) its term subordinated debt, where the Monetary Authority is satisfied that under the terms of the debt instrument the following conditions are met—
-
-    - (i) the claims of the lender against the authorized institution are fully subordinated to those of all unsubordinated creditors;
-
-    - (ii) the debt is not secured against any assets of the authorized institution;
-
-    - (iii) the debt has a minimum initial period to maturity of more than 5 years (and notwithstanding that that period may be reduced with the prior consent of the Monetary Authority); (Amended L.N. 210 of 1990)
-
-    - (iv) where the debt is repaid prior to maturity, the debt is not repayable without the prior consent of the Monetary Authority: (Amended L.N. 449 of 1994)
-
-      - Provided that—
-
-    - (A) amounts included under this subparagraph shall be discounted by 20% each year during the 4 years immediately preceding maturity; and
-
-    - (B) the total amount included under this subparagraph and subparagraph (n) shall not exceed in total, 50% of the total of the Core Capital;
-
-  - (n) its paid-up term preference shares, where the Monetary Authority is satisfied that the shares have been issued and remain subject to the following conditions—
-
-    - (i) the shares have a minimum initial period to maturity of more than 5 years;
-
-    - (ii) the shares are not redeemable without the prior consent of the Monetary Authority:
-
-      - Provided that—
-
-    - (A) amounts included under this subparagraph shall be discounted by 20% of the original amount each year during the 4 years immediately preceding maturity; and
-
-    - (B) the total amount included under this subparagraph and subparagraph (m) shall not exceed in total, 50% of the total of the Core Capital; and
-
-  - (o) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, any minority interests arising on such consolidation in—
-
-    - (i) the paid-up irredeemable cumulative preference shares and paid-up term preference shares of its subsidiaries; and
-
-    - (ii) the paid-up irredeemable non-cumulative preference shares of all its subsidiaries which are special purpose vehicles in excess of the amount permitted for inclusion as its Core Capital: (Amended 95 of 1991 s. 52; L.N. 273 of 2000)
-
-      - Provided that the amount to be included as Supplementary Capital shall not exceed the total of the amount determined as Core Capital,
-
-- and by deducting therefrom the sum calculated in Hong Kong dollars of the book value of—
-
-  - (A) its shareholding in any company which is a subsidiary or holding company of the authorized institution, other than—
-
-    - (i) any shareholding that falls to be deducted under subparagraph (B), (C), (D);
-
-    - (ii) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, its shareholding in any subsidiary the subject of such consolidation; and (Amended 95 of 1991 s. 52; L.N. 336 of 1996)
-
-    - (iii) the authorized institution’s reserves arising from the revaluation of the land and interests in land of any subsidiary not falling within the meaning of reserves under subparagraph (h); (Added L.N. 336 of 1996)
+  - (A) 70% of surplus, if any, on revaluation of each of sub-subparagraphs (i) and (ii) respectively; and
 
   - (B)
 
-    - its loans to, shares and debentures issued by, and its guarantees of the liabilities of, connected companies of the authorized institution (other than shares that fall to be deducted under subparagraph (D)), where in the opinion of the Monetary Authority the institution has made the loans, is holding the shares or debentures or, as the case may be, has given the guarantees, other than in the ordinary course of business; and for the purposes of this subparagraph “shares” (股份) and “debentures” (債權證) mean shares and debentures within the meaning of section 2(1) of the Companies Ordinance (Cap. 32), and a company shall be treated as a connected company of the institution if it is a subsidiary or the holding company of the institution, or is otherwise of a description falling within section 64(1)(b), (c), (d) or (e);
+  - their respective amounts included in Supplementary Capital as at 31 December 1998. (Replaced L.N. 326 of 1999)
 
-  - (C) its shareholding in any company in which the authorized institution is entitled to exercise, or control the exercise of, more than 20% of the voting power at general meetings of the company; and
+    - For the purpose of this subparagraph “reserves” (儲備) includes any shares issued by the authorized institution through capitalising reserves arising from revaluation of sub-subparagraphs (i) and (ii); (Replaced L.N. 336 of 1996)
 
-  - (D) its holding of shares, stocks or debt securities issued by any bank unless the Monetary Authority is satisfied that the holding is not the subject of an arrangement in which 2 or more persons agree to hold each other’s capital or is not otherwise a strategic investment.
+- (ha) its reserves on revaluation of its holding of securities not held for trading purposes:
+
+  - Provided that—
+
+  - (i) the amount of overall surplus, if any, on revaluation to be included in Supplementary Capital shall be limited to 70% of such surplus;
+
+  - (ii) the amount of overall deficit, if any, on revaluation shall be deducted from Supplementary Capital; (Added L.N. 326 of 1999)
+
+- (i) its latent reserves (i.e. the difference between the market value and the book value) determined upon revaluation, of long-term holding of equity securities listed on the Unified Exchange or on any exchange referred to in the Schedule to the *Securities (Specification of Approved Assets, Liquid Assets and Ranking Liabilities) Notice (Cap. 333 sub. leg.): (Amended L.N. 210 of 1990; L.N. 63 of 1991)
+
+  - Provided that—
+
+  - (i) the amount of overall surplus, if any, on revaluation to be included in Supplementary Capital shall be limited to 45% of such surplus;
+
+  - (ii) the amount of overall deficit, if any, on revaluation shall be deducted from Supplementary Capital; (Replaced L.N. 326 of 1999)
+
+- (j) its general provisions against doubtful debts but not including any provisions against specific or identified losses and against the diminution in the value of particular assets:
+
+  - Provided that the amount included under this subparagraph may not exceed 1.25% of the figure derived by the calculation specified in subparagraph (a) of paragraph 4 carried out in relation to the authorized institution; (Amended L.N. 210 of 1990)
+
+- (k) its perpetual subordinated debt where the Monetary Authority is satisfied that under the terms of the debt instrument the following conditions are met—
+
+  - (i) the claims of the lender against the authorized institution are fully subordinated to those of all unsubordinated creditors;
+
+  - (ii) the debt is not secured against any assets of the authorized institution;
+
+  - (iii) the money advanced to the authorized institution is permanently available to it;
+
+  - (iv) the debt is not repayable without the prior consent of the Monetary Authority;
+
+  - (v) the money advanced to the authorized institution is available to meet losses without the institution being obliged to cease trading;
+
+  - (vi) the authorized institution is entitled to defer the payment of interest where its profitability will not support such payment;
+
+- (l) its paid-up irredeemable cumulative preference shares, that is to say, shares that are irredeemable or that may be redeemed only with the prior consent of the Monetary Authority;
+
+- (m) its term subordinated debt, where the Monetary Authority is satisfied that under the terms of the debt instrument the following conditions are met—
+
+  - (i) the claims of the lender against the authorized institution are fully subordinated to those of all unsubordinated creditors;
+
+  - (ii) the debt is not secured against any assets of the authorized institution;
+
+  - (iii) the debt has a minimum initial period to maturity of more than 5 years (and notwithstanding that that period may be reduced with the prior consent of the Monetary Authority); (Amended L.N. 210 of 1990)
+
+  - (iv) where the debt is repaid prior to maturity, the debt is not repayable without the prior consent of the Monetary Authority: (Amended L.N. 449 of 1994)
+
+    - Provided that—
+
+  - (A) amounts included under this subparagraph shall be discounted by 20% each year during the 4 years immediately preceding maturity; and
+
+  - (B) the total amount included under this subparagraph and subparagraph (n) shall not exceed in total, 50% of the total of the Core Capital;
+
+- (n) its paid-up term preference shares, where the Monetary Authority is satisfied that the shares have been issued and remain subject to the following conditions—
+
+  - (i) the shares have a minimum initial period to maturity of more than 5 years;
+
+  - (ii) the shares are not redeemable without the prior consent of the Monetary Authority:
+
+    - Provided that—
+
+  - (A) amounts included under this subparagraph shall be discounted by 20% of the original amount each year during the 4 years immediately preceding maturity; and
+
+  - (B) the total amount included under this subparagraph and subparagraph (m) shall not exceed in total, 50% of the total of the Core Capital; and
+
+- (o) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, any minority interests arising on such consolidation in—
+
+  - (i) the paid-up irredeemable cumulative preference shares and paid-up term preference shares of its subsidiaries; and
+
+  - (ii) the paid-up irredeemable non-cumulative preference shares of all its subsidiaries which are special purpose vehicles in excess of the amount permitted for inclusion as its Core Capital: (Amended 95 of 1991 s. 52; L.N. 273 of 2000)
+
+    - Provided that the amount to be included under this subparagraph as at a particular date shall be net of dividends proposed or declared by the authorized institution’s subsidiaries after that date that are recorded or required to be recorded as equity on the subsidiaries’ balance sheets as at that date: (Amended L.N. 164 of 2001)
+
+    - Provided that the amount to be included as Supplementary Capital shall not exceed the total of the amount determined as Core Capital,
+
+- and by deducting therefrom the sum calculated in Hong Kong dollars of the book value of—
+
+- (A) its shareholding in any company which is a subsidiary or holding company of the authorized institution, other than—
+
+  - (i) any shareholding that falls to be deducted under subparagraph (B), (C), (D);
+
+  - (ii) where the Monetary Authority requires under section 79A(1) a provision of Part XV to apply to the authorized institution on a consolidated basis, or requires under section 98(2) the capital adequacy ratio of the authorized institution to be calculated on a consolidated basis, its shareholding in any subsidiary the subject of such consolidation; and (Amended 95 of 1991 s. 52; L.N. 336 of 1996)
+
+  - (iii) the authorized institution’s reserves arising from the revaluation of the land and interests in land of any subsidiary not falling within the meaning of reserves under subparagraph (h); (Added L.N. 336 of 1996)
+
+- (B)
+
+  - its loans to, shares and debentures issued by, and its guarantees of the liabilities of, connected companies of the authorized institution (other than shares that fall to be deducted under subparagraph (D)), where in the opinion of the Monetary Authority the institution has made the loans, is holding the shares or debentures or, as the case may be, has given the guarantees, other than in the ordinary course of business; and for the purposes of this subparagraph “shares” (股份) and “debentures” (債權證) mean shares and debentures within the meaning of section 2(1) of the Companies Ordinance (Cap. 32), and a company shall be treated as a connected company of the institution if it is a subsidiary or the holding company of the institution, or is otherwise of a description falling within section 64(1)(b), (c), (d) or (e);
+
+- (C) its shareholding in any company in which the authorized institution is entitled to exercise, or control the exercise of, more than 20% of the voting power at general meetings of the company; and
+
+- (D) its holding of shares, stocks or debt securities issued by any bank unless the Monetary Authority is satisfied that the holding is not the subject of an arrangement in which 2 or more persons agree to hold each other’s capital or is not otherwise a strategic investment.
 
 - 4. The risk weighted exposure of an authorized institution shall be that figure derived by—
 
