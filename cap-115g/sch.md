@@ -1,0 +1,13 @@
+# SCHEDULE
+
+[para. 2]
+
+- 1. (Repealed L.N. 143 of 1992)
+
+- 2. Pillar Point Vietnamese Refugee Centre, being the area near Tuen Mun outlined in red and coloured green on a plan numbered SRHK-OT87/140A signed by the Secretary for Security and dated 12 October 1988 copies of which are deposited in the offices of the Security Branch of the Government Secretariat, Central Government Offices, Hong Kong and at the Pillar Point Vietnamese Refugee Centre. (L.N. 255 of 1989)
+
+- 3. (Repealed L.N. 74 of 1996)
+
+- 4. New Horizons Vietnamese Refugee Departure Centre situated at Kwun Tong Road and Wang Chiu Road, being the Ground and the First Floors of the building known as the New Horizons School Building shown coloured green and all the land and buildings shown coloured pink on a plan numbered KM4264 signed by the Secretary for Security and dated 14 April 1992, copies of which are deposited in the offices of the Security Branch of the Government Secretariat, Central Government Offices, Hong Kong and at the New Horizons Vietnamese Refugee Departure Centre. (L.N. 105 of 1992)
+
+- 5. (Repealed L.N. 394 of 1991)
