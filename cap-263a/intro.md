@@ -1,0 +1,5 @@
+TRADE MARKS (EMERGENCY) RULES
+
+(Cap. 263 section 8)
+
+[19 April 1940]
