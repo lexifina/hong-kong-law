@@ -1,0 +1,5 @@
+LEGISLATIVE COUNCIL (DATE OF GENERAL ELECTION) NOTICE 1995
+
+(Cap. 367 section 5A(3) and Cap. 381 section 3(3))
+
+[21 July 1995]
