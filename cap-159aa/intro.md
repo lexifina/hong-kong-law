@@ -1,0 +1,5 @@
+BARRISTERS (ADMISSION) RULES
+
+(Cap. 159, section 72)
+
+[28 March 2003] L.N. 88 of 2003
