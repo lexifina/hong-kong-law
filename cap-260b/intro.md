@@ -1,0 +1,5 @@
+PROTECTED PLACES (POLICE GUARDS) ORDER
+
+(Cap. 260, section 3)
+
+[11 July 1952]
