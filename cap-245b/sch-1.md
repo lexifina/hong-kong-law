@@ -2,64 +2,68 @@
 
 [para. 2]
 
-(All map references are taken from Edition 1-GSGS, Series L. 8811).
+(Grid system: Universal Transverse Mercator (UTM) Grid. Geodetic datum: WGS 84.)
 
 Item | Location | Remarks
 
 HONG KONG ISLAND
 
-1. | Depot and Earth Station, Chung Hom Kok | Area enclosed by perimeter fence at KV 11305930: KV 11325937: KV 11405944: KV 11555951: KV 11585951: KV 11615949: KV 11595944: KV 11615941: KV 11605937: KV 11635934: KV 11605927: KV 11305930.
+1. | Central Barracks | Area enclosed by perimeter wall at KK07686685:KK07836680:KK07786666: KK07706670:KK07616682:KK07686685.
 
-2. | (Repealed L.N. 265 of 1988)
+2. | Chek Chue Barracks | Area enclosed by fence and coastline at KK12545807:KK12975827:KK13335819: KK13715765:KK13235701:KK12455730: KK12545807.
 
-3. | H.M.S. Tamar | Area enclosed by wall and sea frontage at KV 07366707: KV 07656704: KV 07826692: KV 07786686: KV 07846681: KV 07786673: Harcourt Road through KV 07346696: KV 07366708.
+3. | Headquarters House | Area enclosed by perimeter wall/fence at KK07336555:KK07396557:KK07456557: KK07456554:KK07376550:KK07336555.
 
-4.-5. | (Repealed L.N. 587 of 1994)
+4. | Ching Yi To Barracks | Area enclosed by perimeter wall/fence at KK08086631:KK08136627:KK08056615: KK07956612:KK07906616:KK08016623: KK08086631.
 
-5A. | (Repealed L.N. 437 of 1995)
+5. | Western Barracks | Area enclosed by perimeter wall at KK05316705:KK05336705:KK05356701: KK05306702:KK05316705.
 
 KOWLOON
 
-6. | Gun Club Hill Barracks | The area enclosed by perimeter wall / fence / gateway at junction Chatham Road South / Austin Road KV 08886931: junction Chatham Road South / Gascoigne Road at KV 09016959: KV 08546967: KV 08746935: KV 08886931.
+6. | Gun Club Hill Barracks | Area enclosed by perimeter wall/fence at KK08806947:KK08886950:KK09076946: KK09286938:KK09146910:KK09006914: KK08896933:KK08806947.
 
-7. | British Military Hospital, Kings Park | Grid reference KV 088701: Wylie Road: KV 089699: Retaining wall: KV 090698: KV 091698: Princess Margaret Road: Wylie Road.
+7. | Kowloon East Barracks | Area enclosed by perimeter wall/fence at KK09487307:KK09707307:KK09667263: KK09437264:KK09487307.
 
-8.-9. | (Repealed L.N. 265 of 1988)
+8. | 1A, Cornwall Street | Area enclosed by perimeter wall at KK09197318:KK09247318:KK09247316: KK09207315:KK09197318.
+
+9. | Ngong Shuen Chau Barracks | Area enclosed by fence, coastline and sea frontage at KK05037165:KK05447128: KK05957145:KK06137117:KK05607050: KK05287082:KK05157082:KK05207049: KK04777042:KK04767034:KK04687074: KK04497084:KK04407117:KK05037165.
 
 NEW TERRITORIES
 
-10. | Sek Kong Airfield and Camp | Area enclosed by perimeter fence at JV 98218467: JV 98458469: JV 98648461: JV 98768463: JV 98768471: Sek Kong Au Tau Road JV 99648478: Stream: KV 00128397: KV 00058381: Drainage Ditch: JV 98678406: JV 98588443: JV 98308453: JV 98218467.
+10. | Shek Kong Barracks | Area enclosed by perimeter fence at JK98488446:JK98728448:JK99028438: JK99018449:JK99748461:KK00188391: KK00358369:JK99288366:JK98868424: JK98488446.
 
-11. | (Repealed L.N. 587 of 1994)
+11. | Shek Kong Village | Area enclosed by fence and boundary stones at KK01958343:KK02528304: KK02838258:KK02838225:KK02388277: KK01958343;
 
-12. | (Repealed L.N. 265 of 1988)
+area enclosed by fence and boundary stones at KK01888314:KK01988337: KK02328299:KK02148292:KK01888314;
 
-13. | (Repealed L.N. 587 of 1994)
+area enclosed by fence and boundary stones at KK02188270:KK02328292: KK02408289:KK02738260:KK02838225: KK02928204:KK02608220:KK02328246: KK02188270;
 
-14. | Gordon Hard | Area enclosed by perimeter fence at HQ 07207761: HQ 07277768: Road HQ 07457745: HQ 07407740: Coastline: HQ 07207761.
+area enclosed by fence and boundary stones at KK01818325;
 
-15. | Cassino Lines | Area enclosed by perimeter fence at JV 99158940: JV 99188949:JV 99278947: JV 99258955: JV 99228957: JV 99119013: JV 99399013: JV 99329044: JV 99569043: JV 99568978:JV 99478978: JV 99398938: JV 99158940.
+area enclosed by fence and boundary stones at KK02348294; and
 
-16.-17. | (Repealed L.N. 587 of 1994)
+area enclosed by fence and boundary stones at KK03098195.
 
-18. | (Repealed L.N. 587 of 1994)
+12. | San Tin Barracks | Area enclosed by perimeter fence/wall and boundary stones at JK99599022: JK99819021:JK99798956:JK99698955: JK99598919:JK99408924:JK99508934: JK99398991:JK99658992:JK99599022;
 
-19. | Crest Hill Observation Post | Buildings centred on KV 02269380 and KV 02129370.
+area enclosed by perimeter fence at JK99058949:JK99178953:JK99258947: JK99088941:JK99058949; and
 
-20. | Sandy Ridge Observation Post | Military Buildings at KV 03759463.
+area enclosed by perimeter fence at JK99228943.
 
-21. | Sha Tau Kok Observation Post | Military Buildings at KV 12429660.
+13. | Tam Mei Barracks | Area enclosed by fence and boundary stones at JK98178921:JK98228921: JK98228906:JK98498897:JK98528901: JK98678896:JK98638885:JK98648861: JK98328861:JK97948863:JK97948869: JK98038897:JK98098901:JK98108911: JK98188908:JK98178921; and
 
-22. | Lone Tree Hill Feature, Sha Tau Kok | KV 143963 as enclosed by barbed wire.
+area enclosed by perimeter fence at JK98548905.
 
-23. | Tam Mi Ammunition Store | JV 97728887 as enclosed by perimeter fence.
+14. | San Wai Barracks | Area enclosed by fence, river bank and boundary stones at KK06779234: KK07159248:KK07199235:KK07309225: KK07179211:KK06859205:KK06769225: KK06779234; and
 
-24. | Man Kam To Feature | RHKP and military occupied buildings around KV 043956.
+area enclosed by fence, river bank and boundary stones at KK06709196: KK06869203: KK07189209:KK07459199: KK07489191:KK07089164:KK06859164: KK06709196.
 
-25. | Stonecutters Island | Coastline following general line KV 04137137: KV 04827186: KV 05387138: KV 05707164: KV 05887143: KV 05357074: KV 04807127: KV 04277108: KV 04137137 and the area of water up to a distance of 100 yards from any part of the shore at low water-mark of Stonecutters Island.
+15. | San Wai/Tai Ling Firing Range | Area enclosed by boundary stones at KK05999284:KK06099234:KK06259227: KK06049217:KK05959242:KK05909228: KK05709261:KK05919241:KK05849278: KK05999284.
 
-26. | (Repealed L.N. 587 of 1994)
+16. | Tsing Shan Firing Range | Area enclosed by boundary stones at HE04848544:HE04998532:HE05518525: HE06628427:HE05048117:HE04598080: HE04458043:HE04668004:HE04137929: HE03637799:HE02747724:HE01987736: HE01487768:HE01097933:HE00908170: HE02268153:HE02668222:HE03498348: HE04658531:HE04758526:HE04838532: HE04848544.
 
-27. | High Island Military.Training Camp | Area bounded by KV 25167792: KV 25187792: KV 25197794: KV 25237794: KV 25247785: KV 25227784: KV 25187779: KV 25147780: KV 25127786.
+17. | Tai O Barracks | Area enclosed by perimeter fence/wall at GE94006395:GE94086397:GE94086389: GE94056394:GE94006395.
 
-(L.N. 212 of 1991)
+18. | Military Transportation Centre, Chek Lap Kok | Area enclosed by perimeter fence/wall at HE02026896:HE02066897:HE02076893: HE02036892:HE02026896.
+
+(L.N. 171 of 2000)
