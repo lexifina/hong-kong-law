@@ -4,7 +4,7 @@
 
 ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
-- PART I (Amended 44 of 1994 s. 17; 74 of 1996 s. 9) Agriculture and Fisheries Department.
+- PART I (Amended 44 of 1994 s. 17; 74 of 1996 s. 9) Agriculture, Fisheries and Conservation Department. (Replaced L.N. 331 of 1999)
 
 - Airport Authority. (Added L.N. 155 of 1996)
 
@@ -49,6 +49,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 - Environmental Protection Department.
 
 - Fire Services Department.
+
+- Food and Environmental Hygiene Department. (Added 78 of 1999 s. 7)
 
 - General Office of the Chief Executive’s Office. (Added L.N. 155 of 1996. Amended 25 of 1998 s. 2)
 
@@ -110,6 +112,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - Legislative Council Secretariat. (Replaced 14 of 1994 s. 24)
 
+- Leisure and Cultural Services Department. (Added 78 of 1999 s. 7)
+
 - Management Services Agency. (Added L.N. 383 of 1993)
 
 - Mandatory Provident Fund Schemes Authority. (Added L.N. 139 of 1999)
@@ -135,10 +139,6 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 - Radio Television Hong Kong.
 
 - Rating and Valuation Department.
-
-- Regional Council. (Added 44 of 1994 s. 17)
-
-- Regional Services Department.
 
 - Registration and Electoral Office. (Added L.N. 251 of 1994)
 
@@ -168,13 +168,9 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
 - University Grants Committee, Secretariat. (Amended L.N. 35 of 1995)
 
-- Urban Council. (Added 44 of 1994 s. 17)
-
-- Urban Services Department.
-
 - Vocational Training Council. (Added L.N. 155 of 1996)
 
-- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28)
+- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7)
 
 - PART II
 
