@@ -82,4 +82,16 @@ Futures Contract Trading Limit Position Limit
 
 - Ltd. stock futures one contract month one contract month.
 
-- contract (L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997)
+- contract
+
+- 16. Hang Seng China- 10000 open contracts for 500 open contracts for any
+
+- Affiliated Corporations any one contract month one contract month.
+
+- Index futures contract
+
+- 17. Hang Seng China- 10000 open contracts for 500 open contracts for any
+
+- Affiliated Corporations any one contract month one contract month.
+
+- Index options contract (L.N. 438 of 1995; L.N. 377 of 1996; L.N. 337 of 1997; L.N. 410 of 1997)
