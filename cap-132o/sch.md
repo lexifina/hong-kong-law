@@ -73,3 +73,5 @@
 - 35. No. 702, 7/F., Tsz Wan Shan Shopping Centre, Kowloon. (L.N. 188 of 1998)
 
 - 36. The fifth floor of Urban Council Ap Lei Chau Complex, 8 Hung Shing Street, Ap Lei Chau, Hong Kong. (L.N. 354 of 1998)
+
+- 37. The first floor of Urban Council Sam Ka Tsuen Complex, 6 Lei Yue Mun Path, Sam Ka Tsuen, Kwun Tong, Kowloon. (L.N. 232 of 1999)
