@@ -51,3 +51,5 @@
 - 12. Shaukeiwan Typhoon Shelter (L.N. 288 of 1992)
 
 - 13. To Kwa Wan Typhoon Shelter (L.N. 327 of 1993)
+
+- 14. Hei Ling Chau Typhoon Shelter (L.N. 236 of 1999)
