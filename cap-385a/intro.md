@@ -1,0 +1,5 @@
+REGIONAL COUNCIL FINANCIAL BY-LAWS
+
+(Cap. 385 section 39)
+
+[4 April 1986]
