@@ -188,6 +188,8 @@ Atenolol; its salts
 
 Atorvastatin; its salts
 
+Atosiban; its salts
+
 Atovaquone
 
 Atracurium Besylate
@@ -960,6 +962,8 @@ Leuprorelin; its salts
 
 Levallorphan; its salts
 
+Levetiracetam; its salts
+
 Lidoflazine
 
 Linezolid; its salts
@@ -975,6 +979,8 @@ Lomefloxacin; its salts; its esters
 Lomustine
 
 Lonazolac; its salts
+
+Lopinavir; its salts
 
 Loracarbef; its salts
 
@@ -1169,6 +1175,8 @@ alpha-Naphthylacetic acid; its salts
 Naproxen; its salts
 
 Naratriptan; its salts
+
+Nateglinide; its salts; its esters
 
 Nefazodone; its salts
 
@@ -1496,6 +1504,8 @@ Riluzole; its salts
 
 Rimiterol and its salts when contained in aerosol dispensers
 
+Risedronic acid; its salts
+
 Risperidone
 
 Ritodrine; its salts
@@ -1533,6 +1543,8 @@ Sibutramine; its salts
 Sildenafil; its salts
 
 Simvastatin
+
+Sirolimus; its salts
 
 Sodium aurothiomalate
 
@@ -1778,7 +1790,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001)
 
 B
 
