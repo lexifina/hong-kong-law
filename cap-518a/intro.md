@@ -1,0 +1,5 @@
+CIVIL AID SERVICE REGULATION
+
+(Cap. 518, section 30)
+
+[13 June 1997] L.N. 324 of 1997
