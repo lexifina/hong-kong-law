@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 68 of 1999 s. 3)
-
 [s. 2]
 
 Item | Signature or service | Fee$
@@ -20,4 +18,4 @@ Item | Signature or service | Fee$
 
 4. | The certification of a true extract of any document, book, record or instrument by a public officer | 140
 
-(L.N. 362 of 1997; 68 of 1999 s. 3)
+(L.N. 362 of 1997; 68 of 1999 s. 3; L.N. 335 of 2000; L.N. 23 of 2001)
