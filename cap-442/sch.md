@@ -1,10 +1,6 @@
 # SCHEDULE
 
-- (1. Item 45 of this schedule has commenced operation since 19 June 2000 only in so far as it relates to a decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. - see L.N. 131 of 2000.
-
-- 2. paragraphs (b) and (c) of item 45 of this schedule has commenced operation since 1 April 2002. - see L.N. 21 of 2002.)
-
-[sections 3, 4 & 22]
+[ss. 3, 4 & 22]
 
 Item | Ordinance | Decision
 
@@ -18,7 +14,7 @@ Item | Ordinance | Decision
 
 5. | Quarries (Safety) Regulations (Cap. 59 sub. leg.) | (a) A refusal by the Commissioner for Labour to approve any person as a supervisor or deputy supervisor under regulation 4(1) or 6(1). (b) A withdrawal by the Commissioner for Labour of his approval of a supervisor or deputy supervisor under regulation 10(1).
 
-6. | Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations (Cap. 59 sub. leg.) | (a) A refusal by the Commissioner for Labour to register a person as a safety officer under regulation 7. (b) The cancellation by the Commissioner for Labour of a person’s registration as a safety officer under regulation 9. (c) The suspension by the Commissioner for Labour of a person’s registration as a safety officer under regulation 10.
+6. | Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations (Cap. 59 sub. leg.) | (a) A refusal by the Commissioner for Labour to register a person as a safety officer under regulation 7. (b) The cancellation by the Commissioner for Labour of a person’s registration as a safety officer under regulation 9. (c) The suspension by the Commissioner for Labour of a person’s registration as a safety officer under regulation 10. (d) A refusal by the Commissioner for Labour to renew or revalidate a person’s registration as a safety officer under regulation 7B. (Added L.N. 100 of 2002)
 
 7. | Weights and Measures Ordinance (Cap. 68) | A decision of the Commissioner, as defined in section 2, or of an authorized officer which is taken in the exercise or performance of any function under the Ordinance.
 
@@ -95,5 +91,7 @@ Item | Ordinance | Decision
 48. | Drug Dependent Persons Treatment and Rehabilitation Centres (Licensing) Ordinance (Cap. 566) | A determination or decision of the Director of Social Welfare under section 6(2)(b), 8(3)(b), 9(3)(b) or 14. (Added 10 of 2001 s. 33)
 
 49. | Road Traffic Ordinance (Cap. 374) | A decision of the Commissioner of Police under section 55(3). (Added 3 of 2002 s. 17)
+
+59. | Marine Fish Culture Ordinance (Cap. 353) | A decision of the Director of Agriculture, Fisheries and Conservation— (a) to refuse to grant or renew a licence under section 8(6); (b) to refuse to approve the transfer of a licence under section 8A(3)(b); (c) to cancel a licence under section 9(1); (d) to refuse to grant a permit under section 14(1); (e) to cancel or refuse to renew a permit under section 14(2). (Added 13 of 2002 s. 9)
 
 Time within which appeals are to be made An appeal under any item mentioned in this Schedule shall be made within 28 days after receipt of notice of the decision to which the appeal relates.
