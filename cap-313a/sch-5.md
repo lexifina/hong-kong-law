@@ -396,13 +396,13 @@ RESTRICTED AREAS, ETC.
 
     - (iii) latitude 22o 17’ 30” north,
 
-    - longitude 113o 56’ 20” east;
+    - longitude 113o 56’ 02” east;
 
     - (iv) latitude 22o 17’ 32” north,
 
     - longitude 113o 55’ 54” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; L.N. 602 of 1997)
 
 - 14. KAP SHUI MUN BRIDGE AREA
 
