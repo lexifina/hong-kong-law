@@ -252,12 +252,6 @@ Director of Civil Engineering Services | Ferry Services Ordinance (Chapter 104),
 
 Director of Civil Engineering Services | Sand Ordinance (Chapter 147), sections 2 and 3. (L.N. 133 of 1986)
 
-Director of Education | Inland Revenue Ordinance (Chapter 112), sections 16B and 16C. (L.N. 6 of 1967)
-
-Director of Education | Post Secondary Colleges Ordinance (Chapter 320), sections 3, 8, 9 and 10. (L.N. 6 of 1967)
-
-Director of Education | Post Secondary Colleges Ordinance (Chapter 320), sections 11 and 12(2). (L.N. 48 of 1967)
-
 Director of Electrical and Mechanical Services | Aerial Ropeways (Safety) Ordinance (Chapter 211). (L.N. 133 of 1986)
 
 Director of Electrical and Mechanical Services | Electricity Ordinance (Chapter 406). (L.N. 133 of 1986; 16 of 1990 s. 61)
@@ -401,6 +395,12 @@ Land Registrar | Land Registration Ordinance (Chapter 128). (L.N. 140 of 1993)
 Land Registrar | Building Management Ordinance (Chapter 344). (27 of 1993 s. 56)
 
 Monetary Authority | Crimes Ordinance (Chapter 200), sections 103(1) and 104(1). (L.N. 102 of 1995)
+
+Permanent Secretary for Education and Manpower | Inland Revenue Ordinance (Chapter 112), sections 16B and 16C. (L.N. 6 of 1967; 3 of 2003 s. 41)
+
+Permanent Secretary for Education and Manpower | Post Secondary Colleges Ordinance (Chapter 320), sections 3, 8, 9 and 10. (L.N. 6 of 1967; 3 of 2003 s. 41)
+
+Permanent Secretary for Education and Manpower | Post Secondary Colleges Ordinance (Chapter 320), sections 11 and 12(2). (L.N. 48 of 1967; 3 of 2003 s. 41)
 
 Principal Probation Officer | Probation of Offenders Rules (Chapter 298 subsidiary legislation), rules 15, 20(2) and 21 only. (L.N. 213 of 1979)
 

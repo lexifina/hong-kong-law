@@ -18,13 +18,13 @@ The members of the Authority shall be—
 
   - (vi) the Executive Director of the Vocational Training Council, or his representative;
 
-  - (vii) the Director of Education, or his representative;
+  - (vii) the Permanent Secretary for Education and Manpower, or his representative; (Amended 3 of 2003 s. 23)
 
   - (viii) the Secretary General of the Authority appointed under section 7(2)(e) of this Ordinance who shall be the chief executive of the Authority; (Amended 23 of 2002 s. 23)
 
 - (b) the following persons who shall be appointed by the Chief Executive—
 
-  - (i) 1 public officer;
+  - (i) (Repealed 3 of 2003 s. 23)
 
   - (ii) 1 person experienced in teacher training in Hong Kong;
 

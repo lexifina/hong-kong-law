@@ -34,4 +34,4 @@ Educational establishment | Responsible body
 
 14. | Any school which is registered or provisionally registered under the Education Ordinance (Cap. 279) | The management committee, within the meaning of section 3 of the Education Ordinance (Cap. 279), of the school
 
-15. | Any school, within the meaning of section 3 of the Education Ordinance (Cap. 279), entirely maintained and controlled by the Government | The Director of Education
+15. | Any school, within the meaning of section 3 of the Education Ordinance (Cap. 279), entirely maintained and controlled by the Government | The Permanent Secretary for Education and Manpower (Amended 3 of 2003 s. 41)

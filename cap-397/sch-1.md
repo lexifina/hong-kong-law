@@ -4,173 +4,177 @@
 
 ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
-- PART I (Amended 44 of 1994 s. 17; 74 of 1996 s. 9) Agriculture, Fisheries and Conservation Department. (Replaced L.N. 331 of 1999)
+PART I#
 
-- Airport Authority. (Added L.N. 155 of 1996)
+(Amended 44 of 1994 s. 17; 74 of 1996 s. 9)
 
-- All registries and administrative offices of courts and tribunals for which the Judiciary Administrator has responsibility. (Replaced L.N. 155 of 1996)
+Agriculture, Fisheries and Conservation Department. (Replaced L.N. 331 of 1999)
 
-- Architectural Services Department.
+Airport Authority. (Added L.N. 155 of 1996)
 
-- Audit Commission. (Amended L.N. 362 of 1997)
+All registries and administrative offices of courts and tribunals for which the Judiciary Administrator has responsibility. (Replaced L.N. 155 of 1996)
 
-- *Auxiliary Medical Service (department). (Added L.N. 155 of 1996. Amended 57 of 1997 s. 34)
+Architectural Services Department.
 
-- Buildings Department. (Replaced L.N. 282 of 1993)
+Audit Commission. (Amended L.N. 362 of 1997)
 
-- Census and Statistics Department.
+*Auxiliary Medical Service (department). (Added L.N. 155 of 1996. Amended 57 of 1997 s. 34)
 
-- +Civil Aid Service (department). (Added L.N. 155 of 1996. Amended 58 of 1997 s. 34)
+Buildings Department. (Replaced L.N. 282 of 1993)
 
-- Civil Aviation Department.
+Census and Statistics Department.
 
-- Civil Engineering Department. (Replaced L.N. 183 of 1992)
++Civil Aid Service (department). (Added L.N. 155 of 1996. Amended 58 of 1997 s. 34)
 
-- Civil Service Training and Development Institute. (Added L.N. 155 of 1996)
+Civil Aviation Department.
 
-- Companies Registry. (Added 8 of 1993 s. 28)
+Civil Engineering Department. (Replaced L.N. 183 of 1992)
 
-- Correctional Services Department.
+Civil Service Training and Development Institute. (Added L.N. 155 of 1996)
 
-- Customs and Excise Department.
+Companies Registry. (Added 8 of 1993 s. 28)
 
-- Department of Health. (Added L.N. 414 of 1989)
+Correctional Services Department.
 
-- Department of Justice. (Amended L.N. 362 of 1997)
+Customs and Excise Department.
 
-- Drainage Services Department. (Added L.N. 357 of 1989)
+Department of Health. (Added L.N. 414 of 1989)
 
-- Education Department.
+Department of Justice. (Amended L.N. 362 of 1997)
 
-- Electrical and Mechanical Services Department.
+Drainage Services Department. (Added L.N. 357 of 1989)
 
-- Employees Retraining Board. (Added L.N. 139 of 1999)
+Electrical and Mechanical Services Department.
 
-- Environmental Protection Department.
+Employees Retraining Board. (Added L.N. 139 of 1999)
 
-- Equal Opportunities Commission. (Added 30 of 2001 s. 19)
+Environmental Protection Department.
 
-- Fire Services Department.
+Equal Opportunities Commission. (Added 30 of 2001 s. 19)
 
-- Food and Environmental Hygiene Department. (Added 78 of 1999 s. 7)
+Fire Services Department.
 
-- General Office of the Chief Executive’s Office. (Added L.N. 155 of 1996. Amended 25 of 1998 s. 2)
+Food and Environmental Hygiene Department. (Added 78 of 1999 s. 7)
 
-- Government Flying Service. (Added L.N. 242 of 1993)
+General Office of the Chief Executive’s Office. (Added L.N. 155 of 1996. Amended 25 of 1998 s. 2)
 
-- Government Laboratory.
+Government Flying Service. (Added L.N. 242 of 1993)
 
-- Government Land Transport Agency.
+Government Laboratory.
 
-- Government Property Agency. (Added L.N. 181 of 1991)
+Government Land Transport Agency.
 
-- Government Secretariat.
+Government Property Agency. (Added L.N. 181 of 1991)
 
-- Government Supplies Department.
+Government Secretariat.
 
-- Highways Department.
+Government Supplies Department.
 
-- Home Affairs Department. (Replaced L.N. 155 of 1996)
+Highways Department.
 
-- Hong Kong Arts Development Council. (Added 26 of 1995 s. 20)
+Home Affairs Department. (Replaced L.N. 155 of 1996)
 
-- Hong Kong Housing Authority. (Added 44 of 1994 s. 17)
+Hong Kong Arts Development Council. (Added 26 of 1995 s. 20)
 
-- Hong Kong Housing Society. (Added L.N. 155 of 1996)
+Hong Kong Housing Authority. (Added 44 of 1994 s. 17)
 
-- Hong Kong Monetary Authority. (Added L.N. 97 of 1993)
+Hong Kong Housing Society. (Added L.N. 155 of 1996)
 
-- Hong Kong Sports Development Board. (Added L.N. 139 of 1999)
+Hong Kong Monetary Authority. (Added L.N. 97 of 1993)
 
-- Hospital Authority. (Added L.N. 420 of 1991)
+Hong Kong Sports Development Board. (Added L.N. 139 of 1999)
 
-- Hospital Services Department. (Added L.N. 414 of 1989)
+Hospital Authority. (Added L.N. 420 of 1991)
 
-- Housing Department.
+Hospital Services Department. (Added L.N. 414 of 1989)
 
-- Immigration Department.
+Housing Department.
 
-- Information Services Department.
+Immigration Department.
 
-- Information Technology Services Department. (Added L.N. 373 of 1989)
+Information Services Department.
 
-- Inland Revenue Department.
+Information Technology Services Department. (Added L.N. 373 of 1989)
 
-- Intellectual Property Department. (Added L.N. 236 of 1990)
+Inland Revenue Department.
 
-- Invest Hong Kong. (Added L.N. 152 of 2000)
+Intellectual Property Department. (Added L.N. 236 of 1990)
 
-- Joint Secretariat for the Advisory Bodies on Civil Service and Judicial Salaries and Conditions of Service. (Added L.N. 253 of 2001)
+Invest Hong Kong. (Added L.N. 152 of 2000)
 
-- Kowloon-Canton Railway Corporation. (Added 44 of 1994 s. 17)
+Joint Secretariat for the Advisory Bodies on Civil Service and Judicial Salaries and Conditions of Service. (Added L.N. 253 of 2001)
 
-- Labour Department.
+Kowloon-Canton Railway Corporation. (Added 44 of 1994 s. 17)
 
-- Land Registry. (Added 8 of 1993 s. 28)
+Labour Department.
 
-- Lands Department. (Added L.N. 282 of 1993)
+Land Registry. (Added 8 of 1993 s. 28)
 
-- Legal Aid Department.
+Lands Department. (Added L.N. 282 of 1993)
 
-- Legislative Council Secretariat. (Replaced 14 of 1994 s. 24)
+Legal Aid Department.
 
-- Leisure and Cultural Services Department. (Added 78 of 1999 s. 7)
+Legislative Council Secretariat. (Replaced 14 of 1994 s. 24)
 
-- Management Services Agency. (Added L.N. 383 of 1993)
+Leisure and Cultural Services Department. (Added 78 of 1999 s. 7)
 
-- Mandatory Provident Fund Schemes Authority. (Added L.N. 139 of 1999)
+Management Services Agency. (Added L.N. 383 of 1993)
 
-- Marine Department.
+Mandatory Provident Fund Schemes Authority. (Added L.N. 139 of 1999)
 
-- Observatory. (Amended 25 of 1998 s. 2)
+Marine Department.
 
-- Office of the Telecommunications Authority. (Added L.N. 242 of 1993)
+Observatory. (Amended 25 of 1998 s. 2)
 
-- Official Languages Agency. (Added L.N. 155 of 1996)
+Office of the Telecommunications Authority. (Added L.N. 242 of 1993)
 
-- Official Receiver’s Office. (Added L.N. 183 of 1992)
+Official Languages Agency. (Added L.N. 155 of 1996)
 
-- Planning Department. (Added L.N. 414 of 1989)
+Official Receiver’s Office. (Added L.N. 183 of 1992)
 
-- Post Office.
+Planning Department. (Added L.N. 414 of 1989)
 
-- Printing Department.
+Post Office.
 
-- Privacy Commissioner for Personal Data. (Added 30 of 2001 s. 19)
+Printing Department.
 
-- Radio Television Hong Kong.
+Privacy Commissioner for Personal Data. (Added 30 of 2001 s. 19)
 
-- Rating and Valuation Department.
+Radio Television Hong Kong.
 
-- Registration and Electoral Office. (Added L.N. 251 of 1994)
+Rating and Valuation Department.
 
-- Registry of Trade Unions.
+Registration and Electoral Office. (Added L.N. 251 of 1994)
 
-- Securities and Futures Commission. (Added 44 of 1994 s. 17)
+Registry of Trade Unions.
 
-- Social Welfare Department.
+Securities and Futures Commission. (Added 44 of 1994 s. 17)
 
-- Technical Education and Industrial Training Department.
+Social Welfare Department.
 
-- Television and Entertainment Licensing Authority.
+Technical Education and Industrial Training Department.
 
-- Territory Development Department.
+Television and Entertainment Licensing Authority.
 
-- The Hong Kong Examinations and Assessment Authority. (Replaced 23 of 2002 s. 27)
+Territory Development Department.
 
-- Trade and Industry Department. (Replaced L.N. 173 of 2000)
+The Hong Kong Examinations and Assessment Authority. (Replaced 23 of 2002 s. 27)
 
-- Transport Department.
+Trade and Industry Department. (Replaced L.N. 173 of 2000)
 
-- Treasury.
+Transport Department.
 
-- University Grants Committee, Secretariat. (Amended L.N. 35 of 1995)
+Treasury.
 
-- Urban Renewal Authority (Replaced 63 of 2000 s. 38)
+University Grants Committee, Secretariat. (Amended L.N. 35 of 1995)
 
-- Vocational Training Council. (Added L.N. 155 of 1996)
+Urban Renewal Authority (Replaced 63 of 2000 s. 38)
 
-- Water Supplies Department. (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001)
+Vocational Training Council. (Added L.N. 155 of 1996)
+
+Water Supplies Department.
+
+(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28)
 
 - PART II
 
@@ -187,6 +191,8 @@ ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 - (Part II added 74 of 1996 s. 9)
 
 - -
+
+- # “Education Department” was repealed from Part I of this Schedule by the Education Reorganization (Miscellaneous Amendments) Ordinance 2003 (3 of 2003). For the related saving and transitional provisions, see section 29 of the Ordinance.
 
 - * Please see the saving provisions contained in section 33(4) of Cap. 517.
 

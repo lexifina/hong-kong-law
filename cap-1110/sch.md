@@ -4,17 +4,15 @@
 
 Application of Income Allocated for Educational Purposes
 
-(Adaptation amendments retroactively made - see 4 of 2000 s. 3)
-
 - 1. Application Income of the fund allocated for the purposes of section 6(1)(a) shall be applied as specified in this Schedule.
 
 - 2. Post-graduate award
 
   - (1) One scholarship may be awarded in each year to a graduate of a university established in Hong Kong to assist in the payment of the education, travelling expenses, and maintenance in the United Kingdom for the purposes of post-graduate training for a period not exceeding 2 years.
 
-  - (2) The holder of a scholarship awarded under subparagraph (1) shall be selected by a selection board appointed by the Director of Education.
+  - (2) The holder of a scholarship awarded under subparagraph (1) shall be selected by a selection board appointed by the Permanent Secretary for Education and Manpower. (Amended 3 of 2003 s. 41)
 
-  - (3) A scholarship awarded under this paragraph may be terminated at the end of 1 year unless the Director of Education is satisfied as to the progress and conduct of the scholar.
+  - (3) A scholarship awarded under this paragraph may be terminated at the end of 1 year unless the Permanent Secretary for Education and Manpower is satisfied as to the progress and conduct of the scholar. (Amended 3 of 2003 s. 41)
 
   - (4) No graduate of a university in Hong Kong shall be eligible for an award under this paragraph unless he—
 
@@ -52,7 +50,7 @@ Application of Income Allocated for Educational Purposes
 
     - (b) 4 years in the case of The Chinese University of Hong Kong.
 
-  - (7) Such number of scholarships as the committee may decide, may be awarded in each year to students in secondary schools, who are selected by the Director of Education. (Replaced 49 of 1989 s. 4)
+  - (7) Such number of scholarships as the committee may decide, may be awarded in each year to students in secondary schools, who are selected by the Permanent Secretary for Education and Manpower. (Replaced 49 of 1989 s. 4. Amended 3 of 2003 s. 41)
 
   - (8) A scholarship awarded under subparagraph (7) shall be tenable for such period as the committee may determine.
 

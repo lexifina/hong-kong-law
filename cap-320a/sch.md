@@ -14,9 +14,9 @@ Tel. No. .
 
 Date .
 
-Director of Education,
+Permanent Secretary for Education and Manpower,
 
-Education Department,
+Education and Manpower Bureau,
 
 Hong Kong.
 
@@ -90,21 +90,39 @@ Hong Kong.
 
 - 12. I attach a general account of the proposed conduct, organization, courses and finance of the College.
 
-- 13. The Board of Governors request approval for the appointment of . as President. (Signed) . Chairman of the Board of Governors Note: Registration of a college does not release the Board of Governors or any other person from compliance with any relevant requirements of the Buildings Ordinance (Chapter 123) or any other Ordinance, nor does it in any way affect or modify any agreements or covenants whatsoever relating to the premises intended for use as the college. FORM 2 POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a Member of a Board of Governors
+- 13.
 
-- and or Member of a College Council of Post Secondary College Address (for correspondence) .
+- The Board of Governors request approval for the appointment of . as President.
+
+- (Signed) .
+
+- Chairman of the Board of Governors
+
+- Note: Registration of a college does not release the Board of Governors or any other person from compliance with any relevant requirements of the Buildings Ordinance (Chapter 123) or any other Ordinance, nor does it in any way affect or modify any agreements or covenants whatsoever relating to the premises intended for use as the college.
+
+- (3 of 2003 s. 26)
+
+- FORM 2 POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a Member of a Board of Governors
+
+- and or Member of a College Council of Post Secondary College
+
+- Address (for correspondence) .
 
 - .
 
 - Tel. No. .
 
-- Date . Director of Education,
+- Date .
 
-- Education Department,
+- Permanent Secretary for Education and Manpower,
+
+- Education and Manpower Bureau,
 
 - Hong Kong. College .
 
-- Address . On the instructions of the majority of the members of the Board of Governors of . College I hereby make application for Mr./Mrs./Miss ., particulars of whom are given below, to be registered as a Member of the Board of Governors/a Member of the Council* of this college.
+- Address .
+
+- On the instructions of the majority of the members of the Board of Governors of . College I hereby make application for Mr./Mrs./Miss ., particulars of whom are given below, to be registered as a Member of the Board of Governors/a Member of the Council* of this college.
 
 - 2. Particulars—
 
@@ -132,6 +150,8 @@ Hong Kong.
 
 - Note: This form should be completed in duplicate. * Delete as necessary.
 
+- (3 of 2003 s. 26)
+
 - FORM 3 POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a teacher of an approved
 
 - Post Secondary College
@@ -142,13 +162,13 @@ Hong Kong.
 
 - Date .
 
-- Director of Education,
+- Permanent Secretary for Education and Manpower,
 
-- Education Department,
+- Education and Manpower Bureau,
 
 - Hong Kong.
 
-- 1. With the approval of the College Council I hereby make application for Mr. / Mrs. / Miss ., particular of whom are given below, to be registered as a teacher in this College.
+- 1. With the approval of the College Council I hereby make application for Mr./Mrs./Miss ., particular of whom are given below, to be registered as a teacher in this College.
 
 - 2. Particulars—
 
@@ -219,3 +239,5 @@ Hong Kong.
   - Identity Card No. . (Signed) . President
 
 - Note: This form should be completed in duplicate.
+
+- (3 of 2003 s. 26)
