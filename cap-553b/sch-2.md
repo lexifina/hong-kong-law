@@ -12,7 +12,7 @@ Item | Enactment | Provision
 
 3. | Immigration Ordinance (Cap. 115) | Section 5(4)(b) and (5)(a)(ii) and (b)(ii)
 
-4. | Buildings Ordinance (Cap. 123) | Section 8B(4)
+4. | (Repealed 15 of 2004 s. 62)
 
 5. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulations 12(1), (2) and (3), 18(2), 20(1), 25(2), (3) and (4), 26(2) and 28
 

@@ -208,6 +208,8 @@ PUBLIC BODIES
 
   - 101. Hong Kong Deposit Protection Board. (Added 7 of 2004 s. 55)
 
+  - 102. Geotechnical Engineers Registration Committee. (Added 15 of 2004 s. 61)
+
 - (Replaced L.N. 272 of 1974)
 
 Editorial Note:
