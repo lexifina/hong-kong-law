@@ -1,0 +1,5 @@
+MEDICAL REGISTRATION (FEES) REGULATION
+
+(Cap. 161, section 33(1))
+
+[24 January 1997] L.N. 44 of 1997
