@@ -1,0 +1,5 @@
+HONG KONG AIRPORT REGULATIONS
+
+(Cap. 292 section 4)
+
+[8 June 1956]
