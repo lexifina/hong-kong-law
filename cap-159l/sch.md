@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 FORM 1 | [rule 2]
 
 THE LAW SOCIETY OF HONG KONG APPLICATION FOR PRACTISING CERTIFICATE
@@ -66,4 +64,4 @@ FORM 2 | [rule 4]
 
 PRACTISING CERTIFICATE-SOLICITOR LEGAL PRACTITIONERS ORDINANCE (Chapter 159)
 
-- The Law Society of Hong Kong hereby certifies, in accordance with subsection (1) of section 6 of the Legal Practitioners Ordinance, that . a Solicitor of the High Court of Hong Kong, has complied with that subsection and is therefore entitled to practise as such solicitor for the period from . to . Conditions if any: Dated this . day of . 19 . . Secretary, The Law Society of Hong Kong. (L.N. 259 of 1986; 25 of 1998 s. 2)
+- The Law Society of Hong Kong hereby certifies, in accordance with subsection (1) of section 6 of the Legal Practitioners Ordinance, that . a Solicitor of the High Court of Hong Kong, has complied with that subsection and is therefore entitled to practise as such solicitor for the period from . to . Conditions if any: Dated this . day of . . Secretary, The Law Society of Hong Kong. (L.N. 259 of 1986; 25 of 1998 s. 2; L.N. 115 of 2000)
