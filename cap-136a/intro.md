@@ -1,0 +1,5 @@
+MENTAL HEALTH REGULATIONS
+
+(Cap. 136, section 72)
+
+[19 January 1962]
