@@ -1,0 +1,5 @@
+LIFTS AND ESCALATORS (SAFETY) (FEES) REGULATIONS
+
+(Cap. 327 section 49(1)(e))
+
+[1 November 1987] L.N. 364 of 1987
