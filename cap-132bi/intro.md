@@ -1,0 +1,5 @@
+PUBLIC CEMETERIES (URBAN COUNCIL) BY-LAWS
+
+(Cap. 132, section 116)
+
+[23 December 1960]
