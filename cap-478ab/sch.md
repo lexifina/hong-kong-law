@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2)
-
 [ss. 3, 5, 6, 7, 8, 10 & 14]
 
 - PART I FEES PAYABLE IN RELATION TO CREW ACCOMMODATION
@@ -162,7 +160,7 @@
 
 - (c) Marine Engineer Officer Class 3 | 2410
 
-- 5. | Fee for issue of a licence as Deck Officers, or Marine Engineer Officers, Class 1, Class 2 or Class 3 without examination | 2960
+- 5. | Fee for issue of a licence as Deck Officers, or Marine Engineer Officers, Class 1, Class 2 or Class 3 without examination (L.N. 90 of 1999 and 44 of 1999 s. 43) | 715
 
 - 6. | Fees for miscellaneous examinations, certificates and endorsements—
 
@@ -224,15 +222,11 @@ Purpose or service | Fee $
 
 The following fees shall be payable—
 
-1. | For employment or discharge of seafarers, at the Office— (a) For each seafarer employed (b) For each seafarer discharged (c) Minimum charge for opening a new crew agreement (d) Copies of crew agreement duly opened (per copy) | 160 160 1310 285
+1. | For employment or discharge of seafarers at the Office— (a) For each seafarer employed (b) For each seafarer discharged (c) For opening a new crew agreement (d) Copies of crew agreement duly opened (per copy) (L.N. 90 of 1999 and 44 of 1999 s. 43) | Nil Nil Nil Nil
 
-Note: For a multiple crew agreement, fees are charged on a per ship basis.
+2. | For employment or discharge of seafarers at places other than the Office— (a) For each seafarer employed (b) For each seafarer discharged (c) For opening a new crew agreement (d) Copies of crew agreement duly opened (per copy) (L.N. 90 of 1999 and 44 of 1999 s. 43) | Nil Nil Nil Nil
 
-2. | For employment or discharge of seafarers at places other than the Office— (a) For each seafarer employed (b) For each seafarer discharged (c) Minimum charge for opening a new crew agreement (d) Copies of crew agreement duly opened (per copy) | 160 plus $535 per hour or part thereof on a work done basis. 160 plus $535 per hour or part thereof on a work done basis. 1310 per crew agreement plus $535 per hour or part thereof on a work done basis. 285
-
-3. | For employment or discharge of seafarers where Form HK Eng. 2A is used— For recording the employment or discharge of any seafarer | 160
-
-Note: This fee is not chargeable where a fee has been charged at a port outside Hong Kong.
+3. | For employment or discharge of seafarers where Form HK Eng. 2A is used— For recording the employment or discharge of any seafarer (L.N. 90 of 1999 and 44 of 1999 s. 43) | Nil
 
 4. | For attesting crews’ account of wages and performed— (a) at the Office and for each seafarer (b) other than at the Office and for each seafarer | 160 160 plus $535 per hour or part thereof on a work done basis.
 
