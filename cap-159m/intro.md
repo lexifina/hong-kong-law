@@ -1,0 +1,5 @@
+SOLICITORS (PROFESSIONAL INDEMNITY) RULES
+
+(Chapter 159, sections 73 and 73A)
+
+[1 October 1989]
