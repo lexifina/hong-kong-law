@@ -12,6 +12,12 @@
 
   - 4-5. (Repealed L.N. 246 of 1997)
 
+  - 6. Frozen or chilled beef, mutton, pork, veal or lamb, and the frozen or chilled offal of any animal from which such meat is derived. (L.N. 142 of 2000)
+
+  - 7. The frozen or chilled carcass of a domestic fowl, duck, goose or turkey or any part of such a carcass. (L.N. 142 of 2000)
+
+  - 8. Any frozen or chilled part of a bird mentioned in item 7 which is edible or used in the preparation of food, other than the carcass or a part of the carcass of such a bird. (L.N. 142 of 2000)
+
 - PART II
 
   - 1. Left hand drive vehicles.
