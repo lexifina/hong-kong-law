@@ -1,0 +1,5 @@
+ELECTRICITY (WIRING) REGULATIONS
+
+(Cap. 406, section 59)
+
+[1 June 1992] L.N. 100 of 1992
