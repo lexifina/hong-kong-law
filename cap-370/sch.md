@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 29 of 1998 ss. 78 & 105)
-
 [ss. 27 & 28]
 
 - PART I
@@ -12,11 +10,7 @@
 
     - (b) prevail over any provision referred to in sub-paragraph (a) which is inconsistent or in conflict with a provision in this Part.
 
-  - 2.
-
-  - Definitions applicable to Part II
-
-  - In this Schedule—
+  - 2. Definitions applicable to Part II In this Schedule—
 
     - “date of resumption” (收回日期) means the day on which land reverts to the Government or vests in The Financial Secretary Incorporated under section 13(3); (Amended L.N. 180 of 1985; 29 of 1998 s. 105)
 
@@ -46,11 +40,9 @@
 
   - 7. No compensation under item 8 for loss of advertising Where a sign advertising any business, product, service or activity is removed under section 21, nothing in item 8 of Part II of this Schedule shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
 
-  - 8. Set off where compensation paid for loss
+  - 8. Set off where compensation paid for loss of value and land later resumed Where compensation under item 2, 3, 4, 5, 8 or 9 of Part II of this Schedule has been paid in respect of the diminution in value of any land and such land or part thereof is subsequently resumed by the Government under this Ordinance or any other enabling power, then notwithstanding paragraph 3 of this Part of this Schedule or any other provision of law to the same or similar effect, that diminution in value shall be taken into account to reduce the compensation for the resumption of that land in so far as it was taken into account in the assessment of compensation for the diminuting in value thereof. (Amended 29 of 1998 s. 105)
 
-  - of value and land later resumed Where compensation under item 2, 3, 4, 5, 8 or 9 of Part II of this Schedule has been paid in respect of the diminution in value of any land and such land or part thereof is subsequently resumed by the Government under this Ordinance or any other enabling power, then notwithstanding paragraph 3 of this Part of this Schedule or any other provision of law to the same or similar effect, that diminution in value shall be taken into account to reduce the compensation for the resumption of that land in so far as it was taken into account in the assessment of compensation for the diminuting in value thereof. (Amended 29 of 1998 s. 105)
-
-  - 9. Claim by a mortgagee in possession Where under this Ordinance a claim for compensation may be made by a mortgage in possession—
+  - 9. Claim by a mortgagee in possession Where under this Ordinance a claim for compensation may be made by a mortgagee in possession— (Amended L.N. 307 of 1998)
 
     - (a) such claim may include compensation in respect of the whole interest which comprises the mortgage security; and
 
@@ -74,40 +66,48 @@
 
 - PART II
 
-Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim must be served on the Secretary
+- Matters for which compensation may be claimed | Basis on which compensation is to be assessed | Persons who may claim compensation for their respective losses | Period within which the claim must be served on the Secretary
 
-1. | The resumption of land under section 13. | As if the claim were made under the Lands Resumption Ordinance (Cap. 124) for land resumed under that Ordinance. (Amended 29 of 1998 s. 78) | Any person who would to entitled to claim compensation for land resumed under the Lands Resumption Ordinance (Cap. 124) if the land had been resumed thereunder. (Amended 29 of 1998 s. 78) | Before the expiration of 1 year from the date of resumption.
+- 1. | The resumption of land under section 13. | As if the claim were made under the Lands Resumption Ordinance (Cap. 124) for land resumed under that Ordinance. (Amended 29 of 1998 s. 78) | Any person who would to entitled to claim compensation for land resumed under the Lands Resumption Ordinance (Cap. 124) if the land had been resumed thereunder. (Amended 29 of 1998 s. 78) | Before the expiration of 1 year from the date of resumption.
 
-2. | (a) The creation of an easement or other permanent right or a right of temporary occupation under section 15. | (a) (i) In the case of an easement or other permanent right, the amount by which the open market value of the claimant’s interest in the land is diminished. (ii) In the case of the creation of a right of temporary occupation, the amount of an open market rent for claimant’s interest in the land occupied during the period of the easement. | (a) Any person owning a compensatable interest in the land. | (a) Before the expiration of 1 year from the date on which the easement or right is created.
+- 2. | (a) | The creation of an easement or other permanent right or a right of temporary occupation under section 15. | (a) | (i) | In the case of an easement or other permanent right, the amount by which the open market value of the claimant’s interest in the land is diminished. | (a) | Any person owning a compensatable interest in the land. | (a) | Before the expiration of 1 year from the date on which the easement or right is created.
 
-(b) Disturbance resulting from the creation of an easement or other permanent right or a right of temporary occupation under section 15. | (b) A disturbance payment. | (b) Same as in item 2(a). | (b) Same as in item 2(a).
+- (ii) | In the case of the creation of a right of temporary occupation, the amount of an open market rent for claimant’s interest in the land occupied during the period of the easement.
 
-3. | (a) The extinction, by the operation of section 13(3), of any easement in favour of land not resumed when adjacent or contiguous land is resumed. | (a) The expense fairly and reasonably incurred in remedying or mitigating the effect of the extinction effect of the extinction of the easement, as far as may be practicable, and any diminution in the open market value of the claimant’s interest in the land not resumed after such expense has been incurred. | (a) Any person owning a compensatable interest in the land not resumed. | (a) Before the expiration of 1 year from the date of resumption of the adjacent or contiguous land.
+- (b) | Disturbance resulting from the creation of an easement or other permanent right or a right of temporary occupation under section 15. | (b) | A disturbance payment. | (b) | Same as in item 2(a). | (b) | Same as in item 2(a).
 
-(b) Disturbance resulting from the extinction of that easement. | (b) A disturbance payment. | (b) Same as in item 3(a). | (b) Same as in item 3(a).
+- 3. | (a) | The extinction, by the operation of section 13(3), of any easement in favour of land not resumed when adjacent or contiguous land is resumed. | (a) | The expense fairly and reasonably incurred in remedying or mitigating the effect of the extinction effect of the extinction of the easement, as far as may be practicable, and any diminution in the open market value of the claimant’s interest in the land not resumed after such expense has been incurred. | (a) | Any person owning a compensatable interest in the land not resumed. | (a) | Before the expiration of 1 year from the date of resumption of the adjacent or contiguous land.
 
-4. | The closure of, or extinction, modification or restriction or a private right in respect of, a road or part of a road under section 17, so that access to any land is adversely affected. | (a) The expense fairly and reasonably incurred in remedying or mitigating the effect of such closure, extinction, modification or restriction, as far as may be practicable, and any diminution in the open market value of the claimant’s interest in the land after such expense has been incurred. | Any person owning a compensatable interest in the land. | Before the expiration of 1 year from the closure, extinction, modification or restriction.
+- (b) | Disturbance resulting from the extinction of that easement. (Amended L.N. 446 of 1994) | (b) | A disturbance payment. | (b) | Same as in item 3(a). | (b) | Same as in item 3(a).
 
-(b) A disturbance payment.
+- 4. | The closure of, or extinction, modification or restriction or a private right in respect of, a road or part of a road under section 17, so that access to any land is adversely affected. | (a) | The expense fairly and reasonably incurred in remedying or mitigating the effect of such closure, extinction, modification or restriction, as far as may be practicable, and any diminution in the open market value of the claimant’s interest in the land after such expense has been incurred. | Any person owning a compensatable interest in the land. | Before the expiration of 1 year from the closure, extinction, modification or restriction.
 
-5. | (a) The extinction, modification or restriction of any private right over Government foreshore or sea-bed under section 17. (Amended 29 of 1998 s. 105) | (a) The amount which is fairly and reasonably assessed to be the open market value of the right and, where the claimant has a compensatable interest in contiguous or adjacent land, any diminution in the open market value of that interest. | (a) Any person in whom the private right is vested. | (a) Before the expiration of 1 year from the date of extinction, modification or restriction.
+- (b) | A disturbance payment.
 
-(b) Disturbance resulting from that extinction, modification or restriction. | (b) A disturbance payment. | (b) Same as in item 5(a). | (b) Same as in item 5(a).
+- 5. | (a) | The extinction, modification or restriction of any private right over Government foreshore or sea-bed under section 17. (Amended 29 of 1998 s. 105) | (a) | The amount which is fairly and reasonably assessed to be the open market value of the right and, where the claimant has a compensatable interest in contiguous or adjacent land, any diminution in the open market value of that interest. | (a) | Any person in whom the private right is vested. | (a) | Before the expiration of 1 year from the date of extinction, modification or restriction.
 
-6. | (a) Physical or structural damage to any land or building resulting from the works. | (a) The expense which is fairly an reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | (a) Any person owning a compensatable interest in the land or building. | (a) Before the expiration of 1 year from the date of the completion of the works.
+- (b) | Disturbance resulting from that extinction, modification or restriction. | (b) | A disturbance payment. | (b) | Same as in item 5(a). | (b) | Same as in item 5(a).
 
-(b) Disturbance resulting from the structural damage mentioned in item 6(a). | (b) A disturbance payment. | (b) Same as in item 6(a). | (b) Same as in item 6(a).
+- 6. | (a) | Physical or structural damage to any land or building resulting from the works. | (a) | The expense which is fairly an reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | (a) | Any person owning a compensatable interest in the land or building. | (a) | Before the expiration of 1 year from the date of the completion of the works.
 
-7. | (a) Physical or structural damage to any land or building resulting from the exercise of any power contained in section 19. | (a) The expense which is fairly and reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | (a) Any person owning a compensatable interest in the land or building. | (a) Before the expiration of 1 year from the date of completion of the operations carried out under section 19 from which the damage is alleged to have resulted.
+- (b) | Disturbance resulting from the structural damage mentioned in item 6(a). | (b) | A disturbance payment. | (b) | Same as in item 6(a). | (b) | Same as in item 6(a).
 
-(b) Disturbance resulting from the exercise of any power contained in section 19. | (b) A disturbance payment. | (b) Same as in item 7(a). | (b) Same as in item 7(a).
+- 7. | (a) | Physical or structural damage to any land or building resulting from the exercise of any power contained in section 19. | (a) | The expense which is fairly and reasonably incurred in repairing the damage and any expense fairly and reasonably incurred in preventing or mitigating the damage. | (a) | Any person owning a compensatable interest in the land or building. | (a) | Before the expiration of 1 year from the date of completion of the operations carried out under section 19 from which the damage is alleged to have resulted.
 
-8. | (a) The removal, under section 21, of any object or structure which was erected and maintained without the contravention of any Ordinance or Government lease. (Amended 29 of 1998 s. 105) | (a) Any diminution in the open market value of the claimant’s interest in the land or building; and the expense which is fairly and reasonably incurred in moving the object or structure and making good that part of the building from which it is removed. | (a) Any person owning a compensatable interest in the land or building. | (a) Before the expiration of 1 year from the date of removal.
+- (b) | Disturbance resulting from the exercise of any power contained in section 19. | (b) | A disturbance payment. | (b) | Same as in item 7(a). | (b) | Same as in item 7(a).
 
-(b) Reinstating an object or structure described in item (a) above or of replacing the same with a similar object or structure. | (b) The expense fairly and reasonably incurred in so doing in so far as that expense is not taken into account under item 8(a). | (b) Same as in item 8(a). | (b) Before the expiration of 1 year from the date of reinstatement or replacement.
+- 8. | (a) | The removal, under section 21, of any object or structure which was erected and maintained without the contravention of any Ordinance or Government lease. (Amended 29 of 1998 s. 105) | (a) | Any diminution in the open market value of the claimant’s interest in the land or building; and the expense which is fairly and reasonably incurred in moving the object or structure and making good that part of the building from which it is removed. | (a) | Any person owning a compensatable interest in the land or building. | (a) | Before the expiration of 1 year from the date of removal.
 
-(c) The loss sustained in respect of an object or structure which was erected and maintained without the contravention of any Ordinance or Government lease and is not to be reinstated or replaced with a similar object or structure. (Amended 29 of 1998 s. 105) | (c) The amount which is fairly and reasonably estimated as the value of the object or structure. | (c) Any person owning a share or interest in the object or structure. | (c) Before the expiration of 1 year from the date of removal.
+- (b) | Reinstating an object or structure described in item (a) above or of replacing the same with a similar object or structure. | (b) | The expense fairly and reasonably incurred in so doing in so far as that expense is not taken into account under item 8(a). | (b) | Same as in item 8(a). | (b) | Before the expiration of 1 year from the date of reinstatement or replacement.
 
-(d) Disturbance resulting from the exercise of any power contained in section 21. | (d) A disturbance payment. | (d) Same as in item 8(a). | (d) Same as in item 8(a).
+- (c) | The loss sustained in respect of an object or structure which was erected and maintained without the contravention of any Ordinance or Government lease and is not to be reinstated or replaced with a similar object or structure. (Amended 29 of 1998 s. 105) | (c) | The amount which is fairly and reasonably estimated as the value of the object or structure. | (c) | Any person owning a share or interest in the object or structure. | (c) | Before the expiration of 1 year from the date of removal.
 
-9. | An amendment required or a condition imposed, under section 22(1)(c) or (d) (other than a condition mentioned in section 22(6)), to avoid incompatibility with the works. | The amount which is fairly and reasonably estimated as the loss to the claimant, including— (i) any additional expense fairly and reasonably incurred in carrying out building works; and (ii) in respect of professional fees and expenses, which loss, expense, fees and expenses are attributable solely to compliance with the amendment required or the condition imposed. | The owner of the land on which the building works are carried out. | Before the expiration of 1 year from the completion of the building.
+- (d) | Disturbance resulting from the exercise of any power contained in section 21. | (d) | A disturbance payment. | (d) | Same as in item 8(a). | (d) | Same as in item 8(a).
+
+- 9. | An amendment required or a condition imposed, under section 22(1)(c) or (d) (other than a condition mentioned in section 22(6)), to avoid incompatibility with the works. | The amount which is fairly and reasonably estimated as the loss to the claimant, including— | The owner of the land on which the building works are carried out. | Before the expiration of 1 year from the completion of the building.
+
+- (i) | any additional expense fairly and reasonably incurred in carrying out building works; and
+
+- (ii) | in respect of professional fees and expenses,
+
+- which loss, expense, fees and expenses are attributable solely to compliance with the amendment required or the condition imposed.
