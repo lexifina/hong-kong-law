@@ -44,6 +44,8 @@ GROUNDS FOR REVOCATION OF AUTHORIZATION
 
 - 15. A person has become or continues to be a chief executive or director of the authorized institution in contravention of section 71.
 
+- 15A. A person has become or continues to be an executive officer of the authorized institution in contravention of section 71C. (Added 6 of 2002 s. 15)
+
 - 16. The authorized institution is in contravention of section 74.
 
 - 17. The authorized institution engages in business practices specified in a notice under section 82(1).
@@ -52,12 +54,8 @@ GROUNDS FOR REVOCATION OF AUTHORIZATION
 
 - 19. The authorized institution requests in writing the Monetary Authority to revoke its authorization and the Monetary Authority is satisfied that the interests of depositors of the institution are or will be adequately safeguarded if he complies with that request.
 
-- 20.
+- 20. The Monetary Authority is satisfied that the authorized institution engages in business practices which would be likely to prejudice the interests of Hong Kong as an international financial centre. (Eighth Schedule added 49 of 1995 s. 52)
 
-- The Monetary Authority is satisfied that the authorized institution engages in business practices which would be likely to prejudice the interests of Hong Kong as an international financial centre.
+Editorial Note:
 
-- (Eighth Schedule added 49 of 1995 s. 52)
-
-- -
-
-- * The operation of this paragraph is affected by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002) . See the transitional provision in section 2 of that Notice.
+* The operation of this paragraph is affected by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002) . See the transitional provision in section 2 of that Notice.

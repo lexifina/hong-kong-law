@@ -56,11 +56,11 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
 - 3. The Monetary Authority is satisfied that he knows the identity of each controller of the company.
 
-- 4. If the company is incorporated in Hong Kong, the Monetary Authority is satisfied that each person who is, or is to be, a director, controller or chief executive of the company is a fit and proper person to hold the particular position which he holds or is to hold.
+- 4. If the company is incorporated in Hong Kong, the Monetary Authority is satisfied that each person who is, or is to be, a director, controller, chief executive or executive officer of the company is a fit and proper person to hold the particular position which he holds or is to hold. (Amended 6 of 2002 s. 14)
 
 - 5. If the company is incorporated outside Hong Kong, the Monetary Authority is satisfied that each person who is, or is to be—
 
-  - (a) a chief executive of the business in Hong Kong of the company;
+  - (a) a chief executive, or executive officer, of the business in Hong Kong of the company; (Amended 6 of 2002 s. 14)
 
   - (b) a director, controller or chief executive of the business of the company in the place where it is incorporated,
 
@@ -112,7 +112,7 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
     - (iv) the institution’s cash flow statement, together with any notes thereon, where the statement does not already form part of those audited annual accounts.
 
-- 12. The Monetary Authority is satisfied that the business of the company is presently, and will if it is authorized continue to be, carried on—
+- 12. The Monetary Authority is satisfied that the business (including any business which is not banking business or the business of taking deposits) of the company is presently, and will if it is authorized continue to be, carried on— (Amended 6 of 2002 s. 14)
 
   - (a) with integrity, prudence and the appropriate degree of professional competence; and
 
@@ -160,6 +160,6 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
 - (Seventh Schedule added 49 of 1995 s. 52)
 
-- -
+Editorial Note:
 
-- * For the transitional provision relating to the amendments made by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002) , see section 2 of that Notice.
+* For the transitional provision relating to the amendments made by the Banking Ordinance (Amendment of Seventh Schedule) Notice 2002 (L.N. 63 of 2002) , see section 2 of that Notice.
