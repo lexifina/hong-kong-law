@@ -46,7 +46,7 @@ PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
 
 - (Amended 59 of 2000 s. 3)
 
-- 7. The quorum of the Board shall be 5 and, while a member is disqualified from taking part in a decision or deliberation of the Board in respect of a matter, he shall be disregarded for the purpose of constituting a quorum of the Board for deciding, or deliberating on, that matter.
+- 7. The quorum of the Board shall be 7 and, while a member is disqualified from taking part in a decision or deliberation of the Board in respect of a matter, he shall be disregarded for the purpose of constituting a quorum of the Board for deciding, or deliberating on, that matter. (Amended 7 of 2000 s. 4)
 
 - 8. The Board shall have power to regulate its own procedure including power to make standing orders to regulate the number of meetings to be held by the Board in any year and the procedures to be followed at such meetings.
 
