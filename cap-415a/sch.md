@@ -10,29 +10,15 @@
 
 - 1. | For registration of a ship by virtue of section 11(1)(a) or (b) of the Ordinance (not being a ship referred to in section 95 of the Ordinance) or for registration anew—
 
-- (a) for a ship not exceeding 1000 gross registered tons . | 3500
+- (a) for a ship not exceeding 500 gross registered tons . | 3500
 
-- (b) for a ship exceeding 1000 gross registered tons— for the first 1000 gross registered tons . | 3500
-
-- and
-
-- for each additional gross registered ton or part thereof— over 1000 up to 15000 gross registered tons . | 3.50
-
-- and over 15000 gross registered tons . | 3.00
-
-- subject to a maximum fee of $100,000. (L.N. 94 of 1992)
+- (b) for a ship exceeding 500 gross registered tons . (L.N. 94 of 1992; L.N. 90 of 1999 and 44 of 1999 s. 42) | 15000
 
 - 2. | For provisional registration of a ship . | 35% of the fee payable under item 1
 
 - 3. | For changing from provisional to full registration . | 75% of the fee payable under item 1
 
-- 4. | For registering a transfer of mortgage, transfer by bill of sale, transmission, mortgage or discharge of mortgage—
-
-- (a) For a ship not exceeding 400 tons . | 440
-
-- and
-
-- (b) For every 1000 tons or part thereof in excess of 400 tons . | 100
+- 4. | For registering a transfer of mortgage, transfer by bill of sale, transmission, mortgage or discharge of mortgage (L.N. 90 of 1999 and 44 of 1999 s. 42) . | 440
 
 - 5. | For each inspection of a ship’s record in the register . | 110
 
@@ -40,27 +26,19 @@
 
 - 7. | For certification by the Registrar of a copy of, or extract from, any entry in the register . | 150
 
-- 8. | For approval or reservation of a proposed name in English prior to registration or change of name of a ship . | 300
-
-- 9. | For approval or reservation of a proposed name in Chinese prior to registration or change of name of a ship . | 300
+- 8.-9. (Repealed L.N. 90 of 1999 and 44 of 1999 s. 42)
 
 - 10. | For issue of a replacement certificate of registry . | 260
 
-- 11. | For endorsing a memorandum of change of ownership of a ship upon a bill of sale . | 150
-
-- 12. | For registering a change in address of an owner of a ship . | 150
+- 11.-12. (Repealed L.N. 90 of 1999 and 44 of 1999 s. 42)
 
 - 13. | For issue of a certified copy of a certificate of deletion . | 220
 
-- 14. | For registering a change, or a change in the name or address, of the representative person . | 150
-
-- 15. | For registering an alteration to a ship’s tonnage or description other than in connection with registration anew . | 150
+- 14.-15. (Repealed L.N. 90 of 1999 and 44 of 1999 s. 42)
 
 - 16. | For grant of a new certificate of registry upon change of any of the particulars recorded in the register relating to a ship . | 260
 
-- 17. | For allotment of signal letters . | 290
-
-- 18. | For making declarations before the Registrar in respect of any matter pursuant to the Ordinance . | 150
+- 17.-18. (Repealed L.N. 90 of 1999 and 44 of 1999 s. 42)
 
 - PART 2 FEES FOR TONNAGE MEASUREMENT AND MARKING OF SHIPS Note: 1. The fees include—
 
@@ -140,7 +118,7 @@
 
 - (A) Ships not exceeding 50 tons . | 1080
 
-- (B) Ships exceeding 50 tons but not exceeding 100 tons . | 1940
+- (B) Ships exceeding 50 tons but not exceeding 100 tons | 1940
 
 - (C) For each additional 100 tons, or part of 100 tons, exceeding 100 tons . | 245
 
@@ -228,7 +206,7 @@
 
 Item | Particular | Charge $
 
-1. | Annual tonnage charge in respect of a registered ship other than a provisionally registered ship as follows— (a) for a ship not exceeding 1000 net registered tons . (b) for a ship exceeding 1000 net registered tons— for the first 1000 net registered tons . and for each additional net registered ton or part thereof— over 1000 up to 15000 net registered tons . and over 15000 up to 35000 net registered tons . and over 35000 net registered tons . subject to a maximum charge of $180,000. (L.N. 94 of 1992) | 1500 1500 3.50 3.00 2.00
+1. | Annual tonnage charge in respect of a registered ship other than a provisionally registered ship as follows— (a) for a ship not exceeding 1000 net registered tons . (b) for a ship exceeding 1000 net registered tons— for the first 1000 net registered tons . and for each additional net registered ton or part thereof— over 1000 up to 15000 net registered tons . and over 15000 net registered tons . subject to a maximum charge of $100,000. (L.N. 90 of 1999 and 44 of 1999 s. 42) | 1500 1500 3.50 3.00
 
 2. | Annual tonnage charge in respect of a provisionally registered ship . | 25% of the amount payable under item 1 for each period of 3 months of provisional registration.
 
