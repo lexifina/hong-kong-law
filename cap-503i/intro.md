@@ -1,0 +1,5 @@
+FUGITIVE OFFENDERS (TORTURE) ORDER
+
+(Cap. 503 section 3)
+
+[13 June 1997] L.N. 329 of 1997
