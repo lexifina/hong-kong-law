@@ -4,3 +4,5 @@ s-002.md
 s-003.md
 s-004.md
 s-005.md
+sch-1.md
+sch-2.md
