@@ -30,4 +30,6 @@ SPECIFIED COMMODITIES
 
   - 12. Cash-settled stock futures contracts for differences. (Added L.N. 564 of 1994)
 
+  - 13. Fixed income instruments which generate fixed periodic interest payment until the return of the principal. (Added L.N. 93 of 2002)
+
 - PART II (Amended 61 of 1985 s. 50)
