@@ -58,6 +58,7 @@ s-036B.md
 s-037.md
 s-038.md
 s-039.md
+s-039A.md
 s-040.md
 s-041.md
 s-042.md
