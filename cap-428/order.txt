@@ -7,6 +7,7 @@ s-005.md
 s-006.md
 s-007.md
 s-013.md
+s-017.md
 s-026.md
 s-027.md
 sch.md
