@@ -8,7 +8,7 @@ Accounting Officer | Senior Accounting Officer Accounting Officer I Accounting O
 
 Adjudicator | Principal Adjudicator, Small Claims Tribunal Adjudicator, Small Claims Tribunal | 8.7.1994 1.11.1978
 
-Administrative Officer | Director of Bureau Administrative Officer Staff Grade A Administrative Officer Staff Grade B1 Administrative Officer Staff Grade B Administrative Officer Staff Grade C Senior Administrative Officer Administrative Officer | 23.5.1973 1.7.1959 22.7.1981 22.5.1974 1.7.1959 1.7.1959 1.7.1959
+Administrative Officer | Administrative Officer Staff Grade A1 (L.N. 244 of 2003) Administrative Officer Staff Grade A Administrative Officer Staff Grade B1 Administrative Officer Staff Grade B Administrative Officer Staff Grade C Senior Administrative Officer Administrative Officer | 23.5.1973 1.7.1959 22.7.1981 22.5.1974 1.7.1959 1.7.1959 1.7.1959
 
 Administrative Secretary | Administrative Secretary | 9.12.1932
 
@@ -113,8 +113,6 @@ Chief Conference Interpreter | Chief Conference Interpreter | 25.6.1986
 Chief Fire Officer | Chief Fire Officer Deputy Chief Fire Officer | 29.9.1967 9.5.1979
 
 Chief Justice, Court of Final Appeal | Chief Justice, Court of Final Appeal | 1.7.1997
-
-Chinese Language Officer | Principal Chinese Language Officer Chief Chinese Language Officer Senior Chinese Language Officer Chinese Language Officer I Chinese Language Officer II | 24.11.1995 7.9.1974 7.9.1974 7.9.1974 7.9.1974
 
 Chiropodist | Chiropodist I Chiropodist II | 1.7.1982 1.7.1982
 
@@ -254,7 +252,7 @@ Director of Fire Services | Director of Fire Services Deputy Director of Fire Se
 
 Director of General Grades | Director of General Grades | 2.7.1993
 
-Director of Government Supplies | Director of Government Supplies Deputy Director of Government Supplies | 4.4.1969 4.4.1969
+Director of Government Logistics | Director of Government Logistics Deputy Director of Government Logistics | 1.7.2003 1.7.2003 (L.N. 244 of 2003)
 
 Director of Health | Director of Health Deputy Director of Health Assistant Director of Health | 1.4.1989 1.4.1989 1.4.1989
 
@@ -400,13 +398,9 @@ Government Economist | Government Economist | 1.10.1987
 
 Government Land Agent | Principal Government Land Agent Government Land Agent | 11.2.1970 25.6.1969
 
-Government Land Transport Administrator | Government Land Transport Administrator | 10.5.1978
-
-Government Printer | Government Printer | 1.1.1952
-
 Government Security Officer | Government Security Officer | 8.3.1991
 
-Government Transport Manager | Government Transport Manager | 19.11.1975
+Government Transport Manager | Controller of Government Land Transport (L.N. 244 of 2003) Government Transport Manager | 1.7.2003 19.11.1975
 
 Hawker Control Officer | Principal Hawker Control Officer Chief Hawker Control Officer Senior Hawker Control Officer Hawker Control Officer Assistant Hawker Control Officer | 16.7.1993 16.7.1993 16.7.1993 16.7.1993 16.7.1993
 
@@ -467,8 +461,6 @@ Instructor (Correctional Services) | Instructor (Correctional Services) | 1.2.19
 Insurance Officer | Senior Insurance Officer Insurance Officer Assistant Insurance Officer | 1.6.1990 1.6.1990 1.6.1990
 
 Intellectual Property Examiner | Principal Intellectual Property Examiner Chief Intellectual Property Examiner Senior Intellectual Property Examiner Intellectual Property Examiner I Intellectual Property Examiner II | 6.1.1995 2.7.1990 2.7.1990 2.7.1990 2.7.1990
-
-Interpreter (Simultaneous Interpretation) | Chief Interpreter (Simultaneous Interpretation) Interpreter (Simultaneous Interpretation) | 1.4.1974 4.9.1973
 
 Interviewer | Head Interviewer Interviewer | 14.8.1973 14.8.1973
 
@@ -595,6 +587,8 @@ Occupational Therapy Assistant | Occupational Therapy Assistant | 22.7.1970
 Office Assistant | Office Assistant | 10.11.1976
 
 Officer/Superintendent of Correctional Services | Chief Superintendent of Correctional Services Senior Superintendent of Correctional Services Superintendent of Correctional Services Chief Officer Principal Officer Officer | 11.6.1993 1.2.1982 1.2.1982 4.6.1941 1.7.1962 1.7.1962
+
+Official Languages Officer (L.N. 244 of 2003) | Principal Official Languages Officer (L.N. 244 of 2003) Chief Official Languages Officer (L.N. 244 of 2003) Senior Official Languages Officer (L.N. 244 of 2003) Official Languages Officer I (L.N. 244 of 2003) Official Languages Officer II (L.N. 244 of 2003) | 24.11.1995 7.9.1974 7.9.1974 7.9.1974 7.9.1974
 
 Official Receiver | Official Receiver Assistant Official Receiver | 1.6.1992 1.6.1992
 
@@ -730,6 +724,8 @@ Ship Inspector | Chief Ship Inspector Senior Ship Inspector Ship Inspector Assis
 
 Shipping Safety Officer | Senior Shipping Safety Officer Shipping Safety Officer | 25.4.1973 25.4.1973
 
+Simultaneous Interpreter (L.N. 244 of 2003) | Chief Simultaneous Interpreter (L.N. 244 of 2003) Simultaneous Interpreter (L.N. 244 of 2003) | 1.4.1974 4.9.1973
+
 Social Security Assistant | Senior Social Security Assistant Social Security Assistant | 18.1.1991 18.1.1991
 
 Social Security Officer | Chief Social Security Officer Senior Social Security Officer Social Security Officer I Social Security Officer II | 1.4.1979 1.4.1979 1.4.1979 1.4.1979
@@ -855,3 +851,5 @@ Welfare Worker | Senior Welfare Worker Welfare Worker | 26.10.1983 26.10.1983
 Works Supervisor | Works Supervisor I Works Supervisor II | 1.8.1977 1.8.1977
 
 Workshop Instructor | Workshop Instructor I Workshop Instructor II Workshop Instructor III | 1.4.1972 1.4.1972 24.6.1981
+
+(Schedule 1 amended L.N. 244 of 2003)

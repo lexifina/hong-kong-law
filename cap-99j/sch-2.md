@@ -90,6 +90,12 @@ Senior Vocational Studies Tutor (VTC) | 24.7.2000
 
 Vocational Studies Tutor (VTC) | 24.7.2000
 
+Principal Lecturer (IVE) (VTC) | 1.9.2001 (L.N. 244 of 2003)
+
+Senior Lecturer (IVE) (VTC) | 1.9.2001 (L.N. 244 of 2003)
+
+Lecturer (IVE) (VTC) | 1.9.2001 (L.N. 244 of 2003)
+
 Artisan (HA) | 1.12.1991
 
 Assistant Director of Hospital Services (HA) | 1.12.1991
@@ -309,3 +315,5 @@ Tailor (HA) | 1.12.1991
 Ward Manager (HA) | 3.7.1992
 
 X-ray Mechanic (HA) | 1.12.1991
+
+(L.N. 244 of 2003)
