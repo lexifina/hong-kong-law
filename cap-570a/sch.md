@@ -36,19 +36,19 @@ Sex : Male/Female*
 
 現涉嫌犯公眾地方潔淨罪行 IS ALLEGED TO HAVE COMMITTED A PUBLIC CLEANLINESS OFFENCE
 
-定額罰款 | 六百元 | 編號 CODE NO. | 罪行事項 LIST OF OFFENCES
+定額罰款 | 一千五百元 | 編號 CODE NO. | 罪行事項 LIST OF OFFENCES
 
-FIXED PENALTY | $600 | 01 | 未經准許而展示招貼或海報(《公眾衞生及市政條例》(第132章)第104A(2)條) Display of bills or posters without permission (section 104A(2) of the Public Health and Municipal Services Ordinance (Cap. 132))
+FIXED PENALTY | $1,500 | 01 | 未經准許而展示招貼或海報(《公眾衞生及市政條例》(第132章)第104A(2)條) Display of bills or posters without permission (section 104A(2) of the Public Health and Municipal Services Ordinance (Cap. 132))
 
-02 | 將扔棄物或廢物棄置在公眾地方(《公眾潔淨及防止妨擾規例》(第132章，附屬法例)第4(1)條) Depositing of litter or waste in public places (section 4(1) of the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg.))
+02 | 將扔棄物或廢物棄置在公眾地方(《公眾潔淨及防止妨擾規例》(第132章，附屬法例BK)第4(1)條) Depositing of litter or waste in public places (section 4(1) of the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg. BK))
 
-罪行詳情 OFFENCE DETAILS | 03 | 在公眾地方吐痰(《公眾潔淨及防止妨擾規例》(第132章，附屬法例)第8A(1)條) Spitting in public places (section 8A(1) of the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg.))
+罪行詳情 OFFENCE DETAILS | 03 | 在公眾地方吐痰(《公眾潔淨及防止妨擾規例》(第132章，附屬法例BK)第8A(1)條) Spitting in public places (section 8A(1) of the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg. BK))
 
-日 day 月 month 年 year | 04 | 犬隻糞便弄污街道(《公眾潔淨及防止妨擾規例》(第132章，附屬法例)第13(1)(a)條) Fouling of street by dog faeces (section 13(1)(a) of the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg.))
+日 day 月 month 年 year | 04 | 犬隻糞便弄污街道(《公眾潔淨及防止妨擾規例》(第132章，附屬法例BK)第13(1)(a)條) Fouling of street by dog faeces (section 13(1)(a) of the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg. BK))
 
-時 hours 分 minutes | 05 | 在郊野公園及特別地區棄置廢物(《郊野公園及特別地區規例》(第208章，附屬法例)第12(1)(c)條) Depositing of litter in country parks and special areas (regulation 12(1)(c) of the Country Parks and Special Areas Regulations (Cap. 208 sub. leg.))
+時 hours 分 minutes | 05 | 在郊野公園及特別地區棄置廢物(《郊野公園及特別地區規例》(第208章，附屬法例A)第12(1)(c)條) Depositing of litter in country parks and special areas (regulation 12(1)(c) of the Country Parks and Special Areas Regulations (Cap. 208 sub. leg. A))
 
-06 | 在郊野公園及特別地區吐痰(《郊野公園及特別地區規例》(第208章，附屬法例)第12(1)(e)條) Spitting in country parks and special areas (regulation 12(1)(e) of the Country Parks and Special Areas Regulations (Cap. 208 sub. leg.))
+06 | 在郊野公園及特別地區吐痰(《郊野公園及特別地區規例》(第208章，附屬法例A)第12(1)(e)條) Spitting in country parks and special areas (regulation 12(1)(e) of the Country Parks and Special Areas Regulations (Cap. 208 sub. leg. A))
 
 07 | 海上棄置廢物(《簡易程序治罪條例》(第228章)第4D(1)條) Marine littering (section 4D(1) of the Summary Offences Ordinance (Cap. 228))
 
@@ -94,6 +94,8 @@ FIXED PENALTY | $600 | 01 | 未經准許而展示招貼或海報(《公眾衞生
 
 3. 支票、匯票或本票均須以“香港特別行政區政府”或“香港特區政府”為收款人，並加以劃線。以支票付款，須在支票首次提交付款銀行獲得兌現後，繳款方為有效。期票恕不接受。 | 3. Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. For payment made by cheque, payment is valid only when the cheque is honoured on the first presentation to the drawee bank. Post-dated cheques will not be accepted.
 
+(L.N. 155 of 2003)
+
 通知書編號
 
 Notice Serial No.
@@ -124,9 +126,9 @@ of . .
 
 On . at about . at . a public cleanliness offence contrary to section/regulation* . of . Ordinance (Chapter )/Regulation/Regulations (Chapter sub. leg.)*, namely, . , has been committed for which you are alleged to be liable.
 
-本人現要求你繳付定額罰款$600，並通知你若意欲就該罪行的法律責任提出爭議，你必須通知本人。
+本人現要求你繳付定額罰款$1,500，並通知你若意欲就該罪行的法律責任提出爭議，你必須通知本人。
 
-I hereby demand payment of the Fixed Penalty of $600 and inform you that, if you wish to dispute liability for the offence, you must inform me.
+I hereby demand payment of the Fixed Penalty of $1,500 and inform you that, if you wish to dispute liability for the offence, you must inform me.
 
 你必須在本通知書送達的日期起計的10天內——
 
@@ -200,19 +202,25 @@ If you do not pay the Fixed Penalty or notify me that you wish to dispute liabil
 
 - * 請刪去不適用者。
 
-- * Please delete where appropriate. 表格3
+- * Please delete where appropriate.
 
-- FORM 3 《定額罰款(公眾地方潔淨罪行)條例》
+(L.N. 155 of 2003)
 
-- (第570章) FIXED PENALTY (PUBLIC CLEANLINESS OFFENCES) ORDINANCE
+表格3
 
-- (Chapter 570) 關於犯事人身分、地址及欠繳定額罰款的證明書
+FORM 3 《定額罰款(公眾地方潔淨罪行)條例》
 
-- (第9(2)條) CERTIFICATE OF IDENTITY OF OFFENDER, ADDRESS
+(第570章) FIXED PENALTY (PUBLIC CLEANLINESS OFFENCES) ORDINANCE
 
-- AND NON-PAYMENT OF FIXED PENALTY
+(Chapter 570) 關於犯事人身分、地址及欠繳定額罰款的證明書
 
-- (Section 9(2)) 現證明—— This is to certify that—
+(第9(2)條) CERTIFICATE OF IDENTITY OF OFFENDER, ADDRESS
+
+AND NON-PAYMENT OF FIXED PENALTY
+
+(Section 9(2))
+
+- 現證明—— This is to certify that—
 
 - (a) 於 . 年 . 月 . 日大約 .，發生一宗違反 .，即 . 的罪行，. 涉嫌須對該罪行負責。 On the . day of . , at about . , an offence of . contrary to . has been committed for which . is alleged to be liable.
 
