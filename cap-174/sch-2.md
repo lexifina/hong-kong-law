@@ -272,7 +272,9 @@ Certificate of Registration of Death
 
 I, A.B., a registrar of deaths in the district of , do
 
-hereby certify that the death of has been duly registered by me on the day of , 19 .
+hereby certify that the death of has been duly registered by
+
+me on the day of , 19 .
 
 Dated the day of , 19 .
 
@@ -462,7 +464,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
     - (b) if no such certificate is so signed, attended the deceased during his last illness,
 
-  - comes under a duty to make a report of that death to the coroner via the Commissioner of Police as soon as is reasonably practicable after it comes to the knowledge of the practitioner that the death is a reportable death.
+  - comes under a duty to make a report of that death to the coroner as soon as is reasonably practicable after it comes to the knowledge of the practitioner that the death is a reportable death and submit a copy of the report to the Commissioner of Police at the same time.
 
   - 2. The various types of reportable deaths are specified in Part 1 of Schedule 1 to the Coroners Ordinance (Cap. 504). They are—
 
@@ -542,7 +544,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - Subject to certain defences, under the Coroners Ordinance (Cap. 504), a registered medical practitioner who fails to discharge the duty referred to in paragraph 1 commits an offence under that Ordinance and may thereby render himself liable to a fine at level 1 and to 14 days imprisonment under that Ordinance.
 
-  - (Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974 ; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5)
+  - (Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974 ; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28)
 
   - _
 
@@ -572,6 +574,8 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - Before me,
 
-  - (Signed) registrar.
+  - (Signed)
+
+  - registrar.
 
   - (Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995)

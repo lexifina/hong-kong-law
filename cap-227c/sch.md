@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made-see 25 of 1998 s. 2)
-
 - PART I FORMS FOR SUMMARY OFFENCES
 
 FORM 1 | [ss. 8 & 72]
@@ -64,9 +62,9 @@ IN THE MAGISTRATE’S COURT AT.
 
 To each and all of the police officers of Hong Kong.
 
-- On the . day of . 19 . at . *a.m./p.m. a notice to appear before a magistrate was issued by a public officer specified in the Fourth Schedule to the Magistrates Ordinance (Cap. 227), to (a) . . of (b) . requiring him to be and appear on the . day of . .19 . at . *a.m./p.m. at the Magistrate’s Court at . *Hong Kong/Kowloon/New Territories before such magistrate as might then be there to be dealt with according to law; and the said (a) . . having not appeared at the time and place so specified in the notice, although it has been proved upon oath that the notice has been served on him personally:
+- On the . day of . 19 . at . *a.m./p.m. a notice to appear before a magistrate was issued by a public officer specified in the Fourth Schedule to the Magistrates Ordinance (Cap. 227), to (a) . of (b) . requiring him to be and appear on the . day of .19 . at . *a.m./p.m. at the Magistrate’s Court at . *Hong Kong/Kowloon/New Territories before such magistrate as might then be there to be dealt with according to law; and the said (a) . having not appeared at the time and place so specified in the notice, although it has been proved upon oath that the notice has been served on him personally:
 
-- These are, therefore, to command you forthwith to apprehend the said (a) . . and to bring him before me or such magistrate as may then be sitting to be dealt with according to law.
+- These are, therefore, to command you forthwith to apprehend the said (a) . and to bring him before me or such magistrate as may then be sitting to be dealt with according to law.
 
 - Dated this . day of . 19 .
 
@@ -94,7 +92,9 @@ HONG KONG. IN THE MAGISTRATE’S COURT AT
 
 To each and all of the police officers of Hong Kong.
 
-- On the day of 19 , information was laid (or complaint was made or [name of defendant] was charged), before a magistrate of Hong Kong, that he [here state shortly the matter of the information, complaint or charge]; and the said [name of defendant] was then bound by a recognizance to be and appear on day, the day of 19 , at o’clock in the noon, at the said court, before me or such magistrate as might then be sitting, to answer to the said information (or complaint or charge) and to be further dealt with according to law; and the said [name of defendant] has not appeared at the time and place so appointed: These are, therefore, to command you forthwith to apprehend the said [name of defendant] and to bring him before me or such magistrate as may then be sitting to answer to the said information (or complaint or charge) and to be further dealt with according to law. Dated this day of 19 . . [L.S.] Magistrate. (59 of 1994 s. 8; L.N. 355 of 1997)
+On the day of 19 , information was laid (or complaint was made or [name of defendant] was charged), before a magistrate of Hong Kong, that he [here state shortly the matter of the information, complaint or charge];
+
+- and the said [name of defendant] was then bound by a recognizance to be and appear on day, the day of 19 , at o’clock in the noon, at the said court, before me or such magistrate as might then be sitting, to answer to the said information (or complaint or charge) and to be further dealt with according to law; and the said [name of defendant] has not appeared at the time and place so appointed: These are, therefore, to command you forthwith to apprehend the said [name of defendant] and to bring him before me or such magistrate as may then be sitting to answer to the said information (or complaint or charge) and to be further dealt with according to law. Dated this day of 19 . . [L.S.] Magistrate. (59 of 1994 s. 8; L.N. 355 of 1997)
 
 FORM 4 | [ss. 9, 72 & 74]
 
@@ -130,9 +130,9 @@ HONG KONG. IN THE MAGISTRATE’S COURT AT
 
 We, the undersigned of
 
-of and of
+of and
 
-, severally acknowledge ourselves to owe to the Government the several sums following, namely, the said as principal the sum of , and the said and as sureties the sum of each, to be levied on our several goods, lands, and tenements if the said fails in the condition hereon endorsed.
+of , severally acknowledge ourselves to owe to the Government the several sums following, namely, the said as principal the sum of , and the said and as sureties the sum of each, to be levied on our several goods, lands, and tenements if the said fails in the condition hereon endorsed.
 
 Signed (where not taken orally) .
 
@@ -160,7 +160,11 @@ Sworn Interpreter
 
 CONDITION ENDORSED
 
-The condition of the within-written recognizance is such that if the within-bounden appears before such magistrate as may then be sitting at the said court on day, the day of 19 , at o’clock in the noon, to answer (further) to the charge made against him by and to be (further) dealt with according to law (or appears before such magistrate as may then be sitting at for sentence when called upon) then the said recognizance shall be void, but otherwise shall remain in full force.
+The condition of the within-written recognizance is such that if the within-bounden
+
+appears before such magistrate as may then be sitting at the said court on
+
+day, the day of 19 , at o’clock in the noon, to answer (further) to the charge made against him by and to be (further) dealt with according to law (or appears before such magistrate as may then be sitting at for sentence when called upon) then the said recognizance shall be void, but otherwise shall remain in full force.
 
 -
 
@@ -168,7 +172,7 @@ NOTE.-Where the recognizance is taken orally omit the words “the undersigned�
 
 (L.N. 355 of 1997)
 
-FORM 7 | [ss. 20, 23, 31, 63, 64 & 65]
+FORM 7 | [ss. 20, 23, 31, 63, 64 & 65.]
 
 (PERSONAL)
 
@@ -176,7 +180,9 @@ Recognizance conditioned for appearance
 
 HONG KONG. IN THE MAGISTRATE’S COURT AT
 
-I, the undersigned of do hereby acknowledge myself to owe to the Government the sum of to be levied on my goods, lands and tenements if I the said shall fail in the condition hereon endorsed.
+I, the undersigned of
+
+do hereby acknowledge myself to owe to the Government the sum of to be levied on my goods, lands and tenements if I the said shall fail in the condition hereon endorsed.
 
 Signed (where not taken orally) .
 
@@ -200,7 +206,9 @@ Sworn Interpreter
 
 CONDITION ENDORSED
 
-The condition of the within-written recognizance is such that if the within-bounden appears before such magistrate as may then be sitting at the said court on day, the day of 19 , at o’clock in the noon, to answer (further) to the charge made against him by and to be (further) dealt with according to law (or appears before such magistrate as may then be sitting at for sentence when called upon) then the said recognizance shall be void, but otherwise shall remain in full force.
+The condition of the within-written recognizance is such that if the within-bounden
+
+appears before such magistrate as may then be sitting at the said court on day, the day of 19 , at o’clock in the noon, to answer (further) to the charge made against him by and to be (further) dealt with according to law (or appears before such magistrate as may then be sitting at for sentence when called upon) then the said recognizance shall be void, but otherwise shall remain in full force.
 
 -
 
@@ -208,7 +216,7 @@ NOTE.-Where the recognizance is taken orally omit the words “the undersigned�
 
 (L.N. 355 of 1997)
 
-FORM 8 | [ss. 20, 23, 31, 63, 64 & 65]
+FORM 8 | [ss. 20, 23, 31, 63, 64 & 65.]
 
 (MONEY DEPOSIT
 
@@ -218,7 +226,15 @@ Recognizance conditioned for appearance
 
 HONG KONG. IN THE MAGISTRATE’S COURT AT
 
-I, the undersigned of do hereby acknowledge myself to owe to the Government the sum of deposited herewith if I fail in the condition hereon endorsed and we, the undersigned of and of severally acknowledge ourselves as sureties to owe to the Government the several sums following, namely, the said the sum of and the said the sum of to be levied on our several goods, lands and tenements if the said fails in the condition hereon endorsed.
+I, the undersigned of
+
+do hereby acknowledge myself to owe to the Government the sum of
+
+deposited herewith if I fail in the condition hereon endorsed and we, the undersigned of and of
+
+severally acknowledge ourselves as sureties to owe to the Government the several sums following, namely, the said the sum of
+
+and the said the sum of to be levied on our several goods, lands and tenements if the said fails in the condition hereon endorsed.
 
 Signed (where not taken orally) .
 
@@ -254,7 +270,7 @@ NOTE.-Where the recognizance is taken orally omit the words “the undersigned�
 
 (L.N. 355 of 1997)
 
-FORM 9 | [ss. 20, 23, 31, 63, 64 & 65]
+FORM 9 | [ss. 20, 23, 31, 63, 64 & 65.]
 
 (PERSONAL MONEY
 
@@ -306,17 +322,11 @@ conviction and sentence or for sentence
 
 HONG KONG. IN THE MAGISTRATE’S COURT AT
 
-We, the undersigned of ,
+We, the undersigned of , of
 
-of and of
+and of severally acknowledge ourselves to owe the Government the several sums following, namely, the
 
-severally acknowledge ourselves to owe the Government the several sums following, namely, the said
-
-as principal,
-
-the sum of and the said and
-
-as sureties the sum of each, to be levied on our several goods, lands, and tenements if the said principal fails in the condition hereon endorsed.
+said as principal, the sum of and the said and as sureties the sum of each, to be levied on our several goods, lands, and tenements if the said principal fails in the condition hereon endorsed.
 
 Signed (where not taken orally) .
 
@@ -338,7 +348,9 @@ Sworn Interpreter
 
 CONDITION ENDORSED
 
-The condition of the within-written recognizance is such that if the within-bounden principal is of good behaviour for the term now next ensuing and appears for conviction and sentence or for sentence when called upon within the said period before such magistrate as may then be sitting at the said or other magistrate’s court, then the said recognizance shall be void, but otherwise shall remain in full force.
+The condition of the within-written recognizance is such that if the within-bounden principal is of good behaviour for the term
+
+now next ensuing and appears for conviction and sentence or for sentence when called upon within the said period before such magistrate as may then be sitting at the said or other magistrate’s court, then the said recognizance shall be void, but otherwise shall remain in full force.
 
 -
 
@@ -356,7 +368,11 @@ conviction and sentence or for sentence
 
 HONG KONG. IN THE MAGISTRATE’S COURT AT
 
-I, the undersigned of do hereby acknowledge myself to owe to the Government the sum of to be levied on my goods, lands and tenements if I fail in the condition hereon endorsed.
+I, the undersigned
+
+of do hereby acknowledge myself to owe to the Government the sum of
+
+to be levied on my goods, lands and tenements if I fail in the condition hereon endorsed.
 
 Signed (where not taken orally) .
 
@@ -392,7 +408,9 @@ HONG KONG. IN THE MAGISTRATE’S COURT AT
 
 To each and all of the police officers of Hong Kong and to the Commissioner of Correctional Services in Hong Kong.
 
-- (hereinafter called the defendant) was on the day of 19 , convicted by the Magistrate’s Court sitting at . , [state shortly particulars of offence], and on the said date [or on the day of 19 ,] the said Court made a probation order which required him/her for the period of [years] from the date hereof to be under the supervision of a probation officer [or an order discharging him/her subject to the condition that he/she should commit no further offence during the period of years from the date thereof]: And the defendant has this day appeared (or been brought) before me and I was satisfied that he/she had on the day of 19 , been convicted by the Magistrate’s Court sitting at ., (or District Court sitting at . or Court of First Instance), of a further offence, namely (state shortly particulars of offence), committed by him/her on the day of 19 , during the said period: [(or) And the defendant has this day been convicted by me of a further offence, namely, (state shortly particulars of offence), and I was satisfied that the said offence was committed by him/her on the day of 19 , during the said period]: And it was adjudged that the defendant for the offence in respect of which the said order was made be imprisoned in a prison in Hong Kong for the space of : These are, therefore, to command you, the said police officers, to take the defendant and convey him to a prison, and there to deliver him to the Commissioner of Correctional Services, together with this warrant; and you, the said Commissioner, to receive the defendant into your custody in a prison and then to imprison him for the space of : and for your so doing this shall be your sufficient warrant. Dated this day of 19 . . [L.S.] Magistrate. (L.N. 200 of 1972; 59 of 1994 s. 8; 25 of 1998 s. 2)
+(hereinafter called the defendant) was on the day of 19 , convicted by the Magistrate’s Court sitting at . , [state shortly particulars of offence], and on the said date [or on the day of 19 ,] the said Court made a probation order which required him/her for the period of [years] from the date hereof to be under the supervision of a probation officer [or an order discharging him/her subject to the condition that he/she should commit no further offence during the period of
+
+- years from the date thereof]: And the defendant has this day appeared (or been brought) before me and I was satisfied that he/she had on the day of 19 , been convicted by the Magistrate’s Court sitting at ., (or District Court sitting at . or Court of First Instance), of a further offence, namely (state shortly particulars of offence), committed by him/her on the day of 19 , during the said period: [(or) And the defendant has this day been convicted by me of a further offence, namely, (state shortly particulars of offence), and I was satisfied that the said offence was committed by him/her on the day of 19 , during the said period]: And it was adjudged that the defendant for the offence in respect of which the said order was made be imprisoned in a prison in Hong Kong for the space of : These are, therefore, to command you, the said police officers, to take the defendant and convey him to a prison, and there to deliver him to the Commissioner of Correctional Services, together with this warrant; and you, the said Commissioner, to receive the defendant into your custody in a prison and then to imprison him for the space of : and for your so doing this shall be your sufficient warrant. Dated this day of 19 . . [L.S.] Magistrate. (L.N. 200 of 1972; 59 of 1994 s. 8; 25 of 1998 s. 2)
 
 FORM 12 | [s. 64]
 
@@ -456,7 +474,9 @@ To each and all of the police officers of Hong Kong.
 
 Information having been laid ( or complaint having been made) before a magistrate of Hong Kong, for that [as in summons to defendant]; and it having been made to appear that
 
-- of , was likely to give material evidence on behalf of the informant (or complainant, or defendant, or accused) a summons was duly issued by the said magistrate to the said , requiring him to be and appear on day, the day of 19 , at o’clock in the noon, at the said court before such magistrate as might then be there, to testify what he should know concerning the said or the matter of the said information (or complaint); and proof having this day been made before me upon oath (or declaration) of such summons having been duly served on the said and of a reasonable sum having been tendered to him for his costs and expenses in that behalf, and the said having refused or neglected to appear at the time and place appointed by the said summons, and no just excuse having been offered for such refusal or neglect: These are, therefore, to command you to take the said and to bring and have him on day, the day of 19 , at o’clock in the noon, at the said court, before such magistrate as may then be there, to testify what he shall know concerning the matter of the said information (or complaint). Dated this day of 19 . . [L.S.] Magistrate. (59 of 1994 s. 8)
+of , was likely to give material evidence on behalf of the informant (or complainant, or defendant, or accused) a summons was duly issued by the said magistrate to the said
+
+- , requiring him to be and appear on day, the day of 19 , at o’clock in the noon, at the said court before such magistrate as might then be there, to testify what he should know concerning the said or the matter of the said information (or complaint); and proof having this day been made before me upon oath (or declaration) of such summons having been duly served on the said and of a reasonable sum having been tendered to him for his costs and expenses in that behalf, and the said having refused or neglected to appear at the time and place appointed by the said summons, and no just excuse having been offered for such refusal or neglect: These are, therefore, to command you to take the said and to bring and have him on day, the day of 19 , at o’clock in the noon, at the said court, before such magistrate as may then be there, to testify what he shall know concerning the matter of the said information (or complaint). Dated this day of 19 . . [L.S.] Magistrate. (59 of 1994 s. 8)
 
 FORM 16 | [ss. 21, 22 & 78]
 
@@ -486,7 +506,11 @@ HONG KONG. IN THE MAGISTRATE’S COURT AT
 
 To each and all of the police officers of Hong Kong and to the Commissioner of Correctional Services.
 
-- Information having been laid (or complaint having been made, or having been charged) before a magistrate of Hong Kong, for that [as in the summons to defendant]; and the said being now brought before me under and by virtue of a warrant upon such information (or complaint, or charge): These are, therefore, to command you, the said police officers, forthwith to convey the said to a prison [or some other place of security], and there to deliver him to the Commissioner of Correctional Services, together with this precept; and you, the said Commissioner to receive the said into your custody in a prison [or some other place of security], and there safely to keep him until day, the day of 19 ; when you, the said police officers, are hereby commanded to convey and have him at the said court at o’clock in the noon of the same day, before such magistrate as may then be there, to answer to the said information (or complaint, or charge) and to be further dealt with according to law. Dated this day of 19 . . [L.S.] Magistrate. (L.N. 134 of 1967; 59 of 1994 s. 8; L.N. 355 of 1997)
+Information having been laid (or complaint having been made, or
+
+- having been charged) before a magistrate of Hong Kong, for that [as in the summons to defendant]; and the said being now brought before me under and by virtue of a warrant upon such information (or complaint, or charge): These are, therefore, to command you, the said police officers, forthwith to convey the said to a prison [or some other place of security], and there to deliver him to the Commissioner of Correctional Services, together with this precept; and you, the said Commissioner to receive the said into your custody in a prison [or some other place of security], and there safely to keep him until day, the day of 19 ; when you, the said police officers, are hereby commanded to convey and have him at the said court at o’clock in the
+
+- noon of the same day, before such magistrate as may then be there, to answer to the said information (or complaint, or charge) and to be further dealt with according to law. Dated this day of 19 . . [L.S.] Magistrate. (L.N. 134 of 1967; 59 of 1994 s. 8; L.N. 355 of 1997)
 
 FORM 19 | [ss. 34 & 81]
 
@@ -494,15 +518,17 @@ Minute and depositions of witnesses
 
 HONG KONG. IN THE MAGISTRATE’S COURT AT
 
-Hong Kong on the information (or complaint) of versus , & c.
+Hong Kong on the information (or complaint) of
+
+versus , & c.
 
 Before , Esquire, a magistrate of Hong Kong, sitting at the said court.
 
-The examination of , of [merchant], and , of [labourer], taken upon oath (or declaration) this day of 19 , at the said court before the undersigned, a magistrate of Hong Kong, in the presence and hearing of against whom information is laid (or complaint is made, or who is charged) by this day before [me], for that he, the said , on the day of 19 , at [describing the offence as in the information, summons, or warrant of commitment].
+The examination of , of
 
-This deponent upon his oath (or declaration) saith as follows: [stating the deposition of the witness as nearly as possible in the words he uses. When his deposition is complete, if the offence is an indictable one, let him sign it].
+[merchant], and , of [labourer], taken upon oath (or declaration) this day of 19 , at the said court before the undersigned, a magistrate of Hong Kong, in the presence and hearing of against whom information is laid (or complaint is made, or who is charged) by this day before [me], for that he, the said , on the day of 19 , at [describing the offence as in the information, summons, or warrant of commitment].
 
-- And this deponent upon his oath (or declaration) saith as follows: [etc.]. The above depositions of and were taken [and sworn] before me at , on the day and year first above mentioned. . [L.S ] Magistrate. - NOTE.-Where a fine is inflicted a memorandum of penalties paid into court shall be added. (59 of 1994 s. 8; L.N. 355 of 1997)
+- This deponent upon his oath (or declaration) saith as follows: [stating the deposition of the witness as nearly as possible in the words he uses. When his deposition is complete, if the offence is an indictable one, let him sign it]. And this deponent upon his oath (or declaration) saith as follows: [etc.]. The above depositions of and were taken [and sworn] before me at , on the day and year first above mentioned. . [L.S ] Magistrate. - NOTE.-Where a fine is inflicted a memorandum of penalties paid into court shall be added. (59 of 1994 s. 8; L.N. 355 of 1997)
 
 FORM 20 | [ss. 28 & 69]
 
@@ -516,13 +542,17 @@ Before , Esquire, a magistrate of Hong Kong, sitting at the said court.
 
 The day of 19 .
 
-(hereinafter called the defendant) is this day convicted before the said court for that he, on the day of 19 , at [state offence]; and it is adjudged that the defendant for his said offence do forfeit and pay the sum of [state the fine and costs or compensation if any,] to be paid and applied according to law; and if the said sum be not paid forthwith (or on or before the day of 19 , or by instalments of for every days, the first instalment to be paid forthwith or on the day of 19 ), *(it is ordered that the said sum be levied by distress and sale of the defendant’s goods and chattels, and in default of sufficient distress,)
+(hereinafter called the defendant) is this day convicted before the said court for that he, on the day of
+
+19 , at [state offence]; and it is adjudged that the defendant for his said offence do forfeit and pay the sum of [state the fine and costs or compensation if any,] to be paid and applied according to law; and if the said sum be not paid forthwith (or on or before the day of 19 , or by instalments of for every days, the first instalment to be paid forthwith or on the day of 19 ), *(it is ordered that the said sum be levied by distress and sale of the defendant’s goods and chattels, and in default of sufficient distress,)
 
 *(then, inasmuch as it has now been made to appear to me that the issuing of a warrant of distress in this behalf would be ruinous to the defendant and his family,)
 
 *(then, inasmuch as it has now been made to appear to me that the defendant has no goods or chattels whereon to levy the said sum by distress,)
 
-*(then, inasmuch as I deem it inexpedient to issue such warrant of distress,) it is adjudged that the defendant be imprisoned in a prison in Hong Kong, for the space of unless the said sum (and all costs and charges of the said distress) [and of the commitment and conveying of the defendant to a prison], shall be sooner paid.
+*(then, inasmuch as I deem it inexpedient to issue such warrant of distress,) it is adjudged that the defendant be imprisoned in a prison in Hong Kong, for the space of
+
+unless the said sum (and all costs and charges of the said distress) [and of the commitment and conveying of the defendant to a prison], shall be sooner paid.
 
 .
 
@@ -812,15 +842,15 @@ HONG KONG. IN THE MAGISTRATE’S COURT AT
 
 We, the undersigned of
 
-of and
+of
 
-of severally
+and of
 
-acknowledge ourselves to owe to the Government the several sums following, namely, the
+severally acknowledge ourselves to owe to the Government the several sums following, namely, the
 
-said as principal the sum of and the
+said as principal the sum of and the said
 
-said and as sureties the sum of each, to be levied on our several goods, lands, and tenements if the said fails in the condition hereon endorsed.
+and as sureties the sum of each, to be levied on our several goods, lands, and tenements if the said fails in the condition hereon endorsed.
 
 Signed (where not taken orally) .
 
@@ -1466,11 +1496,15 @@ Complaint
 
 HONG KONG. IN THE MAGISTRATE’S COURT AT
 
-The complaint of of who says
+The complaint of
 
-that of (hereinafter called
+of who says
 
-”the defendant”) [here state the nature of the complaint] and the complainant claims from the defendant the sum of $ being money recoverable summarily as a civil debt.
+that
+
+of (hereinafter called “the defendant”) [here state the nature of the complaint] and the complainant claims from the defendant the sum of
+
+$ being money recoverable summarily as a civil debt.
 
 Dated this day of 19 .
 
@@ -1690,7 +1724,9 @@ HONG KONG. IN THE MAGISTRATE’S COURT AT
 
 Before , Esquire, a magistrate of Hong Kong.
 
-- (hereinafter called the accused) stands charged before the undersigned, a magistrate of Hong Kong, for that he, on the day of 19 , at [etc., as in the heading to the depositions] and the said charge being read to the accused and the witnesses for the prosecution and being severally examined in his presence, the accused is now addressed by me as follows: “Having heard the evidence, do you wish to say anything in answer to the charge? You are not obliged to say anything unless you desire to do so; but whatever you say will be taken down in writing, and may be given in evidence upon your trial and you are clearly to understand that you have nothing to hope from any promise of favour and that you have nothing to fear from any threat which may have been held out to you to induce you to make any admission or confession of your guilt, but that whatever you say now may be given in evidence upon your trial notwithstanding such promise or threat”; whereupon the said saith as follows: [Here state whatever the prisoner may say, and in his very words as nearly as possible. Get him to sign it, if he will]. This day of 19 . (Signed) . Taken before me at the day and year last above written. . Magistrate. (59 of 1994 s. 8)
+- (hereinafter called the accused) stands charged before the undersigned, a magistrate of Hong Kong, for that he, on the day of 19 , at [etc., as in the heading to the depositions] and the said charge being read to the accused and the witnesses for the prosecution and being severally examined in his presence, the accused is now addressed by me as follows: “Having heard the evidence, do you wish to say anything in answer to the charge? You are not obliged to say anything unless you desire to do so; but whatever you say will be taken down in writing, and may be given in evidence upon your trial and you are clearly to understand that you have nothing to hope from any promise of favour and that you have nothing to fear from any threat which may have been held out to you to induce you to make any admission or confession of your guilt, but that whatever you say now may be given in evidence upon your trial notwithstanding such promise or threat”; whereupon the said saith as follows: [Here state whatever the prisoner may say, and in his very words as nearly as possible. Get him to sign it, if he will]. This day of 19 . (Signed) . Taken before me at the day and year last above written. .
+
+- Magistrate. (59 of 1994 s. 8)
 
 FORM 79 | [s. 84]
 
@@ -1698,7 +1734,9 @@ Witness Order
 
 HONG KONG. IN THE MAGISTRATE’S COURT AT
 
-- Date: To: (Witness) Address: Order: That you attend and give evidence at the trial of (accused) in the Court of First Instance if notice is later given to you to that effect.* Note: Failure to comply with this order may render you liable to imprisonment and a fine. You will be notified of the date and time at which you are to attend by the Registrar of the High Court, to whom any inquiry should be addressed. . Magistrate. * Delete the words in italics unless the order is a conditional order. (L.N. 330 of 1981; 25 of 1998 s. 2)
+- Date: To: (Witness) Address: Order: That you attend and give evidence at the trial of (accused) in the Court of First Instance if notice is later given to you to that effect.* Note: Failure to comply with this order may render you liable to imprisonment and a fine. You will be notified of the date and time at which you are to attend by the Registrar of the High Court, to whom any inquiry should be addressed. .
+
+- Magistrate. * Delete the words in italics unless the order is a conditional order. (L.N. 330 of 1981; 25 of 1998 s. 2)
 
 FORM 80 | [s. 84(2)(b)]
 
@@ -1708,7 +1746,9 @@ as a conditional order
 
 HONG KONG. IN THE MAGISTRATE’S COURT AT
 
-- Date: To: (Witness) Address: Whereas you were on (date) ordered to attend and give evidence at the trial of (accused) in the Court of First Instance, you are NOT now required to attend UNLESS you receive a further notice directing you to do so. . Magistrate. (L.N. 330 of 1981; 25 of 1998 s. 2)
+- Date: To: (Witness) Address: Whereas you were on (date) ordered to attend and give evidence at the trial of (accused) in the Court of First Instance, you are NOT now required to attend UNLESS you receive a further notice directing you to do so. .
+
+- Magistrate. (L.N. 330 of 1981; 25 of 1998 s. 2)
 
 FORM 81 | [s. 84(3)(b)]
 
@@ -1754,11 +1794,9 @@ Taken (orally) before me the day of 19 .
 
 [L.S.] Magistrate.
 
-(or Magistrate’s Clerk or
+(or Magistrate’s Clerk or Superintendent
 
-Superintendent of Police or
-
-Inspector of Police or
+of Police or Inspector of Police or
 
 Commissioner of Correctional
 
@@ -1864,9 +1902,9 @@ Taken (orally) before me the day of 19 .
 
 [L.S.] Magistrate.
 
-(or Magistrate’s Clerk or Superintendent of
+(or Magistrate’s Clerk or Superintendent
 
-Police or Inspector of Police or
+of Police or Inspector of Police or
 
 Commissioner of Correctional
 
@@ -1980,7 +2018,7 @@ To the Commissioner of Correctional Services in Hong Kong.
 
 - PART IV FORMS FOR INDICTABLE OFFENCES TRIABLE SUMMARILY
 
-FORM 93 | [ss. 91, 92 & 93]
+FORM 93 | (ss. 91, 92 & 93)
 
 Summary conviction of indictable offence
 
@@ -2046,7 +2084,7 @@ This is a case stated by the undersigned, a magistrate of Hong Kong under the Ma
 
 - 1. At the magistrate’s court in Hong Kong, at , on the day of 19 , an information (or a complaint) preferred by (hereinafter called the respondent) against (hereinafter called the appellant) [or as the case may be], under section of the [state the enactment] charging, for that he, the appellant [etc., state the offence or cause of complaint], was heard and determined by me, the said parties respectively being then present; and upon such hearing the appellant was duly convicted before me of the said offence, and it was adjudged that he should pay (or and upon such hearing the appellant was by me ordered to pay) to the respondent the sum of [here state the adjudication of fine, sum, or imprisonment and costs, as in a conviction or an order]. (Or, if dismissed: and upon such hearing the said information (or complaint) was dismissed by me,) (and, if so, the appellant was ordered to pay to the respondent of the sum of for his costs incurred by him in his defence in that behalf, conclude as in an order of dismissal).
 
-- 2. And whereas the appellant, being dissatisfied with my determination upon the hearing of the said information (or complaint) and alleging himself to be aggrieved by such determination as being erroneous in point of law has, pursuant to section 105 of the Magistrates Ordinance (Chapter 227), duly applied to me in writing to state and sign a case setting forth the facts and the grounds of such determination as aforesaid, in order that he may appeal therefrom to a judge of the Court of First Instance, and has duly entered into a recognizance as required by the said Ordinance in that behalf. (Where the case stated has been refused in the first instance—but I, being of opinion that the application of the appellant was merely frivolous, refused to state and sign such case, and at his request signed and delivered to him a certificate of such refusal; and whereas a judge of the High Court has since ordered me to state such case.)
+- 2. And whereas the appellant, being dissatisfied with my determination upon the hearing of the said information (or complaint) and alleging himself to be aggrieved by such determination as being erroneous in point of law has, pursuant to section 105 of the Magistrates Ordinance (Chapter 227), duly applied to me in writing to state and sign a case setting forth the facts and the grounds of such determination as aforesaid, in order that he may appeal therefrom to a judge of the Court of First Instance, and has duly entered into a recognizance as required by the said Ordinance in that behalf. (Where the case stated has been refused in the first instance-but I, being of opinion that the application of the appellant was merely frivolous, refused to state and sign such case, and at his request signed and delivered to him a certificate of such refusal; and whereas a judge of the High Court has since ordered me to state such case.)
 
 - 3. Now therefore I, the said magistrate, in compliance with the said application (or in obedience to the said order of a judge of the Court of First Instance) and the provisions of the said Ordinance (if more facts are introduced than proved and by consent of the said parties), do hereby state and sign the following case.
 
@@ -2298,7 +2336,7 @@ I, the undersigned . of . hereby apply to a *magistrate/judge of the Court of Fi
 
     - 7.
 
-    - If the charge against you is one of unlawful possession contrary to section 30 of the Summary Offences Ordinance (Cap. 228) it is possible that you may be entitled to legal aid and you should consult the Court Liaison Officer of the Law Society Legal Advice & Duty Lawyer Schemes at the Magistracy from which this notice has been issued.
+    - If the charge against you is one of unlawful possession contrary to section 30 of the Summary Offences Ordinance (Cap. 228) it is possible that you may be entitled to legal aid and you should consult the Court Liaison Officer of the Duty Lawyer Service at the Magistracy from which this notice has been issued.
 
     - First Clerk Date Office hours: 9.00 a.m. to 4.30 p.m.
 
@@ -2312,7 +2350,7 @@ I, the undersigned . of . hereby apply to a *magistrate/judge of the Court of Fi
 
       - D. If you write to the Court or ask the Court for any information please give the M.O.N. number shown on the front of this form.
 
-  - (L.N. 347 of 1984; L.N. 158 of 1995)
+  - (L.N. 347 of 1984; L.N. 158 of 1995; 21 of 1999 s. 33)
 
   - FORM 106 Notice of Imposition of Penalty (Section 7G(1) Magistrates Ordinance Chapter 227) MAGISTRATE’S COURT
 
@@ -2362,7 +2400,13 @@ I, the undersigned . of . hereby apply to a *magistrate/judge of the Court of Fi
 
   - TAKE NOTICE that on the day of 19 a fine of $ [together with costs of $ ](hereinafter called ‘the penalty’) was imposed on you by the above-mentioned Magistrate’s Court in respect of the offence of which it was alleged was committed on the day of 19 . A Notice of Imposition of Penalty dated the day of 19 was later served on you requiring you to pay the penalty of $ within 21 days but as of the date of this notice, the said penalty remains unpaid. YOU ARE THEREFORE notified that unless the penalty is paid in full within 14 days of the service on you of this notice, a summons or warrant will be issued against you to enforce payment of the penalty under section 101A of the Magistrates Ordinance.
 
-    - Payment should be made to— Magistracy Hong Kong/Kowloon/New Territories (To be completed) . Magistrate. Date: STATEMENT OF PERSONAL SERVICE This document was served by me by delivering a copy of the same to the defendant personally on the day of 19 at a.m./p.m. at . (State full address of service) being the RESIDENTIAL/WORK* address of the defendant. [Where service was at defendant’s work address]— The defendant’s residential address is The same as that on the summons OR* . (Specify) (Signed) . Full name . Date: Designation . *Officer of the Court/Police Officer/ Authorized Person *Delete as appropriate.
+    - Payment should be made to— Magistracy Hong Kong/Kowloon/New Territories (To be completed) . Magistrate. Date: STATEMENT OF PERSONAL SERVICE This document was served by me by delivering a copy of the same to the defendant personally on the day of 19 at a.m./p.m. at . (State full address of service) being the RESIDENTIAL/WORK* address of the defendant. [Where service was at defendant’s work address]— The defendant’s residential address is The same as that on the summons OR* . (Specify) (Signed) . Full name . Date: Designation . *Officer of the
+
+    - Court/Police Officer/
+
+    - Authorized Person
+
+    - *Delete as appropriate.
 
   - (L.N. 413 of 1984)
 
