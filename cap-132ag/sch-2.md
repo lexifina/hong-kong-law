@@ -34,11 +34,11 @@ Pottinger Street (West side) | Road space between House No. 33 and House No. 47,
 
 Wing On Street (East side) | Road space at the side of House Nos. 120-128, Des Voeux Road Central (L.N. 120 of 1980) | 14
 
-Staveley Street(East side) | Road space at the side of House No. 146, Queen’s Road Central (L.N. 120 of 1980) | 1
+Staveley Street (East side) | Road space at the side of House No. 146, Queen’s Road Central (L.N. 120 of 1980) | 1
 
 Wing Wo Street (West side) | Road space opposite to House Nos. 1-31, Wing Wo Street (L.N. 120 of 1980) | 34
 
-Zetland Street(East side) | Road space at the side of the rear portion of House Nos. 16-18, Queen’s Road Central (L.N. 120 of 1980) | 8
+Zetland Street (East side) | Road space at the side of the rear portion of House Nos. 16-18, Queen’s Road Central (L.N. 120 of 1980) | 8
 
 Peel Street (East side) | Road space between House No. 4 and House No. 18, Peel Street and road space at the side of House No. 25, Gage Street (L.N. 120 of 1980) | 30
 
@@ -46,7 +46,7 @@ Peel Street (West side) | Road space between House No. 13 and House No. 27, Peel
 
 Peel Street (East side) | Road space between House No. 18A and House No. 28, Peel Street and road space at the side of House No. 55, Hollywood Road (L.N. 120 of 1980) | 26
 
-Graham Street (East side) | Road space at the side of House Nos. 124-126, Queen’s Road Central and road space on the section of Graham Street between Stanley Street and Wellington Street (L.N. 120 of 1980) | 8
+Graham Street East side) | Road space at the side of House Nos. 124-126, Queen’s Road Central and road space on the section of Graham Street between Stanley Street and Wellington Street (L.N. 120 of 1980) | 8
 
 Graham Street (West side) | Road space at the side of House No. 128, Queen’s Road Central and road space between House No. 1 and House No. 15, Graham Street (L.N. 120 of 1980) | 18
 
@@ -56,7 +56,7 @@ Graham Street (East side) | Road space at the side of House No. 14, Gage Street 
 
 Graham Street (West side) | Road space between House No. 33 and House No. 43, Graham Street and road space at the side of House Nos. 49-51, Hollywood Road (L.N. 120 of 1980) | 21
 
-Burd Street(South side) | Road space between House No. 10 and House No. 22, Burd Street (L.N. 120 of 1980) | 28
+Burd Street (South side) | Road space between House No. 10 and House No. 22, Burd Street (L.N. 120 of 1980) | 28
 
 Staveley Street (West side) | Road space at the side of House Nos. 148-150, Queen’s Road Central (L.N. 220 of 1980) | 6
 
@@ -87,6 +87,8 @@ Stewart Road | Pavement of Stewart Road at junction of House No. 138, Gloucester
 Tonnochy Road | Pavement of Tonnochy Road at junction of House No. 297, Jaffe Road near the western part of the entrance of the foot-bridge (L.N. 448 of 1996) | 1
 
 Sugar Street | Pavement in front of House No. 3 (L.N. 565 of 1997) | 1
+
+King’s Road | Pavement against the railing in front of House No. 89 and House No. 91 (L.N. 588 of 1997) | 1
 
 KOWLOON
 
