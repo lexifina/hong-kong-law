@@ -10,10 +10,10 @@ Article | Monthly rate
 
 (HK$)
 
-18 | 3753
+18 | 3956
 
-21 | 2290
+21 | 2413
 
-26A | 2183
+26A | 2300
 
-(Amended L.N. 489 of 1997)
+(Amended L.N. 489 of 1997; L.N. 308 of 1998)

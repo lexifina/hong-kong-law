@@ -20,63 +20,63 @@ A. | FINGERS—
 
 Index finger—
 
-More than 2 phalanges including loss of whole finger | 14 | 66478 | 66078
+More than 2 phalanges including loss of whole finger | 14 | 70068 | 69646
 
-More than 1 phalanx but not more than 2 phalanges | 11 | 53209 | 52876
+More than 1 phalanx but not more than 2 phalanges | 11 | 56082 | 55732
 
-1 phalanx or part thereof | 9 | 44319 | 44053
+1 phalanx or part thereof | 9 | 46712 | 46432
 
-Guillotine amputation of tip without loss of bone | 5 | 26538 | 26404
+Guillotine amputation of tip without loss of bone | 5 | 27972 | 27830
 
 Middle finger—
 
-More than 2 phalanges including loss of whole finger | 12 | 57588 | 57254
+More than 2 phalanges including loss of whole finger | 12 | 60698 | 60346
 
-More than 1 phalanx but not more than 2 phalanges | 9 | 44319 | 44053
+More than 1 phalanx but not more than 2 phalanges | 9 | 46712 | 46432
 
-1 phalanx or part thereof | 7 | 35429 | 35229
+1 phalanx or part thereof | 7 | 37342 | 37132
 
-Guillotine amputation of tip without loss of bone | 4 | 22159 | 22026
+Guillotine amputation of tip without loss of bone | 4 | 23356 | 23216
 
 Ring or little finger—
 
-More than 2 phalanges including loss of whole finger | 7 | 35429 | 35229
+More than 2 phalanges including loss of whole finger | 7 | 37342 | 37132
 
-More than 1 phalanx but not more than 2 phalanges | 6 | 31049 | 30850
+More than 1 phalanx but not more than 2 phalanges | 6 | 32726 | 32516
 
-1 phalanx or part thereof Guillotine amputation of tip without loss of bone | 5 2 | 26538 13269 | 26404 13203
+1 phalanx or part thereof Guillotine amputation of tip without loss of bone | 5 2 | 27972 13986 | 27830 13916
 
 B. | TOES—
 
 Great toe—
 
-through metatarso-phalangeal | 14 | 66478 | 66078
+through metatarso-phalangeal | 14 | 70068 | 69646
 
-joint part, with some loss of bone | 3 | 17647 | 17581
+joint part, with some loss of bone | 3 | 18600 | 18530
 
 1 other toe—
 
-through metatarso-phalangeal | 3 | 17647 | 17581
+through metatarso-phalangeal | 3 | 18600 | 18530
 
-joint part, with some loss of bone | 1 | 8890 | 8824
+joint part, with some loss of bone | 1 | 9370 | 9300
 
 2 toes, excluding great toe—
 
-through metatarso-phalangeal | 5 | 26538 | 26404
+through metatarso-phalangeal | 5 | 27972 | 27830
 
-joint part, with some loss of bone | 2 | 13269 | 13203
+joint part, with some loss of bone | 2 | 13986 | 13916
 
 3 toes, excluding great toe—
 
-through metatarso-phalangeal | 6 | 31049 | 30850
+through metatarso-phalangeal | 6 | 32726 | 32516
 
-joint part, with some loss of bone | 3 | 17647 | 17581
+joint part, with some loss of bone | 3 | 18600 | 18530
 
 4 toes, excluding great toe—
 
-through metatarso-phalangeal | 9 | 44319 | 44053
+through metatarso-phalangeal | 9 | 46712 | 46432
 
-joint part, with some loss of bone | 3 | 17647 | 17581
+joint part, with some loss of bone | 3 | 18600 | 18530
 
 PART II
 
@@ -90,22 +90,22 @@ Estimated duration of disablement | Degree of disablement | Amount
 
 Officer rank | Member rank
 
-temporary less than 1 year | 1-5 | 3740 | 3660
+temporary less than 1 year | 1-5 | 3942 | 3857
 
-6-14 | 8332 | 8145
+6-14 | 8781 | 8585
 
-15-19 | 14573 | 14240
+15-19 | 15360 | 15009
 
-temporary more than 1 year | 1-5 | 7479 | 7334
+temporary more than 1 year | 1-5 | 7883 | 7730
 
-6-14 | 16610 | 16250
+6-14 | 17506 | 17128
 
-15-19 | 29080 | 28441
+15-19 | 30650 | 29977
 
-Indeterminate | 1-5 | 22452 | 21906
+Indeterminate | 1-5 | 23664 | 23089
 
-6-14 | 49881 | 48657
+6-14 | 52575 | 51284
 
-15-19 | 87293 | 85084
+15-19 | 92007 | 89678
 
-(Amended L.N. 489 of 1997)
+(Amended L.N. 489 of 1997; L.N. 308 of 1998)

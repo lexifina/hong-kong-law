@@ -10,10 +10,10 @@ Age of elderly surviving spouse | Monthly rate
 
 (HK$)
 
-Aged 65 but under 70 | 523
+Aged 65 but under 70 | 551
 
-Aged 70 but under 80 | 1007
+Aged 70 but under 80 | 1061
 
-Aged 80 or over | 1498
+Aged 80 or over | 1578
 
-(Amended L.N. 489 of 1997)
+(Amended L.N. 489 of 1997; L.N. 308 of 1998)
