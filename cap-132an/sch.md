@@ -22,6 +22,8 @@ Cha Kwo Ling Market | 茶菓嶺街市 (78 of 1999 s. 7)
 
 Chai Wan Kok Cooked Food Market | 柴灣角熟食市場 (L.N. 242 of 1979)
 
+Chai Wan Market | 柴灣街市 (L.N. 44 of 2001)
+
 Chai Wan Temporary Market | 柴灣臨時街市 (78 of 1999 s. 7)
 
 Cheung Chau Cooked Food Market | 長洲熟食市場 (L.N. 113 of 1991)
