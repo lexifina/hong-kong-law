@@ -252,4 +252,6 @@ Item | Periods | Rate of interest
 
 124. | On or after 7 January 2002 and before 4 February 2002 (L.N. 1 of 2002; L.N. 19 of 2002) | 0.4583% per annum
 
-125. | On or after 4 February 2002 (L.N. 19 of 2002) | 0.4500% per annum
+125. | On or after 4 February 2002 and before 4 March 2002 (L.N. 19 of 2002; L.N. 27 of 2002) | 0.4500% per annum
+
+126. | On or after 4 March 2002 (L.N. 27 of 2002) | 0.5292% per annum
