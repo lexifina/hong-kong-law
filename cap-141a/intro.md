@@ -1,0 +1,7 @@
+BOATS AND WHARVES (SUPPLY OF WATER) REGULATIONS
+
+(Cap. 141, section 8)
+
+[17 September 1937]
+
+(G.N. 659 of 1937)
