@@ -4,15 +4,15 @@
 
 - PART I In this Schedule—
 
-  - “former Ordinance” (先前條例) means the Ordinance known immediately before 1 July 1997 as the Boundary and Election Commission Ordinance (Cap. 432);
+  - “former Ordinance” (先前條例) means the Ordinance known immediately before 1 July 1997 as the Boundary and Election Commission Ordinance (Cap. 432).
 
-  - “repealed Ordinance” (被廢除條例) means the Ordinance known immediately before 1 July 1997 as the Electoral Provisions Ordinance (Cap. 367).
+- (Amended 48 of 1999 s. 53)
 
 - PART II The persons disqualified under section 3(5)(e) of this Ordinance from appointment or holding office as a member of the Commission are—
 
   - (a) a person who is an employee or servant of—
 
-    - (i) the Provisional Legislative Council or the Legislative Council or a committee of any such Council;
+    - (i) the Legislative Council or a committee of any such Council; (Amended 48 of 1999 s. 53)
 
     - (ii) the Provisional Urban Council, the provisional Regional Council or the committee of such Council;
 
@@ -20,29 +20,27 @@
 
     - (iv) a member of any political body; and
 
-  - (b) persons who would have been disqualified from nomination as a candidate at an election within the meaning of the repealed Ordinance under the following sections of the repealed Ordinance—
+  - (b) persons who would have been disqualified from nomination as a candidate at an election within the meaning of the Legislative Council Ordinance (Cap. 542) under the following sections of that Ordinance—
 
-    - (i) section 19(1)(a);
+    - (i) section 39(1)(a)(ii) (except persons specified in paragraph (d) of the definition of “prescribed public officer” in section 39(5) of that Ordinance);
 
-    - (ii) section 19(1)(aa);
+    - (ii) section 39(1)(a)(iii);
 
-    - (iii) section 19(1)(ae) (except persons holding an office specified in item 4 of the Schedule to the repealed Ordinance);
+    - (iii) section 39(1)(b);
 
-    - (iv) section 19(1)(b);
+    - (iv) section 39(1)(c);
 
-    - (v) section 19(1)(c);
+    - (v) section 39(1)(d);
 
-    - (vi) section 19(1)(d);
+    - (vi) section 39(1)(e);
 
-    - (vii) section 19(1)(da);
+    - (vii) section 39(1)(g);
 
-    - (viii) section 19(1)(f);
+    - (viii) section 39(1)(i);
 
-    - (ix) section 19(1)(g);
+    - (ix) section 39(2);
 
-    - (x) section 19(1)(h);
-
-    - (xi) section 19(2).
+    - (x) section 39(3). (Amended 48 of 1999 s. 53)
 
 - PART III A person disqualified under section 3(5)(k)(xi) of this Ordinance is a person who would have been disqualified from appointment or holding office under any of the following sections of the former Ordinance—
 
