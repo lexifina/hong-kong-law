@@ -70,7 +70,7 @@ Item | $
 
 11. | (Repealed L.N. 484 of 1996)
 
-12. | Registration of person approved as eligible to receive a certificate under the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997) . | 3003
+12. | Registration of person under Part IIIA of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999) . | 3003
 
 13. | Annual fee for any period beginning on or after 1 July 1993 for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993) | 2825
 
