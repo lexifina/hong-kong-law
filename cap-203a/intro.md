@@ -1,0 +1,5 @@
+CROSS-HARBOUR TUNNEL REGULATIONS
+
+(Cap. 203 section 61)
+
+[3 August 1972] G.N. 1852 of 1972
