@@ -1,0 +1,5 @@
+CONTROL OF OBSCENE AND INDECENT ARTICLES RULES
+
+(Cap. 390, section 44)
+
+[1 September 1987]
