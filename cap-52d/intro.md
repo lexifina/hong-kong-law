@@ -1,5 +1,3 @@
 TELEVISION (PERIOD OF VALIDITY OF LICENCE) (ASIA TELEVISION LIMITED) ORDER
 
-(Cap. 52, section 9)
-
-[25 November 1988]
+(Ceased to be in force)
