@@ -62,7 +62,7 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 23. | Regulation 53(3) | Excess passengers | $450
 
-24. | Regulation 54(1) | Overloading (Amend L.N. 477 of 1993) | $1,000
+24. | Regulation 54(1) | Overloading (Amended L.N. 477 of 1993) | $1,000
 
 25. | Regulation 57 | Insecure load | $450
 
@@ -74,7 +74,7 @@ Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 su
 
 28. | Regulation 5(4) | Defective direction indicator | $320
 
-29. | Regulation 31(1)(a) | Excess smoke or visible vapour | $450
+29. | Regulation 31(1)(a) | Excess smoke or visible vapour | $1,000
 
 30. | Regulation 90(2) | Defective or inadequate dipping mechanism | $320
 
@@ -148,6 +148,6 @@ Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q)
 
 56. | Regulation 11 | Failing to comply with restriction on using offside lane (Added L.N. 255 of 1991) | $450
 
-57. | Regulation 13 | Overtaking another vehicle on its nearside (Added L.N.255 of 1991) | $450
+57. | Regulation 13 | Overtaking another vehicle on its nearside (Added L.N. 255 of 1991) | $450
 
-(Schedule replaced L.N. 47 of 1989. Amended L.N. 110 of 1994)
+(Schedule replaced L.N. 47 of 1989. Amended L.N. 110 of 1994; L.N. 206 of 2000)
