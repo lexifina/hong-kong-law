@@ -1,0 +1,27 @@
+# SCHEDULE 3
+
+[s. 86]
+
+FEES FOR VEHICLE EXAMINATIONS
+
+$
+
+1. | Motor cycle or motor tricycle | 320
+
+2. | Private car | 530
+
+3. | Taxi | 530
+
+4. | Goods vehicle or special purpose vehicle not exceeding 5.5 tonnes permitted gross vehicle weight | 630
+
+5. | Goods vehicle or special purpose vehicle exceeding 5.5 tonnes permitted gross vehicle weight | 850
+
+6. | Light bus | 630
+
+7. | Single-decked bus | 850
+
+8. | Double-decked bus | 950
+
+9. | Trailer (other than a trailer towed by a private car) | 530
+
+(Replaced L.N. 210 of 1995)
