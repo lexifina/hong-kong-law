@@ -80,8 +80,6 @@ Hong Kong Housing Society. (Added L.N. 155 of 1996)
 
 Hong Kong Monetary Authority. (Added L.N. 97 of 1993)
 
-Hong Kong Sports Development Board. (Added L.N. 139 of 1999)
-
 Hospital Authority. (Added L.N. 420 of 1991)
 
 Hospital Services Department. (Added L.N. 414 of 1989)
@@ -168,7 +166,7 @@ Vocational Training Council. (Added L.N. 155 of 1996)
 
 Water Supplies Department.
 
-(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28; L.N. 164 of 2003; L.N. 104 of 2004)
+(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28; L.N. 164 of 2003; L.N. 104 of 2004; 11 of 2004 s. 18)
 
 - PART II Independent Commission Against Corruption. Hong Kong Auxiliary Police Force. (Amended 25 of 1998 s. 2) Hong Kong Police Force. (Amended 25 of 1998 s. 2) Secretariat of the Independent Police Complaints Council. Secretariat of the Public Service Commission. (Part II added 74 of 1996 s. 9)
 

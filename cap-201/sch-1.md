@@ -110,7 +110,7 @@ PUBLIC BODIES
 
 - 53. The Open University of Hong Kong. (Replaced 50 of 1997 s. 29)
 
-- 54. Hong Kong Sports Development Board. (Added 8 of 1990 s. 18)
+- 54. (Repealed 11 of 2004 s. 17)
 
 - 55. Travel Industry Council of Hong Kong. (Added L.N. 62 of 1990)
 
