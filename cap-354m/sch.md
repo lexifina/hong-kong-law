@@ -24,4 +24,8 @@ Item | Refuse transfer station | Particular | Peak hours | Non-peak hours
 
 (ii) to ascertain the actual weight of the load will cause public health problems (L.N. 56 of 2001)
 
+5. | Northwest New Territories Transfer Station at Shung Tat Street, Yuen Long, N.T. (Boundaries delineated in Plan number TM 3791-Db) | (a) For each load of 1 tonne or less (b) For each load of more than 1 tonne (c) For each load of waste in respect of which the Director is of the opinion that— (i) it is impracticable to ascertain the actual weight of the load; or (ii) to ascertain the actual weight of the load will cause public health problems (L.N. 119 of 2002) | $38 $0.38 per 0.01 tonne or part thereof $38 | $38 $0.38 per 0.01 tonne or part thereof $38
+
+6. | Outlying Islands Transfer Facilities-Ma Wan Station at Pak Wan, Ma Wan, N.T., adjoining Sewage Treatment Plant (Boundaries delineated in Plan number TWA 1058-E) | (a) For each load of 1 tonne or less (b) For each load of more than 1 tonne (c) For each load of waste in respect of which the Director is of the opinion that— (i) it is impracticable to ascertain the actual weight of the load; or (ii) to ascertain the actual weight of the load will cause public health problems (L.N. 119 of 2002) | $68 $0.68 per 0.01 tonne or part thereof $68 | $68 $0.68 per 0.01 tonne or part thereof $68
+
 (L.N. 56 of 2001)
