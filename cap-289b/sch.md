@@ -172,4 +172,6 @@ Item | Periods | Rate of interest
 
 84. | On or after 2 June 1997 and before 1 September 1997 (L.N. 267 of 1997; L.N. 417 of 1997) | 4.92% per annum
 
-85. | On or after 1 September 1997 (L.N. 417 of 1997) | 5.52% per annum
+85. | On or after 1 September 1997 and before 1 December 1997 (L.N. 417 of 1997; L.N.564 of 1997) | 5.52% per annum
+
+86. | On or after 1 December 1997 (L.N. 564 of 1997) | 6.24% per annum
