@@ -6,11 +6,13 @@
 
 TOLLS AND FEES
 
+(*See amendments at footnote.)
+
 Vehicle | Tolls
 
 Aberdeen Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung Kwan O Tunnel
 
-All vehicles | $5 | $6 | $5 | $3
+All vehicles | $5 | $8 | $5 | $3
 
 Vehicle | Removal Fee
 
@@ -28,4 +30,40 @@ Aberdeen Tunnel | Airport Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung
 
 All vehicles | $82 | $82 | $82 | $82 | $82
 
-(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998)
+(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 35)
+
+_
+
+* The following amendments made to this Schedule according to L.N. 90 of 1999 and Ord. No. 44 of 1999 shall only apply to take effect on and after 1 September 1999—
+
+- (1) repeal “[regs. 12, 13 & 14]” and substitute “[regs. 2, 12, 13 & 14]”;
+
+- (2) add before the table of tolls— “Tolls (for tunnels other than the Cross-Harbour Tunnel)”;
+
+- (3) add after the table of tolls— “Tolls (for the Cross-Harbour Tunnel)
+
+- Vehicle | Tolls
+
+- 1. | Motor cycles, motor tricycles | $8
+
+- 2. | Taxis | $10
+
+- 3. | Private cars | $20
+
+- 4. | Public and private light buses | $10
+
+- 5. | Light goods vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes | $15
+
+- 6. | Medium goods vehicles of a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | $20
+
+- 7. | Heavy goods vehicles of a permitted gross vehicle weight exceeding 24 tonnes | $30
+
+- 8. | Public and private single-decked buses | $10
+
+- 9. | Public and private double-decked buses | $15
+
+- 10. | Each additional axle in excess of two | $10”;
+
+  - (4) add before the table of removal fees— “Removal Fee”;
+
+  - (5) add before the table of permit fees— “Permit Fee”.
