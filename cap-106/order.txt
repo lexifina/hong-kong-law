@@ -109,4 +109,5 @@ s-039A.md
 s-039B.md
 s-040.md
 s-041.md
-sch.md
+sch-1.md
+sch-2.md
