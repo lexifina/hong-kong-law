@@ -1,0 +1,7 @@
+NEW TERRITORIES (LAND REGISTRIES APPROVAL) ORDER
+
+(8 of 1993 s. 30)
+
+(Cap, 97 section 10(1))
+
+[23 November 1973]
