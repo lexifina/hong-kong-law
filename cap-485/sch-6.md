@@ -8,6 +8,10 @@ DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
 
 - 2. A decision of the Authority imposing conditions on an applicant for approval as an approved trustee. (Added 4 of 1998 s. 2)
 
+- 2A. A decision of the Authority amending conditions imposed on an approved trustee. (Added 2 of 2002 s. 20)
+
+- 2B. A decision of the Authority imposing conditions on an approved trustee subsequent to the trustee’s approval. (Added 2 of 2002 s. 20)
+
 - 3. A decision of the Authority to suspend the approval of an approved trustee. (Added 4 of 1998 s. 2)
 
 - 4. A decision of the Authority to revoke the approval of an approved trustee. (Added 4 of 1998 s. 2)
@@ -15,6 +19,10 @@ DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
 - 5. A decision of the Authority to refuse to register a provident fund scheme as an employer sponsored scheme or a master trust scheme. (Added 4 of 1998 s. 2)
 
 - 6. A decision of the Authority imposing conditions on an applicant for the registration of a provident fund scheme. (Added 4 of 1998 s. 2)
+
+- 6A. A decision of the Authority amending conditions imposed on the administration or marketing of a registered scheme. (Added 2 of 2002 s. 20)
+
+- 6B. A decision of the Authority imposing conditions on the administration or marketing of a registered scheme subsequent to the scheme’s registration. (Added 2 of 2002 s. 20)
 
 - 7. A decision of the Authority to suspend an approved trustee’s administration of a registered scheme. (Added 4 of 1998 s. 2)
 

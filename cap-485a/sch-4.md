@@ -18,7 +18,7 @@ Item | Relevant section of the Ordinance | Short description of the relevant dut
 
 - PART II Mandatory Provident Fund Schemes (General) Regulation
 
-- (Cap. 485 sub. leg.)
+- (Cap. 485 sub. leg. A)
 
 Item | Relevant section of the Regulation | Short description of the relevant duty or requirement | Amount of financial penalty for first failure $ | Amount of financial penalty for second failure $ | Amount of financial penalty for third or subsequent failure $
 
@@ -59,6 +59,8 @@ Item | Relevant section of the Regulation | Short description of the relevant du
 22 | 62 | Approved trustee to report events of significant nature | 10000 | 20000 | 50000
 
 23 | 63 | Amendments to the governing rules of registered scheme not to take effect without Authority’s approval | 10000 | 20000 | 50000
+
+23A | 63A | Amendments to offering documents require Authority’s approval (2 of 2002 s. 21) | 10000 | 20000 | 50000
 
 24 | 74 | Approved trustee to review service providers’ reports | 10000 | 20000 | 50000
 
@@ -118,7 +120,7 @@ Item | Relevant section of the Regulation | Short description of the relevant du
 
 52 | 135 | Approved trustee to inform Authority of non-payment or discrepancy of mandatory contribution | 10000 | 20000 | 50000
 
-53 | 136(5) and (8) | Approved trustee to inform Authority of non-payment of arrears and contribution surcharge | 10000 | 20000 | 50000
+53 | 136(5) | Approved trustee to inform Authority of non-payment of arrears and contribution surcharge (2 of 2002 s. 21) | 10000 | 20000 | 50000
 
 54 | 136(10) | Participating employer and self-employed person to comply with requirement of a notice served under section 136 | 10000 | 20000 | 50000
 
@@ -153,6 +155,8 @@ Item | Relevant section of the Regulation | Short description of the relevant du
 69 | 164(3) | Employer to provide letter under section 164(3) | 10000 | 20000 | 50000
 
 70 | 166 | Approved trustee to ensure payment of accrued benefits within certain period | 10000 | 20000 | 50000
+
+70A | 167 | Approved trustee not to pay accrued benefits if scheme accounts are being audited or if scheme is being investigated (2 of 2002 s. 21) | 10000 | 20000 | 50000
 
 71 | 168 | Approved trustee to ensure claimant provided with final benefit statement | 10000 | 20000 | 50000
 

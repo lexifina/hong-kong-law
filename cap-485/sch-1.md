@@ -12,9 +12,9 @@ EXEMPT PERSONS
 
   - 3. Any person who is an officer to which the Pension Benefits (Judicial Officers) Ordinance (Cap. 401) applies.
 
-  - 4. Any person who is a teacher to which the Grant Schools Provident Fund Rules (Cap. 279 sub. leg.) apply.
+  - 4. Any person who is a teacher to which the Grant Schools Provident Fund Rules (Cap. 279 sub. leg. C) apply.
 
-  - 5. Any person who is a teacher to which the Subsidized Schools Provident Fund Rules (Cap. 279 sub. leg.) apply.
+  - 5. Any person who is a teacher to which the Subsidized Schools Provident Fund Rules (Cap. 279 sub. leg. D) apply.
 
   - 6. Any relevant employee or self-employed person who, at the date of the coming into operation of this Schedule, has attained 64 years of age.
 
@@ -34,7 +34,7 @@ EXEMPT PERSONS
 
         - (a) if the employee is being employed on the commencement of section 7 of this Ordinance, the time of that commencement;
 
-        - (b) if the employee is employed after that commencement, the date on which the employment begins.
+        - (b) if the employee is employed after that commencement, the beginning of the date on which the employment begins. (Amended 2 of 2002 s. 19)
 
   - (Replaced L.N. 225 of 2000)
 
