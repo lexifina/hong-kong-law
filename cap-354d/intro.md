@@ -1,0 +1,5 @@
+WASTE DISPOSAL (PERMITS AND LICENCES) (FORMS AND FEES)
+
+(Cap. 354 section 33)
+
+[7 February 1992]
