@@ -1,0 +1,5 @@
+SMOKING (PUBLIC HEALTH) REGULATIONS
+
+(Cap. 371 section 18(1))
+
+[13 August 1982]
