@@ -92,7 +92,7 @@ King’s Road | Pavement against the railing in front of House No. 89 and House 
 
 Chiu Lung Street (East side) | At portion facing Queen’s Road Central (L.N. 128 of 1999) | 9
 
-Findlay Road | Kerbside near the Tai Ping Shan Lions View Point Pavilion (L.N. 128 of 1999) | 5
+Findlay Road | Kerbside near the Tai Ping Shan Lions View Point Pavilion (L.N. 287 of 1999) | 6
 
 KOWLOON
 
