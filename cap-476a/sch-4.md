@@ -26,6 +26,6 @@ Section | Description | Fee $
 
 17(4) | Renewal of a permit— (a) permit for fishing (b) any other permit | Nil 217
 
-17(7) | Duplicate of a permit | 140
+17(7) | Duplicate of a permit | 87
 
-(L.N. 474 of 1997)
+(L.N. 474 of 1997; L.N. 350 of 2000; L.N. 31 of 2001)
