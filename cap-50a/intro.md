@@ -1,0 +1,5 @@
+PROFESSIONAL ACCOUNTANTS BY-LAWS
+
+(Cap. 50, section 8(4))
+
+[1 January 1973]
