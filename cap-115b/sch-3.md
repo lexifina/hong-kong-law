@@ -45,3 +45,5 @@
 - 22. High Island Detention Centre. (L.N. 360 of 1997)
 
 - 23. The 1st and 2nd floors of No. 1 Ma Tau Kok Road, Kowloon. (L.N. 538 of 1997)
+
+- 24. The area set aside as a detention room in the part of the River Trade Terminal, Tuen Mun, occupied by the Immigration Department. (L.N. 324 of 1998)
