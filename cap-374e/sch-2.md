@@ -16,7 +16,7 @@ Transfer of ownership fee
 
 (a) motor cycles and motor tricycles | 250
 
-(b) all other vehicles (40 of 1991 s. 7) | 1,000
+(b) all other vehicles (40 of 1991 s. 7) | 1000
 
 Duplicate registration document or vehicle licence fee, other than in the case of a rickshaw | 60
 
@@ -24,7 +24,7 @@ Duplicate vehicle licence fee in the case of a rickshaw | 10
 
 Duplicate trade licence or permit | 65
 
-(L.N. 300 of 1990; L.N. 267 of 1994; L.N. 201 of 1995; L.N. 525 of 1996)
+(L.N. 300 of 1990; L.N. 267 of 1994; L.N. 201 of 1995; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998)
 
 Annual Licence Fees
 
@@ -120,7 +120,7 @@ Permit and Certificate Fees
 
 13. Expressway permit | 185
 
-(L.N. 201 of 1995; L.N. 525 of 1996)
+(L.N. 201 of 1995; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998)
 
 Notes
 
