@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[paragraph 2]
+[para. 2]
 
 Item | Periods | Rate of interest
 
@@ -172,10 +172,12 @@ Item | Periods | Rate of interest
 
 84. | On or after 2 June 1997 and before 1 September 1997 (L.N. 267 of 1997; L.N. 417 of 1997) | 4.92% per annum
 
-85. | On or after 1 September 1997 and before 1 December 1997 (L.N. 417 of 1997; L.N.564 of 1997) | 5.52% per annum
+85. | On or after 1 September 1997 and before 1 December 1997 (L.N. 417 of 1997; L.N. 564 of 1997) | 5.52% per annum
 
 86. | On or after 1 December 1997 and before 2 March 1998 (L.N. 564 of 1997; L.N. 156 of 1998) | 6.24% per annum
 
 87. | On or after 2 March 1998 and before 1 June 1998 (L.N. 156 of 1998; L.N. 233 of 1998) | 7.68% per annum
 
-88. | On or after 1 June 1998 (L.N. 233 of 1998) | 8.28% per annum
+88. | On or after 1 June 1998 and before 1 September 1998 (L.N. 233 of 1998; L.N. 302 of 1998) | 8.28% per annum
+
+89. | On or after 1 September 1998 (L.N. 302 of 1998) | 8.04% per annum
