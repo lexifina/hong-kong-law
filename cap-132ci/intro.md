@@ -1,0 +1,5 @@
+LICENSING APPEALS BOARD RULES
+
+(Cap. 132, section 125G)
+
+[15 March 2000] L.N. 57 of 2000
