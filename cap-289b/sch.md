@@ -234,4 +234,6 @@ Item | Periods | Rate of interest
 
 115. | On or after 2 April 2001 and before 2 May 2001 (L.N. 77 of 2001; L.N. 89 of 2001) | 3.4875% per annum
 
-116. | On or after 2 May 2001 (L.N. 89 of 2001) | 2.9708% per annum
+116. | On or after 2 May 2001 and before 4 June 2001 (L.N. 89 of 2001; L.N. 124 of 2001) | 2.9708% per annum
+
+117. | On or after 4 June 2001 (L.N. 124 of 2001) | 2.5750% per annum
