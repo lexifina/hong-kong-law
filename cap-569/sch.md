@@ -624,9 +624,11 @@ ELECTION COMMITTEE
 
         - “corporate voter” (團體投票人) means a body that is a voter for a subsector;
 
-        - “existing functional constituencies final register” (現有功能界別正式選民登記冊) means the final register of electors for functional constituencies compiled under section 32(1) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors;
+        - “District Council ordinary election” (區議會一般選舉) means elections to elect persons to fill the vacancies caused by the expiration of the term of office of the elected members of District Councils; (Added 33 of 2002 s. 11)
 
-        - “existing geographical constituencies final register” (現有地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under section 32(1) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors;
+        - “existing functional constituencies final register” (現有功能界別正式選民登記冊) means the final register of electors for functional constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
+
+        - “existing geographical constituencies final register” (現有地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
 
         - “existing subsector final register” (現有界別分組正式投票人登記冊), in relation to—
 
@@ -636,9 +638,9 @@ ELECTION COMMITTEE
 
         - “subsector” (界別分組) means a subsector referred to in section 2(7)(b);
 
-        - “subsector final register” (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b);
+        - “subsector final register” (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b) or (1A)(b); (Amended 33 of 2002 s. 11)
 
-        - “subsector provisional register” (界別分組臨時投票人登記冊) means the provisional register to be compiled and published under section 14(1)(a);
+        - “subsector provisional register” (界別分組臨時投票人登記冊) means the provisional register to be compiled and published under section 14(1)(a) or (1A)(a); (Amended 33 of 2002 s. 11)
 
         - “voter” (投票人) means a person whose name is registered in a subsector final register and who is eligible to be so registered and is not disqualified from being so registered or from voting at a subsector election.
 
@@ -836,9 +838,15 @@ ELECTION COMMITTEE
 
       - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
 
-        - (a) not later than 30 November 2001 and not later than 15 April in each subsequent year, a provisional register of voters for subsectors; and
+        - (a) not later than 15 June in each year other than a year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and
 
-        - (b) not later than 14 December 2001 and not later than 25 May in each subsequent year, a final register of voters for subsectors.
+        - (b) not later than 25 July in each year other than a year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Amended 33 of 2002 s. 11)
+
+      - (1A) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
+
+        - (a) not later than 15 August in each year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and
+
+        - (b) not later than 25 September in each year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Added 33 of 2002 s. 11)
 
       - (2) The Electoral Registration Officer may amend a subsector provisional register or subsector final register so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
 
