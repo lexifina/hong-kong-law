@@ -4,7 +4,7 @@
 
 JURISDICTION OF TRIBUNAL
 
-- 1. Any monetary claim founded in contract, quasi-contract or tort where the amount claimed is not more than $15,000, whether on balance of account or otherwise: (Amended L.N. 81 of 1982; 14 of 1986 s. 11; 49 of 1988 s. 2)
+- 1. Any monetary claim founded in contract, quasi-contract or tort where the amount claimed is not more than $50,000, whether on balance of account or otherwise: (Amended L.N. 81 of 1982; 14 of 1986 s. 11; 49 of 1988 s. 2; 28 of 1999 s. 17)
 
   - Provided that the tribunal shall not have jurisdiction to hear and determine—
 
@@ -22,12 +22,14 @@ JURISDICTION OF TRIBUNAL
 
     - (d) any action that lies within the jurisdiction of the Labour Tribunal established under the Labour Tribunal Ordinance (Cap. 25).
 
+- 1A. Notwithstanding subparagraph (d) of the proviso to paragraph 1, the tribunal shall have jurisdiction to hear and determine a claim transferred to the tribunal under section 10(2) of the Labour Tribunal Ordinance (Cap. 25). (Added 25 of 1999 s. 19)
+
 - 2. Any claim for the recovery of any penalty, expenses, contribution or other amount which is recoverable by virtue of any enactment and for the recovery of any amount which is declared by any enactment to be recoverable as a civil debt if—
 
   - (a) it is not expressly provided by that or any other enactment that the demand shall be recoverable only in some other court; and
 
   - (b)
 
-  - the amount claimed does not exceed $15,000. (Amended L.N. 81 of 1982; 14 of 1986 s. 11; 49 of 1988 s. 2)
+  - the amount claimed does not exceed $50,000. (Amended L.N. 81 of 1982; 14 of 1986 s. 11; 49 of 1988 s. 2; 28 of 1999 s. 17)
 
 - For the purposes of this paragraph, “penalty” (罰金) shall not include a fine imposed on the conviction of any person for an offence.
