@@ -1,0 +1,5 @@
+MARRIAGE REFORM REGULATIONS
+
+(Cap. 178, section 24)
+
+[1 October 1971]
