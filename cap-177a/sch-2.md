@@ -8,7 +8,7 @@ Item | Particular | Fee $
 
 1. | Identity card prepared under regulation 5(1)(a) in respect of an application under regulation 3, 3A, 3B, 6, 7A or 7B . | Nil
 
-2. | Identity card prepared under regulation 5(1)(b) in respect of consuls, consular staff, etc. . | Nil
+2. | Identity card prepared under regulation 5(1)(b) in respect of consuls, consular staff, the Head and members of the EC Office, etc. (L.N. 165 of 2003) . | Nil
 
 3. | Lost or destroyed identity card replaced under regulation 13 . | 395
 
