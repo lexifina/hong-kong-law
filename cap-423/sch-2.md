@@ -52,7 +52,7 @@ Item Body
 
 - 23. Hong Kong Christian Service Kwun Tong Vocational Training Centre
 
-- 24. Hong Kong Federation of Handicapped Youth
+- 24. (Repealed L.N. 99 of 2001)
 
 - 25. Hong Kong Federation of Women
 
@@ -70,7 +70,7 @@ Item Body
 
 - 32. New Territories Association of Societies
 
-- 33. Harbour Transportation Workers General Union
+- 33. (Repealed L.N. 99 of 2001)
 
 - 34. Hong Kong Association of the Blind
 
@@ -88,17 +88,17 @@ Item Body
 
 - 41. The Hong Kong Society for the Deaf
 
-- 42. The Hospital Authority
+- 42. (Repealed L.N. 99 of 2001)
 
 - 43. Hong Kong Travel & Tourism Training Centre Limited
 
-- 44. Hong Kong Young Men’s Christian Association
+- 44. (Repealed L.N. 99 of 2001)
 
 - 45. Kwai Chung Residents Association
 
 - 46. Princess Margaret Hospital
 
-- 47. Rehabilitation Alliance Hong Kong
+- 47. (Repealed L.N. 99 of 2001)
 
 - 48. Management Society for Healthcare Professionals
 
@@ -124,7 +124,7 @@ Item Body
 
 - 59. School of Professional And Continuing Education, The University of Hong Kong
 
-- 60. China Business Centre, The Hong Kong Polytechnic University
+- 60. (Repealed L.N. 99 of 2001)
 
 - 61. The Evangelical Lutheran Church of Hongkong
 
