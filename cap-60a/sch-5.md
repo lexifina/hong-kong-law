@@ -2,23 +2,19 @@
 
 [regs. 2A, 2B & 7]
 
-- PART I “SPECIFIED TEXTILES” AND “PRODUCTION” FOR PURPOSES
+- PART I “SPECIFIED TEXTILES” AND “PRODUCTION” FOR PURPOSES OF
 
-- OF SECTION 6AA(1) OF THE ORDINANCE
+- SECTION 6AA(1) AND COUNTRIES OR PLACES FOR PURPOSES OF
 
-Item | Textiles | Process
+- SECTION 6AA(2) OF THE ORDINANCE (L.N. 155 of 2004)
 
-1. | Cut-and-sewn garments, which mean garments that are cut and sewn, or otherwise assembled, from fabrics. | Such assembling operations of such parts of the garments as the Director may determine for entitling the garments to a certificate of Hong Kong origin under the certification of origin or export licensing system administered by the Director.
+Item | Countries or Places | Textiles | Process
 
-- PART II COUNTRIES OR PLACES FOR PURPOSES OF SECTION 6AA(2)
+1. | United States of America | Cut-and-sewn garments, which mean garments that are cut and sewn, or otherwise assembled, from fabrics. | Such assembling operations of such parts of the garments as the Director may determine for entitling the garments to a certificate of Hong Kong origin under the certification of origin system administered by the Director.
 
-- OF THE ORDINANCE
+(L.N. 155 of 2004)
 
-  - 1. Canada
-
-  - 2. Member states from time to time of the European Union
-
-  - 3. United States of America
+- PART II (Repealed L.N. 155 of 2004)
 
 - PART III “PERMITTED PERIOD” FOR PURPOSES OF SECTION 6AA(1)
 
@@ -70,21 +66,21 @@ Item | Textiles | Process
 
   - 1. Consignment of specified textiles consisting solely of samples that—
 
-  - (a) are of the same style; and
+    - (a) are of the same style; and
 
-  - (b) do not exceed 60 pieces in quantity.
+    - (b) do not exceed 60 pieces in quantity.
 
   - 2. Consignment of specified textiles consisting solely of samples that—
 
-  - (a) are of the same style; and
+    - (a) are of the same style; and
 
     - (b) are intended to be distributed free of charge for the purpose of advertising those garments; and
 
-  - (c) do not exceed 120 pieces in quantity.
+    - (c) do not exceed 120 pieces in quantity.
 
   - 3. Specified textiles that are—
 
-    - (a) exported in the personal baggage accompanying a person leaving Hong Kong and are for the personal use of that person; or
+    - (a) exported by an individual and are either for his personal use or a bona fide gift to another individual; or (L.N. 155 of 2004)
 
     - (b) exported as part of the provisions required for consumption or use by the crew or passengers of the vessel, aircraft or vehicle on which the textiles are carried,
 
