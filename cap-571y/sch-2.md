@@ -99,3 +99,13 @@ Item | Stock options contract | Prescribed limit | Reporting level
 46. | CNOOC Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
 
 47. | Huaneng Power International, Inc. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+48. | BOC Hong Kong (Holdings) Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+49. | Denway Motors Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+50. | Esprit Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+51. | The Kowloon Motor Bus Holdings Ltd. stock options contract | 25000 contracts in any one expiry month | 5000 contracts in any one expiry month
+
+(L.N. 84 of 2003)

@@ -82,7 +82,7 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 38. | MSCI China Free Index futures contract | 10000 open contracts for any one contract month | 500 open contracts for any one contract month
 
-39. | MSCI China Free Index options contract | 10000 open contracts for any one contract month | 500 open contracts for any one contract month
+39. | MSCI China Free Index options contract | 10000 open contracts for any one series | 500 open contracts for any one series
 
 40. | Amoy Properties Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
@@ -212,10 +212,20 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 103. | Dow Jones Industrial Average futures contract | 20000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
-104. | Dow Jones Industrial Average options contract | 20000 open contracts for any one contract month | 1000 open contracts for any one contract month
+104. | Dow Jones Industrial Average options contract | 20000 open contracts for any one series | 1000 open contracts for any one series
 
 105. | Three Year Exchange Fund Note (EFN) futures contract | 5000 open contracts for any one contract month except that the limit for the spot month contract during the last 6 trading days is 1000 open contracts | 1000 open contracts for any one contract month except that the reportable position for the spot month contract during the last 6 trading days is 200 open contracts
 
 106. | CNOOC Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
 107. | Huaneng Power International, Inc. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+108. | BOC Hong Kong (Holdings) Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+109. | Denway Motors Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+110. | Esprit Holdings Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+111. | The Kowloon Motor Bus Holdings Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
+
+(L.N. 84 of 2003)
