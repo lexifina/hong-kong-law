@@ -8,9 +8,9 @@ PRESCRIBED OFFICES
 
   - 1. Any judicial office.
 
-  - 2. Any office of police officer, including a cadet, in the Hong Kong Police Force or the Hong Kong Auxiliary Police Force. (Amended L.N. 362 of 1997)
+  - 2. Any office of police officer in the Hong Kong Police Force or the Hong Kong Auxiliary Police Force. (Amended L.N. 362 of 1997; L.N. 140 of 1999)
 
-  - 3. Any office in the Correctional Services Department to which a person is appointed under section 3 of the Prisons Ordinance (Cap. 234).
+  - 3. Any office in the Correctional Services Department the holder of which is remunerated by reference to the General Disciplined Services Pay Scale. (Replaced L.N. 140 of 1999)
 
   - 4. Any office of principal probation officer or probation officer to which a person is appointed under section 9 of the Probation of Offenders Ordinance (Cap. 298).
 
@@ -31,6 +31,8 @@ PRESCRIBED OFFICES
   - 12. Any office of the insurance officer grade staff (including the Commissioner or Assistant Commissioner) or the secretarial staff of the Office of the Commissioner of Insurance. (Added 10 of 1996 s. 8)
 
   - 13. Any office occupied by the executive, professional, managerial, technical, inspectorate or secretarial staff of the Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 11)
+
+  - 14. Any office of Senior Officer or Officer in the Government Flying Service mentioned in Schedule 1 to the Government Flying Service (General) Regulation (Cap. 322 sub. leg.) (Added L.N. 140 of 1999)
 
 - PART 2 OTHER OFFICES
 
