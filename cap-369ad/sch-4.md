@@ -4,13 +4,9 @@
 
 CONDITIONS OF ASSIGNMENT
 
-- 1.
+- 1. Interpretation In this Schedule, except where the context otherwise require—
 
-- Interpretation
-
-- In this Schedule, except where the context otherwise require—
-
-  - “breadth” (寬度) and the symbol “(B)” in relation to a ship mean the maximum.breadth of the ship measured amidships to the moulded line of the frame in the case of a ship having a metal shell, or to the outer surface of.the hull in the case of a ship having a shell of any other material;
+  - “breadth” (寬度) and the symbol “(B)” in relation to a ship mean the maximum breadth of the ship measured amidships to the moulded line of the frame in the case of a ship having a metal shell, or to the outer surface of the hull in the case of a ship having a shell of any other material;
 
   - “enclosed superstructure” (圍封上層建築) means a superstructure—
 
@@ -34,7 +30,9 @@ CONDITIONS OF ASSIGNMENT
 
   - “superstructure” (上層建築) means a deck structure (including a raised quarter deck) situated on the freeboard deck which either extends from side to side of the ship or is such that its side plating is not inboard of the shell plating of the ship by more than 4 per cent of the breadth (B) of the ship; and, where the freeboard deck of the ship consists of a lower deck as described in paragraph (b) of the definition of “freeboard deck” in regulation 1A, includes that part of the hull of the ship which extends above the freeboard deck;
 
-  - “superstructure deck” (上層建築甲板) means a deck forming the top of a superstructure; “Type “A” ship” (“A”型船舶) means a ship which is designed to carry only liquid cargoes in bulk and has the characteristics set out below—
+  - “superstructure deck” (上層建築甲板) means a deck forming the top of a superstructure;
+
+  - “Type “A” ship” (“A”型船舶) means a ship which is designed to carry only liquid cargoes in bulk and has the characteristics set out below—
 
     - (a) The cargo tanks of the ship have only small access openings closed by watertight gasketed covers of steel.
 
@@ -58,7 +56,7 @@ CONDITIONS OF ASSIGNMENT
 
     - (a) a new ship other than a Type “A” ship; or
 
-    - (b) an existing ship which, being so constructed or modified as to comply with all the requirements of this Schedule applicable to a new ship of her type, is to be assigned freeboards determined in accordance with Schedule 5.
+    - (b) an existing ship which, being so constructed or modified as to comply with all the requirements of this Schedule applicable to a new ship of her type, is to be assigned freeboards determined in accordance with Schedule 5;
 
   - “weathertight” (風雨密) in relation to any part of a ship other than a door in a bulkhead means that the part is such that water will not penetrate it and so enter the hull of the ship in the worst sea and weather conditions likely to be encountered by the ship in service; and in relation to a door in a bulkhead means a door which—
 
@@ -68,11 +66,13 @@ CONDITIONS OF ASSIGNMENT
 
     - (c) when closed, is weathertight as above defined; and
 
-    - (d) is so arranged that it can be operated from either side of the bulkhead. References to any structure, opening or fitting as being in Position 1 or Position 2 shall be construed as references to its being in the following positions respectively-
+    - (d) is so arranged that it can be operated from either side of the bulkhead. References to any structure, opening or fitting as being in Position 1 or Position 2 shall be construed as references to its being in the following positions respectively—
 
-    - Position 1 : in an exposed position on either (a) the freeboard deck or a raised quarter deck or (b) a superstructure deck and forward of a point one quarter of the ship’s length (L) from the forward perpendicular;
+- References to any structure, opening or fitting as being in Position 1 or Position 2 shall be construed as references to its being in the following positions respectively—
 
-    - Position 2: in an exposed position on a superstructure deck and abaft the said point.
+- Position 1 : | in an exposed position on either (a) the freeboard deck or a raised quarter deck or (b) a superstructure deck and forward of a point one quarter of the ship’s length (L) from the forward perpendicular;
+
+- Position 2 : | in an exposed position on a superstructure deck and abaft the said point.
 
   - PART I Ships in General
 
@@ -106,7 +106,7 @@ CONDITIONS OF ASSIGNMENT
 
   - (2) Subject to subparagraph (3), the construction and the means for securing the weathertightness of a hatchway shall—
 
-    - (a) in the case of a hatchway closed by a portable cover and secured weathertight by tarpaulins and battening devices,comply with the requirements of paragraph 5; and
+    - (a) in the case of a hatchway closed by a portable cover and secured weathertight by tarpaulins and battening devices, comply with the requirements of paragraph 5; and
 
     - (b) in the case of a hatchway closed by a weathertight cover of steel or other equivalent material fitted with gaskets and clamping devices, comply with the requirements of paragraph 6.
 
@@ -114,7 +114,9 @@ CONDITIONS OF ASSIGNMENT
 
 - 5. Hatchways Closed by Portable Covers and Secured Weathertight by Tarpaulins and Battening Devices
 
-  - (1) Coamings: Every hatchway shall have a coaming of substantial construction. The coaming shall be constructed of mild steel but may be constructed of other material provided that the strength and stiffness of the coaming are equivalent to those of a coaming of mild steel. The height of the coaming above the deck shall be at least— 600 millimetres if the hatchway is in Position 1; 450 millimetres if the hatchway is in Position 2.
+  - (1) Coamings: Every hatchway shall have a coaming of substantial construction. The coaming shall be constructed of mild steel but may be constructed of other material provided that the strength and stiffness of the coaming are equivalent to those of a coaming of mild steel. The height of the coaming above the deck shall be at least— 600 millimetres if the hatchway is in Position 1;
+
+  - 450 millimetres if the hatchway is in Position 2.
 
   - (2) Covers:
 
@@ -128,21 +130,23 @@ CONDITIONS OF ASSIGNMENT
 
     - (c) In the case of a cover made of mild steel—
 
-      - (i) the strength of the cover shall be calculated with an assumed load ascertained in accordance with the following Table, and the product of the maximum stress thus calculated and the factor 4.25 shall not exceed the minimum ultimate strength of the material— TABLE
+      - (i) the strength of the cover shall be calculated with an assumed load ascertained in accordance with the following Table, and the product of the maximum stress thus calculated and the factor 4.25 shall not exceed the minimum ultimate strength of the material—
 
-      - Ship’s Length (L) | Assumed Load, per square metre
+- TABLE
 
-      - Hatchway in Position 1 | Hatchway in Position 2
+- Ship’s Length (L) | Assumed Load, per square metre
 
-      - 24 metres | 1 metric ton | .75 metric ton
+- Hatchway in Position 1 | Hatchway in Position 2
 
-      - 100 metres or over | 1.75 metric tons | 1.30 metric tons
+- 24 metres | 1 metric ton | .75 metric ton
 
-      - Over 24 metres but less than 100 metres | to be ascertained by linear interpolation
+- 100 metres or over | 1.75 metric tons | 1.30 metric tons
 
-      - (ii) the cover shall be so designed as to limit the deflection to not more than 0.0028 times the span under the load appropriate to the hatchway cover under sub-sub-subparagraph (i).
+- Over 24 metres but less than 100 metres | to be ascertained by linear interpolation
 
-    - (d) In the case of a cover made neither of mild steel nor wood the strength and stiffness of the cover shall be equivalent to those of a cover of mild steel.
+- (ii) | the cover shall be so designed as to limit the deflection to not more than 0.0028 times the span under the load appropriate to the hatchway cover under sub-sub-subparagraph (i).
+
+- (d) | In the case of a cover made neither of mild steel nor wood the strength and stiffness of the cover shall be equivalent to those of a cover of mild steel.
 
   - (3) Portable beams:
 
@@ -162,7 +166,7 @@ CONDITIONS OF ASSIGNMENT
 
     - (d) In the case of pontoon covers not made of mild steel, the strength and stiffness of the cover shall be equivalent to those of a cover of mild steel.
 
-  - (5) Carriers or sockets : Carriers or sockets for portable beams shall be of substantial construction, and shall provide efficient means for the fitting and securing of the beams. Where rolling types of beams are used the arrangements shall ensure that the beams remain properly in position when the hatchway is closed.
+  - (5) Carriers or sockets: Carriers or sockets for portable beams shall be of substantial construction, and shall provide efficient means for the fitting and securing of the beams. Where rolling types of beams are used the arrangements shall ensure that the beams remain properly in position when the hatchway is closed.
 
   - (6) Cleats: Cleats shall be set to fit the taper of the wedges. They shall be at least 65 millimetres wide and spaced not more than 600 millimetres centre to centre. The end cleats along each side or end of the hatchway shall be not more than 150 millimetres from the hatch corners.
 
@@ -170,21 +174,19 @@ CONDITIONS OF ASSIGNMENT
 
   - (8) Tarpaulins: At least two layers of tarpaulins shall be provided for every hatchway. Such tarpaulins shall be waterproof, in good condition, and of material of satisfactory strength and quality.
 
-  - (9) Security of hatchway covers:
+  - (9)Security of hatchway covers:
 
     - (a) Except as otherwise provided in sub-subparagraph (b), steel bars shall be provided for every hatchway sufficient to ensure that each section of hatchway covers can be efficiently and independently secured after the tarpaulins have been battened down and that hatchway covers more than 1.5 metres in length are so secured by at least 2 such bars.
 
-    - (b) Bars of material other than steel, or means of securing hatchway covers otherwise than by bars, may be so used, provided:
+    - (b)
+
+    - Bars of material other than steel, or means of securing hatchway covers otherwise than by bars, may be so used, provided:
 
       - (i) that in the case of the former, the strength and stiffness of the bars used are equivalent to those of steel bars;
 
       - (ii) that in either case the degree of security so achieved is not less than that which would be achieved by the use of steel bars.
 
-- 6.
-
-- Hatchways closed by Weathertight Covers of Steel or equivalent
-
-- material fitted with Gaskets and Clamping Devices
+- 6. Hatchways closed by Weathertight Covers of Steel or equivalent material fitted with Gaskets and Clamping Devices
 
   - (1) Coamings:
 
@@ -236,7 +238,9 @@ CONDITIONS OF ASSIGNMENT
 
       - (i) in a deck over an enclosed superstructure and giving access to space within that superstructure; or
 
-      - (ii) on top of a deckhouse on the freeboard deck and giving access to space below that deck, be protected by an efficient deckhouse or companionway fitted with weathertight doors;
+      - (ii) on top of a deckhouse on the freeboard deck and giving access to space below that deck,
+
+    - be protected by an efficient deckhouse or companionway fitted with weathertight doors;
 
     - (c) if situated in an exposed position in a deck above the deck over an enclosed superstructure and giving access to space within that superstructure, be protected either in accordance with the requirements of sub-subparagraph (b) or to such lesser extent as may be adequate having regard to its position.
 
@@ -262,9 +266,7 @@ CONDITIONS OF ASSIGNMENT
 
   - (3) Every ventilator in Position 1 or Position 2 which passes through a superstructure other than an enclosed superstructure shall have a coaming of steel or equivalent material at the freeboard deck, substantially constructed and efficiently connected to that deck and at least 900 millimetres in height above that deck.
 
-  - (4) Subject to subparagraph (5), every ventilator opening in Position 1 or Position 2 shall be provided with an efficient appliance by which it can be closed and secured weathertight. Every such closing appliance so provided on board a ship of not more than 100 metres in length
-
-  - shall be permanently attached to, and in the case of any other ship shall either be so attached or be conveniently stowed near to, the ventilator for which it is provided.
+  - (4) Subject to subparagraph (5), every ventilator opening in Position 1 or Position 2 shall be provided with an efficient appliance by which it can be closed and secured weathertight. Every such closing appliance so provided on board a ship of not more than 100 metres in length shall be permanently attached to, and in the case of any other ship shall either be so attached or be conveniently stowed near to, the ventilator for which it is provided.
 
   - (5)
 
@@ -320,6 +322,8 @@ CONDITIONS OF ASSIGNMENT
 
     - (b) Where the vertical distance referred to in sub-subparagraph (a) will exceed 0.02(L) such means may consist, if in the circumstances the following would be equally effective, of a single automatic non-return valve having no positive means of closure, situated as close to the ship’s shell as practicable and substantially connected thereto.
 
+  - (3A) Scuppers led through the shell from enclosed superstructures used for the carriage of cargo shall be permitted only where the edge of the freeboard deck is not immersed when the ship heels 5° either way. In other cases the drainage shall be led inboard in accordance with the requirements of the Convention in force. (L.N. 35 of 2000)
+
   - (4)
 
     - (a) The controls of any valve situated in a manned machinery space, and serving a main or auxiliary sea inlet or discharge or bilge injection system shall be so sited as to be readily accessible at all times under service conditions. Valves referred to in this and the following subparagraph shall be equipped with an indicator showing whether the valve is open or closed.
@@ -340,11 +344,9 @@ CONDITIONS OF ASSIGNMENT
 
     - Provided that this paragraph shall not apply—
 
-      - (i) where the scupper or discharge pipe is fitted with means for preventing water from passing inboard in accordance with the provisions of subparagraphs (1)
+      - (i) where the scupper or discharge pipe is fitted with means for preventing water from passing inboard in accordance with the provisions of subparagraphs (1) to (3); or
 
-  - to (3); or
-
-    - (ii) in any case in which the piping of the scupper or discharge pipe is of substantial thickness.
+      - (ii) in any case in which the piping of the scupper or discharge pipe is of substantial thickness.
 
   - (6) Every scupper leading from a superstructure other than an enclosed superstructure or from a deckhouse not fitted with weathertight doors shall be led overboard.
 
@@ -410,31 +412,25 @@ CONDITIONS OF ASSIGNMENT
 
     - (b) adequate protection is provided at that point.
 
-  - (4) Guard rails or guard wires fitted pursuant to subparagraph (2) shall consist of courses of rails or wires supported by stanchions efficiently secured to the deck. The opening between the lowest course of the rails or wires and the deck shall not exceed 230 millimetres in height,
+  - (4) Guard rails or guard wires fitted pursuant to subparagraph (2) shall consist of courses of rails or wires supported by stanchions efficiently secured to the deck. The opening between the lowest course of the rails or wires and the deck shall not exceed 230 millimetres in height, and no opening above that course of rails or wires shall exceed 380 millimetres in height. Where the ship has rounded gunwales the stanchions shall be secured at the perimeter of the flat of the deck.
 
-  - and no opening above that course of rails or wires shall exceed 380 millimetres in height. Where the ship has rounded gunwales the stanchions shall be secured at the perimeter of the flat of the deck.
+  - (5) Gangways, underdeck passages and all other means of access by which members of the crew pass between their quarters, the machinery space and any other space in the ship used by them in the course of their necessary work about the ship shall be so designed and constructed, and be fitted where necessary with such life lines, access ladders, guard rails or guard wires, hand rails or other safety fittings, as to afford effective protection for the crew.
 
-  - (5) Gangways, underdeck passages and all other means of access by which members of the crew pass between their quarters, the machinery space and any other space in the ship used by them in the course of their necessary work about the ship shall be so designed and constructed, and be fitted where necessary with such life lines, access ladders, guard rails or
+  - (6) The requirements of this paragraph shall not apply in the case of unmanned barges.
 
-  - guard wires, hand rails or other safety fittings, as to afford effective protection for the crew.
+_
 
-  - (6) The requirements of this paragraph shall not apply in the case of unmanned barges. _
-
-  - PART II Special Requirements Applicable to Type “A” Ships
+- PART II Special Requirements Applicable to Type “A” Ships
 
 - 16. Application The requirements of paragraphs 17 to 20 of this Part apply in the case of Type “A” ships only.
 
-- 17.
-
-- Machinery casings
-
-- Every casing enclosing a machinery space opening in Position 1 or Position 2 shall be protected by either—
+- 17. Machinery casings Every casing enclosing a machinery space opening in Position 1 or Position 2 shall be protected by either—
 
   - (1) an enclosed poop or bridge of at least standard height; or
 
   - (2) a deckhouse of equal height and equivalent strength and weathertightness:
 
-  - Provided that this requirement shall not apply and the casing may ,accordingly be exposed—
+  - Provided that this requirement shall not apply and the casing may, accordingly be exposed—
 
   - (a) if there is no opening in the casing which gives direct access from the freeboard deck to the machinery space; or
 
@@ -506,17 +502,15 @@ CONDITIONS OF ASSIGNMENT
 
   - (3) If superstructures of the ship are connected by a trunk, the exposed parts of the freeboard deck in way of the trunk shall be fitted at their perimeter throughout their length with guard rails or guard wires complying with the requirements set out in relation to such rails or wires in paragraph 18(2)(a).
 
-  - (4) If the ship is so constructed that notwithstanding the provision of freeing ports and arrangements it will be particularly subjected under service conditions to the building up of quantities of water on the freeboard deck, efficient breakwaters shall be fitted in suitable positions on that deck. _
+  - (4) If the ship is so constructed that notwithstanding the provision of freeing ports and arrangements it will be particularly subjected under service conditions to the building up of quantities of water on the freeboard deck, efficient breakwaters shall be fitted in suitable positions on that deck.
+
+- _________
 
   - PART III Special Requirements Applicable to certain Type “B” Ships
 
 - 21. Application The requirements of paragraphs 22 to 25 apply only in the case of Type “B” ships to be assigned a reduced freeboard under the provisions of paragraph 5(3) of Schedule 5.
 
-- 22.
-
-- Gangway and access
-
-- The ship shall comply with the requirements of either—
+- 22. Gangway and access The ship shall comply with the requirements of either—
 
   - (1) paragraph 18 as if it were a Type “A” ship; or
 
@@ -526,9 +520,7 @@ CONDITIONS OF ASSIGNMENT
 
   - (1) References in this paragraph to a poop or detached bridge include references to a deckhouse fitted in lieu of and serving the purpose of a poop or detached bridge.
 
-  - (2) Access between the poop and the detached bridge shall be by means of an efficiently constructed gangway of substantial strength connecting those structures, fitted on or near the centre line of the ship. The gangway shall be at least 1 metre in width and shall be fitted at each
-
-  - side throughout its length with guard rails or guard wires complying with the requirements set out in relation to such rails or wires in paragraph 18(2)(a). If the length of the gangway exceeds 70 metres, shelters complying with the requirements set out in relation to shelters in paragraph 18(5)(d) shall be provided in way of the gangway.
+  - (2) Access between the poop and the detached bridge shall be by means of an efficiently constructed gangway of substantial strength connecting those structures, fitted on or near the centre line of the ship. The gangway shall be at least 1 metre in width and shall be fitted at each side throughout its length with guard rails or guard wires complying with the requirements set out in relation to such rails or wires in paragraph 18(2)(a). If the length of the gangway exceeds 70 metres, shelters complying with the requirements set out in relation to shelters in paragraph 18(5)(d) shall be provided in way of the gangway.
 
 - 24. In the case of a ship the crew of which may in the course of their duties be required to go in adverse weather conditions to a position or positions forward of the detached bridge, or forward of the poop in cases where there is no detached bridge and all crew accommodation and machinery spaces are situated at the after end of the ship, access to such positions shall be—
 
@@ -546,17 +538,13 @@ CONDITIONS OF ASSIGNMENT
 
   - (iii) each walkway shall be fitted on the side outboard of the hatchways with guard rails or guard wires complying with the requirements set out in relation to such rails or wires in paragraph 18(2)(a).
 
-- 25.
+- 25. Freeing arrangements The ship shall comply with the requirements of paragraph 20(4).
 
-- Freeing arrangements
+_
 
-- The ship shall comply with the requirements of paragraph 20(4).
+- PART IV Special Requirements Applicable to Ships to be
 
-- _
-
-  - PART IV Special Requirements Applicable to Ships to be
-
-  - Assigned Timber Freeboards
+- Assigned Timber Freeboards
 
 - 26. Application The requirements of paragraphs 27 to 29 of this Part apply only in the case of ships to be assigned Timber freeboards.
 
@@ -572,23 +560,17 @@ CONDITIONS OF ASSIGNMENT
 
 - 28. Double Bottom Tanks Double bottom tanks where fitted within the midship half length of the ship shall have satisfactory watertight longitudinal subdivision.
 
-- 29.
-
-- Bulwarks, guard rails and stanchions
-
-- The ship shall be fitted with either—
+- 29. Bulwarks, guard rails and stanchions The ship shall be fitted with either—
 
   - (1) permanent bulwarks at least 1 metre in height which are specially stiffened on the upper edge and supported by strong bulwark stays attached to the deck, and are provided with freeing ports complying with the requirements of paragraph 14(1) to (6); or
 
-  - (2) efficient guard rails and stanchions at least 1 metre in height, of specially strong construction, and complying with the requirements of paragraph 15(4). _
+  - (2) efficient guard rails and stanchions at least 1 metre in height, of specially strong construction, and complying with the requirements of paragraph 15(4).
 
-  - PART V General
+_
 
-- 30.
+- PART V General
 
-- Equivalent or exceptional provision
-
-- The Assigning Authority may with the approval of the Director—
+- 30. Equivalent or exceptional provision The Assigning Authority may with the approval of the Director—
 
   - (1) allow any fitting, material, appliance or apparatus to be fitted in a ship, or allow other provision to be made in a ship, in the place of any fitting, material, appliance, apparatus or provision respectively which is required under any of the provisions of this Schedule, if satisfied by trial thereof or otherwise that it is at least as effective as that so required; or
 
