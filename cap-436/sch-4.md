@@ -1,0 +1,17 @@
+# SCHEDULE 4
+
+[s. 42]
+
+DATES ON WHICH THE COMPANY IS EXPECTED TO BE ABLE TO EFFECT A TOLL INCREASE
+
+1 January 2001
+
+1 January 2005
+
+1 January 2009
+
+1 January 2013
+
+1 January 2017
+
+1 January 2021
