@@ -30,6 +30,8 @@ PRESCRIBED OFFICES
 
   - 12. Any office of the insurance officer grade staff (including the Commissioner or Assistant Commissioner) or the secretarial staff of the Office of the Commissioner of Insurance. (Added 10 of 1996 s. 8)
 
+  - 13. Any office occupied by the executive, professional, managerial, technical, inspectorate or secretarial staff of the Mandatory Provident Fund Schemes Authority. (Added 4 of 1998 s. 11)
+
 - PART 2 OTHER OFFICES
 
-  - 1. Any office occupied by the executive staff (including the Executive Directors) or the secretarial staff of the Securities and Futures Commission. (Part 2 added 10 of 1996 s. 8)
+  - 1. Any office occupied by the executive staff (including the Executive Directors) or the secretarial staff of the Securities and Futures Commission. ( Part 2 added 10 of 1996 s. 8)
