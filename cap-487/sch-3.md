@@ -1,0 +1,5 @@
+# Schedule 3
+
+[ss. 12, 57, 63 & 87]
+
+PROVISIONS SPECIFIED FOR PURPOSES OF SECTION 12(3)(c)
