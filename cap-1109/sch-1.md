@@ -166,7 +166,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (b) shall hold office for such period as may be determined by the Council;
 
-    - (c) shall be responsible to the Vice-Chancellor for such duties in connection with student affairs as may be determined by the Council;
+    - (c) shall be responsible to the Vice-Chancellor for such duties in connection with student affairs as may be determinded by the Council;
 
     - (d) may be designated as an officer. (L.N. 251 of 1988)
 
@@ -400,17 +400,19 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (k) the President of the University Students Union; (L.N. 251 of 1988)
 
-    - (l) 1 student of each Faculty of the University elected by, and from among, full-time students in that Faculty pursuing approved courses of study for a degree of the University. (L.N. 175 of 1996)
+    - (l) 1 student of each Faculty of the University elected by, and from among, full-time students in that Faculty pursuing approved courses of study for a degree of the University; (L.N. 175 of 1996; L.N. 357 of 2000)
 
-  - 2. Members of the Senate (other than Fellows and student members elected under paragraph 1(l) shall remain members of the Senate for so long as they hold the office or appointment by reason of which they became members of the Senate. (L.N. 251 of 1988)
+    - (m) 1 student representing the Students Union of each College of the University elected by, and from among, full-time students pursuing approved courses of study for a degree of the University who are members of that Students Union. (L.N. 357 of 2000)
+
+  - 2. Members of the Senate (other than Fellows and student members elected under paragraph 1(l) or (m) shall remain members of the Senate for so long as they hold the office or appointment by reason of which they became members of the Senate. (L.N. 251 of 1988; L.N. 357 of 2000)
 
   - 3.
 
     - (a) Fellows elected under paragraph 1(g) shall hold office for 2 years from the date of their election and shall be eligible for re-election provided that they shall cease to be members of the Senate if they cease to be assigned to the College by whose Assembly of Fellows they were elected. Should an elected member die or resign from the Senate or cease to be a Fellow within the College by whose members he was elected a successor shall be duly elected who shall be a member of the Senate for the unexpired period of membership of his predecessor.
 
-    - (b) Student members under paragraph 1(l) shall be elected in such manner as may be determined by the Senate. (L.N. 251 of 1988)
+    - (b) Student members under paragraph 1(l) or (m) shall be elected in such manner as may be determined by the Senate. (L.N. 251 of 1988; L.N. 357 of 2000)
 
-    - (c) Student members elected under paragraph 1(l) shall hold office for a period of one year and shall be eligible for re-election provided that no student shall be a member of the Senate for more than 2 consecutive terms of office. If a student member resigns or ceases to be a member of the Senate and his unexpired period of membership is 6 months or longer, then a successor shall be elected in accordance with subparagraph (b) for that unexpired period of membership, but if his unexpired period of membership is shorter than 6 months, then no successor shall be elected for that unexpired period of membership. (L.N. 251 of 1988)
+    - (c) Student members elected under paragraph 1(l) or (m) shall hold office for a period of one year and shall be eligible for re-election provided that no student shall be a member of the Senate for more than 2 consecutive terms of office. If a student member resigns or ceases to be a member of the Senate and his unexpired period of membership is 6 months or longer, then a successor shall be elected in accordance with subparagraph (b) for that unexpired period of membership, but if his unexpired period of membership is shorter than 6 months, then no successor shall be elected for that unexpired period of membership. (L.N. 251 of 1988; L.N. 357 of 2000)
 
     - (d) A student member shall cease to be a member of the Senate if he ceases to be a registered student of the University or if he is suspended from pursuing full-time study at the University. (L.N. 251 of 1988)
 
@@ -868,7 +870,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Master of Arts (M. A.)
 
-      - Master of Business Administration (M. B. A.)
+      - Master of Business Administration (M. B. A. )
+
+      - Master of Chinese Medicine (M. Chi. Med.) (L. N. 357 of 2000)
 
       - Master of City Planning (M. C. P.) (L.N. 453 of 1994)
 
