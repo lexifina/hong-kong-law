@@ -150,7 +150,7 @@ of .
 
 - (2) has satisfied the Society that he—
 
-  - (a) has complied with the provisions of the repealed Continuing Legal Education Rules or the Continuing Professional Development Rules (Cap. 159 sub. leg. W);
+  - (a) has accumulated the number of CPD accreditation points that is required by section 5 of the Continuing Professional Development Rules (Cap. 159 sub. leg. W) to be accumulated by the end of his period of employment as a trainee solicitor;
 
   - (b) has passed or obtained or been granted total exemption from the examinations required by rule 7 of the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
@@ -168,7 +168,9 @@ of .
 
 - * Delete whichever inapplicable.
 
-(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000; L.N. 247 of 2002)
+
+_
 
 FORM 3 | [rule 3(5)]
 
@@ -222,9 +224,7 @@ We, .
 
 of .
 
-. (the “Trainee Solicitor”)
-
-and .
+. (the “Trainee Solicitor”) and .
 
 of .
 
@@ -370,43 +370,45 @@ of .
 
 - (L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002)
 
-FORM 5 | [rules 4, 8 & 11]
-
-ADMISSION AND REGISTRATION RULES AFFIDAVIT OF IDENTITY
-
-- I, . of . Hong Kong, Solicitor, make oath and say (or solemnly and sincerely declare and affirm) as follows—
-
-  - 1. The photograph attached hereto and marked “ “ is a true likeness of . of . Hong Kong, a .*, the applicant herein.
-
-  - 2. I have examined [Hong Kong Identity Card No. .] [passport No. .] # of the said . and I am satisfied that from such examination that he is the person shown in the photograph attached hereto and that he is the applicant in these proceedings.
-
-  - SWORN/DECLARED at . Hong Kong this . day of . | ｝
-
-- Before me Commissioner for Oaths/Solicitors. * Please insert relevant profession (e.g. barrister/solicitor/advocate/notary etc.) and the relevant court/bar/chamber.
-
-- # Delete whichever is inapplicable.
-
-- (L.N. 212 of 1976; L.N. 41 of 1981; L.N. 198 of 1981; L.N. 28 of 1992; L.N. 466 of 1994; L.N. 114 of 2000)
-
-- _ FORM 6
-
-- (Repealed L.N. 312 of 1988)
-
 - _
 
-- FORM 7 | [rule 7]
+- FORM 5 | [rules 4, 8 & 11]
 
-- ADMISSION AND REGISTRATION RULES ROLL OF SOLICITORS
+- ADMISSION AND REGISTRATION RULES AFFIDAVIT OF IDENTITY
 
-- .was duly admitted to practise as a Solicitor of the High Court of Hong Kong on the . day of .
+  - I, . of . Hong Kong, Solicitor, make oath and say (or solemnly and sincerely declare and affirm) as follows—
 
-- .
+    - 1. The photograph attached hereto and marked “ “ is a true likeness of . of . Hong Kong, a .*, the applicant herein.
 
-- Registrar,
+    - 2. I have examined [Hong Kong Identity Card No. .] [passport No. .] # of the said . and I am satisfied that from such examination that he is the person shown in the photograph attached hereto and that he is the applicant in these proceedings.
 
-- High Court,
+    - SWORN/DECLARED at . Hong Kong this . day of . | ｝
 
-- Hong Kong.
+  - Before me Commissioner for Oaths/Solicitors. * Please insert relevant profession (e.g. barrister/solicitor/advocate/notary etc.) and the relevant court/bar/chamber.
+
+  - # Delete whichever is inapplicable.
+
+  - (L.N. 212 of 1976; L.N. 41 of 1981; L.N. 198 of 1981; L.N. 28 of 1992; L.N. 466 of 1994; L.N. 114 of 2000)
+
+  - _ FORM 6
+
+  - (Repealed L.N. 312 of 1988)
+
+  - _
+
+  - FORM 7 | [rule 7]
+
+  - ADMISSION AND REGISTRATION RULES ROLL OF SOLICITORS
+
+  - .was duly admitted to practise as a Solicitor of the High Court of Hong Kong on the . day of .
+
+  - .
+
+  - Registrar,
+
+  - High Court,
+
+  - Hong Kong.
 
 (L.N. 212 of 1976; L.N. 41 of 1981; 25 of 1998 s. 2; L.N. 114 of 2000)
 
