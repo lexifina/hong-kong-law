@@ -1,0 +1,5 @@
+BILLS OF SALE (FEES) REGULATIONS
+
+(Cap. 20, section 23)
+
+[18 March 1988]
