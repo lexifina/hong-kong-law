@@ -1,16 +1,10 @@
-# Schedule 2
+# SCHEDULE 2
 
 [ss. 7, 9, 14, 23 & 42]
 
-FORM 1 | [section 7(1)]
+Form 1 | [s. 7(1)]
 
-SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
-
-(Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY
-
-PROCEDURE) REGULATION Application for Registration/Provisional
-
-Registration as an Optometrist
+Supplementary Medical Professions Ordinance (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Application for Registration/Provisional Registration as an Optometrist
 
 I . of
 
@@ -20,178 +14,190 @@ I . of
 
 (correspondence or home address)
 
-qualified for registration under section 12(1)*(a)/(b)/(c)/section 15 of the Supplementary Medical Professions Ordinance apply for *registration/provisional registration as an optometrist and request that my name be placed on Part . of the Register.
+qualified for registration under section 12(1)*(a)/(b)/(c)/section 15 of the Supplementary Medical Professions Ordinance apply for *registration/provisional registration as an optometrist and request that my name be placed on Part .............................. of the Register.
 
-- 2. I hold the following qualifications (please state qualifications obtained in chronological order):
+2. I hold the following qualifications (please state qualifications obtained in chronological order):
 
-- Qualification | Issuing Authority | Date Issued
+Qualification | Issuing Authority | Date Issued
 
-- 3. I have the following professional experience (please state professional experience obtained in chronological order):
+3. I have the following professional experience (please state professional experience obtained in chronological order):
 
-- Post Title | Name of Organization/Company | Period
+Post Title | Name of Organization/Company | Period
 
-- From | To
+From | To
 
-- 4. My business address(es) *is/are as follows: (English) .
+4. My business address(es) *is/are as follows:
 
-- .
+(English)
 
-- (Chinese) .
+(Chinese)
 
-- .
+5. My telephone numbers are . (Home) . (Office). 6. I *†have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance. I declare that the information given in this application is correct to the best of my knowledge and belief.
 
-- 5. My telephone numbers are . (Home) . (Office).
+Signed at ...................................... the ........... day of .......... 19 ........ | .................................................... (Signature of Applicant)
 
-- 6. I *+have/have not been convicted in Hong Kong or elsewhere of an offence punishable with imprisonment. I *have/have not been found guilty in Hong Kong or elsewhere of unprofessional conduct. I *am/am not the subject of an existing order under section 22(1)(i) or (ii) of the Supplementary Medical Professions Ordinance. I declare that the information given in this application is correct to the best of my knowledge and belief.
+Before me,
 
-- Signed at . | ｝ | .
+(Name in block letters) | (Signature)
 
-- the . day of . 19 . | (Signature of Applicant)
+* Optometrist registered in Part I of the Register/Barrister/Solicitor/ Registered medical practitioner/Registered dentist/Commissioner for Oaths.
 
-- Before me,
+Photograph of Applicant
 
-- . | .
+† Please supply details of conviction.
 
-- (Name in block letters) | (Signature)
+* Delete if inappropriate.
 
-- * Optometrist registered in Part I of the Register/Barrister/Solicitor/Registered medical practitioner/Registered dentist/Commissioner for Oaths.
+(47 of 1997 s. 10)
 
-- Photograph of Applicant
+_
 
-- + Please supply details of conviction.
+Form 2A | [s. 9(1)]
 
-- * Delete if inappropriate. (47 of 1997 s. 10)
+OPTOMETRISTS BOARD HONG KONG Supplementary Medical Professions Ordinance (Chapter 359) Certificate of Registration
 
-FORM 2A | [section 9(1)]
+Number of Register: .........................
 
-OPTOMETRISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Registration
+This is to certify that
 
-Number of Register: .
+whose address is
 
-(ID No.: )
+and whose photograph appears hereon was on the .................... day of .......................... 19............ admitted to Part ................. of the Register of Optometrists. Dated this .................... day of .......................... 19............
 
-This is to certify that . whose address is . and whose photograph appears hereon was on the . day of . 19 . admitted to Part . of the Register of Optometrists.
+Photograph
 
-Dated this . day of . 19 .
+Secretary, Optometrists Board.
 
-Photograph | . Secretary, Optometrists Board.
+(L.N. 88 of 2004)
 
-FORM 2B | [section 9(2)]
+_
 
-OPTOMETRISTS BOARD HONG KONG SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) Certificate of Provisional Registration
+Form 2B | [s. 9(2)]
 
-Number of Register: .
+OPTOMETRISTS BOARD HONG KONG Supplementary Medical Professions Ordinance (Chapter 359) Certificate of Provisional Registration
 
-(ID No.: )
+Number of Register: .........................
 
-This is to certify that . whose address is . and whose photograph appears hereon was on the . day of . 19 . admitted to Part IV of the Register of Optometrists subject to the undermentioned conditions.
+This is to certify that
 
-- Conditions imposed pursuant to section 15(3) of the Supplementary Medical Professions Ordinance—
+whose address is
 
-- Dated this . day of . 19 .
+and whose photograph appears hereon was on the .................... day of ....................... 19............ admitted to Part IV of the Register of Optometrists subject to the undermentioned conditions. Conditions imposed pursuant to section 15(3) of the Supplementary Medical Professions Ordinance—
 
-- Photograph | . Secretary, Optometrists Board.
+Dated this .................... day of .......................... 19............
 
-- FORM 3 | [section 14]
+Photograph
 
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY
+Secretary, Optometrists Board.
 
-- PROCEDURE) REGULATION Particulars of a Company carrying on the
+(L.N. 88 of 2004)
 
-- Business of Practising Optometry
+_
 
-- Presented by .
+Form 3 | [s. 14]
 
-- (Name of Company)
+Supplementary Medical Professions Ordinance (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Particulars of a Company carrying on the Business of Practising Optometry
 
-- of .
+Presented by
 
-- (Registered Business Address)
+(Name of Company)
 
-- .
+of
 
-- (Business Registration Certificate No.)
+(Registered Business Address)
 
-- Particulars of the names and addresses of all persons who are professionally qualified directors, other directors or managers of the above company in respect of the business of optometry carried on by it at . . under the name of .
+(Business Registration Certificate No.)
 
-- Name in full | Position | Cert. of Reg. No. and Date of Reg. where Directors are registered | Part registered in | Residential address
+Particulars of the names and addresses of all persons who are professionally qualified directors, other directors or managers of the above company in respect of the business of optometry carried on by it at
 
-- and of persons who practise optometry in connection with the business of the said company in the above.
+under the name of
 
-- Name in full | Residential address | Occupa— tion | Qualifi— cations | Cert. of Reg. No. and Date of Reg. | Part registered in | Duties performed
+Name in full | Position | Cert. of Reg. No. and Date of Reg. where Directors are registered | Part registered in | Residential address
 
-- Dated this . day of . 19.
+and of persons who practise optometry in connection with the business of the said company in the above.
 
-- (Signature) .
+Name in full | Residential address | Occupa- tion | Qualifi- cations | Cert. of Reg. No. and Date of Reg. | Part registered in | Duties performed
 
-- (State whether director
+Dated this .................... day of .......................... 19............
 
-- or manager or secretary)
+(Signature)
 
-- FORM 4 | [section 23(1)]
+(State whether director or manager or secretary)
 
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY
+_
 
-- PROCEDURE) REGULATION Notice of Inquiry
+Form 4 | [s. 23(1)]
 
-- [Date]
+Supplementary Medical Professions Ordinance (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Notice of Inquiry
 
-- Sir/Madam,
+[Date]
 
-- On behalf of the Optometrists Board notice is hereby given to you that, in consequence of a complaint made against you to the Board/information received by the Board, an inquiry is to be held into the following charge(s) against you—
+Sir/Madam, On behalf of the Optometrists Board notice is hereby given to you that, in consequence of a complaint made against you to the Board/information received by the Board, an inquiry is to be held into the following charge(s) against you—
 
-- (If the allegation relates to conviction) That you were on the . day of . 19 . at . . (specify court recording the conviction) convicted of . (set out particulars of the conviction in sufficient detail to identify the case).
+(If the allegation relates to conviction) That you were on the . day of . 19. at
 
-- or
+(specify court recording the conviction) convicted of . (set out particulars of the conviction in sufficient detail to identify the case).
 
-- (If the charge relates to conduct) That you . . . . (set out briefly the facts alleged); and that in relation to the facts alleged you have been guilty of unprofessional conduct.
+or
 
-- or
+(If the charge relates to conduct) That you
 
-- (If the allegation relates to obtaining registration by fraud or misrepresentation) That you . . (set out briefly the facts alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation.
+(set out briefly the facts alleged); and that in relation to the facts alleged you have been guilty of unprofessional conduct.
 
-- or
+or
 
-- (If the allegation is that the registered optometrist was not qualified, at the time of his registration, to be registered) That you . . . (set out briefly the facts alleged); and that in relation to the facts alleged you were not at the time of your registration qualified to be registered.
+(If the allegation relates to obtaining registration by fraud or misrepresentation) That you
 
-- or
+(set out briefly the facts alleged); and that in relation to the facts alleged you obtained registration by fraud or misrepresentation.
 
-- (If the allegation is that the registered optometrist has not complied with or is in breach of any condition of his registration or has failed to comply with the Ordinance) That you . . . . (set out briefly the facts alleged).
+or
 
-- or
+(If the allegation is that the registered optometrist was not qualified, at the time of his registration, to be registered) That you
 
-- (If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance) That on the . day of . 19 . you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas . . (set out briefly the facts alleged); and that in relation to the facts alleged your name should not be approved to be entered upon the Register. (Where there is more than one charge or allegation they are to be numbered consecutively). Notice is further given to you that on . (day of the week) the . day of . 19 ., a meeting of the Board will be held at . . , at . a.m./p.m. to consider the above-mentioned charge(s)/allegation(s) in a complaint against you, and to determine whether or not the Board should take any action against you under section . (state whether section 13 or 22) of the Supplementary Medical Professions Ordinance. You are hereby invited to answer in writing the above-mentioned charge(s)/allegation(s) and also to appear before the Board at the place and time specified above, for the purpose of answering such charge(s)/allegation(s). You may appear in person or by counsel or solicitor. The Board has power, if you do not appear, to hear and decide upon the said charge(s)/allegation(s) in your absence. Any answer, admission, or other statement or communication which you may desire to make with respect to the said charge(s)/allegation(s) in a complaint should be addressed to the Secretary. If you desire to make any application that the inquiry should be postponed, you should send the application to the Secretary as soon as may be, stating the grounds on which you desire a postponement. Any such application will be considered by the Chairman of the Board. A copy of the Optometrists (Registration and Disciplinary Procedure) Regulation is sent herewith for your information.
+(set out briefly the facts alleged); and that in relation to the facts alleged you were not at the time of your registration qualified to be registered.
 
-- .
+or
 
-- Secretary,
+(If the allegation is that the registered optometrist has not complied with or is in breach of any condition of his registration or has failed to comply with the Ordinance) That you
 
-- Optometrists Board.
+(set out briefly the facts alleged).
 
-- FORM 5 | [section 42(2)]
+or
 
-- SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY
+(If the charge or allegation is that an applicant for registration has been convicted in Hong Kong or elsewhere of any offence punishable with imprisonment, has been guilty of unprofessional conduct, is not qualified to be registered in his application for registration, has been guilty of fraud or misrepresentation or has failed to comply with the Ordinance) That on the . day of . 19. you made application to the Secretary for registration in accordance with section 13 of the Supplementary Medical Professions Ordinance, whereas
 
-- PROCEDURE) REGULATION Summons to Witness
+(set out briefly the facts alleged); and that in relation to the facts alleged your name should not be approved to be entered upon the Register.
 
-- In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance:
+(Where there is more than one charge or allegation they are to be numbered consecutively).
 
-- And in the matter of(1) . To(2) .
+Notice is further given to you that on . (day of the week) the . day of . 19., a meeting of the Board will be held at ., at . a.m./p.m. to consider the above-mentioned charge(s)/allegation(s) in a complaint against you, and to determine whether or not the Board should take any action against you under section . (state whether section 13 or 22) of the Supplementary Medical Professions Ordinance.
 
-- You are hereby summoned to appear before the Optometrists Board at . . on the . day of ., at . o’clock in the . noon to give evidence touching the matter under inquiry(3) and also to bring with you and produce(4) . .
+You are hereby invited to answer in writing the above-mentioned charge(s)/allegation(s) and also to appear before the Board at the place and time specified above, for the purpose of answering such charge(s)/allegation(s). You may appear in person or by counsel or solicitor. The Board has power, if you do not appear, to hear and decide upon the said charge(s)/allegation(s) in your absence. Any answer, admission, or other statement or communication which you may desire to make with respect to the said charge(s)/allegation(s) in a complaint should be addressed to the Secretary. If you desire to make any application that the inquiry should be postponed, you should send the application to the Secretary as soon as may be, stating the grounds on which you desire a postponement. Any such application will be considered by the Chairman of the Board. A copy of the Optometrists (Registration and Disciplinary Procedure) Regulation is sent herewith for your information.
 
-- Given under my hand this . day of . 19 .
+Secretary, Optometrists Board.
 
-- .
+_
 
-- Chairman,
+Form 5 | [s. 42(2)]
 
-- Optometrists Board.
+Supplementary Medical Professions Ordinance (Chapter 359) OPTOMETRISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Summons to Witness
 
-- Note: (1) Insert name of registered optometrist.
+In the matter of a Disciplinary Inquiry under section 13/section 22 of the Ordinance:
 
-  - (2) Insert name and address of witness.
+And in the matter of (1)
 
-  - (3) Delete if not required.
+To (2)
 
-  - (4) Specify the books, documents or other things to be produced.
+You are hereby summoned to appear before the Optometrists Board
+
+at
+
+on the . day of ., at . o’clock in the . noon to give evidence touching the matter under inquiry (3) and also to bring with you and produce (4)
+
+Given under my hand this ............ day of ............. 19 .......
+
+Chairman, Optometrists Board.
+
+Note: | (1) Insert name of registered optometrist. (2) Insert name and address of witness. (3) Delete if not required. (4) Specify the books, documents or other things to be produced.
+
+(L.N. 154 of 1996)
