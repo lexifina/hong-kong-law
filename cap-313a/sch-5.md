@@ -1,8 +1,12 @@
 # FIFTH SCHEDULE
 
-[regs. 23 & 23A] (L.N. 309 of 1993)
+[regs. 23, 23A, 23B & 24] (L.N. 140 of 2000)
 
 RESTRICTED AREAS, ETC.
+
+RESRICTED AREAS, ETC.
+
+(L.N. 309 of 1993)
 
 - 1-2. (Repealed L.N. 228 of 1997)
 
@@ -50,13 +54,21 @@ RESTRICTED AREAS, ETC.
 
 - The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
-  - (a) latitude 22o 17’ 39” north, longitude 113o 54’ 02” east;
+  - (a) latitude 22o 17’ 39” north,
 
-  - (b) latitude 22o 17’ 34” north, longitude 113o 53’ 58” east;
+  - longitude 113o 54’ 02” east;
 
-  - (c) latitude 22o 17’ 16” north, longitude 113o 53’ 01” east;
+  - (b) latitude 22o 17’ 34” north,
 
-  - (d) latitude 22o 17’ 40” north, longitude 113o 52’ 51” east;
+  - longitude 113o 53’ 58” east;
+
+  - (c) latitude 22o 17’ 16” north,
+
+  - longitude 113o 53’ 01” east;
+
+  - (d) latitude 22o 17’ 40” north,
+
+  - longitude 113o 52’ 51” east;
 
   - (e) latitude 22o 17’ 59” north, longitude 113o 53’ 49” east.
 
@@ -251,3 +263,151 @@ RESTRICTED AREAS, ETC.
     - (iv) latitude 22o 20’ 48” north, longitude 114o 03’ 57” east.
 
 - (L.N. 228 of 1997)
+
+- 16.
+
+- NGONG SHUEN CHAU BARRACKS AREA
+
+- The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
+
+  - (a) latitude 22o 19’ 05.4000” north,
+
+  - longitude 114o 07’ 52.8000” east;
+
+  - (b) latitude 22o 19’ 02.5000” north,
+
+  - longitude 114o 07’ 51.2000” east;
+
+  - (c) latitude 22o 18’ 59.7130” north,
+
+  - longitude 114o 07’ 57.6390” east;
+
+  - (d) latitude 22o 18’ 48.2090” north,
+
+  - longitude 114o 07’ 59.5210” east;
+
+  - (e) latitude 22o 18’ 45.7060” north,
+
+  - longitude 114o 08’ 03.9010” east;
+
+  - (f) latitude 22o 18’ 48.9450” north,
+
+  - longitude 114o 08’ 08.7410” east;
+
+  - (g) latitude 22o 18’ 50.9190” north,
+
+  - longitude 114o 08’ 19.6010” east;
+
+  - (h) latitude 22o 18’ 54.5320” north,
+
+  - longitude 114o 08’ 22.0750” east;
+
+  - (i) latitude 22o 19’ 00.6000” north,
+
+  - longitude 114o 08’ 20.5000” east;
+
+  - (j) latitude 22o 18’ 56.9000” north,
+
+  - longitude 114o 08’ 23.5000” east;
+
+  - (k) latitude 22o 18’ 50.4000” north,
+
+  - longitude 114o 08’ 33.3000” east;
+
+  - (l) latitude 22o 18’ 52.0000” north,
+
+  - longitude 114o 08’ 33.2000” east;
+
+  - (m) latitude 22o 18’ 56.0600” north,
+
+  - longitude 114o 08’ 36.6610” east;
+
+  - (n) latitude 22o 18’ 59.7980” north,
+
+  - longitude 114o 08’ 40.7230” east;
+
+  - (o) latitude 22o 19’ 03.9930” north,
+
+  - longitude 114o 08’ 42.7310” east;
+
+  - (p) latitude 22o 19’ 09.7310” north,
+
+  - longitude 114o 08’ 43.5140” east;
+
+  - (q) latitude 22o 19’ 15.0000” north,
+
+  - longitude 114o 08’ 53.4910” east;
+
+  - (r) latitude 22o 19’ 19.3570” north,
+
+  - longitude 114o 08’ 52.9500” east;
+
+  - (s) latitude 22o 19’ 24.9670” north,
+
+  - longitude 114o 08’ 49.8190” east;
+
+  - (t) latitude 22o 19’ 27.8000” north,
+
+  - longitude 114o 08’ 45.2000” east;
+
+  - (u) latitude 22o 19’ 26.2000” north,
+
+  - longitude 114o 08’ 43.6000” east.
+
+- (L.N. 140 of 2000)
+
+- 17.
+
+- NGONG SHUEN CHAU NAVAL BASIN AREA
+
+- The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
+
+  - (a) latitude 22o 19’ 05.4000” north,
+
+  - longitude 114o 07’ 52.8000” east;
+
+  - (b) latitude 22o 19’ 02.5000” north,
+
+  - longitude 114o 07’ 51.2000” east;
+
+  - (c) latitude 22o 18’ 59.7130” north,
+
+  - longitude 114o 07’ 57.6390” east;
+
+  - (d) latitude 22o 18’ 48.2090” north,
+
+  - longitude 114o 07’ 59.5210” east;
+
+  - (e) latitude 22o 18’ 45.7060” north,
+
+  - longitude 114o 08’ 03.9010” east;
+
+  - (f) latitude 22o 18’ 48.9450” north,
+
+  - longitude 114o 08’ 08.7410” east;
+
+  - (g) latitude 22o 18’ 50.9190” north,
+
+  - longitude 114o 08’ 19.6010” east;
+
+  - (h) latitude 22o 18’ 54.5320” north,
+
+  - longitude 114o 08’ 22.0750” east;
+
+  - (i) latitude 22o 19’ 00.6000” north,
+
+  - longitude 114o 08’ 20.5000” east;
+
+  - (j) latitude 22o 18’ 56.9000” north,
+
+  - longitude 114o 08’ 23.5000” east;
+
+  - (k) latitude 22o 18’ 50.4000” north,
+
+  - longitude 114o 08’ 33.3000” east;
+
+  - (l) latitude 22o 18’ 53.6000” north,
+
+  - longitude 114o 08’ 33.1000” east. Note: The geographical co-ordinates of paragraphs 16 and 17 are represented by the WGS 84.
+
+- (L.N. 140 of 2000)
