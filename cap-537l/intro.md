@@ -1,5 +1,3 @@
 UNITED NATIONS SANCTIONS (ERITREA AND ETHIOPIA) REGULATION
 
-(Cap. 537, section 3)
-
-[16 March 2001]
+(Omitted as expired)
