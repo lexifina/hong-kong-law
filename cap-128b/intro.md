@@ -1,0 +1,5 @@
+LAND REGISTRATION FEES REGULATIONS
+
+(Cap. 128, section 27)
+
+[1 April 1958]
