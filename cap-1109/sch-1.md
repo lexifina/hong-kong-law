@@ -222,7 +222,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (2) A body re-nominating or re-electing a member may re-nominate or re-elect, as the case may be, such member for a period of 3 years or for a period of less than 3 years. (L.N. 20 of 1988)
 
-  - 5. Should a nominated or elected member of the Council die or resign during his period of membership, the body which nominated or elected him shall duly nominate or elect, as the case may be, a successor whose membership of the Council shall be for the unexpired period of membership of his predecessor. Such successor shall be eligible for re-nomination or re-election, and paragraph 4(2) shall apply thereto. (L.N. 20 of 1988)
+  - 5. Should a nominated or elected member of the Council die or resign during his period of membership, the body which nominated or elected him shall duly nominate or elect, as the case may be, a successor whose membership of the Council shall be for a period not exceeding 3 years. Such successor shall be eligible for re-nomination or re-election, and paragraph 4(2) shall apply thereto. (L.N. 20 of 1988; L.N. 257 of 2000)
 
   - 6. Members of the Council whose membership derives from paragraph 1(b), (c), (d), (f) and (g) shall remain members of the Council for so long as they hold the office or appointment by reason of which they became members of the Council.
 
@@ -387,6 +387,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
     - (e) the Professors, or the Readers in each Department in which there is no professor; (L.N. 452 of 1994)
 
     - (f) the Chairman of each Department and the Directors of Studies if not a member under subparagraph (e); (L.N. 452 of 1994)
+
+    - (fa) the Director of the School of Continuing Studies of the University; (L.N. 257 of 2000)
 
     - (g) 2 Fellows of each College elected by the College’s Assembly of Fellows; (L.N. 25 of 1987)
 
@@ -758,27 +760,31 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 1. The Council may for good cause as defined in paragraph 2 remove the Treasurer from his office and any member of the Council other than the Chairman and any person appointed under paragraph 1(k) and (1) of Statute 11 from his membership of the Council.
 
-  - 2. “Good cause” (好的因由) in paragraph 1 means—
+  - 2.
 
-    - (a) conviction of any crime which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature;
+    - “Good cause” (好的因由) in paragraph 1 means—
 
-    - (b) actual physical or mental in capacity which shall be judged by the Council to prevent the proper execution of the duties of the officer or membership; or
+      - (a) conviction of any crime which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature;
 
-    - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
+      - (b) actual physical or mental in capacity which shall be judged by the Council to prevent the proper execution of the duties of the officer or membership; or
+
+      - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
 
   - 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Head of each of the Colleges, any of the Professors or Readers or Senior Lecturers, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council.
 
   - 4. The Council may and shall if requested by the person concerned or by any 3 members of the Council before such removal appoint a committee consisting of the Chairman of the Council, 2 other members of the Council and 3 members of the Senate to examine the complaint and to report to the Council thereof.
 
-  - 5. “Good cause” (好的因由) in paragraph 3 means—
+  - 5.
 
-    - (a) conviction of any crime which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be of an immoral, scandalous or disgraceful nature;
+    - “Good cause” (好的因由) in paragraph 3 means—
 
-    - (b) actual physical or mental in capacity which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit for the execution of the duties of his office or appointment;
+      - (a) conviction of any crime which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be of an immoral, scandalous or disgraceful nature;
 
-    - (c) conduct of an immoral, scandalous or disgraceful nature which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit to continue to hold his office or appointment;
+      - (b) actual physical or mental in capacity which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit for the execution of the duties of his office or appointment;
 
-    - (d) conduct which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to constitute failure or inability to perform the duties of his office or appointment or to comply with the conditions of the tenure of his office or appointment.
+      - (c) conduct of an immoral, scandalous or disgraceful nature which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit to continue to hold his office or appointment;
+
+      - (d) conduct which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to constitute failure or inability to perform the duties of his office or appointment or to comply with the conditions of the tenure of his office or appointment.
 
   - 6. Subject to the terms of his appointment no person referred to in paragraph 3 shall be removed from his appointment save for good cause as defined in paragraph 5 and in pursuance of the procedure specified in paragraph 4.
 
