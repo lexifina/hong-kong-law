@@ -1,0 +1,5 @@
+OFFENSIVE TRADES (URBAN COUNCIL) BY-LAWS
+
+(Cap. 132 section 49)
+
+[23 December 1960]
