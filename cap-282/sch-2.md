@@ -10,7 +10,7 @@ A. CAUSED BY PHYSICAL AGENTS
 
 A1 | Inflammation, ulceration or malignant disease of the skin or subcutaneous tissues or of the bones, or blood dyscrasia, or cataract, due to electro-magnetic radiations (other than radiant heat), or to ionising particles | Any occupation involving exposure to electro-magnetic radiations other than radiant heat, or to ionising particles. | 10 years.
 
-A2 | Heat cataract | Any occupation involving frequent or prolonged exposure to ways from molten or red-hot material. | 3 years.
+A2 | Heat cataract | Any occupation involving frequent or prolonged exposure to rays from molten or red-hot material. | 3 years.
 
 A3 | Dysbarism, including decompression sickness, barotrauma and osteonecrosis | Any occupation involving subjection to compressed or rarefied air or other gases or gaseous mixtures. | 1 year. In the case of arthritis —5 years.
 
@@ -22,7 +22,11 @@ A6 | Bursitis or subcutaneous cellulitis arising at or about the knee due to sev
 
 A7 | Bursitis or subcutaneous cellulitis arising at or about the elbow due to severe or prolonged external friction or pressure at or about the elbow (Beat elbow) | Any occupation involving manual labour causing severe or prolonged external friction or pressure at or about the elbow. | 1 year.
 
-A8 | Traumatic inflammation of the tendons of the hand or forearm, or of the associated tendon sheaths | Any occupation involving manual labour, or frequent or repeated movements of the hand or wrist. | 1 year.
+A8 | Traumatic inflammation of the tendons of the hand or forearm (including elbow), or of the associated tendon sheaths (Amended L.N. 146 of 1999) | Any occupation involving manual labour, or frequent or repeated movements of the hand or wrist. | 1 year.
+
+A9 | Carpal tunnel syndrome | Any occupation involving repetitive use of hand-held powered tools whose internal parts vibrate so as to transmit that vibration to the hand, but excluding those which are solely powered by hand. | 1 year.
+
+(Added L.N. 146 of 1999)
 
 B. CAUSED BY BIOLOGICAL AGENTS
 
@@ -30,19 +34,27 @@ B1 | Anthrax | Any occupation involving contact with animals infected with anthr
 
 B2 | Glanders | Any occupation involving contact with equine animals or their carcasses. | 1 month.
 
-B3 | Infection by leptospira | Any occupation involving— (a) work in places which are, or are liable to be, infected by rats, field mice or voles, or other small mammals; (b) work at dog kennels or the care or handling of dogs; (c) contact with bovine animals or their meat products or pigs or their meat products. | 3 months.
+B3 | Infection by leptospira | Any occupation involving— (a) work in places which are, or are liable to be, infested by rats, field mice or voles, or other small mammals; (b) work at dog kennels or the care or handling of dogs; (c) contact with bovine animals or their meat products or pigs or their meat products. | 3 months.
 
 B4 | Pulmonary disease due to the inhalation of the dust of mouldy hay or other mouldy vegetable produce, and characterized by symptoms and signs attributable to a reaction in the peripheral part of the bronchopulmonary system, and giving rise to a defect in gas exchange (Farmer’s lung) | Any occupation involving exposure to the dust of mouldy hay or other mouldy vegetable produce by reason of employment— (a) in agriculture, horticulture or forestry; or (b) loading or unloading or handling in storage such hay or other vegetable produce; or (c) handling bagasse. | 1 year.
 
 B5 | Infection by organisms of the genus brucella | Any occupation involving contact with— (a) animals infected by brucella, or their carcasses or parts thereof, or their untreated products; or (b) laboratory specimens or vaccines of, or containing, brucella. | 1 year.
 
-B6 | Tuberculosis | Any occupation involving close and frequent contacts with a source or sources of tuberculosis infection by reason of employment— (a) in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing; (b) in attendance upon a person or persons suffering from tuberculosis, where the need for such attendance arises by reason of physical or mental infirmity; (c) as a research worker engaged in research in connection with tuberculosis; (d) as a laboratory worker, pathologist, or post-mortem worker, where the occupation involves working with materials which are a source of tuberculosis infection, or in any occupation ancillary to such employment. | 6 months.
+B6 | Tuberculosis | Any occupation involving close and frequent contacts with a source or sources of tuberculosis infection by reason of employment— (a) in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing; | 6 months.
+
+(b) in attendance upon a person or persons suffering from tuberculosis, where the need for such attendance arises by reason of physical or mental infirmity; (c) as a research worker engaged in research in connection with tuberculosis;
+
+(d) as a laboratory worker, pathologist, or post-mortem worker, where the occupation involves working with materials which are a source of tuberculosis infection, or in any occupation ancillary to such employment.
 
 B7 | Parenterally contracted viral hepatitis | Any occupation involving contact with— (a) human blood or human blood products; or (b) a source of viral hepatitis. | 6 months.
 
 B8 | Infection by streptococcus suis | Any occupation involving contact with pigs infected by streptococcus suis, or with the carcasses, products or residues of pigs so infected. | 1 month.
 
 B9 | Avian chlamydiosis | Any occupation involving contact with birds infected with chlamydia psittaci, their remains or untreated products. | 1 month.
+
+B10 | Legionnaires’ disease | Any occupation involving the repair, maintenance or service of— (a) cooling systems that use fresh water; or (b) hot water service systems. | 1 month.
+
+(Added L.N. 146 of 1999)
 
 C. CAUSED BY CHEMICAL AGENTS
 
@@ -58,9 +70,9 @@ C5 | Poisoning by mercury or a compound of mercury | Any occupation involving th
 
 C6 | Poisoning by carbon bisulphide | Any occupation involving the use or handling of, or exposure to the fumes, or vapour of, carbon bisulphide or a compound of carbon bisulphide, or a substance containing carbon bisulphide. | 1 year.
 
-C7 | Poisoning by benzene or a homologue of benzene | Any occupation involving the use or handling of, or exposure to the fumes of, or vapour benzene or any of its homologues. | 1 year.
+C7 | Poisoning by benzene or a homologue of benzene | Any occupation involving the use or handling of, or exposure to the fumes of, or vapour containing, benzene or any of its homologues. | 1 year.
 
-C8 | Poisoning by a nitro- or nitro-chlorobenzene. amino- or chloro-derivative of benzene or of a homologue of benzene, or poisoning by nitro-chlorobenzene | Any occupation involving the use or handling of, or exposure to the fumes of, or vapour containing, a nitro- or amino- or chloro-derivative of benzene or | 1 year. In the case of neoplasm —10 years.
+C8 | Poisoning by a nitro- or amino- or chloro-derivative of benzene or of a homologue of benzene, or poisoning by nitro-chlorobenzene | Any occupation involving the use or handling of, or exposure to the fumes of, or vapour containing, a nitro- or amino- or chloro-derivative of benzene or nitro- chlorobenzene. | 1 year. In the case of neoplasm —10 years.
 
 C9 | Poisoning by dinitrophenol or a homologue or by substituted dinitrophenols or by the salts of such substances | Any occupation involving the use or handling of, or exposure to the fumes of, or vapour containing, dinitrophenol or a homologue or substituted dinitrophenols or the salts of such substances. | 1 year.
 
@@ -82,7 +94,7 @@ C17 | Primary epitheliomatous cancer of the skin | Any occupation involving the 
 
 C18 | Chrome ulceration including perforation of nasal septum | Any occupation involving the use or handling of chromic acid, chromate or bichromate of ammonium, potassium, sodium or zinc, or any preparation or solution containing any of these substances. | 1 year.
 
-C19 | Primary neoplasm of the epithelial lining of the urinary tract, (renal pelvis, ureter, bladder and urethra) including papilloma, carcinoma-in-situ and invasive carcinoma | Any occupation involving the production, use or handling of alpha-naphthylamine, beta-naphthylamine,or methylene-bis-ortho-chloraniline, or diphenyl substituted by at least one nitro or primary amino group or by at least one nitro and primary amino group (including benzidine) and any of the above substances if further ring substituted by halogeno methyl or methoxyl group and the salts of any of the above substances and the production of auramine and magenta. | 20 years.
+C19 | Primary neoplasm of the epithelial lining of the urinary tract, (renal pelvis, ureter, bladder and urethra) including papilloma, carcinoma-in-situ and invasive carcinoma | Any occupation involving the production, use or handling of alpha-naphthylamine, beta-naphthylamine or methylene-bis-ortho-chloraniline, or diphenyl substituted by at least one nitro or primary amino group or by at least one nitro and primary amino group (including benzidine) and any of the above substances if further ring substituted by halogeno methyl or methoxyl group and the salts of any of the above substances and the production of auramine and magenta. | 20 years.
 
 C20 | Peripheral poly-neuropathy | Any occupation involving the production, use or handling of, or exposure to, any physical form of or any preparation or solution containing n-Hexane or methyl-n-butyl ketone. | 1 year.
 
@@ -100,6 +112,8 @@ D3 | Carcinoma of the nasal cavity or associated air sinuses (nasal carcinoma) |
 
 D4 | Byssinosis | Any occupation involving exposure to raw cotton dust. | 1 year.
 
-D5 | Occupational asthma | Any occupation involving the use or handling of, or exposure to, any of the following agents which may irritate or sensitise the respiratory system— (a) isocyanates; (b) platinum salts; (c) fumes or dusts arising from the manufacture, transport or use of hardening agents (including epoxy resin curing agents) based on phthalic anhydride, trimellitic anhydride or triethylenet-etramine; (d) fumes arising from the use of rosin as a soldering flux; (e) formaldehyde; (f) proteolytic enzymes; (g) animals or insects used for the purposes of research or education or in laboratories; (h) dusts arising from the sowing, cultivation, harvesting, drying, handling, milling, transport or storage of barley, oats, rye, wheat or maize, or the handling, milling, transport or storage of meal or flour made therefrom. | 1 month.
+D5 | Occupational asthma | Any occupation involving the use or handling of, or exposure to, any of the following agents which may irritate or sensitise the respiratory system— (a) isocyanates; (b) platinum salts; (c) fumes or dusts arising from the manufacture, transport or use of hardening agents (including epoxy resin curing agents) based on phthalic anhydride, trimellitic anhydride or triethylenet-etramine; (d) fumes arising from the use of rosin as a soldering flux; (e) formaldehyde; (f) proteolytic enzymes; (g) animals or insects used for the purposes of research or education or in laboratories; | 1 month.
 
-(Replaced L.N. 386 of 1983. Amended L.N. 52 of 1987; L.N. 397 of 1991; L.N. 410 of 1993)
+(h) dusts arising from the sowing, cultivation, harvesting, drying, handling, milling, transport or storage of barley, oats, rye, wheat or maize, or the handling, milling, transport or storage of meal or flour made therefrom. (i) any other sensitising agent inhaled at work.
+
+(Added L.N. 146 of 1999) (Replaced L.N. 386 of 1983. Amended L.N. 52 of 1987; L.N. 397 of 1991; L.N. 410 of 1993)
