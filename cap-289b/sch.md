@@ -200,4 +200,6 @@ Item | Periods | Rate of interest
 
 98. | On or after 1 November 1999 and before 6 December 1999 (L.N. 267 of 1999; L.N. 305 of 1999) | 4.7917% per annum
 
-99. | On or after 6 December 1999 (L.N. 305 of 1999) | 4.8750% per annum
+99. | On or after 6 December 1999 and before 3 January 2000 (L.N. 305 of 1999; L.N. 332 of 1999) | 4.8750% per annum
+
+100. | On or after 3 January 2000 (L.N. 332 of 1999) | 4.6667% per annum
