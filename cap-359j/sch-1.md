@@ -1,0 +1,75 @@
+# SCHEDULE 1
+
+[s. 3]
+
+FORM OF REGISTER
+
+SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE (Chapter 359) PHYSIOTHERAPISTS (REGISTRATION AND DISCIPLINARY PROCEDURE) REGULATION Register of Physiotherapists PART Ia
+
+REGISTRATION NO. | :
+
+NAME | : | ............................................ ()
+
+ADDRESS | :
+
+BUSINESS ADDRESS | :
+
+QUALIFICATIONS AND DATE OBTAINED | :
+
+DETAILS OF WORKING EXPERIENCE | :
+
+CERTIFICATE OF REGISTRATION SERIAL NO. | :
+
+DATE OF REGISTRATION | :
+
+REMARKS | :
+
+Photograph
+
+Secretary, Physiotherapists Board.
+
+PART Ib
+
+REGISTRATION NO. | :
+
+NAME | : | ............................................ ()
+
+ADDRESS | :
+
+BUSINESS ADDRESS | :
+
+QUALIFICATIONS AND DATE OBTAINED | :
+
+CERTIFICATE OF REGISTRATION SERIAL NO. | :
+
+DATE OF REGISTRATION | :
+
+REMARKS | :
+
+Photograph
+
+Secretary, Physiotherapists Board.
+
+PART II
+
+REGISTRATION NO. | :
+
+NAME | : | ............................................ ()
+
+ADDRESS | :
+
+BUSINESS ADDRESS | :
+
+QUALIFICATIONS AND DATE OBTAINED | :
+
+DETAILS OF WORKING EXPERIENCE | :
+
+CERTIFICATE OF PROVISIONAL REGISTRATION SERIAL NO. | :
+
+DATE OF REGISTRATION | :
+
+REMARKS | :
+
+Photograph
+
+Secretary, Physiotherapists Board.
