@@ -1,0 +1,5 @@
+CUSTOMS AND EXCISE SERVICE (DISCIPLINE) RULES
+
+(Cap. 342, section 16)
+
+[1 August 1977]
