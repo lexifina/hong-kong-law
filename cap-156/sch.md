@@ -1,0 +1,7 @@
+# SCHEDULE
+
+[s. 8]
+
+UNIVERSITIES IN HONG KONG SPECIFIED FOR PURPOSES OF SECTION 8 OF THIS ORDINANCE
+
+- 1. The University of Hong Kong. (Schedule added 9 of 2002 s. 2)

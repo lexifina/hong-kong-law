@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[ss. 4 & 7]
+[s. 7] (9 of 2002 s. 3)
 
 CERTIFICATE OF REGISTRATION
 
