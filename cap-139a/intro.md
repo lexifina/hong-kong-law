@@ -1,0 +1,5 @@
+PUBLIC HEALTH (ANIMALS AND BIRDS) REGULATIONS
+
+(Cap. 139, section 3)
+
+[1 January 1936]
