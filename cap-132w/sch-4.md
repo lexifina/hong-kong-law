@@ -1,6 +1,6 @@
 # SCHEDULE 4
 
-[reg. 4A]
+[reg. 4A] (L.N. 80 of 1996)
 
 ITEMS EXEMPT FROM SCHEDULE 3
 
@@ -31,10 +31,6 @@ Flavourings | Paragraph 2
 Cooking salt | Paragraph 4
 
 Sugar with no added ingredients other than preservatives | Paragraph 4
-
-Deep-frozen (including quick-frozen) food | Paragraph 4
-
-Any food which can reasonably be expected to retain its specific properties for more than 18 months | Paragraph 4
 
 Chewing gums and other similar products (L.N. 80 of 1996) | Paragraph 4
 
