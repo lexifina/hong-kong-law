@@ -134,7 +134,7 @@ PUBLIC BODIES
 
 - 66. Hong Kong Industrial Technology Centre Corporation. (Added 21 of 1993 s. 25)
 
-- 67. Boundary and Election Commission. (Added 40 of 1993 s. 27)
+- 67. (Repealed 134 of 1997 s. 85)
 
 - 68. Tradelink Electronic Document Services Limited. (Added L.N. 215 of 1993)
 
