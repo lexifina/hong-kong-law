@@ -260,4 +260,6 @@ Item | Periods | Rate of interest
 
 128. | On or after 6 May 2002 and before 3 June 2002 (L.N. 62 of 2002; L.N. 88 of 2002) | 0.5812% per annum
 
-129. | On or after 3 June 2002 (L.N. 88 of 2002) | 0.2812% per annum
+129. | On or after 3 June 2002 and before 2 July 2002 (L.N. 88 of 2002; L.N. 109 of 2002) | 0.2812% per annum
+
+130. | On or after 2 July 2002 (L.N. 109 of 2002) | 0.1908% per annum
