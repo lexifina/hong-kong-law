@@ -210,4 +210,6 @@ Item | Periods | Rate of interest
 
 103. | On or after 3 April 2000 and before 2 May 2000 (L.N. 73 of 2000; L.N. 118 of 2000) | 4.8125% per annum
 
-104. | On or after 2 May 2000 (L.N. 118 of 2000) | 5.0625% per annum
+104. | On or after 2 May 2000 and before 5 June 2000 (L.N. 118 of 2000; L.N. 203 of 2000) | 5.0625% per annum
+
+105. | On or after 5 June 2000 (L.N. 203 of 2000) | 5.5208% per annum
