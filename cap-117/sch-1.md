@@ -110,27 +110,29 @@ And see sections 2, 16, 17, 27, 39, 42 and 43 Partition, Instruments effecting-s
 
 HEAD 2: HONG KONG STOCK
 
-(1) CONTRACT NOTE for the sale or purchase of any Hong Kong stock not being jobbing business on every note required to be made under section 19(1) | (A) $1.25 for every $1,000 or part thereof of the amount of the consideration or of its value at the date on which the contract note falls to be executed: but see Note to this sub-head (Amended L.N. 154 of 1998; 18 of 1998 s. 2)
+(1) CONTRACT NOTE for the sale or purchase of any Hong Kong stock not being jobbing business on every note required to be made under section 19(1) | (A) $1.25 for every $1,000 or part thereof of the amount of the consideration or of its value at the date on which the contract note falls to be executed: but see Note to this sub-head (Amended 18 of 1998 s. 2)
 
 (B) 2 days after the sale or purchase if effected in Hong Kong: see section 19(1)(b)(i) 30 days after the sale or purchase if effected elsewhere: see section 19(1)(b)(ii)
 
-(C) The agent or, where no agent, the principal effecting the sale or purchase
+(C) The agent or, where no agent the principal effecting the sale or purchase
 
-And see sections 2, 4, 5, 5A, 6, 19, 20, 23, 24, 27 and 45
+And see sections 2, 4, 5. 5A, 6, 19, 20, 23, 24, 27 and 45 (Amended 43 of 1991 s. 7; 85 of 1991 s. 6; 36 of 1992 s. 3; 31 of 1993 s. 2)
 
-(Amended 43 of 1991 s. 7; 85 of 1991 s. 6; 36 of 1992 s. 3; 31 of 1993 s. 2)
+Note Where the consideration or any part of the consideration consists of any security not being stock the amount due upon such security for principal and interest on the date on which the contract note falls to be executed shall be taken to be its value at that date
 
-Note Where the consideration or any part of the consideration consists of any security not being stock, the amount due upon such security for principal and interest on the date on which the contract note falls to be executed shall be taken to be its value at that date
+(2) CONTRACT NOTE in respect of jobbing business on every note required to be made under section 19(1) | (A) $5 (B) 2 days after the sale or purchase: see section 19(1)(b)(i)
 
-(2) CONTRACT NOTE in respect of jobbing business on every note required to be made under section 19(1) | (A) $5 (B) 2 days after the sale or purchase: see section 19(1)(b)(i) (C) The broker effecting the sale or purchase
+(C) The broker effecting the sale or purchase
 
 And see sections 2, 4, 19 and 20
 
-(3) TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order | (A) $5 and $2.5 for every $1,000 or part thereof of the value of the stock (Amended L.N. 154 of 1998; 18 of 1998 s. 2) (B) 7 days after execution or if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head (C) The transferor and the transferee; but see Note 1 to this sub-head
+(3) TRANSFER operating as a voluntary disposition inter vivos or made for the purpose of effectuating a transaction whereby the beneficial interest in Hong Kong stock passes otherwise than on sale and purchase, including a foreclosure order (Amended 33 of 1998 s. 11) | (A) $5 and $2.5 for every $1,000 or part thereof of the value of the stock (Amended 18 of 1998 s. 2)
 
-And see sections 4, 19, 27, 28, 30, 44 and 45
+(B) 7 days after execution or if executed elsewhere than in Hong Kong, 30 days after execution; but see Note 1 to this sub-head
 
-(Amended 43 of 1991 s. 7; 36 of 1992 s.3; 31 of 1993 s. 2)
+(C) The transferor and the transferee; but see Note 1 to this sub-head
+
+And see sections 4, 19, 27, 28, 30, 44 and 45 (Amended 43 of 1991 s. 7; 36 of 1992 s. 3; 31 of 1993 s. 2)
 
 Note 1 In the case of a foreclosure order, the time for stamping shall be before the order is signed by the Registrar and the persons liable shall be the persons obtaining the order
 
@@ -152,7 +154,7 @@ Note No stamp duty under this sub-head shall be payable on a transfer executed b
 
 (b) in accordance with the rules (within the meaning of section 19(16)) of the clearing house
 
-(Amended 40 of 1992 s. 7)
+(Replaced 40 of 1992 s. 7)
 
 HEAD 3: HONG KONG BEARER INSTRUMENT
 

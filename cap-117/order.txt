@@ -81,3 +81,4 @@ s-066.md
 sch-1.md
 sch-2.md
 sch-3.md
+sch-4.md
