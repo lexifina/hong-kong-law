@@ -1,0 +1,7 @@
+BIRTH CERTIFICATE (SHORTENED FORM) REGULATIONS
+
+(Cap. 174 section 29(2))
+
+(Cap. 175 section 13(2))
+
+[8 October 1948]
