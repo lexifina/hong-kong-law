@@ -194,4 +194,6 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 95. Caritas Wong Yiu Nam Centre (Added L.N. 249 of 1999)
 
-- 96. Alice Ho Miu Ling Nethersole Nursing Home (Added L.N. 249 of 1999) (Second Schedule replaced L.N. 187 of 1992)
+- 96. Alice Ho Miu Ling Nethersole Nursing Home (Added L.N. 249 of 1999)
+
+- 97. Tseung Kwan O Hospital (Added L.N. 249 of 1999) (Second Schedule replaced L.N. 187 of 1992)
