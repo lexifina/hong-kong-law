@@ -90,4 +90,6 @@ Item | Ordinance | Decision
 
 46. | Port Control (Cargo Working Areas) Regulations (Cap. 81 sub. leg.) | A decision of the Director or the supervisor under regulation 4A(4), 5B, 6AA, 7, 7A, 7B, 7C, 7D, 7E, 13 or 21. (Added L.N. 280 of 1999)
 
+49. | Road Traffic Ordinance (Cap. 374) | A decision of the Commissioner of Police under section 55(3). (Added 3 of 2002 s. 17)
+
 Time within which appeals are to be made An appeal under any item mentioned in this Schedule shall be made within 28 days after receipt of notice of the decision to which the appeal relates.

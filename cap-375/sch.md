@@ -56,9 +56,9 @@ Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A)
 
 17 | Regulation 4(2) | Driving in excess of temporary maximum speed limit by more than 45 kilometres an hour | 10
 
-18 | Regulation 9(g) | Crossing continuous double lines | 3
+18 | Regulation 9(1)(g) | Crossing continuous double lines | 3
 
-19 | Regulation 18(4) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg.G) | 3
+19 | Regulation 18(4) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
 
 20 | Regulation 18(4) | Driving in excess of the speed limit indicated by a traffic sign of the type shown in Figure No. 136 in Schedule 1 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) by more than 15 kilometres an hour, other than where item 21 or 22 applies | 3
 
@@ -120,4 +120,28 @@ Tsing Ma Control Area (General) Regulation (Cap. 498 sub. leg. B)
 
 49 | Section 10(2) | Driving in excess of temporary speed limit by more than 45 kilometres an hour | 10
 
-(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4)
+Tai Lam Tunnel and Yuen Long Approach Road Bylaw (Cap. 474 sub. leg. C)
+
+50 | Section 7 | Driving in excess of speed limit indicated by a speed limit sign of the type shown in Figure No. 6, 7, 8 or 9 in the Schedule to the Tai Lam Tunnel and Yuen Long Approach Road Bylaw (Cap. 474 sub. leg. C) by more than 15 kilometres an hour, other than where item 51 or 52 applies | 3
+
+51 | Section 7 | Driving in excess of speed limit referred to in item 50 by more than 30 kilometres an hour, other than where item 52 applies | 5
+
+52 | Section 7 | Driving in excess of speed limit referred to in item 50 by more than 45 kilometres an hour | 10
+
+53 | Section 8 | Crossing continuous double white lines | 3
+
+54 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+
+Discovery Bay Tunnel Link Bylaw (Cap. 520 sub. leg. B)
+
+55 | Section 7 | Driving in excess of speed limit indicated by a speed limit sign of the type shown in Figure No. 6 or 7 in the Schedule to the Discovery Bay Tunnel Link Bylaw (Cap. 520 sub. leg. B) by more than 15 kilometres an hour, other than where item 56 or 57 applies | 3
+
+56 | Section 7 | Driving in excess of speed limit referred to in item 55 by more than 30 kilometres an hour, other than where item 57 applies | 5
+
+57 | Section 7 | Driving in excess of speed limit referred to in item 55 by more than 45 kilometres an hour | 10
+
+58 | Section 8 | Crossing continuous double white lines | 3
+
+59 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+
+(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14)
