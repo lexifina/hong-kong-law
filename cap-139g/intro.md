@@ -1,0 +1,5 @@
+IMPORTATION OF EQUINES (PROHIBITION) ORDER
+
+(Cap. 139, section 4)
+
+[7 January 1949]
