@@ -572,9 +572,7 @@ Article 9(3)(a)(iii),
 
     - (iii) for the purpose of ensuring that the instruments, accessories or other components of the aircraft are in a satisfactory condition.
 
-- 13. Certificates of Maintenance Review and Release to Service issue
-
-- Maintenance Engineers licensed by Prescribed Countries With reference to Article 9(3)(a)(iii) and Article 11(6)(a)(iii) of the Order the following country is hereby prescribed— United Kingdom
+- 13. (Repealed 36 of 1999 s. 3)
 
 - 14. Aeroplanes flying for the Purpose of Public Transport of
 

@@ -10,6 +10,8 @@
 
     - (1) In these Regulations:—
 
+      - “appropriate authority” means any authority designated, or otherwise recognized by a State concerned to perform specific functions related to provisions contained in the Technical Instructions; (L.N. 179 of 1999)
+
       - “consignment” means one or more packages of dangerous goods accepted by an operator from one shipper at one time and at one address receipted for in one lot and moving to one consignee at one destination address;
 
       - “dangerous goods” means any article or substance which is capable of posing significant risk to health, safety or property when carried by air and which is classified in Part 2 of the Technical Instructions;
@@ -20,7 +22,9 @@
 
       - “packing” means the art and operation whereby articles and substances are wrapped up, enclosed in containers or otherwise secured, and “packed” shall be construed accordingly;
 
-      - “Technical Instructions” means the 1997-98 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997)
+      - “States concerned” has the same meaning as it has in Chapter 1.1.1 of Part 1 of the Technical Instructions; (L.N. 179 of 1999)
+
+      - “Technical Instructions” means the 1999-2000 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999)
 
       - “unit load device” means any type of freight container including any container designed for loading on an aircraft.
 
@@ -40,27 +44,41 @@
 
       - (b) suspend or cause to be suspended beneath, or
 
-      - (c) delivery or cause to be delivered for loading on or suspension beneath
+      - (c) deliver or cause to be delivered for loading on or suspension beneath (L.N. 179 of 1999)
 
     - an aircraft any goods which he knows or ought to know or suspect to be goods capable of posing significant risk to health, safety or property when carried by air, unless the provisions of these Regulations are complied with.
 
-    - (3) These Regulations shall not apply to dangerous goods of a type specified in Chapter 1.1.2(a), 1.1.2(b) and 2.3 of Part 1 and Chapter 1.2 of Part 9 of the Technical Instructions which are carried, loaded or suspended in accordance with the provisions of the aforesaid Chapters 1.1.2(a), 1.1.2(b) and 2.3 of Part 1 and Chapter 1.2 of Part 9 and which are—
+    - (3) These Regulations shall not apply to dangerous goods of a type specified in Chapter 1.1.2(a), 1.1.2(b), 1.1.2(d), 1.1.2(e) and 2.3 of Part 1 and Chapter 1.2 of Part 9 of the Technical Instructions which are carried, loaded or suspended in accordance with the provisions of the aforesaid Chapters 1.1.2(a), 1.1.2(b), 1.1.2(d), 1.1.2(e) and 2.3 of Part 1 and Chapter 1.2 of Part 9 and which are— (L.N. 179 of 1999)
 
       - (a) articles and equipment which are required to be carried on an aircraft by or under the Order or are otherwise intended for use on an aircraft for the purpose of the good order of the flight in accordance with normal practice whether or not, in either case, such articles and equipment are required to be carried or intended to be used on that particular flight;
 
       - (b) solely intended for the use of passengers or crew members or for sale to the passengers or crew members of the aircraft during the flight in question;
 
-      - (c) to provide during the flight veterinary aid or a humane killer for an animal; or
+      - (c) to provide during the flight veterinary aid or a humane killer for an animal; (L.N. 179 of 1999)
 
-      - (d) to provide during the flight medical aid to a person:
+      - (d) to provide during the flight medical aid to a person; (L.N. 179 of 1999)
 
-        - Provided that goods specified in sub-paragraphs (c) and (d) shall only be carried if—
+      - (e) to provide, during flight, aid in connection with search and rescue operations; or (L.N. 179 of 1999)
+
+      - (f) vehicles which are carried in aircraft designed or modified for vehicle ferry operations: (L.N. 179 of 1999)
+
+        - Provided that goods specified in sub-paragraphs (c), (d) and (e) shall only be carried if- (L.N. 179 of 1999)
 
           - (i) they are or may be required for use during the flight;
 
-          - (ii) they are or may be required for use during a subsequent flight by the same aircraft and it will not be practicable to load the goods on the aircraft in the intervening period before the commencement of that subsequent flight, or
+          - (ii) they are or may be required for use during a subsequent flight by the same aircraft and it will not be practicable to load the goods on the aircraft in the intervening period before the commencement of that subsequent flight; or
 
-          - (iii) they were used or might have been required for use during a previous flight by the same aircraft and it has not been practicable to unload them from the aircraft since that flight.
+          - (iii) they were used or might have been required for use during a previous flight by the same aircraft and it has not been practicable to unload them from the aircraft since that flight: (L.N. 179 of 1999)
+
+        - Provided that goods specified in sub-paragraph (f) shall only be carried if all the following requirements are met—
+
+        - (aa) authorizations have been given by the appropriate authorities of the States concerned, and the appropriate authorities of the States concerned have prescribed specific terms and conditions for the particular operator’s operation;
+
+        - (bb) vehicles are secured in an upright position;
+
+        - (cc) fuel tanks are so filled as to prevent spillage of fuel during loading, unloading and transit; and
+
+        - (dd) adequate ventilation rates are maintained in the aircraft compartment in which the vehicle is carried. (L.N. 179 of 1999)
 
     - (4) Save for Regulations 3(1)(a), 7(1) but only to the extent that it refers to the provisions in Chapter 2.1 of Part 5 of the Technical Instructions and 7(2) and 8(3) of these Regulations, these Regulations shall not apply to dangerous goods of the classifications specified in Chapter 2.5 of Part 1 of the Technical Instructions provided that:
 
@@ -94,7 +112,7 @@
 
   - Before consigning any package containing dangerous goods for carriage by air the shipper shall ensure that:
 
-    - (a) the goods are not of a category whose carriage by air is prohibited by the provisions of Chapters 2.1, 2.2 and 2.7 of Part 1 of the Technical Instructions; (L.N. 150 of 1997)
+    - (a) the goods are not of a category whose carriage by air is prohibited by the provisions of Chapters 2.1 and 2.2 of Part 1 of the Technical Instructions; (L.N. 150 of 1997; L.N. 179 of 1999)
 
     - (b) the goods are classified and packed in accordance with Chapter 2.6 of Part 1 and Parts 2, 3 and 8 of the Technical Instructions and the packagings used are in accordance with such provisions of Part 7 of the Technical Instructions as apply to the goods;
 
