@@ -1,9 +1,15 @@
-# 31YAA. Set-off of long service payment against gratuity or retirement scheme payment
+# 31YAA. Gratuity or benefit to be reduced by amount of long service payment in certain cases
 
-(1) The gratuity or retirement scheme payment to which an employee is entitled as referred to in section 31Y(1)(b) in respect of all the years of service in respect of which a long service payment is payable under this Part shall be reduced by the long service payment paid to the employee under this Part.
+(1) If—
 
-(2) Any retirement scheme payment which would have to be paid under a retirement scheme to an employee but for the reduction under subsection (1) shall be paid by the trustee of the retirement scheme to the employer.
+- (a) because of the operation of the employee’s contract of employment, an employee has become entitled to payment of a gratuity based on length of service, or to payment of a relevant occupational retirement scheme benefit; or
 
-(3) For the purpose of subsections (1) and (2), any reference therein to a retirement scheme payment shall not include that part (if any) of the payment which represents an employee’s own contributions, including any sum payable in respect of interest thereon.
+- (b) a relevant mandatory provident fund scheme benefit is being held in a mandatory provident fund scheme in respect of the employee,
 
-(Added 62 of 1992 s. 11)
+and the employee has been paid a long service payment under this Part, the gratuity or benefit is, to the extent that it is attributable to the same years of service as those for which the long service payment is payable, to be reduced by the whole of the long service payment.
+
+(2) Subsection (1) has effect even though the years of service for which the long service payment was made exceed those to which the gratuity or benefit is attributable.
+
+(3) Section 70A of the Occupational Retirement Schemes Ordinance (Cap. 426) and section 12A of the Mandatory Provident Fund Schemes Ordinance (Cap. 485) have effect in relation to this section.
+
+(Replaced 4 of 1998 s. 5)
