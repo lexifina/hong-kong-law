@@ -10,6 +10,10 @@ s-004.md
 s-004A.md
 s-005.md
 s-006.md
+s-006AA.md
+s-006AB.md
+s-006AC.md
+s-006AD.md
 s-006A.md
 s-006B.md
 s-006C.md
