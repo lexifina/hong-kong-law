@@ -48,7 +48,7 @@ Column 1 | Column 2
 
 Measurement procedure | Emission standards
 
-As specified in item 4-21-1 of Chapter 11-2 of the Automobile Type Approval Handbook for Japanese Certification, October 1997, Technical Edition II by the Japan Automobile Standards International Centre | Carbon monoxide level is not to exceed 1.0% vol.; and Hydrocarbons are not to exceed 300ppm vol. as normal-hexane equivalent
+As specified in item 4-21-1 of Chapter 11-2 of the Automobile Type Approval Handbook for Japanese Certification, October 1997, Technical Edition II by the Japan Automobile Standards Internationalization Center (L.N. 147 of 2002) | Carbon monoxide level is not to exceed 1.0% vol.; and Hydrocarbons are not to exceed 300ppm vol. as normal-hexane equivalent
 
 Note: 1. At high idle, the speed of engine must not be less than 2000 rev/min.
 
