@@ -1,0 +1,5 @@
+PLEASURE GROUNDS (URBAN COUNCIL) BYLAWS
+
+(Cap. 132, section 109)
+
+[11 November 1960] G.N.A. 132 of 1960
