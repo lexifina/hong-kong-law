@@ -4,8 +4,6 @@
 
 FORMS
 
-( Forms 3 to 5 not yet in operation)
-
 FORM 1 | [section 7(1)]
 
 SUPPLEMENTARY MEDICAL PROFESSIONS ORDINANCE
