@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 4 of 2000 s. 3)
-
 [ss. 2, 4 & 9]
 
 - 1.
@@ -19,6 +17,8 @@
   - (d) to establish, maintain and manage homes and nurseries;
 
   - (e) to establish, maintain and manage schools and other educational institutions in Hong Kong;
+
+  - (ea) to undertake charitable work outside Hong Kong with the prior approval of the Secretary for Home Affairs; (Added L.N. 36 of 2002)
 
   - (f) to establish and support, and to aid in the establishment and support of, any other charitable organizations formed for all or any of the objects of the corporation;
 
