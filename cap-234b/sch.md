@@ -12,6 +12,8 @@ Custodial ward of Queen Elizabeth Hospital under the control of the Correctional
 
 Custodial Ward of Queen Mary Hospital under the control of the Correctional Services Department, except that part of the ward located therein controlled by the police (L.N. 227 of 1991)
 
+Hei Ling Chau Addiction Treatment Centre (Annex) on the island of Hei Ling Chau (L.N. 4 of 2002)
+
 Hei Ling Chau Correctional Institution (the site and buildings on the island of Hei Ling Chau and until now known as “Hei Ling Chau Detention Centre”) (L.N. 376 of 1993)
 
 Lai Chi Kok Reception Centre (the site and buildings situated at Butterfly Valley Road, Lai Chi Kok, Kowloon) (L.N. 255 of 1977)
