@@ -276,7 +276,7 @@ SECOND COLUMN | THIRD COLUMN
 
 (Added 42 of 1997 s. 4. Amended 31 of 1998 s. 20)
 
-For the year of assessment 1998/99 and for each year after that year
+For the years of assessment 1998/99 to 2002/03 inclusive
 
 SECOND COLUMN | THIRD COLUMN
 
@@ -288,4 +288,34 @@ SECOND COLUMN | THIRD COLUMN
 
 (d) | Upon the remainder | 17%
 
-(Added 31 of 1998 s. 20)
+(Added 31 of 1998 s. 20. Amended 24 of 2003 s. 10)
+
+For the year of assessment 2003/04
+
+SECOND COLUMN | THIRD COLUMN
+
+(a) | Upon the first $32,500 | 2%
+
+(b) | Upon the next $32,500 | 7 1/2%
+
+(c) | Upon the next $32,500 | 13 %
+
+(d) | Upon the remainder | 18 1/2%
+
+(Added 24 of 2003 s. 10)
+
+For the year of assessment 2004/05
+
+and for each year after that year
+
+SECOND COLUMN | THIRD COLUMN
+
+(a) | Upon the first $30,000 | 2%
+
+(b) | Upon the next $30,000 | 8%
+
+(c) | Upon the next $30,000 | 14%
+
+(d) | Upon the remainder | 20%
+
+(Added 24 of 2003 s. 10)

@@ -232,9 +232,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 (Added 42 of 1997 s. 6. Amended 31 of 1998 s. 23)
 
-For the year of assessment 1998/99 and for
-
-each year after that year
+For the years of assessment 1998/99 to 2002/03 inclusive
 
 FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
@@ -270,4 +268,78 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 8. | Section 32(1) (single parent allowance) | $108,000
 
-(Added 31 of 1998 s. 23)
+(Added 31 of 1998 s. 23. Amended 24 of 2003 s. 11)
+
+For the year of assessment 2003/04
+
+FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+
+1. | Section 28 (basic allowance) | $104,000
+
+2. | Section 29 (married person’s allowance) | $208,000
+
+3. | Section 30 (dependent parent allowance)—
+
+(a) subsection (3)(a) | $ 30,000
+
+(b) subsection (3)(b) | $ 30,000
+
+(c) subsection (4)(a) | $ 12,000
+
+4. | Section 30A (dependent grandparent allowance)—
+
+(a) subsection (3)(a) | $ 30,000
+
+(b) subsection (3)(b) | $ 30,000
+
+(c) subsection (4)(a) | $ 12,000
+
+5. | Section 30B(1) (dependent brother or dependent sister allowance) | $ 30,000
+
+6. | Section 31 (child allowance)— (a) subsection (1) | $30,000 each for the first to the ninth child
+
+(b) subsection (5) | $270,000
+
+7. | Section 31A(1) (disabled dependant allowance) | $ 60,000
+
+8. | Section 32(1) (single parent allowance) | $104,000
+
+(Added 24 of 2003 s. 11)
+
+For the year of assessment 2004/05 and
+
+for each year after that year
+
+FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+
+1. | Section 28 (basic allowance) | $100,000
+
+2. | Section 29 (married person’s allowance) | $200,000
+
+3. | Section 30 (dependent parent allowance)—
+
+(a) subsection (3)(a) | $ 30,000
+
+(b) subsection (3)(b) | $ 30,000
+
+(c) subsection (4)(a) | $ 12,000
+
+4. | Section 30A (dependent grandparent allowance)—
+
+(a) subsection (3)(a) | $ 30,000
+
+(b) subsection (3)(b) | $ 30,000
+
+(c) subsection (4)(a) | $ 12,000
+
+5. | Section 30B(1) (dependent brother or dependent sister allowance) | $ 30,000
+
+6. | Section 31 (child allowance)— (a) subsection (1) | $30,000 each for the first to the ninth child
+
+(b) subsection (5) | $270,000
+
+7. | Section 31A(1) (disabled dependant allowance) | $ 60,000
+
+8. | Section 32(1) (single parent allowance) | $100,000
+
+(Added 24 of 2003 s. 11)
