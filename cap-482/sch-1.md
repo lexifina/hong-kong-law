@@ -1,0 +1,769 @@
+# SCHEDULE 1
+
+[ss. 2(1) & 15]
+
+CONVENTION ON A CODE OF CONDUCT FOR LINER CONFERENCES
+
+OBJECTIVES AND PRINCIPLES
+
+- The Contracting Parties to the present Convention,
+
+- DESIRING to improve the liner conference system,
+
+- RECOGNIZING the need for a universally acceptable code of conduct for liner conferences,
+
+- TAKING into account the special needs and problems of the developing countries with respect to the activities of liner conferences serving their foreign trade,
+
+- AGREEING to reflect in the Code the following fundamental objectives and basic principles—
+
+  - (a) the objective to facilitate the orderly expansion of world sea-borne trade;
+
+  - (b) the objective to stimulate the development of regular and efficient liner services adequate to the requirements of the trade concerned;
+
+  - (c) the objective to ensure a balance of interests between suppliers and users of liner shipping services;
+
+  - (d) the principle that conference practices should not involve any discrimination against the shipowners, shippers or the foreign trade of any country;
+
+  - (e) the principle that conferences hold meaningful consultations with shippers’ organizations, shippers’ representatives and shippers on matters of common interest, with, upon request, the participation of appropriate authorities;
+
+  - (f) the principle that conferences should make available to interested parties pertinent information about their activities which are relevant to those parties and should publish meaningful information on their activities,
+
+- HAVE AGREED as follows—
+
+PART ONE CHAPTER I: DEFINITIONS
+
+Liner conference or conference
+
+- A group of two or more vessel-operating carriers which provides international liner services for the carriage of cargo on a particular route or routes within specified geographical limits and which has an agreement or arrangement, whatever its nature, within the framework of which they operate under uniform or common freight rates and any other agreed conditions with respect to the provision of liner services.
+
+National shipping line
+
+- A national shipping line of any given country is a vessel-operating carrier which has its head office of management and its effective control in that country and is recognized as such by an appropriate authority of that country or under the law of that country. Lines belonging to and operated by a joint venture involving two or more countries and in whose equity the national interests, public and/or private, of those countries have a substantial share and whose head office of management and whose effective control is in one of those countries can be recognized as a national line by the appropriate authorities of those countries.
+
+Third-country shipping line
+
+- A vessel-operating carrier in its operations between two countries of which it is not a national shipping line.
+
+Shipper
+
+- A person or entity who has entered into, or who demonstrates an intention to enter into, a contractual or other arrangement with a conference or shipping line for the shipment of goods in which he has a beneficial interest.
+
+Shippers’ organization
+
+- An association or equivalent body which promotes, represents and protects the interests of shippers and, if those authorities so desire, is recognized in that capacity by the appropriate authority or authorities of the country whose shippers it represents.
+
+Goods carried by the conference
+
+- Cargo transported by shipping lines members of a conference in accordance with the conference agreement.
+
+Appropriate authority
+
+- Either a government or a body designated by a government or by national legislation to perform any of the functions ascribed to such authority by the provisions of this Code.
+
+Promotional freight rate
+
+- A rate instituted for promoting the carriage of non-traditional exports of the country concerned.
+
+Special freight rate
+
+- A preferential freight rate, other than a promotional freight rate, which may be negotiated between the parties concerned.
+
+- CHAPTER II: RELATIONS AMONG MEMBER LINES Article 1 Membership
+
+  - (1) Any national shipping line shall have the right to be a full member of a conference which serves the foreign trade of its country, subject to the criteria set out in Article 1(2). Shipping lines which are not national lines in any trade of a conference shall have the right to become full members of that conference, subject to the criteria set out in Article 1(2) and (3) and to the provisions regarding the share of trade as set out in Article 2 as regards third-country shipping lines.
+
+  - (2) A shipping line applying for membership of a conference shall furnish evidence of its ability and intention, which may include the use of chartered tonnage, provided the criteria of this paragraph are met, to operate a regular, adequate and efficient service on a long-term basis as defined in the conference agreement within the framework of the conference, shall undertake to abide by all the terms and conditions of the conference agreement, and shall deposit a financial guarantee to cover any outstanding financial obligation in the event of subsequent withdrawal, suspension or expulsion from membership, if so required under the conference agreement.
+
+  - (3) In considering an application for membership by a shipping line which is not a national line in any trade of the conference concerned, in addition to the provisions of Article 1(2), the following criteria, inter alia, should be taken into account—
+
+    - (a) the existing volume of the trade on the route or routes served by the conference and prospects for its growth;
+
+    - (b) the adequacy of shipping space for the existing and prospective volume of trade on the route or routes served by the conference;
+
+    - (c) the probable effect of admission of the shipping line to the conference on the efficiency and quality of the conference service;
+
+    - (d) the current participation of the shipping line in trade on the same route or routes outside the framework of a conference; and
+
+    - (e) the current participation of the shipping line on the same route or routes within the framework of another conference.
+
+  - The above criteria shall not be applied so as to subvert the implementation of the provisions relating to participation in trade set out in Article 2.
+
+  - (4) An application for admission or readmission to membership shall be promptly decided upon and the decision communicated by a conference to an applicant promptly, and in no case later than six months from the date of application. When a shipping line is refused admission or readmission the conference shall, at the same time, give in writing the grounds for such refusal.
+
+  - (5) When considering applications for admission, a conference shall take into account the views put forward by shippers and shippers’ organizations of the countries whose trade is carried by the conference, as well as the views of appropriate authorities if they so request.
+
+  - (6) In addition to the criteria for admission set out in Article 1(2), a shipping line applying for readmission shall also give evidence of having fulfilled its obligations in accordance with Article 4(1) and (4). The conference may give special scrutiny to the circumstances under which the line left the conference.
+
+- Article 2 Participation in trade
+
+  - (1) Any shipping line admitted to membership of a conference shall have sailing and loading rights in the trades covered by that conference.
+
+  - (2) When a conference operates a pool, all shipping lines members of the conference serving the trade covered by the pool shall have the right to participate in the pool for that trade.
+
+  - (3) For the purpose of determining the share of trade which member lines shall have the right to acquire, the national shipping lines of each country, irrespective of the number of lines, shall be regarded as a single group of shipping lines for that country.
+
+  - (4) When determining a share of trade within a pool of individual member lines and/or groups of national shipping lines in accordance with Article 2(2), the following principles regarding their right of participation in the trade carried by the conference shall be observed, unless otherwise mutually agreed—
+
+    - (a) the group of national shipping lines of each of two countries the foreign trade between which is carried by the conference shall have equal rights to participate in the freight and volume of traffic generated by their mutual foreign trade and carried by the conference;
+
+    - (b) third-country shipping lines, if any, shall have the right to acquire a significant part, such as 20 per cent, in the freight and volume of traffic generated by that trade.
+
+  - (5) If, for any one of the countries whose trade is carried by a conference, there are no national shipping lines participating in the carriage of that trade, the share of the trade to which national shipping lines of that country would be entitled under Article 2(4) shall be distributed among the individual member lines participating in the trade in proportion to their respective shares.
+
+  - (6) If the national shipping lines of one country decide not to carry their full share of the trade, that portion of their share of the trade which they do not carry shall be distributed among the individual member lines participating in the trade in proportion to their respective shares.
+
+  - (7) If the national shipping lines of the countries concerned do not participate in the trade between those countries covered by a conference, the shares of trade carried by the conference between those countries shall be allocated between the participating member lines of third countries by commercial negotiations between those lines.
+
+  - (8) The national shipping lines of a region, members of a conference, at one end of the trade covered by the conference, may redistribute among themselves by mutual agreement the shares in trades allocated to them, in accordance with Article 2(4) to (7) inclusive.
+
+  - (9) Subject to the provisions of Article 2(4) to (8) inclusive regarding shares of trade among individual shipping lines or groups of shipping lines, pooling or trade-sharing, agreements shall be reviewed by the conference periodically, at intervals to be stipulated in those agreements and in accordance with criteria to be specified in the conference agreement.
+
+  - (10) The application of the present Article shall commence as soon as possible after entry into force of the present Convention and shall be completed within a transition period which in no case shall be longer than two years, taking into account the specific situation in each of the trades concerned.
+
+  - (11) Shipping lines members of a conference shall be entitled to operate chartered ships to fulfil their conference obligations.
+
+  - (12) The criteria for sharing and the revision of shares as set out in Article 2(1) to (11) inclusive shall apply when, in the absence of a pool, there exists a berthing, sailing and/or any other form of cargo allocation agreement.
+
+  - (13) Where no pooling, berthing, sailing or other trade participation agreements exist in a conference, either group of national shipping lines, members of the conference, may require that pooling arrangements be introduced, in respect of the trade between their countries carried by the conference, in conformity with the provisions of Article 2(4); or alternatively they may require that the sailings be so adjusted as to provide an opportunity to these lines to enjoy substantially the same rights to participate in the trade between those two countries carried by the conference as they would have enjoyed under the provisions of Article 2(4). Any such request shall be considered and decided by the conference. If there is no agreement to institute such a pool or adjustment of sailings among the members of the conference, the groups of national shipping lines of the countries at both ends of the trade shall have a majority vote in deciding to establish such a pool or adjustment of sailings. The matter shall be decided upon within a period not exceeding six months from the receipt of the request.
+
+  - (14) In the event of a disagreement between the national shipping lines of the countries at either end whose trade is served by the conference with regard to whether or not pooling shall be introduced, they may require that within the conference sailings be so adjusted as to provide an opportunity to these lines to enjoy substantially the same rights to participate in the trade between those two countries carried by the conference as they would have enjoyed under the provisions of Article 2(4). In the event that there are no national shipping lines in one of the countries whose trade is served by the conference, the national shipping line or lines of the other country may make the same request. The conference shall use its best endeavours to meet this request. If, however, this request is not met, the appropriate authorities of the countries at both ends of the trade may take up the matter if they so wish and make their views known to the parties concerned for their consideration. If no agreement is reached, the dispute shall be dealt with in accordance with the procedures established in this Code.
+
+  - (15) Other shipping lines, members of a conference, may also request that pooling or sailing agreements be introduced, and the request shall be considered by the conference in accordance with the relevant provisions of this Code.
+
+  - (16) A conference shall provide for appropriate measures in any conference pooling agreement to cover cases where the cargo has been shut out by a member line for any reason excepting late presentation by the shipper. Such agreement shall provide that a vessel with unbooked space, capable of being used, be allowed to lift the cargo, even in excess of the pool share of the line in the trade, if otherwise the cargo would be shut out and delayed beyond a period set by the conference.
+
+  - (17) The provisions of Article 2(1) to (16) inclusive concern all goods regardless of their origin, their destination or the use for which they are intended, with the exception of military equipment for national defence purposes.
+
+- Article 3 Decision-making procedures
+
+  - The decision-making procedures embodied in a conference agreement shall be based on the principle of equality of all the full member lines; these procedures shall ensure that the voting rules do not hinder the proper work of the conference and the service of the trade and shall define the matters on which decisions will be made by unanimity. However, a decision cannot be taken in respect of matters defined in a conference agreement relating to the trade between two countries without the consent of the national shipping lines of those two countries.
+
+- Article 4 Sanctions
+
+  - (1) A shipping line member of a conference shall be entitled, subject to the provisions regarding withdrawal which are embodied in pool schemes and/or cargo-sharing arrangements, to secure its release, without penalty, from the terms of the conference agreement after giving three months’ notice, unless the conference agreement provides for a different time period, although it shall be required to fulfil its obligations as a member of the conference up to the date of its release.
+
+  - (2) A conference may, upon notice to be specified in the conference agreement, suspend or expel a member for significant failure to abide by the terms and conditions of the conference agreement.
+
+  - (3) No expulsion or suspension shall become effective until a statement in writing of the reasons therefor has been given and until any dispute has been settled as provided in Chapter VI.
+
+  - (4) Upon withdrawal or expulsion, the line concerned shall be required to pay its share of the outstanding financial obligations of the conference, up to the date of its withdrawal or expulsion. In cases of withdrawal, suspension or expulsion, the line shall not be relieved of its own financial obligations under the conference agreement or of any of its obligations towards shippers.
+
+- Article 5 Self-policing
+
+  - (1) A conference shall adopt and keep up to date an illustrative list, which shall be as comprehensive as possible, of practices which are regarded as malpractices and/or breaches of the conference agreement and shall provide effective self-policing machinery to deal with them, with specific provisions requiring—
+
+    - (a) the fixing of penalties or a range of penalties for malpractices or breaches, to be commensurate with their seriousness;
+
+    - (b) the examination and impartial review of an adjudication of complaints, and/or decisions taken on complaints, against malpractices or breaches, by a person or body unconnected with any of the shipping lines members of the conference or their affiliates, on request by the conference or any other party concerned;
+
+    - (c) the reporting, on request, on the action taken in connexion with complaints against malpractices and/or breaches, and on a basis of anonymity for the parties concerned, to the appropriate authorities of the countries whose trade is served by the conference and of the countries whose shipping lines are members of the conference.
+
+  - (2) Shipping lines and conferences are entitled to the full co-operation of shippers and shippers’ organizations in the endeavour to combat malpractices and breaches.
+
+- Article 6 Conference agreements
+
+  - All conference agreements, pooling, berthing and sailing rights agreements and amendments or other documents directly related to, and which affect, such agreements shall be made available on request to the appropriate authorities of the countries whose trade is served by the conference and of the countries whose shipping lines are members of the conference.
+
+- CHAPTER III: RELATIONS WITH SHIPPERS Article 7 Loyalty arrangements
+
+  - (1) The shipping lines members of a conference are entitled to institute and maintain loyalty arrangements with shippers, the form and terms of which are matters for consultation between the conference and shippers’ organizations or representatives of shippers. These loyalty arrangements shall provide safeguards making explicit the rights of shippers and conference members. These arrangements shall be based on the contract system or any other system which is also lawful.
+
+  - (2) Whatever loyalty arrangements are made, the freight rate applicable to loyal shippers shall be determined within a fixed range of percentages of the freight rate applicable to other shippers. Where a change in the differential causes an increase in the rates charged to shippers, the change can be implemented only after 150 days’ notice to those shippers or according to regional practice and/or agreement. Disputes in connexion with a change of the differential shall be settled as provided in the loyalty agreement.
+
+  - (3) The terms of loyalty arrangements shall provide safeguards making explicit the rights and obligations of shippers and of shipping lines members of the conference in accordance with the following provisions, inter alia—
+
+    - (a) The shipper shall be bound in respect of cargo whose shipment is controlled by him or his affiliated or subsidiary company or his forwarding agent in accordance with the contract of sale of the goods concerned, provided that the shipper shall not, by evasion, subterfuge, or intermediary, attempt to divert cargo in violation of his loyalty commitment.
+
+    - (b) Where there is a loyalty contract, the extent of actual or liquidated damages and/or penalty shall be specified in the contract. The member lines of the conference may, however, decide to assess lower liquidated damages or to waive the claim to liquidated damages. In any event, the liquidated damages under the contract to be paid by the shipper shall not exceed the freight charges on the particular shipment, computed at the rate provided under the contract.
+
+    - (c) The shipper shall be entitled to resume full loyalty status, subject to the fulfilment of conditions established by the conference which shall be specified in the loyalty arrangement.
+
+    - (d) The loyalty arrangement shall set out—
+
+      - (i) a list of cargo, which may include bulk cargo shipped without mark or count, which is specifically excluded from the scope of the loyalty arrangement;
+
+      - (ii) a definition of the circumstances in which cargo other than cargo covered by (i) above is considered to be excluded from the scope of the loyalty arrangement;
+
+      - (iii) the method of settlement of disputes arising under the loyalty arrangement;
+
+      - (iv) provision for termination of the loyalty arrangement on request by either a shipper or a conference without penalty, after expiry of a stipulated period of notice, such notice to be given in writing; and
+
+      - (v) the terms for granting dispensation.
+
+  - (4) If there is a dispute between a conference and a shippers’ organization representatives of shippers and/or shippers about the form or terms of a proposed loyalty arrangement, either party may refer the matter for resolution under appropriate procedures as set out in this Code.
+
+- Article 8 Dispensation
+
+  - (1) Conferences shall provide, within the terms of the loyalty arrangements, that requests by shippers for dispensation shall be examined and a decision given quickly and, if requested, the reasons given in writing where dispensation is withheld. Should a conference fail to confirm, within a period specified in the loyalty arrangement, sufficient space to accommodate a shipper’s cargo within a period also specified in the loyalty arrangement, the shipper shall have the right, without being penalized, to utilize any vessel for the cargo in question.
+
+  - (2) In ports where conference services are arranged subject to the availability of a specified minimum of cargo (i.e. on inducement), but either the shipping line does not call, despite due notice by shippers, or the shipping line does not reply within an agreed time to the notice given by shippers, shippers shall automatically have the right, without prejudicing their loyalty status, to use any available vessel for the carriage of their cargo.
+
+- Article 9 Availability of tariffs and related conditions and/or regulations
+
+  - Tariffs, related conditions, regulations, and any amendments thereto shall be made available on request to shippers, shippers’ organizations and other parties concerned at reasonable cost, and they shall be available for examination at offices of shipping lines and their agents. They shall spell out all conditions concerning the application of freight rates and the carriage of any cargo covered by them.
+
+- Article 10 Annual reports
+
+  - Conferences shall provide annually to shippers’ organizations, or to representatives of shippers, reports on their activities designed to provide general information of interest to them, including relevant information about consultations held with shippers and shippers’ organizations, action taken regarding complaints, changes in membership, and significant changes in service, tariffs and conditions of carriage. Such annual reports shall be submitted, on request, to the appropriate authorities of the countries whose trade is served by the conference concerned.
+
+- Article 11 Consultation machinery
+
+  - (1) There shall be consultations on matters of common interest between a conference, shippers’ organizations, representatives of shippers and, where practicable, shippers, which may be designated for that purpose by the appropriate authority if it so desires. These consultations shall take place whenever requested by any of the above-mentioned parties. Appropriate authorities shall have the right, upon request, to participate fully in the consultations, but this does not mean that they play a decision-making role.
+
+  - (2) The following matters, inter alia, may be the subject of consultation—
+
+    - (a) changes in general tariff conditions and related regulations;
+
+    - (b) changes in the general level of tariff rates and rates for major commodities;
+
+    - (c) promotional and/or special freight rates;
+
+    - (d) imposition of, and related changes in, surcharges;
+
+    - (e) loyalty arrangements, their establishment or changes in their form and general conditions;
+
+    - (f) changes in the tariff classification of ports;
+
+    - (g) procedure for the supply of necessary information by shippers concerning the expected volume and nature of their cargoes; and
+
+    - (h) presentation of cargo for shipment and the requirements regarding notice of cargo availability.
+
+  - (3) To the extent that they fall within the scope of activity of a conference, the following matters may also be the subject of consultation—
+
+    - (a) operation of cargo inspection services;
+
+    - (b) changes in the pattern of service;
+
+    - (c) effects of the introduction of new technology in the carriage of cargo, in particular unitization, with consequent reduction of conventional service or loss of direct services; and
+
+    - (d) adequacy and quality of shipping services, including the impact of pooling, berthing or sailing arrangements on the availability of shipping services and freight rates at which shipping services are provided; changes in the areas served and in the regularity of calls by conference vessels.
+
+  - (4) Consultations shall be held before final decisions are taken, unless otherwise provided in this Code. Advance notice shall be given of the intention to take decisions on matters referred to in Article 11(2) and (3). Where this is impossible, urgent decisions may be taken pending the holding of consultations.
+
+  - (5) Consultations shall begin without undue delay and in any event within a maximum period specified in the conference agreement or, in the absence of such a provision in the agreement, not later than 30 days after receipt of the proposal for consultations, unless different periods of time are provided in this Code.
+
+  - (6) When holding consultations, the parties shall use their best efforts to provide relevant information, to hold timely discussions and to clarify matters for the purpose of seeking solutions of the issues concerned. The parties involved shall take account of each other’s views and problems and strive to reach agreement consistent with their commercial viability.
+
+- CHAPTER IV: FREIGHT RATES Article 12 Criteria for freight-rate determination
+
+  - In arriving at a decision on questions of tariff policy in all cases mentioned in this Code, the following points shall, unless otherwise provided, be taken into account—
+
+    - (a) freight rates shall be fixed at as low a level as is feasible from the commercial point of view and shall permit a reasonable profit for shipowners;
+
+    - (b) the cost of operations of conferences shall, as a rule, be evaluated for the round voyage of ships, with the outward and inward directions considered as a single whole. Where applicable, the outward and inward voyage should be considered separately. The freight rates should take into account, among other factors, the nature of cargoes, the interrelation between weight and cargo measurement, as well as the value of cargoes;
+
+    - (c) in fixing promotional freight rates and/or special freight rates for specific goods, the conditions of trade for these goods of the countries served by the conference, particularly of developing and land-locked countries, shall be taken into account.
+
+- Article 13 Conference tariffs and classification of tariff rates
+
+  - (1) Conference tariffs shall not unfairly differentiate between shippers similarly situated. Shipping lines members of a conference shall adhere strictly to the rates, rules and terms shown in the tariffs and other currently valid published documents of the conference and to any special arrangements permitted under this Code.
+
+  - (2) Conference tariffs should be drawn up simply and clearly, containing as few classes/categories as possible, depending on the particular requirements of a trade, specifying a freight rate for each commodity and, where appropriate, for each class/category; they should also indicate, wherever practicable, in order to facilitate statistical compilation and analysis, the corresponding appropriate code number of the item in accordance with the Standard International Trade Classification, the Brussels Tariff Nomenclature or any other nomenclature that may be internationally adopted; the classification of commodities in the tariffs should, as far as practicable, be prepared in co-operation with shippers’ organizations and other national and international organizations concerned.
+
+- Article 14 General freight-rate increases
+
+  - (1) A conference shall give notice of not less than 150 days, or according to regional practice and/or agreement, to shippers’ organizations or representatives of shippers and/or shippers and, where so required, to appropriate authorities of the countries whose trade is served by the conference, of its intention to effect a general increase in freight rates, an indication of its extent, the date of effect and the reasons supporting the proposed increase.
+
+  - (2) At the request of any of the parties prescribed for this purpose in this Code, to be made within an agreed period of time after the receipt of the notice, consultations shall commence, in accordance with the relevant provisions of this Code, within a stipulated period not exceeding 30 days or as previously agreed between the parties concerned; the consultations shall be held in respect of the bases and amounts of the proposed increase and the date from which it is to be given effect.
+
+  - (3) A conference, in an effort to expedite consultations, may, or upon the request of any of the parties prescribed in this Code as entitled to participate in consultations on general freight-rate increases shall, where practicable, reasonably before the consultations, submit to the participating parties a report from independent accountants of repute, including, where the requesting parties accept it as one of the bases of consultations, an aggregated analysis of data regarding relevant costs and revenues which in the opinion of the conference necessitate an increase in freight rates.
+
+  - (4) If agreement is reached as a result of the consultations, the freight-rate increase shall take effect from the date indicated in the notice served in accordance with Article 14(1), unless a later date is agreed upon between the parties concerned.
+
+  - (5) If no agreement is reached within 30 days of the giving of notice in accordance with Article 14(1), and subject to procedures prescribed in this Code, the matter shall be submitted immediately to international mandatory conciliation, in accordance with chapter VI. The recommendation of the conciliators, if accepted by the parties concerned, shall be binding upon them and shall be implemented, subject to the provisions of Article 14(9), with effect from the date mentioned in the conciliators’ recommendation.
+
+  - (6) Subject to the provisions of Article 14(9), a general freight-rate increase may be implemented by a conference pending the conciliators’ recommendation. When making their recommendation, the conciliators should take into account the extent of the above-mentioned increase made by the conference and the period for which it has been in force. In the event that the conference rejects the recommendation of the conciliators, shippers and/or shippers’ organizations shall have the right to consider themselves not bound, after appropriate notice, by any arrangement or other contract with that conference which may prevent them from using non-conference shipping lines. Where a loyalty arrangement exists, shippers and/or shippers’ organizations shall give notice within a period of 30 days to the effect that they no longer consider themselves bound by that arrangement, which notice shall apply from the date mentioned therein, and a period of not less than 30 days and not more than 90 days shall be provided in the loyalty arrangement for this purpose.
+
+  - (7) A deferred rebate which is due to the shipper and which has already been accumulated by the conference shall not be withheld by, or forfeited to, the conference as a result of action by the shipper under Article 14(6).
+
+  - (8) If the trade of a country carried by shipping lines members of a conference on a particular route consists largely of one or few basic commodities, any increase in the freight rate on one or more of those commodities shall be treated as a general freight-rate increase, and the appropriate provisions of this Code shall apply.
+
+  - (9) Conferences should institute any general freight-rate increase effective in accordance with this Code for a period of a stated minimum duration, subject always to the rules regarding surcharges and regarding adjustment in freight rates consequent upon fluctuations in foreign exchange rates. The period over which a general freight-rate increase is to apply is an appropriate matter to be considered during consultations conducted in accordance with Article 14(2), but unless otherwise agreed between the parties concerned during the consultations, the minimum period of time between the date when one general freight-rate increase becomes effective and the date of notice for the next general freight-rate increase given in accordance with Article 14(1) shall not be less than 10 months.
+
+- Article 15 Promotional freight rates
+
+  - (1) Promotional freight rates for non-traditional exports should be instituted by conferences.
+
+  - (2) All necessary and reasonable information justifying the need for a promotional freight rate shall be submitted to a conference by the shippers, shippers’ organizations or representatives of shippers concerned.
+
+  - (3) Special procedures shall be instituted providing for a decision within 30 days from the date of receipt of that information, unless mutually agreed otherwise, on applications for promotional freight rates. A clear distinction shall be made between these and general procedures for considering the possibility of reducing freight rates for other commodities or of exempting them from increases.
+
+  - (4) Information regarding the procedures for considering applications for promotional freight rates shall be made available by the conference to shippers and/or shipper’s organizations and, on request, to the governments and/or other appropriate authorities of the countries whose trade is served by the conference.
+
+  - (5) A promotional freight rate shall be established normally for a period of 12 months, unless otherwise mutually agreed between the parties concerned. Prior to the expiry of the period, the promotional freight rate shall be reviewed, on request by the shipper and/or shippers’ organization concerned, when it shall be a matter for the shipper and/or shippers’ organization, at the request of the conference, to show that the continuation of the rate is justified beyond the initial period.
+
+  - (6) When examining a request for a promotional freight rate, the conference may take into account that, while the rate should promote the export of the non-traditional product for which it is sought, it is not likely to create substantial competitive distortions in the export of a similar product from another country served by the conference.
+
+  - (7) Promotional freight rates are not excluded from the imposition of a surcharge or a currency adjustment factor in accordance with Articles 16 and 17.
+
+  - (8) Each shipping line member of a conference serving the relevant ports of a conference trade shall accept, and not unreasonably refuse, a fair share of cargo for which a promotional freight rate has been established by the conference.
+
+- Article 16 Surcharges
+
+  - (1) Surcharges imposed by a conference to cover sudden or extraordinary increases in costs or losses of revenue shall be regarded as temporary. They shall be reduced in accordance with improvements in the situation or circumstances which they were imposed to meet and shall be cancelled, subject to Article 16(6), as soon as the situation or circumstances which prompted their imposition cease to prevail. This shall be indicated at the moment of their imposition, together, as far as possible, with a description of the change in the situation or circumstances which will bring about their increase, reduction or cancellation.
+
+  - (2) Surcharges imposed on cargo moving to or from a particular port shall likewise be regarded as temporary and likewise shall be increased, reduced or cancelled, subject to Article 16(6), when the situation in that port changes.
+
+  - (3) Before any surcharge is imposed, whether general or covering only a specific port, notice should be given and there shall be consultation, upon request, in accordance with the procedures of this Code, between the conference concerned and other parties directly affected by the surcharge and prescribed in this Code as entitled to participate in such consultations, save in those exceptional circumstances which warrant immediate imposition of the surcharge. In cases where a surcharge has been imposed without prior consultation, consultations, upon request, shall be held as soon as possible thereafter. Prior to such consultations, conferences shall furnish data which in their opinion justify the imposition of the surcharge.
+
+  - (4) Unless the parties agree otherwise, within a period of 15 days after the receipt of a notice given in accordance with Article 16(3), if there is no agreement on the question of the surcharge between the parties concerned referred to in that Article, the relevant provisions for settlement of disputes provided in this Code shall prevail. Unless the parties concerned agree otherwise, the surcharge may, however, be imposed pending resolution of the dispute, if the dispute still remains unresolved at the end of a period of 30 days after the receipt of the above-mentioned notice.
+
+  - (5) In the event of a surcharge being imposed in exceptional circumstances without prior consultation as provided in Article 16(3), if no agreement is reached through subsequent consultations, the relevant provisions for settlement of disputes provided in this Code shall prevail.
+
+  - (6) Financial loss incurred by the shipping lines members of a conference as a result of any delay on account of consultations and/or other proceedings for resolving disputes regarding imposition of surcharges in accordance with the provisions of this Code, as compared to the date from which the surcharge was to be imposed in terms of the notice given in accordance with Article 16(3), may be compensated by an equivalent prolongation of the surcharge before its removal. Conversely, for any surcharge imposed by the conference and subsequently determined and agreed to be unjustified or excessive as a result of consultations or other procedures prescribed in this Code, the amounts so collected or the excess thereof as determined hereinabove, unless otherwise agreed, shall be refunded to the parties concerned, if claimed by them, within a period of 30 days of such claim.
+
+- Article 17 Currency changes
+
+  - (1) Exchange rate changes, including formal devaluation or revaluation, which lead to changes in the aggregate operational costs and/or revenues of the shipping lines members of a conference relating to their operations within the conference provide a valid reason for the introduction of a currency adjustment factor or for a change in the freight rates. The adjustment or change shall be such that in the aggregate the member lines concerned neither gain nor lose, as far as possible, as a result of the adjustment or change. The adjustment or change may take the form of currency surcharges or discounts or of increases or decreases in the freight rates.
+
+  - (2) Such adjustments or changes shall be subject to notice, which should be arranged in accordance with regional practice, where such practice exists, and there shall be consultations in accordance with the provisions of this Code between the conference concerned and the other parties directly affected and prescribed in this Code as entitled to participate in consultations, save in those exceptional circumstances which warrant immediate imposition of the currency adjustment factor or freight-rate change. In the event that this has been done without prior consultations, consultations shall be held as soon as possible thereafter. The consultations should be on the application, size and date of implementation, of the currency adjustment factor or freight-rate change, and the same procedures shall be followed for this purpose as are prescribed in Article 16(4) and (5) in respect of surcharges. Such consultations should take place and be completed within a period not exceeding 15 days from the date when the intention to apply a currency surcharge or to effect a freight-rate change is announced.
+
+  - (3) If no agreement is reached within 15 days through consultations, the relevant provisions for settlement of disputes provided in this Code shall prevail.
+
+  - (4) The provisions of Article 16(6) shall apply, adapted as necessary, to currency adjustment factors and freight-rate changes dealt with in the present Article.
+
+- CHAPTER V: OTHER MATTERS Article 18 Fighting ships
+
+  - Members of a conference shall not use fighting ships in the conference trade for the purpose of excluding, preventing or reducing competition by driving a shipping line not a member of the conference out of the said trade.
+
+- Article 19 Adequacy of service
+
+  - (1) Conferences should take necessary and appropriate measures to ensure that their member lines provide regular, adequate and efficient service of the required frequency on the routes they serve and shall arrange such services so as to avoid as far as possible bunching and gapping of sailings. Conferences should also take into consideration any special measures necessary in arranging services to handle seasonal variations in cargo volumes.
+
+  - (2) Conferences and other parties prescribed in this Code as entitled to participate in consultations, including appropriate authorities if they so desire, should keep under review, and should maintain close co-operation regarding the demand for shipping space, the adequacy and suitability of service, and in particular the possibilities for rationalization and for increasing the efficiency of services. Benefits identified as accruing from rationalization of services shall be fairly reflected in the level of freight rates.
+
+  - (3) In respect of any port for which conference services are supplied only subject to the availability of a specified minimum of cargo, that minimum shall be specified in the tariff. Shippers should give adequate notice of the availability of such cargo.
+
+- Article 20 Head office of a conference
+
+  - A conference shall as a rule establish its head office in a country whose trade is served by that conference, unless agreed otherwise by the shipping lines members of that conference.
+
+- Article 21 Representation
+
+  - Conferences shall establish local representation in all countries served, except that where there are practical reasons to the contrary the representation may be on a regional basis. The names and addresses of representatives shall be readily available, and these representatives shall ensure that the views of shippers and conferences are made rapidly known to each other with a view to expediting prompt decisions. When a conference considers it suitable, it shall provide for adequate delegation of powers of decision to its representatives.
+
+- Article 22 Contents of conference agreements, trade participation
+
+- agreements and loyalty arrangements
+
+  - Conference agreements, trade participation agreements and loyalty arrangements shall conform to the applicable requirements of this Code and may include such other provisions as may be agreed which are not inconsistent with this Code.
+
+- PART TWO CHAPTER VI: PROVISIONS AND MACHINERY FOR SETTLEMENT OF DISPUTES
+
+  - A. General Provisions
+
+- Article 23
+
+  - (1) The provisions of this chapter shall apply whenever there is dispute relating to the application or operation of the provisions of this Code between the following parties— (Amended 80 of 1997 s. 102)
+
+    - (a) a conference and a shipping line;
+
+    - (b) the shipping lines members of a conference;
+
+    - (c) a conference or a shipping line member thereof and a shippers’ organization or representatives of shippers or shippers; and
+
+    - (d) two or more conferences.
+
+  - For the purposes of this chapter the term “party” means the original parties to the dispute as well as third parties which have joined the proceedings in accordance with (a) of Article 34.
+
+  - (2) Disputes between shipping lines of the same flag, as well as those between organizations belonging to the same country, shall be settled within the framework of the national jurisdiction of that country, unless this creates serious difficulties in the fulfilment of the provisions of this Code.
+
+  - (3) The parties to a dispute shall first attempt to settle it by an exchange of views or direct negotiations with the intention of finding a mutually satisfactory solution.
+
+  - (4) Disputes between the parties referred to in Article 23(1) relating to—
+
+    - (a) refusal of admission of a national shipping line to a conference serving the foreign trade of the country of that shipping line;
+
+    - (b) refusal of admission of a third-country shipping line to a conference;
+
+    - (c) expulsion from a conference;
+
+    - (d) inconsistency of a conference agreement with this Code;
+
+    - (e) a general freight-rate increase;
+
+    - (f) surcharges;
+
+    - (g) changes in freight rates or the imposition of a currency adjustment factor due to exchange rate changes;
+
+    - (h) participation in trade; and
+
+    - (i) the form and terms of proposed loyalty arrangements,
+
+  - which have not been resolved through an exchange of views or direct negotiations shall, at the request of any of the parties to the dispute, be referred to international mandatory conciliation in accordance with the provisions of this chapter.
+
+- Article 24
+
+  - (1) The conciliation procedure is initiated at the request of one of the parties to the dispute.
+
+  - (2) The request shall be made—
+
+    - (a) in disputes relating to membership of conferences: not later than 60 days from the date of receipt by the applicant of the conference decision, including the reasons therefor, in accordance with Articles 1(4) and 4(3);
+
+    - (b) in disputes relating to general freight-rate increases: not later than the date of expiry of the period of notice specified in Article 14(1);
+
+    - (c) in disputes relating to surcharges: not later than the date of expiry of the 30-day period specified in Article 16(4) or, where no notice has been given, not later than 15 days from the date when the surcharge was put into effect; and
+
+    - (d) in disputes relating to changes in freight rates or the imposition of a currency adjustment factor due to exchange rate changes: not later than five days after the date of expiry of the period specified in Article 17(3).
+
+  - (3) The provisions of Article 24(2) shall not apply to a dispute which is referred to international mandatory conciliation in accordance with Article 25(3).
+
+  - (4) Requests for conciliation in disputes other than those referred to in Article 24(2) may be made at any time.
+
+  - (5) The time-limits specified in Article 24(2) may be extended by agreement between the parties.
+
+  - (6) A request for conciliation shall be considered to have been duly made if it is proved that the request has been sent to the other party by registered letter, telegram or teleprinter or has been served on it within the time-limits specified in Article 24(2) or (5).
+
+  - (7) Where no request has been made within the time-limits specified in Article 24(2) or (5), the decision of the conference shall be final and no proceedings under this chapter may be brought by any party to the dispute to challenge that decision.
+
+- Article 25
+
+  - (1) Where the parties have agreed that disputes referred to in Article 23(4)(a), (b), (c), (d), (h) and (i) shall be resolved through procedures other than those established in that Article, or agree on procedures to resolve a particular dispute that has arisen between them, such disputes shall, at the request of any of the parties to the dispute, be resolved as provided for in their agreement.
+
+  - (2) The provisions of Article 25(1) apply also to the disputes referred to in Article 23(4)(e), (f) and (g), unless national legislation, rules or regulations prevent shippers from having this freedom of choice.
+
+  - (3) Where conciliation proceedings have been initiated, such proceedings shall have precedence over remedies available under national law. If a party seeks remedies under national law in respect of a dispute to which this chapter applies without invoking the procedures provided for in this chapter, then, upon the request of a respondent to those proceedings, they shall be stayed and the dispute shall be referred to the procedures defined in this chapter by the court or other authority where the national remedies are sought.
+
+- Article 26
+
+  - (1) The Contracting Parties shall confer upon conferences and shippers’ organizations such capacity as is necessary for the application of the provisions of this chapter. In particular—
+
+    - (a) a conference or a shippers’ organization may institute proceedings as a party or be named as a party to proceedings in its collective capacity;
+
+    - (b) any notification to a conference or shippers’ organization in its collective capacity shall also constitute a notification to each member of such conference or shippers’ organization;
+
+    - (c) a notification to a conference or shippers’ organization shall be transmitted to the address of the head office of the conference or shippers’ organization. Each conference or shippers’ organization shall register the address of its head office with the Registrar appointed in accordance with Article 46(1). In the event that a conference or a shippers’ organization fails to register or has no head office, a notification to any member in the name of the conference or shippers’ organization shall be deemed to be a notification to such conference or organization.
+
+  - (2) Acceptance or rejection by a conference or shippers’ organization of a recommendation by conciliators shall be deemed to be acceptance or rejection of such a recommendation by each member thereof.
+
+- Article 27
+
+  - Unless the parties agree otherwise, the conciliators may decide to make a recommendation on the basis of written submissions without oral proceedings.
+
+  - B. International mandatory conciliation
+
+- Article 28
+
+  - In international mandatory conciliation the appropriate authorities of a Contracting Party shall, if they so request, participate in the conciliation proceedings in support of a party being a national of that Contracting Party, or in support of a party having a dispute arising in the context of the foreign trade of that Contracting Party. That appropriate authority may alternatively act as an observer in such conciliation proceedings.
+
+- Article 29
+
+  - (1) In international mandatory conciliation the proceedings shall be held in the place unanimously agreed to by the parties or, failing such agreement, in the place decided upon by the conciliators.
+
+  - (2) In determining the place of conciliation proceedings the parties and the conciliators shall take into account, inter alia, countries which are closely connected with the dispute, bearing in mind the country of the shipping line concerned and, especially when the dispute is related to cargo, the country where the cargo originates.
+
+- Article 30
+
+  - (1) For the purposes of this chapter an International Panel of Conciliators shall be established, consisting of experts of high repute or experience in the fields of law, economics of sea transport, or foreign trade and finance, as determined by the Contracting Parties selecting them, who shall serve in an independent capacity.
+
+  - (2) Each Contracting Party may at any time nominate members of the Panel up to a total of 12, and shall communicate their names to the Registrar. The nominations shall be for periods of six years each and may be renewed. In the event of the death, incapacity or resignation of a member of the Panel, the Contracting Party which nominated such person shall nominate a replacement for the remainder of his term of office. A nomination takes effect from the date on which the communication of the nomination is received by the Registrar.
+
+  - (3) The Registrar shall maintain the Panel list and shall regularly inform the Contracting Parties of the composition of the Panel.
+
+- Article 31
+
+  - (1) The purpose of conciliation is to reach an amicable settlement of the dispute through recommendations formulated by independent conciliators.
+
+  - (2) The conciliators shall identify and clarify the issues in dispute, seek for this purpose any information from the parties, and, on the basis thereof, submit to the parties a recommendation for the settlement of the dispute.
+
+  - (3) The parties shall co-operate in good faith with the conciliators in order to enable them to carry out their functions.
+
+  - (4) Subject to the provisions of Article 25(2), the parties to the dispute may at any time during the conciliation proceedings decide in agreement to have recourse to a different procedure for the settlement of their dispute. The parties to a dispute which has been made subject to proceedings other than those provided for in this chapter may decide by mutual agreement to have recourse to international mandatory conciliation.
+
+- Article 32
+
+  - (1) The conciliation proceedings shall be conducted either by one conciliator or by an uneven number of conciliators agreed upon or designated by the parties.
+
+  - (2) Where the parties cannot agree on the number or the appointment of the conciliators as provided in Article 32(1), the conciliation proceedings shall be conducted by three conciliators, one appointed by each party in the statement(s) of claim and reply respectively, and the third by the two conciliators thus appointed, who shall act as chairman.
+
+  - (3) If the reply does not name a conciliator to be appointed in cases where Article 32(2) would apply, the second conciliator shall, within 30 days following the receipt of the statement of claim, be chosen by lot by the conciliator appointed in the statement of claim from among the members of the Panel nominated by the Contracting Party or Parties of which the respondent(s) is(are) a national(s).
+
+  - (4) Where the conciliators appointed in accordance with Article 32(2) or (3) cannot agree on the appointment of the third conciliator within 15 days following the date of the appointment of the second conciliator, he shall, within the following 5 days be chosen by lot by the appointed conciliators. Prior to the drawing by lot—
+
+    - (a) no member of the Panel of conciliators having the same nationality as either of the two appointed conciliators shall be eligible for selection by lot;
+
+    - (b) each of the two appointed conciliators may exclude from the list of the Panel of conciliators an equal number of them subject to the requirement that at least 30 members of the Panel shall remain eligible for selection by lot.
+
+- Article 33
+
+  - (1) Where several parties request conciliation with the same respondent in respect of the same issue, or of issues which are closely connected, that respondent may request the consolidation of those cases.
+
+  - (2) The request for consolidation shall be considered and decided upon by majority vote by the chairmen of the conciliators so far chosen. If such request is allowed, the chairmen will designate the conciliators to consider the consolidated cases from among the conciliators so far appointed or chosen, provided that an uneven number of conciliators is chosen and that the conciliator first appointed by each party shall be one of the conciliators considering the consolidated case.
+
+- Article 34
+
+  - Any party, other than an appropriate authority referred to in Article 28, if conciliation has been initiated, may join in the proceedings— either
+
+    - (a) as a party, in case of a direct economic interest,
+
+  - or
+
+    - (b) as a supporting party to one of the original parties, in case of an indirect economic interest,
+
+  - unless either of the original parties objects to such joinder.
+
+- Article 35
+
+  - (1) The recommendations of the conciliators shall be made in accordance with the provisions of this Code.
+
+  - (2) When the Code is silent upon any point, the conciliators shall apply the law which the parties agree at the time the conciliation proceedings commence or thereafter, but not later than the time of submission of evidence to the conciliators. Failing such agreement, the law which in the opinion of the conciliators is most closely connected with the dispute shall be applicable.
+
+  - (3) The conciliators shall not decide ex aequo et bono upon the dispute unless the parties so agree after the dispute has arisen.
+
+  - (4) The conciliators shall not bring a finding of non liquet on the ground of obscurity of the law.
+
+  - (5) The conciliators may recommend those remedies and reliefs which are provided in the law applicable to the dispute.
+
+- Article 36
+
+  - The recommendations of the conciliators shall include reasons.
+
+- Article 37
+
+  - (1) Unless the parties have agreed before, during or after the conciliation procedure that the recommendation of the conciliators shall be binding, the recommendation shall become binding by acceptance by the parties. A recommendation which has been accepted by some parties to a dispute shall be binding as between those parties only.
+
+  - (2) Acceptance of the recommendation must be communicated by the parties to the conciliators, at an address specified by them, not later than 30 days after receipt of the notification of the recommendation; otherwise, it shall be considered that the recommendation has not been accepted.
+
+  - (3) Any party which does not accept the recommendation shall notify the conciliators and the other parties, within 30 days following the period specified in Article 37(2), of its grounds for rejection of the recommendation, comprehensively and in writing.
+
+  - (4) When the recommendation has been accepted by parties, the conciliators shall immediately draw up and sign a record of settlement, at which time the recommendation shall become binding upon those parties. If the recommendation has not been accepted by all parties, the conciliators shall draw up a report with respect to those parties rejecting the recommendation, noting the dispute and the failure of those parties to settle the dispute.
+
+  - (5) A recommendation which has become binding upon the parties shall be implemented by them immediately or at such later time as is specified in the recommendation.
+
+  - (6) Any party may make its acceptance conditional upon acceptance by all or any of the other parties to the dispute.
+
+- Article 38
+
+  - (1) A recommendation shall constitute a final determination of a dispute as between the parties which accept it, except to the extent that the recommendation is not recognized and enforced in accordance with the provisions of Article 39.
+
+  - (2) “Recommendation” includes an interpretation, clarification or revision of the recommendation made by the conciliators before the recommendation has been accepted.
+
+- Article 39
+
+  - (1) Each Contracting Party shall recognize a recommendation as binding between the parties which have accepted it and shall, subject to the provisions of Article 39(2) and (3), enforce, at the request of any such party, all obligations imposed by the recommendation as if it were a final judgment of a court of that Contracting Party.
+
+  - (2) A recommendation shall not be recognized and enforced at the request of a party referred to in Article 39(1) only if the court or other competent authority of the country where recognition and enforcement is sought is satisfied that—
+
+    - (a) any party which accepted the recommendation was, under the law applicable to it, under some legal incapacity at the time of acceptance;
+
+    - (b) fraud or coercion has been used in the making of the recommendation;
+
+    - (c) the recommendation is contrary to public policy (ordre public) in the country of enforcement; or
+
+    - (d) the composition of the conciliators, or the conciliation procedure, was not in accordance with the provisions of this Code.
+
+  - (3) Any part of the recommendation shall not be enforced and recognized if the court or other competent authority is satisfied that such part comes within any of the subparagraphs of Article 39(2) and can be separated from other parts of the recommendation. If such part cannot be separated, the entire recommendation shall not be enforced and recognized.
+
+- Article 40
+
+  - (1) Where the recommendation has been accepted by all the parties, the recommendation and the reasons therefor may be published with the consent of all the parties.
+
+  - (2) Where the recommendation has been rejected by one or more of the parties but has been accepted by one or more of the parties—
+
+    - (a) the party or parties rejecting the recommendation shall publish its or their grounds for rejection, given pursuant to Article 37(3), and may at the same time publish the recommendation and the reasons therefor;
+
+    - (b) a party which has accepted the recommendation may publish the recommendation and the reasons therefor; it may also publish the grounds for rejection given by any other party unless such other party has already published its rejection and the grounds therefor in accordance with Article 40(2)(a).
+
+  - (3) Where the recommendation has not been accepted by any of the parties, each party may publish the recommendation and the reasons therefor and also its own rejection and the grounds therefor.
+
+- Article 41
+
+  - (1) Documents and statements containing factual information supplied by any party to the conciliators shall be made public unless that party or a majority of the conciliators agrees otherwise.
+
+  - (2) Such documents and statements supplied by a party may be tendered by that party in support of its case in subsequent proceedings arising from the same dispute and between the same parties.
+
+- Article 42
+
+  - Where the recommendation has not become binding upon the parties, no views expressed or reasons given by the conciliators, or concessions or offers made by the parties for the purpose of the conciliation procedure, shall affect the legal rights and obligations of any of the parties.
+
+- Article 43
+
+  - (1)
+
+    - (a) The costs of the conciliators and all costs of the administration of the conciliation proceedings shall be borne equally by the parties to the proceedings, unless they agree otherwise.
+
+    - (b) When the conciliation proceedings have been initiated, the conciliators shall be entitled to require an advance or security for the costs referred to in Article 43(1)(a).
+
+  - (2) Each party shall bear all expenses it incurs in connexion with the proceedings, unless the parties agree otherwise.
+
+  - (3) Notwithstanding the provisions of Article 43(1) and (2), the conciliators may, having decided unanimously that a party has brought a claim vexatiously or frivolously, assess against that party any or all of the costs of other parties to the proceedings. Such decision shall be final and binding on all the parties.
+
+- Article 44
+
+  - (1) Failure of a party to appear or to present its case at any stage of the proceedings shall not be deemed an admission of the other party’s assertions. In that event, the other party may, at its choice, request the conciliators to close the proceedings or to deal with the questions presented to them and submit a recommendation in accordance with the provisions for making recommendations set out in this Code.
+
+  - (2) Before closing the proceedings, the conciliators shall grant the party failing to appear or to present its case a period of grace, not exceeding 10 days, unless they are satisfied that the party does not intend to appear or to present its case.
+
+  - (3) Failure to observe procedural time-limits laid down in this Code or determined by the conciliators, in particular time-limits relating to the submission of statements or information, shall be considered a failure to appear in the proceedings.
+
+  - (4) Where the proceedings have been closed owing to one party’s failure to appear or to present its case, the conciliators shall draw up a report noting that party’s failure.
+
+- Article 45
+
+  - (1) The conciliators shall follow the procedures stipulated in this Code.
+
+  - (2) The Rules of Procedure annexed to the present Convention shall be considered Model Rules for the guidance of conciliators. The conciliators may, by mutual consent, use, supplement or amend the rules contained in the Annex or formulate their own rules of procedure to the extent that such supplementary, amended or other rules are not inconsistent with the provisions of this Code.
+
+  - (3) If the parties agree that it may be in the interest of achieving an expeditious and inexpensive solution of the conciliation proceedings, they may mutually agree to rules of procedure which are not inconsistent with the provisions of this Code.
+
+  - (4) The conciliators shall formulate their recommendation by consensus or failing that shall decide by majority vote.
+
+  - (5) The conciliation proceedings shall finish and the recommendation of the conciliators shall be delivered not later than six months from the date on which the conciliators are appointed, except in the cases referred to in Article 23(4)(e), (f) and (g), for which the time-limits in Articles 14(1) and 16(4) shall be valid. The period of six months may be extended by agreement of the parties.
+
+  - C. Institutional machinery
+
+- Article 46
+
+  - (1) Six months before the entry into force of the present Convention, the Secretary-General of the United Nations shall, subject to the approval of the General Assembly of the United Nations, and taking into account the views expressed by the Contracting Parties, appoint a Registrar, who may be assisted by such additional staff as may be necessary for the performance of the functions listed in Article 46(2). Administrative services for the Registrar and his assistants shall be provided by the United Nations Office at Geneva.
+
+  - (2) The Registrar shall perform the following functions in consultation with the Contracting Parties as appropriate—
+
+    - (a) maintain the list of conciliators of the International Panel of Conciliators and regularly inform the Contracting Parties of the composition of the Panel;
+
+    - (b) provide the names and addresses of the conciliators to the parties concerned on request;
+
+    - (c) receive and maintain copies of requests for conciliation, replies, recommendations, acceptances, or rejections, including reasons therefor;
+
+    - (d) furnish on request, and at their cost, copies of recommendations and reasons for rejection to the shippers’ organizations, conferences and governments, subject to the provisions of Article 40;
+
+    - (e) make available information of a non-confidential nature on completed conciliation cases, and without attribution to the parties concerned, for the purposes of preparation of material for the Review Conference referred to in Article 52; and
+
+    - (f) the other functions prescribed for the Registrar in Article 26(1)(c) and 30(2) and (3).
+
+- CHAPTER VII: FINAL CLAUSES [Articles 47 to 53 are not reproduced] Article 54 Authentic texts—Deposit
+
+  - The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, will be deposited with the Secretary-General of the United Nations.
+
+- ANNEX TO THE CONVENTION ON A CODE OF
+
+- CONDUCT FOR LINER CONFERENCES Model Rules of Procedure for International
+
+- Mandatory Conciliation Rule 1
+
+  - (1) Any party wishing to institute conciliation proceedings under the Code shall address a request to that effect in writing, accompanied by a statement of claim to the other party, and copied to the Registrar.
+
+  - (2) The statement of claim shall—
+
+    - (a) designate precisely each party to the dispute and state the address of each;
+
+    - (b) contain a summary statement of pertinent facts, the issues in dispute and the claimant’s proposal for the settlement of the dispute;
+
+    - (c) state whether an oral hearing is desired and, if so, and to the extent then known, the names and addresses of persons to give evidence, including experts’ evidence, for the claimant;
+
+    - (d) be accompanied by such supporting documentation and relevant agreements and arrangements entered into by the parties as the claimant may consider necessary at the time of making the claim;
+
+    - (e) indicate the number of conciliators required, any proposal concerning the appointment of conciliators, or the name of the conciliator appointed by the claimant in accordance with Article 32(2); and
+
+    - (f) contain proposals, if any, regarding rules of procedure.
+
+  - (3) The statement of claim shall be dated and shall be signed by the party.
+
+- Rule 2
+
+  - (1) If the respondent decides to reply to the claim, he shall, within 30 days following the date of his receipt of the statement of claim, transmit a reply to the other party and copy to the Registrar.
+
+  - (2) The reply shall—
+
+    - (a) contain a summary statement of pertinent facts opposed to the contentions in the statement of claim, the respondent’s proposal, if any, for the settlement of the dispute and any remedy claimed by him with a view to the settlement of the dispute;
+
+    - (b) state whether an oral hearing is desired and, if so, and to the extent then known, the names and addresses of persons to give evidence, including experts’ evidence, for the respondent;
+
+    - (c) be accompanied by such supporting documentation and relevant agreements and arrangements entered into by the parties as the respondent may consider necessary at the time of making the reply;
+
+    - (d) indicate the number of conciliators required, any proposal concerning the appointment of conciliators, or the name of the conciliator appointed by the respondent in accordance with Article 32(2); and
+
+    - (e) contain proposals, if any, regarding rules of procedure.
+
+  - (3) The reply shall be dated and shall be signed by the party.
+
+- Rule 3
+
+  - (1) Any person or other interest desiring to participate in conciliation proceedings under Article 34 shall transmit a written request to the parties to the dispute, with a copy to the Registrar.
+
+  - (2) If participation in accordance with Article 34(a) is desired, the request shall set forth the grounds therefor, including the information required under Rule 1(2)(a), (b) and (d).
+
+  - (3) If participation in accordance with (b) of Article 34 is desired, the request shall state the grounds therefor and which of the original parties would be supported.
+
+  - (4) Any objection to a request for joinder by such a party shall be sent by the objecting party, with a copy to the other party, within seven days of receipt of the request.
+
+  - (5) In the event that two or more proceedings are consolidated, subsequent requests for third-party participation shall be transmitted to all parties concerned, each of which may object in accordance with the present rule.
+
+- Rule 4
+
+  - By agreement between the parties to a dispute, on motion by either party, and after affording the parties an opportunity of being heard, the conciliators may order the consolidation or separation of all or any claims then pending between the same parties.
+
+- Rule 5
+
+  - (1) Any party may challenge a conciliator where circumstances exist that cause justifiable doubts as to his independence.
+
+  - (2) Notice of challenge, stating reasons therefor, should be made prior to the date of the closing of the proceedings, before the conciliators have rendered their recommendation. Any such challenge shall be heard promptly and shall be determined by majority vote of the conciliators in the first instance, as a preliminary point, in cases where more than one conciliator has been appointed. The decision in such cases shall be final.
+
+  - (3) A conciliator who has died, resigned, become incapacitated or disqualified shall be replaced promptly.
+
+  - (4) Proceedings interrupted in this way shall continue from the point where they were interrupted, unless it is agreed by the parties or ordered by the conciliators that a review or re-hearing of any oral testimony take place.
+
+- Rule 6
+
+  - The conciliators shall be judges of their own jurisdiction and/or competence within the provisions of the Code.
+
+- Rule 7
+
+  - (1) The conciliators shall receive and consider all written statements, documents, affidavits, publications or any other evidence, including oral evidence, which may be submitted to them by or on behalf of any of the parties, and shall give such weight thereto as in their judgement such evidence merits.
+
+  - (2)
+
+    - (a) Each party may submit to the conciliators any material it considers relevant, and at the time of such submission shall deliver certified copies to any other party to the proceedings, which party shall be given a reasonable opportunity to reply thereto.
+
+    - (b) The conciliators shall be the sole judges of the relevance and materiality of the evidence submitted to them by the parties.
+
+    - (c) The conciliators may ask the parties to produce such additional evidence as they may deem necessary to an understanding and determination of the dispute, provided that, if such additional evidence is produced, the other parties to the proceeding shall have a reasonable opportunity to comment thereon.
+
+- Rule 8
+
+  - (1) Whenever a period of days for the doing of any act is provided for in the Code or in these rules, the day from which the period begins to run shall not be counted, and the last day of the period shall be counted, except where that last day is a Saturday, Sunday or a public holiday at the place of conciliation, in which case the last day shall be the next business day.
+
+  - (2) When the time provided for is less than seven days, intermediate Saturdays, Sundays and public holidays shall be excluded from the computation.
+
+- Rule 9
+
+  - Subject to the provisions relating to procedural time-limits in the Code, the conciliators may, on a motion by one of the parties or pursuant to agreement between them, extend any such time-limit which has been fixed by the conciliators.
+
+- Rule 10
+
+  - (1) The conciliators shall fix the order of business and, unless otherwise agreed, the date and hour of each session.
+
+  - (2) Unless the parties otherwise agree, the proceedings shall take place in private.
+
+  - (3)
+
+  - The conciliators shall specifically inquire of all the parties whether they have any further evidence to submit before declaring the proceedings closed, and a noting thereof shall be recorded.
+
+- Rule 11
+
+  - Conciliators’ recommendations shall be in writing and shall include—
+
+    - (a) the precise designation and address of each party;
+
+    - (b) a description of the method of appointing conciliators, including their names;
+
+    - (c) the dates and place of the conciliation proceedings;
+
+    - (d) a summary of the conciliation proceedings, as the conciliators deem appropriate;
+
+    - (e) a summary statement of the facts found by the conciliators;
+
+    - (f) a summary of the submissions of the parties;
+
+    - (g) pronouncements on the issues in dispute, together with the reasons therefor;
+
+    - (h) the signatures of the conciliators and the date of each signature; and
+
+    - (i) an address for the communication of the acceptance or rejection of the recommendation.
+
+- Rule 12
+
+  - The recommendation shall, so far as possible, contain a pronouncement on costs in accordance with the provisions of the Code. If the recommendation does not contain a full pronouncement on costs, the conciliators shall, as soon as possible after the recommendation, and in any event not later than 60 days thereafter, make a pronouncement in writing regarding costs as provided in the Code.
+
+- Rule 13
+
+  - Conciliators’ recommendations shall also take into account previous and similar cases whenever this would facilitate a more uniform implementation of the Code and observance of conciliators’ recommendations.
