@@ -36,7 +36,7 @@
 
 - 17. The second and third floors of the Urban Council Ngau Tau Kok Complex, No. 183, Ngau Tau Kok Road, Kowloon. (L.N. 50 of 1991)
 
-- 18. Units No. 5 and 6, ground foor, Commercial Centre, Pak Tin Estate, Kowloon.
+- 18. Units No. 5 and 6, ground floor, Commercial Centre, Pak Tin Estate, Kowloon.
 
 - 19. The Arts Library at the Hong Kong Cultural Centre, 10 Salisbury Road, Kowloon. (L.N. 119 of 1989)
 
@@ -69,3 +69,5 @@
 - 33. The third floor of Urban Council Wong Nai Chung Complex, 2 Yuk Sau Street, Happy Valley, Hong Kong. (L.N. 344 of 1996)
 
 - 34. The third floor of San Po Kong Plaza, 33 Shung Ling Street, San Po Kong, Kowloon. (L.N. 487 of 1996)
+
+- 35. No. 702, 7/F., Tsz Wan Shan Shopping Centre, Kowloon. (L.N. 188 of 1998)
