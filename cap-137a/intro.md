@@ -1,0 +1,5 @@
+ANTIBIOTICS REGULATIONS
+
+(Cap. 137, section 12)
+
+[16 August 1957]
