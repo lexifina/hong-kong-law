@@ -1,179 +1,107 @@
-# Schedule 2
+# SCHEDULE 2
 
-(sections 2 & 19) SCHEDULED ANIMAL PARTS Column 1 Column 2 Column 3 ORDER / Family / Common Name
+[ss. 2 & 19]
 
-Scientific Name (for information only) Part or derivative All Scheduled Animals All scheduled All animals listed Substantially complete,
+SCHEDULED ANIMAL PARTS
 
-animals in column 2 of or parts of, dead
+- PART 1 (Added L.N. 69 of 1998)
 
-Schedule 1 specimens (either in
+Column 1 | Column 2 | Column 3
 
-natural form, stuffed,
+ORDER/Family/ Scientific Name | Common Name (for information only) | Part or derivative
 
-chilled, preserved, dried
+All Scheduled Animals
 
-or treated), meat CHORDATA Mammalia (Mammals) The scheduled All animals listed in Antler, horn, skin
+All scheduled animals in Part 1 of Schedule 1 | All animals listed in column 3 of Part 1 of Schedule 1 | Substantially complete, or parts of, dead specimens (either in natural form, stuffed, chilled, preserved, driedor treated), meat
 
-animals under column 2 of Schedule 1 (including furskin, raw
+CHORDATA
 
-the subheading under the subheading hide or leather) or any
+Mammalia (Mammals)
 
-Mammalia Mammalia (Mammals) part thereof
+The scheduled animals in Part 1 of Schedule 1 under the subheading Mammalia (Mammals) | All animals listed in column 3 of Part 1 of Schedule 1 under the subheading Mammalia (Mammals) | Antler, horn, skin (including furskin, raw hide or leather) or any part thereof
 
-(Mammals) PHOLIDOTA Manidae
+PHOLIDOTA
 
-All species Pangolins Scale, meat, skin
+Manidae All species | Pangolins | Scale, meat, skin (including raw hide or leather) or any part thereof
 
-(including raw hide or
+CETACEA
 
-leather) or any part thereof CETACEA All species of Whales, Dolphins, Bone, tooth or any part
+All species of all genera of all families | Whales, Dolphins, Porpoises, Rorquals | Bone, tooth or any part thereof
 
-all genera of Porpoises, Rorquals thereof
+CARNIVORA
 
-all families CARNIVORA Ursidae
+Ursidae All species | Bears, Panda, Lesser Panda | Gall bladder, bile and bile powder
 
-All species Bears, Panda, Lesser Gall bladder, bile and
+Felidae Panthera tigris | Tigers | Bone (including powder) or any part thereof
 
-Panda bile powder Felidae
+PROBOSCIDEA
 
-Panthera tigris Tigers Bone (including powder)
+Elephantidae All species | Elephants | Tusk or any part thereof, skin (including raw hide or leather) or any part thereof
 
-or any part thereof PROBOSCIDEA Elephantidae
+PERISSODACTYLA
 
-All species Elephants Tusk or any part thereof,
+Rhinocerotidae All species | Rhinoceroses | Horn (including powder) or any part thereof
 
-skin (including raw hide or
+ARTIODACTYLA
 
-leather) or any part thereof PERISSODACTYLA Rhinocerotidae
+Hippopotamidae Hippopotamus amphibius | Common Hippopotamus | Tooth or any part thereof
 
-All species Rhinoceroses Horn (including powder)
+Camelidae Vicugna vicugna | Vicuna | Hair (including carded or combed hair), yarn, fabric
 
-or any part thereof ARTIODACTYLA Hippopotamidae
+Moschidae Moschus species | Musk Deer | Musk, musk grain, musk pod, musk gland
 
-Hippopotamus Common Hippopotamus Tooth or any part thereof
+Aves (Birds)
 
-amphibius Camelidae
+The scheduled animals in Part 1 of Schedule 1 under the subheading Aves (Birds) | All animals listed in column 3 of Part 1 of Schedule 1 under the subheading Aves (Birds) | Egg or any part thereof
 
-Vicugna vicugna Vicuna Hair (including carded or
+STRUTHIONIFORMES
 
-combed hair), yarn, fabric Moschidae
+Struthionidae Struthio camelus (from Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal and the Sudan) | Ostrich | Plumage, skin (including raw hide or leather) orany part thereof
 
-Moschus species Musk Deer Musk, musk grain, musk
+RHEIFORMES Rheidae Rhea americana (excluding captive-bred animals) | Common Rhea | Skin (including raw hide or leather) or any part thereof
 
-pod, musk gland Aves (Birds) The scheduled All animals listed in Egg or any part thereof
+Rhea (=Pterocnemia) pennata | Darwin’s Rhea | Plumage, skin (including raw hide or leather) or any part thereof
 
-animals under column 2 of Schedule 1
+FALCONIFORMES All species | Birds of prey | Plumage, foot, claw, skin
 
-the subheading under the subheading
+STRIGIFORMES All species | Owls | Plumage, foot, claw
 
-Aves (Birds) Aves (Birds) STRUTHIONIFORMES Struthionidae
+CORACIIFORMES Bucerotidae Buceros (=Rhinoplax) vigil | Helmeted Hornbill | Casque
 
-Struthio camelus Ostrich Plumage, skin (including
+PASSERIFORMES Paradisaeidae All species | Birds of Paradise | Plumage, skin
 
-(from Algeria, raw hide or leather)
+Reptilia (Reptiles)
 
-Burkina Faso, or any part thereof
+The scheduled animals in Part 1 of Schedule 1 under the subheading Reptilia (Reptiles) | All animals listed in column 3 of Part 1 of Schedule 1 under the subheading Reptilia (Reptiles) | Egg or any part thereof
 
-Cameroon, the
+TESTUDINATA Cheloniidae All species | Sea Turtles | Shell, scale, flipper, limb, cartilage or any part thereof. Skin (including raw hide or leather) or any part thereof
 
-Central African
+CROCODYLIA All species | Alligators, Crocodiles, Gavials | Skin (including raw hide or leather) or any part thereof
 
-Republic, Chad,
+SAURIA Teiidae All species | Tegus or Tegu Lizards | Skin (including raw hide or leather) or any part thereof
 
-Mali, Mauritania,
+Varanidae All species | Monitor Lizards | Skin (including raw hide or leather) or any part thereof
 
-Morocco, the
+SERPENTES Boidae All species | Boas, Pythons | Skin (including raw hide or leather) or any part thereof
 
-Niger, Nigeria,
+Colubridae Ptyas mucosus | Oriental Rat Snake | Skin (including raw hide or leather) or any part thereof
 
-Senegal and the
+Elapidae Naja naja | Asiatic Cobra | Skin (including raw hide or leather) or any part thereof
 
-Sudan) RHEIFORMES Rheidae
+Ophiophagus hannah | King Cobra | Skin (including raw hide or leather) or any part thereof
 
-Rhea americana Common Rhea Skin (including raw hide
+CNIDARIA
 
-(excluding or leather) or any part
+The scheduled animals under the subheading CNIDARIA in Part 1 of Schedule 1 | All animals listed in column 3 of Part 1 of Schedule 1 under the subheading CNIDARIA | Skeleton
 
-captive-bred thereof
+(Amended L.N. 69 of 1998)
 
-animals) Rhea Darwin’s Rhea Plumage, skin (including
+- PART 2
 
-(=Pterocnemia) raw hide or leather)
+Column 1 | Column 2 | Column 3
 
-pennata or any part thereof FALCONIFORMES
+ORDER/Family/ Scientific Name | Common Name (for information only) | Part or derivative
 
-All species Birds of prey Plumage, foot, claw, skin STRIGIFORMES
+All scheduled All animals listed in animals in Part 2 of Schedule 1 | Substantially complete, column 3 of Part 2 of Schedule 1 | or parts of, dead specimens (either in natural form, stuffed, chilled, preserved, dried or treated), meat, egg
 
-All species Owls Plumage, foot, claw CORACIIFORMES Bucerotidae
-
-Buceros Helmeted Hornbill Casque
-
-(=Rhinoplax)
-
-vigil PASSERIFORMES Paradisaeidae
-
-All species Birds of Paradise Plumage, skin Reptilia (Reptiles) The scheduled All animals listed in Egg or any part thereof
-
-animals under column 2 of Schedule 1
-
-the subheading under the subheading
-
-Reptilia Reptilia (Reptiles)
-
-(Reptiles) TESTUDINATA Cheloniidae
-
-All species Sea Turtles Shell, scale, flipper,
-
-limb, cartilage or any part
-
-thereof. Skin (including
-
-raw hide or leather) or any
-
-- part thereof CROCODYLIA
-
-- All species Alligators, Crocodiles, Skin (including raw hide
-
-- Gavials or leather) or any part
-
-- thereof SAURIA Teiidae
-
-- All species Tegus or Tegu Lizards Skin (including raw hide
-
-- or leather) or any part
-
-- thereof Varanidae
-
-- All species Monitor Lizards Skin (including raw hide
-
-- or leather) or any part
-
-- thereof SERPENTES Boidae
-
-- All species Boas, Pythons Skin (including raw hide
-
-- or leather) or any part
-
-- thereof Colubridae
-
-- Ptyas mucosus Oriental Rat Snake Skin (including raw hide
-
-- or leather) or any part
-
-- thereof Elapidae
-
-- Naja naja Asiatic Cobra Skin (including raw hide
-
-- or leather) or any part
-
-- thereof Ophiophagus King Cobra Skin (including raw hide
-
-- hannah or leather) or any part
-
-- thereof CNIDARIA The scheduled All animals listed in Skeleton
-
-- animals under column 2 of Schedule 1
-
-- the subheading under the subheading
-
-- CNIDARIA CNIDARIA (Replaced L.N. 341 of 1995)
+(Added L.N. 69 of 1998) (Replaced L.N. 341 of 1995)

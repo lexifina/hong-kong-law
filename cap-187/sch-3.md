@@ -1,139 +1,127 @@
-# Schedule 3
+# SCHEDULE 3
 
-(sections 2 & 19) SCHEDULED PLANTS Column 1 Column 2
+[ss. 2 & 19]
 
-Column 3 Common Name
+SCHEDULED PLANTS
 
-ORDER / Family Scientific Name
+- PART 1 (Added L.N. 69 of 1998)
 
-(for information only) AGAVACEAE Agave arizonica
+Column 1 ORDER/Family | Column 2 Scientific Name | Column 3 Common Name (for information only)
 
-Agave parviflora Little Princess Agave
+AGAVACEAE | Agave arizonica Agave parviflora Agave victoriae-reginae Nolina interrata | Little Princess Agave
 
-Agave victoriae-reginae
+AMARYLLIDACEAE | Galanthus species Sternbergia species | Snowdrops Daffodils
 
-Nolina interrata AMARYLLIDACEAE Galanthus species Snowdrops
+APOCYNACEAE | Pachypodium species Rauvolfia serpentina (excluding chemical derivatives) | Elephant’s trunks
 
-Sternbergia species Daffodils APOCYNACEAE Pachypodium species Elephant’s trunks
+ARALIACEAE | Panax quinquefolius (root or any part thereof) | American Ginseng
 
-Rauvolfia serpentina
+ARAUCARIACEAE | Araucaria araucana | Chile Pine or Money Puzzle
 
-(excluding chemical
+ASCLEPIADACEAE | Ceropegia species Frerea indica | Rosary vines Milkweed
 
-derivatives) ARALIACEAE Panax quinquefolius American Ginseng
+BERBERIDACEAE | Podophyllum hexandrum (=Podophyllum emodi =Sinopodophyllum hexandrum) (excluding chemical derivatives)
 
-(root or any part
+BROMELIACEAE | Tillandsia harrisii Tillandsia kammii Tillandsia kautskyi Tillandsia mauryana Tillandsia sprengeliana Tillandsia sucrei Tillandsia xerographica | ｝Air Plants
 
-thereof) ARAUCARIACEAE Araucaria araucana Chile Pine or Money Puzzle ASCLEPIADACEAE Ceropegia species Rosary vines
+BYBLIDACEAE | Byblis species | Byblis
 
-Frerea indica Milkweed BERBERIDACEAE Podophyllum hexandrum
+CACTACEAE | CACTACEAE species | Cacti
 
-(=Podophyllum emodi
+CARYOCARACEAE | Caryocar costaricense
 
-=Sinopodophyllum
+CEPHALOTACEAE | Cephalotus follicularis | Albany Pitcher-plant
 
-hexandrum)(excluding
+COMPOSITAE (ASTERACEAE) | Saussurea costus (=lappa) | Costas
 
-chemical derivatives) BROMELIACEAE Tillandsia harrisii )
+CRASSULACEAE | Dudleya stolonifera Dudleya traskiae
 
-Tillandsia kammii )
+CUPRESSACEAE | Fitzroya cupressoides Pilgerodendron uviferum | Alerce
 
-Tillandsia kautskyi )
+CYATHEACEAE | CYATHEACEAE species | Tree Ferns
 
-Tillandsia mauryana ) Air Plants
+CYCADACEAE | CYCADACEAE species | Cycads
 
-Tillandsia sprengeliana )
+DIAPENSIACEAE | Shortia galacifolia | Oconeebells
 
-Tillandsia sucrei )
+DICKSONIACEAE | DICKSONIACEAE species | Dicksonia Tree Ferns
 
-Tillandsia xerographica ) BYBLIDACEAE Byblis species Byblis CACTACEAE CACTACEAE species Cacti CARYOCARACEAE Caryocar costaricense CEPHALOTACEAE Cephalotus follicularis Albany Pitcher-plant COMPOSITAE Saussurea costus Costas
+DIDIEREACEAE | DIDIEREACEAE species | Tree Ferns
 
-(ASTERACEAE) (=lappa) CRASSULACEAE Dudleya stolonifera
+DIOSCOREACEAE | Dioscorea deltoidea | Elephant’s Foot
 
-Dudleya traskiae CUPRESSACEAE Fitzroya cupressoides
+DROSERACEAE | Dionaea muscipula | Venus Fly-Trap
 
-Pilgerodendron uviferum Alerce CYATHEACEAE CYATHEACEAE species Tree Ferns CYCADACEAE CYCADACEAE species Cycads DIAPENSIACEAE Shortia galacifolia Oconeebells DICKSONIACEAE DICKSONIACEAE species Dicksonia Tree Ferns DIDIEREACEAE DIDIEREACEAE species Tree Ferns DIOSCOREACEAE Dioscorea deltoidea Elephant’s Foot DROSERACEAE Dionaea muscipula Venus Fly-Trap ERICACEAE Kalmia cuneata Whitewicky Kalmia EUPHORBIACEAE Euphorbia species Euphorbia
+ERICACEAE | Kalmia cuneata | Whitewicky Kalmia
 
-(excluding species
+EUPHORBIACEAE | Euphorbia species (excluding species that are not succulent) | Euphorbia
 
-that are not succulent) FOUQUIERIACEAE Fouquieria columnaris
+FOUQUIERIACEAE | Fouquieria columnaris Fouquieria fasciculata Fouquieria purpusii
 
-Fouquieria fasciculata
+JUGLANDACEAE | Oreomunnea (=Engelhardia) pterocarpa
 
-Fouquieria purpusii JUGLANDACEAE Oreomunnea (=Engelhardia)
+LEGUMINOSAE (FABACEAE) | Dalbergia nigra Pericopsis elata (saw-logs, sawn wood and veneers only) Platymiscium pleiostachyum Pterocarpus santalinus (logs, wood-chips and unprocessed broken material only) | Brazilian Rosewood African Teak Quira Macawood Red Sandal Wood
 
-pterocarpa LEGUMINOSAE Dalbergia nigra Brazilian Rosewood
+LILIACEAE | Aloe species (excluding Aloe vera (=barbadensis)) | Aloes
 
-(FABACEAE) Pericopsis elata African Teak
+MELIACEAE | Swietenia humilis Swietenia mahagoni (Saw-logs, sawn wood and veneers only) | Mexican Mahogany Mexican Mahogany
 
-(saw-logs, sawn wood
+NEPENTHACEAE | Nepenthes species | Pitcher-plants
 
-and veneers only)
+ORCHIDACEAE | ORCHIDACEAE species (Includes families Apostasiaceae and Cypripediaceae as subfamilies Apostasioideae and Cypripedioideae) | Orchids
 
-Platymiscium Quira Macawood
+PALMAE (ARECACEAE) | Chrysalidocarpus decipiens Neodypsis decaryi | Butterfly Palm
 
-pleiostachyum
+PINACEAE | Abies guatemalensis | Guatamalan Fir
 
-Pterocarpus santalinus Red Sandal Wood
+PODOCARPACEAE | Podocarpus parlatorei | Parlatore’s Podocarp
 
-(logs, wood-chips and
+PORTULACACEAE | Anacampseros species Lewisia cotyledon Lewisia maguirei Lewisia serrata Lewisia tweedyi | Purselanes Tweedy Lewisia
 
-unprocessed broken
+PRIMULACEAE | Cyclamen species | Cyclamens
 
-material only) LILIACEAE Aloe species (excluding Aloes
+PROTEACEAE | Orothamnus zeyheri Protea odorata | Marsh Rose
 
-Aloe vera
+ROSACEAE | Prunus africana | Red Stinkwood or African Cherry
 
-(=barbadensis)) MELIACEAE Swietenia humilis Mexican Mahogany
+RUBIACEAE | Balmea stormiae | Ayugue
 
-Swietenia mahagoni Mexican Mahogany
+SARRACENIACEAE | Darlingtonia californica Sarracenia species | California Pitcher-plant Pitcher Plants
 
-(Saw-logs, sawn wood
+STANGERIACEAE | Stangeria eriopus (=paradoxa) | Cycad
 
-and veneers only) NEPENTHACEAE Nepenthes species Pitcher-plants ORCHIDACEAE ORCHIDACEAE species Orchids
+TAXACEAE | Taxus wallichiana (=baccata ssp. wallichiana) | Himalayan Yew
 
-(Includes families
+THEACEAE | Camellia chrysantha
 
-Apostasiaceae and
+THYMELEACEAE (AQUILARIACEAE) | Aquilaria malaccensis | Agar Wood, Eagle Wood
 
-Cypripediaceae as
+WELWITSCHIACEAE | Welwitschia mirabilis (=bainesii) | Welwitschia
 
-subfamilies
+ZAMIACEAE | ZAMIACEAE species | Cycads
 
-Apostasioideae and
+ZINGIBERACEAE | Hedychium philippinense | Philippine Garland Flower
 
-Cypripedioideae) PALMAE (ARECACEAE) Chrysalidocarpus Butterfly Palm
+ZYGOPHYLLACEAE | Guaiacum officinale Guaiacum sanctum | Holywood or Lignumvitae
 
-decipiens
+Note In this Part, the specification of a plant in column 2 does not include the specification of an artificially propagated plant specimen.
 
-Neodypsis decaryi PINACEAE Abies guatemalensis Guatamalan Fir PODOCARPACEAE Podocarpus parlatorei Parlatore’s Podocarp PORTULACACEAE Anacampseros species Purselanes
+(Amended L.N. 69 of 1998)
 
-Lewisia cotyledon
+- PART 2
 
-Lewisia maguirei
+Column 1 ORDER/Family | Column 2 Scientific Name | Column 3 Common Name (for information only)
 
-Lewisia serrata
+GNETACEAE | Gnetum montanum | Gnetum
 
-Lewisia tweedyi Tweedy Lewisia PRIMULACEAE Cyclamen species Cyclamens PROTEACEAE Orothamnus zeyheri Marsh Rose
+MAGNOLIACEAE | Magnolia hodgsonii
 
-Protea odorata ROSACEAE Prunus africana Red Stinkwood or African
+PAPAVERACEAE | Meconopsis regia
 
-Cherry RUBIACEAE Balmea stormiae Ayugue SARRACENIACEAE Darlingtonia californica California Pitcher-plant
+PODOCARPACEAE | Podocarpus neriifolius | Thitmin
 
-Sarracenia species Pitcher Plants STANGERIACEAE Stangeria eriopus Cycad
+TETRACENTRACEAE | Tetracentron sinense
 
-(=paradoxa) TAXACEAE Taxus wallichiana Himalayan Yew
+Note In this Part, the specification of a plant in column 2 does not include the specification of any seed, spore, pollen (including pollinia), seedling or tissue culture obtained in vitro or artificially propagated plant specimen.
 
-(=baccata ssp.
-
-wallichiana) THEACEAE Camellia chrysantha THYMELEACEAE Aquilaria malaccensis Agar Wood, Eagle Wood
-
-(AQUILARIACEAE) WELWITSCHIACEAE Welwitschia mirabilis Welwitschia
-
-(=bainesii) ZAMIACEAE ZAMIACEAE species Cycads ZINGIBERACEAE Hedychium philippinense Philippine Garland Flower ZYGOPHYLLACEAE Guaiacum officinale
-
-Guaiacum sanctum Holywood or Lignumvitae
-
-- Note In this Schedule, “species” does not include artificially propagated plant specimens.
-
-(Replaced L.N. 341 of 1995)
+(Added L.N. 69 of 1998) (Replaced L.N. 341 of 1995)
