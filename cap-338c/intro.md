@@ -1,0 +1,5 @@
+SMALL CLAIMS TRIBUNAL (FORMS) RULES
+
+(Cap. 338, section 36)
+
+[1 October 1976]
