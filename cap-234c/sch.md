@@ -8,6 +8,6 @@ Item | Description of hostel
 
 2. | (Repealed L.N. 156 of 2003)
 
-3. | Phoenix House (the building, excluding the 4th Floor, situated at 3 Lung Yan Road, Tai Wo Ping, Kowloon) (L.N. 72 of 2002)
+3. | Phoenix House (the building, excluding the Front Portion of the 3rd Floor, and the 4th Floor, situated at 3 Lung Yan Road, Tai Wo Ping, Kowloon) (L.N. 72 of 2002; L.N. 56 of 2004)
 
-4. | Pelican House (Flat 19B of Senior Staff Quarters in Block F of the Pamela Youde Nethersole Eastern Hospital situated at 3 Lok Man Road, Chai Wan, Hong Kong) (L.N. 11 of 1995)
+4. | Pelican House (the Front Portion of the 3rd Floor of the building situated at 3 Lung Yan Road, Tai Wo Ping, Kowloon) (L.N. 56 of 2004)
