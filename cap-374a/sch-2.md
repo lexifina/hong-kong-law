@@ -4,7 +4,9 @@
 
 For the purposes of this Schedule the distance between any two axles shall be obtained by measuring the shortest distance between the line joining the centres of the areas of contact with the road surface of the wheels of one axle and the line joining the centres of the areas of contact with the road surface of the wheels of the other relevant axle.
 
-PART I MAXIMUM WEIGHT OF VEHICLES (Subject to Parts II, III, IV, V and VI)
+PART I MAXIMUM WEIGHT OF VEHICLES
+
+(Subject to Parts II, III, IV, V and VI)
 
 Column 1 | Column 2
 
@@ -16,7 +18,7 @@ Taxi | 3.0 tonnes
 
 Invalid Carriage | 3.0 tonnes
 
-Light Bus | 4.0 tonnes
+Light Bus | 5.5 tonnes
 
 Bus | 24 tonnes
 
@@ -32,7 +34,7 @@ Motor Tricycle | 600 kilograms
 
 Trailer | 38 tonnes
 
-(L.N. 146 of 1990)
+(L.N. 146 of 1990; 19 of 2004 s. 5)
 
 PART II MAXIMUM WEIGHTS FOR RIGID VEHICLES
 
@@ -102,39 +104,39 @@ In this Part and regulation 7(3)—
 
 - “3 closely spaced axles” (3條近距車軸) means the outermost axles that are spaced at a distance apart of 3.25 metres or less. (L.N. 242 of 1985)
 
-- PART IV MAXIMUM COMBINED WEIGHTS FOR ARTICULATED VEHICLES
+PART IV MAXIMUM COMBINED WEIGHTS FOR ARTICULATED VEHICLES
 
-- Column 1 | Column 2 | Column 3
+Column 1 | Column 2 | Column 3
 
-- Type of Combination of Articulated Vehicle | Inner Axle Spacing | Maximum Gross Combined Weight
+Type of Combination of Articulated Vehicle | Inner Axle Spacing | Maximum Gross Combined Weight
 
-- Metres
+Metres
 
-- 2 axled motor vehicle with 1 axled trailer | Less than 2.1 At least 2.1 At least 3.1 | 20 tonnes 22 tonnes 24 tonnes
+2 axled motor vehicle with 1 axled trailer | Less than 2.1 At least 2.1 At least 3.1 | 20 tonnes 22 tonnes 24 tonnes
 
-- 2 axled motor vehicle with 2 axled trailer | Less than 2.9 At least 2.9 At least 3.1 At least 3.6 At least 4.0 | 24 tonnes 26 tonnes 29 tonnes 32 tonnes 34 tonnes
+2 axled motor vehicle with 2 axled trailer | Less than 2.9 At least 2.9 At least 3.1 At least 3.6 At least 4.0 | 24 tonnes 26 tonnes 29 tonnes 32 tonnes 34 tonnes
 
-- 2 axled motor vehicle with 3 or more axled trailer | At least 4.2 | 38 tonnes
+2 axled motor vehicle with 3 or more axled trailer | At least 4.2 | 38 tonnes
 
-- 3 or more axled motor vehicle with 1 axled trailer | Less than 2.0 At least 2.0 At least 2.7 At least 3.0 At least 4.0 At least 4.4 | 22 tonnes 24 tonnes 26 tonnes 28 tonnes 30 tonnes 32 tonnes
+3 or more axled motor vehicle with 1 axled trailer | Less than 2.0 At least 2.0 At least 2.7 At least 3.0 At least 4.0 At least 4.4 | 22 tonnes 24 tonnes 26 tonnes 28 tonnes 30 tonnes 32 tonnes
 
-- 3 or more axled motor vehicle with 2 or more axled trailer | Less than 2.0 At least 2.0 At least 2.3 At least 3.2 At least 4.0 | 24 tonnes 26 tonnes 30 tonnes 34 tonnes 38 tonnes
+3 or more axled motor vehicle with 2 or more axled trailer | Less than 2.0 At least 2.0 At least 2.3 At least 3.2 At least 4.0 | 24 tonnes 26 tonnes 30 tonnes 34 tonnes 38 tonnes
 
-- 3 or more axled motor vehicle with 3 or more axled trailer (L.N. 146 of 1990) | At least 4.7 At least 5.2 At least 5.7 | 40 tonnes 42 tonnes 44 tonnes
+3 or more axled motor vehicle with 3 or more axled trailer (L.N. 146 of 1990) | At least 4.7 At least 5.2 At least 5.7 | 40 tonnes 42 tonnes 44 tonnes
 
-- In this Part—
+In this Part—
 
 - “inner axle spacing” (內軸距) means the distance between the rearmost axle of a motor vehicle and the foremost axle of the trailer towed thereby.
 
-- PART V MAXIMUM WEIGHTS FOR 2 CLOSELY SPACED AXLES OF VEHICLES
+PART V MAXIMUM WEIGHTS FOR 2 CLOSELY SPACED AXLES OF VEHICLES
 
-- Column 1 | Column 2
+Column 1 | Column 2
 
-- Distance between 2 closely spaced axles | Maximum Axle Weight for any one axle
+Distance between 2 closely spaced axles | Maximum Axle Weight for any one axle
 
-- Metres
+Metres
 
-- Less than 1.02 At least 1.02 At least 1.05 At least 1.20 At least 1.50 At least 1.85 | 5.5 tonnes 8 tonnes 8.5 tonnes 9 tonnes 9.5 tonnes 10 tonnes
+Less than 1.02 At least 1.02 At least 1.05 At least 1.20 At least 1.50 At least 1.85 | 5.5 tonnes 8 tonnes 8.5 tonnes 9 tonnes 9.5 tonnes 10 tonnes
 
 - In this Part and regulation 7(5), “2 closely spaced axles” (2條近距車軸) means axles that are spaced at a distance apart of not more than 2.5 metres and not less than 1 metre.
 
