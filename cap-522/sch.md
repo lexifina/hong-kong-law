@@ -22,6 +22,8 @@ Azerbaijan
 
 Bahamas
 
+Bahrain (Added L.N. 340 of 1998)
+
 Bangladesh
 
 Barbados
@@ -36,6 +38,8 @@ Bolivia
 
 Bosnia and Herzegovina
 
+Botswana (Added L.N. 340 of 1998)
+
 Brazil
 
 Bulgaria
@@ -43,6 +47,8 @@ Bulgaria
 Burkina Faso
 
 Burundi
+
+Cambodia (Added L.N. 340 of 1998)
 
 Cameroon
 
@@ -74,6 +80,10 @@ Czech Republic
 
 Democratic People’s Republic of Korea
 
+Democratic Republic of Sao Tome and Principe (Added L.N. 340 of 1998)
+
+Democratic Republic of the Congo (Added L.N. 340 of 1998)
+
 Denmark
 
 Dominican Republic
@@ -101,6 +111,10 @@ Germany
 Ghana
 
 Greece
+
+Grenada (Added L.N. 340 of 1998)
+
+Guatemala (Added L.N. 340 of 1998)
 
 Guinea
 
@@ -134,7 +148,7 @@ Japan
 
 Jordan
 
-Kazakstan
+Kazakhstan (Added L.N. 340 of 1998)
 
 Kenya
 
@@ -206,6 +220,8 @@ Republic of Korea
 
 Republic of Moldova
 
+Republic of Mozambique (Added L.N. 340 of 1998)
+
 Romania
 
 Russian Federation
@@ -226,7 +242,7 @@ Sierra Leone
 
 Singapore
 
-Slovakia
+Slovak Republic (Added L.N. 340 of 1998)
 
 Slovenia
 
@@ -284,8 +300,6 @@ Viet Nam
 
 Yugoslavia
 
-Zaire
-
 Zambia
 
 Zimbabwe
@@ -298,11 +312,7 @@ Angola
 
 Antigua and Barbuda
 
-Bahrain
-
 Belize
-
-Botswana
 
 Brunei Darussalam
 
@@ -316,10 +326,6 @@ European Community
 
 Fiji
 
-Grenada
-
-Guatemala
-
 India
 
 Jamaica
@@ -329,8 +335,6 @@ Kuwait
 Macau
 
 Maldives
-
-Mozambique
 
 Myanmar
 
@@ -345,3 +349,5 @@ Qatar
 Soloman Islands
 
 Thailand
+
+(Amended L.N. 340 of 1998)
