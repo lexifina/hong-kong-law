@@ -1,0 +1,5 @@
+LABOUR TRIBUNAL (GENERAL) RULES
+
+(Cap. 25, section 45)
+
+[1 March 1973]
