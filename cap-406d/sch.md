@@ -12,8 +12,8 @@ Item | Particular | Fee $
 
 3. | For separate application for additional certification under section 30(3) . | 350
 
-4. | For application for registration of a generating facility under regulation 14 (L.N. 32 of 1997) . | 775
+4. | For application for registration of a generating facility under regulation 14 . | 775
 
 5. | For a copy of a certificate of registration under regulation 11(2) or 16(2) . | 350
 
-(L.N. 450 of 1993; L.N. 601 of 1994)
+L.N. 450 of 1993; L.N. 601 of 1994; L.N. 32 of 1997; L.N. 21 of 1998; L.N. 134 of 1998)
