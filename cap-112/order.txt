@@ -181,6 +181,7 @@ s-069.md
 s-069A.md
 s-070.md
 s-070A.md
+s-070AA.md
 s-070B.md
 s-071.md
 s-072.md
@@ -225,3 +226,4 @@ sch-9.md
 sch-10.md
 sch-11.md
 sch-12.md
+sch-13.md

@@ -1,0 +1,89 @@
+# Schedule 13
+
+[s. 12]
+
+INSTITUTIONS THAT MAY ACCREDIT OR RECOGNIZE TRAINING OR DEVELOPMENT COURSES FOR THE PURPOSE OF SECTION 12(6)(c)(iii)
+
+Item | Institution
+
+1. | The Architects Registration Board established by section 4 of the Architects Registration Ordinance (Cap. 408)
+
+2. | The Chinese Medicine Council of Hong Kong established by section 3 of the Chinese Medicine Ordinance (Cap. 549)
+
+3. | The Chiropractors Council established by section 3 of the Chiropractors Registration Ordinance (Cap. 428)
+
+4. | The Construction Industry Training Authority established by section 4 of the Industrial Training (Construction Industry) Ordinance (Cap. 317)
+
+5. | The Dental Council of Hong Kong established by section 4 of the Dentists Registration Ordinance (Cap. 156)
+
+6. | The Engineers Registration Board established by section 3 of the Engineers Registration Ordinance (Cap. 409)
+
+7. | The Estate Agents Authority established by section 4 of the Estate Agents Ordinance (Cap. 511)
+
+8. | The Hong Kong Academy of Medicine established by section 3 of the Hong Kong Academy of Medicine Ordinance (Cap. 419)
+
+9. | The Hong Kong Bar Association referred to in section 2(1) of the Legal Practitioners Ordinance (Cap. 159)
+
+10. | The Hong Kong Institute of Architects incorporated by section 3 of The Hong Kong Institute of Architects Incorporation Ordinance (Cap. 1147)
+
+11. | The Hong Kong Institution of Engineers incorporated by section 3 of The Hong Kong Institution of Engineers Ordinance (Cap. 1105)
+
+12. | The Hong Kong Institute of Housing incorporated by section 3 of The Hong Kong Institute of Housing Ordinance (Cap. 507)
+
+13. | The Hong Kong Institute of Landscape Architects incorporated by section 3 of The Hong Kong Institute of Landscape Architects Incorporation Ordinance (Cap. 1162)
+
+14. | The Hong Kong Institute of Planners incorporated by section 3 of The Hong Kong Institute of Planners Incorporation Ordinance (Cap. 1153)
+
+15. | The Hong Kong Institute of Surveyors incorporated by section 3 of The Hong Kong Institute of Surveyors Ordinance (Cap. 1148)
+
+16. | The Hong Kong Society of Accountants incorporated by section 3 of the Professional Accountants Ordinance (Cap. 50)
+
+17. | The Hong Kong Society of Notaries referred to in section 2(1) of the Legal Practitioners Ordinance (Cap. 159) as amended by section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998)
+
+18. | The Housing Managers Registration Board established by section 3 of the Housing Managers Registration Ordinance (Cap. 550)
+
+19. | The Land Surveyors Registration Committee appointed under section 6 of the Land Survey Ordinance (Cap. 473)
+
+20. | The Landscape Architects Registration Board established by section 3 of the Landscape Architects Registration Ordinance (Cap. 516)
+
+21. | The Law Society of Hong Kong referred to in section 2(1) of the Legal Practitioners Ordinance (Cap. 159)
+
+22. | The Medical Council of Hong Kong established by section 3 of the Medical Registration Ordinance (Cap. 161)
+
+23. | The Medical Laboratory Technologists Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+
+24. | The Midwives Council of Hong Kong established by section 3 of the Midwives Registration Ordinance (Cap. 162)
+
+25. | The Nursing Council of Hong Kong established by section 3 of the Nurses Registration Ordinance (Cap. 164)
+
+26. | The Occupational Therapists Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+
+27. | The Optometrists Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+
+28. | The Pharmacy and Poisons Board established by section 3 of the Pharmacy and Poisons Ordinance (Cap. 138)
+
+29. | The Physiotherapists Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+
+30. | The Planners Registration Board established by section 3 of the Planners Registration Ordinance (Cap. 418)
+
+31. | The Radiographers Board established by section 5 of the Supplementary Medical Professions Ordinance (Cap. 359)
+
+32. | The Security and Guarding Services Industry Authority established by section 4 of the Security and Guarding Services Ordinance (Cap. 460)
+
+33. | The Social Workers Registration Board established by section 4 of the Social Workers Registration Ordinance (Cap. 505)
+
+34. | The Surveyors Registration Board established by section 3 of the Surveyors Registration Ordinance (Cap. 417)
+
+35. | The Travel Industry Council of Hong Kong referred to in section 32A(1) of the Travel Agents Ordinance (Cap. 218)
+
+36. | The Veterinary Surgeons Board established by section 3 of the Veterinary Surgeons Registration Ordinance (Cap. 529)
+
+37. | The Vocational Training Council established by section 4 of the Vocational Training Council Ordinance (Cap. 1130)
+
+(Schedule 13 added 12 of 2004 s. 22)
+
+Editorial Note:
+
+- 1. The amendments made by 12 of 2004 to this schedule except item 17 apply in relation to the year of assessment 2004/05 and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(a))
+
+- 2. The amendment made by 12 of 2004 to item 17 of this schedule applies in relation to the year of assessment in which section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998) comes into operation and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(b))
