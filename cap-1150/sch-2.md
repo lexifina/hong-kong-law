@@ -20,7 +20,7 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND MEMBERS THEREOF
 
   - (3) If any member of the Council—
 
-    - (a) becomes bankrupt or enters into a composition or scheme of arrangement with his creditors, within the meaning of the Bankruptcy Ordinance (Cap. 6);
+    - (a) becomes bankrupt or enters into a voluntary arrangement with his creditors, within the meaning of the Bankruptcy Ordinance (Cap. 6); (Amended 76 of 1996 s. 98)
 
     - (b) becomes incapacitated by physical or mental illness; or
 
