@@ -8,7 +8,7 @@ Item | Institution | Executive head
 
 1. | Hong Kong Shue Yan College registered under the Post Secondary Colleges Ordinance (Cap. 320). | The President of Hong Kong Shue Yan College.
 
-2. | Lingnan College incorporated by the Lingnan College Ordinance (Cap. 422). | The President within the meaning of section 2 of the Lingnan College Ordinance (Cap. 422).
+2. | Lingnan University established by the Lingnan University Ordinance (Cap. 1165). | The President within the meaning of section 2 of the Lingnan University Ordinance (Cap. 1165). (Replaced 54 of 1999 s. 34)
 
 3. | The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444). | The Director within the meaning of section 2 of The Hong Kong Institute of Education Ordinance (Cap. 444).
 

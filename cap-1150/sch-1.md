@@ -12,7 +12,7 @@ INSTITUTIONS
 
   - 3. (Repealed 93 of 1994 s. 43)
 
-  - 4. Lingnan College (Added L.N. 22 of 1991)
+  - 4. (Repealed 54 of 1999 s. 38)
 
 - Part 2 Item Name of institution
 

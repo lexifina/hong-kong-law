@@ -10,7 +10,7 @@ EDUCATIONAL ESTABLISHMENTS
 
 - 3. Any post secondary college registered under the Post Secondary Colleges Ordinance (Cap. 320).
 
-- 4. Lingnan College as incorporated by the Lingnan College Ordinance (Cap. 422).
+- 4. Lingnan University established by the Lingnan University Ordinance (Cap. 1165). (Replaced 54 of 1999 s. 36)
 
 - 5. The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444).
 

@@ -14,7 +14,7 @@ The members of the Authority shall be—
 
   - (ii)-(iii) (Repealed L.N. 647 of 1994)
 
-  - (iv) the President of the Lingnan College, or his representative;
+  - (iv) the President of the Lingnan University, or his representative; (Amended 54 of 1999 s. 30)
 
   - (v) the Chairman of the Curriculum Development Council appointed by the Chief Executive, or his representative;
 

@@ -126,7 +126,7 @@ PUBLIC BODIES
 
 - 61. Hong Kong Academy of Medicine. (Added 55 of 1992 s. 16)
 
-- 62. Lingnan College. (Added 72 of 1992 s. 29)
+- 62. Lingnan University. (Added 72 of 1992 s. 29. Replaced 54 of 1999 s. 29)
 
 - 63. Citybus Limited. (Added L.N. 330 of 1992)
 
