@@ -1,0 +1,19 @@
+# SCHEDULE 4
+
+[reg. 6]
+
+SYMBOLS DESIGNATING THE CLASSIFICATIONS OF FILMS UNDER SECTION 12 OF THE ORDINANCE
+
+Category I—Classification under section 12(1)(a)
+
+Category IIA—Classification under section 12(1)(b) for films to be advertised as— “NOT SUITABLE FOR CHILDREN.
+
+兒童不宜”
+
+Category IIB—Classification under section 12(1)(b) for films to be advertised as— “NOT SUITABLE FOR YOUNG PERSONS AND CHILDREN.
+
+青少年及兒童不宜”
+
+Category III—Classification under section 12(1)(c)
+
+(L.N.449 of 1995)

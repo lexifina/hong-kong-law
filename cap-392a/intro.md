@@ -1,0 +1,5 @@
+FILM CENSORSHIP REGULATIONS
+
+(Cap. 392, section 29)
+
+[10 November 1988]
