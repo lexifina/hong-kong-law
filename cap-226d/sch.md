@@ -10,4 +10,6 @@ The remand sections of—
 
 - 3. (Repealed L.N. 29 of 1986)
 
-- 4. (Repealed L.N. 245 of 1999) (L.N. 389 of 1983)
+- 4. (Repealed L.N. 245 of 1999)
+
+- 5. Ma Tau Wai Girls’ Home. (L.N. 96 of 2001) (L.N. 389 of 1983)
