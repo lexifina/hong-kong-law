@@ -52,7 +52,7 @@ Item | Enactment | Provision
 
 23. | Offensive Trades Regulation (Cap. 132 sub. leg.) | Section 9(2)
 
-24. | Places of Amusement Regulation (Cap. 132 sub. leg.) | Section 5(1)
+24. | Places of Amusement Regulation (Cap. 132 sub. leg. BA) | Section 5(1)
 
 25. | Public Cemeteries Regulation (Cap. 132 sub. leg.) | Section 5(a)
 
@@ -127,6 +127,8 @@ Item | Enactment | Provision
 59A. | Electoral Affairs Commission (Nominations Advisory Committees (Election Committee)) Regulation (Cap. 541 sub. leg.) | Sections 6(13) and 9(2) (L.N. 268 of 2001)
 
 59B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg.) | Sections 23(5) and (9), 25(2), 42(8) and (10) and 64(8) and (10) (L.N. 268 of 2001)
+
+59C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg.) | Sections 4(1), 9(2), 14(3) and (5), 25(5) and (7), 44(4) and (6), 80(2) and 81(1)(b) (L.N. 282 of 2001)
 
 60. | Legislative Council Ordinance (Cap. 542) | Sections 13(1), 14(1), 26(6), 38(3), 40(1)(b) and 42(2) (21 of 2001 s. 75)
 

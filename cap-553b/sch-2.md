@@ -46,6 +46,8 @@ Item | Enactment | Provision
 
 18B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg.) | Sections 7(4), 8(6) and (7), 17(2), 23(6) and (9), 25(4) and (9), 42(8) and (10), 64(8) and (10), 99(2)(b) and 100(4) (L.N. 268 of 2001)
 
+18C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg.) | Sections 4(1), 9(2), 14(3) and (5), 25(5) and (7), 44(4) and (6), 80(2) and 81(1)(b) (L.N. 282 of 2001)
+
 19. | Legislative Council Ordinance (Cap. 542) | Sections 13(2), 14(2), 40(2) and 42(2) (21 of 2001 s. 76)
 
 20. | District Councils Ordinance (Cap. 547) | Sections 15(2), 23(2), 25(2), 35(2) and 63(2)
