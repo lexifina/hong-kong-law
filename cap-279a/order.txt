@@ -81,6 +81,7 @@ s-072.md
 s-073.md
 s-074.md
 s-075.md
+s-075A.md
 s-076.md
 s-077.md
 s-078.md
@@ -107,6 +108,7 @@ s-097.md
 s-098.md
 s-099.md
 s-099A.md
+s-099B.md
 s-100.md
 s-101.md
 s-102.md

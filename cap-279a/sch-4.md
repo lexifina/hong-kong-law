@@ -4,8 +4,6 @@
 
 APPEALS TO APPEAL BOARD
 
-APPEALS TO APPEAL BOARD
-
 (1 of 2004 s. 19)
 
 - PART I PRACTICE AND PROCEDURE
@@ -14,19 +12,21 @@ APPEALS TO APPEAL BOARD
 
   - Column 1 | Column 2
 
-  - Regulation 92(8) | Supervisor.
+  - Regulation 92(8) | Principal. (27 of 2004 s. 67)
 
   - Regulation 96 | Pupil’s parent or, if the pupil has attained the age of 18 years, the pupil.
 
-  - Regulation 98 | Supervisor.
+  - Regulation 98 | Management authority. (27 of 2004 s. 67)
 
   - 2. The provisions of Part V of the Ordinance shall, subject to the modifications set out in Part II of this Schedule, apply to and in relation to a decision of the Permanent Secretary referred to in paragraph 1.
 
   - 3.
 
-    - In this Schedule, “parent” (家長) includes a guardian and the person having actual custody of the pupil. (3 of 2003 s. 14)
+    - In this Schedule, “parent” (家長) includes a guardian and the person having actual custody of the pupil.
 
-- PART II MODIFICATIONS TO PART V OF THE ORDINANCE
+- (3 of 2003 s. 14)
+
+- PART II Modifications to Part V of the Ordinance
 
 Section | Modification
 

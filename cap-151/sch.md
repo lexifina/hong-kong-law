@@ -14,7 +14,11 @@ PERSONS TO WHICH THE ORDINANCE DOES NOT APPLY
 
   - (a) An association the affairs of which are conducted wholly or partly in any school premises and which consists wholly or mainly of persons under the age of 21 years who are undergoing primary education or secondary education in any school.
 
-  - (b) For the purposes of this item, “primary education” (小學教育), “school” (學校), “school premises” (校舍) and “secondary education” (中學教育) have the meanings assigned to them by section 3 of the Education Ordinance (Cap. 279). (Replaced 8 of 2001 s. 30)
+  - (b)
+
+    - For the purposes of this item, “primary education” (小學教育), “school” (學校), “school premises” (校舍) and “secondary education” (中學教育) have the meanings assigned to them by section 3 of the Education Ordinance (Cap. 279). (Replaced 8 of 2001 s. 30)
+
+- (4A) Any incorporated management committee as defined in section 3(1) of the Education Ordinance (Cap. 279). (Added 27 of 2004 s. 73)
 
 - (5) Any company or association constituted pursuant to or under any Ordinance or other legislation applicable to Hong Kong. (Replaced 13 of 1999 s. 3)
 
