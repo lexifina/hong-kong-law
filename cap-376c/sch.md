@@ -140,4 +140,56 @@
 
 - (63) Yau Tsim Police Officers’ Mess | 9/F, 213, Nathan Road, Kowloon
 
-- (64) Yuen Long District Officers’ Mess | G/F, 246, Castle Peak Road, Yuen Long, New Territories (L.N. 308 of 1999)
+- (64) Yuen Long District Officers’ Mess | G/F, 246, Castle Peak Road, Yuen Long, New Territories
+
+- (65) Cape Collinson Correctional Institution Staff Mess | Mess Hall, Block E, G/F, Cape Collinson Correctional Institution, 123 Cape Collinson Road, Chai Wan, Hong Kong (L.N. 87 of 2001)
+
+- (66) Chi Ma Wan Officers’ Mess, Correctional Services Department | G/F, Staff Dining Hall Block, Chi Ma Wan Correctional Institution, 44 Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001)
+
+- (67) Chi Ma Wan Staff Mess, Correctional Services Department | Staff Mess Block, Chi Ma Wan Correctional Institution, Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001)
+
+- (68) Chi Ma Wan Staff Mess Extension (Staff Common Room), Correctional Services Department | Barrack B6, G/F, Chi Ma Wan Correctional Institution, Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001)
+
+- (69) Correctional Services Department Headquarters Staff Mess | 23/F, Wanchai Tower, 12 Harbour Road, Wanchai, Hong Kong (L.N. 87 of 2001)
+
+- (70) Hei Ling Chau Officers’ Mess, Correctional Services Department | Officers’ Mess Block, Hei Ling Chau Addiction Treatment Centre, Hei Ling Chau, New Territories (L.N. 87 of 2001)
+
+- (71) Hei Ling Chau Staff Mess, Correctional Services Department | Mess Block, Hei Ling Chau Addiction Treatment Centre, Hei Ling Chau, New Territories (L.N. 87 of 2001)
+
+- (72) Lai Chi Kok Reception Centre & Escort and Support Group Staff Mess, Correctional Services Department | Block B, G/F, 5 Butterfly Valley Road, Kowloon (L.N. 87 of 2001)
+
+- (73) Lai King Training Centre Staff Mess, Correctional Services Department | Mess Block, Lai King Training Centre, 16 Wah Tai Road, 6 1/2 Milestone, Castle Peak Road, Kwai Chung, New Territories (L.N. 87 of 2001)
+
+- (74) Lo Wu Correctional Institution Staff Mess | Mess Block, Lo Wu Correctional Institution, 163 Ho Sheung Heung Road, Sheung Shui, New Territories (L.N. 87 of 2001)
+
+- (75) Ma Hang Staff Mess, Correctional Services Department | 40 Stanley Village Road, Stanley, Hong Kong (L.N. 87 of 2001)
+
+- (76) Ma Po Ping Staff Mess, Correctional Services Department | 3/F, Block 4, 39 Ma Po Ping Road, Lantau Island, New Territories (L.N. 87 of 2001)
+
+- (77) Phoenix House Staff Mess, Correctional Services Department | 1/F, SMQ, Phoenix House, Lung Cheung Road, Tai Wo Ping, Kowloon (L.N. 87 of 2001)
+
+- (78) Pik Uk Staff Mess, Correctional Services Department | G/F, Block E, Pik Uk Prison, Clear Water Bay Road, New Territories (L.N. 87 of 2001)
+
+- (79) Post Office Recreation Club | 8 Caroline Hill Road, Causeway Bay, Hong Kong (L.N. 87 of 2001)
+
+- (80) Shek Pik Prison and Sha Tsui Detention Centre Officers’ Mess | Block R, G/F, 46 Shek Pik Reservoir Road, Shek Pik, Lantau Island, New Territories (L.N. 87 of 2001)
+
+- (81) Shek Pik Prison and Sha Tsui Detention Centre Staff Mess | 42 Shek Pik Reservoir Road, Shek Pik, Lantau Island, New Territories (L.N. 87 of 2001)
+
+- (82) Siu Lam Psychiatric Centre Staff Mess, Correctional Services Department | 2/F, Mess Block, Siu Lam Psychiatric Centre, 21 Hong Fai Road, 16 1/2 Milestone, Castle Peak Road, New Territories (L.N. 87 of 2001)
+
+- (83) Staff Training Institute Officers’ Mess, Correctional Services Department | Room 102, 1/F, East Wing, Staff Training Institute, 47 Tung Tau Wan Road, Stanley, Hong Kong (L.N. 87 of 2001)
+
+- (84) Staff Training Institute Staff Mess, Correctional Services Department | Room 101, 1/F, East Wing, Staff Training Institute, 47 Tung Tau Wan Road, Stanley, Hong Kong (L.N. 87 of 2001)
+
+- (85) Stanley Staff Mess, Correctional Services Department | Block A, G/F, 91 Tung Tau Wan Road, Stanley, Hong Kong (L.N. 87 of 2001)
+
+- (86) Tai Lam Centre for Women Staff Mess, Correctional Services Department | Mess Block, Tai Lam Centre for Women, 110 Tai Lam Chung Road, Tai Lam, New Territories (L.N. 87 of 2001)
+
+- (87) Tai Lam Correctional Institution Staff Mess | Mess Block, Tai Lam Correctional Institution, 108 Tai Lam Chung Road, Tai Lam, New Territories (L.N. 87 of 2001)
+
+- (88) Tai Tam Gap Correctional Institution Staff Mess | Block 1, 1/F, 110 Shek O Road, Hong Kong (L.N. 87 of 2001)
+
+- (89) Tung Tau Correctional Institution Staff Mess | G/F, Block 3, 68 Tung Tau Wan Road, Stanley, Hong Kong (L.N. 87 of 2001)
+
+- (L.N. 308 of 1999)
