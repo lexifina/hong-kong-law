@@ -10,6 +10,6 @@ Secretary | Electrical and Mechanical Services Department (G.N. 1418 of 1987)
 
 Senior Staff Relations Officers | Independent Commission Against Corruption (G.N. 1418 of 1987; G.N. 2216 of 1989)
 
-Secretary | Government Supplies Department (G.N. 1431 of 1988)
+Secretary | Government Logistics Department (G.N. 1431 of 1988; L.N. 164 of 2003)
 
 Secretary | Labour Department (G.N. 1941 of 1989)

@@ -62,13 +62,11 @@ Government Flying Service. (Added L.N. 242 of 1993)
 
 Government Laboratory.
 
-Government Land Transport Agency.
+Government Logistics Department. (Replaced L.N. 164 of 2003)
 
 Government Property Agency. (Added L.N. 181 of 1991)
 
 Government Secretariat.
-
-Government Supplies Department.
 
 Highways Department.
 
@@ -136,8 +134,6 @@ Planning Department. (Added L.N. 414 of 1989)
 
 Post Office.
 
-Printing Department.
-
 Privacy Commissioner for Personal Data. (Added 30 of 2001 s. 19)
 
 Radio Television Hong Kong.
@@ -174,26 +170,14 @@ Vocational Training Council. (Added L.N. 155 of 1996)
 
 Water Supplies Department.
 
-(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28)
+(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28; L.N. 164 of 2003)
 
-- PART II
+- PART II Independent Commission Against Corruption. Hong Kong Auxiliary Police Force. (Amended 25 of 1998 s. 2) Hong Kong Police Force. (Amended 25 of 1998 s. 2) Secretariat of the Independent Police Complaints Council. Secretariat of the Public Service Commission. (Part II added 74 of 1996 s. 9)
 
-- Independent Commission Against Corruption.
+Editorial Note:
 
-- Hong Kong Auxiliary Police Force. (Amended 25 of 1998 s. 2)
+\# “Education Department” was repealed from Part I of this Schedule by the Education Reorganization (Miscellaneous Amendments) Ordinance 2003 (3 of 2003). For the related saving and transitional provisions, see section 29 of the Ordinance.
 
-- Hong Kong Police Force. (Amended 25 of 1998 s. 2)
+* Please see the saving provisions contained in section 33(4) of Cap. 517.
 
-- Secretariat of the Independent Police Complaints Council.
-
-- Secretariat of the Public Service Commission.
-
-- (Part II added 74 of 1996 s. 9)
-
-- -
-
-- # “Education Department” was repealed from Part I of this Schedule by the Education Reorganization (Miscellaneous Amendments) Ordinance 2003 (3 of 2003). For the related saving and transitional provisions, see section 29 of the Ordinance.
-
-- * Please see the saving provisions contained in section 33(4) of Cap. 517.
-
-- + Please see the saving provisions contained in section 33(4) of Cap. 518.
++ Please see the saving provisions contained in section 33(4) of Cap. 518.
