@@ -42,7 +42,7 @@ Item | $
 
 (B) where the application is made using services provided by a specified body (L.N. 484 of 1996) . | 141
 
-2. | Issue of import or export licence in respect of prohibited, restricted or controlled articles . | No fee
+2. | Issue of import or export licence in respect of prohibited, restricted or controlled articles, other than rough diamonds (L.N. 180 of 2002) . | No fee
 
 3. | Annual fee for registration of a person for textile controls purposes (L.N. 315 of 1984; L.N. 160 of 1992; L.N. 128 of 2001) . | 1712
 
@@ -76,12 +76,24 @@ Item | $
 
 12. | Annual fee for registration of a person under Part IIIA of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999; L.N. 128 of 2001) . | 3003
 
-13. | Annual fee for any period beginning on or after 1 July 1993 for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993) | 2825
+13. | Annual fee for any period beginning on or after 1 July 1993 for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993) . | 2825
 
 14. | Fee payable when a production notification is lodged—
 
 (a) where the production notification is lodged on paper (Form TRA 579) . | 49
 
 (b) where the production notification is lodged using services provided by a specified body (L.N. 195 of 1999) . | 34
+
+15. | In respect of rough diamonds—
+
+(a) fee for registration as a registered rough diamond trader under Part VI of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) for a period of 2 years—
+
+(i) in the case of an initial registration . | 840
+
+(ii) in the case of a registered rough diamond trader renewing his registration . | 595
+
+(b) issue of import licence . | 175
+
+(c) issue of export licence (L.N. 180 of 2002) . | 200
 
 (L.N. 258 of 1982; L.N. 189 of 1993; L.N. 259 of 1994; L.N. 203 of 1995; L.N. 202 of 1996; L.N. 245 of 1997)
