@@ -24,8 +24,6 @@ Chai Wan Kok Cooked Food Market | 柴灣角熟食市場 (L.N. 242 of 1979)
 
 Chai Wan Market | 柴灣街市 (L.N. 44 of 2001)
 
-Chai Wan Temporary Market | 柴灣臨時街市 (78 of 1999 s. 7)
-
 Cheung Chau Cooked Food Market | 長洲熟食市場 (L.N. 113 of 1991)
 
 Cheung Chau Market | 長洲街市 (L.N. 113 of 1991)
@@ -87,8 +85,6 @@ Lai Wan Market | 荔灣街市 (78 of 1999 s. 7)
 Lam Tei Market | 藍地街市
 
 Lau Fau Shan Market | 流浮山街市
-
-Lee Chung Street Cooked Food Market | 利眾街熟食市場 (78 of 1999 s. 7)
 
 Lockhart Road Market | 駱克道街市 (78 of 1999 s. 7)
 
@@ -216,4 +212,4 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001)
