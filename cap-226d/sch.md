@@ -4,10 +4,10 @@
 
 The remand sections of—
 
-- 1. Begonia Road Boys’ Home.
+- 1. Begonia Road Juvenile Home. (L.N. 245 of 1999)
 
-- 2. Ma Tau Wei Girls’ Home.
+- 2. (Repealed L.N. 245 of 1999)
 
 - 3. (Repealed L.N. 29 of 1986)
 
-- 4. Pui Yin Juvenile Home. (L.N. 28 of 1986) (L.N. 389 of 1983)
+- 4. (Repealed L.N. 245 of 1999) (L.N. 389 of 1983)
