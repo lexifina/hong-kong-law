@@ -248,4 +248,6 @@ Item | Periods | Rate of interest
 
 122. | On or after 5 November 2001 and before 3 December 2001 (L.N. 228 of 2001; L.N. 254 of 2001) | 0.675% per annum
 
-123. | On or after 3 December 2001 (L.N. 254 of 2001) | 0.6292% per annum
+123. | On or after 3 December 2001 and before 7 January 2002 (L.N. 254 of 2001; L.N. 1 of 2002) | 0.6292% per annum
+
+124. | On or after 7 January 2002 (L.N. 1 of 2002) | 0.4583% per annum
