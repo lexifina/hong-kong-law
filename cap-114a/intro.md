@@ -1,0 +1,5 @@
+MISCELLANEOUS LICENCES REGULATIONS
+
+(Cap. 114, section 3)
+
+[27 October 1933]
