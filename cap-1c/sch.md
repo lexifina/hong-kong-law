@@ -344,8 +344,6 @@ Financial Secretary | Companies Ordinance (Chapter 32), section 157E(4)(a). (L.N
 
 Financial Secretary | Companies Ordinance (Chapter 32), section 337B(3). (L.N. 345 of 1985)
 
-Financial Secretary | Consumer Council Ordinance (Chapter 216), section 16(1) and (5). (L.N. 111 of 1987)
-
 Financial Secretary | Customs and Excise Service (Welfare Fund) Regulations (Chapter 342 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
 
 Financial Secretary | Fire Services Department (Welfare Fund) Regulations (Chapter 95 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
@@ -375,8 +373,6 @@ Financial Secretary | Prison Rules (Chapter 234 subsidiary legislation A), rules
 Financial Secretary | Trading Funds Ordinance (Chapter 430), section 3(1). (L.N. 36 of 1995)
 
 Financial Secretary | Trading Funds Ordinance (Chapter 430), section 8(2). (L.N. 529 of 1994)
-
-Financial Secretary | Travel Agents Ordinance (Chapter 218), section 32K. (L.N. 350 of 1994)
 
 Gas Authority | Gas Safety Ordinance (Chapter 51). (49 of 1990 s. 38)
 
@@ -446,11 +442,11 @@ Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Roads (W
 
 Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004)
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999, L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003 and L.N. 21 of 2004. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003 and L.N. 21 of 2004. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -465,8 +461,6 @@ Director of Intellectual Property as Registrar of Trade Marks | Trade Marks Ordi
 Director of Intellectual Property as Registrar of Patents | Patents Ordinance (Chapter 514). Patents (Transitional Arrangements) Rules (Chapter 514 subsidiary legislation B). Patents (General) Rules (Chapter 514 subsidiary legislation C).
 
 Director of Intellectual Property as Registrar of Designs | Registered Designs Ordinance (Chapter 522). Registered Designs Rules (Chapter 522 subsidiary legislation A).
-
-L.N. 324 of 1999 | Chief Secretary for Administration | Hong Kong Tourism Board Ordinance (Chapter 302), section 19(2). (3 of 2001 s. 44)
 
 L.N. 82 of 2001 | Director-General of Trade and Industry | Import and Export (General) Regulations (Chapter 60 subsidiary legislation A), regulations 5AB(1), (2), (3), (4) and (5), 5AC(1) and (3), 5AD(1) and (2) and 5AE(1)(c) and item 1 of Part I and item 13 of Part IV of the Fifth Schedule.
 
