@@ -10,7 +10,7 @@ THE LAW SOCIETY OF HONG KONG APPLICATION FOR PRACTISING CERTIFICATE
 
 Home
 
-- 3. Tick all appropriate boxes: I am engaged in private practice in Hong Kong:
+- 2A. Tick the appropriate box(es): □ My application comes within section 3 of the Practising Certificate (Special Conditions) Rules (Cap. 159 sub. leg. Y). I gave The Law Society of Hong Kong notice in writing of my intention to apply for a practising certificate not less than 6 weeks ago, namely on . □ My application comes within section 3 of the Practising Certificate (Special Conditions) Rules (Cap. 159 sub. leg. Y). I gave The Law Society of Hong Kong notice in writing of my intention to apply for a practising certificate less than 6 weeks ago, namely on . □ My application comes within section 3 of the Practising Certificate (Special Conditions) Rules (Cap. 159 sub. leg. Y). I have not given The Law Society of Hong Kong any prior notice in writing of my intention to apply for a practising certificate. □ My application does not come within section 3 of the Practising Certificate (Special Conditions) Rules (Cap. 159 sub. leg. Y). 3. Tick all appropriate boxes: I am engaged in private practice in Hong Kong:
 
 - on my own account
 
@@ -32,9 +32,7 @@ Home
 
 - FIRM | CAPACITY | FULL-TIME/PART-TIME /OTHER
 
-- Continue on a separate sheet if necessary. Please indicate if an additional sheet is annexed-YES/NO*
-
-- 5.* If you have commenced or ceased to practise on your own account or in partnership in Hong Kong in the 12 months ending on 31 October immediately before your application, give details:
+- Continue on a separate sheet if necessary. Please indicate if an additional sheet is annexed-YES/NO* 5.* If you have commenced or ceased to practise on your own account or in partnership in Hong Kong in the 12 months ending on 31 October immediately before your application, give details:
 
 - Name(s) of firm(s):
 
@@ -42,9 +40,7 @@ Home
 
 - 6. Tick the appropriate box(es):
 
-- I am engaged in private practice in respect of which an indemnity is maintained
-
-- in accordance with the Solicitors (Professional Indemnity) Rules (Cap. 159 sub. leg.).
+- I am engaged in private practice in respect of which an indemnity is maintained in accordance with the Solicitors (Professional Indemnity) Rules (Cap. 159 sub. leg. M).
 
 - I am engaged in private practice and do not maintain an indemnity but have
 
@@ -58,10 +54,14 @@ Home
 
 - specific exemption has been granted by the Council.
 
-- 7. I apply for a practising certificate. Signed: _ Date: _ * Delete if inapplicable. (L.N. 494 of 1994)
+- 7. I apply for a practising certificate. Signed: _ Date: _ * Delete if inapplicable.
+
+(L.N. 494 of 1994; L.N. 184 of 2002)
 
 FORM 2 | [rule 4]
 
 PRACTISING CERTIFICATE-SOLICITOR LEGAL PRACTITIONERS ORDINANCE (Chapter 159)
 
-- The Law Society of Hong Kong hereby certifies, in accordance with subsection (1) of section 6 of the Legal Practitioners Ordinance, that . a Solicitor of the High Court of Hong Kong, has complied with that subsection and is therefore entitled to practise as such solicitor for the period from . to . Conditions if any: Dated this . day of . . Secretary, The Law Society of Hong Kong. (L.N. 259 of 1986; 25 of 1998 s. 2; L.N. 115 of 2000)
+- The Law Society of Hong Kong hereby certifies, in accordance with subsection (1) of section 6 of the Legal Practitioners Ordinance, that . a Solicitor of the High Court of Hong Kong, has complied with that subsection and is therefore entitled to practise as such solicitor for the period from . to . Conditions if any: Dated this . day of . . Secretary, The Law Society of Hong Kong.
+
+(L.N. 259 of 1986; 25 of 1998 s. 2; L.N. 115 of 2000)
