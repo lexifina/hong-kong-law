@@ -1,0 +1,5 @@
+EMPLOYMENT OF CHILDREN REGULATIONS
+
+(Cap. 57, section 73)
+
+[1 September 1979]
