@@ -1,0 +1,5 @@
+SMOKING (PUBLIC HEALTH) (NOTICES) ORDER
+
+(Cap. 371, section 18(2))
+
+[13 August 1982]
