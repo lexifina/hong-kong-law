@@ -1280,9 +1280,17 @@ Dated this day of 19 .
 
 $
 
-Amount due and unpaid in respect of the order and costs . Costs of this summons . Travelling expenses to be paid to the judgment debtor . | _ _
+Amount due and unpaid in respect of the order and costs .
 
-(L.N. 193 of 1974; 25 of 1998 s. 2)
+Interest payable in respect of the arrears of maintenance, at the judgment rate calculated from the date on which maintenance payment is due to the date of payment .
+
+Surcharge payable in respect of the arrears of maintenance at a rate to be decided by the Court .
+
+Costs of this summons .
+
+Travelling expenses to be paid to the judgment debtor . | _ _
+
+(L.N. 193 of 1974; 25 of 1998 s. 2; 18 of 2003 s. 21)
 
 _
 
@@ -1310,13 +1318,23 @@ Dated this day of 19 .
 
 $
 
-Amount due and unpaid in respect of the order and costs . Costs of this summons . Travelling expenses to be paid to the judgment debtor . Sum on payment of which this summons will be discharged . | _ _
+Amount due and unpaid in respect of the order and costs .
+
+Interest payable in respect of the arrears of maintenance, at the judgment rate calculated from the date on which maintenance payment is due to the date of payment .
+
+Surcharge payable in respect of the arrears of maintenance at a rate to be decided by the Court .
+
+Costs of this summons .
+
+Travelling expenses to be paid to the judgment debtor . | _
+
+Sum on payment of which this summons will be discharged . | _
 
 Note: If payment is made too late to prevent the judgment creditor’s attendance on the day of hearing you may be liable for further costs.
 
 [The judgment creditor’s solicitor is ]
 
-(L.N. 193 of 1974)
+(L.N. 193 of 1974; 18 of 2003 s. 21)
 
 _
 
@@ -2172,7 +2190,7 @@ as guardian ad litem of mentally disordered person . 105, 106
 
 ORDER (命令):— drawing of . 56
 
-under section 18(1) or (4) Matrimonial Proceedings and Property Ordinance (Cap. 192). 51
+under section 18(1) or (4) Matrimonial Proceedings and Property Ordinance (Cap. 192) . 51
 
 for payment of money, enforcement of . 86
 

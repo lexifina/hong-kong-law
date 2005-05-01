@@ -29,6 +29,8 @@ s-025.md
 s-026.md
 s-027.md
 s-028.md
+s-028AA.md
+s-028AB.md
 s-028A.md
 s-029.md
 s-029A.md

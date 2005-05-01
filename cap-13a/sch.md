@@ -266,25 +266,27 @@ WHEREAS by maintenance order dated . day of . , made at the sitting of the . Cou
 
 - is required to make payments. An application has been made for an Attachment of Income Order/Variation of an Attachment of Income Order* to secure the payments and it appears that income is payable by you to him. (See Note 1)
 
-- THE COURT HEREBY ORDERS you to whom this Order is addressed, on the expiration of 14 days from the date of service of this Order upon you, to make out of the income, namely . (nature of income), periodical deductions as set out below and transmit the said sums to .
+- THE COURT HEREBY ORDERS you to whom this Order is addressed, on the expiration of 14 days from the date of service of this Order upon you, to make out of the income, namely . (nature of income), periodical deductions as set out below and transmit the said sums to . (Specified Payee) of .
 
-- (Specified Payee) of .
+  - *1. The sum of $. being interest as referred to in rule 3(2)(f)(iii) of the Attachment of Income Order Rules (Cap. 13 sub. leg. A).
 
-  - *1. The sum of $. per week/month* in respect of current payments under the maintenance order first mentioned.
+  - *2. The sum of $. being surcharge as referred to in rule 3(2)(f)(iv) of the Attachment of Income Order Rules (Cap. 13 sub. leg. A).
 
-  - *2. The sum of $. per week/month* for . consecutive weeks/months* and a final payment of $. * in respect of arrears of payments under the maintenance order first mentioned.
+  - *3. The sum of $. per week/month* in respect of current payments under the maintenance order first mentioned.
 
-  - *3. The sum of $. per week/month* for . consecutive weeks/months* and a final payment of $. * in respect of costs in connection with the maintenance order first mentioned and this Order.
+  - *4. The sum of $. per week/month* for . consecutive weeks/months* and a final payment of $. * in respect of arrears of payments under the maintenance order first mentioned.
 
-- THE COURT ALSO DIRECTS that during the period when this Order is in force, you may make one further deduction of not exceeding $ . from the said income to defray the administrative expenses reasonably incurred by you in complying with this Order. If any deduction is authorized under section 32(2) of the Employment Ordinance (Cap. 57) to be made by you from the wages of the maintenance payer, and the total of such deduction together with the sums referred to at 1, 2 or 3 above exceeds the whole wages of the maintenance payer in respect of that wage period, such deduction shall be accorded priority over the payment referred to at 1, 2 or 3 above. (See Note 2) This Order shall be effective for the period from . to . Dated this . day of .
+  - *5. The sum of $. per week/month* for . consecutive weeks/months* and a final payment of $. * in respect of costs in connection with the maintenance order first mentioned and this Order.
+
+- THE COURT ALSO DIRECTS that during the period when this Order is in force, you may make one further deduction of not exceeding $ . from the said income to defray the administrative expenses reasonably incurred by you in complying with this Order. If any deduction is authorized under section 32(2) of the Employment Ordinance (Cap. 57) to be made by you from the wages of the maintenance payer, and the total of such deduction together with the sums referred to at 1, 2, 3, 4 or 5 above exceeds the whole wages of the maintenance payer in respect of that wage period, such deduction shall be accorded priority over the payment referred to at 1, 2, 3, 4 or 5 above. (See Note 2) This Order shall be effective for the period from . to . Dated this . day of .
 
 - Registrar
 
-- NOTE 1: If you have ceased to be an income source of the maintenance payer, you should within 7 days from the date of service of this Order upon you or if at any time you cease to be an income source of the maintenance payer within 7 days from such cesser fill in and sign the attached notice and send it to the . Court Registry at . NOTE 2: This paragraph applies only if the maintenance payer is in your employment and the sums referred to at 1, 2 or 3 is to be made out of wages due to the maintenance payer.
+- NOTE 1: If you have ceased to be an income source of the maintenance payer, you should within 7 days from the date of service of this Order upon you or if at any time you cease to be an income source of the maintenance payer within 7 days from such cesser fill in and sign the attached notice and send it to the . Court Registry at . NOTE 2: This paragraph applies only if the maintenance payer is in your employment and the sums referred to at 1, 2, 3, 4 or 5 is to be made out of wages due to the maintenance payer.
 
 - * Delete where inapplicable.
 
-- (L.N. 260 of 2001)
+- (L.N. 260 of 2001; 18 of 2003 s. 18)
 
 FORM 5 | [rules 5(2) & 7(4)]
 

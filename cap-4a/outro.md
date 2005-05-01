@@ -864,9 +864,9 @@ To . of .
 
 - Upon reading the affidavit of . filed the . day of . 19 .:
 
-- It is ordered by (Mr. Justice . ) that all debts due or accruing due from the above-mentioned garnishee to the above-mentioned judgment debtor (in the sum of $ .) be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the High Court on the . day of . 19 . for the sum (or to answer an order made in the High Court on the . day of . 19 .; ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remains due and unpaid.
+- It is ordered by (Mr. Justice . ) that all debts due or accruing due from the above-mentioned garnishee to the above-mentioned judgment debtor (in the sum of $ .) be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the High Court on the . day of . 19 . for the sum (or to answer an order made in the High Court on the . day of . 19 .; ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) and interest at the judgment rate calculated from the date on which maintenance payment is due to the date of payment and surcharge at a rate to be decided by the High Court, as referred to in Order 49, rule 2(ba)(i) and (ii) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remains due and unpaid.
 
-- And it is ordered that the said garnishee attend Mr. Justice . in Chambers, at the High Court, in Hong Kong on the . day of . 19 . at . o’clock, on an application by the said judgment creditor that the garnishee do pay to the said judgment creditor the debt due from the said garnishee to the said judgment debtor, or so much thereof as may be sufficient to satisfy the said judgment (or order), together with the costs of the garnishee proceedings.
+- And it is ordered that the said garnishee attend Mr. Justice . in Chambers, at the High Court, in Hong Kong on the . day of . 19 . at . o’clock, on an application by the said judgment creditor that the garnishee do pay to the said judgment creditor the debt due from the said garnishee to the said judgment debtor, or so much thereof as may be sufficient to satisfy the said judgment (or order), and interest at the judgment rate calculated from the date on which maintenance payment is due to the date of payment and surcharge at a rate to be decided by the High Court, as referred to in Order 49, rule 2(ba)(i) and (ii) together with the costs of the garnishee proceedings.
 
 - Dated the . day of . 19 .
 
@@ -874,29 +874,29 @@ To . of .
 
 - and judgment debtor.
 
-- (L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2)
+- (L.N. 251 of 1997; L.N. 313 of 1997; 25 of 1998 s. 2; 18 of 2003 s. 15)
 
 - - No. 73 Garnishee order absolute where garnishee owes more than judgment debt (O. 49 rr. 1, 4) (Heading as in No. 72)
 
-- Upon hearing the solicitors for the judgment creditor and the garnishee, and upon reading the affidavit of . filed herein, and the order to show cause made herein dated the . day of . 19 ., whereby it was ordered that all debts due or accruing due from the above-named garnishee to the above-named judgment debtor should be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the High Court on the . day of . 19 . for the sum (or to answer an order made in the High Court dated the . day of . 19 . ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remained due and unpaid:
+- Upon hearing the solicitors for the judgment creditor and the garnishee, and upon reading the affidavit of . filed herein, and the order to show cause made herein dated the . day of . 19 ., whereby it was ordered that all debts due or accruing due from the above-named garnishee to the above-named judgment debtor should be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the High Court on the . day of . 19 . for the sum (or to answer an order made in the High Court dated the . day of . 19 . ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) and interest at the judgment rate calculated from the date on which maintenance payment is due to the date of payment and surcharge at a rate to be decided by the High Court, as referred to in Order 49, rule 2(ba)(i) and (ii) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remained due and unpaid:
 
-- It is ordered that the said garnishee do forthwith pay to the said judgment creditor $ . being so much of the debt from the said garnishee to the said judgment debtor as is sufficient to satisfy the said judgment debt and costs, together with $ . the costs of the garnishee proceedings, and that the said garnishee be at liberty to retain $ . for his costs of this application out of the balance of the debt due from him to the judgment debtor.
+- It is ordered that the said garnishee do forthwith pay to the said judgment creditor $ . being so much of the debt from the said garnishee to the said judgment debt, $ . interest and $ . surcharge, as referred to in Order 49, rule 2(ba)(i) and (ii) or as is sufficient to satisfy the said judgment debt and costs, together with $ . the costs of the garnishee proceedings, and that the said garnishee be at liberty to retain $ . for his costs of this application out of the balance of the debt due from him to the judgment debtor.
 
 - Dated the . day of . 19 .
 
-- (L.N. 251 of 1997; 25 of 1998 s. 2)
+- (L.N. 251 of 1997; 25 of 1998 s. 2; 18 of 2003 s. 15)
 
 - - No. 74 Garnishee order absolute where garnishee owes less than judgment debt (O. 49 rr. 1, 4) (Heading as in No. 72)
 
-- Upon hearing (as in No. 73). It is ordered that the said garnishee (after deducting therefrom $ . for his costs of this application) do forthwith pay to the said judgment creditor $ . the debt due from the said garnishee to the said judgment debtor. And that the sum of $ . the costs or the judgment creditor of this application be added to the judgment debt and be retained out of the money recovered by the said judgment creditor under this order and in priority to the amount of the judgment debt. Dated the . day of . 19 .
+- Upon hearing (as in No. 73). It is ordered that the said garnishee (after deducting therefrom $ . for his costs of this application) do forthwith pay to the said judgment creditor $ . the debt due from the said garnishee to the said judgment debtor and $. interest and $. surcharge, as referred to in Order 49, rule 2(ba)(i) and (ii). And that the sum of $ . the costs or the judgment creditor of this application be added to the judgment debt and be retained out of the money recovered by the said judgment creditor under this order and in priority to the amount of the judgment debt. Dated the . day of . 19 .
 
-- (L.N. 251 of 1997)
+- (L.N. 251 of 1997; 18 of 2003 s. 15)
 
 - - No. 75 Charging order: notice to show cause (O. 50, r. 1) (Heading as in cause or matter)
 
 - Upon hearing the . and upon reading the affidavit of . filed herein the . day of . 19 . whereby it appears that by a judgment (or order) made in the Court of First Instance on the . day of . 19 . the defendant was ordered to pay to the plaintiff the sum of $ . and $ . costs on which judgment (or order) the sum of $ . remains due and unpaid and that the defendant has a beneficial interest in the asset specified in the schedule hereto:
 
-- It is ordered by (Mr. Justice/Master .) that unless sufficient cause to the contrary be shown before (Mr. Justice/Master . at the High Court of Hong Kong, 38 Queensway, Hong Kong) on the . day of . 19 ., at . o’clock, the defendant’s interest in the said asset shall, and it is ordered that in the meantime it do, stand charged with the payment of $ . due on the said judgment (or order) and (interest thereon at the statutory rate) together with the costs of this application.
+- It is ordered by (Mr. Justice/Master .) that unless sufficient cause to the contrary be shown before (Mr. Justice/Master . at the High Court of Hong Kong, 38 Queensway, Hong Kong) on the . day of . 19 ., at . o’clock, the defendant’s interest in the said asset shall, and it is ordered that in the meantime it do, stand charged with the payment of $ . due on the said judgment (or order) and (interest thereon at the statutory rate) (interest at the judgment rate calculated from the date on which maintenance payment is due to the date of payment and surcharge at a rate to be decided by the Court, as referred to in Order 50, rule 1(3)(ba)(i) and (ii)) together with the costs of this application.
 
 - Dated the . day of . 19 .
 
@@ -904,13 +904,13 @@ To . of .
 
 - (Describe with full particulars the relevant land, securities, funds or trust, stating, in relation to securities, their full title, the amount of them and the name in which they stand and whether the beneficial interest charged is in the securities only or in dividends or interest as well, and stating, in relation to funds in court, the number of the account).
 
-- (L.N. 251 of 1997; 25 of 1998 s. 2)
+- (L.N. 251 of 1997; 25 of 1998 s. 2; 18 of 2003 s. 15)
 
 - - No. 76 Charging order absolute (O. 50, r. 3) (Heading as in cause or matter)
 
 - Upon hearing the . and upon reading the affidavits of . and . filed herein the . day of . 19 . and the order to show cause made herein on the . day of . 19 .:
 
-- It is ordered that the interest of the defendant C.D. in the asset specified in the schedule hereto stand charged with the payment of $ ., the amount due from the defendant to the plaintiff A.B. on a judgment (or order) of the Court of First Instance dated the . day of . 19 ., and (interest thereon at the statutory rate) together with $ . the costs of this application, the said costs to be added to the judgment debt.
+- It is ordered that the interest of the defendant C.D. in the asset specified in the schedule hereto stand charged with the payment of $ ., the amount due from the defendant to the plaintiff A.B. on a judgment (or order) of the Court of First Instance dated the . day of . 19 ., and (interest thereon at the statutory rate) ($. interest and $. surcharge, as referred to in Order 50, rule 1(3)(ba)(i) and (ii)) together with $ . the costs of this application, the said costs to be added to the judgment debt.
 
 - Dated the . day of . 19 .
 
@@ -924,7 +924,7 @@ To . of .
 
 - SCHEDULE
 
-- (L.N. 251 of 1997; 25 of 1998 s. 2)
+- (L.N. 251 of 1997; 25 of 1998 s. 2; 18 of 2003 s. 15)
 
 - - No. 77
 
