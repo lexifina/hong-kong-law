@@ -112,9 +112,7 @@ Note:-This summons may not be served later than 12 calendar months beginning wit
 
 This summons was taken out by . of . solicitors for the said plaintiff whose address is as stated above (or where the plaintiff sues in person:
 
-This summons was taken out by the said plaintiff who resides at . and (if the plaintiff does not reside within the jurisdiction) whose address for service is .
-
-.).
+This summons was taken out by the said plaintiff who resides at . and (if the plaintiff does not reside within the jurisdiction) whose address for service is .).
 
 Note:-If a defendant does not attend personally or by his counsel or solicitor at the time and place above-mentioned such order will be made as the Court may think just and expedient.
 
@@ -154,19 +152,13 @@ C.D. | Defendant (if any) whose name is known
 
 To [C.D. and] every [other] person in occupation of .
 
-Let all persons concerned attend before His/Her Honour Judge/Master .
-
-. at the District Court in Hong Kong on . day, the . day of . 20 . , at . o’clock in the . noon, on the hearing of an application by A.B. for an order that he do recover possession of .
-
-. on the ground that he is entitled to possession and that the person(s) in occupation is (are) in occupation without licence or consent.
+Let all persons concerned attend before His/Her Honour Judge/Master . at the District Court in Hong Kong on . day, the . day of . 20 . , at . o’clock in the . noon, on the hearing of an application by A.B. for an order that he do recover possession of . on the ground that he is entitled to possession and that the person(s) in occupation is (are) in occupation without licence or consent.
 
 Dated the . day of . 20 .
 
 This summons was taken out by . of . solicitors for the said plaintiff whose address is . [or when the plaintiff acts in person:]
 
-This summons was taken out by the said plaintiff who resides at .
-
-. and is (state occupation) and (if the plaintiff does not reside within the jurisdiction) whose address for service is .
+This summons was taken out by the said plaintiff who resides at . and is (state occupation) and (if the plaintiff does not reside within the jurisdiction) whose address for service is .
 
 Note:-Any person occupying the premises may apply to the Court personally or by counsel or solicitor to be joined as a defendant. If a person occupying the premises does not attend personally or by counsel or solicitor at the time and place above-mentioned, such order will be made as the Court may think just and expedient.
 
@@ -308,9 +300,289 @@ If a Statement of Claim is indorsed on the Writ (i.e. the words “Statement of 
 
 - 2. The statements of fact made by me in paragraph 2 of the said list are true.
 
-- 3. The statements made by me in paragraph 5 of the said list are true to the best of my knowledge, information and belief. Sworn, etc. This affidavit is filed on behalf of the plaintiff (or defendant). No. 28 Writ of subpoena (Order 38 rule 14) (Heading as in cause or matter) To (names of witnesses). You are required to attend (at the District Court in Hong Kong at the sittings of our District Court) on the day fixed for the trial of the above-named cause, notice of which will be given to you, and from day to day thereafter until the end of the trial, to give evidence on behalf of the (plaintiff) or (defendant)*. Witness . Chief Justice of the Court of Final Appeal of the Hong Kong Special Administrative Region, the . day of . 20 . Issued on the . day of . 20 . by . solicitors for the . *If duces tecum add: And it is also required to bring with you and produce at the place aforesaid on the day notified to you (here describe the documents or things to be produced). No. 29 Writ of subpoena: proceedings in chambers (Order 38 rule 14) (Heading as in cause or matter) To (names of witnesses). You are required to attend before His/Her Honour Judge/Master . . in chambers, at the District Court in Hong Kong on . day, the . day of . 20 . at . o’clock in the . noon and so from day to day until your evidence shall have been taken, to give evidence on behalf of the (plaintiff) or (defendant) in the above-named cause (and it is also required to bring with you and produce at the time and place aforesaid describe the documents or things to be produced). Witness (as in No. 28). Issued (as in No. 28). No. 31 Summons for examination within jurisdiction of witness before trial (Order 39 rule 1) (Heading as in cause or matter) Let all parties concerned attend His/Her Honour Judge/Master . . in chambers at the District Court in Hong Kong on . day the . day of . 20 . at . o’clock in the . noon on the hearing of an application on the part of . that A.B. a witness on behalf of the . be examined forthwith before a Judge, [the Registrar or Master] or one of the examiners of the Court upon the usual terms, and that the costs of this application be (costs in the cause). Dated the . day of . 20 . This summons was taken out by . of . solicitors for the . To the above-named . (and . his solicitors). No. 32 Order for examination within jurisdiction of witness before trial (Order 39 rule 1) (Heading as in cause or matter) On hearing (the solicitors on both sides) and on reading the affidavit of . filed herein the . day of . 20 . It is ordered that . a witness on behalf of the. be examined viva voce on oath or affirmation before (a Judge, or the Registrar or Master, or one of the examiners of the Court . Esq.), the plaintiff’s (or defendant’s) solicitor giving to the defendant’s (or plaintiff’s) solicitors . days’ notice in writing of the time and place where the examination is to take place (or state the time and place if fixed by the order). And it is ordered that the depositions taken at the examination be filed in the Registry of the District Court, and that office copies thereof may be read and given in evidence on the trial of this cause, saving all just exceptions, without any further proof of the absence of the said witness than the affidavit of the solicitor of the party using the same, as to his belief, and that the costs of this application (and of the examination) be (costs in the cause). Dated the . day of . 20 . No. 39 Default judgment in action for liquidated demand (Order 13 rule 1; Order 19 rule 2; Order 42 rule 1) (Heading as in action) The . day of . 20 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed). (The above costs have been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 20 .). No. 40 Default judgment in action for unliquidated damages (Order 13 rule 2; Order 19 rule 3; Order 42 rule 1) (Heading as in action) The . day of . 20 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff damages to be assessed. _ The amount found due to the plaintiff under this judgment having been certified at $ . as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 20 . It is adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39). (Note:-This form is a combined form of interlocutory and final judgment. The plaintiff may at his option enter interlocutory judgment by omitting the words below the line in the form and enter a separate final judgment in Form No. 43.) No. 41 Default judgment in action relating to detention of goods (Order 13 rule 3; Order 19 rule 4; Order 42 rule 1) (Heading as in action) The . day of . 20 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein. It is this day adjudged that the defendant do deliver to the plaintiff the goods described in the writ of summons (or statement of claim) as (description of goods) or pay the plaintiff the value of the said goods to be assessed (and also damages for their detention to be assessed). or It is this day adjudged that the defendant do pay the plaintiff the value of the goods described in the writ of summons (or statement of claim) to be assessed (and also damages for their detention to be assessed). _ The value of the said goods having been assessed at $ . (and damages at $ .) as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 20 . It is adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39). (Note:-See the note to No. 40.) No. 42 Default judgment in action for possession of land (Order 13 rule 4; Order 19 rule 5; Order 42 rule 1) (Heading as in action) The . day of . 20 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do give the plaintiff possession of the land described in the writ of summons (or statement of claim) as . and pay the plaintiff $ . costs (or costs to be taxed). The above costs, etc. (as in No. 39). No. 42A Order for possession (Order 113 rule 6) [Heading as in summons] Upon hearing . and upon reading the affidavit of . filed the . day of . 20 ., it is ordered that the plaintiff A.B. do recover possession of the land described in the originating summons as . [and that the defendant . do pay the plaintiff $ . costs [or costs to be taxed]]. The above costs have been taxed and allowed at $ . as appears by a taxing master’s certificate dated the . day of . 20 . Dated the . day of . 20 . No. 43 Final judgment after assessment of damages, etc. (Order 42 rule 1) (Heading as in action) The . day of . 20 . The plaintiff having on the . day of . 20 . obtained interlocutory judgment herein against the defendant for damages (or as may be) to be assessed, and the amount found due to the plaintiff having been certified at $ . as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 20 . It is this day adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39). No. 44 Judgment under Order 14 (Order 14 rule 3; Order 42 rule 1) (Heading as in action) The . day of . 20 . The defendant having given notice of intention to defend herein and the Court having under Order 14, rule 3 of the Rules of the District Court ordered that judgment as hereinafter provided be entered for the plaintiff against the defendant. It is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed) or pay the plaintiff damages to be assessed and costs to be taxed or deliver to the plaintiff the goods described in the writ of summons (or statement of claim) as . (or pay the plaintiff the value of the said goods to be assessed) (and also damages for their detention to be assessed) and costs to be taxed or give the plaintiff possession of the land described in the writ of summons (or statement of claims) as . and costs to be taxed. The above costs, etc. (as in No. 39). No. 45 Judgment after trial before judge (Order 42 rule 1) (Heading as in action) Dated and entered the . day of . 20 . This action having been tried before His/Her Honour Judge . at the District Court, Hong Kong, and the said Judge . having on the . day of . 20. ordered that judgment as hereinafter provided be entered for the plaintiff (or defendant) (and directed that execution be stayed for the period and on the terms hereinafter provided). It is adjudged that the defendant do pay the plaintiff $ . and his costs of action to be taxed (or that the plaintiff do pay the defendant his costs of defence to be taxed or as may be according to the judge’s order). (It is further adjudged that execution be stayed for . days or as may be.) The above costs, etc. (as in No. 39). No. 48 Judgment after decision of preliminary issue (Order 33 rule 7; Order 42 rule 1) (Heading as in cause or matter) Dated and entered the . day of . 20 . The issue (or question) arising in this cause (or matter) by the order dated the . day of . 20 . ordered to be tried before . .having on the . day of . 20 . been tried before the said . and the said . having found . and having ordered that judgment as hereinafter provided be entered for the .
+- 3.
 
-- .(or having dismissed the cause or matter). It is adjudged that (the defendant do pay the plaintiff $ . and his costs of action to be taxed) (the plaintiff do pay the defendant his costs of defence to be taxed) or as may be according to the order made. No. 49 Judgment for liquidated sum against personal representative (Order 42 rule 1) (Heading as in action ) Dated and entered the . day of . 20 . (Recital as in No. 39, 43-45, or 48 according to the circumstances in which judgment was obtained). It is adjudged that the defendant as executor (or administrator) of the above named . deceased do pay the plaintiff $ . and costs to be taxed, the said sum and costs to be levied of the real and personal estate of the deceased at the time of his death come to the hands of the defendant as such executor (or administrator) to be administered, if he has or shall hereafter have so much thereof in his hands to be administered, and if he has not so much thereof in his hands to be administered, then, as to the costs aforesaid, to be levied of the goods, chattels and other property of the defendant authorized by law to be seized in execution (or as may be according to the order made). The above costs, etc. (as in No. 39). No. 50 Judgment for defendant’s costs on discontinuance (Order 62 rule 10(1)) (Heading as in action) The . day of . 20 . The plaintiff having by a notice in writing dated the . day of . 20 ., discontinued this action (or withdrawn his claim in this action for . .) and the defendant’s costs of the action (or of the claim withdrawn) having been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 20 ., and the plaintiff not having paid the sum within 4 days after taxation. It is this day adjudged that the plaintiff do pay the defendant $ . the said taxed costs. No. 51 Judgment for costs after acceptance of money paid into court (Order 62 rule 10(3)) (Heading as in action) The . day of . 20 . The defendant having paid into court in this action the sum of $ . in satisfaction of the plaintiff’s cause(s) of action (or in satisfaction of the plaintiff’s cause of action for .), and the plaintiff having by his notice dated the . day of . 20 . accepted that sum in satisfaction of his cause(s) of action (or in satisfaction of his cause of action for . and abandoned his other cause(s) of action), and the plaintiff’s costs herein having been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 20 ., and the defendant not having paid the sum within 48 hours after taxation. It is this day adjudged that the defendant do pay the plaintiff $ . the said taxed costs. No. 52 Notice of judgment or order (Order 44 rule 2) (Heading as in cause or matter) Take notice that a judgment (or order) of this Court was given (or made) on the . day of . 20 . by which it was (state substance of judgment or order). And also take notice that from the time of the service of this notice you (or the infant . or the patient . as may be) will be bound by the said judgment (or order) to the same extent as you (or he) would have been if you (or he) had originally been made a party. And also take notice that you (or the said infant or patient) may within one month after the service of this notice apply to the Court to discharge, vary or add to the said judgment (or order) and that after acknowledging service of this notice at the Registry of the District Court, you (or the said infant or patient) may attend the proceedings under the said judgment (or order). Dated the . day of . 20 . To . (Signed) . No. 53 Writ of fieri facias (Order 45 rule 12) (Heading as in action) To the bailiff . : Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do pay the plaintiff A.B. $ . (and $ . costs or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 20 .): It is required that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment (together with bailiff’s fees, costs of levying and all other legal, incidental expenses) and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest. And it is also required that you indorse on this writ immediately after execution thereof a statement of the manner in which you have executed it and send a copy of the statement to A.B. Witness . Chief Justice of the Court of Final Appeal of the Hong Kong Special Administrative Region, the . day of . 20 . This writ was issued by . of . solicitors for . the . (or this writ was issued by A.B. (the plaintiff) in person who resides at .). No. 54 Writ of fieri facias on order for costs (Order 45 rule 12) (Heading as in cause or matter) To the bailiff . : Whereas in the above named cause (or matter) it was on the . day of . 20 . ordered that the . C.D. do pay the . A.B. costs to be taxed, which costs have been taxed and allowed at $ . as appears by the taxing officer’s certificate dated the . day of . 20 . : It is required that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sum of $ . and $ . for costs of execution, and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment together with bailiff’s fees, cost of levying and all other legal, incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said order the amount levied in respect of the said sum and interest. And it is also required (as in No. 53). Witness (as in No. 53). This writ (as in No. 53). No. 56 Writ of fieri facias after levy of part (Order 45 rule 12) (Heading as in action) To the bailiff . : Whereas (as in No. 53). And whereas by our writ issued the . day of . 20 . it is required that of the goods, chattels and other property of C.D. you should cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at . per cent per annum from the . day of . 20 . until payment and should pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest and should indorse on the writ a statement of the manner in which you had executed it and send a copy of the statement to A.B. And whereas the indorsement on the said writ states that by virture thereof you (or he) caused to be made of the property aforesaid the sum of $ . It is required that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sum of $ ., the residue of the said $ ., and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment (continue as in No. 53). And it is also required (as in No. 53). Witness (as in No. 53). This writ (as in No. 53). No. 57 Writ of fieri facias against personal representative (Order 45 rule 12) (Heading as in action) To the bailiff . : Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. as executor (or administrator) of E.F. deceased do pay the plaintiff A.B. $ . and $ . costs (or costs to be taxed which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 20 .), the said sums and interest to be levied of the real and personal estate of the said E.F. at the time of his death in the hands of the defendant C.D. as his executor (or administrator) to be administered, if he had or should thereafter have so much thereof in his hands to be administered, (and if he had not, then the said costs to be levied of the goods, chattels and other property of the defendant C.D. authorized by law to be seized in execution): It is required that of the real and personal estate of E.F. deceased, at the time of his death, which is in the hands of C.D. as his executor (or administrator) to be administered you cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment (together with bailiff’s fees, cost of levying and all other legal, incidental expenses) (and if the said C.D. has not so much thereof in his hands to be administered that you cause to be made of the goods, chattels and other property of C.D. authorized by law to be seized in execution the sum of $ . for costs) and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest. And it is also required (remainder as in No. 53). Witness (as in No. 53). This writ (as in No. 53). No. 64 Writ of delivery: delivery of goods, damages and costs (Order 45 rule 12) (Heading as in action) To the bailiff . : Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do deliver to the plaintiff A.B. the following goods, namely (describe the goods delivery of which has been adjudged or ordered ) (and $ . damages) and $ . costs (or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 20 .): It is required that you cause the said goods to be delivered to A.B. and that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment together with bailiff’s fees, costs of levying and all other legal, incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest. And it is also required that you indorse (remainder as in No. 53). Witness (as in No. 53). This writ (as in No. 53). No. 65 Writ of delivery: delivery of goods or value, damages, costs (Order 45 rule 12) (Heading as in action) To the bailiff . : Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do deliver to the plaintiff A.B. the following goods, namely (describe the goods delivery of which has been adjudged or ordered) or do pay him $ . being the assessed value of the said goods, (and $ . damages) and $ . costs (or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 20 .): It is required that you cause the said goods to be delivered to A.B. and that if possession of the said goods cannot be obtained by you you cause to be made of the goods, chattels and other property of C.D. authorized by law to be seized in execution $ . the assessed value of the said goods and pay it to A.B. And it is also required that of the said property of C.D. you cause to be made the sums of $ . for (damages and) costs and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment together with bailiff’s fees, costs of levying and all other legal, incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest. And it is also required that you indorse (remainder as in No. 53). Witness (as in No. 53). This writ (as in No. 53). No. 66 Writ of possession (Order 45 rule 12) (Heading as in action) To the bailiff . : Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do give the plaintiff A.B. possession of (describe the land delivery of which has been adjudged or ordered ) and do pay him ($ . and) $ . costs (or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the taxing officer’s certificate dated the . day of . 20 .): It is required that you enter the said land and cause A.B. to have possession of it. And it is also required that of the goods, chattels and other property (remainder as in No. 53). And it is also required that you indorse (as in No. 53). Witness (as in No. 53). This writ (as in No. 53). No. 66A Writ of possession (Order 45 rule 12; Order 113 rule 7) (Heading as in summons) To the bailiff . : Whereas it was on the . day of . 20 . ordered that the plaintiff A.B. do recover possession of [describe the land recovery of which has been ordered] [and that the defendant C.D. do pay him $ . costs [or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the taxing master’s certificate dated the . day of . 20 .]]: It is required that you enter the said land and cause A.B. to have possession of it. [And it is also required that of the goods, chattels and other property [remainder as in No. 53].] Witness (as in No. 53). This writ (as in No. 53). Dated this . day of . 20 . No. 67 Writ of sequestration (Order 45 rule 12) (Heading as in cause or matter) To (names of not less than four commissioners) : Whereas in the above named action (or matter) in our District Court, Hong Kong, it was on the . day of . 20 . adjudged (or ordered) that C.D. should (pay into court the sum of $ . or as may be): You are hereby authorized and directed by this writ that you, or any two or three of you, may enter upon and take possession of all the real and personal estate of the said C.D. and may collect, receive and get into your hands the rents and profits of his real estate and all his personal estate and keep the same under sequestration in your hands until the said C.D. shall (pay into court to the credit of the said action or matter the sum of $ . or as may be) and clear his contempt and the said Court make other order to the contrary. Witness (as in No. 53). This writ was issued (as in No. 53). No. 68 Writ of restitution (Order 46 rule 1) (Heading as in action) To the bailiff . : Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do give the plaintiff A.B. possession of (describe the land delivery of which was adjudged or ordered): And whereas on the . day of . 20 . a writ of possession was issued pursuant to the said judgment (or order) directing you to give possession of the said land to the said A.B., but it appearing to the District Court, Hong Kong that certain other persons have wrongfully taken possession of the said land and the said Court having on the . day of . 20 . ordered that a writ of restitution should issue in respect of the said land: It is required that you enter the said land and cause A.B. to have restitution thereof. And it is also required that you indorse (remainder as in No. 53). Witness (as in No. 53). This writ (as in No. 53). No. 69 Writ of assistance (Order 46 rule 1) (Heading as in action) To the present and any future bailiff . : Whereas by an order dated the . day of . 20 . made in an action in the District Court, Hong Kong between A.B., plaintiff, and C.D., defendant, the said C.D. was ordered to give to the said A.B. possession of the goods therein described, namely (describe the goods), but he the said C.D. and other persons have refused to obey the order and keep the possession of the goods in contempt of the said Court: And whereas by an order made in the said action dated the . day of . 20 . it was ordered that a writ of assistance should issue to give the said A.B. possession of the said goods: It is required that you put the said A.B. and his assigns into full peaceable and quiet possession of the said goods and defend and keep him and his assigns in such peaceable and quiet possession, when and as often as any interruption thereof is at any time effected, according to the intent of the said orders. And herein you are not in any wise to fail. Witness (as in No. 53). This writ (as in No. 53). No. 71 Notice of renewal of writ of execution (Order 46 rule 8) (Heading as in cause or matter) Take notice that the writ of . issued in this cause (or matter) directed to the bailiff and bearing date the . day of . 20 . has by order dated the . day of . 20 . been renewed for one year beginning with the date of the said order. To the bailiff. (Signed) Solicitors for . No. 72 Garnishee order to show cause (Order 49 rule 1) 20 ., No. . IN THE DISTRICT COURT OF THE
+- The statements made by me in paragraph 5 of the said list are true to the best of my knowledge, information and belief. Sworn, etc. This affidavit is filed on behalf of the plaintiff (or defendant).
+
+- No. 28 Writ of subpoena (Order 38 rule 14) (Heading as in cause or matter)
+
+- To (names of witnesses). You are required to attend (at the District Court in Hong Kong at the sittings of our District Court) on the day fixed for the trial of the above-named cause, notice of which will be given to you, and from day to day thereafter until the end of the trial, to give evidence on behalf of the (plaintiff) or (defendant)*. Witness . Chief Justice of the Court of Final Appeal of the Hong Kong Special Administrative Region, the . day of . 20 . Issued on the . day of . 20 . by . solicitors for the . *If duces tecum add: And it is also required to bring with you and produce at the place aforesaid on the day notified to you (here describe the documents or things to be produced).
+
+- No. 29 Writ of subpoena: proceedings in chambers (Order 38 rule 14) (Heading as in cause or matter)
+
+- To (names of witnesses). You are required to attend before His/Her Honour Judge/Master .
+
+- . in chambers, at the District Court in Hong Kong on . day, the . day of . 20 . at . o’clock in the . noon and so from day to day until your evidence shall have been taken, to give evidence on behalf of the (plaintiff) or (defendant) in the above-named cause (and it is also required to bring with you and produce at the time and place aforesaid describe the documents or things to be produced). Witness (as in No. 28). Issued (as in No. 28).
+
+- No. 31 Summons for examination within jurisdiction of witness before trial (Order 39 rule 1) (Heading as in cause or matter)
+
+- Let all parties concerned attend His/Her Honour Judge/Master .
+
+- . in chambers at the District Court in Hong Kong on . day the . day of . 20 . at . o’clock in the . noon on the hearing of an application on the part of . that A.B. a witness on behalf of the . be examined forthwith before a Judge, [the Registrar or Master] or one of the examiners of the Court upon the usual terms, and that the costs of this application be (costs in the cause). Dated the . day of . 20 . This summons was taken out by . of . solicitors for the . To the above-named . (and . his solicitors).
+
+- No. 32 Order for examination within jurisdiction of witness before trial (Order 39 rule 1) (Heading as in cause or matter)
+
+- On hearing (the solicitors on both sides) and on reading the affidavit of . filed herein the . day of . 20 . It is ordered that . a witness on behalf of the. be examined viva voce on oath or affirmation before (a Judge, or the Registrar or Master, or one of the examiners of the Court . Esq.), the plaintiff’s (or defendant’s) solicitor giving to the defendant’s (or plaintiff’s) solicitors . days’ notice in writing of the time and place where the examination is to take place (or state the time and place if fixed by the order). And it is ordered that the depositions taken at the examination be filed in the Registry of the District Court, and that office copies thereof may be read and given in evidence on the trial of this cause, saving all just exceptions, without any further proof of the absence of the said witness than the affidavit of the solicitor of the party using the same, as to his belief, and that the costs of this application (and of the examination) be (costs in the cause). Dated the . day of . 20 .
+
+- No. 39 Default judgment in action for liquidated demand (Order 13 rule 1; Order 19 rule 2; Order 42 rule 1) (Heading as in action)
+
+- The . day of . 20 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed). (The above costs have been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 20 .).
+
+- No. 40 Default judgment in action for unliquidated damages (Order 13 rule 2; Order 19 rule 3; Order 42 rule 1) (Heading as in action)
+
+- The . day of . 20 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do pay the plaintiff damages to be assessed.
+
+- _ The amount found due to the plaintiff under this judgment having been certified at $ . as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 20 . It is adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39). (Note:-This form is a combined form of interlocutory and final judgment. The plaintiff may at his option enter interlocutory judgment by omitting the words below the line in the form and enter a separate final judgment in Form No. 43.)
+
+- No. 41 Default judgment in action relating to detention of goods (Order 13 rule 3; Order 19 rule 4; Order 42 rule 1) (Heading as in action)
+
+- The . day of . 20 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein. It is this day adjudged that the defendant do deliver to the plaintiff the goods described in the writ of summons (or statement of claim) as (description of goods) or pay the plaintiff the value of the said goods to be assessed (and also damages for their detention to be assessed).
+
+- or
+
+- It is this day adjudged that the defendant do pay the plaintiff the value of the goods described in the writ of summons (or statement of claim) to be assessed (and also damages for their detention to be assessed).
+
+- _ The value of the said goods having been assessed at $ . (and damages at $ .) as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 20 . It is adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39). (Note:-See the note to No. 40.)
+
+- No. 42 Default judgment in action for possession of land (Order 13 rule 4; Order 19 rule 5; Order 42 rule 1) (Heading as in action)
+
+- The . day of . 20 . No notice of intention to defend having been given (or no defence having been served) by the defendant herein, it is this day adjudged that the defendant do give the plaintiff possession of the land described in the writ of summons (or statement of claim) as . and pay the plaintiff $ . costs (or costs to be taxed). The above costs, etc. (as in No. 39).
+
+- No. 42A Order for possession (Order 113 rule 6) [Heading as in summons]
+
+- Upon hearing . and upon reading the affidavit of . filed the . day of . 20 ., it is ordered that the plaintiff A.B. do recover possession of the land described in the originating summons as . [and that the defendant . do pay the plaintiff $ . costs [or costs to be taxed]]. The above costs have been taxed and allowed at $ . as appears by a taxing master’s certificate dated the . day of . 20 . Dated the . day of . 20 .
+
+- No. 43 Final judgment after assessment of damages, etc. (Order 42 rule 1) (Heading as in action)
+
+- The . day of . 20 . The plaintiff having on the . day of . 20 . obtained interlocutory judgment herein against the defendant for damages (or as may be) to be assessed, and the amount found due to the plaintiff having been certified at $ . as appears by the (Judge’s or Registrar’s certificate or as may be) filed the . day of . 20 . It is this day adjudged that the defendant do pay the plaintiff $ . and costs to be taxed. The above costs, etc. (as in No. 39).
+
+- No. 44 Judgment under Order 14 (Order 14 rule 3; Order 42 rule 1) (Heading as in action)
+
+- The . day of . 20 . The defendant having given notice of intention to defend herein and the Court having under Order 14, rule 3 of the Rules of the District Court ordered that judgment as hereinafter provided be entered for the plaintiff against the defendant. It is this day adjudged that the defendant do pay the plaintiff $ . and $ . costs (or costs to be taxed)
+
+- or
+
+- pay the plaintiff damages to be assessed and costs to be taxed
+
+- or
+
+- deliver to the plaintiff the goods described in the writ of summons (or statement of claim) as . (or pay the plaintiff the value of the said goods to be assessed) (and also damages for their detention to be assessed) and costs to be taxed
+
+- or
+
+- give the plaintiff possession of the land described in the writ of summons (or statement of claims) as . and costs to be taxed. The above costs, etc. (as in No. 39).
+
+- No. 45 Judgment after trial before judge (Order 42 rule 1) (Heading as in action)
+
+- Dated and entered the . day of . 20 . This action having been tried before His/Her Honour Judge . at the District Court, Hong Kong, and the said Judge . having on the . day of . 20. ordered that judgment as hereinafter provided be entered for the plaintiff (or defendant) (and directed that execution be stayed for the period and on the terms hereinafter provided). It is adjudged that the defendant do pay the plaintiff $ . and his costs of action to be taxed (or that the plaintiff do pay the defendant his costs of defence to be taxed or as may be according to the judge’s order). (It is further adjudged that execution be stayed for . days or as may be.) The above costs, etc. (as in No. 39).
+
+- No. 48 Judgment after decision of preliminary issue (Order 33 rule 7; Order 42 rule 1) (Heading as in cause or matter)
+
+- Dated and entered the . day of . 20 . The issue (or question) arising in this cause (or matter) by the order dated the . day of . 20 . ordered to be tried before .
+
+- .having on the . day of . 20 . been tried before the said . and the said . having found . and having ordered that judgment as hereinafter provided be entered for the .
+
+- .(or having dismissed the cause or matter). It is adjudged that (the defendant do pay the plaintiff $ . and his costs of action to be taxed) (the plaintiff do pay the defendant his costs of defence to be taxed) or as may be according to the order made.
+
+- No. 49 Judgment for liquidated sum against personal representative (Order 42 rule 1) (Heading as in action )
+
+- Dated and entered the . day of . 20 . (Recital as in No. 39, 43-45, or 48 according to the circumstances in which judgment was obtained). It is adjudged that the defendant as executor (or administrator) of the above named . deceased do pay the plaintiff $ . and costs to be taxed, the said sum and costs to be levied of the real and personal estate of the deceased at the time of his death come to the hands of the defendant as such executor (or administrator) to be administered, if he has or shall hereafter have so much thereof in his hands to be administered, and if he has not so much thereof in his hands to be administered, then, as to the costs aforesaid, to be levied of the goods, chattels and other property of the defendant authorized by law to be seized in execution (or as may be according to the order made). The above costs, etc. (as in No. 39).
+
+- No. 50 Judgment for defendant’s costs on discontinuance (Order 62 rule 10(1)) (Heading as in action)
+
+- The . day of . 20 . The plaintiff having by a notice in writing dated the . day of . 20 ., discontinued this action (or withdrawn his claim in this action for .
+
+- .) and the defendant’s costs of the action (or of the claim withdrawn) having been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 20 ., and the plaintiff not having paid the sum within 4 days after taxation. It is this day adjudged that the plaintiff do pay the defendant $ . the said taxed costs.
+
+- No. 51 Judgment for costs after acceptance of money paid into court (Order 62 rule 10(3)) (Heading as in action)
+
+- The . day of . 20 . The defendant having paid into court in this action the sum of $ . in satisfaction of the plaintiff’s cause(s) of action (or in satisfaction of the plaintiff’s cause of action for .), and the plaintiff having by his notice dated the . day of . 20 . accepted that sum in satisfaction of his cause(s) of action (or in satisfaction of his cause of action for . and abandoned his other cause(s) of action), and the plaintiff’s costs herein having been taxed and allowed at $ . as appears by a taxing officer’s certificate dated the . day of . 20 ., and the defendant not having paid the sum within 48 hours after taxation. It is this day adjudged that the defendant do pay the plaintiff $ . the said taxed costs.
+
+- No. 52 Notice of judgment or order (Order 44 rule 2) (Heading as in cause or matter)
+
+- Take notice that a judgment (or order) of this Court was given (or made) on the . day of . 20 . by which it was (state substance of judgment or order). And also take notice that from the time of the service of this notice you (or the infant . or the patient . as may be) will be bound by the said judgment (or order) to the same extent as you (or he) would have been if you (or he) had originally been made a party. And also take notice that you (or the said infant or patient) may within one month after the service of this notice apply to the Court to discharge, vary or add to the said judgment (or order) and that after acknowledging service of this notice at the Registry of the District Court, you (or the said infant or patient) may attend the proceedings under the said judgment (or order). Dated the . day of . 20 .
+
+- To .
+
+- (Signed) .
+
+- No. 53 Writ of fieri facias (Order 45 rule 12) (Heading as in action)
+
+- To the bailiff . :
+
+- Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do pay the plaintiff A.B. $ . (and $ . costs or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 20 .):
+
+- It is required that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment (together with bailiff’s fees, costs of levying and all other legal, incidental expenses) and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
+
+- And it is also required that you indorse on this writ immediately after execution thereof a statement of the manner in which you have executed it and send a copy of the statement to A.B.
+
+- Witness . Chief Justice of the Court of Final Appeal of the Hong Kong Special Administrative Region, the . day of . 20 .
+
+- This writ was issued by . of . solicitors for . the . (or this writ was issued by A.B. (the plaintiff) in person who resides at .).
+
+- No. 54 Writ of fieri facias on order for costs (Order 45 rule 12) (Heading as in cause or matter)
+
+- To the bailiff . :
+
+- Whereas in the above named cause (or matter) it was on the . day of . 20 . ordered that the . C.D. do pay the . A.B. costs to be taxed, which costs have been taxed and allowed at $ . as appears by the taxing officer’s certificate dated the . day of . 20 . :
+
+- It is required that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sum of $ . and $ . for costs of execution, and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment together with bailiff’s fees, cost of levying and all other legal, incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said order the amount levied in respect of the said sum and interest.
+
+- And it is also required (as in No. 53).
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- No. 56 Writ of fieri facias after levy of part (Order 45 rule 12) (Heading as in action)
+
+- To the bailiff . :
+
+- Whereas (as in No. 53).
+
+- And whereas by our writ issued the . day of . 20 . it is required that of the goods, chattels and other property of C.D. you should cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at . per cent per annum from the . day of . 20 . until payment and should pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest and should indorse on the writ a statement of the manner in which you had executed it and send a copy of the statement to A.B.
+
+- And whereas the indorsement on the said writ states that by virture thereof you (or he) caused to be made of the property aforesaid the sum of $ .
+
+- It is required that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sum of $ ., the residue of the said $ ., and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment (continue as in No. 53).
+
+- And it is also required (as in No. 53).
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- No. 57 Writ of fieri facias against personal representative (Order 45 rule 12) (Heading as in action)
+
+- To the bailiff . :
+
+- Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. as executor (or administrator) of E.F. deceased do pay the plaintiff A.B. $ . and $ . costs (or costs to be taxed which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 20 .), the said sums and interest to be levied of the real and personal estate of the said E.F. at the time of his death in the hands of the defendant C.D. as his executor (or administrator) to be administered, if he had or should thereafter have so much thereof in his hands to be administered, (and if he had not, then the said costs to be levied of the goods, chattels and other property of the defendant C.D. authorized by law to be seized in execution):
+
+- It is required that of the real and personal estate of E.F. deceased, at the time of his death, which is in the hands of C.D. as his executor (or administrator) to be administered you cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment (together with bailiff’s fees, cost of levying and all other legal, incidental expenses) (and if the said C.D. has not so much thereof in his hands to be administered that you cause to be made of the goods, chattels and other property of C.D. authorized by law to be seized in execution the sum of $ . for costs) and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
+
+- And it is also required (remainder as in No. 53).
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- No. 64 Writ of delivery: delivery of goods, damages and costs (Order 45 rule 12) (Heading as in action)
+
+- To the bailiff . :
+
+- Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do deliver to the plaintiff A.B. the following goods, namely (describe the goods delivery of which has been adjudged or ordered ) (and $ . damages) and $ . costs (or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 20 .):
+
+- It is required that you cause the said goods to be delivered to A.B. and that of the goods, chattels and other property of C.D. authorized by law to be seized in execution you cause to be made the sums of $ . and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment together with bailiff’s fees, costs of levying and all other legal, incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
+
+- And it is also required that you indorse (remainder as in No. 53).
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- No. 65 Writ of delivery: delivery of goods or value, damages, costs (Order 45 rule 12) (Heading as in action)
+
+- To the bailiff . :
+
+- Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do deliver to the plaintiff A.B. the following goods, namely (describe the goods delivery of which has been adjudged or ordered) or do pay him $ . being the assessed value of the said goods, (and $ . damages) and $ . costs (or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the certificate of the taxing officer dated the . day of . 20 .):
+
+- It is required that you cause the said goods to be delivered to A.B. and that if possession of the said goods cannot be obtained by you you cause to be made of the goods, chattels and other property of C.D. authorized by law to be seized in execution $ . the assessed value of the said goods and pay it to A.B.
+
+- And it is also required that of the said property of C.D. you cause to be made the sums of $ . for (damages and) costs and $ . for costs of execution and also interest on $ . at the rate of . per cent per annum from the . day of . 20 . until payment together with bailiff’s fees, costs of levying and all other legal, incidental expenses and that immediately after execution of this writ you pay A.B. in pursuance of the said judgment (or order) the amount levied in respect of the said sums and interest.
+
+- And it is also required that you indorse (remainder as in No. 53).
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- No. 66 Writ of possession (Order 45 rule 12) (Heading as in action)
+
+- To the bailiff . :
+
+- Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do give the plaintiff A.B. possession of (describe the land delivery of which has been adjudged or ordered ) and do pay him ($ . and) $ . costs (or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the taxing officer’s certificate dated the . day of . 20 .):
+
+- It is required that you enter the said land and cause A.B. to have possession of it.
+
+- And it is also required that of the goods, chattels and other property (remainder as in No. 53).
+
+- And it is also required that you indorse (as in No. 53).
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- No. 66A Writ of possession (Order 45 rule 12; Order 113 rule 7) (Heading as in summons)
+
+- To the bailiff . :
+
+- Whereas it was on the . day of . 20 . ordered that the plaintiff A.B. do recover possession of [describe the land recovery of which has been ordered] [and that the defendant C.D. do pay him $ . costs [or costs to be taxed, which costs have been taxed and allowed at $ . as appears by the taxing master’s certificate dated the . day of . 20 .]]:
+
+- It is required that you enter the said land and cause A.B. to have possession of it.
+
+- [And it is also required that of the goods, chattels and other property [remainder as in No. 53].]
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- Dated this . day of . 20 .
+
+- No. 67 Writ of sequestration (Order 45 rule 12) (Heading as in cause or matter)
+
+- To (names of not less than four commissioners) :
+
+- Whereas in the above named action (or matter) in our District Court, Hong Kong, it was on the . day of . 20 . adjudged (or ordered) that C.D. should (pay into court the sum of $ . or as may be):
+
+- You are hereby authorized and directed by this writ that you, or any two or three of you, may enter upon and take possession of all the real and personal estate of the said C.D. and may collect, receive and get into your hands the rents and profits of his real estate and all his personal estate and keep the same under sequestration in your hands until the said C.D. shall (pay into court to the credit of the said action or matter the sum of $ . or as may be) and clear his contempt and the said Court make other order to the contrary.
+
+- Witness (as in No. 53).
+
+- This writ was issued (as in No. 53).
+
+- No. 68 Writ of restitution (Order 46 rule 1) (Heading as in action)
+
+- To the bailiff . :
+
+- Whereas in the above named action it was on the . day of . 20 . adjudged (or ordered) that the defendant C.D. do give the plaintiff A.B. possession of (describe the land delivery of which was adjudged or ordered):
+
+- And whereas on the . day of . 20 . a writ of possession was issued pursuant to the said judgment (or order) directing you to give possession of the said land to the said A.B., but it appearing to the District Court, Hong Kong that certain other persons have wrongfully taken possession of the said land and the said Court having on the . day of . 20 . ordered that a writ of restitution should issue in respect of the said land:
+
+- It is required that you enter the said land and cause A.B. to have restitution thereof.
+
+- And it is also required that you indorse (remainder as in No. 53).
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- No. 69 Writ of assistance (Order 46 rule 1) (Heading as in action)
+
+- To the present and any future bailiff . :
+
+- Whereas by an order dated the . day of . 20 . made in an action in the District Court, Hong Kong between A.B., plaintiff, and C.D., defendant, the said C.D. was ordered to give to the said A.B. possession of the goods therein described, namely (describe the goods), but he the said C.D. and other persons have refused to obey the order and keep the possession of the goods in contempt of the said Court:
+
+- And whereas by an order made in the said action dated the . day of . 20 . it was ordered that a writ of assistance should issue to give the said A.B. possession of the said goods:
+
+- It is required that you put the said A.B. and his assigns into full peaceable and quiet possession of the said goods and defend and keep him and his assigns in such peaceable and quiet possession, when and as often as any interruption thereof is at any time effected, according to the intent of the said orders. And herein you are not in any wise to fail.
+
+- Witness (as in No. 53).
+
+- This writ (as in No. 53).
+
+- No. 71 Notice of renewal of writ of execution (Order 46 rule 8) (Heading as in cause or matter)
+
+- Take notice that the writ of . issued in this cause (or matter) directed to the bailiff and bearing date the . day of . 20 . has by order dated the . day of . 20 . been renewed for one year beginning with the date of the said order. To the bailiff.
+
+- (Signed)
+
+- Solicitors for .
+
+- No. 72 Garnishee order to show cause (Order 49 rule 1)
+
+- 20 ., No. .
+
+- IN THE DISTRICT COURT OF THE
 
 - HONG KONG SPECIAL ADMINISTRATIVE REGION NO. . OF 20 . (His/Her Honour Judge/Master . in chambers)
 
@@ -322,11 +594,175 @@ If a Statement of Claim is indorsed on the Writ (i.e. the words “Statement of 
 
 - F.G. | Garnishee
 
-- Upon reading the affidavit of . filed the . day of . 20 .: It is ordered by (His/Her Honour Judge/Master .) that all debts due or accruing due from the above-mentioned garnishee to the above-mentioned judgment debtor (in the sum of $ .) be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the District Court on the . day of . 20 . for the sum (or to answer an order made in the District Court on the . day of . 20 .; ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remains due and unpaid. And it is ordered that the said garnishee attend His/Her Honour Judge/Master . in Chambers, at the District Court, in Hong Kong on the . day of . 20 . at . o’clock in the . noon, on an application by the said judgment creditor that the garnishee do pay to the said judgment creditor the debt due from the said garnishee to the said judgment debtor, or so much thereof as may be sufficient to satisfy the said judgment (or order), together with the costs of the garnishee proceedings. Dated the . day of . 20 . To the above-named garnishee and judgment debtor. No. 73 Garnishee order absolute where garnishee owes more than judgment debt (Order 49 rule 1) (Heading as in No. 72) Upon hearing the solicitors for the judgment creditor and the garnishee, and upon reading the affidavit of . filed herein, and the order to show cause made herein dated the . day of . 20 ., whereby it was ordered that all debts due or accruing due from the above-named garnishee to the above-named judgment debtor should be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the District Court on the . day of . 20 . for the sum (or to answer an order made in the District Court dated the . day of . 20 . ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remained due and unpaid: It is ordered that the said garnishee do forthwith pay to the said judgment creditor $ . being so much of the debt from the said garnishee to the said judgment debtor as is sufficient to satisfy the said judgment debt and costs, together with $ . the costs of the garnishee proceedings, and that the said garnishee be at liberty to retain $ . for his costs of this application out of the balance of the debt due from him to the judgment debtor. Dated the . day of . 20 . No. 74 Garnishee order absolute where garnishee owes less than judgment debt (Order 49 rule 1) (Heading as in No. 72) Upon hearing (as in No. 73). It is ordered that the said garnishee (after deducting therefrom $ . for his costs of this application) do forthwith pay to the said judgment creditor $ . the debt due from the said garnishee to the said judgment debtor. And that the sum of $ . the costs of the judgment creditor of this application be added to the judgment debt and be retained out of the money recovered by the said judgment creditor under this order and in priority to the amount of the judgment debt. Dated the . day of . 20 . No. 75 Charging order: notice to show cause (Order 50 rule 1) (Heading as in cause or matter) Upon hearing the . and upon reading the affidavit of . filed herein the . day of . 20 . whereby it appears that by a judgment (or order) made in the District Court on the . day of . 20 . the defendant was ordered to pay to the plaintiff the sum of $ . and $ . costs on which judgment (or order) the sum of $ . remains due and unpaid and that the defendant has a beneficial interest in the asset specified in the schedule hereto: It is ordered by (His/Her Honour Judge/Master .) that unless sufficient cause to the contrary be shown before (His/Her Honour Judge/Master .) at the District Court of the Hong Kong Special Administrative Region, (Wan Chai Law Courts, Wan Chai Tower, No. 12, Harbour Road, Wan Chai, Hong Kong) on the . day of . 20 ., at . o’clock in the . noon, the defendant’s interest in the said asset shall, and it is ordered that in the meantime it do, stand charged with the payment of $ . due on the said judgment (or order) and (interest thereon at the statutory rate) together with the costs of this application. Dated the . day of . 20 . SCHEDULE (Describe with full particulars the relevant land, securities, funds or trust, stating, in relation to securities, their full title, the amount of them and the name in which they stand and whether the beneficial interest charged is in the securities only or in dividends or interest as well, and stating, in relation to funds in court, the number of the account). No. 76 Charging order absolute (Order 50 rule 3) (Heading as in cause or matter) Upon hearing the . and upon reading the affidavits of . and . filed herein the . day of . 20 . and the order to show cause made herein on the . day of . 20 .: It is ordered that the interest of the defendant C.D. in the asset specified in the schedule hereto stand charged with the payment of $ ., the amount due from the defendant to the plaintiff A.B. on a judgment (or order) of the District Court dated the . day of . 20 ., and (interest thereon at the statutory rate) together with $ . the costs of this application, the said costs to be added to the judgment debt. Dated the . day of . 20 . SCHEDULE (Describe with full particulars the relevant land, securities, funds or trust, stating, in relation to securities, their full title, the amount of them and the name in which they stand and whether the beneficial interest charged is in the securities only or in dividends or interest as well, and stating, in relation to funds in court, the number of the account). STOP NOTICE To the (describe the person having custody of the security) Take notice that, in relation to the securities specified in the schedule to this order, you may not, without notice to (name of the plaintiff) at (his address for service) register any transfer, or make any redemption payment, or, in the case of a unit trust, deal with the units, or, where dividends or interest are included in the order, pay any dividend or interest. SCHEDULE No. 79 Stop order on capital and income of funds in court (Order 50 rule 10) (Heading as in cause or matter) Upon hearing . for the plaintiff A.B. and . for the defendant C.D. and upon reading the affidavit of . filed herein the . day of . 20 .: It is ordered that no part of the capital of (describe funds) in court to the credit of this action (or matter) (state title of action or matter), the account of C.D., and of the sum of $ . cash (being income) in court to the same credit, and of any interest or dividends to accrue due on the said funds in court, to which the said C.D. is (or may become) entitled, be transferred, sold, paid or otherwise dealt with without notice to the said A.B. Dated the . day of . 20 . No. 80 Affidavit and notice under Order 50 rule 11 (Order 50 rule 11) IN THE DISTRICT COURT OF THE
+- Upon reading the affidavit of . filed the . day of . 20 .:
 
-- HONG KONG SPECIAL ADMINISTRATIVE REGION In the matter of (state the settlement or other document under which the deponent’s interest arises giving the date and other particulars sufficient to identify the document). and In the matter of Order 50, rule 11 of the Rules of the District Court. I, A.B. (or C.D. the solicitor of A.B.) of . make oath and say that according to the best of my knowledge, information and belief I am (or the said A.B. is) beneficially entitled under the above-mentioned settlement (or as may be) to an interest in the securities specified in the notice hereto annexed. Sworn, etc. . This affidavit is filed on behalf of A.B. whose address is . Notice to be annexed to affidavit To . Co. Ltd. Take notice that the securities comprised in and subject to the trusts of the settlement (or as may be) referred to in the affidavit to which this notice is annexed consist of the following, namely (specify the stock, shares, etc. stating the names in which it stands). This notice is intended to stop the transfer of the said securities and not the payment of any dividend thereof or interest thereon (or and also the payment of any dividend thereof or interest thereon). (Signed) A.B. (or C.D. if affidavit sworn by him) No. 81 Order on originating summons restraining transfer of stock, etc. (Order 50 rule 15) 20 ., No. . IN THE DISTRICT COURT OF THE
+- It is ordered by (His/Her Honour Judge/Master .) that all debts due or accruing due from the above-mentioned garnishee to the above-mentioned judgment debtor (in the sum of $ .) be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the District Court on the . day of . 20 . for the sum (or to answer an order made in the District Court on the . day of . 20 .; ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) and interest at the judgment rate calculated from the date on which maintenance payment is due to the date of payment and surcharge at a rate to be decided by the District Court, as referred to in Order 49, rule 2(ba)(i) and (ii) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remains due and unpaid.
 
-- HONG KONG SPECIAL ADMINISTRATIVE REGION NO. . OF 20 . In the matter of the trusts of . and In the matter of Order 50, rule 15 of the Rules of the District Court. Upon the hearing of the originating summons for an injunction this day made unto this Court by counsel for the applicant A.B.: And the applicant by his counsel undertaking to abide by any order the Court may hereafter make should it decide that the respondents (the . . Co. Ltd.) have sustained damage by reason of this order and are entitled to damages which the applicant ought to pay: It is ordered that (the . Co. Ltd.) be restrained until the . day of . 20 . or further order from permitting the transfer of (describe stock) standing in the name of (state name of holder of stock) in their books, or any part thereof, and from paying any dividend or interest due or to become due thereon. Dated the . day of . 20 . No. 82 Summons for appointment of receiver (Order 51 rule 3) (Heading as in action) Let the defendant C.D. attend (His/Her Honour Judge/Master .) in chambers at the District Court in Hong Kong on . the . day of . 20 . at . o’clock in the . noon on the hearing of an application on the part of the plaintiff for an order that a receiver be appointed (or that P.R. be appointed receiver) in this action to receive the rents, profits and moneys receivable in respect of the interest of the defendant C.D. in the following property, namely (describe the property) in or towards satisfaction of the moneys and interest due to the plaintiff under the judgment (or order) in this action dated the . day of . 20 . and for an order as to the costs of this application. Dated the . day of . 20 . This summons was taken out by . of . To the above-named . (and his solicitors). No. 83 Order directing summons for appointment of receiver and granting injunction meanwhile (Order 51 rule 3) (Heading as in action) Upon reading the affidavit of . filed the . day of . 20 .: Let the defendant C.D. attend (His/Her Honour Judge/Master .) in chambers at the District Court in Hong Kong on the . day of . 20 . at . o’clock in the . noon on the hearing of an application on the part of the plaintiff for the appointment of P.R. as receiver in this action, on the usual terms, to receive the rents, profits and moneys receivable in respect of the said defendant’s interest in the following property, namely (describe the property) in or towards satisfaction of the sum of $ . debt and $ . costs, and interest on the said sums at the rate of . per cent per annum from the . day of . 20 . due under the judgment (or order) in this action dated the . day of . 20 . And the plaintiff (by his solicitor) hereby undertaking to abide by any order the Court may hereafter make should it decide that the said defendant has sustained damage by reason of this order and is entitled to damages which the plaintiff ought to pay, it is ordered that the said defendant by himself, his agents or servants, or otherwise, be restrained, and an injunction is hereby granted restraining him, until after the hearing of the above application, from assigning, charging or otherwise dealing with the said property. Dated the . day of . 20 . No. 84 Order appointing receiver by way of equitable execution (Order 51 rule 1) (Heading as in action) Upon hearing . and upon reading the affidavit of . filed the . day of . 20.: (If security ordered) It is ordered that P.R. of . on first giving security to the satisfaction of the Court, be and is hereby appointed to receive the rents, profits and moneys receivable in respect of the above-named defendant’s interest in the following property, namely (describe the property). (If no security ordered and receiver is not the plaintiff) The plaintiff being answerable for the acts and defaults of the receiver, it is ordered that P.R. of . be and is hereby appointed to receive (continue as above) but he shall not receive more than the amount of the judgment debt and allowed costs of obtaining this order without leave of the Court or first giving (at the plaintiff’s cost unless otherwise ordered) the usual security to the satisfaction of the Court. (If no security ordered and receiver is the plaintiff: as above omitting “The plaintiff being answerable for the acts and defaults of the receiver,” and the words after “the Court”). (In all cases continue as follows:-) That this appointment shall be without prejudice to the rights of any prior incumbrances upon the said property who may think proper to take possession of or receive the same by virtue of their respective securities or, if any prior incumbrances is in possession, then without prejudice to such possession. And that the tenants of premises comprised in the said property do attorn and pay their rents in arrear and growing rents to the receiver. And that the receiver have liberty, if he shall think proper (but not otherwise), out of the rents, profits and moneys to be received by him to keep down the interest upon the prior incumbrances, according to their priorities, and be allowed such payments, if any, in passing his accounts. And that the receiver shall on the . day of . 20 . (3 months after the date of order), and at such further and other times as may be ordered by the Court leave and pass his accounts, and shall on the . day of . 20 . (4 months after the date of order) and at such further and other times as may be hereafter ordered by the Court pay the balance or balances appearing due on the accounts so left, or such part thereof as shall be certified as proper to be so paid, such sums to be paid in or towards satisfaction of what shall for the time being be due in respect of the judgment signed on the . day of . 20 . for the sum of $ . debt and $ . costs, making together the sum of $ . And that the costs of the receiver (including his remuneration), the costs of obtaining his appointment, of completing his security (if any), of passing his accounts and of obtaining his discharge shall not exceed ten per cent of the amount due under the said judgment or the amount recovered by the receiver, whichever is the less, provided that not less than . be allowed unless otherwise ordered. Such costs shall be taxed unless assessed by the Court and shall be primarily payable out of the sums received by the receiver, but if there shall be no sums received or the amount shall be insufficient, then upon the certificate of the Court being given stating the amount of the deficiency, such certificate to be given after passing the final account, the amount of the deficiency so certified shall be paid by the defendant to the plaintiff. It is also ordered that the balance (if any) remaining in the hands of the receiver, after making the several payments aforesaid, shall unless otherwise directed by the Court forthwith be paid by the receiver into Court to the credit of this action, subject to further order. And that any of the parties be at liberty to apply to the Judge in chambers as there may be occasion. Dated the . day of . 20 . No. 85 Order of committal (Order 52 rule 1) (Heading as in action) Upon hearing the originating summons dated the . day of . 20 . taken out by the Solicitor for the Plaintiff/Plaintiff and upon reading (an affidavit of . filed the . day of . 20 . of service on the defendant C.D. of a copy of the order of the Court dated the . day of . 20 . and of notice of hearing of this originating summons): And it appearing to the satisfaction of the Court that the defendant C.D. has been guilty of contempt of court in (state the contempt): It is ordered that for his said contempt the defendant do stand committed to . Prison to be there imprisoned (until further order). (It is further ordered that this order shall not be executed if the defendant C.D. complies with the following terms, namely, . .). Dated the . day of . 20 . No. 85A Warrant for committal (Order 52 rule 1) 20 ., No. . IN THE DISTRICT COURT OF THE
+- And it is ordered that the said garnishee attend His/Her Honour Judge/Master . in Chambers, at the District Court, in Hong Kong on the . day of . 20 . at . o’clock in the . noon, on an application by the said judgment creditor that the garnishee do pay to the said judgment creditor the debt due from the said garnishee to the said judgment debtor, or so much thereof as may be sufficient to satisfy the said judgment (or order), and interest at the judgment rate calculated from the date on which maintenance payment is due to the date of payment and surcharge at a rate to be decided by the District Court, as referred to in Order 49, rule 2(ba)(i) and (ii) together with the costs of the garnishee proceedings.
+
+- Dated the . day of . 20 .
+
+- To the above-named garnishee
+
+- and judgment debtor.
+
+- (18 of 2003 s. 27)
+
+- No. 73 Garnishee order absolute where garnishee owes more than judgment debt (Order 49 rule 1) (Heading as in No. 72)
+
+- Upon hearing the solicitors for the judgment creditor and the garnishee, and upon reading the affidavit of . filed herein, and the order to show cause made herein dated the . day of . 20 ., whereby it was ordered that all debts due or accruing due from the above-named garnishee to the above-named judgment debtor should be attached to answer a judgment recovered against the said judgment debtor by the above-named judgment creditor in the District Court on the . day of . 20 . for the sum (or to answer an order made in the District Court dated the . day of . 20 . ordering payment by the said judgment debtor to the above-named judgment creditor of the sum) of $ . (debt and $ . costs) and interest at the judgment rate calculated from the date on which maintenance payment is due to the date of payment and surcharge at a rate to be decided by the District Court, as referred to in Order 49, rule 2(ba)(i) and (ii) (together with the costs of the garnishee proceedings) on which judgment (or order) the sum of $ . remained due and unpaid:
+
+- It is ordered that the said garnishee do forthwith pay to the said judgment creditor $ . being so much of the debt from the said garnishee to the said judgment debtor as is sufficient to satisfy the said judgment debt, $. interest and $. surcharge, as referred to in Order 49, rule 2(ba)(i) and (ii) and costs, together with $ . the costs of the garnishee proceedings, and that the said garnishee be at liberty to retain $ . for his costs of this application out of the balance of the debt due from him to the judgment debtor.
+
+- Dated the . day of . 20 .
+
+- (18 of 2003 s. 27)
+
+- No. 74 Garnishee order absolute where garnishee owes less than judgment debt (Order 49 rule 1) (Heading as in No. 72)
+
+- Upon hearing (as in No. 73). It is ordered that the said garnishee (after deducting therefrom $ . for his costs of this application) do forthwith pay to the said judgment creditor $ . the debt due from the said garnishee to the said judgment debtor and $. interest and $. surcharge, as referred to in Order 49, rule 2(ba)(i) and (ii). And that the sum of $ . the costs of the judgment creditor of this application be added to the judgment debt and be retained out of the money recovered by the said judgment creditor under this order and in priority to the amount of the judgment debt. Dated the . day of . 20 .
+
+- (18 of 2003 s. 27)
+
+- No. 75 Charging order: notice to show cause (Order 50 rule 1) (Heading as in cause or matter)
+
+- Upon hearing the . and upon reading the affidavit of . filed herein the . day of . 20 . whereby it appears that by a judgment (or order) made in the District Court on the . day of . 20 . the defendant was ordered to pay to the plaintiff the sum of $ . and $ . costs on which judgment (or order) the sum of $ . remains due and unpaid and that the defendant has a beneficial interest in the asset specified in the schedule hereto:
+
+- It is ordered by (His/Her Honour Judge/Master .) that unless sufficient cause to the contrary be shown before (His/Her Honour Judge/Master .) at the District Court of the Hong Kong Special Administrative Region, (Wan Chai Law Courts, Wan Chai Tower, No. 12, Harbour Road, Wan Chai, Hong Kong) on the . day of . 20 ., at . o’clock in the . noon, the defendant’s interest in the said asset shall, and it is ordered that in the meantime it do, stand charged with the payment of $ . due on the said judgment (or order) and (interest thereon at the statutory rate) (interest at the judgment rate calculated from the date on which maintenance payment is due to the date of payment and surcharge at a rate to be decided by the District Court, as referred to in Order 50, rule 1(3)(ba)(i) and (ii)) together with the costs of this application.
+
+- Dated the . day of . 20 .
+
+- SCHEDULE
+
+- (Describe with full particulars the relevant land, securities, funds or trust, stating, in relation to securities, their full title, the amount of them and the name in which they stand and whether the beneficial interest charged is in the securities only or in dividends or interest as well, and stating, in relation to funds in court, the number of the account).
+
+- (18 of 2003 s. 27)
+
+- No. 76 Charging order absolute (Order 50 rule 3) (Heading as in cause or matter)
+
+- Upon hearing the . and upon reading the affidavits of . and . filed herein the . day of . 20 . and the order to show cause made herein on the . day of . 20 .:
+
+- It is ordered that the interest of the defendant C.D. in the asset specified in the schedule hereto stand charged with the payment of $ ., the amount due from the defendant to the plaintiff A.B. on a judgment (or order) of the District Court dated the . day of . 20 ., and (interest thereon at the statutory rate) ($ . interest and $. surcharge, as referred to in Order 50, rule 1(3)(ba)(i) and (ii)) together with $ . the costs of this application, the said costs to be added to the judgment debt.
+
+- Dated the . day of . 20 .
+
+- SCHEDULE
+
+- (Describe with full particulars the relevant land, securities, funds or trust, stating, in relation to securities, their full title, the amount of them and the name in which they stand and whether the beneficial interest charged is in the securities only or in dividends or interest as well, and stating, in relation to funds in court, the number of the account).
+
+- STOP NOTICE
+
+- To the (describe the person having custody of the security) Take notice that, in relation to the securities specified in the schedule to this order, you may not, without notice to (name of the plaintiff) at (his address for service) register any transfer, or make any redemption payment, or, in the case of a unit trust, deal with the units, or, where dividends or interest are included in the order, pay any dividend or interest.
+
+- SCHEDULE
+
+- (18 of 2003 s. 27)
+
+- No. 79 Stop order on capital and income of funds in court (Order 50 rule 10) (Heading as in cause or matter)
+
+- Upon hearing . for the plaintiff A.B. and . for the defendant C.D. and upon reading the affidavit of . filed herein the . day of . 20 .:
+
+- It is ordered that no part of the capital of (describe funds) in court to the credit of this action (or matter) (state title of action or matter), the account of C.D., and of the sum of $ . cash (being income) in court to the same credit, and of any interest or dividends to accrue due on the said funds in court, to which the said C.D. is (or may become) entitled, be transferred, sold, paid or otherwise dealt with without notice to the said A.B.
+
+- Dated the . day of . 20 .
+
+- No. 80 Affidavit and notice under Order 50 rule 11 (Order 50 rule 11) IN THE DISTRICT COURT OF THE
+
+- HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+- In the matter of (state the settlement or other document under which the deponent’s interest arises giving the date and other particulars sufficient to identify the document).
+
+- and In the matter of Order 50, rule 11 of the Rules of the District Court.
+
+- I, A.B. (or C.D. the solicitor of A.B.) of . make oath and say that according to the best of my knowledge, information and belief I am (or the said A.B. is) beneficially entitled under the above-mentioned settlement (or as may be) to an interest in the securities specified in the notice hereto annexed. Sworn, etc. . This affidavit is filed on behalf of A.B. whose address is .
+
+- Notice to be annexed to affidavit
+
+- To . Co. Ltd. Take notice that the securities comprised in and subject to the trusts of the settlement (or as may be) referred to in the affidavit to which this notice is annexed consist of the following, namely (specify the stock, shares, etc. stating the names in which it stands). This notice is intended to stop the transfer of the said securities and not the payment of any dividend thereof or interest thereon (or and also the payment of any dividend thereof or interest thereon).
+
+- (Signed) A.B. (or C.D. if affidavit
+
+- sworn by him)
+
+- No. 81 Order on originating summons restraining transfer of stock, etc. (Order 50 rule 15)
+
+- 20 ., No. .
+
+- IN THE DISTRICT COURT OF THE
+
+- HONG KONG SPECIAL ADMINISTRATIVE REGION NO. . OF 20 . In the matter of the trusts of . and In the matter of Order 50, rule 15 of the Rules of the District Court.
+
+- Upon the hearing of the originating summons for an injunction this day made unto this Court by counsel for the applicant A.B.:
+
+- And the applicant by his counsel undertaking to abide by any order the Court may hereafter make should it decide that the respondents (the .
+
+- . Co. Ltd.) have sustained damage by reason of this order and are entitled to damages which the applicant ought to pay:
+
+- It is ordered that (the . Co. Ltd.) be restrained until the . day of . 20 . or further order from permitting the transfer of (describe stock) standing in the name of (state name of holder of stock) in their books, or any part thereof, and from paying any dividend or interest due or to become due thereon.
+
+- Dated the . day of . 20 .
+
+- No. 82 Summons for appointment of receiver (Order 51 rule 3) (Heading as in action)
+
+- Let the defendant C.D. attend (His/Her Honour Judge/Master .) in chambers at the District Court in Hong Kong on . the . day of . 20 . at . o’clock in the . noon on the hearing of an application on the part of the plaintiff for an order that a receiver be appointed (or that P.R. be appointed receiver) in this action to receive the rents, profits and moneys receivable in respect of the interest of the defendant C.D. in the following property, namely (describe the property) in or towards satisfaction of the moneys and interest due to the plaintiff under the judgment (or order) in this action dated the . day of . 20 . and for an order as to the costs of this application. Dated the . day of . 20 . This summons was taken out by . of . To the above-named . (and his solicitors).
+
+- No. 83 Order directing summons for appointment of receiver and granting injunction meanwhile (Order 51 rule 3) (Heading as in action)
+
+- Upon reading the affidavit of . filed the . day of . 20 .:
+
+- Let the defendant C.D. attend (His/Her Honour Judge/Master .) in chambers at the District Court in Hong Kong on the . day of . 20 . at . o’clock in the . noon on the hearing of an application on the part of the plaintiff for the appointment of P.R. as receiver in this action, on the usual terms, to receive the rents, profits and moneys receivable in respect of the said defendant’s interest in the following property, namely (describe the property) in or towards satisfaction of the sum of $ . debt and $ . costs, and interest on the said sums at the rate of . per cent per annum from the . day of . 20 . due under the judgment (or order) in this action dated the . day of . 20 .
+
+- And the plaintiff (by his solicitor) hereby undertaking to abide by any order the Court may hereafter make should it decide that the said defendant has sustained damage by reason of this order and is entitled to damages which the plaintiff ought to pay, it is ordered that the said defendant by himself, his agents or servants, or otherwise, be restrained, and an injunction is hereby granted restraining him, until after the hearing of the above application, from assigning, charging or otherwise dealing with the said property.
+
+- Dated the . day of . 20 .
+
+- No. 84 Order appointing receiver by way of equitable execution (Order 51 rule 1) (Heading as in action)
+
+- Upon hearing . and upon reading the affidavit of . filed the . day of . 20.:
+
+- (If security ordered) It is ordered that P.R. of . on first giving security to the satisfaction of the Court, be and is hereby appointed to receive the rents, profits and moneys receivable in respect of the above-named defendant’s interest in the following property, namely (describe the property).
+
+- (If no security ordered and receiver is not the plaintiff) The plaintiff being answerable for the acts and defaults of the receiver, it is ordered that P.R. of . be and is hereby appointed to receive (continue as above) but he shall not receive more than the amount of the judgment debt and allowed costs of obtaining this order without leave of the Court or first giving (at the plaintiff’s cost unless otherwise ordered) the usual security to the satisfaction of the Court.
+
+- (If no security ordered and receiver is the plaintiff: as above omitting “The plaintiff being answerable for the acts and defaults of the receiver,” and the words after “the Court”).
+
+- (In all cases continue as follows:-)
+
+- That this appointment shall be without prejudice to the rights of any prior incumbrances upon the said property who may think proper to take possession of or receive the same by virtue of their respective securities or, if any prior incumbrances is in possession, then without prejudice to such possession.
+
+- And that the tenants of premises comprised in the said property do attorn and pay their rents in arrear and growing rents to the receiver.
+
+- And that the receiver have liberty, if he shall think proper (but not otherwise), out of the rents, profits and moneys to be received by him to keep down the interest upon the prior incumbrances, according to their priorities, and be allowed such payments, if any, in passing his accounts.
+
+- And that the receiver shall on the . day of . 20 . (3 months after the date of order), and at such further and other times as may be ordered by the Court leave and pass his accounts, and shall on the . day of . 20 . (4 months after the date of order) and at such further and other times as may be hereafter ordered by the Court pay the balance or balances appearing due on the accounts so left, or such part thereof as shall be certified as proper to be so paid, such sums to be paid in or towards satisfaction of what shall for the time being be due in respect of the judgment signed on the . day of . 20 . for the sum of $ . debt and $ . costs, making together the sum of $ .
+
+- And that the costs of the receiver (including his remuneration), the costs of obtaining his appointment, of completing his security (if any), of passing his accounts and of obtaining his discharge shall not exceed ten per cent of the amount due under the said judgment or the amount recovered by the receiver, whichever is the less, provided that not less than . be allowed unless otherwise ordered. Such costs shall be taxed unless assessed by the Court and shall be primarily payable out of the sums received by the receiver, but if there shall be no sums received or the amount shall be insufficient, then upon the certificate of the Court being given stating the amount of the deficiency, such certificate to be given after passing the final account, the amount of the deficiency so certified shall be paid by the defendant to the plaintiff.
+
+- It is also ordered that the balance (if any) remaining in the hands of the receiver, after making the several payments aforesaid, shall unless otherwise directed by the Court forthwith be paid by the receiver into Court to the credit of this action, subject to further order.
+
+- And that any of the parties be at liberty to apply to the Judge in chambers as there may be occasion.
+
+- Dated the . day of . 20 .
+
+- No. 85 Order of committal (Order 52 rule 1) (Heading as in action)
+
+- Upon hearing the originating summons dated the . day of . 20 . taken out by the Solicitor for the Plaintiff/Plaintiff and upon reading (an affidavit of . filed the . day of . 20 . of service on the defendant C.D. of a copy of the order of the Court dated the . day of . 20 . and of notice of hearing of this originating summons):
+
+- And it appearing to the satisfaction of the Court that the defendant C.D. has been guilty of contempt of court in (state the contempt):
+
+- It is ordered that for his said contempt the defendant do stand committed to . Prison to be there imprisoned (until further order).
+
+- (It is further ordered that this order shall not be executed if the defendant C.D. complies with the following terms, namely, .
+
+- .).
+
+- Dated the . day of . 20 .
+
+- No. 85A Warrant for committal (Order 52 rule 1)
+
+- 20 ., No. .
+
+- IN THE DISTRICT COURT OF THE
 
 - HONG KONG SPECIAL ADMINISTRATIVE REGION NO. . OF 20 .
 
@@ -336,7 +772,45 @@ If a Statement of Claim is indorsed on the Writ (i.e. the words “Statement of 
 
 - C.D. | Defendant
 
-- To: The Chief Bailiff and his assistants and the Commissioner of Correctional Services. WHEREAS by an order of this Court pronounced this day it was ordered that the above-named [here insert name of defendant], do stand committed to Prison for his/her contempt in the said order mentioned: You are required to apprehend the said [here insert name of defendant], and him/her safely convey to Prison there to be detained and kept in safe custody until such time as the said order granted by His/Her Honour Judge . on the . day of . 20 . shall have been complied with and obeyed or until such time as the said [here insert name of defendant] may be discharged by the Court on his/her application. Dated the . day of . 20 . . A Judge of the District Court No. 94 Order for production of documents in marine insurance action (Order 72 rule 10) (Heading as in action) Upon hearing . (and upon reading the affidavit of . filed the . day of . 20 .): It is ordered that the plaintiff and all other persons interested in this action, and in the insurance the subject of this action, do produce and show to the defendant, his solicitors or agents on oath (or by oath of their proper officer) all insurance slips, policies, letters of instruction or other orders for effecting such slips or policies, or relating to the insurance or the subject-matter of the insurance on the ship ., or the cargo on board thereof, or the freight thereby, and also all documents relating to the sailing or alleged loss of the said ship, cargo or freight, and all correspondence with any person relating in any manner to the effecting of the insurance on the said ship, cargo or freight, or any other insurance whatsoever effected on the said ship, cargo or freight, on the voyage insured by the policy sued on in this action, or any other policy whatsoever effected on the said ship, or the cargo on board thereof, or the freight thereby on the same voyage. Also all correspondence between the captain or agent of the ship and any other person with the owner or any person before the commencement of or during the voyage on which the alleged loss happened. Also all books and documents, whatever their nature and whether originals, duplicates or copies, which in any way relate or refer to any matter in question in this action and which are now in the custody, possession or power of the plaintiff or any other person on his behalf, his or their, or any of their brokers, solicitors or agents, with liberty for the defendant, his solicitors or agents to inspect and take copies of, or extracts from, any of those books or documents. And that in the like manner the plaintiff and every other person interested as aforesaid do account for all other books and documents relating or referring to any matter in question in this action which were once but are not now in his custody, possession and power. And that (in the meantime all further proceedings be stayed and that) the costs of and occasioned by this application be costs in the action. Dated the . day of . 20 . No. 95 Certificate of order against the Government (Order 77 rule 15(3)) (Heading as in cause or matter) By a judgment (or order) of this Court dated the . day of . 20 . it was adjudged (or ordered) that (give particulars of the judgment or order). I hereby certify that the amount payable to . by . in pursuance of the said judgment (or order) is $ . (together with interest thereon at the rate of . per cent per annum until payment and together with costs which have been taxed and certified by the taxing officer at $ . Interest is payable on the said costs at the rate of . per cent per annum from the . day of . 20 . until payment). (This certificate does not include the amount payable under the said judgment or order in respect of costs). Dated the . day of . 20 . (Signed) . (Note:-The final paragraph is to be included where a separate certificate with respect to costs has been directed to be issued). No. 96 Certificate of order for costs against the Government (Order 77 rule 15) (Heading as in cause or matter) By a judgment (or order) of this Court dated the . day of . 20 . it was adjudged (or ordered) that (give particulars of the judgment or order). I hereby certify that the costs payable to . by . in pursuance of the said judgment (or order) have been taxed and certified by the taxing officer at $ . (and interest is payable thereon at the rate of . per cent per annum from the . day of . 20 . until payment). Dated the . day of . 20 . (Signed) . No. 102 Order of issue of warrant of arrest for examination (Order 49B rule 1) 20 ., No. . IN THE DISTRICT COURT OF THE
+- To: The Chief Bailiff and his assistants and the Commissioner of Correctional Services.
+
+- WHEREAS by an order of this Court pronounced this day it was ordered that the above-named [here insert name of defendant], do stand committed to Prison for his/her contempt in the said order mentioned:
+
+- You are required to apprehend the said [here insert name of defendant], and him/her safely convey to Prison there to be detained and kept in safe custody until such time as the said order granted by His/Her Honour Judge . on the . day of . 20 . shall have been complied with and obeyed or until such time as the said [here insert name of defendant] may be discharged by the Court on his/her application.
+
+- Dated the . day of . 20 .
+
+- .
+
+- A Judge of the District Court
+
+- No. 94 Order for production of documents in marine insurance action (Order 72 rule 10) (Heading as in action)
+
+- Upon hearing . (and upon reading the affidavit of . filed the . day of . 20 .):
+
+- It is ordered that the plaintiff and all other persons interested in this action, and in the insurance the subject of this action, do produce and show to the defendant, his solicitors or agents on oath (or by oath of their proper officer) all insurance slips, policies, letters of instruction or other orders for effecting such slips or policies, or relating to the insurance or the subject-matter of the insurance on the ship ., or the cargo on board thereof, or the freight thereby, and also all documents relating to the sailing or alleged loss of the said ship, cargo or freight, and all correspondence with any person relating in any manner to the effecting of the insurance on the said ship, cargo or freight, or any other insurance whatsoever effected on the said ship, cargo or freight, on the voyage insured by the policy sued on in this action, or any other policy whatsoever effected on the said ship, or the cargo on board thereof, or the freight thereby on the same voyage. Also all correspondence between the captain or agent of the ship and any other person with the owner or any person before the commencement of or during the voyage on which the alleged loss happened. Also all books and documents, whatever their nature and whether originals, duplicates or copies, which in any way relate or refer to any matter in question in this action and which are now in the custody, possession or power of the plaintiff or any other person on his behalf, his or their, or any of their brokers, solicitors or agents, with liberty for the defendant, his solicitors or agents to inspect and take copies of, or extracts from, any of those books or documents. And that in the like manner the plaintiff and every other person interested as aforesaid do account for all other books and documents relating or referring to any matter in question in this action which were once but are not now in his custody, possession and power.
+
+- And that (in the meantime all further proceedings be stayed and that) the costs of and occasioned by this application be costs in the action.
+
+- Dated the . day of . 20 .
+
+- No. 95 Certificate of order against the Government (Order 77 rule 15(3)) (Heading as in cause or matter)
+
+- By a judgment (or order) of this Court dated the . day of . 20 . it was adjudged (or ordered) that (give particulars of the judgment or order). I hereby certify that the amount payable to . by . in pursuance of the said judgment (or order) is $ . (together with interest thereon at the rate of . per cent per annum until payment and together with costs which have been taxed and certified by the taxing officer at $ . Interest is payable on the said costs at the rate of . per cent per annum from the . day of . 20 . until payment). (This certificate does not include the amount payable under the said judgment or order in respect of costs). Dated the . day of . 20 .
+
+- (Signed) . (Note:-The final paragraph is to be included where a separate certificate with respect to costs has been directed to be issued).
+
+- No. 96 Certificate of order for costs against the Government (Order 77 rule 15) (Heading as in cause or matter)
+
+- By a judgment (or order) of this Court dated the . day of . 20 . it was adjudged (or ordered) that (give particulars of the judgment or order). I hereby certify that the costs payable to . by . in pursuance of the said judgment (or order) have been taxed and certified by the taxing officer at $ . (and interest is payable thereon at the rate of . per cent per annum from the . day of . 20 . until payment). Dated the . day of . 20 .
+
+- (Signed) .
+
+- No. 102 Order of issue of warrant of arrest for examination (Order 49B rule 1)
+
+- 20 ., No. .
+
+- IN THE DISTRICT COURT OF THE
 
 - HONG KONG SPECIAL ADMINISTRATIVE REGION NO. . OF 20 .
 
@@ -346,7 +820,9 @@ If a Statement of Claim is indorsed on the Writ (i.e. the words “Statement of 
 
 - C.D. | Judgment Debtor
 
-- Upon the application of the Judgment Creditor A.B. and upon hearing the solicitor for the said Judgment Creditor, and upon reading the affidavit of . filed the . day of . 20 . : It is ordered that a warrant do issue to the bailiff enjoining him to arrest the Judgment Debtor C.D. and to bring him before the Court before the expiry of the day after the day of arrest for examination; and it is further ordered that the bailiff be authorized to release the Judgment Debtor—
+- Upon the application of the Judgment Creditor A.B. and upon hearing the solicitor for the said Judgment Creditor, and upon reading the affidavit of . filed the . day of . 20 . :
+
+- It is ordered that a warrant do issue to the bailiff enjoining him to arrest the Judgment Debtor C.D. and to bring him before the Court before the expiry of the day after the day of arrest for examination; and it is further ordered that the bailiff be authorized to release the Judgment Debtor—
 
 - 1. upon payment to him of the sum of $ . , being the amount of the judgment debt, together with the sum of $ . for costs of this action and such costs as may be due for the obtaining and execution of this warrant;
 
@@ -426,15 +902,11 @@ Note:—This warrant is to be returned into the Registry immediately after the e
 
 APPENDIX D FORMS
 
-20 ., No. .
+20 ......., No. ...........
 
-No. 1 PRAECIPE FOR ISSUE OF JUDGMENT SUMMONS (Order 90A rule 2) IN THE DISTRICT COURT OF THE
+No. 1 PRAECIPE FOR ISSUE OF JUDGMENT SUMMONS (Order 90A rule 2) In the District Court of the Hong Kong Special Administrative Region NO. ....................... OF 20 ............
 
-HONG KONG SPECIAL ADMINISTRATIVE REGION NO. . OF 20 .
-
-{Matter
-
-{Judgment summons
+{Matter {Judgment summons
 
 Between | A.B. | Applicant
 
@@ -442,78 +914,102 @@ AND
 
 C.D. | Respondent
 
-Judgment creditor’s full name and address . Judgment debtor’s full name and address .
+Judgment creditor’s full name and address
 
-I apply for the issue of a judgment summons against the above-named judgment debtor in respect of an order made in this Court [or as the case may be] on the . day of . 20 ., for [state nature of order].
+Judgment debtor’s full name and address
 
-[If it be the case I intend to apply to the Court at the hearing of the proposed judgment summons for leave to enforce arrears which became due more than twelve months before the date of the proposed summons].
+I apply for the issue of a judgment summons against the above-named judgment debtor in respect of an order made in this Court [or as the case may be] on the ...................... day of .............................. 20 ........, for [state nature of order]. [If it be the case I intend to apply to the Court at the hearing of the proposed judgment summons for leave to enforce arrears which became due more than twelve months before the date of the proposed summons]. I am aware that, if I do not prove to the satisfaction of the Court at the hearing that the judgment debtor has, or has had since the date of the said order, the means to pay the sum in respect of which he has made default and that he has refused or neglected, or refuses or neglects, to pay it, I may have to pay the costs of the summons. [Add, except where judgment summons is to issue in the District Court in which order was made: I certify that the said order has not been modified or discharged and that there is no order of commitment in this matter which remains unsatisfied. I further certify that no writ of fieri facias has been issued to enforce the said order [or, if a writ of fieri facias has been issued, give details and state what return to it has been made]]. Dated this .................. day of ...................... 20 ..........
 
-I am aware that, if I do not prove to the satisfaction of the Court at the hearing that the judgment debtor has, or has had since the date of the said order, the means to pay the sum in respect of which he has made default and that he has refused or neglected, or refuses or neglects, to pay it, I may have to pay the costs of the summons.
+[Solicitor for the] | Judgment Creditor
 
-[Add, except where judgment summons is to issue in the District Court in which order was made: I certify that the said order has not been modified or discharged and that there is no order of commitment in this matter which remains unsatisfied.
+Amount due and unpaid in respect of the order and costs | $
 
-I further certify that no writ of fieri facias has been issued to enforce the said order [or, if a writ of fieri facias has been issued, give details and state what return to it has been made]].
+Interest payable in respect of the arrears of maintenance, at the judgment rate calculated from the date on which maintenance payment is due to the date of payment | $
 
-Dated this . day of . 20 .
+Surcharge payable in respect of the arrears of maintenance at a rate to be decided by the Court | $
 
-[Solicitor for the] Judgment Creditor
+Costs of this summons | $
 
-Amount due and unpaid in respect of the order and costs . | $
-
-Costs of this summons . | $
-
-Travelling expenses to be paid to the judgment debtor . | $
+Travelling expenses to be paid to the judgment debtor | $
 
 $
 
-No. 2 JUDGMENT SUMMONS (Order 90A rule 2) [Heading as in No. 1]
+(18 of 2005 s. 27)
 
-WHEREAS the above-named . (hereinafter called “judgment creditor”) obtained an order in this Court (or as the case may be) on the . day of . 20 ., against . (hereinafter called “judgment debtor”) for [state nature of order].
+_
 
-AND WHEREAS default has been made in respect of the sum of $ . payable under the said order and the judgment creditor has required this judgment summons to be issued against you, the said judgment debtor.
+No. 2
 
-YOU ARE HEREBY SUMMONED to appear personally before His/Her Honour Judge . sitting on the . day of . 20 ., at . o’clock, in the . noon, at . Court situate at ., to be examined on oath touching the means you have, or have had since the date of the said order, to pay the said sum in payment of which you have made default and also to show cause why you should not be committed to prison for such default.
+JUDGMENT SUMMONS (Order 90A rule 2) [Heading as in No. 1]
 
-[AND TAKE NOTICE that the judgment creditor intends to apply to the Court at the hearing of this judgment summons for leave to enforce arrears which became due more than twelve months before the date of this summons].
+WHEREAS the above-named ....................................................... (hereinafter called “judgment creditor”) obtained an order in this Court (or as the case may be) on the ...................... day of .............................. 20 ........, against ........................................ (hereinafter called “judgment debtor”) for [state nature of order].
 
-Dated this . day of . 20 .
+AND WHEREAS default has been made in respect of the sum of $ ................................ payable under the said order and the judgment creditor has required this judgment summons to be issued against you, the said judgment debtor.
 
-Amount due and unpaid in respect of the order and costs . | $
+YOU ARE HEREBY SUMMONED to appear personally before His/Her Honour Judge ................................. sitting on the .................... day of ................................ 20 ........, at .................. o’clock, in the .................. noon, at ................................................ Court situate at .................................., to be examined on oath touching the means you have, or have had since the date of the said order, to pay the said sum in payment of which you have made default and also to show cause why you should not be committed to prison for such default.
 
-Costs of this summons . | $
+[AND TAKE NOTICE that the judgment creditor intends to apply to the Court at the hearing of this judgment summons for leave to enforce arrears which became due more than twelve months before the date of this summons]. Dated this .................. day of ...................... 20 ..........
 
-Travelling expenses to be paid to the judgment debtor . | $
+Amount due and unpaid in respect of the order and costs | $
 
-Sum on payment of which this summons will be discharged . | $
+Interest payable in respect of the arrears of maintenance, at the judgment rate calculated from the date on which maintenance payment is due to the date of payment | $
 
-Note: If payment is made too late to prevent the judgment creditor’s attendance on the day of hearing, you may be liable for further costs.
+Surcharge payable in respect of the arrears of maintenance at a rate to be decided by the Court | $
 
-[The judgment creditor’s solicitor is .] 20 ., No. .
+Costs of this summons | $
 
-No. 3 APPLICATION FOR A DECLARATION THAT A CUSTOMARY/
+Travelling expenses to be paid to the judgment debtor | $
 
-VALIDATED MARRIAGE SUBSISTS (Marriage Reform Ordinance, Cap. 178, section 9) [Heading as in action]
+Sum on payment of which this summons will be discharged | $
+
+Note: If payment is made too late to prevent the judgment creditor’s attendance on the day of hearing, you may be liable for further costs. [The judgment creditor’s solicitor is ..................]
+
+(18 of 2005 s. 27)
+
+_
+
+20 ......., No. ...........
+
+No. 3 APPLICATION FOR A DECLARATION THAT A CUSTOMARY/VALIDATED MARRIAGE SUBSISTS (Marriage Reform Ordinance, Cap. 178, section 9) [Heading as in action]
 
 SHEWETH:
 
-- 1. That ., a . (hereinafter called the “Applicant”) was on the . day of . married to ., a ., at .
+1. That ........................................, a ........................................ (hereinafter called the “Applicant”) was on the .......................... day of ........................................ married to ..............................................., a .............................................., at ..............................................
 
-- 2. The said marriage was a customary marriage/a validated marriage.
+2. | The said marriage was a customary marriage/a validated marriage.
 
-- 3. The following persons were witnesses to the marriage— (i) (ii) (iii) (iv) (v)
+3. | The following persons were witnesses to the marriage—
 
-- 4. There are the following children of the marriage— (i) (ii) (iii) (iv) (v) (vi)
+(i)
 
-- 5. That the Applicant’s present address and occupation are—
+(ii)
 
-- 6. That the Respondent’s present address and occupation are—
+(iii)
 
-  - 7. PARTICULARS [Here set out full particulars of the marriage and give a list of any
+(iv)
 
-  - documents in support of the application].
+(v)
 
-- 8. And your Applicant prays that a declaration be made that a customary/validated marriage subsists between the parties.
+4. | There are the following children of the marriage—
 
-Dated this . day of . 20 . .
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
+
+(vi)
+
+5. | That the Applicant’s present address and occupation are—
+
+6. | That the Respondent’s present address and occupation are—
+
+7. | PARTICULARS [Here set out full particulars of the marriage and give a list of any documents in support of the application].
+
+8. And your Applicant prays that a declaration be made that a customary/validated marriage subsists between the parties. Dated this .................. day of ...................... 20 ..........
 
 Applicant
