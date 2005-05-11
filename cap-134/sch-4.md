@@ -1,73 +1,139 @@
 # FOURTH SCHEDULE
 
-[s. 49A]
+[ss. 49A & 49I]
 
 REPORTING AGENCIES
 
-- 1. Barnabas Charitable Service Association Limited
+- 1. Aberdeen Kai-fong Welfare Association Social Service Centre
 
-- 2. The Boys’ and Girls’ Clubs Association of Hong Kong
+- 2. Baptist Oi Kwan Social Service
 
-- 3. Caritas-Hong Kong
+- 3. Barnabas Charitable Service Association Limited
 
-- 4. The Chinese Young Men’s Christian Association of Hong Kong
+- 4. Canossa Hospital (Caritas)
 
-- 5. Christian Family Service Centre
+- 5. Caritas-Hong Kong
 
-- 6. The Christian New Being Fellowship Limited
+- 6. Christian Family Service Centre
 
 - 7. Christian Zheng Sheng Association Limited
 
-- 8. Department of Health
+- 8. Chu Hai Post Secondary College
 
-- 9. DACARS, Limited
+- 9. City University of Hong Kong
 
-- 10. Evangel Hospital
+- 10. Correctional Services Department
 
-- 11. Hong Kong Adventist Hospital
+- 11. Customs and Excise Department
 
-- 12. Hong Kong Baptist Hospital
+- 12. DACARS, Limited
 
-- 13. Hong Kong Christian Service
+- 13. Department of Health
 
-- 14. The Hong Kong Council of Social Service
+- 14. Education and Manpower Bureau
 
-- 15. The Hong Kong Federation of Youth Groups
+- 15. Evangel Hospital
 
-- 16. Hong Kong Playground Association
+- 16. Hong Kong Adventist Hospital
 
-- 17. Hong Kong Sanatorium and Hospital Limited
+- 17. Hong Kong Baptist Hospital
 
-- 18. Hospital Authority
+- 18. Hong Kong Baptist University
 
-- 19. Ling Oi Youth Centre, Finnish Missionary Society
+- 19. Hong Kong Central Hospital
 
-- 20. Operation Dawn Limited
+- 20. Hong Kong Children & Youth Services
 
-- 21. Precious Blood Hospital (Caritas) (Replaced L.N. 613 of 1994)
+- 21. Hong Kong Christian Service
 
-- 22. St. Paul’s Hospital (Replaced L.N. 613 of 1994)
+- 22. Hong Kong Family Welfare Society
 
-- 23. St. Stephen’s Society
+- 23. Hong Kong Lutheran Social Service
 
-- 24. St. Teresa’s Hospital (Replaced L.N. 613 of 1994)
+- 24. Hong Kong Playground Association
 
-- 25. The Salvation Army
+- 25. Hong Kong Police Force
 
-- 26. Social Welfare Department
+- 26. Hong Kong Sanatorium and Hospital Limited
 
-- 27. The Society for the Aid and Rehabilitation of Drug Abusers
+- 27. Hong Kong Young Women’s Christian Association
 
-- 28. The Society for the Rehabilitation of Offenders, Hong Kong
+- 28. Hospital Authority
 
-- 29. Tsuen Wan Adventist Hospital
+- 29. International Social Service Hong Kong Branch
 
-- 30. Wu Oi Christian Centre
+- 30. KELY Support Group
 
-- 31. Yang Memorial Methodist Social Service (Replaced L.N. 613 of 1994)
+- 31. Ling Oi Centre, Finnish Evangelical Lutheran Mission
 
-- 32. Hong Kong Young Women’s Christian Association
+- 32. Lingnan University
 
-- 33. Hong Kong Police Force (Added L.N. 415 of 1996. Amended L.N. 362 of 1997)
+- 33. Matilda and War Memorial Hospital
 
-- 34. Correctional Services Department (Added L.N. 415 of 1996) (Replaced L.N. 363 of 1992)
+- 34. Methodist Epworth Village Community Centre
+
+- 35. Operation Dawn Limited
+
+- 36. Precious Blood Hospital (Caritas)
+
+- 37. Social Welfare Department
+
+- 38. St. James’ Settlement
+
+- 39. St. Paul’s Hospital
+
+- 40. St. Stephen’s Society
+
+- 41. St. Teresa’s Hospital
+
+- 42. Stewards Limited
+
+- 43. The Boys’ and Girls’ Clubs Association of Hong Kong
+
+- 44. The Boys’ Brigade, Hong Kong
+
+- 45. The Chinese University of Hong Kong
+
+- 46. The Chinese Young Men’s Christian Association of Hong Kong
+
+- 47. The Christian New Being Fellowship Limited
+
+- 48. The Church of United Brethren in Christ Hong Kong Limited
+
+- 49. The Evangelical Lutheran Church of Hong Kong
+
+- 50. The Hong Kong Council of Social Service
+
+- 51. The Hong Kong Federation of Youth Groups
+
+- 52. The Hong Kong Institute of Education
+
+- 53. The Hong Kong Medical Association
+
+- 54. The Hong Kong Polytechnic University
+
+- 55. The Hong Kong University of Science and Technology
+
+- 56. The Neighbourhood Advice-Action Council
+
+- 57. The Salvation Army
+
+- 58. The Society for the Aid and Rehabilitation of Drug Abusers
+
+- 59. The Society of Rehabilitation and Crime Prevention, Hong Kong
+
+- 60. The University of Hong Kong
+
+- 61. Tsuen Wan Adventist Hospital
+
+- 62. Sha Tin International Medical Centre Union Hospital
+
+- 63. Vocational Training Council
+
+- 64. Wu Oi Christian Centre
+
+- 65. Yan Oi Tong Limited
+
+- 66. Yang Memorial Methodist Social Service
+
+- 67. Zion Social Service Limited (Fourth Schedule replaced L.N. 36 of 2005)
