@@ -20,9 +20,9 @@
 
 - (3) Chek Lap Kok Police Officers’ Mess | Room 304, 3/F, Barrack Block, Catering Road West, Chek Lap Kok, Lantau Island, New Territories
 
-- (4) Civil Aid Service Officers’ Mess (Hong Kong) | 1/F, 100 Caroline Hill Road, Hong Kong
+- (4) Civil Aid Service Officers’ Mess | 1/F, 100 Caroline Hill Road, Hong Kong (L.N. 86 of 2005)
 
-- (5) Civil Aid Service Officers’ Mess (Kowloon) | Civil Aid Service Kowloon Training Centre, 204, Argyle Street, Kowloon
+- (5) (Repealed L.N. 86 of 2005)
 
 - (6) Correctional Services Department Staff Club | 5, Butterfly Valley Road, Lai Chi Kok, Kowloon
 
@@ -38,13 +38,13 @@
 
 - (12) Government Flying Service Senior Officers’ Mess | Room 224, Government Flying Service Building, 18, South Perimeter Road, Chek Lap Kok, Lantau Island, New Territories
 
-- (13) Government Secretariat Staff Club | 3/F & 4/F, Main Wing, New Annex, Central Government Offices, 18, Lower Albert Road, Hong Kong
+- (13) Government Secretariat Staff Club | 3/F & 4/F, New Annexe, Main Wing, Central Government Offices, 18 Lower Albert Road, Central, Hong Kong (L.N. 86 of 2005)
 
 - (14) Hong Kong Auxiliary Police Officers’ Mess | 4/F, 12, Wang Chiu Road, Kowloon Bay, Kowloon
 
 - (15) Hong Kong Fire Services Club | 3 Wang Chiu Road, East Kai Tak, Kowloon
 
-- (16) Hong Kong Fire Services Officers’ Club | Room 306, Tsimshatsui Fire Station Complex, 333, Canton Road, Tsimshatsui, Kowloon
+- (16) (Repealed L.N. 86 of 2005)
 
 - (17) The Hong Kong Fire Services Retired Members’ Mutual Aid Association Limited | Room 307, Tsimshatsui Fire Station Complex, 333, Canton Road, Tsimshatsui, Kowloon
 
@@ -82,7 +82,7 @@
 
 - (34) Kwun Tong Police Officers’ Mess | G/F, 1, Lei Yue Mun Road, Kwun Tong, Kowloon
 
-- (35) The Land Registry Staff Recreation Club | Room 1714, 17/F, Queensway Government Offices, High Block, Hong Kong
+- (35) (Repealed L.N. 86 of 2005)
 
 - (36) Lantau District Police Officers’ Mess | Room 601, 6/F, 1 Shun Tung Road, Lantau Island, New Territories (L.N. 94 of 2002)
 
@@ -114,7 +114,7 @@
 
 - (50) Police Sports and Recreation Club | 430, Sai Yeung Choi Street, Kowloon
 
-- (51) Police Tactical Unit Officers’ Mess | G/F, Block G, 1 Pak Fuk Tsuen, Fanling, New Territories (L.N. 216 of 2003)
+- (51) The Police Tactical Unit Officers’ Mess | G/F, Block G, 1 Wu Tip Shan Road, Fanling, New Territories (L.N. 86 of 2005)
 
 - (52) Prince Philip Dental Hospital Senior Staff Association Club | Room 7A11, 7/F, Common Room, Prince Philip Dental Hospital, 34, Hospital Road, Hong Kong
 
@@ -193,5 +193,7 @@
 - (89) Tung Tau Correctional Institution Staff Mess | G/F, Block 3, 68 Tung Tau Wan Road, Stanley, Hong Kong (L.N. 87 of 2001)
 
 - (90) Fire Safety Ambassadors Club | Flat 1, Additional Quarters, Kwun Tong Fire Station, 426 Kwun Tong Road, Kowloon (L.N. 181 of 2001)
+
+- (91) The Commercial Crime Bureau Officers’ Executive Boardroom | Room 1311, 13/F, Arsenal House West Wing, Police Headquarters, 1 Arsenal Street, Wanchai, Hong Kong (L.N. 86 of 2005)
 
 - (L.N. 308 of 1999)
