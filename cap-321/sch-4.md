@@ -4,4 +4,4 @@
 
 BADGE OF FEDERATION
 
-(Replaced 79 of 1994 s. 30)
+(Replaced 7 of 2005 s. 2)
