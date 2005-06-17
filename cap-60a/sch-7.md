@@ -36,7 +36,11 @@ Cote d’Ivoire
 
 Croatia
 
+Cyprus
+
 Denmark
+
+Estonia
 
 Finland
 
@@ -68,11 +72,17 @@ Republic of Korea
 
 Lao People’s Democratic Republic
 
+Latvia
+
 Lesotho
+
+Lithuania
 
 Luxembourg
 
 Malaysia
+
+Malta
 
 Mauritius
 
@@ -93,6 +103,8 @@ Russian Federation
 Sierra Leone
 
 Singapore
+
+Slovakia
 
 Slovenia
 
@@ -126,4 +138,4 @@ Viet Nam (otherwise known as Vietnam)
 
 Zimbabwe
 
-(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003; L.N. 128 of 2003; L.N. 202 of 2003; L.N. 210 of 2003; L.N. 239 of 2003; L.N. 254 of 2003; L.N. 11 of 2004; L.N. 68 of 2004; L.N. 141 of 2004)
+(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003; L.N. 128 of 2003; L.N. 202 of 2003; L.N. 210 of 2003; L.N. 239 of 2003; L.N. 254 of 2003; L.N. 11 of 2004; L.N. 68 of 2004; L.N. 141 of 2004; L.N. 106 of 2005)
