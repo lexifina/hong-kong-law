@@ -360,6 +360,8 @@ THE POISONS LIST
 
 - Bethanidine; its salts
 
+- Bevacizumab
+
 - Bezafibrate
 
 - Bezitramide; its salts
@@ -838,6 +840,8 @@ THE POISONS LIST
 
 - Enalaprilat; its salts
 
+- Enfuvirtide
+
 - Enoxacin; its salts; its esters
 
 - Enoxaparin; its salts
@@ -1294,6 +1298,8 @@ THE POISONS LIST
 
 - Mefruside
 
+- Melagatran; its salts; its derivatives; their salts
+
 - Melitracen; its salts
 
 - Meloxicam; its salts
@@ -1399,6 +1405,8 @@ THE POISONS LIST
 - Midodrine; its salts
 
 - Miglitol; its salts
+
+- Milnacipran; its salts
 
 - Milrinone; its salts
 
@@ -2266,7 +2274,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005)
 
 - PART II A
 
