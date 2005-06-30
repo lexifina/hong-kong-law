@@ -2,11 +2,7 @@
 
 - 1. Visitor The president of the Church Missionary Society shall be the Visitor of the College.
 
-- 2.
-
-- Council
-
-- The council shall consist of—
+- 2. Council The council shall consist of—
 
   - (a) the following members ex officio—
 
@@ -26,7 +22,9 @@
 
     - (i) one man and one woman being former residents of the College, appointed by the associations of alumnae and alumni;
 
-    - (ii) four principals of Anglican secondary schools in the Diocese of Victoria, Hong Kong, appointed by the Bishop of Victoria, Hong Kong, for a period of two years at a time;
+    - (ii) four principals of Hong Kong Sheng Kung Hui Secondary Schools, appointed by the Standing Committee of the General Synod of the Province of Hong Kong Sheng Kung Hui, for a period of two years at a time; (Amended L.N. 109 of 2005)
+
+    - (iii) two representatives appointed by the Standing Committee of the General Synod of the Province of Hong Kong Sheng Kung Hui, for a period of two years at a time; (Added L.N. 109 of 2005)
 
   - (c) two other members as may be elected by the council.
 
@@ -36,7 +34,7 @@
 
   - (2) The President shall be the principal officer.
 
-  - (3) The Bishop of Victoria, Hong Kong, shall be the President.
+  - (3) The President shall be appointed by the council. (Replaced L.N. 109 of 2005)
 
   - (4) The Master shall be the chief administrative officer.
 
