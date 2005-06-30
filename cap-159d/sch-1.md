@@ -14,12 +14,14 @@ $
 
 3. | 29(2) | Entry on the roll of barristers of the name of a barrister | Registrar | 360
 
-4. | 30(1) | Practising certificate-barrister | Hong Kong Bar Association | 1600
+4. | 30(1) | Practising certificate—barrister | Hong Kong Bar Association | 1,600
 
-4A. | 30(1) | Limited practising certificate-barrister (L.N. 387 of 1993; L.N. 6 of 2003) | Hong Kong Bar Association | 500
+4A. | 30(1) | Limited practising certificate—barrister (L.N. 387 of 1993; L.N. 6 of 2003) | Hong Kong Bar Association | 500
 
-4B. | 31C | Employed barrister’s certificate (L.N. 6 of 2003) | Hong Kong Bar Association | 1600
+4B. | 31C | Employed barrister’s certificate (L.N. 6 of 2003) | Hong Kong Bar Association | 1,600
 
-5. | 40 | Registration of notary public | Registrar | 1135
+5. | (Repealed 27 of 1998 s. 10)
+
+6. | 40C | Registration of notary public (L.N. 29 of 2005) | Registrar | 360
 
 (L.N. 110 of 1991; L.N. 385 of 1991; L.N. 314 of 1992; L.N. 387 of 1993; L.N. 119 of 1994; L.N. 572 of 1994; L.N. 359 of 1998; L.N. 276 of 1999; L.N. 291 of 2000; L.N. 341 of 2000)
