@@ -18,7 +18,7 @@
 
     - (b) Technical Standard for Seatback Impact Absorption and Type Approval Test Procedures (TRIAS) 36-1975,
 
-  - made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle with a passenger capacity of 11 or less in Circular of Jisha No. 899 of 1 October 1983 and Circular of Kinshin No. 453 of 24 August 1971 including all revisions of those standards and test procedures made before the date* this section comes into operation.
+  - made by the Minister of Land, Infrastructure and Transport of Japan for motor vehicle with a passenger capacity of 11 or less in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of those standards and test procedures made before the date* this section comes into operation. (L.N. 68 of 2005)
 
   - 5. Federal Motor Vehicle Safety Standard No. 201 of Federal Regulations Vol. 36 No. 232 of USA dated 2 December 1971 including all revisions for occupant protection in interior impact made before the date* this section comes into operation; and Federal Motor Vehicle Safety Standard No. 207 of Federal Regulations Vol. 36 No. 232 of USA dated 2 December 1971 including all revisions for seating systems made before the date* this section comes into operation.
 
@@ -36,7 +36,7 @@
 
   - 4. Directive 74/408/EEC issued by the European Economic Community dated 22 July 1974 including all revisions for motor vehicles with regard to the seats, their anchorages and head restraints made before the date* this section comes into operation.
 
-  - 5. Technical Standard for Head Restraints and Type Approval Test Procedures (TRIAS) 32-1983 made by the Minister of Land, Infrastructure and Transport of Japan for driver’s seat and front seat beside the driver’s seat of a motor vehicle with a passenger capacity of 11 or less in Circular of Jisha No. 899 of 1 October 1983 and Circular of Kinshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date* this section comes into operation.
+  - 5. Technical Standard for Head Restraints and Type Approval Test Procedures (TRIAS) 32-1983 made by the Minister of Land, Infrastructure and Transport of Japan for driver’s seat and front seat beside the driver’s seat of a motor vehicle with a passenger capacity of 11 or less in Circular of Jisha No. 899 of 1 October 1983 and Circular of Koshin No. 453 of 24 August 1971 including all revisions of that standard and test procedures made before the date* this section comes into operation. (L.N. 68 of 2005)
 
   - 6. Federal Motor Vehicle Safety Standard No. 202 of Federal Regulations Vol. 36 No. 232 of USA dated 2 December 1971 including all revisions for head restraints made before the date* this section comes into operation.
 
