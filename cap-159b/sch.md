@@ -424,14 +424,30 @@ FORM 8
 
 _
 
-FORM 9 | [rule 12]
+FORM 9
 
-ADMISSION AND REGISTRATION RULES REGISTER OF NOTARIES PUBLIC
-
-Name | Date of Production of Notarial Faculty | Date of Registry | Affidavit of Identity when filed
+(Repealed 27 of 1998 s. 9)
 
 _
 
 FORM 10
 
 (Repealed L.N. 5 of 2003)
+
+_
+
+FORM 11 | [rule 12E]
+
+CERTIFICATE OF APPOINTMENT
+
+AS NOTARY PUBLIC
+
+I HEREBY CERTIFY THAT .was appointed as a notary public of Hong Kong on the .day of .
+
+Dated this . day of .
+
+.
+
+Chief Judge, Hong Kong.
+
+(L.N. 28 of 2005)
