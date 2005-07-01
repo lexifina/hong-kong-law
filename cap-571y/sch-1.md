@@ -256,4 +256,6 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 126. | Zhejiang Expressway Co. Ltd. stock futures contract | 5000 open contracts for any one contract month | 1000 open contracts for any one contract month
 
-(L.N. 84 of 2003; L.N. 221 of 2003; L.N. 66 of 2004)
+127. | FTSE/Xinhua China 25 Index futures and options contracts | 6000 long or short position delta limit for all contract months combined | 500 open FTSE/Xinhua China 25 Index futures contracts for any one contract month and 500 open FTSE/Xinhua China 25 Index options contracts for any one series
+
+(L.N. 84 of 2003; L.N. 221 of 2003; L.N. 66 of 2004; L.N. 69 of 2005)
