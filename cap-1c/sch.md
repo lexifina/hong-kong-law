@@ -344,7 +344,7 @@ Financial Secretary | Companies Ordinance (Chapter 32), section 157E(4)(a). (L.N
 
 Financial Secretary | Companies Ordinance (Chapter 32), section 337B(3). (L.N. 345 of 1985)
 
-Financial Secretary | Customs and Excise Service (Welfare Fund) Regulations (Chapter 342 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
+Financial Secretary | Customs and Excise Service (Welfare Fund) Regulation (Chapter 342 subsidiary legislation C), section 8. (L.N. 389 of 1990; 10 of 2005 s. 220)
 
 Financial Secretary | Fire Services Department (Welfare Fund) Regulations (Chapter 95 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
 

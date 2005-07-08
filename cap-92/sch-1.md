@@ -34,9 +34,7 @@ President, Lands Tribunal
 
 Presiding Officer, Lands Tribunal (Added 49 of 1982 s. 18)
 
-Member of the Lands Tribunal
-
-(being a member who is in the full-time service of the Government) (Added 42 of 1984 s. 2. Amended 25 of 1998 s. 2)
+Member of the Lands Tribunal appointed under section 4(1)(c) of the Lands Tribunal Ordinance (Cap. 17) (Replaced 10 of 2005 s. 131)
 
 Principal Presiding Officer, Labour Tribunal (Added L.N. 7 of 1995)
 
@@ -46,7 +44,11 @@ Principal Adjudicator, Small Claims Tribunal (Added L.N. 7 of 1995)
 
 Adjudicator, Small Claims Tribunal (Added 79 of 1975 s. 40)
 
+Registrar of the Court of Final Appeal (Added 10 of 2005 s. 131)
+
 Registrar of the High Court
+
+Senior Deputy Registrar, High Court (Added 10 of 2005 s. 131)
 
 Deputy Registrar, High Court (Added L.N. 268 of 1986)
 

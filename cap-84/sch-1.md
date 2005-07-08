@@ -8,7 +8,7 @@ SHIPS SUBJECT TO COMPULSORY PILOTAGE
 
 - 2. A ship of 1000 gross registered tonnage or over proceeding to or from any wharf specified in Part I of the First Schedule, and any container terminal specified in the Third Schedule, to the Dangerous Goods (Shipping) Regulations (Cap. 295 sub. leg. C).
 
-- 3. A ship of 1000 gross registered tonnage or over carrying dangerous goods specified in Categories 1, 2 and 5 in the Schedule to the Dangerous Goods (Classification) Regulations *(Cap. 295 sub. leg.).
+- 3. A ship of 1000 gross registered tonnage or over carrying dangerous goods specified in Categories 1, 2 and 5 in the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A). (Amended 10 of 2005 s. 208)
 
 - 4. A ship of 1000 gross registered tonnage or over proceeding to or from a Government mooring buoy.
 
@@ -21,7 +21,3 @@ SHIPS SUBJECT TO COMPULSORY PILOTAGE
   - (c) is at risk of causing injury to persons or damage to property, any other ship or the environment by virtue of the condition of the ship or the nature or condition of its cargo.
 
 - 6. A gas carrier as defined in regulation 2 of the Merchant Shipping (Safety) (Gas Carriers) Regulations (Cap. 369 sub. leg. Z). (Added L.N. 160 of 1995) (Schedule 1 added 29 of 1985 s. 7. Amended L.N. 163 of 1987; L.N. 160 of 1995)
-
-Editorial Note:
-
-* This title has been amended to Dangerous Goods (Application and Exemption) Regulations-see L.N. 126 of 1990.

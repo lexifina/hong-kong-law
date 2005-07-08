@@ -126,7 +126,7 @@ Hong Kong APPLICATION FOR LICENCE TO OPERATE A SCHEDULED SERVICE (To: The Licens
 
 - _
 
-- FORM 3 | [regulation 8]
+- FORM 3 | [regulations 8 & 9]
 
 - Hong Kong
 
@@ -150,15 +150,29 @@ Hong Kong APPLICATION FOR LICENCE TO OPERATE A SCHEDULED SERVICE (To: The Licens
 
   - 2. The application referred to is that from— Applicant: To operate a service from . to .
 
-  - 3. Representations/Objections are as follows:— Date . Signed . * Delete all the words if a public inquiry is NOT desired. Such Notice must be received by the Licensing Authority within 14 days of the date of the first publication of the application. _
+  - 3. Representations/Objections are as follows:— Date . Signed . * Delete all the words if a public inquiry is NOT desired. Such Notice must be received by the Licensing Authority within 14 days of the date of the first publication of the application.
 
-  - FORM 4 | [regulation 9]
+- (10 of 2005 s. 207)
 
-  - Hong Kong NOTIFICATION OF INQUIRY BEFORE DETERMINING APPLICATION(S)
+- _
 
-  - TO OPERATE SCHEDULED AIR SERVICE(S) From: The Secretary, Licensing Authority Address: .
+- FORM 4 | [regulation 9]
 
-  - Date: . To: . . Sir/Madam: I am directed to notify you-in accordance with regulation 9 of the Air Transport (Licensing of Air Services) Regulations that the Licensing Authority will hold a private/public inquiry to consider the application by . .
+- Hong Kong NOTIFICATION OF INQUIRY BEFORE DETERMINING APPLICATION(S)
+
+- TO OPERATE SCHEDULED AIR SERVICE(S)
+
+- From: The Secretary, Licensing Authority
+
+- Address: .
+
+- Date: .
+
+- To: .
+
+- .
+
+  - Sir/Madam: I am directed to notify you-in accordance with regulation 9 of the Air Transport (Licensing of Air Services) Regulations that the Licensing Authority will hold a private/public inquiry to consider the application by . .
 
   - .
 

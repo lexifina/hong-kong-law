@@ -112,9 +112,11 @@ Item | Ordinance | Decision
 
 58. | Merchant Shipping (Seafarers) (Certificates of Proficiency in Survival Craft, Rescue Boats and Fast Rescue Boats) Rules (Cap. 478 sub. leg. Z) | A decision of the Seafarers’ Authority— (a) to refuse to issue a certificate of proficiency in survival craft and rescue boats under section 4; (b) to refuse to issue a certificate of proficiency in fast rescue boats under section 4A; or (c) to cancel a certificate of proficiency in survival craft and rescue boats or a certificate of proficiency in fast rescue boats under section 7(2). (Added 23 of 2002 s. 14)
 
-59. | (Repealed 23 of 2002 s. 14)
+59. | Marine Fish Culture Ordinance (Cap. 353) | A decision of the Director of Agriculture, Fisheries and Conservation— (a) to refuse to grant or renew a licence under section 8(6); (b) to refuse to approve the transfer of a licence under section 8A(3)(b); (c) to cancel a licence under section 9(1); (d) to refuse to grant a permit under section 14(1); (e) to cancel or refuse to renew a permit under section 14(2). (Added 10 of 2005 s. 230)
 
 60. | Land (Miscellaneous Provisions) Ordinance (Cap. 28) | A decision of the Director of Highways under section 10M(13) relating to an assessment made under section 10M(1)(d), (g), (h) or (i). (Added 17 of 2003 s. 15)
+
+62. | Medical Clinics Ordinance (Cap. 343) | (a) A refusal by the Registrar of Clinics under section 8 to grant or renew an exemption in respect of a clinic. (b) A cancellation by the Registrar of Clinics under section 8 of an exemption granted in respect of a clinic. (c) An order by the Registrar of Clinics under section 11 to refuse an application for the registration of a clinic or to cancel the registration of a clinic. (Added 10 of 2005 s. 7)
 
 64. | Merchant Shipping (Security of Ships and Port Facilities) Ordinance (Cap. 582) | A decision of the Director of Marine under section 7(1)(a) or (c) or 8(2). (Added 13 of 2004 s. 18)
 
