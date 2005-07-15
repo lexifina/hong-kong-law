@@ -90,6 +90,8 @@ Luen Wo Hui Market | 聯和墟街市 (L.N. 96 of 2002)
 
 Mong Kok Market | 旺角街市 (78 of 1999 s. 7)
 
+Mong Kok Cooked Food Market | 旺角熟食市場 (L.N. 125 of 2005)
+
 Mui Wo Cooked Food Market | 梅窩熟食市場 (L.N. 357 of 1985)
 
 Mui Wo Market | 梅窩街市 (L.N. 110 of 1993)
