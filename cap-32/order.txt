@@ -285,6 +285,11 @@ s-152C.md
 s-152D.md
 s-152E.md
 s-152F.md
+s-152FA.md
+s-152FB.md
+s-152FC.md
+s-152FD.md
+s-152FE.md
 s-153.md
 s-153A.md
 s-153B.md
@@ -337,6 +342,17 @@ s-167.md
 s-168.md
 s-168A.md
 s-168B.md
+s-168BA.md
+s-168BB.md
+s-168BC.md
+s-168BD.md
+s-168BE.md
+s-168BF.md
+s-168BG.md
+s-168BH.md
+s-168BI.md
+s-168BJ.md
+s-168BK.md
 s-168C.md
 s-168D.md
 s-168E.md
@@ -603,6 +619,7 @@ s-349.md
 s-349A.md
 s-350.md
 s-350A.md
+s-350B.md
 s-351.md
 s-351A.md
 s-351B.md

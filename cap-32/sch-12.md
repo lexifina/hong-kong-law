@@ -226,6 +226,8 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 152E | Person falsifying documents required under section 152A | On indictment Summary | $1,500,000 and 3 years $150,000 and 12 months | — —
 
+152FC(3) | Person disclosing or using information or document obtained as a result of an inspection under section 152FA contrary to section 152FC(1) or (2) (Added 30 of 2004 s. 2) | On indictment Summary | $150,000 and 2 years level 5 and 6 months | — —
+
 153(3) | Company (not being a private company) failing to have at least 2 directors (Amended 28 of 2003 s. 119) | Summary | level 3 | $300
 
 153A(3) | Private company failing to have at least one director (Added 28 of 2003 s. 119) | Summary | level 3 | $300
@@ -282,7 +284,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 167(3) | Company failing to give notice of an order under section 167 to the Registrar | Summary | level 3 | $300
 
-168A(4) | Company failing to give the Registrar an office copy of an order altering, etc., the company’s memorandum or articles on petition of a minority group | Summary | level 3 | $300
+168A(4) | Specified corporation failing to give the Registrar an office copy of an order altering, etc., the specified corporation’s memorandum or articles on petition of a minority group (Amended 30 of 2004 s. 2) | Summary | level 3 | $300
 
 168M | Person contravening a disqualification order (Added 30 of 1994 s. 12) | On indictment Summary | $100,000 and 2 years $25,000 and 6 months | — —
 
