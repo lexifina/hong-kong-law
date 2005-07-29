@@ -298,4 +298,6 @@ Item | Periods | Rate of interest
 
 147. | On or after 3 May 2005 and before 6 June 2005 (L.N. 59 of 2005; L.N. 89 of 2005) | 0.7500% per annum
 
-148. | On or after 6 June 2005 (L.N. 89 of 2005) | 1.0833% per annum
+148. | On or after 6 June 2005 and before 1 August 2005 (L.N. 89 of 2005; L.N. 128 of 2005) | 1.0833% per annum
+
+149. | On or after 1 August 2005 (L.N. 128 of 2005) | 1.6000% per annum
