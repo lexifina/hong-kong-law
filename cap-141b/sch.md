@@ -48,25 +48,27 @@ Hospital(s) attended: | Hospital/A & E Number:
 
 Disease (✓) below Suspected/Confirmed on _/_/_.
 
-Acute Poliomyelitis | Japanese encephalitis | Relapsing Fever
+Acute Poliomyelitis | Legionnaires’ Disease | Scarlet Fever
 
-Amoebic Dysentery | Legionnaires’ Disease | Rubella
+Amoebic Dysentery | Leprosy | Severe Acute Respiratory Syndrome
 
-Bacillary Dysentery | Leprosy | Scarlet Fever
+Bacillary Dysentery | Malaria | Streptococcus suis infection
 
-Chickenpox | Malaria | Severe Acute Respiratory Syndrome
+Chickenpox | Measles | Tetanus
 
-Cholera | Measles | Tetanus
+Cholera | Meningococcal Infections | Typhoid Fever
 
-Dengue Fever | Meningococcal Infections | Typhoid Fever
+Dengue Fever | Mumps | Typhus
 
-Diphtheria | Mumps | Typhus
+Diphtheria | Paratyphoid Fever | Viral Hepatitis
 
-Food Poisoning | Paratyphoid Fever | Viral Hepatitis
+Food Poisoning | Plague | Whooping Cough
 
-Influenza A (H5), Influenza A (H7) | Plague | Whooping Cough
+Influenza A (H5), Influenza A (H7) | Rabies | Yellow Fever
 
-or Influenza A (H9) | Rabies | Yellow Fever
+or Influenza A (H9) | Relapsing Fever
+
+Japanese encephalitis | Rubella
 
 Notified under the Prevention of the Spread of Infectious Diseases Regulations by
 
@@ -80,4 +82,4 @@ Telephone Number: _ | _
 
 Remarks:
 
-(L.N. 81 of 1994; L.N. 347 of 1998; L.N. 80 of 2003; L.N. 15 of 2004; L.N. 138 of 2004; L.N. 224 of 2004)
+(L.N. 81 of 1994; L.N. 347 of 1998; L.N. 80 of 2003; L.N. 15 of 2004; L.N. 138 of 2004; L.N. 224 of 2004; L.N. 131 of 2005)
