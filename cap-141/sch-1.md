@@ -50,6 +50,8 @@ INFECTIOUS DISEASES
 
 - 19A. Severe Acute Respiratory Syndrome (Added L.N. 79 of 2003)
 
+- 19B. Streptococcus suis infection (Added L.N. 130 of 2005)
+
 - 20. Tetanus
 
 - 21. Tuberculosis
