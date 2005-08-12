@@ -164,6 +164,8 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Housing Management
 
+    - Bachelor of Journalism
+
     - Bachelor of Laws
 
     - Bachelor of Management Studies
@@ -266,6 +268,8 @@ ARRANGEMENT OF STATUTES
 
     - Master of Public Administration (International)
 
+    - Master of Public Health
+
     - Master of Research in Medicine
 
     - Master of Science
@@ -277,6 +281,8 @@ ARRANGEMENT OF STATUTES
     - Master of Science in Conservation
 
     - Master of Science in Construction Project Management
+
+    - Master of Science in Dental Materials Science
 
     - Master of Science in Electronic Commerce and Internet Computing
 
@@ -291,6 +297,8 @@ ARRANGEMENT OF STATUTES
     - Master of Science in Information Technology in Education
 
     - Master of Science in Interdisciplinary Design and Management
+
+    - Master of Science in Library and Information Management
 
     - Master of Science in Real Estate
 
@@ -326,6 +334,8 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Philosophy
 
+    - Doctor of Psychology
+
     - Doctor of Science
 
     - Doctor of Social Sciences
@@ -340,13 +350,15 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences honoris causa
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005)
 
   - 2. The University may award any of the following diplomas and certificates—
 
     - (a) Diplomas Advanced Diploma in Education
 
     - Advanced Diploma in Endodontics
+
+    - Advanced Diploma in Oral and Maxillofacial Surgery
 
     - Advanced Diploma in Orthodontics
 
@@ -368,6 +380,10 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Building Services
 
+    - Postgraduate Diploma in Child and Adolescent Health
+
+    - Postgraduate Diploma in Chinese Language Subject Knowledge for Graduate Teachers
+
     - Postgraduate Diploma in Clinical Research Methodology
 
     - Postgraduate Diploma in Commercial Law
@@ -382,7 +398,13 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Construction Project Management
 
+    - Postgraduate Diploma in Creative Writing in English
+
+    - Postgraduate Diploma in Dental Materials Science
+
     - Postgraduate Diploma in Dental Surgery
+
+    - Postgraduate Diploma in Education
 
     - Postgraduate Diploma in Engineering, in engineering disciplines as determined by the Senate from time to time
 
@@ -391,6 +413,8 @@ ARRANGEMENT OF STATUTES
     - Postgraduate Diploma in Geographic Information Systems
 
     - Postgraduate Diploma in Infectious Diseases
+
+    - Postgraduate Diploma in Information Technology and Intellectual Property Law
 
     - Postgraduate Diploma in Information Technology Law
 
@@ -405,6 +429,10 @@ ARRANGEMENT OF STATUTES
     - Postgraduate Diploma in the Law of the People’s Republic of China
 
     - Postgraduate Diploma in Nursing
+
+    - Postgraduate Diploma in Psycho-oncology
+
+    - Postgraduate Diploma in Public Health
 
     - Postgraduate Diploma in Public Law
 
@@ -444,7 +472,11 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Certificate in Psychology
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003)
+    - Postgraduate Certificate in Psycho-oncology
+
+    - Postgraduate Certificate in Public Health
+
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
