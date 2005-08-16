@@ -59,6 +59,7 @@ s-038.md
 s-039.md
 s-040.md
 s-041.md
+s-041A.md
 s-042.md
 s-043.md
 s-044.md
@@ -110,3 +111,4 @@ sch-15.md
 sch-16.md
 sch-17.md
 sch-18.md
+sch-19.md
