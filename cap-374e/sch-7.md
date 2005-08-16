@@ -70,7 +70,7 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (vii) Ngan Shing Street between Sha Tin Wai Road and Chap Wai Kon Street;
 
-    - (viii) Chap Wai Kon Street west of its junction with Ngan Shing Street;
+  - (viii) Chap Wai Kon Street west of its junction with Ngan Shing Street;
 
     - (ix) Ma On Shan Road;
 
@@ -106,7 +106,7 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (vii) Wai Tsuen Road;
 
-    - (viii) Miu Kong Street;
+  - (viii) Miu Kong Street;
 
     - (ix) Shing Mun Road between Miu Kong Street and Sai Lau Kok Road;
 
@@ -130,9 +130,23 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (xix) North Lantau Highway;
 
-    - (xx) Ting Kau Bridge; and
+    - (xx) Ting Kau Bridge;
 
-    - (xxi) Tai Lam Tunnel.
+    - (xxi) Tai Lam Tunnel;
+
+    - (xxii) Penny’s Bay Highway; (L.N. 58 of 2005)
+
+    - (xxiii) the 4 slip roads joining North Lantau Highway and Penny’s Bay Highway; (L.N. 58 of 2005)
+
+    - (xxiv) Magic Road; (L.N. 58 of 2005)
+
+    - (xxv) Inspiration Drive; (L.N. 58 of 2005)
+
+    - (xxvi) Fantasy Road; (L.N. 58 of 2005)
+
+    - (xxvii) Chak Yan Road; and (L.N. 58 of 2005)
+
+    - (xxviii) Long Yan Road. (L.N. 58 of 2005)
 
   - (g) The following roads in the Tuen Mun District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)— All roads.
 
@@ -152,9 +166,13 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (vi) Cheong Lin Road between Cheong Wong Road and Airport South Interchange;
 
-    - (vii) Airport South Interchange; and
+    - (vii) Airport South Interchange;
 
-    - (viii) Airport North Interchange.
+  - (viii) Airport North Interchange;
+
+    - (ix) Magic Road; and (L.N. 58 of 2005)
+
+    - (x) Sea Point Road. (L.N. 58 of 2005)
 
   - (j) The following roads in the Kwai Tsing District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
 
@@ -172,15 +190,17 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (vii) the slip road joining Tsing Yi Road West and Cheung Tsing Highway;
 
-    - (viii) Cheung Tsing Highway between the slip road joining Cheung Tsing Highway and Tsing Yi Road West and North West Tsing Yi Interchange;
+  - (viii) Cheung Tsing Highway between the slip road joining Cheung Tsing Highway and Tsing Yi Road West and North West Tsing Yi Interchange;
 
     - (ix) North West Tsing Yi Interchange;
 
     - (x) Lantau Link;
 
-    - (xi) Ting Kau Bridge; and
+    - (xi) Ting Kau Bridge;
 
-    - (xii) Tsing King Road between Tam Kon Shan Interchange and Tsing Yi Station of the Airport Railway.
+    - (xii) Tsing King Road between Tam Kon Shan Interchange and Tsing Yi Station of the Airport Railway; and
+
+    - (xiii) Tsing Yi North Coastal Road. (L.N. 58 of 2005)
 
 - (L.N. 58 of 2005)
 
