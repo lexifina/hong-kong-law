@@ -1,0 +1,5 @@
+AIR NAVIGATION (FLIGHT PROHIBITION) ORDER
+
+(Cap. 448, sections 2A(2) and 12(2))
+
+[16 August 2005] L.N. 41 of 2005
