@@ -60,6 +60,8 @@ Item | Substance | Description of substance | Description of food | Maximum conc
 
 26. | Lincomycin | Muscle of bovine, porcine and poultry Liver of bovine, porcine and poultry Kidney of bovine, porcine and poultry Milk | 100 micrograms per kilogram of the food. 500 micrograms per kilogram of the food. 1500 micrograms per kilogram of the food. 150 micrograms per kilogram of the food.
 
+26A. | Malachite green | Sum of malachite green and leucomalachite green | Any food (including live fish, live reptiles and live poultry) | 0 microgram per kilogram of the food. (L.N. 137 of 2005)
+
 27. | Metronidazole | Muscle, liver and kidney of porcine and poultry | 0 microgram per kilogram of the food.
 
 28. | Neomycin | Muscle and liver of bovine, porcine and poultry Kidney of bovine, porcine and poultry Milk | 500 micrograms per kilogram of the food. 10000 micrograms per kilogram of the food. 500 micrograms per kilogram of the food.
