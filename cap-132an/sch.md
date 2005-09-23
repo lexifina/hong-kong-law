@@ -154,6 +154,8 @@ Sze Shan Street Cooked Food Market | 四山街熟食市場 (78 of 1999 s. 7)
 
 Tai Kiu Market | 大橋街市 (L.N. 288 of 1984)
 
+Tai Kok Tsui Market | 大角咀街市 (L.N. 147 of 2005)
+
 Tai Kok Tsui Temporary Market | 大角咀臨時街市 (78 of 1999 s. 7)
 
 Tai O (Lantau) Market | 大澳街市
