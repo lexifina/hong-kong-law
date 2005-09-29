@@ -1,0 +1,5 @@
+NOTARIES PUBLIC (PRACTICE) RULES
+
+(Cap. 159, section 73D)
+
+[29 September 2005] L.N. 60 of 2005
