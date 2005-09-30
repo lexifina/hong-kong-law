@@ -302,4 +302,6 @@ Item | Periods | Rate of interest
 
 149. | On or after 1 August 2005 and before 5 September 2005 (L.N. 128 of 2005; L.N. 141 of 2005) | 1.6000% per annum
 
-150. | On or after 5 September 2005 (L.N. 141 of 2005) | 1.8500% per annum
+150. | On or after 5 September 2005 and before 3 October 2005 (L.N. 141 of 2005; L.N. 155 of 2005) | 1.8500% per annum
+
+151. | On or after 3 October 2005 (L.N. 155 of 2005) | 2.1333% per annum
