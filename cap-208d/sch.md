@@ -20,4 +20,6 @@
 
 - all delineated in black and coloured pink, except those portions within such areas marked with black hatching, on Plan No. SA/MSCB dated 12 November 1998 and deposited in the office of the Country and Marine Parks Authority. (L.N. 93 of 1999)
 
-- 5. The area of Government land at Lai Chi Wo delineated in black and coloured pink on Plan No. SA/LCW dated 8 December 2004 and deposited in the office of the Country and Marine Parks Authority. (L.N. 216 of 2004) (37 of 1995 s. 35; 29 of 1998 s. 105)
+- 5. The area of Government land at Lai Chi Wo delineated in black and coloured pink on Plan No. SA/LCW dated 8 December 2004 and deposited in the office of the Country and Marine Parks Authority. (L.N. 216 of 2004)
+
+- 6. The area of Government land known as the Hong Kong Wetland Park delineated in black and coloured pink on Plan No. SA/HKWP dated 27 April 2005 and deposited in the office of the Country and Marine Parks Authority. (L.N. 64 of 2005) (37 of 1995 s. 35; 29 of 1998 s. 105)
