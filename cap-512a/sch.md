@@ -22,6 +22,10 @@ Belize | 1 September 1997
 
 Republic of Bosnia and Herzegovina | 1 September 1997
 
+Federative Republic of Brazil | 1 October 2005
+
+Republic of Bulgaria | 1 October 2005
+
 Democratic Republic of Burkina Faso | 1 September 1997
 
 Canada | Alberta British Columbia Manitoba New Brunswick Newfoundland Nova Scotia Ontario Prince Edward Island Quebec Saskatchewan Yukon Territory Northwest Territories Nunavut | 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 January 2001
@@ -39,6 +43,10 @@ Czech Republic | 1 March 1998
 Kingdom of Denmark (except the Faroe Islands and Greenland) | 1 September 1997
 
 Republic of Ecuador | 1 September 1997
+
+Republic of Estonia | 1 October 2005
+
+Republic of the Fiji Islands | 1 October 2005
 
 Republic of Finland | 1 September 1997
 
@@ -62,9 +70,15 @@ State of Israel | 1 September 1997
 
 Republic of Italy | 1 September 1997
 
+Republic of Latvia | 1 October 2005
+
+Republic of Lithuania | 1 October 2005
+
 Grand-Duchy of Luxembourg | 1 September 1997
 
 Republic of Macedonia | 1 September 1997
+
+Republic of Malta | 1 October 2005
 
 Republic of Mauritius | 1 September 1997
 
@@ -82,6 +96,8 @@ Kingdom of Norway | 1 September 1997
 
 Republic of Panama | 1 September 1997
 
+Republic of Peru | 1 October 2005
+
 Polish Republic (Poland) | 1 September 1997
 
 Republic of Portugal | 1 September 1997
@@ -98,9 +114,15 @@ Republic of South Africa | 1 December 1998
 
 Kingdom of Spain | 1 September 1997
 
+Democratic Socialist Republic of Sri Lanka | 1 October 2005
+
 Kingdom of Sweden | 1 September 1997
 
 Confederation Suisse (Switzerland) | 1 September 1997
+
+Kingdom of Thailand | 1 October 2005
+
+Republic of Trinidad and Tobago | 1 October 2005
 
 Republic of Turkey | 1 August 2000
 
@@ -120,10 +142,14 @@ Montserrat | 1 March 1999
 
 United States of America | 1 September 1997
 
+Oriental Republic of Uruguay | 1 October 2005
+
+Republic of Uzbekistan | 1 October 2005
+
 Republic of Venezuela | 1 September 1997
 
 Federal Republic of Yugoslavia | 1 September 1997
 
 Republic of Zimbabwe | 1 September 1997
 
-(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002)
+(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005)
