@@ -32,4 +32,14 @@ Year of birth | Specified period
 
 1972 or 1973 | From 26 September 2005 to 12 November 2005
 
-(L.N. 264 of 2003; L.N. 77 of 2004; L.N. 212 of 2004)
+1974 or 1975 | From 14 November 2005 to 24 December 2005
+
+1976 or 1977 | From 28 December 2005 to 11 February 2006
+
+1978 or 1979 | From 13 February 2006 to 25 March 2006
+
+1980, 1981 or 1982 | From 27 March 2006 to 27 May 2006
+
+1983, 1984 or 1985 | From 29 May 2006 to 8 July 2006
+
+(L.N. 264 of 2003; L.N. 77 of 2004; L.N. 212 of 2004; L.N. 85 of 2005)
