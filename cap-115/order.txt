@@ -12,6 +12,9 @@ s-002AF.md
 s-002AG.md
 s-003.md
 s-004.md
+s-004A.md
+s-004B.md
+s-004C.md
 s-005.md
 s-006.md
 s-007.md
