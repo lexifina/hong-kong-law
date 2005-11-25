@@ -46,7 +46,7 @@ Adalimumab
 
 Adapalene; its salts; its esters
 
-Adefovir; its salts
+Adefovir; its salts; its esters; their salts
 
 Alclofenac; its complexes
 
@@ -218,6 +218,8 @@ Becaplermin; its salts
 
 Befunolol; its salts
 
+Bemiparin; its salts
+
 Benactyzine; its salts
 
 Benazepril; its salts
@@ -369,8 +371,6 @@ Cetuximab
 Chlofenamic acid; its salts
 
 Chloral; its addition and its condensation products other than alphachloralose; any compound with any substance falling within this item, except when contained, in the form of chloral hydrate, in preparations intended for external application only
-
-Chloral; its addition and its condensation products other than alphachloralose; any compound with any substance falling within this item; except when contained, in the form of chloral hydrate, in preparations intended for external application only
 
 Chlordiazepoxide; its salts
 
@@ -627,6 +627,8 @@ Doxepin; its salts; its derivatives; their salts
 Droperidol
 
 Drotrecogin alfa
+
+Duloxetine; its salts
 
 Dutasteride
 
@@ -1206,7 +1208,7 @@ Nicergoline
 
 Nicocodine; its salts
 
-Nicotinic acid; its salts; only when contained in pharmaceutical products the recommended daily dose of which contains more than 200 mg of nicotinic acid
+Nicotinic acid and its salts when contained in pharmaceutical products the recommended daily dose of which contains more than 200 mg of nicotinic acid
 
 Nifedipine
 
@@ -1584,6 +1586,8 @@ Stavudine; its salts
 
 Streptokinase
 
+Strontium ranelate
+
 Strophanthus, glycosides of
 
 Styramate
@@ -1854,7 +1858,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005)
 
 B
 
