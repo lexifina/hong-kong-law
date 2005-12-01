@@ -52,7 +52,7 @@ FIXED PENALTY | $1,500 | 01 | 未經准許而展示招貼或海報(《公眾衞�
 
 07 | 海上棄置廢物(《簡易程序治罪條例》(第228章)第4D(1)條) Marine littering (section 4D(1) of the Summary Offences Ordinance (Cap. 228))
 
-棄置廢物的種類 Description of litter deposited . | 08 | 非法存放廢物(《廢物處置條例》(第354章)第16A(1)條) Unlawful depositing of waste (section 16A(1) of the Waste Disposal Ordinance (Cap. 354))
+棄置廢物的種類 Description of litter deposited . | 08 | 非法擺放廢物(《廢物處置條例》(第354章)第16A(1)條) Unlawful depositing of waste (section 16A(1) of the Waste Disposal Ordinance (Cap. 354))
 
 地點 Place .
 
@@ -94,7 +94,7 @@ FIXED PENALTY | $1,500 | 01 | 未經准許而展示招貼或海報(《公眾衞�
 
 3. 支票、匯票或本票均須以“香港特別行政區政府”或“香港特區政府”為收款人，並加以劃線。以支票付款，須在支票首次提交付款銀行獲得兌現後，繳款方為有效。期票恕不接受。 | 3. Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. For payment made by cheque, payment is valid only when the cheque is honoured on the first presentation to the drawee bank. Post-dated cheques will not be accepted.
 
-(L.N. 155 of 2003)
+(L.N. 155 of 2003; 17 of 2004 s. 17)
 
 通知書編號
 
