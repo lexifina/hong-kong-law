@@ -338,7 +338,7 @@ Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Re
 
 Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Reserved Commodities (Control of Sales by Wholesale) Regulations (Chapter 296 subsidiary legislation B). (L.N. 51 of 1984)
 
-Financial Secretary | Companies Ordinance (Chapter 32), sections 123(4), 124(2), 126(2) and (3), 128(3), 129(3) and 129A(2); and paragraphs 6(b), 13(2), 18(4), 27(1) and 28(3) of the Tenth Schedule, only. (L.N. 86 of 1978)
+Financial Secretary | Companies Ordinance (Chapter 32), sections 124(2), 128(3), 129(3) and 129A(2); and paragraphs 6(b), 13(2), 18(4), 27(1) and 28(3) of the Tenth Schedule, only. (L.N. 86 of 1978; 12 of 2005 s. 20)
 
 Financial Secretary | Companies Ordinance (Chapter 32), section 157E(4)(a). (L.N. 57 of 1989)
 

@@ -1,10 +1,8 @@
 # FOURTH SCHEDULE
 
-[s. 43]
+[ss. 2B & 43] (Amended 12 of 2005 s. 16)
 
 FORM OF STATEMENT IN LIEU OF PROSPECTUS TO BE DELIVERED TO REGISTRAR BY A COMPANY WHICH DOES NOT ISSUE A PROSPECTUS OR WHICH DOES NOT GO TO ALLOTMENT ON A PROSPECTUS ISSUED, AND REPORTS TO BE SET OUT THEREIN
-
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2)
 
 - PART I FORM OF STATEMENT AND PARTICULARS TO BE
 
@@ -88,31 +86,33 @@ FORM OF STATEMENT IN LIEU OF PROSPECTUS TO BE DELIVERED TO REGISTRAR BY A COMPAN
 
   - 2.
 
-    - (1) Where it is proposed to acquire shares in a body corporate which by reason of the acquisition or anything to be done in consequence thereof or in connexion therewith will become a subsidiary of the company, a report made by accountants (who shall be named in the statement) with respect to the profits and losses and assets and liabilities of the other body corporate in accordance with sub-paragraph (2) or (3), as the case requires, indicating how the profits or losses of the other body corporate dealt with by the report would, in respect of the shares to be acquired, have concerned members of the company, and what allowance would have fallen to be made, in relation to assets and liabilities so dealt with, for holders of other shares, if the company had at all material times held the shares to be acquired.
+    - (1) Where it is proposed to acquire shares in an undertaking which by reason of the acquisition or anything to be done in consequence thereof or in connexion therewith will become a subsidiary of the company, a report made by accountants (who shall be named in the statement) with respect to the profits and losses and assets and liabilities of the other undertaking in accordance with sub-paragraph (2) or (3), as the case requires, indicating how the profits or losses of the other undertaking dealt with by the report would, in respect of the shares to be acquired, have concerned members of the company, and what allowance would have fallen to be made, in relation to assets and liabilities so dealt with, for holders of other shares, if the company had at all material times held the shares to be acquired.
 
-    - (2) If the other body corporate has no subsidiaries, the report referred to in sub-paragraph (1) shall—
+    - (2) If the other undertaking has no subsidiaries, the report referred to in sub-paragraph (1) shall— (Amended 12 of 2005 s. 16)
 
-      - (a) so far as regards profits and losses, deal with the profits or losses of the body corporate in respect of each of the 5 financial years immediately preceding the delivery of the statement to the Registrar; and
+      - (a) so far as regards profits and losses, deal with the profits or losses of the undertaking in respect of each of the 5 financial years immediately preceding the delivery of the statement to the Registrar; and
 
-      - (b) so far as regards assets and liabilities, deal with the assets and liabilities of the body corporate at the last date to which the accounts of the body corporate were made up.
+      - (b) so far as regards assets and liabilities, deal with the assets and liabilities of the undertaking at the last date to which the accounts of the undertaking were made up.
 
-    - (3) If the other body corporate has subsidiaries, the report referred to in sub-paragraph (1) shall—
+    - (3) If the other undertaking has subsidiaries, the report referred to in sub-paragraph (1) shall— (Amended 12 of 2005 s. 16)
 
-      - (a) so far as regards profits and losses, deal separately with the other body corporate’s profits or losses as provided by sub-paragraph (2), and in addition deal either—
+      - (a) so far as regards profits and losses, deal separately with the other undertaking’s profits or losses as provided by sub-paragraph (2), and in addition deal either— (Amended 12 of 2005 s. 16)
 
-        - (i) as a whole with the combined profits or losses of its subsidiaries, so far as they concern members of the other body corporate; or
+        - (i) as a whole with the combined profits or losses of its subsidiaries, so far as they concern members of the other undertaking; or
 
-        - (ii) individually with the profits or losses of each subsidiary, so far as they concern members of the other body corporate;
+        - (ii) individually with the profits or losses of each subsidiary, so far as they concern members of the other undertaking;
 
-      - or, instead of dealing separately with the other body corporate’s profits or losses, deal as a whole with the profits or losses of the other body corporate and, so far as they concern members of the other body corporate, with the combined profits or losses of its subsidiaries; and
+      - or, instead of dealing separately with the other undertaking’s profits or losses, deal as a whole with the profits or losses of the other undertaking and, so far as they concern members of the other undertaking, with the combined profits or losses of its subsidiaries; and
 
-      - (b) so far as regards assets and liabilities, deal separately with the other body corporate’s assets and liabilities as provided by the last foregoing sub-paragraph and, in addition, deal either—
+      - (b) so far as regards assets and liabilities, deal separately with the other undertaking’s assets and liabilities as provided by the last foregoing sub-paragraph and, in addition, deal either— (Amended 12 of 2005 s. 16)
 
-        - (i) as a whole with the combined assets and liabilities of its subsidiaries, with or without the other body corporate’s assets and liabilities; or
+        - (i) as a whole with the combined assets and liabilities of its subsidiaries, with or without the other undertaking’s assets and liabilities; or
 
         - (ii) individually with the assets and liabilities of each subsidiary;
 
     - and shall indicate as respects the assets and liabilities of the subsidiaries the allowance to be made for persons other than members of the company.
+
+  - (Amended 12 of 2005 s. 16)
 
 - PART III PROVISIONS APPLYING TO PARTS I AND II OF THIS SCHEDULE
 
@@ -120,13 +120,13 @@ FORM OF STATEMENT IN LIEU OF PROSPECTUS TO BE DELIVERED TO REGISTRAR BY A COMPAN
 
     - In this Schedule the expression “vendor” (賣主) includes a vendor as defined in Part III of the Third Schedule, and the expression “financial year” (財政年度) has the meaning assigned to it in that Part of that Schedule.
 
-  - 4. If in the case of a business which has been carried on, or of a body corporate which has been carrying on business, for less than 5 years, the accounts of the business or body corporate have only been made up in respect of 4 years, 3 years, 2 years or 1 year, Part II shall have effect as if references to 4 years, 3 years, 2 years or 1 year, as the case may be, were substituted for references to 5 years.
+  - 4. If in the case of a business which has been carried on, or of an undertaking which has been carrying on business, for less than 5 years, the accounts of the business or undertaking have only been made up in respect of 4 years, 3 years, 2 years or 1 year, Part II shall have effect as if references to 4 years, 3 years, 2 years or 1 year, as the case may be, were substituted for references to 5 years. (Amended 12 of 2005 s. 16)
 
   - 5. Any report required by Part II shall either indicate by way of note any adjustments as respects the figures of any profits or losses or assets and liabilities dealt with by the report which appear to the persons making the report necessary or shall make those adjustments and indicate that adjustments have been made.
 
   - 6.
 
-    - Any report by accountants required by Part II shall be made by accountants authorized under this Ordinance for appointment as auditors of a company and shall not be made by any accountant who is an officer or servant, or a partner of or in the employment of an officer or servant, of the company or of the company’s subsidiary or holding company or of a subsidiary of the company’s holding company; and for the purposes of this paragraph the expression “officer” (高級人員) shall include a proposed director but not an auditor.
+    - Any report by accountants required by Part II shall be made by accountants authorized under this Ordinance for appointment as auditors of a company and shall not be made by any accountant who is an officer or servant, or a partner of or in the employment of an officer or servant, of the company or of the company’s subsidiary or parent undertaking or of a subsidiary of the company’s parent undertaking; and for the purposes of this paragraph the expression “officer” (高級人員) shall include a proposed director but not an auditor. (Amended 12 of 2005 s. 16)
 
   - 7. For the purposes of Part I, the description of a person, that is to say, his profession, trade or other occupation shall be stated with particularity and precision; and the description “Company Director” shall be inadequate unless supplementary information is provided stating the nature of the relevant company’s business.
 

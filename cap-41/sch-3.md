@@ -52,7 +52,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
         - (ii) in the case of an amount set aside as at the end of the financial year, before the end of that year,
 
-    - being claims which have not been treated as claims paid and including claims relating to business accounted for over a longer period than a financial year, claims the amounts of which have not been determined and claims arising out of incidents that have not been notified to the insurer; and
+      - being claims which have not been treated as claims paid and including claims relating to business accounted for over a longer period than a financial year, claims the amounts of which have not been determined and claims arising out of incidents that have not been notified to the insurer; and
 
       - (b) expenses (such as, for example, legal, medical, surveying or engineering costs) which have been incurred but not yet recorded as paid or which are likely to be incurred by the insurer, whether through the employment of its own staff or otherwise, and are directly attributable to the settlement of individual claims which relate to incidents occurring before the beginning or the end of the financial year (as the case may be), whether or not the individual claims in question are those mentioned above;
 
@@ -108,7 +108,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
         - (iii) the treaty negotiation is concluded,
 
-    - in Hong Kong, other than treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (2); (Added L.N. 391 of 1990)
+      - in Hong Kong, other than treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (2); (Added L.N. 391 of 1990)
 
     - ※”Hong Kong long term insurance business” (香港長期保險業務) means—
 
@@ -132,7 +132,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
         - (iii) the treaty negotiation is concluded in Hong Kong,
 
-    - but does not include any treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (3); (Added L.N. 2 of 2003)
+      - but does not include any treaty reinsurance business in respect of which less than 25% of the total risk (calculated in terms of the gross premiums receivable under the treaty) arises in Hong Kong within the meaning of subparagraph (3); (Added L.N. 2 of 2003)
 
     - “intermediary” (中介人) means a person who in the course of any business or profession invites other persons to make offers or proposals or to take other step with a view to entering into contracts of insurance with an insurer, other than a person who only publishes such invitations on behalf of, or to the order of, some other person;
 
@@ -184,6 +184,26 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (b) the policy holder is a company within the meaning of section 2 of the Companies Ordinance (Cap. 32). (Added L.N. 2 of 2003)
 
+- 1A.
+
+  - (1) A reference in Part 1, 2, 3 or 4 of this Schedule to parent company or subsidiary undertaking shall be construed in accordance with section 2B of the Companies Ordinance (Cap. 32) as read with the Twenty-third Schedule to that Ordinance.
+
+  - (2) A reference in a provision specified under subparagraph (3) for the purposes of this subparagraph—
+
+    - (a) to a holding company shall be deemed to include a parent company; and
+
+    - (b) to a subsidiary or subsidiary company shall be deemed to include a subsidiary undertaking.
+
+  - (3) The provisions specified for the purposes of subparagraph (2) are—
+
+    - (a) paragraph 4(1)(d) and (e)(iii) and (1AD)(f) and (g)(iii) of Part 1 of this Schedule;
+
+    - (b) paragraph 9(a), (d), (e), (f), (j) and (l) of Part 2 of this Schedule;
+
+    - (c) the heading, and paragraphs 10, 11 and 12, of Part 3 of this Schedule;
+
+    - (d) paragraph 16(b)(ii), (d)(i), (e) and (g) of Part 4 of this Schedule. (Added 12 of 2005 s. 21)
+
 - 2. All accounts and statements shall be produced in the Chinese or the English language or, if not so produced, be accompanied by a complete Chinese or English translation. (Replaced L.N. 599 of 1995)
 
 - 3. Subject to the provisions of Part 8, the information to be submitted under this Schedule shall be submitted in respect of the total business of the insurer. (Amended L.N. 391 of 1990)
@@ -218,7 +238,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (a) the relevant premium income of the insurer;
 
-    - ◆(aa) the relevant claims outstanding of the insurer; (Added 35 of 1996 s. 33)
+    - (aa) the relevant claims outstanding of the insurer; (Added 35 of 1996 s. 33)
 
     - (b) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer;
 
@@ -232,7 +252,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (a) the relevant premium income of the insurer attributable to its general business;
 
-    - ◆(aa) the relevant claims outstanding of the insurer attributable to its general business; (Added 35 of 1996 s. 33)
+    - (aa) the relevant claims outstanding of the insurer attributable to its general business; (Added 35 of 1996 s. 33)
 
     - (b) the relevant amount (within the meaning of section 10 of this Ordinance) in the case of the insurer having regard to its general business;
 
@@ -670,7 +690,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - (ii) reinsurance contracts accepted,
 
-- distinguishing between premiums on new policies and premiums on renewal policies and single premium policies and regular premium policies;
+  - distinguishing between premiums on new policies and premiums on renewal policies and single premium policies and regular premium policies;
 
   - (b) reinsurance premiums payable, distinguishing as in (a) above;
 
@@ -798,7 +818,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - Provided that if in any case it is made to appear to the Insurance Authority that the circumstances are such that a longer period than 6 months should be allowed for depositing the certificate, he may extend that period by such period not exceeding 3 months as he thinks fit.
 
-    - (2) There shall be annexed to every such certificate a report signed by the appointed auditor stating whether—
+  - (2) There shall be annexed to every such certificate a report signed by the appointed auditor stating whether—
 
     - (a) the insurer has complied with subparagraph (1)(a) and (b); and
 
@@ -866,27 +886,27 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - * The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule.
 
-    - (2) The following supplementary information shall be furnished with the Form L1 above—
+  - (2) The following supplementary information shall be furnished with the Form L1 above—
 
-      - (a) the date up to which the valuation is made;
+    - (a) the date up to which the valuation is made;
 
-      - (b) the principles upon which the valuation and distribution of profits among the policy holders are made, and whether these principles were determined by the instrument constituting the insurer or by its regulations or bylaws or otherwise;
+    - (b) the principles upon which the valuation and distribution of profits among the policy holders are made, and whether these principles were determined by the instrument constituting the insurer or by its regulations or bylaws or otherwise;
 
-      - (c) the table or tables of mortality used in the valuation;
+    - (c) the table or tables of mortality used in the valuation;
 
-      - (d) the rate or rates of interest assumed in the calculations;
+    - (d) the rate or rates of interest assumed in the calculations;
 
-      - (e) the proportion of the annual premium income reserved as a provision for future expenses and profit (if no such provision is made in respect thereof, a statement as to what provision is made shall be furnished);
+    - (e) the proportion of the annual premium income reserved as a provision for future expenses and profit (if no such provision is made in respect thereof, a statement as to what provision is made shall be furnished);
 
-      - (f) the time during which a policy must be in force in order to entitle the policy holders to share in the profits;
+    - (f) the time during which a policy must be in force in order to entitle the policy holders to share in the profits;
 
-      - (g) the results of the valuation, showing—
+    - (g) the results of the valuation, showing—
 
-        - (i) the total amount of profit made by the insurer;
+      - (i) the total amount of profit made by the insurer;
 
-        - (ii) the amount of profit divided among the policy holders, and the number and amount of the policies which participated;
+      - (ii) the amount of profit divided among the policy holders, and the number and amount of the policies which participated;
 
-        - (iii) the amount of profit brought forward from the previous valuation, the amount thereof allotted to policy holders and shareholders.
+      - (iii) the amount of profit brought forward from the previous valuation, the amount thereof allotted to policy holders and shareholders.
 
 - 39.
 
@@ -940,23 +960,23 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - Notes
 
-- 1. The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule.
+  - 1. The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule.
 
-- 2. Within each class of insurance, the following are to be shown—
+  - 2. Within each class of insurance, the following are to be shown—
 
-  - (i) direct business and reinsurances accepted;
+    - (i) direct business and reinsurances accepted;
 
-  - (ii) reinsurances ceded; and
+    - (ii) reinsurances ceded; and
 
-  - (iii) net retained business.
+    - (iii) net retained business.
 
-- 3. The entry under column 8 should either refer to details given as supplementary information or should state the mortality tables/statistical tables and rates of interest employed, as appropriate.
+  - 3. The entry under column 8 should either refer to details given as supplementary information or should state the mortality tables/statistical tables and rates of interest employed, as appropriate.
 
-- 4. With regard to business falling within class A—
+  - 4. With regard to business falling within class A—
 
-  - (i) separate summaries similar in form to the above must be furnished in respect of policies valued by different mortality tables, or at different rates of interest; and
+    - (i) separate summaries similar in form to the above must be furnished in respect of policies valued by different mortality tables, or at different rates of interest; and
 
-  - (ii) contracts the nature of which or the method of valuation of which makes it impossible or inappropriate to give the information required in columns 4, 5 and 6 of any valuation summary are to be shown separately and the reason stated.
+    - (ii) contracts the nature of which or the method of valuation of which makes it impossible or inappropriate to give the information required in columns 4, 5 and 6 of any valuation summary are to be shown separately and the reason stated.
 
 - (Amended 59 of 1993 s. 18; 35 of 1996 s. 33)
 
@@ -968,15 +988,9 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - _
 
-- (2)
+  - (2) There shall be furnished with the Forms L2 and L3 above particulars of the average rate of interest yielded by the assets whether invested or uninvested constituting the long term business fund of the insurer, calculated upon the mean fund of each year during the period since the last investigation. PART 8: ACCOUNTS AND INFORMATION IN RESPECT OF THE HONG KONG INSURANCE BUSINESS AND HONG KONG LONG
 
-- There shall be furnished with the Forms L2 and L3 above particulars of the average rate of interest yielded by the assets whether invested or uninvested constituting the long term business fund of the insurer, calculated upon the mean fund of each year during the period since the last investigation.
-
-- PART 8: ACCOUNTS AND INFORMATION IN RESPECT OF THE
-
-- HONG KONG INSURANCE BUSINESS AND HONG KONG LONG
-
-- TERM INSURANCE BUSINESS OF AN INSURER
+  - TERM INSURANCE BUSINESS OF AN INSURER
 
 - (Amended L.N. 3 of 2003)
 
@@ -990,47 +1004,89 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
     - and thereafter in respect of every successive financial year—
 
-      - (i) the accounts or information specified in subparagraph (2), relating to the Hong Kong insurance business carried on by it, in the form described in relation to each such specified account or information; or
+    - (i) the accounts or information specified in subparagraph (2), relating to the Hong Kong insurance business carried on by it, in the form described in relation to each such specified account or information; or
 
-      - (ii) where it does not carry on any Hong Kong insurance business to which any account or information specified in subparagraph (2) relates, during any financial year referred to in this subparagraph, a statement to that effect, in the form described in relation to such account or information.
+    - (ii) where it does not carry on any Hong Kong insurance business to which any account or information specified in subparagraph (2) relates, during any financial year referred to in this subparagraph, a statement to that effect, in the form described in relation to such account or information.
 
-- (2) The accounts or information and the forms referred to in subparagraph (1) are—
+  - (2) The accounts or information and the forms referred to in subparagraph (1) are—
 
-  - (a) subject to sub-subparagraph (e), a revenue account of direct business, in the form provided in Form 1;
+    - (a) subject to sub-subparagraph (e), a revenue account of direct business, in the form provided in Form 1;
 
-  - (b) subject to sub-subparagraph (e), supplementary information relating to the revenue account of the direct business, in the form provided in Form 1A;
+    - (b) subject to sub-subparagraph (e), supplementary information relating to the revenue account of the direct business, in the form provided in Form 1A;
 
-  - (c) subject to sub-subparagraph (f), a revenue account of the reinsurance business, in the form provided in Form 2;
+    - (c) subject to sub-subparagraph (f), a revenue account of the reinsurance business, in the form provided in Form 2;
 
-  - (d) subject to sub-subparagraph (f), supplementary information relating to the revenue account of the reinsurance business, in the form provided in Form 2A;
+    - (d) subject to sub-subparagraph (f), supplementary information relating to the revenue account of the reinsurance business, in the form provided in Form 2A;
 
-  - (e) in the case of an insurer whose direct business is accounted for on a fund accounting basis, in lieu of the account and information referred to in sub-subparagraphs (a) and (b) respectively, revenue accounts of the direct business carried on, on a fund accounting basis, in the form provided in Form 3;
+    - (e) in the case of an insurer whose direct business is accounted for on a fund accounting basis, in lieu of the account and information referred to in sub-subparagraphs (a) and (b) respectively, revenue accounts of the direct business carried on, on a fund accounting basis, in the form provided in Form 3;
 
-  - (f) in the case of an insurer whose reinsurance business is accounted for on a fund accounting basis, in lieu of the account and information referred to in sub-subparagraphs (c) and (d) respectively, revenue accounts of the reinsurance business carried on, on a fund accounting basis, in the form provided in Form 4;
+    - (f) in the case of an insurer whose reinsurance business is accounted for on a fund accounting basis, in lieu of the account and information referred to in sub-subparagraphs (c) and (d) respectively, revenue accounts of the reinsurance business carried on, on a fund accounting basis, in the form provided in Form 4;
 
-  - (g) statistics of statutory business, being direct business, in the form provided in Form 5;
+    - (g) statistics of statutory business, being direct business, in the form provided in Form 5;
 
-  - (h) statistics of claims paid (Gross), in the form provided in Form 6;
+    - (h) statistics of claims paid (Gross), in the form provided in Form 6;
 
-  - (i) statistics of outstanding claims provision (Gross), in the form provided in Form 7;
+    - (i) statistics of outstanding claims provision (Gross), in the form provided in Form 7;
 
-  - (j) statistics of claims paid (Net), in the form provided in Form 8;
+    - (j) statistics of claims paid (Net), in the form provided in Form 8;
 
-  - (k) statistics of outstanding claims provision (Net), in the form provided in Form 9. FORM 1 HONG KONG INSURANCE BUSINESS-DIRECT BUSINESS REVENUE ACCOUNT
+    - (k) statistics of outstanding claims provision (Net), in the form provided in Form 9. FORM 1 HONG KONG INSURANCE BUSINESS-DIRECT BUSINESS REVENUE ACCOUNT
 
-  - OF . (Name of insurer) for the period commencing on . and ending on . ACCOUNTING CLASSES OF GENERAL BUSINESS
+    - OF . (Name of insurer) for the period commencing on . and ending on . ACCOUNTING CLASSES OF GENERAL BUSINESS
+
+    - Ships, damage and liability | General liability
+
+    - Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Statutory business $ | Others $ | Goods in transit $ | Property damage $ | Statutory business $ | Others $ | Pecuniary loss $ | Total $
+
+    - GROSS PREMIUMS (1) Gross premiums receivable (2) Reinsurance premiums payable
+
+    - RETAINED PREMIUMS (3) Premiums net of reinsurance (1)-(2) (4) Unearned premiums adjustment (5) Earned premiums (3)-(4)
+
+    - UNDERWRITING EXPENSES (6) Commissions payable (7) Management expenses (8) Unexpired risks adjustment (9) Gross expenses (6)+(7)+(8) (10) Commissions receivable from reinsurers (11) Total net expenses (9)-(10)
+
+    - CLAIMS (incl. claims settling expenses) (12) Gross amounts paid (13) Amounts recoverable from (a) reinsurers (b) others (14) Net amounts paid (12)-(13) (15) Provision for outstanding claims adjustment (16) Net incurred (14)+(15)
+
+    - UNDERWRITING RESULT (17) Profit/(Loss) (5)-(11)-(16)
+
+    - We certify that the above information is true and correct.
+
+    - _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
+
+  - Note: Amounts must be expressed in Hong Kong dollars. * Delete as necessary.
+
+  - FORM 1A HONG KONG INSURANCE BUSINESS-DIRECT BUSINESS REVENUE ACCOUNT
+
+  - OF . (Name of insurer) SUPPLEMENTARY INFORMATION for the period commencing on . and ending on . ACCOUNTING CLASSES OF GENERAL BUSINESS
 
   - Ships, damage and liability | General liability
 
   - Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Statutory business $ | Others $ | Goods in transit $ | Property damage $ | Statutory business $ | Others $ | Pecuniary loss $ | Total $
 
-  - GROSS PREMIUMS (1) Gross premiums receivable (2) Reinsurance premiums payable
+  - (4) UNEARNED PREMIUMS ADJUSTMENT (A) Amount of unearned premiums c/f (B) Amount of unearned premiums b/f (C) Increase/ (Decrease) (A)-(B)
 
-  - RETAINED PREMIUMS (3) Premiums net of reinsurance (1)-(2) (4) Unearned premiums adjustment (5) Earned premiums (3)-(4)
+  - (8) UNEXPIRED RISKS ADJUSTMENT (A) Amount of unexpired risks c/f (B) Amount of unexpired risks b/f (C) Increase/ (Decrease) (A)-(B)
 
-  - UNDERWRITING EXPENSES (6) Commissions payable (7) Management expenses (8) Unexpired risks adjustment (9) Gross expenses (6)+(7)+(8) (10) Commissions receivable from reinsurers (11) Total net expenses (9)-(10)
+  - (15) PROVISION FOR OUTSTANDING CLAIMS ADJUSTMENT (A) Provision for outstanding claims (a) Gross amount (b) Amount recoverable from (i) reinsurers (ii) others (c) Net amount (a)-(b) (B) Provision for IBNR (C) Amount of provision for outstanding claims incl. IBNR c/f (A)+(B) (D) Amount of provision for outstanding claims incl. IBNR b/f (E) Increase/ (Decrease) (C)-(D)
 
-  - CLAIMS (incl. claims settling expenses) (12) Gross amounts paid (13) Amounts recoverable from (a) reinsurers (b) others (14) Net amounts paid (12)-(13) (15) Provision for outstanding claims adjustment (16) Net incurred (14)+(15)
+  - We certify that the above information is true and correct.
+
+  - _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
+
+  - Note: Amounts must be expressed in Hong Kong dollars.
+
+  - * Delete as necessary.
+
+  - FORM 2 HONG KONG INSURANCE BUSINESS-REINSURANCE BUSINESS REVENUE ACCOUNT OF . (Name of insurer) for the period commencing on . and ending on . ACCOUNTING CLASSES OF GENERAL BUSINESS
+
+  - Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Ships, damage and liability $ | Goods in transit $ | Property damage $ | General liability $ | Pecuniary loss $ | ^Non-pro— portional treaty $ | ^Pro— portional treaty $ | Total $
+
+  - GROSS PREMIUMS (1) Gross premiums receivable (2) Retrocession premiums payable
+
+  - RETAINED PREMIUMS (3) Premiums net of retrocession (1)-(2) (4) Unearned premiums adjustment (5) Earned premiums (3)-(4)
+
+  - UNDERWRITING EXPENSES (6) Commissions payable to ceding companies (7) Management expenses (8) Unexpired risks adjustment (9) Gross expenses (6)+(7)+(8) (10) Commissions receivable from retrocessionaires (11) Total net expenses (9)-(10)
+
+  - CLAIMS (incl. claims settling expenses) (12) Gross amounts paid (13) Amounts recoverable from retrocessionaires (14) Net amounts paid (12)-(13) (15) Provision for outstanding claims adjustment (16) Net incurred (14)+(15)
 
   - UNDERWRITING RESULT (17) Profit/(Loss) (5)-(11)-(16)
 
@@ -1038,75 +1094,29 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
 
-- Note: Amounts must be expressed in Hong Kong dollars. * Delete as necessary.
+  - Notes: (a) Amounts must be expressed in Hong Kong dollars.
 
-- FORM 1A HONG KONG INSURANCE BUSINESS-DIRECT BUSINESS REVENUE ACCOUNT
+  - (b) Both treaty and facultative reinsurance business must be included. ^ In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance. However, in such circumstances the insurer must supply estimates of the gross premiums receivable (i.e. item (1) above) attributable to the treaty reinsurance business of each of the first 8 accounting classes of general business. * Delete as necessary. FORM 2A HONG KONG INSURANCE BUSINESS-REINSURANCE BUSINESS REVENUE ACCOUNT OF . (Name of insurer)
 
-- OF . (Name of insurer) SUPPLEMENTARY INFORMATION for the period commencing on . and ending on . ACCOUNTING CLASSES OF GENERAL BUSINESS
+  - SUPPLEMENTARY INFORMATION for the period commencing on . and ending on . ACCOUNTING CLASSES OF GENERAL BUSINESS
 
-- Ships, damage and liability | General liability
+  - Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Ships, damage and liability $ | Goods in transit $ | Property damage $ | General liability $ | Pecuniary loss $ | ^Non-pro— portional treaty $ | ^Pro— portional treaty $ | Total $
 
-- Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Statutory business $ | Others $ | Goods in transit $ | Property damage $ | Statutory business $ | Others $ | Pecuniary loss $ | Total $
+  - (4) UNEARNED PREMIUMS ADJUSTMENT (A) Amount of unearned premiums c/f (B) Amount of unearned premiums b/f (C) Increase/ (Decrease) (A)-(B)
 
-- (4) UNEARNED PREMIUMS ADJUSTMENT (A) Amount of unearned premiums c/f (B) Amount of unearned premiums b/f (C) Increase/ (Decrease) (A)-(B)
+  - (8) UNEXPIRED RISKS ADJUSTMENT (A) Amount of unexpired risks c/f (B) Amount of unexpired risks b/f (C) Increase /(Decrease) (A)-(B)
 
-- (8) UNEXPIRED RISKS ADJUSTMENT (A) Amount of unexpired risks c/f (B) Amount of unexpired risks b/f (C) Increase/ (Decrease) (A)-(B)
+  - (15) PROVISION FOR OUTSTANDING CLAIMS ADJUSTMENT (A) Provision for outstanding claims (a) Gross amount (b) Amount recoverable from retrocessionaires (c) Net amount (a)-(b)
 
-- (15) PROVISION FOR OUTSTANDING CLAIMS ADJUSTMENT (A) Provision for outstanding claims (a) Gross amount (b) Amount recoverable from (i) reinsurers (ii) others (c) Net amount (a)-(b) (B) Provision for IBNR (C) Amount of provision for outstanding claims incl. IBNR c/f (A)+(B) (D) Amount of provision for outstanding claims incl. IBNR b/f (E) Increase/ (Decrease) (C)-(D)
+  - (B) Provision for IBNR (C) Amount of provision for outstanding claims incl. IBNR c/f (A)+(B) (D) Amount of provision for outstanding claims incl. IBNR b/f (E) Increase/(Decrease) (C)-(D)
 
-- We certify that the above information is true and correct.
+  - We certify that the above information is true and correct.
 
-- _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
+  - _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
 
-- Note: Amounts must be expressed in Hong Kong dollars.
+  - Notes: (a) Amounts must be expressed in Hong Kong dollars.
 
-- * Delete as necessary.
-
-- FORM 2 HONG KONG INSURANCE BUSINESS-REINSURANCE BUSINESS REVENUE ACCOUNT OF . (Name of insurer) for the period commencing on . and ending on . ACCOUNTING CLASSES OF GENERAL BUSINESS
-
-- Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Ships, damage and liability $ | Goods in transit $ | Property damage $ | General liability $ | Pecuniary loss $ | ^Non-pro— portional treaty $ | ^Pro— portional treaty $ | Total $
-
-- GROSS PREMIUMS (1) Gross premiums receivable (2) Retrocession premiums payable
-
-- RETAINED PREMIUMS (3) Premiums net of retrocession (1)-(2) (4) Unearned premiums adjustment (5) Earned premiums (3)-(4)
-
-- UNDERWRITING EXPENSES (6) Commissions payable to ceding companies (7) Management expenses (8) Unexpired risks adjustment (9) Gross expenses (6)+(7)+(8) (10) Commissions receivable from retrocessionaires (11) Total net expenses (9)-(10)
-
-- CLAIMS (incl. claims settling expenses) (12) Gross amounts paid (13) Amounts recoverable from retrocessionaires (14) Net amounts paid (12)-(13) (15) Provision for outstanding claims adjustment (16) Net incurred (14)+(15)
-
-- UNDERWRITING RESULT (17) Profit/(Loss) (5)-(11)-(16)
-
-- We certify that the above information is true and correct.
-
-- _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
-
-- Notes: (a) Amounts must be expressed in Hong Kong dollars.
-
-- (b) Both treaty and facultative reinsurance business must be included. ^ In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance. However, in such circumstances the insurer must supply estimates of the gross premiums receivable (i.e. item (1) above) attributable to the treaty reinsurance business of each of the first 8 accounting classes of general business. * Delete as necessary. FORM 2A HONG KONG INSURANCE BUSINESS-REINSURANCE BUSINESS REVENUE ACCOUNT OF . (Name of insurer)
-
-- SUPPLEMENTARY INFORMATION for the period commencing on . and ending on . ACCOUNTING CLASSES OF GENERAL BUSINESS
-
-- Accident and health $ | Motor vehicle, damage and liability $ | Aircraft, damage and liability $ | Ships, damage and liability $ | Goods in transit $ | Property damage $ | General liability $ | Pecuniary loss $ | ^Non-pro— portional treaty $ | ^Pro— portional treaty $ | Total $
-
-- (4) UNEARNED PREMIUMS ADJUSTMENT (A) Amount of unearned premiums c/f (B) Amount of unearned premiums b/f (C) Increase/ (Decrease) (A)-(B)
-
-- (8) UNEXPIRED RISKS ADJUSTMENT (A) Amount of unexpired risks c/f (B) Amount of unexpired risks b/f (C) Increase /(Decrease) (A)-(B)
-
-- (15) PROVISION FOR OUTSTANDING CLAIMS ADJUSTMENT (A) Provision for outstanding claims (a) Gross amount (b) Amount recoverable from retrocessionaires (c) Net amount (a)-(b)
-
-- (B) Provision for IBNR (C) Amount of provision for outstanding claims incl. IBNR c/f (A)+(B) (D) Amount of provision for outstanding claims incl. IBNR b/f (E) Increase/(Decrease) (C)-(D)
-
-- We certify that the above information is true and correct.
-
-- _ ( ) Director | _ ( ) Director | _ ( ) *Chief Executive/Secretary
-
-- Notes: (a) Amounts must be expressed in Hong Kong dollars.
-
-- (b)
-
-- Both treaty and facultative reinsurance business must be included.
-
-- ^ In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance. * Delete as necessary.
+  - (b) Both treaty and facultative reinsurance business must be included. ^ In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance. * Delete as necessary.
 
 - (Amended 32 of 2000 s. 48)
 
@@ -1132,13 +1142,9 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - Notes: (a) Amounts must be expressed in Hong Kong dollars.
 
-- (b) If the insurer’s direct business is accounted for on a fund accounting basis, this form is to be completed in lieu of Forms 1 and 1A.
+  - (b) If the insurer’s direct business is accounted for on a fund accounting basis, this form is to be completed in lieu of Forms 1 and 1A.
 
-- (c)
-
-- a separate form must be submitted in respect of each of the 8 accounting classes of general business specified in Forms 1 and 1A.
-
-- * Delete as necessary.
+  - (c) a separate form must be submitted in respect of each of the 8 accounting classes of general business specified in Forms 1 and 1A. * Delete as necessary.
 
 - (Amended 32 of 2000 s. 48)
 
@@ -1166,145 +1172,33 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - Notes: (a) Amounts must be expressed in Hong Kong dollars.
 
-- (b) If the insurer’s reinsurance business is accounted for on a fund accounting basis, this form is to be completed in lieu of Forms 2 and 2A.
+  - (b) If the insurer’s reinsurance business is accounted for on a fund accounting basis, this form is to be completed in lieu of Forms 2 and 2A.
 
-- (c) Both treaty and facultative reinsurance business must be included.
+  - (c) Both treaty and facultative reinsurance business must be included.
 
-- (d) A separate form must be submitted in respect of each of the first 8 accounting classes of general business specified in Forms 2 and 2A.
+  - (d) A separate form must be submitted in respect of each of the first 8 accounting classes of general business specified in Forms 2 and 2A.
 
-- (e)
+  - (e) In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance. However, in such circumstances the insurer must supply estimates of the gross premiums receivable (i.e. item (1) above) attributable to the treaty reinsurance business of each of the first 8 accounting classes of general business. * Delete as necessary. FORM 5 HONG KONG INSURANCE BUSINESS-STATISTICS OF STATUTORY BUSINESS (BEING DIRECT BUSINESS) OF . (Name of insurer) for the period commencing on . and ending on .
 
-- In the event that it is impracticable to allocate the treaty reinsurance business to the respective first 8 accounting classes of general business, such business may be shown under 2 broad classes, namely, Non-proportional Treaty Reinsurance and Proportional Treaty Reinsurance. However, in such circumstances the insurer must supply estimates of the gross premiums receivable (i.e. item (1) above) attributable to the treaty reinsurance business of each of the first 8 accounting classes of general business.
+- A. Motor Vehicle Insurance Business under section 6 of the Motor Vehicles Insurance (Third Party Risks) Ordinance (Cap. 272)
 
-- * Delete as necessary.
+- No. of vehicles covered at end of period | No. of outstanding claims at end of period (All types)
 
-- FORM 5 HONG KONG INSURANCE BUSINESS-STATISTICS OF STATUTORY BUSINESS (BEING DIRECT BUSINESS) OF . (Name of insurer) for the period commencing on . and ending on .
+- THIRD PARTY RISKS | COMPREHENSIVE | TOTAL
 
-  - A. Motor Vehicle Insurance Business under section 6 of the Motor Vehicles Insurance (Third Party Risks) Ordinance (Cap. 272)
+- Private Cars | Public Hire Vehicles | Other Commercial Vehicles | Motor Cycles | Private Cars | Public Hire Vehicles | Other Commerical Vehicles | Motor Cycles
 
-  - No. of vehicles covered at end of period | No. of outstanding claims at end of period (All types)
+- B. Employees’ Compensation Insurance Business under section 40 of the Employees’ Compensation Ordinance (Cap. 282)
 
-  - THIRD PARTY RISKS | COMPREHENSIVE | TOTAL
+- No. of policies in force at end of period | No. of outstanding claims at end of a period
 
-  - Private Cars | Public Hire Vehicles | Other Commercial Vehicles | Motor Cycles | Private Cars | Public Hire Vehicles | Other Commerical Vehicles | Motor Cycles
+- C.
 
-  - B. Employees’ Compensation Insurance Business under section 40 of the Employees’ Compensation Ordinance (Cap. 282)
+- Launch, Ferry Vessel and Pleasure Vessel Insurance Business under section 107D of the Merchant Shipping Ordinance (Cap. 281)
 
-  - No. of policies in force at end of period | No. of outstanding claims at end of a period
+- No. of policies in force at end of period | No. of launches, ferry vessels and pleasure vessels covered by such policies | No. of outstanding claims at end of period
 
-  - C.
-
-  - Launch, Ferry Vessel and Pleasure Vessel Insurance Business under section 107D of the Merchant Shipping Ordinance (Cap. 281)
-
-  - No. of policies in force at end of period | No. of launches, ferry vessels and pleasure vessels covered by such policies | No. of outstanding claims at end of period
-
-  - THIRD PARTY RISKS | COMPREHENSIVE | TOTAL
-
-  - We certify that the above information is true and correct.
-
-  - _ | _ | _
-
-  - ( ) | ( ) | ( )
-
-  - Director | Director | *Chief Executive/Secretary
-
-  - Note: This form is to be completed by an insurer authorized to carry on statutory business (being direct business) in Hong Kong.
-
-  - * Delete as necessary.
-
-  - [section 6(a)]
-
-  - ##FORM 6 HONG KONG INSURANCE BUSINESS-CLAIMS PAID STATISTICS (GROSS) OF . (Name of insurer) for the period commencing on . and ending on . in respect of Accounting Class of General Business: . (All in $’000)
-
-  - Accident/ Underwriting Year* | Claims Paid in each year of development
-
-  - (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year)
-
-  - Prior years
-
-  - (Year)
-
-  - (Year) | -
-
-  - (Year) | - | -
-
-  - (Year) | - | - | -
-
-  - (Year) | - | - | - | -
-
-  - (Year) | - | - | - | - | -
-
-  - (Year) | - | - | - | - | - | -
-
-  - (Year) | - | - | - | - | - | - | -
-
-  - (Year) | - | - | - | - | - | - | - | -
-
-  - (Year) | - | - | - | - | - | - | - | - | -
-
-  - (Year) | - | - | - | - | - | - | - | - | - | -
-
-  - (Year) | - | - | - | - | - | - | - | - | - | - | -
-
-  - TOTAL
-
-  - We certify that the above information is true and correct.
-
-  - _ | _ | _
-
-  - ( ) | ( ) | ( )
-
-  - Director | Director | *Chief Executive/Secretary
-
-  - Notes: (a) Amounts must be expressed in Hong Kong dollars.
-
-    - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
-
-    - (c) This form must be completed on a gross basis (i.e. before deduction of any reinsurance).
-
-    - (d) In compiling claims statistics—
-
-      - (i) direct insurers must use accident year basis for direct and facultative business and the underwriting year basis for treaty business;
-
-      - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
-
-    - * Delete as necessary.
-
-- (Replaced 51 of 1999 s. 6(a))
-
-- ##FORM 7 HONG KONG INSURANCE BUSINESS-OUTSTANDING CLAIMS PROVISION STATISTICS (GROSS) OF . (Name of insurer) AS AT . Accounting Class of General Business: . (All in $’000)
-
-- Accident/ Underwriting Year* | Outstanding Claims Provision at the end of each year of development
-
-- (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year)
-
-- Prior years
-
-- (Year)
-
-- (Year) | -
-
-- (Year) | - | -
-
-- (Year) | - | - | -
-
-- (Year) | - | - | - | -
-
-- (Year) | - | - | - | - | -
-
-- (Year) | - | - | - | - | - | -
-
-- (Year) | - | - | - | - | - | - | -
-
-- (Year) | - | - | - | - | - | - | - | -
-
-- (Year) | - | - | - | - | - | - | - | - | -
-
-- (Year) | - | - | - | - | - | - | - | - | - | -
-
-- (Year) | - | - | - | - | - | - | - | - | - | - | -
-
-- TOTAL
+- THIRD PARTY RISKS | COMPREHENSIVE | TOTAL
 
 - We certify that the above information is true and correct.
 
@@ -1314,23 +1208,13 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - Director | Director | *Chief Executive/Secretary
 
-- Notes: (a) Amounts must be expressed in Hong Kong dollars.
+- Note: This form is to be completed by an insurer authorized to carry on statutory business (being direct business) in Hong Kong.
 
-  - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
+- * Delete as necessary.
 
-    - (c) This form must be completed on a gross basis (i.e. before deduction of any reinsurance).
+- [section 6(a)]
 
-    - (d) In compiling claims statistics—
-
-      - (i) direct insurers must use accident year basis for direct and facultative business and the underwriting year basis for treaty business;
-
-      - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
-
-    - (e) References to outstanding claims provision shall include outstanding claims and claims incurred but not reported. * Delete as necessary.
-
-- (Replaced 51 of 1999 s. 6(a))
-
-- ##FORM 8 HONG KONG INSURANCE BUSINESS-CLAIMS PAID STATISTICS (NET) OF . (Name of insurer) for the period commencing on . and ending on . in respect of Accounting Class of General Business: . (All in $’000)
+- FORM 6 HONG KONG INSURANCE BUSINESS-CLAIMS PAID STATISTICS (GROSS) OF . (Name of insurer) for the period commencing on . and ending on . in respect of Accounting Class of General Business: . (All in $’000)
 
 - Accident/ Underwriting Year* | Claims Paid in each year of development
 
@@ -1376,19 +1260,19 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
 
-    - (c) This form must be completed on a net basis (i.e. net of reinsurances).
+  - (c) This form must be completed on a gross basis (i.e. before deduction of any reinsurance).
 
-    - (d) In compiling claims statistics—
+  - (d) In compiling claims statistics—
 
-      - (i) direct insurers must use accident year basis for direct and facultative business and the underwriting year basis for treaty business;
+    - (i) direct insurers must use accident year basis for direct and facultative business and the underwriting year basis for treaty business;
 
-      - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
+    - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
 
-    - * Delete as necessary.
+  - * Delete as necessary.
 
 - (Replaced 51 of 1999 s. 6(a))
 
-- ##FORM 9 HONG KONG INSURANCE BUSINESS-OUTSTANDING CLAIMS PROVISION STATISTICS (NET) OF . (Name of insurer) AS AT . Accounting Class of General Business: . (All in $’000)
+- FORM 7 HONG KONG INSURANCE BUSINESS-OUTSTANDING CLAIMS PROVISION STATISTICS (GROSS) OF . (Name of insurer) AS AT . Accounting Class of General Business: . (All in $’000)
 
 - Accident/ Underwriting Year* | Outstanding Claims Provision at the end of each year of development
 
@@ -1434,151 +1318,51 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
   - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
 
-    - (c) This form must be completed on a net basis (i.e. net of reinsurances).
+  - (c) This form must be completed on a gross basis (i.e. before deduction of any reinsurance).
 
-    - (d) In compiling claims statistics—
+  - (d) In compiling claims statistics—
 
-      - (i) direct insurers must use accident year basis for direct and facultative business and the underwriting year basis for treaty business;
+    - (i) direct insurers must use accident year basis for direct and facultative business and the underwriting year basis for treaty business;
 
-      - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
+    - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
 
-    - (e) References to outstanding claims provision shall include outstanding claims and claims incurred but not reported. * Delete as necessary.
+  - (e) References to outstanding claims provision shall include outstanding claims and claims incurred but not reported. * Delete as necessary.
 
 - (Replaced 51 of 1999 s. 6(a))
 
-  - 41.
+- FORM 8 HONG KONG INSURANCE BUSINESS-CLAIMS PAID STATISTICS (NET) OF . (Name of insurer) for the period commencing on . and ending on . in respect of Accounting Class of General Business: . (All in $’000)
 
-    - (1) Subject to subparagraphs (5) and (6), an insurer who is authorized to carry on long term business shall, in relation to the Hong Kong long term insurance business carried on by it, submit to the Insurance Authority—
+- Accident/ Underwriting Year* | Claims Paid in each year of development
 
-      - (a) if its financial year ends on 31 December, in respect of the financial year ending on 31 December 2003; or
+- (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year)
 
-      - (b) in any other case, in respect of the first financial year ending after 31 December 2003,
+- Prior years
 
-    - and in respect of every successive financial year—
+- (Year)
 
-      - (c) the revenue account, together with the supplementary information, specified in subparagraph (2);
+- (Year) | -
 
-      - (d) the valuation summary specified in subparagraph (3); and
+- (Year) | - | -
 
-      - (e) the valuation balance sheet, together with the supplementary information, specified in subparagraph (4).
+- (Year) | - | - | -
 
-- (2) The revenue account referred to in subparagraph (1)(c) is, in respect of each class of business specified in Part 2 of the First Schedule, a revenue account, in Form HKL1, and the supplementary information referred to in that subparagraph is—
+- (Year) | - | - | - | -
 
-  - (a) the date up to which the valuation referred to in section 18(1)(a) or 32(1)(a) of this Ordinance (“the valuation”) is made;
+- (Year) | - | - | - | - | -
 
-  - (b) the principles on which the valuation and distribution of profits among the policy holders are made, and whether those principles were determined by the instrument constituting the insurer or by the insurer’s regulations or bylaws or otherwise;
+- (Year) | - | - | - | - | - | -
 
-  - (c) the table or tables of mortality used in the valuation;
+- (Year) | - | - | - | - | - | - | -
 
-  - (d) the rate or rates of interest assumed in the calculations;
+- (Year) | - | - | - | - | - | - | - | -
 
-  - (e) the proportion of the annual premium income reserved as a provision for future expenses and profit or, if no such provision is made, a statement as to what provision is made;
+- (Year) | - | - | - | - | - | - | - | - | -
 
-  - (f) the period during which a policy must be in force in order to entitle the policy holders to share in the profits; and
+- (Year) | - | - | - | - | - | - | - | - | - | -
 
-  - (g) the results of the valuation, in respect of the Hong Kong long term insurance business carried on by the insurer, showing—
+- (Year) | - | - | - | - | - | - | - | - | - | - | -
 
-    - (i) the total amount of profit made by the insurer;
-
-    - (ii) the amount of profit divided among the policy holders, and the number and amount of the policies which participated; and
-
-    - (iii) the amount of profit brought forward from the previous valuation, the amount of profit allotted to policy holders and shareholders.
-
-- (3) The valuation summary referred to in subparagraph (1)(d) is a valuation summary, as at the date up to which the valuation is made, in Form HKL2.
-
-- (4) The valuation balance sheet referred to in subparagraph (1)(e) is a valuation balance sheet, as at the date up to which the valuation is made, in Form HKL3, and the supplementary information referred to in that subparagraph is particulars of the average rate of interest yielded by the assets (whether invested or uninvested) constituting the long term business fund of the insurer, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by it (“Hong Kong fund”), calculated on the mean Hong Kong fund of the financial year.
-
-- (5) If, during a financial year, an insurer authorized to carry on long term business does not carry on Hong Kong long term insurance business in respect of which information would have had to be submitted under subparagraph (1) had the insurer carried on such business, the insurer shall submit a statement to that effect.
-
-- (6) A statement required to be submitted under subparagraph (5) shall be contained—
-
-  - (a) in Form HKL1;
-
-  - (b) in Form HKL2; and
-
-  - (c) in Form HKL3. FORM HKL1 HONG KONG LONG TERM INSURANCE BUSINESS - REVENUE ACCOUNT
-
-  - OF . (Name of insurer) in respect of class(es) *
-
-  - . for the period commencing on . and ending on .
-
-  - HK$ | HK$
-
-  - Amount of Fund(s)# as at the Beginning of the Period . | XX | Gross Claims Payable:
-
-  - Gross Premiums Receivable: | Direct | Reinsurance Accepted | Recoverable from Reinsurers
-
-  - Reinsurance | Reinsurance | On Death | . . . | . . . | (. . .)
-
-  - Direct | Accepted | Ceded | On Surrender | . . . | . . . | (. . .)
-
-  - Regular Premiums | . . . | . . . | (. . .) | On Maturity | . . . | . . . | (. . .)
-
-  - Single Premiums | . . . | . . . | (. . .) | On Other Events | . . . | . . . | (. . .)
-
-  - Transferred Premiums | . . . _ . . . | . . . _ . . . | (. . .) _ (. . .) | _ . . . | _ . . . | _ (. . .)
-
-  - Net Premiums Receivable . Interest or Income from Long Term Business Assets Attributable to Hong Kong Long Term Insurance Business . Commissions Receivable . Other Receipts (accounts to be specified) . Transfer from Other Long Term Insurance Class(es)* . Transfer from Profit and Loss Account . | XX XX XX XX XX XX _ XX ==== | Net Claims Payable . Dividends to Policy Holders . Commissions Payable . Other Payments (accounts to be specified) . Transfer to Other Long Term Insurance Class(es)* . Transfer to Profit and Loss Account . Amount of Fund(s)# as at the End of the Period . | XX XX XX XX XX XX XX _ XX ====
-
-  - We certify that the above information is true and correct. _ _ _ ( ) ( ) ( ) Director Director § Chief Executive/Secretary * The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule to the Insurance Companies Ordinance (Cap. 41). # “Fund” means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the insurer.
-
-- § Delete as necessary.
-
-- FORM HKL2 HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION SUMMARY
-
-- OF . (Name of insurer) for the period
-
-- commencing on . and ending on .
-
-- 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
-
-- Class | Type of business | Number of contracts | Amount of sums assured or annuities per annum including vested reversionary bonuses | Amount of yearly premiums | Value of sums assured or annuities per annum including vested reversionary bonuses | Value of yearly net premiums | Amount of net liability | Bases of valuation
-
-- Office premiums | Net premiums
-
-- A | (I) Life assurance other than annuities (a) With participation in profits: Whole life . Endowment . Term . Other types (to be specified) . | HK$ | HK$ | HK$ | HK$ | HK$ | HK$
-
-- Total assurances with profits .
-
-- (b) Without participation in profits: Whole life . Endowment . Term . Other types (to be specified) .
-
-- Total assurances without profits .
-
-- Total assurances . | ╳╳
-
-- (II) Annuities (a) With participation in profits . (b) Without participation in profits .
-
-- Total annuities . | ╳╳
-
-- Total of Class A | ╳╳
-
-- B | Marriage and birth | ╳╳ | ╳╳ | ╳╳ | ╳╳
-
-- C | Linked long term: Whole life . Endowment . Annuity . Others .
-
-- Total of Class C | ╳╳
-
-- D | Permanent health | ╳╳ | ╳╳ | ╳╳ | ╳╳
-
-- E | Tontines | ╳╳ | ╳╳ | ╳╳ | ╳╳
-
-- F | Capital redemption | ╳╳ | ╳╳ | ╳╳ | ╳╳
-
-- G | Retirement scheme management category I: (i) MPF subfunds (ii) other subfunds | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳
-
-- Total of Class G* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
-
-- H | Retirement scheme management category II: (i) MPF subfunds (ii) other subfunds | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳
-
-- Total of Class H* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
-
-- Total of Classes G & H* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
-
-- I | Retirement scheme management category III
-
-- Other reserves (to be specified) | ╳╳ | ╳╳ | ╳╳ | ╳╳
-
-- TOTALS | ╳╳
+- TOTAL
 
 - We certify that the above information is true and correct.
 
@@ -1586,51 +1370,267 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - ( ) | ( ) | ( )
 
-- Director | Director | # Chief Executive/Secretary
+- Director | Director | *Chief Executive/Secretary
 
-  - Notes:
+- Notes: (a) Amounts must be expressed in Hong Kong dollars.
 
-  - 1. The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule to the Insurance Companies Ordinance (Cap. 41).
+  - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
 
-  - 2. Within each class of long term insurance business, the following are to be shown—
+  - (c) This form must be completed on a net basis (i.e. net of reinsurances).
 
-    - (i) direct business and reinsurances accepted;
+  - (d) In compiling claims statistics—
 
-    - (ii) reinsurances ceded; and
+    - (i) direct insurers must use accident year basis for direct and facultative business and the underwriting year basis for treaty business;
 
-    - (iii) net retained business.
+    - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
 
-  - 3. The entry under column 8 should either refer to details given as supplementary information or should state the mortality tables/statistical tables and rates of interest employed, as appropriate.
+  - * Delete as necessary.
 
-  - 4.
+- (Replaced 51 of 1999 s. 6(a))
 
-    - With regard to business within class A—
+- FORM 9 HONG KONG INSURANCE BUSINESS-OUTSTANDING CLAIMS PROVISION STATISTICS (NET) OF . (Name of insurer) AS AT . Accounting Class of General Business: . (All in $’000)
 
-      - (i) separate summaries similar in form to the above must be furnished in respect of policies valued by different mortality tables, or at different rates of interest; and
+- Accident/ Underwriting Year* | Outstanding Claims Provision at the end of each year of development
 
-      - (ii) contracts the nature of which or the method of valuation of which makes it impossible or inappropriate to give the information required in columns 4, 5 and 6 of any valuation summary are to be shown separately and the reason stated.
+- (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year) | (Year)
 
-    - * Eliminate duplicate in total line.
+- Prior years
 
-    - # Delete as necessary.
+- (Year)
 
-    - FORM HKL3 HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION BALANCE
+- (Year) | -
 
-    - SHEET OF . (Name of insurer) as at .
+- (Year) | - | -
 
-    - Net liability under Hong Kong Long Term Insurance Business Surplus . | HK$ _ $ ======== | Fund(s)* (as per Balance Sheet) . Deficiency . | HK$ _ $ ========
+- (Year) | - | - | -
 
-    - We certify that the above information is true and correct.
+- (Year) | - | - | - | -
 
-    - _ | _ | _
+- (Year) | - | - | - | - | -
 
-    - ( ) | ( ) | ( )
+- (Year) | - | - | - | - | - | -
 
-    - Director | Director | # Chief Executive/Secretary
+- (Year) | - | - | - | - | - | - | -
 
-    - * “Fund” means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the insurer. # Delete as necessary.
+- (Year) | - | - | - | - | - | - | - | -
 
-- (Added L.N. 3 of 2003) (Part 8 added L.N. 391 of 1990)
+- (Year) | - | - | - | - | - | - | - | - | -
+
+- (Year) | - | - | - | - | - | - | - | - | - | -
+
+- (Year) | - | - | - | - | - | - | - | - | - | - | -
+
+- TOTAL
+
+- We certify that the above information is true and correct.
+
+- _ | _ | _
+
+- ( ) | ( ) | ( )
+
+- Director | Director | *Chief Executive/Secretary
+
+- Notes: (a) Amounts must be expressed in Hong Kong dollars.
+
+  - (b) A separate form must be submitted in respect of each of the classes of direct business set out in Form 1 (with a separate form for employees’ compensation insurance business) and each of the classes of reinsurance business set out in Form 2.
+
+  - (c) This form must be completed on a net basis (i.e. net of reinsurances).
+
+  - (d) In compiling claims statistics—
+
+    - (i) direct insurers must use accident year basis for direct and facultative business and the underwriting year basis for treaty business;
+
+    - (ii) insurers transacting only reinsurance business must use the underwriting year basis for both facultative and treaty business.
+
+  - (e) References to outstanding claims provision shall include outstanding claims and claims incurred but not reported. * Delete as necessary.
+
+- (Replaced 51 of 1999 s. 6(a))
+
+- 41.
+
+  - (1) Subject to subparagraphs (5) and (6), an insurer who is authorized to carry on long term business shall, in relation to the Hong Kong long term insurance business carried on by it, submit to the Insurance Authority—
+
+    - (a) if its financial year ends on 31 December, in respect of the financial year ending on 31 December 2003; or
+
+    - (b) in any other case, in respect of the first financial year ending after 31 December 2003,
+
+  - and in respect of every successive financial year—
+
+    - (c) the revenue account, together with the supplementary information, specified in subparagraph (2);
+
+    - (d) the valuation summary specified in subparagraph (3); and
+
+    - (e) the valuation balance sheet, together with the supplementary information, specified in subparagraph (4).
+
+  - (2) The revenue account referred to in subparagraph (1)(c) is, in respect of each class of business specified in Part 2 of the First Schedule, a revenue account, in Form HKL1, and the supplementary information referred to in that subparagraph is—
+
+    - (a) the date up to which the valuation referred to in section 18(1)(a) or 32(1)(a) of this Ordinance (“the valuation”) is made;
+
+    - (b) the principles on which the valuation and distribution of profits among the policy holders are made, and whether those principles were determined by the instrument constituting the insurer or by the insurer’s regulations or bylaws or otherwise;
+
+    - (c) the table or tables of mortality used in the valuation;
+
+    - (d) the rate or rates of interest assumed in the calculations;
+
+    - (e) the proportion of the annual premium income reserved as a provision for future expenses and profit or, if no such provision is made, a statement as to what provision is made;
+
+    - (f) the period during which a policy must be in force in order to entitle the policy holders to share in the profits; and
+
+    - (g) the results of the valuation, in respect of the Hong Kong long term insurance business carried on by the insurer, showing—
+
+      - (i) the total amount of profit made by the insurer;
+
+      - (ii) the amount of profit divided among the policy holders, and the number and amount of the policies which participated; and
+
+      - (iii) the amount of profit brought forward from the previous valuation, the amount of profit allotted to policy holders and shareholders.
+
+  - (3) The valuation summary referred to in subparagraph (1)(d) is a valuation summary, as at the date up to which the valuation is made, in Form HKL2.
+
+  - (4) The valuation balance sheet referred to in subparagraph (1)(e) is a valuation balance sheet, as at the date up to which the valuation is made, in Form HKL3, and the supplementary information referred to in that subparagraph is particulars of the average rate of interest yielded by the assets (whether invested or uninvested) constituting the long term business fund of the insurer, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by it (“Hong Kong fund”), calculated on the mean Hong Kong fund of the financial year.
+
+  - (5) If, during a financial year, an insurer authorized to carry on long term business does not carry on Hong Kong long term insurance business in respect of which information would have had to be submitted under subparagraph (1) had the insurer carried on such business, the insurer shall submit a statement to that effect.
+
+  - (6) A statement required to be submitted under subparagraph (5) shall be contained—
+
+    - (a) in Form HKL1;
+
+    - (b) in Form HKL2; and
+
+    - (c) in Form HKL3. FORM HKL1 HONG KONG LONG TERM INSURANCE BUSINESS - REVENUE ACCOUNT
+
+    - OF . (Name of insurer) in respect of class(es) *
+
+    - . for the period commencing on . and ending on .
+
+    - HK$ | HK$
+
+    - Amount of Fund(s)# as at the Beginning of the Period . | XX | Gross Claims Payable:
+
+    - Gross Premiums Receivable: | Direct | Reinsurance Accepted | Recoverable from Reinsurers
+
+    - Reinsurance | Reinsurance | On Death | . . . | . . . | (. . .)
+
+    - Direct | Accepted | Ceded | On Surrender | . . . | . . . | (. . .)
+
+    - Regular Premiums | . . . | . . . | (. . .) | On Maturity | . . . | . . . | (. . .)
+
+    - Single Premiums | . . . | . . . | (. . .) | On Other Events | . . . | . . . | (. . .)
+
+    - Transferred Premiums | . . . _ . . . | . . . _ . . . | (. . .) _ (. . .) | _ . . . | _ . . . | _ (. . .)
+
+    - Net Premiums Receivable . Interest or Income from Long Term Business Assets Attributable to Hong Kong Long Term Insurance Business . Commissions Receivable . Other Receipts (accounts to be specified) . Transfer from Other Long Term Insurance Class(es)* . Transfer from Profit and Loss Account . | XX XX XX XX XX XX _ XX ==== | Net Claims Payable . Dividends to Policy Holders . Commissions Payable . Other Payments (accounts to be specified) . Transfer to Other Long Term Insurance Class(es)* . Transfer to Profit and Loss Account . Amount of Fund(s)# as at the End of the Period . | XX XX XX XX XX XX XX _ XX ====
+
+    - We certify that the above information is true and correct. _ _ _ ( ) ( ) ( ) Director Director § Chief Executive/Secretary * The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule to the Insurance Companies Ordinance (Cap. 41). # “Fund” means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the insurer.
+
+  - § Delete as necessary.
+
+  - FORM HKL2 HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION SUMMARY
+
+  - OF . (Name of insurer) for the period
+
+  - commencing on . and ending on .
+
+  - 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
+
+  - Class | Type of business | Number of contracts | Amount of sums assured or annuities per annum including vested reversionary bonuses | Amount of yearly premiums | Value of sums assured or annuities per annum including vested reversionary bonuses | Value of yearly net premiums | Amount of net liability | Bases of valuation
+
+  - Office premiums | Net premiums
+
+  - A | (I) Life assurance other than annuities (a) With participation in profits: Whole life . Endowment . Term . Other types (to be specified) . | HK$ | HK$ | HK$ | HK$ | HK$ | HK$
+
+  - Total assurances with profits .
+
+  - (b) Without participation in profits: Whole life . Endowment . Term . Other types (to be specified) .
+
+  - Total assurances without profits .
+
+  - Total assurances . | ╳╳
+
+  - (II) Annuities (a) With participation in profits . (b) Without participation in profits .
+
+  - Total annuities . | ╳╳
+
+  - Total of Class A | ╳╳
+
+  - B | Marriage and birth | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+  - C | Linked long term: Whole life . Endowment . Annuity . Others .
+
+  - Total of Class C | ╳╳
+
+  - D | Permanent health | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+  - E | Tontines | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+  - F | Capital redemption | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+  - G | Retirement scheme management category I: (i) MPF subfunds (ii) other subfunds | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳
+
+  - Total of Class G* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+  - H | Retirement scheme management category II: (i) MPF subfunds (ii) other subfunds | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳ | ╳╳ ╳╳ ╳╳
+
+  - Total of Class H* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+  - Total of Classes G & H* | ╳╳ | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+  - I | Retirement scheme management category III
+
+  - Other reserves (to be specified) | ╳╳ | ╳╳ | ╳╳ | ╳╳
+
+  - TOTALS | ╳╳
+
+  - We certify that the above information is true and correct.
+
+  - _ | _ | _
+
+  - ( ) | ( ) | ( )
+
+  - Director | Director | # Chief Executive/Secretary
+
+    - Notes:
+
+- 1. The classes referred to correspond to the classes of Long Term Business set out in Part 2 of the First Schedule to the Insurance Companies Ordinance (Cap. 41).
+
+- 2. Within each class of long term insurance business, the following are to be shown—
+
+  - (i) direct business and reinsurances accepted;
+
+  - (ii) reinsurances ceded; and
+
+  - (iii) net retained business.
+
+- 3. The entry under column 8 should either refer to details given as supplementary information or should state the mortality tables/statistical tables and rates of interest employed, as appropriate.
+
+- 4.
+
+  - With regard to business within class A—
+
+    - (i) separate summaries similar in form to the above must be furnished in respect of policies valued by different mortality tables, or at different rates of interest; and
+
+    - (ii) contracts the nature of which or the method of valuation of which makes it impossible or inappropriate to give the information required in columns 4, 5 and 6 of any valuation summary are to be shown separately and the reason stated.
+
+  - * Eliminate duplicate in total line.
+
+  - # Delete as necessary.
+
+  - FORM HKL3 HONG KONG LONG TERM INSURANCE BUSINESS - VALUATION BALANCE
+
+  - SHEET OF . (Name of insurer) as at .
+
+  - Net liability under Hong Kong Long Term Insurance Business Surplus . | HK$ _ $ ======== | Fund(s)* (as per Balance Sheet) . Deficiency . | HK$ _ $ ========
+
+  - We certify that the above information is true and correct.
+
+  - _ | _ | _
+
+  - ( ) | ( ) | ( )
+
+  - Director | Director | # Chief Executive/Secretary
+
+  - * “Fund” means the long term business fund, or that part of the fund, which is attributable to the Hong Kong long term insurance business carried on by the insurer. # Delete as necessary.
+
+  - (Added L.N. 3 of 2003) (Part 8 added L.N. 391 of 1990)
 
 PART 9 | [sections 20(1A), 25A, 25B & 50C] (Amended 51 of 1999 s. 6(b))
 
@@ -1788,14 +1788,8 @@ STATEMENT OF ASSETS AND LIABILITIES PURSUANT TO
 
 Editorial Note:
 
-◆ See 35 of 1996 s. 34
+Section 6 of the Insurance Companies (Amendment) Ordinance 1999 (51 of 1999) replaced Forms 6, 7, 8 and 9.
 
-\##
+※ The application provision contained in section 2 of the Insurance Companies Ordinance (Amendment of Part 1 of Third Schedule) Regulation 2003 (L.N. 2 of 2003) reads as follows:
 
-- 1. Section 6 of the Insurance Companies (Amendment) Ordinance 1999 (51 of 1999) replaced Forms 6, 7, 8 and 9.
-
-- 2. The transitional provision contained in section 9(6) of Ord. No. 51 of 1999 reads as follows:
-
-  - (6) Notwithstanding the repeal and replacement of Forms 6, 7, 8 and 9 in Part 8 of the Third Schedule of the principal Ordinance by section 6 and the Schedule of this Ordinance, an insurer need only supply the additional information required by the replacement forms for one additional year each year for 4 years, by the end of which the insurer shall supply the required information for all 12 years specified in such forms.
-
-- ※ The application provision contained in section 2 of the Insurance Companies Ordinance (Amendment of Part 1 of Third Schedule) Regulation 2003 (L.N. 2 of 2003) reads as follows: “2. Application This Regulation applies to an insurer within the meaning of the Insurance Companies Ordinance (Cap. 41) in respect of its financial year ending on or after 31 December 2003 and every successive financial year.”.
+“2. Application This Regulation applies to an insurer within the meaning of the Insurance Companies Ordinance (Cap. 41) in respect of its financial year ending on or after 31 December 2003 and every successive financial year.”.

@@ -1,6 +1,6 @@
 # THIRD SCHEDULE
 
-[ss. 38 & 342]
+[ss. 2B, 38, 38A, 38D, 42, 342, 342A, 342C & 360 & 2nd Sch., 4th Sch., 20th Sch. & 21st Schs.] (Amended 12 of 2005 s. 15)
 
 MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
@@ -124,7 +124,7 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
     - (b) particulars of any beneficial interest possessed by any director of the company in any shares so offered for sale.
 
-  - 29. The name, date and country of incorporation, whether public or private (if applicable), the general nature of the business, the issued capital and the proportion thereof held or intended to be held, of every company the whole of the capital of which or a substantial proportion thereof is held or intended to be held, or whose profits or assets make or will make a material contribution to the figures in the auditors’ report or to the next accounts of the company. (Amended L.N. 137 of 1981)
+  - 29. The name, date and country of incorporation, whether public or private (if applicable), the general nature of the business, the issued capital and the proportion thereof held or intended to be held, of every company the whole of the capital of which or a substantial proportion thereof is held or intended to be held, or whose profits or assets make or will make a material contribution to the figures in the auditors’ report or to the next accounts of the company.
 
   - 30. A statement of the persons holding or beneficially interested in any substantial part of the share capital of the company and the amounts of the holdings in question.
 
@@ -162,7 +162,9 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
         - (ii) individually with the assets and liabilities of each subsidiary,
 
-    - and shall indicate as respects the profits or losses and assets and liabilities of the subsidiaries the allowance to be made for persons other than members of the company. (Replaced 30 of 2004 s. 2)
+    - and shall indicate as respects the profits or losses and assets and liabilities of the subsidiaries the allowance to be made for persons other than members of the company.
+
+  - (Replaced 30 of 2004 s. 2)
 
   - 32. If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in the purchase of any business, a report made by accountants (who shall be named in the prospectus) upon—
 
@@ -174,21 +176,23 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
     - (1) if—
 
-      - (a) the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in any manner resulting in the acquisition by the company of shares in any other body corporate; and
+      - (a) the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in any manner resulting in the acquisition by the company of shares in any other undertaking; and
 
-      - (b) by reason of that acquisition or anything to be done in consequence thereof or in connexion therewith that body corporate will become a subsidiary of the company,
+      - (b) by reason of that acquisition or anything to be done in consequence thereof or in connexion therewith that undertaking will become a subsidiary of the company,
 
     - a report made by accountants (who shall be named in the prospectus) upon—
 
-      - (i) the profits or losses of the other body corporate in respect of each of the 3 financial years immediately preceding the issue of the prospectus; and (Amended 86 of 1992 s. 18)
+      - (i) the profits or losses of the other undertaking in respect of each of the 3 financial years immediately preceding the issue of the prospectus; and (Amended 86 of 1992 s. 18)
 
-      - (ii) the assets and liabilities of the other body corporate at the last date to which the accounts of the body corporate were made up.
+      - (ii) the assets and liabilities of the other undertaking at the last date to which the accounts of the undertaking were made up.
 
     - (2) The said report shall—
 
-      - (a) indicate how the profits or losses of the other body corporate dealt with by the report would, in respect of the shares to be acquired, have concerned members of the company and what allowance would have fallen to be made, in relation to assets and liabilities so dealt with, for holders of other shares, if the company had at all material times held the shares to be acquired; and
+      - (a) indicate how the profits or losses of the other undertaking dealt with by the report would, in respect of the shares to be acquired, have concerned members of the company and what allowance would have fallen to be made, in relation to assets and liabilities so dealt with, for holders of other shares, if the company had at all material times held the shares to be acquired; and
 
-      - (b) where the other body corporate has subsidiaries, deal with the profits or losses and the assets and liabilities of the body corporate and its subsidiaries in the manner provided by paragraph 31(3) in relation to the company and its subsidiaries.
+      - (b) where the other undertaking has subsidiaries, deal with the profits or losses and the assets and liabilities of the undertaking and its subsidiaries in the manner provided by paragraph 31(3) in relation to the company and its subsidiaries.
+
+  - (Amended 12 of 2005 s. 15)
 
   - 34.
 
@@ -270,9 +274,9 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
   - 43.
 
-    - Any report by accountants required by Part II shall be made by accountants qualified under the Professional Accountants Ordinance (Cap. 50) for appointment as auditors of a company and shall not be made by any accountant who is an officer or servant, or a partner of or in the employment of an officer or servant, of the company or of the company’s subsidiary or holding company or of a subsidiary of the company’s holding company; and for the purposes of this paragraph the expression “officer” (高級人員) shall include a proposed director but not an auditor.
+    - Any report by accountants required by Part II shall be made by accountants qualified under the Professional Accountants Ordinance (Cap. 50) for appointment as auditors of a company and shall not be made by any accountant who is an officer or servant, or a partner of or in the employment of an officer or servant, of the company or of the company’s subsidiary or parent undertaking or of a subsidiary of the company’s parent undertaking; and for the purposes of this paragraph the expression “officer” (高級人員) shall include a proposed director but not an auditor.
 
-  - (Amended 6 of 1984 s. 259)
+  - (Amended 6 of 1984 s. 259; 12 of 2005 s. 15)
 
   - 44. For the purposes of paragraph 6, the description of a person, that is to say, his profession, trade or other occupation shall be stated with particularity and precision; and the description “Company Director” shall be inadequate unless supplementary information is provided stating the nature of the relevant company’s business.
 
@@ -284,12 +288,14 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
     - (a) shall not state or imply that any land or building has been professionally valued unless the valuation is made by a professionally qualified valuation surveyor who is subject to the discipline of a professional body;
 
-    - (b) shall not be made by a person who is an officer or servant or proposed director of the company or the company’s subsidiary or holding company or of a subsidiary of the company’s holding company; and
+    - (b) shall not be made by a person who is an officer or servant or proposed director of the company or the company’s subsidiary or parent undertaking or of a subsidiary of the company’s parent undertaking; and
 
     - (c) shall not be made by a company which—
 
-      - (i) is the company’s subsidiary or holding company or a subsidiary of the company’s holding company; or
+      - (i) is the company’s subsidiary or parent undertaking or a subsidiary of the company’s parent undertaking; or
 
       - (ii) has either a paid up capital of less than $1,000,000 or the assets of which do not exceed liabilities by $1,000,000 or more as shown in the company’s last balance sheet.
+
+  - (Amended 12 of 2005 s. 15)
 
   - 47. (Repealed 30 of 2004 s. 2) (Third Schedule replaced 78 of 1972 s. 21)
