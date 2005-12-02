@@ -1,6 +1,8 @@
 # Schedule 1
 
-[ss. 2, 3 & 11] (Amended 42 of 2000 s. 26)
+[ss. 2, 3 & 11]
+
+(Amended 42 of 2000 s. 26)
 
 DEPARTMENT OF JUSTICE Secretary for Justice.
 
@@ -62,4 +64,10 @@ Assistant Principal Solicitor, Companies Registry.
 
 Senior Solicitor, Companies Registry.
 
-Solicitor, Companies Registry. LAND REGISTRY Senior Solicitor, Land Registry. (Replaced L.N. 129 of 1979. Amended L.N. 116 of 1980; 8 of 1993 s. 9; L.N. 291 of 1993; L.N. 373 of 1994; 11 of 1999 s. 3)
+Solicitor, Companies Registry. LAND REGISTRY Deputy Principal Solicitor, Land Registry.
+
+Assistant Principal Solicitor, Land Registry.
+
+Senior Solicitor, Land Registry.
+
+Solicitor, Land Registry. (Replaced L.N. 129 of 1979. Amended L.N. 116 of 1980; 8 of 1993 s. 9; L.N. 291 of 1993; L.N. 373 of 1994; 11 of 1999 s. 3; L.N. 105 of 2005)
