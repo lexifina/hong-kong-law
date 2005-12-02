@@ -56,7 +56,7 @@
 
 - 27. The fourth and fifth floors of the Urban Council Quarry Bay Complex, 38 Quarry Bay Street, Quarry Bay, Hong Kong.
 
-- 28. The ground floor of No. 9 and 9A, Tit Shu Street, Tai Kok Tsui, Kowloon.
+- 28. The third floor, Tai Kok Tsui Municipal Services Building, 63 Fuk Tsun Street, Tai Kok Tsui, Kowloon. (L.N. 219 of 2005)
 
 - 29. The fifth and sixth floors of Urban Council Shui Wo Street Complex, No. 9, Shui Wo Street, Kwun Tong, Kowloon.
 
