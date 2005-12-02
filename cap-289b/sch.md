@@ -306,4 +306,6 @@ Item | Periods | Rate of interest
 
 151. | On or after 3 October 2005 and before 7 November 2005 (L.N. 155 of 2005; L.N. 194 of 2005) | 2.1333% per annum
 
-152. | On or after 7 November 2005 (L.N. 194 of 2005) | 2.4000% per annum
+152. | On or after 7 November 2005 and before 5 December 2005 (L.N. 194 of 2005; L.N. 220 of 2005) | 2.4000% per annum
+
+153. | On or after 5 December 2005 (L.N. 220 of 2005) | 2.7500% per annum
