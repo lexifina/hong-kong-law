@@ -1,5 +1,3 @@
 UNITED NATIONS SANCTIONS (CÔTE D’IVOIRE) REGULATION
 
-(Cap. 537, section 3)
-
-[8 July 2005]
+(Omitted as expired)
