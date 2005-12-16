@@ -4,7 +4,7 @@
 
 REQUIREMENTS APPLICABLE TO DESIGNATED DRIVING SCHOOLS
 
-- 1. Driving instructors giving driving instruction courses shall be holders of valid driving instructors’ licences issued under regulation 22 of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg.) and a person who is not the holder of such a licence shall not give such a course.
+- 1. Driving instructors giving driving instruction courses shall be holders of valid driving instructors’ licences issued under regulation 22 of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) and a person who is not the holder of such a licence shall not give such a course.
 
 - 2. Notice shall be given by the proprietor of the driving school to the Commissioner forthwith—
 
@@ -14,4 +14,4 @@ REQUIREMENTS APPLICABLE TO DESIGNATED DRIVING SCHOOLS
 
   - (c) if grounds exist for a creditor to present a bankruptcy petition against the proprietor or he has entered into liquidation or has entered into any voluntary arrangement with his creditors or has suffered any distress or execution to be levied upon his goods. (Amended 37 of 1998 s. 6)
 
-- 3. The fee payable for designation, or renewal of designation, of a driving school shall be $21,000. (Schedule 9 added 27 of 1989 s. 3)
+- 3. The fee payable for designation, or renewal of designation, of a driving school shall be $16,500. (Amended L.N. 174 of 2005) (Schedule 9 added 27 of 1989 s. 3)
