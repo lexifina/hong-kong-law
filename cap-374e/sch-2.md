@@ -6,9 +6,9 @@ FEES
 
 Fee $
 
-Certificate of particulars in the register fee | 45
+Certificate of particulars in the register fee (L.N. 201 of 1995) | 45
 
-Registration fee | 100
+Registration fee (L.N. 201 of 1995; L.N. 171 of 2005) | 83
 
 Transfer of registration mark fee | 560
 
@@ -24,7 +24,7 @@ Duplicate vehicle licence fee in the case of a rickshaw | 10
 
 Duplicate trade licence or permit | 65
 
-(L.N. 300 of 1990; L.N. 267 of 1994; L.N. 201 of 1995; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998)
+(L.N. 300 of 1990; L.N. 267 of 1994; L.N 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998)
 
 Annual Licence Fees
 
@@ -40,7 +40,7 @@ Annual Licence Fees
 
 (i) not exceeding 1.9 tonnes permitted gross vehicle weight | 2115
 
-(ii) exceeding 1.9 tonnes permitted gross vehicle weight | 4140
+(ii) exceeding 1.9 tonnes permitted gross vehicle weight (40 of 1991 s. 8) | 4140
 
 2. | Public bus—
 
@@ -78,9 +78,7 @@ and in addition to the appropriate fee mentioned above, in the case of a private
 
 7. | Motor cycle | 1200
 
-8. | Trailer-for each 250 kg permitted gross vehicle weight or part thereof, excluding
-
-any gross vehicle weight of the trailer imposed on the drawing vehicle | 30
+8. | Trailer-for each 250 kg permitted gross vehicle weight or part thereof, excluding any gross vehicle weight of the trailer imposed on the drawing vehicle | 30
 
 9. | Motor tricycle | 1200
 
@@ -94,7 +92,7 @@ any gross vehicle weight of the trailer imposed on the drawing vehicle | 30
 
 (18 of 1989 s. 3; 26 of 1990 s. 3; 40 of 1991 s. 8)
 
-Permit and Certificate Fees
+Permit and Certificate Fees Fee $
 
 1. International fiscal permit | 145
 
@@ -110,19 +108,19 @@ Permit and Certificate Fees
 
 7. Goods permit | 260
 
-8. Excess passengers permit | 175
+8. Excess passengers permit | 155
 
 9. Movement permit | 560
 
-10. Long load permit | 220
+10. Long load permit | 200
 
-11. Wide load permit | 220
+11. Wide load permit | 200
 
-12. Advertising vehicle permit | 130
+12. Advertising vehicle permit | 110
 
-13. Expressway permit | 185
+13. Expressway permit | 145
 
-(L.N. 201 of 1995; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998)
+(L.N. 201 of 1995; L.N. 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998; L.N. 171 of 2005)
 
 Notes
 
@@ -144,4 +142,4 @@ Notes
 
   - (c) in the case of a rotary-piston engine, the volume of the space enclosed between one working face of the motor and one lobe of the stator at its maximum, expressed in cubic centimetres, less the volume of the space enclosed between one working face of the rotor and the stator at its minimum, expressed in cubic centimetres.
 
-- 3. In measuring cylinders or stator lobes for the purpose of calculating capacity, and in calculating cylinder capacity, fractions of centimetres shall be taken into account. (L.N. 247 of 1991)
+- 3. In measuring cylinders or stator lobes for the purpose of calculating capacity, and in calculating cylinder capacity, fractions of centimetres shall be taken into account.
