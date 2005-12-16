@@ -6,8 +6,12 @@ REMOVAL AND STORAGE CHARGES
 
 $
 
-1. | Removal charge (a) for a vehicle having a permitted gross vehicle weight not exceeding 5.5 tonnes (b) for a vehicle having a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes (c) for a vehicle having a permitted gross vehicle weight exceeding 24 tonnes | 440 1,110 2,960
+1. | Removal charge (a) for a vehicle having a permitted gross vehicle weight not exceeding 5.5 tonnes | 485
 
-2. | Storage charge | 175 per day after the second day during which the vehicle is detained
+(b) for a vehicle having a permitted gross vehicle weight exceeding 5.5 tonnes but not exceeding 24 tonnes | 1110
 
-(Replaced L.N. 648 of 1994. Amended L.N. 34 of 1998)
+(c) for a vehicle having a permitted gross vehicle weight exceeding 24 tonnes | 2790
+
+2. | Storage charge | 160 per day after the second day during which the vehicle is detained
+
+(Schedule 5 replaced L.N. 648 of 1994. Amended L.N. 34 of 1998; L.N. 173 of 2005)
