@@ -30,9 +30,9 @@ FEES | $
 
 (h) Duplicate international driving permit | 80
 
-(i) Record of convictions | 97
+(i) Record of convictions (L.N. 170 of 2005) | 50
 
-(j) Certificate of no recorded convictions | 97
+(j) Certificate of no recorded convictions (L.N. 170 of 2005) | 50
 
 (k) Renewal of probationary driving licence (49 of 2000 s. 8) | 26
 
