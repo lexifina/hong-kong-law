@@ -210,9 +210,19 @@ Item | Column 1 Specified food | Column 2 Antioxidant | Column 3 Parts per milli
 
 5. | Apples and pears | Ethoxyquin | 3
 
+6. | Fully preserved (including canned and fermented) fish and fish products, including molluscs, crustaceans and echinoderms (L.N. 189 of 2005) | Calcium disodium ethylene diamine tetraacetate | 340
+
+7. | Emulsified sauces (including mayonnaise, salad cream and salad dressing) (L.N. 189 of 2005) | Calcium disodium ethylene diamine tetraacetate | 100
+
+8. | Non-emulsified sauces (including ketchup, cheese sauce, cream sauce and brown gravy) (L.N. 189 of 2005) | Calcium disodium ethylene diamine tetraacetate | 750
+
 Note: (A) Butylated hydroxyanisole or butylated hydroxytoluene or mixtures thereof within the limits specified in Part II of this Schedule may be used in conjunction with propyl gallate or octyl gallate or dodecyl gallate or mixture thereof within the limits specified, provided that the total amount of antioxidant shall not exceed, in the case of anhydrous oils and fats and vitamin oils and concentrates, and partial glycerol esters, 300 parts per million, in the case of butter for manufacturing purposes, 240 parts per million and in the case of essential oils and isolates from the concentrates of essential oils, 1000 parts per million.
 
-(B) Preparations containing more than 100000 I.U.’s Vitamin A per gram are allowed to have in them or on them only 10 parts per million for each 1000 I.U.’s Vitamin A per gram of butylated hydroxyanisole (B.H.A.) or butylated hydroxytoluene (B.H.T.) or any mixture of B.H.A. and B.H.T.
+- (B) Preparations containing more than 100000 I.U.’s Vitamin A per gram are allowed to have in them or on them only 10 parts per million for each 1000 I.U.’s Vitamin A per gram of butylated hydroxyanisole (B.H.A.) or butylated hydroxytoluene (B.H.T.) or any mixture of B.H.A. and B.H.T.
+
+- (C) For the purpose of computing the amounts in column 3 in relation to items 6, 7 and 8, calcium disodium ethylene diamine tetraacetate shall be calculated in its anhydrous form. (L.N. 189 of 2005)
+
+  - (D) Any food specified in column 1 of items 6, 7 and 8 may have in it or on it disodium ethylene diamine tetraacetate (as an alternative to calcium disodium ethylene diamine tetraacetate). For the purpose of computing the amounts in column 3, disodium ethylene diamine tetraacetate shall be calculated as anhydrous calcium disodium ethylene diamine tetraacetate. (L.N. 189 of 2005)
 
 - PART III
 
