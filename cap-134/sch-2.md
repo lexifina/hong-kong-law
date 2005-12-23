@@ -50,7 +50,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 23. Kwong Wah Hospital
 
-- 24. Lai Chi Kok Hospital
+- 24. (Repealed L.N. 190 of 2005)
 
 - 25. Li Ka Shing Specialist Clinic
 
@@ -64,7 +64,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 30. Matilda and War Memorial Hospital
 
-- 31. Nam Long Hospital
+- 31. (Repealed L.N. 190 of 2005)
 
 - 32. Our Lady of Maryknoll Hospital
 
@@ -212,4 +212,8 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 104. Po Leung Kuk Eco-Home for the Senior (Added L.N. 79 of 2004)
 
-- 105. True Light Home for the Aged (Added L.N. 79 of 2004) (Second Schedule replaced L.N. 187 of 1992)
+- 105. True Light Home for the Aged (Added L.N. 79 of 2004)
+
+- 106. Grace Nursing Home (Tak Tin) (Added L.N. 190 of 2005)
+
+- 107. Haven of Hope Sister Annie Skau Nursing Home (Added L.N. 190 of 2005) (Second Schedule replaced L.N. 187 of 1992)
