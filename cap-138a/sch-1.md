@@ -1980,6 +1980,8 @@ Vindesine; its salts
 
 Vinorelbine; its salts
 
+Vitamin A and its esters when contained in pharmaceutical products the recommended daily dose of which contains not less than 10000 international units of vitamin A
+
 Voriconazole; its salts
 
 Warfarin salts

@@ -64,6 +64,8 @@ Alkaloids, the following; their quaternary compounds; any salt, simple or comple
 
 Calabar bean, alkaloids of
 
+Codeine, except substances containing less than 0.2% of codeine
+
 Coniine, except substances containing less than 0.1% of coniine
 
 Cotarnine, except substances containing less than 0.2% of cotarnine
@@ -1819,6 +1821,8 @@ Vinca, alkaloids of
 Vindesine; its salts
 
 Vinorelbine; its salts
+
+Vitamin A and its esters when contained in pharmaceutical products the recommended daily dose of which contains not less than 10000 international units of vitamin A
 
 Voriconazole; its salts
 
