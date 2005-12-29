@@ -90,12 +90,10 @@ ORDINANCE DO NOT APPLY UNDER SECTION 13(1) OF THIS ORDINANCE
 
 - (zm) a Solicitors Disciplinary Tribunal established under the Legal Practitioners Ordinance (Cap. 159); (Added L.N. 59 of 2000. Amended 7 of 2004 s. 55)
 
-- (zn) the Deposit Protection Appeals Tribunal established by the Deposit Protection Scheme Ordinance (Cap. 581). (Added 7 of 2004 s. 55)
+- (zn) the Deposit Protection Appeals Tribunal established by the Deposit Protection Scheme Ordinance (Cap. 581); (Added 7 of 2004 s. 55. Amended 18 of 2004 s. 69)
 
-- *[(zo) the Construction Workers Appeal Board appointed under the Construction Workers Registration Ordinance (Cap. 583). (Added 18 of 2004 s. 69) ]
+- (zo) the Construction Workers Appeal Board appointed under the Construction Workers Registration Ordinance (Cap. 583); (Added 18 of 2004 s. 69. Amended 20 of 2004 s. 59)
 
-- (zp) the Clearing and Settlement Systems Appeals Tribunal established under the Clearing and Settlement Systems Ordinance (Cap. 584). (Added 20 of 2004 s. 59)
+- (zp) the Clearing and Settlement Systems Appeals Tribunal established under the Clearing and Settlement Systems Ordinance (Cap. 584); (Added 20 of 2004 s. 59. Amended 19 of 2005 s. 7)
 
-Editorial Note:
-
-* Paragraph (zo) has not yet come into operation.
+- (zq) the Capital Adequacy Review Tribunal established under the Banking Ordinance (Cap. 155). (Added 19 of 2005 s. 7 )
