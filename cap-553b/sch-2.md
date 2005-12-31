@@ -14,7 +14,7 @@ Item | Enactment | Provision
 
 4. | (Repealed 15 of 2004 s. 62)
 
-5. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulations 12(1), (2) and (3), 18(2), 20(1), 25(2), (3) and (4), 26(2) and 28
+5. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulations 12(1), (2), (3) and (5), 18(2), 20(1), 25(2), (3) and (4), 26(2) and 28 (15 of 2004 s. 62)
 
 6. | Registration of Persons Regulations (Cap. 177 sub. leg. A) | Regulation 4(1)
 
