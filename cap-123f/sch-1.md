@@ -1,6 +1,6 @@
 # FIRST SCHEDULE
 
-[regs. 20 & 21]
+[regs. 18A, 20 & 21] (L.N. 110 of 2005)
 
 PERCENTAGE SITE COVERAGES AND PLOT RATIOS
 
@@ -10,6 +10,28 @@ Percentage site coverage | Plot ratio | Percentage site coverage | Plot ratio
 
 Class A site | Class B site | Class C site | Class A site | Class B site | Class C site | Class A site | Class B site | Class C site | Class A site | Class B site | Class C site
 
-Not exceeding 15 m Over 15 m but not exceeding 18 m Over 18 m but not exceeding 21 m Over 21 m but not exceeding 24 m Over 24 m but not exceeding 27 m Over 27 m but not exceeding 30 m Over 30 m but not exceeding 36 m Over 36 m but not exceeding 43 m Over 43 m but not exceeding 49 m Over 49 m but not exceeding 55 m Over 55 m but not exceeding 61 m Over 61 m | 66.6 60 56 52 49 46 42 39 37 35 34 33.33 | 75 67 62 58 55 52 47.5 44 41 39 38 37.5 | 80 72 67 63 59 55 50 47 44 42 41 40 | 3.3 3.6 3.9 4.2 4.4 4.6 5.0 5.4 5.9 6.3 6.8 8.0 | 3.75 4.0 4.3 4.6 4.9 5.2 5.7 6.1 6.5 7.0 7.6 9.0 | 4.0 4.3 4.7 5.0 5.3 5.5 6.0 6.5 7.0 7.5 8.0 10.0 | 100 97.5 95 92 89 85 80 75 69 64 60 60 | 100 97.5 95 92 90 87 82.5 77.5 72.5 67.5 62.5 62.5 | 100 97.5 95 92 90 88 85 80 75 70 65 65 | 5 5.8 6.7 7.4 8.0 8.5 9.5 10.5 11.0 11.5 12.2 15 | 5 5.8 6.7 7.4 8.1 8.7 9.9 10.8 11.6 12.1 12.5 15 | 5 5.8 6.7 7.4 8.1 8.8 10.2 11.2 12.0 12.6 13.0 15
+Not exceeding 15 m | 66.6 | 75 | 80 | 3.3 | 3.75 | 4.0 | 100 | 100 | 100 | 5 | 5 | 5
+
+Over 15 m but not exceeding 18 m | 60 | 67 | 72 | 3.6 | 4.0 | 4.3 | 97.5 | 97.5 | 97.5 | 5.8 | 5.8 | 5.8
+
+Over 18 m but not exceeding 21 m | 56 | 62 | 67 | 3.9 | 4.3 | 4.7 | 95 | 95 | 95 | 6.7 | 6.7 | 6.7
+
+Over 21 m but not exceeding 24 m | 52 | 58 | 63 | 4.2 | 4.6 | 5.0 | 92 | 92 | 92 | 7.4 | 7.4 | 7.4
+
+Over 24 m but not exceeding 27 m | 49 | 55 | 59 | 4.4 | 4.9 | 5.3 | 89 | 90 | 90 | 8.0 | 8.1 | 8.1
+
+Over 27 m but not exceeding 30 m | 46 | 52 | 55 | 4.6 | 5.2 | 5.5 | 85 | 87 | 88 | 8.5 | 8.7 | 8.8
+
+Over 30 m but not exceeding 36 m | 42 | 47.5 | 50 | 5.0 | 5.7 | 6.0 | 80 | 82.5 | 85 | 9.5 | 9.9 | 10.2
+
+Over 36 m but not exceeding 43 m | 39 | 44 | 47 | 5.4 | 6.1 | 6.5 | 75 | 77.5 | 80 | 10.5 | 10.8 | 11.2
+
+Over 43 m but not exceeding 49 m | 37 | 41 | 44 | 5.9 | 6.5 | 7.0 | 69 | 72.5 | 75 | 11.0 | 11.6 | 12.0
+
+Over 49 m but not exceeding 55 m | 35 | 39 | 42 | 6.3 | 7.0 | 7.5 | 64 | 67.5 | 70 | 11.5 | 12.1 | 12.6
+
+Over 55 m but not exceeding 61 m | 34 | 38 | 41 | 6.8 | 7.6 | 8.0 | 60 | 62.5 | 65 | 12.2 | 12.5 | 13.0
+
+Over 61 m | 33.33 | 37.5 | 40 | 8.0 | 9.0 | 10.0 | 60 | 62.5 | 65 | 15 | 15 | 15
 
 (L.N. 294 of 1976)

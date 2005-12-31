@@ -1,11 +1,15 @@
 # SECOND SCHEDULE
 
-[reg. 25]
+[regs. 18A & 25] (L.N. 110 of 2005)
 
 OPEN SPACE ABOUT DOMESTIC BUILDINGS
 
 Item | Class of site | Open space required
 
-1. 2. 3. | Class A site. Class B site. Class C site. | Not less than one-half of the roofed-over area of the building. Not less than one-third of the roofed-over area of the building. Not less than one-quarter of the roofed-over area of the building.
+1. | Class A site. | Not less than one-half of the roofed-over area of the building.
 
-(G.N.A. 97 of 1962; L.N. 82 of 1963)
+2. | Class B site. | Not less than one-third of the roofed-over area of the building.
+
+3. | Class C site. | Not less than one-quarter of the roofed-over area of the building. (L.N. 82 of 1963)
+
+(G.N.A. 97 of 1962)
