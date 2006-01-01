@@ -1,10 +1,10 @@
-# Schedule 1
+# FIRST SCHEDULE
 
 [reg. 7]
 
-FORM OF NOTICE TO BE PUBLISHED BY THE AUTHORITY UNDER SECTION 19(3)(b) OF THE WATER POLLUTION CONTROL ORDINANCE
+Form of Notice to be published by the Authority under section 19(3)(b) of the Water Pollution Control Ordinance
 
-WATER POLLUTION CONTROL ORDINANCE (Chapter 358) NOTICE UNDER SECTION 19(3)
+_ WATER POLLUTION CONTROL ORDINANCE (Chapter 358) NOTICE UNDER SECTION 19(3)
 
 Water Pollution Control Authority, . Control Zone.
 
