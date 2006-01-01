@@ -76,6 +76,10 @@ Enquiries concerning the issue of this notice may be made by contacting the Duty
 
 [ Bar Code | ]
 
+個人資料
+
+PERSONAL DATA
+
 郵寄付款須知： 請沿左面虛線撕下郵寄付款回條，並將回條連同支票、匯票或本票寄回。
 
 Instruction for Postal Payment : Please detach along the perforated line on the left and send in the Slip for Payment by Post together with the cheque, draft or cashier order.
@@ -89,6 +93,8 @@ Partial payment, late payment or unidentifiable payment will not be regarded as 
 請輸入下列18位數字 | 02
 
 Please key in the following 18 digit nos. 帳類 Bill Type
+
+日 Day 月 Month 年 Year 發出日期 Date of Issue
 
 C.R.C.
 
@@ -114,9 +120,9 @@ D. | 如不依時繳付罰款，可能會被起訴。
 
 Failure to pay in time may result in the institution of court proceedings.
 
-E. | 如對本通知書有任何查詢，請致電中央交通違例檢控科。 (電話：2866 6552)
+E. | 如對本通知書有任何查詢，請致電中央交通違例檢控組。(電話：2866 6552) (傳真：2200 4319)
 
-For enquiry on this notice, please contact the Central Traffic Prosecutions Bureau. (Tel.: 2866 6552)
+For enquiry on this notice, please contact the Central Traffic Prosecutions Division. (Tel.: 2866 6552) (Fax: 2200 4319)
 
 FP M
 
@@ -130,23 +136,23 @@ Slip for Payment by Post
 
 (a) 使用銀行自動櫃員機繳款 在任何貼有“繳款服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例定額罰款”，並輸入帳單類別“02”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment Service” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “02” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
 
-(b) 使用「繳費聆」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費聆」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
+(b) 使用「繳費靈」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
 
-(c) 透過互聯網繳款 透過銀行或「繳費聆」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址： http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址︰http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例定額罰款”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address :http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address :http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
+(c) 透過互聯網繳款 透過銀行或「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址： http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址︰http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例定額罰款”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address :http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address :http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
 
 (d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄香港告士打道郵政局信箱28000號(註明庫務署為收件人)。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment.
 
 (e) 親自繳款 親自或由代理人往下列辦事處繳付—— (i) 任何郵政局(郵政局信箱及流動郵政局除外)。如欲查詢有關地址及辦公時間，請致電香港郵政熱線︰2921 2222或瀏覽其網站(URL 位址： http://www.hongkongpost.com); | (e) In Person Payment may be made personally or by an agent at any of the following offices— (i) Any Post Office other than a post office letter box or a mobile post office. For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit their web site (URL address: http://www.hongkongpost.com);
 
-港島 (ii) 薄扶林道2號A西區裁判法院； (iii) 西灣河太安街29號東區法院大樓東區裁判法院； | Hong Kong Island (ii) Western Magistracy, 2A Pok Fu Lam Road; (iii) Eastern Magistracy, Eastern Law Courts Building, 29 Tai On Street, Sai Wan Ho;
+港島 (ii) (由2005年第159號法律公告廢除) (iii) 西灣河太安街29號東區法院大樓東區裁判法院； | Hong Kong Island (ii) (Repealed L.N. 159 of 2005) (iii) Eastern Magistracy, Eastern Law Courts Building, 29 Tai On Street, Sai Wan Ho;
 
-九龍 (iv) 亞皆老街147號M九龍城裁判法院大樓九龍城裁判法院； (v) 觀塘鯉魚門道10號觀塘法院大樓觀塘裁判法院； (vi) 大埔道292號北九龍裁判法院； | Kowloon (iv) Kowloon City Magistrates’ Courts, Kowloon City Law Courts Building, 147M Argyle Street; (v) Kwun Tong Magistracy, Kwun Tong Law Courts Building, 10 Lei Yue Mun Road, Kwun Tong; (vi) North Kowloon Magistracy, 292 Tai Po Road;
+九龍 (iv) 亞皆老街147號M九龍城裁判法院大樓九龍城裁判法院； (v) 觀塘鯉魚門道10號觀塘法院大樓觀塘裁判法院； (vi) (由2005年第159號法律公告廢除) | Kowloon (iv) Kowloon City Magistrates’ Courts, Kowloon City Law Courts Building, 147M Argyle Street; (v) Kwun Tong Magistracy, Kwun Tong Law Courts Building, 10 Lei Yue Mun Road, Kwun Tong; (vi) (Repealed L.N. 159 of 2005)
 
-新界 (vii) 粉嶺馬會道302號粉嶺裁判法院； (viii) 荃灣大河道70號荃灣法院大樓荃灣裁判法院； (ix) 沙田宜正里1號沙田法院大樓沙田裁判法院； (x) 屯門屯喜路1號屯門裁判法院。 | New Territories (vii) Fanling Magistracy, 302 Jockey Club Road, Fanling; (viii) Tsuen Wan Magistracy, Tsuen Wan Law Courts Building, 70 Tai Ho Road, Tsuen Wan; (ix) Shatin Magistracy, Shatin Law Courts Building, 1 Yi Ching Lane, Shatin; (x) Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun.
+新界 (vii) 粉嶺璧峰路1號粉嶺法院大樓粉嶺裁判法院； (viii) 荃灣大河道70號荃灣法院大樓荃灣裁判法院； (ix) 沙田宜正里1號沙田法院大樓沙田裁判法院； (x) 屯門屯喜路1號屯門裁判法院。 | New Territories (vii) Fanling Magistrates’ Courts, Fanling Law Courts Building, 1 Pik Fung Road, Fanling; (viii) Tsuen Wan Magistracy, Tsuen Wan Law Courts Building, 70 Tai Ho Road, Tsuen Wan; (ix) Shatin Magistracy, Shatin Law Courts Building, 1 Yi Ching Lane, Shatin; (x) Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun.
 
-上述裁判法院於下列時間收款—— 星期一 ：上午9時至下午1時； 至 及 星期五 下午2時至4時 星期六 ：上午9時至中午12時 本通知書必須保持完整並於繳款時出示。 | The above magistracies receive payments during the hours of— Monday : 9 a.m. to 1 p.m.; to and Friday 2 p.m. to 4 p.m. Saturday : 9 a.m. to 12 noon This notice must be kept intact and produced at the time of payment.
+上述裁判法院於下列時間收款—— 星期一 ：上午9時至下午1時； 至 及 星期五 下午2時至5時 星期六 ：上午9時至中午12時 本通知書必須保持完整並於繳款時出示。 | The above magistracies receive payments during the hours of— Monday : 9 a.m. to 1 p.m.; to and Friday 2 p.m. to 5 p.m. Saturday : 9 a.m. to 12 noon This notice must be kept intact and produced at the time of payment.
 
-2. | 支票、匯票或本票均須以“香港特別行政區政府”或“特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 | 2. | Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
+2. | 支票、匯票或本票均須以“香港特別行政區政府”或“香港特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 | 2. | Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
 
 3. | 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 3. | Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment.
 
@@ -186,7 +192,7 @@ Driving in excess of speed limit by more than 45 km/h | Section 41 | $1,000
 
 9A. | 非法進入交通燈控制的黃條過路處 Unlawfully entering yellow striped light signal crossing | 第10A條 Regulation 10A | $320 $320
 
-\#10. | 橫過連續雙白綫或附有虛綫的連續雙白綫 Crossing continuous double white line or white line with a broken white line | 第11(1)條 Regulation 11(1) | $450 $450
+\#10. | 橫過連續雙白綫或附有虛綫的連續白綫 Crossing continuous double white line or white line with a broken white line | 第11(1)條 Regulation 11(1) | $450 $450
 
 11. | 在禁區內駕駛 Driving in prohibited zone | 第14(5)條 Regulation 14(5) | $450 $450
 
@@ -194,7 +200,7 @@ Driving in excess of speed limit by more than 45 km/h | Section 41 | $1,000
 
 13. | 在限制區內裝卸貨物 Loading/unloading goods in restricted zone | 第14(7)條 Regulation 14(7) | $450 $450
 
-\#14. | 沒有遵從交通燈的指示 Failing to comply with traffic signals | 第18條 Regulation 18 | $450 $450
+!14. | 沒有遵從交通燈的指示 Failing to comply with traffic signals | 第18條 Regulation 18 | $600 $600
 
 15. | 沒有許可證而在封閉道路上駕駛 Driving on closed road without permit | 第27(4)條 Regulation 27(4) | $320 $320
 
@@ -202,7 +208,11 @@ Driving in excess of speed limit by more than 45 km/h | Section 41 | $1,000
 
 \#17. | 沒有為學校交通安全隊員而停車 Failing to stop for school crossing patrol | 第38(2)條 Regulation 38(2) | $450 $450
 
-18. | 車輛作“U”字形轉向導致阻礙 “U” turn causing obstruction | 第42(d)條 Regulation 42(d) | $320 $320
+18. | 車輛作“U”字形轉向導致阻礙 “U” turn causing obstruction | 第42(1)(d)條 Regulation 42(1)(d) | $320 $320
+
+18A. | 在汽車移動時，使用流動電話或其他電訊設備或該等電話或設備的附件 | 第42(1)(g)條 | $450
+
+Using a mobile telephone or other telecommunications equipment or an accessory to such telephone or equipment while the vehicle is in motion | Regulation 42(1)(g) | $450
 
 19. | 在不必要的情況下鳴響發聲警報設備 Sounding audible warning device unnecessarily | 第43條 Regulation 43 | $320 $320
 
@@ -213,6 +223,10 @@ Driving in excess of speed limit by more than 45 km/h | Section 41 | $1,000
 22. | 車尾亮着並非准許亮着的燈 | 第47(1)(b)及(c)條 | $320
 
 Light other than permitted illuminated lights showing to rear | Regulation 47(1)(b) and (c) | $320
+
+22A. | 在沒有亮着強制性車燈的情況下駕駛電單車或機動三輪車 | 第47(1A)條 | $320
+
+Driving motor cycle or motor tricycle without keeping obligatory lamps lighted | Regulation 47(1A) | $320
 
 23. | 超額載客 Excess passengers | 第53(3)條 Regulation 53(3) | $450 $450
 
@@ -312,6 +326,10 @@ Driving private car when rear seat passenger occupies rear seat without seat bel
 
 56. | 沒有遵守使用右邊行車綫的限制 Failing to comply with restriction on using offside lane | 第11條 Regulation 11 | $450 $450
 
+56A. | 沒有在快速公路車路的左邊行車綫上駕駛 | 第12(1)條 | $450
+
+Failing to drive in the nearside lane of the carriageway of an expressway | Regulation 12(1) | $450
+
 57. | 在其他車輛的左邊超越該車輛 Overtaking another vehicle on its nearside | 第13條 Regulation 13 | $450 $450
 
 \# 凡有“#”符號的罪行每宗記3分。
@@ -330,7 +348,7 @@ Offence marked with “Ω” carries 10 driving-offence points.
 
 Vehicle owners liable for offences marked with “*”.
 
-(L.N. 165 of 2001; L.N. 103 of 2004)
+(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005)
 
 通知書號碼： | 表格 2 | [第2(2)條]
 
@@ -448,29 +466,29 @@ I.D. No.: Offence Date: Payment Type:
 
 (a) 使用銀行自動櫃員機繳款 在任何貼有“繳款服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例定額罰款”，並輸入帳單類別“04”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment Service” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “04” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
 
-(b) 使用「繳費聆」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費聆」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
+(b) 使用「繳費靈」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
 
-(c) 透過互聯網繳款 透過銀行或「繳費聆」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址： http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址︰http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例定額罰款”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address :http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address :http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
+(c) 透過互聯網繳款 透過銀行或「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址： http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址︰http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例定額罰款”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address :http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address :http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
 
 (d) 郵遞繳款 凡郵寄支票、匯票或本票繳款，請在支票、匯票或本票的背面寫上“通知書號碼”，並連同本通知書的「郵寄付款回條」郵寄香港告士打道郵政局信箱28000號(註明庫務署為收件人)。請勿郵寄現金。請注意：以郵遞方式繳款將不會獲發收據。有關的郵戳日期視為繳款的日期。 | (d) By Post A cheque, draft or cashier order should be sent together with the Slip for Payment by Post to the Treasury, P.O. Box No. 28000, Gloucester Road Post Office, Hong Kong. Please write the “Notice Number” on the back of the cheque, draft or cashier order. Cash should not be sent through the post. Please note that no receipt will be issued for Fixed Penalty paid by post. The date of the relevant post mark is to be regarded as the date of payment.
 
 (e) 親自繳款 親自或由代理人往下列辦事處繳付—— (i) 任何郵政局(郵政局信箱及流動郵政局除外)。如欲查詢有關地址及辦公時間，請致電香港郵政熱線︰2921 2222或瀏覽其網站(URL 位址： http://www.hongkongpost.com); | (e) In Person Payment may be made personally or by an agent at any of the following offices— (i) Any Post Office other than a post office letter box or a mobile post office. For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit their web site (URL address: http://www.hongkongpost.com);
 
-港島 (ii) 薄扶林道2號A西區裁判法院； (iii) 西灣河太安街29號東區法院大樓東區裁判法院； | Hong Kong Island (ii) Western Magistracy, 2A Pok Fu Lam Road; (iii) Eastern Magistracy, Eastern Law Courts Building, 29 Tai On Street, Sai Wan Ho;
+港島 (ii) (由2005年第159號法律公告廢除) (iii) 西灣河太安街29號東區法院大樓東區裁判法院； | Hong Kong Island (ii) (Repealed L.N. 159 of 2005) (iii) Eastern Magistracy, Eastern Law Courts Building, 29 Tai On Street, Sai Wan Ho;
 
-九龍 (iv) 亞皆老街147號M九龍城裁判法院大樓九龍城裁判法院； (v) 觀塘鯉魚門道10號觀塘法院大樓觀塘裁判法院； (vi) 大埔道292號北九龍裁判法院； | Kowloon (iv) Kowloon City Magistrates’ Courts, Kowloon City Law Courts Building, 147M Argyle Street; (v) Kwun Tong Magistracy, Kwun Tong Law Courts Building, 10 Lei Yue Mun Road, Kwun Tong; (vi) North Kowloon Magistracy, 292 Tai Po Road;
+九龍 (iv) 亞皆老街147號M九龍城裁判法院大樓九龍城裁判法院； (v) 觀塘鯉魚門道10號觀塘法院大樓觀塘裁判法院； (vi) (由2005年第159號法律公告廢除) | Kowloon (iv) Kowloon City Magistrates’ Courts, Kowloon City Law Courts Building, 147M Argyle Street; (v) Kwun Tong Magistracy, Kwun Tong Law Courts Building, 10 Lei Yue Mun Road, Kwun Tong; (vi) (Repealed L.N. 159 of 2005)
 
-新界 (vii) 粉嶺馬會道302號粉嶺裁判法院； (viii) 荃灣大河道70號荃灣法院大樓荃灣裁判法院； (ix) 沙田宜正里1號沙田法院大樓沙田裁判法院； (x) 屯門屯喜路1號屯門裁判法院。 | New Territories (vii) Fanling Magistracy, 302 Jockey Club Road, Fanling; (viii) Tsuen Wan Magistracy, Tsuen Wan Law Courts Building, 70 Tai Ho Road, Tsuen Wan; (ix) Shatin Magistracy, Shatin Law Courts Building, 1 Yi Ching Lane, Shatin; (x) Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun.
+新界 (vii) 粉嶺璧峰路1號粉嶺法院大樓粉嶺裁判法院； (viii) 荃灣大河道70號荃灣法院大樓荃灣裁判法院； (ix) 沙田宜正里1號沙田法院大樓沙田裁判法院； (x) 屯門屯喜路1號屯門裁判法院。 | New Territories (vii) Fanling Magistrates’ Courts, Fanling Law Courts Building, 1 Pik Fung Road, Fanling; (viii) Tsuen Wan Magistracy, Tsuen Wan Law Courts Building, 70 Tai Ho Road, Tsuen Wan; (ix) Shatin Magistracy, Shatin Law Courts Building, 1 Yi Ching Lane, Shatin; (x) Tuen Mun Magistracy, 1 Tuen Hi Road, Tuen Mun.
 
-上述裁判法院於下列時間收款—— 星期一 ：上午9時至下午1時； 至 及 星期五 下午2時至4時 星期六 ：上午9時至中午12時 本通知書必須保持完整並於繳款時出示。 | The above magistracies receive payments during the hours of— Monday : 9 a.m. to 1 p.m.; to and Friday 2 p.m. to 4 p.m. Saturday : 9 a.m. to 12 noon This notice must be kept intact and produced at the time of payment.
+上述裁判法院於下列時間收款—— 星期一 ：上午9時至下午1時； 至 及 星期五 下午2時至5時 星期六 ：上午9時至中午12時 本通知書必須保持完整並於繳款時出示。 | The above magistracies receive payments during the hours of— Monday : 9 a.m. to 1 p.m.; to and Friday 2 p.m. to 5 p.m. Saturday : 9 a.m. to 12 noon This notice must be kept intact and produced at the time of payment.
 
-2. 3. | 支票、匯票或本票均須以“香港特別行政區政府”或“特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 2. | Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
+2. 3. | 支票、匯票或本票均須以“香港特別行政區政府”或“香港特區政府”為收款人，並加以劃線。切勿以任何個別人員為收款人。支票兌現後繳款方為有效。期票恕不接受。 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 2. | Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. They should not be made payable to any individual officer. Payment is valid only after the cheque is cleared. Post-dated cheques will not be accepted.
 
 3. | Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment.
 
 查詢： | Enquiries :
 
-如對本通知書有任何查詢，請致電中央交通違例檢控科。(電話：2866 6552) | For enquiries on this notice, please contact the Central Traffic Prosecutions Bureau. (Tel. : 2866 6552 )
+如對本通知書有任何查詢，請致電中央交通違例檢控組。(電話：2866 6552) (傳真：2200 4319) | For enquiries on this notice, please contact the Central Traffic Prosecutions Division. (Tel.: 2866 6552) (Fax: 2200 4319)
 
 欲就法律責任提出爭議者請注意： | NOTES FOR THOSE WHO WISH TO DISPUTE LIABILITY :
 
@@ -488,7 +506,7 @@ LIABILITY FOR OFFENCE
 
 (Section 3(3))
 
-致：警務處處長 香港灣仔軒尼詩道1號 熙信大廈15樓 香港警務處交通總部第3組 | To : The Commissioner of Police Traffic Branch Headquarters, Unit 3 15th Floor, Asian House, 1 Hennessy Road, Wan Chai, Hong Kong.
+致：警務處處長 香港灣仔軍器廠街1號 警察總部警政大樓31樓 交通總部中央交通 違例檢控組 第3組 | To : The Commissioner of Police Unit 3, Central Traffic Prosecutions Division, Traffic Branch Headquarters, 31st Floor, Arsenal House, Police Headquarters, No. 1 Arsenal Street, Wan Chai, Hong Kong.
 
 就貴處根據《定額罰款(刑事訴訟)條例》第3(3)條所發出的通知書(詳情見背頁而本人經已閱悉)，本人意欲就該通知書所指罪行的法律責任提出爭議，特此通知。
 
@@ -500,7 +518,7 @@ Date : . | .
 
 簽名 Signature
 
-(L.N. 165 of 2001)
+(L.N. 165 of 2001; L.N. 159 of 2005)
 
 _
 
