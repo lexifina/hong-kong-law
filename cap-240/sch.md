@@ -42,7 +42,7 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 13. | Regulation 14(7) | Loading/unloading goods in restricted zone | $450
 
-14. | Regulation 18 | Failing to comply with traffic signals | $450
+14. | Regulation 18 | Failing to comply with traffic signals (Amended L.N. 117 of 2005) | $600
 
 15. | Regulation 27(4) | Driving on closed road without permit | $320
 
@@ -50,7 +50,9 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 17. | Regulation 38(2) | Failing to stop for school crossing patrol | $450
 
-18. | Regulation 42(d) | “U” turn causing obstruction | $320
+18. | Regulation 42(1)(d) | “U” turn causing obstruction (Amended L.N. 117 of 2005) | $320
+
+18A. | Regulation 42(1)(g) | Using a mobile telephone or other telecommunications equipment or an accessory to such telephone or equipment while the vehicle is in motion (Added L.N. 117 of 2005) | $450
 
 19. | Regulation 43 | Sounding audible warning device unnecessarily | $320
 
@@ -59,6 +61,8 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 21. | Regulation 47(1)(a) | Driving without necessary lights illuminated | $320
 
 22. | Regulation 47(1)(b) and (c) | Light other than permitted illuminated lights showing to rear | $320
+
+22A. | Regulation 47(1A) | Driving motor cycle or motor tricycle without keeping obligatory lamps lighted (Added L.N. 117 of 2005) | $320
 
 23. | Regulation 53(3) | Excess passengers | $450
 
@@ -151,6 +155,8 @@ Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F)
 Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q)
 
 56. | Regulation 11 | Failing to comply with restriction on using offside lane (Added L.N. 255 of 1991) | $450
+
+56A. | Regulation 12(1) | Falling to drive in the nearside lane of the carriageway of an expressway (Added L.N. 117 of 2005) | $450
 
 57. | Regulation 13 | Overtaking another vehicle on its nearside (Added L.N. 255 of 1991) | $450
 
