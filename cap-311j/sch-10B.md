@@ -1,6 +1,6 @@
 # SCHEDULE 10B
 
-[reg. 7]
+[regs. 7 & 7B] (L.N. 165 of 2005)
 
 VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR AFTER 1 JANUARY 2002
 
@@ -10,13 +10,17 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
   - carbon monoxide 2.1 grams per kilometre
 
-  - oxides of nitrogen 0.12 gram per kilometre as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America; and evaporative emission shall not exceed 2.0 grams per test as measured by the California Sealed Housing for Evaporative Emissions Determination test procedure administered by the Environmental Protection Agency of the United States of America;
+  - oxides of nitrogen 0.12 gram per kilometre
+
+  - as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America; and evaporative emission shall not exceed 2.0 grams per test as measured by the California Sealed Housing for Evaporative Emissions Determination test procedure administered by the Environmental Protection Agency of the United States of America;
 
   - (b) hydrocarbons 0.08 gram per kilometre
 
   - carbon monoxide 0.67 gram per kilometre
 
-  - oxides of nitrogen 0.08 gram per kilometre as measured by the 10.15-mode operation administered by the Ministry of Land, Infrastructure and Transport of Japan; and evaporative emission shall not exceed 2.0 grams per test as measured by the Japan Sealed Housing for Evaporative Emissions Determination test administered by the Ministry of Land, Infrastructure and Transport of Japan;
+  - oxides of nitrogen 0.08 gram per kilometre
+
+  - as measured by the 10.15-mode operation administered by the Ministry of Land, Infrastructure and Transport of Japan; and evaporative emission shall not exceed 2.0 grams per test as measured by the Japan Sealed Housing for Evaporative Emissions Determination test administered by the Ministry of Land, Infrastructure and Transport of Japan;
 
   - (c)
 
@@ -36,7 +40,9 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
   - carbon monoxide 2.1 grams per kilometre
 
-  - oxides of nitrogen 0.12 gram per kilometre as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America; and evaporative emission shall not exceed 2.0 grams per test as measured by the California Sealed Housing for Evaporative Emissions Determination test procedure administered by the Environmental Protection Agency of the United States of America;
+  - oxides of nitrogen 0.12 gram per kilometre
+
+  - as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America; and evaporative emission shall not exceed 2.0 grams per test as measured by the California Sealed Housing for Evaporative Emissions Determination test procedure administered by the Environmental Protection Agency of the United States of America;
 
   - (b) hydrocarbons 0.08 gram per kilometre carbon monoxide 0.67 gram per kilometre
 
@@ -58,7 +64,9 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
   - oxides of nitrogen 0.12 gram per kilometre
 
-  - particulate emissions 0.05 gram per kilometre as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America;
+  - particulate emissions 0.05 gram per kilometre
+
+  - as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America;
 
   - (b)
 
@@ -72,13 +80,17 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
   - carbon monoxide 2.73 grams per kilometre
 
-  - oxides of nitrogen 0.25 gram per kilometre as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America; and evaporative emission shall not exceed 2.0 grams per test as measured by the California Sealed Housing for Evaporative Emissions Determination test procedure administered by the Environmental Protection Agency of the United States of America;
+  - oxides of nitrogen 0.25 gram per kilometre
+
+  - as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America; and evaporative emission shall not exceed 2.0 grams per test as measured by the California Sealed Housing for Evaporative Emissions Determination test procedure administered by the Environmental Protection Agency of the United States of America;
 
   - (b) hydrocarbons 0.08 gram per kilometre
 
   - carbon monoxide 2.10 grams per kilometre
 
-  - oxides of nitrogen 0.13 gram per kilometre as measured by the 10.15-mode operation administered by the Ministry of Land, Infrastructure and Transport of Japan; and evaporative emission shall not exceed 2.0 grams per test as measured by the Japan Sealed Housing for Evaporative Emissions Determination test administered by the Ministry of Land, Infrastructure and Transport of Japan;
+  - oxides of nitrogen 0.13 gram per kilometre
+
+  - as measured by the 10.15-mode operation administered by the Ministry of Land, Infrastructure and Transport of Japan; and evaporative emission shall not exceed 2.0 grams per test as measured by the Japan Sealed Housing for Evaporative Emissions Determination test administered by the Ministry of Land, Infrastructure and Transport of Japan;
 
   - (c)
 
@@ -96,7 +108,9 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
   - oxides of nitrogen 0.25 gram per kilometre
 
-  - particulate emissions 0.05 gram per kilometre as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America;
+  - particulate emissions 0.05 gram per kilometre
+
+  - as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America;
 
   - (b)
 
@@ -148,13 +162,17 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
   - carbon monoxide 3.1 grams per kilometre
 
-  - oxides of nitrogen 0.37 gram per kilometre as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America; and evaporative emission shall not exceed 2.5 grams per test as measured by the California Sealed Housing for Evaporative Emissions Determination test procedure administered by the Environmental Protection Agency of the United States of America;
+  - oxides of nitrogen 0.37 gram per kilometre
+
+  - as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America; and evaporative emission shall not exceed 2.5 grams per test as measured by the California Sealed Housing for Evaporative Emissions Determination test procedure administered by the Environmental Protection Agency of the United States of America;
 
   - (b) hydrocarbons 0.08 gram per kilometre
 
   - carbon monoxide 2.10 grams per kilometre
 
-  - oxides of nitrogen 0.13 gram per kilometre as measured by the 10.15-mode operation administered by the Ministry of Land, Infrastructure and Transport of Japan; and evaporative emission shall not exceed 2.0 grams per test as measured by the Japan Sealed Housing for Evaporative Emissions Determination test administered by the Ministry of Land, Infrastructure and Transport of Japan;
+  - oxides of nitrogen 0.13 gram per kilometre
+
+  - as measured by the 10.15-mode operation administered by the Ministry of Land, Infrastructure and Transport of Japan; and evaporative emission shall not exceed 2.0 grams per test as measured by the Japan Sealed Housing for Evaporative Emissions Determination test administered by the Ministry of Land, Infrastructure and Transport of Japan;
 
   - (c)
 
@@ -172,7 +190,9 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
   - oxides of nitrogen 0.37 gram per kilometre
 
-  - particulate emissions 0.05 gram per kilometre as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America;
+  - particulate emissions 0.05 gram per kilometre
+
+  - as measured by the 1975 Federal Test Procedure administered by the Environmental Protection Agency of the United States of America;
 
   - (b)
 

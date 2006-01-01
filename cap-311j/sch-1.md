@@ -4,26 +4,10 @@
 
 VEHICLE DESIGN STANDARDS FOR SMOKE EMISSION FROM MOTOR VEHICLES
 
-Maximum permitted
+Test procedure | Maximum permitted smoke level | Maximum permitted smoke level in absolute units of light absorption
 
-smoke level in
+(m-1)
 
-Maximum permitted | absolute units of
+Free acceleration test procedure specified in Council Directive 72/306/EEC made by the Council as amended by its subsequent amendments up to and including amendments made by Commission Directive 2005/21/EC | 35 Hartridge Smoke Units | 1.00
 
-Test procedure | smoke level | light absorption
-
-(m-1 )
-
-Free acceleration test | 35 Hartridge Smoke Units | 1.00
-
-procedure specified in
-
-Council Directive
-
-72/306/EEC as amended
-
-by Council Directive 89/491/EEC, both made
-
-by the Council
-
-(L.N. 37 of 1995; L.N. 311 of 1996)
+(L.N. 37 of 1995; L.N. 311 of 1996; L.N. 165 of 2005)
