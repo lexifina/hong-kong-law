@@ -4,8 +4,12 @@
 
 Item | Particular | Fee $
 
-1. | Permit referred to in section 10(1) of the Ordinance for operations described in section 8(1) of the Ordinance in respect of the following— (a) spoil (b) substances or articles other than spoil | 7010 14120
+1. | Permit referred to in section 10(1) of the Ordinance for operations described in section 8(1) of the Ordinance in respect of the following—
 
-2. | Copy of an entry in the register under section 6(1)(c) of the Ordinance | 60
+(a) | spoil | 7,010
+
+(b) | substances or articles other than spoil | 14,120
+
+2. | Copy of an entry in the register under section 6(1)(c) of the Ordinance (L.N. 186 of 2005) | 55
 
 (L.N. 584 of 1997; L.N. 312 of 2000)
