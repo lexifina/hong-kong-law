@@ -10,7 +10,7 @@ SPECIFIED PREMISES
 
 3. | Tseung Kwan O Industrial Estate | Tseung Kwan O Town Lot No. 39 and extensions thereto, New Territories, Hong Kong
 
-4. | Tech Centre | 72 Tat Chee Avenue Kowloon Tong Kowloon Hong Kong
+4. | InnoCentre | 72 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong (Replaced L.N. 175 of 2005)
 
 5. | Hong Kong Science Park | (a) Tai Po Town Lot No. 171, Pak Shek Kok, New Territories, Hong Kong (Phase 1) (b) Tai Po Town Lot No. 182, Pak Shek Kok, New Territories, Hong Kong (Phase 2) (Replaced L.N. 95 of 2004)
 
