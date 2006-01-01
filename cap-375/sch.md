@@ -42,7 +42,7 @@ Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G)
 
 11 | Regulation 11(1) | Crossing double white lines | 3
 
-12 | Regulation 18 | Failing to comply with traffic signals | 3
+12 | Regulation 18 | Failing to comply with traffic signals | 5
 
 13 | Regulation 31 | Failing to give precedence to pedestrians on zebra crossing | 3
 
@@ -144,4 +144,4 @@ Discovery Bay Tunnel Link Bylaw (Cap. 520 sub. leg. B)
 
 59 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
 
-(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14)
+(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005)
