@@ -90,6 +90,14 @@ REGULATED ACTIVITIES
 
       - (B) who gives such advice or issues such analyses or reports wholly incidental to the carrying on of that regulated activity;
 
+    - (iva) a person—
+
+      - (A) who is licensed or registered for Type 9 regulated activity;
+
+      - (B) who provides a service of managing a portfolio of futures contracts under a collective investment scheme for another person; and
+
+      - (C) who gives such advice or issues such analyses or reports solely for the purposes of providing the service described in subparagraph (B); (Added L.N. 197 of 2005)
+
     - (v) a solicitor who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a solicitor in a Hong Kong firm or foreign firm within the meaning of the Legal Practitioners Ordinance (Cap. 159);
 
     - (vi) counsel who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as counsel;
@@ -144,6 +152,14 @@ REGULATED ACTIVITIES
 
       - (B) who gives such advice or issues such analyses or reports wholly incidental to the carrying on of that regulated activity;
 
+    - (iva) a person—
+
+      - (A) who is licensed or registered for Type 9 regulated activity;
+
+      - (B) who provides a service of managing a portfolio of securities under a collective investment scheme for another person; and
+
+      - (C) who gives such advice or issues such analyses or reports solely for the purposes of providing the service described in subparagraph (B); (Added L.N. 197 of 2005)
+
     - (v) a solicitor who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a solicitor in a Hong Kong firm or foreign firm within the meaning of the Legal Practitioners Ordinance (Cap. 159);
 
     - (vi) counsel who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as counsel;
@@ -160,27 +176,11 @@ REGULATED ACTIVITIES
 
   - but does not include the giving of such advice that falls within the meaning of “advising on corporate finance”;
 
-  - “asset management” (資產管理), in relation to a person, means providing a service of managing a portfolio of securities or futures contracts for another person by the person, otherwise than by—
+  - “asset management” (資產管理) means—
 
-    - (a) a corporation which provides such service solely to any of its wholly owned subsidiaries, its holding company which holds all its issued shares, or other wholly owned subsidiaries of that holding company;
+    - (a) real estate investment scheme management; or
 
-    - (b) a person who is licensed for Type 1 or Type 2 regulated activity who provides such service wholly incidental to the carrying on of that regulated activity;
-
-    - (c) an authorized financial institution which is registered for Type 1 or Type 2 regulated activity which provides such service wholly incidental to the carrying on of that regulated activity;
-
-    - (d) an individual—
-
-      - (i) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 1 or Type 2 (as the case may be) regulated activity by an authorized financial institution registered for that regulated activity; and
-
-      - (ii) who provides such service wholly incidental to the carrying on of that regulated activity;
-
-    - (e) a solicitor who provides such service wholly incidental to his practice as such in a Hong Kong firm or foreign firm within the meaning of the Legal Practitioners Ordinance (Cap. 159);
-
-    - (f) counsel who provides such service wholly incidental to his practice as such;
-
-    - (g) a certified public accountant who provides such service wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); or (Amended 23 of 2004 s. 56)
-
-    - (h) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which provides such service wholly incidental to the discharge of its duty as such;
+    - (b) securities or futures contracts management; (Added L.N. 197 of 2005)
 
   - “automated trading services” (自動化交易服務) means services provided by means of electronic facilities, not being facilities provided by a recognized exchange company or a recognized clearing house, whereby—
 
@@ -306,9 +306,11 @@ REGULATED ACTIVITIES
 
     - (xii) is a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) acting as an agent for a collective investment scheme which, by performing the act, is carrying out its functions of distributing application forms, redemption notices, conversion notices and contract notes, receiving money and issuing receipts on behalf of its principal;
 
-    - (xiii) is licensed or registered for Type 4 or Type 6 regulated activity and, solely for the purposes of carrying on that regulated activity, he issues a document under section 175(1)(a)(i) or (ii) of this Ordinance, the content of which complies with the requirements of section 175(1)(b) and (c) of this Ordinance; or
+    - (xiii) is licensed or registered for Type 4 or Type 6 regulated activity and, solely for the purposes of carrying on that regulated activity, he issues a document under section 175(1)(a)(i) or (ii) of this Ordinance, the content of which complies with the requirements of section 175(1)(b) and (c) of this Ordinance; (Amended L.N. 197 of 2005)
 
-    - (xiv) is licensed or registered for Type 9 regulated activity and performs the act solely for the purposes of carrying on that regulated activity;
+    - (xiv) is licensed or registered for Type 9 regulated activity and performs the act solely for the purposes of carrying on that regulated activity; or (Amended L.N. 197 of 2005)
+
+    - (xv) in any case where each of the parties to the transaction or proposed transaction under which securities are or will be acquired, disposed of, subscribed for or underwritten as described in paragraph (a) is an authorized financial institution, is an approved money broker within the meaning of section 2(1) of the Banking Ordinance (Cap. 155) and performs the act for each of the parties to the transaction or proposed transaction; (Added L.N. 197 of 2005)
 
   - “foreign exchange trading” (外匯交易) means entering into or offering to enter into, or inducing or attempting to induce a person to enter into or to offer to enter into, a contract or arrangement whereby any person undertakes to—
 
@@ -406,6 +408,12 @@ REGULATED ACTIVITIES
 
     - authorized by the Commission under section 104 of this Ordinance;
 
+  - “real estate investment scheme management” (房地產投資計劃管理), in relation to a person, means providing a service of operating a collective investment scheme for another person by the person, where—
+
+    - (a) the property that is being managed under the scheme consists primarily of immovable property; and
+
+    - (b) the scheme is authorized under section 104 of this Ordinance; (Added L.N. 197 of 2005)
+
   - “securities margin financing” (證券保證金融資) means providing a financial accommodation in order to facilitate—
 
     - (a) the acquisition of securities listed on any stock market, whether a recognized stock market or any other stock market outside Hong Kong; and
@@ -432,7 +440,29 @@ REGULATED ACTIVITIES
 
     - (vi) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities; or
 
-    - (vii) by an intermediary by way of effecting an introduction between a person and a related corporation of the intermediary in order that the corporation may provide the person with financial accommodation.
+    - (vii) by an intermediary by way of effecting an introduction between a person and a related corporation of the intermediary in order that the corporation may provide the person with financial accommodation; (Amended L.N. 197 of 2005)
+
+  - “securities or futures contracts management” (證券或期貨合約管理), in relation to a person, means providing a service of managing a portfolio of securities or futures contracts for another person by the person, otherwise than by— (Amended L.N. 197 of 2005)
+
+    - (a) a corporation which provides such service solely to any of its wholly owned subsidiaries, its holding company which holds all its issued shares, or other wholly owned subsidiaries of that holding company;
+
+    - (b) a person who is licensed for Type 1 or Type 2 regulated activity who provides such service wholly incidental to the carrying on of that regulated activity;
+
+    - (c) an authorized financial institution which is registered for Type 1 or Type 2 regulated activity which provides such service wholly incidental to the carrying on of that regulated activity;
+
+    - (d) an individual—
+
+      - (i) whose name is entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged in respect of Type 1 or Type 2 (as the case may be) regulated activity by an authorized financial institution registered for that regulated activity; and
+
+      - (ii) who provides such service wholly incidental to the carrying on of that regulated activity;
+
+    - (e) a solicitor who provides such service wholly incidental to his practice as such in a Hong Kong firm or foreign firm within the meaning of the Legal Practitioners Ordinance (Cap. 159);
+
+    - (f) counsel who provides such service wholly incidental to his practice as such;
+
+    - (g) a certified public accountant who provides such service wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); or (Amended 23 of 2004 s. 56)
+
+    - (h) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which provides such service wholly incidental to the discharge of its duty as such. (Amended L.N. 197 of 2005)
 
 - PART 3 The following are the specified activities referred to in section 114(5) of this Ordinance—
 
