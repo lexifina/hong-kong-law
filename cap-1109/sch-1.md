@@ -494,7 +494,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 5A.
 
-    - (a) Student members of the Senate and of such committees and other bodies at the Senate may establish shall not be entitled to participate in that part of meetings considering reserved areas of business or have access to or read papers or any other documents relating thereto. (L.N. 478 of 1996)
+    - (a) The Senate may determine—
+
+      - (i) whether student members of the Senate and of such committees and other bodies as the Senate may establish are allowed to participate in that part of meetings considering reserved areas of business; and
+
+      - (ii) (if they are so allowed) the manner of their participation. (L.N. 5 of 2006)
+
+    - (aa) Those student members who are allowed to participate in that part of meetings considering reserved areas of business may, subject to such conditions as the Senate may determine, access and read the papers relating to those areas. (L.N. 5 of 2006)
 
     - (b) The reserved areas of business are the following—
 
@@ -630,7 +636,33 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (2) A teacher, who contributes substantially to the teaching of students pursuing courses of study within the purview of a Department but who is not assigned to that Department, becomes a member of the Board of that Department on being nominated by that Board and approved by the Senate. (L.N. 25 of 2002)
 
-    - (3) At the discretion of the Board of the Department, the Board may nominate such students as the Board deems fit as student members for such period as the Board may in its absolute discretion determine, provided that such student members shall not be entitled to participate in that part of meetings considering reserved areas of business or have access to or read papers or any other documents relating thereto. For the purpose of this Statute, reserved areas of business are the same as those referred to in paragraph 5A(b) of Statute 14. The Chairman of the Board may decide in any case of doubt whether or not a matter falls within one of the reserved areas of business referred to above and his decisions shall be final. (L.N. 478 of 1996)
+    - (3) At the discretion of the Board of the Department, the Board may nominate such students as the Board deems fit as student members for such period as the Board may in its absolute discretion determine. (L.N. 478 of 1996; L.N. 5 of 2006)
+
+    - (4) The Senate may determine—
+
+      - (a) whether student members of the Board are allowed to participate in that part of meetings considering reserved areas of business; and
+
+      - (b) (if they are so allowed) the manner of their participation. (L.N. 5 of 2006)
+
+    - (5) Those student members who are allowed to participate in that part of meetings considering reserved areas of business may, subject to such conditions as the Senate may determine, access and read the papers relating to those areas. (L.N. 5 of 2006)
+
+    - (6) For the purposes of this Statute, reserved areas of business are the following—
+
+      - (a) matters affecting the appointment, promotion and other affairs relating to teachers and members of the University staff as individuals;
+
+      - (b) matters affecting the admission and academic assessment of students as individuals;
+
+      - (c) expenditure estimates and other matters concerning the finances of the University.
+
+    - The Chairman of the Board may decide in any case of doubt whether or not a matter falls within a reserved area of business and his decision shall be final. (L.N. 5 of 2006)
+
+    - (7) The Senate may—
+
+      - (a) delegate its power under subparagraphs (4) and (5) to the Board of a Department; and
+
+      - (b) impose conditions subject to which the delegated power may be exercised. (L.N. 5 of 2006)
+
+  - 3A. The Board of a Department may make Standing Orders for the proper conduct of its business. (L.N. 5 of 2006)
 
   - 4. It is the duty of the Board of a Department to advise the Senate on the courses of study within the purview of the Department, on the appointment of internal and external examiners and on other matters that the Senate may request.
 
@@ -848,7 +880,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 1.
 
-    - (1) The University may confer the degrees of Bachelor, Master and Doctor with the designations prescribed in paragraph 2(1) to students who— (L.N. 31 of 1981; L.N. 121 of 1989)
+    - (1) The University may confer any of the degrees with the designations prescribed in paragraph 2(1) to students who— (L.N. 31 of 1981; L.N. 121 of 1989; L.N. 6 of 2006)
 
     - (a) have attended an approved course of study;
 
@@ -862,7 +894,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (1)
 
-      - (a) Bachelor’s Degrees Bachelor of Architecture (B. Arch.) (L.N. 114 of 1991)
+      - (a) (L.N. 6 of 2006)
+
+      - Bachelor of Architecture (B. Arch.) (L.N. 114 of 1991)
 
       - Bachelor of Arts (B. A.)
 
@@ -874,9 +908,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Bachelor of Engineering (B. Eng.) (L.N. 114 of 1991)
 
+      - Bachelor of Laws (LL.B.) (L.N. 6 of 2006)
+
       - Bachelor of Medical Sciences (B. Med. Sc.) (L.N. 55 of 1990)
 
-      - Bachelor of Medicine and Bachelor of Surgery (M. B., Ch. B.) Bachelor of Nursing (B. Nurs.) (L.N. 114 of 1991)
+      - Bachelor of Medicine and Bachelor of Surgery (M. B., Ch. B.)
+
+      - Bachelor of Nursing (B. Nurs.) (L.N. 114 of 1991)
 
       - Bachelor of Pharmacy (B. Pharm.) (L.N. 114 of 1991)
 
@@ -884,7 +922,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Bachelor of Social Science (B. S. Sc.)
 
-      - (b) Master’s Degrees Master of Accountancy (M. Acc.) (L.N. 481 of 1997)
+      - (b) (L.N. 6 of 2006)
+
+      - Master of Accountancy (M. Acc.) (L.N. 481 of 1997)
 
       - Master of Architecture (M. Arch.) (L.N. 114 of 1991)
 
@@ -908,6 +948,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Master of Fine Arts (M. F. A.) (L.N. 453 of 1994)
 
+      - Master of Laws (LL.M.) (L.N. 6 of 2006)
+
       - Master of Midwifery (M. Mid.) (L.N. 103 of 1999)
 
       - Master of Music (M. Mus.) (L.N. 453 of 1994)
@@ -928,7 +970,11 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Master of Social Work (M. S. W.)
 
-      - (c) Doctoral Degrees Doctor of Business Administration (D. B. A.)
+      - (c) Juris Doctor (J.D.) (L.N. 6 of 2006)
+
+      - (d) (L.N. 6 of 2006)
+
+      - Doctor of Business Administration (D. B. A.)
 
       - Doctor of Education (Ed. D.) (L.N. 481 of 1997)
 
@@ -939,6 +985,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
       - Doctor of Music (D. Mus.) (L.N. 453 of 1994)
 
       - Doctor of Philosophy (Ph. D.)
+
+      - Doctor of Psychology (Psy.D.) (L.N. 6 of 2006)
 
       - Doctor of Science (D. Sc.)
 
