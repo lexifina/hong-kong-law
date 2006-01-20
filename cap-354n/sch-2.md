@@ -4,8 +4,6 @@
 
 CHARGES FOR DISPOSAL OF CONSTRUCTION WASTE AT REFUSE TRANSFER STATIONS
 
-(Part 2 is not yet in operation.)
-
 - PART 1 REFUSE TRANSFER STATIONS
 
 Item | Name | Address | Number of drawing or plan held by the Director by which boundaries of the facility are delineated
@@ -24,12 +22,18 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 7. | Outlying Islands Transfer Facilities-Ma Wan Station (OITF-MaWS) | Pak Wan, Ma Wan, N.T., adjoining Sewage Treatment Plant. | Plan number TWA 1058-E
 
-[PART 2 LANDFILL CHARGE
+- PART 2 LANDFILL CHARGE
 
-- The landfill charge payable in respect of each load of construction waste delivered to a refuse transfer station for disposal is calculated as follows— (a)For a load of waste weighing 0.1 tonne or less .Charge$12.5(b)For a load of waste weighing more than 0.1 tonne .$12.5 per0.1 tonne*(c)For a load of waste the ascertainment of the weight of which, in the Director’s opinion, is impracticable or will cause public health problems .$12.5
+- The landfill charge payable in respect of each load of construction waste delivered to a refuse transfer station for disposal is calculated as follows—
+
+- (a) | For a load of waste weighing 0.1 tonne or less . | Charge $12.5
+
+- (b) | For a load of waste weighing more than 0.1 tonne . | $12.5 per 0.1 tonne*
+
+- (c) | For a load of waste the ascertainment of the weight of which, in the Director’s opinion, is impracticable or will cause public health problems . | $12.5
 
 - * In ascertaining the weight of a load of waste for the purpose of calculating the charge payable under item (b)—
 
   - (i) any fraction of 0.1 tonne that is less than 0.05 tonne shall be disregarded; and
 
-- (ii) any fraction of 0.1 tonne that is not less than 0.05 tonne shall be regarded as 0.1 tonne.]
+- (ii) any fraction of 0.1 tonne that is not less than 0.05 tonne shall be regarded as 0.1 tonne.

@@ -22,12 +22,20 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 6. | Mui Wo Temporary Public Fill Reception Facility | Mui Wo Ferry Pier Road, Mui Wo, Lantau, N.T. | Plan number P 20332-8
 
-[PART 2 PUBLIC FILL CHARGE
+- PART 2 PUBLIC FILL CHARGE
 
-- The public fill charge payable in respect of each load of construction waste delivered to a public fill reception facility for disposal is calculated as follows— (a)For a load of waste weighing 1 tonne or less .Charge$27(b)For a load of waste weighing more than 1 tonne .$2.7 per 0.1tonne*(c)For a load of waste the ascertainment of the weight of which, in the Director’s opinion, is impracticable or will cause public health problems .$27(d)For each load of waste delivered by a vessel approved under Part 4 . $2.7 for every0.1 tonne of themaximum loadof the vessel*
+- The public fill charge payable in respect of each load of construction waste delivered to a public fill reception facility for disposal is calculated as follows—
+
+- (a) | For a load of waste weighing 1 tonne or less . | Charge $27
+
+- (b) | For a load of waste weighing more than 1 tonne . | $2.7 per 0.1 tonne*
+
+- (c) | For a load of waste the ascertainment of the weight of which, in the Director’s opinion, is impracticable or will cause public health problems . | $27
+
+- (d) | For each load of waste delivered by a vessel approved under Part 4 . | $2.7 for every 0.1 tonne of the maximum load of the vessel*
 
 - * In ascertaining the weight of a load of waste for the purpose of calculating the charge payable under item (b) or (d)—
 
   - (i) any fraction of 0.1 tonne that is less than 0.05 tonne shall be disregarded; and
 
-- (ii) any fraction of 0.1 tonne that is not less than 0.05 tonne shall be regarded as 0.1 tonne.]
+- (ii) any fraction of 0.1 tonne that is not less than 0.05 tonne shall be regarded as 0.1 tonne.
