@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[rule 12]
+[rule 13] (L.N. 230 of 2005)
 
 ADDITIONAL MATTERS SUBJECT TO INVESTIGATION AND REPORT BY GUARDIAN AD LITEM
 
@@ -40,7 +40,7 @@ ADDITIONAL MATTERS SUBJECT TO INVESTIGATION AND REPORT BY GUARDIAN AD LITEM
 
   - 13. Whether the father consents to the adoption.
 
-  - 14. If the infant is illegitimate, whether an order has been made adjudging any person to be the putative father of the infant, or an agreement to contribute to the maintenance of the infant has been made by a person acknowledging himself to be the father of the infant, and in either case whether that person consents to the adoption. (L.N. 162 of 1993)
+  - 14. If the infant is born out of wedlock, whether an order has been made adjudging any person to be the putative father of the infant, or an agreement to contribute to the maintenance of the infant has been made by a person acknowledging himself to be the father of the infant, and in either case whether that person consents to the adoption. (L.N. 162 of 1993; 28 of 2004 s. 35)
 
   - 15. When did the parent or parents part with the infant, and to whom.
 
