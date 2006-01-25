@@ -1,0 +1,5 @@
+CONVENTION ADOPTION RULES
+
+(Cap. 290, section 12(1))
+
+[25 January 2006]
