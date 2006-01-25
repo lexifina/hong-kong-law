@@ -116,6 +116,8 @@ Item | Ordinance | Decision
 
 60. | Land (Miscellaneous Provisions) Ordinance (Cap. 28) | A decision of the Director of Highways under section 10M(13) relating to an assessment made under section 10M(1)(d), (g), (h) or (i). (Added 17 of 2003 s. 15)
 
+61. | Adoption Ordinance (Cap. 290) | A decision of the Director of Social Welfare— (a) on the assessment of a person’s suitability to be an adoptive parent; (b) to terminate a placement; (c) on a person’s application to become or continue to be an accredited body; or (d) to suspend or revoke a person’s status as an accredited body, as referred to in section 30. (Added 28 of 2004 s. 35)
+
 62. | Medical Clinics Ordinance (Cap. 343) | (a) A refusal by the Registrar of Clinics under section 8 to grant or renew an exemption in respect of a clinic. (b) A cancellation by the Registrar of Clinics under section 8 of an exemption granted in respect of a clinic. (c) An order by the Registrar of Clinics under section 11 to refuse an application for the registration of a clinic or to cancel the registration of a clinic. (Added 10 of 2005 s. 7)
 
 64. | Merchant Shipping (Security of Ships and Port Facilities) Ordinance (Cap. 582) | A decision of the Director of Marine under section 7(1)(a) or (c) or 8(2). (Added 13 of 2004 s. 18)
