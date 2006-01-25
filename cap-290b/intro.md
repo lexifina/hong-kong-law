@@ -1,0 +1,5 @@
+CONVENTION ADOPTION (EXCLUSION) ORDER
+
+(Cap. 290, section 20J)
+
+[25 January 2006]
