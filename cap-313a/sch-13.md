@@ -1,4 +1,4 @@
-# THIRDTEENTH SCHEDULE
+# THIRTEENTH SCHEDULE
 
 [regs. 48, 49, 50, 51, 52 & 68]
 
@@ -6,11 +6,17 @@ PORT DUES AND FEES
 
 Item | Purpose or service | Fee $
 
-1. | Anchorage dues— For a ship lying at anchor, per 100 tons or part thereof, per day or part of a day—
+1. | Anchorage dues— For a vessel lying at anchor, the higher of—
 
-(a) | Whilst lying in the limits of Victoria port . | 69
+(a) | the minimum dues . | 100
 
-Whilst lying elsewhere in the waters of Hong Kong . | 47
+(b) | the dues calculated as follows, to be rounded down to the nearest ten cents—
+
+(i) | per ton or part of it, per hour or part of it whilst lying in the limits of Victoria port . | 0.02
+
+(ii) | per ton or part of it, per hour or part of it whilst lying elsewhere in the waters of Hong Kong . | 0.015
+
+(L.N. 201 of 2005)
 
 2. | Buoy dues— For each day or part of a day that a buoy is occupied or reserved—
 
@@ -34,7 +40,7 @@ Note: | (1) | A buoy may be reserved up to a maximum of 2 days in advance of a v
 
 (ii) | over 40 tons . | the fee under (i) above plus $74 for every 20 tons or part thereof by which the tonnage exceeds 40 tons
 
-(c) | All other vessels— Per 100 tons or part thereof on each occasion of entry to the waters of Hong Kong . | 57
+(c) | All other vessels— Per 100 tons or part thereof on each occasion of entry to the waters of Hong Kong (L.N. 201 of 2005) . | 54
 
 4. | Private mooring fee— For the keeping of private moorings, per month or part thereof, per mooring—
 
@@ -128,4 +134,4 @@ Note: | A service occupying less than an hour will be charged for as 1 hour, acc
 
 (b) | For the operation of each beach seine net . | 210
 
-(L.N. 253 of 1992; L.N. 339 of 1993; L.N. 338 of 1994; L.N. 276 of 1995)
+(L.N. 253 of 1992; L.N. 339 of 1993; L.N. 338 of 1994; L.N. 276 of 1995; L.N. 201 of 2005)
