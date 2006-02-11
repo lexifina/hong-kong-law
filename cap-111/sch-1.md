@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 3, 5, 14, 16, 17, 23, 24 & 27]
+[ss. 3, 5, 14, 16, 17, 20A, 23, 24 & 27] (Amended 21 of 2005 s. 17)
 
 - PART 1 (Persons dying before 27 February 1931)
 
@@ -518,7 +518,7 @@ Exceeds | 10000000 . | 18
 
 (Added 44 of 1997 s. 3. Amended 19 of 1998 s. 3)
 
-- PART 24 (Persons dying on or after 1 April 1998)
+- PART 24 (Persons dying on or after 1 April 1998 and before 15 July 2005)
 
 Where the principal value of the estate | Estate duty shall be payable at the rate per cent of
 
@@ -528,4 +528,12 @@ Exceeds 9000000 and does not exceed 10500000 . | 10
 
 Exceeds 10500000 . | 15
 
-(Added 19 of 1998 s. 3) (Schedule 1 amended 27 of 1996 s. 16)
+(Added 19 of 1998 s. 3. Amended 21 of 2005 s. 17)
+
+- PART 25 (Persons dying on or after 15 July 2005 and
+
+- before the commencement date of the
+
+- Revenue (Abolition of Estate Duty)
+
+- Ordinance 2005 (21 of 2005)) Where the principal value of the estate exceeds $7,500,000, the amount of estate duty payable shall be $100. (Added 21 of 2005 s. 17) (Schedule 1 amended 27 of 1996 s. 16)

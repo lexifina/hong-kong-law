@@ -442,7 +442,7 @@ FORM 8 | [Rules 68(2)(a) & (3) & 84A(3)(c)]
 
 Notice of Application for Ancillary Relief [Heading as in Form 3]
 
-TAKE NOTICE that the petitioner [or respondent] intends to apply to the Court for [here set out the ancillary relief claimed, stating the terms of any agreement as to the order which the court is to be asked to make and, in the case of an application for a settlement of property order, a variation of settlement order, a transfer of property order or an avoidance of disposition order, stating briefly the nature of the settlement, variation or transfer proposed or the disposition to be set aside].
+TAKE NOTICE that the petitioner [or respondent] intends to apply to the Court for [here set out the ancillary relief claimed, stating the terms of any agreement as to the order which the court is to be asked to make and, in the case of an application for settlement of property order, a variation of settlement order, a transfer of property order or an avoidance of disposition order, stating briefly the nature of the settlement, variation or transfer proposed or the disposition to be set aside].
 
 Notice will be given to you of the place and time fixed for the hearing of the application [or The application will be heard by the court at on day, the day
 
@@ -734,11 +734,11 @@ To the respondent.
 
 - 2. You must complete the accompanying acknowledgment of service and send it so as to reach the Court within 8 days after you receive this summons.
 
-- 3. [If the respondent is a personal representative of the deceased: You must also file an affidavit in answer to the applicant’s application containing full particulars of the value of the deceased’s estate for probate, after providing for the discharge of the funeral, testamentary and administration expenses, debts and liabilities, including the amount of the estate duty and interest thereon, and the persons or classes of persons beneficially interested in the estate, with the names and addresses of all living beneficiaries and stating whether any beneficiary is an infant or incapable, by reason of mental disorder, of managing and administering his property and affairs.] [Or, if the respondent is not a personal representative of the deceased: You may also file an affidavit in answer to the application.] [Add, in either case: The affidavit must be filed by sending or delivering it so as to reach the Court within 14 days after the time allowed for sending the acknowledgment of service. At the same time you must send a copy of the affidavit to the [solicitor for the] applicant.]
+- 3. [If the respondent is a personal representative of the deceased: You must also file an affidavit in answer to the applicant’s application containing full particulars of the value of the deceased’s estate for probate, after providing for the discharge of the funeral, testamentary and administration expenses, debts and liabilities, including the amount of the estate duty (if any) and interest thereon, and the persons or classes of persons beneficially interested in the estate, with the names and addresses of all living beneficiaries and stating whether any beneficiary is an infant or incapable, by reason of mental disorder, of managing and administering his property and affairs.] [Or, if the respondent is not a personal representative of the deceased: You may also file an affidavit in answer to the application.] [Add, in either case: The affidavit must be filed by sending or delivering it so as to reach the Court within 14 days after the time allowed for sending the acknowledgment of service. At the same time you must send a copy of the affidavit to the [solicitor for the] applicant.]
 
 - 4. If you intend to instruct a solicitor to act for you, you should at once give him all the documents which have been served on you, so that he may take the necessary steps on your behalf.
 
-(L.N.325 of 1982)
+(L.N.325 of 1982; 21 of 2005 s. 36)
 
 _
 

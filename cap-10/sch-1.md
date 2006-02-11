@@ -28,4 +28,4 @@
 
     - (a) the order of application may be varied by the will of the deceased;
 
-    - (b) this Part of this Schedule does not affect the liability of immovable property to answer the estate duty imposed thereon in exoneration of other assets.
+    - (b) this Part of this Schedule does not affect the liability of immovable property to answer the estate duty (if any) imposed thereon in exoneration of other assets. (Amended 21 of 2005 s. 31)
