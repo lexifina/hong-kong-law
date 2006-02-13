@@ -18,9 +18,9 @@ Item | Description
 
 6. | Any person who owns, leases or manages any hatchery in which poultry of not more than 12 days old are kept.
 
-7. | Any person who owns or keeps in or on his premises in any livestock waste prohibition area or livestock waste restriction area not more than 20 poultry. (Amended L.N. 311 of 1994)
+7. | (Repealed L.N. 19 of 2006)
 
-8. | Any person who owns or keeps in or on his premises in any livestock waste control area— (a) 1 pig, including, in the case of a sow, the unweaned litter of that sow; or (b) not more than 20 poultry. (Amended L.N. 311 of 1994)
+8. | Any person who owns or keeps in or on his premises in any livestock waste control area 1 pig, including, in the case of a sow, the unweaned litter of that sow. (Replaced L.N. 19 of 2006)
 
 9. | Any person who has been granted an exemption by the Director of Agriculture, Fisheries and Conservation from applying and holding a licence to keep livestock under any regulation made under the Public Health (Animals and Birds) Ordinance (Cap. 139). (Added 28 of 1994 s. 27. Amended L.N. 331 of 1999)
 
@@ -38,8 +38,6 @@ Item | Description
 
 Note:
 
-For the purposes of calculating the permitted number of livestock in paragraphs 7 and 8, any livestock owned or kept in or on those premises by any person’s spouse, father, mother, sister, brother, son, daughter or other remoter relative or ancestor or nominee residing with that person
+For the purposes of calculating the permitted number of livestock in item 8, any livestock owned or kept in or on those premises by any person’s spouse, father, mother, sister, brother, son, daughter or other remoter relative or ancestor or nominee residing with that person shall be deemed to be owned or kept by that person.
 
-shall be deemed to be owned or kept by that person.
-
-(Added 58 of 1987 s. 14)
+(Added 58 of 1987 s. 14. Amended L.N. 19 of 2006)
