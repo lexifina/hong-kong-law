@@ -12,6 +12,8 @@ The Republic of Albania
 
 The Democratic People’s Republic of Algeria
 
+The Principality of Andorra
+
 Antigua and Barbuda
 
 Republic of Argentina
@@ -71,6 +73,8 @@ Republic of Chile
 The People’s Republic of China
 
 The Republic of Colombia
+
+Union of the Comoros
 
 The Democratic Republic of Congo
 
@@ -214,6 +218,8 @@ The Kingdom of Morocco
 
 The Republic of Mozambique
 
+The Republic of Namibia
+
 The Kingdom of Nepal
 
 The Kingdom of the Netherlands
@@ -229,6 +235,8 @@ The Federal Republic of Nigeria
 The Kingdom of Norway
 
 The Sultanate of Oman
+
+The Islamic Republic of Pakistan
 
 The Republic of Panama
 
@@ -262,7 +270,13 @@ The Republic of San Marino
 
 The Democratic Republic of Sao Tome and Principe
 
+The Kingdom of Saudi Arabia
+
 The Republic of Senegal
+
+Serbia and Montenegro
+
+The Republic of Seychelles
 
 The Republic of Sierra Leone
 
@@ -328,8 +342,6 @@ The Bolivar Republic of Venezuela
 
 The Socialist Republic of Viet Nam
 
-The Federal Republic of Yugoslavia
-
 The Republic of Zambia
 
 The Republic of Zimbabwe
@@ -347,6 +359,8 @@ The Republic of Angola
 Antigua and Barbuda
 
 Republic of Argentina
+
+The Republic of Armenia
 
 The Commonwealth of Australia
 
@@ -377,6 +391,8 @@ The Republic of Bulgaria
 The Burkina Faso
 
 The Republic of Burundi
+
+Kingdom of Cambodia
 
 The Republic of Cameroon
 
@@ -496,6 +512,8 @@ The Grand Duchy of Luxembourg
 
 The Macao Special Administrative Region
 
+The Republic of Macedonia
+
 The Republic of Madagascar
 
 The Republic of Malawi
@@ -523,6 +541,8 @@ The Republic of Mozambique
 The Union of Myanmar
 
 The Republic of Namibia
+
+The Kingdom of Nepal
 
 Netherlands─For the Kingdom in Europe and for the Netherlands Antilles
 
@@ -626,4 +646,4 @@ The Republic of Zambia
 
 The Republic of Zimbabwe
 
-(Schedule 1 amended L.N. 181 of 2002)
+(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005)
