@@ -12,6 +12,8 @@ Antigua and Barbuda
 
 Republic of Argentina
 
+The Republic of Armenia
+
 The Commonwealth of Australia
 
 The Republic of Austria
@@ -41,6 +43,8 @@ The Republic of Bulgaria
 The Burkina Faso
 
 The Republic of Burundi
+
+Kingdom of Cambodia
 
 The Republic of Cameroon
 
@@ -158,6 +162,8 @@ The Grand Duchy of Luxembourg
 
 The Macao Special Administrative Region
 
+The Republic of Macedonia
+
 The Republic of Madagascar
 
 The Republic of Malawi
@@ -185,6 +191,8 @@ The Republic of Mozambique
 The Union of Myanmar
 
 The Republic of Namibia
+
+The Kingdom of Nepal
 
 Netherlands-For the Kingdom in Europe and for the Netherlands Antilles
 
@@ -287,3 +295,5 @@ The Bolivar Republic of Venezuela
 The Republic of Zambia
 
 The Republic of Zimbabwe
+
+(L.N. 218 of 2005)
