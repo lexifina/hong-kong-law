@@ -20,13 +20,29 @@
 
   - 5. Where the income of the person concerned consists, wholly or in part, of a wage or salary from employment there shall be deducted, if it is reasonable to do so, an amount to provide for—
 
-    - (a) the care of any dependant infant living with the person concerned during the time that that person is absent from the home by reason of employment;
+    - (a) the expenses for the care of a dependant who is—
 
-    - (b) any payment made by that person by way of contribution to a pension or retirement scheme;
+      - (i) an infant; or
+
+      - (ii) unable to take care of himself by reason of his mental or physical condition,
+
+    - during the time that that person is at work (whether that person is absent from home or not); (L.N. 224 of 2005)
+
+    - (b) any payment made by that person by way of contribution to a pension or retirement scheme; and (L.N. 224 of 2005)
 
     - (c) any payment made by that person for salaries tax.
 
   - (L.N. 195 of 1992)
+
+  - 5AA. Where the income of the person concerned consists, wholly or in part, of profits from a trade, business or gainful occupation other than an employment at a wage or salary, there shall be deducted, if it is reasonable to do so, the expenses to provide for the care of a dependant who is—
+
+    - (a) an infant; or
+
+    - (b) unable to take care of himself by reason of his mental or physical condition,
+
+  - during the time that that person is at work (whether that person is absent from home or not).
+
+  - (L.N. 224 of 2005)
 
   - 5A. Income arising from any capital asset which has been included in the computation of the disposable capital of the person concerned, shall not be taken into account in the computation of the disposable income of the person concerned. (L.N. 195 of 1992)
 
@@ -81,3 +97,37 @@
       - (e) in ascertaining whether a person is a dependant, regard shall be had to his income and other resources. (L.N. 148 of 2000)
 
   - (L.N. 105 of 1988)
+
+  - 9.
+
+    - (1) Subject to paragraphs (2) and (3), where the person concerned makes regular payments for the maintenance of—
+
+      - (a) a spouse living separate and apart or a former spouse; or
+
+      - (b) a child,
+
+    - there shall be a deduction in respect of those payments.
+
+    - (2) The deduction under paragraph (1) may only be made if the spouse or child (as the case may be) is not taken into account as a dependant of the person concerned in calculating the amount equivalent to the 35-percentile household expenditure referred to in rule 8(1).
+
+    - (3) The amount to be deducted under paragraph (1) shall be—
+
+      - (a) where the payment is made under a court order, the amount actually paid; or
+
+      - (b) in any other case, the amount specified in paragraph (4).
+
+    - (4) The amount to be deducted under paragraph (3)(b) shall be such amount as the Director considers to be reasonable having regard to the circumstances of the case, but shall not exceed whichever is the lower of the following—
+
+      - (a) the amount actually paid as maintenance;
+
+      - (b) the 35-percentile household expenditure differential.
+
+    - (5)
+
+      - In this rule, “35-percentile household expenditure differential” (住戶開支第35個百分值差額) means the difference in amount between the 35-percentile household expenditure (calculated in accordance with rule 8(2)) in—
+
+        - (a) the case where the person or persons (as the case may be) for whose maintenance the payment is made, is or are regarded as the only dependant or dependants of the person concerned; and
+
+        - (b) the case where the person concerned is regarded as having no dependant.
+
+  - (L.N. 224 of 2005)

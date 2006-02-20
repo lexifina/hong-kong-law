@@ -76,12 +76,8 @@ CONTRIBUTIONS
 
 - PART III CONTRIBUTIONS UNDER THE SUPPLEMENTARY LEGAL AID SCHEME
 
-  - 3. Where a claim proceeds to judgment the rate of contribution is 12%. (L.N. 353 of 1995; L.N. 148 of 2000)
+  - 3. Subject to paragraph 4, the rate of contribution is 10%. (L.N. 224 of 2005)
 
-  - 4. Where a claim is settled prior to judgment the rate of contribution shall be reduced as follows—
-
-    - (a) where settlement occurs prior to delivery of a brief to Counsel, by 50%;
-
-    - (b)-(c) (Repealed L.N. 353 of 1995)
+  - 4. Where a claim is settled prior to delivery of a brief for attendance at trial to counsel, the rate of contribution is 6%. (L.N. 224 of 2005)
 
 - PART IV (Repealed L.N. 489 of 1995)

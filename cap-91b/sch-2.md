@@ -54,12 +54,24 @@ RULES FOR COMPUTING DISPOSABLE CAPITAL
 
 - (L.N. 186 of 1989; L.N. 107 of 1990; 21 of 1995 s. 45)
 
-- 13. In computing the amount of the disposable capital of the person concerned, there shall be disregarded—
+- 12A.
 
-  - (a) the amount of any moneys paid to him from the assistance fund established under section 3 of the Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229);
+  - (1) Where an application relates to a claim for damages arising from personal injury to a person, and monies have been received by the person concerned under an insurance policy in respect of the injury, there shall be disregarded such amount as the Director considers to be reasonable to provide for the care and medical treatment and appliance which are likely to be required by the injured person as a result of the injury over the 3-year period commencing on the date of application.
 
-  - (b) the amount of any interim payment made to him in accordance with an order made under the Rules of the High Court (Cap. 4 sub. leg. A), or in accordance with an agreement having the same effect as such an order; and (25 of 1998 s. 2)
+  - (2) In determining the amount to be disregarded under subsection (1), the Director shall have regard to the circumstances of the case, including but not limited to—
 
-  - (c) such amount or value, if any, of a donation or gift received by him, as the Director considers to be reasonable having regard to the amount, value and nature of the donation or gift.
+    - (a) the amount, if any, actually incurred to provide for the care and medical treatment and appliance required by the injured person as a result of the injury during the 12-month period immediately preceding the date of application; and
+
+    - (b) the medical evidence, if any, as to the care and medical treatment and appliance which are likely to be required by the injured person as a result of the injury.
+
+- (L.N. 224 of 2005)
+
+  - 13. In computing the amount of the disposable capital of the person concerned, there shall be disregarded—
+
+    - (a) the amount of any moneys paid to him from the assistance fund established under section 3 of the Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229);
+
+    - (b) the amount of any interim payment made to him in accordance with an order made under the Rules of the High Court (Cap. 4 sub. leg. A), or in accordance with an agreement having the same effect as such an order; and (25 of 1998 s. 2)
+
+    - (c) such amount or value, if any, of a donation or gift received by him, as the Director considers to be reasonable having regard to the amount, value and nature of the donation or gift.
 
 - (L.N. 186 of 1989)
