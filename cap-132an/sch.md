@@ -6,8 +6,6 @@ Aberdeen Market, Urban Council Aberdeen Complex | 香港仔街市 (78 of 1999 s.
 
 Ap Lei Chau Market, Ap Lei Chau Complex | 鴨脷洲街市，鴨脷洲市政大廈 (78 of 1999 s. 7)
 
-Boundary Street Market | 界限街街市 (78 of 1999 s. 7)
-
 Bowrington Road Market | 鵝頸街市 (78 of 1999 s. 7)
 
 Bridges Street Market | 必列嗜士街街市 (78 of 1999 s. 7)
@@ -156,8 +154,6 @@ Tai Kiu Market | 大橋街市 (L.N. 288 of 1984)
 
 Tai Kok Tsui Market | 大角咀街市 (L.N. 147 of 2005)
 
-Tai Kok Tsui Temporary Market | 大角咀臨時街市 (78 of 1999 s. 7)
-
 Tai O (Lantau) Market | 大澳街市
 
 Tai Po Hui Market | 大埔墟街市 (L.N. 118 of 2004)
@@ -214,4 +210,4 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005; L.N. 39 of 2006)
