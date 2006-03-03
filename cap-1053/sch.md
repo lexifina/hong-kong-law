@@ -134,6 +134,8 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Business Administration in Accounting and Finance
 
+    - Bachelor of Business Administration in International Business and Global Management
+
     - Bachelor of Business Administration (Information Systems)
 
     - Bachelor of Business Administration (Law)
@@ -193,6 +195,8 @@ ARRANGEMENT OF STATUTES
     - Bachelor of Science in Computer Studies
 
     - Bachelor of Science in Engineering
+
+    - Bachelor of Science in Information Management
 
     - Bachelor of Science in Nursing Studies
 
@@ -316,8 +320,6 @@ ARRANGEMENT OF STATUTES
 
     - Master of Statistics
 
-    - Master of Surgery
-
     - Master of Traditional Chinese Medicine in Acupuncture and Moxibustion
 
     - Master of Urban Design
@@ -340,6 +342,8 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences
 
+    - Master of Surgery
+
     - (d) Honorary degrees Doctor of Divinity honoris causa
 
     - Doctor of Laws honoris causa
@@ -350,7 +354,7 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences honoris causa
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006)
 
   - 2. The University may award any of the following diplomas and certificates—
 
@@ -407,6 +411,8 @@ ARRANGEMENT OF STATUTES
     - Postgraduate Diploma in Education
 
     - Postgraduate Diploma in Engineering, in engineering disciplines as determined by the Senate from time to time
+
+    - Postgraduate Diploma in English Studies
 
     - Postgraduate Diploma in General Dental Surgery
 
@@ -476,7 +482,7 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Certificate in Public Health
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
