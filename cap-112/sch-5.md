@@ -8,6 +8,6 @@
 
 - PART II APPLICATION FEE FOR CASE STATED
 
-1. | Fee payable for application requiring the Board of Review to state a case | $640
+1. | Fee payable for application requiring the Board of Review to state a case ( Amended L.N. 3 of 2006) | $770
 
 (Schedule 5 replaced 12 of 2004 s. 21)
