@@ -1,139 +1,139 @@
-# SCHEDULE
+# Schedule
 
 [regs. 3, 5, 6 & 15]
 
-FORM 1
-
-MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+FORM 1 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
 
 (Chapter 272) Certificate of Insurance
 
-Certificate No. . Policy No. .
+Certificate No. | Policy No.
 
-- 1. Registration mark assigned to the vehicle under regulation 6, 9(1), 13 or 14 of the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg.) or if no registration mark yet assigned, make and chassis number.
+1. | Registration mark assigned to the vehicle under the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) or if no registration mark yet assigned, make and chassis number.
 
-- 2. Name of policy holder.
+2. | Name of policy holder.
 
-- 3. Effective date of the commencement of Insurance for the purposes of the above Ordinance.
+3. | Effective date of the commencement of Insurance for the purposes of the above Ordinance.
 
-- 4. Date of expiry of Insurance.
+4. | Date of expiry of Insurance.
 
-- 5. Persons or classes of persons entitled to drive.*
+5. | Persons or classes of persons entitled to drive.*
 
-- 6.
+6. | Limitations as to use.*
 
-- Limitations as to use.*
+(I)/(We) hereby certify that the policy to which this certificate relates is issued in accordance with the provisions of the abovementioned Ordinance.
 
-- (I)/(We) hereby certify that the policy to which this certificate relates is issued in accordance with the provisions of the abovementioned Ordinance.
+Date of issue
 
-- Date of issue .
+Authorized Insurer.
 
-- .
+* Limitations rendered inoperative by section 12 of the above Ordinance are not to be included under this heading.
 
-- Authorized Insurer.
+(G.N.A. 8 of 1957; L.N. 169 of 1989; 25 of 2005 s. 37)
 
-- * Limitations rendered inoperative by section 12 of the above Ordinance are not to be included under this heading.
+_
 
-- (G.N.A. 8 of 1957; L.N. 169 of 1989)
+FORM 2 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
 
-- _ FORM 2 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+(Chapter 272) Certificate of Insurance
 
-- (Chapter 272) Certificate of Insurance
+Certificate No. | Policy No.
 
-- Certificate No. . Policy No. .
+1. | Description of vehicles.
 
-- 1. Description of vehicles.
+2. | Name of policy holder.
 
-- 2. Name of policy holder.
+3. | Effective date of the commencement of Insurance for the purposes of the above Ordinance.
 
-- 3. Effective date of the commencement of Insurance for the purposes of the above Ordinance.
+4. | Date of expiry of Insurance.
 
-- 4. Date of expiry of Insurance.
+5. | Persons or classes of persons entitled to drive.*
 
-- 5. Persons or classes of persons entitled to drive.*
+6. | Limitations as to use.*
 
-- 6.
+(I)/(We) hereby certify that the policy to which this certificate relates is issued in accordance with the provisions of the abovementioned Ordinance.
 
-- Limitations as to use.*
+Date of issue
 
-- (I)/(We) hereby certify that the policy to which this certificate relates is issued in accordance with the provisions of the abovementioned Ordinance.
+Authorized Insurer.
 
-- Date of issue .
+* Limitations rendered inoperative by section 12 of the above Ordinance are not to be included under this heading.
 
-- .
+(G.N.A. 8 of 1957)
 
-- Authorized Insurer.
+_
 
-- * Limitations rendered inoperative by section 12 of the above Ordinance are not to be included under this heading.
+FORM 3 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
 
-- (G.N.A. 8 of 1957)
+(Chapter 272) Certificate of Insurance
 
-- _ FORM 3 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+(I)/(We) hereby certify that this covering note is issued in accordance with the provisions of the abovementioned Ordinance.
 
-- (Chapter 272) Certificate of Insurance
+Authorized Insurer.
 
-- (I)/(We) hereby certify that this covering note is issued in accordance with the provisions of the abovementioned Ordinance.
+(G.N.A. 78 of 1952)
 
-- .
+_
 
-- Authorized Insurer.
+FORM 4 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
 
-- (G.N.A. 78 of 1952)
+(Chapter 272) Certificate of Security
 
-- _ FORM 4 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Certificate No. | Security No.
 
-- (Chapter 272) Certificate of Security
+(Optional)
 
-- Certificate No. . Security No. .
+1. | Name of holder of security.
 
-- (Optional)
+2. | Date of the commencement of security.
 
-- 1. Name of holder of security.
+3. | Date of expiry of security.
 
-- 2. Date of the commencement of security.
+4. | Conditions to which security is subject.*
 
-- 3. Date of expiry of security.
+(I)/(We) hereby certify that the security to which this certificate relates is issued in accordance with the provisions of the abovementioned Ordinance.
 
-- 4.
+(authorized under the said Ordinance to issue securities.)
 
-- Conditions to which security is subject.*
+* Limitations rendered inoperative by section 12 of the above Ordinance are not to be included under this heading.
 
-- (I)/(We) hereby certify that the security to which this certificate relates is issued in accordance with the provisions of the abovementioned Ordinance.
+_
 
-- .
+FORM 5 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
 
-- (authorized under the said
+(Chapter 272) Certificate of Deposit
 
-- Ordinance to issue securities.)
+(I)/(We) hereby certify that (I am)/(we are) the (owner)/(owners) of the vehicle of which the registration mark and number are
 
-- * Limitations rendered inoperative by section 12 of the above Ordinance are not to be included under this heading.
+.and that in pursuance of the provisions of section 4(4)(c) of the abovementioned Ordinance (I)/(we) have made a deposit with the Director of Accounting Services to the value of $2,000,000 and have not required such deposit to be returned to (me)/(us).
 
-- _ FORM 5 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Signed
 
-- (Chapter 272) Certificate of Deposit
+on behalf of
 
-- (I)/(We) hereby certify that (I am)/(we are) the (owner)/(owners) of the vehicle of which the registration mark and number are .
+(L.N. 54 of 1968; L.N. 16 of 1977; L.N. 216 of 1985)
 
-- . and that in pursuance of the provisions of section 4(4)(c) of the abovementioned Ordinance (I)/(we) have made a deposit with the Director of Accounting Services to the value of $2,000,000 and have not required such deposit to be returned to (me)/(us).
+_
 
-- Signed . on behalf of .
+FORM 6 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
 
-- (L.N. 54 of 1968; L.N. 16 of 1977; L.N. 216 of 1985)
+(Chapter 272) Certificate of Foreign Insurance
 
-- _ FORM 6 MOTOR VEHICLES INSURANCE (THIRD PARTY RISKS) ORDINANCE
+Certificate No. | Policy No.
 
-- (Chapter 272) Certificate of Foreign Insurance
+1. | Date to which certificate is valid.
 
-- Certificate No. . Policy No. .
+2. | Identification mark and number or numbers and make of vehicle.
 
-- 1. Date to which certificate is valid.
+3. | Persons or classes of persons authorized to drive the vehicle.
 
-- 2. Identification mark and number or numbers and make of vehicle.
+4. | Date of commencement of policy.
 
-- 3. Persons or classes of persons authorized to drive the vehicle.
+5. | Date of expiry of policy.
 
-- 4. Date of commencement of policy.
+I hereby certify that this certificate is issued in accordance with the regulations made under the Motor Vehicles Insurance (Third Party Risks) Ordinance.
 
-- 5. Date of expiry of policy. I hereby certify that this certificate is issued in accordance with the regulations made under the Motor Vehicles Insurance (Third Party Risks) Ordinance. Signed . on behalf of .
+Signed
 
-- (Issuing Authority)
+on behalf of
+
+(Issuing Authority)

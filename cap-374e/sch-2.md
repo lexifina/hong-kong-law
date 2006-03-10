@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[regs. 4, 5, 9, 16, 17, 21, 23, 27, 30, 38, 40, 42, 49, 50A, 51, 52, 53, 54, 55 & 59]
+[regs. 4, 5, 9, 12O, 16, 17, 21, 23, 27, 30, 38, 40, 42, 49, 50A, 51, 52, 53, 54, 55 & 59] (25 of 2005 s. 27)
 
 FEES
 
@@ -18,7 +18,7 @@ Transfer of ownership fee
 
 (b) all other vehicles (40 of 1991 s. 7) | 1000
 
-Duplicate registration document or vehicle licence fee, other than in the case of a rickshaw | 60
+Duplicate registration document fee, duplicate vehicle licence fee other than in the case of a rickshaw, or duplicate certificate of allocation fee (25 of 2005 s. 27) | 60
 
 Duplicate vehicle licence fee in the case of a rickshaw | 10
 
@@ -27,6 +27,10 @@ Duplicate trade licence or permit | 65
 (L.N. 300 of 1990; L.N. 267 of 1994; L.N 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998)
 
 Annual Licence Fees
+
+Fee
+
+$
 
 1. | (a) Goods vehicle (other than van-type light goods vehicle) and special purpose vehicle—
 

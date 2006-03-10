@@ -18,8 +18,6 @@ FIXED PENALTY (CRIMINAL PROCEEDINGS) ORDINANCE
 
 (Chapter 240, section 3(1))
 
-字母 letters | 號碼 numbers
-
 右述車輛的司機 THE DRIVER | 車主 OWNER | 車輛號碼 OF VEHICLE NO.
 
 檔號 TRANSACTION NO.
@@ -348,7 +346,7 @@ Offence marked with “Ω” carries 10 driving-offence points.
 
 Vehicle owners liable for offences marked with “*”.
 
-(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005)
+(L.N. 165 of 2001; L.N. 103 of 2004; L.N. 159 of 2005; 25 of 2005 s. 36)
 
 通知書號碼： | 表格 2 | [第2(2)條]
 

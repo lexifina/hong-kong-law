@@ -1,6 +1,6 @@
 # SCHEDULE 5
 
-[regs. 9 & 13]
+[regs. 6, 9, 13, 14 & 34] (25 of 2005 s. 29)
 
 LIST OF SPECIAL REGISTRATION MARKS
 

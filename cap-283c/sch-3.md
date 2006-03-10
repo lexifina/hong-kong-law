@@ -140,7 +140,7 @@ $320 | 105
 
 3. | 局部繳款、逾期繳款或不能予以識辨的繳款將不會視為有效的繳款。 | 3. | Partial payment, late payment or unidentifiable payment will not be regarded as a valid payment.
 
-(L.N. 43 of 2003)
+(L.N. 43 of 2003; 25 of 2005 s. 39)
 
 _
 

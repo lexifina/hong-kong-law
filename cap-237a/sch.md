@@ -8,7 +8,7 @@ FPP | [第2(1)條] | \|
 
 涉嫌犯定額罰款交通違例事項的通知書 NOTICE OF PARTICULARS OF ALLEGED FIXED PENALTY TRAFFIC CONTRAVENTION 《定額罰款(交通違例事項)條例》 (第237章第15(2)條) FIXED PENALTY (TRAFFIC CONTRAVENTIONS) ORDINANCE (Chapter 237, section 15(2)) | \| \| \| \| \| \| \|
 
-字母 letters 號碼 numbers | \|
+\|
 
 右述車輛的車主/司機 | 車輛號碼 | \|
 
@@ -246,7 +246,7 @@ Parked in a manner likely to cause an unnecessary obstruction of a road or dange
 
 - Parked in a parking space in respect of which there is a parking meter when the meter does not indicate that payment has been made (section 11(1)).
 
-(L.N. 166 of 2001; L.N. 29 of 2004; L.N. 158 of 2005)
+(L.N. 166 of 2001; L.N. 29 of 2004; L.N. 158 of 2005; 25 of 2005 s. 34)
 
 通知書號碼： | 表格2
 

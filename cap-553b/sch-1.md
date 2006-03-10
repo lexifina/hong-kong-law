@@ -88,7 +88,7 @@ Item | Enactment | Provision
 
 43. | Roads (Works, Use and Compensation) Ordinance (Cap. 370) | Sections 10(1) and (3) and 29(1) and (4)
 
-44. | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) | Regulations 5(1), 17(2) and 20(1) and (3)
+44. | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) | Regulations 5(1), 12R(1), 17(2) and 20(1) and (3) (25 of 2005 s. 41)
 
 45. | Dangerous Goods (Consignment by Air) (Safety) Regulations (Cap. 384 sub. leg. A) | Regulation 6(1)(b)
 
