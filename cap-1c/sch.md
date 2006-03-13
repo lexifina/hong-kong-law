@@ -446,7 +446,7 @@ Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004; L.N. 6 of 2005, 21 of 2005 s. 29 and L.N. 202 of 2005. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004, L.N. 6 of 2005, 21 of 2005 s.29, L.N. 202 of 2005 and 23 of 2005 s. 26. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -479,6 +479,8 @@ L.N. 6 of 2005 | Commissioner of Mines | Dangerous Goods (Government Explosives 
 21 of 2005 s. 29 | Secretary for Home Affairs | Probate and Administration Ordinance (Chapter 10), sections 60B, 60C, 60D, 60E, 60F, 60G and 60K.
 
 L.N. 202 of 2005 | Chief Secretary for Administration | Church of England Trust Ordinance (Chapter 1014), sections 3(2) and 4(1). Hong Kong Chinese Christian Churches Union Incorporation Ordinance (Chapter 1025), section 3(1) and (2). Chinese Rhenish Church, Hong Kong Synod, Incorporation Ordinance (Chapter 1060), section 3(1) and (2). Hong Kong Baptist Church Incorporation Ordinance (Chapter 1078), section 10(1).
+
+23 of 2005 s. 26 | Secretary for Security | Marriage Ordinance (Chapter 181), section 5J(7).
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 
