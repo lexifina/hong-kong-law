@@ -104,15 +104,27 @@ section 29 | marrying, etc. minor without consent of proper person
 
 section 30 | offences by minister
 
-section 31 | failure to transmit certificate
+section 31(1) or (2) | failure to transmit certificate
+
+section 31A(1) | failure by civil celebrant to return notice of appointment, etc. upon cancellation or suspension of appointment
+
+section 31A(2) | failure by civil celebrant to provide information
+
+section 31A(3) | failure by civil celebrant to notify cessation of compliance with appointment criteria
+
+section 31A(4) | failure by civil celebrant to forward certificate of the Registrar to parties
 
 section 32 | removing, etc. record
 
 section 33 | unauthorized person celebrating marriage
 
+section 33A(1) | providing false information in relation to appointment of civil celebrant
+
+section 33B | false advertisement or representation as regards status of civil celebrant
+
 section 39(3) | failure to comply with conditions of celebration of marriage in articulo mortis, etc.
 
-section 39(4) | failure by minister to transmit certificate of marriage in articulo mortis
+section 39(4) | failure by minister to transmit certificate of marriage in articulo mortis (Admened 23 of 2005 s. 27)
 
 6. | Offences against the Person Ordinance (Cap. 212)
 

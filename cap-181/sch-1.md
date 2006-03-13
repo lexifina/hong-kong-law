@@ -1,189 +1,349 @@
-# Schedule 1
+# SCHEDULE 1
 
-[s. 35]
+[ss. 2, 6, 9, 11, 20, 20A, 21, 35, 39 & 42A]
 
-FORM 1 | [section 6]
+FORMS
 
-NOTICE OF MARRIAGE
+(Amended 23 of 2005 s. 22)
 
-To the Registrar of Marriages, Hong Kong I hereby give you notice that a marriage is intended to be had, within 3 months from the date hereof, between me and the other party herein named.
+FORM 1
 
-Bridegroom | Bride
+[s. 6]
 
-Surname and name
+NOTICE OF INTENDED MARRIAGE
 
-Condition | (Bachelor/Widower/ Divorced person) | (Spinster/Widow/ Divorced person)
+擬結婚通知書 (Marrige Ordinance (Cap. 181))
 
-Rank or profession
+(《婚姻條例》(第181章))
 
-Age
+To: | The Registrar of Marriages, Hong Kong.
 
-Dwelling place
+致： | 香 港 婚 姻 登 記 官
 
-By whom consent (if any) given \
+Take notice that the parties named in this notice intend to contract a marriage within 3 months from the date of this notice.
 
-Witness my hand this day of , 19 .
+現謹通告名列本通知書的雙方擬在自本通知書日期起計的3個月內結婚。
 
-Party giving the notice.
+Part I 第I部分
 
-(Replaced L.N. 502 of 1995)
+Bridegroom 新郎 | Bride 新娘
 
-FORM 2 | [section 9]
+Surname and name 姓名
+
+Marital condition 婚姻狀況 | Bachelor/Widower/Divorced person 未婚/鰥夫/離婚 | Spinster/Widow/Divorced person 未婚/寡婦/離婚
+
+Occupation 職業
+
+Date of birth 出生日期
+
+Residential address (Street name & district) 住址(街道名稱及地區)
+
+Consent of the third party (if any) 第三者的同意(如有)
+
+Part II 第II部分
+
+HK identity card no./ Travel document type and no. 香港身分證號碼/ 旅行證件類別及號碼
+
+Residential address in full 詳細住址
+
+Daytime telephone no. 日間電話號碼
+
+Surname and name of father 父親姓名
+
+Surname and name of mother 母親姓名
+
+[Where applicable] This notice is given through (name of civil celebrant), Civil Celebrant of Marriages.
+
+[如適用]本通知書透過婚姻監禮人(婚姻監禮人的姓名)發出。
+
+I and the other party named above intend to contract a marriage at (place of celebration of marriage) on the day of , 20
+
+本人與名列上表的另一方擬於 年 月 日在(舉行婚禮地點)
+
+before 在 | □ | the Registrar. 登記官 | 主持下締結婚姻。
+
+□ | a civil celebrant. 婚姻監禮人
+
+□ | a competent minister. 合資格的神職人員
+
+Dated this day of , 20 .
+
+年 月 日
+
+(Signature of the party giving the notice) (發出通知書的一方簽署)
+
+(Name of the party) (該方姓名)
+
+(Replaced 23 of 2005 s. 22)
+
+_
+
+FORM 2
+
+[s. 9]
 
 CERTIFICATE OF REGISTRAR OF MARRIAGES
 
-I, , Registrar of Marriages of Hong Kong, do hereby certify that on the day of , 19 , notice was duly entered in the Marriage Notice Book of Hong Kong of the marriage intended to be had between the parties herein named and described.
+婚姻登記官證明書 (Marriage Ordinance (Cap. 181))
 
-Bridegroom | Bride
+(《婚姻條例》(第181章))
 
-Surname and Name
+I hereby certify that on the day of , 20 , a notice of intended marriage was entered in the Marriage Notice Book of Hong Kong in respect of the marriage intended to be contracted between the parties named below.
 
-Condition | (Bachelor/Widower/ Divorced person) | (Spinster/Widow/ Divorced person)
+現證明一份擬結婚通知書已於 年 月 日就下述人士擬締結的婚姻載入香港結婚通知冊。
 
-Rank or profession
+Bridegroom 新郎 | Bride 新娘
 
-Age
+Surname and name 姓名
 
-Dwelling place
+Age 年齡
 
-Date of notice entered , 19 . Date of certificate given ,19 .
+Marital condition 婚姻狀況 | Bachelor/Widower/ Divorced person 未婚/鰥夫/離婚 | Spinster/Widow /Divorced person 未婚/寡婦/離婚
 
-The issue of this certificate has not been forbidden by any person authorized to forbid the issue thereof.
+Occupation 職業
 
-Witness my hand this day of , 19 .
+Residential address 住址
 
-Registrar of Marriages.
+Surname and name of father 父親姓名
 
-This certificate will be void unless the marriage is solemnized on or before the day of , 19 .
+Surname and name of mother 母親姓名
 
-This certificate was issued under the provisions of the proviso to section 9.
+The issue of this certificate has not been forbidden by any person who is entitled under law to forbid the issue of it.
 
-(Replaced L.N. 502 of 1995)
+根據法律有權不准發給本證明書的人，並無不准發給本證明書。 Dated this day of , 20 .
 
-FORM 3 | [section 11]
+年 月 日
 
-Special Licence
+(Signature) (簽署)
 
-HONG KONG.
+(Name and title) (姓名及稱銜)
 
-The Marriage Ordinance, section 11.
+This certificate will be of no effect unless the marriage is solemnized on or before the day of , 20 .
 
-Whereas A.B. and C.D. desire to marry, and sufficient cause has been shown to me why such marriage should be allowed without the formalities prescribed by the Marriage Ordinance, Chapter 181: Now, therefore, in pursuance of the said Ordinance, I do dispense with the giving of notice and the issue of the certificate thereby prescribed [or as the case may be] and do hereby authorize any competent person to celebrate marriage between the said A.B. and C.D. at [place of celebration] on the day of , 19 , between the hours of o’clock in the forenoon and o’clock in the afternoon.
+婚禮須於 年 月 日或之前舉行，否則本證明書即告無效。 This certificate was issued under the proviso to section 9(1) of the Marriage Ordinance (Cap. 181).
 
-Dated the day of , 19 .
+本證明書根據《婚姻條例》(第181章)第9(1)條但書發給。
 
-(Signed)
+(Replaced 23 of 2005 s. 61)
 
-(Amended 13 of 1976 s. 3)
+_
 
-FORM 4 | [section 20]
+FORM 3
+
+[s. 11]
+
+SPECIAL LICENCE (Marriage Ordinance (Cap. 181))
+
+I hereby—
+
+* | dispense, in relation to the intended marriage between [name of a party to the intended marriage] and [name of the other party], with—
+
+* | the requirement to give a notice of intended marriage under section 6 of the Marriage Ordinance (Cap. 181);
+
+* | the requirement to issue a Certificate of Registrar of Marriages under section 9 of the Marriage Ordinance (Cap. 181).
+
+* | authorize the celebration of a marriage between [name of a party to the intended marriage] and [name of the other party] at [place of celebration of marriage] between [period of time] on the day of , 20 .
+
+Dated this day of , 20 .
+
+(Signature of the issuer)
+
+(Name and title of the issuer)
+
+* Delete where inapplicable.
+
+(Replaced 23 of 2005 s. 61)
+
+_
+
+FORM 4
+
+[ss. 2 & 20]
 
 CERTIFICATE OF MARRIAGE
 
-Butt
+結婚證書 (Marriage Ordinance (Cap. 181))
 
-Date _ Registration No. _ Name of Bridegroom Name of Bride _ _
+(《婚姻條例》(第181章))
 
-Marriage Ordinance，section 20. 19 ，Marriage solemnized in the at in Hong Kong. | Marriage Ordinance，section 20. 19 ，Marriage solemnized in the at in Hong Kong.
+Registration No. 登記編號
 
-Certificate of Marriage | Certificate of Marriage
+Date of Marriage 結婚日期
 
-Registration No. | Registration No.
+Bridegroom 新郎 | Bride 新娘
 
-When married | When married
+Surname and name 姓名
 
-Bridegroom | Bride | Bridegroom | Bride
+Age 年齡
 
-Surname and name | Surname and name
+Marital condition before marriage 結婚前婚姻狀況 | Bachelor/Widower/Divorced person 未婚/鰥夫/離婚 | Spinster/Widow/Divorced person 未婚/寡婦/離婚
 
-Age | Age
+Occupation 職業
 
-Condition | (Bachelor/ Widower/ Divorced person) | (Spinster/Widow/ Divorced person) | Condition | (Bachelor/ Widower/ Divorced person) | (Spinster/Widow/ Divorced person)
+Residential address 住址
 
-Rank or profession | Rank or profession
+Surname and name of father 父親姓名
 
-Residence at the time of marriage | Residence at the time of marriage
+Surname and name of mother 母親姓名
 
-Surname and name of father | Surname and name of father
+Married at (place of celebration of marriage), Hong Kong according to rites and ceremonies before me. 婚禮在本人主持下於香港(舉行婚禮地點)以 儀式舉行。
 
-Surname and name of mother | Surname and name of mother
+(Signature of minister) (神職人員的簽署)
 
-Married in the according to the rites and ceremonies of the by by/before me. _ The marriage was solemnized between us _ and _ in the presence of us _ and _ | Married in the according to the rites and ceremonies of the by by/before me. _ The marriage was solemnized between us _ and _ in the presence of us _ and _
+(Name and title of minister) (神職人員的姓名及稱銜)
 
-(Replaced L.N. 502 of 1995)
+The marriage was solemnized between us 結婚雙方 | (Signature of bridegroom) (新郎簽署) | and 與 | (Signature of bride) (新娘簽署)
 
-FORM 5 | [section 21]
+in the presence of us 證婚人 | (Signature of the first witness) (第一見證人簽署) | and 及 | (Signature of the second witness) (第二見證人簽署)
 
-Declaration
+(Name of the first witness) (第一見證人姓名) | (Name of the second witness) (第二見證人姓名)
 
-I. A.B., of do hereby declare that I fully understand that by publicly taking C.D. as my wife [or husband, as the case may be] in the presence of the Registrar of Marriages, I shall become legally married and bound to the said C.D., although no other rite of a civil or religious nature shall take place, and I also understand that the effect of my publicly taking the said C.D., as my wife [or husband, as the case may be] as aforesaid is to create between us a marriage which cannot be dissolved during our joint lives except by a valid judgment of divorce, and that if either of us, during the lifetime of the other, shall contract another marriage while this one remains undissolved, he or she will be guilty of bigamy and will be liable to the punishment for that offence.
+(Replaced 23 of 2005 s. 61)
 
-Dated this day of , 19 .
+_
 
-(Signed) A.B.
+FORM 5
 
-Witness, (Signed) W.X., Registrar of Marriages.
+[s. 21]
 
-Interpreted to the said A.B. in the language, in the presence of
+DECLARATION (Section 21 of the Marriage Ordinance (Cap. 181))
 
-W.X., Registrar of Marriages.
+I, [name of the person making the declaration] of [address] hereby declare that I fully understand that—
 
-(Signed) Y.Z., Interpreter.
+  - (a) by taking [name of spouse] as my *wife/*husband in the presence of *the Registrar of Marriages/*a Deputy Registrar of Marriages/*a Civil Celebrant of Marriages in accordance with the Marriage Ordinance (Cap. 181), I shall become legally married and bound to [name of spouse], although there will be no other rite of a civil or religious nature;
 
-(Added 14 of 1896 Schedule. Amended 14 of 1926 s. 5; 1 of 1960 s. 19)
+  - (b) the effect of my taking [name of spouse] as my *wife/*husband is to create between us a marriage which cannot be dissolved during our joint lives except by a valid judicial decree; and
 
-FORM 6 | [section 39]
+  - (c) if I contract, during the lifetime of my *wife/*husband, another marriage while this marriage subsists, I commit the offence of bigamy and will be liable for the penalty for that offence.
 
-FORM OF CERTIFICATE
+Dated this day of , 20 .
 
-證書格式 (Marriage of a Dying Person)
+(Signature of the person making this declaration)
 
-(臨終的人的婚禮)
+(Name of the person making this declaration)
 
-Butt 存根
+Witness,
 
-Date Registration No. 日期 _ 登記編號 _ Name of Bridegroom Name of Bride 新郎姓名 _ 新娘姓名 _
+(Signature of the person taking this declaration)
 
-Marriage Ordinance，section 39. 婚姻條例第39條 19 ，Marriage solemnized in the at in Hong Kong. 19 年 月 日在香港 的 舉行婚禮。 | Marriage Ordinance，section 39. 婚姻條例第39條 19 ，Marriage solemnized in the at in Hong Kong. 19 年 月 日在香港 的 舉行婚禮。
+(Name of the person taking this declaration)
 
-Certificate of Marriage 結婚證書 | Certificate of Marriage 結婚證書
+*Registrar of Marriages/ *Deputy Registrar of Marriages/ *Civil Celebrant of Marriages
 
-Registration No. 登記編號 | Registration No. 登記編號
+Interpreted to the person making this declaration in the
 
-When married 結婚日期 | When married 結婚日期
+language in the presence of the person taking this declaration.
 
-Bridegroom 新郎 | Bride 新娘 | Bridegroom 新郎 | Bride 新娘
+(Signature of the interpreter)
 
-Surname and name 姓名 | Surname and name 姓名
+(Name of the interpreter)
 
-Age 年齡 | Age 年齡
+* Delete where inappropriate.
 
-Condition 現況 | (Bachelor / Widower / Divorced person) (未婚/鰥夫/離婚) | (Spinster / Widow / Divorced person) (未婚/寡婦/離婚) | Condition 現況 | (Bachelor / Widower / Divorced person) (未婚/鰥夫/離婚) | (Spinster / Widow / Divorced person) (未婚/寡婦/離婚)
+(Replaced 23 of 2005 s. 22)
 
-Rank or profession 職位或職業 | Rank or profession 職位或職業
+_
 
-Residence at the time of marriage 結婚時住址 | Residence at the time of marriage 結婚時住址
+FORM 6
 
-Surname and name of father 父親姓名 | Surname and name of father 父親姓名
+[ss. 2 & 39]
 
-Surname and name of mother 母親姓名 | Surname and name of mother 母親姓名
+CERTIFICATE OF MARRIAGE
 
-Married at according to the rites and ceremonies of the by by / before me. 男女雙方在 以 儀式結婚，婚禮按 由本人主持。 _ The marriage was solemnized between us and 結婚人 _ 及_ [or between me and [或本人 _ 與 _] in the presence of us and 證婚人 _ 及_ | Married at according to the rites and ceremonies of the by by / before me. 男女雙方在 以 儀式結婚，婚禮按 由本人主持。 _ The marriage was solemnized between us and 結婚人 _ 及_ [or between me and [或本人 _ 與 _] in the presence of us and 證婚人 _ 及_
+結婚證書 (Marriage Ordinance (Cap. 181))
 
-NOTE-If either of the parties married is unable to sign, the Registrar or minister is to certify to the same and to give the reason for such omission as follows—
+(《婚姻條例》(第181章))
 
-And I, the said , do hereby certify that the said was unable to sign this certificate owing to the state of his health [or as the case may be].
+Registration No. 登記編號
 
-(Signed) .
+Date of Marriage 結婚日期
 
-Registrar or Minister celebrating marriage.
+Bridegroom 新郎 | Bride 新娘
 
-註︰如任何一方不能簽署，登記官或主禮神職人員須加以核證並提出欠簽名的理由如下——
+Surname and name 姓名
 
-本人(即上述的 ) 現核證該 因健康狀況(或其他情形)而不能在此證書上簽署。
+Age 年齡
 
-(簽署) .
+Marital condition before marriage 結婚前婚姻狀況 | Bachelor/Widower/ Divorced person 未婚／鰥夫／離婚 | Spinster/Widow/ Divorced person 未婚／寡婦／離婚
 
-主持婚禮的登記官或神職人員
+Occupation 職業
 
-(Replaced L.N. 502 of 1995. Amended 80 of 1997 s. 34)
+Residential address 住址
+
+Surname and name of father 父親姓名
+
+Surname and name of mother 母親姓名
+
+Married at (place of celebration of marriage), Hong Kong in accordance with the provisions of the Marriage Ordinance (Cap. 181) according to rites and ceremonies before me. 婚禮在本人主持下於香港(舉行婚禮地點)按照《婚姻條例》(第181章)以 儀式舉行。
+
+(Signature of the person celebrating the marriage) (主持婚禮的人的簽署)
+
+(Name and title of the person celebrating the marriage) (主持婚禮的人的姓名及稱銜)
+
+*The marriage was solemnized between us 結婚雙方 | (Signature of bridegroom) (新郎簽署) | and 與 | (Signature of bride) (新娘簽署)
+
+*The marriage was solemnized between us 結婚雙方 | (Signature and name of one party) (一方的簽署及姓名) | and 與 | (Name of the other party) (另一方的姓名)
+
+in the presence of us 證婚人 | (Signature of the first witness) (第一見證人簽署) | and 及 | (Signature of the second witness) (第二見證人簽署)
+
+(Name of the first witness) (第一見證人姓名) | (Name of the second witness) (第二見證人姓名)
+
+* I hereby certify that the said (name of the party who was unable to sign) was unable to sign this certificate owing to *the state of health/*[other ground as may be applicable].
+
+本人現核證上述(不能簽署的一方的姓名)由於*健康狀況／*[適用的其他理由]而不能在本證書上簽署。
+
+(Signature of the person celebrating the marriage) (主持婚禮的人的簽署)
+
+(Name of the person celebrating the marriage) (主持婚禮的人的姓名)
+
+* Complete where applicable.
+
+只在適用時填寫。
+
+(Replaced 23 of 2005 s. 61)
+
+_
+
+FORM 7
+
+[ss. 2, 20A & 21]
+
+CERTIFICATE OF MARRIAGE
+
+結婚證書 (Marriage Ordinance (Cap. 181))
+
+(《婚姻條例》(第181章))
+
+Registration No. 登記編號
+
+Date of Marriage 結婚日期
+
+Bridegroom 新郎 | Bride 新娘
+
+Surname and name 姓名
+
+Age 年齡
+
+Marital condition before marriage 結婚前婚姻狀況 | Bachelor/Widower/Divorced person 未婚／鰥夫／離婚 | Spinster/Widow/Divorced person 未婚／寡婦／離婚
+
+Occupation 職業
+
+Residential address 住址
+
+Surname and name of father 父親姓名
+
+Surname and name of mother 母親姓名
+
+Married at (place of celebration of marriage), Hong Kong in accordance with the provisions of the Marriage Ordinance (Cap. 181) before me. 婚禮在本人主持下於香港(舉行婚禮地點)按照《婚姻條例》(第181章)舉行。
+
+(Signature of the person celebrating the marriage) (主持婚禮的人的簽署)
+
+(Name and title of the person celebrating the marriage) (主持婚禮的人的姓名及稱銜)
+
+The marriage was solemnized between us 結婚雙方 | (Signature of bridegroom) (新郎簽署) | and 與 | (Signature of bride) (新娘簽署)
+
+in the presence of us 證婚人 | (Signature of the first witness) (第一見證人簽署) | and 及 | (Signature of the second witness) (第二見證人簽署)
+
+(Name of the first witness) (第一見證人姓名) | (Name of the second witness) (第二見證人姓名)
+
+(Added 23 of 2005 s. 22)
