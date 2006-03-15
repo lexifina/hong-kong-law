@@ -8,9 +8,11 @@ Textiles traders carrying on business of—
 
 - (b) exporting textiles to—
 
-  - (i) the Mainland; or
+  - (i) the Mainland; (L.N. 4 of 2006)
 
   - (ii) the United States of America; or
+
+  - (iii) the Member States of the European Union; or (L.N. 4 of 2006)
 
 - (c) handling transhipment cargo of textiles from any country or place and to any country or place. (d)-(e) (Repealed L.N. 155 of 2004)
 
