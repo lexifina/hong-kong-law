@@ -4,6 +4,14 @@
 
 Year of birth | Specified period
 
+Any year before 1927 or 1927 | From 4 September 2006 to 11 November 2006
+
+1928, 1929, 1930, 1931 or 1932 | From 13 November 2006 to 23 December 2006
+
+1933, 1934, 1935, 1936 or 1937 | From 27 December 2006 to 10 February 2007
+
+1938, 1939, 1940, 1941 or 1942 | From 12 February 2007 to 31 March 2007
+
 1943, 1944, 1945 or 1946 | From 20 June 2005 to 6 August 2005
 
 1947, 1948 or 1949 | From 25 April 2005 to 18 June 2005
@@ -42,4 +50,8 @@ Year of birth | Specified period
 
 1983, 1984 or 1985 | From 29 May 2006 to 8 July 2006
 
-(L.N. 264 of 2003; L.N. 77 of 2004; L.N. 212 of 2004; L.N. 85 of 2005)
+1990, 1991 or 1992 | From 10 July 2006 to 11 November 2006
+
+1997, 1998, 1999, 2000, 2001, 2002 or 2003 | From 10 July 2006 to 11 November 2006
+
+(L.N. 264 of 2003; L.N. 77 of 2004; L.N. 212 of 2004; L.N. 85 of 2005; L.N. 11 of 2006)
