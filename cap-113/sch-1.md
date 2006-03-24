@@ -12,8 +12,6 @@ Kowloon Hospital
 
 Kwai Chung Hospital
 
-Lai Chi Kok Hospital
-
 North District Hospital (Added L.N. 623 of 1997)
 
 Pamela Youde Nethersole Eastern Hospital (Added L.N. 385 of 1993)
@@ -44,4 +42,4 @@ Tuen Mun Hospital
 
 Wong Chuk Hang Hospital (Added L.N. 233 of 1995)
 
-(Amended L.N. 162 of 2002)
+(Amended L.N. 162 of 2002; L.N. 60 of 2006)
