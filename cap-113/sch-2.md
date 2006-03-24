@@ -14,7 +14,7 @@ Cheshire Home, Chung Hom Kok (Replaced L.N. 428 of 1991)
 
 Cheshire Home, Shatin (Replaced L.N. 428 of 1991)
 
-The Duchess of Kent Children’s Hospital at Sandy Bay (Replaced L. N. 285 of 1999)
+The Duchess of Kent Children’s Hospital at Sandy Bay (Replaced L.N. 285 of 1999)
 
 Grantham Hospital
 
@@ -25,8 +25,6 @@ Hong Kong Buddhist Hospital
 Kwong Wah Hospital
 
 MacLehose Medical Rehabilitation Centre
-
-Nam Long Hospital
 
 Our Lady of Maryknoll Hospital
 
@@ -44,6 +42,4 @@ Tung Wah Hospital
 
 United Christian Hospital
 
-Yan Chai Hospital
-
-(Amended L.N. 428 of 1991; L.N. 170 of 2000)
+Yan Chai Hospital (Amended L.N. 428 of 1991; L.N. 170 of 2000; L.N. 60 of 2006)
