@@ -8,7 +8,7 @@ Name of smart identity card centre | Location
 
 1. | Hong Kong Smart Identity Card Centre | Room 601, 6th Floor, Elizabeth House, 250-254 Gloucester Road, Causeway Bay, Hong Kong
 
-2. | East Kowloon Smart Identity Card Centre | Shop 102-3 & 104-5, 1st Floor, World Trade Square, 123 Hoi Bun Road, Kwun Tong, Kowloon
+2. | East Kowloon Smart Identity Card Centre | Shop 102-3 & 104-5, 1st Floor, Wharf T & T Square, 123 Hoi Bun Road, Kwun Tong, Kowloon (L.N. 42 of 2006)
 
 3. | West Kowloon Smart Identity Card Centre | Shop No. LG2, Lower Ground Floor, Tsim Sha Tsui Centre, 66 Mody Road, Tsim Sha Tsui, Kowloon
 
