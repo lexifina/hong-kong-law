@@ -26,7 +26,7 @@ Item Body
 
 - 10. (Repealed L.N. 271 of 2003)
 
-- 11. Sheng Kung Hui Lady MacLehose Centre
+- 11. Hong Kong Sheng Kung Hui Lady MacLehose Centre (Amended L.N. 71 of 2006)
 
 - 12. Association for Engineering and Medical Volunteer Services
 
@@ -110,9 +110,7 @@ Item Body
 
 - 53. The Young Men’s Christian Association of Hong Kong
 
-- 54. The Hong Kong Management Association
-
-- 55. The Federation of Hong Kong Industries
+- 54-55. (Repealed L.N. 71 of 2006)
 
 - 56. Sheng Kung Hui Diocesan Welfare Council
 
@@ -142,4 +140,6 @@ Item Body
 
 - 69. Hong Kong Federation of Handicapped Youth (Added L.N. 67 of 2004)
 
-- 70. The Society of Rehabilitation and Crime Prevention, Hong Kong (Added L.N. 67 of 2004) (Schedule 2 replaced L.N. 269 of 1999)
+- 70. The Society of Rehabilitation and Crime Prevention, Hong Kong (Added L.N. 67 of 2004)
+
+- 71. The Mental Health Association of Hong Kong (Added L.N. 71 of 2006) (Schedule 2 replaced L.N. 269 of 1999)
