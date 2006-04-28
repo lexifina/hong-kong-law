@@ -372,7 +372,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 182. | Ma Po Mei (麻布尾) | 1 October 2003 | 1 | Tai Po Rural Committee
 
-183. | Ma Sim Pei (馬閃排) | 1 October 2003 | 1 | Tsuen Wan Rural Committee
+183. | Ma Sim Pai (馬閃排) (Amended L.N. 28 of 2006) | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
 184. | Ma Tin (馬田) | 1 October 2003 | 2 | Shap Pat Heung Rural Committee
 
@@ -732,7 +732,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 362. | Sheung Shui Heung (上水鄉) | 1 October 2003 | 3 | Sheung Shui District Rural Committee
 
-363. | Sheung Sz Wan (相思灣) | 1 October 2003 | 1 | Hang Hau Rural Committee
+363. | Sheung Sze Wan (相思灣) (Amended L.N. 28 of 2006) | 1 October 2003 | 1 | Hang Hau Rural Committee
 
 364. | Sheung Tsuen (上村) | 1 October 2003 | 3 | Pat Heung Rural Committee
 
@@ -934,7 +934,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 463. | Tin Fu Tsai (田夫仔) | 1 October 2003 | 1 | Tuen Mun Rural Committee
 
-464. | Tin Ha Wan (田下環) | 1 October 2003 | 1 | Hang Hau Rural Committee
+464. | Tin Ha Wan (田下灣) (Amended L.N. 28 of 2006) | 1 October 2003 | 1 | Hang Hau Rural Committee
 
 465. | Tin Liu (田寮) | 1 October 2003 | 1 | Sai Kung North Rural Committee
 

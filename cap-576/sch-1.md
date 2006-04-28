@@ -422,7 +422,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 207. | Ma Po Mei (麻布尾) | VEB/2002/P/TP-26 | 1 October 2003 | 1 | Tai Po Rural Committee
 
-208. | Ma Sim Pei (馬閃排) | VEB/2002/K/TW-09 | 1 October 2003 | 1 | Tsuen Wan Rural Committee
+208. | Ma Sim Pai (馬閃排) (Amended L.N. 28 of 2006) | VEB/2002/K/TW-09 | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
 209. | Ma Tin (馬田) | VEB/2002/M/SPH-23 | 1 October 2003 | 1 | Shap Pat Heung Rural Committee
 
@@ -782,7 +782,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 387. | Sha Tau Kok Market (West Upper) (沙頭角墟(西上)) | VEB/2002/N/STK-24B | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-388. | Sha Tin Tau and Lei Uk (沙田頭及李屋) | VEB/2002/R/ST-28 | 1 October 2003 | 1 | Sha Tin Rural Committee
+388. | Sha Tin Tau and Lee Uk (沙田頭及李屋) (Amended L.N. 28 of 2006) | VEB/2002/R/ST-28 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
 389. | Sha Tin Wai (沙田圍) | VEB/2002/R/ST-46 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -866,7 +866,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 429. | Sheung Shui Heung (上水鄉) | VEB/2002/N/SS-15 | 1 October 2003 | 1 | Sheung Shui District Rural Committee
 
-430. | Sheung Sz Wan (相思灣) | VEB/2002/Q/HH-01 | 1 October 2003 | 1 | Hang Hau Rural Committee
+430. | Sheung Sze Wan (相思灣) (Amended L.N. 28 of 2006) | VEB/2002/Q/HH-01 | 1 October 2003 | 1 | Hang Hau Rural Committee
 
 431. | Sheung Tsuen (上村) | VEB/2002/M/PH-21 | 1 October 2003 | 1 | Pat Heung Rural Committee
 
@@ -1104,7 +1104,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 548. | Tin Fu Tsai (田夫仔) | VEB/2002/L/TM-16 | 1 October 2003 | 1 | Tuen Mun Rural Committee
 
-549. | Tin Ha Wan (田下環) | VEB/2002/Q/HH-12 | 1 October 2003 | 1 | Hang Hau Rural Committee
+549. | Tin Ha Wan (田下灣) (Amended L.N. 28 of 2006) | VEB/2002/Q/HH-12 | 1 October 2003 | 1 | Hang Hau Rural Committee
 
 550. | Tin Liu (田寮) | VEB/2002/P/SKN-34 | 1 October 2003 | 1 | Sai Kung North Rural Committee
 

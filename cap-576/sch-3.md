@@ -26,7 +26,7 @@ Name of community | Names of villages of which the community is composed | Date 
 
 9. | Muk Min Tau and Tsiu Hang (木棉頭及蕉坑) | (a) Muk Min Tau (木棉頭); and (b) Tsiu Hang (蕉坑) | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-10. | Sha Tin Tau and Lei Uk (沙田頭及李屋) | (a) Sha Tin Tau (沙田頭); and (b) Lei Uk (李屋) | 1 October 2003 | 1 | Sha Tin Rural Committee
+10. | Sha Tin Tau and Lee Uk (沙田頭及李屋) (Amended L.N. 28 of 2006) | (a) Sha Tin Tau (沙田頭); and (b) Lee Uk (李屋) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
 11. | Shek Kwu Lung and Nam Shan (石古壟及南山) | (a) Shek Kwu Lung (石古壟); and (b) Nam Shan (南山) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
