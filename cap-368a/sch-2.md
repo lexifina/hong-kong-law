@@ -42,7 +42,7 @@ Removal Fee
 
 Vehicle | Removal Fee
 
-Aberdeen Tunnel | Airport Tunnel | Cross— Harbour Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung Kwan O Tunnel
+Aberdeen Tunnel | Cross— Harbour Tunnel | Kai Tak Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung Kwan O Tunnel
 
 1. Private cars, taxis and motor cycles | $140 | $140 | $140 | $140 | $140 | $140
 
@@ -54,8 +54,8 @@ Permit Fee
 
 Vehicle | Permit Fee
 
-Aberdeen Tunnel | Airport Tunnel | Cross— Harbour Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung Kwan O Tunnel
+Aberdeen Tunnel | Cross— Harbour Tunnel | Kai Tak Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung Kwan O Tunnel
 
 All vehicles | $82 | $82 | $82 | $82 | $82 | $82
 
-(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 35; 49 of 1999 s. 15)
+(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 35; 49 of 1999 s. 15; L.N. 33 of 2006)
