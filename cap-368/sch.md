@@ -2,7 +2,7 @@
 
 [s. 3]
 
-Aberdeen Tunnel. Airport Tunnel. * Cross-Harbour Tunnel. (Added 44 of 1999 s. 31) Lion Rock Tunnel. Shing Mun Tunnels. Tseung Kwan O Tunnel. (Replaced L.N. 421 of 1989. Amended L.N. 314 of 1990)
+Aberdeen Tunnel. Kai Tak Tunnel. * Cross-Harbour Tunnel. (Added 44 of 1999 s. 31) Lion Rock Tunnel. Shing Mun Tunnels. Tseung Kwan O Tunnel. (Replaced L.N. 421 of 1989. Amended L.N. 314 of 1990; L.N. 34 of 2006)
 
 Editorial Note:
 
