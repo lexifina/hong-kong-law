@@ -30,13 +30,13 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 12. Sham Shui Po Sports Association.
 
-  - 13. Southern District Recreation & Sports Council.
+  - 13. Southern District Recreation and Sports Association Limited. (Amended 10 of 2006 s. 44)
 
   - 14. Tai Po Sports Association Ltd.
 
   - 15. Tuen Mun Sports Association Limited.
 
-  - 16. Wanchai District Arts Cultural Recreation & Sports Association Ltd.
+  - 16. Wan Chai District Arts Cultural Recreational and Sports Association Limited. (Amended 10 of 2006 s. 44)
 
   - 17. Wong Tai Sin District Recreation & Sports Council.
 
@@ -62,7 +62,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 8. Sha Tin Arts Association Limited.
 
-  - 9. Shamshuipo Arts Association.
+  - 9. Sham Shui Po Arts Association Limited. (Amended 10 of 2006 s. 44)
 
   - 10. Southern District Arts and Culture Association Limited.
 
@@ -82,7 +82,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 1. All Stars Sports Association Ltd.
 
-  - 2. The Amateur Lyric Writers’ Association of Hong Kong.
+  - 2. The Song Writers’ Association of Hong Kong. (Amended 10 of 2006 s. 44)
 
   - 3. Artiste Training Alumni Association Limited.
 
@@ -106,13 +106,13 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 13. The Hong Kong Children’s Choir.
 
-  - 14. Hong Kong Chinese Orchestra.
+  - 14. Hong Kong Chinese Orchestra Limited. (Amended 10 of 2006 s. 44)
 
   - 15. Hong Kong Chinese Press Association.
 
   - 16. Hong Kong & Macau Cinema and Theatrical Enterprise Association Limited. (Replaced 25 of 2003 s. 45)
 
-  - 17. Hong Kong Cinematography and Television Lighting Association Limited.
+  - 17. Hong Kong Cinematography Lighting Association Limited. (Amended 10 of 2006 s. 44)
 
   - 18. (Repealed 25 of 2003 s. 45)
 
@@ -182,7 +182,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 52. Pop-Music Authors Society of Hong Kong.
 
-  - 53. Royal Asiatic Society Hong Kong Branch.
+  - 53. The Hong Kong Branch of the Royal Asiatic Society. (Amended 10 of 2006 s. 44)
 
   - 54. Sail Training Association of Hong Kong Limited. (Replaced 25 of 2003 s. 45)
 
@@ -190,7 +190,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 56. Society of Film Editors (HK) Ltd.
 
-  - 57. South China Film Industry Workers Union.
+  - 57. South China Film Industry Workers’ Union. (Amended 10 of 2006 s. 44)
 
   - 58. South China Research Circle.
 
@@ -202,6 +202,6 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 62. Zuni Icosahedron.
 
-  - 63. Federation of Hong Kong Film Workers Limited. (Added 25 of 2003 s. 45)
+  - 63. Federation of Hong Kong Filmmakers Limited. (Added 25 of 2003 s. 45. Amended 10 of 2006 s. 44)
 
   - 64. Hong Kong Movie Production Executives Association Limited. (Added 25 of 2003 s. 45) (Added 48 of 1999 s. 43)

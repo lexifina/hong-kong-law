@@ -24,6 +24,8 @@ ELECTION COMMITTEE
 
       - “geographical constituency” (地方選區) means an area declared to be a geographical constituency in accordance with Part III of the Legislative Council Ordinance (Cap. 542);
 
+      - “interim register of members of the Election Committee” (選舉委員會暫行委員登記冊) means a register published under section 40(1); (Added 10 of 2006 s. 21)
+
       - “Member” (議員), in relation to the Legislative Council, has the meaning assigned to it by section 3(1) of the Legislative Council Ordinance (Cap. 542);
 
       - “name” (名稱), in relation to a subsector, is to be construed by reference to its description under the column headed “subsector” in Table 1, 2, 3 or 4 in section 2, as may be applicable;
@@ -160,7 +162,7 @@ ELECTION COMMITTEE
 
       - who are registered as ex-officio members of the Election Committee in, and whose names have not been removed from, the final register of members of the Election Committee.
 
-    - (8) Subject to section 41, the Electoral Registration Officer shall, in compiling a final register of members of the Election Committee under section 40(1) after the publication of results of the subsector ordinary elections, register—
+    - (8) Subject to section 41, the Electoral Registration Officer shall, in compiling an interim register of members of the Election Committee under section 40(1) after the publication of results of the subsector ordinary elections, register— (Amended 10 of 2006 s. 21)
 
       - (a) the persons holding office on the date of those subsector ordinary elections (or the last of those dates, if different dates are specified for those subsector ordinary elections) as Hong Kong deputies to the National People’s Congress; and
 
@@ -274,33 +276,33 @@ ELECTION COMMITTEE
 
       - (1) Members of the Travel Industry Council of Hong Kong entitled to vote at general meetings of the Council.
 
-      - (2) Members of the Hong Kong Board of Airline Representatives. (Replaced 25 of 2003 s. 56)
+      - (2) Members of The Board of Airline Representatives in Hong Kong. (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
 
       - 3. | Hotel | (1) Members of the Hong Kong Hotels Association entitled to vote at general meetings of the Association.
 
-      - (2) Members of the Federation of Hong Kong Hotels Owners entitled to vote at general meetings of the Federation.
+      - (2) Members of the Federation of Hong Kong Hotel Owners Limited entitled to vote at general meetings of the Federation. (Amended 10 of 2006 s. 32)
 
       - 4. | Chinese medicine | Members of—
 
       - (1) The Hong Kong Association of Traditional Chinese Medicine Limited;
 
-      - (2) The International General Chinese Herbalists and Medicine Professional Association Limited;
+      - (2) International General Chinese Herbalists and Medicine Professionals Association Limited;
 
       - (3) Sin-Hua Herbalists’ and Herb Dealers’ Promotion Society Limited;
 
-      - (4) The Society of Practitioners of Chinese Herbal Medicine Limited;
+      - (4) Society of Practitioners of Chinese Herbal Medicine Limited;
 
       - (5) The Hong Kong T.C.M. Orthopaedic and Traumatic Association Limited; (Replaced 25 of 2003 s. 56)
 
       - (6) The Hong Kong Federation of China of Traditional Chinese Medicine;
 
-      - (7) The Hong Kong Acupuncturists Association;
+      - (7) Hong Kong Acupuncturists Association;
 
-      - (8) The Hong Kong Chinese Herbalists Association Limited;
+      - (8) Hong Kong Chinese Herbalists Association Limited;
 
-      - (9) The Association of Hong Kong and Kowloon Practitioners of Chinese Medicine Limited;
+      - (9) Association of Hong Kong & Kowloon Practitioners of Chinese Medicine, Limited;
 
-      - (10) The Hong Kong Chinese Overseas Physician Association,
+      - (10) Hong Kong Chinese Overseas Physician Association, (Amended 10 of 2006 s. 32)
 
       - who are Chinese medicine practitioners entitled to vote at the general meetings of the respective bodies.
 
@@ -348,7 +350,7 @@ ELECTION COMMITTEE
 
       - (g) the Council of The Open University of Hong Kong;
 
-      - (h) the Council of the Vocational Training Council;
+      - (h) the Vocational Training Council; (Amended 10 of 2006 s. 32)
 
       - (i) the Council of The Hong Kong Institute of Education;
 
@@ -376,7 +378,7 @@ ELECTION COMMITTEE
 
       - (d) Hong Chi Association-Hong Chi Pinehill Advanced Training Centre; (Replaced 25 of 2003 s. 56)
 
-      - (e) Caritas Lok Mo Skills Centre of Caritas-Hong Kong incorporated under the Caritas-Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56)
+      - (e) Caritas Lok Mo Integrated Vocational Training Centre of Caritas-Hong Kong incorporated under the Caritas-Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
 
       - (5) Registered managers of schools registered under the Education Ordinance (Cap. 279).
 
@@ -408,13 +410,29 @@ ELECTION COMMITTEE
 
   - 3. Resignation of member of Election Committee
 
-    - (1) If—
+    - (1) If a member of the Election Committee representing the subsector specified in item 3 of Table 4 in section 2 ceases to be a Hong Kong member of the National Committee of the Chinese People’s Political Consultative Conference, he is deemed to have resigned from the membership of the Election Committee unless—
 
-      - (a) on 14 July 2000, a person was a member of the Election Committee constituted on that date under the Legislative Council Ordinance (Cap. 542) (other than an ex-officio member of the Committee within the meaning of that Ordinance in force on that date); and
+      - (a) the cessation is due to the expiry of the term of office of the National Committee of the Chinese People’s Political Consultative Conference; and
 
-      - (b) after that date, the Electoral Registration Officer, by adding the person’s name to the final register of members of the Election Committee, registered the person as an ex-officio member of the Committee under section 1(10) of Schedule 2 to that Ordinance in force immediately before the commencement of section 73 of this Ordinance,
+      - (b) he is a Hong Kong member of the National Committee of the Chinese People’s Political Consultative Conference when the immediately following term of office of that Committee commences. (Replaced 10 of 2006 s. 6)
 
-    - the person is deemed to have resigned, on the commencement of this section, from the membership referred to in paragraph (a).
+    - (1A) If a member of the Election Committee representing the subsector specified in item 4 of Table 4 in section 2 ceases to be the Chairman or a Vice-Chairman of the Heung Yee Kuk or a Councillor of the Full Council of the Heung Yee Kuk, he is deemed to have resigned from the membership of the Election Committee unless—
+
+      - (a) the cessation is due to the expiry of his term of office as the Chairman or a Vice-Chairman of the Heung Yee Kuk or a Councillor of the Full Council of the Heung Yee Kuk (as the case may be); and
+
+      - (b) he is the Chairman or a Vice-Chairman of the Heung Yee Kuk or a Councillor of the Full Council of the Heung Yee Kuk immediately after the cessation. (Added 10 of 2006 s. 6)
+
+    - (1B) If a member of the Election Committee representing the subsector specified in item 5 of Table 4 in section 2 ceases to be a member of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547), he is deemed to have resigned from the membership of the Election Committee unless—
+
+      - (a) the cessation is due to the expiry of his term of office as a member of such District Council; and
+
+      - (b) he is a member of such District Council immediately after the cessation. (Added 10 of 2006 s. 6)
+
+    - (1C) If a member of the Election Committee representing the subsector specified in item 6 of Table 4 in section 2 ceases to be a member of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547), he is deemed to have resigned from the membership of the Election Committee unless—
+
+      - (a) the cessation is due to the expiry of his term of office as a member of such District Council; and
+
+      - (b) he is a member of such District Council immediately after the cessation. (Added 10 of 2006 s. 6)
 
     - (2) If—
 
@@ -434,19 +452,17 @@ ELECTION COMMITTEE
 
       - (b) if a later date is specified in the notice, on that later date.
 
-  - 4. Electoral Registration Officer to compile and
+  - 4.
+
+  - Electoral Registration Officer to compile and
 
   - publish provisional register
 
-    - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations a provisional register of members of the Election Committee—
+    - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations a provisional register of members of the Election Committee within 14 days after the making of a vacancy declaration. (Amended 10 of 2006 s. 31)
 
-      - (a) not later than 30 November 2001; and
+    - (2) The Electoral Registration Officer is not required to compile and publish a provisional register of members of the Election Committee under subsection (1) if— (Amended 10 of 2006 s. 31)
 
-      - (b) thereafter, within 14 days after the making of a vacancy declaration.
-
-    - (2) The Electoral Registration Officer is not required to compile and publish a provisional register of members of the Election Committee under subsection (1)(b) if—
-
-      - (a) the vacancy declaration is made before 30 November 2002 or within 12 months after the date of the making of another vacancy declaration; or
+      - (a) the vacancy declaration is made within 12 months after the date of the making of another vacancy declaration; or (Amended 10 of 2006 s. 31)
 
       - (b) the election to fill the vacancy referred to in the vacancy declaration is to be held on a date that falls outside the term of office of the Election Committee.
 
@@ -454,7 +470,7 @@ ELECTION COMMITTEE
 
     - (4) In compiling a provisional register of members of the Election Committee, the Electoral Registration Officer shall—
 
-      - (a) after scrutinizing the existing final register of members of the Election Committee, strike out the names and other relevant particulars of those persons (other than ex-officio members) whom the Electoral Registration Officer is satisfied on reasonable grounds, on the relevant date, as—
+      - (a) after scrutinizing the existing final register of members of the Election Committee, strike out the names and other relevant particulars of those persons (other than ex-officio members) whom the Electoral Registration Officer is satisfied on reasonable grounds as, on the date of the making of the relevant vacancy declaration— (Amended 10 of 2006 s. 31)
 
         - (i) being dead;
 
@@ -480,19 +496,11 @@ ELECTION COMMITTEE
 
     - (7) In this section—
 
-      - “existing final register of members of the Election Committee” (現有選舉委員會正式委員登記冊), in relation to—
-
-        - (a) the compilation of the provisional register of members of the Election Committee to be compiled and published not later than 30 November 2001, means the final register of members of the Election Committee that was in effect immediately before the commencement of section 65(b) of this Ordinance, under section 33(2) of the Legislative Council Ordinance (Cap. 542);
-
-        - (b) the compilation of a provisional register of members of the Election Committee to be compiled and published after the making of a vacancy declaration, means the final register of members of the Election Committee that is in effect under section 43 on the date of the making of the vacancy declaration;
-
-      - “relevant date” (有關日期), in relation to—
-
-        - (a) the compilation of the provisional register of members of the Election Committee to be compiled and published not later than 30 November 2001, means 1 November 2001;
-
-        - (b) the compilation of a provisional register of members of the Election Committee to be compiled and published after the making of a vacancy declaration, means the date of the making of the vacancy declaration;
+      - “existing final register of members of the Election Committee” (現有選舉委員會正式委員登記冊) means the final register of members of the Election Committee that is in effect under section 43 on the date of the making of the relevant vacancy declaration; (Replaced 10 of 2006 s. 31)
 
       - “vacancy declaration” (空缺宣布) means a declaration under section 5 of this Ordinance. (Replaced 25 of 2003 s. 56)
+
+  - (Amended 10 of 2006 s. 31)
 
   - 5. Supplementary nomination or subsector
 
@@ -866,7 +874,7 @@ ELECTION COMMITTEE
 
       - (2) The Electoral Registration Officer may amend a subsector provisional register or subsector final register so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
 
-      - (3) Subject to section 49, a subsector provisional register is to be based on the existing subsector final register.
+      - (3) A subsector provisional register is to be based on the existing subsector final register. (Amended 10 of 2006 s. 31)
 
       - (4) In compiling a subsector provisional register, the Electoral Registration Officer shall—
 
@@ -959,6 +967,46 @@ ELECTION COMMITTEE
       - (f) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
 
       - (g) is a member of the armed forces of the People’s Republic of China or any other country or territory.
+
+    - 18A. When a person is disqualified from being a candidate
+
+    - for 4 subsectors in the Fourth Sector
+
+      - (1) This section is without prejudice to section 18.
+
+      - (2) A person is disqualified from—
+
+        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 3 of Table 4 in section 2; or
+
+        - (b) being elected as a member of the Election Committee representing that subsector,
+
+      - if he is not a Hong Kong member of the National Committee of the Chinese People’s Political Consultative Conference.
+
+      - (3) A person is disqualified from—
+
+        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 4 of Table 4 in section 2; or
+
+        - (b) being elected as a member of the Election Committee representing that subsector,
+
+      - if he is not the Chairman or a Vice-Chairman of the Heung Yee Kuk or a Councillor of the Full Council of the Heung Yee Kuk.
+
+      - (4) A person is disqualified from—
+
+        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 5 of Table 4 in section 2; or
+
+        - (b) being elected as a member of the Election Committee representing that subsector,
+
+      - if he is not a member of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547).
+
+      - (5) A person is disqualified from—
+
+        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 6 of Table 4 in section 2; or
+
+        - (b) being elected as a member of the Election Committee representing that subsector,
+
+      - if he is not a member of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547).
+
+    - (Added 10 of 2006 s. 6)
 
     - 19. Candidate to lodge deposit
 
@@ -1236,17 +1284,27 @@ ELECTION COMMITTEE
 
       - (6) The determination of the Revising Officer on such an appeal is final.
 
-- PART 5 FINAL REGISTER OF MEMBERS OF ELECTION COMMITTEE
+- PART 5 INTERIM REGISTER AND FINAL REGISTER OF MEMBERS OF ELECTION COMMITTEE (Amended 10 of 2006 s. 21)
 
-  - 40. Electoral Registration Officer to compile
+  - 40.
 
-  - and publish final register
+  - Electoral Registration Officer to compile and
 
-    - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations a final register of members of the Election Committee within 7 days after the results of the subsector ordinary elections are published under section 35.
+  - publish interim register and final register
 
-    - (2) The Electoral Registration Officer shall also compile and publish in accordance with the EAC Regulations a final register of members of the Election Committee within 7 days after the result of a subsector by-election is published under section 35.
+  - (Amended 10 of 2006 s. 21)
+
+    - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations an interim register of members of the Election Committee within 7 days after the results of the subsector ordinary elections are published under section 35. (Amended 10 of 2006 s. 21)
+
+    - (2) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations a final register of members of the Election Committee within 7 days after the result of a subsector by-election is published under section 35. (Amended 10 of 2006 s. 21)
 
     - (3) The Electoral Registration Officer shall also compile and publish in accordance with the EAC Regulations a final register of members of the Election Committee within 7 days after a nominee under section 7(2) is declared as a member of the Election Committee under section 7, unless the period during which the nomination under section 7(2) is to be made and the nomination period for a subsector by-election coincide or partly coincide.
+
+    - (3A) The Electoral Registration Officer shall—
+
+      - (a) compile in accordance with the EAC Regulations a final register of members of the Election Committee on the basis of the interim register of members of the Election Committee, incorporating any amendment made under section 41 or 42; and
+
+      - (b) publish the final register in accordance with the EAC Regulations on the date on which the Election Committee is constituted. (Added 10 of 2006 s. 21)
 
     - (4) If—
 
@@ -1258,17 +1316,21 @@ ELECTION COMMITTEE
 
     - the Electoral Registration Officer shall, as soon as practicable after the Electoral Affairs Commission’s ascertainment, publish in accordance with the EAC Regulations the provisional register as a final register of members of the Election Committee.
 
-  - 41. Electoral Registration Officer to amend final register
+  - 41.
+
+  - Electoral Registration Officer to amend interim register or final register
 
   - to give effect to change in ex-officio membership
 
-    - (1) The Electoral Registration Officer may from time to time amend the final register of members of the Election Committee in accordance with this section and the EAC Regulations to give effect to any change in the ex-officio membership of the Election Committee.
+  - (Amended 10 of 2006 s. 21)
+
+    - (1) The Electoral Registration Officer may from time to time amend the interim register of members of the Election Committee or final register of members of the Election Committee in accordance with this section and the EAC Regulations to give effect to any change in the ex-officio membership of the Election Committee.
 
     - (2) If a person is registered as an ex-officio member of the Election Committee—
 
-      - (a) by virtue of being a person referred to in section 2(7)(c)(i), and subsequently that person ceases to be a Hong Kong deputy to the National People’s Congress, that person ceases to be an ex-officio member of the Election Committee and the Electoral Registration Officer shall, subject to subsection (3), remove that person’s name from the final register of members of the Election Committee; or
+      - (a) by virtue of being a person referred to in section 2(7)(c)(i), and subsequently that person ceases to be a Hong Kong deputy to the National People’s Congress, that person ceases to be an ex-officio member of the Election Committee and the Electoral Registration Officer shall, subject to subsection (3), remove that person’s name from the interim register of members of the Election Committee or final register of members of the Election Committee; or
 
-      - (b) by virtue of being a person referred to in section 2(7)(c)(ii), and subsequently that person ceases to be a Member of the Legislative Council, that person ceases to be an ex-officio member of the Election Committee and the Electoral Registration Officer shall, subject to subsection (3), remove that person’s name from the final register of members of the Election Committee.
+      - (b) by virtue of being a person referred to in section 2(7)(c)(ii), and subsequently that person ceases to be a Member of the Legislative Council, that person ceases to be an ex-officio member of the Election Committee and the Electoral Registration Officer shall, subject to subsection (3), remove that person’s name from the interim register of members of the Election Committee or final register of members of the Election Committee.
 
     - (3) The Electoral Registration Officer shall register as ex-officio members of the Election Committee—
 
@@ -1278,17 +1340,21 @@ ELECTION COMMITTEE
 
     - from time to time (except those persons who are not Hong Kong permanent residents) in accordance with the EAC Regulations.
 
-    - (4) If the Electoral Registration Officer adds names to or removes names from the final register of members of the Election Committee under this section, that Officer shall, as soon as practicable after the addition or removal, publish, in accordance with the EAC Regulations, a notice to the effect that names have been so added or removed.
+    - (4) If the Electoral Registration Officer adds names to or removes names from the interim register or final register of members of the Election Committee under this section, that Officer shall, as soon as practicable after the addition or removal, publish, in accordance with the EAC Regulations, a notice to the effect that names have been so added or removed.
+
+  - (Amended 10 of 2006 s. 21)
 
   - 42. Electoral Registration Officer may
 
   - amend register
 
-    - (1) The Electoral Registration Officer may amend a provisional or final register of members of the Election Committee so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
+    - (1) The Electoral Registration Officer may amend a provisional register, interim register or final register of members of the Election Committee so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
 
-    - (2) If a Revising Officer directs the Electoral Registration Officer to incorporate into the final register of members of the Election Committee the Revising Officer’s determination on an appeal under section 39 or 48, the Electoral Registration Officer shall also amend the register to effect the direction.
+    - (2) If a Revising Officer directs the Electoral Registration Officer to incorporate into the interim register of members of the Election Committee or final register of members of the Election Committee the Revising Officer’s determination on an appeal under section 39 or 48, the Electoral Registration Officer shall also amend the register to effect the direction.
 
-    - (3) If the Electoral Registration Officer amends the final register of members of the Election Committee under subsection (2), that Officer shall, as soon as practicable after the amendment, publish, in accordance with the EAC Regulations, a notice of the amendment.
+    - (3) If the Electoral Registration Officer amends the interim register of members of the Election Committee or final register of members of the Election Committee under subsection (2), that Officer shall, as soon as practicable after the amendment, publish, in accordance with the EAC Regulations, a notice of the amendment.
+
+  - (Amended 10 of 2006 s. 21)
 
   - 43. When final register is to take effect
 
@@ -1356,62 +1422,4 @@ ELECTION COMMITTEE
 
     - (4) At the hearing of the appeal, the appellant or any other person concerned in the appeal is entitled to appear in person and, whether or not the appellant appears in person, to be represented by a legal practitioner or any other person.
 
-  - 49. Savings and transitional provisions for
-
-  - first subsector provisional register
-
-    - (1) Subject to subsections (2), (3) and (4), the subsector provisional register to be compiled and published under section 14(1)(a) not later than 30 November 2001 is to be based on—
-
-      - (a) the final register of electors for functional constituencies that was published in 2001 under section 32(1) of the Legislative Council Ordinance (Cap. 542); and
-
-      - (b) the subsector final register of voters that was published in 2000 under section 10 of Schedule 2 to the Legislative Council Ordinance (Cap. 542) in force immediately before the commencement of section 73 of this Ordinance.
-
-    - (2) The register referred to in subsection (1)(a)—
-
-      - (a) for a functional constituency with the same name as a subsector (except the education functional constituency, the sports, performing arts, culture and publication functional constituency, the tourism functional constituency and the social welfare functional constituency) forms the basis of the subsector provisional register for that subsector;
-
-      - (b) for the education functional constituency, in so far as it relates to the names and other relevant particulars of the persons described—
-
-        - (i) in section 20E(a) and (b) of the Legislative Council Ordinance (Cap. 542), forms the basis of subsector provisional register for the higher education subsector; and
-
-        - (ii) in section 20E(c), (d), (e), (f) and (g) of the Legislative Council Ordinance (Cap. 542), forms the basis of subsector provisional register for the education subsector;
-
-      - (c) for the sports, performing arts, culture and publication functional constituency, in so far as it relates to the names and other relevant particulars of the persons described—
-
-        - (i) in section 20V(1)(a) and (b) of, and Part 1 of Schedule 1B and items 25, 29, 40, 41, 43, 50, 54 and 59 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542), forms the basis of subsector provisional register for the sports sub-subsector;
-
-        - (ii) in section 20V(1)(i) of, and items 1, 2, 3, 4, 5, 8, 9, 12, 16, 17, 18, 23, 24, 34, 39, 42, 44, 45, 46, 47, 49, 52, 55, 56, 57 and 60 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542), forms the basis of subsector provisional register for the performing arts sub-subsector;
-
-        - (iii) in section 20V(1)(d) and (e) of, and Part 2 of Schedule 1B and items 6, 7, 10, 11, 13, 14, 19, 20, 22, 26, 27, 31, 33, 35, 37, 38, 48, 53, 58, 61 and 62 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542), forms the basis of subsector provisional register for the culture sub-subsector; and
-
-        - (iv) in section 20V(1)(g), (h), (j) and (k) of, and items 15, 21, 28, 30, 32, 36 and 51 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542), forms the basis of subsector provisional register for the publication sub-subsector;
-
-      - (d) for the tourism functional constituency, in so far as it relates to the names and other relevant particulars of the persons described—
-
-        - (i) in section 20O(b) and (c) of the Legislative Council Ordinance (Cap. 542), forms the basis of subsector provisional register for the tourism subsector; and
-
-        - (ii) in section 20O(d) and (e) of the Legislative Council Ordinance (Cap. 542), forms the basis of subsector provisional register for the hotel subsector; and
-
-      - (e) for the District Council functional constituency, in so far as it relates to the names and other relevant particulars of the persons who are members of the District Councils specified—
-
-        - (i) in items 1 to 9 of Schedule 2 to the District Councils Ordinance (Cap. 547), forms the basis of subsector provisional register for the Hong Kong and Kowloon District Councils subsector; and
-
-        - (ii) in items 10 to 18 of Schedule 2 to the District Councils Ordinance (Cap. 547), forms the basis of subsector provisional register for the New Territories District Councils subsector.
-
-    - (3) The register referred to in subsection (1)(b)—
-
-      - (a) for the Chinese People’s Political Consultative Conference subsector forms the basis of the subsector provisional register for that subsector;
-
-      - (b) for the Hong Kong Chinese Enterprises Association subsector forms the basis of the subsector provisional register for that subsector;
-
-      - (c) for the Chinese medicine subsector forms the basis of the subsector provisional register for that subsector; and
-
-      - (d) for the Employers’ Federation of Hong Kong subsector forms the basis of the subsector provisional register for that subsector.
-
-    - (4) The registers referred to—
-
-      - (a) in subsection (1)(a) for the social welfare functional constituency; and
-
-      - (b) in subsection (1)(b) for the social welfare subsector, in so far as it relates to the names and other relevant particulars of the persons described in paragraphs (2), (3) and (4) of item 8 of Table 5 in section 2,
-
-    - form the basis of the subsector provisional register for the social welfare subsector.
+  - 49. (Repealed 10 of 2006 s. 31)

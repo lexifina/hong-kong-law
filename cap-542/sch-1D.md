@@ -6,7 +6,7 @@ COMPOSITION OF THE INFORMATION TECHNOLOGY FUNCTIONAL CONSTITUENCY
 
 - PART 1 Item Body
 
-  - 1. APT Satellite Co. Ltd.
+  - 1. APT Satellite Company Limited (Amended 10 of 2006 s. 42)
 
   - 2. Asia Satellite Telecommunications Company Limited.
 
@@ -18,7 +18,7 @@ Item | Body | Eligible persons
 
 2. | Information Systems Audit and Control Association (Hong Kong Chapter) Limited | Ordinary Members who are— (a) confirmed by the Association to have been holders of the Certified Information Systems Auditor Certification (CISA) during the relevant period; and (b) entitled to vote at general meetings of the Association.
 
-3. | Internet Professionals Association Limited | Members who are— (a) confirmed by the Association to have had experience in the information technology field, as specified in the constitution of the Association, during the relevant period; and (b) entitled to vote at general meetings of the Association.
+3. | Internet Professional Association Limited (Amended 10 of 2006 s. 42) | Members who are— (a) confirmed by the Association to have had experience in the information technology field, as specified in the constitution of the Association, during the relevant period; and (b) entitled to vote at general meetings of the Association.
 
 4. | Professional Information Security Association | Full Members who are— (a) confirmed by the Association to have been holders of the Certified Information Systems Security Professional Certification (CISSP) during the relevant period; and (b) entitled to vote at general meetings of the Association.
 

@@ -6,7 +6,7 @@ COMPOSITION OF THE WHOLESALE AND RETAIL FUNCTIONAL CONSTITUENCY
 
 Item Body
 
-- 1. The Anglo-Chinese Vegetable Wholesale Merchants Association Limited.
+- 1. Anglo-Chinese Vegetable Wholesale Merchants Association Limited. (Amended 10 of 2006 s. 45)
 
 - 2. Association of Better Business & Tourism Services. (Replaced 25 of 2003 s. 46)
 
@@ -22,7 +22,7 @@ Item Body
 
 - 8. Eastern District Fresh Fish Merchants’ Society.
 
-- 9. Federation of Hong Kong, Kowloon and New Territories Hawkers Associations.
+- 9. Federation of Hong Kong Kowloon New Territories Hawker Associations. (Amended 10 of 2006 s. 45)
 
 - 10. The Federation of Hong Kong Watch Trades and Industries Ltd.
 
@@ -32,7 +32,7 @@ Item Body
 
 - 13. Hong Kong and Kowloon Electrical Appliances Merchants Association Ltd.
 
-- 14. Hong Kong & Kowloon Electro-Plating Trade Merchants Association Ltd.
+- 14. Hong Kong Electro-Plating Merchants Association Limited. (Amended 10 of 2006 s. 45)
 
 - 15. Hong Kong & Kowloon European Dress Merchants Association.
 
@@ -56,17 +56,17 @@ Item Body
 
 - 25. The Hong Kong & Kowloon Provisions, Wine & Spirit Dealers’ Association.
 
-- 26. Hong Kong & Kowloon Rattan Ware Merchants Association (Wing-Hing-Tong).
+- 26. Hong Kong and Kowloon Rattan Ware Merchants Association (Wing-Hing-Tong). (Amended 10 of 2006 s. 45)
 
-- 27. The Hong Kong and Kowloon Rice Retailers’ General Association Ltd.
+- 27. (Repealed 10 of 2006 s. 48)
 
-- 28. Hong Kong and Kowloon Salt Merchants’ Association.
+- 28. The Hong Kong and Kowloon Salt Merchants’ Association. (Amended 10 of 2006 s. 45)
 
 - 29. Hong Kong & Kowloon Sauce & Preserved-Fruit Amalgamated Employers Association.
 
 - 30. Hong Kong & Kowloon Tea Trade Merchants Association Ltd.
 
-- 31. Hong Kong & Kowloon Timber Merchants Association.
+- 31. Hong Kong & Kowloon Timber Merchants Association Limited. (Amended 10 of 2006 s. 45)
 
 - 32. (Repealed 25 of 2003 s. 46)
 
@@ -82,7 +82,7 @@ Item Body
 
 - 38. Hong Kong Embroidery Merchants Association Limited.
 
-- 39. Hong Kong Flour Merchants’ Association.
+- 39. (Repealed 10 of 2006 s. 48)
 
 - 40. Hong Kong Flower Dealers & Workers Association.
 
@@ -110,7 +110,7 @@ Item Body
 
 - 52. Hong Kong Metal Merchants Association.
 
-- 53. The Hong Kong Oil Merchants Association Ltd.
+- 53. The Hong Kong Oil Merchants Association, Limited. (Amended 10 of 2006 s. 45)
 
 - 54. Hong Kong Paints & Pigments Merchants Association Ltd.
 
@@ -132,29 +132,29 @@ Item Body
 
 - 63. Hong Kong Rice Suppliers’ Association Limited. (Replaced 25 of 2003 s. 46)
 
-- 64. Hong Kong Retail Management Association Ltd.
+- 64. Hong Kong Retail Management Association Limited. (Amended 10 of 2006 s. 45)
 
 - 65. Hong Kong Silk Piece-Goods Merchants’ Association.
 
-- 66. Hong Kong Stamp and Coin Dealers Association Ltd.
+- 66. Hong Kong Stamp and Coin Dealers Association. (Amended 10 of 2006 s. 45)
 
 - 67. (Repealed 25 of 2003 s. 46)
 
-- 68. The Hong Kong Video Industry Association Ltd.
+- 68. Hong Kong Video Industry Association Limited. (Amended 10 of 2006 s. 45)
 
 - 69. Hong Kong Yee Yee Tong Chinese Medicine Merchants Association Ltd.
 
-- 70. The Hongkong & Kowloon General Merchandise Merchants’ Association.
+- 70. The Hong Kong & Kowloon General Merchandise Merchants’ Association Limited. (Amended 10 of 2006 s. 45)
 
 - 71. (Repealed 25 of 2003 s. 46)
 
 - 72. Hongkong Kowloon New Territories & Overseas Fish Wholesalers Association Limited.
 
-- 73. Industrial Chemical Merchants’ Association Ltd.
+- 73. The Industrial Chemical Merchants’ Association Limited. (Amended 10 of 2006 s. 45)
 
-- 74. The Kowloon Cheung Sha Wan Wholesale Vegetable Market (Importers) Recreation Club.
+- 74. Kowloon Cheung Sha Wan Wholesale Vegetable Market (Importers) Recreation Club. (Amended 10 of 2006 s. 45)
 
-- 75. Kowloon Fresh Fish Merchants Association.
+- 75. Kowloon Fresh Fish Merchants Association Limited. (Amended 10 of 2006 s. 45)
 
 - 76. Kowloon Fresh Meat Retailers’ Association Ltd.
 
@@ -166,7 +166,7 @@ Item Body
 
 - 80. The Merchants Association of First Wholesalers/Jobbery of Imported Fresh Fruits & Vegetables Limited.
 
-- 81. The Mongkok Vegetable Wholesale Merchants Association Company Ltd.
+- 81. Mongkok Vegetable Wholesale Merchants Association Company Limited. (Amended 10 of 2006 s. 45)
 
 - 82. The Motor Traders Association of Hong Kong.
 
@@ -178,11 +178,9 @@ Item Body
 
 - 86. The Rice Merchants’ Association of Hong Kong Limited.
 
-- 87. Shau Kei Wan Fishery Merchants Association.
+- 87. Shaukiwan Fishery Merchants Association. (Amended 10 of 2006 s. 45)
 
-- 88. Tobacco Institute of Hong Kong Ltd.
-
-- 89. Umbrella Dealers Association, Hong Kong and Kowloon.
+- 88-89. (Repealed 10 of 2006 s. 48)
 
 - 90. (Repealed 25 of 2003 s. 46)
 

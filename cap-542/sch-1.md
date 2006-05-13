@@ -6,7 +6,7 @@ COMPOSITION OF THE AGRICULTURE AND FISHERIES FUNCTIONAL CONSTITUENCY
 
 Item Body
 
-- 1. The Aberdeen Fishermen Friendship Association.
+- 1. Aberdeen Fishermen Friendship Association. (Amended 10 of 2006 s. 34)
 
 - 2. The Ap Lei Chau Fishermen’s Credit Co-operative Society, Unlimited.
 
@@ -36,7 +36,7 @@ Item Body
 
 - 15. Hong Kong & Kowloon Floating Fishermen Welfare Promotion Association.
 
-- 16. The Hong Kong Fisheries Development Association.
+- 16. Hong Kong Fisheries Development Association. (Amended 10 of 2006 s. 34)
 
 - 17. Hong Kong Fishermen’s Association.
 
@@ -46,13 +46,13 @@ Item Body
 
 - 20. Hong Kong Graziers Union.
 
-- 21. The Hong Kong Liner & Gillnetting Fisherman Association.
+- 21. Hong Kong Liner & Gill Netting Fisherman Association. (Amended 10 of 2006 s. 34)
 
 - 22. Hong Kong Livestock Industry Association.
 
 - 23. Hong Kong N.T. Fish Culture Association.
 
-- 24. Hong Kong N.T. Poultry-Culture (Geese & Ducks) Mutual Association.
+- 24. Hong Kong N.T. Poultry (Geese & Ducks) Mutual Association. (Amended 10 of 2006 s. 34)
 
 - 25. Hong Kong Netting, Cultivation and Fisherman Association.
 
@@ -104,7 +104,7 @@ Item Body
 
 - 49. Sai Kung Tai Wu Kok Fishermen’s Association.
 
-- 50. Sha Tau Kok Marine Fish Culture Association.
+- 50. The Sha Tau Kok Marine Fish Culture Association. (Amended 10 of 2006 s. 34)
 
 - 51. The Sha Tau Kok Small Long Liner and Gill Net Fishermen’s Credit Co-operative Society, Unlimited.
 
@@ -132,7 +132,7 @@ Item Body
 
 - 63. Tai Po Florists and Horticulturists Association.
 
-- 64. The Tai Po Ma Wo Village Pig Raising Co-operative Society, Ltd.
+- 64. (Repealed 10 of 2006 s. 46)
 
 - 65. The Tai Po Purse Seiner and Small Long Liner Fishermen’s Credit Co-operative Society, Unlimited.
 
@@ -148,15 +148,15 @@ Item Body
 
 - 71. The World Poultry Science Association, Hong Kong Branch.
 
-- 72. The Wu Kau Tang Village Agricultural Credit Co-operative Society, Limited.
+- 72. (Repealed 10 of 2006 s. 46)
 
-- 73. The Yuen Long Agriculture Productivity Association.
+- 73. Yuen Long Agriculture Productivity Association. (Amended 10 of 2006 s. 34)
 
 - 74. Yung Shue Au Marine Fish Culture Business Association.
 
 - 75. (Repealed 25 of 2003 s. 43)
 
-- 76. 青衣水陸居民聯誼會.
+- 76. Tsing Yi Residents Association. (Replaced 10 of 2006 s. 34)
 
 - 77. 荃灣葵青居民聯會(漁民組).
 

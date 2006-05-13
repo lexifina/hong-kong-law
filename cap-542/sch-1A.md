@@ -62,7 +62,7 @@ Item Body
 
 - 28. Happy Taxi Operator’s Association Ltd.
 
-- 29. HKS Parking Limited.
+- 29. (Repealed 10 of 2006 s. 47)
 
 - 30. Hoi Kong Container Services Co. Ltd.
 
@@ -122,7 +122,7 @@ Item Body
 
 - 58. The Hong Kong School of Motoring Ltd.
 
-- 59. The Hong Kong Sea Transport Association Ltd.
+- 59. Hong Kong Sea Transport and Logistics Association Limited. (Amended 10 of 2006 s. 43)
 
 - 60. The Hong Kong Shipowners Association Ltd.
 
@@ -130,7 +130,7 @@ Item Body
 
 - 62. Hong Kong Shipping Industry Institute.
 
-- 63. Hong Kong Shipping Staff Association.
+- 63. Hong Kong Logistics Management Staff Association. (Amended 10 of 2006 s. 43)
 
 - 64. Hong Kong Society of Articulated Vehicle Driving Instructors Ltd.
 
@@ -172,7 +172,7 @@ Item Body
 
 - 83. Kwik Park Limited.
 
-- 84. Lam Tin Wai Hoi Public Light Bus Merchants Association Ltd.
+- 84. Lam Tin Wai Hoi Public Light Bus Association. (Amended 10 of 2006 s. 43)
 
 - 85. Lantau Taxi Association.
 
@@ -186,7 +186,7 @@ Item Body
 
 - 90. Mack & Co. Carpark Management Limited.
 
-- 91. Marine Excursion Association.
+- 91. Marine Excursion Association Limited. (Amended 10 of 2006 s. 43)
 
 - 92. Maritime Affairs Research Association Ltd.
 
@@ -226,7 +226,7 @@ Item Body
 
 - 110. Organisation of Hong Kong Drivers.
 
-- 111. Ken On Concrete Co. Ltd. Concrete Lorry Owner-Drivers Association. (Replaced 25 of 2003 s. 44)
+- 111. (Repealed 10 of 2006 s. 47)
 
 - 112. Peak Tramways Co., Ltd.
 
@@ -248,7 +248,7 @@ Item Body
 
 - 121. Quadripartite Taxi Service Association Ltd.
 
-- 122. Rambo Taxi Owners Association Ltd.
+- 122. Abbo Taxi Owners’ Association Limited. (Amended 10 of 2006 s. 43)
 
 - 123. River Trade Terminal Co. Ltd.
 
@@ -258,7 +258,7 @@ Item Body
 
 - 126. Sai Kung Taxi Operators Association Ltd.
 
-- 127. Salvage Association (Hong Kong Office).
+- 127. (Repealed 10 of 2006 s. 47)
 
 - 128. CSX World Terminals Hong Kong Limited. (Replaced 25 of 2003 s. 44)
 
@@ -290,7 +290,7 @@ Item Body
 
 - 142. Tsuen Wan PLB Commercial Association Ltd.
 
-- 143. Tuen Mun PLB Association.
+- 143. Tuen Mun Public Light Bus Association. (Amended 10 of 2006 s. 43)
 
 - 144. Tung Yee Shipbuilding and Repairing Merchants General Association Limited. (Replaced 25 of 2003 s. 44)
 
@@ -324,9 +324,9 @@ Item Body
 
 - 159. Yik Sun Radiocabs Operators Association Ltd.
 
-- 160. Young Children School Mini-Buses Operators Association Ltd.
+- 160. School Buses Operators Association Limited. (Amended 10 of 2006 s. 43)
 
-- 161. Yuen Long Tai Po PLB Merchants Association Ltd.
+- 161. (Repealed 10 of 2006 s. 47)
 
 - 162. Rights of Taxi Owners and Drivers Association Limited. (Added 25 of 2003 s. 44)
 
@@ -386,7 +386,7 @@ Item Body
 
 - 190. International Association of Transport Officers. (Added 25 of 2003 s. 44)
 
-- 191. Helicopters Hong Kong Limited. (Added 25 of 2003 s. 44)
+- 191. Hong Kong Express Airways Limited. (Added 25 of 2003 s. 44. Amended 10 of 2006 s. 43)
 
 - 192. Hong Kong (Cross Border) Transportation Drivers’ Association. (Added 25 of 2003 s. 44)
 
