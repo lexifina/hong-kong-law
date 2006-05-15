@@ -70,12 +70,12 @@ Item | $
 
 (a) fee for registration as a registered rough diamond trader under Part VI of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) for a period of 2 years—
 
-(i) in the case of an initial registration . | 840
+(i) in the case of an initial registration . | 660
 
-(ii) in the case of a registered rough diamond trader renewing his registration . | 595
+(ii) in the case of a registered rough diamond trader renewing his registration . | 435
 
-(b) issue of import licence . | 175
+(b) issue of import licence . | 160
 
-(c) issue of export licence (L.N. 180 of 2002) . | 200
+(c) issue of export licence (L.N. 180 of 2002; L.N. 50 of 2006) . | 170
 
 (L.N. 258 of 1982; L.N. 189 of 1993; L.N. 259 of 1994; L.N. 203 of 1995; L.N. 202 of 1996; L.N. 245 of 1997)
