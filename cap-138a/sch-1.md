@@ -86,7 +86,7 @@ Gelsemium, alkaloids of, except substances containing less than 0.1% of the alka
 
 Morphine; its esters and ethers; except substances containing less than 0.2% of morphine calculated as anhydrous morphine
 
-Nicotine, except chewing gum intended to be used in nicotine replacement therapy which contains not more than 2 mg of Nicotine per piece
+Nicotine (except chewing gum and lozenges, intended to be used in nicotine replacement therapy and containing not more than 2 mg of Nicotine per piece)
 
 Pilocarpus, alkaloids of, except substances containing less than 0.5% of the alkaloids of pilocarpus
 
@@ -784,6 +784,8 @@ Etretinate
 
 Etryptamine; its salts
 
+Everolimus; its salts; its esters; their salts
+
 Exemestane; its salts
 
 Ezetimibe
@@ -1380,6 +1382,8 @@ Olmesartan; its salts; its esters; their salts
 
 Olsalazine; its salts
 
+Omalizumab
+
 Ondansetron; its salts
 
 Opipramol; its salts; its derivatives; their salts
@@ -1445,6 +1449,8 @@ Paroxetine; its salts
 Pefloxacin; its salts; its esters
 
 Pegaptanib; its salts
+
+Pegvisomant; its salts
 
 Pemetrexed; its salts; its esters; their salts
 
@@ -1740,6 +1746,8 @@ Sodium aurothiomalate
 
 Sodium nitroprusside
 
+Solifenacin; its salts; its esters; their salts
+
 Somatostatin
 
 Sotalol; its salts
@@ -2030,7 +2038,7 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.M. 122 of 2006)
 
 B
 
