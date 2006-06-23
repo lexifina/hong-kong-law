@@ -258,11 +258,9 @@ INTERPRETATION AND GENERAL PROVISIONS
 
     - “constitution” (章程), in relation to a corporation, including a recognized exchange company, recognized clearing house, recognized exchange controller or recognized investor compensation company, means—
 
-  - (a) where the corporation is a company, the memorandum and articles of the corporation; or
+      - (a) where the corporation is a company, the memorandum and articles of the corporation; or
 
-  - (b)
-
-  - in any other case, any other instrument providing for the constitution of the corporation;
+      - (b) in any other case, any other instrument providing for the constitution of the corporation;
 
     - “controlling entity” (控權實體), in relation to a corporation, means a person who, either alone or with any of his associates—
 
@@ -330,7 +328,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (b) whose name is entered in a list, roll or register kept by that recognized exchange company as a person who may trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company;
 
-    - “executive director” (執行董事), in relation to the Commission, means the chairman of the Commission, or any other person who is appointed as an executive director of the Commission under section 1 of Part 1 of Schedule 2 to this Ordinance;
+    - “executive director” (執行董事), in relation to the Commission, means the chief executive officer of the Commission or any other person who is appointed as an executive director of the Commission under section 1 of Part 1 of Schedule 2 to this Ordinance (whether or not acting in any other capacity under that Part); (Amended 15 of 2006 s. 5)
 
     - “executive officer” (主管人員)—
 
@@ -466,7 +464,11 @@ INTERPRETATION AND GENERAL PROVISIONS
 
     - “Market Misconduct Tribunal” (市場失當行為審裁處) means the Market Misconduct Tribunal established by section 251 of this Ordinance;
 
-    - “member” (成員), in relation to the Commission, means any executive director (whether or not acting as the chairman or deputy chairman) or non-executive director of the Commission;
+    - “member” (成員), in relation to the Commission, means— (Amended 15 of 2006 s. 5)
+
+      - (a) the chairman of the Commission; or
+
+      - (b) the chief executive officer or any other executive director or non-executive director of the Commission (whether or not acting in any other capacity under Part 1 of Schedule 2 to this Ordinance); (Amended 15 of 2006 s. 5)
 
     - “memorandum” (章程大綱), in relation to a company, means its memorandum as defined in section 2(1) of the Companies Ordinance (Cap. 32);
 
@@ -486,7 +488,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
     - “multilateral agency” (多邊機構) means a body specified in Part 4;
 
-    - “non-executive director” (非執行董事), in relation to the Commission, means a person who is appointed as a non-executive director of the Commission under section 1 of Part 1 of Schedule 2 to this Ordinance;
+    - “non-executive director” (非執行董事), in relation to the Commission, means a person who is appointed as a non-executive director of the Commission under section 1 of Part 1 of Schedule 2 to this Ordinance (whether or not acting in any other capacity under that Part); (Amended 15 of 2006 s. 5)
 
     - “number” (數目), in relation to shares which in the context can be construed to include stock, includes amount;
 

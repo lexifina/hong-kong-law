@@ -4,25 +4,25 @@
 
 SECURITIES AND FUTURES COMMISSION
 
-- PART 1 CONSTITUTION AND PROCEEDINGS OF COMMISSION, ETC. Chairman and other members of Commission
+- PART 1 CONSTITUTION AND PROCEEDINGS OF COMMISSION, ETC. Chairman, chief executive officer and other members of Commission (Amended 15 of 2006 s. 6)
 
-  - 1. The Commission shall consist of a chairman and such number of executive directors and non-executive directors as is determined by the Chief Executive, all of whom shall be appointed by the Chief Executive as follows—
+  - 1. The Commission shall consist of a chairman, a chief executive officer and such number of other executive directors and non-executive directors as is determined by the Chief Executive, all of whom shall be appointed by the Chief Executive as follows— (Amended 15 of 2006 s. 6)
 
     - (a) the number of members of the Commission shall not be less than 8; and
 
-    - (b) the majority of the members of the Commission shall be non-executive directors of the Commission.
+    - (b) the number of non-executive directors of the Commission shall exceed the number of executive directors of the Commission. (Replaced 15 of 2006 s. 6)
 
-  - 2. The chairman of the Commission shall, by virtue of holding that office, be regarded as an executive director of the Commission.
+  - 2. (Repealed 15 of 2006 s. 6)
 
   - 3. When the membership of the Commission ceases to comply with the requirements of section 1, the Chief Executive shall as soon as reasonably practicable thereafter make the necessary appointment to ensure that the requirements are complied with.
 
 - Deputy chairman and vacancies in office of chairman or deputy chairman
 
-  - 4. The Chief Executive may appoint an executive director of the Commission to be the deputy chairman of the Commission.
+  - 4. The Chief Executive may appoint an executive director or non-executive director of the Commission to be the deputy chairman of the Commission. (Amended 15 of 2006 s. 6)
 
   - 5. If the office of chairman of the Commission is vacant or the chairman of the Commission is unable to act as chairman due to illness, absence from Hong Kong or any other cause, the deputy chairman appointed under section 4 shall act as chairman in his place.
 
-  - 6. Notwithstanding that a deputy chairman has been appointed under section 4, the chairman of the Commission may, where there is no designation under section 7, designate an executive director of the Commission to act as chairman of the Commission for any period during which both he and the deputy chairman are unable to act as chairman due to illness, absence from Hong Kong or any other cause, and may at any time revoke any such designation.
+  - 6. Notwithstanding that a deputy chairman has been appointed under section 4, the chairman of the Commission may, where there is no designation under section 7, designate an executive director or non-executive director of the Commission to act as chairman of the Commission for any period during which both he and the deputy chairman are unable to act as chairman due to illness, absence from Hong Kong or any other cause, and may at any time revoke any such designation. (Amended 15 of 2006 s. 6)
 
   - 7. If—
 
@@ -30,7 +30,7 @@ SECURITIES AND FUTURES COMMISSION
 
     - (b) the deputy chairman appointed under section 4 is unable to act as chairman due to illness, absence from Hong Kong or any other cause, and there is no designation under section 6,
 
-  - the Financial Secretary may designate an executive director of the Commission to act as chairman of the Commission for any period during which the chairman of the Commission is unable to act as chairman due to illness, absence from Hong Kong or any other cause.
+  - the Financial Secretary may designate an executive director or non-executive director of the Commission to act as chairman of the Commission for any period during which the chairman of the Commission is unable to act as chairman due to illness, absence from Hong Kong or any other cause. (Amended 15 of 2006 s. 6)
 
   - 8. A designation under section 7 ceases to have effect when—
 
@@ -42,21 +42,35 @@ SECURITIES AND FUTURES COMMISSION
 
   - whichever is the earlier.
 
-  - 9. A deputy chairman or an executive director of the Commission who acts as chairman of the Commission under section 5 or in accordance with a designation under section 6 or 7 shall be deemed for all purposes to be the chairman of the Commission.
+  - 9. A deputy chairman of the Commission who acts as chairman of the Commission under section 5, or an executive director or non-executive director of the Commission who acts as chairman of the Commission in accordance with a designation under section 6 or 7, shall be deemed for all purposes to be the chairman of the Commission. (Replaced 15 of 2006 s. 6)
 
-- Office of members, etc.
+  - 9A. Notwithstanding section 9—
 
-  - 10. The terms and conditions of the office of a member of the Commission (whether as the chairman, deputy chairman or otherwise) shall be determined by the Chief Executive.
+    - (a) an executive director of the Commission shall not cease to be regarded as such only because of his acting as chairman of the Commission; and
 
-  - 11. A member of the Commission (whether as the chairman, deputy chairman or otherwise) may at any time resign his office by notice in writing to the Chief Executive.
+    - (b) a non-executive director of the Commission shall not cease to be regarded as such only because of his acting as chairman of the Commission. (Added 15 of 2006 s. 6)
 
-  - 12. A member of the Commission (whether as the chairman, deputy chairman or otherwise) shall be paid by the Commission such remuneration, allowances or expenses as the Chief Executive may determine.
+  - Vacancy in office of chief executive officer (Added 15 of 2006 s. 6)
 
-  - 13. The Chief Executive may by notice in writing remove from office any member of the Commission (whether as the chairman, deputy chairman or otherwise) whose removal appears to him to be desirable for the effective performance by the Commission of its functions.
+  - 9B. The Chief Executive may designate an executive director of the Commission to act as chief executive officer of the Commission for any period during which the chief executive officer of the Commission is unable to act as chief executive officer due to illness, absence from Hong Kong or any other cause, and may at any time revoke any such designation. (Added 15 of 2006 s. 6)
+
+  - 9C. An executive director of the Commission who acts as chief executive officer of the Commission shall be deemed for all purposes to be the chief executive officer of the Commission. (Added 15 of 2006 s. 6)
+
+- Functions and office of members, etc. (Amended 15 of 2006 s. 6)
+
+  - 9D. Subject to the other provisions of this Ordinance, the chairman, deputy chairman and chief executive officer of the Commission shall have such functions as are assigned to them by the Commission. (Added 15 of 2006 s. 6)
+
+  - 10. The terms and conditions of the office of a member of the Commission (whether as the chairman, deputy chairman, chief executive officer or otherwise) shall be determined by the Chief Executive. (Amended 15 of 2006 s. 6)
+
+  - 11. A member of the Commission (whether as the chairman, deputy chairman, chief executive officer or otherwise) may at any time resign his office by notice in writing to the Chief Executive. (Amended 15 of 2006 s. 6)
+
+  - 12. A member of the Commission (whether as the chairman, deputy chairman, chief executive officer or otherwise) shall be paid by the Commission such remuneration, allowances or expenses as the Chief Executive may determine. (Amended 15 of 2006 s. 6)
+
+  - 13. The Chief Executive may by notice in writing remove from office any member of the Commission (whether as the chairman, deputy chairman, chief executive officer or otherwise) whose removal appears to him to be desirable for the effective performance by the Commission of its functions. (Amended 15 of 2006 s. 6)
 
 - Meetings
 
-  - 14. Meetings of the Commission shall be held as often as may be necessary for the performance of its functions, and may be convened by the chairman or the deputy chairman, or any 2 other members, of the Commission.
+  - 14. Meetings of the Commission shall be held as often as may be necessary for the performance of its functions, and may be convened by the chairman, deputy chairman, chief executive officer, or any 2 other members, of the Commission. (Amended 15 of 2006 s. 6)
 
   - 15. At a meeting of the Commission—
 
@@ -67,6 +81,16 @@ SECURITIES AND FUTURES COMMISSION
     - (c) if neither the chairman nor the deputy chairman of the Commission is present, the members of the Commission present shall choose one of their number to be the chairman of the meeting.
 
   - 16. The quorum for a meeting of the Commission is not less than one third of the executive directors of the Commission and not less than one third of the non-executive directors of the Commission.
+
+  - 16A. For the purpose of forming a quorum under section 16—
+
+    - (a) subject to paragraph (b), the chairman of the Commission shall be counted as a non-executive director of the Commission; and
+
+    - (b) notwithstanding sections 9 and 9A—
+
+      - (i) an executive director of the Commission who acts as chairman of the Commission shall only be counted as an executive director of the Commission; and
+
+      - (ii) a non-executive director of the Commission who acts as chairman of the Commission shall only be counted as a non-executive director of the Commission. (Added 15 of 2006 s. 6)
 
   - 17. A member of the Commission shall be regarded as being present at a meeting of the Commission if he participates in the meeting by telephone, video conferencing or other electronic means, provided he is able to hear the other members present at the meeting and they are able to hear him.
 
@@ -116,13 +140,17 @@ SECURITIES AND FUTURES COMMISSION
 
     - (a) the chairman of the Commission;
 
+    - (aa) the chief executive officer of the Commission; (Added 15 of 2006 s. 6)
+
     - (b) not more than 2 other executive directors of the Commission who shall be appointed by the Commission;
 
     - (c) not less than 8 (but not more than 12) other members who shall be appointed by the Chief Executive after consultation with the Commission.
 
   - 28. A meeting of the Advisory Committee may be convened by—
 
-    - (a) the chairman of the Commission; or
+    - (a) the chairman of the Commission; (Amended 15 of 2006 s. 6)
+
+    - (aa) the chief executive officer of the Commission; or (Added 15 of 2006 s. 6)
 
     - (b) any 3 other members of the Advisory Committee.
 
