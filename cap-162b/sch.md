@@ -14,6 +14,6 @@ Item | Particular | Fee $
 
 4. | Entrance fee for examination | 1425
 
-5. | Verbatim record of proceedings of an inquiry for each folio of 72 words or part thereof | 73
+5. | Verbatim record of proceedings of an inquiry for each folio of 72 words or part thereof | 43
 
-(L.N. 316 of 2000; 9 of 2002 s. 3)
+(L.N. 316 of 2000; 9 of 2002 s. 3; L.N. 84 of 2006)
