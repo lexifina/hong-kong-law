@@ -8,27 +8,27 @@ FEES
 
 Item | Relevant section of the Ordinance | Description | Amount $
 
-1. | 115(3) | Issue of a wholesaler licence in Chinese herbal medicines | 1,100
+1. | 115(3) | Issue of a wholesaler licence in Chinese herbal medicines | 1,210
 
-2. | 114(3) | Issue of a retailer licence in Chinese herbal medicines | 995
+2. | 114(3) | Issue of a retailer licence in Chinese herbal medicines | 1,090
 
-3. | 135(2) | Issue of a wholesaler licence in proprietary Chinese medicines | 1,100
+3. | 135(2) | Issue of a wholesaler licence in proprietary Chinese medicines | 1,210
 
-4. | 132(2) | Issue of a manufacturer licence in proprietary Chinese medicines | 2,890
+4. | 132(2) | Issue of a manufacturer licence in proprietary Chinese medicines | 3,180
 
-5. | 116(3) | Renewal of a wholesaler licence in Chinese herbal medicines | 955
+5. | 116(3) | Renewal of a wholesaler licence in Chinese herbal medicines | 1,050
 
-6. | 136(3) | Renewal of a wholesaler licence in proprietary Chinese medicines | 955
+6. | 136(3) | Renewal of a wholesaler licence in proprietary Chinese medicines | 1,050
 
-7. | 116(3) | Renewal of a retailer licence in Chinese herbal medicines | 850
+7. | 116(3) | Renewal of a retailer licence in Chinese herbal medicines | 935
 
-8. | 136(3) | Renewal of a manufacturer licence in proprietary Chinese medicines | 2,440
+8. | 136(3) | Renewal of a manufacturer licence in proprietary Chinese medicines | 2,680
 
-9. | 117, 127, 137 | Issue of a certified copy of a licence or certificate | 140
+9. | 117, 127, 137 | Issue of a certified copy of a licence or certificate | 130
 
-10. | 145(1) | Change of the address of the premises specified in a licence | 700
+10. | 145(1) | Change of the address of the premises specified in a licence | 805
 
-11. | 133 | Issue of a certificate for manufacturer (Good practices in manufacture) | 26,650
+11. | 133 | Issue of a certificate for manufacturer (Good practices in manufacture) | 29,300
 
 12. | 121(1) | (a) Application for the registration of a proprietary Chinese medicine with single active ingredient (b) Application for the registration of a proprietary Chinese medicine with multiple active ingredients | 500 1,000
 
@@ -43,3 +43,5 @@ Item | Relevant section of the Ordinance | Description | Amount $
 17. | 124(1) | Application for variation of registered particulars of a registered proprietary Chinese medicine | 1,790
 
 18. | 130(2) | Issue of a certificate of sale of a proprietary Chinese medicine | 270
+
+(L.N. 94 of 2006)
