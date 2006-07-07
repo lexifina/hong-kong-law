@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[ss. 2 & 24]
+[ss. 2(1), 7(1) & 24] (Amended L.N. 168 of 2006)
 
 ORGANIZATIONS TO WHICH THIS ORDINANCE APPLIES
 
@@ -29,8 +29,6 @@ Census and Statistics Department.
 Civil Aviation Department.
 
 Civil Engineering and Development Department. (Replaced L.N. 183 of 1992. Amended L.N. 104 of 2004)
-
-Civil Service Training and Development Institute. (Added L.N. 155 of 1996)
 
 Companies Registry. (Added 8 of 1993 s. 28)
 
@@ -80,19 +78,17 @@ Hong Kong Housing Society. (Added L.N. 155 of 1996)
 
 Hong Kong Monetary Authority. (Added L.N. 97 of 1993)
 
+Hong Kong Observatory. (Amended 25 of 1998 s. 2; L.N. 168 of 2006)
+
 Hong Kong Sports Institute Limited. (Added L.N. 5 of 2005)
 
 Hospital Authority. (Added L.N. 420 of 1991)
-
-Hospital Services Department. (Added L.N. 414 of 1989)
 
 Housing Department.
 
 Immigration Department.
 
 Information Services Department.
-
-Information Technology Services Department. (Added L.N. 373 of 1989)
 
 Inland Revenue Department.
 
@@ -116,17 +112,11 @@ Legislative Council Secretariat. (Replaced 14 of 1994 s. 24)
 
 Leisure and Cultural Services Department. (Added 78 of 1999 s. 7)
 
-Management Services Agency. (Added L.N. 383 of 1993)
-
 Mandatory Provident Fund Schemes Authority. (Added L.N. 139 of 1999)
 
 Marine Department.
 
-Observatory. (Amended 25 of 1998 s. 2)
-
 Office of the Telecommunications Authority. (Added L.N. 242 of 1993)
-
-Official Languages Agency. (Added L.N. 155 of 1996)
 
 Official Receiver’s Office. (Added L.N. 183 of 1992)
 
@@ -142,13 +132,11 @@ Rating and Valuation Department.
 
 Registration and Electoral Office. (Added L.N. 251 of 1994)
 
-Registry of Trade Unions.
-
 Securities and Futures Commission. (Added 44 of 1994 s. 17)
 
 Social Welfare Department.
 
-Technical Education and Industrial Training Department.
+Student Financial Assistance Agency. (Added L.N. 168 of 2006)
 
 Television and Entertainment Licensing Authority.
 
@@ -168,7 +156,7 @@ Vocational Training Council. (Added L.N. 155 of 1996)
 
 Water Supplies Department.
 
-(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28; L.N. 164 of 2003; L.N. 104 of 2004; 11 of 2004 s. 18)
+(Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28; L.N. 164 of 2003; L.N. 104 of 2004; 11 of 2004 s. 18; L.N. 168 of 2006)
 
 - PART II Independent Commission Against Corruption. Hong Kong Auxiliary Police Force. (Amended 25 of 1998 s. 2) Hong Kong Police Force. (Amended 25 of 1998 s. 2) Secretariat of the Independent Police Complaints Council. Secretariat of the Public Service Commission. (Part II added 74 of 1996 s. 9)
 
