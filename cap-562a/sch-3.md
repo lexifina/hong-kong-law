@@ -10,7 +10,7 @@ ANNUAL LICENCE FEES FOR TYPE A AND TYPE B NON-DOMESTIC TELEVISION PROGRAMME SERV
 
   - “type B non-domestic television programme service” (乙類非本地電視節目服務) means a non-domestic television programme service mentioned in paragraph (a)(i)(B) of the definition of “non-domestic television programme service” in section 2(1) of the Ordinance.
 
-- 2. Annual licence fee: type A non-domestic television programme service licence The annual licence fee payable for a type A non-domestic television programme service licence is $56,600.
+- 2. Annual licence fee: type A non-domestic television programme service licence The annual licence fee payable for a type A non-domestic television programme service licence is $56,400. (L.N. 98 of 2006)
 
 - 3.
 
@@ -18,7 +18,7 @@ ANNUAL LICENCE FEES FOR TYPE A AND TYPE B NON-DOMESTIC TELEVISION PROGRAMME SERV
 
 - television programme service licence The annual licence fee payable for a type B non-domestic television programme service licence consists of the following—
 
-  - (a) a fixed fee of $69,600; and
+  - (a) a fixed fee of $74,000; and (L.N. 98 of 2006)
 
   - (b) a variable fee calculated by multiplying $4 with the number of subscribers (if any) to the television programme service provided under the licence—
 

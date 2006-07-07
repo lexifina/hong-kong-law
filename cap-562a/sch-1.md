@@ -22,9 +22,9 @@ ANNUAL LICENCE FEE FOR DOMESTIC FREE TELEVISION PROGRAMME SERVICE LICENCE OR DEE
 
   - (1) Subject to subsection (2), the annual licence fee payable for a licence consists of the following—
 
-    - (a) a fixed fee of $3,811,000; and
+    - (a) a fixed fee of $4,308,900; and (L.N. 98 of 2006)
 
-    - (b) a variable fee calculated by multiplying $1,566,000 with the number of television programme service channels (if any) provided under the licence—
+    - (b) a variable fee calculated by multiplying $1,421,600 with the number of television programme service channels (if any) provided under the licence— (L.N. 98 of 2006)
 
       - (i) for the first annual licence fee, on the specified day; and
 

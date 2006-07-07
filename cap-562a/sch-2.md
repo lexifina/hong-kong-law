@@ -22,7 +22,7 @@ ANNUAL LICENCE FEE FOR DOMESTIC PAY TELEVISION PROGRAMME SERVICE LICENCE OR DEEM
 
   - (1) Subject to subsection (2), the annual licence fee payable for a licence consists of the following—
 
-    - (a) a fixed fee of $1,371,000; and
+    - (a) a fixed fee of $1,533,000; and (L.N. 98 of 2006)
 
     - (b) a variable fee calculated by multiplying $4 with the number of subscribers (if any) to the television programme service provided under the licence—
 
