@@ -1,472 +1,486 @@
 # SCHEDULE 1 STRATEGIC COMMODITIES
 
-MUNITIONS LIST
-
 Notes:
 
 - 1. Terms in “quotations” are defined terms. Refer to ‘Definitions of Terms’ annexed to these Lists.
 
-- 2. Chemicals are listed by name and CAS number. Chemicals of the same structural formula (including hydrates) are controlled regardless of name or CAS number. CAS numbers are shown to assist in identifying whether a particular chemical or mixture is controlled, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers. (L.N. 65 of 2004) (L.N. 132 of 2001)
+- 2.
 
-GENERAL TECHNOLOGY NOTE (for the Munitions List)
+- Chemicals are listed by name and CAS number. Chemicals of the same structural formula (including hydrates) are controlled regardless of name or CAS number. CAS numbers are shown to assist in identifying whether a particular chemical or mixture is controlled, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers. (L.N. 65 of 2004)
 
-- 1. The export of “technology” which is “required” for the “development”, “production” or “use” of items controlled in the Munitions List is controlled according to the provisions in the Munitions List entries. This “technology” remains under control even when applicable to any uncontrolled item.
+- (L.N. 132 of 2001)
 
-- 2. Controls do not apply to that “technology” which is the minimum necessary for the installation, operation, maintenance (checking) and repair of those items which are not controlled or whose export has been authorized.
+- MUNITIONS LIST
 
-- 3. Controls do not apply to “technology” “in the public domain”, to “basic scientific research” or to the minimum necessary information for patent applications. ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automatic weapons with a calibre of 12.7 mm (calibre 0.50 inches) or less and accessories, as follows, and specially designed components therefor: (L.N. 65 of 2004)
+- (L.N. 95 of 2006)
 
-  - (a)
+ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automatic weapons with a calibre of 12.7 mm (calibre 0.50 inches) or less and accessories, as follows, and specially designed components therefor: (L.N. 65 of 2004)
 
-  - Rifles, carbines, revolvers, pistols, machine pistols and machine guns;
+- (a)
 
-  - Note:
+- Rifles, carbines, revolvers, pistols, machine pistols and machine guns;
 
-  - ML1(a) does not control the following:
+- Note:
 
-    - (1) Muskets, rifles and carbines manufactured earlier than 1938;
+- ML1(a) does not control the following:
 
-    - (2) Reproductions of muskets, rifles and carbines the originals of which were manufactured earlier than 1890;
+  - (1) Muskets, rifles and carbines manufactured earlier than 1938;
 
-    - (3) Revolvers, pistols and machine guns manufactured earlier than 1890, and their reproductions;
+  - (2) Reproductions of muskets, rifles and carbines the originals of which were manufactured earlier than 1890;
 
-  - (b) Smooth-bore weapons, as follows:
+  - (3) Revolvers, pistols and machine guns manufactured earlier than 1890, and their reproductions;
 
-    - (1) Smooth-bore weapons specially designed for military use;
+- (b) Smooth-bore weapons, as follows:
 
-    - (2) Other smooth-bore weapons, as follows:
+  - (1) Smooth-bore weapons specially designed for military use;
 
-      - (a) Of the fully automatic type;
+  - (2) Other smooth-bore weapons, as follows:
 
-      - (b) Of the semi-automatic or pump-action type; (L.N. 65 of 2004)
+    - (a) Of the fully automatic type;
 
-  - (c) Weapons using caseless ammunition;
+    - (b) Of the semi-automatic or pump-action type; (L.N. 65 of 2004)
 
-  - (d) Silencers, special gun-mountings, clips, weapons sights and flash suppressers for arms controlled by sub-item ML1(a), ML1(b) or ML1(c); (L.N. 132 of 2001)
+- (c) Weapons using caseless ammunition;
 
-  - Notes:
-
-  - 1. ML1 does not control smooth-bore weapons used for hunting or sporting purposes. These weapons must not be specially designed for military use or of the fully automatic firing type.
-
-  - 2. ML1 does not control firearms specially designed for dummy ammunition and which are incapable of firing any controlled ammunition.
-
-  - 3. ML1 does not control weapons using non-centre fire cased ammunition and which are not of the fully automatic firing type.
-
-- (L.N. 65 of 2004)
-
-  - ML2 Smooth-bore weapons with a calibre of 20 mm or more, other weapons or armament with a calibre greater than 12.7 mm (calibre 0.50 inches), projectors and accessories, as follows, and specially designed components therefor: (L.N. 65 of 2004)
-
-    - (a) Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, recoilless rifles and signature reduction devices therefor; Note:
-
-  - ML2(a) includes injectors, metering devices, storage tanks and other specially designed components for use with liquid propelling charges for any of the equipment controlled by ML2(a).
-
-    - (b) Military smoke, gas and pyrotechnic projectors or generators; Note:
-
-    - ML2(b) does not control signal pistols.
-
-    - (c) Weapons sights; (L.N. 132 of 2001) ML3 Ammunition and fuze setting devices, as follows, and specially designed components therefor:
-
-    - (a) Ammunition for the weapons controlled by ML1, ML2 or ML12;
-
-    - (b) Fuze setting devices specially designed for ammunition controlled by ML3(a); (L.N. 65 of 2004)
-
-    - Notes:
-
-  - 1. Specially designed components include:
-
-    - (a) Metal or plastic fabrications such as primer anvils, bullet cups, cartridge links, rotating bands and munitions metal parts;
-
-    - (b) Safing and arming devices, fuses, sensors and initiation devices;
-
-    - (c) Power supplies with high one-time operational output;
-
-    - (d) Combustible cases for charges;
-
-    - (e) Submunitions including bomblets, minelets and terminally guided projectiles.
-
-  - 2. ML3(a) does not control ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber. (L.N. 65 of 2004)
-
-  - 3. ML3(a) does not control cartridges specially designed for any of the following purposes: (L.N. 65 of 2004)
-
-    - (a) Signalling;
-
-    - (b) Bird scaring; or
-
-    - (c) Lighting of gas flares at oil wells. (L.N. 132 of 2001)
-
-  - ML4 Bombs, torpedoes, rockets, missiles, other explosive devices and charges and related equipment and accessories, as follows, specially designed for military use, and specially designed components therefor: (L.N. 65 of 2004)
-
-  - N.B.:
-
-  - For guidance and navigation equipment, see Note (g) to ML11. (L.N. 65 of 2004)
-
-  - (a)
-
-  - Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition-charges, demolition-devices and demolition-kits, “pyrotechnic” devices, cartridges and simulators (i.e. equipment simulating the characteristics of any of these items); (L.N. 132 of 2001; L.N. 65 of 2004)
-
-  - Note:
-
-  - ML4(a) includes:
-
-    - (1) Smoke grenades, fire bombs, incendiary bombs and explosive devices;
-
-    - (2) Missile rocket nozzles and re-entry vehicle nosetips.
-
-  - (b)
-
-  - Equipment specially designed for the handling, control, activation, powering with one-time operational output, launching, laying, sweeping, discharging, decoying, jamming, detonation or detection of items controlled by ML4(a);
-
-  - Note:
-
-  - ML4(b) includes:
-
-    - (1) Mobile gas liquefying equipment capable of producing 1000 kg or more per day of gas in liquid form;
-
-    - (2) Buoyant electric conducting cable suitable for sweeping magnetic mines.
-
-    - Technical Note: Hand-held devices, limited by design solely to the detection of metal objects and incapable of distinguishing between mines and other metal objects, are not considered to be specially designed for the detection of items controlled by ML4(a). (L.N. 132 of 2001) ML5 Fire control, and related alerting and warning equipment, and related systems, test and alignment and countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor: (L.N. 132 of 2001)
-
-  - (a) Weapon sights, bombing computers, gun laying equipment and weapon control systems;
-
-  - (b) Target acquisition, designation, range-finding, surveillance or tracking systems; detection, data fusion, recognition or identification equipment; and sensor integration equipment;
-
-  - (c) Countermeasure equipment for items controlled by ML5(a) and ML5(b);
-
-  - (d) Field test or alignment equipment, specially designed for items controlled by ML5(a) or ML5(b); (L.N. 132 of 2001) ML6 Ground vehicles and components, as follows: N.B.:
-
-  - For guidance and navigation equipment, see Note (g) to ML11.
-
-  - (a) Ground vehicles and components therefor, specially designed or modified for military use; Technical Note:
-
-  - For the purposes of ML6(a), the term ground vehicles includes trailers.
-
-  - (b) All wheel-drive vehicles capable of off-road use which have been manufactured or fitted with materials to provide ballistic protection to level III (NIJ 0108.01, September 1985, or comparable national standard) or better;
-
-  - N.B.:
-
-  - See also ML13(a). (L.N. 65 of 2004)
-
-  - Notes:
-
-  - 1. ML6(a) includes: (L.N. 65 of 2004)
-
-    - (a) Tanks and other military armed vehicles and military vehicles fitted with mountings for arms or equipment for mine laying or the launching of munitions controlled under ML4;
-
-    - (b) Armoured vehicles;
-
-    - (c) Amphibious and deep water fording vehicles;
-
-    - (d) Recovery vehicles and vehicles for towing or transporting ammunition or weapon systems and associated load handling equipment.
-
-  - 2. Modification of a ground vehicle for military use controlled by ML6(a) entails a structural, electrical or mechanical change involving one or more specially designed military components. Such components include: (L.N. 65 of 2004)
-
-    - (a) Pneumatic tyre casings of a kind specially designed to be bullet-proof or to run when deflated;
-
-    - (b) Tyre inflation pressure control systems, operated from inside a moving vehicle;
-
-    - (c) Armoured protection of vital parts, (e.g. fuel tanks or vehicle cabs);
-
-    - (d) Special reinforcements or mountings for weapons; (L.N. 65 of 2004)
-
-    - (e) Black-out lighting. (L.N. 65 of 2004)
-
-  - 3. ML6 does not control civil automobiles, or trucks designed or modified for transporting money or valuables, having armoured or ballistic protection. (L.N. 65 of 2004) ML7 Chemical or biological toxic agents, “tear gases”, radioactive materials, related equipment, components, materials and “technology”, as follows:
-
-  - (a)
-
-  - Biological agents and radioactive materials “adapted for use in war” to produce casualties in humans or animals, degrade equipment or damage crops or the environment, and chemical warfare (CW) agents;
-
-  - Note:
-
-  - ML7(a) includes the following:
-
-    - 1. CW nerve agents:
-
-      - (a) O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-phosphonofluoridates, such as: Sarin (GB):O-Isopropyl methylphosphonofluoridate (CAS 107-44-8); and Soman (GD):O-Pinacolyl methylphosphonofluoridate (CAS 96-64-0);
-
-      - (b) O-Alkyl (equal to or less than C10, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, such as: Tabun (GA):O-Ethyl N,N-dimethylphosphoramidocyanidate (CAS 77-81-6);
-
-      - (c) O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, such as: VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9);
-
-    - 2. CW vesicant agents:
-
-      - (a) Sulphur mustards, such as:
-
-    - 2-Chloroethylchloromethylsulphide (CAS 2625-76-5);
-
-    - Bis(2-chloroethyl) sulphide (CAS 505-60-2);
-
-    - Bis(2-chloroethylthio) methane (CAS 63869-13-6);
-
-    - 1,2-bis (2-chloroethylthio) ethane (CAS 3563-36-8);
-
-    - 1,3-bis (2-chloroethylthio) -n-propane (CAS 63905-10-2);
-
-    - 1,4-bis (2-chloroethylthio) -n-butane (CAS 142868-93-7);
-
-    - 1,5-bis (2-chloroethylthio) -n-pentane (CAS 142868-94-8);
-
-    - Bis (2-chloroethylthiomethyl) ether (CAS 63918-90-1);
-
-    - Bis (2-chloroethylthioethyl) ether (CAS 63918-89-8);
-
-      - (b) Lewisites, such as: 2-chlorovinyldichloroarsine (CAS 541-25-3); Tris (2-chlorovinyl) arsine (CAS 40334-70-1); Bis (2-chlorovinyl) chloroarsine (CAS 40334-69-8);
-
-      - (c) Nitrogen mustards, such as: HN1: bis (2-chloroethyl) ethylamine (CAS 538-07-8); HN2: bis (2-chloroethyl) methylamine (CAS 51-75-2); HN3: tris (2-chloroethyl) amine (CAS 555-77-1);
-
-    - 3. CW incapacitating agents, such as: 3-Quinuclidinyl benzilate (BZ) (CAS 6581-06-2);
-
-    - 4. CW defoliants, such as: Butyl 2-chloro-4-fluorophenoxyacetate (LNF); 2,4,5-trichlorophenoxyacetic acid mixed with 2,4-dichlorophenoxyacetic acid (Agent Orange).
-
-  - (b) CW binary precursors and key precursors, as follows:
-
-    - (1) Alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) Phosphonyl Difluorides, such as: DF: Methyl Phosphonyldifluoride (CAS 676-99-3);
-
-    - (2) O-Alkyl (H or equal to or less than C10, including cycloalkyl) O-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonites and corresponding alkylated and protonated salts, such as: QL: O-Ethyl-2-di-isopropylaminoethyl methylphosphonite (CAS 57856-11-8);
-
-    - (3) Chlorosarin: O-Isopropyl methylphosphonochloridate (CAS 1445-76-7);
-
-    - (4) Chlorosoman: O-Pinacolyl methylphosphonochloridate (CAS 7040-57-5);
-
-  - (c) “Tear gases” and “riot control agents” including:
-
-    - (1) Bromobenzyl cyanide (CA) (CAS 5798-79-8);
-
-    - (2) o-Chlorobenzylidenemalononitrile (o-Chlorobenzalmalononitrile) (CS) (CAS 2698-41-1);
-
-    - (3) Phenylacyl chloride (W-chloroacetophenone) (CN) (CAS 532-27-4);
-
-    - (4) Dibenz-(b,f)-1,4-oxazephine (CR) (CAS 257-07-8);
-
-  - Note:
-
-  - ML7(c) does not control tear gases or riot control agents individually packaged for personal self defence purposes.
-
-  - (d) Equipment specially designed or modified for military use, for the dissemination of any of the following, and specially designed components therefor:
-
-    - (1) Materials or agents controlled by ML7(a) or ML7(c); or
-
-    - (2) CW made up of precursors controlled by ML7(b);
-
-  - (e) Protective and decontamination equipment, specially designed components therefor, and specially formulated chemical mixtures, as follows:
-
-    - (1) Equipment, specially designed or modified for military use, for defence against materials controlled by ML7(a) or ML7(c), and specially designed components therefor;
-
-    - (2) Equipment, specially designed or modified for military use, for the decontamination of objects contaminated with materials controlled by ML7(a), and specially designed components therefor;
-
-    - (3) Chemical mixtures specially developed/formulated for the decontamination of objects contaminated with materials controlled by ML7(a);
-
-  - Note:
-
-  - ML7(e)(1) includes:
-
-    - 1. Air conditioning units specially designed or modified for nuclear, biological or chemical filtration;
-
-    - 2. Protective clothing.
-
-  - N.B.:
-
-  - For civil gas masks, protective and decontamination equipment, see also 1A004 of the Dual-use Goods List.
-
-  - (f) Equipment, specially designed or modified for military use, for the detection or identification of materials controlled by ML7(a) or ML7(c), and specially designed components therefor; Note:
-
-  - ML7(f) does not control personal radiation monitoring dosimeters.
-
-  - N.B.:
-
-  - See also 1A004 of the Dual-use Goods List.
-
-  - (g) “Biopolymers” specially designed or processed for the detection or identification of CW agents controlled by ML7(a), and the cultures of specific cells used to produce them;
-
-  - (h) “Biocatalysts” for the decontamination or degradation of CW agents, and biological systems therefor, as follows:
-
-    - (1) “Biocatalysts” specially designed for the decontamination or degradation of CW agents controlled by ML7(a) resulting from directed laboratory selection or genetic manipulation of biological systems;
-
-    - (2) Biological systems, as follows: “expression vectors”, viruses or cultures of cells containing the genetic information specific to the production of “biocatalysts” controlled by ML7(h)(1);
-
-  - (i) “Technology” as follows:
-
-    - (1) “Technology” for the “development”, “production” or “use” of toxicological agents, related equipment or components controlled by ML7(a) to ML7(f);
-
-    - (2) “Technology” for the “development”, “production” or “use” of “biopolymers” or cultures of specific cells controlled by ML7(g);
-
-    - (3) “Technology” exclusively for the incorporation of “biocatalysts”, controlled by ML7(h)(1), into military carrier substances or military material;
+- (d) Silencers, special gun-mountings, clips, weapons sights and flash suppressers for arms controlled by sub-item ML1(a), ML1(b) or ML1(c); (L.N. 132 of 2001)
 
 - Notes:
 
-  - 1. ML7(a) and ML7(c) do not control:
+- 1. ML1 does not control smooth-bore weapons used for hunting or sporting purposes. These weapons must not be specially designed for military use or of the fully automatic firing type.
 
-    - (a) Cyanogen chloride (CAS 506-77-4);
+- 2. ML1 does not control firearms specially designed for dummy ammunition and which are incapable of firing any controlled ammunition.
 
-    - (b) Hydrocyanic acid (CAS 74-90-8);
+- 3. ML1 does not control weapons using non-centre fire cased ammunition and which are not of the fully automatic firing type.
 
-    - (c) Chlorine (CAS 7782-50-5);
+- 4. ML1(d) does not control optical weapons sights without electronic image processing, with a magnification of 4 times or less, provided they are not specially designed or modified for military use. (L.N. 95 of 2006)
 
-    - (d) Carbonyl chloride (phosgene) (CAS 75-44-5);
+(L.N. 65 of 2004)
 
-    - (e) Diphosgene (trichloromethyl-chloroformate) (CAS 503-38-8);
+ML2 Smooth-bore weapons with a calibre of 20 mm or more, other weapons or armament with a calibre greater than 12.7 mm (calibre 0.50 inches), projectors and accessories, as follows, and specially designed components therefor: (L.N. 65 of 2004)
 
-    - (f) Ethyl bromoacetate (CAS 105-36-2);
+- (a) Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, recoilless rifles and signature reduction devices therefor; Note:
 
-    - (g) Xylyl bromide, ortho: (CAS 89-92-9), meta: (CAS 620-13-3), para: (CAS 104-81-4);
+ML2(a) includes injectors, metering devices, storage tanks and other specially designed components for use with liquid propelling charges for any of the equipment controlled by ML2(a).
 
-    - (h) Benzyl bromide (CAS 100-39-0);
+- (b) Military smoke, gas and pyrotechnic projectors or generators; Note:
 
-    - (i) Benzyl iodide (CAS 620-05-3);
+- ML2(b) does not control signal pistols.
 
-    - (j) Bromo acetone (CAS 598-31-2);
+- (c) Weapons sights; (L.N. 132 of 2001) ML3 Ammunition and fuze setting devices, as follows, and specially designed components therefor:
 
-    - (k) Cyanogen bromide (CAS 506-68-3);
+- (a) Ammunition for the weapons controlled by ML1, ML2 or ML12;
 
-    - (l) Bromo methylethylketone (CAS 816-40-0);
+- (b) Fuze setting devices specially designed for ammunition controlled by ML3(a); (L.N. 65 of 2004)
 
-    - (m) Chloro acetone (CAS 78-95-5);
+- Notes:
 
-    - (n) Ethyl iodoacetate (CAS 623-48-3);
+- 1. Specially designed components include:
 
-    - (o) Iodo acetone (CAS 3019-04-3);
+  - (a) Metal or plastic fabrications such as primer anvils, bullet cups, cartridge links, rotating bands and munitions metal parts;
 
-    - (p) Chloropicrin (CAS 76-06-2).
+  - (b) Safing and arming devices, fuses, sensors and initiation devices;
 
-  - 2. The “technology”, cultures of cells and biological systems listed in ML7(g), ML7(h)(2) and ML7(i)(3) are exclusive and these sub-items do not control “technology”, cells or biological systems for civil purposes, such as agricultural, pharmaceutical, medical, veterinary, environmental, waste management, or in the food industry.
+  - (c) Power supplies with high one-time operational output;
 
-- (L.N. 65 of 2004)
+  - (d) Combustible cases for charges;
 
-  - ML8 “Energetic materials”, and related substances, as follows:
+  - (e) Submunitions including bomblets, minelets and terminally guided projectiles.
 
-  - N.B.:
+- 2. ML3(a) does not control ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber. (L.N. 65 of 2004)
 
-  - See also 1C011 of the Dual-use Goods List.
+- 3. ML3(a) does not control cartridges specially designed for any of the following purposes: (L.N. 65 of 2004)
 
-  - Technical Notes:
+  - (a) Signalling;
 
-    - 1. For the purposes of this entry, ‘mixture’ refers to a composition of two or more substances with at least one substance being listed in the ML8 sub-items.
+  - (b) Bird scaring; or
 
-    - 2. Any substance listed in the ML8 sub-items is controlled by this list, even when utilized in an application other than that indicated. (e.g. TAGN is predominantly used as an explosive but can also be used either as a fuel or an oxidizer.)
+  - (c) Lighting of gas flares at oil wells. (L.N. 132 of 2001)
 
-    - (a) “Explosives”, as follows, and mixtures thereof:
+- ML4 Bombs, torpedoes, rockets, missiles, other explosive devices and charges and related equipment and accessories, as follows, specially designed for military use, and specially designed components therefor: (L.N. 65 of 2004)
 
-      - (1) ADNBF (aminodinitrobenzofuroxan or 7-amino-4, 6-dinitrobenzofurazane-1-oxide) (CAS 97096-78-1);
+- N.B.:
 
-      - (2) BNCP (cis-bis (5-nitrotetrazolato) tetra amine-cobalt (III) perchlorate) (CAS 117412-28-9);
+- For guidance and navigation equipment, see Note 7 to ML11. (L.N. 65 of 2004; L.N. 95 of 2006)
 
-      - (3) CL-14 (diamino dinitrobenzofuroxan or 5, 7-diamino-4, 6-dinitrobenzofurazane-1-oxide) (CAS 117907-74-1);
+- (a)
 
-      - (4) CL-20 (HNIW or Hexanitrohexaazaisowurtzitane) (CAS 135285-90-4); chlathrates of CL-20 (see also ML8(g)(3) and ML8(g)(4) for its “precursors”);
+- Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition-charges, demolition-devices and demolition-kits, “pyrotechnic” devices, cartridges and simulators (i.e. equipment simulating the characteristics of any of these items); (L.N. 132 of 2001; L.N. 65 of 2004)
 
-      - (5) CP (2-(5-cyanotetrazolato) penta amine-cobalt (III) perchlorate) (CAS 70247-32-4);
+- Note:
 
-      - (6) DADE (1,1-diamino-2,2-dinitroethylene, FOX7);
+- ML4(a) includes:
 
-      - (7) DATB (diaminotrinitrobenzene) (CAS 1630-08-6);
+  - (1) Smoke grenades, fire bombs, incendiary bombs and explosive devices;
 
-      - (8) DDFP (1,4-dinitrodifurazanopiperazine);
+  - (2) Missile rocket nozzles and re-entry vehicle nosetips.
 
-      - (9) DDPO (2,6-diamino-3,5-dinitropyrazine-1-oxide, PZO) (CAS 194486-77-6);
+- (b)
 
-      - (10) DIPAM (3,3’-diamino-2,2’,4,4’,6,6’-hexanitrobiphenyl or dipicramide) (CAS 17215-44-0);
+- Equipment specially designed for the handling, control, activation, powering with one-time operational output, launching, laying, sweeping, discharging, decoying, jamming, detonation or detection of items controlled by ML4(a);
 
-      - (11) DNGU (DINGU or dinitroglycoluril) (CAS 55510-04-8);
+- Note:
 
-      - (12) Furazans, as follows:
+- ML4(b) includes:
 
-        - (a) DAAOF (diaminoazoxyfurazan);
+  - (1) Mobile gas liquefying equipment capable of producing 1000 kg or more per day of gas in liquid form;
 
-        - (b) DAAzF (diaminoazofurazan) (CAS 78644-90-3);
+  - (2) Buoyant electric conducting cable suitable for sweeping magnetic mines.
 
-      - (13) HMX and derivatives (see also ML8(g)(5) for its “precursors”), as follows:
+  - Technical Note: Hand-held devices, limited by design solely to the detection of metal objects and incapable of distinguishing between mines and other metal objects, are not considered to be specially designed for the detection of items controlled by ML4(a). (L.N. 132 of 2001) ML5 Fire control, and related alerting and warning equipment, and related systems, test and alignment and countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor: (L.N. 132 of 2001)
 
-        - (a) HMX
+- (a) Weapon sights, bombing computers, gun laying equipment and weapon control systems;
 
-        - (Cyclotetramethylenetetranitramine, octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazine, 1,3,5,7-tetranitro-1,3,5,7-tetraza-cyclooctane, octogen or octogene) (CAS 2691-41-0);
+- (b) Target acquisition, designation, range-finding, surveillance or tracking systems; detection, data fusion, recognition or identification equipment; and sensor integration equipment;
 
-        - (b) difluoroaminated analogs of HMX;
+- (c) Countermeasure equipment for items controlled by ML5(a) and ML5(b);
 
-        - (c) K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabicyclo [3,3,0]-octanone-3, tetranitrosemiglycouril or keto-bicyclic HMX) (CAS 130256-72-3);
+- (d) Field test or alignment equipment, specially designed for items controlled by ML5(a) or ML5(b); (L.N. 132 of 2001) ML6 Ground vehicles and components, as follows: N.B.:
 
-      - (14) HNAD (hexanitroadamantane) (CAS 143850-71-9);
+- For guidance and navigation equipment, see Note 7 to ML11. (L.N. 95 of 2006)
 
-      - (15) HNS (hexanitrostilbene) (CAS 20062-22-0);
+- (a) Ground vehicles and components therefor, specially designed or modified for military use; Technical Note:
 
-      - (16) Imidazoles, as follows:
+- For the purposes of ML6(a), the term ground vehicles includes trailers.
 
-        - (a) BNNII (Octahydro-2,5-bis(nitroimino) imidazo [4,5-d]imidazole);
+- (b) All-wheel drive vehicles capable of off-road use which have been manufactured or fitted with materials to provide ballistic protection to level III (NIJ 0108.01, September 1985, or comparable national standard) or better; (L.N. 95 of 2006)
 
-        - (b) DNI (2,4-dinitroimidazole) (CAS 5213-49-0);
+- N.B.:
 
-        - (c) FDIA (1-fluoro-2,4-dinitroimidazole);
+- See also ML13(a). (L.N. 65 of 2004)
 
-        - (d) NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazole);
+- Notes:
 
-        - (e) PTIA (1-picryl-2,4,5-trinitroimidazole);
+- 1. ML6(a) includes: (L.N. 65 of 2004)
 
-      - (17) NTNMH (1-(2-nitrotriazolo)-2-dinitromethylene hydrazine);
+  - (a) Tanks and other military armed vehicles and military vehicles fitted with mountings for arms or equipment for mine laying or the launching of munitions controlled under ML4;
 
-      - (18) NTO (ONTA or 3-nitro-1,2,4-triazol-5-one) (CAS 932-64-9);
+  - (b) Armoured vehicles;
 
-      - (19) Polynitrocubanes with more than four nitro groups;
+  - (c) Amphibious and deep water fording vehicles;
 
-      - (20) PYX (2,6-Bis (picrylamino)-3,5-dinitropyridine) (CAS 38082-89-2);
+  - (d) Recovery vehicles and vehicles for towing or transporting ammunition or weapon systems and associated load handling equipment.
 
-      - (21) RDX and derivatives, as follows:
+- 2. Modification of a ground vehicle for military use controlled by ML6(a) entails a structural, electrical or mechanical change involving one or more specially designed military components. Such components include: (L.N. 65 of 2004)
 
-        - (a) RDX (cyclotrimethylenetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen or hexogene) (CAS 121-82-4);
+  - (a) Pneumatic tyre casings of a kind specially designed to be bullet-proof or to run when deflated;
 
-        - (b) Keto-RDX (K-6 or 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1);
+  - (b) Tyre inflation pressure control systems, operated from inside a moving vehicle;
 
-      - (22) TAGN (triaminoguanidinenitrate) (CAS 4000-16-2);
+  - (c) Armoured protection of vital parts, (e.g. fuel tanks or vehicle cabs);
 
-      - (23) TATB (triaminotrinitrobenzene) (CAS 3058-38-6) (see also ML8(g)(7) for its “precursors”);
+  - (d) Special reinforcements or mountings for weapons; (L.N. 65 of 2004)
 
-      - (24) TEDDZ (3,3,7,7-tetrabis (difluoroamine) octahydro-1,5-dinitro-1,5-diazocine);
+  - (e) Black-out lighting. (L.N. 65 of 2004)
 
-      - (25) Tetrazoles, as follows:
+- 3. ML6 does not control civil automobiles, or trucks designed or modified for transporting money or valuables, having armoured or ballistic protection. (L.N. 65 of 2004) ML7 Chemical or biological toxic agents, “riot control agents”, radioactive materials, related equipment, components and materials, as follows: (L.N. 95 of 2006)
 
-        - (a) NTAT (nitrotriazol aminotetrazole);
+- (a) Biological agents and radioactive materials “adapted for use in war” to produce casualties in humans or animals, degrade equipment or damage crops or the environment; (L.N. 95 of 2006)
 
-        - (b) NTNT (1-N-(2-nitrotriazolo)-4-nitrotetrazole);
+- (b) Chemical warfare (CW) agents including:
 
-      - (26) Tetryl (trinitrophenylmethylnitramine) (CAS 479-45-8);
+  - (1) CW nerve agents:
 
-      - (27) TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadecalin) (CAS 135877-16-6) (see also ML8(g)(6) for its “precursors”);
+    - (a) O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-phosphonofluoridates, such as: Sarin (GB): O-Isopropyl methylphosphonofluoridate (CAS 107-44-8); and Soman (GD): O-Pinacolyl methylphosphonofluoridate (CAS 96-64-0);
 
-      - (28) TNAZ (1,3,3-trinitroazetidine) (CAS 97645-24-4) (see also ML8(g)(2) for its “precursors”);
+    - (b) O-Alkyl (equal to or less than C10, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, such as: Tabun (GA):O-Ethyl N,N-dimethylphosphoramidocyanidate (CAS 77-81-6);
 
-      - (29) TNGU (SORGUYL or tetranitroglycoluril) (CAS 55510-03-7);
+    - (c) O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, such as: VX: O-Ethyl S-2-di-isopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9);
 
-      - (30) TNP (1,4,5,8-tetranitro-pyridazino [4,5-d] pyridazine) (CAS 229176-04-9);
+  - (2) CW vesicant agents:
 
-      - (31) Triazines, as follows:
+    - (a) Sulphur mustards, such as:
 
-        - (a) DNAM (2-oxy-4,6-dinitroamino-s-triazine) (CAS 19899-80-0);
+      - (1) 2-Chloroethylchloromethylsulphide (CAS 2625-76-5);
 
-        - (b) NNHT (2-nitroimino-5-nitro-hexahydro-1,3,5-triazine) (CAS 130400-13-4);
+      - (2) Bis (2-chloroethyl) sulphide (CAS 505-60-2);
 
-      - (32) Triazoles, as follows:
+      - (3) Bis (2-chloroethylthio) methane (CAS 63869-13-6);
 
-        - (a) 5-azido-2-nitrotriazole;
+      - (4) 1,2-bis (2-chloroethylthio) ethane (CAS 3563-36-8);
 
-        - (b) ADHTDN (4-amino-3,5-dihydrazino-1,2,4-triazole dinitramide) (CAS 1614-08-0);
+      - (5) 1,3-bis (2-chloroethylthio)-n-propane (CAS 63905-10-2);
 
-        - (c) ADNT (1-amino-3,5-dinitro-1,2,4-triazole);
+      - (6) 1,4-bis (2-chloroethylthio)-n-butane (CAS 142868-93-7);
 
-        - (d) BDNTA ([bis-dinitrotriazole] amine);
+      - (7) 1,5-bis (2-chloroethylthio)-n-pentane (CAS 142868-94-8);
 
-        - (e) DBT (3,3’-dinitro-5,5-bi-1,2,4-triazole) (CAS 30003-46-4);
+      - (8) Bis (2-chloroethylthiomethyl) ether (CAS 63918-90-1);
 
-        - (f) DNBT (dinitrobistriazole) (CAS 70890-46-9);
+      - (9) Bis (2-chloroethylthioethyl) ether (CAS 63918-89-8);
 
-        - (g) NTDNA (2-nitrotriazole 5-dinitramide) (CAS 75393-84-9);
+    - (b) Lewisites, such as:
 
-        - (h) NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitrotriazole);
+      - (1) 2-chlorovinyldichloroarsine (CAS 541-25-3);
 
-        - (i) PDNT (1-picryl-3,5-dinitrotriazole);
+      - (2) Tris (2-chlorovinyl) arsine (CAS 40334-70-1);
 
-        - (j) TACOT (tetranitrobenzotriazolobe nzotriazole) (CAS 25243-36-1);
+      - (3) Bis (2-chlorovinyl) chloroarsine (CAS 40334-69-8);
 
-      - (33) Any explosive not listed elsewhere in ML8(a) with a detonation velocity exceeding 8700 m/s at maximum density or a detonation pressure exceeding 34 GPa (340 kbar);
+    - (c) Nitrogen mustards, such as:
 
-      - (34) Other organic explosives not listed elsewhere in ML8(a) yielding detonation pressures of 25 GPa (250 kbar) or more that will remain stable at temperatures of 532 K (2500C) or higher for periods of 5 minutes or longer;
+      - (1) HN1: bis (2-chloroethyl) ethylamine (CAS 538-07-8);
+
+      - (2) HN2: bis (2-chloroethyl) methylamine (CAS 51-75-2);
+
+      - (3) HN3: tris (2-chloroethyl) amine (CAS 555-77-1);
+
+  - (3) CW incapacitating agents, such as: 3-Quinuclidinyl benzilate (BZ) (CAS 6581-06-2);
+
+  - (4) CW defoliants, such as:
+
+    - (a) Butyl 2-chloro-4-fluorophenoxyacetate (LNF);
+
+    - (b) 2,4,5-trichlorophenoxyacetic acid mixed with 2,4-dichlorophenoxyacetic acid (Agent Orange); (L.N. 95 of 2006)
+
+- (c) CW binary precursors and key precursors, as follows: (L.N. 95 of 2006)
+
+  - (1) Alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) Phosphonyl Difluorides, such as: DF: Methyl Phosphonyldifluoride (CAS 676-99-3);
+
+  - (2) O-Alkyl (H or equal to or less than C10, including cycloalkyl) O-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonites and corresponding alkylated and protonated salts, such as: QL: O-Ethyl-2-di-isopropylaminoethyl methylphosphonite (CAS 57856-11-8);
+
+  - (3) Chlorosarin: O-Isopropyl methylphosphonochloridate (CAS 1445-76-7);
+
+  - (4) Chlorosoman: O-Pinacolyl methylphosphonochloridate (CAS 7040-57-5);
+
+- (d) “Riot control agents”, active constituent chemicals and combinations thereof including:
+
+  - (1) α-Bromobenzeneacetonitrile (Bromobenzyl cyanide) (CA) (CAS 5798-79-8);
+
+  - (2) [(2-chlorophenyl) methylene] propanedinitrile (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);
+
+  - (3) 2-Chloro-1-phenylethanone, Phenylacyl chloride (ω-chloroacetophenone) (CN) (CAS 532-27-4);
+
+  - (4) Dibenz-(b,f)-1,4-oxazephine (CR) (CAS 257-07-8);
+
+  - (5) 10-Chloro-5, 10-dihydrophenarsazine (Phenarsazine chloride) (Adamsite) (DM) (CAS 578-94-9);
+
+  - (6) N-Nonanoylmorpholine (MPA) (CAS 5299-64-9);
+
+- Notes:
+
+  - 1. ML7(d) does not control “riot control agents” individually packaged for personal self defence purposes.
+
+  - 2. ML7(d) does not control active constituent chemicals, and combinations thereof identified and packaged for food production or medical purposes. (L.N. 95 of 2006)
+
+- (e) Equipment specially designed or modified for military use, for the dissemination of any of the following, and specially designed components therefor: (L.N. 95 of 2006)
+
+  - (1) Materials or agents controlled by ML7(a), ML7(b) or ML7(d); or
+
+  - (2) CW made up of precursors controlled by ML7(c); (L.N. 95 of 2006)
+
+- (f) Protective and decontamination equipment, specially designed components therefor, and specially formulated chemical mixtures, as follows: (L.N. 95 of 2006)
+
+  - (1) Equipment, specially designed or modified for military use, for defence against materials controlled by ML7(a), ML7(b) or ML7(d), and specially designed components therefor;
+
+  - (2) Equipment, specially designed or modified for military use, for the decontamination of objects contaminated with materials controlled by ML7(a) or ML7(b), and specially designed components therefor;
+
+  - (3) Chemical mixtures specially developed/formulated for the decontamination of objects contaminated with materials controlled by ML7(a) or ML7(b); (L.N. 95 of 2006)
+
+- Note:
+
+- ML7(f)(1) includes: (L.N. 95 of 2006)
+
+  - 1. Air conditioning units specially designed or modified for nuclear, biological or chemical filtration;
+
+  - 2. Protective clothing.
+
+- N.B.:
+
+- For civil gas masks, protective and decontamination equipment, see also 1A004 of the Dual-use Goods List.
+
+- (g) Equipment, specially designed or modified for military use, for the detection or identification of materials controlled by ML7(a), ML7(b) or ML7(d), and specially designed components therefor; (L.N. 95 of 2006) Note:
+
+- ML7(g) does not control personal radiation monitoring dosimeters. (L.N. 95 of 2006)
+
+- N.B.:
+
+- See also 1A004 of the Dual-use Goods List.
+
+- (h) “Biopolymers” specially designed or processed for the detection or identification of CW agents controlled by ML7(b), and the cultures of specific cells used to produce them; (L.N. 95 of 2006)
+
+- (i) “Biocatalysts” for the decontamination or degradation of CW agents, and biological systems therefor, as follows: (L.N. 95 of 2006)
+
+  - (1) “Biocatalysts” specially designed for the decontamination or degradation of CW agents controlled by ML7(b) resulting from directed laboratory selection or genetic manipulation of biological systems;
+
+  - (2) Biological systems, as follows: “expression vectors”, viruses or cultures of cells containing the genetic information specific to the production of “biocatalysts” controlled by ML7(i)(1); (L.N. 95 of 2006)
+
+- (j) (Repealed L.N. 95 of 2006)
+
+Notes:
+
+- 1. ML7(a), ML7(b) and ML7(d) do not control: (L.N. 95 of 2006)
+
+  - (a) Cyanogen chloride (CAS 506-77-4);
+
+  - (b) Hydrocyanic acid (CAS 74-90-8);
+
+  - (c) Chlorine (CAS 7782-50-5);
+
+  - (d) Carbonyl chloride (phosgene) (CAS 75-44-5);
+
+  - (e) Diphosgene (trichloromethyl-chloroformate) (CAS 503-38-8);
+
+  - (f) (Repealed L.N. 95 of 2006)
+
+  - (g) Xylyl bromide, ortho: (CAS 89-92-9), meta: (CAS 620-13-3), para: (CAS 104-81-4);
+
+  - (h) Benzyl bromide (CAS 100-39-0);
+
+  - (i) Benzyl iodide (CAS 620-05-3);
+
+  - (j) Bromo acetone (CAS 598-31-2);
+
+  - (k) Cyanogen bromide (CAS 506-68-3);
+
+  - (l) Bromo methylethylketone (CAS 816-40-0);
+
+  - (m) Chloro acetone (CAS 78-95-5);
+
+  - (n) Ethyl iodoacetate (CAS 623-48-3);
+
+  - (o) Iodo acetone (CAS 3019-04-3);
+
+  - (p) Chloropicrin (CAS 76-06-2).
+
+- 2. The cultures of cells and biological systems listed in ML7(h) and ML7(i)(2) are exclusive and these sub-items do not control cells or biological systems for civil purposes, such as agricultural, pharmaceutical, medical, veterinary, environmental, waste management, or in the food industry. (L.N. 95 of 2006)
+
+(L.N. 65 of 2004)
+
+- ML8 “Energetic materials”, and related substances, as follows:
+
+- N.B.:
+
+- See also 1C011 of the Dual-use Goods List.
+
+- Technical Notes:
+
+  - 1. For the purposes of this entry, ‘mixture’ refers to a composition of two or more substances with at least one substance being listed in the ML8 sub-items.
+
+  - 2. Any substance listed in the ML8 sub-items is controlled by this list, even when utilized in an application other than that indicated. (e.g. TAGN is predominantly used as an explosive but can also be used either as a fuel or an oxidizer.)
+
+  - (a) “Explosives”, as follows, and mixtures thereof:
+
+    - (1) ADNBF (aminodinitrobenzofuroxan or 7-amino-4, 6-dinitrobenzofurazane-1-oxide) (CAS 97096-78-1);
+
+    - (2) BNCP (cis-bis (5-nitrotetrazolato) tetra amine-cobalt (III) perchlorate) (CAS 117412-28-9);
+
+    - (3) CL-14 (diamino dinitrobenzofuroxan or 5, 7-diamino-4, 6-dinitrobenzofurazane-1-oxide) (CAS 117907-74-1);
+
+    - (4) CL-20 (HNIW or Hexanitrohexaazaisowurtzitane) (CAS 135285-90-4); chlathrates of CL-20 (see also ML8(g)(3) and ML8(g)(4) for its “precursors”);
+
+    - (5) CP (2-(5-cyanotetrazolato) penta amine-cobalt (III) perchlorate) (CAS 70247-32-4);
+
+    - (6) DADE (1,1-diamino-2,2-dinitroethylene, FOX7);
+
+    - (7) DATB (diaminotrinitrobenzene) (CAS 1630-08-6);
+
+    - (8) DDFP (1,4-dinitrodifurazanopiperazine);
+
+    - (9) DDPO (2,6-diamino-3,5-dinitropyrazine-1-oxide, PZO) (CAS 194486-77-6);
+
+    - (10) DIPAM (3,3’-diamino-2,2’,4,4’,6,6’-hexanitrobiphenyl or dipicramide) (CAS 17215-44-0);
+
+    - (11) DNGU (DINGU or dinitroglycoluril) (CAS 55510-04-8);
+
+    - (12) Furazans, as follows:
+
+      - (a) DAAOF (diaminoazoxyfurazan);
+
+      - (b) DAAzF (diaminoazofurazan) (CAS 78644-90-3);
+
+    - (13) HMX and derivatives (see also ML8(g)(5) for its “precursors”), as follows:
+
+      - (a) HMX
+
+      - (Cyclotetramethylenetetranitramine, octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazine, 1,3,5,7-tetranitro-1,3,5,7-tetraza-cyclooctane, octogen or octogene) (CAS 2691-41-0);
+
+      - (b) difluoroaminated analogs of HMX;
+
+      - (c) K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabicyclo [3,3,0]-octanone-3, tetranitrosemiglycouril or keto-bicyclic HMX) (CAS 130256-72-3);
+
+    - (14) HNAD (hexanitroadamantane) (CAS 143850-71-9);
+
+    - (15) HNS (hexanitrostilbene) (CAS 20062-22-0);
+
+    - (16) Imidazoles, as follows:
+
+      - (a) BNNII (Octahydro-2,5-bis(nitroimino) imidazo [4,5-d]imidazole);
+
+      - (b) DNI (2,4-dinitroimidazole) (CAS 5213-49-0);
+
+      - (c) FDIA (1-fluoro-2,4-dinitroimidazole);
+
+      - (d) NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazole);
+
+      - (e) PTIA (1-picryl-2,4,5-trinitroimidazole);
+
+    - (17) NTNMH (1-(2-nitrotriazolo)-2-dinitromethylene hydrazine);
+
+    - (18) NTO (ONTA or 3-nitro-1,2,4-triazol-5-one) (CAS 932-64-9);
+
+    - (19) Polynitrocubanes with more than four nitro groups;
+
+    - (20) PYX (2,6-Bis (picrylamino)-3,5-dinitropyridine) (CAS 38082-89-2);
+
+    - (21) RDX and derivatives, as follows:
+
+      - (a) RDX (cyclotrimethylenetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen or hexogene) (CAS 121-82-4);
+
+      - (b) Keto-RDX (K-6 or 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1);
+
+    - (22) TAGN (triaminoguanidinenitrate) (CAS 4000-16-2);
+
+    - (23) TATB (triaminotrinitrobenzene) (CAS 3058-38-6) (see also ML8(g)(7) for its “precursors”);
+
+    - (24) TEDDZ (3,3,7,7-tetrabis (difluoroamine) octahydro-1,5-dinitro-1,5-diazocine);
+
+    - (25) Tetrazoles, as follows:
+
+      - (a) NTAT (nitrotriazol aminotetrazole);
+
+      - (b) NTNT (1-N-(2-nitrotriazolo)-4-nitrotetrazole);
+
+    - (26) Tetryl (trinitrophenylmethylnitramine) (CAS 479-45-8);
+
+    - (27) TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadecalin) (CAS 135877-16-6) (see also ML8(g)(6) for its “precursors”);
+
+    - (28) TNAZ (1,3,3-trinitroazetidine) (CAS 97645-24-4) (see also ML8(g)(2) for its “precursors”);
+
+    - (29) TNGU (SORGUYL or tetranitroglycoluril) (CAS 55510-03-7);
+
+    - (30) TNP (1,4,5,8-tetranitro-pyridazino [4,5-d] pyridazine) (CAS 229176-04-9);
+
+    - (31) Triazines, as follows:
+
+      - (a) DNAM (2-oxy-4,6-dinitroamino-s-triazine) (CAS 19899-80-0);
+
+      - (b) NNHT (2-nitroimino-5-nitro-hexahydro-1,3,5-triazine) (CAS 130400-13-4);
+
+    - (32) Triazoles, as follows:
+
+      - (a) 5-azido-2-nitrotriazole;
+
+      - (b) ADHTDN (4-amino-3,5-dihydrazino-1,2,4-triazole dinitramide) (CAS 1614-08-0);
+
+      - (c) ADNT (1-amino-3,5-dinitro-1,2,4-triazole);
+
+      - (d) BDNTA ([bis-dinitrotriazole] amine);
+
+      - (e) DBT (3,3’-dinitro-5,5-bi-1,2,4-triazole) (CAS 30003-46-4);
+
+      - (f) DNBT (dinitrobistriazole) (CAS 70890-46-9);
+
+      - (g) NTDNA (2-nitrotriazole 5-dinitramide) (CAS 75393-84-9);
+
+      - (h) NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitrotriazole);
+
+      - (i) PDNT (1-picryl-3,5-dinitrotriazole);
+
+      - (j) TACOT (tetranitrobenzotriazolobe nzotriazole) (CAS 25243-36-1);
+
+    - (33) Any explosive not listed elsewhere in ML8(a) with a detonation velocity exceeding 8700 m/s at maximum density or a detonation pressure exceeding 34 GPa (340 kbar);
+
+    - (34) Other organic explosives not listed elsewhere in ML8(a) yielding detonation pressures of 25 GPa (250 kbar) or more that will remain stable at temperatures of 532 K (2500C) or higher for periods of 5 minutes or longer;
 
   - (b) “Propellants”, as follows:
 
@@ -536,9 +550,11 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (c) Nitrogen;
 
-    - Note:
+    - Notes:
 
-    - ML8(d)(3) does not control chlorine trifluoride.
+      - 1. ML8(d)(3) does not control Chlorine Trifluoride.
+
+      - 2. ML8(d)(3) does not control Nitrogen Trifluoride in its gaseous state. (L.N. 95 of 2006)
 
     - (4) DNAD (1,3-dinitro-1,3-diazetidine) (CAS 78246-06-7);
 
@@ -610,7 +626,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (c) Ferrocene carboxylic acids;
 
-      - (d) n-butyl-ferrocene (CAS 319904-29-7);
+      - (d) n-butyl-ferrocene (CAS 31904-29-7); (L.N. 95 of 2006)
 
       - (e) Other adducted polymer ferrocene derivatives;
 
@@ -762,33 +778,33 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 65 of 2004)
 
-  - ML9 Vessels of war, special naval equipment and accessories, as follows, and components therefor, specially designed for military use:
+- ML9 Vessels of war, special naval equipment and accessories, as follows, and components therefor, specially designed for military use:
 
-  - N.B.:
+- N.B.:
 
-  - For guidance and navigation equipment, see Note (g) to ML11. (L.N. 65 of 2004)
+- For guidance and navigation equipment, see Note 7 to ML11. (L.N. 65 of 2004; L.N. 95 of 2006)
 
-    - (a) Combatant vessels and vessels (surface or underwater) specially designed or modified for offensive or defensive action, whether or not converted to non-military use, regardless of current state of repair or operating condition, and whether or not they contain weapon delivery systems or armour, and hulls or parts of hulls for such vessels; (L.N. 132 of 2001)
+  - (a) Combatant vessels and vessels (surface or underwater) specially designed or modified for offensive or defensive action, whether or not converted to non-military use, regardless of current state of repair or operating condition, and whether or not they contain weapon delivery systems or armour, and hulls or parts of hulls for such vessels; (L.N. 132 of 2001)
 
-    - (b) Engines, as follows:
+  - (b) Engines, as follows:
 
-      - (1) Diesel engines specially designed for submarines with both of the following characteristics:
+    - (1) Diesel engines specially designed for submarines with both of the following characteristics:
 
-        - (a) A power output of 1.12 MW (1500 hp.) or more; and
+      - (a) A power output of 1.12 MW (1500 hp.) or more; and
 
-        - (b) A rotary speed of 700 rpm or more;
+      - (b) A rotary speed of 700 rpm or more;
 
-      - (2) Electric motors specially designed for submarines having all of the following characteristics:
+    - (2) Electric motors specially designed for submarines having all of the following characteristics:
 
-        - (a) A power output of more than 0.75 MW (1000 hp.);
+      - (a) A power output of more than 0.75 MW (1000 hp.);
 
-        - (b) Quick reversing;
+      - (b) Quick reversing;
 
-        - (c) Liquid cooled; and
+      - (c) Liquid cooled; and
 
-        - (d) Totally enclosed;
+      - (d) Totally enclosed;
 
-      - (3) Non-magnetic diesel engines specially designed for military use with a power output of 37.3 kW (50 hp.) or more and with a non-magnetic content in excess of 75% of total mass;
+    - (3) Non-magnetic diesel engines specially designed for military use with a power output of 37.3 kW (50 hp.) or more and with a non-magnetic content in excess of 75% of total mass;
 
   - (c) Underwater detection devices specially designed for military use and controls thereof;
 
@@ -796,21 +812,21 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (e) Deleted; (L.N. 65 of 2004)
 
-  - (f) Hull penetrators and connectors specially designed for military use that enable interaction with equipment external to a vessel; Note: ML9(f) includes connectors for vessels which are of the single-conductor, multi-conductor, coaxial or waveguide type, and hull penetrators for vessels, both of which are capable of remaining impervious to leakage from without and of retaining required characteristics at marine depths exceeding 100 m; and fibre-optic connectors and optical hull penetrators specially designed for “laser” beam transmission regardless of depth. It does not include ordinary propulsive shaft and hydrodynamic control-rod hull penetrators.
+  - (f) Hull penetrators and connectors specially designed for military use that enable interaction with equipment external to a vessel; Note:
 
-  - (g) Silent bearings, with gas or magnetic suspension, active signature or vibration suppression controls, and equipment containing those bearings, specially designed for military use; ML10 “Aircraft”, unmanned airborne vehicles, aero-engines and “aircraft” equipment, related equipment and components, specially designed or modified for military use, as follows:
+- ML9(f) includes connectors for vessels which are of the single-conductor, multi-conductor, coaxial or waveguide type, and hull penetrators for vessels, both of which are capable of remaining impervious to leakage from without and of retaining required characteristics at marine depths exceeding 100 m; and fibre-optic connectors and optical hull penetrators specially designed for “laser” beam transmission regardless of depth. It does not include ordinary propulsive shaft and hydrodynamic control-rod hull penetrators.
 
-  - N.B.:
+  - (g) Silent bearings, with gas or magnetic suspension, active signature or vibration suppression controls, and equipment containing those bearings, specially designed for military use; ML10 “Aircraft”, “lighter-than-air vehicles”, unmanned airborne vehicles, aero-engines and “aircraft” equipment, related equipment and components, specially designed or modified for military use, as follows: (L.N. 95 of 2006)
 
-  - For guidance and navigation equipment, see Note (g) to ML11. (L.N. 65 of 2004)
+  - N.B.: For guidance and navigation equipment, see Note 7 to ML11. (L.N. 65 of 2004; L.N. 95 of 2006)
 
   - (a) Combat “aircraft” and specially designed components therefor; (L.N. 183 of 1999; L.N. 65 of 2004)
 
-  - (b) Other “aircraft” specially designed or modified for military use, including military reconnaissance, assault, military training, transporting and airdropping troops or military equipment, logistics support, and specially designed components therefor; (L.N. 183 of 1999; L.N. 65 of 2004)
+  - (b) Other “aircraft” and “lighter-than-air vehicles” specially designed or modified for military use, including military reconnaissance, assault, military training, transporting and airdropping troops or military equipment, logistics support, and specially designed components therefor; (L.N. 183 of 1999; L.N. 65 of 2004; L.N. 95 of 2006)
 
   - (c) Unmanned airborne vehicles and related equipment, specially designed or modified for military use, as follows, and specially designed components therefor: (L.N. 65 of 2004)
 
-    - (1) Unmanned airborne vehicles including remotely piloted air vehicles (RPVs) and autonomous programmable vehicles;
+    - (1) Unmanned airborne vehicles including remotely piloted air vehicles (RPVs), autonomous programmable vehicles and “lighter-than-air vehicles”; (L.N. 95 of 2006)
 
     - (2) Associated launchers and ground support equipment;
 
@@ -824,7 +840,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (g) Military crash helmets and protective masks and specially designed components therefor, pressurised breathing equipment and partial pressure suits for use in “aircraft”, anti-g suits, liquid oxygen converters used for “aircraft” or missiles, and catapults and cartridge actuated devices for emergency escape of personnel from “aircraft”; (L.N. 65 of 2004)
 
-  - (h) Parachutes and related equipment, used for combat personnel, cargo dropping or “aircraft” deceleration, as follows: (L.N. 65 of 2004)
+  - (h) Parachutes and related equipment, used for combat personnel, cargo dropping or “aircraft” deceleration, as follows, and specially designed components therefor: (L.N. 65 of 2004; L.N. 95 of 2006)
 
     - (1) Parachutes for:
 
@@ -862,41 +878,55 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (b) Reciprocating engines or specially designed components therefor, except those specially designed for unmanned airborne vehicles. (L.N. 65 of 2004)
 
-  - 3. The control in ML10(b) and ML10(d) on specially designed components and related equipment for non-military “aircraft” or aero-engines modified for military use applies only to those military components and to military related equipment required for the modification to military use. (L.N. 65 of 2004) ML11 Electronic equipment, not controlled elsewhere on the Munitions List, specially designed for military use and specially designed components therefor;
+  - 3. The control in ML10(b) and ML10(d) on specially designed components and related equipment for non-military “aircraft” or aero-engines modified for military use applies only to those military components and to military related equipment required for the modification to military use. (L.N. 65 of 2004) ML11 Electronic equipment, not controlled elsewhere in the Munitions List, as follows, and specially designed components therefor:
+
+  - (a)
+
+  - Electronic equipment specially designed for military use;
 
   - Note:
 
-  - ML11 includes:
+  - ML11(a) includes:
 
-  - (a) Electronic countermeasure and electronic counter-countermeasure equipment (i.e., equipment designed to introduce extraneous or erroneous signals into radar or radio communication receivers or otherwise hinder the reception, operation or effectiveness of adversary electronic receivers including their countermeasure equipment), including jamming and counter-jamming equipment;
+    - 1. Electronic countermeasure and electronic counter-countermeasure equipment (i.e., equipment designed to introduce extraneous or erroneous signals into radar or radio communication receivers or otherwise hinder the reception, operation or effectiveness of adversary electronic receivers including their countermeasure equipment), including jamming and counter-jamming equipment;
 
-  - (b) Frequency agile tubes;
+    - 2. Frequency agile tubes;
 
-  - (c) Electronic systems or equipment designed either for surveillance and monitoring of the electro-magnetic spectrum for military intelligence or security purposes or for counteracting such surveillance and monitoring;
+    - 3. Electronic systems or equipment designed either for surveillance and monitoring of the electro-magnetic spectrum for military intelligence or security purposes, or for counteracting such surveillance and monitoring;
 
-  - (d) Underwater countermeasures, including acoustic and magnetic jamming and decoy, equipment designed to introduce extraneous or erroneous signals into sonar receivers;
+    - 4. Underwater countermeasures, including acoustic and magnetic jamming and decoy equipment designed to introduce extraneous or erroneous signals into sonar receivers;
 
-  - (e) Data processing security equipment, data security equipment and transmission and signalling line security equipment, using ciphering processes;
+    - 5. Data processing security equipment, data security equipment and transmission and signalling line security equipment, using ciphering processes;
 
-  - (f) Identification, authentication and keyloader equipment and key management, manufacturing and distribution equipment; (L.N. 65 of 2004)
+    - 6. Identification, authentification and keyloader equipment and key management, manufacturing and distribution equipment;
 
-  - (g) Guidance and navigation equipment. (L.N. 65 of 2004) ML12 High velocity kinetic energy weapon systems and related equipment, as follows, and specially designed components therefor:
+    - 7. Guidance and navigation equipment.
 
-  - (a) Kinetic energy weapon systems specially designed for destruction or effecting mission-abort of a target;
+  - (b) Global Navigation Satellite Systems (GNSS) jamming equipment;
 
-  - (b) Specially designed test and evaluation facilities and test models, including diagnostic instrumentation and targets, for dynamic testing of kinetic energy projectiles and systems;
+- (L.N. 95 of 2006)
 
-  - N.B.: For weapon systems using sub-calibre ammunition or employing solely chemical propulsion, and ammunition therefor, see ML1, ML2, ML3 and ML4. Notes:
+  - ML12 High velocity kinetic energy weapon systems and related equipment, as follows, and specially designed components therefor:
 
-  - 1. ML12 includes the following when specially designed for kinetic energy weapon systems:
+    - (a) Kinetic energy weapon systems specially designed for destruction or effecting mission-abort of a target;
 
-    - (a) Launch propulsion systems capable of accelerating masses larger than 0.1 g to velocities in excess of 1.6 km/s, in single or rapid fire modes;
+    - (b) Specially designed test and evaluation facilities and test models, including diagnostic instrumentation and targets, for dynamic testing of kinetic energy projectiles and systems;
 
-    - (b) Prime power generation, electric armour, energy storage, thermal management, conditioning, switching or fuel-handling equipment; and electrical interfaces between power supply, gun and other turret electric drive functions;
+    - N.B.:
 
-    - (c) Target acquisition, tracking, fire control or damage assessment systems;
+  - For weapon systems using sub-calibre ammunition or employing solely chemical propulsion, and ammunition therefor, see ML1, ML2, ML3 and ML4.
 
-    - (d) Homing seeker, guidance or divert propulsion (lateral acceleration) systems for projectiles.
+  - Notes:
+
+    - 1. ML12 includes the following when specially designed for kinetic energy weapon systems:
+
+      - (a) Launch propulsion systems capable of accelerating masses larger than 0.1 g to velocities in excess of 1.6 km/s, in single or rapid fire modes;
+
+      - (b) Prime power generation, electric armour, energy storage, thermal management, conditioning, switching or fuel-handling equipment; and electrical interfaces between power supply, gun and other turret electric drive functions;
+
+      - (c) Target acquisition, tracking, fire control or damage assessment systems;
+
+      - (d) Homing seeker, guidance or divert propulsion (lateral acceleration) systems for projectiles.
 
   - 2. ML12 controls weapon systems using any of the following methods of propulsion:
 
@@ -910,7 +940,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (e) Chemical (when used in combination with any of the above).
 
-  - 3. ML12 does not control “technology” for magnetic induction for continuous propulsion of civil transport devices. ML13 Armoured or protective equipment and constructions and components, as follows:
+  - 3. (Repealed L.N. 95 of 2006) ML13 Armoured or protective equipment and constructions and components, as follows:
 
   - (a) Armoured plate as follows:
 
@@ -922,9 +952,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (c) Military helmets;
 
-  - (d) Body armour and protective garments manufactured according to military standards or specifications, or equivalent, and specially designed components therefor; (L.N. 65 of 2004)
+  - (d) Body armour and protective garments manufactured according to military standards or specifications, or equivalent, and specially designed components therefor; (L.N. 65 of 2004) N.B.:
 
-  - N.B.: For “fibrous or filamentary materials” used in the manufacture of body armour, see 1C010 of the Dual-use Goods List. (L.N. 65 of 2004) Notes:
+  - For “fibrous or filamentary materials” used in the manufacture of body armour, see 1C010 of the Dual-use Goods List. (L.N. 65 of 2004) Notes:
 
   - 1. ML13(b) includes materials specially designed to form explosive reactive armour or to construct military shelters.
 
@@ -1024,9 +1054,11 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (l) Containers specially designed or modified for military use; (L.N. 65 of 2004)
 
-  - (m) Ferries, other than those controlled elsewhere in the Munitions List, bridges and pontoons, specially designed for military use; and (L.N. 65 of 2004)
+  - (m) Ferries, other than those controlled elsewhere in the Munitions List, bridges and pontoons, specially designed for military use; (L.N. 65 of 2004; L.N. 95 of 2006)
 
-  - (n) Test models specially designed for the “development” of items controlled by ML4, ML6, ML9 or ML10; (L.N. 132 of 2001)
+  - (n) Test models specially designed for the “development” of items controlled by ML4, ML6, ML9 or ML10; and (L.N. 132 of 2001; L.N. 95 of 2006)
+
+  - (o) Laser protection equipment (e.g., eye and sensor protection) specially designed for military use; (L.N. 95 of 2006)
 
   - Technical Notes: (L.N. 65 of 2004)
 
@@ -1090,9 +1122,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (1) Signal pistols (see ML2(b));
 
-      - (2) The substances excluded from control under Note 3 to ML7;
+      - (2) The substances excluded from control under Note 1 to ML7; (L.N. 95 of 2006)
 
-      - (3) Personal radiation monitoring dosimeters (see ML7(f)) and masks for protection against specific industrial hazards (see also Dual-use Goods List);
+      - (3) Personal radiation monitoring dosimeters (see ML7(g)) and masks for protection against specific industrial hazards (see also Dual-use Goods List); (L.N. 95 of 2006)
 
       - (4) Difluoroamine and potassium nitrate powder (see Note 6 to ML8); (L.N. 65 of 2004)
 
@@ -1184,55 +1216,37 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (2) “Software” for determining the effects of conventional, nuclear, chemical or biological warfare weapons;
 
-    - (3) “Software”, not controlled by ML21(a), ML21(b)(1) or ML21(b)(2), specially designed or modified to enable equipment not controlled by the Munitions List to perform the military functions of equipment controlled by ML5, ML7(f), ML9(c), ML9(e), ML10(e), ML11, ML14, ML15, ML17(i) or ML18; (L.N. 132 of 2001)
+    - (3) “Software”, not controlled by ML21(a), ML21(b)(1) or ML21(b)(2), specially designed or modified to enable equipment not controlled by the Munitions List to perform the military functions of equipment controlled by ML5, ML7(g), ML9(c), ML9(e), ML10(e), ML11, ML14, ML15, ML17(i) or ML18; (L.N. 132 of 2001; L.N. 95 of 2006)
 
   - ML22 “Technology” as follows:
 
-  - (a) “Technology” according to the General Technology Note of the Munitions List for the “development”, “production” or “use” of items controlled in the Munitions List, other than that “technology” controlled in ML7;
+  - (a) “Technology”, other than that specified in ML22(b), which is “required” for the “development”, “production” or “use” of items controlled in the Munitions List;
 
-  - (b) “Technology” specific to the design of, the assembly of components into, and the operation, maintenance and repair of complete production installations for products referred to in the Munitions List, even if the components of such production installations are not controlled;
+  - (b) “Technology” as follows:
+
+    - (1) “Technology” “required” for the design of, the assembly of components into, and the operation, maintenance and repair of complete production installations for items controlled in the Munitions List, even if the components of such production installations are not controlled;
+
+    - (2) “Technology” “required” for the “development” and “production” of small arms even if used to produce reproductions of antique small arms;
+
+    - (3) “Technology” “required” for the “development”, “production” or “use” of toxicological agents, related equipment or components controlled by ML7(a) to ML7(g);
+
+    - (4) “Technology” “required” for the “development”, “production” or “use” of “biopolymers” or cultures of specific cells controlled by ML7(h);
+
+    - (5) “Technology” “required” exclusively for the incorporation of “biocatalysts”, controlled by ML7(i)(1), into military carrier substances or military material;
 
   - Notes:
 
-  - 1.
+    - 1. “Technology” “required” for the “development”, “production” or “use” of items controlled in the Munitions List remains under control even when applicable to any uncontrolled item.
 
-    - (a) The term ‘products referred to in the Munitions List’ includes:
+    - 2. ML22 does not control “technology” as follows:
 
-      - (1) Products not controlled if inferior to specified concentrations as follows:
+      - (a) Which is the minimum necessary for the installation, operation, maintenance (checking) and repair of those items which are not controlled or whose export has been authorized;
 
-        - (a) Hydrazine (see ML8(c)(4));
+      - (b) Which is “in the public domain”, “basic scientific research” or the minimum necessary information for patent applications;
 
-        - (b) “Explosives” (see ML8);
+      - (c) For magnetic induction for continuous propulsion of civil transport devices.
 
-      - (2) Products not controlled if inferior to technical limits, (i.e., “superconductive” materials not controlled by 1C005 of the Dual-use Goods List; “superconductive” electromagnets not controlled by 3A001(e)(3) of the Dual-use Goods List; “superconductive” electrical equipment excluded from control under ML20(b));
-
-      - (3) Metal fuels and oxidants deposited in laminar form from the vapour phase (see ML8(c)(5));
-
-    - (b) The term ‘products referred to in the Munitions List’ does not include:
-
-      - (1) Signal pistols (see ML2(b));
-
-      - (2) The substances excluded from control under Note 1 to ML7;
-
-      - (3) Personal radiation monitoring dosimeters (see ML7(f)) and masks for protection against specific industrial hazards (see also Dual-use Goods List);
-
-      - (4) Difluoroamine and potassium nitrate powder (see Note 6 to ML8);
-
-      - (5) Aero-engines excluded from control under ML10;
-
-      - (6) Conventional steel helmets not equipped with, or modified or designed to accept, any type of accessory device (see Note 2 to ML13);
-
-      - (7) Equipment fitted with industrial machinery, which is not controlled such as coating machinery not elsewhere specified and equipment for the casting of plastics;
-
-      - (8) Muskets, rifles and carbines dated earlier than 1938, reproductions of muskets, rifles and carbines dated earlier than 1890, revolvers, pistols and machine guns dated earlier than 1890, and their reproductions.
-
-  - 2. Note 1(b)(8) to ML22 does not release from control “technology” for non-antique small arms, even if used to produce reproductions of antique small arms.
-
-  - 3. ML22 does not control “technology” for civil purposes, such as agricultural, pharmaceutical, medical, veterinary, environmental, waste management, or in the food industry. N.B.:
-
-  - See Note 2 to ML7.
-
-- (L.N. 65 of 2004)
+- (L.N. 95 of 2006)
 
 - DUAL-USE GOODS LIST
 
@@ -1774,13 +1788,13 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - 1. 1A005 does not control body armour or protective garments when accompanying their user for the user’s own personal protection. (L.N. 65 of 2004)
 
-  - 2. 1A005 does not control body armour designed to provide frontal protection only from both fragment and blast from non-military explosive devices. 1A102 Resaturated pyrolized carbon-carbon components designed for space launch vehicles specified in 9A004 or sounding rockets specified in 9A104; (L.N. 132 of 2001) 1A202 Composite structures, other than those specified in 1A002, in the form of tubes and having both of the following characteristics: N.B.:
+  - 2. 1A005 does not control body armour designed to provide frontal protection only from both fragment and blast from non-military explosive devices. 1A102 Resaturated pyrolized carbon-carbon components designed for space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104; (L.N. 132 of 2001; L.N. 95 of 2006) 1A202 Composite structures, other than those controlled by 1A002, in the form of tubes and having both of the following characteristics: (L.N. 95 of 2006) N.B.:
 
   - See also 9A010 and 9A110.
 
   - (a) An inside diameter of between 75 mm and 400 mm; and
 
-  - (b) Made with any of the “fibrous or filamentary materials” specified in 1C010(a) or 1C010(b) or 1C210(a) or with carbon prepreg materials specified in 1C210(c);
+  - (b) Made with any of the “fibrous or filamentary materials” controlled by 1C010(a) or 1C010(b) or 1C210(a) or with carbon prepreg materials controlled by 1C210(c); (L.N. 95 of 2006)
 
 - (L.N. 65 of 2004)
 
@@ -1864,13 +1878,15 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (d) Equipment designed or modified for special fibre surface treatment or for producing prepregs and preforms controlled by 9C110; (L.N. 65 of 2004) Note:
 
-  - Equipment covered in 1B101(d) includes rollers, tension stretchers, coating equipment, cutting equipment and clicker dies. 1B102 Metal powder “production equipment”, other than that specified in 1B002, and components as follows: N.B.:
+  - Equipment covered in 1B101(d) includes rollers, tension stretchers, coating equipment, cutting equipment and clicker dies. 1B102 Metal powder “production equipment”, other than that controlled by 1B002, and components as follows: (L.N. 95 of 2006)
+
+  - N.B.:
 
   - See also 1B115(b).
 
-  - (a) Metal powder “production equipment” usable for the “production”, in a controlled environment, of spherical or atomized materials specified in 1C011(a), 1C011(b), 1C111(a)(1), 1C111(a)(2) or in the Munitions List;
+  - (a) Metal powder “production equipment” usable for the “production”, in a controlled environment, of spherical or atomized materials controlled by 1C011(a), 1C011(b), 1C111(a)(1), 1C111(a)(2) or in the Munitions List;
 
-  - (b) Specially designed components for “production equipment” specified in 1B002 or 1B102(a);
+  - (b) Specially designed components for “production equipment” controlled by 1B002 or 1B102(a); (L.N. 95 of 2006)
 
   - Note:
 
@@ -1884,11 +1900,11 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 65 of 2004)
 
-  - 1B115 Equipment, other than that specified in 1B002 or 1B102, for the “production” of propellants or propellant constituents, as follows, and specially designed components therefor:
+  - 1B115 Equipment, other than that controlled by 1B002 or 1B102, for the “production” of propellants or propellant constituents, as follows, and specially designed components therefor: (L.N. 95 of 2006)
 
-    - (a) “Production equipment” for the “production”, handling or acceptance testing of liquid propellants or propellant constituents specified in 1C011(a), 1C011(b), 1C111 or in the Munitions List;
+    - (a) “Production equipment” for the “production”, handling or acceptance testing of liquid propellants or propellant constituents controlled by 1C011(a), 1C011(b), 1C111 or in the Munitions List;
 
-    - (b) “Production equipment” for the “production”, handling, mixing, curing, casting, pressing, machining, extruding or acceptance testing of solid propellants or propellant constituents specified in 1C011(a), 1C011(b), 1C111 or in the Munitions List; Note:
+    - (b) “Production equipment” for the “production”, handling, mixing, curing, casting, pressing, machining, extruding or acceptance testing of solid propellants or propellant constituents controlled by 1C011(a), 1C011(b), 1C111 or in the Munitions List; (L.N. 95 of 2006) Note:
 
     - 1B115(b) does not control batch mixers, continuous mixers or fluid energy mills. For the control of batch mixers, continuous mixers and fluid energy mills, see 1B117, 1B118 and 1B119. Notes:
 
@@ -1916,11 +1932,11 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 65 of 2004)
 
-- 1B119 Fluid energy mills usable for grinding or milling substances specified in 1C011(a), 1C011(b), 1C111 or in the Munitions List, and specially designed components therefor;
+- 1B119 Fluid energy mills usable for grinding or milling substances controlled by 1C011(a), 1C011(b), 1C111 or in the Munitions List, and specially designed components therefor;
 
-- (L.N. 65 of 2004)
+- (L.N. 65 of 2004; L.N. 95 of 2006)
 
-  - 1B201 Filament winding machines, other than those specified in 1B001 or 1B101, and related equipment, as follows:
+  - 1B201 Filament winding machines, other than those controlled by 1B001 or 1B101, and related equipment, as follows: (L.N. 95 of 2006)
 
     - (a) Filament winding machines having all of the following characteristics:
 
@@ -1930,9 +1946,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (3) Capable of winding cylindrical rotors of diameter between 75 mm and 400 mm and lengths of 600 mm or greater;
 
-  - (b) Coordinating and programming controls for the filament winding machines specified in 1B201(a);
+  - (b) Coordinating and programming controls for the filament winding machines controlled by 1B201(a); (L.N. 95 of 2006)
 
-  - (c) Precision mandrels for the filament winding machines specified in 1B201(a); (L.N. 132 of 2001) 1B225 Electrolytic cells for fluorine production with an output capacity greater than 250 g of fluorine per hour;
+  - (c) Precision mandrels for the filament winding machines controlled by 1B201(a); (L.N. 132 of 2001; L.N. 95 of 2006) 1B225 Electrolytic cells for fluorine production with an output capacity greater than 250 g of fluorine per hour;
 
 - (L.N. 65 of 2004)
 
@@ -1958,9 +1974,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (2) Equivalent materials which are both cryogenic and H2-compatible; and (L.N. 132 of 2001)
 
-  - (d) With internal diameters of 1 m or greater and effective lengths of 5 m or greater; 1B229 Water-hydrogen sulphide exchange tray columns and ‘internal contactors’, as follows: N.B.:
-
-  - For columns which are specially designed or prepared for the production of heavy water, see 0B004.
+  - (d) With internal diameters of 1 m or greater and effective lengths of 5 m or greater; 1B229 Water-hydrogen sulphide exchange tray columns and ‘internal contactors’, as follows: N.B.: For columns which are specially designed or prepared for the production of heavy water, see 0B004.
 
   - (a) Water-hydrogen sulphide exchange tray columns, having all of the following characteristics:
 
@@ -1970,7 +1984,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (3) With a diameter of 1.8 m or greater;
 
-  - (b) ‘Internal contactors’ for the water-hydrogen sulphide exchange tray columns specified in 1B229(a); Technical Note:
+  - (b) ‘Internal contactors’ for the water-hydrogen sulphide exchange tray columns controlled by 1B229(a); (L.N. 95 of 2006) Technical Note:
 
   - ‘Internal contactors’ of the columns are segmented trays which have an effective assembled diameter of 1.8 m or greater, are designed to facilitate countercurrent contacting and are constructed of stainless steels with a carbon content of 0.03% or less. These may be sieve trays, valve trays, bubble cap trays, or turbogrid trays. (L.N. 132 of 2001) 1B230 Pumps capable of circulating solutions of concentrated or dilute potassium amide catalyst in liquid ammonia (KNH2/NH3), having all of the following characteristics:
 
@@ -2076,7 +2090,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (b) Materials for absorbing frequencies exceeding 1.5 x 1014 Hz but less than 3.7 x 1014 Hz and not transparent to visible light;
 
-  - (c) Intrinsically conductive polymeric materials with a bulk electrical conductivity exceeding 10000 S/m (Siemens per metre) or a sheet (surface) resistivity of less than 100 ohms/square, based on any of the following polymers:
+  - (c) Intrinsically conductive polymeric materials with a ‘bulk electrical conductivity’ exceeding 10000 S/m (Siemens per metre) or a ‘sheet (surface) resistivity’ of less than 100 ohms/square, based on any of the following polymers: (L.N. 95 of 2006)
 
     - (1) Polyaniline;
 
@@ -2090,7 +2104,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - Technical Note:
 
-  - Bulk electrical conductivity and sheet (surface) resistivity should be determined using ASTM D-257 or national equivalents. 1C002 Metal alloys, metal alloy powder and alloyed materials, as follows:
+  - ‘Bulk electrical conductivity’ and ‘sheet (surface) resistivity’ should be determined using ASTM D-257 or national equivalents. (L.N. 95 of 2006) 1C002 Metal alloys, metal alloy powder and alloyed materials, as follows:
 
   - N.B.:
 
@@ -2350,7 +2364,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (a) Base materials of single or complex borides of titanium having total metallic impurities, excluding intentional additions, of less than 5000 ppm, an average particle size equal to or less than 5 μm and no more than 10% of the particles larger than 10 μm;
 
-  - (b) Non-“composite” ceramic materials in crude or semi-fabricated form, composed of borides of titanium with a density of 98% or more of the theoretical density; Note:
+  - (b) Non-”composite” ceramic materials in crude or semi-fabricated form, composed of borides of titanium with a density of 98% or more of the theoretical density; Note:
 
   - 1C007(b) does not control abrasives.
 
@@ -2396,13 +2410,13 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (3) Aromatic polyimides;
 
-    - (4) Aromatic polyetherimides having a glass transition temperature (Tg) exceeding 513 K (2400C) determined using the dry method described in ASTM D-3418;
+    - (4) Aromatic polyetherimides having a glass transition temperature (Tg) exceeding 513 K (2400C); (L.N. 95 of 2006)
 
     - Note:
 
     - 1C008(a) does not control non-fusible compression moulding powders or moulded forms.
 
-  - (b) Thermoplastic liquid crystal copolymers having a heat distortion temperature exceeding 523 K (2500C) measured according to ASTM D-648, method A, or national equivalents, with a load of 1.82 N/mm2 and composed of:
+  - (b) Thermoplastic liquid crystal copolymers having a heat distortion temperature exceeding 523 K (2500C) measured according to ISO 75-3 (2004), or national equivalents, with a load of 1.82 N/mm2 and composed of: (L.N. 95 of 2006)
 
     - (1) Any of the following:
 
@@ -2420,7 +2434,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (c) Polyarylene ether ketones, as follows:
 
-    - (1) Polyether ether ketone (PEEK);
+    - (1) (Repealed L.N. 95 of 2006)
 
     - (2) Polyether ketone ketone (PEKK);
 
@@ -2432,9 +2446,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (e) Polyarylene sulphides, where the arylene group is biphenylene, triphenylene or combinations thereof;
 
-  - (f) Polybiphenylenethersulphone;
+  - (f) Polybiphenylenethersulphone having a glass transition temperature (Tg) exceeding 513 K (240oC); (L.N. 95 of 2006)
 
-  - Technical Note: The glass transition temperature (Tg) for 1C008 materials is determined using the method described in ASTM D-3418 using the dry method. 1C009 Unprocessed fluorinated compounds, as follows:
+  - Technical Note: The glass transition temperature (Tg) for 1C008 materials is determined using the method described in ISO 11357-2 (1999) or national equivalents. (L.N. 95 of 2006) 1C009 Unprocessed fluorinated compounds, as follows:
 
   - (a) Copolymers of vinylidene fluoride having 75% or more beta crystalline structure without stretching;
 
@@ -2554,7 +2568,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (b) “Previously separated” neptunium-237 in any form; Note:
 
-  - 1C012(b) does not control shipments with a neptunium-237 content of 1 g or less. 1C101 Materials and devices for reduced observables such as radar reflectivity, ultraviolet/infrared signatures and acoustic signatures, other than those controlled by 1C001, usable in “missiles” and their subsystems;
+  - 1C012(b) does not control shipments with a neptunium-237 content of 1 g or less. 1C101 Materials and devices for reduced observables such as radar reflectivity, ultraviolet/infrared signatures and acoustic signatures, other than those controlled by 1C001, usable in ‘missiles’ and their subsystems; (L.N. 95 of 2006)
 
   - Notes:
 
@@ -2564,25 +2578,27 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (b) Coatings, including paints, specially designed for reduced or tailored reflectivity or emissivity in the microwave, infra red or ultra violet regions of the electromagnetic spectrum.
 
-  - 2. 1C101 does not include coatings when specially used for the thermal control of satellites. 1C102 Resaturated pyrolized carbon-carbon materials designed for space launch vehicles specified in 9A004 or sounding rockets specified in 9A104; (L.N. 132 of 2001) 1C107 Graphite and ceramic materials, other than those specified in 1C007, as follows:
+  - 2. 1C101 does not include coatings when specially used for the thermal control of satellites.
 
-  - (a) Fine grain recrystallised bulk graphites having a bulk density of 1.72 g/cm3 or greater, measured at 288 K (150C), and having a particle size of 100 micrometres or less, usable for “missile” nozzles and reentry vehicle nose tips, as follows: (L.N. 65 of 2004)
+  - Technical Note: In 1C101, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km. (L.N. 95 of 2006) 1C102 Resaturated pyrolized carbon-carbon materials designed for space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104; (L.N. 132 of 2001; L.N. 95 of 2006) 1C107 Graphite and ceramic materials, other than those controlled by 1C007, as follows: (L.N. 95 of 2006)
+
+  - (a) Fine grain graphites with a bulk density of at least 1.72 g/cc measured at 15oC and having a grain size of 100 x 10-6m (100 μm) or less, usable for rocket nozzles and re-entry vehicle nose tips, which can be machined to any of the following products:
 
     - (1) Cylinders having a diameter of 120 mm or greater and a length of 50 mm or greater;
 
-    - (2) Tubes having an inner diameter of 65 mm or greater and a wall thickness of 25 mm or greater and a length of 50 mm or greater;
+    - (2) Tubes having an inner diameter of 65 mm or greater and a wall thickness of 25 mm or greater and a length of 50 mm or greater; or
 
-    - (3) Blocks having a size of 120 mm x 120 mm x 50 mm or greater; (L.N. 65 of 2004)
+    - (3) Blocks having a size of 120 mm x 120 mm x 50 mm or greater;
 
   - N.B.:
 
-  - See also 0C004.
+  - See also 0C004. (L.N. 95 of 2006)
 
   - (b) Pyrolytic or fibrous reinforced graphites, usable for “missile” nozzles and reentry vehicle nose tips; N.B.:
 
   - See also 0C004.
 
-  - (c) Ceramic composite materials (dielectric constant less than 6 at frequencies from 100 Hz to 10000 MHz), usable for “missile” radomes;
+  - (c) Ceramic composite materials (dielectric constant less than 6 at any frequency from 100 MHz to 100 GMz), usable for “missile” radomes; (L.N. 95 of 2006)
 
   - (d) Bulk machinable silicon-carbide reinforced unfired ceramic, usable for “missile” nose tips; (L.N. 132 of 2001) 1C111 Propellants and constituent chemicals for propellants, other than those controlled by 1C011, as follows:
 
@@ -2626,6 +2642,8 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (f) See the Munitions List and 1C238 for compounds composed of fluorine and one or more of other halogens, oxygen or nitrogen; (L.N. 65 of 2004)
 
+      - (4) Hydrazine derivatives, other than those controlled by the Munitions List, usable as rocket fuel substances; (L.N. 95 of 2006)
+
   - (b) Polymeric substances:
 
     - (1) Carboxy-terminated polybutadiene (CTPB);
@@ -2638,7 +2656,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (c) Other propellant additives and agents:
 
-    - (1) See the Munitions List for Butacene; (L.N. 65 of 2004)
+    - (1) See the Munitions List for carboranes, decaboranes, pentaboranes and derivatives thereof; (L.N. 65 of 2004; L.N. 95 of 2006)
 
     - (2) Triethylene glycol dinitrate (TEGDN);
 
@@ -2648,11 +2666,41 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (5) Diethylene glycol dinitrate (DEGDN);
 
-    - (6) Ferrocene derivatives other than those controlled by the Munitions List; (L.N. 183 of 1999)
+    - (6) Ferrocene derivatives as follows:
+
+      - (a) See the Munitions List for catocene;
+
+      - (b) Ethyl ferrocene;
+
+      - (c) Propyl ferrocene;
+
+      - (d) See the Munitions List for n-butyl ferrocene;
+
+      - (e) Pentyl ferrocene;
+
+      - (f) Dicyclopentyl ferrocene;
+
+      - (g) Dicyclohexyl ferrocene;
+
+      - (h) Diethyl ferrocene;
+
+      - (i) Dipropyl ferrocene;
+
+      - (j) Dibutyl ferrocene;
+
+      - (k) Dihexyl ferrocene;
+
+      - (l) Acetyl ferrocenes;
+
+      - (m) See the Munitions List for ferrocene carboxylic acids;
+
+      - (n) See the Munitions List for butacene;
+
+      - (o) Other ferrocene derivatives usable as rocket propellant burning rate modifiers, other than those controlled by the Munitions List; (L.N. 95 of 2006)
 
   - Note:
 
-  - For propellants and constituent chemicals for propellants not specified in 1C111, see the Munitions List. (L.N. 65 of 2004) 1C116 Maraging steels (steels generally characterized by high nickel, very low carbon content and the use of substitutional elements or precipitates to produce age-hardening) having an ultimate tensile strength of 1500 MPa or greater, measured at 293 K (200C), in the form of sheet, plate or tubing with a wall or plate thickness equal to or less than 5 mm;
+  - For propellants and constituent chemicals for propellants not controlled by 1C111, see the Munitions List. (L.N. 65 of 2004; L.N. 95 of 2006) 1C116 Maraging steels (steels generally characterized by high nickel, very low carbon content and the use of substitutional elements or precipitates to produce age-hardening) having an ultimate tensile strength equal to or greater than 1.5 GPa, measured at 293 K (200C), in the form of sheet, plate or tubing with a wall or plate thickness equal to or less than 5 mm; (L.N. 95 of 2006)
 
   - N.B.:
 
@@ -2674,7 +2722,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (3) Tubes having an outer diameter of 600 mm or more and a wall thickness of 3 mm or less; (L.N. 183 of 1999)
 
-  - 1C202 Alloys, other than those specified in 1C002(b)(3) or (b)(4), as follows:
+  - 1C202 Alloys, other than those controlled by 1C002(b)(3) or (b)(4), as follows: (L.N. 95 of 2006)
 
   - (a) Aluminium alloys having both of the following characteristics:
 
@@ -2694,7 +2742,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 65 of 2004)
 
-  - 1C210 ‘Fibrous or filamentary materials’ or prepregs, other than those specified in 1C010(a), (b) or (e), as follows:
+  - 1C210 ‘Fibrous or filamentary materials’ or prepregs, other than those controlled by 1C010(a), (b) or (e), as follows: (L.N. 95 of 2006)
 
     - (a) Carbon or aramid ‘fibrous or filamentary materials’ having either of the following characteristics:
 
@@ -2710,15 +2758,15 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (1) A “specific modulus” of 3.18 x 106 m or greater; and
 
-      - (2) A “specific tensile strength” of 76.2 × 103 m or greater;
+      - (2) A “specific tensile strength” of 76.2 x 103 m or greater;
 
-  - (c) Thermoset resin impregnated continuous “yarns”, “rovings”, “tows” or “tapes” with a width of 15 mm or less (prepregs), made from carbon or glass ‘fibrous or filamentary materials’ specified in 1C210(a) or (b); Technical Note:
+  - (c) Thermoset resin impregnated continuous “yarns”, “rovings”, “tows” or “tapes” with a width of 15 mm or less (prepregs), made from carbon or glass ‘fibrous or filamentary materials’ controlled by 1C210(a) or (b); (L.N. 95 of 2006) Technical Note:
 
   - The resin forms the matrix of the composite. Note: In 1C210, ‘fibrous or filamentary materials’ is restricted to continuous “monofilaments”, “yarns”, “rovings”, “tows” or “tapes”.
 
 - (L.N. 65 of 2004)
 
-- 1C216 Maraging steel, other than that specified in 1C116, ‘capable of’ an ultimate tensile strength of 2050 MPa or more, at 293 K (200C);
+- 1C216 Maraging steel, other than that controlled by 1C116, ‘capable of’ an ultimate tensile strength of 2050 MPa or more, at 293 K (200C); (L.N. 95 of 2006)
 
   - Note: 1C216 does not control forms in which all linear dimensions are 75 mm or less. Technical Note: The phrase maraging steel ‘capable of’ encompasses maraging steel before or after heat treatment.
 
@@ -2840,7 +2888,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - 1C238 Chlorine trifluoride (ClF3); 1C239 High explosives, other than those controlled by the Munitions List, or substances or mixtures containing more than 2% thereof, with a crystal density greater than 1.8 gm/cm3 and having a detonation velocity greater than 8000 m/s;
 
-  - 1C240 Nickel powder and porous nickel metal, other than those specified in 0C005, as follows:
+  - 1C240 Nickel powder and porous nickel metal, other than those controlled by 0C005, as follows: (L.N. 95 of 2006)
 
     - (a) Nickel powder having both of the following characteristics:
 
@@ -2848,7 +2896,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (2) A mean particle size of less than 10 micrometres measured by American Society for Testing and Materials (ASTM) B330 standard;
 
-  - (b) Porous nickel metal produced from materials specified in 1C240(a);
+  - (b) Porous nickel metal produced from materials controlled by 1C240(a); (L.N. 95 of 2006)
 
   - Note:
 
@@ -2926,7 +2974,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (28) Pinacolyl alcohol (464-07-3);
 
-    - (29) o-Ethyl-2-diisopropylaminoethyl methylphosphonite (57856-11-8) in the Munitions List;
+    - (29) o-Ethyl-2-di-isopropylaminoethyl methylphosphonite (57856-11-8) in the Munitions List; (L.N. 95 of 2006)
 
     - (30) Triethyl phosphite (122-52-1);
 
@@ -2977,6 +3025,24 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
     - (53) Triethanolamine hydrochloride (637-39-8);
 
     - (54) N,N-Diisopropyl-(Beta)-aminoethyl chloride hydrochloride (4261-68-1);
+
+    - (55) Methyl phosphonic acid (993-13-5); (L.N. 95 of 2006)
+
+    - (56) Diethyl methylphosphonate (683-08-9); (L.N. 95 of 2006)
+
+    - (57) N,N-Dimethyl aminophosphoryl dichloride (677-43-0); (L.N. 95 of 2006)
+
+    - (58) Triisopropyl phosphite (116-17-6); (L.N. 95 of 2006)
+
+    - (59) Ethyl diethanolamine (139-87-7); (L.N. 95 of 2006)
+
+    - (60) O,O-Diethyl phosphorothioate (2465-65-8); (L.N. 95 of 2006)
+
+    - (61) O,O-Diethyl phosphorodithioate (298-06-6); (L.N. 95 of 2006)
+
+    - (62) Sodium hexafluorosilicate (16893-85-9); (L.N. 95 of 2006)
+
+    - (63) Methyl phosphonothioic dichloride (676-98-2); (L.N. 95 of 2006)
 
   - 1C351 Human pathogens, zoonoses and “toxins”, as follows:
 
@@ -3144,9 +3210,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (19) Viscum Album Lectin 1 (Viscumin); (L.N. 65 of 2004)
 
-  - except:
+  - Note:
 
-  - Any goods controlled by 1C351 in the form of a “vaccine” or “immunotoxin”.
+  - 1C351 does not control “vaccines” or “immunotoxins”. (L.N. 95 of 2006)
 
 - (L.N. 65 of 2004)
 
@@ -3198,9 +3264,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (b) Mycoplasma mycoides, whether natural, enhanced or modified, either in the form of “isolated live cultures” or as material including living material which has been deliberately inoculated or contaminated with such Mycoplasma mycoides;
 
-  - except:
+  - Note:
 
-  - Any goods controlled by 1C352 in the form of a “vaccine”. 1C353 Genetic elements and genetically modified organisms, as follows: (L.N. 65 of 2004)
+  - 1C352 does not control “vaccines”. (L.N. 95 of 2006) 1C353 Genetic elements and genetically modified organisms, as follows: (L.N. 65 of 2004)
 
   - (a) Genetically modified organisms or genetic elements that contain nucleic acid sequences associated with pathogenicity of organisms controlled by 1C351(a) to (c) or 1C352 or 1C354;
 
@@ -3208,21 +3274,35 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - Technical Notes:
 
-  - 1. Genetic elements includes, inter alia, chromosomes, genomes, plasmids, transposons and vectors whether genetically modified or unmodified.
+  - 1. Genetic elements include, inter alia, chromosomes, genomes, plasmids, transposons and vectors whether genetically modified or unmodified.
 
-  - 2. 1C353 does not apply to nucleic acid sequences associated with the pathogenicity of enterohaemorrhagic coli, serotype O157 and other verotoxin producing strains, other than those coding for the verotoxin, or for its sub-units. (L.N. 65 of 2004)
+  - 2. Nucleic acid sequences associated with the pathogenicity of any of the “microorganisms” controlled by 1C351(a) to (c) or 1C352 or 1C354 mean any sequence specific to the relevant listed “microorganism”: - that in itself or through its transcribed or translated products represents a significant hazard to human, animal or plant health; or - that is known to enhance the ability of a “microorganism” controlled by 1C351(a) to (c) or 1C352 or 1C354, or any other organism into which it may be inserted or otherwise integrated, to cause serious harm to human, animal or plant health.
+
+  - 3. 1C353 does not apply to nucleic acid sequences associated with the pathogenicity of enterohaemorrhagic Escherichia coli, serotype O157 and other verotoxin producing strains, other than those coding for the verotoxin, or for its sub-units. (L.N. 95 of 2006)
 
 - (L.N. 65 of 2004)
 
   - 1C354 Plant pathogens, as follows:
 
-    - (a) Bacteria, whether natural, enhanced or modified, either in the form of “isolated live cultures” or as material which has been deliberately inoculated or contaminated with such cultures, as follows:
+    - (a) Viruses, whether natural, enhanced or modified, either in the form of “isolated live cultures” or as material (including living material) which has been deliberately inoculated or contaminated with such cultures, as follows:
 
-      - (1) Xanthomonas albilineans;
+      - (1) Potato Andean latent tymovirus;
 
-      - (2) Xanthomonas campestris pv. citri including strains referred to as Xanthomonas campestris pv. citri types A,B,C,D,E or otherwise classified as Xanthomonas citri, Xanthomonas campestris pv. aurantifolia or Xanthomonas campestris pv. citrumelo;
+      - (2) Potato spindle tuber viroid; (L.N. 95 of 2006)
 
-  - (b) Fungi, whether natural, enhanced or modified, either in the form of “isolated live cultures” or as material which has been deliberately inoculated or contaminated with such cultures, as follows:
+  - (b) Bacteria, whether natural, enhanced or modified, either in the form of “isolated live cultures” or as material which has been deliberately inoculated or contaminated with such cultures, as follows: (L.N. 95 of 2006)
+
+    - (1) Xanthomonas albilineans;
+
+    - (2) Xanthomonas campestris pv. citri including strains referred to as Xanthomonas campestris pv. citri types A,B,C,D,E or otherwise classified as Xanthomonas citri, Xanthomonas campestris pv. aurantifolia or Xanthomonas campestris pv. citrumelo;
+
+    - (3) Xanthomonas oryae pv. oryzae (Pseudomonas campestris pv. oryzae); (L.N. 95 of 2006)
+
+    - (4) Clavibacter michiganensis subsp. Sepedonicus (Corynebacterium michiganensis subsp. Sepedonicum or Corynebacterium Sepedonicum); (L.N. 95 of 2006)
+
+    - (5) Ralstonia solanacearum Races 2 and 3 (Pseudomonas solanacearum Races 2 and 3 or Burkholderia solanacearum Races 2 and 3); (L.N. 95 of 2006)
+
+  - (c) Fungi, whether natural, enhanced or modified, either in the form of “isolated live cultures” or as material which has been deliberately inoculated or contaminated with such cultures, as follows: (L.N. 95 of 2006)
 
     - (1) Colletotrichum coffeanum var. virulans (Colletotrichum kahawae);
 
@@ -3236,7 +3316,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (6) Magnaporthe grisea (pyricularia grisea/pyricularia oryzae);
 
-  - 1C450 Chemicals as follows:
+  - 1C450 Toxic chemicals and toxic chemical precursors, as follows: (L.N. 95 of 2006)
 
   - N.B.: See also 1C350, 1C351(d) and the Munitions List.
 
@@ -3290,7 +3370,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (8) Methyldiethanolamine (105-59-9);
 
-  - (c) (Repealed L.N. 65 of 2004) ID SOFTWARE 1D001 “Software” specially designed or modified for the “development”, “production” or “use” of equipment controlled by 1B001 to 1B003; 1D002 “Software” for the “development” of organic “matrix”, metal “matrix” or carbon “matrix” laminates or “composites”; 1D101 “Software” specially designed or modified for the “use” of goods specified in 1B101, 1B102, 1B115 or 1B117 to 1B119; (L.N. 132 of 2001; L.N. 65 of 2004) 1D103 “Software” specially designed for analysis of reduced observables such as radar reflectivity, ultraviolet/infrared signatures and acoustic signatures; 1D201 “Software” specially designed for the “use” of goods controlled by 1B201; 1E TECHNOLOGY 1E001 “Technology” according to the General Technology Note for the “development” or “production” of items controlled by 1A001(b), 1A001(c), 1A002, 1A003, 1A004, 1A005, 1A102, 1B or 1C; (L.N. 183 of 1999) 1E002 Other “technology”, as follows:
+  - (c) (Repealed L.N. 65 of 2004) ID SOFTWARE 1D001 “Software” specially designed or modified for the “development”, “production” or “use” of equipment controlled by 1B001 to 1B003; 1D002 “Software” for the “development” of organic “matrix”, metal “matrix” or carbon “matrix” laminates or “composites”; 1D101 “Software” specially designed or modified for the “use” of goods controlled by 1B101, 1B102, 1B115 or 1B117 to 1B119; (L.N. 132 of 2001; L.N. 65 of 2004; L.N. 95 of 2006) 1D103 “Software” specially designed for analysis of reduced observables such as radar reflectivity, ultraviolet/infrared signatures and acoustic signatures; 1D201 “Software” specially designed for the “use” of goods controlled by 1B201; 1E TECHNOLOGY 1E001 “Technology” according to the General Technology Note for the “development” or “production” of items controlled by 1A001(b), 1A001(c), 1A002, 1A003, 1A004, 1A005, 1A102, 1B or 1C; (L.N. 183 of 1999) 1E002 Other “technology”, as follows:
 
   - (a) “Technology” for the “development” or “production” of polybenzothiazoles or polybenzoxazoles;
 
@@ -3422,13 +3502,13 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 1. Secondary parallel contouring axes, (e.g. the w-axis on horizontal boring mills or a secondary rotary axis the centre line of which is parallel to the primary rotary axis) are not counted in the total number of contouring axes. Rotary axes need not rotate over 3600. A rotary axis can be driven by a linear device (e.g. a screw or a rack-and-pinion).
 
-    - 2. For the purposes of 2B, the number of axes which can be coordinated simultaneously for “contouring control” is the number of axes which affect relative movement between any one workpiece and a tool, cutting head or grinding wheel which is cutting or removing material from the workpiece. This does not include any additional axes which affect other relative movement within the machine. Such axes include:
+    - 2. For the purposes of 2B, the number of axes which can be coordinated simultaneously for “contouring control” is the number of axes along or around which, during processing of a workpiece, simultaneous and interrelated motions are performed between the workpiece and a tool. This does not include any additional axes along or around which other relative motions within the machine are performed, such as:
 
       - (a) Wheel-dressing systems in grinding machines;
 
       - (b) Parallel rotary axes designed for mounting of separate workpieces;
 
-      - (c) Co-linear rotary axes designed for manipulating the same workpiece by holding it in a chuck from different ends.
+      - (c) Co-linear rotary axes designed for manipulating the same workpiece by holding it in a chuck from different ends. (L.N. 95 of 2006)
 
   - 3. Axis nomenclature shall be in accordance with International Standard ISO 841, ‘Numerical Control Machines - Axis and Motion Nomenclature’.
 
@@ -3518,11 +3598,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (b) Limited to a maximum workpiece capacity of 150 mm outside diameter or length.
 
-    - 2. Machines designed specifically as jig grinders having any of the following characteristics:
-
-      - (a) The c-axis is used to maintain the grinding wheel normal to the work surface; or
-
-      - (b) The a-axis is configured to grind barrel cams.
+    - 2. Machines designed specifically as jig grinders that do not have a z-axis or a w-axis, with a positioning accuracy with “all compensations available” less (better) than 3 μm according to ISO 230/2 (1997) or national equivalents. (L.N. 95 of 2006)
 
     - 3 Surface grinders. (L.N. 65 of 2004)
 
@@ -3546,7 +3622,13 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (b) Have a positioning accuracy of less (better) than 0.0030; (L.N. 132 of 2001)
 
-  - (f) Deep-hole-drilling machines and turning machines modified for deep-hole-drilling, having a maximum depth-of-bore capability exceeding 5000 mm and specially designed components therefor; 2B002 Numerically controlled machine tools using a magnetorheological finishing (MRF) process; Technical Note: For the purposes of 2B002, ‘MRF’ is a material removal process using an abrasive magnetic fluid whose viscosity is controlled by a magnetic field. (L.N. 65 of 2004) 2B003 “Numerically controlled” or manual machine tools, and specially designed components, controls and accessories therefor, specially designed for the shaving, finishing, grinding or honing of hardened (Rc = 40 or more) spur, helical and double-helical gears with a pitch diameter exceeding 1 250 mm and a face width of 15% of pitch diameter or larger finished to a quality of AGMA 14 or better (equivalent to ISO 1328 class 3); 2B004 Hot “isostatic presses”, having all of the following, and specially designed components and accessories therefor: (L.N. 132 of 2001)
+  - (f) Deep-hole-drilling machines and turning machines modified for deep-hole-drilling, having a maximum depth-of-bore capability exceeding 5000 mm and specially designed components therefor; 2B002 Numerically controlled machine tools using a magnetorheological finishing (MRF) process equipped to produce non-spherical surfaces and having any of the following characteristics:
+
+  - (a) Finishing the form to less (better) than 1.0 μm; or
+
+  - (b) Finishing to a roughness less (better) than 100 nm rms; (L.N. 95 of 2006)
+
+  - Technical Note: For the purposes of 2B002, ‘MRF’ is a material removal process using an abrasive magnetic fluid whose viscosity is controlled by a magnetic field. (L.N. 65 of 2004) 2B003 “Numerically controlled” or manual machine tools, and specially designed components, controls and accessories therefor, specially designed for the shaving, finishing, grinding or honing of hardened (Rc = 40 or more) spur, helical and double-helical gears with a pitch diameter exceeding 1 250 mm and a face width of 15% of pitch diameter or larger finished to a quality of AGMA 14 or better (equivalent to ISO 1328 class 3); 2B004 Hot “isostatic presses”, having all of the following, and specially designed components and accessories therefor: (L.N. 132 of 2001)
 
   - N.B.:
 
@@ -3570,7 +3652,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - For specially designed dies, moulds and tooling see 1B003, 9B009 and ML18 of the Munitions List. (L.N. 132 of 2001) 2B005 Equipment specially designed for the deposition, processing and in-process control of inorganic overlays, coatings and surface modifications, as follows, for non-electronic substrates, by processes shown in the Table and associated Notes following 2E003(f), and specially designed automated handling, positioning, manipulation and control components therefor:
 
-  - (a) “Stored programme controlled” chemical vapour deposition (CVD) production equipment having all of the following:
+  - (a) Chemical vapour deposition (CVD) production equipment having all of the following:
 
     - (1) Process modified for one of the following:
 
@@ -3586,25 +3668,25 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (b) Incorporating in situ coating thickness control;
 
-  - (b) “Stored programme controlled” ion implantation production equipment having beam currents of 5 mA or more;
+  - (b) Ion implantation production equipment having beam currents of 5 mA or more;
 
-  - (c) “Stored programme controlled” electron beam physical vapour deposition (EB-PVD) production equipment incorporating power systems rated for over 80 kW, having any of the following:
+  - (c) Electron beam physical vapour deposition (EB-PVD) production equipment incorporating power systems rated for over 80 kW, having any of the following:
 
     - (1) A liquid pool level “laser” control system which regulates precisely the ingots feed rate; or
 
     - (2) A computer controlled rate monitor operating on the principle of photo-luminescence of the ionized atoms in the evaporant stream to control the deposition rate of a coating containing two or more elements; (L.N. 132 of 2001)
 
-  - (d) “Stored programme controlled” plasma spraying production equipment having any of the following characteristics:
+  - (d) Plasma spraying production equipment having any of the following characteristics:
 
     - (1) Operating at reduced pressure controlled atmosphere (equal to or less than 10 kPa measured above and within 300 mm of the gun nozzle exit) in a vacuum chamber capable of evacuation down to 0.01 Pa prior to the spraying process; or
 
     - (2) Incorporating in situ coating thickness control;
 
-  - (e) “Stored programme controlled” sputter deposition production equipment capable of current densities of 0.1 mA/mm2 or higher at a deposition rate of 15 μm/h or more;
+  - (e) Sputter deposition production equipment capable of current densities of 0.1 mA/mm2 or higher at a deposition rate of 15 μm/h or more;
 
-  - (f) “Stored programme controlled” cathodic arc deposition production equipment incorporating a grid of electromagnets for steering control of the arc spot on the cathode;
+  - (f) Cathodic arc deposition production equipment incorporating a grid of electromagnets for steering control of the arc spot on the cathode;
 
-  - (g) “Stored programme controlled” ion plating production equipment allowing for the in situ measurement of any of the following:
+  - (g) Ion plating production equipment allowing for the in situ measurement of any of the following:
 
   - (1) Coating thickness on the substrate and rate control; or
 
@@ -3612,49 +3694,49 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - Note:
 
-  - 2B005(a), 2B005(b), 2B005(e), 2B005(f) and 2B005(g) do not control chemical vapour deposition, cathodic arc, sputter deposition, ion plating or ion implantation equipment specially designed for cutting or machining tools. 2B006 Dimensional inspection or measuring systems and equipment, as follows:
+  - 2B005(a), 2B005(b), 2B005(e), 2B005(f) and 2B005(g) do not control chemical vapour deposition, cathodic arc, sputter deposition, ion plating or ion implantation equipment specially designed for cutting or machining tools.
 
-  - (a) Computer controlled, “numerically controlled” or “stored programme controlled” coordinate measuring machines (CMM), having a three dimensional (volumetric) maximum permissible error of indication (MPEE) at any point within the operating range of the machine (i.e., within the length of axes) equal to or less (better) than 1.7 + L/1000 μm (L is the measured length in mm), tested according to ISO 10360-2 (2001); N.B.:
+- (L.N. 95 of 2006)
 
-  - See also 2B206. (L.N. 65 of 2004)
+  - 2B006 Dimensional inspection or measuring systems, equipment and “electronic assemblies”, as follows: (L.N. 95 of 2006)
 
-  - Linear and angular displacement measuring instruments, as follows:
+    - (a) Computer controlled or “numerically controlled” coordinate measuring machines (CMM), having a three dimensional (volumetric) maximum permissible error of indication (MPEE) at any point within the operating range of the machine (i.e., within the length of axes) equal to or less (better) than 1.7 + L/1000 μm (L is the measured length in mm), tested according to ISO 10360-2 (2001); (L.N. 95 of 2006) N.B.:
 
-  - (b)
+    - See also 2B206. (L.N. 65 of 2004)
 
-    - (1)
+    - (b) Linear and angular displacement measuring instruments, as follows:
 
-    - Linear displacement measuring instruments having any of the following: (L.N. 65 of 2004)
+      - (1) Linear displacement measuring instruments having any of the following: (L.N. 65 of 2004) Technical Note:
 
-    - Technical Note:
+  - For the purpose of 2B006(b)(1), ‘linear displacement’ means the change of distance between the measuring probe and the measured object. (L.N. 65 of 2004)
 
-    - For the purpose of 2B006(b)(1), ‘linear displacement’ means the change of distance between the measuring probe and the measured object. (L.N. 65 of 2004)
+    - (a) Non-contact type measuring systems with a “resolution” equal to or less (better) than 0.2 μm within a measuring range up to 0.2 mm;
 
-      - (a) Non-contact type measuring systems with a “resolution” equal to or less (better) than 0.2 μm within a measuring range up to 0.2 mm;
+    - (b) Linear voltage differential transformer systems having all of the following characteristics:
 
-      - (b) Linear voltage differential transformer systems having all of the following characteristics:
+      - (1) “Linearity” equal to or less (better) than 0.1% within a measuring range up to 5 mm; and
 
-        - (1) “Linearity” equal to or less (better) than 0.1% within a measuring range up to 5 mm; and
+      - (2) Drift equal to or less (better) than 0.1% per day at a standard ambient test room temperature +1 K; or
 
-        - (2) Drift equal to or less (better) than 0.1% per day at a standard ambient test room temperature +1 K; or
+    - (c) Measuring systems having all of the following:
 
-      - (c) Measuring systems having all of the following:
+      - (1) Containing a “laser”; and
 
-        - (1) Containing a “laser”; and
+      - (2) Maintaining, for at least 12 hours, over a temperature range of +1 K around a standard temperature and at a standard pressure, all of the following:
 
-        - (2) Maintaining, for at least 12 hours, over a temperature range of +1 K around a standard temperature and at a standard pressure, all of the following:
+        - (a) A “resolution” over their full scale of 0.1 μm or less (better); and
 
-          - (a) A “resolution” over their full scale of 0.1 μm or less (better); and
+        - (b) A “measurement uncertainty” equal to or less (better) than (0.2 + L/2000) μm (L is the measured length in mm);
 
-          - (b) A “measurement uncertainty” equal to or less (better) than (0.2 + L/2000) μm (L is the measured length in mm);
+    - (d) “Electronic assemblies” specially designed to provide feedback capability in systems controlled by 2B006(b)(1)(c); (L.N. 95 of 2006)
 
     - Note:
 
-    - 2B006(b)(1) does not control measuring interferometer systems, without closed or open loop feedback, containing a “laser” to measure slide movement errors of machine-tools, dimensional inspection machines or similar equipment.
+    - 2B006(b)(1) does not control measuring interferometer systems, with an automatic control system that is designed to use no feedback techniques, containing a “laser” to measure slide movement errors of machine-tools, dimensional inspection machines or similar equipment. (L.N. 95 of 2006)
 
-    - (2) Angular displacement measuring instruments having an “angular position deviation” equal to or less (better) than 0.000250; (L.N. 65 of 2004) Note:
+      - (2) Angular displacement measuring instruments having an “angular position deviation” equal to or less (better) than 0.000250; (L.N. 65 of 2004) Note:
 
-    - 2B006(b)(2) does not control optical instruments, such as autocollimators, using collimated light (e.g., laser light) to detect angular displacement of a mirror. (L.N. 65 of 2004)
+      - 2B006(b)(2) does not control optical instruments, such as autocollimators, using collimated light (e.g., laser light) to detect angular displacement of a mirror. (L.N. 65 of 2004)
 
   - (c) Equipment for measuring surface irregularities, by measuring optical scatter as a function of angle, with a sensitivity of 0.5 nm or less (better);
 
@@ -3692,15 +3774,15 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (b) A roller force more than 60 kN;
 
-  - Technical Note: Machines combining the function of spin-forming and flow-forming are for the purpose of 2B009 regarded as flow-forming machines. 2B104 “Isostatic presses”, other than those specified in 2B004, having all of the following: N.B.:
+  - Technical Note: Machines combining the function of spin-forming and flow-forming are for the purpose of 2B009 regarded as flow-forming machines. 2B104 “Isostatic presses”, other than those controlled by 2B004, having all of the following: (L.N. 95 of 2006) N.B.:
 
   - See also 2B204.
 
-  - (a) Maximum working pressure of 69 MPa or greater;
+  - (a) Maximum working pressure equal to or greater than 69 MPa; (L.N. 95 of 2006)
 
   - (b) Designed to achieve and maintain a controlled thermal environment of 873 K (6000C) or greater; and
 
-  - (c) Possessing a chamber cavity with an inside diameter of 254 mm or greater; (L.N. 132 of 2001) 2B105 CVD furnaces, other than those specified in 2B005(a), designed or modified for the densification of carbon-carbon composites; (L.N. 132 of 2001) 2B109 Flow-forming machines, other than those specified in 2B009, and specially designed components as follows: N.B.:
+  - (c) Possessing a chamber cavity with an inside diameter of 254 mm or greater; (L.N. 132 of 2001) 2B105 CVD furnaces, other than those controlled by 2B005(a), designed or modified for the densification of carbon-carbon composites; (L.N. 132 of 2001; L.N. 95 of 2006) 2B109 Flow-forming machines, other than those controlled by 2B009, and specially designed components as follows: (L.N. 95 of 2006) N.B.:
 
   - See also 2B209.
 
@@ -3710,25 +3792,27 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (2) With more than two axes which can be coordinated simultaneously for “contouring control”;
 
-  - (b) Specially designed components for flow-forming machines specified in 2B009 or 2B109(a); Note:
+  - (b) Specially designed components for flow-forming machines controlled by 2B009 or 2B109(a); (L.N. 95 of 2006) Note:
 
-  - 2B109 does not control machines that are not usable in the production of propulsion components and equipment (e.g. motor cases) for systems specified in 9A005, 9A007(a) or 9A105(a).
+  - 2B109 does not control machines that are not usable in the production of propulsion components and equipment (e.g. motor cases) for systems controlled by 9A005, 9A007(a) or 9A105(a). (L.N. 95 of 2006)
 
   - Technical Note:
 
   - Machines combining the function of spin-forming and flow-forming are for the purpose of 2B109 regarded as flow-forming machines. (L.N. 132 of 2001) 2B116 Vibration test systems, equipment and components therefor, as follows:
 
-  - (a) Vibration test systems employing feedback or closed loop techniques and incorporating a digital controller, capable of vibrating a system at 10 g rms or more over the entire range 20 Hz to 2000 Hz and imparting forces of 50 kN, measured “bare table”, or greater;
+  - (a) Vibration test systems employing feedback or closed loop techniques and incorporating a digital controller, capable of vibrating a system at an acceleration equal to or greater than 10 g rms between 20 Hz to 2 kHz and imparting forces equal to or greater than 50 kN, measured ‘bare table’; (L.N. 95 of 2006)
 
   - (b) Digital controllers, combined with specially designed vibration test software, with a “real-time bandwidth” greater than 5 kHz designed for use with vibration test systems controlled by 2B116(a);
 
-  - (c) Vibration thrusters (shaker units), with or without associated amplifiers, capable of imparting a force of 50 kN, measured “bare table”, or greater and usable in vibration test systems controlled by 2B116(a);
+  - (c) Vibration thrusters (shaker units), with or without associated amplifiers, capable of imparting a force equal to or greater than 50 kN, measured ‘bare table’ and usable in vibration test systems controlled by 2B116(a); (L.N. 95 of 2006)
 
-  - (d) Test piece support structures and electronic units designed to combine multiple shaker units in a system capable of providing an effective combined force of 50 kN, measured “bare table”, or greater, and usable in vibration systems controlled by 2B116(a);
+  - (d) Test piece support structures and electronic units designed to combine multiple shaker units in a system capable of providing an effective combined force equal to or greater than 50 kN, measured ‘bare table’, and usable in vibration systems controlled by 2B116(a); (L.N. 95 of 2006)
 
   - Note:
 
-  - In 2B116, ‘bare table’ means a flat table, or surface, with no fixture or fittings. 2B117 Equipment and process controls, other than those specified in 2B004, 2B005(a), 2B104 or 2B105, designed or modified for densification and pyrolysis of structural composite rocket nozzles and reentry vehicle nose tips; (L.N. 132 of 2001) 2B119 Balancing machines and related equipment, as follows: N.B.:
+  - In 2B116, ‘bare table’ means a flat table, or surface, with no fixture or fittings. 2B117 Equipment and process controls, other than those controlled by 2B004, 2B005(a), 2B104 or 2B105, designed or modified for densification and pyrolysis of structural composite rocket nozzles and reentry vehicle nose tips; (L.N. 132 of 2001; L.N. 95 of 2006) 2B119 Balancing machines and related equipment, as follows:
+
+  - N.B.:
 
   - See also 2B219.
 
@@ -3746,7 +3830,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - 2B119(a) does not control balancing machines designed or modified for dental or other medical equipment.
 
-  - (b) Indicator heads designed or modified for use with machines specified in 2B119(a); Technical Note:
+  - (b) Indicator heads designed or modified for use with machines controlled by 2B119(a); (L.N. 95 of 2006) Technical Note:
 
   - Indicator heads are sometimes known as balancing instrumentation.
 
@@ -3776,7 +3860,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 65 of 2004)
 
-  - 2B121 Positioning tables (equipment capable of precise rotary positioning in any axes), other than those specified in 2B120, having all of the following characteristics:
+  - 2B121 Positioning tables (equipment capable of precise rotary positioning in any axes), other than those controlled by 2B120, having all of the following characteristics: (L.N. 95 of 2006)
 
     - (a) Two axes or more; and
 
@@ -3804,9 +3888,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 2B201(a) does not control milling machines having the following characteristics:
 
-- (a) X-axis travel greater than 2m; and
+      - (a) X-axis travel greater than 2m; and
 
-- (b) Overall positioning accuracy on the x-axis more (worse) than 0.03 mm. (L.N. 65 of 2004)
+      - (b) Overall positioning accuracy on the x-axis more (worse) than 30 μm. (L.N. 65 of 2004; L.N. 95 of 2006)
 
   - (b) Machine tools for grinding, having any of the following characteristics:
 
@@ -3834,7 +3918,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (d) Crankshaft or camshaft grinding machines.
 
-  - 2B204 “Isostatic presses”, other than those specified in 2B004 or 2B104, and related equipment, as follows:
+  - 2B204 “Isostatic presses”, other than those controlled by 2B004 or 2B104, and related equipment, as follows: (L.N. 95 of 2006)
 
   - (a) “Isostatic presses” having both of the following characteristics:
 
@@ -3842,11 +3926,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (2) A chamber cavity with an inside diameter in excess of 152 mm;
 
-  - (b) Dies, moulds and controls, specially designed for “isostatic presses” specified in 2B204(a);
+  - (b) Dies, moulds and controls, specially designed for “isostatic presses” controlled by 2B204(a); (L.N. 95 of 2006)
 
-  - Technical Note:
-
-- In 2B204, the inside chamber dimension is that of the chamber in which both the working temperature and the working pressure are achieved and does not include fixtures. That dimension will be the smaller of either the inside diameter of the pressure chamber or the inside diameter of the insulated furnace chamber, depending on which of the two chambers is located inside the other. (L.N. 132 of 2001) 2B206 Dimensional inspection machines, instruments or systems, other than those specified in 2B006, as follows:
+  - Technical Note: In 2B204, the inside chamber dimension is that of the chamber in which both the working temperature and the working pressure are achieved and does not include fixtures. That dimension will be the smaller of either the inside diameter of the pressure chamber or the inside diameter of the insulated furnace chamber, depending on which of the two chambers is located inside the other. (L.N. 132 of 2001) 2B206 Dimensional inspection machines, instruments or systems, other than those controlled by 2B006, as follows: (L.N. 95 of 2006)
 
   - (a) Computer controlled or numerically controlled dimensional inspection machines having both of the following characteristics:
 
@@ -3874,13 +3956,13 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 65 of 2004)
 
-  - 2B207 “Robots”, “end-effectors” and control units, other than those specified in 2B007, as follows:
+  - 2B207 “Robots”, “end-effectors” and control units, other than those controlled by 2B007, as follows: (L.N. 95 of 2006)
 
     - (a) “Robots” or “end-effectors” specially designed to comply with national safety standards applicable to handling high explosives (for example, meeting electrical code ratings for high explosives);
 
-    - (b) Control units specially designed for any of the “robots” or “end-effectors” specified in 2B207(a); (L.N. 132 of 2001)
+    - (b) Control units specially designed for any of the “robots” or “end-effectors” controlled by 2B207(a); (L.N. 132 of 2001; L.N. 95 of 2006)
 
-  - 2B209 Flow forming machines, spin forming machines capable of flow forming functions, other than those specified in 2B009 or 2B109, and mandrels, as follows:
+  - 2B209 Flow forming machines, spin forming machines capable of flow forming functions, other than those controlled by 2B009 or 2B109, and mandrels, as follows: (L.N. 95 of 2006)
 
     - (a) Machines having both of the following characteristics:
 
@@ -3916,7 +3998,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - (b) Having a capability of bridging over the top of a hot cell wall with a thickness of 0.6 m or more (over-the-wall operation);
 
-  - Technical Note: (L.N. 65 of 2004) Remote manipulators provide translation of human operator actions to a remote operating arm and terminal fixture. They may be of master/slave type or operated by joystick or keypad. 2B226 Controlled atmosphere (vacuum or inert gas) induction furnaces, and power supplies therefor, as follows: N.B.:
+  - Technical Note: (L.N. 65 of 2004) Remote manipulators provide translation of human operator actions to a remote operating arm and terminal fixture. They may be of master/slave type or operated by joystick or keypad. 2B226 Controlled atmosphere (vacuum or inert gas) induction furnaces, and power supplies therefor, as follows:
+
+  - N.B.:
 
   - See also 3B.
 
@@ -3928,7 +4012,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (3) Designed for power inputs of 5 kW or more;
 
-  - (b) Power supplies, with a specified power output of 5 kW or more, specially designed for furnaces specified in 2B226(a);
+  - (b) Power supplies, with a specified power output of 5 kW or more, specially designed for furnaces controlled by 2B226(a); (L.N. 95 of 2006)
 
   - Note: 2B226(a) does not control furnaces designed for the processing of semiconductor wafers.
 
@@ -3948,7 +4032,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (2) Capable of operating with melting temperatures above 1473 K (12000C);
 
-  - (c) Computer control and monitoring systems specially configured for any of the furnaces specified in 2B227(a) or 2B227(b);
+  - (c) Computer control and monitoring systems specially configured for any of the furnaces controlled by 2B227(a) or 2B227(b); (L.N. 95 of 2006)
 
 - (L.N. 65 of 2004)
 
@@ -4030,7 +4114,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (7) Zirconium or zirconium alloys;
 
-  - (b) Agitators for use in reaction vessels or reactors specified in 2B350(a); and impellers, blades or shafts designed for such agitators, where all surfaces of the agitator that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials: (L.N. 65 of 2004)
+  - (b) Agitators for use in reaction vessels or reactors controlled by 2B350(a); and impellers, blades or shafts designed for such agitators, where all surfaces of the agitator that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials: (L.N. 65 of 2004; L.N. 95 of 2006)
 
     - (1) Alloys with more than 25% nickel and 20% chromium by weight;
 
@@ -4142,7 +4226,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (8) Zirconium or zirconium alloys;
 
-  - (i) Multiple-seal, canned drive, magnetic drive, bellows or diaphragm pumps, with manufacturer’s specified maximum flow-rate greater than 0.6 m3/hour, or vacuum pumps with manufacturer’s specified maximum flow-rate greater than 5 m3/hour (under standard temperature (273 K (00C)) and pressure (101.3 kPa) conditions; and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials: (L.N. 65 of 2004)
+  - (i) Multiple-seal and seal-less pumps with manufacturer’s specified maximum flow-rate greater than 0.6 m3/hour, or vacuum pumps with manufacturer’s specified maximum flow-rate greater than 5 m3/hour (under standard temperature (273 K (00C)) and pressure (101.3 kPa) conditions; and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials: (L.N. 65 of 2004; L.N. 95 of 2006)
 
     - (1) Alloys with more than 25% nickel and 20% chromium by weight;
 
@@ -4176,7 +4260,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - ’Carbon graphite’ is a composition of amorphous carbon and graphite, in which the graphite content is 8% or more by weight. (L.N. 65 of 2004) 2B351 Toxic gas monitoring systems, as follows, and dedicated detectors therefor:
 
-  - (a) Designed for continuous operation and usable for the detection of chemical warfare agents or chemicals specified in 1C350, at concentrations of less than 0.3 mg/m3; or (L.N. 65 of 2004)
+  - (a) Designed for continuous operation and usable for the detection of chemical warfare agents or chemicals controlled by 1C350, at concentrations of less than 0.3 mg/m3; or (L.N. 65 of 2004; L.N. 95 of 2006)
 
   - (b) Designed for the detection of cholinesterase-inhibiting activity; 2B352 Equipment capable of use in handling biological materials, as follows:
 
@@ -4202,11 +4286,23 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - Centrifugal separators include decanters.
 
-  - (d) Cross (tangential) flow filtration equipment, capable of continuous separation without the propagation of aerosols, having both of the following characteristics: (L.N. 132 of 2001)
+  - (d) Cross (tangential) flow filtration equipment and component as follows:
 
-    - (1) Equal to or greater than 1 m2; and
+    - (1) Cross (tangential) flow filtration equipment capable of separation of pathogenic “microorganisms”, viruses, “toxins” or cell cultures, without the propagation of aerosols, and having both of the following characteristics:
 
-    - (2) Capable of in-situ sterilization;
+      - (a) A total filtration area equal to or greater than 1 m2; and
+
+      - (b) Capable of being ‘sterilised’ or ‘disinfected’ in-situ;
+
+  - Technical Note:
+
+  - In 2B352(d)(1)(b), ‘sterilised’ denotes the elimination of all viable microbes from the equipment through the use of either physical (e.g. steam) or chemical agents. ‘Disinfected’ denotes the destruction of potential microbial infectivity in the equipment through the use of chemical agents with a germicidal effect. Disinfection and sterilisation are distinct from sanitization, the latter referring to cleaning procedures designed to lower the microbial content of equipment without necessarily achieving elimination of all microbial infectivity or viability.
+
+    - (2) Cross (tangential) flow filtration components (e.g. modules, elements, cassettes, cartridges, units or plates) with filtration area equal to or greater than 0.2 m2 for each component and designed for use in cross (tangential) flow filtration equipment controlled by 2B352(d);
+
+  - Note:
+
+  - 2B352(d) does not control reverse osmosis equipment, as specified by the manufacturer. (L.N. 95 of 2006)
 
   - (e) Steam sterilisable freeze drying equipment with a condenser capacity exceeding 10 kg of ice in 24 hours and less than 1000 kg of ice in 24 hours;
 
@@ -4236,7 +4332,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 2. 2D002 does not control “software” for items controlled by 2B002. See 2D001 for control of “software” for items controlled by 2B002. (L.N. 65 of 2004)
 
-  - 2D101 “Software” specially designed or modified for the “use” of equipment specified in 2B104, 2B105, 2B109, 2B116, 2B117 or 2B119 to 2B122;
+  - 2D101 “Software” specially designed or modified for the “use” of equipment controlled by 2B104, 2B105, 2B109, 2B116, 2B117 or 2B119 to 2B122; (L.N. 95 of 2006)
 
   - N.B.:
 
@@ -4766,9 +4862,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 183 of 1999)
 
-- 2E101 “Technology” according to the General Technology Note for the “use” of equipment or “software” specified in 2B004, 2B009, 2B104, 2B109, 2B116, 2B119 to 2B122 or 2D101;
+- 2E101 “Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 2B004, 2B009, 2B104, 2B109, 2B116, 2B119 to 2B122 or 2D101;
 
-- (L.N. 65 of 2004)
+- (L.N. 65 of 2004; L.N. 95 of 2006)
 
 - 2E201 “Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 2A225, 2A226, 2B001, 2B006, 2B007(b), 2B007(c), 2B008, 2B009, 2B201, 2B204, 2B206, 2B207, 2B209, 2B219, 2B225 to 2B228, 2B230 to 2B232, 2D201 or 2D202; (L.N. 132 of 2001) 2E301 “Technology” according to the General Technology Note for the “use” of goods controlled by 2B350 to 2B352; (L.N. 132 of 2001)
 
@@ -4820,19 +4916,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 3A001(a)(2) does not apply to integrated circuits for civil automobiles or railway train applications.
 
-      - (3)
+      - (3) “Microprocessor microcircuits”, “microcomputer microcircuits” and microcontroller microcircuits, manufactured from a compound semiconductor and operating at a clock frequency exceeding 40 MHz; Note:
 
-      - “Microprocessor microcircuits”, “micro-computer microcircuits” and microcontroller microcircuits, having any of the following characteristics:
-
-      - Note:
-
-      - 3A001(a)(3) includes digital signal processors, digital array processors and digital coprocessors.
-
-        - (a) Deleted; (L.N. 65 of 2004)
-
-        - (b) Manufactured from a compound semiconductor and operating at a clock frequency exceeding 40 MHz; or
-
-        - (c) More than one data or instruction bus or serial communication port that provides a direct external interconnection between parallel “microprocessor microcircuits” with a transfer rate exceeding 150 Mbyte/s; (L.N. 132 of 2001)
+      - 3A001(a)(3) includes digital signal processors, digital array processors and digital coprocessors. (L.N. 95 of 2006)
 
       - (4) Storage integrated circuits manufactured from a compound semiconductor;
 
@@ -4840,13 +4926,15 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (a) Analogue-to-digital converters having any of the following:
 
-          - (1) A resolution of 8 bit or more, but less than 12 bit, with a total conversion time of less than 5 ns;
+          - (1) A resolution of 8 bit or more, but less than 10 bit, with an output rate greater than 500 million words per second;
 
-          - (2) A resolution of 12 bit with a total conversion time of less than 20 ns; (L.N. 65 of 2004)
+          - (2) A resolution of 10 bit or more, but less than 12 bit, with an output rate greater than 200 million words per second;
 
-          - (3) A resolution of more than 12 bit but equal to or less than 14 bit with a total conversion time of less than 200 ns; or (L.N. 65 of 2004)
+          - (3) A resolution of 12 bit with an output rate greater than 50 million words per second;
 
-          - (4) A resolution of more than 14 bit with a total conversion time of less than 1 microsecond; (L.N. 65 of 2004)
+          - (4) A resolution of more than 12 bit but equal to or less than 14 bit with an output rate greater than 5 million words per second; or
+
+          - (5) A resolution of more than 14 bit with an output rate greater than 1 million words per second; (L.N. 95 of 2006)
 
         - (b) Digital-to-analogue converters with a resolution of 12 bit or more, and a “settling time” of less than 10 ns;
 
@@ -4854,7 +4942,11 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - 1. A resolution of n bit corresponds to a quantisation of 2n levels.
 
-        - 2. Total conversion time is the inverse of the sample rate. (L.N. 132 of 2001)
+        - 2. The number of bits in the output word is equal to the resolution of the analogue-to-digital converter.
+
+        - 3. The output rate is the maximum output rate of the converter, regardless of architecture or oversampling. Vendors may also refer to the output rate as sampling rate, conversion rate or throughput rate. It is often specified in megahertz (MHz) or mega samples per second (MSPS).
+
+        - 4. For the purpose of measuring output rate, one output word per second is equivalent to one Hertz or one sample per second. (L.N. 95 of 2006)
 
       - (6) Electro-optical and “optical integrated circuits” designed for “signal processing” having all of the following:
 
@@ -4974,11 +5066,11 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - 1. 3A001(b)(2) does not control broadcast satellite equipment designed or rated to operate in the frequency range of 40.5 to 42.5 GHz.
 
-        - 2. The control status of the MMIC whose operating frequency spans more than one frequency range, as defined by 3A001(b)(2), is determined by the lowest average output power control threshold.
+        - 2. The control status of the MMIC whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001(b)(2)(a) to 3A001(b)(2)(f), is determined by the lowest average output power control threshold. (L.N. 95 of 2006)
 
         - 3. Notes 1 and 2 to sub-category 3A of Category 3 mean that 3A001(b)(2) does not control MMICs if they are specially designed for other applications, e.g., telecommunications, radar, automobiles. (L.N. 65 of 2004)
 
-      - (3) Microwave transistors having any of the following:
+      - (3) Discrete microwave transistors having any of the following: (L.N. 95 of 2006)
 
         - (a) Rated for operation at frequencies exceeding 3.2 GHz up to and including 6 GHz and having an average output power greater than 60 W (47.8 dBm);
 
@@ -4992,7 +5084,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - Note:
 
-      - The control status of an item whose operating frequency spans more than one frequency range, as defined by 3A001(b)(3), is determined by the lowest average output power control threshold. (L.N. 65 of 2004)
+      - The control status of a transistor whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001(b)(3)(a) to 3A001(b)(3)(e), is determined by the lowest average output power control threshold. (L.N. 95 of 2006)
 
       - (4) Microwave solid state amplifiers and microwave assemblies/modules containing microwave amplifiers having any of the following:
 
@@ -5014,21 +5106,25 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
           - (3) Any two sides perpendicular to one another with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d<15 cm*GHz/fGHz];
 
-      - N.B.:
+  - Technical Note:
 
-      - MMIC power amplifiers should be evaluated against the criteria in 3A001(b)(2).
+  - 3.2 GHz should be used as the lowest operating frequency (fGHz) in the formula in 3A001(b)(4)(f)(3), for amplifiers that have a rated operation range extending downward to 3.2 GHz and below [d<15cm*GHz/3.2 GHz]. (L.N. 95 of 2006)
 
-      - Notes:
+  - N.B.:
 
-        - 1. 3A001(b)(4) does not control broadcast satellite equipment designed or rated to operate in the frequency range of 40.5 to 42.5 GHz.
+  - MMIC power amplifiers should be evaluated against the criteria in 3A001(b)(2).
 
-        - 2. The control status of an item whose operating frequency spans more than one frequency range, as defined by 3A001(b)(4), is determined by the lowest average output power control threshold. (L.N. 65 of 2004)
+  - Notes:
+
+    - 1. 3A001(b)(4) does not control broadcast satellite equipment designed or rated to operate in the frequency range of 40.5 to 42.5 GHz.
+
+    - 2. The control status of an item whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001(b)(4)(a) to 3A001(b)(4)(e), is determined by the lowest average output power control threshold. (L.N. 95 of 2006)
 
       - (5) Electronically or magnetically tunable band-pass or band-stop filters having more than 5 tunable resonators capable of tuning across a 1.5:1 frequency band (fmax/fmin) in less than 10 μs having any of the following:
 
-        - (a) A band-pass bandwidth of more than 0.5% of centre frequency; or
+    - (a) A band-pass bandwidth of more than 0.5% of centre frequency; or
 
-        - (b) A band-stop bandwidth of less than 0.5% of centre frequency;
+    - (b) A band-stop bandwidth of less than 0.5% of centre frequency;
 
       - (6) Deleted; (L.N. 65 of 2004)
 
@@ -5036,119 +5132,105 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (8) Microwave power amplifiers containing tubes controlled by 3A001(b) and having all of the following:
 
-        - (a) Operating frequencies above 3 GHz;
+    - (a) Operating frequencies above 3 GHz;
 
-        - (b) An average output power density exceeding 80 W/kg; and
+    - (b) An average output power density exceeding 80 W/kg; and
 
-        - (c) A volume of less than 400 cm3;
+    - (c) A volume of less than 400 cm3;
 
-      - Note:
+    - Note:
 
-      - 3A001(b)(8) does not control equipment designed or rated for operation in any frequency band which is “allocated by the ITU” for radiocommunications services, but not for radio-determination. (L.N. 132 of 2001)
+    - 3A001(b)(8) does not control equipment designed or rated for operation in any frequency band which is “allocated by the ITU” for radiocommunications services, but not for radio-determination. (L.N. 132 of 2001)
 
-    - (c) Acoustic wave devices, as follows, and specially designed components therefor:
+      - (c) Acoustic wave devices, as follows, and specially designed components therefor:
 
-      - (1) Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices (i.e., “signal processing” devices employing elastic waves in materials), having any of the following:
+        - (1) Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices (i.e., “signal processing” devices employing elastic waves in materials), having any of the following:
 
-        - (a) A carrier frequency exceeding 2.5 GHz;
+    - (a) A carrier frequency exceeding 2.5 GHz;
 
-        - (b) A carrier frequency exceeding 1 GHz, but not exceeding 2.5 GHz, and having any of the following:
+    - (b) A carrier frequency exceeding 1 GHz, but not exceeding 2.5 GHz, and having any of the following:
 
-          - (1) A frequency side-lobe rejection exceeding 55 dB;
+      - (1) A frequency side-lobe rejection exceeding 55 dB;
 
-          - (2) A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100;
+      - (2) A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100;
 
-          - (3) A bandwidth greater than 250 MHz; or
+      - (3) A bandwidth greater than 250 MHz; or
 
-          - (4) A dispersive delay of more than 10 μs; or
+      - (4) A dispersive delay of more than 10 μs; or
 
-        - (c) A carrier frequency of 1 GHz or less, having any of the following:
+    - (c) A carrier frequency of 1 GHz or less, having any of the following:
 
-          - (1) A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100;
+      - (1) A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100;
 
-          - (2) A dispersive delay of more than 10 μs; or
+      - (2) A dispersive delay of more than 10 μs; or
 
-          - (3) A frequency side-lobe rejection exceeding 55 dB and a bandwidth greater than 50 MHz;
+      - (3) A frequency side-lobe rejection exceeding 55 dB and a bandwidth greater than 50 MHz;
 
-      - (2) Bulk (volume) acoustic wave devices (i.e., “signal processing” devices employing elastic waves) which permit the direct processing of signals at frequencies exceeding 1 GHz;
+        - (2) Bulk (volume) acoustic wave devices (i.e., “signal processing” devices employing elastic waves) which permit the direct processing of signals at frequencies exceeding 1 GHz;
 
-      - (3) Acoustic-optic “signal processing” devices employing interaction between acoustic waves (bulk wave or surface wave) and light waves which permit the direct processing of signals or images, including spectral analysis, correlation or convolution;
+        - (3) Acoustic-optic “signal processing” devices employing interaction between acoustic waves (bulk wave or surface wave) and light waves which permit the direct processing of signals or images, including spectral analysis, correlation or convolution;
 
-    - (d) Electronic devices and circuits containing components, manufactured from “superconductive” materials specially designed for operation at temperatures below the “critical temperature” of at least one of the “superconductive” constituents, with any of the following:
+          - (d) Electronic devices and circuits containing components, manufactured from “superconductive” materials specially designed for operation at temperatures below the “critical temperature” of at least one of the “superconductive” constituents, with any of the following:
 
-      - (1) Current switching for digital circuits using “superconductive” gates with a product of delay time per gate (in seconds) and power dissipation per gate (in watts) of less than 10-14 J; or
+        - (1) Current switching for digital circuits using “superconductive” gates with a product of delay time per gate (in seconds) and power dissipation per gate (in watts) of less than 10-14 J; or
 
-      - (2) Frequency selection at all frequencies using resonant circuits with Q-values exceeding 10000; (L.N. 132 of 2001)
+        - (2) Frequency selection at all frequencies using resonant circuits with Q-values exceeding 10000; (L.N. 132 of 2001)
 
-    - (e) High energy devices, as follows:
+          - (e) High energy devices, as follows:
 
-      - (1)
+        - (1) Batteries and photovoltaic arrays, as follows: Note:
 
-      - Batteries and photovoltaic arrays, as follows:
+    - 3A001(e)(1) does not control batteries with volumes equal to or less than 27 cm3 (e.g., standard C-cells or R14 batteries).
 
-      - Note:
+    - (a) Primary cells and batteries having an energy density exceeding 480 Wh/kg and rated for operation in the temperature range from below 243 K (-300C) to above 343 K (700C);
 
-      - 3A001(e)(1) does not control batteries with volumes equal to or less than 27 cm3 (e.g., standard C-cells or R14 batteries).
+    - (b) Rechargeable cells and batteries having an energy density exceeding 150 Wh/kg after 75 charge/discharge cycles at a discharge current equal to C/5 hours (C being the nominal capacity in ampere hours) when operating in the temperature range from below 253 K (-200C) to above 333 K (600C);
 
-        - (a) Primary cells and batteries having an energy density exceeding 480 Wh/kg and rated for operation in the temperature range from below 243 K (-300C) to above 343 K (700C);
+    - Technical Note:
 
-        - (b) Rechargeable cells and batteries having an energy density exceeding 150 Wh/kg after 75 charge/discharge cycles at a discharge current equal to C/5 hours (C being the nominal capacity in ampere hours) when operating in the temperature range from below 253 K (-200C) to above 333 K (600C);
+    - Energy density is obtained by multiplying the average power in watts (average voltage in volts times average current in amperes) by the duration of the discharge in hours to 75% of the open circuit voltage divided by the total mass of the cell (or battery) in kg.
 
-      - Technical Note:
+    - (c) “Space qualified” and radiation hardened photovoltaic arrays with a specific power exceeding 160 W/m2 at an operating temperature of 301 K (280C) under a tungsten illumination of 1 kW/m2 at 2800 K (2 5270C);
 
-      - Energy density is obtained by multiplying the average power in watts (average voltage in volts times average current in amperes) by the duration of the discharge in hours to 75% of the open circuit voltage divided by the total mass of the cell (or battery) in kg.
+      - (2) High energy storage capacitors, as follows: N.B.: See also 3A201(a).
 
-        - (c) “Space qualified” and radiation hardened photovoltaic arrays with a specific power exceeding 160 W/m2 at an operating temperature of 301 K (280C) under a tungsten illumination of 1 kW/m2 at 2800 K (2 5270C);
+    - (a) Capacitors with a repetition rate of less than 10 Hz (single shot capacitors) having all of the following:
 
-      - (2)
+      - (1) A voltage rating equal to or more than 5 kV;
 
-      - High energy storage capacitors, as follows:
+      - (2) An energy density equal to or more than 250 J/kg; and
 
-      - N.B.:
+      - (3) A total energy equal to or more than 25 kJ;
 
-      - See also 3A201(a).
+    - (b) Capacitors with a repetition rate of 10 Hz or more (repetition rated capacitors) having all of the following:
 
-        - (a) Capacitors with a repetition rate of less than 10 Hz (single shot capacitors) having all of the following:
+      - (1) A voltage rating equal to or more than 5 kV;
 
-          - (1) A voltage rating equal to or more than 5 kV;
+      - (2) An energy density equal to or more than 50 J/kg;
 
-          - (2) An energy density equal to or more than 250 J/kg; and
+      - (3) A total energy equal to or more than 100 J; and
 
-          - (3) A total energy equal to or more than 25 kJ;
+      - (4) A charge/discharge cycle life equal to or more than 10000;
 
-        - (b) Capacitors with a repetition rate of 10 Hz or more (repetition rated capacitors) having all of the following:
+        - (3) “Superconductive” electromagnets and solenoids specially designed to be fully charged or discharged in less than one second, having all of the following: N.B.:
 
-          - (1) A voltage rating equal to or more than 5 kV;
+    - See also 3A201(b).
 
-          - (2) An energy density equal to or more than 50 J/kg;
+    - (a) Energy delivered during the discharge exceeding 10 kJ in the first second;
 
-          - (3) A total energy equal to or more than 100 J; and
+    - (b) Inner diameter of the current carrying windings of more than 250 mm; and
 
-          - (4) A charge/discharge cycle life equal to or more than 10000;
+    - (c) Rated for a magnetic induction of more than 8 T or “overall current density” in the winding of more than 300 A/mm2;
 
-      - (3)
+    - Note:
 
-      - “Superconductive” electromagnets and solenoids specially designed to be fully charged or discharged in less than one second, having all of the following:
+    - 3A001(e)(3) does not control “superconductive” electromagnets or solenoids specially designed for Magnetic Resonance Imaging (MRI) medical equipment.
 
-      - N.B.:
+      - (f) Rotary input type shaft absolute position encoders having any of the following:
 
-      - See also 3A201(b).
+        - (1) A resolution of better than 1 part in 265000 (18 bit resolution) of full scale; or
 
-        - (a) Energy delivered during the discharge exceeding 10 kJ in the first second;
-
-        - (b) Inner diameter of the current carrying windings of more than 250 mm; and
-
-        - (c) Rated for a magnetic induction of more than 8 T or “overall current density” in the winding of more than 300 A/mm2;
-
-      - Note:
-
-      - 3A001(e)(3) does not control “superconductive” electromagnets or solenoids specially designed for Magnetic Resonance Imaging (MRI) medical equipment.
-
-    - (f) Rotary input type shaft absolute position encoders having any of the following:
-
-      - (1) A resolution of better than 1 part in 265000 (18 bit resolution) of full scale; or
-
-      - (2) An accuracy better than +2.5 seconds of arc;
+        - (2) An accuracy better than +2.5 seconds of arc;
 
   - 3A002 General purpose electronic equipment, as follows:
 
@@ -5204,13 +5286,15 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (b) “Frequency synthesiser” “electronic assemblies” having a “frequency switching time” from one selected frequency to another of less than 1 ms;
 
-    - (c) Radio frequency “signal analysers”, as follows: (L.N. 65 of 2004)
+    - (c) Radio frequency “signal analysers”, as follows:
 
-      - (1) “Signal analysers” capable of analysing any frequency exceeding 31.8 GHz but less than 37.5 GHz or exceeding 43.5 GHz; (L.N. 65 of 2004)
+      - (1) “Signal analysers” capable of analysing any frequencies exceeding 31.8 GHz but not exceeding 37.5 GHz and having a 3 dB resolution bandwidth (RBW) exceeding 10 MHz;
 
-      - (2) “Dynamic signal analysers” having a “real-time bandwidth” exceeding 500 kHz; (L.N. 132 of 2001) Note:
+      - (2) “Signal analysers” capable of analysing frequencies exceeding 43.5 GHz;
 
-      - 3A002(c)(2) does not control those “dynamic signal analysers” using only constant percentage bandwidth filters (also known as octave or fractional octave filters). (L.N. 132 of 2001)
+      - (3) “Dynamic signal analysers” having a “real-time bandwidth” exceeding 500 kHz; Note:
+
+  - 3A002(c)(3) does not control those “dynamic signal analysers” using only constant percentage bandwidth filters (also known as octave or fractional octave filters). (L.N. 95 of 2006)
 
     - (d) Frequency synthesised signal generators producing output frequencies, the accuracy and short term and long term stability of which are controlled, derived from or disciplined by the internal master frequency, and having any of the following:
 
@@ -5244,9 +5328,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (2) Being “space qualified”;
 
-  - Note:
+    - Note:
 
-  - 3A002(g)(1) does not control non-”space qualified” rubidium standards. 3A003 Spray cooling thermal management systems employing closed loop fluid handling and reconditioning equipment in a sealed enclosure where a dielectric fluid is sprayed onto electronic components using specially designed spray nozzles that are designed to maintain electronic components within their operating temperature range, and specially designed components therefor;
+    - 3A002(g)(1) does not control non-”space qualified” rubidium standards. 3A003 Spray cooling thermal management systems employing closed loop fluid handling and reconditioning equipment in a sealed enclosure where a dielectric fluid is sprayed onto electronic components using specially designed spray nozzles that are designed to maintain electronic components within their operating temperature range, and specially designed components therefor;
 
 - (L.N. 65 of 2004)
 
@@ -5258,7 +5342,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 3A101(b) does not control equipment specially designed for medical purposes.
 
-  - 3A201 Electronic components, other than those specified in 3A001, as follows:
+  - 3A201 Electronic components, other than those controlled by 3A001, as follows: (L.N. 95 of 2006)
 
     - (a) Capacitors having either of the following sets of characteristics:
 
@@ -5322,7 +5406,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 4. In machines based on microwave accelerating cavities, the peak beam current is the average current in the time duration of a bunched beam packet. (L.N. 65 of 2004)
 
-    - 3A202 (Repealed L.N. 183 of 1999) 3A225 Frequency changers or generators, other than those specified in 0B001(b)(13), having all of the following characteristics:
+    - 3A202 (Repealed L.N. 183 of 1999) 3A225 Frequency changers or generators, other than those controlled by 0B001(b)(13), having all of the following characteristics: (L.N. 95 of 2006)
 
     - (a) Multiphase output capable of providing a power of 40 W or greater;
 
@@ -5338,7 +5422,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 65 of 2004)
 
-  - 3A226 High-power direct current power supplies, other than those specified in 0B001(j)(6), having both of the following characteristics:
+  - 3A226 High-power direct current power supplies, other than those controlled by 0B001(j)(6), having both of the following characteristics: (L.N. 95 of 2006)
 
     - (a) Capable of continuously producing, over a time period of 8 hours, 100 V or greater with current output of 500 A or greater; and
 
@@ -5346,7 +5430,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
 - (L.N. 65 of 2004)
 
-  - 3A227 High-voltage direct current power supplies, other than those specified in 0B001(j)(5), having both of the following characteristics:
+  - 3A227 High-voltage direct current power supplies, other than those controlled by 0B001(j)(5), having both of the following characteristics: (L.N. 95 of 2006)
 
     - (a) Capable of continuously producing, over a time period of 8 hours, 20 kV or greater with current output of 1 A or greater; and
 
@@ -5392,7 +5476,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - See also Munitions List.
 
-    - (a) Explosive detonator firing sets designed to drive multiple controlled detonators specified in 3A232;
+    - (a) Explosive detonator firing sets designed to drive multiple controlled detonators controlled by 3A232; (L.N. 95 of 2006)
 
     - (b) Modular electrical pulse generators (pulsers) having all of the following characteristics:
 
@@ -5486,11 +5570,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (a) Equipment designed for epitaxial growth, as follows: (L.N. 65 of 2004)
 
-      - (1) Equipment capable of producing any of the following:
-
-        - (a) A silicon layer with a thickness uniform to less than + 2.5% across a distance of 200 mm or more; or
-
-        - (b) A layer of any material other than silicon with a thickness uniform to less than + 2.5% across a distance of 75 mm or more; (L.N. 65 of 2004)
+      - (1) Equipment capable of producing a layer of any material other than silicon with a thickness uniform to less than + 2.5% across a distance of 75 mm or more; (L.N. 95 of 2006)
 
       - (2) Metal organic chemical vapour deposition (MOCVD) reactors specially designed for compound semiconductor crystal growth by the chemical reaction between materials controlled by 3C003 or 3C004;
 
@@ -5510,13 +5590,13 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (1) Equipment with cassette-to-cassette operation and load-locks, and having any of the following:
 
-        - (a) Designed or optimized to produce critical dimensions of 0.3 μm or less with +5% 3 sigma precision; or (L.N. 132 of 2001)
+        - (a) Designed or optimized to produce critical dimensions of 180 nm or less with +5% 3 sigma precision; or (L.N. 132 of 2001; L.N. 95 of 2006)
 
         - (b) Designed for generating less than 0.04 particles/cm2 with a measurable particle size greater than 0.1 μm in diameter; (L.N. 132 of 2001)
 
       - (2) Equipment specially designed for equipment controlled by 3B001(e) and having any of the following:
 
-        - (a) Designed or optimized to produce critical dimensions of 0.3 μm or less with +5% 3 sigma precision; or (L.N. 132 of 2001)
+        - (a) Designed or optimized to produce critical dimensions of 180 nm or less with +5% 3 sigma precision; or (L.N. 132 of 2001; L.N. 95 of 2006)
 
         - (b) Designed for generating less than 0.04 particles/cm2 with a measurable particle size greater than 0.1 μm in diameter; (L.N. 132 of 2001)
 
@@ -5540,17 +5620,17 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (1) Align and expose step and repeat (direct step on wafer) or step and scan (scanner) equipment for wafer processing using photo-optical or X-ray methods, having any of the following:
 
-        - (a) A light source wavelength shorter than 350 nm; or
+        - (a) A light source wavelength shorter than 245 nm; or (L.N. 95 of 2006)
 
-        - (b) Capable of producing a pattern with a minimum resolvable feature size of 0.35 μm or less; (L.N. 132 of 2001; L.N. 65 of 2004) Technical Note: (L.N. 132 of 2001)
+        - (b) Capable of producing a pattern with a minimum resolvable feature size of 180 nm or less; (L.N. 132 of 2001; L.N. 65 of 2004; L.N. 95 of 2006) Technical Note: (L.N. 132 of 2001)
 
         - The minimum resolvable feature size is calculated by the following formula:
 
-        - MRF = | (an exposure light source wavelength in μm) × (K factor)
+        - MRF = | (an exposure light source wavelength in nm) × (K factor)
 
         - numerical aperture
 
-        - where the K factor = 0.7; MRF = minimum resolvable feature size.
+        - where the K factor = 0.45; MRF = minimum resolvable feature size. (L.N. 95 of 2006)
 
       - (2) Equipment specially designed for mask making or semiconductor device processing using deflected focussed electron beam, ion beam or “laser” beam, having any of the following:
 
@@ -5564,27 +5644,11 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (h) Multi-layer masks with a phase shift layer; Note:
 
-    - 3B001(h) does not control multi-layer masks with a phase shift layer designed for the fabrication of memory devices not controlled by 3A001. (L.N. 65 of 2004) 3B002 “Stored programme controlled” test equipment, specially designed for testing finished or unfinished semiconductor devices, as follows, and specially designed components and accessories therefor:
+    - 3B001(h) does not control multi-layer masks with a phase shift layer designed for the fabrication of memory devices not controlled by 3A001. (L.N. 65 of 2004) 3B002 Test equipment, specially designed for testing finished or unfinished semiconductor devices, as follows, and specially designed components and accessories therefor: (L.N. 95 of 2006)
 
     - (a) For testing S-parameters of transistor devices at frequencies exceeding 31.8 GHz; (L.N. 65 of 2004)
 
-    - (b)
-
-    - For testing integrated circuits capable of performing functional (truth table) testing at a pattern rate of more than 667 MHz; (L.N. 132 of 2001; L.N. 65 of 2004)
-
-    - Note:
-
-    - 3B002(b) does not control test equipment specially designed for testing:
-
-      - 1. “Electronic assemblies” or a class of “electronic assemblies” for home or entertainment applications.
-
-      - 2. Uncontrolled electronic components, “electronic assemblies” or integrated circuits.
-
-      - 3. Memories. (L.N. 132 of 2001)
-
-      - Technical Note:
-
-      - For the purpose of this entry, pattern rate is defined as the maximum frequency of digital operation of a tester. It is therefore equivalent to the highest data rate that a tester can provide in non-multiplexed mode. It is also referred to as test speed, maximum digital frequency or maximum digital speed. (L.N. 132 of 2001)
+    - (b) (Repealed L.N. 95 of 2006)
 
     - (c) For testing microwave integrated circuits controlled by 3A001(b)(2); (L.N. 132 of 2001)
 
@@ -5750,15 +5814,15 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - 4. The synchronisation of two central processing units by “software” so that one central processing unit recognises when the other central processing unit fails and recovers tasks from the failing unit.
 
-      - (b) “Digital computers” having a “composite theoretical performance” (“CTP”) exceeding 190000 million theoretical operations per second (Mtops); (L.N. 183 of 1999; L.N. 2 of 2000; L.N. 132 of 2001; L.N. 65 of 2004)
+      - (b) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.75 Weighted TeraFLOPS (WT); (L.N. 95 of 2006)
 
       - (c)
 
-      - “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of “computing elements” (“CEs”) so that the “CTP” of the aggregation exceeds the limit in 4A003(b); (L.N. 183 of 1999)
+      - “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4A003(b); (L.N. 183 of 1999; L.N. 95 of 2006)
 
       - Notes:
 
-        - 1. 4A003(c) applies only to “electronic assemblies” and programmable interconnections not exceeding the limit in 4A003(b), when shipped as unintegrated “electronic assemblies”. It does not apply to “electronic assemblies” inherently limited by nature of their design for use as related equipment controlled by 4A003(d) or 4A003(e). (L.N. 183 of 1999)
+        - 1. 4A003(c) applies only to “electronic assemblies” and programmable interconnections not exceeding the limit in 4A003(b), when shipped as unintegrated “electronic assemblies”. It does not apply to “electronic assemblies” inherently limited by nature of their design for use as related equipment controlled by 4A003(e). (L.N. 183 of 1999; L.N. 95 of 2006)
 
         - 2. 4A003(c) does not control “electronic assemblies” specially designed for a product or family of products whose maximum configuration does not exceed the limit of 4A003(b).
 
@@ -5776,7 +5840,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (b) “Neural computers”;
 
-      - (c) “Optical computers”; 4A101 Analogue computers, “digital computer” or digital differential analysers, other than those controlled by 4A001(a)(1), which are ruggedized and designed or modified for use in space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104; (L.N. 183 of 1999) 4A102 “Hybrid computers” specially designed for modelling, simulation or design integration of space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104; (L.N. 183 of 1999)
+      - (c) “Optical computers”; 4A101 Analogue computers, “digital computer” or digital differential analysers, other than those controlled by 4A001(a)(1), which are ruggedized and designed or modified for use in space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 95 of 2006) 4A102 “Hybrid computers” specially designed for modelling, simulation or design integration of space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 95 of 2006)
 
       - Note: 4A102 only applies when the equipment is supplied with software controlled by 7D103 or 9D103. 4B TEST, INSPECTION AND PRODUCTION EQUIPMENT None 4C MATERIALS None 4D SOFTWARE Note:
 
@@ -5784,9 +5848,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (b) “Software”, other than that controlled by 4D001(a), specially designed or modified for the “development” or “production” of:
 
-        - (1) “Digital computers” having a “composite theoretical performance” (“CTP”) exceeding 28000 Mtops; or
+        - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.04 Weighted TeraFLOPS (WT); or (L.N. 95 of 2006)
 
-        - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of “computing elements” (“CEs”) so that the “CTP” of the aggregation exceeds the limit in 4D001(b)(1); (L.N. 65 of 2004)
+        - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4D001(b)(1); (L.N. 65 of 2004; L.N. 95 of 2006)
 
       - 4D002 “Software” specially designed or modified to support “technology” controlled by 4E; 4D003 Specific “software”, as follows:
 
@@ -5804,9 +5868,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - “Technology”, other than that controlled by 4E001(a), specially designed or modified for the “development” or “production” of:
 
-          - (1) “Digital computers” having a “composite theoretical performance” (“CTP”) exceeding 28000 Mtops; or
+          - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.04 Weighted TeraFLOPS (WT); or (L.N. 95 of 2006)
 
-          - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of “computing elements” (“CEs”) so that the “CTP” of the aggregation exceeds the limit in 4E001(b)(1); (L.N. 65 of 2004) TECHNICAL NOTE ON “COMPOSITE THEORETICAL PERFORMANCE” (“CTP”)
+          - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4E001(b)(1); (L.N. 65 of 2004; L.N. 95 of 2006) TECHNICAL NOTE ON “COMPOSITE THEORETICAL PERFORMANCE” (“CTP”)
 
         - Abbreviations used in this Technical Note:
 
@@ -5974,89 +6038,99 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - This does not apply to items controlled under Category 3.
 
-  - 2.
-
-  - “CEs” share memory if they access a common segment of solid state memory. This memory may include cache memory, main memory, or other internal memory. Peripheral memory devices such as disk drives, tape drives or RAM disks are not included.
-
-  - For Multiple “CEs” or groups of “CEs” not sharing memory, interconnected by one or more data channels:
-
-  - Ci = 0.75 x ki (i = 2, ., 32) (see Note below)
-
-  - = 0.60 x ki (i = 33, ., 64)
+  - 2. “CEs” share memory if they access a common segment of solid state memory. This memory may include cache memory, main memory, or other internal memory. Peripheral memory devices such as disk drives, tape drives or RAM disks are not included. For Multiple “CEs” or groups of “CEs” not sharing memory, interconnected by one or more data channels: Ci = 0.75 x ki (i = 2, ., 32) (see Note below) = 0.60 x ki (i = 33, ., 64)
 
   - = 0.45 x ki (i = 65, ., 256)
 
-  - = 0.30 x ki (i > 256)
+  - = 0.30 x ki (i > 256) The value of Ci is based on the number of “CEs”, not the number of nodes.
 
-  - The value of Ci is based on the number of “CEs”, not the number of nodes.
+  - where ki = min (Si/Kr, 1), and Kr = normalizing factor of 20 MByte/s. Si = sum of the maximum data rates (in units of MByte/s) for all data channels connected to the ith “CE” or group of “CEs” sharing memory. When calculating a Ci for a group of “CEs”, the number of the first “CE” in a group determines the proper limit for Ci. For example, in an aggregation of groups consisting of 3 “CEs” each, the 22nd group will contain “CE”64, “CE”65 and “CE”66. The proper limit for Ci for this group is 0.60.
 
-  - where ki = min (Si/Kr, 1), and
+  - Aggregation (of “CEs” or groups of “CEs”) should be from the fastest-to-slowest; i.e.: TP1 > TP2 > . > TPn, and in the case of TPi = TPi+1, from the largest to smallest; i.e.: Ci > Ci+1 Note: The ki factor is not to be applied to “CEs” 2 to 12 if the TPi of the “CE” or group of “CEs” is more than 50 Mtops; i.e., Ci for “CEs” 2 to 12 is 0.75. TECHNICAL NOTE ON “ADJUSTED PEAK
 
-  - Kr = normalizing factor of 20 MByte/s.
+  - PERFORMANCE” (“APP”) “APP” is an adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications. Abbreviations used in this Technical Note: n number of processors in the “digital computer” i processor number (i, . . . n) ti processor cycle time (ti = 1/Fi) Fi processor frequency Ri peak floating point calculating rate Wi architecture adjustment factor “APP” is expressed in Weighted TeraFLOPS (WT), in units of 1012 adjusted floating point operations per second.
 
-  - Si = sum of the maximum data rates (in units of MByte/s) for all data channels connected to the ith “CE” or group of “CEs” sharing memory.
+  - Outline of the “APP” calculation method:
 
-  - When calculating a Ci for a group of “CEs”, the number of the first “CE” in a group determines the proper limit for Ci. For example, in an aggregation of groups consisting of 3 “CEs” each, the 22nd group will contain “CE”64, “CE”65 and “CE”66. The proper limit for Ci for this group is 0.60.
+- 1. For each processor i, determine the peak number of 64-bit or larger floating point operations, FPOi, performed per cycle for each processor in the ‘digital computer”. Note:
 
-  - Aggregation (of “CEs” or groups of “CEs”) should be from the fastest-to-slowest; i.e.:
+- In determining FPO, include only 64-bit or larger floating point additions or multiplications or both. All floating point operations must be expressed in operations per processor cycle; operations requiring multiple cycles may be expressed in fractional results per cycle. For processors not capable of performing calculations on floating point operands of 64-bits or more, the effective calculating rate R is zero.
 
-  - TP1 > TP2 > . > TPn, and
+- 2. Calculate the floating point rate R for each processor Ri = FPOi/ti
 
-  - in the case of TPi = TPi+1, from the largest to smallest; i.e.:
+- 3. Calculate “APP” “APP” = W1 x R1 + W2 x R2 + . + Wn x Rn
 
-  - Ci > Ci+1
+- 4. For ‘vector processors’, Wi = 0.9. For non-’vector processors’, Wi = 0.3. Notes:
+
+- 1. For processors that perform compound operations in a cycle, such as addition and multiplication, each operation is counted.
+
+- 2. For a pipelined processor, the effective calculating rate R is the faster of the pipelined rate, once the pipeline is full, or the non-pipelined rate.
+
+- 3. The calculating rate R of each contributing processor is to be calculated at its maximum value theoretically possible before the “APP” of the combination is derived. Simultaneous operations are assumed to exist when the computer manufacturer claims concurrent, parallel, or simultaneous operation or execution in a manual or brochure for the computer.
+
+- 4. Do not include processors that are limited to input/output and peripheral functions (e.g., disk drive, communication and video display) when calculating “APP”.
+
+- 5. “APP” values are not to be calculated for processor combinations interconnected by “Local Area Networks”, Wide Area Networks, Input/Output shared connections/devices, Input/Output controllers and any communication interconnection implemented by “software”.
+
+- 6. “APP” values must be calculated for 1) processor combinations containing processors specially designed to enhance performance by aggregation, operating simultaneously and sharing memory; or 2) multiple memory/processor combinations operating simultaneously utilizing specially designed hardware.
+
+- 7.
+
+- A ‘vector processor’ is defined as a processor with built-in instructions that perform multiple calculations on floating-point vectors (one-dimensional arrays of 64-bit or larger numbers) simultaneously, and having at least 2 vector functional units and at least 8 vector registers of at least 64 elements each.
+
+- (L.N. 95 of 2006)
+
+- CATEGORY 5-TELECOMMUNICATIONS AND “INFORMATION SECURITY”
+
+- Part 1-Telecommunications
+
+- Notes:
+
+- 1. The control status of components, “lasers”, test and “production” equipment and “software” therefor which are specially designed for telecommunications equipment or systems is determined in Category 5, Part 1.
+
+- 2. “Digital computers”, related equipment or “software”, when essential for the operation and support of telecommunications equipment described in this Category, are regarded as specially designed components, provided they are the standard models customarily supplied by the manufacturer. This includes operation, administration, maintenance, engineering or billing computer systems. 5A1 SYSTEMS, EQUIPMENT AND COMPONENTS 5A001 (a) Any type of telecommunications equipment having any of the following characteristics, functions or features:
+
+  - (1) Specially designed to withstand transitory electronic effects or electromagnetic pulse effects, both arising from a nuclear explosion;
+
+  - (2) Specially hardened to withstand gamma, neutron or ion radiation; or
+
+  - (3)
+
+  - Specially designed to operate outside the temperature range from 218 K (-550C) to 397 K (1240C);
 
   - Note:
 
-  - The ki factor is not to be applied to “CEs” 2 to 12 if the TPi of the “CE” or group of “CEs” is more than 50 Mtops; i.e., Ci for “CEs” 2 to 12 is 0.75.
+  - 5A001(a)(3) applies only to electronic equipment.
 
-  - CATEGORY 5-TELECOMMUNICATIONS AND “INFORMATION SECURITY”
+  - Note:
 
-  - Part 1-Telecommunications
+  - 5A001(a)(2) and 5A001(a)(3) do not control equipment designed or modified for use on board satellites.
 
-  - Notes:
+    - (b) Telecommunications transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features: (36 of 2000 s. 28)
 
-    - 1. The control status of components, “lasers”, test and “production” equipment and “software” therefor which are specially designed for telecommunications equipment or systems is determined in Category 5, Part 1.
+  - (1) Being underwater communications systems having any of the following characteristics:
 
-    - 2. “Digital computers”, related equipment or “software”, when essential for the operation and support of telecommunications equipment described in this Category, are regarded as specially designed components, provided they are the standard models customarily supplied by the manufacturer. This includes operation, administration, maintenance, engineering or billing computer systems.
+    - (a) An acoustic carrier frequency outside the range from 20 kHz to 60 kHz;
 
-  - 5A1 SYSTEMS, EQUIPMENT AND COMPONENTS 5A001 (a) Any type of telecommunications equipment having any of the following characteristics, functions or features:
+    - (b) Using an electromagnetic carrier frequency below 30 kHz; or
 
-    - (1) Specially designed to withstand transitory electronic effects or electromagnetic pulse effects, both arising from a nuclear explosion;
+    - (c) Using electronic beam steering techniques;
 
-    - (2) Specially hardened to withstand gamma, neutron or ion radiation; or
+  - (2) Being radio equipment operating in the 1.5 MHz to 87.5 MHz band and having any of the following characteristics:
 
-    - (3) Specially designed to operate outside the temperature range from 218 K (-550C) to 397 K (1240C); Note:
+    - (a) Incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal; or
 
-    - 5A001(a)(3) applies only to electronic equipment. Note:
+    - (b) Having all of the following:
 
-    - 5A001(a)(2) and 5A001(a)(3) do not control equipment designed or modified for use on board satellites.
+      - (1) Automatically predicting and selecting frequencies and “total digital transfer rates” per channel to optimize the transmission; and
 
-  - (b) Telecommunications transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features: (36 of 2000 s. 28)
+      - (2) Incorporating a linear power amplifier configuration having a capability to support multiple signals simultaneously at an output power of 1 kW or more in the frequency range of 1.5 MHz or more but less than 30 MHz, or 250 W or more in the frequency range of 30 MHz or more but not exceeding 87.5 MHz, over an “instantaneous bandwidth” of one octave or more and with an output harmonic and distortion content of better than -80 dB; (L.N. 65 of 2004)
 
-    - (1) Being underwater communications systems having any of the following characteristics:
+  - (3) Being radio equipment employing “spread spectrum” techniques, including “frequency hopping” techniques, not controlled by 5A001(b)(4), and having any of the following characteristics: (L.N. 132 of 2001; L.N. 95 of 2006)
 
-      - (a) An acoustic carrier frequency outside the range from 20 kHz to 60 kHz;
+    - (a) User programmable spreading codes; or
 
-      - (b) Using an electromagnetic carrier frequency below 30 kHz; or
-
-      - (c) Using electronic beam steering techniques;
-
-    - (2) Being radio equipment operating in the 1.5 MHz to 87.5 MHz band and having any of the following characteristics:
-
-      - (a) Incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal; or
-
-      - (b) Having all of the following:
-
-        - (1) Automatically predicting and selecting frequencies and “total digital transfer rates” per channel to optimize the transmission; and
-
-        - (2) Incorporating a linear power amplifier configuration having a capability to support multiple signals simultaneously at an output power of 1 kW or more in the frequency range of 1.5 MHz or more but less than 30 MHz, or 250 W or more in the frequency range of 30 MHz or more but not exceeding 87.5 MHz, over an “instantaneous bandwidth” of one octave or more and with an output harmonic and distortion content of better than -80 dB; (L.N. 65 of 2004)
-
-    - (3) Being radio equipment employing “spread spectrum” techniques, including “frequency hopping” techniques, having any of the following characteristics: (L.N. 132 of 2001)
-
-      - (a) User programmable spreading codes; or
-
-      - (b) A total transmitted bandwidth which is 100 or more times the bandwidth of any one information channel and in excess of 50 kHz;
+    - (b) A total transmitted bandwidth which is 100 or more times the bandwidth of any one information channel and in excess of 50 kHz;
 
   - Note:
 
@@ -6066,63 +6140,91 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
   - 5A001(b)(3) does not control equipment designed to operate at an output power of 1.0 Watt or less.
 
-    - (4) Being radio equipment employing “time-modulated ultra-wideband” techniques, having user programmable channelizing or scrambling codes; (L.N. 65 of 2004)
+  - (4) Being radio equipment employing ultra-wideband modulation techniques, having user programmable channelizing codes, scrambling codes or network identification codes, and having any of the following characteristics:
 
-    - (5) Being digitally controlled radio receivers having all of the following: (L.N. 65 of 2004)
+    - (a) A bandwidth exceeding 500 MHz; or
 
-      - (a) More than 1000 channels;
+    - (b) A “fractional bandwidth” of 20% or more. (L.N. 95 of 2006)
 
-      - (b) A “frequency switching time” of less than 1 ms;
+  - (5) Being digitally controlled radio receivers having all of the following: (L.N. 65 of 2004)
 
-      - (c) Automatic searching or scanning of a part of the electromagnetic spectrum; and
+    - (a) More than 1000 channels;
 
-      - (d) Identification of the received signals or the type of transmitter;
+    - (b) A “frequency switching time” of less than 1 ms;
 
-    - Note:
+    - (c) Automatic searching or scanning of a part of the electromagnetic spectrum; and
 
-    - 5A001(b)(5) does not control radio equipment specially designed for use with civil cellular radiocommunications systems. (L.N. 132 of 2001; L.N. 65 of 2004)
-
-    - (6) Employing functions of digital “signal processing” to provide voice coding output at rates of less than 2400 bit/s; (L.N. 65 of 2004) Technical Note:
-
-    - For variable rate voice coding, 5A001(b)(6) applies to the voice coding output of continuous speech. (L.N. 65 of 2004)
-
-  - (c) Optical fibre communication cables, optical fibres and accessories, as follows:
-
-    - (1) Optical fibres of more than 500 m in length, specified by the manufacturer as being capable of withstanding a proof test tensile stress of 2×109 N/m2 or more; Technical Note:
-
-    - Proof Test: on-line or off-line production screen testing that dynamically applies a prescribed tensile stress over a 0.5 to 3 m length of fibre at a running rate of 2 to 5 m/s while passing between capstans approximately 150 mm in diameter. The ambient temperature is a nominal 293 K and relative humidity 40%. Equivalent national standards may be used for executing the proof test. (L.N. 132 of 2001)
-
-    - (2) Optical fibre cables and accessories designed for underwater use; Note:
-
-  - 5A001(c)(2) does not control standard civil telecommunications cables and accessories. (36 of 2000 s. 28)
-
-  - N.B.:
-
-    - 1. For underwater umbilical cables, and connectors therefor, see 8A002(a)(3).
-
-    - 2. For fibre optic hull penetrators or connectors, see 8A002(c).
-
-  - (d) “Electronically steerable phased array antennae” operating above 31 GHz; Note:
-
-  - 5A001(d) does not control “electronically steerable phased array antennae” for landing systems with instruments meeting ICAO standards covering microwave landing systems (MLS). 5A101 Telemetry and telecontrol equipment, including ground equipment, designed or modified for space launch vehicles specified in 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets specified in 9A104; Notes:
-
-  - 1. 5A101 does not control equipment designed or modified for manned aircraft or satellites.
-
-  - 2. 5A101 does not control ground based equipment designed or modified for terrestrial or marine applications.
-
-  - 3. 5A101 does not control equipment designed for commercial, civil or ‘Safety of Life’ (e.g. data integrity, flight safety) GNSS services.
-
-  - 4. 5A101 does not control equipment specially designed to be used for remote control of model planes, boats or vehicles and having an electric field strength of not more than 200 μV/m at a distance of 500 m.
-
-- (L.N. 65 of 2004)
-
-- 5B1 TEST, INSPECTION, AND PRODUCTION EQUIPMENT
-
-- 5B001 (a) Equipment and specially designed components or accessories therefor, specially designed for the “development”, “production” or “use” of equipment, functions or features controlled by Category 5-Part 1;
+    - (d) Identification of the received signals or the type of transmitter;
 
   - Note:
 
-  - 5B001(a) does not control optical fibre characterization equipment.
+  - 5A001(b)(5) does not control radio equipment specially designed for use with civil cellular radiocommunications systems. (L.N. 132 of 2001; L.N. 65 of 2004)
+
+  - (6) Employing functions of digital “signal processing” to provide ‘voice coding’ output at rates of less than 2400 bit/s; (L.N. 65 of 2004; L.N. 95 of 2006) Technical Notes:
+
+- 1. For variable rate ‘voice coding’, 5A001(b)(6) applies to the voice coding output of continuous speech.
+
+- 2.
+
+  - For the purpose of 5A001(b)(6), ‘voice coding’ is defined as the technique to take samples of human voice and then convert these samples into a digital signal, taking into account specific characteristics of human speech. (L.N. 95 of 2006)
+
+    - (c) Optical fibre communication cables, optical fibres and accessories, as follows:
+
+      - (1) Optical fibres of more than 500 m in length, specified by the manufacturer as being capable of withstanding a proof test tensile stress of 2×109 N/m2 or more; Technical Note:
+
+      - Proof Test: on-line or off-line production screen testing that dynamically applies a prescribed tensile stress over a 0.5 to 3 m length of fibre at a running rate of 2 to 5 m/s while passing between capstans approximately 150 mm in diameter. The ambient temperature is a nominal 293 K and relative humidity 40%. Equivalent national standards may be used for executing the proof test. (L.N. 132 of 2001)
+
+      - (2) Optical fibre cables and accessories designed for underwater use; Note:
+
+    - 5A001(c)(2) does not control standard civil telecommunications cables and accessories. (36 of 2000 s. 28)
+
+    - N.B.:
+
+      - 1. For underwater umbilical cables, and connectors therefor, see 8A002(a)(3).
+
+      - 2. For fibre optic hull penetrators or connectors, see 8A002(c).
+
+    - (d) “Electronically steerable phased array antennae” operating above 31.8 GHz; (L.N. 95 of 2006) Note:
+
+    - 5A001(d) does not control “electronically steerable phased array antennae” for landing systems with instruments meeting ICAO standards covering microwave landing systems (MLS).
+
+    - (e) Radio direction finding equipment operating at frequencies above 30 MHz and having all of the following characteristics, and specially designed components therefor:
+
+      - (1) “Instantaneous bandwidth” of 10 MHz or more; and
+
+      - (2) Capable of finding a line of bearing (LOB) to non-cooperating radio transmitters with a signal duration of less than 1 ms; (L.N. 95 of 2006)
+
+    - (f) Jamming equipment specially designed or modified to intentionally and selectively interfere with, deny, inhibit, degrade or seduce cellular mobile telecommunications services, and having any of the following characteristics, and specially designed components therefor:
+
+      - (1) Simulating the functions of Radio Access Network (RAN) equipment; or
+
+      - (2) Detecting and exploiting specific characteristics of the mobile telecommunications protocol employed (e.g., GSM);
+
+    - N.B.:
+
+    - For GNSS jamming equipment, see the Munitions List. (L.N. 95 of 2006) 5A101 Telemetering and telecontrol equipment, including ground equipment, designed or modified for ‘missiles’;
+
+    - Technical Note:
+
+    - In 5A101, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km.
+
+    - Note:
+
+    - 5A101 does not control:
+
+    - (a) Equipment designed or modified for manned aircraft or satellites;
+
+    - (b) Ground based equipment designed or modified for terrestrial or marine applications;
+
+    - (c) Equipment designed for commercial, civil or safety of life (e.g. data integrity, flight safety) GNSS services.
+
+  - (L.N. 95 of 2006)
+
+  - 5B1 TEST, INSPECTION, AND PRODUCTION EQUIPMENT
+
+  - 5B001 (a) Equipment and specially designed components or accessories therefor, specially designed for the “development”, “production” or “use” of equipment, functions or features controlled by Category 5-Part 1;
+
+    - Note: 5B001(a) does not control optical fibre characterization equipment.
 
     - (b) Equipment and specially designed components or accessories therefor, specially designed for the “development” of any of the following telecommunications transmission or switching equipment: (36 of 2000 s. 28; L.N. 65 of 2004)
 
@@ -6140,115 +6242,107 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (d) Employing analogue techniques and having a bandwidth exceeding 2.5 GHz;
 
-  - Note:
+    - Note:
 
-  - 5B001(b)(2)(d) does not control equipment specially designed for the “development” of commercial TV systems.
+    - 5B001(b)(2)(d) does not control equipment specially designed for the “development” of commercial TV systems.
 
-    - (3) Equipment employing “optical switching”;
+      - (3) Equipment employing “optical switching”;
 
-    - (4) Radio equipment employing quadrature-amplitude-modulation (QAM) techniques above level 256; or (L.N. 132 of 2001)
+      - (4) Radio equipment employing quadrature-amplitude-modulation (QAM) techniques above level 256; or (L.N. 132 of 2001)
 
-    - (5) Equipment employing “common channel signalling” operating in non-associated mode of operation;
+      - (5) Equipment employing “common channel signalling” operating in non-associated mode of operation;
 
-- (L.N. 65 of 2004)
+  - (L.N. 65 of 2004)
 
-- 5C1 MATERIALS
+  - 5C1 MATERIALS
 
-- None; 5D1 SOFTWARE 5D001 (a) “Software” specially designed or modified for the “development”, “production” or “use” of equipment, functions or features controlled by Category 5-Part 1;
+  - None; 5D1 SOFTWARE 5D001 (a) “Software” specially designed or modified for the “development”, “production” or “use” of equipment, functions or features controlled by Category 5-Part 1;
 
-  - (b) “Software” specially designed or modified to support “technology” controlled by 5E001;
+    - (b) “Software” specially designed or modified to support “technology” controlled by 5E001;
 
-  - (c) Specific “software” as follows:
+    - (c) Specific “software” specially designed or modified to provide characteristics, functions or features of equipment controlled by 5A001 or 5B001; (L.N. 95 of 2005)
 
-    - (1) “Software” specially designed or modified to provide characteristics, functions or features of equipment controlled by 5A001 or 5B001;
+    - (d) “Software” specially designed or modified for the “development” of any of the following telecommunications transmission or switching equipment: (36 of 2000 s. 28; L.N. 65 of 2004)
 
-    - (2) Deleted; (L.N. 132 of 2001)
+      - (1) Equipment employing digital techniques designed to operate at a “total digital transfer rate” exceeding 15 Gbit/s; (L.N. 65 of 2004) Technical Note:
 
-    - (3) “Software” other than in machine-executable form, specially designed for “dynamic adaptive routing”;
+      - For switching equipment, the “total digital transfer rate” is measured at the highest speed port or line. (L.N. 65 of 2004)
 
-  - (d) “Software” specially designed or modified for the “development” of any of the following telecommunications transmission or switching equipment: (36 of 2000 s. 28; L.N. 65 of 2004)
+      - (2) Equipment employing a “laser” and having any of the following:
 
-    - (1) Equipment employing digital techniques designed to operate at a “total digital transfer rate” exceeding 15 Gbit/s; (L.N. 65 of 2004) Technical Note:
+        - (a) A transmission wavelength exceeding 1750 nm; or
 
-    - For switching equipment, the “total digital transfer rate” is measured at the highest speed port or line. (L.N. 65 of 2004)
+        - (b) Employing analogue techniques and having a bandwidth exceeding 2.5 GHz;
 
-    - (2) Equipment employing a “laser” and having any of the following:
+    - Note:
 
-      - (a) A transmission wavelength exceeding 1750 nm; or
+    - 5D001(d)(2)(b) does not control “software” specially designed for the “development” of commercial TV systems. (L.N. 132 of 2001)
 
-      - (b) Employing analogue techniques and having a bandwidth exceeding 2.5 GHz;
+      - (3) Equipment employing “optical switching”; or
 
-  - Note:
+      - (4) Radio equipment employing quadrature-amplitude-modulation (QAM) techniques above level 256; (L.N. 132 of 2001; L.N. 65 of 2004)
 
-  - 5D001(d)(2)(b) does not control “software” specially designed for the “development” of commercial TV systems. (L.N. 132 of 2001)
+    - 5D101 “Software” specially designed or modified for the “use” of equipment controlled by 5A101;
 
-    - (3) Equipment employing “optical switching”; or
+  - (L.N. 65 of 2004; L.N. 95 of 2006)
 
-    - (4) Radio equipment employing quadrature-amplitude-modulation (QAM) techniques above level 256; (L.N. 132 of 2001; L.N. 65 of 2004)
+  - 5E1 TECHNOLOGY 5E001 (a) “Technology” according to the General Technology Note for the “development”, “production” or “use” (excluding operation) of equipment, functions or features or “software” controlled by Category 5-Part 1;
 
-  - 5D101 “Software” specially designed or modified for the “use” of equipment specified in 5A101;
+    - (b) Specific “technologies”, as follows:
 
-- (L.N. 65 of 2004)
+      - (1) “Required” “technology” for the “development” or “production” of telecommunications equipment specially designed to be used on board satellites;
 
-- 5E1 TECHNOLOGY 5E001 (a) “Technology” according to the General Technology Note for the “development”, “production” or “use” (excluding operation) of equipment, functions or features or “software” controlled by Category 5-Part 1;
+      - (2) “Technology” for the “development” or “use” of “laser” communication techniques with the capability of automatically acquiring and tracking signals and maintaining communications through exoatmosphere or sub-surface (water) media;
 
-  - (b) Specific “technologies”, as follows:
+      - (3) “Technology§ for the “development” of digital cellular radio base station receiving equipment whose reception capabilities that allow multi-band, multi-channel, multi-mode, multi-coding algorithm or multi-protocol operation can be modified by changes in “software”; (L.N. 65 of 2004)
 
-    - (1) “Required” “technology” for the “development” or “production” of telecommunications equipment specially designed to be used on board satellites;
+      - (4) “Technology” for the “development” of “spread spectrum” techniques, including “frequency hopping” techniques; (L.N. 132 of 2001)
 
-    - (2) “Technology” for the “development” or “use” of “laser” communication techniques with the capability of automatically acquiring and tracking signals and maintaining communications through exoatmosphere or sub-surface (water) media;
+    - (c) “Technology” according to the General Technology Note for the “development” or “production” of any of the following telecommunications transmission or switching equipment, functions or features: (36 of 2000 s. 28; L.N. 65 of 2004)
 
-    - (3) “Technology§ for the “development” of digital cellular radio base station receiving equipment whose reception capabilities that allow multi-band, multi-channel, multi-mode, multi-coding algorithm or multi-protocol operation can be modified by changes in “software”; (L.N. 65 of 2004)
+      - (1) Equipment employing digital techniques designed to operate at a “total digital transfer rate” exceeding 15 Gbit/s; (L.N. 65 of 2004) Technical Note:
 
-    - (4) “Technology” for the “development” of “spread spectrum” techniques, including “frequency hopping” techniques; (L.N. 132 of 2001)
+      - For switching equipment, the “total digital transfer rate” is measured at the highest speed port or line. (L.N. 65 of 2004)
 
-  - (c) “Technology” according to the General Technology Note for the “development” or “production” of any of the following telecommunications transmission or switching equipment, functions or features: (36 of 2000 s. 28; L.N. 65 of 2004)
+      - (2) Equipment employing a “laser” and having any of the following:
 
-    - (1) Equipment employing digital techniques designed to operate at a “total digital transfer rate” exceeding 15 Gbit/s; (L.N. 65 of 2004) Technical Note:
+        - (a) A transmission wavelength exceeding 1750 nm;
 
-    - For switching equipment, the “total digital transfer rate” is measured at the highest speed port or line. (L.N. 65 of 2004)
+        - (b) Performing “optical amplification” using praseodymium-doped fluoride fibre amplifiers (PDFFA);
 
-    - (2) Equipment employing a “laser” and having any of the following:
+        - (c) Employing coherent optical transmission or coherent optical detection techniques (also called optical heterodyne or homodyne techniques);
 
-      - (a) A transmission wavelength exceeding 1750 nm;
+        - (d) Employing wavelength division multiplexing techniques exceeding 8 optical carriers in a single optical window; or
 
-      - (b) Performing “optical amplification” using praseodymium-doped fluoride fibre amplifiers (PDFFA);
+        - (e) Employing analogue techniques and having a bandwidth exceeding 2.5 GHz; Note:
 
-      - (c) Employing coherent optical transmission or coherent optical detection techniques (also called optical heterodyne or homodyne techniques);
+        - 5E001(c)(2)(e) does not control “technology” for the “development” or “production” of commercial TV systems. (L.N. 132 of 2001)
 
-      - (d) Employing wavelength division multiplexing techniques exceeding 8 optical carriers in a single optical window; or
+      - (3) Equipment employing “optical switching”;
 
-      - (e) Employing analogue techniques and having a bandwidth exceeding 2.5 GHz; Note:
+      - (4) Radio equipment having any of the following:
 
-      - 5E001(c)(2)(e) does not control “technology” for the “development” or “production” of commercial TV systems. (L.N. 132 of 2001)
+        - (a) Quadrature-amplitude-modulation (QAM) techniques above level 256; or (L.N. 65 of 2004)
 
-    - (3) Equipment employing “optical switching”;
+        - (b) Operating at input or output frequencies exceeding 31.8 GHz; (L.N. 65 of 2004) Note:
 
-    - (4) Radio equipment having any of the following:
+        - 5E001(c)(4)(b) does not control “technology” for the “development” or “production” of equipment designed or modified for operation in any frequency band which is “allocated by the ITU” for radiocommunications services, but not for radio-determination. (L.N. 132 of 2001)
 
-      - (a) Quadrature-amplitude-modulation (QAM) techniques above level 256; or (L.N. 65 of 2004)
+      - (5) Equipment employing “common channel signalling” operating in non-associated mode of operation; (L.N. 65 of 2004)
 
-      - (b) Operating at input or output frequencies exceeding 31.8 GHz; (L.N. 65 of 2004) Note:
+    - 5E101 “Technology” according to the General Technology Note for the “development”, “production” or “use” of equipment controlled by 5A101; Part 2-”Information Security”
 
-      - 5E001(c)(4)(b) does not control “technology” for the “development” or “production” of equipment designed or modified for operation in any frequency band which is “allocated by the ITU” for radiocommunications services, but not for radio-determination. (L.N. 132 of 2001)
+    - Notes:
 
-    - (5) Equipment employing “common channel signalling” operating in non-associated mode of operation; (L.N. 65 of 2004)
+    - 1. The control status of “information security” equipment, “Software”, systems, application specific “electronic assemblies”, modules, integrated circuits, components or functions is determined in Category 5, Part 2 even if they are components or “electronic assemblies” of other equipment.
 
-  - 5E101 “Technology” according to the General Technology Note for the “development”, “production” or “use” of equipment controlled by 5A101; Part 2-”Information Security”
+    - 2. Category 5-Part 2 does not control products when accompanying their user for the user’s personal use.
 
-  - Notes:
+    - 3. Cryptography Note:
 
-- 1. The control status of “information security” equipment, “Software”, systems, application specific “electronic assemblies”, modules, integrated circuits, components or functions is determined in Category 5, Part 2 even if they are components or “electronic assemblies” of other equipment.
+    - 5A002 and 5D002 do not control items that meet all of the following:
 
-- 2. Category 5-Part 2 does not control products when accompanying their user for the user’s personal use.
-
-- 3.
-
-- Cryptography Note:
-
-- 5A002 and 5D002 do not control items that meet all of the following:
-
-  - (a) Generally available to the public by being sold, without restriction, from stock at retail selling points by means of any of the following:
+    - (a) Generally available to the public by being sold, without restriction, from stock at retail selling points by means of any of the following:
 
     - (1) Over-the-counter transactions;
 
@@ -6258,103 +6352,113 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (4) Telephone call transactions;
 
-  - (b) The cryptographic functionality cannot easily be changed by the user;
+      - (b) The cryptographic functionality cannot easily be changed by the user;
 
-  - (c) Designed for installation by the user without further substantial support by the supplier; and (L.N. 132 of 2001)
+      - (c) Designed for installation by the user without further substantial support by the supplier; and (L.N. 132 of 2001)
 
-  - (d) Deleted; (L.N. 132 of 2001)
+      - (d) Deleted; (L.N. 132 of 2001)
 
-  - (e) When necessary, details of the items are accessible and will be provided, upon request, to the appropriate authority in the exporter’s country in order to ascertain compliance with conditions described in paragraphs (a) to (c) above. (L.N. 132 of 2001)
+      - (e)
 
-- Technical Note:
+      - When necessary, details of the items are accessible and will be provided, upon request, to the appropriate authority in the exporter’s country in order to ascertain compliance with conditions described in paragraphs (a) to (c) above. (L.N. 132 of 2001)
 
-- In Category 5-Part 2, parity bits are not included in the key length. 5A2 SYSTEMS, EQUIPMENT AND COMPONENTS 5A002 (a) Systems, equipment, application specific “electronic assemblies”, modules and integrated circuits for “information security”, as follows, and other specially designed components therefor:
+      - Technical Note:
 
-- N.B.:
+      - In Category 5-Part 2, parity bits are not included in the key length.
 
-- For the control of global navigation satellite systems receiving equipment containing or employing decryption (i.e. GPS or GLONASS), see 7A005.
+      - 5A2 SYSTEMS, EQUIPMENT AND COMPONENTS 5A002 (a) Systems, equipment, application specific “electronic assemblies”, modules and integrated circuits for “information security”, as follows, and other specially designed components therefor:
 
-  - (1)
+      - N.B.:
 
-  - Designed or modified to use “cryptography” employing digital techniques performing any cryptographic function other than authentication or digital signature having any of the following:
+      - For the control of global navigation satellite systems receiving equipment containing or employing decryption (i.e. GPS or GLONASS), see 7A005.
 
-  - Technical Notes:
+        - (1)
 
-    - 1. Authentication and digital signature functions include their associated key management function.
+        - Designed or modified to use “cryptography” employing digital techniques performing any cryptographic function other than authentication or digital signature having any of the following:
 
-    - 2. Authentication includes all aspects of access control where there is no encryption of files or text except as directly related to the protection of passwords, Personal Identification Numbers (PINs) or similar data to prevent unauthorized access.
+        - Technical Notes:
 
-    - 3. “Cryptography” does not include “fixed” data compression or coding techniques.
+          - 1. Authentication and digital signature functions include their associated key management function.
 
-- Note:
+          - 2. Authentication includes all aspects of access control where there is no encryption of files or text except as directly related to the protection of passwords, Personal Identification Numbers (PINs) or similar data to prevent unauthorized access.
 
-- 5A002(a)(1) includes equipment designed or modified to use “cryptography” employing analogue principles when implemented with digital techniques.
+          - 3. “Cryptography” does not include “fixed” data compression or coding techniques.
 
-  - (a) A “symmetric algorithm” employing a key length in excess of 56 bits; or
+        - Note:
 
-  - (b) An “asymmetric algorithm” where the security of the algorithm is based on any of the following:
+        - 5A002(a)(1) includes equipment designed or modified to use “cryptography” employing analogue principles when implemented with digital techniques.
 
-    - (1) Factorization of integers in excess of 512 bits (e.g., RSA);
+          - (a) A “symmetric algorithm” employing a key length in excess of 56 bits; or
 
-    - (2) Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g., Diffie-Hellman over Z/pZ); or
+          - (b) An “asymmetric algorithm” where the security of the algorithm is based on any of the following:
 
-    - (3) Discrete logarithms in a group other than mentioned in 5A002(a)(1)(b)(2) in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve);
+            - (1) Factorization of integers in excess of 512 bits (e.g., RSA);
 
-  - (2) Designed or modified to perform cryptanalytic functions;
+            - (2) Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g., Diffie-Hellman over Z/pZ); or
 
-  - (3) Deleted;
+            - (3) Discrete logarithms in a group other than mentioned in 5A002(a)(1)(b)(2) in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve);
 
-  - (4) Specially designed or modified to reduce the compromising emanations of information-bearing signals beyond what is necessary for health, safety or electromagnetic interference standards;
+        - (2) Designed or modified to perform cryptanalytic functions;
 
-  - (5) Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” systems, including the hopping code for “frequency hopping” systems; (L.N. 132 of 2001)
+        - (3) Deleted;
 
-  - (6) Designed or modified to use cryptographic techniques to generate channelizing or scrambling codes for “time-modulated ultra-wideband” systems; (L.N. 65 of 2004)
+        - (4) Specially designed or modified to reduce the compromising emanations of information-bearing signals beyond what is necessary for health, safety or electromagnetic interference standards;
 
-  - (7) Deleted; (L.N. 65 of 2004)
+        - (5) Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” systems not controlled by 5A002(a)(6), including the hopping code for “frequency hopping” systems; (L.N. 132 of 2001; L.N. 95 of 2006)
 
-  - (8) Communications cable systems designed or modified using mechanical, electrical or electronic means to detect surreptitious intrusion; (L.N. 65 of 2004)
+        - (6) Designed or modified to use cryptographic techniques to generate channelizing codes, scrambling codes or network identification codes, for systems using ultra-wideband modulation techniques, and having any of the following characteristics:
 
-  - Note:
+          - (a) A bandwidth exceeding 500 MHz; or
 
-  - 5A002 does not control:
+          - (b) A “fractional bandwidth” of 20% or more; (L.N. 95 of 2006)
 
-  - (a) “Personalized smart cards”:
+        - (7) Deleted; (L.N. 65 of 2004)
 
-    - (1) Where the cryptographic capability is restricted for use in equipment or systems excluded from control under 5A002 Notes (b) to (f); or
+        - (8) Communications cable systems designed or modified using mechanical, electrical or electronic means to detect surreptitious intrusion; (L.N. 65 of 2004)
 
-    - (2) For general public-use applications where the cryptographic capability is not user-accessible and it is specially designed and limited to allow protection of personal data stored within;
+        - (9) Designed or modified to use “quantum cryptography”; Technical Note: “Quantum cryptography” is also known as quantum key distribution (QKD). (L.N. 95 of 2006)
 
-  - N.B.:
+        - Note:
 
-  - If a “personalized smart card” has multiple functions, the control status of each function is assessed individually. (L.N. 65 of 2004)
+        - 5A002 does not control:
 
-  - (b) Receiving equipment for radio broadcast, pay television or similar restricted audience broadcast of the consumer type, without digital encryption except that exclusively used for sending the billing or programme-related information back to the broadcast providers; (L.N. 132 of 2001)
+        - (a) “Personalized smart cards”:
 
-  - (c) Equipment where the cryptographic capability is not user-accessible and which is specially designed and limited to allow any of the following:
+          - (1) Where the cryptographic capability is restricted for use in equipment or systems excluded from control under 5A002 Notes (b) to (f); or
 
-    - (1) Execution of copy-protected software;
+          - (2) For general public-use applications where the cryptographic capability is not user-accessible and it is specially designed and limited to allow protection of personal data stored within;
 
-    - (2) Access to any of the following:
+        - N.B.:
 
-      - (a) Copy-protected contents stored on read-only media; or (L.N. 132 of 2001)
+        - If a “personalized smart card” has multiple functions, the control status of each function is assessed individually. (L.N. 65 of 2004)
 
-      - (b) Information stored in encrypted form on media (e.g., in connection with the protection of intellectual property rights) when the media is offered for sale in identical sets to the public; or
+        - (b) Receiving equipment for radio broadcast, pay television or similar restricted audience broadcast of the consumer type, without digital encryption except that exclusively used for sending the billing or programme-related information back to the broadcast providers; (L.N. 132 of 2001)
 
-    - (3) Copying control of copyright protected audio/video data; (L.N. 65 of 2004)
+        - (c) Equipment where the cryptographic capability is not user-accessible and which is specially designed and limited to allow any of the following:
 
-  - (d) Cryptographic equipment specially designed and limited for banking use or money transactions; Technical Note:
+          - (1) Execution of copy-protected software;
 
-  - ”Money transactions” in 5A002 Note (d) includes the collection and settlement of fares or credit functions.
+          - (2) Access to any of the following:
 
-  - (e) Portable or mobile radiotelephones for civil use (e.g. for use with commercial civil cellular radiocommunications systems) that are not capable of end-to-end encryption;
+            - (a) Copy-protected contents stored on read-only media; or (L.N. 132 of 2001)
 
-  - (f) Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e. a single, unrelayed hop between terminal and home basestation) is less than 400 metres according to the manufacturer’s specifications.
+            - (b) Information stored in encrypted form on media (e.g., in connection with the protection of intellectual property rights) when the media is offered for sale in identical sets to the public; (L.N. 95 of 2006)
 
-- 5B2 TEST, INSPECTION AND PRODUCTION EQUIPMENT (L.N. 65 of 2004) 5B002 (a) Equipment specially designed for:
+          - (3) Copying control of copyright protected audio/video data; or (L.N. 65 of 2004; L.N. 95 of 2006)
 
-  - (1) The “development” of equipment or functions controlled by Category 5-Part 2, including measuring or test equipment;
+          - (4) Encryption or decryption or both for protection of libraries, design attributes, or associated data for the design of semiconductor devices or integrated circuits; (L.N. 95 of 2006)
 
-  - (2) The “production” of equipment or functions controlled by Category 5-Part 2, including measuring, test, repair or production equipment;
+        - (d) Cryptographic equipment specially designed and limited for banking use or money transactions; Technical Note:
+
+        - ”Money transactions” in 5A002 Note (d) includes the collection and settlement of fares or credit functions.
+
+        - (e) Portable or mobile radiotelephones for civil use (e.g. for use with commercial civil cellular radiocommunications systems) that are not capable of end-to-end encryption;
+
+        - (f) Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e. a single, unrelayed hop between terminal and home basestation) is less than 400 metres according to the manufacturer’s specifications. 5B2 TEST, INSPECTION AND PRODUCTION EQUIPMENT (L.N. 65 of 2004) 5B002 (a) Equipment specially designed for:
+
+        - (1) The “development” of equipment or functions controlled by Category 5-Part 2, including measuring or test equipment;
+
+        - (2) The “production” of equipment or functions controlled by Category 5-Part 2, including measuring, test, repair or production equipment;
 
     - (b) Measuring equipment specially designed to evaluate and validate the “information security” functions controlled by 5A002 or 5D002; 5C2 MATERIALS None; 5D2 SOFTWARE 5D002 (a) “Software” specially designed or modified for the “development”, “production” or “use” of equipment or “software” controlled by Category 5-Part 2;
 
@@ -6376,165 +6480,169 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 5E2 TECHNOLOGY 5E002 (a) “Technology” according to the General Technology Note for the “development”, “production” or “use” of equipment or “software” controlled by Category 5-Part 2;
 
-- (L.N. 183 of 1999)
+  - (L.N. 183 of 1999)
 
-- CATEGORY 6-SENSORS AND “LASERS”
+  - CATEGORY 6-SENSORS AND “LASERS”
 
-- 6A Systems, Equipment and Components
+  - 6A Systems, Equipment and Components
 
-- 6A001 Acoustics
+  - 6A001 Acoustics
 
-  - (a) Marine acoustic systems, equipment and specially designed components therefor, as follows:
+    - (a) Marine acoustic systems, equipment and specially designed components therefor, as follows:
 
-    - (1)
+      - (1)
 
-    - Active (transmitting or transmitting-and-receiving) systems, equipment and specially designed components therefor, as follows:
+      - Active (transmitting or transmitting-and-receiving) systems, equipment and specially designed components therefor, as follows:
 
-    - Note:
+      - Note:
 
-    - 6A001(a)(1) does not control:
+      - 6A001(a)(1) does not control:
 
-      - (a) Depth sounders operating vertically below the apparatus, not including a scanning function exceeding +200, and limited to measuring the depth of water, the distance of submerged or buried objects or fish finding;
+        - (a) Depth sounders operating vertically below the apparatus, not including a scanning function exceeding +200, and limited to measuring the depth of water, the distance of submerged or buried objects or fish finding;
 
-      - (b) Acoustic beacons, as follows:
+        - (b) Acoustic beacons, as follows:
 
-        - (1) Acoustic emergency beacons;
+          - (1) Acoustic emergency beacons;
 
-        - (2) Pingers specially designed for relocating or returning to an underwater position.
+          - (2) Pingers specially designed for relocating or returning to an underwater position.
 
-          - (a) Wide-swath bathymetric survey systems designed for sea bed topographic mapping, having all of the following: (L.N. 132 of 2001)
+            - (a) Wide-swath bathymetric survey systems designed for sea bed topographic mapping, having all of the following: (L.N. 132 of 2001)
 
-      - (1) Being designed to take measurements at an angle exceeding 200 from the vertical;
+        - (1) Being designed to take measurements at an angle exceeding 200 from the vertical;
 
-      - (2) Being designed to measure depths exceeding 600 m below the water surface; and
+        - (2) Being designed to measure depths exceeding 600 m below the water surface; and
 
-      - (3) Being designed to provide any of the following:
+        - (3) Being designed to provide any of the following:
 
-        - (a) Incorporation of multiple beams any of which is less than 1.90; or
+          - (a) Incorporation of multiple beams any of which is less than 1.90; or
 
-        - (b) Data accuracies of better than 0.3% of water depth across the swath averaged over the individual measurements within the swath;
+          - (b) Data accuracies of better than 0.3% of water depth across the swath averaged over the individual measurements within the swath;
 
-          - (b) Object detection or location systems having any of the following:
+            - (b) Object detection or location systems having any of the following:
 
-      - (1) A transmitting frequency below 10 kHz;
+        - (1) A transmitting frequency below 10 kHz;
 
-      - (2) Sound pressure level exceeding 224 dB (reference 1 μPa at 1m) for equipment with an operating frequency in the band from 10 kHz to 24 kHz inclusive;
+        - (2) Sound pressure level exceeding 224 dB (reference 1 μPa at 1m) for equipment with an operating frequency in the band from 10 kHz to 24 kHz inclusive;
 
-      - (3) Sound pressure level exceeding 235 dB (reference 1 μPa at 1m) for equipment with an operating frequency in the band between 24 kHz and 30 kHz;
+        - (3) Sound pressure level exceeding 235 dB (reference 1 μPa at 1m) for equipment with an operating frequency in the band between 24 kHz and 30 kHz;
 
-      - (4) Forming beams of less than 10 on any axis and having an operating frequency of less than 100 kHz;
+        - (4) Forming beams of less than 10 on any axis and having an operating frequency of less than 100 kHz;
 
-      - (5) Designed to operate with an unambiguous display range exceeding 5120 m; or
+        - (5) Designed to operate with an unambiguous display range exceeding 5120 m; or
 
-      - (6) Designed to withstand pressure during normal operation at depths exceeding 1000 m and having transducers with any of the following:
+        - (6) Designed to withstand pressure during normal operation at depths exceeding 1000 m and having transducers with any of the following:
 
-        - (a) Dynamic compensation for pressure; or
+          - (a) Dynamic compensation for pressure; or
 
-        - (b) Incorporating other than lead zirconate titanate as the transduction element;
+          - (b) Incorporating other than lead zirconate titanate as the transduction element;
 
-          - (c) Acoustic projectors, including transducers, incorporating piezoelectric, magnetostrictive, electrostrictive, electrodynamic or hydraulic elements operating individually or in a designed combination, having any of the following: Notes:
+            - (c) Acoustic projectors, including transducers, incorporating piezoelectric, magnetostrictive, electrostrictive, electrodynamic or hydraulic elements operating individually or in a designed combination, having any of the following: Notes:
 
-      - 1. The control status of acoustic projectors, including transducers, specially designed for other equipment is determined by the control status of the other equipment.
+        - 1. The control status of acoustic projectors, including transducers, specially designed for other equipment is determined by the control status of the other equipment.
 
-      - 2. 6A001(a)(1)(c) does not control electronic sources which direct the sound vertically only, or mechanical (e.g., air gun or vapour-shock gun) or chemical (e.g., explosive) sources;
+        - 2. 6A001(a)(1)(c) does not control electronic sources which direct the sound vertically only, or mechanical (e.g., air gun or vapour-shock gun) or chemical (e.g., explosive) sources;
 
-      - (1) An instantaneous radiated acoustic power density exceeding 0.01 mW/mm2/Hz for devices operating at frequencies below 10 kHz;
+        - (1) An instantaneous radiated acoustic power density exceeding 0.01 mW/mm2/Hz for devices operating at frequencies below 10 kHz;
 
-      - (2) A continuously radiated acoustic power density exceeding 0.001 mW/mm2/Hz for devices operating at frequencies below 10 kHz; or (L.N. 132 of 2001)
+        - (2) A continuously radiated acoustic power density exceeding 0.001 mW/mm2/Hz for devices operating at frequencies below 10 kHz; or (L.N. 132 of 2001)
 
-      - Technical Note:
+        - Technical Note:
 
-      - Acoustic power density is obtained by dividing the output acoustic power by the product of the area of the radiating surface and the frequency of operation.
+        - Acoustic power density is obtained by dividing the output acoustic power by the product of the area of the radiating surface and the frequency of operation.
 
-      - (3) Side-lobe suppression exceeding 22 dB; (L.N. 132 of 2001)
+        - (3) Side-lobe suppression exceeding 22 dB; (L.N. 132 of 2001)
 
-        - (d) Acoustic systems, equipment and specially designed components for determining the position of surface vessels or underwater vehicles designed to operate at a range exceeding 1000 m with a positioning accuracy of less than 10 m rms (root mean square) when measured at a range of 1000 m; Note:
+          - (d) Acoustic systems, equipment and specially designed components for determining the position of surface vessels or underwater vehicles designed to operate at a range exceeding 1000 m with a positioning accuracy of less than 10 m rms (root mean square) when measured at a range of 1000 m; Note:
 
-        - 6A001(a)(1)(d) includes:
+          - 6A001(a)(1)(d) includes:
 
-      - (a) Equipment using coherent “signal processing” between two or more beacons and the hydrophone unit carried by the surface vessel or underwater vehicle;
+        - (a) Equipment using coherent “signal processing” between two or more beacons and the hydrophone unit carried by the surface vessel or underwater vehicle;
 
-      - (b) Equipment capable of automatically correcting speed-of-sound propagation errors for calculation of a point. (L.N. 132 of 2001)
+        - (b) Equipment capable of automatically correcting speed-of-sound propagation errors for calculation of a point. (L.N. 132 of 2001)
 
-  - (2) Passive (receiving, whether or not related in normal application to separate active equipment) systems, equipment and specially designed components therefor, as follows:
+      - (2) Passive (receiving, whether or not related in normal application to separate active equipment) systems, equipment and specially designed components therefor, as follows:
 
-    - (a) Hydrophones having any of the following characteristics: (L.N. 132 of 2001) Note:
+        - (a) Hydrophones having any of the following characteristics: (L.N. 132 of 2001) Note:
 
-  - The control status of hydrophones specially designed for other equipment is determined by the control status of the other equipment. (L.N. 132 of 2001)
+    - The control status of hydrophones specially designed for other equipment is determined by the control status of the other equipment. (L.N. 132 of 2001)
 
-    - (1) Incorporating continuous flexible sensors or assemblies of discrete sensor elements with either a diameter or length less than 20 mm and with a separation between elements of less than 20 mm;
+      - (1) Incorporating continuous flexible sensing elements;
 
-    - (2) Having any of the following sensing elements:
+      - (2) Incorporating flexible assemblies of discrete sensing elements with either a diameter or length less than 20 mm and with a separation between elements of less than 20 mm;
 
-      - (a) Optical fibres; or (L.N. 65 of 2004)
+      - (3) Having any of the following sensing elements:
 
-      - (b) Flexible piezoelectric ceramic materials; (L.N. 65 of 2004)
+        - (a) Optical fibres;
 
-    - (3) A hydrophone sensitivity better than -180 dB at any depth with no acceleration compensation;
+        - (b) ‘Piezoelectric polymer films’ other than polyvinylidene fluoride (PVDF) and its copolymers {P(VDF-TrFE) and P(VDF-TFE)}; or
 
-    - (4) When designed to operate at depths exceeding 35 m with acceleration compensation; or (L.N. 132 of 2001)
+        - (c) ‘Flexible piezoelectric composites’;
 
-    - (5) Designed for operation at depths exceeding 1000 m; (L.N. 132 of 2001)
+      - (4) A hydrophone sensitivity better than -180 dB at any depth with no acceleration compensation;
 
-    - (6)-(7) (Repealed L.N. 132 of 2001) Technical Note:
+      - (5) When designed to operate at depths exceeding 35 m with acceleration compensation; or
 
-    - Hydrophone sensitivity is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydrophone sensor, without a pre-amplifier, is placed in a plane wave acoustic field with an rms pressure of 1 μPa. For example, a hydrophone of -160 dB (reference 1 V per μPa) would yield an output voltage of 10-8 V in such a field, while one of -180 dB sensitivity would yield only 10-9 V output. Thus, -160 dB is better than -180 dB.
+      - (6) Designed for operation at depths exceeding 1000 m;
 
-      - (b) Towed acoustic hydrophone arrays having any of the following:
+      - Technical Notes:
 
-    - (1) Hydrophone group spacing of less than 12.5 m or able to be modified to have hydrophone group spacing of less than 12.5 m; (L.N. 65 of 2004)
+      - 1. ‘Piezoelectric polymer film’ sensing elements consist of polarized polymer film that is stretched over and attached to a supporting frame or spool (mandrel).
 
-    - (2) Designed or able to be modified to operate at depths exceeding 35 m; (L.N. 132 of 2001) Technical Note:
+      - 2. ‘Flexible piezoelectric composite’ sensing elements consist of piezoelectric ceramic particles or fibres combined with an electrically insulating, acoustically transparent rubber, polymer or epoxy compound, where the compound is an integral part of the sensing elements.
 
-    - ’Able to be modified’ in 6A001(a)(2)(b) means having provisions to allow a change of the wiring or interconnections to alter hydrophone group spacing or operating depth limits. These provisions are: spare wiring exceeding 10% of the number of wires, hydrophone group spacing adjustment blocks or internal depth limiting devices that are adjustable or that control more than one hydrophone group. (L.N. 65 of 2004)
+      - 3. Hydrophone sensitivity is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydrophone sensor, without a pre-amplifier, is placed in a plane wave acoustic field with an rms pressure of 1 μPa. For example, a hydrophone of -160 dB (reference 1 V per μPa) would yield an output voltage of 10-8 V in such a field, while one of -180 dB sensitivity would yield only 10-9 V output. Thus, -160 dB is better than -180 dB. (L.N. 95 of 2006)
 
-    - (3) Heading sensors controlled by 6A001(a)(2)(d);
+        - (b) Towed acoustic hydrophone arrays having any of the following:
 
-    - (4) Longitudinally reinforced array hoses;
+      - (1) Hydrophone group spacing of less than 12.5 m or able to be modified to have hydrophone group spacing of less than 12.5 m; (L.N. 65 of 2004)
 
-    - (5) An assembled array of less than 40 mm in diameter;
+      - (2) Designed or able to be modified to operate at depths exceeding 35 m; (L.N. 132 of 2001) Technical Note:
 
-    - (6) Multiplexed hydrophone group signals designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m; or
+      - ’Able to be modified’ in 6A001(a)(2)(b) means having provisions to allow a change of the wiring or interconnections to alter hydrophone group spacing or operating depth limits. These provisions are: spare wiring exceeding 10% of the number of wires, hydrophone group spacing adjustment blocks or internal depth limiting devices that are adjustable or that control more than one hydrophone group. (L.N. 65 of 2004)
 
-    - (7) Hydrophone characteristics specified in 6A001(a)(2)(a); (L.N. 132 of 2001)
+      - (3) Heading sensors controlled by 6A001(a)(2)(d);
 
-      - (c) Processing equipment, specially designed for towed acoustic hydrophone arrays, having “user accessible programmability” and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes;
+      - (4) Longitudinally reinforced array hoses;
 
-      - (d) Heading sensors having all of the following:
+      - (5) An assembled array of less than 40 mm in diameter;
 
-    - (1) Any accuracy of better than +0.50; and
+      - (6) Multiplexed hydrophone group signals designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m; or
 
-    - (2) Designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m; (L.N. 132 of 2001)
+      - (7) Hydrophone characteristics specified in 6A001(a)(2)(a); (L.N. 132 of 2001)
 
-      - (e) Bottom or bay cable systems having any of the following:
+        - (c) Processing equipment, specially designed for towed acoustic hydrophone arrays, having “user accessible programmability” and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes;
 
-    - (1) Incorporating hydrophones specified in 6A001(a)(2)(a); or
+        - (d) Heading sensors having all of the following:
 
-    - (2) Incorporating multiplexed hydrophone group signal modules having all of the following characteristics:
+      - (1) Any accuracy of better than +0.50; and
 
-      - (a) Designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m; and
+      - (2) Designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m; (L.N. 132 of 2001)
 
-      - (b) Capable of being operationally interchanged with towed acoustic hydrophone array modules; (L.N. 132 of 2001)
+        - (e) Bottom or bay cable systems having any of the following:
 
-        - (f) Processing equipment, specially designed for bottom or bay cable systems, having “user accessible programmability” and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes; (L.N. 183 of 1999)
+      - (1) Incorporating hydrophones specified in 6A001(a)(2)(a); or
 
-  - (b) Correlation-velocity sonar log equipment designed to measure the horizontal speed of the equipment carrier relative to the sea bed at distances between the carrier and the sea bed exceeding 500 m;
+      - (2) Incorporating multiplexed hydrophone group signal modules having all of the following characteristics:
 
-- (L.N. 65 of 2004)
+        - (a) Designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m; and
 
-- 6A002 Optical sensors
+        - (b) Capable of being operationally interchanged with towed acoustic hydrophone array modules; (L.N. 132 of 2001)
 
-  - N.B.:
+          - (f) Processing equipment, specially designed for bottom or bay cable systems, having “user accessible programmability” and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes; (L.N. 183 of 1999)
 
-  - See also 6A102.
+            - (b) Correlation-velocity sonar log equipment designed to measure the horizontal speed of the equipment carrier relative to the sea bed at distances between the carrier and the sea bed exceeding 500 m;
 
-    - (a)
+  - (L.N. 65 of 2004)
 
-    - Optical detectors, as follows:
+  - 6A002 Optical sensors
 
-    - Note:
+    - N.B.:
 
-    - 6A002(a) does not control germanium or silicon photodevices.
+    - See also 6A102.
+
+      - (a) Optical detectors, as follows: Note: 6A002(a) does not control germanium or silicon photodevices. (L.N. 95 of 2006) N.B.:
+
+    - Silicon and other material based ‘microbolometer’ non-”space-qualified” “focal plane arrays” are only controlled by 6A002(a)(3)(f). (L.N. 95 of 2006)
 
       - (1) “Space qualified” solid-state detectors, as follows: (L.N. 65 of 2004)
 
@@ -6552,69 +6660,73 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (c) “Space qualified” solid-state detectors having a peak response in the wavelength range exceeding 1200 nm but not exceeding 30000 nm; (L.N. 65 of 2004)
 
-  - (2) Image intensifier tubes and specially designed components therefor, as follows:
+      - (2) Image intensifier tubes and specially designed components therefor, as follows:
 
-    - (a) Image intensifier tubes having all of the following:
+        - (a) Image intensifier tubes having all of the following:
 
-      - (1) A peak response in the wavelength range exceeding 400 nm but not exceeding 1050 nm;
+          - (1) A peak response in the wavelength range exceeding 400 nm but not exceeding 1050 nm;
 
-      - (2) A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of 12 μm or less; and (L.N. 65 of 2004)
+          - (2) A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of 12 μm or less; and (L.N. 65 of 2004)
 
-      - (3) Any of the following photocathodes: (L.N. 65 of 2004)
+          - (3) Any of the following photocathodes: (L.N. 65 of 2004)
 
-        - (a) S-20, S-25 or multialkali photocathodes with a luminous sensitivity exceeding 350 μA/lm; (L.N. 65 of 2004)
+            - (a) S-20, S-25 or multialkali photocathodes with a luminous sensitivity exceeding 350 μA/lm; (L.N. 65 of 2004)
 
-        - (b) GaAs or GaInAs photocathodes; or
+            - (b) GaAs or GaInAs photocathodes; or
 
-        - (c) Other III-V compound semiconductor photocathodes;
+            - (c) Other III-V compound semiconductor photocathodes;
 
-  - Note:
+      - Note:
 
-  - 6A002(a)(2)(a)(3)(c) does not apply to compound semi-conductor photocathodes with a maximum radiant sensitivity of 10 mA/W or less. (L.N. 65 of 2004)
+      - 6A002(a)(2)(a)(3)(c) does not apply to compound semi-conductor photocathodes with a maximum radiant sensitivity of 10 mA/W or less. (L.N. 65 of 2004)
 
-    - (b) Specially designed components, as follows:
+        - (b) Specially designed components, as follows:
 
-      - (1) Microchannel plates having a hole pitch (centre-to-centre spacing) of 12 μm or less; (L.N. 65 of 2004)
+          - (1) Microchannel plates having a hole pitch (centre-to-centre spacing) of 12 μm or less; (L.N. 65 of 2004)
 
-      - (2) GaAs or GaInAs photocathodes;
+          - (2) GaAs or GaInAs photocathodes;
 
-      - (3) Other III-V compound semiconductor photocathodes;
+          - (3) Other III-V compound semiconductor photocathodes;
 
-  - Note:
+      - Note:
 
-  - 6A002(a)(2)(b)(3) does not apply to compound semiconductor photocathodes with a maximum radiant sensitivity of 10 mA/W or less. (L.N. 65 of 2004)
+      - 6A002(a)(2)(b)(3) does not apply to compound semiconductor photocathodes with a maximum radiant sensitivity of 10 mA/W or less. (L.N. 65 of 2004)
 
-  - (3)
+      - (3)
 
-  - Non-”space qualified” “focal plane arrays”, as follows: (L.N. 65 of 2004)
+      - Non-”space qualified” “focal plane arrays”, as follows: (L.N. 65 of 2004)
 
-  - Technical Notes:
+      - N.B.:
 
-    - 1. Linear or two-dimensional multi-element detector arrays are referred to as “focal plane arrays”.
+      - Silicon and other material based ‘microbolometer’ non-”space-qualified” “focal plane arrays” are only controlled by 6A002(a)(3)(f). (L.N. 95 of 2006)
 
-    - 2. For the purposes of 6A002(a)(3) ‘cross-scan direction’ is defined as the axis parallel to the linear array of detector elements and the ‘scan direction’ is defined as the axis perpendicular to the linear array of detector elements. (L.N. 65 of 2004)
+      - Technical Notes:
 
-  - Notes:
+        - 1. Linear or two-dimensional multi-element detector arrays are referred to as “focal plane arrays”.
 
-    - 1. 6A002(a)(3) includes photoconductive arrays and photovoltaic arrays.
+        - 2. For the purposes of 6A002(a)(3) ‘cross-scan direction’ is defined as the axis parallel to the linear array of detector elements and the ‘scan direction’ is defined as the axis perpendicular to the linear array of detector elements. (L.N. 65 of 2004)
 
-    - 2. 6A002(a)(3) does not control:
+      - Notes:
 
-      - (a) Silicon “focal plane arrays”;
+        - 1. 6A002(a)(3) includes photoconductive arrays and photovoltaic arrays.
 
-      - (b) Multi-element (not to exceed 16 elements) encapsulated photoconductive cells using either lead sulphide or lead selenide;
+        - 2. 6A002(a)(3) does not control:
 
-      - (c) Pyroelectric detectors using any of the following:
+          - (a) Multi-element (not to exceed 16 elements) encapsulated photoconductive cells using either lead sulphide or lead selenide; (L.N. 95 of 2006)
 
-        - (1) Triglycine sulphate and variants;
+          - (b) Pyroelectric detectors using any of the following: (L.N. 95 of 2006)
 
-        - (2) Lead-lanthanum-zirconium titanate and variants;
+            - (1) Triglycine sulphate and variants;
 
-        - (3) Lithium tantalate;
+            - (2) Lead-lanthanum-zirconium titanate and variants;
 
-        - (4) Polyvinylidene fluoride and variants; or
+            - (3) Lithium tantalate;
 
-        - (5) Strontium barium niobate and variants. (L.N. 132 of 2001)
+            - (4) Polyvinylidene fluoride and variants; or
+
+            - (5) Strontium barium niobate and variants. (L.N. 132 of 2001)
+
+  - (L.N. 95 of 2006)
 
     - (a) Non-”space qualified” “focal plane arrays”, having all of the following: (L.N. 65 of 2004)
 
@@ -6622,87 +6734,95 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (2) A response “time constant” of less than 0.5 ns;
 
-    - (b) Non-”space qualified” “focal plane arrays”, having all of the following: (L.N. 65 of 2004)
+        - (b) Non-”space qualified” “focal plane arrays”, having all of the following: (L.N. 65 of 2004)
 
       - (1) Individual elements with a peak response in the wavelength range exceeding 1050 nm but not exceeding 1200 nm; and
 
       - (2) A response “time constant” of 95 ns or less;
 
-    - (c) Non-”space qualified” non-linear (2-dimensional) “focal plane arrays”, having individual elements with a peak response in the wavelength range exceeding 1200 nm but not exceeding 30000 nm; (L.N. 65 of 2004)
+        - (c) Non-”space qualified” non-linear (2-dimensional) “focal plane arrays”, having individual elements with a peak response in the wavelength range exceeding 1200 nm but not exceeding 30000 nm; (L.N. 65 of 2004)
 
-    - (d) Non-”space qualified” linear (1-dimensional) “focal plane arrays”, having all of the following:
+    - N.B.:
 
-      - (1) Individual elements with a peak response in the wavelength range exceeding 1200 nm but not exceeding 2500 nm; and
+    - Silicon and other material based ‘microbolometer’ non-”space-qualified” “focal plane arrays” are only controlled by 6A002(a)(3)(f). (L.N. 95 of 2006)
 
-      - (2) Any of the following:
+      - (d) Non-”space qualified” linear (1-dimensional) “focal plane arrays”, having all of the following:
 
-        - (a) A ratio of scan direction dimension of the detector element to the cross-scan direction dimension of the detector element of less than 3.8; or
+        - (1) Individual elements with a peak response in the wavelength range exceeding 1200 nm but not exceeding 2500 nm; and
 
-        - (b) Signal processing in the element (SPRITE); (L.N. 65 of 2004)
+        - (2) Any of the following:
 
-    - (e) Non-”space qualified” linear (1-dimensional) “focal plane arrays”, having individual elements with a peak response in the wavelength range exceeding 2500 nm but not exceeding 30000 nm; (L.N. 65 of 2004)
+          - (a) A ratio of scan direction dimension of the detector element to the cross-scan direction dimension of the detector element of less than 3.8; or
 
-  - (b) “Monospectral imaging sensors” and “multispectral imaging sensors” designed for remote sensing applications, having any of the following:
+          - (b) Signal processing in the element (SPRITE); (L.N. 65 of 2004)
 
-    - (1) An Instantaneous-Field-Of-View (IFOV) of less than 200 μrad (microradians); or
+      - (e) Non-”space qualified” linear (1-dimensional) “focal plane arrays”, having individual elements with a peak response in the wavelength range exceeding 2500 nm but not exceeding 30000 nm; (L.N. 65 of 2004)
 
-    - (2) Being specified for operation in the wavelength range exceeding 400 nm but not exceeding 30000 nm and having all the following:
+      - (f) Non-”space-qualified” non-linear (2-dimensional) infrared “focal plane arrays” based on ‘microbolometer’ material having individual elements with an unfiltered response in the wavelength range equal to or exceeding 8000 nm but not exceeding 14000 nm;
 
-      - (a) Providing output imaging data in digital format; and
+    - Technical Note:
 
-      - (b) Being any of the following:
+    - For the purposes of 6A002(a)(3)(f), ‘microbolometer’ is defined as a thermal imaging detector that, as a result of a temperature change in the detector caused by the absorption of infrared radiation, is used to generate any usable signal. (L.N. 95 of 2006)
 
-        - (1) “Space qualified”; or (L.N. 65 of 2004)
+      - (b) “Monospectral imaging sensors” and “multispectral imaging sensors” designed for remote sensing applications, having any of the following:
 
-        - (2) Designed for airborne operation, using other than silicon detectors, and having an IFOV of less than 2.5 mrad (milliradians);
+        - (1) An Instantaneous-Field-Of-View (IFOV) of less than 200 μrad (microradians); or
 
-  - (c) Direct view imaging equipment operating in the visible or infrared spectrum, incorporating any of the following:
+        - (2) Being specified for operation in the wavelength range exceeding 400 nm but not exceeding 30000 nm and having all the following:
 
-    - (1) Image intensifier tubes having the characteristics listed in 6A002(a)(2)(a); or
+          - (a) Providing output imaging data in digital format; and
 
-    - (2) “Focal plane arrays” having the characteristics listed in 6A002(a)(3);
+          - (b) Being any of the following:
 
-  - Technical Note:
+            - (1) “Space qualified”; or (L.N. 65 of 2004)
 
-  - ’Direct view’ refers to imaging equipment, operating in the visible or infrared spectrum, that presents a visual image to a human observer without converting the image into an electronic signal for television display, and that cannot record or store the image photographically, electronically or by any other means.
+            - (2) Designed for airborne operation, using other than silicon detectors, and having an IFOV of less than 2.5 mrad (milliradians);
 
-  - Note:
+      - (c) Direct view imaging equipment operating in the visible or infrared spectrum, incorporating any of the following:
 
-  - 6A002(c) does not control the following equipment incorporating other than GaAs or GaInAs photocathodes:
+        - (1) Image intensifier tubes having the characteristics listed in 6A002(a)(2)(a); or
 
-    - (a) Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems;
+        - (2) “Focal plane arrays” having the characteristics listed in 6A002(a)(3);
 
-    - (b) Medical equipment;
+      - Technical Note:
 
-    - (c) Industrial equipment used for inspection, sorting or analysis of the properties of materials;
+      - ’Direct view’ refers to imaging equipment, operating in the visible or infrared spectrum, that presents a visual image to a human observer without converting the image into an electronic signal for television display, and that cannot record or store the image photographically, electronically or by any other means.
 
-    - (d) Flame detectors for industrial furnaces;
+      - Note:
 
-    - (e) Equipment specially designed for laboratory use.
+      - 6A002(c) does not control the following equipment incorporating other than GaAs or GaInAs photocathodes:
 
-  - (d) Special support components for optical sensors, as follows:
+        - (a) Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems;
 
-    - (1) “Space qualified” cryocoolers; (L.N. 65 of 2004)
+        - (b) Medical equipment;
 
-    - (2) Non-”space qualified” cryocoolers, having a cooling source temperature below 218 K (-550C), as follows: (L.N. 65 of 2004)
+        - (c) Industrial equipment used for inspection, sorting or analysis of the properties of materials;
 
-      - (a) Closed cycle type with a specified Mean-Time-To-Failure (MTTF), or Mean-Time-Between-Failures (MTBF), exceeding 2500 hours;
+        - (d) Flame detectors for industrial furnaces;
 
-      - (b) Joule-Thomson (JT) self-regulating minicoolers having bore (outside) diameters of less than 8 mm;
+        - (e) Equipment specially designed for laboratory use.
 
-    - (3) Optical sensing fibres specially fabricated either compositionally or structurally, or modified by coating, to be acoustically, thermally, inertially, electromagnetically or nuclear radiation sensitive;
+      - (d) Special support components for optical sensors, as follows:
 
-  - (e)
+        - (1) “Space qualified” cryocoolers; (L.N. 65 of 2004)
 
-  - “Space qualified” “focal plane arrays” having more than 2048 elements per array and having a peak response in the wavelength range exceeding 300 nm but not exceeding 900 nm;
+        - (2) Non-”space qualified” cryocoolers, having a cooling source temperature below 218 K (-550C), as follows: (L.N. 65 of 2004)
 
-  - 6A003 Cameras
+          - (a) Closed cycle type with a specified Mean-Time-To-Failure (MTTF), or Mean-Time-Between-Failures (MTBF), exceeding 2500 hours;
 
-  - N.B.:
+          - (b) Joule-Thomson (JT) self-regulating minicoolers having bore (outside) diameters of less than 8 mm;
 
-  - See also 6A203.
+        - (3) Optical sensing fibres specially fabricated either compositionally or structurally, or modified by coating, to be acoustically, thermally, inertially, electromagnetically or nuclear radiation sensitive;
 
-  - For cameras specially designed or modified for underwater use, see 8A002(d) and 8A002(e).
+      - (e) “Space qualified” “focal plane arrays” having more than 2048 elements per array and having a peak response in the wavelength range exceeding 300 nm but not exceeding 900 nm;
+
+    - 6A003 Cameras
+
+    - N.B.:
+
+    - See also 6A203.
+
+    - For cameras specially designed or modified for underwater use, see 8A002(d) and 8A002(e).
 
     - (a)
 
@@ -6728,123 +6848,169 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (b) A read out time allowing a framing rate of more than 125 full frames per second;
 
-  - (6) Plug-ins, having all of the following characteristics:
+      - (6) Plug-ins, having all of the following characteristics:
 
-    - (a) Specially designed for instrumentation cameras which have modular structures and which are controlled by 6A003(a); and
+        - (a) Specially designed for instrumentation cameras which have modular structures and which are controlled by 6A003(a); and
 
-    - (b) Enabling these cameras to meet the characteristics specified in 6A003(a)(3), 6A003(a)(4) or 6A003(a)(5), according to the manufacturer’s specifications; (L.N. 132 of 2001)
+        - (b) Enabling these cameras to meet the characteristics specified in 6A003(a)(3), 6A003(a)(4) or 6A003(a)(5), according to the manufacturer’s specifications; (L.N. 132 of 2001)
 
-      - (b) Imaging cameras, as follows: Note:
+    - (b)
 
-  - 6A003(b) does not control television or video cameras specially designed for television broadcasting.
+    - Imaging cameras, as follows:
 
-  - (1) Video cameras incorporating solid state sensors, having a peak response in the wavelength range exceeding 10 nm but not exceeding 30000 nm and having all of the following:
+    - Note:
 
-    - (a) Having any of the following:
+    - 6A003(b) does not control television or video cameras specially designed for television broadcasting.
 
-      - (1) More than 4 x 106 “active pixels” per solid state array for monochrome (black and white) cameras;
+      - (1) Video cameras incorporating solid state sensors, having a peak response in the wavelength range exceeding 10 nm but not exceeding 30000 nm and having all of the following:
 
-      - (2) More than 4 x 106 “active pixels” per solid state array for colour cameras incorporating three solid state arrays; or
+        - (a) Having any of the following:
 
-      - (3) More than 12 x 106 “active pixels” for solid state array colour cameras incorporating one solid state array; and
+          - (1) More than 4 x 106 “active pixels” per solid state array for monochrome (black and white) cameras;
 
-    - (b) Having any of the following:
+          - (2) More than 4 x 106 “active pixels” per solid state array for colour cameras incorporating three solid state arrays; or
 
-      - (1) Optical mirrors controlled by 6A004(a);
+          - (3) More than 12 x 106 “active pixels” for solid state array colour cameras incorporating one solid state array; and
 
-      - (2) Optical control equipment controlled by 6A004(d); or
+        - (b) Having any of the following:
 
-      - (3) The capability for annotating internally generated camera tracking data;
+          - (1) Optical mirrors controlled by 6A004(a);
 
-  - Technical Notes:
+          - (2) Optical control equipment controlled by 6A004(d); or
 
-    - 1. For the purpose of this entry, digital video cameras should be evaluated by the maximum number of “active pixels” used for capturing moving images.
+          - (3) The capability for annotating internally generated camera tracking data;
 
-    - 2. For the purpose of this entry, camera tracking data is the information necessary to define camera line of sight orientation with respect to the earth. This includes:
+      - Technical Notes:
 
-      - (a) the horizontal angle the camera line of sight makes with respect to the earth’s magnetic field direction; and
+        - 1. For the purpose of this entry, digital video cameras should be evaluated by the maximum number of “active pixels” used for capturing moving images.
 
-      - (b) the vertical angle between the camera line of sight and the earth’s horizon. (L.N. 65 of 2004)
+        - 2. For the purpose of this entry, camera tracking data is the information necessary to define camera line of sight orientation with respect to the earth. This includes:
 
-  - (2) Scanning cameras and scanning camera systems, having all of the following:
+          - (a) the horizontal angle the camera line of sight makes with respect to the earth’s magnetic field direction; and
 
-    - (a) A peak response in the wavelength range exceeding 10 nm but not exceeding 30000 nm; (L.N. 65 of 2004)
+          - (b) the vertical angle between the camera line of sight and the earth’s horizon. (L.N. 65 of 2004)
 
-    - (b) Linear detector arrays with more than 8192 elements per array; and (L.N. 65 of 2004)
+      - (2) Scanning cameras and scanning camera systems, having all of the following:
 
-    - (c) Mechanical scanning in one direction; (L.N. 65 of 2004)
+        - (a) A peak response in the wavelength range exceeding 10 nm but not exceeding 30000 nm; (L.N. 65 of 2004)
 
-  - (3) Imaging cameras incorporating image intensifiers having the characteristics listed in 6A002(a)(2)(a);
+        - (b) Linear detector arrays with more than 8192 elements per array; and (L.N. 65 of 2004)
 
-  - (4)
+        - (c) Mechanical scanning in one direction; (L.N. 65 of 2004)
 
-  - Imaging cameras incorporating “focal plane arrays” having the characteristics listed in 6A002(a)(3);
+      - (3) Imaging cameras incorporating image intensifiers having the characteristics listed in 6A002(a)(2)(a);
 
-  - Note:
+      - (4) Imaging cameras incorporating “focal plane arrays” having any of the following:
 
-  - 6A003(b)(4) does not control imaging cameras incorporating linear “focal plane arrays” with 12 elements or fewer, not employing time-delay-and-integration within the element, designed for any of the following:
+        - (a) Incorporating “focal plane arrays” controlled by 6A002(a)(3)(a) to 6A002(a)(3)(e); or
 
-    - (a) Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems;
+        - (b) Incorporating “focal plane arrays” controlled by 6A002(a)(3)(f);
 
-    - (b) Industrial equipment used for inspection or monitoring of heat flows in buildings, equipment or industrial processes;
+      - Notes:
 
-    - (c) Industrial equipment used for inspection, sorting or analysis of the properties of materials;
+        - 1. Imaging cameras described in 6A003(b)(4) include “focal plane arrays” combined with sufficient “signal processing” electronics, beyond the read out integrated circuit, to enable as a minimum the output of an analogue or digital signal once power is supplied.
 
-    - (d) Equipment specially designed for laboratory use; or
+        - 2. 6A003(b)(4)(a) does not control imaging cameras incorporating linear “focal plane arrays” with twelve elements or fewer, not employing time-delay-and-integration within the element, designed for any of the following:
 
-    - (e)
+          - (a) Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems;
 
-    - Medical equipment. (L.N. 132 of 2001)
+          - (b) Industrial equipment used for inspection or monitoring of heat flows in buildings, equipment or industrial processes;
+
+          - (c) Industrial equipment used for inspection, sorting or analysis of the properties of materials;
+
+          - (d) Equipment specially designed for laboratory use; or
+
+          - (e) Medical equipment.
+
+        - 3. 6A003(b)(4)(b) does not control imaging cameras having any of the following characteristics:
+
+          - (a) A maximum frame rate equal to or less than 9 Hz;
+
+          - (b) Having all of the following:
+
+            - (1) Having a minimum horizontal or vertical Instantaneous-Field-of-View (IFOV) of at least 10 mrad/pixel (milliradians/pixel);
+
+            - (2) Incorporating a fixed focal-length lens that is not designed to be removed;
+
+            - (3) Not incorporating a ‘direct view’ display; and
+
+    - Technical Note:
+
+    - ’Direct view’ refers to an imaging camera operating in the infrared spectrum that presents a visual image to a human observer using a near-to-eye micro display incorporating any light-security mechanism.
+
+      - (4) Having any of the following:
+
+        - (a) No facility to obtain a viewable image of the detected field-of-view;
+
+        - (b) The camera is designed for a single kind of application and designed not to be user modified; or
+
+    - Technical Note:
+
+    - Instantaneous-Field-of-View (IFOV) specified in Note 3(b) is the lesser figure of the Horizontal FOV or the Vertical FOV.
+
+    - Horizontal IFOV = horizontal Field of View (FOV)/number of horizontal detector elements;
+
+    - Vertical IFOV = vertical Field of View (FOV)/number of vertical detector elements;
+
+      - (c) Where the camera is specially designed for installation into a civilian passenger land vehicle of less than three tonnes (gross vehicle weight) and having all of the following:
+
+        - (1) Is only operable when installed in any of the following:
+
+          - (a) The civilian passenger land vehicle for which it was intended; or
+
+          - (b) A specially designed, authorized maintenance test facility; and
+
+        - (2) Incorporates an active mechanism that forces the camera not to function when it is removed from the vehicle for which it was intended; (L.N. 95 of 2006)
 
     - 6A004 Optics
 
-      - (a) Optical mirrors (reflectors), as follows:
+    - (a) Optical mirrors (reflectors), as follows:
 
-        - (1) “Deformable mirrors” having either continuous or multi-element surfaces, and specially designed components therefor, capable of dynamically repositioning portions of the surface of the mirror at rates exceeding 100 Hz;
+      - (1) “Deformable mirrors” having either continuous or multi-element surfaces, and specially designed components therefor, capable of dynamically repositioning portions of the surface of the mirror at rates exceeding 100 Hz;
 
-        - (2) Lightweight monolithic mirrors having an average “equivalent density” of less than 30 kg/m2 and a total mass exceeding 10 kg;
+      - (2) Lightweight monolithic mirrors having an average “equivalent density” of less than 30 kg/m2 and a total mass exceeding 10 kg;
 
-        - (3) Lightweight “composite” or foam mirror structures with an average “equivalent density” of less than 30 kg/m2 and a total mass exceeding 2 kg;
+      - (3) Lightweight “composite” or foam mirror structures with an average “equivalent density” of less than 30 kg/m2 and a total mass exceeding 2 kg;
 
-        - (4) Beam steering mirrors more than 100 mm in diameter or length of major axis, which maintain a flatness of lambda/2 or better (lambda is equal to 633 nm) having a control bandwidth exceeding 100 Hz;
+      - (4) Beam steering mirrors more than 100 mm in diameter or length of major axis, which maintain a flatness of lambda/2 or better (lambda is equal to 633 nm) having a control bandwidth exceeding 100 Hz;
 
-      - (b) Optical components made from zinc selenide (ZnSe) or zinc sulphide (ZnS) with transmission in the wavelength range exceeding 3000 nm but not exceeding 25000 nm and having any of the following:
+    - (b) Optical components made from zinc selenide (ZnSe) or zinc sulphide (ZnS) with transmission in the wavelength range exceeding 3000 nm but not exceeding 25000 nm and having any of the following:
 
-        - (1) Exceeding 100 cm3 in volume; or
+      - (1) Exceeding 100 cm3 in volume; or
 
-        - (2) Exceeding 80 mm in diameter or length of major axis and 20 mm in thickness (depth);
+      - (2) Exceeding 80 mm in diameter or length of major axis and 20 mm in thickness (depth);
 
-      - (c) “Space qualified” components for optical systems, as follows: (L.N. 65 of 2004)
+    - (c) “Space qualified” components for optical systems, as follows: (L.N. 65 of 2004)
 
-        - (1) Lightweighted to less than 20% “equivalent density” compared with a solid blank of the same aperture and thickness;
+      - (1) Lightweighted to less than 20% “equivalent density” compared with a solid blank of the same aperture and thickness;
 
-        - (2) Raw substrates, processed substrates having surface coatings (single-layer or multi-layer, metallic or dielectric, conducting, semiconducting or insulating) or having protective films; (L.N. 183 of 1999)
+      - (2) Raw substrates, processed substrates having surface coatings (single-layer or multi-layer, metallic or dielectric, conducting, semiconducting or insulating) or having protective films; (L.N. 183 of 1999)
 
-        - (3) Segments or assemblies of mirrors designed to be assembled in space into an optical system with a collecting aperture equivalent to or larger than a single optic 1 m in diameter;
+      - (3) Segments or assemblies of mirrors designed to be assembled in space into an optical system with a collecting aperture equivalent to or larger than a single optic 1 m in diameter;
 
-        - (4) Manufactured from “composite” materials having a coefficient of linear thermal expansion equal to or less than 5 x 10-6 in any coordinate direction;
+      - (4) Manufactured from “composite” materials having a coefficient of linear thermal expansion equal to or less than 5 x 10-6 in any coordinate direction;
 
-      - (d) Optical control equipment, as follows:
+    - (d) Optical control equipment, as follows:
 
-        - (1) Specially designed to maintain the surface figure or orientation of the “space qualified” components controlled by 6A004(c)(1) or 6A004(c)(3); (L.N. 65 of 2004)
+      - (1) Specially designed to maintain the surface figure or orientation of the “space qualified” components controlled by 6A004(c)(1) or 6A004(c)(3); (L.N. 65 of 2004)
 
-        - (2) Having steering, tracking, stabilization or resonator alignment bandwidths equal to or more than 100 Hz and an accuracy of 10 μrad (microradians) or less;
+      - (2) Having steering, tracking, stabilization or resonator alignment bandwidths equal to or more than 100 Hz and an accuracy of 10 μrad (microradians) or less;
 
-        - (3) Gimbals having all of the following:
+      - (3) Gimbals having all of the following:
 
-    - (a) A maximum slew exceeding 50;
+        - (a) A maximum slew exceeding 50;
 
-    - (b) A bandwidth of 100 Hz or more;
+        - (b) A bandwidth of 100 Hz or more;
 
-    - (c) Angular pointing errors of 200 μrad (microradians) or less; and
+        - (c) Angular pointing errors of 200 μrad (microradians) or less; and
 
-    - (d) Having any of the following:
+        - (d) Having any of the following:
 
-      - (1) Exceeding 0.15 m but not exceeding 1 m in diameter or major axis length and capable of angular accelerations exceeding 2 rad (radians)/s2; or
+          - (1) Exceeding 0.15 m but not exceeding 1 m in diameter or major axis length and capable of angular accelerations exceeding 2 rad (radians)/s2; or
 
-      - (2) Exceeding 1 m in diameter or major axis length and capable of angular accelerations exceeding 0.5 rad (radians)/s2;
+          - (2) Exceeding 1 m in diameter or major axis length and capable of angular accelerations exceeding 0.5 rad (radians)/s2;
 
-  - (4) Specially designed to maintain the alignment of phased array or phased segment mirror systems consisting of mirrors with a segment diameter or major axis length of 1 m or more;
+      - (4) Specially designed to maintain the alignment of phased array or phased segment mirror systems consisting of mirrors with a segment diameter or major axis length of 1 m or more;
 
     - (e) Aspheric optical elements having all of the following characteristics:
 
@@ -6932,351 +7098,357 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (d) Barium (Ba) “lasers” having an average output power exceeding 2 W; (L.N. 132 of 2001)
 
-  - (3) Carbon monoxide (CO) “lasers” having any of the following:
+      - (3) Carbon monoxide (CO) “lasers” having any of the following:
 
-    - (a) An output energy exceeding 2 J per pulse and a pulsed “peak power” exceeding 5 kW; or
+        - (a) An output energy exceeding 2 J per pulse and a pulsed “peak power” exceeding 5 kW; or
 
-    - (b) An average or CW output power exceeding 5 kW;
+        - (b) An average or CW output power exceeding 5 kW;
 
-  - (4) Carbon dioxide (CO2) “lasers” having any of the following:
+      - (4) Carbon dioxide (CO2) “lasers” having any of the following:
 
-    - (a) A CW output power exceeding 15 kW;
+        - (a) A CW output power exceeding 15 kW;
 
-    - (b) A pulsed output having a “pulse duration” exceeding 10 μs and having any of the following:
+        - (b) A pulsed output having a “pulse duration” exceeding 10 μs and having any of the following:
 
-      - (1) An average output power exceeding 10 kW; or
+          - (1) An average output power exceeding 10 kW; or
 
-      - (2) A pulsed “peak power” exceeding 100 kW; or
+          - (2) A pulsed “peak power” exceeding 100 kW; or
 
-    - (c) A pulsed output having a “pulse duration” equal to or less than 10 μs; and having any of the following:
+        - (c) A pulsed output having a “pulse duration” equal to or less than 10 μs; and having any of the following:
 
-      - (1) A pulse energy exceeding 5 J per pulse; or
+          - (1) A pulse energy exceeding 5 J per pulse; or
 
-      - (2) An average output power exceeding 2.5 kW;
+          - (2) An average output power exceeding 2.5 kW;
 
-  - (5) “Chemical lasers”, as follows:
+      - (5) “Chemical lasers”, as follows:
 
-    - (a) Hydrogen Fluoride (HF) “lasers”;
+        - (a) Hydrogen Fluoride (HF) “lasers”;
 
-    - (b) Deuterium Fluoride (DF) “lasers”;
+        - (b) Deuterium Fluoride (DF) “lasers”;
 
-    - (c) “Transfer lasers”, as follows:
+        - (c) “Transfer lasers”, as follows:
 
-      - (1) Oxygen Iodine (O2-I) “lasers”;
+          - (1) Oxygen Iodine (O2-I) “lasers”;
 
-      - (2) Deuterium Fluoride-Carbon dioxide (DF-CO2) “lasers”;
+          - (2) Deuterium Fluoride-Carbon dioxide (DF-CO2) “lasers”;
 
-  - (6) Krypton ion or argon ion “lasers” having any of the following: (L.N. 183 of 1999)
+      - (6) Krypton ion or argon ion “lasers” having any of the following: (L.N. 183 of 1999)
 
-    - (a) An output energy exceeding 1.5 J per pulse and a pulsed “peak power” exceeding 50 W; or
+        - (a) An output energy exceeding 1.5 J per pulse and a pulsed “peak power” exceeding 50 W; or
 
-    - (b) An average or CW output power exceeding 50 W;
+        - (b) An average or CW output power exceeding 50 W;
 
-  - (7)
+      - (7)
 
-  - Other gas “lasers”, having any of the following:
+      - Other gas “lasers”, having any of the following:
 
-  - Note:
+      - Note:
 
-  - 6A005(a)(7) does not control nitrogen “lasers”.
+      - 6A005(a)(7) does not control nitrogen “lasers”.
 
-    - (a) An output wavelength not exceeding 150 nm and having any of the following:
+        - (a) An output wavelength not exceeding 150 nm and having any of the following:
 
-      - (1) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+          - (1) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
 
-      - (2) An average or CW output power exceeding 1 W;
+          - (2) An average or CW output power exceeding 1 W;
 
-    - (b) An output wavelength exceeding 150 nm but not exceeding 800 nm and having any of the following:
+        - (b) An output wavelength exceeding 150 nm but not exceeding 800 nm and having any of the following:
 
-      - (1) An output energy exceeding 1.5 J per pulse and a pulsed “peak power” exceeding 30 W; or
+          - (1) An output energy exceeding 1.5 J per pulse and a pulsed “peak power” exceeding 30 W; or
 
-      - (2) An average or CW output power exceeding 30 W;
+          - (2) An average or CW output power exceeding 30 W;
 
-    - (c) An output wavelength exceeding 800 nm but not exceeding 1 400 nm and having any of the following:
+        - (c) An output wavelength exceeding 800 nm but not exceeding 1400 nm and having any of the following:
 
-      - (1) An output energy exceeding 0.25 J per pulse and a pulsed “peak power” exceeding 10 W; or
+          - (1) An output energy exceeding 0.25 J per pulse and a pulsed “peak power” exceeding 10 W; or
 
-      - (2) An average or CW output power exceeding 10 W; or
+          - (2) An average or CW output power exceeding 10 W; or
 
-    - (d) An output wavelength exceeding 1 400 nm and an average or CW output power exceeding 1 W;
+        - (d) An output wavelength exceeding 1400 nm and an average or CW output power exceeding 1 W;
+
+    - (b)
+
+    - Semiconductor “lasers”, as follows:
+
+    - Notes:
+
+      - 1. 6A005(b) includes semiconductor “lasers” having optical output connectors (e.g. fibre optic pigtails).
+
+      - 2. The control status of semiconductor “lasers” specially designed for other equipment is determined by the control status of the other equipment.
+
+        - (1) Individual single-transverse mode semiconductor “lasers”, having any of the following:
+
+          - (a) A wavelength equal to or less than 1510 nm, and having an average or CW output power exceeding 1.5 W; or
+
+          - (b) A wavelength greater than 1510 nm, and having an average or CW output power exceeding 500 mW;
+
+        - (2) Individual, multiple-transverse mode semiconductor “lasers”, having any of the following:
+
+          - (a) A wavelength of less than 1400 nm, and having an average or CW output power exceeding 10 W;
+
+          - (b) A wavelength equal to or greater than 1400 nm and less than 1900 nm, and having an average or CW output power exceeding 2.5 W; or
+
+          - (c) A wavelength equal to or greater than 1900 nm, and having an average or CW output power exceeding 1 W;
+
+        - (3) Individual semiconductor “laser” arrays, having any of the following:
+
+          - (a) A wavelength of less than 1400 nm, and having an average or CW output power exceeding 80 W;
+
+          - (b) A wavelength equal to or greater than 1400 nm and less than 1900 nm, and having an average or CW output power exceeding 25 W; or
+
+          - (c) A wavelength equal to or greater than 1900 nm, and having an average or CW output power exceeding 10 W;
+
+        - (4) Array stacks of semiconductor “lasers” containing at least one array that is controlled under 6A005(b)(3);
+
+      - Technical Notes:
+
+        - 1. Semiconductor “lasers” are commonly called “laser” diodes.
+
+        - 2. An ‘array’ consists of multiple semiconductor “laser” emitters fabricated as a single chip so that the centres of the emitted light beams are on parallel paths.
+
+        - 3. An ‘array stack’ is fabricated by stacking, or otherwise assembling, ‘arrays’ so that the centres of the emitted light beams are on parallel paths. (L.N. 65 of 2004)
+
+    - (c) Solid state “lasers”, as follows:
+
+      - (1) “Tunable” “lasers” having any of the following: Note:
+
+    - 6A005(c)(1) includes titanium-sapphire (Ti: Al2O3), thulium-YAG (Tm: YAG), thulium-YSGG (Tm: YSGG), alexandrite (Cr: BeAl2O4) and colour centre “lasers”.
+
+      - (a) An output wavelength less than 600 nm and having any of the following:
+
+        - (1) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+
+        - (2) An average or CW output power exceeding 1 W;
+
+      - (b) An output wavelength of 600 nm or more but not exceeding 1400 nm and having any of the following:
+
+        - (1) An output energy exceeding 1 J per pulse and a pulsed “peak power” exceeding 20 W; or
+
+        - (2) An average or CW output power exceeding 20 W; or
+
+      - (c) An output wavelength exceeding 1400 nm and having any of the following:
+
+        - (1) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+
+        - (2) An average or CW output power exceeding 1 W;
+
+          - (2) Non-”tunable” “lasers”, as follows: Note:
+
+      - 6A005(c)(2) includes atomic transition solid state “lasers”.
+
+      - (a) Neodymium glass “lasers”, as follows:
+
+        - (1) “Q-switched lasers” having any of the following:
+
+          - (a) An output energy exceeding 20 J but not exceeding 50 J per pulse and an average output power exceeding 10 W; or
+
+          - (b) An output energy exceeding 50 J per pulse;
+
+        - (2) Non-”Q-switched lasers” having any of the following:
+
+          - (a) An output energy exceeding 50 J but not exceeding 100 J per pulse and an average output power exceeding 20 W; or
+
+          - (b) An output energy exceeding 100 J per pulse;
 
       - (b)
 
-      - Semiconductor “lasers”, as follows:
+      - Neodymium-doped (other than glass) “lasers”, having an output wavelength exceeding 1000 nm but not exceeding 1100 nm, as follows:
 
-      - Notes:
+      - N.B.:
 
-        - 1. 6A005(b) includes semiconductor “lasers” having optical output connectors (e.g. fibre optic pigtails).
+      - For neodymium-doped (other than glass) “lasers” having an output wavelength not exceeding 1000 nm or exceeding 1100 nm, see 6A005(c)(2)(c).
 
-        - 2. The control status of semiconductor “lasers” specially designed for other equipment is determined by the control status of the other equipment.
+        - (1) Pulse excited, mode-locked, “Q-switched lasers” having a “pulse duration” of less than 1 ns and having any of the following:
 
-    - (1) Individual single-transverse mode semiconductor “lasers”, having any of the following:
+          - (a) A “peak power” exceeding 5 GW;
 
-      - (a) A wavelength equal to or less than 1510 nm, and having an average or CW output power exceeding 1.5 W; or
+          - (b) An average output power exceeding 10 W; or
 
-      - (b) A wavelength greater than 1510 nm, and having an average or CW output power exceeding 500 mW;
+          - (c) A pulsed energy exceeding 0.1 J;
 
-    - (2) Individual, multiple-transverse mode semiconductor “lasers”, having any of the following:
+        - (2) Pulse-excited, “Q-switched lasers” having a pulse duration equal to or more than 1 ns, and having any of the following:
 
-      - (a) A wavelength of less than 1400 nm, and having an average or CW output power exceeding 10 W;
+          - (a) A single-transverse mode output having:
 
-      - (b) A wavelength equal to or greater than 1400 nm and less than 1900 nm, and having an average or CW output power exceeding 2.5 W; or
+            - (1) A “peak power” exceeding 100 MW;
 
-      - (c) A wavelength equal to or greater than 1900 nm, and having an average or CW output power exceeding 1 W;
+            - (2) An average output power exceeding 20 W; or
 
-    - (3) Individual semiconductor “laser” arrays, having any of the following:
+            - (3) A pulsed energy exceeding 2 J; or
 
-      - (a) A wavelength of less than 1400 nm, and having an average or CW output power exceeding 80 W;
+          - (b) A multiple-transverse mode output having:
 
-      - (b) A wavelength equal to or greater than 1400 nm and less than 1900 nm, and having an average or CW output power exceeding 25 W; or
+            - (1) A “peak power” exceeding 400 MW;
 
-      - (c) A wavelength equal to or greater than 1900 nm, and having an average or CW output power exceeding 10 W;
+            - (2) An average output power exceeding 2 kW; or
 
-    - (4) Array stacks of semiconductor “lasers” containing at least one array that is controlled under 6A005(b)(3);
+            - (3) A pulsed energy exceeding 2 J;
 
-  - Technical Notes:
+        - (3) Pulse-excited, non-”Q-switched lasers”, having:
 
-    - 1. Semiconductor “lasers” are commonly called “laser” diodes.
+          - (a) A single-transverse mode output having:
 
-    - 2. An ‘array’ consists of multiple semiconductor “laser” emitters fabricated as a single chip so that the centres of the emitted light beams are on parallel paths.
+            - (1) A “peak power” exceeding 500 kW; or
 
-    - 3. An ‘array stack’ is fabricated by stacking, or otherwise assembling, ‘arrays’ so that the centres of the emitted light beams are on parallel paths. (L.N. 65 of 2004)
+            - (2) An average output power exceeding 150 W; or
 
-      - (c) Solid state “lasers”, as follows:
+          - (b) A multiple-transverse mode output having:
 
-        - (1) “Tunable” “lasers” having any of the following: Note:
+            - (1) A “peak power” exceeding 1 MW; or
 
-  - 6A005(c)(1) includes titanium-sapphire (Ti: Al2O3), thulium-YAG (Tm: YAG), thulium-YSGG (Tm: YSGG), alexandrite (Cr: BeAl2O4) and colour centre “lasers”.
+            - (2) An average power exceeding 2 kW;
 
-    - (a) An output wavelength less than 600 nm and having any of the following:
+        - (4) Continuously excited “lasers” having:
 
-      - (1) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+          - (a) A single-transverse mode output having:
 
-      - (2) An average or CW output power exceeding 1 W;
+            - (1) A “peak power” exceeding 500 kW; or
 
-    - (b) An output wavelength of 600 nm or more but not exceeding 1400 nm and having any of the following:
+            - (2) An average or CW output power exceeding 150 W; or
 
-      - (1) An output energy exceeding 1 J per pulse and a pulsed “peak power” exceeding 20 W; or
+          - (b) A multiple-transverse mode output having:
 
-      - (2) An average or CW output power exceeding 20 W; or
+            - (1) A “peak power” exceeding 1 MW; or
 
-    - (c) An output wavelength exceeding 1400 nm and having any of the following:
+            - (2) An average or CW output power exceeding 2 kW;
 
-      - (1) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+      - (c) Other non-”tunable” “lasers”, having any of the following:
 
-      - (2) An average or CW output power exceeding 1 W;
+        - (1) A wavelength less than 150 nm and having any of the following:
 
-  - (2)
+          - (a) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
 
-  - Non-”tunable” “lasers”, as follows:
+          - (b) An average or CW output power exceeding 1 W;
 
-  - Note:
+        - (2) A wavelength of 150 nm or more but not exceeding 800 nm and having any of the following:
 
-  - 6A005(c)(2) includes atomic transition solid state “lasers”.
+          - (a) An output energy exceeding 1.5 J per pulse and a pulsed “peak power” exceeding 30 W; or
 
-    - (a) Neodymium glass “lasers”, as follows:
+          - (b) An average or CW output power exceeding 30 W;
 
-      - (1) “Q-switched lasers” having any of the following:
+        - (3) A wavelength exceeding 800 nm but not exceeding 1400 nm, as follows:
 
-        - (a) An output energy exceeding 20 J but not exceeding 50 J per pulse and an average output power exceeding 10 W; or
+          - (a) “Q-switched lasers” having:
 
-        - (b) An output energy exceeding 50 J per pulse;
+            - (1) An output energy exceeding 0.5 J per pulse and a pulsed “peak power” exceeding 50 W; or
 
-      - (2) Non-”Q-switched lasers” having any of the following:
+            - (2) An average output power exceeding:
 
-        - (a) An output energy exceeding 50 J but not exceeding 100 J per pulse and an average output power exceeding 20 W; or
+              - (a) 10 W for single-transverse mode “lasers”;
 
-        - (b) An output energy exceeding 100 J per pulse;
+              - (b) 30 W for multiple-transverse mode “lasers”; (L.N. 183 of 1999)
 
-    - (b) Neodymium-doped (other than glass) “lasers”, having an output wavelength exceeding 1000 nm but not exceeding 1100 nm, as follows: N.B.:
+          - (b) Non-”Q-switched lasers” having:
 
-  - For neodymium-doped (other than glass) “lasers” having an output wavelength not exceeding 1000 nm or exceeding 1100 nm, see 6A005(c)(2)(c).
+            - (1) An output energy exceeding 2 J per pulse and a pulsed “peak power” exceeding 50 W; or
 
-    - (1) Pulse excited, mode-locked, “Q-switched lasers” having a “pulse duration” of less than 1 ns and having any of the following:
+            - (2) An average or CW output power exceeding 50 W; or
 
-      - (a) A “peak power” exceeding 5 GW;
+        - (4) A wavelength exceeding 1400 nm and having any of the following:
 
-      - (b) An average output power exceeding 10 W; or
+          - (a) An output energy exceeding 100 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
 
-      - (c) A pulsed energy exceeding 0.1 J;
+          - (b) An average or CW output power exceeding 1 W;
 
-    - (2) Pulse-excited, “Q-switched lasers” having a pulse duration equal to or more than 1 ns, and having any of the following:
+    - (d) Dye and other liquid “lasers”, having any of the following:
 
-      - (a) A single-transverse mode output having:
+      - (1) A wavelength less than 150 nm and:
 
-        - (1) A “peak power” exceeding 100 MW;
+        - (a) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
 
-        - (2) An average output power exceeding 20 W; or
+        - (b) An average or CW output power exceeding 1 W;
 
-        - (3) A pulsed energy exceeding 2 J; or
+      - (2) A wavelength of 150 nm or more but not exceeding 800 nm and having any of the following:
 
-      - (b) A multiple-transverse mode output having:
+        - (a) An output energy exceeding 1.5 J per pulse and a pulsed “peak power” exceeding 20 W;
 
-        - (1) A “peak power” exceeding 400 MW;
+        - (b) An average or CW output power exceeding 20 W; or
 
-        - (2) An average output power exceeding 2 kW; or
+        - (c) A pulsed single longitudinal mode oscillator having an average output power exceeding 1 W and a repetition rate exceeding 1 kHz if the “pulse duration” is less than 100 ns;
 
-        - (3) A pulsed energy exceeding 2 J;
+      - (3) A wavelength exceeding 800 nm but not exceeding 1400 nm and having any of the following:
 
-    - (3) Pulse-excited, non-”Q-switched lasers”, having:
+        - (a) An output energy exceeding 0.5 J per pulse and a pulsed “peak power” exceeding 10 W; or
 
-      - (a) A single-transverse mode output having:
+        - (b) An average or CW output power exceeding 10 W; or
 
-        - (1) A “peak power” exceeding 500 kW; or
+      - (4) A wavelength exceeding 1400 nm and having any of the following:
 
-        - (2) An average output power exceeding 150 W; or
+        - (a) An output energy exceeding 100 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
 
-      - (b) A multiple-transverse mode output having:
+        - (b) An average or CW output power exceeding 1 W;
 
-        - (1) A “peak power” exceeding 1 MW; or
+    - (e) Components, as follows:
 
-        - (2) An average power exceeding 2 kW;
+      - (1) Mirrors cooled either by active cooling or by heat pipe cooling; Technical Note:
 
-    - (4) Continuously excited “lasers” having:
+    - Active cooling is a cooling technique for optical components using flowing fluids within the subsurface (nominally less than 1 mm below the optical surface) of the optical component to remove heat from the optic.
 
-      - (a) A single-transverse mode output having:
+      - (2) Optical mirrors or transmissive or partially transmissive optical or electro-optical components specially designed for use with controlled “lasers”;
 
-        - (1) A “peak power” exceeding 500 kW; or
+    - (f) Optical equipment, as follows:
 
-        - (2) An average or CW output power exceeding 150 W; or
+      - (For shared aperture optical elements, capable of operating in “Super-High Power Laser” (“SHPL”) applications, see ML19 on the Munitions List.)
 
-      - (b) A multiple-transverse mode output having:
+      - (1) Dynamic wavefront (phase) measuring equipment capable of mapping at least 50 positions on a beam wavefront having any of the following:
 
-        - (1) A “peak power” exceeding 1 MW; or
+        - (a) Frame rates equal to or more than 100 Hz and phase discrimination of at least 5% of the beam’s wavelength; or
 
-        - (2) An average or CW output power exceeding 2 kW;
+        - (b) Frame rates equal to or more than 1000 Hz and phase discrimination of at least 20% of the beam’s wavelength;
 
-          - (c) Other non-”tunable” “lasers”, having any of the following:
+      - (2)
 
-    - (1) A wavelength less than 150 nm and having any of the following:
+        - “Laser” diagnostic equipment capable of measuring “SHPL” system angular beam steering errors of equal to or less than 10 μrad;
 
-      - (a) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+      - (3)
 
-      - (b) An average or CW output power exceeding 1 W;
+        - Optical equipment and components specially designed for a phased-array “SHPL” system for coherent beam combination to an accuracy of lambda/10 at the designed wavelength, or 0.1 μm, whichever is the smaller;
 
-    - (2) A wavelength of 150 nm or more but not exceeding 800 nm and having any of the following:
+      - (4)
 
-      - (a) An output energy exceeding 1.5 J per pulse and a pulsed “peak power” exceeding 30 W; or
+        - Projection telescopes specially designed for use with “SHPL” systems;
 
-      - (b) An average or CW output power exceeding 30 W;
+        - 6A006 “Magnetometers”, “magnetic gradiometers”, “intrinsic magnetic gradiometers”, underwater electric field sensors, and compensation systems, and specially designed components therefor, as follows:
 
-    - (3) A wavelength exceeding 800 nm but not exceeding 1400 nm, as follows:
+        - Note:
 
-      - (a) “Q-switched lasers” having:
+        - 6A006 does not control instruments specially designed for fishery applications or biomagnetic measurements for medical diagnostics.
 
-        - (1) An output energy exceeding 0.5 J per pulse and a pulsed “peak power” exceeding 50 W; or
+    - (a) “Magnetometers” and subsystems, as follows:
 
-        - (2) An average output power exceeding:
+      - (1) Using “superconductive” (SQUID) “technology” and having any of the following characteristics:
 
-          - (a) 10 W for single-transverse mode “lasers”;
+        - (a) SQUID systems designed for stationary operation, without specially designed subsystems designed to reduce in-motion noise, and having a “noise level” (sensitivity) equal to or lower (better) than 50 fT (rms) per square root Hz at a frequency of 1 Hz; or
 
-          - (b) 30 W for multiple-transverse mode “lasers”; (L.N. 183 of 1999)
+        - (b) SQUID systems having an in-motion-”magnetometer” “noise level” (sensitivity) lower (better) than 20 pT (rms) per square root Hz at a frequency of 1 Hz and specially designed to reduce in-motion noise;
 
-      - (b) Non-”Q-switched lasers” having:
+      - (2) Using optically pumped or nuclear precession (proton/Overhauser) “technology” having a “noise level” (sensitivity) lower (better) than 20 pT (rms) per square root Hz;
 
-        - (1) An output energy exceeding 2 J per pulse and a pulsed “peak power” exceeding 50 W; or
+      - (3) Using fluxgate “technology” having a “noise level” (sensitivity) equal to or lower (better) than 10 pT (rms) per square root Hz at a frequency of 1 Hz;
 
-        - (2) An average or CW output power exceeding 50 W; or
+      - (4) Induction coil “magnetometers” having a “noise level” (sensitivity) lower (better) than any of the following:
 
-    - (4) A wavelength exceeding 1400 nm and having any of the following:
+        - (a) 0.05 nT (rms)/square root Hz at frequencies of less than 1 Hz;
 
-      - (a) An output energy exceeding 100 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+        - (b) 1 x 10-3 nT (rms)/square root Hz at frequencies of 1 Hz or more but not exceeding 10 Hz; or
 
-      - (b) An average or CW output power exceeding 1 W;
+        - (c) 1 x 10-4 nT (rms)/square root Hz at frequencies exceeding 10 Hz;
 
-        - (d) Dye and other liquid “lasers”, having any of the following:
+      - (5) Fibre optic “magnetometers” having a “noise level” (sensitivity) lower (better) than 1 nT (rms) per square root Hz;
 
-          - (1) A wavelength less than 150 nm and:
+    - (b) Underwater electric field sensors having a “noise level” (sensitivity) lower (better) than 8 nanovolt per meter per square root Hz when measured at 1 Hz;
 
-            - (a) An output energy exceeding 50 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+    - (c) “Magnetic gradiometers”, as follows:
 
-            - (b) An average or CW output power exceeding 1 W;
+      - (1) “Magnetic gradiometers” using multiple “magnetometers” controlled by 6A006(a);
 
-  - (2) A wavelength of 150 nm or more but not exceeding 800 nm and having any of the following:
+      - (2) Fibre optic “intrinsic magnetic gradiometers” having a magnetic gradient field “noise level” (sensitivity) lower (better) than 0.3 nT/m (rms) per square root Hz;
 
-    - (a) An output energy exceeding 1.5 J per pulse and a pulsed “peak power” exceeding 20 W;
+      - (3) “Intrinsic magnetic gradiometers”, using “technology” other than fibre-optic “technology”, having a magnetic gradient field “noise level” (sensitivity) lower (better) than 0.015 nT/m (rms) per square root Hz;
 
-    - (b) An average or CW output power exceeding 20 W; or
+    - (d) Compensation systems for magnetic or underwater electric field sensors resulting in a performance equal to or better than the control parameters of 6A006(a), 6A006(b) or 6A006(c);
 
-    - (c) A pulsed single longitudinal mode oscillator having an average output power exceeding 1 W and a repetition rate exceeding 1 kHz if the “pulse duration” is less than 100 ns;
-
-  - (3) A wavelength exceeding 800 nm but not exceeding 1400 nm and having any of the following:
-
-    - (a) An output energy exceeding 0.5 J per pulse and a pulsed “peak power” exceeding 10 W; or
-
-    - (b) An average or CW output power exceeding 10 W; or
-
-  - (4) A wavelength exceeding 1400 nm and having any of the following:
-
-    - (a) An output energy exceeding 100 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
-
-    - (b) An average or CW output power exceeding 1 W;
-
-      - (e) Components, as follows:
-
-    - (1) Mirrors cooled either by active cooling or by heat pipe cooling; Technical Note:
-
-  - Active cooling is a cooling technique for optical components using flowing fluids within the subsurface (nominally less than 1 mm below the optical surface) of the optical component to remove heat from the optic.
-
-    - (2) Optical mirrors or transmissive or partially transmissive optical or electro-optical components specially designed for use with controlled “lasers”;
-
-      - (f) Optical equipment, as follows:
-
-        - (For shared aperture optical elements, capable of operating in “Super-High Power Laser” (“SHPL”) applications, see ML19 on the Munitions List.)
-
-        - (1) Dynamic wavefront (phase) measuring equipment capable of mapping at least 50 positions on a beam wavefront having any of the following:
-
-    - (a) Frame rates equal to or more than 100 Hz and phase discrimination of at least 5% of the beam’s wavelength; or
-
-    - (b) Frame rates equal to or more than 1000 Hz and phase discrimination of at least 20% of the beam’s wavelength;
-
-  - (2)
-
-    - “Laser” diagnostic equipment capable of measuring “SHPL” system angular beam steering errors of equal to or less than 10 μrad;
-
-  - (3)
-
-    - Optical equipment and components specially designed for a phased-array “SHPL” system for coherent beam combination to an accuracy of lambda/10 at the designed wavelength, or 0.1 μm, whichever is the smaller;
-
-  - (4)
-
-    - Projection telescopes specially designed for use with “SHPL” systems; 6A006 “Magnetometers”, “magnetic gradiometers”, “intrinsic magnetic gradiometers” and compensation systems, and specially designed components therefor, as follows: Note: 6A006 does not control instruments specially designed for biomagnetic measurements for medical diagnostics.
-
-    - (a) “Magnetometers” using “superconductive”, optically pumped, nuclear precession (proton/Overhauser) or triaxial fluxgate “technology” having a “noise level” (sensitivity) lower (better) than 0.05 nT rms per square root Hz; (L.N. 65 of 2004)
-
-    - (b) Induction coil “magnetometers” having a “noise level” (sensitivity) lower (better) than any of the following:
-
-      - (1) 0.05 nT rms per square root Hz at frequencies of less than 1 Hz;
-
-      - (2) 1 x 10-3 nT rms per square root Hz at frequencies of 1 Hz or more but not exceeding 10 Hz; or
-
-      - (3) 1 x 10-4 nT rms per square root Hz at frequencies exceeding 10 Hz;
-
-    - (c) Fibre optic “magnetometers” having a “noise level” (sensitivity) lower (better) than 1 nT rms per square root Hz;
-
-    - (d) “Magnetic gradiometers” using multiple “magnetometers” controlled by 6A006(a), 6A006(b) or 6A006(c);
-
-    - (e) Fibre optic “intrinsic magnetic gradiometers” having a magnetic gradient field “noise level” (sensitivity) lower (better) than 0.3 nT/m rms per square root Hz;
-
-    - (f) “Intrinsic magnetic gradiometers”, using “technology” other than fibre-optic “technology”, having a magnetic gradient field “noise level” (sensitivity) lower (better) than 0.015 nT/m rms per square root Hz;
-
-    - (g) Magnetic compensation systems for magnetic sensors designed for operation on mobile platforms;
-
-    - (h) “Superconductive” electromagnetic sensors, containing components manufactured from “superconductive” materials and having all of the following: (L.N. 183 of 1999)
-
-      - (1) Being designed for operation at temperatures below the “critical temperature” of at least one of their “superconductive” constituents (including Josephson effect devices or “superconductive” quantum interference devices (SQUIDS)); (L.N. 183 of 1999)
-
-      - (2) Being designed for sensing electromagnetic field variations at frequencies of 1 kHz or less; and (L.N. 183 of 1999)
-
-      - (3) Having any of the following characteristics:
-
-        - (a) Incorporating thin-film SQUIDS with a minimum feature size of less than 2 μm and with associated input and output coupling circuits;
-
-        - (b) Designed to operate with a magnetic field slew rate exceeding 1 x 106 magnetic flux quanta per second;
-
-        - (c) Designed to function without magnetic shielding in the earth’s ambient magnetic field; or
-
-        - (d) Having a temperature coefficient less (smaller) than 0.1 magnetic flux quantum/K;
+  - (L.N. 95 of 2006)
 
     - 6A007 Gravity meters (gravimeters) and gravity gradiometers, as follows:
 
@@ -7284,15 +7456,15 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - See also 6A107.
 
-    - (a) Gravity meters designed or modified for ground use having a static accuracy of less (better) than 10 μgal; (L.N. 183 of 1999) Note:
+      - (a) Gravity meters designed or modified for ground use having a static accuracy of less (better) than 10 μgal; (L.N. 183 of 1999) Note:
 
-    - 6A007(a) does not control ground gravity meters of the quartz element (Worden) type.
+      - 6A007(a) does not control ground gravity meters of the quartz element (Worden) type.
 
-    - (b) Gravity meters designed for mobile platforms, having all of the following: (L.N. 183 of 1999)
+      - (b) Gravity meters designed for mobile platforms, having all of the following: (L.N. 183 of 1999)
 
-      - (1) A static accuracy of less (better) than 0.7 μgal; and
+        - (1) A static accuracy of less (better) than 0.7 μgal; and
 
-      - (2) An in-service (operational) accuracy of less (better) than 0.7 μgal having a time-to-steady-state registration of less than 2 minutes under any combination of attendant corrective compensations and motional influences;
+        - (2) An in-service (operational) accuracy of less (better) than 0.7 μgal having a time-to-steady-state registration of less than 2 minutes under any combination of attendant corrective compensations and motional influences;
 
     - (c)
 
@@ -7360,7 +7532,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (4) It is to be permanently installed;
 
-  - (c) Weather balloon tracking radars;
+      - (c) Weather balloon tracking radars;
 
     - (j) Being “laser” radar or Light Detection and Ranging (LIDAR) equipment, having any of the following:
 
@@ -7392,7 +7564,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - 6A008(l)(4) does not control systems, equipment and assemblies used for marine traffic control.
 
-    - 6A102 Radiation hardened ‘detectors’, other than those specified in 6A002, specially designed or modified for protecting against nuclear effects (e.g. electromagnetic pulse (EMP), X-rays, combined blast and thermal effects), and usable for “missiles”, designed or rated to withstand radiation levels which meet or exceed a total irradiation does of 5 x 105 rads (Si); (L.N. 65 of 2004)
+    - 6A102 Radiation hardened ‘detectors’, other than those controlled by 6A002, specially designed or modified for protecting against nuclear effects (e.g. electromagnetic pulse (EMP), X-rays, combined blast and thermal effects), and usable for “missiles”, designed or rated to withstand radiation levels which meet or exceed a total irradiation does of 5 x 105 rads (Si); (L.N. 65 of 2004; L.N. 95 of 2006)
 
     - Technical Note:
 
@@ -7404,7 +7576,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (a)
 
-    - Radar and laser radar systems designed or modified for use in space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104; (L.N. 183 of 1999)
+    - Radar and laser radar systems designed or modified for use in space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 95 of 2006)
 
     - Note:
 
@@ -7418,7 +7590,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (d) Doppler navigation radar equipment. (L.N. 65 of 2004)
 
-    - (b) Precision tracking systems, usable for “missiles” or unmanned aerial vehicles specified in 9A012, as follows: (L.N. 65 of 2004)
+    - (b) Precision tracking systems, usable for ‘missiles’ , as follows: (L.N. 65 of 2004; L.N. 95 of 2006)
 
       - (1) Tracking systems which use a code translator in conjunction with either surface or airborne references or navigation satellite systems to provide real-time measurements of in-flight position and velocity;
 
@@ -7430,49 +7602,49 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (c) Velocity resolution better than 3 m/s;
 
-    - 6A202 Photomultiplier tubes having both of the following characteristics:
+      - Technical Note:
+
+      - In 6A108(b), ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km. (L.N. 95 of 2006) 6A202 Photomultiplier tubes having both of the following characteristics:
 
     - (a) Photocathode area of greater than 20 cm2; and
 
     - (b) Anode pulse rise time of less than 1 ns;
 
-- (L.N. 65 of 2004)
+  - (L.N. 65 of 2004)
 
-  - 6A203 Cameras and components, other than those controlled by 6A003, as follows:
+    - 6A203 Cameras and components, other than those controlled by 6A003, as follows:
 
-    - (a) Mechanical rotating mirror cameras, as follows, and specially designed components therefor:
+      - (a) Mechanical rotating mirror cameras, as follows, and specially designed components therefor:
 
-      - (1) Framing cameras with recording rates greater than 225000 frames per second; or
+        - (1) Framing cameras with recording rates greater than 225000 frames per second; or
 
-      - (2) Streak cameras with writing speeds greater than 0.5 mm per μs;
+        - (2) Streak cameras with writing speeds greater than 0.5 mm per μs;
 
-    - Note:
+      - Note:
 
-    - Components of such cameras include their synchronizing electronic units and rotor assemblies consisting of turbines, mirrors and bearings.
+      - Components of such cameras include their synchronizing electronic units and rotor assemblies consisting of turbines, mirrors and bearings.
 
-    - (b) Electronic streak cameras, electronic framing cameras, tubes and devices, as follows:
+      - (b) Electronic streak cameras, electronic framing cameras, tubes and devices, as follows:
 
-      - (1) Electronic streak cameras capable of 50 ns or less time resolution;
+        - (1) Electronic streak cameras capable of 50 ns or less time resolution;
 
-      - (2) Streak tubes for cameras specified in 6A203(b)(1);
+        - (2) Streak tubes for cameras controlled by 6A203(b)(1); (L.N. 95 of 2006)
 
-      - (3) Electronic (or electronically shuttered) framing cameras capable of 50 ns or less frame exposure time;
+        - (3) Electronic (or electronically shuttered) framing cameras capable of 50 ns or less frame exposure time;
 
-      - (4) Framing tubes and solid-state imaging devices for use with cameras specified in 6A203(b)(3), as follows:
+        - (4) Framing tubes and solid-state imaging devices for use with cameras controlled by 6A203(b)(3), as follows: (L.N. 95 of 2006)
 
-        - (a) Proximity focused image intensifier tubes having the photocathode deposited on a transparent conductive coating to decrease photocathode sheet resistance;
+          - (a) Proximity focused image intensifier tubes having the photocathode deposited on a transparent conductive coating to decrease photocathode sheet resistance;
 
-        - (b) Gate silicon intensifier target (SIT) videcon tubes, where a fast system allows gating the photoelectrons from the photocathode before they impinge on the SIT plate;
+          - (b) Gate silicon intensifier target (SIT) videcon tubes, where a fast system allows gating the photoelectrons from the photocathode before they impinge on the SIT plate;
 
-        - (c) Kerr or Pockels cell electro-optical shuttering;
+          - (c) Kerr or Pockels cell electro-optical shuttering;
 
-        - (d) Other framing tubes and solid-state imaging devices having a fast-image gating time of less than 50 ns specially designed for cameras specified in 6A203(b)(3); (L.N. 132 of 2001)
+          - (d) Other framing tubes and solid-state imaging devices having a fast-image gating time of less than 50 ns specially designed for cameras controlled by 6A203(b)(3); (L.N. 132 of 2001; L.N. 95 of 2006)
 
     - (c) Radiation-hardened TV cameras, or lenses therefor, specially designed or rated as radiation hardened to withstand greater than 50 x 103 grays (Silicon) (5 x 106 rad (Silicon)) without operational degradation; Technical Note:
 
-    - The term grays (Silicon) refers to the energy in Joules per kilogram absorbed by an unshielded silicon sample when exposed to ionizing radiation. (L.N. 132 of 2001)
-
-  - 6A205 “Lasers”, “laser” amplifiers and oscillators, other than those specified in 0B001(g)(5), 0B001(h)(6) and 6A005, as follows: (L.N. 65 of 2004)
+    - The term grays (Silicon) refers to the energy in Joules per kilogram absorbed by an unshielded silicon sample when exposed to ionizing radiation. (L.N. 132 of 2001) 6A205 “Lasers”, “laser” amplifiers and oscillators, other than those controlled by 0B001(g)(5), 0B001(h)(6) and 6A005, as follows: (L.N. 65 of 2004; L.N. 95 of 2006)
 
     - (a) Argon ion “lasers” having both of the following characteristics:
 
@@ -7524,53 +7696,53 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (3) A multiple-transverse mode output having an average power exceeding 50 W;
 
-  - 6A225 Velocity interferometers for measuring velocities exceeding 1 km/s during time intervals of less than 10 microseconds;
-
-  - Note:
-
-  - 6A225 includes velocity interferometers such as VISARs (Velocity interferometer systems for any reflector) and DLIs (Doppler laser interferometers).
-
-- (L.N. 65 of 2004)
-
-  - 6A226 Pressure sensors, as follows:
-
-    - (a) Manganin gauges for pressures greater than 10 GPa; or
-
-    - (b) Quartz pressure transducers for pressures greater than 10 GPa; (L.N. 132 of 2001)
-
-  - 6B TEST, INSPECTION AND PRODUCTION EQUIPMENT 6B004 Optical equipment, as follows:
-
-    - (a) Equipment for measuring absolute reflectance to an accuracy of +0.1% of the reflectance value;
-
-    - (b) Equipment other than optical surface scattering measurement equipment, having an unobscured aperture of more than 10 cm, specially designed for the non-contact optical measurement of a non-planar optical surface figure (profile) to an “accuracy” of 2 nm or less (better) against the required profile;
+    - 6A225 Velocity interferometers for measuring velocities exceeding 1 km/s during time intervals of less than 10 microseconds;
 
     - Note:
 
-    - 6B004 does not control microscopes. 6B007 Equipment to produce, align and calibrate land-based gravity meters with a static accuracy of better than 0.1 μgal; 6B008 Pulse radar cross-section measurement systems having transmit pulse widths of 100 ns or less and specially designed components therefor;
+    - 6A225 includes velocity interferometers such as VISARs (Velocity interferometer systems for any reflector) and DLIs (Doppler laser interferometers).
 
-    - N.B.:
+  - (L.N. 65 of 2004)
 
-    - See also 6B108. 6B108 Systems, other than those controlled by 6B008, specially designed for radar cross- section measurement usable for “missiles” and other subsystems; 6C MATERIALS 6C002 Optical sensor materials, as follows:
+    - 6A226 Pressure sensors, as follows:
 
-    - (a) Elemental tellurium (Te) of purity levels of 99.9995% or more;
+      - (a) Manganin gauges for pressures greater than 10 GPa; or
 
-    - (b) Single crystals (including epitaxial wafers) of any of the following:
+      - (b) Quartz pressure transducers for pressures greater than 10 GPa; (L.N. 132 of 2001)
 
-      - (1) Cadmium zinc telluride (CdZnTe) with zinc content of less than 6% by mole fraction;
+    - 6B TEST, INSPECTION AND PRODUCTION EQUIPMENT 6B004 Optical equipment, as follows:
 
-      - (2) Cadmium telluride (CdTe) of any purity level; or
+      - (a) Equipment for measuring absolute reflectance to an accuracy of +0.1% of the reflectance value;
 
-      - (3) Mercury cadmium telluride (HgCdTe) of any purity level; (L.N. 65 of 2004)
+      - (b) Equipment other than optical surface scattering measurement equipment, having an unobscured aperture of more than 10 cm, specially designed for the non-contact optical measurement of a non-planar optical surface figure (profile) to an “accuracy” of 2 nm or less (better) against the required profile;
 
-    - Technical Note:
+      - Note:
 
-    - Mole fraction is defined as the ratio of moles of ZnTe to the sum of the moles of CdTe and ZnTe present in the crystal. (L.N. 65 of 2004) 6C004 Optical materials, as follows:
+      - 6B004 does not control microscopes. 6B007 Equipment to produce, align and calibrate land-based gravity meters with a static accuracy of better than 0.1 μgal; 6B008 Pulse radar cross-section measurement systems having transmit pulse widths of 100 ns or less and specially designed components therefor;
 
-    - (a) Zinc selenide (ZnSe) and zinc sulphide (ZnS) “substrate blanks” produced by the chemical vapour deposition process, having any of the following:
+      - N.B.:
 
-      - (1) A volume greater than 100 cm3; or
+      - See also 6B108. 6B108 Systems, other than those controlled by 6B008, specially designed for radar cross- section measurement usable for “missiles” and other subsystems; 6C MATERIALS 6C002 Optical sensor materials, as follows:
 
-      - (2) A diameter greater than 80 mm having a thickness of 20 mm or more;
+      - (a) Elemental tellurium (Te) of purity levels of 99.9995% or more;
+
+      - (b) Single crystals (including epitaxial wafers) of any of the following:
+
+        - (1) Cadmium zinc telluride (CdZnTe) with zinc content of less than 6% by mole fraction;
+
+        - (2) Cadmium telluride (CdTe) of any purity level; or
+
+        - (3) Mercury cadmium telluride (HgCdTe) of any purity level; (L.N. 65 of 2004)
+
+      - Technical Note:
+
+      - Mole fraction is defined as the ratio of moles of ZnTe to the sum of the moles of CdTe and ZnTe present in the crystal. (L.N. 65 of 2004) 6C004 Optical materials, as follows:
+
+      - (a) Zinc selenide (ZnSe) and zinc sulphide (ZnS) “substrate blanks” produced by the chemical vapour deposition process, having any of the following:
+
+        - (1) A volume greater than 100 cm3; or
+
+        - (2) A diameter greater than 80 mm having a thickness of 20 mm or more;
 
     - (b) Boules of the following electro-optic materials:
 
@@ -7614,9 +7786,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (b)
 
-      - (1) “Software” specially designed for magnetic compensation systems for magnetic sensors designed to operate on mobile platforms;
+      - (1) “Software” specially designed for magnetic and electric field compensation systems for magnetic sensors designed to operate on mobile platforms; (L.N. 95 of 2006)
 
-      - (2) “Software” specially designed for magnetic anomaly detection on mobile platforms;
+      - (2) “Software” specially designed for magnetic and electric field anomaly detection on mobile platforms; (L.N. 95 of 2006)
 
     - (c) “Software” specially designed to correct motional influences of gravity meters or gravity gradiometers;
 
@@ -7628,75 +7800,85 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (b) Accepting radar target data from more than four primary radars;
 
-  - (2) “Software” for the design or “production” of radomes which:
+      - (2) “Software” for the design or “production” of radomes which:
 
-    - (a) Are specially designed to protect the “electronically steerable phased array antennae” controlled by 6A008(e); and
+        - (a) Are specially designed to protect the “electronically steerable phased array antennae” controlled by 6A008(e); and
 
-    - (b) Result in an antenna pattern having an ‘average side lobe level’ more than 40 dB below the peak of the main beam level; Technical Note:
+        - (b) Result in an antenna pattern having an ‘average side lobe level’ more than 40 dB below the peak of the main beam level; Technical Note:
 
-    - ’Average side lobe level’ in 6D003(d)(2)(b) is measured over the entire array excluding the angular extent of the main beam and the first two side lobes on either side of the main beam.
+        - ’Average side lobe level’ in 6D003(d)(2)(b) is measured over the entire array excluding the angular extent of the main beam and the first two side lobes on either side of the main beam.
 
-  - 6D102 “Software” specially designed for the “use” of goods controlled by 6A108; 6D103 “Software” which processes post-flight, recorded data, enabling determination of vehicle position throughout its flight path, specially designed or modified for “missiles” or unmanned aerial vehicles specified in 9A012; (L.N. 132 of 2001; L.N. 65 of 2004) 6E TECHNOLOGY 6E001 “Technology” according to the General Technology Note for the “development” of equipment, materials or “software” controlled by 6A, 6B, 6C or 6D; 6E002 “Technology” according to the General Technology Note for the “production” of equipment or materials controlled by 6A, 6B or 6C; 6E003 Other “technology”, as follows:
+      - 6D102 “Software” specially designed for the “use” of goods controlled by 6A108; 6D103 “Software” which processes post-flight, recorded data, enabling determination of vehicle position throughout its flight path, specially designed or modified for ‘missiles’; (L.N. 132 of 2001; L.N. 65 of 2004; L.N. 95 of 2006)
 
-    - (a) ACOUSTICS None;
+      - Technical Note:
 
-    - (b) OPTICAL SENSORS None;
+      - In 6D103, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km. (L.N. 95 of 2006) 6E TECHNOLOGY 6E001 “Technology” according to the General Technology Note for the “development” of equipment, materials or “software” controlled by 6A, 6B, 6C or 6D; 6E002 “Technology” according to the General Technology Note for the “production” of equipment or materials controlled by 6A, 6B or 6C; 6E003 Other “technology”, as follows:
 
-    - (c) CAMERAS None;
+    - (a)
 
-    - OPTICS
-
-    - (d) “Technology”, as follows:
-
-      - (1) Optical surface coating and treatment “technology” “required” to achieve uniformity of 99.5% or better for optical coatings 500 mm or more in diameter or major axis length and with a total loss (absorption and scatter) of less than 5 x 10-3; Note:
+      - (1) Optical surface coating and treatment “technology” “required” to achieve uniformity of 99.5% or better for optical coatings 500 mm or more in diameter or major axis length and with a total loss (absorption and scatter) of less than 5 x 10-3; N.B.:
 
       - See also 2E003(f).
 
       - (2) Optical fabrication “technology” using single point diamond turning techniques to produce surface finish accuracies of better than 10 nm rms on non-planar surfaces exceeding 0.5 m2;
 
-    - LASERS
+    - (b)
 
-    - (e)
+      - “Technology” “required” for the “development”, “production” or “use” of specially designed diagnostic instruments or targets in test facilities for “SHPL” testing or testing or evaluation of materials irradiated by “SHPL” beams;
 
-      - “Technology” “required” for the “development”, “production” or “use” of specially designed diagnostic instruments or targets in test facilities for “SHPL” testing or testing or evaluation of materials irradiated by “SHPL” beams; MAGNETOMETERS
+  - (L.N. 95 of 2006)
 
-    - (f) “Technology” “required” for the “development” or “production” of non-triaxial fluxgate “magnetometers” or non-triaxial fluxgate “magnetometer” systems, having any of the following: (L.N. 65 of 2004)
+  - 6E101 “Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 6A002, 6A007(b) and (c), 6A008, 6A102, 6A107, 6A108, 6B108, 6D102 or 6D103;
 
-      - (1) A “noise level” of less than 0.05 nT rms per square root Hz at frequencies of less than 1 Hz; or
+    - Note:
 
-      - (2) A “noise level” of less than 1 x 10-3 nT rms per square root Hz at frequencies of 1 Hz or more;
+    - 6E101 only controls “technology” for equipment controlled by 6A008 when it is designed for airborne applications and is usable in “missiles”.
 
-    - (g) GRAVIMETERS None;
+    - 6E201 “Technology” according to the General Technology Note for the “use” of equipment controlled by 6A003, 6A005(a)(1)(c), 6A005(a)(2)(a), 6A005(c)(1)(b), 6A005(c)(2)(c)(2), 6A005(c)(2)(d)(2)(b), 6A202, 6A203, 6A205, 6A225 or 6A226;
 
-    - (h) RADAR None; (L.N. 132 of 2001) 6E101 “Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 6A002, 6A007(b) and (c), 6A008, 6A102, 6A107, 6A108, 6B108, 6D102 or 6D103; Note:
+    - CATEGORY 7-NAVIGATION AND AVIONICS
 
-    - 6E101 only controls “technology” for equipment controlled by 6A008 when it is designed for airborne applications and is usable in “missiles”. 6E201 “Technology” according to the General Technology Note for the “use” of equipment controlled by 6A003, 6A005(a)(1)(c), 6A005(a)(2)(a), 6A005(c)(1)(b), 6A005(c)(2)(c)(2), 6A005(c)(2)(d)(2)(b), 6A202, 6A203, 6A205, 6A225 or 6A226; CATEGORY 7-NAVIGATION AND AVIONICS 7A SYSTEMS, EQUIPMENT AND COMPONENTS N.B.:
-
-    - For automatic pilots for underwater vehicles, see Category 8.
-
-    - For radar, see Category 6. (L.N. 65 of 2004) 7A001 Linear accelerometers designed for use in inertial navigation or guidance systems and having any of the following characteristics, and specially designed components therefor: (L.N. 132 of 2001) N.B.: See also 7A101.
-
-    - (a) A “bias” “stability” of less (better) than 130 micro g with respect to a fixed calibration value over a period of one year;
-
-    - (b) A “scale factor” “stability” of less (better) than 130 ppm with respect to a fixed calibration value over a period of one year; or
-
-    - (c) Specified to function at linear acceleration levels exceeding 100 g;
+    - 7A SYSTEMS, EQUIPMENT AND COMPONENTS
 
     - N.B.:
 
-    - For angular or rotational accelerometers, see 7A002. (L.N. 132 of 2001) 7A002 Gyros, and angular or rotational accelerometers, having any of the following characteristics, and specially designed components therefor: (L.N. 132 of 2001)
+    - For automatic pilots for underwater vehicles, see Category 8.
+
+    - For radar, see Category 6. (L.N. 65 of 2004)
+
+    - 7A001 Linear accelerometers designed for use in inertial navigation or guidance systems and having any of the following characteristics, and specially designed components therefor: (L.N. 132 of 2001)
+
+    - N.B.:
+
+    - See also 7A101.
+
+      - (a) A “bias” “stability” of less (better) than 130 micro g with respect to a fixed calibration value over a period of one year;
+
+      - (b) A “scale factor” “stability” of less (better) than 130 ppm with respect to a fixed calibration value over a period of one year; or
+
+      - (c) Specified to function at linear acceleration levels exceeding 100 g;
+
+      - N.B.:
+
+      - For angular or rotational accelerometers, see 7A002. (L.N. 132 of 2001)
+
+    - 7A002 Gyros, and angular or rotational accelerometers, having any of the following characteristics, and specially designed components therefor: (L.N. 132 of 2001)
 
     - N.B.:
 
     - See also 7A102.
 
-    - (a) A “drift rate” “stability”, when measured in a 1 g environment over a period of three months and with respect to a fixed calibration value, of:
+      - (a) A “drift rate” “stability”, when measured in a 1 g environment over a period of one month and with respect to a fixed calibration value, of: (L.N. 95 of 2006)
 
-      - (1) Less (better) than 0.10 per hour when specified to function at linear acceleration levels below 10 g; or
+        - (1) Less (better) than 0.10 per hour when specified to function at linear acceleration levels below 12 g; or
 
-      - (2) Less (better) than 0.50 per hour when specified to function at linear acceleration levels from 10 g to 100 g inclusive; or
+        - (2) Less (better) than 0.50 per hour when specified to function at linear acceleration levels from 12 g to 100 g inclusive; (L.N. 95 of 2006)
 
-    - (b) Specified to function at linear acceleration levels exceeding 100 g; 7A003 Inertial Navigation Systems (INS) and specially designed components, as follows: N.B.:
+    - (b) An ‘angle random walk’ of less (better) than or equal to 0.0035 degree per square root hour; Note: 7A002(b) does not control spinning mass gyros (spinning mass gyros are gyros which use a continually rotating mass to sense angular motion). Technical Note: For the purpose of 7A002(b), ‘angle random walk’ is the angular error build-up with time that is due to white noise in angular rate. (IEEE STD 528-2001); (L.N. 95 of 2006)
+
+    - (c) Specified to function at linear acceleration levels exceeding 100 g; (L.N. 95 of 2006) 7A003 Inertial Navigation Systems (INS) and specially designed components, as follows:
+
+    - N.B.:
 
     - See also 7A103.
 
@@ -7724,9 +7906,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (b) The PSD attenuates with frequency from 0.04 g2/Hz to 0.01 g2/Hz over a frequency interval from 1000 to 2000 Hz;
 
-  - (2) A roll and yaw rate of equal to or more than +2.62 rad (radian)/s (150 deg/s); or
+      - (2) A roll and yaw rate of equal to or more than +2.62 rad (radian)/s (150 deg/s); or
 
-  - (3) According to national standards equivalent to Note 1(1) or (2).
+      - (3) According to national standards equivalent to Note 1(1) or (2).
 
     - 2. 7A003 does not control inertial navigation systems which are certified for use on “civil aircraft” by civil authorities of a “participating state”.
 
@@ -7738,189 +7920,205 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 2. ‘Circular Error Probable’ (’CEP’)-In a circular normal distribution, the radius of the circle containing 50 percent of the individual measurements being made, or the radius of the circle within which there is a 50 percent probability of being located.
 
-- (L.N. 65 of 2004)
+  - (L.N. 65 of 2004)
 
-- 7A004 Gyro-astro compasses, and other devices which derive position or orientation by means of automatically tracking celestial bodies or satellites, with an azimuth accuracy of equal to or less (better) than 5 seconds of arc;
+  - 7A004 Gyro-astro compasses, and other devices which derive position or orientation by means of automatically tracking celestial bodies or satellites, with an azimuth accuracy of equal to or less (better) than 5 seconds of arc;
 
-  - N.B.:
+    - N.B.:
 
-  - See also 7A104.
+    - See also 7A104.
 
-  - 7A005 Global navigation satellite systems (i.e. GPS or GLONASS) receiving equipment having any of the following characteristics, and specially designed components therefor:
+    - 7A005 Global navigation satellite systems (i.e. GPS or GLONASS) receiving equipment having any of the following characteristics, and specially designed components therefor:
 
-  - N.B.:
+    - N.B.:
 
-  - See also 7A105.
+    - See also 7A105.
 
-    - (a) Employing decryption; or
+      - (a) Employing decryption; or
 
-    - (b) A null-steerable antenna;
+      - (b) A null-steerable antenna;
 
-  - 7A006 Airborne altimeters operating at frequencies other than 4.2 to 4.4 GHz inclusive, having any of the following characteristics:
+    - 7A006 Airborne altimeters operating at frequencies other than 4.2 to 4.4 GHz inclusive, having any of the following characteristics:
 
-  - N.B.:
+    - N.B.:
 
-  - See also 7A106.
+    - See also 7A106.
 
-    - (a) “Power management”; or
+      - (a) “Power management”; or
 
-    - (b) Using phase shift key modulation;
+      - (b) Using phase shift key modulation;
 
-  - 7A007 Direction finding equipment operating at frequencies above 30 MHz and having all of the following characteristics, and specially designed components therefor:
+    - 7A007 (Repealed L.N. 95 of 2006) 7A101 Accelerometers, other than those controlled by 7A001, as follows, and specially designed components therefor:
 
-    - (a) “Instantaneous bandwidth” of 1 MHz or more;
+      - (a) Linear accelerometers, designed for use in inertial navigation systems or in guidance systems of all types, usable in ‘missiles’, and having all of the following characteristics, and specially designed components therefor:
 
-    - (b) Parallel processing of more than 100 frequency channels; and
+        - (1) ‘Scale factor’ ‘repeatability’ less (better) than 1250 ppm; and
 
-    - (c) Processing rate of more than 1000 direction finding results per second and per frequency channel;
+        - (2) ‘Bias’ ‘repeatability’ less (better) than 1250 micro g;
 
-  - 7A101 Accelerometers, other than those specified in 7A001, as follows, and specially designed components therefor:
+      - Technical Notes:
 
-    - (a) Accelerometers with a threshold of 0.05 g or less, or a linearity error within 0.25% of full scale output, or both, which are designed for use in inertial navigation systems or in guidance systems; Note:
+        - (1) In 7A101(a), ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km.
 
-    - 7A101(a) does not specify accelerometers which are specially designed and developed as MWD (Measurement While Drilling) Sensors for use in downhole well service operations.
+        - (2) ‘Scale factor’ is defined as the ratio of change in output to a change in the input.
 
-    - (b) Continuous output accelerometers specified to function at acceleration levels exceeding 100 g;
+        - (3) The measurement of ‘bias’ and ‘scale factor’ refers to one sigma standard deviation with respect to a fixed calibration over a period of one year.
 
-- (L.N. 65 of 2004)
+        - (4) ‘Repeatability’ is defined according to IEEE Standard 528-2001 as follows: The closeness of agreement among repeated measurements of the same variable under the same operating conditions when changes in conditions or non-operating periods occur between measurements.
 
-- 7A102 All types of gyros, other than those controlled by 7A002, usable in “missiles”, with a rated “drift rate” “stability” of less than 0.50 (1 sigma or rms) per hour in a 1 g environment and specially designed components therefor;
+      - Note:
 
-  - 7A103 Instrumentation, navigation equipment and systems, other than those controlled by 7A003, as follows; and specially designed components therefor:
+      - 7A101(a) does not control accelerometers specially designed and developed as Measurement While Drilling (MWD) sensors for use in downhole well service operations.
 
-    - (a) Inertial or other equipment using accelerometers or gyros controlled by 7A001, 7A002, 7A101 or 7A102 and systems incorporating such equipment; Note:
+      - (b) Continuous output accelerometers specified to function at acceleration levels exceeding 100 g;
 
-    - 7A103(a) does not control equipment containing accelerometers controlled by 7A001 where such accelerometers are specially designed and developed as MWD (Measurement While Drilling) sensors for use in down-hole well services operations.
+  - (L.N. 95 of 2006)
 
-    - (b) Integrated flight instrument systems, which include gyrostabilisers or automatic pilots, designed or modified for use in space launch vehicles controlled by 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 65 of 2004)
-
-    - (c)
-
-    - ‘Integrated navigation systems’, designed or modified for space launch vehicles specified in 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets specified in 9A104 and capable of providing a navigational accuracy of 200 m Circle of Equal Probability (CEP) or less;
+  - 7A102 All types of gyros, other than those controlled by 7A002, usable in ‘missiles’, with a rated “drift rate” “stability” of less than 0.50 (1 sigma or rms) per hour in a 1 g environment and specially designed components therefor; (L.N. 95 of 2006)
 
     - Technical Note:
 
-    - An ‘integrated navigation system’ typically incorporates the following components:
+    - In 7A102, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km. (L.N. 95 of 2006)
 
-      - 1. An inertial measurement device (e.g. an attitude and heading reference system, inertial reference unit, or inertial navigation system);
+    - 7A103 Instrumentation, navigation equipment and systems, other than those controlled by 7A003, as follows; and specially designed components therefor:
 
-      - 2. One or more external sensors used to update the position and/or velocity, either periodically or continuously throughout the flight (e.g. satellite navigation receiver, radar altimeter, and/or Doppler radar); and
+      - (a) Inertial or other equipment using accelerometers or gyros controlled by 7A001, 7A002, 7A101 or 7A102 and systems incorporating such equipment; Note:
 
-      - 3. Integration hardware and software. (L.N. 65 of 2004)
+      - 7A103(a) does not control equipment containing accelerometers controlled by 7A001 where such accelerometers are specially designed and developed as MWD (Measurement While Drilling) sensors for use in down-hole well services operations.
 
-  - 7A104 Gyro-astro compasses and other devices, other than those controlled by 7A004, which derive position or orientation by means of automatically tracking celestial bodies or satellites and specially designed components therefor; 7A105 Receiving equipment for Global Navigation Satellite Systems (GNSS; e.g. GPS, GLONASS or Galileo), having any of the following characteristics, and specially designed components therefor:
+      - (b) Integrated flight instrument systems, which include gyrostabilisers or automatic pilots, designed or modified for use in space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 65 of 2004; L.N. 95 of 2006)
 
-    - (a) Designed or modified for use in space launch vehicles specified in 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets specified in 9A104; or
+      - (c)
 
-    - (b) Designed or modified for airborne applications and having any of the following characteristics:
+      - ‘Integrated navigation systems’, designed or modified for ‘missiles’ and capable of providing a navigational accuracy of 200 m “Circle of Equal Probability” (CEP) or less;
 
-      - (1) Capable of providing navigation information at speeds in excess of 600 m/s (1165 nautical miles/hour);
+      - Technical Note:
 
-      - (2) Employing decryption, designed or modified for military or governmental services, to gain access to GNSS secured signal/data; or
+        - (1) An ‘integrated navigation system’ typically incorporates the following components:
 
-      - (3) Being specially designed to employ anti-jam features (e.g. null steering antenna or electronically steerable antenna) to function in an environment of active or passive countermeasures; Note:
+          - (a) An inertial measurement device (e.g. an attitude and heading reference system, inertial reference unit, or inertial navigation system);
 
-      - 7A105(b)(2) and 7A105(b)(3) do not control equipment designed for commercial, civil or ‘Safety of Life’ (e.g. data integrity, flight safety) GNSS services.
+          - (b) One or more external sensors used to update the position or velocity or both, either periodically or continuously throughout the flight (e.g. satellite navigation receiver, radar altimeter, or Doppler radar); and
 
-- (L.N. 65 of 2004)
+          - (c) Integration hardware and software.
 
-- 7A106 Altimeters, other than those controlled by 7A006, of radar or laser radar type, designed or modified for use in space launch vehicles controlled by 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 65 of 2004) 7A115 Passive sensors for determining bearing to specific electromagnetic source (direction finding equipment) or terrain characteristics, designed or modified for use in space launch vehicles controlled by 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 65 of 2004)
+        - (2) In 7A103(c), ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km. (L.N. 95 of 2006)
 
-  - Note:
+    - 7A104 Gyro-astro compasses and other devices, other than those controlled by 7A004, which derive position or orientation by means of automatically tracking celestial bodies or satellites and specially designed components therefor; 7A105 Receiving equipment for Global Navigation Satellite Systems (GNSS; e.g. GPS, GLONASS or Galileo), having any of the following characteristics, and specially designed components therefor:
 
-  - 7A115 includes sensors for the following equipment:
+      - (a) Designed or modified for use in space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104; or (L.N. 95 of 2006)
 
-    - (a) Terrain contour mapping equipment;
+      - (b) Designed or modified for airborne applications and having any of the following characteristics:
 
-    - (b) Imaging sensor equipment (both active and passive); (L.N. 65 of 2004)
+        - (1) Capable of providing navigation information at speeds in excess of 600 m/s; (L.N. 95 of 2006)
 
-    - (c) Passive interferometer equipment. (L.N. 65 of 2004)
+        - (2) Employing decryption, designed or modified for military or governmental services, to gain access to GNSS secured signal/data; or
 
-  - 7A116 Flight control systems and servo valves, as follows; designed or modified for use in space launch vehicles controlled by 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets controlled by 9A104: (L.N. 183 of 1999; L.N. 65 of 2004)
+        - (3) Being specially designed to employ anti-jam features (e.g. null steering antenna or electronically steerable antenna) to function in an environment of active or passive countermeasures; Note:
 
-    - (a) Hydraulic, mechanical, electro-optical, or electro-mechanical flight control systems (including fly-by-wire types);
+        - 7A105(b)(2) and 7A105(b)(3) do not control equipment designed for commercial, civil or ‘Safety of Life’ (e.g. data integrity, flight safety) GNSS services.
 
-    - (b) Attitude control equipment;
+  - (L.N. 65 of 2004)
 
-    - (c) Flight control servo valves designed or modified for the systems specified in 7A116(a) or 7A116(b) and designed or modified to operate in a vibration environment of more than 10 g rms over the entire range between 20 Hz and 2 kHz; (L.N. 65 of 2004)
+  - 7A106 Altimeters, other than those controlled by 7A006, of radar or laser radar type, designed or modified for use in space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 65 of 2004; L.N. 95 of 2006) 7A115 Passive sensors for determining bearing to specific electromagnetic source (direction finding equipment) or terrain characteristics, designed or modified for use in space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 65 of 2004; L.N. 95 of 2006)
 
-  - 7A117 “Guidance sets”, usable in “missiles”, capable of achieving system accuracy of 3.33% or less of the range (e.g., a “CEP” of 10 km or less at a range of 300 km); 7B TEST, INSPECTION AND PRODUCTION EQUIPMENT 7B001 Test, calibration or alignment equipment specially designed for equipment controlled by 7A;
+    - Note:
 
-  - Note:
+    - 7A115 includes sensors for the following equipment:
 
-  - 7B001 does not control test, calibration or alignment equipment for Maintenance Level I or Maintenance Level II.
+      - (a) Terrain contour mapping equipment;
 
-  - Technical Notes:
+      - (b) Imaging sensor equipment (both active and passive); (L.N. 65 of 2004)
 
-    - 1. Maintenance Level I The failure of an inertial navigation unit is detected on the aircraft by indications from the control and display unit (CDU) or by the status message from the corresponding sub-system. By following the manufacturer’s manual, the cause of the failure may be localised at the level of the malfunctioning line replaceable unit (LRU). The operator then removes the LRU and replaces it with a spare.
+      - (c) Passive interferometer equipment. (L.N. 65 of 2004)
 
-    - 2. Maintenance Level II The defective LRU is sent to the maintenance workshop (the manufacturer’s or that of the operator responsible for level II maintenance). At the maintenance workshop, the malfunctioning LRU is tested by various appropriate means to verify and localise the defective shop replaceable assembly (SRA) module responsible for the failure. This SRA is removed and replaced by an operative spare. The defective SRA (or possibly the complete LRU) is then shipped to the manufacturer.
+    - 7A116 Flight control systems and servo valves, as follows; designed or modified for use in space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104: (L.N. 183 of 1999; L.N. 65 of 2004; L.N. 95 of 2006)
 
-    - N.B.:
+      - (a) Hydraulic, mechanical, electro-optical, or electro-mechanical flight control systems (including fly-by-wire types);
 
-    - Maintenance Level II does not include the removal of controlled accelerometers or gyro sensors from the SRA. 7B002 Equipment, as follows, specially designed to characterize mirrors for ring “laser” gyros:
+      - (b) Attitude control equipment;
 
-    - N.B.:
+      - (c) Flight control servo valves designed or modified for the systems controlled by 7A116(a) or 7A116(b) and designed or modified to operate in a vibration environment greater than 10 g rms over the entire range between 20 Hz and 2 kHz; (L.N. 65 of 2004; L.N. 95 of 2006)
 
-    - See also 7B102.
+    - 7A117 “Guidance sets”, usable in “missiles”, capable of achieving system accuracy of 3.33% or less of the range (e.g., a “CEP” of 10 km or less at a range of 300 km); 7B TEST, INSPECTION AND PRODUCTION EQUIPMENT 7B001 Test, calibration or alignment equipment specially designed for equipment controlled by 7A;
 
-    - (a) Scatterometers having a measurement accuracy of 10 ppm or less (better);
+    - Note:
 
-    - (b) Profilometers having a measurement accuracy of 0.5 nm (5 angstrom) or less (better); 7B003 Equipment specially designed for the “production” of equipment controlled by 7A; Note:
+    - 7B001 does not control test, calibration or alignment equipment for Maintenance Level I or Maintenance Level II.
 
-    - 7B003 includes:
+    - Technical Notes:
 
-    - (a) Gyro tuning test stations;
+      - 1. Maintenance Level I The failure of an inertial navigation unit is detected on the aircraft by indications from the control and display unit (CDU) or by the status message from the corresponding sub-system. By following the manufacturer’s manual, the cause of the failure may be localised at the level of the malfunctioning line replaceable unit (LRU). The operator then removes the LRU and replaces it with a spare.
 
-    - (b) Gyro dynamic balance stations;
+      - 2. Maintenance Level II The defective LRU is sent to the maintenance workshop (the manufacturer’s or that of the operator responsible for level II maintenance). At the maintenance workshop, the malfunctioning LRU is tested by various appropriate means to verify and localise the defective shop replaceable assembly (SRA) module responsible for the failure. This SRA is removed and replaced by an operative spare. The defective SRA (or possibly the complete LRU) is then shipped to the manufacturer.
 
-    - (c) Gyro run-in/motor test stations;
+      - N.B.:
 
-    - (d) Gyro evacuation and fill stations;
+      - Maintenance Level II does not include the removal of controlled accelerometers or gyro sensors from the SRA. 7B002 Equipment, as follows, specially designed to characterize mirrors for ring “laser” gyros:
 
-    - (e) Centrifuge fixtures for gyro bearings;
+      - N.B.:
 
-    - (f) Accelerometer axis align stations.
+      - See also 7B102.
 
-- (L.N. 65 of 2004)
+      - (a) Scatterometers having a measurement accuracy of 10 ppm or less (better);
 
-- 7B101 (Repealed L.N. 65 of 2004) 7B102 Reflectometers specially designed to characterize mirrors, for “laser” gyros, having a measurement accuracy of 50 ppm or less (better);
+      - (b) Profilometers having a measurement accuracy of 0.5 nm (5 angstrom) or less (better); 7B003 Equipment specially designed for the “production” of equipment controlled by 7A;
 
-- (L.N. 65 of 2004)
+      - Note:
 
-  - 7B103 “Production facilities” and “production equipment” as follows:
+      - 7B003 includes:
 
-    - (a) “Production facilities” specially designed for equipment specified in 7A117;
+      - (a) Gyro tuning test stations;
 
-    - (b) “Production equipment”, and other test, calibration and alignment equipment, other than that specified in 7B001 to 7B003, designed or modified to be used with equipment specified in 7A;
+      - (b) Gyro dynamic balance stations;
 
-- (L.N. 65 of 2004)
+      - (c) Gyro run-in/motor test stations;
 
-- 7B104 (Repealed L.N. 65 of 2004)
+      - (d) Gyro evacuation and fill stations;
 
-- 7C MATERIALS None 7D SOFTWARE
+      - (e) Centrifuge fixtures for gyro bearings;
 
-- 7D001 “Software” specially designed or modified for the “development” or “production” of equipment controlled by 7A or 7B; 7D002 “Source code” for the “use” of any inertial navigation equipment, including inertial equipment not controlled by 7A003 or 7A004, or Attitude and Heading Reference Systems (AHRS); (L.N. 183 of 1999)
+      - (f) Accelerometer axis align stations.
 
-  - Note:
+  - (L.N. 65 of 2004)
 
-  - 7D002 does not control “source code” for the “use” of gimballed AHRS.
+  - 7B101 (Repealed L.N. 65 of 2004) 7B102 Reflectometers specially designed to characterize mirrors, for “laser” gyros, having a measurement accuracy of 50 ppm or less (better);
 
-  - Technical Note:
+  - (L.N. 65 of 2004)
 
-  - AHRS generally differ from inertial navigation systems (INS) in that an AHRS provides attitude and heading information and normally does not provide the acceleration, velocity and position information associated with an INS.
+    - 7B103 “Production facilities” and “production equipment” as follows:
 
-  - 7D003 Other “software”, as follows:
+      - (a) “Production facilities” specially designed for equipment controlled by 7A117;
 
-    - (a) “Software” specially designed or modified to improve the operational performance or reduce the navigational error of systems to the levels specified in 7A003 or 7A004;
+      - (b) “Production equipment”, and other test, calibration and alignment equipment, other than that controlled by 7B001 to 7B003, designed or modified to be used with equipment controlled by 7A;
 
-    - (b) “Source code” for hybrid integrated systems which improves the operational performance or reduces the navigational error of systems to the level specified in 7A003 by continuously combining inertial data with any of the following: (L.N. 65 of 2004)
+  - (L.N. 65 of 2004; L.N. 95 of 2006)
 
-      - (1) Doppler radar velocity data; (L.N. 65 of 2004)
+  - 7B104 (Repealed L.N. 65 of 2004)
 
-      - (2) Global navigation satellite systems (i.e. GPS or GLONASS) references data; or
+  - 7C MATERIALS None 7D SOFTWARE
 
-      - (3) Data from “Data-Based Referenced Navigation” (“DBRN”) Systems; (L.N. 65 of 2004)
+  - 7D001 “Software” specially designed or modified for the “development” or “production” of equipment controlled by 7A or 7B; 7D002 “Source code” for the “use” of any inertial navigation equipment, including inertial equipment not controlled by 7A003 or 7A004, or Attitude and Heading Reference Systems (AHRS); (L.N. 183 of 1999)
+
+    - Note:
+
+    - 7D002 does not control “source code” for the “use” of gimballed AHRS.
+
+    - Technical Note:
+
+    - AHRS generally differ from inertial navigation systems (INS) in that an AHRS provides attitude and heading information and normally does not provide the acceleration, velocity and position information associated with an INS.
+
+    - 7D003 Other “software”, as follows:
+
+      - (a) “Software” specially designed or modified to improve the operational performance or reduce the navigational error of systems to the levels specified in 7A003 or 7A004;
+
+      - (b) “Source code” for hybrid integrated systems which improves the operational performance or reduces the navigational error of systems to the level specified in 7A003 by continuously combining inertial data with any of the following: (L.N. 65 of 2004)
+
+        - (1) Doppler radar velocity data; (L.N. 65 of 2004)
+
+        - (2) Global navigation satellite systems (i.e. GPS or GLONASS) references data; or
+
+        - (3) Data from “Data-Based Referenced Navigation” (“DBRN”) Systems; (L.N. 65 of 2004)
 
     - (c) “Source code” for integrated avionics or mission systems which combine sensor data and employ “expert systems”;
 
@@ -7940,49 +8138,47 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (7) Raster-type head-up displays or three dimensional displays;
 
-    - (e) Computer-aided-design (CAD) “software” specially designed for the “development” of “active flight control systems”, helicopter multi-axis fly-by-wire or fly-by-light controllers or helicopter “circulation-controlled anti-torque or circulation-controlled direction control systems” whose “technology” is controlled by 7E004(b), 7E004(c)(1) or 7E004(c)(2);
+    - (e) Computer-aided-design (CAD) “software” specially designed for the “development” of “active flight control systems”, helicopter multi-axis fly-by-wire or fly-by-light controllers or helicopter “circulation-controlled anti-torque or circulation-controlled direction control systems” whose “technology” is controlled by 7E004(b), 7E004(c)(1) or 7E004(c)(2); 7D101 “Software” specially designed or modified for the “use” of equipment controlled by 7A001 to 7A006, 7A101 to 7A106, 7A115, 7A116(a), 7A116(b), 7B001, 7B002, 7B003, 7B102 or 7B103;
 
-  - 7D101 “Software” specially designed or modified for the “use” of equipment specified in 7A001 to 7A006, 7A101 to 7A106, 7A115, 7A116(a), 7A116(b), 7B001, 7B002, 7B003, 7B102 or 7B103;
+  - (L.N. 65 of 2004; L.N. 95 of 2006)
 
-- (L.N. 65 of 2004)
+    - 7D102 Integration “software” as follows:
 
-  - 7D102 Integration “software” as follows:
+      - (a) Integration “software” for the equipment controlled by 7A103(b);
 
-    - (a) Integration “software” for the equipment specified in 7A103(b);
+      - (b) Integration “software” specially designed for the equipment controlled by 7A003 or 7A103(a); (L.N. 132 of 2001)
 
-    - (b) Integration “software” specially designed for the equipment specified in 7A003 or 7A103(a); (L.N. 132 of 2001)
+      - (c) Integration “software” designed or modified for the equipment controlled by 7A103(c); (L.N. 95 of 2006) Note:
 
-    - (c) Integration “software” designed or modified for the equipment specified in 7A103(c); Note:
+      - A common form of integration “software” employs Kalman filtering. (L.N. 65 of 2004)
 
-    - A common form of integration “software” employs Kalman filtering. (L.N. 65 of 2004)
+    - 7D103 “Software” specially designed for modelling or simulation of the “guidance sets” controlled by 7A117 or for their design integration with the space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 65 of 2004; L.N. 95 of 2006)
 
-  - 7D103 “Software” specially designed for modelling or simulation of the “guidance sets” controlled by 7A117 or for their design integration with the space launch vehicles controlled by 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets controlled by 9A104; (L.N. 183 of 1999; L.N. 65 of 2004)
+    - Note:
 
-  - Note:
+    - “software” controlled by 7D103 remains controlled when combined with specially designed hardware controlled by 4A102. 7E TECHNOLOGY 7E001 “Technology” according to the General Technology Note for the “development” of equipment or “software” controlled by 7A, 7B or 7D; 7E002 “Technology” according to the General Technology Note for the “production” of equipment controlled by 7A or 7B; 7E003 “Technology” according to the General Technology Note for the repair, refurbishing or overhaul of equipment controlled by 7A001 to 7A004;
 
-  - “software” controlled by 7D103 remains controlled when combined with specially designed hardware controlled by 4A102. 7E TECHNOLOGY 7E001 “Technology” according to the General Technology Note for the “development” of equipment or “software” controlled by 7A, 7B or 7D; 7E002 “Technology” according to the General Technology Note for the “production” of equipment controlled by 7A or 7B; 7E003 “Technology” according to the General Technology Note for the repair, refurbishing or overhaul of equipment controlled by 7A001 to 7A004;
+    - Note:
 
-  - Note:
+    - 7E003 does not control maintenance “technology” directly associated with calibration, removal or replacement of damaged or unserviceable LRUs and SRAs of a “civil aircraft” as described in Maintenance Level I or Maintenance Level II.
 
-  - 7E003 does not control maintenance “technology” directly associated with calibration, removal or replacement of damaged or unserviceable LRUs and SRAs of a “civil aircraft” as described in Maintenance Level I or Maintenance Level II.
+    - N.B.:
 
-  - N.B.:
+    - See Technical Notes to 7B001. 7E004 Other “technology”, as follows:
 
-  - See Technical Notes to 7B001. 7E004 Other “technology”, as follows:
+      - (a) “Technology” for the “development” or “production” of:
 
-    - (a) “Technology” for the “development” or “production” of:
+        - (1) Airborne automatic direction finding equipment operating at frequencies exceeding 5 MHz;
 
-      - (1) Airborne automatic direction finding equipment operating at frequencies exceeding 5 MHz;
+        - (2) Air data systems based on surface static data only, i.e., which dispense with conventional air data probes;
 
-      - (2) Air data systems based on surface static data only, i.e., which dispense with conventional air data probes;
+        - (3) Raster-type head-up displays or three dimensional displays for “aircraft”;
 
-      - (3) Raster-type head-up displays or three dimensional displays for “aircraft”;
+        - (4) Inertial navigation systems or gyro-astro compasses containing accelerometers or gyros controlled by 7A001 or 7A002;
 
-      - (4) Inertial navigation systems or gyro-astro compasses containing accelerometers or gyros controlled by 7A001 or 7A002;
+        - (5) Electric actuators (i.e. electromechanical, electrohydrostatic and integrated actuator package) specially designed for “primary flight control”;
 
-      - (5) Electric actuators (i.e. electromechanical, electrohydrostatic and integrated actuator package) specially designed for “primary flight control”;
-
-      - (6) “Flight control optical sensor array” specially designed for implementing “active flight control systems”;
+        - (6) “Flight control optical sensor array” specially designed for implementing “active flight control systems”;
 
     - (b) “Development” “technology”, as follows, for “active flight control systems” (including fly-by-wire or fly-by-light):
 
@@ -8008,13 +8204,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - 2. “Development” “technology” for “aircraft” flight instrument systems integrated solely for VOR, DME, ILS or MLS navigation or approaches.
 
-  - (6)
+      - (6) Full authority digital flight control or multisensor mission management systems employing “expert systems”; N.B.:
 
-  - Full authority digital flight control or multisensor mission management systems employing “expert systems”;
-
-  - N.B.:
-
-    - For “technology” for Full Authority Digital Engine Control (“FADEC”), see 9E003(a)(9).
+        - For “technology” for Full Authority Digital Engine Control (“FADEC”), see 9E003(a)(9).
 
     - (c) “Technology” for the “development” of helicopter systems, as follows:
 
@@ -8026,67 +8218,69 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (c) Yaw controls;
 
-  - (2) “Circulation-controlled anti-torque or circulation-controlled directional control systems”;
+      - (2) “Circulation-controlled anti-torque or circulation-controlled directional control systems”;
 
-  - (3) Rotor blades incorporating “variable geometry airfoils” for use in systems using individual blade control; 7E101 “Technology” according to the General Technology Note for the “use” of equipment specified in 7A001 to 7A006, 7A101 to 7A106, 7A115 to 7A117, 7B001, 7B002, 7B003, 7B102, 7B103, 7D101 to 7D103;
+      - (3) Rotor blades incorporating “variable geometry airfoils” for use in systems using individual blade control;
 
-- (L.N. 65 of 2004)
+    - 7E101 “Technology” according to the General Technology Note for the “use” of equipment controlled by 7A001 to 7A006, 7A101 to 7A106, 7A115 to 7A117, 7B001, 7B002, 7B003, 7B102, 7B103, 7D101 to 7D103;
 
-  - 7E102 “Technology” for protection of avionics and electrical sub-systems against electromagnetic pulse (EMP) and electromagnetic interference (EMI) hazards, from external sources, as follows:
+  - (L.N. 65 of 2004; L.N. 95 of 2006)
 
-    - (a) Design “technology” for shielding systems;
+    - 7E102 “Technology” for protection of avionics and electrical sub-systems against electromagnetic pulse (EMP) and electromagnetic interference (EMI) hazards, from external sources, as follows:
 
-    - (b) Design “technology” for the configuration of hardened electrical circuits and sub-systems;
+      - (a) Design “technology” for shielding systems;
 
-    - (c) Design “technology” for the determination of hardening criteria of 7E102(a) and (b);
+      - (b) Design “technology” for the configuration of hardened electrical circuits and sub-systems;
 
-  - 7E104 “Technology” for the integration of the flight control, guidance, and propulsion data into a flight management system for optimization of rocket system trajectory;
+      - (c) Design “technology” for the determination of hardening criteria of 7E102(a) and (b);
 
-  - CATEGORY 8-MARINE
+    - 7E104 “Technology” for the integration of the flight control, guidance, and propulsion data into a flight management system for optimization of rocket system trajectory;
 
-  - 8A SYSTEMS, EQUIPMENT AND COMPONENTS
+    - CATEGORY 8-MARINE
 
-    - 8A001 Submersible vehicles and surface vessels, as follows:
+    - 8A SYSTEMS, EQUIPMENT AND COMPONENTS
 
-    - Note:
+      - 8A001 Submersible vehicles and surface vessels, as follows:
 
-    - For the control status of equipment for submersible vehicles, see:
+      - Note:
 
-    - Category 5, Part 2 “Information Security” for encrypted communication equipment;
+      - For the control status of equipment for submersible vehicles, see:
 
-    - Category 6 for sensors;
+      - Category 5, Part 2 “Information Security” for encrypted communication equipment;
 
-    - Categories 7 and 8 for navigation equipment;
+      - Category 6 for sensors;
 
-    - Category 8A for underwater equipment.
+      - Categories 7 and 8 for navigation equipment;
 
-      - (a) Manned, tethered submersible vehicles designed to operate at depths exceeding 1000 m;
+      - Category 8A for underwater equipment.
 
-      - (b) Manned, untethered submersible vehicles, having any of the following:
+        - (a) Manned, tethered submersible vehicles designed to operate at depths exceeding 1000 m;
 
-        - (1) Designed to ‘perate autonomously’ and having a lifting capacity of all the following:
+        - (b) Manned, untethered submersible vehicles, having any of the following:
 
-          - (a) 10% or more of their weight in air; and
+          - (1) Designed to ‘perate autonomously’ and having a lifting capacity of all the following:
 
-          - (b) 15 kN or more;
+            - (a) 10% or more of their weight in air; and
 
-  - (2) Designed to operate at depths exceeding 1000 m; or
+            - (b) 15 kN or more;
 
-  - (3) Having all of the following:
+          - (2) Designed to operate at depths exceeding 1000 m; or
 
-    - (a) Designed to carry a crew of 4 or more;
+          - (3) Having all of the following:
 
-    - (b) Designed to ‘operate autonomously’ for 10 hours or more;
+            - (a) Designed to carry a crew of 4 or more;
 
-    - (c) Having a ‘range’ of 25 nautical miles or more; and
+            - (b) Designed to ‘operate autonomously’ for 10 hours or more;
 
-    - (d) Having a length of 21 m or less;
+            - (c) Having a ‘range’ of 25 nautical miles or more; and
 
-  - Technical Notes:
+            - (d) Having a length of 21 m or less;
 
-  - 1. For the purpose of 8A001(b), ‘operate autonomously’ means fully submerged, without snorkel, all systems working and cruising at minimum speed at which the submersible vehicle can safely control its depth dynamically by using its depth planes only, with no need for a support vessel or support base on the surface, sea-bed or shore, and containing a propulsion system for submerged or surface use.
+        - Technical Notes:
 
-  - 2. For the purposes of 8A001(b), ‘range’ means half the maximum distance a submersible vehicle can cover.
+          - 1. For the purpose of 8A001(b), ‘operate autonomously’ means fully submerged, without snorkel, all systems working and cruising at minimum speed at which the submersible vehicle can safely control its depth dynamically by using its depth planes only, with no need for a support vessel or support base on the surface, sea-bed or shore, and containing a propulsion system for submerged or surface use.
+
+          - 2. For the purposes of 8A001(b), ‘range’ means half the maximum distance a submersible vehicle can cover.
 
     - (c) Unmanned, tethered submersible vehicles designed to operate at depths exceeding 1000 m, having any of the following:
 
@@ -8180,7 +8374,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (3) Automatic compensation control specially designed to permit an underwater camera housing to be usable at depths exceeding 1000 m;
 
-    - (f) Electronic imaging systems, specially designed or modified for underwater use, capable of storing digitally more than 50 exposed images;
+    - (f) Electronic imaging systems, specially designed or modified for underwater use, capable of storing digitally more than 50 exposed images; Note: 8A002(f) does not control digital cameras specially designed for consumer purposes, other than those employing electronic image multiplication techniques. (L.N. 95 of 2006)
 
     - (g) Light systems, as follows, specially designed or modified for underwater use:
 
@@ -8188,7 +8382,7 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (2) Argon arc light systems specially designed for use below 1000 m;
 
-    - (h) “Robots” specially designed for underwater use, controlled by using a dedicated “stored programme controlled” computer, having any of the following:
+    - (h) “Robots” specially designed for underwater use, controlled by using a dedicated computer, having any of the following: (L.N. 95 of 2006)
 
       - (1) Systems that control the “robot” using information from sensors which measure force or torque applied to an external object, distance to an external object, or tactile sense between the “robot” and an external object; or
 
@@ -8198,9 +8392,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (1) Systems which control the manipulator using the information from sensors which measure the torque or force applied to an external object, or tactile sense between the manipulator and an external object; or
 
-      - (2) Controlled by proportional master-slave techniques or by using a dedicated “stored programme controlled” computer, and having 5 degrees of freedom of movement or more; Note:
+      - (2) Controlled by proportional master-slave techniques or by using a dedicated computer, and having 5 degrees of freedom of movement or more; (L.N. 95 of 2006) Note:
 
-      - Only functions having proportional control using positional feedback or by using a dedicated “stored programme controlled” computer are counted when determining the number of degrees of freedom of movement.
+      - Only functions having proportional control using positional feedback or by using a dedicated computer are counted when determining the number of degrees of freedom of movement. (L.N. 95 of 2006)
 
     - (j) Air independent power systems, specially designed for underwater use, as follows:
 
@@ -8220,117 +8414,131 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
           - (3) To discharge the products of the reaction against a pressure of 100 kPa or more;
 
-  - (2) Diesel cycle engine air independent systems, having all of the following:
+      - (2) Diesel cycle engine air independent systems, having all of the following:
 
-    - (a) Chemical scrubber or absorber systems specially designed to remove carbon dioxide, carbon monoxide and particulates from recirculated engine exhaust;
+        - (a) Chemical scrubber or absorber systems specially designed to remove carbon dioxide, carbon monoxide and particulates from recirculated engine exhaust;
 
-    - (b) Systems specially designed to use a monoatomic gas;
+        - (b) Systems specially designed to use a monoatomic gas;
 
-    - (c) Devices or enclosures specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; and
+        - (c) Devices or enclosures specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; and
 
-    - (d) Specially designed exhaust systems that do not exhaust continuously the products of combustion;
+        - (d) Specially designed exhaust systems that do not exhaust continuously the products of combustion;
 
-  - (3) Fuel cell air independent power systems with an output exceeding 2 kW having any of the following:
+      - (3) Fuel cell air independent power systems with an output exceeding 2 kW having any of the following:
 
-    - (a) Devices or enclosures specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; or
+        - (a) Devices or enclosures specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; or
 
-    - (b) Systems specially designed:
+        - (b) Systems specially designed:
 
-      - (1) To pressurise the products of reaction or for fuel reformation;
+          - (1) To pressurise the products of reaction or for fuel reformation;
 
-      - (2) To store the products of the reaction; and
+          - (2) To store the products of the reaction; and
 
-      - (3) To discharge the products of the reaction against a pressure of 100 kPa or more;
+          - (3) To discharge the products of the reaction against a pressure of 100 kPa or more;
 
-  - (4) Stirling cycle engine air independent power systems, having all of the following:
+      - (4) Stirling cycle engine air independent power systems, having all of the following:
 
-    - (a) Devices or enclosures specially designed for underwater noise reduction in frequencies below 10 kHz or special mounting devices for shock mitigation; and
+        - (a) Devices or enclosures specially designed for underwater noise reduction in frequencies below 10 kHz or special mounting devices for shock mitigation; and
 
-    - (b) Specially designed exhaust systems which discharge the products of combustion against a pressure of 100 kPa or more;
+        - (b) Specially designed exhaust systems which discharge the products of combustion against a pressure of 100 kPa or more;
 
-      - (k) Skirts, seals and fingers, having any of the following:
+    - (k) Skirts, seals and fingers, having any of the following:
 
-        - (1) Designed for cushion pressures of 3830 Pa or more, operating in a significant wave height of 1.25 m (Sea State 3) or more and specially designed for surface effect vehicles (fully skirted variety) controlled by 8A001(f); or
+      - (1) Designed for cushion pressures of 3830 Pa or more, operating in a significant wave height of 1.25 m (Sea State 3) or more and specially designed for surface effect vehicles (fully skirted variety) controlled by 8A001(f); or
 
-        - (2) Designed for cushion pressures of 6224 Pa or more, operating in a significant wave height of 3.25 m (Sea State 5) or more and specially designed for surface effect vehicles (rigid sidewalls) controlled by 8A001(g);
+      - (2) Designed for cushion pressures of 6224 Pa or more, operating in a significant wave height of 3.25 m (Sea State 5) or more and specially designed for surface effect vehicles (rigid sidewalls) controlled by 8A001(g);
 
-      - (l) Lift fans rated at more than 400 kW specially designed for surface effect vehicles controlled by 8A001(f) or 8A001(g);
+    - (l) Lift fans rated at more than 400 kW specially designed for surface effect vehicles controlled by 8A001(f) or 8A001(g);
 
-      - (m) Fully submerged subcavitating or supercavitating hydrofoils specially designed for vessels controlled by 8A001(h);
+    - (m) Fully submerged subcavitating or supercavitating hydrofoils specially designed for vessels controlled by 8A001(h);
 
-      - (n) Active systems specially designed or modified to control automatically the sea-induced motion of vehicles or vessels controlled by 8A001(f), 8A001(g), 8A001(h) or 8A001(i);
+    - (n) Active systems specially designed or modified to control automatically the sea-induced motion of vehicles or vessels controlled by 8A001(f), 8A001(g), 8A001(h) or 8A001(i);
 
-      - (o) Propellers, power transmission systems, power generation systems and noise reduction systems, as follows:
+    - (o) Propellers, power transmission systems, power generation systems and noise reduction systems, as follows:
 
-        - (1) Water-screw propeller or power transmission systems, as follows, specially designed for surface effect vehicles (fully skirted or rigid sidewall variety), hydrofoils or small waterplane area vessels controlled by 8A001(f), 8A001(g), 8A001(h) or 8A001(i):
+      - (1) Water-screw propeller or power transmission systems, as follows, specially designed for surface effect vehicles (fully skirted or rigid sidewall variety), hydrofoils or small waterplane area vessels controlled by 8A001(f), 8A001(g), 8A001(h) or 8A001(i):
 
-    - (a) Supercavitating, super-ventilated, partially-submerged or surface piercing propellers rated at more than 7.5 MW;
+        - (a) Supercavitating, super-ventilated, partially-submerged or surface piercing propellers rated at more than 7.5 MW;
 
-    - (b) Contrarotating propeller systems rated at more than 15 MW;
+        - (b) Contrarotating propeller systems rated at more than 15 MW;
 
-    - (c) Systems employing pre-swirl or post-swirl techniques for smoothing the flow into a propeller;
+        - (c) Systems employing pre-swirl or post-swirl techniques for smoothing the flow into a propeller;
 
-    - (d) Light-weight, high capacity (K factor exceeding 300) reduction gearing;
+        - (d) Light-weight, high capacity (K factor exceeding 300) reduction gearing;
 
-    - (e) Power transmission shaft systems, incorporating “composite” material components, capable of transmitting more than 1 MW;
+        - (e) Power transmission shaft systems, incorporating “composite” material components, capable of transmitting more than 1 MW;
 
-  - (2) Water-screw propeller, power generation systems or transmission systems designed for use on vessels, as follows:
+      - (2) Water-screw propeller, power generation systems or transmission systems designed for use on vessels, as follows:
 
-    - (a) Controllable-pitch propellers and hub assemblies rated at more than 30 MW;
+        - (a) Controllable-pitch propellers and hub assemblies rated at more than 30 MW;
 
-    - (b) Internally liquid-cooled electric propulsion engines with a power output exceeding 2.5 MW;
+        - (b) Internally liquid-cooled electric propulsion engines with a power output exceeding 2.5 MW;
 
-    - (c) “Superconductive” propulsion engines, or permanent magnet electric propulsion engines, with a power output exceeding 0.1 MW;
+        - (c) “Superconductive” propulsion engines, or permanent magnet electric propulsion engines, with a power output exceeding 0.1 MW;
 
-    - (d) Power transmission shaft systems, incorporating “composite” material components, capable of transmitting more than 2 MW;
+        - (d) Power transmission shaft systems, incorporating “composite” material components, capable of transmitting more than 2 MW;
 
-    - (e) Ventilated or base-ventilated propeller systems rated at more than 2.5 MW;
+        - (e) Ventilated or base-ventilated propeller systems rated at more than 2.5 MW;
 
-  - (3) Noise reduction systems designed for use on vessels of 1000 tonnes displacement or more, as follows:
+      - (3) Noise reduction systems designed for use on vessels of 1000 tonnes displacement or more, as follows:
 
-    - (a) Systems that attenuate underwater noise at frequencies below 500 Hz and consist of compound acoustic mounts for the acoustic isolation of diesel engines, diesel generator sets, gas turbines, gas turbine generator sets, propulsion motors or propulsion reduction gears, specially designed for sound or vibration isolation, having an intermediate mass exceeding 30% of the equipment to be mounted;
+        - (a) Systems that attenuate underwater noise at frequencies below 500 Hz and consist of compound acoustic mounts for the acoustic isolation of diesel engines, diesel generator sets, gas turbines, gas turbine generator sets, propulsion motors or propulsion reduction gears, specially designed for sound or vibration isolation, having an intermediate mass exceeding 30% of the equipment to be mounted;
 
-    - (b) Active noise reduction or cancellation systems, or magnetic bearings, specially designed for power transmission systems, and incorporating electronic control systems capable of actively reducing equipment vibration by the generation of anti-noise or anti-vibration signals directly to the source;
+        - (b) Active noise reduction or cancellation systems, or magnetic bearings, specially designed for power transmission systems, and incorporating electronic control systems capable of actively reducing equipment vibration by the generation of anti-noise or anti-vibration signals directly to the source;
 
-      - (p) Pumpjet propulsion systems having a power output exceeding 2.5 MW using divergent nozzle and flow conditioning vane techniques to improve propulsive efficiency or reduce propulsion-generated underwater-radiated noise;
+    - (p) Pumpjet propulsion systems having a power output exceeding 2.5 MW using divergent nozzle and flow conditioning vane techniques to improve propulsive efficiency or reduce propulsion-generated underwater-radiated noise;
 
-      - (q) Self-contained, closed or semi-closed circuit (rebreathing) diving and underwater swimming apparatus;
+    - (q) Self-contained, closed or semi-closed circuit (rebreathing) diving and underwater swimming apparatus; Note:
 
-  - Note:
-
-  - 8A002(q) does not control an individual apparatus for personal use when accompanying its user. (L.N. 132 of 2001) 8B TEST, INSPECTION AND PRODUCTION EQUIPMENT 8B001 Water tunnels, having a background noise of less than 100 dB (reference 1 μPa, 1 Hz) in the frequency range from 0 to 500 Hz, designed for measuring acoustic fields generated by a hydro-flow around propulsion system models; 8C MATERIALS 8C001 Syntactic foam designed for underwater use, having all of the following:
+    - 8A002(q) does not control an individual apparatus for personal use when accompanying its user. (L.N. 132 of 2001) 8B TEST, INSPECTION AND PRODUCTION EQUIPMENT 8B001 Water tunnels, having a background noise of less than 100 dB (reference 1 μPa, 1 Hz) in the frequency range from 0 to 500 Hz, designed for measuring acoustic fields generated by a hydro-flow around propulsion system models; 8C MATERIALS 8C001 Syntactic foam designed for underwater use, having all of the following:
 
     - (a) Designed for marine depths exceeding 1000 m; and
 
     - (b) A density less than 561 kg/m3;
 
-  - Technical Note:
-
-  - Syntactic foam consists of hollow spheres of plastic or glass embedded in a resin matrix. 8D SOFTWARE 8D001 “Software” specially designed or modified for the “development”, “production” or “use” of equipment or materials controlled by 8A, 8B or 8C; 8D002 Specific “software” specially designed or modified for the “development”, “production”, repair, overhaul or refurbishing (re-machining) of propellers specially designed for underwater noise reduction; 8E TECHNOLOGY 8E001 “Technology” according to the General Technology Note for the “development” or “production” of equipment or materials controlled by 8A, 8B or 8C; 8E002 Other “technology”, as follows:
+    - Technical Note: Syntactic foam consists of hollow spheres of plastic or glass embedded in a resin matrix. 8D SOFTWARE 8D001 “Software” specially designed or modified for the “development”, “production” or “use” of equipment or materials controlled by 8A, 8B or 8C; 8D002 Specific “software” specially designed or modified for the “development”, “production”, repair, overhaul or refurbishing (re-machining) of propellers specially designed for underwater noise reduction; 8E TECHNOLOGY 8E001 “Technology” according to the General Technology Note for the “development” or “production” of equipment or materials controlled by 8A, 8B or 8C; 8E002 Other “technology”, as follows:
 
     - (a) “Technology” for the “development”, “production”, repair, overhaul or refurbishing (re-machining) of propellers specially designed for underwater noise reduction;
 
     - (b) “Technology” for the overhaul or refurbishing of equipment controlled by 8A001, 8A002(b), 8A002(j), 8A002(o) or 8A002(p); CATEGORY 9-PROPULSION SYSTEMS, SPACE VEHICLES AND
 
-    - RELATED EQUIPMENT
+    - RELATED EQUIPMENT 9A SYSTEMS, EQUIPMENT AND COMPONENTS (For propulsion systems designed or rated against neutron or transient ionizing radiation, see the Munitions List.) 9A001 Aero gas turbine engines having any of the following: N.B.: See also 9A101.
 
-  - 9A SYSTEMS, EQUIPMENT AND COMPONENTS (For propulsion systems designed or rated against neutron or transient ionizing radiation, see the Munitions List.) 9A001 Aero gas turbine engines incorporating any of the “Technologies” controlled by 9E003(a), as follows:
+    - (a)
 
-  - N.B.:
+    - Incorporating any of the technologies controlled by 9E003(a); or
 
-  - See also 9A101.
+    - Note:
 
-    - (a) Not certified for the specific “civil aircraft” for which they are intended; Note:
+    - 9A001(a) does not control aero gas turbine engines which meet all of the following:
 
-    - For the purpose of the “civil aircraft” certification process, a number of up to 16 civil certified engines, assemblies or components including spares, is considered appropriate.
+      - 1. Certified by the civil aviation authority in a “Participating State”; and
 
-    - (b) Not certified for civil use by the aviation authorities in a “participating state”;
+      - 2. Intended to power non-military manned “aircraft” for which one of the following has been issued by a “Participating State” for the “aircraft” with this specific engine type:
 
-    - (c) Designed to cruise at speeds exceeding Mach 1.2 for more than thirty minutes; 9A002 Marine gas turbine engines with an ISO standard continuous power rating of 24245 kW or more and a specific fuel consumption not exceeding 0.219 kg/kWh in the power range from 35 to 100%, and specially designed assemblies and components therefor; Note: The term ‘marine gas turbine engines’ includes those industrial, or aero-derivative, gas turbine engines adapted for a ship’s electric power generation or propulsion. 9A003 Specially designed assemblies and components, incorporating any of the “technologies” controlled by 9E003(a), for the following gas turbine engine propulsion systems: (L.N. 183 of 1999)
+        - (a) A civil Type Certificate; or
 
-    - (a) Controlled by 9A001;
+        - (b) An equivalent document recognized by the International Civil Aviation Organisation (ICAO).
 
-    - (b) Whose design or production origins are either non-”participating states” or unknown to the manufacturer; 9A004 Space launch vehicles and “spacecraft”; N.B.:
+    - (b) Designed to power an “aircraft” designed to cruise at Mach 1 or higher for more than 30 minutes;
+
+  - (L.N. 95 of 2006)
+
+  - 9A002 ‘Marine gas turbine engines’ with an ISO standard continuous power rating of 24245 kW or more and a specific fuel consumption not exceeding 0.219 kg/kWh in the power range from 35 to 100%, and specially designed assemblies and components therefor; (L.N. 95 of 2006)
+
+    - Note:
+
+    - The term ‘marine gas turbine engines’ includes those industrial, or aero-derivative, gas turbine engines adapted for a ship’s electric power generation or propulsion.
+
+    - 9A003 Specially designed assemblies and components, incorporating any of the “technologies” controlled by 9E003(a), for the following gas turbine engine propulsion systems: (L.N. 183 of 1999)
+
+      - (a) Controlled by 9A001;
+
+      - (b) Whose design or production origins are either non-”participating states” or unknown to the manufacturer;
+
+    - 9A004 Space launch vehicles and “spacecraft”;
+
+    - N.B.:
 
     - See also 9A104.
 
@@ -8338,7 +8546,9 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - 9A004 does not control payloads.
 
-    - N.B.: For the control status of products contained in “spacecraft” payloads, see the appropriate Categories. (L.N. 132 of 2001) 9A005 Liquid rocket propulsion systems containing any of the systems or components controlled by 9A006;
+    - N.B.:
+
+    - For the control status of products contained in “spacecraft” payloads, see the appropriate Categories. (L.N. 132 of 2001) 9A005 Liquid rocket propulsion systems containing any of the systems or components controlled by 9A006;
 
     - N.B.:
 
@@ -8348,119 +8558,127 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - See also 9A106 and 9A108.
 
-    - (a) Cryogenic refrigerators, flightweight dewars, cryogenic heat pipes or cryogenic systems specially designed for use in space vehicles and capable of restricting cryogenic fluid losses to less than 30% per year;
+      - (a) Cryogenic refrigerators, flightweight dewars, cryogenic heat pipes or cryogenic systems specially designed for use in space vehicles and capable of restricting cryogenic fluid losses to less than 30% per year;
 
-    - (b) Cryogenic containers or closed-cycle refrigeration systems capable of providing temperatures of 100 K (-1730C) or less for “aircraft” capable of sustained flight at speeds exceeding Mach 3, launch vehicles or “spacecraft”;
+      - (b) Cryogenic containers or closed-cycle refrigeration systems capable of providing temperatures of 100 K (-1730C) or less for “aircraft” capable of sustained flight at speeds exceeding Mach 3, launch vehicles or “spacecraft”;
 
-    - (c) Slush hydrogen storage or transfer systems;
+      - (c) Slush hydrogen storage or transfer systems;
 
-    - (d) High pressure (exceeding 17.5 MPa) turbo pumps, pump components or their associated gas generator or expander cycle turbine drive systems;
+      - (d) High pressure (exceeding 17.5 MPa) turbo pumps, pump components or their associated gas generator or expander cycle turbine drive systems;
 
-    - (e) High-pressure (exceeding 10.6 MPa) thrust chambers and nozzles therefor;
+      - (e) High-pressure (exceeding 10.6 MPa) thrust chambers and nozzles therefor;
 
-    - (f) Propellant storage systems using the principle of capillary containment or positive expulsion (i.e., with flexible bladders);
+      - (f) Propellant storage systems using the principle of capillary containment or positive expulsion (i.e., with flexible bladders);
 
-    - (g) Liquid propellant injectors, with individual orifices of 0.381 mm or smaller in diameter (an area of 1.14 x 10-3 cm2 or smaller for non-circular orifices) specially designed for liquid rocket engines;
+      - (g) Liquid propellant injectors, with individual orifices of 0.381 mm or smaller in diameter (an area of 1.14 x 10-3 cm2 or smaller for non-circular orifices) specially designed for liquid rocket engines;
 
-    - (h) One-piece carbon-carbon thrust chambers or one-piece carbon-carbon exit cones with densities exceeding 1.4 g/cm3 and tensile strengths exceeding 48 MPa; 9A007 Solid rocket propulsion systems with any of the following:
+      - (h) One-piece carbon-carbon thrust chambers or one-piece carbon-carbon exit cones with densities exceeding 1.4 g/cm3 and tensile strengths exceeding 48 MPa; 9A007 Solid rocket propulsion systems with any of the following:
 
-    - N.B.:
+      - N.B.:
 
-    - See also 9A119.
+      - See also 9A119.
 
-    - (a) Total impulse capacity exceeding 1.1 MNs;
+      - (a) Total impulse capacity exceeding 1.1 MNs;
 
-    - (b) Specific impulse of 2.4 kNs/kg or more when the nozzle flow is expanded to ambient sea level conditions for an adjusted chamber pressure of 7 MPa;
+      - (b) Specific impulse of 2.4 kNs/kg or more when the nozzle flow is expanded to ambient sea level conditions for an adjusted chamber pressure of 7 MPa;
 
-    - (c) Stage mass fractions exceeding 88% and propellant solid loadings exceeding 86%;
+      - (c) Stage mass fractions exceeding 88% and propellant solid loadings exceeding 86%;
 
-    - (d) Any of the components controlled by 9A008; or
+      - (d) Any of the components controlled by 9A008; or
 
-    - (e) Insulation and propellant bonding systems using direct-bonded motor designs to provide a ‘strong mechanical bond’ or a barrier to chemical migration between the solid propellant and case insulation material; Technical Note:
+      - (e) Insulation and propellant bonding systems using direct-bonded motor designs to provide a ‘strong mechanical bond’ or a barrier to chemical migration between the solid propellant and case insulation material; Technical Note:
 
-    - For the purposes of 9A007(e), a ‘strong mechanical bond’ means bond strength equal to or more than propellant strength. 9A008 Components, as follows, specially designed for solid rocket propulsion systems:
+      - For the purposes of 9A007(e), a ‘strong mechanical bond’ means bond strength equal to or more than propellant strength. 9A008 Components, as follows, specially designed for solid rocket propulsion systems:
 
-    - N.B.:
+      - N.B.:
 
-    - See also 9A108.
+      - See also 9A108.
 
-    - (a) Insulation and propellant bonding systems using liners to provide a ‘strong mechanical bond’ or a barrier to chemical migration between the solid propellant and case insulation material; Technical Note:
+      - (a) Insulation and propellant bonding systems using liners to provide a ‘strong mechanical bond’ or a barrier to chemical migration between the solid propellant and case insulation material; Technical Note:
 
-    - For the purpose of 9A008(a), a ‘strong mechanical bond’ means bond strength equal to or more than propellant strength.
+      - For the purpose of 9A008(a), a ‘strong mechanical bond’ means bond strength equal to or more than propellant strength.
 
-    - (b) Filament-wound “composite” motor cases exceeding 0.61 m in diameter or having structural efficiency ratios (PV/W) exceeding 25 km; Technical Note:
+      - (b) Filament-wound “composite” motor cases exceeding 0.61 m in diameter or having structural efficiency ratios (PV/W) exceeding 25 km; Technical Note:
 
-    - The structural efficiency ratio (PV/W) is the burst pressure (P) multiplied by the vessel volume (V) divided by the total pressure vessel weight (W).
+      - The structural efficiency ratio (PV/W) is the burst pressure (P) multiplied by the vessel volume (V) divided by the total pressure vessel weight (W).
 
-    - (c) Nozzles with thrust levels exceeding 45 kN or nozzle throat erosion rates of less than 0.075 mm/s;
+      - (c) Nozzles with thrust levels exceeding 45 kN or nozzle throat erosion rates of less than 0.075 mm/s;
 
-    - (d) Movable nozzle or secondary fluid injection thrust vector control systems capable of any of the following:
+      - (d) Movable nozzle or secondary fluid injection thrust vector control systems capable of any of the following:
 
-      - (1) Omni-axial movement exceeding +50;
+        - (1) Omni-axial movement exceeding +50;
 
-      - (2) Angular vector rotations of 200/s or more; or
+        - (2) Angular vector rotations of 200/s or more; or
 
-      - (3) Angular vector accelerations of 400/s2 or more;
+        - (3) Angular vector accelerations of 400/s2 or more;
 
-    - 9A009 Hybrid rocket propulsion systems with:
+      - 9A009 Hybrid rocket propulsion systems with:
 
-    - N.B.:
+      - N.B.:
 
-    - See also 9A109 and 9A119.
+      - See also 9A109 and 9A119.
 
-    - (a) Total impulse capacity exceeding 1.1 MNs; or
+      - (a) Total impulse capacity exceeding 1.1 MNs; or
 
-    - (b) Thrust levels exceeding 220 kN in vacuum exit conditions; 9A010 Specially designed components, systems and structures for launch vehicles, launch vehicle propulsion systems or “spacecraft”, as follows:
+      - (b) Thrust levels exceeding 220 kN in vacuum exit conditions; 9A010 Specially designed components, systems and structures for launch vehicles, launch vehicle propulsion systems or “spacecraft”, as follows:
 
-    - N.B.:
+      - N.B.:
 
-    - See also 1A002 and 9A110.
+      - See also 1A002 and 9A110.
 
-    - (a) Components and structures each exceeding 10 kg, specially designed for launch vehicles manufactured using metal “matrix”, “composite”, organic “composite”, ceramic “matrix” or intermetallic reinforced materials controlled by 1C007 or 1C010; Note:
+      - (a) Components and structures each exceeding 10 kg, specially designed for launch vehicles manufactured using metal “matrix”, “composite”, organic “composite”, ceramic “matrix” or intermetallic reinforced materials controlled by 1C007 or 1C010; Note:
 
-    - The weight cut-off is not relevant for nose cones.
+      - The weight cut-off is not relevant for nose cones.
 
-    - (b) Components and structures specially designed for launch vehicle propulsion systems controlled by 9A005 to 9A009 manufactured using metal “matrix”, “composite”, organic “composite”, ceramic “matrix” or intermetallic reinforced materials controlled by 1C007 or 1C010;
+      - (b) Components and structures specially designed for launch vehicle propulsion systems controlled by 9A005 to 9A009 manufactured using metal “matrix”, “composite”, organic “composite”, ceramic “matrix” or intermetallic reinforced materials controlled by 1C007 or 1C010;
 
-    - (c) Structural components and isolation systems specially designed to control actively the dynamic response or distortion of “spacecraft” structures;
+      - (c) Structural components and isolation systems specially designed to control actively the dynamic response or distortion of “spacecraft” structures;
 
-    - (d) Pulsed liquid rocket engines with thrust-to-weight ratios equal to or more than 1 kN/kg and a response time (the time required to achieve 90% of total rated thrust from start-up) of less than 30 ms; 9A011 Ramjet, scramjet or combined cycle engines and specially designed components therefor; N.B.:
+      - (d) Pulsed liquid rocket engines with thrust-to-weight ratios equal to or more than 1 kN/kg and a response time (the time required to achieve 90% of total rated thrust from start-up) of less than 30 ms; 9A011 Ramjet, scramjet or combined cycle engines and specially designed components therefor; N.B.:
 
-    - See also 9A111 and 9A118. 9A012 Unmanned aerial vehicles having any of the following:
+      - See also 9A111 and 9A118. 9A012 “Unmanned Aerial Vehicles” (“UAVs”), associated systems, equipment and components as follows:
 
-    - (a) An autonomous flight control and navigation capability (e.g. an autopilot with an Inertial Navigation System); or
+      - (a) “UAVs” having any of the following:
 
-    - (b) Capability of controlled-flight out of the direct vision range involving a human operator (e.g. televisual remote control);
+        - (1) An autonomous flight control and navigation capability (e.g. an autopilot with an Inertial Navigation System); or
+
+        - (2) Capability of controlled flight out of the direct visual range involving a human operator (e.g., televisual remote control);
+
+    - (b) Associated systems, equipment and components as follows:
+
+      - (1) Equipment specially designed for remotely controlling the “UAVs” controlled by 9A012(a);
+
+      - (2) Guidance or control systems, other than those controlled in Category 7, specially designed for integration into “UAVs” controlled by 9A012(a);
+
+      - (3) Equipment and components specially designed to convert a manned “aircraft” to a “UAV” controlled by 9A012(a);
 
     - Note:
 
     - 9A012 does not control model aircraft.
 
-- (L.N. 65 of 2004)
+  - (L.N. 95 of 2006)
 
-  - 9A101 Lightweight turbojet and turbofan engines (including turbocompound engines) usable in “missiles”, other than those controlled by 9A001, as follows:
+    - 9A101 Lightweight turbojet and turbofan engines (including turbocompound engines), other than those controlled by 9A001, as follows: (L.N. 95 of 2006)
 
-    - (a) Engines having both of the following characteristics:
+      - (a) Engines having both of the following characteristics:
 
-      - (1) Maximum thrust value greater than 400 N (achieved un-installed) excluding civil certified engines with a maximum thrust value greater than 8890 N (achieved un-installed); and (L.N. 65 of 2004)
+        - (1) Maximum thrust value greater than 400 N (achieved un-installed) excluding civil certified engines with a maximum thrust value greater than 8890 N (achieved un-installed); and (L.N. 65 of 2004)
 
-      - (2) Specific fuel consumption of 0.15 kg/N/hr or less (at maximum continuous power at sea level static and standard conditions); or (L.N. 65 of 2004)
+        - (2) Specific fuel consumption of 0.15 kg/N/hr or less (at maximum continuous power at sea level static and standard conditions); or (L.N. 65 of 2004)
 
-    - (b) Engines designed or modified for use in “missiles”;
+    - (b) Engines designed or modified for use in “missiles”; 9A104 Sounding rockets, capable of a range of at least 300 km;
 
-  - 9A104 Sounding rockets, capable of a range of at least 300 km;
+    - N.B.:
 
-  - N.B.:
+    - See also 9A004. 9A105 Liquid propellant rocket engines, as follows:
 
-  - See also 9A004. 9A105 Liquid propellant rocket engines, as follows:
+    - N.B.:
 
-  - N.B.:
-
-  - See also 9A119.
+    - See also 9A119.
 
     - (a) Liquid propellant rocket engines usable in “missiles”, other than those controlled by 9A005, having a total impulse capacity of 1.1 MNs or greater;
 
-    - (b) Liquid propellant rocket engines, usable in complete rocket systems or unmanned air vehicles, capable of a range of 300 km, other than those specified in 9A005 or 9A105(a), having a total impulse capacity of 0.841 MNs or greater; (L.N. 132 of 2001) 9A106 Systems or components, other than those controlled by 9A006, usable in “missiles”, as follows, specially designed for liquid rocket propulsion systems:
+    - (b) Liquid propellant rocket engines, usable in complete rocket systems or unmanned air vehicles, capable of a range of 300 km, other than those controlled by 9A005 or 9A105(a), having a total impulse capacity of 0.841 MNs or greater; (L.N. 132 of 2001; L.N. 95 of 2006) 9A106 Systems or components, other than those controlled by 9A006, usable in “missiles”, as follows, specially designed for liquid rocket propulsion systems:
 
     - (a) Ablative liners for thrust or combustion chambers;
 
@@ -8486,17 +8704,21 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
     - (d)
 
-    - Liquid and slurry propellant (including oxidizer) control systems, and specially designed components therefor, designed or modified to operate in vibration environments of more than 10 g rms between 20 Hz and 2000 Hz; (L.N. 65 of 2004)
+    - Liquid and slurry propellant (including oxidizer) control systems, and specially designed components therefor, designed or modified to operate in vibration environments greater than 10 g rms between 20 Hz and 2000 Hz; (L.N. 65 of 2004; L.N. 95 of 2006)
 
     - Note:
 
     - The only servo valves and pumps controlled by 9A106(d) are the following:
 
-      - (a) Servo valves designed for flow rates of 24 litres per minute or greater, at an absolute pressure of 7 MPa or greater, that have an actuator response time of less than 100 ms;
+      - (a) Servo valves designed for flow rates equal to or greater than 24 litres per minute, at an absolute pressure equal to or greater than 7 MPa, that have an actuator response time of less than 100 ms; (L.N. 95 of 2006)
 
-      - (b) Pumps, for liquid propellants, with shaft speeds equal to or greater than 8000 rpm or with discharge pressures equal to or greater than 7 MPa; 9A107 Solid propellant rocket engines, usable in complete rocket systems or unmanned air vehicles, capable of a range of at least 300 km, other than those controlled by 9A007, having total impulse capacity of 0.841 MNs or greater; (L.N. 183 of 1999) N.B.:
+      - (b) Pumps, for liquid propellants, with shaft speeds equal to or greater than 8000 rpm or with discharge pressures equal to or greater than 7 MPa;
 
-      - See also 9A119. 9A108 Components, other than those controlled by 9A008, usable in “missiles”, as follows, specially designed for solid rocket propulsion systems:
+    - (e) Liquid propellant tanks specially designed for propellants controlled by 1C111, or other liquid propellants used in the systems controlled by 9A004 or 9A104; (L.N. 95 of 2006) 9A107 Solid propellant rocket engines, usable in complete rocket systems or unmanned air vehicles, capable of a range of at least 300 km, other than those controlled by 9A007, having total impulse capacity equal to or greater than 8.41 x 105 Ns; (L.N. 183 of 1999; L.N. 95 of 2006)
+
+    - N.B.:
+
+    - See also 9A119. 9A108 Components, other than those controlled by 9A008, usable in “missiles”, as follows, specially designed for solid rocket propulsion systems:
 
     - (a) Rocket motor cases, “interior lining” and “insulation” therefor;
 
@@ -8518,157 +8740,219 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
       - (4) Deflection of exhaust gas stream (jet vanes or probes); or
 
-      - (5) Thrust tabs. 9A109 Hybrid rocket motors, usable in “missiles”, other than those controlled by 9A009, and specially designed components therefor; N.B.:
+      - (5) Thrust tabs. 9A109 Hybrid rocket motors, usable in ‘missiles’, other than those controlled by 9A009, and specially designed components therefor; Technical Note: In 9A109, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km. N.B.:
 
-      - See also 9A119. 9A110 Composite structures, laminates and manufactures thereof, other than those specified in 9A010, specially designed for use in space launch vehicles specified in 9A004 or sounding rockets specified in 9A104 or the subsystems specified in 9A005, 9A007, 9A105(a), 9A106 to 9A108, 9A116 or 9A119; N.B.:
+      - See also 9A119.
 
-      - See also 1A002. (L.N. 132 of 2001) 9A111 Pulse jet engines, usable in “missiles”, and specially designed components therefor; N.B.:
+  - (L.N. 95 of 2006)
 
-      - See also 9A011 and 9A118. 9A115 Launch support equipment as follows:
+  - 9A110 Composite structures, laminates and manufactures thereof, other than those controlled by 9A010, specially designed for use in space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104 or the subsystems controlled by 9A005, 9A007, 9A105(a), 9A106 to 9A108, 9A116 or 9A119; (L.N. 95 of 2006)
 
-    - (a) Equipment and devices for handling, control, activation or launching, and designed or modified for space launch vehicles specified in 9A004, unmanned aerial vehicles specified in 9A012 or sounding rockets specified in 9A104;
+    - N.B.:
 
-    - (b) Vehicles for transport, handling, control, activation or launching, and designed or modified for space launch vehicles specified in 9A004 or sounding rockets specified in 9A104;
+    - See also 1A002. (L.N. 132 of 2001)
 
-- (L.N. 65 of 2004)
+    - 9A111 Pulse jet engines, usable in “missiles”, and specially designed components therefor;
 
-  - 9A116 Reentry vehicles, usable in “missiles”, and equipment designed or modified therefor, as follows:
+    - N.B.:
 
-    - (a) Reentry vehicles;
+    - See also 9A011 and 9A118.
 
-    - (b) Heat shields and components therefor fabricated of ceramic or ablative materials;
+    - 9A115 Launch support equipment as follows:
 
-    - (c) Heat sinks and components therefor fabricated of light-weight, high heat capacity materials;
+      - (a) Equipment and devices for handling, control, activation or launching, and designed or modified for space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104;
 
-    - (d) Electronic equipment specially designed for reentry vehicles;
+      - (b) Vehicles for transport, handling, control, activation or launching, and designed or modified for space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104;
 
-  - 9A117 Staging mechanisms, separation mechanisms, and interstages, usable in “missiles”; 9A118 Devices to regulate combustion usable in engines, which are usable in “missiles”, controlled by 9A011 or 9A111; 9A119 Individual rocket stages, usable in complete rocket systems or unmanned air vehicles, capable of a range of at least 300 km, other than those controlled by 9A005, 9A007, 9A009, 9A105, 9A107 and 9A109; (L.N. 183 of 1999) 9B TEST, INSPECTION AND PRODUCTION EQUIPMENT 9B001 Specially designed equipment, tooling and fixtures, as follows, for manufacturing gas turbine blades, vanes or tip shroud castings: (L.N. 132 of 2001)
+  - (L.N. 65 of 2004; L.N. 95 of 2006)
 
-    - (a) Directional solidification or single crystal casting equipment;
+    - 9A116 Reentry vehicles, usable in “missiles”, and equipment designed or modified therefor, as follows:
 
-    - (b) Ceramic cores or shells;
+      - (a) Reentry vehicles;
 
-    - (c)-(d) (Repealed L.N. 132 of 2001) 9B002 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, specially designed for the “development” of gas turbine engines, assemblies or components incorporating “technologies” controlled by 9E003(a); 9B003 Equipment specially designed for the “production” or test of gas turbine brush seals designed to operate at tip speeds exceeding 335 m/s, and temperatures in excess of 773 K (5000C), and specially designed components or accessories therefor; 9B004 Tools, dies or fixtures for the solid state joining of “superalloy”, titanium or intermetallic airfoil-to-disk combinations described in 9E003(a)(3) or 9E003(a)(6) for gas turbines; 9B005 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, specially designed for use with any of the following wind tunnels or devices: N.B.:
+      - (b) Heat shields and components therefor fabricated of ceramic or ablative materials;
+
+      - (c) Heat sinks and components therefor fabricated of light-weight, high heat capacity materials;
+
+      - (d) Electronic equipment specially designed for reentry vehicles;
+
+    - 9A117 Staging mechanisms, separation mechanisms, and interstages, usable in “missiles”; 9A118 Devices to regulate combustion usable in engines, which are usable in “missiles”, controlled by 9A011 or 9A111; 9A119 Individual rocket stages, usable in complete rocket systems or unmanned air vehicles, capable of a range of at least 300 km, other than those controlled by 9A005, 9A007, 9A009, 9A105, 9A107 and 9A109; (L.N. 183 of 1999) 9A350 Spraying or fogging systems, specially designed or modified for fitting to “aircraft”, “lighter-than-air vehicles” or “unmanned aerial vehicles” controlled by 9A012, and specially designed components therefor, as follows:
+
+      - (a) Complete spraying or fogging systems capable of delivering, from a liquid suspension, an initial droplet the ‘VMD’ of which is less than 50 microns at a flow rate of greater than two litres per minute;
+
+      - (b) Spray booms or arrays of ‘aerosol generating units’ capable of delivering, from a liquid suspension, an initial droplet the ‘VMD’ of which is less than 50 microns at a flow rate of greater than two litres per minute;
+
+      - (c) ‘Aerosol generating units’ specially designed for fitting to systems controlled by 9A350(a) and 9A350(b);
+
+      - Notes:
+
+      - 1. ‘Aerosol generating units’ are devices specially designed or modified for fitting to “aircraft” such as nozzles, rotary drum atomizers and similar devices.
+
+      - 2. 9A350 does not control spraying or fogging systems and components that are demonstrated not to be capable of delivering biological agents in the form of infectious aerosols.
+
+      - Technical Notes:
+
+      - 1. Droplet size for spray equipment or nozzles specially designed for use on “aircraft”, “lighter-than-air vehicles” or “unmanned aerial vehicles” controlled by 9A012 should be measured using either of the following:
+
+        - (a) Doppler laser method;
+
+        - (b) Forward laser diffraction method.
+
+    - 2. In 9A350, ‘VMD’ means Volume Median Diameter and, for water-based system, this equates to Mass Median Diameter (MMD).
+
+  - (L.N. 95 of 2006)
+
+  - 9B TEST, INSPECTION AND PRODUCTION EQUIPMENT
+
+    - 9B001 Specially designed equipment, tooling and fixtures, as follows, for manufacturing gas turbine blades, vanes or tip shroud castings: (L.N. 132 of 2001)
+
+      - (a) Directional solidification or single crystal casting equipment;
+
+      - (b) Ceramic cores or shells;
+
+      - (c)-(d) (Repealed L.N. 132 of 2001)
+
+    - 9B002 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, specially designed for the “development” of gas turbine engines, assemblies or components incorporating “technologies” controlled by 9E003(a); 9B003 Equipment specially designed for the “production” or test of gas turbine brush seals designed to operate at tip speeds exceeding 335 m/s, and temperatures in excess of 773 K (5000C), and specially designed components or accessories therefor; 9B004 Tools, dies or fixtures for the solid state joining of “superalloy”, titanium or intermetallic airfoil-to-disk combinations described in 9E003(a)(3) or 9E003(a)(6) for gas turbines; 9B005 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, specially designed for use with any of the following wind tunnels or devices:
+
+    - N.B.:
 
     - See also 9B105.
 
-    - (a) Wind tunnels designed for speeds of Mach 1.2 or more; except:
+      - (a) Wind tunnels designed for speeds of Mach 1.2 or more; except:
 
-    - Those specially designed for educational purposes and having a test section size (measured laterally) of less than 250 mm;
+      - Those specially designed for educational purposes and having a test section size (measured laterally) of less than 250 mm;
+
+      - Technical Note:
+
+      - Test section size in 9B005(a) means the diameter of the circle, or the side of a square, or the longest side of the rectangle, at the largest test section location.
+
+      - (b) Devices for simulating flow-environments at speeds exceeding Mach 5, including hot-shot tunnels, plasma arc tunnels, shock tubes, shock tunnels, gas tunnels and light gas guns; or
+
+      - (c) Wind tunnels or devices, other than two-dimensional sections, capable of simulating Reynolds number flows exceeding 25 x 106; 9B006 Acoustic vibration test equipment capable of producing sound pressure levels of 160 dB or more (referenced to 20 μPa) with a rated output of 4 kW or more at a test cell temperature exceeding 1273K (10000C), and specially designed quartz heaters therefor;
+
+      - N.B.:
+
+      - See also 9B106. 9B007 Equipment specially designed for inspecting the integrity of rocket motors using non-destructive test (NDT) techniques other than planar X-ray or basic physical or chemical analysis; 9B008 Transducers specially designed for the direct measurement of the wall skin friction of the test flow with a stagnation temperature exceeding 833 K (5600C); 9B009 Tooling specially designed for producing turbine engine powder metallurgy rotor components capable of operating at stress levels of 60% of ultimate tensile strength (UTS) or more and metal temperatures of 873 K (6000C) or more; 9B010 Equipment specially designed for the “production” of “UAVs” and associated systems, equipment and components controlled by 9A012;
+
+  - (L.N. 95 of 2006)
+
+  - 9B105 Wind tunnels for speeds of Mach 0.9 or more, usable for “missiles” and their sub-systems;
+
+    - N.B.:
+
+    - See also 9B005.
+
+    - 9B106 Environmental chambers and anechoic chambers, as follows:
+
+      - (a) Environmental chambers capable of simulating the following flight conditions:
+
+        - (1) Vibration environments equal to or greater than 10 g rms, measured ‘bare table’, between 20 Hz and 2 kHz imparting forces equal to or greater than 5 kN; and (L.N. 95 of 2006)
+
+        - (2) Altitudes equal to or greater than 15 km; or (L.N. 95 of 2006)
+
+        - (3) Temperature of at least 223 K (-500C) to 398 K (+1250C);
 
     - Technical Note:
 
-    - Test section size in 9B005(a) means the diameter of the circle, or the side of a square, or the longest side of the rectangle, at the largest test section location.
+    - 9B106(a) describes systems that are capable of generating a vibration environment with a single wave (e.g., a sine wave) and systems capable of generating a broadband random vibration (i.e. power spectrum). (L.N. 95 of 2006)
 
-    - (b) Devices for simulating flow-environments at speeds exceeding Mach 5, including hot-shot tunnels, plasma arc tunnels, shock tubes, shock tunnels, gas tunnels and light gas guns; or
+      - (b) Environmental chambers capable of simulating the following flight conditions: (L.N. 95 of 2006)
 
-    - (c) Wind tunnels or devices, other than two-dimensional sections, capable of simulating Reynolds number flows exceeding 25 x 106; 9B006 Acoustic vibration test equipment capable of producing sound pressure levels of 160 dB or more (referenced to 20 μPa) with a rated output of 4 kW or more at a test cell temperature exceeding 1273K (10000C), and specially designed quartz heaters therefor;
+        - (1) Acoustic environments at an overall sound pressure level of 140 dB or greater (referenced to 2 x 10-5 N/m2) or with a total rated acoustic power output of 4 kW or greater; and (L.N. 95 of 2006)
+
+        - (2) Altitudes equal to or greater than 15 km; or (L.N. 95 of 2006)
+
+        - (3) Temperature of at least 223 K (-500C) to 398 K (+1250C);
+
+      - Note:
+
+      - In 9B106, ‘bare table’ means a flat table, or surface, with no fixture or fittings. (L.N. 95 of 2006) 9B115 Specially designed “production equipment” for the systems, sub-systems and components controlled by 9A005 to 9A009, 9A011, 9A101, 9A105 to 9A109, 9A111, 9A116 to 9A119; 9B116 Specially designed “production facilities” for the space launch vehicles controlled by 9A004, or systems, sub-systems, and components controlled by 9A005 to 9A009, 9A011, 9A101, 9A104 to 9A109, 9A111, 9A116 to 9A119; (L.N. 183 of 1999) 9B117 Test benches and test stands for solid or liquid propellant rockets, motors or engines, having either of the following characteristics: (L.N. 95 of 2006)
+
+      - (a) The capacity to handle solid or liquid propellant rockets, motors or engines having a thrust greater than 90 kN; or (L.N. 95 of 2006)
+
+      - (b) Capable of simultaneously measuring the three axial thrust components;
+
+    - 9C MATERIALS (L.N. 132 of 2001) 9C110 Resin impregnated fibre prepregs and metal coated fibre preforms therefor, for composite structures, laminates and manufactures controlled by 9A110, made either with organic “matrix” or metal “matrix” utilizing fibrous or filamentary reinforcements having a “specific tensile strength” greater than 7.62 x 104 m and a “specific modulus” greater than 3.18 x 106 m; (L.N. 95 of 2006)
 
     - N.B.:
-
-    - See also 9B106. 9B007 Equipment specially designed for inspecting the integrity of rocket motors using non-destructive test (NDT) techniques other than planar X-ray or basic physical or chemical analysis; 9B008 Transducers specially designed for the direct measurement of the wall skin friction of the test flow with a stagnation temperature exceeding 833 K (5600C); 9B009 Tooling specially designed for producing turbine engine powder metallurgy rotor components capable of operating at stress levels of 60% of ultimate tensile strength (UTS) or more and metal temperatures of 873 K (6000C) or more; 9B105 Wind tunnels for speeds of Mach 0.9 or more, usable for “missiles” and their sub-systems;
-
-    - N.B.:
-
-    - See also 9B005. 9B106 Environmental chambers and anechoic chambers, as follows:
-
-    - (a) Environmental chambers capable of simulating the following flight conditions:
-
-      - (1) Vibration environments of 10 g rms or greater between 20 Hz and 2000 Hz and imparting forces of 5 kN or greater; and
-
-      - (2) Altitudes of 15000 m or greater; or
-
-      - (3) Temperature of at least 223 K (-500C) to 398 K (+1250C);
-
-    - (b) Anechoic chambers capable of simulating the following flight conditions:
-
-      - (1) Acoustic environments at an overall sound pressure level of 140 dB or greater (referenced to 20 micropascals) or with a rated power output of 4 kW or greater; and
-
-      - (2) Altitudes of 15000 m or greater; or
-
-      - (3) Temperature of at least 223 K (-500C) to 398 K (+1250C);
-
-    - 9B115 Specially designed “production equipment” for the systems, sub-systems and components controlled by 9A005 to 9A009, 9A011, 9A101, 9A105 to 9A109, 9A111, 9A116 to 9A119; 9B116 Specially designed “production facilities” for the space launch vehicles controlled by 9A004, or systems, sub-systems, and components controlled by 9A005 to 9A009, 9A011, 9A101, 9A104 to 9A109, 9A111, 9A116 to 9A119; (L.N. 183 of 1999) 9B117 Test benches and test stands for solid or liquid propellant rockets or rocket motors, having either of the following characteristics:
-
-    - (a) The capacity to handle more than 90 kN of thrust; or
-
-    - (b) Capable of simultaneously measuring the three axial thrust components; 9C MATERIALS (L.N. 132 of 2001) 9C110 Resin impregnated fibre prepregs and metal coated fibre preforms therefor, for composite structures, laminates and manufactures specified in 9A110, made either with organic “matrix” or metal “matrix” utilizing fibrous or filamentary reinforcements having a “specific tensile strength” greater than 7.62 x 104 m and a “specific modulus” greater than 3.18 x 106 m; N.B.:
 
     - See also 1C010 and 1C210.
 
     - Note:
 
-    - The only resin impregnated fibre prepregs specified in 9C110 are those using resins with a glass transition temperature (Tg), after cure, exceeding 418 K (1450C) as determined by ASTM D4065 or equivalent. (L.N. 132 of 2001) 9D SOFTWARE 9D001 “Software” specially designed or modified for the “development” of equipment or “technology” controlled by 9A, 9B or 9E003; (L.N. 132 of 2001) 9D002 “Software” specially designed or modified for the “production” of equipment controlled by 9A or 9B; (L.N. 132 of 2001) 9D003 “Software” specially designed or modified for the “use” of full authority digital electronic engine controls (FADEC) for propulsion systems controlled by 9A or equipment controlled by 9B, as follows: (L.N. 132 of 2001)
+    - The only resin impregnated fibre prepregs controlled by 9C110 are those using resins with a glass transition temperature (Tg), after cure, exceeding 418 K (1450C) as determined by ASTM D4065 or equivalent. (L.N. 132 of 2001; L.N. 95 of 2006) 9D SOFTWARE 9D001 “Software” specially designed or modified for the “development” of equipment or “technology” controlled by 9A, 9B or 9E003; (L.N. 132 of 2001) 9D002 “Software” specially designed or modified for the “production” of equipment controlled by 9A or 9B; (L.N. 132 of 2001) 9D003 “Software” specially designed or modified for the “use” of full authority digital electronic engine controls (FADEC) for propulsion systems controlled by 9A or equipment controlled by 9B, as follows: (L.N. 132 of 2001)
 
-    - (a) “Software” in digital electronic controls for propulsion systems, aerospace test facilities or air breathing aero-engine test facilities;
+      - (a) “Software” in digital electronic controls for propulsion systems, aerospace test facilities or air breathing aero-engine test facilities;
 
-    - (b)
+      - (b)
 
-      - Fault-tolerant “software” used in “FADEC” systems for propulsion systems and associated test facilities; 9D004 Other “software”, as follows:
+        - Fault-tolerant “software” used in “FADEC” systems for propulsion systems and associated test facilities; 9D004 Other “software”, as follows:
 
-    - (a) 2D or 3D viscous “software” validated with wind tunnel or flight test data required for detailed engine flow modelling;
+      - (a) 2D or 3D viscous “software” validated with wind tunnel or flight test data required for detailed engine flow modelling;
 
-    - (b) “Software” for testing aero gas turbine engines, assemblies or components, specially designed to collect, reduce and analyse data in real time, and capable of feedback control, including the dynamic adjustment of test articles or test conditions, as the test is in progress;
+      - (b) “Software” for testing aero gas turbine engines, assemblies or components, specially designed to collect, reduce and analyse data in real time, and capable of feedback control, including the dynamic adjustment of test articles or test conditions, as the test is in progress;
 
-    - (c) “Software” specially designed to control directional solidification or single crystal casting;
+      - (c) “Software” specially designed to control directional solidification or single crystal casting;
 
-    - (d) “Software” in “source code”, “object code” or machine code required for the “use” of active compensating systems for rotor blade tip clearance control; Note:
+      - (d) “Software” in “source code”, “object code” or machine code required for the “use” of active compensating systems for rotor blade tip clearance control; Note:
 
-    - 9D004(d) does not control “software” embedded in uncontrolled equipment or required for maintenance activities associated with the calibration or repair or updates to the active compensating clearance control system. 9D101 “Software” specially designed for the “use” of goods controlled by 9B105, 9B106, 9B116 or 9B117; 9D103 “Software” specially designed for modelling, simulation or design integration of the space launch vehicles controlled by 9A004 or sounding rockets controlled by 9A104, or the sub-systems controlled by 9A005, 9A007, 9A105(a), 9A106, 9A108, 9A116 or 9A119; (L.N. 183 of 1999)
+      - 9D004(d) does not control “software” embedded in uncontrolled equipment or required for maintenance activities associated with the calibration or repair or updates to the active compensating clearance control system.
 
-    - Note: “Software” controlled by 9D103 remains controlled when combined with specially designed hardware controlled by 4A102. 9D104 “Software” specially designed or modified for the “use” of goods specified in 9A001, 9A005, 9A006(d), 9A006(g), 9A007(a), 9A008(d), 9A009(a), 9A010(d), 9A011, 9A101, 9A105, 9A106(c), 9A106(d), 9A107, 9A108(c), 9A109, 9A111, 9A115(a), 9A116(d), 9A117 or 9A118; (L.N. 132 of 2001) 9D105 “Software” which coordinates the function of more than one subsystem, specially designed or modified for “use” in space launch vehicles specified in 9A004 or sounding rockets specified in 9A104; (L.N. 132 of 2001) 9E TECHNOLOGY
+      - (e) “Software” specially designed or modified for the “use” of “UAVs” and associated systems, equipment and components controlled by 9A012; (L.N. 95 of 2006) 9D101 “Software” specially designed for the “use” of goods controlled by 9B105, 9B106, 9B116 or 9B117; 9D103 “Software” specially designed for modelling, simulation or design integration of the space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104, or the sub-systems controlled by 9A005, 9A007, 9A105(a), 9A106, 9A108, 9A116 or 9A119; (L.N. 183 of 1999; L.N. 95 of 2006)
 
-    - Note: “Development” or “production” “technology” controlled by 9E001 to 9E003 for gas turbine engines remains controlled when used as “use” “technology” for repair, rebuild and overhaul. Excluded from control are: technical data, drawings or documentation for maintenance activities directly associated with calibration, removal or replacement of damaged or unserviceable line replaceable units, including replacement of whole engines or engine modules. 9E001 “Technology” according to the General Technology Note for the “development” of equipment or “software” controlled by 9A001(c), 9A004 to 9A011, 9B or 9D; 9E002 “Technology” according to the General Technology Note for the “production” of equipment controlled by 9A001(c), 9A004 to 9A011 or 9B; N.B.:
+      - Note: “Software” controlled by 9D103 remains controlled when combined with specially designed hardware controlled by 4A102. 9D104 “Software” specially designed or modified for the “use” of goods controlled by 9A001, 9A005, 9A006(d), 9A006(g), 9A007(a), 9A008(d), 9A009(a), 9A010(d), 9A011, 9A101, 9A105, 9A106(c), 9A106(d), 9A107, 9A108(c), 9A109, 9A111, 9A115(a), 9A116(d), 9A117 or 9A118; (L.N. 132 of 2001; L.N. 95 of 2006) 9D105 “Software” which coordinates the function of more than one subsystem, specially designed or modified for “use” in space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104; (L.N. 132 of 2001; L.N. 95 of 2006) 9E TECHNOLOGY
 
-    - For “technology” for the repair of controlled structures, laminates or materials, see 1E002(f). (L.N. 132 of 2001)
+      - Note: “Development” or “production” “technology” controlled by 9E001 to 9E003 for gas turbine engines remains controlled when used as “use” “technology” for repair, rebuild and overhaul. Excluded from control are: technical data, drawings or documentation for maintenance activities directly associated with calibration, removal or replacement of damaged or unserviceable line replaceable units, including replacement of whole engines or engine modules. 9E001 “Technology” according to the General Technology Note for the “development” of equipment or “software” controlled by 9A001(c), 9A004 to 9A012, 9B or 9D; (L.N. 95 of 2006) 9E002 “Technology” according to the General Technology Note for the “production” of equipment controlled by 9A001(c), 9A004 to 9A011 or 9B; N.B.:
 
-    - Note:
+      - For “technology” for the repair of controlled structures, laminates or materials, see 1E002(f). (L.N. 132 of 2001)
 
-    - ”Development” or “production” “technology” controlled by 9E001 to 9E003 for gas turbine engines remains controlled when used as “use” “technology” for repair, rebuild and overhaul. Excluded from control are: technical data, drawings or documentation for maintenance activities directly associated with calibration, removal or replacement of damaged or unserviceable line replaceable units, including replacement of whole engines or engine modules. (L.N. 132 of 2001) 9E003 Other “technology”, as follows:
+      - Note:
 
-    - (a) “Technology” “required” for the “development” or “production” of any of the following gas turbine engine components or systems:
+      - ”Development” or “production” “technology” controlled by 9E001 to 9E003 for gas turbine engines remains controlled when used as “use” “technology” for repair, rebuild and overhaul. Excluded from control are: technical data, drawings or documentation for maintenance activities directly associated with calibration, removal or replacement of damaged or unserviceable line replaceable units, including replacement of whole engines or engine modules. (L.N. 132 of 2001) 9E003 Other “technology”, as follows:
 
-      - (1) Gas turbine blades, vanes or tip-shrouds made from directionally solidified (DS) or single crystal (SC) alloys having (in the 001 Miller Index Direction) a stress-rupture life exceeding 400 hours at 1273 K (10000C) at a stress of 200 MPa, based on the average property values;
+      - (a) “Technology” “required” for the “development” or “production” of any of the following gas turbine engine components or systems:
 
-      - (2) Multiple domed combustors operating at average burner outlet temperatures exceeding 1813 K (15400C), or combustors incorporating thermally decoupled combustion liners, non-metallic liners or non-metallic shells;
+        - (1) Gas turbine blades, vanes or tip-shrouds made from directionally solidified (DS) or single crystal (SC) alloys having (in the 001 Miller Index Direction) a stress-rupture life exceeding 400 hours at 1273 K (10000C) at a stress of 200 MPa, based on the average property values;
 
-      - (3) Components manufactured from any of the following:
+        - (2) Multiple domed combustors operating at average burner outlet temperatures exceeding 1813 K (15400C), or combustors incorporating thermally decoupled combustion liners, non-metallic liners or non-metallic shells;
 
-        - (a) Organic “composite” materials designed to operate above 588 K (3150C);
+        - (3) Components manufactured from any of the following:
 
-        - (b) Metal “matrix” “composite”, ceramic “matrix”, intermetallic or intermetallic reinforced materials controlled by 1C007; or
+          - (a) Organic “composite” materials designed to operate above 588 K (3150C);
 
-        - (c) “Composite” materials controlled by 1C010 and manufactured with resins controlled by 1C008; (L.N. 132 of 2001)
+          - (b) Metal “matrix” “composite”, ceramic “matrix”, intermetallic or intermetallic reinforced materials controlled by 1C007; or
 
-  - (4) Uncooled turbine blades, vanes, tip-shrouds or other components designed to operate at gas path temperatures of 1323 K (10500C) or more;
+          - (c) “Composite” materials controlled by 1C010 and manufactured with resins controlled by 1C008; (L.N. 132 of 2001)
 
-  - (5) Cooled turbine blades, vanes or tip-shrouds, other than those described in 9E003(a)(1), exposed to gas path temperatures of 1643 K (13700C) or more;
+        - (4) Uncooled turbine blades, vanes, tip-shrouds or other components designed to operate at gas path temperatures of 1323 K (10500C) or more;
 
-  - (6) Airfoil-to-disk blade combinations using solid state joining;
+        - (5) Cooled turbine blades, vanes or tip-shrouds, other than those described in 9E003(a)(1), exposed to gas path temperatures of 1643 K (13700C) or more;
 
-  - (7) Gas turbine engine components using “diffusion bonding” “technology” controlled by 2E003(b);
+        - (6) Airfoil-to-disk blade combinations using solid state joining;
 
-  - (8) Damage tolerant gas turbine engine rotating components using powder metallurgy materials controlled by 1C002(b);
+        - (7) Gas turbine engine components using “diffusion bonding” “technology” controlled by 2E003(b);
 
-  - (9)
+        - (8) Damage tolerant gas turbine engine rotating components using powder metallurgy materials controlled by 1C002(b);
 
-    - “FADEC” for gas turbine and combined cycle engines and their related diagnostic components, sensors and specially designed components;
+        - (9)
 
-  - (10) Adjustable flow path geometry and associated control systems for:
+          - “FADEC” for gas turbine and combined cycle engines and their related diagnostic components, sensors and specially designed components;
 
-    - (a) Gas generator turbines;
+        - (10) Adjustable flow path geometry and associated control systems for:
 
-    - (b) Fan or power turbines;
+          - (a) Gas generator turbines;
 
-    - (c) Propelling nozzles; or (L.N. 132 of 2001)
+          - (b) Fan or power turbines;
 
-  - Notes:
+          - (c) Propelling nozzles; or (L.N. 132 of 2001)
 
-    - 1. Adjustable flow path geometry and associated control systems in 9E003(a)(10) do not include inlet guide vanes, variable pitch fans, variable stators or bleed valves for compressors.
+        - Notes:
 
-    - 2. 9E003(a)(10) does not control “development” or “production” “technology” for adjustable flow path geometry for reverse thrust.
+          - 1. Adjustable flow path geometry and associated control systems in 9E003(a)(10) do not include inlet guide vanes, variable pitch fans, variable stators or bleed valves for compressors.
 
-  - (11) Wide chord hollow fan blades without part-span support; (L.N. 132 of 2001)
+          - 2. 9E003(a)(10) does not control “development” or “production” “technology” for adjustable flow path geometry for reverse thrust.
+
+        - (11) Hollow fan blades; (L.N. 95 of 2006)
 
     - (b) “Technology” “required” for the “development” or “production” of any of the following:
 
@@ -8686,17 +8970,17 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (c) Incidence angles equal to or less than 250; or
 
-  - (2) All of the following:
+      - (2) All of the following:
 
-    - (a) Depths more than five times their diameter;
+        - (a) Depths more than five times their diameter;
 
-    - (b) Diameters less than 0.4 mm; and
+        - (b) Diameters less than 0.4 mm; and
 
-    - (c) Incidence angles of more than 250;
+        - (c) Incidence angles of more than 250;
 
-  - Technical Note:
+    - Technical Note:
 
-  - For the purposes of 9E003(c), incidence angle is measured from a plane tangential to the airfoil surface at the point where the hole axis enters the airfoil surface.
+    - For the purposes of 9E003(c), incidence angle is measured from a plane tangential to the airfoil surface at the point where the hole axis enters the airfoil surface.
 
     - (d) “Technology” “required” for the “development” or “production” of helicopter power transfer systems or tilt rotor or tilt wing “aircraft” power transfer systems; (L.N. 132 of 2001)
 
@@ -8740,672 +9024,812 @@ GENERAL TECHNOLOGY NOTE (for the Munitions List)
 
         - (d) One or more other components (including exhaust ports, turbochargers, valve guides, valve assemblies or insulated fuel injectors);
 
-  - (2) “Technology” “required” for the “production” of turbocharger systems, with single-stage compressors having all of the following:
+      - (2) “Technology” “required” for the “production” of turbocharger systems, with single-stage compressors having all of the following:
 
-    - (a) Operating at pressure ratios of 4:1 or higher;
+        - (a) Operating at pressure ratios of 4:1 or higher;
 
-    - (b) A mass flow in the range from 30 to 130 kg per minute; and
+        - (b) A mass flow in the range from 30 to 130 kg per minute; and
 
-    - (c) Variable flow area capability within the compressor or turbine sections;
+        - (c) Variable flow area capability within the compressor or turbine sections;
 
-  - (3) “Technology” “required” for the “production” of fuel injection systems with a specially designed multifuel (e.g., diesel or jet fuel) capability covering a viscosity range from diesel fuel (2.5 cSt at 310.8 K (37.80C)) down to gasoline fuel (0.5 cSt at 310.8 K (37.80C)), having both of the following:
+      - (3) “Technology” “required” for the “production” of fuel injection systems with a specially designed multifuel (e.g., diesel or jet fuel) capability covering a viscosity range from diesel fuel (2.5 cSt at 310.8 K (37.80C)) down to gasoline fuel (0.5 cSt at 310.8 K (37.80C)), having both of the following:
 
-    - (a) Injection amount in excess of 230 mm3 per injection per cylinder; and
+        - (a) Injection amount in excess of 230 mm3 per injection per cylinder; and
 
-    - (b) Specially designed electronic control features for switching governor characteristics automatically depending on fuel property to provide the same torque characteristics by using the appropriate sensors; (L.N. 65 of 2004)
+        - (b) Specially designed electronic control features for switching governor characteristics automatically depending on fuel property to provide the same torque characteristics by using the appropriate sensors; (L.N. 65 of 2004)
 
-      - (g) “Technology” “required” for the “development” or “production” of high output diesel engines for solid, gas phase or liquid film (or combinations thereof) cylinder wall lubrication, permitting operation to temperatures exceeding 723 K (4500C), measured on the cylinder wall at the top limit of travel of the top ring of the piston;
+    - (g)
 
-  - Technical Note:
+    - “Technology” “required” for the “development” or “production” of high output diesel engines for solid, gas phase or liquid film (or combinations thereof) cylinder wall lubrication, permitting operation to temperatures exceeding 723 K (4500C), measured on the cylinder wall at the top limit of travel of the top ring of the piston;
 
-  - High output diesel engines: diesel engines with a specified brake mean effective pressure of 1.8 MPa or more at a speed of 2300 rpm, provided the rated speed is 2300 rpm or more. (L.N. 65 of 2004) 9E101 “Technology” according to the General Technology Note for the “development” or “production” of goods controlled by 9A101, 9A104 to 9A111 or 9A115 to 9A119; 9E102 “Technology” according to the General Technology Note for the “use” of space launch vehicles controlled by 9A004, or goods controlled by 9A005 to 9A011, 9A101, 9A104 to 9A111, 9A115 to 9A119, 9B105, 9B106, 9B115, 9B116, 9B117, 9D101 or 9D103; (L.N. 183 of 1999)
+    - Technical Note:
 
-  - DEFINITIONS OF TERMS
+    - High output diesel engines: diesel engines with a specified brake mean effective pressure of 1.8 MPa or more at a speed of 2300 rpm, provided the rated speed is 2300 rpm or more. (L.N. 65 of 2004)
 
-  - Notes:
+    - 9E101 “Technology” according to the General Technology Note for the “development” or “production” of goods controlled by 9A101, 9A104 to 9A111 or 9A115 to 9A119; 9E102 “Technology” according to the General Technology Note for the “use” of space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or goods controlled by 9A005 to 9A011, 9A101, 9A104 to 9A111, 9A115 to 9A119, 9B105, 9B106, 9B115, 9B116, 9B117, 9D101 or 9D103; (L.N. 183 of 1999; L.N. 95 of 2006)
 
-- 1. Definitions apply throughout both the Munitions List and Dual-use Goods List. The references are purely advisory and have no effect on the universal application of defined terms throughout these Lists.
+    - DEFINITIONS OF TERMS
 
-- 2.
+    - Notes:
 
-- Words and terms contained in the Definitions of Terms only take the defined meaning where this is indicated by their being enclosed in quotations marks (“ “). Elsewhere, words and terms take their commonly accepted (dictionary) meanings, unless a local definition for a particular control is given. (L.N. 183 of 1999)
+      - 1. Definitions apply throughout both the Munitions List and Dual-use Goods List. The references are purely advisory and have no effect on the universal application of defined terms throughout these Lists.
 
-  - 2 6 “Accuracy” (精度) (Usually measured in terms of inaccuracy) is the maximum deviation, positive or negative, of an indicated value from an accepted standard or true value.
+      - 2.
 
-  - 7 “Active flight control systems” (主動飛控系統) Function to prevent undesirable “aircraft” and missile motions or structural loads by autonomously processing outputs from multiple sensors and then providing necessary preventive commands to effect automatic control.
+      - Words and terms contained in the Definitions of Terms only take the defined meaning where this is indicated by their being enclosed in quotations marks (“ “). Elsewhere, words and terms take their commonly accepted (dictionary) meanings, unless a local definition for a particular control is given. (L.N. 183 of 1999)
 
-  - 6 8 “Active pixel” (工作像元) A minimum (single) element of the solid state array which has a photoelectric transfer function when exposed to light (electromagnetic) radiation.
+        - 2 6 “Accuracy” (精度)
 
-  - 1 “Adapted for use in war” (經修改作戰爭用途) ML7 Any modification or selection (such as altering purity, shelf life, virulence, dissemination characteristics, or resistance to UV radiation) designed to increase the effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment.
+        - (Usually measured in terms of inaccuracy) is the maximum deviation, positive or negative, of an indicated value from an accepted standard or true value.
 
-  - ML8 “Additives” (添加劑) Substances used in explosive formulations to improve their properties.
+        - 7 “Active flight control systems” (主動飛控系統)
 
-  - 1 7 9 “Aircraft” (飛機)
+        - Function to prevent undesirable “aircraft” and missile motions or structural loads by autonomously processing outputs from multiple sensors and then providing necessary preventive commands to effect automatic control.
 
-  - ML8 | A fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne
+        - 6 8 “Active pixel” (工作像元)
 
-  - ML10 | vehicle. (See also “civil aircraft”)
+        - A minimum (single) element of the solid state array which has a photoelectric transfer function when exposed to light (electromagnetic) radiation.
 
-  - ML14
+        - 1 “Adapted for use in war” (經修改作戰爭用途)
 
-  - 2 “All compensations available” (所有補償機制) “All compensations available” means after all feasible measures available to the manufacturer to minimize all systematic positioning errors for the particular machine-tool model are considered. (L.N. 132 of 2001)
+        - ML7 Any modification or selection (such as altering purity, shelf life, virulence, dissemination characteristics, or resistance to UV radiation) designed to increase the effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment.
 
-  - 3 5 “Allocated by the ITU” (由國際電信聯盟指配) The allocation of frequency bands according to the ITU Radio Regulations (Edition 1998) for primary, permitted and secondary services. N.B.: Additional and alternative allocations are not included. (L.N. 132 of 2001)
+        - ML8 “Additives” (添加劑)
 
-  - 2 “Angular position deviation” (角位置誤差) The maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position. (Reference: VDI/VDE 2617, Draft: “Rotary tables on coordinate measuring machines”).
+        - Substances used in explosive formulations to improve their properties.
 
-  - 0 1 9 “ASTM” The American Society for Testing and Materials.
+        - 1 7 9 “Aircraft” (飛機)
 
-  - 5 “Asymmetric algorithm” (非對稱演算法) A cryptographic algorithm using different, mathematically-related keys for encryption and decryption. Technical Note: (L.N. 132 of 2001)
+        - ML8 | A fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne
 
-  - A common use of “asymmetric algorithms” is key management. (L.N. 183 of 1999)
+        - ML10 | vehicle. (See also “civil aircraft”)
 
-  - 6 “Automatic target tracking” (自動目標追蹤) A processing technique that automatically determines and provides as output an extrapolated value of the most probable position of the target in real time.
+        - ML14
 
-  - 3 “Basic gate propagation delay time” (基本閘傳遞延遲時間) The propagation delay time value corresponding to the basic gate used in a “monolithic integrated circuit”. For a ‘family’ of “monolithic integrated circuits”, this may be specified either as the propagation delay time per typical gate within the given ‘family’ or as the typical propagation delay time per gate within the given ‘family’. Technical Notes:
+        - 2 “All compensations available” (所有補償機制)
 
-    - 1. “Basic gate propagation delay time” is not to be confused with the input/output delay time of a complex “monolithic integrated circuit”.
+        - “All compensations available” means after all feasible measures available to the manufacturer to minimize all systematic positioning errors for the particular machine-tool model are considered. (L.N. 132 of 2001)
 
-    - 2. ‘Family’ consists of all integrated circuits to which all of the following are applied as their manufacturing methodology and specifications except their respective functions:
+        - 3 5 “Allocated by the ITU” (由國際電信聯盟指配)
 
-      - (a) The common hardware and software architecture;
+        - The allocation of frequency bands according to the current edition of the ITU Radio Regulations for primary, permitted and secondary services. (L.N. 95 of 2006)
 
-      - (b) The common design and process technology; and
+        - N.B.:
 
-      - (c) The common basic characteristics. (L.N. 132 of 2001)
+        - Additional and alternative allocations are not included. (L.N. 132 of 2001)
 
-  - GTN “Basic scientific research” (基本科學研究) NTN Experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective.
+        - 2 “Angular position deviation” (角位置誤差)
 
-  - 6 “Beat length” (拍頻長度) The distance over which two orthogonally polarised signals, initially in phase, must pass in order to achieve a 2 Pi radian(s) phase difference.
+        - The maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position. (Reference: VDI/VDE 2617, Draft: “Rotary tables on coordinate measuring machines”).
 
-  - 7 “Bias” (accelerometer) (原偏置) (加速度計) An accelerometer output when no acceleration is applied.
+        - 0 1 9 “ASTM”
 
-  - ML7 “Biocatalysts” (生物催化劑) Enzymes for specific chemical or biochemical reactions or other biological compounds which bind to and accelerate the degradation of CW agents. Technical Note:
+        - The American Society for Testing and Materials.
 
-  - ’Enzymes’ means “biocatalysts” for specific chemical or biochemical reactions. (L.N. 132 of 2001)
+        - 5 “Asymmetric algorithm” (非對稱演算法)
 
-  - ML7 “Biopolymers” (生物聚合物) Biological macromolecules as follows:
+        - A cryptographic algorithm using different, mathematically-related keys for encryption and decryption.
 
-    - (a) Enzymes for specific chemical or biochemical reactions;
+        - Technical Note: (L.N. 132 of 2001)
 
-    - (b) Antibodies, monoclonal, polyclonal or anti-idiotypic;
+        - A common use of “asymmetric algorithms” is key management. (L.N. 183 of 1999)
 
-    - (c) Specially designed or specially processed receptors.
+        - 6 “Automatic target tracking” (自動目標追蹤)
+
+        - A processing technique that automatically determines and provides as output an extrapolated value of the most probable position of the target in real time.
+
+        - 3 “Basic gate propagation delay time” (基本閘傳遞延遲時間)
+
+        - The propagation delay time value corresponding to the basic gate used in a “monolithic integrated circuit”. For a ‘family’ of “monolithic integrated circuits”, this may be specified either as the propagation delay time per typical gate within the given ‘family’ or as the typical propagation delay time per gate within the given ‘family’.
+
+        - Technical Notes:
+
+        - 1. “Basic gate propagation delay time” is not to be confused with the input/output delay time of a complex “monolithic integrated circuit”.
+
+        - 2. ‘Family’ consists of all integrated circuits to which all of the following are applied as their manufacturing methodology and specifications except their respective functions:
+
+          - (a) The common hardware and software architecture;
+
+          - (b) The common design and process technology; and
+
+          - (c)
+
+          - The common basic characteristics. (L.N. 132 of 2001)
+
+            - GTN “Basic scientific research” (基本科學研究)
+
+            - NTN Experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective.
+
+            - 6 “Beat length” (拍頻長度)
+
+            - The distance over which two orthogonally polarised signals, initially in phase, must pass in order to achieve a 2 Pi radian(s) phase difference.
+
+            - 7 “Bias” (accelerometer) (原偏置) (加速度計)
+
+            - An accelerometer output when no acceleration is applied.
+
+            - ML7 “Biocatalysts” (生物催化劑)
+
+            - Enzymes for specific chemical or biochemical reactions or other biological compounds which bind to and accelerate the degradation of CW agents.
+
+            - Technical Note:
+
+            - ’Enzymes’ means “biocatalysts” for specific chemical or biochemical reactions. (L.N. 132 of 2001)
+
+            - ML7 “Biopolymers” (生物聚合物)
+
+            - Biological macromolecules as follows:
+
+        - (a) Enzymes for specific chemical or biochemical reactions;
+
+        - (b) Antibodies, monoclonal, polyclonal or anti-idiotypic;
+
+        - (c) Specially designed or specially processed receptors.
 
     - Technical Notes: (L.N. 132 of 2001)
 
-    - 1. ‘Anti-idiotypic antibodies’ means antibodies which bind to the specific antigen binding sites of other antibodies.
+      - 1. ‘Anti-idiotypic antibodies’ means antibodies which bind to the specific antigen binding sites of other antibodies.
 
-    - 2. ‘Monoclonal antibodies’ means proteins which bind to one antigenic site and are produced by a single clone of cells.
+      - 2. ‘Monoclonal antibodies’ means proteins which bind to one antigenic site and are produced by a single clone of cells.
 
-    - 3. ‘Polyclonal antibodies’ means a mixture of proteins which bind to the specific antigen and are produced by more than one clone of cells.
+      - 3. ‘Polyclonal antibodies’ means a mixture of proteins which bind to the specific antigen and are produced by more than one clone of cells.
 
-    - 4. “Receptors” means biological macromolecular structures capable of binding ligands, the binding of which affects physiological functions. (L.N. 183 of 1999)
+      - 4.
 
-  - 2 “Camming” (axial displacement) (軸向移位) Axial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle faceplate, at a point next to the circumference of the spindle faceplate (Reference: ISO 230/1 1986, paragraph 5.63).
+      - “Receptors” means biological macromolecular structures capable of binding ligands, the binding of which affects physiological functions. (L.N. 183 of 1999)
 
-  - 1 “Carbon fibre preforms” (碳纖維預製成形品) An ordered arrangement of uncoated or coated fibres intended to constitute a framework of a part before the “matrix” is introduced to form a “composite”. (L.N. 183 of 1999) 4 “CE”
+        - 2 “Camming” (axial displacement) (軸向移位)
 
-  - “CE” is equivalent to “computing element”. (L.N. 183 of 1999)
+        - Axial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle faceplate, at a point next to the circumference of the spindle faceplate (Reference: ISO 230/1 1986, paragraph 5.63).
 
-  - 6 “Chemical laser” (化學雷射器) A “laser” in which the excited species is produced by the output energy from a chemical reaction.
+        - 1 “Carbon fibre preforms” (碳纖維預製成形品)
 
-  - 7 “Circle of equal probability” (CEP) (圓徑概率誤差) A measure of accuracy defined as the radius of the circle centred at the target, at a specific range, in which 50% of the payloads impact.
+        - An ordered arrangement of uncoated or coated fibres intended to constitute a framework of a part before the “matrix” is introduced to form a “composite”. (L.N. 183 of 1999) 4 “CE”
 
-  - Def. “Circuit element” (電路元件) A single active or passive functional part of an electronic circuit which may be a diode, a transistor, a resistor or a capacitor.
+        - “CE” is equivalent to “computing element”. (L.N. 183 of 1999)
 
-  - 7 “Circulation-controlled anti-torque or circulation-controlled directional control systems” (循環控制式反力矩或循環控制式方向控制系統) Systems that use air blown over aerodynamic surfaces to increase or control the forces generated by the surfaces.
+        - 6 “Chemical laser” (化學雷射器)
 
-  - 1 7 9 “Civil aircraft” (民用飛機) ML10 Those “aircraft” listed by designation in published airworthiness certification lists by the civil aviation authorities to fly commercial civil internal and external routes or for legitimate civil, private or business use. (See also “aircraft”) (L.N. 183 of 1999)
+        - A “laser” in which the excited species is produced by the output energy from a chemical reaction.
 
-  - 1 “Commingled” (混合) Filament to filament blending of thermoplastic fibres and reinforcement fibres in order to produce a fibre reinforcement “matrix” mix in total fibre form. (L.N. 132 of 2001)
+        - 7 “Circle of equal probability” (CEP) (圓徑概率誤差)
 
-  - 1 “Comminution” (粉碎) A process to reduce a material to particles by crushing or grinding.
+        - A measure of accuracy defined as the radius of the circle centred at the target, at a specific range, in which 50% of the payloads impact.
 
-  - 5 “Common channel signalling” (共通道訊號制) A signalling method in which a single channel between exchanges conveys, by means of labelled messages, signalling information relating to a multiplicity of circuits or calls and other information such as that used for network management.
+        - Def. “Circuit element” (電路元件)
 
-  - 4 “Communications channel controller” (通訊頻道控制器) The physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access. (L.N. 183 of 1999)
+        - A single active or passive functional part of an electronic circuit which may be a diode, a transistor, a resistor or a capacitor.
 
-  - 1 2 6 8 “Composite” (複合、複合物) 9 A “matrix” and an additional phase or additional phases consisting of particles, whiskers, fibres or any combination thereof, present for a specific purpose or purposes.
+        - 7 “Circulation-controlled anti-torque or circulation-controlled directional control systems” (循環控制式反力矩或循環控制式方向控制系統)
 
-  - 3 4 “Composite theoretical performance” (“CTP”) (合成理論效能) A measure of computational performance given in millions of theoretical operations per second (Mtops), calculated using the aggregation of “computing elements”. N.B.: See Category 4, Technical Note. (L.N. 183 of 1999)
+        - Systems that use air blown over aerodynamic surfaces to increase or control the forces generated by the surfaces.
 
-  - 2 “Compound rotary table” (合成旋轉台) A table allowing the workpiece to rotate and tilt about two non-parallel axes, which can be coordinated simultaneously for “contouring control”.
+        - 1 7 9 “Civil aircraft” (民用飛機)
 
-  - 4 “Computing element” (“CE”) (計算元件) The smallest computational unit that produces an arithmetic or logic result.
+        - ML10 Those “aircraft” listed by designation in published airworthiness certification lists by the civil aviation authorities to fly commercial civil internal and external routes or for legitimate civil, private or business use. (See also “aircraft”) (L.N. 183 of 1999)
 
-  - 2 “Contouring control” (輪廓控制) Two or more “numerically controlled” motions operating in accordance with instructions that specify the next required position and the required feed rates to that position. These feed rates are varied in relation to each other so that a desired contour is generated (Ref. ISO/DIS 2806-1980).
+        - 1 “Commingled” (混合)
 
-  - ML3 “Conventional unguided projectiles” (常規非制導式投射物) Are those which do not incorporate:
+        - Filament to filament blending of thermoplastic fibres and reinforcement fibres in order to produce a fibre reinforcement “matrix” mix in total fibre form. (L.N. 132 of 2001)
 
-    - (a) Directional warheads, including warheads employing multi-point initiation to achieve focused blast/fragmentation characteristics;
+        - 1 “Comminution” (粉碎)
 
-    - (b) Sub-munitions or sub-munition capacity;
+        - A process to reduce a material to particles by crushing or grinding.
 
-    - (c) Fuel/air explosives;
+        - 5 “Common channel signalling” (共通道訊號制)
 
-    - (d) Provisions for increasing the range or impact velocity;
+        - A signalling method in which a single channel between exchanges conveys, by means of labelled messages, signalling information relating to a multiplicity of circuits or calls and other information such as that used for network management.
 
-    - (e) Kinetic energy armour penetration capability;
+        - 4 “Communications channel controller” (通訊頻道控制器)
 
-    - (f) Mid-flight guidance;
+        - The physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access. (L.N. 183 of 1999)
 
-    - (g) Terminal guidance.
+        - 1 2 6 8 “Composite” (複合、複合物)
 
-  - 1 3 6 “Critical temperature” (臨界溫度) (Sometimes referred to as the transition temperature) of a specific “superconductive” material is the temperature at which the material loses all resistance to the flow of direct electrical current.
+        - 9 A “matrix” and an additional phase or additional phases consisting of particles, whiskers, fibres or any combination thereof, present for a specific purpose or purposes.
 
-  - 5 “Cryptography” (密碼學) The discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more ‘secret parameters’ (e.g., crypto variables) or associated key management. Technical Note: (L.N. 132 of 2001) ‘Secret parameter’: a constant or key kept from the knowledge of others or shared only within a group. 3 4 “CTP”
+        - 3 4 “Composite theoretical performance” (“CTP”) (合成理論效能)
 
-  - “CTP” is equivalent to “Composite theoretical performance”. (L.N. 183 of 1999) 7 “Data-Based Referenced Navigation” (“DBRN”) Systems (資料庫參考導航 (“DBRN”) 系統) Systems which use various sources of previously measured geo-mapping data integrated to provide accurate navigation information under dynamic conditions. Data sources include bathymetric maps, stellar maps, gravity maps, magnetic maps or 3-D digital terrain maps. (L.N. 65 of 2004)
+        - A measure of computational performance given in millions of theoretical operations per second (Mtops), calculated using the aggregation of “computing elements”.
 
-  - 5 “Data signalling rate” (數據傳輸率) The rate, as defined in ITU Recommendation 53-36, taking into account that, for non-binary modulation, baud and bit per second are not equal. Bits for coding, checking and synchronisation functions are to be included. Note:
+        - N.B.:
 
-  - When determining the “data signalling rate”, servicing and administrative channels shall be excluded.
+        - See Category 4, Technical Note. (L.N. 183 of 1999)
 
-  - Technical Note:
+        - 2 “Compound rotary table” (合成旋轉台)
 
-  - It is the maximum one-way rate, i.e. the maximum rate in either transmission or reception. (L.N. 132 of 2001)
+        - A table allowing the workpiece to rotate and tilt about two non-parallel axes, which can be coordinated simultaneously for “contouring control”.
 
-  - 6 “Deformable mirrors” (可變形鏡面) Mirrors:
+        - 4 “Computing element” (“CE”) (計算元件)
 
-    - (a) Having a single continuous optical reflecting surface which is dynamically deformed by the application of individual torques or forces to compensate for distortions in the optical waveform incident upon the mirror; or
+        - The smallest computational unit that produces an arithmetic or logic result.
 
-    - (b) Having multiple optical reflecting elements that can be individually and dynamically be repositioned by the application of torques or forces to compensate for distortions in the optical waveform incident upon the mirror.
+        - 2 “Contouring control” (輪廓控制)
 
-    - ”Deformable mirrors” are also known as adaptive optic mirrors.
+        - Two or more “numerically controlled” motions operating in accordance with instructions that specify the next required position and the required feed rates to that position. These feed rates are varied in relation to each other so that a desired contour is generated (Ref. ISO/DIS 2806-1980).
 
-  - 0 “Depleted uranium” (貧化鈾) Uranium depleted in the isotope 235 below that occurring in nature.
+        - ML3 “Conventional unguided projectiles” (常規非制導式投射物)
 
-  - GTN “Development” (發展)
+        - Are those which do not incorporate:
 
-  - NTN | Is related to all stages prior to serial production, such as: design, design research,
+      - (a) Directional warheads, including warheads employing multi-point initiation to achieve focused blast/fragmentation characteristics;
 
-  - All | design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, layouts.
+      - (b) Sub-munitions or sub-munition capacity;
 
-  - 1 2 9 “Diffusion bonding” (擴散接合) A solid-state molecular joining of at least two separate metals into a single piece with a joint strength equivalent to that of the weakest material.
+      - (c) Fuel/air explosives;
 
-  - 4 5 “Digital computer” (數字式電腦) Equipment which can, in the form of one or more discrete variables:
+      - (d) Provisions for increasing the range or impact velocity;
 
-    - (a) Accept data;
+      - (e) Kinetic energy armour penetration capability;
 
-    - (b) Store data or instructions in fixed or alterable (writable) storage devices;
+      - (f) Mid-flight guidance;
 
-    - (c) Process data by means of a stored sequence of instructions which is modifiable; and
+      - (g)
 
-    - (d) Provide output of data.
+      - Terminal guidance.
 
-    - Technical Note: (L.N. 132 of 2001)
+        - 1 3 6 “Critical temperature” (臨界溫度)
 
-    - Modifications of a stored sequence of instructions include replacement of fixed storage devices, but not a physical change in wiring or interconnections.
+        - (Sometimes referred to as the transition temperature) of a specific “superconductive” material is the temperature at which the material loses all resistance to the flow of direct electrical current.
 
-  - 5 “Digital transfer rate” (數字傳送率) The total bit rate of the information that is directly transferred on any type of medium. (See also “total digital transfer rate”)
+        - 5 “Cryptography” (密碼學)
 
-  - 2 “Direct-acting hydraulic pressing” (直接作用液壓成形) A deformation process which uses a fluid-filled flexible bladder in direct contact with the workpiece.
+        - The discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more ‘secret parameters’ (e.g., crypto variables) or associated key management.
 
-  - Def. “Discrete component” (分立零件) A separately packaged “circuit element” with its own external connections.
+        - Technical Note: (L.N. 132 of 2001)
 
-  - 7 “Drift rate” (gyro) (漂移率) (陀螺儀) The time rate of output deviation from the desired output. It consists of random and systematic components and is expressed as an equivalent input angular displacement per unit time with respect to inertial space.
+        - ’Secret parameter’: a constant or key kept from the knowledge of others or shared only within a group. 3 4 “CTP”
 
-  - 5 “Dynamic adaptive routing” (動態適應路向選擇) Automatic rerouting of traffic based on sensing and analysis of current actual network conditions. Note: (L.N. 132 of 2001) This does not include cases of routing decisions taken on predefined information.
+        - “CTP” is equivalent to “Composite theoretical performance”. (L.N. 183 of 1999)
 
-  - 3 “Dynamic signal analysers” (動態訊號分析器) “Signal analysers” which use digital sampling and transformation techniques to form a Fourier spectrum display of the given waveform including amplitude and phase information. (See also “signal analysers”)
+        - 7 “Data-Based Referenced Navigation” (“DBRN”) Systems (資料庫參考導航 (“DBRN”) 系統)
 
-  - 0 1 “Effective gram”, “Effective gramme” (有效克)
+        - Systems which use various sources of previously measured geo-mapping data integrated to provide accurate navigation information under dynamic conditions. Data sources include bathymetric maps, stellar maps, gravity maps, magnetic maps or 3-D digital terrain maps. (L.N. 65 of 2004)
 
-    - (a) For plutonium isotopes and uranium-233, the isotope weight in grams or grammes;
+        - 5 “Data signalling rate” (數據傳輸率)
 
-    - (b) For uranium enriched 1 per cent or greater in the isotope uranium-235, the element weight in grams or grammes multiplied by the square of its enrichment expressed as a decimal weight fraction;
+        - The rate, as defined in ITU Recommendation 53-36, taking into account that, for non-binary modulation, baud and bit per second are not equal. Bits for coding, checking and synchronisation functions are to be included.
 
-    - (c) For uranium enriched below 1 per cent in the isotope uranium-235, the element weight in grams or grammes multiplied by 0.0001. (L.N. 132 of 2001)
+        - Note:
 
-  - 3 4 5 “Electronic assemblies” (電子組件) A number of electronic components (including “circuit elements”, “discrete components” and integrated circuits) connected together to perform a specific function, which are replaceable as an entity and are normally capable of being disassembled.
+        - When determining the “data signalling rate”, servicing and administrative channels shall be excluded.
 
-  - 5 6 “Electronically steerable phased array antenna” (電子控向相位陣列天線) An antenna which forms a beam by means of phase coupling, (i.e., the beam direction is controlled by the complex excitation coefficients of the radiating elements) and the direction of that beam can be varied (both in transmission and reception) in azimuth or in elevation, or both, by application of an electrical signal. (L.N. 183 of 1999)
+        - Technical Note:
 
-  - 2 “End-effectors” (末端效應器) ML17 “End-effectors” include grippers, ‘active tooling units’ and any other tooling that is attached to the baseplate on the end of a “robot” manipulator arm. N.B.: ‘Active tooling unit’: a device for applying motive power, process energy or sensing to the workpiece.
+        - It is the maximum one-way rate, i.e. the maximum rate in either transmission or reception. (L.N. 132 of 2001)
 
-  - ML8 “Energetic materials” (高能物料) Substances or mixtures that react chemically to release energy required for their intended application. “Explosives”, “pyrotechnics” and “propellants” are subclasses of energetic materials. (L.N. 65 of 2004)
+        - 6 “Deformable mirrors” (可變形鏡面)
 
-  - 6 “Equivalent density” (等效密度) The mass of an optic per unit optical area projected onto the optical surface.
+        - Mirrors:
 
-  - 4 7 “Expert systems” (專家系統) Systems providing results by application of rules to data which are stored independently of the “programme” and capable of any of the following:
+      - (a) Having a single continuous optical reflecting surface which is dynamically deformed by the application of individual torques or forces to compensate for distortions in the optical waveform incident upon the mirror; or
 
-    - (a) Modifying automatically the “source code” introduced by the user;
+      - (b) Having multiple optical reflecting elements that can be individually and dynamically be repositioned by the application of torques or forces to compensate for distortions in the optical waveform incident upon the mirror.
 
-    - (b) Providing knowledge linked to a class of problems in quasi-natural language; or
+    - “Deformable mirrors” are also known as adaptive optic mirrors.
 
-    - (c) Acquiring the knowledge required for their development (symbolic training).
+      - 0 “Depleted uranium” (貧化鈾) Uranium depleted in the isotope 235 below that occurring in nature.
 
-  - ML8 “Explosives” (炸藥) (L.N. 65 of 2004) ML18 Solid, liquid or gaseous substances or mixtures of substances which, in their application as primary, booster, or main charges in warheads, demolition and other applications, are required to detonate. (L.N. 65 of 2004)
+      - GTN “Development” (發展)
 
-  - ML7 “Expression vectors” (傳遞病媒) Carriers (e.g., plasmid or virus) used to introduce genetic material into host cells.
+      - NTN | Is related to all stages prior to serial production, such as: design, design research,
 
-  - 7 9 “FADEC” see “Full authority digital engine control”.
+      - All | design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, layouts.
 
-  - 3 “Family” (族) Consists of microprocessor or microcomputer microcircuits with:
+      - 1 2 9 “Diffusion bonding” (擴散接合) A solid-state molecular joining of at least two separate metals into a single piece with a joint strength equivalent to that of the weakest material.
 
-    - (a) The same architecture;
+      - 4 5 “Digital computer” (數字式電腦) Equipment which can, in the form of one or more discrete variables:
 
-    - (b) The same basic instruction set; and
+      - (a) Accept data;
 
-    - (c) the same basic technology (e.g., only N-channel Metal Oxide Semiconductor (NMOS) or only Complementary Metal Oxide Semiconductor (CMOS)).
+      - (b) Store data or instructions in fixed or alterable (writable) storage devices;
 
-  - 4 “Fault tolerance” (容錯) The capability of a computer system, after any malfunction of any of its hardware or “software” components, to continue to operate without human intervention, at a given level of service that provides continuity of operation, data integrity and recovery of service within a given time.
+      - (c) Process data by means of a stored sequence of instructions which is modifiable; and
 
-  - 0 1 8 “Fibrous or filamentary materials” (纖維或絲狀物料) Include:
+      - (d)
 
-    - (a) Continuous “monofilaments”;
+      - Provide output of data.
 
-    - (b) Continuous “yarns” and “rovings”;
+      - Technical Note: (L.N. 132 of 2001)
 
-    - (c) “Tapes”, fabrics, random mats and braids;
+      - Modifications of a stored sequence of instructions include replacement of fixed storage devices, but not a physical change in wiring or interconnections.
 
-    - (d) Chopped fibres, staple fibres and coherent fibre blankets;
+        - 5 “Digital transfer rate” (數字傳送率) The total bit rate of the information that is directly transferred on any type of medium. (See also “total digital transfer rate”)
 
-    - (e) Whiskers, either monocrystalline or polycrystalline, of any length;
+        - 2 “Direct-acting hydraulic pressing” (直接作用液壓成形) A deformation process which uses a fluid-filled flexible bladder in direct contact with the workpiece.
 
-    - (f) Aromatic polyamide pulp.
+        - Def. “Discrete component” (分立零件) A separately packaged “circuit element” with its own external connections.
 
-  - 3 “Film type integrated circuit” (薄膜型集成電路) An array of ‘circuit elements’ and metallic interconnections formed by deposition of a thick or thin film on an insulating “substrate”.
+        - 7 “Drift rate” (gyro) (漂移率) (陀螺儀) The time rate of output deviation from the desired output. It consists of random and systematic components and is expressed as an equivalent input angular displacement per unit time with respect to inertial space.
 
-- (L.N. 132 of 2001)
+        - 5 “Dynamic adaptive routing” (動態適應路向選擇) Automatic rerouting of traffic based on sensing and analysis of current actual network conditions. Note: (L.N. 132 of 2001) This does not include cases of routing decisions taken on predefined information.
+
+        - 3 “Dynamic signal analysers” (動態訊號分析器) “Signal analysers” which use digital sampling and transformation techniques to form a Fourier spectrum display of the given waveform including amplitude and phase information. (See also “signal analysers”)
+
+        - 0 1 “Effective gram”, “Effective gramme” (有效克)
+
+      - (a) For plutonium isotopes and uranium-233, the isotope weight in grams or grammes;
+
+      - (b) For uranium enriched 1 per cent or greater in the isotope uranium-235, the element weight in grams or grammes multiplied by the square of its enrichment expressed as a decimal weight fraction;
+
+      - (c)
+
+      - For uranium enriched below 1 per cent in the isotope uranium-235, the element weight in grams or grammes multiplied by 0.0001. (L.N. 132 of 2001)
+
+        - 2 3 4 5 “Electronic assemblies” (電子組件) (L.N. 95 of 2006) A number of electronic components (including “circuit elements”, “discrete components” and integrated circuits) connected together to perform a specific function, which are replaceable as an entity and are normally capable of being disassembled.
+
+        - 5 6 “Electronically steerable phased array antenna” (電子控向相位陣列天線) An antenna which forms a beam by means of phase coupling, (i.e., the beam direction is controlled by the complex excitation coefficients of the radiating elements) and the direction of that beam can be varied (both in transmission and reception) in azimuth or in elevation, or both, by application of an electrical signal. (L.N. 183 of 1999)
+
+        - 2 “End-effectors” (末端效應器) ML17 “End-effectors” include grippers, ‘active tooling units’ and any other tooling that is attached to the baseplate on the end of a “robot” manipulator arm. N.B.: ‘Active tooling unit’: a device for applying motive power, process energy or sensing to the workpiece.
+
+        - ML8 “Energetic materials” (高能物料) Substances or mixtures that react chemically to release energy required for their intended application. “Explosives”, “pyrotechnics” and “propellants” are subclasses of energetic materials. (L.N. 65 of 2004)
+
+        - 6 “Equivalent density” (等效密度) The mass of an optic per unit optical area projected onto the optical surface.
+
+        - 4 7 “Expert systems” (專家系統) Systems providing results by application of rules to data which are stored independently of the “programme” and capable of any of the following:
+
+      - (a) Modifying automatically the “source code” introduced by the user;
+
+      - (b) Providing knowledge linked to a class of problems in quasi-natural language; or
+
+      - (c)
+
+      - Acquiring the knowledge required for their development (symbolic training).
+
+        - ML8 “Explosives” (炸藥) (L.N. 65 of 2004) ML18 Solid, liquid or gaseous substances or mixtures of substances which, in their application as primary, booster, or main charges in warheads, demolition and other applications, are required to detonate. (L.N. 65 of 2004)
+
+        - ML7 “Expression vectors” (傳遞病媒) Carriers (e.g., plasmid or virus) used to introduce genetic material into host cells.
+
+        - 7 9 “FADEC” see “Full authority digital engine control”.
+
+        - 3 “Family” (族) Consists of microprocessor or microcomputer microcircuits with:
+
+      - (a) The same architecture;
+
+      - (b) The same basic instruction set; and
+
+      - (c)
+
+      - the same basic technology (e.g., only N-channel Metal Oxide Semiconductor (NMOS) or only Complementary Metal Oxide Semiconductor (CMOS)).
+
+        - 4 “Fault tolerance” (容錯) The capability of a computer system, after any malfunction of any of its hardware or “software” components, to continue to operate without human intervention, at a given level of service that provides continuity of operation, data integrity and recovery of service within a given time.
+
+        - 0 1 8 “Fibrous or filamentary materials” (纖維或絲狀物料) Include:
+
+      - (a) Continuous “monofilaments”;
+
+      - (b) Continuous “yarns” and “rovings”;
+
+      - (c) “Tapes”, fabrics, random mats and braids;
+
+      - (d) Chopped fibres, staple fibres and coherent fibre blankets;
+
+      - (e) Whiskers, either monocrystalline or polycrystalline, of any length;
+
+      - (f)
+
+      - Aromatic polyamide pulp.
+
+        - 3 “Film type integrated circuit” (薄膜型集成電路) An array of ‘circuit elements’ and metallic interconnections formed by deposition of a thick or thin film on an insulating “substrate”.
+
+  - (L.N. 132 of 2001)
 
   - ML15 “First generation image intensifier tubes” (第一代影像強化管) Electrostatically focused tubes, employing input and output fibre optic or glass face plates, multi-alkali photocathodes (S-20 or S-25), but not microchannel plate amplifiers. (L.N. 183 of 1999)
 
-  - 5 “Fixed” (固定式) The coding or compression algorithm cannot accept externally supplied parameters (e.g., cryptographic or key variables) and cannot be modified by the user.
+    - 5 “Fixed” (固定式) The coding or compression algorithm cannot accept externally supplied parameters (e.g., cryptographic or key variables) and cannot be modified by the user.
 
-  - 7 “Flight control optical sensor array” (飛行控制光感測器陣列) A network of distributed optical sensors, using “laser” beams, to provide real-time flight control data for on-board processing.
+    - 7 “Flight control optical sensor array” (飛行控制光感測器陣列) A network of distributed optical sensors, using “laser” beams, to provide real-time flight control data for on-board processing.
 
-  - 7 “Flight path optimization” (飛行航線優化) A procedure that minimizes deviations from a four-dimensional (space and time) desired trajectory based on maximizing performance or effectiveness for mission task.
+    - 7 “Flight path optimization” (飛行航線優化) A procedure that minimizes deviations from a four-dimensional (space and time) desired trajectory based on maximizing performance or effectiveness for mission task.
 
-  - 6 “Focal plane array” (聚焦平面陣列) A linear or two-dimensional planar layer, or combination of planar layers, of individual detector elements, with or without readout electronics, which work in the focal plane. Note: (L.N. 132 of 2001)
+    - 6 “Focal plane array” (聚焦平面陣列) A linear or two-dimensional planar layer, or combination of planar layers, of individual detector elements, with or without readout electronics, which work in the focal plane. Note: (L.N. 132 of 2001)
 
-  - This definition does not include a stack of single detector elements or any two, three or four element detectors provided time delay and integration is not performed within the element.
+    - This definition does not include a stack of single detector elements or any two, three or four element detectors provided time delay and integration is not performed within the element.
 
-  - 3 “Fractional bandwidth” (分頻寬) The “instantaneous bandwidth” divided by the centre frequency, expressed as a percentage. (L.N. 132 of 2001)
+    - 3 “Fractional bandwidth” (分頻寬) The “instantaneous bandwidth” divided by the centre frequency, expressed as a percentage. (L.N. 132 of 2001)
 
-  - 6 “Frequency agility” (radar) (頻率跳頻) (雷達)-see “Radar frequency agility”
+    - 6 “Frequency agility” (radar) (頻率跳頻) (雷達)-see “Radar frequency agility”
 
-  - 5 “Frequency hopping” (跳頻) A form of “spread spectrum” in which the transmission frequency of a single communication channel is made to change by a random or pseudo-random sequence of discrete steps. (L.N. 132 of 2001)
+    - 5 “Frequency hopping” (跳頻) A form of “spread spectrum” in which the transmission frequency of a single communication channel is made to change by a random or pseudo-random sequence of discrete steps. (L.N. 132 of 2001)
 
-  - 3 5 “Frequency switching time” (頻率切換時間) The maximum time (i.e., delay), taken by a signal, when switched from one selected output frequency to another selected output frequency, to reach:
+    - 3 5 “Frequency switching time” (頻率切換時間) The maximum time (i.e., delay), taken by a signal, when switched from one selected output frequency to another selected output frequency, to reach:
 
     - (a) A frequency within 100 Hz of the final frequency; or
 
-    - (b) An output level within 1 dB of the final output level.
+      - (b)
 
-  - 3 “Frequency synthesiser” (頻率合成器) Any kind of frequency source or signal generator, regardless of the actual technique used, providing a multiplicity of simultaneous or alternative output frequencies, from one or more outputs, controlled by, derived from or disciplined by a lesser number of standard (or master) frequencies.
+      - An output level within 1 dB of the final output level.
 
-  - 7 9 “Full Authority Digital Engine Control” (“FADEC”) (全授權數字式引擎控制) An electronic control system for gas turbine or combined cycle engines utilising a digital computer to control the variables required to regulate engine thrust or shaft power output throughout the engine operating range from the beginning of fuel metering to fuel shutoff.
+        - 3 “Frequency synthesiser” (頻率合成器) Any kind of frequency source or signal generator, regardless of the actual technique used, providing a multiplicity of simultaneous or alternative output frequencies, from one or more outputs, controlled by, derived from or disciplined by a lesser number of standard (or master) frequencies.
 
-  - 1 “Gas atomization” (氣體霧化) (L.N. 65 of 2004) A process to reduce a molten stream of metal alloy to droplets of 500 μm diameter or less by a high pressure gas stream.
+        - 7 9 “Full Authority Digital Engine Control” (“FADEC”) (全授權數字式引擎控制) An electronic control system for gas turbine or combined cycle engines utilising a digital computer to control the variables required to regulate engine thrust or shaft power output throughout the engine operating range from the beginning of fuel metering to fuel shutoff.
 
-  - 6 “Geographically dispersed” (地理上分散式) Sensors are considered “geographically dispersed” when each location is distant from any other more than 1500 m in any direction. Mobile sensors are always considered “geographically dispersed”.
+        - 1 “Gas atomization” (氣體霧化) (L.N. 65 of 2004) A process to reduce a molten stream of metal alloy to droplets of 500 μm diameter or less by a high pressure gas stream.
 
-  - 7 “Guidance set” (制導裝置) Systems that integrate the process of measuring and computing a vehicles position and velocity (i.e. navigation) with that of computing and sending commands to the vehicles flight control systems to correct the trajectory.
+        - 6 “Geographically dispersed” (地理上分散式) Sensors are considered “geographically dispersed” when each location is distant from any other more than 1500 m in any direction. Mobile sensors are always considered “geographically dispersed”.
 
-  - 2 “Hot isostatic densification” (熱均壓緻密化) A process of pressurising a casting at temperatures exceeding 375 K (1020C) in a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal force in all directions to reduce or eliminate internal voids in the casting.
+        - 7 “Guidance set” (制導裝置) Systems that integrate the process of measuring and computing a vehicles position and velocity (i.e. navigation) with that of computing and sending commands to the vehicles flight control systems to correct the trajectory.
 
-  - 4 “Hybrid computer” (混合式電腦) Equipment which can:
+        - 2 “Hot isostatic densification” (熱均壓緻密化) A process of pressurising a casting at temperatures exceeding 375 K (1020C) in a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal force in all directions to reduce or eliminate internal voids in the casting.
 
-    - (a) Accept data;
+        - 4 “Hybrid computer” (混合式電腦) Equipment which can:
 
-    - (b) Process data, in both analogue and digital representations; and
+      - (a) Accept data;
 
-    - (c) Provide output of data.
+      - (b) Process data, in both analogue and digital representations; and
 
-  - 3 “Hybrid integrated circuit” (混合集成電路) Any combination of integrated circuit(s), integrated circuits with ‘circuit elements’ or ‘discrete components’ connected together to perform (a) specific function(s), and having all the following characteristics:
+      - (c)
 
-    - (a) Containing at least one unencapsulated device;
+      - Provide output of data.
 
-    - (b) Connected together using typical integrated circuit production methods;
+        - 3 “Hybrid integrated circuit” (混合集成電路) Any combination of integrated circuit(s), integrated circuits with ‘circuit elements’ or ‘discrete components’ connected together to perform (a) specific function(s), and having all the following characteristics:
 
-    - (c) Replaceable as an entity; and
+      - (a) Containing at least one unencapsulated device;
 
-    - (d) Not normally capable of being disassembled.
+      - (b) Connected together using typical integrated circuit production methods;
 
-    - N.B.:
+      - (c) Replaceable as an entity; and
 
-    - 1. ‘Circuit element’: a single active or passive functional part of an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.
+      - (d) Not normally capable of being disassembled.
 
-    - 2. ‘Discrete component’: a separately packaged ‘circuit element’ with its own external connections.
+      - N.B.:
 
-  - 4 “Image enhancement” (影像增強) The processing of externally derived information-bearing images by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform). This does not include algorithms using only linear or rotational transformation of a single image, such as translation, feature extraction, registration or false coloration.
+      - 1. ‘Circuit element’: a single active or passive functional part of an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.
 
-  - 1 “Immunotoxin” (抗毒素) A conjugate of one cell specific monoclonal antibody and a “toxin” or “sub-unit of toxin”, that selectively affects diseased cells.
+      - 2.
 
-  - 5 “Information security” (資訊安全) All the means and functions ensuring the accessibility, confidentiality or integrity of information or communication, excluding the means and functions intended to safeguard against malfunctions. This includes “cryptography”, ‘cryptanalysis’, protection against compromising emanations and computer security. Technical Note: (L.N. 132 of 2001) ‘cryptanalysis’: the analysis of a cryptographic system or its inputs and outputs to derive confidential variables or sensitive data, including clear text. (ISO 7498-2-1988 (E), paragraph 3.3.18)
+      - ‘Discrete component’: a separately packaged ‘circuit element’ with its own external connections.
 
-  - 3 5 “Instantaneous bandwidth” (瞬間頻寬) The bandwidth over which output power remains constant within 3 dB without adjustment of other operating parameters.
+        - 4 “Image enhancement” (影像增強) The processing of externally derived information-bearing images by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform). This does not include algorithms using only linear or rotational transformation of a single image, such as translation, feature extraction, registration or false coloration.
 
-  - 6 “Instrumented range” (儀器測量範圍) The specified unambiguous display range of a radar.
+        - 1 “Immunotoxin” (抗毒素) A conjugate of one cell specific monoclonal antibody and a “toxin” or “sub-unit of toxin”, that selectively affects diseased cells.
 
-  - 9 “Insulation” (絕緣襯片) Material intended to provide protection from the effects of heat during the operation of rocket motors. The material includes cured or semi-cured compounded rubber sheet stock containing an insulating or refractory material. It is applied to the components of a rocket motor, i.e. the case, nozzle, inlets, case closures.
+        - 5 “Information security” (資訊安全) All the means and functions ensuring the accessibility, confidentiality or integrity of information or communication, excluding the means and functions intended to safeguard against malfunctions. This includes “cryptography”, ‘cryptanalysis’, protection against compromising emanations and computer security. Technical Note: (L.N. 132 of 2001) ‘cryptanalysis’: the analysis of a cryptographic system or its inputs and outputs to derive confidential variables or sensitive data, including clear text. (ISO 7498-2-1988 (E), paragraph 3.3.18)
 
-  - 6 “Interconnected radar sensors” (相結連的雷達感測器) Two or more radar sensors are interconnected when they mutually exchange data in real time.
+        - 3 5 “Instantaneous bandwidth” (瞬間頻寬) The bandwidth over which output power remains constant within 3 dB without adjustment of other operating parameters.
 
-  - GTN “In the public domain” (在公共領域內) GSN As it applies to these Lists, means “technology” or “software” which has been made available without restrictions upon its further dissemination. Note: (L.N. 132 of 2001) Copyright restrictions do not remove “technology” or “software” from being “in the public domain”.
+        - 6 “Instrumented range” (儀器測量範圍) The specified unambiguous display range of a radar.
 
-  - 9 “Interior lining” (內襯套) Suited for the bond interface between the solid propellant and the case or insulating liner. Usually a liquid polymer based dispersion of refractory or insulating materials, e.g. carbon filled hydroxyl terminated polybutadiene (HTPB) or other polymer with added curing agents sprayed or screeded over a case interior.
+        - 9 “Insulation” (絕緣襯片) Material intended to provide protection from the effects of heat during the operation of rocket motors. The material includes cured or semi-cured compounded rubber sheet stock containing an insulating or refractory material. It is applied to the components of a rocket motor, i.e. the case, nozzle, inlets, case closures.
 
-  - 6 “Intrinsic magnetic gradiometer” (固有磁梯度計) A single magnetic field gradient sensing element and associated electronics, the output of which is a measure of magnetic field gradient.
+        - 6 “Interconnected radar sensors” (相結連的雷達感測器) Two or more radar sensors are interconnected when they mutually exchange data in real time.
 
-  - (See also “Magnetic gradiometer”)
+        - GTN “In the public domain” (在公共領域內) GSN As it applies to these Lists, means “technology” or “software” which has been made available without restrictions upon its further dissemination. Note: (L.N. 132 of 2001) Copyright restrictions do not remove “technology” or “software” from being “in the public domain”.
 
-  - 2 9 “ISO” The International Standards Organisation.
+        - 9 “Interior lining” (內襯套) Suited for the bond interface between the solid propellant and the case or insulating liner. Usually a liquid polymer based dispersion of refractory or insulating materials, e.g. carbon filled hydroxyl terminated polybutadiene (HTPB) or other polymer with added curing agents sprayed or screeded over a case interior.
 
-  - 1 “Isolated live cultures” (獨立的活培養物) Includes live cultures in dormant form and in dried preparations.
+        - 6 “Intrinsic magnetic gradiometer” (固有磁梯度計) A single magnetic field gradient sensing element and associated electronics, the output of which is a measure of magnetic field gradient.
 
-  - 2 “Isostatic presses” (均壓裝置) Equipment capable of pressurising a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal pressure in all directions within the cavity upon a workpiece or material.
+        - (See also “Magnetic gradiometer”)
 
-  - 3 5 “ITU” International Telecommunication Union. (36 of 2000 s. 28)
+        - 2 9 “ISO” The International Standards Organisation.
 
-  - “Laser” (雷射器)-see “Chemical laser” “Laser” “Q-switched laser” “Super High Power Laser” “Transfer laser”
+        - 1 “Isolated live cultures” (獨立的活培養物) Includes live cultures in dormant form and in dried preparations.
 
-  - 0 2 3 5 “Laser” (雷射器)
+        - 2 “Isostatic presses” (均壓裝置) Equipment capable of pressurising a closed cavity through various media (gas, liquid, solid particles, etc.) to create equal pressure in all directions within the cavity upon a workpiece or material.
 
-  - 6 7 8 9 ML9 ML19 | An assembly of components which produce both spatially and temporally coherent light that is amplified by stimulated emission of radiation. (L.N. 132 of 2001)
+        - 3 5 “ITU” International Telecommunication Union. (36 of 2000 s. 28)
 
-  - 2 “Linearity” (線性度) (Usually measured in terms of non-linearity) is the maximum deviation of the actual characteristic (average of upscale and downscale readings), positive or negative, from a straight line so positioned as to equalise and minimise the maximum deviations.
+        - “Laser” (雷射器)-see “Chemical laser” “Laser” “Q-switched laser” “Super High Power Laser” “Transfer laser”
 
-  - 4 “Local area network” (區域網絡) A data communication system which:
+        - 0 2 3 5 “Laser” (雷射器)
 
-    - (a) Allows an arbitrary number of independent ‘data devices’ to communicate directly with each other; and
+        - 6 7 8 9 ML9 ML19 | An assembly of components which produce both spatially and temporally coherent light that is amplified by stimulated emission of radiation. (L.N. 132 of 2001)
 
-    - (b) Is confined to a geographical area of moderate size (e.g., office building, plant, campus, warehouse).
+        - ML10 “Lighter-than-air vehicles” (輕於空氣載具) Balloons and airships that rely on hot air or on lighter-than-air gases such as helium or hydrogen for their lift. (L.N. 95 of 2006)
 
-    - N.B.:
+        - 2 “Linearity” (線性度) (Usually measured in terms of non-linearity) is the maximum deviation of the actual characteristic (average of upscale and downscale readings), positive or negative, from a straight line so positioned as to equalise and minimise the maximum deviations.
 
-    - ’Data device’: equipment capable of transmitting or receiving sequences of digital information.
+        - 4 “Local area network” (區域網絡) A data communication system which:
 
-  - 6 “Magnetic gradiometers” (磁梯度計) Instruments designed to detect the spatial variation of magnetic fields from sources external to the instrument. They consist of multiple “magnetometers” and associated electronics, the output of which is a measure of magnetic field gradient.
+      - (a) Allows an arbitrary number of independent ‘data devices’ to communicate directly with each other; and
 
-  - (See also “Intrinsic magnetic gradiometer”)
+      - (b)
 
-  - 6 “Magnetometers” (磁動計) Instruments designed to detect magnetic fields from sources external to the instrument. They consist of a single magnetic field sensing element and associated electronics, the output of which is a measure of the magnetic field.
+      - Is confined to a geographical area of moderate size (e.g., office building, plant, campus, warehouse).
 
-  - 4 “Main storage” (主記憶體) The primary storage for data or instructions for rapid access by a central processing unit. It consists of the internal storage of a “digital computer” and any hierarchical extension thereto, such as cache storage or non-sequentially accessed extended storage.
+      - N.B.:
 
-  - 0 “Materials resistant to corrosion by UF6” (可抵抗UF6腐蝕的物料) These may be copper, stainless steel, aluminium, aluminium oxide, aluminium alloys, nickel or alloy containing 60 weight percent or more nickel and UF6-resistant fully fluorinated hydrocarbon polymers, as appropriate for the type of separation process. (L.N. 183 of 1999)
+      - ’Data device’: equipment capable of transmitting or receiving sequences of digital information.
 
-  - 1 2 8 9 “Matrix” (基材) A substantially continuous phase that fills the space between particles, whiskers or fibres.
+        - 6 “Magnetic gradiometers” (磁梯度計) Instruments designed to detect the spatial variation of magnetic fields from sources external to the instrument. They consist of multiple “magnetometers” and associated electronics, the output of which is a measure of magnetic field gradient.
 
-  - 2 “Measurement uncertainty” (測量精度誤差) The characteristic parameter which specifies in what range around the output value the correct value of the measurable variable lies with a confidence level of 95%. It includes the uncorrected systematic deviations, the uncorrected backlash and the random deviations (Reference: ISO 10360-2, or VDI/VDE 2617). (L.N. 183 of 1999)
+        - (See also “Intrinsic magnetic gradiometer”)
 
-  - 1 “Mechanical alloying” (機械合金法) An alloying process resulting from the bonding, fracturing and rebonding of elemental and master alloy powders by mechanical impact. Non-metallic particles may be incorporated in the alloy by addition of the appropriate powders.
+        - 6 “Magnetometers” (磁動計) Instruments designed to detect magnetic fields from sources external to the instrument. They consist of a single magnetic field sensing element and associated electronics, the output of which is a measure of the magnetic field.
 
-  - 5 “Media access unit” (傳輸媒介存取元件) Equipment which contains one or more communication interfaces (“network access controller”, “communications channel controller”, modem or computer bus) to connect terminal equipment to a network.
+        - 4 “Main storage” (主記憶體) The primary storage for data or instructions for rapid access by a central processing unit. It consists of the internal storage of a “digital computer” and any hierarchical extension thereto, such as cache storage or non-sequentially accessed extended storage.
 
-  - 1 “Melt extraction” (熔態抽取) A process to ‘solidify rapidly’ and extract a ribbon-like alloy product by the insertion of a short segment of a rotating chilled block into a bath of a molten metal alloy. N.B.: ‘Solidify rapidly’: solidification of molten material at cooling rates exceeding 1000 K/sec.
+        - 0 “Materials resistant to corrosion by UF6” (可抵抗UF6腐蝕的物料) These may be copper, stainless steel, aluminium, aluminium oxide, aluminium alloys, nickel or alloy containing 60 weight percent or more nickel and UF6-resistant fully fluorinated hydrocarbon polymers, as appropriate for the type of separation process. (L.N. 183 of 1999)
 
-  - 1 “Melt spinning” (熔態旋分) A process to ‘solidify rapidly’ a molten metal stream impinging upon a rotating chilled block, forming a flake, ribbon or rod-like product. N.B.: ‘Solidify rapidly’: solidification of molten material at cooling rates exceeding 1000 K/sec.
+        - 1 2 8 9 “Matrix” (基材) A substantially continuous phase that fills the space between particles, whiskers or fibres.
 
-  - 3 “Microcomputer microcircuit” (微電腦微電路) A “monolithic integrated circuit” or “multichip integrated circuit” containing an arithmetic logic unit (ALU) capable of executing general purpose instructions from an internal storage, on data contained in the internal storage. Technical Note:
+        - 2 “Measurement uncertainty” (測量精度誤差) The characteristic parameter which specifies in what range around the output value the correct value of the measurable variable lies with a confidence level of 95%. It includes the uncorrected systematic deviations, the uncorrected backlash and the random deviations (Reference: ISO 10360-2, or VDI/VDE 2617). (L.N. 183 of 1999)
 
-  - The internal storage may be augmented by an external storage. (L.N. 132 of 2001)
+        - 1 “Mechanical alloying” (機械合金法) An alloying process resulting from the bonding, fracturing and rebonding of elemental and master alloy powders by mechanical impact. Non-metallic particles may be incorporated in the alloy by addition of the appropriate powders.
 
-  - 3 “Microprocessor microcircuit” (微處理器微電路) A “monolithic integrated circuit” or “multichip integrated circuit” containing an arithmetic logic unit (ALU) capable of executing a series of general purpose instructions from an external storage. Technical Note:
+        - 5 “Media access unit” (傳輸媒介存取元件) Equipment which contains one or more communication interfaces (“network access controller”, “communications channel controller”, modem or computer bus) to connect terminal equipment to a network.
 
-  - The “microprocessor microcircuit” normally does not contain integral user-accessible storage, although storage present on-the-chip may be used in performing its logic function.
+        - 1 “Melt extraction” (熔態抽取) A process to ‘solidify rapidly’ and extract a ribbon-like alloy product by the insertion of a short segment of a rotating chilled block into a bath of a molten metal alloy. N.B.: ‘Solidify rapidly’: solidification of molten material at cooling rates exceeding 1000 K/sec.
 
-  - Note:
+        - 1 “Melt spinning” (熔態旋分) A process to ‘solidify rapidly’ a molten metal stream impinging upon a rotating chilled block, forming a flake, ribbon or rod-like product. N.B.: ‘Solidify rapidly’: solidification of molten material at cooling rates exceeding 1000 K/sec.
 
-  - This definition includes chip sets which are designed to operate together to provide the function of a “microprocessor microcircuit”. (L.N. 132 of 2001)
+        - 3 “Microcomputer microcircuit” (微電腦微電路) A “monolithic integrated circuit” or “multichip integrated circuit” containing an arithmetic logic unit (ALU) capable of executing general purpose instructions from an internal storage, on data contained in the internal storage. Technical Note:
 
-  - 1 2 “Microorganisms” (微生物) Bacteria, viruses, mycoplasms, rickettsiae, chlamydiae or fungi, whether natural, enhanced or modified, either in the form of isolated live cultures or as material including living material which has been deliberately inoculated or contaminated with such cultures.
+        - The internal storage may be augmented by an external storage. (L.N. 132 of 2001)
 
-  - Def. “Microprogramme” (微程式) A sequence of elementary instructions, maintained in a special storage, the execution of which is initiated by the introduction of its reference instruction into an instruction register.
+        - 3 “Microprocessor microcircuit” (微處理器微電路) A “monolithic integrated circuit” or “multichip integrated circuit” containing an arithmetic logic unit (ALU) capable of executing a series of general purpose instructions from an external storage. Technical Note:
 
-  - 1-7 9 “Missiles” (導彈) Complete rocket systems and unmanned air vehicle systems, capable of delivering at least 500 kg payload to a range of at least 300 km. 1 “Monofilament” or filament (單絲) 或絲 The smallest increment of fibre, usually several micrometres in diameter.
+        - The “microprocessor microcircuit” normally does not contain integral user-accessible storage, although storage present on-the-chip may be used in performing its logic function.
 
-  - 3 “Monolithic integrated circuit” (單塊集成電路) A combination of passive or active ‘circuit elements’ or both which:
+        - Note:
 
-    - (a) Are formed by means of diffusion processes, implantation processes or deposition processes in or on a single semiconducting piece of material, a so-called ‘chip’;
+        - This definition includes chip sets which are designed to operate together to provide the function of a “microprocessor microcircuit”. (L.N. 132 of 2001)
 
-    - (b) Can be considered as indivisibly associated; and
+        - 1 2 “Microorganisms” (微生物) Bacteria, viruses, mycoplasms, rickettsiae, chlamydiae or fungi, whether natural, enhanced or modified, either in the form of isolated live cultures or as material including living material which has been deliberately inoculated or contaminated with such cultures.
 
-    - (c) Perform the function(s) of a circuit.
+        - Def. “Microprogramme” (微程式) A sequence of elementary instructions, maintained in a special storage, the execution of which is initiated by the introduction of its reference instruction into an instruction register.
 
-    - N.B.:
+        - 1-7 9 “Missiles” (導彈) Complete rocket systems and unmanned air vehicle systems, capable of delivering at least 500 kg payload to a range of at least 300 km. 1 “Monofilament” or filament (單絲) 或絲
 
-    - ’Circuit element’: a single active or passive functional part of an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.
+        - The smallest increment of fibre, usually several micrometres in diameter.
 
-  - 6 “Monospectral imaging sensors” (單光譜影像感測器) Capable of acquisition of imaging data from one discrete spectral band.
+        - 3 “Monolithic integrated circuit” (單塊集成電路) A combination of passive or active ‘circuit elements’ or both which:
 
-  - 3 “Multichip integrated circuit” (多晶粒集成電路) Two or more “monolithic integrated circuits” bonded to a common “substrate”.
+      - (a) Are formed by means of diffusion processes, implantation processes or deposition processes in or on a single semiconducting piece of material, a so-called ‘chip’;
 
-  - 4 “Multi-data-stream processing” (多重資料流處理) The “microprogramme” or equipment architecture technique which permits simultaneous processing of two or more data sequences under the control of one or more instruction sequences by means such as:
+      - (b) Can be considered as indivisibly associated; and
 
-    - (a) Single Instruction Multiple Data (SIMD) architectures such as vector or array processors;
+      - (c)
 
-    - (b) Multiple Single Instruction Multiple Data (MSIMD) architectures;
+      - Perform the function(s) of a circuit.
 
-    - (c) Multiple Instruction Multiple Data (MIMD) architectures, including those which are tightly coupled, closely coupled or loosely coupled; or
+      - N.B.:
 
-    - (d) Structured arrays of processing elements, including systolic arrays.
+      - ’Circuit element’: a single active or passive functional part of an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.
 
-  - 5 “Multilevel security” (多重安全) A class of system containing information with different sensitivities that simultaneously permits access by users with different security clearances and needs-to-know, but prevents users from obtaining access to information for which they lack authorization. Technical Note: (L.N. 132 of 2001) “Multilevel security” is computer security and not computer reliability which deals with equipment fault prevention or human error prevention in general.
+        - 6 “Monospectral imaging sensors” (單光譜影像感測器) Capable of acquisition of imaging data from one discrete spectral band.
 
-  - 6 “Multispectral imaging sensors” (多光譜影像感測器) Are capable of simultaneous or serial acquisition of imaging data from two or more discrete spectral bands. Sensors having more than twenty discrete spectral bands are sometimes referred to as hyperspectral imaging sensors.
+        - 3 “Multichip integrated circuit” (多晶粒集成電路) Two or more “monolithic integrated circuits” bonded to a common “substrate”.
 
-  - 0 “Natural uranium” (天然鈾) Uranium containing the mixtures of isotopes occurring in nature.
+        - 4 “Multi-data-stream processing” (多重資料流處理) The “microprogramme” or equipment architecture technique which permits simultaneous processing of two or more data sequences under the control of one or more instruction sequences by means such as:
 
-  - 4 “Network access controller” (網絡存取控制器) A physical interface to a distributed switching network. It uses a common medium which operates throughout at the same “digital transfer rate” using arbitration (e.g., token or carrier sense) for transmission. Independently from any other, it selects data packets or data groups (e.g., IEEE 802) addressed to it. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access. (L.N. 183 of 1999)
+      - (a) Single Instruction Multiple Data (SIMD) architectures such as vector or array processors;
 
-  - 4 “Neural computer” (類神經式電腦) A computational device designed or modified to mimic the behaviour of a neuron or a collection of neurons, i.e., a computational device which is distinguished by its hardware capability to modulate the weights and numbers of the interconnections of a multiplicity of computational components based on previous data.
+      - (b) Multiple Single Instruction Multiple Data (MSIMD) architectures;
 
-  - 6 “Noise level” (雜訊水平) An electrical signal given in terms of power spectral density. The relation between “noise level” expressed in peak-to-peak is given by S2pp = 8N0 (f2-f1), where Spp is the peak-to-peak value of the signal (e.g., nanoteslas), N0 is the power spectral density (e.g., (nanotesla)2/Hz) and (f2-f1) defines the bandwidth of interest.
+      - (c) Multiple Instruction Multiple Data (MIMD) architectures, including those which are tightly coupled, closely coupled or loosely coupled; or
 
-  - 0 “Nuclear reactor” (核反應堆) ML17 The items within or attached directly to the reactor vessel, the equipment which controls the level of power in the core, and the components which normally contain, come into direct contact with or control the primary coolant of the reactor core. (L.N. 183 of 1999)
+      - (d)
 
-  - 2 “Numerical control” (數值控制) The automatic control of a process performed by a device that makes use of numeric data usually introduced as the operation is in progress (Ref. ISO 2382).
+      - Structured arrays of processing elements, including systolic arrays.
 
-  - 4 9 “Object code” (目標碼) “Object code”: An equipment executable form of a convenient expression of one or more processes (“source code” (or source language)) which has been converted by a programming system. (L.N. 183 of 1999)
+        - 5 “Multilevel security” (多重安全) A class of system containing information with different sensitivities that simultaneously permits access by users with different security clearances and needs-to-know, but prevents users from obtaining access to information for which they lack authorization. Technical Note: (L.N. 132 of 2001) “Multilevel security” is computer security and not computer reliability which deals with equipment fault prevention or human error prevention in general.
 
-  - 5 “Optical amplification” (光學式放大作用) In optical communications, an amplification technique that introduces a gain of optical signals that have been generated by a separate optical source, without conversion to electrical signals, i.e., using semiconductor optical amplifiers or optical fibre luminescent amplifiers.
+        - 6 “Multispectral imaging sensors” (多光譜影像感測器) Are capable of simultaneous or serial acquisition of imaging data from two or more discrete spectral bands. Sensors having more than twenty discrete spectral bands are sometimes referred to as hyperspectral imaging sensors.
 
-  - 4 “Optical computer” (光學式電腦) A computer designed or modified to use light to represent data and whose computational logic elements are based on directly coupled optical devices.
+        - 0 “Natural uranium” (天然鈾) Uranium containing the mixtures of isotopes occurring in nature.
 
-  - 5 6 “Optical fibre preforms” (光纖預型體) Bars, ingots, or rods of glass, plastic or other materials which have been specially processed for use in fabricating optical fibres. The characteristics of the preform determine the basic parameters of the resultant drawn optical fibres.
+        - 4 “Network access controller” (網絡存取控制器) A physical interface to a distributed switching network. It uses a common medium which operates throughout at the same “digital transfer rate” using arbitration (e.g., token or carrier sense) for transmission. Independently from any other, it selects data packets or data groups (e.g., IEEE 802) addressed to it. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access. (L.N. 183 of 1999)
 
-  - 3 “Optical integrated circuit” (光集成電路) A “monolithic integrated circuit” or a “hybrid integrated circuit”, containing one or more parts designed to function as a photosensor or photoemitter or to perform (an) optical or (an) electro-optical function(s).
+        - 4 “Neural computer” (類神經式電腦) A computational device designed or modified to mimic the behaviour of a neuron or a collection of neurons, i.e., a computational device which is distinguished by its hardware capability to modulate the weights and numbers of the interconnections of a multiplicity of computational components based on previous data.
 
-  - 5 “Optical switching” (光學式切換功能) The routing of, or switching of, signals in optical form without conversion to electrical signals.
+        - 6 “Noise level” (雜訊水平) An electrical signal given in terms of power spectral density. The relation between “noise level” expressed in peak-to-peak is given by S2pp = 8N0 (f2-f1), where Spp is the peak-to-peak value of the signal (e.g., nanoteslas), N0 is the power spectral density (e.g., (nanotesla)2/Hz) and (f2-f1) defines the bandwidth of interest.
 
-  - 3 “Overall current density” (總電流密度) The total number of ampere-turns in the coil (i.e., the sum of the number of turns multiplied by the maximum current carried by each turn) divided by the total cross-section of the coil (comprising the superconducting filaments, the metallic matrix in which the superconducting filaments are embedded, the encapsulating material, any cooling channels, etc.).
+        - 0 “Nuclear reactor” (核反應堆) ML17 The items within or attached directly to the reactor vessel, the equipment which controls the level of power in the core, and the components which normally contain, come into direct contact with or control the primary coolant of the reactor core. (L.N. 183 of 1999)
 
-  - 7 9 “Participating state” (參與國) A state participating in the Wassenaar Arrangement.
+        - 2 “Numerical control” (數值控制) The automatic control of a process performed by a device that makes use of numeric data usually introduced as the operation is in progress (Ref. ISO 2382).
 
-  - 6 “Peak power” (峰值功率) Energy per pulse in joules divided by the pulse duration in seconds.
+        - 4 9 “Object code” (目標碼) “Object code”: An equipment executable form of a convenient expression of one or more processes (“source code” (or source language)) which has been converted by a programming system. (L.N. 183 of 1999)
 
-  - 5 “Personalized smart card” (個人化智慧卡) A smart card containing a microcircuit which has been programmed for a specific application and cannot be reprogrammed for any other application by the user. (L.N. 183 of 1999)
+        - 5 “Optical amplification” (光學式放大作用) In optical communications, an amplification technique that introduces a gain of optical signals that have been generated by a separate optical source, without conversion to electrical signals, i.e., using semiconductor optical amplifiers or optical fibre luminescent amplifiers.
 
-  - 7 “Power management” (功率管理) Changing the transmitted power of the altimeter signal so that received power at the “aircraft” altitude is always at the minimum necessary to determine the altitude.
+        - 4 “Optical computer” (光學式電腦) A computer designed or modified to use light to represent data and whose computational logic elements are based on directly coupled optical devices.
 
-  - ML8 “Precursors” (先質) Specialty chemicals used in the manufacture of explosives. (L.N. 65 of 2004)
+        - 5 6 “Optical fibre preforms” (光纖預型體) Bars, ingots, or rods of glass, plastic or other materials which have been specially processed for use in fabricating optical fibres. The characteristics of the preform determine the basic parameters of the resultant drawn optical fibres.
 
-  - 2 “Pressure transducers” (壓力換能器) Devices that convert pressure measurements into an electrical signal.
+        - 3 “Optical integrated circuit” (光集成電路) A “monolithic integrated circuit” or a “hybrid integrated circuit”, containing one or more parts designed to function as a photosensor or photoemitter or to perform (an) optical or (an) electro-optical function(s).
 
-  - 0 1 “Previously separated” (預先分開) The application of any process intended to increase the concentration of the controlled isotope.
+        - 5 “Optical switching” (光學式切換功能) The routing of, or switching of, signals in optical form without conversion to electrical signals.
 
-  - 7 “Primary flight control” (主飛行控制) An “aircraft” stability or manoeuvering control using force/moment generators, i.e., aerodynamic control surfaces or propulsive thrust vectoring.
+        - 3 “Overall current density” (總電流密度) The total number of ampere-turns in the coil (i.e., the sum of the number of turns multiplied by the maximum current carried by each turn) divided by the total cross-section of the coil (comprising the superconducting filaments, the metallic matrix in which the superconducting filaments are embedded, the encapsulating material, any cooling channels, etc.).
 
-  - 4 “Principal element” (主要組成元件) An element is a “principal element” when its replacement value is more than 35% of the total value of the system of which it is an element. Element value is the price paid for the element by the manufacturer of the system, or by the system integrator. Total value is the normal international selling price to unrelated parties at the point of manufacture or consolidation of shipment.
+        - 7 9 “Participating state” (參與國) A state participating in the Wassenaar Arrangement.
 
-  - GTN “Production” (生產)
+        - 6 “Peak power” (峰值功率) Energy per pulse in joules divided by the pulse duration in seconds.
 
-  - NTB All | Means all production stages, such as: product engineering, manufacture, integration, assembly (mounting), inspection, testing, quality assurance.
+        - 5 “Personalized smart card” (個人化智慧卡) A smart card containing a microcircuit which has been programmed for a specific application and cannot be reprogrammed for any other application by the user. (L.N. 183 of 1999)
 
-  - 1 7 9 “Production equipment” (生產裝備) Tooling, templates, jigs, mandrels, moulds, dies, fixtures, alignment mechanisms, test equipment, other machinery and components therefor, limited to those specially designed or modified for “development” or for one or more phases of “production”. (L.N. 183 of 1999)
+        - 7 “Power management” (功率管理) Changing the transmitted power of the altimeter signal so that received power at the “aircraft” altitude is always at the minimum necessary to determine the altitude.
 
-  - 7 9 “Production facilities” (生產設施) Equipment and specially designed software therefor integrated into installations for “development” or for one or more phases of “production”.
+        - ML8 “Precursors” (先質) Specialty chemicals used in the manufacture of explosives. (L.N. 65 of 2004)
 
-  - 2 4 5 6 “Programme” (程式) A sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer.
+        - 2 “Pressure transducers” (壓力換能器) Devices that convert pressure measurements into an electrical signal.
 
-  - ML8 “Propellants” (推進劑) Substances or mixtures that react chemically to produce large volumes of hot gases at controlled rates to perform mechanical work. (L.N. 65 of 2004)
+        - 0 1 “Previously separated” (預先分開) The application of any process intended to increase the concentration of the controlled isotope.
 
-  - 6 “Pulse compression” (脈衝壓縮) The coding and processing of a radar signal pulse of long time duration to one of short time duration, while maintaining the benefits of high pulse energy.
+        - 7 “Primary flight control” (主飛行控制) An “aircraft” stability or manoeuvering control using force/moment generators, i.e., aerodynamic control surfaces or propulsive thrust vectoring.
 
-  - 6 “Pulse duration” (脈衝持續時間) Duration of a “laser” pulse measured at Full Width Half Intensity (FWHI) levels.
+        - 4 “Principal element” (主要組成元件) An element is a “principal element” when its replacement value is more than 35% of the total value of the system of which it is an element. Element value is the price paid for the element by the manufacturer of the system, or by the system integrator. Total value is the normal international selling price to unrelated parties at the point of manufacture or consolidation of shipment.
 
-  - ML4 “Pyrotechnic(s)” (焰火訊號彈) (L.N. 65 of 2004) ML8 Mixtures of solid or liquid fuels and oxidizers which, when ignited, undergo an energetic chemical reaction at a controlled rate intended to produce specific time delays, or quantities of heat, noise, smoke, visible light or infrared radiation. Pyrophorics are a subclass or pyrotechnics, which contain no oxidizers but ignite spontaneously on contact with air.
+        - GTN “Production” (生產)
 
-  - 6 “Q-switched laser” (Q開關式雷射器) A “laser” in which the energy is stored in the population inversion or in the optical resonator and subsequently emitted in a pulse.
+        - NTB All | Means all production stages, such as: product engineering, manufacture, integration, assembly (mounting), inspection, testing, quality assurance.
 
-  - 6 “Radar frequency agility” (雷達頻率跳頻) Any technique which changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth.
+        - 1 7 9 “Production equipment” (生產裝備) Tooling, templates, jigs, mandrels, moulds, dies, fixtures, alignment mechanisms, test equipment, other machinery and components therefor, limited to those specially designed or modified for “development” or for one or more phases of “production”. (L.N. 183 of 1999)
 
-  - 6 “Radar spread spectrum” (雷達擴散頻譜) Any modulation technique for spreading energy originating from a signal with a relatively narrow frequency band, over a much wider band of frequencies, by using random or pseudo-random coding.
+        - 7 9 “Production facilities” (生產設施) Equipment and specially designed software therefor integrated into installations for “development” or for one or more phases of “production”.
 
-  - 3 “Real time bandwidth” (即時頻寬) For “dynamic signal analysers”, the widest frequency range which the analyser can output to display or mass storage without causing any discontinuity in the analysis of the input data. For analysers with more than one channel, the channel configuration yielding the widest “real-time bandwidth” shall be used to make the calculation.
+        - 2 4 5 6 “Programme” (程式) A sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer.
 
-  - 2 4 6 7 “Real time processing” (即時處理) The processing of data by a computer system providing a required level of service, as a function of available resources, within a guaranteed response time, regardless of the load of the system, when stimulated by an external event.
+        - ML8 “Propellants” (推進劑) Substances or mixtures that react chemically to produce large volumes of hot gases at controlled rates to perform mechanical work. (L.N. 65 of 2004)
 
-  - GTN “Required” (所需) 1-9 As applied to “technology”, refers to only that portion of “technology” which is peculiarly responsible for achieving or exceeding the controlled performance levels, characteristics or functions. Such “required” “technology” may be shared by different products.
+        - 6 “Pulse compression” (脈衝壓縮) The coding and processing of a radar signal pulse of long time duration to one of short time duration, while maintaining the benefits of high pulse energy.
 
-  - 2 “Resolution” (解析度) The least increment of a measuring device; on digital instruments, the least significant bit. (Reference: ANSI B-89.1.12)
+        - 6 “Pulse duration” (脈衝持續時間) Duration of a “laser” pulse measured at Full Width Half Intensity (FWHI) levels.
 
-  - ML7 “Riot control agents” (暴動控制劑) Substances which produce temporary irritating or disabling physical effects which disappear within minutes of removal from exposure. There is no significant risk of permanent injury and medical treatment is rarely required.
+        - ML4 “Pyrotechnic(s)” (焰火訊號彈) (L.N. 65 of 2004) ML8 Mixtures of solid or liquid fuels and oxidizers which, when ignited, undergo an energetic chemical reaction at a controlled rate intended to produce specific time delays, or quantities of heat, noise, smoke, visible light or infrared radiation. Pyrophorics are a subclass or pyrotechnics, which contain no oxidizers but ignite spontaneously on contact with air.
 
-  - 2 8 “Robot” (機械人) ML17 A manipulation mechanism, which may be of the continuous path or of the point-to-point variety, may use sensors, and has all the following characteristics:
+        - 6 “Q-switched laser” (Q開關式雷射器) A “laser” in which the energy is stored in the population inversion or in the optical resonator and subsequently emitted in a pulse.
 
-    - (a) Is multifunctional;
+        - 5 “Quantum cryptography” (量子密碼技術) A family of techniques for the establishment of a shared key for “cryptography” by measuring the quantum-mechanical properties of a physical system (including those physical properties explicitly governed by quantum optics, quantum field theory, or quantum electrodynamics). (L.N. 95 of 2006)
 
-    - (b) Is capable of positioning or orienting material, parts, tools or special devices through variable movements in three dimensional space;
+        - 6 “Radar frequency agility” (雷達頻率跳頻) Any technique which changes, in a pseudo-random sequence, the carrier frequency of a pulsed radar transmitter between pulses or between groups of pulses by an amount equal to or larger than the pulse bandwidth.
 
-    - (c) Incorporates three or more closed or open loop servo-devices which may include stepping motors; and
+        - 6 “Radar spread spectrum” (雷達擴散頻譜) Any modulation technique for spreading energy originating from a signal with a relatively narrow frequency band, over a much wider band of frequencies, by using random or pseudo-random coding.
 
-    - (d) Has “user-accessible programmability” by means of the teach/playback method or by means of an electronic computer which may be a programmable logic controller, i.e., without mechanical intervention.
+        - 3 “Real-time bandwidth” (即時頻寬) (L.N. 95 of 2006) For “dynamic signal analysers”, the widest frequency range which the analyser can output to display or mass storage without causing any discontinuity in the analysis of the input data. For analysers with more than one channel, the channel configuration yielding the widest “real-time bandwidth” shall be used to make the calculation.
 
-    - Note: (L.N. 132 of 2001)
+        - 2 4 6 7 “Real time processing” (即時處理) The processing of data by a computer system providing a required level of service, as a function of available resources, within a guaranteed response time, regardless of the load of the system, when stimulated by an external event.
 
-    - The above definition does not include the following devices:
+        - GTN “Required” (所需) 1-9 As applied to “technology”, refers to only that portion of “technology” which is peculiarly responsible for achieving or exceeding the controlled performance levels, characteristics or functions. Such “required” “technology” may be shared by different products.
 
-    - (1) Manipulation mechanisms which are only manually/teleoperator controllable;
+        - 2 “Resolution” (解析度) The least increment of a measuring device; on digital instruments, the least significant bit. (Reference: ANSI B-89.1.12)
 
-    - (2) Fixed sequence manipulation mechanisms, which are automated moving devices, operating according to mechanically fixed programmed motions. The programme is mechanically limited by fixed stops, such as pins or cams. The sequence of motions and the selection of paths or angles are not variable or changeable by mechanical, electronic or electrical means;
+        - ML7 “Riot control agents” (暴動控制劑) Substances which, under the expected conditions of use for riot control purposes, produce rapidly in humans sensory irritation or disabling physical effects which disappear within a short time following termination of exposure. (Tear gases are a subset of “riot control agents”.) (L.N. 95 of 2006)
 
-    - (3) Mechanically controlled variable sequence manipulation mechanisms, which are automated moving devices, operating according to mechanically fixed programmed motions. The programme is mechanically limited by fixed, but adjustable stops, such as pins or cams. The sequence of motions and the selection of paths or angles are variable within the fixed programmes pattern. Variations or modifications of the programme pattern (e.g. changes of pins or exchanges of cams) in one or more motion axes are accomplished only through mechanical operations;
+        - 2 8 “Robot” (機械人) ML17 A manipulation mechanism, which may be of the continuous path or of the point-to-point variety, may use sensors, and has all the following characteristics:
 
-    - (4) Non-servo-controlled variable sequence manipulation mechanisms, which are automated moving devices, operating according to mechanically fixed programmed motions. The programme is variable but the sequence proceeds only by the binary signal from mechanically fixed electrical binary devices or adjustable stops;
+      - (a) Is multifunctional;
 
-    - (5) Stacker cranes defined as Cartesian coordinate manipulator systems manufactured as an integral part of a vertical array of storage bins and designed to access the contents of those bins for storage or retrieval.
+      - (b) Is capable of positioning or orienting material, parts, tools or special devices through variable movements in three dimensional space;
 
-  - 1 “Rotary atomization” (旋轉霧化) (L.N. 65 of 2004) A process to reduce a stream or pool of molten metal to droplets to a diameter of 500 μm or less by centrifugal force.
+      - (c) Incorporates three or more closed or open loop servo-devices which may include stepping motors; and
 
-  - 1 “Roving” (絞線) A bundle (typically 12-120) of approximately parallel ‘strands’. N.B.: ‘Strand’ is a bundle of “monofilaments” (typically over 200) arranged approximately parallel.
+      - (d) Has “user-accessible programmability” by means of the teach/playback method or by means of an electronic computer which may be a programmable logic controller, i.e., without mechanical intervention.
 
-  - 2 “Run out” (out-of-true running) (位置偏擺) Radial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle axis at a point on the external or internal revolving surface to be tested (Reference: ISO 230/1-1986, paragraph 5.61).
+      - Note: (L.N. 132 of 2001)
 
-  - 7 “Scale factor” (gyro or accelerometer) (尺度因素) (陀螺儀或加速度計) The ratio of change in output to a change in the input intended to be measured. Scale factor is generally evaluated as the slope of the straight line that can be fitted by the method of least squares to input-output data obtained by varying the input cyclically over the input range.
+      - The above definition does not include the following devices:
 
-  - 3 “Settling time” (安定時間) The time required for the output to come within one-half bit of the final value when switching between any two levels of the converter.
+      - (1) Manipulation mechanisms which are only manually/teleoperator controllable;
 
-  - 6 “SHPL”-see “Super High Power Laser”
+      - (2) Fixed sequence manipulation mechanisms, which are automated moving devices, operating according to mechanically fixed programmed motions. The programme is mechanically limited by fixed stops, such as pins or cams. The sequence of motions and the selection of paths or angles are not variable or changeable by mechanical, electronic or electrical means;
 
-  - 3 “Signal analysers” (訊號分析器) Apparatus capable of measuring and displaying basic properties of the single-frequency components of multi-frequency signals.
+      - (3) Mechanically controlled variable sequence manipulation mechanisms, which are automated moving devices, operating according to mechanically fixed programmed motions. The programme is mechanically limited by fixed, but adjustable stops, such as pins or cams. The sequence of motions and the selection of paths or angles are variable within the fixed programmes pattern. Variations or modifications of the programme pattern (e.g. changes of pins or exchanges of cams) in one or more motion axes are accomplished only through mechanical operations;
 
-  - 3 “Signal analysers” (dynamic) (訊號分析器) (動態)-see “Dynamic signal analysers”
+      - (4) Non-servo-controlled variable sequence manipulation mechanisms, which are automated moving devices, operating according to mechanically fixed programmed motions. The programme is variable but the sequence proceeds only by the binary signal from mechanically fixed electrical binary devices or adjustable stops;
 
-  - 3 4 5 6 “Signal processing” (訊號處理) The processing of externally derived information-bearing signals by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform). (L.N. 132 of 2001)
+      - (5)
 
-  - GSN “Software” (軟件) All A collection of one or more “programmes” or “microprogrammes” fixed in any tangible medium of expression. (L.N. 183 of 1999)
+      - Stacker cranes defined as Cartesian coordinate manipulator systems manufactured as an integral part of a vertical array of storage bins and designed to access the contents of those bins for storage or retrieval.
 
-  - Def. “Solidify rapidly” (迅速地凝固) Solidification of molten material at cooling rates exceeding 1000 K/sec.
+        - 1 “Rotary atomization” (旋轉霧化) (L.N. 65 of 2004) A process to reduce a stream or pool of molten metal to droplets to a diameter of 500 μm or less by centrifugal force.
 
-  - 4 5 6 “Source code” (or source language) (原始碼) (或原始語言) 7 9 A convenient expression of one or more processes which may be turned by a programming system into equipment executable form (“object code” (or object language)).
+        - 1 “Roving” (絞線) A bundle (typically 12-120) of approximately parallel ‘strands’. N.B.: ‘Strand’ is a bundle of “monofilaments” (typically over 200) arranged approximately parallel.
 
-  - 7 9 “Spacecraft” (太空船) Active and passive satellites and space probes.
+        - 2 “Run out” (out-of-true running) (位置偏擺) Radial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle axis at a point on the external or internal revolving surface to be tested (Reference: ISO 230/1-1986, paragraph 5.61).
 
-  - 3 6 “Space qualified” (太空級) Products designed, manufactured and tested to meet the special electrical, mechanical or environmental requirements for use in the launch and deployment of satellites or high-altitude flight systems operating at altitudes of 100 km or higher. (L.N. 132 of 2001)
+        - 7 “Scale factor” (gyro or accelerometer) (尺度因素) (陀螺儀或加速度計) The ratio of change in output to a change in the input intended to be measured. Scale factor is generally evaluated as the slope of the straight line that can be fitted by the method of least squares to input-output data obtained by varying the input cyclically over the input range.
 
-  - 0 1 “Specific modulus” (比模數) Young’s modulus in pascals, equivalent to N/m2 divided by specific weight in N/m3, measured at a temperature of (296 + 2)K ((23 + 2)0C) and a relative humidity of (50 + 5)%;
+        - 3 “Settling time” (安定時間) The time required for the output to come within one-half bit of the final value when switching between any two levels of the converter.
 
-  - 0 1 “Specific tensile strength” (比抗拉強度) Ultimate tensile strength in pascals, equivalent to N/m2 divided by specific weight in N/m3, measured at a temperature of (296 + 2) K ((23 + 2)0C) and a relative humidity of (50 + 5)%;
+        - 6 “SHPL”-see “Super High Power Laser”
 
-  - 0 “Special fissile material” (特別可裂變物料) Plutonium-239, uranium-233, uranium enriched in the isotopes 235 or 233, and any material containing the foregoing.
+        - 3 “Signal analysers” (訊號分析器) Apparatus capable of measuring and displaying basic properties of the single-frequency components of multi-frequency signals.
 
-  - 1 “Splat quenching” (噴濺急冷) A process to ‘solidify rapidly’ a molten metal stream impinging upon a chilled block, forming a flake-like product. N.B.: ‘Solidify rapidly”: solidification of molten material at cooling rates exceeding 1000 K/sec.
+        - 3 “Signal analysers” (dynamic) (訊號分析器) (動態)-see “Dynamic signal analysers”
 
-  - 5 “Spread spectrum” (展頻) The technique whereby energy in a relatively narrow-band communication channel is spread over a much wider energy spectrum. (L.N. 183 of 1999)
+        - 3 4 5 6 “Signal processing” (訊號處理) The processing of externally derived information-bearing signals by algorithms such as time compression, filtering, extraction, selection, correlation, convolution or transformations between domains (e.g., fast Fourier transform or Walsh transform). (L.N. 132 of 2001)
 
-  - 6 “Spread spectrum” radar (展頻) 雷達-see “Radar spread spectrum”
+        - GSN “Software” (軟件) All A collection of one or more “programmes” or “microprogrammes” fixed in any tangible medium of expression. (L.N. 183 of 1999)
 
-  - 4 “Sputtering” (濺鍍) An overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. N.B.: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process.
+        - Def. “Solidify rapidly” (迅速地凝固) Solidification of molten material at cooling rates exceeding 1000 K/sec.
 
-  - ML8 “Stabilizers” (穩定劑) Substances used in explosive formulations to improve their shelf-life.
+        - 4 5 6 “Source code” (or source language) (原始碼) (或原始語言) 7 9 A convenient expression of one or more processes which may be turned by a programming system into equipment executable form (“object code” (or object language)).
 
-  - 7 “Stability” (穩定度) Standard deviation (1 sigma) of the variation of a particular parameter from its calibrated value measured under stable temperature conditions. This can be expressed as a function of time.
+        - 7 9 “Spacecraft” (太空船) Active and passive satellites and space probes.
 
-  - 2 3 5 “Stored programme controlled” (預存程式控制) A control using instructions stored in an electronic storage which a processor can execute in order to direct the performance of predetermined functions. Technical Note: (L.N. 132 of 2001) Equipment may be “stored programme controlled” whether the electronic storage is internal or external to the equipment.
+        - 3 6 “Space qualified” (太空級) Products designed, manufactured and tested to meet the special electrical, mechanical or environmental requirements for use in the launch and deployment of satellites or high-altitude flight systems operating at altitudes of 100 km or higher. (L.N. 132 of 2001)
 
-  - 3 “Substrate” (基片) A sheet of base material with or without an interconnection pattern and on which or within which ‘discrete components’ or integrated circuits or both can be located. N.B.: ‘Discrete component’: a separately packaged “circuit element” with its own external connections.
+        - 0 1 “Specific modulus” (比模數) Young’s modulus in pascals, equivalent to N/m2 divided by specific weight in N/m3, measured at a temperature of (296 + 2)K ((23 + 2)0C) and a relative humidity of (50 + 5)%;
 
-  - 6 “Substrate blanks” (基板) Monolithic compounds with dimensions suitable for the production of optical elements such as mirrors or optical windows.
+        - 0 1 “Specific tensile strength” (比抗拉強度) Ultimate tensile strength in pascals, equivalent to N/m2 divided by specific weight in N/m3, measured at a temperature of (296 + 2) K ((23 + 2)0C) and a relative humidity of (50 + 5)%;
 
-  - 1 “Sub-unit of toxin” (毒素子單位) A structurally and functionally discrete component of a whole “toxin”.
+        - 0 “Special fissile material” (特別可裂變物料) Plutonium-239, uranium-233, uranium enriched in the isotopes 235 or 233, and any material containing the foregoing.
 
-  - 2 9 “Superalloys” (超合金) Nickel-, cobalt- or iron-base alloys having strengths superior to any alloys in the American Iron and Steel Society (AISI) 300 series at temperatures over 922 K (6490C) under severe environmental and operating conditions.
+        - 1 “Splat quenching” (噴濺急冷) A process to ‘solidify rapidly’ a molten metal stream impinging upon a chilled block, forming a flake-like product. N.B.: ‘Solidify rapidly”: solidification of molten material at cooling rates exceeding 1000 K/sec.
 
-  - 1 3 6 8 “Superconductive” (超導體) ML20 Refers to materials, i.e., metals, alloys or compounds, which can lose all electrical resistance, i.e., which can attain infinite electrical conductivity and carry very large electrical currents without Joule heating. Technical Note: (L.N. 132 of 2001) The “superconductive” state of a material is individually characterized by a “critical temperature”, a critical magnetic field, which is a function of temperature, and a critical current density which is, however, a function of both magnetic field and temperature.
+        - 5 “Spread spectrum” (展頻) The technique whereby energy in a relatively narrow-band communication channel is spread over a much wider energy spectrum. (L.N. 183 of 1999)
 
-  - 6 “Super High Power Laser” (“SHPL”) (超高功率雷射器) A “laser” capable of delivering (the total or any portion of) an output energy exceeding 1 kJ within 50 ms or having an average or CW power exceeding 20 kW.
+        - 6 “Spread spectrum” radar (展頻) 雷達-see “Radar spread spectrum”
 
-  - 1 2 “Superplastic forming” (超塑性成形) A deformation process using heat for metals that are normally characterised by low values of elongation (less than 20%) at the breaking point as determined at room temperature by conventional tensile strength testing, in order to achieve elongations during processing which are at least 2 times those values.
+        - 4 “Sputtering” (濺鍍) An overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. N.B.: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process.
 
-  - 1 5 “Symmetric algorithm” (對稱演算法) A cryptographic algorithm using an identical key for both encryption and decryption. Technical Note: (L.N. 132 of 2001) A common use of “symmetric algorithms” is confidentiality of data. (L.N. 183 of 1999)
+        - ML8 “Stabilizers” (穩定劑) Substances used in explosive formulations to improve their shelf-life.
 
-  - 6 “Systems tracks” (系統追蹤) Processed, correlated (fusion of radar target data to flight plan position) and updated aircraft flight position reports available to the Air Traffic Control centre controllers.
+        - 7 “Stability” (穩定度) Standard deviation (1 sigma) of the variation of a particular parameter from its calibrated value measured under stable temperature conditions. This can be expressed as a function of time.
 
-  - 4 “Systolic array computer” (心臟收縮陣列電腦) A computer where the flow and modification of the data is dynamically controllable at the logic gate level by the user.
+        - 3 “Substrate” (基片) A sheet of base material with or without an interconnection pattern and on which or within which ‘discrete components’ or integrated circuits or both can be located. N.B.: ‘Discrete component’: a separately packaged “circuit element” with its own external connections.
 
-  - 1 “Tape” (帶狀) A material constructed of interlaced or unidirectional “monofilaments”, ‘strands’, “rovings”, “tows”, or “yarns”, etc., usually preimpregnated with resin. N.B.: ‘Strand’ is a bundle of “monofilaments” (typically over 200) arranged approximately parallel.
+        - 6 “Substrate blanks” (基板) Monolithic compounds with dimensions suitable for the production of optical elements such as mirrors or optical windows.
 
-  - ML7 “Tear gases” (催淚氣體) Gases which produce temporary irritating or disabling effects which disappear within minutes of removal from exposure.
+        - 1 “Sub-unit of toxin” (毒素子單位) A structurally and functionally discrete component of a whole “toxin”.
 
-  - GTN “Technology” (技術) NTN All Specific information necessary for the “development”, “production” or “use” of a product. The information takes the form of ‘technical data’ or ‘technical assistance’. Controlled “technology” is defined in the General Technology Note and in the Dual-Use Goods List. Technical Notes: (L.N. 132 of 2001)
+        - 2 9 “Superalloys” (超合金) Nickel-, cobalt- or iron-base alloys having strengths superior to any alloys in the American Iron and Steel Society (AISI) 300 series at temperatures over 922 K (6490C) under severe environmental and operating conditions.
 
-    - 1. ‘Technical data’ may take forms such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals and instructions written or recorded on other media or devices such as disk, tape, read-only memories.
+        - 1 3 6 8 “Superconductive” (超導體) ML20 Refers to materials, i.e., metals, alloys or compounds, which can lose all electrical resistance, i.e., which can attain infinite electrical conductivity and carry very large electrical currents without Joule heating. Technical Note: (L.N. 132 of 2001) The “superconductive” state of a material is individually characterized by a “critical temperature”, a critical magnetic field, which is a function of temperature, and a critical current density which is, however, a function of both magnetic field and temperature.
 
-    - 2. ‘Technical assistance’ may take forms such as instruction, skills, training, working knowledge, consulting services. ‘Technical assistance’ may involve transfer of ‘technical data’.
+        - 6 “Super High Power Laser” (“SHPL”) (超高功率雷射器) A “laser” capable of delivering (the total or any portion of) an output energy exceeding 1 kJ within 50 ms or having an average or CW power exceeding 20 kW.
 
-  - 4 “Terminal interface equipment” (終端介面裝備) Equipment at which information enters or leaves the telecommunications system, e.g., telephone, data device, computer and facsimile device. (36 of 2000 s. 28)
+        - 1 2 “Superplastic forming” (超塑性成形) A deformation process using heat for metals that are normally characterised by low values of elongation (less than 20%) at the breaking point as determined at room temperature by conventional tensile strength testing, in order to achieve elongations during processing which are at least 2 times those values.
 
-  - 4 “Three dimensional vector rate” (三維向量運算率) The number of vectors generated per second which have 10 pixel poly line vectors, clip tested, randomly oriented, with either integer or floating point X-Y-Z coordinate values (whichever produces the maximum rate).
+        - 1 5 “Symmetric algorithm” (對稱演算法) A cryptographic algorithm using an identical key for both encryption and decryption. Technical Note: (L.N. 132 of 2001) A common use of “symmetric algorithms” is confidentiality of data. (L.N. 183 of 1999)
 
-  - 2 “Tilting spindle” (傾斜主軸) A tool-holding spindle which alters, during the machining process, the angular position of its centre line with respect to any other axis.
+        - 6 “Systems tracks” (系統追蹤) Processed, correlated (fusion of radar target data to flight plan position) and updated aircraft flight position reports available to the Air Traffic Control centre controllers.
 
-  - 6 “Time constant” (時間常數) The time taken from the application of a light stimulus for the current increment to reach a value of 1-1/e times the final value (i.e. 63% of the final value).
+        - 4 “Systolic array computer” (心臟收縮陣列電腦) A computer where the flow and modification of the data is dynamically controllable at the logic gate level by the user.
 
-  - 5 “Time-modulated ultra-wideband” (時間調變超寬頻) The technique in which very short precisely time-controlled RF pulses are modulated in accordance with communications data by shifting pulse positions (usually called Pulse Position Modulation, PPM) channelized or scrambled in accordance with pseudo-random noise codes by PPM, then transmitted and received in the direct pulse form without using any carrier frequencies, consequently having extremely low power density over ultra-wide frequency bands. It is also known as Impulse Radio. (L.N. 65 of 2004)
+        - 1 “Tape” (帶狀) A material constructed of interlaced or unidirectional “monofilaments”, ‘strands’, “rovings”, “tows”, or “yarns”, etc., usually preimpregnated with resin. N.B.: ‘Strand’ is a bundle of “monofilaments” (typically over 200) arranged approximately parallel.
 
-  - 7 “Total control of flight” (飛行全控) An automated control of “aircraft” state variables and flight path to meet mission objectives responding to real time changes in data regarding objectives, hazards or other “aircraft”.
+        - GTN “Technology” (技術) NTN All Specific information necessary for the “development”, “production” or “use” of a product. The information takes the form of ‘technical data’ or ‘technical assistance’. “Controlled “technology” for the Dual-Use Goods List is defined in the General Technology Note and in the Dual-Use Goods List. Controlled “technology” for the Munitions List is specified in ML22. (L.N. 95 of 2006) Technical Notes: (L.N. 132 of 2001)
 
-  - 5 “Total digital transfer rate” (總數字傳送率) The number of bits, including line coding, overhead and so forth per unit time passing between corresponding equipment in a digital transmission system. (See also “digital transfer rate”)
+      - 1. ‘Technical data’ may take forms such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals and instructions written or recorded on other media or devices such as disk, tape, read-only memories.
 
-  - 1 “Tow” (纖束) A bundle of “monofilaments”, usually approximately parallel.
+      - 2.
 
-  - 1 2 “Toxins” (毒素) Toxins in the form of deliberately isolated preparations or mixtures, no matter how produced, other than toxins present as contaminants of other materials such as pathological specimens, crops, foodstuffs or seed stocks of “microorganisms”.
+      - ‘Technical assistance’ may take forms such as instruction, skills, training, working knowledge, consulting services. ‘Technical assistance’ may involve transfer of ‘technical data’.
 
-  - 6 “Transfer laser” (傳送雷射器) A “laser” in which the lasing species is excited through the transfer of energy by collision of a non-lasing atom or molecule with a lasing atom or molecule species.
+        - 4 “Terminal interface equipment” (終端介面裝備) Equipment at which information enters or leaves the telecommunications system, e.g., telephone, data device, computer and facsimile device. (36 of 2000 s. 28)
 
-  - 6 “Tunable” (可調式) The ability of a “laser” to produce a continuous output at all wavelengths over a range of several “laser” transitions. A line selectable “laser” produces discrete wavelengths within one “laser” transition and is not considered “tunable”.
+        - 4 “Three dimensional vector rate” (三維向量運算率) The number of vectors generated per second which have 10 pixel poly line vectors, clip tested, randomly oriented, with either integer or floating point X-Y-Z coordinate values (whichever produces the maximum rate).
 
-  - 0 “Uranium enriched in the isotopes 235 or 233” (濃縮同位素235或233的鈾) Uranium containing the isotopes 235 or 233, or both, in an amount such that the abundance ratio of the sum of these isotopes to the isotope 238 is more than the ratio of the isotope 235 to the isotope 238 occurring in nature (isotopic ratio 0.72 per cent).
+        - 2 “Tilting spindle” (傾斜主軸) A tool-holding spindle which alters, during the machining process, the angular position of its centre line with respect to any other axis.
 
-  - GTN “Use” (使用) NTN All Operation, installation (including on-site installation), maintenance (checking), repair, overhaul and refurbishing.
+        - 6 “Time constant” (時間常數) The time taken from the application of a light stimulus for the current increment to reach a value of 1-1/e times the final value (i.e. 63% of the final value).
 
-  - 4 5 6 “User-accessible programmability” (由使用者進行程式更改) The facility allowing a user to insert, modify or replace “programmes” by means other than:
+        - 7 “Total control of flight” (飛行全控) An automated control of “aircraft” state variables and flight path to meet mission objectives responding to real time changes in data regarding objectives, hazards or other “aircraft”.
 
-    - (a) A physical change in wiring or interconnections; or
+        - 5 “Total digital transfer rate” (總數字傳送率) The number of bits, including line coding, overhead and so forth per unit time passing between corresponding equipment in a digital transmission system. (See also “digital transfer rate”)
 
-    - (b) The setting of function controls including entry of parameters.
+        - 1 “Tow” (纖束) A bundle of “monofilaments”, usually approximately parallel.
 
-  - 1 “Vaccine” (預防疫苗) A medicinal product which is intended to stimulate a protective immunological response in humans or animals in order to prevent disease.
+        - 1 2 “Toxins” (毒素) Toxins in the form of deliberately isolated preparations or mixtures, no matter how produced, other than toxins present as contaminants of other materials such as pathological specimens, crops, foodstuffs or seed stocks of “microorganisms”.
 
-  - 1 “Vacuum atomization” (真空霧化) (L.N. 65 of 2004) A process to reduce a molten stream of metal to droplets of a diameter of 500μm or less by the rapid evolution of a dissolved gas upon exposure to a vacuum.
+        - 6 “Transfer laser” (傳送雷射器) A “laser” in which the lasing species is excited through the transfer of energy by collision of a non-lasing atom or molecule with a lasing atom or molecule species.
 
-  - 7 “Variable geometry airfoils” (可變幾何翼面) Use of trailing edge flaps or tabs, or leading edge slats or pivoted nose droop, the position of which can be controlled in flight.
+        - 6 “Tunable” (可調式) The ability of a “laser” to produce a continuous output at all wavelengths over a range of several “laser” transitions. A line selectable “laser” produces discrete wavelengths within one “laser” transition and is not considered “tunable”.
 
-  - 1 “Yarn” (紗線) A bundle of twisted ‘strands’. N.B.: ‘Strand’ is a bundle of “monofilaments” (typically over 200) arranged approximately parallel.
+        - 9 “Unmanned aerial vehicle” (“UAV”) (無人駕駛飛行載具) Any “aircraft” capable of initiating flight and sustaining controlled flight and navigation without any human presence on board. (L.N. 95 of 2006)
 
-- (L.N. 247 of 1997; L.N. 183 of 1999; L.N. 132 of 2001; L.N. 65 of 2004)
+        - 0 “Uranium enriched in the isotopes 235 or 233” (濃縮同位素235或233的鈾) Uranium containing the isotopes 235 or 233, or both, in an amount such that the abundance ratio of the sum of these isotopes to the isotope 238 is more than the ratio of the isotope 235 to the isotope 238 occurring in nature (isotopic ratio 0.72 per cent).
+
+        - GTN “Use” (使用) NTN All Operation, installation (including on-site installation), maintenance (checking), repair, overhaul and refurbishing.
+
+        - 4 5 6 “User-accessible programmability” (由使用者進行程式更改) The facility allowing a user to insert, modify or replace “programmes” by means other than:
+
+      - (a) A physical change in wiring or interconnections; or
+
+      - (b)
+
+      - The setting of function controls including entry of parameters.
+
+        - 1 “Vaccine” (預防疫苗) A medicinal product which is intended to stimulate a protective immunological response in humans or animals in order to prevent disease.
+
+        - 1 “Vacuum atomization” (真空霧化) (L.N. 65 of 2004) A process to reduce a molten stream of metal to droplets of a diameter of 500μm or less by the rapid evolution of a dissolved gas upon exposure to a vacuum.
+
+        - 7 “Variable geometry airfoils” (可變幾何翼面) Use of trailing edge flaps or tabs, or leading edge slats or pivoted nose droop, the position of which can be controlled in flight.
+
+        - 1 “Yarn” (紗線) A bundle of twisted ‘strands’. N.B.: ‘Strand’ is a bundle of “monofilaments” (typically over 200) arranged approximately parallel.
+
+  - (L.N. 247 of 1997; L.N. 183 of 1999; L.N. 132 of 2001; L.N. 65 of 2004; L.N. 95 of 2006)
