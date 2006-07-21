@@ -132,4 +132,6 @@
 
 - 65. Shop No. 211, second floor, Yat Tung Shopping Centre, Yat Tung (I) Estate, Tung Chung. (L.N. 47 of 2004)
 
-- 66. 14 On Chun Street, Ma On Shan. (L.N. 40 of 2005) (Schedule replaced 78 of 1999 s. 7)
+- 66. 14 On Chun Street, Ma On Shan. (L.N. 40 of 2005)
+
+- 67. The upper ground floor, Stanley Municipal Services Building, 6 Stanley Market Road, Stanley, Hong Kong. (L.N. 180 of 2006) (Schedule replaced 78 of 1999 s. 7)
