@@ -212,6 +212,8 @@ PUBLIC BODIES
 
   - 103. Hong Kong Sports Institute Limited. (Added L.N. 4 of 2005)
 
+  - 107. Commissioner on Interception of Communications and Surveillance. (Added 20 of 2006 s. 68)
+
 - (Replaced L.N. 272 of 1974)
 
 Editorial Note:
