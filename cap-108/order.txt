@@ -18,6 +18,7 @@ s-006D.md
 s-006E.md
 s-006F.md
 s-006G.md
+s-006GB.md
 s-006H.md
 s-006I.md
 s-006J.md
