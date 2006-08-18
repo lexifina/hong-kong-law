@@ -1,12 +1,12 @@
 # SCHEDULE 2
 
-[s. 30] (78 of 1999 s. 7)
+[ss. 30 & 31A] (78 of 1999 s. 7; L.N. 169 of 2006)
 
 RESTRICTED FOODS
 
 Item | Description of food
 
-1. | Fresh, chilled or frozen meat, excluding meat specified in Schedule 1 (L.N. 220 of 2001)
+1. | (a) Fresh meat (b) Chilled meat other than pre-packaged chilled beef, mutton or pork (c) Pre-packaged chilled beef, mutton or pork (d) Frozen meat (L.N. 169 of 2006)
 
 2. | Fresh, chilled or frozen game (L.N. 220 of 2001)
 
@@ -22,7 +22,7 @@ Item | Description of food
 
 8. | Imported pies, sausages or other prepared or manufactured articles of food which contain any meat or cooked or dried meat other than fat
 
-9. | Milk or any milk beverage, being milk or a milk beverage to which the Milk Regulation (Cap. 132 sub. leg.) apply, other than sterilized milk or milk beverage approved under section 4(2) thereof (78 of 1999 s. 7)
+9. | Milk or any milk beverage, being milk or a milk beverage to which the Milk Regulation (Cap. 132 sub. leg. AQ) apply, other than sterilized milk or milk beverage approved under section 4(2) thereof (78 of 1999 s. 7)
 
 10. | (a) Soft ice cream (b) Other frozen confections
 
