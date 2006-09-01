@@ -1,31 +1,29 @@
 # SCHEDULE
 
-(Part II (paragraphs (f) to (j)) are not yet in operation.)
-
 [s. 2]
 
 - PART I Loadshifting machines used in industrial undertakings—
 
-  - (a) a fork-lift truck.
+    - (a) a fork-lift truck.
 
 - PART II Loadshifting machines used on construction sites—
 
-  - (a) a bulldozer;
+    - (a) a bulldozer;
 
-  - (b) a loader;
+    - (b) a loader;
 
-  - (c) an excavator;
+    - (c) an excavator;
 
-  - (d) a truck;
+    - (d) a truck;
 
-  - (e) a lorry;
+    - (e) a lorry;
 
-  - (f) a compactor;
+    - (f) a compactor;
 
-  - (g) a dumper;
+    - (g) a dumper;
 
-  - (h) a grader;
+    - (h) a grader;
 
-  - (i) a locomotive;
+    - (i) a locomotive;
 
-  - (j) a scraper.
+    - (j) a scraper.
