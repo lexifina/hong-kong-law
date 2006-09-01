@@ -16,8 +16,6 @@ Chief Secretary for Administration (L.N. 362 of 1997) | Air Passenger Departure 
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Basel Evangelical Missionary Society Incorporation Ordinance (Chapter 1002), section 6(2). (L.N. 368 of 1984)
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Betting Duty Ordinance (Chapter 108). (L.N. 211 of 1980)
-
 Chief Secretary for Administration (L.N. 362 of 1997) | Catholic Mission of Macao Incorporation Ordinance (Chapter 1006), section 5(2). (L.N. 368 of 1984)
 
 Chief Secretary for Administration (L.N. 362 of 1997) | Chater (Cathedral and St. Andrew’s) Endowment Funds Incorporation Ordinance (Chapter 1050), section 4(3). (L.N. 368 of 1984)
@@ -442,11 +440,11 @@ Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Roads (W
 
 Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 17 of 2006 s. 23)
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004, L.N. 6 of 2005, 21 of 2005 s.29, L.N. 202 of 2005 and 23 of 2005 s. 26. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004, L.N. 6 of 2005, 21 of 2005 s. 29, L.N. 202 of 2005 and 23 of 2005 s. 26. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
