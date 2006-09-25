@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 54]
 
@@ -7,6 +7,8 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 - 1. For the purpose of the definition of “protected deposit” in section 2(1) of this Ordinance, the following deposits are specified—
 
   - (a) a term deposit where the current term agreed to by the depositor at the most recent time it was negotiated exceeds 5 years;
+
+  - (aa) a structured deposit; (Added L.N. 107 of 2006)
 
   - (b) a deposit the repayment of which is secured either in whole or in part on the assets of the Scheme member;
 
@@ -26,6 +28,8 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
   - (a) a term deposit where the current term agreed to by the depositor at the most recent time it was negotiated exceeds 5 years;
 
+  - (aa) a structured deposit; (Added L.N. 107 of 2006)
+
   - (b) a deposit the repayment of which is secured either in whole or in part on the assets of the Scheme member;
 
   - (c) a bearer instrument;
@@ -36,7 +40,55 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
   - (f) a deposit held by an excluded person in his own right, or, in the case of a deposit held by an excluded person and a non-excluded person in their own right (except where those persons carry on business in partnership), the portion of the deposit attributable to the excluded person’s share in the deposit.
 
+- 2A. For the purposes of this Schedule, a deposit is a structured deposit if—
+
+  - (a) the loan of money, or any part of the loan, may be repaid—
+
+    - (i) in another currency to be converted, at an exchange rate specified in terms of a ratio at the time when the loan of money was made, from the currency in which that loan was made; or (Replaced L.N. 175 of 2006)
+
+    - (ii) in the form of any property other than money;
+
+  - (b) the interest on the loan of money, or the premium at which the loan of money is repayable, or any part of the interest or premium, may be paid in another currency to be converted, at an exchange rate specified in terms of a ratio at the time when the loan of money was made, from the currency in which that loan was made; (Amended L.N. 175 of 2006)
+
+  - (c) any amount of the loan of money to be repaid is determined by reference to—
+
+    - (i) the price or value of a financial product, commodity, non-local currency or property;
+
+    - (ii) the level of an index;
+
+    - (iii) the fact that a relevant figure—
+
+      - (A) is above, below or equal to a specified level; or
+
+      - (B) is within or outside a specified range;
+
+    - (iv) the difference calculated by subtracting a relevant figure from a specified percentage;
+
+    - (v) the result of a mathematical operation that involves more than one relevant figure; or
+
+    - (vi) the occurrence or non-occurrence of an event in relation to a person other than the depositor who holds, or the Scheme member that takes, the deposit; or
+
+  - (d) any amount of the interest on the loan of money, or of the premium at which the loan of money is repayable, is determined by reference to—
+
+    - (i) the price or value of a financial product, commodity, non-local currency or property;
+
+    - (ii) the level of an index;
+
+    - (iii) the fact that a relevant figure—
+
+      - (A) is above, below or equal to a specified level; or
+
+      - (B) is within or outside a specified range;
+
+    - (iv) the difference calculated by subtracting a relevant figure from a specified percentage;
+
+    - (v) the result of a mathematical operation that involves more than one relevant figure; or
+
+    - (vi) the occurrence or non-occurrence of an event in relation to a person other than the depositor who holds, or the Scheme member that takes, the deposit. (Added L.N. 107 of 2006)
+
 - 3. In this Schedule—
+
+  - “commodity” (商品) means any item which is listed in the Schedule to the Commodity Exchanges (Prohibition) Ordinance (Cap. 82); (Added L.N. 107 of 2006)
 
   - “excluded person” (豁除人士), in relation to a deposit maintained with a Scheme member, means—
 
@@ -58,7 +110,9 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
       - whichever is the earlier;
 
-      - (ii) to the definition of “protected deposit” in section 2(1) of this Ordinance for any other purpose and to the definition of “relevant deposit” in that section, an officer of the Scheme member or its related company;
+      - (ii) to the definition of “protected deposit” in section 2(1) of this Ordinance for any other purpose, an officer of the Scheme member or its related company; (Amended L.N. 107 of 2006)
+
+  - “financial product” (金融產品) means any securities, futures contract, collective investment scheme or leveraged foreign exchange contract within the meaning of section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Added L.N. 107 of 2006)
 
   - “foreign bank” (外地銀行) means a company that—
 
@@ -72,7 +126,9 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
     - (a) in relation to the definition of “protected deposit” in section 2(1) of this Ordinance for the purposes of Part 5 of this Ordinance, a person who is not an excluded person within the meaning of paragraph (a), (b), (c), (d) or (e)(i) of the definition of “excluded person”;
 
-    - (b) in relation to the definition of “protected deposit” in section 2(1) of this Ordinance for any other purpose and to the definition of “relevant deposit” in that section, a person who is not an excluded person within the meaning of paragraph (a), (b), (c), (d) or (e)(ii) of the definition of “excluded person”;
+    - (b) in relation to the definition of “protected deposit” in section 2(1) of this Ordinance for any other purpose, a person who is not an excluded person within the meaning of paragraph (a), (b), (c), (d) or (e)(ii) of the definition of “excluded person”; (Amended L.N. 107 of 2006)
+
+    - (c) in relation to the definition of “relevant deposit” in section 2(1) of this Ordinance, a person who is not an excluded person within the meaning of paragraph (a), (b), (c) or (d) of the definition of “excluded person”; (Added L.N. 107 of 2006)
 
   - “officer” (人員)—
 
@@ -94,6 +150,22 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
     - (b) a subsidiary of the holding company; or
 
-    - (c) a subsidiary of the Scheme member.
+    - (c) a subsidiary of the Scheme member; (Amended L.N. 107 of 2006)
+
+  - “relevant figure” (有關數字) means—
+
+    - (a) a rate of interest, quoted or published from time to time, that is offered by a person or government on a loan of money that—
+
+      - (i) the person or government makes to, or proposes to make to, another person or government; or
+
+      - (ii) the person or government raises from, or proposes to raise from, another person or government;
+
+    - (b) a rate of interest, quoted or published from time to time, that is offered by a person or government, for entering into a swap contract with another person or government, as the rate of interest at which payments to be made under that contract are to be calculated;
+
+    - (c) a rate of return, quoted or published from time to time, on an investment of moneys made by a person or government; or
+
+    - (d) a figure, quoted or published from time to time, that represents the result of a mathematical operation that involves more than one rate of interest or return mentioned in paragraph (a), (b) or (c); (Added L.N. 107 of 2006)
+
+  - “swap contract” (掉期合約) means a contract made between two parties whereby each party agrees to make payments, calculated at a rate of interest on a specified amount of money, to the other party in a particular period. (Added L.N. 107 of 2006)
 
 - 4. For the purposes of sections 1(f) and (g) and 2(f), if a deposit is held by more than one person in their own right or held for more than one person, each of those persons is deemed to have an equal share in the deposit unless the contrary is proved to the satisfaction of the Board.

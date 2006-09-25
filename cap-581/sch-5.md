@@ -4,14 +4,6 @@
 
 CONSEQUENTIAL AND OTHER AMENDMENTS
 
-- (1. Sections 2, 4 and 8 of this schedule have come into operation on 22 May 2004.
-
-- 2. Section 5 of this schedule has come into operation on 14 January 2005.
-
-- 3. Section 3 of this schedule has come into operation on 25 February 2005.
-
-- 4. Remaining provisions of this schedule are not yet in operation.)
-
 Companies Ordinance
 
 - 1. Preferential payments Section 265 of the Companies Ordinance (Cap. 32) is amended—
