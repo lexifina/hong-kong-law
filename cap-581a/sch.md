@@ -1,0 +1,5 @@
+# SCHEDULE
+
+[ss. 2 & 3]
+
+MEMBERSHIP SIGN
