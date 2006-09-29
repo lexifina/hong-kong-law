@@ -16,7 +16,7 @@
 
 - (1) Auxiliary Medical Service Officers’ Club | 81, Princess Margaret Road, 4/F, Ho Man Tin, Kowloon
 
-- (2) Border District Police Officers’ Mess | 3/F, Border District Police Headquarters, Man Kam To Road, Sha Ling, New Territories
+- (2) Border District Police Officers’ Mess | Room 307, Hong Kong Police Border District Headquarters, Man Kam To Road, Sha Ling, New Territories (L.N. 190 of 2006)
 
 - (3) Chek Lap Kok Police Officers’ Mess | Room 304, 3/F, Barrack Block, Catering Road West, Chek Lap Kok, Lantau Island, New Territories
 
@@ -50,7 +50,7 @@
 
 - (18) Hong Kong Fire Services Officers’ Mess | 4/F, Tsimshatsui Fire Station Complex, 333, Canton Road, Tsimshatsui, Kowloon (L.N. 216 of 2003)
 
-- (19) Hong Kong Island Region and Central District Police Officers’ Mess | Room 322, 3/F, Headquarters Block, Central Police Station Complex, 10 Hollywood Road, Hong Kong (L.N. 216 of 2003)
+- (19) Central District Police Officers’ Mess | Room 1203A, 12/F, Central Police Station, Central District Police Headquarters, 1 Arsenal Street, Wanchai, Hong Kong (L.N. 190 of 2006)
 
 - (20) The Hong Kong Police Senior Officers’ Mess | East Wing, 6/F, Caine House Police Headquarters, Arsenal Street, Wanchai, Hong Kong (L.N. 216 of 2003)
 
@@ -86,9 +86,9 @@
 
 - (36) Lantau District Police Officers’ Mess | Room 601, 6/F, 1 Shun Tung Road, Lantau Island, New Territories (L.N. 94 of 2002)
 
-- (37) Local Inspectors’ Association-Hong Kong Police | Room 6, 1 Arbuthnot Road, Hong Kong
+- (37) (Repealed L.N. 190 of 2006)
 
-- (38) Marine Outer Waters District Officers’ Mess | Room 303, 3/F, 1, Wa Yung Road, Tui Min Hoi, Sai Kung, New Territories (L.N. 181 of 2001)
+- (38) Marine Outer Waters District Officers’ Mess | Room D249 & D250, 2/F, Marine Police Outer Waters District Headquarters and Marine Police North Division, Kiu Ha Road, Ma Liu Shui, New Territories (L.N. 190 of 2006)
 
 - (39) Marine Police Officers’ Mess | Room 301-302, 3/F, Tai Hong Street, Sai Wan Ho, Hong Kong
 
@@ -102,17 +102,17 @@
 
 - (44) New Territories Regional Police Officers’ Mess | Room 901, 9/F, 6, On Po Lane, Tai Po, New Territories (L.N. 94 of 2002)
 
-- (45) New Territories South Regional Police Officers’ Mess | 15/F, 200, Ma On Shan Road, Shatin, New Territories
+- (45) New Territories South Regional Police Officers’ Mess | 13/F, New Territories South Regional Headquarters, 8 Shing Mun Road, Tsuen Wan, New Territories (L.N. 190 of 2006)
 
 - (46) Officers’ Club, Correctional Services Department | 51, Tung Tau Wan Road, Stanley, Hong Kong
 
-- (47) Officers’ Mess, Police Training School | 18, Ocean Park Road, Wong Chuk Hang, Aberdeen, Hong Kong
+- (47) Hong Kong Police College Officers’ Mess (L.N. 190 of 2006) | 18, Ocean Park Road, Wong Chuk Hang, Aberdeen, Hong Kong
 
-- (48) Police Civilian Staff Club | Room 4, G/F, Old Central Magistracy, Hong Kong
+- (48) The Police Civilian Staff Club | Room 3403A, 34/F, Arsenal House, Police Headquarters, 1 Arsenal Street, Wanchai, Hong Kong (L.N. 190 of 2006)
 
 - (49) Police Officers’ Club | 28 Hung Hing Road, Causeway Bay, Hong Kong (L.N. 216 of 2003)
 
-- (50) Police Sports and Recreation Club | 430, Sai Yeung Choi Street, Kowloon
+- (50) Police Sports and Recreation Club | 430, Sai Yeung Choi Street North, Kowloon (L.N. 190 of 2006)
 
 - (51) The Police Tactical Unit Officers’ Mess | G/F, Block G, 1 Wu Tip Shan Road, Fanling, New Territories (L.N. 86 of 2005)
 
@@ -136,7 +136,7 @@
 
 - (61) Western District Police Officers’ Mess | Room 406, 4/F, 280, Des Voeux Road West, Hong Kong
 
-- (62) Wong Tai Sin District Officers’ Mess | G/F, Lower Block, 2, Shatin Pass Road, Wong Tai Sin, Kowloon
+- (62) Wong Tai Sin Officers’ Mess (L.N. 190 of 2006) | G/F, Lower Block, 2, Shatin Pass Road, Wong Tai Sin, Kowloon
 
 - (63) Yau Tsim Police Officers’ Mess | 9/F, 213, Nathan Road, Kowloon
 
@@ -195,5 +195,7 @@
 - (90) Fire Safety Ambassadors Club | Flat 1, Additional Quarters, Kwun Tong Fire Station, 426 Kwun Tong Road, Kowloon (L.N. 181 of 2001)
 
 - (91) The Commercial Crime Bureau Officers’ Executive Boardroom | Room 1311, 13/F, Arsenal House West Wing, Police Headquarters, 1 Arsenal Street, Wanchai, Hong Kong (L.N. 86 of 2005)
+
+- (92) Castle Peak Bay Immigration Centre Staff Mess | 4/F, Castle Peak Bay Immigration Centre, 84 Castle Peak Road, Tuen Mun, New Territories (L.N. 190 of 2006)
 
 - (L.N. 308 of 1999)
