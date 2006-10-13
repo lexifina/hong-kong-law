@@ -62,7 +62,7 @@ Item Body
 
 - 29. Christian Action
 
-- 30. CityU Consultants Limited
+- 30. CityU Professional Services Limited (Amended L.N. 210 of 2006)
 
 - 31. Heung To College of Professional Studies
 
@@ -112,7 +112,7 @@ Item Body
 
 - 54-55. (Repealed L.N. 71 of 2006)
 
-- 56. Sheng Kung Hui Diocesan Welfare Council
+- 56. Hong Kong Sheng Kung Hui Welfare Council (Amended L.N. 210 of 2006)
 
 - 57. Hong Kong St. John Ambulance
 
