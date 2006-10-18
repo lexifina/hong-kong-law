@@ -22,10 +22,18 @@ Section | Description | Fee $
 
 15(d) | Permit to operate any power-driven model boat or aeroplane | 180 (for each event)
 
+15A | Permit to navigate or cause to be navigated any specified vessel | 510 (per year)
+
+15B(2) | Permit to collect marine life and resources | Nil
+
 17(3) | Permit for fishing | Nil
 
-17(4) | Renewal of a permit— (a) permit for fishing (b) any other permit | Nil 180
+17(4) | Renewal of a permit—
+
+(a) permit for fishing | Nil
+
+(b) any other permit | 180
 
 17(7) | Duplicate of a permit | 100
 
-(L.N. 474 of 1997; L.N. 350 of 2000; L.N. 31 of 2001; L.N. 48 of 2005)
+(L.N. 474 of 1997; L.N. 350 of 2000; L.N. 31 of 2001; L.N. 48 of 2005; L.N. 134 of 2006)
