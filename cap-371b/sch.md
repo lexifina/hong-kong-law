@@ -1,168 +1,146 @@
 # SCHEDULE
 
-[paras. 3, 4A, 4B, 5 & 8] (L.N. 558 of 1994; L.N. 188 of 1999)
+[paras. 3, 4A, 4AA, 4B, 5 & 8] (L.N. 558 of 1994; L.N. 188 of 1999; 21 of 2006 s. 40)
 
 - PART I (Repealed L.N. 188 of 1999)
 
-- PART II HEALTH WARNINGS AND INDICATION OF TAR
+- PART II FORMS OF HEALTH WARNING AND INDICATION OF TAR
 
-- AND NICOTINE YIELDS ON PACKETS
+- AND NICOTINE YIELDS ON PACKET OR RETAIL
 
-- OF 20 OR MORE CIGARETTES AND
+- CONTAINER OF CIGARETTES
 
-- ON THEIR RETAIL CONTAINERS
+- Form 1
 
-Form 1 | TAR: 9 mg NICOTINE: 2.5 mg
+- Form 2
 
-English Version | SMOKING KILLS
+- Form 3
 
-HKSAR GOVERNMENT HEALTH WARNING
+- Form 4
 
-焦油： 9 毫克 尼古丁： 2.5 毫克
+- Form 5
 
-Chinese Version | 吸煙足以致命
+- Form 6
 
-特區政府忠告市民
+- Specifications:
 
-Form 2 | TAR: 9 mg NICOTINE: 2.5 mg
+  - 1. Each form is rectangular in shape and surrounded by a black line as demarcation.
 
-English Version | SMOKING CAUSES CANCER
+  - 2. Each form is divided into 3 rectangular areas (marked “A”, “B” and “C” in the diagram below). The ratio of the length of area A to that of area B to that of area C (marked “a”, “b” and “c” respectively in that diagram) is 9 to 2 to 1.
 
-HKSAR GOVERNMENT HEALTH WARNING
+  - 3. Area A contains the graphic (on which “香港特區政府忠告市民” (in the Chinese version) or “HKSAR GOVERNMENT WARNING” (in the English version) is printed) as set out in the form. Area B contains the message in words as set out in the form. Area C contains an indication of tar and nicotine yields as set out in the form.
 
-焦油： 9 毫克 尼古丁： 2.5 毫克
+  - 4. For the Chinese version, the characters and numbers are printed in “中黑體” typeface. For the English version, the letters and numbers are printed in Univers Bold typeface.
 
-Chinese Version | 吸煙引致癌病
+  - 5. In relation to area A—
 
-特區政府忠告市民
+    - (a) the characters and letters are printed in white;
 
-Form 3 | TAR: 9 mg NICOTINE: 2.5 mg
+    - (b) the graphic is printed by 4-colour printing with a minimum resolution of 300 dpi.
 
-English Version | SMOKING CAUSES HEART DISEASE
+  - 6. In relation to areas B and C—
 
-HKSAR GOVERNMENT HEALTH WARNING
+    - (a) the background colour is white;
 
-焦油： 9 毫克 尼古丁： 2.5 毫克
+    - (b) the characters, letters and numbers are printed in—
 
-Chinese Version | 吸煙引致心臟病
+      - (i) 100% black for black; and
 
-特區政府忠告市民
+      - (ii) 100% yellow plus 100% magenta for red.
 
-Form 4 | TAR: 9 mg NICOTINE: 2.5 mg
+  - (21 of 2006 s. 40)
 
-English Version | SMOKING CAUSES LUNG CANCER
+- PART IIA FORMS OF HEALTH WARNING ON RETAIL CONTAINER OF CIGAR,
 
-HKSAR GOVERNMENT HEALTH WARNING
+- PIPE TOBACCO OR CIGARETTE TOBACCO (OTHER THAN RETAIL
 
-焦油： 9 毫克 尼古丁： 2.5 毫克
+- CONTAINER CONTAINING ONE CIGAR) Form 1
 
-Chinese Version | 吸煙引致肺癌
+- Form 2
 
-特區政府忠告市民
+- Form 3
 
-Form 5 | TAR: 9 mg NICOTINE: 2.5 mg
+- Form 4
 
-English Version | SMOKING CAUSES RESPIRATORY DISEASES
+- Form 5
 
-HKSAR GOVERNMENT HEALTH WARNING
+- Form 6
 
-焦油： 9 毫克 尼古丁： 2.5 毫克
+- Specifications:
 
-Chinese Version | 吸煙引致 呼吸系統疾病
+  - 1. Each form is rectangular in shape and surrounded by a black line as demarcation.
 
-特區政府忠告市民
+  - 2. Each form is divided into 2 rectangular areas (marked “A” and “B” in the diagram below). The ratio of the length of area A to that of area B (marked “a” and “b” respectively in that diagram) is 3 to 1.
 
-Form 6 | TAR: 9 mg NICOTINE: 2.5 mg
+  - 3. Area A contains the graphic (on which “香港特區政府忠告市民” (in the Chinese version) or “HKSAR GOVERNMENT WARNING” (in the English version) is printed) as set out in the form. Area B contains the message in words as set out in the form.
 
-English Version | SMOKING HARMS YOUR CHILDREN
+  - 4. For the Chinese version, the characters are printed in “中黑體” typeface.
 
-HKSAR GOVERNMENT HEALTH WARNING
+- For the English version, the letters are printed in Univers Bold typeface.
 
-焦油： 9 毫克 尼古丁： 2.5 毫克
+  - 5. In relation to area A—
 
-Chinese Version | 吸煙禍及子女
+    - (a) the characters and letters are printed in white;
 
-特區政府忠告市民
+    - (b) the graphic is printed by 4-colour printing with a minimum resolution of 300 dpi.
 
-(L.N. 188 of 1999)
+  - 6. In relation to area B—
 
-- PART IIA HEALTH WARNINGS ON PACKETS, CONTAINERS,
+    - (a) the background colour is white;
 
-- DRUMS OR WRAPPING CONTAINING
+    - (b) the characters and letters are printed in—
 
-- CIGARS, PIPE TOBACCO AND
+      - (i) 100% black for black; and
 
-- CIGARETTE TOBACCO
+      - (ii) 100% yellow plus 100% magenta for red.
 
-Form 1 | HKSAR GOVERNMENT HEALTH WARNING
+  - (21 of 2006 s. 40)
 
-English Version | SMOKING KILLS
+- PART IIB FORMS OF HEALTH WARNING ON RETAIL CONTAINER
 
-特區政府忠告市民
+- CONTAINING ONE CIGAR
 
-Chinese Version | 吸煙足以致命
+- Form 1
 
-Form 2 | HKSAR GOVERNMENT HEALTH WARNING
+- Form 2
 
-English Version | SMOKING CAUSES CANCER
+- Form 3
 
-特區政府忠告市民
+- Form 4
 
-Chinese Version | 吸煙引致癌病
+- Form 5
 
-Form 3 | HKSAR GOVERNMENT HEALTH WARNING
+- Form 6
 
-English Version | SMOKING CAUSES HEART DISEASE
+- Specifications:
 
-特區政府忠告市民
+  - 1. Each form is rectangular in shape and surrounded by a black line as demarcation. The width and the length (marked “w” and “l” respectively in the diagram below) are 7 cm and 3 cm respectively.
 
-Chinese Version | 吸煙引致心臟病
+  - 2. Each form is divided into 2 rectangular areas (marked “A” and “B” in that diagram). The lengths of area A and area B (marked “a” and “b” respectively in that diagram) are 2.25 cm and 0.75 cm respectively.
 
-Form 4 | HKSAR GOVERNMENT HEALTH WARNING
+  - 3. Area A contains the graphic (on which “香港特區政府忠告市民” (in the Chinese version) or “HKSAR GOVERNMENT WARNING” (in the English version) is printed) as set out in the form. Area B contains the message in words as set out in the form.
 
-English Version | SMOKING CAUSES LUNG CANCER
+  - 4. For the Chinese version, the characters are printed in “中黑體” typeface.
 
-特區政府忠告市民
+- For the English version, the letters are printed in Univers Bold typeface.
 
-Chinese Version | 吸煙引致肺癌
+  - 5. In relation to area A—
 
-Form 5 | HKSAR GOVERNMENT HEALTH WARNING
+    - (a) the characters and letters are printed in white;
 
-English Version | SMOKING CAUSES RESPIRATORY DISEASES
+    - (b) the graphic is printed by 4-colour printing with a minimum resolution of 300 dpi.
 
-特區政府忠告市民
+  - 6. In relation to area B—
 
-Chinese Version | 吸煙引致 呼吸系統疾病
+    - (a) the background colour is white;
 
-Form 6 | HKSAR GOVERNMENT HEALTH WARNING
+    - (b) the characters and letters are printed in—
 
-English Version | SMOKING HARMS YOUR CHILDREN
+      - (i) 100% black for black; and
 
-特區政府忠告市民
+      - (ii) 100% yellow plus 100% magenta for red.
 
-Chinese Version | 吸煙禍及子女
-
-(L.N. 188 of 1999)
-
-- PART IIB HEALTH WARNING ON PACKET, CONTAINER,
-
-- DRUM OR WRAPPING CONTAINING A CIGAR
-
-- WHICH IS SOLD INDIVIDUALLY
-
-Form 1 | HKSAR GOVERNMENT HEALTH WARNING SMOKING KILLS 特區政府忠告市民 吸煙足以致命
-
-Form 2 | HKSAR GOVERNMENT HEALTH WARNING SMOKING CAUSES CANCER 特區政府忠告市民 吸煙引致癌病
-
-Form 3 | HKSAR GOVERNMENT HEALTH WARNING SMOKING CAUSES HEART DISEASE 特區政府忠告市民 吸煙引致心臟病
-
-Form 4 | HKSAR GOVERNMENT HEALTH WARNING SMOKING CAUSES LUNG CANCER 特區政府忠告市民 吸煙引致肺癌
-
-Form 5 | HKSAR GOVERNMENT HEALTH WARNING SMOKING CAUSES RESPIRATORY DISEASES 特區政府忠告市民 吸煙引致呼吸系統疾病
-
-Form 6 | HKSAR GOVERNMENT HEALTH WARNING SMOKING HARMS YOUR CHILDREN 特區政府忠告市民 吸煙禍及子女
-
-(L.N. 188 of 1999)
+  - (21 of 2006 s. 40)
 
 - PART III HEALTH WARNINGS ON TOBACCO
 
