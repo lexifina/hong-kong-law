@@ -30,7 +30,7 @@
 
       - “States concerned” has the same meaning as it has in Chapter 1.1.2 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001)
 
-      - “Technical Instructions” means the 2003-2004 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003)
+      - “Technical Instructions” means the 2005-2006 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006)
 
       - “unit load device” means any type of freight container including any container designed for loading on an aircraft.
 
@@ -108,7 +108,7 @@
 
     - (1) The operator of an aircraft in which any package or unit load device containing dangerous goods is to be carried shall satisfy himself by making an inspection:
 
-      - (a) that the package is marked and labelled in accordance with the provisions of these Regulations, such provisions of Part 4 and Chapters 2 and 4 of Part 3 as relate to marking and labelling, and Chapters 1.6, 1.7, 1.8, 2 and 3 of Part 5 of the Technical Instructions before accepting the package; (L.N. 150 of 1997; L.N. 234 of 2001)
+      - (a) that the package is marked and labelled in accordance with the provisions of these Regulations, such provisions of Part 4 and Chapters 2 and 4 of Part 3 as relate to marking and labelling, and Chapters 1.5, 1.6, 1.7, 2 and 3 of Part 5 of the Technical Instructions before accepting the package; (L.N. 150 of 1997; L.N. 234 of 2001; L.N. 74 of 2006)
 
       - (b) that the package is not leaking or damaged so that the contents may escape—
 
@@ -170,11 +170,31 @@
 
       - (b) the copy, or the information contained in it, is readily accessible to the aerodromes of last departure and next scheduled arrival point until after the flight to which the information refers. (L.N. 214 of 2003)
 
-    - (2) The operator of an aircraft in which passengers are to be carried or his agent shall notify them of the categories of dangerous goods which may not be taken on board an aircraft either as checked baggage or accompanying a passenger by the provision of information with each passenger ticket which shall be sufficient in prominence for this purpose and by displaying notices, sufficient in number and prominence for this purpose, at each of the places at an airport where the operator or his agent issues tickets, checks in passengers or maintains areas to assemble passengers to board the aircraft, and at any other location where passengers are checked in. (L.N. 214 of 2003)
+    - (2) The operator of an aerodrome and the operator of an aircraft in which passengers are to be carried shall ensure that passengers of the aircraft are provided with information, in accordance with paragraph (2A), as to which categories of dangerous goods may not be taken on board the aircraft (whether as checked baggage or baggage accompanying passengers). (L.N. 74 of 2006)
+
+    - (2A) The information shall—
+
+      - (a) be provided, sufficient in prominence for the purposes of paragraph (2), in or with the tickets issued to passengers of the aircraft; and
+
+      - (b) be provided in notices, sufficient in number and prominence for the purposes of paragraph (2), displayed at—
+
+        - (i) each of the places at the airport where—
+
+          - (A) tickets are issued;
+
+          - (B) passengers are checked in; or
+
+          - (C) passengers assemble to board the aircraft; and
+
+        - (ii) any other location where passengers are checked in. (L.N. 74 of 2006)
 
     - (3) The operator of an aircraft and his agent shall inform any of their respective employees whose duties include a function connected with the carriage of passengers or cargo by air of the provisions of the Technical Instructions and for this purpose shall establish and undertake training programmes, as required by Chapter 4 of Part 1 of the Technical Instructions, which shall be submitted to the Chief Executive for approval on such occasions as the Chief Executive may require and which shall be amended as the Chief Executive may require. (36 of 1999 s. 3; L.N. 234 of 2001)
 
-  - 9. Production of documents and records The operator of an aircraft shall, within a reasonable time after being requested so to do by an authorized person, cause to be produced to that person such of the following documents as may have been requested by that person—
+  - 9.
+
+  - Production of documents and records
+
+  - The operator of an aircraft shall, within a reasonable time after being requested so to do by an authorized person, cause to be produced to that person such of the following documents as may have been requested by that person—
 
     - (a) the written permission referred to in Regulation 3(1) of these Regulations;
 
