@@ -23,3 +23,5 @@
 - 10. The 1st and 2nd floors of No. 1 Ma Tau Kok Road, Kowloon. (L.N. 537 of 1997)
 
 - 11. The area set aside as a detention room in the part of the River Trade Terminal, Tuen Mun, occupied by the Immigration Department. (L.N. 325 of 1998)
+
+- 12. The area inside the Tuen Mun Ferry Terminal that is set aside as a detention room for use by the Immigration Department. (L.N. 61 of 2004)
