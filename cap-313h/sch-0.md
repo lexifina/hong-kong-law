@@ -1,8 +1,10 @@
-# SCHEDULE
+# SCHEDULE 2
 
 [reg. 37]
 
 FEES
+
+(L.N. 57 of 2004)
 
 PART 1-PASSES
 
