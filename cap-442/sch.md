@@ -76,6 +76,8 @@ Item | Ordinance | Decision
 
 36. | Ozone Layer Protection Ordinance (Cap. 403) | A decision of the Director of Environmental Protection under section 5, 6 or 7 or under provisions of the regulations that may be specified to be subject to an appeal under section 8. (Added 6 of 1997 s. 10)
 
+38. | Freight Containers (Safety) Ordinance (Cap. 506) | A decision of the Director— (a) (Repealed 14 of 2006 s. 20) (b) under section 9, that an approval shall no longer be valid; (c) under section 12 or 13, in an application for approval of an examination procedure; (d) under sections 14 to 16, in relation to control of the use of a container; (e) under section 23, in relation to an application for the review of a decision of an authorized person; (f) under section 25, in relation to any request for exemption under that section. (Added 32 of 1997 s. 29)
+
 39. | Volunteer and Naval Volunteer Pensions Ordinance (Cap. 202) | A decision in a review under section 22. (Added 56 of 1997 s. 7)
 
 40. | Child Care Services Regulations (Cap. 243 sub. leg. A) | A decision of the Director of Social Welfare under regulation 4 refusing an application for inclusion in a register or removing the name of a person from a register. (Added L.N. 272 of 1997. Amended 32 of 2000 s. 37)
