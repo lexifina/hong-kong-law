@@ -148,6 +148,8 @@ Smithfield Market | 士美非路街市 (78 of 1999 s. 7)
 
 Soy Street Temporary Cooked Food Market | 豉油街臨時熟食市場 (78 of 1999 s. 7)
 
+Stanley Waterfront Mart | 赤柱海濱小賣亭 (L.N. 256 of 2006)
+
 Sze Shan Street Cooked Food Market | 四山街熟食市場 (78 of 1999 s. 7)
 
 Tai Kiu Market | 大橋街市 (L.N. 288 of 1984)
