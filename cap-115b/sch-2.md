@@ -11,3 +11,5 @@
 - 4. The Pui Yin Juvenile Home. (L.N. 22 of 1986)
 
 - 5. Pui Chi Boys’ Home. (L.N. 100 of 1994)
+
+- 6. Tuen Mun Children and Juvenile Home. (L.N. 241 of 2006)
