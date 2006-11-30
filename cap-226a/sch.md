@@ -17,3 +17,5 @@ Place | Purpose
 7. | (Repealed L.N. 243 of 1999)
 
 8. | The Ma Tau Wai Girls’ Home situate at 51 Sheung Shing Street, Homantin, Kowloon. (L.N. 95 of 2001) | For all purposes of the Ordinance.
+
+9. | Tuen Mun Children and Juvenile Home. (L.N. 238 of 2006) | For all purposes of the Ordinance.
