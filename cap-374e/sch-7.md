@@ -70,7 +70,7 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (vii) Ngan Shing Street between Sha Tin Wai Road and Chap Wai Kon Street;
 
-  - (viii) Chap Wai Kon Street west of its junction with Ngan Shing Street;
+    - (viii) Chap Wai Kon Street west of its junction with Ngan Shing Street;
 
     - (ix) Ma On Shan Road;
 
@@ -106,7 +106,7 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (vii) Wai Tsuen Road;
 
-  - (viii) Miu Kong Street;
+    - (viii) Miu Kong Street;
 
     - (ix) Shing Mun Road between Miu Kong Street and Sai Lau Kok Road;
 
@@ -164,15 +164,19 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (v) Cheong Wong Road;
 
-    - (vi) Cheong Lin Road between Cheong Wong Road and Airport South Interchange;
+    - (vi) (Repealed L.N. 52 of 2006)
 
     - (vii) Airport South Interchange;
 
-  - (viii) Airport North Interchange;
+    - (viii) Airport North Interchange;
 
-    - (ix) Magic Road; and (L.N. 58 of 2005)
+    - (ix) Magic Road; (L.N. 58 of 2005; L.N. 52 of 2006)
 
-    - (x) Sea Point Road. (L.N. 58 of 2005)
+    - (x) Sea Point Road; (L.N. 58 of 2005; L.N. 52 of 2006)
+
+    - (xi) Sky Plaza Road; and (L.N. 52 of 2006)
+
+    - (xii) Cheong Tat Road westbound between Airport North Interchange and Cheong Hing Road. (L.N. 52 of 2006)
 
   - (j) The following roads in the Kwai Tsing District as delineated in Part II of Schedule 1 to the District Councils Ordinance (Cap. 547)—
 
@@ -190,7 +194,7 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (vii) the slip road joining Tsing Yi Road West and Cheung Tsing Highway;
 
-  - (viii) Cheung Tsing Highway between the slip road joining Cheung Tsing Highway and Tsing Yi Road West and North West Tsing Yi Interchange;
+    - (viii) Cheung Tsing Highway between the slip road joining Cheung Tsing Highway and Tsing Yi Road West and North West Tsing Yi Interchange;
 
     - (ix) North West Tsing Yi Interchange;
 
