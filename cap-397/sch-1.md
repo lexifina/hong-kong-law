@@ -50,6 +50,8 @@ Environmental Protection Department.
 
 Equal Opportunities Commission. (Added 30 of 2001 s. 19)
 
+Financial Reporting Council. (Added 18 of 2006 s. 81)
+
 Fire Services Department.
 
 Food and Environmental Hygiene Department. (Added 78 of 1999 s. 7)

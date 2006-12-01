@@ -16,7 +16,9 @@ PUBLIC BODIES SPECIFIED FOR PURPOSES OF DEFINITION OF “PUBLIC SERVANT”
 
 - 6. Hong Kong Exchanges and Clearing Limited. (Added 12 of 2000 s. 23)
 
-- * 7. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002) (Schedule 2 added 20 of 1999 s. 7)
+- *7. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002)
+
+- 8. Financial Reporting Council. (Added 18 of 2006 s. 80) (Schedule 2 added 20 of 1999 s. 7)
 
 Editorial Note:
 
