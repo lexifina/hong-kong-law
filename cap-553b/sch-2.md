@@ -22,13 +22,13 @@ Item | Enactment | Provision
 
 8. | Legitimacy Ordinance (Cap. 184) | Schedule, paragraph 1
 
-9. | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) | Regulations 5(3), 17(2) and 20(3)
+9. | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) | Regulation 17(2) (L.N. 152 of 2006)
 
 10. | Dangerous Goods (Consignment by Air) (Safety) Regulations (Cap. 384 sub. leg. A) | Regulation 6(3)
 
 11. | Land Drainage (Consent and Approval) Regulation (Cap. 446 sub. leg. A) | Section 6
 
-12. | Land Survey Ordinance (Cap. 473) | Section 30(4)
+12. | (Repealed L.N. 152 of 2006)
 
 13. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg. A) | Sections 14(2) and 15(6) (L.N. 261 of 2000)
 
@@ -60,8 +60,6 @@ Item | Enactment | Provision
 
 24. | Village Representative Election Ordinance (Cap. 576) | Sections 8(2), 10(2), 24 and 26(2) (2 of 2003 s. 68)
 
-25. | Antibiotics Ordinance (Cap. 137) | Section 4(1)(c) (L.N. 36 of 2003)
-
-26. | Pharmacy and Poisons Regulations (Cap. 138 sub. leg. A) | Regulation 9(3)(a) (L.N. 36 of 2003)
+25-26. | (Repealed L.N. 152 of 2006)
 
 27. | Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229) | Section 9(1) (L.N. 36 of 2003)

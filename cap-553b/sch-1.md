@@ -30,11 +30,7 @@ Item | Enactment | Provision
 
 14. | Building (Oil Storage Installations) Regulations (Cap. 123 sub. leg. K) | Regulations 6(1) and 10(2)
 
-15. | Lands Resumption Ordinance (Cap. 124) | Sections 6(2) and 8(1)
-
-16. | Foreshore and Sea-bed (Reclamations) Ordinance (Cap. 127) | Sections 6(1) and 12(1)
-
-17. | Land Acquisition (Possessory Title) Ordinance (Cap. 130) | Section 6(1)
+15-17. | (Repealed L.N. 152 of 2006)
 
 18. | Town Planning Ordinance (Cap. 131) | Sections 16(2), 17(1) and 24(1)
 
@@ -48,7 +44,7 @@ Item | Enactment | Provision
 
 23. | Offensive Trades Regulation (Cap. 132 sub. leg. AX) | Section 9(2)
 
-24. | Places of Amusement Regulation (Cap. 132 sub. leg. BA) | Section 5(1)
+24. | (Repealed L.N. 152 of 2006)
 
 25. | Public Cemeteries Regulation (Cap. 132 sub. leg. BI) | Section 5(a)
 
@@ -68,27 +64,19 @@ Item | Enactment | Provision
 
 33. | Aerial Ropeways (Safety) Ordinance (Cap. 211) | Section 7
 
-34. | Aerial Ropeways (Operation and Maintenance) Regulations (Cap. 211 sub. leg. A) | Regulations 6(1) and 20(5)
-
-35. | Peak Tramway (Safety) Regulations (Cap. 265 sub. leg. A) | Regulation 30
-
-36. | Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (Cap. 276) | Section 21(1)
+34-36. | (Repealed L.N. 152 of 2006)
 
 37. | (Repealed L.N. 36 of 2003)
 
 38. | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Cap. 296 sub. leg. A) | Regulations 11(2) and 12(2)
 
-39. | Reserved Commodities (Control of Sales by Wholesale) Regulations (Cap. 296 sub. leg. B) | Regulation 3(2)
+39. | (Repealed L.N. 152 of 2006)
 
 40. | Lifts and Escalators (Safety) Ordinance (Cap. 327) | Section 6(1)
 
-41. | Hotel and Guesthouse Accommodation Ordinance (Cap. 349) | Sections 6(1) and (4), 7(2), 8(1), 9(2) and 12(2)
+41-43. | (Repealed L.N. 152 of 2006)
 
-42. | Water Pollution Control (Sewerage) Regulation (Cap. 358 sub. leg. AL) | Sections 14(1) and 16(1)
-
-43. | Roads (Works, Use and Compensation) Ordinance (Cap. 370) | Sections 10(1) and (3) and 29(1) and (4)
-
-44. | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) | Regulations 5(1), 12R(1), 17(2) and 20(1) and (3) (25 of 2005 s. 41)
+44. | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) | Regulations 12R(1), 17(2) and 20(1) (25 of 2005 s. 41; L.N. 152 of 2006)
 
 45. | Dangerous Goods (Consignment by Air) (Safety) Regulations (Cap. 384 sub. leg. A) | Regulation 6(1)(b)
 
@@ -98,15 +86,13 @@ Item | Enactment | Provision
 
 48. | Amusement Rides (Safety) (Operation and Maintenance) Regulation (Cap. 449 sub. leg. B) | Section 6(1)
 
-49. | Builders’ Lifts and Tower Working Platforms (Safety) Ordinance (Cap. 470) | Sections 12(3) and 15(a)
+49-50. | (Repealed L.N. 152 of 2006)
 
-50. | Land Survey Ordinance (Cap. 473) | Section 30(4) and (6)
-
-51. | New Territories Land Exchange Entitlements (Redemption) Ordinance (Cap. 495) | Section 5(1), (2), (4) and (5)
+51. | New Territories Land Exchange Entitlements (Redemption) Ordinance (Cap. 495) | Section 5(1) and (2) (L.N. 152 of 2006)
 
 52. | Environmental Impact Assessment Ordinance (Cap. 499) | Sections 4(5), 5(1), (2) and (4), 6(2), 7(1)(a), 8(1), 10(1)(a), 12(1) and (2) and 13(1)
 
-53. | Railways Ordinance (Cap. 519) | Sections 10(1) and (4) and 34(1)
+53. | (Repealed L.N. 152 of 2006)
 
 54. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg. A) | Section 5(2) (L.N. 261 of 2000)
 
@@ -144,8 +130,6 @@ Item | Enactment | Provision
 
 68. | Village Representative Election Ordinance (Cap. 576) | Sections 8(1), 10(1), 24 and 26(2) (2 of 2003 s. 68)
 
-69. | Antibiotics Ordinance (Cap. 137) | Section 4(1)(c) (L.N. 36 of 2003)
-
-70. | Pharmacy and Poisons Regulations (Cap. 138 sub. leg. A) | Regulation 9(3)(a) (L.N. 36 of 2003)
+69-70. | (Repealed L.N. 152 of 2006)
 
 71. | Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229) | Section 9(1) (L.N. 36 of 2003)
