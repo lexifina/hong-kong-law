@@ -34,9 +34,9 @@ Column 1 | Column 2
 
 (h) The access road on eastern side of the multi-storey car park linking northern and southern parts of Cheong Tat Road.
 
-(i) The access road linking Cheong Lin Road to CLP Power Hong Kong Ltd. Airport ‘A’ Substation near Cheong Lin Road/East Coast Road roundabout.
+(i) The access road linking Cheong Lin Road to CLP Power Hong Kong Ltd. Airport ‘A’ Substation near Sky City Interchange. (L.N. 202 of 2006)
 
-(j) The access road linking East Coast Road to CLP Power Hong Kong Ltd. Airport ‘A’ Substation near Cheong Lin Road/East Coast Road roundabout.
+(j) The access road linking East Coast Road to CLP Power Hong Kong Ltd. Airport ‘A’ Substation near Sky City Interchange. (L.N. 202 of 2006)
 
 (k) The access road linking Chek Lap Kok South Road to CLP Power Hong Kong Ltd. Airport ‘B’ Substation near Airport Freight Forwarding Centre.
 
@@ -44,6 +44,8 @@ Column 1 | Column 2
 
 (m) The access road linking Catering Road East to Town Gas Station next to Landside Fire Station.
 
-3. | All designated roads at Chek Lap Kok, being the areas shown in green, red or pink on a plan numbered AAHK/BL/6/001/G and deposited in the head office of the Authority. (L.N. 233 of 2005) | All motor vehicles driven by learner drivers.
+(n) The Coach Station at Terminal 2, being the area shown in red on a plan numbered PSU/P350/C/1002/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
+
+3. | All designated roads at Chek Lap Kok, being the areas shown in green or red on a plan numbered AAHK/BL/6/001/H and deposited in the head office of the Authority. | All motor vehicles driven by learner drivers. (L.N. 202 of 2006)
 
 4. | The taxi pick-up and staging area which is about 240 m east of the junction of Sky City Road and Airport Expo Boulevard, being the area delineated by hatching on a plan numbered PSU/P330/C/0020/A and deposited in the head office of the Authority. (L.N. 233 of 2005) | All motor vehicles except taxis.

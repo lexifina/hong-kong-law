@@ -12,7 +12,7 @@ Column 1 | Column 2
 
 (c) Cheong Wong Road.
 
-(d) Cheong Hing Road.
+(d) The section of Cheong Hing Road from its junction with Airport North Interchange to the ramp to Airport Station, being the area shown in red on a plan numbered PSU/P350/G/2001/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
 
 (e) South Perimeter Road.
 
@@ -40,7 +40,7 @@ Column 1 | Column 2
 
 (q) The section of Chek Lap Kok South Road from its junction with South Perimeter Road to a point about 1330 m south-east of the same junction.
 
-(r) The access road to the Shell Station near Airport South Interchange.
+(r) Cheong Lin Path. (L.N. 202 of 2006)
 
 (s) Chun Wan Road North except section of the northbound carriageway of Chun Wan Road North from a point about 60 m north of its junction with the roundabout to a point about 125 m north from the same junction.
 
@@ -56,9 +56,29 @@ Column 1 | Column 2
 
 (y) Airport Expo Boulevard. (L.N. 233 of 2005)
 
-(z) The section of Sky City Road East from its junction with Sky City Interchange to a point about 270 m north of the junction and the section of Sky City Road East from its junction with Airport Expo Boulevard to a point about 30 m south of the junction, being the areas delineated by hatching on a plan numbered PSU/P330/C/0022/A and deposited in the head office of the Authority. (L.N. 233 of 2005)
+(z) Sky City Road East. (L.N. 202 of 2006)
 
-(za) Temporary road from a point about 270 m north of Sky City Interchange to a point about 615 m north of the interchange, being the area delineated by hatching on a plan numbered PSU/P330/C/0023/A and deposited in the head office of the Authority. (L.N. 233 of 2005)
+(za) (Repealed L.N. 202 of 2006)
+
+(zb) The northern and southern sections of Sky Plaza Road Central, being the areas shown in red on a plan numbered PSU/P350/G/2002/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
+
+(zc) Sky Plaza Road South. (L.N. 202 of 2006)
+
+(zd) Sky Plaza Drive. (L.N. 202 of 2006)
+
+(ze) The northern and southern sections of Sky Plaza Road, being the areas shown in red on a plan numbered PSU/P350/G/2003/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
+
+(zf) The western kerbside lane of the section of Sky Plaza Road, being the area shown in red on a plan numbered PSU/P350/G/2004/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
+
+(zg) Airport North Interchange. (L.N. 202 of 2006)
+
+(zh) Airport South Interchange. (L.N. 202 of 2006)
+
+(zi) Chun Wan Road Interchange. (L.N. 202 of 2006)
+
+(zj) The segregated left turning lane near Airport South Interchange linking Cheong Lin Road to the southbound carriageway of Airport Road. (L.N. 202 of 2006)
+
+(zk) The segregated left turning lane near Airport North Interchange linking Cheong Hong Road to Sky Plaza Road Central. (L.N. 202 of 2006)
 
 2. | (a) The section of the northbound carriageway of Catering Road West from a point about 350 m north of its junction with Chun Wan Road Interchange to a point about 380 m north from the same junction. | All motor vehicles except franchised buses and taxis.
 
@@ -72,7 +92,9 @@ Column 1 | Column 2
 
 (c) Cheong Shun Road. (L.N. 233 of 2005)
 
-5. | The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction. | All goods vehicles.
+5. | (a) The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction. (L.N. 202 of 2006) | All goods vehicles.
+
+(b) The eastern kerbside lane, including the layby, of the section of Sky Plaza Road, being the area shown in red on a plan numbered PSU/P350/G/2004/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
 
 6. | Tung Fai Road. (L.N. 207 of 2000) | All motor vehicles except franchised buses.
 
