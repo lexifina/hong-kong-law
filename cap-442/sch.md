@@ -124,6 +124,8 @@ Item | Ordinance | Decision
 
 62. | Medical Clinics Ordinance (Cap. 343) | (a) A refusal by the Registrar of Clinics under section 8 to grant or renew an exemption in respect of a clinic. (b) A cancellation by the Registrar of Clinics under section 8 of an exemption granted in respect of a clinic. (c) An order by the Registrar of Clinics under section 11 to refuse an application for the registration of a clinic or to cancel the registration of a clinic. (Added 10 of 2005 s. 7)
 
+63. | Protection of Endangered Species of Animals and Plants Ordinance (Cap. 586) | A decision of the Director of Agriculture, Fisheries and Conservation, the Deputy Director of Agriculture, Fisheries and Conservation or an Assistant Director of Agriculture, Fisheries and Conservation relating to— (a) the refusal to issue a licence under section 23; (b) an application to extend or renew a licence under section 24; (c) an application to vary a licence under section 24; (d) any condition specified in a licence issued under section 23 or extended, renewed or varied under section 24; or (e) the cancellation of a licence under section 26. (Added 3 of 2006 s. 58)
+
 64. | Merchant Shipping (Security of Ships and Port Facilities) Ordinance (Cap. 582) | A decision of the Director of Marine under section 7(1)(a) or (c) or 8(2). (Added 13 of 2004 s. 18)
 
 65. | Merchant Shipping (Security of Ships and Port Facilities) Rules (Cap. 582 sub. leg. A) | A decision of the Director of Marine under rule 27(1). (Added L.N. 130 of 2004)

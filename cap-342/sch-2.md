@@ -20,8 +20,6 @@ Pharmacy and Poisons Ordinance (Cap. 138)
 
 Control of Chemicals Ordinance (Cap. 145) (Replaced 14 of 2003 s. 24)
 
-Animals and Plants (Protection of Endangered Species) Ordinance (Cap. 187) (Added L.N. 235 of 1976)
-
 Plant (Importation and Pest Control) Ordinance (Cap. 207) (Added L.N. 117 of 1976)
 
 Weapons Ordinance (Cap. 217) (Added L.N. 361 of 1981)
@@ -60,4 +58,6 @@ Chemical Weapons (Convention) Ordinance (Cap. 578) (Added 26 of 2003 s. 44)
 
 Prevention of Child Pornography Ordinance (Cap. 579) (Added 31 of 2003 s. 21)
 
-(Amended 13 of 1995 s. 2)
+Protection of Endangered Species of Animals and Plants Ordinance (Cap. 586) (Added 3 of 2006 s. 57)
+
+(Amended 13 of 1995 s. 2; 3 of 2006 s. 57)

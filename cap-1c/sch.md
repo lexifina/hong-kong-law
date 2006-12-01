@@ -184,10 +184,6 @@ Commissioner of Mines | Mining Ordinance (Chapter 285), sections 13, 18, 20, 21,
 
 Director of Accounting Services | Waterworks Regulations (Chapter 102 subsidiary legislation A), regulation 50(2) and (3). (L.N. 221 of 1977)
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Animals and Plants (Protection of Endangered Species) Ordinance (Chapter 187), sections 7, 10 and 15. (L.N. 49 of 1979)
-
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Animals and Plants (Protection of Endangered Species) (Exemption) Order (Chapter 187 subsidiary legislation A), paragraphs 1A and 3. (L.N. 418 of 1991)
-
 Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Country Parks and Special Areas Regulations (Chapter 208 subsidiary legislation A), regulations 4(1) and (2)(a), 5(1) and (2)(b), 8(1), 9(1), 10(1)(a) and (b) and (2), 11(1), (2) and (3)(a), 13(2), 14, 15(4) and 18(5). (L.N. 381 of 1989)
 
 Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Country Parks and Special Areas Regulations (Chapter 208 subsidiary legislation A), regulation 10(1)(c) and (d). (L.N. 391 of 1982)
@@ -440,7 +436,7 @@ Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Roads (W
 
 Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 17 of 2006 s. 23)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 3 of 2006 s. 56; 17 of 2006 s. 23)
 
 Editorial Note:
 
@@ -466,7 +462,7 @@ L.N. 93 of 2001 | Chief Secretary for Administration | Scout Association of Hong
 
 5 of 2001 s. 40 | Financial Secretary | Hong Kong Science and Technology Parks Corporation Ordinance (Cap. 565), sections 23(6) and 24.
 
-L.N. 158 of 2002 | Secretary for Education and Manpower | Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). Hong Kong Council for Academic Accreditation Ordinance (Chapter 1150), sections 5(e), (g) and (l), 9(1) and (2), 10, 12, 13(1) and (2) and 17.
+L.N. 158 of 2002 | Secretary for Education and Manpower | Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). Hong Kong Council for Academic Accreditation Ordinance (Chapter 1150), sections 5(e), (g) and (l), 9(1) and (2), 10, 12, and (2) and 17.
 
 L.N. 192 of 2003 | Secretary for Home Affairs | New Territories Ordinance (Chapter 97), sections 15, 16 and 18. Hotel and Guesthouse Accommodation Ordinance (Chapter 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4). New Territories Land (Exemption) Ordinance (Chapter 452), section 12. Sex Discrimination Ordinance (Chapter 480), section 65(3) and Schedule 6 (sections 16(2) and (3) and 17(2)). Personal Data (Privacy) Ordinance (Chapter 486), section 14(6) and Schedule 2 (sections 2(2) and (3) and 3(2)). Heung Yee Kuk Ordinance (Chapter 1097), section 3(2)(c) and First Schedule (paragraph 6) and Second Schedule (paragraph 5(2)).
 
