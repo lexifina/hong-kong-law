@@ -310,4 +310,6 @@ Item | Periods | Rate of interest
 
 153. | On or after 5 December 2005 and before 3 January 2006 (L.N. 220 of 2005; L.N. 237 of 2005) | 2.7500% per annum
 
-154. | On or after 3 January 2006 (L.N. 237 of 2005) | 2.8500% per annum
+154. | On or after 3 January 2006 and before 4 December 2006 (L.N. 237 of 2005; L.N. 263 of 2006) | 2.8500% per annum
+
+155. | On or after 4 December 2006 (L.N. 263 of 2006) | 2.600% per annum
