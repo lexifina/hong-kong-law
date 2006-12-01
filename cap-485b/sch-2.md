@@ -186,7 +186,7 @@ MANDATORY CONDITIONS
 
   - (9) A new member of a relevant scheme is eligible to withdraw his minimum MPF benefits on the ground of total incapacity if he lodges with the trustee of the scheme a claim in a form provided or approved by the Authority together with—
 
-    - (a) a certificate signed by a registered medical practitioner certifying that the member is permanently unfit to perform the kind of work that the member was performing for the employer; and
+    - (a) a certificate signed by a registered medical practitioner or registered Chinese medicine practitioner certifying that the member is permanently unfit to perform the kind of work that the member was performing for the employer; and (16 of 2006 s. 34)
 
     - (b) a letter from the member’s employer certifying that the contract of employment for that kind of work has been or will be terminated.
 
@@ -195,6 +195,12 @@ MANDATORY CONDITIONS
   - (11) A claim referred to in subsection (10) shall be accompanied by evidence satisfactory to the trustee of the relevant scheme that the claimant is a personal representative of the deceased new member concerned of the scheme or any other person specified in the governing rules of the scheme for the purposes of this section.
 
   - (12) When a new member of a relevant scheme is eligible for severance payment or long service payment under the Employment Ordinance (Cap. 57) upon termination of employment with his employer, the employer may make use of the part of the new member’s minimum MPF benefits derived from the employer’s contributions, including the employer’s portion transferred from another relevant scheme, if any, to offset any such payment.
+
+  - (13) For the purposes of subsection (9)(a)—
+
+    - (a) “registered Chinese medicine practitioner” (註冊中醫) has the meaning assigned to it by section 2 of the Chinese Medicine Ordinance (Cap. 549); and
+
+    - (b) a reference to a certificate signed by a registered Chinese medicine practitioner does not include a certificate so signed before the commencement of section 34 of the Certification for Employee Benefits (Chinese Medicine) (Miscellaneous Amendments) Ordinance 2006 (16 of 2006). (16 of 2006 s. 34)
 
 - 7.
 
@@ -254,7 +260,11 @@ MANDATORY CONDITIONS
 
   - (4) The accrued rights of a member of a relevant scheme who becomes a member of a registered scheme shall be treated in the same way as prescribed under section 7.
 
-- 9. Reporting of membership upon implementation Within 3 months after the relevant date, the relevant employer of a relevant scheme shall submit the following information to the Authority—
+- 9.
+
+- Reporting of membership upon implementation
+
+- Within 3 months after the relevant date, the relevant employer of a relevant scheme shall submit the following information to the Authority—
 
   - (a) the total number of his employees;
 

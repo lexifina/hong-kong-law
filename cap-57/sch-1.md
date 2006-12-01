@@ -4,9 +4,9 @@
 
 CONTINUOUS EMPLOYMENT
 
-- 1. | (a) | The provisions of this Schedule are to ascertain whether or not any contract of employment is a “continuous contract” for the purposes of this Ordinance.
+1. | (a) | The provisions of this Schedule are to ascertain whether or not any contract of employment is a “continuous contract” for the purposes of this Ordinance.
 
-- (b) | In the case of a contract of employment existing at the commencement of this Ordinance, such period of employment next preceding the date of commencement of the Ordinance as may be necessary shall be taken into account in order to ascertain whether or not the contract of employment is a continuous contract.
+(b) | In the case of a contract of employment existing at the commencement of this Ordinance, such period of employment next preceding the date of commencement of the Ordinance as may be necessary shall be taken into account in order to ascertain whether or not the contract of employment is a continuous contract.
 
 - 2. Subject to the following provisions, where at any time an employee has been employed under a contract of employment during the period of 4 or more weeks next preceding such time he shall be deemed to have been in continuous employment during that period.
 
