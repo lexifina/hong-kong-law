@@ -12,4 +12,10 @@ Item | Enactment | Provision
 
 3. | Government Rent (Assessment and Collection) Ordinance (Cap. 515) | Section 45(1)
 
+4. | Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (Cap. 276) (Added L.N. 151 of 2006) | Section 21(1)
+
+5. | Roads (Works, Use and Compensation) Ordinance (Cap. 370) (Added L.N. 151 of 2006) | Sections 10(1) and (3) and 29(1)
+
+6. | Railways Ordinance (Cap. 519) (Added L.N. 151 of 2006) | Sections 10(1) and (4), 27(6) and (7) and 34(1)
+
 (Schedule 3 added 14 of 2004 s. 28)
