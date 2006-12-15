@@ -1,18 +1,16 @@
 # SCHEDULE 4
 
-[ss. 2(1), 13, 14, 15, 16, 17 & 18]
+[ss. 13, 14, 15, 16, 17 & 18] (Amended 22 of 2005 s. 25)
 
 INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
-- (1) The amended Convention and the Guadalajara Convention as adapted and modified in the forms set out, respectively, in Part I and Part II of this Schedule shall apply in respect of carriage which is “international carriage” as defined in paragraph (2) of this Schedule.
+- (1) The Warsaw Convention and the Guadalajara Convention as adapted and modified in the forms set out, respectively, in Part I and Part II of this Schedule shall apply in respect of carriage which is “international carriage” as defined in paragraph (2) of this Schedule. (Amended 22 of 2005 s. 25)
 
 - (2)
 
   - For the purposes of section 14 of this Ordinance and of this Schedule “international carriage” (國際運輸) has the meaning assigned to it in paragraph (2) of Article 1 in Part I of this Schedule.
 
-- PART I Application of the amended Convention CHAPTER I SCOPE-DEFINITIONS
-
-- Article 1
+- PART I Application of the Warsaw Convention (Replaced 22 of 2005 s. 25) CHAPTER I SCOPE—DEFINITIONS Article 1
 
   - (1) This Schedule applies to all international carriage of persons, baggage or cargo performed by aircraft for reward. It applies equally to gratuitous carriage by aircraft performed by an air transport undertaking.
 
@@ -24,9 +22,9 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (1) This Schedule applies to carriage performed by the State, not being a State which has availed itself of the Additional Protocol to the Warsaw Convention, or by legally constituted public bodies provided it falls within the conditions laid down in Article 1.
 
-  - (2) This Schedule does not apply to carriage performed under the terms of any international postal Convention. CHAPTER II DOCUMENTS OF CARRIAGE SECTION 1-Passenger Ticket
+  - (2) This Schedule does not apply to carriage performed under the terms of any international postal Convention.
 
-- Article 3
+- CHAPTER II DOCUMENTS OF CARRIAGE SECTION 1—Passenger Ticket Article 3
 
   - (1) For the carriage of passengers the carrier must deliver a passenger ticket which shall contain the following particulars—
 
@@ -40,9 +38,9 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
     - (e) a statement that the carriage is subject to the rules relating to liability established by the Warsaw Convention.
 
-  - (2) The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage, which shall none the less be subject to the rules of this Schedule. Nevertheless, if the carrier accepts a passenger without a passenger ticket having been delivered he shall not be entitled to avail himself of those provisions of this Schedule which exclude or limit his liability. SECTION 2-Baggage Check
+  - (2) The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage, which shall none the less be subject to the rules of this Schedule. Nevertheless, if the carrier accepts a passenger without a passenger ticket having been delivered he shall not be entitled to avail himself of those provisions of this Schedule which exclude or limit his liability.
 
-- Article 4
+- SECTION 2—Baggage Check Article 4
 
   - (1) For the carriage of baggage, other than small personal objects of which the passenger takes charge himself, the carrier must deliver a baggage check.
 
@@ -66,9 +64,9 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
     - (h) a statement that the carriage is subject to the rules relating to liability established by the Warsaw Convention.
 
-  - (4) The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage, which shall none the less be subject to the rules of this Schedule. Nevertheless, if the carrier accepts baggage without a baggage check having been delivered, or if the baggage check does not contain the particulars set out at subparagraphs (d), (f) and (h) above, the carrier shall not be entitled to avail himself of those provisions of this Schedule which exclude or limit his liability. SECTION 3-Air Waybill
+  - (4) The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage, which shall none the less be subject to the rules of this Schedule. Nevertheless, if the carrier accepts baggage without a baggage check having been delivered, or if the baggage check does not contain the particulars set out at subparagraphs (d), (f) and (h) above, the carrier shall not be entitled to avail himself of those provisions of this Schedule which exclude or limit his liability.
 
-- Article 5
+- SECTION 3—Air Waybill Article 5
 
   - (1) Every carrier of cargo has the right to require the consignor to make out and hand over to him a document called an “air waybill”; every consignor has the right to require the carrier to accept this document.
 
@@ -86,11 +84,13 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (5) If, at the request of the consignor, the carrier makes out the air waybill, he shall be deemed, subject to proof to the contrary, to have done so on behalf of the consignor.
 
-- Article 7 The carrier of cargo has the right to require the consignor to make out separate air waybills when there is more than one package.
+- Article 7
+
+- The carrier of cargo has the right to require the consignor to make out separate air waybills when there is more than one package.
 
 - Article 8 The air waybill shall contain the following particulars—
 
-  - (a) the place and date of its execution;
+    - (a) the place and date of its execution;
 
     - (b) the place of departure and of destination;
 
@@ -124,7 +124,9 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
     - (q) a statement that the carriage is subject to the rules relating to liability established by the Warsaw Convention.
 
-- Article 9 If the carrier accepts cargo without an air waybill having been made out, or if the air waybill does not contain all the particulars set out in subparagraphs (a) to (i) inclusive and (q) of Article 8 in Part I of this Schedule, the carrier shall not be entitled to avail himself of the provisions of this Schedule which exclude or limit his liability.
+- Article 9
+
+- If the carrier accepts cargo without an air waybill having been made out, or if the air waybill does not contain all the particulars set out in subparagraphs (a) to (i) inclusive and (q) of Article 8 in Part I of this Schedule, the carrier shall not be entitled to avail himself of the provisions of this Schedule which exclude or limit his liability.
 
 - Article 10
 
@@ -156,7 +158,9 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (3) If the carrier admits the loss of the cargo, or if the cargo has not arrived at the expiration of 7 days after the date on which it ought to have arrived, the consignee is entitled to put into force against the carrier the rights which flow from the contract of carriage.
 
-- Article 14 The consignor and the consignee can respectively enforce all the rights given them by Articles 12 and 13, each in his own name, whether he is acting in his own interest or in the interest of another, provided that he carries out the obligations imposed by the contract.
+- Article 14
+
+- The consignor and the consignee can respectively enforce all the rights given them by Articles 12 and 13, each in his own name, whether he is acting in his own interest or in the interest of another, provided that he carries out the obligations imposed by the contract.
 
 - Article 15
 
@@ -164,15 +168,17 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (2) The provisions of Articles 12, 13 and 14 can only be varied by express provision in the air waybill.
 
-  - (3) Nothing in this Schedule prevents the issue of a negotiable air waybill.
+  - (3) (Repealed 22 of 2005 s. 25)
 
 - Article 16
 
   - (1) The consignor must furnish such information and attach to the air waybill such documents as are necessary to meet the formalities of customs, octroi or police before the cargo can be delivered to the consignee. The consignor is liable to the carrier for any damage occasioned by the absence, insufficiency or irregularity of any such information or documents, unless the damage is due to the fault of the carrier or his servants or agents.
 
-  - (2) The carrier is under no obligation to enquire into the correctness or sufficiency of such information or documents. CHAPTER III LIABILITY OF THE CARRIER
+  - (2) The carrier is under no obligation to enquire into the correctness or sufficiency of such information or documents.
 
-- Article 17 The carrier is liable for damage sustained in the event of the death or wounding of a passenger or any other bodily injury suffered by a passenger, if the accident which caused the damage so sustained took place on board the aircraft or in the course of any of the operations of embarking or disembarking.
+- CHAPTER III LIABILITY OF THE CARRIER Article 17
+
+- The carrier is liable for damage sustained in the event of the death or wounding of a passenger or any other bodily injury suffered by a passenger, if the accident which caused the damage so sustained took place on board the aircraft or in the course of any of the operations of embarking or disembarking.
 
 - Article 18
 
@@ -182,7 +188,9 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (3) The period of the carriage by air does not extend to any carriage by land, by sea or by river performed outside an aerodrome. If, however, such a carriage takes place in the performance of a contract for carriage by air, for the purpose of loading, delivery or transshipment, any damage is presumed, subject to proof to the contrary, to have been the result of an event which took place during the carriage by air.
 
-- Article 19 The carrier is liable for damage occasioned by delay in the carriage by air of passengers, baggage or cargo.
+- Article 19
+
+- The carrier is liable for damage occasioned by delay in the carriage by air of passengers, baggage or cargo.
 
 - Article 20
 
@@ -190,19 +198,23 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (2) In the carriage of cargo and baggage the carrier is not liable if he proves that the damage was occasioned by negligent pilotage or negligence in the handling of the aircraft or in navigation and that, in all other respects, he and his servants or agents have taken all necessary measures to avoid the damage.
 
-- Article 21 If the carrier proves that the damage was caused by or contributed to by the negligence of the injured person the court may, in accordance with the provisions of its own law, exonerate the carrier wholly or partly from his liability.
+- Article 21
+
+- If the carrier proves that the damage was caused by or contributed to by the negligence of the injured person the court may, in accordance with the provisions of its own law, exonerate the carrier wholly or partly from his liability.
 
 - Article 22
 
-  - (1) In the carriage of passengers the liability of the carrier for each passenger is limited to the sum of 125000 francs. Where, in accordance with the law of the court seised of the case, damages may be awarded in the form of periodical payments, the equivalent capital value of the said payments shall not exceed 125000 francs. Nevertheless, by special contract, the carrier and the passenger may agree to a higher limit of liability.
+  - (1) In the carriage of passengers the liability of the carrier for each passenger is limited to the sum of 125,000 francs. Where, in accordance with the law of the court seised of the case, damages may be awarded in the form of periodical payments, the equivalent capital value of the said payments shall not exceed 125,000 francs. Nevertheless, by special contract, the carrier and the passenger may agree to a higher limit of liability.
 
   - (2) In the carriage of registered baggage and of cargo, the liability of the carrier is limited to a sum of 250 francs per kilogram, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of the value at delivery and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless he proves that that sum is greater than the actual value to the consignor at delivery.
 
-  - (3) As regards objects of which the passenger takes charge himself the liability of the carrier is limited to 5000 francs per passenger.
+  - (3) As regards objects of which the passenger takes charge himself the liability of the carrier is limited to 5,000 francs per passenger.
 
-  - (4) The sums mentioned above shall be deemed to refer to the French franc consisting of 65 1/2 milligrams gold of millesimal fineness 900. These sums may be converted into any national currency in round figures.
+  - (4) The sums mentioned above shall be deemed to refer to the French franc consisting of 65 1 2 milligrams gold of millesimal fineness 900. These sums may be converted into any national currency in round figures.
 
-- Article 23 Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid down in this Schedule shall be null and void, but the nullity of any such provision does not involve the nullity of the whole contract, which shall remain subject to the provisions of this Schedule.
+- Article 23
+
+- Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid down in this Schedule shall be null and void, but the nullity of any such provision does not involve the nullity of the whole contract, which shall remain subject to the provisions of this Schedule.
 
 - Article 24
 
@@ -218,11 +230,7 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
 - Article 25A
 
-  - (1) If an action is brought against a servant or agent of the carrier arising out of damage to which this Schedule relates, such servant or agent, if he proves that he acted within the scope of his employment, shall be entitled to avail himself of the limits of liability which that carrier himself is entitled to invoke under Article 22.
-
-  - (2) The aggregate of the amounts recoverable from the carrier, his servants and agents, in that case, shall not exceed the said limits.
-
-  - (3) The provisions of paragraphs (1) and (2) of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result.
+- (Repealed 22 of 2005 s. 25)
 
 - Article 26
 
@@ -234,7 +242,9 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (4) Failing complaint within the times aforesaid, no action shall lie against the carrier, save in the case of fraud on his part.
 
-- Article 27 In the case of the death of the person liable, an action for damages lies in accordance with the terms of this Schedule against those legally representing his estate.
+- Article 27
+
+- In the case of the death of the person liable, an action for damages lies in accordance with the terms of this Schedule against those legally representing his estate.
 
 - Article 28
 
@@ -254,31 +264,37 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (2) In the case of carriage of this nature, the passenger or his representative can take action only against the carrier who performed the carriage during which the accident or the delay occurred, save in the case where, by express agreement, the first carrier has assumed liability for the whole journey.
 
-  - (3) As regards baggage or cargo, the passenger or consignor will have a right of action against the first carrier, and the passenger or consignee who is entitled to delivery will have a right of action against the last carrier, and further, each may take action against the carrier who performed the carriage during which the destruction, loss, damage or delay took place. These carriers will be jointly and severally liable to the passenger or to the consignor or consignee. CHAPTER IV PROVISIONS RELATING TO COMBINED CARRIAGE
+  - (3) As regards baggage or cargo, the passenger or consignor will have a right of action against the first carrier, and the passenger or consignee who is entitled to delivery will have a right of action against the last carrier, and further, each may take action against the carrier who performed the carriage during which the destruction, loss, damage or delay took place. These carriers will be jointly and severally liable to the passenger or to the consignor or consignee.
 
-- Article 31
+- CHAPTER IV PROVISIONS RELATING TO COMBINED CARRIAGE Article 31
 
   - (1) In the case of combined carriage performed partly by air and partly by any other mode of carriage, the provisions of this Schedule apply only to the carriage by air, provided that the carriage by air falls within the terms of Article 1.
 
-  - (2) Nothing in this Schedule shall prevent the parties in the case of combined carriage from inserting in the document of air carriage conditions relating to other modes of carriage, provided that the provisions of this Schedule are observed as regards the carriage by air. CHAPTER V GENERAL AND FINAL PROVISIONS
+  - (2) Nothing in this Schedule shall prevent the parties in the case of combined carriage from inserting in the document of air carriage conditions relating to other modes of carriage, provided that the provisions of this Schedule are observed as regards the carriage by air.
 
-- Article 32 Any clause contained in the contract and all special agreements entered into before the damage occurred by which the parties purport to infringe the rules laid down by this Schedule, whether by deciding the law to be applied, or by altering the rules as to jurisdiction, shall be null and void. Nevertheless for the carriage of cargo arbitration clauses are allowed, subject to this Schedule, if the arbitration is to take place within one of the jurisdictions referred to in paragraph (1) of Article 28 in Part I of this Schedule.
+- CHAPTER V GENERAL AND FINAL PROVISIONS Article 32
 
-- Article 33 Nothing contained in this Schedule shall prevent the carrier either from refusing to enter into any contract of carriage, or from making regulations which do not conflict with the provisions of this Schedule.
+- Any clause contained in the contract and all special agreements entered into before the damage occurred by which the parties purport to infringe the rules laid down by this Schedule, whether by deciding the law to be applied, or by altering the rules as to jurisdiction, shall be null and void. Nevertheless for the carriage of cargo arbitration clauses are allowed, subject to this Schedule, if the arbitration is to take place within one of the jurisdictions referred to in paragraph (1) of Article 28 in Part I of this Schedule.
 
-- Article 34 This Schedule does not apply to international carriage by air performed by way of experimental trial by air navigation undertakings with the view to the establishment of a regular line of air navigation, nor does it apply to carriage performed in extraordinary circumstances outside the normal scope of an air carrier’s business.
+- Article 33
+
+- Nothing contained in this Schedule shall prevent the carrier either from refusing to enter into any contract of carriage, or from making regulations which do not conflict with the provisions of this Schedule.
+
+- Article 34
+
+- This Schedule does not apply to international carriage by air performed by way of experimental trial by air navigation undertakings with the view to the establishment of a regular line of air navigation, nor does it apply to carriage performed in extraordinary circumstances outside the normal scope of an air carrier’s business.
 
 - Article 35
 
-  - The expression “days” (日) when used in this Schedule means current days not working days. ADDITIONAL PROTOCOL TO THE WARSAW CONVENTION (With reference to Article 2) The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that paragraph (1) of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
+- The expression “days” (日) when used in this Schedule means current days not working days.
 
-- PART II Application of the Guadalajara Convention
+- ADDITIONAL PROTOCOL TO THE WARSAW CONVENTION (With reference to Article 2)
 
-- ARTICLE I In the Guadalajara Convention as applied by this Schedule—
+- The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that paragraph (1) of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
 
-  - (a)
+- PART II Application of the Guadalajara Convention ARTICLE I In the Guadalajara Convention as applied by this Schedule—
 
-    - “the Warsaw Convention” (華沙公約) means the amended Convention as applied by this Schedule;
+    - (a) (Repealed 22 of 2005 s. 25)
 
     - (b)
 
@@ -288,7 +304,9 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
       - “actual carrier” (實際承運人) means a person, other than the contracting carrier, who, by virtue of authority from the contracting carrier, performs the whole or part of the carriage contemplated in paragraph (b) but who is not with respect to such part a successive carrier within the meaning of the Warsaw Convention. Such authority is presumed in the absence of proof to the contrary.
 
-- ARTICLE II If an actual carrier performs the whole or part of carriage which, according to the agreement referred to in paragraph (b) of Article I, is governed by the Warsaw Convention, both the contracting carrier and the actual carrier shall, except as otherwise provided in the Guadalajara Convention as applied by this Schedule, be subject to the rules of the Warsaw Convention, the former for the whole of the carriage contemplated in the agreement, the latter solely for the carriage which he performs.
+- ARTICLE II
+
+- If an actual carrier performs the whole or part of carriage which, according to the agreement referred to in paragraph (b) of Article I, is governed by the Warsaw Convention, both the contracting carrier and the actual carrier shall, except as otherwise provided in the Guadalajara Convention as applied by this Schedule, be subject to the rules of the Warsaw Convention, the former for the whole of the carriage contemplated in the agreement, the latter solely for the carriage which he performs.
 
 - ARTICLE III
 
@@ -296,15 +314,25 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (2) The acts and omissions of the contracting carrier and of his servants and agents acting within the scope of their employment shall, in relation to the carriage performed by the actual carrier, be deemed to be also those of the actual carrier. Nevertheless, no such act or omission shall subject the actual carrier to liability exceeding the limits specified in Article 22 of the Warsaw Convention. Any special agreement under which the contracting carrier assumes obligations not imposed by the Warsaw Convention or any waiver of rights conferred by that Convention or any special declaration of interest in delivery at destination contemplated in Article 22 of the said Convention, shall not affect the actual carrier unless agreed to by him.
 
-- ARTICLE IV Any complaint to be made or order to be given under the Warsaw Convention to the carrier shall have the same effect whether addressed to the contracting carrier or to the actual carrier. Nevertheless, orders referred to in Article 12 of the Warsaw Convention shall only be effective if addressed to the contracting carrier.
+- ARTICLE IV
 
-- ARTICLE V In relation to the carriage performed by the actual carrier, any servant or agent of that carrier or of the contracting carrier shall, if he proves that he acted within the scope of his employment, be entitled to avail himself of the limits of liability which are applicable under the Guadalajara Convention as applied by this Schedule to the carrier whose servant or agent he is unless it is proved that he acted in a manner which, under the Warsaw Convention, prevents the limits of liability from being invoked.
+- Any complaint to be made or order to be given under the Warsaw Convention to the carrier shall have the same effect whether addressed to the contracting carrier or to the actual carrier. Nevertheless, orders referred to in Article 12 of the Warsaw Convention shall only be effective if addressed to the contracting carrier.
 
-- ARTICLE VI In relation to the carriage performed by the actual carrier, the aggregate of the amounts recoverable from that carrier and the contracting carrier, and from their servants and agents acting within the scope of their employment, shall not exceed the highest amount which could be awarded against either the contracting carrier or the actual carrier under the Guadalajara Convention as applied by this Schedule, but none of the persons mentioned shall be liable for a sum in excess of the limit applicable to him.
+- ARTICLE V
 
-- ARTICLE VII In relation to the carriage performed by the actual carrier, an action for damages may be brought, at the option of the plaintiff, against that carrier or the contracting carrier, or against both together or separately. If the action is brought against only one of those carriers, that carrier shall have the right to require the other carrier to be joined in the proceedings, the procedure and effects being governed by the law of the court seised of the case.
+- In relation to the carriage performed by the actual carrier, any servant or agent of that carrier or of the contracting carrier shall, if he proves that he acted within the scope of his employment, be entitled to avail himself of the limits of liability which are applicable under the Guadalajara Convention as applied by this Schedule to the carrier whose servant or agent he is unless it is proved that he acted in a manner which, under the Warsaw Convention, prevents the limits of liability from being invoked.
 
-- ARTICLE VIII Any action for damages contemplated in Article VII of the Guadalajara Convention as applied by this Schedule must be brought, at the option of the plaintiff, either before a court in which an action may be brought against the contracting carrier, as provided in Article 28 of the Warsaw Convention, or before the court having jurisdiction at the place where the actual carrier is ordinarily resident or has the principal place of business.
+- ARTICLE VI
+
+- In relation to the carriage performed by the actual carrier, the aggregate of the amounts recoverable from that carrier and the contracting carrier, and from their servants and agents acting within the scope of their employment, shall not exceed the highest amount which could be awarded against either the contracting carrier or the actual carrier under the Guadalajara Convention as applied by this Schedule, but none of the persons mentioned shall be liable for a sum in excess of the limit applicable to him.
+
+- ARTICLE VII
+
+- In relation to the carriage performed by the actual carrier, an action for damages may be brought, at the option of the plaintiff, against that carrier or the contracting carrier, or against both together or separately. If the action is brought against only one of those carriers, that carrier shall have the right to require the other carrier to be joined in the proceedings, the procedure and effects being governed by the law of the court seised of the case.
+
+- ARTICLE VIII
+
+- Any action for damages contemplated in Article VII of the Guadalajara Convention as applied by this Schedule must be brought, at the option of the plaintiff, either before a court in which an action may be brought against the contracting carrier, as provided in Article 28 of the Warsaw Convention, or before the court having jurisdiction at the place where the actual carrier is ordinarily resident or has the principal place of business.
 
 - ARTICLE IX
 
@@ -314,6 +342,8 @@ INTERNATIONAL CARRIAGE UNDER THE WARSAW CONVENTION
 
   - (3) Any clause contained in an agreement for carriage and all special agreements entered into before the damage occurred by which the parties purport to infringe the rules laid down by the Guadalajara Convention as applied by this Schedule, whether by deciding the law to be applied, or by altering the rules as to jurisdiction, shall be null and void. Nevertheless, for the carriage of cargo arbitration clauses are allowed, subject to the said Convention as so applied, if the arbitration is to take place in one of the jurisdiction referred to in Article VIII.
 
-- ARTICLE X Except as provided in Article VII, nothing in the Guadalajara Convention as applied by this Schedule shall affect the rights and obligations of the two carriers between themselves.
+- ARTICLE X
+
+- Except as provided in Article VII, nothing in the Guadalajara Convention as applied by this Schedule shall affect the rights and obligations of the two carriers between themselves.
 
 - [cf. App. III, p. CH1 Sch. 4]
