@@ -134,4 +134,6 @@
 
 - 66. 14 On Chun Street, Ma On Shan. (L.N. 40 of 2005)
 
-- 67. The upper ground floor, Stanley Municipal Services Building, 6 Stanley Market Road, Stanley, Hong Kong. (L.N. 180 of 2006) (Schedule replaced 78 of 1999 s. 7)
+- 67. The upper ground floor, Stanley Municipal Services Building, 6 Stanley Market Road, Stanley, Hong Kong. (L.N. 180 of 2006)
+
+- 68. Shop 313, Tin Chak Shopping Centre, Tin Shui Wai, New Territories. (L.N. 271 of 2006) (Schedule replaced 78 of 1999 s. 7)
