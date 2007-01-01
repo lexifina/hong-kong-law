@@ -30,8 +30,6 @@ LIQUIDITY RATIO
 
   - “marketable debt securities” (有價債務證券) means debt securities which have an established secondary market in Hong Kong or elsewhere in which they can be sold readily;
 
-  - “multilateral development bank” (多邊發展銀行) has the meaning assigned to it in the Third Schedule;
-
   - “one-month liability” (一個月債務), in relation to any authorized institution or relevant bank, means—
 
     - (a) any liability, other than a contingent liability, the effect of which will or could be to reduce within 1 month the liquefiable assets of that authorized institution or relevant bank; and
@@ -46,7 +44,7 @@ LIQUIDITY RATIO
 
   - at the close of business on a working day;
 
-  - “public sector entity in Hong Kong” (香港公營單位) has the meaning assigned to it in the Third Schedule;
+  - “public sector entity in Hong Kong” (香港公營單位) means any entity specified by the Monetary Authority under paragraph 1A; (Added 19 of 2005 s. 7)
 
   - “qualifying credit rating” (合資格信貸評級) means either—
 
@@ -79,6 +77,10 @@ LIQUIDITY RATIO
       - (ii) the licence or other authorization of which to carry on banking business is for the time being suspended, (Replaced 49 of 1995 s. 51)
 
     - and includes the Exchange Fund established by the Exchange Fund Ordinance (Cap. 66).
+
+- (Amended 19 of 2005 s. 7)
+
+- 1A. The Monetary Authority may by notice published in the Gazette specify to be a public sector entity in Hong Kong for the purposes of this Schedule any entity established by or on behalf of the Government. (Added 19 of 2005 s. 7)
 
 - 2. The liquidity ratio of an authorized institution shall be calculated—
 

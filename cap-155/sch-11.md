@@ -14,12 +14,6 @@ MINIMUM CRITERIA FOR APPROVAL AS MONEY BROKER
 
     - “net debit balance” (借方淨差額), in relation to a company, means the aggregate of the excess of accumulated losses over accumulated profits disclosed in the profit and loss account, and other reserves separately disclosed in the balance sheet, of the most recent audited accounts of the company;
 
-    - “share premium account” (股份溢價帳)—
-
-      - (a) in relation to a company incorporated in Hong Kong, means a share premium account referred to in section 48B(1) of the Companies Ordinance (Cap. 32) maintained in respect of the company;
-
-      - (b) in relation to a company incorporated outside Hong Kong, means an account having the same characteristics of a share premium account referred to in section 48B(1) of the Companies Ordinance (Cap. 32) irrespective of its name; (Added L.N. 137 of 2001)
-
     - “systems of control” (管控制度) includes procedures.
 
   - (2) For the purpose of the calculation of the paid-up share capital of a company required by this Schedule, there shall be deducted from such share capital any net debit balance.
@@ -39,6 +33,8 @@ MINIMUM CRITERIA FOR APPROVAL AS MONEY BROKER
     - (c) the Monetary Authority is satisfied as to the scope and nature of the supervision exercised by that authority.
 
   - (5) For the avoidance of doubt, it is hereby declared that subparagraph (4) shall operate before, on and after the approval, if any, of the company to which any matter referred to in that subparagraph directly or indirectly relates.
+
+- (Amended 19 of 2005 s. 7)
 
 - 2. The Monetary Authority is satisfied that he knows the identity of each controller of the company.
 

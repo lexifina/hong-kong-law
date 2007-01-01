@@ -94,7 +94,7 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
     - (a) a related company of the Scheme member;
 
-    - (b) a multilateral development bank as defined in paragraph 1 of the Third Schedule to the Banking Ordinance (Cap. 155);
+    - (b) a multilateral development bank as defined in section 2(1) of the Banking Ordinance (Cap. 155); (Amended 19 of 2005 s. 7)
 
     - (c) an authorized institution;
 
