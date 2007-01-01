@@ -94,12 +94,8 @@ ORDINANCE DO NOT APPLY UNDER SECTION 13(1) OF THIS ORDINANCE
 
 - (zo) the Construction Workers Appeal Board appointed under the Construction Workers Registration Ordinance (Cap. 583); (Added 18 of 2004 s. 69. Amended 20 of 2004 s. 59)
 
-- *(zp) the Clearing and Settlement Systems Appeals Tribunal established under the Clearing and Settlement Systems Ordinance (Cap. 584); (Added 20 of 2004 s. 59. Amended 19 of 2005 s. 7)
+- (zp) the Clearing and Settlement Systems Appeals Tribunal established under the Clearing and Settlement Systems Ordinance (Cap. 584); (Added 20 of 2004 s. 59. Amended 19 of 2005 s. 7)
 
-- *(zq) the Capital Adequacy Review Tribunal established under the Banking Ordinance (Cap. 155); (Added 19 of 2005 s. 7. Amended 23 of 2005 s. 28)
+- (zq) the Capital Adequacy Review Tribunal established under the Banking Ordinance (Cap. 155); (Added 19 of 2005 s. 7. Amended 23 of 2005 s. 28)
 
 - (zr) the Civil Celebrant of Marriages Appointment Appeal Board established under the Marriage Ordinance (Cap. 181). (Added 23 of 2005 s. 28)
-
-Editorial Note:
-
-* Please note that paragraph (zq) and other related amendments made under section 2 of Part 2 of the Schedule to the Banking (Amendment) Ordinance 2005 (19 of 2005) have not yet come into operation.
