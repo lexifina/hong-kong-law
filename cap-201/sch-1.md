@@ -216,6 +216,8 @@ PUBLIC BODIES
 
   - 107. Commissioner on Interception of Communications and Surveillance. (Added 20 of 2006 s. 68)
 
+  - 108. Hong Kong IEC Limited. (Added L.N. 233 of 2006)
+
 - (Replaced L.N. 272 of 1974)
 
 Editorial Note:
