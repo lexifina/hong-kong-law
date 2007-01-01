@@ -1,0 +1,5 @@
+BANKING (SPECIFICATION OF PUBLIC SECTOR ENTITY IN HONG KONG) NOTICE
+
+(Cap. 155, paragraph 1A of the Fourth Schedule)
+
+[1 January 2007]
