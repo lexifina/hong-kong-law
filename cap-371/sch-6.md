@@ -4,23 +4,13 @@
 
 TRANSITIONAL PROVISIONS RELATING TO SMOKING (PUBLIC HEALTH) (AMENDMENT) ORDINANCE 2006
 
-(Sections 2 and 8 of Part 2 are not yet in operation.)
+- PART 1 REQUIREMENTS RELATING TO TOBACCOPRODUCT PACKAGING
 
-- PART 1 REQUIREMENTS RELATING TO TOBACCO
-
-- PRODUCT PACKAGING
-
-  - 1.
-
-  - Interpretation of Part 1
+  - 1. Interpretation of Part 1
 
     - In this Part, “appointed day”* (指定日期) means the day on which the Smoking (Public Health)(Amendment) Ordinance 2006 (21 of 2006) is published in the Gazette.
 
-  - 2.
-
-  - Sale of tobacco products with pre-amendment
-
-  - health warnings, etc.
+  - 2. Sale of tobacco products with pre-amendment health warnings, etc.
 
     - (1) During the 12 months after the appointed day, compliance with the relevant provisions of this Ordinance as in force immediately before the appointed day shall, for the purposes of sections 8 and 9 of this Ordinance, be deemed to be compliance with the relevant provisions of this Ordinance.
 
@@ -34,11 +24,7 @@ TRANSITIONAL PROVISIONS RELATING TO SMOKING (PUBLIC HEALTH) (AMENDMENT) ORDINANC
 
 - LISTED ESTABLISHMENTS
 
-  - 1.
-
-  - Interpretation and application
-
-  - of Part 2
+  - 1. Interpretation and application of Part 2
 
     - (1) In this Part—
 
@@ -96,11 +82,7 @@ TRANSITIONAL PROVISIONS RELATING TO SMOKING (PUBLIC HEALTH) (AMENDMENT) ORDINANC
 
     - (2) This Part does not apply to any premises that are under the management and control of the Government.
 
-  - 2.
-
-  - Smoking ban deferred in listed establishments
-
-  - Despite section 3(1) of this Ordinance, a designation of no smoking area under that section does not have effect before 1 July 2009 in relation to an indoor area if and only for so long as—
+  - 2. Smoking ban deferred in listed establishments Despite section 3(1) of this Ordinance, a designation of no smoking area under that section does not have effect before 1 July 2009 in relation to an indoor area if and only for so long as—
 
     - (a) the area—
 
@@ -186,11 +168,7 @@ TRANSITIONAL PROVISIONS RELATING TO SMOKING (PUBLIC HEALTH) (AMENDMENT) ORDINANC
 
       - (b) the room is permanently and completely partitioned off from the remainder of the establishment.
 
-  - 6.
-
-  - Qualified nightclub
-
-  - For the purposes of this Part, an establishment is a qualified nightclub if all the following requirements are complied with—
+  - 6. Qualified nightclub For the purposes of this Part, an establishment is a qualified nightclub if all the following requirements are complied with—
 
     - (a) a liquor licence is in force in respect of the establishment;
 
@@ -246,11 +224,7 @@ TRANSITIONAL PROVISIONS RELATING TO SMOKING (PUBLIC HEALTH) (AMENDMENT) ORDINANC
 
     - (4) A person who fails to comply with subsection (1) or (3) commits an offence and is liable on summary conviction to a fine at level 5 and, in the case of a continuing offence, to a further penalty of $1,500 for each day during which the offence continues.
 
-  - 9.
-
-  - Removal of name and address from list of
-
-  - qualified establishments
+  - 9. Removal of name and address from list of qualified establishments
 
     - (1) Where there is any change in any information given in the notification submitted under section 7 in respect of a listed establishment, and as a result the establishment is no longer a qualified establishment, the person in charge of the establishment shall, within 10 days after the change, inform the Director of the change by submitting to the Director a notification in a form specified by the Director.
 
@@ -264,21 +238,13 @@ TRANSITIONAL PROVISIONS RELATING TO SMOKING (PUBLIC HEALTH) (AMENDMENT) ORDINANC
 
     - (6) A person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine at level 5.
 
-  - 10.
-
-  - Defence to offences under Part 2
-
-  - In any proceedings for an offence under this Part, it is a defence for the person charged to prove that—
+  - 10. Defence to offences under Part 2 In any proceedings for an offence under this Part, it is a defence for the person charged to prove that—
 
     - (a) the offence was committed without his knowledge or consent; and
 
     - (b) he had exercised all due diligence to prevent the commission of the offence.
 
-  - 11.
-
-  - Appeal to Appeal Board against Director’s
-
-  - decision
+  - 11. Appeal to Appeal Board against Director’s decision
 
     - (1) A person aggrieved by a decision of the Director under section 9(4) may, within 14 days after the decision, appeal to the Appeal Board by giving a notice of appeal to the Secretary stating the substance of the matter and reasons for the appeal.
 

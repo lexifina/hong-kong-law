@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[paras. 3, 4A, 4AA, 4B, 5 & 8] (L.N. 558 of 1994; L.N. 188 of 1999; 21 of 2006 s. 40)
+[paras. 3, 4A, 4AA, 5, 5A & 8] (L.N. 558 of 1994; L.N. 188 of 1999; 21 of 2006 s. 40)
 
 - PART I (Repealed L.N. 188 of 1999)
 
@@ -54,7 +54,9 @@
 
 - PIPE TOBACCO OR CIGARETTE TOBACCO (OTHER THAN RETAIL
 
-- CONTAINER CONTAINING ONE CIGAR) Form 1
+- CONTAINER CONTAINING ONE CIGAR)
+
+- Form 1
 
 - Form 2
 
@@ -208,9 +210,35 @@
 
   - (L.N. 188 of 1999)
 
+- PART IIIA FORM OF HEALTH WARNING ON PRICE BOARD
+
+- OF TOBACCO PRODUCTS
+
+香港特區政府忠告市民 吸煙足以致命 HKSAR GOVERNMENT WARNING SMOKING KILLS
+
+- Specifications:
+
+  - 1. The form is rectangular in shape and surrounded by a black line as demarcation.
+
+  - 2. The background colour is white.
+
+  - 3. The characters “香港特區政府忠告市民” are printed in 30 kyu (級).
+
+  - 4. The characters “吸煙足以致命” are printed in 90 kyu (級).
+
+  - 5. All characters referred to in paragraphs 3 and 4 are printed in black and in “華康中黑體” typeface.
+
+  - 6. The letters “HKSAR GOVERNMENT WARNING” are printed in 30 points.
+
+  - 7. The letters “SMOKING KILLS” are printed in 90 points.
+
+  - 8. All letters referred to in paragraphs 6 and 7 are printed in black and in Univers Bold typeface, all capitals.
+
+  - 9. If the price board is smaller than 1500 square centimetres, the characters and letters of the health warning may be proportionally reduced in kyu (級) and points by reference to the specifications in paragraphs 3, 4, 6 and 7. (21 of 2006 s. 40)
+
 - PART IV (Repealed L.N. 188 of 1999)
 
-- PART V RESTAURANT SIGNS Form A Form B (L.N. 558 of 1994)
+- PART V (Repealed 21 of 2006 s. 40)
 
 - PART VI SIGN WHEN OFFERING TOBACCO
 

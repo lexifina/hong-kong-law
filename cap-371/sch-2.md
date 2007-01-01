@@ -1,17 +1,101 @@
 # SCHEDULE 2
 
-[s. 3]
+[s. 3(1) & section (1AA)]
 
-DESIGNATED NO SMOKING AREAS
+DESIGNATED NO SMOKING AREAS AND EXEMPT AREAS
+
+- PART 1 DESIGNATED NO SMOKING AREAS
 
 Item | Type of area
 
-1. | Any area opened, kept or used for, or in connection with, the purpose of providing seating accommodation in a cinema, theatre or concert hall.
+1. | Any cinema, theatre or concert hall.
 
 2. | Any public lift.
 
-3. | Any amusement game centre.
+3. | Any escalator.
 
-4. | (a) Any indoor area open to the public in a supermarket or bank. (b) Any indoor area open to the public in department stores or shopping malls, except the restaurant within a department store or a shopping mall. (Added 93 of 1997 s. 24)
+4. | Any amusement game centre.
 
-(Added 9 of 1992 s. 16)
+5. | Any child care centre.
+
+6. | Any school.
+
+7. | Any specified educational establishment.
+
+8. | Any approved institution.
+
+9. | Any place of detention.
+
+10. | Any place of refuge.
+
+11. | Any reformatory school.
+
+12. | Any hospital.
+
+13. | Any maternity home.
+
+14. | Any public pleasure ground other than a bathing beach.
+
+15. | The following areas within any bathing beach— (a) any part of the waters set aside for the sole use of swimmers under section 10 of the Bathing Beaches Regulation (Cap. 132 sub. leg. E) (which includes any beach raft and any other thing on the surface of or above those waters); (b) the shore covered with sand or stones, together with any structure, showering facilities or natural feature on such shore; and (c) any area specified under section 107(3) of the Public Health and Municipal Services Ordinance (Cap. 132) to be used as a barbecue area, camp site or children’s play area.
+
+16. | The following areas within any public swimming pool— (a) any swimming pool; (b) any sidewalk immediately adjacent to the swimming pool; (c) any diving board or other apparatus or facility adjoining the swimming pool; and (d) any spectator stand.
+
+17. | The following areas within any stadium— (a) any pitch; (b) any running track; (c) any sidewalk immediately adjacent to the pitch or running track; and (d) any spectator stand.
+
+18. | The Hong Kong Wetland Park designated under section 24(1) of the Country Parks Ordinance (Cap. 208).
+
+19. | An indoor area in— (a) any shop, department store or shopping mall; (b) any market (whether publicly or privately operated or managed); (c) any supermarket; (d) any bank; (e) any restaurant premises; (f) any bar; (g) any karaoke establishment; (h) any mahjong-tin kau premises; (i) any bathhouse; (j) any massage establishment; (k) any residential care home; (l) any treatment centre; or (m) any communal quarters (as defined in Part 3).
+
+20. | An indoor area in a workplace or public place to the extent that it is not an area described in any other item in this Part.
+
+- PART 2 EXEMPT AREAS
+
+Item | Type of area
+
+1. | An area described in item 20 of Part 1 that is situated in domestic premises.
+
+2. | Type 1 private quarters (as defined in Part 3).
+
+3. | Type 2 private quarters (as defined in Part 3) that are not situated within any of the following— (a) a child care centre; (b) a school; (c) a specified educational establishment; (d) an approved institution; (e) a place of detention; (f) a place of refuge; (g) a reformatory school; (h) a hospital; (i) a maternity home.
+
+4. | A bedspace apartment in respect of which a licence or certificate of exemption issued under the Bedspace Apartments Ordinance (Cap. 447) is in force.
+
+5. | A room or suite of rooms in a hotel or guesthouse if— (a) a licence or certificate of exemption issued under the Hotel and Guesthouse Accommodation Ordinance (Cap. 349) is in force in respect of the hotel or guesthouse; and (b) the room or suite of rooms is being hired for use as sleeping accommodation.
+
+6. | An area designated by the Airport Authority as a smoking area as referred to in section 16 of the Airport Authority Bylaw (Cap. 483 sub. leg. A).
+
+7. | An area in a correctional facility that is set aside for smoking by prisoners who are allowed to do so in accordance with orders under rule 25 of the Prison Rules (Cap. 234 sub. leg. A).
+
+8. | An area that is— (a) situated within a public pleasure ground other than a bathing beach; and (b) specified under section 107(3) of the Public Health and Municipal Services Ordinance (Cap. 132) to be used as a smoking area.
+
+9. | A room designated for cigar tasting in a shop if all the following requirements are complied with— (a) the shop is engaged in the retail sale of cigars; (b) nothing except cigars and cigar accessories are offered for sale in the shop; (c) the room is not used for smoking except for the purpose of tasting the cigars, or samples of the cigars, that are sold or offered for sale in the shop; (d) the room is independently ventilated and completely partitioned off from the remainder of the shop; and (e) no natural person is required to enter the room while it is being occupied for cigar tasting (whether or not he could have been required to do so by contract or otherwise).
+
+10. | A room designated for tobacco tasting in the manufacturing or business premises of a business engaged in the tobacco trade if all the following requirements are complied with— (a) the business is not engaged in the retail sale of tobacco products; (b) the tobacco tasting is carried out for the purpose of conducting research and development or quality control of tobacco products in the normal course of the business; (c) the room is only used for carrying out the tobacco tasting; (d) the room is independently ventilated and completely partitioned off from the remainder of the premises; and (e) no natural person, other than one who carries out the tobacco tasting, is required to enter the room while it is being occupied for the tobacco tasting (whether or not he could have been required to do so by contract or otherwise).
+
+- PART 3 INTERPRETATION In this Schedule—
+
+  - “communal quarters” (共用宿舍) means any premises that are the living accommodation provided by an employer to 2 or more employees, or to those employees and their families, whether or not any monetary consideration is received by the employer for providing the accommodation, but does not include—
+
+    - (a) any room occupied exclusively by one employee, or by that employee and his family, within any such accommodation; and
+
+    - (b) any such accommodation that is, or forms part of, the private dwelling of the employer or any other person;
+
+  - “Type 1 private quarters” (第一類私人宿舍) means any premises that comply with the following requirements—
+
+    - (a) the premises are the living accommodation provided by an employer to one employee, or to that employee and his family, whether or not any monetary consideration is received by the employer for providing the accommodation;
+
+    - (b) the accommodation is occupied exclusively by that employee, or by him and his family; and
+
+    - (c) the block of building in which the accommodation is situated consists only of such accommodation and the common parts (if any) shared by such accommodation;
+
+  - “Type 2 private quarters” (第二類私人宿舍) means any premises that comply with the following requirements—
+
+    - (a) the premises are the living accommodation provided by an employer to one employee, or to that employee and his family, whether or not any monetary consideration is received by the employer for providing the accommodation;
+
+    - (b) the accommodation is occupied exclusively by that employee, or by him and his family;
+
+    - (c) the accommodation is permanently and completely partitioned off from the remainder of any area described in Part 1 within which the accommodation is situated; and
+
+    - (d) none of any window, door or other closeable opening of the accommodation opens to an indoor part of that area (except a common part).
+
+- (Schedule 2 replaced 21 of 2006 s. 21)

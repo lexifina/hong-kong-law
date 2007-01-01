@@ -7,6 +7,7 @@ s-004A.md
 s-004AA.md
 s-004B.md
 s-005.md
+s-005A.md
 s-006.md
 s-007.md
 s-008.md
