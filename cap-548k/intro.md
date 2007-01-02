@@ -1,0 +1,5 @@
+MERCHANT SHIPPING (LOCAL VESSELS) (AMOUNT OF INSURANCE COVER) NOTICE
+
+((Cap. 548, sub. leg. H), section 21)
+
+[2 January 2007]
