@@ -9,16 +9,6 @@ s-007.md
 s-008.md
 s-009.md
 s-010.md
-s-001-dup2.md
-s-002-dup2.md
-s-003-dup2.md
-s-004-dup2.md
-s-005-dup2.md
-s-006-dup2.md
-s-007-dup2.md
-s-008-dup2.md
-s-009-dup2.md
-s-010-dup2.md
 s-011.md
 s-012.md
 s-013.md
