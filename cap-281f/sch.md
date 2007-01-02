@@ -1,7 +1,5 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 64 of 1999 s. 3)
-
 [regs. 3, 5, 5A, 6, 7, 8, 11A & 12]
 
 - PART I (No provision) -
@@ -264,7 +262,7 @@ Note: For every extension of a radio certificate or radio-telephone certificate 
 
 10. For a copy of a Form Surveys 69 (Radio) | 1210
 
-11. For verifying the navigational equipment under the Merchant Shipping (Safety) (Navigational Equipment) Regulations (Cap. 369 sub. leg.) | a fee determined by the time involved, charge at the hourly rate.
+11. For verifying the navigational equipment under the Merchant Shipping (Safety) (Navigational Equipment) Regulations (Cap. 369 sub. leg. AJ) | a fee determined by the time involved, charge at the hourly rate.
 
 12. For the inspection of a ship for such purposes otherwise than on the application of the owner, if the ship is found not to be properly provided with a radio or radar installation and/or radio officers or radio-telephone operators, for each visit | 4425
 
@@ -560,7 +558,7 @@ a periodical inspection | no fee.
 
 (e) For the survey of a ship in respect of which a load line certificate or load line exemption certificate is in force, where alterations have been made to the ship which involve the assignment of new freeboards but are not such as to necessitate a complete survey of the ship for that purpose | the standard periodical inspection fee in sub-item (a) of this item.
 
-(f) For the consideration of stability information to determine compliance with the stability requirements in Schedules 4 and 7 to the Merchant Shipping (Safety) (Load Line) Regulations (Cap. 369 sub. leg.) | a fee determined by the time involved, charged at the hourly rate.
+(f) For the consideration of stability information to determine compliance with the stability requirements in Schedules 4 and 7 to the Merchant Shipping (Safety) (Load Line) Regulations (Cap. 369 sub. leg. AD) | a fee determined by the time involved, charged at the hourly rate.
 
 Note: The fee prescribed in this sub-item is additional to the appropriate fee in the Table of Standard Fees in sub-item (a) of this item.
 
@@ -572,7 +570,7 @@ Note: The fee prescribed in this sub-item is additional to the appropriate fee i
 
 Note: The fee prescribed in this sub-item is additional to the appropriate fee in the Table of Standard Fees in sub-item (a) of this item.
 
-(i) For the consideration of calculations in accordance with the Merchant Shipping (Safety) (Load Line) Regulations (Cap. 369 sub. leg.) as to the ability of a ship to withstand the flooding of compartments | a fee determined by the time involved, charged at the hourly rate.
+(i) For the consideration of calculations in accordance with the Merchant Shipping (Safety) (Load Line) Regulations (Cap. 369 sub. leg. AD) as to the ability of a ship to withstand the flooding of compartments | a fee determined by the time involved, charged at the hourly rate.
 
 Note: The fee prescribed in this sub-item is additional to the appropriate fee in the Table of Standard Fees in sub-item (a) of this item.
 
@@ -612,7 +610,7 @@ SECTION K-FOREIGN-GOING SHIPS CARRYING DANGEROUS GOODS
 
 Purpose or service | Fee $
 
-The following fees shall be payable— 1. For the inspection of a ship for stowage of explosives or other dangerous goods in accordance with the Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg.)—
+The following fees shall be payable— 1. For the inspection of a ship for stowage of explosives or other dangerous goods in accordance with the Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg. H)—
 
 (a) for one visit for one compartment | 5160
 
@@ -620,7 +618,7 @@ The following fees shall be payable— 1. For the inspection of a ship for stowa
 
 (c) for a certificate stating that stowage is in accordance with that Regulation | 2145
 
-2. For the inspection of a compartment of a ship constructed for the stowage of explosives or other dangerous goods in accordance with the Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg.)—
+2. For the inspection of a compartment of a ship constructed for the stowage of explosives or other dangerous goods in accordance with the Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg. H)—
 
 (a) for one visit for one compartment | 5160
 
@@ -628,7 +626,7 @@ The following fees shall be payable— 1. For the inspection of a ship for stowa
 
 (c) for a certificate stating that compartments are suitable for the stowage of explosives or other dangerous goods in accordance with that Regulation | 2145
 
-3. For the inspection of portable explosives magazines in accordance with the Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg.)—
+3. For the inspection of portable explosives magazines in accordance with the Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg. H)—
 
 (a) for one visit for one magazine | 4425
 
@@ -636,7 +634,7 @@ The following fees shall be payable— 1. For the inspection of a ship for stowa
 
 (c) for a certificate stating that a magazine has been constructed in accordance with that Regulation | 2145
 
-4. For the examination of plans relating to stowage or shipping of dangerous goods in accordance with the Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg.) | a fee determined by the time involved, charged at the hourly rate.
+4. For the examination of plans relating to stowage or shipping of dangerous goods in accordance with the Merchant Shipping (Safety) (Dangerous Goods and Marine Pollutants) Regulation (Cap. 413 sub. leg. H) | a fee determined by the time involved, charged at the hourly rate.
 
 5. For the examination and survey of bulk chemical tankers under International Maritime Organization Codes for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk | a fee determined by the time involved, charged at the hourly rate.
 
@@ -680,193 +678,23 @@ Note: (1) The fee specified in this item does not include a survey for the measu
 
 4. For examination of all plans and stability information | a fee determined by the time involved, charged at the hourly rate
 
-SECTION P-LAUNCHES AND FERRY VESSELS
+SECTION P
 
-Note: (1) Surveys for the services under this Section (except item 6) do not include surveys for tonnage measurement or for examination of plans and stability information.
+(Repealed 43 of 1999 s. 91)
 
-- (2) If more than 3 visits of a surveyor or a person holding the post of a ship inspector in the Government to the vessel are required before the issue of any certificate of survey, the appropriate fee shall be increased by 1/4 in respect of each surveyor or each person holding the post of a ship inspector in the Government for each such visit exceeding 3, including the final survey visit.
+SECTION Q
 
-- (3) For the extension of any certificate of survey for a period not exceeding 3 months, the fee payable shall be 1/2 of the appropriate fee.
+(Repealed 43 of 1999 s. 91)
 
-- (4)
+SECTION R
 
-  - In this Section, “Specified Sheltered Waters” (指明遮蔽水域) means the waters specified in the First Schedule to the Merchant Shipping (Launches and Ferry Vessels) Regulations (Cap. 313 sub. leg.). (L.N. 576 of 1994)
+(Repealed 43 of 1999 s. 91)
 
-  - Purpose or service | Fee $
+_
 
-  - The following fees shall be payable—
+- PART III FEES FOR CERTAIN SERVICES RENDERED BY THE
 
-  - 1. | For a survey of and the issue of a certificate of survey for a launch or ferry vessel to ply within the Specified Sheltered Waters only that is certified to carry— (L.N. 576 of 1994)
-
-  - (a) not more than 50 passengers | 1335
-
-  - (b) more than 50 passengers but not more than 100 passengers | 2200
-
-  - (c) more than 100 passengers, for each 50 passengers, or part thereof, over 100 passengers | 515
-
-  - 2. | For a survey of and the issue of a certificate of survey for a launch or ferry vessel which is not confined to plying within the Specified Sheltered Waters only and which is certified to carry—
-
-  - (a) not more than 50 passengers | 2270
-
-  - (b) more than 50 passengers but not more than 100 passengers | 2860
-
-  - (c) more than 100 passengers but not more than 500 passengers | 4745
-
-  - (d) more than 500 passengers for each 100 passengers, or part thereof, over 500 passengers | 970
-
-- (L.N. 576 of 1994)
-
-3. | For a survey of and the issue of a certificate of survey for a passenger vehicular ferry vessel; being in addition to the appropriate fee payable under item 2(a), (b), (c) or (d). | 4745
-
-(L.N. 576 of 1994)
-
-4. | For a survey of and the issue of a certificate of survey for a launch certified to tow other craft— | 2860
-
-Note: If a survey under item 1 or 2 is required simultaneously with a survey under this item, then only 1/2 of the fee under this item shall be payable in addition to the fee payable under item 1 or 2, as the case may be.
-
-(L.N. 576 of 1994)
-
-5. | (Repealed L.N. 576 of 1994)
-
-6. | For the examination of plans and stability information—
-
-(a) Hull plans for a vessel certified to carry—
-
-(i) not more than 50 passengers | 1815
-
-(ii) more than 50 passengers but not more than 100 passengers | 2970
-
-(iii) more than 100 passengers | 5930
-
-(b) Machinery plans for a vessel certified to carry—
-
-(i) not more than 50 passengers | 1815
-
-(ii) more than 50 passengers but not more than 100 passengers | 2970
-
-(iii) more than 100 passengers | 5930
-
-(c) Electrical plans, for each generator installed | 1235
-
-(d) Stability information | 1235
-
-(e) Structural fire protection | 2970
-
-(f) Fire extinguishing installation | 2970
-
-Note: (1) For examination of plans in respect of minor modification to an existing licensed vessel, the fee shall be 1/2 of the appropriate fee.
-
-- (2) For examination of plans and stability information in respect of a floating restaurant referred to in Section Q the fee shall be twice the appropriate fee under this item. SECTION Q-SMALL CRAFT AND OTHER MISCELLANEOUS VESSELS Note: (1) Inspection for the services specified in this Section does not include inspection for measurement of tonnage or for examination of plans and stability information.
-
-- (2) If more than 3 visits of a surveyor or an inspector to the vessel are required before the issue or endorsement of any certificate, the appropriate fee shall be increased by 1/4 in respect of each surveyor or each inspector for each such visit exceeding 3, including the final inspection visit.
-
-- (3) For the extension of any certificate of inspection for a period not exceeding 3 months the fee payable shall be 1/2 of the appropriate fee.
-
-- Purpose or service | Fee $
-
-- The following fees shall be payable— 1. For an inspection of and the issue of a certificate of inspection for—
-
-- (a) Junks fitted with mechanical means of propulsion—
-
-- (i) with engines of total horsepower up to 15 B.H.P. | 565
-
-- (ii) with engines of total horsepower more than 15 B.H.P. but not exceeding 30 B.H.P. | 780
-
-- (iii) with engines of total horsepower more than 30 B.H.P. but not exceeding 50 B.H.P. | 1045
-
-- (iv) with engines of total horsepower more than 50 B.H.P. but not exceeding 80 B.H.P. | 1335
-
-- (v) with engines of total horsepower more than 80 B.H.P., for each 40 B.H.P. or part thereof, over 80 B.H.P. | 150
-
-- (b) Lighters and junks fitted with diesel or other auxiliary, for each engine installed | 1145
-
-- (c) Water boats—
-
-- (i) self-propelled, western type | 4535
-
-- (ii) not self-propelled, western type | 2640
-
-- (iii) native type | 1145
-
-- (d) Vessels of western type | 3775
-
-- (e) Floating restaurants certified to accommodate—
-
-- (i) not more than 100 persons | 3775
-
-- (ii) more than 100 persons, for each 50 persons, or part thereof, over 100 persons | 780
-
-- (f) (i) Floating docks which are classed by a classification society approved by the Director | 7535
-
-- (ii) Floating docks which are not classed as in (i) | a fee determined by the time involved, charged at the hourly rate.
-
-- (g) Floating workshops | 3775
-
-- 2. For surveys of and the issue of freeboard certificates or prescribed periodical inspections of dumb lighters—
-
-- Tonnage | Survey Fee $ | Periodic Inspection Fee $
-
-- Under 100 tons | 1520 | 515
-
-- 100 tons or over but under 200 tons | 1895 | 780
-
-- 200 tons or over but under 300 tons | 2270 | 1020
-
-- 300 tons or over | 2640 | 1255
-
-- 3. For the examination of plans and stability information—
-
-- (a) Hull plans including scantlings structure and arrangement | 1235
-
-- (b) Machinery plans including shafting, piping and pumping | 1235
-
-- (c) Electrical plans for each generator installed | 1235
-
-- (d) Stability information | 1030
-
-- (e) Structural fire protection | 2355
-
-- (f) Fire extinguishing installation | 2355
-
-- Note: (1) For examination of plans in respect of minor modification to an existing licensed vessel, the fee shall be 1/2 of the appropriate fee.
-
-  - (2) For examination of plans and stability information in respect of a floating restaurant the fee shall be twice of the appropriate fee under item 6 of Section P. SECTION R-CARRIAGE OF DANGEROUS GOODS-LOCAL CRAFT Note: (1) Inspection for the services specified in this Section does not include inspection and the issue of a certificate of inspection under Sections P and Q.
-
-- (2) If more than 3 visits of a surveyor or an inspector to the vessel are required before the issue of any certificate or declaration of fitness, the appropriate fee shall be increased by 1/4 in respect of each surveyor and each inspector for each such visit exceeding 3, including the final inspection visit.
-
-- (3)
-
-- For the extension of any Declaration of Fitness for a period not exceeding 3 months the fee payable shall be 1/2 of the appropriate fee.
-
-- Purpose or service | Fee $
-
-- The following fees shall be payable— 1. For the inspection for the carriage of dangerous goods and the issue of a Declaration of Fitness—
-
-- (a) Vessels other than tankers, in respect of each category of dangerous goods specified in the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg.) | 815
-
-- (b) Tankers, in respect of each category of dangerous goods specified in the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg.)—
-
-- (i) under 500 gross registered tonnage | 1895
-
-- (ii) 500 gross registered tonnage and over | 3775
-
-- 2. For the examination of plans—
-
-- (a) Vessels other than tankers, in respect of each category of dangerous goods specified in the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg.) | 1030
-
-- (b) Tankers, in respect of each category of dangerous goods specified in the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg.)—
-
-- (i) under 500 gross registered tonnage | 2355
-
-- (ii) 500 gross registered tonnage and over | 4710
-
-- Note: For examination of plans in respect of modification to an existing vessel and the issue of a Declaration of Fitness, the fee payable shall be 1/2 of the appropriate fee.
-
-- _
-
-  - PART III FEES FOR CERTAIN SERVICES RENDERED BY THE
-
-  - MERCANTILE MARINE OFFICE
+- MERCANTILE MARINE OFFICE
 
 Purpose or service | Fee $
 
@@ -882,7 +710,7 @@ _
 
 - PART IV FEES PAYABLE FOR EXAMINATIONS, ETC. Note: (1) The fees specified in this Part include the issue of the appropriate certificate of competency.
 
-  - (2) The fees for sight tests specified in item 4(a) and (b) are included in the fees for an examination for a certificate of competency specified in item 1 or 3 in cases where the sight test is conducted as part of the examination. In the event of a candidate failing the sight test, the balance of the relevant fees paid for the examination, less the fee for sight test, will be refunded to the candidate.
+  - (2) (Repealed 43 of 1999 s. 91)
 
   - Purpose or service | Fee $
 
@@ -898,269 +726,21 @@ _
 
   - 2. Fees for examinations for certificates of competency as Trawler Engineers— For an examination for a certificate of competency on each occasion a candidate presents himself— Trawler Engineer, for a full examination | 2895
 
-  - 3. Fees for examination for local certificates of competency, on each occasion a candidate presents himself, or for grant of certificates, if no such fees are charged under Part IV of the Shipping and Port Control Ordinance (Cap. 313)—
+  - 3. (Repealed 43 of 1999 s. 91)
 
-  - (a) Master (vessel other than a pleasure vessel)—
+  - 4. (Repealed 43 of 1999 s. 91)
 
-  - (i) for vessels of 300 tons and under | 1255
-
-  - (ii) for vessels of 60 tons and under | 515
-
-  - (b) Engineer (vessel other than a pleasure vessel)—
-
-  - (i) for engines above 150 B.H.P. | 1255
-
-  - (ii) for engines 150 B.H.P. and under | 515
-
-  - (c) Master (pleasure vessel) | 515
-
-  - (d) Engineer (pleasure vessel) | 515
-
-  - (e) For bona fide fisherman | 515
-
-  - 4. Fees for miscellaneous examinations, certificates and endorsements—
-
-  - (a) For a sight test for an examination in item 1 | 270
-
-  - (b) For a sight test for an examination in item 3 | 270
-
-  - (c) For a further sight test on appeal | 780
-
-  - (d) For a further sight test on special appeal | 1520
-
-  - (e) For an examination of a candidate holding a local certificate of competency as Engineer for acting appointment as Trawler Engineer | 2025
-
-  - 5. Fees for copies of certificates issued under this Part—
-
-  - (a) For a copy of a certificate of competency | 220
-
-  - (b) For a copy of a sight test certificate | 150
-
-  - (c) For a copy of a local certificate of competency as Master or Engineer, when not re-examined | 220
-
-- Note: No fee shall be payable under this item if the Director is satisfied that the loss of a certificate was without fault on the part of the holder of the certificate.
+  - 5. (Repealed 43 of 1999 s. 91)
 
 - (L.N. 240 of 1996)
 
 - _
 
-- PART V FEES PAYABLE IN RELATION TO LAUNCHES AND
+- PART V (Repealed 43 of 1999 s. 91)
 
-- FERRY VESSELS AND PLEASURE VESSELS Note: (1) Fees for surveys and examinations for local certificates of competency will be found in Parts II and IV respectively. (L.N. 576 of 1994)
+- PART VI (Repealed 43 of 1999 s. 91)
 
-  - (2)
-
-    - In this Part, “Specified Sheltered Waters” (指明遮蔽水域) means the waters specified in the First Schedule to the Merchant Shipping (Launches and Ferry Vessels) Regulations (Cap. 313 sub. leg.). (L.N. 576 of 1994)
-
-    - Purpose or service | Fee $
-
-    - 1. Fees for licence— (a) A launch or ferry vessel licensed to ply within the Specified Sheltered Waters, of net tonnage— (L.N. 576 of 1994)
-
-    - under 20 | 365
-
-    - 20 and over but under 60 | 730
-
-    - 60 and over but under 100 | 1115
-
-    - 100 or over | 1115 plus $355 for every 40 tons or part thereof by which the tonnage exceeds 100 tons.
-
-    - (b) (Repealed L.N. 576 of 1994)
-
-    - (c) A launch or ferry vessel which is not confined to plying only within the Specified Sheltered Waters, of net tonnage— (L.N. 576 of 1994)
-
-    - under 20 | 1115
-
-    - 20 and over but under 60 | 2200
-
-    - 60 and over but under 100 | 3300
-
-    - 100 or over | 3300 plus $355 for every 40 tons or part thereof by which the tonnage exceeds 100 tons.
-
-    - (d) (Repealed L.N. 576 of 1994)
-
-    - (e) Pleasure vessels of length—
-
-    - not exceeding 5 m | 355
-
-    - exceeding 5 m but not exceeding 8 m | 705
-
-    - exceeding 8 m but not exceeding 11 m | 1400
-
-    - exceeding 11 m | 1400 plus $1,400 for every 3 m or part thereof by which the length exceeds 11 m.
-
-    - And in addition, in respect of a pleasure vessel licensed to carry more than 14 persons (including crew), for each person in excess of 14 | 175
-
-    - Note: If the duration of any licence is for less than 12 months, the fee shall be 1/12 of the appropriate fee for each month subject to a minimum fee of 3/12 thereof.
-
-    - 2. Fee for replacement of licence book lost, destroyed or defaced | 355
-
-    - 3. Fee for temporary permit in lieu of licence | 355
-
-    - 4. Fee for unlicensed vessel to remain in the waters of Hong Kong—
-
-    - per week | 355 for a vessel not exceeding 50 tons plus $355 for every 50 tons or part thereof by which the tonnage exceeds 50 tons.
-
-    - 5. (Repealed L.N. 576 of 1994)
-
-    - 6. Fee for certificate of exemption from regulations—
-
-    - per certificate | 525
-
-    - 7. Fee for endorsement of licence upon change of ownership | 355
-
-    - 8. Fee for search of licence registers | 175
-
-    - 9. Fee for a certified true copy of licence register or any other document | 210
-
-    - 10. Fee for endorsement of licence upon mortgage/hire purchase, discharge of mortgage/hire purchase or transfer of mortgage/hire purchase | 355
-
-    - 11. Fee for issue of a licence disc or a duplicate licence disc for a launch and ferry vessel (L.N. 576 of 1994) | 355
-
-    - 12. Fee for issue of a duplicate licence disc for a pleasure vessel | 175
-
-    - Note: When a licence is lost through fire or shipwreck a duplicate may be issued free of charge.
-
-    - _
-
-- PART VI FEES PAYABLE IN RELATION TO MISCELLANEOUS CRAFT
-
-- Note: Fees for surveys and examinations for local certificates of competency will be found in Parts II and IV respectively.
-
-- Purpose or service | Fee $
-
-- 1. The fees payable for the licensing of miscellaneous craft shall be in accordance with the following scale— For a licence valid for a period of 1 year—
-
-- Licence Fees-Non-Mechanized Vessels
-
-- Capacity in piculs
-
-- Exceeding | Not exceeding | Cl. I $ | Cl. II $ | Cl. III $ | Cl. IV $ | Cl. V $ | Cl. VI $
-
-- 500 | 97 | 185 | 1850 | 185 | 185 | 97
-
-- 500 | 1000 | 365 | 3650 | 365 | 365 | 185
-
-- 1000 | 2000 | 730 | 7300 | 730 | 730 | 365
-
-- 2000 | 3000 | 1090 | 10900 | 1090 | 1090 | 545
-
-- 3000 | 4000 | 1455 | 14550 | 1455 | 1455 | 730
-
-- 4000 | 5000 | 1815 | 18150 | 1815 | 1815 | 910
-
-- 5000 | 6000 | 2180 | 21800 | 2180 | 2180 | 1090
-
-- 6000 | 7000 | 2545 | 25450 | 2545 | 2545 | 1275
-
-- 7000 | 8000 | 2905 | 29050 | 2905 | 2905 | 1455
-
-- 8000 | 9000 | 3270 | 32700 | 3270 | 3270 | 1635
-
-- 9000 | 10000 | 3630 | 36300 | 3630 | 3630 | 1815
-
-- 10000 | 3630 | 36300 | 3630 | 3630 | 1815
-
-- Upwards | plus | plus | plus | plus | plus
-
-- $365 | $3,650 | $365 | $365 | $185
-
-- for every 1000 piculs or part thereof by which the capacity exceeds 10000 piculs
-
-- Note: In the case of Class III vessels, an additional fee of $175 is charged for each person which a Ceremonial Boat is licensed to carry (as shown in the licence book of the vessel).
-
-- Licence Fees-Mechanized Vessels
-
-- Capacity in piculs
-
-- Exceeding | Not exceeding | Cl. I $ | Cl. II $ | Cl. III $ | Cl. IV $ | Cl. V $ | Cl. VI $
-
-- 500 | 220 | 365 | 365 | 365 | 210
-
-- 500 | 1000 | 730 | 730 | 730 | 365
-
-- 1000 | 2000 | 1455 | 1455 | 1455 | 730
-
-- 2000 | 3000 | 2180 | 2180 | 2180 | 1090
-
-- 3000 | 4000 | 2905 | 2905 | 2905 | 1455
-
-- 4000 | 5000 | 3630 | 3630 | 3630 | 1815
-
-- 5000 | 6000 | 4360 | 4360 | 4360 | 2180
-
-- 6000 | 7000 | 5085 | 5085 | 5085 | 2545
-
-- 7000 | 8000 | 5810 | 5810 | 5810 | 2905
-
-- 8000 | 9000 | 6540 | 6540 | 6540 | 3270
-
-- 9000 | 10000 | 7260 | 7260 | 7260 | 3630
-
-- 10000 | 7260 | 7260 | 7260 | 3630
-
-- Upwards | plus | plus | plus | plus
-
-- $730 | $730 | $730 | $365
-
-- for every 1000 piculs or part thereof by which the capacity exceeds 10000 piculs.
-
-- Licence Fees-Class VII Vessels
-
-- For every 100 net registered tons or part thereof For every 100 net registered tons or part thereof in the case of a vessel that is moored to an area of sea bed which is included in a lease of the adjacent foreshore, or the lease of which is granted in conjunction with a lease of the adjacent foreshore | 3665 730
-
-- Licence Fees-Class VIII Vessels
-
-- For every 100 Thames gross tons or part thereof And in addition, for each person the vessel is licensed to carry (as shown in the licence book of the vessel) | 3665 175
-
-- Note: (1) Where a licence is required for a period not exceeding 9 months, 6 months or 3 months duration, 3/4, 1/2 or 1/4 of the respective fee prescribed in the above scale shall be payable.
-
-  - (2) A nominal fee of $17 shall be charged for the licensing of sampans and dinghies normally carried by Class V and Class VI vessels, and for the licensing of sampans of under 15 piculs used exclusively in connection with fishing stakes, oyster beds or shrimping, provided that the licence of the parent vessel or stake net is endorsed with the licence number of the sampan or dinghy and vice versa.
-
-  - (3) The licence fee shall cover the first issue of a licence book but shall not cover issue of duplicates.
-
-  - (4) A fee of $365 shall be charged for the inspection of vessels in respect of applications for conversion of class or suitability for specific purposes, when an inspection is required, other than in connection with the licensing or relicensing of vessels.
-
-  - (5) The Thames gross tonnage of a Class VIII vessel shall be determined in accordance with the following formula—
-
-- B
-
-- (L - B) B x -
-
-- 2
-
-- - , where-
-
-- 94
-
-- ”L” is the length of the vessel measured on deck; and
-
-- ”B” is the breadth of the vessel measured on deck.
-
-- 2. Fee for special anchorage permit (unlicensed vessels) for a period not exceeding 7 days | 355 for vessels of 10000 piculs in capacity or under plus $35 for every 1000 piculs or part thereof by which the capacity exceeds 10000 piculs.
-
-- 3. Fee for repainting licence numbers on vessels which have become obliterated or defaced | 73
-
-- 4. Fee for issue of duplicate licence book | 355
-
-- Note: When a licence book is lost through fire or shipwreck a duplicate may be issued free of charge.
-
-- 5. Fee for certificate of exemption from regulations—
-
-- per certificate | 525
-
-- 6. Fee for endorsement of licence upon change of ownership | 355
-
-- 7. Fee for search of licence registers | 175
-
-- 8. Fee for a certified true copy of licence register or any other document | 210
-
-- 9. Fee for endorsement of licence upon mortgage/hire purchase or discharge of mortgage/hire purchase | 355
-
-- 10. Fee for issue of a licence disc or a duplicate licence disc | 355
-
-- (L.N. 270 of 1995)
-
-- _
+_
 
 - PART VII FEES IN RELATION TO COURTS OF SURVEY
 

@@ -86,6 +86,8 @@ Item | Ordinance | Decision
 
 42. | Education Ordinance (Cap. 279) | (a) An attendance order made under section 74(1). (b) A variation of an attendance order made under section 74(2). (Added 8 of 2001 s. 31)
 
+43. | Merchant Shipping (Local Vessels) Ordinance (Cap. 548) | A decision of the Director of Marine— (a) to refuse to authorize under section 7 a person as a surveyor; (b) to attach conditions to an authorization under section 7; (c) to revoke an authorization under section 7; (d) to serve a detention order; (e) to give a direction under section 53(1)(a); (f) to refuse to comply with a request under section 54(2); (g) to refuse to grant permission under section 66; (h) to attach conditions to a permission under section 66; (i) to revoke a permission under section 66; (j) to give a direction specified in an improvement notice under section 73(1). (Added 43 of 1999 s. 91)
+
 44. | Dangerous Dogs Regulation (Cap. 167 sub. leg. D) | A direction by an authorized officer under section 14 of the Regulation. (Added L.N. 185 of 2000)
 
 45. | Factories and Industrial Undertakings (Safety Management) Regulation (Cap. 59 sub. leg. AF) | (a) A decision of the Commissioner for Labour to refuse to register a person under section 6 or to register a person under that section subject to conditions. (b) A decision of the Commissioner for Labour under section 24(1) to require the appointment of a new safety review officer. (c) A decision of the disciplinary board under section 29(2) to reprimand a registered person, cancel the registration of a registered person or suspend the registration of a registered person. (Added L.N. 298 of 1999)
