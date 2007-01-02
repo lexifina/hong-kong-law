@@ -160,7 +160,7 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
       - (a) the business of insurance against liability described in section 6 of the Motor Vehicles Insurance (Third Party Risks) Ordinance (Cap. 272);
 
-      - (b) the business of insurance against liability described in section 107D of the Merchant Shipping Ordinance (Cap. 281); or
+      - (b) the business of insurance against liability described in section 23D of the Merchant Shipping (Local Vessels) Ordinance (Cap. 548) and any regulation made under section 89 of the Ordinance; or (Replaced 24 of 2005 s. 55)
 
       - (c) the business of insurance against liability described in section 40 of the Employees’ Compensation Ordinance (Cap. 282); (Added L.N. 391 of 1990)
 
@@ -1194,9 +1194,9 @@ PART 1: INTERPRETATION AND PRELIMINARY
 
 - C.
 
-- Launch, Ferry Vessel and Pleasure Vessel Insurance Business under section 107D of the Merchant Shipping Ordinance (Cap. 281)
+- Local Vessels Insurance Business under section 23D of the Merchant Shipping (Local Vessels) Ordinance (Cap. 548) and any regulation made under section 89 of the Ordinance
 
-- No. of policies in force at end of period | No. of launches, ferry vessels and pleasure vessels covered by such policies | No. of outstanding claims at end of period
+- No. of policies in force at end of period | No. of local vessels covered by such policies | No. of outstanding claims at end of period
 
 - THIRD PARTY RISKS | COMPREHENSIVE | TOTAL
 
@@ -1211,6 +1211,8 @@ PART 1: INTERPRETATION AND PRELIMINARY
 - Note: This form is to be completed by an insurer authorized to carry on statutory business (being direct business) in Hong Kong.
 
 - * Delete as necessary.
+
+- (Amended 24 of 2005 s. 55)
 
 - [section 6(a)]
 

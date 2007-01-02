@@ -50,7 +50,7 @@ RESTRICTED AREAS, ETC.
 
 - 5.
 
-- CHEK LAP KOK AIRPORT APPROACH AREA NO. 1
+- HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 1
 
 - The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
@@ -72,11 +72,11 @@ RESTRICTED AREAS, ETC.
 
   - (e) latitude 22o 17’ 59” north, longitude 113o 53’ 49” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 6.
 
-- CHEK LAP KOK AIRPORT APPROACH AREA NO. 2
+- HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 2
 
 - The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
@@ -88,11 +88,11 @@ RESTRICTED AREAS, ETC.
 
   - (d) latitude 22o 18’ 32” north, longitude 113o 56’ 21” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 7.
 
-- CHEK LAP KOK AIRPORT APPROACH AREA NO. 3
+- HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 3
 
 - The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
@@ -116,11 +116,11 @@ RESTRICTED AREAS, ETC.
 
   - (j) latitude 22o 19’ 20” north, longitude 113o 56’ 46” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 8.
 
-- CHEK LAP KOK AIRPORT APPROACH AREA NO. 4
+- HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 4
 
 - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
@@ -134,11 +134,11 @@ RESTRICTED AREAS, ETC.
 
   - (e) latitude 22o 20’ 29” north, longitude 113o 59’ 09” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 9.
 
-- CHEK LAP KOK AIRPORT APPROACH AREA NO. 5
+- HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 5
 
 - The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions—
 
@@ -150,11 +150,11 @@ RESTRICTED AREAS, ETC.
 
   - (d) latitude 22o 18’ 20” north, longitude 113o 56’ 19” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 10.
 
-- CHEK LAP KOK AIRPORT APPROACH AREA NO. 6
+- HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 6
 
 - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
@@ -168,11 +168,11 @@ RESTRICTED AREAS, ETC.
 
   - (e) latitude 22o 20’ 40” north, longitude 113o 59’ 09” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 11.
 
-- CHEK LAP KOK AIRPORT APPROACH AREA NO. 7
+- HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 7
 
 - The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (g), and (h) to (i)—
 
@@ -194,11 +194,11 @@ RESTRICTED AREAS, ETC.
 
   - (i) latitude 22o 17’ 31” north, longitude 113o 54’ 30” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 12.
 
-- CHEK LAP KOK AIRPORT APPROACH AREA NO. 8
+- HONG KONG INTERNATIONAL AIRPORT APPROACH AREA NO. 8
 
 - The area of the waters of Hong Kong bounded by the shore and straight lines joining the following positions (a) to (d), and (e) to (f)—
 
@@ -214,7 +214,7 @@ RESTRICTED AREAS, ETC.
 
   - (f) latitude 22o 22’ 47” north, longitude 113o 52’ 41” east.
 
-- (L.N. 228 of 1997)
+- (L.N. 228 of 1997; 24 of 2005 s. 50)
 
 - 13. TUNG CHUNG BRIDGES AREA
 

@@ -56,11 +56,11 @@ CONDITIONS
 
 - 12.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. .
 
-  - Telecommunications Authority.
+  - For and on behalf of the
 
-  - SCHEDULE APPARATUS LOCATION FROM WHICH MESSAGES ARE RECEIVED
+  - Telecommunications Authority. SCHEDULE APPARATUS LOCATION FROM WHICH MESSAGES ARE RECEIVED
 
 - (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
@@ -112,7 +112,11 @@ CONDITIONS
 
 - 11.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE APPARATUS LOCATIONS TO WHICH MESSAGES ARE TRANSMITTED
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. .
+
+  - For and on behalf of the
+
+  - Telecommunications Authority. SCHEDULE APPARATUS LOCATIONS TO WHICH MESSAGES ARE TRANSMITTED
 
 - (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
@@ -164,7 +168,11 @@ CONDITIONS
 
 - 11.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. SCHEDULE
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. .
+
+  - For and on behalf of the
+
+  - Telecommunications Authority. SCHEDULE
 
 - (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
@@ -184,7 +192,7 @@ CONDITIONS
 
 - 1 | 2 | 3
 
-- Name of ship (the “Ship”) | Call sign or other identification (the “Call Sign”) | Public correspondence category
+- Name of ship or vessel (“the Ship”) | Call sign or other identification (the “Call Sign”) | Public correspondence category
 
 - a | b | c | d
 
@@ -216,7 +224,7 @@ CONDITIONS
 
   - (b) Any such apparatus shall at all times comply with—
 
-    - (i) in case of ships registered in Hong Kong, the Merchant Shipping (Safety) Ordinance (Cap. 369) and the regulations made thereunder or, in case of ships licensed under Part IV of the Shipping and Port Control Ordinance (Cap. 313), that Ordinance and the regulations made thereunder; and
+    - (i) in case of ships registered in Hong Kong, the Merchant Shipping (Safety) Ordinance (Cap. 369) and the regulations made thereunder or, in case of vessels certificated under the Merchant Shipping (Local Vessels) Ordinance (Cap. 548), that Ordinance and the regulations made thereunder; and
 
     - (ii) the relevant performance specifications issued by the Telecommunications Authority.
 
@@ -280,7 +288,7 @@ CONDITIONS
 
   - (d) if, in case of the Ship registered in Hong Kong, the Ship has ceased to be so registered; or
 
-  - (e) if, in case of the Ship licensed under Part IV of the Shipping and Port Control Ordinance (Cap. 313), the Ship has ceased to be so licensed.
+  - (e) if, in case of a vessel certificated under the Merchant Shipping (Local Vessels) Ordinance (Cap. 548), the vessel has ceased to be so certificated.
 
 - 11. Nothing in this licence shall be deemed to waive any requirement imposed on the Licensee by or under any Ordinance.
 
@@ -298,7 +306,7 @@ CONDITIONS
 
 - Equipment Particulars | Maximum Power (dBW) | Frequencies (in MHz) | Classes of Emission
 
-- (L.N. 406 of 1992; 36 of 2000 s. 28)
+- (L.N. 406 of 1992; 36 of 2000 s. 28; 24 of 2005 s. 55)
 
 - TELECOMMUNICATIONS ORDINANCE
 
@@ -610,7 +618,11 @@ CONDITIONS
 
 - 13.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. .
+
+  - For and on behalf of the
+
+  - Telecommunications Authority.
 
 - (L.N. 43 of 1966; L.N. 4 of 1984; 36 of 2000 s. 28)
 
@@ -690,7 +702,11 @@ CONDITIONS
 
 - 21.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority. MOBILE RADIO STATION SCHEDULE Name and Address of Licensee .
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. .
+
+  - For and on behalf of the
+
+  - Telecommunications Authority. MOBILE RADIO STATION SCHEDULE Name and Address of Licensee .
 
   - . .
 
@@ -748,7 +764,11 @@ CONDITIONS
 
 - 5.
 
-  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. . For and on behalf of the Telecommunications Authority.
+  - In this Licence “Telecommunication Convention” (電信公約) means any Constitution and Convention of the International Telecommunication Union and the Radio Regulations annexed thereto, which have from time to time or at any time been acceded to by or applied to Hong Kong. .
+
+  - For and on behalf of the
+
+  - Telecommunications Authority.
 
 - (L.N. 4 of 1984; 36 of 2000 s. 28)
 
@@ -2122,7 +2142,7 @@ CONDITIONS
 
 - 3.
 
-  - (1) Notwithstanding regulation 8(1) of the Telecommunications Regulations (Cap. 106 sub. leg.) the licensee may with the prior consent in writing of the Telecommunications Authority transfer this licence and any permission or any right or benefit arising therefrom.
+  - (1) Notwithstanding regulation 8(1) of the Telecommunications Regulations (Cap. 106 sub. leg. A) the licensee may with the prior consent in writing of the Telecommunications Authority transfer this licence and any permission or any right or benefit arising therefrom.
 
 - (2) Any such consent shall be subject to such conditions as the Telecommunications Authority may impose.
 
@@ -2224,7 +2244,7 @@ CONDITIONS
 
 - 2. The Stations shall be used only with emissions which are of the classes specified in the Schedule hereto, on the frequencies specified in the Schedule hereto in relation to those respective classes of emission, and with a power not exceeding that specified in the Schedule hereto in relation to the class of emission and frequency in use at the time.
 
-- 3. The Stations shall be operated only by persons possessing a certificate granted by the Authority under regulation 4 of the Telecommunications Regulations (Cap. 106 sub. leg.), but this requirement—
+- 3. The Stations shall be operated only by persons possessing a certificate granted by the Authority under regulation 4 of the Telecommunications Regulations (Cap. 106 sub. leg. A), but this requirement—
 
   - (a) shall not apply to stations which operate solely on frequencies above 30 MHz other than frequencies assigned for international use; and
 
@@ -3388,7 +3408,7 @@ CONDITIONS
 
     - (3) The Authority may from time to time require the Licensee to demonstrate that the System complies with—
 
-      - (a) this licence, the Telecommunications Ordinance (Cap. 106) and the Telecommunications Regulations (Cap. 106 sub. leg.); and
+      - (a) this licence, the Telecommunications Ordinance (Cap. 106) and the Telecommunications Regulations (Cap. 106 sub. leg. A); and
 
       - (b) any technical standards, specifications, codes of practice, directions determinations or orders issued by the Authority from time to time.
 
@@ -3544,7 +3564,7 @@ CONDITIONS
 
     - (3) The Authority may from time to time require the Licensee to demonstrate that the System and the Ancillary Installations comply with—
 
-      - (a) this licence, the Telecommunications Ordinance (Cap. 106) and the Telecommunications Regulations (Cap. 106 sub. leg.); and
+      - (a) this licence, the Telecommunications Ordinance (Cap. 106) and the Telecommunications Regulations (Cap. 106 sub. leg. A); and
 
       - (b) any technical standards, specifications, codes of practice, directions, determinations or orders issued by the Authority from time to time.
 
@@ -3640,7 +3660,7 @@ CONDITIONS
 
     - 5.
 
-      - (1) Notwithstanding regulation 8(1) of the Telecommunications Regulations (Cap. 106 sub. leg.), the licensee may with the prior written consent of the Authority transfer this licence and any permission, right or benefit under this licence.
+      - (1) Notwithstanding regulation 8(1) of the Telecommunications Regulations (Cap. 106 sub. leg. A), the licensee may with the prior written consent of the Authority transfer this licence and any permission, right or benefit under this licence.
 
       - (2) The consent of the Authority shall be subject to such conditions as the Authority thinks fit.
 

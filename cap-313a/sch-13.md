@@ -34,11 +34,7 @@ Note: | (1) | A buoy may be reserved up to a maximum of 2 days in advance of a v
 
 (a) | All vessels plying exclusively within the river trade limits— Per 100 tons or part thereof on each occasion of entry to the waters of Hong Kong . | 23
 
-(b) | Mechanized fishing vessels— For each vessel per annum—
-
-(i) | over 20 tons but not exceeding 40 tons . | 74
-
-(ii) | over 40 tons . | the fee under (i) above plus $74 for every 20 tons or part thereof by which the tonnage exceeds 40 tons
+(b) | (Repealed 24 of 2005 s. 55)
 
 (c) | All other vessels— Per 100 tons or part thereof on each occasion of entry to the waters of Hong Kong (L.N. 201 of 2005) . | 54
 
@@ -134,4 +130,4 @@ Note: | A service occupying less than an hour will be charged for as 1 hour, acc
 
 (b) | For the operation of each beach seine net . | 210
 
-(L.N. 253 of 1992; L.N. 339 of 1993; L.N. 338 of 1994; L.N. 276 of 1995; L.N. 201 of 2005)
+(L.N. 253 of 1992; L.N. 339 of 1993; L.N. 338 of 1994; L.N. 276 of 1995)

@@ -6,9 +6,9 @@
 
 - 2. Premises of any mutual aid committee approved for the purposes of the Societies Ordinance (Cap. 151) by the Secretary for Home Affairs by notice in writing.
 
-- 3. The vessel known as “Chuen Kee” (Hong Kong licence No. 30150A) which is licensed under the Shipping and Port Control Ordinance (Cap. 313). (L.N. 56 of 1994; L.N. 45 of 1999)
+- 3. The vessel known as “Chuen Kee” (Hong Kong licence No. 30150A) which is certificated under the Merchant Shipping (Local Vessels) Ordinance (Cap. 548). (L.N. 56 of 1994; L.N. 45 of 1999; 24 of 2005 s. 55)
 
-- 4. The vessel known as “Chuen Kee Kitchen Boat” (Hong Kong licence No. 30117P) which is licensed under the Shipping and Port Control Ordinance (Cap. 313). (L.N. 56 of 1994; L.N. 45 of 1999)
+- 4. The vessel known as “Chuen Kee Kitchen Boat” (Hong Kong licence No. 30117P) which is certificated under the Merchant Shipping (Local Vessels) Ordinance (Cap. 548). (L.N. 56 of 1994; L.N. 45 of 1999; 24 of 2005 s. 55)
 
 - 5. The following club-houses situated in Government premises—
 

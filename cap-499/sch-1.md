@@ -206,6 +206,6 @@ In this Ordinance, unless the context otherwise requires—
 
 - “trunk road” (幹道) means a road connecting the main centres of population being a high capacity road with no frontage access or development, pedestrians segregation, widely spaced grade-separated junctions, and a 24 hour stopping restriction;
 
-- “typhoon shelter” (避風塘) means a typhoon shelter within the meaning of the Shipping and Port Control (Typhoon Shelters) Regulations (Cap. 313 sub. leg.);
+- “typhoon shelter” (避風塘) means a typhoon shelter within the meaning of the Merchant Shipping (Local Vessels) (Typhoon Shelters) Regulation (Cap. 548 sub. leg. E); (Amended 24 of 2005 s. 55)
 
 - “wild animal protection area” (野生動物保護區) means an area designated as a restricted area under the Sixth Schedule to the Wild Animals Protection Ordinance (Cap. 170).
