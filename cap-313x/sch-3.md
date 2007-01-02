@@ -1,0 +1,9 @@
+# SCHEDULE 3
+
+[ss. 2 & 72]
+
+DISCIPLINES OF REGISTERED PROFESSIONAL ENGINEERS FOR COMPETENT EXAMINERS
+
+- 1. Marine and naval architecture.
+
+- 2. Mechanical.
