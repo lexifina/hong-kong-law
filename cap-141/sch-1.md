@@ -14,6 +14,8 @@ INFECTIOUS DISEASES
 
 - 4. Cholera
 
+- 4A. Community-associated methicillin-resistant Staphylococcus aureus infection (Added L.N. 1 of 2007)
+
 - 5. Dengue fever
 
 - 6. Diphtheria
