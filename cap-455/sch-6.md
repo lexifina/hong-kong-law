@@ -4,11 +4,7 @@
 
 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
-- PART 1 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS WHERE
-
-- PARAGRAPH (a)(i) OF THE DEFINITION OF “REMITTANCE
-
-- AGENT” IN SECTION 24A IS APPLICABLE
+- PART 1 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS WHERE PARAGRAPH (a)(i) OF THE DEFINITION OF “REMITTANCE AGENT” IN SECTION 24A IS APPLICABLE
 
   - 1. Transaction serial number
 
@@ -20,7 +16,7 @@ PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
   - 5. Name, identity card number (or certificate of identity, document of identity or travel document number with place of issue), telephone number and address of instructor(s)
 
-  - 6. Name, identity card number (or certificate of identity, document of identity or travel document number with place of issue), telephone number and address of sender(s), if available
+  - 6. Name, identity card number (or certificate of identity, document of identity or travel document number with place of issue), telephone number and address of sender(s) (Amended L.N. 262 of 2006)
 
   - 7. Bank account(s) involved, if any
 
@@ -30,11 +26,7 @@ PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
   - 10. Date and time sent
 
-- PART 2 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS WHERE
-
-- PARAGRAPH (a)(ii) OF THE DEFINITION OF “REMITTANCE
-
-- AGENT” IN SECTION 24A IS APPLICABLE
+- PART 2 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS WHERE PARAGRAPH (a)(ii) OF THE DEFINITION OF “REMITTANCE AGENT” IN SECTION 24A IS APPLICABLE
 
   - 1. Transaction serial number
 
@@ -58,9 +50,7 @@ PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
 - PART 3 PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS WHERE
 
-- PARAGRAPH (a)(iii) OF THE DEFINITION OF “REMITTANCE
-
-- AGENT” IN SECTION 24A IS APPLICABLE
+- PARAGRAPH (a)(iii) OF THE DEFINITION OF “REMITTANCE AGENT” IN SECTION 24A IS APPLICABLE
 
   - 1. Transaction serial number
 
@@ -80,6 +70,8 @@ PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
   - 9. Currency and amount to each recipient
 
+  - 10. Name, identity card number (or certificate of identity, document of identity or travel document number with place of issue), telephone number and address of sender(s) (Added L.N. 262 of 2006)
+
 - PART 4 PARTICULARS TO BE RECORDED BY MONEY CHANGERS
 
   - 1. Transaction serial number
@@ -92,4 +84,6 @@ PARTICULARS TO BE RECORDED BY REMITTANCE AGENTS AND MONEY CHANGERS
 
   - 5. Name, identity card number (or certificate of identity, document of identity or travel document number with place of issue) of client
 
-  - 6. Telephone number and address of client (Schedule 6 added 8 of 2000 s. 3)
+  - 6. Telephone number and address of client
+
+- (Schedule 6 added 8 of 2000 s. 3)
