@@ -1,4 +1,6 @@
-An Ordinance to prohibit commercial dealings in human organs intended for transplanting, to restrict the transplanting of human organs between persons who are not genetically related, to regulate the importing of human organs intended for transplanting and for supplementary purposes connected with those matters.
+An Ordinance to prohibit commercial dealings in human organs intended for transplanting, to restrict the transplanting of human organs between living persons and the transplanting of imported human organs, and for supplementary purposes connected with those matters.
+
+(Amended 29 of 2004 s. 2)
 
 [15 February 1996]
 
