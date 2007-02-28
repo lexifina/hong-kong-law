@@ -4,8 +4,6 @@
 
 DESIGNATED TRADES
 
-(*Item 51 of Part 1 has not yet come into operation.)
-
 - PART 1 DESIGNATED TRADES FOR WHICH A PERSON MAY BE REGISTERED
 
 - ONLY AS A REGISTERED SKILLED WORKER OR REGISTERED
@@ -22,7 +20,7 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 3. | Asphalter (Waterproofing) | (a) To lay sheathing felt or paint with primer (b) To pour hot asphalt or proprietary waterproofing materials on prepared surfaces (c) To spread and level hot asphalt or proprietary waterproofing materials to fit corners, skirtings, flashings and outlets | Trade test certificate for Asphalter (Waterproofing) issued by CITA | Not applicable
 
-4. | Cable Jointer (Power) | (a) To join low voltage cables either with the circuits dead or with one or both cables energized (b) To join dead cables of all voltages | Certificate of completion of an apprenticeship in the trade of cable jointer (power) given under section 28 of the Apprenticeship Ordinance (Cap. 47) | Not applicable
+4. | Cable Jointer (Power) | (a) To join low voltage cables either with the circuits dead or with one or both cables energized (b) To join dead cables of voltages not exceeding 11 kV (Amended L.N. 3 of 2007) | Certificate of completion of an apprenticeship in the trade of cable jointer (power) given under section 28 of the Apprenticeship Ordinance (Cap. 47) | Not applicable
 
 5. | Carpenter (Fender) | To remove, cut, and erect timber fenders for protection of piers, seawalls, dolphins and landing steps | Trade test certificate for Carpenter (Fender) issued by CITA | Not applicable
 
@@ -34,7 +32,7 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 9. | Demolition Worker (Unauthorized Building Works) | To demolish, dismantle and remove buildings erected, or building works carried out, in contravention of the Buildings Ordinance (Cap. 123) within the meaning of that Ordinance | Trade test certificate for Demolition Worker (Unauthorized Building Works) issued by CITA | Not applicable
 
-10. | Diver | (a) To perform underwater operations related to inspection, construction and repair of structures and demolition (b) To prepare reports on all the foregoing operations | Not applicable | A diving certificate issued by— (a) the National Association of Underwater Instructors of the United States of America; (b) the Health and Safety Executive of the United Kingdom; (c) the Department of Employment, Vocational Education, Training and Industrial Relations of Australia; or (d) the Ministry of Communication of the People’s Republic of China
+10. | Diver | (a) To perform underwater operations related to inspection, construction and repair of structures and demolition (b) To prepare reports on all the foregoing operations | Not applicable | Any one of the following— (a) diving certificate for the class of Advanced SCUBA Diver or above issued by the National Association of Underwater Instructors of the United States of America; (b) diving certificate approved by the Health and Safety Executive of the United Kingdom; or (c) diving certificate issued by the Ministry of Communications of the People’s Republic of China (Amended L.N. 3 of 2007)
 
 11. | Electrical Fitter | (a) To install, test, commission and repair electrical installations and wiring (b) To fit, assemble, install, test, commission and repair electrical systems and equipment | Not applicable | Certificate of registration as an electrical worker for Grade A, B, C or H electrical work issued under section 30 of the Electricity Ordinance (Cap. 406)
 
@@ -56,7 +54,7 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 20. | Marine construction Plant Operator (Derrick) | To operate derricks for construction work at sea | Trade test certificate for Marine Construction Plant Operator (Derrick) issued by CITA | Not applicable
 
-21. | Overhead Linesman | To construct, maintain and repair overhead line systems of all voltages on tubular steel, concrete, lattice girder or wood supports | Certificate of completion of an apprenticeship in the trade of overhead linesman given under section 28 of the Apprenticeship Ordinance (Cap. 47) | Not applicable
+21. | Overhead Linesman | To construct, maintain and repair overhead line systems of voltages not exceeding 11 kV on tubular steel, concrete, lattice girder or wood supports (Amended L.N. 3 of 2007) | Certificate of completion of an apprenticeship in the trade of overhead linesman given under section 28 of the Apprenticeship Ordinance (Cap. 47) | Not applicable
 
 22. | Paving Block Layer | (a) To lay paving blocks on floor (b) To compact the base layer with vibrating machines (c) To cut paving blocks to fit floor layout | Trade test certificate for Paving Block Layer issued by CITA | Not applicable
 
@@ -116,15 +114,17 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 50. | Shotfirer | To calculate, prepare, load and detonate explosive charges in mines, quarries, civil engineering and building sites | Not applicable | Mine blasting certificate issued under the Mines (Safety) Regulations (Cap. 285 sub. leg. B)
 
-*51. | Structural Steel Welder | To cut or join structural steel sections, steel water mains and steel gas mains by electric arc, oxy-acetylene flame or other welding processes | Not applicable | Not applicable
+51. | Structural Steel Welder | To cut or join structural steel sections, steel water mains and steel gas mains by electric arc, oxy-acetylene flame or other welding processes | Not applicable | Certificate (whether subsisting or expired) of passing of a welder test which is in conformity with BS EN 287-1:1992 standard including its amendments issued by a welding inspection body accredited by the Hong Kong Accreditation Service under Hong Kong Laboratory Accreditation Scheme (Amended L.N. 3 of 2007)
 
 52. | Trackworker | To lay and maintain trackworks for railways or other vehicles | Trade test certificate for Trackworker issued by CITA | Not applicable
 
-53. | Truck Driver (Heavy goods vehicles) | To drive heavy goods vehicles within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374) to transport construction materials, building debris or excavated materials within, into or out of construction sites | Not applicable | Full driving licence within the meaning of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) to drive a heavy goods vehicle
+52A. | Truck Driver (Articulated vehicles) | To drive, within, into or out of construction sites, for the purpose of carrying out construction work, articulated vehicles which— (Amended L.N. 23 of 2007) (a) are within the meaning of regulation 2 of the Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 sub. leg. A); and (b) belong to either one of the following types of body— (i) pressure tanker; (ii) tipper | Not applicable | Full driving licence within the meaning of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) to drive an articulated vehicle (Added L.N. 3 of 2007)
 
-54. | Truck Driver (Medium goods vehicles) | To drive medium goods vehicles within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374) to transport construction materials, building debris or excavated materials within, into or out of construction sites | Not applicable | Full driving licence within the meaning of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) to drive a medium goods vehicle
+53. | Truck Driver (Heavy goods vehicles) | To drive, within, into or out of construction sites, for the purpose of carrying out construction work, heavy goods vehicles which— (Amended L.N. 23 of 2007) (a) are within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374); and (b) belong to one of the following types of body— (i) skip carrier; (ii) tanker; (iii) pressure tanker; (iv) lorry crane; (v) gully emptier; (vi) demountable; (vii) tipper; (viii) concrete mixer (Amended L.N. 3 of 2007) | Not applicable | Full driving licence within the meaning of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) to drive a heavy goods vehicle
 
-55. | Truck Driver (Special purpose vehicles) | To drive special purpose vehicles within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374) to transport construction materials, building debris or excavated materials within, into or out of construction sites | Not applicable | Full driving licence within the meaning of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) to drive a special purpose vehicle
+54. | Truck Driver (Medium goods vehicles) | To drive, within, into or out of construction sites, for the purpose of carrying out construction work, medium goods vehicles which— (Amended L.N. 23 of 2007) (a) are within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374); and (b) belong to one of the following types of body— (i) skip carrier; (ii) tanker; (iii) pressure tanker; (iv) lorry crane; (v) gully emptier; (vi) demountable; (vii) tipper; (viii) concrete mixer (Amended L.N. 3 of 2007) | Not applicable | Full driving licence within the meaning of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) to drive a medium goods vehicle
+
+55. | Truck Driver (Special purpose vehicles) | To drive, within, into or out of construction sites, for the purpose of carrying out construction work, special purpose vehicles which— (Amended L.N. 23 of 2007) (a) are within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374); and (b) belong to one of the following types of body— (i) mobile crane; (ii) aerial platform; (iii) works tug; (iv) mobile workshop; (v) mobile concrete pump; (vi) traffic warning sign (Amended L.N. 3 of 2007) | Not applicable | Full driving licence within the meaning of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) to drive a special purpose vehicle
 
 56. | Tunnel Worker | To carry out general construction work inside tunnels, including installing of temporary supports and working platforms, ventilation ducts, packers and protective fencings | Trade test certificate for Tunnel Worker issued by CITA | Not applicable
 
