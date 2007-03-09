@@ -16,7 +16,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - “Graduate School” (研究院) means the Graduate School of the University; (L.N. 101 of 1995)
 
-  - “Ordinance” (條例) means The Chinese University of Hong Kong Ordinance (Cap. 1109).
+  - “Ordinance” (條例) means The Chinese University of Hong Kong Ordinance (Cap. 1109); (L.N. 38 of 2007)
 
   - “unit” (單位) means an institution established or formed by the Council under section 12 of the Ordinance. (L.N. 25 of 2002)
 
@@ -406,7 +406,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (f) the Chairman of each Department and the Directors of Studies if not a member under subparagraph (e); (L.N. 452 of 1994)
 
-    - (fa) the Director of the School of Continuing Studies of the University; (L.N. 257 of 2000)
+    - (fa) the Director of the School of Continuing and Professional Studies of the University; (L.N. 257 of 2000; L.N. 38 of 2007)
 
     - (g) 2 Fellows of each College elected by the College’s Assembly of Fellows; (L.N. 25 of 1987)
 
@@ -551,6 +551,36 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
     - (h) 2 Senior Lecturers elected by the Senior Lecturers within the Faculty;
 
     - (i) 4 Lecturers or Assistant Lecturers elected by the Lecturers and Assistant Lecturers within the Faculty.
+
+  - 6A.
+
+    - (1) At the discretion of the Board of a Faculty, the Board may nominate a student of the Faculty as the Board deems fit as student member for such period as the Board may in its absolute discretion determine.
+
+    - (2) The Senate may determine—
+
+      - (a) whether student members of the Boards of Faculties are allowed to participate in that part of meetings considering reserved areas of business; and
+
+      - (b) (if they are so allowed) the manner of their participation.
+
+    - (3) Those student members who are allowed to participate in that part of meetings considering reserved areas of business may, subject to such conditions as the Senate may determine, access and read the papers relating to those areas.
+
+    - (4) For the purposes of this Statute, reserved areas of business are the following—
+
+      - (a) matters affecting the appointment, promotion and other affairs relating to teachers and members of the University staff as individuals;
+
+      - (b) matters affecting the admission and academic assessment of students as individuals;
+
+      - (c) expenditure estimates and other matters concerning the finances of the University.
+
+    - The Chairman of the Board of the Faculty may decide in any case of doubt whether or not a matter falls within a reserved area of business and his decision shall be final.
+
+    - (5) The Senate may—
+
+      - (a) delegate its power under subparagraphs (2) and (3) to the Board of a Faculty; and
+
+      - (b) impose conditions subject to which the delegated power may be exercised.
+
+    - (6) The Board of a Faculty may make Standing Orders for the proper conduct of its business. (L.N. 38 of 2007)
 
   - 7. The Board of Faculty shall co-ordinate the activities of the Departments within the Faculty and it shall be its function to consider and deal with the recommendations of the Departments— (L.N. 452 of 1994)
 
@@ -947,6 +977,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
       - Master of Family Medicine (M. F. M.) (L.N. 114 of 2003)
 
       - Master of Fine Arts (M. F. A.) (L.N. 453 of 1994)
+
+      - Master of Health Science (M.H.Sc.) (L.N. 38 of 2007)
 
       - Master of Laws (LL.M.) (L.N. 6 of 2006)
 
