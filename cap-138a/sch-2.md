@@ -12,7 +12,7 @@ Adhesives; anti-fouling compositions; builders’ materials; ceramics; distemper
 
 GROUP II SPECIAL EXEMPTIONS
 
-A
+- DIVISION A (L.N. 41 of 2007)
 
 Poison | Substance or article in which exempted
 
@@ -104,9 +104,9 @@ Sodium ethyl mercurithio-salicylate | Therapeutic substances containing less tha
 
 Sodium fluoride | Substances containing less than 3% of sodium fluoride as a preservative; dentifrices containing not more than 0.33% of sodium fluoride; mouth wash tables containing not more than 0.2% of sodium fluoride and liquid mouth washes containing not more than 0.05% thereof; tablets containing not more than 0.016%, weight in weight, of sodium fluoride and intended, when chewed to prevent tooth decay (L.N. 202 of 1999)
 
-(L.N. 138 of 2000)
+(L.N. 138 of 2000; L.N. 41 of 2007)
 
-B
+- DIVISION B (L.N. 41 of 2007)
 
 Acetanilide; alkyl acetanilides | Substances not being preparations for the treatment of human ailments
 

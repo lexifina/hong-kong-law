@@ -4,7 +4,9 @@
 
 POISONS REQUIRED BY REGULATION 21 TO BE SPECIALLY LABELLED FOR TRANSPORT
 
-A
+- DIVISION A
+
+(L.N. 41 of 2007)
 
 Arsenical poisons Diethyl para-nitrophenyl phosphate
 
@@ -14,7 +16,9 @@ Nicotine Strychnine; its salts Thallium, salts of
 
 (L.N. 195 of 1977)
 
-B
+- DIVISION B
+
+(L.N. 41 of 2007)
 
 Barium, salts of, except barium sulphate
 
