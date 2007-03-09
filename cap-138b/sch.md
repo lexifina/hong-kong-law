@@ -4,7 +4,7 @@
 
 THE POISONS LIST
 
-- PART I A
+- PART I DIVISION A
 
 - Abacavir; its salts
 
@@ -280,7 +280,7 @@ THE POISONS LIST
 
   - (a) the following— Bacillus Calmette-Guerin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
 
-  - (b) directed against the following diseases or organisms— Botulism Cholera Diphtheria Japanese encephalitis Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Human papillomavirus Influenza Measles Mumps Pertussis Plague Poliomyelitis Rabies Rubella Tetanus Typhoid Varicella Yellow fever
+  - (b) directed against the following diseases or organisms— Botulism Cholera Diphtheria Japanese encephalitis Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Measles Mumps Pertussis Plague Poliomyelitis Rabies Rubella Tetanus Typhoid Varicella Yellow fever
 
 - Antithymocyte Immunoglobulin
 
@@ -315,6 +315,8 @@ THE POISONS LIST
 - Atracurium Besylate
 
 - Auranofin
+
+- Azacitidine; its salts
 
 - Azacyclonol; its salts
 
@@ -709,6 +711,8 @@ THE POISONS LIST
 - Dapsone
 
 - Darbepoetin alfa
+
+- Darifenacin; its salts
 
 - Deanol acetamidobenzoate
 
@@ -1197,6 +1201,8 @@ THE POISONS LIST
 - Isradipine
 
 - Itraconazole; its salts
+
+- Ivabradine; its salts
 
 - Ketamine; its salts
 
@@ -1924,6 +1930,8 @@ THE POISONS LIST
 
 - Rimiterol; its salts
 
+- Rimonabant; its salts
+
 - Risedronic acid; its salts
 
 - Risperidone
@@ -1951,6 +1959,8 @@ THE POISONS LIST
 - Rosoxacin; its salts
 
 - Rosuvastatin; its salts
+
+- Rotigotine; its salts
 
 - Salbutamol; its salts
 
@@ -1986,6 +1996,8 @@ THE POISONS LIST
 
 - Somatostatin
 
+- Sorafenib; its salts
+
 - Sotalol; its salts
 
 - Sparfloxacin; its salts; its esters
@@ -2017,6 +2029,8 @@ THE POISONS LIST
 - Sultopride
 
 - Sumatriptan; its salts
+
+- Sunitinib; its salts; their salts
 
 - Suprarenal gland, the active principles of; their salts; their derivatives; their salts
 
@@ -2226,6 +2240,8 @@ THE POISONS LIST
 
 - Vardenafil; its salts
 
+- Varenicline; its salts
+
 - Vasopressins
 
 - Veralipride; its salts
@@ -2288,15 +2304,15 @@ THE POISONS LIST
 
 - Zoxazolamine; its salts
 
-- B
+  - DIVISION B
 
-- Alkali fluorides other than those specified in Part II of this list
+  - Alkali fluorides other than those specified in Part II of this list
 
-- Barium, salts of, except barium sulphate
+  - Barium, salts of, except barium sulphate
 
-- alpha-Chlorohydrin 3-chloro-1, 2-Propanediol
+  - alpha-Chlorohydrin 3-chloro-1, 2-Propanediol
 
-- Dinitronaphthols; dinitrophenols; dinitrothymols
+  - Dinitronaphthols; dinitrophenols; dinitrothymols
 
   - Hexachlorophane, the following—
 
@@ -2320,9 +2336,9 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005; L.N. 213 of 2005; L.N. 26 of 2006; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 224 of 2006; L.N. 278 of 2006)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005; L.N. 213 of 2005; L.N. 26 of 2006; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 224 of 2006; L.N. 278 of 2006; L.N. 42 of 2007)
 
-- PART II A
+- PART II DIVISION A
 
 - Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance
 
@@ -2332,7 +2348,7 @@ THE POISONS LIST
 
 - Nicotine: chewing gum and lozenges, intended to be used in nicotine replacement therapy and containing not more than 2 mg of Nicotine per piece
 
-- Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison included in part A of Part I of this List, where the proportion of the poison does not exceed the equivalent of—
+- Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison included in Division A of Part I of this List, where the proportion of the poison does not exceed the equivalent of—
 
   - (a) 0.01% by weight of arsenic trioxide, cantharidin, cocaine, coniine, ecgonine, hydrocyanic acid, strychnine, alkaloids of aconite, alkaloids of coca or alkaloids of gelsemium;
 
@@ -2406,13 +2422,7 @@ THE POISONS LIST
 
 - Tretoquinol; its salts Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols.
 
-- B
-
-- Ammonia
-
-- gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane)
-
-  - Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
+  - DIVISION B Ammonia gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane) Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
 
   - Formic acid
 
@@ -2424,6 +2434,6 @@ THE POISONS LIST
 
   - Phosphoric acid
 
-  - Potassium hydroxide Products retailed in the form as supplied by the manufacturer, containing a poison listed in Part IB of this List, where the proportion of such poison does not exceed the equivalent of 0.1% Sodium hydroxide
+  - Potassium hydroxide Products retailed in the form as supplied by the manufacturer, containing a poison listed in Division B of Part I of this List, where the proportion of such poison does not exceed the equivalent of 0.1% Sodium hydroxide
 
-  - Sodium nitrite (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999; L.N. 139 of 2000; L.N. 57 of 2002; L.N. 123 of 2006; L.N. 179 of 2006)
+  - Sodium nitrite (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999; L.N. 139 of 2000; L.N. 57 of 2002; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 42 of 2007)
