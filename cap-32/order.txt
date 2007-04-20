@@ -265,6 +265,7 @@ s-141CF.md
 s-141CG.md
 s-141CH.md
 s-141D.md
+s-141E.md
 s-142.md
 s-143.md
 s-144.md
@@ -587,6 +588,7 @@ s-333C.md
 s-334.md
 s-335.md
 s-336.md
+s-336A.md
 s-337.md
 s-337A.md
 s-337B.md

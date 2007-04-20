@@ -216,6 +216,8 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 141D(4) | Director failing to take reasonable steps to ensure directors’ report is attached to balance sheet | Summary | level 5 and 6 months | —
 
+141E(4) | Company failing to deliver to Registrar warning statement (Added 18 of 2006 s. 66) | Summary | level 5 | $700
+
 152A(4) | Company, etc., failing to produce books, etc., to Financial Secretary when required under section 152A | Summary | level 5 and 6 months | —
 
 152B(4) | Person interfering with execution of a search warrant issued under section 152B | Summary | level 5 and 6 months | —
@@ -406,4 +408,4 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 360J | Person obstructing Official Receiver | Summary | $150,000 and 6 months | —
 
-(Twelfth Schedule added 7 of 1990 s. 4. Amended 77 of 1991 s. 8; 30 of 1994 s. 12; 84 of 1995 s. 8; L.N. 306 of 1996; 3 of 1997 s. 62; 28 of 2003 s. 119)
+(Twelfth Schedule added 7 of 1990 s. 4. Amended 77 of 1991 s. 8; 30 of 1994 s. 12; 84 of 1995 s. 8; L.N. 306 of 1996; 3 of 1997 s. 62; 28 of 2003 s. 119; 18 of 2006 s. 66)
