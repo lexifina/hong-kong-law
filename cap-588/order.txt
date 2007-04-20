@@ -26,7 +26,10 @@ s-054.md
 s-056.md
 s-060.md
 s-061.md
+s-062.md
+s-063.md
 s-065.md
+s-066.md
 s-067.md
 s-068.md
 s-069.md
