@@ -596,7 +596,7 @@ as owner(s) of .
 
 .
 
-require the Lands Tribunal to hear an appeal against a re-development order in respect of such property made by the Director of Buildings pursuant to section 4(1) of the Ordinance and served on *me/us on the . day of . 19 .
+require the Lands Tribunal to hear an appeal against a re-development order in respect of such property made by the Director of Buildings pursuant to section 4(1) of the Ordinance and served on *me/us on the . day of .
 
 The appeal is against .
 
@@ -614,7 +614,7 @@ The grounds of appeal are .
 
 .
 
-Dated this . day of . 19 .
+Dated this . day of .
 
 .
 
@@ -622,9 +622,9 @@ Dated this . day of . 19 .
 
 To: 1. The Registrar, Lands Tribunal.
 
-- 2. The Director of Buildings. Address for service of the Appellant(s):
+- 2. The Director of Buildings. Address for service of the Appellant(s): * Delete whichever does not apply.
 
-(L.N. 417 of 1995)
+(L.N. 417 of 1995; L.N. 281 of 2006)
 
 -
 
@@ -860,9 +860,9 @@ Address of premises: . User of premises: .* (Residential/Business) Duration of t
 
 - Nature and particulars of application: * Application for new tenancy. / *Application for determination of prevailing market rent. * Application for recovery of possession of the suit premises and rent as the respondent has failed to pay rent from the day of and application for order for mesne profits, costs, *interest, *management fees, *rates/Government rent, *water/electricity/gas charges and *other utility charges. * Application for disposal of properties left in the premises by the respondent. Dated this . day of . .+ (Signature of *the authorized representative of Applicant) Full name of authorized representative: . To: 1. The Registrar, Lands Tribunal. 2. The Respondent. Address for service of the applicant: .
 
-- . + If the applicant is a company/incorporation, please affix the company seal and write down the full name of the signatory. * Delete whichever is inapplicable. Note: If the respondent intends to oppose this application, he must personally attend at the Lands Tribunal Registry within 14 days of the date of service of this notice, and file a notice of opposition (Form 7).
+- . + If the applicant is a company/incorporation, please affix the company seal and write down the full name of the signatory. * Delete whichever is inapplicable. Note: If the respondent intends to oppose this application, he must personally attend at the Lands Tribunal Registry within 7 days of the date of service of this notice, and file a notice of opposition (Form 7).
 
-(32 of 2002 s. 40)
+(32 of 2002 s. 40; L.N. 281 of 2006)
 
 _
 
@@ -1224,49 +1224,13 @@ Pursuant to section 4
 
 -
 
-FORM 28 | [rule 77(b)]
+FORM 28
 
-NOTICE OF APPLICATION TO DISSOLVE MANAGEMENT COMMITTEE AND
-
-APPOINT AN ADMINISTRATOR OR NOTICE OF APPLICATION TO
-
-REMOVE AND REPLACE AN ADMINISTRATOR UNDER
-
-THE BUILDING MANAGEMENT ORDINANCE
-
-Building Management
-
-Application No. .
-
-Pursuant to section 31
-
-- *Name, address and status of applicant(s): +Name and address of respondent(s): Name and address of Owners’ Corporation:
-
-- Address of building:
-
-- The applicant(s) apply(ies) for an order that a meeting of owners to appoint a Management Committee be convened by the applicant(s) or by such owner as the Tribunal may direct and for an order for the costs of this application.
-
-- Address for service of the applicant(s):
-
-- Dated this . day of . 19 .
-
-- .
-
-- (to be signed by or on behalf of the Applicant(s))
-
-- To: 1. The Registrar, Lands Tribunal.
-
-  - 2. The Respondent(s).
-
-- Note: If you intend to oppose this application, you must personally attend at the Lands Tribunal Registry within 21 days of the day of service of this notice and file a notice of opposition by means of Form 7. * State whether applicant(s) is/are the owners of not less than 20% of the shares in the building or whether the applicant(s) is/are the Secretary for Justice.
-
-- + Delete if the applicant is the Secretary for Justice.
-
-(L.N. 417 of 1995; L.N. 362 of 1997)
+(Repealed L.N. 281 of 2006)
 
 -
 
-FORM 29 | [rule 77(c)]
+FORM 29 | [rule 77(b) & (c)]
 
 NOTICE OF APPLICATION TO LANDS TRIBUNAL UNDER
 
@@ -1276,7 +1240,7 @@ Building Management
 
 Application No. .
 
-Pursuant to Tenth Schedule, paragraph .
+Pursuant to .
 
 - Name, address and status of applicant(s): Name, address and status of respondent(s):
 
@@ -1284,9 +1248,7 @@ Pursuant to Tenth Schedule, paragraph .
 
 - 1. | The applicant(s) apply(ies) for an order relating to .
 
-- . (specify the particular issue under the appropriate paragraph of the Tenth Schedule
-
-- . pursuant to which application brought)
+- . . (specify the particular issue under the provision pursuant to which application is brought)
 
 - +2. | The question of law, interpretation and enforcement or other issue to be determined is:
 
@@ -1294,7 +1256,7 @@ Pursuant to Tenth Schedule, paragraph .
 
 - Address for service of the applicant(s):
 
-- Dated this . day of . 19 .
+- Dated this . day of .
 
 - .
 
@@ -1306,7 +1268,7 @@ Pursuant to Tenth Schedule, paragraph .
 
 - Note: If you intend to oppose this application, you must personally attend at the Lands Tribunal Registry within 21 days of the day of service of this notice and file a notice of opposition by means of Form 7. + Delete whichever inapplicable and otherwise amend as necessary.
 
-(L.N. 417 of 1995)
+(L.N. 417 of 1995; L.N. 281 of 2006)
 
 -
 
@@ -1350,7 +1312,7 @@ I, ., of .
 
 -
 
-FORM 31 | [rule 14]
+FORM 31 | [rule 14(1)]
 
 APPLICATION OF LIST FOR HEARING
 
@@ -1358,7 +1320,7 @@ Lands Tribunal
 
 Application No.: .
 
-Pursuant to rule 14
+Pursuant to rule 14(1)
 
 To: The Registrar, Lands Tribunal.
 
@@ -1368,7 +1330,7 @@ To: The Registrar, Lands Tribunal.
 
   - 3. The number of witnesses to be called is .
 
-  - 4. Notice of Opposition was filed on the . day of . 19 . OR No Notice of Opposition has been filed and the time limited for filing such notice expired on the . day of . 19 . Dated this . day of . 19 .
+  - 4. Notice of Opposition was filed on the . day of . OR No Notice of Opposition has been filed and the time limited for filing such notice expired on the . day of . Dated this . day of .
 
   - .
 
@@ -1376,7 +1338,7 @@ To: The Registrar, Lands Tribunal.
 
   - AND To: The Respondent/Applicant.
 
-(L.N. 417 of 1995)
+(L.N. 417 of 1995; L.N. 281 of 2006)
 
 -
 
