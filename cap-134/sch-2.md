@@ -216,4 +216,10 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 106. Grace Nursing Home (Tak Tin) (Added L.N. 190 of 2005)
 
-- 107. Haven of Hope Sister Annie Skau Nursing Home (Added L.N. 190 of 2005) (Second Schedule replaced L.N. 187 of 1992)
+- 107. Haven of Hope Sister Annie Skau Nursing Home (Added L.N. 190 of 2005)
+
+- 108. Scenic Resort (Nursing Home) (Added L.N. 37 of 2007)
+
+- 109. Po Leung Kuk Comfort Court for the Senior (Added L.N. 37 of 2007)
+
+- 110. Haven of Hope Holistic Care Centre (Added L.N. 37 of 2007) (Second Schedule replaced L.N. 187 of 1992)
