@@ -50,6 +50,7 @@ s-028.md
 s-029.md
 s-030.md
 s-031.md
+s-031A.md
 s-032.md
 s-033.md
 s-034.md
@@ -80,6 +81,7 @@ s-057.md
 s-058.md
 s-058A.md
 s-059.md
+s-059A.md
 s-060.md
 s-060A.md
 s-061.md
