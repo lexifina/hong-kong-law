@@ -320,8 +320,6 @@ SECOND COLUMN | THIRD COLUMN
 
 For the year of assessment 2006/07
 
-and for each year after that year
-
 SECOND COLUMN | THIRD COLUMN
 
 (a) | Upon the first $30,000 | 2%
@@ -332,4 +330,20 @@ SECOND COLUMN | THIRD COLUMN
 
 (d) | Upon the remainder | 19%
 
-(Added 13 of 2006 s. 3)
+(Added 13 of 2006 s. 3. Amended 10 of 2007 s. 6)
+
+For the year of assessment 2007/08
+
+and for each year after that year
+
+SECOND COLUMN | THIRD COLUMN
+
+(a) | Upon the first $35,000 | 2%
+
+(b) | Upon the next $35,000 | 7%
+
+(c) | Upon the next $35,000 | 12%
+
+(d) | Upon the remainder | 17%
+
+(Added 10 of 2007 s. 6)

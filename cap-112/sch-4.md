@@ -386,9 +386,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
 
 (Added 24 of 2003 s. 11. Amended 8 of 2005 s. 5)
 
-For the year of assessment 2005/06 and
-
-for each year after that year
+For the years of assessment 2005/06 and 2006/07
 
 FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
 
@@ -408,4 +406,28 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
 
 8. | Section 32(1) (single parent allowance) | $100,000
 
-(Added 8 of 2005 s. 5)
+(Added 8 of 2005 s. 5. Amended 10 of 2007 s. 8)
+
+For the year of assessment 2007/08 and
+
+for each year after that year
+
+FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+
+1. | Section 28 (basic allowance) | $100,000
+
+2. | Section 29 (married person’s allowance) | $200,000
+
+3. | Section 30 (dependent parent allowance)— (a) subsection (3)(a) (b) subsection (3)(b) (c) subsection (3A)(a) (d) subsection (3A)(b) (e) subsection (4)(a) | $ 30,000 $ 30,000 $ 15,000 $ 15,000 $ 12,000
+
+4. | Section 30A (dependent grandparent allowance)— (a) subsection (3)(a) (b) subsection (3)(b) (c) subsection (3A)(a) (d) subsection (3A)(b) (e) subsection (4)(a) | $ 30,000 $ 30,000 $ 15,000 $ 15,000 $ 12,000
+
+5. | Section 30B(1) (dependent brother or dependent sister allowance) | $ 30,000
+
+6. | Section 31 (child allowance)— (a) subsection (1) (b) subsection (1A) (c) subsection (5) (in relation to subsection (1)) (d) subsection (5) (in relation to subsection (1A)) | $50,000 for each child $50,000 for each child $450,000 $450,000
+
+7. | Section 31A(1) (disabled dependant allowance) | $ 60,000
+
+8. | Section 32(1) (single parent allowance) | $100,000
+
+(Added 10 of 2007 s. 8)
