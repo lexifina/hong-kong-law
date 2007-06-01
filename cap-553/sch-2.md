@@ -98,4 +98,6 @@ ORDINANCE DO NOT APPLY UNDER SECTION 13(1) OF THIS ORDINANCE
 
 - (zq) the Capital Adequacy Review Tribunal established under the Banking Ordinance (Cap. 155); (Added 19 of 2005 s. 7. Amended 23 of 2005 s. 28)
 
-- (zr) the Civil Celebrant of Marriages Appointment Appeal Board established under the Marriage Ordinance (Cap. 181). (Added 23 of 2005 s. 28)
+- (zr) the Civil Celebrant of Marriages Appointment Appeal Board established under the Marriage Ordinance (Cap. 181); (Added 23 of 2005 s. 28. Amended 9 of 2007 s. 63)
+
+- (zs) the Unsolicited Electronic Messages (Enforcement Notices) Appeal Board established under the Unsolicited Electronic Messages Ordinance (Cap. 593). (Added 9 of 2007 s. 63)

@@ -4,7 +4,7 @@
 
 SERVICES TO BE PROVIDED UNDER THE TRADING FUND
 
-- 1. Supporting the Telecommunications Authority in administering and enforcing the provisions of the Telecommunications Ordinance (Cap. 106) and the Telephone Ordinance (Cap. 269) as those provisions may from time to time be amended or repealed and re-enacted with or without modification, including the statutory functions relating to— (36 of 2000 s. 28)
+- 1. Supporting the Telecommunications Authority in administering and enforcing the provisions of the Telecommunications Ordinance (Cap. 106) and the Unsolicited Electronic Messages Ordinance (Cap. 593) as those provisions may from time to time be amended or repealed and re-enacted with or without modification, including the statutory functions relating to— (36 of 2000 s. 28; 9 of 2007 s. 63)
 
   - (a) setting of technical standards for telecommunications;
 
