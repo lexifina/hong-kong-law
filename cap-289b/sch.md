@@ -316,4 +316,6 @@ Item | Periods | Rate of interest
 
 156. | On or after 5 February 2007 and before 5 March 2007 (L.N. 19 of 2007; L.N. 35 of 2007) | 2.6167% per annum
 
-157. | On or after 5 March 2007 (L.N. 35 of 2007) | 2.600% per annum
+157. | On or after 5 March 2007 and before 4 June 2007 (L.N. 35 of 2007; L.N. 103 of 2007) | 2.600% per annum
+
+158. | On or after 4 June 2007 (L.N. 103 of 2007) | 2.6333% per annum
