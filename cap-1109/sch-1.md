@@ -524,17 +524,27 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 2. Each teacher assigned by the Senate to a Faculty or Faculties shall be a member of such Faculty or Faculties during the tenure of his appointment. (L.N. 25 of 2002)
 
-  - 3. The members of each Faculty shall elect, in such form and manner as may be determined by the Senate, a Dean of their Faculty from among the members of their Board of Faculty who hold the rank of Senior Lecturer or above; and a Dean so elected shall hold office for a term of 3 years.
+  - 3.
 
-  - 4. Subject to paragraph 3—
+    - (1) Unless otherwise provided in subparagraph (2), the Dean of each Faculty shall be appointed by the Council—
 
-    - (a) the Dean of any Faculty shall be eligible for re-election for a second and a third consecutive term of office but if he does not seek re-election or is not re-elected he shall not be eligible for another term of office until 2 years after he ceases to be Dean;
+      - (a) on the recommendation of the Vice-Chancellor after he has received the advice of the search committee concerned composed of such members as may be elected or nominated in accordance with regulations approved by the Council from time to time;
 
-    - (b) any person who is Dean of any Faculty for 3 consecutive terms of office shall not be eligible for another term of office until 2 years after he ceases to be Dean. (L.N. 67 of 1987, L.N. 267 of 1993)
+      - (b) for a period of 5 years or such shorter period as may be determined by the Council;
 
-  - Subparagraphs (a) and (b) shall also apply to any person who is elected to a further term of office as Dean of any Faculty 2 or more years after he has ceased to be Dean. (L.N. 267 of 1993)
+      - (c) on such terms and conditions as may be determined by the Council; and
 
-  - 5. Each Faculty shall meet at least once a year, and shall have the power to discuss any matters relating to the Faculty and to express its opinion thereon to the Senate.
+      - (d) subject to sub-subparagraphs (a), (b) and (c), in accordance with regulations approved by the Council from time to time.
+
+    - (2) The first Dean of a newly-established Faculty shall be appointed by the Council on the recommendation of the Vice-Chancellor for a period of 5 years or such shorter period and on such terms and conditions as may be determined by the Council.
+
+    - (3) On the recommendation of the Vice-Chancellor, the Dean of each Faculty shall be eligible for re-appointment by the Council, and each period of re-appointment shall be for a period of 5 years or such shorter period as may be determined by the Council, provided that a Dean’s total period of appointment (not including any period he has previously served as a Dean elected under paragraphs 3 and 4 as repealed by the Statutes of The Chinese University of Hong Kong (Amendment) (No. 2) Statute 2007 (L.N. 109 of 2007) (“the Amendment Statute”)) shall not exceed 10 years. (L.N. 109 of 2007)
+
+  - 4. The Dean of any Faculty elected under paragraph 3 or 4 as repealed by the Amendment Statute and holding office as such Dean immediately before the commencement of the Amendment Statute shall continue to hold that office until the expiry of his current term of office or until such time when he vacates the office before such expiry. (L.N. 109 of 2007)
+
+  - 5.
+
+  - Each Faculty shall meet at least once a year, and shall have the power to discuss any matters relating to the Faculty and to express its opinion thereon to the Senate.
 
   - 6. A Board of Faculty shall be established for each Faculty and shall consist of—
 
@@ -552,9 +562,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (i) 4 Lecturers or Assistant Lecturers elected by the Lecturers and Assistant Lecturers within the Faculty.
 
-  - 6A.
-
-    - (1) At the discretion of the Board of a Faculty, the Board may nominate a student of the Faculty as the Board deems fit as student member for such period as the Board may in its absolute discretion determine.
+  - 6A. (1) At the discretion of the Board of a Faculty, the Board may nominate a student of the Faculty as the Board deems fit as student member for such period as the Board may in its absolute discretion determine.
 
     - (2) The Senate may determine—
 
