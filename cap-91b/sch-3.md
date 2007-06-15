@@ -26,9 +26,9 @@ CONTRIBUTIONS
 
   - $120,000 | $144,000 | 20%
 
-  - $144,000 | $158,300 | 25%;
+  - $144,000 | the amount of financial resources specified in section 5(1) of the Ordinance | 25%;
 
-- and (L.N. 148 of 2000; L.N. 141 of 2006)
+- and (L.N. 148 of 2000; L.N. 141 of 2006; L.N. 114 of 2007)
 
   - (c) if his certificate is for proceedings in which a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383) or an inconsistency with the International Convenant on Civil and Political Rights as applied to Hong Kong is an issue and—
 
@@ -50,9 +50,9 @@ CONTRIBUTIONS
 
     - $120,000 | $144,000 | 20%
 
-    - $144,000 | $158,300 | 25%
+    - $144,000 | the amount of financial resources specified in section 5(1) of the Ordinance | 25%
 
-    - $158,300 | $269,700 | 30%
+    - the amount of financial resources specified in section 5(1) of the Ordinance | $269,700 | 30%
 
     - $269,700 | $369,700 | 35%
 
@@ -68,7 +68,7 @@ CONTRIBUTIONS
 
     - $869,700 | $1,200,000 | 65%;
 
-    - or (L.N. 141 of 2006)
+    - or (L.N. 141 of 2006; L.N. 114 of 2007)
 
     - (ii) if his financial resources exceed $1,200,000, be 67% of his financial resources. (L.N. 148 of 2000)
 
