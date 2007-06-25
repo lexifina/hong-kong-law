@@ -58,7 +58,9 @@ Item | $
 
 12. | Annual fee for registration of a person under Part IIIA of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999; L.N. 128 of 2001) . | 3003
 
-13. | Annual fee for any period beginning on or after 1 July 1993 for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993) . | 2825
+13. | Annual fee for any period beginning on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993; L.N. 25 of 2007) . | 718
+
+13A. | Where an import notification, an export notification or a transhipment notification is delivered on paper under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) by a person— (a) who is registered as a textiles trader on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) ; or (b) who renews his registration as a textiles trader on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) (L.N. 25 of 2007) . | 3.80
 
 14. | Fee payable when a production notification is lodged—
 
@@ -79,3 +81,7 @@ Item | $
 (c) issue of export licence (L.N. 180 of 2002; L.N. 50 of 2006) . | 170
 
 (L.N. 258 of 1982; L.N. 189 of 1993; L.N. 259 of 1994; L.N. 203 of 1995; L.N. 202 of 1996; L.N. 245 of 1997)
+
+Editorial Note:
+
+*Commencement date : 25 June 2007.
