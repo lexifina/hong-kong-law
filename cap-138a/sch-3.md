@@ -50,6 +50,8 @@ Adapalene; its salts; its esters
 
 Adefovir; its salts; its esters; their salts
 
+Agalsidase beta
+
 Alclofenac; its complexes
 
 Alcuronium; its salts
@@ -565,6 +567,8 @@ Dapsone
 Darbepoetin alfa
 
 Darifenacin; its salts
+
+Dasatinib; its salts
 
 Deanol acetamidobenzoate
 
@@ -1928,6 +1932,6 @@ Zopiclone
 
 Zoxazolamine; its salts
 
-(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007)
+(L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007)
 
 - DIVISION B Dinitronaphthols; dinitrophenols; dinitrothymols Hexachlorophane; preparations containing more than 0.1% for human or animal use in aerosol containers; preparations in the form of a cake, tablet or bar of soap for human use containing more than 2%; preparations in the form of soaps or shampoos for animal use containing more than 2%; medicinal preparations for human or animal use (except those for oral administration to sheep or cattle for liver fluke disease) containing more than 0.75%. (L.N. 262 of 1995; L.N. 41 of 2007)
