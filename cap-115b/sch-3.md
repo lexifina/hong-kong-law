@@ -49,3 +49,5 @@
 - 24. The area set aside as a detention room in the part of the River Trade Terminal, Tuen Mun, occupied by the Immigration Department. (L.N. 324 of 1998)
 
 - 25. The area inside the Tuen Mun Ferry Terminal that is set aside as a detention room for use by the Immigration Department. (L.N. 60 of 2004)
+
+- 27. The area within the Clearance Area of the Shenzhen Bay Port Hong Kong Port Area that is set aside as detention quarters for use by the Immigration Department. (L.N. 72 of 2007)
