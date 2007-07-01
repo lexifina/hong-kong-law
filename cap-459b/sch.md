@@ -1,5 +1,7 @@
 # SCHEDULE
 
+(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+
 [ss. 3, 7, 8 & 12]
 
 FORM 1 | [section 3]
@@ -24,11 +26,11 @@ Before completing this form read the note below. To: Chairman of the Appeal Boar
 
 - 1. This form is to be used by a person who is aggrieved by a decision of the Director under section 7, 8, 9 or 10 of the Ordinance.
 
-- 2. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board at the office of the Secretary for Health, Welfare and Food before the expiry of 28 days after the service upon you of notice from the Director in respect of the decision you wish to appeal against.
+- 2. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board at the office of the Secretary for Labour and Welfare before the expiry of 28 days after the service upon you of notice from the Director in respect of the decision you wish to appeal against.
 
 - 3. At the same time that this notice is lodged you are required to serve a copy of the notice on the Director, personally, or by registered post addressed to the last known address of the Director and to furnish to the Director and the Chairman a statement specifying the particulars of the appeal which you seek to establish, including such particulars of evidence to be adduced, documents to be produced, names of witnesses to be called and other circumstances as may suffice to ensure that the Appeal Board and the Director are fully and fairly informed of the grounds on which the appeal is based. You may also be required to furnish further particulars or produce documents for the inspection of the Director.
 
-- 4. You are advised to read the Residential Care Homes (Elderly Persons) Ordinance and the Residential Care Homes (Elderly Persons) (Appeal Board) Regulation before lodging this notice of appeal. (L.N. 198 of 1996; L.N. 106 of 2002)
+- 4. You are advised to read the Residential Care Homes (Elderly Persons) Ordinance and the Residential Care Homes (Elderly Persons) (Appeal Board) Regulation before lodging this notice of appeal. (L.N. 198 of 1996; L.N. 106 of 2002; L.N. 130 of 2007)
 
 FORM 2 | [sections 7 & 12]
 

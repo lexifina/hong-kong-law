@@ -4,6 +4,8 @@
 
 EDUCATIONAL ESTABLISHMENTS AND THEIR RESPONSIBLE BODIES
 
+(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+
 Educational establishment | Responsible body
 
 1. | The University of Hong Kong established by the University of Hong Kong Ordinance (Cap. 1053) | The Court, the Council, the Senate or the Convocation, within the meaning of section 2 of the University of Hong Kong Ordinance (Cap. 1053), according to which of them has the function concerned
@@ -34,4 +36,4 @@ Educational establishment | Responsible body
 
 14. | Any school which is registered or provisionally registered under the Education Ordinance (Cap. 279) | The management committee, within the meaning of section 3 of the Education Ordinance (Cap. 279), of the school
 
-15. | Any school, within the meaning of section 3 of the Education Ordinance (Cap. 279), entirely maintained and controlled by the Government | The Permanent Secretary for Education and Manpower (Amended 3 of 2003 s. 41)
+15. | Any school, within the meaning of section 3 of the Education Ordinance (Cap. 279), entirely maintained and controlled by the Government | The Permanent Secretary for Education (Amended 3 of 2003 s. 41; L.N. 130 of 2007)

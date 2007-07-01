@@ -4,6 +4,8 @@
 
 REPORTING AGENCIES
 
+(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+
 - 1. Aberdeen Kai-fong Welfare Association Social Service Centre
 
 - 2. Baptist Oi Kwan Social Service
@@ -30,7 +32,7 @@ REPORTING AGENCIES
 
 - 13. Department of Health
 
-- 14. Education and Manpower Bureau
+- 14. Education Bureau (Amended L.N. 130 of 2007)
 
 - 15. Evangel Hospital
 

@@ -1,12 +1,10 @@
 # SCHEDULE
 
+(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+
 [ss. 2, 4 & 9]
 
-- 1.
-
-- Objects
-
-- The objects of the corporation shall be—
+- 1. Objects The objects of the corporation shall be—
 
   - (a) to provide and maintain a temporary home for women and children who, in the opinion of the board, are in need of care and protection until proper provision is made for their marriage, adoption or settlement in life or otherwise for their welfare;
 
@@ -24,11 +22,7 @@
 
   - (g) to provide all kinds of social services for the Hong Kong community.
 
-- 2.
-
-- Powers
-
-- Without prejudice to any other Ordinance, the corporation shall have the following powers—
+- 2. Powers Without prejudice to any other Ordinance, the corporation shall have the following powers—
 
   - (a) to acquire, take on lease, purchase, hold and enjoy any property and invest moneys upon mortgage of any immovable property or upon the mortgages, debentures, stocks, funds, shares or investments specified in the Second Schedule of the Trustee Ordinance (Cap. 29);
 
@@ -178,7 +172,7 @@
 
     - (a) the Secretary for Home Affairs, who shall be chairman; (Amended L.N. 67 of 1985; L.N. 262 of 1989)
 
-    - (b) the Secretary for Health, Welfare and Food; (Amended L.N. 18 of 1983; L.N. 106 of 2002)
+    - (b) the Secretary for Labour and Welfare; (Amended L.N. 18 of 1983; L.N. 106 of 2002; L.N. 130 of 2007)
 
     - (c) the Director of Social Welfare;
 
@@ -210,7 +204,7 @@
 
     - (b) 4 members of the advisory board. (Replaced L.N. 253 of 1974)
 
-  - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Health, Welfare and Food shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health, Welfare and Food members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002)
+  - (7) The Secretary for Home Affairs shall be the chairman of the joint meeting of the board and the advisory board. In his absence the Secretary for Labour and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Labour and Welfare members present at the meeting shall elect a chairman from amongst the members of the advisory board present. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007)
 
   - (8) The persons who are members of the Board of Direction of the Society at the commencement of this Ordinance shall be members of the advisory board until 1 April 1974.
 
@@ -220,7 +214,7 @@
 
   - (2) Every question at any meeting of the advisory board shall be decided by a majority of votes of the members present and in the case of an equality of votes the chairman of the meeting shall have a casting vote.
 
-  - (3) In the absence of the Secretary for Home Affairs the Secretary for Health, Welfare and Food shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Health, Welfare and Food the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002)
+  - (3) In the absence of the Secretary for Home Affairs the Secretary for Labour and Welfare shall be the chairman, and in the absence of both the Secretary for Home Affairs and the Secretary for Labour and Welfare the members of the advisory board shall elect a chairman from amongst their number present at the meeting. (Amended L.N. 18 of 1983; L.N. 67 of 1985; L.N. 262 of 1989; L.N. 106 of 2002; L.N. 130 of 2007)
 
 - 20. Annual general meeting
 

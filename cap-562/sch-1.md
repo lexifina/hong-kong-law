@@ -4,6 +4,8 @@
 
 DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE LICENCES AND RESTRICTION ON VOTING CONTROL OF VOTING CONTROLLERS
 
+(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+
 - PART 1 INTERPRETATION AND APPLICATION
 
   - 1. Interpretation
@@ -504,7 +506,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (i) to the Broadcasting Authority;
 
-        - (ii) to the Secretary for Commerce, Industry and Technology; or (Amended L.N. 106 of 2002)
+        - (ii) to the Secretary for Commerce and Economic Development; or (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
         - (iii) in connection with civil proceedings to which the licensee is a party.
 
@@ -868,7 +870,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (i) to the Broadcasting Authority;
 
-        - (ii) to the Secretary for Commerce, Industry and Technology; or (Amended L.N. 106 of 2002)
+        - (ii) to the Secretary for Commerce and Economic Development; or (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
         - (iii) in connection with civil proceedings to which the licensee is a party.
 

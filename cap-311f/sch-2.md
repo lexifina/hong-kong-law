@@ -2,484 +2,504 @@
 
 [regs. 4, 11, 12, 13 & 16]
 
-FORM 1 | [regulation 4]
+Form 1 | [reg. 4]
 
-AIR POLLUTION CONTROL (SPECIFIED PROCESSES) REGULATIONS APPLICATION FOR A LICENCE PURSUANT TO SECTION 14 OF
-
-THE AIR POLLUTION CONTROL ORDINANCE
+Air Pollution Control (Specified Processes) Regulations APPLICATION FOR A LICENCE PURSUANT TO SECTION 14 OF THE AIR POLLUTION CONTROL ORDINANCE
 
 To: The Authority
 
-- 1. I/We* the undersigned hereby apply under section 14 of the Air Pollution Control Ordinance for a licence for the conduct of the undermentioned specified process and I/we* hereby declare that the following particulars and the additional information, if any, provided are correct and the relevant plans and specifications are prepared by the qualified engineer(s)/authorized person(s) listed in paragraph 3 of the application. I/We* enclose the application fee of $ . as prescribed in the Third Schedule to these regulations. This application, including plans and specifications, comprises . pages. Dated this . day of . 19 . . Signature of Applicant . Name .
+1. I/We* the undersigned hereby apply under section 14 of the Air Pollution Control Ordinance for a licence for the conduct of the undermentioned specified process and I/we* hereby declare that the following particulars and the additional information, if any, provided are correct and the relevant plans and specifications are prepared by the qualified engineer(s)/authorized person(s) listed in paragraph 3 of the application.
 
-- 2. Details of Owner(s)+
+I/We* enclose the application fee of $. as prescribed in the Third Schedule to these regulations.
 
-- Name of the Owner(s) (Surname First) | Status | Correspondence Address | Telephone Number | Identity Card/ Certificate of Incorporation* Number
+This application, including plans and specifications, comprises . pages.
 
-- English | Chinese
+Dated this . day of . 19 . .
 
-- * Delete if not applicable.
+Signature of Applicant
 
-- + Including the applicant.
+Name
 
-- 3. Qualified Engineer/Authorized Person
+2. Details of Owner(s)†
 
-- Name of Qualified Engineer/Authorized Person (Surname First) | Correspondence Address | Telephone Number | Material+ Prepared
+Name of the Owner(s) (Surname First) | Status | Correspondence Address | Telephone Number | Identity Card/ Certificate of Incorporation* Number
 
-- 4. Premises where the specified process is to be conducted
+English | Chinese
 
-- Name of the Premises (if any) | Address | Telephone Number
+* Delete if not applicable.
 
-- English | Chinese
+† Including the applicant.
 
-- Contact Person in the Premises (Surname First) | Title or Position | Correspondence Address | Telephone Number
+3. Qualified Engineer/Authorized Person
 
-- English | Chinese
+Name of Qualified Engineer/Authorized Person (Surname First) | Correspondence Address | Telephone Number | Material† Prepared
 
-- Business Registration No. | Certificate of Incorporation No. | No. of Employees in the Premises | Area of the Premises (m2) | Land Status
+4. Premises where the specified process is to be conducted
 
-- Nature of Tenure | Name of Air Control Zone in which the Premises are Located
+Name of the Premises (if any) | Address | Telephone Number
 
-- + Including the plans and specifications mentioned in paragraphs 5 to 9.
+English | Chinese
 
-- 5. Nature of Work
+Contact Person in the Premises (Surname First) | Title or Position | Correspondence Address | Telephone Number
 
-- Classification of Specified Process under Application | Mode of Operation (Continuous/Batch) | Installed/Processing* Capacity | Silo Capacity (for Cement Works only) | Total No. of Emission Points
+English | Chinese
 
-- 6. Noxious or Offensive Emissions
+Business Registration No. | Certificate of Incorporation No. | No. of Employees in the Premises | Area of the Premises (m2) | Land Status
 
-- Emis-sion Point No. | Exhaust Gas Flowrate (m3/h) | Mode of Discharge to Atmosphere | Highest Building /Structure within 100m of the Premises
+Nature of Tenure | Name of Air Control Zone in which the Premises are Located
 
-- Exit Temperature (℃) | Fugitive Emission (Yes/ No) | Discharge or Chimney Height (m) | If NOT discharged upward freely, please specify | Cross-section of Discharge Exit or Chimney
+† Including the plans and specifications mentioned in paragraphs 5 to 9.
 
-- Width (m) | Length (m) | Diam-eter (m) | Dis— charge | Height (m)
+5. Nature of Work
 
-- * Delete if not applicable.
+Classification of Specified Process under Application | Mode of Operation (Continuous/Batch) | Installed/Processing* Capacity | Silo Capacity (for Cement Works only) | Total No. of Emission Points
 
-- Emission Point No. | Efflux Velocity (m/s) | Details of Emissions
+6. Noxious or Offensive Emissions
 
-- Composition | Emission Rate (kg/h) | Average Daily Concentration* (mg/m3) | Maximum Concentration* (mg/m3) | Duration of Maximum Concentra— tion (h/d)
+Emission Point No. | Exhaust Gas Flowrate (m3/h) | Mode of Discharge to Atmosphere | Highest Building/ Structure within 100m of the Premises
 
-- Average | Maximum
+Exit Temperature (ºC) | Fugitive Emission (Yes/No) | Discharge or Chimney Height (m) | If NOT discharged upward freely, please specify | Cross-section of Discharge Exit or Chimney
 
-- * Expressed as at standard temperature and pressure of 0 degree Celsius and 101.325 kPa.
+Width (m) | Length (m) | Diameter (m) | Distance (m) | Height (m)
 
-- 7. Fuel Usage
+* Delete if not applicable.
 
-- Emission Point No. | Type of Fuel Using Equipment | Rated Capacity (MJ/h) | Fuel to be Used | Fuel Consumption Rate (kg/h)
+Emission Point No. | Efflux Velocity (m/s) | Details of Emissions
 
-- Type | Ash Content(%) | Sulphur Content(%) | Other Specifications | Maximum | Normal
+Composition | Emission Rate (kg/h) | Average Daily Concentration* (mg/m3) | Maximum Concentration* (mg/m3) | Duration of Maximum Concentration (h/d)
 
-- 8. Raw Materials and Products
+Average | Maximum
 
-- Type | Nature or General Composition | Description of the Process | Raw Material Usage | Product Production
+* Expressed as at standard temperature and pressure of 0ºC and 101.325 kPa.
 
-- Consumption Rate | Annual Use (t) | Production Rate | Annual Production (t)
+7. Fuel Usage
 
-- Normal(kg/h) | Maximum(kg/h) | Normal(kg/h) | Maximum (kg/h)
+Emission Point No. | Type of Fuel Using Equipment | Rated Capacity (MJ/h) | Fuel to be Used | Fuel Consumption Rate (kg/h)
 
-- 9. Drawings
+Type | Ash Content(%) | Sulphur Content(%) | Other Specifications | Maximum | Normal
 
-- Please provide
+8. Raw Materials and Products
 
-  - (1) A block plan, drawn to a scale of 1:500 and prepared by an authorized person, showing the buildings and topography surrounding the premises where the specified process is to be conducted and the location of all emission points and their corresponding numbers.
+Type | Nature or General Composition | Description of the Process | Raw Material Usage | Product Production
 
-  - (2) Schematic diagrams of process flow prepared by a qualified engineer, showing the flow of materials, including raw materials, materials in process of manufacture, manufactured materials, by-products and waste materials. All emission points and processes/equipment, including air pollution control equipment, associated with each emission point, must be identified and labelled with consistent reference numbers.
+Consumption Rate | Annual Use (t) | Production Rate | Annual Production (t)
 
-- 10. Notes
+Normal (kg/h) | Maximum (kg/h) | Normal (kg/h) | Maximum (kg/h)
 
-  - (1) The Authority may require the applicant to submit any other information about the specified process under application as specified in a notice in writing served by the Authority in accordance with section 27 of the Air Pollution Control Ordinance
+9. Drawings
 
-  - within such time and in such form as is specified in the same notice.
+Please provide (1) A block plan, drawn to a scale of 1:500 and prepared by an authorized person, showing the buildings and topography surrounding the premises where the specified process is to be conducted and the location of all emission points and their corresponding numbers. (2) Schematic diagrams of process flow prepared by a qualified engineer, showing the flow of materials, including raw materials, materials in process of manufacture, manufactured materials, by-products and waste materials. All emission points and processes/equipment, including air pollution control equipment, associated with each emission point, must be identified and labelled with consistent reference numbers.
 
-  - (2) This application is subject to public notification provision pursuant to section 14 of the Air Pollution Control Ordinance. The applicant, however, may apply to withhold any information contained in this application from public notification to the extent as permitted under section 40 of the Ordinance.
+10. Notes
 
-  - (3) The expense in public notification in causing a notice to be published in an English language and a Chinese language newspaper shall be met by the applicant himself.
+(1) The Authority may require the applicant to submit any other information about the specified process under application as specified in a notice in writing served by the Authority in accordance with section 27 of the Air Pollution Control Ordinance within such time and in such form as is specified in the same notice.
 
-  - (4) The Authority may, not earlier than 40 days after the last notice is published in the newspaper, either grant or refuse to grant the licence.
+(2) This application is subject to public notification provision pursuant to section 14 of the Air Pollution Control Ordinance. The applicant, however, may apply to withhold any information contained in this application from public notification to the extent as permitted under section 40 of the Ordinance. (3) The expense in public notification in causing a notice to be published in an English language and a Chinese language newspaper shall be met by the applicant himself. (4) The Authority may, not earlier than 40 days after the last notice is published in the newspaper, either grant or refuse to grant the licence. (5) The prescribed fee for application is NOT refundable. (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
 
-  - (5) The prescribed fee for application is NOT refundable.
+(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
 
-  - (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
+Form 2 | [reg. 4]
 
-- (L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
-
-FORM 2 | [regulation 4]
-
-AIR POLLUTION CONTROL (SPECIFIED PROCESSES) REGULATIONS APPLICATION FOR RENEWAL OF A LICENCE PURSUANT TO SECTION 16 OF
-
-THE AIR POLLUTION CONTROL ORDINANCE
+Air Pollution Control (Specified Processes) Regulations APPLICATION FOR RENEWAL OF A LICENCE PURSUANT TO SECTION 16 OF THE AIR POLLUTION CONTROL ORDINANCE
 
 To: The Authority
 
-- 1. I/We* the undersigned, being the licence holder of the undermentioned licence, hereby apply under Section 16 of the Air Pollution Control Ordinance for the renewal of a licence for the conduct of the undermentioned specified process. I/We* hereby declare that the particulars of the undermentioned specified process, including any chimney and relevant plant,
+1. I/We* the undersigned, being the licence holder of the undermentioned licence, hereby apply under Section 16 of the Air Pollution Control Ordinance for the renewal of a licence for the conduct of the undermentioned specified process. I/We* hereby declare that the particulars of the undermentioned specified process, including any chimney and relevant plant, nature and emission of any air pollutant, the fuel usage, raw materials and products are substantially unchanged and that the following particulars provided are correct.
 
-- nature and emission of any air pollutant, the fuel usage, raw materials and products are substantially unchanged and that the following particulars provided are correct. Dated this . day of . 19 . Signature of Applicant . Name .
+Dated this . day of . 19 . .
 
-- 2. Details of Owner(s) +
+Signature of Applicant
 
-- Name of the Owner(s) (Surname First) | Status | Correspondence Address | Telephone Number | Identity Card/Certificate of Incorporation* Number
+Name
 
-- English | Chinese
+2. Details of Owner(s) †
 
-- * Delete if not applicable.
+Name of the Owner(s) (Surname First) | Status | Correspondence Address | Telephone Number | Identity Card/ Certificate of Incorporation* Number
 
-- + Including the applicant.
+English | Chinese
 
-- 3. Premises where the specified process is conducted
+* Delete if not applicable.
 
-- Name of the Premises (if any) | Address | Telephone Number
+† Including the applicant.
 
-- English | Chinese
+3. Premises where the specified process is conducted
 
-- Contact Person in the Premises (Surname First) | Title or Position | Correspondence Address | Telephone Number
+Name of the Premises (if any) | Address | Telephone Number
 
-- English | Chinese
+English | Chinese
 
-- Business Registration No. | Certificate of Incorporation No. | No. of Employees in the Premises | Area of the Premises (m2) | Land Status
+Contact Person in the Premises (Surname First) | Title or Position | Correspondence Address | Telephone Number
 
-- Nature of Tenure | Name of Air Control Zone in which the Premises are Located
+English | Chinese
 
-- 4. Nature of Work
+Business Registration No. | Certificate of Incorporation No. | No. of Employees in the Premises | Area of the Premises (m2) | Land Status
 
-- Existing Licence No. | Expiry Date | Classification of Specified Process under Application | Mode of Operation (Continuous/Batch) | Installed/ Processing* Capacity | Silo Capacity (for Cement Works Only) | Total No. of Emission Points
+Nature of Tenure | Name of Air Control Zone in which the Premises are Located
 
-- 5. Notes Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000. * Delete if not applicable. (L.N. 311 of 1993; L.N. 212 of 1996)
+4. Nature of Work
 
-FORM 3 | [regulation 4]
+Existing Licence No. | Expiry Date | Classification of Specified Process under Application | Mode of Operation (Continuous/Batch) | Installed/ Processing* Capacity | Silo Capacity (for Cement Works Only) | Total No. of Emission Points
 
-AIR POLLUTION CONTROL (SPECIFIED PROCESSES) REGULATIONS APPLICATION FOR VARIATION OF A LICENCE PURSUANT TO SECTION 18, OR
+5. Notes
 
-VARIATION OR CANCELLATION OF ANY TERM OR CONDITION OF AN
+Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
 
-EXEMPTION PURSUANT TO SECTION 23, OF THE AIR POLLUTION
+* Delete if not applicable.
 
-CONTROL ORDINANCE
+(L.N. 311 of 1993; L.N. 212 of 1996)
+
+Form 3 | [reg. 4]
+
+Air Pollution Control (Specified Processes) Regulations APPLICATION FOR VARIATION OF A LICENCE PURSUANT TO SECTION 18, OR VARIATION OR CANCELLATION OF ANY TERM OR CONDITION OF AN EXEMPTION PURSUANT TO SECTION 23, OF THE AIR POLLUTION CONTROL ORDINANCE
 
 To: The Authority
 
-- 1. I/We* the undersigned, being the licence/exemption* holder of the undermentioned licence/exemption*, hereby apply under Section 18/23* of the Air Pollution Control Ordinance for the variation of a licence/variation or cancellation of a term or condition of an exemption* for the conduct of the undermentioned specified process and I/we* hereby declare the following particulars and the additional information, if any, provided are correct and the relevant plans and specifications are prepared by the qualified engineer(s)/authorized person(s) listed in paragraph 3 of this application. I/We* enclose the application fee of $ . as prescribed in the Third Schedule to these regulations. This application, including plans and specifications, comprises . pages. Dated this . day of . 19 . . Signature of Applicant . Name .
+1. I/We* the undersigned, being the licence/exemption* holder of the undermentioned licence/exemption*, hereby apply under Section 18/23* of the Air Pollution Control Ordinance for the variation of a licence/variation or cancellation of a term or condition of an exemption* for the conduct of the undermentioned specified process and I/we* hereby declare the following particulars and the additional information, if any, provided are correct and the relevant plans and specifications are prepared by the qualified engineer(s)/authorized person(s) listed in paragraph 3 of this application.
 
-- 2. Details of Owner(s)+
+I/We* enclose the application fee of $. as prescribed in the Third Schedule to these regulations.
 
-- Name of the Owner(s) (Surname First) | Status | Correspondence Address | Telephone Number | Identity Card/ Certificate of Incorporation* Number
+This application, including plans and specifications, comprises . pages.
 
-- English | Chinese
+Dated this . day of . 19 . .
 
-- * Delete if not applicable.
+Signature of Applicant
 
-- + Including the applicant.
+Name
 
-- 3. Qualified Engineer/Authorized Person
+2. Details of Owner(s)†
 
-- Name of Qualified Engineer/Authorized Person (Surname First) | Correspondence Address | Telephone Number | Material+ Prepared
+Name of the Owner(s) (Surname First) | Status | Correspondence Address | Telephone Number | Identity Card/ Certificate of Incorporation* Number
 
-- 4. Premises where the specified process is conducted
+English | Chinese
 
-- Name of the Premises (if any) | Address | Telephone Number
+* Delete if not applicable.
 
-- English | Chinese
+† Including the applicant.
 
-- Contact Person in the Premises (Surname First) | Title or Position | Correspondence Address | Telephone Number
+3. Qualified Engineer/Authorized Person
 
-- English | Chinese
+Name of Qualified Engineer/Authorized Person (Surname First) | Correspondence Address | Telephone Number | Material† Prepared
 
-- Business Registration No. | Certificate of Incorporation No. | No. of Employees in the Premises | Area of the Premises (m2) | Land Status
+4. Premises where the specified process is conducted
 
-- Nature of Tenure | Name of Air Control Zone in which the Premises are Located
+Name of the Premises (if any) | Address | Telephone Number
 
-- + Including the plans and specifications mentioned in paragraphs 5 and 6.
+English | Chinese
 
-- 5. Details of Variation in Respect of which Approval is Sought
+Contact Person in the Premises (Surname First) | Title or Position | Correspondence Address | Telephone Number
 
-  - (1) Nature of Works
+English | Chinese
 
-  - Existing Licence/ Exemption* No. | Expiry Date (if applicable) | Classification of Specified Process under Application | Mode of Operation (Continuous/Batch) | Installed/Processing* Capacity
+Business Registration No. | Certificate of Incorporation No. | No. of Employees in the Premises | Area of the Premises (m2) | Land Status
 
-  - Existing Licence/ Exemption* | Proposed Variation | Existing Licence/ Exemption* | Proposed Variation
+Nature of Tenure | Name of Air Control Zone in which the Premises are Located
 
-  - Silo Capacity (for Cement Works Only) | Total No. of Emission Points
+† Including the plans and specifications mentioned in paragraphs 5 and 6.
 
-  - Existing Licence/ Exemption* | Proposed Variation | Existing Licence/ Exemption* | Proposed Variation
+5. Details of Variation in Respect of which Approval is Sought
 
-  - (2) Terms and Conditions to be Varied or Cancelled (To be completed only for application for variation or cancellation of terms and conditions imposed by the Authority on an exemption for conduct of a specified process)
+(1) Nature of Works
 
-  - Terms and Conditions imposed on the Existing Exemption | Proposed Variation or Cancellation | Justifications for such Variation or Cancellation
+Existing Licence/ Exemption* No. | Expiry Date (if applicable) | Classification of Specified Process under Application | Mode of Operation (Continuous/Batch) | Installed/Processing* Capacity
 
-  - * Delete if not applicable
+Existing Licence/ Exemption* | Proposed Variation | Existing Licence/ Exemption* | Proposed Variation
 
-- (3) Noxious or Offensive Emissions
+Silo Capacity (for Cement Works Only) | Total No. of Emission Points
 
-  - (a) Existing Licence
+Existing Licence/Exemption* | Proposed Variation | Existing Licence/Exemption* | Proposed Variation
 
-  - Emis— sion Point No. | Exhaust Gas Flowrate (m3/h) | Mode of Discharge to Atmosphere | Highest Building/ Structure within 100m of the Premises
+(2) Terms and Conditions to be Varied or Cancelled
 
-  - Exit Temperature (℃) | Fugitive Emission (Yes/ No) | Discharge or Chimney Height (m) | If NOT discharged upward freely, please specify | Cross-section of Discharge Exit or Chimney
+(To be completed only for application for variation or cancellation of terms and conditions imposed by the Authority on an exemption for conduct of a specified process)
 
-  - Width (m) | Length (m) | Diameter (m) | Dis— charge | Height (m)
+Terms and Conditions imposed on the Existing Exemption | Proposed Variation or Cancellation | Justifications for such Variation or Cancellation
 
-  - Emission Point No. | Efflux Velocity (m/s) | Details of Emissions
+* Delete if not applicable
 
-  - Composition | Emission Rate (kg/h) | Average Daily Concentration* (mg/m3) | Maximum Concentration* (mg/m3) | Duration of Maximum Concentration (h/d)
+(3) Noxious or Offensive Emissions
 
-  - Average | Maximum
+(a) Existing Licence
 
-  - * Expressed as at standard temperature and pressure of 0℃ and 101.325 kPa.
+Emission Point No. | Exhaust Gas Flowrate (m3/h) | Mode of Discharge to Atmosphere | Highest Building/ Structure within 100m of the Premises
 
-- (b)
+Exit Temperature (ºC) | Fugitive Emission (Yes/No) | Discharge or Chimney Height (m) | If NOT discharged upward freely, please specify | Cross-section of Discharge Exit or Chimney
 
-- Proposed Variation
+Width (m) | Length (m) | Diameter (m) | Distance (m) | Height (m)
 
-- Emis— sion Point No. | Exhaust Gas Flowrate (m3/h) | Mode of Discharge to Atmosphere | Highest Building/ Structure within 100m of the Premises
+Emission Point No. | Efflux Velocity (m/s) | Details of Emissions
 
-- Exit Temperature (℃) | Fugitive Emission (Yes/ No) | Discharge or Chimney Height (m) | If NOT discharged upward freely, please specify | Cross-section of Discharge Exit or Chimney
+Composition | Emission Rate (kg/h) | Average Daily Concentration* (mg/m3) | Maximum Concentration* (mg/m3) | Duration of Maximum Concentration (h/d)
 
-- Width (m) | Length (m) | Diameter (m) | Dis— charge | Height (m)
+Average | Maximum
 
-- Emission Point No. | Efflux Velocity (m/s) | Details of Emissions
+* Expressed as at standard temperature and pressure of 0ºC and 101.325 kPa.
 
-- Composition | Emission Rate (kg/h) | Average Daily Concentration* (mg/m3) | Maximum Concentration* (mg/m3) | Duration of Maximum Concentration (h/d)
+(b) Proposed Variation
 
-- Average | Maximum
+Emission† Point No. | Exhaust Gas Flowrate (m3/h) | Mode of Discharge to Atmosphere | Highest Building/ Structure within 100m of the Premises
 
-- * Expressed as at standard temperature and pressure of 0℃ and 101.325 kPa.
+Exit Temperature (ºC) | Fugitive Emission (Yes/No) | Discharge or Chimney Height (m) | If NOT discharged upward freely, please specify | Cross-section of Discharge Exit or Chimney
 
-- + To be assigned by the applicant.
+Width (m) | Length (m) | Diameter (m) | Distance (m) | Height (m)
 
-  - (4) Fuel Usage, Raw Materials, Products and Processes/Equipment Describe the details of proposed variation in respect to the fuel usage, raw materials, products and processes/equipment described for the purpose of the existing licence or exemption and state what action, if any, is proposed to minimize the amount or effects of any air pollution.
+Emission† Point No. | Efflux Velocity (m/s) | Details of Emissions
 
-- 6.
+Composition | Emission Rate (kg/h) | Average Daily Concentration* (mg/m3) | Maximum Concentration* (mg/m3) | Duration of Maximum Concentration (h/d)
 
-- Drawings
+Average | Maximum
 
-- Please provide, wherever applicable,
+* Expressed as at standard temperature and pressure of 0ºC and 101.325 kPa.
 
-  - (1) A block plan, drawn to a scale of 1:500 and prepared by an authorized person, showing the buildings and topography surrounding the premises where the specified process is to be conducted and the location of all emission points and their corresponding numbers.
+† To be assigned by the applicant.
 
-  - (2) Schematic diagrams of process flow prepared by a qualified engineer, showing the flow of materials, including raw materials, materials in process of manufacture, manufactured materials, by-products and waste materials. All emission points and processes/equipment, including air pollution control equipment, associated with each emission point, must be identified and labelled with consistent reference numbers.
+(4) Fuel Usage, Raw Materials, Products and Processes/Equipment
 
-- 7. Notes
+Describe the details of proposed variation in respect to the fuel usage, raw materials, products and processes/equipment described for the purpose of the existing licence or exemption and state what action, if any, is proposed to minimize the amount or effects of any air pollution.
 
-  - (1) The Authority may require the applicant to submit any other information about the specified process under application as specified in a notice in writing served by the Authority in accordance with section 27 of the Air Pollution Control Ordinance within such time and in such form as is specified in the same notice.
+6. Drawings
 
-  - (2) This application is subject to public notification provision pursuant to section 14 of the Air Pollution Control Ordinance. The applicant, however, may apply to withhold any information contained in this application from public notification to the extent as permitted under section 40 of the Ordinance.
+Please provide, wherever applicable, (1) A block plan, drawn to a scale of 1:500 and prepared by an authorized person, showing the buildings and topography surrounding the premises where the specified process is to be conducted and the location of all emission points and their corresponding numbers. (2) Schematic diagrams of process flow prepared by a qualified engineer, showing the flow of materials, including raw materials, materials in process of manufacture, manufactured materials, by-products and waste materials. All emission points and processes/equipment, including air pollution control equipment, associated with each emission point, must be identified and labelled with consistent reference numbers.
 
-  - (3) The expense in public notification in causing a notice to be published in an English language and a Chinese language newspaper shall be met by the applicant himself.
+7. Notes
 
-  - (4) The Authority may grant the application, with or without modification, or refuse to grant it but shall not do so earlier than 30 or 40 days, respectively for variation or cancellation of any term or condition of exemption and variation of a licence, after the last notice is published in a newspaper.
+Please provide, wherever applicable, (1) The Authority may require the applicant to submit any other information about the specified process under application as specified in a notice in writing served by the Authority in accordance with section 27 of the Air Pollution Control Ordinance within such time and in such form as is specified in the same notice.
 
-  - (5) The prescribed fee for application is NOT refundable.
+(2) This application is subject to public notification provision pursuant to section 14 of the Air Pollution Control Ordinance. The applicant, however, may apply to withhold any information contained in this application from public notification to the extent as permitted under section 40 of the Ordinance. (3) The expense in public notification in causing a notice to be published in an English language and a Chinese language newspaper shall be met by the applicant himself. (4) The Authority may grant the application, with or without modification, or refuse to grant it but shall not do so earlier than 30 or 40 days, respectively for variation or cancellation of any term or condition of exemption and variation of a licence, after the last notice is published in a newspaper. (5) The prescribed fee for application is NOT refundable. (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
 
-  - (6) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000
+(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
 
-- (L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
+Form 4 | [reg. 4]
 
-FORM 4 | [regulation 4]
-
-AIR POLLUTION CONTROL (SPECIFIED PROCESSES) REGULATIONS APPLICATION FOR TRANSFER OF A LICENCE PURSUANT TO SECTION 18A OF
-
-THE AIR POLLUTION CONTROL ORDINANCE
+Air Pollution Control (Specified Processes) Regulations APPLICATION FOR TRANSFER OF A LICENCE PURSUANT TO SECTION 18A OF THE AIR POLLUTION CONTROL ORDINANCE
 
 To: The Authority
 
-- 1. We the undersigned, being the licence holder and the prospective transferee of the undermentioned licence, hereby apply jointly under section 18A of the Air Pollution Control Ordinance for the transfer of the licence for the conduct of the undermentioned specified process and we hereby declare that the particulars of the undermentioned specified process,
+1. We the undersigned, being the licence holder and the prospective transferee of the undermentioned licence, hereby apply jointly under section 18A of the Air Pollution Control Ordinance for the transfer of the licence for the conduct of the undermentioned specified process and we hereby declare that the particulars of the undermentioned specified process, including any chimney and relevant plant, nature and emission of any air pollutant, the fuel usage, raw materials and products are substantially unchanged and that the following particulars provided are correct.
 
-- including any chimney and relevant plant, nature and emission of any air pollutant, the fuel usage, raw materials and products are substantially unchanged and that the following particulars provided are correct. We enclose the application fee of $ . as prescribed in the Third Schedule to these regulations. Dated this . day of . 19 . . Signature of Applicant (i) . Licence Holder Name . (ii) . Prospective Transferee Name .
+We enclose the application fee of $. as prescribed in the Third Schedule to these regulations.
 
-- 2. Details of the Transferee
+Dated this . day of . 19 . .
 
-- Name of the Owner(s) (Surname First) | Status | Correspondence Address | Telephone Number | Identity Card/ Certificate of Incorporation* Number
+Signature of Applicant | (i)
 
-- English | Chinese
+Licence Holder
 
-- 3. Premises where the specified process is conducted
+Name
 
-- Name of the Premises (if any) | Address | Telephone Number
+(ii)
 
-- English | Chinese
+Prospective Transferee
 
-- Contact Person in the Premises (Surname First) | Title or Position | Correspondence Address | Telephone Number
+Name
 
-- English | Chinese
+2. Details of the Transferee
 
-- Business Registration No. | Certificate of Incorporation No. | No. of Employees in the Premises | Area of the Premises (m2) | Land Status
+Name of the Owner(s) (Surname First) | Status | Correspondence Address | Telephone Number | Identity Card/ Certificate of Incorporation* Number
 
-- Nature of Tenure | Name of Air Control Zone in which the Premises are Located
+English | Chinese
 
-- 4. Nature of Work
+3. Premises where the specified process is conducted
 
-- Existing Licence No. | Expiry Date | Classification of Specified Process under Application | Mode of Operation (Continuous/Batch) | Installed/ Processing* Capacity | Silo Capacity (for Cement Works Only) | Total No. of Emission Points
+Name of the Premises (if any) | Address | Telephone Number
 
-- 5. Notes
+English | Chinese
 
-  - (1) The prescribed fee for application is NOT refundable.
+Contact Person in the Premises (Surname First) | Title or Position | Correspondence Address | Telephone Number
 
-  - (2) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $ 50,000.
+English | Chinese
 
-  - * Delete if not applicable.
+Business Registration No. | Certificate of Incorporation No. | No. of Employees in the Premises | Area of the Premises (m2) | Land Status
 
-- (L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
+Nature of Tenure | Name of Air Control Zone in which the Premises are Located
 
-FORM 5 | [regulation 11]
+4. Nature of Work
 
-NOTICE OF OBJECTION TO THE GRANTING OR RENEWAL
+Existing Licence No. | Expiry Date | Classification of Specified Process under Application | Mode of Operation (Continuous/Batch) | Installed/ Processing* Capacity | Silo Capacity (for Cement Works Only) | Total No. of Emission Points
 
-OR VARIATION OR TRANSFER*
+5. Notes
 
-OF A LICENCE OR VARIATION OR CANCELLATION
+(1) The prescribed fee for application is NOT refundable. (2) Any person who provides information which he knows to be incorrect in a material respect or recklessly makes any statement which is incorrect in a material respect or knowingly omits any material particular commits an offence and is liable to a fine of $50,000.
 
-OF A TERM OR CONDITION OF AN EXEMPTION
+* Delete if not applicable.
 
-PURSUANT TO SECTION 14/16/18/18A/23*
+(L.N. 311 of 1993; L.N. 212 of 1996; L.N. 577 of 1997)
 
-OF THE AIR POLLUTION CONTROL ORDINANCE
+Form 5 | [reg. 11]
+
+NOTICE OF OBJECTION TO THE GRANTING OR RENEWAL OR VARIATION OR TRANSFER* OF A LICENCE OR VARIATION OR CANCELLATION OF A TERM OR CONDITION OF AN EXEMPTION PURSUANT TO SECTION 14/16/18/18A/23* OF THE AIR POLLUTION CONTROL ORDINANCE
 
 To: The Authority
 
-- 1. Full Name of Objector: .
+1. | Full Name of Objector:
 
-- 2. Home Address of Objector: . Office Address of Objector: .
+2. | Home Address of Objector:
 
-- Occupation: .
+Office Address of Objector:
 
-- Telephone No.: .
+Occupation:
 
-- 3. Details of the Application Under Objection: Registration No.: .
+Telephone No.:
 
-- Name of Applicant: .
+3. | Details of the Application Under Objection:
 
-- Purpose of the Application: . Address of the Premises Where the Specified Process Is To Be Conducted: .
+Registration No.:
 
-- 4. Relevant Air Quality Objective(s) being Threatened: .
+Name of Applicant:
 
-- 5. The grounds for this objection are: (set them out in full) . .
+Purpose of the Application:
 
-- .
+Address of the Premises Where the Specified Process Is To Be Conducted:
 
-- . . (Signature) Objector Dated this . day of . 19 .
+4. | Relevant Air Quality Objective(s) being Threatened:
 
-- Copy to the Secretary for the Environment, Transport and Works * Delete if not applicable. (L.N. 244 of 1989; L.N 212 of 1996; 78 of 1999 s. 7; L.N. 106 of 2002)
+5. | The grounds for this objection are: (set them out in full)
 
-FORM 6 | [regulation 12]
+(Signature) Objector
 
-AIR POLLUTION CONTROL (SPECIFIED PROCESSES) REGULATIONS LICENCE FOR THE CONDUCT OF A SPECIFIED PROCESS
+Dated this . day of . 19 .
 
-Licence No.: .
+Copy to the Secretary for the Environment * Delete if not applicable.
 
-- PART A (Main Licence):
+(L.N. 244 of 1989; L.N 212 of 1996; 78 of 1999 s. 7; L.N. 106 of 2002; L.N. 130 of 2007)
 
-- Pursuant to section 15/16* of the Air Pollution Control Ordinance, the Authority grants/renews* this licence to .
+_
 
-- Full Name of Licence Holder
+Form 6 | [reg. 12]
 
-- to use or permit to be used the premises at . Full Address of the
+Air Pollution Control (Specified Processes) Regulations LICENCE FOR THE CONDUCT OF A SPECIFIED PROCESS
 
-- . premises at which the specified process is to be conducted
+Licence No.:
 
-- for the conduct of the specified process described in Part B subject to the terms and conditions described in or attached to Part C of this licence.
+PART A (Main Licence):
 
-- This licence shall be effective from the . day of . 19 . and expire on the . day of . 19 .
+Pursuant to section 15/16* of the Air Pollution Control Ordinance, the Authority grants/renews* this licence to
 
-- .
+Full Name of Licence Holder
 
-- for Authority
+to use or permit to be used the premises at
 
-- Dated this . day of . 19 .
+Full Address of the premises at which the specified process is to be conducted
 
-- NOTE: (a) This licence consists of three parts, respectively Part A (Main Licence), Part B (Process Description) and Part C (Terms and Conditions).
+for the conduct of the specified process described in Part B subject to the terms and conditions described in or attached to Part C of this licence.
 
-  - (b) If any variation of this licence is required, the licence holder shall apply for the variation of the licence in accordance with section 18 of the Air Pollution Control Ordinance.
+This licence shall be effective from the . day of . 19 . and expire on the . day of . 19 .
 
-  - (c) Application for renewal of licence must be made not earlier than 120 days before and not later than 60 days after the date of expiry of this licence.
+for Authority
 
-  - (d) A licence holder who contravenes any term or condition of this licence and who is convicted of an offence under section 30A of the Ordinance is liable to a fine of $100,000 on conviction for a first offence and $200,000 and imprisonment for 6 months for a second or subsequent offence and, in addition, to a daily fine of $20,000 for a continuing offence.
+Dated this . day of . 19 .
 
-- * Delete if not applicable. PART B (Process Description):
+NOTE: | (a) | This licence consists of three parts, respectively Part A (Main Licence), Part B (Process Description) and Part C (Terms and Conditions).
 
-- Hereunder is the brief description of the process to be conducted in the premises mentioned in Part A of this licence. A more exact description of the process is contained in application of registration no. .dated the . day of . 19 .
+(b) | If any variation of this licence is required, the licence holder shall apply for the variation of the licence in accordance with section 18 of the Air Pollution Control Ordinance.
 
-  - 1. Classification of specified process: 2 Installed/Processing* Capacity:
+(c) | Application for renewal of licence must be made not earlier than 120 days before and not later than 60 days after the date of expiry of this licence.
 
-  - 3. Silo Capacity (for Cement Works only):
+(d) | A licence holder who contravenes any term or condition of this licence and who is convicted of an offence under section 30A of the Ordinance is liable to a fine of $100,000 on conviction for a first offence and $200,000 and imprisonment for 6 months for a second or subsequent offence and, in addition, to a daily fine of $20,000 for a continuing offence.
 
-  - 4. Fuel Usage:
+* Delete if not applicable.
 
-  - Emission Point No. | Fuel to be Used | Consumption Rate
+PART B (Process Description):
 
-  - Type | Ash Content | Sulphur Content | Other Specifications | Maximum | Normal
+Hereunder is the brief description of the process to be conducted in the premises mentioned in Part A of this licence. A more exact description of the process is contained in application of registration no. .dated the . day of . 19 .
 
-  - 5. Raw Materials and Products:
+1. | Classification of specified process:
 
-  - Type | Nature or General Composition | Raw Materials Usage | Product Production
+2. | Installed/Processing* Capacity:
 
-  - Consumption Rate | Annual Use | Production Rate | Annual Production
+3. | Silo Capacity (for Cement Works only):
 
-  - Normal | Maximum | Normal | Maximum
+4. | Fuel Usage:
 
-  - 6. Other particulars: PART C (Terms and Conditions): The Authority grants this licence to the licence holder to use or permit to be used the premises as mentioned in Part A of this licence for the conduct of the specified process as mentioned in Part B of this licence, subject to the following terms and conditions: (Hereunder insert the terms and conditions to be imposed to this licence-sections 15(4) and 16(5) of the Air Pollution Control Ordinance) * Delete if not applicable.
+Emission Point No. | Fuel to be Used | Consumption Rate
 
-- (L.N. 311 of 1993; L.N. 212 of 1996)
+Type | Ash Content | Sulphur Content | Other Specifications | Maximum | Normal
 
-FORM 7 | [regulation 13]
+5. Raw Materials and Products:
 
-AIR POLLUTION CONTROL (SPECIFIED PROCESSES) REGULATIONS EXEMPTION FROM LICENSING PURSUANT TO SECTION 20
+Type | Nature or General Composition | Raw Materials Usage | Product Production
 
-- Exemption No.:
+Consumption Rate | Annual Use | Production Rate | Annual Production
 
-- PART A (Main Exemption):
+Normal | Maximum | Normal | Maximum
 
-- Pursuant to section 20 of the Air Pollution Control Ordinance, the Authority exempts . from the operation
+6. | Other particulars:
 
-- Full name of exemption holder
+PART C (Terms and Conditions):
 
-- of section 13 in respect of the premises at .
+The Authority grants this licence to the licence holder to use or permit to be used the premises as mentioned in Part A of this licence for the conduct of the specified process as mentioned in Part B of this licence, subject to the following terms and conditions:
 
-- Full address of the premises at . which are being used or being developed for use
+(Hereunder insert the terms and conditions to be imposed to this licence—sections 15(4) and 16(5) of the Air Pollution Control Ordinance)
 
-- which the specified process is to be conducted for the conduct of the specified process as described in Part B of this exemption.
+* Delete if not applicable.
 
-- .
+(L.N. 311 of 1993; L.N. 212 of 1996)
 
-- for Authority
+_
 
-- Dated this . day of . 19 .
+Form 7 | [reg. 13]
 
-- NOTE: (a) This exemption consists of three parts, respectively Part A (Main Exemption), Part B (Process Description) and Part C (Terms and Conditions).
+Air Pollution Control (Specified Processes) Regulations EXEMPTION FROM LICENSING PURSUANT TO SECTION 20
 
-  - (b) The Authority may by notice in writing impose terms and conditions in relation to this exemption in accordance with section 22 of the Ordinance. Any terms and conditions so imposed are described in or attached to Part C of this exemption.
+Exemption No.:
 
-  - (c) Under section 21 of the Ordinance this exemption shall cease if any changes are made to the premises used for the conduct of a specified process. The exemption holder shall then apply for a licence in accordance with section 14 of the Ordinance.
+PART A (Main Exemption):
 
-  - (d) The owner of any premises who is convicted of an offence under section 19(3) of the Ordinance is liable to a fine of $50,000 and on conviction this exemption shall cease under section 20A of the Ordinance.
+Pursuant to section 20 of the Air Pollution Control Ordinance, the Authority exempts
 
-  - (e) The exemption holder who contravenes any term or condition of this exemption and who is convicted of an offence under section 30A of the Ordinance is liable to a fine of $100,000 on conviction for a first offence and $200,000 and imprisonment for 6 months for a second or subsequent offence and, in addition, to a daily fine of $20,000 for a continuing offence.
+Full name of exemption holder
 
-- (L.N. 311 of 1993)
+from the operation of section 13 in respect of the premises at
 
-- PART B (Process Description): Hereunder is the brief description of the process to be conducted in the premises mentioned in Part A of this record. A more exact description of the process is contained in a notice given to the Authority containing such particulars and information as specified in an order published in the Gazette in accordance with section 19(1) of the Air Pollution Control Ordinance.
+Full address of the premises at which the specified process is to be conducted
 
-  - 1. Classification of specified process:
+which are being used or being developed for use for the conduct of the specified process as described in Part B of this exemption.
 
-  - 2. Installed/Processing* Capacity:
+for Authority
 
-  - 3. Silo Capacity (for Cement Works only):
+Dated this . day of . 19 .
 
-  - 4. Fuel Usage:
+NOTE: | (a) | This exemption consists of three parts, respectively Part A (Main Exemption), Part B (Process Description) and Part C (Terms and Conditions).
 
-  - Emission Point No. | Fuel to be Used | Consumption Rate
+(b) | The Authority may by notice in writing impose terms and conditions in relation to this exemption in accordance with section 22 of the Ordinance. Any terms and conditions so imposed are described in or attached to Part C of this exemption.
 
-  - Type | Ash Content | Sulphur Content | Other Specifications | Maximum | Normal
+(c) | Under section 21 of the Ordinance this exemption shall cease if any changes are made to the premises used for the conduct of a specified process. The exemption holder shall then apply for a licence in accordance with section 14 of the Ordinance.
 
-  - 5. Raw Materials and Products:
+(d) | The owner of any premises who is convicted of an offence under section 19(3) of the Ordinance is liable to a fine of $50,000 and on conviction this exemption shall cease under section 20A of the Ordinance.
 
-  - Type | Nature or General Composition | Raw Materials Usage | Product Production
+(e) | The exemption holder who contravenes any term or condition of this exemption and who is convicted of an offence under section 30A of the Ordinance is liable to a fine of $100,000 on conviction for a first offence and $200,000 and imprisonment for 6 months for a second or subsequent offence and, in addition, to a daily fine of $20,000 for a continuing offence.
 
-  - Consumption Rate | Annual Use | Production Rate | Annual Production
+PART B (Process Description):
 
-  - Normal | Maximum | Normal | Maximum
+Hereunder is the brief description of the process to be conducted in the premises mentioned in Part A of this record. A more exact description of the process is contained in a notice given to the Authority containing such particulars and information as specified in an order published in the Gazette in accordance with section 19(1) of the Air Pollution Control Ordinance.
 
-  - 6. Other Particulars: PART C (Terms and Conditions): The Authority has imposed by notice in writing to the exemption holder on the . day of . 19 . in relation to this exemption term and conditions in accordance with section 22 of the Ordinance. This exemption shall continue in force subject to the observance of the terms and conditions which are contained in the said notice and reproduced below: (Hereunder insert the terms and conditions in relation to this exemption-section 22 of the Air Pollution Control Ordinance)
+1. | Classification of specified process:
 
-- * Delete if not applicable.
+2. | Installed/Processing* Capacity:
 
-- (L.N. 311 of 1993; L.N. 212 of 1996)
+3. | Silo Capacity (for Cement Works only):
+
+4. | Fuel Usage:
+
+Discharge Point No. | Fuel to be Used | Consumption Rate
+
+Type | Ash Content | Sulphur Content | Other Specifications | Maximum | Normal
+
+5. Raw Materials and Products:
+
+Type | Nature or General Composition | Raw Materials Usage | Product Production
+
+Consumption Rate | Annual Use | Production Rate | Annual Production
+
+Normal | Maximum | Normal | Maximum
+
+6. | Other Particulars:
+
+PART C (Terms and Conditions):
+
+The Authority has imposed by notice in writing to the exemption holder on the . day of . 19 . in relation to this exemption terms and conditions in accordance with section 22 of the Ordinance. This exemption shall continue in force subject to the observance of the terms and conditions which are contained in the said notice and reproduced below:
+
+(Hereunder insert the terms and conditions in relation to this exemption—section 22 of the Air Pollution Control Ordinance)
+
+* Delete if not applicable.
+
+(L.N. 311 of 1993; L.N. 212 of 1996)

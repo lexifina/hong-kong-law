@@ -50,7 +50,7 @@ Introductory
 
     - [cf. 1988 c. 48 Sch. 1 para. 2 U.K.]
 
-    - General principles: continuity of the law
+General principles: continuity of the law
 
 - 3. The new copyright provisions apply in relation to things existing at commencement as they apply in relation to things coming into existence after commencement, subject to any express provision to the contrary.
 
@@ -74,7 +74,7 @@ Introductory
 
   - [cf. 1988 c. 48 Sch. 1 para. 4 U.K.]
 
-  - Subsistence of copyright: general
+Subsistence of copyright: general
 
 - 5.
 
@@ -92,9 +92,13 @@ Introductory
 
     - (b) copyright under the 1956 Act in the work would not have expired had copyright subsisted in it under that Act.
 
-  - (3) Copyright in an existing work qualifying for copyright protection under subparagraph (2) expires at the time when copyright in the work would expire under the following provisions had copyright subsisted in it immediately before commencement. Contrary rights
+  - (3) Copyright in an existing work qualifying for copyright protection under subparagraph (2) expires at the time when copyright in the work would expire under the following provisions had copyright subsisted in it immediately before commencement.
 
-- 6. Where any person has before commencement incurred any significant expenditure or liability in connection with the reproduction or performance of a work or other subject-matter in a manner that at the time was lawful, or for the purpose of or with a view to the reproduction or performance of a work at a time when it would have been lawful but for the commencement, nothing in this Ordinance diminishes or prejudices any right or interest arising from or in connection with such action that is subsisting and valuable immediately before commencement unless the person who by virtue of paragraph 5(2) becomes entitled to restrain the reproduction or performances agrees to pay such compensation as the parties agree, or failing such agreement, as the Copyright Tribunal may determine. Subsistence of copyright: films, broadcasts and cable programmes
+Contrary rights
+
+- 6. Where any person has before commencement incurred any significant expenditure or liability in connection with the reproduction or performance of a work or other subject-matter in a manner that at the time was lawful, or for the purpose of or with a view to the reproduction or performance of a work at a time when it would have been lawful but for the commencement, nothing in this Ordinance diminishes or prejudices any right or interest arising from or in connection with such action that is subsisting and valuable immediately before commencement unless the person who by virtue of paragraph 5(2) becomes entitled to restrain the reproduction or performances agrees to pay such compensation as the parties agree, or failing such agreement, as the Copyright Tribunal may determine.
+
+Subsistence of copyright: films, broadcasts and cable programmes
 
 - 7.
 
@@ -124,15 +128,13 @@ Introductory
 
 - [cf. 1988 c. 48 Sch. 1 para. 9 U.K.]
 
-- Authorship of work
+Authorship of work
 
-- 9.
-
-- The question who was the author of an existing work is to be determined in accordance with the new copyright provisions for the purposes of the rights conferred by Division IV of Part II (moral rights), and for all other purposes is to be determined in accordance with the law in force at the time the work was made.
+- 9. The question who was the author of an existing work is to be determined in accordance with the new copyright provisions for the purposes of the rights conferred by Division IV of Part II (moral rights), and for all other purposes is to be determined in accordance with the law in force at the time the work was made.
 
 - [cf. 1988 c. 48 Sch. 1 para. 10 U.K.]
 
-- First ownership of copyright
+First ownership of copyright
 
 - 10.
 
@@ -148,11 +150,15 @@ Introductory
 
   - [cf. 1988 c. 48 Sch. 1 para. 11 U.K.]
 
-  - Employee works
+Employee works
 
-- 11. Section 14(2) of this Ordinance does not apply to an existing work. Commissioned works
+- 11. Section 14(2) of this Ordinance does not apply to an existing work.
 
-- 12. Section 15 of this Ordinance does not apply to an existing work. Duration of copyright in existing works
+Commissioned works
+
+- 12. Section 15 of this Ordinance does not apply to an existing work.
+
+Duration of copyright in existing works
 
 - 13.
 
@@ -192,13 +198,11 @@ Introductory
 
   - (6) Copyright in any other description of existing work continues to subsist until the date on which copyright in that description of work expires in accordance with sections 17 to 21 of this Ordinance.
 
-  - (7)
-
-  - The above provisions do not apply to works subject to Government or Legislative Council copyright (see paragraphs 32 to 34 below).
+  - (7) The above provisions do not apply to works subject to Government or Legislative Council copyright (see paragraphs 32 to 34 below).
 
   - [cf. 1988 c. 48 Sch. 1 para. 12 U.K.]
 
-  - Acts infringing copyright
+Acts infringing copyright
 
 - 14.
 
@@ -270,15 +274,11 @@ Introductory
 
 - [cf. 1988 c. 48 Sch. 1 para. 17 U.K.]
 
-- 18.
-
-- Where a work made before 1 July 1912 consists of an essay, article or portion forming part of and first published in a review, magazine or their periodical or work of a like nature, the copyright is subject to any right of publishing the essay, article, or portion in a separate form to which the author was entitled at the commencement of the 1911 Act.
+- 18. Where a work made before 1 July 1912 consists of an essay, article or portion forming part of and first published in a review, magazine or their periodical or work of a like nature, the copyright is subject to any right of publishing the essay, article, or portion in a separate form to which the author was entitled at the commencement of the 1911 Act.
 
 - [cf. 1988 c. 48 Sch. 1 para. 18 U.K.]
 
-- Enforcement of copyright
-
-- in registrable design
+Enforcement of copyright in registrable design
 
 - 19.
 
@@ -286,13 +286,11 @@ Introductory
 
   - (2) Where section 10 of the 1956 Act (effect of industrial application of design corresponding to artistic work) applied in relation to an artistic work at any time on or after 1 August 1989 and before commencement, section 87(3) of this Ordinance applies with the substitution for the period of 15 years mentioned there of the period of 25 years and the period of 25 years is to be calculated from the end of the calendar year in which the articles were first marketed.
 
-  - (3)
-
-  - Except as provided in subparagraphs (1) and (2), section 87 of this Ordinance applies only where articles are marketed as mentioned in section 87(1)(b) of this Ordinance after commencement.
+  - (3) Except as provided in subparagraphs (1) and (2), section 87 of this Ordinance applies only where articles are marketed as mentioned in section 87(1)(b) of this Ordinance after commencement.
 
   - [cf. 1988 c. 48 Sch. 1 para. 20 U.K.]
 
-  - Abolition of statutory recording licence
+Abolition of statutory recording licence
 
 - 20. Section 8 of the 1956 Act (statutory licence to copy records sold by retail) and the Copyright Royalty System (Records) Regulations (App. I, p. AL1) continue to apply where notice under subsection (1)(b) of section 8 was given before the repeal of that section by this Ordinance, but only in respect of the making of records—
 
@@ -304,7 +302,7 @@ Introductory
 
   - [cf. 1988 c. 48 Sch. 1 para. 21 U.K.]
 
-  - Moral rights
+Moral rights
 
 - 21.
 
@@ -334,17 +332,15 @@ Introductory
 
     - (b) where copyright first vested in a person other than the author, to anything done by or with the licence of the copyright owner.
 
-  - (4)
-
-  - The rights do not apply to anything done in relation to a record made in pursuance of section 8 of the 1956 Act (statutory recording licence).
+  - (4) The rights do not apply to anything done in relation to a record made in pursuance of section 8 of the 1956 Act (statutory recording licence).
 
   - [cf. 1988 c. 48 Sch. 1 para. 23 U.K.]
 
-  - Certification of rental to the public of copies of
+Certification of rental to the public of copies of computer programs or sound recordings
 
-  - computer programs or sound recordings
+- 23. The repeal by this Ordinance of sections 41A (special provisions as to rental of computer programs and sound recordings) and 41B (application to settle royalty or other sum payable for rental of computer programs or sound recordings) of the Copyright Ordinance does not affect the operation of those sections in relation to any certification made by the Secretary for Trade and Industry under section 41A(4) of the Copyright Ordinance before commencement.
 
-- 23. The repeal by this Ordinance of sections 41A (special provisions as to rental of computer programs and sound recordings) and 41B (application to settle royalty or other sum payable for rental of computer programs or sound recordings) of the Copyright Ordinance does not affect the operation of those sections in relation to any certification made by the Secretary for Trade and Industry under section 41A(4) of the Copyright Ordinance before commencement. Assignments and licences
+Assignments and licences
 
 - 24.
 
@@ -412,13 +408,11 @@ Introductory
 
     - [cf. 1988 c. 48 Sch. 1 para. 28 U.K.]
 
-- 28.
-
-- Section 103(2) of this Ordinance (rights of exclusive licensee against successors in title of person granting licence) does not apply in relation to an exclusive licence granted before commencement.
+- 28. Section 103(2) of this Ordinance (rights of exclusive licensee against successors in title of person granting licence) does not apply in relation to an exclusive licence granted before commencement.
 
 - [cf. 1988 c. 48 Sch. 1 para. 29 U.K.]
 
-- Bequests
+Bequests
 
 - 29.
 
@@ -428,13 +422,11 @@ Introductory
 
     - (b) where the testator died on or after that date and before commencement, applies only in relation to an original document embodying a work.
 
-  - (2)
-
-  - In the case of an author who died before 12 December 1972, the ownership after his death of a manuscript of his, where such ownership has been acquired under a testamentary disposition made by him and the manuscript is of a work which has not been published or performed in public, is prima facie proof of the copyright being with the owner of the manuscript.
+  - (2) In the case of an author who died before 12 December 1972, the ownership after his death of a manuscript of his, where such ownership has been acquired under a testamentary disposition made by him and the manuscript is of a work which has not been published or performed in public, is prima facie proof of the copyright being with the owner of the manuscript.
 
   - [cf. 1988 c. 48 Sch. 1 para. 30 U.K.]
 
-  - Remedies for infringement
+Remedies for infringement
 
 - 30.
 
@@ -452,21 +444,17 @@ Introductory
 
 - [cf. 1988 c. 48 Sch. 1 para. 32 U.K.]
 
-- 32.
-
-- The provisions of section 118 of this Ordinance (criminal liability for making or dealing with infringing articles, etc.) apply only in relation to acts done after commencement; section 21 of the 1956 Act (penalties and summary proceedings in respect of dealings which infringe copyright) and sections 5 and 5A of the Copyright Ordinance (offences in connection with infringing copies and making infringing copies outside Hong Kong, etc.) continue to apply in relation to acts done before commencement.
+- 32. The provisions of section 118 of this Ordinance (criminal liability for making or dealing with infringing articles, etc.) apply only in relation to acts done after commencement; section 21 of the 1956 Act (penalties and summary proceedings in respect of dealings which infringe copyright) and sections 5 and 5A of the Copyright Ordinance (offences in connection with infringing copies and making infringing copies outside Hong Kong, etc.) continue to apply in relation to acts done before commencement.
 
 - [cf. 1988 c. 48 Sch. 1 para. 33 U.K.]
 
-- Ships, aircraft and hovercraft
+Ships, aircraft and hovercraft
 
-- 33.
-
-- Section 179 of this Ordinance (ships, aircraft and hovercraft registered in Hong Kong) does not apply in relation to anything done before commencement.
+- 33. Section 179 of this Ordinance (ships, aircraft and hovercraft registered in Hong Kong) does not apply in relation to anything done before commencement.
 
 - [cf. 1988 c. 48 Sch. 1 para. 39 U.K.]
 
-- Government copyright
+Government copyright
 
 - 34.
 
@@ -522,45 +510,37 @@ Introductory
 
   - [cf. 1988 c. 48 Sch. 1 para. 41 U.K.]
 
-- 36.
-
-- Section 183 of this Ordinance (copyright in Ordinance) applies to existing Ordinances.
+- 36. Section 183 of this Ordinance (copyright in Ordinance) applies to existing Ordinances.
 
 - [cf. 1988 c. 48 Sch. 1 para. 42 U.K.]
 
-- Legislative Council copyright
+Legislative Council copyright
 
 - 37.
 
   - (1) Section 184 of this Ordinance (general provisions as to Legislative Council copyright) applies to existing unpublished literary, dramatic, musical or artistic works, but does not otherwise apply to existing works.
 
-  - (2)
-
-  - Section 185 of this Ordinance (copyright in Bills) does not apply to a Bill which was presented to the Legislative Council and published before commencement.
+  - (2) Section 185 of this Ordinance (copyright in Bills) does not apply to a Bill which was presented to the Legislative Council and published before commencement.
 
   - [cf. 1988 c. 48 Sch. 1 para. 43 U.K.]
 
-  - Copyright vesting in certain international organizations
+Copyright vesting in certain international organizations
 
 - 38.
 
   - (1) Any work in which immediately before commencement copyright subsisted by virtue of section 33 of the 1956 Act is deemed to satisfy the requirements of section 188(1) of this Ordinance.
 
-  - (2)
-
-  - Copyright in any such work which is unpublished continues to subsist until the date on which it would have expired in accordance with the 1956 Act, or the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force, whichever is the earlier.
+  - (2) Copyright in any such work which is unpublished continues to subsist until the date on which it would have expired in accordance with the 1956 Act, or the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force, whichever is the earlier.
 
   - [cf. 1988 c. 48 Sch. 1 para. 44 U.K.]
 
-    - Meaning of “publication”
+Meaning of “publication”
 
-- 39.
-
-- Section 196(3) of this Ordinance (construction of building treated as equivalent to publication) applies only where the construction of the building began after commencement.
+- 39. Section 196(3) of this Ordinance (construction of building treated as equivalent to publication) applies only where the construction of the building began after commencement.
 
 - [cf. 1988 c. 48 Sch. 1 para. 45 U.K.]
 
-  - Meaning of “unauthorized”
+Meaning of “unauthorized”
 
 - 40.
 
@@ -570,20 +550,18 @@ Introductory
 
     - (b) paragraph (b) applies with the substitution for the words from “or, in a case” to the end of the words “or any person lawfully claiming under him”; and
 
-    - (c)
-
-    - paragraph (c) is disregarded.
+    - (c) paragraph (c) is disregarded.
 
     - [cf. 1988 c. 48 Sch. 1 para. 46 U.K.]
 
-    - Saving of subsidiary legislation
+Saving of subsidiary legislation
 
-- 41. Until rules are made by the Chief Justice under section 174 of this Ordinance, the Copyright Tribunal Rules (App. I, p. BF1)+ in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance.
+- 41. Until rules are made by the Chief Justice under section 174 of this Ordinance, the Copyright Tribunal Rules (App. I, p. BF1)* in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance.
 
 - 42. Until rules of court under the High Court Ordinance (Cap. 4) are made for the purposes of sections 144 and 271 of this Ordinance, the Copyright (Border Measures) Rules (L.N. 482 of 1996) , so far as they are not inconsistent with this Ordinance, continue in force and have effect as if made for the purposes of those sections subject to such necessary adaptations and modifications as may be necessary for those rules to have effect under the appropriate Part of this Ordinance. (Amended 25 of 1998 s. 2)
 
-- 43. Until regulations are made by the Secretary for Commerce, Industry and Technology under section 46 of this Ordinance, the Copyright (Libraries) Regulations (App. I, p. AJ1) as amended and in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance. (Amended L.N. 173 of 2000; L.N. 106 of 2002)
+- 43. Until regulations are made by the Secretary for Commerce and Economic Development under section 46 of this Ordinance, the Copyright (Libraries) Regulations (App. I, p. AJ1) as amended and in force immediately before commencement, so far as they are not inconsistent with this Ordinance, continue in force and have effect for all purposes as if made under this Ordinance, subject to such necessary adaptations and modifications as may be necessary for their having effect under this Ordinance. (Amended L.N. 173 of 2000; L.N. 106 of 2002; L.N. 130 of 2007)
 
 Editorial Note:
 
-+ Please also see L.N. 5 of 1997.
+* Please also see L.N. 5 of 1997.

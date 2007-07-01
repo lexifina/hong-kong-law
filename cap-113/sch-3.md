@@ -30,11 +30,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
   - (3) A member of the Authority appointed under section 3(3)(a) or (d) may at any time by notice in writing to the Chief Executive resign his office. (Amended 60 of 2000 s. 3)
 
-- 5.
-
-- Members of Authority to disclose interests
-
-- in respect of certain contracts
+- 5. Members of Authority to disclose interests in respect of certain contracts
 
   - (1) A member of the Authority who is in any way directly or indirectly interested in a contract made or proposed to be made by—
 
@@ -60,15 +56,11 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
 - 6. Fees and allowances payable to members of Authority
 
-  - (1) The Authority may pay its members such fees and allowances as the Secretary for Health, Welfare and Food, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002)
+  - (1) The Authority may pay its members such fees and allowances as the Secretary for Food and Health, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
   - (2) The provisions of this paragraph shall not apply to any member of the Authority who is a public officer.
 
-- 7.
-
-- Chief Executive may in certain circumstances declare
-
-- office of member of Authority to be vacant If the Chief Executive is satisfied that a member of the Authority appointed under section 3(3)(d)—
+- 7. Chief Executive may in certain circumstances declare office of member of Authority to be vacant If the Chief Executive is satisfied that a member of the Authority appointed under section 3(3)(d)—
 
   - (a) has been absent from 3 consecutive meetings of the Authority without the permission of the Authority;
 
@@ -76,7 +68,9 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
   - (c) is incapacitated by physical or mental illness; or
 
-  - (d) is otherwise unable or unfit to discharge the functions of a member, the Chief Executive may declare his office as a member of the Authority to be vacant, and shall notify the fact in such manner as the Chief Executive thinks fit; and upon such declaration the office shall become vacant.
+  - (d) is otherwise unable or unfit to discharge the functions of a member,
+
+- the Chief Executive may declare his office as a member of the Authority to be vacant, and shall notify the fact in such manner as the Chief Executive thinks fit; and upon such declaration the office shall become vacant.
 
 - (Amended 60 of 2000 s. 3)
 
@@ -104,9 +98,9 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
     - (b) provide other benefits for the welfare of employees and their dependants;
 
-    - (c) authorize payments, whether or not legally due, to the personal representatives of a deceased employee or to any person who was dependent on such employee at his death; and
+    - (c) authorize payments, whether or not legally due, to the personal representatives of a deceased employee or to any person who was dependent on such employee at his death; and (Amended 4 of 1992 s. 7)
 
-    - (d) pay to the Government amounts representing the cost of pensions, allowances, gratuities, or pension benefits payable by the Government pursuant to section 5 of the Pensions (Special Provisions) (Hospital Authority) Ordinance (Cap. 80) in respect of service under the Authority rendered by persons transferred from service under the Government to service under the Authority. (Amended 4 of 1992 s. 7)
+    - (d) pay to the Government amounts representing the cost of pensions, allowances, gratuities, or pension benefits payable by the Government pursuant to section 5 of the Pensions (Special Provisions) (Hospital Authority) Ordinance (Cap. 80) in respect of service under the Authority rendered by persons transferred from service under the Government to service under the Authority. (Added 4 of 1992 s. 7)
 
   - (4) The Authority may—
 
@@ -122,11 +116,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
     - In this paragraph “employees” (僱員) includes any class of employee which the Authority specifies and in subparagraph (3) includes former employees.
 
-- 11.
-
-- Members of Regional Advisory Committee
-
-- The Authority shall appoint to a Regional Advisory Committee established for a region—
+- 11. Members of Regional Advisory Committee The Authority shall appoint to a Regional Advisory Committee established for a region—
 
   - (a) a chairman of the Regional Advisory Committee who—
 
@@ -144,11 +134,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
   - (f) not more than 10 other members whom the Authority considers have suitable attributes or qualifications (in particular, involvement in community or district organizations) to serve the Regional Advisory Committee.
 
-- 12.
-
-- Functions of Regional Advisory Committee
-
-- A Regional Advisory Committee established for a region shall—
+- 12. Functions of Regional Advisory Committee A Regional Advisory Committee established for a region shall—
 
   - (a) advise the Authority on planning to meet the need for hospital services and the provision of specific services in particular public hospitals in the region having regard to the relationship between health services provided by the Department of Health, and hospital services, in the region;
 
@@ -160,11 +146,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
   - (e) advise the Authority on any specific matters relating to the region at the request of the Authority.
 
-- 13.
-
-- Members of Hospital Governing Committee
-
-- established for teaching hospital
+- 13. Members of Hospital Governing Committee established for teaching hospital
 
   - (1) The Authority shall appoint to a Hospital Governing Committee established for a teaching hospital—
 
@@ -180,21 +162,13 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
   - (2) The Authority shall appoint the chairman of a Hospital Governing Committee referred to in subparagraph (1) from one of the members appointed under subparagraph (1)(c) or (e). (Amended 80 of 1997 s. 102)
 
-- 14.
-
-- Functions of Hospital Governing Committee
-
-- established for teaching hospital A Hospital Governing Committee established for a teaching hospital shall—
+- 14. Functions of Hospital Governing Committee established for teaching hospital A Hospital Governing Committee established for a teaching hospital shall—
 
   - (a) oversee the management of the teaching hospital and monitor its overall efficiency and cost-effectiveness to ensure that the hospital services and teaching requirements are met having regard to the overall needs of the public; and
 
   - (b) having regard to the functions of the Authority, provide policy guidance to the Hospital Chief Executive on ways to optimise the utilization of the hospital beds, staff and equipment of the teaching hospital and improve the teaching hospital environment to ensure the provision of hospital services of the highest possible standard within the resources obtainable.
 
-- 15.
-
-- Members of Hospital Governing Committee established for public
-
-- hospital which is a prescribed hospital specified in Schedule 2 The Authority shall appoint to a Hospital Governing Committee established for a public hospital which is a prescribed hospital specified in Schedule 2—
+- 15. Members of Hospital Governing Committee established for public hospital which is a prescribed hospital specified in Schedule 2 The Authority shall appoint to a Hospital Governing Committee established for a public hospital which is a prescribed hospital specified in Schedule 2—
 
   - (a) a chairman, for which purpose the Authority shall consult with the governing body of the prescribed hospital;
 
@@ -206,11 +180,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
   - (e) not less than 3 other members.
 
-- 16.
-
-- Functions of Hospital Governing Committee established
-
-- for public hospital other than teaching hospital A Hospital Governing Committee established for a public hospital other than a teaching hospital shall—
+- 16. Functions of Hospital Governing Committee established for public hospital other than teaching hospital A Hospital Governing Committee established for a public hospital other than a teaching hospital shall—
 
   - (a) advise the Authority of the needs of the public hospital to provide hospital services to the public and of the resources required to meet those needs; and
 
@@ -222,11 +192,7 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
     - (iii) to attract, motivate and retain qualified staff.
 
-- 17.
-
-- Members of committee to disclose interests
-
-- in respect of certain contracts
+- 17. Members of committee to disclose interests in respect of certain contracts
 
   - (1) A member of a committee who is in any way directly or indirectly interested in a contract made or proposed to be made by—
 
@@ -254,23 +220,19 @@ PROVISIONS WITH RESPECT TO THE AUTHORITY AND COMMITTEES AND THEIR MEMBERS
 
 - 18. Fees and allowances payable to members of committee
 
-  - (1) The Authority may pay to the members of a committee such fees and allowances as the Secretary for Health, Welfare and Food, after consulting with the Secretary for Financial Services and the Treasury, determines.
+  - (1) The Authority may pay to the members of a committee such fees and allowances as the Secretary for Food and Health, after consulting with the Secretary for Financial Services and the Treasury, determines.
 
   - (2) The provisions of this paragraph shall—
 
     - (a) not apply in the case of any member of a committee who is a public officer; and
 
-    - (b) apply in the case of a member of a committee who is a member of the Authority only to such extent as the Secretary for Health, Welfare and Food, after consulting with the Secretary for Financial Services and the Treasury, determines.
+    - (b) apply in the case of a member of a committee who is a member of the Authority only to such extent as the Secretary for Food and Health, after consulting with the Secretary for Financial Services and the Treasury, determines.
 
-- (Amended L.N. 106 of 2002)
+- (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
 - 19. Authority not to delegate certain functions and powers The Authority shall not delegate under section 6 any functions or powers imposed or conferred on it under paragraph 3, 6 or 10(1)(a), (4) or (5).
 
-- 20.
-
-- Fixing of seal of the Authority
-
-- The fixing of the seal of the Authority shall be—
+- 20. Fixing of seal of the Authority The fixing of the seal of the Authority shall be—
 
   - (a) authorized by the Authority; and
 

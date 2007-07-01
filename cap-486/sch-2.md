@@ -4,6 +4,8 @@
 
 FINANCES, ETC. OF COMMISSIONER
 
+(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+
 - 1. Resources of Commissioner
 
   - (1) The resources of the Commissioner shall consist of—
@@ -30,19 +32,19 @@ FINANCES, ETC. OF COMMISSIONER
 
   - (1) Subject to subsection (2), the Commissioner may borrow by way of overdraft such money as he may require for meeting his obligations or performing his functions under this Ordinance.
 
-  - (2) The Secretary for Home Affairs may, after consulting with the Secretary for Financial Services and the Treasury, give directions in writing of a general or specific character to the Commissioner in relation to the amount of money which may be borrowed under subsection (1) and the Commissioner shall comply with those directions.
+  - (2) The Secretary for Constitutional and Mainland Affairs may, after consulting with the Secretary for Financial Services and the Treasury, give directions in writing of a general or specific character to the Commissioner in relation to the amount of money which may be borrowed under subsection (1) and the Commissioner shall comply with those directions.
 
-  - (3) The Commissioner may with the approval of the Secretary for Home Affairs given after the Secretary has consulted with the Secretary for Financial Services and the Treasury borrow, otherwise than by way of overdraft, such money as he may require for meeting his obligations or performing his functions under this Ordinance.
+  - (3) The Commissioner may with the approval of the Secretary for Constitutional and Mainland Affairs given after the Secretary has consulted with the Secretary for Financial Services and the Treasury borrow, otherwise than by way of overdraft, such money as he may require for meeting his obligations or performing his functions under this Ordinance.
 
   - (4) A person lending money to the Commissioner shall not be concerned to inquire whether the borrowing of the money is legal or regular or whether the money raised has been properly applied and shall not be prejudiced by any illegality or irregularity or by misapplication or non-application of the money.
 
-- (Amended L.N. 106 of 2002)
+- (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
 - 3. Investment of surplus funds
 
   - (1) Subject to subsection (2), the Commissioner may invest money that is not immediately required to be expended.
 
-  - (2) The Commissioner shall not invest money pursuant to subsection (1) except in such forms of investment as the Secretary for Home Affairs, after consulting with the Secretary for Financial Services and the Treasury, approves. (Amended L.N. 106 of 2002)
+  - (2) The Commissioner shall not invest money pursuant to subsection (1) except in such forms of investment as the Secretary for Constitutional and Mainland Affairs, after consulting with the Secretary for Financial Services and the Treasury, approves. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
   - (3) Subsection (1) shall not be subject to section 10(1) of this Ordinance.
 

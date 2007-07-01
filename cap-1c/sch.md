@@ -380,11 +380,11 @@ Land Registrar | Building Management Ordinance (Chapter 344). (27 of 1993 s. 56)
 
 Monetary Authority | Crimes Ordinance (Chapter 200), sections 103(1) and 104(1). (L.N. 102 of 1995)
 
-Permanent Secretary for Education and Manpower | Inland Revenue Ordinance (Chapter 112), sections 16B and 16C. (L.N. 6 of 1967; 3 of 2003 s. 41)
+Permanent Secretary for Education (L.N. 130 of 2007) | Inland Revenue Ordinance (Chapter 112), sections 16B and 16C. (L.N. 6 of 1967; 3 of 2003 s. 41)
 
-Permanent Secretary for Education and Manpower | Post Secondary Colleges Ordinance (Chapter 320), sections 3, 8, 9 and 10. (L.N. 6 of 1967; 3 of 2003 s. 41)
+Permanent Secretary for Education (L.N. 130 of 2007) | Post Secondary Colleges Ordinance (Chapter 320), sections 3, 8, 9 and 10. (L.N. 6 of 1967; 3 of 2003 s. 41)
 
-Permanent Secretary for Education and Manpower | Post Secondary Colleges Ordinance (Chapter 320), sections 11 and 12(2). (L.N. 48 of 1967; 3 of 2003 s. 41)
+Permanent Secretary for Education (L.N. 130 of 2007) | Post Secondary Colleges Ordinance (Chapter 320), sections 11 and 12(2). (L.N. 48 of 1967; 3 of 2003 s. 41)
 
 Principal Probation Officer | Probation of Offenders Rules (Chapter 298 subsidiary legislation A), rules 15, 20(2) and 21 only. (L.N. 213 of 1979)
 
@@ -408,9 +408,9 @@ Registrar of Occupational Retirement Schemes | Occupational Retirement Schemes O
 
 Secretary for Broadcasting, Culture and Sport (L.N. 372 of 1996) | Books Registration Ordinance (Chapter 142). (L.N. 403 of 1995)
 
-Secretary for Economic Development and Labour (L.N. 106 of 2002) | Merchant Shipping (Safety) Ordinance (Chapter 369), section 5. (L.N. 94 of 1984)
+Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Merchant Shipping (Safety) Ordinance (Chapter 369), section 5. (L.N. 94 of 1984)
 
-*Secretary for Home Affairs | Books Registration Ordinance (Chapter 142). (18 of 2014 s. 66)
+*Secretary for Home Affairs | Books Registration Ordinance (Chapter 142). (18 of 2014 s.66)
 
 Secretary for Home Affairs | Clubs (Safety of Premises) Ordinance (Chapter 376). (L.N. 91 of 1992)
 
@@ -430,17 +430,17 @@ Secretary for Security | Immigration Ordinance (Chapter 115), section 32(2A). (L
 
 Secretary for Security | Public Order Ordinance (Chapter 245), section 31(6)(i) only. (L.N. 158 of 1977)
 
-Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 308 of 1988)
+Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 308 of 1988)
 
-Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 133 of 1986)
+Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 133 of 1986)
 
-Secretary for the Environment, Transport and Works (L.N. 106 of 2002) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
+Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
 (L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 3 of 2006 s. 56; 17 of 2006 s. 23)
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004, L.N. 6 of 2005, 21 of 2005 s. 29, L.N. 202 of 2005, 23 of 2005 s. 26 and L.N. 30 of 2007. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004, L.N. 6 of 2005, 21 of 2005 s. 29, L.N. 202 of 2005, 23 of 2005 s. 26, L.N. 30 of 2007 and L.N. 130 of 2007. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -462,9 +462,9 @@ L.N. 93 of 2001 | Chief Secretary for Administration | Scout Association of Hong
 
 5 of 2001 s. 40 | Financial Secretary | Hong Kong Science and Technology Parks Corporation Ordinance (Chapter 565), sections 23(6) and 24.
 
-L.N. 158 of 2002 | Secretary for Education and Manpower | Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). Hong Kong Council for Academic Accreditation Ordinance (Chapter 1150), sections 5(e), (g) and (l), 9(1) and (2), 10, 12, 13(1) and (2) and 17.
+L.N. 158 of 2002 | Secretary for Education Secretary for Labour and Welfare | Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). (L.N. 130 of 2007) Hong Kong Council for Academic Accreditation Ordinance (Chapter 1150), sections 5(e), (g) and (l), 9(1) and (2), 10, 12, 13(1) and (2) and 17. (L.N. 130 of 2007) Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). (L.N. 130 of 2007)
 
-L.N. 192 of 2003 | Secretary for Home Affairs | New Territories Ordinance (Chapter 97), sections 15, 16 and 18. Hotel and Guesthouse Accommodation Ordinance (Chapter 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4). New Territories Land (Exemption) Ordinance (Chapter 452), section 12. Sex Discrimination Ordinance (Chapter 480), section 65(3) and Schedule 6 (sections 16(2) and (3) and 17(2)). Personal Data (Privacy) Ordinance (Chapter 486), section 14(6) and Schedule 2 (sections 2(2) and (3) and 3(2)). Heung Yee Kuk Ordinance (Chapter 1097), section 3(2)(c) and First Schedule (paragraph 6) and Second Schedule (paragraph 5(2)).
+L.N. 192 of 2003 | Secretary for Home Affairs Secretary for Constitutional and Mainland Affairs | New Territories Ordinance (Chapter 97), sections 15, 16 and 18. Hotel and Guesthouse Accommodation Ordinance (Chapter 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4). New Territories Land (Exemption) Ordinance (Chapter 452), section 12. Heung Yee Kuk Ordinance (Chapter 1097), section 3(2)(c) and First Schedule (paragraph 6) and Second Schedule (paragraph 5(2)). Sex Discrimination Ordinance (Chapter 480), section 65(3) and Schedule 6 (sections 16(2) and (3) and 17(2)). (L.N. 130 of 2007) Personal Data (Privacy) Ordinance (Chapter 486), section 14(6) and Schedule 2 (sections 2(2) and (3) and 3(2)). (L.N. 130 of 2007)
 
 L.N. 21 of 2004 | Collector of Stamp Revenue | Betting Duty Ordinance (Chapter 108), sections 6L(2), 6M(3), 6N(4), 6O(1), 6P, 6Q, 6R(1), 6S(4) and (7)(b), 6T(4)(a), 6V(2), (4) and (6)(b), 6ZL(1), 6ZM(1) and 7(3). Betting Duty Regulations (Chapter 108 subsidiary legislation A), regulation 3(4).
 

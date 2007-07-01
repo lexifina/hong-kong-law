@@ -4,6 +4,8 @@
 
 MEMBERS OF THE AUTHORITY
 
+(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+
 The members of the Authority shall be—
 
 - (a) the following persons—
@@ -16,7 +18,7 @@ The members of the Authority shall be—
 
   - (vi) the Executive Director of the Vocational Training Council, or his representative;
 
-  - (vii) the Permanent Secretary for Education and Manpower, or his representative; (Amended 3 of 2003 s. 23)
+  - (vii) the Permanent Secretary for Education, or his representative; (Amended 3 of 2003 s. 23; L.N. 130 of 2007)
 
   - (viii) the Secretary General of the Authority appointed under section 7(2)(e) of this Ordinance who shall be the chief executive of the Authority; (Amended 23 of 2002 s. 23)
 

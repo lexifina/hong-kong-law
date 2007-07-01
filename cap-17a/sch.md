@@ -340,7 +340,7 @@ COMPENSATION) ORDINANCE Pursuant to section .
 
 .
 
-* The Secretary for the Environment, Transport and Works
+* The Secretary for Transport and Housing
 
 * require(s) the Lands Tribunal to extend pursuant to section 28(2) of the Ordinance the period(s) specified by section 28(1) of the Ordinance.
 
@@ -366,7 +366,7 @@ or
 
 - To: 1. The Registrar, Lands Tribunal. 2. Address for service of the applicant: *Delete whichever is inapplicable.
 
-(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002)
+(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002; L.N. 130 of 2007)
 
 -
 
@@ -402,9 +402,9 @@ I/We . of .
 
 - To: 1 The Registrar, Lands Tribunal.
 
-  - 2. Secretary for the Environment, Transport and Works. Address for service of the applicant: *Delete whichever does not apply.
+  - 2. Secretary for Transport and Housing. Address for service of the applicant: *Delete whichever does not apply.
 
-(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002)
+(L.N. 417 of 1995; 25 of 1998 s. 2; L.N. 106 of 2002; L.N. 130 of 2007)
 
 -
 

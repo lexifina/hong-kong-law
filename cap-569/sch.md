@@ -84,7 +84,7 @@ ELECTION COMMITTEE
 
           - (C) the eligibility of members of the body to vote at a general meeting of the body,
 
-    - has been approved in writing by the Secretary for Constitutional Affairs; and
+    - has been approved in writing by the Secretary for Constitutional and Mainland Affairs; and (Amended L.N. 130 of 2007)
 
       - (b)
 
@@ -302,9 +302,9 @@ ELECTION COMMITTEE
 
       - (9) Association of Hong Kong & Kowloon Practitioners of Chinese Medicine, Limited;
 
-      - (10) Hong Kong Chinese Overseas Physician Association, (Amended 10 of 2006 s. 32)
+      - (10) Hong Kong Chinese Overseas Physician Association,
 
-      - who are Chinese medicine practitioners entitled to vote at the general meetings of the respective bodies.
+      - who are Chinese medicine practitioners entitled to vote at the general meetings of the respective bodies. (Amended 10 of 2006 s. 32)
 
       - 5. | Higher education | (1) Full-time academic staff engaged in teaching or research and administrative staff of equivalent rank in—
 
@@ -1378,7 +1378,7 @@ ELECTION COMMITTEE
 
     - (3) An Assistant Electoral Registration Officer may, with the authority of the Electoral Registration Officer, perform the functions of Electoral Registration Officer.
 
-    - (4) The Secretary for Constitutional Affairs shall publish in the Gazette a notice of the appointment of a person as Electoral Registration Officer and the Officer’s address.
+    - (4) The Secretary for Constitutional and Mainland Affairs shall publish in the Gazette a notice of the appointment of a person as Electoral Registration Officer and the Officer’s address. (Amended L.N. 130 of 2007)
 
     - (5) The executive authorities of the Government shall ensure that the Electoral Registration Officer is provided with such staff as that Officer requires in order to perform that Officer’s functions under this Schedule.
 

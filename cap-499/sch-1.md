@@ -138,11 +138,11 @@ In this Ordinance, unless the context otherwise requires—
 
 - “health care institution” (健康護理機構) means hospitals, polyclinics and clinics;
 
-- “heavy railway” (重型鐵路) means railway for freight transport or for a passenger transit system with a capacity exceeding 40000 passengers per hour per direction;
+- “heavy railway” (重型鐵路) means railway for freight transport or for a passenger transit system with a capacity exceeding 40 000 passengers per hour per direction;
 
 - “industrial estate” (工業邨) means any industrial estate referred to in Schedule 1 to the Hong Kong Science and Technology Parks Corporation Ordinance (Cap. 565); (Replaced 5 of 2001 s. 40)
 
-- “light railway” (輕型鐵路) means railway for a passenger transit system with a capacity not exceeding 40000 passengers per hour per direction;
+- “light railway” (輕型鐵路) means railway for a passenger transit system with a capacity not exceeding 40 000 passengers per hour per direction;
 
 - “major extensions or improvements to existing roads” (對現有道路作重大擴建或改善) means a physical addition, alteration or re-alignment to existing roads which results in an adverse environmental impact as defined in the technical memorandum;
 
@@ -184,7 +184,7 @@ In this Ordinance, unless the context otherwise requires—
 
 - “road tunnel” (行車隧道) means a private or public tunnel and its portal area within the meaning of the Road Tunnels (Government) Ordinance (Cap. 368);
 
-- “Secretary” (局長) means the Secretary for the Environment, Transport and Works; (Replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002)
+- “Secretary” (局長) means the Secretary for the Environment; (Replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
 - “service reservoir” (配水庫) means a place or structure where water from a water treatment works is stored for delivery to other service reservoirs for distribution to the consumers of a water supply district;
 

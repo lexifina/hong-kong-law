@@ -2,242 +2,236 @@
 
 [reg. 10]
 
-FORM 1
+FORM 1 POST SECONDARY COLLEGES ORDINANCE
 
-POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application to register a college as an approved Post Secondary College
+(Chapter 320) Application to register a college as an approved Post Secondary College
 
-Address (for correspondence) .
+Address (for correspondence)
 
-.
+Tel. No.
 
-Tel. No. .
+Date
 
-Date .
+Permanent Secretary for Education,
 
-Permanent Secretary for Education and Manpower,
-
-Education and Manpower Bureau,
+Education Bureau,
 
 Hong Kong.
 
-- 1. I hereby apply for registration of the college, particulars of which are set out below, as an approved Post Secondary College.
+1. I hereby apply for registration of the college, particulars of which are set out below, as an approved Post Secondary College.
 
-- 2. Particulars—
+2. | Particulars—
 
-  - (a) Proposed name of College (in English) . .
+(a) | Proposed name of College (in English)
 
-  - (b) Proposed name of College (in Chinese) . .
+(b) | Proposed name of College (in Chinese)
 
-  - (c) Proposed address of College . .
+(c) | Proposed address of College
 
-  - (d) Whether (i) day College, (ii) evening College.
+(d) | Whether | (i) | day College,
 
-  - (e) Fees per student per year .
+(ii) | evening College.
 
-  - (f) Sources and amount of annual revenue other than fees . .
+(e) | Fees per student per year
 
-  - (g) Amount of capital funds available for building and equipment or already spent for such purposes .
+(f) | Sources and amount of annual revenue other than fees
 
-  - (h) Name and address of lessee of college premises . .
+(g) | Amount of capital funds available for building and equipment or already spent for such purposes
 
-  - .
+(h) | Name and address of lessee of college premises
 
-  - (i) Rent of college premises .
+(i) | Rent of college premises
 
-  - (j) Number of teaching weeks in academic year . .
+(j) | Number of teaching weeks in academic year
 
-  - (k) Number of students it is proposed to admit per annum . .
+(k) | Number of students it is proposed to admit per annum
 
-  - (l) Total number of students for which the College will provide . .
+(l) | Total number of students for which the College will provide
 
-  - (m) Names of proposed Faculties and Departments in each Faculty . .
+(m) | Names of proposed Faculties and Departments in each Faculty
 
-  - .
+3. I attach applications in duplicate for the persons listed in Appendix A to be registered as a Member of the Board of Governors of the College.
 
-  - .
+4. I attach applications in duplicate for the persons listed in Appendix B to be registered as Members of the College Council.
 
-  - .
+5. I attach applications in duplicate for the persons listed in Appendix C to be registered as teachers.
 
-  - .
+6. I attach particulars (including salaries) of all officers it is proposed to appoint.
 
-  - .
+7. I attach 3 copies of a rough plan or diagram of the college premises (with dimensions).
 
-  - .
+8. I attach a list of proposed courses and outline contents and length of each course.
 
-  - .
+9. I attach a copy of the Conditions of Service and Contract for Employment of a full-time teacher of the College.
 
-  - .
+10. I attach a copy of the Requirements for Admission of a student to the College.
 
-  - .
+11. I attach a copy of the Ordinance incorporating the College or other evidence of incorporation together with a copy of the Constitution of the College.
 
-- 3. I attach applications in duplicate for the persons listed in Appendix A to be registered as a Member of the Board of Governors of the College.
+12. I attach a general account of the proposed conduct, organization, courses and finance of the College.
 
-- 4. I attach applications in duplicate for the persons listed in Appendix B to be registered as Members of the College Council.
+13. The Board of Governors request approval for the appointment of . as President.
 
-- 5. I attach applications in duplicate for the persons listed in Appendix C to be registered as teachers.
+(Signed)
 
-- 6. I attach particulars (including salaries) of all officers it is proposed to appoint.
+Chairman of the Board of Governors
 
-- 7. I attach 3 copies of a rough plan or diagram of the college premises (with dimensions).
+Note: | Registration of a college does not release the Board of Governors or any other person from compliance with any relevant requirements of the Buildings Ordinance (Chapter 123) or any other Ordinance, nor does it in any way affect or modify any agreements or covenants whatsoever relating to the premises intended for use as the college.
 
-- 8. I attach a list of proposed courses and outline contents and length of each course.
+(3 of 2003 s. 26; L.N. 130 of 2007)
 
-- 9. I attach a copy of the Conditions of Service and Contract for Employment of a full-time teacher of the College.
+_
 
-- 10. I attach a copy of the Requirements for Admission of a student to the College.
+FORM 2 POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a Member of a Board of Governors
 
-- 11. I attach a copy of the Ordinance in corporating the College or other evidence of incorporation together with a copy of the Constitution of the College.
+and or Member of a College Council of Post Secondary College
 
-- 12. I attach a general account of the proposed conduct, organization, courses and finance of the College.
+Address (for correspondence)
 
-- 13.
+Tel. No.
 
-- The Board of Governors request approval for the appointment of . as President.
+Date
 
-- (Signed) .
+Permanent Secretary for Education,
 
-- Chairman of the Board of Governors
+Education Bureau,
 
-- Note: Registration of a college does not release the Board of Governors or any other person from compliance with any relevant requirements of the Buildings Ordinance (Chapter 123) or any other Ordinance, nor does it in any way affect or modify any agreements or covenants whatsoever relating to the premises intended for use as the college.
+Hong Kong.
 
-- (3 of 2003 s. 26)
+College
 
-- FORM 2 POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a Member of a Board of Governors
+Address
 
-- and or Member of a College Council of Post Secondary College
+On the instructions of the majority of the members of the Board of Governors of . College I hereby make application for Mr./Mrs./Miss ........................., particulars of whom are given below, to
 
-- Address (for correspondence) .
+be registered as * | a Member of the Board of Governors | of this college.
 
-- .
+a Member of the Council
 
-- Tel. No. .
+2. | Particulars—
 
-- Date .
+(a) | Name (in English)............. (In Chinese)
 
-- Permanent Secretary for Education and Manpower,
+(b) | Aliases
 
-- Education and Manpower Bureau,
+(c) | Residential Address
 
-- Hong Kong. College .
+(d) | Date of Birth
 
-- Address .
+(e) | Place of Birth
 
-- On the instructions of the majority of the members of the Board of Governors of . College I hereby make application for Mr./Mrs./Miss ., particulars of whom are given below, to be registered as a Member of the Board of Governors/a Member of the Council* of this college.
+(f) | Occupation(s) during the last 10 years. (If full and complete information has already been supplied in a previous application for registration as a manager of a college, this section need not be completed)
 
-- 2. Particulars—
+(g) | Particulars of education
 
-  - (a) Name (in English) . (In Chinese) .
+(h) | Experience in or knowledge of educational matters
 
-  - (b) Aliases .
+(i) | Special interest in the above College
 
-  - (c) Residential Address .
+(j) | Any other relevant remarks
 
-  - (d) Date of Birth .
+(Signed)
 
-  - (e) Place of Birth .
+Chairman of the Board of Governors
 
-  - (f) Occupation(s) during the last 10 years. (If full and complete information has already been supplied in a previous application for registration as a manager of a college, this section need not be completed) . .
+College.
 
-  - .
+Note: | This form should be completed in duplicate.
 
-  - (g) Particulars of education . .
+* Delete as necessary.
 
-  - (h) Experience in or knowledge of educational matters . .
+(3 of 2003 s. 26; L.N. 130 of 2007)
 
-  - (i) Special interest in the above College .
+_
 
-  - (j) Any other relevant remarks . . (Signed) . Chairman of the Board of Governors . College.
+FORM 3
 
-- Note: This form should be completed in duplicate. * Delete as necessary.
+POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a teacher of an approved
 
-- (3 of 2003 s. 26)
+Post Secondary College
 
-- FORM 3 POST SECONDARY COLLEGES ORDINANCE (Chapter 320) Application for registration of a teacher of an approved
+College
 
-- Post Secondary College
+Date
 
-- . College
+Permanent Secretary for Education,
 
-- .
+Education Bureau,
 
-- Date .
+Hong Kong.
 
-- Permanent Secretary for Education and Manpower,
+1. With the approval of the College Council I hereby make application for Mr./Mrs./Miss ........................................, particular of whom are given below, to be registered as a teacher in this College.
 
-- Education and Manpower Bureau,
+2. | Particulars—
 
-- Hong Kong.
+(a) | Name (in English)
 
-- 1. With the approval of the College Council I hereby make application for Mr./Mrs./Miss ., particular of whom are given below, to be registered as a teacher in this College.
+(b) | Name (in Chinese)
 
-- 2. Particulars—
+(c) | Aliases
 
-  - (a) Name (in English) .
+(d) | Sex
 
-  - (b) Name (in Chinese) .
+(e) | Date of Birth
 
-  - (c) Aliases .
+(f) | Place of Birth
 
-  - (d) Sex .
+(g) | Where educated with dates—
 
-  - (e) Date of Birth .
+School or University | From Month/Year | To Month/Year
 
-  - (f) Place of Birth .
+( )
 
-  - (g) Where educated with dates—
+( )
 
-  - School or University | From Month/Year | To Month/Year
+( )
 
-  - . . ( )
+(h) | Educational qualifications
 
-  - . . ( )
+(Certificates, diplomas, degrees)
 
-  - . . ( )
+(i) | Details of occupation(s) other than teaching since leaving school, college or university
 
-  - (h) Educational qualifications . (Certificates, diplomas, degrees) .
+(j) | Details of all teaching experience—
 
-  - .
+School (with dates month/year) | Classes taught | Subjects taught
 
-  - .
+(k) | Details of any publications or original research
 
-  - .
+3. | Subjects to be taught
 
-  - (i) Details of occupation(s) other than teaching since leaving school, college or university . .
+4. | Proposed salary
 
-  - .
+5. | Full-time or part-time
 
-  - .
+(if part-time, state hours)
 
-  - (j) Details of all teaching experience—
+6. | The following persons who are/are not aware of the statements made on this form may be referred to regarding the character of the teacher:—
 
-  - School (with dates month/year) | Classes taught | Subjects taught
+(a) | Name | Occupation
 
-  - (k) Details of any publications or original research . .
+Address
 
-- 3. Subjects to be taught .
+(b) | Name | Occupation
 
-- 4. Proposed salary .
+Address
 
-- 5. Full-time or part-time . (if part-time, state hours) .
+7. | I attach—
 
-- 6. The following persons who are/are not aware of the statements made on this form may be referred to regarding the character of the teacher:—
+(a) | 3 signed photographs
 
-  - (a) Name . Occupation . Address .
+(b) | medical certificate
 
-  - (b) Name . Occupation . Address .
+(c) | educational certificates, or other evidence of educational qualifications of the teacher.
 
-- 7. I attach—
+Photograph
 
-  - (a) 3 signed photographs
+Identity Card No.
 
-  - (b) medical certificate
+(Signed)
 
-  - (c) educational certificates, or other evidence of educational qualifications of the teacher.
+President
 
-  - Photograph
+Note: | This form should be completed in duplicate.
 
-  - Identity Card No. . (Signed) . President
-
-- Note: This form should be completed in duplicate.
-
-- (3 of 2003 s. 26)
+(3 of 2003 s. 26; L.N. 130 of 2007)

@@ -4,13 +4,15 @@
 
 PROVISIONS AS RESPECTS THE COUNCIL AND ITS MEMBERS
 
+(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+
 - 1.
 
   - (1) A member of the Council shall hold his office in accordance with the terms of his appointment.
 
   - (2) A member of the Council appointed under section 3(2)(b) or (c) of this Ordinance may at any time by notice in writing to the Chief Executive resign his office. (Amended 37 of 2000 s. 3)
 
-- 2. If the Chief Executive is satisfied that a member of the Council appointed under section 3(2)(b) or (c) of this Ordinance—
+- 2. If the Chief Executive is satisfied that a member of the Council appointed under section 3(2)(b) or (c) of this Ordinance— (Amended 37 of 2000 s. 3)
 
   - (a) has become bankrupt or made an arrangement with his creditors; or
 
@@ -42,7 +44,7 @@ PROVISIONS AS RESPECTS THE COUNCIL AND ITS MEMBERS
 
   - (5) The Council may make rules, not inconsistent with this section, setting out the procedures to be followed at meetings.
 
-  - (6) The Council shall lodge a copy of any rules made under subsection (5) with the Secretary for Health, Welfare and Food. (Amended L.N. 106 of 2002)
+  - (6) The Council shall lodge a copy of any rules made under subsection (5) with the Secretary for Food and Health. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
 - 5. The Council may transact any of its business by circulation of papers amongst members whether any such member is in or outside Hong Kong, and a resolution in writing which is approved in writing by a majority of the members shall be as valid and effectual as if it had been passed at a meeting of the Council.
 
