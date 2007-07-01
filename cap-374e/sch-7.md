@@ -206,6 +206,8 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
     - (xiii) Tsing Yi North Coastal Road. (L.N. 58 of 2005)
 
+  - (k) All roads in the Shenzhen Bay Port Hong Kong Port Area. (L.N. 68 of 2007)
+
 - (L.N. 58 of 2005)
 
 - 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau— The island of Lantau; and The island of Chek Lap Kok. (L.N. 65 of 1998)
