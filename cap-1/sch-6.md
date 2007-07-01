@@ -12,25 +12,27 @@ Secretary for Justice
 
 Secretary for the Civil Service
 
-Secretary for Commerce, Industry and Technology
+Secretary for Commerce and Economic Development
 
-Secretary for Constitutional Affairs
+Secretary for Constitutional and Mainland Affairs
 
-Secretary for Economic Development and Labour
+Secretary for Development
 
-Secretary for Education and Manpower
+Secretary for Education
 
-Secretary for the Environment, Transport and Works
+Secretary for the Environment
 
 Secretary for Financial Services and the Treasury
 
-Secretary for Health, Welfare and Food
+Secretary for Food and Health
 
 Secretary for Home Affairs
 
-Secretary for Housing, Planning and Lands
+Secretary for Labour and Welfare
 
 Secretary for Security
+
+Secretary for Transport and Housing
 
 Permanent Secretary
 
@@ -46,4 +48,4 @@ Principal Assistant Secretary
 
 Assistant Director of Administration
 
-(Schedule 6 replaced L.N. 107 of 2002)
+(Schedule 6 replaced L.N. 134 of 2007)
