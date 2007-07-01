@@ -4,11 +4,7 @@
 
 PROVISIONS WITH RESPECT TO BOARD OF AUTHORITY AND ITS MEMBERS
 
-- 1.
-
-- Terms and conditions of appointment
-
-- and dismissal
+- 1. Terms and conditions of appointment and dismissal
 
   - (1) The Chief Executive shall determine the terms and conditions of appointment of the Chairman.
 
@@ -32,11 +28,7 @@ PROVISIONS WITH RESPECT TO BOARD OF AUTHORITY AND ITS MEMBERS
 
   - the Chief Executive may declare his office as a member of the Board of the Authority to be vacant, and shall notify the fact in such manner as the Chief Executive thinks fit; and upon such declaration, the office shall become vacant.
 
-- 2.
-
-- Fees and allowances payable to members
-
-- of Board of Authority
+- 2. Fees and allowances payable to members of Board of Authority
 
   - (1) The Board of the Authority may pay its non-executive directors such fees and allowances as the Financial Secretary may determine.
 
