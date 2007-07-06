@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[s. 195 & Schs. 2 & 3]
+[ss. 40A, 119B, 195 & 273D & Schs. 2 & 3] (Amended 15 of 2007 s. 73)
 
 EDUCATIONAL ESTABLISHMENTS
 
@@ -32,4 +32,4 @@ EDUCATIONAL ESTABLISHMENTS
 
 - 14. The Hong Kong University of Science and Technology established by The Hong Kong University of Science and Technology Ordinance (Cap. 1141).
 
-- 15. The Open Learning Institute of Hong Kong established by The Open Learning Institute of Hong Kong Ordinance (Cap. 1145).
+- 15. The Open University of Hong Kong established by The Open University of Hong Kong Ordinance (Cap. 1145). (Replaced 15 of 2007 s. 73)
