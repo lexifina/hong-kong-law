@@ -2,7 +2,9 @@
 
 [s. 20(3)]
 
-CONSTITUTION OF SHAW COLLEGE
+CONSTITUTION AND POWERS OF THE BOARD OF TRUSTEES OF SHAW COLLEGE
+
+(18 of 2007 s. 5)
 
 - 1. Interpretation In this Schedule, unless the context otherwise requires—
 
@@ -30,11 +32,11 @@ CONSTITUTION OF SHAW COLLEGE
 
   - (1) The persons who, immediately before the commencement of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139) were members of the Planning Committee shall, on the commencement of that Ordinance, become members of the Board of Trustees.
 
-    - (2) Members of the Board of Trustees who become such members under subparagraph (1) shall hold office for a period of 1 year from the commencement of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139) and shall, subject to the written provision made under paragraph 3(4), be eligible for re-appointment.
+  - (2) Members of the Board of Trustees who become such members under subparagraph (1) shall hold office for a period of 1 year from the commencement of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139) and shall, subject to the written provision made under paragraph 3(4), be eligible for re-appointment.
 
-    - (3) Any person who on the commencement of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139) is, or who becomes, a member of the Board of Trustees may retire as a member of the Board, but no person shall retire so as to reduce the number of members of the Board of Trustees below 4.
+  - (3) Any person who on the commencement of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139) is, or who becomes, a member of the Board of Trustees may retire as a member of the Board, but no person shall retire so as to reduce the number of members of the Board of Trustees below 4.
 
-    - (4) Vacancies in the number of members of the Board of Trustees shall from time to time be filled in accordance with the written provision made under paragraph 3(4) or by such legal means as would have been available for the appointment of new trustees if the Board of Trustees had not been incorporated, and, without prejudice to the generality of the foregoing, section 42 of the Trustee Ordinance (Cap. 29) shall apply in relation to the appointment of new Trustees.
+  - (4) Vacancies in the number of members of the Board of Trustees shall from time to time be filled in accordance with the written provision made under paragraph 3(4) or by such legal means as would have been available for the appointment of new trustees if the Board of Trustees had not been incorporated, and, without prejudice to the generality of the foregoing, section 42 of the Trustee Ordinance (Cap. 29) shall apply in relation to the appointment of new Trustees.
 
 - 5. Registration with Registrar of Companies
 

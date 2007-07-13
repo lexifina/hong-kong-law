@@ -8,7 +8,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
 - STATUTE 1 INTERPRETATION In these Statutes, unless the context otherwise requires—
 
-  - “College” (書院) means a constituent College of the University as provided by section 3 and “Colleges” (各書院) shall be construed accordingly; (59 of 1986 s. 4)
+  - “additional College” (新增書院) means a constituent College other than an original College or Shaw College; (18 of 2007 s. 5)
+
+  - “College” (書院) means a constituent College of the University as provided by section 3; (59 of 1986 s. 4; 18 of 2007 s. 5)
 
   - “Dean” (院長) means the Dean of a Faculty or of the Graduate School, as the case may be; (L.N. 101 of 1995)
 
@@ -52,7 +54,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - (f) the members of the Council;
 
-  - (g) the Heads of the Colleges;
+  - (g) the Heads of the original Colleges and of Shaw College; (18 of 2007 s. 5)
 
   - (h) the members of the Senate;
 
@@ -108,7 +110,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
 - STATUTE 8 THE TREASURER The Treasurer shall be appointed by the Council and shall hold office for 3 years, and may be re-appointed and when he is re-appointed he shall hold office for a further period or periods of 3 years.
 
-- STATUTE 9 THE HEADS OF COLLEGES
+- STATUTE 9 THE HEADS OF ORIGINAL COLLEGES AND OF SHAW COLLEGE (18 of 2007 s. 5)
+
+  - 1A. This Statute only applies to and in relation to the original Colleges and Shaw College. (18 of 2007 s. 5)
 
   - 1. The Head of each College, other than the first Head, shall be appointed or re-appointed by the Council on the recommendation of a committee consisting of—
 
@@ -198,13 +202,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (da) life members appointed by the Council; (L.N. 31 of 1981)
 
-    - (e) 2 members elected by the Board of Trustees of each College from among its own members;
+    - (e) in relation to the original Colleges and Shaw College, 2 members elected by the Board of Trustees of each College from among its own members; (18 of 2007 s. 5)
 
-    - (f) the Head of each College;
+    - (f) the Heads of the original Colleges and of Shaw College; (18 of 2007 s. 5)
 
     - (g) the Dean of each Faculty and of the Graduate School;
 
-    - (h) one Fellow of each College elected by the College’s Assembly of Fellows;
+    - (h) in relation to the original Colleges and Shaw College, one Fellow of each College elected by the College’s Assembly of Fellows; (18 of 2007 s. 5)
 
     - (i) 3 members elected by the Senate from among the academic members of the Senate;
 
@@ -262,7 +266,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (f) to enter into, vary, perform and cancel contracts on behalf of the University;
 
-    - (g) to require the Board of Trustees of each College annually to produce its audited accounts in such form and at such time as the Council may determine;
+    - (g) in relation to the original Colleges and Shaw College, to require the Board of Trustees of each College annually to produce its audited accounts in such form and at such time as the Council may determine; (18 of 2007 s. 5)
 
     - (h) to receive from public sources grants for capital and recurrent expenditure;
 
@@ -326,6 +330,12 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 12. The quorum at any meeting of the Council shall be 12.
 
+- STATUTE 11A CONSTITUTIONS OF ADDITIONAL COLLEGES
+
+  - 1. There shall be a constitution for each additional College. The constitution shall be subject to the approval of the Council.
+
+  - 2. The name, structure and organization of each additional College shall be determined by the Council. (18 of 2007 s. 5)
+
 - STATUTE 12 FINANCIAL PROCEDURE
 
   - 1. The Council shall fix the financial year.
@@ -336,7 +346,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (b) the Vice-Chancellor or his representative;
 
-    - (c) the Head of each College; and
+    - (c) the Heads of the original Colleges and of Shaw College; and (18 of 2007 s. 5)
 
     - (d) 3 other persons, including persons who are not members of the Council, as the Council shall appoint.
 
@@ -344,7 +354,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 3. The Finance Committee shall submit to the Council, before the beginning of the financial year, draft estimates of income and expenditure of the University and such estimates, amended as the Council may think fit, shall be approved by the Council before the beginning of the financial year.
 
-  - 4. The estimates shall show the income and expenditure of the University and the estimated surplus or deficit for the year. The estimated expenditure shall be shown under votes, heads and (where applicable) sub-heads. Any transfer between votes or heads shall require the sanction of the Finance Committee. Any transfer between sub-heads shall require the sanction of the Vice-Chancellor and the Treasurer, with the exception of transfers between sub-heads solely concerning a College, which shall require the sanction of the Head of that College, subject to any rules and directions that the Finance Committee may issue.
+  - 4. The estimates shall show the income and expenditure of the University and the estimated surplus or deficit for the year. The estimated expenditure shall be shown under votes, heads and (where applicable) sub-heads. Any transfer between votes or heads shall require the sanction of the Finance Committee. Any transfer between sub-heads shall require the sanction of the Vice-Chancellor and the Treasurer, with the exception of transfers between sub-heads solely concerning an original College or Shaw College, which shall require the sanction of the Head of the College concerned, subject to any rules and directions that the Finance Committee may issue. (18 of 2007 s. 5)
 
   - 5. The Finance Committee shall report to the Council, at such times as the Council may determine, any transfer between votes or heads. The Council may revise the estimates during the course of the financial year.
 
@@ -362,7 +372,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (b) the Pro-Vice-Chancellors;
 
-    - (c) the Head of each College;
+    - (c) the Heads of the original Colleges and of Shaw College; (18 of 2007 s. 5)
 
     - (d) the Dean of each Faculty and of the Graduate School;
 
@@ -398,7 +408,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (b) the Pro-Vice-Chancellors;
 
-    - (c) the Head of each College;
+    - (c) the Heads of the original Colleges and of Shaw College; (18 of 2007 s. 5)
 
     - (d) the Dean of each Faculty and of the Graduate School;
 
@@ -408,7 +418,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (fa) the Director of the School of Continuing and Professional Studies of the University; (L.N. 257 of 2000; L.N. 38 of 2007)
 
-    - (g) 2 Fellows of each College elected by the College’s Assembly of Fellows; (L.N. 25 of 1987)
+    - (g) in relation to the original Colleges and Shaw College, 2 Fellows of each College elected by the College’s Assembly of Fellows; (L.N. 25 of 1987; 18 of 2007 s. 5)
 
     - (h) the Registrar;
 
@@ -420,9 +430,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (l) 1 student of each Faculty of the University elected by, and from among, full-time students in that Faculty pursuing approved courses of study for a degree of the University; (L.N. 175 of 1996; L.N. 357 of 2000)
 
-    - (m) 1 student representing the Students Union of each College of the University elected by, and from among, full-time students pursuing approved courses of study for a degree of the University who are members of that Students Union. (L.N. 357 of 2000)
+    - (m) in relation to the original Colleges and Shaw College, 1 student representing the Students Union of each College of the University elected by, and from among, full-time students pursuing approved courses of study for a degree of the University who are members of that Students Union. (L.N. 357 of 2000; 18 of 2007 s. 5)
 
-  - 2. Members of the Senate (other than Fellows and student members elected under paragraph 1(l) or (m) shall remain members of the Senate for so long as they hold the office or appointment by reason of which they became members of the Senate. (L.N. 251 of 1988; L.N. 357 of 2000)
+  - 2. Members of the Senate (other than Fellows elected under paragraph 1(g) and student members elected under paragraph 1(l) or (m)) shall remain members of the Senate for so long as they hold the office or appointment by reason of which they became members of the Senate. (L.N. 251 of 1988; L.N. 357 of 2000; 18 of 2007 s. 5)
 
   - 3.
 
@@ -540,11 +550,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (3) On the recommendation of the Vice-Chancellor, the Dean of each Faculty shall be eligible for re-appointment by the Council, and each period of re-appointment shall be for a period of 5 years or such shorter period as may be determined by the Council, provided that a Dean’s total period of appointment (not including any period he has previously served as a Dean elected under paragraphs 3 and 4 as repealed by the Statutes of The Chinese University of Hong Kong (Amendment) (No. 2) Statute 2007 (L.N. 109 of 2007) (“the Amendment Statute”)) shall not exceed 10 years. (L.N. 109 of 2007)
 
-  - 4. The Dean of any Faculty elected under paragraph 3 or 4 as repealed by the Amendment Statute and holding office as such Dean immediately before the commencement of the Amendment Statute shall continue to hold that office until the expiry of his current term of office or until such time when he vacates the office before such expiry. (L.N. 109 of 2007)
+  - 4. The Dean of any Faculty elected under paragraph 3 or 4 as repealed by the Amendment Statute and holding office as such Dean immediately before the commencement* of the Amendment Statute shall continue to hold that office until the expiry of his current term of office or until such time when he vacates the office before such expiry. (L.N. 109 of 2007)
 
-  - 5.
-
-  - Each Faculty shall meet at least once a year, and shall have the power to discuss any matters relating to the Faculty and to express its opinion thereon to the Senate.
+  - 5. Each Faculty shall meet at least once a year, and shall have the power to discuss any matters relating to the Faculty and to express its opinion thereon to the Senate.
 
   - 6. A Board of Faculty shall be established for each Faculty and shall consist of—
 
@@ -556,13 +564,15 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (f) other Professors, Readers and Directors of Studies within the Faculty;
 
-    - (g) one representative of each Assembly of Fellows who shall be a member of the Faculty; (L.N. 452 of 1994)
+    - (g) in relation to the original Colleges and Shaw College, one representative of each Assembly of Fellows who shall be a member of the Faculty; (L.N. 452 of 1994; 18 of 2007 s. 5)
 
     - (h) 2 Senior Lecturers elected by the Senior Lecturers within the Faculty;
 
     - (i) 4 Lecturers or Assistant Lecturers elected by the Lecturers and Assistant Lecturers within the Faculty.
 
-  - 6A. (1) At the discretion of the Board of a Faculty, the Board may nominate a student of the Faculty as the Board deems fit as student member for such period as the Board may in its absolute discretion determine.
+  - 6A.
+
+    - (1) At the discretion of the Board of a Faculty, the Board may nominate a student of the Faculty as the Board deems fit as student member for such period as the Board may in its absolute discretion determine.
 
     - (2) The Senate may determine—
 
@@ -630,27 +640,29 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - At least 3 of the 6 Fellows so appointed shall be drawn from the existing staff of that College.
 
-  - 2. The Fellows of each College appointed under paragraph 1, together with the Head of the College, shall form an Assembly of Fellows for that College.
+  - 2A. In relation to the original Colleges and Shaw College, the Fellows of each College appointed under paragraph 1 shall, together with the Head of that College, form an Assembly of Fellows of that College. (18 of 2007 s. 5)
 
-  - 3. The Head of a College shall be the Chairman of the Assembly of Fellows of that College.
+  - 2B. In relation to the additional Colleges, the Fellows of each College appointed under paragraph 1 shall form an Assembly of Fellows of that College. (18 of 2007 s. 5)
+
+  - 3. In relation to the original Colleges and Shaw College, the Head of a College shall be the Chairman of the Assembly of Fellows of that College. (18 of 2007 s. 5)
 
   - 4. Subject to paragraph 6, the Assembly of Fellows of each College may elect additional Fellows to that Assembly from the academic staff of the University who have been assigned to the College concerned.
 
   - 5. A Fellow shall hold office for 5 years and shall be eligible to hold office again as a Fellow.
 
-  - 6. The Assembly of Fellows of each College shall—
+  - 6. In relation to the original Colleges and Shaw College, the Assembly of Fellows of each College shall—
 
-    - (a) elect one of their number to be a member of the Council;
+    - (a) elect one of their number to be a member of the Council; and
 
-    - (b) when necessary, elect 6 Fellows of varying academic seniority for the purposes of serving on the Committee constituted under paragraph 1 of Statute 9;
+    - (b) when necessary, elect 6 Fellows of varying academic seniority for the purposes of serving on the Committee constituted under paragraph 1 of Statute 9. (18 of 2007 s. 5)
 
-    - (c) be responsible for—
+  - 6A. The Assembly of Fellows of each College shall be responsible for—
 
-      - (i) arranging the tutorial instruction, pastoral counselling and student-orientated teaching of the students assigned to the College;
+    - (a) arranging the tutorial instruction, pastoral counselling and student-orientated teaching of the students assigned to the College;
 
-      - (ii) the supervision of residential accommodation for certain students at the College; and
+    - (b) the supervision of residential accommodation for certain students at the College; and
 
-      - (iii) the maintenance of discipline within the College.
+    - (c) the maintenance of discipline within the College. (18 of 2007 s. 5)
 
   - 7. An Assembly of Fellows may make Standing Orders for the proper conduct of its business.
 
@@ -744,7 +756,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - (b) the Pro-Vice-Chancellors;
 
-  - (c) the Head of each of the Colleges;
+  - (c) the Heads of the original Colleges and of Shaw College; (18 of 2007 s. 5)
 
   - (d) the teachers;
 
@@ -764,7 +776,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (c) 2 members of the Senate, appointed by the Senate, who are not members of the College to which the appointee will be assigned;
 
-    - (d) the Head of the College to which the appointee will be assigned;
+    - (d) (if the College to which the appointee will be assigned is an original College or Shaw College) the Head of the College concerned; (18 of 2007 s. 5)
 
     - (e) the Chairman of the Department or head of the unit in which the appointment is to be made, except that no such Chairman or head shall serve on a Board that is concerned with a post senior to his own post; and (L.N. 452 of 1994; L.N. 25 of 2002)
 
@@ -778,7 +790,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (c) 2 members of the Senate appointed by the Senate, who are not members of the College to which the appointee will be assigned;
 
-    - (d) the Head of the College to which the appointee will be assigned;
+    - (d) (if the College to which the appointee will be assigned is an original College or Shaw College) the Head of the College concerned; (18 of 2007 s. 5)
 
     - (e) the Chairman of the Department or head of the unit in which the appointment is to be made; and (L.N. 452 of 1994; L.N. 25 of 2002)
 
@@ -792,7 +804,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (c) one member of the Senate appointed by the Senate, who is not a member of the College to which the appointee will be assigned;
 
-    - (d) the Head of College to which the appointee will be assigned;
+    - (d) (if the College to which the appointee will be assigned is an original College or Shaw College) the Head of the College concerned; and (18 of 2007 s. 5)
 
     - (e) the Chairman of the Department or head of the unit in which the appointment is to be made. (L.N. 452 of 1994; L.N. 25 of 2002)
 
@@ -862,7 +874,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
 
-  - 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Head of each of the Colleges, any of the Professors or Readers or Senior Lecturers, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council.
+  - 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Heads of the original Colleges and of Shaw College, any of the Professors or Readers or Senior Lecturers, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council. (18 of 2007 s. 5)
 
   - 4. The Council may and shall if requested by the person concerned or by any 3 members of the Council before such removal appoint a committee consisting of the Chairman of the Council, 2 other members of the Council and 3 members of the Senate to examine the complaint and to report to the Council thereof.
 
@@ -1090,13 +1102,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (b) the Vice-Chancellor;
 
-    - (c) the Heads of the Colleges;
+    - (c) the Heads of the original Colleges and of Shaw College; (18 of 2007 s. 5)
 
     - (d) the Chairman of the Council;
 
     - (e) 2 members of the Council nominated by the Council; and
 
-    - (f) members of the Senate, equal in number to the number of the Colleges, elected by the Senate.
+    - (f) 4 members elected by the Senate from among its own members. (18 of 2007 s. 5)
 
   - 13. The University may award diplomas and certificates—
 
@@ -1137,3 +1149,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
     - (c) visit the University not less than once every 3 years to review in depth the examinations on site. (L.N. 282 of 1991)
 
 - STATUTE 28 CITATION The Statutes may be cited as the Statutes of The Chinese University of Hong Kong.
+
+Editorial Note:
+
+*Commencement date: 8 June 2007.

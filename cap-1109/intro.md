@@ -1,6 +1,6 @@
-To repeal and replace The Chinese University of Hong Kong Ordinance, to repeal the Chung Chi College Incorporation Ordinance, the Board of Trustees of The United College of Hong Kong Incorporation Ordinance and the New Asia College Incorporation Ordinance and to make new provision concerning the Chung Chi College, The United College of Hong Kong and the New Asia College, to make provision for Shaw College, and for purposes connected therewith.
+To repeal and replace The Chinese University of Hong Kong Ordinance, to repeal the Chung Chi College Incorporation Ordinance, the Board of Trustees of The United College of Hong Kong Incorporation Ordinance and the New Asia College Incorporation Ordinance and to make new provision concerning the Chung Chi College, The United College of Hong Kong and the New Asia College, to make provision for Shaw College, Morningside College and S. H. Ho College, and for purposes connected therewith.
 
-(Amended 59 of 1986 s. 4)
+(Amended 59 of 1986 s. 4; 18 of 2007 s. 5)
 
 [24 December 1976]
 
@@ -14,7 +14,7 @@ Preamble WHEREAS—
 
 - (d) it is also considered desirable to make certain alterations in the constitution of The Chinese University of Hong Kong;
 
-- (da) the Council of the University has, by special resolution, resolved that Shaw College shall be a constituent College of the University; (Added 59 of 1986 s. 4)
+- (da) the Council of the University has, by special resolutions, resolved that Shaw College, Morningside College and S. H. Ho College shall be constituent Colleges of the University; (Added 59 of 1986 s. 4. Amended 18 of 2007 s. 5)
 
 - (e) it is declared that The Chinese University of Hong Kong, in which the principal language of instruction shall be Chinese, shall continue to—
 

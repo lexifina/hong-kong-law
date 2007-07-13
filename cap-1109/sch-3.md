@@ -1,8 +1,10 @@
 # SCHEDULE 3
 
-[ss. 19(2) & 20(2)]
+[s. 20(2)] (18 of 2007 s. 5)
 
-CONSTITUTION OF THE ORIGINAL COLLEGES
+CONSTITUTION AND POWERS OF THE BOARDS OF TRUSTEES OF THE ORIGINAL COLLEGES
+
+(18 of 2007 s. 5)
 
 - 1. Interpretation In this Schedule, unless the context otherwise requires—
 
@@ -24,7 +26,7 @@ CONSTITUTION OF THE ORIGINAL COLLEGES
 
 - 3. Powers and duties of Boards of Trustees
 
-  - (1) Each Board of Trustees shall hold in trust, and administer for the benefit of its College the movable property which is vested in the Board under paragraph 7; and shall hold in trust for the benefit of the University the buildings the subject of the agreements to be made under paragraph 2 of Schedule 2.*
+  - (1) Each Board of Trustees shall hold in trust, and administer for the benefit of its College the movable property which is vested in the Board under paragraph 7; and shall hold in trust for the benefit of the University the buildings the subject of the agreements to be made under paragraph 2 of Schedule 2*.
 
   - (2) Subject to subparagraph (3), each Board of Trustees may, for the purpose of the trusts under subparagraph (1), exercise the powers conferred on trustees by the Trustee Ordinance (Cap. 29).
 
@@ -80,11 +82,7 @@ CONSTITUTION OF THE ORIGINAL COLLEGES
 
 - 6. Accounts Each Board of Trustees shall in each year, prepare and produce to the Council its audited accounts in such form and at such times as the Council may determine.
 
-- 7.
-
-- Transitional provisions
-
-- On the commencement of this Ordinance—
+- 7. Transitional provisions On the commencement of this Ordinance—
 
   - (a) all movable property held on trust by or for each College and all immovable property held by or on behalf of the Colleges outside the precincts of the University shall vest in the Board of Trustees of the College concerned without further assurance and on the same trusts and subject to the same terms and conditions, if any, on which the same was then held;
 
