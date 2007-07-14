@@ -16,7 +16,7 @@ Column 1 | Column 2
 
 (e) Bus stop loop on Scenic Road.
 
-(f) The section of the access road to the bus terminus next to AsiaWorld-Expo near its junction with Sky City Road, being the area delineated by hatching on a plan numbered PSU/P330/C/0019/A and deposited in the head office of the Authority. (L.N. 233 of 2005)
+(f) The section of the access road to the bus terminus next to Asia World-Expo near its junction with Sky City Road, being the area delineated by hatching on a plan numbered PSU/P330/C/0019/A and deposited in the head office of the Authority. (L.N. 233 of 2005)
 
 2. | (a) The hotel vehicle pick-up area, being the area on Cheong Shun Road delineated by hatching on a plan numbered PSU/P250/C/00361/F and deposited in the head office of the Authority. (L.N. 233 of 2005) | All motor vehicles.
 
@@ -49,3 +49,9 @@ Column 1 | Column 2
 3. | All designated roads at Chek Lap Kok, being the areas shown in green or red on a plan numbered AAHK/BL/6/001/H and deposited in the head office of the Authority. | All motor vehicles driven by learner drivers. (L.N. 202 of 2006)
 
 4. | The taxi pick-up and staging area which is about 240 m east of the junction of Sky City Road and Airport Expo Boulevard, being the area delineated by hatching on a plan numbered PSU/P330/C/0020/A and deposited in the head office of the Authority. (L.N. 233 of 2005) | All motor vehicles except taxis.
+
+5. | Light Goods Vehicles Access Area, Light Goods Vehicles Loading Area and Light Goods Vehicles Unloading Area to the east of Cheong Shun Road, being the area shown in yellow on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. | All motor vehicles except light goods vehicles. (L.N. 88 of 2007)
+
+6. | The access road linking Cheong Shun Road and Light Goods Vehicles Access Area to the east of Cheong Shun Road, being the area shown in red on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. | All motor vehicles exceeding 7 m in overall length. (L.N. 88 of 2007)
+
+7. | (a) Car Park No. 1 and Government Car Park to the east of Cheong Shun Road, being the area shown in blue on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. (b) Car Park No. 2 to the north-west of Airport South Interchange, being the area shown in green on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. (c) Car Park No. 4 (multi-storey car park) to the west of the access road linking northern and southern parts of Cheong Tat Road, being the area shown in pink on a plan numbered TSP/000/C/1151A and deposited in the head office of the Authority. | All goods vehicles and taxis. (L.N. 88 of 2007)

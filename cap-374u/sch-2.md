@@ -4,6 +4,8 @@
 
 RESTRICTED ZONES
 
+- PART 1 (L.N. 88 of 2007)
+
 Column 1 | Column 2
 
 1. | (a) Airport Road. | All motor vehicles except franchised buses.
@@ -92,6 +94,8 @@ Column 1 | Column 2
 
 (c) Cheong Shun Road. (L.N. 233 of 2005)
 
+(d) Light Goods Vehicles Access Area to the east of Cheong Shun Road, being the area shown in yellow on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. (L.N. 88 of 2007)
+
 5. | (a) The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction. (L.N. 202 of 2006) | All goods vehicles.
 
 (b) The eastern kerbside lane, including the layby, of the section of Sky Plaza Road, being the area shown in red on a plan numbered PSU/P350/G/2004/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
@@ -99,3 +103,13 @@ Column 1 | Column 2
 6. | Tung Fai Road. (L.N. 207 of 2000) | All motor vehicles except franchised buses.
 
 7. | The road intersecting the south end of Tung Fai Road, being the area delineated by hatching on a plan numbered AMD/LOD/GZ/008A and deposited in the head office of the Authority. (L.N. 207 of 2000) | All motor vehicles except franchised buses.
+
+- PART 2
+
+Column 1 | Column 2 | Column 3
+
+1. | Light Goods Vehicles Unloading Area to the east of Cheong Shun Road, being the area shown in red on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. | (a) Light goods vehicles. (b) Other motor vehicles. | Loading goods. Picking up passengers, setting down passengers, loading goods and unloading goods.
+
+2. | Light Goods Vehicles Loading Area to the east of Cheong Shun Road, being the area shown in green on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. | (a) Light goods vehicles. (b) Other motor vehicles. | Unloading goods. Picking up passengers, setting down passengers, loading goods and unloading goods.
+
+(L.N. 88 of 2007)
