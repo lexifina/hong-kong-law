@@ -71,6 +71,7 @@ s-041B.md
 s-042A.md
 s-042B.md
 s-042C.md
+s-042CA.md
 s-042D.md
 s-042E.md
 s-042F.md
