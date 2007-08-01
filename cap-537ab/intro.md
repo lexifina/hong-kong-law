@@ -1,5 +1,3 @@
 UNITED NATIONS SANCTIONS (DEMOCRATIC REPUBLIC OF THE CONGO) REGULATION 2006
 
-(Cap. 537, section 3)
-
-[17 November 2006]
+(Omitted as expired)
