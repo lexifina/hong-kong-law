@@ -4,8 +4,6 @@
 
 FURTHER EXCEPTIONS TO THIS ORDINANCE
 
-(Adaptation amendments retroactively made - see 76 of 1999 s. 3)
-
 - PART 1 INTERPRETATION
 
   - 1. Interpretation In this Schedule—
@@ -30,7 +28,7 @@ FURTHER EXCEPTIONS TO THIS ORDINANCE
 
       - (f) the Customs and Excise Service within the meaning of the Customs and Excise Service Ordinance (Cap. 342);
 
-    - “reproductive technology procedure” (生育科技程序) means any medical treatment or scientific intervention directed at assisting human reproduction by artificial means, and includes in vitro fertilisation, artificial insemination, gender selection and manipulation of gametes or embryos outside the body.
+    - “reproductive technology procedure” (生殖科技程序) has the meaning assigned to it by section 2 of the Human Reproductive Technology Ordinance (Cap. 561). (Replaced 47 of 2000 s. 48)
 
 - PART 2 EXCEPTIONS
 
@@ -50,7 +48,7 @@ Provision creating illegality | Exception
 
 7. | Parts III, IV and V | Any discrimination between men and women arising from— (a) section 2(5)(a) of the Surviving Spouses’ and Children’s Pensions Ordinance (Cap. 79); (b) section 18(1A) of the Pensions Ordinance (Cap. 89); (c) section 19 of the Widows and Orphans Pension Ordinance (Cap. 94); (d) section 19(4) of the Pension Benefits Ordinance (Cap. 99); or (e) section 20(4) of the Pension Benefits (Judicial Officers) Ordinance (Cap. 401).
 
-8. | Parts III, IV and V | Any discrimination between persons of different marital status arising from the proviso to regulation 4(1) of the Royal Hong Kong Auxiliary Police Force (Pensions) Regulations* (Cap. 233 sub. leg.).
+8. | Parts III, IV and V | Any discrimination between persons of different marital status arising from the proviso to regulation 4(1) of the Royal Hong Kong Auxiliary Police Force (Pensions) Regulations* (Cap. 233 sub. leg. B).
 
 Editorial Note:
 
