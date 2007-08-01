@@ -1,6 +1,6 @@
 # SCHEDULE 7
 
-[ss. 34D, 34E, 34J, 40D & 42] (Amended 69 of 2000 s. 25)
+[ss. 34D, 34E, 34J, 40D & 42] (Amended 69 of 2000 s. 25; 5 of 2007 s. 32)
 
 MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
@@ -12,13 +12,13 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
     - (a) prepare a draft budget setting out the proposed expenditure during the financial year;
 
-    - (b) send a copy of the draft budget to the owners’ committee or, where there is no owners’ committee, display a copy of the draft budget in a prominent place in the building;
+    - (b) send a copy of the draft budget to the owners’ committee or, where there is no owners’ committee, display a copy of the draft budget in a prominent place in the building, and cause it to remain so displayed for at least 7 consecutive days; (Amended 5 of 2007 s. 32)
 
     - (c) send or display, as the case may be, with the copy of the draft budget a notice inviting each owner to send his comments on the draft budget to the manager within a period of 14 days from the date the draft budget was sent or first displayed;
 
     - (d) after the end of that period, prepare a budget specifying the total proposed expenditure during the financial year;
 
-    - (e) send a copy of the budget to the owners’ committee or, where there is no owners’ committee, display a copy of the budget in a prominent place in the building.
+    - (e) send a copy of the budget to the owners’ committee or, where there is no owners’ committee, display a copy of the budget in a prominent place in the building, and cause it to remain so displayed for at least 7 consecutive days. (Amended 5 of 2007 s. 32)
 
   - (3) Where, in respect of a financial year, the manager has not complied with subparagraph (2) before the start of that financial year, the total amount of the management expenses for that year shall—
 
@@ -42,9 +42,9 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
   - (1) The manager shall maintain proper books or records of account and other financial records and shall keep all bills, invoices, vouchers, receipts and other documents referred to in those books and records for at least 6 years.
 
-  - (2) Within 1 month after each consecutive period of 3 months, or such shorter period as the manager may select, the manager shall prepare a summary of income and expenditure in respect of that period and shall display a copy of it in a prominent place in the building.
+  - (2) Within 1 month after each consecutive period of 3 months, or such shorter period as the manager may select, the manager shall prepare a summary of income and expenditure and a balance sheet in respect of that period, display a copy of the summary and balance sheet in a prominent place in the building, and cause it to remain so displayed for at least 7 consecutive days. (Amended 5 of 2007 s. 32)
 
-  - (3) Within 2 months after the end of each financial year, the manager shall prepare an income and expenditure account and balance sheet for that year.
+  - (3) Within 2 months after the end of each financial year, the manager shall prepare an income and expenditure account and balance sheet for that year, display a copy of the income and expenditure account and balance sheet in a prominent place in the building, and cause it to remain so displayed for at least 7 consecutive days. (Amended 5 of 2007 s. 32)
 
   - (4) Each income and expenditure account and balance sheet shall include details of the special fund required by paragraph 4 and an estimate of the time when there will be a need to draw on that fund, and the amount of money that will be then needed.
 
@@ -54,15 +54,23 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
     - (b) on payment of a reasonable copying charge, supply any owner with a copy of any record or document requested by him.
 
-  - (6) If there is a corporation and the corporation decides, by a resolution of the owners, that any income and expenditure account and balance sheet should be audited by an accountant of by some other independent auditor as may be specified in that resolution, the manager shall without delay arrange for such an audit to be carried out by that person.
+  - (6) If there is a corporation and the corporation decides, by a resolution of the owners, that any income and expenditure account and balance sheet should be audited by an accountant of by some other independent auditor as may be specified in that resolution, the manager shall without delay arrange for such an audit to be carried out by that person and— (Amended 5 of 2007 s. 32)
+
+    - (a) permit any owner, at any reasonable time, to inspect the audited income and expenditure account and balance sheet and the report made by the accountant or auditor in respect of the income and expenditure account and balance sheet; and
+
+    - (b) on payment of a reasonable copying charge, supply any owner with a copy of the audited income and expenditure account and balance sheet, or the report made by the accountant or auditor in respect of the income and expenditure account and balance sheet, or both, as requested by the owner. (Amended 5 of 2007 s. 32)
 
   - (7) The financial year may not be changed more than once in every 5 years, unless that change is previously approved by a resolution of the owners’ committee (if any).
 
-- 3. Manager to maintain bank account
+- 3. Manager to open and maintain bank account (Amended 5 of 2007 s. 32)
 
-  - (1) The manager shall maintain an interest-bearing account and shall use that account exclusively in respect of the management of the building.
+  - (1) The manager shall open and maintain an interest-bearing account and shall use that account exclusively in respect of the management of the building. (Amended 5 of 2007 s. 32)
 
-  - (2) Subject to subparagraphs (3) and (4), the manager shall without delay pay all money received by him in respect of the management of the building into the account maintained under subparagraph (1).
+  - (1A) Without prejudice to the generality of subparagraph (1), if there is a corporation, the manager shall open and maintain one or more segregated interest-bearing accounts, each of which shall be designated as a trust account or client account, for holding money received by him from or on behalf of the corporation in respect of the management of the building. (Added 5 of 2007 s. 32)
+
+  - (1B) The manager shall display a document showing evidence of any account opened and maintained under subparagraph (1) or (1A) in a prominent place in the building. (Added 5 of 2007 s. 32)
+
+  - (2) Subject to subparagraphs (3) and (4), the manager shall without delay pay all money received by him in respect of the management of the building into the account opened and maintained under subparagraph (1) or, if there is a corporation, the account or accounts opened and maintained under subparagraph (1A). (Amended 5 of 2007 s. 32)
 
   - (3) Subject to subparagraph (4), the manager may, out of money received by him in respect of the management of the building, retain or pay into a current account a reasonable amount to cover expenditure of a minor nature, but that amount shall not exceed such figure as is determined from time to time by a resolution of the owners’ committee (if any).
 
@@ -76,13 +84,57 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
   - (2) If there is a corporation, the corporation shall determine, by a resolution of the owners, the amount to be contributed to the special fund by the owners in any financial year, and the time when those contributions shall be payable.
 
-  - (3) The manager shall maintain at a bank within the meaning of section 2 of the Banking Ordinance (Cap. 155) an interest-bearing account, the title of which shall refer to the special fund for the building, and shall use that account exclusively for the purpose referred to in subparagraph (1). (Amended 49 of 1995 s. 53)
+  - (3) The manager shall open and maintain at a bank within the meaning of section 2 of the Banking Ordinance (Cap. 155) an interest-bearing account, the title of which shall refer to the special fund for the building, and shall use that account exclusively for the purpose referred to in subparagraph (1). (Amended 49 of 1995 s. 53; 5 of 2007 s. 32)
 
-  - (4) The manager shall without delay pay all money received by him in respect of the special fund into the account maintained under subparagraph (3).
+  - (3A) Without prejudice to the generality of subparagraph (3), if there is a corporation, the manager shall open and maintain one or more segregated interest-bearing accounts, each of which shall be designated as a trust account or client account, for holding money received by him from or on behalf of the corporation in respect of the special fund. (Added 5 of 2007 s. 32)
+
+  - (3B) The manager shall display a document showing evidence of any account opened and maintained under subparagraph (3) or (3A) in a prominent place in the building. (Added 5 of 2007 s. 32)
+
+  - (4) The manager shall without delay pay all money received by him in respect of the special fund into the account opened and maintained under subparagraph (3) or, if there is a corporation, the account or accounts opened and maintained under subparagraph (3A). (Amended 5 of 2007 s. 32)
 
   - (5) Except in a situation considered by the manager to be an emergency, no money shall be paid out of the special fund unless it is for a purpose approved by a resolution of the owners’ committee (if any).
 
-- 5. Contracts entered into by manager The manager shall not, in any financial year, enter any contract that involves an average annual expenditure of more than 20% of the budget or revised budget, as the case may be, for that financial year or of such greater amount as the Authority may specify by notice in the Gazette unless the contract complies with such standards and guidelines as may be specified in a Code of Practice referred to in section 20A(3) and relating to procurement and tender procedures.
+- 5. Contracts entered into by manager
+
+  - (1) Subject to subparagraphs (2) and (3), the manager shall not enter into any contract for the procurement of any supplies, goods or services the value of which exceeds or is likely to exceed the sum of $200,000 or such other sum in substitution therefor as the Authority may specify by notice in the Gazette unless—
+
+    - (a) the supplies, goods or services are procured by invitation to tender; and
+
+    - (b) the procurement complies with the Code of Practice referred to in section 20A(1).
+
+  - (2) Subject to subparagraph (3), the manager shall not enter into any contract for the procurement of any supplies, goods or services the value of which exceeds or is likely to exceed a sum which is equivalent to 20% of the annual budget or such other percentage in substitution therefor as the Authority may specify by notice in the Gazette unless—
+
+    - (a) if there is a corporation—
+
+      - (i) the supplies, goods or services are procured by invitation to tender;
+
+      - (ii) the procurement complies with the Code of Practice referred to in section 20A(1); and
+
+      - (iii) whether a tender submitted for the purpose is accepted or not is decided by a resolution of the owners passed at a general meeting of the corporation, and the contract is entered into with the successful tenderer; or
+
+    - (b) if there is no corporation—
+
+      - (i) the supplies, goods or services are procured by invitation to tender;
+
+      - (ii) the procurement complies with the Code of Practice referred to in section 20A(1); and
+
+      - (iii) whether a tender submitted for the purpose is accepted or not is decided by a resolution of the owners passed at a meeting of owners convened and conducted in accordance with the deed of mutual covenant, and the contract is entered into with the successful tenderer.
+
+  - (3) Subparagraphs (1) and (2) do not apply to any supplies, goods or services which but for this subparagraph would be required to be procured by invitation to tender (referred to in this subparagraph as “relevant supplies, goods or services”)—
+
+    - (a) where there is a corporation, if—
+
+      - (i) the relevant supplies, goods or services are of the same type as any supplies, goods or services which are for the time being supplied to the corporation by a supplier; and
+
+      - (ii) the corporation decides by a resolution of the owners passed at a general meeting of the corporation that the relevant supplies, goods or services shall be procured from that supplier on such terms and conditions as specified in the resolution, instead of by invitation to tender; or
+
+    - (b) where there is no corporation, if—
+
+      - (i) the relevant supplies, goods or services are of the same type as any supplies, goods or services which are for the time being supplied to the owners by a supplier; and
+
+      - (ii) the owners decide by a resolution of the owners passed at a meeting of owners convened and conducted in accordance with the deed of mutual covenant that the relevant supplies, goods or services shall be procured from that supplier on such terms and conditions as specified in the resolution, instead of by invitation to tender.
+
+- (Replaced 5 of 2007 s. 32)
 
 - 6. Resignation of manager
 
@@ -90,59 +142,57 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
     - (a) by sending such a notice to the owners’ committee; or
 
-    - (b) where there is no owners’ committee, by serving such a notice on each of the owners and by displaying such a notice in a prominent place in the building.
+    - (b) where there is no owners’ committee, by giving such a notice to each of the owners and by displaying such a notice in a prominent place in the building.
 
-  - (2) Service of a notice on an owner under this paragraph may be effected—
+  - (2) The notice referred to in subparagraph (1)(b) may be given— (Amended 5 of 2007 s. 32)
 
-    - (a) personally upon the owner; or
+    - (a) by delivering it personally to the owner; or
 
-    - (b) by post addressed to the owner at his last known address; or
+    - (b) by sending it by post to the owner at his last known address; or
 
-    - (c) by leaving the notice at the owner’s flat or depositing the notice in his letter box. (Amended 12 of 1998 s. 9)
+    - (c) by leaving it at the owner’s flat or depositing it in the letter box for that flat. (Amended 12 of 1998 s. 9)
 
-- 7.
+- (Amended 5 of 2007 s. 32)
 
-- Termination of manager’s appointment
+- 7. Termination of manager’s appointment by owners’ corporation
 
-- by owners’ corporation
+  - (1) Subject to subparagraph (5A), at a general meeting convened for the purpose, a corporation may, by a resolution—
 
-  - (1) Subject to subparagraph (5) and (5A), at a general meeting convened for the purpose a corporation may, by a resolution of the owners of not less than 50% of the shares, terminate by notice the manager’s appointment without compensation. (Amended 69 of 2000 s. 25)
+    - (a) passed by a majority of the votes of the owners voting either personally or by proxy; and
+
+    - (b) supported by the owners of not less than 50% of the shares in aggregate,
+
+  - terminate by notice the DMC manager’s appointment without compensation. (Replaced 5 of 2007 s. 32)
 
   - (2) A resolution under subparagraph (1) shall have effect only if—
 
     - (a) the notice of termination of appointment is in writing;
 
-    - (b) provision is made in the resolution for a period of not less than 3 months notice or, in lieu of notice, provision is made for an agreement to be made with the manager for the payment to him of a sum equal to the amount of remuneration which would have accrued to him during that period; (Replaced 69 of 2000 s. 25)
+    - (b) provision is made in the resolution for a period of not less than 3 months notice or, in lieu of notice, provision is made for an agreement to be made with the DMC manager for the payment to him of a sum equal to the amount of remuneration which would have accrued to him during that period; (Replaced 69 of 2000 s. 25)
 
-    - (c) the notice is accompanied by a copy of the resolution terminating the manager’s appointment; and
+    - (c) the notice is accompanied by a copy of the resolution terminating the DMC manager’s appointment; and
 
-    - (d) the notice and the copy of the resolution is served upon the manager not more than 14 days after the date of the meeting.
+    - (d) the notice and the copy of the resolution is given to the DMC manager within 14 days after the date of the meeting.
 
-  - (3) Service of the notice and the copy of the resolution required to be served under subparagraph (2)(d) may be effected—
+  - (3) The notice and the copy of the resolution referred to in subparagraph (2)(d) may be given— (Amended 5 of 2007 s. 32)
 
-    - (a) personally upon the manager; or
+    - (a) by delivering them personally to the DMC manager; or
 
-    - (b) by post addressed to the manager at his last known address; or
+    - (b) by sending them by post to the DMC manager at his last known address.
 
-    - (c) by leaving the notice at the address of the registered office of the corporation.
+    - (c) (Repealed 5 of 2007 s. 32)
 
-  - (4) This paragraph operates without prejudice to any other power there may be to terminate the manager’s appointment.
-
-  - (5) The manager’s appointment may not be terminated under this paragraph—
-
-    - (a) in the case of a corporation in respect of which a certificate of registration was issued under section 8 prior to the commencement of section 41 of the Multi-storey Buildings (Owners Incorporation) (Amendment) Ordinance 1993 (27 of 1993), by a notice that expires before the end of a period of 9 months from that commencement;
-
-    - (b) in any other case, by a notice that expires before the end of a period of 1 year from the commencement of section 41 of the Multi-storey Buildings (Owners Incorporation) (Amendment) Ordinance 1993 (27 of 1993);
-
-    - (c) if, within the previous 3 years, the appointment of a previous manager was terminated under this paragraph; or
-
-    - (d) if the manager was appointed by the corporation under subparagraph (6)(b).
+  - (4)-(5) (Repealed 5 of 2007 s. 32)
 
   - (5A) For the purposes of subparagraph (1)—
 
     - (a) only the owners of shares who pay or who are liable to pay the management expenses relating to those shares shall be entitled to vote;
 
-    - (b) the reference in subparagraph (1) to “the owners of not less than 50% of the shares” shall be construed as a reference to the owners of not less than 50% of the shares who are entitled to vote. (Added 69 of 2000 s. 25)
+    - (b) the reference in subparagraph (1)(b) to “the owners of not less than 50% of the shares in aggregate” shall be construed as a reference to the owners of not less than 50% of the shares in aggregate who are entitled to vote. (Added 69 of 2000 s. 25. Amended 5 of 2007 s. 69)
+
+  - (5B) If a contract for the appointment of a manager other than a DMC manager contains no provision for the termination of the manager’s appointment, subparagraphs (1), (2), (3) and (5A) apply to the termination of the manager’s appointment as they apply to the termination of a DMC manager’s appointment. (Added 5 of 2007 s. 32)
+
+  - (5C) Subparagraph (5B) operates without prejudice to any other power there may be in a contract for the appointment of a manager other than a DMC manager to terminate the appointment of the manager. (Added 5 of 2007 s. 32)
 
   - (6) If a notice to terminate a manager’s appointment is given under this paragraph—
 
@@ -154,20 +204,22 @@ MANDATORY TERMS IN DEEDS OF MUTUAL COVENANT
 
   - (8) This paragraph is subject to any notice relating to the building that may be published by the Authority under section 34E(4) but does not apply to any single manager referred to in that section.
 
-- 8.
+- (Amended 5 of 2007 s. 32)
 
-- Obligations after manager’s appointment ends
+- 8. Obligations after manager’s appointment ends
 
-- If the manager’s appointment ends for any reason, he shall within 2 months of the date his appointment ends—
+  - (1) Subject to subparagraph (2), if the manager’s appointment ends for any reason, he shall, as soon as practicable after his appointment ends, and in any event within 14 days of the date his appointment ends, deliver to the owners’ committee (if any) or the manager appointed in his place any movable property in respect of the control, management and administration of the building that is under his control or in his custody or possession, and that belongs to the corporation (if any) or the owners. (Added 5 of 2007 s. 32)
 
-  - (a) prepare—
+  - (2) If the manager’s appointment ends for any reason, he shall within 2 months of the date his appointment ends— (Amended 5 of 2007 s. 32)
 
-    - (i) an income and expenditure account for the period beginning with the commencement of the financial year in which his appointment ends and ending on the date his appointment ended; and
+    - (a) prepare—
 
-    - (ii) a balance sheet as at the date his appointment ended,
+      - (i) an income and expenditure account for the period beginning with the commencement of the financial year in which his appointment ends and ending on the date his appointment ended; and
 
-  - and shall arrange for that account and balance sheet to be audited by an accountant or by some other independent auditor specified in a resolution of the owners’ committee (if any) or, in the absence of any such specification, by such accountant or other independent auditor as may be chosen by the manager; and
+      - (ii) a balance sheet as at the date his appointment ended,
 
-  - (b) deliver to the owners’ committee (if any) or the manager appointed in his place any books or records of account, papers, documents and other records in respect of the control, management and administration of the building that are under his control or in his custody or possession.
+    - and shall arrange for that account and balance sheet to be audited by an accountant or by some other independent auditor specified in a resolution of the owners’ committee (if any) or, in the absence of any such specification, by such accountant or other independent auditor as may be chosen by the manager; and
 
-- (Added 27 of 1993 s. 41)
+    - (b) deliver to the owners’ committee (if any) or the manager appointed in his place any books or records of accounts, papers, documents and other records which are required for the purposes of sub-subparagraph (a) and have not been delivered under subparagraph (1). (Replaced 5 of 2007 s. 32)
+
+- 9. Communication among owners The manager shall consult (either generally or in any particular case) the corporation at a general meeting of the corporation and adopt the approach decided by the corporation on the channels of communication among owners on any business relating to the management of the building. (Added 5 of 2007 s. 32) (Added 27 of 1993 s. 41)

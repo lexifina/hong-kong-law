@@ -1,6 +1,6 @@
 # SCHEDULE 5
 
-[ss. 21(4) & (5) & 42]
+[ss. 21 & 42] (Amended 5 of 2007 s. 30)
 
 ANNUAL BUDGET
 

@@ -1,12 +1,12 @@
 # SCHEDULE 11
 
-[s. 5B]
+[ss. 5B & 42] (Amended 5 of 2007 s. 36)
 
 ENUMERATION OF OWNERS
 
 For the purposes of section 5B—
 
-- (a) section 40C(3) and paragraphs 1(2) and 5 of the Third Schedule and paragraph 11 of the Eighth Schedule are specified;
+- (a) sections 3(8), 3A(3F), 4(10) and 40C(9) and paragraphs 1(2) and 5 of Schedule 3, paragraph 1A of Schedule 6 and paragraph 11 of Schedule 8 are specified; (Replaced 5 of 2007 s. 36)
 
 - (b) the enumeration of the percentage of owners mentioned in the provisions specified in paragraph (a) shall be computed as follows—
 

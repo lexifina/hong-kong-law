@@ -1,26 +1,24 @@
-# SCHEDULE 2
+# SCHEDULE 2 COMPOSITION AND PROCEDURE OF MANAGEMENT COMMITTEE
 
-[ss. 6 & 42]
+[ss. 2, 6, 7, 14, 18, 34K & 42 & Schedule 3] (Amended 5 of 2007 s. 27)
 
-COMPOSITION AND PROCEDURE OF MANAGEMENT COMMITTEE
+- 1.
 
-- 1. The management committee shall—
+  - (1) The number of members of a management committee shall be as follows—
 
-  - (a) if there is no deed of mutual covenant or the deed does not specify the number of persons which is to constitute the management committee—
+    - (a) where the building contains not more than 50 flats, the number of members shall be not less than 3;
 
-    - (i) consist of not less than 3 persons where the building contains not more than 50 flats; or
+    - (b) where the building contains more than 50 flats but not more than 100 flats, the number of members shall be not less than 7;
 
-    - (ii) consist of not less than 7 persons where the building contains more than 50 flats but not more than 100 flats; or
+    - (c) where the building contains more than 100 flats, the number of members shall be not less than 9.
 
-    - (iii) consist of not less than 9 persons where the building contains more than 100 flats; or
+  - (2) Subject to subparagraph (1), the number of members of a management committee shall be decided by a resolution of the owners under paragraph 2(1)(a).
 
-  - (b) if there is a deed of mutual covenant which specifies the number of persons which is to constitute the management committee, and that number is greater than the minimum number of persons specified in subparagraph (a)(i), (ii) or (iii) in respect of the number of flats referred to in those sub-subparagraphs, consist of that greater number of persons; or
+  - (3) Subject to subparagraph (1), the number of members of a management committee as decided under paragraph 2(1)(a) may be changed from time to time by a resolution of the owners passed at a general meeting of the corporation (except a general meeting of the corporation convened under paragraph 6A(1)).
 
-  - (c) if there is a deed of mutual covenant which specifies the number of persons which is to constitute the management committee, but that number is less than the minimum number of persons specified in subparagraph (a)(i), (ii) or (iii) in respect of the number of flats referred to in those sub-subparagraphs, consist of not less than the number of persons specified in subparagraph (a)(i), (ii) or (iii), as the case may be; and
+  - (4) A management committee shall include the tenants’ representative (if any) appointed under section 15(1).
 
-  - (d) include the tenants’ representative (if any) appointed under section 15(1).
-
-- (Replaced 27 of 1993 s. 39)
+- (Replaced 5 of 2007 s. 27)
 
 - 1A.
 
@@ -30,39 +28,71 @@ COMPOSITION AND PROCEDURE OF MANAGEMENT COMMITTEE
 
 - 2.
 
-  - (1) Subject to subparagraph (2), the owners shall, at a meeting convened under section 3, 3A, 4 or 40C— (Amended 69 of 2000 s. 23)
+  - (1) At a meeting of owners convened under section 3, 3A, 4 or 40C, after a management committee is appointed—
 
-    - (a) appoint—
+    - (a) the owners shall, by a resolution passed by a majority of the votes of the owners, decide the number of members of the management committee;
 
-      - (i) in the case of a meeting convened under section 3, from amongst themselves, or in accordance with the deed of mutual covenant (if any), the members of the management committee; or
+    - (b) subject to subparagraph (2), the owners shall, by resolution, appoint, from amongst the owners, the members of the management committee;
 
-      - (ii) in any other case, from amongst themselves, the members of the management committee;
+    - (c) the owners shall, by resolution—
 
-    - (b) appoint a chairman of the management committee, being one of the persons appointed as a member of the management committee;
+      - (i) appoint a person, from amongst the members of the management committee, as the chairman of the management committee;
 
-    - (c) appoint a vice-chairman of the management committee if that office (howsoever named) is specified in a deed of mutual covenant (if any), being one of the persons appointed as a member of the management committee;
+      - (ii) appoint a person, whether or not he is a member of the management committee, as the secretary of the management committee; and
 
-    - (d) appoint a secretary of the management committee who may, but need not be, one of the persons appointed as a member of the management committee;
+      - (iii) appoint a person, whether or not he is a member of the management committee, as the treasurer of the management committee; and
 
-    - (e) appoint a treasurer of the management committee who may, but need not be, one of the persons appointed as a member of the management committee,
-
-  - and may, at such meeting, appoint (in addition to the holders of the offices referred to in sub-subparagraphs (b), (c), (d) and (e)) one or more members of the management committee to hold such other offices as may be specified in the deed of mutual covenant (if any) and which the owners determine to be necessary in respect of the control, management and administration of the building.
+    - (d) the owners may, by resolution, appoint a person, from amongst the members of the management committee, as the vice-chairman of the management committee. (Replaced 5 of 2007 s. 27)
 
   - (2) The tenants’ representative appointed under section 15(1) shall be deemed to be appointed by the owners as a member of the management committee.
 
+  - (3) For the purposes of appointing the members of a management committee under subparagraph (1)(b)—
+
+    - (a) where the number of candidates is not more than the number of members of the management committee to be appointed, the candidates shall be deemed to be appointed as members of the management committee, and a resolution to that effect shall be deemed to be passed under subparagraph (1)(b) accordingly;
+
+    - (b) where there are more candidates than the number of members of the management committee to be appointed—
+
+      - (i) the votes shall be given and counted in accordance with the simple or relative majority system of voting (otherwise known as the “first past the post” system of voting), under which—
+
+        - (A) an owner may vote for not more than the number of members of the management committee to be appointed; and
+
+        - (B) the candidates to be appointed as members of the management committee are those who obtain the greatest number of votes and then the next greatest and so on until the required number of members of the management committee is appointed;
+
+      - (ii) if, after the counting is finished, a member of the management committee is still to be appointed and the most successful candidates remaining have an equal number of votes, the person who presides at the meeting shall determine the result by drawing lots, and the candidate on whom the lot falls is to be appointed as a member of the management committee. (Added 5 of 2007 s. 27)
+
+  - (4) For the purposes of appointing the chairman, vice-chairman (if applicable), secretary and treasurer of a management committee under subparagraph (1)(c) and (d)—
+
+    - (a) where there is only one candidate for the office of the chairman, vice-chairman, secretary or treasurer of the management committee, the candidate shall be deemed to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the management committee, and a resolution to that effect shall be deemed to be passed under subparagraph (1)(c) or (d), as the case may be, accordingly;
+
+    - (b) where there is more than one candidate for the office of the chairman, vice-chairman, secretary or treasurer of the management committee—
+
+      - (i) the votes shall be given and counted in accordance with the simple or relative majority system of voting (otherwise known as the “first past the post” system of voting), under which the candidate to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the management committee is the candidate who obtains the greatest number of votes;
+
+      - (ii) if, after the counting is finished, the most successful candidates for the office of the chairman, vice-chairman, secretary or treasurer of the management committee have an equal number of votes, the person who presides at the meeting shall determine the result by drawing lots, and the candidate on whom the lot falls is to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the management committee. (Added 5 of 2007 s. 27)
+
+  - (5) A person who is not a member of the management committee appointed under subparagraph (1)(b) does not by virtue of his appointment as the secretary or treasurer of the management committee under subparagraph (1)(c)(ii) or (iii), as the case may be, become a member of the management committee. (Added 5 of 2007 s. 27)
+
+  - (6) For the purposes of appointing the members, chairman, vice-chairman (if applicable), secretary and treasurer of a management committee under subparagraph (1)(b), (c) and (d) at a meeting of owners convened under section 3, 3A, 4 or 40C—
+
+    - (a) if the meeting is convened under section 3, the provisions in section 3(7), (8), (9), (10), (11), (12), (13) and (14) shall apply as they apply for the purposes of appointing a management committee under section 3;
+
+    - (b) if the meeting is convened under section 3A, the provisions in section 3A(3E), (3F), (3G), (3H), (3I), (3J), (3K) and (3L) shall apply as they apply for the purposes of appointing a management committee under section 3A;
+
+    - (c) if the meeting is convened under section 4, the provisions in section 4(9), (10), (11), (12), (13), (14), (15) and (16) shall apply as they apply for the purposes of appointing a management committee under section 4; or
+
+    - (d) if the meeting is convened under section 40C, the provisions in section 40C(8), (9), (10), (11), (12), (13), (14) and (15) shall apply as they apply for the purposes of appointing a management committee under section 40C. (Added 5 of 2007 s. 27)
+
 - (Replaced 27 of 1993 s. 39)
 
-- 3. Subject to section 14 and paragraph 4, the members of the management committee appointed at a meeting convened under section 3, 3A, 4 or 40C shall hold office until a new management committee is appointed and assumes office at the second annual general meeting of the corporation. (Amended 69 of 2000 s. 23)
+- 3. Subject to section 14 and paragraph 4, the members of the management committee appointed under paragraph 2(1)(b) shall hold office until the members of a new management committee are appointed under paragraph 5(2)(a). (Amended 69 of 2000 s. 23; 5 of 2007 s. 27)
 
 - 4.
 
-  - (1) No person shall be appointed, or be deemed to be appointed, as a member of a management committee who—
+  - (1) For the purposes of section 14(2) and paragraphs 2(1)(b), 5(2)(a), 6 and 6A, a person is not eligible to be appointed as a member of a management committee if he—
 
-    - (a) has been declared bankrupt;
+    - (a) is an undischarged bankrupt at the time of the appointment or has, within the previous 5 years, either obtained a discharge in bankruptcy or entered into a voluntary arrangement within the meaning of the Bankruptcy Ordinance (Cap. 6) with his creditors, in either case without paying the creditors in full;
 
-    - (b) has entered into composition with his creditors;
-
-    - (c) has at any time been sentenced to imprisonment for 3 months or more.
+    - (b) has, within the previous 5 years, been convicted of an offence in Hong Kong or any other place for which he has been sentenced to imprisonment, whether suspended or not, for a term exceeding 3 months without the option of a fine. (Replaced 5 of 2007 s. 27)
 
   - (2) A member of a management committee shall cease to be a member of the committee if he—
 
@@ -72,77 +102,199 @@ COMPOSITION AND PROCEDURE OF MANAGEMENT COMMITTEE
 
     - (c) absents himself from 3 or more consecutive meetings of the management committee without the consent of the management committee;
 
-    - (d) resigns his office, by notice in writing delivered to the secretary of the management committee;
+    - (d) resigns his office, by notice in writing delivered to the secretary of the management committee or (if he is the secretary or the office of the secretary is vacant) the chairman of the management committee; (Amended 5 of 2007 s. 27)
 
     - (da) in the case of a person deemed to be appointed under paragraph 2(2) in his capacity as the tenants’ representative, ceases to be an occupier of a flat; (Added 27 of 1993 s. 39)
 
-    - (e) ceases to be an owner, if appointed in his capacity as an owner, or ceases to be qualified to be a member according to the deed of mutual covenant (if any), as the case may be; or
+    - (e) ceases to be an owner, if appointed in his capacity as an owner; or (Amended 5 of 2007 s. 27)
 
     - (f) is removed from office by resolution of the corporation.
 
+  - (3) Every member of the management committee appointed under section 14(2) or paragraph 2(1)(b), 5(2)(a), 6 or 6A shall, within 21 days after the appointment, lodge with the secretary of the management committee a declaration, in such form as the Land Registrar may specify, stating that he does not fall within the description of subparagraph (1)(a) or (b). (Added 5 of 2007 s. 27)
+
+  - (4) A member of the management committee who fails to comply with subparagraph (3) shall cease to be such member. (Added 5 of 2007 s. 27)
+
+  - (5) Subject to subparagraph (7), where a change occurs in any matter stated in a declaration referred to in subparagraph (3), the person who made the declaration shall, within 21 days after the change occurs, lodge with the secretary of the management committee another declaration, in such form as the Land Registrar may specify, stating the particulars of the change. (Added 5 of 2007 s. 27)
+
+  - (6) The secretary of the management committee shall—
+
+    - (a) after receiving a declaration by virtue of subparagraph (3) from a member of the management committee appointed under paragraph 2(1)(b), cause the declaration to be lodged with the Land Registrar within the period of 28 days referred to in section 7(1);
+
+    - (b) within 28 days after receiving a declaration by virtue of subparagraph (3) from a member of the management committee appointed under section 14(2) or paragraph 5(2)(a), 6 or 6A, or by virtue of subparagraph (5), lodge with the Land Registrar the declaration. (Added 5 of 2007 s. 27)
+
+  - (7) Where the person referred to in subparagraph (5) is the secretary of the management committee, that person shall, within 28 days after the relevant change occurs, lodge with the Land Registrar a declaration, in such form as the Land Registrar may specify, stating the particulars of the change. (Added 5 of 2007 s. 27)
+
 - 5.
 
-  - (1) At the second annual general meeting of a corporation convened in accordance with paragraph 1(1)(b) of the Third Schedule and thereafter at every alternate annual general meeting, all members of the management committee, other than the member (if any) deemed to be appointed under paragraph 2(2) in his capacity as the tenants’ representative, shall retire from office.
+  - (1) At the second annual general meeting of a corporation convened in accordance with paragraph 1(1)(b) of Schedule 3 and thereafter at every alternate annual general meeting— (Amended 5 of 2007 ss. 27 & 65)
 
-  - (2) At an annual general meeting of a corporation at which the management committee retires under sub-paragraph (1) the corporation shall, in accordance with this Ordinance, appoint—
+    - (a) all members of the management committee (other than the member (if any) deemed to be appointed under paragraph 2(2) in his capacity as the tenants’ representative);
 
-    - (a) a new management committee which shall include the tenants’ representative (if any) appointed under section 15(1);
+    - (b) if the secretary of the management committee is not a member of the management committee, the secretary; and
 
-    - (b) a chairman of the management committee;
+    - (c) if the treasurer of the management committee is not a member of the management committee, the treasurer,
 
-    - (ba) a vice-chairman of the management committee if that office (howsoever named) is specified in a deed of mutual covenant (if any); (Added 27 of 1993 s. 39)
+  - shall retire from office. (Amended 5 of 2007 s. 27)
 
-    - (c) a secretary of the management committee, if the office of secretary of the management committee is vacant; and
+  - (2) At an annual general meeting of a corporation at which the members of the management committee retire under subparagraph (1)—
 
-    - (d) a treasurer of the management committee, if the office of treasurer of the management committee is vacant, (Added 27 of 1993 s. 39)
+    - (a) subject to subparagraph (2A), the corporation shall, by a resolution passed at the general meeting, appoint, from amongst the owners, the members of a new management committee;
 
-  - and may, at such annual general meeting, appoint (in addition to the holders of the offices referred to in sub-subparagraphs (b), (ba), (c) and (d) one or more members of the management committee to hold such other offices as may be specified in the deed of mutual covenant (if any) and which the corporation determines to be necessary in respect of the control, management and administration of the building.
+    - (b) the corporation shall, by a resolution passed at the general meeting—
+
+      - (i) appoint a person, from amongst the members of the new management committee, as the chairman of the new management committee;
+
+      - (ii) appoint a person, whether or not he is a member of the new management committee, as the secretary of the new management committee; and
+
+      - (iii) appoint a person, whether or not he is a member of the new management committee, as the treasurer of the new management committee; and
+
+    - (c) the corporation may, by a resolution passed at the general meeting, appoint a person, from amongst the members of the new management committee, as the vice-chairman of the new management committee. (Replaced 5 of 2007 s. 27)
+
+  - (2A) The tenants’ representative appointed under section 15(1) shall be deemed to be appointed by the corporation as a member of the new management committee. (Added 5 of 2007 s. 27)
+
+  - (2B) For the purposes of appointing the members of the new management committee under subparagraph (2)(a)—
+
+    - (a) where the number of candidates is not more than the number of members of the new management committee to be appointed, the candidates shall be deemed to be appointed as members of the new management committee, and a resolution to that effect shall be deemed to be passed under subparagraph (2)(a) accordingly;
+
+    - (b) where there are more candidates than the number of members of the new management committee to be appointed—
+
+      - (i) the votes shall be given and counted in accordance with the simple or relative majority system of voting (otherwise known as the “first past the post” system of voting), under which—
+
+        - (A) an owner may vote for not more than the number of members of the new management committee to be appointed; and
+
+        - (B) the candidates to be appointed as members of the new management committee are those who obtain the greatest number of votes and then the next greatest and so on until the required number of members of the new management committee is appointed;
+
+      - (ii) if, after the counting is finished, a member of the new management committee is still to be appointed and the most successful candidates remaining have an equal number of votes, the person who presides at the meeting shall determine the result by drawing lots, and the candidate on whom the lot falls is to be appointed as a member of the new management committee. (Added 5 of 2007 s. 27)
+
+  - (2C) For the purposes of appointing the chairman, vice-chairman (if applicable), secretary and treasurer of the new management committee under subparagraph (2)(b) and (c)—
+
+    - (a) where there is only one candidate for the office of the chairman, vice-chairman, secretary or treasurer of the new management committee, the candidate shall be deemed to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the new management committee, and a resolution to that effect shall be deemed to be passed under subparagraph (2)(b) or (c), as the case may be, accordingly;
+
+    - (b) where there is more than one candidate for the office of the chairman, vice-chairman, secretary or treasurer of the new management committee—
+
+      - (i) the votes shall be given and counted in accordance with the simple or relative majority system of voting (otherwise known as the “first past the post” system of voting), under which the candidate to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the new management committee is the candidate who obtains the greatest number of votes;
+
+      - (ii) if, after the counting is finished, the most successful candidates for the office of the chairman, vice-chairman, secretary or treasurer of the new management committee have an equal number of votes, the person who presides at the meeting shall determine the result by drawing lots, and the candidate on whom the lot falls is to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the new management committee. (Added 5 of 2007 s. 27)
 
   - (3) Members of the management committee who retire under sub-paragraph (1) shall be eligible for re-appointment under sub-paragraph (2).
 
-- 5A. A member of a management committee who ceases to be a member of the committee under paragraph 4(2) or retires from office under paragraph 5(1) and does not seek re-appointment to the committee shall, within 14 days of his ceasing to be a member or of his retirement, as the case may be, hand over to the secretary or, if the secretary is not readily available, any other member of the management committee any books or records of account, papers, documents and other records in respect of the control, management and administration of the building together with any movable property belonging to the corporation that are under his control or in his custody or possession. (Added 27 of 1993 s. 39)
+  - (4) A person who is not a member of the new management committee appointed under subparagraph (2)(a) does not by virtue of his appointment as the secretary or treasurer of the new management committee under subparagraph (2)(b)(ii) or (iii), as the case may be, become a member of the new management committee. (Added 5 of 2007 s. 27)
+
+- 5A. A member of a management committee who ceases to be a member of the committee under paragraph 4(2) or (4) or retires from office under paragraph 5(1) and does not seek re-appointment to the committee shall, within 14 days of his ceasing to be a member or of his retirement, as the case may be, hand over to the secretary or, if the office of the secretary is vacant, the chairman of the management committee any books or records of account, papers, documents and other records in respect of the control, management and administration of the building together with any movable property belonging to the corporation that are under his control or in his custody or possession. (Added 27 of 1993 s. 39. Amended 5 of 2007 s. 27)
 
 - 6.
 
-  - (1) Subject to subparagraphs (1A) and (1B), a casual vacancy occurring in a management committee may be filled by the management committee.
+  - (1) Notwithstanding paragraph 1, subject to subparagraph (1A) and paragraph 6A, a vacancy in a management committee which occurs other than by reason of the expiration of the term of office may be filled by the corporation or the management committee under subparagraph (3), (4) or (5), as the case requires. (Replaced 5 of 2007 s. 27)
 
-  - (1A) A casual vacancy caused by the tenants’ representative ceasing to be a member of the management committee for whatever reason may be filled by the approved association (within the meaning of section 15(2)) appointing a new tenants’ representative under section 15(1). (Added 27 of 1993 s. 39)
+  - (1A) If the vacancy is caused by the tenants’ representative ceasing to be a member of the management committee for whatever reason, the vacancy may be filled by the approved association (within the meaning of section 15(2)) appointing a new tenants’ representative under section 15(1). (Replaced 5 of 2007 s. 27)
 
-  - (1B) If a casual vacancy occurs in the office of the chairman or vice-chairman (if any) of a management committee—
+  - (1B) (Repealed 5 of 2007 s. 27)
 
-    - (a) the corporation may, by a resolution passed at a general meeting of the corporation convened by the management committee for that purpose under paragraph 1(1)(c) of the Third Schedule, appoint an owner to fill the vacancy till the next annual general meeting of the corporation; or
+  - (2) (Repealed 5 of 2007 s. 27)
 
-    - (b) in the case where no general meeting of the corporation has been so convened, the members of the management committee may instead appoint from amongst themselves an owner to act as chairman or vice-chairman, as the case may be, till the next annual general meeting of the corporation. (Added 27 of 1993 s. 39)
+  - (3) If the vacancy occurs in the office of a member of a management committee (other than a vacancy caused by the tenants’ representative ceasing to be a member of the management committee)—
 
-  - (2) If a casual vacancy occurs any other office of a management committee, the management committee may appoint an owner or any other person to fill the vacancy till the next annual general meeting.
+    - (a) the corporation may, by a resolution passed at a general meeting of the corporation, appoint an owner to fill the vacancy till the next annual general meeting of the corporation at which the members of the management committee retire under paragraph 5(1); or
 
-- 7. A management committee shall meet at least once in every period of 3 months. (Replaced 27 of 1993 s. 39)
+    - (b) if no general meeting of the corporation has been so convened or no appointment is made to fill the vacancy at a general meeting so convened, the management committee may appoint an owner to fill the vacancy till the next general meeting of the corporation. (Added 5 of 2007 s. 27)
 
-- 8.
+  - (4) If the vacancy occurs in the office of the chairman or vice-chairman of a management committee—
 
-  - (1) A meeting of a management committee—
+    - (a) the corporation may, by a resolution passed at a general meeting of the corporation, appoint a person, from amongst the members of the management committee, to fill the vacancy till the next annual general meeting of the corporation at which the members of the management committee retire under paragraph 5(1); or
+
+    - (b) if no general meeting of the corporation has been so convened or no appointment is made to fill the vacancy at a general meeting so convened, the members of the management committee may appoint a person, from amongst themselves, to fill the vacancy till the next general meeting of the corporation. (Added 5 of 2007 s. 27)
+
+  - (5) If the vacancy occurs in the office of the secretary or treasurer of a management committee—
+
+    - (a) the corporation may, by a resolution passed at a general meeting of the corporation, appoint a person, whether or not he is a member of the management committee, to fill the vacancy till the next annual general meeting of the corporation at which the members of the management committee retire under paragraph 5(1); or
+
+    - (b) if no general meeting of the corporation has been so convened or no appointment is made to fill the vacancy at a general meeting so convened, the management committee may appoint a person, whether or not he is a member of the management committee, to fill the vacancy till the next general meeting of the corporation. (Added 5 of 2007 s. 27)
+
+  - (6) A person who is not a member of a management committee does not by virtue of his appointment as the secretary or treasurer of the management committee under subparagraph (5)(a) or (b), as the case may be, become a member of the management committee. (Added 5 of 2007 s. 27)
+
+  - (7) For the purposes of filling the vacancy occurring in the office of a member of a management committee under subparagraph (3)(a)—
+
+    - (a) where the number of candidates is not more than the number of members of the management committee to be appointed, the candidates shall be deemed to be appointed as members of the management committee, and a resolution to that effect shall be deemed to be passed under subparagraph (3)(a) accordingly;
+
+    - (b) where there are more candidates than the number of members of the management committee to be appointed—
+
+      - (i) the votes shall be given and counted in accordance with the simple or relative majority system of voting (otherwise known as the “first past the post” system of voting), under which—
+
+        - (A) an owner may vote for not more than the number of members of the management committee to be appointed; and
+
+        - (B) the candidates to be appointed as members of the management committee are those who obtain the greatest number of votes and then the next greatest and so on until the required number of members of the management committee is appointed;
+
+      - (ii) if, after the counting is finished, a member of the management committee is still to be appointed and the most successful candidates remaining have an equal number of votes, the person who presides at the meeting shall determine the result by drawing lots, and the candidate on whom the lot falls is to be appointed as a member of the management committee. (Added 5 of 2007 s. 27)
+
+  - (8) For the purposes of filling the vacancy occurring in the office of the chairman or vice-chairman of a management committee under subparagraph (4)(a), or the office of the secretary or treasurer of a management committee under subparagraph (5)(a)—
+
+    - (a) where there is only one candidate for the office of the chairman, vice-chairman, secretary or treasurer of the management committee, the candidate shall be deemed to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the management committee, and a resolution to that effect shall be deemed to be passed under subparagraph (4)(a) or (5)(a), as the case may be, accordingly;
+
+    - (b) where there is more than one candidate for the office of the chairman, vice-chairman, secretary or treasurer of the management committee—
+
+      - (i) the votes shall be given and counted in accordance with the simple or relative majority system of voting (otherwise known as the “first past the post” system of voting), under which the candidate to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the management committee is the candidate who obtains the greatest number of votes;
+
+      - (ii) if, after the counting is finished, the most successful candidates for the office of the chairman, vice-chairman, secretary or treasurer of the management committee have an equal number of votes, the person who presides at the meeting shall determine the result by drawing lots, and the candidate on whom the lot falls is to be appointed as the chairman, vice-chairman, secretary or treasurer, as the case may be, of the management committee. (Added 5 of 2007 s. 27)
+
+- 6A.
+
+  - (1) Notwithstanding paragraphs 1 and 9, where the number of vacancies occurring in the offices of members of a management committee is more than 50% of the number of members of the management committee as decided under paragraph 2(1)(a) or, if that number of members has been changed under paragraph 1(3), 50% of the number of members so changed—
+
+    - (a) the chairman of the management committee may convene a general meeting of the corporation for the sole purpose of filling the vacancies in the management committee; or
+
+    - (b) if one of the vacancies occurs in the office of the chairman of the management committee, the remaining members of the management committee may appoint a person, from amongst themselves, to convene a general meeting of the corporation for the sole purpose of filling the vacancies in the management committee.
+
+  - (2) For the purposes of filling the vacancies in a management committee under subparagraph (1)—
+
+    - (a) paragraph 6(3)(a), (4)(a), (5)(a), (6), (7) and (8) shall apply as it applies where the number of vacancies occurring in the offices of members of a management committee is not more than 50% of the number of members of the management committee as decided under paragraph 2(1)(a) or, if that number of members has been changed under paragraph 1(3), 50% of the number of members so changed; and
+
+    - (b) Schedule 3 (except paragraph 1 of that Schedule) shall, subject to the following modifications, apply as it applies to a general meeting of the corporation convened by a management committee—
+
+      - (i) where the general meeting of the corporation is convened under subparagraph (1)(a) and one of the vacancies occurs in the office of the secretary of the management committee, the references to the secretary of the management committee in Schedule 3 shall be construed as references to the chairman of the management committee;
+
+      - (ii) where the general meeting of the corporation is convened under subparagraph (1)(b), the references to the chairman of the management committee in Schedule 3 shall be construed as references to the person appointed under that subparagraph to convene the meeting;
+
+      - (iii) where the general meeting of the corporation is convened under subparagraph (1)(b) and one of the vacancies occurs in the office of the secretary of the management committee, the references to the secretary of the management committee in Schedule 3 shall be construed as references to the person appointed under that subparagraph to convene the meeting.
+
+- (Added 5 of 2007 s. 27)
+
+  - 7. A management committee shall meet at least once in every period of 3 months.
+
+- (Replaced 27 of 1993 s. 39)
+
+  - 8.
+
+    - (1) A meeting of a management committee—
 
     - (a) may be convened at any time by the chairman or the vice-chairman (if any) in the absence of the chairman; and
 
-    - (b) shall be convened by the secretary, at the request of any 2 members thereof, within 14 days of receiving such request.
+    - (b) shall be convened by the secretary, at the request of any 2 members thereof, within 14 days of receiving such request, and held within 21 days of receiving such request. (Amended 5 of 2007 s. 27)
 
-  - (2) Notice of a meeting of the management committee shall be served by the secretary upon each member of the management committee at least 7 days before the date of the meeting and every such notice shall specify the place, date and time of such meeting and the resolutions (if any) that are to be proposed.
+  - (2) The secretary shall, at least 7 days before the date of the meeting of the management committee, give notice of the meeting to each member of the management committee and (if the treasurer of the management committee is not a member of the management committee) the treasurer of the management committee, and display the notice of meeting in a prominent place in the building. (Replaced 5 of 2007 s. 27)
 
-  - (2A) Service of a notice required to be served under subparagraph (2) may be effected—
+    - (2AA) The notice of meeting shall specify—
 
-    - (a) personally upon the member of the management committee; or
+    - (a) the date, time and place of the meeting; and
 
-    - (b) by post addressed to the member of the management committee at his last known address; or
+    - (b) the resolutions (if any) that are to be proposed at the meeting. (Added 5 of 2007 s. 27)
 
-    - (c) by leaving the notice at the member’s flat or depositing the notice in his letter box. (Added 27 of 1993 s. 39. Amended 12 of 1998 s. 7)
+  - (2A) The notice of meeting may be given—
 
-  - (3) If a management committee resolves that it shall meet at specified intervals and the resolution specifies the place, dates or days and times of such meetings, the secretary shall serve a copy of such resolution, and a copy of any subsequent resolution of the management committee affecting the same, upon each member of the management committee by such means as are referred to in subparagraph (2A)(a), (b) or (c), and sub-paragraph 2) shall not apply in the case of any such meeting.
+    - (a) by delivering it personally to the member of the management committee or (if the treasurer of the management committee is not a member of the management committee) the treasurer of the management committee;
 
-- 9. The quorum at a meeting of the management committee shall be 50% of the members of the management committee (rounded up to the nearest whole number) or 3 such members, whichever is the greater. (Replaced 27 of 1993 s. 39)
+    - (b) by sending it by post to the member or, if applicable, the treasurer, at his last known address; or
 
-- 10.
+    - (c) by leaving it at the flat of the member or, if applicable, the treasurer or depositing it in the letter box for that flat. (Replaced 5 of 2007 s. 27)
 
-  - (1) A meeting of a management committee shall be presided over by—
+  - (3) (Repealed 5 of 2007 s. 27)
+
+  - 9. The quorum at a meeting of the management committee shall be 50% of the members of the management committee (rounded up to the nearest whole number) or 3 such members, whichever is the greater.
+
+- (Replaced 27 of 1993 s. 39)
+
+  - 10.
+
+    - (1) A meeting of a management committee shall be presided over by—
 
     - (a) the chairman; or
 
@@ -158,16 +310,28 @@ COMPOSITION AND PROCEDURE OF MANAGEMENT COMMITTEE
 
   - (4A) The minutes referred to in subparagraph (4) shall be certified by the person presiding over the meeting as containing a true record of the proceedings of the meeting of the management committee to which they relate. (Added 27 of 1993 s. 39)
 
-  - (4B) The minutes certified in accordance with subparagraph (4A) shall, within 28 days of the date of the meeting of the management committee to which they relate, be displayed by the secretary in a prominent place in the building. (Added 27 of 1993 s. 39)
+  - (4B) The secretary shall display the minutes certified in accordance with subparagraph (4A) in a prominent place in the building within 28 days of the date of the meeting of the management committee to which the minutes relate, and cause the minutes to remain so displayed for at least 7 consecutive days. (Replaced 5 of 2007 s. 27)
 
   - (5) Subject to this Ordinance, the procedure at meetings of a management committee shall be as is determined by the management committee.
 
-- 11.
+- 10A.
 
-  - (1) Notwithstanding any provision in a deed of mutual covenant to the contrary, where an owner or other person, being a body corporate, is appointed as a member of a management committee under this Schedule that body corporate may appoint a director or other officer of that body or some other individual to act as its representative (“authorized representative” (獲授權代表)) for the purposes of this Ordinance as if the authorized representative were a member of the management committee in his own right and, if so appointed, paragraph 4(2)(a), (b), (c), (d) and (f) shall apply to the authorized representative.
+  - (1) The minutes certified in accordance with paragraph 10(4A) shall be kept by the management committee for such period, being not less than 6 years, as the corporation may determine.
 
-  - (2) If an authorized representative ceases to be a member of a management committee under paragraph 4(2)(a), (b), (c), (d) or (f) the body corporate may appoint another authorized representative in his place
+  - (2) If the tenants’ representative, an owner, a registered mortgagee or any person duly authorized in writing in that behalf by an owner or registered mortgagee requests in writing the corporation to supply him with copies of any minutes certified in accordance with paragraph 10(4A), the secretary shall, on the payment of such reasonable copying charge as the management committee may determine, supply such copies to that person.
+
+- (Added 5 of 2007 s. 27)
+
+  - 11.
+
+    - (1)
+
+      - Where an owner or other person, being a body corporate, is appointed as a member of a management committee under this Schedule that body corporate may appoint a director or other officer of that body or some other individual to act as its representative (“authorized representative” (獲授權代表)) for the purposes of this Ordinance as if the authorized representative were a member of the management committee in his own right and paragraph 4(1), (2)(a), (b), (c), (d) and (f), (3), (4) and (5) shall apply to the authorized representative. (Amended 5 of 2007 s. 27)
+
+  - (2) If an authorized representative ceases to be a member of a management committee under paragraph 4(2)(a), (b), (c), (d) or (f) or (4), the body corporate may appoint another authorized representative in his place, and paragraph 4(1), (2)(a), (b), (c), (d) and (f), (3), (4) and (5) shall apply to that other authorized representative. (Replaced 5 of 2007 s. 27)
 
 - (Added 27 of 1993 s. 39)
 
-- 12. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail. (Added 27 of 1993 s. 39) (Amended 27 of 1993 ss. 39 & 42)
+  - 12. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail.
+
+- (Added 27 of 1993 s. 39) (Amended 27 of 1993 ss. 39 & 42)

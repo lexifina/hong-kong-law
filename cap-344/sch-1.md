@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[s. 2]
+[ss. 2 & 42] (Amended 5 of 2007 s. 25)
 
 COMMON PARTS
 

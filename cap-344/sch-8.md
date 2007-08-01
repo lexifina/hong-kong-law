@@ -1,6 +1,6 @@
 # SCHEDULE 8
 
-[ss. 34D, 34F & 42]
+[ss. 34D, 34F & 42 & Sch. 11] (Amended 5 of 2007 s. 33)
 
 TERMS ADDED IF CONSISTENT WITH DEED OF MUTUAL COVENANT
 
@@ -8,15 +8,25 @@ Meetings of owners’ committee
 
 - 1. A meeting of the owners’ committee may be convened at any time by the chairman or any 2 members of the owners’ committee.
 
-- 2. Notice of a meeting of the owners’ committee shall be served by the person or persons convening the meeting upon each member of the owners’ committee at least 7 days before the date of the meeting, and that notice shall specify the place, date and time of the meeting and the resolutions (if any) that are to be proposed.
+- 2. The person or persons convening the meeting of the owners’ committee shall, at least 7 days before the date of the meeting, give notice of the meeting to each member of the owners’ committee. (Replaced 5 of 2007 s. 33)
 
-- 3. Service of a notice required to be served under paragraph 2 may be effected—
+- 2A. The notice of meeting referred to in paragraph 2 shall specify—
 
-  - (a) personally upon the member of the owners’ committee; or
+  - (a) the date, time and place of the meeting; and
 
-  - (b) by post addressed to the member of the owners’ committee at his last known address; or
+  - (b) the resolutions (if any) that are to be proposed at the meeting.
 
-  - (c) by leaving the notice at the member’s flat or depositing the notice in his letter box. (Amended 12 of 1998 s. 10)
+- (Added 5 of 2007 s. 33)
+
+- 3. The notice of meeting referred to in paragraph 2 may be given— (Amended 5 of 2007 s. 33)
+
+  - (a) by delivering it personally to the member of the owners’ committee; or
+
+  - (b) by sending it by post to the member of the owners’ committee at his last known address; or
+
+  - (c) by leaving it at the member’s flat or depositing it in the letter box for that flat. (Amended 12 of 1998 s. 10)
+
+- (Amended 5 of 2007 s. 33)
 
 - 4. The quorum at a meeting of the owners’ committee shall be 50% of the members of the owners’ committee (rounded up to the nearest whole number) or 3 such members, whichever is the greater.
 
@@ -32,19 +42,33 @@ Meetings of owners’ committee
 
 - 8. A meeting of owners may be convened by—
 
-  - (a) the manager; or
+  - (a) the owners’ committee;
 
-  - (b) the owners of not less than 5% of the shares.
+  - (b) the manager; or
 
-- 9. Notice of a meeting of owners shall be served by the person or persons convening the meeting upon each owner at least 14 days before the date of the meeting, and that notice shall specify the place, date and time of the meeting and the resolutions (if any) that are to be proposed.
+  - (c) an owner appointed to convene such a meeting by the owners of not less than 5% of the shares in aggregate.
 
-- 10. Service of a notice required to be served under paragraph 9 may be effected—
+- (Replaced 5 of 2007 s. 33)
 
-  - (a) personally upon the owner;
+- 9. The person convening the meeting of owners shall, at least 14 days before the date of the meeting, give notice of the meeting to each owner. (Replaced 5 of 2007 s. 33)
 
-  - (b) by post addressed to the owner at his last known address; or
+- 9A. The notice of meeting referred to in paragraph 9 shall specify—
 
-  - (c) by leaving the notice at the owner’s flat or depositing the notice in his letter box. (Amended 12 of 1998 s. 10)
+  - (a) the date, time and place of the meeting; and
+
+  - (b) the resolutions (if any) that are to be proposed at the meeting.
+
+- (Added 5 of 2007 s. 33)
+
+- 10. The notice of meeting referred to in paragraph 9 may be given— (Amended 5 of 2007 s. 33)
+
+  - (a) by delivering it personally to the owner;
+
+  - (b) by sending it by post to the owner at his last known address; or
+
+  - (c) by leaving it at the owner’s flat or depositing it in the letter box for that flat. (Amended 12 of 1998 s. 10)
+
+- (Amended 5 of 2007 s. 33)
 
 - 11.
 
@@ -54,32 +78,42 @@ Meetings of owners’ committee
 
   - (a) be construed as a reference to 10% of the number of persons who are owners without regard to their ownership of any particular percentage of the total number of shares into which the building is divided; and
 
-  - (b) not be construed as the owners of 10% of the shares.
+  - (b) not be construed as the owners of 10% of the shares in aggregate. (Amended 5 of 2007 s. 70)
 
 - (Added 69 of 2000 s. 26)
 
-- 12. A meeting of the owners shall be presided over by the chairman of the owners’ committee or, in his absence, by an owner appointed by the owners as chairman for that meeting.
+- 12. A meeting of owners shall be presided over by the chairman of the owners’ committee or, if the meeting is convened under paragraph 8(b) or (c), the person convening the meeting. (Replaced 5 of 2007 s. 33)
 
 - 13. At a meeting of owners—
 
-  - (a) each owner shall have 1 vote in respect of each share that he owns;
+  - (a) an owner shall have one vote in respect of each share he owns; (Replaced 5 of 2007 s. 33)
 
-  - (b) the votes of owners may be given either personally or by proxy;
+  - (b) an owner may cast a vote personally or by proxy; (Replaced 5 of 2007 s. 33)
 
-  - (c) if a share is jointly owned by 2 or more persons, the vote in respect of that share may be cast—
+  - (c) where 2 or more persons are the co-owners of a share, the vote in respect of the share may be cast—
 
     - (i) by a proxy jointly appointed by the co-owners;
 
-    - (ii) by 1 co-owner appointed by the others; or
+    - (ii) by a person appointed by the co-owners from amongst themselves; or
 
-    - (iii) if no appointment has been made under sub-subparagraph (i) or (ii), then either personally or by proxy by one of the co-owners; and, in the case of any meeting where more than one of the co-owners seeks to cast a vote in respect of the share, only the vote that is cast, in person or by proxy, by the co-owner whose name, in order of priority, stands highest in relation to that share in the register kept at the Land Registry shall be treated as valid; and (Replaced 69 of 2000 s. 26)
+    - (iii) if no appointment is made under sub-subparagraph (i) or (ii), either by one of the co-owners personally or by a proxy appointed by one of the co-owners; (Replaced 5 of 2007 s. 33)
+
+  - (ca) where 2 or more persons are the co-owners of a share and more than one of the co-owners seeks to cast a vote in respect of the share, only the vote that is cast, whether personally or by proxy, by the co-owner whose name, in order of priority, stands highest in relation to that share in the register kept at the Land Registry shall be treated as valid; and (Added 5 of 2007 s. 33)
 
   - (d) if there is an equality of votes the person presiding over the meeting shall have, in addition to a deliberative vote, a casting vote.
 
 - 14.
 
-  - (1) An instrument appointing a proxy shall be in writing signed by the owner or, if the owner is a body corporate, under the seal of that body.
+  - (1) An instrument appointing a proxy shall be in the form set out in Form 1 in Schedule 1A, and—
 
-  - (2) The appointment of proxy shall have no effect unless the instrument appointing the proxy is lodged with the person, or one of the persons, as the case may be, who convened the meeting not less than 24 hours before the time for the holding of the meeting at which the proxy proposes to vote, or within such lesser time as the chairman shall allow.
+    - (a) shall be signed by the owner; or
+
+    - (b) if the owner is a body corporate, shall, notwithstanding anything to the contrary in its constitution, be impressed with the seal or chop of the body corporate and signed by a person authorized by the body corporate in that behalf.
+
+  - (2) The instrument appointing a proxy shall be lodged with the chairman of the owners’ committee or, if the meeting is convened under paragraph 8(b) or (c), the person convening the meeting at least 48 hours before the time for the holding of the meeting.
+
+  - (3) A proxy appointed by an owner to attend and vote on behalf of the owner shall, for the purposes of the meeting, be treated as being the owner present at the meeting.
+
+- (Replaced 5 of 2007 s. 33)
 
 - 15. The procedure at a meeting of owners shall be as is determined by the owners. (Added 27 of 1993 s. 41)
