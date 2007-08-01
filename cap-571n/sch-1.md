@@ -22,7 +22,7 @@ Type 4 | $5,000,000
 
 Type 5 | $5,000,000
 
-Type 6 | $5,000,000
+Type 6— (a) in the case where the licensed corporation in question is not subject to the no sponsor work licensing condition (b) in any other case (L.N. 117 of 2006) | $10,000,000 $5,000,000
 
 Type 7 | $5,000,000
 
