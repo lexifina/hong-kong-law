@@ -2,7 +2,7 @@
 
 [s. 2]
 
-- 1. The sites and buildings from time to time set apart for the purposes of prisons under the Prisons Ordinance (Cap. 234) and which are specified in the Schedule to the Prisons Order (Cap. 234 sub. leg.).
+- 1. The sites and buildings from time to time set apart for the purposes of prisons under the Prisons Ordinance (Cap. 234) and which are specified in the Schedule to the Prisons Order (Cap. 234 sub. leg. B).
 
 - 2. Any police station.
 
@@ -25,5 +25,7 @@
 - 11. The area set aside as a detention room in the part of the River Trade Terminal, Tuen Mun, occupied by the Immigration Department. (L.N. 325 of 1998)
 
 - 12. The area inside the Tuen Mun Ferry Terminal that is set aside as a detention room for use by the Immigration Department. (L.N. 61 of 2004)
+
+- 13. The area within the Lok Ma Chau Spur Line Control Point that is set aside as detention quarters for use by the Immigration Department. (L.N. 71 of 2007)
 
 - 14. The area within the Clearance Area of the Shenzhen Bay Port Hong Kong Port Area that is set aside as detention quarters for use by the Immigration Department. (L.N. 73 of 2007)
