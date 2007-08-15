@@ -50,4 +50,6 @@
 
 - 25. The area inside the Tuen Mun Ferry Terminal that is set aside as a detention room for use by the Immigration Department. (L.N. 60 of 2004)
 
+- 26. The area within the Lok Ma Chau Spur Line Control Point that is set aside as detention quarters for use by the Immigration Department. (L.N. 70 of 2007)
+
 - 27. The area within the Clearance Area of the Shenzhen Bay Port Hong Kong Port Area that is set aside as detention quarters for use by the Immigration Department. (L.N. 72 of 2007)
