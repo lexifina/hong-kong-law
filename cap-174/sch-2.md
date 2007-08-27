@@ -1,7 +1,5 @@
 # SECOND SCHEDULE
 
-(Adaptation amendments retroactively made - see 71 of 1999 s. 3)
-
 [s. 29]
 
 FORM 1 | [section 4(1) & (2)]
@@ -10,9 +8,9 @@ Register form of births
 
 出生登記表格
 
-, 19 , Births in the district of , Hong Kong.
+, , Births in the district of , Hong Kong.
 
-19 年 月 日，香港 區出生登記。
+年 月 日，香港 區出生登記。
 
 Registration No. 登記編號
 
@@ -36,7 +34,7 @@ Name, if added after registration of birth 名字 (如在出生登記後加上)
 
 Status of permanent resident of the Hong Kong Special Administrative Region under the Immigration Ordinance (Cap. 115) (Established/Not established) 《入境條例》(第115章) 下的香港特別行政區永久性 居民身分 (確定/未確定)
 
-(Replaced L.N. 497 of 1995. Amended 80 of 1997 ss. 68 and 103; L.N. 359 of 1997; 71 of 1999 s. 3)
+(Replaced L.N. 497 of 1995. Amended 80 of 1997 ss. 68 and 103; L.N. 359 of 1997; 71 of 1999 s. 3; 8 of 2006 s. 18)
 
 _
 
@@ -46,9 +44,9 @@ Register form of deaths
 
 死亡登記表格
 
-, 19 , Deaths in the district of , Hong Kong.
+, , Deaths in the district of , Hong Kong.
 
-19 年 月 日，香港 區死亡登記。
+年 月 日，香港 區死亡登記。
 
 Registration No. 登記編號
 
@@ -70,7 +68,7 @@ When registered 登記日期
 
 Signature of registrar 登記官員簽署
 
-(Replaced L.N. 497 of 1995. Amended 80 of 1997 s. 68)
+(Replaced L.N. 497 of 1995. Amended 80 of 1997 s. 68; 8 of 2006 s. 18)
 
 _
 
@@ -138,7 +136,7 @@ And I make this solemn declaration conscientiously believing the same to be true
 
 Parent (or Guardian).
 
-Declared at . in Hong Kong this . day of . 19 .
+Declared at . in Hong Kong this . day of .
 
 Before me,
 
@@ -146,7 +144,7 @@ Before me,
 
 registrar.
 
-(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995)
+(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18)
 
 _
 
@@ -174,7 +172,7 @@ And I make this solemn declaration conscientiously believing the same to be true
 
 Parent (or Guardian).
 
-Declared at . in Hong Kong this . day of . 19 .
+Declared at . in Hong Kong this . day of .
 
 Before me,
 
@@ -182,7 +180,7 @@ Before me,
 
 registrar.
 
-(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995)
+(Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18)
 
 _
 
@@ -194,15 +192,15 @@ I, A.B., Registrar [or deputy or district registrar] of Births and Deaths, do he
 
 which a child of one C.D. and E.F. was registered on the day
 
-of , 19 , has [or have] been altered to and that such alteration has been entered in the register.
+of , , has [or have] been altered to and that such alteration has been entered in the register.
 
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) A.B., a registrar of births and deaths.
 
 Fee $110.
 
-(Amended 9 of 1957 s. 3; 1 of 1965 s. 12; 48 of 1975 s. 7; 67 of 1984 s. 10; 51 of 1986 s. 7; L.N. 497 of 1995; 80 of 1997 s. 68)
+(Amended 9 of 1957 s. 3; 1 of 1965 s. 12; 48 of 1975 s. 7; 67 of 1984 s. 10; 51 of 1986 s. 7; L.N. 497 of 1995; 80 of 1997 s. 68; 8 of 2006 s. 18)
 
 _
 
@@ -214,15 +212,15 @@ I, A.B., Registrar [or deputy or district registrar] of Births and Deaths, do he
 
 [or have] been given to the child of one C.D. and E.F. whose birth was registered on
 
-the day of , 19 and that such name or names has [or have] been entered in the register.
+the day of , and that such name or names has [or have] been entered in the register.
 
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) A.B., a registrar of births and deaths.
 
 Fee $110.
 
-(Amended 9 of 1957 s. 3; 1 of 1965 s. 12; 48 of 1975 s. 7; 67 of 1984 s. 10; 51 of 1986 s. 7; L.N. 497 of 1995; 80 of 1997 s. 68)
+(Amended 9 of 1957 s. 3; 1 of 1965 s. 12; 48 of 1975 s. 7; 67 of 1984 s. 10; 51 of 1986 s. 7; L.N. 497 of 1995; 80 of 1997 s. 68; 8 of 2006 s. 18)
 
 _
 
@@ -236,7 +234,7 @@ and bury the dead body of one called from the floor of
 
 No. , to
 
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) Officer in charge.
 
@@ -244,7 +242,7 @@ No. Police station.
 
 No fee is payable for this permit.
 
-(Amended L.N. 51 of 1974; L.N. 497 of 1994)
+(Amended L.N. 51 of 1974; L.N. 497 of 1994; 8 of 2006 s. 18)
 
 _
 
@@ -256,13 +254,13 @@ Permission is hereby given to of to remove
 
 from Hong Kong the dead body of one called .
 
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) A.B., a registrar of births and deaths.
 
 No fee is payable for this permit.
 
-(Amended L.N. 51 of 1974; 67 of 1984 s. 10; L.N. 497 of 1994; L.N. 497 of 1995)
+(Amended L.N. 51 of 1974; 67 of 1984 s. 10; L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18)
 
 _
 
@@ -270,19 +268,15 @@ FORM 10 | [section 17(1)]
 
 Certificate of Registration of Death
 
-I, A.B., a registrar of deaths in the district of , do
+I, A.B., a registrar of deaths in the district of , do hereby certify that the death of has been duly registered by me on the day of , .
 
-hereby certify that the death of has been duly registered by
-
-me on the day of , 19 .
-
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) A.B., a registrar of births and deaths.
 
-No fee is payable for this certificate.
+No fee is payable for this certificate
 
-(Amended L.N. 497 of 1994; L.N. 497 of 1995)
+(Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18)
 
 _
 
@@ -292,13 +286,13 @@ Certificate of order authorizing burial/cremation of body
 
 I, A.B., a coroner for Hong Kong, hereby certify that I have made an order authorizing the burial/cremation of the body now shown/reported to me as the body of .
 
-Dated this day of , 19 .
+Dated this day of , .
 
 .
 
-Coroner.
+Coroner
 
-(Replaced L.N. 2 of 1968)
+(Replaced L.N. 2 of 1968. Amended 8 of 2006 s. 18)
 
 _
 
@@ -340,13 +334,13 @@ FORM 13 | [section 18(a)]
 
 Certificate of still-birth
 
-I, A.B., registered medical practitioner in Hong Kong, hereby certify that I was in attendance at the birth of the child of Mrs. C.D. [or have examined the body of the child of Mrs. C. D.] and that such child was not born alive.
+I, A.B., registered medical practitioner in Hong Kong, hereby certify that I was in attendance at the birth of the child of Mrs. C.D. [or have examined the body of the child of Mrs. C.D.] and that such child was not born alive.
 
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) A.B., Registered medical practitioner.
 
-(Amended 67 of 1984 s. 10)
+(Amended 67 of 1984 s. 10; 8 of 2006 s. 18)
 
 _ FORM 14
 
@@ -360,9 +354,11 @@ Notice where coffin contains more than one body
 
 I, A.B., hereby give you notice that in the coffin in which C.D. is brought for burial there is the body of E.F., a male [or female] lately residing at No. .
 
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) A.B., Undertaker [or person in charge of funeral].
+
+(Amended 8 of 2006 s. 18)
 
 _
 
@@ -372,9 +368,11 @@ Notice where coffin contains more than one body
 
 I, A.B., hereby give you notice that in the coffin in which C.D. is brought for burial there is a body which has been found exposed and that the name and place of abode of the person whose body has been found are unknown.
 
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) A.B., Undertaker [or person in charge of funeral].
+
+(Amended 8 of 2006 s. 18)
 
 _
 
@@ -384,9 +382,11 @@ Notice where coffin also contains the body of a child
 
 I, A.B., hereby give you notice that in the coffin in which C.D. is brought for burial there is the body of a deceased child, name unknown [or of a still-born child] and the name and place of abode of the father [or mother] of such child are and No.
 
-Dated the day of , 19 .
+Dated the day of , .
 
 (Signed.) A.B., Undertaker [or person in charge of funeral].
+
+(Amended 8 of 2006 s. 18)
 
 (M.D. 854) | FORM 18 | [section 20(a)]
 
@@ -396,7 +396,7 @@ To be given by the medical attendant to the person whose duty it is to give it, 
 
 _ Name of Deceased .
 
-Age . Last seen . Died on . At . | _ I HEREBY CERTIFY that I attended . during the last illness; that such person’s age was stated to be . that I last saw h . on the . day of . 19 .; that . died* . on the .day of. 19.; at . and that, to the best of my knowledge and belief the cause of h . death was as hereunder written. An anaesthetic, namely . was administered+ . before the death of . (or, if such was the case: No anaesthetic was administered before the death of .) .
+Age . Last seen . Died on . At . | _ I HEREBY CERTIFY that I attended . during the last illness; that such person’s age was stated to be . that I last saw h . on the . day of .; that . died* . on the .day of.; at . and that, to the best of my knowledge and belief the cause of h . death was as hereunder written. An anaesthetic, namely . was administered+ . before the death of . (or, if such was the case: No anaesthetic was administered before the death of .) .
 
 Deceased’s nationality .. | * Should the medical attendant not feel justified in taking upon himself the responsibility of certifying the fact of death, he may here insert the words “as I am informed.” + Insert here how long before death the anaesthetic was administered.
 
@@ -408,7 +408,7 @@ Deceased’s address . CAUSE OF DEATH (a) . due to (or as a consequence of) | I.
 
 ++ This does not mean the mode of dying e.g., heart failure, asthenia, etc. It means the disease, injury, or complication which caused death.
 
-. | - Deceased’s nationality . Dated, the . day of .19 .
+. | - Deceased’s nationality . Dated, the . day of .
 
 “ profession . Signature .
 
@@ -544,7 +544,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - Subject to certain defences, under the Coroners Ordinance (Cap. 504), a registered medical practitioner who fails to discharge the duty referred to in paragraph 1 commits an offence under that Ordinance and may thereby render himself liable to a fine at level 1 and to 14 days imprisonment under that Ordinance.
 
-  - (Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974 ; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28)
+  - (Replaced G.N.A. 318 of 1948. Amended 9 of 1957 s. 3; L.N. 214 of 1974 ; L.N. 497 of 1995; 27 of 1997 s. 74. Part III added 27 of 1997 s. 74. Amended 80 of 1997 s. 68; 35 of 1998 s. 5; 21 of 1999 s. 28; 8 of 2006 s. 18)
 
   - _
 
@@ -556,7 +556,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - and C.D., of .
 
-  - solemnly and sincerely declare that when the birth (or death) of E.F. was registered on the . day of . 19 ., the following errors of fact or substance occurred in the register, viz.,
+  - solemnly and sincerely declare that when the birth (or death) of E.F. was registered on the . day of ., the following errors of fact or substance occurred in the register, viz.,
 
   - (here set forth the error or errors).
 
@@ -570,7 +570,7 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - C.D.
 
-  - Declared at . in Hong Kong this . day of . 19 .
+  - Declared at . in Hong Kong this . day of .
 
   - Before me,
 
@@ -578,4 +578,4 @@ Signed . Date . | N.B.-THIS CERTIFICATE IS INTENDED SOLELY FOR THE USE OF THE RE
 
   - registrar.
 
-  - (Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995)
+  - (Replaced L.N. 214 of 1974. Amended L.N. 497 of 1994; L.N. 497 of 1995; 8 of 2006 s. 18)

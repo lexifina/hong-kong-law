@@ -54,7 +54,7 @@ Item | Enactment | Provision
 
 28. | Places of Public Entertainment Regulations (Cap. 172 sub. leg. A) | Regulations 3(1), 5(1) and (2) and 162(1), (3), (4) and (5)
 
-29. | Births and Deaths Registration Ordinance (Cap. 174) | Sections 8(1), 12(2)(b)(i) and (c)(i) and 12A(b)(i) and (c)(i)
+29. | Births and Deaths Registration Ordinance (Cap. 174) | Sections 12(2)(b)(i) and (c)(i) and 12A(b)(i) and (c)(i) (8 of 2006 s. 50)
 
 30. | Registration of Persons Regulations (Cap. 177 sub. leg. A) | Regulation 4(1) and (1B)(a)
 

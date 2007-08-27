@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-[s. 4]
+[ss. 4 & 6A] (Amended 8 of 2006 s. 27)
 
 FORM 1 | [No. 1 Register (1872)]
 
@@ -12,7 +12,7 @@ Registration No. 登記編號
 
 When born 出生日期
 
-Name，if any 名字(如有的話)
+Name, if any 名字(如有的話)
 
 Sex 性別
 
@@ -22,7 +22,7 @@ Maiden surname and name of mother 母親婚前姓氏及名字
 
 Rank or profession of father 父親職位或職業
 
-Signature，description and residence of informant 申報人簽署、身分及住址
+Signature, description and residence of informant 申報人簽署、身分及住址
 
 When registered 登記日期
 
@@ -34,13 +34,13 @@ FORM 2 | [No. 2 Register (1872)]
 
 REGISTER BOOK OF BIRTHS
 
-出生登記冊 , 1872, Births in the district of , Hong Kong. 1872 年 月 日，香港 區出生登記。
+出生登記冊 , 1872, Births in the district of , Hong Kong. 1872年 月 日，香港 區出生登記。
 
 Registration No. 登記編號
 
 When born 出生日期
 
-Name，if any 名字(如有的話)
+Name, if any 名字(如有的話)
 
 Sex 性別
 
@@ -50,7 +50,7 @@ Maiden surname and name of mother 母親婚前姓氏及名字
 
 Rank or profession of father 父親職位或職業
 
-Signature，description and residence of informant 申報人簽署、身分及住址
+Signature, description and residence of informant 申報人簽署、身分及住址
 
 When registered 登記日期
 

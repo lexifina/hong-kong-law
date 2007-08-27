@@ -1,53 +1,61 @@
-# Schedule 5
+# FIFTH SCHEDULE
 
-[s. 9]
+- PART I
 
-PART I
+- [s. 9]
 
-FEES
+- FEES
 
-The following fees shall be paid in connection with searches, corrections of errors and certified copies of entries in the register books—
+- The following fees shall be paid in connection with searches, corrections of errors and certified copies of entries in the registers— (Amended 8 of 2006 s. 30)
 
-Item | Particular | Fee
+- Item | Particular | Fee $
 
-$
+- 1. | A search either in indexes or in the registers for any given entry over a period not exceeding 5 years, i.e. a particular search | 140
 
-1. | A search either in indexes or in the register books for any given entry over a period not exceeding 5 years, i.e. a particular search . | 140
+- 2. | A search either in indexes or in the registers for information other than that concerning any given entry, i.e. a general search | 680
 
-2. | A search either in indexes or in the register books for information other than that concerning any given entry, i.e. a general search . | 680
+- 3. | A correction of an error in any register | 425
 
-3. | A correction of an error in any register book . | 425
+- 4. | A certified copy of an entry in any of the registers | 140
 
-4. | A certified copy of an entry in any of the register books . but | 140
+- but
 
-if posted to an addressee outside Hong Kong . and | 275
+- if posted to an addressee outside Hong Kong | 275
 
-if required to be sent by airmail . | an additional amount equal to the airmail postage at the normal rate.
+- and
 
-(Replaced L.N. 77 of 1991. Amended L.N. 207 of 1993; L.N. 340 of 1994; L.N. 205 of 1995; L.N. 231 of 1996; L.N. 435 of 1997)
+- if required to be sent by airmail | an additional amount equal to the airmail postage at the normal rate.
 
-PART II | [section 12]
+- (Replaced L.N. 77 of 1991. Amended L.N. 207 of 1993; L.N. 340 of 1994; L.N. 205 of 1995; L.N. 231 of 1996; L.N. 435 of 1997; 8 of 2006 s. 30)
 
-FORM 1 DECLARATION FOR CORRECTION OF ERROR IN
+- PART II
 
-SPECIAL REGISTER OF BIRTHS
+- [s. 12]
 
-We, A.B. of . and C.D. of . solemnly and sincerely declare that when the birth of E.F. was registered on the . day of . 19 ., the following errors of fact or substance occurred in the register, viz., (here set forth the error or errors).
+- FORM 1 DECLARATION FOR CORRECTION OF ERROR IN
 
-And we further solemnly and sincerely declare that the true facts of the case are as follows-(here set forth the true facts).
+- SPECIAL REGISTER OF BIRTHS
 
-And we make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
+- We, A.B. of
 
-(Signed) A.B.
+- and C.D. of
 
-C.D.
+- solemnly and sincerely declare that when the birth of E.F. was registered on the . day of ., the following errors of fact or substance occurred in the register, viz., (here set forth the error or errors).
 
-Declared at . in Hong Kong this . day of . 19 .
+- And we further solemnly and sincerely declare that the true facts of the case are as follows—(here set forth the true facts).
 
-Before me,
+- And we make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
 
-(Signed)
+- (Signed) | A.B.
 
-Registrar.
+- C.D.
 
-(Replaced L.N. 215 of 1974. Amended L.N. 498 of 1994)
+- Declared at . in Hong Kong this . day of .
+
+- Before me,
+
+- (Signed)
+
+- Registrar.
+
+- (Replaced L.N. 215 of 1974. Amended L.N. 498 of 1994; 8 of 2006 s. 30)

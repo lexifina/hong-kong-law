@@ -1,53 +1,55 @@
 # FOURTH SCHEDULE
 
-[s. 9]
+- PART I
 
-PART I
+- [s. 9]
 
-FEES
+- FEES The following fees shall be paid in connection with searches, corrections of errors and certified copies of entries in the registers—
 
-The following fees shall be paid in connection with searches, corrections of errors and certified copies of entries in the register books—
+- Item | Particular | Fee $
 
-Item | Particular | Fee
+- 1. | A search either in indexes or in the registers for any given entry over a period not exceeding 5 years, i.e. a particular search | 140
 
-$
+- 2. | A search either in indexes or in the registers for information other than that concerning any given entry, i.e. a general search | 680
 
-1. | A search either in indexes or in the register books for any given entry over a period not exceeding 5 years, i.e. a particular search . | 140
+- 3. | A correction of an error in any register | 425
 
-2. | A search either in indexes or in the register books for information other than that concerning any given entry, i.e. a general search . | 680
+- 4. | A certified copy of an entry in any of the registers | 140
 
-3. | A correction of an error in any register book . | 425
+- but
 
-4. | A certified copy of an entry in any of the register books . but | 140
+- if posted to an addressee outside Hong Kong | 275
 
-if posted to an addressee outside Hong Kong . and | 275
+- and
 
-if required to be sent by airmail . | an additional amount equal to the airmail postage at the normal rate.
+- if required to be sent by airmail | an additional amount equal to the airmail postage at the normal rate.
 
-(Replaced L.N. 79 of 1991. Amended L.N. 208 of 1993; L.N. 342 of 1994; L.N. 206 of 1995; L.N. 232 of 1996; L.N. 436 of 1997)
+- (Replaced L.N. 79 of 1991. Amended L.N. 208 of 1993; L.N. 342 of 1994; L.N. 206 of 1995; L.N. 232 of 1996; L.N. 436 of 1997; 8 of 2006 s. 40)
 
-PART II | [section 12]
+- PART II
 
-FORM 1 DECLARATION FOR CORRECTION OF ERROR IN
+- [s. 12]
 
-SPECIAL REGISTER OF DEATHS
+- FORM 1
 
-We, A.B. of. and C.D. of . solemnly and sincerely declare that when the death of E. F. was registered on the . day of . 19 ., the following errors of fact or substance occurred in the register, viz., (here set forth the error or errors).
+- DECLARATION FOR CORRECTION OF ERROR IN SPECIAL REGISTER OF DEATHS
 
-And we further solemnly and sincerely declare that the true facts of the case are as follows-(here set forth the true facts).
+- We, A.B. of. and C.D. of . solemnly and sincerely declare that when the death of E. F. was registered on the . day of ., the following errors of fact or substance occurred in the register, viz., (here set forth the error or errors).
 
-And we make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
+- And we further solemnly and sincerely declare that the true facts of the case are as follows—(here set forth the true facts).
 
-(Signed) A.B.
+- And we make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Ordinance (Cap. 11).
 
-C.D.
+- (Signed) | A.B.
 
-Declared at . in Hong Kong this . day of . 19 .
+- C.D.
 
-Before me,
+- Declared at . in Hong Kong this . day of .
 
-(Signed)
+- Before me,
 
-Registrar
+- (Signed)
 
-(Replaced L.N. 216 of 1974. Amended L.N. 499 of 1994)
+- Registrar
+
+(Replaced L.N. 216 of 1974. Amended L.N. 499 of 1994; 8 of 2006 s. 40)
