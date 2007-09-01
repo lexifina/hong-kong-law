@@ -59,6 +59,15 @@ s-057.md
 s-058.md
 s-059.md
 s-060.md
+s-060A.md
+s-060B.md
+s-060C.md
+s-060D.md
+s-060E.md
+s-060F.md
+s-060G.md
+s-060H.md
+s-060I.md
 s-061.md
 s-062.md
 s-063.md
@@ -94,3 +103,4 @@ sch-3.md
 sch-4.md
 sch-5.md
 sch-6.md
+sch-7.md
