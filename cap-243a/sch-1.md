@@ -72,21 +72,7 @@
 
   - (15 of 2005 s. 19)
 
-- PART III
-
-- [reg. 3(1)(c)]
-
-- Qualifications for a trainee worker
-
-  - (a)
-
-    - (i) A Hong Kong Certificate of Education with an aggregate of 2 separate subjects at Grade E or a higher grade; or (L.N. 79 of 1996)
-
-    - (ii) other educational training which, in the opinion of the Director, is equivalent to the qualifications in sub-paragraph (i);
-
-  - (b) satisfies the Director of the intention to complete a training course approved by the Director; and
-
-  - (c) aged 18 years or over.
+- PART III (Repealed 15 of 2005 s. 19)
 
 (First Schedule replaced L.N. 90 of 1980)
 
