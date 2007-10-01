@@ -410,7 +410,7 @@ Secretary for Broadcasting, Culture and Sport (L.N. 372 of 1996) | Books Registr
 
 Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Merchant Shipping (Safety) Ordinance (Chapter 369), section 5. (L.N. 94 of 1984)
 
-*Secretary for Home Affairs | Books Registration Ordinance (Chapter 142). (18 of 2014 s.66)
+*Secretary for Home Affairs | Books Registration Ordinance (Chapter 142). (18 of 2014 s. 66)
 
 Secretary for Home Affairs | Clubs (Safety of Premises) Ordinance (Chapter 376). (L.N. 91 of 1992)
 
@@ -462,7 +462,7 @@ L.N. 93 of 2001 | Chief Secretary for Administration | Scout Association of Hong
 
 5 of 2001 s. 40 | Financial Secretary | Hong Kong Science and Technology Parks Corporation Ordinance (Chapter 565), sections 23(6) and 24.
 
-L.N. 158 of 2002 | Secretary for Education Secretary for Labour and Welfare | Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). (L.N. 130 of 2007) Hong Kong Council for Academic Accreditation Ordinance (Chapter 1150), sections 5(e), (g) and (l), 9(1) and (2), 10, 12, 13(1) and (2) and 17. (L.N. 130 of 2007) Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). (L.N. 130 of 2007)
+L.N. 158 of 2002 | Secretary for Education Secretary for Labour and Welfare | Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). (L.N. 130 of 2007) Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Chapter 1150), sections 4(1)(g) and (2), 5(2)(e), (ea), (g) and (l ), 9(1), 12(b), 13(1), (2) and (3) and 17. (6 of 2007 s. 53; L.N. 130 of 2007) Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). (L.N. 130 of 2007)
 
 L.N. 192 of 2003 | Secretary for Home Affairs Secretary for Constitutional and Mainland Affairs | New Territories Ordinance (Chapter 97), sections 15, 16 and 18. Hotel and Guesthouse Accommodation Ordinance (Chapter 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4). New Territories Land (Exemption) Ordinance (Chapter 452), section 12. Heung Yee Kuk Ordinance (Chapter 1097), section 3(2)(c) and First Schedule (paragraph 6) and Second Schedule (paragraph 5(2)). Sex Discrimination Ordinance (Chapter 480), section 65(3) and Schedule 6 (sections 16(2) and (3) and 17(2)). (L.N. 130 of 2007) Personal Data (Privacy) Ordinance (Chapter 486), section 14(6) and Schedule 2 (sections 2(2) and (3) and 3(2)). (L.N. 130 of 2007)
 

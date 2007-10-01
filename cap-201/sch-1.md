@@ -116,7 +116,7 @@ PUBLIC BODIES
 
 - 56. (Repealed 20 of 1999 s. 6)
 
-- 57. Hong Kong Council for Academic Accreditation. (Added 15 of 1990 s. 26)
+- 57. Hong Kong Council for Accreditation of Academic and Vocational Qualifications. (Replaced 6 of 2007 s. 50)
 
 - 58. The Hospital Authority (including any committee established by the Hospital Authority). (Added 68 of 1990 s. 24)
 

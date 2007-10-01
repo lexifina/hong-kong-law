@@ -1,10 +1,8 @@
 # SCHEDULE 2
 
-[ss. 2, 3 & 25]
+[ss. 2, 3, 17B, 25 & 27] (Amended 6 of 2007 s. 48)
 
 PROVISIONS WITH RESPECT TO THE COUNCIL AND MEMBERS THEREOF
-
-(Adaptation amendments retroactively made - see 55 of 2000 s. 3)
 
 - 1.
 
@@ -34,7 +32,7 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND MEMBERS THEREOF
 
   - (a) the Chairman, due to absence from Hong Kong or for any other reason, is unable to act as Chairman for any period; or
 
-  - (b) any member is precluded by temporary incapacity or any other reason from performing his functions as a member for any period,
+  - (b) a member, due to absence from Hong Kong or for any other reason, is unable to act as a member for any period, (Amended 6 of 2007 s. 48)
 
 - the Chief Executive may appoint another person to act in the place of the Chairman or such member as the case may be for that period.
 
@@ -44,7 +42,7 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND MEMBERS THEREOF
 
   - (1) Meetings of the Council shall be held at such times and places as the Chairman may determine.
 
-  - (2) The Executive Director shall, unless it is not reasonably practicable, attend all the meetings of the Council and of the Executive Committee.
+  - (2) The Executive Director shall, unless it is not reasonably practicable, attend all the meetings of the Council. (Amended 6 of 2007 s. 48)
 
   - (3) At any meeting of the Council, the Chairman shall preside and if the Chairman is absent from any meeting of the Council for any reason or if the office of Chairman is vacant, the Vice-chairman will act as Chairman in his place.
 
@@ -64,9 +62,9 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND MEMBERS THEREOF
 
 - 7.
 
-  - (1) The Council may establish an Executive Committee and any other committee as it thinks fit for the better carrying out of the functions of the Council.
+  - (1) The Council may establish any committee as it thinks fit for the better carrying out of the functions of the Council. (Amended 6 of 2007 s. 48)
 
-  - (2) The Executive Committee shall consist of the members appointed under section 3(3)(b) and (c) and the Executive Director, and its chairman shall be either the Chairman or the Vice-chairman of the Council.
+  - (2) (Repealed 6 of 2007 s. 48)
 
   - (3) Subject to subparagraph (4), the Council may—
 
@@ -78,7 +76,7 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND MEMBERS THEREOF
 
   - (5) A person appointed under subparagraph (3) who is not a member of the Council shall not vote at any meeting of the committee.
 
-  - (6) Subparagraphs (3) and (4) shall not apply in relation to the Executive Committee.
+  - (6) (Repealed 6 of 2007 s. 48)
 
   - (7) The chairman of a committee shall appoint the times and places of meetings of the committee.
 
@@ -86,6 +84,6 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND MEMBERS THEREOF
 
 - 8.
 
-  - (1) Any member of the Council or a committee who has a direct or indirect interest in any institution any aspect of the academic accreditation of which is to be considered at any meeting of the Council or a committee, and who is present at such meeting shall, as soon as practicable after the commencement of the meeting, disclose to the Council or the committee, as the case may be, the fact and nature of his interest and shall, if required by the chairman of the meeting, withdraw from the meeting at any time and for so long as the matter is being considered, and in any case shall not vote thereon.
+  - (1) Any member of the Council or a committee who has a direct or indirect interest in relation to any academic or vocational accreditation of which is to be considered at any meeting of the Council or a committee, and who is present at such meeting shall, as soon as practicable after the commencement of the meeting, disclose to the Council or the committee, as the case may be, the fact and nature of his interest and shall, if required by the chairman of the meeting, withdraw from the meeting at any time and for so long as the matter is being considered, and in any case shall not vote thereon. (Amended 6 of 2007 s. 48)
 
   - (2) Any member of the Council or a committee who has an interest of the nature referred to in subparagraph (1) and who is consulted by circulation of papers on a matter relating to the subject of his interest shall disclose to the Chairman of the Council the fact and nature of his interest.
