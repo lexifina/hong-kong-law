@@ -320,4 +320,6 @@ Item | Periods | Rate of interest
 
 158. | On or after 4 June 2007 and before 2 October 2007 (L.N. 103 of 2007; L.N. 178 of 2007) | 2.6333% per annum
 
-159. | On or after 2 October 2007 (L.N. 178 of 2007) | 2.6167% per annum
+159. | On or after 2 October 2007 and before 5 November 2007 (L.N. 178 of 2007; L.N. 204 of 2007) | 2.6167% per annum
+
+160. | On or after 5 November 2007 (L.N. 204 of 2007) | 2.6833% per annum
