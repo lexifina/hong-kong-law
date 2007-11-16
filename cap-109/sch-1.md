@@ -42,7 +42,7 @@
 
 - PART III DUTY ON HYDROCARBON OIL
 
-  - 1. Subject to paragraph 1A, duty shall be payable on hydrocarbon oil at the following rates per litre— (Amended L.N. 233 of 2000)
+  - 1. Duty shall be payable on hydrocarbon oil (other than ultra low sulphur diesel and Euro V diesel) at the following rates per litre— (Amended L.N. 233 of 2000; L.N. 220 of 2007)
 
   - $
 
@@ -65,6 +65,14 @@
     - (c) (Repealed L.N. 150 of 2001)
 
   - (Added L.N. 233 of 2000. Amended L.N. 364 of 2000; L.N. 39 of 2002; L.N. 76 of 2003; L.N. 50 of 2004; L.N. 199 of 2004; L.N. 234 of 2005; L.N. 274 of 2006)
+
+  - 1B. Duty shall be payable on Euro V diesel at the following rates—
+
+    - (a) from 1 December 2007 to 30 November 2009 (both dates inclusive), at $0.56 per litre; and
+
+    - (b) from 1 December 2009, at $2.89 per litre.
+
+  - (Added L.N. 220 of 2007)
 
   - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; 21 of 1998 s. 2)
 
@@ -96,7 +104,55 @@
 
       - (f) has a distillation percentage recovered at 250°C not more than 65% by volume as determined by ISO 3405.
 
-    - Note: In this Part, “ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Organization for Standardization commonly known by that ISO number. (Added L.N. 233 of 2000)
+  - (Added L.N. 233 of 2000. Amended L.N. 220 of 2007)
+
+  - 6.
+
+    - For the purposes of paragraph 1B, “Euro V diesel” (歐盟V期柴油) means a light diesel oil which—
+
+      - (a) contains not more than 10.0 mg/kg of sulphur as determined by ISO 20884;
+
+      - (b) has a cetane number of not less than 51.0 as determined by ISO 5165;
+
+      - (c) has a cetane index of not lower than 46.0 as determined by ISO 4264;
+
+      - (d) has a viscosity at 40°C of not lower than 2.00 mm2/s and not higher than 4.50 mm2/s as determined by ISO 3104;
+
+      - (e) contains not more than 11% by mass of polycyclic aromatic hydrocarbons as determined by IP 391;
+
+      - (f) has a 95% distillation temperature of not higher than 360°C as determined by ISO 3405;
+
+      - (g) has a distillation percentage recovered at 250°C of lower than 65% by volume as determined by ISO 3405;
+
+      - (h) has a distillation percentage recovered at 350°C of not lower than 85% by volume as determined by ISO 3405;
+
+      - (i) has a density at 15°C of not lower than 0.820 kg/L and not higher than 0.845 kg/L as determined by ISO 3675;
+
+      - (j) has a flash point of above 55°C as determined by ISO 2719;
+
+      - (k) contains not more than 0.30% by mass of carbon residue (on 10% distillation residue) as determined by ISO 10370;
+
+      - (l) contains not more than 0.01% by mass of ash as deterimined by ISO 6245;
+
+      - (m) contains not more than 200 mg/kg of water as determined by ISO 12937;
+
+      - (n) contains total contamination of not more than 24 mg/kg as determined by ISO 12662;
+
+      - (o) has a copper strip corrosion (3h at 50°C) rating of Class 1 as determined by ISO 2160;
+
+      - (p) has an oxidation stability of not higher than 25 g/m3 as determined by ISO 12205; and
+
+      - (q) has a lubricity, corrected wear scar diameter (wsd 1.4) at 60°C, of not higher than 460 μm as determined by ISO 12156-1.
+
+    - Note: In this Part-
+
+    - ”IP” followed by a numerical symbol (“IP number”) means the test procedures of the Institute of Petroleum commonly known by that IP number;
+
+    - ”ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Organization for Standardization commonly known by that ISO number;
+
+    - “viscosity” (黏度) means the viscosity of diesel as determined by ISO 3104.
+
+  - (Added L.N. 220 of 2007)
 
 - PART IV DUTY ON METHYL ALCOHOL
 
