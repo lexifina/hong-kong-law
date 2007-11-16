@@ -142,4 +142,6 @@ Item Body
 
 - 70. The Society of Rehabilitation and Crime Prevention, Hong Kong (Added L.N. 67 of 2004)
 
-- 71. The Mental Health Association of Hong Kong (Added L.N. 71 of 2006) (Schedule 2 replaced L.N. 269 of 1999)
+- 71. The Mental Health Association of Hong Kong (Added L.N. 71 of 2006)
+
+- 73. The Neighbourhood Advice-Action Council (Added L.N. 216 of 2007) (Schedule 2 replaced L.N. 269 of 1999)
