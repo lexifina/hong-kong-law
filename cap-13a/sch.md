@@ -162,7 +162,7 @@ To XYZ (Income Source)
 
 AND WHEREAS it appears to the Court that you are an income source of the Maintenance Payer.
 
-YOU ARE HEREBY ORDERED to verify the contents of the annexed statement of means of the Maintenance Payer by filling in the attached statement of verification, and filing the same in Court within 14 days of the date of this Order. The statement of verification may be signed by you or in the case of a public body, body corporate or body unincorporate, any person authorized to sign on its behalf.
+YOU ARE HEREBY ORDERED to verify the contents of the annexed statement of means of the Maintenance Payer by filling in the attached statement of verification, and filing the same in Court within 14 days of the date of this Order. The statement of verification may be signed by you or in the case of the Government, a public body, body corporate or body unincorporate, any person authorized to sign on its behalf.
 
 Dated this . day of .
 
@@ -184,7 +184,7 @@ Date .
 
 * Delete where inapplicable.
 
-(L.N. 260 of 2001)
+(L.N. 260 of 2001; 20 of 2007 s. 10)
 
 FORM 3A | [rules 5A]
 
