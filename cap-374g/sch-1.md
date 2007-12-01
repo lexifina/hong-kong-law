@@ -14,7 +14,7 @@ THIS SIGN MAY BE PLACED ON MINOR ROADS AT THEIR JUNCTION WITH MAJOR ROADS AND SH
 
 THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE NO 409.
 
-REGULATORY FIGURE No. 103 MANUALLY OPERATED TEMPORARY SIGN THIS SIGN IS USED TO INDICATE TO VEHICULAR TRAFFIC THAT IT SHALL NOT PROCEED INTO THE LENGTH OF ROAD WHERE ONE WAY WORKING IS NECESSARY. | REGULATORY FIGURE No. 102 GIVE WAY THIS SIGN MAY BE PLACED ON MINOR ROADS AT THEIR JUNCTIONS WITH MAJOR ROADS. APART FROM THOSE COVERED BY STOP SIGNS OR OTHER SIGNALS AND SHALL INDICATE THAT NO VEHICLE SHALL PROCEED PAST THE TRANSVERSE LINES IN FIG. No.508 IN SCHEDULE 2 USED IN CONJUNCTION WITH THE ‘GIVE WAY’ SIGN OR ENTER ONTO THE MAJOR ROAD IF THERE ARE NO TRANSVERSE LINES OR THEY ARE NOT FOR THE TIME BEING VISIBLE IN SUCH A MANNER OR AT SUCH A TIME AS IS LIKELY TO CAUSE DANGER TO THE DRIVER OF ANY VEHICLE ON THE MAJOR ROAD OR AS TO NECESSITATE THE DRIVER OF SUCH VEHICLE TO CHANGE ITS SPEED OR COURSE IN ORDER TO AVOID AN ACCIDENT WITH ANOTHER VEHICLE. THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 409. (L.N.72 of 1990)
+REGULATORY FIGURE No. 103 MANUALLY OPERATED TEMPORARY SIGN THIS SIGN IS USED TO INDICATE TO VEHICULAR TRAFFIC THAT IT SHALL NOT PROCEED INTO THE LENGTH OF ROAD WHERE ONE WAY WORKING IS NECESSARY. | REGULATORY FIGURE No. 102 GIVE WAY THIS SIGN MAY BE PLACED ON MINOR ROADS AT THEIR JUNCTIONS WITH MAJOR ROADS. APART FROM THOSE COVERED BY STOP SIGNS OR OTHER SIGNALS AND SHALL INDICATE THAT NO VEHICLE SHALL PROCEED PAST THE TRANSVERSE LINES IN FIG. No.508 IN SCHEDULE 2 USED IN CONJUNCTION WITH THE ‘GIVE WAY’ SIGN OR ENTER ONTO THE MAJOR ROAD IF THERE ARE NO TRANSVERSE LINES OR THEY ARE NOT FOR THE TIME BEING VISIBLE IN SUCH A MANNER OR AT SUCH A TIME AS IS LIKELY TO CAUSE DANGER TO THE DRIVER OF ANY VEHICLE ON THE MAJOR ROAD OR AS TO NECESSITATE THE DRIVER OF SUCH VEHICLE TO CHANGE ITS SPEED OR COURSE IN ORDER TO AVOID AN ACCIDENT WITH ANOTHER VEHICLE. THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. 409. (L.N. 72 of 1990)
 
 REGULATORY FIGURE No. 105 STOP POLICE THIS SIGN IS FOR USE BY THE POLICE TO STOP VEHICLES | REGULATORY FIGURE No. 104 MANUALLY OPERATED TEMPORARY SIGN THIS SIGN IS USED TO INDICATE TO VEHICULAR TRAFFIC THAT IT MAY PROCEED INTO THE LENGTH OF ROAD WHERE ONE WAY WORKING IS NECESSARY.
 
@@ -195,6 +195,36 @@ THIS SIGN INDICATES THAT A SPEED LIMIT OF 80 km PER HOUR IS IMPOSED ON THE SECTI
 THE NUMERALS IN THE SIGN MAY BE ALTERED TO SUIT THE SPEED LIMIT IN FORCE.
 
 (L.N. 62 of 2007)
+
+REGULATORY
+
+FIGURE No. 174
+
+DANGEROUS GOODS PROHIBITED
+
+This sign indicates that the following vehicles are prohibited from passing beyond the sign—
+
+- (a) any vehicle carrying dangerous goods specified in Categories 1, 2 or 5 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A);
+
+- (b) any vehicle carrying any cylinder (as defined in regulation 61 of the Dangerous Goods (General) Regulations (Cap. 295 sub. leg. B)) used or to be used for the storage of compressed gas specified in Category 2 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A), whether or not such cylinder contains any quantity of such gas;
+
+- (c) any vehicle constructed or adapted for the conveyance, or any vehicle carrying a container used or to be used for the storage, of goods specified in Category 5 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A), whether or not such vehicle or container contains any quantity of such goods.
+
+Notwithstanding the above, such prohibition shall not apply to—
+
+- (a) a vehicle carrying any of the goods specified in Category 2 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A) the quantity of which does not exceed the quantity specified in relation to such goods in the second column of the Table to regulation 74 of the Dangerous Goods (General) Regulations (Cap. 295 sub. leg. B);
+
+- (b) a vehicle carrying any of the goods specified in Category 5 of the Schedule to the Dangerous Goods (Application and Exemption) Regulations (Cap. 295 sub. leg. A) the quantity of which does not exceed the quantity specified in relation to such goods in the seventh or eighth column of the Table to regulation 99 of the Dangerous Goods (General) Regulations (Cap. 295 sub. leg. B);
+
+- (c) a vehicle conveying fuel carried in the fuel tank of that vehicle for the purpose only of its propulsion;
+
+- (d) (in the case of a vehicle carrying petroleum spirit in its fuel tank for the purpose only of its propulsion) a vehicle conveying petroleum spirit, up to a maximum of 20L in securely closed cans, carried on the vehicle for such purpose;
+
+- (e) a vehicle carrying dangerous goods which is driven for any fire services, ambulance or police purpose.
+
+This sign may be used with the supplementary plate in Figure No. 434.
+
+(L.N. 153 of 2007)
 
 WARNING FIGURE No. 201 STOP OR GIVE WAY SIGN AHEAD THIS SIGN WARNS OF THE APPROACH TO A ‘STOP’ OR ‘GIVE WAY’ SIGN. IT SHALL BE USED IN CONJUNCTION WITH EITHER OF THE SUPPLEMENTARY PLATES SHOWN IN FIGURE NOS. 421, 422 INDICATING WHETHER THE APPROACH IS TO ‘STOP’ OR ‘GIVE WAY’ AND THE DISTANCE TO THE CONTROL.
 
@@ -435,3 +465,13 @@ The word “taxis” and characters “的士” may be varied to “N T taxis�
 The times on this plate may be varied to specify any period of time or times or in 24-hour time display without the words “am” and “上午” and/or “pm” and “下午”.
 
 (L.N. 16 of 2007)
+
+SUPPLEMENTARY
+
+PLATE
+
+FIGURE No. 434
+
+This sign may be used with the sign in Figure No. 174 to indicate the category or categories of dangerous goods referred to in that figure.
+
+(L.N. 153 of 2007)
