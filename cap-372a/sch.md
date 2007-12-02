@@ -1,4 +1,8 @@
-# SCHEDULE
+# Schedule
+
+(Suspended L.N. 111 of 2007 s. 2)
+
+(With effect from 2 December 2007, the operation of these regulations is suspended during the Concession Period referred to in s. 2(1) of the Kowloon-Canton Railway Corporation Ordinance (Cap. 372), for details please see L.N. 111 and 200 of 2007.)
 
 [reg. 3]
 
@@ -8,7 +12,7 @@ NOTIFIABLE OCCURRENCES
 
   - 1. Any accident connected with the operation of the railway or with the maintenance thereof, not being an accident which is notifiable under regulation 2, as a result of which an employee of the Corporation or of a contractor with the Corporation is unable, for a period exceeding 3 days immediately after the accident, to fully carry out his normal duties.
 
-  - 2. Any occurrence, not coming within paragraph 1, in which a person—
+  - 2. Any occurrence, not coming within paragraph 1, in which a person —
 
     - (a) falls off a platform or crosses a line whether or not he is struck by a train;
 
