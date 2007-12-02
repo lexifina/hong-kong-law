@@ -16,11 +16,11 @@
 
     - Provided that there shall be excluded from the land so vested the land registered in the Land Registry, as Sha Tin Town Lot No. 87. (Amended 8 of 1993 s. 2; 20 of 2002 s. 5)
 
-  - 3. In respect of the land bounded by a bold discontinuous black line on the said plans there shall be vested such underground wayleaves or rights of passage as are necessary for the Corporation to operate the railway as existing immediately prior to the appointed day, including the right to maintain or reconstruct all railway tracks, tunnels and other works which were constructed for the purposes of or in connexion with the railway and in existence immediately prior to the appointed day and to construct and maintain new works for the better exercise of such wayleave or right of passage.
+  - 3. In respect of the land bounded by a bold discontinuous black line on the said plans there shall be vested such underground wayleaves or rights of passage as are necessary for the operation of the railway as existing immediately prior to the appointed day, including the right to maintain or reconstruct all railway tracks, tunnels and other works which were constructed for the purposes of or in connexion with the railway and in existence immediately prior to the appointed day and to construct and maintain new works for the better exercise of such wayleave or right of passage. (Amended 11 of 2007 s. 34)
 
   - 4. In respect of the land shown hatched black on the said plans there shall be vested—
 
-    - (a) such wayleaves or rights of passage as are necessary for the Corporation to operate the railway as existing immediately prior to the appointed day or, as the case may be, as it will be after the execution of the works under the scheme referred to in section 10(1)(c)*;
+    - (a) such wayleaves or rights of passage as are necessary for the operation of the railway as existing immediately prior to the appointed day or, as the case may be, as it will be after the execution of the works under the scheme referred to in section 10(1)(c)*; (Amended 11 of 2007 s. 34)
 
     - (b) the right to maintain or reconstruct all railway tracks, railway bridges and other works on such land and to construct and maintain new works for the better exercise of such wayleave or right of passage.
 
@@ -42,7 +42,7 @@
 
   - 8. The provisions of paragraphs 1(2) and 2 of the Third Schedule shall apply to an agreement under paragraph 7 as they do to an agreement under paragraph 1(1) of that Schedule and any certificate under paragraph 2 of the Third Schedule as read with this paragraph shall, as soon as may be, be annexed to the said plans and be deemed to form part thereof:
 
-    - Provided that in applying the said paragraphs for the purposes of this paragraph references to the Secretary for the Environment, Transport and Works shall be deemed to be references to the Director of Lands. (Amended L.N. 106 of 2002)
+    - Provided that in applying the said paragraphs for the purposes of this paragraph references to the Secretary for Transport and Housing shall be deemed to be references to the Director of Lands. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
   - 9. Nothing in this Schedule shall vest in the Corporation any rights which were not vested in the Government immediately prior to the appointed day and nothing in this Schedule shall affect the exercise by any person, other than the Government, of any rights in respect of the said land which he possessed immediately prior to the appointed day. (Amended 29 of 1998 s. 80)
 
@@ -104,7 +104,7 @@
 
   - 13. There shall be reserved to the Government in respect of all land within the said land occupied by the Mass Transit Railway Corporation immediately prior to the appointed day the right to lease such land or any part thereof to the Mass Transit Railway Corporation upon such terms and conditions as the Government may determine, so however that nothing in any such lease shall affect the right of the Corporation established under this Ordinance to use the surface of such land for railway or other purposes and to have reasonable support for such use.
 
-  - 14. The Corporation shall not withdraw or vary the terms of any licence granted prior to the appointed day by the Government to the Mass Transit Railway Corporation or to the Government of the United Kingdom entitling the Mass Transit Railway Corporation or the Government of the United Kingdom to use any part of the said land, or any arrangement made to that effect, without the written approval of the Secretary for the Environment, Transport and Works. (Amended L.N. 106 of 2002)
+  - 14. The Corporation shall not withdraw or vary the terms of any licence granted prior to the appointed day by the Government to the Mass Transit Railway Corporation or to the Government of the United Kingdom entitling the Mass Transit Railway Corporation or the Government of the United Kingdom to use any part of the said land, or any arrangement made to that effect, without the written approval of the Secretary for Transport and Housing. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
   - 15. The Corporation may—
 
