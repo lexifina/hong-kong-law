@@ -78,6 +78,8 @@
 
   - 3. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles owned and operated by the Kowloon-Canton Railway Corporation under section 4(1)(d) of the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) in maintaining bus services within the North-west Transit Service Area, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Added L.N. 203 of 1987. Amended 35 of 1992 s. 6)
 
+  - 3A. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the MTR Corporation Limited in maintaining bus services within the North-west Transit Service Area referred to in paragraph 3 during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556), a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Added 11 of 2007 s. 36)
+
   - 4. Subject to such conditions as the Commissioner may impose for the protection of the revenue, duty payable on hydrocarbon oil for use by a disabled person within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374) in a private car, invalid carriage, motor cycle or motor tricycle owned and driven by him shall be waived, such waiver to be subject—
 
     - (a) in the case of a private car or an invalid carriage, to a limit of 200 litres per month; and

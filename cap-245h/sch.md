@@ -6,7 +6,7 @@
 
 Item | Persons permitted to enter or leave | Times | Conditions
 
-1. | Persons travelling to or from the Mainland of China who enter or leave the Frontier Closed Area by train. | At any time | The person shall not leave railway premises as defined for the purposes of the Kowloon-Canton Railway Corporation Ordinance (Cap. 372). (L.N. 108 of 2003; L.N. 74 of 2007)
+1. | Persons travelling to or from the Mainland of China who enter or leave the Frontier Closed Area by train. | At any time | The person shall not leave railway premises as defined for the purposes of— (L.N. 108 of 2003; L.N. 74 of 2007; 11 of 2007 s. 36) (a) during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556), the Mass Transit Railway Ordinance (Cap. 556); and (b) at any other time, the Kowloon-Canton Railway Corporation Ordinance (Cap. 372). (11 of 2007 s. 36)
 
 2. | The drivers of and cross-boundary passengers on road vehicles to or from the Mainland of China, entering or leaving Hong Kong via Man Kam To Boundary Control Point. | At any time | The driver shall drive his vehicle directly from the Sha Ling road block (KK 0391 9348) along the Man Kam To Road to the Man Kam To Boundary Control Point or from that Control Point along that road to that road block, and the driver or passenger shall not leave the immediate vicinity of the vehicle. (L.N. 266 of 1987; L.N. 108 of 2003; L.N. 74 of 2007)
 
@@ -28,6 +28,8 @@ Item | Persons permitted to enter or leave | Times
 
 4. | Employees of the Kowloon Motor Bus Company (1933) Limited in uniform and operating company buses on authorized routes within the closed area. | At any time
 
-5. | Employees of the Kowloon-Canton Railway Corporation on duty on board trains or otherwise in the course of their duties within the closed area. | At any time
+5. | Employees of the Kowloon-Canton Railway Corporation on duty on board trains or otherwise in the course of their duties within the closed area at any time outside the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556). (11 of 2007 s. 36) | At any time
+
+5A. | Employees of the MTR Corporation Limited on duty on board trains or otherwise in the course of their duties in the closed area during the Concession Period referred to in item 5. (11 of 2007 s. 36) | At any time
 
 6. | Employees of the Guangzhou Railway Administration or the Motor Transport Company of Guangdong and Hong Kong Limited operating trains or company road transport to or from the Mainland of China. (L.N. 108 of 2003) | At any time

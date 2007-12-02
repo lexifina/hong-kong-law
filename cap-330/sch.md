@@ -20,9 +20,17 @@ Item | Class of motor vehicle | Rate of tax %
 
 3. | Public light buses and private light buses . | 3.7
 
-4. | Public buses, except buses which are to be used solely in connection with operating a public bus service under the Public Bus Services Ordinance (Cap. 230) or under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area as defined in that Ordinance . | 3.7
+4. | Public buses, except buses which are to be used solely in connection with operating a public bus service— (Amended 11 of 2007 s. 36) (a) under the Public Bus Services Ordinance (Cap. 230);
 
-5. | Private buses, except buses which are to be used solely in connection with the training of drivers for the purposes of operating a public bus service under the Public Bus Services Ordinance (Cap. 230) or within the North-west Transit Service Area under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) . | 3.7
+(b) under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area within the meaning of section 2(1) of that Ordinance; or
+
+(c) by the MTR Corporation Limited within the North-west Transit Service Area referred to in paragraph (b) during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556) (Amended 11 of 2007 s. 36) . | 3.7
+
+5. | Private buses, except buses which are to be used solely in connection with the training of drivers for the purposes of operating a public bus service— (Amended 11 of 2007 s. 36) (a) under the Public Bus Services Ordinance (Cap. 230);
+
+(b) under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area referred to in item 4(b); or
+
+(c) by the MTR Corporation Limited within the North-west Transit Service Area referred to in item 4(b) during the Concession Period referred to in item 4(c) (Amended 11 of 2007 s. 36) . | 3.7
 
 6. | Motor cycles . | 35
 

@@ -1,7 +1,5 @@
 # FIFTH SCHEDULE
 
-(Adaptation amendments retroactively made - see 29 of 1998 ss. 81 & 105; 62 of 1999 s. 3)
-
 [ss. 7(6) & (7), 34A(1) & 35(3)]
 
 - PART I
@@ -12,13 +10,13 @@
 
     - (a) such rights as are necessary to enable the Corporation to construct the North-west Railway;
 
-    - (b) such wayleaves or rights of passage as are necessary for the Corporation to operate the North-west Railway;
+    - (b) such wayleaves or rights of passage as are necessary for the operation of the North-west Railway; (Amended 11 of 2007 s. 35)
 
     - (c) the right to maintain or reconstruct all railway tracks, railway bridges and other works on such land and to construct and maintain new works for the better exercise of such wayleave or right of passage.
 
   - 3. In respect of the land shown hatched black on the plans there shall be vested—
 
-    - (a) such rights as are necessary to enable the Corporation to construct and maintain platforms (which expression in this paragraph includes the platforms proper, access ramps, shelters erected over such platforms and any necessary ancillary structures) for the use of persons alighting from and ascending into the carriages of the North-west Railway;
+    - (a) such rights as are necessary to enable the construction and maintenance of platforms (which expression in this paragraph includes the platforms proper, access ramps, shelters erected over such platforms and any necessary ancillary structures) for the use of persons alighting from and ascending into the carriages of the North-west Railway; (Amended 11 of 2007 s. 35)
 
     - (b) the right to place and maintain on such platforms ticket vending machines and other objects required for the operation of the said Railway;
 

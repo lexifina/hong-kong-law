@@ -10,17 +10,21 @@ Item | Type of carrier
 
 2. | A public bus operated under a passenger service licence for the purposes of— (a) a tour service; (b) an international passenger service; (c) a hotel service; (d) a student service; (e) an employees’ service; (f) a residents’ service; (g) a multiple transport service; or (h) any other service approved by the Commissioner for Transport,
 
-under the Road Traffic Ordinance (Cap. 374) other than when hired to any person under regulation 38 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg.).
+under the Road Traffic Ordinance (Cap. 374) other than when hired to any person under regulation 38 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D).
 
-3. | A public light bus within the meaning of the Road Traffic Ordinance (Cap. 374) other than when hired to any person under regulation 38 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg.).
+3. | A public light bus within the meaning of the Road Traffic Ordinance (Cap. 374) other than when hired to any person under regulation 38 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D).
 
-4. | A registered taxi within the meaning of the Road Traffic Ordinance (Cap. 374) other than when hired to any person under regulation 38 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg.).
+4. | A registered taxi within the meaning of the Road Traffic Ordinance (Cap. 374) other than when hired to any person under regulation 38 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D).
 
 5. | A train operated on the Mass Transit Railway under the Mass Transit Railway Ordinance (Cap. 556). (Amended 13 of 2000 s. 65)
 
-6. | A train operated on the Kowloon-Canton Railway under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372).
+6. | A train operated on the Kowloon-Canton Railway under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) at any time outside the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556). (Amended 11 of 2007 s. 36)
 
-7. | A light rail vehicle operated on the North-west Railway under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372).
+6A. | A train operated on the KCRC Railway within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556) during the Concession Period referred to in item 6. (Added 11 of 2007 s. 36)
+
+7. | A light rail vehicle operated on the North-west Railway under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) at any time outside the Concession Period referred to in item 6. (Amended 11 of 2007 s. 36)
+
+7A. | A light rail vehicle operated on the North-west Railway within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556) during the Concession Period referred to in item 6. (Added 11 of 2007 s. 36)
 
 8. | A car used upon the tramway under the Tramway Ordinance (Cap. 107) other than on a hire tramway service.
 

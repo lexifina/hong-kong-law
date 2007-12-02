@@ -58,7 +58,11 @@ PROVISIONS WITH RESPECT TO THE CORPORATION AND MEMBERS THEREOF
 
 - the Chief Executive may declare his office as a member of the Corporation to be vacant, and shall notify the fact in such manner as the Chief Executive thinks fit; and thereupon the office shall become vacant. (Amended 62 of 1999 s. 3)
 
-- 9. The quorum of the Corporation shall be 5 and, while a member is disqualified from taking part in a decision or deliberation of the Corporation in respect to a matter, he shall be disregarded for the purpose of constituting a quorum of the Corporation for deciding, or deliberating on, that matter.
+- 9.
+
+  - (1) The quorum of the Corporation shall be 5 and, while a member is disqualified from taking part in a decision or deliberation of the Corporation in respect to a matter, he shall be disregarded for the purpose of constituting a quorum of the Corporation for deciding, or deliberating on, that matter. (Amended 11 of 2007 s. 33)
+
+  - (2) During the Concession Period, subparagraph (1) does not apply, and a simple majority of the members of the Corporation for the time being shall form the quorum. (Added 11 of 2007 s. 33)
 
 - 10. Subject to the foregoing provisions of this Schedule, the Corporation shall have power to regulate its own procedure including the manner in which decisions of the Corporation may be made by a quorum of its members otherwise than at a meeting of the Corporation.
 
