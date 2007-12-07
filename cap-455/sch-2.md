@@ -64,9 +64,17 @@ Common law offences
 
 - section 4(1) | bribery of public servant
 
+- section 4(2) | soliciting or accepting bribes in the capacity of a public servant (Added L.N. 229 of 2007)
+
 - section 5(1) | bribery for giving assistance, etc. in regard to contracts
 
+- section 5(2) | soliciting or accepting bribes in the capacity of a public servant for giving assistance, etc. in regard to contracts (Added L.N. 229 of 2007)
+
 - section 6(1) | bribery for procuring withdrawal of tenders
+
+- section 6(2) | soliciting or accepting bribes for withdrawal of tenders (Added L.N. 229 of 2007)
+
+- section 9(1) | soliciting or accepting bribes in the capacity of an agent (Added L.N. 229 of 2007)
 
 - section 9(2) | bribery of agent
 
