@@ -4,17 +4,15 @@
 
 TABLE A
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 Item | Description | Fee $
 
 1-2. | (Repealed L.N. 83 of 1998)
 
-3. | Bankruptcy petition . | 1045.00
+3. | Bankruptcy petition . This fee includes any fee on answering a petition or setting down for hearing. (L.N. 127 of 2007) | 1045.00
 
 4. | Proof of debt above $250, including filing, (other than a proof for workmen’s wages) (L.N. 567 of 1994; L.N. 164 of 1997) . | 40.00
 
-5. | Petition under section 112 . | 1045.00
+5. | Petition under section 112 . This fee includes any fee on answering a petition or setting down for hearing. (L.N. 127 of 2007) | 1045.00
 
 6. | (a) Application for early discharge, for the suspension of discharge or for the lifting of a suspension of discharge including any gazetting costs (L.N. 83 of 1998) . | 528.00
 
@@ -26,7 +24,7 @@ Item | Description | Fee $
 
 9. | Allocatur by the Registrar for any costs, charges or disbursements, for every $100 allowed or part thereof . | 6.00
 
-10. | Application to the Official Receiver for payment of money out of the Bankruptcy Estates Account (L.N. 567 of 1994; L.N. 164 of 1997) . | 85.00
+10. | Application to the Official Receiver for payment of money out of the Bankruptcy Estates Account (L.N. 567 of 1994; L.N. 164 of 1997) | 85.00
 
 11. | (a) On every payment of money out of the Bankruptcy Estates Account— on each $1,000 or fraction of $1,000 to be charged as follows—
 
@@ -48,11 +46,11 @@ Item | Description | Fee $
 
 15. | Registration of assignment of book debts under rule 127— (a) on producing original assignment, filing attested copy thereof and certified translation (when necessary) in the English or Chinese language, including registering and marking original (L.N. 83 of 1998) | 220.00
 
-(b) every search or official certificate of the result of a search in one name in any register or index in the custody of the Register . | 220.00
+(b) every search or official certificate of the result of a search in one name in any register or index in the custody of the Register | 220.00
 
-(c) for every additional name if included in the same certificate . | 110.00
+(c) for every additional name if included in the same certificate | 110.00
 
-(d) for a duplicate copy of a certificate, per page or part thereof . | 35.00
+(d) for a duplicate copy of a certificate, per page or part thereof | 35.00
 
 16. | Application by a member of the public to the Official Receiver for a search on whether a bankruptcy petition has been presented against a person or firm (L.N. 223 of 1989; L.N. 567 of 1994; L.N. 164 of 1997) . | 85.00
 
@@ -62,15 +60,15 @@ Item | Description | Fee $
 
 19. | Examination by a creditor of the record signed by the bankrupt under section 19 (L.N. 83 of 1998) . | 85.00
 
-20. | Examination by a creditor of the proofs of debt of other creditors under rule 7 of the Proof of Debts Rules (Cap. 6 sub. leg.) (L.N. 83 of 1998) . | 85.00
+20. | Examination by a creditor of the proofs of debt of other creditors under rule 7 of the Proof of Debts Rules (Cap. 6 sub. leg. E) (L.N. 83 of 1998) . | 85.00
 
-21. | Photocopying charge per page or part thereof for furnishing a creditor with a list of creditors under section 87 (L.N. 83 of 1998) . | 6.10
+21. | Photocopying charge per page or part thereof for providing a creditor with a list of creditors under section 87 (L.N. 83 of 1998; L.N. 127 of 2007) . | 6.10
 
 (L.N. 136 of 1988; L.N. 359 of 1992; L.N. 162 of 1994; L.N. 89 of 1996)
 
 TABLE B
 
-- 1. On payments made by the Official Receiver into the Official Receiver in Bankruptcy Account, whether acting as interim receiver, receiver or trustee to administer a debtor’s or bankrupt’s property, and on payments made by the Official Receiver into any bank account opened by him in his capacity as nominee under a voluntary arrangement, after deducting any sums paid to secured creditors in respect of their securities, and not being monies received and spent in carrying on the business of a debtor or bankrupt, a charge of 10%. (L.N. 427 of 1993; L.N. 83 of 1998)
+- 1. On payments made by the Official Receiver into the Official Receiver in Bankruptcy Account, whether acting as interim trustee or trustee to administer a debtor’s or bankrupt’s property, and on payments made by the Official Receiver into any bank account opened by him in his capacity as nominee under a voluntary arrangement, after deducting any sums paid to secured creditors in respect of their securities, and not being monies received and spent in carrying on the business of a debtor or bankrupt, a charge of 10%. (L.N. 427 of 1993; L.N. 83 of 1998; L.N. 127 of 2007)
 
 - 2.
 
@@ -80,7 +78,7 @@ TABLE B
 
 - 3. On the amount paid to preferential creditors or distributed in dividend or otherwise by the Official Receiver when acting otherwise than as nominee under an approved voluntary arrangement, a charge of 5%. (L.N. 83 of 1998)
 
-- 4. For the Official Receiver acting as interim receiver of the property of a debtor under section 13, in addition to the percentage chargeable on realizations, on every order . $1,100 and in addition, where the order is in force for a longer period than 14 days, for every 7 days after the first 14, and for every fraction of 7 days . $1,100 (L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997)
+- 4. For the Official Receiver acting as interim trustee of the property of a debtor under section 13, in addition to the percentage chargeable on realizations, on every order . $1,100 and in addition, where the order is in force for a longer period than 14 days, for every 7 days after the first 14, and for every fraction of 7 days . $1,100 (L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 127 of 2007)
 
 - 5. For all official stationery, printing and postage within Hong Kong; and to include notices to creditors of meetings and sittings of the court and room hire—
 
@@ -98,9 +96,9 @@ TABLE B
 
 - 9. On the aggregate amount of the assets realized and brought to credit there shall be paid—
 
-  - (a) in respect of estates in which the Official Receiver acts as trustee, when he accounts to the court under section 78(3);
+  - (a) in respect of estates in which the Official Receiver acts as trustee, when he accounts to the court under section 86B(2);
 
-  - (b) in respect of estates in which the Official Receiver is not acting as trustee, when the trustee sends his accounts to the Official Receiver under section 93(1),
+  - (b) in respect of estates in which the Official Receiver is not acting as trustee, when the trustee provides his accounts to the Official Receiver under section 93(1A),
 
 - a fee according to the following scale—
 
@@ -114,7 +112,7 @@ TABLE B
 
   - (v) on the next $40,000,000 or fraction thereof, $20 on every $1,000 or fraction thereof;
 
-  - (vi) on all further amounts, $10 on every $1,000 or fraction thereof. (L.N. 83 of 1998)
+  - (vi) on all further amounts, $10 on every $1,000 or fraction thereof. (L.N. 83 of 1998; L.N. 127 of 2007)
 
 - 10. Where the Official Receiver performs any special duties not provided for under the other paragraphs of this Table-such amount as the court, on the application of the Official Receiver, may consider reasonable.
 
@@ -142,8 +140,6 @@ An architect or auctioneer who uses his own motor car or motor cycle, instead of
 
 Editorial Note:
 
-- 1. Please see the transitional provisions contained in s. 3 of L.N. 83 of 1998, which section is reproduced as follows— “3. Transitional Where before this Order comes into operation— (a) a petition in bankruptcy has been presented; or (b) a receiving order or adjudication in bankruptcy has been made,
+* The Schedule was amended by the Bankruptcy (Fees and Percentages)(Amendment) Order 2007 (L.N. 127 of 2007) . The transitional and savings provisions contained in s. 3 of that Amendment Order are reproduced as follows:
 
-- under the Ordinance, then the principal Order as it existed before being amended by this Order continues to apply to proceedings in respect of such a petition, receiving order or adjudication in bankruptcy.”.
-
-- 2. L.N. 83 of 1998 came into operation on 1 April 1998.
+“3. Transitional and savings provisions (1) Notwithstanding anything contained in this Order, the amendments effected under this Order shall not apply to any case in which the bankruptcy petition was presented before the commencement date, and such case shall continue and be disposed of as if this Order had not been made. (2) This section is in addition to and not in derogation of section 23 of the Interpretation and General Clauses Ordinance (Cap. 1). (3) For the purpose of this section, #“commencement date” (生效日期) means the day appointed for the commencement of the Bankruptcy (Amendment) Ordinance 2005 (18 of 2005) (except sections 1, 12, 19 and 32 of that Ordinance).”. # Commencement date: 10 December 2007.
