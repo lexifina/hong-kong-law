@@ -1,6 +1,7 @@
 intro.md
 s-001.md
 s-002.md
+s-002A.md
 s-003.md
 s-004.md
 s-005.md
@@ -245,10 +246,12 @@ s-157.md
 s-158.md
 s-158A.md
 s-159.md
+s-159A.md
 s-160.md
 s-161.md
 s-162.md
 s-163.md
+s-163A.md
 s-164.md
 s-165.md
 s-166.md
