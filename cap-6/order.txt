@@ -121,11 +121,15 @@ s-079A.md
 s-079B.md
 s-080.md
 s-081.md
+s-081A.md
 s-082.md
 s-083.md
 s-084.md
 s-085.md
+s-085A.md
 s-086.md
+s-086A.md
+s-086B.md
 s-087.md
 s-088.md
 s-089.md
@@ -196,3 +200,4 @@ s-142.md
 s-143.md
 sch-1.md
 sch-2.md
+sch-3.md
