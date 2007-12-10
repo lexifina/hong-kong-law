@@ -4,8 +4,6 @@
 
 DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
-(Schedule 2 was repealed but at the same time the original Schedule 3 was renumbered as Schedule 2 - see 26 of 2002 s. 4 & Sch. 3 (ss. 2 & 3(a)). The content of the amended Schedule 3 has been moved to Schedule 2 from then on.)
-
 - 1. .
 
 - 2. Interpretation
@@ -122,7 +120,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - depriving a person of a pecuniary advantage obtained in connection with drug trafficking,
 
-      - and whether the proceedings which gave rise to the order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property, is referred to in this Ordinance as an “external confiscation order” (外地沒收令). (87 of 1997 ss. 1(2) & 36)
+      - and whether the proceedings which gave rise to the order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property, is referred to in this Ordinance as an “external confiscation order” (外地沒收令). (87 of 1997 s. 36)
 
   - (2) In subsection (1) the reference to an order includes any order, decree, direction or judgment, or any part thereof, however described.
 
@@ -132,9 +130,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
 - 4-6. .
 
-- 6A.
-
-- Interest on amounts to be recovered
+- 6A. Interest on amounts to be recovered
 
 - under external confiscation orders
 
@@ -158,9 +154,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
       - (b) in any other case—
 
-        - (i) any property held by the defendant;
+        - (i) any property held by the defendant; (89 of 1995 s. 33)
 
-        - (ii) any property held by a person to whom the defendant has directly or indirectly made a gift caught by this Ordinance; and
+        - (ii) any property held by a person to whom the defendant has directly or indirectly made a gift caught by this Ordinance; and (89 of 1995 s. 33)
 
         - (iii) any property that is subject to the effective control of the defendant. (89 of 1995 s. 33)
 
@@ -242,13 +238,11 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
       - (C) family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in subparagraph (A) or trusts of the kind referred to in subparagraph (B), and other persons. (89 of 1995 section 33)
 
-  - (12) Where a person obtains a pecuniary advantage referred to in section 3(1)(b), he is to be treated for the purposes of this Ordinance as if he had obtained in connection with the drug trafficking to which the advantage relates a sum of money equal to the value of the advantage, and the other provisions of this Ordinance shall be construed accordingly. (87 of 1997 ss. 1(2) & 36)
+  - (12) Where a person obtains a pecuniary advantage referred to in section 3(1)(b), he is to be treated for the purposes of this Ordinance as if he had obtained in connection with the drug trafficking to which the advantage relates a sum of money equal to the value of the advantage, and the other provisions of this Ordinance shall be construed accordingly. (87 of 1997 s. 36)
 
 - 8. .
 
-- 9.
-
-- Cases in which restraint orders and charging
+- 9. Cases in which restraint orders and charging
 
 - orders may be made
 
@@ -302,9 +296,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
   - (8) (Repealed 89 of 1995 s. 33)
 
-  - (9) Where the Court of First Instance has made a restraint order, an authorized officer may, for the purpose of preventing any realisable property being removed from Hong Kong, seize the property. (25 of 1998 s. 2)
+  - (9) Where the Court of First Instance has made a restraint order, an authorized officer may, for the purpose of preventing any realisable property being removed from Hong Kong, seize the property. (L.N. 650 of 199425 of 1998 s. 2)
 
-  - (10) Property seized under subsection (9) shall be dealt with in accordance with the directions of the Court of First Instance. (25 of 1998 s. 2)
+  - (10) Property seized under subsection (9) shall be dealt with in accordance with the directions of the Court of First Instance. (5 of 1998 s. 2)
 
   - (11) Where any property specified in a restraint order is immovable property the order shall, for the purposes of the Land Registration Ordinance (Cap. 128)—
 
@@ -530,7 +524,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (a) property for the time being comprised in the property of the bankrupt for the purposes of the Bankruptcy Ordinance (Cap. 6); and
 
-    - (b) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 30A(9) of the Bankruptcy Ordinance (Cap. 6). (87 of 1997 ss. 1(2) & 36)
+    - (b) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 30A(9) of the Bankruptcy Ordinance (Cap. 6). (87 of 1997 s. 36)
 
   - (3) Nothing in the Bankruptcy Ordinance (Cap. 6) shall be taken as restricting, or enabling the restriction of, the exercise of the powers conferred on the Court of First Instance by sections 10 to 13. (25 of 1998 s. 2)
 
@@ -540,15 +534,17 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
 
-  - (5) Where, in the case of a debtor, an interim receiver stands appointed under section 13 of the Bankruptcy Ordinance (Cap. 6) and any property of the debtor is subject to a restraint order, the powers conferred on the interim receiver by virtue of that Ordinance do not apply to property for the time being subject to the restraint order.
+  - (5) Where, in the case of a debtor, an interim trustee stands appointed under section 13 of the Bankruptcy Ordinance (Cap. 6) and any property of the debtor is subject to a restraint order, the powers conferred on the interim trustee by virtue of that Ordinance do not apply to property for the time being subject to the restraint order. (18 of 2005 s. 48)
 
   - (6) Where a person is adjudged bankrupt and has directly or indirectly made a gift caught by this Ordinance—
 
     - (a) a court shall not make an order under—
 
-      - (i) section 49 or 50 of the Bankruptcy Ordinance (Cap. 6); or (87 of 1997 ss. 1(2) & 36)
+      - (i) section 49 or 50 of the Bankruptcy Ordinance (Cap. 6); or (87 of 1997 s. 36)
 
-      - (ii) section 60 of the Conveyancing and Property Ordinance (Cap. 219), in respect of the making of the gift at any time when property of the person to whom the gift was made is subject to a restraint order or charging order; and
+      - (ii) section 60 of the Conveyancing and Property Ordinance (Cap. 219),
+
+  - in respect of the making of the gift at any time when property of the person to whom the gift was made is subject to a restraint order or charging order; and
 
     - (b) any order made under any of those sections after the discharge of the restraint order or charging order shall take into account any realisation under this Ordinance of property held by the person to whom the gift was made.
 
@@ -586,9 +582,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
 - (25 of 1998 s. 2)
 
-- 18.
-
-- Insolvency officers dealing with property
+- 18. Insolvency officers dealing with property
 
 - subject to restraint order
 
@@ -604,7 +598,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (a) in respect of such property as is mentioned in subsection (1)(a) and in so doing does not know and has no reasonable grounds to believe that the property is for the time being subject to a restraint order; or
 
-    - (b) other than in respect of such property as is so mentioned, being expenses which, but for the effect of a restraint order, might have been met by taking possession of and realising the property, shall be entitled (whether or not he has seized or disposed of that property so as to have a lien under that subsection) to payment of those expenses under section 13(1) or (3).
+    - (b) other than in respect of such property as is so mentioned, being expenses which, but for the effect of a restraint order, might have been met by taking possession of and realising the property,
+
+  - shall be entitled (whether or not he has seized or disposed of that property so as to have a lien under that subsection) to payment of those expenses under section 13(1) or (3).
 
   - (3)
 
@@ -614,7 +610,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
       - (b) any person acting as—
 
-        - (i) a receiver, interim receiver, special manager or trustee appointed under the Bankruptcy Ordinance (Cap. 6); or
+        - (i) a trustee (including provisional trustee), interim trustee or special manager appointed under the Bankruptcy Ordinance (Cap. 6); or (18 of 2005 s. 48)
 
         - (ii) a liquidator, provisional liquidator or special manager appointed under the Companies Ordinance (Cap. 32).
 
@@ -656,7 +652,7 @@ INSTITUTION OF PROCEEDINGS
 
 Designated country | Point at which proceedings are instituted
 
-Australia Canada England and Wales Gibraltar Guernsey Isle of Man | (a) where an information has been laid before a justice of the peace; (b) when a person is charged with the offence after having been taken into custody without a warrant; or (c) when a bill of indictment is preferred. When an information has been laid or an indictment is preferred. (a) when an information has been laid before a justice of the peace; (b) when a person is charged with an offence; or (c) when a bill of indictment is preferred. When a person is charged with an offence, whether by the laying of an information or otherwise. When a person is charged with an offence. (a) where a justice of the peace issues a summons under section 13 of the Petty Sessions and Summary Jurisdiction Act 1927, when the complaint in relation to the offence is made to him; (b) where a justice of the peace issues a warrant for the arrest of any person under that section, when the complaint in relation to the offence is made to him; (c) where a person is charged with the offence after being taken into custody without a warrant, when he is taken into custody; or (d) where an information is preferred by the Secretary for Justice in a case where there have been no committal proceedings, when the information is lodged in the General Registry in accordance with section 4(1) of the Criminal Code Amendment Act 1917. (L.N. 362 of 1997)
+Australia Canada England and Wales Gibraltar Guernsey Isle of Man | (a) where an information has been laid before a justice of the peace; (b) when a person is charged with the offence after having been taken into custody without a warrant; or (c) when a bill of indictment is preferred. When an information has been laid or an indictment is preferred. (a) when an information has been laid before a justice of the peace; (b) when a person is charged with an offence; or (c) when a bill of indictment is preferred. When a person is charged with an offence, whether by the laying of an information or otherwise. (L.N. 446 of 1991) When a person is charged with an offence. (a) where a justice of the peace issues a summons under section 13 of the Petty Sessions and Summary Jurisdiction Act 1927, when the complaint in relation to the offence is made to him; (b) where a justice of the peace issues a warrant for the arrest of any person under that section, when the complaint in relation to the offence is made to him; (c) where a person is charged with the offence after being taken into custody without a warrant, when he is taken into custody; or (d) where an information is preferred by the Secretary for Justice in a case where there have been no committal proceedings, when the information is lodged in the General Registry in accordance with section 4(1) of the Criminal Code Amendment Act 1917. (L.N. 362 of 1997)
 
 Jersey | (a) when the Bailiff issues a warrant in respect of an offence for the arrest of a person who is out of the island; (b) when a person is arrested and charged with an offence; (c) when a summons in respect of an offence is served on a person at the instance of the Secretary for Justice; or (L.N. 362 of 1997) (d) when a summons in respect of the offence is served on a person in accordance with the provisions of Article 8 of the Police Court (Miscellaneous Provisions) (Jersey) Law 1949.
 
