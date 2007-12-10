@@ -66,7 +66,7 @@ MEANING OF TERMS “BASIC INFORMATION” AND “RELEVANT INFORMATION”
 
     - (j) a partner of a firm which was dissolved other than with the consent of all the partners;
 
-    - (k) bankrupt or aware of the existence of any matters that might render him insolvent or lead to the appointment of a receiver of his property under the Bankruptcy Ordinance (Cap. 6);
+    - (k) bankrupt or aware of the existence of any matters that might render him insolvent or lead to the appointment of a provisional trustee of his property under the Bankruptcy Ordinance (Cap. 6); (18 of 2005 s. 48)
 
     - (l) refused or restricted from the right to carry on any trade, business or profession for which a specific licence, registration or other authorization is required by law;
 

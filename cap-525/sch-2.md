@@ -224,7 +224,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
     - (b) may be made on an ex parte application to a judge in chambers; and
 
-    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg.), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct.
+    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg. A), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct.
 
   - (5) A restraint order—
 
@@ -294,7 +294,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
     - (b) may be made on an ex parte application to a judge in chambers;
 
-    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg.), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct; and
+    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg. A), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct; and
 
     - (d) may be made subject to such conditions as the Court of First Instance thinks fit and, without prejudice to the generality of this paragraph, such conditions as it thinks fit as to the time when the charge is to become effective.
 
@@ -418,7 +418,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
     - “relevant day” (有關日期) means the day on which section 14 of Schedule 3 comes into operation;
 
-    - “relevant Order” (有關命令) means the Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg.) as in force immediately before the relevant day;
+    - “relevant Order” (有關命令) means the Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg. A) as in force immediately before the relevant day;
 
     - “relevant section” (有關條文) means section 13 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) as applied under paragraph 3(2) of the relevant Order.
 
@@ -460,7 +460,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
     - (b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
 
-  - (5) Where, in the case of a debtor, an interim receiver stands appointed under section 13 of the Bankruptcy Ordinance (Cap. 6) and any property of the debtor is subject to a restraint order, the powers conferred on the interim receiver by virtue of that Ordinance do not apply to property for the time being subject to the restraint order.
+  - (5) Where, in the case of a debtor, an interim trustee stands appointed under section 13 of the Bankruptcy Ordinance (Cap. 6) and any property of the debtor is subject to a restraint order, the powers conferred on the interim trustee by virtue of that Ordinance do not apply to property for the time being subject to the restraint order. (Amended 18 of 2005 s. 48)
 
   - (6) Where a person is adjudged bankrupt and had directly or indirectly made a gift caught by this Schedule—
 
@@ -548,7 +548,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
       - (b) any person acting as—
 
-        - (i) a receiver, interim receiver, special manager or trustee appointed under the Bankruptcy Ordinance (Cap. 6); or
+        - (i) a trustee (including provisional trustee), interim trustee or special manager appointed under the Bankruptcy Ordinance (Cap. 6); or (Amended 18 of 2005 s. 48)
 
         - (ii) a liquidator, provisional liquidator or special manager appointed under the Companies Ordinance (Cap. 32).
 
