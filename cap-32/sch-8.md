@@ -48,7 +48,7 @@ for a private company having a share capital—
 
 (iv) if delivered more than 6 months after but within 9 months after the anniversary of incorporation . | $2,610
 
-(v) if delivered more than 9 months after the anniversary of incorporation . | $3,480
+(v) if delivered more than 9 months after the anniversary of incorporation | $3,480
 
 for any other company—
 
@@ -62,7 +62,7 @@ for any other company—
 
 (x) if delivered more than 9 months after the annual general meeting (Replaced L.N. 11 of 1996) . | $4,800
 
-(f) | (Repealed L.N. 11 of 1996)
+(f) (Repealed L.N. 11 of 1996)
 
 II.-BY A COMPANY NOT HAVING A SHARE CAPITAL
 
@@ -88,13 +88,23 @@ III.-BY A COMPANY TO WHICH PART XI OF THIS
 
 ORDINANCE APPLIES
 
-(a) | For the issue of a certificate of registration under section 333(3) . | $1,425
+(a) | For the issue of a certificate of registration under section 333AA(2)(c) or 335(3) (Amended 30 of 2004 s. 2) . | $1,425
 
 (aa) | Lodgment fee to be paid on delivery of documents under section 333 (Added L.N. 457 of 1997) . | $ 295
 
-(b) | For registering an annual return delivered to the Registrar under section 336(1) . | $ 140
+(b) | Annual registration fee (to be paid on delivery of return under section 334)—
 
-(c) | For registering any other document required to be delivered to the Registrar under Part XI of this Ordinance . | $ 20
+(i) if delivered within 42 days after the anniversary of registration . | $ 180
+
+(ii) if delivered more than 42 days after but within 3 months after the anniversary of registration . | $1,200
+
+(iii) if delivered more than 3 months after but within 6 months after the anniversary of registration . | $2,400
+
+(iv) if delivered more than 6 months after but within 9 months after the anniversary of registration . | $3,600
+
+(v) if delivered more than 9 months after the anniversary of registration (Replaced L.N. 86 of 2007) . | $4,800
+
+(c) | (Repealed L.N. 86 of 2007) .
 
 (Replaced 6 of 1984 s. 256)
 
@@ -122,11 +132,11 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (a) by virtue of section 158C(2) or 333C(2) or both, for inspecting the index of directors kept by the Registrar—
 
-(i) for each inspection of the list of directors and reserve director (if any) of a company, or of the list of directors of an oversea company | $11 | $11 | $11
+(i) for each inspection of the list of directors and reserve director (if any) of a company, or of the list of directors of a non-Hong Kong company | $11 | $11 | $11
 
-(ii) for each inspection of the particulars of a director or a reserve director (if any) of a company, or of the particulars of a director of an oversea company | $11 | $11 | $11
+(ii) for each inspection of the particulars of a director or a reserve director (if any) of a company, or of the particulars of a director of a non-Hong Kong company | $11 | $11 | $11
 
-(iii) for each inspection of all the directorships and reserve directorships held by a person in any companies, and all the directorships held by that person in any oversea companies | $22 | $22 | $22
+(iii) for each inspection of all the directorships and reserve directorships held by a person in any companies, and all the directorships held by that person in any non-Hong Kong companies | $22 | $22 | $22
 
 (b) by virtue of section 168R(4), for each inspection of the register of disqualification orders kept by the Registrar, per disqualified person | $11 | $11 | $11
 
@@ -138,7 +148,7 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (II) the memorandum, articles, or memorandum and articles of a company | $23 | $21 | Not applicable
 
-(III) the charter, statutes, memorandum and articles, or any other instrument, constituting or defining the constitution of an oversea company | $23 | $21 | Not applicable
+(III) the charter, statutes, memorandum (including articles, if any), or any other instrument constituting or defining the constitution of a non-Hong Kong company | $23 | $21 | Not applicable
 
 (IV) interim accounts prepared for a proposed distribution by a listed company and delivered under section 79H(4) | $23 | $21 | Not applicable
 
@@ -148,15 +158,19 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (VII) account made up by liquidator in respect of a company filed under section 248(3) | $23 | $21 | Not applicable
 
-(VIII) accounts of an oversea company delivered under section 333(1)(f) | $23 | $21 | Not applicable
+(VIII) accounts of a non-Hong Kong company delivered under section 333(1)(f) of the pre-amended Ordinance, or section 333(3)(c) or (d) | $23 | $21 | Not applicable
 
-(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of an oversea company delivered under section 336(1)(a) and (b) | $23 | $21 | Not applicable
+(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of a non-Hong Kong company delivered under section 336(1)(a) and (b) or (4) of the pre-amended Ordinance | $23 | $21 | Not applicable
+
+(X) accounts of a non-Hong Kong company delivered under section 336(1) or (2) (Added L.N. 86 of 2007) | $23 | $21 | Not applicable
 
 (B) (I) each annual return of a company (but excluding those documents which are forwarded under section 109(3)(a) and (b)) | $18 | $16 | Not applicable
 
-(II) the lists in specified form delivered under section 333(1)(b) and (c) or each return delivered under section 336(1), in respect of an oversea company | $18 | $16 | Not applicable
+(II) the lists in specified form delivered under section 333(1)(b) and (c) of the pre-amended Ordinance or the specified form delivered under section 333(1), in respect of a non-Hong Kong company | $18 | $16 | Not applicable
 
-(C) (I) the register of charges in respect of a company or a company (whether a company within the meaning of this Ordinance or not) incorporated outside Hong Kong which has a place of business in Hong Kong kept under section 83(1), per charge | $10 | $9 | Not applicable
+(III) each return delivered under section 336(1) of the pre-amended Ordinance, or section 334, in respect of a non-Hong Kong company (Added L.N. 86 of 2007) | $18 | $16 | Not applicable
+
+(C) (I) the register of charges kept under section 83(1), per charge | $10 | $9 | Not applicable
 
 (II) any other document | $10 | $9 | Not applicable
 
@@ -166,7 +180,7 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (II) the memorandum, articles, or memorandum and articles of a company | Not applicable | Not applicable | $35
 
-(III) the charter, statutes, memorandum and articles, or any other instrument, constituting or defining the constitution of an oversea company | Not applicable | Not applicable | $35
+(III) the charter, statutes, memorandum (including articles, if any), or any other instrument constituting or defining the constitution of a non-Hong Kong company | Not applicable | Not applicable | $35
 
 (IV) interim accounts prepared for a proposed distribution by a listed company and delivered under section 79H(4) | Not applicable | Not applicable | $35
 
@@ -176,15 +190,19 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (VII) account made up by liquidator in respect of a company filed under section 248(3) | Not applicable | Not applicable | $35
 
-(VIII) accounts of an oversea company delivered under section 333(1)(f) | Not applicable | Not applicable | $35
+(VIII) accounts of a non-Hong Kong company delivered under section 333(1)(f) of the pre-amended Ordinance, or section 333(3)(c) or (d) | Not applicable | Not applicable | $35
 
-(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of an oversea company delivered under section 336(1)(a) and (b) | Not applicable | Not applicable | $35
+(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of a non-Hong Kong company delivered under section 336(1)(a) and (b) or (4) of the pre-amended Ordinance | Not applicable | Not applicable | $35
+
+(X) accounts of a non-Hong Kong company delivered under section 336(1) or (2) (Added L.N. 86 of 2007) | Not applicable | Not applicable | $35
 
 (B) (I) each annual return of a company (but excluding those documents which are forwarded under section 109(3)(a) and (b)) | Not applicable | Not applicable | $30
 
-(II) the lists in specified form delivered under section 333(1)(b) and (c) or each return delivered under section 336(1), in respect of an oversea company | Not applicable | Not applicable | $30
+(II) the lists in specified form delivered under section 333(1)(b) and (c) of the pre-amended Ordinance or the specified form delivered under section 333(1), in respect of a non-Hong Kong company | Not applicable | Not applicable | $30
 
-(C) (I) the register of charges in respect of a company or a company (whether a company within the meaning of this Ordinance or not) incorporated outside Hong Kong which has a place of business in Hong Kong kept under section 83(1), per charge | Not applicable | Not applicable | $20
+(III) each return delivered under section 336(1) of the pre-amended Ordinance, or section 334, in respect of a non-Hong Kong company (Added L.N. 86 of 2007) | Not applicable | Not applicable | $30
+
+(C) (I) the register of charges kept under section 83(1), per charge | Not applicable | Not applicable | $20
 
 (II) any other document | Not applicable | Not applicable | $20
 
@@ -194,7 +212,7 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (II) the memorandum, articles, or memorandum and articles of a company | $29 | $26 | Not applicable
 
-(III) the charter, statutes, memorandum and articles, or any other instrument, constituting or defining the constitution of an oversea company | $29 | $26 | Not applicable
+(III) the charter, statutes, memorandum (including articles, if any), or any other instrument constituting or defining the constitution of a non-Hong Kong company | $29 | $26 | Not applicable
 
 (IV) interim accounts prepared for a proposed distribution by a listed company and delivered under section 79H(4) | $29 | $26 | Not applicable
 
@@ -204,21 +222,25 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (VII) account made up by liquidator in respect of a company filed under section 248(3) | $29 | $26 | Not applicable
 
-(VIII) accounts of an oversea company delivered under section 333(1)(f) | $29 | $26 | Not applicable
+(VIII) accounts of a non-Hong Kong company delivered under section 333(1)(f) of the pre-amended Ordinance, or section 333(3)(c) or (d) | $29 | $26 | Not applicable
 
-(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of an oversea company delivered under section 336(1)(a) and (b) | $29 | $26 | Not applicable
+(IX) balance sheet as at the end of a financial year, profit and loss account for that year, group accounts (if any) and directors’ report (if any) in respect of that year (including any documents delivered with such balance sheet, accounts and directors’ report), and auditors’ report (if any) on such balance sheet and accounts, of a non-Hong Kong company delivered under section 336(1)(a) and (b) or (4) of the pre-amended Ordinance | $29 | $26 | Not applicable
+
+(X) accounts of a non-Hong Kong company delivered under section 336(1) or (2) (Added L.N. 86 of 2007) | $29 | $26 | Not applicable
 
 (B) (I) each annual return of a company (but excluding those documents which are forwarded under section 109(3)(a) and (b)) | $23 | $21 | Not applicable
 
-(II) the lists in specified form delivered under section 333(1)(b) and (c) or each return delivered under section 336(1), in respect of an oversea company | $23 | $21 | Not applicable
+(II) the lists in specified form delivered under section 333(1)(b) and (c) of the pre-amended Ordinance or the specified form delivered under section 333(1), in respect of a non-Hong Kong company | $23 | $21 | Not applicable
 
-(C) (I) the register of charges in respect of a company or a company (whether a company within the meaning of this Ordinance or not) incorporated outside Hong Kong which has a place of business in Hong Kong kept under section 83(1), per charge | $13 | $12 | Not applicable
+(III) each return delivered under section 336(1) of the pre-amended Ordinance, or section 334, in respect of a non-Hong Kong company (Added L.N. 86 of 2007) | $23 | $21 | Not applicable
+
+(C) (I) the register of charges kept under section 83(1), per charge | $13 | $12 | Not applicable
 
 (II) any other document | $13 | $12 | Not applicable
 
 (iv) where an image record of any document kept by the Registrar pursuant to any provision of this Ordinance is not available, for each inspection at the office for the registration of companies of the document or the relevant record kept by the Registrar | Not applicable | Not applicable | $20
 
-(v) for obtaining a copy of any record containing the current particulars of a company or an oversea company, per company | $22 | $22 | $22
+(v) for obtaining a copy of any record containing the current particulars of a company or a non-Hong Kong company, per company | $22 | $22 | $22
 
 (d) initial fee payable by a registered on-line user for the purpose of inspecting and obtaining documents and records specified in paragraphs (a), (b), and (c)(i), (iii) and (v), per year (in addition to the fees payable under the said paragraphs)—
 
@@ -230,6 +252,16 @@ Note: For the purpose of this Part—
 
 - “on-site user” (註冊處使用者) means a person inspecting or obtaining documents and records specified in paragraphs (a), (b), and (c)(ii), (iv) and (v) at the office for the registration of companies;
 
+- “pre-amended Ordinance” (修訂前的本條例)—
+
+  - (a) in paragraph (c)(i)(A)(VIII), (ii)(A)(VIII) and (iii)(A)(VIII), means the Companies Ordinance (Cap. 32) that was in force immediately before the amendment of section 333 of that Ordinance by section 28 of Schedule 2 to the Companies (Amendment) Ordinance 2004 (30 of 2004) (“the Amendment Schedule”);
+
+  - (b) in paragraph (c)(i)(A)(IX), (ii)(A)(IX) and (iii)(A)(IX), means the Companies Ordinance (Cap. 32) that was in force immediately before the amendment of section 336 of that Ordinance by section 35 of the Amendment Schedule;
+
+  - (c) in paragraph (c)(i)(B)(II), (ii)(B)(II) and (iii)(B)(II), means the Companies Ordinance (Cap. 32) that was in force immediately before the amendment of section 333 of that Ordinance by section 28 of the Amendment Schedule;
+
+  - (d) in paragraph (c)(i)(B)(III), (ii)(B)(III) and (iii)(B)(III), means the Companies Ordinance (Cap. 32) that was in force immediately before the amendment of section 336 of that Ordinance by section 35 of the Amendment Schedule; (Added L.N. 86 of 2007)
+
 - “principal account” (主要帳戶) means the first account which a registered on-line user registers with the Registrar under a registration arrangement;
 
 - “registered on-line user” (登記聯線使用者) means a person who has entered into a registration arrangement with the Registrar;
@@ -240,7 +272,7 @@ Note: For the purpose of this Part—
 
 - “unregistered on-line user” (非登記聯線使用者) means a person, not in the capacity of a registered on-line user, using an on-line medium for inspecting or obtaining documents and records specified in paragraphs (a), (b), and (c)(i), (iii) and (v).
 
-(Replaced L.N. 78 of 2004)
+(Replaced L.N. 78 of 2004. Amended L.N. 86 of 2007)
 
 VI.-MISCELLANEOUS FEES
 
@@ -270,7 +302,9 @@ VI.-MISCELLANEOUS FEES
 
 (i) | for issuing under section 305(1)—
 
-(i) a certificate of incorporation or a certificate of change of name . | $ 170
+(i) a certificate of incorporation or a certificate of change of name of a company (Replaced L.N. 86 of 2007) . | $170
+
+(ia) a certificate certifying registration of a non-Hong Kong company or a certificate certifying registration of a non-Hong Kong company with a changed name (Added L.N. 86 of 2007) | $ 170
 
 (ii) a copy of or an extract from the relevant record or document referred to in paragraph (c)(iv) of Part V, or an extract from any other document, per page . | $ 5
 
