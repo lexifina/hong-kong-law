@@ -154,7 +154,7 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
   - (5) For the purposes of subsection (1)(b)(ii), the company referred to in that subsection—
 
-    - (a) must be an oversea company;
+    - (a) must be a non-Hong Kong company; (30 of 2004 s. 3)
 
     - (b) must maintain an office in Hong Kong wherein there is an employee—
 

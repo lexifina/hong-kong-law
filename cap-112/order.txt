@@ -74,6 +74,7 @@ s-021B.md
 s-022.md
 s-022A.md
 s-022B.md
+s-022C.md
 s-023.md
 s-023A.md
 s-023AA.md

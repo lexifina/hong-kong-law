@@ -50,7 +50,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (ii) under which they undertake to act together in exercising their voting power at general meetings of the corporation;
 
-    - “associated entity” (有聯繫實體), in relation to an intermediary, means a company, or an overseas company complying with the provisions of Part XI of the Companies Ordinance (Cap. 32) relating to the registration of documents, which—
+    - “associated entity” (有聯繫實體), in relation to an intermediary, means a company, or a non-Hong Kong company complying with the provisions of Part XI of the Companies Ordinance (Cap. 32) relating to the registration of documents, which— (Amended 30 of 2004 s. 3)
 
       - (a) is in a controlling entity relationship with the intermediary; and
 
@@ -490,6 +490,8 @@ INTERPRETATION AND GENERAL PROVISIONS
 
     - “non-executive director” (非執行董事), in relation to the Commission, means a person who is appointed as a non-executive director of the Commission under section 1 of Part 1 of Schedule 2 to this Ordinance (whether or not acting in any other capacity under that Part); (Amended 15 of 2006 s. 5)
 
+    - “non-Hong Kong company” (非香港公司) has the meaning assigned to it by section 332 of the Companies Ordinance (Cap. 32); (Added 30 of 2004 s. 3)
+
     - “number” (數目), in relation to shares which in the context can be construed to include stock, includes amount;
 
     - “officer” (高級人員)—
@@ -527,8 +529,6 @@ INTERPRETATION AND GENERAL PROVISIONS
         - (A) as security for the provision by the registered institution of financial accommodation; or
 
         - (B) to facilitate the provision by the registered institution of financial accommodation under an arrangement that confers on the registered institution a collateral interest in the property;
-
-    - “overseas company” (海外公司) means an oversea company within the meaning of section 332 of the Companies Ordinance (Cap. 32);
 
     - “performance” (執行), in relation to a function, includes discharge and exercise;
 
@@ -857,6 +857,8 @@ INTERPRETATION AND GENERAL PROVISIONS
     - “title” (稱銜) includes name or description;
 
     - “trading right” (交易權), in relation to a recognized exchange company, means a right to be eligible to trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company and entered as such a right in a list, roll or register kept by that exchange company.
+
+  - (Amended 30 of 2004 s. 3)
 
   - 2. References to subsidiary
 

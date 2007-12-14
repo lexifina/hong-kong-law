@@ -336,8 +336,6 @@ Financial Secretary | Companies Ordinance (Chapter 32), sections 124(2), 128(3),
 
 Financial Secretary | Companies Ordinance (Chapter 32), section 157E(4)(a). (L.N. 57 of 1989)
 
-Financial Secretary | Companies Ordinance (Chapter 32), section 337B(3). (L.N. 345 of 1985)
-
 Financial Secretary | Customs and Excise Service (Welfare Fund) Regulation (Chapter 342 subsidiary legislation C), section 8. (L.N. 389 of 1990; 10 of 2005 s. 220)
 
 Financial Secretary | Fire Services Department (Welfare Fund) Regulations (Chapter 95 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
@@ -436,7 +434,7 @@ Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Roads
 
 Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 3 of 2006 s. 56; 17 of 2006 s. 23)
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 30 of 2004 s. 3; 3 of 2006 s. 56; 17 of 2006 s. 23)
 
 Editorial Note:
 

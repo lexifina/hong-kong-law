@@ -264,7 +264,7 @@ for your business as a money lender
 
 - 1. State—
 
-- (a) the name and any former names of the company (in English and Chinese) (b) the place of incorporation (c) the date of incorporation (d) if an oversea company, the date of compliance with Part XI of the Companies Ordinance (Cap. 32) (e) the address of the company’s registered office (Post Office Box number is not acceptable) (f) the address and telephone number of each place at or from which the company’s business as a money lender is carried on (Post Office Box numbers are not acceptable) | . . . . . . 1. . . 2. . . 3. . .
+- (a) the name and any former names of the company (in English and Chinese) (b) the place of incorporation (c) the date of incorporation (d) if a non-Hong Kong company, the date of compliance with Part XI of the Companies Ordinance (Cap. 32) (e) the address of the company’s registered office (Post Office Box number is not acceptable) (f) the address and telephone number of each place at or from which the company’s business as a money lender is carried on (Post Office Box numbers are not acceptable) | . . . . . . 1. . . 2. . . 3. . .
 
 - 2. Give the following details of every existing director of the company—
 
@@ -414,27 +414,33 @@ for your business as a money lender
 
   - WARNING—Section 29(2) of the Money Lenders Ordinance makes it an offence punishable by a fine of $100,000 and imprisonment for 2 years for a person to make a false or misleading statement or furnish false or misleading information in connection with any application for a licence.
 
-  - FORM 4 | [ss. 8(1) & 34]
+- (30 of 2004 s. 3)
 
-  - MONEY LENDERS ORDINANCE (Chapter 163) STATEMENT IN SUPPORT OF AN APPLICATION BY AN
+- FORM 4 | [ss. 8(1) & 34]
 
-  - INDIVIDUAL FOR A LICENCE FOR HIMSELF
+- MONEY LENDERS ORDINANCE (Chapter 163) STATEMENT IN SUPPORT OF AN APPLICATION BY AN
 
-  - OR FOR A PARTNERSHIP (To be completed in triplicate) Please answer the following questions— (If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.)
+- INDIVIDUAL FOR A LICENCE FOR HIMSELF
 
-  - 1. (a) Have you ever previously made application for a licence under the Money Lenders Ordinance? (b) If you have, state— (i) the date of application (ii) whether the application was successful (answer “yes” or “no”) (c) If the application was unsuccessful, state the reason, if known to you | . . . . . .
+- OR FOR A PARTNERSHIP (To be completed in triplicate)
 
-  - 2. (a) Have you ever been convicted of an offence, other than a traffic offence, in Hong Kong or elsewhere? (answer “yes” or “no”) (b) If you have, give the following details— | .
+- Please answer the following questions—
 
-  - 1 | 2 | 3
+- (If there is insufficient space provided for your answer, please continue on a separate sheet of paper, specifying the question number to which your answer relates, and add your signature.)
 
-  - The offence
+- 1. (a) Have you ever previously made application for a licence under the Money Lenders Ordinance? (b) If you have, state— (i) the date of application (ii) whether the application was successful (answer “yes” or “no”) (c) If the application was unsuccessful, state the reason, if known to you | . . . . . .
 
-  - The penalty (if any) imposed
+- 2. (a) Have you ever been convicted of an offence, other than a traffic offence, in Hong Kong or elsewhere? (answer “yes” or “no”) (b) If you have, give the following details— | .
 
-  - The date of conviction
+- 1 | 2 | 3
 
-  - The name of the court which tried the offence
+- The offence
+
+- The penalty (if any) imposed
+
+- The date of conviction
+
+- The name of the court which tried the offence
 
 - 3. Give the following details of each bank at which you keep or propose to keep an account in connection with your business as a money lender—
 
@@ -492,7 +498,9 @@ for your business as a money lender
 
 - Date on which the account was opened
 
-- I declare that all information given by me in this statement is true and correct. Dated this . day of . 19 . Signed . A person authorized in this behalf by the
+- I declare that all information given by me in this statement is true and correct. Dated this . day of . 19 . Signed .
+
+- A person authorized in this behalf by the
 
 - company [Note: evidence of authorization should be produced]. PLEASE NOTE
 

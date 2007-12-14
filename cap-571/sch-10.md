@@ -534,7 +534,7 @@ SAVINGS, TRANSITIONAL, CONSEQUENTIAL AND RELATED PROVISIONS, ETC.
 
       - until the licence applied for is granted or the Commission’s refusal to grant the licence takes effect as a specified decision under section 232 of this Ordinance (as the case may be);
 
-      - (b) a company, or an overseas company that has complied with the provisions of Part XI of the Companies Ordinance (Cap. 32) for the registration of documents, applies to be licensed under section 116(1) of this Ordinance for a regulated activity and—
+      - (b) a company, or a non-Hong Kong company that has complied with the provisions of Part XI of the Companies Ordinance (Cap. 32) for the registration of documents, applies to be licensed under section 116(1) of this Ordinance for a regulated activity and— (Amended 30 of 2004 s. 3)
 
         - (i) all the partners of a partnership deemed under section 25(b) or 27 to have been licensed for that regulated activity are shareholders of the applicant;
 
@@ -554,7 +554,7 @@ SAVINGS, TRANSITIONAL, CONSEQUENTIAL AND RELATED PROVISIONS, ETC.
 
       - until the licence applied for is granted or the Commission’s refusal to grant the licence takes effect as a specified decision under section 232 of this Ordinance (as the case may be);
 
-      - (c) a company, or an overseas company that has complied with the provisions of Part XI of the Companies Ordinance (Cap. 32) for the registration of documents, applies to be licensed under section 116(1) of this Ordinance for a regulated activity and—
+      - (c) a company, or a non-Hong Kong company that has complied with the provisions of Part XI of the Companies Ordinance (Cap. 32) for the registration of documents, applies to be licensed under section 116(1) of this Ordinance for a regulated activity and— (Amended 30 of 2004 s. 3)
 
         - (i) an individual deemed under section 25(b) or 30 to have been licensed for that regulated activity is a majority shareholder of the applicant; and
 
@@ -690,7 +690,7 @@ SAVINGS, TRANSITIONAL, CONSEQUENTIAL AND RELATED PROVISIONS, ETC.
 
   - 57. Where—
 
-    - (a) approval for a subordinated loan has been given by the Commission under the Financial Resources Rules (Cap. 24 sub. leg. D) repealed under section 406 of this Ordinance or the Leveraged Foreign Exchange Trading (Financial Resources) Rules (Cap. 451 sub. leg. G) repealed under section 406 of this Ordinance; and
+    - (a) approval for a subordinated loan has been given by the Commission under the Financial Resources Rules (Cap. 24 sub. leg. J) repealed under section 406 of this Ordinance or the Leveraged Foreign Exchange Trading (Financial Resources) Rules (Cap. 451 sub. leg. G) repealed under section 406 of this Ordinance; and
 
     - (b) the approval subsists immediately before the commencement of Part V of this Ordinance,
 
