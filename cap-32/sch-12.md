@@ -114,7 +114,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 90(2)(a) | Officer refusing to allow inspection of the register of charges or instruments of charge | Summary | level 3 | $300
 
-91(4) | Company incorporated outside Hong Kong failing to register a Hong Kong property charge | Summary | level 5 | $1,500
+91(6) | Non-Hong Kong company failing to register a Hong Kong property charge (Amended 30 of 2004 s. 2) | Summary | level 5 | $1,500
 
 92(3) | Company failing to notify the Registrar of registered office | Summary | level 3 | $300
 
@@ -382,9 +382,9 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 301(2) | Receiver, etc., failing to deliver accounts to the Registrar | Summary | level 3 | $300
 
-337B(7) | Overseas company carrying on business after being given notice under section 337B (Replaced 60 of 1990 s. 10) | Summary | level 6 and 6 months | $700
+337B(7) | Non-Hong Kong company carrying on business after being given notice under section 337B (Replaced 60 of 1990 s. 10. Amended 30 of 2004 s. 2) | Summary | level 6 and 6 months | $700
 
-340 | Overseas company failing to comply with Part XI | Summary | level 5 | $700
+340 | Non-Hong Kong company failing to comply with Part XI (Amended 30 of 2004 s. 2) | Summary | level 5 | $700
 
 342CA(3) | Amendment of prospectus consisting of one document not done in compliance with Part 2 of the Twentieth Schedule (Added 30 of 2004 s. 2) | Summary | level 6 | —
 
