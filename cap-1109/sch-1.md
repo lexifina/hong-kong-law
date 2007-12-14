@@ -1058,11 +1058,11 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - Provided that the degree of Bachelor shall not be conferred upon such student unless—
 
-    - (a) he shall have attended an approved course of study as a matriculated student of the University for at least 2 academic years; (L.N. 114 of 1991; L.N. 453 of 1994)
+    - (a) he shall have attended an approved course of study as a matriculated student of the University for at least 2 academic years; and (L.N. 114 of 1991; L.N. 453 of 1994; L.N. 233 of 2007)
 
-    - (b) his total period of attendance as a matriculated student of the University and as a registered student of another university or institution of higher learning shall not be less than 3 academic years; and (L.N. 453 of 1994)
+    - (b) his total period of attendance as a matriculated student of the University and as a registered student of another university or institution of higher learning shall not be less than 3 academic years. (L.N. 453 of 1994; L.N. 233 of 2007)
 
-    - (c) he shall have attended his final term of study at the University immediately preceding his completion of all requirements for the conferment of the degree of Bachelor. (L.N. 453 of 1994)
+    - (c) (Repealed L.N. 233 of 2007)
 
   - 5. The Senate may accept a certificate of proficiency in any subject issued by another university or institution of higher learning recognized for this purpose by the Senate as exempting from any examination of the University in such subject for the degree of Bachelor. (L.N. 453 of 1994)
 
@@ -1128,25 +1128,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 14. Subject to the right of appeal from the decision of the Senate to the Council and from the decision of the Council to the Chancellor, the Senate may deprive any person who has been convicted of an arrestable offence or who in their opinion has been guilty of dishonourable or scandalous conduct of any degree, diploma, certificate or other award of the University.
 
-- STATUTE 27 EXAMINATIONS
-
-  - 1. Examinations of the University qualifying in any subject of study for a Bachelor’s degree or a higher degree of the University shall be conducted by a board of examiners which shall consist of—
-
-    - (a) 2 or more internal examiners who shall be teachers in the subject of the examination; and
-
-    - (b) save as provided by paragraph 3, one or more external examiners who shall not be members of the academic staff of the University and who shall not have taken part in the teaching of the candidates.
-
-  - 2. The board of examiners shall have the duty to ensure that examinations are properly conducted and the assessment is fair and consistent.
-
-  - 3. Upon the approval of the Senate the requirement in paragraph 1(b) shall not apply for examinations qualifying in a subject of study for a Bachelor’s degree, and one or more visiting examiners who shall not be members of the academic staff of the University and who shall not have taken part in the teaching of the candidates shall be appointed for the subject by the Council upon the recommendation of the Senate or in the case of emergency by the Vice-Chancellor.
-
-  - 4. The visiting examiner or examiners shall—
-
-    - (a) call for at his or their discretion the examination scripts of all or any, but not less than one-third, of the examinations qualifying for the degree in the subject for which he is or they are appointed;
-
-    - (b) submit to the Vice-Chancellor an annual written report; and
-
-    - (c) visit the University not less than once every 3 years to review in depth the examinations on site. (L.N. 282 of 1991)
+- STATUTE 27 EXAMINATIONS Examinations of the University shall be conducted in accordance with regulations made by the Senate from time to time. (L.N. 233 of 2007)
 
 - STATUTE 28 CITATION The Statutes may be cited as the Statutes of The Chinese University of Hong Kong.
 
