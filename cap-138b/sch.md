@@ -4,7 +4,7 @@
 
 THE POISONS LIST
 
-- PART I DIVISION A
+- PART I DIVISION A (L.N. 42 of 2007)
 
 - Abacavir; its salts
 
@@ -742,6 +742,8 @@ THE POISONS LIST
 
 - Dexrazoxane; its salts
 
+- Diacerein; its salts; its esters
+
 - Diacetylnalorphine; its salts
 
 - Diampromide; its salts
@@ -947,6 +949,8 @@ THE POISONS LIST
 - Everolimus; its salts; its esters; their salts
 
 - Exemestane; its salts
+
+- Exenatide
 
 - Ezetimibe
 
@@ -1241,6 +1245,8 @@ THE POISONS LIST
 - Lansoprazole
 
 - Lanthanum carbonate
+
+- Lapatinib; its salts
 
 - Laudexium; its salts
 
@@ -1655,6 +1661,8 @@ THE POISONS LIST
 - Oxytocins
 
 - Paclitaxel
+
+- Paliperidone; its salts
 
 - Palivizumab
 
@@ -2328,7 +2336,7 @@ THE POISONS LIST
 
 - Zoxazolamine; its salts
 
-  - DIVISION B
+  - DIVISION B (L.N. 42 of 2007)
 
   - Alkali fluorides other than those specified in Part II of this list
 
@@ -2360,9 +2368,9 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005; L.N. 213 of 2005; L.N. 26 of 2006; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 224 of 2006; L.N. 278 of 2006; L.N. 42 of 2007; L.N. 99 of 2007; L.N. 144 of 2007; L.N. 209 of 2007)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005; L.N. 213 of 2005; L.N. 26 of 2006; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 224 of 2006; L.N. 278 of 2006; L.N. 42 of 2007; L.N. 99 of 2007; L.N. 144 of 2007; L.N. 209 of 2007; L.N. 240 of 2007)
 
-- PART II DIVISION A
+- PART II DIVISION A (L.N. 42 of 2007)
 
 - Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance
 
@@ -2448,7 +2456,7 @@ THE POISONS LIST
 
 - Tretoquinol; its salts Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols.
 
-  - DIVISION B Ammonia gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane) Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
+  - DIVISION B (L.N. 42 of 2007) Ammonia gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane) Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
 
   - Formic acid
 
