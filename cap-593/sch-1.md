@@ -4,8 +4,6 @@
 
 EXEMPTIONS
 
-(* Items marked with asterisk (*) have not yet come into operation.)
-
 - 1. Interpretation
 
   - (1) In this Schedule—
@@ -20,13 +18,15 @@ EXEMPTIONS
 
       - (a) a television programme service as defined in section 2(1) of the Broadcasting Ordinance (Cap. 562); or
 
-      - (b) a service of a like nature. *[(2) For the avoidance of doubt, the exemption of a matter from the application of Part 2 of this Ordinance (rules about sending commercial electronic messages) in accordance with Table 2 shall not be construed as implying that the other provisions of this Ordinance apply to that matter.]
+      - (b) a service of a like nature.
+
+  - (2) For the avoidance of doubt, the exemption of a matter from the application of Part 2 of this Ordinance (rules about sending commercial electronic messages) in accordance with Table 2 shall not be construed as implying that the other provisions of this Ordinance apply to that matter.
 
 - 2. Exemptions
 
   - (1) The matters described in an item in Table 1 are exempt from the application of this Ordinance.
 
-  - *[(2) The matters described in an item in column 1 in Table 2 are exempt from the application of Part 2 of this Ordinance (rules about sending commercial electronic messages) subject to the conditions, if any, specified in column 2 of that item.] TABLE 1 MATTERS EXEMPTED FROM APPLICATION OF ORDINANCE
+  - (2) The matters described in an item in column 1 in Table 2 are exempt from the application of Part 2 of this Ordinance (rules about sending commercial electronic messages) subject to the conditions, if any, specified in column 2 of that item. TABLE 1 MATTERS EXEMPTED FROM APPLICATION OF ORDINANCE
 
   - Item | Description of exempt matter
 
@@ -38,7 +38,7 @@ EXEMPTIONS
 
   - 4. | Sound broadcasting services, whether or not licensed under the Telecommunications Ordinance (Cap. 106).
 
-  - *[ TABLE 2 MATTERS EXEMPTED FROM APPLICATION
+  - TABLE 2 MATTERS EXEMPTED FROM APPLICATION
 
   - OF PART 2 OF ORDINANCE
 
@@ -52,4 +52,4 @@ EXEMPTIONS
 
   - 3. | Any electronic message the primary purpose of which is to provide— (a) notification concerning a change in the terms or features of; (b) notification of a change in the recipient’s standing or status with respect to; or (c) at regular periodic intervals, account balance information or other type of account statement with respect to, a subscription, membership, account, loan or comparable ongoing commercial relationship involving the ongoing purchase or use by the recipient of goods or services offered by the sender. | Not applicable.
 
-  - 4. | Any electronic message the primary purpose of which is to provide information directly related to an employment relationship or a related benefit plan in which the recipient is currently involved, participating or enrolled. | Not applicable.]
+  - 4. | Any electronic message the primary purpose of which is to provide information directly related to an employment relationship or a related benefit plan in which the recipient is currently involved, participating or enrolled. | Not applicable.
