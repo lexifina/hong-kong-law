@@ -28,7 +28,7 @@
 
 - 13. The sixth floor of Urban Council Hung Hom Complex, No. 11, Ma Tau Wai Road, Kowloon.
 
-- 14. The Units F1 and F2 on the podium floor of Lee Foo House, Shun Lee Estate, Kwun Tong, Kowloon.
+- 14. The third floor of the Shun Lee Tsuen Sports Centre, Shun Lee Tsuen Road, Kwun Tong, Kowloon. (L.N. 213 of 2007)
 
 - 15. The fourth and fifth floors of the Urban Council Fa Yuen Street Complex, Fa Yuen Street, Kowloon.
 
