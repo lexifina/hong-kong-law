@@ -12,7 +12,7 @@ Item | Place of refuge
 
 - 3. (Repealed L.N. 9 of 2004)
 
-- 4. The Ma Tau Wai Girls’ Home.
+- 4. (Repealed L.N. 237 of 2006)
 
 - 5. (Repealed L.N. 244 of 1999)
 
@@ -20,7 +20,7 @@ Item | Place of refuge
 
 - 7. (Repealed L.N. 530 of 1996)
 
-- 8. Pui Chi Boys’ Home. (L.N. 309 of 1984)
+- 8. (Repealed L.N. 237 of 2006)
 
 - 9. (Repealed L.N. 26 of 1986)
 
