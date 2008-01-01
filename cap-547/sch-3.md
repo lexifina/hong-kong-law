@@ -26,13 +26,13 @@ Item | District Council | Number of elected members | Number of appointed member
 
 9. | Yau Tsim Mong District Council | 16 | 4
 
-10. | Islands District Council | 8 [10]* | 4
+10. | Islands District Council | 10 | 4
 
 11. | Kwai Tsing District Council | 28 | 7
 
 12. | North District Council | 16 | 5
 
-13. | Sai Kung District Council | 20 [23]* | 5
+13. | Sai Kung District Council | 23 | 5
 
 14. | Sha Tin District Council | 36 | 9
 
@@ -67,17 +67,3 @@ Item | District | District Council | Number of Rural Committees | Names of Rural
 8. | Tuen Mun District | Tuen Mun District Council | 1 | Tuen Mun Rural Committee
 
 9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee
-
-Editorial Note:
-
-* According to section 2 of the District Councils Ordinance (Amendment of Schedule 3) Order 2006 (L.N. 139 of 2006) (“the Amendment Order”)—
-
-- (a) item 10 is amended by repealing “8” and substituting “10”;
-
-- (b) item 13 is amended by repealing “20” and substituting “23”.
-
-According to section 1 of the Amendment Order, the above amendments shall—
-
-- (i) come into operation on 14 July 2006 for the purpose only of enabling arrangements to be made for the holding of the District Council ordinary election in 2007; and
-
-- (ii) in so far as they have not come into operation under paragraph (i), come into operation on 1 January 2008.
