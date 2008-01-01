@@ -8,7 +8,7 @@ Item Body
 
 - 1. Vocational Training Council
 
-- 2. Construction Industry Training Authority
+- 2. (Repealed 12 of 2006 s. 84)
 
 - 3. Clothing Industry Training Authority
 
@@ -143,5 +143,7 @@ Item Body
 - 70. The Society of Rehabilitation and Crime Prevention, Hong Kong (Added L.N. 67 of 2004)
 
 - 71. The Mental Health Association of Hong Kong (Added L.N. 71 of 2006)
+
+- 72. Construction Industry Council (Added 12 of 2006 s. 84)
 
 - 73. The Neighbourhood Advice-Action Council (Added L.N. 216 of 2007) (Schedule 2 replaced L.N. 269 of 1999)

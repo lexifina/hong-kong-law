@@ -1,6 +1,6 @@
 # SCHEDULE 5
 
-[ss. 2 & 35]
+[ss. 35 & 36] (Amended 12 of 2006 s. 84)
 
 LEVY
 

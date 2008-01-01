@@ -372,7 +372,7 @@ ELECTION COMMITTEE
 
       - (a) technical institutes, industrial training centres and skills centres established under the Vocational Training Council Ordinance (Cap. 1130);
 
-      - (b) industrial training centres established under the Industrial Training (Construction Industry) Ordinance (Cap. 317);
+      - (b) industrial training centres established under the repealed Industrial Training (Construction Industry) Ordinance (Cap. 317) and maintained under the Construction Industry Council Ordinance (Cap. 587); (Amended 12 of 2006 s. 84) (ba) industrial training centres established under the Construction Industry Council Ordinance (Cap. 587); (Added 12 of 2006 s. 84)
 
       - (c) industrial training centres established under the Industrial Training (Clothing Industry) Ordinance (Cap. 318);
 

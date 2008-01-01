@@ -12,7 +12,9 @@ Item | Institution
 
 3. | The Chiropractors Council established by section 3 of the Chiropractors Registration Ordinance (Cap. 428)
 
-4. | The Construction Industry Training Authority established by section 4 of the Industrial Training (Construction Industry) Ordinance (Cap. 317)
+**3A. | The Construction Industry Council established by section 4 of the Construction Industry Council Ordinance (Cap. 587) (Added 12 of 2006 s. 84)
+
+4. | The Construction Industry Training Authority established by section 4 of the Industrial Training (Construction Industry) Ordinance (Cap. 317) and in existence before the commencement# of section 71 of the Construction Industry Council Ordinance (Cap. 587) (Amended 12 of 2006 s. 84)
 
 5. | The Dental Council of Hong Kong established by section 4 of the Dentists Registration Ordinance (Cap. 156)
 
@@ -84,7 +86,11 @@ Item | Institution
 
 Editorial Note:
 
-Schedule 13 (except item 17) applies in relation to the year of assessment 2004/05 and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(a))
+Schedule 13 (except items 3A and 17) applies in relation to the year of assessment 2004/05 and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(a) and 12 of 2006 s. 84)
+
+** Item 3A applies in relation to the year of assessment in which section 3 of Schedule 6 to the Construction Industry Council Ordinance (Cap. 587) comes into operation# and to all subsequent years of assessment. (Please see 12 of 2006 s. 84)
+
+\# Commencement date : 1 January 2008.
 
 * Item 17 applies in relation to the year of assessment in which section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998) comes into operation+ and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(b))
 
