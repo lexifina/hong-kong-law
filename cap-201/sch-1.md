@@ -214,6 +214,8 @@ PUBLIC BODIES
 
   - 104. Construction Industry Council. (Added 12 of 2006 s. 84)
 
+  - 105. Construction Industry Training Board. (Added 12 of 2006 s. 84)
+
   - 106. Financial Reporting Council. (Added 18 of 2006 s. 79)
 
   - 107. Commissioner on Interception of Communications and Surveillance. (Added 20 of 2006 s. 68)
