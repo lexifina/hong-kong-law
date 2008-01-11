@@ -72,7 +72,7 @@ Item | Enactment | Provision
 
 39. | (Repealed L.N. 152 of 2006)
 
-40. | Lifts and Escalators (Safety) Ordinance (Cap. 327) | Section 6(1)
+40. | (Repealed L.N. 215 of 2007)
 
 41-43. | (Repealed L.N. 152 of 2006)
 
@@ -82,9 +82,7 @@ Item | Enactment | Provision
 
 46. | Land Drainage (Consent and Approval) Regulation (Cap. 446 sub. leg. A) | Sections 3(1) and (2) and 4
 
-47. | Amusement Rides (Safety) Ordinance (Cap. 449) | Sections 5 and 39
-
-48. | Amusement Rides (Safety) (Operation and Maintenance) Regulation (Cap. 449 sub. leg. B) | Section 6(1)
+47-48. | (Repealed L.N. 215 of 2007)
 
 49-50. | (Repealed L.N. 152 of 2006)
 
@@ -132,4 +130,4 @@ Item | Enactment | Provision
 
 69-70. | (Repealed L.N. 152 of 2006)
 
-71. | Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229) | Section 9(1) (L.N. 36 of 2003)
+71. | (Repealed L.N. 215 of 2007)

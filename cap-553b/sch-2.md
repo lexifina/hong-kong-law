@@ -52,7 +52,7 @@ Item | Enactment | Provision
 
 20. | District Councils Ordinance (Cap. 547) | Sections 15(2), 23(2), 25(2), 35(2) and 63(2)
 
-21. | Air Navigation (Hong Kong) Order 1995 (Cap. 448 sub. leg. C) | Articles 10(2) and 28(4) and Schedule 15, Regulation 1(1)
+21. | Air Navigation (Hong Kong) Order 1995 (Cap. 448 sub. leg. C) | Article 28(4) (L.N. 215 of 2007)
 
 22. | Chief Executive Election Ordinance (Cap. 569) | Sections 16(3) and (8) and 33(2) and the Schedule, sections 3(4) and 21(2) (21 of 2001 s. 76)
 
@@ -62,4 +62,4 @@ Item | Enactment | Provision
 
 25-26. | (Repealed L.N. 152 of 2006)
 
-27. | Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229) | Section 9(1) (L.N. 36 of 2003)
+27. | (Repealed L.N. 215 of 2007)
