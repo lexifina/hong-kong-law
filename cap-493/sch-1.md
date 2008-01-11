@@ -6,7 +6,7 @@ LOCAL INSTITUTIONS OF HIGHER EDUCATION
 
 Item | Institution | Executive head
 
-1. | Hong Kong Shue Yan College registered under the Post Secondary Colleges Ordinance (Cap. 320). | The President of Hong Kong Shue Yan College.
+1. | Hong Kong Shue Yan University registered under the Post Secondary Colleges Ordinance (Cap. 320). | The President of Hong Kong Shue Yan University. (Amended L.N. 217 of 2007)
 
 2. | Lingnan University established by the Lingnan University Ordinance (Cap. 1165). | The President within the meaning of section 2 of the Lingnan University Ordinance (Cap. 1165). (Replaced 54 of 1999 s. 34)
 
