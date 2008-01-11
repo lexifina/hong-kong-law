@@ -18,4 +18,8 @@ Item | Enactment | Provision
 
 6. | Railways Ordinance (Cap. 519) (Added L.N. 151 of 2006) | Sections 10(1) and (4), 27(6) and (7) and 34(1)
 
+7. | Electricity Ordinance (Cap. 406) (Added L.N. 214 of 2007) | Section 52
+
+8. | Inland Revenue Ordinance (Cap. 112) (Added L.N. 214 of 2007) | Section 58(2)
+
 (Schedule 3 added 14 of 2004 s. 28)
