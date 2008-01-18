@@ -2,9 +2,9 @@
 
 [ss. 2 & 48]
 
-ASSOCIATES AND RELATED COMPANIES
+ASSOCIATES AND ASSOCIATED COMPANIES*
 
-- PART 1 ASSOCIATES
+- PART 1 RELATED
 
   - 1. Effect of this Schedule
 
@@ -12,7 +12,11 @@ ASSOCIATES AND RELATED COMPANIES
 
     - (2) A person is an associate of another person for the purposes of this Ordinance only as provided by this Schedule.
 
-  - 2. Associates of companies For the purposes of this Ordinance, an associate of a company includes each of the following—
+  - 2.
+
+  - Associates of companies
+
+  - For the purposes of this Ordinance, an associate of a company includes each of the following—
 
     - (a) an officer of the company;
 
@@ -124,19 +128,41 @@ ASSOCIATES AND RELATED COMPANIES
 
     - (5) A reference in this Schedule to a controlling interest includes a reference to an interest that gives control.
 
-  - 8. When person has relevant interest in a share A person has a relevant interest in a share for the purposes of this Schedule if the person has—
+  - 8.
+
+  - When person has relevant
+
+  - interest in a share
+
+  - A person has a relevant interest in a share for the purposes of this Schedule if the person has—
 
     - (a) power to vote in respect of a voting share in a company; or
 
     - (b) power to dispose of the share.
 
-  - 9. Control of company having power in relation to a share If a company has, or is by this Part taken to have, power to vote in respect of a share or power to dispose of a share, a person is to be regarded, for the purposes of this Schedule, as having in relation to the share the same power as the company has, or is taken to have—
+  - 9.
+
+  - Control of company having power
+
+  - in relation to a share
+
+  - If a company has, or is by this Part taken to have, power to vote in respect of a share or power to dispose of a share, a person is to be regarded, for the purposes of this Schedule, as having in relation to the share the same power as the company has, or is taken to have—
 
     - (a) if the company is, or its directors are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the person in relation to the exercise of the power to vote in respect of the share; or
 
     - (b) if the person has a controlling interest in the company.
 
-  - 10. Control of relevant percentage of voting power in company having power in relation to a share If a company or an associate of a company has, or is by this Part (other than this section) taken to have, power to vote in respect of a share, or power to dispose of a share, a person is to be regarded, for the purposes of this Schedule, as having in relation to the share the same power as the company or associate has, or is taken to have, if—
+  - 10.
+
+  - Control of relevant percentage
+
+  - of voting power in company
+
+  - having power in relation
+
+  - to a share
+
+  - If a company or an associate of a company has, or is by this Part (other than this section) taken to have, power to vote in respect of a share, or power to dispose of a share, a person is to be regarded, for the purposes of this Schedule, as having in relation to the share the same power as the company or associate has, or is taken to have, if—
 
     - (a) the person has; or
 
@@ -144,11 +170,15 @@ ASSOCIATES AND RELATED COMPANIES
 
     - (c) associates of the person together have; or
 
-    - (d) the person and an associate or associates of the person together have,
+    - (d) the person and an associate or associates of the person together have, power to vote in respect of no less than 20 per cent of the voting shares in the company.
 
-  - power to vote in respect of no less than 20 per cent of the voting shares in the company.
+  - 11.
 
-  - 11. When person is taken to have relevant interest in shares If—
+  - When person is taken to have
+
+  - relevant interest in shares
+
+  - If—
 
     - (a) a person—
 
@@ -158,11 +188,17 @@ ASSOCIATES AND RELATED COMPANIES
 
       - (iii) has an option granted by another person, or has granted to another person an option, with respect to an issued share in which the other person has a relevant interest; and
 
-    - (b) on performance of the relevant agreement, enforcement of the right, or exercise of the option, the first-mentioned person would have a relevant interest in the share,
+    - (b) on performance of the relevant agreement, enforcement of the right, or exercise of the option, the first-mentioned person would have a relevant interest in the share, the first-mentioned person is to be regarded, for the purposes of this Part, as having that relevant interest in the share.
 
-  - the first-mentioned person is to be regarded, for the purposes of this Part, as having that relevant interest in the share.
+  - 12.
 
-  - 12. Control of company having a relevant interest by virtue of section 11 If a company is, because of section 11 of this Schedule, to be regarded as having a relevant interest in a share in another company, a person is taken, for the purposes of this Part, to have a relevant interest in the share if—
+  - Control of company having
+
+  - a relevant interest by
+
+  - virtue of section 11
+
+  - If a company is, because of section 11 of this Schedule, to be regarded as having a relevant interest in a share in another company, a person is taken, for the purposes of this Part, to have a relevant interest in the share if—
 
     - (a) the first-mentioned company is, or its directors are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the person in relation to the exercise of—
 
@@ -174,7 +210,9 @@ ASSOCIATES AND RELATED COMPANIES
 
     - (c) the person has power to vote in respect of no less than 20 per cent of the voting shares in the first-mentioned company.
 
-  - 13. Matters not affecting application of this Part
+  - 13. Matters not affecting application
+
+  - of this Part
 
     - (1) It is immaterial for the purposes of this Part whether or not power to vote in respect of a share, or power to dispose of a share—
 
@@ -188,31 +226,43 @@ ASSOCIATES AND RELATED COMPANIES
 
     - (2) A relevant interest in a share is not to be disregarded only because of its remoteness or how it arose.
 
-  - 14. Exclusions: money lenders A relevant interest of a person in a share is to be disregarded for the purposes of this Schedule if—
+  - 14.
+
+  - Exclusions: money lenders
+
+  - A relevant interest of a person in a share is to be disregarded for the purposes of this Schedule if—
 
     - (a) the person’s ordinary business includes lending money; and
 
     - (b) the person has authority to exercise powers as the holder of the relevant interest only because of a security given for the purposes of a transaction entered into in the ordinary course of business in connection with lending money, other than a transaction entered into with an associate of the person.
 
-  - 15. Exclusions: certain trustees A relevant interest of a person in a share is to be disregarded for the purposes of this Schedule if the share is subject to a trust, the person has the relevant interest as a trustee of the trust and—
+  - 15.
+
+  - Exclusions: certain trustees
+
+  - A relevant interest of a person in a share is to be disregarded for the purposes of this Schedule if the share is subject to a trust, the person has the relevant interest as a trustee of the trust and—
 
     - (a) a beneficiary under the trust is, by virtue of section 11 of this Schedule, regarded as having a relevant interest in the share because the beneficiary has a presently enforceable and unconditional right referred to in paragraph (b) of that section; or
 
     - (b) the person is a bare trustee.
 
-  - 16. Exclusions: instructions to securities dealer to dispose of share A relevant interest of a person in a share is to be disregarded for the purposes of this Schedule if the person’s ordinary business includes dealing in securities and the person has authority to exercise powers as the holder of the relevant interest only because of instructions given to the person, by or on behalf of another person, to dispose of the share on the other person’s behalf in the ordinary course of that business.
+  - 16. Exclusions: instructions to securities
+
+  - dealer to dispose of share A relevant interest of a person in a share is to be disregarded for the purposes of this Schedule if the person’s ordinary business includes dealing in securities and the person has authority to exercise powers as the holder of the relevant interest only because of instructions given to the person, by or on behalf of another person, to dispose of the share on the other person’s behalf in the ordinary course of that business.
 
   - 17. Exclusions: honorary proxies A relevant interest of a person in a share is to be disregarded for the purposes of this Schedule if the person has it only because of having been appointed, otherwise than for valuable consideration given by the person or an associate of the person, to vote as a proxy or representative at a meeting of members, or of a class of members, of a company.
 
   - 18. Effect of this Part A person has a relevant interest in a share for the purposes of this Schedule only as provided by this Part.
 
-- PART 3 RELATED COMPANIES
+- PART 3 ASSOCIATED COMPANIES (Amended 1 of 2008 s. 52)
 
-  - 19. Meaning of “subsidiary”
+  - 19. (Repealed 1 of 2008 s. 52)
 
-    - A company is the subsidiary of another company for the purposes of this Schedule as prescribed by section 2(4) to (6) of the Companies Ordinance (Cap. 32).
+  - 20.
 
-  - 20. Associated companies Companies are related to each other (and thus associates of each other) for the purposes of this Ordinance if one of the companies—
+  - Associated companies
+
+  - Companies are related to each other (and thus associates of each other) for the purposes of this Ordinance if one of the companies—
 
     - (a) has power to vote in respect of no less than 20 per cent of the voting shares of the other company; or
 
@@ -222,4 +272,8 @@ ASSOCIATES AND RELATED COMPANIES
 
     - (d) is a subsidiary of a company that is an associate of the other company.
 
-(Schedule 8 replaced 4 of 1998 s. 2)
+  - (Schedule 8 replaced 4 of 1998 s. 2)
+
+Editorial Note:
+
+* (Amended 1 of 2008 s. 52)

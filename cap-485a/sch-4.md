@@ -134,7 +134,7 @@ Item | Relevant section of the Regulation | Short description of the relevant du
 
 59 | 143 | Participating employer to notify trustee of certain information | 5000 | 10000 | 20000
 
-60 | 145(5) and (6), 146(7) and (8), 147(5) and 148(6) | Participating employer to give notice to trustee under sections 145(5) and (6), 146(7) and (8), 147(5) and 148(6) | 5000 | 10000 | 20000
+60 | 145(5), (6) and (7A), 146(7), (8) and (9A), 147(5) and 148(6) | Participating employer to give notice to trustee under sections 145(5), (6) and (7A), 146(7), (8) and (9A), 147(5) and 148(6) (1 of 2008 s. 26) | 5000 | 10000 | 20000
 
 61 | 148(7) | Self-employed person to give notice to trustee under section 148(7) | 5000 | 10000 | 20000
 

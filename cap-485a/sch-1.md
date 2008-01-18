@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[ss. 37, 39, 40, 65 & 118 & Sch. 3] (L.N. 223 of 2000)
+[ss. 37, 39, 40, 44, 65, 70 & 118 & Sch. 3] (L.N. 223 of 2000; 1 of 2008 ss. 13 & 36)
 
 INVESTMENT OF SCHEME FUNDS
 
@@ -88,17 +88,15 @@ INVESTMENT OF SCHEME FUNDS
 
       - “relevant investment” (有關投資項目) means a permissible investment—
 
-      - (a) the value of which is determined by reference to the value of another investment; and
+        - (a) the value of which is determined by reference to the value of another investment; and
 
-      - (b)
+        - (b) which is specified, or belongs to a class of investment specified, by the Authority as a relevant investment for the purposes of this definition;
 
-      - which is specified, or belongs to a class of investment specified, by the Authority as a relevant investment for the purposes of this definition;
+      - “underlying investment” (基礎投資項目), in relation to a relevant investment, means an investment—
 
-        - “underlying investment” (基礎投資項目), in relation to a relevant investment, means an investment—
+        - (a) by reference to the value of which the value of the relevant investment is determined; and
 
-      - (a) by reference to the value of which the value of the relevant investment is determined; and
-
-      - (b) which is specified, or belongs to a class of investment specified, by the Authority as an underlying investment for the purposes of this definition. (L.N. 145 of 2006)
+        - (b) which is specified, or belongs to a class of investment specified, by the Authority as an underlying investment for the purposes of this definition. (L.N. 145 of 2006)
 
   - 3. Restrictions on borrowing and lending of securities
 
@@ -164,9 +162,7 @@ INVESTMENT OF SCHEME FUNDS
 
   - Permissible investments: index-tracking
 
-  - collective investment scheme
-
-  - The funds of a constituent fund may be invested in an index-tracking collective investment scheme which is— (L.N. 145 of 2006)
+  - collective investment scheme The funds of a constituent fund may be invested in an index-tracking collective investment scheme which is— (L.N. 145 of 2006)
 
     - (a) either—
 

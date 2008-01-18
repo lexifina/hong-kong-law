@@ -44,7 +44,7 @@ CONTENTS OF CUSTODIAL AGREEMENTS
 
     - (iv) at the time the decision to enter into the transaction was made, it was unlikely that the borrowing would be necessary; or (L.N. 222 of 2000; L.N. 223 of 2000)
 
-  - (c) where the encumbrance is created for the purpose of securing a claim of payment for the safe custody or administration of the scheme assets by a central securities depository or a delegate of a custodian; or (L.N. 223 of 2000)
+  - (c) where the encumbrance is created for the purpose of securing a claim for payment of fees for the safe custody or administration of the scheme assets by a central securities depository or a delegate of a custodian; or (L.N. 223 of 2000; 1 of 2008 s. 14)
 
   - (d) where the encumbrance is created for the purpose of acquiring a financial futures contract pursuant to section 14 of Schedule 1 or a currency forward contract pursuant to section 15 of Schedule 1; or (L.N. 223 of 2000)
 

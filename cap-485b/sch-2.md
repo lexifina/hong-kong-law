@@ -44,7 +44,7 @@ MANDATORY CONDITIONS
 
     - “vested benefit” (既有利益) has the same meaning as in section 2 of the relevant Ordinance;
 
-    - “years of post-MPF service” (參加強制性公積金計劃後的服務年期), in relation to a member of a relevant scheme, means the member’s continuous years of service (including part thereof) from the date he joined the scheme or the relevant date, whichever is the later, to—
+    - “years of post-MPF service” (強制性公積金實施後的服務年期), in relation to a member of a relevant scheme, means the member’s continuous years of service (including part thereof) from the date he joined the scheme or the relevant date, whichever is the later, to— (1 of 2008 s. 18)
 
       - (a) the date of termination of his employment;
 
@@ -58,11 +58,9 @@ MANDATORY CONDITIONS
 
     - (b) the member had benefits transferred from another relevant scheme to the scheme referred to in paragraph (a); and
 
-    - (c)
+    - (c) the benefits referred to in paragraph (b) include the member’s minimum MPF benefits,
 
-    - the benefits referred to in paragraph (b) include the member’s minimum MPF benefits,
-
-      - then, for the purposes of the definition of “minimum MPF benefits” (最低強制性公積金利益), the member’s benefits accrued under the scheme referred to in paragraph (a) during the period when the exemption certificate applied to that scheme shall be deemed to include the minimum MPF benefits referred to in paragraph (c).
+    - then, for the purposes of the definition of “minimum MPF benefits” (最低強制性公積金利益), the member’s benefits accrued under the scheme referred to in paragraph (a) during the period when the exemption certificate applied to that scheme shall be deemed to include the minimum MPF benefits referred to in paragraph (c).
 
 - 2. Application
 
@@ -90,11 +88,7 @@ MANDATORY CONDITIONS
 
   - (3) Section 4(e) shall apply to and in relation to an existing member’s minimum MPF benefits in a relevant scheme as it applies to and in relation to a new member’s minimum MPF benefits in the scheme.
 
-- 3.
-
-- Inter-group transfers and scheme transfers
-
-- Sections 4, 5 and 6 shall not apply to the minimum MPF benefits of a new member of a relevant scheme (“existing scheme”) upon termination of his employment, or his ceasing to be a member of the existing scheme, where—
+- 3. Inter-group transfers and scheme transfers Sections 4, 5 and 6 shall not apply to the minimum MPF benefits of a new member of a relevant scheme (“existing scheme”) upon termination of his employment, or his ceasing to be a member of the existing scheme, where—
 
   - (a) he is—
 
@@ -106,11 +100,7 @@ MANDATORY CONDITIONS
 
   - (c) his minimum MPF benefits under the existing scheme will be recognized under the scheme to which he is so transferred.
 
-- 4.
-
-- Preservation of minimum MPF benefits
-
-- For the purpose of preserving minimum MPF benefits in a relevant scheme—
+- 4. Preservation of minimum MPF benefits For the purpose of preserving minimum MPF benefits in a relevant scheme—
 
   - (a) no trustee of the scheme shall pay out or otherwise dispose of any part of the minimum MPF benefits to any new member of the scheme otherwise than in accordance with the provisions of this Regulation;
 
@@ -128,11 +118,7 @@ MANDATORY CONDITIONS
 
     - (ii) stand charged with any debts owing to the relevant employer or any other person by the new member (and whether or not such debts are acknowledged in writing by the member).
 
-- 5.
-
-- Portability or transferability of
-
-- minimum MPF benefits
+- 5. Portability or transferability of minimum MPF benefits
 
   - (1) Subject to section 6, where a new member of a relevant scheme is entitled to receive benefits (whether immediately or prospectively) under the scheme, the trustee of the scheme shall transfer, in accordance with the governing rules of the scheme, the minimum MPF benefits of the member as soon as reasonably practicable—
 
@@ -202,11 +188,7 @@ MANDATORY CONDITIONS
 
     - (b) a reference to a certificate signed by a registered Chinese medicine practitioner does not include a certificate so signed before the commencement of section 34 of the Certification for Employee Benefits (Chinese Medicine) (Miscellaneous Amendments) Ordinance 2006 (16 of 2006). (16 of 2006 s. 34)
 
-- 7.
-
-- Treatment of accrued rights of members
-
-- who join registered scheme
+- 7. Treatment of accrued rights of members who join registered scheme
 
   - (1) Subject to subsection (3), the governing rules of a relevant scheme shall provide for the treatment of the accrued rights under the relevant scheme in respect of an existing member who has become a member of a registered scheme as follows—
 
@@ -260,11 +242,7 @@ MANDATORY CONDITIONS
 
   - (4) The accrued rights of a member of a relevant scheme who becomes a member of a registered scheme shall be treated in the same way as prescribed under section 7.
 
-- 9.
-
-- Reporting of membership upon implementation
-
-- Within 3 months after the relevant date, the relevant employer of a relevant scheme shall submit the following information to the Authority—
+- 9. Reporting of membership upon implementation Within 3 months after the relevant date, the relevant employer of a relevant scheme shall submit the following information to the Authority—
 
   - (a) the total number of his employees;
 
@@ -276,14 +254,12 @@ MANDATORY CONDITIONS
 
   - (e) the number of existing members who have decided not to become members of a registered scheme.
 
-- 10.
-
-- Filing of annual report
-
-- The trustee of a relevant scheme shall within 6 months after the end of each financial year of the scheme (or within such longer period as the Authority may approve in writing in any particular case) give to the Authority an annual return for that financial year as regards the scheme—
+- 10. Filing of annual report The trustee of a relevant scheme shall within 6 months after the end of each financial year of the scheme (or within such longer period as the Authority may approve in writing in any particular case) give to the Authority an annual return for that financial year as regards the scheme—
 
   - (a) in such form and containing such information as may be specified by the Authority; and
 
   - (b) accompanied by the prescribed fee.
 
-- 11. Reporting of changes to governing rules of scheme The trustee of a relevant scheme shall give notice in writing to the Authority of any amendments to the governing rules of the scheme upon submission of any return under section 10 and shall attach a copy of the amendments to the notice.
+- 11. Reporting of changes to governing rules of scheme
+
+- The trustee of a relevant scheme shall give notice in writing to the Authority of any amendments to the governing rules of the scheme upon submission of any return under section 10 and shall attach a copy of the amendments to the notice.

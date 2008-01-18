@@ -214,6 +214,8 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
     - (f) accompanied by such additional particulars and undertakings as may be required by the Authority.
 
+  - (3A) An undertaking given to the Authority pursuant to a requirement made under subsection (3)(f) must be by deed, or by a document of like effect acceptable to the Authority. (1 of 2008 s. 10)
+
   - (4) The Authority may, by notice in writing, exempt—
 
     - (a) a person from the requirement of subsection (1)—
