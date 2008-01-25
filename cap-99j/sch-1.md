@@ -44,7 +44,7 @@ Amenities Assistant | Senior Amenities Assistant Amenities Assistant I Amenities
 
 Amenities Officer | Principal Amenities Officer Chief Amenities Officer Senior Amenities Officer Amenities Officer I Amenities Officer II | 12.6.1985 25.5.1983 2.1.1969 2.1.1969 2.1.1969
 
-Analyst/Programmer | Director of Information Technology Services Deputy Director of Information Technology Services Assistant Director of Information Technology Services Chief Systems Manager Senior Systems Manager Systems Manager Analyst/Programmer I Analyst/Programmer II | 1.4.1974 16.10.1998 19.1.1990 10.2.1982 1.4.1974 1.4.1974 1.4.1974 1.4.1974
+Analyst/Programmer | Deputy Director of Information Technology Services Assistant Director of Information Technology Services Chief Systems Manager Senior Systems Manager Systems Manager Analyst/Programmer I Analyst/Programmer II | 16.10.1998 19.1.1990 10.2.1982 1.4.1974 1.4.1974 1.4.1974 1.4.1974 (L.N. 13 of 2008)
 
 Architect | Government Architect Chief Architect Senior Architect Architect Assistant Architect | 25.6.1969 1.4.1948 1.4.1962 9.12.1932 1.4.1951
 
@@ -62,21 +62,15 @@ Assistant Director of Municipal Services | Senior Assistant Director of Municipa
 
 Assistant Officer | Assistant Officer I Assistant Officer II | 2.12.1970 2.12.1970
 
-Assistant Ombudsman | Deputy Ombudsman Assistant Ombudsman | 14.12.1988 9.6.1995
-
 Assistant Registrar | Assistant Registrar II | 1.4.1955
 
 Assistant Shipping Master | Senior Assistant Shipping Master Assistant Shipping Master | 8.9.1973 1.4.1953
-
-Audiology Technician | Audiology Technician I Audiology Technician II | 1.7.1982 1.7.1982
 
 Auditor | Principal Auditor Senior Auditor Auditor | 1.4.1957 1.9.1971 3.12.1947
 
 Bailiff | Chief Bailiff Assistant Chief Bailiff Senior Bailiff Bailiff | 9.10.1963 1.4.1964 9.10.1963 9.10.1963
 
 Bailiff’s Assistant | Bailiff’s Assistant | 1.4.1979
-
-Bank Examination Assistant | Bank Examination Assistant | 10.4.1968
 
 Bank Examiner | Senior Bank Examiner Bank Examiner Assistant Bank Examiner | 1.11.1978 21.12.1966 21.12.1966
 
@@ -87,8 +81,6 @@ Building Services Inspector | Senior Building Services Inspector Building Servic
 Building Supervisor | Senior Building Supervisor Building Supervisor Assistant Building Supervisor | 18.1.1991 18.1.1991 1.4.1961
 
 Building Surveyor | Government Building Surveyor Chief Building Surveyor Senior Building Surveyor Building Surveyor Assistant Building Surveyor | 25.6.1969 1.4.1948 1.4.1962 1.1.1939 1.4.1958
-
-Butcher | Master Butcher Foreman Butcher Butcher Assistant Butcher | 12.4.1967 12.4.1967 1.10.1979 1.10.1979
 
 Calligraphist | Senior Calligraphist Calligraphist | 1.4.1972 1.4.1955
 
@@ -166,6 +158,10 @@ Consultant | Consultant | 9.5.1973
 
 Consumer Services Inspector | Consumer Services Inspector | 18.1.1991
 
+Controller, Centre for Food Safety | Controller, Centre for Food Safety | 2.5.2006 (L.N. 13 of 2008)
+
+Controller, Centre for Health Protection | Controller, Centre for Health Protection | 1.4.2004 (L.N. 13 of 2008)
+
 Controller, Government Flying Service | Controller, Government Flying Service | 1.4.1993
 
 Controller of Posts | Chief Controller of Posts Senior Controller of Posts Controller of Posts Assistant Controller of Posts I Assistant Controller of Posts II | 12.4.1972 1.4.1962 4.6.1941 1.4.1962 1.4.1962
@@ -212,8 +208,6 @@ Deputy Registrar, District Court | Deputy Registrar, District Court | 23.6.2000
 
 Dietitian | Senior Dietitian Dietitian | 1.4.1966 1.4.1951
 
-Director, Civil Service Training and Development Institute | Director, Civil Service Training and Development Institute | 1.4.1996
-
 Director-General of Civil Aviation | Director-General of Civil Aviation Deputy Director-General of Civil Aviation | 19.3.1948 4.9.1973
 
 Assistant Director-General of Civil Aviation | 8.12.1965
@@ -236,7 +230,7 @@ Director of Broadcasting | Director of Broadcasting Deputy Director of Broadcast
 
 Director of Buildings | Director of Buildings Deputy Director of Buildings | 1.8.1993 19.1.1996
 
-Director of Civil Engineering | Director of Civil Engineering | 1.4.1991
+Director of Civil Engineering and Development | Director of Civil Engineering and Development | 1.7.2004 (L.N. 13 of 2008)
 
 Director of Drainage Services | Director of Drainage Services | 1.7.1989
 
@@ -279,8 +273,6 @@ Director of Planning | Director of Planning | 1.12.1989
 Director of Protocol | Director of Protocol | 20.11.1963
 
 Director of Social Welfare | Deputy Director of Social Welfare Assistant Director of Social Welfare | 5.8.1970 1.4.1960
-
-Director of Territory Development | Director of Territory Development | 11.4.1986
 
 Director of the Hong Kong Observatory | Director of the Hong Kong Observatory Assistant Director of the Hong Kong Observatory | 9.12.1932 4.5.1977
 
@@ -392,6 +384,8 @@ General Manager (Correctional Services Industries) | General Manager (Correction
 
 Geotechnical Engineer | Principal Government Geotechnical Engineer Government Geotechnical Engineer Chief Geotechnical Engineer Senior Geotechnical Engineer Geotechnical Engineer Assistant Geotechnical Engineer | 13.7.1977 13.7.1977 13.7.1977 13.7.1977 13.7.1977 13.7.1977
 
+Government Chief Information Officer | Government Chief Information Officer | 1.7.2004 (L.N. 13 of 2008)
+
 Government Counsel | Principal Government Counsel Deputy Principal Government Counsel Senior Government Counsel Government Counsel | 1.7.1959 30.4.1980 1.7.1959 12.5.1938
 
 Government Economist | Government Economist | 1.10.1987
@@ -431,8 +425,6 @@ Immigration Officer | Senior Principal Immigration Officer Principal Immigration
 Independent Commission Against Corruption Officer (Pensionable) | Independent Commission Against Corruption Officer (Pensionable) | 1.2.1979
 
 Industrial Officer (Correctional Services) | Superintendent of Correctional Services Industries Chief Industrial Officer (Correctional Services) Principal Industrial Officer (Correctional Services) Industrial Officer (Correctional Services) | 1.2.1982 1.2.1982 1.2.1982 1.2.1982
-
-Industrial Training Officer | Industrial Training Officer | 12.12.1973
 
 Information Coordinator | Information Coordinator | 15.1.1999
 
@@ -513,8 +505,6 @@ Law Officer | Law Officer | 14.2.1979
 Law Translation Officer | Senior Law Translation Officer Law Translation Officer | 25.1.1989 25.1.1989
 
 Leading Sewerman | Leading Sewerman | 1.10.1989
-
-Lecturer (Graduate) | Vice-Principal, College of Education Principal Lecturer Senior Lecturer Lecturer (Graduate) | 1.4.1972 1.4.1972 1.4.1972 1.4.1972
 
 Lecturer (Non-graduate) | Lecturer (Non-graduate) Assistant Lecturer | 1.4.1972 1.10.1979
 
@@ -648,10 +638,6 @@ Presiding Officer | Principal Presiding Officer, Labour Tribunal Presiding Offic
 
 Primary School Master/ Mistress | Headmaster/Headmistress I Headmaster/Headmistress II Primary School Master/Mistress Assistant Primary School Master/Mistress | 8.7.1994 8.7.1994 8.7.1994 8.7.1994
 
-Principal Assistant Financial Secretary | Senior Principal Assistant Financial Secretary Principal Assistant Financial Secretary | 1.10.1987 14.10.1981
-
-Principal Assistant Secretary (Monetary Affairs) | Deputy Secretary (Monetary Affairs) Principal Assistant Secretary (Monetary Affairs) | 10.2.1982 13.7.1977
-
 Principal Assistant Secretary for Security (Assessment) | Principal Assistant Secretary for Security (Assessment) | 1.2.1986
 
 Printing Officer | Chief Printing Superintendent Senior Printing Superintendent Printing Superintendent Chief Printing Officer Senior Printing Officer Printing Officer | 21.6.1978 21.6.1978 1.8.1954 1.4.1956 1.4.1953 1.4.1953
@@ -692,13 +678,9 @@ Registrar, High Court | Registrar, High Court Senior Deputy Registrar, High Cour
 
 Registrar of Companies | Registrar of Companies | 1.5.1993
 
-Registrar of Trade Unions | Deputy Registrar of Trade Unions | 1.4.1955
-
 Registry Manager | Registry Manager | 1.5.1993
 
 Rent Officer | Chief Rent Officer Senior Rent Officer Rent Officer I Rent Officer II | 26.10.1983 26.10.1983 26.10.1983 26.10.1983
-
-Sailor | Boatswain Senior Coxswain Coxswain Sailor | 4.10.1967 1.4.1974 1.4.1974 1.4.1974
 
 Science Laboratory Technician | Science Laboratory Technologist Science Laboratory Technician I Science Laboratory Technician II | 25.3.1987 25.3.1987 25.3.1987
 
@@ -709,10 +691,6 @@ Scientific Officer | Senior Scientific Officer Scientific Officer | 1.4.1961 1.4
 Scientific Officer (Medical) | Scientific Officer (Medical) | 1.4.1959
 
 Secretary of Justice | Secretary of Justice | 9.12.1932
-
-Secretary, Regional Council | Secretary, Regional Council | 1.4.1985
-
-Secretary, Urban Council | Secretary, Urban Council | 1.4.1973
 
 Secretary-General, University Grants Committee | Secretary-General, University Grants Committee | 10.5.1996
 
@@ -778,8 +756,6 @@ Surveyor of Ships | Principal Surveyor of Ships Senior Surveyor of Ships Surveyo
 
 Tailor | Tailor | 1.6.1975
 
-Tally Clerk | Tally Clerk | 12.4.1967
-
 Tax Inspector | Principal Tax Inspector Chief Tax Inspector Senior Tax Inspector Tax Inspector I Tax Inspector II | 6.5.1970 2.12.1964 1.9.1951 1.4.1954 1.4.1954
 
 Taxation Officer | Senior Taxation Officer Taxation Officer Assistant Taxation Officer | 8.7.1994 1.4.1947 8.7.1994
@@ -789,8 +765,6 @@ Technical Instructor (Correctional Services) | Technical Instructor (Correctiona
 Technical Officer | Chief Technical Officer Principal Technical Officer Senior Technical Officer Technical Officer Technical Officer Trainee | 1.8.1977 1.8.1977 1.8.1977 1.8.1977 1.8.1977
 
 Technical Officer (Cultural Services) | Senior Technical Officer (Cultural Services) Technical Officer I (Cultural Services) Technical Officer II (Cultural Services) | 12.10.1983 12.10.1983 12.10.1983
-
-Technical Secretary (Industry) | Technical Secretary (Industry) | 16.10.1988
 
 Telecommunications Engineer | Chief Telecommunications Engineer Senior Telecommunications Engineer `Telecommunications Engineer Assistant Telecommunications Engineer | 7.7.1976 18.10.1972 4.10.1967 4.10.1967
 
@@ -852,4 +826,4 @@ Works Supervisor | Works Supervisor I Works Supervisor II | 1.8.1977 1.8.1977
 
 Workshop Instructor | Workshop Instructor I Workshop Instructor II Workshop Instructor III | 1.4.1972 1.4.1972 24.6.1981
 
-(Schedule 1 amended L.N. 244 of 2003)
+(Schedule 1 amended L.N. 244 of 2003; L.N. 13 of 2008)

@@ -90,17 +90,21 @@ Senior Vocational Studies Tutor (VTC) | 24.7.2000
 
 Vocational Studies Tutor (VTC) | 24.7.2000
 
-Principal Lecturer (IVE) (VTC) | 1.9.2001 (L.N. 244 of 2003)
+Principal Lecturer (IVE) (VTC) (L.N. 244 of 2003) | 1.9.2001
 
-Senior Lecturer (IVE) (VTC) | 1.9.2001 (L.N. 244 of 2003)
+Senior Lecturer (IVE) (VTC) (L.N. 244 of 2003) | 1.9.2001
 
-Lecturer (IVE) (VTC) | 1.9.2001 (L.N. 244 of 2003)
+Lecturer (IVE) (VTC) (L.N. 244 of 2003) | 1.9.2001
+
+Senior Assistant Executive Director (VTC) (L.N. 13 of 2008) | 1.4.2006
 
 Artisan (HA) | 1.12.1991
 
 Assistant Director of Hospital Services (HA) | 1.12.1991
 
 Assistant Laundry Manager (HA) | 1.12.1991
+
+Associate Consultant (HA) (L.N. 13 of 2008) | 22.3.2007
 
 Audiology Technician I (HA) | 1.12.1991
 
@@ -127,6 +131,8 @@ Chiropodist II (HA) | 1.12.1991
 Clinical Psychologist (HA) | 1.12.1991
 
 Consultant (HA) | 1.12.1991
+
+Consultant (Hospital Services) (HA) (L.N. 13 of 2008) | 8.9.2006
 
 Cook (HA) | 1.12.1991
 
@@ -302,7 +308,9 @@ Senior Radiographer (HA) | 1.12.1991
 
 Speech Therapist (HA) | 1.12.1991
 
-Student Nurse (Pay) (HA) | 9.10.2000
+Student Nurse (HA) (L.N. 13 of 2008) | 6.10.2003
+
+Student Nurse (Psy) (HA) | 9.10.2000
 
 Superintendent Occupational Therapist (HA) | 1.12.1991
 
@@ -315,5 +323,3 @@ Tailor (HA) | 1.12.1991
 Ward Manager (HA) | 3.7.1992
 
 X-ray Mechanic (HA) | 1.12.1991
-
-(L.N. 244 of 2003)
