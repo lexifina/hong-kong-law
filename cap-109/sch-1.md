@@ -10,11 +10,11 @@
 
   - Liquor with an alcoholic strength of more than 30% by volume measured at a temperature of 20°C | 100%
 
-  - Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20°C | 20%
+  - Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20°C | 0%
 
-  - Wine | 40%
+  - Wine | 0%
 
-  - (Amended 67 of 1997 s. 3; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 28 of 2002 and 17 of 2002 s. 2; L.N. 32 of 2007 and 13 of 2007 s. 2)
+  - (Amended 67 of 1997 s. 3; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 28 of 2002 and 17 of 2002 s. 2; L.N. 32 of 2007 and 13 of 2007 s. 2; L.N. 33 of 2008 and 15 of 2008 s. 3)
 
   - 2. Where there is no or insufficient information available from which the Commissioner (or any officer authorized by him in that behalf) is able to determine the value of any quantity of liquor of less than 12 litres, imported at any time in one consignment, he may assess the duty payable on such liquor at the rate of $160 per litre.
 
