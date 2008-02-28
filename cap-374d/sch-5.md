@@ -4,11 +4,11 @@
 
 TAXI FARES
 
-1. Taxis licensed to operate in Hong Kong and Kowloon (L.N. 353 of 1988; L.N. 75 of 1998) . | $15.00 for the first 2 kilometres or any part thereof and $1.4 for every 200 metres or part thereof thereafter.
+1. Taxis licensed to operate in Hong Kong and Kowloon (L.N. 353 of 1988; L.N. 75 of 1998; L.N. 12 of 2008) . | $16.00 for the first 2 kilometres or any part thereof and $1.4 for every 200 metres or part thereof thereafter.
 
 2. Taxis licensed to operate within Lantau (L.N. 308 of 1992; L.N. 225 of 1995 L.N.; 225 of 1996; L.N. 15 of 1998) . | $12.00 for the first 2 kilometres or any part thereof and $1.2 for every 200 metres or part thereof thereafter.
 
-2a. Taxis licensed to operate in the New Territories (L.N. 353 of 1988) . | $12.5 for the first 2 kilometres or any part thereof and $1.2 for every 200 metres or part thereof thereafter.
+2a. Taxis licensed to operate in the New Territories (L.N. 353 of 1988; L.N. 12 of 2008) . | $13.5 for the first 2 kilometres or any part thereof and $1.2 for every 200 metres or part thereof thereafter.
 
 3. Waiting Time
 
