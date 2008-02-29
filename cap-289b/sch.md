@@ -326,4 +326,6 @@ Item | Periods | Rate of interest
 
 161. | On or after 3 December 2007 and before 4 February 2008 (L.N. 226 of 2007; L.N. 22 of 2008) | 2.3333% per annum
 
-162. | On or after 4 February 2008 (L.N. 22 of 2008) | 1.25% per annum
+162. | On or after 4 February 2008 and before 3 March 2008 (L.N. 22 of 2008; L.N. 46 of 2008) | 1.25% per annum
+
+163. | On or after 3 March 2008 (L.N. 46 of 2008) | 1.05% per annum
