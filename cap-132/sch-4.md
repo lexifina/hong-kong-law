@@ -988,8 +988,6 @@ Kowloon Park Sports Centre
 
 Kowloon Tsai Park
 
-Kowloon Tsai Park Squash Court
-
 Kowloon Tsai Sports Ground
 
 Kowloon Walled City Park
