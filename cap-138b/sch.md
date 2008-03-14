@@ -58,6 +58,10 @@ THE POISONS LIST
 
 - Alfuzosin; its salts
 
+- Alglucosidase alfa
+
+- Aliskiren; its salts; its esters; their salts
+
 - Alizapride; its salts
 
 - Alkaloids, the following; their quaternary compounds; any salt, simple or complex, of any substance falling within the following—
@@ -225,8 +229,6 @@ THE POISONS LIST
 - Bromodiphenhydramine
 
 - Buclizine
-
-- Cetirizine
 
 - Chlorcyclizine
 
@@ -1248,6 +1250,8 @@ THE POISONS LIST
 
 - Lapatinib; its salts
 
+- Laronidase
+
 - Laudexium; its salts
 
 - Lead acetates; compounds of lead with acids from fixed oils
@@ -1801,6 +1805,8 @@ THE POISONS LIST
 - Polymethylenebistrimethylammonium salts
 
 - Poractant alfa
+
+- Posaconazole; its salts; its esters; their salts
 
 - Pralidoxime; its salts
 
@@ -2368,7 +2374,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005; L.N. 213 of 2005; L.N. 26 of 2006; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 224 of 2006; L.N. 278 of 2006; L.N. 42 of 2007; L.N. 99 of 2007; L.N. 144 of 2007; L.N. 209 of 2007; L.N. 240 of 2007)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005; L.N. 213 of 2005; L.N. 26 of 2006; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 224 of 2006; L.N. 278 of 2006; L.N. 42 of 2007; L.N. 99 of 2007; L.N. 144 of 2007; L.N. 209 of 2007; L.N. 240 of 2007; L.N. 62 of 2008)
 
 - PART II DIVISION A (L.N. 42 of 2007)
 
