@@ -1,0 +1,5 @@
+TSING SHA CONTROL AREA (GENERAL) REGULATION
+
+(Cap. 594, section 26(2))
+
+[21 March 2008] L.N. 28 of 2008
