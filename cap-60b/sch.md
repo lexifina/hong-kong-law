@@ -12,13 +12,13 @@ Item | $
 
 (c) In respect of textiles—
 
-(i) application for issue of consignment specific export licence (Form 4 TIC 353) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 160 of 1992; L.N. 156 of 2004) . | 56
+(i) application for issue of consignment specific export licence (Form 4 TIC 353) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 160 of 1992; L.N. 156 of 2004; L.N. 19 of 2008) . | 44
 
 (ii)-(v) (Repealed L.N. 156 of 2004)
 
 (vi) (Repealed L.N. 484 of 1996)
 
-(vii) application for issue of consignment specific import licence (Form 7 TRA 23) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 156 of 2004) . | 40
+(vii) application for issue of consignment specific import licence (Form 7 TRA 23) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 156 of 2004; L.N. 19 of 2008) . | 45
 
 (viii) (Repealed L.N. 189 of 1993)
 
@@ -38,21 +38,21 @@ Item | $
 
 5. | Issue of certificate of Hong Kong origin (Form TIC 16), certificate of processing (Form TIC 288), generalized preference certificate (Form A), any other form of certificate of origin or any certificate relating to the origin of goods (L.N. 120 of 1990) . | No fee
 
-6. | Issue of a landing certificate (Form TIC 42) (L.N. 106 of 1990; L.N. 160 of 1992) . | 385
+6. | Issue of a landing certificate (Form TIC 42) (L.N. 106 of 1990; L.N. 160 of 1992; L.N. 19 of 2008) . | 430
 
 7. | (Repealed L.N. 484 of 1996)
 
 8. | Issue of a certificate of accuracy of any copy of, or extract from, official records, except where an appropriate fee is prescribed in any other enactment (L.N. 160 of 1992) . | 300
 
-9. | Issue of any copy of official records of statistical data derived or extracted from import and export declarations, such fee being calculated at per sheet or part thereof (L.N. 160 of 1992) . | 15
+9. | Issue of any copy of official records of statistical data derived or extracted from import and export declarations, such fee being calculated at per sheet or part thereof (L.N. 160 of 1992; L.N. 19 of 2008) . | 16
 
 10. | Issue of any statistical data, other than copies of official records, derived from import and export declarations, such fee being calculated according to the actual work done including all overheads charges . | Fee as calculated
 
-10A. | Issue of a delivery verification certificate for the certification of delivery of strategic commodities into Hong Kong (L.N. 259 of 1985; L.N. 160 of 1992) . | 203
+10A. | Issue of a delivery verification certificate for the certification of delivery of strategic commodities into Hong Kong (L.N. 259 of 1985; L.N. 160 of 1992; L.N. 19 of 2008) . | 235
 
-10B. | Issue of a certified copy of import declaration or export declaration or manifest (L.N. 106 of 1990; L.N. 160 of 1992) . | 245
+10B. | Issue of a certified copy of import declaration or export declaration or manifest (L.N. 106 of 1990; L.N. 160 of 1992; L.N. 19 of 2008) . | 235
 
-10C. | Issue of an international import certificate (L.N. 160 of 1992) . | 65
+10C. | Issue of an international import certificate (L.N. 160 of 1992; L.N. 19 of 2008) . | 79
 
 11. | (Repealed L.N. 484 of 1996)
 
@@ -64,24 +64,24 @@ Item | $
 
 14. | Fee payable when a production notification is lodged—
 
-(a) where the production notification is lodged on paper (Form TRA 579) . | 49
+(a) where the production notification is lodged on paper (Form TRA 579) . | 57
 
-(b) where the production notification is lodged using services provided by a specified body (L.N. 195 of 1999) . | 34
+(b) where the production notification is lodged using services provided by a specified body (L.N. 195 of 1999; L.N. 19 of 2008) . | 41
 
 15. | In respect of rough diamonds—
 
 (a) fee for registration as a registered rough diamond trader under Part VI of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) for a period of 2 years—
 
-(i) in the case of an initial registration . | 660
+(i) in the case of an initial registration . | 645
 
-(ii) in the case of a registered rough diamond trader renewing his registration . | 435
+(ii) in the case of a registered rough diamond trader renewing his registration . | 430
 
-(b) issue of import licence . | 160
+(b) issue of import licence . | 175
 
-(c) issue of export licence (L.N. 180 of 2002; L.N. 50 of 2006) . | 170
+(c) issue of export licence (L.N. 180 of 2002; L.N. 50 of 2006; L.N. 19 of 2008) . | 180
 
 (L.N. 258 of 1982; L.N. 189 of 1993; L.N. 259 of 1994; L.N. 203 of 1995; L.N. 202 of 1996; L.N. 245 of 1997)
 
 Editorial Note:
 
-*Commencement date : 25 June 2007.
+* Commencement date : 25 June 2007.
