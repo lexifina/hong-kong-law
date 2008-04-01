@@ -26,6 +26,10 @@
 
   - 8. Any frozen or chilled part of a bird mentioned in item 7 which is edible or used in the preparation of food, other than the carcass or a part of the carcass of such a bird. (L.N. 142 of 2000)
 
+  - 9. Any chemical to which section 8 of the Hazardous Chemicals Control Ordinance (Cap. 595) applies under section 3 of that Ordinance. (19 of 2007 s. 52)
+
+  - 10. Any article that has as its part any chemical to which section 8 of the Hazardous Chemicals Control Ordinance (Cap. 595) applies under section 3 of that Ordinance. (19 of 2007 s. 52)
+
 - PART II
 
   - 1-2. (Repealed 33 of 2003 s. 2)

@@ -22,6 +22,10 @@ Item | Article | Country or place
 
 6. | Rough diamonds within the meaning of regulation 6DA. | Without prejudice to regulation 6DE, any country or place. (L.N. 179 of 2002)
 
+7. | Any chemical to which section 7 of the Hazardous Chemicals Control Ordinance (Cap. 595) applies under section 3 of that Ordinance. | All places outside Hong Kong. (19 of 2007 s. 52)
+
+8. | Any article that has as its part any chemical to which section 7 of the Hazardous Chemicals Control Ordinance (Cap. 595) applies under section 3 of that Ordinance. | All places outside Hong Kong. (19 of 2007 s. 52)
+
 - PART II
 
 Item | Article | Country or place
