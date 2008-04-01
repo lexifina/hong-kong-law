@@ -22,6 +22,10 @@ Item | Particular | Fee $
 
 (L.N. 402 of 1996)
 
+1C. | Authorization required for the disposal of imported waste referred to in section 20DA(2) of the Ordinance . | 11250
+
+(L.N. 11 of 2008)
+
 1. | Waste collection licence— (6 of 2006 s. 29)
 
 (a) for provision of a waste collection service—
