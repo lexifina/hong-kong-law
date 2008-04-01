@@ -34,6 +34,8 @@ Secretary for Security
 
 Secretary for Transport and Housing
 
+Under Secretary
+
 Permanent Secretary
 
 Director of Administration
@@ -48,4 +50,4 @@ Principal Assistant Secretary
 
 Assistant Director of Administration
 
-(Schedule 6 replaced L.N. 134 of 2007)
+(Schedule 6 replaced L.N. 134 of 2007. Amended L.N. 49 of 2008)
