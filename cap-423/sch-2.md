@@ -126,7 +126,7 @@ Item Body
 
 - 62. The Boys’ and Girls’ Clubs Association of Hong Kong (Added L.N. 260 of 2000)
 
-- 63. Hong Kong Small and Medium Enterprises Association (Added L.N. 214 of 2001)
+- 63. (Repealed L.N. 71 of 2008)
 
 - 64. Hong Kong Association of Gerontology (Added L.N. 214 of 2001)
 
@@ -146,4 +146,24 @@ Item Body
 
 - 72. Construction Industry Council (Added 12 of 2006 s. 84)
 
-- 73. The Neighbourhood Advice-Action Council (Added L.N. 216 of 2007) (Schedule 2 replaced L.N. 269 of 1999)
+- 73. The Neighbourhood Advice-Action Council (Added L.N. 216 of 2007)
+
+- 74. Lingnan Institute of Further Education (Added L.N. 71 of 2008)
+
+- 75. School of Continuing Education, Hong Kong Baptist University (Added L.N. 71 of 2008)
+
+- 76. School of Continuing and Professional Education, City University of Hong Kong (Added L.N. 71 of 2008)
+
+- 77. Li Ka Shing Institute of Professional and Continuing Education, The Open University of Hong Kong (Added L.N. 71 of 2008)
+
+- 78. School of Continuing and Professional Studies, The Chinese University of Hong Kong (Added L.N. 71 of 2008)
+
+- 79. HKIEd School of Continuing and Professional Education Limited (Added L.N. 71 of 2008)
+
+- 80. Hong Kong Institute of Technology (Added L.N. 71 of 2008)
+
+- 81. The Chinese University of Hong Kong — Tung Wah Group of Hospitals Community College (Added L.N. 71 of 2008)
+
+- 82. The Hong Kong Federation of Youth Groups (Added L.N. 71 of 2008)
+
+- 83. Hong Kong Outlying Islands Women’s Association Limited (Added L.N. 71 of 2008) (Schedule 2 replaced L.N. 269 of 1999)
