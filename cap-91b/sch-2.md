@@ -48,7 +48,7 @@ RULES FOR COMPUTING DISPOSABLE CAPITAL
 
   - (a) the Employees’ Compensation Ordinance (Cap. 282);
 
-  - (b) the Pneumoconiosis (Compensation) Ordinance (Cap. 360); or
+  - (b) the Pneumoconiosis and Mesothelioma (Compensation) Ordinance (Cap. 360); or (6 of 2008 s. 40)
 
   - (c) the Occupational Deafness (Compensation) Ordinance (Cap. 469).
 

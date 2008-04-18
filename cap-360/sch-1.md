@@ -6,6 +6,8 @@ AMOUNTS OF COMPENSATION
 
 - PART I COMPENSATION FOR DEATH RESULTING FROM PNEUMOCONIOSIS
 
+- OR MESOTHELIOMA (OR BOTH) (Amended 6 of 2008 s. 27)
+
   - 1. An amount calculated according to the formula— (Average yearly earnings x Age factor x 55%) x 110%, rounded up to the nearest $10.
 
   - 2. In paragraph 1—

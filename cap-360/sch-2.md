@@ -14,7 +14,7 @@ MEDICAL APPLIANCES
 
 - UNDER SECTION 12
 
-  - 1. Subject to paragraph 3, where a person is given medical treatment as an in-patient in a hospital, the expenses payable are—
+  - 1. Subject to paragraph 3, where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) as an in-patient in a hospital, the expenses payable are— (Amended 6 of 2008 s. 28)
 
     - (a) the total amount of the expenses incurred in respect of the medical treatment; or
 
@@ -22,7 +22,7 @@ MEDICAL APPLIANCES
 
   - whichever total amount is the less.
 
-  - 2. Subject to paragraph 3, where a person is given medical treatment other than as an in-patient in a hospital, the expenses payable are—
+  - 2. Subject to paragraph 3, where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) other than as an in-patient in a hospital, the expenses payable are— (Amended 6 of 2008 s. 28)
 
     - (a) the total amount of the expenses incurred in respect of the medical treatment; or
 
@@ -30,7 +30,7 @@ MEDICAL APPLIANCES
 
   - whichever total amount is the less.
 
-  - 3. Where a person is given medical treatment on any day both as an in-patient in a hospital and other than as an in-patient in a hospital, the daily rate for the purposes of this Schedule shall be $280. (Amended L.N. 322 of 1985; L.N. 391 of 1987; L.N. 387 of 1989; L.N. 434 of 1991; 54 of 1993 s. 43; L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 99 of 2003)
+  - 3. Where a person is given medical treatment in respect of pneumoconiosis or mesothelioma (or both) on any day both as an in-patient in a hospital and other than as an in-patient in a hospital, the daily rate for the purposes of this Schedule shall be $280. (Amended 6 of 2008 s. 28)(Amended L.N. 322 of 1985; L.N. 391 of 1987; L.N. 387 of 1989; L.N. 434 of 1991; 54 of 1993 s. 43; L.N. 464 of 1993; L.N. 567 of 1995; L.N. 286 of 1998; L.N. 99 of 2003)
 
 - PART II MEDICAL APPLIANCES UNDER SECTION 12A
 

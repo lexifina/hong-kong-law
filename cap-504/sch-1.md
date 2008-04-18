@@ -2,7 +2,7 @@
 
 [ss. 2, 4 & 55]
 
-- PART 1 REPORTABLE DEATHS
+- PART 1 Reportable Deaths
 
   - 1. Any death of a person where a registered medical practitioner is unable to accurately state the medical cause of the death in the certificate of the cause of death.
 
@@ -28,7 +28,11 @@
 
   - 7. Any death of a person where—
 
-    - (a) an occupational disease, within the meaning of section 3 of the Employees’ Compensation Ordinance (Cap. 282), or pneumoconiosis, within the meaning of section 2(1) of the Pneumoconiosis (Compensation) Ordinance (Cap. 360), caused the death; or
+    - (a) the death was caused by—
+
+      - (i) an occupational disease, within the meaning of section 3 of the Employees’ Compensation Ordinance (Cap. 282); or
+
+      - (ii) pneumoconiosis, or mesothelioma, within the meaning of section 2(1) of the Pneumoconiosis and Mesothelioma (Compensation) Ordinance (Cap. 360), or both of those diseases; or (Replaced 6 of 2008 s. 48)
 
     - (b) having regard to the nature of the last illness of the person, the medical cause of the death and the nature of any known occupation or employment, or previous occupation or employment, of the person, it is reasonable to believe that the death may be connected, either directly or indirectly, with any such occupation or employment.
 
@@ -76,26 +80,30 @@
 
   - 20. Any death of a person which occurred outside Hong Kong where the body of the person is brought into Hong Kong.
 
-- PART 2 PERSONS UNDER A DUTY TO REPORT REPORTABLE DEATHS
+- PART 2 Persons under a Duty to Report Reportable Deaths
 
-Item | Person required to discharge duty and the particular circumstances, if any, in which duty arises | Person to whom reported
+- Item | Person required to discharge duty and the particular circumstances, if any, in which duty arises | Person to whom reported
 
-1. | Any registered medical practitioner in respect of any reportable death where he— (a) signs the certificate of the cause of death; (b) if no such certificate is so signed, attended the deceased during his last illness. | Coroner with a copy to the Commissioner of Police at the same time.
+- 1. | Any registered medical practitioner in respect of any reportable death where he— | Coroner with a copy to the Commissioner of Police at the same time.
 
-2. | The person in charge of a hospital, or another person authorized in writing by the person so in charge, in respect of any reportable death which occurred therein. | Coroner with a copy to the Commissioner of Police at the same time.
+- (a) | signs the certificate of the cause of death;
 
-3. | Any person (except a police officer) in respect of any reportable death which occurred whilst the deceased was in the official custody of that person. | Coroner via Commissioner of Police.
+- (b) | if no such certificate is so signed, attended the deceased during his last illness.
 
-4. | Any police officer in respect of any reportable death which occurred whilst the deceased was in the official custody of that police officer. | Coroner.
+- 2. | The person in charge of a hospital, or another person authorized in writing by the person so in charge, in respect of any reportable death which occurred therein. | Coroner with a copy to the Commissioner of Police at the same time.
 
-5. | Any person for the time being administering or otherwise in charge of premises owned, occupied or in the possession of any department of the Government (other than the police force) in respect of any reportable death which occurred therein. | Coroner via Commissioner of Police.
+- 3. | Any person (except a police officer) in respect of any reportable death which occurred whilst the deceased was in the official custody of that person. | Coroner via Commissioner of Police.
 
-6. | Any person for the time being administering or otherwise in charge of premises owned, occupied or in the possession of the police force in respect of any reportable death which occurred therein. | Coroner.
+- 4. | Any police officer in respect of any reportable death which occurred whilst the deceased was in the official custody of that police officer. | Coroner.
 
-7. | The head of any department of the Government which receives a statutory notice in respect of any reportable death. | Coroner.
+- 5. | Any person for the time being administering or otherwise in charge of premises owned, occupied or in the possession of any department of the Government (other than the police force) in respect of any reportable death which occurred therein. | Coroner via Commissioner of Police.
 
-8. | Any police officer. | Coroner.
+- 6. | Any person for the time being administering or otherwise in charge of premises owned, occupied or in the possession of the police force in respect of any reportable death which occurred therein. | Coroner.
 
-9. | The Registrar of Births and Deaths. | Coroner.
+- 7. | The head of any department of the Government which receives a statutory notice in respect of any reportable death. | Coroner.
 
-10. | Any registered medical practitioner in respect of any reportable death where the consent of a coroner is being sought under section 4(4)(a) or (b) of the Medical (Therapy, Education and Research) Ordinance (Cap. 278) in relation to the body of the deceased. | Coroner.
+- 8. | Any police officer. | Coroner.
+
+- 9. | The Registrar of Births and Deaths. | Coroner.
+
+- 10. | Any registered medical practitioner in respect of any reportable death where the consent of a coroner is being sought under section 4(4)(a) or (b) of the Medical (Therapy, Education and Research) Ordinance (Cap. 278) in relation to the body of the deceased. | Coroner.

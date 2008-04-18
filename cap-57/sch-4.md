@@ -2,7 +2,7 @@
 
 [s. 72(1)]
 
-SPECIFIED ORDINANCES
+Specified Ordinances
 
 Item | Title
 
@@ -18,7 +18,7 @@ Item | Title
 
 6. | Trade Unions Ordinance (Cap. 332).
 
-7. | Pneumoconiosis (Compensation) Ordinance (Cap. 360).
+7. | Pneumoconiosis and Mesothelioma (Compensation) Ordinance (Cap. 360). (Amended 6 of 2008 s. 37)
 
 8. | Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Added 61 of 1994 s. 55)
 

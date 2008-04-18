@@ -2,9 +2,7 @@
 
 [s. 25]
 
-PNEUMOCONIOSIS COMPENSATION FUND BOARD
-
-(Adaptation amendments retroactively made - see 3 of 2004 s. 38)
+Pneumoconiosis Compensation Fund Board
 
 - 1. Incorporation and states The Board shall be a body corporate with perpetual succession and capable of suing and being sued.
 
@@ -60,7 +58,7 @@ PNEUMOCONIOSIS COMPENSATION FUND BOARD
 
   - (1) Subject to sub-paragraph (2), the Board may appoint committees for the better discharge of its functions under this Ordinance.
 
-  - (2) The Board shall appoint a committee, comprising 3 members of the Board, for the purpose of the determination of any objection under regulation 12 of the Pneumoconiosis (Compensation) (Assessment of Levy) Regulations (Cap. 360 sub. leg. A).
+  - (2) The Board shall appoint a committee, comprising 3 members of the Board, for the purpose of the determination of any objection under regulation 12 of the Pneumoconiosis and Mesothelioma (Compensation) (Assessment of Levy) Regulations (Cap. 360 sub. leg. A). (Amended 6 of 2008 s. 29)
 
   - (3) The Board may in writing delegate to any committee appointed under sub-paragraph (1) or (2) or to any employee any of its powers and functions:
 

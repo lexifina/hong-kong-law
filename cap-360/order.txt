@@ -21,6 +21,7 @@ s-012A.md
 s-012B.md
 s-013.md
 s-013A.md
+s-013B.md
 s-014.md
 s-015.md
 s-015A.md
