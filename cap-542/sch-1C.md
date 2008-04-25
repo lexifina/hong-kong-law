@@ -102,7 +102,7 @@ Item Body
 
 - 48. Hong Kong Jewellers’ & Goldsmiths’ Association Limited.
 
-- 49. Hong Kong Leather Shoe And Shoe Material Merchants Association Ltd.
+- 49. The Federation of Hong Kong Footwear Limited. (Replaced 7 of 2008 s. 9)
 
 - 50. Hong Kong Live Pig Trade Merchants’ Association.
 
@@ -152,7 +152,7 @@ Item Body
 
 - 73. The Industrial Chemical Merchants’ Association Limited. (Amended 10 of 2006 s. 45)
 
-- 74. Kowloon Cheung Sha Wan Wholesale Vegetable Market (Importers) Recreation Club. (Amended 10 of 2006 s. 45)
+- 74. Kowloon Cheung Sha Wan Wholesale Vegetable Market (Importers) Recreation Club Limited. (Replaced 7 of 2008 s. 9)
 
 - 75. Kowloon Fresh Fish Merchants Association Limited. (Amended 10 of 2006 s. 45)
 
@@ -184,7 +184,7 @@ Item Body
 
 - 90. (Repealed 25 of 2003 s. 46)
 
-- 91. Yuet Sum Kong Vegetable Association (Hong Kong) Co.
+- 91. (Repealed 7 of 2008 s. 9)
 
 - 92. Kowloon Fruit & Vegetable Merchants Association Limited. (Added 25 of 2003 s. 46)
 
@@ -192,4 +192,6 @@ Item Body
 
 - 94. Hong Kong Poultry Wholesalers Association. (Added 25 of 2003 s. 46)
 
-- 95. Diamond Federation of Hong Kong, China Limited. (Added 25 of 2003 s. 46) (Added 48 of 1999 s. 43)
+- 95. Diamond Federation of Hong Kong, China Limited. (Added 25 of 2003 s. 46)
+
+- 96. Tobacco Association of Hong Kong Limited. (Added 7 of 2008 s. 9) (Added 48 of 1999 s. 43)

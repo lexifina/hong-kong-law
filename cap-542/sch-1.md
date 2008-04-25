@@ -122,7 +122,7 @@ Item Body
 
 - 58. The Shau Kei Wan Trawler Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 59. The Sheung Shui Ngai Yuen Sun Tsuen Pig Raising Co-operative Society, Ltd.
+- 59. (Repealed 7 of 2008 s. 6)
 
 - 60. Tai O Fishermen (Coastal Fishery) Association.
 
@@ -146,7 +146,7 @@ Item Body
 
 - 70. Tung Lung Chau Mariculture Association.
 
-- 71. The World Poultry Science Association, Hong Kong Branch.
+- 71. The Hong Kong Branch of the World’s Poultry Science Association. (Replaced 7 of 2008 s. 6)
 
 - 72. (Repealed 10 of 2006 s. 46)
 

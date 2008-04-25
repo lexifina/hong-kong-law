@@ -358,7 +358,7 @@ ELECTION COMMITTEE
 
       - (k) the Council of Lingnan University;
 
-      - (l) the Board of Governors of the Hong Kong Shue Yan College; (Amended 25 of 2003 s. 56)
+      - (l) the Board of Governors of the Hong Kong Shue Yan University; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
 
       - (m) the Board of Governors of the Caritas Francis Hsu College. (Added 25 of 2003 s. 56)
 
@@ -704,13 +704,13 @@ ELECTION COMMITTEE
 
       - (2) A person is eligible to be registered as a voter for the sports, performing arts, culture and publication subsector subject to the following conditions—
 
-        - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of, or Part 1 of Schedule 1B or item 40, 41, 43, 50, 54 or 59 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the sports sub-subsector; (Amended 25 of 2003 s. 56)
+        - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of, or Part 1 of Schedule 1B or item 40, 41, 43, 50, 54, 59 or 65 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the sports sub-subsector; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
 
         - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i), (ka) or (kb) of, or item 1, 2, 3, 5, 9, 16, 17, 23, 24, 34, 39, 42, 45, 52, 55, 56, 57, 63 or 64 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the performing arts sub-subsector; (Amended 25 of 2003 s. 56)
 
         - (c) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(d) or (e) of, or Part 2 of Schedule 1B or item 6, 7, 10, 11, 13, 14, 19, 20, 22, 26, 27, 31, 33, 35, 37, 38, 48, 53, 58, 61 or 62 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the culture sub-subsector; and
 
-        - (d) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(g), (h), (j) or (k) of, or item 15, 21, 28, 30, 32, 36 or 51 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the publication sub-subsector.
+        - (d) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(g), (h), (j) or (k) of, or item 15, 21, 28, 32, 36 or 51 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the publication sub-subsector. (Amended 7 of 2008 s. 10)
 
       - (3) A person is eligible to be registered as a voter for the higher education subsector if the person—
 

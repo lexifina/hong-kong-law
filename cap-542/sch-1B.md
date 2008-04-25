@@ -14,9 +14,9 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 4. Islands District Sports Association.
 
-  - 5. Kowloon City District Recreation & Sports Council.
+  - 5. Kowloon City District Recreation and Sports Council Limited. (Replaced 7 of 2008 s. 8)
 
-  - 6. Kwai Tsing District Sports Association.
+  - 6. Kwai Tsing District Sports Association Limited. (Replaced 7 of 2008 s. 8)
 
   - 7. Kwun Tong Sports Promotion Association Ltd.
 
@@ -132,13 +132,13 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 26. Hong Kong History Society.
 
-  - 27. Hong Kong Intellectual Property Society.
+  - 27. The Hong Kong Intellectual Property Society Limited. (Replaced 7 of 2008 s. 8)
 
   - 28. Hong Kong Journalists Association.
 
   - 29. (Repealed 25 of 2003 s. 45)
 
-  - 30. The Hong Kong Mass Media Professionals Association Ltd.
+  - 30. (Repealed 7 of 2008 s. 8)
 
   - 31. Hong Kong Museum of Medical Sciences Society.
 
@@ -204,4 +204,6 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 63. Federation of Hong Kong Filmmakers Limited. (Added 25 of 2003 s. 45. Amended 10 of 2006 s. 44)
 
-  - 64. Hong Kong Movie Production Executives Association Limited. (Added 25 of 2003 s. 45) (Added 48 of 1999 s. 43)
+  - 64. Hong Kong Movie Production Executives Association Limited. (Added 25 of 2003 s. 45)
+
+  - 65. Hong Kong Sports Institute Limited. (Added 7 of 2008 s. 8) (Added 48 of 1999 s. 43)

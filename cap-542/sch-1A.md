@@ -6,7 +6,7 @@ COMPOSITION OF THE TRANSPORT FUNCTIONAL CONSTITUENCY
 
 Item Body
 
-- 1. VINCI Park Services Hong Kong Limited. (Replaced 25 of 2003 s. 44)
+- 1. Parking Management and Consultancy Services Limited. (Replaced 7 of 2008 s. 7)
 
 - 2. Airport Authority Hong Kong.
 
@@ -42,7 +42,7 @@ Item Body
 
 - 18. Discovery Bay Transportation Services Ltd.
 
-- 19. Driving Instructors Merchant Association Ltd.
+- 19. Driving Instructors Merchants Association, Limited. (Replaced 7 of 2008 s. 7)
 
 - 20. Eastern Ferry Co.
 
@@ -168,7 +168,7 @@ Item Body
 
 - 81. Kowloon Truck Merchants Association Ltd.
 
-- 82. Kowloon-Canton Railway Corporation.
+- 82. (Repealed 7 of 2008 s. 7)
 
 - 83. Kwik Park Limited.
 
@@ -272,9 +272,9 @@ Item Body
 
 - 133. (Repealed 25 of 2003 s. 44)
 
-- 134. Tang’s Taxi Companies Association Ltd.
+- 134. Taxi Association Limited. (Replaced 7 of 2008 s. 7)
 
-- 135. Tate’s Cairn Tunnel Co., Ltd.
+- 135. Tate’s Cairn Tunnel Company Limited. (Replaced 7 of 2008 s. 7)
 
 - 136. Taxi Associations Federation.
 
@@ -286,7 +286,7 @@ Item Body
 
 - 140. Taxicom Vehicle Owners Association Ltd.
 
-- 141. Tsing Ma Management Limited.
+- 141. Transport Infrastructure Management Limited. (Replaced 7 of 2008 s. 7)
 
 - 142. Tsuen Wan PLB Commercial Association Ltd.
 
