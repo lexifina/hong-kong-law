@@ -20,7 +20,7 @@
 
 - (3) Chek Lap Kok Police Officers’ Mess | Room 304, 3/F, Barrack Block, Catering Road West, Chek Lap Kok, Lantau Island, New Territories
 
-- (4) Civil Aid Service Officers’ Mess | 1/F, 100 Caroline Hill Road, Hong Kong (L.N. 86 of 2005)
+- (4) Civil Aid Service Officers’ Mess | 1/F, 8 To Wah Road, Yau Ma Tei, Kowloon (L.N. 86 of 2005; L.N. 91 of 2008)
 
 - (5) (Repealed L.N. 86 of 2005)
 
@@ -62,7 +62,7 @@
 
 - (24) Housing Authority Staff Club | L3 & L5, Block 4, Housing Authority Headquarters, 33 Fat Kwong Street, Homantin, Kowloon (L.N. 181 of 2001)
 
-- (25) ICAC Staff Club | G/F, Murray Road Carpark Building, 2 Murray Road, Central, Hong Kong
+- (25) ICAC Staff Club | 9/F, 303 Java Road, North Point, Hong Kong (L.N. 91 of 2008)
 
 - (26) Immigration Officers’ Mess | 20/F, Immigration Tower, 7, Gloucester Road, Wanchai, Hong Kong
 
@@ -124,7 +124,7 @@
 
 - (55) Shamshuipo Police Officers’ Mess | 9/F, 880, Lai Chi Kok Road, Kowloon
 
-- (56) Shatin District Police Officers’ Mess | 13/F, 1, Wo Che Street, Shatin, New Territories
+- (56) Shatin District Police Officers’ Mess | 15/F, 200 Ma On Shan Road, Ma On Shan, New Territories (L.N. 91 of 2008)
 
 - (57) Tai Po District Police Officers’ Mess | 15/F, 4, On Po Lane, Tai Po, New Territories
 
@@ -144,11 +144,11 @@
 
 - (65) Cape Collinson Correctional Institution Staff Mess | Mess Hall, Block E, G/F, Cape Collinson Correctional Institution, 123 Cape Collinson Road, Chai Wan, Hong Kong (L.N. 87 of 2001)
 
-- (66) Chi Ma Wan Officers’ Mess, Correctional Services Department | G/F, Staff Dining Hall Block, Chi Ma Wan Correctional Institution, 44 Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001)
+- (66) Chi Ma Wan Officers’ Mess, Correctional Services Department | Block B6, 385 Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001; L.N. 91 of 2008)
 
-- (67) Chi Ma Wan Staff Mess, Correctional Services Department | Staff Mess Block, Chi Ma Wan Correctional Institution, Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001)
+- (67) Chi Ma Wan Staff Mess, Correctional Services Department | 341 Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001; L.N. 91 of 2008)
 
-- (68) Chi Ma Wan Staff Mess Extension (Staff Common Room), Correctional Services Department | Barrack B6, G/F, Chi Ma Wan Correctional Institution, Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001)
+- (68) Chi Ma Wan Staff Mess Extension (Staff Common Room), Correctional Services Department | Block B6, 385 Chi Ma Wan Road, Lantau Island, New Territories (L.N. 87 of 2001; L.N. 91 of 2008)
 
 - (69) Correctional Services Department Headquarters Staff Mess | 23/F, Wanchai Tower, 12 Harbour Road, Wanchai, Hong Kong (L.N. 87 of 2001)
 
@@ -156,17 +156,17 @@
 
 - (71) Hei Ling Chau Staff Mess, Correctional Services Department | Mess Block, Hei Ling Chau Addiction Treatment Centre, Hei Ling Chau, New Territories (L.N. 87 of 2001)
 
-- (72) Lai Chi Kok Reception Centre & Escort and Support Group Staff Mess, Correctional Services Department | Block B, G/F, 5 Butterfly Valley Road, Kowloon (L.N. 87 of 2001)
+- (72) Lai Chi Kok Reception Centre & Escort and Support Group Staff Mess, Correctional Services Department | 5 Butterfly Valley Road, Lai Chi Kok, Kowloon (L.N. 87 of 2001; L.N. 91 of 2008)
 
 - (73) Lai King Training Centre Staff Mess, Correctional Services Department | Mess Block, Lai King Training Centre, 16 Wah Tai Road, 6 1/2 Milestone, Castle Peak Road, Kwai Chung, New Territories (L.N. 87 of 2001)
 
-- (74) Lo Wu Correctional Institution Staff Mess | Mess Block, Lo Wu Correctional Institution, 163 Ho Sheung Heung Road, Sheung Shui, New Territories (L.N. 87 of 2001)
+- (74) (Repealed L.N. 91 of 2008)
 
 - (75) Ma Hang Staff Mess, Correctional Services Department | 40 Stanley Village Road, Stanley, Hong Kong (L.N. 87 of 2001)
 
 - (76) Ma Po Ping Staff Mess, Correctional Services Department | 3/F, Block 4, 39 Ma Po Ping Road, Lantau Island, New Territories (L.N. 87 of 2001)
 
-- (77) Phoenix House Staff Mess, Correctional Services Department | 1/F, SMQ, Phoenix House, Lung Cheung Road, Tai Wo Ping, Kowloon (L.N. 87 of 2001)
+- (77) Phoenix House Staff Mess, Correctional Services Department | Phoenix House, 3 Lung Yan Road, Tai Wo Ping, Kowloon (L.N. 87 of 2001; L.N. 91 of 2008)
 
 - (78) Pik Uk Staff Mess, Correctional Services Department | G/F, Block E, Pik Uk Prison, Clear Water Bay Road, New Territories (L.N. 87 of 2001)
 
@@ -197,5 +197,7 @@
 - (91) The Commercial Crime Bureau Officers’ Executive Boardroom | Room 1311, 13/F, Arsenal House West Wing, Police Headquarters, 1 Arsenal Street, Wanchai, Hong Kong (L.N. 86 of 2005)
 
 - (92) Castle Peak Bay Immigration Centre Staff Mess | 4/F, Castle Peak Bay Immigration Centre, 84 Castle Peak Road, Tuen Mun, New Territories (L.N. 190 of 2006)
+
+- (93) Lai Chi Kok Correctional Institution Staff Mess | Room 201, 2/F, Block 1, 3 Butterfly Valley Road, Lai Chi Kok, Kowloon (L.N. 91 of 2008)
 
 - (L.N. 308 of 1999)
