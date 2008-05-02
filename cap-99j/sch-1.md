@@ -86,6 +86,8 @@ Calligraphist | Senior Calligraphist Calligraphist | 1.4.1972 1.4.1955
 
 Car Park Attendant I | Car Park Attendant I | 1.10.1989
 
+Car Park Attendant II | Car Park Attendant II | 1.10.2008 (L.N. 104 of 2008)
+
 Cartographer | Senior Cartographer Cartographer Assistant Cartographer | 23.5.1979 1.4.1967 8.7.1994
 
 Census and Survey Officer | Senior Census and Survey Officer Census and Survey Officer Assistant Census and Survey Officer | 11.10.1977 11.10.1977 11.10.1977
@@ -350,6 +352,8 @@ Executive Officer | Senior Principal Executive Officer Principal Executive Offic
 
 Experimental Officer | Principal Experimental Officer Chief Experimental Officer Senior Experimental Officer Experimental Officer | 21.5.1986 17.1.1973 1.7.1959 1.7.1959
 
+Explosives Depot Attendant | Explosives Depot Attendant | 1.10.2008 (L.N. 104 of 2008)
+
 Explosives Officer | Chief Explosives Officer Senior Explosives Officer Explosives Officer I Explosives Officer II Assistant Explosives Officer | 19.7.1972 1.4.1962 1.10.1979 1.10.1979 1.10.1979
 
 Explosives Supervisor | Explosives Supervisor | 18.1.1991
@@ -379,6 +383,10 @@ Foreman | Senior Overseer Overseer Senior Foreman Foreman | 27.7.1977 9.12.1932 
 Forest Guard | Forest Guard | 1.10.1989
 
 Forestry Officer | Senior Forestry Officer Forestry Officer Assistant Forestry Officer | 31.5.1967 1.4.1951 1.4.1959
+
+Ganger | Ganger | 1.10.2008 (L.N. 104 of 2008)
+
+Gardener | Gardener | 1.10.2008 (L.N. 104 of 2008)
 
 General Manager (Correctional Services Industries) | General Manager (Correctional Services Industries) | 1.2.1982
 
@@ -650,6 +658,8 @@ Projectionist | Senior Projectionist Projectionist | 17.1.1973 1.4.1961
 
 Proof Reader | Chief Proof Reader Senior Proof Reader Proof Reader | 3.7.1974 7.9.1966 1.8.1954
 
+Property Attendant | Property Attendant | 1.10.2008 (L.N. 104 of 2008)
+
 Protocol Officer | Protocol Officer Assistant Protocol Officer | 29.10.1969 24.3.1988
 
 Quantity Surveyor | Government Quantity Surveyor Chief Quantity Surveyor Senior Quantity Surveyor Quantity Surveyor Assistant Quantity Surveyor | 1.4.1965 1.7.1967 1.4.1962 9.12.1932 1.4.1960
@@ -744,6 +754,8 @@ Supervisor of Typing Services | Supervisor of Typing Services | 1.4.1976
 
 Supplies Assistant | Supplies Assistant | 4.4.1969
 
+Supplies Attendant | Supplies Attendant | 1.10.2008 (L.N. 104 of 2008)
+
 Supplies Officer | Controller of Government Supplies Principal Supplies Officer Chief Supplies Officer Senior Supplies Officer Supplies Officer Assistant Supplies Officer | 25.11.1981 25.11.1981 4.4.1969 4.4.1969 4.4.1969 4.4.1969
 
 Supplies Supervisor | Senior Supplies Supervisor Supplies Supervisor I Supplies Supervisor II | 3.9.1969 4.4.1969 4.4.1969
@@ -814,6 +826,8 @@ Veterinary Laboratory Technician | Veterinary Technologist Veterinary Laboratory
 
 Veterinary Officer | Senior Veterinary Officer Veterinary Officer | 10.4.1968 14.1.1948
 
+Ward Attendant | Ward Attendant | 1.10.2008 (L.N. 104 of 2008)
+
 Water Sampler | Water Sampler | 1.4.1957
 
 Waterworks Chemist | Chief Waterworks Chemist Senior Waterworks Chemist Waterworks Chemist | 16.2.1977 2.1.1969 2.1.1969
@@ -822,7 +836,13 @@ Waterworks Inspector | Senior Waterworks Inspector Waterworks Inspector Assistan
 
 Welfare Worker | Senior Welfare Worker Welfare Worker | 26.10.1983 26.10.1983
 
+Workman I | Workman I | 1.10.2008 (L.N. 104 of 2008)
+
+Workman II | Workman II | 1.10.2008 (L.N. 104 of 2008)
+
 Works Supervisor | Works Supervisor I Works Supervisor II | 1.8.1977 1.8.1977
+
+Workshop Attendant | Workshop Attendant | 1.10.2008 (L.N. 104 of 2008)
 
 Workshop Instructor | Workshop Instructor I Workshop Instructor II Workshop Instructor III | 1.4.1972 1.4.1972 24.6.1981
 

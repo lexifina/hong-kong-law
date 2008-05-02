@@ -66,7 +66,7 @@ Inspector (Graduate) (VTC) | 1.8.1991
 
 Assistant Inspector (Graduate) (VTC) | 1.8.1991
 
-Inspector (Non-Graduate) (VTC) | 1.8.1991
+Inspector (Non-graduate) (VTC) | 1.8.1991
 
 Assistant Master/Mistress (VTC) | 1.8.1991
 
@@ -98,6 +98,10 @@ Lecturer (IVE) (VTC) (L.N. 244 of 2003) | 1.9.2001
 
 Senior Assistant Executive Director (VTC) (L.N. 13 of 2008) | 1.4.2006
 
+Workman II (VTC) (L.N. 104 of 2008) | 1.10.2008
+
+Workshop Attendant (VTC) (L.N. 104 of 2008) | 1.10.2008
+
 Artisan (HA) | 1.12.1991
 
 Assistant Director of Hospital Services (HA) | 1.12.1991
@@ -109,6 +113,8 @@ Associate Consultant (HA) (L.N. 13 of 2008) | 22.3.2007
 Audiology Technician I (HA) | 1.12.1991
 
 Audiology Technician II (HA) | 1.12.1991
+
+Barber (HA) (L.N. 104 of 2008) | 1.10.2008
 
 Chief Dispenser (HA) | 1.12.1991
 
@@ -155,6 +161,10 @@ Enrolled Nurse (HA) | 1.12.1991
 Enrolled Nurse (Psy) (HA) | 1.12.1991
 
 Foreman (HA) | 1.12.1991
+
+Ganger (HA) (L.N. 104 of 2008) | 1.10.2008
+
+Gardener (HA) (L.N. 104 of 2008) | 1.10.2008
 
 General Manager (Administrative Services) (HA) | 1. 5.1992
 
@@ -250,6 +260,8 @@ Principal Medical and Health Officer (HA) | 1.12.1991
 
 Principal Nursing Officer (HA) | 1.10.1995
 
+Property Attendant (HA) (L.N. 104 of 2008) | 1.10.2008
+
 Prosthetist-Orthotist I (HA) | 1.12.1991
 
 Prosthetist-Orthotist II (HA) | 1.12.1991
@@ -320,6 +332,12 @@ Superintendent Radiographer (HA) | 1.12.1991
 
 Tailor (HA) | 1.12.1991
 
+Ward Attendant (HA) (L.N. 104 of 2008) | 1.10.2008
+
 Ward Manager (HA) | 3.7.1992
+
+Workman I (HA) (L.N. 104 of 2008) | 1.10.2008
+
+Workman II (HA) (L.N. 104 of 2008) | 1.10.2008
 
 X-ray Mechanic (HA) | 1.12.1991
