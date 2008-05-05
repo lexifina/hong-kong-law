@@ -133,3 +133,25 @@ Item | Ordinance | Decision
 64. | Merchant Shipping (Security of Ships and Port Facilities) Ordinance (Cap. 582) | A decision of the Director of Marine under section 7(1)(a) or (c) or 8(2). (Added 13 of 2004 s. 18)
 
 65. | Merchant Shipping (Security of Ships and Port Facilities) Rules (Cap. 582 sub. leg. A) | A decision of the Director of Marine under rule 27(1). (Added L.N. 130 of 2004)
+
+66. | Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 592) | A decision of the Secretary for Education— (Amended L.N. 130 of 2007) (a) not to re-appoint an assessment agency under section 8(1); (b) on the length of a term of re-appointment specified under section 8(1)(b); (c) to impose any conditions or restrictions under section 8(1)(c) in re-appointing an assessment agency; and (d) to cancel an appointment or re-appointment under section 8(5). (Added 6 of 2007 s. 51)
+
+Editorial Note:
+
+The following enactments also give a right of appeal to the Administrative Appeals Board —
+
+s. 19 of the Merchant Shipping (Local Vessels)(Dwelling Vessels) Regulation (Cap. 548 sub. leg. A).
+
+s. 53 of the Merchant Shipping (Local Vessels)(Certification and Licensing) Regulation (Cap. 548 sub. leg. D).
+
+s. 11 of the Merchant Shipping (Local Vessels)(Typhoon Shelters) Regulation (Cap. 548 sub. leg. E).
+
+s. 47 of the Merchant Shipping (Local Vessels)(General) Regulation (Cap. 548 sub. leg. F).
+
+s. 86 of the Merchant Shipping (Local Vessels)(Safety and Survey) Regulation (Cap. 548 sub. leg. G).
+
+s. 10 of the Merchant Shipping (Local Vessels)(Compulsory Third Party Risks Insurance) Regulation (Cap. 548 sub. leg. H).
+
+s. 72 of the Merchant Shipping (Local Vessels)(Works) Regulation (Cap. 548 sub. leg. I).
+
+s. 42 of the Hazardous Chemicals Control Ordinance (Cap. 595).
