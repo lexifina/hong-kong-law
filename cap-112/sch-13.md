@@ -82,6 +82,8 @@ Item | Institution
 
 37. | The Vocational Training Council established by section 4 of the Vocational Training Council Ordinance (Cap. 1130)
 
+38. | The Hong Kong Council for Accreditation of Academic and Vocational Qualifications established by section 3(1) of the Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150) (Added 6 of 2007 s. 49)
+
 (Schedule 13 added 12 of 2004 s. 22)
 
 Editorial Note:
