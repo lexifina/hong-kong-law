@@ -1,10 +1,10 @@
 # FIRST SCHEDULE
 
-FORM 1 | [regulation 3(1)]
+FORM 1 | [reg. 3(1)]
 
 Application No. .
 
-PAWNBROKERS ORDINANCE (Section 5) (Chapter 166) PAWNBROKERS REGULATIONS
+Pawnbrokers Ordinance (Section 5) (Chapter 166) PAWNBROKERS REGULATIONS
 
 To the Commissioner of Police
 
@@ -16,222 +16,236 @@ I . hereby apply for a licence to carry on business as a pawnbroker. In support 
 
 A: Personal Details
 
-- 1. Name of applicant: .
+1. | Name of applicant:
 
-- 2. Identity Card No.: .
+2. | Identity Card No.:
 
-- 3. Commercial Code No.: .
+3. | Commercial Code No.:
 
-- 4. Telephone No.: .
+4. | Telephone No.:
 
-- 5. Residential address: .
+5. | Residential address:
 
-- 6. Date of birth: .
+6. | Date of birth:
 
-- 7. Place of birth: .
+7. | Place of birth:
 
-- 8. Nationality: .
+8. | Nationality:
 
 B: Business Details
 
-- 9. Name of business establishment: . .
+9. | Name of business establishment:
 
-- 10. Address of business premises including number, street and floor: . .
+10. | Address of business premises including number, street and floor:
 
-- 11.
+11. | Indicate by deleting as necessary whether you are—
 
-- Indicate by deleting as necessary whether you are—
+I am— | (a) the owner of the premises; or (b) the principal tenant; or (c) a sub-tenant.
 
-- I am- (a) the owner of the premises; or
+12. | Indicate by deleting as necessary whether the business is—
 
-  - (b) the principal tenant; or
+The business is—
 
-  - (c) a sub-tenant.
+(a) an individual concern; or (b) a partnership (not a body corporate); or (c) a body corporate.
 
-- 12.
+13. | If the business is a partnership state the following particulars—
 
-- Indicate by deleting as necessary whether the business is—
+(a) | Date partnership formed:
 
-- The business is—
+(b) | Details of Partners:
 
-  - (a) an individual concern; or
+Name | I.D. Card No. | Address | Date of Birth
 
-  - (b) a partnership (not a body corporate); or
+1. 2. 3. 4.
 
-  - (c) a body corporate.
+14. | If the business is a body corporate state the following particulars—
 
-- 13. If the business is a partnership state the following particulars—
+(a) | Company name:
 
-  - (a) Date partnership formed: .
+(b) | Place of incorporation:
 
-  - (b) Details of Partners:
+(c) | Date of incorporation:
 
-  - Name | I.D. Card No. | Address | Date of Birth
+(d) | Registered office:
 
-  - 1.
+(e) | Details of Directors:
 
-  - 2.
+Name | I.D. Card No. | Address | Date of Birth | Period of service as director
 
-  - 3.
+1. 2. 3. 4.
 
-  - 4.
+15. | Give the following details of each bank at which you keep or propose to keep an account in connexion with your business as a pawnbroker—
 
-- 14. If the business is a body corporate state the following particulars—
+Name of bank | Its Address | The Account Number | Date Account opened
 
-- (a) Company name: .
+1. 2. 3. 4.
 
-- (b) Place of incorporation: .
+C： Other Particulars
 
-- (c) Date of incorporation: .
+16. | (a) | Have you ever previously made application for a licence under the Pawnbrokers Ordinance?
 
-- (d) Registered office: .
+Yes/No (Delete as necessary)
 
-- (e) Details of Directors:
+(b) | If “Yes” state—
 
-- Name | I.D. Card No. | Address | Date of Birth | Period of service as director
+(i) the date of application
 
-- 1.
+(ii) whether the application was successful.
 
-- 2.
+Successful/Unsuccessful (Delete as necessary)
 
-- 3.
+(c) | If the application was unsuccessful, state the reason if known to you
 
-- 4.
+17. | (a) | Have you ever been convicted of an offence, other than a traffic offence, in Hong Kong or elsewhere?
 
-- 15. Give the following details of each bank at which you keep or propose to keep an account in connexion with your business as a pawnbroker—
+Yes/No (Delete as necessary)
 
-- Name of bank | Its Address | The Account Number | Date Account opened
+(b) | If “Yes”, give the following details—
 
-- 1.
+The Offence | Penalty imposed | Date of conviction | Court which tried the offence
 
-- 2.
+1. 2. 3. 4.
 
-- 3.
+I declare that the information given by me in this application is to the best of my knowledge and belief, both true and correct.
 
-- 4.
+Dated this day of 19 .
 
-- C: Other Particulars
+Signed
 
-- 16.
+Applicant.
 
-  - (a) Have you ever previously made application for a licence under the Pawnbrokers Ordinance? Yes/No (Delete as necessary)
+Note | 1. | You are advised to read the Pawnbrokers Ordinance and the Pawnbrokers Regulations which make provision for the manner in which the business of a pawnbroker is to be carried on. In particular, you should refer to regulation 9 of the Regulations which sets out the conditions to which all licences are subject.
 
-  - (b) If “Yes” state—
+2. | You should also note that a pawnbroker making a loan which exceeds the monetary limit set out in the First Schedule to the Pawnbrokers Ordinance may commit an offence under the Money Lenders Ordinance (Chapter 163) if he is not also in possession of a licence under that Ordinance.
 
-    - (i) the date of application .
+3. | You are warned that the making of any false or misleading statement or the furnishing of any false or misleading information in connexion with this application may result in both the refusal of the grant or renewal of a licence, or its subsequent cancellation if it is granted or renewed, and in your prosecution for the commission of an offence.
 
-    - (ii) whether the application was successful.
+4. | (Repealed 10 of 2008 s. 65)
 
-  - Successful/Unsuccessful (Delete as necessary)
+(L.N. 222 of 1995)
 
-  - (c) If the application was unsuccessful, state the reason if known to you .
+_
 
-- 17.
+FORM 2 | [reg. 3(3)]
 
-  - (a)
+Licence No. .
 
-  - Have you ever been convicted of an offence, other than a traffic offence, in Hong Kong or elsewhere ?
+Pawnbrokers Ordinance (Section 5) (Chapter 166) PAWNBROKERS REGULATIONS Pawnbrokers Licence
 
-  - Yes/No (Delete as necessary)
+LICENCE is granted this . day of . 19
 
-    - (b) If “Yes”, give the following details—
+to
 
-    - The Offence | Penalty imposed | Date of conviction | Court which tried the offence
+(name and identity card number)
 
-    - 1.
+to carry on business as a pawnbroker at
 
-    - 2.
+. (address of premises)
 
-    - 3.
+for a period of 12 months from the date of grant.
 
-    - 4.
+THIS LICENCE is subject to the conditions prescribed in regulation 9 of the Pawnbrokers Regulations.
 
-    - I declare that the information given by me in this application is to the best of my knowledge and belief, both true and correct. Dated this day of 19 . Signed . Applicant. Note 1. You are advised to read the Pawnbrokers Ordinance and the Pawnbrokers Regulations which make provision for the manner in which the business of a pawnbroker is to be carried on. In particular, you should refer to regulation 9 of the Regulations which sets out the conditions to which all licences are subject.
+THIS LICENCE shall, unless it is earlier cancelled, cease to have effect on . 19 .
 
-  - 2. You should also note that a pawnbroker making a loan which exceeds the monetary limit set out in the First Schedule to the Pawnbrokers Ordinance may commit an offence under the Money Lenders Ordinance (Chapter 163) if he is not also in possession of a licence under that Ordinance.
+.
 
-  - 3. You are warned that the making of any false or misleading statement or the furnishing of any false or misleading information in connexion with this application may result in both the refusal of the grant or renewal of a licence, or its subsequent cancellation if it is granted or renewed, and in your prosecution for the commission of an offence.
+Commissioner of Police.
 
-  - 4. If the Commissioner decides to grant or renew a licence, a fee of $4,000* will be payable upon such grant or renewal. _
+(L.N. 222 of 1995)
 
-  - FORM 2 | [regulation 3(3)]
+_
 
-  - Licence No. . PAWNBROKERS ORDINANCE (Section 5) (Chapter 166) PAWNBROKERS REGULATIONS Pawnbrokers Licence LICENCE is granted this . day of . 19 .
+Pawnbrokers Ordinance | [reg. 4]
 
-  - to . (name and identity card number) to carry on business as a pawnbroker at .
+(Chapter 166) GENERAL BOOK KEPT UNDER SECTION 12 FORM 3 ENTRY IN GENERAL BOOK
 
-  - . (address of premises) for a period of 12 months from the date of grant. THIS LICENCE is subject to the conditions prescribed in regulation 9 of the Pawnbrokers Regulations. THIS LICENCE shall, unless it is earlier cancelled, cease to have effect on . 19 . . Commissioner of Police. _
+The . day of . moon of the . year, 19 .
 
-  - PAWNBROKERS ORDINANCE | [regulation 4]
+No. of Loan | Date of advancing money on loan | Name of borrower | Number and type of identity document of borrower | Home address of borrower | Description of goods | Rate of interest | Amount of loan | Duration of loan
 
-  - (Chapter 166) GENERAL BOOK KEPT UNDER SECTION 12 FORM 3 ENTRY IN GENERAL BOOK The . day of . moon of the . year, 19 . .
+(L.N. 222 of 1995)
 
-  - No. of Loan | Date of advancing money on loan | Name of borrower | Number and type of identity document of borrower | Home address of borrower | Description of goods | Rate of interest | Amount of loan | Duration of loan
+_
 
-- (L.N. 222 of 1995)
+Pawnbrokers Ordinance | [reg. 5]
 
-- _
+(Chapter 166) TICKET DELIVERED UNDER SECTION 13(1) FORM 4 Pawn Ticket
 
-- PAWNBROKERS ORDINANCE | [regulation 5]
+No. .
 
-- (Chapter 166) TICKET DELIVERED UNDER SECTION 13(1) FORM 4 PAWN TICKET
+From
 
-- No. .
+(name of pawnbroker)
 
-- From .
+of .(address of premises) pawnbrokers.
 
-- (name of pawnbroker)
+To . as borrower.
 
-- of .(address of premises) pawnbrokers. To . as borrower.
+(name of borrower)
 
-- (name of borrower)
+1. | The particulars of the loan are—
 
-- 1. The particulars of the loan are— The . day of . moon of the . year, 19 . .
+The . day of . moon of the . year, 19 .
 
-- No. of Loan | Date of advancing money on loan | Name of borrower | Number and type of identity document of borrower | Home address of borrower | Description of goods | Rate of interest | Amount of loan | Duration of loan
+No. of Loan | Date of advancing money on loan | Name of borrower | Number and type of identity document of borrower | Home address of borrower | Description of goods | Rate of interest | Amount of loan | Duration of loan
 
-- 2. You are advised that—
+2. | You are advised that—
 
-  - (a) the goods pawned shall upon the expiration of 4 lunar months from the date of advancing the money on loan become, if they are not earlier redeemed, the property of the pawnbroker;
+(a) | the goods pawned shall upon the expiration of 4 lunar months from the date of advancing the money on loan become, if they are not earlier redeemed, the property of the pawnbroker;
 
-  - (b) if before the expiration of 4 lunar months from the date of advancing the money on loan, you wish to continue the loan you may do so subject to your paying the interest then due;
+(b) | if before the expiration of 4 lunar months from the date of advancing the money on loan, you wish to continue the loan you may do so subject to your paying the interest then due;
 
-  - (c) the goods will be redelivered to you if within 4 lunar months from the date of advancing money on loan, you tender this ticket together with the full amount then due for principal and interest;
+(c) | the goods will be redelivered to you if within 4 lunar months from the date of advancing money on loan, you tender this ticket together with the full amount then due for principal and interest;
 
-  - (d) if you lose or are fraudulently deprived of this ticket and the goods remain unredeemed or unsold, you may, upon providing the pawnbroker with a statutory declaration setting forth the circumstances of such loss or fraudulent deprivation and paying to him the sum of $10 for expenses, obtain a duplicate ticket.
+(d) | if you lose or are fraudulently deprived of this ticket and the goods remain unredeemed or unsold, you may, upon providing the pawnbroker with a statutory declaration setting forth the circumstances of such loss or fraudulent deprivation and paying to him the sum of $10 for expenses, obtain a duplicate ticket.
 
-- (L.N. 222 of 1995)
+(L.N. 222 of 1995)
 
-FORM 5 | [regulation 6]
+_
 
-PAWNBROKERS ORDINANCE (Section 14) (Chapter 166) PAWNBROKERS REGULATIONS STATUTORY DECLARATION AS TO LOST TICKET
+FORM 5 | [reg. 6]
 
-To .
+Pawnbrokers Ordinance (Section 14) (Chapter 166) PAWNBROKERS REGULATIONS Statutory Declaration as to Lost Ticket
+
+To
 
 (Name of pawnbroker)
 
 I . (name, number and type of identity document of declarant)
 
-of .
+of
 
 (address)
 
-- solemnly and sincerely declare—
+solemnly and sincerely declare—
 
-- 1. That I am the borrower and/or* the owner of goods pawned in respect of the following loan made with you—
+1. | That I am the borrower and/or* the owner of goods pawned in respect of the following loan made with you—
 
-- Date of advancing money on loan | Description of goods | Rate of interest | Amount of loan | Duration of loan
+Date of advancing money on loan | Description of goods | Rate of interest | Amount of loan | Duration of loan
 
-- 2. I no longer have the ticket relating to the loan in my possession for the following reasons— (give details) .
+2. | I no longer have the ticket relating to the loan in my possession for the following reasons—
 
-- .
+(give details)
 
-- And I make this solemn declaration conscientiously believing the same to be true. Signed . Declared at . in Hong Kong this .
+And I make this solemn declaration conscientiously believing the same to be true.
 
-- day of . 19 . Before me .
+Signed .
 
-- . Pawnbroker. *(delete as required) Directions to pawnbroker In taking this declaration you should ask the person so declaring to confirm that he is the person named and described in the declaration, that the contents of the declaration are true and that the signature is his signature. (L.N. 222 of 1995)
+Declared at . in Hong Kong this
 
-Editorial Note:
+day of . 19.
 
-* Please see Part I of the Second Schedule to these Regulations for the current fee payable.
+Before me .
+
+.
+
+Pawnbroker.
+
+*(delete as required)
+
+Directions to pawnbroker
+
+In taking this declaration you should ask the person so declaring to confirm that he is the person named and described in the declaration, that the contents of the declaration are true and that the signature is his signature.
+
+(L.N. 222 of 1995)

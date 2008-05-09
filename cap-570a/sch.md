@@ -78,11 +78,11 @@ FIXED PENALTY | $1,500 | 01 | 未經准許而展示招貼或海報(《公眾衞�
 
 1. 可按下列方式繳款—— | 1. Payment may be made—
 
-(a) 透過銀行自動櫃員機繳款 在任何貼有“繳款服務”標誌的自動櫃員機繳款。繳款時，請選擇“食物環境衞生署”。 | (a) Through Bank Automated Teller Machine (ATM) Payment can be made at any ATM affixed with “Bill Payment Service” signage. Please select “Food & Environ Hygiene Dept” for payment.
+(a) 透過銀行自動櫃員機繳款 在任何貼有“繳費服務”標誌的自動櫃員機繳款。繳款時，請選擇“食物環境衞生署”。 | (a) Through Bank Automated Teller Machine (ATM) Payment can be made at any ATM affixed with “Bill Payment” signage. Please select “Food & Environ Hygiene Dept” for payment.
 
-(b) 使用「繳費聆」繳款 繳款前，請先致電18013登記本通知書。請選擇“商戶編號”“9147”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費聆」熱線：2311 9876。 | (b) By using Payment By Phone Service (PPS) Before making payment, please dial 18011 to register this notice. Please select the “Merchant Code” of “9147”. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline: 2311 9876.
+(b) 使用「繳費靈」繳款 繳款前，請先致電18013登記本通知書。請選擇“商戶編號”“9147”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone using PPS Before making payment, please dial 18011 to register this notice. Please select the “Merchant Code” of “9147”. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline: 2311 9876.
 
-(c) 透過互聯網繳款 可透過銀行及「繳費聆」在互聯網上提供的繳費服務繳款。詳情請瀏覽「公共服務電子化」計劃的網站(URL位址：http://www.esd.gov.hk)或庫務署網站(URL位址：http://www.info.gov.hk/tsy)。亦可透過「公共服務電子化」計劃的服務站繳款。繳款時，請選擇“食物環境衞生署”。 | (c) Through Internet Payment can be made through the bill payment services provided by banks and PPS on the Internet. For details, please visit the web site of the Electronic Service Delivery (ESD) Scheme (URL address: http://www.esd.gov.hk) or the web site of Treasury (URL address: http://www.info.gov.hk/tsy). Payment could also be made at any of the ESD kiosks. Please select “Food & Environ Hygiene Dept” or “Food and Environmental Hygiene Department” as appropriate for payment.
+(c) 透過互聯網繳款 可透過銀行及「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽「公共服務電子化」計劃的網站(URL位址：http://www.esd.gov.hk)或庫務署網站(URL位址：http://www.try.gov.hk)。亦可透過「公共服務電子化」計劃的服務站繳款。繳款時，請選擇“食物環境衞生署”。 | (c) Through Internet Payment can be made through the bill payment services provided by banks and PPS on the Internet. For details, please visit the web site of the Electronic Service Delivery (ESD) Scheme (URL address: http://www.esd.gov.hk) or the web site of Treasury (URL address: http://www.try.gov.hk). Payment could also be made at any of the ESD kiosks. Please select “Food & Environ Hygiene Dept” or “Food and Environmental Hygiene Department” as appropriate for payment.
 
 (d) 透過電話理財服務繳款 可使用銀行提供的電話理財服務，透過有關的繳費服務繳款。繳款時，請選擇“食物環境衞生署”。 | (d) Through Phone-banking Service Payment can be made through the bill payment services by using the phone-banking service provided by banks. Please select “Food and Environmental Hygiene Department” for payment.
 
@@ -90,11 +90,11 @@ FIXED PENALTY | $1,500 | 01 | 未經准許而展示招貼或海報(《公眾衞�
 
 (f) 親自繳款 可親自或透過代理人前往任何郵政局(郵政局信箱或流動郵政局除外)繳款，並出示完整的通知書，以便繳款後發還收據。如欲查詢有關地址及辦公時間，請致電香港郵政熱線：2921 2222或瀏覽其網站(URL位址:http://www.hongkongpost.com)。 | (f) In Person Payment can be made in person or through an agent at any Post Office (other than a post office letter box or a mobile post office). This notice must be kept intact and produced at the time of payment. It will be receipted and returned to you upon payment. For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit the web site (URL address: http://www.hongkongpost.com).
 
-2. 使用自動櫃員機、「繳費聆」、透過互聯網或電話理財服務繳款，請先行輸入本通知書下半部所示的16位數字編號。於到期日午夜前繳款會被視作準時繳交。 | 2. For payment through ATM, by PPS, through Internet or phone-banking service, please key in the 16-digit serial number shown at the lower portion of this notice for making payment. Payment made before mid-night on the due date will be regarded as on-time payment.
+2. 使用自動櫃員機、「繳費靈」、透過互聯網或電話理財服務繳款，請先行輸入本通知書下半部所示的16位數字編號。於到期日午夜前繳款會被視作準時繳交。 | 2. For payment through ATM, by PPS, through Internet or phone-banking service, please key in the 16-digit serial number shown at the lower portion of this notice for making payment. Payment made before mid-night on the due date will be regarded as on-time payment.
 
 3. 支票、匯票或本票均須以“香港特別行政區政府”或“香港特區政府”為收款人，並加以劃線。以支票付款，須在支票首次提交付款銀行獲得兌現後，繳款方為有效。期票恕不接受。 | 3. Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. For payment made by cheque, payment is valid only when the cheque is honoured on the first presentation to the drawee bank. Post-dated cheques will not be accepted.
 
-(L.N. 155 of 2003; 17 of 2004 s. 17)
+(L.N. 155 of 2003; 17 of 2004 s. 17; 10 of 2008 s. 55)
 
 通知書編號
 
@@ -162,11 +162,11 @@ If you do not pay the Fixed Penalty or notify me that you wish to dispute liabil
 
 - 1. 可按下列方式繳款—— | 1. Payment may be made—
 
-- (a) 透過銀行自動櫃員機繳款 在任何貼有“繳款服務”標誌的自動櫃員機繳款。繳款時，請選擇“食物環境衞生署”。 | (a) Through Bank Automated Teller Machine (ATM) Payment can be made at any ATM affixed with “Bill Payment Service” signage. Please select “Food & Environ Hygiene Dept” for payment.
+- (a) 透過銀行自動櫃員機繳款 在任何貼有“繳費服務”標誌的自動櫃員機繳款。繳款時，請選擇“食物環境衞生署”。 | (a) Through Bank Automated Teller Machine (ATM) Payment can be made at any ATM affixed with “Bill Payment” signage. Please select “Food & Environ Hygiene Dept” for payment.
 
-- (b) 使用「繳費聆」繳款 繳款前，請先致電18013登記本通知書。請選擇“商戶編號”“9147”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費聆」熱線：2311 9876。 | (b) By using Payment By Phone Service (PPS) Before making payment, please dial 18011 to register this notice. Please select the “Merchant Code” of “9147”. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline: 2311 9876.
+- (b) 使用「繳費靈」繳款 繳款前，請先致電18013登記本通知書。請選擇“商戶編號”“9147”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone using PPS Before making payment, please dial 18011 to register this notice. Please select the “Merchant Code” of “9147”. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline: 2311 9876.
 
-- (c) 透過互聯網繳款 可透過銀行及「繳費聆」在互聯網上提供的繳費服務繳款。詳情請瀏覽「公共服務電子化」計劃的網站(URL位址：http://www.esd.gov.hk)或庫務署網站(URL位址：http://www.info.gov.hk/tsy)。亦可透過「公共服務電子化」計劃的服務站繳款。繳款時，請選擇“食物環境衞生署”。 | (c) Through Internet Payment can be made through the bill payment services provided by banks and PPS on the Internet. For details, please visit the web site of the Electronic Service Delivery (ESD) Scheme (URL address: http://www.esd.gov.hk) or the web site of Treasury (URL address: http://www.info.gov.hk/tsy). Payment could also be made at any of the ESD kiosks. Please select “Food & Environ Hygiene Dept” or “Food and Environmental Hygiene Department” as appropriate for payment.
+- (c) 透過互聯網繳款 可透過銀行及「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽「公共服務電子化」計劃的網站(URL位址：http://www.esd.gov.hk)或庫務署網站(URL位址：http://www.try.gov.hk)。亦可透過「公共服務電子化」計劃的服務站繳款。繳款時，請選擇“食物環境衞生署”。 | (c) Through Internet Payment can be made through the bill payment services provided by banks and PPS on the Internet. For details, please visit the web site of the Electronic Service Delivery (ESD) Scheme (URL address: http://www.esd.gov.hk) or the web site of Treasury (URL address: http://www.try.gov.hk). Payment could also be made at any of the ESD kiosks. Please select “Food & Environ Hygiene Dept” or “Food and Environmental Hygiene Department” as appropriate for payment.
 
 - (d) 透過電話理財服務繳款 可使用銀行提供的電話理財服務，透過有關的繳費服務繳款。繳款時，請選擇“食物環境衞生署”。 | (d) Through Phone-banking Service Payment can be made through the bill payment services by using the phone-banking service provided by banks. Please select “Food and Environmental Hygiene Department” for payment.
 
@@ -174,7 +174,7 @@ If you do not pay the Fixed Penalty or notify me that you wish to dispute liabil
 
 - (f) 親自繳款 可親自或透過代理人前往任何郵政局(郵政局信箱或流動郵政局除外)繳款，並出示完整的通知書，以便繳款後發還收據。如欲查詢有關地址及辦公時間，請致電香港郵政熱線：2921 2222或瀏覽其網站(URL位址:http://www.hongkongpost.com)。 | (f) In Person Payment can be made in person or through an agent at any Post Office (other than a post office letter box or a mobile post office). This notice must be kept intact and produced at the time of payment. It will be receipted and returned to you upon payment. For addresses and opening hours, please call the Hongkong Post Hotline: 2921 2222 or visit the web site (URL address: http://www.hongkongpost.com).
 
-- 2. 使用自動櫃員機、「繳費聆」、透過互聯網或電話理財服務繳款，請先行輸入本通知書下半部所示的16位數字編號。於到期日午夜前繳款會被視作準時繳交。 | 2. For payment through ATM, by PPS, through Internet or phone-banking service, please key in the 16-digit serial number shown at the lower portion of this notice for making payment. Payment made before mid-night on the due date will be regarded as on-time payment.
+- 2. 使用自動櫃員機、「繳費靈」、透過互聯網或電話理財服務繳款，請先行輸入本通知書下半部所示的16位數字編號。於到期日午夜前繳款會被視作準時繳交。 | 2. For payment through ATM, by PPS, through Internet or phone-banking service, please key in the 16-digit serial number shown at the lower portion of this notice for making payment. Payment made before mid-night on the due date will be regarded as on-time payment.
 
 - 3. 支票、匯票或本票均須以“香港特別行政區政府”或“香港特區政府”為收款人，並加以劃線。以支票付款，須在支票首次提交付款銀行獲得兌現後，繳款方為有效。期票恕不接受。 | 3. Cheques, drafts or cashier orders should be made payable to “The Government of the Hong Kong Special Administrative Region” or “The Government of the HKSAR” and crossed. For payment made by cheque, payment is valid only when the cheque is honoured on the first presentation to the drawee bank. Post-dated cheques will not be accepted.
 
@@ -204,7 +204,7 @@ If you do not pay the Fixed Penalty or notify me that you wish to dispute liabil
 
 - * Please delete where appropriate.
 
-(L.N. 155 of 2003)
+(L.N. 155 of 2003; 10 of 2008 s. 55)
 
 表格3
 

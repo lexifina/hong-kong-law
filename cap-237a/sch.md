@@ -120,9 +120,9 @@ $320 | 105
 
 1. | 可按下列方式繳款—— | 1. | Payment may be made—
 
-(a) 使用銀行自動櫃員機繳款 在任何貼有“繳款服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例定額罰款”，並輸入帳單類別“01”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment Service” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “01” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
+(a) 使用銀行自動櫃員機繳款 在任何貼有“繳費服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例定額罰款”，並輸入帳單類別“01”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “01” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
 
-(b) 使用「繳費靈」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
+(b) 使用「繳費靈」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone by using PPS Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline : 2311 9876.
 
 (c) 透過互聯網繳款 透過銀行或「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址：http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址：http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例定額罰款”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address : http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address: http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
 
@@ -246,7 +246,7 @@ Parked in a manner likely to cause an unnecessary obstruction of a road or dange
 
 - Parked in a parking space in respect of which there is a parking meter when the meter does not indicate that payment has been made (section 11(1)).
 
-(L.N. 166 of 2001; L.N. 29 of 2004; L.N. 158 of 2005; 25 of 2005 s. 34)
+(L.N. 166 of 2001; L.N. 29 of 2004; L.N. 158 of 2005; 25 of 2005 s. 34; 10 of 2008 s. 49)
 
 通知書號碼： | 表格2
 
@@ -344,9 +344,9 @@ FIXED PENALTY
 
 - 1. | 可按下列方式繳款— | 1. | Payment may be made—
 
-- (a) 使用銀行自動櫃員機繳款 在任何貼有“繳款服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例定額罰款”，並輸入帳單類別“03”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment Service” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “03” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
+- (a) 使用銀行自動櫃員機繳款 在任何貼有“繳費服務”或“繳費易”標誌的銀行櫃員機繳付。繳款時，請選擇“政府”，然後再選擇“交通違例定額罰款”，並輸入帳單類別“03”及輸入本通知書正面右上角的18位“電子繳款號碼”。 | (a) Through Bank Automated Teller Machine (ATM) Pay at any ATM affixed with “Bill Payment” or “JET Payment” signage. Please select “GOVERNMENT”, then choose “Traffic Tickets (Fixed Penalty)”. Enter the bill type number “03” and key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice for making payment.
 
-- (b) 使用「繳費靈」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone by using Payment By Phone Service (PPS) Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline: 2311 9876.
+- (b) 使用「繳費靈」繳款 以電話繳款，請先使用音頻電話進行登記(電話號碼：18013)，選擇“商戶編號”“9175”，並輸入本通知書正面右上角的18位“電子繳款號碼”。如欲繳款，請致電18033，並按照指示輸入所需資料。如需查詢，請致電「繳費靈」熱線：2311 9876。 | (b) By Phone by using PPS Before making payment, please register this notice through a tone phone (Tel. no.: 18011). After selecting the “Merchant Code” of “9175”, key in the 18-digit “E-Payment Number” shown on the top right-hand corner of this notice. For making payment, please dial 18031 and follow the instructions to enter the information required. For enquiries, please call PPS Hotline: 2311 9876.
 
 - (c) 透過互聯網繳款 透過銀行或「繳費靈」在互聯網上提供的繳費服務繳款。詳情請瀏覽庫務署網站(URL 位址：http://www.info.gov.hk/tsy)。同時亦可透過“公共服務電子化”計劃的網站(URL 位址：http://www.esd.gov.hk)或任何該計劃的服務站繳付。繳款時，請選擇“交通違例定額罰款”。 | (c) Through Internet Pay through bill payment services provided by banks and PPS on the Internet. For details, please visit Treasury’s web site (URL address: http://www.info.gov.hk/tsy). Payment could also be made through the web site of the “Electronic Service Delivery” (ESD) Scheme (URL address: http://www.esd.gov.hk) or at any of the ESD kiosks. Please select “Traffic Tickets (Fixed Penalty)” for making payment.
 
@@ -416,7 +416,7 @@ FIXED PENALTY
 
   - Date : . . 簽名 Signature
 
-(L.N. 166 of 2001; L.N. 158 of 2005)
+(L.N. 166 of 2001; L.N. 158 of 2005; 10 of 2008 s. 49)
 
 FORM 3 | [regulation 4(1)]
 

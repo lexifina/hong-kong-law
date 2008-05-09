@@ -112,6 +112,8 @@ s-096.md
 s-097.md
 s-098.md
 s-098A.md
+s-098B.md
+s-098C.md
 s-099.md
 s-100.md
 s-100A.md
