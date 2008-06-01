@@ -128,6 +128,8 @@ Republic of Turkey | 1 August 2000
 
 Republic of Turkmenistan | 1 December 1998
 
+Ukraine | 1 June 2008
+
 United Kingdom of Great Britain and Northern Ireland | 1 September 1997
 
 Bermuda | 1 March 1999
@@ -152,4 +154,4 @@ Federal Republic of Yugoslavia | 1 September 1997
 
 Republic of Zimbabwe | 1 September 1997
 
-(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005)
+(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008)
