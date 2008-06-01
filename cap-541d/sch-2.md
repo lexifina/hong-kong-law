@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[ss. 3, 65 & 91]
+[ss. 3, 65, 75A & 91] (L.N. 66 of 2008)
 
 POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
@@ -30,7 +30,7 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
   - (1) If, during or before a general election or by-election, it appears to the Commission that the election for a constituency is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (3), the Commission may postpone the election or by-election for the constituency by making a declaration under section 4.
 
-  - (2) If, at any time during a poll or count in respect of a general election or by-election, referred to in subsection (1), it appears to the Commission that the poll at all the polling stations for any constituency is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (3), the Commission may adjourn the poll at all the polling stations or the count at all the counting stations for that constituency by making a declaration under section 4.
+  - (2) If, at any time during a poll or count in respect of a general election or by-election, it appears to the Commission that the poll at all the polling stations, or the count at all the counting stations, for any constituency is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (3), the Commission may adjourn the poll at all the polling stations or the count at all the counting stations for that constituency by making a declaration under section 4. (L.N. 66 of 2008)
 
   - (3) The occurrences for the purposes of subsections (1) and (2) are—
 
@@ -114,6 +114,6 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
   - (5) If it is not practicable to specify the date in the notice of declaration, the Commission is to specify it in a notice published in the Gazette soon after the publication of a notice of declaration. If such publication is not practicable in the circumstances, the date must be specified in a notice published by some other means the Commission considers appropriate.
 
-  - (6) The appointment of a date under this section for holding a by-election is subject to section 36(2) of the Legislative Council Ordinance (Cap. 542)
+  - (6) The appointment of a date under this section for holding a by-election is subject to section 36(2) of the Legislative Council Ordinance (Cap. 542).
 
 - (Schedule 2 amended L.N. 210 of 2001)
