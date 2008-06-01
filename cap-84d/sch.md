@@ -8,13 +8,15 @@
 
 - OUTSIDE HARBOUR LIMITS
 
-  - 1. For every ship piloted, a pilotage due of $3,650 plus— (L.N. 111 of 2005)
+  - 1. For every ship piloted, a pilotage due of $4,100 plus— (L.N. 111 of 2005; L.N. 70 of 2008)
 
-    - (a) for ships having a gross registered tonnage of less than 30000 tons, 6.50 cents per ton of the ship’s gross registered tonnage; (L.N. 234 of 2002)
+    - (a) for ships having a gross registered tonnage of less than 30000 tons, $0.065 per ton of the ship’s gross registered tonnage; (L.N. 234 of 2002; L.N. 70 of 2008)
 
-    - (b) for ships having a gross registered tonnage of or above 30000 tons but not exceeding 60000 tons, 6.25 cents per ton of the ship’s gross registered tonnage or $1,950, whichever is the greater; or (L.N. 234 of 2002; L.N. 111 of 2005)
+    - (b) for ships having a gross registered tonnage of or above 30000 tons but not exceeding 60000 tons, $0.0625 per ton of the ship’s gross registered tonnage or $1,950, whichever is the greater; (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
 
-    - (c) for ships having a gross registered tonnage exceeding 60000 tons, 6 cents per ton of the ship’s gross registered tonnage or $3,750, whichever is the greater. (L.N. 234 of 2002; L.N. 111 of 2005)
+    - (c) for ships having a gross registered tonnage exceeding 60000 tons but not exceeding 120000 tons, $0.06 per ton of the ship’s gross registered tonnage or $3,750, whichever is the greater; or (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
+
+    - (d) for ships having a gross registered tonnage exceeding 120000 tons, $7,200. (L.N. 70 of 2008)
 
   - Notes: (a) The pilotage dues specified in this Part include all costs incurred by a pilot in travelling to and from a ship.
 
@@ -50,7 +52,7 @@
 
     - (b) within 1 hour before the last stated time of a requirement for pilotage services elsewhere,
 
-  - a pilotage due of $3,650 shall be payable. (L.N. 111 of 2005)
+  - a pilotage due of $4,100 shall be payable. (L.N. 111 of 2005; L.N. 70 of 2008)
 
   - 2. If the engagement of a pilot is altered within 2 to 3 hours of the last stated time of requirement, an additional pilotage due of $300 shall be payable.
 
