@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 4(1), (2) & 53(2)] (Amended 46 of 1996 s. 32)
+[ss. 3AA & 4] (Amended 46 of 1996 s. 32; 16 of 2008 s. 5)
 
 - PART I DUTY ON LIQUOR
 
