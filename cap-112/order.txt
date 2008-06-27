@@ -44,6 +44,10 @@ s-016D.md
 s-016E.md
 s-016F.md
 s-016G.md
+s-016H.md
+s-016I.md
+s-016J.md
+s-016K.md
 s-017.md
 s-018.md
 s-018A.md
@@ -216,6 +220,7 @@ s-088.md
 s-088A.md
 s-088B.md
 s-089.md
+s-090.md
 sch-1.md
 sch-2.md
 sch-3.md
@@ -236,3 +241,5 @@ sch-13.md
 sch-14.md
 sch-15.md
 sch-16.md
+sch-17.md
+sch-18.md

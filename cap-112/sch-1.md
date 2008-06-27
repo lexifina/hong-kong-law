@@ -36,6 +36,8 @@ For the year of assessment 2003/04 | — | 15 1/2%.
 
 (Added 24 of 2003 s. 9)
 
-For the year of assessment 2004/05 and for each year after that year | — | 16%.
+For the years of assessment 2004/05 to 2007/08 inclusive | — | 16%.
 
-(Added 24 of 2003 s. 9)
+(Added 24 of 2003 s. 9. Amended 21 of 2008 s. 7)
+
+For the year of assessment 2008/09 and for each year after that year | — | 15%. (Added 21 of 2008 s. 7)
