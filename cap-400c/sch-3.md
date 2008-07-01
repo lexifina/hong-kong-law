@@ -76,7 +76,7 @@ Before completing this form read the Notes below. To: The Noise Control Authorit
 
 - 3. The applicant shall submit for the Authority’s consideration either an EEC type-examination certificate or a noise testing report certificated by a corporate member of the Institute of Acoustics, UK, that the testing was conducted in accordance with the conditions as set out in Schedule 2 to the Noise Control (Air Compressors) Regulations.
 
-- 4. The applicant shall submit a fee of $445 for each label applied for. The fee payable on submission of this application will not be refunded. Cheques, drafts or cashier orders shall be made payable to “Hong Kong Government” and crossed.
+- 4. The applicant shall submit a fee of $490 for each label applied for. The fee payable on submission of this application will not be refunded. Cheques, drafts or cashier orders shall be made payable to “Hong Kong Government” and crossed.
 
 - 5. Regulation 8(3) of the Noise Control (Air Compressors) Regulations provides that not later than 28 days after an application is received by the Authority, the Authority shall issue a noise emission label or labels applied for or serve on the applicant written notice of his refusal to issue the label or labels, and if at the end of those 28 days he has done neither of those things, a label or labels shall be deemed to have been issued.
 
@@ -94,4 +94,4 @@ Before completing this form read the Notes below. To: The Noise Control Authorit
 
 - 104
 
-- (L.N. 260 of 1994; L.N. 65 of 1995; L.N. 497 of 1996; L.N. 582 of 1997; L.N. 308 of 2000; L.N. 184 of 2005)
+- (L.N. 260 of 1994; L.N. 65 of 1995; L.N. 497 of 1996; L.N. 582 of 1997; L.N. 308 of 2000; L.N. 184 of 2005; L.N. 101 of 2008)
