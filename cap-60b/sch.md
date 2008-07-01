@@ -30,9 +30,9 @@ Item | $
 
 4. | (a) Application for the issue of a certificate of Hong Kong origin, certificate of processing or of any other certificate mentioned in item 5 other than a generalized preference certificate—
 
-(i) where the application is made on paper (Form TIC 185) . | 110
+(i) where the application is made on paper (Form TIC 185) . | 125
 
-(ii) where the application is made using services provided by a specified body (L.N. 195 of 1999) . | 95
+(ii) where the application is made using services provided by a specified body (L.N. 195 of 1999; L.N. 19 of 2008) . | 110
 
 (b) Application for the issue of a generalized preference certificate (Form TIC 185B) (L.N. 390 of 1989; L.N. 237 of 1992; L.N. 245 of 1997) . | 324
 
