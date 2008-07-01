@@ -1,0 +1,9 @@
+# SCHEDULE
+
+[ss. 3 & 5]
+
+RATE SPECIFIED FOR PURPOSES OF SECTION 3(1)
+
+0%
+
+(Schedule added 21 of 2008 s. 14)
