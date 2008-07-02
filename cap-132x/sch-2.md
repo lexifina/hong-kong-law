@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[ss. 30 & 31A] (78 of 1999 s. 7; L.N. 169 of 2006)
+[ss. 30, 30AA & 31A] (78 of 1999 s. 7; L.N. 169 of 2006; L.N. 185 of 2008)
 
 RESTRICTED FOODS
 
