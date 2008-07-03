@@ -58,6 +58,12 @@ TAXI FARES
 
 (vib) For every hiring involving the use of the toll area within the meaning of the Tsing Sha Control Area Ordinance (Cap. 594) (16 of 2007 s. 31) . | The toll paid by the driver of the taxi during the hiring for the use of the toll area.
 
+(vic) For every hiring which—
+
+(a) begins from Ma Wan; and
+
+(b) involves the use of the Lantau Link within the meaning of the Tsing Ma Control Area Ordinance (Cap. 498) (L.N. 149 of 2008) . | $30.00
+
 (vii) For every hiring arranged through telephone booking—
 
 (a) Taxis licensed to operate in Hong Kong and Kowloon . | $5.00
