@@ -63,6 +63,9 @@ s-044.md
 s-044A.md
 s-044B.md
 s-045.md
+s-045A.md
+s-045B.md
+s-045C.md
 s-046.md
 s-047.md
 s-048.md
