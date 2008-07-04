@@ -48,6 +48,8 @@ s-029.md
 s-030.md
 s-030A.md
 s-031.md
+s-031AA.md
+s-031AB.md
 s-031A.md
 s-032.md
 s-033.md

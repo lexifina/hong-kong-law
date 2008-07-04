@@ -66,9 +66,17 @@ Common law offences
 
 - section 4(2) | soliciting or accepting bribes in the capacity of a public servant (Added L.N. 229 of 2007)
 
-- section 5(1) | bribery for giving assistance, etc. in regard to contracts
+- section 4(2A) | bribery of Chief Executive (Added 22 of 2008 s. 6)
+
+- section 4(2B) | soliciting or accepting bribes in the capacity of Chief Executive (Added 22 of 2008 s. 6)
+
+- section 5(1) | bribery of public servant for giving assistance, etc. in regard to contracts (Replaced 22 of 2008 s. 6)
 
 - section 5(2) | soliciting or accepting bribes in the capacity of a public servant for giving assistance, etc. in regard to contracts (Added L.N. 229 of 2007)
+
+- section 5(3) | bribery of Chief Executive for giving assistance, etc. in regard to contracts (Added 22 of 2008 s. 6)
+
+- section 5(4) | soliciting or accepting bribes in the capacity of Chief Executive for giving assistance, etc. in regard to contracts (Added 22 of 2008 s. 6)
 
 - section 6(1) | bribery for procuring withdrawal of tenders
 
