@@ -4,8 +4,6 @@
 
 FORM OF CHARGE SHEET
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 IN THE DISTRICT COURT OF HONG KONG HOLDEN AT HKSAR against
 
 - A. B. The court is informed that the following charges are preferred against A.
@@ -16,11 +14,11 @@ IN THE DISTRICT COURT OF HONG KONG HOLDEN AT HKSAR against
 
 - Statement of Offence. Particulars of Offence.
 
-- Dated this day of , 19 .
+- Dated this day of .
 
 - (Signed) .
 
-- Government Counsel
+- (Name and post title of the legal officer)
 
 - for and on behalf of the Secretary for Justice.
 
@@ -34,12 +32,10 @@ IN THE DISTRICT COURT OF HONG KONG HOLDEN AT HKSAR against
 
   - Particulars of Offence. etc. etc.
 
-- Dated this day of , 19 .
+- Dated this day of . (Signed) .
 
-- (Signed) .
-
-- Government Counsel
+- (Name and post title of the legal officer)
 
 - for and on behalf of the Secretary for Justice.
 
-(Amended L.N. 362 of 1997; 25 of 1998 s. 2)
+(Amended L.N. 362 of 1997; 25 of 1998 s. 2; 25 of 2008 s. 9)
