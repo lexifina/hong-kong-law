@@ -309,8 +309,10 @@ s-272M.md
 s-272N.md
 s-272O.md
 s-273.md
+s-273A.md
 s-273B.md
 s-273C.md
+s-273D.md
 s-273E.md
 s-273F.md
 s-273G.md
