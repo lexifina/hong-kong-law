@@ -260,7 +260,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 76. Any corporation which is a member of the company may by resolution of its directors or other governing body authorize such person as it thinks fit to act as its representative at any meeting of the company or of any class of members of the company, and the person so authorized shall be entitled to exercise the same powers on behalf of the corporation which he represents as that corporation could exercise if it were an individual member of the company. Directors
 
-  - 77. The number of the directors and the names of the first directors shall be determined in writing by the subscribers of the memorandum of association or a majority of them.
+  - 77. The number of the directors and the names of the first directors shall be determined in writing by the founder members or a majority of them. (Amended 30 of 2004 s. 2)
 
   - 78. The remuneration of the directors shall from time to time be determined by the company in general meeting. Such remuneration shall be deemed to accrue from day to day. The directors may also be paid all travelling, hotel and other expenses properly incurred by them in attending and returning from meetings of the directors or any committee of the directors or general meetings of the company or in connexion with the business of the company.
 
@@ -492,9 +492,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 5th.
 
-  - The share capital of the company is $15,000,000 divided into $150,000 shares of $100 each. WE, the several persons whose names and addresses are subscribed, are desirous of being formed into a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
+  - The share capital of the company is $15,000,000 divided into $150,000 shares of $100 each. WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
 
-  - Names, Addresses and Descriptions of Subscribers | Number of Shares taken by each Subscriber
+  - Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
 
   - 1. | Wong Tai-kwong (黃大光) of , Electronics Engineer. | 1
 
@@ -514,7 +514,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - Solicitor.
 
-  - (Amended 25 of 1998 s. 2)
+  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
   - Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
 
@@ -538,9 +538,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 5th.
 
-  - Every member of the company undertakes to contribute to the assets of the company in the event of its being wound up while he is a member, or within 1 year afterwards, for payment of the debts and liabilities of the company contracted before he ceases to be a member, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves, such amount as may be required not exceeding $100. WE, the several persons whose names and addresses are subscribed, are desirous of being formed into a company, in pursuance of this memorandum of association.
+  - Every member of the company undertakes to contribute to the assets of the company in the event of its being wound up while he is a member, or within 1 year afterwards, for payment of the debts and liabilities of the company contracted before he ceases to be a member, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves, such amount as may be required not exceeding $100. WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association.
 
-  - Names, Addresses and Descriptions of Subscribers
+  - Names, Addresses and Descriptions of Signatories
 
   - 1. | Chan Kwok-wah (陳國華) of , Headmaster.
 
@@ -556,7 +556,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - Solicitor.
 
-  - (Amended 25 of 1998 s. 2)
+  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
   - _ ARTICLES OF ASSOCIATION TO ACCOMPANY PRECEDING
 
@@ -574,7 +574,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 2. The number of members with which the company proposes to be registered is 500, but the directors may from time to time register an increase of members.
 
-  - 3. The subscribers to the memorandum of association and such other persons as the directors shall admit to membership shall be members of the company. General Meetings
+  - 3. The founder members and such other persons as the directors shall admit to membership shall be members of the company. (Amended 30 of 2004 s. 2) General Meetings
 
   - 4. The company shall in each year hold a general meeting as its annual general meeting in addition to any other meetings in that year, and shall specify the meeting as such in the notices calling it; and not more than 15 months shall elapse between the date of one annual general meeting of the company and that of the next. Provided that so long as the company holds its first annual general meeting within 18 months of its incorporation, it need not hold it in the year of its incorporation or in the following year. The annual general meeting shall be held at such time and place as the directors shall appoint.
 
@@ -674,7 +674,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 29. Any corporation which is a member of the company may by resolution of its directors or other governing body authorize such person as it thinks fit to act as its representative at any meeting of the company, and the person so authorized shall be entitled to exercise the same powers on behalf of the corporation which he represents as that corporation could exercise if it were an individual member of the company. Directors
 
-  - 30. The number of the directors and the names of the first directors shall be determined in writing by the subscribers of the memorandum of association or a majority of them.
+  - 30. The number of the directors and the names of the first directors shall be determined in writing by the founder members or a majority of them. (Amended 30 of 2004 s. 2)
 
   - 31. The remuneration of the directors shall from time to time be determined by the company in general meeting. Such remuneration shall be deemed to accrue from day to day. The directors shall also be paid all travelling, hotel and other expenses properly incurred by them in attending and returning from meetings of the directors or any committee of the directors or general meetings of the company or in connexion with the business of the company. Borrowing Powers
 
@@ -798,7 +798,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - Every director, managing director, agent, auditor, secretary and other officer for the time being of the company shall be indemnified out of the assets of the company against any liability incurred by him in relation to the company in defending any proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted or in connexion with any application under section 358 of the Ordinance in which relief is granted to him by the court.
 
-  - Names, Addresses and Descriptions of Subscribers
+  - Names, Addresses and Descriptions of Signatories
 
   - 1. | Chan Kwok-wah (陳國華) of , Headmaster.
 
@@ -814,7 +814,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - Solicitor.
 
-  - (Amended 25 of 1998 s. 2)
+  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
   - _
 
@@ -838,9 +838,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 6th.
 
-  - The share capital of the company shall consist of $10,000,000 divided into 10000 shares of $1,000 each. WE, the several persons whose names and addresses are subscribed, are desirous of being formed into a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
+  - The share capital of the company shall consist of $10,000,000 divided into 10000 shares of $1,000 each. WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
 
-  - Names, Addresses and Descriptions of Subscribers | Number of Shares taken by each Subscriber
+  - Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
 
   - 1. | Chow Tak-kwong (周德光) of , Hotel Executive. | 1
 
@@ -860,7 +860,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - Solicitor.
 
-  - (Amended 25 of 1998 s. 2)
+  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
   - Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
 
@@ -878,7 +878,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - Subject to sections 49I to 49O of the Ordinance, the company may make a payment in respect of the redemption or purchase of its own shares otherwise than out of the distributable profits of the company or the proceeds of a fresh issue of shares. (Added L.N. 188 of 1993) Note: Articles 3 and 4 of these articles are alternative to regulations 47A and 47B of Table A, Part I. (Added L.N. 188 of 1993)
 
-  - Names, Addresses and Descriptions of Subscribers
+  - Names, Addresses and Descriptions of Signatories
 
   - 1. | Chow Tak-kwong (周德光) of , Hotel Executive.
 
@@ -894,7 +894,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - Solicitor.
 
-  - (Amended 25 of 1998 s. 2)
+  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
   - _
 
@@ -912,9 +912,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 3rd.
 
-  - The objects for which the company is established are [If the objects are being stated, they should be set out here]. (Amended 3 of 1997 s. 56) WE, the several persons whose names are subscribed, are desirous of being formed into a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
+  - The objects for which the company is established are [If the objects are being stated, they should be set out here]. (Amended 3 of 1997 s. 56) WE, the several persons whose names are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
 
-  - Names, Addresses and Descriptions of Subscribers | Number of Shares taken by each Subscriber
+  - Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
 
   - 1. | Chan Tai-wai (陳大偉) of , Consulting Civil Engineer. | 1
 
@@ -934,7 +934,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - Solicitor.
 
-  - (Amended 25 of 1998 s. 2)
+  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
   - Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
 
@@ -962,7 +962,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 4. The regulations of Table A, Part I, set out in the First Schedule to the Companies Ordinance, Chapter 32 (other than regulations 41 to 48 inclusive) shall be deemed to be incorporated with these articles and shall apply to the company.
 
-  - Names, Addresses and Descriptions of Subscribers
+  - Names, Addresses and Descriptions of Signatories
 
   - 1. | Chan Tai-wai (陳大偉) of , Consulting Civil Engineer.
 
@@ -972,4 +972,4 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - No. 13, Chater Road, Hong Kong.
 
-  - Solicitor. (Amended 25 of 1998 s. 2) (First Schedule replaced 6 of 1984 s. 253)
+  - Solicitor. (Amended 25 of 1998 s. 2; 30 of 2004 s. 2) (First Schedule replaced 6 of 1984 s. 253)
