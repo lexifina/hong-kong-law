@@ -10,7 +10,7 @@ I.-BY A COMPANY HAVING A SHARE CAPITAL
 
 And, in addition, for every $1,000 or part of $1,000 of the nominal share capital (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $ 1
 
-(aa) | lodgment fee to be paid on delivery of the memorandum and articles under section 15 (Added L.N. 11 of 1996) . | $ 295
+(aa) | lodgment fee to be paid on delivery of the incorporation form under section 15 (Added L.N. 11 of 1996. Amended 30 of 2004 s. 2) . | $ 295
 
 (b) | for registration of every increase in nominal share capital made after the first registration of any company, for every $1,000 or part of $1,000 of such increase (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $ 1
 
@@ -170,6 +170,8 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (III) each return delivered under section 336(1) of the pre-amended Ordinance, or section 334, in respect of a non-Hong Kong company (Added L.N. 86 of 2007) | $18 | $16 | Not applicable
 
+(IV) each incorporation form (Added L.N. 137 of 2008) | $18 | $16 | Not applicable
+
 (C) (I) the register of charges kept under section 83(1), per charge | $10 | $9 | Not applicable
 
 (II) any other document | $10 | $9 | Not applicable
@@ -202,6 +204,8 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 
 (III) each return delivered under section 336(1) of the pre-amended Ordinance, or section 334, in respect of a non-Hong Kong company (Added L.N. 86 of 2007) | Not applicable | Not applicable | $30
 
+(IV) each incorporation form (Added L.N. 137 of 2008) | Not applicable | Not applicable | $30
+
 (C) (I) the register of charges kept under section 83(1), per charge | Not applicable | Not applicable | $20
 
 (II) any other document | Not applicable | Not applicable | $20
@@ -233,6 +237,8 @@ Description | Unregistered on-line user | Registered on-line user | On-site user
 (II) the lists in specified form delivered under section 333(1)(b) and (c) of the pre-amended Ordinance or the specified form delivered under section 333(1), in respect of a non-Hong Kong company | $23 | $21 | Not applicable
 
 (III) each return delivered under section 336(1) of the pre-amended Ordinance, or section 334, in respect of a non-Hong Kong company (Added L.N. 86 of 2007) | $23 | $21 | Not applicable
+
+(IV) each incorporation form (Added L.N. 137 of 2008) | $23 | $21 | Not applicable
 
 (C) (I) the register of charges kept under section 83(1), per charge | $13 | $12 | Not applicable
 
