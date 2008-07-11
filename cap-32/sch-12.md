@@ -116,7 +116,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 91(6) | Non-Hong Kong company failing to register a Hong Kong property charge (Amended 30 of 2004 s. 2) | Summary | level 5 | $1,500
 
-92(3) | Company failing to notify the Registrar of registered office | Summary | level 3 | $300
+92(4) | Company failing to notify the Registrar of registered office (Amended 30 of 2004 s. 2) | Summary | level 3 | $300
 
 93(3) | Company failing to affix its name outside its place of business, etc. | Summary | level 3 | $300
 
@@ -392,7 +392,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 342D | Person responsible for issue, etc., of prospectus, etc., contravening sections 342 to 342C | Summary | $150,000 | —
 
-342F(1) | Authorizing the issue, circulation or distribution in Hong Kong of a prospectus relating to shares in or debentures of an overseas company containing an untrue statement (Added 86 of 1992 s. 20) | On indictment Summary | $550,000 and 3 years $150,000 and 12 months | — —
+342F(1) | Authorizing the issue, circulation or distribution in Hong Kong of a prospectus relating to shares in or debentures of a non-Hong Kong company containing an untrue statement (Added 86 of 1992 s. 20. Amended 30 of 2004 s. 2) | On indictment Summary | $550,000 and 3 years $150,000 and 12 months | — —
 
 348C(4) | Company failing to take adequate precautions against falsification, etc., of registers, etc. | Summary | level 3 | $300
 
