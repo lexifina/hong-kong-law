@@ -8,7 +8,7 @@
 
 - 3. Rooms numbered 511 to 519 and rooms numbered 611 to 619 of the building known as Wah Chun House situated at Wah Fu Estate, Shek Pai Wan Road, Hong Kong.
 
-- 4. The third floor of Urban Council Kowloon City Complex, 100 Nga Tsin Wai Road, Kowloon City, Kowloon.
+- 4. The third floor of Kowloon City Municipal Services Building, 100 Nga Tsin Wai Road, Kowloon City, Kowloon. (L.N. 145 of 2008)
 
 - 5. The ground and first floors of No. 19, Lai Wan Road, Kowloon.
 
@@ -16,29 +16,29 @@
 
 - 7. The ground floor of Lung Hing House, North Wing, Lower Wong Tai Sin Estate II, Kowloon.
 
-- 8. The first and second floors of Urban Council Un Chau Street Building, No. 59-63, Un Chau Street, Kowloon.
+- 8. The first and second floors of Un Chau Street Municipal Services Building, 59-63 Un Chau Street, Kowloon. (L.N. 145 of 2008)
 
-- 9. The fifth and sixth floors of Urban Council Ngau Chi Wan Complex, 11 Clear Water Bay Road, Ngau Chi Wan, Kowloon.
+- 9. The fifth and sixth floors of Ngau Chi Wan Municipal Services Building, 11 Clear Water Bay Road, Ngau Chi Wan, Kowloon. (L.N. 145 of 2008)
 
 - 10. The fourth, fifth and eighth floors, Chai Wan Municipal Services Building, 338 Chai Wan Road, Hong Kong. (L.N. 267 of 2001)
 
 - 11. The ground floor of the building known as North Point Market, Pak Fuk Road, North Point, Hong Kong.
 
-- 12. The first floor of Urban Council Po On Road Complex, 325-329 Po On Road, Sham Shui Po, Kowloon.
+- 12. The first floor of Po On Road Municipal Services Building, 325-329 Po On Road, Sham Shui Po, Kowloon. (L.N. 145 of 2008)
 
-- 13. The sixth floor of Urban Council Hung Hom Complex, No. 11, Ma Tau Wai Road, Kowloon.
+- 13. The sixth floor of Hung Hom Municipal Services Building, 11 Ma Tau Wai Road, Kowloon. (L.N. 145 of 2008)
 
 - 14. The third floor of the Shun Lee Tsuen Sports Centre, Shun Lee Tsuen Road, Kwun Tong, Kowloon. (L.N. 213 of 2007)
 
-- 15. The fourth and fifth floors of the Urban Council Fa Yuen Street Complex, Fa Yuen Street, Kowloon.
+- 15. The fourth and fifth floors of Fa Yuen Street Municipal Services Building, 123A Fa Yuen Street, Mong Kok, Kowloon. (L.N. 145 of 2008)
 
-- 16. Level 5 of the building known as Urban Council Aberdeen Complex, Aberdeen Main Road, Aberdeen, Hong Kong.
+- 16. The third floor of Aberdeen Municipal Services Building, 203 Aberdeen Main Road, Hong Kong. (L.N. 145 of 2008)
 
-- 17. The second and third floors of the Urban Council Ngau Tau Kok Complex, No. 183, Ngau Tau Kok Road, Kowloon.
+- 17. The second and third floors of Ngau Tau Kok Municipal Services Building, 183 Ngau Tau Kok Road, Kowloon. (L.N. 145 of 2008)
 
 - 18. Units No. 1 to 6, ground floor, Commercial Centre, Pak Tin Estate, Kowloon.
 
-- 19. The Arts Library at the Hong Kong Cultural Centre, 10 Salisbury Road, Kowloon.
+- 19. (Repealed L.N. 145 of 2008)
 
 - 20. Fifth floor and Sixth floor, To Kwa Wan Market and Government Offices, Kowloon.
 
@@ -52,31 +52,31 @@
 
 - 25. The ground floor of Yiu Cheong House, Yiu Tung Estate, Hong Kong.
 
-- 26. Unit C of the third floor, the fourth and fifth floors of Urban Council Lockhart Road Complex, 225 Hennessy Road, Wan Chai, Hong Kong.
+- 26. Unit C of the third floor, the fourth and fifth floors of Lockhart Road Municipal Services Building, 225 Hennessy Road, Wan Chai, Hong Kong. (L.N. 145 of 2008)
 
-- 27. The fourth and fifth floors of the Urban Council Quarry Bay Complex, 38 Quarry Bay Street, Quarry Bay, Hong Kong.
+- 27. The fourth and fifth floors of Quarry Bay Municipal Services Building, 38 Quarry Bay Street, Quarry Bay, Hong Kong. (L.N. 145 of 2008)
 
 - 28. The third floor, Tai Kok Tsui Municipal Services Building, 63 Fuk Tsun Street, Tai Kok Tsui, Kowloon. (L.N. 219 of 2005)
 
-- 29. The fifth and sixth floors of Urban Council Shui Wo Street Complex, No. 9, Shui Wo Street, Kwun Tong, Kowloon.
+- 29. The fifth and sixth floors of Shui Wo Street Municipal Services Building, 9 Shui Wo Street, Kwun Tong, Kowloon. (L.N. 145 of 2008)
 
-- 30. The third and fourth floors of the Urban Council Shek Tong Tsui Complex, No. 470, Queen’s Road West, Hong Kong.
+- 30. The third and fourth floors of Shek Tong Tsui Municipal Services Building, 470 Queen’s Road West, Hong Kong. (L.N. 145 of 2008)
 
 - 31. The first floor of the building known as Concordia Plaza, 1 Science Museum Road, Tsim Sha Tsui East, Kowloon.
 
-- 32. The third floor of Urban Council Smithfield Complex, 12K Smithfield, Kennedy Town, Hong Kong.
+- 32. The third floor of Smithfield Municipal Services Building, 12K Smithfield, Kennedy Town, Hong Kong. (L.N. 145 of 2008)
 
-- 33. The third floor of Urban Council Wong Nai Chung Complex, 2 Yuk Sau Street, Happy Valley, Hong Kong.
+- 33. The third floor of Wong Nai Chung Municipal Services Building, 2 Yuk Sau Street, Happy Valley, Hong Kong. (L.N. 145 of 2008)
 
 - 34. The third floor of San Po Kong Plaza, 33 Shung Ling Street, San Po Kong, Kowloon.
 
 - 35. No. 702, 7/F., Tsz Wan Shan Shopping Centre, Kowloon.
 
-- 36. The fifth floor of Urban Council Ap Lei Chau Complex, 8 Hung Shing Street, Ap Lei Chau, Hong Kong.
+- 36. The fifth floor of Ap Lei Chau Municipal Services Building, 8 Hung Shing Street, Ap Lei Chau, Hong Kong. (L.N. 145 of 2008)
 
 - 37. The 5th floor, Tai Po Complex, 8 Heung Sze Wui Street, Tai Po. (L.N. 217 of 2004)
 
-- 38. Second Floor, Regional Council Cheung Chau Complex, No. 2 Tai Hing Tai Road, Cheung Chau.
+- 38. The second floor of Cheung Chau Municipal Services Building, 2 Tai Hing Tai Road, Cheung Chau. (L.N. 145 of 2008)
 
 - 39. Units 101-110 of the ground floor of the building known as Kwai Wo House at Lek Yuen Estate, Sha Tin.
 
@@ -88,15 +88,15 @@
 
 - 43. Shop No. 12, Commercial Centre, Lung Tin Estate, Tai O, Lantau Island.
 
-- 44. Third Floor, Regional Council Shek Wu Hui Complex, 13 Chi Cheong Road, Sheung Shui.
+- 44. The third floor of Shek Wu Hui Municipal Services Building, 13 Chi Cheong Road, Sheung Shui. (L.N. 145 of 2008)
 
 - 45. The part of the ground floor of the building known as Community Building, Second Street, Sok Kwu Wan, Lamma Island, hatched red on the sketch plan dated 23 November 1982, signed by the Secretary for Home Affairs and deposited in the Islands District Office of the Leisure and Cultural Services Department.
 
 - 46. 1 Tuen Hi Road, Tuen Mun.
 
-- 47. Ground Floor, Regional Council Peng Chau Complex, Peng Chau.
+- 47. The ground floor of Peng Chau Municipal Services Building, 6 Po Peng Street, Peng Chau. (L.N. 145 of 2008)
 
-- 48. Ground Floor, Regional Council Mui Wo Complex, Mui Wo.
+- 48. The ground floor of Mui Wo Municipal Services Building, 9 Ngan Shek Street, Mui Wo, Lantau Island. (L.N. 145 of 2008)
 
 - 49. The 2nd and 3rd floors of North Kwai Chung Market and Library, Shek Yam Road, Kwai Chung, hatched red on the sketch plans No. 37A and No. 37B dated 31 January 1984, signed by the Director of Urban Services and deposited in the Kwai Chung District Office of the Leisure and Cultural Services Department.
 
@@ -106,7 +106,7 @@
 
 - 52. (Repealed L.N. 150 of 2003)
 
-- 53. Unit Nos. 10-14, Ground Floor, Hong Shing House, Cheung Hong Estate, Tsing Yi.
+- 53. The first floor of Tsing Yi Municipal Services Building, 38 Tsing Luk Street, Tsing Yi. (L.N. 145 of 2008)
 
 - 54. Unit Nos. 126-130, Ground Floor, Tip Ying House, Butterfly Estate, Tuen Mun.
 
@@ -118,7 +118,7 @@
 
 - 58. Shop 1, Block 20, Ground Floor, Sha Tau Kok Chuen, New Territories.
 
-- 59. The first floor of Urban Council Sam Ka Tsuen Complex, 6 Lei Yue Mun Path, Sam Ka Tsuen, Kwun Tong, Kowloon.
+- 59. The first floor of Lei Yue Mun Municipal Services Building, 6 Lei Yue Mun Path, Kwun Tong, Kowloon. (L.N. 145 of 2008)
 
 - 60. The building known as the Hong Kong Central Library at 66 Causeway Road, Causeway Bay, Hong Kong, together with the footbridge connected to that building and the strctures associated with the footbridge, but excluding the Lecture Theatre, the Exhibition Gallery, Activity Room 1, Activity Room 2, the Book and Gift Shop and the Cafeteria in that building. (L.N. 245 of 2002)
 
