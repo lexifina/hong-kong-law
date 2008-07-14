@@ -68,9 +68,9 @@
 
   - 1B. Duty shall be payable on Euro V diesel at the following rates—
 
-    - (a) from 1 December 2007 to 30 November 2009 (both dates inclusive), at $0.56 per litre; and
+    - (a) from 1 December 2007 to 13 July 2008 (both dates inclusive), at $0.56 per litre; and (Amended L.N. 204 of 2008)
 
-    - (b) from 1 December 2009, at $2.89 per litre.
+    - (b) from 14 July 2008, at $0 per litre. (Replaced L.N. 204 of 2008)
 
   - (Added L.N. 220 of 2007)
 
