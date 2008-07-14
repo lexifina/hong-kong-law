@@ -10,6 +10,6 @@ RIGHTS AND OBLIGATIONS DESCRIBED FOR PURPOSES OF SECTION 9 OF THIS ORDINANCE
 
   - (b) a removal order made under the Immigration Ordinance (Cap. 115);
 
-  - (c) a direction made under regulation 27A of the Prevention of the Spread of Infectious Diseases Regulations (Cap. 141 sub. leg. B) prohibiting a person from leaving Hong Kong without the permission in writing of a health officer;
+  - (c) an order made under the Prevention and Control of Disease Ordinance (Cap. 599) or its regulations prohibiting a person from leaving Hong Kong without the permission of a health officer; (Replaced 14 of 2008 s. 18)
 
   - (d) a licence, permit, approval, certification, registration, enrolment, authorization or any other authority (howsoever described) or exemption (howsoever described) issued or given by the exercise or performance of a statutory power or duty described in Schedule 3, including (but not limited to) a warrant or order that authorizes the arrest (howsoever described) of a person made or issued under an enactment.
