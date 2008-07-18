@@ -12,6 +12,18 @@ Item | Relevant section of the Ordinance | Short description of the relevant dut
 
 2 | 7C(1)(b) | Self-employed person to pay contribution | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
+2B | 19B(5)(a) | Approved trustee to pay special contributions into specified sub-accounts (30 of 2008 s. 9) | 10000 | 10000 | 10000
+
+2C | 19B(5)(b) | Approved trustee to notify scheme members of payment of special contributions (30 of 2008 s. 9) | 10000 | 10000 | 10000
+
+2D | 19C(4) | Requirements with respect to giving of information or documents to Authority (30 of 2008 s. 9) | 10000 | 10000 | 10000
+
+2E | 19D(4) | Approved trustee to take actions required by Authority (30 of 2008 s. 9) | 10000 | 10000 | 10000
+
+2F | 19E(4)(a) | Approved trustee to withdraw sums from specified accounts and pay them to Authority (30 of 2008 s. 9) | 10000 | 10000 | 10000
+
+2G | 19E(4)(b) | Approved trustee to notify scheme members of withdrawal of sums from their accounts (30 of 2008 s. 9) | 10000 | 10000 | 10000
+
 3 | 22A | Approved trustee to lodge annual statements | 10000 | 20000 | 50000
 
 4 | 22B | Approved trustee to pay annual registration fee | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
@@ -66,11 +78,11 @@ Item | Relevant section of the Regulation | Short description of the relevant du
 
 25 | 79 | Requirements with respect to financial period of registered scheme | 5000 | 10000 | 20000
 
-26 | 80 | Approved trustee to perpare statement of accounting policies | 10000 | 20000 | 50000
+26 | 80 | Approved trustee to prepare statement of accounting policies | 10000 | 20000 | 50000
 
 27 | 81 | Approved trustee to prepare financial statements | 10000 | 20000 | 50000
 
-28 | 82 | Auditor’s report to be attached to financial statments | 10000 | 20000 | 50000
+28 | 82 | Auditor’s report to be attached to financial statements | 10000 | 20000 | 50000
 
 29 | 85 | Signing of financial statements | 10000 | 20000 | 50000
 
