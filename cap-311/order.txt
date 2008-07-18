@@ -38,11 +38,20 @@ s-026C.md
 s-026D.md
 s-026E.md
 s-026F.md
+s-026G.md
+s-026H.md
+s-026I.md
+s-026J.md
+s-026K.md
+s-026L.md
+s-026M.md
+s-026N.md
 s-027.md
 s-028.md
 s-029.md
 s-030.md
 s-030A.md
+s-030B.md
 s-031.md
 s-032.md
 s-033.md
@@ -53,6 +62,7 @@ s-037.md
 s-037A.md
 s-037B.md
 s-037C.md
+s-037D.md
 s-038.md
 s-039.md
 s-040.md
@@ -99,5 +109,8 @@ s-079.md
 s-080.md
 sch-1.md
 sch-2.md
+sch-2A.md
+sch-2B.md
+sch-2C.md
 sch-3.md
 sch-4.md
