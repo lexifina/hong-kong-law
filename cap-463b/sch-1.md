@@ -1,65 +1,65 @@
-# Schedule 1
+# SCHEDULE 1
 
-[s. 3]
+[s. 3 & Sch. 5] (L.N. 199 of 2008)
 
-Item | Trade, business or manufacture | Rate for premises located in a water control zone $/m3 | Rate for premises located outside a water control zone $/m3
+TRADE EFFLUENT SURCHARGE RATES
 
-1. | yarn sizing | 3.78 | 10.67
+Item | Trade, business or manufacture | Rate for billing period beginning on a date between 1 August 2008 and 31 July 2009 (both days inclusive) and ending on a date before 1 August 2009 | Rate for billing period beginning on or after 1 August 2009
 
-2. | washing new garments, excluding laundries | 0.82 | 0.82
+$/m3 | $/m3
 
-3. | bleaching and dyeing of garments | 0.64 | 0.64
+1. | yarn sizing | 4.13 | 4.51
 
-4. | bleaching and dyeing of knitted fabric | 1.01 | 1.01
+2. | washing new garments, excluding laundries | 0.41 | 0.41
 
-5. | bleaching and dyeing of woven fabric | 1.73 | 1.73
+3. | bleaching and dyeing of knitted fabric | 0.41 | 0.41
 
-6. | textile stencilling and printing | 1.32 | 1.32
+4. | bleaching and dyeing of woven fabric | 1.20 | 1.20
 
-7. | knit outerwear | 1.01 | 1.01
+5. | knit outerwear | 0.41 | 0.41
 
-8. | wearing apparel other than knit outerwear | 1.80 | 1.80
+6. | wearing apparel other than knit outerwear | 0.41 | 0.41
 
-9. | spinning cotton | 0.34 | 0.34
+7. | spinning cotton | 0.37 | 0.41
 
-10. | laundries | 0.60 | 0.60
+8. | soap and cleaning preparations, perfumes, cosmetics | 4.13 | 4.51
 
-11. | soap and cleaning preparations, perfumes, cosmetics | 3.78 | 16.05
+9. | medicines | 4.13 | 4.51
 
-12. | medicines | 3.78 | 4.98
+10. | paints, varnishes and lacquers | 1.27 | 1.38
 
-13. | paints, varnishes and lacquers | 1.16 | 1.16
+11. | basic industrial chemicals | 0.76 | 0.76
 
-14. | basic industrial chemicals | 3.78 | 4.02
+12. | tanneries and leather finishing | 0.76 | 0.76
 
-15. | tanneries and leather finishing | 2.56 | 2.56
+13. | pulp, paper and paperboard | 4.47 | 4.88
 
-16. | pulp, paper and paperboard | 4.09 | 4.09
+14. | soft drinks and carbonated waters industries | 0.47 | 0.47
 
-17. | soft drinks and carbonated waters industries | 1.49 | 1.49
+15. | breweries and manufacture of malt liquor | 4.13 | 4.51
 
-18. | breweries and manufacture of malt liquor | 3.29 | 3.29
+16. | distilling, rectifying and blending spirits | 4.13 | 4.51
 
-19. | distilling, rectifying and blending spirits | 0.11 | 0.11
+17. | cocoa, chocolate and sugar confectionery | 4.13 | 4.51
 
-20. | cocoa, chocolate and sugar confectionery | 3.78 | 4.26
+18. | vermicelli, noodles and similar farinaceous products | 4.13 | 4.51
 
-21. | vermicelli, noodles, and similar farinaceous products | 3.29 | 5.16
+19. | bakery products | 3.59 | 3.92
 
-22. | bakery products | 3.29 | 5.16
+20. | grain mill products | 2.77 | 2.77
 
-23. | grain mill products | 5.98 | 9.54
+21. | vegetable oil, peanut oil, peppermint oil and aniseed oil | 2.48 | 2.48
 
-24. | vegetable oil, peanut oil, peppermint oil and aniseed oil | 3.78 | 19.55
+22. | canning, preserving and processing of fish and crustaceans | 1.78 | 1.78
 
-25. | canning, preserving and processing of fish and crustaceans | 1.73 | 1.73
+23. | canning and preserving of fruit and vegetables | 3.41 | 3.41
 
-26. | canning and preserving fruit and vegetables | 3.63 | 3.63
+24. | dairy products | 4.13 | 4.51
 
-27. | dairy products | 3.78 | 9.15
+25. | slaughtering, preparing and preserving meat | 1.74 | 1.74
 
-28. | slaughtering, preparing and preserving meat | 3.78 | 9.01
+26. | soy and other sauces | 4.13 | 4.51
 
-29. | soy and other sauces | 3.78 | 8.38
+27. | restaurants | 3.05 | 3.05
 
-30. | restaurants | 3.78 | 9.12
+(Schedule 1 replaced L.N. 106 of 2008. L.N. 199 of 2008)
