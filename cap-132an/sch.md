@@ -4,6 +4,8 @@ Name of Market | Name in Chinese
 
 Aberdeen Market, Urban Council Aberdeen Complex | 香港仔街市 (78 of 1999 s. 7)
 
+Aldrich Bay Market | 愛秩序灣街市 (L.N. 179 of 2008)
+
 Ap Lei Chau Market, Ap Lei Chau Complex | 鴨脷洲街市，鴨脷洲市政大廈 (78 of 1999 s. 7)
 
 Bowrington Road Market | 鵝頸街市 (78 of 1999 s. 7)
