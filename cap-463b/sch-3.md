@@ -4,7 +4,7 @@
 
 TRADE, BUSINESS OR MANUFACTURE
 
-- 1. bleaching and dyeing of garments
+- 1. (Repealed L.N. 106 of 2008)
 
 - 2. bleaching and dyeing of knitted fabric
 

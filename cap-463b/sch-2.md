@@ -1,65 +1,65 @@
-# Schedule 2
+# SCHEDULE 2
 
-[s. 4]
+[ss. 4 & 8]
 
-Item | Trade, business or manufacture | CODt g/m3 | CODs g/m3
+COD VALUES
 
-1. | yarn sizing | 5160 | 4436
+Item | Trade, business or manufacture | CODt | CODs
 
-2. | washing new garments, excluding laundries | 660 | 330
+g/m3 | g/m3
 
-3. | bleaching and dyeing of garments | 730 | 635
+1. | yarn sizing | 2000 | 2000
 
-4. | bleaching and dyeing of knitted fabric | 980 | 837
+2. | washing new garments, excluding laundries | 566 | 507
 
-5. | bleaching and dyeing of woven fabric | 1290 | 1090
+3. | bleaching and dyeing of knitted fabric | 665 | 607
 
-6. | textile stencilling and printing | 890 | 404
+4. | bleaching and dyeing of woven fabric | 1053 | 981
 
-7. | knit outerwear | 1051 | 935
+5. | knit outerwear | 566 | 507
 
-8. | wearing apparel other than knit outerwear | 990 | 476
+6. | wearing apparel other than knit outerwear | 566 | 507
 
-9. | spinning cotton | 570 | 541
+7. | spinning cotton | 570 | 541
 
-10. | laundries | 725 | 425
+8. | soap and cleaning preparations, perfumes, cosmetics | 2000 | 2000
 
-11. | soap and cleaning preparations, perfumes, cosmetics | 7805 | 7453
+9. | medicines | 2000 | 2000
 
-12. | medicines | 2910 | 2482
+10. | paints, varnishes and lacquers | 1000 | 619
 
-13. | paints, varnishes and lacquers | 1000 | 619
+11. | basic industrial chemicals | 677 | 656
 
-14. | basic industrial chemicals | 2500 | 2262
+12. | tanneries and leather finishing | 807 | 781
 
-15. | tanneries and leather finishing | 1755 | 1436
+13. | pulp, paper and paperboard | 1870 | 947
 
-16. | pulp, paper and paperboard | 1870 | 947
+14. | soft drinks and carbonated waters industries | 826 | 628
 
-17. | soft drinks and carbonated waters industries | 1200 | 914
+15. | breweries and manufacture of malt liquor | 2000 | 2000
 
-18. | breweries and manufacture of malt liquor | 1780 | 1304
+16. | distilling, rectifying and blending spirits | 2000 | 2000
 
-19. | distilling, rectifying and blending spirits | 580 | 485
+17. | cocoa, chocolate and sugar confectionery | 2000 | 2000
 
-20. | cocoa, chocolate and sugar confectionery | 2500 | 2214
+18. | vermicelli, noodles and similar farinaceous products | 2000 | 2000
 
-21. | vermicelli, noodles, and similar farinaceous products | 2500 | 1548
+19. | bakery products | 2000 | 1506
 
-22. | bakery products | 2500 | 1548
+20. | grain mill products | 1521 | 1290
 
-23. | grain mill products | 2860 | 680
+21. | vegetable oil, peanut oil, peppermint oil and aniseed oil | 1320 | 1310
 
-24. | vegetable oil, peanut oil, peppermint oil and aniseed oil | 7600 | 5315
+22. | canning, preserving and processing of fish and crustaceans | 1141 | 873
 
-25. | canning, preserving and processing of fish and crustaceans | 1495 | 1257
+23. | canning and preserving of fruit and vegetables | 2000 | 1822
 
-26. | canning and preserving fruit and vegetables | 1990 | 1628
+24. | dairy products | 2000 | 2000
 
-27. | dairy products | 3960 | 3084
+25. | slaughtering, preparing and preserving meat | 1129 | 769
 
-28. | slaughtering, preparing and preserving meat | 3870 | 2823
+26. | soy and other sauces | 2000 | 2000
 
-29. | soy and other sauces | 3900 | 3243
+27. | restaurants | 1630 | 1320
 
-30. | restaurants | 3600 | 2315
+(Schedule 2 replaced L.N. 106 of 2008)
