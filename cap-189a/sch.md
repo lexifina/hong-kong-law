@@ -1,17 +1,29 @@
 # SCHEDULE
 
-[rule 4]
+[s. 4]
 
-Form 1
+FORM OF AUTHORIZATION OF ARREST
 
-POWER OF ARREST (Heading as in Originating Summons)
+(Heading as in Originating Summons)
 
-[here set out injunction]
+[set out the injunction here]
 
-POWER OF ARREST
+AUTHORIZATION OF ARREST
 
-And the Judge being satisfied that the Respondent has caused actual bodily harm to the Applicant [or . the child concerned], a power of arrest is attached to this order whereby any police officer may arrest without warrant a person whom he reasonably suspects of being in breach of the order.
+And the Judge—
 
-This power of arrest expires on the day of 19 unless extended by an order under section 7 of the Domestic Violence Ordinance.
+* being satisfied that the Respondent has caused actual bodily harm to (name) ,
 
-(L.N. 615 of 1994)
+.
+
+* reasonably believing that the Respondent will likely cause actual bodily harm to (name) ,
+
+.
+
+this authorization of arrest is attached to the above injunction whereby any police officer may arrest without warrant a person whom he reasonably suspects of being in breach of the injunction as described in section 5(2) of the Domestic Violence Ordinance (Cap. 189).
+
+This authorization of arrest expires at 12 midnight on the day of unless extended under section 7 of the Domestic Violence Ordinance (Cap. 189).
+
+* Delete where inappropriate.
+
+(Schedule replaced 17 of 2008 s. 17)
