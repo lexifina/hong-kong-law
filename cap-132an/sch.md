@@ -192,7 +192,7 @@ Tung Yick Market | 同益街市 (L.N. 404 of 1990)
 
 Tung Yuen Street Cooked Food Market | 東源街熟食市場 (78 of 1999 s. 7)
 
-Wan Chai Market | 灣仔街市 (78 of 1999 s. 7)
+Wan Chai Market* | 灣仔街市 (L.N. 183 of 2008)
 
 Wing Fong Street Market | 榮芳街街市 (L.N. 402 of 1982)
 
@@ -212,4 +212,10 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005; L.N. 39 of 2006; L.N. 10 of 2007)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005; L.N. 39 of 2006; L.N. 10 of 2007; L.N. 180 of 2008)
+
+Editorial Note:
+
+- * 1. L.N. 180 of 2008 declares that the Wan Chai Market (at 264 Queen’s Road East, Wan Chai, Hong Kong) ceases, immediately before the commencement of 1 September 2008, to be a market to which the Public Health and Municipal Services Ordinance (Cap. 132) applies.
+
+- 2. L.N. 183 of 2008 declares the Wan Chai Market (on the Ground Floor, 258 Queen’s Road East, Wan Chai, Hong Kong) to be a market to which the Public Health and Municipal Services Ordinance (Cap. 132) applies with effect from 1 September 2008.
