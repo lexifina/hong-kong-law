@@ -62,6 +62,14 @@ Item | Substance | Description of substance | Description of food | Maximum conc
 
 26A. | Malachite green | Sum of malachite green and leucomalachite green | Any food (including live fish, live reptiles and live poultry) | 0 microgram per kilogram of the food. (L.N. 137 of 2005)
 
+26B. | Melamine | Milk | 1 milligram per kilogram of the food.
+
+Any food intended to be consumed principally by persons of an age group into which children under the age of 36 months fall | 1 milligram per kilogram of the food.
+
+Any food intended to be consumed principally by pregnant or lactating women | 1 milligram per kilogram of the food.
+
+Any other food | 2.5 milligrams per kilogram of the food. (L.N. 215 of 2008)
+
 27. | Metronidazole | Muscle, liver and kidney of porcine and poultry | 0 microgram per kilogram of the food.
 
 28. | Neomycin | Muscle and liver of bovine, porcine and poultry Kidney of bovine, porcine and poultry Milk | 500 micrograms per kilogram of the food. 10000 micrograms per kilogram of the food. 500 micrograms per kilogram of the food.
