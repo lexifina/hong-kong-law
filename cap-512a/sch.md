@@ -34,6 +34,8 @@ Republic of Chile | 1 September 1997
 
 Republic of Colombia | 1 September 1997
 
+Republic of Costa Rica | 1 September 2008
+
 Republic of Croatia | 1 September 1997
 
 Republic of Cyprus | 1 September 1997
@@ -154,4 +156,4 @@ Federal Republic of Yugoslavia | 1 September 1997
 
 Republic of Zimbabwe | 1 September 1997
 
-(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008)
+(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008; L.N. 216 of 2008)
