@@ -166,4 +166,12 @@ Item Body
 
 - 82. The Hong Kong Federation of Youth Groups (Added L.N. 71 of 2008)
 
-- 83. Hong Kong Outlying Islands Women’s Association Limited (Added L.N. 71 of 2008) (Schedule 2 replaced L.N. 269 of 1999)
+- 83. Hong Kong Outlying Islands Women’s Association Limited (Added L.N. 71 of 2008)
+
+- 84. Vassar International Chinese Medical Society Limited (Added L.N. 224 of 2008)
+
+- 85. Management and Executive Development Centre, The Hong Kong Polytechnic University (Added L.N. 224 of 2008)
+
+- 86. Farida Hair & Beauty Education Centre (Added L.N. 224 of 2008)
+
+- 87. Hong Kong Society of Professional Medical Care (Added L.N. 224 of 2008) (Schedule 2 replaced L.N. 269 of 1999)
