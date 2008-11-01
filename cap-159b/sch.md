@@ -152,21 +152,15 @@ of .
 
   - (a) has accumulated the number of CPD accreditation points that is required by section 5 of the Continuing Professional Development Rules (Cap. 159 sub. leg. W) to be accumulated by the end of his period of employment as a trainee solicitor;
 
+- (aa)*has attended all general core courses and the minimum hours of elective courses required under the Legal Practitioners (Risk Management Education) Rules (Cap. 159 sub. leg. Z) during his employment as a trainee solicitor;
+
   - (b) has passed or obtained or been granted total exemption from the examinations required by rule 7 of the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
   - (c) has been employed as a trainee solicitor for a period of . years to the satisfaction of the Society/has been granted exemption from employment as a trainee solicitor* in accordance with the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
   - (d) has resided in Hong Kong for at least 3 months immediately before his admission/intends to reside in Hong Kong for at least 3 months immediately after his admission/has been ordinarily resident in Hong Kong for at least 7 years/has been present in Hong Kong for at least 180 days of each of at least 7 years*; and
 
-  - (e) is in other respects fit to be a solicitor.
-
-- Dated this . day of .
-
-- (Sgd.) .
-
-- for The Law Society of Hong Kong.
-
-- * Delete whichever inapplicable.
+  - (e) is in other respects fit to be a solicitor. Dated this . day of . (Sgd.) . for The Law Society of Hong Kong. * Delete whichever inapplicable.
 
 (L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000; L.N. 247 of 2002)
 
@@ -336,6 +330,8 @@ of .
 
   - 9. I have accumulated the number of CPD accreditation points that is required by section 5 of the Continuing Professional Development Rules (Cap. 159 sub. leg. W) to be accumulated by the end of my period of employment as a trainee solicitor.
 
+  - 10.* I have attended all general core courses and the minimum hours of elective courses required under the Legal Practitioners (Risk Management Education) Rules (Cap. 159 sub. leg. Z) during my employment as a trainee solicitor.
+
 - (b) AND I, the Principal for myself say as follows—
 
   - 1. At the time of execution of the Trainee Solicitor Contract, I was and have remained qualified under section 20 of the Legal Practitioners Ordinance (Cap. 159) to employ a trainee solicitor.
@@ -372,7 +368,7 @@ of .
 
 - Note: Where the Trainee Solicitor has been employed under two or more trainee solicitor contracts, each person employing him shall make a separate declaration. * Delete whichever is inapplicable.
 
-- (L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002)
+- (L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002; L.N. 247 of 2002)
 
 - _
 
