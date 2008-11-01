@@ -12,6 +12,8 @@ Item | Relevant section of the Ordinance | Short description of the relevant dut
 
 2 | 7C(1)(b) | Self-employed person to pay contribution | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
+2A | 18(2) | Requirement to pay contribution surcharge (1 of 2008 s. 69) | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
+
 2B | 19B(5)(a) | Approved trustee to pay special contributions into specified sub-accounts (30 of 2008 s. 9) | 10000 | 10000 | 10000
 
 2C | 19B(5)(b) | Approved trustee to notify scheme members of payment of special contributions (30 of 2008 s. 9) | 10000 | 10000 | 10000
@@ -126,11 +128,11 @@ Item | Relevant section of the Regulation | Short description of the relevant du
 
 49 | 132 | Approved trustee to check calculations of mandatory contribution | 10000 | 20000 | 50000
 
-50 | 133 | Approved trustee to notify defaulters of failure to pay contributions | 10000 | 20000 | 50000
+50-51 (Repealed 1 of 2008 s. 69)
 
-51 | 134 | Requirements with respect to payment of contribution surcharge by participating employer and self-employed person | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
+52 | 135 | Approved trustee to inform Authority of failure to pay mandatory contribution (1 of 2008 s. 69) | 10000 | 20000 | 50000
 
-52 | 135 | Approved trustee to inform Authority of non-payment or discrepancy of mandatory contribution | 10000 | 20000 | 50000
+52A | 135A | Approved trustee to take actions required by Authority (1 of 2008 s. 69) | 10000 | 20000 | 50000
 
 53 | 136(5) | Approved trustee to inform Authority of non-payment of arrears and contribution surcharge (2 of 2002 s. 21) | 10000 | 20000 | 50000
 
@@ -176,7 +178,11 @@ Item | Relevant section of the Regulation | Short description of the relevant du
 
 73 | 171 | Duty of approved trustee if claimant of accrued benefits cannot subsequently be located | 10000 | 20000 | 50000
 
-74 | 172 | Approved trustee to notify scheme members of entitlement | 10000 | 20000 | 50000
+74 | 172 | Duty of approved trustee to notify scheme member who has reached retirement age of his entitlement (1 of 2008 s. 34) | 10000 | 20000 | 50000
+
+74A | 172A | Duty of approved trustee when scheme member whose accrued benefits are retained in a scheme cannot be located (1 of 2008 s. 34) | 10000 | 20000 | 50000
+
+74B | 172B | Approved trustee to submit to Authority particulars of scheme members who have unclaimed benefits (1 of 2008 s. 34) | 10000 | 20000 | 50000
 
 75 | 173 | Requirements with respect to disposal of unclaimed benefits in employer sponsored scheme | 10000 | 20000 | 50000
 
