@@ -41,6 +41,12 @@ s-039.md
 s-040.md
 s-041.md
 s-042.md
+s-042A.md
+s-042B.md
+s-042C.md
+s-042D.md
+s-042E.md
+s-042F.md
 s-043.md
 s-044.md
 s-045.md
@@ -212,6 +218,7 @@ s-203.md
 s-204.md
 s-205.md
 s-206.md
+s-207.md
 sch-1.md
 sch-2.md
 sch-3.md

@@ -10,6 +10,14 @@ Item | Relevant section of the Ordinance | Short description of the relevant dut
 
 1 | 7A(8) | Participating employer to pay contribution | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
+1A | 7AA | Employer to pay contributions to Authority (18 of 2008 s. 25) | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
+
+1B | 7AB | Employer to provide statements (18 of 2008 s. 25) | 10000 | 20000 | 50000
+
+1C | 7AD(1) | Approved trustee to check calculations of contributions (18 of 2008 s. 25) | 10000 | 20000 | 50000
+
+1D | 7AD(2) | Approved trustee to take actions required by Authority (18 of 2008 s. 25) | 10000 | 20000 | 50000
+
 2 | 7C(1)(b) | Self-employed person to pay contribution | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
 2A | 18(2) | Requirement to pay contribution surcharge (1 of 2008 s. 69) | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
@@ -36,13 +44,13 @@ Item | Relevant section of the Ordinance | Short description of the relevant dut
 
 Item | Relevant section of the Regulation | Short description of the relevant duty or requirement | Amount of financial penalty for first failure $ | Amount of financial penalty for second failure $ | Amount of financial penalty for third or subsequent failure $
 
-5 | 28 | Authority’s prior consent on appointment of officer of approved trustee that is a company | 10000 | 20000 | 50000
+5 | (Repealed 18 of 2008 s. 34)
 
 6 | 29 | Maintenance of adequate insurance | 10000 | 20000 | 50000
 
 7 | 31 | Non-refusal of scheme applicants | 10000 | 20000 | 50000
 
-8 | 32 | Acceptance of contributions and accrued benefits being transferred | 10000 | 20000 | 50000
+8 | 32 | Acceptance of contributions etc. (18 of 2008 s. 25) | 10000 | 20000 | 50000
 
 9 | 33(1) and (3) | Requirements with respect to voluntary contributions | 10000 | 20000 | 50000
 
@@ -51,6 +59,34 @@ Item | Relevant section of the Regulation | Short description of the relevant du
 11 | 35 | Requirements with respect to charging of fees on transfer of accrued benefits in certain circumstances | 10000 | 20000 | 50000
 
 12 | 37 | Requirements in respect of capital preservation fund | 10000 | 20000 | 50000
+
+12A | 42B(1) | Approved trustee to obtain Authority’s consent to appointment of officer (18 of 2008 s. 34) | 10000 | 20000 | 50000
+
+12B | 42B(5) | Approved trustee to terminate appointment of officer (18 of 2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to terminate the appointment continues
+
+12C | 42B(6) | Approved trustee to apply for consent to appointment of replacement director (18 of 2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to make an application for consent continues after the expiry of the 30 day period
+
+12D | 42B(7) | Approved trustee to apply for consent to appointment of replacement chief executive officer (18 of 2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to make an application for consent continues after the expiry of the 30 day period
+
+12E | 42C(1) | Authority’s consent required in respect of person proposing to become shadow director (18 of 2008 s. 34) | 10000 | 20000 | 50000
+
+12F | 42C(5) | Shadow director not to give instructions to directors of approved trustee (18 of 2008 s. 34) | 10000 | 20000 | 50000
+
+12G | 42C(6) | Director to notify Authority of contravention of section 42C(5) (18 of 2008 s. 34) | 10000 | 20000 | 50000
+
+12H | 42D(1) | Authority’s consent required in respect of person proposing to become substantial shareholder (18 of 2008 s. 34) | 10000 | 20000 | 50000
+
+12I | 42D(2) | Substantial shareholder who has contravened section 42D(1) to notify approved trustee and Authority (18 of 2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to serve the required notice continues after the expiry of the 3 day period
+
+12J | 42D(3) | Approved trustee to apply for Authority’s consent in respect of person who has become substantial shareholder without Authority’s prior consent (18 of 2008 s. 34) | 10000 | 20000 | 50000
+
+12K | 42D(7) | Substantial shareholder not to exercise voting right (18 of 2008 s. 34) | 10000 | 20000 | 50000
+
+12L | 42E(7) | Approved trustee to terminate appointment of officer (18 of 2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to terminate the appointment of the officer continues
+
+12M | 42E(9) | Shadow director not to give instructions to directors of approved trustee (18 of 2008 s. 34) | 10000 | 20000 | 50000
+
+12N | 42E(10) | Director to notify Authority of contravention of section 42E(9) (18 of 2008 s. 34) | 10000 | 20000 | 50000
 
 13 | 53(2) | Duty of approved trustee with respect to investing in financial futures contracts and financial option contracts | 10000 | 20000 | 50000
 

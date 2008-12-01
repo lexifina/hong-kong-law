@@ -32,6 +32,11 @@ s-006V.md
 s-006W.md
 s-007.md
 s-007A.md
+s-007AA.md
+s-007AB.md
+s-007AC.md
+s-007AD.md
+s-007AE.md
 s-007B.md
 s-007C.md
 s-007D.md
@@ -103,9 +108,11 @@ s-042B.md
 s-043.md
 s-043A.md
 s-043B.md
+s-043BA.md
 s-043C.md
 s-043D.md
 s-043E.md
+s-043F.md
 s-044.md
 s-045.md
 s-045A.md
