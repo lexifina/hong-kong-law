@@ -1,22 +1,16 @@
 # SCHEDULE 2
 
-[ss. 3(2) & 4(2)]
+[s. 3(2)] (L.N. 218 of 2008)
 
-ANNUAL LICENCE FEE FOR DOMESTIC PAY TELEVISION PROGRAMME SERVICE LICENCE OR DEEMED DOMESTIC PAY TELEVISION PROGRAMME SERVICE LICENCE
+ANNUAL LICENCE FEE FOR DOMESTIC PAY TELEVISION PROGRAMME SERVICE LICENCE*
 
 - 1. Interpretation In this Schedule—
 
-  - “licence” (牌照) means—
+  - “licence” (牌照) means a domestic pay television programme service licence;
 
-    - (a) a domestic pay television programme service licence; or
+  - “specified day” (指明日期) means, in relation to a licence, the day the licence comes into force.
 
-    - (b) a deemed domestic pay television programme service licence;
-
-  - “specified day” (指明日期) means—
-
-    - (a) in relation to a domestic pay television programme service licence, the day the licence comes into force; or
-
-    - (b) in relation to a deemed domestic pay television programme service licence, 7 July 2001.
+- (L.N. 218 of 2008)
 
 - 2. Annual licence fee
 
@@ -45,3 +39,7 @@ ANNUAL LICENCE FEE FOR DOMESTIC PAY TELEVISION PROGRAMME SERVICE LICENCE OR DEEM
     - (a) the specified day; and
 
     - (b) each anniversary of the specified day.
+
+Editorial Note:
+
+* (Amended L.N. 218 of 2008)

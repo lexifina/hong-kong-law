@@ -18,7 +18,7 @@ ANNUAL LICENCE FEES FOR TYPE A AND TYPE B OTHER LICENSABLE TELEVISION PROGRAMME 
 
 - television programme service licence The annual licence fee payable for a type A other licensable television programme service licence consists of the following—
 
-  - (a) a fixed fee of $171,200; and (L.N. 98 of 2006)
+  - (a) a fixed fee of $73,500; and (L.N. 98 of 2006; L.N. 218 of 2008)
 
   - (b) a variable fee calculated by multiplying $4 with the number of subscribers (if any) to the television programme service provided under the licence—
 

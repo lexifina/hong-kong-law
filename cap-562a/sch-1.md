@@ -1,43 +1,59 @@
 # SCHEDULE 1
 
-[ss. 3(1) & 4(1)]
+[s. 3(1)]
 
-ANNUAL LICENCE FEE FOR DOMESTIC FREE TELEVISION PROGRAMME SERVICE LICENCE OR DEEMED DOMESTIC FREE TELEVISION PROGRAMME SERVICE LICENCE
+ANNUAL LICENCE FEE FOR DOMESTIC FREE TELEVISION PROGRAMME SERVICE LICENCE
 
 - 1. Interpretation In this Schedule—
 
-  - “licence” (牌照) means—
+  - “licence” (牌照) means a domestic free television programme service licence;
 
-    - (a) a domestic free television programme service licence; or
+  - “licence year” (牌照年度) means, in relation to a licence—
 
-    - (b) a deemed domestic free television programme service licence;
+    - (a) the period commencing on the specified day and expiring at the end of the day immediately before the first anniversary of the specified day; or
 
-  - “specified day” (指明日期) means—
+    - (b) the period commencing on an anniversary of the specified day and expiring at the end of the day immediately before the next anniversary of the specified day;
 
-    - (a) in relation to a domestic free television programme service licence, the day the licence comes into force; or
+  - “programme time” (節目時間) means, in relation to a licence, the duration of a television programme included in a television programme service broadcast under the licence;
 
-    - (b) in relation to a deemed domestic free television programme service licence, 7 July 2001.
+  - “specified day” (指明日期) means, in relation to a licence, the day the licence comes into force.
 
 - 2. Annual licence fee
 
-  - (1) Subject to subsection (2), the annual licence fee payable for a licence consists of the following—
+  - (1) The annual licence fee for a licence is payable in respect of a licence year and consists of the following—
 
-    - (a) a fixed fee of $4,308,900; and (L.N. 98 of 2006)
+    - (a) a fixed fee of $4,701,400; and
 
-    - (b) a variable fee calculated by multiplying $1,421,600 with the number of television programme service channels (if any) provided under the licence— (L.N. 98 of 2006)
+    - (b) a variable fee calculated at the rates specified in section 4 and on the basis of the aggregate programme time of the television programmes broadcast in the licence year.
 
-      - (i) for the first annual licence fee, on the specified day; and
+  - (2) The fixed fee is to be calculated on a pro rata basis if before the end of a licence year—
 
-      - (ii) for any subsequent annual licence fee, on each anniversary of the specified day.
+    - (a) the licence is surrendered or revoked; or
 
-  - (2) If the remaining period of validity of a licence immediately after any anniversary of the specified day is less than 1 year, then the annual licence fee payable for the remaining period shall be calculated on a pro rata basis.
+    - (b) the period of validity of the licence expires.
 
-- 3.
+- 3. Time and manner of payment
 
-- Time of payment
+  - (1) The holder of a licence shall pay to the Director of Accounting Services the fixed fee not later than 14 days after the commencement of a licence year.
 
-- The annual licence fee shall be payable not later than 14 days after—
+  - (2) The holder of a licence shall, in respect of a licence year, pay to the Director of Accounting Services a provisional amount of the variable fee not later than 60 days after the commencement of the licence year.
 
-  - (a) the specified day; and
+  - (3) The provisional amount is to be calculated at the rates specified in section 4—
 
-  - (b) each anniversary of the specified day.
+    - (a) in relation to a licence year commencing on the specified day, on the basis of the estimated aggregate programme time of the television programmes to be broadcast in the licence year as recorded in the licence; and
+
+    - (b) in relation to a licence year commencing on an anniversary of the specified day, on the basis of the aggregate programme time of the television programmes broadcast in the preceding licence year.
+
+  - (4) If a television programme service, television programme or any part of a television programme service or television programme is approved or directed by the Broadcasting Authority to be simulcast in both analogue and digital formats, the programme time is to be calculated only by reference to the duration of the television programme or the part of the programme broadcast in digital format.
+
+  - (5) If in respect of a licence year the variable fee payable for a licence exceeds the provisional amount paid for the licence, the holder of the licence shall, on demand by the Director of Accounting Services, pay the difference to the Director of Accounting Services.
+
+  - (6) If in respect of a licence year the provisional amount paid for a licence exceeds the variable fee payable for the licence, the Director of Accounting Services shall pay the difference to the holder of the licence.
+
+- 4. Rates of variable fee The rates specified for the purposes of sections 2(1)(b) and 3(3) are as follows—
+
+  - (a) for the first 17000 hours of programme time: $13,200 for every 100 hours or any part of those 100 hours; and
+
+  - (b) for the programme time after those 17000 hours: $1,630 for every 100 hours or any part of those 100 hours.
+
+- (Schedule 1 replaced L.N. 218 of 2008)
