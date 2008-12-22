@@ -57,3 +57,5 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 25. | (Addition not yet in operation—see L.N. 65 of 2004)
 
 26. | Mui Wo Temporary Public Fill Reception Facility | Mui Wo Ferry Pier Road, Mui Wo, Lantau, N.T. | Plan number P 20332-8 (L.N. 165 of 2004)
+
+27. | Chai Wan Public Fill Barging Point | 11 Ka Yip Street, Chai Wan, Hong Kong. | Plan number FM 10019-32 (L.N. 231 of 2008)

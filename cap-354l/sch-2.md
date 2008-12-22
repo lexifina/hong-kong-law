@@ -12,7 +12,7 @@ Item | Designated waste disposal facility | Type of construction waste accepted
 
 3. | Sorting facilities specified in items 19 and 20 of Schedule 1 | Construction waste containing more than 50% by weight of inert construction waste.
 
-4. | Public fill reception facilities specified in items 21, 22, 23*, 24, 25* and 26 of Schedule 1 | Construction waste consisting entirely of inert construction waste.
+4. | Public fill reception facilities specified in items 21, 22, 23*, 24, 25*, 26 and 27 of Schedule 1 (L.N. 231 of 2008) | Construction waste consisting entirely of inert construction waste.
 
 (Schedule 2 added L.N. 165 of 2004)
 
