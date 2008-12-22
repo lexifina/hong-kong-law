@@ -22,6 +22,8 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 6. | Mui Wo Temporary Public Fill Reception Facility | Mui Wo Ferry Pier Road, Mui Wo, Lantau, N.T. | Plan number P 20332-8
 
+7. | Chai Wan Public Fill Barging Point | 11 Ka Yip Street, Chai Wan, Hong Kong. | Plan number FM 10019-32 (L.N. 232 of 2008)
+
 - PART 2 PUBLIC FILL CHARGE
 
 - The public fill charge payable in respect of each load of construction waste delivered to a public fill reception facility for disposal is calculated as follows—
