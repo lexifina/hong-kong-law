@@ -16,7 +16,7 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 [3. | Sai Ying Pun Temporary Public Filling Barging Point | Eastern Street North, Sai Ying Pun, Hong Kong. | Plan number P 20332-5]
 
-4. | Quarry Bay Temporary Public Filling Barging Point | Hoi Yu Street, Quarry Bay, Hong Kong. | Plan number P 20332-6
+4. | (Repealed L.N. 232 of 2008)
 
 [5. | Kai Tak Temporary Public Filling Barging Point | Middle of the Former Kai Tak Runway, adjacent to the Taxiway Bridge, Kowloon City, Kowloon. | Plan number P 20332-7]
 
