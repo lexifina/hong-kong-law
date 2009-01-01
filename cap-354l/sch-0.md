@@ -52,7 +52,7 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 
 23. | (Addition not yet in operation—see L.N. 65 of 2004)
 
-24. | Quarry Bay Temporary Public Filling Barging Point | Hoi Yu Street, Quarry Bay, Hong Kong. | Plan number P 20332-6 (L.N. 165 of 2004)
+24. | (Repealed L.N. 231 of 2008)
 
 25. | (Addition not yet in operation—see L.N. 65 of 2004)
 
