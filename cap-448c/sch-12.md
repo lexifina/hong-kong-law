@@ -1,18 +1,24 @@
-# SCHEDULE 12 DOCUMENTS TO BE CARRIED BY AIRCRAFT REGISTERED IN HONG KONG
+# SCHEDULE 12
 
 Articles 57 and 59
 
+DOCUMENTS TO BE CARRIED BY AIRCRAFT REGISTERED IN HONG KONG
+
 On a flight for the purpose of public transport:
 
-Documents A, B, C, D, E, F, H and, if the flight is external air navigation, Document G.
+Documents A, B, C, D, E, F, H and, if the flight is external air navigation, Documents G, I and K. (L.N. 77 of 2008)
 
 On a flight for the purpose of aerial work:
 
-Documents A, B, C, E, F and, if the flight is external air navigation, Document G.
+Documents A, B, C, E, F and, if the flight is external air navigation, Documents G, I and K. (L.N. 77 of 2008)
 
-On a flight, being external air navigation for a purpose other than public transport of aerial work:
+On a private flight, being external air navigation:
 
-Documents A, B, C and G.
+Documents A, B, C, G and I. (L.N. 77 of 2008)
+
+On a flight made in accordance with the terms of a permission granted to the operator of the aircraft under Article 14A of this Order:
+
+Document J. (L.N. 77 of 2008)
 
 For the purposes of this Schedule:
 
@@ -24,7 +30,7 @@ For the purposes of this Schedule:
 
     - (i) the information shown in the Limitations and Emergency Procedures section of the flight manual; and
 
-  - (ii) performance instructions which are derived from the material contained in the performance section of the flight manual.
+    - (ii) performance instructions which are derived from the material contained in the performance section of the flight manual.
 
 - “C” means the licences of the members of the flight crew of the aircraft;
 
@@ -38,6 +44,12 @@ For the purposes of this Schedule:
 
 - “G” means the certificate of registration in force in respect of the aircraft;
 
-- “H” means the operations manual, if any, required by Article 25(2)(a)(iii) of this Order to be carried out on the flight;
+- “H” means those parts of the operations manual, if any, required by Article 25(2)(a)(iii) of this Order to be carried on the flight; (L.N. 77 of 2008)
+
+- “I” means a copy of the notified procedures to be followed by the pilot in command of an intercepted aircraft, and the notified visual signals for use by intercepting and intercepted aircraft; (L.N. 77 of 2008)
+
+- “J” means the permission, if any, granted in respect of the relevant aircraft under Article 14A of this Order; (L.N. 77 of 2008)
+
+- “K” means a certified true copy of the air operator’s certificate (or its equivalent document) in force in respect of the operator together with a copy of the authorizations, conditions and limitations relevant to the type of the aircraft and issued in conjunction with the air operator’s certificate (or its equivalent document). (L.N. 77 of 2008)
 
 (36 of 1999 s. 3)

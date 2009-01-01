@@ -1,8 +1,8 @@
 # Schedule 13
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2; 36 of 1999 s. 3)
+Article 91
 
-- Article 91 PART A-PROVISIONS REFERRED TO IN ARTICLE 91(5)
+PART A—Provisions Referred to in Article 91(5)
 
 Article of Order | Subject Matter
 
@@ -18,9 +18,13 @@ Article of Order | Subject Matter
 
 11 | Flight without a certificate of release to service
 
+12(7) and (8) | Exercise of privilege of aircraft maintenance licence whilst unfit
+
 13 | Flight without required equipment
 
 14 | Flight without required radio equipment
+
+14A | Minimum equipment requirements
 
 15 | Failure to keep log book
 
@@ -28,7 +32,7 @@ Article of Order | Subject Matter
 
 18 | Crew requirement
 
-19 | Requirement for appropriate licence
+19 | Flight crew—requirement of licences
 
 20(4) and (5) | Requirement for appropriate certificates
 
@@ -56,17 +60,27 @@ Article of Order | Subject Matter
 
 31A | Non-public transport aircraft-aerodrome operating minima
 
-32 | Pre-flight action by commander of aircraft
+32 | Pre-flight action by pilot in command of aircraft
 
 33 | Requirement for pilot to remain at controls
 
-34 | Duties of commander on flight for public transport of passengers
+34 | Duties of pilot in command on flight for public transport of passengers
 
 35 | Requirements for radio station in aircraft to be licensed and for operation of same
 
 36 | Requirements for minimum navigation performance system
 
+36A | Requirement for area navigation and required navigation performance capabilities—aircraft registered in Hong Kong
+
+36B | Requirement for area navigation and required navigation performance capabilities—aircraft registered outside Hong Kong
+
+36C | Requirement for maintaining height keeping performance capabilities—aircraft registered in Hong Kong
+
+36D | Requirement for maintaining height keeping performance capabilities—aircraft registered outside Hong Kong
+
 37 | Use of flight recorders and preservation of records
+
+37A | Requirement for use of airborne collision avoidance system
 
 38 | Towing of gliders
 
@@ -82,7 +96,7 @@ Article of Order | Subject Matter
 
 50 | Prohibition of smoking in aircraft
 
-51 | Requirement to obey lawful commands of aircraft commander
+51 | Requirement to obey lawful commands of pilot in command of aircraft
 
 52 | Prohibition of stowaways
 
@@ -94,9 +108,9 @@ Article of Order | Subject Matter
 
 64(2) | Breach of Rules of the Air
 
-66 (except (4)) | Requirement for licensing of air traffic controllers and aerodrome flight information service officers
+66 | Requirement for licensing of air traffic controllers
 
-67 | Requirement for aerodrome information service manual
+67 | Manual of Air Traffic Control
 
 69 | Flight in contravention of restriction of flying regulations
 
@@ -122,7 +136,7 @@ Article of Order | Subject Matter
 
 89 | Obstruction of persons performing duties under Order
 
-PART B-PROVISIONS REFERRED TO IN ARTICLE 91(6)
+PART B—Provisions Referred to in Article 91(6)
 
 Article of Order | Subject Matter
 
@@ -138,7 +152,7 @@ Article of Order | Subject Matter
 
 48 | Endangering safety of persons or property
 
-49 | Prohibition of drunkenness in aircraft
+49 | Passengers and crew members not to be under influence of psychoactive substances
 
 54(1) | Operator’s obligations to regulate flight times of flight crew
 
@@ -152,10 +166,10 @@ Article of Order | Subject Matter
 
 84 | Restriction of flights for aerial photography and survey by aircraft registered outside Hong Kong
 
-85 | Operator’s or commanders’ obligations in respect of flights over any place outside Hong Kong
+85 | Operator’s or pilot in command’s obligations in respect of flights over any place outside Hong Kong
 
 86(4) | Making false reports
 
 87 | Flight in contravention of direction not to fly
 
-(23 of 1998 s. 2; 36 of 1999 s. 3)
+(23 of 1998 s. 2; 36 of 1999 s. 3; L.N. 77 of 2008)

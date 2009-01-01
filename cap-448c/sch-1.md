@@ -1,495 +1,3 @@
-## PART X GENERAL
-
-83. Deleted.
-
-84. Restriction with respect to aerial photography and survey from aircraft registered outside Hong Kong
-
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2; 36 of 1999 s. 3)
-
-- (1) An aircraft registered in a Contracting State other than Hong Kong, or in a place outside Hong Kong, shall not fly over Hong Kong for the purpose of aerial photography or aerial survey (whether or not hire or reward is given or promised in respect of the flight or the purpose of the flight) or for the purpose of any other form of aerial work except with the permission of the Chief Executive granted under this Article to the operator or the charterer of the aircraft and in accordance with any conditions to which such permission may be subject. (23 of 1998 s. 2; 36 of 1999 s. 3)
-
-- (2) Without prejudice to the provisions of paragraph (1) of this Article, any breach by a person to whom a permission has been granted under this Article of any condition to which that permission was subject shall constitute a contravention of this Article.
-
-85. Flights over any place outside Hong Kong
-
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2)
-
-- (1) The operator or commander of an aircraft registered in Hong Kong (or, if the operator’s principal place of business or permanent residence is in Hong Kong, any other aircraft) which is being flown over any place outside Hong Kong shall not allow that aircraft to be used for a purpose which is prejudicial to the security, public order or public health of, or to the safety of air navigation in relation to, that place. (23 of 1998 s. 2)
-
-- (2) A person does not contravene paragraph (1) of this Article if he neither knew nor suspected that the aircraft was being or was to be used for a purpose referred to in paragraph (1).
-
-- (3) The operator or commander of an aircraft registered in Hong Kong (or, if the operator’s principal place of business or permanent residence is in Hong Kong, any other aircraft) which is being flown over any place outside Hong Kong shall comply with any directions given by the appropriate aeronautical authorities of that place whenever—
-
-  - (a) the flight has not been duly authorized; or
-
-  - (b) there are reasonable grounds for the appropriate aeronautical authorities to believe that the aircraft is being or will be used for a purpose which is prejudicial to the security, public order or public health of, or to the safety of air navigation in relation to, that place;
-
-- unless the lives of person on board or the safety of the aircraft would thereby be endangered. (23 of 1998 s. 2)
-
-- (4) A person does not contravene paragraph (3) of this Article if he neither knew nor suspected that directions were being given by the appropriate aeronautical authorities.
-
-- (5) The requirements in paragraph (3) of this Article is without prejudice to any other requirement to comply with directions of an aeronautical authority.
-
-- (6)
-
-  - In this Article “appropriate aeronautical authorities” includes any person, whether a member of military or civil authorities of a place outside Hong Kong, authorized under the law of that place to issue directions to aircraft flying over that place. (23 of 1998 s. 2)
-
-86. Mandatory reporting
-
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
-- (1) Subject to the provisions of this Article, every person who—
-
-  - (a) is the operator or the commander of a public transport aircraft which is registered in Hong Kong and has a maximum total weight authorized of more than 2300 kg; or
-
-  - (b) carries on the business of manufacturing, repairing or overhauling such an aircraft, or any equipment or part thereof; or
-
-  - (c) signs a certificate of maintenance review, or of release to service in respect of such an aircraft, part or equipment; or
-
-  - (d) performs a function for which he requires an air traffic controller’s licence; or
-
-  - (e) is the licensee or manager of a licensed aerodrome,
-
-- shall—
-
-  - (i) make a report to the Chief Executive of any reportable occurrence of which he knows and which is of such a description as is specified in Regulation 16 in Schedule 15 to this Order. The report shall be made within such time, by such means, and shall contain such information as is so specified and it shall be presented in such form as the Chief Executive may in any particular case approve, and
-
-  - (ii) make a report to the Chief Executive, within such time, by such means, and containing such information as the Chief Executive may specify in a notice in writing served upon him, being information which is in his possession or control and which relates to a reportable occurrence which has been reported by him or by another person to the Chief Executive in accordance with this Article.
-
-- (2)
-
-  - In this Article “reportable occurrence” means—
-
-    - (a) any incident relating to such an aircraft or any defect in or malfunctioning of such an aircraft or any part or equipment of such an aircraft, being an incident, malfunctioning or defect endangering, or which if not corrected would endanger, the aircraft, its occupants, or any other person; and
-
-    - (b) any defect in or malfunctioning of any facility on the ground used or intended to be used for purposes of or in connection with the operation of such an aircraft, being a defect or malfunctioning endangering, or which if not corrected would endanger, such an aircraft or its occupants:
-
-    - Provided that any accident notified to the Chief Executive in pursuance of regulations made under the Hong Kong Civil Aviation (Investigation of Accidents) Regulations 1983, as amended, shall not consititute a reportable occurrence for the purposes of this Article.
-
-- (3) Subject to paragraph (1)(ii) of this Article, nothing in this Article shall require a person to report any occurrence which he has reason to believe has been or will be reported by another person to the Chief Executive in accordance with this Article.
-
-- (4) A person shall not make any report under this Article if he knows or has reason to believe that the report is false in any particular.
-
-- (5) Without prejudice to Article 37(2), (4) and (5) and subject to the provisions of Article 61 of this Order, the operator of an aircraft shall, if he has reason to believe that a report has been or will be made in pursuance of this Article, preserve any data from a flight data recorder or a combined cockpit voice recorder/flight data recorder relevant to the reportable occurrence for fourteen days from the date on which a report of that occurrence is made to the Chief Executive or for such longer period as the Chief Executive may in a particular case direct:
-
-  - Provided that the record may be erased if the aircraft is outside Hong Kong and it is not reasonably practicable to preserve the record until the aircraft reaches Hong Kong.
-
-(36 of 1999 s. 3)
-
-87. Power to prevent aircraft flying
-
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
-- (1) If it appears to the Chief Executive or an authorized person that any aircraft is intended or likely to be flown—
-
-  - (a) in such circumstances that any provision of Article 3, 5, 6, 7, 18, 19, 28, 37, 43 or 44 of this Order would be contravened in relation to the flight; or
-
-  - (b) in such circumstances that the flight would be in contravention of any other provision of this Order or any regulations made thereunder and be a cause of danger to any person or property whether or not in the aircraft; or
-
-  - (c) while in a condition unfit for the flight, whether or not the flight would otherwise be incontravention of any provision of this Order or of any regulation made thereunder,
-
-- the Chief Executive or that authorized person may direct the operator or the commander of the aircraft that he is not to permit the aircraft to make the particular flight or any other flight of such description as may be specified in the direction, until the direction has been revoked by the Chief Executive or by an authorized person, and the Chief Executive or that authorized person may take such steps as are necessary to detain the aircraft.
-
-- (2) For the purposes of paragraph (1) of this Article the Chief Executive or any authorized person may enter upon and inspect any aircraft.
-
-- (3) If it appears to the Chief Executive or an authorized person that any aircraft is intended or likely to be flown in such circumstances that any provision of Article 84 or 85 of this Order or any provision relating to the licensing of air transport in Hong Kong would be contravened in relation to the flight, the Chief Executive or that authorized person may direct the operator or the commander of the aircraft that he is not to permit the aircraft to make the particular flight or any other flight of such description as may be specified in the direction until the direction has been revoked by the Chief Executive or by an authorized person, and the Chief Executive or any authorized person may take such steps as are necessary to detain the aircraft.
-
-- (4) For the purposes of paragraph (3) of this Article the Chief Executive or any authorized person may enter upon any aerodrome and may enter upon and inspect any aircraft.
-
-(36 of 1999 s. 3)
-
-88. Right of access to aerodromes and other places
-
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
-The Chief Executive and any authorized person shall have the right of access at all reasonable times— (36 of 1999 s. 3)
-
-- (a) to any aerodrome, for the purpose of inspecting the aerodrome, or
-
-- (b) to any aerodrome for the purpose of inspecting any aircraft on the aerodrome or any document which he has power to demand under this Order, or for the purpose of detaining any aircraft under the provisions of this Order; and
-
-- (c) to any place where an aircraft has landed, for the purpose of inspecting the aircraft or any document which he has power to demand under this Order and for the purpose of detaining the aircraft under the provisions of this Order:
-
-  - Provided that access to a Government aerodrome shall only be obtained with the permission of the person in charge of the aerodrome.
-
-89. Obstruction of persons A person shall not intentionally obstruct or impede any person acting in the exercise of his powers or the performance of his duties under this Order.
-
-90. Enforcement of directions Any person who without reasonable excuse fails to comply with any direction given to him under any provision of this Order or any regulations made thereunder shall be deemed for the purpose of this Order to have contravened that provision.
-
-91. Penalties
-
-- (1) If any provision of this Order or of any regulations made thereunder is contravened in relation to an aircraft, the operator of that aircraft and the commander thereof shall (without prejudice to the liability of any other person under this Order for that contravention) be deemed for the purposes of the following provisions to have contravened that provision unless he proves that the contravention occurred without his consent or connivance and that he exercised all due diligence to prevent the contravention.
-
-- (2) If it is proved that an act or omission of any person which would otherwise have been a contravention by that person of a provision of this Order or of any regulations made thereunder was due to any cause not avoidable by the exercise of reasonable care by that person the act or omission shall be deemed not to be a contravention by that person of that provision.
-
-- (3) Where a person is charged with contravening a provision of this Order or of any regulations made thereunder by reason of his having been a member of the flight crew of an aircraft on a flight for the purpose of public transport or aerial work the flight shall be treated (without prejudice to the liability of any other person under this Order) as not having been for that purpose if he proves that he neither knew nor suspected that the flight was for that purpose.
-
-- (4) If any person contravenes any provision of this Order, or of any regulations made thereunder, not being a provision referred to in paragraphs (5) or (6) of this Article, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding $2,500.
-
-- (5) If any person contravenes any provision specified in Part A of Schedule 13 to this Order he shall be guilty of an offence and liable on summary conviction to a fine not exceeding $5,000.
-
-- (6) If any person contravenes any provision specified in Part B of the said Schedule he shall be guilty of an offence and liable on summary conviction to a fine not exceeding $5,000 and on conviction on indictment to a fine or imprisonment for a term not exceeding two years or both.
-
-92. Extra-territorial effect of the Order
-
-(Adaptation amendments retroactively made - see 28 of 1998 s. 2)
-
-- (1) Except where the context otherwise requires, the provisions of this Order,
-
-  - (a) in so far as they apply (whether by express reference or otherwise) to aircraft registered in Hong Kong, shall apply to such aircraft wherever they may be;
-
-  - (b) in so far as they apply as aforesaid to other aircraft shall apply to such other aircraft when they are within Hong Kong;
-
-  - (c) in so far as they prohibit, require or regulate (whether by express reference or otherwise) the doing of anything by persons in, or by any of the crew of, any aircraft registered in Hong Kong, shall apply to such persons and crew, wherever they may be; and
-
-  - (d) in so far as they prohibit, require or regulate as aforesaid the doing of anything in relation to any aircraft registered in Hong Kong by other persons shall, where such persons are permanent residents of the Hong Kong Special Administrative Region or Chinese citizens, apply to them wherever they may be. (28 of 1998 s. 2)
-
-- (2) (Repealed 28 of 1998 s. 2)
-
-93. Application of Order to Chinese controlled aircraft not registered in Hong Kong
-
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
-The Chief Executive may direct that such of the provisions of this Order and of any regulations made or having effect thereunder as may be specified in the direction shall have effect as if reference in those provisions to aircraft registered in Hong Kong included references to the aircraft specified in the direction, being an aircraft not so registered but for the time being under the management of a person who, or of persons each of whom, is qualified to hold a legal or beneficial interest by way of ownership in an aircraft registered in Hong Kong.
-
-(36 of 1999 s. 3)
-
-94. Application of Order to the Crown and visiting forces etc.
-
-- (1) Subject to the following provisions of this Article, the provision of this Order shall apply to or in relation to aircraft belonging to or exclusively employed in the service of Her Majesty, as they apply to or in relation to other aircraft and for the purposes of such application the Department or other authority for the time being responsible on behalf of Her Majesty for the management of the aircraft shall be deemed to be the operator of the aircraft and in the case of an aircraft belonging to Her Majesty, to be the owner of the interest of Her Majesty in the aircraft:
-
-  - Provided that nothing in this Article shall render liable to any penalty any Department or other authority responsible on behalf of Her Majesty for the management of any aircraft.
-
-- (2) Save as otherwise expressly provided the naval, military and air force authorities and members of any visiting force and any international headquarters and the members thereof and property held or used for the purpose of such a force or headquarters shall be exempt from the provisions of this Order and of any regulations made thereunder to the same extent as if that force or headquarters formed part of the forces of Her Majesty raised in the United Kingdom and for the time being serving in Hong Kong.
-
-- (3) Save as otherwise provided by paragraph (4) of this Article, Article 78 of this Order and the Rules of the Air, nothing in this Order shall apply to or in relation to any military aircraft.
-
-- (4) Where a military aircraft is flown by a civilian pilot and is not commanded by a person who is acting in the course of his duty as a member of any of Her Majesty’s naval, military or air forces or as a member of a visiting force or international headquarters, the following provisions of this Order shall apply on the occasion of that flight, that is to say, Articles 47, 48, 49 and 69 and in addition Article 64 (so far as applicable) shall apply unless the aircraft is flown in compliance with Military Flying Regulations (Joint Service Publication 318) of Flying Orders to contractors (Aviation Publication 67) issued by the Secretary of State.
-
-95. Exemption from Order
-
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
-The Chief Executive may exempt from any of the provisions of this Order (other than Articles 84 and 96 thereof) or any regulations made thereunder, any aircraft or persons or classes of aircraft or persons, either absolutely or subject to such conditions as he thinks fit.
-
-(36 of 1999 s. 3)
-
-96. Appeal to High Court
-
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2; 36 of 1999 s. 3)
-
-- (1) An appeal shall lie to the Court of First Instance of Hong Kong from any decision of the Chief Executive that a person is not a fit person to hold a licence to act as an aircraft maintenance engineer, member of the flight crew of an aircraft, air traffic controller, student air traffic controller or aerodrome flight information service officer, and if the court is satisfied that on the evidence submitted to the Chief Executive he was wrong in so deciding, the court may reverse the Chief Executive’s decision and the Chief Executive shall give effect to the court’s determination: (25 of 1998 s. 2)
-
-  - Provided that an appeal shall not lie from a decision of the Chief Executive that a person is not qualified to hold the licence by reason of a deficiency in his knowledge, experience, competence, skill, physical or mental fitness.
-
-- (2) The respondent to any appeal under this Article shall be the Secretary for Justice of Hong Kong. (L.N. 362 of 1997)
-
-- (3) For the purposes of any provision relating to the time within which an appeal may be brought, the Chief Executive’s decision shall be deemed to have been taken on the date on which the Chief Executive furnished a statement of his reasons for the decision to the applicant for the licence, or as the case may be, the holder or former holder of it.
-
-(36 of 1999 s. 3)
-
-97. Regulations by the Chief Executive: Fees
-
-(Adaptation amendments retroactively made - see 36 of 1999 s. 3)
-
-- (1) The Chief Executive may make regulations for prescribing anything which, under the provisions of this Order, is to be prescribed.
-
-- (2) The Chief Executive may make regulations amending the Air Navigation (General) Regulations contained in Schedule 15 to this Order.
-
-- (3) Without prejudice to the generality of paragraph (1) of this Article, such regulations may prescribe the fees to be charged in connection with the issue, validation, renewal, extension or variation of any certificate, licence or other document (including the issue of a copy thereof), or the undergoing of any examination, test, inspection or investigation or the grant of any permission or approval, required by, or for the purpose of, this Order or any regulations made thereunder.
-
-- (4)
-
-- Upon an application being made in connection with which any fee is chargeable in accordance with the said provisions the applicant may be required before the application is entertained to pay the whole or to deposit a portion of the fee or fees so chargeable. If, after such payment or deposit has been made, the application is withdrawn by the applicant or otherwise ceases to have effect or is refused by the Chief Executive, the Chief Executive may, subject as hereinafter provided, refund the amount of such payment or deposit. Where the amount paid or deposited is wholly or to any extent attributable to a fee chargeable in respect of an investigation which would have been carried out in connection with the application if it had not been so withdrawn or ceased to have effect or been refused but which has not been carried out by reason only of such withdrawal, cesser or refusal, the Chief Executive may refund the amount so attributable or, in a case where an investigation has been partially completed, so much of that amount as in the opinion of the Chief Executive is reasonable having regard to the stage to which the investigation has progressed at the time of such withdrawal, cesser or refusal:
-
-  - Provided that, if in any case the amount deposited by the applicant is not sufficient to cover the fee, as ultimately assessed, chargeable in respect of any investigation in so far as the same has been carried out at the time when the application is withdrawn by him or otherwise ceases to have effect or is refused by the Chief Executive the amount representing the balance of such fee shall be payable by the applicant.
-
-  - In this paragraph the expression “investigation” includes an inspection, examination, calculation or test.
-
-(36 of 1999 s. 3)
-
-98. Interpretation
-
-(Adaptation amendments retroactively made - see 28 of 1998 s. 2; 36 of 1999 s. 3)
-
-- (1) In this Order, unless the context otherwise requires—
-
-  - “Aerial work” means any purpose (other than public transport) for which an aircraft is flown if hire or reward is given or promised in respect of the flight or the purpose of the flight;
-
-  - “Aerial work aircraft” means an aircraft (other than a public transport aircraft) flying, or intended by the operator to fly, for the purpose of aerial work;
-
-  - “Aerial work undertaking” means an undertaking whose business includes the performance of aerial work;
-
-  - “Aerobatic manoeuvres” includes loops, spins, rolls, bunts, stall turns, inverted flying and any other similar manoeuvre;
-
-  - “Aerodrome flight information unit” means a person appointed by the Chief Executive or by any other person maintaining an aerodrome to give information by means of radio signals to aircraft flying or intending to fly within the aerodrome traffic zone of that aerodrome and “aerodrome flight information service” shall be construed accordingly; (36 of 1999 s. 3)
-
-  - “Aerodrome operating minima” in relation to the operation of an aircraft at an aerodrome means the cloud ceiling and runway visual range for take-off, and the decision height or minimum descent height, runway visual range and visual reference for landing, which are the minima for the operation of that aircraft at that aerodrome;
-
-  - “Aerodrome traffic zone” means the airspace:
-
-    - (a) which is in the vicinity of an aerodrome which is notified for the purposes of Rule 35 of Schedule 14 to this Order; and
-
-    - (b) which in relation to such an aerodrome:
-
-      - (i) at which the length of the longest runway is notified as 1850 metres or less, extends from the surface to a height of 2000 feet above the level of the aerodrome within the area bounded by the circle centred on the notified mid-point of the longest runway and having a radius of 2 nautical miles:
-
-        - Provided that where such an aerodrome traffic zone would extend less than 1 1/2 nautical miles beyond the end of any runway at the aerodrome and this proviso is notified as being applicable, sub-paragraph (ii) hereof shall apply as though the length of the longest runway is notified as greater than 1850 metres;
-
-      - (ii) at which the length of the longest runway is notified as greater than 1850 metres, the airspace extends from the surface to a height of 2000 feet above the level of the aerodrome within the area bounded by a circle centred on the notified mid-point of the longest runway and having a radius of 2 1/2 nautical miles;
-
-  - except any part of that airspace which is within the aerodrome traffic zone of another aerodrome which is notified for the purposes of this Order as being the controlling aerodrome;
-
-  - “Aeronautical beacon” means an aeronautical ground light which is visible either continuously or intermittently to designate a particular point on the surface of the earth;
-
-  - “Aeronautical ground light” means any light specifically provided as an aid to air navigation, other than a light displayed on an aircraft;
-
-  - “Aeronautical radio station” means a radio station on the surface, which transmits or receives signals for the purpose of assisting aircraft;
-
-  - “Air traffic control unit” means a person appointed by the Chief Executive or by any other person maintaining an aerodrome or place to give instructions or advice or both instructions and advice by means of radio signals to aircraft in the interests of safety but does not include a person so appointed solely to give information to aircraft, and “Air traffic control service” shall be construed accordingly; (36 of 1999 s. 3)
-
-  - “Air traffic service” shall include an air traffic control service and flight information service;
-
-  - “Air transport undertaking” means an undertaking whose business includes the carriage by air of passengers or cargo for hire or reward;
-
-  - “Approach to landing” means that portion of the flight of the aircraft, when approaching to land, in which it is descending below a height of 1000 feet above the relevant specified decision height or minimum descent height;
-
-  - “Appropriate aeronautical radio station” means in relation to an aircraft an aeronautical radio station serving the area in which the aircraft is for the time being;
-
-  - “Appropriate air traffic control unit” means in relation to an aircraft the air traffic control unit serving the area in which the aircraft is for the time being or the air traffic control unit serving the area in which the aircraft intends to enter and with which unit the aircraft is required to communicate prior to entering that area, as the case may be;
-
-  - “Authorized person” means any person authorized by the Chief Executive either generally or in relation to a particular case or class of cases, and references to a person authorized by the Chief Executive include references to the holder for the time being of any office designated by the Chief Executive; (36 of 1999 s. 3)
-
-  - “Beneficial interest” has the same meaning as in section 53 of the Merchant Shipping (Registration) Ordinance (Cap. 415); (36 of 1999 s. 3)
-
-  - “Cargo” includes mail and animals;
-
-  - “Certificate of airworthiness” includes any validation thereof and any flight manual, performance schedule or other document, whatever its title, incorporated by reference in that certificate relating to the certificate of airworthiness;
-
-  - “Certificate of maintenance review” and “certificate of release to service” have the meanings respectively assigned to them by Articles 9(1) and 11(5) of this Order;
-
-  - “Chief Executive” means—
-
-    - (a) the Chief Executive of the Hong Kong Special Administrative Region;
-
-    - (b) a person for the time being assuming the duties of the Chief Executive according to the provisions of Article 53 of the Basic Law; and
-
-    - (c) in relation to any purpose of this Order, other than the purposes of Article 97 thereof, any person authorized by the Chief Executive for that purpose; (36 of 1999 s. 3)
-
-  - “Class A Airspace”, “Class B Airspace”, “Class C Airspace”, “Class D Airspace”, and “Class E Airspace” means airspace respectively notified as such;
-
-  - “Cloud ceiling” in relation to an aerodrome means the vertical distance from the elevation of the aerodrome to the lowest part of any cloud visible from the aerodrome which is sufficient to obscure more than one-half of the sky so visible;
-
-  - “Commander” in relation to an aircraft means the member of the flight crew designated as commander of that aircraft by the operator thereof, or, failing such a person, the person who is for the time being the pilot in command of the aircraft;
-
-  - “Competent authority” means in relation to Hong Kong, the Chief Executive, and in relation to any other country the authority responsible under the law of that country for promoting the safety of civil aviation; (36 of 1999 s. 3)
-
-  - “Conditional sale agreement” means an agreement for the sale of goods under which the purchase price or part of it is payable by instalments, and the property in the goods is to remain in the seller (notwithstanding that the buyer is to be in possession of the goods) until such conditions as to the payment of instalments or otherwise as may be specified in the agreement are fulfilled;
-
-  - “Congested area” in relation to a city, town or settlement, means any area which is substantially used for residential, industrial, commercial or recreational purposes;
-
-  - “Contracting State” means any State (including the People’s Republic of China and Hong Kong, being a part thereof) which is a party to the Convention on International Civil Aviation which, on 7 December 1944, was opened for signature at the International Civil Aviation Conference held at Chicago; (36 of 1999 s. 3)
-
-  - “Controlled airspace” means airspace which has been notified as Class A, Class B, Class C, Class D or Class E airspace;
-
-  - “Control area” means airspace which has been notified as such and which extends upwards from a notified altitude or flight level;
-
-  - “Control zone” means airspace which has been notified as such and which extends upwards from the surface;
-
-  - “Co-pilot” in relation to an aircraft means a pilot who in performing his duties as such is subject to the direction of another pilot carried in the aircraft;
-
-  - “Country” includes a territory or place, except in paragraph (2) of this Article; (36 of 1999 s. 3)
-
-  - “Crew” has the meaning assigned to it by paragraph (4) of this Article;
-
-  - “Danger Area” shall mean airspace which has been notified as such within which activities dangerous to the flight or aircraft may take place or exist at such times as may be notified;
-
-  - “Decision height” in relation to the operation of an aircraft at an aerodrome means the height in a precision approach at which a missed approach must be initiated if the required visual reference to continue that approach has not been establish;
-
-  - “Flight” and “to fly” have the meanings respectively assigned to them by paragraph (3) of this Article;
-
-  - “Flight crew” in relation to an aircraft means those members of the crew of the aircraft who respectively undertake to act as pilot, flight navigator, flight engineer and flight radio operator of the aircraft;
-
-  - “Flight level” means one of a series of levels of equal atmospheric pressure, separated by notified intervals and each expressed as the number of hundreds of feet which would be indicated at that level on a pressure altimeter calibrated in accordance with the International Standard Atmosphere and set to 1 013.2 millibars;
-
-  - “Flight recording systems” means a system comprising either a flight data recorder or a cockpit voice recorder or both;
-
-  - “Flight simulator” means apparatus by means of which flight conditions in an aircraft are simulated on the ground;
-
-  - “Flight visibility” means the visibility forward from the flight deck of an aircraft in flight;
-
-  - “Government aerodrome” means any aerodrome in Hong Kong which is under the control of the Chief Executive or is in the occupation of any department of the Government of the Hong Kong Special Administrative Region, or of Her Majesty’s naval, military or air forces, or of any visiting force; (36 of 1999 s. 3)
-
-  - “Hong Kong” includes—
-
-    - (a) all waters, whether navigable or not, included in Hong Kong; and
-
-    - (b) (Repealed 36 of 1999 s. 3)
-
-  - “hire-purchase agreement” means an agreement for the bailment of goods under which the bailee may buy the goods, or under which the property in the goods will or may pass to the bailee;
-
-  - “Instrument Flight Rules” means Instrument Flight Rules contained in the Rules of the Air;
-
-  - “Instrument Meteorological Conditions” means weather precluding flight in compliance with the Visual Flight Rules;
-
-  - “To land” in relation to aircraft includes alighting on the water;
-
-  - “Legal personal representative” means the person constituted executor, administrator, or other representative, of a deceased person; (36 of 1999 s. 3)
-
-  - “Licence” includes any certificate of competency or certificate of validity issued with the licence or required to be held in connection with the licence by the law of the country in which the licence is granted;
-
-  - “Licence for public use” has the meaning assigned to it by Article 73(3) of this Order;
-
-  - “Licensed aerodrome” means an aerodrome licensed under this Order;
-
-  - “Lifejacket” includes any device designed to support a person individually in or on the water;
-
-  - “Log Book” in the case of an aircraft log book, engine log book variable pitch propeller log book or personal flying log book, includes a record kept either in a book, or by any other means approved by the Chief Executive in the particular case; (36 of 1999 s. 3)
-
-  - “Maximum total weight authorized” in relation to an aircraft means the maximum total weight of the aircraft and its contents at which the aircraft may take off anywhere in the world, in the most favourable circumstances in accordance with the certificate of airworthiness in force in respect of the aircraft;
-
-  - “Military aircraft” includes the naval, military or air force aircraft of any country and—
-
-    - (a) any aircraft being constructed for the naval, military or air forces of any country under a contract entered into by the Secretary of State; and
-
-    - (b) any aircraft in respect of which there is in force a certificate issued by the Secretary of State that the aircraft is to be treated for the purposes of this Order as a military aircraft;
-
-  - “Minimum descent height” in relation to the operation of an aircraft at an aerodrome means the height in a non-precision approach below which descent may not be made without the required visual reference;
-
-  - “Nautical mile” means the International Nautical Mile, that is to say, a distance of 1852 metres;
-
-  - “Night” means the time between half an hour after sunset and half an hour before sunrise, sunset and sunrise being determined at surface level;
-
-  - “Non-precision approach” means an instrument approach using non-visual aids for guidance in azimuth or elevation but which is not a precision approach;
-
-  - “Notified” means shown in any of the following publications for the time being in force and issued in Hong Kong whether before or after the coming into operation of this Order, that is to say “Notams (Notices to Airmen)”, “Aeronautical Information Publications (AIP)”, or such other official publications so issued for the purpose of enabling any of the provisions of this Order to be complied with;
-
-  - “Operator” has the meaning assigned to it by paragraph (5) of this Article;
-
-  - “Parascending parachute” means a parachute which is towed by cable in such a manner as to cause it to ascend;
-
-  - “Passenger” means a person other than a member of the crew;
-
-  - “Pilot in command” in relation to an aircraft means a person who for the time being is in charge of the piloting of the aircraft without being under the direction of any other pilot in the aircraft;
-
-  - “Precision approach” means an instrument approach using Instrument Landing System, Microwave Landing System or Precision Approach Radar for guidance in both azimuth and elevation;
-
-  - “Prescribed” means prescribed by regulations made by the Chief Executive under this Order, and the expression “prescribe” shall be construed accordingly; (36 of 1999 s. 3)
-
-  - “Pressurised aircraft” means an aircraft provided with means of maintaining in any compartment a pressure greater than that of the surrounding atmosphere;
-
-  - “Public transport” has the meaning assigned to it by paragraph (6) of this Article;
-
-  - “Public transport aircraft” means an aircraft flying, or intended by the operator of the aircraft to fly, for the purpose of public transport;
-
-  - “Record” includes, in addition to a record in writing—
-
-    - (a) any disc, tape, sound-track or other device in which sounds or signals are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced therefrom;
-
-    - (b) any film, tape or other device in which visual images are embodied so as to be capable (as aforesaid) of being reproduced therefrom; and
-
-    - (c) any photograph;
-
-  - and any reference to a copy of a record includes, in the case of a record falling within paragraph (a) only of this definition, a transcript of the sounds or signals embodied therein, in the case of a record falling within paragraph (b) only of this definition, a still reproduction of the images embodied therein, and in the case of a record falling within both those paragraphs; such a transcript together with such a still reproduction;
-
-  - “Replacement” in relation to any part of an aircraft or its equipment includes the removal and replacement of that part whether or not by the same part, and whether or not any work is done on it, but does not include the removal and replacement of a part which is designed to be removable solely for the purpose of enabling another part to be inspected, repaired, removed or replaced or cargo to be loaded;
-
-  - “Rules of the Air” means the Rules contained in Schedule 14 to this Order and any supplementary rules made by the Chief Executive under Article 64(1) of this Order; (36 of 1999 s. 3)
-
-  - “Runway visual range” in relation to a runway means the distance in the direction of take-off or landing over which the runway lights or surface marking may be seen from the touchdown zone as calculated by either human observation or instruments in the vicinity of the touchdown zone or where this is not reasonably practicable in the vicinity of the midpoint of the runway; and the distance, if any, communicated to the commander of an aircraft by or on behalf of the person in charge of the aerodrome as being the runway visual range shall be taken to be the runway visual range for the time being;
-
-  - “Scheduled journey” means one of a series of journeys which are undertaken between the same two places and which together amount to a systematic service;
-
-  - “Seaplane” includes a flying boat and any other aircraft designed to manoeuvre on water;
-
-  - “Special VFR flight” means a flight made in Instrument Meteorological Conditions or at night in a control zone or in a control zone notified for the purposes of Rule 22 of the Rules of the Air in respect of which the appropriate air traffic control unit has given permission for the flight to be made in accordance with special instructions by that unit instead of in accordance with the Instrument Flight Rules;
-
-  - “Specified minimum weather provisions” has the meaning assigned to it by paragraph (7) of this Article;
-
-  - “Visual Flight Rules” means Visual Flight Rules contained in the Rules of the Air;
-
-  - “Visual Meteorological Conditions” means weather permitting flight in accordance with the Visual Flight Rules.
-
-(66 of 1997 s. 15; 28 of 1998 s. 2; 36 of 1999 s. 3)
-
-- (2)
-
-  - In relation to Hong Kong the expression “visiting force” in this Order means any such body, contingent or detachment of the forces of any country as is a visiting force for the purposes of any of the provisions of the Visiting Forces Act 1952(a), which extend to that territory, in respect of that country, by virtue of any Order in Council made under subsection (2) of section 1 or under section 15 of that Act.
-
-- (3) An aircraft shall be deemed to be in flight—
-
-  - (a) in the case of a piloted flying machine from the moment when, after the embarkation of its crew for the purpose of taking off, it first moves under its own power, until the moment when it next comes to rest after landing;
-
-  - (b) in the case of a pilotless flying machine, or a glider, from the moment when it first moves for the purpose of taking off until the moment when it next comes to rest after landing;
-
-  - (c) in the case of an airship or free balloon, from the moment when it first becomes detached from the surface until the moment when it next becomes attached thereto or comes to rest thereon;
-
-- and the expressions “a flight” and “to fly” shall be construed accordingly.
-
-- (4) Every person employed or engaged in an aircraft in flight on the business of the aircraft shall be deemed to be a member of the crew thereof.
-
-- (5) References in this Order to the operator of an aircraft are, for the purpose of the application of any provision of this Order in relation to any particular aircraft, references to the person who at the relevant time has the management of that aircraft, and cognate expressions shall be construed accordingly:
-
-  - Provided that for the purposes of the application of any provision in Part III of this Order, when by virtue of any charter or other agreement for the hire or loan of an aircraft a person other than an air transport undertaking or an aerial work undertaking has the management of that aircraft for a period not exceeding 14 days, the foregoing provisions of this paragraph shall have effect as if that agreement had not been entered into.
-
-- (6)
-
-  - (a) Subject to the provisions of this paragraph, an aircraft in flight shall for the purposes of this Order be deemed to fly for the purpose of public transport—
-
-    - (i) if hire or reward is given or promised for the carriage of passengers or cargo in the aircraft on that flight; or
-
-    - (ii) if any passengers or cargo are carried gratuitously in the aricraft on that flight by an air transport undertaking, not being persons in the employment of the undertaking (including, in the case of a body corporate, its directors), persons with the authority of the Chief Executive either making any inspection or witnessing any training, practice or test for the purposes of this Order, or cargo intended to be used by any such passengers as aforesaid, or by the undertaking; or (36 of 1999 s. 3)
-
-    - (iii)
-
-    - for the purposes of Part III of this Order, if hire or reward is given or promised for the right to fly the aircraft on that flight (not being a single seater aircraft of which the maximum total weight authorized does not exceed 910 kilograms and in respect of which a certificate of airworthiness of the Special Category is in force) otherwise than under a hire-purchase or conditional sale agreement,
-
-  - and the expression “public transport of Passengers” shall be construed accordingly:
-
-    - Provided that, notwithstanding that an aircraft may be flying for the purpose of public transport by reason of sub-paragraph (a)(iii) of this paragraph, it shall not be deemed to be flying for the purpose of the public transport of passengers unless hire or reward is given for the carriage of those passengers.
-
-    - Provided that, notwithstanding that an aircraft may be flying for the purpose of public transport for the purposes of Part III of this Order by virtue of sub-paragraph (a)(iii) of this paragraph if the hire or reward given or promised for the primary purpose of conferring on a particular person the right to fly the glider on that flight is given or promised by a member of a flying club and the glider is owned or operated by that flying club.
-
-  - (b) Where under a transaction effected by or on behalf of a member of an association of persons on the one hand and the association of persons or any member thereof on the other hand, a person is carried in, or is given the right to fly, an aircraft in such circumstances that hire or reward would be given or promised if the transaction were effected otherwise than aforesaid, hire or reward shall, for the purposes of this Order, be deemed to have been given or promised, notwithstanding any rule of law as to such transactions.
-
-- (7) The specified minimum weather provisions shall be as follows—
-
-  - (a) Outside airspace notified for the purposes of Schedule 8 to this Order:
-
-    - (i) an aircraft flying above 3000 feet above mean sea level shall remain at least 1800 metres horizontally and 1000 feet vertically away from cloud and in a flight visibility of at least 10 km:
-
-    - (ii) an aircraft other than a helicopter flying at or below 3000 feet above mean sea level shall remain at least 1800 metres horizontally and 1000 feet vertically away from cloud and in a flight visibility of at least 5 km:
-
-      - Provided that this sub-paragraph shall be deemed to be complied with if the aircraft is flown at a speed which according to its airspeed indicator is 140 knots or less and remains clear of cloud, in sight of the surface and in a flight visibility of at least 1800 metres;
-
-    - (iii) a helicopter flying at or below 3000 feet above mean sea level shall remain clear of cloud and in sight of the surface or at least 1800 metres horizontally and 1000 feet vertically away from cloud and in a flight visibility of at least 5 km;
-
-  - (b) within airspace notified for the purposes of Schedule 8 to this Order an aircraft shall remain at least 1800 metres horizontally and 1000 feet vertically away from cloud and in a flight visibility of at least 10 km:
-
-    - Provided that in a control zone within such airspace, in the case of a special VFR flight the aircraft shall be flown in accordance with any instructions given by the appropriate air traffic control unit.
-
-- (8)
-
-  - The expressions appearing in the “General Classification of Aircraft” set forth in Part A of Schedule 1 to this Order shall have the meanings thereby assigned to them.
-
-- (9) (Repealed 36 of 1999 s. 3)
-
-- (10) A power to make regulations under this Order shall include the power to make different provisions with respect to different circumstances and with respect to different parts of Hong Kong and to make such incidental and supplementary provisions as are necessary or expedient for carrying out the purposes of the Order.
-
-- (11)
-
-  - (a) Any power conferred by this Order to issue, make, serve or grant any instrument shall be construed as including a power exercisable, in the like manner and subject to the like conditions, if any, to vary, revoke, cancel or otherwise terminate the instrument.
-
-  - (b)
-
-    - In this paragraph “instrument” includes any regulations, direction, instruction, rule or other requirement, any notice and any certificate, licence, approval, permission, exemption, authorization, log book record or other document.
-
-- (12) The Chief Executive may delegate any person or body or the person holding any office designated by him to exercise or perform on his behalf any of his powers or duties under this Order other than the power to make regulations under Article 97 and thereupon, or from the date specified by the Chief Executive, the person so delegated shall have and may exercise such powers and shall perform such duties, other than the power to make regulations under Article 97. (36 of 1999 s. 3)
-
-Editorial Note:
-
-- (a) 1952 c. 67.
-
 99. Saving
 
 (Adaptation amendments retroactively made - see 36 of 1999 s. 3)
@@ -516,21 +24,99 @@ In relation to any of his functions pursuant to any of the provisions of this Or
 
 (36 of 1999 s. 3)
 
-# Schedule 1
+102. Safety management system
 
-Article 4(6), 23(2) and 99(8)
+- (1) A person, other than a natural person, who—
 
-- PART A TABLE OF GENERAL CLASSIFICATION OF AIRCRAFT
+  - (a) is the operator of an aircraft registered in Hong Kong that is flown for the purposes of public transport;
+
+  - (b) issues a certificate of release to service in respect of the aircraft referred to in subparagraph (a) of this paragraph, or of any equipment or part of the aircraft;
+
+  - (c) provides an air traffic service; or
+
+  - (d) is an aerodrome licence holder,
+
+- shall, in respect of the activities that he is authorized, permitted, approved or required to carry out under this Order, implement a safety management system that—
+
+  - (e) complies with paragraphs (2) and (3) of this Article; and
+
+  - (f) is accepted by the Chief Executive.
+
+- (2) The safety management system shall—
+
+  - (a) identify safety hazards and manage associated risks;
+
+  - (b) ensure that remedial action necessary to maintain an acceptable level of safety is carried out;
+
+  - (c) provide for continuous monitoring and regular assessment of the safety level achieved;
+
+  - (d) aim to make continuous improvement to the overall level of safety; and
+
+  - (e) be appropriate to the size, nature and complexity of the activities concerned and the safety hazards and risks related to such activities.
+
+- (3) The safety management system shall be a documented system and shall contain the following elements—
+
+  - (a) explicit safety policies on which the system is based;
+
+  - (b) safety objectives and performance targets and indicators;
+
+  - (c) clearly defined lines of safety accountabilities and responsibilities of staff at all levels;
+
+  - (d) promotion of safety culture;
+
+  - (e) safety training to ensure competence of staff;
+
+  - (f) monitoring and reviewing of safety performance of staff;
+
+  - (g) safety management and oversight procedures;
+
+  - (h) collection and analysis of safety information and data with the aim of preventing adverse safety trend;
+
+  - (i) maintenance and, where appropriate, sharing of safety information and data;
+
+  - (j) a contingency and emergency response plan;
+
+  - (k) investigation of accidents and occurrences of significant nature with a view to identifying and implementing safety improvement measures;
+
+  - (l) periodic reviews, audits and inspections of the systems and procedures established in relation to the elements referred to in this paragraph.
+
+(L.N. 77 of 2008)
+
+# SCHEDULE 1
+
+Articles 4(6) and (8), 5(2), 23(2) and 98(8)
+
+(L.N. 77 of 2008)
+
+PART A Table of General Classification of Aircraft
 
 Column 1 | Column 2 | Column 3 | Column 4
 
-Aircraft | { { | Lighter than air aircraft Heavier than air aircraft | { {{ | Non-power driven Power driven Non-power driven Power driven (flying machines) | { { {{ | Free balloon Captive balloon Airship Glider Kite Aeroplane (Landplane) Aeroplane (Seaplane) Aeroplane (Amphibian) Aeroplane (Self-launching motor glider) Rotorcraft (Helicopter) Rotorcraft (Gyroplane)
+Aircraft | { | Lighter-than-air aircraft | { | Non-power driven | { | Free balloon Captive balloon
 
-PART B | Article 5(2)
+Power driven | Airship
 
-NATIONALITY AND REGISTRATION MARKS OF
+{ | Non-power driven | { | Glider Kite
 
-AIRCRAFT REGISTERED IN HONG KONG
+Heavier-than-air aircraft
+
+Power driven (flying machines) | { | Aeroplane (Landplane) Aeroplane (Seaplane) Aeroplane (Amphibian) Aeroplane (Self-launching motor glider)
+
+Powered Lift (Tilt Rotor)
+
+Rotorcraft (Helicopter)
+
+Rotorcraft (Gyroplane)
+
+(L.N. 77 of 2008)
+
+PART B
+
+Article 5(2)
+
+Nationality and Registration Marks of
+
+Aircraft Registered in Hong Kong
 
 - 1. The nationality mark of the aircraft shall be the capital letter “B” in Roman character and the registration mark shall be a group of three capital letters in Roman character assigned by the Chief Executive on the registration of the aircraft. The letters shall be without ornamentation and a hyphen shall be placed between the nationality mark and the registration mark. (66 of 1997 s. 16; L.N. 560 of 1997)
 
@@ -540,7 +126,7 @@ AIRCRAFT REGISTERED IN HONG KONG
 
 - 4. The nationality and registration marks shall also be inscribed, together with the name and address of the registered owner of the aircraft, on a fireproof metal plate affixed in a prominent position—
 
-  - (a) in the case of an aeroplane having an empty weight not exceeding 150 kg either in accordance with paragraph (c) or on the wing;
+  - (a) in the case of a microlight aeroplane, either in accordance with paragraph (c) or on the wing; (L.N. 77 of 2008)
 
   - (b) in the case of a balloon, on the basket or envelope; or
 
@@ -550,27 +136,31 @@ AIRCRAFT REGISTERED IN HONG KONG
 
 - I. Position of marks
 
-  - (a) Flying Machines and Gliders
+  - (a) Heavier-than-air aircraft (L.N. 77 of 2008)
 
     - (i) Horizontal Surfaces of the Wings or Fuselage (or equivalent structure).
 
       - (aa) On aircraft having a fixed wing surface, the marks shall appear on the lower surface of the wing structure, and shall be on the left half of the lower surface of the wing structure unless they extend across the whole surface of both wings. So far as is possible the marks shall be located equidistant from the leading and trailing edges of the wings. The tops of the letters shall be towards the leading edge of the wing.
 
-      - (bb) On aircraft having no fixed wing surface and when owing to the structure of the aircraft the greatest height reasonably practicable for the marks on the vertical surface of the fuselage (or equivalent structure) is less than 15 centimetres the marks shall also appear on the lower surface of the fuselage on the line of symmetry and shall be placed with the tops of the letters towards the nose.
+      - (bb) On aircraft having no fixed wing surface and when owing to the structure of the aircraft the greatest height reasonably practicable for the marks on the vertical surface of the fuselage (or equivalent structure) is less than 30 centimetres the marks shall also appear on the lower surface of the fuselage on the line of symmetry and shall be placed with the tops of the letters towards the nose. (L.N. 77 of 2008)
 
     - (ii) Vertical Surfaces of the Tail or Fuselage (or equivalent structure): The marks shall also be on each side of the aircraft either on the fuselage or on the upper halves of the vertical tail surfaces. On aircraft having a fixed wing surface, the marks, if placed on the fuselage (or equivalent structure), shall be between the horizontal tail surfaces and the wing. When on a single vertical tail surface, the marks shall be on both sides. When there is more than one vertical tail surface, the marks shall be on the outer sides of the outboard vertical tail surfaces.
 
-  - (b) Airships and Free Balloons
+  - (b) Lighter-than-air aircraft
 
-    - (i) Airships: The marks shall be on each side of the airship. They shall be placed horizontally either on the hull near the maximum cross-section of the airship or on the lower vertical stabiliser.
+    - (i) Airships: The marks shall appear either on the hull, or on the stabilizer surfaces. Where the marks appear on the hull, they shall be located lengthwise on each side of the hull and also on its upper surface on the line of symmetry. Where the marks appear on the stabilizer surfaces, they shall appear on the horizontal and on the vertical stabilizers; the marks on the horizontal stabilizer shall be located on the right half of the upper surface and on the left half of the lower surface, with the tops of the letters towards the leading edge; the marks on the vertical stabilizer shall be located on each side of the bottom half stabilizer, with the letters placed horizontally.
 
-    - (ii) Free Balloons: The marks shall be in two places diametrically opposite.
+    - (ii) Spherical balloons (other than unmanned free balloons): The marks shall appear in 2 places diametrically opposite. They shall be located near the maximum horizontal circumference of the balloon.
 
-    - (iii) In the case of all airships and free balloons the side marks shall be so placed as to be visible both from the sides and from the ground.
+    - (iii) Non-spherical balloons (other than unmanned free balloons): The marks shall appear on each side. They shall be located near the maximum cross-section of the balloon immediately above either the rigging band or the points of attachment of the basket suspension cables.
 
-- II. Size of marks
+    - (iv) Lighter-than-air aircraft (other than unmanned free balloons): The side marks shall be visible both from the sides and from the ground.
 
-  - (a) Flying Machines and Gliders
+    - (v) Unmanned free balloons: The marks shall appear on the fireproof metal plate mentioned in item 4 of this Part. (L.N. 77 of 2008)
+
+- II. Size of Marks
+
+  - (a) Heavier-than-air aircraft (L.N. 77 of 2008)
 
     - (i) Wings: The letters constituting each group of marks shall be of equal height. The height of the letters shall be at least 50 centimetres.
 
@@ -578,25 +168,25 @@ AIRCRAFT REGISTERED IN HONG KONG
 
       - Provided that where owing to the structure of the aircraft the appropriate height specified in this sub-paragraph (ii) is not reasonably practicable, the height of the marks shall be the greatest height reasonably practicable in the circumstances consistent with compliance with Section III of this Part of this Schedule.
 
-  - (b) Airships and Free Balloons The letters constituting each group of marks shall be of equal height. The height of the letters shall be at least 50 centimetres.
+  - (b) Lighter-than-air aircraft (L.N. 77 of 2008) The letters constituting each group of marks shall be of equal height. The height of the letters shall be at least 50 centimetres.
 
-- III. Width and spacing of marks
+- III. Width and Spacing of Marks
 
-  - (a) The width of each letter (except the letter I) and the length of the hyphen between the nationality mark and registration mark shall be two-thirds of the height of a letter.
+  - (a) The width of each letter (except the letters I, M and W) and the length of the hyphen between the nationality mark and registration mark shall be two-thirds of the height of a letter. The width of the letter I shall be one-sixth of the height of the letter. The width of the letters M and W shall be neither less than two-thirds of their height nor more than their height. (L.N. 77 of 2008)
 
   - (b) The letters and hyphen shall be formed by solid lines and shall be of a colour clearly contrasting with the background on which they appear. The thickness of the lines shall be one-sixth of the height of a letter.
 
-  - (c)
+  - (c) Each letter shall be separated from the letter which it immediately precedes or follows, by a space of not less than one-quarter of the width of a letter. A hyphen shall be regarded as a letter for this purpose. (L.N. 77 of 2008)
 
-  - Each letter shall be separated from the letter which it immediately precedes or follows by a space equal to half the width of a letter. A hyphen shall be regarded as a letter for this purpose.
+PART C
 
-  - PART C | Article 4(8)
+Article 4(8)
 
-  - AIRCRAFT DEALER’S CERTIFICATE-CONDITIONS
+Aircraft Dealer’s Certificate—Conditions
 
-    - (1) The operator of the aircraft shall be the registered owner of the aircraft, who shall be the holder of an aircraft dealer’s certificate granted under this Order.
+- (1) The operator of the aircraft shall be the registered owner of the aircraft, who shall be the holder of an aircraft dealer’s certificate granted under this Order.
 
-    - (2) The aircraft shall fly only for the purpose of—
+- (2) The aircraft shall fly only for the purpose of—
 
   - (a) testing the aircraft; or
 
@@ -608,6 +198,6 @@ AIRCRAFT REGISTERED IN HONG KONG
 
   - (e) proceeding to or from a place for the purpose of storage.
 
-    - (3) Without prejudice to the provisions of Article 32 of this Order the operator of the aircraft shall satisfy himself before the aircraft takes off that the aircraft is in every way fit for the intended flight.
+- (3) Without prejudice to the provisions of Article 32 of this Order the operator of the aircraft shall satisfy himself before the aircraft takes off that the aircraft is in every way fit for the intended flight.
 
-    - (4) The aircraft shall fly only within Hong Kong.
+- (4) The aircraft shall fly only within Hong Kong.

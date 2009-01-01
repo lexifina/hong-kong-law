@@ -1,11 +1,29 @@
-# SCHEDULE 3 CATEGORIES OF AIRCRAFT
+# SCHEDULE 3
 
-- Article 3 Transport Category (Passenger).
+Article 8(2)
 
-- Transport Category (Cargo).
+(L.N. 77 of 2008)
 
-- Aerial Work Category.
+CATEGORIES OF AIRCRAFT
 
-- Private Category.
+Transport Category (Passenger).
 
-- Special Category. The purposes for which the aircraft may fly are as follows: Transport Category (Passenger): Any purpose. Transport Category (Cargo): Any purpose other than the public transport of passengers. Aerial Work Category: Any purpose other than public transport. Private Category: Any purpose other than public transport or aerial work. Special Category: Any purpose, other than public transport, specified in the certificate of airworthiness but not including the carriage of passengers unless expressly permitted.
+Transport Category (Cargo).
+
+Aerial Work Category.
+
+Private Category.
+
+Special Category.
+
+The purposes for which the aircraft may fly are as follows:
+
+Transport Category (Passenger): Any purpose.
+
+Transport Category (Cargo): Any purpose other than the public transport of passengers.
+
+Aerial Work Category: Any purpose other than public transport.
+
+Private Category: Any purpose other than public transport or aerial work.
+
+Special Category: Any purpose, other than public transport, specified in the certificate of airworthiness but not including the carriage of passengers unless expressly permitted.
