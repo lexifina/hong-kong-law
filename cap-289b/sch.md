@@ -332,4 +332,4 @@ Item | Periods | Rate of interest
 
 164. | On or after 7 April 2008 and before 1 December 2008 (L.N. 72 of 2008; L.N. 250 of 2008) | 0.4667% per annum
 
-165. | On or after 1 December 2008 (L.N. 250 of 2008) | 0.45% per annum
+165. 166. | On or after 1 December 2008 and before 5 January 2009 (L.N. 250 of 2008; L.N. 2 of 2009) On or after 5 January 2009 (L.N. 2 of 2009) | 0.45% per annum 0.3667% per annum
