@@ -1,0 +1,5 @@
+FUGITIVE OFFENDERS (IRELAND) ORDER
+
+(Cap. 503, section 3)
+
+[14 January 2009] L.N. 3 of 2009
