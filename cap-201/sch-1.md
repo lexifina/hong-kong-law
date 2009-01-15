@@ -226,6 +226,8 @@ PUBLIC BODIES
 
   - 111. Any entity established under section 5(2)(h) of the West Kolwoon Cultural District Authority Ordinance (Cap. 601). (Added 27 of 2008 s. 42)
 
+  - 112. Wave Media Limited. (Added L.N. 245 of 2008)
+
 - (Replaced L.N. 272 of 1974)
 
 Editorial Note:
