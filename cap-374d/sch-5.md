@@ -8,7 +8,7 @@ TAXI FARES
 
 2. Taxis licensed to operate within Lantau (L.N. 308 of 1992; L.N. 225 of 1995 L.N.; 225 of 1996; L.N. 15 of 1998; L.N. 219 of 2008) . | (A) $13.00 for the first 2 kilometres or any part of those 2 kilometres; (B) $1.3 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $130.00; and (C) $1.2 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $130.00.
 
-2a. Taxis licensed to operate in the New Territories (L.N. 353 of 1988; L.N. 12 of 2008) . | $13.5 for the first 2 kilometres or any part thereof and $1.2 for every 200 metres or part thereof thereafter.
+2a. Taxis licensed to operate in the New Territories (L.N. 353 of 1988; L.N. 12 of 2008; L.N. 9 of 2009) . | (A) $14.5 for the first 2 kilometres or any part of those 2 kilometres; (B) $1.3 for every further 200 metres or any part of those 200 metres, until the chargeable amount reaches $53.5; and (C) $1.00 for every 200 metres or any part of those 200 metres, after the chargeable amount has reached $53.5.
 
 3. Waiting Time
 
@@ -16,7 +16,7 @@ TAXI FARES
 
 (ii) Taxis licensed to operate within Lantau (L.N. 219 of 2008) . | (A) $1.3 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, until the chargeable amount reaches $130.00; and (B) $1.2 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, after the chargeable amount has reached $130.00.
 
-(iii) Taxis licensed to operate in the New Territories : For every period of 1 minute or part thereof during which the taxi is hired but not in motion (L.N. 353 of 1988) . | $1.2
+(iii) Taxis licensed to operate in the New Territories (L.N. 9 of 2009) . | (A) $1.3 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, until the chargeable amount reaches $53.5; and (B) $1.00 for every period of 1 minute, or any part of that period, during which the taxi is hired but not in motion, after the chargeable amount has reached $53.5.
 
 3a. (Repealed L.N. 211 of 1991)
 
