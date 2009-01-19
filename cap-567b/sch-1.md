@@ -4,7 +4,7 @@
 
 REHABILITATION CENTRE UNDER SECTION 3(a) OF THE ORDINANCE
 
-- 1. Lai Chi Rehabilitation Centre (parts of the buildings situated at 35 Shek Pik Reservoir Road, Lantau Island that are until 10 July 2002 known as Blocks D and E and Workshops No. 1 and 2 of Sha Tsui Detention Centre)
+- 1. Lai Chi Rehabilitation Centre (parts of the buildings situated at 35 Shek Pik Reservoir Road, Lantau Island that are known as Blocks C, D and E and Workshops No. 1 and 2) (L.N. 248 of 2008)
 
 - 2. (Repealed L.N. 52 of 2008)
 
