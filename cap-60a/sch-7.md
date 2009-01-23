@@ -34,7 +34,7 @@ Democratic Republic of the Congo
 
 Republic of the Congo
 
-Cote d’Ivoire
+Cote d’Ivoire #
 
 Croatia
 
@@ -96,6 +96,8 @@ Malta
 
 Mauritius
 
+Mexico
+
 Namibia
 
 The Netherlands
@@ -150,4 +152,8 @@ Viet Nam (otherwise known as Vietnam)
 
 Zimbabwe
 
-(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003; L.N. 128 of 2003; L.N. 202 of 2003; L.N. 210 of 2003; L.N. 239 of 2003; L.N. 254 of 2003; L.N. 11 of 2004; L.N. 68 of 2004; L.N. 141 of 2004; L.N. 106 of 2005; L.N. 138 of 2005; L.N. 169 of 2005; L.N. 201 of 2006; L.N. 255 of 2006; L.N. 118 of 2007; L.N. 173 of 2007; L.N. 232 of 2007; L.N. 209 of 2008)
+(Seventh Schedule added L.N. 179 of 2002. L.N. 250 of 2002; L.N. 10 of 2003; L.N. 37 of 2003; L.N. 68 of 2003; L.N. 101 of 2003; L.N. 128 of 2003; L.N. 202 of 2003; L.N. 210 of 2003; L.N. 239 of 2003; L.N. 254 of 2003; L.N. 11 of 2004; L.N. 68 of 2004; L.N. 141 of 2004; L.N. 106 of 2005; L.N. 138 of 2005; L.N. 169 of 2005; L.N. 201 of 2006; L.N. 255 of 2006; L.N. 118 of 2007; L.N. 173 of 2007; L.N. 232 of 2007; L.N. 209 of 2008; L.N. 13 of 2009)
+
+_
+
+\# But see the United Nations Sanctions (Côte d’Ivoire) (No. 2) Regulation 2011 (Cap. 537 sub. leg. AV).
