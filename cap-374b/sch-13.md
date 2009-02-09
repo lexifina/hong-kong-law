@@ -1,9 +1,9 @@
 # THIRTEENTH SCHEDULE
 
-[reg. 12K(1)]
+[reg. 12K]
 
-PLATE TO BE DISPLAYED ON VEHICLES DRIVEN BY HOLDERS OF PROBATIONARY DRIVING LICENCES
+PLATE TO BE FIXED ON MOTOR VEHICLES DRIVEN BY HOLDERS OF PROBATIONARY DRIVING LICENCES
 
-- 1. The vehicle shall have securely fixed, at the front and rear, a white plate 225 millimetres by 150 millimetres on which shall appear in red the letter “P” occupying an area stated above.
+- PART I SMALL PLATE
 
-- 2. The plate shall be made of reflex-reflecting material. (Thirteenth Schedule added 49 of 2000 s. 9)
+- PART II LARGE PLATE (Thirteenth Schedule replaced 23 of 2008 s. 51)

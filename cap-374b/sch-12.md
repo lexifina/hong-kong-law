@@ -1,6 +1,6 @@
 # TWELFTH SCHEDULE
 
-[regs. 12F, 12I & 12L]
+[regs. 12F, 12I, 12L & 12M] (23 of 2008 s. 50)
 
 OFFENCES
 

@@ -15,6 +15,7 @@ s-012A.md
 s-012B.md
 s-012C.md
 s-012D.md
+s-012DA.md
 s-012E.md
 s-012F.md
 s-012G.md
@@ -23,6 +24,7 @@ s-012I.md
 s-012J.md
 s-012K.md
 s-012L.md
+s-012M.md
 s-013.md
 s-014.md
 s-015.md
