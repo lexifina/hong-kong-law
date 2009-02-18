@@ -22,4 +22,6 @@ Item | Enactment | Provision
 
 8. | Inland Revenue Ordinance (Cap. 112) (Added L.N. 214 of 2007) | Section 58(2)
 
+9. | Waterworks Regulations (Cap. 102 sub. leg. A) (Added L.N. 249 of 2008) | Regulation 49(1)(a) and (b)
+
 (Schedule 3 added 14 of 2004 s. 28)
