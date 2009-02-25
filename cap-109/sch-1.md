@@ -26,15 +26,15 @@
 
   - $
 
-  - (a) | for each 1000 cigarettes . | 804
+  - (a) | for each 1000 cigarettes . | 1206
 
-  - (b) | cigars. | 1035/kg
+  - (b) | cigars. | 1553/kg
 
-  - (c) | Chinese prepared tobacco . | 197/kg
+  - (c) | Chinese prepared tobacco . | 296/kg
 
-  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . | 974/kg
+  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . | 1461/kg
 
-  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2)
+  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 27 of 2009 and 5 of 2009 s. 3)
 
   - 2. For the purpose of applying the duty under paragraph 1(a) a cigarette more than 90 mm long, excluding any filter or mouthpiece, shall be treated as if each additional 90 mm or portion of 90 mm were a separate cigarette.
 
