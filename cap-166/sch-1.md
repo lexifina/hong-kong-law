@@ -1,9 +1,9 @@
 # FIRST SCHEDULE
 
-[ss. 3 & 22]
+[ss. 3, 22 & 27] (Amended L.N. 1 of 2009)
 
 MAXIMUM AMOUNT OF LOAN TO WHICH ORDINANCE APPLIES
 
-$50,000
+$100,000
 
-(Amended L.N. 169 of 1990)
+(Amended L.N. 169 of 1990; L.N. 1 of 2009)
