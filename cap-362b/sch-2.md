@@ -1,10 +1,8 @@
 # SECOND SCHEDULE
 
-[reg. 3(1)]
+[reg. 3] (L.N. 84 of 2008)
 
 EXEMPTED ARTICLES
-
-(Adaptation amendments retroactively made - see 65 of 2000 s. 3)
 
 - 1. Any coin which is, or was formerly, current coin of Hong Kong or elsewhere. (65 of 2000 s. 3)
 
