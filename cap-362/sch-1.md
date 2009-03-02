@@ -1,6 +1,6 @@
-# SCHEDULE
+# SCHEDULE 1
 
-SCHEDULE | [section 3]
+[s. 3] (Amended 19 of 2008 s. 9)
 
 TABLE
 
@@ -21,3 +21,5 @@ Number of carats | Indicates gold of fineness of
 22 | . | 916.6 parts per thousand
 
 and so in proportion for any other number of carats.
+
+_
