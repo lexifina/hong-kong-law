@@ -1,6 +1,6 @@
 # FIRST SCHEDULE
 
-[paras. 2 & 4]
+[paras. 2, 4 & 6] (L.N. 82 of 2008)
 
 STANDARDS OF FINENESS
 
@@ -22,6 +22,8 @@ Standard | Fineness, not less than
 
 22 carat | 916.6
 
-Chuk Kam (足金) | 990
+足金 (Chuk Kam) | 999
 
 and so in proportion for any other number of carats.
+
+(L.N. 82 of 2008)

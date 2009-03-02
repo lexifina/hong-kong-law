@@ -1,10 +1,8 @@
 # SECOND SCHEDULE
 
-[paras. 4(3) & 6(1)(e)]
+[paras. 4(3) & 6(1)(f)] (L.N. 82 of 2008)
 
 EXEMPTED ARTICLES
-
-(Adaptation amendments retroactively made - see 65 of 2000 s. 3)
 
 - 1. Any coin which is, or was formerly at any time, current coin of Hong Kong or elsewhere. (65 of 2000 s. 3)
 
