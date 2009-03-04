@@ -40,6 +40,8 @@ Item | Name of Substance | Definition of Substance
 
 18. | Cycloserine | An antibiotic agent isolated from strains of Streptomyces orchidaceus and S. garyphalus.
 
+18A. | Daptomycin | An antibiotic agent derived from Streptomyces roseosporus. (L.N. 14 of 2009)
+
 19. | Daunorubicin | An antibiotic agent isolated from Streptomyces caeruleorubidus.
 
 19A. | Enramycin | An antibiotic agent isolated from Streptomyces fungicidicus. (L.N. 364 of 1993)
