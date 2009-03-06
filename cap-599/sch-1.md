@@ -16,6 +16,8 @@ SCHEDULED INFECTIOUS DISEASES
 
 - 6. Chickenpox (水痘)
 
+- 6A. Chikungunya fever (基孔肯雅熱) (Added L.N. 35 of 2009)
+
 - 7. Cholera (霍亂)
 
 - 8. Community-associated methicillin-resistant Staphylococcus aureus infection (社區型耐甲氧西林金黃葡萄球菌感染)
@@ -25,6 +27,8 @@ SCHEDULED INFECTIOUS DISEASES
 - 10. Dengue fever (登革熱)
 
 - 11. Diphtheria (白喉)
+
+- 11A. Enterovirus 71 infection (腸病毒71型感染) (Added L.N. 35 of 2009)
 
 - 12. Escherichia coli O157:H7 infection (大腸桿菌O157:H7感染)
 
