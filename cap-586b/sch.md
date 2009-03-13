@@ -6,7 +6,7 @@ SPECIES REFERRED TO IN SECTION 5
 
 Item | Species | Limit on quantity
 
-1. | Caviar of any species of the order Acipenseriformes <sturgeons> | Up to 250 grams per person
+1. | Caviar of any species of the order Acipenseriformes <sturgeons> (L.N. 5 of 2009) | Up to 125 grams per person
 
 2. | Rainstick of any species of the family Cactaceae <cacti> | Up to 3 specimens per person
 
