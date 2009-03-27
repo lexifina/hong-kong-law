@@ -40,7 +40,7 @@ EVIDENCE AND INFORMATION
 
     - (b) to any person who would have been empowered under this Schedule to request that it be furnished or produced;
 
-    - (c) on the authority of the Chief Executive, subject to the information or document being transmitted through and with the approval of the instructing authority, to any organ of the United Nations or to any person in the service of the United Nations or to the Government of any place outside the People’s Republic of China for the purpose of assisting the United Nations or that Government in securing compliance with or detecting evasion of measures in relation to Somalia or Sierra Leone decided upon by the Security Council of the United Nations; or (L.N. 367 of 1998; L.N. 281 of 2001; L.N. 236 of 2008)
+    - (c) on the authority of the Chief Executive, subject to the information or document being transmitted through and with the approval of the instructing authority, to any organ of the United Nations or to any person in the service of the United Nations or to the Government of any place outside the People’s Republic of China for the purpose of assisting the United Nations or that Government in securing compliance with or detecting evasion of measures in relation to Sierra Leone decided upon by the Security Council of the United Nations; or (L.N. 367 of 1998; L.N. 281 of 2001; L.N. 236 of 2008; L.N. 59 of 2009)
 
     - (d) with a view to the institution of, or otherwise for the purposes of, any proceedings for an offence under this Regulation or, with respect to any of the matters regulated by this Regulation, for an offence against any enactment relating to customs.
 
