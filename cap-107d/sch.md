@@ -14,6 +14,6 @@ per trip
 
 4. | Monthly ticket (valid for current calendar month only) | $170
 
-5. | Tourist ticket (valid for unlimited travel for any 4 consecutive days counting from (and including) the day of issue of the ticket, and available only to a person given permission under the Immigration Ordinance (Cap. 115) to land in Hong Kong as a visitor) | $30
+5. | Tourist ticket (valid for unlimited travel for 4 consecutive days counting from (and including) the day of issue of the ticket, and available only to a person having permission to land in Hong Kong as a visitor under the Immigration Ordinance (Cap. 115)) (L.N. 33 of 2009) | $34
 
 (Schedule replaced L.N. 537 of 1996. L.N. 186 of 1997; L.N. 95 of 1998)
