@@ -10,20 +10,20 @@ Description of allowance | Monthly rate
 
 (HK$)
 
-Constant attendance allowance | 5185.97 (maximum)
+Constant attendance allowance | 5315.62 (maximum)
 
-Exceptionally severe disablement allowance | 2593.52 (maximum)
+Exceptionally severe disablement allowance | 2658.36 (maximum)
 
-Comforts allowance | 1110.44 (maximum)
+Comforts allowance | 1138.20 (maximum)
 
 Age allowance, with degree of disablement being—
 
-(a) 40 to 50% | 457.24
+(a) 40 to 50% | 468.67
 
-(b) over 50%, but not exceeding 70% | 706.74
+(b) over 50%, but not exceeding 70% | 724.41
 
-(c) over 70%, but not exceeding 90% | 1008.71
+(c) over 70%, but not exceeding 90% | 1033.93
 
-(d) over 90% | 1410.27
+(d) over 90% | 1445.53
 
-(Amended L.N. 489 of 1997; L.N. 308 of 1998; L.N. 217 of 1999; L.N. 134 of 2005; L.N. 172 of 2006; L.N. 172 of 2007; L.N. 210 of 2008)
+(Amended L.N. 489 of 1997; L.N. 308 of 1998; L.N. 217 of 1999; L.N. 134 of 2005; L.N. 172 of 2006; L.N. 172 of 2007; L.N. 210 of 2008; L.N. 175 of 2009)
