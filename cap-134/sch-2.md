@@ -222,4 +222,10 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 109. Po Leung Kuk Comfort Court for the Senior (Added L.N. 37 of 2007)
 
-- 110. Haven of Hope Holistic Care Centre (Added L.N. 37 of 2007) (Second Schedule replaced L.N. 187 of 1992)
+- 110. Haven of Hope Holistic Care Centre (Added L.N. 37 of 2007)
+
+- 111. Po Leung Kuk Tin Yan Home for the Elderly cum Green Joy Day Care Centre for the Elderly (Added L.N. 15 of 2009)
+
+- 112. Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (Added L.N. 15 of 2009)
+
+- 113. The Hong Kong Anti-Cancer Society Jockey Club Cancer Rehabilitation Centre (Added L.N. 15 of 2009) (Second Schedule replaced L.N. 187 of 1992)
