@@ -1,5 +1,5 @@
 HONG KONG COURT OF FINAL APPEAL FEES RULES
 
-(Cap. 484 section 39)
+(Cap. 484, section 39)
 
 [1 July 1997]
