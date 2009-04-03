@@ -174,6 +174,10 @@ Item Body
 
 - 86. Farida Hair & Beauty Education Centre (Added L.N. 224 of 2008)
 
-- 87. Hong Kong Society of Professional Medical Care (Added L.N. 224 of 2008)
+- 87. (Repealed L.N. 60 of 2009)
 
-- 88. Aberdeen Kai-fong Welfare Association Limited (Added L.N. 279 of 2008) (Schedule 2 replaced L.N. 269 of 1999)
+- 88. Aberdeen Kai-fong Welfare Association Limited (Added L.N. 279 of 2008)
+
+  - 89. Asia-Pacific Institute of Ageing Studies, Lingnan University (Added L.N. 60 of 2009)
+
+- (Schedule 2 replaced L.N. 269 of 1999)
