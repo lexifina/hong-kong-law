@@ -18,6 +18,8 @@ Recorder of the Court of First Instance (Added 80 of 1994 s. 12)
 
 Chief District Judge (Added L.N. 7 of 1995)
 
+Principal Family Court Judge (Added L.N. 88 of 2009)
+
 District Judge
 
 Coroner (Added 49 of 1980 s. 8)
