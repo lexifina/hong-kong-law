@@ -32,7 +32,7 @@ Stavesacre, alkaloids of | Soaps; ointments; lotions for external use
 
 para-Aminobenzenesulphonamide; its salts; derivatives of para-aminobenzenesulphonamide having any of the hydrogen atoms of the para amino group or of the sulphonamide group substituted by another radical; their salts | Feeding stuffs containing not more than 0.5% of total sulphonamides
 
-Androgenic, oestrogenic and progestational substances, the following— Benzoestrol | Preparations intended for external application only; except preparations containing more than 4 milligrammes of oestrogenic substance per 100 grammes of inert substance (L.N. 415 of 1984)
+Androgenic, oestrogenic and progestational substances, the following— Benzoestrol | Preparations intended for external application only; except preparations containing more than 4 milligrammes of oestrogenic substance per 100 grammes of inert substance and preparations containing testosterone or its esters (L.N. 90 of 2009)
 
 Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters
 
