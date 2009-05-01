@@ -152,7 +152,7 @@ of .
 
   - (a) has accumulated the number of CPD accreditation points that is required by section 5 of the Continuing Professional Development Rules (Cap. 159 sub. leg. W) to be accumulated by the end of his period of employment as a trainee solicitor;
 
-- (aa)*has attended all general core courses and the minimum hours of elective courses required under the Legal Practitioners (Risk Management Education) Rules (Cap. 159 sub. leg. Z) during his employment as a trainee solicitor;
+- (aa)*has completed all general core courses and the minimum hours of elective courses required under the Legal Practitioners (Risk Management Education) Rules (Cap. 159 sub. leg. Z) during his employment as a trainee solicitor;
 
   - (b) has passed or obtained or been granted total exemption from the examinations required by rule 7 of the Trainee Solicitors Rules (Cap. 159 sub. leg. J);
 
@@ -162,7 +162,7 @@ of .
 
   - (e) is in other respects fit to be a solicitor. Dated this . day of . (Sgd.) . for The Law Society of Hong Kong. * Delete whichever inapplicable.
 
-(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000; L.N. 247 of 2002)
+(L.N. 466 of 1994; L.N. 627 of 1997; L.N. 114 of 2000; L.N. 247 of 2002; L.N. 277 of 2009)
 
 _
 
@@ -330,7 +330,7 @@ of .
 
   - 9. I have accumulated the number of CPD accreditation points that is required by section 5 of the Continuing Professional Development Rules (Cap. 159 sub. leg. W) to be accumulated by the end of my period of employment as a trainee solicitor.
 
-  - 10.* I have attended all general core courses and the minimum hours of elective courses required under the Legal Practitioners (Risk Management Education) Rules (Cap. 159 sub. leg. Z) during my employment as a trainee solicitor.
+  - 10.* I have completed all general core courses and the minimum hours of elective courses required under the Legal Practitioners (Risk Management Education) Rules (Cap. 159 sub. leg. Z) during my employment as a trainee solicitor.
 
 - (b) AND I, the Principal for myself say as follows—
 
@@ -368,7 +368,7 @@ of .
 
 - Note: Where the Trainee Solicitor has been employed under two or more trainee solicitor contracts, each person employing him shall make a separate declaration. * Delete whichever is inapplicable.
 
-- (L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002; L.N. 247 of 2002)
+- (L.N. 466 of 1994; L.N. 627 of 1997; L.N. 321 of 1998; L.N. 114 of 2000; L.N. 136 of 2002; L.N. 247 of 2002; L.N. 277 of 2009)
 
 - _
 
