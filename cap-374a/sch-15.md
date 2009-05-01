@@ -1,10 +1,10 @@
 # Schedule 15
 
-[reg. 73(1A)]
+[reg. 73(1A), (1AA) & (2)] (L.N. 152 of 2007)
 
-- PART 1 SEATS AND THEIR ANCHORAGES FOR PUBLIC LIGHT BUSES
+- PART 1 SEATS AND THEIR ANCHORAGES FOR PUBLIC LIGHT BUSES REGISTERED ON OR
 
-- REGISTERED ON OR AFTER 1 AUGUST 2004 (L.N. 152 of 2007)
+- AFTER 1 AUGUST 2004 (L.N. 152 of 2007)
 
   - 1. ECE Regulation No. 80 made by the Economic Commission for Europe dated 25 May 1989 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 79) including all revisions for seats of large passenger vehicles and of these vehicles with regard to the strength of the seats and their anchorages made before 1 August 2004.
 
@@ -28,7 +28,9 @@
 
 - PART 2 HEAD RESTRAINTS FOR PUBLIC LIGHT BUSES
 
-- REGISTERED ON OR AFTER 1 AUGUST 2004 (L.N. 152 of 2007)
+- REGISTERED ON OR AFTER 1 AUGUST 2004 AND
+
+- STUDENT SERVICE VEHICLES REGISTERED ON OR AFTER 1 MAY 2009 (L.N. 152 of 2007)
 
   - 1. ECE Regulation No. 25 made by the Economic Commission for Europe dated 30 December 1971 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 24) including all revisions for head restraints (headrests), whether or not incorporated in vehicle seats, made before 1 August 2004.
 
@@ -44,4 +46,34 @@
 
   - 7. Australian Design Rule 22/00 approved in Road Vehicle (National Standards) Determination No. 2 of 1995 (Australia) including all revisions for head restraints made before 1 August 2004.
 
-  - 8. Any other specifications and standards which are demonstrated to the Commissioner to be substantially the same as or more stringent than any specification or standard specified in any other section of this Part. (L.N. 152 of 2007) (L.N. 152 of 2007) (Schedule 15 added L.N. 147 of 2002)
+  - 8. Any other specifications and standards which are demonstrated to the Commissioner to be substantially the same as or more stringent than any specification or standard specified in any other section of this Part. (L.N. 152 of 2007) (L.N. 152 of 2007)
+
+- PART 3 IMPACT ENERGY ABSORPTION REQUIREMENTS
+
+- FOR PUBLIC LIGHT BUSES AND STUDENT SERVICE
+
+- VEHICLES REGISTERED ON OR AFTER 1 MAY 2009
+
+  - 1. Annex 4 of ECE Regulation No. 21 Rev. 2 made by the Economic Commission for Europe dated 12 October 1993 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 20/Rev. 2) including all revisions made before 1 November 2006.
+
+  - 2. Any other specifications and standards which are demonstrated to the Commissioner to be substantially the same as or more stringent than the standard specified in section 1. (L.N. 152 of 2007)
+
+- PART 4 FIRE RESISTANCE REQUIREMENTS FOR
+
+- PUBLIC LIGHT BUSES AND STUDENT SERVICE
+
+- VEHICLES REGISTERED ON OR AFTER 1 MAY 2009
+
+  - 1. ECE Regulation No. 118 made by the Economic Commission for Europe dated 20 April 2005 (E/ECE/324-E/ECE/TRANS/505/Rev. 2/Add. 117) including all revisions made before 1 November 2006.
+
+  - 2. Any other specifications and standards which are demonstrated to the Commissioner to be substantially the same as or more stringent than the standard specified in section 1. (L.N. 152 of 2007)
+
+- PART 5 SEATS AND THEIR ANCHORAGES FOR
+
+- STUDENT SERVICE VEHICLES REGISTERED
+
+- ON OR AFTER 1 MAY 2009
+
+  - 1. ECE Regulation No. 80 made by the Economic Commission for Europe dated 25 May 1989 (E/ECE/324-E/ECE/TRANS/505/Rev. 1/Add. 79) including all revisions made before 1 November 2006.
+
+  - 2. Any other specifications and standards which are demonstrated to the Commissioner to be substantially the same as or more stringent than the standard specified in section 1. (L.N. 152 of 2007) (Schedule 15 added L.N. 147 of 2002)
