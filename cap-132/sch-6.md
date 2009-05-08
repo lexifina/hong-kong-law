@@ -88,6 +88,14 @@ Director of Health where the direction is given by him or a public officer autho
 
 Director of Health where the offence committed is in respect of drugs.
 
+78D | Director of Food and Environmental Hygiene
+
+78E | Director of Food and Environmental Hygiene
+
+78F | Director of Food and Environmental Hygiene
+
+78I | Director of Food and Environmental Hygiene
+
 81 | Director of Food and Environmental Hygiene
 
 83B | Director of Food and Environmental Hygiene
@@ -128,4 +136,4 @@ Director of Health where the offence committed is in respect of drugs.
 
 128C | Director of Food and Environmental Hygiene
 
-(Sixth schedule replaced 78 of 1999 s. 7. Amended 1 of 2002 s. 5)
+(Sixth schedule replaced 78 of 1999 s. 7. Amended 1 of 2002 s. 5; 3 of 2009 s. 4)
