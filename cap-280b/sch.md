@@ -8,7 +8,7 @@
 
 - 4. (Repealed L.N. 53 of 2008)
 
-- 5. The site and buildings, except those parts of the buildings known as Dormitories C2 and C3, situated at the junction of Shek O Road and Cape Collinson Road at the place known as Dragon’s Back, and hitherto known as Tai Tam Gap Prison, which shall be known as the Tai Tam Gap Correctional Institution. (L.N. 169 of 1979; L.N. 179 of 2004)
+- 5. (Repealed L.N. 56 of 2009)
 
 - 6. (Repealed L.N. 34 of 1978)
 
