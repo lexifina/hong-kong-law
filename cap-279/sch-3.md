@@ -8,7 +8,7 @@ School Name | School Address
 
 Confucius Hall Middle School | 77 Caroline Hill Road, Hong Kong
 
-Hong Kong Sam Yuk Secondary School | 17A Ventris Road, Hong Kong
+Discovery College | 38 Siena Avenue, Discovery Bay, Lantau Island, New Territories (Added L.N. 57 of 2009)
 
 The Independent Schools Foundation Academy | 1 Kong Sin Wan Road, Pokfulam, Hong Kong (Replaced L.N. 146 of 2008)
 
@@ -22,8 +22,6 @@ Po Leung Kuk Choi Kai Yau School | 5 Kwong Lee Road, Shamshuipo, Kowloon (Amende
 
 Renaissance College | No. 5 Hang Ming Street, Ma On Shan, Shatin, New Territories (Added L.N. 272 of 2006)
 
-Sam Yuk Middle School | 1111 Clear Water Bay Road, Sai Kung, New Territories
-
 S.K.H. All Saints’ Middle School | 11 Pak Po Street, Kowloon
 
 United Christian College | 9 & 11 Tong Yam Street, Tai Hang Tung, Shamshuipo, Kowloon
@@ -32,4 +30,4 @@ Victoria Shanghai Academy | 19 Shum Wan Road, Aberdeen, Hong Kong (Added L.N. 27
 
 Yew Chung International School—Secondary | 3 To Fuk Road, Kowloon Tong, Kowloon (Added L.N. 146 of 2008)
 
-(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008)
+(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009)
