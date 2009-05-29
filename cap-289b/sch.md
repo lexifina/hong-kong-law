@@ -334,4 +334,6 @@ Item | Periods | Rate of interest
 
 165. 166. | On or after 1 December 2008 and before 5 January 2009 (L.N. 250 of 2008; L.N.2 of 2009) On or after 5 January 2009 and before 2 February 2009 (L.N. 2 of 2009; L.N. 19 of 2009) | 0.45% per annum 0.3667% per annum
 
-167. | On or after 2 February 2009 (L.N. 19 of 2009) | 0.2667% per annum
+167. | On or after 2 February 2009 and before 1 June 2009 (L.N. 19 of 2009; L.N. 115 of 2009) | 0.2667% per annum
+
+168. | On or after 1 June 2009 (L.N. 115 of 2009) | 0.1167% per annum
