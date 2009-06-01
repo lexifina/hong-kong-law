@@ -162,7 +162,7 @@ West Kowloon Cultural District Authority. (Added 27 of 2008 s. 43)
 
 (Amended L.N. 76 of 1989; L.N. 373 of 1989; 8 of 1993 s. 28; 78 of 1999 s. 7; 13 of 2000 s. 65; L.N. 152 of 2000; 63 of 2000 s. 38; L.N. 253 of 2001; 3 of 2003 s. 28; L.N. 164 of 2003; L.N. 104 of 2004; 11 of 2004 s. 18; L.N. 168 of 2006)
 
-- PART II Independent Commission Against Corruption. Hong Kong Auxiliary Police Force. (Amended 25 of 1998 s. 2) Hong Kong Police Force. (Amended 25 of 1998 s. 2) Secretariat of the Independent Police Complaints Council. Secretariat of the Public Service Commission. (Part II added 74 of 1996 s. 9)
+- PART II Independent Commission Against Corruption. Hong Kong Auxiliary Police Force. (Amended 25 of 1998 s. 2) Hong Kong Police Force. (Amended 25 of 1998 s. 2) Secretariat of the Public Service Commission. (Amended 33 of 2008 s. 48) (Part II added 74 of 1996 s. 9)
 
 Editorial Note:
 
