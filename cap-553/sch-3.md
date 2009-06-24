@@ -24,4 +24,6 @@ Item | Enactment | Provision
 
 9. | Waterworks Regulations (Cap. 102 sub. leg. A) (Added L.N. 249 of 2008) | Regulation 49(1)(a) and (b)
 
+10. | Census and Statistics Ordinance (Cap. 316) (Added L.N. 83 of 2009) | Section 12(3)(a) and (b)
+
 (Schedule 3 added 14 of 2004 s. 28)
