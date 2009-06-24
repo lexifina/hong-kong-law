@@ -88,7 +88,7 @@ Item | Enactment | Provision
 
 51. | New Territories Land Exchange Entitlements (Redemption) Ordinance (Cap. 495) | Section 5(1) and (2) (L.N. 152 of 2006)
 
-52. | Environmental Impact Assessment Ordinance (Cap. 499) | Sections 4(5), 5(1), (2) and (4), 6(2), 7(1)(a), 8(1), 10(1)(a), 12(1) and (2) and 13(1)
+52. | Environmental Impact Assessment Ordinance (Cap. 499) | Sections 4(5), 5(1), (2) and (4), 6(2), 7(1)(a), 8(1) and 13(1) (L.N. 84 of 2009)
 
 53. | (Repealed L.N. 152 of 2006)
 
