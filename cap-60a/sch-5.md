@@ -14,7 +14,7 @@ Item | Countries or Places | Textiles | Process
 
 (L.N. 155 of 2004)
 
-2. | Member States of the European Union | Cut-and-sewn garments, which mean garments that are cut and sewn, or otherwise assembled, from fabrics. | Such assembling operations of such parts of the garments as the Director may determine for entitling the garments to a certificate of Hong Kong origin under the certification of origin system administered by the Director. (L.N. 4 of 2006)
+2. (Repealed L.N. 68 of 2009)
 
 - PART II (Repealed L.N. 155 of 2004)
 
