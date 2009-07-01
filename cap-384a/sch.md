@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[regs. 2, 4, 5, 6, 7 & 7A] (L.N. 76 of 2006)
+[regs. 2, 4, 5, 6, 7, 7A & 7B] (L.N. 76 of 2006)
 
 - PART I SPECIFIED EDITION OF THE TECHNICAL INSTRUCTIONS 2007-2008 Edition (L.N. 76 of 2006; L.N. 193 of 2007)
 
@@ -34,4 +34,8 @@ regulation 7A(1)(b) | Chapter 4.2 of Part 1.
 
 regulation 7A(1)(d) | Chapter 4.3 of Part 1.
 
-(L.N. 444 of 1990; L.N. 389 of 1992; L.N. 678 of 1994; L.N. 542 of 1996; L.N. 60 of 1999; L.N. 235 of 2001; L.N. 217 of 2003; L.N. 76 of 2006; L.N. 193 of 2007)
+regulation 7B(1)(d) | Chapter 4.2 of Part 1.
+
+regulation 7B(1)(f) | Chapter 4.3 of Part 1.
+
+(L.N. 444 of 1990; L.N. 389 of 1992; L.N. 678 of 1994; L.N. 542 of 1996; L.N. 60 of 1999; L.N. 235 of 2001; L.N. 217 of 2003; L.N. 76 of 2006; L.N. 193 of 2007; L.N. 197 of 2007)
