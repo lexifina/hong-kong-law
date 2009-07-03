@@ -2,39 +2,43 @@
 
 [reg. 18]
 
-FORM 1 | [regulation 2]
+Form 1 | [reg. 2]
 
-NOTICE OF APPEAL
+Notice of Appeal
 
 In the matter of the ship
 
 To the Director of Marine of Hong Kong.
 
-Take notice that I, (name and address) the master (or managing owner of shares) of the ship of the part of do appeal—
+Take notice that I, (name and address) the master (or managing owner of shares) of the ship of the part of
 
-- (1) From the report of the surveyor appointed by the Governor to survey the said ship; or
+do appeal from the report of the surveyor appointed by the Chief Executive to survey the ship.
 
-- (2) From a declaration given by , Assistant Director of Marine (Ship Surveys) (or from the refusal of , Assistant Director of Marine (Ship Surveys), to give a declaration), under the provisions of section 29 of the Merchant Shipping Ordinance (Cap. 281); or
+The address at which all notices and documents may be served by post or otherwise on me is
 
-- (3) (Repealed 52 of 1977 s. 3)
-
-- (4) From the refusal of the Director of Marine to give a clearance under section 45 of the Merchant Shipping Ordinance (Cap. 281).
-
-The address at which all notices and documents may be served by post or otherwise on me is Dated this day of , 19 .
+Dated this day of , .
 
 (To be signed by the appellant).
 
-FORM 2 | [regulation 4]
+(10 of 2009 s. 40) __________
 
-SUMMONS TO COURT
+Form 2 | [reg. 4]
+
+Summons to Court
 
 The Court of Survey for Hong Kong
 
-In the matter of an appeal by from the report of , the surveyor appointed by the Governor to survey the (or as the case may be).
+In the matter of an appeal by
 
-In pursuance of the Merchant Shipping Ordinance (Cap. 281), I hereby summon you to attend as on this appeal, at a.m. on the day of , 19 .A copy of the notice of appeal is attached.
+from the report of , the surveyor appointed by the Chief Executive to survey the
 
-Dated at Victoria, Hong Kong, this day of , 19 .
+(or as the case may be).
+
+In pursuance of the Merchant Shipping Ordinance (Cap. 281), I hereby summon you to attend as
+
+on this appeal, at a.m. on the day of , . A copy of the notice of appeal is attached.
+
+Dated this day of , .
 
 Magistrate and President of the Court.
 
@@ -42,28 +46,44 @@ I will attend as summoned.
 
 (Signature of person summoned).
 
-FORM 3 | [regulation 17]
+(10 of 2009 s. 40) __________
 
-ORDER OF COURT FOR RELEASE OR DETENTION OF SHIP The Court of Survey for Hong Kong
+Form 3 | [reg. 17]
 
-In the matter of an appeal by from the report of , the surveyor appointed by the Governor to survey the (or as the case may be).
+Order of Court for Release or Detention of Ship The Court of Survey for Hong Kong
 
-We do order the said ship to be released (or detained finally or conditionally upon ).
+In the matter of an appeal by
 
-Given under our hands at , Hong Kong, this day of , 19 .
+from the report of , the surveyor appointed by the Chief Executive to survey the
+
+(or as the case may be).
+
+We do order the said ship to be released (or detained finally or conditionally upon
+
+).
+
+Given under our hands at , Hong Kong, this day of , .
 
 Members of the Court of Survey.
 
-FORM 4 | [regulation 17]
+(10 of 2009 s. 40) __________
 
-REPORT OF MEMBERS OF COURT The Court of Survey for Hong Kong
+Form 4 | [reg. 17]
 
-In the matter of an appeal by from the report of , the surveyor appointed by the Governor to survey the (or as the case may be).
+Report of Members of Court The Court of Survey for Hong Kong
+
+In the matter of an appeal by
+
+from the report of , the surveyor appointed by the Chief Executive to survey the
+
+(or as the case may be).
 
 We do report that having heard this appeal, we did order the said ship to be released (or detained finally or conditionally upon ) for the reasons set forth in the annexed statement.
 
 We are also of opinion that the costs of this appeal should be paid by the appellant (or by the Government), or (that all parties shall pay their own costs).
 
-Dated this day of , 19 .
+Dated this day of , .
 
 Members of the Court of Survey.
+
+(10 of 2009 s. 40)
