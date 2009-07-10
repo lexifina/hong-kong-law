@@ -438,7 +438,7 @@ Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Tate�
 
 Editorial Note:
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004, L.N. 6 of 2005, 21 of 2005 s. 29, L.N. 202 of 2005, 23 of 2005 s. 26 and L.N. 30 of 2007. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004, L.N. 6 of 2005, 21 of 2005 s. 29, L.N. 202 of 2005, 23 of 2005 s. 26, L.N. 30 of 2007 and L.N. 99 of 2009. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
 
 Public Office | Ordinance or section of Ordinance for which specified
 
@@ -475,6 +475,10 @@ L.N. 202 of 2005 | Chief Secretary for Administration | Church of England Trust 
 23 of 2005 s. 26 | Secretary for Security | Marriage Ordinance (Chapter 181), section 5J(7).
 
 L.N. 30 of 2007 | Collector of Stamp Revenue | Betting Duty Ordinance (Cap. 108), sections 6GH(3), 6GI(5), 6GJ(1), 6GK(1), (3)(b) and (4), 6GL(2), (3) and (5), 6GM(1), 6GN(4) and (8)(b), 6GO(4)(a), 6ZO(2), (3), (4) and (6)(a). Betting Duty Regulations (Cap. 108 sub. leg. A), regulation 3AA(3)(b) and (5).
+
+L.N. 99 of 2009 | Commissioner for Transport | Tsing Sha Control Area Ordinance (Cap. 594). Tsing Sha Control Area (General) Regulation (Cap. 594 sub. leg. A). Tsing Sha Control Area (Tolls, Fees and Charges) Regulation (Cap. 594 sub. leg. B).
+
+Director of Highways | Tsing Sha Control Area Ordinance (Cap. 594). Tsing Sha Control Area (General) Regulation (Cap. 594 sub. leg. A).
 
 - 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
 
