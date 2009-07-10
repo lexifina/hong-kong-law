@@ -1,8 +1,6 @@
 # SCHEDULE 2
 
-[regulations 2,
-
-12, 13 & 14]
+[regs. 2, 12, 13 & 14] (L.N. 96 of 2009)
 
 TOLLS AND FEES
 
@@ -44,7 +42,7 @@ Vehicle | Removal Fee
 
 Aberdeen Tunnel | Cross— Harbour Tunnel | Kai Tak Tunnel | Lion Rock Tunnel | Shing Mun Tunnels | Tseung Kwan O Tunnel
 
-1. Private cars, taxis and motor cycles | $140 | $140 | $140 | $140 | $140 | $140
+1. Private cars, taxis, motor cycles and motor tricycles | $140 | $140 | $140 | $140 | $140 | $140
 
 2. Public and private light buses, public and private single-decked buses and goods vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes | $175 | $175 | $175 | $175 | $175 | $175
 
@@ -58,4 +56,4 @@ Aberdeen Tunnel | Cross— Harbour Tunnel | Kai Tak Tunnel | Lion Rock Tunnel | 
 
 All vehicles | $82 | $82 | $82 | $82 | $82 | $82
 
-(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 35; 49 of 1999 s. 15; L.N. 33 of 2006)
+(L.N. 339 of 1990; 40 of 1991 s. 4; L.N. 2 of 1993; L.N. 47 of 1993; L.N. 264 of 1994; L.N. 198 of 1995; L.N. 528 of 1996; L.N. 29 of 1998; L.N. 142 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 35; 49 of 1999 s. 15; L.N. 33 of 2006; L.N. 96 of 2009)
