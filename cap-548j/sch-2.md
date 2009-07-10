@@ -6,9 +6,9 @@ FEES PRESCRIBED FOR PURPOSES OF MERCHANT SHIPPING (LOCAL VESSELS) (GENERAL) REGU
 
 Item | Matter | Fee
 
-1. | An application under section 4 of the General Regulation for an arrival clearance in respect of a local vessel | $97
+1. | An application under section 4 of the General Regulation for an arrival clearance in respect of a local vessel (L.N. 103 of 2009) | $58
 
-2. | An application under section 6 of the General Regulation for a port clearance in respect of a local vessel | $97
+2. | An application under section 6 of the General Regulation for a port clearance in respect of a local vessel (L.N. 103 of 2009) | $58
 
 3. | A permit to remain granted in respect of a local vessel under section 41 of the General Regulation, or renewed under section 42 of that Regulation—
 
