@@ -98,7 +98,7 @@ Note: | In this item, “length” (長度) means the size of vessel, in terms o
 
 Note: | In this sub-item, “the date of completion” (完工日期) means the date of completion specified in the certificate referred to in sub-item (a).
 
-(f) | Fee for a port clearance permit . | 97
+(f) | Fee for a port clearance permit (L.N. 100 of 2009) . | 58
 
 (g) | Fee for a permit to undertake ship repairs . | Nil
 
