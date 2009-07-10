@@ -48,7 +48,7 @@
 
     - 5. | For the inspection of crew accommodation—
 
-    - (a) whenever there is reason to believe that the ship is not complying with any provision of the Merchant Shipping (Seafarers) (Crew Accommodation) Regulation (Cap. 478 sub. leg.) or any condition subject to which the ship has been exempted from a requirement of that Regulation | 7350 per visit
+    - (a) whenever there is reason to believe that the ship is not complying with any provision of the Merchant Shipping (Seafarers) (Crew Accommodation) Regulation (Cap. 478 sub. leg. I) or any condition subject to which the ship has been exempted from a requirement of that Regulation | 7350 per visit
 
     - (b) at the request of the owner or of any person being representative of the owners or of the crew of that ship | 7350 per visit
 
@@ -76,7 +76,7 @@
 
     - Note: The fee prescribed in this item is in addition to any fee charged by the testing authority.
 
-- PART II FEES PAYABLE FOR EXAMINATIONS, ETC. Note: (1) The fees specified in this Part include the issue of the appropriate certificate of competency or licence under the Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg.).
+- PART II FEES PAYABLE FOR EXAMINATIONS, ETC. Note: (1) The fees specified in this Part include the issue of the appropriate certificate of competency or licence under the Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J).
 
   - (2) The fee for a sight test specified in item 6(a) is included in the fee for an examination for a certificate of competency specified in item 1 in cases where the sight test is conducted as part of the examination. In the event of a candidate failing the sight test, the balance of the relevant fees paid for the examination, less the fee for sight test, will be refunded to the candidate.
 
@@ -160,7 +160,7 @@
 
 - (c) Marine Engineer Officer Class 3 | 2410
 
-- 5. | Fee for issue of a licence as Deck Officers, or Marine Engineer Officers, Class 1, Class 2 or Class 3 without examination (L.N. 90 of 1999 and 44 of 1999 s. 43) | 715
+- 5. | Fee for issue of a licence as Deck Officers, or Marine Engineer Officers, Class 1, Class 2 or Class 3 without examination (L.N. 90 of 1999 and 44 of 1999 s. 43; L.N. 102 of 2009) | 400
 
 - 6. | Fees for miscellaneous examinations, certificates and endorsements—
 
@@ -192,7 +192,7 @@
 
 - Note: No fee shall be payable under this item if the Authority is satisfied that the loss of a certificate or licence was without fault on the part of the holder of the certificate or licence.
 
-- 8. | Fees for a copy of any determination made under section 8, 10 or 15 of the Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg.) | 155
+- 8. | Fees for a copy of any determination made under section 8, 10 or 15 of the Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J) | 155
 
 - 9. | Fees in relation to certificates of proficiency in survival craft—
 
@@ -210,7 +210,7 @@
 
 - (c) For issue of a copy of a certificate of competency as A.B., except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
 
-- (d) For issue of a copy of a certificate of competency issued under the revoked rules within the meaning of section 2 of the Merchant Shipping (Seafarers) (Certificates of Competency as A.B.) Rules (Cap. 478 sub. leg.), except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
+- (d) For issue of a copy of a certificate of competency issued under the revoked rules within the meaning of section 2 of the Merchant Shipping (Seafarers) (Certificates of Competency as A.B.) Rules (Cap. 478 sub. leg. Y), except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
 
 - 11. | Fee for endorsement of validity of a certificate of competency, a certificate of service or a licence | 155
 
@@ -230,30 +230,42 @@ The following fees shall be payable—
 
 4. | For attesting crews’ account of wages and performed— (a) at the Office and for each seafarer (b) other than at the Office and for each seafarer | 160 160 plus $535 per hour or part thereof on a work done basis.
 
-5. | For attesting a new clause in a crew agreement, if performed— (a) at the Office (b) other than at the Office | 535 535 plus $535 per hour or part thereof on a work done basis.
+5. | For attesting a new clause in a crew agreement, if performed— (a) at the Office (b) other than at the Office (L.N. 102 of 2009) | Nil Nil
 
-6. | For miscellaneous services under this Part— (a) For issue of a certified copy of, or extract from, a document or statement of sea service— Each folio of 90 words or part thereof (b) For each sheet of a Rank Xerox (or similar) copy of a document provided by the Office (c) For inspection at the Office of a ship’s expired official log book or crew agreement— Per set (d) For any search of the Office records at request of applicant (e) For the production by any officer of the Office of a ship’s official log book or crew agreement in any court of law or at any inquiry on behalf of an applicant for the production thereof— Per set | 285 15 subject to a minimum of $220 including search fee. 200 200 535
+6. | For miscellaneous services under this Part— (a) For issue of a certified copy of, or extract from, a document or statement of sea service— Each folio of 90 words or part thereof (b) For each sheet of a Rank Xerox (or similar) copy of a document provided by the Office (c) For inspection at the Office of a ship’s expired official log book or crew agreement— Per set (L.N. 102 of 2009) (d) For any search of the Office records at request of applicant (e) For the production by any officer of the Office of a ship’s official log book or crew agreement in any court of law or at any inquiry on behalf of an applicant for the production thereof— Per set | 285 15 subject to a minimum of $220 including search fee. Nil 200 535
 
 Note: (1) This fee is for the attendance of an officer for one day only; it applies to the production of one document only (or one set). When several documents (or sets) have to be produced the fee is $535 a day for each document (or set) produced. (See Note to sub-item (g)). The fee is in addition to the fees payable for attendance by the officer under section 11 of this Regulation. (2) Travelling facilities must be provided by the person or persons requesting this service. Note: The fees under sub-items (a) to (e) are not charged to Hong Kong government departments or a department of the Central People’s Government or to consuls or other representatives of a government other than the Government of the Hong Kong Special Administrative Region when the service required is for official purposes, except when a prolonged search is entailed, in which case the appropriate rate must be paid at the discretion of the Authority. (23 of 1998 s. 2; 64 of 1999 s. 3)
 
-(f) For any entry of voyage or other official endorsement on Form HK Dis. 1 (g) For taking custody of a ship’s crew agreement and making any necessary endorsement thereon | 61 285
+(f) For any entry of voyage or other official endorsement on Form HK Dis. 1 (L.N. 102 of 2009) (g) For taking custody of a ship’s crew agreement and making any necessary endorsement thereon | Nil 285
 
 Note: For the purposes of sub-items (c), (e) and (g) the crew agreement and official log book of a ship for one voyage, or in the case of a running agreement for 12 months, are regarded as constituting one set.
 
-(h) For certifying a desertion (per seafarer) (i) For providing the necessary documents and advice to enable a crew agreement to be opened at a place outside Hong Kong (j) For the issue of a pass to users of the Office other than Government officers | 285 285 110
+(h) For certifying a desertion (per seafarer) (i) For providing the necessary documents and advice to enable a crew agreement to be opened at a place outside Hong Kong (L.N. 102 of 2009) (j) For the issue of a pass to users of the Office other than Government officers (L.N. 102 of 2009) | 285 Nil Nil
 
 7. | Where any officer of the Marine Department is required to perform any service referred to in this Part either at the Office or at any other place in Hong Kong outside office hours, there shall be payable, in addition to the fee prescribed for the service required, the following charge— (a) on week-days from 7 a.m. to 9 a.m. or 5 p.m. to 7 p.m. (per hour per officer) (b) on week-days before 7 a.m. or after 7 p.m. (per hour per officer) (c) on Saturday afternoons, Sundays and public holidays (per hour per officer) | 1115 2215 3270
 
 Note: A service occupying less than an hour will be charged for as one hour, according to the scale. Where a service occupies more than one hour but not an exact number of hours the charge will be— (a) if the period in excess of an exact number of hours is 30 minutes or less, half the appropriate fee for one hour; (b) if the period in excess is more than 30 minutes, the appropriate fee for one hour.
 
-8. | Fees in relation to Engine Room Watch Rating Certificates— (a) For issue of an Engine Room Watch Rating Certificate (b) For issue of a copy of an Engine Room Watch Rating Certificate, except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate (c) For issue of a substitute certificate under the proviso to section 5(1) of the Merchant Shipping (Seafarers) (Engine Room Watch Ratings) Regulation (Cap. 478 sub. leg.) | 155 155 155
+8. | Fees in relation to Engine Room Watch Rating Certificates— (a) For issue of an Engine Room Watch Rating Certificate (L.N. 102 of 2009) (b) For issue of a copy of an Engine Room Watch Rating Certificate, except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | Nil 155
 
-9. | Fees in relation to Navigational Watch Rating Certificates— (a) For issue of a Navigational Watch Rating Certificate (b) For issue of a copy of a Navigational Watch Rating Certificate, except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate (c) For issue of a substitute certificate under the proviso to section 5(1) of the Merchant Shipping (Seafarers) (Navigational Watch Ratings) Regulation (Cap. 478 sub. leg.) | 155 155 155
+(c) For issue of a substitute certificate under the proviso to section 5(1) of the Merchant Shipping (Seafarers) (Engine Room Watch Ratings) Regulation (Cap. 478 sub. leg. V) (L.N. 102 of 2009) | Nil
 
-10. | Fees in relation to employment registration books— (a) For issue of an employment registration book under section 4 of the Merchant Shipping (Seafarers) (Employment Registration Books) Regulation (Cap. 478 sub. leg.) (b) For issue of an employment registration book under section 12(1) of the Merchant Shipping (Seafarers) (Employment Registration Books) Regulation (Cap. 478 sub. leg.) (c) For renewal of issue of an employment registration book under section 14 of the Merchant Shipping (Seafarers) (Employment Registration Books) Regulation (Cap. 478 sub. leg.) (d) For copying a complete sea service record into an employment registration book consequent to the loss, destruction or defacement of a previously issued employment registration book (e) For any entry of voyage or other official endorsement in an employment registration book | 105 105 105 10 10
+9. | Fees in relation to Navigational Watch Rating Certificates— (a) For issue of a Navigational Watch Rating Certificate (L.N. 102 of 2009) (b) For issue of a copy of a Navigational Watch Rating Certificate, except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | Nil 155
+
+(c) For issue of a substitute certificate under the proviso to section 5(1) of the Merchant Shipping (Seafarers) (Navigational Watch Ratings) Regulation (Cap. 478 sub. leg. W) (L.N. 102 of 2009) | Nil
+
+10. | Fees in relation to employment registration books— (a) For issue of an employment registration book under section 4 of the Merchant Shipping (Seafarers) (Employment Registration Books) Regulation (Cap. 478 sub. leg. U) (L.N. 102 of 2009) | Nil
+
+(b) For issue of an employment registration book under section 12(1) of the Merchant Shipping (Seafarers) (Employment Registration Books) Regulation (Cap. 478 sub. leg. U) | 105
+
+(c) For renewal of issue of an employment registration book under section 14 of the Merchant Shipping (Seafarers) (Employment Registration Books) Regulation (Cap. 478 sub. leg. U) (L.N. 102 of 2009) | Nil
+
+(d) For copying a complete sea service record into an employment registration book consequent to the loss, destruction or defacement of a previously issued employment registration book | 10
+
+(e) For any entry of voyage or other official endorsement in an employment registration book (L.N. 102 of 2009) | Nil
 
 Note: This fee is not chargeable for any endorsement which— (a) relates to a particular voyage and is made at the time of employment for or discharge from the voyage or at some later date provided an official certificate of discharge is produced to the Superintendent; (b) is required by the Superintendent; (c) relates to change of registered address or telephone number, or name, relationship and address of next of kin; or (d) constitutes an alteration to an original entry and is made by— (i) the Superintendent; or (ii) a public officer authorized by the Superintendent to make such an endorsement.
 
-11. | Fees in relation to employment services provided by the Office— (a) Fee for the conduct of a muster (b) Fee for the issue of an exemption certificate to a non-registered seafarer (c) Fee for a permit to use the emergency employment procedure (d) Fee for a permit to use the re-employment procedure (e) Fee for a permit to operate the company roster (f) Fee for amendment of particulars on a company roster (g) Employment of seafarers supplied through Office procedures (in respect of each seafarer employed) (h) Emergency employment (in respect of each seafarer employed) | 685 275 915 70 4620 275 100 100
+11. | Fees in relation to employment services provided by the Office— (a) Fee for the conduct of a muster (b) Fee for the issue of an exemption certificate to a non-registered seafarer (c) Fee for a permit to use the emergency employment procedure (d) Fee for a permit to use the re-employment procedure (e) Fee for a permit to operate the company roster (f) Fee for amendment of particulars on a company roster (g) Employment of seafarers supplied through Office procedures (in respect of each seafarer employed) (h) Emergency employment (in respect of each seafarer employed) (L.N. 102 of 2009) | Nil Nil Nil Nil Nil Nil Nil Nil
 
-12. | Fee for providing copy of Chinese language translation of the Code under the Merchant Shipping (Seafarers) (Code of Safe Working Practices) Regulation (Cap. 478 sub. leg.) | 95
+12. | Fee for providing copy of Chinese language translation of the Code under the Merchant Shipping (Seafarers) (Code of Safe Working Practices) Regulation (Cap. 478 sub. leg. M) | 95
