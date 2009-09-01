@@ -1,0 +1,5 @@
+FIXED PENALTY (SMOKING OFFENCES) REGULATION
+
+(Cap. 600, section 16)
+
+[1 September 2009] L.N. 110 of 2009
