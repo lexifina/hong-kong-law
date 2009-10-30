@@ -56,8 +56,6 @@ Kam Tin Market | 錦田街市
 
 Kik Yeung Road Cooked Food Market | 擊壤路熟食市場 (L.N. 156 of 1981)
 
-Kimberley Street Market | 金巴利街街市 (78 of 1999 s. 7)
-
 Kin Wing Cooked Food Market | 建榮熟食市場 (L.N. 180 of 1979)
 
 Kin Yip Street Cooked Food Market | 建業街熟食市場 (L.N. 150 of 1985)
@@ -212,7 +210,7 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005; L.N. 39 of 2006; L.N. 10 of 2007; L.N. 180 of 2008)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005; L.N. 39 of 2006; L.N. 10 of 2007; L.N. 180 of 2008; L.N. 205 of 2009)
 
 Editorial Note:
 
