@@ -1,6 +1,6 @@
 # SCHEDULE
 
-[paras. 3, 4A, 4AA, 5, 5A & 8] (L.N. 558 of 1994; L.N. 188 of 1999; 21 of 2006 s. 40)
+[paras. 3, 4A, 4AA, 5A & 8] (L.N. 558 of 1994; L.N. 188 of 1999; 21 of 2006 s. 40)
 
 - PART I (Repealed L.N. 188 of 1999)
 
@@ -144,77 +144,11 @@
 
   - (21 of 2006 s. 40)
 
-- PART III HEALTH WARNINGS ON TOBACCO
-
-- ADVERTISEMENTS ON DISPLAY
-
-  - 1. From 1 January to the last day of February (both dates inclusive) of a year, the prevailing health warning shall be—
-
-  - HKSAR GOVERNMENT HEALTH WARNING
-
-  - English Version | SMOKING KILLS
-
-  - 特區政府忠告市民
-
-  - Chinese Version | 吸煙足以致命
-
-  - 2. From 1 March to 30 April (both dates inclusive) of a year, the prevailing health warning shall be—
-
-  - HKSAR GOVERNMENT HEALTH WARNING
-
-  - English Version | SMOKING CAUSES CANCER
-
-  - 特區政府忠告市民
-
-  - Chinese Version | 吸煙引致癌病
-
-  - 3. From 1 May to 30 June (both dates inclusive) of a year, the prevailing health warning shall be—
-
-  - HKSAR GOVERNMENT HEALTH WARNING
-
-  - English Version | SMOKING CAUSES HEART DISEASE
-
-  - 特區政府忠告市民
-
-  - Chinese Version | 吸煙引致心臟病
-
-  - 4. From 1 July to 31 August (both dates inclusive) of a year, the prevailing health warning shall be—
-
-  - HKSAR GOVERNMENT HEALTH WARNING
-
-  - English Version | SMOKING CAUSES LUNG CANCER
-
-  - 特區政府忠告市民
-
-  - Chinese Version | 吸煙引致肺癌
-
-  - 5. From 1 September to 31 October (both dates inclusive) of a year, the prevailing health warning shall be—
-
-  - HKSAR GOVERNMENT HEALTH WARNING
-
-  - English Version | SMOKING CAUSES RESPIRATORY DISEASES
-
-  - 特區政府忠告市民
-
-  - Chinese Version | 吸煙引致 呼吸系統疾病
-
-  - 6. From 1 November to 31 December (both dates inclusive) of a year, the prevailing health warning shall be—
-
-  - HKSAR GOVERNMENT HEALTH WARNING
-
-  - English Version | SMOKING HARMS YOUR CHILDREN
-
-  - 特區政府忠告市民
-
-  - Chinese Version | 吸煙禍及子女
-
-  - (L.N. 188 of 1999)
+- PART III (Repealed 21 of 2006 s. 40)
 
 - PART IIIA FORM OF HEALTH WARNING ON PRICE BOARD
 
 - OF TOBACCO PRODUCTS
-
-香港特區政府忠告市民 吸煙足以致命 HKSAR GOVERNMENT WARNING SMOKING KILLS
 
 - Specifications:
 
