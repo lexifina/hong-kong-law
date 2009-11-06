@@ -180,4 +180,10 @@ Item Body
 
   - 89. Asia-Pacific Institute of Ageing Studies, Lingnan University (Added L.N. 60 of 2009)
 
+  - 90. Monita Hair & Beauty Academy (Added L.N. 221 of 2009)
+
+  - 91. Hospital & Clinic Nurses Association (Added L.N. 221 of 2009) 92 Division of Continuing and Professional Education, School of Chinese Medicine, Hong Kong Baptist University (Added L.N. 221 of 2009)
+
+  - 93. Occupational Safety and Health Council (Added L.N. 221 of 2009)
+
 - (Schedule 2 replaced L.N. 269 of 1999)
