@@ -78,7 +78,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 35. | Chung Mei Tsuen (涌美村) | VEB/2002/S/TY-01 | 1 October 2003 | 1 | Tsing Yi Rural Committee
 
-36. | Chung Sam Wai (忠心圍) | VEB/2002/M/PS-02 | 1 October 2003 | 1 | Ping Shan Rural Committee
+36. | (Amended and renumbered as item 625A)
 
 37. | Chung Uk Tsuen (鍾屋村) | VEB/2002/P/TP-07 | 1 October 2003 | 1 | Tai Po Rural Committee
 
@@ -92,7 +92,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 42. | Fan Tin San Yi Cho (蕃田莘野祖) | VEB/2002/M/ST-20 | 1 October 2003 | 1 | San Tin Rural Committee
 
-43. | Fanling (粉嶺) | VEB/2002/N/F-08 | 1 October 2003 | 1 | Fanling District Rural Committee
+43. | Fanling Wai (粉嶺圍) | VEB/2002/N/F-08 | 1 October 2003 | 1 | Fanling District Rural Committee
 
 44. | Fo Tan (火炭) | VEB/2002/R/ST-20 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -114,7 +114,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 53. | Fuk Hang Tsuen (Upper) (福亨村(上)) | VEB/2002/L/TM-32A | 1 October 2003 | 1 | Tuen Mun Rural Committee
 
-54. | Fuk Hing Tsuen (福慶村) | VEB/2002/M/PS-25 | 1 October 2003 | 1 | Ping Shan Rural Committee
+54. | (Amended and renumbered as item 625B)
 
 55. | Fung Chi Tsuen (鳳池村) | VEB/2002/M/PS-13 | 1 October 2003 | 1 | Ping Shan Rural Committee
 
@@ -222,7 +222,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 107. | Kai Ham (界咸) | VEB/2002/Q/SK-14 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
-108. | Kai Kuk Shue Ha and Ham Hang Mei (雞谷樹下及鹹坑尾) | VEB/2002/N/STK-04 | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
+108. | Kai Kuk Shue Ha and Nam Hang Mei (雞谷樹下及南坑尾) | VEB/2002/N/STK-04 | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
 109. | Kai Leng (雞嶺) | VEB/2002/N/SS-02 | 1 October 2003 | 1 | Sheung Shui District Rural Committee
 
@@ -230,7 +230,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 111. | Kam Shan Village (錦山村) | VEB/2002/P/TP-16 | 1 October 2003 | 1 | Tai Po Rural Committee
 
-112. | Kam Tin San Tsuen (錦田新村) | VEB/2002/M/KT-02 | 1 October 2003 | 1 | Kam Tin Rural Committee
+112. | Kam Tin Shing Mun San Tsuen (錦田城門新村) | VEB/2002/M/KT-02 | 1 October 2003 | 1 | Kam Tin Rural Committee
 
 113. | Kam Tsin (金錢) | VEB/2002/N/SS-13 | 1 October 2003 | 1 | Sheung Shui District Rural Committee
 
@@ -316,6 +316,8 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 154. | Lai Chi Wo (荔枝窩) | VEB/2002/N/STK-46 | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
+154A. | Lai Pek Shan (犂壁山) | VEB/2009/P/TP-94 | 1 April 2011 | 1 | Tai Po Rural Committee
+
 155. | Lai Tau Shek (犂頭石) | VEB/2002/N/STK-44 | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
 156. | Lam Che and Nim Un (藍輋及稔園) | VEB/2002/T/TC-12 | 1 October 2003 | 1 | Tung Chung Rural Committee
@@ -326,7 +328,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 159. | Lam Tin Tsuen (藍田村) | VEB/2002/S/TY-05 | 1 October 2003 | 1 | Tsing Yi Rural Committee
 
-160. | Lam Uk Tsuen (林屋村) | VEB/2002/M/PS-18 | 1 October 2003 | 1 | Ping Shan Rural Committee
+160. | (Amended and renumbered as item 625C)
 
 161. | Lau Shui Heung (流水响) | VEB/2002/N/F-05 | 1 October 2003 | 1 | Fanling District Rural Committee
 
@@ -422,7 +424,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 207. | Ma Po Mei (麻布尾) | VEB/2002/P/TP-26 | 1 October 2003 | 1 | Tai Po Rural Committee
 
-208. | Ma Sim Pai (馬閃排) (Amended L.N. 28 of 2006) | VEB/2002/K/TW-09 | 1 October 2003 | 1 | Tsuen Wan Rural Committee
+208. | Ma Sim Pai (馬閃排) | VEB/2002/K/TW-09 | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
 209. | Ma Tin (馬田) | VEB/2002/M/SPH-23 | 1 October 2003 | 1 | Shap Pat Heung Rural Committee
 
@@ -692,7 +694,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 342. | Sai O (西澳) | VEB/2002/P/SKN-26 | 1 October 2003 | 1 | Sai Kung North Rural Committee
 
-343. | Sai Tau Wai (西頭圍) | VEB/2002/M/PS-16 | 1 October 2003 | 1 | Ping Shan Rural Committee
+343. | (Amended and renumbered as item 625D)
 
 344. | Sai Wan (西灣) | VEB/2002/Q/SK-18 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
@@ -782,7 +784,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 387. | Sha Tau Kok Market (West Upper) (沙頭角墟(西上)) | VEB/2002/N/STK-24B | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-388. | Sha Tin Tau and Lee Uk (沙田頭及李屋) (Amended L.N. 28 of 2006) | VEB/2002/R/ST-28 | 1 October 2003 | 1 | Sha Tin Rural Committee
+388. | Sha Tin Tau and Lee Uk (沙田頭及李屋) | VEB/2002/R/ST-28 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
 389. | Sha Tin Wai (沙田圍) | VEB/2002/R/ST-46 | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -866,7 +868,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 429. | Sheung Shui Heung (上水鄉) | VEB/2002/N/SS-15 | 1 October 2003 | 1 | Sheung Shui District Rural Committee
 
-430. | Sheung Sze Wan (相思灣) (Amended L.N. 28 of 2006) | VEB/2002/Q/HH-01 | 1 October 2003 | 1 | Hang Hau Rural Committee
+430. | Sheung Sze Wan (相思灣) | VEB/2002/Q/HH-01 | 1 October 2003 | 1 | Hang Hau Rural Committee
 
 431. | Sheung Tsuen (上村) | VEB/2002/M/PH-21 | 1 October 2003 | 1 | Pat Heung Rural Committee
 
@@ -994,7 +996,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 493. | Tai Mei Tuk (大美督) | VEB/2002/P/TP-65 | 1 October 2003 | 1 | Tai Po Rural Committee
 
-494. | Tai Mon Che (大芒輋) | VEB/2002/P/TP-66 | 1 October 2003 | 1 | Tai Po Rural Committee
+494. | (Amended and renumbered as item 535A)
 
 495. | Tai Mong Tsai (大網仔) | VEB/2002/Q/SK-40 | 1 October 2003 | 1 | Sai Kung Rural Committee
 
@@ -1078,6 +1080,8 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 535. | Tai Wong Ha Tsuen (大王下村) | VEB/2002/S/TY-04 | 1 October 2003 | 1 | Tsing Yi Rural Committee
 
+535A.*1 | Tai Yeung Che (大陽輋) | VEB/2002/P/TP-66 | 1 October 2003 | 1 | Tai Po Rural Committee
+
 536. | Tai Yuen (大園) | VEB/2002/T/LN-09 | 1 October 2003 | 1 | Lamma Island (North) Rural Committee
 
 537. | Tak Lung Back Street (德隆後街) | VEB/2002/Q/SK-60 | 1 October 2003 | 1 | Sai Kung Rural Committee
@@ -1104,7 +1108,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 548. | Tin Fu Tsai (田夫仔) | VEB/2002/L/TM-16 | 1 October 2003 | 1 | Tuen Mun Rural Committee
 
-549. | Tin Ha Wan (田下灣) (Amended L.N. 28 of 2006) | VEB/2002/Q/HH-12 | 1 October 2003 | 1 | Hang Hau Rural Committee
+549. | Tin Ha Wan (田下灣) | VEB/2002/Q/HH-12 | 1 October 2003 | 1 | Hang Hau Rural Committee
 
 550. | Tin Liu (田寮) | VEB/2002/P/SKN-34 | 1 October 2003 | 1 | Sai Kung North Rural Committee
 
@@ -1242,7 +1246,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 617. | Tung Tau Tsuen (東頭村) | VEB/2002/M/SPH-22 | 1 October 2003 | 1 | Shap Pat Heung Rural Committee
 
-618. | Tung Tau Wai (東頭圍) | VEB/2002/M/PS-27 | 1 October 2003 | 1 | Ping Shan Rural Committee
+618. | (Amended and renumbered as item 625E)
 
 619. | Tung Tsz (洞梓) | VEB/2002/P/TP-81 | 1 October 2003 | 1 | Tai Po Rural Committee
 
@@ -1257,6 +1261,18 @@ Name of village | Map on which the area of the village is delineated | Date of e
 624. | Wai Tau Tsuen (圍頭村) | VEB/2002/P/TP-82 | 1 October 2003 | 1 | Tai Po Rural Committee
 
 625. | Wai Tsai (圍仔) | VEB/2002/M/ST-08 | 1 October 2003 | 1 | San Tin Rural Committee
+
+625A.*2 | Wang Chau Chung Sam Wai (橫洲忠心圍) | VEB/2002/M/PS-02 | 1 October 2003 | 1 | Ping Shan Rural Committee
+
+625B.*3 | Wang Chau Fuk Hing Tsuen (橫洲福慶村) | VEB/2002/M/PS-25 | 1 October 2003 | 1 | Ping Shan Rural Committee
+
+625C.*4 | Wang Chau Lam Uk Tsuen (橫洲林屋村) | VEB/2002/M/PS-18 | 1 October 2003 | 1 | Ping Shan Rural Committee
+
+625D.*5 | Wang Chau Sai Tau Wai (橫洲西頭圍) | VEB/2002/M/PS-16 | 1 October 2003 | 1 | Ping Shan Rural Committee
+
+625E.*6 | Wang Chau Tung Tau Wai (橫洲東頭圍) | VEB/2002/M/PS-27 | 1 October 2003 | 1 | Ping Shan Rural Committee
+
+625F.*7 | Wang Chau Yeung Uk Tsuen (橫洲楊屋村) | VEB/2002/M/PS-22 | 1 October 2003 | 1 | Ping Shan Rural Committee
 
 626. | Wang Long (橫塱) | VEB/2002/T/LN-02 | 1 October 2003 | 1 | Lamma Island (North) Rural Committee
 
@@ -1344,7 +1360,7 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 668. | Yeung Uk (楊屋) | VEB/2002/K/TW-30 | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
-669. | Yeung Uk Tsuen (楊屋村) | VEB/2002/M/PS-22 | 1 October 2003 | 1 | Ping Shan Rural Committee
+669. | (Amended and renumbered as item 625F)
 
 670. | Yeung Uk Tsuen (楊屋村) | VEB/2002/M/SPH-11 | 1 October 2003 | 1 | Shap Pat Heung Rural Committee
 
@@ -1380,6 +1396,8 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 686. | Yuen Leng Yip Uk (元嶺葉屋) | VEB/2002/P/TP-92 | 1 October 2003 | 1 | Tai Po Rural Committee
 
+686A. | Yuen Long Kau Hui (元朗舊墟) | VEB/2009/M/SPH-31 | 1 April 2011 | 1 | Shap Pat Heung Rural Committee
+
 687. | Yuen Tun (圓墩) | VEB/2002/K/TW-11 | 1 October 2003 | 1 | Tsuen Wan Rural Committee
 
 688. | Yuen Tun Ha (元墩下) | VEB/2002/P/TP-93 | 1 October 2003 | 1 | Tai Po Rural Committee
@@ -1393,3 +1411,21 @@ Name of village | Map on which the area of the village is delineated | Date of e
 692. | Yung Shue Long (榕樹塱) | VEB/2002/T/LN-03 | 1 October 2003 | 1 | Lamma Island (North) Rural Committee
 
 693. | Yung Shue Wan (榕樹灣) | VEB/2002/T/LN-12 | 1 October 2003 | 1 | Lamma Island (North) Rural Committee
+
+(Amended 12 of 2009 s. 11)
+
+Editorial Note:
+
+*1 This item was originally item 494 but has been amended and renumbered as item 535A - see 12 of 2009 s. 11.
+
+*2 This item was originally item 36 but has been amended and renumbered as item 625A - see 12 of 2009 s. 11.
+
+*3 This item was originally item 54 but has been amended and renumbered as item 625B - see 12 of 2009 s. 11.
+
+*4 This item was originally item 160 but has been amended and renumbered as item 625C - see 12 of 2009 s. 11.
+
+*5 This item was originally item 343 but has been amended and renumbered as item 625D - see 12 of 2009 s. 11.
+
+*6 This item was originally item 618 but has been amended and renumbered as item 625E - see 12 of 2009 s. 11.
+
+*7 This item was originally item 669 but has been amended and renumbered as item 625F - see 12 of 2009 s. 11.

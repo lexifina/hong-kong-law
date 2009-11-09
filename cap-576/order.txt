@@ -67,7 +67,9 @@ s-065.md
 s-066.md
 s-067.md
 s-068.md
+s-069.md
 sch-1.md
 sch-2.md
 sch-3.md
 sch-4.md
+sch-5.md

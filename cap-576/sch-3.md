@@ -14,7 +14,7 @@ Name of community | Names of villages of which the community is composed | Date 
 
 3. | Fui Yiu Ha and Tse Uk (灰窰下及謝屋) | (a) Fui Yiu Ha (灰窰下); and (b) Tse Uk (謝屋) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
-4. | Kai Kuk Shue Ha and Ham Hang Mei (雞谷樹下及鹹坑尾) | (a) Kai Kuk Shue Ha (雞谷樹下); and (b) Ham Hang Mei (鹹坑尾) | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
+4. | Kai Kuk Shue Ha and Nam Hang Mei (雞谷樹下及南坑尾) | (a) Kai Kuk Shue Ha (雞谷樹下); and (b) Nam Hang Mei (南坑尾) | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
 5. | Keung Shan, Upper and Luk Wu (上羗山及鹿湖) | (a) Keung Shan, Upper (上羗山); and (b) Luk Wu (鹿湖) | 1 October 2003 | 1 | Tai O Rural Committee
 
@@ -26,7 +26,7 @@ Name of community | Names of villages of which the community is composed | Date 
 
 9. | Muk Min Tau and Tsiu Hang (木棉頭及蕉坑) | (a) Muk Min Tau (木棉頭); and (b) Tsiu Hang (蕉坑) | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
 
-10. | Sha Tin Tau and Lee Uk (沙田頭及李屋) (Amended L.N. 28 of 2006) | (a) Sha Tin Tau (沙田頭); and (b) Lee Uk (李屋) | 1 October 2003 | 1 | Sha Tin Rural Committee
+10. | Sha Tin Tau and Lee Uk (沙田頭及李屋) | (a) Sha Tin Tau (沙田頭); and (b) Lee Uk (李屋) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
 11. | Shek Kwu Lung and Nam Shan (石古壟及南山) | (a) Shek Kwu Lung (石古壟); and (b) Nam Shan (南山) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
@@ -37,3 +37,5 @@ Name of community | Names of villages of which the community is composed | Date 
 14. | Wu Kai Sha and Cheung Kang (烏溪沙及長徑) | (a) Wu Kai Sha (烏溪沙); and (b) Cheung Kang (長徑) | 1 October 2003 | 1 | Sha Tin Rural Committee
 
 15. | Yim Tso Ha and Pok Tau Ha (鹽灶下及膊頭下) | (a) Yim Tso Ha (鹽灶下); and (b) Pok Tau Ha (膊頭下) | 1 October 2003 | 1 | Sha Tau Kok District Rural Committee
+
+(Amended 12 of 2009 s. 13)
