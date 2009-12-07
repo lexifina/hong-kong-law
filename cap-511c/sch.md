@@ -4,153 +4,9 @@
 
 FORMS
 
-FORM 1 PROPERTY INFORMATION FORM (for use in the sale and purchase of residential properties in Hong Kong) (Part 1 of this Form should be completed by the licensed estate agent and
+- FORM 1 PROPERTY INFORMATION FORM (for use in the sale and purchase of residential properties in Hong Kong) (Part 1 of this Form should be completed by the licensed estate agent and Part 2 should be completed by the vendor or the licensed estate agent)
 
-Part 2 should be completed by the vendor or the licensed estate agent)
-
-- PART 1 PROPERTY INFORMATION Part A: Address of the Property
-
-- (“Property”)
-
-- Part B: Prescribed information of the Property
-
-- Types of information | Prescribed source (see note 11) | Date of obtaining the information
-
-- 1. | Particulars of current ownership and subsisting encumbrances registered in the Land Registry:
-
-- Name(s) of owner(s): | A
-
-- Subsisting encumbrances :
-
-- (a) court orders: □ Yes □ No If “yes”, state the particulars : | A
-
-- (b) building orders: □ Yes □ No If “yes”, state the particulars : | A
-
-- (c) slope maintenance orders: □ Yes □ No If “yes”, state the particulars : | A
-
-- (d) lease: □ Yes □ No If “yes”, state the particulars : | A
-
-- (e) mortgage or charge: □ Yes □ No If “yes”, state the particulars : | A
-
-- (f) other matters registered as encumbrances : Note : Copy of land search from the Land Registry shall be attached. | A
-
-- 2. | Floor area of the Property: □ (a) saleable area provided by the Rating and Valuation Department: | B
-
-- □ (b) saleable area stipulated in the agreement for sale and purchase of the first assignment: | A
-
-- □ (c) no information can be obtained under paragraph (a) or (b).
-
-- 3. | Year of completion: Year of completion of the Property (or the building of which the Property forms part) as stipulated in the occupation permit or, if the occupation permit is not available, the relevant certificate of compliance or letter of no objection to occupy: | A/B/C*
-
-- 4. | User restrictions: User under the occupation permit: | A/C*
-
-- 5. | Government lease: (a) unexpired term of the lease:
-
-- (b) right of renewal: □ Yes □ No | A
-
-- 6. | If a Government lease is to be granted, state the term of the proposed lease: | A
-
-- Part C: Other information about the Property which may be provided
-
-- 1. | The annual Government rent : | HK$_
-
-- 2. | The quarterly rates : | HK$_
-
-- 3. | The monthly management fee : | HK$_
-
-- 4. | Owners incorporation established: | □ Yes □ No
-
-- 5. | The floor area and source of information are:_
-
-- 6. | The Property falls within the following categories: □ Tenant Purchase Scheme; □ Home Ownership Scheme; □ Private Sector Participation Scheme; □ Sandwich Class Housing; □ Flat for Sale Scheme (Housing Society); (Note: In the categories above, flats on which premium has been paid are not included in the category concerned.) □ “Village” type houses in the New Territories; □ others, please specify :_
-
-- PART 2 VENDOR’S STATEMENT
-
-  - 1. Are there any structural additions to or alterations of any part of the Property or the building of which the Property forms part, which have been or are or shall be made by the Vendor or any other person, during the period of the Vendor’s ownership of the Property? □ Yes □ No
-
-  - If “yes”, please provide particulars:_
-
-  - 2. Are there any structural additions to or alterations of any part of the Property or the building of which the Property forms part, which have been made by any person, before the period of the Vendor’s ownership of the Property? □ Yes □ No □ Not known
-
-  - If “yes”, please provide particulars:_
-
-  - 3. Are there any reinstatements, rectification, repairs or improvements to any part of the Property or the building of which the Property forms part, which have been or are or shall be required by the Government or the management office or the owners incorporation of the building, during the period of the Vendor’s ownership of the Property? □ Yes □ No
-
-  - If “yes”, please provide particulars:_
-
-  - 4. Are there any reinstatements, rectification, repairs or improvements to any part of the Property or the building of which the Property forms part, which have been required by the Government or the management office or the owners incorporation of the building, before the period of the Vendor’s ownership of the Property? □ Yes □ No □ Not known
-
-  - If “yes”, please provide particulars:_
-
-  - 5. Are there any of the following works, the cost of which a purchaser of the Property shall be wholly or partly liable, which have been or are or shall be required or proposed by the Government or the management office or the owners incorporation of the building of which the Property forms part as regards any part of the Property or the building? □ reinstatement or rectification work □ repairs or improvements works
-
-  - □ slope maintenance work □ others
-
-  - □ none □ not known Please state the nature of the work required or proposed, if any, and the cost/estimated cost* of works for which the purchaser shall be liable:_
-
-  - 6. □(a) The Property is to be sold with vacant possession. OR □(b) The Property is to be sold subject to a lease/licence for a specific term/statutory tenancy* as follows: ● The monthly rental is HK$_ (inclusive of □ rates; □ Government rent; □ management fee).
-
-  - ● The term is _ year(s) _ month(s) beginning on _ (D/M/Y) and expiring on _ (D/M/Y) (both days inclusive).
-
-  - ● Other terms: □ break clause □ rental review □ option to renew
-
-  - □ other special terms; please specify: _ □ All the information given by _ (“Vendor”) in Part 2 of this Form are true and correct within the Vendor’s knowledge. Signature of Vendor: _ Date: _ OR □ We, _ (“Agent” (see note 12)), acting for the Vendor, have duly advised the Vendor to provide information in Part 2 of this Form but the Vendor decided not to provide the same. ====================================================================== We, _ (“Agent” (see note 12)), are reasonably satisfied as regards the accuracy of the information contained in this Form.
-
-  - Signature of the estate agent/salesperson signing for and on behalf of Agent: | _
-
-  - Name and licence number of the signatory: | _
-
-  - Number of Agent’s statement of particulars of business: | _
-
-  - Address: | _ _
-
-  - Telephone number: | _
-
-  - Fax number: | _
-
-  - Date: | _
-
-  - NOTES
-
-  - 1. This Form should not be used with any alterations.
-
-  - 2. Nothing in Part 2 of this Form shall be construed as affecting or defining the terms and conditions of an agreement for sale and purchase to be entered into between the Vendor and a purchaser.
-
-  - 3. A licensed estate agent is required to provide to the Vendor the original or a copy of the completed Form either before entering into an estate agency agreement with the Vendor or before entering into an agreement for sale and purchase between the Vendor and a purchaser in respect of the Property at the option of the Vendor.
-
-  - 4. A licensed estate agent is required to provide to a purchaser the original or a copy of the completed Form unless the purchaser specifically waives his right to receive the same.
-
-  - 5. A purchaser or the Vendor should seek legal or other professional advice if:
-
-    - (a) he is in doubt of the effects and implications of any of the encumbrances listed in Part B in Part 1 of this Form;
-
-    - (b) any prescribed information is not available or he is in doubt of any information provided herein; or
-
-    - (c) he wishes to obtain additional information which is not provided in this Form.
-
-  - 6. Complete all questions and fill in all blanks except Part C in Part 1. If any question is not applicable, please write “N/A” which means not applicable. If any prescribed information is not available, please write “Not Available”.
-
-  - 7 A separate form should be completed for each property.
-
-  - 8. Any material changes in the given information should be conveyed immediately to the recipients of this Form.
-
-  - 9. “*” means delete whichever is inappropriate. Provisions deleted must be initialled. Where appropriate, mark a tick “✓” in the box □ provided.
-
-  - 10. Documentary evidence of the information provided in Part 2 of this Form may be attached by the Vendor.
-
-  - 11. Prescribed sources of information: A: Land Registry B: Rating and Valuation Department (Info-Hotline Service) C: Buildings Department
-
-  - 12.
-
-  - Enter the name of the estate agency business entity concerned.
-
-  - (L.N. 176 of 1999)
-
-  - FORM 2 LEASING INFORMATION FORM
-
-  - (for use in the leasing of residential properties in Hong Kong)
-
-  - (This Form should be completed by the licensed estate agent)
+  - PART 1 PROPERTY INFORMATION
 
   - Part A: Address of the Property
 
@@ -158,7 +14,7 @@ Part 2 should be completed by the vendor or the licensed estate agent)
 
   - Part B: Prescribed information of the Property
 
-  - Types of information | Prescribed source (see note 9) | Date of obtaining the information
+  - Types of information | Prescribed source (see note 11) | Date of obtaining the information
 
   - 1. | Particulars of current ownership and subsisting encumbrances registered in the Land Registry:
 
@@ -166,774 +22,1226 @@ Part 2 should be completed by the vendor or the licensed estate agent)
 
   - Subsisting encumbrances:
 
-  - (a) possession orders: □ Yes □ No | A
+  - (a) | court orders: If “yes”, state the particulars: | □ Yes | □ No | A
 
-  - (b) mortgage or charge: □ Yes □ No | A
+  - (b) | building orders: | □ Yes | □ No | A
 
-  - 2. | Floor area of the Property: □ (a) saleable area provided by the Rating and Valuation Department: | B
+  - If “yes”, state the particulars:
 
-  - □ (b) saleable area stipulated in the agreement for sale and purchase of the first assignment: | A
+  - (c) | slope maintenance orders: If “yes”, state the particulars: | □ Yes | □ No | A
 
-  - □ (c) no information can be obtained under paragraph (a) or (b).
+  - (d) | lease: If “yes”, state the particulars: | □ Yes | □ No | A
 
-  - 3. | Year of completion: Year of completion of the Property (or the building of which the Property forms part): | A/B*
+  - (e) | mortgage or charge: If “yes”, state the particulars: | □ Yes | □ No | A
 
-  - 4. | User restrictions: User under the occupation permit: | A
+  - (f) | other matters registered as encumbrances: | A
 
-  - 5. | Restrictions on leasing: Restrictions on leasing imposed under legislation/Government lease: □ Yes □ No | C/D*
+  - Note : | Copy of land search from the Land Registry shall be attached.
+
+  - 2. | Floor area of the Property:
+
+  - □ | (a) | saleable area provided by the Rating and Valuation Department: | B
+
+  - □ | (b) | saleable area stipulated in the agreement for sale and purchase of the first assignment: | A
+
+  - □ | (c) | no information can be obtained under paragraph (a) or (b).
+
+  - 3. | Year of completion:
+
+  - Year of completion of the Property (or the building of which the Property forms part) as stipulated in the occupation permit or, if the occupation permit is not available, the relevant certificate of compliance or letter of no objection to occupy: | A/B/C*
+
+  - 4. | User restrictions:
+
+  - User under the occupation permit: | A/C*
+
+  - 5. | Government lease:
+
+  - (a) | unexpired term of the lease:
+
+  - (b) | right of renewal: | □ Yes | □ No | A
+
+  - 6. | If a Government lease is to be granted, state the term of the proposed lease: | A
 
   - Part C: Other information about the Property which may be provided
 
-  - 1. | The annual Government rent: | HK$_
+  - 1. | The annual Government rent: | HK$
 
-  - 2. | The quarterly rates: | HK$_
+  - 2. | The quarterly rates: | HK$
 
-  - 3. | The monthly management fee: | HK$_
+  - 3. | The monthly management fee: | HK$
 
-  - 4. | The Property is to be sublet and is presently subject to a lease: | □ Yes □ No
+  - 4. | Owners incorporation established: | □Yes □No
 
-  - If “yes”, please provide particulars: _
+  - 5. | The floor area and source of information are:
 
-  - ====================================================================== We, _ (“Agent” (see note 10)), are reasonably satisfied as regards the accuracy of the information contained in this Form.
+  - 6. | The Property falls within the following categories:
 
-  - Signature of the estate agent/salesperson signing for and on behalf of Agent: | _
+  - □ Tenant Purchase Scheme;
 
-  - Name and licence number of the signatory: | _
+  - □ Home Ownership Scheme;
 
-  - Number of Agent’s statement of particulars of business: | _
+  - □ Private Sector Participation Scheme;
 
-  - Address: | _ _
+  - □ Sandwich Class Housing;
 
-  - Telephone number: | _
+  - □ Flat for Sale Scheme (Housing Society);
 
-  - Fax number: | _
+  - (Note: In the categories above, flats on which premium has been paid are not included in the category concerned.)
 
-  - Date: | _
+  - □ “Village” type houses in the New Territories;
+
+  - □ others, please specify:
+
+  - PART 2 VENDOR’S STATEMENT
+
+  - 1. | Are there any structural additions to or alterations of any part of the Property or the building of which the Property forms part, which have been or are or shall be made by the Vendor or any other person, during the period of the Vendor’s ownership of the Property?
+
+  - □ Yes | □ No
+
+  - If “yes”, please provide particulars:
+
+  - 2. | Are there any structural additions to or alterations of any part of the Property or the building of which the Property forms part, which have been made by any person, before the period of the Vendor’s ownership of the Property?
+
+  - □ Yes | □ No | □ Not known
+
+  - If “yes”, please provide particulars:
+
+  - 3. | Are there any reinstatements, rectification, repairs or improvements to any part of the Property or the building of which the Property forms part, which have been or are or shall be required by the Government or the management office or the owners incorporation of the building, during the period of the Vendor’s ownership of the Property?
+
+  - □ Yes | □ No
+
+  - If “yes”, please provide particulars:
+
+  - 4. | Are there any reinstatements, rectification, repairs or improvements to any part of the Property or the building of which the Property forms part, which have been required by the Government or the management office or the owners incorporation of the building, before the period of the Vendor’s ownership of the Property?
+
+  - □ Yes | □ No | □ Not known
+
+  - If “yes”, please provide particulars:
+
+  - 5. | Are there any of the following works, the cost of which a purchaser of the Property shall be wholly or partly liable, which have been or are or shall be required or proposed by the Government or the management office or the owners incorporation of the building of which the Property forms part as regards any part of the Property or the building?
+
+  - □ reinstatement or rectification work | □ repairs or improvements works
+
+  - □ slope maintenance work | □ others
+
+  - □ none | □ not known
+
+  - Please state the nature of the work required or proposed, if any, and the cost/estimated cost* of works for which the purchaser shall be liable:
+
+  - 6. | □(a) | The Property is to be sold with vacant possession. OR
+
+  - □(b) | The Property is to be sold subject to a lease/licence for a specific term/statutory tenancy* as follows:
+
+  - • | The monthly rental is HK$_ (inclusive of □ rates; □ Government rent; □ management fee).
+
+  - • | The term is _ year(s) _ month(s) beginning on _ (D/M/Y) and expiring on _ (D/M/Y) (both days inclusive).
+
+  - • | Other terms:
+
+  - □ break clause □ rental review □ option to renew
+
+  - □ other special terms; please specify:
+
+  - □ | All the information given by _ (“Vendor”) in Part 2 of this Form are true and correct within the Vendor’s knowledge.
+
+  - Signature of Vendor: _ Date: _
+
+  - OR
+
+  - □ | We, _ (“Agent” (see note 12)), acting for the Vendor, have duly advised the Vendor to provide information in Part 2 of this Form but the Vendor decided not to provide the same.
+
+  - We, _ (“Agent” (see note 12)), are reasonably satisfied as regards the accuracy of the information contained in this Form.
+
+  - Signature of the estate agent/salesperson signing for and on behalf of Agent:
+
+  - Name and licence number of the signatory:
+
+  - Number of Agent’s statement of particulars of business:
+
+  - Address:
+
+  - Telephone number:
+
+  - Fax number:
+
+  - Date:
 
   - NOTES
 
-  - 1. This Form should not be used with any alterations.
+  - 1. | This Form should not be used with any alterations.
 
-  - 2. A licensed estate agent is required to provide to the landlord of the Property the original or a copy of the completed Form either before entering into an estate agency agreement with the landlord or before entering into a lease between the landlord and a tenant in respect of the Property at the option of the landlord.
+  - 2. | Nothing in Part 2 of this Form shall be construed as affecting or defining the terms and conditions of an agreement for sale and purchase to be entered into between the Vendor and a purchaser.
 
-  - 3. A licensed estate agent is required to provide to a tenant the original or a copy of the completed Form unless the tenant specifically waives his right to receive the same.
+  - 3. | A licensed estate agent is required to provide to the Vendor the original or a copy of the completed Form either before entering into an estate agency agreement with the Vendor or before entering into an agreement for sale and purchase between the Vendor and a purchaser in respect of the Property at the option of the Vendor.
 
-  - 4. A tenant or the landlord of the Property should seek legal or other professional advice if:
+  - 4. | A licensed estate agent is required to provide to a purchaser the original or a copy of the completed Form unless the purchaser specifically waives his right to receive the same.
 
-    - (a) he is in doubt of the effects and implications of any of the encumbrances listed in Part B of this Form;
+  - 5. | A purchaser or the Vendor should seek legal or other professional advice if:
 
-    - (b) any prescribed information is not available or he is in doubt of any information provided herein; or
+  - (a) | he is in doubt of the effects and implications of any of the encumbrances listed in Part B in Part 1 of this Form;
 
-    - (c) he wishes to obtain additional information which is not provided in this Form.
+  - (b) | any prescribed information is not available or he is in doubt of any information provided herein; or
 
-  - 5. Complete all questions and fill in all blanks except Part C. If any question is not applicable, please write “N/A” which means not applicable. If any prescribed information is not available, please write “Not Available”.
+  - (c) | he wishes to obtain additional information which is not provided in this Form.
 
-  - 6. A separate form should be completed for each property.
+  - 6. | Complete all questions and fill in all blanks except Part C in Part 1. If any question is not applicable, please write “N/A” which means not applicable. If any prescribed information is not available, please write “Not Available”.
 
-  - 7. Any material changes in the given information should be conveyed immediately to the recipients of this Form.
+  - 7. | A separate form should be completed for each property.
 
-  - 8. “*” means delete whichever is inappropriate. Provisions deleted must be initialled. Where appropriate, mark a tick “✓” in the box □ provided.
+  - 8. | Any material changes in the given information should be conveyed immediately to the recipients of this Form.
 
-  - 9. Prescribed sources of information: A: Land Registry B: Rating and Valuation Department (Info-Hotline Service) C: Housing Society D: Housing Department
+  - 9. | “*” means delete whichever is inappropriate. Provisions deleted must be initialled. Where appropriate, mark a tick “✓” in the box □ provided.
 
-  - 10.
+  - 10. | Documentary evidence of the information provided in Part 2 of this Form may be attached by the Vendor.
 
-  - Enter the name of the estate agency business entity concerned.
+  - 11. | Prescribed sources of information: A: Land Registry B: Rating and Valuation Department C: Buildings Department
 
-  - (L.N. 176 of 1999)
+  - 12. | Enter the name of the estate agency business entity concerned.
 
-  - FORM 3 ESTATE AGENCY AGREEMENT FOR SALE OF RESIDENTIAL
+  - (L.N. 176 of 1999; L.N. 182 of 2009)
 
-  - PROPERTIES IN HONG KONG
+- FORM 2 LEASING INFORMATION FORM (for use in the leasing of residential properties in Hong Kong) (This Form should be completed by the licensed estate agent)
 
-  - GENERAL CAUTION: Read this Agreement carefully and follow its instructions. If you do not understand any thing in this Agreement then ask for an explanation to be given. If you do not understand or agree with any explanation given then it is best to consult your solicitor before signing this Agreement. Information note: Where any thing in this Agreement is followed by a number in brackets (e.g. (1)), then immediately read the explanatory note that bears that number in Schedule 4 to this Agreement. Where any thing in this Agreement refers to a Schedule to this Agreement, then immediately read that Schedule.
+- Part A: Address of the Property
 
-  - 1. Appointment of Agent and Validity Period of this Agreement I/We, _ (“Vendor”), appoint _ (“Agent”(2)) subject to and in accordance with the terms of this Agreement to act as my/our exclusive(3)/non-exclusive(1) agent in the marketing of _ (“Property”). This Agreement shall take effect on _ (D/M/Y) and expire on _ (D/M/Y) (both days inclusive) (“Validity Period”). [CAUTION: In the case of exclusive agency, the Vendor may be liable to pay commission to the Agent even if the Property is not sold through the Agent within the Validity Period. The Vendor should therefore consider carefully when he enters into an exclusive agency relationship with the Agent. Special obligations to be performed by the Agent under exclusive agency may be specified as extra terms under clause 13.]
+- (“Property”)
 
-  - 2.
+- Part B: Prescribed information of the Property
 
-  - Agency Relationship and Duties of Agent
+- Types of information | Prescribed source (see note 9) | Date of obtaining the information
 
-  - The Agent agrees with the Vendor that—
+- 1. | Particulars of current ownership and subsisting encumbrances registered in the Land Registry:
 
-    - (a) the agency relationship between them in respect of the Property shall be a single agency/dual agency/potentially dual agency(3)(1);
+- Name(s) of owner(s): | A
 
-    - (b) in the case of dual agency, the Agent shall as soon as is practicable disclose in writing to the Vendor the amount or rate of commission to be received by the Agent from a purchaser;
+- Subsisting encumbrances:
 
-    - (c) in the case of potentially dual agency, the Agent shall as soon as is practicable after dual agency arises disclose in writing to the Vendor such agency relationship and the amount or rate of commission to be received by the Agent from a purchaser; and
+- (a) | possession orders: | □ Yes | □ No | A
 
-    - (d) The Agent’s duties shall be as set out in Schedule 1 to this Agreement, in addition to the duties placed on the Agent by this Agreement or any enactment.
+- (b) | mortgage or charge: | □ Yes | □ No | A
 
-  - 3. List Price [CAUTION: The Vendor does not confer upon the Agent, by virtue of this clause, the right to accept an offer on behalf of the Vendor. The list price is for the purpose of listing and advertising only.] The list price shall be Hong Kong Dollars _ (HK$_). The list price can only be varied with written instructions of the Vendor and such instructions shall form part of this Agreement.
+- 2. | Floor area of the Property:
 
-  - 4. Commission The provisions of this Agreement applicable to the commission to be paid by the Vendor to the Agent shall be as set out in Schedules 2 and 4 to this Agreement(4).
+- □ | (a) | saleable area provided by the Rating and Valuation Department: | B
 
-  - 5. Property Information The Agent shall provide to the Vendor the Property Information Form including the Vendor’s Statement prescribed under the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation duly completed and signed by the Agent.
+- □ | (b) | saleable area stipulated in the agreement for sale and purchase of the first assignment: | A
 
-  - 6. Property Inspection
+- □ | (c) | no information can be obtained under paragraph (a) or (b).
 
-    - (a) The Vendor agrees to allow viewing of the Property by the Agent/purchaser(s)(1) at a mutually agreeable time. Yes □ No □(8)
+- 3. | Year of completion:
 
-    - (b) The Vendor agrees to pass the keys of the Property to the Agent for safe custody and for the viewing of the Property. Yes □ No □(8)
+- Year of completion of the Property (or the building of which the Property forms part): | A/B/E*
 
-    - (c) The Vendor authorizes the Agent to pass the keys to other estate agents/persons(1) for the viewing of the Property. Yes □ No □(8)
+- 4. | User restrictions:
 
-  - 7. Sub-listing
+- User under the occupation permit: | A/E*
 
-    - (a) The Vendor authorizes the Agent to sub-list the Property and pass relevant information about the Vendor and the Property supplied by the Vendor to other estate agents for sub-listing purposes. Yes □ No □(8)
+- 5. | Restrictions on leasing:
 
-    - (b) If the Agent sub-lists the Property to another estate agent (“sub-listing agent”), the Agent shall ensure that the sub-listing agent shall observe the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation regarding advertising.
+- Restrictions on leasing imposed under legislation/Government lease: □ Yes □ No | C/D*
 
-  - 8. Advertising
+- Part C: Other information about the Property which may be provided
 
-    - (a) The Vendor authorizes the Agent to issue advertisement in respect of the Property. Yes □ No □(8)
+- 1. | The annual Government rent: | HK$_
 
-    - (b) If the answer to the above is “yes”, then the advertising fees will be borne by the Agent unless otherwise specified in this Agreement.
+- 2. | The quarterly rates: | HK$_
 
-  - 9. Disclosure of Interest by Agent
+- 3. | The monthly management fee: | HK$_
 
-    - (a) The person signing this Agreement on behalf of the Agent discloses that he or his specified relative(5), or any nominee of his or of his specified relative, or the Agent or any employee/substantial shareholder(6)/partner/director of the Agent has a pecuniary or other beneficial interest(7) in the Property: Yes □ No □(8)
+- 4. | The Property is to be sublet and is presently subject to a lease: | □ Yes □ No
 
-    - (b) If the answer to the above is “yes”, then the particulars of the interest must be specified in Schedule 3 to this Agreement.
+- If “yes”, please provide particulars: _
 
-    - (c) The person signing this Agreement on behalf of the Agent shall as soon as is practicable disclose in writing to the Vendor any interest referred to in paragraph (a) above that may arise during the Validity Period. 10 Acknowledgement by Vendor The Vendor acknowledges he has—
+- We, _ (“Agent” (see note 10)), are reasonably satisfied as regards the accuracy of the information contained in this Form.
 
-    - (a) read and understood the terms of this Agreement; and
+- Signature of the estate agent/salesperson signing for and on behalf of Agent: | _
 
-    - (b) □(8) received the Property Information Form including the Vendor’s Statement required to be provided under clause 5 of this Agreement; □(8) agreed to receive the Property Information Form including the Vendor’s Statement before entering into a binding agreement for sale and purchase between the Vendor and a purchaser.
+- Name and licence number of the signatory: | _
 
-  - 11. Schedules The Schedules to this Agreement form part of this Agreement.
+- Number of Agent’s statement of particulars of business: | _
 
-  - 12. Agreement void if domestic purpose or use not allowed This Agreement shall be void if the occupation permit for the Property does not include or allow domestic purpose or use.
+- Address: | _
 
-  - 13. Extra Terms [CAUTION: These extra terms cannot conflict with or limit the other terms of this Agreement.]: _
+- _
 
-  - Signature of the Vendor: | Signature of the estate agent/salesperson signing for and on behalf of the Agent:
+- Telephone number: | _
 
-  - Hong Kong identity card(s) number(s): (if applicable) | Name and licence number of the signatory:
+- Fax number: | _
 
-  - Where the Vendor is a company, please state:
+- Date: | _
 
-  - Name of the Signatory: Position of the Signatory: Business Registration Certificate number of the Vendor: | Number of Agent’s statement of particulars of business:
+- NOTES
 
-  - Address: | Address:
+- 1. | This Form should not be used with any alterations.
 
-  - Telephone number: Fax number: Date: | Telephone number: Fax number: Date:
+- 2. | A licensed estate agent is required to provide to the landlord of the Property the original or a copy of the completed Form either before entering into an estate agency agreement with the landlord or before entering into a lease between the landlord and a tenant in respect of the Property at the option of the landlord.
 
-  - [CAUTION: Immediately after this Agreement has been signed, the Vendor must be given the original or a copy of this Agreement as signed.] Schedule 1 Duties of Agent The Agent shall—
+- 3. | A licensed estate agent is required to provide to a tenant the original or a copy of the completed Form unless the tenant specifically waives his right to receive the same.
 
-  - (a) market the Property on behalf of the Vendor;
+- 4. | A tenant or the landlord of the Property should seek legal or other professional advice if:
 
-  - (b) obtain information in relation to the Property for the Vendor;
+- (a) | he is in doubt of the effects and implications of any of the encumbrances listed in Part B of this Form;
 
-  - (c) arrange for purchasers to inspect the Property;
+- (b) | any prescribed information is not available or he is in doubt of any information provided herein; or
 
-  - (d) conduct negotiation and submit all offers in relation to the Property to the Vendor; and
+- (c) | he wishes to obtain additional information which is not provided in this Form.
 
-  - (e) assist the Vendor in entering into a binding agreement for sale and purchase with a purchaser. Schedule 2 Commission to be Paid by Vendor
+- 5. | Complete all questions and fill in all blanks except Part C. If any question is not applicable, please write “N/A” which means not applicable. If any prescribed information is not available, please write “Not Available”.
 
-  - 1. Subject to section 2 of this Schedule, if during the Validity Period the Vendor through the Agent enters into a binding agreement for sale and purchase with a purchaser in respect of the Property then the Vendor is liable to pay the Agent commission in the amount of $_/at the rate of _% of the transacted price of the Property(1): □(8) upon the signing of the agreement for sale and purchase. □(8) upon the completion of the property transaction as specified in the agreement for sale and purchase.
+- 6. | A separate form should be completed for each property.
 
-  - 2. Subject to section 3 of this Schedule, the Vendor shall have no obligation to pay any commission to the Agent if completion of the property transaction falls through without fault on the part of the Vendor and, in such case, if the commission has already been paid it shall be refunded by the Agent to the Vendor as soon as is practicable and in any case not later than 5 working days from the completion date as specified in the agreement for sale and purchase with interest/without interest(1).
+- 7. | Any material changes in the given information should be conveyed immediately to the recipients of this Form.
 
-  - 3. The commission shall become payable to the Agent in the case of mutual cancellation of a binding agreement for sale and purchase of the Property not arising from any provisions of the agreement for sale and purchase.
+- 8. | “*” means delete whichever is inappropriate. Provisions deleted must be initialled. Where appropriate, mark a tick “✓” in the box □ provided.
 
-  - 4.
+- 9. | Prescribed sources of information: A: Land Registry B: Rating and Valuation Department C: Housing Society D: Housing Department E: Buildings Department
 
-  - The Vendor is not liable to pay any commission to other estate agents with whom the Agent co-operates in the marketing of the Property.
+- 10. | Enter the name of the estate agency business entity concerned.
 
-  - Schedule 3 Interests in Property
+- (L.N. 176 of 1999; L.N. 182 of 2009)
 
-  - In accordance with clause 9 of this Agreement, particulars of the pecuniary or other beneficial interests(7) in respect of the Property are as follows:
+- FORM 3 ESTATE AGENCY AGREEMENT FOR SALE OF RESIDENTIAL PROPERTIES IN HONG KONG
 
-  - _
+- GENERAL CAUTION: Read this Agreement carefully and follow its instructions. If you do not understand any thing in this Agreement then ask for an explanation to be given. If you do not understand or agree with any explanation given then it is best to consult your solicitor before signing this Agreement. Information note: Where any thing in this Agreement is followed by a number in brackets (e.g. (1)), then immediately read the explanatory note that bears that number in Schedule 4 to this Agreement. Where any thing in this Agreement refers to a Schedule to this Agreement, then immediately read that Schedule.
 
-  - _
+- 1. | Appointment of Agent and Validity Period of this Agreement
 
-  - Schedule 4 Explanatory Notes
+- I/We, _ (“Vendor”), appoint _ (“Agent”(2)) subject to and in accordance with the terms of this Agreement to act as my/our exclusive(3)/non-exclusive(1) agent in the marketing of _ (“Property”). This Agreement shall take effect on _ (D/M/Y) and expire on _ (D/M/Y) (both days inclusive) (“Validity Period”). [CAUTION: In the case of exclusive agency, the Vendor may be liable to pay commission to the Agent even if the Property is not sold through the Agent within the Validity Period. The Vendor should therefore consider carefully when he enters into an exclusive agency relationship with the Agent. Special obligations to be performed by the Agent under exclusive agency may be specified as extra terms under clause 13.]
 
-    - (1) This means delete whichever is inappropriate. All deletions must be initialled.
+- 2. | Agency Relationship and Duties of Agent
 
-    - (2) Enter the name of the estate agency business entity concerned in clause 1 of this Agreement.
+- The Agent agrees with the Vendor that—
 
-    - (3) Exclusive Agency- this means the Agent is the only estate agent acting for the Vendor. If during the Validity Period the Vendor enters into a binding agreement for sale and purchase with a purchaser in respect of the Property through another estate agent, the Agent has a right to claim commission as specified in section 1 of Schedule 2 from the Vendor. Single agency- this means the Agent acts for the Vendor only.
+- (a) | the agency relationship between them in respect of the Property shall be a single agency/dual agency/potentially dual agency(3)(1);
 
-    - Dual agency- this means the Agent acts for both the Vendor and a purchaser of the Property.
+- (b) | in the case of dual agency, the Agent shall as soon as is practicable disclose in writing to the Vendor the amount or rate of commission to be received by the Agent from a purchaser;
 
-    - Potentially dual agency- this means the Agent acts for the Vendor only but may also act for a purchaser of the Property at a later stage.
+- (c) | in the case of potentially dual agency, the Agent shall as soon as is practicable after dual agency arises disclose in writing to the Vendor such agency relationship and the amount or rate of commission to be received by the Agent from a purchaser; and
 
-    - (4) The amount or rate of commission is negotiable between the Vendor and the Agent.
+- (d) | The Agent’s duties shall be as set out in Schedule 1 to this Agreement, in addition to the duties placed on the Agent by this Agreement or any enactment.
 
-    - (5) Specified relative- this means the spouse, parent, child, brother or sister.
+- 3. | List Price [CAUTION: The Vendor does not confer upon the Agent, by virtue of this clause, the right to accept an offer on behalf of the Vendor. The list price is for the purpose of listing and advertising only.] The list price shall be Hong Kong Dollars _ (HK$_). The list price can only be varied with written instructions of the Vendor and such instructions shall form part of this Agreement.
 
-    - (6) Substantial shareholder- this means a person who is entitled to exercise or control the exercise of 10% or more of the voting power at any general meeting of the Agent.
+- 4. | Commission
 
-    - (7) Having a pecuniary or other beneficial interest includes:
+- The provisions of this Agreement applicable to the commission to be paid by the Vendor to the Agent shall be as set out in Schedules 2 and 4 to this Agreement(4).
 
-      - (a) being a member of a company or any other body which has a pecuniary or other beneficial interest in respect of the Property;
+- 5. | Property Information
 
-      - (b) being in partnership with or is in the employment of a person who has a pecuniary or other beneficial interest in respect of the Property; or
+- The Agent shall provide to the Vendor the Property Information Form including the Vendor’s Statement prescribed under the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation duly completed and signed by the Agent.
 
-      - (c) being a party to any arrangement or agreement (whether enforceable or not) concerning the Property.
+- 6. | Property Inspection
 
-    - (8) Tick the relevant box.
+- (a) | The Vendor agrees to allow viewing of the Property by the Agent/purchaser(s)(1) at a mutually agreeable time. Yes □ No □(8)
 
-  - (L.N. 176 of 1999)
+- (b) | The Vendor agrees to pass the keys of the Property to the Agent for safe custody and for the viewing of the Property. Yes □ No □(8)
 
-  - FORM 4 ESTATE AGENCY AGREEMENT FOR PURCHASE OF
+- (c) | The Vendor authorizes the Agent to pass the keys to other estate agents/persons(1) for the viewing of the Property. Yes □ No □(8)
 
-  - RESIDENTIAL PROPERTIES IN HONG KONG
+- 7. | Sub-listing
 
-  - GENERAL CAUTION: Read this Agreement carefully and follow its instructions. If you do not understand any thing in this Agreement then ask for an explanation to be given. If you do not understand or agree with any explanation given then it is best to consult your solicitor before signing this Agreement. Information note: Where any thing in this Agreement is followed by a number in brackets (e.g. (1)), then immediately read the explanatory note that bears that number in Schedule 5 to this Agreement. Where any thing in this Agreement refers to a Schedule to this Agreement, then immediately read that Schedule.
+- (a) | The Vendor authorizes the Agent to sub-list the Property and pass relevant information about the Vendor and the Property supplied by the Vendor to other estate agents for sub-listing purposes. Yes □ No □(8)
 
-  - 1. Appointment of Agent and Validity Period of this Agreement I/We, _ (“Purchaser”), appoint _ (“Agent”(2)) subject to and in accordance with the terms of this Agreement to act as my/our agent in the intended purchase of the properties listed in Schedule 1 to this Agreement (“Properties”). This Agreement shall take effect on _ (D/M/Y) and expire on _ (D/M/Y) (both days inclusive) (“Validity Period”). [CAUTION: It is recommended that the Validity Period should be not more than 3 months.]
+- (b) | If the Agent sub-lists the Property to another estate agent (“sub-listing agent”), the Agent shall ensure that the sub-listing agent shall observe the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation regarding advertising.
 
-  - 2.
+- 8. | Advertising
 
-  - Agency Relationship and Duties of Agent
+- (a) | The Vendor authorizes the Agent to issue advertisement in respect of the Property. Yes □ No □(8)
 
-  - The Agent agrees with the Purchaser that—
+- (b) | If the answer to the above is “yes”, then the advertising fees will be borne by the Agent unless otherwise specified in this Agreement.
 
-    - (a) the agency relationship between them in respect of the Properties shall be a single agency/dual agency/potentially dual agency(3) as specified in column 4 of Schedule 1 to this Agreement;
+- 9. | Disclosure of Interest by Agent
 
-    - (b) in the case of each dual agency, the Agent shall as soon as is practicable disclose in writing to the Purchaser the amount or rate of commission to be received by the Agent from the relevant vendor;
+- (a) | The person signing this Agreement on behalf of the Agent discloses that he or his specified relative(5), or any nominee of his or of his specified relative, or the Agent or any employee/substantial shareholder(6)/partner/director of the Agent has a pecuniary or other beneficial interest(7) in the Property: Yes □ No □(8)
 
-    - (c) in the case of each potentially dual agency, the Agent shall as soon as is practicable after dual agency arises disclose in writing to the Purchaser such agency relationship and the amount or rate of commission to be received by the Agent from the relevant vendor; and
+- (b) | If the answer to the above is “yes”, then the particulars of the interest must be specified in Schedule 3 to this Agreement.
 
-    - (d) The Agent’s duties shall be as set out in Schedule 2 to this Agreement, in addition to the duties placed on the Agent by this Agreement or any enactment.
+- (c) | The person signing this Agreement on behalf of the Agent shall as soon as is practicable disclose in writing to the Vendor any interest referred to in paragraph (a) above that may arise during the Validity Period.
 
-  - 3. Commission The provisions of this Agreement applicable to the commission to be paid by the Purchaser to the Agent shall be as set out in Schedules 1, 3 and 5 to this Agreement(4).
+- 10. | Acknowledgement by Vendor
 
-  - 4.
+- The Vendor acknowledges he has—
 
-  - Property Information
+- (a) | read and understood the terms of this Agreement; and
 
-  - The Agent shall provide to the Purchaser in respect of the Properties all relevant Property Information Forms including Vendor’s Statements prescribed under the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation—
+- (b) | □(8) received the Property Information Form including the Vendor’s Statement required to be provided under clause 5 of this Agreement;
 
-    - (a) obtained from the respective vendors’ licensed estate agents in the case of single agency;
+- □(8) agreed to receive the Property Information Form including the Vendor’s Statement before entering into a binding agreement for sale and purchase between the Vendor and a purchaser.
 
-    - (b) duly completed and signed by the Agent in the case of dual agency or where a vendor is not represented by a licensed estate agent, unless the Purchaser expressly waives his right to receive any of them.
+- 11. | Schedules
 
-  - 5. Disclosure of Interest by Agent
+- The Schedules to this Agreement form part of this Agreement.
 
-    - (a) The person signing this Agreement on behalf of the Agent discloses that he or his specified relative(5), or any nominee of his or of his specified relative, or the Agent or any employee/substantial shareholder(6)/partner/director of the Agent has a pecuniary or other beneficial interest(7) in the Properties: Yes □ No □(8)
+- 12. | Agreement void if domestic purpose or use not allowed
 
-    - (b) If the answer to the above is “yes”, then the particulars of the interest must be specified in Schedule 4 to this Agreement.
+- This Agreement shall be void if the occupation permit for the Property does not include or allow domestic purpose or use.
 
-    - (c) The person signing this Agreement on behalf of the Agent shall as soon as is practicable disclose in writing to the Purchaser any interest referred to in paragraph (a) above that may arise during the Validity Period.
+- 13. | Extra Terms [CAUTION: These extra terms cannot conflict with or limit the other terms of this Agreement.]:
 
-  - 6.
+- Signature of the Vendor: | Signature of the estate agent/salesperson signing for and on behalf of the Agent:
 
-  - Acknowledgement by Purchaser
+- Hong Kong identity card(s) number(s): (if applicable) | Name and licence number of the signatory:
 
-  - The Purchaser acknowledges that he has—
+- Where the Vendor is a company, please state:
 
-    - (a) read and understood the terms of this Agreement; and
+- Name of the Signatory: | Number of Agent’s statement of particulars of business:
 
-    - (b) received all relevant Property Information Forms including Vendor’s Statements required to be provided under clause 4 of this Agreement which the Purchaser has not expressly waived his right to receive.
+- Position of the Signatory:
 
-  - 7. Schedules The Schedules to this Agreement form part of this Agreement.
+- Business Registration Certificate number of the Vendor:
 
-  - 8. Agreement void if domestic purpose or use not allowed This Agreement shall be void with regard to a property listed in Schedule 1 if the occupation permit for that property does not include or allow domestic purpose or use.
+- Address: | Address:
 
-  - 9. Extra Terms [CAUTION: These extra terms cannot conflict with or limit the other terms of this Agreement]: _
+- Telephone number: | Telephone number:
 
-  - Signature of the Purchaser: | Signature of the estate agent/salesperson signing for and on behalf of the Agent:
+- Fax number: | Fax number:
 
-  - Hong Kong identity card(s) number(s): (if applicable) | Name and licence number of the signatory:
+- Date: | Date:
 
-  - Where the Purchaser is a company, please state:
+- [CAUTION: Immediately after this Agreement has been signed, the Vendor must be given the original or a copy of this Agreement as signed.]
 
-  - Name of the Signatory: Position of the Signatory: Business Registration Certificate number of the Purchaser: | Number of Agent’s statement of particulars of business:
+Schedule 1
 
-  - Address: | Address:
+Duties of Agent
 
-  - Telephone number: Fax number: Date: | Telephone number: Fax number: Date:
+- The Agent shall—
 
-  - [CAUTION: Immediately after this Agreement has been signed, the Purchaser must be given the original or a copy of this Agreement as signed.] Schedule 1 Properties
+- (a) | market the Property on behalf of the Vendor;
 
-  - Properties | Date of inspection (please specify if Purchaser agrees not to inspect) | Purchaser waives his right to receive Property Information Forms including Vendor’s Statements (Tick relevant box) | Agency Relationship (Tick relevant box and delete whichever is inappropriate) | Amount or rate of commission to be paid by vendor, if applicable | Amount or rate of commission to be paid by Purchaser | Signature of Purchaser*
+- (b) | obtain information in relation to the Property for the Vendor;
 
-  - (a) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (c) | arrange for purchasers to inspect the Property;
 
-  - (b) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (d) | conduct negotiation and submit all offers in relation to the Property to the Vendor; and
 
-  - (c) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (e) | assist the Vendor in entering into a binding agreement for sale and purchase with a purchaser.
 
-  - (d) | Yes □ No □ | Single □ Dual/Potentially dual □
+Schedule 2
 
-  - (e) | Yes □ No □ | Single □ Dual/Potentially dual □
+Commission to be Paid by Vendor
 
-  - (f) | Yes □ No □ | Single □ Dual/Potentially dual □
+- 1. | Subject to section 2 of this Schedule, if during the Validity Period the Vendor through the Agent enters into a binding agreement for sale and purchase with a purchaser in respect of the Property then the Vendor is liable to pay the Agent commission in the amount of $_/at the rate of _% of the transacted price of the Property(1):
 
-  - (g) | Yes □ No □ | Single □ Dual/Potentially dual □
+- □ (8) | upon the signing of the agreement for sale and purchase.
 
-  - (h) | Yes □ No □ | Single □ Dual/Potentially dual □
+- □ (8) | upon the completion of the property transaction as specified in the agreement for sale and purchase.
 
-  - (i) | Yes □ No □ | Single □ Dual/Potentially dual □
+- 2. | Subject to section 3 of this Schedule, the Vendor shall have no obligation to pay any commission to the Agent if completion of the property transaction falls through without fault on the part of the Vendor and, in such case, if the commission has already been paid it shall be refunded by the Agent to the Vendor as soon as is practicable and in any case not later than 5 working days from the completion date as specified in the agreement for sale and purchase with interest/without interest(1).
 
-  - * The Purchaser must sign separately for each property listed. Schedule 2 Duties of Agent The Agent shall—
+- 3. | The commission shall become payable to the Agent in the case of mutual cancellation of a binding agreement for sale and purchase of the Property not arising from any provisions of the agreement for sale and purchase.
 
-  - (a) obtain information in relation to the Properties for the Purchaser;
+- 4. | The Vendor is not liable to pay any commission to other estate agents with whom the Agent co-operates in the marketing of the Property.
 
-  - (b) arrange for the Purchaser to inspect the Properties if requested to do so by the Purchaser;
+Schedule 3
 
-  - (c) conduct negotiation and submit all offers to the vendors of the Properties as instructed by the Purchaser; and
+Interests in Property
 
-  - (d) assist the Purchaser in entering into a binding agreement for sale and purchase with the vendor of any one or more of the Properties. Schedule 3 Commission to be Paid by Purchaser
+- In accordance with clause 9 of this Agreement, particulars of the pecuniary or other beneficial interests(7) in respect of the Property are as follows:
 
-  - 1. Subject to sections 2 and 5 of this Schedule, if during the Validity Period the Purchaser through the Agent enters into a binding agreement for sale and purchase with the vendor in respect of one or more of the Properties then the Purchaser is liable to pay the Agent commission: □(8) upon the signing of the agreement for sale and purchase. □(8) upon the completion of the property transaction as specified in the agreement for sale and purchase.
+Schedule 4
 
-  - 2. Subject to section 3 of this Schedule, the Purchaser shall have no obligation to pay any commission to the Agent if completion of the property transaction falls through without fault on the part of the Purchaser and, in such case, if the commission has already been paid it shall be refunded by the Agent to the Purchaser as soon as is practicable and in any case not later than 5 working days from the completion date as specified in the agreement for sale and purchase with interest/without interest(1).
+Explanatory Notes
 
-  - 3. The commission shall become payable to the Agent in the case of mutual cancellation of a binding agreement for sale and purchase of the property concerned not arising from any provisions of the agreement for sale and purchase.
+- (1) | This means delete whichever is inappropriate. All deletions must be initialled.
 
-  - 4. The Purchaser is not liable to pay any commission to other estate agents with whom the Agent co-operates for the purpose of purchasing any one or more of the Properties.
+- (2) | Enter the name of the estate agency business entity concerned in clause 1 of this Agreement.
 
-  - 5.
+- (3) | Exclusive Agency — | this means the Agent is the only estate agent acting for the Vendor. If during the Validity Period the Vendor enters into a binding agreement for sale and purchase with a purchaser in respect of the Property through another estate agent, the Agent has a right to claim commission as specified in section 1 of Schedule 2 from the Vendor.
 
-  - Subject to sections 2, 3 and 4 of this Schedule, the Purchaser is also liable to pay to the Agent as commission for services rendered with regard to the property concerned if the Purchaser or the spouse, or any nominee, undisclosed principal or agent of the Purchaser enters into a binding agreement for sale and purchase with the vendor of any one or more of the Properties during the Validity Period whether through the Agent or otherwise.
+- Single agency — | this means the Agent acts for the Vendor only.
 
-  - Schedule 4 Interests in Property
+- Dual agency — | this means the Agent acts for both the Vendor and a purchaser of the Property.
 
-  - In accordance with clause 5 of this Agreement, particulars of the pecuniary or other beneficial interests(7) in respect of one or more of the Properties are as follows:
+- Potentially dual agency — | this means the Agent acts for the Vendor only but may also act for a purchaser of the Property at a later stage.
 
-  - _
+- (4) | The amount or rate of commission is negotiable between the Vendor and the Agent.
 
-  - _
+- (5) | Specified relative — | this means the spouse, parent, child, brother or sister.
 
-  - Schedule 5 Explanatory Notes
+- (6) | Substantial shareholder — | this means a person who is entitled to exercise or control the exercise of 10% or more of the voting power at any general meeting of the Agent.
 
-    - (1) This means delete whichever is inappropriate. All deletions must be initialled.
+- (7) | Having a pecuniary or other beneficial interest includes:
 
-    - (2) Enter the name of the estate agency business entity concerned in clause 1 of this Agreement.
+- (a) | being a member of a company or any other body which has a pecuniary or other beneficial interest in respect of the Property;
 
-    - (3) Single agency- this means the Agent acts for the Purchaser only. Dual agency- this means the Agent acts for both the Purchaser and the vendor of a property listed in Schedule 1 to this Agreement.
+- (b) | being in partnership with or is in the employment of a person who has a pecuniary or other beneficial interest in respect of the Property; or
 
-    - Potentially dual agency- this means the Agent acts for the Purchaser only but may also act for the vendor of a property listed in Schedule 1 to this Agreement at a later stage.
+- (c) | being a party to any arrangement or agreement (whether enforceable or not) concerning the Property.
 
-    - (4) The amount or rate of commission is negotiable between the Purchaser and the Agent.
+- (8) | Tick the relevant box.
 
-    - (5) Specified relative- this means the spouse, parent, child, brother or sister.
+- (L.N. 176 of 1999)
 
-    - (6) Substantial shareholder- this means a person who is entitled to exercise or control the exercise of 10% or more of the voting power at any general meeting of the Agent.
+- FORM 4 ESTATE AGENCY AGREEMENT FOR PURCHASE OF RESIDENTIAL PROPERTIES IN HONG KONG
 
-    - (7) Having a pecuniary or other beneficial interest includes:
+- GENERAL CAUTION: Read this Agreement carefully and follow its instructions. If you do not understand any thing in this Agreement then ask for an explanation to be given. If you do not understand or agree with any explanation given then it is best to consult your solicitor before signing this Agreement. Information note: Where any thing in this Agreement is followed by a number in brackets (e.g. (1)), then immediately read the explanatory note that bears that number in Schedule 5 to this Agreement. Where any thing in this Agreement refers to a Schedule to this Agreement, then immediately read that Schedule.
 
-      - (a) being a member of a company or any other body which has a pecuniary or other beneficial interest in respect of the Properties;
+- 1. | Appointment of Agent and Validity Period of this Agreement
 
-      - (b) being in partnership with or is in the employment of a person who has a pecuniary or other beneficial interest in respect of the Properties; or
+- I/We, _ (“Purchaser”), appoint _ (“Agent”(2)) subject to and in accordance with the terms of this Agreement to act as my/our agent in the intended purchase of the properties listed in Schedule 1 to this Agreement (“Properties”). This Agreement shall take effect on _ (D/M/Y) and expire on _ (D/M/Y) (both days inclusive) (“Validity Period”). [CAUTION: It is recommended that the Validity Period should be not more than 3 months.]
 
-      - (c) being a party to any arrangement or agreement (whether enforceable or not) concerning the Properties.
+- 2. | Agency Relationship and Duties of Agent
 
-    - (8) Tick the relevant box.
+- The Agent agrees with the Purchaser that—
 
-  - (L.N. 176 of 1999)
+- (a) | the agency relationship between them in respect of the Properties shall be a single agency/dual agency/potentially dual agency(3) as specified in column 4 of Schedule 1 to this Agreement;
 
-  - FORM 5
+- (b) | in the case of each dual agency, the Agent shall as soon as is practicable disclose in writing to the Purchaser the amount or rate of commission to be received by the Agent from the relevant vendor;
 
-  - ESTATE AGENCY AGREEMENT FOR LEASING OF
+- (c) | in the case of each potentially dual agency, the Agent shall as soon as is practicable after dual agency arises disclose in writing to the Purchaser such agency relationship and the amount or rate of commission to be received by the Agent from the relevant vendor; and
 
-  - RESIDENTIAL PROPERTIES IN HONG KONG (for use between an estate agent and a landlord)
+- (d) | The Agent’s duties shall be as set out in Schedule 2 to this Agreement, in addition to the duties placed on the Agent by this Agreement or any enactment.
 
-  - GENERAL CAUTION: Read this Agreement carefully and follow its instructions. If you do not understand any thing in this Agreement then ask for an explanation to be given. If you do not understand or agree with any explanation given then it is best to consult your solicitor before signing this Agreement. Information note: Where any thing in this Agreement is followed by a number in brackets (e.g. (1)), then immediately read the explanatory note that bears that number in Schedule 4 to this Agreement. Where any thing in this Agreement refers to a Schedule to this Agreement, then immediately read that Schedule.
+- 3. | Commission
 
-    - 1. Appointment of Agent and Validity Period of this Agreement I/We, _ (“Landlord”), appoint _ (“Agent”(2)) subject to and in accordance with the terms of this Agreement to act as my/our exclusive(3)/non-exclusive(1) agent in the marketing for letting purpose of _ (“Property”). This Agreement shall take effect on _ (D/M/Y) and expire on _ (D/M/Y) (both days inclusive) (“Validity Period”). [CAUTION: In the case of exclusive agency, the Landlord may be liable to pay commission to the Agent even if the Property is not let through the Agent within the Validity Period. The Landlord should therefore consider carefully when he enters into an exclusive agency relationship with the Agent. Special obligations to be performed by the Agent under exclusive agency may be specified as extra terms under clause 12.]
+- The provisions of this Agreement applicable to the commission to be paid by the Purchaser to the Agent shall be as set out in Schedules 1, 3 and 5 to this Agreement(4).
 
-    - 2.
+- 4. | Property Information
 
-    - Agency Relationship and Duties of Agent
+- The Agent shall provide to the Purchaser in respect of the Properties all relevant Property Information Forms including Vendor’s Statements prescribed under the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation—
 
-    - The Agent agrees with the Landlord that—
+- (a) | obtained from the respective vendors’ licensed estate agents in the case of single agency;
 
-      - (a) the agency relationship between them shall be a single agency/dual agency/potentially dual agency(3)(1);
+- (b) | duly completed and signed by the Agent in the case of dual agency or where a vendor is not represented by a licensed estate agent,
 
-      - (b) in the case of dual agency, the Agent shall as soon as is practicable disclose in writing to the Landlord the amount or rate of commission to be received by the Agent from a tenant;
+- unless the Purchaser expressly waives his right to receive any of them.
 
-      - (c) in the case of potentially dual agency, the Agent shall as soon as is practicable after dual agency arises disclose in writing to the Landlord such agency relationship and the amount or rate of commission to be received by the Agent from a tenant; and
+- 5. | Disclosure of Interest by Agent
 
-      - (d) The Agent’s duties shall be as set out in Schedule 1 to this Agreement, in addition to the duties placed on the Agent by this Agreement or any enactment.
+- (a) | The person signing this Agreement on behalf of the Agent discloses that he or his specified relative(5), or any nominee of his or of his specified relative, or the Agent or any employee/substantial shareholder(6)/partner/director of the Agent has a pecuniary or other beneficial interest(7) in the Properties: Yes □ No □(8)
 
-    - 3. List Rental [CAUTION: The Landlord does not confer upon the Agent, by virtue of this clause, the right to accept an offer on behalf of the Landlord. The list rental is for the purpose of listing and advertising only.] The list rental shall be Hong Kong Dollars _ (HK$_) per month inclusive/exclusive(1) of rates and management fee. The list rental can only be varied with written instructions of the Landlord and such instructions shall form part of this Agreement.
+- (b) | If the answer to the above is “yes”, then the particulars of the interest must be specified in Schedule 4 to this Agreement.
 
-    - 4. Commission The provisions of this Agreement applicable to the commission to be paid by the Landlord to the Agent shall be as set out in Schedules 2 and 4 to this Agreement(4).
+- (c) | The person signing this Agreement on behalf of the Agent shall as soon as is practicable disclose in writing to the Purchaser any interest referred to in paragraph (a) above that may arise during the Validity Period.
 
-    - 5. Property Information The Agent shall provide to the Landlord the Leasing Information Form prescribed under the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation duly completed and signed by the Agent.
+- 6. | Acknowledgement by Purchaser
 
-    - 6. Property Inspection
+- The Purchaser acknowledges that he has—
 
-      - (a) The Landlord agrees to allow viewing of the Property by the Agent/tenant(s)(1) at a mutually agreeable time. Yes □ No □(8)
+- (a) | read and understood the terms of this Agreement; and
 
-      - (b) The Landlord agrees to pass the keys of the Property to the Agent for safe custody and for the viewing of the Property. Yes □ No □(8)
+- (b) | received all relevant Property Information Forms including Vendor’s Statements required to be provided under clause 4 of this Agreement which the Purchaser has not expressly waived his right to receive.
 
-      - (c) The Landlord authorizes the Agent to pass the keys to other estate agents/persons(1) for the viewing of the Property. Yes □ No □(8)
+- 7. | Schedules
 
-    - 7. Sub-listing
+- The Schedules to this Agreement form part of this Agreement.
 
-      - (a) The Landlord authorizes the Agent to sub-list the Property and pass relevant information about the Landlord and the Property supplied by the Landlord to other estate agents for sub-listing purposes. Yes □ No □(8)
+- 8. | Agreement void if domestic purpose or use not allowed
 
-      - (b) If the Agent sub-lists the Property to another estate agent (“sub-listing agent”), the Agent shall ensure that the sub-listing agent shall observe the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation regarding advertising.
+- This Agreement shall be void with regard to a property listed in Schedule 1 if the occupation permit for that property does not include or allow domestic purpose or use.
 
-    - 8. Advertising
+- 9. | Extra Terms [CAUTION: These extra terms cannot conflict with or limit the other terms of this Agreement]:
 
-      - (a) The Landlord authorizes the Agent to issue advertisement in respect of the Property. Yes □ No □(8)
+- Signature of the Purchaser: | Signature of the estate agent/salesperson signing for and on behalf of the Agent:
 
-      - (b) If the answer to the above is “yes”, then the advertising fees will be borne by the Agent unless otherwise specified in this Agreement.
+- Hong Kong identity card(s) number(s): (if applicable) | Name and licence number of the signatory:
 
-    - 9. Disclosure of Interest by Agent
+- Where the Purchaser is a company, please state:
 
-      - (a) The person signing this Agreement on behalf of the Agent discloses that he or his specified relative(5), or any nominee of his or of his specified relative, or the Agent or any employee/substantial shareholder(6)/partner/director of the Agent has a pecuniary or other beneficial interest(7) in the Property: Yes □ No □(8)
+- Name of the Signatory: | Number of Agent’s statement of particulars of business:
 
-      - (b) If the answer to the above is “yes”, then the particulars of the interest must be specified in Schedule 3 to this Agreement.
+- Position of the Signatory:
 
-      - (c) The person signing this Agreement on behalf of the Agent shall as soon as is practicable disclose in writing to the Landlord any interest referred to in paragraph (a) above that may arise during the Validity Period.
+- Business Registration Certificate number of the Purchaser:
 
-    - 10.
+- Address: | Address:
 
-    - Acknowledgement by Landlord
+- Telephone number: | Telephone number:
 
-    - The Landlord acknowledges that he has—
+- Fax number: | Fax number:
 
-      - (a) read and understood the terms of this Agreement; and
+- Date: | Date:
 
-      - (b) □(8) received the Leasing Information Form required to be provided under clause 5 of this Agreement; □(8) agreed to receive the Leasing Information Form before entering into a binding lease between the Landlord and a tenant.
+- [CAUTION: Immediately after this Agreement has been signed, the Purchaser must be given the original or a copy of this Agreement as signed.]
 
-    - 11. Schedules The Schedules to this Agreement form part of this Agreement.
+Schedule 1
 
-    - 12. Extra Terms [CAUTION: These extra terms cannot conflict with or limit the other terms of this Agreement.]: _
+Properties
 
-    - Signature of the Landlord: | Signature of the estate agent/salesperson signing for and on behalf of the Agent:
+Properties | Date of inspection (please specify if Purchaser agrees not to inspect) | Purchaser waives his right to receive Property Information Forms including Vendor’s Statements (Tick relevant box) | Agency Relationship (Tick relevant box and delete whichever is inappropriate) | Amount or rate of commission to be paid by vendor, if applicable | Amount or rate of commission to be paid by Purchaser | Signature of Purchaser*
 
-    - Hong Kong identity card(s) number(s): (if applicable) | Name and licence number of the signatory:
+(a) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - Where the Landlord is a company, please state:
+(b) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - Name of the Signatory: Position of the Signatory: Business Registration Certificate number of the Landlord: | Number of Agent’s statement of particulars of business:
+(c) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - Address: | Address:
+(d) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - Telephone number: Fax number: Date: | Telephone number: Fax number: Date:
+(e) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - [CAUTION: Immediately after this Agreement has been signed, the Landlord must be given the original or a copy of this Agreement as signed.] Schedule 1 Duties of Agent The Agent shall—
+(f) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - (a) market the Property on behalf of the Landlord;
+(g) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - (b) obtain information in relation to the Property for the Landlord;
+(h) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - (c) arrange for tenants to inspect the Property;
+(i) | Yes □ No □ | Single □ Dual/Potentially dual □
 
-    - (d) conduct negotiation and submit all offers in relation to the Property to the Landlord; and
+* The Purchaser must sign separately for each property listed.
 
-    - (e) assist the Landlord in entering into a binding lease with a tenant. Schedule 2 Commission to be Paid by Landlord
+Schedule 2
 
-    - 1. Subject to section 2 of this Schedule, if during the Validity Period the Landlord through the Agent enters into a binding lease with a tenant in respect of the Property then the Landlord is liable to pay the Agent commission in the amount of $_/at the rate of _% of the transacted rental(1): □(8) upon the signing of the lease. □(8) upon the commencement of the tenancy as specified in the lease.
+Duties of Agent
 
-    - 2. Subject to section 3 of this Schedule, the Landlord shall have no obligation to pay any commission to the Agent if commencement of the binding lease falls through without fault on the part of the Landlord and, in such case, if the commission has already been paid it shall be refunded by the Agent to the Landlord as soon as is practicable and in any case not later than 5 working days from the commencement date of the lease with interest/without interest(1).
+- The Agent shall—
 
-    - 3. The commission shall become payable to the Agent in the case of mutual cancellation of the binding lease not arising from any provisions of the lease.
+- (a) | obtain information in relation to the Properties for the Purchaser;
 
-    - 4. The Landlord is not liable to pay any commission to other estate agents with whom the Agent co-operates in letting the Property. Schedule 3 Interests in Property In accordance with clause 9 of this Agreement, particulars of the pecuniary or other beneficial interests(7) in respect of the Property are as follows: _
+- (b) | arrange for the Purchaser to inspect the Properties if requested to do so by the Purchaser;
 
-    - _ Schedule 4 Explanatory Notes
+- (c) | conduct negotiation and submit all offers to the vendors of the Properties as instructed by the Purchaser; and
 
-    - (1) This means delete whichever is inappropriate. All deletions must be initialled.
+- (d) | assist the Purchaser in entering into a binding agreement for sale and purchase with the vendor of any one or more of the Properties.
 
-    - (2) Enter the name of the estate agency business entity concerned in clause 1 of this Agreement.
+Schedule 3
 
-    - (3) Exclusive Agency- this means the Agent is the only estate agent acting for the Landlord. If during the Validity Period the Landlord enters into a binding lease with a tenant in respect of the Property through another estate agent, the Agent has a right to claim commission as specified in section 1 of Schedule 2 from the Landlord. Single agency- this means the Agent acts for the Landlord only.
+Commission to be Paid by Purchaser
 
-    - Dual agency- this means the Agent acts for both the Landlord and a tenant of the Property.
+- 1. | Subject to sections 2 and 5 of this Schedule, if during the Validity Period the Purchaser through the Agent enters into a binding agreement for sale and purchase with the vendor in respect of one or more of the Properties then the Purchaser is liable to pay the Agent commission:
 
-    - Potentially dual agency- this means the Agent acts for the Landlord only but may also act for a tenant of the Property at a later stage.
+- □(8) | upon the signing of the agreement for sale and purchase.
 
-    - (4) The amount or rate of commission is negotiable between the Landlord and the Agent.
+- □(8) | upon the completion of the property transaction as specified in the agreement for sale and purchase.
 
-    - (5) Specified relative- this means the spouse, parent, child, brother or sister.
+- 2. | Subject to section 3 of this Schedule, the Purchaser shall have no obligation to pay any commission to the Agent if completion of the property transaction falls through without fault on the part of the Purchaser and, in such case, if the commission has already been paid it shall be refunded by the Agent to the Purchaser as soon as is practicable and in any case not later than 5 working days from the completion date as specified in the agreement for sale and purchase with interest/without interest(1).
 
-    - (6) Substantial shareholder- this means a person who is entitled to exercise or control the exercise of 10% or more of the voting power at any general meeting of the Agent.
+- 3. | The commission shall become payable to the Agent in the case of mutual cancellation of a binding agreement for sale and purchase of the property concerned not arising from any provisions of the agreement for sale and purchase.
 
-    - (7) Having a pecuniary or other beneficial interest includes:
+- 4. | The Purchaser is not liable to pay any commission to other estate agents with whom the Agent co-operates for the purpose of purchasing any one or more of the Properties.
 
-      - (a) being a member of a company or any other body which has a pecuniary or other beneficial interest in respect of the Property;
+- 5. | Subject to sections 2, 3 and 4 of this Schedule, the Purchaser is also liable to pay to the Agent as commission for services rendered with regard to the property concerned if the Purchaser or the spouse, or any nominee, undisclosed principal or agent of the Purchaser enters into a binding agreement for sale and purchase with the vendor of any one or more of the Properties during the Validity Period whether through the Agent or otherwise.
 
-      - (b) being in partnership with or is in the employment of a person who has a pecuniary or other beneficial interest in respect of the Property; or
+Schedule 4
 
-      - (c) being a party to any arrangement or agreement (whether enforceable or not) concerning the Property.
+Interests in Property
 
-    - (8) Tick the relevant box.
+- In accordance with clause 5 of this Agreement, particulars of the pecuniary or other beneficial interests(7) in respect of one or more of the Properties are as follows:
 
-  - (L.N. 176 of 1999)
+Schedule 5
 
-  - FORM 6 ESTATE AGENCY AGREEMENT FOR LEASING OF
+Explanatory Notes
 
-  - RESIDENTIAL PROPERTIES IN HONG KONG (for use between an estate agent and a tenant)
+- (1) | This means delete whichever is inappropriate. All deletions must be initialled.
 
-  - GENERAL CAUTION: Read this Agreement carefully and follow its instructions. If you do not understand any thing in this Agreement then ask for an explanation to be given. If you do not understand or agree with any explanation given then it is best to consult your solicitor before signing this Agreement. Information note: Where any thing in this Agreement is followed by a number in brackets (e.g.(1)), then immediately read the explanatory note that bears that number in Schedule 5 to this Agreement. Where any thing in this Agreement refers to a Schedule to this Agreement, then immediately read that Schedule.
+- (2) | Enter the name of the estate agency business entity concerned in clause 1 of this Agreement.
 
-    - 1. Appointment of Agent and Validity Period of this Agreement I/We, _ (“Tenant”), appoint _ (“Agent”(2)) subject to and in accordance with the terms of this Agreement to act as my/our agent in the intended renting of the properties listed in Schedule 1 to this Agreement (“Properties”). This Agreement shall take effect on _ (D/M/Y) and expire on _ (D/M/Y) (both days inclusive) (“Validity Period”). [CAUTION: It is recommended that the Validity Period should be not more than 3 months.]
+- (3) | Single agency — | this means the Agent acts for the Purchaser only.
 
-    - 2.
+- Dual agency — | this means the Agent acts for both the Purchaser and the vendor of a property listed in Schedule 1 to this Agreement.
 
-    - Agency Relationship and Duties of Agent
+- Potentially dual agency — | this means the Agent acts for the Purchaser only but may also act for the vendor of a property listed in Schedule 1 to this Agreement at a later stage.
 
-    - The Agent agrees with the Tenant that—
+- (4) | The amount or rate of commission is negotiable between the Purchaser and the Agent.
 
-      - (a) the agency relationship between them in respect of the Properties shall be a single agency/dual agency /potentially dual agency(3) as specified in column 4 of Schedule 1 to this Agreement;
+- (5) | Specified relative — | this means the spouse, parent, child, brother or sister.
 
-      - (b) in the case of each dual agency, the Agent shall as soon as is practicable disclose in writing to the Tenant the amount or rate of commission to be received by the Agent from the relevant landlord;
+- (6) | Substantial shareholder — | this means a person who is entitled to exercise or control the exercise of 10% or more of the voting power at any general meeting of the Agent.
 
-      - (c) in the case of each potentially dual agency, the Agent shall as soon as is practicable after dual agency arises disclose in writing to the Tenant such agency relationship and the amount or rate of commission to be received by the Agent from the relevant landlord; and
+- (7) | Having a pecuniary or other beneficial interest includes:
 
-      - (d) The Agent’s duties shall be as set out in Schedule 2 to this Agreement, in addition to the duties placed on the Agent by this Agreement or any enactment.
+- (a) | being a member of a company or any other body which has a pecuniary or other beneficial interest in respect of the Properties;
 
-    - 3. Commission The provisions of this Agreement applicable to the commission to be paid by the Tenant to the Agent shall be as set out in Schedules 1, 3 and 5 to this Agreement(4).
+- (b) | being in partnership with or is in the employment of a person who has a pecuniary or other beneficial interest in respect of the Properties; or
 
-    - 4.
+- (c) | being a party to any arrangement or agreement (whether enforceable or not) concerning the Properties.
 
-    - Property Information
+- (8) | Tick the relevant box.
 
-    - The Agent shall provide to the Tenant in respect of the Properties all relevant Leasing Information Forms prescribed under the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation—
+- (L.N. 176 of 1999)
 
-      - (a) obtained from the respective landlords’ licensed estate agents in the case of single agency;
+- FORM 5 ESTATE AGENCY AGREEMENT FOR LEASING OF RESIDENTIAL PROPERTIES IN HONG KONG (for use between an estate agent and a landlord)
 
-      - (b) duly completed and signed by the Agent in the case of dual agency or where a landlord is not represented by a licensed estate agent, unless the Tenant expressly waives his right to receive any of them.
+- GENERAL CAUTION: Read this Agreement carefully and follow its instructions. If you do not understand any thing in this Agreement then ask for an explanation to be given. If you do not understand or agree with any explanation given then it is best to consult your solicitor before signing this Agreement. Information note: Where any thing in this Agreement is followed by a number in brackets (e.g. (1)), then immediately read the explanatory note that bears that number in Schedule 4 to this Agreement. Where any thing in this Agreement refers to a Schedule to this Agreement, then immediately read that Schedule.
 
-    - 5. Disclosure of Interest by Agent
+- 1. | Appointment of Agent and Validity Period of this Agreement
 
-      - (a) The person signing this Agreement on behalf of the Agent discloses that he or his specified relative(5), or any nominee of his or of his specified relative, or the Agent or any employee/substantial shareholder(6)/partner/director of the Agent has a pecuniary or other beneficial interest(7) in the Properties: Yes □ No □(8)
+- I/We, _ (“Landlord”), appoint _ (“Agent”(2)) subject to and in accordance with the terms of this Agreement to act as my/our exclusive(3)/non-exclusive(1) agent in the marketing for letting purpose of _ (“Property”). This Agreement shall take effect on _ (D/M/Y) and expire on _ (D/M/Y) (both days inclusive) (“Validity Period”). [CAUTION: In the case of exclusive agency, the Landlord may be liable to pay commission to the Agent even if the Property is not let through the Agent within the Validity Period. The Landlord should therefore consider carefully when he enters into an exclusive agency relationship with the Agent. Special obligations to be performed by the Agent under exclusive agency may be specified as extra terms under clause 12.]
 
-      - (b) If the answer to the above is “yes”, then the particulars of the interest must be specified in Schedule 4 to this Agreement.
+- 2. | Agency Relationship and Duties of Agent
 
-      - (c) The person signing this Agreement on behalf of the Agent shall as soon as is practicable disclose in writing to the Tenant any interest referred to in paragraph (a) above that may arise during the Validity Period.
+- The Agent agrees with the Landlord that—
 
-    - 6.
+- (a) | the agency relationship between them shall be a single agency/dual agency/potentially dual agency(3)(1);
 
-    - Acknowledgement by Tenant
+- (b) | in the case of dual agency, the Agent shall as soon as is practicable disclose in writing to the Landlord the amount or rate of commission to be received by the Agent from a tenant;
 
-    - The Tenant acknowledges that the Tenant has—
+- (c) | in the case of potentially dual agency, the Agent shall as soon as is practicable after dual agency arises disclose in writing to the Landlord such agency relationship and the amount or rate of commission to be received by the Agent from a tenant; and
 
-      - (a) read and understood the terms of this Agreement; and
+- (d) | The Agent’s duties shall be as set out in Schedule 1 to this Agreement, in addition to the duties placed on the Agent by this Agreement or any enactment.
 
-      - (b) received all relevant Leasing Information Forms required to be provided under clause 4 of this Agreement which the Tenant has not expressly waived his right to receive.
+- 3. | List Rental [CAUTION: The Landlord does not confer upon the Agent, by virtue of this clause, the right to accept an offer on behalf of the Landlord. The list rental is for the purpose of listing and advertising only.] The list rental shall be Hong Kong Dollars _ (HK$_) per month inclusive/exclusive(1) of rates and management fee. The list rental can only be varied with written instructions of the Landlord and such instructions shall form part of this Agreement.
 
-    - 7. Schedules The Schedules to this Agreement form part of this Agreement.
+- 4. | Commission
 
-    - 8. Extra Terms [CAUTION: These extra terms cannot conflict with or limit the other terms of this Agreement]: _
+- The provisions of this Agreement applicable to the commission to be paid by the Landlord to the Agent shall be as set out in Schedules 2 and 4 to this Agreement(4).
 
-    - Signature of the Tenant: | Signature of the estate agent/salesperson signing for and on behalf of the Agent:
+- 5. | Property Information
 
-    - Hong Kong identity card(s) number(s): (if applicable) | Name and licence number of the signatory:
+- The Agent shall provide to the Landlord the Leasing Information Form prescribed under the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation duly completed and signed by the Agent.
 
-    - Where the Tenant is a company, please state:
+- 6. | Property Inspection
 
-    - Name of the Signatory: Position of the Signatory: Business Registration Certificate number of the Tenant: | Number of Agent’s statement of particulars of business:
+- (a) | The Landlord agrees to allow viewing of the Property by the Agent/tenant(s)(1) at a mutually agreeable time. Yes □ No □(8)
 
-    - Address: | Address:
+- (b) | The Landlord agrees to pass the keys of the Property to the Agent for safe custody and for the viewing of the Property. Yes □ No □(8)
 
-    - Telephone number: Fax number: Date: | Telephone number: Fax number: Date:
+- (c) | The Landlord authorizes the Agent to pass the keys to other estate agents/persons(1) for the viewing of the Property. Yes □ No □(8)
 
-    - [CAUTION: Immediately after this Agreement has been signed, the Tenant must be given the original or a copy of this Agreement as signed.] Schedule 1 Properties
+- 7. | Sub-listing
 
-    - Properties | Date of inspection (please specify if Tenant agrees not to inspect) | Tenant waives his right to receive Leasing Information Forms (Tick relevant box) | Agency Relationship (Tick relevant box and delete whichever is inappropriate) | Amount or rate of commission to be paid by landlord, if applicable | Amount or rate of commission to be paid by Tenant | Signature of Tenant*
+- (a) | The Landlord authorizes the Agent to sub-list the Property and pass relevant information about the Landlord and the Property supplied by the Landlord to other estate agents for sub-listing purposes. Yes □ No □(8)
 
-    - (a) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (b) | If the Agent sub-lists the Property to another estate agent (“sub-listing agent”), the Agent shall ensure that the sub-listing agent shall observe the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation regarding advertising.
 
-    - (b) | Yes □ No □ | Single □ Dual/Potentially dual □
+- 8. | Advertising
 
-    - (c) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (a) | The Landlord authorizes the Agent to issue advertisement in respect of the Property. Yes □ No □(8)
 
-    - (d) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (b) | If the answer to the above is “yes”, then the advertising fees will be borne by the Agent unless otherwise specified in this Agreement.
 
-    - (e) | Yes □ No □ | Single □ Dual/Potentially dual □
+- 9. | Disclosure of Interest by Agent
 
-    - (f) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (a) | The person signing this Agreement on behalf of the Agent discloses that he or his specified relative(5), or any nominee of his or of his specified relative, or the Agent or any employee/substantial shareholder(6)/partner/director of the Agent has a pecuniary or other beneficial interest(7) in the Property: Yes □ No □(8)
 
-    - (g) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (b) | If the answer to the above is “yes”, then the particulars of the interest must be specified in Schedule 3 to this Agreement.
 
-    - (h) | Yes □ No □ | Single □ Dual/Potentially dual □
+- (c) | The person signing this Agreement on behalf of the Agent shall as soon as is practicable disclose in writing to the Landlord any interest referred to in paragraph (a) above that may arise during the Validity Period.
 
-    - (i) | Yes □ No □ | Single □ Dual/Potentially dual □
+- 10. | Acknowledgement by Landlord
 
-    - * The Tenant must sign separately for each property listed. Schedule 2 Duties of Agent The Agent shall—
+- The Landlord acknowledges that he has—
 
-  - (a) obtain information in relation to the Properties for the Tenant;
+- (a) | read and understood the terms of this Agreement; and
 
-  - (b) arrange for the Tenant to inspect the Properties if requested to do so by the Tenant;
+- (b) | □(8) | received the Leasing Information Form required to be provided under clause 5 of this Agreement;
 
-  - (c) conduct negotiation and submit all offers to the landlords of the Properties as instructed by the Tenant; and
+- □(8) | agreed to receive the Leasing Information Form before entering into a binding lease between the Landlord and a tenant.
 
-  - (d) assist the Tenant in entering into a binding lease with the landlord of any one or more of the Properties. Schedule 3 Commission to be Paid by Tenant
+- 11. | Schedules
 
-  - 1. Subject to sections 2 and 5 of this Schedule, if during the Validity Period the Tenant through the Agent enters into a binding lease with the landlord in respect of one or more of the Properties then the Tenant is liable to pay the Agent commission: □(8) upon the signing of the lease. □(8) upon the commencement of the tenancy as specified in the lease.
+- The Schedules to this Agreement form part of this Agreement.
 
-  - 2. Subject to section 3 of this Schedule, the Tenant shall have no obligation to pay any commission to the Agent if commencement of the binding lease falls through without fault on the part of the Tenant and, in such case, if the commission has already been paid it shall be refunded by the Agent to the Tenant as soon as is practicable and in any case not later than 5 working days from the commencement date of the lease with interest/without interest(1).
+- 12. | Extra Terms [CAUTION: These extra terms cannot conflict with or limit the other terms of this Agreement.]:
 
-  - 3. The commission shall become payable to the Agent in the case of mutual cancellation of the binding lease not arising from any provisions of the lease.
+- Signature of the Landlord: | Signature of the estate agent/salesperson signing for and on behalf of the Agent:
 
-  - 4. The Tenant is not liable to pay any commission to other estate agents with whom the Agent co-operates for the purpose of renting any one or more of the Properties.
+- Hong Kong identity card(s) number(s): (if applicable) | Name and licence number of the signatory:
 
-  - 5.
+- Where the Landlord is a company, please state:
 
-  - Subject to sections 2, 3 and 4 of this Schedule, the Tenant is also liable to pay to the Agent as commission for services rendered with regard to the property concerned if the Tenant or the spouse, or any nominee, undisclosed principal or agent of the Tenant enters into a binding lease with the landlord of any one or more of the Properties during the Validity Period whether through the Agent or otherwise.
+- Name of the Signatory: | Number of Agent’s statement of particulars of business:
 
-  - Schedule 4 Interests in Properties
+- Position of the Signatory:
 
-  - In accordance with clause 5 of this Agreement, particulars of the pecuniary or other beneficial interests(7) in respect of one or more of the Properties are as follows:
+- Business Registration Certificate number of the Landlord:
 
-  - _
+- Address: | Address:
 
-  - _
+- Telephone number: | Telephone number:
 
-  - Schedule 5 Explanatory Notes
+- Fax number: | Fax number:
 
-    - (1) This means delete whichever is inappropriate. All deletions must be initialled.
+- Date: | Date:
 
-    - (2) Enter the name of the estate agency business entity concerned in clause 1 of this Agreement.
+- [CAUTION: Immediately after this Agreement has been signed, the Landlord must be given the original or a copy of this Agreement as signed.]
 
-    - (3) Single agency- this means the Agent acts for the Tenant only. Dual agency- this means the Agent acts for both the Tenant and the landlord of a property listed in Schedule 1 to this Agreement.
+Schedule 1
 
-    - Potentially dual agency- this means the Agent acts for the Tenant only but may also act for the landlord of a property listed in Schedule 1 to this Agreement at a later stage.
+Duties of Agent
 
-    - (4) The amount or rate of commission is negotiable between the Tenant and the Agent.
+- The Agent shall—
 
-    - (5) Specified relative- this means the spouse, parent, child, brother or sister.
+- (a) | market the Property on behalf of the Landlord;
 
-    - (6) Substantial shareholder- this means a person who is entitled to exercise or control the exercise of 10% or more of the voting power at any general meeting of the Agent.
+- (b) | obtain information in relation to the Property for the Landlord;
 
-    - (7) Having a pecuniary or other beneficial interest includes—
+- (c) | arrange for tenants to inspect the Property;
 
-      - (a) being a member of a company or any other body which has a pecuniary or other beneficial interest in respect of the Properties;
+- (d) | conduct negotiation and submit all offers in relation to the Property to the Landlord; and
 
-      - (b) being in partnership with or is in the employment of a person who has a pecuniary or other beneficial interest in respect of the Properties; or
+- (e) | assist the Landlord in entering into a binding lease with a tenant.
 
-      - (c) being a party to any arrangement or agreement (whether enforceable or not) concerning the Properties.
+Schedule 2
 
-    - (8) Tick the relevant box.
+Commission to be Paid by Landlord
 
-  - (L.N. 176 of 1999)
+- 1. | Subject to section 2 of this Schedule, if during the Validity Period the Landlord through the Agent enters into a binding lease with a tenant in respect of the Property then the Landlord is liable to pay the Agent commission in the amount of $_/at the rate of _% of the transacted rental(1):
 
-  - FORM 7 ESTATE AGENTS ORDINANCE
+- □(8) | upon the signing of the lease.
 
-  - (Chapter 511)
+- □(8) | upon the commencement of the tenancy as specified in the lease.
 
-  - (Section 34) SUMMONS TO WITNESS
+- 2. | Subject to section 3 of this Schedule, the Landlord shall have no obligation to pay any commission to the Agent if commencement of the binding lease falls through without fault on the part of the Landlord and, in such case, if the commission has already been paid it shall be refunded by the Agent to the Landlord as soon as is practicable and in any case not later than 5 working days from the commencement date of the lease with interest/without interest(1).
 
-  - In the matter of an inquiry under section 29 of the Ordinance And in the matter of(1) . To(2) . You are hereby summoned to appear before the Estate Agents Authority at . on the . day of . at . o’clock in the . noon to give evidence touching the matter under inquiry and also to bring with you and produce(3)* .
+- 3. | The commission shall become payable to the Agent in the case of mutual cancellation of the binding lease not arising from any provisions of the lease.
 
-  - . Given under my hand this . day of . .
+- 4. | The Landlord is not liable to pay any commission to other estate agents with whom the Agent co-operates in letting the Property.
 
-  - Chairman,
+Schedule 3
 
-  - Estate Agents Authority/
+Interests in Property
 
-  - Disciplinary Committee* Note: (1) Name of the licensed estate agent or salesperson.
+- In accordance with clause 9 of this Agreement, particulars of the pecuniary or other beneficial interests(7) in respect of the Property are as follows:
 
-    - (2) Name and address of the witness.
+Schedule 4
 
-    - (3) Specify the books, documents or other things to be produced.
+Explanatory Notes
 
-    - * Delete if inappropriate. FORM 8 ESTATE AGENTS ORDINANCE
+- (1) | This means delete whichever is inappropriate. All deletions must be initialled.
 
-    - (Chapter 511)
+- (2) | Enter the name of the estate agency business entity concerned in clause 1 of this Agreement.
 
-    - (Section 40(1)) NOTICE OF CESSATION OF ENGAGEMENT IN
+- (3) | Exclusive Agency — | this means the Agent is the only estate agent acting for the Landlord. If during the Validity Period the Landlord enters into a binding lease with a tenant in respect of the Property through another estate agent, the Agent has a right to claim commission as specified in section 1 of Schedule 2 from the Landlord.
 
-    - ESTATE AGENCY WORK BY A LICENSEE To: Estate Agents Authority (address) I/We*(1) . of(2) ., holder of estate agent’s/salesperson’s* licence number:(3) . hereby give you notice that I/we* ceased to be engaged in estate agency work on(4) . (D/M/Y)
+- Single agency — | this means the Agent acts for the Landlord only.
 
-    - . Date | . Signed by/on behalf of* the licensee
+- Dual agency — | this means the Agent acts for both the Landlord and a tenant of the Property.
 
-    - Note: (1) Name of the licensee.
+- Potentially dual agency — | this means the Agent acts for the Landlord only but may also act for a tenant of the Property at a later stage.
 
-    - (2) Registered address of the licensee.
+- (4) | The amount or rate of commission is negotiable between the Landlord and the Agent.
 
-    - (3) Licence number of the estate agent or salesperson.
+- (5) | Specified relative — | this means the spouse, parent, child, brother or sister.
 
-    - (4) Date of the cessation.
+- (6) | Substantial shareholder — | this means a person who is entitled to exercise or control the exercise of 10% or more of the voting power at any general meeting of the Agent.
 
-    - * Delete if inappropriate. < Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of the cessation. FORM 9 ESTATE AGENTS ORDINANCE
+- (7) | Having a pecuniary or other beneficial interest includes:
 
-    - (Chapter 511)
+- (a) | being a member of a company or any other body which has a pecuniary or other beneficial interest in respect of the Property;
 
-    - (Section 40(2)) NOTICE OF EMPLOYMENT/CESSATION OF EMPLOYMENT* OF A
+- (b) | being in partnership with or is in the employment of a person who has a pecuniary or other beneficial interest in respect of the Property; or
 
-    - PERSON AS A SALESPERSON OF A LICENSED ESTATE AGENT To: Estate Agents Authority (address) I/We*(1) . of(2) ., holder of estate agent’s licence number: (3) . hereby give you notice that (4) ., holder of estate agent’s/salesperson’s* licence number: (5) . was employed/ceased to be employed* by me/us* as a salesperson on (6) . (D/M/Y)
+- (c) | being a party to any arrangement or agreement (whether enforceable or not) concerning the Property.
 
-    - . Date | . Signed by/on behalf of* the licensed estate agent
+- (8) | Tick the relevant box.
 
-    - Note: (1) Name of the licensed estate agent.
+- (L.N. 176 of 1999)
 
-    - (2) Registered address of the licensed estate agent.
+- FORM 6 ESTATE AGENCY AGREEMENT FOR LEASING OF RESIDENTIAL PROPERTIES IN HONG KONG (for use between an estate agent and a tenant)
 
-    - (3) Licence number of the licensed estate agent.
+- GENERAL CAUTION: Read this Agreement carefully and follow its instructions. If you do not understand any thing in this Agreement then ask for an explanation to be given. If you do not understand or agree with any explanation given then it is best to consult your solicitor before signing this Agreement. Information note: Where any thing in this Agreement is followed by a number in brackets (e.g. (1)), then immediately read the explanatory note that bears that number in Schedule 5 to this Agreement. Where any thing in this Agreement refers to a Schedule to this Agreement, then immediately read that Schedule.
 
-    - (4) Name of the salesperson.
+- 1. | Appointment of Agent and Validity Period of this Agreement
 
-    - (5) Licence number of the salesperson.
+- I/We, _ (“Tenant”), appoint _ (“Agent”(2)) subject to and in accordance with the terms of this Agreement to act as my/our agent in the intended renting of the properties listed in Schedule 1 to this Agreement (“Properties”). This Agreement shall take effect on _ (D/M/Y) and expire on _ (D/M/Y) (both days inclusive) (“Validity Period”). [CAUTION: It is recommended that the Validity Period should be not more than 3 months.]
 
-    - (6) Date of the employment/cessation of employment.
+- 2. | Agency Relationship and Duties of Agent
 
-    - * Delete if inappropriate. < Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of the employment or cessation of employment, as the case may be. FORM 10 ESTATE AGENTS ORDINANCE
+- The Agent agrees with the Tenant that—
 
-    - (Chapter 511)
+- (a) | the agency relationship between them in respect of the Properties shall be a single agency/dual agency/potentially dual agency(3) as specified in column 4 of Schedule 1 to this Agreement;
 
-    - (Section 40(3)) NOTICE OF APPOINTMENT/TERMINATION OF APPOINTMENT* OF A
+- (b) | in the case of each dual agency, the Agent shall as soon as is practicable disclose in writing to the Tenant the amount or rate of commission to be received by the Agent from the relevant landlord;
 
-    - PERSON AS A MANAGER OF A LICENSED ESTATE AGENT To: Estate Agents Authority (address) I/We*(1) . of(2) ., holder of estate agent’s licence number: (3) . hereby give you notice that I/we* appointed/terminated the appointment* of(4) ., holder of estate agent’s licence number: (5) . as a manager with me/us* at(6) . on(7) .(D/M/Y)
+- (c) | in the case of each potentially dual agency, the Agent shall as soon as is practicable after dual agency arises disclose in writing to the Tenant such agency relationship and the amount or rate of commission to be received by the Agent from the relevant landlord; and
 
-    - . Date | . Signed by/on behalf of* the licensed estate agent
+- (d) | The Agent’s duties shall be as set out in Schedule 2 to this Agreement, in addition to the duties placed on the Agent by this Agreement or any enactment.
 
-    - Note: (1) Name of the licensed estate agent.
+- 3. | Commission
 
-    - (2) Registered address of the licensed estate agent.
+- The provisions of this Agreement applicable to the commission to be paid by the Tenant to the Agent shall be as set out in Schedules 1, 3 and 5 to this Agreement(4).
 
-    - (3) Licence number of the licensed estate agent.
+- 4. | Property Information
 
-    - (4) Name of the manager.
+- The Agent shall provide to the Tenant in respect of the Properties all relevant Leasing Information Forms prescribed under the Estate Agents Practice (General Duties and Hong Kong Residential Properties) Regulation—
 
-    - (5) Licence number of the manager.
+- (a) | obtained from the respective landlords’ licensed estate agents in the case of single agency;
 
-    - (6) The place of business where the manager is in effective control of the estate agency business.
+- (b) | duly completed and signed by the Agent in the case of dual agency or where a landlord is not represented by a licensed estate agent,
 
-    - (7) Date of the appointment/termination of appointment.
+- unless the Tenant expressly waives his right to receive any of them.
 
-    - * Delete if inappropriate. < Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of the appointment or termination of appointment, as the case may be. FORM 11 ESTATE AGENTS ORDINANCE
+- 5. | Disclosure of Interest by Agent
 
-    - (Chapter 511)
+- (a) | The person signing this Agreement on behalf of the Agent discloses that he or his specified relative(5), or any nominee of his or of his specified relative, or the Agent or any employee/substantial shareholder(6)/partner/director of the Agent has a pecuniary or other beneficial interest(7) in the Properties: Yes □ No □(8)
 
-    - (Section 40(4)) NOTICE OF APPOINTMENT/CESSATION OF APPOINTMENT* OF A
+- (b) | If the answer to the above is “yes”, then the particulars of the interest must be specified in Schedule 4 to this Agreement.
 
-    - PERSON AS A DIRECTOR OF A LICENSED ESTATE AGENT To: Estate Agents Authority (address) I/We* (1) . of(2) ., holder of estate agent’s licence number: (3) . hereby give you notice that(4) ., holder of estate agent’s/salesperson’s* licence number: (5) . was appointed/ceased to be appointed* as a director of my/our* company on(6) . (D/M/Y)
+- (c) | The person signing this Agreement on behalf of the Agent shall as soon as is practicable disclose in writing to the Tenant any interest referred to in paragraph (a) above that may arise during the Validity Period.
 
-    - . Date | . Signed by/on behalf of* the licensed estate agent
+- 6. | Acknowledgement by Tenant
 
-    - Note: (1) Name of the licensed estate agent.
+- The Tenant acknowledges that the Tenant has—
 
-    - (2) Registered address of the licensed estate agent.
+- (a) | read and understood the terms of this Agreement; and
 
-    - (3) Licence number of the licensed estate agent.
+- (b) | received all relevant Leasing Information Forms required to be provided under clause 4 of this Agreement which the Tenant has not expressly waived his right to receive.
 
-    - (4) Name of the director.
+- 7. | Schedules
 
-    - (5) Licence number of the director if applicable. If not, please state “N/A” which means not applicable.
+- The Schedules to this Agreement form part of this Agreement.
 
-    - (6) Date of the appointment/cessation of appointment.
+- 8. | Extra Terms [CAUTION: These extra terms cannot conflict with or limit the other terms of this Agreement]:
 
-    - * Delete if inappropriate. < Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of the appointment or cessation of appointment, as the case may be. FORM 12 ESTATE AGENTS ORDINANCE
+- Signature of the Tenant: | Signature of the estate agent/salesperson signing for and on behalf of the Agent:
 
-    - (Chapter 511)
+- Hong Kong identity card(s) number(s): (if applicable) | Name and licence number of the signatory:
 
-    - (Section 40(5)) NOTICE OF BECOMING/CEASING TO BE* A MEMBER OF A PARTNERSHIP IN ESTATE AGENCY BUSINESS To: Estate Agents Authority (address) I (1) . of(2) ., holder of estate agent’s licence number: (3) . hereby give you notice that I became/ceased to be* a member of (4) . on (5) . (D/M/Y) which does or will do estate agency work.
+- Where the Tenant is a company, please state:
 
-    - . Date | . Signed by/on behalf of* the licensed estate agent
+- Name of the Signatory: | Number of Agent’s statement of particulars of business:
 
-    - Note: (1) Name of the licensed estate agent.
+- Position of the Signatory:
 
-    - (2) Registered address of the licensed estate agent.
+- Business Registration Certificate number of the Tenant:
 
-    - (3) Licence number of the licensed estate agent.
+- Address: | Address:
 
-    - (4) Business name of the partnership.
+- Telephone number: | Telephone number:
 
-    - (5) Date of becoming a partner/ceasing to be a partner.
+- Fax number: | Fax number:
 
-    - * Delete if inappropriate. < Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of becoming or ceasing to become a member of a partnership in estate agency business, as the case may be.
+- Date: | Date:
+
+- [CAUTION: Immediately after this Agreement has been signed, the Tenant must be given the original or a copy of this Agreement as signed.]
+
+Schedule 1
+
+Properties
+
+Properties | Date of inspection (please specify if Tenant agrees not to inspect) | Tenant waives his right to receive Leasing Information Forms (Tick relevant box) | Agency Relationship (Tick relevant box and delete whichever is inappropriate) | Amount or rate of commission to be paid by landlord, if applicable | Amount or rate of commission to be paid by Tenant | Signature of Tenant*
+
+(a) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+(b) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+(c) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+(d) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+(e) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+(f) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+(g) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+(h) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+(i) | Yes □ No □ | Single □ Dual/Potentially dual □
+
+* The Tenant must sign separately for each property listed.
+
+Schedule 2
+
+Duties of Agent
+
+- The Agent shall—
+
+- (a) | obtain information in relation to the Properties for the Tenant;
+
+- (b) | arrange for the Tenant to inspect the Properties if requested to do so by the Tenant;
+
+- (c) | conduct negotiation and submit all offers to the landlords of the Properties as instructed by the Tenant; and
+
+- (d) | assist the Tenant in entering into a binding lease with the landlord of any one or more of the Properties.
+
+Schedule 3
+
+Commission to be Paid by Tenant
+
+- 1. | Subject to sections 2 and 5 of this Schedule, if during the Validity Period the Tenant through the Agent enters into a binding lease with the landlord in respect of one or more of the Properties then the Tenant is liable to pay the Agent commission: □(8) upon the signing of the lease. □(8) upon the commencement of the tenancy as specified in the lease.
+
+- 2. | Subject to section 3 of this Schedule, the Tenant shall have no obligation to pay any commission to the Agent if commencement of the binding lease falls through without fault on the part of the Tenant and, in such case, if the commission has already been paid it shall be refunded by the Agent to the Tenant as soon as is practicable and in any case not later than 5 working days from the commencement date of the lease with interest/without interest(1).
+
+- 3. | The commission shall become payable to the Agent in the case of mutual cancellation of the binding lease not arising from any provisions of the lease.
+
+- 4. | The Tenant is not liable to pay any commission to other estate agents with whom the Agent co-operates for the purpose of renting any one or more of the Properties.
+
+- 5. | Subject to sections 2, 3 and 4 of this Schedule, the Tenant is also liable to pay to the Agent as commission for services rendered with regard to the property concerned if the Tenant or the spouse, or any nominee, undisclosed principal or agent of the Tenant enters into a binding lease with the landlord of any one or more of the Properties during the Validity Period whether through the Agent or otherwise.
+
+Schedule 4
+
+Interests in Properties
+
+- In accordance with clause 5 of this Agreement, particulars of the pecuniary or other beneficial interests(7) in respect of one or more of the Properties are as follows:
+
+Schedule 5
+
+Explanatory Notes
+
+- (1) | This means delete whichever is inappropriate. All deletions must be initialled.
+
+- (2) | Enter the name of the estate agency business entity concerned in clause 1 of this Agreement.
+
+- (3) | Single agency — | this means the Agent acts for the Tenant only.
+
+- Dual agency — | this means the Agent acts for both the Tenant and the landlord of a property listed in Schedule 1 to this Agreement.
+
+- Potentially dual agency — | this means the Agent acts for the Tenant only but may also act for the landlord of a property listed in Schedule 1 to this Agreement at a later stage.
+
+- (4) | The amount or rate of commission is negotiable between the Tenant and the Agent.
+
+- (5) | Specified relative — | this means the spouse, parent, child, brother or sister.
+
+- (6) | Substantial shareholder — | this means a person who is entitled to exercise or control the exercise of 10% or more of the voting power at any general meeting of the Agent.
+
+- (7) | Having a pecuniary or other beneficial interest includes—
+
+- (a) | being a member of a company or any other body which has a pecuniary or other beneficial interest in respect of the Properties;
+
+- (b) | being in partnership with or is in the employment of a person who has a pecuniary or other beneficial interest in respect of the Properties; or
+
+- (c) | being a party to any arrangement or agreement (whether enforceable or not) concerning the Properties.
+
+- (8) | Tick the relevant box.
+
+- (L.N. 176 of 1999)
+
+FORM 7
+
+ESTATE AGENTS ORDINANCE
+
+(Chapter 511)
+
+(Section 34) SUMMONS TO WITNESS
+
+In the matter of an inquiry under section 29 of the Ordinance
+
+And in the matter of (1)
+
+To(2)
+
+You are hereby summoned to appear before the Estate Agents Authority at
+
+on the . day of . at . o’clock in the
+
+noon to give evidence touching the matter under inquiry and also to bring with you and produce(3)*
+
+Given under my hand this . day of
+
+Chairman,
+
+Estate Agents Authority/
+
+Disciplinary Committee*
+
+Note: | (1) | Name of the licensed estate agent or salesperson.
+
+(2) | Name and address of the witness.
+
+(3) | Specify the books, documents or other things to be produced.
+
+* | Delete if inappropriate.
+
+FORM 8
+
+ESTATE AGENTS ORDINANCE
+
+(Chapter 511)
+
+(Section 40(1)) NOTICE OF CESSATION OF ENGAGEMENT IN
+
+ESTATE AGENCY WORK BY A LICENSEE
+
+To: | Estate Agents Authority
+
+(address)
+
+I/We* (1)
+
+of (2) | ,
+
+holder of estate agent’s/salesperson’s* licence number:(3)
+
+hereby give you notice that I/we* ceased to be engaged in estate agency work on(4) . (D/M/Y)
+
+Date | Signed by/on behalf of*
+
+the licensee
+
+Note: | (1) | Name of the licensee.
+
+(2) | Registered address of the licensee.
+
+(3) | Licence number of the estate agent or salesperson.
+
+(4) | Date of the cessation.
+
+* | Delete if inappropriate.
+
+Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of the cessation.
+
+FORM 9
+
+ESTATE AGENTS ORDINANCE
+
+(Chapter 511)
+
+(Section 40(2)) NOTICE OF EMPLOYMENT/CESSATION OF EMPLOYMENT* OF A
+
+PERSON AS A SALESPERSON OF A LICENSED ESTATE AGENT
+
+To: | Estate Agents Authority
+
+(address)
+
+I/We* (1)
+
+of (2) | ,
+
+holder of estate agent’s licence number: (3)
+
+hereby give you notice that (4) | ,
+
+holder of estate agent’s/salesperson’s* licence number: (5)
+
+was employed/ceased to be employed* by me/us* as a salesperson on (6) . (D/M/Y)
+
+Date | Signed by/on behalf of*
+
+the licensed estate agent
+
+Note: | (1) | Name of the licensed estate agent.
+
+(2) | Registered address of the licensed estate agent.
+
+(3) | Licence number of the licensed estate agent.
+
+(4) | Name of the salesperson.
+
+(5) | Licence number of the salesperson.
+
+(6) | Date of the employment/cessation of employment.
+
+* | Delete if inappropriate.
+
+Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of the employment or cessation of employment, as the case may be.
+
+FORM 10
+
+ESTATE AGENTS ORDINANCE
+
+(Chapter 511)
+
+(Section 40(3)) NOTICE OF APPOINTMENT/TERMINATION OF APPOINTMENT* OF A PERSON AS A MANAGER OF A LICENSED ESTATE AGENT
+
+To: | Estate Agents Authority
+
+(address)
+
+I/We* (1)
+
+of (2) | ,
+
+holder of estate agent’s licence number: (3)
+
+hereby give you notice that I/we* appointed/terminated the appointment* of (4)
+
+,
+
+holder of estate agent’s licence number: (5)
+
+as a manager with me/us* at(6)
+
+on(7) .(D/M/Y)
+
+Date | Signed by/on behalf of*
+
+the licensed estate agent
+
+Note: | (1) | Name of the licensed estate agent.
+
+(2) | Registered address of the licensed estate agent.
+
+(3) | Licence number of the licensed estate agent.
+
+(4) | Name of the manager.
+
+(5) | Licence number of the manager.
+
+(6) | The place of business where the manager is in effective control of the estate agency business.
+
+(7) | Date of the appointment/termination of appointment.
+
+* | Delete if inappropriate.
+
+Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of the appointment or termination of appointment, as the case may be.
+
+FORM 11
+
+ESTATE AGENTS ORDINANCE
+
+(Chapter 511)
+
+(Section 40(4)) NOTICE OF APPOINTMENT/CESSATION OF APPOINTMENT* OF A PERSON AS A DIRECTOR OF A LICENSED ESTATE AGENT
+
+To: | Estate Agents Authority
+
+(address)
+
+I/We* (1)
+
+of (2) | ,
+
+holder of estate agent’s licence number: (3)
+
+hereby give you notice that(4) | ,
+
+holder of estate agent’s/salesperson’s* licence number: (5)
+
+was appointed/ceased to be appointed* as a director of my/our* company on(6) . (D/M/Y)
+
+Date | Signed by/on behalf of*
+
+the licensed estate agent
+
+Note: | (1) | Name of the licensed estate agent.
+
+(2) | Registered address of the licensed estate agent.
+
+(3) | Licence number of the licensed estate agent.
+
+(4) | Name of the director.
+
+(5) | Licence number of the director if applicable.
+
+If not, please state “N/A” which means not applicable.
+
+(6) | Date of the appointment/cessation of appointment.
+
+* | Delete if inappropriate.
+
+Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of the appointment or cessation of appointment, as the case may be.
+
+FORM 12
+
+ESTATE AGENTS ORDINANCE
+
+(Chapter 511)
+
+(Section 40(5)) NOTICE OF BECOMING/CEASING TO BE* A MEMBER
+
+OF A PARTNERSHIP IN ESTATE AGENCY BUSINESS
+
+To: | Estate Agents Authority
+
+(address)
+
+I (1)
+
+of (2) | ,
+
+holder of estate agent’s licence number: (3)
+
+hereby give you notice that I became/ceased to be* a member of (4)
+
+.on (5) . (D/M/Y) which does or will do estate agency work.
+
+Date | Signed by/on behalf of*
+
+the licensed estate agent
+
+Note: | (1) | Name of the licensed estate agent.
+
+(2) | Registered address of the licensed estate agent.
+
+(3) | Licence number of the licensed estate agent.
+
+(4) | Business name of the partnership.
+
+(5) | Date of becoming a partner/ceasing to be a partner.
+
+* | Delete if inappropriate.
+
+Please file this Notice with the Estate Agents Authority before the expiration of the period of 31 days beginning on the date of becoming or ceasing to become a member of a partnership in estate agency business, as the case may be.
