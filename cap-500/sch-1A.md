@@ -144,9 +144,9 @@ INTERNATIONAL CARRIAGE BY AIR Chapter I General Provisions Article 1-Scope of Ap
 
 - Injury of Passengers
 
-- (1) For damages arising under paragraph (1) of Article 17 not exceeding 100 000 Special Drawing Rights for each passenger, the carrier shall not be able to exclude or limit its liability.
+- (1) For damages arising under paragraph (1) of Article 17 not exceeding 100 000*1 Special Drawing Rights for each passenger, the carrier shall not be able to exclude or limit its liability.
 
-- (2) The carrier shall not be liable for damages arising under paragraph (1) of Article 17 to the extent that they exceed for each passenger 100 000 Special Drawing Rights if the carrier proves that:
+- (2) The carrier shall not be liable for damages arising under paragraph (1) of Article 17 to the extent that they exceed for each passenger 100 000*1 Special Drawing Rights if the carrier proves that:
 
   - (a) such damage was not due to the negligence or other wrongful act or omission of the carrier or its servants or agents; or
 
@@ -154,11 +154,11 @@ INTERNATIONAL CARRIAGE BY AIR Chapter I General Provisions Article 1-Scope of Ap
 
   - Baggage and Cargo
 
-- (1) In the case of damage caused by delay as specified in Article 19 in the carriage of persons, the liability of the carrier for each passenger is limited to 4 150 Special Drawing Rights.
+- (1) In the case of damage caused by delay as specified in Article 19 in the carriage of persons, the liability of the carrier for each passenger is limited to 4 150*2 Special Drawing Rights.
 
-- (2) In the carriage of baggage, the liability of the carrier in the case of destruction, loss, damage or delay is limited to 1 000 Special Drawing Rights for each passenger unless the passenger has made, at the time when the checked baggage was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the passenger’s actual interest in delivery at destination.
+- (2) In the carriage of baggage, the liability of the carrier in the case of destruction, loss, damage or delay is limited to 1 000*3 Special Drawing Rights for each passenger unless the passenger has made, at the time when the checked baggage was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the passenger’s actual interest in delivery at destination.
 
-- (3) In the carriage of cargo, the liability of the carrier in the case of destruction, loss, damage or delay is limited to a sum of 17 Special Drawing Rights per kilogramme, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the consignor’s actual interest in delivery at destination.
+- (3) In the carriage of cargo, the liability of the carrier in the case of destruction, loss, damage or delay is limited to a sum of 17*4 Special Drawing Rights per kilogramme, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the consignor’s actual interest in delivery at destination.
 
 - (4) In the case of destruction, loss, damage or delay of part of the cargo, or of any object contained therein, the weight to be taken into consideration in determining the amount to which the carrier’s liability is limited shall be only the total weight of the package or packages concerned. Nevertheless, when the destruction, loss, damage or delay of a part of the cargo, or of an object contained therein, affects the value of other packages covered by the same air waybill, or the same receipt or, if they were not issued, by the same record preserved by the other means referred to in paragraph (2) of Article 4, the total weight of such package or packages shall also be taken into consideration in determining the limit of liability.
 
@@ -299,3 +299,13 @@ INTERNATIONAL CARRIAGE BY AIR Chapter I General Provisions Article 1-Scope of Ap
 - [The Preamble, Articles 50, 53, 54 and 55 and the concluding words of the Convention are not reproduced. They deal with matters concerning insurance, signature, ratification and entry into force, denunciation and the relationship between the Montreal Convention and other conventions relating to international carriage by air respectively.]
 
 (Schedule 1A added 22 of 2005 s. 22)
+
+Editorial Note:
+
+*1 | Amended from 100 000 to 113 100 with effect from 30 December 2009—see L.N. 251 of 2009.
+
+*2 | Amended from 4 150 to to 4 694 with effect from 30 December 2009—see L.N. 251 of 2009.
+
+*3 | Amended from 1 000 to to 1 131 with effect from 30 December 2009—see L.N. 251 of 2009.
+
+*4 | Amended from 17 to 19 with effect from 30 December 2009—see L.N. 251 of 2009.

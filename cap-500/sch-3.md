@@ -128,9 +128,9 @@ of Passengers, Baggage and Cargo Article 3-Passengers and Baggage
 
 - (4) The period of the carriage by air does not extend to any carriage by land, by sea or by inland waterway performed outside an airport. If, however, such carriage takes place in the performance of a contract for carriage by air, for the purpose of loading, delivery or transhipment, any damage is presumed, subject to proof to the contrary, to have been the result of an event which took place during the carriage by air. If a carrier, without the consent of the consignor, substitutes carriage by another mode of transport for the whole or part of a carriage intended by the agreement between the parties to be carriage by air, such carriage by another mode of transport is deemed to be within the period of carriage by air. Article 19-Delay The carrier is liable for damage occasioned by delay in the carriage by air of passengers, baggage or cargo. Nevertheless, the carrier shall not be liable for damage occasioned by delay if it proves that it and its servants and agents took all measures that could reasonably be required to avoid the damage or that it was impossible for it or them to take such measures. Article 20-Exoneration If the carrier proves that the damage was caused or contributed to by the negligence or other wrongful act or omission of the person claiming compensation, or the person from whom he or she derives his or her rights, the carrier shall be wholly or partly exonerated from its liability to the claimant to the extent that such negligence or wrongful act or omission caused or contributed to the damage. When by reason of death or injury of a passenger compensation is claimed by a person other than the passenger, the carrier shall likewise be wholly or partly exonerated from its liability to the extent that it proves that the damage was caused or contributed to by the negligence or other wrongful act or omission of that passenger. This Article applies to all the liability provisions in this Schedule, including paragraph (1) of Article 21. Article 21-Compensation in Case of Death or Injury of Passengers
 
-- (1) For damages arising under paragraph (1) of Article 17 not exceeding 100 000 Special Drawing Rights for each passenger, the carrier shall not be able to exclude or limit its liability.
+- (1) For damages arising under paragraph (1) of Article 17 not exceeding 100 000*1 Special Drawing Rights for each passenger, the carrier shall not be able to exclude or limit its liability.
 
-- (2) The carrier shall not be liable for damages arising under paragraph (1) of Article 17 to the extent that they exceed for each passenger 100 000 Special Drawing Rights if the carrier proves that:
+- (2) The carrier shall not be liable for damages arising under paragraph (1) of Article 17 to the extent that they exceed for each passenger 100 000*1 Special Drawing Rights if the carrier proves that:
 
   - (a) such damage was not due to the negligence or other wrongful act or omission of the carrier or its servants or agents; or
 
@@ -138,11 +138,11 @@ of Passengers, Baggage and Cargo Article 3-Passengers and Baggage
 
   - Baggage and Cargo
 
-- (1) In the case of damage caused by delay as specified in Article 19 in the carriage of persons, the liability of the carrier for each passenger is limited to 4 150 Special Drawing Rights.
+- (1) In the case of damage caused by delay as specified in Article 19 in the carriage of persons, the liability of the carrier for each passenger is limited to 4 150*2 Special Drawing Rights.
 
-- (2) In the carriage of baggage, the liability of the carrier in the case of destruction, loss, damage or delay is limited to 1 000 Special Drawing Rights for each passenger unless the passenger has made, at the time when the checked baggage was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the passenger’s actual interest in delivery at destination.
+- (2) In the carriage of baggage, the liability of the carrier in the case of destruction, loss, damage or delay is limited to 1 000*3 Special Drawing Rights for each passenger unless the passenger has made, at the time when the checked baggage was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the passenger’s actual interest in delivery at destination.
 
-- (3) In the carriage of cargo, the liability of the carrier in the case of destruction, loss, damage or delay is limited to a sum of 17 Special Drawing Rights per kilogramme, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the consignor’s actual interest in delivery at destination.
+- (3) In the carriage of cargo, the liability of the carrier in the case of destruction, loss, damage or delay is limited to a sum of 17*4 Special Drawing Rights per kilogramme, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless it proves that the sum is greater than the consignor’s actual interest in delivery at destination.
 
 - (4) In the case of destruction, loss, damage or delay of part of the cargo, or of any object contained therein, the weight to be taken into consideration in determining the amount to which the carrier’s liability is limited shall be only the total weight of the package or packages concerned. Nevertheless, when the destruction, loss, damage or delay of a part of the cargo, or of an object contained therein, affects the value of other packages covered by the same air waybill, or the same receipt or, if they were not issued, by the same record preserved by the other means referred to in paragraph (2) of Article 4, the total weight of such package or packages shall also be taken into consideration in determining the limit of liability.
 
@@ -227,3 +227,13 @@ of Passengers, Baggage and Cargo Article 3-Passengers and Baggage
   - The expression “days” when used in this Schedule means calendar days, not working days. Article 52A-Postmaster General of Hong Kong Nothing herein contained shall impose any liability on the Postmaster General of Hong Kong.
 
 (Schedule 3 replaced 22 of 2005 s. 24)
+
+Editorial Note:
+
+*1 | Amended from 100 000 to 113 100 with effect from 30 December 2009—see L.N. 251 of 2009.
+
+*2 | Amended from 4 150 to to 4 694 with effect from 30 December 2009—see L.N. 251 of 2009.
+
+*3 | Amended from 1 000 to to 1 131 with effect from 30 December 2009—see L.N. 251 of 2009.
+
+*4 | Amended from 17 to 19 with effect from 30 December 2009—see L.N. 251 of 2009.
