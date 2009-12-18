@@ -1,6 +1,4 @@
-# SECOND SCHEDULE
-
-HONG KONG
+# SECOND SCHEDULE HONG KONG
 
 (1) Name of Street | (2) Extent
 
@@ -95,6 +93,12 @@ King’s Road | Pavement against the railing in front of House No. 89 and House 
 Chiu Lung Street (East side) | At portion facing Queen’s Road Central (L.N. 128 of 1999) | 9
 
 Findlay Road | Kerbside near the Tai Ping Shan Lions View Point Pavilion (L.N. 287 of 1999) | 6
+
+Lambeth Walk | Portion of the foot-bridge in front of the east entrance of the Murray Road Multi-storey Carpark Building (L.N. 256 of 2009) | 1
+
+Unnamed lane connecting Pedder Street and Theatre Lane | Portion of the southern side of the road space of the unnamed lane (L.N. 256 of 2009) | 3
+
+Theatre Lane | Road space in front of House Nos. 1–7, Theatre Lane (L.N. 256 of 2009) | 4
 
 KOWLOON
 
