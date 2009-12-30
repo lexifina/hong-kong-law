@@ -1,0 +1,5 @@
+BUILDING (MINOR WORKS) (FEES) REGULATION
+
+(Cap. 123, section 38(1A))
+
+[30 December 2009] L.N. 249 of 2009
