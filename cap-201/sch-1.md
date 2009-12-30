@@ -230,6 +230,8 @@ PUBLIC BODIES
 
   - 112. Wave Media Limited. (Added L.N. 245 of 2008)
 
+  - 113. Minor Works Contractors Registration Committee. (Added L.N. 179 of 2009)
+
 - (Replaced L.N. 272 of 1974)
 
 Editorial Note:
