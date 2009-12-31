@@ -4,7 +4,7 @@
 
 Item | Periods | Rate of interest
 
-1. | On or after 11 April 1980 and before 30 May 1980 (L.N. 89 of 1980) | 10 1/2%
+1. | On or after 11 April 1980 and before 30 May 1980 (L.N. 89 of 1980) | 10 1 2 %
 
 2. | On or after 30 May 1980 and before 27 June 1980 (L.N. 128 of 1980) | 9%
 
@@ -332,7 +332,9 @@ Item | Periods | Rate of interest
 
 164. | On or after 7 April 2008 and before 1 December 2008 (L.N. 72 of 2008; L.N. 250 of 2008) | 0.4667% per annum
 
-165. 166. | On or after 1 December 2008 and before 5 January 2009 (L.N. 250 of 2008; L.N.2 of 2009) On or after 5 January 2009 and before 2 February 2009 (L.N. 2 of 2009; L.N. 19 of 2009) | 0.45% per annum 0.3667% per annum
+165. | On or after 1 December 2008 and before 5 January 2009 (L.N. 250 of 2008; L.N. 2 of 2009) | 0.45% per annum
+
+166. | On or after 5 January 2009 and before 2 February 2009 (L.N. 2 of 2009; L.N. 19 of 2009) | 0.3667% per annum
 
 167. | On or after 2 February 2009 and before 1 June 2009 (L.N. 19 of 2009; L.N. 115 of 2009) | 0.2667% per annum
 
@@ -340,4 +342,6 @@ Item | Periods | Rate of interest
 
 169. | On or after 3 August 2009 and before 7 December 2009 (L.N. 172 of 2009; L.N. 241 of 2009) | 0.0833% per annum
 
-170. | On or after 7 December 2009 (L.N. 241 of 2009) | 0.0667% per annum
+170. | On or after 7 December 2009 and before 4 January 2010 (L.N. 241 of 2009; L.N. 264 of 2009) | 0.0667% per annum
+
+171. | On or after 4 January 2010 (L.N. 264 of 2009) | 0.0433% per annum
