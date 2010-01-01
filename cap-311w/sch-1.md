@@ -1,8 +1,10 @@
 # SCHEDULE 1
 
-[ss. 2, 3, 4, 5, 6, 7, 8 & 9]
+[ss. 2, 3, 4, 5, 8 & 9]
 
-REGULATED PAINTS
+REGULATED ARCHITECTURAL PAINTS
+
+(L.N. 107 of 2009)
 
 - PART 1 DEFINITIONS In this Schedule, unless the context otherwise requires—
 
@@ -244,13 +246,9 @@ REGULATED PAINTS
 
   - “zinc-rich industrial maintenance primers” (富鋅工業保養底漆) means primers that are formulated to contain a minimum of 65% metallic zinc powder (zinc dust) by weight of total solids for application to metal substrates.
 
-- PART 2 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND
+- PART 2 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND CONTENT FOR REGULATED ARCHITECTURAL PAINTS TO WHICH SECTION 3(1) OF THIS REGULATION APPLIES (L.N. 107 of 2009) The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compounds per litre of coating and as determined under section 1 of Part 5, are specified for the following regulated architectural paints when in a ready to use condition— (L.N. 107 of 2009)
 
-- CONTENT FOR REGULATED PAINTS TO WHICH
-
-- SECTION 3(1) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compounds per litre of coating and as determined under section 1 of Part 5, are specified for the following regulated paints when in a ready to use condition—
-
-- Item | Regulated paints | Maximum limits of volatile organic compound content
+- Item | Regulated architectural paints | Maximum limits of volatile organic compound content
 
 - 1. | Aluminium roof coatings | 250
 
@@ -302,13 +300,9 @@ REGULATED PAINTS
 
 - 25. | Wood preservatives (other) | 350
 
-- PART 3 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND
+- PART 3 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND CONTENT FOR REGULATED ARCHITECTURAL PAINTS TO WHICH SECTION 3(2) OF THIS REGULATION APPLIES (L.N. 107 of 2009) The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compounds per litre of coating and as determined under section 1 of Part 5, are specified for the following regulated architectural paints when in a ready to use condition— (L.N. 107 of 2009)
 
-- CONTENT FOR REGULATED PAINTS TO WHICH
-
-- SECTION 3(2) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compounds per litre of coating and as determined under section 1 of Part 5, are specified for the following regulated paints when in a ready to use condition—
-
-- Item | Regulated paints | Maximum limits of volatile organic compound content
+- Item | Regulated architectural paints | Maximum limits of volatile organic compound content
 
 - 1. | Fire-retardant coatings (clear) | 650
 
@@ -324,15 +318,11 @@ REGULATED PAINTS
 
 - 7. | Roof primers (bituminous) | 350
 
-- PART 4 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND
+- PART 4 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND CONTENT FOR REGULATED ARCHITECTURAL PAINTS TO WHICH SECTION 3(3) OF THIS REGULATION APPLIES (L.N. 107 of 2009)
 
-- CONTENT FOR REGULATED PAINTS TO WHICH
+  - 1. The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compounds per litre of coating and as determined under section 1 of Part 5, are specified for the following regulated architectural paints when in a ready to use condition— (L.N. 107 of 2009)
 
-- SECTION 3(3) OF THIS REGULATION APPLIES
-
-  - 1. The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compounds per litre of coating and as determined under section 1 of Part 5, are specified for the following regulated paints when in a ready to use condition—
-
-  - Item | Regulated paints | Maximum limits of volatile organic compound content
+  - Item | Regulated architectural paints | Maximum limits of volatile organic compound content
 
   - 1. | Clear wood finishes (lacquers) | 550
 
@@ -370,26 +360,52 @@ REGULATED PAINTS
 
   - 18. | Zinc-rich industrial maintenance primers | 250
 
-  - 2. The following maximum limit of volatile organic compound content, expressed as grams of volatile organic compounds per litre of material and as determined under section 2 of Part 5 is specified for the following regulated paint when in a ready to use condition—
+  - 2. The following maximum limit of volatile organic compound content, expressed as grams of volatile organic compounds per litre of material and as determined under section 2 of Part 5 is specified for the following regulated architectural paint when in a ready to use condition— (L.N. 107 of 2009)
 
-  - Item | Regulated paint | Maximum limit of volatile organic compound content
+  - Item | Regulated architectural paint | Maximum limit of volatile organic compound content
 
   - 1. | Low-solids coatings | 120
 
-- PART 5 METHOD OF CALCULATING THE VOLATILE
+- PART 5 METHOD OF CALCULATING THE VOLATILE ORGANIC COMPOUND CONTENT OF REGULATED ARCHITECTURAL PAINTS (L.N. 107 of 2009)
 
-- ORGANIC COMPOUND CONTENT OF
+  - 1. With the exception of low-solids coatings, the volatile organic compound content of regulated architectural paints in a ready to use condition shall be calculated by the following formula— (L.N. 107 of 2009)
 
-- REGULATED PAINTS
+  - Wa − Wb − Wc − Wd
 
-  - 1. With the exception of low-solids coatings, the volatile organic compound content of regulated paints in a ready to use condition shall be calculated by the following formula— Wa － Wb － Wc － Wd
+  - Ve − Vf − Vg
 
-  - —
+  - where—
 
-  - Ve － Vf － Vg where— Wa represents the weight of volatile compounds in grams as determined by Method 24; Wb represents the weight of water in grams as determined by Method 24; Wc represents the weight of exempt compounds in grams as determined by Method 303; Wd represents the weight of volatile organic compounds in grams of any colourant added to tint base per litre of material, as provided by the paint manufacturer or importer; Ve represents the volume of material in litres as determined by Method 24; Vf represents the volume of water in litres as determined by Method 24; Vg represents the volume of exempt compounds in litres as determined by Method 303.
+  - Wa | represents the weight of volatile matters in grams as determined by Method 24;
 
-  - 2. For low-solids coatings in a ready to use condition, the volatile organic compound content shall be calculated by the following formula— Wa － Wb － Wc － Wd
+  - Wb | represents the weight of water in grams as determined by Method 24;
 
-  - —
+  - Wc | represents the weight of exempt compounds in grams as determined by Method 303;
 
-  - Ve where— Wa represents the weight of volatile compounds in grams as determined by Method 24; Wb represents the weight of water in grams as determined by Method 24; Wc represents the weight of exempt compounds in grams as determined by Method 303; Wd represents the weight of volatile organic compounds in grams of any colourant added to tint base per litre of material, as provided by the paint manufacturer or importer; Ve represents the volume of the material in litres as determined by Method 24.
+  - Wd | represents the weight of volatile organic compounds in grams of any colourant added to tint base per litre of material, as provided by the paint manufacturer or importer;
+
+  - Ve | represents the volume of material in litres as determined by Method 24;
+
+  - Vf | represents the volume of water in litres as determined by Method 24;
+
+  - Vg | represents the volume of exempt compounds in litres as determined by Method 303.
+
+  - 2. For low-solids coatings in a ready to use condition, the volatile organic compound content shall be calculated by the following formula—
+
+  - Wa − Wb − Wc − Wd
+
+  - Ve
+
+  - where—
+
+  - Wa | represents the weight of volatile matters in grams as determined by Method 24;
+
+  - Wb | represents the weight of water in grams as determined by Method 24;
+
+  - Wc | represents the weight of exempt compounds in grams as determined by Method 303;
+
+  - Wd | represents the weight of volatile organic compounds in grams of any colourant added to tint base per litre of material, as provided by the paint manufacturer or importer;
+
+  - Ve | represents the volume of material in litres as determined by Method 24.
+
+  - (L.N. 107 of 2009)

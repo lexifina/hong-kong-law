@@ -1,6 +1,6 @@
 # SCHEDULE 3
 
-[ss. 2, 13, 14 & 15]
+[ss. 2, 13, 14, 15 & 16L & Sch. 7] (L.N. 107 of 2009)
 
 REGULATED CONSUMER PRODUCTS
 
@@ -152,17 +152,15 @@ REGULATED CONSUMER PRODUCTS
 
   - “solid” (固體) means a substance or mixture of substances that, either in whole or subdivided such as the particles comprising a powder, is not capable of visually detectable flow;
 
-  - “styling” (造型) means the forming, sculpting or manipulating the hair to temporarily alter the shape of the hair; “toilet bowl, toilet tank or urinal” (馬桶、水箱或尿廁) means a toilet or urinal connected to permanent plumbing in a building and other structures, portable toilet or urinal placed at temporary or remote locations, and toilet or urinal in a vehicle, boat, ship and aircraft;
+  - “styling” (造型) means the forming, sculpting or manipulating the hair to temporarily alter the shape of the hair;
 
   - “toilet or urinal care product” (廁所或尿廁護理產品) means any product that is designed or labelled to clean or to deodorize toilet bowl, toilet tank or urinal;
 
   - “wax” (蠟) means a material or synthetic thermoplastic substance generally of high molecular weight hydrocarbons or high molecular weight esters of fatty acids or alcohols, except glycerol and high polymers (plastics).
 
-- PART 2 MAXIMUM LIMIT OF VOLATILE ORGANIC COMPOUND
+- (L.N. 107 of 2009)
 
-- CONTENT FOR REGULATED CONSUMER PRODUCT TO
-
-- WHICH SECTION 13(1) OF THIS REGULATION APPLIES
+- PART 2 MAXIMUM LIMIT OF VOLATILE ORGANIC COMPOUND CONTENT FOR REGULATED CONSUMER PRODUCT TO WHICH SECTION 13(1) OF THIS REGULATION APPLIES
 
   - 1. The following maximum limit of volatile organic compound content, expressed as percent by weight, is specified for the following regulated consumer product—
 
@@ -288,11 +286,7 @@ REGULATED CONSUMER PRODUCTS
 
         - (liii) trifluoromethane (HFC-23).
 
-- PART 3 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND
-
-- CONTENT FOR REGULATED CONSUMER PRODUCTS TO
-
-- WHICH SECTION 13(2) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as percent by weight, are specified for the following regulated consumer products—
+- PART 3 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND CONTENT FOR REGULATED CONSUMER PRODUCTS TO WHICH SECTION 13(2) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as percent by weight, are specified for the following regulated consumer products—
 
 - Item | Regulated consumer products | Maximum limits of volatile organic compound content
 
@@ -320,11 +314,7 @@ REGULATED CONSUMER PRODUCTS
 
 - (c) Insecticide fogger | 45
 
-- PART 4 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND
-
-- CONTENT FOR REGULATED CONSUMER PRODUCTS TO
-
-- WHICH SECTION 13(3) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as percent by weight, are specified for the following regulated consumer products—
+- PART 4 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND CONTENT FOR REGULATED CONSUMER PRODUCTS TO WHICH SECTION 13(3) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as percent by weight, are specified for the following regulated consumer products—
 
 - Item | Regulated consumer products | Maximum limits of volatile organic compound content
 
@@ -424,9 +414,7 @@ REGULATED CONSUMER PRODUCTS
 
       - (xxx) trifluoromethane (HFC-23).
 
-- PART 7 METHOD OF CALCULATING THE VOLATILE ORGANIC COMPOUND
-
-- CONTENT OF REGULATED CONSUMER PRODUCTS
+- PART 7 METHOD OF CALCULATING THE VOLATILE ORGANIC COMPOUND CONTENT OF REGULATED CONSUMER PRODUCTS
 
   - 1. The volatile organic compound content of regulated consumer products listed in Parts 2, 3 and 4 shall be determined by Appendices A and B of Method 310 and using the equations set out in sections 2, 3 and 4 of this Part as may be applicable.
 
@@ -434,29 +422,73 @@ REGULATED CONSUMER PRODUCTS
 
     - (a) an aerosol product that does not contain LVP-VOC, the volatile organic compound content shall be calculated using the following equation—
 
-    - Percent by weight of volatile organic compounds | WL (TV － A － H － EL) ＋ WP － EP = — × 100 WL ＋ WP
+  - Percent by weight of volatile organic compounds | = | WL (TV － A － H － EL) ＋ WP － EP | × 100
 
-    - where— WL represents the weight of the non-propellant portion in grams, excluding packaging and container; TV represents the weight fraction of total volatile material in the non-propellant portion, as determined by Method 24 or Method 24A, ASTM D2369; A represents the weight fraction of ammonium in the non-propellant portion, as determined by ASTM D1426 or Method 300.7; H represents the weight fraction of water in the non-propellant portion, as determined by ASTM D3792 or ASTM D4017; EL represents the weight fraction of exempt compounds in the non-propellant portion, as determined by Method 8260B, Method 18, ASTM D859, Method 1400; WP represents the weight of propellant in grams, as determined by ASTM D3074 as modified in Appendix A of Method 310 for metal aerosol container or ASTM D3063 as modified in Appendix A of Method 310 for glass aerosol container; EP represents the weight of exempt compounds in propellant in grams, as determined by Method 18;
+  - WL ＋ WP
+
+  - where—
+
+  - WL | represents the weight of the non-propellant portion in grams, excluding packaging and container;
+
+  - TV | represents the weight fraction of total volatile material in the non-propellant portion, as determined by Method 24 or Method 24A, ASTM D2369;
+
+  - A | represents the weight fraction of ammonium in the non-propellant portion, as determined by ASTM D1426 or Method 300.7;
+
+  - H | represents the weight fraction of water in the non-propellant portion, as determined by ASTM D3792 or ASTM D4017;
+
+  - EL | represents the weight fraction of exempt compounds in the non-propellant portion, as determined by Method 8260B, Method 18, ASTM D859, Method 1400;
+
+  - WP | represents the weight of propellant in grams, as determined by ASTM D3074 as modified in Appendix A of Method 310 for metal aerosol container or ASTM D3063 as modified in Appendix A of Method 310 for glass aerosol container;
+
+  - EP | represents the weight of exempt compounds in propellant in grams, as determined by Method 18;
 
     - (b) an aerosol product that contains LVP-VOC, the volatile organic compound content shall be calculated using the following equation—
 
-    - Percent by weight of volatile organic compounds | WL [(1 － H)(1 － LVP) － EL] ＋ (WP － EP) = — × 100 WL ＋ WP
+  - Percent by weight of volatile organic compounds | = | WL [(1 － H)(1 － LVP) － EL] ＋ (WP － EP) | × 100
 
-    - where— WL represents the weight of the non-propellant portion in grams, excluding packaging and container; H represents the weight fraction of water in the non-propellant portion, as determined by ASTM D3792 or ASTM D4017; LVP represents the weight fraction of LVP-VOC compounds and/or mixtures in the non-propellant, non-aqueous portion, as determined by ASTM D86, ASTM D850, ASTM D1078, ASTM D2879 as modified in Appendix B of Method 310, ASTM D2887, ASTM E1719, section 4 of this Part; WP represents the weight of propellant in grams, as determined by ASTM D3074 as modified in Appendix A of Method 310 for metal aerosol container or ASTM D3063 as modified in Appendix A of Method 310 for glass aerosol container; EL represents the weight fraction of exempt compounds in the non-propellant portion, as determined by Method 8260B, Method 18, ASTM D859, Method 1400; EP represents the weight of exempt compounds in propellant in grams, as determined by Method 18.
+  - WL ＋ WP
+
+  - where—
+
+  - WL | represents the weight of the non-propellant portion in grams, excluding packaging and container;
+
+  - H | represents the weight fraction of water in the non-propellant portion, as determined by ASTM D3792 or ASTM D4017;
+
+  - LVP | represents the weight fraction of LVP-VOC compounds and/or mixtures in the non-propellant, non-aqueous portion, as determined by ASTM D86, ASTM D850, ASTM D1078, ASTM D2879 as modified in Appendix B of Method 310, ASTM D2887, ASTM E1719, section 4 of this Part;
+
+  - WP | represents the weight of propellant in grams, as determined by ASTM D3074 as modified in Appendix A of Method 310 for metal aerosol container or ASTM D3063 as modified in Appendix A of Method 310 for glass aerosol container;
+
+  - EL | represents the weight fraction of exempt compounds in the non-propellant portion, as determined by Method 8260B, Method 18, ASTM D859, Method 1400;
+
+  - EP | represents the weight of exempt compounds in propellant in grams, as determined by Method 18.
 
   - 3. If the regulated consumer product is—
 
     - (a) a non-aerosol product that does not contain LVP-VOC, the volatile organic compound content shall be calculated using the following equation—
 
-    - Percent by weight of volatile organic compounds | = (TV － A － H － EL) × 100
+  - Percent by weight of volatile organic compounds | = | (TV － A － H － EL) × 100
 
-    - where— TV represents the weight fraction of total volatile material in the non-propellant portion, as determined by Method 24 or Method 24A, ASTM D2369; A represents the weight fraction of ammonium in the non-propellant portion, as determined by ASTM D1426 or Method 300.7; H represents the weight fraction of water in the non-propellant portion, as determined by ASTM D3792 or ASTM D4017; EL represents the weight fraction of exempt compounds in the non-propellant portion, as determined by Method 8260B, Method 18, ASTM D859, Method 1400;
+  - where—
+
+  - TV | represents the weight fraction of total volatile material in the non-propellant portion, as determined by Method 24 or Method 24A, ASTM D2369;
+
+  - A | represents the weight fraction of ammonium in the non-propellant portion, as determined by ASTM D1426 or Method 300.7;
+
+  - H | represents the weight fraction of water in the non-propellant portion, as determined by ASTM D3792 or ASTM D4017;
+
+  - EL | represents the weight fraction of exempt compounds in the non-propellant portion, as determined by Method 8260B, Method 18, ASTM D859, Method 1400;
 
     - (b) a non-aerosol product that contains LVP-VOC, the volatile organic compound content shall be calculated using the following equation—
 
-    - Percent by weight of volatile organic compounds | = [(1 － H) (1 － LVP) － EL] × 100
+  - Percent by weight of volatile organic compounds | = | [(1 － H) (1 － LVP) － EL] × 100
 
-    - where— H represents the weight fraction of water in the non-propellant portion, as determined by ASTM D3792 or ASTM D4017; LVP represents the weight fraction of LVP-VOC compounds and/or mixtures in the non-propellant, non-aqueous portion, as determined by ASTM D86, ASTM D850, ASTM D1078, ASTM D2879 as modified in Appendix B of Method 310, ASTM D2887, ASTM E1719, section 4 of this Part; EL represents the weight fraction of exempt compounds in the non-propellant portion, as determined by Method 8260B, Method 18, ASTM D859, Method 1400.
+  - where—
+
+  - H | represents the weight fraction of water in the non-propellant portion, as determined by ASTM D3792 or ASTM D4017;
+
+  - LVP | represents the weight fraction of LVP-VOC compounds and/or mixtures in the non-propellant, non-aqueous portion, as determined by ASTM D86, ASTM D850, ASTM D1078, ASTM D2879 as modified in Appendix B of Method 310, ASTM D2887, ASTM E1719, section 4 of this Part;
+
+  - EL | represents the weight fraction of exempt compounds in the non-propellant portion, as determined by Method 8260B, Method 18, ASTM D859, Method 1400.
 
   - 4. If the regulated consumer product is an aerosol product or a non-aerosol product containing LVP-VOC under sections 2(b) and 3(b) of this Part, LVP-VOC shall be determined according to the following steps—
 

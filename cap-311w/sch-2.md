@@ -130,15 +130,11 @@ REGULATED PRINTING INKS
 
   - “printing ink” (印刷印墨) means a pigmented fluid or viscous material used in printing;
 
-  - “screen printing ink” (絲網印刷印墨) means an ink used in screen printing, which is a printing process in which the ink is passed through a taut web or fabric to which a refined form of stencil has been applied;
+  - “screen printing ink” (絲網印刷印墨) means an ink represented for application on paper substrate and used in screen printing, which is a printing process in which the ink is passed through a taut web or fabric to which a refined form of stencil has been applied; (L.N. 107 of 2009)
 
   - “volatile organic compound” (揮發性有機化合物) means any volatile compound of carbon excluding methane, carbon monoxide, carbon dioxide, carbonic acid, metallic carbides, metallic carbonates, ammonium carbonate and exempt compounds.
 
-- PART 2 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND
-
-- CONTENT FOR REGULATED PRINTING INKS TO WHICH
-
-- SECTION 10(1) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compound per litre of printing ink and as determined under section 1 of Part 4, are specified for the following regulated printing inks when in a ready to use condition—
+- PART 2 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND CONTENT FOR REGULATED PRINTING INKS TO WHICH SECTION 10(1) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compound per litre of printing ink and as determined under section 1 of Part 4, are specified for the following regulated printing inks when in a ready to use condition—
 
 - Item | Regulated printing inks | Maximum limits of volatile organic compound content
 
@@ -152,11 +148,7 @@ REGULATED PRINTING INKS
 
 - 5. | Lithographic ink (except heatset ink) | 300
 
-- PART 3 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND
-
-- CONTENT FOR REGULATED PRINTING INKS TO WHICH
-
-- SECTION 10(2) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compounds per litre of printing ink and as determined under Part 4, are specified for the following regulated printing inks when in a ready to use condition—
+- PART 3 MAXIMUM LIMITS OF VOLATILE ORGANIC COMPOUND CONTENT FOR REGULATED PRINTING INKS TO WHICH SECTION 10(2) OF THIS REGULATION APPLIES The following maximum limits of volatile organic compound content, expressed as grams of volatile organic compounds per litre of printing ink and as determined under Part 4, are specified for the following regulated printing inks when in a ready to use condition—
 
 - Item | Regulated printing inks | Maximum limits of volatile organic compound content
 
@@ -164,18 +156,46 @@ REGULATED PRINTING INKS
 
 - 2. | Screen printing ink | 400
 
-- PART 4 METHOD OF CALCULATING THE VOLATILE ORGANIC
+- PART 4 METHOD OF CALCULATING THE VOLATILE ORGANIC COMPOUND CONTENT OF REGULATED PRINTING INKS
 
-- COMPOUND CONTENT OF REGULATED PRINTING INKS
+  - 1. With the exception of gravure inks, the volatile organic compound content of all regulated printing inks in a ready to use condition shall be calculated by the following formula—
 
-  - 1. With the exception of gravure inks, the volatile organic compound content of all regulated printing inks in a ready to use condition shall be calculated by the following formula— Wa － Wb － Wc
+  - Wa − Wb − Wc
 
-  - —
+  - Vd − Ve − Vf
 
-  - Vd － Ve － Vf where— Wa represents the weight of volatile compounds in grams as determined by Method 24; Wb represents the weight of water in grams as determined by Method 24; Wc represents the weight of exempt compounds in grams as determined by Method 303; Vd represents the volume of material in litres as determined by Method 24; Ve represents the volume of water in litres as determined by Method 24; Vf represents the volume of exempt compounds in litres as determined by Method 303.
+  - where—
 
-  - 2. The volatile organic compound content of all gravure inks in a ready to use condition shall be calculated by the following formula— Wa － Wb － Wc
+  - Wa | represents the weight of volatile matters in grams as determined by Method 24;
 
-  - —
+  - Wb | represents the weight of water in grams as determined by Method 24;
 
-  - Vd － Ve － Vf where— Wa represents the weight of volatile compounds in grams as determined by Method 24A; Wb represents the weight of water in grams as determined by Method 24A; Wc represents the weight of exempt compounds in grams as determined by Method 303; Vd represents the volume of material in litres as determined by Method 24A; Ve represents the volume of water in litres as determined by Method 24A; Vf represents the volume of exempt compounds in litres as determined by Method 303.
+  - Wc | represents the weight of exempt compounds in grams as determined by Method 303;
+
+  - Vd | represents the volume of material in litres as determined by Method 24;
+
+  - Ve | represents the volume of water in litres as determined by Method 24;
+
+  - Vf | represents the volume of exempt compounds in litres as determined by Method 303.
+
+  - 2. The volatile organic compound content of all gravure inks in a ready to use condition shall be calculated by the following formula—
+
+  - Wa − Wb − Wc
+
+  - Vd − Ve − Vf
+
+  - where—
+
+  - Wa | represents the weight of volatile matters in grams as determined by Method 24A;
+
+  - Wb | represents the weight of water in grams as determined by Method 24A;
+
+  - Wc | represents the weight of exempt compounds in grams as determined by Method 303;
+
+  - Vd | represents the volume of material in litres as determined by Method 24A;
+
+  - Ve | represents the volume of water in litres as determined by Method 24A;
+
+  - Vf | represents the volume of exempt compounds in litres as determined by Method 303.
+
+  - (L.N. 107 of 2009)
