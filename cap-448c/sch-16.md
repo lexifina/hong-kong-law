@@ -30,7 +30,7 @@
 
       - “States concerned” has the same meaning as it has in Chapter 1.1.2 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001)
 
-      - “Technical Instructions” means the 2007–2008 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007)
+      - “Technical Instructions”* means the 2009–2010 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009)
 
       - “unit load device” means any type of freight container including any container designed for loading on an aircraft.
 
@@ -38,7 +38,7 @@
 
   - 3. Carriage of dangerous goods
 
-    - (1) An aircraft shall not carry or have loaded therein or suspended thereunder any dangerous goods, unless such goods are carried, loaded or suspended;
+    - (1) An aircraft shall not carry or have loaded therein or suspended thereunder any dangerous goods, unless such goods are carried, loaded or suspended— (L.N. 193 of 2009)
 
       - (a) with the written permission of the Chief Executive and in accordance with any conditions to which such permission may be subject; and (36 of 1999 s. 3)
 
@@ -54,7 +54,7 @@
 
     - an aircraft any goods which he knows or ought to know or suspect to be dangerous goods, unless the provisions of these Regulations are complied with. (L.N. 214 of 2003)
 
-    - (3) These Regulations shall not apply to dangerous goods carried on an aircraft where the dangerous goods are—
+    - (3) Subject to Regulation 8A of these Regulations, these Regulations shall not apply to dangerous goods carried on an aircraft where the dangerous goods are— (L.N. 193 of 2009)
 
       - (a) articles and equipment which are—
 
@@ -66,7 +66,11 @@
 
       - (b) solely intended for the use of, or for sale to, the passengers, flight crew members or cabin crew members of the aircraft during the flight;
 
-      - (c) subject to paragraphs (3A), (3B), (3C) and (3D), placed on board with the approval of the operator of the aircraft to provide medical aid to a patient during the flight;
+      - (c) subject to paragraphs (3A), (3B), (3C) and (3D), to provide medical aid to a patient during the flight and the dangerous goods— (L.N. 193 of 2009)
+
+        - (i) are placed on board with the approval of the operator of the aircraft; or
+
+        - (ii) form part of the permanent equipment of the aircraft when the aircraft has been adapted for specialized use; (L.N. 193 of 2009)
 
       - (d) subject to paragraphs (3A), (3C) and (3D), to provide veterinary aid or a humane killer for an animal during the flight;
 
@@ -120,9 +124,11 @@
 
         - (ix) all personnel have received training that is commensurate with their responsibilities with regard to the handling of dangerous goods;
 
-        - (x) the operator of the aircraft has provided the prescribed information within the meaning of paragraph (3F) in the operations manual and other appropriate manuals as will enable his flight crew members, other employees and, where applicable, handling agents to carry out their responsibilities with regard to the transport of dangerous goods;
+        - (x) the operator of the aircraft has provided the prescribed information within the meaning of paragraph (3F) in the operations manual and other appropriate manuals as will enable his flight crew members, other employees and, where applicable, handling agents to carry out their responsibilities with regard to the transport of dangerous goods. (L.N. 193 of 2009)
 
-        - (xi) the operator of the aircraft undertakes to report any accident or incident involving dangerous goods carried on board the aircraft to the appropriate authorities of the State of the operator and the State in which such accident or incident occurred in accordance with the reporting requirements of such authorities. (L.N. 195 of 2007)
+        - (xi) (Repealed L.N. 193 of 2009)
+
+  - (L.N. 195 of 2007)
 
     - (3E) Dangerous goods specified in paragraph (3)(g) shall only be carried if all the following conditions are met—
 
@@ -134,17 +140,19 @@
 
       - (d) adequate ventilation rates have been maintained in the aircraft compartment in which the vehicles are carried. (L.N. 195 of 2007)
 
-    - (3F) For the purposes of paragraph (3D)(b)(x), “prescribed information” includes—
+    - (3F)
 
-      - (a) instructions as to the action to be taken in the event of emergencies involving dangerous goods;
+      - For the purposes of paragraph (3D)(b)(x), “prescribed information” includes—
 
-      - (b) details of the location and numbering system of cargo compartments;
+        - (a) instructions as to the action to be taken in the event of emergencies involving dangerous goods;
 
-      - (c) information on the maximum quantity of dry ice permitted in each cargo compartment; and
+        - (b) details of the location and numbering system of cargo compartments;
 
-      - (d) if radioactive material is to be carried, instructions as to the loading of such dangerous goods in accordance with the provisions of Chapter 2.9 of Part 7 of the Technical Instructions. (L.N. 195 of 2007)
+        - (c) information on the maximum quantity of dry ice permitted in each cargo compartment; and
 
-    - (4) Save for Regulations 3(1)(a), 7(1) but only to the extent that it refers to the provisions in Chapter 2.1 of Part 7 of the Technical Instructions and 7(2) and 8(3) of these Regulations, these Regulations shall not apply to dangerous goods of the classifications specified in Chapter 2.4 of Part 1 of the Technical Instructions provided that: (L.N. 234 of 2001)
+        - (d) if radioactive material is to be carried, instructions as to the loading of such dangerous goods in accordance with the provisions of Chapter 2.9 of Part 7 of the Technical Instructions. (L.N. 195 of 2007)
+
+    - (4) Save for Regulations 3(1)(a), 7(1) but only to the extent that it refers to the provisions in Chapter 2.1 of Part 7 of the Technical Instructions and 7(2) and 8(3) of these Regulations, these Regulations shall not apply to dangerous goods of the classifications specified in Chapter 5 of Part 3 of the Technical Instructions provided that: (L.N. 234 of 2001; L.N. 193 of 2009)
 
       - (a) the dangerous goods do not exceed the appropriate quantity limitations specified therein; and
 
@@ -162,13 +170,15 @@
 
   - 6. Operator’s responsibilities
 
+    - (1A) The operator of an aircraft shall not accept for transport aboard the aircraft any package or unit load device containing dangerous goods unless the operator has verified the matters set out in Chapter 1.3.1 of Part 7 of the Technical Instructions by an acceptance check list. (L.N. 193 of 2009)
+
     - (1) The operator of an aircraft in which any package or unit load device containing dangerous goods is to be carried shall satisfy himself by making an inspection:
 
-      - (a) that the package is marked and labelled in accordance with the provisions of these Regulations, such provisions of Part 4 and Chapters 2 and 4 of Part 3 as relate to marking and labelling, and Chapters 1.5, 1.6, 1.7, 2 and 3 of Part 5 of the Technical Instructions before accepting the package; (L.N. 150 of 1997; L.N. 234 of 2001; L.N. 74 of 2006)
+      - (a) (Repealed L.N. 193 of 2009)
 
       - (b) that the package is not leaking or damaged so that the contents may escape—
 
-        - (i) before accepting the package;
+        - (i) (Repealed L.N. 193 of 2009)
 
         - (ii) before loading or causing the package to be loaded on board the aircraft or before suspending or causing the package to be suspended beneath the aircraft, as the case may be;
 
@@ -178,11 +188,9 @@
 
     - (2)
 
-      - (a) For the purpose of each of the inspections required by paragraph (1)(a) and (1)(b)(i) of this Regulation, an acceptance check list shall be used and the results of that inspection shall be recorded in accordance with the form thereof.
+      - (a)-(b) (Repealed L.N. 193 of 2009)
 
-      - (b) The acceptance check list shall be in such form and shall provide for the entry of such details as will enable the relevant inspection to be fully and accurately made by reference to and completion of that list.
-
-      - (c) The operator of an aircraft shall preserve for not less than six months a record of any acceptance check list completed in accordance with this Regulation. The record shall be in a legible or a non-legible form so long as the recording is capable of being reproduced in legible form.
+        - (c) The operator of an aircraft shall preserve for not less than six months a record of any acceptance check list completed under paragraph (1A). The record shall be in a legible or a non-legible form so long as the recording is capable of being reproduced in legible form. (L.N. 193 of 2009)
 
     - (3) The operator shall not load or cause to be loaded on an aircraft or suspend or cause to be suspended beneath an aircraft any package or unit load device containing dangerous goods which on inspection is found to be leaking or damaged so that the contents or the dangerous goods therein may escape or be damaged.
 
@@ -212,7 +220,7 @@
 
     - (1) The operator of an aircraft in which dangerous goods are to be carried shall—
 
-      - (a) as early as practicable before departure of the aircraft, provide the commander of the aircraft with accurate and legible written or printed information in respect of the dangerous goods in accordance with the provisions of Chapters 4.1.1, 4.1.2, 4.1.4, 4.1.7 and 4.1.8 of Part 7 of the Technical Instructions;
+      - (a) as early as practicable before departure of the aircraft, provide the commander of the aircraft with accurate and legible written or printed information in respect of the dangerous goods in accordance with the provisions of Chapters 4.1.1, 4.1.2, 4.1.3, 4.1.5, 4.1.8 and 4.1.9 of Part 7 of the Technical Instructions; (L.N. 193 of 2009)
 
       - (b) ensure that the information is readily available to the commander during the flight; and
 
@@ -228,17 +236,21 @@
 
     - (2) The operator of an aerodrome and the operator of an aircraft in which passengers are to be carried or his handling agent shall ensure that passengers of the aircraft are provided with information, in accordance with paragraph (2A), as to which categories of dangerous goods may not be taken on board the aircraft (whether as checked baggage or baggage accompanying passengers). (L.N. 74 of 2006; L.N. 195 of 2007)
 
-    - (2A) The information shall be provided in notices, sufficient in number and prominence for the purposes of paragraph (2), displayed at—
+    - (2A) The information shall be provided in notices that—
 
-      - (a) each of the places at the airport where—
+      - (a) include visual examples of the dangerous goods; and
 
-        - (i) tickets are issued;
+      - (b) are prominently displayed, in sufficient number, at—
 
-        - (ii) passengers are checked in; or
+        - (i) each of the places at the airport where—
 
-        - (iii) passengers assemble to board the aircraft; and
+          - (A) tickets are issued;
 
-      - (b) any other location where passengers are checked in. (L.N. 195 of 2007)
+          - (B) passengers are checked in; or
+
+          - (C) passengers assemble to board the aircraft; and
+
+        - (ii) any other location where passengers are checked in. (L.N. 193 of 2009)
 
     - (2B) The operator of an aircraft shall ensure that information required to be provided under paragraph (2) shall be—
 
@@ -278,6 +290,16 @@
 
       - (c) ensure that each of their respective employees whose duties include a function specified in subparagraph (a) shall complete the training programmes specified in subparagraph (b). (L.N. 195 of 2007)
 
+  - 8A. Reporting of dangerous goods
+
+  - accidents and incidents
+
+    - (1) The operator of an aircraft registered in Hong Kong or, if the operator’s principal place of business or permanent residence is in Hong Kong, any other aircraft, shall report an accident or incident (wherever occurring) involving dangerous goods carried on board the aircraft to the Director-General of Civil Aviation in accordance with the reporting requirements of the Director-General of Civil Aviation.
+
+    - (2) The operator of an aircraft other than an aircraft referred to in paragraph (1) shall report an accident or incident involving dangerous goods carried on board the aircraft that occurred in Hong Kong to the Director-General of Civil Aviation in accordance with the reporting requirements of the Director-General of Civil Aviation.
+
+  - (L.N. 193 of 2009)
+
   - 9.
 
   - Production of documents and records
@@ -288,8 +310,12 @@
 
     - (b) the dangerous goods transport document or other document in respect of any dangerous goods referred to in Regulation 4 of these Regulations;
 
-    - (c) the completed acceptance check list in a legible form in respect of any dangerous goods, referred to in Regulation 6(2) of these Regulations;
+    - (c) the completed acceptance check list in a legible form in respect of any dangerous goods, referred to in Regulation 6(1A) of these Regulations; (L.N. 193 of 2009)
 
     - (d) a copy of the written or printed information provided to the commander of the aircraft in respect of any dangerous goods, referred to in Regulation 8(1) of these Regulations. (L.N. 214 of 2003)
 
   - 10. (Repealed L.N. 195 of 2007) TABLE OF COMPARISON (Repealed L.N. 77 of 2008)
+
+Editorial Note:
+
+* The English and Chinese texts of the 2011–2012 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
