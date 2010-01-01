@@ -20,4 +20,6 @@ SPECIFIED AGENTS
 
 - 8. International Chamber of Commerce—Hong Kong, China Business Council (Added L.N. 71 of 2000)
 
-- 9. Global e-Trading Services Limited (Added L.N. 223 of 2003) (Added 30 of 1995 s. 17. Amended L.N. 587 of 1997)
+- 9. Global e-Trading Services Limited (Added L.N. 223 of 2003)
+
+- 10. Brio Electronic Commerce Limited (Added L.N. 190 of 2009) (Added 30 of 1995 s. 17. Amended L.N. 587 of 1997)
