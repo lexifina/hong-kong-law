@@ -18,4 +18,6 @@ SPECIFIED ELECTRONIC SERVICES AGENTS
 
 - 7. International Chamber of Commerce-Hong Kong, China (Added L.N. 72 of 2006)
 
-- 8. Global e-Trading Services Limited (Added L.N. 72 of 2006) (Schedule 2 added 24 of 2002 s. 3)
+- 8. Global e-Trading Services Limited (Added L.N. 72 of 2006)
+
+- 9. Brio Electronic Commerce Limited (Added L.N. 191 of 2009) (Schedule 2 added 24 of 2002 s. 3)
