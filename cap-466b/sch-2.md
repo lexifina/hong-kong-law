@@ -51,3 +51,5 @@ RECLAMATION AREAS SPECIFIED FOR THE PURPOSES OF SECTION 4(2)(a)
 - 23. The foreshore and sea-bed situated in an area at East Lamma Channel as delineated and shown edged black on a plan deposited in the Urban Land Registry and numbered MH 4979 (as mentioned in G.N. 2899 of 1993) .
 
 - 24. The foreshore and sea-bed situated in an area to the west of Sulphur Channel as delineated and shown edged black on a plan deposited in the Urban Land Registry and numbered ISM 928 (as mentioned in G.N. 4297 of 1993) .
+
+- 25. The foreshore and sea-bed situated in an area to the east of Sha Chau as delineated and shown edged red on a plan deposited in the Land Registry and numbered TMM2854a (as mentioned in G.N. 3966 of 2008) . (L.N. 203 of 2009)
