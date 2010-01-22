@@ -136,6 +136,8 @@ Item | Ordinance | Decision
 
 66. | Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 592) | A decision of the Secretary for Education— (Amended L.N. 130 of 2007) (a) not to re-appoint an assessment agency under section 8(1); (b) on the length of a term of re-appointment specified under section 8(1)(b); (c) to impose any conditions or restrictions under section 8(1)(c) in re-appointing an assessment agency; and (d) to cancel an appointment or re-appointment under section 8(5). (Added 6 of 2007 s. 51)
 
+68. | Bunker Oil Pollution (Liability and Compensation) Ordinance (Cap. 605) | (a) A decision of the Director of Marine or a person authorized under section 25(1) to refuse to issue an insurance certificate under section 16. (b) A decision of the Director of Marine or a person authorized under section 25(1) to impose any condition under section 16. (c) A decision of the Director of Marine or a person authorized under section 25(1) to cancel an insurance certificate under section 17. (d) A decision of the Director of Marine to refuse to grant an exemption under section 23. (e) A decision of the Director of Marine to impose any condition under section 23. (Added 14 of 2009 s. 40)
+
 Editorial Note:
 
 The following enactments also give a right of appeal to the Administrative Appeals Board —
