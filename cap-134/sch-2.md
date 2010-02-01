@@ -208,7 +208,7 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 102. T.W.G.Hs Women’s Welfare Club Western District, Hong Kong Residential Care Home for the Elderly (Added L.N. 79 of 2004)
 
-- 103. Alice Ho Miu Ling Nethersole Elderly Care Home (Added L.N. 79 of 2004)
+- 103. (Repealed L.N. 239 of 2009)
 
 - 104. Po Leung Kuk Eco-Home for the Senior (Added L.N. 79 of 2004)
 
@@ -228,4 +228,12 @@ PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GO
 
 - 112. Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (Added L.N. 15 of 2009)
 
-- 113. The Hong Kong Anti-Cancer Society Jockey Club Cancer Rehabilitation Centre (Added L.N. 15 of 2009) (Second Schedule replaced L.N. 187 of 1992)
+- 113. The Hong Kong Anti-Cancer Society Jockey Club Cancer Rehabilitation Centre (Added L.N. 15 of 2009)
+
+- 114. Yuen Yuen Nursing Home (Sau Mau Ping Estate) (Added L.N. 239 of 2009)
+
+- 115. Evergreen Nursing Home Cum Day Care Centre (Added L.N. 239 of 2009)
+
+- 116. Po Leung Kuk Kwok Law Kwai Chun Home for the Elderly (Added L.N. 239 of 2009)
+
+- 117. Lion Kidney Educational Centre & Research Foundation Renal Dialysis Centre (Added L.N. 239 of 2009) (Second Schedule replaced L.N. 187 of 1992)
