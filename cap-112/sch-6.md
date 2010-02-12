@@ -28,6 +28,6 @@
 
   - 8. The European Company for the Financing of Railroad Rolling Stock. (Added L.N. 654 of 1994)
 
-  - 9. The Council of Europe Social Development Fund. (Added L.N. 367 of 1995)
+  - 9. The Council of Europe Development Bank (formerly known as The Council of Europe Social Development Fund). (Replaced 4 of 2010 s. 19)
 
   - 10. The African Development Bank. (Added L.N. 309 of 1997) (Added 17 of 1992 s. 3)

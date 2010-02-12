@@ -64,7 +64,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 3. | Section 30 (dependant parent allowance)— (a) subsection (3)(a) (b) subsection (3)(b) (c) subsection (4)(a) | $12,000 $ 3,000 $ 1,200
 
-4. | Section 31 (child allowance)— (a) subsection (1) | (i) $14,000 for the first child (ii) $10,000 for the second child (iii) $3,000 for the third child (iv) $2,000 for the four, fifth and sixth child (v) $1,000 for each subsequent child
+4. | Section 31 (child allowance)— (a) subsection (1) | (i) $14,000 for the first child (ii) $10,000 for the second child (iii) $3,000 for the third child (iv) $2,000 for the fourth, fifth and sixth child (v) $1,000 for each subsequent child
 
 (b) subsection (5) | $36,000
 
@@ -278,7 +278,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the years of assessment 1998/99 to 2002/03 inclusive
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
 
 1. | Section 28 (basic allowance) | $108,000
 
@@ -312,7 +312,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 8. | Section 32(1) (single parent allowance) | $108,000
 
-(Added 31 of 1998 s. 23. Amended 24 of 2003 s. 11)
+(Added 31 of 1998 s. 23. Amended 24 of 2003 s. 11; 4 of 2010 s. 18)
 
 For the year of assessment 2003/04
 
