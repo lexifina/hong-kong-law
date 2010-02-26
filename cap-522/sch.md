@@ -12,6 +12,8 @@ The Democratic People’s Republic of Algeria
 
 The Principality of Andorra
 
+The Republic of Angola
+
 Antigua and Barbuda
 
 Republic of Argentina
@@ -26,7 +28,7 @@ The Republic of Azerbaijan
 
 The Commonwealth of The Bahamas
 
-The State of Bahrain
+The Kingdom of Bahrain
 
 The People’s Republic of Bangladesh
 
@@ -85,6 +87,8 @@ The Republic of Cote d’Ivoire
 The Republic of Croatia
 
 The Republic of Cuba
+
+The Republic of Cyprus
 
 The Czech Republic
 
@@ -200,7 +204,7 @@ Malaysia
 
 The Republic of Mali
 
-The Republic of Malta
+Malta
 
 The Islamic Republic of Mauritania
 
@@ -212,13 +216,15 @@ The Principality of Monaco
 
 Mongolia
 
+Montenegro
+
 The Kingdom of Morocco
 
 The Republic of Mozambique
 
 The Republic of Namibia
 
-The Kingdom of Nepal
+The Federal Democratic Republic of Nepal
 
 The Kingdom of the Netherlands
 
@@ -272,7 +278,7 @@ The Kingdom of Saudi Arabia
 
 The Republic of Senegal
 
-Serbia and Montenegro
+The Republic of Serbia
 
 The Republic of Seychelles
 
@@ -286,7 +292,7 @@ The Republic of Slovenia
 
 The Republic of South Africa
 
-Spain
+The Kingdom of Spain
 
 The Democratic Socialist Republic of Sri Lanka
 
@@ -300,11 +306,11 @@ The Kingdom of Sweden
 
 Swiss Confederation
 
-The Republic of Syprus (Cyprus)
-
 The Syrian Arab Republic
 
 The Republic of Tajikistan
+
+The Kingdom of Thailand
 
 The Republic of Togo
 
@@ -336,9 +342,11 @@ Oriental Republic of Uruguay
 
 The Republic of Uzbekistan
 
-The Bolivar Republic of Venezuela
+The Bolivarian Republic of Venezuela
 
 The Socialist Republic of Viet Nam
+
+The Republic of Yemen
 
 The Republic of Zambia
 
@@ -348,9 +356,9 @@ Countries, territories and areas which have acceded to the World Trade Organizat
 
 (not including countries which have acceded to the Paris Convention)
 
-The Republic of Angola
-
 Negara Brunei Darussalam
+
+The Republic of Cape Verde
 
 European Community
 
@@ -368,6 +376,4 @@ Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
 
 The Solomon Islands
 
-Royal Thai (Thailand)
-
-(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005)
+(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009)
