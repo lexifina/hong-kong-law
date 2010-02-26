@@ -14,6 +14,8 @@ The Democratic People’s Republic of Algeria
 
 The Principality of Andorra
 
+The Republic of Angola
+
 Antigua and Barbuda
 
 Republic of Argentina
@@ -28,7 +30,7 @@ The Republic of Azerbaijan
 
 The Commonwealth of The Bahamas
 
-The State of Bahrain
+The Kingdom of Bahrain
 
 The People’s Republic of Bangladesh
 
@@ -87,6 +89,8 @@ The Republic of Cote d’Ivoire
 The Republic of Croatia
 
 The Republic of Cuba
+
+The Republic of Cyprus
 
 The Czech Republic
 
@@ -202,7 +206,7 @@ Malaysia
 
 The Republic of Mali
 
-The Republic of Malta
+Malta
 
 The Islamic Republic of Mauritania
 
@@ -214,13 +218,15 @@ The Principality of Monaco
 
 Mongolia
 
+Montenegro
+
 The Kingdom of Morocco
 
 The Republic of Mozambique
 
 The Republic of Namibia
 
-The Kingdom of Nepal
+The Federal Democratic Republic of Nepal
 
 The Kingdom of the Netherlands
 
@@ -274,7 +280,7 @@ The Kingdom of Saudi Arabia
 
 The Republic of Senegal
 
-Serbia and Montenegro
+The Republic of Serbia
 
 The Republic of Seychelles
 
@@ -288,7 +294,7 @@ The Republic of Slovenia
 
 The Republic of South Africa
 
-Spain
+The Kingdom of Spain
 
 The Democratic Socialist Republic of Sri Lanka
 
@@ -302,11 +308,11 @@ The Kingdom of Sweden
 
 Swiss Confederation
 
-The Republic of Syprus (Cyprus)
-
 The Syrian Arab Republic
 
 The Republic of Tajikistan
+
+The Kingdom of Thailand
 
 The Republic of Togo
 
@@ -338,9 +344,11 @@ Oriental Republic of Uruguay
 
 The Republic of Uzbekistan
 
-The Bolivar Republic of Venezuela
+The Bolivarian Republic of Venezuela
 
 The Socialist Republic of Viet Nam
+
+The Republic of Yemen
 
 The Republic of Zambia
 
@@ -366,7 +374,7 @@ The Commonwealth of Australia
 
 The Republic of Austria
 
-The State of Bahrain
+The Kingdom of Bahrain
 
 The People’s Republic of Bangladesh
 
@@ -398,6 +406,8 @@ The Republic of Cameroon
 
 Canada
 
+The Republic of Cape Verde
+
 The Central African Republic
 
 The Republic of Chad
@@ -419,6 +429,8 @@ The Republic of Cote d’Ivoire
 The Republic of Croatia
 
 The Republic of Cuba
+
+The Republic of Cyprus
 
 The Czech Republic
 
@@ -524,7 +536,7 @@ The Republic of Maldives
 
 The Republic of Mali
 
-The Republic of Malta
+Malta
 
 The Islamic Republic of Mauritania
 
@@ -542,7 +554,7 @@ The Union of Myanmar
 
 The Republic of Namibia
 
-The Kingdom of Nepal
+The Federal Democratic Republic of Nepal
 
 Netherlands─For the Kingdom in Europe and for the Netherlands Antilles
 
@@ -586,6 +598,8 @@ Saint Lucia
 
 Saint Vincent and the Grenadines
 
+The Kingdom of Saudi Arabia
+
 The Republic of Senegal
 
 Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
@@ -602,7 +616,7 @@ The Solomon Islands
 
 The Republic of South Africa
 
-Spain
+The Kingdom of Spain
 
 The Democratic Socialist Republic of Sri Lanka
 
@@ -614,11 +628,11 @@ The Kingdom of Sweden
 
 Swiss Confederation
 
-The Republic of Syprus (Cyprus)
-
-Royal Thai (Thailand)
+The Kingdom of Thailand
 
 The Republic of Togo
+
+The Kingdom of Tonga
 
 The Republic of Trinidad and Tobago
 
@@ -627,6 +641,8 @@ The Republic of Tunisia
 The Republic of Turkey
 
 The Republic of Uganda
+
+Ukraine
 
 The United Arab Emirates
 
@@ -640,10 +656,12 @@ The United States of Mexico
 
 Oriental Republic of Uruguay
 
-The Bolivar Republic of Venezuela
+The Bolivarian Republic of Venezuela
+
+The Socialist Republic of Viet Nam
 
 The Republic of Zambia
 
 The Republic of Zimbabwe
 
-(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005)
+(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009)
