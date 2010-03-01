@@ -136,4 +136,6 @@
 
 - 67. The upper ground floor, Stanley Municipal Services Building, 6 Stanley Market Road, Stanley, Hong Kong. (L.N. 180 of 2006)
 
-- 68. Shop 313, Tin Chak Shopping Centre, Tin Shui Wai, New Territories. (L.N. 271 of 2006) (Schedule replaced 78 of 1999 s. 7)
+- 68. Shop 313, Tin Chak Shopping Centre, Tin Shui Wai, New Territories. (L.N. 271 of 2006)
+
+- 69. The Students’ Study Room on the first floor of Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung. (L.N. 22 of 2010) (Schedule replaced 78 of 1999 s. 7)
