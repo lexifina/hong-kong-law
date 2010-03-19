@@ -4,7 +4,7 @@
 
 PRESCRIBED PRODUCTS
 
-- PART 1 PRODUCTS THAT ARE PRESCRIBED PRODUCTS
+- PART 1# PRODUCTS THAT ARE PRESCRIBED PRODUCTS
 
   - 1. Room air conditioners within the description in Division 1 of Part 2.
 
@@ -12,31 +12,37 @@ PRESCRIBED PRODUCTS
 
   - 3. Compact fluorescent lamps within the description in Division 3 of Part 2.
 
+  - 4. Washing machines within the description in Division 4 of Part 2. (Added L.N. 202 of 2009)
+
+  - 5. Dehumidifiers within the description in Division 5 of Part 2. (Added L.N. 202 of 2009)
+
 - PART 2 DEFINITION OF PRESCRIBED PRODUCTS
 
-  - Division 1—Room air conditioners
+  - Division 1 Room air conditioners
 
     - 1.
 
-      - In this Schedule, “room air conditioner” (空調機), subject to section 2— (a) means an encased assembly or encased assemblies that are designed to be used together where—
+      - In this Schedule, “room air conditioner” (空調機), subject to section 2—
 
-        - (i) the assembly or assemblies is or are designed primarily to provide free delivery of conditioned air to an enclosed space, room or zone (“conditioned space”); and
+        - (a) means an encased assembly or encased assemblies that are designed to be used together where—
 
-        - (ii) the assembly or assemblies has or have a prime source of refrigeration for cooling or heating; and
+          - (i) the assembly or assemblies is or are designed primarily to provide free delivery of conditioned air to an enclosed space, room or zone (“conditioned space”); and
 
-          - (b) includes single package type and split type room air conditioners that—
+          - (ii) the assembly or assemblies has or have a prime source of refrigeration for cooling or heating; and
 
-        - (i) use mains electricity as the primary power source;
+        - (b) includes single package type and split type room air conditioners that—
 
-        - (ii) operate by using the vapour compression cycle;
+          - (i) use mains electricity as the primary power source;
 
-        - (iii) are non-ducted;
+          - (ii) operate by using the vapour compression cycle;
 
-        - (iv) are air-cooled;
+          - (iii) are non-ducted;
 
-        - (v) are of either cooling only type or reverse cycle type; and
+          - (iv) are air-cooled;
 
-        - (vi) have a rated cooling capacity not exceeding 7.5 kilowatts.
+          - (v) are of either cooling only type or reverse cycle type; and
+
+          - (vi) have a rated cooling capacity not exceeding 7.5 kilowatts.
 
     - 2.
 
@@ -106,7 +112,7 @@ PRESCRIBED PRODUCTS
 
     - 9. In section 2(f), a room air conditioner is of floor standing type if it is a split type room air conditioner whose indoor unit is intended to be installed directly on the floor in accordance with the manufacturer’s installation procedures.
 
-  - Division 2—Refrigerating appliances
+  - Division 2 Refrigerating appliances
 
     - 1.
 
@@ -146,7 +152,7 @@ PRESCRIBED PRODUCTS
 
       - “vapour compression cycle” (蒸氣壓縮循環方式) means a mechanism employed by a refrigerating appliance throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function.
 
-  - Division 3—Compact fluorescent lamps
+  - Division 3 Compact fluorescent lamps
 
     - 1.
 
@@ -193,3 +199,83 @@ PRESCRIBED PRODUCTS
       - “rated lamp wattage” (額定瓦數值) means the wattage of a compact fluorescent lamp as determined and declared by the manufacturer or importer of the compact fluorescent lamp in accordance with the standard and requirements specified in the approved code of practice;
 
       - “reflector compact fluorescent lamp” (反射式熒光燈) means a compact fluorescent lamp of a type that comprises one or more compact fluorescent arc tubes mounted into a reflector housing for directing light from light source, both of which cannot be dismantled without being permanently damaged.
+
+  - Division 4 Washing machines
+
+    - 1.
+
+      - In this Schedule, “washing machine” (洗衣機), subject to section 2—
+
+        - (a) means a household appliance for cleaning and rinsing of textiles using water with or without a means of extracting excess water from the textiles; and
+
+        - (b) includes washing machines that—
+
+          - (i) use mains electricity as the primary power source; and
+
+          - (ii) have a rated washing capacity not exceeding 7 kilograms,
+
+        - whether or not they have built-in dryers for drying textiles by means of heating.
+
+    - 2.
+
+      - In this Schedule, “washing machine” (洗衣機) does not include washing machines that—
+
+        - (a) may also use other energy sources; or
+
+        - (b) have no spin extraction capability.
+
+    - 3. In section 1—
+
+      - “mains electricity” (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+
+      - “rated washing capacity” (額定洗衣量) means the washing capacity of a washing machine as determined and declared by the manufacturer or importer of the washing machine in accordance with the standard and requirements specified in the approved code of practice.
+
+    - (Division 4 added L.N. 204 of 2009)
+
+  - Division 5 Dehumidifiers
+
+    - 1.
+
+      - In this Schedule, “dehumidifier” (抽濕機), subject to section 2—
+
+        - (a) means an encased assembly for removing moisture from its surrounding atmosphere; and
+
+        - (b) includes self-contained, electrically operated and mechanically-refrigerated dehumidifiers that—
+
+          - (i) use mains electricity as the primary power source;
+
+          - (ii) operate by using the vapour compression cycle;
+
+          - (iii) consist of—
+
+            - (A) a refrigerated surface (“evaporator”) that condenses moisture from the atmosphere;
+
+            - (B) a refrigerating system, including an electric motor;
+
+            - (C) an air circulating fan; and
+
+            - (D) a drain system for collecting or disposing of the condensate; and
+
+          - (iv) have a rated dehumidifying capacity not exceeding 35 litres per day. (Amended L.N. 1 of 2010)
+
+    - 2.
+
+      - In this Schedule, “dehumidifier” (抽濕機) does not include dehumidifiers that—
+
+        - (a) may also operate by using desiccant materials; or
+
+        - (b) are room air conditioners having dehumidifying function.
+
+    - 3. In section 1—
+
+      - “mains electricity” (市電) means the electricity that is supplied in Hong Kong at a voltage of 380/220V and a frequency of 50 Hz;
+
+      - “rated dehumidifying capacity” (額定抽濕量) means the dehumidifying capacity of a dehumidifier as determined and declared by the manufacturer or importer of the dehumidifier in accordance with the standard and requirements specified in the approved code of practice;
+
+      - “vapour compression cycle” (蒸氣壓縮循環方式) means a mechanism employed by a dehumidifier throughout which the refrigerant undergoes alternate compression and expansion to achieve the cooling or heating function.
+
+    - (Division 5 added L.N. 204 of 2009)
+
+Editorial Note:
+
+\#For the transitional arrangements relating to washing machines and dehumidifiers, please see sections 4 and 5 of the Energy Efficiency (Labelling of Products) Ordinance (Amendment of Schedule 1) Order 2009 (L.N. 202 of 2009).
