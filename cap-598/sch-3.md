@@ -6,7 +6,17 @@ CONDITIONS
 
 - 1. The conditions specified for the purposes of section 12(4) of this Ordinance are that—
 
-  - (a) the prescribed product is a room air conditioner or refrigerating appliance that is specified respectively in section 1 or 2 in Part 1 of Schedule 1 and has been manufactured in or imported into Hong Kong before the effective date; or
+  - (a) the prescribed product is any of the following—
+
+    - (i) a room air conditioner specified in section 1 in Part 1 of Schedule 1;
+
+    - (ii) a refrigerating appliance specified in section 2 in Part 1 of Schedule 1;
+
+    - (iii) a washing machine specified in section 4 in Part 1 of Schedule 1;
+
+    - (iv) a dehumidifier specified in section 5 in Part 1 of Schedule 1,
+
+  - and has been manufactured in or imported into Hong Kong before the effective date; or (Replaced L.N. 204 of 2009)
 
   - (b) the prescribed product is the subject of a contract—
 
