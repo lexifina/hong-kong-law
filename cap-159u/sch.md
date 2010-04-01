@@ -16,7 +16,7 @@ $
 
 (ii) from 1 April to 30 June inclusive ( L.N. 312 of 1997) | 5000
 
-(b) Renewal of registration | 10000
+(b) Renewal of registration (L.N. 8 of 2010) | 9000
 
 2. | 39B | Registration as a foreign firm—
 
