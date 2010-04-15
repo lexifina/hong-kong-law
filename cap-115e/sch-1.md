@@ -40,11 +40,23 @@ RULES
 
 - 8. Written communications Subject to the approval of, and to such conditions as may be imposed by, the Superintendent in his discretion, a detainee may send and receive letters at all reasonable times.
 
-- 9. Visits A detainee shall not receive visitors except with the prior permission of the Superintendent given in his discretion.
+- 9. Visits
+
+  - (1) A detainee shall not receive visitors except with the prior permission of the Superintendent given in his discretion. (L.N. 15 of 2010)
+
+  - (2) Subrule (1) does not apply to visits by justices under rule 16. (L.N. 15 of 2010)
 
 - 10. Roll-call A detainee shall muster at such times and places as may be required by an officer or by order of the Superintendent for the purposes of roll-call.
 
 - 11. Detainees to remain indoors between 8 p.m. and 7 a.m. A detainee shall return to the accommodation allocated to him by 8 p.m. each night or such later time as the Superintendent may allow and shall not leave the building in which the accommodation is contained before 7 a.m. the following morning or such earlier time as the Superintendent may allow.
+
+- 11A. Smoking
+
+  - (1) The Director of Immigration may set aside in the Centre an area for smoking by detainees.
+
+  - (2) Subject to and in accordance with any directions that may be given by the Director of Immigration, a detainee may smoke in an area set aside under subrule (1).
+
+- (L.N. 15 of 2010)
 
 - 12. Detainees not to enter certain areas A detainee shall not enter any part of the Centre in breach of any order of an officer or any official notice prohibiting entry by the detainee to that part.
 
@@ -75,3 +87,19 @@ RULES
   - (1) A detainee may complain to the Superintendent, or any officer authorized by the Superintendent to receive complaints, regarding the treatment received by him or any other detainee in the Centre.
 
   - (2) The Superintendent shall, as soon as practicable after a complaint has been made, record and investigate that complaint and advise the detainee who made the complaint of the outcome of his investigation.
+
+- 16. Visits by justices
+
+  - (1) The Superintendent must provide facilities to justices of the peace appointed by the Chief Executive for that purpose (the “visiting justices”) to enable them to visit detainees and satisfy themselves that detainees are held in accordance with this Order and any other law.
+
+  - (2) For the purposes of subrule (1), visiting justices must be permitted to visit detainees at all reasonable times and for reasonable periods.
+
+  - (3) An officer must make a record of every such visit in respect of every detainee.
+
+  - (4) The Superintendent must keep a book to be known as the “Visiting Justices Report Book” in English and known as “太平紳士探訪紀錄簿” in Chinese.
+
+  - (5) Visiting justices must record their visits and their observations and comments in the book kept under subrule (4).
+
+  - (6) The Superintendent must as soon as practicable bring to the attention of the Director of Immigration or the Deputy Director of Immigration any adverse observation or comment recorded by visiting justices in the book kept under subrule (4).
+
+- (L.N. 15 of 2010)
