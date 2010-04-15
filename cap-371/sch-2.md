@@ -72,6 +72,8 @@ Item | Type of area
 
 10. | A room designated for tobacco tasting in the manufacturing or business premises of a business engaged in the tobacco trade if all the following requirements are complied with— (a) the business is not engaged in the retail sale of tobacco products; (b) the tobacco tasting is carried out for the purpose of conducting research and development or quality control of tobacco products in the normal course of the business; (c) the room is only used for carrying out the tobacco tasting; (d) the room is independently ventilated and completely partitioned off from the remainder of the premises; and (e) no natural person, other than one who carries out the tobacco tasting, is required to enter the room while it is being occupied for the tobacco tasting (whether or not he could have been required to do so by contract or otherwise).
 
+11. | An area set aside by the Director of Immigration under rule 11A of Schedule 1 to the Immigration (Treatment of Detainees) Order (Cap. 115 sub. leg. E) in a place specified in Schedule 2 to that Order for smoking by persons detained there. (L.N. 16 of 2010)
+
 - PART 3 INTERPRETATION In this Schedule—
 
   - “communal quarters” (共用宿舍) means any premises that are the living accommodation provided by an employer to 2 or more employees, or to those employees and their families, whether or not any monetary consideration is received by the employer for providing the accommodation, but does not include—
