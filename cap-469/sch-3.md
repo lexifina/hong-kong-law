@@ -1,6 +1,6 @@
 # SCHEDULE 3
 
-[ss. 2 & 39]
+[ss. 2, 14, 39 & 48] (Amended 6 of 2010 s. 24)
 
 NOISY OCCUPATIONS
 
