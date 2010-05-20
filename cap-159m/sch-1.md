@@ -10,9 +10,23 @@ CONTRIBUTIONS TO FUND
 
   - (1)
 
-    - (a) Save in the cases referred to in subparagraphs (2) (when the amount of contribution shall be assessed by the Company as therein provided), (3) (which provides that the amount of the basic contribution shall be not less than the minimum amount as therein provided) and (4) (when the amount of contribution may be reduced as therein provided), the amount of all contributions for the first indemnity period and for each subsequent indemnity period shall be calculated— (L.N. 363 of 1991)
+    - (a) Save in the cases referred to in subparagraphs (2) (when the amount of contribution shall be assessed by the Company as therein provided), (3) (which provides that the amount of the basic contribution shall be not less than the minimum amount as therein provided), (4) (which provides for the due date for payment of the contribution) and (7) (when the amount of contribution may be reduced as therein provided), the amount of all contributions for the first indemnity period and for each subsequent indemnity period shall be calculated— (L.N. 363 of 1991; L.N. 65 of 2010)
 
-      - (i) according to the formula— C = (N*$20,000) + (M*$13,000) + S Where— * =multiplied by; C =the amount (subject to any appropriate adjustment made under subparagraph (3)) of the basic contribution which may also be the contribution; N =number of principals (as at 31 July immediately preceding such indemnity period); M =number of assistant solicitors and consultants (as at 31 July immediately preceding such indemnity period); and S =the amount established from the following table—
+      - (i) according to the formula—
+
+      - C＝(N*$20,000) + (M*$13,000) + S
+
+      - Where—
+
+      - * | ＝ | multiplied by;
+
+      - C | ＝ | the amount (subject to any appropriate adjustment made under subparagraph (3)) of the basic contribution which may also be the contribution;
+
+      - N | ＝ | number of principals (as at 31 July immediately preceding such indemnity period);
+
+      - M | ＝ | number of assistant solicitors and consultants (as at 31 July immediately preceding such indemnity period); and
+
+      - S | ＝ | the amount established from the following table—
 
       - Gross fee income of the firm $ Million | Amount $
 
@@ -66,9 +80,17 @@ CONTRIBUTIONS TO FUND
 
       - over 100 | 0.73% × gross fee income
 
-    - and the gross fee income of the firm shall be determined by the particulars contained in the gross fee income report produced under rule 8(1)(a) plus a factor to be applied by the Company to this figure to compensate for the historical basis of the gross fee income calculation (such factor not to exceed 10%) and shall be subject to adjustment as provided in sub-subparagraph (b)(iv); or (L.N. 162 of 2001; L.N. 154 of 2007)
+      - and the gross fee income of the firm shall be determined by the particulars contained in the gross fee income report produced under rule 8(1)(a) plus a factor to be applied by the Company to this figure to compensate for the historical basis of the gross fee income calculation (such factor not to exceed 10%) and shall be subject to adjustment as provided in sub-subparagraph (b)(iv); or (L.N. 162 of 2001; L.N. 154 of 2007)
 
-      - (ii) in the circumstances set out in subparagraph (6), according to the formula— F x C Where— C = the amount (subject to any appropriate adjustment made under subparagraph (3)) of the basic contribution which may also be the contribution; and F = the appropriate factor referred to in subparagraph (6)(d).
+      - (ii) in the circumstances set out in subparagraph (6), according to the formula—
+
+      - F × C
+
+      - Where—
+
+      - C | ＝ | the amount (subject to any appropriate adjustment made under subparagraph (3)) of the basic contribution which may also be the contribution; and
+
+      - F | ＝ | the appropriate factor referred to in subparagraph (6)(d).
 
     - (b)
 
@@ -92,9 +114,9 @@ CONTRIBUTIONS TO FUND
 
       - (ii) exceeds the amount of the contribution paid, his firm shall upon demand pay to the Company the balance of the amount of the contribution together with interest on the amount of such balance at the rate of 4% per annum above the best lending rate from time to time of The Hongkong and Shanghai Banking Corporation Limited calculated from the date stipulated in or prescribed by the Society under rule 8(1)(c) until receipt of payment by the Company.
 
-  - (2) In the case of a solicitor or solicitors commencing a Practice during any indemnity period the contribution payable in respect of such Practice for the year of commencement of Practice shall be assessed by the Company based on the average contribution paid for the current indemnity period by firms of similar composition to the Practice and be paid pro rata and such basis shall continue to be applied until such Practice shall have submitted a certified public accountant (practising)’s report of gross fee income and other information in accordance with the foregoing provisions of this paragraph. The basic contribution payable by such Practice during any indemnity period shall not be less than $20,000. (L.N. 363 of 1991; 23 of 2004 s. 56; L.N. 154 of 2007)
+  - (2) In the case of a solicitor or solicitors commencing a Practice during any indemnity period the contribution payable in respect of such Practice for the year of commencement of Practice shall be assessed by the Company based on the average contribution paid for the current indemnity period by firms of similar composition to the Practice and be paid pro rata and such basis shall continue to be applied until such Practice shall have submitted a certified public accountant (practising)’s report of gross fee income and other information in accordance with the foregoing provisions of this paragraph. Subject to subparagraph (7), the basic contribution payable by such Practice during any indemnity period shall not be less than $20,000. (L.N. 363 of 1991; 23 of 2004 s. 56; L.N. 154 of 2007; L.N. 65 of 2010)
 
-  - (3) The basic contribution payable in respect of a Practice for an indemnity period shall not be less than $20,000. (L.N. 363 of 1991)
+  - (3) Subject to subparagraph (7), the basic contribution payable in respect of a Practice for an indemnity period shall not be less than $20,000. (L.N. 363 of 1991; L.N. 65 of 2010)
 
   - (4) The contribution payable for an indemnity period shall be due and payable to the Company on or before 30 September immediately preceding the indemnity period but in the case of the first indemnity period it shall be payable on the date decided by the Society and in the case of a Practice referred to in subparagraph (2) the contribution payable for its first period of indemnity shall be paid forthwith on demand.
 
@@ -162,7 +184,7 @@ CONTRIBUTIONS TO FUND
 
   - (7)
 
-    - (a) Notwithstanding anything to the contrary in subparagraph (2), the Company may, with the authority of a resolution of the Council at any time during an indemnity period, reduce the total amount of the contributions established in accordance with subparagraph (2) which are payable by firms, during the next indemnity period by such amount as is authorized by the Council.
+    - (a) The Company may, with the authority of a resolution of the Council passed at any time during an indemnity period, reduce the total amount of the contributions established in accordance with this paragraph, which are payable by firms, during the next indemnity period by the amount as is authorized by the Council. (L.N. 65 of 2010)
 
     - (b) The benefit of such reduction shall be available only to those firms which are entitled to indemnity during both the indemnity period when the resolution of the Council referred to in sub-subparagraph (a) is passed and during the next indemnity period and shall be obtained by reducing the amount of the contribution payable by any such firm for such next indemnity period by the amount established in accordance with sub-subparagraph (c).
 
