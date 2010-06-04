@@ -186,4 +186,30 @@ Item Body
 
   - 93. Occupational Safety and Health Council (Added L.N. 221 of 2009)
 
-- (Schedule 2 replaced L.N. 269 of 1999)
+  - 94. Pivot Point College…Hong Kong (Added L.N. 75 of 2010)
+
+  - 95. Leo Hair & Beauty Training Centre (Added L.N. 75 of 2010)
+
+  - 96. Asia Pacific Hairdresser & Cosmetologist Association (APHCA) (Added L.N. 75 of 2010)
+
+  - 97. Jenny Beauty College (Added L.N. 75 of 2010)
+
+  - 98. Oasis Beauty School (Added L.N. 75 of 2010)
+
+  - 99. Youth Outreach (Added L.N. 75 of 2010)
+
+- 100. Electronic Communication Technical Staff Union (Added L.N. 75 of 2010)
+
+- 101. Fire and Security Engineering Employees Association (Added L.N. 75 of 2010)
+
+- 102. Union of Hong Kong Electrical and Mechanical Engineering Assistants (Added L.N. 75 of 2010)
+
+- 103. Hong Kong Electrical & Mechanical College (Evening School) (Added L.N. 75 of 2010)
+
+- 104. The Federation of Hong Kong Electrical & Mechanical Industries Trade Unions (Added L.N. 75 of 2010)
+
+- 105. Hong Kong Air-conditioning and Refrigerating Trades Workers General Union (Added L.N. 75 of 2010)
+
+- 106. Industrial Centre, The Hong Kong Polytechnic University (Added L.N. 75 of 2010)
+
+- 107. Kaplan Language Training (HK) Limited (Added L.N. 75 of 2010) (Schedule 2 replaced L.N. 269 of 1999)
