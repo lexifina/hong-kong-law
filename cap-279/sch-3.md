@@ -18,7 +18,7 @@ International Christian School | 1 On Muk Lane, Shatin, New Territories (Added L
 
 Mu Kuang English School | 55 Kung Lok Road, Kwun Tong, Kowloon
 
-Po Leung Kuk Choi Kai Yau School | 5 Kwong Lee Road, Shamshuipo, Kowloon (Amended L.N. 146 of 2008)
+Po Leung Kuk Choi Kai Yau School | 6 Caldecott Road, Shamshuipo, Kowloon (Amended L.N. 146 of 2008; L.N. 36 of 2010)
 
 Renaissance College | No. 5 Hang Ming Street, Ma On Shan, Shatin, New Territories (Added L.N. 272 of 2006)
 
