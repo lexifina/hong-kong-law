@@ -108,7 +108,7 @@
 
 - 53. The first floor of Tsing Yi Municipal Services Building, 38 Tsing Luk Street, Tsing Yi. (L.N. 145 of 2008)
 
-- 54. Unit Nos. 126-130, Ground Floor, Tip Ying House, Butterfly Estate, Tuen Mun.
+- 54. Unit Nos. 123-130, Ground Floor, Tip Chui House, Butterfly Estate, Tuen Mun. (L.N. 42 of 2010)
 
 - 55. Unit Nos. 215-219, Shek Fong House, Shek Wai Kok Estate, Tsuen Wan.
 
