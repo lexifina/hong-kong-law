@@ -42,7 +42,7 @@ Item Body
 
 - 18. Yan Oi Tong Limited
 
-- 19. The Baptist Convention of Hong Kong-Baptist Oi Kwan Social Service
+- 19. Baptist Oi Kwan Social Service (Amended L.N. 76 of 2010)
 
 - 20. Hong Kong and Kowloon Electrical Engineering and Appliances Trade Workers Union
 
@@ -92,7 +92,7 @@ Item Body
 
 - 44. (Repealed L.N. 99 of 2001)
 
-- 45. Kwai Chung Residents Association
+- 45. KCRA Community Education Enhancement Center Limited (Amended L.N. 76 of 2010)
 
 - 46. Princess Margaret Hospital
 
@@ -124,7 +124,7 @@ Item Body
 
 - 61. The Evangelical Lutheran Church of Hongkong
 
-- 62. The Boys’ and Girls’ Clubs Association of Hong Kong (Added L.N. 260 of 2000)
+- 62. (Repealed L.N. 76 of 2010)
 
 - 63. (Repealed L.N. 71 of 2008)
 
