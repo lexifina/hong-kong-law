@@ -920,7 +920,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
 - Technical Note:
 
-- ’Air Independent Propulsion’ (AIP) allows a submerged submarine to operate its propulsion system, without access to atmospheric oxygen, for a longer time than the batteries would have otherwise allowed. For the purposes of ML9(b)(4), AIP does not include nuclear power. (L.N. 254 of 2008)
+- ‘Air Independent Propulsion’ (AIP) allows a submerged submarine to operate its propulsion system, without access to atmospheric oxygen, for a longer time than the batteries would have otherwise allowed. For the purposes of ML9(b)(4), AIP does not include nuclear power. (L.N. 254 of 2008)
 
 - (c) Underwater detection devices specially designed for military use and controls thereof;
 
@@ -1802,7 +1802,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
   - (c) Seals, gaskets, valve seats, bladders or diaphragms made from fluoroelastomers containing at least one vinylether group as a constitutional unit, specially designed for “aircraft”, aerospace or ‘missile’ use; (L.N. 132 of 2001) Note:
 
-  - ‘Missile’ in 1A001(c) means complete rocket systems and unmanned aerial vehicle systems. (L.N. 254 of 2008) 1A002 “Composite” structures or laminates, having any of the following:
+  - ’Missile’ in 1A001(c) means complete rocket systems and unmanned aerial vehicle systems. (L.N. 254 of 2008) 1A002 “Composite” structures or laminates, having any of the following:
 
   - N.B.:
 
@@ -2592,7 +2592,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - (3) The total acid or base number is less than 0.40;
 
-  - (e) Autogenous ignition temperature is determined using the method described in ASTM E-659 or national equivalents. 1C007 Ceramic base materials, non-“composite” ceramic materials, ceramic-“matrix” “composite” materials and precursor materials, as follows:
+  - (e) Autogenous ignition temperature is determined using the method described in ASTM E-659 or national equivalents. 1C007 Ceramic base materials, non-”composite” ceramic materials, ceramic-“matrix” “composite” materials and precursor materials, as follows:
 
   - N.B.:
 
@@ -2600,11 +2600,11 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
   - (a) Base materials of single or complex borides of titanium having total metallic impurities, excluding intentional additions, of less than 5000 ppm, an average particle size equal to or less than 5 μm and no more than 10% of the particles larger than 10 μm;
 
-  - (b) Non-“composite” ceramic materials in crude or semi-fabricated form, composed of borides of titanium with a density of 98% or more of the theoretical density; Note:
+  - (b) Non-”composite” ceramic materials in crude or semi-fabricated form, composed of borides of titanium with a density of 98% or more of the theoretical density; Note:
 
   - 1C007(b) does not control abrasives.
 
-  - (c) Ceramic-ceramic “composite” materials with a glass or oxide-”matrix” and reinforced with fibres having all of the following:
+  - (c) Ceramic-ceramic “composite” materials with a glass or oxide-“matrix” and reinforced with fibres having all of the following:
 
     - (1) Made from any of the following materials:
 
@@ -5486,7 +5486,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - (b) Is “allocated by the ITU” for radiocommunications services, but not for radio-determination.
 
-    - 2. 3A001(b)(1) does not control non-“space qualified” tubes which meet both of the following characteristics:
+    - 2. 3A001(b)(1) does not control non-“space-qualified” tubes which meet both of the following characteristics: (L.N. 45 of 2010)
 
       - (a) An average output power equal to or less than 50 W; and
 
@@ -5510,7 +5510,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
         - (b) An “instantaneous bandwidth” of one octave or less, and average power (expressed in kW) times frequency (expressed in GHz) of more than 1; or (L.N. 254 of 2008)
 
-        - (c) Being “space qualified”;
+        - (c) Being “space-qualified”; (L.N. 45 of 2010)
 
     - (b) Crossed-field amplifier tubes with a gain of more than 17 dB;
 
@@ -5602,7 +5602,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - (a) Operating frequencies above 3 GHz;
 
-    - (b) An average output power density to mass ratio exceeding 80 W/kg; and (L.N. 226 of 2009)
+    - (b) An average output power to mass ratio exceeding 80 W/kg; and (L.N. 226 of 2009; L.N. 45 of 2010)
 
     - (c) A volume of less than 400 cm3;
 
@@ -5638,29 +5638,45 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
   - In 3A001(b)(10), F is the offset from the operating frequency in Hz and f is the operating frequency in MHz. (L.N. 226 of 2009)
 
-    - (c) Acoustic wave devices, as follows, and specially designed components therefor:
+    - (11) “Frequency synthesiser” “electronic assemblies” having a “frequency switching time” from one selected frequency to another as specified by any of the following:
 
-      - (1) Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having any of the following: (L.N. 226 of 2009)
+      - (a) Less than 312 ps;
 
-        - (a) A carrier frequency exceeding 6 GHz;
+      - (b) Less than 100 μs for any frequency change exceeding 1.6 GHz within the synthesised frequency range exceeding 3.2 GHz but not exceeding 10.6 GHz;
 
-        - (b) A carrier frequency exceeding 1 GHz, but not exceeding 6 GHz, and having any of the following: (L.N. 254 of 2008)
+      - (c) Less than 250 μs for any frequency change exceeding 550 MHz within the synthesised frequency range exceeding 10.6 GHz but not exceeding 31.8 GHz;
 
-          - (1) A ‘frequency side-lobe rejection’ exceeding 65 dB; (L.N. 226 of 2009)
+      - (d) Less than 500 μs for any frequency change exceeding 550 MHz within the synthesised frequency range exceeding 31.8 GHz but not exceeding 43.5 GHz;
 
-          - (2) A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100;
+      - (e) Less than 1 ms within the synthesised frequency range exceeding 43.5 GHz;
 
-          - (3) A bandwidth greater than 250 MHz; or
+    - N.B.:
 
-          - (4) A dispersive delay of more than 10 μs; or
+    - For general purpose “signal analysers”, signal generators, network analysers and microwave test receivers, see 3A002(c), 3A002(d), 3A002(e) and 3A002(f) respectively. (L.N. 45 of 2010)
 
-        - (c) A carrier frequency of 1 GHz or less, having any of the following:
+      - (c) Acoustic wave devices, as follows, and specially designed components therefor:
 
-          - (1) A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100;
+    - (1) Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having any of the following: (L.N. 226 of 2009)
 
-          - (2) A dispersive delay of more than 10 μs; or
+      - (a) A carrier frequency exceeding 6 GHz;
 
-          - (3) A ‘frequency side-lobe rejection’ exceeding 65 dB and a bandwidth greater than 100 MHz; (L.N. 226 of 2009)
+      - (b) A carrier frequency exceeding 1 GHz, but not exceeding 6 GHz, and having any of the following: (L.N. 254 of 2008)
+
+        - (1) A ‘frequency side-lobe rejection’ exceeding 65 dB; (L.N. 226 of 2009)
+
+        - (2) A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100;
+
+        - (3) A bandwidth greater than 250 MHz; or
+
+        - (4) A dispersive delay of more than 10 μs; or
+
+      - (c) A carrier frequency of 1 GHz or less, having any of the following:
+
+        - (1) A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100;
+
+        - (2) A dispersive delay of more than 10 μs; or
+
+        - (3) A ‘frequency side-lobe rejection’ exceeding 65 dB and a bandwidth greater than 100 MHz; (L.N. 226 of 2009)
 
   - Technical Note:
 
@@ -5746,7 +5762,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - 3A001(e)(3) does not control “superconductive” electromagnets or solenoids specially designed for Magnetic Resonance Imaging (MRI) medical equipment.
 
-      - (4) Solar cells, cell-interconnect-coverglass (CIC) assemblies, solar panels, and solar arrays, which are “space qualified”, having a minimum average efficiency exceeding 20% at an operating temperature of 301 K (28°C) under simulated ‘AM0’ illumination with an irradiance of 1367 Watts per square metre (W/m2);
+      - (4) Solar cells, cell-interconnect-coverglass (CIC) assemblies, solar panels, and solar arrays, which are “space-qualified”, having a minimum average efficiency exceeding 20% at an operating temperature of 301 K (28°C) under simulated ‘AM0’ illumination with an irradiance of 1367 Watts per square metre (W/m2); (L.N. 45 of 2010)
 
   - Technical Note:
 
@@ -5844,11 +5860,11 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - (a) A maximum digital interface transfer rate exceeding 175 Mbit/s; or
 
-      - (b) Being “space qualified”;
+      - (b) Being “space-qualified”; (L.N. 45 of 2010)
 
     - Note:
 
-    - 3A002(a)(3) does not control analogue magnetic tape recorders equipped with HDDR conversion electronics and configured to record only digital data.
+    - 3A002(a)(3) does not apply to analogue magnetic tape recorders equipped with HDDR conversion electronics and configured to record only digital data. (L.N. 45 of 2010)
 
     - (4) Equipment, having a maximum digital interface transfer rate exceeding 175 Mbit/s, designed to convert digital video magnetic tape recorders for use as digital instrumentation data recorders;
 
@@ -5872,13 +5888,9 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - (b) A continuous throughput of 1 Gbit/s or more; (L.N. 65 of 2004)
 
-        - (b) “Frequency synthesiser” “electronic assemblies” having a “frequency switching time” from one selected frequency to another of less than 1 ms;
+        - (b) (Repealed L.N. 45 of 2010)
 
-    - Note:
-
-    - The status of “signal analysers”, signal generators, network analysers and microwave test receivers as stand-alone instruments is determined by 3A002(c), 3A002(d), 3A002(e) and 3A002(f) respectively. (L.N. 254 of 2008)
-
-      - (c) Radio frequency “signal analysers”, as follows:
+        - (c) Radio frequency “signal analysers”, as follows:
 
     - (1) “Signal analysers” capable of analysing any frequencies exceeding 31.8 GHz but not exceeding 37.5 GHz and having a 3 dB resolution bandwidth (RBW) exceeding 10 MHz;
 
@@ -5932,7 +5944,11 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - 2. For the purposes of 3A002(d)(1), ‘pulse duration’ means the time interval between the leading edge of the pulse achieving 90% of the peak and the trailing edge of the pulse achieving 10% of the peak. (L.N. 254 of 2008)
 
-      - (e) Network analysers with a maximum operating frequency exceeding 43.5 GHz; (L.N. 65 of 2004)
+      - (e) Network analysers having any of the following:
+
+    - (1) Maximum operating frequency exceeding 43.5 GHz and output power exceeding 31.62 mW (15 dBm);
+
+    - (2) Maximum operating frequency exceeding 70 GHz; (L.N. 45 of 2010)
 
       - (f) Microwave test receivers having all of the following:
 
@@ -5942,17 +5958,17 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - (g) Atomic frequency standards being any of the following:
 
-    - (1) “Space qualified”;
+    - (1) “Space-qualified”;
 
     - (2) Non-rubidium and having a long-term stability less (better) than 1 × 10-11/month;
 
-    - (3) Non-”space qualified” and having all of the following characteristics:
+    - (3) Non-”space-qualified” and having all of the following characteristics:
 
       - (a) Being a rubidium standard;
 
       - (b) Long-term stability less (better) than 1 × 10-11/month;
 
-      - (c) Total power consumption of less than 1 Watt; (L.N. 254 of 2008)
+      - (c) Total power consumption of less than 1 Watt; (L.N. 254 of 2008; L.N. 45 of 2010)
 
     - 3A003 Spray cooling thermal management systems employing closed loop fluid handling and reconditioning equipment in a sealed enclosure where a dielectric fluid is sprayed onto electronic components using specially designed spray nozzles that are designed to maintain electronic components within their operating temperature range, and specially designed components therefor;
 
@@ -6216,19 +6232,11 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - (4) A beam energy of 65 keV or more and a beam current of 45 mA or more for high energy oxygen implant into a heated semiconductor material “substrate”; (L.N. 65 of 2004)
 
-    - (c) Anisotropic plasma dry etching equipment, as follows: (L.N. 65 of 2004)
+    - (c) Anisotropic plasma dry etching equipment having all of the following:
 
-      - (1) Equipment with cassette-to-cassette operation and load-locks, and having any of the following:
+      - (1) Designed or optimized to produce critical dimensions of 65 nm or less;
 
-        - (a) Designed or optimized to produce critical dimensions of 180 nm or less with +5% 3 sigma precision; or (L.N. 132 of 2001; L.N. 95 of 2006)
-
-        - (b) Designed for generating less than 0.04 particles/cm2 with a measurable particle size greater than 0.1 μm in diameter; (L.N. 132 of 2001)
-
-      - (2) Equipment specially designed for equipment controlled by 3B001(e) and having any of the following:
-
-        - (a) Designed or optimized to produce critical dimensions of 180 nm or less with +5% 3 sigma precision; or (L.N. 132 of 2001; L.N. 95 of 2006)
-
-        - (b) Designed for generating less than 0.04 particles/cm2 with a measurable particle size greater than 0.1 μm in diameter; (L.N. 132 of 2001)
+      - (2) Within-wafer non-uniformity equal to or less than 10%3σ measured with an edge exclusion of 2 mm or less; (L.N. 45 of 2010)
 
     - (d) Plasma enhanced CVD equipment, as follows: (L.N. 65 of 2004)
 
@@ -6236,15 +6244,21 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - (2) Equipment specially designed for equipment controlled by 3B001(e) and designed according to the manufacturer’s specifications or optimized for use in the production of semiconductor devices with critical dimensions of 180 nm or less; (L.N. 65 of 2004)
 
-    - (e) Automatic loading multi-chamber central wafer handling systems, having all of the following: (L.N. 65 of 2004)
+    - (e) Automatic loading multi-chamber central wafer handling systems having all of the following:
 
-      - (1) Interfaces for wafer input and output, to which more than two pieces of semiconductor processing equipment are to be connected; and
+      - (1) Interfaces for wafer input and output, to which more than two functionally different ‘semiconductor process tools’ specified by 3B001(a), 3B001(b), 3B001(c) or 3B001(d) are designed to be connected;
 
-      - (2) Designed to form an integrated system in a vacuum environment for sequential multiple wafer processing;
+      - (2) Designed to form an integrated system in a vacuum environment for ‘sequential multiple wafer processing’;
 
     - Note:
 
-    - 3B001(e) does not control automatic robotic wafer handling systems not designed to operate in a vacuum environment.
+    - 3B001(e) does not apply to automatic robotic wafer handling systems specially designed for parallel wafer processing.
+
+    - Technical Notes:
+
+      - 1. For the purpose of 3B001(e), ‘semiconductor process tools’ refers to modular tools that provide physical processes for semiconductor production that are functionally different, such as deposition, etch, implant or thermal processing.
+
+      - 2. For the purpose of 3B001(e), ‘sequential multiple wafer processing’ means the capability to process each wafer in different ‘semiconductor process tools’, such as by transferring each wafer from one tool to a second tool and on to a third tool with the automatic loading multichamber central wafer handling systems. (L.N. 45 of 2010)
 
     - (f) Lithography equipment, as follows: (L.N. 65 of 2004)
 
@@ -6320,9 +6334,11 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - (c) All resists designed for use with X-rays, with a sensitivity of 2.5 mJ/mm2 or better;
 
-    - (d) All resists optimized for surface imaging technologies, including silylated resists;
+    - (d) All resists optimized for surface imaging technologies, including silylated resists; Technical Note:
 
-    - (e) All resists designed or optimized for use with imprint lithography equipment specified in 3B001(f)(2) that use either a thermal or photo-curable process; (L.N. 254 of 2008) Technical Note: Silylation techniques are defined as processes incorporating oxidation of the resist surface to enhance performance for both wet and dry developing. 3C003 Organo-inorganic compounds, as follows:
+    - Silylation techniques are defined as processes incorporating oxidation of the resist surface to enhance performance for both wet and dry developing. (L.N. 45 of 2010)
+
+    - (e) All resists designed or optimized for use with imprint lithography equipment specified in 3B001(f)(2) that use either a thermal or photo-curable process; (L.N. 254 of 2008; L.N. 45 of 2010) 3C003 Organo-inorganic compounds, as follows:
 
     - (a) Organo-metallic compounds of aluminium, gallium or indium having a purity (metal basis) better than 99.999%;
 
@@ -6458,7 +6474,9 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
         - (c) Single Event Upset 1 x 10-7 Error/bit/day;
 
-    - (b) Having characteristics or performing functions exceeding the limits in Category 5, Part 2 (“Information Security”); Note: 4A001(b) does not control electronic computers and related equipment when accompanying their user for the user’s personal use. (L.N. 183 of 1999) 4A002 Deleted; (L.N. 65 of 2004) 4A003 “Digital computers”, “electronic assemblies”, and related equipment therefor, as follows, and specially designed components therefor:
+    - (b) Deleted; (L.N. 45 of 2010) N.B.:
+
+    - See Category 5, Part 2 for electronic computers and related equipment performing or incorporating “information security” functions. (L.N. 45 of 2010) 4A002 Deleted; (L.N. 65 of 2004) 4A003 “Digital computers”, “electronic assemblies”, and related equipment therefor, as follows, and specially designed components therefor:
 
     - Notes:
 
@@ -6508,7 +6526,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - 4. The synchronisation of two central processing units by “software” so that one central processing unit recognises when the other central processing unit fails and recovers tasks from the failing unit.
 
-    - (b) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.75 Weighted TeraFLOPS (WT); (L.N. 95 of 2006)
+    - (b) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 1.5 Weighted TeraFLOPS (WT); (L.N. 95 of 2006; L.N. 45 of 2010)
 
     - (c)
 
@@ -6526,9 +6544,9 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - (f) (Repealed L.N. 183 of 1999)
 
-    - (g) Equipment specially designed to provide external interconnection of “digital computers” or associated equipment which allows communications at data rates exceeding 1.25 Gbyte/s; (L.N. 132 of 2001) Note:
+    - (g) Equipment specially designed for aggregating the performance of “digital computers” by providing external interconnections that allow communications at unidirectional data rates exceeding 2.0 Gbyte/s per link; (L.N. 45 of 2010) Note:
 
-    - 4A003(g) does not control internal interconnection equipment (e.g. backplanes, buses), passive interconnection equipment, “network access controllers” or “communications channel controllers”. (L.N. 183 of 1999) 4A004 Computers, as follows, and specially designed related equipment, “electronic assemblies” and components therefor:
+    - 4A003(g) does not apply to internal interconnection equipment (e.g. backplanes, buses), passive interconnection equipment, “network access controllers” or “communications channel controllers”. (L.N. 183 of 1999; L.N. 45 of 2010) 4A004 Computers, as follows, and specially designed related equipment, “electronic assemblies” and components therefor:
 
     - (a) “Systolic array computers”;
 
@@ -6556,53 +6574,49 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
   - Note:
 
-  - The control status of “software” for the “development”, “production”, or “use” of equipment described in other Categories is dealt with in the appropriate Category. The control status of “software” for equipment described in this Category is dealt with herein.
+  - The status of “software” for the “development”, “production”, or “use” of equipment described in other Categories is dealt with in the appropriate Category. (L.N. 45 of 2010)
 
   - 4D001 (a) “Software” specially designed or modified for the “development”, “production” or “use” of equipment or “software” controlled by 4A001 to 4A004, or 4D; (L.N. 65 of 2004)
 
     - (b) “Software”, other than that controlled by 4D001(a), specially designed or modified for the “development” or “production” of:
 
-      - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.1 Weighted TeraFLOPS (WT); or (L.N. 226 of 2009)
+      - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.25 Weighted TeraFLOPS (WT); or (L.N. 226 of 2009; L.N. 45 of 2010)
 
       - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4D001(b)(1); (L.N. 65 of 2004; L.N. 95 of 2006)
 
-  - 4D002 “Software” specially designed or modified to support “technology” controlled by 4E; 4D003 “Software” having characteristics or performing functions exceeding the limits in Category 5, Part 2 (“Information Security”);
+  - 4D002 “Software” specially designed or modified to support “technology” controlled by 4E; 4D003 Deleted; (L.N. 45 of 2010)
 
-  - Note:
+  - N.B.:
 
-  - 4D003 does not include “software” that accompanies its user for the user’s personal use.
+  - See Category 5, Part 2 for “software” performing or incorporating “information security” functions. (L.N. 45 of 2010) 4E TECHNOLOGY 4E001 (a) “Technology” according to the General Technology Note, for the “development”, “production” or “use” of equipment or “software” controlled by 4A or 4D; (L.N. 65 of 2004)
 
-- (L.N. 226 of 2009)
+    - (b) “Technology”, other than that controlled by 4E001(a), specially designed or modified for the “development” or “production” of:
 
-- 4E TECHNOLOGY 4E001 (a) “Technology” according to the General Technology Note, for the “development”, “production” or “use” of equipment or “software” controlled by 4A or 4D; (L.N. 65 of 2004)
+      - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.25 Weighted TeraFLOPS (WT); or (L.N. 226 of 2009; L.N. 45 of 2010)
 
-  - (b) “Technology”, other than that controlled by 4E001(a), specially designed or modified for the “development” or “production” of:
+      - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4E001(b)(1); (L.N. 65 of 2004; L.N. 95 of 2006) TECHNICAL NOTE ON “ADJUSTED PEAK
 
-    - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.1 Weighted TeraFLOPS (WT); or (L.N. 226 of 2009)
+      - PERFORMANCE” (“APP”)
 
-    - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4E001(b)(1); (L.N. 65 of 2004; L.N. 95 of 2006) TECHNICAL NOTE ON “ADJUSTED PEAK
+    - “APP” is an adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications.
 
-    - PERFORMANCE” (“APP”)
+    - Abbreviations used in this Technical Note:
 
-  - “APP” is an adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications.
+    - n number of processors in the “digital computer”
 
-  - Abbreviations used in this Technical Note:
+    - i processor number (i, . . . n)
 
-  - n number of processors in the “digital computer”
+    - ti processor cycle time (ti = 1/Fi)
 
-  - i processor number (i, . . . n)
+    - Fi processor frequency
 
-  - ti processor cycle time (ti = 1/Fi)
+    - Ri peak floating point calculating rate
 
-  - Fi processor frequency
+    - Wi architecture adjustment factor
 
-  - Ri peak floating point calculating rate
+    - ”APP” is expressed in Weighted TeraFLOPS (WT), in units of 1012 adjusted floating point operations per second.
 
-  - Wi architecture adjustment factor
-
-  - ”APP” is expressed in Weighted TeraFLOPS (WT), in units of 1012 adjusted floating point operations per second.
-
-  - Outline of the “APP” calculation method:
+    - Outline of the “APP” calculation method:
 
 - 1. For each processor i, determine the peak number of 64-bit or larger floating point operations, FPOi, performed per cycle for each processor in the ‘digital computer”. Note:
 
@@ -6638,7 +6652,9 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
 - Notes:
 
-- 1. The control status of components, “lasers”, test and “production” equipment and “software” therefor which are specially designed for telecommunications equipment or systems is determined in Category 5, Part 1.
+- 1. The status of components, test and “production” equipment and “software” therefor which are specially designed for telecommunications equipment or systems is determined in Category 5, Part 1. (L.N. 45 of 2010) N.B.:
+
+- For “lasers” specially designed for telecommunications equipment or systems, see 6A005. (L.N. 45 of 2010)
 
 - 2. “Digital computers”, related equipment or “software”, when essential for the operation and support of telecommunications equipment described in this Category, are regarded as specially designed components, provided they are the standard models customarily supplied by the manufacturer. This includes operation, administration, maintenance, engineering or billing computer systems. 5A1 SYSTEMS, EQUIPMENT AND COMPONENTS 5A001 (a) Any type of telecommunications equipment having any of the following characteristics, functions or features:
 
@@ -6774,7 +6790,11 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - (h) Electronic equipment designed or modified to prematurely activate or prevent the initiation of Radio Controlled Improvised Explosive Devices (RCIEDs); N.B.:
 
-    - See also the Munitions List. (L.N. 226 of 2009) 5A101 Telemetering and telecontrol equipment, including ground equipment, designed or modified for ‘missiles’; Technical Note: In 5A101, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km. Note:
+    - See also the Munitions List. (L.N. 226 of 2009) 5A101 Telemetering and telecontrol equipment, including ground equipment, designed or modified for ‘missiles’;
+
+    - Technical Note: In 5A101, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km.
+
+    - Note:
 
     - 5A101 does not control:
 
@@ -6796,9 +6816,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - (b) Equipment and specially designed components or accessories therefor, specially designed for the “development” of any of the following telecommunications transmission or switching equipment: (36 of 2000 s. 28; L.N. 65 of 2004)
 
-        - (1) Equipment employing digital techniques designed to operate at a “total digital transfer rate” exceeding 15 Gbit/s; Technical Note:
-
-        - For switching equipment, the “total digital transfer rate” is measured at the highest speed port or line. (L.N. 65 of 2004)
+        - (1) (Repealed L.N. 45 of 2010)
 
         - (2) Equipment employing a “laser” and having any of the following:
 
@@ -6814,7 +6832,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - 5B001(b)(2)(d) does not control equipment specially designed for the “development” of commercial TV systems.
 
-      - (3) Equipment employing “optical switching”;
+      - (3) (Repealed L.N. 45 of 2010)
 
       - (4) Radio equipment employing quadrature-amplitude-modulation (QAM) techniques above level 256; or (L.N. 132 of 2001)
 
@@ -6832,21 +6850,19 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - (d) “Software” specially designed or modified for the “development” of any of the following telecommunications transmission or switching equipment: (36 of 2000 s. 28; L.N. 65 of 2004)
 
-      - (1) Equipment employing digital techniques designed to operate at a “total digital transfer rate” exceeding 15 Gbit/s; (L.N. 65 of 2004) Technical Note:
-
-      - For switching equipment, the “total digital transfer rate” is measured at the highest speed port or line. (L.N. 65 of 2004)
+      - (1) (Repealed L.N. 45 of 2010)
 
       - (2) Equipment employing a “laser” and having any of the following:
 
         - (a) A transmission wavelength exceeding 1750 nm; or
 
-        - (b) Employing analogue techniques and having a bandwidth exceeding 2.5 GHz;
+        - (b) Employing analogue techniques and having a bandwidth exceeding 2.5 GHz; or (L.N. 45 of 2010)
 
     - Note:
 
     - 5D001(d)(2)(b) does not control “software” specially designed for the “development” of commercial TV systems. (L.N. 132 of 2001)
 
-      - (3) Equipment employing “optical switching”; or
+      - (3) (Repealed L.N. 45 of 2010)
 
       - (4) Radio equipment employing quadrature-amplitude-modulation (QAM) techniques above level 256; (L.N. 132 of 2001; L.N. 65 of 2004)
 
@@ -6868,9 +6884,9 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - (c) “Technology” according to the General Technology Note for the “development” or “production” of any of the following telecommunications transmission or switching equipment, functions or features: (36 of 2000 s. 28; L.N. 65 of 2004)
 
-      - (1) Equipment employing digital techniques designed to operate at a “total digital transfer rate” exceeding 15 Gbit/s; (L.N. 65 of 2004) Technical Note:
+      - (1) Equipment employing digital techniques designed to operate at a “total digital transfer rate” exceeding 50 Gbit/s; (L.N. 65 of 2004; L.N. 45 of 2010) Technical Note:
 
-      - For switching equipment, the “total digital transfer rate” is measured at the highest speed port or line. (L.N. 65 of 2004)
+      - For telecommunications switching equipment, the “total digital transfer rate” is the unidirectional speed of a single interface, measured at the highest speed port or line. (L.N. 45 of 2010)
 
       - (2) Equipment employing a “laser” and having any of the following:
 
@@ -6890,7 +6906,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - For “technology” for the “development” or “production” of non-telecommunications equipment employing a laser, see 6E. (L.N. 226 of 2009)
 
-      - (3) Equipment employing “optical switching”;
+      - (3) Equipment employing “optical switching” and having a switching time less than 1 ms; (L.N. 45 of 2010)
 
       - (4) Radio equipment having any of the following:
 
@@ -6934,13 +6950,13 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - Notes:
 
-    - 1. The control status of “information security” equipment, “software”, systems, application specific “electronic assemblies”, modules, integrated circuits, components or functions is determined in Category 5, Part 2 even if they are components or “electronic assemblies” of other equipment. (L.N. 226 of 2009)
+    - 1. The status of “information security” equipment, “software”, systems, application specific “electronic assemblies”, modules, integrated circuits, components or functions is determined in Category 5, Part 2 even if they are components or “electronic assemblies” of other equipment. (L.N. 226 of 2009; L.N. 45 of 2010)
 
-    - 2. Category 5-Part 2 does not control products when accompanying their user for the user’s personal use.
+    - 2. Category 5-Part 2 does not apply to products when accompanying their user for the user’s personal use. (L.N. 45 of 2010)
 
     - 3. Cryptography Note:
 
-    - 5A002 and 5D002 do not control items that meet all of the following:
+    - 5A002 and 5D002 do not apply to items that meet all of the following: (L.N. 45 of 2010)
 
     - (a) Generally available to the public by being sold, without restriction, from stock at retail selling points by means of any of the following:
 
@@ -6958,19 +6974,41 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - (d) Deleted; (L.N. 132 of 2001)
 
-      - (e)
+      - (e) When necessary, details of the items are accessible and will be provided, upon request, to the appropriate authority in the exporter’s country in order to ascertain compliance with conditions described in paragraphs (a) to (c) above. (L.N. 132 of 2001)
 
-      - When necessary, details of the items are accessible and will be provided, upon request, to the appropriate authority in the exporter’s country in order to ascertain compliance with conditions described in paragraphs (a) to (c) above. (L.N. 132 of 2001)
+        - 4. Category 5-Part 2 does not apply to items incorporating or using “cryptography” and meeting all of the following:
 
-      - Technical Note:
+      - (a) The primary function or set of functions is not any of the following:
 
-      - In Category 5-Part 2, parity bits are not included in the key length.
+        - (1) “Information security”;
 
-      - 5A2 SYSTEMS, EQUIPMENT AND COMPONENTS 5A002 (a) Systems, equipment, application specific “electronic assemblies”, modules and integrated circuits for “information security”, as follows, and other specially designed components therefor:
+        - (2) A computer, including operating systems, parts and components of the computer;
+
+        - (3) Sending, receiving or storing information (except in support of entertainment, mass commercial broadcasts, digital rights management or medical records management);
+
+        - (4) Networking (includes operation, administration, management and provisioning);
+
+      - (b) The cryptographic functionality is limited to supporting their primary function or set of functions;
+
+      - (c) When necessary, details of the items are accessible and will be provided, upon request, to the appropriate authority in the exporter’s country in order to ascertain compliance with conditions described in paragraphs (a) and (b) above.
+
+  - (L.N. 45 of 2010)
+
+    - Technical Note:
+
+    - In Category 5-Part 2, parity bits are not included in the key length.
+
+    - 5A2 SYSTEMS, EQUIPMENT AND COMPONENTS
+
+    - 5A002 “Information security” systems, their equipment and components, as follows:
+
+      - (a)
+
+      - Systems, equipment, application specific “electronic assemblies”, modules and integrated circuits for “information security”, as follows, and their components specially designed for “information security”:
 
       - N.B.:
 
-      - For the control of global navigation satellite systems receiving equipment containing or employing decryption (i.e. GPS or GLONASS), see 7A005.
+      - For Global Navigation Satellite Systems (GNSS) receiving equipment containing or employing decryption, see 7A005. (L.N. 45 of 2010)
 
         - (1)
 
@@ -6984,89 +7022,87 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
           - 3. “Cryptography” does not include “fixed” data compression or coding techniques.
 
-        - Note:
+    - Note:
 
-        - 5A002(a)(1) includes equipment designed or modified to use “cryptography” employing analogue principles when implemented with digital techniques.
+    - 5A002(a)(1) includes equipment designed or modified to use “cryptography” employing analogue principles when implemented with digital techniques.
 
-          - (a) A “symmetric algorithm” employing a key length in excess of 56 bits; or
+      - (a) A “symmetric algorithm” employing a key length in excess of 56 bits; or
 
-          - (b) An “asymmetric algorithm” where the security of the algorithm is based on any of the following:
+      - (b) An “asymmetric algorithm” where the security of the algorithm is based on any of the following:
 
-            - (1) Factorization of integers in excess of 512 bits (e.g., RSA);
+        - (1) Factorization of integers in excess of 512 bits (e.g., RSA);
 
-            - (2) Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g., Diffie-Hellman over Z/pZ); or
+        - (2) Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g., Diffie-Hellman over Z/pZ); or
 
-            - (3) Discrete logarithms in a group other than mentioned in 5A002(a)(1)(b)(2) in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve);
+        - (3) Discrete logarithms in a group other than mentioned in 5A002(a)(1)(b)(2) in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve);
 
-        - (2) Designed or modified to perform cryptanalytic functions;
+          - (2) Designed or modified to perform cryptanalytic functions;
 
-        - (3) Deleted;
+          - (3) Deleted;
 
-        - (4) Specially designed or modified to reduce the compromising emanations of information-bearing signals beyond what is necessary for health, safety or electromagnetic interference standards;
+          - (4) Specially designed or modified to reduce the compromising emanations of information-bearing signals beyond what is necessary for health, safety or electromagnetic interference standards;
 
-        - (5) Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” systems not controlled by 5A002(a)(6), including the hopping code for “frequency hopping” systems; (L.N. 132 of 2001; L.N. 95 of 2006)
+          - (5) Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” systems not controlled by 5A002(a)(6), including the hopping code for “frequency hopping” systems; (L.N. 132 of 2001; L.N. 95 of 2006)
 
-        - (6) Designed or modified to use cryptographic techniques to generate channelizing codes, scrambling codes or network identification codes, for systems using ultra-wideband modulation techniques, and having any of the following characteristics:
+          - (6) Designed or modified to use cryptographic techniques to generate channelizing codes, scrambling codes or network identification codes, for systems using ultra-wideband modulation techniques, and having any of the following characteristics:
 
-          - (a) A bandwidth exceeding 500 MHz; or
+      - (a) A bandwidth exceeding 500 MHz; or
 
-          - (b) A “fractional bandwidth” of 20% or more; (L.N. 95 of 2006)
+      - (b) A “fractional bandwidth” of 20% or more; (L.N. 95 of 2006)
 
         - (7) Non-cryptographic information and communications technology (ICT) security systems and devices evaluated to an assurance level exceeding class EAL-6 (evaluation assurance level) of the Common Criteria (CC) or equivalent; (L.N. 226 of 2009)
 
         - (8) Communications cable systems designed or modified using mechanical, electrical or electronic means to detect surreptitious intrusion; (L.N. 65 of 2004)
 
-        - (9) Designed or modified to use “quantum cryptography”; Technical Note: “Quantum cryptography” is also known as quantum key distribution (QKD). (L.N. 95 of 2006)
+        - (9) Designed or modified to use “quantum cryptography”; Technical Note:
 
-        - Note:
+    - “Quantum cryptography” is also known as quantum key distribution (QKD). (L.N. 95 of 2006)
 
-        - 5A002 does not include any of the following: (L.N. 254 of 2008)
+    - Note:
 
-        - (a) “Personalized smart cards”:
+    - 5A002 does not include any of the following: (L.N. 254 of 2008)
 
-          - (1) Where the cryptographic capability is restricted for use in equipment or systems excluded from 5A002 Notes (b) to (g); or (L.N. 254 of 2008)
+      - (a) Smart cards and smart card ‘readers/writers’ as follows:
 
-          - (2) For general public-use applications where the cryptographic capability is not user-accessible and it is specially designed and limited to allow protection of personal data stored within;
+        - (1) A smart card or an electronically readable personal document (e.g., token coin, e-passport) that meets any of the following:
 
-        - N.B.:
+          - (a) The cryptographic capability is restricted for use in equipment or systems excluded from 5A002 by Note 4 in Category 5, Part 2 or paragraphs (d), (e), (f), (g) and (i) of this Note, and cannot be reprogrammed for any other use;
 
-        - If a “personalized smart card” has multiple functions, the control status of each function is assessed individually. (L.N. 65 of 2004)
+          - (b) Having all of the following:
 
-        - (b) Receiving equipment for radio broadcast, pay television or similar restricted audience broadcast of the consumer type, without digital encryption except that exclusively used for sending the billing or programme-related information back to the broadcast providers; (L.N. 132 of 2001)
+            - (1) It is specially designed and limited to allow protection of ‘personal data’ stored within;
 
-        - (c) Equipment where the cryptographic capability is not user-accessible and which is specially designed and limited to allow any of the following:
+            - (2) Has been, or can only be, personalized for public or commercial transactions or individual identification;
 
-          - (1) Execution of copy-protected software;
+            - (3) Where the cryptographic capability is not user-accessible;
 
-          - (2) Access to any of the following:
+          - Technical Note:
 
-            - (a) Copy-protected contents stored on read-only media; or (L.N. 132 of 2001)
+          - ’Personal data’ includes any data specific to a particular person or entity, such as the amount of money stored and data necessary for authentication.
 
-            - (b) Information stored in encrypted form on media (e.g., in connection with the protection of intellectual property rights) when the media is offered for sale in identical sets to the public; (L.N. 95 of 2006)
+        - (2) ‘Readers/writers’ specially designed or modified, and limited, for items specified by (a)(1) of this Note;
 
-          - (3) Copying control of copyright protected audio/video data; or (L.N. 65 of 2004; L.N. 95 of 2006)
+        - Technical Note:
 
-          - (4) Encryption or decryption or both for protection of libraries, design attributes, or associated data for the design of semiconductor devices or integrated circuits; (L.N. 95 of 2006)
+      - ‘Readers/writers’ include equipment that communicates with smart cards or electronically readable documents through a network. (L.N. 45 of 2010)
 
-        - (d) Cryptographic equipment specially designed and limited for banking use or money transactions; Technical Note:
+      - (b) Deleted; (L.N. 45 of 2010)
 
-        - ”Money transactions” in 5A002 Note (d) includes the collection and settlement of fares or credit functions.
+      - (c) Deleted; (L.N. 45 of 2010)
 
-        - (e) Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radiocommunications systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC)); (L.N. 254 of 2008)
+      - (d) Cryptographic equipment specially designed and limited for banking use or money transactions; Technical Note:
 
-        - (f) Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e. a single, unrelayed hop between terminal and home basestation) is less than 400 metres according to the manufacturer’s specifications; (L.N. 254 of 2008)
+      - ”Money transactions” in 5A002 Note (d) includes the collection and settlement of fares or credit functions.
 
-        - (g) Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs (b) to (e) of the Cryptography Note (Note 3 in Category 5, Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices; (L.N. 254 of 2008; L.N. 226 of 2009)
+      - (e) Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radiocommunications systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC)); (L.N. 254 of 2008)
 
-        - (h) Equipment specially designed for the servicing of portable or mobile radiotelephones and similar client wireless devices that meet all the provisions of the Cryptography Note (Note 3 in Category 5, Part 2), where the servicing equipment meets all of the following:
+      - (f) Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e. a single, unrelayed hop between terminal and home basestation) is less than 400 metres according to the manufacturer’s specifications; (L.N. 254 of 2008)
 
-          - (1) The cryptographic functionality of the servicing equipment cannot easily be changed by the user of the equipment;
+      - (g) Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs (b) to (e) of the Cryptography Note (Note 3 in Category 5, Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices; (L.N. 254 of 2008; L.N. 226 of 2009)
 
-          - (2) The servicing equipment is designed for installation without further substantial support by the supplier;
+      - (h) Deleted; (L.N. 45 of 2010)
 
-          - (3) The servicing equipment cannot change the cryptographic functionality of the device being serviced; (L.N. 226 of 2009)
-
-        - (i) Wireless “personal area network” equipment that implement only published or commercial cryptographic standards, where the cryptographic capability is limited to a nominal operating range not exceeding 30 metres according to the manufacturer’s specifications. (L.N. 226 of 2009) 5B2 TEST, INSPECTION AND PRODUCTION EQUIPMENT (L.N. 65 of 2004) 5B002 “Information security” test, inspection and “production” equipment, as follows:
+      - (i) Wireless “personal area network” equipment that implement only published or commercial cryptographic standards, where the cryptographic capability is limited to a nominal operating range not exceeding 30 metres according to the manufacturer’s specifications. (L.N. 226 of 2009) 5B2 TEST, INSPECTION AND PRODUCTION EQUIPMENT (L.N. 65 of 2004) 5B002 “Information security” test, inspection and “production” equipment, as follows:
 
     - (a) Equipment specially designed for the “development” or “production” of equipment specified in 5A002 or 5B002(b);
 
@@ -8400,7 +8436,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - Note:
 
-    - 6A108(a) includes the following:
+    - 6A108(a) Includes the following:
 
       - (a) Terrain contour mapping equipment;
 
@@ -10098,53 +10134,77 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
     - Notes:
 
-    - 1. Definitions apply throughout both the Munitions List and Dual-use Goods List. The references are purely advisory and have no effect on the universal application of defined terms throughout these Lists.
+      - 1. Definitions apply throughout both the Munitions List and Dual-use Goods List. The references are purely advisory and have no effect on the universal application of defined terms throughout these Lists.
 
-    - 2.
+      - 2.
 
-    - Words and terms contained in the Definitions of Terms only take the defined meaning where this is indicated by their being enclosed in quotations marks (“ “). Elsewhere, words and terms take their commonly accepted (dictionary) meanings, unless a local definition for a particular control is given. (L.N. 183 of 1999)
+      - Words and terms contained in the Definitions of Terms only take the defined meaning where this is indicated by their being enclosed in quotations marks (“ “). Elsewhere, words and terms take their commonly accepted (dictionary) meanings, unless a local definition for a particular control is given. (L.N. 183 of 1999)
 
-      - 3 6 “III/V compounds” (III/V 化合物) Polycrystalline or binary or complex monocrystalline products consisting of elements of groups IIIA and VA of Mendeleyev’s periodic classification table (e.g., gallium arsenide, gallium-aluminium arsenide, indium phosphide). (L.N. 254 of 2008)
+        - 3 6 “III/V compounds” (III/V 化合物)
 
-      - 2 6 “Accuracy” (精度) (Usually measured in terms of inaccuracy) is the maximum deviation, positive or negative, of an indicated value from an accepted standard or true value.
+        - Polycrystalline or binary or complex monocrystalline products consisting of elements of groups IIIA and VA of Mendeleyev’s periodic classification table (e.g., gallium arsenide, gallium-aluminium arsenide, indium phosphide). (L.N. 254 of 2008)
 
-      - 7 “Active flight control systems” (主動飛控系統) Function to prevent undesirable “aircraft” and missile motions or structural loads by autonomously processing outputs from multiple sensors and then providing necessary preventive commands to effect automatic control.
+        - 2 6 “Accuracy” (精度) (Usually measured in terms of inaccuracy) is the maximum deviation, positive or negative, of an indicated value from an accepted standard or true value.
 
-      - 6 8 “Active pixel” (工作像元) A minimum (single) element of the solid state array which has a photoelectric transfer function when exposed to light (electromagnetic) radiation.
+        - 7 “Active flight control systems” (主動飛控系統) Function to prevent undesirable “aircraft” and missile motions or structural loads by autonomously processing outputs from multiple sensors and then providing necessary preventive commands to effect automatic control.
 
-      - 1 “Adapted for use in war” (經修改作戰爭用途) ML7 Any modification or selection (such as altering purity, shelf life, virulence, dissemination characteristics, or resistance to UV radiation) designed to increase the effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment.
+        - 6 8 “Active pixel” (工作像元) A minimum (single) element of the solid state array which has a photoelectric transfer function when exposed to light (electromagnetic) radiation.
 
-      - ML8 “Additives” (添加劑) Substances used in explosive formulations to improve their properties.
+        - 1 “Adapted for use in war” (經修改作戰爭用途)
 
-      - 1 7 9 “Aircraft” (飛機)
+        - ML7 Any modification or selection (such as altering purity, shelf life, virulence, dissemination characteristics, or resistance to UV radiation) designed to increase the effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment.
 
-      - ML8 | A fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne
+        - ML8 “Additives” (添加劑) Substances used in explosive formulations to improve their properties.
 
-      - ML10 | vehicle. (See also “civil aircraft”)
+        - 1 7 9 “Aircraft” (飛機)
 
-      - ML14
+        - ML8 | A fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne
 
-      - 2 “All compensations available” (所有補償機制) “All compensations available” means after all feasible measures available to the manufacturer to minimize all systematic positioning errors for the particular machine-tool model are considered. (L.N. 132 of 2001)
+        - ML10 | vehicle. (See also “civil aircraft”)
 
-      - 3 5 “Allocated by the ITU” (由國際電信聯盟指配) The allocation of frequency bands according to the current edition of the ITU Radio Regulations for primary, permitted and secondary services. (L.N. 95 of 2006) N.B.: Additional and alternative allocations are not included. (L.N. 132 of 2001)
+        - ML14
 
-      - 7 “Angle random walk” (角度隨機遊走) The angular error build-up with time that is due to white noise in angular rate (IEEE STD 528-2001). (L.N. 254 of 2008)
+        - 2 “All compensations available” (所有補償機制)
 
-      - 2 “Angular position deviation” (角位置誤差) The maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position. (Reference: VDI/VDE 2617, Draft: “Rotary tables on coordinate measuring machines”).
+        - “All compensations available” means after all feasible measures available to the manufacturer to minimize all systematic positioning errors for the particular machine-tool model are considered. (L.N. 132 of 2001)
 
-      - 0 1 9 “ASTM” The American Society for Testing and Materials.
+        - 3 5 “Allocated by the ITU” (由國際電信聯盟指配)
 
-      - 5 “Asymmetric algorithm” (非對稱演算法) A cryptographic algorithm using different, mathematically-related keys for encryption and decryption. Technical Note: (L.N. 132 of 2001)
+        - The allocation of frequency bands according to the current edition of the ITU Radio Regulations for primary, permitted and secondary services. (L.N. 95 of 2006)
 
-      - A common use of “asymmetric algorithms” is key management. (L.N. 183 of 1999)
+        - N.B.:
 
-      - ML11 “Automated Command and Control Systems” (自動化指揮及控制系統) Electronic systems, through which information essential to the effective operation of the grouping, major formation, tactical formation, unit, ship, sub-unit or weapons under command is entered, processed and transmitted. This is achieved by the use of computer and other specialised hardware designed to support the functions of a military command and control organization. The main functions of an automated command and control system are: the efficient automated collection, accumulation, storage and processing of information; the display of the situation and the circumstances affecting the preparation and conduct of combat operations; operational and tactical calculations for the allocation of resources among force groupings or elements of the operational order of battle or battle deployment according to the mission or stage of the operation; the preparation of data for appreciation of the situation and decision-making at any point during operation or battle; computer simulation of operations. (L.N. 226 of 2009)
+        - Additional and alternative allocations are not included. (L.N. 132 of 2001)
 
-      - 6 “Automatic target tracking” (自動目標追蹤) A processing technique that automatically determines and provides as output an extrapolated value of the most probable position of the target in real time.
+        - 7 “Angle random walk” (角度隨機遊走)
 
-      - 6 “Average output power” (平均輸出功率) The total “laser” output energy in joules divided by the “laser duration” in seconds. (L.N. 254 of 2008)
+        - The angular error build-up with time that is due to white noise in angular rate (IEEE STD 528-2001). (L.N. 254 of 2008)
 
-      - 3 “Basic gate propagation delay time” (基本閘傳遞延遲時間) The propagation delay time value corresponding to the basic gate used in a “monolithic integrated circuit”. For a ‘family’ of “monolithic integrated circuits”, this may be specified either as the propagation delay time per typical gate within the given ‘family’ or as the typical propagation delay time per gate within the given ‘family’. Technical Notes:
+        - 2 “Angular position deviation” (角位置誤差)
+
+        - The maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position. (Reference: VDI/VDE 2617, Draft: “Rotary tables on coordinate measuring machines”).
+
+        - 0 1 9 “ASTM” The American Society for Testing and Materials.
+
+        - 5 “Asymmetric algorithm” (非對稱演算法)
+
+        - A cryptographic algorithm using different, mathematically-related keys for encryption and decryption.
+
+        - Technical Note: (L.N. 132 of 2001)
+
+        - A common use of “asymmetric algorithms” is key management. (L.N. 183 of 1999)
+
+        - ML11 “Automated Command and Control Systems” (自動化指揮及控制系統)
+
+        - Electronic systems, through which information essential to the effective operation of the grouping, major formation, tactical formation, unit, ship, sub-unit or weapons under command is entered, processed and transmitted. This is achieved by the use of computer and other specialised hardware designed to support the functions of a military command and control organization. The main functions of an automated command and control system are: the efficient automated collection, accumulation, storage and processing of information; the display of the situation and the circumstances affecting the preparation and conduct of combat operations; operational and tactical calculations for the allocation of resources among force groupings or elements of the operational order of battle or battle deployment according to the mission or stage of the operation; the preparation of data for appreciation of the situation and decision-making at any point during operation or battle; computer simulation of operations. (L.N. 226 of 2009)
+
+        - 6 “Automatic target tracking” (自動目標追蹤) A processing technique that automatically determines and provides as output an extrapolated value of the most probable position of the target in real time.
+
+        - 6 “Average output power” (平均輸出功率)
+
+        - The total “laser” output energy in joules divided by the “laser duration” in seconds. (L.N. 254 of 2008)
+
+        - 3 “Basic gate propagation delay time” (基本閘傳遞延遲時間) The propagation delay time value corresponding to the basic gate used in a “monolithic integrated circuit”. For a ‘family’ of “monolithic integrated circuits”, this may be specified either as the propagation delay time per typical gate within the given ‘family’ or as the typical propagation delay time per gate within the given ‘family’. Technical Notes:
 
         - 1. “Basic gate propagation delay time” is not to be confused with the input/output delay time of a complex “monolithic integrated circuit”.
 
@@ -10154,21 +10214,37 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
           - (b) The common design and process technology; and
 
-          - (c) The common basic characteristics. (L.N. 132 of 2001)
+          - (c)
 
-      - GTN “Basic scientific research” (基本科學研究) NTN Experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective.
+          - The common basic characteristics. (L.N. 132 of 2001)
 
-      - 6 “Beat length” (拍頻長度) The distance over which two orthogonally polarised signals, initially in phase, must pass in order to achieve a 2 Pi radian(s) phase difference.
+            - GTN “Basic scientific research” (基本科學研究)
 
-      - 7 “Bias” (accelerometer) (原偏置) (加速度計) The average over a specified time of accelerometer output measured at specified operating conditions that has no correlation with input acceleration or rotation. “Bias” is expressed in [m/s2, g] (IEEE STD 528-2001) (micro g equals 1 × 10-6 g). (L.N. 254 of 2008)
+            - NTN Experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective.
 
-      - 7 “Bias” (gyro) (原偏置) (陀螺儀) The average over a specified time of gyro output measured at specified operating conditions that has no correlation with input rotation or acceleration. “Bias” is typically expressed in degrees per hour (deg/h) (IEEE STD 528-2001). (L.N. 254 of 2008)
+            - 6 “Beat length” (拍頻長度)
 
-      - ML7 “Biocatalysts” (生物催化劑) Enzymes for specific chemical or biochemical reactions or other biological compounds which bind to and accelerate the degradation of CW agents. Technical Note:
+            - The distance over which two orthogonally polarised signals, initially in phase, must pass in order to achieve a 2 Pi radian(s) phase difference.
 
-      - ’Enzymes’ means “biocatalysts” for specific chemical or biochemical reactions. (L.N. 132 of 2001)
+            - 7 “Bias” (accelerometer) (原偏置) (加速度計)
 
-      - ML7 “Biopolymers” (生物聚合物) Biological macromolecules as follows:
+            - The average over a specified time of accelerometer output measured at specified operating conditions that has no correlation with input acceleration or rotation. “Bias” is expressed in [m/s2, g] (IEEE STD 528-2001) (micro g equals 1 × 10-6 g). (L.N. 254 of 2008)
+
+            - 7 “Bias” (gyro) (原偏置) (陀螺儀)
+
+            - The average over a specified time of gyro output measured at specified operating conditions that has no correlation with input rotation or acceleration. “Bias” is typically expressed in degrees per hour (deg/h) (IEEE STD 528-2001). (L.N. 254 of 2008)
+
+            - ML7 “Biocatalysts” (生物催化劑)
+
+            - Enzymes for specific chemical or biochemical reactions or other biological compounds which bind to and accelerate the degradation of CW agents.
+
+            - Technical Note:
+
+            - ’Enzymes’ means “biocatalysts” for specific chemical or biochemical reactions. (L.N. 132 of 2001)
+
+            - ML7 “Biopolymers” (生物聚合物)
+
+            - Biological macromolecules as follows:
 
         - (a) Enzymes for specific chemical or biochemical reactions;
 
@@ -10184,45 +10260,59 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
         - 3. ‘Polyclonal antibodies’ means a mixture of proteins which bind to the specific antigen and are produced by more than one clone of cells.
 
-        - 4. “Receptors” means biological macromolecular structures capable of binding ligands, the binding of which affects physiological functions. (L.N. 183 of 1999)
+        - 4.
 
-      - 2 “Camming” (axial displacement) (軸向移位) Axial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle faceplate, at a point next to the circumference of the spindle faceplate (Reference: ISO 230/1 1986, paragraph 5.63).
+        - “Receptors” means biological macromolecular structures capable of binding ligands, the binding of which affects physiological functions. (L.N. 183 of 1999)
 
-      - 1 “Carbon fibre preforms” (碳纖維預製成形品) An ordered arrangement of uncoated or coated fibres intended to constitute a framework of a part before the “matrix” is introduced to form a “composite”. (L.N. 183 of 1999) 4 “CE”
+          - 2 “Camming” (axial displacement) (軸向移位) Axial displacement in one revolution of the main spindle measured in a plane perpendicular to the spindle faceplate, at a point next to the circumference of the spindle faceplate (Reference: ISO 230/1 1986, paragraph 5.63).
 
-      - ”CE” is equivalent to “computing element”. (L.N. 183 of 1999)
+          - 1 “Carbon fibre preforms” (碳纖維預製成形品)
 
-      - 6 “Chemical laser” (化學雷射器) A “laser” in which the excited species is produced by the output energy from a chemical reaction.
+          - An ordered arrangement of uncoated or coated fibres intended to constitute a framework of a part before the “matrix” is introduced to form a “composite”. (L.N. 183 of 1999)
 
-      - 7 “Circle of equal probability” (CEP) (圓徑概率誤差) A measure of accuracy defined as the radius of the circle centred at the target, at a specific range, in which 50% of the payloads impact.
+          - 4 “CE”
 
-      - Def. “Circuit element” (電路元件) A single active or passive functional part of an electronic circuit which may be a diode, a transistor, a resistor or a capacitor.
+          - “CE” is equivalent to “computing element”. (L.N. 183 of 1999)
 
-      - 7 “Circulation-controlled anti-torque or circulation-controlled directional control systems” (循環控制式反力矩或循環控制式方向控制系統) Systems that use air blown over aerodynamic surfaces to increase or control the forces generated by the surfaces.
+          - 6 “Chemical laser” (化學雷射器) A “laser” in which the excited species is produced by the output energy from a chemical reaction.
 
-      - 1 7 9 “Civil aircraft” (民用飛機) ML10 Those “aircraft” listed by designation in published airworthiness certification lists by the civil aviation authorities to fly commercial civil internal and external routes or for legitimate civil, private or business use. (See also “aircraft”) (L.N. 183 of 1999)
+          - 7 “Circle of equal probability” (CEP) (圓徑概率誤差) A measure of accuracy defined as the radius of the circle centred at the target, at a specific range, in which 50% of the payloads impact.
 
-      - 1 “Commingled” (混合) Filament to filament blending of thermoplastic fibres and reinforcement fibres in order to produce a fibre reinforcement “matrix” mix in total fibre form. (L.N. 132 of 2001)
+          - Def. “Circuit element” (電路元件) A single active or passive functional part of an electronic circuit which may be a diode, a transistor, a resistor or a capacitor.
 
-      - 1 “Comminution” (粉碎) A process to reduce a material to particles by crushing or grinding.
+          - 7 “Circulation-controlled anti-torque or circulation-controlled directional control systems” (循環控制式反力矩或循環控制式方向控制系統) Systems that use air blown over aerodynamic surfaces to increase or control the forces generated by the surfaces.
 
-      - 5 “Common channel signalling” (共通道訊號制) A signalling method in which a single channel between exchanges conveys, by means of labelled messages, signalling information relating to a multiplicity of circuits or calls and other information such as that used for network management.
+          - 1 7 9 “Civil aircraft” (民用飛機)
 
-      - 4 “Communications channel controller” (通訊頻道控制器) The physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access. (L.N. 183 of 1999)
+          - ML10 Those “aircraft” listed by designation in published airworthiness certification lists by the civil aviation authorities to fly commercial civil internal and external routes or for legitimate civil, private or business use. (See also “aircraft”) (L.N. 183 of 1999)
 
-      - 6 “Compensation systems” (補償系統) Consist of the primary scalar sensor, one or more reference sensors (e.g. vector magnetometers) together with software that permit reduction of rigid body rotation noise of the platform. (L.N. 254 of 2008)
+          - 1 “Commingled” (混合)
 
-      - 1 2 6 8 “Composite” (複合、複合物) 9 A “matrix” and an additional phase or additional phases consisting of particles, whiskers, fibres or any combination thereof, present for a specific purpose or purposes.
+          - Filament to filament blending of thermoplastic fibres and reinforcement fibres in order to produce a fibre reinforcement “matrix” mix in total fibre form. (L.N. 132 of 2001)
 
-      - 3 4 “Composite theoretical performance” (“CTP”) (合成理論效能) A measure of computational performance given in millions of theoretical operations per second (Mtops), calculated using the aggregation of “computing elements”. N.B.: See Category 4, Technical Note. (L.N. 183 of 1999)
+          - 1 “Comminution” (粉碎) A process to reduce a material to particles by crushing or grinding.
 
-      - 2 “Compound rotary table” (合成旋轉台) A table allowing the workpiece to rotate and tilt about two non-parallel axes, which can be coordinated simultaneously for “contouring control”.
+          - 5 “Common channel signalling” (共通道訊號制) A signalling method in which a single channel between exchanges conveys, by means of labelled messages, signalling information relating to a multiplicity of circuits or calls and other information such as that used for network management.
 
-      - 4 “Computing element” (“CE”) (計算元件) The smallest computational unit that produces an arithmetic or logic result.
+          - 4 “Communications channel controller” (通訊頻道控制器) The physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access. (L.N. 183 of 1999)
 
-      - 2 “Contouring control” (輪廓控制) Two or more “numerically controlled” motions operating in accordance with instructions that specify the next required position and the required feed rates to that position. These feed rates are varied in relation to each other so that a desired contour is generated (Ref. ISO/DIS 2806-1980).
+          - 6 “Compensation systems” (補償系統)
 
-      - ML3 “Conventional unguided projectiles” (常規非制導式投射物) Are those which do not incorporate:
+          - Consist of the primary scalar sensor, one or more reference sensors (e.g. vector magnetometers) together with software that permit reduction of rigid body rotation noise of the platform. (L.N. 254 of 2008)
+
+          - 1 2 6 8 “Composite” (複合、複合物)
+
+          - 9 A “matrix” and an additional phase or additional phases consisting of particles, whiskers, fibres or any combination thereof, present for a specific purpose or purposes.
+
+          - 3 4 “Composite theoretical performance” (“CTP”) (合成理論效能) A measure of computational performance given in millions of theoretical operations per second (Mtops), calculated using the aggregation of “computing elements”. N.B.: See Category 4, Technical Note. (L.N. 183 of 1999)
+
+          - 2 “Compound rotary table” (合成旋轉台) A table allowing the workpiece to rotate and tilt about two non-parallel axes, which can be coordinated simultaneously for “contouring control”.
+
+          - 4 “Computing element” (“CE”) (計算元件) The smallest computational unit that produces an arithmetic or logic result.
+
+          - 2 “Contouring control” (輪廓控制) Two or more “numerically controlled” motions operating in accordance with instructions that specify the next required position and the required feed rates to that position. These feed rates are varied in relation to each other so that a desired contour is generated (Ref. ISO/DIS 2806-1980).
+
+          - ML3 “Conventional unguided projectiles” (常規非制導式投射物) Are those which do not incorporate:
 
         - (a) Directional warheads, including warheads employing multi-point initiation to achieve focused blast/fragmentation characteristics;
 
@@ -10236,43 +10326,55 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
         - (f) Mid-flight guidance;
 
-        - (g) Terminal guidance.
+        - (g)
 
-      - 1 3 6 “Critical temperature” (臨界溫度) (Sometimes referred to as the transition temperature) of a specific “superconductive” material is the temperature at which the material loses all resistance to the flow of direct electrical current.
+        - Terminal guidance.
 
-      - 5 “Cryptography” (密碼學) The discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more ‘secret parameters’ (e.g., crypto variables) or associated key management. Technical Note: (L.N. 132 of 2001) ‘Secret parameter’: a constant or key kept from the knowledge of others or shared only within a group. 3 4 “CTP”
+          - 1 3 6 “Critical temperature” (臨界溫度) (Sometimes referred to as the transition temperature) of a specific “superconductive” material is the temperature at which the material loses all resistance to the flow of direct electrical current.
 
-      - “CTP” is equivalent to “Composite theoretical performance”. (L.N. 183 of 1999)
+          - 5 “Cryptography” (密碼學) The discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more ‘secret parameters’ (e.g., crypto variables) or associated key management. Technical Note: (L.N. 132 of 2001) ‘Secret parameter’: a constant or key kept from the knowledge of others or shared only within a group.
 
-      - 6 “(CW) Laser” ((連續波) 雷射器) A “laser” that produces a nominally constant output energy for greater than 0.25 seconds. (L.N. 254 of 2008) 7 “Data-Based Referenced Navigation” (“DBRN”) Systems (資料庫參考導航 (“DBRN”) 系統) Systems which use various sources of previously measured geo-mapping data integrated to provide accurate navigation information under dynamic conditions. Data sources include bathymetric maps, stellar maps, gravity maps, magnetic maps or 3-D digital terrain maps. (L.N. 65 of 2004)
+          - 3 4 “CTP”
 
-      - 5 “Data signalling rate” (數據傳輸率) The rate, as defined in ITU Recommendation 53-36, taking into account that, for non-binary modulation, baud and bit per second are not equal. Bits for coding, checking and synchronisation functions are to be included. Note:
+          - “CTP” is equivalent to “Composite theoretical performance”. (L.N. 183 of 1999)
 
-      - When determining the “data signalling rate”, servicing and administrative channels shall be excluded.
+          - 6 “(CW) Laser” ((連續波) 雷射器)
 
-      - Technical Note:
+          - A “laser” that produces a nominally constant output energy for greater than 0.25 seconds. (L.N. 254 of 2008) 7 “Data-Based Referenced Navigation” (“DBRN”) Systems (資料庫參考導航 (“DBRN”) 系統)
 
-      - It is the maximum one-way rate, i.e. the maximum rate in either transmission or reception. (L.N. 132 of 2001)
+          - Systems which use various sources of previously measured geo-mapping data integrated to provide accurate navigation information under dynamic conditions. Data sources include bathymetric maps, stellar maps, gravity maps, magnetic maps or 3-D digital terrain maps. (L.N. 65 of 2004)
 
-      - 6 “Deformable mirrors” (可變形鏡面) Mirrors:
+          - 5 “Data signalling rate” (數據傳輸率) The rate, as defined in ITU Recommendation 53-36, taking into account that, for non-binary modulation, baud and bit per second are not equal. Bits for coding, checking and synchronisation functions are to be included.
+
+          - Note:
+
+          - When determining the “data signalling rate”, servicing and administrative channels shall be excluded.
+
+          - Technical Note:
+
+          - It is the maximum one-way rate, i.e. the maximum rate in either transmission or reception. (L.N. 132 of 2001)
+
+          - 6 “Deformable mirrors” (可變形鏡面) Mirrors:
 
         - (a) Having a single continuous optical reflecting surface which is dynamically deformed by the application of individual torques or forces to compensate for distortions in the optical waveform incident upon the mirror; or
 
-        - (b) Having multiple optical reflecting elements that can be individually and dynamically be repositioned by the application of torques or forces to compensate for distortions in the optical waveform incident upon the mirror.
+        - (b)
+
+        - Having multiple optical reflecting elements that can be individually and dynamically be repositioned by the application of torques or forces to compensate for distortions in the optical waveform incident upon the mirror.
 
         - ”Deformable mirrors” are also known as adaptive optic mirrors.
 
-      - 0 “Depleted uranium” (貧化鈾) Uranium depleted in the isotope 235 below that occurring in nature.
+          - 0 “Depleted uranium” (貧化鈾) Uranium depleted in the isotope 235 below that occurring in nature.
 
-      - GTN “Development” (發展)
+          - GTN “Development” (發展)
 
-      - NTN | Is related to all stages prior to serial production, such as: design, design research,
+          - NTN | Is related to all stages prior to serial production, such as: design, design research,
 
-      - All | design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, layouts.
+          - All | design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, layouts.
 
-      - 1 2 9 “Diffusion bonding” (擴散接合) A solid-state molecular joining of at least two separate metals into a single piece with a joint strength equivalent to that of the weakest material.
+          - 1 2 9 “Diffusion bonding” (擴散接合) A solid-state molecular joining of at least two separate metals into a single piece with a joint strength equivalent to that of the weakest material.
 
-      - 4 5 “Digital computer” (數字式電腦) Equipment which can, in the form of one or more discrete variables:
+          - 4 5 “Digital computer” (數字式電腦) Equipment which can, in the form of one or more discrete variables:
 
         - (a) Accept data;
 
@@ -10280,65 +10382,81 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
         - (c) Process data by means of a stored sequence of instructions which is modifiable; and
 
-        - (d) Provide output of data.
+        - (d)
+
+        - Provide output of data.
 
         - Technical Note: (L.N. 132 of 2001)
 
         - Modifications of a stored sequence of instructions include replacement of fixed storage devices, but not a physical change in wiring or interconnections.
 
-      - 5 “Digital transfer rate” (數字傳送率) The total bit rate of the information that is directly transferred on any type of medium. (See also “total digital transfer rate”)
+          - 5 “Digital transfer rate” (數字傳送率) The total bit rate of the information that is directly transferred on any type of medium. (See also “total digital transfer rate”)
 
-      - 2 “Direct-acting hydraulic pressing” (直接作用液壓成形) A deformation process which uses a fluid-filled flexible bladder in direct contact with the workpiece.
+          - 2 “Direct-acting hydraulic pressing” (直接作用液壓成形) A deformation process which uses a fluid-filled flexible bladder in direct contact with the workpiece.
 
-      - Def. “Discrete component” (分立零件) A separately packaged “circuit element” with its own external connections.
+          - Def. “Discrete component” (分立零件) A separately packaged “circuit element” with its own external connections.
 
-      - 5 “Dynamic adaptive routing” (動態適應路向選擇) Automatic rerouting of traffic based on sensing and analysis of current actual network conditions. Note: (L.N. 132 of 2001) This does not include cases of routing decisions taken on predefined information.
+          - 5 “Dynamic adaptive routing” (動態適應路向選擇) Automatic rerouting of traffic based on sensing and analysis of current actual network conditions. Note: (L.N. 132 of 2001) This does not include cases of routing decisions taken on predefined information.
 
-      - 3 “Dynamic signal analysers” (動態訊號分析器) “Signal analysers” which use digital sampling and transformation techniques to form a Fourier spectrum display of the given waveform including amplitude and phase information. (See also “signal analysers”)
+          - 3 “Dynamic signal analysers” (動態訊號分析器) “Signal analysers” which use digital sampling and transformation techniques to form a Fourier spectrum display of the given waveform including amplitude and phase information. (See also “signal analysers”)
 
-      - 0 1 “Effective gram”, “Effective gramme” (有效克)
+          - 0 1 “Effective gram”, “Effective gramme” (有效克)
 
         - (a) For plutonium isotopes and uranium-233, the isotope weight in grams or grammes;
 
         - (b) For uranium enriched 1 per cent or greater in the isotope uranium-235, the element weight in grams or grammes multiplied by the square of its enrichment expressed as a decimal weight fraction;
 
-        - (c) For uranium enriched below 1 per cent in the isotope uranium-235, the element weight in grams or grammes multiplied by 0.0001. (L.N. 132 of 2001)
+        - (c)
 
-      - 2 3 4 5 “Electronic assemblies” (電子組件) (L.N. 95 of 2006) A number of electronic components (including “circuit elements”, “discrete components” and integrated circuits) connected together to perform a specific function, which are replaceable as an entity and are normally capable of being disassembled.
+        - For uranium enriched below 1 per cent in the isotope uranium-235, the element weight in grams or grammes multiplied by 0.0001. (L.N. 132 of 2001)
 
-      - 5 6 “Electronically steerable phased array antenna” (電子控向相位陣列天線) An antenna which forms a beam by means of phase coupling, (i.e., the beam direction is controlled by the complex excitation coefficients of the radiating elements) and the direction of that beam can be varied (both in transmission and reception) in azimuth or in elevation, or both, by application of an electrical signal. (L.N. 183 of 1999)
+          - 2 3 4 5 “Electronic assemblies” (電子組件) (L.N. 95 of 2006) A number of electronic components (including “circuit elements”, “discrete components” and integrated circuits) connected together to perform a specific function, which are replaceable as an entity and are normally capable of being disassembled.
 
-      - 2 “End-effectors” (末端效應器) ML17 “End-effectors” include grippers, ‘active tooling units’ and any other tooling that is attached to the baseplate on the end of a “robot” manipulator arm. N.B.: ‘Active tooling unit’: a device for applying motive power, process energy or sensing to the workpiece.
+          - 5 6 “Electronically steerable phased array antenna” (電子控向相位陣列天線) An antenna which forms a beam by means of phase coupling, (i.e., the beam direction is controlled by the complex excitation coefficients of the radiating elements) and the direction of that beam can be varied (both in transmission and reception) in azimuth or in elevation, or both, by application of an electrical signal. (L.N. 183 of 1999)
 
-      - ML8 “Energetic materials” (高能物料) Substances or mixtures that react chemically to release energy required for their intended application. “Explosives”, “pyrotechnics” and “propellants” are subclasses of energetic materials. (L.N. 65 of 2004)
+          - 2 “End-effectors” (末端效應器)
 
-      - 6 “Equivalent density” (等效密度) The mass of an optic per unit optical area projected onto the optical surface.
+          - ML17 “End-effectors” include grippers, ‘active tooling units’ and any other tooling that is attached to the baseplate on the end of a “robot” manipulator arm.
 
-      - 4 7 “Expert systems” (專家系統) Systems providing results by application of rules to data which are stored independently of the “programme” and capable of any of the following:
+          - N.B.:
+
+          - ’Active tooling unit’: a device for applying motive power, process energy or sensing to the workpiece.
+
+          - ML8 “Energetic materials” (高能物料) Substances or mixtures that react chemically to release energy required for their intended application. “Explosives”, “pyrotechnics” and “propellants” are subclasses of energetic materials. (L.N. 65 of 2004)
+
+          - 6 “Equivalent density” (等效密度) The mass of an optic per unit optical area projected onto the optical surface.
+
+          - 4 7 “Expert systems” (專家系統) Systems providing results by application of rules to data which are stored independently of the “programme” and capable of any of the following:
 
         - (a) Modifying automatically the “source code” introduced by the user;
 
         - (b) Providing knowledge linked to a class of problems in quasi-natural language; or
 
-        - (c) Acquiring the knowledge required for their development (symbolic training).
+        - (c)
 
-      - 1 “Explosives” (炸藥) (L.N. 65 of 2004; L.N. 226 of 2009) ML8 Solid, liquid or gaseous substances or mixtures of substances which, in their application as primary, booster, or main charges in warheads, demolition and other applications, are required to detonate. (L.N. 65 of 2004)
+        - Acquiring the knowledge required for their development (symbolic training).
 
-      - ML7 “Expression vectors” (傳遞病媒) Carriers (e.g., plasmid or virus) used to introduce genetic material into host cells.
+          - 1 “Explosives” (炸藥) (L.N. 65 of 2004; L.N. 226 of 2009)
 
-      - 7 9 “FADEC” -see “Full authority digital engine control”. (L.N. 254 of 2008)
+          - ML8 Solid, liquid or gaseous substances or mixtures of substances which, in their application as primary, booster, or main charges in warheads, demolition and other applications, are required to detonate. (L.N. 65 of 2004)
 
-      - 3 “Family” (族) Consists of microprocessor or microcomputer microcircuits with:
+          - ML7 “Expression vectors” (傳遞病媒) Carriers (e.g., plasmid or virus) used to introduce genetic material into host cells.
+
+          - 7 9 “FADEC” -see “Full authority digital engine control”. (L.N. 254 of 2008)
+
+          - 3 “Family” (族) Consists of microprocessor or microcomputer microcircuits with:
 
         - (a) The same architecture;
 
         - (b) The same basic instruction set; and
 
-        - (c) the same basic technology (e.g., only N-channel Metal Oxide Semiconductor (NMOS) or only Complementary Metal Oxide Semiconductor (CMOS)).
+        - (c)
 
-      - 4 “Fault tolerance” (容錯) The capability of a computer system, after any malfunction of any of its hardware or “software” components, to continue to operate without human intervention, at a given level of service that provides continuity of operation, data integrity and recovery of service within a given time.
+        - the same basic technology (e.g., only N-channel Metal Oxide Semiconductor (NMOS) or only Complementary Metal Oxide Semiconductor (CMOS)).
 
-      - 0 1 8 “Fibrous or filamentary materials” (纖維或絲狀物料) Include:
+          - 4 “Fault tolerance” (容錯) The capability of a computer system, after any malfunction of any of its hardware or “software” components, to continue to operate without human intervention, at a given level of service that provides continuity of operation, data integrity and recovery of service within a given time.
+
+          - 0 1 8 “Fibrous or filamentary materials” (纖維或絲狀物料) Include:
 
         - (a) Continuous “monofilaments”;
 
@@ -10350,9 +10468,11 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
         - (e) Whiskers, either monocrystalline or polycrystalline, of any length;
 
-        - (f) Aromatic polyamide pulp.
+        - (f)
 
-      - 3 “Film type integrated circuit” (薄膜型集成電路) An array of ‘circuit elements’ and metallic interconnections formed by deposition of a thick or thin film on an insulating “substrate”.
+        - Aromatic polyamide pulp.
+
+          - 3 “Film type integrated circuit” (薄膜型集成電路) An array of ‘circuit elements’ and metallic interconnections formed by deposition of a thick or thin film on an insulating “substrate”.
 
   - (L.N. 132 of 2001)
 
@@ -10578,7 +10698,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
       - The term ‘data device’ means equipment capable of transmitting or receiving sequences of digital information. (L.N. 226 of 2009)
 
-        - 5 “Personalized smart card” (個人化智慧卡) A smart card or an electronically readable personal document (e.g. e-passport), containing a microcircuit which has been programmed for a specific application and cannot be reprogrammed for any other application by the user. (L.N. 183 of 1999; L.N. 226 of 2009)
+        - 5 “Personalized smart card” (個人化智能卡) (L.N. 45 of 2010) A smart card or an electronically readable personal document (e.g. e-passport), containing a microcircuit which has been programmed for a specific application and cannot be reprogrammed for any other application by the user. (L.N. 183 of 1999; L.N. 226 of 2009)
 
         - 7 “Power management” (功率管理) Changing the transmitted power of the altimeter signal so that received power at the “aircraft” altitude is always at the minimum necessary to determine the altitude.
 
@@ -10684,7 +10804,7 @@ The term ‘mountings’ means weapon mounts or structural strengthening for the
 
         - 7 9 “Spacecraft” (太空船) Active and passive satellites and space probes.
 
-        - 3 6 “Space qualified” (太空級) Products designed, manufactured and tested to meet the special electrical, mechanical or environmental requirements for use in the launch and deployment of satellites or high-altitude flight systems operating at altitudes of 100 km or higher. (L.N. 132 of 2001)
+        - 3 6 “Space-qualified” (太空級) (L.N. 45 of 2010) Products designed, manufactured and tested to meet the special electrical, mechanical or environmental requirements for use in the launch and deployment of satellites or high-altitude flight systems operating at altitudes of 100 km or higher. (L.N. 132 of 2001)
 
         - 0 1 “Specific modulus” (比模數) Young’s modulus in pascals, equivalent to N/m2 divided by specific weight in N/m3, measured at a temperature of (296 + 2)K ((23 + 2)0C) and a relative humidity of (50 + 5)%. (L.N. 226 of 2009)
 

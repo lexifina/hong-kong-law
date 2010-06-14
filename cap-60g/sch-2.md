@@ -4,9 +4,9 @@
 
   - (a) items ML1, ML2, ML3, ML4, ML6, ML7 and ML8 in the Munitions List;
 
-  - (b) all of the items in Category 0 of the Dual-use Goods List;
+  - (b) all of the items in Category 0 of the Dual-use Goods List; and (L.N. 45 of 2010)
 
-  - (c) items 5A002, 5B002, 5D002 and 5E002 in the Dual-use Goods List; and (L.N. 183 of 1999)
+  - (c) (Repealed L.N. 45 of 2010)
 
   - (d) items 1A202, 1A225, 1A226, 1A227, 1B201, 1B225, 1B226, 1B227, 1B228, 1B229, 1B230, 1B231, 1B232, 1B233, 1C202, 1C210, 1C216, 1C225, 1C226, 1C227, 1C228, 1C229, 1C230, 1C231, 1C232, 1C233, 1C234, 1C235, 1C236, 1C237, 1C238, 1C239, 1C240, 1D201, 1E201, 1E202, 1E203, 2A225, 2A226, 2B201, 2B204, 2B206, 2B207, 2B209, 2B219, 2B225, 2B226, 2B227, 2B228, 2B230, 2B231, 2B232, 2D201, 2D202, 2E201, 3A201, 3A225, 3A226, 3A227, 3A228, 3A229, 3A230, 3A231, 3A232, 3A233, 3E201, 6A202, 6A203, 6A205, 6A225, 6A226 and 6E201 in the Dual-use Goods List. (L.N. 183 of 1999; L.N. 132 of 2001)
 
