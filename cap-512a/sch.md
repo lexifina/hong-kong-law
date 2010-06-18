@@ -6,7 +6,11 @@ Column 1 | Column 2 | Column 3
 
 Contracting States to the Convention | Territories specified in declarations under Article 39 or 40 of the Convention | Date of coming into force of the Convention
 
+Republic of Albania | 1 April 2010
+
 Republic of Argentina | 1 September 1997
+
+Republic of Armenia | 1 April 2010
 
 Commonwealth of Australia | Australian States and Mainland Territories | 1 September 1997
 
@@ -90,6 +94,8 @@ Republic of Moldova | 1 June 1999
 
 Principaute de Monaco | 1 September 1997
 
+Montenegro | 1 September 1997
+
 Kingdom of the Netherlands (for the Kingdom in Europe) | 1 September 1997
 
 New Zealand | 1 September 1997
@@ -107,6 +113,12 @@ Republic of Portugal | 1 September 1997
 Romania | 1 September 1997
 
 Federation of Saint Kitts and Nevis | 1 September 1997
+
+Republic of San Marino | 1 April 2010
+
+Republic of Serbia | 1 September 1997
+
+Republic of Seychelles | 1 April 2010
 
 Slovak Republic | 1 February 2001
 
@@ -152,8 +164,6 @@ Republic of Uzbekistan | 1 October 2005
 
 Republic of Venezuela | 1 September 1997
 
-Federal Republic of Yugoslavia | 1 September 1997
-
 Republic of Zimbabwe | 1 September 1997
 
-(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008; L.N. 216 of 2008)
+(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008; L.N. 216 of 2008; L.N. 85 of 2010)
