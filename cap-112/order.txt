@@ -223,6 +223,7 @@ s-088B.md
 s-089.md
 s-090.md
 s-091.md
+s-092.md
 sch-1.md
 sch-2.md
 sch-3.md
@@ -246,3 +247,4 @@ sch-16.md
 sch-17.md
 sch-18.md
 sch-19.md
+sch-20.md
