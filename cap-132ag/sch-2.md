@@ -1,4 +1,6 @@
-# SECOND SCHEDULE HONG KONG
+# SECOND SCHEDULE
+
+Hong Kong
 
 (1) Name of Street | (2) Extent
 
@@ -46,7 +48,7 @@ Peel Street (West side) | Road space between House No. 13 and House No. 27, Peel
 
 Peel Street (East side) | Road space between House No. 18A and House No. 28, Peel Street and road space at the side of House No. 55, Hollywood Road (L.N. 120 of 1980) | 26
 
-Graham Street East side) | Road space at the side of House Nos. 124-126, Queen’s Road Central and road space on the section of Graham Street between Stanley Street and Wellington Street (L.N. 120 of 1980) | 8
+Graham Street (East side) | Road space at the side of House Nos. 124-126, Queen’s Road Central and road space on the section of Graham Street between Stanley Street and Wellington Street (L.N. 120 of 1980) | 8
 
 Graham Street (West side) | Road space at the side of House No. 128, Queen’s Road Central and road space between House No. 1 and House No. 15, Graham Street (L.N. 120 of 1980) | 18
 
@@ -90,17 +92,29 @@ Sugar Street | Pavement in front of House No. 3 (L.N. 565 of 1997) | 1
 
 King’s Road | Pavement against the railing in front of House No. 89 and House No. 91 (L.N. 588 of 1997) | 1
 
-Chiu Lung Street (East side) | At portion facing Queen’s Road Central (L.N. 128 of 1999) | 9
+Chiu Lung Street (East side) | Portion facing Queen’s Road Central (L.N. 88 of 2010) | 10
 
 Findlay Road | Kerbside near the Tai Ping Shan Lions View Point Pavilion (L.N. 287 of 1999) | 6
 
 Lambeth Walk | Portion of the foot-bridge in front of the east entrance of the Murray Road Multi-storey Carpark Building (L.N. 256 of 2009) | 1
 
-Unnamed lane connecting Pedder Street and Theatre Lane | Portion of the southern side of the road space of the unnamed lane (L.N. 256 of 2009) | 3
+Unnamed lane connecting Pedder Street and Theatre Lane | Portion at the southern side of the road space of the unnamed lane (L.N. 88 of 2010) | 4
 
 Theatre Lane | Road space in front of House Nos. 1–7, Theatre Lane (L.N. 256 of 2009) | 4
 
-KOWLOON
+Zetland Street (East side) | Portion facing Queen’s Road Central at the side of House Nos. 16–18, Queen’s Road Central (L.N. 88 of 2010) | 1
+
+Theatre Lane (West side) | Portion at the side of House No. 22, Des Voeux Road Central (L.N. 88 of 2010) | 1
+
+Jubilee Street | Pavement in front of House Nos. 9–11, Jubilee Street (L.N. 88 of 2010) | 1
+
+Queen’s Road Central | Pavement in front of House No. 8, Queen’s Road Central (L.N. 88 of 2010) | 1
+
+Unnamed lane (West side) connecting Stanley Street and Wellington Street | Portion at the side of House Nos. 14–16, Stanley Street (L.N. 88 of 2010) | 1
+
+Des Voeux Road Central | Pavement in front of House No. 10, Des Voeux Road Central (L.N. 88 of 2010) | 1
+
+Kowloon
 
 (1) Name of Street | (2) Extent
 
@@ -237,6 +251,8 @@ Lee Tat Street | In front of House Nos. 54-56. (L.N. 134 of 1979)
 Cheung Shui Street | In front of House Nos. 53-55. (L.N. 134 of 1979)
 
 Cheung Shui Street | In front of House Nos. 59-61. (L.N. 134 of 1979)
+
+_______
 
 (1) Name of Street | (2) Extent | (3) No. of Pitches
 
