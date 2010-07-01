@@ -1,6 +1,6 @@
 # SCHEDULE 2
 
-[reg. 4] (L.N. 80 of 1996)
+[regs. 4 & 5] (L.N. 80 of 1996; L.N. 69 of 2008)
 
 MARKING AND LABELLING OF FOODS AND DRUGS
 

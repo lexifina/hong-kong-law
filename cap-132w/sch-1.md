@@ -1,6 +1,6 @@
 # Schedule 1
 
-[reg. 3] (L.N. 80 of 1996)
+[regs. 3 & 5 & Sch. 2] (L.N. 80 of 1996; L.N. 69 of 2008)
 
 (In this Schedule reference to proportion or percentage
 
@@ -198,11 +198,11 @@ Item | Additive | Maximum Level
 
 Acidity Regulators
 
-1. | Sodium phosphates | } | 2 grams per kilogram
+1. | Sodium phosphates | 2 grams per kilogram
 
-2. | Sodium carbonate
+2. | Sodium carbonate | Limited by good manufacturing practice
 
-3. | Sodium hydrogen carbonate | Limited by good manufacturing practice
+3. | Sodium hydrogen carbonate
 
 4. | Sodium hydroxide
 
@@ -214,7 +214,7 @@ Item | Additive | Maximum Level
 
 Stabilizers
 
-1. | Calcium carbonates | } } } } | Limited by good manufacturing practice
+1. | Calcium carbonates | Limited by good manufacturing practice
 
 2. | Sodium lactate
 
@@ -244,7 +244,7 @@ Stabilizers
 
 Acidity Regulators
 
-15. | Sodium carbonates | } | Limited by good manufacturing practice
+15. | Sodium carbonates | Limited by good manufacturing practice
 
 16. | Potassium carbonates
 
@@ -254,7 +254,7 @@ Acidity Regulators
 
 Thickeners and Emulsifiers
 
-19. | Lecithins | } } } } | Limited by good manufacturing practice
+19. | Lecithins | Limited by good manufacturing practice
 
 20. | Alginic acid
 
@@ -280,7 +280,7 @@ Thickeners and Emulsifiers
 
 31. | Gellan gum
 
-32. | Polyoxyethylene (20) sorbitan monolaurate | } } } | 1 gram per kilogram
+32. | Polyoxyethylene (20) sorbitan monolaurate | 1 gram per kilogram
 
 33. | Polyoxyethylene (20) sorbitan monooleate
 
@@ -290,7 +290,7 @@ Thickeners and Emulsifiers
 
 36. | Polyoxyethylene (20) sorbitan tristearate
 
-37. | Pectins | } } } } } | Limited by good manufacturing practice
+37. | Pectins | Limited by good manufacturing practice
 
 38. | Cellulose
 
@@ -316,7 +316,7 @@ Thickeners and Emulsifiers
 
 49. | Calcium chloride
 
-50. | Monostarch phosphate | } } } } } | Limited by good manufacturing practice
+50. | Monostarch phosphate | Limited by good manufacturing practice
 
 51. | Distarch phosphate esterified with sodium trimetaphosphate; distarch phosphate esterified with phosphorus oxychloride
 
