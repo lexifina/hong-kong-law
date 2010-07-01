@@ -4,28 +4,28 @@
 
 FEES PAYABLE UNDER PART IIIA OF THE ORDINANCE
 
-Item | Section | Description | Fee
-
-$
+Item | Section | Description | Fee $
 
 1. | 39A | Registration as a foreign lawyer—
 
-(a) Application for first registration made on a date that falls within the period—
+(a) | First registration that is valid from a date that falls within the period—
 
-(i) from 1 July to 31 March inclusive | 10000
+(i) | from 1 July to 31 March inclusive | 9,000
 
-(ii) from 1 April to 30 June inclusive ( L.N. 312 of 1997) | 5000
+(ii) | from 1 April to 14 May inclusive | 4,500
 
-(b) Renewal of registration (L.N. 8 of 2010) | 9000
+(iii) | from 15 May to 30 June inclusive (L.N. 8 of 2010) | 13,500
+
+(b) | Renewal of registration (L.N. 8 of 2010) | 9,000
 
 2. | 39B | Registration as a foreign firm—
 
-(a) First registration—
+(a) | First registration—
 
-(i) for a new firm | 35000
+(i) | for a new firm | 35,000
 
-(ii) for an existing firm | 20000
+(ii) | for an existing firm | 20,000
 
-(b) Renewal of registration (L.N. 216 of 1998) | 12000
+(b) | Renewal of registration (L.N. 216 of 1998) | 12,000
 
-3. | 39C | Registration as an Association | 15000
+3. | 39C | Registration as an Association | 15,000
