@@ -18,19 +18,25 @@ Architectural Services Department.
 
 Audit Commission. (Amended L.N. 362 of 1997)
 
-*Auxiliary Medical Service (department). (Added L.N. 155 of 1996. Amended 57 of 1997 s. 34)
+Auxiliary Medical Service (as raised and maintained under section 3 of the Auxiliary Medical Service Ordinance (Cap. 517)). (Added L.N. 217 of 2009)
+
+*Auxiliary Medical Service (Government department). (Added L.N. 155 of 1996. Amended 57 of 1997 s. 34; L.N. 217 of 2009)
 
 Buildings Department. (Replaced L.N. 282 of 1993)
 
 Census and Statistics Department.
 
-+Civil Aid Service (department). (Added L.N. 155 of 1996. Amended 58 of 1997 s. 34)
+Civil Aid Service (as raised and maintained under section 3 of the Civil Aid Service Ordinance (Cap. 518)). (Added L.N. 217 of 2009)
+
++Civil Aid Service (Government department). (Added L.N. 155 of 1996. Amended 58 of 1997 s. 34; L.N. 217 of 2009)
 
 Civil Aviation Department.
 
 Civil Engineering and Development Department. (Replaced L.N. 183 of 1992. Amended L.N. 104 of 2004)
 
 Companies Registry. (Added 8 of 1993 s. 28)
+
+Consumer Council. (Added L.N. 217 of 2009)
 
 Correctional Services Department.
 
@@ -49,6 +55,8 @@ Employees Retraining Board. (Added L.N. 139 of 1999)
 Environmental Protection Department.
 
 Equal Opportunities Commission. (Added 30 of 2001 s. 19)
+
+Estate Agents Authority. (L.N. 217 of 2009)
 
 Financial Reporting Council. (Added 18 of 2006 s. 81)
 
