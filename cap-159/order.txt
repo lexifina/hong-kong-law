@@ -64,6 +64,9 @@ s-039A.md
 s-039B.md
 s-039C.md
 s-039D.md
+s-039E.md
+s-039F.md
+s-039G.md
 s-040A.md
 s-040B.md
 s-040C.md
@@ -90,6 +93,7 @@ s-042.md
 s-043.md
 s-044.md
 s-045.md
+s-045A.md
 s-046.md
 s-047.md
 s-048.md
@@ -127,6 +131,8 @@ s-073.md
 s-073A.md
 s-073B.md
 s-073C.md
+s-073CA.md
+s-073CB.md
 s-073D.md
 s-073E.md
 s-073F.md
