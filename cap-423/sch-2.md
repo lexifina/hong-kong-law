@@ -212,4 +212,16 @@ Item Body
 
 - 106. Industrial Centre, The Hong Kong Polytechnic University (Added L.N. 75 of 2010)
 
-- 107. Kaplan Language Training (HK) Limited (Added L.N. 75 of 2010) (Schedule 2 replaced L.N. 269 of 1999)
+- 107. Kaplan Language Training (HK) Limited (Added L.N. 75 of 2010)
+
+- 108. YMCA College of Careers (Added L.N. 99 of 2010)
+
+- 109. The Cantonese Opera Academy of Hong Kong Limited (Added L.N. 99 of 2010)
+
+- 110. Hong Kong Massage & Physiotherapy Professional General Union (Added L.N. 99 of 2010)
+
+- 111. Social Resources Development Institute (Added L.N. 99 of 2010)
+
+- 112. Kwun Tong Vocational Training Centre (Added L.N. 99 of 2010)
+
+- 113. Travel Industry Council of Hong Kong (Added L.N. 99 of 2010) (Schedule 2 replaced L.N. 269 of 1999)
