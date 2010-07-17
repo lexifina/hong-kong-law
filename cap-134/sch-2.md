@@ -4,236 +4,194 @@
 
 PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GOVERNMENT
 
-- 1. Alice Ho Miu Ling Nethersole Hospital
+Alice Ho Miu Ling Nethersole Hospital (雅麗氏何妙齡那打素醫院)
 
-- 2. Canossa Hospital
+Alice Ho Miu Ling Nethersole Nursing Home (雅麗氏何妙齡那打素護養院)
 
-- 3. Caritas Medical Centre
+Au Tau Youth Centre (凹頭青少年中心)
 
-- 4. Castle Peak Hospital
+Bradbury Hospice (白普理寧養中心)
 
-- 5. Cheshire Home, Chung Hom Kok
+Buddhist Li Chong Yuet Ming Nursing Home for the Elderly (佛教李莊月明護養院)
 
-- 6. Cheshire Home, Shatin
+Canossa Hospital (Caritas) (嘉諾撒醫院)
 
-- 7. David Trench Rehabilitation Centre
+Caritas Medical Centre (明愛醫院)
 
-- 8. The Duchess of Kent Children’s Hospital at Sandy Bay (Replaced L.N. 249 of 1999)
+Caritas Wong Yiu Nam Centre (明愛黃耀南中心)
 
-- 9. East Kowloon Polyclinic
+Castle Peak Hospital (青山醫院)
 
-- 10. Evangel Hospital
+Cheshire Home, Chung Hom Kok (舂磡角慈氏護養院)
 
-- 11. Fanling Hospital
+Cheshire Home, Shatin (沙田慈氏護養院)
 
-- 12. Grantham Hospital
+Evangel Hospital (播道醫院)
 
-- 13. Haven of Hope Hospital
+Evergreen Nursing Home Cum Day Care Centre (松悅園耆欣護養院暨日間護理中心)
 
-- 14. Home of Loving Faithfulness Fellowship
+General Eye and Low Vision Centre (普通眼科及低視能中心)
 
-- 15. Hong Kong Adventist Hospital
+Grace Nursing Home (Tak Tin) (頌恩護理院(德田))
 
-- 16. Hong Kong Baptist Hospital
+Grantham Hospital (葛量洪醫院)
 
-- 17. Hong Kong Buddhist Hospital
+Haven of Hope Holistic Care Centre (靈實寧養院)
 
-- 18. Hong Kong Central Hospital
+Haven of Hope Hospital (靈實醫院)
 
-- 19. Hong Kong Red Cross Blood Transfusion Service
+Haven of Hope Nursing Home (靈實護養院)
 
-- 20. Hong Kong Sanatorium and Hospital
+Haven of Hope Sister Annie Skau Nursing Home (靈實司務道護養院)
 
-- 21. Kowloon Hospital
+Home of Loving Faithfulness (可愛忠實之家)
 
-- 22. Kwai Chung Hospital
+Hong Kong Adventist Hospital (香港港安醫院)
 
-- 23. Kwong Wah Hospital
+Hong Kong Baptist Hospital (香港浸信會醫院)
 
-- 24. (Repealed L.N. 190 of 2005)
+Hong Kong Buddhist Hospital (香港佛教醫院)
 
-- 25. Li Ka Shing Specialist Clinic
+Hong Kong Central Hospital (港中醫院)
 
-- 26. Lock Tao Nursing Home
+Hong Kong Christian Service Jockey Club Lodge of Rising Sun (香港基督教服務處賽馬會日出山莊)
 
-- 27. (Repealed L.N. 79 of 2004)
+Hong Kong Eye Hospital (香港眼科醫院)
 
-- 28. MacLehose Medical Rehabilitation Centre
+Hong Kong Kidney Foundation Limited (Jockey Club Dialysis Centre) (香港腎臟基金會有限公司(賽馬會洗腎中心))
 
-- 29. (Repealed L.N. 359 of 2000)
+Hong Kong Kidney Foundation Limited (Kowloon City Dialysis Centre) (香港腎臟基金會有限公司(九龍城洗腎中心))
 
-- 30. Matilda and War Memorial Hospital
+Hong Kong Red Cross Blood Transfusion Service (香港紅十字會輸血服務中心)
 
-- 31. (Repealed L.N. 190 of 2005)
+Hong Kong Renal Centre Limited (香港洗腎中心有限公司)
 
-- 32. Our Lady of Maryknoll Hospital
+Hong Kong Sanatorium & Hospital, Limited (香港養和醫院有限公司)
 
-- 33. (Repealed L.N. 59 of 1999)
+Hong Kong Sheng Kung Hui Nursing Home (香港聖公會護養院)
 
-- 34. Pok Oi Hospital
+Integrated Dialysis Facilities (HK) Limited (香港綜合腎科中心)
 
-- 35. Precious Blood Hospital
+Kowloon Hospital (九龍醫院)
 
-- 36. Prince of Wales Hospital
+Kwai Chung Hospital (葵涌醫院)
 
-- 37. Prince Philip Dental Hospital
+Kwong Wah Hospital (廣華醫院)
 
-- 38. Princess Margaret Hospital
+Lions Kidney Educational Centre and Research Foundation Chan Wong Sau Wah Memorial Renal Dialysis Centre (國際獅子會腎病教育中心及研究基金陳黃秀華紀念洗腎中心)
 
-- 39. Pui Hong Geriatric Day Centre
+Lions Kidney Educational Centre and Research Foundation Renal Dialysis Centre (國際獅子會腎病教育中心及研究基金洗腎中心)
 
-- 40. Queen Elizabeth Hospital
+Lock Tao Nursing Home (樂道健康院)
 
-- 41. Queen Elizabeth Hospital Specialist Clinic
+MacLehose Medical Rehabilitation Centre (麥理浩復康院)
 
-- 42. Queen Mary Hospital
+Matilda & War Memorial Hospital (明德醫院)
 
-- 43. Ruttonjee Hospital
+North District Hospital (北區醫院)
 
-- 44. Shatin Hospital (Replaced L.N. 372 of 1994)
+Oasis Nursing Home (紫雲間沁怡護養院)
 
-- 45. Shek Kwu Chau Treatment and Rehabilitation Centre
+Our Lady of Maryknoll Hospital (聖母醫院)
 
-- 46. Sister Aquinas Memorial Women’s Treatment Centre
+Pamela Youde Nethersole Eastern Hospital (東區尤德夫人那打素醫院)
 
-- 47. Siu Lam Hospital
+Po Leung Kuk Comfort Court for the Senior (保良局樂安居)
 
-- 48. South Kwai Chung Jockey Club Polyclinic
+Po Leung Kuk Eco-Home for the Senior (保良局癸未年樂頤居)
 
-- 49. St. John Hospital
+Po Leung Kuk Kwai Chung Home for the Elderly (保良局葵涌護老院)
 
-- 50. St. Paul’s Hospital
+Po Leung Kuk Kwok Law Kwai Chun Home for the Elderly (保良局郭羅桂珍護老院)
 
-- 51. St. Teresa’s Hospital
+Po Leung Kuk Tin Yan Home for the Elderly cum Green Joy Day Care Centre for the Elderly (保良局天恩護老院暨耆昌長者日間護理中心)
 
-- 52. Tang Chi Ngong Specialist Clinic
+Pok Oi Hospital (博愛醫院)
 
-- 53. Tang Shiu Kin Hospital
+Pok Oi Hospital Tuen Mun Nursing Home (博愛醫院屯門護養院)
 
-- 54. Tsan Yuk Hospital
+Precious Blood Hospital (Caritas) (寶血醫院(明愛))
 
-- 55. Tsuen Wan Adventist Hospital
+Prince of Wales Hospital (威爾斯親王醫院)
 
-- 56. Tuen Mun Hospital
+Princess Margaret Hospital (瑪嘉烈醫院)
 
-- 57. Tung Wah Eastern Hospital
+Queen Elizabeth Hospital (伊利沙伯醫院)
 
-- 58. Tung Wah Group of Hospitals Fung Yiu King Hospital (Amended L.N. 59 of 1999)
+Queen Mary Hospital (瑪麗醫院)
 
-- 59. Tung Wah Hospital
+Rehabaid Centre (復康專科及資源中心)
 
-- 60. United Christian Hospital
+Ruttonjee Hospital (律敦治醫院)
 
-- 61. Violet Peel Polyclinic, Southorn Centre
+Scenic Resort (Nursing Home) (雅明灣畔護養院)
 
-- 62. Wanchai Nursing Home
+Shatin Hospital (沙田醫院)
 
-- 63. Tung Wah Group of Hospitals Wong Tai Sin Hospital (Replaced L.N. 174 of 1997)
+Shatin International Medical Centre Union Hospital (沙田國際醫務中心仁安醫院)
 
-- 64. Yan Chai Hospital
+Shek Kwu Chau Treatment & Rehabilitation Centre (石鼓洲康復院)
 
-- 65. Hong Kong Eye Hospital (Added L.N. 372 of 1994)
+Sheung Shui Sister Aquinas Memorial Women’s Treatment Centre (上水區貴雅修女紀念婦女康復中心)
 
-- 66. Pamela Youde Nethersole Eastern Hospital (Added L.N. 372 of 1994)
+Siu Lam Hospital (小欖醫院)
 
-- 67. Pamela Youde Nethersole Eastern Hospital Polyclinic (Added L.N. 372 of 1994)
+St. John Hospital (長洲醫院)
 
-- 68. Sai Ying Pun Specialist Clinic (Added L.N. 372 of 1994)
+St. Paul’s Hospital (聖保祿醫院)
 
-- 69. Tuen Mun Specialist Clinic (Added L.N. 372 of 1994)
+St. Teresa’s Hospital (聖德肋撒醫院)
 
-- 70. Yung Fung Shee Memorial Centre (Pamela Youde Specialist Clinic) (Added L.N. 372 of 1994)
+Tai Po Hospital (大埔醫院)
 
-- 71. Yau Ma Tei Psychiatric Centre (Added L.N. 372 of 1994)
+Tang Shiu Kin Hospital (鄧肇堅醫院)
 
-- 72. Yau Ma Tei Specialist Centre (Extension) (Added L.N. 372 of 1994)
+The Duchess of Kent Children’s Hospital at Sandy Bay (大口環根德公爵夫人兒童醫院)
 
-- 73. Bradbury Hospice (Added L.N. 612 of 1994)
+The Hong Kong Anti-Cancer Society Jockey Club Cancer Rehabilitation Centre (香港防癌會賽馬會癌症康復中心)
 
-- 74. Hong Kong Renal Centre Limited (Added L.N. 612 of 1994)
+The Prince Philip Dental Hospital (菲臘牙科醫院)
 
-- 75. Sha Tin International Medical Centre Union Hospital (Added L.N. 612 of 1994)
+True Light Home for the Aged (真光護老之家)
 
-- 76. The Hong Kong Kidney Foundation Jockey Club Dialysis Centre (Added L.N. 612 of 1994)
+Tsan Yuk Hospital (贊育醫院)
 
-- 77. The Hong Kong Kidney Foundation Kowloon City Dialysis Centre (L.N. 164 of 1995)
+Tseung Kwan O Hospital (將軍澳醫院)
 
-- 78. Au Tau Youth Centre (Added L.N. 174 of 1997)
+Tsuen Wan Adventist Hospital (荃灣港安醫院)
 
-- 79. Ha Kwai Chung Renal Dialysis Centre (Added L.N. 174 of 1997)
+Tuen Mun Hospital (屯門醫院)
 
-- 80. Kowloon Medical Rehabilitation Centre (Added L.N. 174 of 1997)
+Tung Wah Eastern Hospital (東華東院)
 
-- 81. Pamela Youde Polyclinic (Added L.N. 174 of 1997)
+Tung Wah Group of Hospitals Fung Yiu King Hospital (東華三院馮堯敬醫院)
 
-- 82. Rehabaid Centre (Added L.N. 174 of 1997. Amended L.N. 59 of 1999)
+Tung Wah Group of Hospitals Haemodialysis Centre (東華三院血液透析中心)
 
-- 83. Tai Po Hospital (Added L.N. 174 of 1997)
+Tung Wah Group of Hospitals Women’s Welfare Club Western District, Hong Kong Residential Care Home for the Elderly (東華三院香港西區婦女福利會護養安老院)
 
-- 84. Western Psychiatric Centre (Added L.N. 174 of 1997)
+Tung Wah Group of Hospitals Wong Tai Sin Hospital (東華三院黃大仙醫院)
 
-- 85. Wong Chuk Hang Hospital (Added L.N. 174 of 1997)
+Tung Wah Hospital (東華醫院)
 
-- 86. (Repealed L.N. 79 of 2004)
+United Christian Hospital (基督教聯合醫院)
 
-- 87. North District Hospital (Added L.N. 599 of 1997)
+United Christian Nethersole Care Home (基督教聯合那打素護康院)
 
-- 88. Integrated Dialysis Facilities (HK) Limited (Added L.N. 59 of 1999)
+Wanchai Nursing Home (灣仔指導所)
 
-- 89. Buddhist Li Chong Yuet Ming Nursing Home for the Elderly (Added L.N. 59 of 1999)
+Wong Chuk Hang Hospital (黃竹坑醫院)
 
-- 90. Pok Oi Hospital Tuen Mun Nursing Home (Added L.N. 59 of 1999)
+Yan Chai Hospital (仁濟醫院)
 
-- 91. Yan Chai Nursing Home (Added L.N. 59 of 1999)
+Yan Chai Hospital Au Yeung Sum Memorial Elderly Home cum Day Care Unit (仁濟醫院歐陽森紀念安老院暨日間護理中心)
 
-- 92. Hong Kong Sheng Kung Hui Nursing Home (Added L.N. 59 of 1999)
+Yan Chai Nursing Home (仁濟護養院)
 
-- 93. Shatin Sister Aquinas Memorial Women’s Treatment Centre (Added L.N. 59 of 1999)
+Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Lei Muk Shue Estate) (圓玄護養院暨長者日間護理中心(梨木樹邨))
 
-- 94. Haven of Hope Nursing Home (Added L.N. 249 of 1999)
+Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (圓玄護養院暨長者日間護理中心(順利邨))
 
-- 95. Caritas Wong Yiu Nam Centre (Added L.N. 249 of 1999)
+Yuen Yuen Nursing Home (Sau Mau Ping Estate) (圓玄護養院(秀茂坪邨))
 
-- 96. Alice Ho Miu Ling Nethersole Nursing Home (Added L.N. 249 of 1999)
-
-- 97. Tseung Kwan O Hospital (Added L.N. 249 of 1999)
-
-- 98. Lions Kidney Education Centre and Research Foundation (L.K.E.C.) Chan Wong Sau Wah Memorial Renal Dialysis Centre (Added L.N. 79 of 2004)
-
-- 99. General Eye and Low Vision Centre (Added L.N. 79 of 2004)
-
-- 100. Hong Kong Christian Service Jockey Club Lodge of Rising Sun (Added L.N. 79 of 2004)
-
-- 101. Yan Chai Hospital Au Yeung Sum Memorial Elderly Home Cum Day Care Unit (Added L.N. 79 of 2004)
-
-- 102. T.W.G.Hs Women’s Welfare Club Western District, Hong Kong Residential Care Home for the Elderly (Added L.N. 79 of 2004)
-
-- 103. (Repealed L.N. 239 of 2009)
-
-- 104. Po Leung Kuk Eco-Home for the Senior (Added L.N. 79 of 2004)
-
-- 105. True Light Home for the Aged (Added L.N. 79 of 2004)
-
-- 106. Grace Nursing Home (Tak Tin) (Added L.N. 190 of 2005)
-
-- 107. Haven of Hope Sister Annie Skau Nursing Home (Added L.N. 190 of 2005)
-
-- 108. Scenic Resort (Nursing Home) (Added L.N. 37 of 2007)
-
-- 109. Po Leung Kuk Comfort Court for the Senior (Added L.N. 37 of 2007)
-
-- 110. Haven of Hope Holistic Care Centre (Added L.N. 37 of 2007)
-
-- 111. Po Leung Kuk Tin Yan Home for the Elderly cum Green Joy Day Care Centre for the Elderly (Added L.N. 15 of 2009)
-
-- 112. Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (Added L.N. 15 of 2009)
-
-- 113. The Hong Kong Anti-Cancer Society Jockey Club Cancer Rehabilitation Centre (Added L.N. 15 of 2009)
-
-- 114. Yuen Yuen Nursing Home (Sau Mau Ping Estate) (Added L.N. 239 of 2009)
-
-- 115. Evergreen Nursing Home Cum Day Care Centre (Added L.N. 239 of 2009)
-
-- 116. Po Leung Kuk Kwok Law Kwai Chun Home for the Elderly (Added L.N. 239 of 2009)
-
-- 117. Lion Kidney Educational Centre & Research Foundation Renal Dialysis Centre (Added L.N. 239 of 2009) (Second Schedule replaced L.N. 187 of 1992)
+(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010)
