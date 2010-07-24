@@ -16,7 +16,7 @@ Item | Typhoon shelters | Permitted length overall (in metres)
 
 4. | Cheung Chau Typhoon Shelter | 50
 
-5. | Hei Ling Chau Typhoon Shelter | 50
+5. | Hei Ling Chau Typhoon Shelter (L.N. 66 of 2010) | 75
 
 6. | Kwun Tong Typhoon Shelter | 50
 
