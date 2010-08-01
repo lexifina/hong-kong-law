@@ -1,6 +1,6 @@
 # SCHEDULE 4
 
-[s. 33(1)(j) & (k)] (78 of 1999 s. 7)
+[s. 38 and Sch. 7] (78 of 1999 s. 7; L.N. 57 of 2010)
 
 APPORTIONMENT OF SPACE IN RESTAURANTS
 
@@ -26,17 +26,17 @@ Seating accom. in m2 | Kitchen accom. in m2 | Aggregate area of kitchen, food pr
 
 Usable floor space in m2 | Minimum aggregate area of kitchen, food preparation room and scullery accom. in m2
 
-22 or less | 5m2
+22 or less | 5 m2
 
-23-35 | 22 1/2% of usable floor space or 7 m2whichever is the less.
+23-35 | 22 1/2% of usable floor space or 7 m2 whichever is the less
 
-36-55 | 20% of usable floor space or 9 m2 whichever is the less.
+36-55 | 20% of usable floor space or 9 m2 whichever is the less
 
-56-95 | 16% of usable floor space or 14 m2 whichever is the less.
+56-95 | 16% of usable floor space or 14 m2 whichever is the less
 
-96-185 | 15% of usable floor space or 19 m2whichever is the less.
+96-185 | 15% of usable floor space or 19 m2 whichever is the less
 
-186 or over | 10% of usable floor space or 28 m2 whichever is the less.
+186 or over | 10% of usable floor space or 28 m2 whichever is the less
 
 Note: The usable floor space is the aggregate floor area of the restaurant excluding any offices, store-rooms, staircases, staircase halls, lift landings (up to a maximum of 5 m2), space used in providing water closet fitments, urinals and lavatory basins, and any space occupied by machinery for any lift, air-conditioning system or similar service. (L.N. 125 of 1970)
 

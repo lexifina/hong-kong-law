@@ -1,12 +1,12 @@
 # SCHEDULE 5
 
-[s. 33(1)(ja), (ka) &(kb)] (78 of 1999 s. 7)
+[s. 38 and Sch. 7] (78 of 1999 s. 7; L.N. 57 of 2010)
 
 APPORTIONMENT OF SPACE IN RESTAURANTS AND FACTORY CANTEENS
 
-Ratio of Food Preparation Space, Scullery and Kitchen Area to
+Ratio of Food Preparation Space, Scullery and Kitchen
 
-Gross Floor Area
+Area to Gross Floor Area
 
 - PART I Class B1 restaurants
 
@@ -28,7 +28,7 @@ Gross floor area in m2 | Minimum aggregate area of kitchen, food preparation roo
 
 23-35 | 20% of gross floor area or 7 m2 whichever is the less
 
-36-55 | 18% of gross floor area or 8 m2 whichever is the less.
+36-55 | 18% of gross floor area or 8 m2 whichever is the less
 
 56-95 | 14% of gross floor area or 12 m2 whichever is the less
 
@@ -42,6 +42,6 @@ Gross floor area in m2 | Minimum aggregate area of kitchen, food preparation roo
 
 Any gross floor area | 15% of gross floor area, but not less than 6m2
 
-Note: Gross floor area is the roofed-over area used exclusively for the business of the restaurant or factory canteen. It includes store-rooms, cold storage chambers, staff changing rooms,offices, air-conditioning engine rooms, lavatories, lift lobbies, stair halls and any space used exclusively by the restaurant or factory canteen. It does not include any yard or open space.
+Note: Gross floor area is the roofed-over area used exclusively for the business of the restaurant or factory canteen. It includes store-rooms, cold storage chambers, staff changing rooms, offices, air-conditioning engine rooms, lavatories, lift lobbies, stair halls and any space used exclusively by the restaurant or factory canteen. It does not include any yard or open space.
 
 (L.N. 212 of 1973; L.N. 89 of 1979; L.N. 175 of 1980; L.N. 495 of 1993)

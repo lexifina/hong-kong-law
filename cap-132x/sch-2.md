@@ -22,7 +22,7 @@ Item | Description of food
 
 8. | Imported pies, sausages or other prepared or manufactured articles of food which contain any meat or cooked or dried meat other than fat
 
-9. | Milk or any milk beverage, being milk or a milk beverage to which the Milk Regulation (Cap. 132 sub. leg. AQ) apply, other than sterilized milk or milk beverage approved under section 4(2) thereof (78 of 1999 s. 7)
+9. | Milk or any milk beverage within the meaning of the Milk Regulation (Cap. 132 sub. leg. AQ) other than milk or milk beverage approved by the Director under section 5(2) of that Regulation (L.N. 57 of 2010)
 
 10. | (a) Soft ice cream (b) Other frozen confections
 
