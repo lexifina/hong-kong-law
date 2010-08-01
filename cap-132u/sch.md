@@ -18,4 +18,8 @@ PERMITTED SWEETENERS
 
 - 7. Sucralose
 
-- 8. Thaumatin (Schedule replaced L.N. 225 of 2003)
+- 8. Thaumatin
+
+- 9. Neotame (L.N. 61 of 2010)
+
+- 10. Steviol Glycosides (L.N. 61 of 2010) (Schedule replaced L.N. 225 of 2003)
