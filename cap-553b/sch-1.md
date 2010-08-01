@@ -14,7 +14,7 @@ Item | Enactment | Provision
 
 6. | (Repealed L.N. 36 of 2003)
 
-7. | Dutiable Commodities (Liquor) Regulations (Cap. 109 sub. leg. B) | Regulations 15 and 26
+7. | (Repealed L.N. 54 of 2010)
 
 8. | Immigration Ordinance (Cap. 115) | Sections 2AB(2)(a), 2AC(2)(a), 5(6) and (7) and 6(1) and (2) (L.N. 36 of 2003)
 
