@@ -24,7 +24,7 @@ SCHEDULED INFECTIOUS AGENTS
 
 - 10. Herpes simiae virus (B virus) (猴疱疹病毒(B病毒))
 
-- 11. Influenza virus type A (subtype H2, H5 and H7), human swine influenza virus type A (subtype H1) (甲型流行性感冒病毒(H2、H5及H7亞型)、人類豬型甲型流行性感冒病毒(H1亞型)) (Amended L.N. 108 of 2009)
+- 11. Influenza virus type A (subtype H2, H5 and H7) (甲型流行性感冒病毒(H2、H5及H7亞型)) (Amended L.N. 108 of 2009; L.N. 117 of 2010)
 
 - 12. Japanese encephalitis virus (日本腦炎病毒)
 
