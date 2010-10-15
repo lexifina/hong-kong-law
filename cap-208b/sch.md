@@ -84,7 +84,7 @@
 
 - 21. Clear Water Bay Country Park
 
-- Those areas delineated and coloured pink on plan CP/CWBB approved on 18 September 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 237 of 1979)
+- Those areas delineated and coloured pink on plan CP/CWBB approved on 18 September 1979 by the Governor in Council and deposited in the Land Registry. (L.N. 237 of 1979; L.N. 72 of 2010; L.N. 135 of 2010)
 
 - 22. Sai Kung West Country Park (Wan Tsai Extension)
 
