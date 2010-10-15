@@ -42,7 +42,7 @@
 
 - (14) Hong Kong Auxiliary Police Officers’ Mess | 4/F, 12, Wang Chiu Road, Kowloon Bay, Kowloon
 
-- (15) Hong Kong Fire Services Club | 3 Wang Chiu Road, East Kai Tak, Kowloon
+- (15) Hong Kong Fire Services Club | 3 Wang Chiu Road, Kowloon Bay, Kowloon (L.N. 130 of 2010)
 
 - (16) (Repealed L.N. 86 of 2005)
 
@@ -78,7 +78,7 @@
 
 - (32) Kowloon West Regional Police Officers’ Mess | East Wing, 1/F, 190, Argyle Street, Kowloon
 
-- (33) Kwai Tsing Police District Officers’ Mess | 13/F, 999, Kwai Chung Road, Kwai Chung, New Territories (L.N. 94 of 2002)
+- (33) Kwai Tsing Police District Officers’ Mess | 15/F, Tsing Yi Police Station, 13, Tsing Yi Heung Sze Wui Road, Tsing Yi, New Territories (L.N. 94 of 2002; L.N. 130 of 2010)
 
 - (34) Kwun Tong Police Officers’ Mess | G/F, 1, Lei Yue Mun Road, Kwun Tong, Kowloon
 
@@ -108,7 +108,7 @@
 
 - (47) Hong Kong Police College Officers’ Mess (L.N. 190 of 2006) | 18, Ocean Park Road, Wong Chuk Hang, Aberdeen, Hong Kong
 
-- (48) The Police Civilian Staff Club | Room 3403A, 34/F, Arsenal House, Police Headquarters, 1 Arsenal Street, Wanchai, Hong Kong (L.N. 190 of 2006)
+- (48) The Police Civilian Staff Club | 2/F, Annex Block, Caine House, Police Headquarters, 1 Arsenal Street, Wanchai, Hong Kong (L.N. 190 of 2006; L.N. 130 of 2010)
 
 - (49) Police Officers’ Club | 28 Hung Hing Road, Causeway Bay, Hong Kong (L.N. 216 of 2003)
 
@@ -118,7 +118,7 @@
 
 - (52) Prince Philip Dental Hospital Senior Staff Association Club | Room 7A11, 7/F, Common Room, Prince Philip Dental Hospital, 34, Hospital Road, Hong Kong
 
-- (53) Radio Television Hong Kong Club | Room 02, Lower G/F, Broadcasting House, 30 Broadcast Drive, Kowloon
+- (53) (Repealed L.N. 130 of 2010)
 
 - (54) Sau Mau Ping Police District Officers’ Mess | 13/F, 200, Hong Ning Road, Kwun Tong, Kowloon
 
@@ -172,9 +172,9 @@
 
 - (79) Post Office Recreation Club | 8 Caroline Hill Road, Causeway Bay, Hong Kong (L.N. 87 of 2001)
 
-- (80) Shek Pik Prison and Sha Tsui Detention Centre Officers’ Mess | Block R, G/F, 46 Shek Pik Reservoir Road, Shek Pik, Lantau Island, New Territories (L.N. 87 of 2001)
+- (80) Shek Pik Prison and Sha Tsui Correctional Institution Officers’ Mess | Block R, G/F, 46 Shek Pik Reservoir Road, Shek Pik, Lantau Island, New Territories (L.N. 87 of 2001; L.N. 130 of 2010)
 
-- (81) Shek Pik Prison and Sha Tsui Detention Centre Staff Mess | 42 Shek Pik Reservoir Road, Shek Pik, Lantau Island, New Territories (L.N. 87 of 2001)
+- (81) Shek Pik Prison and Sha Tsui Correctional Institution Staff Mess | 42 Shek Pik Reservoir Road, Shek Pik, Lantau Island, New Territories (L.N. 87 of 2001; L.N. 130 of 2010)
 
 - (82) Siu Lam Psychiatric Centre Staff Mess, Correctional Services Department | 2/F, Mess Block, Siu Lam Psychiatric Centre, 21 Hong Fai Road, 16 1/2 Milestone, Castle Peak Road, New Territories (L.N. 87 of 2001)
 
