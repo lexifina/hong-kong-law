@@ -1,6 +1,6 @@
 # SCHEDULE 4
 
-[ss. 2, 15 & 54]
+[sections 2, 15 & 54]*1
 
 CONTRIBUTIONS TO FUND
 
@@ -8,7 +8,7 @@ CONTRIBUTIONS TO FUND
 
   - (1) In this Schedule, unless the context otherwise requires—
 
-    - “amount of relevant deposits” (有關存款款額), in relation to a Scheme member, does not, subject to subsection (2), include—
+    - “amount of relevant deposits” (有關存款款額 ), in relation to a Scheme member, does not, subject to subsection (2), include—
 
       - (a) where—
 
@@ -22,7 +22,7 @@ CONTRIBUTIONS TO FUND
 
       - the amount in excess of $100,000; or
 
-      - (b) any amount of interest accrued on relevant deposits;
+      - (b) any amount of interest accrued on relevant deposits;*2
 
     - “build-up levy” (建立期徵費) means the build-up levy payable by a Scheme member under section 3(4);
 
@@ -50,7 +50,7 @@ CONTRIBUTIONS TO FUND
 
       - (ii) in the case where the persons carry on business in partnership, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the members of the partnership; and
 
-    - (c) for the purposes of paragraph (a)(ii) and (iv) of that definition, if the depositor consists of 2 or more persons, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the bare trustees or trustees.
+    - (c) for the purposes of paragraph (a)(ii) and (iv) of that definition, if the depositor consists of 2 or more persons, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the bare trustees or trustees.*3
 
   - (3) For the purposes of this Schedule, the target fund size is reached in a particular year if the sum of—
 
@@ -68,7 +68,7 @@ CONTRIBUTIONS TO FUND
 
   - (3)
 
-    - In this section, “specified percentage” (指明百分比) means 0.3%.
+    - In this section, “specified percentage” (指明百分比) means 0.3%*4.
 
 - (Amended L.N. 107 of 2006)
 
@@ -98,13 +98,13 @@ CONTRIBUTIONS TO FUND
 
   - MA supervisory rating | Percentage
 
-  - 1 | 0.05%
+  - 1 | 0.05%*5
 
-  - 2 | 0.08%
+  - 2 | 0.08%*5
 
-  - 3 | 0.11%
+  - 3 | 0.11%*5
 
-  - 4 or 5 | 0.14%
+  - 4 or 5 | 0.14%*5
 
   - (5A) Subject to section 6, the amount of build-up levy payable by a Scheme member for the start-up year is such portion of the amount of build-up levy that would have been payable by the Scheme member for the start-up year if that Scheme member had been a member of the Scheme during the whole of the year that the number of days during which this Schedule is in operation in the start-up year bears to 365. (Added L.N. 107 of 2006)
 
@@ -249,3 +249,35 @@ CONTRIBUTIONS TO FUND
         - (ii) in the case where the Scheme member becomes a member of the Scheme after 1 January of that year, means the period that begins on the date on which the Scheme member becomes a member of the Scheme and expires on 31 December of that year;
 
     - “relevant period” (有關期間), in relation to a year, means the period that begins on the date on which a Scheme member ceases to be a member of the Scheme and expires on 31 December of that year. (Added L.N. 107 of 2006)
+
+Editorial Note:
+
+*1 Section 13(1) of the Deposit Protection Scheme (Amendment) Ordinance 2010 (11 of 2010) (“the Amendment Ordinance”) provides that Schedule 4 to the Deposit Protection Scheme Ordinance (Cap. 581) is amended by repealing “[ss. 2, 15 & 54]” and substituting “[ss. 2, 15, 48 & 54]”. Section 2(1) of the Amendment Ordinance provides that subject to section 2(2) and (3), the Amendment Ordinance comes into operation on 1 January 2011. Section 2(2) of the Amendment Ordinance provides that the above amendments come into operation on 20 October 2010 for the purpose only of submitting returns and reports under section 48(2) and (3) of the Deposit Protection Scheme Ordinance (Cap. 581) to enable calculations to be made under Schedule 4 to that Ordinance for the year of 2011.
+
+*2 Section 13(2) of the Deposit Protection Scheme (Amendment) Ordinance 2010 (11 of 2010) (“the Amendment Ordinance”) provides that section 1(1) of Schedule 4 to the Deposit Protection Scheme Ordinance (Cap. 581) is amended by repealing the definition of “amount of relevant deposits” and substituting—
+
+“”amount of relevant deposits” (有關存款款額), in relation to a Scheme member, means, subject to subsection (2), the aggregate amount held by all depositors of the Scheme member, being the sum arrived at by adding up any of the following amounts held by each of the depositors of the Scheme member—
+
+- (a) the amount by which the amount of all relevant deposits held by one person, as a depositor, with the Scheme member in that person’s own right exceeds the amount of relevant liabilities owed by the person to the Scheme member (if any), up to a limit of $500,000;
+
+- (b) the amount by which the amount of all relevant deposits held by a depositor, as a bare trustee under one bare trust, with the Scheme member exceeds the amount of relevant liabilities owed by the depositor, as the bare trustee under that bare trust, to the Scheme member (if any), up to a limit of $500,000;
+
+- (c) the amount by which the amount of all relevant deposits held by a depositor with the Scheme member in one client account exceeds the amount of relevant liabilities owed by the depositor to the Scheme member under that client account (if any), up to a limit of $500,000; or
+
+- (d) the amount by which the amount of all relevant deposits held by a depositor, as a trustee under one trust, with the Scheme member exceeds the amount of relevant liabilities owed by the depositor, as the trustee under that trust, to the Scheme member (if any), up to a limit of $500,000;”.
+
+Section 2(1) of the Amendment Ordinance provides that subject to section 2(2) and (3), the Amendment Ordinance comes into operation on 1 January 2011. Section 2(2) of the Amendment Ordinance provides that the above amendments come into operation on 20 October 2010 for the purpose only of submitting returns and reports under section 48(2) and (3) of the Deposit Protection Scheme Ordinance (Cap. 581) to enable calculations to be made under Schedule 4 to that Ordinance for the year of 2011.
+
+*3 Section 13(3) of the Deposit Protection Scheme (Amendment) Ordinance 2010 (11 of 2010) (“the Amendment Ordinance”) provides that section 1(2) of Schedule 4 to the Deposit Protection Scheme Ordinance (Cap. 581) is repealed and the following substituted— “(2) In the definition of “amount of relevant deposits”— (a) a reference to a relevant deposit— (i) includes a portion of the deposit; and (ii) does not include any interest accrued on the deposit; (b) for the purposes of paragraph (a) of that definition, if a relevant deposit is held by a depositor consisting of 2 or more persons— (i) subject to subparagraph (ii), each of the 2 or more persons is deemed to have an equal share in the deposit unless the contrary is proved to the satisfaction of the Board; and (ii) if the 2 or more persons carry on business in partnership, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the members of the partnership; (c) for the purposes of paragraphs (b) and (d) of that definition, if a relevant deposit is held by a depositor consisting of 2 or more persons, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the bare trustees or trustees; (d) a reference to the amount of relevant liabilities owed by a depositor to a Scheme member is any amount the Scheme member may specify, being an amount within the range of 0% to 100% of the liabilities, other than future or contingent liabilities, owed by the depositor to the Scheme member (“relevant liabilities”), but does not include any interest accrued on the relevant liabilities; (e) for the purposes of paragraph (a) of that definition, if a relevant liability owed by a person (being a depositor, or being one of the persons whom a depositor consists of) to a Scheme member forms part of a liability owed by 2 or more persons to the Scheme member— (i) subject to subparagraph (ii), each of the 2 or more persons is deemed to have an equal share in the liability unless the contrary is proved to the satisfaction of the Board; and (ii) if the 2 or more persons carry on business in partnership, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the members of the partnership; and (f) for the purposes of paragraphs (b) and (d) of that definition, if a relevant liability is owed by a depositor, consisting of 2 or more persons, to a Scheme member, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the bare trustees or trustees.”.
+
+Section 2(1) of the Amendment Ordinance provides that subject to section 2(2) and (3), the Amendment Ordinance comes into operation on 1 January 2011. Section 2(2) of the Amendment Ordinance provides that the above amendments come into operation on 20 October 2010 for the purpose only of submitting returns and reports under section 48(2) and (3) of the Deposit Protection Scheme Ordinance (Cap. 581) to enable calculations to be made under Schedule 4 to that Ordinance for the year of 2011.
+
+*4 Section 13(4) of the Deposit Protection Scheme (Amendment) Ordinance 2010 (11 of 2010) (“the Amendment Ordinance”) provides that section 2(3) of Schedule 4 to the Deposit Protection Scheme Ordinance (Cap. 581) is amended by repealing “0.3%” and substituting “0.25%”. Section 2(1) of the Amendment Ordinance provides that subject to section 2(2) and (3), the Amendment Ordinance comes into operation on 1 January 2011. Section 2(2) of the Amendment Ordinance provides that the above amendments come into operation on 20 October 2010 for the purpose only of submitting returns and reports under section 48(2) and (3) of the Deposit Protection Scheme Ordinance (Cap. 581) to enable calculations to be made under Schedule 4 to that Ordinance for the year of 2011. *5 Section 13(5) of the Deposit Protection Scheme (Amendment) Ordinance 2010 (11 of 2010) (“the Amendment Ordinance”) provides that section 3(5) of Schedule 4 to the Deposit Protection Scheme Ordinance (Cap. 581) is amended, in column 2 of the Table—
+
+- (a) by repealing “0.05%” and substituting “0.0175%”;
+
+- (b) by repealing “0.08%” and substituting “0.028%”;
+
+- (c) by repealing “0.11%” and substituting “0.0385%”;
+
+- (d) by repealing “0.14%” and substituting “0.049%”. Section 2(1) of the Amendment Ordinance provides that subject to section 2(2) and (3), the Amendment Ordinance comes into operation on 1 January 2011. Section 2(2) of the Amendment Ordinance provides that the above amendments come into operation on 20 October 2010 for the purpose only of submitting returns and reports under section 48(2) and (3) of the Deposit Protection Scheme Ordinance (Cap. 581) to enable calculations to be made under Schedule 4 to that Ordinance for the year of 2011.
