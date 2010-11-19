@@ -78,6 +78,7 @@ sch-4.md
 sch-5.md
 sch-6.md
 sch-7.md
+sch-8.md
 sch-9.md
 sch-10.md
 sch-11.md
