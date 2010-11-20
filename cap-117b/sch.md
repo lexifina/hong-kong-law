@@ -6,9 +6,9 @@ SPECIFICATION OF INSTRUMENTS
 
 - PART 1 INSTRUMENTS SPECIFIED FOR PURPOSES OF SECTION 18F(1) OF ORDINANCE Item Instrument
 
-  - 1. Conveyance on sale chargeable with stamp duty under head 1(1) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the conveyance, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule
+  - 1. Conveyance on sale chargeable with stamp duty under head 1(1) or (1AA) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the conveyance, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule (14 of 2011 s. 17)
 
-  - 2. Agreement for sale chargeable with stamp duty under head 1(1A) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the agreement, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule
+  - 2. Agreement for sale chargeable with stamp duty under head 1(1A) or (1B) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the agreement, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule (14 of 2011 s. 17)
 
   - 3. Lease chargeable with stamp duty under head 1(2)(b) in the First Schedule to the Ordinance and, if included in the same application for stamping under section 18F(1) of the Ordinance as the lease, its duplicate or counterpart chargeable with stamp duty under head 4 in that Schedule
 
