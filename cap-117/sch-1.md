@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 4, 5, 5A, 19, 20, 29, 29A, 29C, 29D, 29G, 29H, 29I, 30, 45 & 47B] (Amended 34 of 2003 s. 8)
+[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29C, 29CA, 29D, 29DA, 29G, 29H, 30, 44, 45 & 47B & 2nd Sch.] (Replaced 14 of 2011 s. 15)
 
 Nature of Instrument | (A) Stamp Duty (B) Time for stamping (C) Persons liable
 
@@ -46,6 +46,24 @@ Note 5 In the case of a conveyance on sale of residential property executed afte
 
 Note 6 (Repealed 33 of 1998 s. 11) Exchange, Instruments effecting-see section 25(7)
 
+(1AA) CONVEYANCE ON SALE CHARGEABLE WITH SPECIAL STAMP DUTY
+
+(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) (a) 15% of the amount or value of the consideration
+
+(b) if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) 10% of the amount or value of the consideration
+
+(c) if the residential property is disposed of within a period of 24 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) 5% of the amount or value of the consideration
+
+(B) The same time as that which applies to a conveyance on sale specified under sub-head (1)
+
+(C) The same parties as those who are liable in respect of a conveyance on sale specified under sub-head (1)
+
+Note 1 This sub-head is subject to sections 29D and 29DA Note 2 (a) If only part of the residential property is disposed of within a period specified in the first column of this sub-head, the special stamp duty chargeable under this sub-head is the percentage (specified opposite to that period) of the amount or value of the consideration for that part as indicated by the parties to the conveyance on sale concerned to the Collector (part consideration)
+
+(b) If different parts of the residential property are disposed of within different periods specified in the first column of this sub-head, the special stamp duty chargeable in respect of any of those parts under this sub-head is the percentage (specified opposite to the period applicable to that part) of the amount or value of the consideration for that part as indicated by the parties to the conveyance on sale concerned to the Collector (part consideration), and the special stamp duty chargeable in respect of the property under this subhead is the total of the special stamp duty chargeable in respect of those parts
+
+(c) If the Collector is of the opinion that the part consideration does not represent the value of the part concerned, the Collector may substitute that value for the part consideration for the purpose of the calculation of special stamp duty chargeable under this sub-head (Added 14 of 2011 s. 15)
+
 (1A) AGREEMENT FOR SALE
 
 (a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (A) (a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
@@ -81,6 +99,24 @@ Note 2 If, within the first 14 days of the time for stamping, an agreement for s
 Note 4 Where 2 agreements for sale are made in respect of the same, or part of the same, property and involve a common purchaser (but are not made between the same parties), this sub-head is subject to section 29C(5)
 
 Note 5 For the purposes of Notes 2, 3 and 4, a person and a parent, spouse or child of that person shall be treated as the same person (Added 8 of 1992 s. 6) Note 6 (Repealed 33 of 1998 s. 11)
+
+(1B) AGREEMENT FOR SALE CHARGEABLE WITH SPECIAL STAMP DUTY
+
+(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) (a) 15% of the amount or value of the consideration
+
+(b) if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) 10% of the amount or value of the consideration
+
+(c) if the residential property is disposed of within a period of 24 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) 5% of the amount or value of the consideration
+
+(B) The same time as that which applies to an agreement for sale specified under sub-head (1A)
+
+(C) The same parties as those who are liable in respect of an agreement for sale specified under sub-head (1A)
+
+Note 1 This sub-head is subject to sections 29C and 29CA Note 2 (a) If only part of the residential property is disposed of within a period specified in the first column of this sub-head, the special stamp duty chargeable under this sub-head is the percentage (specified opposite to that period) of the amount or value of the consideration for that part as indicated by the parties to the agreement concerned to the Collector (part consideration)
+
+(b) If different parts of the residential property are disposed of within different periods specified in the first column of this sub-head, the special stamp duty chargeable in respect of any of those parts under this sub-head is the percentage (specified opposite to the period applicable to that part) of the amount or value of the consideration for that part as indicated by the parties to the agreement concerned to the Collector (part consideration), and the special stamp duty chargeable in respect of the property under this sub-head is the total of the special stamp duty chargeable in respect of those parts
+
+(c) If the Collector is of the opinion that the part consideration does not represent the value of the part concerned, the Collector may substitute that value for the part consideration for the purpose of the calculation of special stamp duty chargeable under this sub-head Note 3 A nomination made, or a direction given, by a purchaser as referred to in paragraph (h) of the definition of agreement for sale in section 29A(1) in favour of one, or more than one, person who is a parent, spouse, child, brother or sister of the purchaser (whether or not also in favour of the purchaser) is not chargeable with special stamp duty Note 4 The Notes to head 1(1A) apply to special stamp duty chargeable under this sub-head as they apply to stamp duty chargeable under head 1(1A); but a person and a brother or sister of that person are also to be treated as the same person for the purposes of special stamp duty (Added 14 of 2011 s. 15)
 
 (2) LEASE
 

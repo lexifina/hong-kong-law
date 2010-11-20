@@ -44,7 +44,9 @@ s-029.md
 s-029A.md
 s-029B.md
 s-029C.md
+s-029CA.md
 s-029D.md
+s-029DA.md
 s-029E.md
 s-029F.md
 s-029G.md
@@ -92,6 +94,7 @@ s-064.md
 s-065.md
 s-066.md
 s-067.md
+s-068.md
 sch-1.md
 sch-2.md
 sch-3.md
