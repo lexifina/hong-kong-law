@@ -4,8 +4,6 @@
 
 FEES
 
-(*Items marked with the asterisk (*) have not yet come into operation.)
-
 Item | Relevant section of the Ordinance | Description | Amount $
 
 1. | 115(3) | Issue of a wholesaler licence in Chinese herbal medicines | 1,210
@@ -30,13 +28,17 @@ Item | Relevant section of the Ordinance | Description | Amount $
 
 11. | 133 | Issue of a certificate for manufacturer (Good practices in manufacture) | 29,300
 
-12. | 121(1) | (a) Application for the registration of a proprietary Chinese medicine with single active ingredient (b) Application for the registration of a proprietary Chinese medicine with multiple active ingredients | 500 1,000
+12. | 121(1) | (a) Application for the registration of a proprietary Chinese medicine with single active ingredient | 500
 
-13. | 121(2) | (a) Issue of a certificate of registration of a proprietary Chinese medicine with single active ingredient (b) Issue of a certificate of registration of a proprietary Chinese medicine with multiple active ingredients | 500 1,000
+(b) Application for the registration of a proprietary Chinese medicine with multiple active ingredients | 1,000
 
-*14. | 129(2) | Application for a certificate for clinical trial and medicinal test | 2,440
+13. | 121(2) | (a) Issue of a certificate of registration of a proprietary Chinese medicine with single active ingredient | 500
 
-*15. | 129(3) | Issue of a certificate for clinical trial and medicinal test | 79
+(b) Issue of a certificate of registration of a proprietary Chinese medicine with multiple active ingredients | 1,000
+
+14. | 129(2) | Application for a certificate for clinical trial and medicinal test | 2,440
+
+15. | 129(3) | Issue of a certificate for clinical trial and medicinal test | 79
 
 16. | 123(3) | Renewal of the registration and issue of a certificate of registration of a proprietary Chinese medicine | 1,170
 
