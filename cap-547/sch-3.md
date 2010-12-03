@@ -14,7 +14,7 @@ Item | District Council | Number of elected members | Number of appointed member
 
 3. | Kowloon City District Council | 22 | 5
 
-4. | Kwun Tong District Council | 34 | 8
+4. | Kwun Tong District Council | 34 [35]* | 8
 
 5. | Sham Shui Po District Council | 21 | 5
 
@@ -24,15 +24,15 @@ Item | District Council | Number of elected members | Number of appointed member
 
 8. | Wong Tai Sin District Council | 25 | 6
 
-9. | Yau Tsim Mong District Council | 16 | 4
+9. | Yau Tsim Mong District Council | 16 [17]* | 4
 
 10. | Islands District Council | 10 | 4
 
-11. | Kwai Tsing District Council | 28 | 7
+11. | Kwai Tsing District Council | 28 [29]* | 7
 
-12. | North District Council | 16 | 5
+12. | North District Council | 16 [17]* | 5
 
-13. | Sai Kung District Council | 23 | 5
+13. | Sai Kung District Council | 23 [24]* | 5
 
 14. | Sha Tin District Council | 36 | 9
 
@@ -42,9 +42,9 @@ Item | District Council | Number of elected members | Number of appointed member
 
 17. | Tuen Mun District Council | 29 | 7
 
-18. | Yuen Long District Council | 29 | 7
+18. | Yuen Long District Council | 29 [31]* | 7
 
-(Amended 33 of 2002 s. 10; L.N. 139 of 2006)
+(Amended 33 of 2002 s. 10; L.N. 139 of 2006; L.N. 161 of 2010)
 
 - PART II RURAL COMMITTEES IN DISTRICTS
 
@@ -67,3 +67,25 @@ Item | District | District Council | Number of Rural Committees | Names of Rural
 8. | Tuen Mun District | Tuen Mun District Council | 1 | Tuen Mun Rural Committee
 
 9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee
+
+Editorial Note:
+
+* According to section 3 of the District Councils Ordinance (Amendment of Schedule 3) Order 2010 (L.N. 161 of 2010) (“the Amendment Order”)—
+
+- (a) item 4 is amended by repealing “34” and substituting “35”;
+
+- (b) item 9 is amended by repealing “16” and substituting “17”;
+
+- (c) item 11 is amended by repealing “28” and substituting “29”;
+
+- (d) item 12 is amended by repealing “16” and substituting “17”;
+
+- (e) item 13 is amended by repealing “23” and substituting “24”;
+
+- (f) item 18 is amended by repealing “29” and substituting “31”.
+
+According to section 1 of the Amendment Order and the District Councils Ordinance (Amendment of Schedule 3) Order 2010 (Commencement) Notice (L.N. 159 of 2010) , the above amendments—
+
+- (i) come into operation on 3 December 2010 for the purpose only of enabling arrangements to be made for the holding of the District Council ordinary election in 2011; and
+
+- (ii) in so far as they have not come into operation under paragraph (i), come into operation on 1 January 2012.
