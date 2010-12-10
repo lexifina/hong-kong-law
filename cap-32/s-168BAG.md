@@ -1,0 +1,41 @@
+# 168BAG. Communication in electronic form
+
+(1) Subject to subsection (2), this section applies if a document or information is sent or supplied, in electronic form, by a company to another person other than the Registrar.
+
+(2) This section does not apply if the document or information is sent or supplied by the company to that other person by making it available on a website.
+
+(3) The document or information is sent or supplied to that other person for the purposes of an applicable provision if—
+
+- (a) that other person has agreed, generally or specifically, that the document or information may be sent or supplied to the person in electronic form and has not revoked the agreement;
+
+- (b) the document or information is sent or supplied—
+
+  - (i) by electronic means to an address specified for the purpose by that other person generally or specifically;
+
+  - (ii) by hand to that other person; or
+
+  - (iii) by hand or by post to an address specified in section 168BAE; and
+
+- (c) the document or information is sent or supplied in a form, and by a means, that, in the company’s reasonable opinion, will enable the recipient—
+
+  - (i) to read the document or information, or, to the extent that it consists of images, to see the document or information, with the naked eye or with the eye with suitable corrective lens; and
+
+  - (ii) to retain a copy of the document or information.
+
+(4) That other person has not revoked the agreement for the purposes of subsection (3)(a) unless the person has given the company a notice of revocation of not less than the period specified in section 168BAB.
+
+(5) For the purposes of an applicable provision that authorizes or requires the document or information to be authenticated, the document or information is sufficiently authenticated if—
+
+- (a) the company’s identity is confirmed in a manner specified by that other person; or
+
+- (b) where no manner has been specified, the communication contains or is accompanied by a statement of the company’s identity, and that other person has no reason to doubt the truth of the statement.
+
+(6) If the document or information is sent or supplied by a person on behalf of the company to another company, subsection (5) does not affect any provision of that other company’s articles under which that other company may require reasonable evidence of the person’s authority to act on behalf of the company for which the document or information is sent or supplied.
+
+(7) If the document or information is sent or supplied to that other person for the purposes of an applicable provision, it is to be regarded as being received by that other person—
+
+- (a) where the document or information is sent or supplied by electronic means, at the end of the period specified in section 168BAC after it is sent or supplied;
+
+- (b) where the document or information is sent or supplied by post, at the time specified in section 168BAD; or
+
+- (c) where the document or information is sent or supplied by hand, at the time when the document or information is delivered.

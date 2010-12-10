@@ -2,15 +2,11 @@
 
 [ss. 2, 4, 14 & 360] (Amended 28 of 2003 s. 115)
 
-TABLE A [sections 2, 11, 114A, 322 & 360]
+TABLE A | [sections 2, 11, 114A, 322 & 360]
 
 (Amended 28 of 2003 s. 115)
 
-- PART I REGULATIONS FOR MANAGEMENT OF A COMPANY LIMITED
-
-- BY SHARES, NOT BEING A PRIVATE COMPANY
-
-- Interpretation
+- PART I REGULATIONS FOR MANAGEMENT OF A COMPANY LIMITED BY SHARES, NOT BEING A PRIVATE COMPANY Interpretation
 
   - 1. In these regulations—
 
@@ -18,13 +14,15 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
     - “seal” (印章) means the common seal of the company;
 
-    - “secretary” (秘書) means any person appointed to perform the duties of the secretary of the company. Expressions used in these regulations referring to writing shall, unless the contrary intention appears, be construed as including references to printing, lithography, photography and other modes of representing or reproducing words in a visible form.
+    - “secretary” (秘書) means any person appointed to perform the duties of the secretary of the company.
 
-    - Wherever any provision of these regulations (except a provision for the appointment of a proxy) requires that a communication as between the company, its directors or members be effected in writing, the requirement may be satisfied by the communication being given in the form of an electronic record if the person to whom the communication is given consents to it being given to him in that form.
+  - Expressions used in these regulations referring to writing shall, unless the contrary intention appears, be construed as including references to printing, lithography, photography and other modes of representing or reproducing words in a visible form.
 
-    - Wherever any provision of these regulations requires that a meeting of the company, its directors or members be held, the requirement may be satisfied by the meeting being held by such lawful electronic means and in such manner as may be agreed by the company in general meeting.
+  - Wherever any provision of these regulations (except a provision for the appointment of a proxy) requires that a communication as between the company, its directors or members be effected in writing, the requirement may be satisfied by the communication being given in the form of an electronic record if the person to whom the communication is given consents to it being given to him in that form.
 
-    - Unless the context otherwise requires, words or expressions used in these regulations shall have the same meaning as in the Ordinance or any statutory modification thereof in force at the date at which these regulations become binding on the company. (Replaced 28 of 2003 s. 115) Share Capital and Variation of Rights
+  - Wherever any provision of these regulations requires that a meeting of the company, its directors or members be held, the requirement may be satisfied by the meeting being held by such lawful electronic means and in such manner as may be agreed by the company in general meeting.Unless the context otherwise requires, words or expressions used in these regulations shall have the same meaning as in the Ordinance or any statutory modification thereof in force at the date at which these regulations become binding on the company. (Replaced 28 of 2003 s. 115)
+
+- Share Capital and Variation of Rights
 
   - 2. Without prejudice to any special rights previously conferred on the holders of any existing shares or class of shares, any share in the company may be issued with such preferred, deferred or other special rights or such restrictions, whether in regard to dividend, voting, return of capital or otherwise as the company may from time to time by ordinary resolution determine.
 
@@ -42,7 +40,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 9. If a share certificate be defaced, lost or destroyed, it may be renewed on payment of a fee of $5 or such less sum and on such terms (if any) as to evidence and indemnity and the payment of out-of-pocket expenses of the company of investigating evidence as the directors think fit.
 
-  - 10. (Repealed L.N. 188 of 1993) Lien
+  - 10. (Repealed L.N. 188 of 1993)
+
+- Lien
 
   - 11. The company shall have a first and paramount lien on every share (not being a fully paid share) for all moneys (whether presently payable or not) called or payable at a fixed time in respect of that share, and the company shall also have a first and paramount lien on all shares (other than fully paid shares) standing registered in the name of a single person for all moneys presently payable by him or his estate to the company; but the directors may at any time declare any share to be wholly or in part exempt from the provisions of this regulation. The company’s lien, if any, on a share shall extend to all dividends payable thereon.
 
@@ -50,7 +50,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 13. To give effect to any such sale the directors may authorize some person to transfer the shares sold to the purchaser thereof. The purchaser shall be registered as the holder of the shares comprized in any such transfer, and he shall not be bound to see to the application of the purchase money, nor shall his title to the shares be affected by any irregularity or invalidity in the proceedings in reference to the sale.
 
-  - 14. The proceeds of the sale shall be received by the company and applied in payment of such part of the amount in respect of which the lien exists as is presently payable, and the residue, if any, shall (subject to a like lien for sums not presently payable as existed upon the shares before the sale) be paid to the person entitled to the shares at the date of the sale. Calls on Shares
+  - 14. The proceeds of the sale shall be received by the company and applied in payment of such part of the amount in respect of which the lien exists as is presently payable, and the residue, if any, shall (subject to a like lien for sums not presently payable as existed upon the shares before the sale) be paid to the person entitled to the shares at the date of the sale.
+
+- Calls on Shares
 
   - 15. The directors may from time to time make calls upon the members in respect of any moneys unpaid on their shares (whether on account of the nominal value of the shares or by way of premium) and not by the conditions of allotment thereof made payable at fixed times, provided that no call shall exceed one-fourth of the nominal value of the share or be payable at less than 1 month from the date fixed for the payment of the last preceding call, and each member shall (subject to receiving at least 14 days’ notice specifying the time or times and place of payment) pay to the company at the time or times and place so specified the amount called on his shares. A call may be revoked or postponed as the directors may determine.
 
@@ -64,7 +66,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 20. The directors may, on the issue of shares, differentiate between the holders as to the amount of calls to be paid and the times of payment.
 
-  - 21. The directors may, if they think fit, receive from any member willing to advance the same, all or any part of the moneys uncalled and unpaid upon any shares held by him, and upon all or any of the moneys so advanced may (until the same would, but for such advance, become payable) pay interest at such rate not exceeding (unless the company in general meeting shall otherwise direct) 8 per cent per annum, as may be agreed upon between the directors and the member paying such sum in advance. Transfer of Shares
+  - 21. The directors may, if they think fit, receive from any member willing to advance the same, all or any part of the moneys uncalled and unpaid upon any shares held by him, and upon all or any of the moneys so advanced may (until the same would, but for such advance, become payable) pay interest at such rate not exceeding (unless the company in general meeting shall otherwise direct) 8 per cent per annum, as may be agreed upon between the directors and the member paying such sum in advance.
+
+- Transfer of Shares
 
   - 22. The instrument of transfer of any share shall be executed by or on behalf of the transferor and transferee, and the transferor shall be deemed to remain a holder of the share until the name of the transferee is entered in the register of members in respect thereof.
 
@@ -84,7 +88,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 27. The registration of transfers may be suspended at such times and for such periods as the directors may from time to time determine, provided always that such registration shall not be suspended in any year for more than 30 days or, where the period for closing the register of members is extended in respect of that year under section 99(2)(a) of the Ordinance, for more than that extended period.
 
-  - 28. The company shall be entitled to charge a fee not exceeding $5 on the registration of every probate, letters of administration, certificate of death or marriage, power of attorney, or other instrument. Transmission of Shares
+  - 28. The company shall be entitled to charge a fee not exceeding $5 on the registration of every probate, letters of administration, certificate of death or marriage, power of attorney, or other instrument.
+
+- Transmission of Shares
 
   - 29. In case of the death of a member the survivor or survivors where the deceased was a joint holder, and the legal personal representatives of the deceased where he was a sole holder, shall be the only persons recognized by the company as having any title to his interest in the shares; but nothing herein contained shall release the estate of a deceased joint holder from any liability in respect of any share which had been jointly held by him with other persons.
 
@@ -96,7 +102,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
     - Provided always that the directors may at any time give notice requiring any such person to elect either to be registered himself or to transfer the share, and if the notice is not complied with within 90 days the directors may thereafter withhold payment of all dividends, bonuses or other moneys payable in respect of the share until the requirements of the notice have been complied with.
 
-  - 33. Any person to whom the right to any shares in the company has been transmitted by operation of law shall, if the directors refuse to register the transfer, be entitled to call on the directors to furnish within 28 days a statement of the reasons for the refusal. Forfeiture of Shares
+  - 33. Any person to whom the right to any shares in the company has been transmitted by operation of law shall, if the directors refuse to register the transfer, be entitled to call on the directors to furnish within 28 days a statement of the reasons for the refusal.
+
+- Forfeiture of Shares
 
   - 34. If a member fails to pay any call or instalment of a call on the day appointed for payment thereof, the directors may, at any time thereafter during such time as any part of the call or instalment remains unpaid, serve a notice on him requiring payment of so much of the call or instalment as is unpaid, together with any interest which may have accrued.
 
@@ -110,7 +118,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 39. A statutory declaration in writing that the declarant is a director or the secretary of the company, and that a share in the company has been duly forfeited on a date stated in the declaration, shall be conclusive evidence of the facts therein stated as against all persons claiming to be entitled to the share. The company may receive the consideration, if any, given for the share on any sale or disposition thereof and may execute a transfer of the share in favour of the person to whom the share is sold or disposed of and he shall thereupon be registered as the holder of the share, and shall not be bound to see to the application of the purchase money, if any, nor shall his title to the share be affected by any irregularity or invalidity in the proceedings in reference to the forfeiture, sale or disposal of the share.
 
-  - 40. The provisions of these regulations as to forfeiture shall apply in the case of non-payment of any sum which, by the terms of issue of a share, becomes payable at a fixed time, whether on account of the nominal value of the share or by way of premium, as if the same had been payable by virtue of a call duly made and notified. Conversion of Shares into Stock
+  - 40. The provisions of these regulations as to forfeiture shall apply in the case of non-payment of any sum which, by the terms of issue of a share, becomes payable at a fixed time, whether on account of the nominal value of the share or by way of premium, as if the same had been payable by virtue of a call duly made and notified.
+
+- Conversion of Shares into Stock
 
   - 41. The company may by ordinary resolution convert any paid-up shares into stock, and reconvert any stock into paid-up shares of any denomination.
 
@@ -118,7 +128,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 43. The holders of stock shall, according to the amount of stock held by them, have the same rights, privileges and advantages as regards dividends, voting at meetings of the company and other matters as if they held the shares from which the stock arose, but no such privilege or advantage (except participation in the dividends and profits of the company and in the assets on winding up) shall be conferred by an amount of stock which would not, if existing in shares, have conferred that privilege or advantage.
 
-  - 44. Such of the regulations of the company as are applicable to paid-up shares shall apply to stock, and the words “share” and “shareholder” therein shall include “stock” and “stockholder”. Alteration of Capital
+  - 44. Such of the regulations of the company as are applicable to paid-up shares shall apply to stock, and the words “share” and “shareholder” therein shall include “stock” and “stockholder”.
+
+- Alteration of Capital
 
   - 45. The company may from time to time by ordinary resolution increase the share capital by such sum, to be divided into shares of such amount, as the resolution shall prescribe.
 
@@ -130,13 +142,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
     - (c) cancel any shares which, at the date of the passing of the resolution, have not been taken or agreed to be taken by any person.
 
-  - 47.
+  - 47. The company may by special resolution reduce its share capital, any capital redemption reserve fund or any share premium account in any manner and with, and subject to, any incident authorized, and consent required, by law.
 
-  - The company may by special resolution reduce its share capital, any capital redemption reserve fund or any share premium account in any manner and with, and subject to, any incident authorized, and consent required, by law.
-
-  - Purchase of own Shares
-
-  - (Added L.N. 188 of 1993)
+- Purchase of own Shares (Added L.N. 188 of 1993)
 
   - 47A. At any time while the company is a listed company within the meaning of the Ordinance, it may, subject to sections 49, 49A, 49B(6), 49BA, 49C, 49E, 49F, 49G, 49H, 49P, 49Q, 49R and 49S of the Ordinance, purchase its own shares (including any redeemable shares) (Added L.N. 188 of 1993)
 
@@ -160,15 +168,19 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
     - of the Ordinance. (Added L.N. 188 of 1993)
 
-    - Allotment of Shares
+- Allotment of Shares
 
-  - 48. The directors shall not exercise any power conferred on them to allot shares in the company without the prior approval of the company in general meeting where such approval is required by section 57B of the Ordinance. General Meetings
+  - 48. The directors shall not exercise any power conferred on them to allot shares in the company without the prior approval of the company in general meeting where such approval is required by section 57B of the Ordinance.
+
+- General Meetings
 
   - 49. The Company shall in each year hold a general meeting as its annual general meeting in addition to any other meetings in that year, and shall specify the meeting as such in the notices calling it; and not more than 15 months shall elapse between the date of one annual general meeting of the company and that of the next. Provided that so long as the company holds its first annual general meeting within 18 months of its incorporation, it need not hold it in the year of its incorporation or in the following year. The annual general meeting shall be held at such time and place as the directors shall appoint.
 
   - 50. All general meetings other than annual general meetings shall be called extraordinary general meetings.
 
-  - 51. The directors may, whenever they think fit, convene an extraordinary general meeting, and extraordinary general meetings shall also be convened on such requisition, or in default, may be convened by such requisitionists, as provided by section 113 of the Ordinance. If at any time there are not within Hong Kong sufficient directors capable of acting to form a quorum, any director or any 2 members of the company may convene an extraordinary general meeting in the same manner as nearly as possible as that in which meetings may be convened by the directors. Notice of General Meetings
+  - 51. The directors may, whenever they think fit, convene an extraordinary general meeting, and extraordinary general meetings shall also be convened on such requisition, or in default, may be convened by such requisitionists, as provided by section 113 of the Ordinance. If at any time there are not within Hong Kong sufficient directors capable of acting to form a quorum, any director or any 2 members of the company may convene an extraordinary general meeting in the same manner as nearly as possible as that in which meetings may be convened by the directors.
+
+- Notice of General Meetings
 
   - 52. An annual general meeting and a meeting called for the passing of a special resolution shall be called by 21 days’ notice in writing at the least, and a meeting of the company other than an annual general meeting or a meeting for the passing of a special resolution shall be called by 14 days’ notice in writing at the least. The notice shall be exclusive of the day on which it is served or deemed to be served and of the day for which it is given, and shall specify the place, the day and the hour of meeting and, in case of special business, the general nature of that business, and shall be given, in manner hereinafter mentioned or in such other manner, if any, as may be prescribed by the company in general meeting, to such persons as are, under the regulations of the company, entitled to receive such notices from the company:
 
@@ -178,7 +190,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
       - (b) in the case of any other meeting, by a majority in number of the members having a right to attend and vote at the meeting, being a majority together holding not less than 95 per cent in nominal value of the shares giving that right.
 
-  - 53. The accidental omission to give notice of a meeting to, or the non-receipt of notice of a meeting by, any person entitled to receive notice shall not invalidate the proceedings at that meeting. Proceedings at General Meetings
+  - 53. The accidental omission to give notice of a meeting to, or the non-receipt of notice of a meeting by, any person entitled to receive notice shall not invalidate the proceedings at that meeting.
+
+- Proceedings at General Meetings
 
   - 54. All business shall be deemed special that is transacted at an extraordinary general meeting, and also all that is transacted at an annual general meeting, with the exception of declaring a dividend, the consideration of the accounts, balance sheets, and the reports of the directors and auditors, the election of directors in the place of those retiring and the appointment of, and the fixing of the remuneration of, the auditors.
 
@@ -210,7 +224,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 62. In the case of an equality of votes, whether on a show of hands or on a poll, the chairman of the meeting at which the show of hands takes place or at which the poll is demanded, shall be entitled to a second or casting vote.
 
-  - 63. A poll demanded on the election of a chairman or on a question of adjournment shall be taken forthwith. A poll demanded on any other question shall be taken at such time as the chairman of the meeting directs, and any business other than that upon which a poll has been demanded may be proceeded with pending the taking of the poll. Votes of Members
+  - 63. A poll demanded on the election of a chairman or on a question of adjournment shall be taken forthwith. A poll demanded on any other question shall be taken at such time as the chairman of the meeting directs, and any business other than that upon which a poll has been demanded may be proceeded with pending the taking of the poll.
+
+- Votes of Members
 
   - 64. Subject to any rights or restrictions for the time being attached to any class or classes of shares, on a show of hands every member present in person shall have 1 vote, and on a poll every member shall have 1 vote for each share of which he is the holder.
 
@@ -228,23 +244,21 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 71. The instrument appointing a proxy and the power of attorney or other authority, if any, under which it is signed, or a notarially certified copy of that power or authority shall be deposited at the registered office of the company or at such other place within Hong Kong as is specified for that purpose in the notice convening the meeting, not less than 48 hours before the time for holding the meeting or adjourned meeting, at which the person named in the instrument proposes to vote, or, in the case of a poll, not less than 24 hours before the time appointed for the taking of the poll, and in default the instrument of proxy shall not be treated as valid.
 
-  - 72. An instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit— “ Limited
+  - 72. An instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit—
 
-  - I/We , of , being a member/members of the above-named company, hereby appoint
+  - “ Limited
 
-  - of , or failing him, | of
+  - I/We , of , being a member/members of the above-named company, hereby appoint of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof.
 
-  - , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof. Signed this day of 19 .”.
+  - Signed this day of 19 .”.
 
-  - 73. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit— “ Limited
+  - 73. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit—
 
-  - I/We, , of , being a member/members of the
+  - “ Limited
 
-  - above-named company, hereby appoint | of
+  - I/We , of , being a member/members of the above-named company, hereby appoint of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof.
 
-  - , or failing him, of | ,
-
-  - as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company, to be held on the day of 19 , and at any adjournment thereof. Signed this day of 19 .
+  - Signed this day of 19 .”.
 
   - This form is to be used | *in favour of | the resolution.
 
@@ -256,9 +270,13 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 74. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
 
-  - 75. A vote given in accordance with the terms of an instrument of proxy shall be valid notwithstanding the previous death or insanity of the principal or revocation of the proxy or of the authority under which the proxy was executed, or the transfer of the share in respect of which the proxy is given, provided that no intimation in writing of such death, insanity, revocation or transfer as aforesaid shall have been received by the company at the office before the commencement of the meeting or adjourned meeting at which the proxy is used. Corporations acting by Representatives at Meetings
+  - 75. A vote given in accordance with the terms of an instrument of proxy shall be valid notwithstanding the previous death or insanity of the principal or revocation of the proxy or of the authority under which the proxy was executed, or the transfer of the share in respect of which the proxy is given, provided that no intimation in writing of such death, insanity, revocation or transfer as aforesaid shall have been received by the company at the office before the commencement of the meeting or adjourned meeting at which the proxy is used.
 
-  - 76. Any corporation which is a member of the company may by resolution of its directors or other governing body authorize such person as it thinks fit to act as its representative at any meeting of the company or of any class of members of the company, and the person so authorized shall be entitled to exercise the same powers on behalf of the corporation which he represents as that corporation could exercise if it were an individual member of the company. Directors
+- Corporations acting by Representatives at Meetings
+
+  - 76. Any corporation which is a member of the company may by resolution of its directors or other governing body authorize such person as it thinks fit to act as its representative at any meeting of the company or of any class of members of the company, and the person so authorized shall be entitled to exercise the same powers on behalf of the corporation which he represents as that corporation could exercise if it were an individual member of the company.
+
+- Directors
 
   - 77. The number of the directors and the names of the first directors shall be determined in writing by the founder members or a majority of them. (Amended 30 of 2004 s. 2)
 
@@ -266,13 +284,15 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 79. The shareholding qualification for directors may be fixed by the company in general meeting, and unless and until so fixed no qualification shall be required.
 
-  - 80. A director of the company may be or become a director or other officer of, or otherwise interested in, any company promoted by the company or in which the company may be interested as shareholder or otherwise, and, subject to the Ordinance, no such director shall be accountable to the company for any remuneration or other benefits received by him as a director or officer of, or from his interest in, such other company unless the company otherwise direct. Borrowing Powers
+  - 80. A director of the company may be or become a director or other officer of, or otherwise interested in, any company promoted by the company or in which the company may be interested as shareholder or otherwise, and, subject to the Ordinance, no such director shall be accountable to the company for any remuneration or other benefits received by him as a director or officer of, or from his interest in, such other company unless the company otherwise direct.
+
+- Borrowing Powers
 
   - 81. The directors may exercise all the powers of the company to borrow money, and to mortgage or charge its undertaking, property and uncalled capital, or any part thereof, and to issue debentures, debenture stock, and, subject to section 57B of the Ordinance, convertible debentures and convertible debenture stock, and other securities whether outright or as security for any debt, liability or obligation of the company or of any third party:
 
     - Provided that the amount for the time being remaining undischarged of moneys borrowed or secured by the directors as aforesaid (apart from temporary loans obtained from the company’s bankers in the ordinary course of business) shall not at any time, without the previous sanction of the company in general meeting, exceed the nominal amount of the share capital of the company for the time being issued, but nevertheless no lender or other person dealing with the company shall be concerned to see or inquire whether this limit is observed. No debt incurred or security given in excess of such limit shall be invalid or ineffectual except in the case of express notice to the lender or the recipient of the security at the time when the debt was incurred or security given that the limit hereby imposed had been or was thereby exceeded.
 
-  - Powers and Duties of Directors
+- Powers and Duties of Directors
 
   - 82. Subject to the provisions of the Ordinance, the memorandum and articles and to any directions given by special resolution, the business and affairs of the company shall be managed by the directors, who may exercise all the powers of the company. No alteration of the memorandum or articles and no such direction shall invalidate any prior act of the directors which would have been valid if that alteration had not been made or that direction had not been given. The powers given by this regulation shall not be limited by any special power given to the directors by the articles, and a meeting of the directors at which a quorum is present may exercise all powers exercisable by the directors. (Replaced 28 of 2003 s. 115)
 
@@ -316,7 +336,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - and every director present at any meeting of directors or committee of directors shall sign his name in a book to be kept for that purpose.
 
-  - 89. The directors on behalf of the company may pay a gratuity or pension or allowance on retirement to any director who has held any other salaried office or place of profit with the company or to the director’s spouse or dependants and may make contributions to any fund and pay premiums for the purchase or provision of any such gratuity, pension or allowance. (Amended 30 of 1999 s. 35) Disqualification of Directors
+  - 89. The directors on behalf of the company may pay a gratuity or pension or allowance on retirement to any director who has held any other salaried office or place of profit with the company or to the director’s spouse or dependants and may make contributions to any fund and pay premiums for the purchase or provision of any such gratuity, pension or allowance. (Amended 30 of 1999 s. 35)
+
+- Disqualification of Directors
 
   - 90. The office of director shall be vacated if the director—
 
@@ -330,7 +352,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
     - (e) resigns his office by notice in writing to the company given in accordance with section 157D(3)(a) of the Ordinance; or
 
-    - (f) shall for more than 6 months have been absent without permission of the directors from meetings of the directors held during that period. Rotation of Directors
+    - (f) shall for more than 6 months have been absent without permission of the directors from meetings of the directors held during that period.
+
+- Rotation of Directors
 
   - 91. At the first annual general meeting of the company all the directors shall retire from office, and at the annual general meeting in every subsequent year one-third of the directors for the time being, or, if their number is not 3 or a multiple of 3, then the number nearest one-third, shall retire from office.
 
@@ -348,7 +372,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 98. The company may by special resolution remove any director before the expiration of his period of office notwithstanding anything in these regulations or in any agreement between the company and such director. Such removal shall be without prejudice to any claim such director may have for damages for breach of any contract of service between him and the company.
 
-  - 99. The company may by ordinary resolution appoint another person in place of a director removed from office under the immediately preceding regulation, and without prejudice to the powers of the directors under regulation 97 the company in general meeting may appoint any person to be a director either to fill a casual vacancy or as an additional director. A person appointed in place of a director so removed or to fill such a vacancy shall be subject to retirement at the same time as if he had become a director on the day on which the director in whose place he is appointed was last elected a director. Proceedings of Directors
+  - 99. The company may by ordinary resolution appoint another person in place of a director removed from office under the immediately preceding regulation, and without prejudice to the powers of the directors under regulation 97 the company in general meeting may appoint any person to be a director either to fill a casual vacancy or as an additional director. A person appointed in place of a director so removed or to fill such a vacancy shall be subject to retirement at the same time as if he had become a director on the day on which the director in whose place he is appointed was last elected a director.
+
+- Proceedings of Directors
 
   - 100. The directors may meet together for the despatch of business, adjourn, and otherwise regulate their meetings, as they think fit. Questions arising at any meeting shall be decided by a majority of votes. In case of an equality of votes, the chairman shall have a second or casting vote. A director may, and the secretary on the requisition of a director shall, at any time summon a meeting of the directors. It shall not be necessary to give notice of a meeting of directors to any director for the time being absent from Hong Kong.
 
@@ -370,19 +396,25 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
     - Provided that this regulation shall not apply in relation to any contract or arrangement (not being one of the types specified in regulation 86(2)) in which a director or directors are interested, unless the number of directors signing the resolution who are not interested in the contract or arrangement would have constituted a quorum of directors if a meeting had been held for the purpose of considering the contract or arrangement.
 
-  - Managing Director
+- Managing Director
 
   - 109. The directors may from time to time appoint one or more of their body to the office of managing director for such period and on such terms as they think fit, and, subject to the terms of any agreement entered into in any particular case, may revoke such appointment. A director so appointed shall not, whilst holding that office, be subject to retirement by rotation or be taken into account in determining the rotation of retirement of directors, but his appointment shall be automatically determined if he cease from any cause to be a director.
 
   - 110. A managing director shall receive such remuneration (whether by way of salary, commission or participation in profits, or partly in one way and partly in another) as the directors may determine.
 
-  - 111. The directors may entrust to and confer upon a managing director any of the powers exercisable by them upon such terms and conditions and with such restrictions as they may think fit, and either collaterally with or to the exclusion of their own powers and may from time to time revoke, withdraw, alter or vary all or any of such powers. Secretary
+  - 111. The directors may entrust to and confer upon a managing director any of the powers exercisable by them upon such terms and conditions and with such restrictions as they may think fit, and either collaterally with or to the exclusion of their own powers and may from time to time revoke, withdraw, alter or vary all or any of such powers.
+
+- Secretary
 
   - 112. The secretary shall be appointed by the directors for such term, at such remuneration and upon such conditions as they may think fit; and any secretary so appointed may be removed by them.
 
-  - 113. A provision of the Ordinance or these regulations requiring or authorizing a thing to be done by or to a director and the secretary shall not be satisfied by its being done by or to the same person acting both as director and as, or in place of, the secretary. The Seal
+  - 113. A provision of the Ordinance or these regulations requiring or authorizing a thing to be done by or to a director and the secretary shall not be satisfied by its being done by or to the same person acting both as director and as, or in place of, the secretary.
 
-  - 114. The directors shall provide for the safe custody of the seal, which shall only be used by the authority of the directors or of a committee of the directors authorized by the directors in that behalf, and every instrument to which the seal shall be affixed shall be signed by a director and shall be countersigned by the secretary or by a second director or by some other person appointed by the directors for the purpose. Dividends and Reserve
+- The Seal
+
+  - 114. The directors shall provide for the safe custody of the seal, which shall only be used by the authority of the directors or of a committee of the directors authorized by the directors in that behalf, and every instrument to which the seal shall be affixed shall be signed by a director and shall be countersigned by the secretary or by a second director or by some other person appointed by the directors for the purpose.
+
+- Dividends and Reserve
 
   - 115. The company in general meeting may declare dividends, but no dividend shall exceed the amount recommended by the directors.
 
@@ -400,7 +432,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 122. Any dividend, bonus, interest or other moneys payable in cash in respect of shares may be paid by cheque or warrant sent through the post directed to the registered address of the holder or, in the case of joint holders, to the registered address of that one of the joint holders who is first named on the register of members or to such person and to such address as the holder or joint holders may in writing direct. Every such cheque or warrant shall be made payable to the order of the person to whom it is sent. Any one of 2 or more joint holders may give effectual receipts for any dividends, bonuses, interest or other moneys payable in respect of the shares held by them as joint holders.
 
-  - 123. No dividend shall bear interest against the company. Accounts
+  - 123. No dividend shall bear interest against the company.
+
+- Accounts
 
   - 124. The directors shall cause proper books of account to be kept with respect to—
 
@@ -422,15 +456,19 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
     - Provided that this regulation shall not require a copy of those documents to be sent to any person of whose address the company is not aware or to more than one of the joint holders of any shares or debentures.
 
-  - Capitalization of Profits
+- Capitalization of Profits
 
   - 129. The company in general meeting may upon the recommendation of the directors resolve that it is desirable to capitalize any part of the amount for the time being standing to the credit of any of the company’s reserve accounts or to the credit of the profit and loss account or otherwise available for distribution, and accordingly that such sum be set free for distribution amongst the members who would have been entitled thereto if distributed by way of dividend and in the same proportions on condition that the same be not paid in cash but be applied either in or towards paying up any amounts for the time being unpaid on any shares held by such members respectively or paying up in full unissued shares or debentures of the company to be allotted and distributed credited as fully paid up to and amongst such members in the proportion aforesaid, or partly in the one way and partly in the other, and the directors shall give effect to such resolution:
 
     - Provided that a share premium account and a capital redemption reserve fund may, for the purposes of this regulation, only be applied in the paying up of unissued shares to be allotted to members of the company as fully paid bonus shares.
 
-  - 130. Whenever such a resolution as aforesaid shall have been passed the directors shall make all appropriations and applications of the undivided profits resolved to be capitalized thereby, and all allotments and issues of fully-paid shares or debentures, if any, and generally shall do all acts and things required to give effect thereto, with full power to the directors to make such provision by the issue of fractional certificates or by payment in cash or otherwise as they think fit for the case of shares or debentures becoming distributable in fractions, and also to authorize any person to enter on behalf of all the members entitled thereto into an agreement with the company providing for the allotment to them respectively, credited as fully paid up, of any further shares or debentures to which they may be entitled upon such capitalization, or (as the case may require) for the payment up by the company on their behalf, by the application thereto of their respective proportions of the profits resolved to be capitalized, of the amounts or any part of the amounts remaining unpaid on their existing shares, and any agreement made under such authority shall be effective and binding on all such members. Audit
+  - 130. Whenever such a resolution as aforesaid shall have been passed the directors shall make all appropriations and applications of the undivided profits resolved to be capitalized thereby, and all allotments and issues of fully-paid shares or debentures, if any, and generally shall do all acts and things required to give effect thereto, with full power to the directors to make such provision by the issue of fractional certificates or by payment in cash or otherwise as they think fit for the case of shares or debentures becoming distributable in fractions, and also to authorize any person to enter on behalf of all the members entitled thereto into an agreement with the company providing for the allotment to them respectively, credited as fully paid up, of any further shares or debentures to which they may be entitled upon such capitalization, or (as the case may require) for the payment up by the company on their behalf, by the application thereto of their respective proportions of the profits resolved to be capitalized, of the amounts or any part of the amounts remaining unpaid on their existing shares, and any agreement made under such authority shall be effective and binding on all such members.
 
-  - 131. Auditors shall be appointed and their duties regulated in accordance with sections 131, 132, 133, 140, 140A, 140B and 141 of the Ordinance. Notices
+- Audit
+
+  - 131. Auditors shall be appointed and their duties regulated in accordance with sections 131, 132, 133, 140, 140A, 140B and 141 of the Ordinance.
+
+- Notices
 
   - 132. A notice may be given by the company to any member either personally or by sending it by post to him or to his registered address, or (if he has no registered address within Hong Kong) to the address, if any, within Hong Kong supplied by him to the company for the giving of notice to him. Where a notice is sent by post, service of the notice shall be deemed to be effected by properly addressing, prepaying, and posting a letter containing the notice, and to have been effected in the case of a notice of a meeting at the expiration of 48 hours after the letter containing the same is posted, and in any other case at the time at which the letter would be delivered in the ordinary course of post.
 
@@ -448,15 +486,15 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - No other person shall be entitled to receive notices of general meetings.
 
-  - Winding up
+- Winding up
 
-  - 136. If the company shall be wound up the liquidator may, with the sanction of a special resolution of the company and any other sanction required by the Ordinance, divide amongst the members in specie or kind the whole or any part of the assets of the company (whether they shall consist of property of the same kind or not) and may, for such purpose, set such value as he deems fair upon any property to be divided as aforesaid and may determine how such division shall be carried out as between the members or different classes of members. The liquidator may, with the like sanction, vest the whole or any part of such assets in trustees upon such trusts for the benefit of the contributories as the liquidator, with the like sanction, shall think fit, but so that no member shall be compelled to accept any shares or other securities whereon there is any liability. Indemnity
+  - 136. If the company shall be wound up the liquidator may, with the sanction of a special resolution of the company and any other sanction required by the Ordinance, divide amongst the members in specie or kind the whole or any part of the assets of the company (whether they shall consist of property of the same kind or not) and may, for such purpose, set such value as he deems fair upon any property to be divided as aforesaid and may determine how such division shall be carried out as between the members or different classes of members. The liquidator may, with the like sanction, vest the whole or any part of such assets in trustees upon such trusts for the benefit of the contributories as the liquidator, with the like sanction, shall think fit, but so that no member shall be compelled to accept any shares or other securities whereon there is any liability.
+
+- Indemnity
 
   - 137. Every director, managing director, agent, auditor, secretary and other officer for the time being of the company shall be indemnified out of the assets of the company against any liability incurred by him in relation to the company in defending any proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted or in connexion with any application under section 358 of the Ordinance in which relief is granted to him by the court.
 
-- PART II REGULATIONS FOR THE MANAGEMENT OF A PRIVATE COMPANY
-
-- LIMITED BY SHARES
+- PART II REGULATIONS FOR THE MANAGEMENT OF A PRIVATE COMPANY LIMITED BY SHARES
 
   - 1. The regulations contained in Part I of Table A (with the exception of regulations 24, 47A and 47B) shall apply. (Amended L.N. 188 of 1993)
 
@@ -474,13 +512,15 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 2B. Subject to sections 49I to 49O of the Ordinance, the company may make a payment in respect of the redemption or purchase of its own shares otherwise than out of the distributable profits of the company or the proceeds of a fresh issue of shares. (Added L.N. 188 of 1993)
 
-  - 3. The directors may, in their absolute discretion and without assigning any reason therefor, decline to register any transfer of any share, whether or not it is a fully paid share. Note: Regulations 2A and 2B of this Part are alternative to regulations 47A and 47B of Part I, and regulation 3 of this Part is alternative to regulation 24 of Part I. (Replaced L.N. 188 of 1993) _
+  - 3. The directors may, in their absolute discretion and without assigning any reason therefor, decline to register any transfer of any share, whether or not it is a fully paid share.
 
-  - TABLE B | [sections 4, 14 & 360] (Amended 28 of 2003 s. 115)
+- Note: Regulations 2A and 2B of this Part are alternative to regulations 47A and 47B of Part I, and regulation 3 of this Part is alternative to regulation 24 of Part I. (Replaced L.N. 188 of 1993)
 
-  - FORM OF MEMORANDUM OF ASSOCIATION OF A
+- _
 
-  - COMPANY LIMITED BY SHARES
+- TABLE B | [sections 4, 14 & 360]
+
+- (Amended 28 of 2003 s. 115) FORM OF MEMORANDUM OF ASSOCIATION OF A COMPANY LIMITED BY SHARES
 
   - 1st. The name of the company is “The Kwun Tong Electronics Manufacturing Company Limited (觀塘電子製造業有限公司)”.
 
@@ -490,43 +530,35 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 4th. The liability of the members is limited.
 
-  - 5th.
+  - 5th. The share capital of the company is $15,000,000 divided into $150,000 shares of $100 each.
 
-  - The share capital of the company is $15,000,000 divided into $150,000 shares of $100 each. WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
+- WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
 
-  - Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
+- Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
 
-  - 1. | Wong Tai-kwong (黃大光) of , Electronics Engineer. | 1
+- 1. | Wong Tai-kwong (黃大光) of , Electronics Engineer. | 1
 
-  - 2. | John Smith of | 1
+- 2. | John Smith of , Banker. | 1
 
-  - , Banker. | -
+- Total shares taken | 2 ========
 
-  - Total shares taken | 2 =====
+- Dated the day of 19 .
 
-  - Dated the day of 19 .
+- Witness to the above signatures,
 
-  - Witness to the above signatures,
+- John Jones, No. 13, Chater Road, Hong Kong.
 
-  - John Jones,
+- Solicitor.
 
-  - No. 13, Chater Road, Hong Kong.
+- (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
-  - Solicitor.
+- Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
 
-  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
+- _
 
-  - Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
+- TABLE C | [sections 14 & 360]
 
-  - _
-
-  - TABLE C | [sections 14 & 360]
-
-  - FORM OF MEMORANDUM AND ARTICLES OF ASSOCIATION
-
-  - OF A COMPANY LIMITED BY GUARANTEE,
-
-  - AND NOT HAVING A SHARE CAPITAL Memorandum of Association
+- FORM OF MEMORANDUM AND ARTICLES OF ASSOCIATION OF A COMPANY LIMITED BY GUARANTEE, AND NOT HAVING A SHARE CAPITAL Memorandum of Association
 
   - 1st. The name of the company is “The Yaumati District Elderly Residents Benevolent Association Limited (油蔴地區耆老慈善社有限公司)”.
 
@@ -536,51 +568,55 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 4th. The liability of the members is limited.
 
-  - 5th.
+  - 5th. Every member of the company undertakes to contribute to the assets of the company in the event of its being wound up while he is a member, or within 1 year afterwards, for payment of the debts and liabilities of the company contracted before he ceases to be a member, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves, such amount as may be required not exceeding $100.
 
-  - Every member of the company undertakes to contribute to the assets of the company in the event of its being wound up while he is a member, or within 1 year afterwards, for payment of the debts and liabilities of the company contracted before he ceases to be a member, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves, such amount as may be required not exceeding $100. WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association.
+- WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association.
 
-  - Names, Addresses and Descriptions of Signatories
+- Names, Addresses and Descriptions of Signatories
 
-  - 1. | Chan Kwok-wah (陳國華) of , Headmaster.
+- 1. | Chan Kwok-wah (陳國華) of , Headmaster.
 
-  - 2. | Lee Wing-tak (李榮德) of , Stockbroker.
+- 2. | Lee Wing-tak (李榮德) of , Stockbroker.
 
-  - Dated the day of 19 .
+- Dated the day of 19 .
 
-  - Witness to the above signatures,
+- Witness to the above signatures,
 
-  - John Jones,
+- John Jones, No. 13, Chater Road, Hong Kong.
 
-  - No. 13, Chater Road, Hong Kong.
+- Solicitor.
 
-  - Solicitor.
+- (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
-  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
+- _
 
-  - _ ARTICLES OF ASSOCIATION TO ACCOMPANY PRECEDING
-
-  - MEMORANDUM OF ASSOCIATION Interpretation
+- ARTICLES OF ASSOCIATION TO ACCOMPANY PRECEDING MEMORANDUM OF ASSOCIATION Interpretation
 
   - 1. In these articles—
 
-    - “Ordinance” (本條例) means the Companies Ordinance, Chapter 32.
+    - “Ordinance” (本條例) means the Companies Ordinance, Chapter 32; (Amended 12 of 2010 s. 61)
 
-    - “seal” (印章) means the common seal of the company.
+    - “seal” (印章) means the common seal of the company; (Amended 12 of 2010 s. 61)
 
     - “secretary” (秘書) means any person appointed to perform the duties of the secretary of the company. Expressions referring to writing shall, unless the contrary intention appears, be construed as including references to printing, lithography, photography, and other modes of representing or reproducing words in a visible form.
 
-    - Unless the context otherwise requires, words or expressions contained in these articles shall bear the same meaning as in the Ordinance or any statutory modification thereof in force at the date at which these articles become binding on the company. Members
+  - Unless the context otherwise requires, words or expressions contained in these articles shall bear the same meaning as in the Ordinance or any statutory modification thereof in force at the date at which these articles become binding on the company.
+
+- Members
 
   - 2. The number of members with which the company proposes to be registered is 500, but the directors may from time to time register an increase of members.
 
-  - 3. The founder members and such other persons as the directors shall admit to membership shall be members of the company. (Amended 30 of 2004 s. 2) General Meetings
+  - 3. The founder members and such other persons as the directors shall admit to membership shall be members of the company. (Amended 30 of 2004 s. 2)
+
+- General Meetings
 
   - 4. The company shall in each year hold a general meeting as its annual general meeting in addition to any other meetings in that year, and shall specify the meeting as such in the notices calling it; and not more than 15 months shall elapse between the date of one annual general meeting of the company and that of the next. Provided that so long as the company holds its first annual general meeting within 18 months of its incorporation, it need not hold it in the year of its incorporation or in the following year. The annual general meeting shall be held at such time and place as the directors shall appoint.
 
   - 5. All general meetings other than annual general meetings shall be called extraordinary general meetings.
 
-  - 6. The directors may, whenever they think fit, convene an extraordinary general meeting, and extraordinary general meetings shall also be convened on such requisition, or, in default, may be convened by such requisitionists, as provided by section 113 of the Ordinance. If at any time there are not within Hong Kong sufficient directors capable of acting to form a quorum, any director or any 2 members of the company may convene an extraordinary general meeting in the same manner as nearly as possible as that in which meetings may be convened by the directors. Notice of General Meetings
+  - 6. The directors may, whenever they think fit, convene an extraordinary general meeting, and extraordinary general meetings shall also be convened on such requisition, or, in default, may be convened by such requisitionists, as provided by section 113 of the Ordinance. If at any time there are not within Hong Kong sufficient directors capable of acting to form a quorum, any director or any 2 members of the company may convene an extraordinary general meeting in the same manner as nearly as possible as that in which meetings may be convened by the directors.
+
+- Notice of General Meetings
 
   - 7. An annual general meeting and a meeting called for the passing of a special resolution shall be called by 21 days’ notice in writing at the least, and a meeting of the company other than an annual general meeting or a meeting for the passing of a special resolution shall be called by 14 days’ notice in writing at the least. The notice shall be exclusive of the day on which it is served or deemed to be served and of the day for which it is given, and shall specify the place, the day and the hour of meeting and, in case of special business, the general nature of that business and shall be given, in manner hereinafter mentioned or in such other manner, if any, as may be prescribed by the company in general meeting, to such persons as are, under the articles of the company, entitled to receive such notices from the company:
 
@@ -590,7 +626,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
       - (b) in the case of any other meeting, by a majority in number of the members having a right to attend and vote at the meeting, being a majority together representing not less than 95 per cent of the total voting rights of all the members entitled to attend and vote at that meeting.
 
-  - 8. The accidental omission to give notice of a meeting to, or the non-receipt of notice of a meeting by, any person entitled to receive notice shall not invalidate the proceedings at that meeting. Proceedings at General Meetings
+  - 8. The accidental omission to give notice of a meeting to, or the non-receipt of notice of a meeting by, any person entitled to receive notice shall not invalidate the proceedings at that meeting.
+
+- Proceedings at General Meetings
 
   - 9. All business shall be deemed special that is transacted at an extraordinary general meeting, and also all that is transacted at an annual general meeting, with the exception of declaring a dividend, the consideration of the accounts, balance sheets, and the reports of the directors and auditors, the election of directors in the place of those retiring and the appointment of, and the fixing of the remuneration of, the auditors.
 
@@ -620,7 +658,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 17. In the case of an equality of votes, whether on a show of hands or on a poll, the chairman of the meeting at which the show of hands takes place or at which the poll is demanded, shall be entitled to a second or casting vote.
 
-  - 18. A poll demanded on the election of a chairman, or on a question of adjournment, shall be taken forthwith. A poll demanded on any other question shall be taken at such time as the chairman of the meeting directs, and any business other than that upon which a poll has been demanded may be proceeded with pending the taking of the poll. Votes of Members
+  - 18. A poll demanded on the election of a chairman, or on a question of adjournment, shall be taken forthwith. A poll demanded on any other question shall be taken at such time as the chairman of the meeting directs, and any business other than that upon which a poll has been demanded may be proceeded with pending the taking of the poll.
+
+- Votes of Members
 
   - 19. Every member shall have 1 vote.
 
@@ -636,49 +676,47 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 25. An instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit—
 
-  - “ | Limited.
+  - “ Limited
 
-  - I/We of , being a member/members
+  - I/We , of , being a member/members of the above-named company, hereby appoint of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof.
 
-  - of the above named company, hereby appoint | of
-
-  - or failing him
-
-  - of | ,
-
-  - as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof.
-
-  - Signed this | day of | 19 .”.
+  - Signed this day of 19 .”.
 
   - 26. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit—
 
-  - “ | Limited.
+  - “ Limited
 
-  - I/We , of , being a member/members of the above named company, hereby appoint of
+  - I/We , of , being a member/members of the above-named company, hereby appoint of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof.
 
-  - or failing him | of | ,
+  - Signed this day of 19 .”.
 
-  - as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the company to be held on the day of 19 , and at any adjournment thereof.
-
-  - Signed this | day of | 19 .
-
-  - This form is to be used will vote as he thinks fit. | *in favour of | the resolution. Unless otherwise instructed, the proxy
+  - This form is to be used | *in favour of | the resolution.
 
   - against
+
+  - Unless otherwise instructed, the proxy will vote as he thinks fit.
 
   - *Strike out whichever is not desired.”.
 
   - 27. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
 
-  - 28. A vote given in accordance with the terms of an instrument of proxy shall be valid notwithstanding the previous death or insanity of the principal or revocation of the proxy or of the authority under which the proxy was executed, provided that no intimation in writing of such death, insanity or revocation as aforesaid shall have been received by the company at the office before the commencement of the meeting or adjourned meeting at which the proxy is used. Corporations acting by Representatives at Meetings
+  - 28. A vote given in accordance with the terms of an instrument of proxy shall be valid notwithstanding the previous death or insanity of the principal or revocation of the proxy or of the authority under which the proxy was executed, provided that no intimation in writing of such death, insanity or revocation as aforesaid shall have been received by the company at the office before the commencement of the meeting or adjourned meeting at which the proxy is used.
 
-  - 29. Any corporation which is a member of the company may by resolution of its directors or other governing body authorize such person as it thinks fit to act as its representative at any meeting of the company, and the person so authorized shall be entitled to exercise the same powers on behalf of the corporation which he represents as that corporation could exercise if it were an individual member of the company. Directors
+- Corporations acting by Representatives at Meetings
+
+  - 29. Any corporation which is a member of the company may by resolution of its directors or other governing body authorize such person as it thinks fit to act as its representative at any meeting of the company, and the person so authorized shall be entitled to exercise the same powers on behalf of the corporation which he represents as that corporation could exercise if it were an individual member of the company.
+
+- Directors
 
   - 30. The number of the directors and the names of the first directors shall be determined in writing by the founder members or a majority of them. (Amended 30 of 2004 s. 2)
 
-  - 31. The remuneration of the directors shall from time to time be determined by the company in general meeting. Such remuneration shall be deemed to accrue from day to day. The directors shall also be paid all travelling, hotel and other expenses properly incurred by them in attending and returning from meetings of the directors or any committee of the directors or general meetings of the company or in connexion with the business of the company. Borrowing Powers
+  - 31. The remuneration of the directors shall from time to time be determined by the company in general meeting. Such remuneration shall be deemed to accrue from day to day. The directors shall also be paid all travelling, hotel and other expenses properly incurred by them in attending and returning from meetings of the directors or any committee of the directors or general meetings of the company or in connexion with the business of the company.
 
-  - 32. The directors may exercise all the powers of the company to borrow money, and to mortgage or charge its undertaking and property, or any part thereof, and to issue debentures, debenture stock and other securities, whether outright or as security for any debt, liability or obligation of the company or of any third party. Powers and Duties of Directors
+- Borrowing Powers
+
+  - 32. The directors may exercise all the powers of the company to borrow money, and to mortgage or charge its undertaking and property, or any part thereof, and to issue debentures, debenture stock and other securities, whether outright or as security for any debt, liability or obligation of the company or of any third party.
+
+- Powers and Duties of Directors
 
   - 33. The business of the company shall be managed by the directors, who may pay all expenses incurred in promoting and registering the company, and may exercise all such powers of the company as are not, by the Ordinance or by these articles, required to be exercised by the company in general meeting, subject nevertheless to the provisions of the Ordinance or these articles and to such regulations, being not inconsistent with the aforesaid provisions, as may be prescribed by the company in general meeting; but no regulation made by the company in general meeting shall invalidate any prior act of the directors which would have been valid if that regulation had not been made.
 
@@ -696,7 +734,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - and every director present at any meeting of directors or committee of directors shall sign his name in a book to be kept for that purpose.
 
-  - Disqualification of Directors
+- Disqualification of Directors
 
   - 37. The office of director shall be vacated if the director—
 
@@ -716,7 +754,7 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - A director shall not vote in respect of any contract in which he is interested or any matter arising thereout, and if he does so vote his vote shall not be counted.
 
-  - Rotation of Directors
+- Rotation of Directors
 
   - 38. At the first annual general meeting of the company all the directors shall retire from office, and at the annual general meeting in every subsequent year one-third of the directors for the time being, or, if their number is not 3 or a multiple of 3, then the number nearest one-third, shall retire from office.
 
@@ -734,7 +772,9 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 45. The company may by special resolution remove any director before the expiration of his period of office notwithstanding anything in these articles or in any agreement between the company and such director. Such removal shall be without prejudice to any claim such director may have for damages for breach of any contract of service between him and the company.
 
-  - 46. The company may by ordinary resolution appoint another person in place of a director removed from office under the immediately preceding article. Without prejudice to the powers of the directors under article 44 the company in general meeting may appoint any person to be a director either to fill a casual vacancy or as an additional director. The person appointed to fill such a vacancy shall be subject to retirement at the same time as if he had become a director on the day on which the director in whose place he is appointed was last elected a director. Proceedings of Directors
+  - 46. The company may by ordinary resolution appoint another person in place of a director removed from office under the immediately preceding article. Without prejudice to the powers of the directors under article 44 the company in general meeting may appoint any person to be a director either to fill a casual vacancy or as an additional director. The person appointed to fill such a vacancy shall be subject to retirement at the same time as if he had become a director on the day on which the director in whose place he is appointed was last elected a director.
+
+- Proceedings of Directors
 
   - 47. The directors may meet together for the despatch of business, adjourn, and otherwise regulate their meetings, as they think fit. Questions arising at any meeting shall be decided by a majority of votes. In the case of an equality of votes the chairman shall have a second or casting vote. A director may, and the secretary on the requisition of a director shall, at any time summon a meeting of the directors. It shall not be necessary to give notice of a meeting of directors to any director for the time being absent from Hong Kong.
 
@@ -752,13 +792,19 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 54. All acts done by any meeting of the directors or of a committee of directors, or by any person acting as a director, shall notwithstanding that it be afterwards discovered that there was some defect in the appointment of any such director or person acting as aforesaid, or that they or any of them were disqualified, be as valid as if every such person had been duly appointed and was qualified to be a director.
 
-  - 55. A resolution in writing, signed by all the directors for the time being entitled to receive notice of a meeting of the directors, shall be as valid and effectual as if it had been passed at a meeting of the directors duly convened and held. Secretary
+  - 55. A resolution in writing, signed by all the directors for the time being entitled to receive notice of a meeting of the directors, shall be as valid and effectual as if it had been passed at a meeting of the directors duly convened and held.
+
+- Secretary
 
   - 56. The secretary shall be appointed by the directors for such term, at such remuneration and upon such conditions as they may think fit; and any secretary so appointed may be removed by them.
 
-  - 57. A provision of the Ordinance or these articles requiring or authorizing a thing to be done by or to a director and the secretary shall not be satisfied by its being done by or to the same person acting both as director and as, or in place of, the secretary. The Seal
+  - 57. A provision of the Ordinance or these articles requiring or authorizing a thing to be done by or to a director and the secretary shall not be satisfied by its being done by or to the same person acting both as director and as, or in place of, the secretary.
 
-  - 58. The directors shall provide for the safe custody of the seal, which shall only be used by the authority of the directors or of a committee of the directors authorized by the directors in that behalf, and every instrument to which the seal shall be affixed shall be signed by a director and shall be countersigned by the secretary or by a second director or by some other person appointed by the directors for the purpose. Accounts
+- The Seal
+
+  - 58. The directors shall provide for the safe custody of the seal, which shall only be used by the authority of the directors or of a committee of the directors authorized by the directors in that behalf, and every instrument to which the seal shall be affixed shall be signed by a director and shall be countersigned by the secretary or by a second director or by some other person appointed by the directors for the purpose.
+
+- Accounts
 
   - 59. The directors shall cause proper books of account to be kept with respect to—
 
@@ -780,9 +826,11 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
     - Provided that this article shall not require a copy of those documents to be sent to any person of whose address the company is not aware or to more than one of the joint holders of any debentures.
 
-  - Audit
+- Audit
 
-  - 64. Auditors shall be appointed and their duties regulated in accordance with sections 131, 132, 133, 140, 140A, 140B and 141 of the Ordinance. Notices
+  - 64. Auditors shall be appointed and their duties regulated in accordance with sections 131, 132, 133, 140, 140A, 140B and 141 of the Ordinance.
+
+- Notices
 
   - 65. A notice may be given by the company to any member either personally or by sending it by post to him or to his registered address, or (if he has no registered address within Hong Kong) to the address, if any, within Hong Kong supplied by him to the company for the giving of notice to him. Where a notice is sent by post, service of the notice shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the notice, and to have been effected in the case of a notice of a meeting at the expiration of 48 hours after the letter containing the same is posted, and in any other case at the time at which the letter would be delivered in the ordinary course of post.
 
@@ -794,37 +842,29 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - No other person shall be entitled to receive notices of general meetings.
 
-  - 67.
+  - 67. Every director, managing director, agent, auditor, secretary and other officer for the time being of the company shall be indemnified out of the assets of the company against any liability incurred by him in relation to the company in defending any proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted or in connexion with any application under section 358 of the Ordinance in which relief is granted to him by the court.
 
-  - Every director, managing director, agent, auditor, secretary and other officer for the time being of the company shall be indemnified out of the assets of the company against any liability incurred by him in relation to the company in defending any proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted or in connexion with any application under section 358 of the Ordinance in which relief is granted to him by the court.
+- Names, Addresses and Descriptions of Signatories
 
-  - Names, Addresses and Descriptions of Signatories
+- 1. | Chan Kwok-wah (陳國華) of , Headmaster.
 
-  - 1. | Chan Kwok-wah (陳國華) of , Headmaster.
+- 2. | Lee Wing-tak (李榮德) of , Stockbroker.
 
-  - 2. | Lee Wing-tak (李榮德) of , Stockbroker.
+- Dated the day of 19 .
 
-  - Dated the day of 19 .
+- Witness to the above signatures,
 
-  - Witness to the above signatures,
+- John Jones, No. 13, Chater Road, Hong Kong.
 
-  - John Jones,
+- Solicitor.
 
-  - No. 13, Chater Road, Hong Kong.
+- (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
-  - Solicitor.
+- _
 
-  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
+- TABLE D | [sections 14 & 360]
 
-  - _
-
-  - TABLE D | [sections 14 & 360]
-
-  - MEMORANDUM AND ARTICLES OF ASSOCIATION OF
-
-  - A COMPANY LIMITED BY GUARANTEE AND
-
-  - HAVING A SHARE CAPITAL Memorandum of Association
+- MEMORANDUM AND ARTICLES OF ASSOCIATION OF A COMPANY LIMITED BY GUARANTEE AND HAVING A SHARE CAPITAL Memorandum of Association
 
   - 1st. The name of the company is “The Yuen Long Motel Company Limited (元朗汽車酒店有限公司)”.
 
@@ -836,37 +876,33 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 5th. Every member of the company undertakes to contribute to the assets of the company in the event of its being wound up while he is a member, or within 1 year afterwards, for payment of the debts and liabilities of the company contracted before he ceases to be a member, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves, such amount as may be required not exceeding $500.
 
-  - 6th.
+  - 6th. The share capital of the company shall consist of $10,000,000 divided into 10000 shares of $1,000 each.
 
-  - The share capital of the company shall consist of $10,000,000 divided into 10000 shares of $1,000 each. WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
+- WE, the several persons whose names and addresses are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
 
-  - Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
+- Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
 
-  - 1. | Chow Tak-kwong (周德光) of , Hotel Executive. | 1
+- 1. | Chow Tak-kwong (周德光) of, Hotel Executive. | 1
 
-  - 2. | Hamish MacDonald of | 1
+- 2. | Hamish MacDonald of , Banker. | 1
 
-  - , Banker. | -
+- Total shares taken | 2 ========
 
-  - Total shares taken | 2 =====
+- Dated the day of 19 .
 
-  - Dated the day of 19 .
+- Witness to the above signatures,
 
-  - Witness to the above signatures,
+- John Jones, No. 13, Chater Road, Hong Kong.
 
-  - John Jones,
+- Solicitor.
 
-  - No. 13, Chater Road, Hong Kong.
+- (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
-  - Solicitor.
+- Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
 
-  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
+- _
 
-  - Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
-
-  - _ ARTICLES OF ASSOCIATION TO ACCOMPANY
-
-  - PRECEDING MEMORANDUM OF ASSOCIATION
+- ARTICLES OF ASSOCIATION TO ACCOMPANY PRECEDING MEMORANDUM OF ASSOCIATION
 
   - 1. The number of members with which the company proposes to be registered is 50, but the directors may from time to time register an increase of members.
 
@@ -874,75 +910,61 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 3. Subject to sections 49 to 49S of the Ordinance, the company may purchase its own shares (including any redeemable shares). (Added L.N. 188 of 1993)
 
-  - 4.
+  - 4. Subject to sections 49I to 49O of the Ordinance, the company may make a payment in respect of the redemption or purchase of its own shares otherwise than out of the distributable profits of the company or the proceeds of a fresh issue of shares. (Added L.N. 188 of 1993) Note: Articles 3 and 4 of these articles are alternative to regulations 47A and 47B of Table A, Part I. (Added L.N. 188 of 1993)
 
-  - Subject to sections 49I to 49O of the Ordinance, the company may make a payment in respect of the redemption or purchase of its own shares otherwise than out of the distributable profits of the company or the proceeds of a fresh issue of shares. (Added L.N. 188 of 1993) Note: Articles 3 and 4 of these articles are alternative to regulations 47A and 47B of Table A, Part I. (Added L.N. 188 of 1993)
+- Names, Addresses and Descriptions of Signatories
 
-  - Names, Addresses and Descriptions of Signatories
+- 1. | Chow Tak-kwong (周德光) of , Hotel Executive.
 
-  - 1. | Chow Tak-kwong (周德光) of , Hotel Executive.
+- 2. | Hamish MacDonald of , Banker.
 
-  - 2. | Hamish MacDonald of , Banker.
+- Dated the day of 19 .
 
-  - Dated the day of 19 .
+- Witness to the above signatures,
 
-  - Witness to the above signatures,
+- John Jones, No. 13, Chater Road, Hong Kong.
 
-  - John Jones,
+- Solicitor.
 
-  - No. 13, Chater Road, Hong Kong.
+- (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
-  - Solicitor.
+- _
 
-  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
+- TABLE E | [sections 14 & 360]
 
-  - _
-
-  - TABLE E | [sections 14 & 360]
-
-  - MEMORANDUM AND ARTICLES OF ASSOCIATION
-
-  - OF AN UNLIMITED COMPANY HAVING
-
-  - A SHARE CAPITAL Memorandum of Association
+- MEMORANDUM AND ARTICLES OF ASSOCIATION OF AN UNLIMITED COMPANY HAVING A SHARE CAPITAL Memorandum of Association
 
   - 1st. The name of the company is “Chan and Ma Consulting Civil Engineers Company (陳馬工程顧問公司)”.
 
   - 2nd. The registered office of the company will be situated in Hong Kong.
 
-  - 3rd.
+  - 3rd. The objects for which the company is established are [If the objects are being stated, they should be set out here]. (Amended 3 of 1997 s. 56)
 
-  - The objects for which the company is established are [If the objects are being stated, they should be set out here]. (Amended 3 of 1997 s. 56) WE, the several persons whose names are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
+- WE, the several persons whose names are given below, wish to form a company, in pursuance of this memorandum of association, and we respectively agree to take the number of shares in the capital of the company set opposite our respective names.
 
-  - Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
+- Names, Addresses and Descriptions of Signatories | Number of Shares taken by each Signatory
 
-  - 1. | Chan Tai-wai (陳大偉) of , Consulting Civil Engineer. | 1
+- 1. | Chan Tai-wai (陳大偉) of, Consulting Civil Engineer. | 1
 
-  - 2. | Ma Wai-tong (馬偉棠) of | 1
+- 2. | Ma Wai-tong (馬偉棠) of , Consulting Civil Engineer. | 1
 
-  - , Consulting Civil Engineer. | -
+- Total shares taken | 2 ========
 
-  - Total shares taken | 2 =====
+- Dated the day of 19 .
 
-  - Dated the day of 19 .
+- Witness to the above signatures,
 
-  - Witness to the above signatures,
+- John Jones, No. 13, Chater Road, Hong Kong.
 
-  - John Jones,
+- Solicitor.
 
-  - No. 13, Chater Road, Hong Kong.
+- (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
 
-  - Solicitor.
+- Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
 
-  - (Amended 25 of 1998 s. 2; 30 of 2004 s. 2)
+- _
 
-  - Note: The 3rd paragraph applies only if the objects are being stated but that paragraph can be adapted or modified to contain any statement restricting or excluding objects. (Added 3 of 1997 s. 56)
-
-  - _ ARTICLES OF ASSOCIATION TO ACCOMPANY
-
-  - THE PRECEDING MEMORANDUM OF
-
-  - ASSOCIATION
+- ARTICLES OF ASSOCIATION TO ACCOMPANY THE PRECEDING MEMORANDUM OF ASSOCIATION
 
   - 1. The number of members with which the company proposes to be registered is 20, but the directors may from time to time register an increase of members.
 
@@ -962,14 +984,18 @@ TABLE A [sections 2, 11, 114A, 322 & 360]
 
   - 4. The regulations of Table A, Part I, set out in the First Schedule to the Companies Ordinance, Chapter 32 (other than regulations 41 to 48 inclusive) shall be deemed to be incorporated with these articles and shall apply to the company.
 
-  - Names, Addresses and Descriptions of Signatories
+- Names, Addresses and Descriptions of Signatories
 
-  - 1. | Chan Tai-wai (陳大偉) of , Consulting Civil Engineer.
+- 1. | Chan Tai-wai (陳大偉) of , Consulting Civil Engineer.
 
-  - 2. | Ma Wai-tong (馬偉棠) of , Consulting Civil Engineer. Dated the day of 19 . Witness to the above signatures,
+- 2. | Ma Wai-tong (馬偉棠) of , Consulting Civil Engineer.
 
-  - John Jones,
+- Dated the day of 19 .
 
-  - No. 13, Chater Road, Hong Kong.
+- Witness to the above signatures,
 
-  - Solicitor. (Amended 25 of 1998 s. 2; 30 of 2004 s. 2) (First Schedule replaced 6 of 1984 s. 253)
+- John Jones, No. 13, Chater Road, Hong Kong.
+
+- Solicitor.
+
+- (Amended 25 of 1998 s. 2; 30 of 2004 s. 2) (First Schedule replaced 6 of 1984 s. 253)

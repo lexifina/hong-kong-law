@@ -18,7 +18,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 22(6) | Company failing to change name on the direction of the Registrar (Replaced 60 of 1990 s. 10) | Summary | level 6 and 6 months | $700
 
-22A(4) | Company failing to change name on the direction of the Registrar on the grounds that the name is misleading | Summary | level 4 | $700
+22A(4) | Company failing to change name on the direction of the Registrar on the grounds that the name is misleading or offensive, etc. (Amended 12 of 2010 s. 16) | Summary | level 4 | $700
 
 26(2) | Company failing to send to one of its members a copy of the memorandum or articles when required by the member | Summary | level 3 | —
 
@@ -287,6 +287,8 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 167(3) | Company failing to give notice of an order under section 167 to the Registrar | Summary | level 3 | $300
 
 168A(4) | Specified corporation failing to give the Registrar an office copy of an order altering, etc., the specified corporation’s memorandum or articles on petition of a minority group (Amended 30 of 2004 s. 2) | Summary | level 3 | $300
+
+168BAI | Company failing to send or supply documents or information in hard copy form (Added 12 of 2010 s. 36) | Summary | level 3 | $300
 
 168M | Person contravening a disqualification order (Added 30 of 1994 s. 12) | On indictment Summary | $100,000 and 2 years $25,000 and 6 months | — —
 
