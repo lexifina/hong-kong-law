@@ -10,6 +10,8 @@ Road Traffic Ordinance (Cap. 374)
 
 1 | Section 36(1) | Causing death by dangerous driving | 10
 
+1A | Section 36A(1) | Causing grievous bodily harm by dangerous driving | 10
+
 2 | Section 37(1) | Dangerous driving | 10
 
 3 | Section 38(1) | Careless driving | 5
@@ -144,4 +146,4 @@ Discovery Bay Tunnel Link Bylaw (Cap. 520 sub. leg. B)
 
 59 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
 
-(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005)
+(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005; 19 of 2010 s. 24)
