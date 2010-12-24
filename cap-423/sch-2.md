@@ -62,7 +62,7 @@ Item Body
 
 - 29. Christian Action
 
-- 30. CityU Professional Services Limited (Amended L.N. 210 of 2006)
+- 30. (Repealed L.N. 173 of 2010)
 
 - 31. Heung To College of Professional Studies
 
@@ -84,7 +84,7 @@ Item Body
 
 - 40. Hong Kong Rehabilitation Power (Amended L.N. 214 of 2001)
 
-- 41. The Hong Kong Society for the Deaf
+- 41. (Repealed L.N. 173 of 2010)
 
 - 42. (Repealed L.N. 99 of 2001)
 
@@ -102,7 +102,7 @@ Item Body
 
 - 49. Hong Kong Red Cross
 
-- 50. Hong Kong Federation of Women’s Centre
+- 50. Hong Kong Federation of Women’s Centres (Amended L.N. 173 of 2010)
 
 - 51. The Federation of Hong Kong and Kowloon Labour Unions
 
@@ -150,7 +150,7 @@ Item Body
 
 - 74. Lingnan Institute of Further Education (Added L.N. 71 of 2008)
 
-- 75. School of Continuing Education, Hong Kong Baptist University (Added L.N. 71 of 2008)
+- 75. (Repealed L.N. 173 of 2010)
 
 - 76. School of Continuing and Professional Education, City University of Hong Kong (Added L.N. 71 of 2008)
 
@@ -162,7 +162,7 @@ Item Body
 
 - 80. Hong Kong Institute of Technology (Added L.N. 71 of 2008)
 
-- 81. The Chinese University of Hong Kong — Tung Wah Group of Hospitals Community College (Added L.N. 71 of 2008)
+- 81. (Repealed L.N. 173 of 2010)
 
 - 82. The Hong Kong Federation of Youth Groups (Added L.N. 71 of 2008)
 
@@ -224,4 +224,76 @@ Item Body
 
 - 112. Kwun Tong Vocational Training Centre (Added L.N. 99 of 2010)
 
-- 113. Travel Industry Council of Hong Kong (Added L.N. 99 of 2010) (Schedule 2 replaced L.N. 269 of 1999)
+- 113. Travel Industry Council of Hong Kong (Added L.N. 99 of 2010)
+
+- 114. Pui Ching Academy (Added L.N. 173 of 2010)
+
+- 115. HKMA College of Further Education (Added L.N. 173 of 2010)
+
+- 116. Royal International College (Added L.N. 173 of 2010)
+
+- 117. Knowledge Education Centre (Added L.N. 173 of 2010)
+
+- 118. Hongkong School of Commerce (Added L.N. 173 of 2010)
+
+- 119. Tiptop Consultants Limited (Added L.N. 173 of 2010)
+
+- 120. Hong Kong College of Chinese Medicinal Nursing Limited (Added L.N. 173 of 2010)
+
+- 121. Hospitals, Clinics and Nursing Workers Union (Added L.N. 173 of 2010)
+
+- 122. PA Company Limited (Added L.N. 173 of 2010)
+
+- 123. The Hong Kong Marble & Granite Merchants Association, Limited (Added L.N. 173 of 2010)
+
+- 124. Hong Kong & Kowloon Restaurant & Cafe Workers General Union Vocational (Day / Night) School (Added L.N. 173 of 2010)
+
+- 125. Chinese & Western Food Workers Union (Added L.N. 173 of 2010)
+
+- 126. Eating Establishment Employees General Union (Added L.N. 173 of 2010)
+
+- 127. Hong Kong Eco-tourism & Travels Professional Training Centre (Added L.N. 173 of 2010)
+
+- 128. Hong Kong Association of Registered Tour Co-ordinators Limited (Added L.N. 173 of 2010)
+
+- 129. Hong Kong Tour Guides General Union (Added L.N. 173 of 2010)
+
+- 130. The Hong Kong Association of Hair Design (Added L.N. 173 of 2010)
+
+- 131. Ming Salon Limited (Added L.N. 173 of 2010)
+
+- 132. Xianggang Putonghua Yanxishe (Added L.N. 173 of 2010)
+
+- 133. British & American Floral Art School (Added L.N. 173 of 2010)
+
+- 134. Asia Tree Preservation Limited (Added L.N. 173 of 2010)
+
+- 135. Physical Fitness Association of Hong Kong, China Limited (Added L.N. 173 of 2010)
+
+- 136. Li Fai Centre of Wushu (Added L.N. 173 of 2010)
+
+- 137. Asian Academy for Sports and Fitness Professionals Limited (Added L.N. 173 of 2010)
+
+- 138. Hong Kong Ballroom Dancing Council Limited (Added L.N. 173 of 2010)
+
+- 139. Hong Kong and Kowloon Gold Ornaments and Jewellery Trade Workers’ Union (Added L.N. 173 of 2010)
+
+- 140. Hong Kong Jewelry Manufacturers’ Association Limited (Added L.N. 173 of 2010)
+
+- 141. Hong Kong Productivity Council - Hong Kong Watch & Clock Technology Centre (Added L.N. 173 of 2010)
+
+- 142. Norray Enterprise (HK) Limited (Added L.N. 173 of 2010)
+
+- 143. Advanced Printing Technology Centre Limited (Added L.N. 173 of 2010)
+
+- 144. Graphic Arts Association of Hong Kong Limited (Added L.N. 173 of 2010)
+
+- 145. The Hong Kong School of Motoring Limited (Added L.N. 173 of 2010)
+
+- 146. Vcare Information Centre (Added L.N. 173 of 2010)
+
+- 147. Reach Profession Training Skills Development Centre (Added L.N. 173 of 2010)
+
+- 148. Hong Kong Storehouses, Transportation & Logistics Staff Association (Added L.N. 173 of 2010)
+
+- 149. Logistics Cargo Supervisors Association (Added L.N. 173 of 2010) (Schedule 2 replaced L.N. 269 of 1999)
