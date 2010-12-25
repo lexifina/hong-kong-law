@@ -6,22 +6,24 @@ TATE’S CAIRN TUNNEL TOLLS
 
 Category | Vehicle | Toll
 
-1. | Motorcycles, motor tricycles . | $11
+1. | Motorcycles, motor tricycles . | $12
 
-2. | Private cars, electrically powered passenger vehicles, taxis . | $14
+2. | Private cars, electrically powered passenger vehicles, taxis . | $15
 
-3. | Public and private light buses . | $21
+3. | Public light buses . | $21
 
-4. | Light goods vehicles and special purpose vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes . | $21
+4. | Private light buses . | $22
 
-5. | Medium goods vehicles and special purpose vehicles of a permitted gross vehicle weight of or exceeding 5.5 tonnes but not exceeding 24 tonnes . | $25
+5. | Light goods vehicles and special purpose vehicles of a permitted gross vehicle weight not exceeding 5.5 tonnes . | $22
 
-6. | Heavy goods vehicles and special purpose vehicles of a permitted gross vehicle weight of or exceeding 24 tonnes but not exceeding 38 tonnes . | $25
+6. | Medium goods vehicles and special purpose vehicles of a permitted gross vehicle weight of or exceeding 5.5 tonnes but not exceeding 24 tonnes . | $26
 
-7. | Public and private single-decker buses . | $28
+7. | Heavy goods vehicles and special purpose vehicles of a permitted gross vehicle weight of or exceeding 24 tonnes but not exceeding 38 tonnes . | $26
 
-8. | Public and private double-decker buses . | $31
+8. | Public and private single-decker buses . | $29
 
-9. | Each additional axle in excess of 2 . | $18
+9. | Public and private double-decker buses . | $32
 
-(Schedule replaced L.N. 220 of 2008)
+10. | Each additional axle in excess of 2 . | $19
+
+(Schedule replaced L.N. 67 of 2010)
