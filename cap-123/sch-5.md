@@ -1,6 +1,6 @@
 # SCHEDULE 5
 
-[s. 2(1)]
+[ss. 2(1) and 41] (Amended 20 of 2008 s. 33)
 
 SCHEDULED AREAS
 
