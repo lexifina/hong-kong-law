@@ -16,9 +16,9 @@
 
   - 2. Under regulations 18(2) and 28(2)—
 
-  - Reconnecting a fire service or inside service . 3. Under regulation 26(2A)— (a) Providing and installing a meter . (b) Providing a meter . 4. Under regulations 4(3) and 26(3)— Resealing a fire service or meter . 5. Under regulations 28(2), 30(3) and 32(2)— Testing a meter or a private check meter (including removal and refixing)— (a) any size up to and including 80 mm in diameter . (b) above 80 mm in diameter up to and including 100 mm in diameter . (c) above 100 mm in diameter up to and including 150 mm in diameter . (d) above 150 mm in diameter up to and including 200 mm in diameter . 6. Under regulation 34(1) and (2)— Plumber’s licence . 7. Under regulation 34(3)— Renewal of plumber’s licence . 8. Under regulation 34(3C)— Plumber’s licence examination . 9. Under regulation 42— Fishing licence . | $ 240 $ 275 $ 75 $ 165 $ 460 $1,080 $1,800 $2,240 $ 67 $ 67 $ 815 $ 24
+  - Reconnecting a fire service or inside service . 3. Under regulation 26(2A)— (a) Providing and installing a meter . (b) Providing a meter . 4. Under regulations 4(3) and 26(3)— Resealing a fire service or meter . 5. Under regulations 28(2), 30(3) and 32(2)— Testing a meter or a private check meter (including removal and refixing)— (a) any size up to and including 80 mm in diameter . (b) above 80 mm in diameter up to and including 100 mm in diameter . (c) above 100 mm in diameter up to and including 150 mm in diameter . (d) above 150 mm in diameter up to and including 200 mm in diameter . 6. Under regulation 34(1) and (2)— Plumber’s licence . 7. Under regulation 34(3)— Renewal of plumber’s licence . 8. Under regulation 34(3C)— Plumber’s licence examination . 9. Under regulation 42— Fishing licence . | $ 275 $ 315 $ 83 $ 190 $ 530 $1,240 $2,070 $2,580 $ 74 $ 58 $ 895 $ 24
 
-  - (L.N. 176 of 1996; L.N. 358 of 2000; L.N. 41 of 2001)
+  - (L.N. 176 of 1996; L.N. 358 of 2000; L.N. 41 of 2001; L.N. 129 of 2010)
 
 - PART II SUPERVISION CHARGE (Regulation 8) The charge for supervision of work carried out by the Water Authority, other than work for which a fee is prescribed in this Schedule, shall be 20% of the actual cost of such work.
 
@@ -44,10 +44,10 @@
 
   - Charge where sample delivered to Water Authority
 
-  - (a) for a general chemical analysis (comprising all standard tests*) . (b) for an individual standard test* . (c) for a non-standard test (other than a non-standard test referred to in paragraph (d) or (e)) . (d) for a British Pharmaceutical test for water for injection purposes . (e) for a general bacteriological examination . 2. Charge for each attendance to collect any sample or samples . 3. Charge for additional copy of examination report . | $2,220 $ 185 $ 380 $ 875 $ 425 $ 840 $ 5.6
+  - (a) for a general chemical analysis (comprising all standard tests*) . (b) for an individual standard test* . (c) for a non-standard test (other than a non-standard test referred to in paragraph (d) or (e)) . (d) for a British Pharmaceutical test for water for injection purposes . (e) for a general bacteriological examination . 2. Charge for each attendance to collect any sample or samples . 3. Charge for additional copy of examination report . | $2,440 $ 215 $ 420 $ 965 $ 490 $ 925 $ 1
 
     - * For the purpose of this Part, “standard test” (標準測試) means a test to determine any one of the following—
 
     - Turbidity; Ortho-phosphate; Total hardness; Oxygen absorbed value; Conductivity; Manganese; Chlorides; Residual chlorine; | Nitrite nitrogen; pH value; Fluorides; Calcium; Suspended solids; Ammoniacal nitrogen; Aluminium; Sulphates; | Total alkalinity; Nitrate nitrogen; Colour; Iron; Magnesium; Dissolved solids; Albuminoid nitrogen; Silica.
 
-  - (L.N. 176 of 1996)
+  - (L.N. 176 of 1996; L.N. 129 of 2010)
