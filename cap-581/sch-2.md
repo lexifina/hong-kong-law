@@ -18,9 +18,9 @@ PROVISIONS RELATING TO BOARD
 
   - (3) An appointed member of the Board may resign from office by giving notice in writing to the Chief Executive. A notice of resignation takes effect on the date specified in the notice or, if no date is specified, on the date of receipt by the Chief Executive of the notice.
 
-  - (4) If the Chairman of the Board is absent from Hong Kong or is for any other reason unable to perform the functions of his office as Chairman, the Chief Executive may appoint another appointed member of the Board to be the temporary Chairman in his place during his absence or incapacity.
+  - (4) If the Chairman of the Board is, due to absence from Hong Kong or for any other reason, unable to perform the functions of his office as Chairman, the Chief Executive may appoint another appointed member of the Board to be the temporary Chairman in his place during his incapacity. (Amended 11 of 2010 s. 12)
 
-  - (5) If an appointed member of the Board, other than the Chairman, is absent from Hong Kong or is for any other reason unable to perform the functions of his office as member, the Chief Executive may appoint another person to be a temporary member in his place during his absence or incapacity.
+  - (5) If an appointed member of the Board (other than the Chairman) is, due to absence from Hong Kong or for any other reason, unable to perform the functions of his office as member, the Chief Executive may appoint another person to be a temporary member in his place during his incapacity. (Amended 11 of 2010 s. 12)
 
   - (6) If a person is appointed as the temporary Chairman, or a temporary member, of the Board, the person may perform all the functions of the Chairman, or member, in whose place the person is appointed.
 
@@ -48,9 +48,9 @@ PROVISIONS RELATING TO BOARD
 
 - 5. Meetings and proceedings of Board
 
-  - (1) Meetings of the Board are to be held at such times and places as the Chairman of the Board may decide.
+  - (1) Meetings of the Board are to be held at such times and places, and in such manner (including by electronic means), as the Chairman of the Board may decide. (Amended 11 of 2010 s. 12)
 
-  - (2) The quorum for meetings of the Board is 4.
+  - (2) The quorum for a meeting of the Board is 4 members present at the meeting. (Amended 11 of 2010 s. 12)
 
   - (3) Subject to the provisions of this Schedule, the Board may determine its own procedures.
 
@@ -62,7 +62,27 @@ PROVISIONS RELATING TO BOARD
 
     - (c) every question for decision shall be determined by a majority of votes of the members of the Board present and, in the case of an equality of votes, the Chairman of the Board has a casting vote.
 
-- 6. Transaction of business by circulation of papers The Board may transact any of its business by circulation of papers, and a resolution in writing which is approved in writing by all the members of the Board present in Hong Kong (being not less than the number required to constitute a majority of the Board) is as valid and effectual as if it had been duly passed at a meeting of the Board by the votes of the members of the Board so approving the resolution.
+  - (5) A member of the Board is to be regarded as being present at a meeting of the Board, even though the member does not attend the meeting in person, if—
+
+    - (a) the member participates in the meeting by telephone, video conferencing or other electronic means; and
+
+    - (b) the member is able to communicate with the other members attending or participating in the meeting and they are able to communicate with that member. (Added 11 of 2010 s. 12)
+
+  - (6) A member who participates in a meeting of the Board by telephone, video conferencing or other electronic means may cast a vote by the same electronic means. (Added 11 of 2010 s. 12)
+
+  - (7) Subsection (4)(a) and (c) applies even though the Chairman of the Board participates in the meeting by telephone, video conferencing or other electronic means. (Added 11 of 2010 s. 12)
+
+- 6. Transaction of business by circulation of papers
+
+  - (1) The Board may transact any of its business by circulation of papers.
+
+  - (2) A resolution in writing which is approved in writing by a majority of the members of the Board is as valid and effectual as if it had been duly passed at a meeting of the Board by the votes of the members of the Board so approving the resolution.
+
+  - (3) A facsimile or an electronically transmitted document that bears the signature of a member of the Board is to be regarded as having been approved in writing by that member.
+
+  - (4) To avoid doubt, a reference to circulation of papers in this section includes circulation of information by electronic means.
+
+- (Replaced 11 of 2010 s. 12)
 
 - 7. Committees The Board may appoint committees for any general or special purposes as it thinks fit and, in relation to such a committee—
 
