@@ -1,5 +1,7 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 3]
 
-MEMBERSHIP SIGN
+Membership Sign
+
+(Schedule replaced L.N. 131 of 2010)
