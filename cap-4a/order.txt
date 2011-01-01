@@ -112,6 +112,7 @@ s-115.md
 s-115A.md
 s-116.md
 s-117.md
+s-117A.md
 s-118.md
 s-119.md
 s-120.md
