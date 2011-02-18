@@ -12,6 +12,6 @@ SPECIFIED PREMISES
 
 4. | InnoCentre | 72 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong (Replaced L.N. 175 of 2005)
 
-5. | Hong Kong Science Park | (a) Tai Po Town Lot No. 171, Pak Shek Kok, New Territories, Hong Kong (Phase 1) (b) Tai Po Town Lot No. 182, Pak Shek Kok, New Territories, Hong Kong (Phase 2) (Replaced L.N. 95 of 2004)
+5. | Hong Kong Science Park | (a) Tai Po Town Lot No. 171, Pak Shek Kok, New Territories, Hong Kong (Phase 1); (Amended L.N. 166 of 2010) (b) Tai Po Town Lot No. 182, Pak Shek Kok, New Territories, Hong Kong (Phase 2); and (Replaced L.N. 95 of 2004. Amended L.N. 166 of 2010) (c) Tai Po Town Lot No. 204, Pak Shek Kok, New Territories, Hong Kong (Phase 3) (Added L.N. 166 of 2010)
 
 6-7. | (Repealed L.N. 95 of 2004)
