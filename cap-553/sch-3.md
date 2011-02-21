@@ -26,4 +26,6 @@ Item | Enactment | Provision
 
 10. | Census and Statistics Ordinance (Cap. 316) (Added L.N. 83 of 2009) | Section 12(3)(a) and (b)
 
+11. | Business Registration Ordinance (Cap. 310) (Added 13 of 2010 s. 30) | Section 20
+
 (Schedule 3 added 14 of 2004 s. 28)
