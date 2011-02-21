@@ -12,6 +12,8 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 13(4) | Company failing to deliver to the Registrar document following alteration to its articles (Added 30 of 1999 s. 38) | Summary | level 3 | $300
 
+18A(2) | Failing to deliver to the Registrar any consent to be a director (Added 12 of 2010 s. 11) | Summary | level 3 | $300
+
 21(9) | Failure by a body to alter its name on the revocation of a licence to use the words “Chamber of Commerce”, etc. in its name | Summary | level 3 | $700
 
 22(1B) | Company failing to give the Registrar notice of change of company name (Added 28 of 2003 s. 119) | Summary | level 3 | $300
@@ -154,9 +156,9 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 116BA(2) | Director or secretary failing to notify company’s auditor of matters under section 116B (Added 46 of 2000 s. 39) | Summary | Level 3 | —
 
-116BC(5) | Sole member failing to provide the company with a written record of his decision (Added 28 of 2003 s. 119) | Summary | Level 3 | $300
+116BC(5) | Sole member failing to provide the company with a written record of his decision (Added 28 of 2003 s. 119) | Summary | level 3 | $300
 
-116BC(6) | Company failing to enter record of written record of decision provided in accordance with section 116BC (Added 28 of 2003 s. 119) | Summary | Level 3 | $300
+116BC(6) | Company failing to enter record of written record of decision provided in accordance with section 116BC (Added 28 of 2003 s. 119) | Summary | level 3 | $300
 
 117(5) | Company failing to lodge copies of special resolutions, etc., with the Registrar | Summary | level 3 | $300
 
@@ -288,7 +290,7 @@ Section creating offence | General nature of offence | Mode of prosecution | Pun
 
 168A(4) | Specified corporation failing to give the Registrar an office copy of an order altering, etc., the specified corporation’s memorandum or articles on petition of a minority group (Amended 30 of 2004 s. 2) | Summary | level 3 | $300
 
-168BAI | Company failing to send or supply documents or information in hard copy form (Added 12 of 2010 s. 36) | Summary | level 3 | $300
+168BAI(3) | Company failing to send or supply documents or information in hard copy form (Added 12 of 2010 s. 36) | Summary | level 3 | $300
 
 168M | Person contravening a disqualification order (Added 30 of 1994 s. 12) | On indictment Summary | $100,000 and 2 years $25,000 and 6 months | — —
 

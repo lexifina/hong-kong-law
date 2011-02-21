@@ -23,6 +23,7 @@ s-015.md
 s-016.md
 s-017.md
 s-018.md
+s-018A.md
 s-019.md
 s-020.md
 s-020A.md
@@ -625,10 +626,13 @@ s-344.md
 s-344A.md
 s-345.md
 s-346.md
+s-346A.md
+s-346B.md
 s-347.md
 s-348.md
 s-348A.md
 s-348B.md
+s-348BA.md
 s-348C.md
 s-348D.md
 s-349.md
