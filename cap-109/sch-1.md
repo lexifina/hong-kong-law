@@ -26,15 +26,15 @@
 
   - $
 
-  - (a) | for each 1000 cigarettes . | 1206
+  - (a) | for each 1000 cigarettes . | 1706
 
-  - (b) | cigars. | 1553/kg
+  - (b) | cigars. | 2197/kg
 
-  - (c) | Chinese prepared tobacco . | 296/kg
+  - (c) | Chinese prepared tobacco . | 419/kg
 
-  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . | 1461/kg
+  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . | 2067/kg
 
-  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 27 of 2009 and 5 of 2009 s. 3)
+  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 27 of 2009 and 5 of 2009 s. 3; L.N. 32 of 2011 and 10 of 2011 s. 3)
 
   - 2. For the purpose of applying the duty under paragraph 1(a) a cigarette more than 90 mm long, excluding any filter or mouthpiece, shall be treated as if each additional 90 mm or portion of 90 mm were a separate cigarette.
 
@@ -76,7 +76,7 @@
 
   - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; 21 of 1998 s. 2)
 
-  - 3. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles owned and operated by the Kowloon-Canton Railway Corporation under section 4(1)(d) of the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) in maintaining bus services within the North-west Transit Service Area, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Added L.N. 203 of 1987. Amended 35 of 1992 s. 6)
+  - 3. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles owned and operated by the Kowloon-Canton Railway Corporation under section 4(1)(d) of the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) in maintaining bus services within the North-west Transit Service Area, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (L.N. 203 of 1987. Amended 35 of 1992 s. 6)
 
   - 3A. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the MTR Corporation Limited in maintaining bus services within the North-west Transit Service Area referred to in paragraph 3 during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556), a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Added 11 of 2007 s. 36)
 
