@@ -2,52 +2,60 @@
 
 [s. 4E]
 
-CLASSES OF MOTOR VEHICLES AND RATE OF TAX
+Classes of Motor Vehicles and Rate of Tax
 
-Item | Class of motor vehicle | Rate of tax %
+Item | Class of motor vehicle | Rate of tax
+
+%
 
 1. | Private cars—
 
-(a) on the first $150,000 . | 35
+(a) | on the first $150,000 | 40
 
-(b) on the next $150,000 . | 65
+(b) | on the next $150,000 | 75
 
-(c) on the next $200,000 . | 85
+(c) | on the next $200,000 | 100
 
-(d) on the remainder . | 100
+(d) | on the remainder | 115
 
-2. | Taxis . | 3.7
+(Amended L.N. 33 of 2011 and 11 of 2011 s. 3)
 
-3. | Public light buses and private light buses . | 3.7
+2. | Taxis | 3.7
 
-4. | Public buses, except buses which are to be used solely in connection with operating a public bus service— (Amended 11 of 2007 s. 36) (a) under the Public Bus Services Ordinance (Cap. 230);
+3. | Public light buses and private light buses | 3.7
 
-(b) under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area within the meaning of section 2(1) of that Ordinance; or
+4. | Public buses, except buses which are to be used solely in connection with operating a public bus service— (Amended 11 of 2007 s. 36)
 
-(c) by the MTR Corporation Limited within the North-west Transit Service Area referred to in paragraph (b) during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556) (Amended 11 of 2007 s. 36) . | 3.7
+(a) | under the Public Bus Services Ordinance (Cap. 230);
 
-5. | Private buses, except buses which are to be used solely in connection with the training of drivers for the purposes of operating a public bus service— (Amended 11 of 2007 s. 36) (a) under the Public Bus Services Ordinance (Cap. 230);
+(b) | under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area within the meaning of section 2(1) of that Ordinance; or
 
-(b) under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area referred to in item 4(b); or
+(c) | by the MTR Corporation Limited within the North-west Transit Service Area referred to in paragraph (b) during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556) (Amended 11 of 2007 s. 36) | 3.7
 
-(c) by the MTR Corporation Limited within the North-west Transit Service Area referred to in item 4(b) during the Concession Period referred to in item 4(c) (Amended 11 of 2007 s. 36) . | 3.7
+5. | Private buses, except buses which are to be used solely in connection with the training of drivers for the purposes of operating a public bus service— (Amended 11 of 2007 s. 36)
 
-6. | Motor cycles . | 35
+(a) | under the Public Bus Services Ordinance (Cap. 230);
 
-7. | Motor tricycles . | 35
+(b) | under the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) within the North-west Transit Service Area referred to in item 4(b); or
 
-8. | (a) Goods vehicles, other than van-type light goods vehicles . | 15
+(c) | by the MTR Corporation Limited within the North-west Transit Service Area referred to in item 4(b) during the Concession Period referred to in item 4(c) (Amended 11 of 2007 s. 36) | 3.7
 
-(b) Van-type light goods vehicle not exceeding 1.9 tonnes permitted gross vehicle weight—
+6. | Motor cycles | 35
 
-(i) on the first $150,000 . | 35
+7. | Motor tricycles | 35
 
-(ii) on the next $150,000 . | 65
+8. | (a) | Goods vehicles, other than van-type light goods vehicles | 15
 
-(iii) on the remainder . | 85
+(b) | Van-type light goods vehicle not exceeding 1.9 tonnes permitted gross vehicle weight—
 
-(c) Van-type light goods vehicle exceeding 1.9 tonnes permitted gross vehicle weight . | 17
+(i) | on the first $150,000 | 35
 
-9. | Special purpose vehicles . | 3.7
+(ii) | on the next $150,000 | 65
+
+(iii) | on the remainder | 85
+
+(c) | Van-type light goods vehicle exceeding 1.9 tonnes permitted gross vehicle weight | 17
+
+9. | Special purpose vehicles | 3.7
 
 (Schedule replaced L.N. 59 of 2003 and 22 of 2003 s. 11)
