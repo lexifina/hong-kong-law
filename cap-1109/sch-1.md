@@ -16,9 +16,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - “Department” (學系) means a Department of a Faculty established by the Council on the recommendation of the Senate and “Departments” (各學系) shall be construed accordingly; (L.N. 452 of 1994)
 
+  - Director of a School (專業學院院長) means the Director of a School of Studies; (L.N. 174 of 2010)
+
   - “Graduate School” (研究院) means the Graduate School of the University; (L.N. 101 of 1995)
 
   - “Ordinance” (條例) means The Chinese University of Hong Kong Ordinance (Cap. 1109); (L.N. 38 of 2007)
+
+  - Professor (教授) means Professors carrying the Chinese title of “教授” and those appointed before 1 January 2010 carrying the Chinese title of “講座教授”; (L.N. 174 of 2010)
 
   - “unit” (單位) means an institution established or formed by the Council under section 12 of the Ordinance. (L.N. 25 of 2002)
 
@@ -102,7 +106,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (c) report to the Senate at its next meeting if he has suspended or expelled any student;
 
-    - (d) have power to appoint a person to discharge the functions and duties of the Pro-Vice-Chancellors, a Dean of a Faculty, the Chairman of a Department, the Secretary, Registrar, the Librarian or the Bursar during a temporary vacancy in any such appointment or during the temporary absence or inability of the holder of any such appointment; (L.N. 452 of 1994)
+    - (d) have power to appoint a person to discharge the functions and duties of the Pro-Vice-Chancellors, a Dean of a Faculty, the Chairman of a Department, the Director of a School, the Secretary, Registrar, the Librarian or the Bursar during a temporary vacancy in any such appointment or during the temporary absence or inability of the holder of any such appointment; (L.N. 452 of 1994; L.N. 174 of 2010)
 
     - (e) have power in case of emergency to appoint external examiners.
 
@@ -238,7 +242,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Provided that a member elected under subparagraphs (e), (h), (i), (l) or (n) of paragraph 1 shall cease to be a member of the Council if he ceases to be a member of the body from among whose members he was elected. (L.N. 438 of 1993)
 
-      - (1A) If an elected member of the Council ceases to be a member under the proviso to subparagraph (1), the body which elected him shall duly elect a successor whose membership of the Council shall be for a period not exceeding 3 years. The successor shall be eligible for re-election to which subparagraph (2) shall apply. (L.N. 438 of 1993)
+    - (1A) If an elected member of the Council ceases to be a member under the proviso to subparagraph (1), the body which elected him shall duly elect a successor whose membership of the Council shall be for a period not exceeding 3 years. The successor shall be eligible for re-election to which subparagraph (2) shall apply. (L.N. 438 of 1993)
 
     - (2) A body re-nominating or re-electing a member may re-nominate or re-elect, as the case may be, such member for a period of 3 years or for a period of less than 3 years. (L.N. 20 of 1988)
 
@@ -280,9 +284,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (m) to recommend the award of degrees honoris causa;
 
-    - (n) after report from the Senate to establish additional Faculties or Departments or to abolish, combine or subdivide any Faculty or Department; (L.N. 452 of 1994)
+    - (n) after report from the Senate to establish additional Faculties, Departments or Schools of Studies or to abolish, combine or subdivide any Faculty, Department or School of Studies; (L.N. 452 of 1994; L.N. 174 of 2010)
 
-    - (na) on the recommendation of the Senate, to determine the organization or structure of each Faculty and its Departments and to make such alterations to such organization or structure as deemed fit by the Council; (L.N. 452 of 1994)
+    - (na) on the recommendation of the Senate, to determine the organization or structure of each Faculty and its Departments and each School of Studies and to make such alterations to such organization or structure as deemed fit by the Council; (L.N. 452 of 1994; L.N. 174 of 2010)
 
     - (o) to prescribe fees of the University;
 
@@ -306,13 +310,11 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (i) to administer or cause to be administered a Superannuation Fund or Funds for the benefit of persons employed by the University;
 
-    - (j) to establish Boards of Advisers and to appoint external experts thereto on the recommendation of the Senate;
+    - (ia) to make, on such terms and conditions and in accordance with such procedures as the Council may determine from time to time, such University appointments as the Council deems necessary, and for the appointment of teachers, after consulting the Senate or member or members of the Senate designated by the Senate for the purpose of appointment of teachers; (L.N. 174 of 2010)
 
-    - (k) to appoint on such terms and conditions as the Council may determine each Professor, Reader and Senior Lecturer and the Secretary, the Registrar, the Librarian and the Bursar on the recommendation of duly constituted Boards of Advisers;
+    - (j)-(l) (Repealed L.N. 174 of 2010)
 
-    - (l) to make, on such terms and conditions as the Council may determine, such other University appointments as the Council deems necessary;
-
-    - (m) on the recommendation of the Senate, to appoint a Chairman for each Department and a Director of Studies for each academic subject not subsumed under a Department; (L.N. 452 of 1994)
+    - (m) on the recommendation of the Senate, to appoint a Chairman for each Department, a Director for each School and a Director of Studies for each academic subject not subsumed under a Department or a School of Studies; (L.N. 452 of 1994; L.N. 174 of 2010)
 
     - (n) to appoint external examiners on the recommendation of the Senate;
 
@@ -412,7 +414,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (d) the Dean of each Faculty and of the Graduate School;
 
-    - (e) the Professors, or the Readers in each Department in which there is no professor; (L.N. 452 of 1994)
+    - (e) the Professors who carry the Chinese title of “講座教授”, or the Readers and any other professors who are determined by the Council to be of a grade equivalent to or higher than Readers in each Department in which there is no professor who carries the Chinese title of “講座教授”; (L.N. 174 of 2010)
 
     - (f) the Chairman of each Department and the Directors of Studies if not a member under subparagraph (e); (L.N. 452 of 1994)
 
@@ -456,9 +458,9 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (e) to make, after report from the Faculties concerned, all regulations for giving effect to the Statutes and decrees relating to approved courses of study and examinations;
 
-    - (f) to appoint internal examiners after report from the Boards of the Departments concerned; (L.N. 452 of 1994)
+    - (f) to appoint internal examiners after report from the Boards of the Departments and the Boards of the Schools of Studies concerned; (L.N. 452 of 1994; L.N. 174 of 2010)
 
-    - (g) to recommend after report from the Boards of the Departments concerned external examiners for appointment by the Council; (L.N. 452 of 1994)
+    - (g) to recommend after report from the Boards of the Departments and the Boards of the Schools of Studies concerned external examiners for appointment by the Council; (L.N. 452 of 1994; L.N. 174 of 2010)
 
     - (h) to recommend the conferment of degrees (other than degrees honoris causa) and to award diplomas, certificates and other distinctions;
 
@@ -472,7 +474,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - (ii) to units, if the Senate thinks it fit in relation to such units; (L.N. 25 of 2002)
 
-    - (k) to recommend to the Council external experts to serve as members of Boards of Advisers; (L.N. 100 of 1984)
+    - (k) (Repealed L.N. 174 of 2010)
 
     - (l) to report to the Council on all Statutes and Decrees and proposed changes thereof;
 
@@ -560,19 +562,23 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (d) the Dean, who shall be Chairman;
 
-    - (e) the Chairman of each Department within the Faculty; (L.N. 452 of 1994)
+  - (da) the Associate Deans and Assistant Deans of the Faculty; (L.N. 174 of 2010)
 
-    - (f) other Professors, Readers and Directors of Studies within the Faculty;
+    - (e) the Chairman of each Department, the Director of each School and the Directors of Studies within the Faculty; (L.N. 452 of 1994; L.N. 174 of 2010)
+
+    - (ea) such number of teachers representing varying teacher grades within the Faculty nominated in accordance with regulations approved by the Senate from time to time; (L.N. 174 of 2010)
+
+    - (f) (Repealed L.N. 174 of 2010)
 
     - (g) in relation to the original Colleges and Shaw College, one representative of each Assembly of Fellows who shall be a member of the Faculty; (L.N. 452 of 1994; 18 of 2007 s. 5)
 
-    - (h) 2 Senior Lecturers elected by the Senior Lecturers within the Faculty;
+    - (h)-(i) (Repealed L.N. 174 of 2010)
 
-    - (i) 4 Lecturers or Assistant Lecturers elected by the Lecturers and Assistant Lecturers within the Faculty.
+    - (j) 1 student elected by, and from among, full-time students of the Faculty pursuing approved courses of study for a degree of the University. (L.N. 174 of 2010)
 
   - 6A.
 
-    - (1) At the discretion of the Board of a Faculty, the Board may nominate a student of the Faculty as the Board deems fit as student member for such period as the Board may in its absolute discretion determine.
+    - (1) A student member elected under paragraph 6(j) is to be elected in such manner and for such period as the Senate may in its absolute discretion determine. (L.N. 174 of 2010)
 
     - (2) The Senate may determine—
 
@@ -600,7 +606,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (6) The Board of a Faculty may make Standing Orders for the proper conduct of its business. (L.N. 38 of 2007)
 
-  - 7. The Board of Faculty shall co-ordinate the activities of the Departments within the Faculty and it shall be its function to consider and deal with the recommendations of the Departments— (L.N. 452 of 1994)
+  - 7. The Board of Faculty shall co-ordinate the activities of the Departments and Schools of Studies within the Faculty and it shall be its function to consider and deal with the recommendations of the Departments and Schools of Studies— (L.N. 452 of 1994; L.N. 174 of 2010)
 
     - (a) on the content of courses for the degree or degrees; and
 
@@ -634,11 +640,11 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (a) the Vice-Chancellor, who shall be Chairman;
 
-    - (b) 3 Professors, Readers or Senior Lecturers nominated by staff in those grades, who are on the existing staff of that College; and
+    - (b) 3 Professors nominated by Professors who are on the existing staff of that College; and
 
-    - (c) 3 Lecturers or Assistant Lecturers nominated by staff in those grades, who are on the existing staff of that College.
+    - (c) 3 Associate Professors or Assistant Professors nominated by staff in those grades, who are on the existing staff of that College.
 
-  - At least 3 of the 6 Fellows so appointed shall be drawn from the existing staff of that College.
+  - At least 3 of the 6 Fellows so appointed shall be drawn from the existing staff of that College. (L.N. 174 of 2010)
 
   - 2A. In relation to the original Colleges and Shaw College, the Fellows of each College appointed under paragraph 1 shall, together with the Head of that College, form an Assembly of Fellows of that College. (18 of 2007 s. 5)
 
@@ -730,7 +736,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - 3A. Any person who had been admitted as a registered student of an original College before the date of establishment of the University, pursued a course of study of not less than 4 years’ duration in that original College, and obtained a diploma issued by that original College or by the Post-Secondary Colleges Joint Diploma Board on satisfactory fulfilment of all the requirements prescribed therefor may register with the Registrar of the University to have his name entered on the Convocation roll. (L.N. 167 of 1993)
 
-  - 3B. Any person who has attended an approved course of study for not less than 1 academic year after admission as a registered postgraduate student to a Faculty or a School and has been awarded a postgraduate diploma by the Senate on satisfactory fulfilment of all the requirements prescribed therefor may register with the Registrar of the University to have his name entered on the Convocation roll. (L.N. 167 of 1993)
+  - 3B. Any person who has attended an approved course of study for not less than 1 academic year after admission as a registered postgraduate student to a Faculty or a School of Studies and has been awarded a postgraduate diploma by the Senate on satisfactory fulfilment of all the requirements prescribed therefor may register with the Registrar of the University to have his name entered on the Convocation roll. (L.N. 167 of 1993; L.N. 174 of 2010)
 
   - 4. The Convocation shall from its own members elect a Chairman and may elect a Vice-Chairman who shall respectively hold office for such periods as the Convocation may determine. No member shall be eligible for election as Chairman or Vice-Chairman unless he is normally resident in Hong Kong. Any retiring Chairman or Vice-Chairman shall be eligible for re-election.
 
@@ -764,93 +770,13 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - (f) such other persons as the Council on the recommendation of the Senate may prescribe.
 
-- STATUTE 20 APPOINTMENT OF ACADEMIC AND SENIOR ADMINISTRATIVE STAFF
-
-  - 1. There shall be Boards of Advisers which shall make recommendations to the Council concerning the appointment of academic and senior administrative staff. Recommendations concerning the appointment of academic staff shall be conveyed through the Senate.
-
-  - 2. The Board of Advisers for each appointment of Professor, Reader and Senior Lecturer shall consist of—
-
-    - (a) the Vice-Chancellor, or a deputy appointed by him, who shall be Chairman;
-
-    - (b) one member of the Council appointed by the Council, who is not a member of the College to which the appointee will be assigned;
-
-    - (c) 2 members of the Senate, appointed by the Senate, who are not members of the College to which the appointee will be assigned;
-
-    - (d) (if the College to which the appointee will be assigned is an original College or Shaw College) the Head of the College concerned; (18 of 2007 s. 5)
-
-    - (e) the Chairman of the Department or head of the unit in which the appointment is to be made, except that no such Chairman or head shall serve on a Board that is concerned with a post senior to his own post; and (L.N. 452 of 1994; L.N. 25 of 2002)
-
-    - (f) 2 external experts.
-
-  - 3. The Board of Advisers for each appointment of Lecturer shall consist of—
-
-    - (a) the Vice-Chancellor, or a deputy appointed by him, who shall be Chairman;
-
-    - (b) one member of the Council appointed by the Council, who is not a member of the College to which the appointee will be assigned;
-
-    - (c) 2 members of the Senate appointed by the Senate, who are not members of the College to which the appointee will be assigned;
-
-    - (d) (if the College to which the appointee will be assigned is an original College or Shaw College) the Head of the College concerned; (18 of 2007 s. 5)
-
-    - (e) the Chairman of the Department or head of the unit in which the appointment is to be made; and (L.N. 452 of 1994; L.N. 25 of 2002)
-
-    - (f) if considered necessary or desirable by the Council, one external expert. (L.N. 267 of 1993)
-
-  - 4. The Board of Advisers for each appointment of Assistant Lecturer shall consist of—
-
-    - (a) the Vice-Chancellor, or a deputy appointed by him, who shall be Chairman;
-
-    - (b) one member of the Council appointed by the Council, who is not a member of the College to which the appointee will be assigned;
-
-    - (c) one member of the Senate appointed by the Senate, who is not a member of the College to which the appointee will be assigned;
-
-    - (d) (if the College to which the appointee will be assigned is an original College or Shaw College) the Head of the College concerned; and (18 of 2007 s. 5)
-
-    - (e) the Chairman of the Department or head of the unit in which the appointment is to be made. (L.N. 452 of 1994; L.N. 25 of 2002)
-
-  - 5. The Board of Advisers for the appointment of the Librarian shall consist of—
-
-    - (a) the Vice-Chancellor, or a deputy appointed by him, who shall be Chairman;
-
-    - (b) one member of the Council appointed by the Council;
-
-    - (c) 2 members of the Senate appointed by the Senate; and
-
-    - (d) 2 external experts.
-
-  - 6. The Board of Advisers for the appointment of the Secretary and the Registrar shall consist of—
-
-    - (a) the Vice-Chancellor, or a deputy appointed by him, who shall be Chairman;
-
-    - (b) the Chairman of the Council or in his absence a person appointed by the Council;
-
-    - (c) one other member of the Council appointed by the Council; and
-
-    - (d) 2 members of the Senate appointed by the Senate.
-
-  - 7. The Board of Advisers for the appointment of the Bursar shall consist of—
-
-    - (a) the Vice-Chancellor, or a deputy appointed by him, who shall be Chairman;
-
-    - (b) the Treasurer;
-
-    - (c) one member of the Council appointed by the Council; and
-
-    - (d) 2 members of the Senate appointed by the Senate.
-
-  - 8. The Boards of Advisers constituted under paragraphs 4 and 6 may, for the purposes of making any recommendation, consult an external expert.
-
-  - 9. For the purposes of this Statute an external expert shall be appointed by the Council and shall not be a member of the staff of the University.
-
-  - 10. No person shall be recommended for appointment to any post in respect of which the relevant Board of Advisers includes an external expert or experts unless that expert, or if there are two, those experts certify in writing that the person to be recommended is of the required academic or professional standing.
-
-  - 11. Where, in relation to any recommendation for appointment to any post, the Board of Advisers has 2 external experts and those experts are unable to agree over the recommendation, the matter shall be referred to the Administrative and Planning Committee, who may determine the dispute.
+- STATUTE 20 (Repealed L.N. 174 of 2010)
 
 - STATUTE 21 HONORARY AND EMERITUS PROFESSORS
 
   - 1. The Council may appoint Honorary Professors and may award the title of Emeritus Professor to any Professor who has retired from office provided that such appointment or award is recommended by the Senate.
 
-  - 2. An Honorary or Emeritus Professor shall not ex officio be a member of the Senate or of any Faculty or of any Department. (L.N. 452 of 1994)
+  - 2. An Honorary or Emeritus Professor shall not ex officio be a member of the Senate or of any Faculty, Department or School of Studies. (L.N. 452 of 1994; L.N. 174 of 2010)
 
 - STATUTE 22 RETIREMENT OF CERTAIN OFFICERS AND ACADEMIC STAFF The Vice-Chancellor, the Pro-Vice-Chancellors and all other salaried officers and teachers—
 
@@ -874,7 +800,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
 
-  - 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Heads of the original Colleges and of Shaw College, any of the Professors or Readers or Senior Lecturers, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council. (18 of 2007 s. 5)
+  - 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Heads of the original Colleges and of Shaw College, any of the Professors, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council. (18 of 2007 s. 5; L.N. 174 of 2010)
 
   - 4. The Council may and shall if requested by the person concerned or by any 3 members of the Council before such removal appoint a committee consisting of the Chairman of the Council, 2 other members of the Council and 3 members of the Senate to examine the complaint and to report to the Council thereof.
 
@@ -1008,6 +934,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Master of Nursing (M. Nurs.) (L.N. 323 of 1995)
 
+      - Master of Nursing Science (M.N.Sc.) (L.N. 174 of 2010)
+
       - Master of Occupational Medicine (M.O.M.) (L.N. 213 of 2003)
 
       - Master of Philosophy (M. Phil.)
@@ -1036,6 +964,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - Doctor of Music (D. Mus.) (L.N. 453 of 1994)
 
+      - Doctor of Nursing (D.Nurs.) (L.N. 174 of 2010)
+
       - Doctor of Philosophy (Ph. D.)
 
       - Doctor of Psychology (Psy.D.) (L.N. 6 of 2006)
@@ -1058,11 +988,11 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - Provided that the degree of Bachelor shall not be conferred upon such student unless—
 
-    - (a) he shall have attended an approved course of study as a matriculated student of the University for at least 2 academic years; and (L.N. 114 of 1991; L.N. 453 of 1994; L.N. 233 of 2007)
+      - (a) he shall have attended an approved course of study as a matriculated student of the University for at least 2 academic years; and (L.N. 114 of 1991; L.N. 453 of 1994; L.N. 233 of 2007)
 
-    - (b) his total period of attendance as a matriculated student of the University and as a registered student of another university or institution of higher learning shall not be less than 3 academic years. (L.N. 453 of 1994; L.N. 233 of 2007)
+      - (b) his total period of attendance as a matriculated student of the University and as a registered student of another university or institution of higher learning shall not be less than 3 academic years. (L.N. 453 of 1994; L.N. 233 of 2007)
 
-    - (c) (Repealed L.N. 233 of 2007)
+      - (c) (Repealed L.N. 233 of 2007)
 
   - 5. The Senate may accept a certificate of proficiency in any subject issued by another university or institution of higher learning recognized for this purpose by the Senate as exempting from any examination of the University in such subject for the degree of Bachelor. (L.N. 453 of 1994)
 
