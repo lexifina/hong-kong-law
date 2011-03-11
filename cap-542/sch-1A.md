@@ -4,6 +4,12 @@
 
 COMPOSITION OF THE TRANSPORT FUNCTIONAL CONSTITUENCY
 
+(The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
+
+- (a) the holding of the elections of members of the Election Committee under the Chief Executive Election Ordinance (Cap. 569) in 2011; and
+
+- (b) the holding of the Legislative Council general election in 2012.)
+
 Item Body
 
 - 1. Parking Management and Consultancy Services Limited. (Replaced 7 of 2008 s. 7)
@@ -158,7 +164,7 @@ Item Body
 
 - 76. Kowloon Fung Wong Public Light Bus Merchants & Workers’ Association Ltd.
 
-- 77. Kowloon Motor Bus Company (1933) Ltd.
+- 77. The Kowloon Motor Bus Company (1933) Limited. (Amended 2 of 2011 s. 33)
 
 - 78. Kowloon Motor Driving Instructors’ Association Ltd.
 
@@ -230,7 +236,7 @@ Item Body
 
 - 112. Peak Tramways Co., Ltd.
 
-- 113. Pioneer Concrete Owners Drivers Association.
+- 113. (Repealed 2 of 2011 s. 33)
 
 - 114. (Repealed 25 of 2003 s. 44)
 
@@ -294,7 +300,7 @@ Item Body
 
 - 144. Tung Yee Shipbuilding and Repairing Merchants General Association Limited. (Replaced 25 of 2003 s. 44)
 
-- 145. United Association of Public Lightbus Hong Kong.
+- 145. (Repealed 2 of 2011 s. 33)
 
 - 146. United Friendship Taxi Owners & Drivers Association Ltd.
 
@@ -400,4 +406,62 @@ Item Body
 
 - 197. The Hong Kong Union of Light Van Employees. (Added 25 of 2003 s. 44)
 
-- 198. Worldwide Flight Services, Inc. (Added 25 of 2003 s. 44) (Added 48 of 1999 s. 43)
+- 198. Worldwide Flight Services, Inc. (Added 25 of 2003 s. 44)
+
+- 199. NT Taxi Operations Union. (Added 2 of 2011 s. 33)
+
+- 200. Sun Hing Taxi Radio Service General Association. (Added 2 of 2011 s. 33)
+
+- 201. Taxi & P.L.B. Concern Group. (Added 2 of 2011 s. 33)
+
+- 202. Tai Wo Motors Limited. (Added 2 of 2011 s. 33)
+
+- 203. Tuen Mun District Tourists and Passengers Omnibus Operators Association Limited. (Added 2 of 2011 s. 33)
+
+- 204. Tsuen Wan District Tourists and Passengers Omnibus Operators Association Limited. (Added 2 of 2011 s. 33)
+
+- 205. Yuen Long District Tourists and Passengers Omnibus Operators Association Limited. (Added 2 of 2011 s. 33)
+
+- 206. Kowloon District Tourists and Passengers Omnibus Operators Association Limited. (Added 2 of 2011 s. 33)
+
+- 207. Hong Kong District Tourists and Passengers Omnibus Operators Association Limited. (Added 2 of 2011 s. 33)
+
+- 208. Sino Parking Services Limited. (Added 2 of 2011 s. 33)
+
+- 209. Urban Parking Limited. (Added 2 of 2011 s. 33)
+
+- 210. Greater Lucky (HK) Company Limited. (Added 2 of 2011 s. 33)
+
+- 211. China Hongkong and Macau Boundary Crossing Bus Association Limited. (Added 2 of 2011 s. 33)
+
+- 212. Ground Support Engineering Limited. (Added 2 of 2011 s. 33)
+
+- 213. Cathay Pacific Services Limited. (Added 2 of 2011 s. 33)
+
+- 214. Cathay Pacific Catering Services (H.K.) Limited. (Added 2 of 2011 s. 33)
+
+- 215. LSG Lufthansa Service Hong Kong Limited. (Added 2 of 2011 s. 33)
+
+- 216. Gate Gourmet Hong Kong, Limited. (Added 2 of 2011 s. 33)
+
+- 217. ECO Aviation Fuel Services Limited. (Added 2 of 2011 s. 33)
+
+- 218. Hong Kong Aircraft Engineering Company Limited. (Added 2 of 2011 s. 33)
+
+- 219. China Aircraft Services Limited. (Added 2 of 2011 s. 33)
+
+- 220. Dah Chong Hong – Dragonair Airport GSE Service Limited. (Added 2 of 2011 s. 33)
+
+- 221. Jardine Air Terminal Services Limited. (Added 2 of 2011 s. 33)
+
+- 222. Service Managers Association. (Added 2 of 2011 s. 33)
+
+- 223. Driving Instructors Association. (Added 2 of 2011 s. 33)
+
+- 224. The Chamber of Hong Kong Logistics Industry Limited. (Added 2 of 2011 s. 33)
+
+- 225. New Horizon School of Motoring Limited. (Added 2 of 2011 s. 33)
+
+- 226. Leinam School of Motoring Limited. (Added 2 of 2011 s. 33)
+
+(Added 48 of 1999 s. 43)

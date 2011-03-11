@@ -4,6 +4,12 @@
 
 COMPOSITION OF THE INFORMATION TECHNOLOGY FUNCTIONAL CONSTITUENCY
 
+(The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
+
+- (a) the holding of the elections of members of the Election Committee under the Chief Executive Election Ordinance (Cap. 569) in 2011; and
+
+- (b) the holding of the Legislative Council general election in 2012.)
+
 - PART 1 Item Body
 
   - 1. APT Satellite Company Limited (Amended 10 of 2006 s. 42)
@@ -14,9 +20,9 @@ COMPOSITION OF THE INFORMATION TECHNOLOGY FUNCTIONAL CONSTITUENCY
 
 Item | Body | Eligible persons
 
-1. | Hong Kong & Mainland Software Industry Cooperation Association Limited | Full Members— (a) the major business of which, as confirmed by the Association, has been in the research, development or application of information technology or computer software during the relevant period; and (b) which are entitled to vote at general meetings of the Association.
+1. | Hong Kong Software Industry Association Limited (Amended 2 of 2011 s. 36) | Full Members— (a) the major business of which, as confirmed by the Association, has been in the research, development or application of information technology or computer software during the relevant period; and (b) which are entitled to vote at general meetings of the Association.
 
-2. | Information Systems Audit and Control Association (Hong Kong Chapter) Limited | Ordinary Members who are— (a) confirmed by the Association to have been holders of the Certified Information Systems Auditor Certification (CISA) during the relevant period; and (b) entitled to vote at general meetings of the Association.
+2. | Information Systems Audit and Control Association China Hong Kong Chapter Limited (Amended 2 of 2011 s. 36) | Ordinary Members who are— (a) confirmed by the Association to have been holders of the Certified Information Systems Auditor Certification (CISA) during the relevant period; and (b) entitled to vote at general meetings of the Association.
 
 3. | Internet Professional Association Limited (Amended 10 of 2006 s. 42) | Members who are— (a) confirmed by the Association to have had experience in the information technology field, as specified in the constitution of the Association, during the relevant period; and (b) entitled to vote at general meetings of the Association.
 

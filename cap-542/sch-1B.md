@@ -4,6 +4,12 @@
 
 COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL CONSTITUENCY
 
+(The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
+
+- (a) the holding of the elections of members of the Election Committee under the Chief Executive Election Ordinance (Cap. 569) in 2011; and
+
+- (b) the holding of the Legislative Council general election in 2012.)
+
 - PART 1 DISTRICT SPORTS ASSOCIATIONS Item Body
 
   - 1. Central & Western District Recreation & Sports Association.
@@ -22,13 +28,13 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 8. Mong Kok District Cultural, Recreational and Sports Association Limited. (Replaced 25 of 2003 s. 45)
 
-  - 9. North District Sports Association.
+  - 9. North District Sports Association Limited. (Amended 2 of 2011 s. 34)
 
   - 10. Sai Kung District Sports Association Ltd.
 
   - 11. Sha Tin Sports Association Ltd.
 
-  - 12. Sham Shui Po Sports Association.
+  - 12. Sham Shui Po Sports Association Limited. (Amended 2 of 2011 s. 34)
 
   - 13. Southern District Recreation and Sports Association Limited. (Amended 10 of 2006 s. 44)
 
@@ -194,7 +200,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 58. South China Research Circle.
 
-  - 59. Swimming Teacher’s Association Hong Kong.
+  - 59. The Hong Kong Swimming Teachers’ Association Limited. (Amended 2 of 2011 s. 34)
 
   - 60. (Repealed 25 of 2003 s. 45)
 

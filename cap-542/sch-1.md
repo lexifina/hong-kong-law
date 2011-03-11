@@ -4,6 +4,12 @@
 
 COMPOSITION OF THE AGRICULTURE AND FISHERIES FUNCTIONAL CONSTITUENCY
 
+(The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
+
+- (a) the holding of the elections of members of the Election Committee under the Chief Executive Election Ordinance (Cap. 569) in 2011; and
+
+- (b) the holding of the Legislative Council general election in 2012.)
+
 Item Body
 
 - 1. Aberdeen Fishermen Friendship Association. (Amended 10 of 2006 s. 34)
@@ -56,7 +62,7 @@ Item Body
 
 - 25. Hong Kong Netting, Cultivation and Fisherman Association.
 
-- 26. Hong Kong New Territories Boat People Association.
+- 26. (Repealed 2 of 2011 s. 32)
 
 - 27. Hong Kong Off-shore Fishermen’s Association.
 
@@ -160,14 +166,16 @@ Item Body
 
 - 77. 荃灣葵青居民聯會(漁民組).
 
-- 78. 荃灣葵青漁民會
+- 78. 荃灣葵青漁民會.
 
 - 79. The Shau Kei Wan Stern Trawler Fishermen’s Credit Co-operative Society, Unlimited. (Added 25 of 2003 s. 43)
 
-- 80. Hong Kong Organic Farming Association Limited. (Added 25 of 2003 s. 43)
+- 80. Sustainable Ecological Ethical Development Foundation Limited. (Added 25 of 2003 s. 43. Amended 2 of 2011 s. 32)
 
 - 81. N.T. North District Fishermen’s Association. (Added 25 of 2003 s. 43)
 
 - 82. Tai Po Off Shore Fishermen’s Association. (Added 25 of 2003 s. 43)
 
-- 83. Aberdeen Fisherwomen Association. (Added 25 of 2003 s. 43) (Replaced 48 of 1999 s. 43)
+- 83. Aberdeen Fisherwomen Association. (Added 25 of 2003 s. 43)
+
+(Replaced 48 of 1999 s. 43)

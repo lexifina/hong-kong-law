@@ -4,6 +4,12 @@
 
 COMPOSITION OF THE WHOLESALE AND RETAIL FUNCTIONAL CONSTITUENCY
 
+(The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
+
+- (a) the holding of the elections of members of the Election Committee under the Chief Executive Election Ordinance (Cap. 569) in 2011; and
+
+- (b) the holding of the Legislative Council general election in 2012.)
+
 Item Body
 
 - 1. Anglo-Chinese Vegetable Wholesale Merchants Association Limited. (Amended 10 of 2006 s. 45)
@@ -14,9 +20,9 @@ Item Body
 
 - 4. Chinese Medicine Merchants Association Ltd.
 
-- 5. Chinese Merchants (H.K.) Association. (Replaced 25 of 2003 s. 46)
+- 5. Chinese Merchants (H.K.) Association Limited. (Replaced 25 of 2003 s. 46. Amended 2 of 2011 s. 35)
 
-- 6. Chinese Paper Merchants Association.
+- 6. Chinese Paper Merchants Association Limited. (Amended 2 of 2011 s. 35)
 
 - 7. The Cosmetic & Perfumery Association of Hong Kong Ltd.
 
@@ -54,7 +60,7 @@ Item Body
 
 - 24. Hong Kong & Kowloon Poultry Dealers Guild.
 
-- 25. The Hong Kong & Kowloon Provisions, Wine & Spirit Dealers’ Association.
+- 25. The Hong Kong & Kowloon Provisions, Wine & Spirit Dealers’ Association Limited. (Amended 2 of 2011 s. 35)
 
 - 26. Hong Kong and Kowloon Rattan Ware Merchants Association (Wing-Hing-Tong). (Amended 10 of 2006 s. 45)
 
@@ -194,4 +200,12 @@ Item Body
 
 - 95. Diamond Federation of Hong Kong, China Limited. (Added 25 of 2003 s. 46)
 
-- 96. Tobacco Association of Hong Kong Limited. (Added 7 of 2008 s. 9) (Added 48 of 1999 s. 43)
+- 96. Tobacco Association of Hong Kong Limited. (Added 7 of 2008 s. 9)
+
+- 97. Hong Kong Chinese Prepared Medicine Traders Association Limited. (Added 2 of 2011 s. 35)
+
+- 98. Hong Kong Chinese Medicine Industry Association Limited. (Added 2 of 2011 s. 35)
+
+- 99. Hong Kong Chinese Patent Medicine Manufacturers’ Association Ltd. (Added 2 of 2011 s. 35)
+
+(Added 48 of 1999 s. 43)
