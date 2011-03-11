@@ -4,6 +4,12 @@
 
 ELECTION COMMITTEE
 
+(The amendments made to this Schedule by the Chief Executive Election (Amendment) Ordinance 2011 (1 of 2011) shall come into operation on—
+
+- (a) 11 March 2011 for the purpose only of enabling arrangements to be made for the holding of the elections under Part 4 of the Schedule to the Chief Executive Election Ordinance (Cap. 569) to elect members of the Election Committee in 2011 other than members assigned to the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector;
+
+- (b) 1 February 2012 in so far as it has not come into operation under paragraph (a).)
+
 - PART 1 PRELIMINARY
 
   - 1. Interpretation
@@ -84,7 +90,7 @@ ELECTION COMMITTEE
 
           - (C) the eligibility of members of the body to vote at a general meeting of the body,
 
-    - has been approved in writing by the Secretary for Constitutional and Mainland Affairs; and (Amended L.N. 130 of 2007)
+        - has been approved in writing by the Secretary for Constitutional and Mainland Affairs; and (Amended L.N. 130 of 2007)
 
       - (b)
 
@@ -110,29 +116,29 @@ ELECTION COMMITTEE
 
         - “social service” (社會服務) means the provision of any one or more of the following services for the benefit of the community—
 
-        - (i) family and child welfare services;
+          - (i) family and child welfare services;
 
-        - (ii) services for young people;
+          - (ii) services for young people;
 
-        - (iii) services for the elderly;
+          - (iii) services for the elderly;
 
-        - (iv) services for offenders;
+          - (iv) services for offenders;
 
-        - (v) rehabilitation services;
+          - (v) rehabilitation services;
 
-        - (vi) community development;
+          - (vi) community development;
 
-        - (vii) social security.
+          - (vii) social security.
 
 - PART 2 MEMBERSHIP OF ELECTION COMMITTEE
 
   - 2. How Election Committee is to be constituted
 
-    - (1) The Election Committee is to consist of 800 members, who must be Hong Kong permanent residents.
+    - (1) The Election Committee is to consist of 1200 members, who must be Hong Kong permanent residents. (Amended 1 of 2011 s. 9)
 
     - (2) The membership of the Election Committee (other than ex-officio members) is to be determined in accordance with the procedures specified in this Schedule.
 
-    - (3) The members of the Election Committee are to be representative of 4 sectors, with each sector being represented by 200 members.
+    - (3) The members of the Election Committee are to be representative of 4 sectors, with each sector being represented by 300 members. (Amended 1 of 2011 s. 9)
 
     - (4) The sectors are to be composed of the subsectors specified in Tables 1, 2, 3 and 4.
 
@@ -178,235 +184,343 @@ ELECTION COMMITTEE
 
       - Item | Subsector | Number of members
 
-      - 1. | Catering | 11
+      - 1. | Catering | 17
 
-      - 2. | Commercial (first) | 12
+      - 2. | Commercial (first) | 18
 
-      - 3. | Commercial (second) | 12
+      - 3. | Commercial (second) | 18
 
-      - 4. | Employers’ Federation of Hong Kong | 11
+      - 4. | Employers’ Federation of Hong Kong | 16
 
-      - 5. | Finance | 12
+      - 5. | Finance | 18
 
-      - 6. | Financial services | 12
+      - 6. | Financial services | 18
 
-      - 7. | Hong Kong Chinese Enterprises Association | 11
+      - 7. | Hong Kong Chinese Enterprises Association | 16
 
-      - 8. | Hotel | 11
+      - 8. | Hotel | 17
 
-      - 9. | Import and export | 12
+      - 9. | Import and export | 18
 
-      - 10. | Industrial (first) | 12
+      - 10. | Industrial (first) | 18
 
-      - 11. | Industrial (second) | 12
+      - 11. | Industrial (second) | 18
 
-      - 12. | Insurance | 12
+      - 12. | Insurance | 18
 
-      - 13. | Real estate and construction | 12
+      - 13. | Real estate and construction | 18
 
-      - 14. | Textiles and garment | 12
+      - 14. | Textiles and garment | 18
 
-      - 15. | Tourism | 12
+      - 15. | Tourism | 18
 
-      - 16. | Transport | 12
+      - 16. | Transport | 18
 
-      - 17. | Wholesale and retail | 12
+      - 17. | Wholesale and retail | 18
 
-      - TABLE 2 SECOND SECTOR
+  - (Amended 1 of 2011 s. 9)
 
-      - Item | Subsector | Number of members
+  - TABLE 2 SECOND SECTOR
 
-      - 1. | Accountancy | 20
+  - Item | Subsector | Number of members
 
-      - 2. | Architectural, surveying and planning | 20
+  - 1. | Accountancy | 30
 
-      - 3. | Chinese medicine | 20
+  - 2. | Architectural, surveying and planning | 30
 
-      - 4. | Education | 20
+  - 3. | Chinese medicine | 30
 
-      - 5. | Engineering | 20
+  - 4. | Education | 30
 
-      - 6. | Health services | 20
+  - 5. | Engineering | 30
 
-      - 7. | Higher education | 20
+  - 6. | Health services | 30
 
-      - 8. | Information technology | 20
+  - 7. | Higher education | 30
 
-      - 9. | Legal | 20
+  - 8. | Information technology | 30
 
-      - 10. | Medical | 20
+  - 9. | Legal | 30
 
-      - TABLE 3 THIRD SECTOR
+  - 10. | Medical | 30
 
-      - Item | Subsector | Number of members
+  - (Amended 1 of 2011 s. 9)
 
-      - 1. | Agriculture and fisheries | 40
+  - TABLE 3 THIRD SECTOR
 
-      - 2. | Labour | 40
+  - Item | Subsector | Number of members
 
-      - 3. | Religious | 40
+  - 1. | Agriculture and fisheries | 60
 
-      - 4. | Social welfare | 40
+  - 2. | Labour | 60
 
-      - 5. | Sports, performing arts, culture and publication | 40
+  - 3. | Religious | 60
 
-      - TABLE 4 FOURTH SECTOR
+  - 4. | Social welfare | 60
 
-      - Item | Subsector | Constituents | Number of members
+  - 5. | Sports, performing arts, culture and publication | 60
 
-      - 1. | National People’s Congress (“NPC”) | Hong Kong deputies to the NPC. | 36
+  - (Amended 1 of 2011 s. 9)
 
-      - 2. | Legislative Council | Members of the Legislative Council. | 60
+  - TABLE 4 FOURTH SECTOR
 
-      - 3. | Chinese People’s Political Consultative Conference (“CPPCC”) | Hong Kong members of the National Committee of the CPPCC. | 41
+  - Item | Subsector | Constituents | Number of members
 
-      - 4. | Heung Yee Kuk | Chairman and Vice-Chairmen of the Heung Yee Kuk and the Ex-Officio, Special and Co-opted Councillors of the Full Council of the Heung Yee Kuk. | 21
+  - 1. | National People’s Congress (“NPC”) | Hong Kong deputies to the NPC. | 36
 
-      - 5. | Hong Kong and Kowloon District Councils | Members of the Hong Kong and Kowloon District Councils. | 21
+  - 2. | Legislative Council | Members of the Legislative Council. | 60
 
-      - 6. | New Territories District Councils | Members of the New Territories District Councils. | 21
+  - 3. | Chinese People’s Political Consultative Conference (“CPPCC”) | Hong Kong members of the National Committee of the CPPCC. | 51
 
-      - TABLE 5 COMPOSITION OF SUBSECTORS REFERRED TO IN SECTION 2(5)(c) (Subsectors without an equivalent functional constituency)
+  - 4. | Heung Yee Kuk | Chairman and Vice-Chairmen of the Heung Yee Kuk and the Ex-Officio, Special and Co-opted Councillors of the Full Council of the Heung Yee Kuk. | 26
 
-      - Item | Subsector | Constituents
+  - 5. | Hong Kong and Kowloon District Councils | Members of the Hong Kong and Kowloon District Councils. | 57
 
-      - 1. | Hong Kong Chinese Enterprises Association | Members of the Hong Kong Chinese Enterprises Association entitled to vote at general meetings of the Association.
+  - 6. | New Territories District Councils | Members of the New Territories District Councils. | 60
 
-      - 2. | Tourism | (1A) Travel industry members of the body known immediately before 1 April 2001 as the Hong Kong Tourist Association, entitled immediately before that date, under the constitution of that body in force immediately before that date, to vote at general meetings of that body. (Added 25 of 2003 s. 56)
+  - (Amended 1 of 2011 s. 9)
 
-      - (1) Members of the Travel Industry Council of Hong Kong entitled to vote at general meetings of the Council.
+  - TABLE 5 COMPOSITION OF SUBSECTORS REFERRED TO IN SECTION 2(5)(c) (Subsectors without an equivalent functional constituency)
 
-      - (2) Members of The Board of Airline Representatives in Hong Kong. (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
+  - Item | Subsector | Constituents
 
-      - 3. | Hotel | (1) Members of the Hong Kong Hotels Association entitled to vote at general meetings of the Association.
+  - 1. | Hong Kong Chinese Enterprises Association | Members of the Hong Kong Chinese Enterprises Association entitled to vote at general meetings of the Association.
 
-      - (2) Members of the Federation of Hong Kong Hotel Owners Limited entitled to vote at general meetings of the Federation. (Amended 10 of 2006 s. 32)
+  - 2. | Tourism | (1A) Travel industry members of the body known immediately before 1 April 2001 as the Hong Kong Tourist Association, entitled immediately before that date, under the constitution of that body in force immediately before that date, to vote at general meetings of that body. (Added 25 of 2003 s. 56)
 
-      - 4. | Chinese medicine | Members of—
+  - (1) Members of the Travel Industry Council of Hong Kong entitled to vote at general meetings of the Council.
 
-      - (1) The Hong Kong Association of Traditional Chinese Medicine Limited;
+  - (2) Members of The Board of Airline Representatives in Hong Kong. (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
 
-      - (2) International General Chinese Herbalists and Medicine Professionals Association Limited;
+  - 3. | Hotel | (1) Members of the Hong Kong Hotels Association entitled to vote at general meetings of the Association.
 
-      - (3) Sin-Hua Herbalists’ and Herb Dealers’ Promotion Society Limited;
+  - (2) Members of the Federation of Hong Kong Hotel Owners Limited entitled to vote at general meetings of the Federation. (Amended 10 of 2006 s. 32)
 
-      - (4) Society of Practitioners of Chinese Herbal Medicine Limited;
+  - 4. | Chinese medicine | (1) Members of—
 
-      - (5) The Hong Kong T.C.M. Orthopaedic and Traumatic Association Limited; (Replaced 25 of 2003 s. 56)
+  - (a) The Hong Kong Association of Traditional Chinese Medicine Limited;
 
-      - (6) The Hong Kong Federation of China of Traditional Chinese Medicine;
+  - (b) International General Chinese Herbalists and Medicine Professionals Association Limited;
 
-      - (7) Hong Kong Acupuncturists Association;
+  - (c) Sin-Hua Herbalists’ and Herb Dealers’ Promotion Society Limited;
 
-      - (8) Hong Kong Chinese Herbalists Association Limited;
+  - (d) Society of Practitioners of Chinese Herbal Medicine Limited;
 
-      - (9) Association of Hong Kong & Kowloon Practitioners of Chinese Medicine, Limited;
+  - (e) The Hong Kong T.C.M. Orthopaedic and Traumatic Association Limited;
 
-      - (10) Hong Kong Chinese Overseas Physician Association,
+  - (f) The Hong Kong Federation of China of Traditional Chinese Medicine;
 
-      - who are Chinese medicine practitioners entitled to vote at the general meetings of the respective bodies. (Amended 10 of 2006 s. 32)
+  - (g) Hong Kong Acupuncturists Association;
 
-      - 5. | Higher education | (1) Full-time academic staff engaged in teaching or research and administrative staff of equivalent rank in—
+  - (h) Hong Kong Chinese Herbalists Association Limited;
 
-      - (a) institutions of higher education funded through the University Grants Committee;
+  - (i) Association of Hong Kong & Kowloon Practitioners of Chinese Medicine, Limited;
 
-      - (b) approved post secondary colleges registered under the Post Secondary Colleges Ordinance (Cap. 320);
+  - (j) Hong Kong Chinese Medicine Practitioners Association Limited, who are Chinese medicine practitioners entitled to vote at the general meetings of the respective bodies. (Replaced 1 of 2011 s. 9) (2) Registered Chinese medicine practitioners registered under the Chinese Medicine Ordinance (Cap. 549). (Added 1 of 2011 s. 9)
 
-      - (c) technical colleges established under the Vocational Training Council Ordinance (Cap. 1130);
+  - 5. | Higher education | (1) Full-time academic staff engaged in teaching or research and administrative staff of equivalent rank in—
 
-      - (d) The Hong Kong Academy for Performing Arts;
+  - (a) institutions of higher education funded through the University Grants Committee;
 
-      - (e) The Open University of Hong Kong; (Amended 25 of 2003 s. 56)
+  - (b) approved post secondary colleges registered under the Post Secondary Colleges Ordinance (Cap. 320);
 
-      - (f) the School of Continuing and Professional Education of the City University of Hong Kong; (Added 25 of 2003 s. 56)
+  - (c) technical colleges established under the Vocational Training Council Ordinance (Cap. 1130);
 
-      - (g) the School of Continuing Education of the Hong Kong Baptist University; (Added 25 of 2003 s. 56)
+  - (d) The Hong Kong Academy for Performing Arts;
 
-      - (h) the Lingnan Institute of Further Education of the Lingnan University; (Added 25 of 2003 s. 56)
+  - (e) The Open University of Hong Kong; (Amended 25 of 2003 s. 56)
 
-      - (i) the School of Continuing Studies of The Chinese University of Hong Kong; (Added 25 of 2003 s. 56)
+  - (f) the School of Continuing and Professional Education of the City University of Hong Kong; (Added 25 of 2003 s. 56)
 
-      - (j) the Division of Continuing Professional Education of The Hong Kong Institute of Education; (Added 25 of 2003 s. 56)
+  - (g) the School of Continuing Education of the Hong Kong Baptist University; (Added 25 of 2003 s. 56)
 
-      - (k) the School of Professional Education and Executive Development of The Hong Kong Polytechnic University; (Added 25 of 2003 s. 56)
+  - (h) the Lingnan Institute of Further Education of the Lingnan University; (Added 25 of 2003 s. 56)
 
-      - (l) the HKUST College of Lifelong Learning Limited; (Added 25 of 2003 s. 56)
+  - (i) the School of Continuing and Professional Studies of The Chinese University of Hong Kong; (Replaced 1 of 2011 s. 9)
 
-      - (m) the HKU School of Professional and Continuing Education. (Added 25 of 2003 s. 56)
+  - (j) HKIEd School of Continuing and Professional Education Limited; (Replaced 1 of 2011 s. 9)
 
-      - (2) Members of—
+  - (k) the School of Professional Education and Executive Development of The Hong Kong Polytechnic University; (Added 25 of 2003 s. 56)
 
-      - (a) the Council of the University of Hong Kong;
+  - (l) the HKUST College of Lifelong Learning Limited; (Added 25 of 2003 s. 56)
 
-      - (b) the Council of The Chinese University of Hong Kong;
+  - (m) the HKU School of Professional and Continuing Education. (Added 25 of 2003 s. 56)
 
-      - (c) the Council of The Hong Kong University of Science and Technology;
+  - (2) Members of—
 
-      - (d) the Council of the City University of Hong Kong;
+  - (a) the Council of the University of Hong Kong;
 
-      - (e) the Council of The Hong Kong Polytechnic University;
+  - (b) the Council of The Chinese University of Hong Kong;
 
-      - (f) the Council of The Hong Kong Academy for Performing Arts;
+  - (c) the Council of The Hong Kong University of Science and Technology;
 
-      - (g) the Council of The Open University of Hong Kong;
+  - (d) the Council of the City University of Hong Kong;
 
-      - (h) the Vocational Training Council; (Amended 10 of 2006 s. 32)
+  - (e) the Council of The Hong Kong Polytechnic University;
 
-      - (i) the Council of The Hong Kong Institute of Education;
+  - (f) the Council of The Hong Kong Academy for Performing Arts;
 
-      - (j) the Council of the Hong Kong Baptist University;
+  - (g) the Council of The Open University of Hong Kong;
 
-      - (k) the Council of Lingnan University;
+  - (h) the Vocational Training Council; (Amended 10 of 2006 s. 32)
 
-      - (l) the Board of Governors of the Hong Kong Shue Yan University; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
+  - (i) the Council of The Hong Kong Institute of Education;
 
-      - (m) the Board of Governors of the Caritas Francis Hsu College. (Added 25 of 2003 s. 56)
+  - (j) the Council of the Hong Kong Baptist University;
 
-      - 6. | Education | (1) Registered teachers registered under the Education Ordinance (Cap. 279).
+  - (k) the Council of Lingnan University;
 
-      - (2) Permitted teachers engaged in full-time employment in schools registered or provisionally registered under the Education Ordinance (Cap. 279).
+  - (l) the Board of Governors of the Hong Kong Shue Yan University; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
 
-      - (3) Teachers and principals of schools entirely maintained and controlled by the Government.
+  - (m) the Board of Governors of the Caritas Francis Hsu College. (Added 25 of 2003 s. 56)
 
-      - (4) Persons whose principal or only employment is that of full-time teaching with the following bodies—
+  - 6. | Education | (1) Registered teachers registered under the Education Ordinance (Cap. 279).
 
-      - (a) technical institutes, industrial training centres and skills centres established under the Vocational Training Council Ordinance (Cap. 1130);
+  - (2) Permitted teachers engaged in full-time employment in schools registered or provisionally registered under the Education Ordinance (Cap. 279).
 
-      - (b) industrial training centres established under the repealed Industrial Training (Construction Industry) Ordinance (Cap. 317) and maintained under the Construction Industry Council Ordinance (Cap. 587); (Amended 12 of 2006 s. 84) (ba) industrial training centres established under the Construction Industry Council Ordinance (Cap. 587); (Added 12 of 2006 s. 84)
+  - (3) Teachers and principals of schools entirely maintained and controlled by the Government.
 
-      - (c) industrial training centres established under the Industrial Training (Clothing Industry) Ordinance (Cap. 318);
+  - (4) Persons whose principal or only employment is that of full-time teaching with the following bodies—
 
-      - (d) Hong Chi Association-Hong Chi Pinehill Advanced Training Centre; (Replaced 25 of 2003 s. 56)
+  - (a) technical institutes, industrial training centres and skills centres established under the Vocational Training Council Ordinance (Cap. 1130);
 
-      - (e) Caritas Lok Mo Integrated Vocational Training Centre of Caritas-Hong Kong incorporated under the Caritas-Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
+  - (b) industrial training centres established under the repealed Industrial Training (Construction Industry) Ordinance (Cap. 317) and maintained under the Construction Industry Council Ordinance (Cap. 587); (Amended 12 of 2006 s. 84) (ba) industrial training centres established under the Construction Industry Council Ordinance (Cap. 587); (Added 12 of 2006 s. 84)
 
-      - (5) Registered managers of schools registered under the Education Ordinance (Cap. 279).
+  - (c) industrial training centres established under the Industrial Training (Clothing Industry) Ordinance (Cap. 318);
 
-      - 7. | Employers’ Federation of Hong Kong | Members of the Employers’ Federation of Hong Kong entitled to vote at general meetings of the Federation.
+  - (d) Hong Chi Association-Hong Chi Pinehill Advanced Training Centre; (Replaced 25 of 2003 s. 56)
 
-      - 8. | Social welfare | (1) Social workers registered under the Social Workers Registration Ordinance (Cap. 505).
+  - (e) Caritas Lok Mo Integrated Vocational Training Centre of Caritas-Hong Kong incorporated under the Caritas-Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
 
-      - (2) Corporate members of the Hong Kong Council of Social Service entitled to vote at general meetings of the Council.
+  - (5) Registered managers of schools registered under the Education Ordinance (Cap. 279).
 
-      - (3) Exempted societies within the meaning of the Societies Ordinance (Cap. 151) that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter—
+  - 7. | Employers’ Federation of Hong Kong | Members of the Employers’ Federation of Hong Kong entitled to vote at general meetings of the Federation.
 
-      - (a) to promote the co-ordination and improvement of social service activities;
+  - 8. | Social welfare | (1) Social workers registered under the Social Workers Registration Ordinance (Cap. 505).
 
-      - (b) to develop resources, such as manpower, funds and data, for social service activities; or
+  - (2) Corporate members of the Hong Kong Council of Social Service entitled to vote at general meetings of the Council.
 
-      - (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs,
+  - (3) Exempted societies within the meaning of the Societies Ordinance (Cap. 151) that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter—
 
-      - and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure.
+  - (a) to promote the co-ordination and improvement of social service activities;
 
-      - (4) Non-profit making companies registered under the Companies Ordinance (Cap. 32) that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter—
+  - (b) to develop resources, such as manpower, funds and data, for social service activities; or
 
-      - (a) to promote the co-ordination and improvement of social service activities;
+  - (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs,
 
-      - (b) to develop resources, such as manpower, funds and data, for social service activities; or
+  - and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure.
 
-      - (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs,
+  - (4) Non-profit making companies registered under the Companies Ordinance (Cap. 32) that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter—
 
-      - and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure.
+  - (a) to promote the co-ordination and improvement of social service activities;
+
+  - (b) to develop resources, such as manpower, funds and data, for social service activities; or
+
+  - (c) to promote public understanding of social service needs and the role of the voluntary agencies in meeting those needs,
+
+  - and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure.
+
+  - 2A. Special membership arrangement for 2012
+
+    - (1) Despite section 2, this section has effect.
+
+    - (2) In the subsector ordinary election to elect the members of the Election Committee assigned to the Chinese People’s Political Consultative Conference subsector for the term of office of the Election Committee commencing on 1 February 2012—
+
+      - (a) if the number of validly nominated candidates exceeds 51 but does not exceed 55, subsection (8) applies to all those candidates who are not returned at the election because—
+
+        - (i) they do not obtain as many votes as the elected candidates; or
+
+        - (ii) lots are drawn under section 29(6) and the lot does not fall on them;
+
+      - (b) if the number of validly nominated candidates exceeds 55, subsection (8) applies, subject to subsection (6), to the 4 candidates who—
+
+        - (i) are not returned at the election because of the reasons specified in paragraph (a)(i) or (ii); and
+
+        - (ii) obtain the greatest number of votes among the candidates who are not so returned.
+
+    - (3) In the subsector ordinary election to elect the members of the Election Committee assigned to the Heung Yee Kuk subsector for the term of office of the Election Committee commencing on 1 February 2012—
+
+      - (a) if the number of validly nominated candidates exceeds 26 but does not exceed 28, subsection (8) applies to all those candidates who are not returned at the election because—
+
+        - (i) they do not obtain as many votes as the elected candidates; or
+
+        - (ii) lots are drawn under section 29(6) and the lot does not fall on them;
+
+      - (b) if the number of validly nominated candidates exceeds 28, subsection (8) applies, subject to subsection (6), to the 2 candidates who—
+
+        - (i) are not returned at the election because of the reasons specified in paragraph (a)(i) or (ii); and
+
+        - (ii) obtain the greatest number of votes among the candidates who are not so returned.
+
+    - (4) In the subsector ordinary election to elect the members of the Election Committee assigned to the Hong Kong and Kowloon District Councils subsector for the term of office of the Election Committee commencing on 1 February 2012—
+
+      - (a) if the number of validly nominated candidates exceeds 57 but does not exceed 59, subsection (8) applies to all those candidates who are not returned at the election because—
+
+        - (i) they do not obtain as many votes as the elected candidates; or
+
+        - (ii) lots are drawn under section 29(6) and the lot does not fall on them;
+
+      - (b) if the number of validly nominated candidates exceeds 59, subsection (8) applies, subject to subsection (6), to the 2 candidates who—
+
+        - (i) are not returned at the election because of the reasons specified in paragraph (a)(i) or (ii); and
+
+        - (ii) obtain the greatest number of votes among the candidates who are not so returned.
+
+    - (5) In the subsector ordinary election to elect the members of the Election Committee assigned to the New Territories District Councils subsector for the term of office of the Election Committee commencing on 1 February 2012—
+
+      - (a) if the number of validly nominated candidates exceeds 60 but does not exceed 62, subsection (8) applies to all those candidates who are not returned at the election because—
+
+        - (i) they do not obtain as many votes as the elected candidates; or
+
+        - (ii) lots are drawn under section 29(6) and the lot does not fall on them;
+
+      - (b) if the number of validly nominated candidates exceeds 62, subsection (8) applies, subject to subsection (6), to the 2 candidates who—
+
+        - (i) are not returned at the election because of the reasons specified in paragraph (a)(i) or (ii); and
+
+        - (ii) obtain the greatest number of votes among the candidates who are not so returned.
+
+    - (6) If due to equality of votes it is impracticable to determine under subsection (2)(b)(ii), (3)(b)(ii), (4)(b)(ii) or (5)(b)(ii) any one or more candidates to whom subsection (8) applies, the Returning Officer must determine the result by drawing lots and subsection (8) applies to the candidate on whom the lot falls.
+
+    - (7) Subsection (8) does not apply unless at the time of the subsector ordinary election the Legislative Council Ordinance (Cap. 542) provides that the fifth term of the Legislative Council constituted in 2012 is to have 70 members, whether or not the provision has come into operation.
+
+    - (8) During the period in which this subsection applies to a person, the person is for all purposes a member of the Election Committee.
+
+    - (9) If subsection (8) applies to a person—
+
+      - (a) the person is deemed, for the purposes of sections 35 and 39, to be duly elected as a member of the Election Committee at a subsector election; and
+
+      - (b) the application of subsection (8) to the person is deemed, for the purposes of section 39, to be the result of a subsector election.
+
+    - (10) To avoid doubt, a person to whom subsection (8) applies is regarded as an unsuccessful candidate for the purposes of section 5 of the Election Committee (Subscribers and Election Deposit for Nomination) Regulation (Cap. 569 sub. leg. C).
+
+    - (11) Subsection (8) ceases to apply to a person on the date on which the term of office of the fifth term of the Legislative Council commences under the Legislative Council Ordinance (Cap. 542) in 2012.
+
+    - (12) Despite subsection (17), on subsection (8) ceasing to apply to a person under subsection (11), the Electoral Registration Officer must—
+
+      - (a) strike out the name and other relevant particulars of the person from the final register of members of the Election Committee that is in effect under section 43 on the date referred to in subsection (11); and
+
+      - (b) publish in accordance with the EAC Regulations a notice that the name and particulars have been so removed.
+
+    - (13) During the period in which subsection (8) applies to any persons under subsection (2), item 3 of Table 4 in section 2 has effect as if the number “51” in column 4 is substituted by the number “55”.
+
+    - (14) During the period in which subsection (8) applies to any persons under subsection (3), item 4 of Table 4 in section 2 has effect as if the number “26” in column 4 is substituted by the number “28”.
+
+    - (15) During the period in which subsection (8) applies to any persons under subsection (4), item 5 of Table 4 in section 2 has effect as if the number “57” in column 4 is substituted by the number “59”.
+
+    - (16) During the period in which subsection (8) applies to any persons under subsection (5), item 6 of Table 4 in section 2 has effect as if the number “60” in column 4 is substituted by the number “62”.
+
+    - (17) This section expires on the date referred to in subsection (11).
+
+    - (18) Despite subsection (17), if—
+
+      - (a) an appeal is lodged under section 39 to question the deemed election of a person under subsection (9); and
+
+      - (b) when this section expires under subsection (17), the appeal is pending,
+
+    - subsection (9) continues to have effect until the withdrawal or final disposal of the appeal as if it had not expired.
+
+  - (Added 1 of 2011 s. 10)
 
   - 3. Resignation of member of Election Committee
 
@@ -604,11 +718,7 @@ ELECTION COMMITTEE
 
     - (4) A person who is selected as a nominee by a designated body as a member representing the religious subsector on the Election Committee is not eligible to be selected by another designated body as such a member if the period during which the nominations are to be made coincides or partly coincides.
 
-  - 9.
-
-  - When a person is disqualified from being a nominee
-
-  - A person is disqualified from being a nominee under section 7 if the person—
+  - 9. When a person is disqualified from being a nominee A person is disqualified from being a nominee under section 7 if the person—
 
     - (a) has in Hong Kong or in any other place been sentenced to death or imprisonment (by whatever name called) and has not either—
 
@@ -790,7 +900,7 @@ ELECTION COMMITTEE
 
           - (ii) for the New Territories District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2,
 
-      - (whether or not the person is eligible to be registered as a voter for any other subsector) except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4, or item 1 or 4 of Table 5, in section 2, the person may choose to be registered as a voter in the subsector referred to in subparagraph (i) or (ii), as the case may be, or in that other subsector; and
+        - (whether or not the person is eligible to be registered as a voter for any other subsector) except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4, or item 1 or 4 of Table 5, in section 2, the person may choose to be registered as a voter in the subsector referred to in subparagraph (i) or (ii), as the case may be, or in that other subsector; and
 
         - (f) a person who ceases to be eligible to be registered as an elector for the District Council functional constituency ceases to be eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector, but may, subject to subsections (10)(a) and (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter.
 
@@ -825,6 +935,10 @@ ELECTION COMMITTEE
           - (ii) that member has been operating for at least 12 months; or
 
         - (b) if the member is a natural person, the person has been a member of that body for at least 12 months.
+
+      - (21) A consular post to which any privilege or immunity is accorded under the Consular Relations Ordinance (Cap. 557) is not eligible to be registered as a voter for any subsector. (Added 1 of 2011 s. 11)
+
+      - (22) An organization to which section 2 of the International Organizations and Diplomatic Privileges Ordinance (Cap. 190) applies or an international organization defined in section 2 of the International Organizations (Privileges and Immunities) Ordinance (Cap. 558) is not eligible to be registered as a voter for any subsector. (Added 1 of 2011 s. 11)
 
     - 13. Corporate voter to have authorized representative
 
@@ -934,13 +1048,9 @@ ELECTION COMMITTEE
 
         - (b) the person is a member of the Election Committee.
 
-    - 18.
+    - 18. When a person is disqualified from
 
-    - When a person is disqualified from
-
-    - being a subsector candidate
-
-    - A person is disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if the person—
+    - being a subsector candidate A person is disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if the person—
 
       - (a) has ceased to have a substantial connection with the subsector concerned;
 
@@ -1168,17 +1278,15 @@ ELECTION COMMITTEE
 
       - (2) This section applies to an authorized representative of a corporate voter in the same way as it applies to a voter who is a natural person.
 
-    - 31.
+    - 31. Consequences of non-compliance with
 
-    - Consequences of non-compliance with
-
-    - requirements of this Schedule
-
-    - In any proceedings brought to question the validity of a subsector election, the Revising Officer shall not declare the election to be invalid only because of—
+    - requirements of this Schedule In any proceedings brought to question the validity of a subsector election, the Revising Officer shall not declare the election to be invalid only because of—
 
       - (a) a failure to comply with the regulations or with the EAC Regulations; or
 
-      - (b) a mistake in the use of a form specified under this Schedule or under the Electoral Affairs Commission Ordinance (Cap. 541), if the Revising Officer is satisfied on reasonable grounds that the conduct of the election was in accordance with the principles laid down in this Schedule and the Electoral Affairs Commission Ordinance (Cap. 541) and that the failure to comply or mistake did not affect the result of the election.
+      - (b) a mistake in the use of a form specified under this Schedule or under the Electoral Affairs Commission Ordinance (Cap. 541),
+
+      - if the Revising Officer is satisfied on reasonable grounds that the conduct of the election was in accordance with the principles laid down in this Schedule and the Electoral Affairs Commission Ordinance (Cap. 541) and that the failure to comply or mistake did not affect the result of the election.
 
     - 32. Misnomer or inaccuracy not to affect operation
 
@@ -1270,15 +1378,15 @@ ELECTION COMMITTEE
 
 - PART 5 INTERIM REGISTER AND FINAL REGISTER OF MEMBERS OF ELECTION COMMITTEE (Amended 10 of 2006 s. 21)
 
-  - 40.
+  - 40. Electoral Registration Officer to compile and
 
-  - Electoral Registration Officer to compile and
+  - publish interim register and final register (Amended 10 of 2006 s. 21)
 
-  - publish interim register and final register
+    - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations— (Amended 10 of 2006 s. 21; 1 of 2011 s. 15)
 
-  - (Amended 10 of 2006 s. 21)
+      - (a) if the polling for the subsector ordinary elections for all subsectors is held on the same day, an interim register of members of the Election Committee within 7 days after the results of the elections are published under section 35; or
 
-    - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations an interim register of members of the Election Committee within 7 days after the results of the subsector ordinary elections are published under section 35. (Amended 10 of 2006 s. 21)
+      - (b) if the polling for the subsector ordinary elections for different subsectors is held on different days, the relevant parts of an interim register of members of the Election Committee within 7 days after the results of the relevant elections are published under section 35. (Amended 1 of 2011 s. 15)
 
     - (2) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations a final register of members of the Election Committee within 7 days after the result of a subsector by-election is published under section 35. (Amended 10 of 2006 s. 21)
 
@@ -1300,13 +1408,9 @@ ELECTION COMMITTEE
 
     - the Electoral Registration Officer shall, as soon as practicable after the Electoral Affairs Commission’s ascertainment, publish in accordance with the EAC Regulations the provisional register as a final register of members of the Election Committee.
 
-  - 41.
+  - 41. Electoral Registration Officer to amend interim register or final register
 
-  - Electoral Registration Officer to amend interim register or final register
-
-  - to give effect to change in ex-officio membership
-
-  - (Amended 10 of 2006 s. 21)
+  - to give effect to change in ex-officio membership (Amended 10 of 2006 s. 21)
 
     - (1) The Electoral Registration Officer may from time to time amend the interim register of members of the Election Committee or final register of members of the Election Committee in accordance with this section and the EAC Regulations to give effect to any change in the ex-officio membership of the Election Committee.
 
