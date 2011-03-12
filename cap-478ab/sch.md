@@ -86,135 +86,123 @@
 
   - 1. | Fees for examinations for certificates of competency as Deck Officers Class 1, Class 2 or Class 3 and Deck Officers (River Trade) Class 1, Class 2 or Class 3— For an examination for a certificate of competency on each occasion a candidate presents himself—
 
-  - (a) Deck Officer Class 1 (Master Mariner) | 11565
+  - (a) Deck Officer Class 1 (Master Mariner) | 9250
 
-  - (b) Deck Officer Class 2 | 8670
+  - (b) Deck Officer Class 2 | 6940
 
-  - (c) Deck Officer Class 3 | 6020
+  - (c) Deck Officer Class 3 | 4820
 
-  - (d) Deck Officer (River Trade) Class 1 | 8670
+  - (d) Deck Officer (River Trade) Class 1 | 6940
 
-  - (e) Deck Officer (River Trade) Class 2 | 6020
+  - (e) Deck Officer (River Trade) Class 2 | 4820
 
-  - (f) Deck Officer (River Trade) Class 3 | 3865
+  - (f) Deck Officer (River Trade) Class 3 | 3090
 
-  - (g) For an examination in communications in relation to sub-item (b), (c) or (e), if taken separately from the remainder of the full examination, for each attempt | 985
+  - (g) For an examination in communications in relation to sub-item (b), (c) or (e), if taken separately from the remainder of the full examination, for each attempt | 790
 
-  - (h) If a candidate for a certificate of competency in relation to sub-item (a), (b), (c), (d), (e) or (f) is examined or re-examined in either the written or the oral part of the examination | 1/2 of the appropriate fee in sub-items (a) to (f).
+  - (h) If a candidate for a certificate of competency in relation to sub-item (a), (b), (c), (d), (e) or (f) is examined or re-examined in either the written or the oral part of the examination | 1/2 of the appropriate fee in sub-items (a) to (f). (L.N. 6 of 2011)
 
   - 2. | Fees for examinations for certificates of competency as Marine Engineer Officers Class 1, Class 2 or Class 3 and Marine Engineer Officers (River Trade) Class 1, Class 2 or Class 3— For an examination for a certificate of competency on each occasion a candidate presents himself—
 
   - (a) Marine Engineer Officer Class 1—
 
-  - (i) For Part A or a portion thereof, or for exemption from all of Part A | 3865
+  - (i) For Part A or a portion thereof, or for exemption from all of Part A | 3090
 
-  - (ii) For Part B or a portion thereof | 5775
+  - (ii) For Part B or a portion thereof | 4620
 
-  - (iii) For oral examination if taken separately | 5775
+  - (iii) For oral examination if taken separately | 4620
 
-  - (iv) For endorsement of a Marine Engineer Officer Class 1 Certificate | 3610
+  - (iv) For endorsement of a Marine Engineer Officer Class 1 Certificate | 2890
 
-  - (v) For issuing a Marine Engineer Officer Class 1 Part A Exemption Certificate | 595
+  - (v) For issuing a Marine Engineer Officer Class 1 Part A Exemption Certificate | 475
 
   - (b) Marine Engineer Officer Class 2—
 
-  - (i) For Part A or a portion thereof, or for exemption from all of Part A | 2895
+  - (i) For Part A or a portion thereof, or for exemption from all of Part A | 2320
 
-  - (ii) For Part B or a portion thereof (including fees for the oral examination if taken together with Part B) | 4345
+  - (ii) For Part B or a portion thereof (including fees for the oral examination if taken together with Part B) | 3480
 
-  - (iii) For oral examination if taken separately | 4345
+  - (iii) For oral examination if taken separately | 3480
 
-  - (iv) For endorsement of a Marine Engineer Officer Class 2 Certificate | 2410
+  - (iv) For endorsement of a Marine Engineer Officer Class 2 Certificate | 1930
 
-  - (v) For issuing a Marine Engineer Officer Class 2 Part A Exemption Certificate | 595
+  - (v) For issuing a Marine Engineer Officer Class 2 Part A Exemption Certificate | 475
 
   - (c) Marine Engineer Officer Class 3—
 
-  - (i) For a full examination | 2410
+  - (i) For a full examination | 1930
 
-  - (ii) For endorsement of a Marine Engineer Officer Class 3 Certificate | 1940
+  - (ii) For endorsement of a Marine Engineer Officer Class 3 Certificate | 1550
 
-  - (d) Marine Engineer Officer (River Trade) Class 1 | 8670
+  - (d) Marine Engineer Officer (River Trade) Class 1 | 6940
 
-  - (e) Marine Engineer Officer (River Trade) Class 2 | 6020
+  - (e) Marine Engineer Officer (River Trade) Class 2 | 4820
 
-  - (f) Marine Engineer Officer (River Trade) Class 3 | 3005
+  - (f) Marine Engineer Officer (River Trade) Class 3 | 2400
 
   - (g) If a candidate for a certificate of competency in relation to sub-item (d) or (e) is examined or re-examined in either the written or oral part of the examination | 1/2 of the appropriate fee in sub-item (d) or (e).
 
 - Note: For the purpose of this item, “endorsement” (批註) means the endorsement of an ordinary (steam) certificate to the effect that the holder is qualified to act in the capacity stated in his certificate on board a motor vessel, or vice versa.
 
-- 3. | Fees for oral examinations for licences as Deck Officers Class 1, Class 2 or Class 3— For an oral examination for a licence on each occasion a candidate presents himself—
+- (L.N. 6 of 2011)
 
-- (a) Deck Officer Class 1 | 5775
+  - 3-4. (Repealed L.N. 6 of 2011)
 
-- (b) Deck Officer Class 2 | 4345
+  - 5. | Fee for issue of a licence as Deck Officers, or Marine Engineer Officers, Class 1, Class 2 or Class 3 without examination (L.N. 90 of 1999 and 44 of 1999 s. 43; L.N. 102 of 2009) | 400
 
-- (c) Deck Officer Class 3 | 3005
+  - 6. | Fees for miscellaneous examinations, certificates and endorsements—
 
-- 4. | Fees for oral examinations for licences as Marine Engineer Officers Class 1, Class 2 or Class 3— For an oral examination for a licence on each occasion a candidate presents himself—
+  - (a) For a sight test for an examination in item 1 | 270
 
-- (a) Marine Engineer Officer Class 1 | 5775
+  - (b) For a further sight test on appeal | 780
 
-- (b) Marine Engineer Officer Class 2 | 4345
+  - (c) For a further sight test on special appeal | 1520
 
-- (c) Marine Engineer Officer Class 3 | 2410
+  - (d) For an examination of a candidate for an acting appointment as deck officer or marine engineer officer of a Hong Kong ship | 7535
 
-- 5. | Fee for issue of a licence as Deck Officers, or Marine Engineer Officers, Class 1, Class 2 or Class 3 without examination (L.N. 90 of 1999 and 44 of 1999 s. 43; L.N. 102 of 2009) | 400
+  - (e) For a certificate of service | 890
 
-- 6. | Fees for miscellaneous examinations, certificates and endorsements—
+  - (f) For a dangerous cargo endorsement to a certificate of competency or a certificate of service or a licence | 515
 
-- (a) For a sight test for an examination in item 1 | 270
+  - (g) For endorsement of a certificate of competency, a certificate of service or a licence for the continued proficiency and updating of knowledge | 530
 
-- (b) For a further sight test on appeal | 780
+  - (h) For a certificate of competency which is a Type Rating Certificate | 150
 
-- (c) For a further sight test on special appeal | 1520
+  - 7. | Fees for copies of certificates or licences issued under this Part—
 
-- (d) For an examination of a candidate for an acting appointment as deck officer or marine engineer officer of a Hong Kong ship | 7535
+  - (a) For a copy of a certificate of competency (other than a Type Rating Certificate), a certificate of service or a licence | 220
 
-- (e) For a certificate of service | 890
+  - (b) For a copy of a sight test certificate | 150
 
-- (f) For a dangerous cargo endorsement to a certificate of competency or a certificate of service or a licence | 515
+  - (c) For a copy of a radar maintenance certificate | 150
 
-- (g) For endorsement of a certificate of competency, a certificate of service or a licence for the continued proficiency and updating of knowledge | 530
+  - (d) For a copy of a certificate of competency which is a Type Rating Certificate | 150
 
-- (h) For a certificate of competency which is a Type Rating Certificate | 150
+  - Note: No fee shall be payable under this item if the Authority is satisfied that the loss of a certificate or licence was without fault on the part of the holder of the certificate or licence.
 
-- 7. | Fees for copies of certificates or licences issued under this Part—
+  - 8. | Fees for a copy of any determination made under section 8, 10 or 15 of the Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J) | 155
 
-- (a) For a copy of a certificate of competency (other than a Type Rating Certificate), a certificate of service or a licence | 220
+  - 9. | Fees in relation to certificates of proficiency in survival craft—
 
-- (b) For a copy of a sight test certificate | 150
+  - (a) For sitting the examination for a certificate of proficiency in survival craft | 515
 
-- (c) For a copy of a radar maintenance certificate | 150
+  - (b) For issue of a certificate of proficiency in survival craft | 150
 
-- (d) For a copy of a certificate of competency which is a Type Rating Certificate | 150
+  - (c) For issue of a copy of a certificate of proficiency in survival craft, except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
 
-- Note: No fee shall be payable under this item if the Authority is satisfied that the loss of a certificate or licence was without fault on the part of the holder of the certificate or licence.
+  - 10. | Fees in relation to certificates of competency as A.B.—
 
-- 8. | Fees for a copy of any determination made under section 8, 10 or 15 of the Merchant Shipping (Seafarers) (Certification of Officers) Regulation (Cap. 478 sub. leg. J) | 155
+  - (a) For sitting the examination for a certificate of competency as A.B. | 515
 
-- 9. | Fees in relation to certificates of proficiency in survival craft—
+  - (b) For issue of a certificate of competency as A.B. | 150
 
-- (a) For sitting the examination for a certificate of proficiency in survival craft | 515
+  - (c) For issue of a copy of a certificate of competency as A.B., except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
 
-- (b) For issue of a certificate of proficiency in survival craft | 150
+  - (d) For issue of a copy of a certificate of competency issued under the revoked rules within the meaning of section 2 of the Merchant Shipping (Seafarers) (Certificates of Competency as A.B.) Rules (Cap. 478 sub. leg. Y), except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
 
-- (c) For issue of a copy of a certificate of proficiency in survival craft, except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
+  - 11. | Fee for endorsement of validity of a certificate of competency, a certificate of service or a licence | 155
 
-- 10. | Fees in relation to certificates of competency as A.B.—
-
-- (a) For sitting the examination for a certificate of competency as A.B. | 515
-
-- (b) For issue of a certificate of competency as A.B. | 150
-
-- (c) For issue of a copy of a certificate of competency as A.B., except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
-
-- (d) For issue of a copy of a certificate of competency issued under the revoked rules within the meaning of section 2 of the Merchant Shipping (Seafarers) (Certificates of Competency as A.B.) Rules (Cap. 478 sub. leg. Y), except that no fee shall be payable if the Authority is satisfied that the loss of the original certificate was without fault on the part of the holder of the certificate | 150
-
-- 11. | Fee for endorsement of validity of a certificate of competency, a certificate of service or a licence | 155
-
-- 12. | Fee for issue of an exemption certificate for certificates of competency as Deck Officers, or Marine Engineer Officers, Class 1, Class 2 or Class 3 | 4130
+  - 12. | Fee for issue of an exemption certificate for certificates of competency as Deck Officers, or Marine Engineer Officers, Class 1, Class 2 or Class 3 | 4130
 
 - PART III FEES FOR SERVICES RENDERED BY THE MERCANTILE MARINE OFFICE
 
