@@ -1,6 +1,6 @@
 # Schedule 6
 
-[s. 26A(2) & (3)]
+[ss. 14A(4) & 26A(2) & (3)] (Amended 4 of 2011 s. 7)
 
 - PART I INSTRUMENTS
 

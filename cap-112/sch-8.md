@@ -1,6 +1,6 @@
 # SCHEDULE 8
 
-[ss. 14(2) & 63H(1A)]
+[ss. 14(2), 14A(1), 14B(1), 19CA(4) & (5) & 63H(1A)] (Amended 4 of 2011 s. 8)
 
 RATE OF PROFITS TAX IN RESPECT OF A CORPORATION
 

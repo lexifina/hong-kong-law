@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[ss. 2 & 5]
+[ss. 2(1), 14A(1) & 19CA(4) & (5)] (Amended 4 of 2011 s. 6)
 
 STANDARD RATE
 
