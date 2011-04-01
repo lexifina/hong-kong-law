@@ -180,6 +180,8 @@ DANGEROUS DRUGS
 
   - Myrophine
 
+  - Nabilone (Added L.N. 7 of 2011)
+
   - Nicocodine
 
   - Nicomorphine (3, 6-dinicotinoyl-morphine)
@@ -268,11 +270,21 @@ DANGEROUS DRUGS
 
   - Zipeprol (Added L.N. 348 of 1998)
 
+  - 1-Benzylpiperazine (Added L.N. 7 of 2011)
+
   - 4-Cyano-2-dimethylamino-4, 4-diphenylbutane
 
   - 4-Cyano-1-methyl-4-phenylpiperidine
 
+  - [2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1, 2, 3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone (Added L.N. 7 of 2011)
+
   - N, N-dimethylamphetamine
+
+  - 3-Dimethylheptyl-11-hydroxyhexahydrocannabinol (Added L.N. 7 of 2011)
+
+  - 9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a, 7, 10, 10a-tetrahydrobenzo[c]chromen-1-ol (Added L.N. 7 of 2011)
+
+  - [9-Hydroxy-6-methyl-3-[5-phenylpentan-2-yl] oxy-5, 6, 6a, 7, 8, 9, 10, 10a-octahydrophenanthridin-1-yl] acetate (Added L.N. 7 of 2011)
 
   - N-[α-Methyl-3, 4-(methylenedioxy)phenethyl] hydroxylamine
 
@@ -314,7 +326,31 @@ DANGEROUS DRUGS
 
     - (iv) by replacement of the 4-ethoxycarbonyl by any other alkoxycarbonyl or any alkoxyalkyl or acyloxy group;
 
-    - (v) by formation of an N-oxide or of a quarternary base.
+    - (v) by formation of an N-oxide or of a quarternary base; (Amended L.N. 7 of 2011)
+
+  - (f) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 1-benzylpiperazine or 1-phenylpiperazine by modification in any of the following ways—
+
+    - (i) by substitution at the second nitrogen atom of the piperazine ring with alkyl, benzyl, haloalkyl or phenyl groups;
+
+    - (ii) by substitution in the aromatic ring to any extent with alkyl, alkoxy, alkylenedioxy, halide or haloalkyl groups; (Added L.N. 7 of 2011)
+
+  - (g) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-(1-naphthoyl)indole or 1H-indol-3-yl-(1-naphthyl)methane by substitution at the nitrogen atom of the indole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011)
+
+  - (h) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-(1-naphthoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl) ethyl, whether or not further substituted in the pyrrole ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011)
+
+  - (i) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 1-(1-naphthylmethyl)indene by substitution at the 3-position of the indene ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indene ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011)
+
+  - (j) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-phenylacetylindole by substitution at the nitrogen atom of the indole ring with alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent; (Added L.N. 7 of 2011)
+
+  - (k) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 2-(3-hydroxycyclohexyl)phenol by substitution at the 5-position of the phenolic ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the cyclohexyl ring to any extent; (Added L.N. 7 of 2011)
+
+  - (l) any compound (not being bupropion or a compound for the time being specified in subparagraph (a)) structurally derived from 2-amino-1-phenyl-1-propanone by modification in any of the following ways—
+
+    - (i) by substitution in the phenyl ring to any extent with alkyl, alkoxy, alkylenedioxy, haloalkyl or halide substituents, whether or not further substituted in the phenyl ring by one or more other univalent substituents;
+
+    - (ii) by substitution at the 3-position with an alkyl substituent;
+
+    - (iii) by substitution at the nitrogen atom with alkyl or dialkyl groups, or by inclusion of the nitrogen atom in a cyclic structure. (Added L.N. 7 of 2011)
 
 - 2. Any stereoisomeric form of a substance for the time being specified in paragraph 1 not being dextromethorphan or dextrophan.
 
