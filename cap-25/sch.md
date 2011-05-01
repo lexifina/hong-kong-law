@@ -1,18 +1,16 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 59 of 1999 s. 3)
-
 [s. 7]
 
 - 1. A claim for a sum of money which arises from—
 
-  - (a) the breach of a term, whether express or implied, of a contract of employment, whether for performance in Hong Kong or under a contract to which the Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) applies; (Amended 8 of 1976 s. 49; 59 of 1999 s. 3)
+  - (a) the breach of a term, whether express or implied or (if relevant) arising by force of section 10(1) of the Minimum Wage Ordinance (Cap. 608), of a contract of employment, whether for performance in Hong Kong or under a contract to which the Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) applies; (Amended 8 of 1976 s. 49; 59 of 1999 s. 3)
 
-  - (aa) the breach of a term, whether express or implied, of a contract of apprenticeship; or (Added 8 of 1976 s. 49)
+  - (aa) the breach of a term, whether express or implied or (if relevant) arising by force of section 10(1) of the Minimum Wage Ordinance (Cap. 608), of a contract of apprenticeship; or (Added 8 of 1976 s. 49)
 
-  - (b) the failure of a person to comply with the provisions of the Employment Ordinance (Cap. 57) or the Apprenticeship Ordinance (Cap. 47), (Amended 39 of 1973 s. 9; 8 of 1976 s. 49)
+  - (b) the failure of a person to comply with the provisions of the Employment Ordinance (Cap. 57), the Minimum Wage Ordinance (Cap. 608) or the Apprenticeship Ordinance (Cap. 47), (Amended 39 of 1973 s. 9; 8 of 1976 s. 49)
 
-- other than a claim specified in the Schedule to the Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Amended 61 of 1994 s. 48)
+- other than a claim specified in the Schedule to the Minor Employment Claims Adjudication Board Ordinance (Cap. 453). (Amended 61 of 1994 s. 48; 15 of 2010 s. 19)
 
 - 2. A claim for contribution under section 26(2).
 
