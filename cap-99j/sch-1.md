@@ -6,7 +6,9 @@ Grade | Office | Date from which office is to be deemed to be an established off
 
 Accounting Officer | Senior Accounting Officer Accounting Officer I Accounting Officer II | 14.8.1974 14.8.1974 14.8.1974
 
-Adjudicator | Principal Adjudicator, Small Claims Tribunal Adjudicator, Small Claims Tribunal | 8.7.1994 1.11.1978
+Adjudicator | Principal Adjudicator, Small Claims Tribunal | 8.7.1994
+
+Adjudicator, Small Claims Tribunal | 1.11.1978
 
 Administrative Officer | Administrative Officer Staff Grade A1 (L.N. 244 of 2003) Administrative Officer Staff Grade A Administrative Officer Staff Grade B1 Administrative Officer Staff Grade B Administrative Officer Staff Grade C Senior Administrative Officer Administrative Officer | 23.5.1973 1.7.1959 22.7.1981 22.5.1974 1.7.1959 1.7.1959 1.7.1959
 
@@ -394,7 +396,7 @@ Geotechnical Engineer | Principal Government Geotechnical Engineer Government Ge
 
 Government Chief Information Officer | Government Chief Information Officer | 1.7.2004 (L.N. 13 of 2008)
 
-Government Counsel | Principal Government Counsel Deputy Principal Government Counsel Senior Government Counsel Government Counsel | 1.7.1959 30.4.1980 1.7.1959 12.5.1938
+Government Counsel | Principal Government Counsel Deputy Principal Government Counsel Assistant Principal Government Counsel (L.N. 80 of 2011) Senior Government Counsel Government Counsel | 1.7.1959 30.4.1980 1.3.2011 1.7.1959 12.5.1938
 
 Government Economist | Government Economist | 1.10.1987
 
@@ -407,6 +409,12 @@ Government Transport Manager | Controller of Government Land Transport (L.N. 244
 Hawker Control Officer | Principal Hawker Control Officer Chief Hawker Control Officer Senior Hawker Control Officer Hawker Control Officer Assistant Hawker Control Officer | 16.7.1993 16.7.1993 16.7.1993 16.7.1993 16.7.1993
 
 Head, Efficiency Unit | Head, Efficiency Unit | 1.9.1993
+
+Head of Create Hong Kong | Head of Create Hong Kong | 1.6.2009 (L.N. 80 of 2011)
+
+Head of Greening, Landscape and Tree Management Section | Head of Greening, Landscape and Tree Management Section | 22.1.2010 (L.N. 80 of 2011)
+
+Head of Tree Management Office | Head of Tree Management Office | 22.1.2010 (L.N. 80 of 2011)
 
 Head Property Attendant | Head Property Attendant | 1.6.1995
 
@@ -468,7 +476,7 @@ Investment Promotion Project Officer | Investment Promotion Project Officer | 12
 
 Judge, Court of Final Appeal | Judge, Court of Final Appeal | 1.7.1997
 
-Judge of the District Court | Chief Judge of the District Court Judge of the District Court | 8.7.1994 15.1.1953
+Judge of the District Court | Chief Judge of the District Court Principal Family Court Judge, District Court (L.N. 80 of 2011) Judge of the District Court | 8.7.1994 4.7.2008 15.1.1953
 
 Judge of the High Court | Chief Judge of the High Court Justice of Appeal of the Court of Appeal of the High Court Judge of the Court of First Instance of the High Court | 1.7.1997 20.2.1976 20.2.1976
 
@@ -500,7 +508,7 @@ Land Registration Officer | Principal Land Registration Officer Chief Land Regis
 
 Land Surveyor | Principal Government Land Surveyor Government Land Surveyor Chief Land Surveyor Senior Land Surveyor Land Surveyor Assistant Land Surveyor | 27.7.1990 25.6.1969 23.10.1968 1.4.1960 9.12.1932 1.4.1963
 
-Landscape Architect | Senior Landscape Architect Landscape Architect Assistant Landscape Architect | 10.8.1983 1.4.1974 10.8.1983
+Landscape Architect | Chief Landscape Architect (L.N. 80 of 2011) Senior Landscape Architect Landscape Architect Assistant Landscape Architect | 25.4.2008 10.8.1983 1.4.1974 10.8.1983
 
 Launch Master | Launch Crew Supervisor Senior Launch Master Launch Master Launch Assistant | 12.6.1992 12.6.1992 12.6.1992 12.6.1992
 
@@ -644,7 +652,7 @@ Postmaster General | Postmaster General Deputy Postmaster General Assistant Post
 
 Presiding Officer | Principal Presiding Officer, Labour Tribunal Presiding Officer, Labour Tribunal | 8.7.1994 24.5.1972
 
-Primary School Master/ Mistress | Headmaster/Headmistress I Headmaster/Headmistress II Primary School Master/Mistress Assistant Primary School Master/Mistress | 8.7.1994 8.7.1994 8.7.1994 8.7.1994
+Primary School Master/ Mistress | Headmaster/Headmistress I Headmaster/Headmistress II Senior Primary School Master/Mistress (L.N. 80 of 2011) Primary School Master/Mistress Assistant Primary School Master/Mistress | 8.7.1994 8.7.1994 1.9.2008 8.7.1994 8.7.1994
 
 Principal Assistant Secretary for Security (Assessment) | Principal Assistant Secretary for Security (Assessment) | 1.2.1986
 
@@ -673,8 +681,6 @@ Radio Mechanic | Senior Radio Mechanic Radio Mechanic | 1.4.1967 1.4.1956
 Radiographer | Superintendent Radiographer Senior Radiographer Radiographer I Radiographer II | 1.4.1947 1.4.1954 1.10.1979 1.10.1979
 
 Radiographic Technician | Senior Radiographic Technician Radiographic Technician | 11.2.1981 14.10.1964
-
-Rating Adviser | Rating Adviser | 18.7.1979
 
 Recreation and Sport Officer | Principal Recreation and Sport Officer Chief Recreation and Sport Officer Senior Recreation and Sport Officer Recreation and Sport Officer Assistant Recreation and Sport Officer I | 14.10.1981 10.2.1982 10.2.1982 10.2.1982 10.2.1982
 
@@ -778,7 +784,7 @@ Technical Officer | Chief Technical Officer Principal Technical Officer Senior T
 
 Technical Officer (Cultural Services) | Senior Technical Officer (Cultural Services) Technical Officer I (Cultural Services) Technical Officer II (Cultural Services) | 12.10.1983 12.10.1983 12.10.1983
 
-Telecommunications Engineer | Chief Telecommunications Engineer Senior Telecommunications Engineer `Telecommunications Engineer Assistant Telecommunications Engineer | 7.7.1976 18.10.1972 4.10.1967 4.10.1967
+Telecommunications Engineer | Chief Telecommunications Engineer Senior Telecommunications Engineer Telecommunications Engineer Assistant Telecommunications Engineer | 7.7.1976 18.10.1972 4.10.1967 4.10.1967
 
 Telephone Operator | Telephone Operator | 9.12.1932
 
@@ -846,4 +852,4 @@ Workshop Attendant | Workshop Attendant | 1.10.2008 (L.N. 104 of 2008)
 
 Workshop Instructor | Workshop Instructor I Workshop Instructor II Workshop Instructor III | 1.4.1972 1.4.1972 24.6.1981
 
-(Schedule 1 amended L.N. 244 of 2003; L.N. 13 of 2008)
+(Schedule 1 amended L.N. 244 of 2003; L.N. 13 of 2008; L.N. 80 of 2011)

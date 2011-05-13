@@ -110,6 +110,8 @@ Assistant Laundry Manager (HA) | 1.12.1991
 
 Associate Consultant (HA) (L.N. 13 of 2008) | 22.3.2007
 
+Associate Medical Technologist (HA) (L.N. 80 of 2011) | 1.2.2008
+
 Audiology Technician I (HA) | 1.12.1991
 
 Audiology Technician II (HA) | 1.12.1991
@@ -205,6 +207,8 @@ Medical Laboratory Technician I (HA) | 1.12.1991
 Medical Laboratory Technician II (HA) | 1.12.1991
 
 Medical Technologist (HA) | 1.12.1991
+
+Medical Technologist (Hospital Services) (HA) (L.N. 80 of 2011) | 1.2.2008
 
 Medical and Health Officer (HA) | 1.12.1991
 
