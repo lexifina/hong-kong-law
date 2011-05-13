@@ -1,6 +1,6 @@
 # EIGHTEENTH SCHEDULE
 
-[ss. 38, 342 & 360 & 17th Sch. & 21st Schs.]
+[ss. 38, 38AA, 342, 342AA, & 360 & 17th Sch. & 21st Schs.] (Amended 8 of 2011 s. 22)
 
 WARNING, ETC. STATEMENTS TO BE CONTAINED IN CERTAIN DOCUMENTS
 

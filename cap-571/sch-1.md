@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[ss. 2, 19, 66, 164, 171, 174, 175, 202 & 406 & Sch. 9]
+[ss. 2, 19, 66, 102, 164, 171, 174, 175, 202 & 406 & Schs. 9 & 10] (Amended 8 of 2011 s. 14)
 
 INTERPRETATION AND GENERAL PROVISIONS
 
@@ -296,6 +296,30 @@ INTERPRETATION AND GENERAL PROVISIONS
 
     - “credit union” (儲蓄互助社) means a credit union registered under the Credit Unions Ordinance (Cap. 119);
 
+    - “currency and interest rate-linked instrument” (貨幣及利率掛鈎票據) means—
+
+      - (a) an instrument that is a structured product only because some or all of the return or amount due (or both the return and the amount due) or the method of settlement is determined by reference to a combination of—
+
+        - (i) changes in the value or level (or a range within the value or level) of any one or more currency exchange rates or currency exchange rate indices or the occurrence or non-occurrence of any specified event or events relating to any one or more currency exchange rates or currency exchange rate indices; and
+
+        - (ii) changes in the value or level (or a range within the value or level) of any one or more interest rates or interest rate indices or the occurrence or non-occurrence of any specified event or events relating to any one or more interest rates or interest rate indices; or
+
+      - (b) any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as being regarded as currency and interest rate-linked instruments in accordance with the notice,
+
+    - but does not include any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as not being regarded as currency and interest rate-linked instruments in accordance with the notice; (Added 8 of 2011 s. 14)
+
+    - “currency-linked instrument” (貨幣掛鈎票據) means—
+
+      - (a) an instrument that is a structured product only because some or all of the return or amount due (or both the return and the amount due) or the method of settlement is determined by reference to one or more of—
+
+        - (i) changes in the value or level (or a range within the value or level) of any one or more currency exchange rates or currency exchange rate indices; or
+
+        - (ii) the occurrence or non-occurrence of any specified event or events relating to any one or more currency exchange rates or currency exchange rate indices; or
+
+      - (b) any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as being regarded as currency-linked instruments in accordance with the notice,
+
+    - but does not include any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as not being regarded as currency-linked instruments in accordance with the notice; (Added 8 of 2011 s. 14)
+
     - “data material” (數據材料) means a document or other material used with or produced by any information system;
 
     - “dealing” (交易)—
@@ -314,7 +338,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (iii) inducing or attempting to induce another person to acquire or dispose of a futures contract;
 
-    - “debenture” (債權證) includes debenture stocks, bonds, and other securities of a corporation, whether constituting a charge on the assets of the corporation or not;
+    - “debenture” (債權證) includes debenture stocks, bonds, and other debt securities of a corporation, whether constituting a charge on the assets of the corporation or not; (Amended 8 of 2011 s. 14)
 
     - “defalcation” (虧空) means misapplication, including misappropriation, of any property;
 
@@ -351,6 +375,8 @@ INTERPRETATION AND GENERAL PROVISIONS
       - (c) any collective investment scheme;
 
       - (d) any leveraged foreign exchange contract;
+
+      - (e) any structured product; (Added 8 of 2011 s. 14)
 
     - “financial resources rules” (財政資源規則) means rules made under section 145 of this Ordinance;
 
@@ -425,6 +451,18 @@ INTERPRETATION AND GENERAL PROVISIONS
     - “Insurance Authority” (保險業監督) means the Insurance Authority appointed under section 4 of the Insurance Companies Ordinance (Cap. 41);
 
     - “insurer” (保險人) means an insurer as defined in section 2(1) of the Insurance Companies Ordinance (Cap. 41);
+
+    - “interest rate-linked instrument” (利率掛鈎票據) means—
+
+      - (a) an instrument that is a structured product only because some or all of the return or amount due (or both the return and the amount due) or the method of settlement is determined by reference to one or more of—
+
+        - (i) changes in the value or level (or a range within the value or level) of any one or more interest rates or interest rate indices; or
+
+        - (ii) the occurrence or non-occurrence of any specified event or events relating to any one or more interest rates or interest rate indices; or
+
+      - (b) any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as being regarded as interest rate-linked instruments in accordance with the notice,
+
+    - but does not include any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as not being regarded as interest rate-linked instruments in accordance with the notice; (Added 8 of 2011 s. 14)
 
     - “intermediary” (中介人) means a licensed corporation or a registered institution;
 
@@ -746,9 +784,9 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (e) interests, rights or property, whether in the form of an instrument or otherwise, commonly known as securities;
 
-      - (f) interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as being regarded as securities in accordance with the terms of the notice,
+      - (f) interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as being regarded as securities in accordance with the terms of the notice; (Amended 8 of 2011 s. 14)
 
-    - but does not include—
+      - (g) a structured product that does not come within any of paragraphs (a) to (f) but in respect of which the issue of any advertisement, invitation or document that is or contains an invitation to the public to do any act referred to in section 103(1)(a) of this Ordinance is authorized, or required to be authorized, under section 105(1) of this Ordinance, (Added 8 of 2011 s. 14) but does not include—
 
       - (i) shares or debentures of a company that is a private company within the meaning of section 29 of the Companies Ordinance (Cap. 32);
 
@@ -766,7 +804,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (v) any bill of exchange within the meaning of section 3 of the Bills of Exchange Ordinance (Cap. 19) and any promissory note within the meaning of section 89 of that Ordinance;
 
-      - (vi) any debenture that specifically provides that it is not negotiable or transferable;
+      - (vi) any debenture that specifically provides that it is not negotiable or transferable (excluding a debenture that is a structured product in respect of which the issue of any advertisement, invitation or document that is or contains an invitation to the public to do any act referred to in section 103(1)(a) of this Ordinance is authorized, or required to be authorized, under section 105(1) of this Ordinance); (Amended 8 of 2011 s. 14)
 
       - (vii) interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as not being regarded as securities in accordance with the terms of the notice;
 
@@ -852,6 +890,8 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (b) a recognized clearing house;
 
+    - “structured product” (結構性產品) has the meaning given by section 1A of this Part; (Added 8 of 2011 s. 14)
+
     - “take-over offer” (收購要約), in relation to a corporation, means an offer made to all the holders (or all the holders other than the person making the offer and his nominees) of the shares in the corporation to acquire the shares or a specified proportion of them, or to all the holders (or all the holders other than the person making the offer and his nominees) of a particular class of the shares to acquire the shares of the class or a specified proportion of them;
 
     - “title” (稱銜) includes name or description;
@@ -859,6 +899,60 @@ INTERPRETATION AND GENERAL PROVISIONS
     - “trading right” (交易權), in relation to a recognized exchange company, means a right to be eligible to trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company and entered as such a right in a list, roll or register kept by that exchange company.
 
   - (Amended 30 of 2004 s. 3)
+
+  - 1A. Meaning of “structured product”
+
+    - (1)
+
+      - In this Ordinance, subject to subsection (2), “structured product” (結構性產品) means—
+
+        - (a) an instrument under which some or all of the return or amount due (or both the return and the amount due) or the method of settlement is determined by reference to one or more of—
+
+          - (i) changes in the price, value or level (or a range within the price, value or level) of any type or combination of types of securities, commodity, index, property, interest rate, currency exchange rate or futures contract;
+
+          - (ii) changes in the price, value or level (or a range within the price, value or level) of any basket of more than one type, or any combination of types, of securities, commodity, index, property, interest rate, currency exchange rate or futures contract; or
+
+          - (iii) the occurrence or non-occurrence of any specified event or events (excluding an event or events relating only to the issuer or guarantor of the instrument or to both the issuer and the guarantor);
+
+        - (b) a regulated investment agreement; or
+
+        - (c) any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as being regarded as structured products in accordance with the notice.
+
+    - (2) A “structured product” does not include—
+
+      - (a) a debenture issued for capital fund raising purposes that is convertible into or exchangeable for shares (whether issued or unissued) of the issuer of the debenture or of a related corporation of the issuer;
+
+      - (b) a subscription warrant issued for capital fund raising purposes that entitles the holder to subscribe for shares (whether issued or unissued) of the issuer of the warrant or of a related corporation of the issuer;
+
+      - (c) a collective investment scheme;
+
+      - (d) a depositary receipt;
+
+      - (e) a debenture that would come within subsection (1)(a) only because it has a variable interest rate that is reset periodically to equate to a money market or interbank reference interest rate that is widely quoted (whether or not subject to a predetermined maximum or minimum rate) plus or minus a specified rate (if any);
+
+      - (f) a product under which some or all of the return or amount due (or both the return and the amount due) or the method of settlement is determined by reference to securities of a corporation, or of a related corporation of the corporation, and that is issued by the corporation only to a person who is—
+
+        - (i) a bona fide employee or former employee of the corporation or of a related corporation of the corporation; or
+
+        - (ii) a spouse, widow, widower, minor child (natural or adopted) or minor step-child of a person referred to in subparagraph (i);
+
+      - (g) a product that may be possessed, promoted, offered, sold, printed or published only—
+
+        - (i) under a licence, permission or other authorization under the Betting Duty Ordinance (Cap. 108) or the Gambling Ordinance (Cap. 148); or
+
+        - (ii) under the Government Lotteries Ordinance (Cap. 334);
+
+      - (h) an instrument issued in relation to—
+
+        - (i) a contest authorized by section 37 of the Broadcasting Ordinance (Cap. 562); or
+
+        - (ii) a contest included in a service licensed under Part IIIA of the Telecommunications Ordinance (Cap. 106);
+
+      - (i) a contract of insurance in relation to any class of insurance business specified in the First Schedule to the Insurance Companies Ordinance (Cap. 41); or
+
+      - (j) any interests, rights or property prescribed, or of a class or description prescribed, by notice under section 392 of this Ordinance as not being regarded as structured products in accordance with the notice.
+
+  - (Added 8 of 2011 s. 14)
 
   - 2. References to subsidiary
 

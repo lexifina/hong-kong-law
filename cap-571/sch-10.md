@@ -1737,3 +1737,41 @@ In Schedule 2— (a) in paragraph (m), after “(Cap. 395)”, add “repealed u
 (b) in sections 15(1) and 29(1), repeal “section 18 of the Securities (Disclosure of Interests) Ordinance (Cap. 396)” and substitute “section 329 of the Securities and Futures Ordinance (Cap. 571)”.
 
 30. | Banking (Amendment) Ordinance 2001 (32 of 2001) | In section 19, in the new section 92(2)(b), repeal everything after “which” and substitute “section 103(1) of the Securities and Futures Ordinance (Cap. 571) does not apply to the advertisement, invitation or document by virtue of section 103(3)(f), (g), (h) or (i) of that Ordinance or the issue of which is authorized under section 105(1) of that Ordinance;”.
+
+- PART 3 SAVINGS AND TRANSITIONAL PROVISIONS RELATING TO
+
+- SECURITIES AND FUTURES AND COMPANIES
+
+- LEGISLATION (STRUCTURED PRODUCTS
+
+- AMENDMENT) ORDINANCE 2011
+
+  - 1. Section 103(1) of this Ordinance does not apply in relation to a structured product that is the subject of—
+
+    - (a) a programme prospectus and its addenda, if any, and an issue prospectus and its addenda, if any, that, before the date of commencement* of section 18 of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), were authorized and registered under section 38D of the Companies Ordinance (Cap. 32); or
+
+    - (b) in the case of a company incorporated outside Hong Kong, a programme prospectus and its addenda, if any, and an issue prospectus and its addenda, if any, that, before the date of commencement of section 19 of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), were authorized and registered under section 342C of the Companies Ordinance (Cap. 32).
+
+  - 2. Section 1(a) ceases to have effect in relation to a structured product on the earlier of—
+
+    - (a) the earliest of the dates specified in section 8 of Part 1 of the Twenty-first Schedule to the Companies Ordinance (Cap. 32); or
+
+    - (b) the day after the last date of the period specified in the issue prospectus as being the period during which the structured product is offered to the public.
+
+  - 3. Section 1(b) ceases to have effect in relation to a structured product on the earlier of—
+
+    - (a) the earliest of the dates specified in section 8 of Part 2 of the Twenty-first Schedule to the Companies Ordinance (Cap. 32); or
+
+    - (b) the day after the last date of the period specified in the issue prospectus as being the period during which the structured product is offered to the public.
+
+  - 4. For the period of 6 months beginning on the date of commencement of section 14(5) of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), Part V of this Ordinance does not apply in relation to the carrying on of a business in a regulated activity if—
+
+    - (a) the business was carried on immediately before that date; and
+
+    - (b) the activity is a regulated activity only because of paragraph (g) of the definition of “securities” in section 1 of Part 1 of Schedule 1 to this Ordinance (as added by section 14(5) of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011)).
+
+  - (Part 3 added 8 of 2011 s. 16)
+
+Editorial Note:
+
+* Commencement date: 13 May 2011

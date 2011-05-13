@@ -1,6 +1,6 @@
 # THIRD SCHEDULE
 
-[ss. 2B, 38, 38A, 38D, 42, 342, 342A, 342C & 360 & 2nd Sch., 4th Sch., 20th Sch. & 21st Schs.] (Amended 12 of 2005 s. 15)
+[ss. 2B, 38, 38A, 38AA, 38D, 42, 342, 342A, 342AA, 342C & 360 & 2nd Sch., 4th Sch., 20th Sch. & 21st Schs.] (Amended 12 of 2005 s. 15; 8 of 2011 s. 20)
 
 MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 

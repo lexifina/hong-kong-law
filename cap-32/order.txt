@@ -53,6 +53,7 @@ s-036.md
 s-037.md
 s-038.md
 s-038A.md
+s-038AA.md
 s-038B.md
 s-038BA.md
 s-038C.md
@@ -613,6 +614,7 @@ s-340.md
 s-341.md
 s-342.md
 s-342A.md
+s-342AA.md
 s-342B.md
 s-342C.md
 s-342CA.md

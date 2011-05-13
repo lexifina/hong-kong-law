@@ -174,6 +174,14 @@ Item | Provision | Description of decision
 
 8. | Section 104(4) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition.
 
+8A. | Section 104A(1) of this Ordinance | Refusal to authorize a structured product, or imposition of any conditions. (Added 8 of 2011 s. 15)
+
+8B. | Section 104A(3) of this Ordinance | Refusal to approve an individual nominated in respect of a structured product. (Added 8 of 2011 s. 15)
+
+8C. | Section 104A(4)(a) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 8 of 2011 s. 15)
+
+8D | Section 104A(4)(b) of this Ordinance | Withdrawal of approval of an individual nominated in respect of a structured product. (Added 8 of 2011 s. 15)
+
 9. | Section 105(1) of this Ordinance | Refusal to authorize the issue of any advertisement, invitation or document, or imposition of any condition.
 
 10. | Section 105(3) of this Ordinance | Refusal to approve an individual nominated in respect of the issue of any advertisement, invitation or document.

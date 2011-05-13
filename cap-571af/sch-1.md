@@ -34,6 +34,10 @@ Fees relating to Part IV of Ordinance
 
 5. | Fee payable on an application for extension of the period of authorization of any collective investment scheme under section 104 of the Ordinance which authorization is limited to a period of less than 12 months | $20,000
 
+5A. | Fee payable on an application under section 104A(1) of the Ordinance for authorization of a structured product (8 of 2011 s. 29) | $2,000
+
+5B. | Fee payable in respect of authorization of a structured product under section 104A of the Ordinance (8 of 2011 s. 29) | $1,000
+
 6. | Fee payable on an application under section 105(1) of the Ordinance for authorization of the issue of an advertisement, invitation or document other than that in respect of any collective investment scheme which is authorized under section 104 of the Ordinance | $20,000
 
 7. | Fee payable in respect of authorization of the issue of an advertisement, invitation or document under section 105 of the Ordinance other than that in respect of any collective investment scheme which is authorized under section 104 of the Ordinance | $10,000
@@ -45,6 +49,8 @@ Fees relating to Part IV of Ordinance
 (b) any certificate of deposit | $3,000
 
 (c) any securities other than interests in a collective investment scheme | $3,000
+
+(d) any structured product (8 of 2011 s. 29) | $3,000
 
 Fees relating to Part V of Ordinance
 

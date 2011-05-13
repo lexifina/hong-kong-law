@@ -38,7 +38,7 @@ SPECIFIED TRANSACTIONS
 
   - “contract for differences” (差價合約) means an agreement the purpose or effect of which is to obtain a profit or avoid a loss by reference to fluctuations in the value or price of property of any description or in an index or other factor designated for that purpose in the agreement;
 
-  - “debenture” (債權證) includes debenture stocks, bonds, and other securities of a corporation, whether constituting a charge on the assets of the corporation or not;
+  - “debenture” (債權證) includes debenture stocks, bonds, and other debt securities of a corporation, whether constituting a charge on the assets of the corporation or not; (Amended 8 of 2011 s. 27)
 
   - “deposit” (存款) means a loan of money—
 
