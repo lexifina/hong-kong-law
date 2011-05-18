@@ -1,4 +1,4 @@
-# Schedule 1
+# SCHEDULE 1
 
 [regs. 4(a) & 7(1)]
 
@@ -70,33 +70,35 @@
 
   - 8.
 
-    - (1) An amount equivalent to the 35-percentile household expenditure shall not be taken into account in relation to the person concerned and his dependants, if any.
+    - (1) An amount equivalent to the 50-percentile household expenditure shall not be taken into account in relation to the person concerned and his dependants, if any.
 
     - (2) For the purposes of this rule—
 
       - (a)
 
-        - the expression “35-percentile household expenditure” (住戶開支第35個百分值) means the level of expenditure of households of a particular size, excluding expenditure for rent, as obtained in the 5-yearly Household Expenditure Survey conducted by the Census and Statistics Department, so that 35% of the households of that size have household expenditure below that level and 65% of the households have household expenditure above that level;
+        - the expression 50-percentile household expenditure (住戶開支第50個百分值) means the level of expenditure of households of a particular size, excluding expenditure for rent, as obtained in the 5-yearly Household Expenditure Survey conducted by the Census and Statistics Department, so that 50% of the households of that size have household expenditure below that level and 50% of the households have household expenditure above that level; (L.N. 35 of 2011)
 
-      - (b) the household expenditure obtained in the 1994-1995 Household Expenditure Survey shall, until the results of the next Household Expenditure Survey are obtained, be adjusted in accordance with subparagraph (c), on the coming into operation of the Legal Aid (Assessment of Resources and Contributions) (Amendment) Regulation 2000 (L.N. 148 of 2000) ;
+      - (b) (Repealed L.N. 35 of 2011)
 
-      - (c) the amount that, in any particular year, shall not be taken into account for a particular household size shall be calculated in February of that particular year according to the following formula rounded to the nearest $10 amount— Ei × CPI(A) excluding rent component, j-l
+      - (c) the amount that, in any particular year, shall not be taken into account for a particular household size shall be calculated in February of that particular year according to the following formula rounded to the nearest $10 amount—
 
-    - 100
+      - Ei | × | CPI(A) excluding rent component, j-l
 
-    - Where—
+      - 100
 
-      - (i) “Ei” is the 35-percentile household expenditure (excluding expenditure for rent) for a particular household size “i” based on the results of the latest round of the Household Expenditure Survey conducted by the Census and Statistics Department;
+      - Where—
 
-      - (ii) “CPI(A) excluding rent component, j-l” is the average monthly Consumer Price Index (A) which excludes the result derived from the item for “rent, including rates and government rents” in year “j-l”, with the base period of the Index being the same as the survey period of the Household Expenditure Survey mentioned in sub-subparagraph (i);
+        - (i) “Ei” is the 50-percentile household expenditure (excluding expenditure for rent) for a particular household size “i” based on the results of the latest round of the Household Expenditure Survey conducted by the Census and Statistics Department;
 
-      - (iii) “j” represents that particular year;
+        - (ii) “CPI(A) excluding rent component, j-l” is the average monthly Consumer Price Index (A) which excludes the result derived from the item for “rent, including rates and government rents” in year “j-l”, with the base period of the Index being the same as the survey period of the Household Expenditure Survey mentioned in sub-subparagraph (i);
+
+        - (iii) “j” represents that particular year;
 
       - (d) only the person concerned and his dependants, if any, are to be taken into account in determining the size of household; and
 
       - (e) in ascertaining whether a person is a dependant, regard shall be had to his income and other resources. (L.N. 148 of 2000)
 
-  - (L.N. 105 of 1988)
+  - (L.N. 105 of 1988;L.N. 35 of 2011)
 
   - 9.
 
@@ -108,7 +110,7 @@
 
     - there shall be a deduction in respect of those payments.
 
-    - (2) The deduction under paragraph (1) may only be made if the spouse or child (as the case may be) is not taken into account as a dependant of the person concerned in calculating the amount equivalent to the 35-percentile household expenditure referred to in rule 8(1).
+    - (2) The deduction under paragraph (1) may only be made if the spouse or child (as the case may be) is not taken into account as a dependant of the person concerned in calculating the amount equivalent to the 50-percentile household expenditure referred to in rule 8(1). (L.N. 35 of 2011)
 
     - (3) The amount to be deducted under paragraph (1) shall be—
 
@@ -120,11 +122,11 @@
 
       - (a) the amount actually paid as maintenance;
 
-      - (b) the 35-percentile household expenditure differential.
+      - (b) the 50-percentile household expenditure differential. (L.N. 35 of 2011)
 
     - (5)
 
-      - In this rule, “35-percentile household expenditure differential” (住戶開支第35個百分值差額) means the difference in amount between the 35-percentile household expenditure (calculated in accordance with rule 8(2)) in—
+      - In this rule, 50-percentile household expenditure differential (住戶開支第50個百分值差額) means the difference in amount between the 50-percentile household expenditure (calculated in accordance with rule 8(2)) in— (L.N. 35 of 2011)
 
         - (a) the case where the person or persons (as the case may be) for whose maintenance the payment is made, is or are regarded as the only dependant or dependants of the person concerned; and
 
