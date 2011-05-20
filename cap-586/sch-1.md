@@ -46,15 +46,17 @@ SCHEDULED SPECIES
 
     - #4 Designates all parts and derivatives, except–
 
-    - (a) seeds, except those from Mexican cacti originating in Mexico, and pollen;
+    - (a) seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from Beccariophoenix madagascariensis and Neodypsis decaryi exported from Madagascar; (Replaced L.N. 36 of 2011)
 
-    - (b) seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers;
+    - (b) seedlings or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers; (Amended L.N. 36 of 2011)
 
     - (c) cut flowers of artificially propagated plants;
 
-    - (d) fruits, parts of fruits, and derivatives of fruits, of naturalized or artificially propagated plants; and
+    - (d) fruits, parts of fruits, and derivatives of fruits, of naturalized or artificially propagated plants of the genus Vanilla (Orchidaceae) and of the family Cactaceae; (Amended L.N. 36 of 2011)
 
-    - (e) separate stem joints (pads), parts of separate stem joints (pads), and derivatives of separate stem joints (pads), of naturalized or artificially propagated plants of the genus Opuntia subgenus Opuntia. #5 Designates logs, sawn wood and veneer sheets.
+    - (e) stems, flowers, and parts and derivatives of them, of naturalized or artificially propagated plants of the genera Opuntia subgenus Opuntia and Selenicereus (Cactaceae); and (Replaced L.N. 36 of 2011)
+
+    - (f) finished products of Euphorbia antisyphilitica packaged and ready for retail trade. (Added L.N. 36 of 2011) #5 Designates logs, sawn wood and veneer sheets.
 
     - #6 Designates logs, sawn wood, veneer sheets and plywood.
 
@@ -66,7 +68,9 @@ SCHEDULED SPECIES
 
     - #10 Designates logs, sawn wood and veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments.
 
-    - #11 Designates logs, sawn wood, veneer sheets, plywood, powder and extracts.
+    - #11 Designates logs, sawn wood, veneer sheets, plywood, powder and extracts. #12 Designates logs, sawn wood, veneer sheets, plywood and essential oil (excluding finished products packaged and ready for retail trade). (Added L.N. 36 of 2011)
+
+    - #13 Designates kernel and derivatives of them. (Added L.N. 36 of 2011)
 
   - (Replaced L.N. 4 of 2009)
 
@@ -190,11 +194,11 @@ Tetracerus quadricornis <Chousingha, four-horned antelope> (Nepal)
 
 Camelidae
 
-Lama glama guanicoe <Guanaco>
+Lama guanicoe <Guanaco>
 
-Vicugna vicugna <Vicugna> (Except the populations of Argentina [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Bolivia [the whole population]; Chile [population of the Primera Región]; and Peru [the whole population]; which are included in Appendix II)
+Vicugna vicugna <Vicugna> (Except the populations of Argentina [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia [the whole population]; Chile [population of the Primera Región]; and Peru [the whole population]; which are included in Appendix II)
 
-Vicugna vicugna <Vicugna> (Only the populations of Argentina1 [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Bolivia2 [the whole population]; Chile3 [population of the Primera Región]; Peru4 [the whole population]; all other populations are included in Appendix I)
+Vicugna vicugna <Vicugna> (Only the populations of Argentina1 [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia2 [the whole population]; Chile3 [population of the Primera Región]; Peru4 [the whole population]; all other populations are included in Appendix I)
 
 Cervidae
 
@@ -274,9 +278,9 @@ Canidae
 
 Canis aureus <Golden jackal> (India)
 
-Canis lupus <Common wolf, timber wolf> (Only the populations of Bhutan, India, Nepal and Pakistan; all other populations are included in Appendix II)
+Canis lupus <Common wolf, timber wolf> (Only the populations of Bhutan, India, Nepal and Pakistan; all other populations are included in Appendix II. Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo)
 
-Canis lupus <Common wolf, timber wolf> (Except the populations of Bhutan, India, Nepal and Pakistan, which are included in Appendix I)
+Canis lupus <Common wolf, timber wolf> (Except the populations of Bhutan, India, Nepal and Pakistan, which are included in Appendix I. Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo)
 
 Cerdocyon thous <Common zorro, forest fox>
 
@@ -528,6 +532,8 @@ Balaenoptera edeni <Bryde’s whale>
 
 Balaenoptera musculus <Blue whale>
 
+Balaenoptera omurai
+
 Balaenoptera physalus <Common rorqual, fin whale>
 
 Megaptera novaeangliae <Bunch, humpback whale>
@@ -535,6 +541,8 @@ Megaptera novaeangliae <Bunch, humpback whale>
 Delphinidae
 
 Orcaella brevirostris <Irrawaddy dolphin>
+
+Orcaella heinsohni
 
 Sotalia spp. <River dolphins>
 
@@ -560,7 +568,7 @@ Phocoena sinus <Cochito>
 
 Physeteridae
 
-Physeter catodon <Cachelot, sperm whale>
+Physeter macrocephalus <Cachelot, sperm whale>
 
 Platanistidae
 
@@ -948,9 +956,7 @@ Sciurus deppei <Deppe’s squirrel> (Costa Rica)
 
 SCANDENTIA
 
-Tupaiidae
-
-Tupaiidae spp. <Tree shrews>
+SCANDENTIA spp. <Tree shrews>
 
 SIRENIA
 
@@ -984,7 +990,7 @@ Anas laysanensis <Laysan duck>
 
 Anas nesiotis <Campbell Island flightless teal, Campbell Island teal>
 
-Anas oustaleti <Marianas Island duck>
+Asarcornis scutulata <White-winged duck>
 
 Branta canadensis leucopareia <Aleutian Canada goose>
 
@@ -993,8 +999,6 @@ Branta ruficollis <Red-breasted goose>
 Branta sandvicensis <Hawaiian goose>
 
 Cairina moschata <Muscovy duck> (Honduras)
-
-Cairina scutulata <White-winged duck>
 
 Coscoroba coscoroba <Coscoroba swan>
 
@@ -1196,13 +1200,7 @@ Macrocephalon maleo <Celebes maleo>
 
 Phasianidae
 
-Arborophila campbelli <Campbell’s hill partridge> (Malaysia)
-
-Arborophila charltonii <Chestnut-breasted tree-partridge> (Malaysia)
-
 Argusianus argus <Argus pheasant, great argus>
-
-Caloperdix oculeus <Ferruginous partridge, ferruginous wood-partridge> (Malaysia)
 
 Catreus wallichii <Cheer pheasant>
 
@@ -1224,15 +1222,9 @@ Lophophorus sclateri <Crestless monal, Sclater’s monal>
 
 Lophura edwardsi <Edward’s pheasant>
 
-Lophura erythrophthalma <Crestless fireback> (Malaysia)
-
-Lophura ignita <Crested fireback> (Malaysia)
-
 Lophura imperialis <Imperial pheasant>
 
 Lophura swinhoii <Swinhoe’s pheasant>
-
-Melanoperdix niger <Black wood-patridge> (Malaysia)
 
 Meleagris ocellata <Ocellated turkey> (Guatemala)
 
@@ -1242,8 +1234,6 @@ Polyplectron bicalcaratum <Common peacock-pheasant, grey peacock-pheasant>
 
 Polyplectron germaini <Germain’s peacock-pheasant>
 
-Polyplectron inopinatum <Mountain peacock-pheasant> (Malaysia)
-
 Polyplectron malacense <Crested peacock-pheasant>
 
 Polyplectron napoleonis <Napoleon’s peacock-pheasant, Palawan peacock-pheasant>
@@ -1251,12 +1241,6 @@ Polyplectron napoleonis <Napoleon’s peacock-pheasant, Palawan peacock-pheasant
 Polyplectron schleiermacheri <Bornean peacock-pheasant>
 
 Rheinardia ocellata <Crested argus>
-
-Rhizothera dulitensis <Dulit partridge> (Malaysia)
-
-Rhizothera longirostris <Long-billed partridge> (Malaysia)
-
-Rollulus rouloul <Crested partridge> (Malaysia)
 
 Syrmaticus ellioti <Chinese barred-backed pheasant, Elliot’s pheasant>
 
@@ -1386,6 +1370,8 @@ Dasyornis longirostris <Long-billed bristlebird>
 
 Garrulax canorus <Hwamei>
 
+Garrulax taewanus <Taiwan hwamei>
+
 Leiothrix argentauris <Silver-eared mesia>
 
 Leiothrix lutea <Red-billed leiothrix>
@@ -1492,7 +1478,7 @@ PSITTACIFORMES spp. <Parrots, psittacines (e.g. parakeets, cockatoos, macaws)> (
 
 Cacatuidae
 
-Cacatua goffini <Goffin’s cockatoo>
+Cacatua goffiniana <Goffin’s cockatoo>
 
 Cacatua haematuropygia <Philippine cockatoo, red-vented cockatoo>
 
@@ -1568,13 +1554,13 @@ Cyclopsitta diophthalma coxeni <Coxen’s blue-browed fig parrot, Coxen’s doub
 
 Eunymphicus cornutus <Horned parakeet>
 
-Geopsittacus occidentalis <Night parrot> (possibly extinct)
-
 Guarouba guarouba <Golden conure>
 
 Neophema chrysogaster <Orange-bellied parakeet>
 
 Ognorhynchus icterotis <Yellow-eared conure>
+
+Pezoporus occidentalis <Night parrot> (possibly extinct)
 
 Pezoporus wallicus <Ground parakeet>
 
@@ -1678,9 +1664,9 @@ Crocodylus intermedius <Orinoco crocodile>
 
 Crocodylus mindorensis <Mindoro crocodile>
 
-Crocodylus moreletii <Belize crocodile, Morelet’s crocodile>
+Crocodylus moreletii <Belize crocodile, Morelet’s crocodile> (Except the populations of Belize and Mexico, which are included in Appendix II with a zero quota for wild specimens traded for commercial purposes)
 
-Crocodylus niloticus <African crocodile, Nile crocodile> [Except the populations of Botswana, Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, the United Republic of Tanzania (subject to an annual export quota of no more than 1600 wild specimens including hunting trophies, in addition to ranched specimens), Zambia and Zimbabwe, which are included in Appendix II]
+Crocodylus niloticus <African crocodile, Nile crocodile> [Except the populations of Botswana, Egypt (subject to a zero quota for wild specimens traded for commercial purposes), Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, the United Republic of Tanzania (subject to an annual export quota of no more than 1600 wild specimens including hunting trophies, in addition to ranched specimens), Zambia and Zimbabwe, which are included in Appendix II]
 
 Crocodylus palustris <Broad-snouted crocodile, mugger crocodile>
 
@@ -1724,6 +1710,10 @@ Chamaeleo spp. <Chameleons>
 
 Furcifer spp. <Chameleons>
 
+Kinyongia spp. <Chameleons>
+
+Nadzikambia spp. <Chameleons>
+
 Cordylidae
 
 Cordylus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
@@ -1754,11 +1744,25 @@ Brachylophus spp. <Fijian iguanas>
 
 Conolophus spp. <Land iguanas>
 
+Ctenosaura bakeri <Baker’s spiny-tailed iguana>
+
+Ctenosaura oedirhina <Roatan spiny-tailed iguana>
+
+Ctenosaura melanosterna <Rio Aguan spiny-tailed iguana>
+
+Ctenosaura palearis <Guatemalan spiny-tailed iguana>
+
 Cyclura spp. <Ground iguanas>
 
 Iguana spp. <Iguanas>
 
+Phrynosoma blainvillii
+
+Phrynosoma cerroense
+
 Phrynosoma coronatum <Coast horned lizard>
+
+Phrynosoma wigginsi
 
 Sauromalus varius <San Esteban Island chuckwalla>
 
@@ -1940,9 +1944,11 @@ Terrapene coahuila <Aquatic box turtle>
 
 Geoemydidae
 
+Batagur affinis
+
 Batagur baska <Batagur>
 
-Callagur borneoensis <Painted batagur>
+Batagur spp. (Except the species included in Appendix I)
 
 Cuora spp. <Asian box turtles>
 
@@ -1957,8 +1963,6 @@ Heosemys depressa <Arakan forest turtle>
 Heosemys grandis <Giant Asian pond turtle>
 
 Heosemys spinosa <Spiny terrapin, spiny turtle>
-
-Kachuga spp. <Roofed turtles>
 
 Leucocephalon yuwonoi <Sulawesi forest turtle>
 
@@ -2090,6 +2094,10 @@ Nimbaphrynoides spp. <Nimba toads>
 
 Spinophrynoides spp. <Ethiopian toads>
 
+Calyptocephalellidae
+
+Calyptocephalella gayi <Helmeted water toad> (Chile)
+
 Dendrobatidae
 
 Allobates femoralis <Brilliant-thighed poison frogs>
@@ -2104,6 +2112,10 @@ Epipedobates spp. <Poison frogs>
 
 Phyllobates spp. <Poison frogs>
 
+Hylidae
+
+Agalychnis spp. <Red eye tree frogs>
+
 Mantellidae
 
 Mantella spp. <Golden frogs>
@@ -2114,15 +2126,15 @@ Dyscophus antongilii <Tomato frog>
 
 Scaphiophryne gottlebei <Burrowing frog>
 
-Myobatrachidae
-
-Rheobatrachus spp. <Gastric-brooding frogs>
-
 Ranidae
 
 Euphlyctis hexadactylus <Six-fingered frog>
 
 Hoplobatrachus tigerinus <Indian bullfrog>
+
+Rheobatrachidae
+
+Rheobatrachus spp. <Gastric-brooding frogs>
 
 CAUDATA
 
@@ -2135,6 +2147,10 @@ Ambystoma mexicanum <Axolotl>
 Cryptobranchidae
 
 Andrias spp. <Giant salamanders>
+
+Salamandridae
+
+Neurergus kaiseri <Kaiser’s spotted newt>
 
 CLASS ELASMOBRANCHII <SHARKS>
 
@@ -2278,7 +2294,19 @@ Lucanidae
 
 Colophon spp. <Cape stag beetles> (South Africa)
 
+Scarabaeidae
+
+Dynastes satanas <Satanas beetle>
+
 LEPIDOPTERA
+
+Nymphalidae
+
+Agrias amydon boliviensis <White-spotted agrias> (Plurinational State of Bolivia)
+
+Morpho godartii lachaumei <Godart’s morpho> (Plurinational State of Bolivia)
+
+Prepona praeneste buckleyana <Prepona> (Plurinational State of Bolivia)
 
 Papilionidae
 
@@ -2315,6 +2343,8 @@ ARHYNCHOBDELLIDA
 Hirudinidae
 
 Hirudo medicinalis <Medicinal leech>
+
+Hirudo verbana
 
 P H Y L U M M O L L U S C A
 
@@ -2396,12 +2426,6 @@ Tridacnidae spp. <Giant clams>
 
 CLASS GASTROPODA <SNAILS AND CONCHES>
 
-ARCHAEOGASTROPODA
-
-Haliotidae
-
-Haliotis midae <Midas ear abalone> (South Africa)
-
 MESOGASTROPODA
 
 Strombidae
@@ -2474,21 +2498,27 @@ AGAVACEAE
 
 Agave parviflora <Santa Cruz striped agave>
 
-Agave victoriae-reginae#1 <Queen agave>
+Agave victoriae-reginae#4 <Queen agave>
 
 Nolina interrata <Dehesa bear-grass>
 
 AMARYLLIDACEAE
 
-Galanthus spp.#1 <Snowdrops>
+Galanthus spp.#4 <Snowdrops>
 
-Sternbergia spp.#1 <Daffodils, sternbergias>
+Sternbergia spp.#4 <Daffodils, sternbergias>
+
+ANACARDIACEAE
+
+Operculicarya hyphaenoides
+
+Operculicarya pachypus
 
 APOCYNACEAE
 
 Hoodia spp. #9
 
-Pachypodium spp.#1<Elephant’s trunks> (Except the species included in Appendix I)
+Pachypodium spp.#4<Elephant’s trunks> (Except the species included in Appendix I)
 
 Pachypodium ambongense
 
@@ -2514,19 +2544,19 @@ Podophyllum hexandrum #2<Himilayan may-apple>
 
 BROMELIACEAE
 
-Tillandsia harrisii#1 <Harris’ tillandsia>
+Tillandsia harrisii#4 <Harris’ tillandsia>
 
-Tillandsia kammii #1 <Kamm’s tillandsia>
+Tillandsia kammii #4 <Kamm’s tillandsia>
 
-Tillandsia kautskyi #1 <Kautsky’s tillandsia>
+Tillandsia kautskyi #4 <Kautsky’s tillandsia>
 
-Tillandsia mauryana #1 <Maury’s tillandsia>
+Tillandsia mauryana #4 <Maury’s tillandsia>
 
-Tillandsia sprengeliana #1 <Sprengei’s tillandsia>
+Tillandsia sprengeliana #4 <Sprengei’s tillandsia>
 
-Tillandsia sucrei #1 <Sucre tillandsia>
+Tillandsia sucrei #4 <Sucre tillandsia>
 
-Tillandsia xerographica #1 <Xerographic tillandsia>
+Tillandsia xerographica #4 <Xerographic tillandsia>
 
 CACTACEAE
 
@@ -2604,7 +2634,7 @@ Uebelmannia spp.
 
 CARYOCARACEAE
 
-Caryocar costaricense #1 <Costus>
+Caryocar costaricense #4 <Costus>
 
 COMPOSITAE (Asteraceae)
 
@@ -2616,6 +2646,12 @@ Dudleya stolonifera <Laguna beach liveforever>
 
 Dudleya traskiae <Santa Barbara Island liveforever>
 
+CUCURBITACEAE
+
+Zygosicyos pubescens
+
+Zygosicyos tripartitus
+
 CUPRESSACEAE
 
 Fitzroya cupressoides <Alerce>
@@ -2624,35 +2660,35 @@ Pilgerodendron uviferum
 
 CYATHEACEAE
 
-Cyathea spp. #1<Tree ferns>
+Cyathea spp. #4<Tree ferns>
 
 CYCADACEAE
 
-CYCADACEAE spp. #1 <Cycads> (Except the species included in Appendix I)
+CYCADACEAE spp. #4 <Cycads> (Except the species included in Appendix I)
 
 Cycas beddomei
 
 DICKSONIACEAE
 
-Cibotium barometz #1
+Cibotium barometz #4
 
-Dicksonia spp. #1 <Tree ferns> (Only the populations of the Americas; no other population is included in the Appendices)
+Dicksonia spp. #4 <Tree ferns> (Only the populations of the Americas; no other population is included in the Appendices)
 
 DIDIEREACEAE
 
-DIDIEREACEAE spp. #1 <Didiereas>
+DIDIEREACEAE spp. #4 <Didiereas>
 
 DIOSCOREACEAE
 
-Dioscorea deltoidea #1 <Elephant’s foot>
+Dioscorea deltoidea #4 <Elephant’s foot>
 
 DROSERACEAE
 
-Dionaea muscipula #1 <Venus flytrap>
+Dionaea muscipula #4 <Venus flytrap>
 
 EUPHORBIACEAE
 
-Euphorbia spp. #1 <Euphorbias, spurges> (Succulent species only except the species included in Appendix I. Artificially propagated specimens of cultivars of Euphorbia trigona, artificially propagated specimens of crested, fan-shaped or colour mutants of Euphorbia lactea, when grafted on artificially propagated root stock of Euphorbia neriifolia, and artificially propagated specimens of cultivars of Euphorbia ‘Milii’ when they are traded in shipments of 100 or more plants and readily recognizable as artificially propagated specimens, are not subject to the provisions of this Ordinance)
+Euphorbia spp. #4 <Euphorbias, spurges> (Succulent species only except Euphorbia misera <Cliff spurge> and the species included in Appendix I. Artificially propagated specimens of cultivars of Euphorbia trigona, artificially propagated specimens of crested, fan-shaped or colour mutants of Euphorbia lactea, when grafted on artificially propagated root stock of Euphorbia neriifolia, and artificially propagated specimens of cultivars of Euphorbia ‘Milii’ when they are traded in shipments of 100 or more plants and readily recognizable as artificially propagated specimens, are not subject to the provisions of this Ordinance)
 
 Euphorbia ambovombensis
 
@@ -2676,7 +2712,7 @@ Euphorbia tulearensis
 
 FOUQUIERIACEAE
 
-Fouquieria columnaris #1 <Boojum tree>
+Fouquieria columnaris #4 <Boojum tree>
 
 Fouquieria fasciculata
 
@@ -2688,7 +2724,11 @@ Gnetum montanum #1 <Gnetum> (Nepal)
 
 JUGLANDACEAE
 
-Oreomunnea pterocarpa #1
+Oreomunnea pterocarpa #4
+
+LAURACEAE
+
+Aniba rosaeodora #12
 
 LEGUMINOSAE (Fabaceae)
 
@@ -2704,13 +2744,13 @@ Dipteryx panamensis (Costa Rica, Nicaragua)
 
 Pericopsis elata #5 <African teak>
 
-Platymiscium pleiostachyum #1 <Quira macawood>
+Platymiscium pleiostachyum #4 <Quira macawood>
 
 Pterocarpus santalinus #7 <Red sandalwood>
 
 LILIACEAE
 
-Aloe spp. #1 <Aloes> (Except the species included in Appendix I. Also excludes Aloe vera, also referenced as Aloe barbadensis which is not included in the Appendices)
+Aloe spp. #4 <Aloes> (Except the species included in Appendix I. Also excludes Aloe vera, also referenced as Aloe barbadensis which is not included in the Appendices)
 
 Aloe albida
 
@@ -2760,9 +2800,13 @@ Magnolia liliifera var. obovata #1 (Nepal)
 
 MELIACEAE
 
-Cedrela odorata #5 <West Indian cedar> [Population of Colombia (Colombia) Population of Guatemala (Guatemala) Population of Peru (Peru)]
+Cedrela fissilis #5 <South American cedar> (Plurinational State of Bolivia)
 
-Swietenia humilis #1 <Mexican mahogany>
+Cedrela lilloi #5 <Cedro> (Plurinational State of Bolivia)
+
+Cedrela odorata #5 <West Indian cedar> [Brazil; Plurinational State of Bolivia; Population of Colombia (Colombia); Population of Guatemala (Guatemala); Population of Peru (Peru)]
+
+Swietenia humilis #4 <Mexican mahogany>
 
 Swietenia macrophylla #6 <Big-leaf mahogany> (Populations of the Neotropics)
 
@@ -2770,7 +2814,7 @@ Swietenia mahagoni #5 <American mahogany>
 
 NEPENTHACEAE
 
-Nepenthes spp. #1 <Pitcher plants> (Except the species included in Appendix I)
+Nepenthes spp. #4 <Pitcher plants> (Except the species included in Appendix I)
 
 Nepenthes khasiana <Indian pitcher plant>
 
@@ -2778,9 +2822,9 @@ Nepenthes rajah <Kinabalu pitcher plant>
 
 ORCHIDACEAE
 
-ORCHIDACEAE spp.7 #1 <Orchids> (Except the species included in Appendix I)
+ORCHIDACEAE spp.7 #4 <Orchids> (Except the species included in Appendix I)
 
-(For all of the following Appendix I species, seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of this Ordinance)
+(For all of the following Appendix I species, seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to the provisions of this Ordinance only if the specimens meet the definition of artificially propagated agreed by the Conference of the Parties)
 
 Aerangis ellisii
 
@@ -2800,19 +2844,21 @@ Renanthera imschootiana <Red vanda orchid>
 
 OROBANCHACEAE
 
-Cistanche deserticola #1 <Desert-living cistanche>
+Cistanche deserticola #4 <Desert-living cistanche>
 
 PALMAE (Arecaceae)
 
-Beccariophoenix madagascariensis #1
+Beccariophoenix madagascariensis #4
 
 Chrysalidocarpus decipiens <Butterfly palm>
 
 Lemurophoenix halleuxii <Red-lemur palm>
 
+Lodoicea maldivica #13 <Sea coconut> (Seychelles)
+
 Marojejya darianii
 
-Neodypsis decaryi #1 <Feather palm>
+Neodypsis decaryi #4 <Feather palm>
 
 Ravenea louvelii
 
@@ -2824,11 +2870,17 @@ Voanioala gerardii
 
 PAPAVERACEAE
 
-Meconopsis regia #1 <Himalayan poppy> (Nepal)
+Meconopsis regia #1<Himalayan poppy> (Nepal)
+
+PASSIFLORACEAE
+
+Adenia olaboensis
 
 PINACEAE
 
 Abies guatemalensis <Guatemalan fir>
+
+Pinus koraiensis #5 <Korean pine> (Russian Federation)
 
 PODOCARPACEAE
 
@@ -2838,21 +2890,15 @@ Podocarpus parlatorei <Parlatore’s podocarp>
 
 PORTULACACEAE
 
-Anacampseros spp. #1 <Purselanes>
+Anacampseros spp. #4 <Purselanes>
 
-Avonia spp. #1
+Avonia spp. #4
 
-Lewisia serrata #1 <Saw-toothed lewisia>
+Lewisia serrata #4 <Saw-toothed lewisia>
 
 PRIMULACEAE
 
-Cyclamen spp.8 #1 <Cyclamens>
-
-PROTEACEAE
-
-Orothamnus zeyheri #1 <Marsh rose>
-
-Protea odorata #1 <Ground-rose>
+Cyclamen spp.8 #4 <Cyclamens>
 
 RANUNCULACEAE
 
@@ -2862,7 +2908,7 @@ Hydrastis canadensis #8 <Goldenseal>
 
 ROSACEAE
 
-Prunus africana #1 <African cherry, red stinkwood>
+Prunus africana #4 <African cherry, red stinkwood>
 
 RUBIACEAE
 
@@ -2870,7 +2916,7 @@ Balmea stormiae <Ayugue>
 
 SARRACENIACEAE
 
-Sarracenia spp. #1 <Pitcher plants> (Except the species included in Appendix I)
+Sarracenia spp. #4 <Pitcher plants> (Except the species included in Appendix I)
 
 Sarracenia oreophila <Green pitcher plant>
 
@@ -2884,7 +2930,7 @@ Picrorhiza kurrooa #2 <Picrorhiza, kutki> (Excludes Picrorhiza scrophulariiflora
 
 STANGERIACEAE
 
-Bowenia spp. #1 <Cycads>
+Bowenia spp. #4 <Cycads>
 
 Stangeria eriopus <Hottentot’s head>
 
@@ -2902,11 +2948,11 @@ Taxus wallichiana #2 <Himalayan yew>
 
 THYMELAEACEAE (Aquilariaceae)
 
-Aquilaria spp. #1 <Agarwood>
+Aquilaria spp. #4 <Agarwood>
 
-Gonystylus spp. #1 <Ramin>
+Gonystylus spp. #4 <Ramin>
 
-Gyrinops spp. #1
+Gyrinops spp. #4
 
 TROCHODENDRACEAE (Tetracentraceae)
 
@@ -2916,13 +2962,19 @@ VALERIANACEAE
 
 Nardostachys grandiflora #2 <Jatamansi>
 
+VITACEAE
+
+Cyphostemma elephantopus
+
+Cyphostemma montagnacii
+
 WELWITSCHIACEAE
 
-Welwitschia mirabilis #1 <Welwitschia>
+Welwitschia mirabilis #4 <Welwitschia>
 
 ZAMIACEAE
 
-ZAMIACEAE spp. #1 <Cycads> (Except the species included in Appendix I)
+ZAMIACEAE spp. #4 <Cycads> (Except the species included in Appendix I)
 
 Ceratozamia spp. <Cycads>
 
@@ -2934,13 +2986,15 @@ Microcycas calocoma <Palma corcho>
 
 ZINGIBERACEAE
 
-Hedychium philippinense #1 <Philippine garland flower>
+Hedychium philippinense #4 <Philippine garland flower>
 
 ZYGOPHYLLACEAE
 
-Bulnesia sarmientoi #11 <Holy wood> (Argentina)
+Bulnesia sarmientoi #11 <Holy wood>
 
 Guaiacum spp. #2 <Lignum-vitae>
+
+(Amended L.N. 36 of 2011)
 
 - 1. Any specimen of the population of Argentina shall be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as–
 
@@ -2952,7 +3006,7 @@ Guaiacum spp. #2 <Lignum-vitae>
 
   - All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
 
-- 2. Any specimen of the population of Bolivia shall be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as–
+- 2. Any specimen of the population of Plurinational State of Bolivia shall be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as– (Amended L.N. 36 of 2011)
 
   - (a) wool sheared from live vicuñas;
 
@@ -3020,7 +3074,7 @@ Guaiacum spp. #2 <Lignum-vitae>
 
 - – Schlumbergera truncata (cultivars)
 
-- – Cactaceae spp. colour mutants lacking chlorophyll, grafted on the following grafting stocks: Harrisia ‘Jusbertii’, Hylocereus trigonus or Hylocereus undatus
+- – Cactaceae spp. colour mutants grafted on the following grafting stocks: Harrisia ‘Jusbertii’, Hylocereus trigonus or Hylocereus undatus (Amended L.N. 36 of 2011)
 
 - – Opuntia microdasys (cultivars).
 
@@ -3038,4 +3092,4 @@ Guaiacum spp. #2 <Lignum-vitae>
 
 - 8. Unless imported, exported or re-exported as dormant tubers, artificially propagated specimens of cultivars of Cyclamen persicum are not subject to the provisions of this Ordinance.
 
-- 9. Artificially propagated hybrids and cultivars of Taxus cuspidata, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated”, are not subject to the provisions of this Ordinance. ( Part 2 replaced L.N. 4 of 2009)
+- 9. Artificially propagated hybrids and cultivars of Taxus cuspidata, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated”, are not subject to the provisions of this Ordinance. (Part 2 replaced L.N. 4 of 2009)
