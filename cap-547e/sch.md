@@ -4,6 +4,12 @@
 
 CONSTITUENCIES OF DISTRICTS
 
+(This schedule shall—
+
+- (a) be treated as having been repealed since 23 May 2011 for the purpose only of enabling arrangements to be made for the holding of the District Council ordinary election in 2011; and
+
+- (b) in so far as it has not been treated as repealed under paragraph (a), be repealed on 1 January 2012.)
+
 Item | Name of District | Delineation of Area | Name of Constituency
 
 1. | Central and Western District | (1) That area delineated by the relevant constituency boundary on the approved map identified as Plan No. DCCA/R/2007/A and marked with the code A01. | Chung Wan
