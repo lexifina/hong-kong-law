@@ -116,7 +116,7 @@ PUBLIC BODIES
 
 - 56. (Repealed 20 of 1999 s. 6)
 
-- 57. Hong Kong Council for Accreditation of Academic and Vocational Qualifications. (Replaced 6 of 2007 s. 50)
+- 57. Hong Kong Council for Accreditation of Academic and Vocational Qualifications. (Added 15 of 1990 s.26. Replaced 6 of 2007 s. 50)
 
 - 58. The Hospital Authority (including any committee established by the Hospital Authority). (Added 68 of 1990 s. 24)
 
@@ -202,7 +202,7 @@ PUBLIC BODIES
 
 - 98. The Ombudsman. (Added 30 of 2001 s. 24)
 
-- * 99. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002 and 5 of 2002 s. 407)
+- # 99. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002 and 5 of 2002 s. 407)
 
   - 100. Construction Workers Registration Authority. (Added 18 of 2004 s. 66)
 
@@ -228,12 +228,14 @@ PUBLIC BODIES
 
   - 111. Any entity established under section 5(2)(h) of the West Kolwoon Cultural District Authority Ordinance (Cap. 601). (Added 27 of 2008 s. 42)
 
-  - 112. Wave Media Limited. (Added L.N. 245 of 2008)
+  - 112. Digital Broadcasting Corporation Hong Kong Limited. (Added L.N. 245 of 2008. Amended L.N. 50 of 2011)
 
   - 113. Minor Works Contractors Registration Committee. (Added L.N. 179 of 2009)
+
+  - 115. Phoenix U Radio Limited. (Added L.N. 50 of 2011)
 
 - (Replaced L.N. 272 of 1974)
 
 Editorial Note:
 
-* The Investor Compensation Company Limited has been recognised as an investor compensation company (please see G.N. 1220 of 2003) .
+\# The Investor Compensation Company Limited has been recognised as an investor compensation company (please see G.N. 1220 of 2003) .
