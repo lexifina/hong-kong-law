@@ -131,3 +131,5 @@ Item | Enactment | Provision
 69-70. | (Repealed L.N. 152 of 2006)
 
 71. | (Repealed L.N. 215 of 2007)
+
+72. | Arbitration Ordinance (Cap. 609) | Sections 26(1), 31(7), 32(1)(a) and (3), 33(1), 50, 52, 54(1), 66(2), 67(1), 74(2) and 102(a) (17 of 2010 s. 112)

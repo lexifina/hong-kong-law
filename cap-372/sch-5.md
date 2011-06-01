@@ -78,7 +78,7 @@
 
       - (b) by reason of the carrying out of such work the Corporation has received or will receive any other benefit by way of greater efficiency in the running of the railway, reduction in wear of rolling stock on the North-west Railway or rails or any other part of the apparatus of the Corporation or by any other way,
 
-    - the amount paid to the company under sub-paragraph (1)(c) shall be reduced by the amount of the value of any such benefit.
+  - the amount paid to the company under sub-paragraph (1)(c) shall be reduced by the amount of the value of any such benefit.
 
   - 12. In the event of the Corporation failing to execute any works which it is required by paragraph 9, 10 or 11 to execute, the Director of Highways may cause such works to be executed and may recover the reasonable costs of such works from the Corporation, in such amount as he may certify to the Corporation, as a civil debt owed by the Corporation to the Government.
 
@@ -100,7 +100,7 @@
 
     - (1) In this Schedule—
 
-      - (a) a reference to arbitration shall be construed as a reference to arbitration under the Arbitration Ordinance (Cap. 341) and shall, for the purposes of that Ordinance, be deemed to be a reference by an arbitration agreement, as defined for the purposes of that Ordinance, to 2 arbitrators, one appointed by the Corporation and the other by the Director of Lands; (Amended L.N. 291 of 1993)
+      - (a) a reference to arbitration shall be construed as a reference to arbitration under the Arbitration Ordinance (Cap. 609) and shall, for the purposes of that Ordinance, be deemed to be a reference by an arbitration agreement, as defined for the purposes of that Ordinance, to 2 arbitrators, one appointed by the Corporation and the other by the Director of Lands; (Amended L.N. 291 of 1993; 17 of 2010 s. 112)
 
       - (b)
 
@@ -108,8 +108,8 @@
 
     - (2) Any reference to the Government or the Corporation shall, where the reference relates to any right to go onto any land or do anything thereon, be deemed also to refer to their servants or agents.
 
-  - (Fifth Schedule added 56 of 1986 s. 20)
+- (Fifth Schedule added 56 of 1986 s. 20)
 
 Editorial Note:
 
-* Commencement date: 1 November 1986.
+*Commencement date: 1 November 1986.

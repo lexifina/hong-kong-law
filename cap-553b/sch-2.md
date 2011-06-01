@@ -63,3 +63,5 @@ Item | Enactment | Provision
 25-26. | (Repealed L.N. 152 of 2006)
 
 27. | (Repealed L.N. 215 of 2007)
+
+28. | Arbitration Ordinance (Cap. 609) | Section 67(1) (17 of 2010 s. 112)

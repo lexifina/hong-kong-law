@@ -58,7 +58,7 @@
 
       - (iii) the pedestrian ways along the railway bridges designated on the said plans by a number prefixed by the letter “P” and shown hatched black,
 
-  - and to keep all bridges, roads, tunnels and other works appertaining thereto on the said land;
+    - and to keep all bridges, roads, tunnels and other works appertaining thereto on the said land;
 
     - (b) to use exclusively, and to permit other persons to use, whether in accordance with a lease, tenancy agreement or otherwise—
 
@@ -114,9 +114,11 @@
 
       - (ii) for any purpose in the exercise of the powers conferred on it by the Chief Executive under section 4(1)(e), (Amended 62 of 1999 s. 3; 32 of 2000 s. 48)
 
-  - and for purposes ancillary thereto, excluding staff housing and including, within station premises only, the provision of services or articles for the use or enjoyment of passengers on the railway; or
+    - and for purposes ancillary thereto, excluding staff housing and including, within station premises only, the provision of services or articles for the use or enjoyment of passengers on the railway; or
 
-    - (b) where any portion of the said land described in paragraphs 2 and 5 was, immediately prior to the appointed day, used for other than railway purposes, or for staff housing, use and permit the use of the said land for such other purposes or such housing but only to the extent that such part of the said land was so used immediately prior to the appointed day, and may not use the said land, or any portion thereof, for any other purpose without the consent in writing of the Director of Lands who may, in granting such permission, impose such conditions as he thinks fit including the payment by the Corporation of a reasonable premium to the Government for payment into general revenue as consideration for the grant of such consent.
+    - (b) where any portion of the said land described in paragraphs 2 and 5 was, immediately prior to the appointed day, used for other than railway purposes, or for staff housing, use and permit the use of the said land for such other purposes or such housing but only to the extent that such part of the said land was so used immediately prior to the appointed day,
+
+  - and may not use the said land, or any portion thereof, for any other purpose without the consent in writing of the Director of Lands who may, in granting such permission, impose such conditions as he thinks fit including the payment by the Corporation of a reasonable premium to the Government for payment into general revenue as consideration for the grant of such consent.
 
   - 16. The Corporation shall not assign, underlet, part with possession or otherwise dispose of the said land or any part thereof or any interest therein, or enter into any agreement so to do, for a period in excess of 3 years without the consent in writing of the Director of Lands:
 
@@ -136,7 +138,7 @@
 
   - 19. The Corporation shall maintain in good and substantial repair fences erected on the said land to prevent access to the railway by members of the public or livestock and, in places where such fences are required for the protection of the public or livestock and were not in existence immediately prior to the appointed day, shall construct fences adequate for such purpose and so maintain them.
 
-  - 20. Subject to the proviso to paragraph 17 the Corporation shall be liable to pay a reasonable portion of all expenses incurred by the Government, and the Government a reasonable portion of all expenses incurred by the Corporation, in repairing and rebuilding and cleansing all party walls, fences, sewers, drains, roads, pavements and other things the use of which is common to the said land and to any adjoining land held by the Crown. In the absence of agreement on the sum the Government or the Corporation shall pay, this shall be determined in accordance with the Arbitration Ordinance (Cap. 341) by reference to 2 arbitrators, one to be appointed by each party.
+  - 20. Subject to the proviso to paragraph 17 the Corporation shall be liable to pay a reasonable portion of all expenses incurred by the Government, and the Government a reasonable portion of all expenses incurred by the Corporation, in repairing and rebuilding and cleansing all party walls, fences, sewers, drains, roads, pavements and other things the use of which is common to the said land and to any adjoining land held by the Crown. In the absence of agreement on the sum the Government or the Corporation shall pay, this shall be determined in accordance with the Arbitration Ordinance (Cap. 609) by arbitration with 2 arbitrators, one to be appointed by each party. (Amended 17 of 2010 s. 112)
 
   - 21. The Government shall have the right to such facilities as it may reasonably require for police, immigration or customs purposes on railway premises:
 
@@ -150,7 +152,7 @@
 
     - (b) Part II of this Schedule:
 
-      - Provided that the prior consent of the Corporation shall be required to any amendment which has the effect of imposing any new restriction on the Corporation as to the manner in which it may use the said land or any part thereof or which otherwise limits the rights granted in this Schedule.
+  - Provided that the prior consent of the Corporation shall be required to any amendment which has the effect of imposing any new restriction on the Corporation as to the manner in which it may use the said land or any part thereof or which otherwise limits the rights granted in this Schedule.
 
   - 23. That part of the said land lying below the land registered in the Land Registry as Sha Tin Town Lot No. 87 shall be subject to the mutual rights and obligations reserved in and imposed by, and the agreements and conditions contained in, the Conditions of Sale registered in the Land Registry as New Grant No. 11326. (Amended 8 of 1993 s. 2; 20 of 2002 s. 5)
 
@@ -168,4 +170,4 @@
 
 Editorial Note:
 
-* Repealed-see 13 of 1998 s. 6
+*Repealed—see 13 of 1998 s. 6

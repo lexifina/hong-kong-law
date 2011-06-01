@@ -132,7 +132,7 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
       - (e) all the property being placed on the market at the same time.
 
-    - (4) In default of an agreement between The Financial Secretary Incorporated and a licensee as regards the consideration mentioned in subsection (3), the consideration shall be determined by arbitration under the Arbitration Ordinance (Cap. 341) and, for that purpose, The Financial Secretary Incorporated and the licensee shall be regarded as having made an arbitration agreement within the meaning of that Ordinance whose provisions shall be deemed to include a provision that that consideration shall, in the absence of agreement, be determined by a single arbitrator.
+    - (4) In default of an agreement between The Financial Secretary Incorporated and a licensee as regards the consideration mentioned in subsection (3), the consideration shall be determined by arbitration under the Arbitration Ordinance (Cap. 609) and, for that purpose, The Financial Secretary Incorporated and the licensee shall be regarded as having made an arbitration agreement within the meaning of that Ordinance whose provisions shall be deemed to include a provision that that consideration shall, in the absence of agreement, be determined by a single arbitrator. (Amended 17 of 2010 s. 112)
 
     - (5) Where any land is purchased under this section, the licensee concerned shall execute an assignment in favour of The Financial Secretary Incorporated and The Financial Secretary Incorporated shall register the assignment in the Land Registry within 30 days of the execution of the assignment.
 

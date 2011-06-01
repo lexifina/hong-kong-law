@@ -3280,7 +3280,7 @@ CONDITIONS
 
   - (2)
 
-  - The selling price shall be agreed between the Government and the licensee on the basis of the fair market value at the time of acquisition determined on the basis that this licence remains in force and that the Network is continuing to be used for the provision of the Service. If no agreement can be reached between the Government and the licensee, the matter shall be settled by arbitration in accordance with the provisions of the Arbitration Ordinance (Cap. 341).
+  - The selling price shall be agreed between the Government and the licensee on the basis of the fair market value at the time of acquisition determined on the basis that this licence remains in force and that the Network is continuing to be used for the provision of the Service. If no agreement can be reached between the Government and the licensee, the matter shall be settled by arbitration in accordance with the provisions of the Arbitration Ordinance (Cap. 609).
 
   - Indemnity
 
@@ -3312,7 +3312,7 @@ CONDITIONS
 
     - THE PROVISION OF THE SERVICE
 
-    - (L.N. 133 of 1995; 29 of 1998 ss. 24 & 105; L.N. 331 of 1999; 36 of 2000 s. 28; 48 of 2000 s. 44)
+    - (L.N. 133 of 1995; 29 of 1998 ss. 24 & 105; L.N. 331 of 1999; 36 of 2000 s. 28; 48 of 2000 s. 44; 17 of 2010 s. 112)
 
     - TELECOMMUNICATIONS ORDINANCE
 
