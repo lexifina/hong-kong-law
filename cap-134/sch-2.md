@@ -26,6 +26,8 @@ Cheshire Home, Chung Hom Kok (舂磡角慈氏護養院)
 
 Cheshire Home, Shatin (沙田慈氏護養院)
 
+ELCHK, Grace Court (基督教香港信義會恩頤居) (Added L.N. 56 of 2011)
+
 Evangel Hospital (播道醫院)
 
 Evergreen Nursing Home Cum Day Care Centre (松悅園耆欣護養院暨日間護理中心)
