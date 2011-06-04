@@ -18,9 +18,11 @@ REPORTING AGENCIES
 
 - 6. Christian Family Service Centre
 
+- 6A. Christian New Life Association Limited (Added L.N. 57 of 2011)
+
 - 7. Christian Zheng Sheng Association Limited
 
-- 8. Chu Hai Post Secondary College
+- 8. Chu Hai College of Higher Education (Amended L.N. 57 of 2011)
 
 - 9. City University of Hong Kong
 
@@ -35,6 +37,8 @@ REPORTING AGENCIES
 - 14. Education Bureau (Amended L.N. 130 of 2007)
 
 - 15. Evangel Hospital
+
+- 15A. Glorious Praise Fellowship (Hong Kong) Limited (Added L.N. 57 of 2011)
 
 - 16. Hong Kong Adventist Hospital
 
@@ -58,6 +62,8 @@ REPORTING AGENCIES
 
 - 26. Hong Kong Sanatorium and Hospital Limited
 
+- 26A. Hong Kong Sheng Kung Hui Welfare Council (Added L.N. 57 of 2011)
+
 - 27. Hong Kong Young Women’s Christian Association
 
 - 28. Hospital Authority
@@ -73,6 +79,8 @@ REPORTING AGENCIES
 - 33. Matilda and War Memorial Hospital
 
 - 34. Methodist Epworth Village Community Centre
+
+- 34A. Mission Ark Limited (Added L.N. 57 of 2011)
 
 - 35. Operation Dawn Limited
 
@@ -92,7 +100,7 @@ REPORTING AGENCIES
 
 - 43. The Boys’ and Girls’ Clubs Association of Hong Kong
 
-- 44. The Boys’ Brigade, Hong Kong
+- 44. The Boys’ Brigade, Hong Kong Limited (Amended L.N. 57 of 2011)
 
 - 45. The Chinese University of Hong Kong
 
@@ -127,6 +135,8 @@ REPORTING AGENCIES
 - 60. The University of Hong Kong
 
 - 61. Tsuen Wan Adventist Hospital
+
+- 61A. Tung Wah Group of Hospitals (Added L.N. 57 of 2011)
 
 - 62. Sha Tin International Medical Centre Union Hospital
 
