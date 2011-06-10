@@ -30,7 +30,7 @@ SCHEDULED INFECTIOUS DISEASES
 
 - 11A. Enterovirus 71 infection (腸病毒71型感染) (Added L.N. 35 of 2009)
 
-- 12. Escherichia coli O157:H7 infection (大腸桿菌O157:H7感染)
+- 12. (Repealed L.N. 101 of 2011)
 
 - 13. Food poisoning (食物中毒)
 
@@ -75,6 +75,8 @@ SCHEDULED INFECTIOUS DISEASES
 - 33. Scarlet fever (猩紅熱)
 
 - 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症)
+
+- 34A. Shiga toxin-producing Escherichia coli infection (產志賀毒素大腸桿菌感染) (Added L.N. 101 of 2011)
 
 - 35. Smallpox (天花)
 
