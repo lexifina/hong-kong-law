@@ -10,20 +10,40 @@ Item | Land | Height
 
 2. | All that portion of land held under Government Land Licence No. TW 9546 shown coloured pink on Plan No. TWM 2883-AHEa signed by the Secretary for Planning and Lands and deposited at the Land Registry. | 636 m
 
-3. | All that portion of land shown coloured pink on Plan No. TWM 2959-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry. | 491 m (L.N. 49 of 2002)
+3. | All that portion of land shown coloured pink on Plan No. TWM 2959-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry. | 491 m
 
-4. | All those portions of land shown coloured pink and marked with A, B and C on Plan No. TWM 2996-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry— (20 of 2002 s. 5) Portion A Portion B Portion C | 645 m 637 m 646 m (L.N. 49 of 2002)
+(L.N. 49 of 2002)
 
-5. | All that portion of land shown coloured pink stippled black on Plan No. ISM 0925b signed by the Secretary for Housing, Planning and Lands and deposited at the Land Registry. | 249 m (L.N. 92 of 2004)
+4. | All those portions of land shown coloured pink and marked with A, B and C on Plan No. TWM 2996-AHE signed by the Secretary for Planning and Lands and deposited at the Land Registry— (20 of 2002 s. 5) Portion A Portion B Portion C | 645 m 637 m 646 m
 
-6. | All that portion of land shown coloured pink hatched black on Plan No. TMM2776d signed by the Secretary for Development and deposited at the Land Registry. | 147.9 m (L.N. 182 of 2007)
+(L.N. 49 of 2002)
 
-7. | All that portion of land shown coloured pink stippled black on Plan No. STM8394g signed by the Secretary for Development and deposited at the Land Registry. | 531 m (L.N. 182 of 2007)
+5. | All that portion of land shown coloured pink stippled black on Plan No. ISM 0925b signed by the Secretary for Housing, Planning and Lands and deposited at the Land Registry. | 249 m
 
-8. | All that portion of land held under Short Term Tenancy No. CX 1834 and shown coloured pink on Plan No. ISM1962a signed by the Secretary for Development and deposited at the Land Registry. | 269 m (L.N. 153 of 2010)
+(L.N. 92 of 2004)
 
-9. | All that portion of land held under Short Term Tenancy No. SX 3470 and shown coloured pink hatched black on Plan No. SKM7125a signed by the Secretary for Development and deposited at the Land Registry. | 654 m (L.N. 153 of 2010)
+6. | All that portion of land shown coloured pink hatched black on Plan No. TMM2776d signed by the Secretary for Development and deposited at the Land Registry. | 147.9 m
 
-10. | All that portion of land held under Short Term Tenancy No. 1391 and shown coloured pink stippled black on Plan No. TMM2886b signed by the Secretary for Development and deposited at the Land Registry. | 628 m (L.N. 153 of 2010)
+(L.N. 182 of 2007)
+
+7. | All that portion of land shown coloured pink stippled black on Plan No. STM8394g signed by the Secretary for Development and deposited at the Land Registry. | 531 m
+
+(L.N. 182 of 2007)
+
+8. | All that portion of land held under Short Term Tenancy No. CX 1834 and shown coloured pink on Plan No. ISM1962a signed by the Secretary for Development and deposited at the Land Registry. | 269 m
+
+(L.N. 153 of 2010)
+
+9. | All that portion of land held under Short Term Tenancy No. SX 3470 and shown coloured pink hatched black on Plan No. SKM7125a signed by the Secretary for Development and deposited at the Land Registry. | 654 m
+
+(L.N. 153 of 2010)
+
+10. | All that portion of land held under Short Term Tenancy No. 1391 and shown coloured pink stippled black on Plan No. TMM2886b signed by the Secretary for Development and deposited at the Land Registry. | 628 m
+
+(L.N. 153 of 2010)
+
+11. | All that portion of land held under Short Term Tenancy No. CX1824 and shown coloured pink on Plan No. ISM1637c signed by the Secretary for Development and deposited at the Land Registry. | 276.5 m
+
+(L.N. 62 of 2011)
 
 (20 of 2002 s. 5)
