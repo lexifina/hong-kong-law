@@ -138,4 +138,6 @@
 
 - 68. Shop 313, Tin Chak Shopping Centre, Tin Shui Wai, New Territories. (L.N. 271 of 2006)
 
-- 69. Parts of the ground and first floors of Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung, shown in green on the floor plans numbered AB/4785/GP002 and AB/4785/GP003, signed by the Director of Leisure and Cultural Services on 4 May 2010 and deposited in the Islands District Leisure Services Office of the Leisure and Cultural Services Department. (L.N. 86 of 2010) (Schedule replaced 78 of 1999 s. 7)
+- 69. Parts of the ground and first floors of Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung, shown in green on the floor plans numbered AB/4785/GP002 and AB/4785/GP003, signed by the Director of Leisure and Cultural Services on 4 May 2010 and deposited in the Islands District Leisure Services Office of the Leisure and Cultural Services Department. (L.N. 86 of 2010)
+
+- 70. Parts of the ground and mezzanine floors of Siu Sai Wan Complex, 15 Siu Sai Wan Road, Chai Wan, shown in green on the floor plans numbered AB/5744/GP121 and AB/5744/GP122, signed by the Director of Leisure and Cultural Services on 21 April 2011 and deposited in the Hong Kong Central Library. (L.N. 98 of 2011) (Schedule replaced 78 of 1999 s. 7)
