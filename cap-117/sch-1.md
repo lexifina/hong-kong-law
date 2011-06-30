@@ -8,7 +8,7 @@ HEAD 1: IMMOVABLE PROPERTY IN HONG KONG
 
 Agreement for Lease, See LEASE and section 16 Agreement or Contract for Sale of equitable interest, See AGREEMENT FOR SALE and section 29E, and CONVEYANCE ON SALE and section 26
 
-(1) CONVEYANCE ON SALE (a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (A) (a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
+(1) CONVEYANCE ON SALE (a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (A)(a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
 
 (b) where the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,351,760 and the instrument is certified in accordance with section 29 at $2,351,760 | (b) $100 plus 10% of the amount by which the amount or value of the consideration exceeds $2,000,000 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
 
@@ -48,7 +48,7 @@ Note 6 (Repealed 33 of 1998 s. 11) Exchange, Instruments effecting-see section 2
 
 (1AA) CONVEYANCE ON SALE CHARGEABLE WITH SPECIAL STAMP DUTY
 
-(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) (a) 15% of the amount or value of the consideration
+(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A)(a) 15% of the amount or value of the consideration
 
 (b) if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) 10% of the amount or value of the consideration
 
@@ -60,13 +60,13 @@ Note 6 (Repealed 33 of 1998 s. 11) Exchange, Instruments effecting-see section 2
 
 Note 1 This sub-head is subject to sections 29D and 29DA Note 2 (a) If only part of the residential property is disposed of within a period specified in the first column of this sub-head, the special stamp duty chargeable under this sub-head is the percentage (specified opposite to that period) of the amount or value of the consideration for that part as indicated by the parties to the conveyance on sale concerned to the Collector (part consideration)
 
-(b) If different parts of the residential property are disposed of within different periods specified in the first column of this sub-head, the special stamp duty chargeable in respect of any of those parts under this sub-head is the percentage (specified opposite to the period applicable to that part) of the amount or value of the consideration for that part as indicated by the parties to the conveyance on sale concerned to the Collector (part consideration), and the special stamp duty chargeable in respect of the property under this subhead is the total of the special stamp duty chargeable in respect of those parts
+(b) If different parts of the residential property are disposed of within different periods specified in the first column of this sub-head, the special stamp duty chargeable in respect of any of those parts under this sub-head is the percentage (specified opposite to the period applicable to that part) of the amount or value of the consideration for that part as indicated by the parties to the conveyance on sale concerned to the Collector (part consideration), and the special stamp duty chargeable in respect of the property under this sub-head is the total of the special stamp duty chargeable in respect of those parts
 
 (c) If the Collector is of the opinion that the part consideration does not represent the value of the part concerned, the Collector may substitute that value for the part consideration for the purpose of the calculation of special stamp duty chargeable under this sub-head (Added 14 of 2011 s. 15)
 
 (1A) AGREEMENT FOR SALE
 
-(a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (A) (a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
+(a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (A)(a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
 
 (b) where the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,351,760 and the instrument is certified in accordance with section 29G at $2,351,760 | (b) $100 plus 10% of the amount by which the amount or value of the consideration exceeds $2,000,000 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
 
@@ -84,7 +84,7 @@ Note 1 This sub-head is subject to sections 29D and 29DA Note 2 (a) If only part
 
 (j) where the amount or value of the consideration exceeds $20,000,000 but does not exceed $21,739,120 and the instrument is certified in accordance with section 29G at $21,739,120 | (j) $750,000 plus 10% of the amount by which the amount or value of the consideration exceeds $20,000,000 (Added L.N. 18 of 2010 and 16 of 2010 s. 4)
 
-(k) in any other case | (k) 4.25% of the amount or value of the consideration (Added L.N. 18 of 2010 and 16 of 2010 s. 4) *(B) 30 days after the relevant date (within the meaning of section 29B(3)); but see section 29C(11) and Notes 2 and 3 to this sub-head (Amended L.N. 90 of 1999 and 44 of 1999 s. 22)
+(k) in any other case | (k) 4.25% of the amount or value of the consideration (Added L.N. 18 of 2010 and 16 of 2010 s. 4) *(B) 30 days after the relevant date (within the meaning of section 29B(3)); but see Notes 2 and 3 to this sub-head (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; 14 of 2011 s. 15)
 
 (C) All parties except a party who on the relevant date (within the meaning of section 29B(3)) does not know that the agreement affects him, and all other persons executing (Replaced 36 of 1994 s. 3)
 
@@ -92,9 +92,9 @@ And see section 4 and Part IIIA
 
 Note 1 This sub-head does not apply to an agreement for sale in respect of non-residential property (see section 29A(5))
 
-Note 2 If, within the first 14 days of the time for stamping, an agreement for sale is superseded by another agreement for sale made between the same parties and on the same terms, executed in accordance with section 29B(1), and containing the matters specified in section 29B(5)— (aa) for the purposes of Part IIIA and this sub-head, the second-mentioned agreement is deemed to be made on the relevant date (within the meaning of section 29B(3)); (Added L.N. 90 of 1999 and 44 of 1999 s. 22) *(a) notwithstanding paragraph (aa) but subject to section 29C(11), the time for stamping the second-mentioned agreement is not later than 30 days after it was executed; and (Amended L.N. 90 of 1999 and 44 of 1999 s. 22) *(b) if the second-mentioned agreement is duly stamped or stamped under section 5(1), 13(2) or 18E(1), or is endorsed under section 29C(13)(a), the obligation to stamp any preceding agreement between the same parties and on the same terms is discharged (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; 21 of 2003 s. 25)
+Note 2 If, within the first 14 days of the time for stamping, an agreement for sale is superseded by another agreement for sale made between the same parties and on the same terms, executed in accordance with section 29B(1), and containing the matters specified in section 29B(5)— (aa) for the purposes of Part IIIA and this sub-head, the second-mentioned agreement is deemed to be made on the relevant date (within the meaning of section 29B(3)); (Added L.N. 90 of 1999 and 44 of 1999 s. 22) *(a) notwithstanding paragraph (aa), the time for stamping the second-mentioned agreement is not later than 30 days after it was executed; and (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; 14 of 2011 s. 15) *(b) if the second-mentioned agreement is duly stamped or stamped under section 5(1), 13(2) or 18E(1), the obligation to stamp any preceding agreement between the same parties and on the same terms is discharged (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; 21 of 2003 s. 25; 14 of 2011 s. 15)
 
-*Note 3 Subject to Note 2, if 2 or more agreements for sale are made between the same parties and on the same terms— (a) for the purposes of Part IIIA and this sub-head, all of the agreements are deemed to be made on the relevant date (within the meaning of section 29B(3)); and (b) where any of the agreements is duly stamped or stamped under section 5(1), 13(2) or 18E(1), or is endorsed under section 29C(13)(a)— (Amended 21 of 2003 s. 25) (i) the other agreements are each chargeable with stamp duty of $100; and (ii) notwithstanding paragraph (a) and section 29C(11), the time for stamping each of the other agreements is not later than 30 days after it was executed (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22)
+*Note 3 Subject to Note 2, if 2 or more agreements for sale are made between the same parties and on the same terms— (a) for the purposes of Part IIIA and this sub-head, all of the agreements are deemed to be made on the relevant date (within the meaning of section 29B(3)); and (b) where any of the agreements is duly stamped or stamped under section 5(1), 13(2) or 18E(1)— (Amended 21 of 2003 s. 25; 14 of 2011 s. 15) (i) the other agreements are each chargeable with stamp duty of $100; and (ii) notwithstanding paragraph (a), the time for stamping each of the other agreements is not later than 30 days after it was executed (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22. Amended 14 of 2011 s. 15)
 
 Note 4 Where 2 agreements for sale are made in respect of the same, or part of the same, property and involve a common purchaser (but are not made between the same parties), this sub-head is subject to section 29C(5)
 
@@ -102,7 +102,7 @@ Note 5 For the purposes of Notes 2, 3 and 4, a person and a parent, spouse or ch
 
 (1B) AGREEMENT FOR SALE CHARGEABLE WITH SPECIAL STAMP DUTY
 
-(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) (a) 15% of the amount or value of the consideration
+(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A)(a) 15% of the amount or value of the consideration
 
 (b) if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) 10% of the amount or value of the consideration
 
@@ -124,7 +124,7 @@ Note 1 This sub-head is subject to sections 29C and 29CA Note 2 (a) If only part
 
 (b) where the consideration or any part of the consideration is any rent
 
-(i) where the term is not defined or is uncertain; | (A) (i) 25 cents for every $100 or part thereof of the yearly or average yearly rent
+(i) where the term is not defined or is uncertain; | (A)(i) 25 cents for every $100 or part thereof of the yearly or average yearly rent
 
 (ii) where the term specified in the lease does not exceed one year; | (ii) 25 cents for every $100 or part thereof of the total rent payable over the term of the lease
 
