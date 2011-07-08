@@ -97,6 +97,7 @@ s-093.md
 s-094.md
 s-095.md
 s-096.md
+s-096A.md
 s-097.md
 s-098.md
 s-099.md
