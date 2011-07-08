@@ -6,21 +6,21 @@
 
 - 2. Caritas Medical Centre Mortuary
 
-- 3. Castle Peak Hospital Mortuary
+- 3. Fu Shan Public Mortuary
 
-- 4. Fu Shan Public Mortuary
+- 4. Grantham Hospital Mortuary
 
-- 5. Grantham Hospital Mortuary
+- 5. Kowloon Public Mortuary
 
-- 6. Kowloon Hospital Mortuary
+- 6. Kwai Chung Public Mortuary
 
-- 7. Kowloon Public Mortuary
+- 7. Kwong Wah Hospital Mortuary
 
-- 8. Kwai Chung Hospital Mortuary
+- 8. North District Hospital Mortuary
 
-- 9. Kwong Wah Hospital Mortuary
+- 9. Pamela Youde Nethersole Eastern Hospital Mortuary
 
-- 10. Pamela Youde Nethersole Eastern Hospital Mortuary
+- 10. Pok Oi Hospital Mortuary
 
 - 11. Prince of Wales Hospital Mortuary
 
@@ -32,7 +32,7 @@
 
 - 15. Ruttonjee Hospital Mortuary
 
-- 16. (Repealed L.N. 101 of 2000)
+- 16. Tseung Kwan O Hospital Mortuary
 
 - 17. Tuen Mun Hospital Mortuary
 
@@ -40,10 +40,4 @@
 
 - 19. Victoria Public Mortuary
 
-- 20. Yan Chai Hospital Mortuary
-
-- 21. North District Hospital Mortuary (L.N. 67 of 1998)
-
-- 22. Tseung Kwan O Hospital Mortuary (L.N. 286 of 1999)
-
-- 23. Kwai Chung Public Mortuary (L.N. 140 of 2005)
+- 20. Yan Chai Hospital Mortuary (Schedule replaced L.N. 81 of 2011)
