@@ -676,6 +676,8 @@ THE POISONS LIST
 
 - Clotrimazole; its salts
 
+- Clozapine; its salts
+
 - Colaspase
 
 - Colfosceril; its salts
@@ -754,6 +756,8 @@ THE POISONS LIST
 
 - Tyropanoic acid
 
+- Corifollitropin alfa
+
 - Corticorelin; its salts
 
 - Corticotrophins
@@ -813,6 +817,8 @@ THE POISONS LIST
 - Dehydroemetine; its salts
 
 - Demecarium bromide
+
+- Denosumab
 
 - Desferrioxamine; its salts
 
@@ -1073,6 +1079,8 @@ THE POISONS LIST
 - Fentanyl; its salts
 
 - Fentiazac; its salts
+
+- Fenticonazole; its salts
 
 - Feprazone
 
@@ -2032,6 +2040,8 @@ THE POISONS LIST
 
 - Protriptyline; its salts; its derivatives; their salts
 
+- Prulifloxacin; its salts; its esters; their salts
+
 - Pseudoephedrine; its salts
 
 - Pyrazinamide
@@ -2071,6 +2081,8 @@ THE POISONS LIST
 - Ramipril; its salts
 
 - Ranibizumab
+
+- Rasagiline; its salts
 
 - Rasburicase; its salts
 
@@ -2121,6 +2133,10 @@ THE POISONS LIST
 - Rocuronium; its salts
 
 - Rofecoxib; its salts
+
+- Roflumilast; its salts
+
+- Romiplostim
 
 - Ropinirole; its salts
 
@@ -2250,7 +2266,7 @@ THE POISONS LIST
 
 - Terazosin; its salts
 
-- Terbinafine; its salts
+- Terbinafine; its salts; except when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled for the treatment of tinea pedis and/or tinea cruris only
 
 - Terbutaline; its salts
 
@@ -2534,7 +2550,7 @@ THE POISONS LIST
 
   - 70%, weight in weight, of sulphuric acid
 
-  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005; L.N. 213 of 2005; L.N. 26 of 2006; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 224 of 2006; L.N. 278 of 2006; L.N. 42 of 2007; L.N. 99 of 2007; L.N. 144 of 2007; L.N. 209 of 2007; L.N. 240 of 2007; L.N. 62 of 2008; L.N. 114 of 2008; L.N. 198 of 2008; L.N. 235 of 2008; L.N. 283 of 2008; L.N. 91 of 2009; L.N. 148 of 2009; L.N. 200 of 2009; L.N. 259 of 2009; L.N. 12 of 2010; L.N. 33 of 2010; L.N. 82 of 2010; L.N. 105 of 2010; L.N. 141 of 2010; L.N. 24 of 2011)
+  - (L.N. 138 of 1978; L.N. 370 of 1980; L.N. 416 of 1984; L.N. 130 of 1986; L.N. 131 of 1987; L.N. 198 of 1989; L.N. 129 of 1990; L.N. 440 of 1993; L.N. 263 of 1995; L.N. 131 of 1998; L.N. 23 of 1999; L.N. 203 of 1999; L.N. 31 of 2000; L.N. 139 of 2000; L.N. 236 of 2000; L.N. 297 of 2000; L.N. 52 of 2001; L.N. 144 of 2001; L.N. 174 of 2001; L.N. 288 of 2001; L.N. 57 of 2002; L.N. 113 of 2002; L.N. 133 of 2002; L.N. 171 of 2002; L.N. 238 of 2002; L.N. 74 of 2003; L.N. 180 of 2003; L.N. 182 of 2003; L.N. 274 of 2003; L.N. 277 of 2003; L.N. 29 of 2004; L.N. 75 of 2004; L.N. 136 of 2004; L.N. 192 of 2004; L.N. 12 of 2005; L.N. 73 of 2005; L.N. 115 of 2005; L.N. 213 of 2005; L.N. 26 of 2006; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 224 of 2006; L.N. 278 of 2006; L.N. 42 of 2007; L.N. 99 of 2007; L.N. 144 of 2007; L.N. 209 of 2007; L.N. 240 of 2007; L.N. 62 of 2008; L.N. 114 of 2008; L.N. 198 of 2008; L.N. 235 of 2008; L.N. 283 of 2008; L.N. 91 of 2009; L.N. 148 of 2009; L.N. 200 of 2009; L.N. 259 of 2009; L.N. 12 of 2010; L.N. 33 of 2010; L.N. 82 of 2010; L.N. 105 of 2010; L.N. 141 of 2010; L.N. 24 of 2011; L.N. 128 of 2011)
 
 - PART II DIVISION A (L.N. 42 of 2007)
 
@@ -2622,6 +2638,8 @@ THE POISONS LIST
 
 - Tretoquinol; its salts Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols.
 
+- Terbinafine; its salts; when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled for the treatment of tinea pedis and/or tinea cruris only
+
   - DIVISION B (L.N. 42 of 2007) Ammonia gamma-Benzene hexachloride (1, 2, 3, 4, 5, 6-hexachlorocyclohexane) Diamines, the following; their salts— Phenylene diamines; toluene diamines; other alkylated-benzene diamines Formaldehyde
 
   - Formic acid
@@ -2636,4 +2654,4 @@ THE POISONS LIST
 
   - Potassium hydroxide Products retailed in the form as supplied by the manufacturer, containing a poison listed in Division B of Part I of this List, where the proportion of such poison does not exceed the equivalent of 0.1% Sodium hydroxide
 
-  - Sodium nitrite (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999; L.N. 139 of 2000; L.N. 57 of 2002; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 42 of 2007; L.N. 209 of 2007; L.N. 235 of 2008)
+  - Sodium nitrite (L.N. 138 of 1978; L.N. 263 of 1995; L.N. 23 of 1999; L.N. 139 of 2000; L.N. 57 of 2002; L.N. 123 of 2006; L.N. 179 of 2006; L.N. 42 of 2007; L.N. 209 of 2007; L.N. 235 of 2008; L.N. 128 of 2011)
