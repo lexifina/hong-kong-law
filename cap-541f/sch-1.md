@@ -4,13 +4,7 @@
 
 POSTPONEMENT AND ADJOURNMENT OF ORDINARY ELECTION AND BY-ELECTIONS
 
-- 1.
-
-- Postponement of an ordinary election and
-
-- adjournment of poll at all polling stations
-
-- or count at all counting stations
+- 1. Postponement of an ordinary election and adjournment of poll at all polling stations or count at all counting stations
 
   - (1) If, before the holding of an ordinary election, it appears to the Commission that the election is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (3), the Commission may postpone the holding of the election by making a declaration under section 4.
 
@@ -22,11 +16,7 @@ POSTPONEMENT AND ADJOURNMENT OF ORDINARY ELECTION AND BY-ELECTIONS
 
     - (b) an occurrence which appears to the Commission to be a material irregularity relating to the election, the poll or count.
 
-- 2.
-
-- Postponement of election, adjournment of poll or
-
-- count in respect of a single constituency
+- 2. Postponement of election, adjournment of poll or count in respect of a single constituency
 
   - (1) If, during or before an ordinary election or by-election, it appears to the Commission that the election for a constituency is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (3), the Commission may postpone the election or by-election for the constituency by making a declaration under section 4.
 
@@ -40,11 +30,13 @@ POSTPONEMENT AND ADJOURNMENT OF ORDINARY ELECTION AND BY-ELECTIONS
 
     - (c) an occurrence which appears to the Commission to be a material irregularity relating to the election, the poll or count.
 
-- 3. Adjournment of poll at a particular polling station
+- 3. Adjournment of poll or count at a particular station (L.N. 74 of 2011)
 
   - (1) If, at any time during polling at an ordinary election or by-election, it appears to the Presiding Officer that the poll at the polling station is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (2), the Presiding Officer may adjourn the poll at that polling station by making a declaration under section 4.
 
-  - (2) The occurrences for the purposes of subsection (1) are—
+  - (1A) If, at any time during counting at an ordinary election or by-election, it appears to the Presiding Officer that the count at the counting station is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (2), the Presiding Officer may adjourn the count at the counting station by making a declaration under section 4. (L.N. 74 of 2011)
+
+  - (2) The occurrences for the purposes of subsections (1) and (1A) are— (L.N. 74 of 2011)
 
     - (a) a typhoon or other climatic condition of a serious nature;
 
@@ -52,11 +44,7 @@ POSTPONEMENT AND ADJOURNMENT OF ORDINARY ELECTION AND BY-ELECTIONS
 
     - (c) an occurrence which appears to the Presiding Officer to be a material irregularity relating to the election, the poll or count.
 
-- 4.
-
-- How a declaration for the purposes of sections 1, 2
-
-- and 3 is to be made and what it is to contain
+- 4. How a declaration for the purposes of sections 1, 2 and 3 is to be made and what it is to contain
 
   - (1) A declaration for the purposes of sections 1, 2 and 3 is to be made by a notice published in the Gazette. If publication in the Gazette is not practicable in the circumstances, the notice may be published by other means determined by the Commission.
 
@@ -86,11 +74,7 @@ POSTPONEMENT AND ADJOURNMENT OF ORDINARY ELECTION AND BY-ELECTIONS
 
   - (5) If a poll is adjourned under this Schedule or section 38 of the District Councils Ordinance (Cap. 547), the polling hours appointed for the resumed poll must be such that the total time allowed for polling (that is the aggregate of the polling hours which had been spent at the time the poll was adjourned and the polling hours appointed for the resumed poll) is not less than the total time that would have been allowed for polling had the poll not been adjourned.
 
-- 6.
-
-- Procedure after adjournment or
-
-- postponement of a count
+- 6. Procedure after adjournment or postponement of a count
 
   - (1) If a count is adjourned under this Schedule or section 38 of the District Councils Ordinance (Cap. 547), or if the count is adjourned due to the postponement of a poll under this Schedule, the Presiding Officer must comply with this section.
 
@@ -102,13 +86,7 @@ POSTPONEMENT AND ADJOURNMENT OF ORDINARY ELECTION AND BY-ELECTIONS
 
 - (L.N. 125 of 2003)
 
-- 7.
-
-- Appointment of a date by Commission
-
-- for election, polling or counting after
-
-- a postponement or an adjournment
+- 7. Appointment of a date by Commission for election, polling or counting after a postponement or an adjournment
 
   - (1) If an ordinary election or by-election is postponed under this Schedule, the Commission is to, as soon as practicable after the postponement, appoint a date for holding an ordinary election or by-election, as may be appropriate.
 
