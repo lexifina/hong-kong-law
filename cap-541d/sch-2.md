@@ -4,11 +4,7 @@
 
 POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
-- 1. Postponement of a general election and adjournment
-
-- of poll at all polling stations or count at
-
-- all counting stations
+- 1. Postponement of a general election and adjournment of poll at all polling stations or count at all counting stations
 
   - (1) If, before the holding of a general election, it appears to the Commission that the election is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (3), the Commission may postpone the holding of the election by making a declaration under section 4.
 
@@ -20,13 +16,7 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
     - (b) an occurrence which appears to the Commission to be a material irregularity relating to the election, the poll or count.
 
-- 2.
-
-- Postponement of election, adjournment of poll or count
-
-- in respect of a single constituency
-
-- (L.N. 84 of 2004)
+- 2. Postponement of election, adjournment of poll or count in respect of a single constituency (L.N. 84 of 2004)
 
   - (1) If, during or before a general election or by-election, it appears to the Commission that the election for a constituency is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (3), the Commission may postpone the election or by-election for the constituency by making a declaration under section 4.
 
@@ -42,11 +32,13 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
 - (L.N. 84 of 2004)
 
-- 3. Adjournment of poll at a particular polling station
+- 3. Adjournment of poll or count at a particular station (L.N. 73 of 2011)
 
   - (1) If, at any time during polling at a general election or by-election, it appears to the Presiding Officer that the poll at the polling station is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (2), the Presiding Officer may adjourn the poll at that polling station by making a declaration under section 4.
 
-  - (2) The occurrences for the purposes of subsection (1) are—
+  - (1A) If, at any time during counting at a general election or by-election, it appears to the Presiding Officer that the count at the counting station is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (2), the Presiding Officer may adjourn the count at the counting station by making a declaration under section 4. (L.N. 73 of 2011)
+
+  - (2) The occurrences for the purposes of subsections (1) and (1A) are— (L.N. 73 of 2011)
 
     - (a) a typhoon or other climatic condition of a serious nature;
 
@@ -54,9 +46,7 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
     - (c) an occurrence which appears to the Presiding Officer to be a material irregularity relating to the election, the poll or count.
 
-- 4. How a declaration for the purposes of sections 1, 2
-
-- and 3 is to be made and what it is to contain
+- 4. How a declaration for the purposes of sections 1, 2 and 3 is to be made and what it is to contain
 
   - (1) A declaration for the purposes of sections 1, 2 and 3 is to be made by a notice published in the Gazette. If publication in the Gazette is not practicable in the circumstances, the notice may be published by other means determined by the Commission.
 
@@ -100,9 +90,7 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
 - (L.N. 84 of 2004)
 
-- 7. Appointment of a date by Commission for election, polling or
-
-- counting after a postponement or an adjournment
+- 7. Appointment of a date by Commission for election, polling or counting after a postponement or an adjournment
 
   - (1) If a general election or by-election is postponed under this Schedule, the Commission is to, as soon as practicable after the postponement, appoint a date for holding a general election or by-election, as may be appropriate. (L.N. 84 of 2004)
 
