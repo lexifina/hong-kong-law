@@ -118,7 +118,7 @@ Item | Enactment | Provision
 
 63. | District Councils Ordinance (Cap. 547) | Sections 15(1), 23(1), 25(1), 34(1)(b), 35(2) and 63(1) and Schedule 5, section 2
 
-64. | Election (Corrupt and Illegal Conduct) Ordinance (Cap. 554) | Section 37(1) and (2) (L.N. 167 of 2000)
+64. | Election (Corrupt and Illegal Conduct) Ordinance (Cap. 554) | Sections 37(1) and (2) and 37A(4) and (6) (L.N. 167 of 2000; 18 of 2011 s. 50)
 
 65. | Chief Executive Election Ordinance (Cap. 569) | Sections 16(2) and (7), 31(1), 33(1) and 34(2) and the Schedule, sections 3(3), 13(6) and 21(2) (21 of 2001 s. 75)
 

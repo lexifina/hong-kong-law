@@ -35,6 +35,7 @@ s-033.md
 s-034.md
 s-035.md
 s-036.md
+s-036A.md
 s-037.md
 s-038.md
 s-039.md
@@ -44,6 +45,8 @@ s-042.md
 s-043.md
 s-044.md
 s-045.md
+s-045A.md
+s-045B.md
 s-046.md
 s-047.md
 s-048.md

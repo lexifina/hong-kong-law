@@ -90,6 +90,7 @@ s-055.md
 s-056.md
 s-057.md
 s-058.md
+s-058A.md
 s-059.md
 s-060.md
 s-060A.md
@@ -112,6 +113,8 @@ s-067.md
 s-068.md
 s-069.md
 s-070.md
+s-070A.md
+s-070B.md
 s-071.md
 s-072.md
 s-073.md

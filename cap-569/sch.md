@@ -388,7 +388,7 @@ ELECTION COMMITTEE
 
   - (c) industrial training centres established under the Industrial Training (Clothing Industry) Ordinance (Cap. 318);
 
-  - (d) Hong Chi Association-Hong Chi Pinehill Advanced Training Centre; (Replaced 25 of 2003 s. 56)
+  - (d) Hong Chi Association-Hong Chi Pinehill Integrated Vocational Training Centre; (Replaced 18 of 2011 s. 52)
 
   - (e) Caritas Lok Mo Integrated Vocational Training Centre of Caritas-Hong Kong incorporated under the Caritas-Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
 
@@ -566,9 +566,7 @@ ELECTION COMMITTEE
 
       - (b) if a later date is specified in the notice, on that later date.
 
-  - 4. Electoral Registration Officer to compile and
-
-  - publish provisional register
+  - 4. Electoral Registration Officer to compile and publish provisional register
 
     - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations a provisional register of members of the Election Committee within 14 days after the making of a vacancy declaration. (Amended 10 of 2006 s. 31)
 
@@ -614,11 +612,7 @@ ELECTION COMMITTEE
 
   - (Amended 10 of 2006 s. 31)
 
-  - 5. Supplementary nomination or subsector
-
-  - by-election to be held to fill vacancy in
-
-  - membership of Election Committee
+  - 5. Supplementary nomination or subsector by-election to be held to fill vacancy in membership of Election Committee
 
     - (1) As soon as practicable after the Electoral Registration Officer has published a provisional register of members of the Election Committee, the Electoral Affairs Commission—
 
@@ -740,9 +734,7 @@ ELECTION COMMITTEE
 
     - (e) is a member of the armed forces of the People’s Republic of China or any other country or territory.
 
-  - 10. Application of the Elections (Corrupt and
-
-  - Illegal Conduct) Ordinance The Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) applies, with any necessary modifications, to and in relation to the selection and nomination of persons to be members of the Election Committee under section 7 in the same way as it applies to and in relation to a subsector election and so applies as if the persons selected or nominated were candidates at a subsector election.
+  - 10. Application of the Elections (Corrupt and Illegal Conduct) Ordinance The Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) applies, with any necessary modifications, to and in relation to the selection and nomination of persons to be members of the Election Committee under section 7 in the same way as it applies to and in relation to a subsector election and so applies as if the persons selected or nominated were candidates at a subsector election.
 
 - PART 4 SUBSECTOR ELECTION
 
@@ -968,9 +960,7 @@ ELECTION COMMITTEE
 
       - (7) The Electoral Registration Officer may refuse an application made under subsection (6) only on the ground that the authorized representative specified in the application is ineligible to be, or is disqualified from being, such a representative.
 
-    - 14. Electoral Registration Officer to compile
-
-    - and publish a register of voters
+    - 14. Electoral Registration Officer to compile and publish a register of voters
 
       - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
 
@@ -1020,9 +1010,7 @@ ELECTION COMMITTEE
 
       - (2) The Chief Executive may specify different dates to hold different subsector ordinary elections.
 
-    - 17. Who is eligible to be nominated as a candidate
-
-    - at a subsector election
+    - 17. Who is eligible to be nominated as a candidate at a subsector election
 
       - (1) A person is eligible to be nominated as a candidate at a subsector election for a subsector only if the person—
 
@@ -1048,9 +1036,7 @@ ELECTION COMMITTEE
 
         - (b) the person is a member of the Election Committee.
 
-    - 18. When a person is disqualified from
-
-    - being a subsector candidate A person is disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if the person—
+    - 18. When a person is disqualified from being a subsector candidate A person is disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if the person—
 
       - (a) has ceased to have a substantial connection with the subsector concerned;
 
@@ -1076,9 +1062,7 @@ ELECTION COMMITTEE
 
       - (g) is a member of the armed forces of the People’s Republic of China or any other country or territory.
 
-    - 18A. When a person is disqualified from being a candidate
-
-    - for 4 subsectors in the Fourth Sector
+    - 18A. When a person is disqualified from being a candidate for 4 subsectors in the Fourth Sector
 
       - (1) This section is without prejudice to section 18.
 
@@ -1122,9 +1106,7 @@ ELECTION COMMITTEE
 
       - (2) The deposit is to be of such an amount as prescribed by the regulations for the purposes of this section and is to be disposed of as provided by the regulations.
 
-    - 20. Person not to be nominated for more
-
-    - than one subsector A person who is nominated as a candidate for a subsector at a subsector election is not eligible to be nominated as a candidate at another subsector election that is to be held on the same day or if the nomination periods for the elections coincide or partly coincide.
+    - 20. Person not to be nominated for more than one subsector A person who is nominated as a candidate for a subsector at a subsector election is not eligible to be nominated as a candidate at another subsector election that is to be held on the same day or if the nomination periods for the elections coincide or partly coincide.
 
     - 21. Withdrawal of candidature
 
@@ -1132,19 +1114,13 @@ ELECTION COMMITTEE
 
       - (2) The withdrawal of such a candidate’s candidature has effect only if it is in writing signed by the candidate and complies with the EAC Regulations.
 
-    - 22. Who are validly nominated candidates
-
-    - for subsector election
+    - 22. Who are validly nominated candidates for subsector election
 
       - (1) The Returning Officer for a subsector shall, as soon as practicable after receiving a nomination form that complies with the EAC Regulations, decide in accordance with those Regulations whether or not a person is validly nominated as a candidate at the subsector election.
 
       - (2) The Returning Officer for a subsector shall, in accordance with the EAC Regulations, publish a notice stating which persons are validly nominated as candidates at the subsector election.
 
-    - 23. Death or disqualification of a validly
-
-    - nominated candidate before date
-
-    - of subsector election
+    - 23. Death or disqualification of a validly nominated candidate before date of subsector election
 
       - (1) If, after the Returning Officer has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Returning Officer that the candidate has died, that Officer shall, in accordance with the EAC Regulations, give notice of the death.
 
@@ -1166,9 +1142,7 @@ ELECTION COMMITTEE
 
       - (6) Subsections (4) and (5) do not apply if the Returning Officer has publicly declared under section 25(1) that the candidate was duly elected as a member of the Election Committee.
 
-    - 24. When holding of a subsector election
-
-    - can be postponed or adjourned
+    - 24. When holding of a subsector election can be postponed or adjourned
 
       - (1) The Electoral Affairs Commission may by order direct the postponement of a subsector election if, before that election is held, the Commission is of the opinion that the election is likely to be obstructed, disrupted, undermined or seriously affected by riot or open violence or any other occurrence of public danger.
 
@@ -1178,9 +1152,7 @@ ELECTION COMMITTEE
 
       - (4) If the subsector election, or polling or counting of votes at the subsector election, is directed to be postponed or adjourned under this section, the Electoral Affairs Commission shall specify a date for the holding of the subsector election, or the polling or counting, in place of the postponed subsector election or the adjourned polling or counting. The Electoral Affairs Commission shall give notice of that date in the Gazette. That date is to be not later than 14 days from the date on which the election, polling or counting of votes would have taken place but for the direction.
 
-    - 25. What is to happen if insufficient number of
-
-    - candidates is nominated for a subsector
+    - 25. What is to happen if insufficient number of candidates is nominated for a subsector
 
       - (1) If—
 
@@ -1200,9 +1172,7 @@ ELECTION COMMITTEE
 
       - the Returning Officer concerned shall, by notice published in the Gazette, declare that the number of members of the Election Committee returned at the subsector election for the subsector is less than the number of members to be returned at the election.
 
-    - 26. Death or disqualification of a validly nominated
-
-    - candidate before declaration of election result
+    - 26. Death or disqualification of a validly nominated candidate before declaration of election result
 
       - (1) If, on or after the date of a subsector election but before declaring the result of the subsector election, proof is given to the satisfaction of the Returning Officer concerned that a validly nominated candidate for the subsector election has died or is disqualified from being elected, the proceedings for the subsector election are to begin (if they have not begun) or to continue (if they have begun) as if the death or disqualification had not occurred.
 
@@ -1262,9 +1232,7 @@ ELECTION COMMITTEE
 
       - (9) If there is another candidate or there are other candidates at the subsector election who has not or have not been returned for the subsector, the candidate is to be returned or the candidate who obtains the greatest number of votes is to be returned (subject to that candidate’s being not disqualified from being elected) in place of the deceased or disqualified candidate. In that case, the Returning Officer concerned shall publicly declare the candidate so returned to be elected.
 
-    - 30. When a voter is disqualified from voting at
-
-    - subsector election
+    - 30. When a voter is disqualified from voting at subsector election
 
       - (1) A person registered as a voter for a subsector is disqualified from voting at a subsector election for that subsector, if the person—
 
@@ -1278,9 +1246,7 @@ ELECTION COMMITTEE
 
       - (2) This section applies to an authorized representative of a corporate voter in the same way as it applies to a voter who is a natural person.
 
-    - 31. Consequences of non-compliance with
-
-    - requirements of this Schedule In any proceedings brought to question the validity of a subsector election, the Revising Officer shall not declare the election to be invalid only because of—
+    - 31. Consequences of non-compliance with requirements of this Schedule In any proceedings brought to question the validity of a subsector election, the Revising Officer shall not declare the election to be invalid only because of—
 
       - (a) a failure to comply with the regulations or with the EAC Regulations; or
 
@@ -1288,9 +1254,7 @@ ELECTION COMMITTEE
 
       - if the Revising Officer is satisfied on reasonable grounds that the conduct of the election was in accordance with the principles laid down in this Schedule and the Electoral Affairs Commission Ordinance (Cap. 541) and that the failure to comply or mistake did not affect the result of the election.
 
-    - 32. Misnomer or inaccuracy not to affect operation
-
-    - of election document
+    - 32. Misnomer or inaccuracy not to affect operation of election document
 
       - (1) A misnomer or inaccurate description of a person, a person’s identity document or place specified in a document to which this section applies does not limit the full operation of the document with respect to that person, identity document or place if the description of the person, identity document or place is such as to be commonly understood.
 
@@ -1310,23 +1274,15 @@ ELECTION COMMITTEE
 
     - 33. Subsector election to be presumed valid Every subsector election is presumed to be valid, unless it is questioned by means of an appeal lodged with a Revising Officer within the period during which an appeal can be made to a Revising Officer under section 39 and the Officer, on the hearing of an appeal, determines that the election is invalid.
 
-    - 34. Subsector election not to be questioned
+    - 34. Subsector election not to be questioned only because of defect in appointment of electoral officer A subsector election is not to be questioned only because of a defect in the appointment of an electoral officer who is responsible for conducting the subsector election.
 
-    - only because of defect in appointment
-
-    - of electoral officer A subsector election is not to be questioned only because of a defect in the appointment of an electoral officer who is responsible for conducting the subsector election.
-
-    - 35. Returning Officer to publish result of
-
-    - subsector election
+    - 35. Returning Officer to publish result of subsector election
 
       - (1) The Returning Officer shall publish in the Gazette the names of the persons duly elected as members of the Election Committee at a subsector election.
 
       - (2) The publication of a notice shall be in accordance with the EAC Regulations.
 
-    - 36. Offences by Returning Officers and others with
-
-    - respect to conduct of subsector election
+    - 36. Offences by Returning Officers and others with respect to conduct of subsector election
 
       - (1) Any person holding office as a Returning Officer or an Assistant Returning Officer at a subsector election who neglects or refuses to perform the functions of that office in relation to such an election commits an offence and is liable on conviction to a fine at level 2.
 
@@ -1334,9 +1290,7 @@ ELECTION COMMITTEE
 
       - (3) A person is not to be liable to conviction under this section unless the complaint or information alleging the offence is laid within 3 months after the date of the alleged commission of the offence.
 
-    - 37. Voter not to be required to disclose
-
-    - how vote was cast
+    - 37. Voter not to be required to disclose how vote was cast
 
       - (1) A voter who is asked to disclose the name of, or any particulars relating to, the subsector candidate for whom the voter voted at a subsector election is not required to answer the question.
 
@@ -1350,9 +1304,7 @@ ELECTION COMMITTEE
 
   - Division 4-Miscellaneous
 
-    - 38. Subsector candidates entitled to send
-
-    - letters to voters free of postage
+    - 38. Subsector candidates entitled to send letters to voters free of postage
 
       - (1) A validly nominated candidate at a subsector election is entitled to send free of postage one letter addressed to each voter whose name appears in the subsector final register for the subsector for which the candidate is nominated.
 
@@ -1360,9 +1312,7 @@ ELECTION COMMITTEE
 
       - (3) The cost to the Postmaster General of enabling subsector candidates to exercise their entitlements under this section is a charge on, and is to be met from, the general revenue.
 
-    - 39. Subsector election may be questioned only
-
-    - by appeal to Revising Officer
+    - 39. Subsector election may be questioned only by appeal to Revising Officer
 
       - (1) A person claiming to be a candidate at a subsector election may appeal against the result to a Revising Officer in accordance with the regulations.
 
@@ -1378,9 +1328,7 @@ ELECTION COMMITTEE
 
 - PART 5 INTERIM REGISTER AND FINAL REGISTER OF MEMBERS OF ELECTION COMMITTEE (Amended 10 of 2006 s. 21)
 
-  - 40. Electoral Registration Officer to compile and
-
-  - publish interim register and final register (Amended 10 of 2006 s. 21)
+  - 40. Electoral Registration Officer to compile and publish interim register and final register (Amended 10 of 2006 s. 21)
 
     - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations— (Amended 10 of 2006 s. 21; 1 of 2011 s. 15)
 
@@ -1408,9 +1356,7 @@ ELECTION COMMITTEE
 
     - the Electoral Registration Officer shall, as soon as practicable after the Electoral Affairs Commission’s ascertainment, publish in accordance with the EAC Regulations the provisional register as a final register of members of the Election Committee.
 
-  - 41. Electoral Registration Officer to amend interim register or final register
-
-  - to give effect to change in ex-officio membership (Amended 10 of 2006 s. 21)
+  - 41. Electoral Registration Officer to amend interim register or final register to give effect to change in ex-officio membership (Amended 10 of 2006 s. 21)
 
     - (1) The Electoral Registration Officer may from time to time amend the interim register of members of the Election Committee or final register of members of the Election Committee in accordance with this section and the EAC Regulations to give effect to any change in the ex-officio membership of the Election Committee.
 
@@ -1432,9 +1378,7 @@ ELECTION COMMITTEE
 
   - (Amended 10 of 2006 s. 21)
 
-  - 42. Electoral Registration Officer may
-
-  - amend register
+  - 42. Electoral Registration Officer may amend register
 
     - (1) The Electoral Registration Officer may amend a provisional register, interim register or final register of members of the Election Committee so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
 
@@ -1456,9 +1400,7 @@ ELECTION COMMITTEE
 
 - PART 6 MISCELLANEOUS
 
-  - 44. Appointment of Electoral Registration
-
-  - Officer and assistants
+  - 44. Appointment of Electoral Registration Officer and assistants
 
     - (1) The Chief Executive shall appoint an Electoral Registration Officer and such number of Assistant Electoral Registration Officers as appears to the Chief Executive to be necessary for the purposes of registering persons as members of the Election Committee and as voters at subsector elections.
 
@@ -1498,9 +1440,7 @@ ELECTION COMMITTEE
 
     - (6) Expenses properly incurred by a Returning Officer in the performance of that Officer’s functions under this Schedule or the Electoral Affairs Commission Ordinance (Cap. 541) are a charge on, and are payable from, the general revenue.
 
-  - 48. Right of appeal to Revising Officer against
-
-  - decisions of Electoral Registration Officer
+  - 48. Right of appeal to Revising Officer against decisions of Electoral Registration Officer
 
     - (1) A person who is dissatisfied with a decision of the Electoral Registration Officer made for the purposes of this Schedule may appeal against the decision to a Revising Officer.
 
