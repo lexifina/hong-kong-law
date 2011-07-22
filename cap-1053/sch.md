@@ -658,7 +658,7 @@ ARRANGEMENT OF STATUTES
 
 - STATUTE XII THE TEACHERS OF THE UNIVERSITY
 
-  - 1. In addition to the persons designated as such by the Ordinance, the senior lecturers, the assistant lecturers, the appointed Deans of Faculties and the Heads and Deputy Heads of the Institutes, Schools, Centres and Units and other subdivisions of Studies and Learning appointed under the provisions of Statute XXV shall be teachers. (L.N. 72 of 1993; L.N. 123 of 1994; L.N. 299 of 1998)
+  - 1. In addition to the persons designated as such by the Ordinance, the appointed Deans of Faculties and the Heads and Deputy Heads of the Institutes, Schools, Centres and Units and other subdivisions of Studies and Learning appointed under the provisions of Statute XXV shall be teachers. (L.N. 72 of 1993; L.N. 123 of 1994; L.N. 299 of 1998; 20 of 2011 s. 4)
 
   - 2. The teachers whose services are exclusively at the disposal of the University shall not during the tenure of their appointments engage in outside practice for reward without the consent of the Council.
 
@@ -812,7 +812,7 @@ ARRANGEMENT OF STATUTES
 
 - STATUTE XIX POWERS OF THE COUNCIL
 
-  - 1. The Council shall administer the affairs of the University other than those vested by the Ordinance or the statutes in some other authority of the University or in an officer.
+  - 1. The Council may exercise all the powers and is to perform all the duties of the University other than those vested or imposed by the Ordinance or the statutes in some other authority of the University or in an officer. (20 of 2011 s. 4)
 
   - 2. Notwithstanding the generality of the powers vested in the Council by paragraph 1 and subject to the provisions of the Ordinance and the statutes, the Council shall have power—
 
@@ -866,7 +866,7 @@ ARRANGEMENT OF STATUTES
 
     - (r) to delegate any of its powers to any member of the Council or to any committee thereof or to any officer or teacher;
 
-    - (s) to do all such other acts and things as may be requisite to perform any duty which the Court may delegate to the Council or to give effect to the powers conferred on the Council by the Ordinance or the statutes.
+    - (s) to do all such acts and things and perform all such duties as may be necessary for or incidental to exercising the powers or performing the duties vested or imposed on the Council by the Ordinance or the statutes. (20 of 2011 s. 4)
 
   - 3.
 
@@ -1104,7 +1104,7 @@ ARRANGEMENT OF STATUTES
 
       - (a) the Chancellor, the Vice-Chancellor, the Deputy Vice-Chancellor, the Pro-Vice-Chancellors, the Treasurer, the Deans of the Faculties, the Dean of Student Affairs and the Registrar; (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 82 of 1979; L.N. 167 of 1992; L.N. 72 of 1993; L.N. 165 of 1999)
 
-      - (b) the professors, readers, lecturers, tutors and demonstrators of the University;
+      - (b) the Chairs, Professors, Associate Professors, Assistant Professors, Readers, Senior Lecturers, Lecturers, Assistant Lecturers, Tutors and Demonstrators of the University; (20 of 2011 s. 4)
 
       - (c) graduates of the University registered in accordance with regulations made by the Council. (L.N. 112 of 1969)
 
