@@ -106,20 +106,6 @@ Section | Designated Authorities
 
 78 | Director of Food and Environmental Hygiene
 
-78B | Director of Food and Environmental Hygiene
-
-78E | Director of Food and Environmental Hygiene
-
-78F | Director of Food and Environmental Hygiene
-
-78G | Director of Food and Environmental Hygiene
-
-78H | Director of Food and Environmental Hygiene
-
-78I | Director of Food and Environmental Hygiene
-
-78K | Director of Food and Environmental Hygiene
-
 79(1), (3) and (5) | Director of Food and Environmental Hygiene
 
 79A | Director of Food and Environmental Hygiene
@@ -268,4 +254,4 @@ Section | Designated Authorities
 
 128D | Director of Food and Environmental Hygiene
 
-(Schedule 3 replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002; 1 of 2002 s. 4; L.N. 130 of 2007; 3 of 2009 s. 3)
+(Schedule 3 replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002; 1 of 2002 s. 4; L.N. 130 of 2007; 3 of 2009 s. 3; 5 of 2011 s. 71)

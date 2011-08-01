@@ -82,14 +82,6 @@ Section | Penalty | Daily penalty
 
 72(1) or (2) | level 5 and 6 months imprisonment | -
 
-78D(1) | level 6 and 12 months imprisonment | -
-
-78E(3) | level 3 and 3 months imprisonment | -
-
-78F(2) | level 3 and 3 months imprisonment | -
-
-78I(3) | level 5 and 6 months imprisonment | -
-
 81(2) | level 1 | -
 
 83B(3) | level 2 and 1 month imprisonment (first conviction) level 3 and 6 months imprisonment (second or subsequent conviction) | $ 300 fine $ 300 fine
@@ -154,4 +146,4 @@ Section | Penalty | Daily penalty
 
 139 | level 4 and 6 months imprisonment | ─
 
-(Replaced L.N. 177 of 1996. Amended 78 of 1999 s. 7; 1 of 2002 s. 7; 9 of 2006 s. 3; 3 of 2009 s. 5)
+(Replaced L.N. 177 of 1996. Amended 78 of 1999 s. 7; 1 of 2002 s. 7; 9 of 2006 s. 3; 3 of 2009 s. 5; 5 of 2011 s. 73)
