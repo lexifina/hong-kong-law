@@ -8,7 +8,7 @@ SPECIFIED BODIES
 
   - 1. Airport Authority
 
-  - 2. Kowloon-Canton Railway Corporation
+  - 2. (Repealed L.N. 89 of 2011)
 
   - 3. MTR Corporation Limited
 
@@ -30,9 +30,9 @@ SPECIFIED BODIES
 
 - AND EQUIPMENT SUPPLIERS
 
-  - 1. The Association of Plastering Sub-contractors Limited
+  - 1. Hong Kong Construction Sub-contractors Association Limited (Replaced L.N. 89 of 2011)
 
-  - 2. Hong Kong Bar-bending Contractors Association, Limited
+  - 2. (Repealed L.N. 89 of 2011)
 
   - 3. The Hong Kong Construction Association, Limited
 
@@ -44,11 +44,11 @@ SPECIFIED BODIES
 
   - 7. Hong Kong Hydraulic Truck Cranes Association Limited
 
-  - 8. Hong Kong & Kowloon Scaffolders General Merchants Association Limited
+  - 8. (Repealed L.N. 89 of 2011)
 
   - 9. Hong Kong Licensed Plumbers Association Limited
 
-  - 10. The Hong Kong Marble & Granite Merchants Association, Limited
+  - 10. (Repealed L.N. 89 of 2011)
 
   - 11. The Registered Elevator and Escalator Contractors Association Limited
 
@@ -56,9 +56,9 @@ SPECIFIED BODIES
 
   - 1. Construction Site Workers General Union
 
-  - 2. Consultant Engineering Firm Resident Site Staff Association
+  - 2. Resident Site Staff Association (Replaced L.N. 89 of 2011)
 
-  - 3. Hong Kong and Kowloon Electrical Engineering and Appliances Trade Workers Union
+  - 3. The Federation of Hong Kong Electrical and Mechanical Industries Trade Unions (Replaced L.N. 89 of 2011)
 
   - 4. Hong Kong Construction Industry Employees General Union
 
@@ -66,4 +66,4 @@ SPECIFIED BODIES
 
   - 6. Hong Kong General Union of Lift and Escalator Employees
 
-  - 7. Union of Hong Kong Electrical Engineering Assistants
+  - 7. (Repealed L.N. 89 of 2011)
