@@ -96,7 +96,11 @@ ELECTION COMMITTEE
 
         - “constitution” (章程), in relation to a body, includes articles of association and rules.
 
-    - (5) In column 3 of Table 4 in section 2—
+    - (5)
+
+    - In column 3 of Table 4 in section 2—
+
+    - (aa) elected member (民選議員) means a person who is elected to be an elected member under Part V of the District Councils Ordinance (Cap. 547); (Added 1 of 2011 s. 8)
 
       - (a)
 
@@ -274,9 +278,9 @@ ELECTION COMMITTEE
 
   - 4. | Heung Yee Kuk | Chairman and Vice-Chairmen of the Heung Yee Kuk and the Ex-Officio, Special and Co-opted Councillors of the Full Council of the Heung Yee Kuk. | 26
 
-  - 5. | Hong Kong and Kowloon District Councils | Members of the Hong Kong and Kowloon District Councils. | 57
+  - 5. | Hong Kong and Kowloon District Councils | Elected members of the Hong Kong and Kowloon District Councils. | 57
 
-  - 6. | New Territories District Councils | Members of the New Territories District Councils. | 60
+  - 6. | New Territories District Councils | Elected members of the New Territories District Councils. | 60
 
   - (Amended 1 of 2011 s. 9)
 
@@ -850,9 +854,9 @@ ELECTION COMMITTEE
 
         - (b) the person is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542).
 
-      - (8) A person is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and has made an application to be registered for the District Council functional constituency.
+      - (8) A person is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and is eligible to be registered as an elector for the District Council (first) functional constituency. (Amended 1 of 2011 s. 11)
 
-      - (9) A person is eligible to be registered as a voter for the New Territories District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and has made an application to be registered for the District Council functional constituency.
+      - (9) A person is eligible to be registered as a voter for the New Territories District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and is eligible to be registered as an elector for the District Council (first) functional constituency. (Amended 1 of 2011 s. 11)
 
       - (10) Subject to this section—
 
@@ -866,37 +870,41 @@ ELECTION COMMITTEE
 
       - (11) Subject to this section—
 
-        - (a) a person who—
+        - (a) a person who is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector may be registered only as a voter for that subsector; (Replaced 1 of 2011 s. 11)
+
+        - (b) a person who is eligible to be registered as a voter for the New Territories District Councils subsector may be registered only as a voter for that subsector; (Replaced 1 of 2011 s. 11)
+
+        - (c) a person who—
+
+          - (i) is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector; and
+
+          - (ii) would, but for this paragraph, be eligible to be registered as a voter for any subsector other than the 2 subsectors referred to in subparagraph (i),
+
+      - may be registered only as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector, as the case may be; (Replaced 1 of 2011 s. 11)
+
+        - (d) a person who ceases to be eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector may, subject to subsections (10)(a) and (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter; (Replaced 1 of 2011 s. 11)
+
+        - (e) a person who—
 
           - (i) is a person described opposite to the Hong Kong and Kowloon District Councils subsector in column 3 of Table 4 in section 2; and
 
-          - (ii) is registered or applies to be registered as an elector for the District Council functional constituency,
+          - (ii) is eligible to be registered as an elector for the District Council (first) functional constituency,
 
-        - cannot, subject to paragraph (c), be registered only as an elector for District Council functional constituency and not as a voter for the Hong Kong and Kowloon District Councils subsector;
+        - cannot, subject to paragraph (g), be registered only as an elector for the District Council (first) functional constituency and not as a voter for the Hong Kong and Kowloon District Councils subsector; (Replaced 1 of 2011 s. 11)
 
-        - (b) a person who—
+        - (f) a person who—
 
           - (i) is a person described opposite to the New Territories District Councils subsector in column 3 of Table 4 in section 2; and
 
-          - (ii) is registered or applies to be registered as an elector for the District Council functional constituency,
+          - (ii) is eligible to be registered as an elector for the District Council (first) functional constituency,
 
-        - cannot, subject to paragraph (d), be registered only as an elector for the District Council functional constituency and not as a voter for the New Territories District Councils subsector;
+        - cannot, subject to paragraph (h), be registered only as an elector for the District Council (first) functional constituency and not as a voter for the New Territories District Councils subsector; (Replaced 1 of 2011 s. 11)
 
-        - (c) a person who is registered or applies to be registered as a voter for the Hong Kong and Kowloon District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council functional constituency;
+        - (g) a person who is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council (first) functional constituency; and (Added 1 of 2011 s. 11)
 
-        - (d) a person who is registered or applies to be registered as a voter for the New Territories District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council functional constituency;
+        - (h) a person who is eligible to be registered as a voter for the New Territories District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council (first) functional constituency. (Added 1 of 2011 s. 11)
 
-        - (e) a person who is registered, or has made an application to be registered, as an elector for the District Council functional constituency may be registered only as a voter—
-
-          - (i) for the Hong Kong and Kowloon District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2; or
-
-          - (ii) for the New Territories District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2,
-
-        - (whether or not the person is eligible to be registered as a voter for any other subsector) except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4, or item 1 or 4 of Table 5, in section 2, the person may choose to be registered as a voter in the subsector referred to in subparagraph (i) or (ii), as the case may be, or in that other subsector; and
-
-        - (f) a person who ceases to be eligible to be registered as an elector for the District Council functional constituency ceases to be eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector, but may, subject to subsections (10)(a) and (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter.
-
-      - (12) A person who would, but for this subsection, be eligible to be registered as a voter for 2 or more subsectors may, subject to subsection (10), be registered as a voter for only one of those subsectors of the person’s choice.
+      - (12) A person who would, but for this subsection, be eligible to be registered as a voter for 2 or more subsectors (other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector) may, subject to subsection (10), be registered as a voter for only one of those subsectors of the person’s choice. (Amended 1 of 2011 s. 11)
 
       - (13) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the higher education subsector. (Amended 25 of 2003 s. 56)
 
@@ -973,6 +981,24 @@ ELECTION COMMITTEE
         - (a) not later than 15 August in each year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and
 
         - (b) not later than 25 September in each year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Added 33 of 2002 s. 11)
+
+      - (1B) Despite subsections (1) and (1A), as soon as practicable after the District Council ordinary election in 2011, the Electoral Registration Officer must, in accordance with the EAC Regulations—
+
+        - (a) compile the subsector final register for the Hong Kong and Kowloon District Councils subsector by—
+
+          - (i) striking out the names and other relevant particulars of all voters from the existing subsector final register; and
+
+          - (ii) registering in the subsector final register all persons who are elected as members of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance as voters of the subsector;
+
+        - (b) compile the subsector final register for the New Territories District Councils subsector by—
+
+          - (i) striking out the names and other relevant particulars of all voters from the existing subsector final register; and
+
+          - (ii) registering in the subsector final register all persons who are elected as members of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance as voters of the subsector;
+
+        - (c) if the persons referred to in paragraphs (a)(ii) and (b)(ii) are registered as voters in any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector, strike out their names and other relevant particulars from the subsector final register for that subsector to the effect that they are no longer registered as voters for that subsector. (Added 1 of 2011 s. 12)
+
+      - (1C) The Electoral Registration Officer must, as soon as practicable after complying with subsection (1B), publish in accordance with the EAC Regulations the subsector final register in which there is any addition or removal of names and other relevant particulars of voters. (Added 1 of 2011 s. 12)
 
       - (2) The Electoral Registration Officer may amend a subsector provisional register or subsector final register so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
 
@@ -1088,7 +1114,7 @@ ELECTION COMMITTEE
 
         - (b) being elected as a member of the Election Committee representing that subsector,
 
-      - if he is not a member of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547).
+      - if the person is not elected as a member of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance in the District Council ordinary election held immediately before the relevant subsector election or in any District Council by-election for that District Council after the ordinary election. (Amended 1 of 2011 s. 13)
 
       - (5) A person is disqualified from—
 
@@ -1096,9 +1122,59 @@ ELECTION COMMITTEE
 
         - (b) being elected as a member of the Election Committee representing that subsector,
 
-      - if he is not a member of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547).
+      - if the person is not elected as a member of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance in the District Council ordinary election held immediately before the relevant subsector election or in any District Council by-election for that District Council after the ordinary election. (Amended 1 of 2011 s. 13)
 
     - (Added 10 of 2006 s. 6)
+
+    - 18B. Election as District Council member does not affect nomination made earlier
+
+      - (1) This subsection applies to a case in which—
+
+        - (a) a person who is registered as a voter for any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector has subscribed the nomination paper of a candidate for that subsector in a subsector election; and
+
+        - (b) after the subscription of the nomination paper but before the subsector election the person is elected as a member of a District Council under Part V of the District Councils Ordinance (Cap. 547).
+
+      - (2) In a case to which subsection (1) applies—
+
+        - (a) the validity of the subscription of the nomination paper is not affected by the person’s election; and
+
+        - (b) the person is disqualified—
+
+          - (i) if the election is a subsector ordinary election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in that election; or
+
+          - (ii) if the election is a subsector by-election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in any by-election for any subsector held during the term of the District Council for which the person is elected,
+
+      - unless the candidate nominated by the person meets any description in subsection (3).
+
+      - (3) The descriptions are—
+
+        - (a) the candidate withdraws candidature under section 21;
+
+        - (b) the Returning Officer decides under section 22(1) or 23(4) that the candidate is not validly nominated;
+
+        - (c) the Returning Officer has given a notice of death in respect of the candidate under section 23(1).
+
+    - (Added 1 of 2011 s. 14)
+
+    - 18C. Candidate for other subsectors cannot stand for District Councils subsector election even though elected as District Council member
+
+      - (1) This subsection applies to a case in which—
+
+        - (a) a person who is registered as a voter for any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector is nominated as a candidate for that subsector in a subsector election; and
+
+        - (b) after the nomination but before the subsector election the person is elected as a member of a District Council under Part V of the District Councils Ordinance (Cap. 547).
+
+      - (2) In a case to which subsection (1) applies—
+
+        - (a) the validity of the nomination of the person for the subsector is not affected by the person’s election; and
+
+        - (b) the person is, whether or not returned at the election, disqualified—
+
+          - (i) if the election is a subsector ordinary election, from being nominated as a candidate for the election in the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector; or
+
+          - (ii) if the election is a subsector by-election, from being nominated as a candidate for the Hong Kong and Kowloon District Councils subsector by-election or the New Territories District Councils subsector by-election held during the term of the District Council for which the person is elected.
+
+    - (Added 1 of 2011 s. 14)
 
     - 19. Candidate to lodge deposit
 
@@ -1309,6 +1385,12 @@ ELECTION COMMITTEE
       - (1) A validly nominated candidate at a subsector election is entitled to send free of postage one letter addressed to each voter whose name appears in the subsector final register for the subsector for which the candidate is nominated.
 
       - (2) Each such letter is to relate to the election concerned and is to comply with all requirements and limitations (if any) prescribed by the EAC Regulations.
+
+      - (2A) A letter sent under subsection (1) by a candidate who is validly nominated at a subsector election—
+
+        - (a) may contain information on any other candidate who is also validly nominated at that election; and
+
+        - (b) is, if it contains any information mentioned in paragraph (a), not to be regarded, for the purposes of subsection (1), as being sent by that other candidate. (Added 18 of 2011 s. 35)
 
       - (3) The cost to the Postmaster General of enabling subsector candidates to exercise their entitlements under this section is a charge on, and is to be met from, the general revenue.
 
