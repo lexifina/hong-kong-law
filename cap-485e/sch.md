@@ -12,9 +12,9 @@ SCALES OF AMOUNTS OF CONTRIBUTIONS TO BE MADE IN RESPECT OF CASUAL EMPLOYEES
 
 Total amount of relevant income paid by an employer to a casual employee in a day | Total amount to be contributed by the employer for that day | Total amount to be deducted by the employer from the employee’s relevant income for that day
 
-Less than $160.00 | $7.5 | Nil
+Less than $250.00 | $7.5 | Nil
 
-$160.00 or more but less than $260.00 | $7.5 | $7.5
+$250.00 or more but less than $260.00 | $13.00 | $13.00
 
 $260.00 or more but less than $390.00 | $15.00 | $15.00
 
@@ -32,9 +32,9 @@ More than $650.00 | $30.00 | $30.00
 
 Amount of relevant income paid by an employer to a casual employee in a day | Amount to be contributed by the employer for that day | Amount to be deducted by the employer from the employee’s relevant income for that day
 
-Less than $160.00 | $7.5 | Nil
+Less than $250.00 | $7.5 | Nil
 
-$160.00 or more but less than $260.00 | $7.5 | $7.5
+$250.00 or more but less than $260.00 | $13.00 | $13.00
 
 $260.00 or more but less than $390.00 | $15.00 | $15.00
 
@@ -52,10 +52,16 @@ More than $650.00 | $30.00 | $30.00
 
 Average amount of relevant income paid by an employer to a casual employee per day in a contribution period | Amount to be contributed by the employer for that contribution period | Amount to be deducted by the employer from the employee’s relevant income for that contribution period
 
-Less than $160.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | Nil
+Less than $250.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | Nil
 
-$160.00 or more but not more than $650.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | 5% of the relevant income paid by the employer to the employee for that contribution period
+$250.00 or more but not more than $650.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | 5% of the relevant income paid by the employer to the employee for that contribution period
 
 More than $650.00 | $32.5 per day in that contribution period | $32.5 per day in that contribution period
 
-(29 of 2002 s. 14)
+(29 of 2002 s. 14; L.N. 118 of 2011)
+
+Editorial Note:
+
+* This Schedule was amended by the Mandatory Provident Fund Schemes (Contributions for Casual Employees) (Amendment) Order 2011 (L.N. 118 of 2011) . The application provision contained in section 4 of that Amendment Order reads as follows —
+
+“4. Application of Schedule as amended The Schedule to the Mandatory Provident Fund Schemes (Contributions for Casual Employees) Order (Cap. 485 sub. leg. E) as amended by section 3 applies in relation to a contribution period that begins on or after the commencement date# of that section.”. # Commencement date: 1 November 2011.
