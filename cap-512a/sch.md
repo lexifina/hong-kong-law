@@ -120,6 +120,8 @@ Republic of Serbia | 1 September 1997
 
 Republic of Seychelles | 1 April 2010
 
+Republic of Singapore | 1 June 2011
+
 Slovak Republic | 1 February 2001
 
 Republic of Slovenia | 1 September 1997
@@ -166,4 +168,4 @@ Republic of Venezuela | 1 September 1997
 
 Republic of Zimbabwe | 1 September 1997
 
-(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008; L.N. 216 of 2008; L.N. 85 of 2010)
+(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008; L.N. 216 of 2008; L.N. 85 of 2010; L.N. 151 of 2011)
