@@ -140,6 +140,10 @@ Item | Ordinance | Decision
 
 68. | Bunker Oil Pollution (Liability and Compensation) Ordinance (Cap. 605) | (a) A decision of the Director of Marine or a person authorized under section 25(1) to refuse to issue an insurance certificate under section 16. (b) A decision of the Director of Marine or a person authorized under section 25(1) to impose any condition under section 16. (c) A decision of the Director of Marine or a person authorized under section 25(1) to cancel an insurance certificate under section 17. (d) A decision of the Director of Marine to refuse to grant an exemption under section 23. (e) A decision of the Director of Marine to impose any condition under section 23. (Added 14 of 2009 s. 40)
 
+69. | Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) | A decision of the Director of Social Welfare under section 7, 8, 9 or 10(1). (Added 12 of 2011 s. 31)
+
+70. | Residential Care Homes (Persons with Disabilities) Ordinance (Cap. 613) | A decision of the Director of Social Welfare under section 7, 8, 9(1), 11 or 12. (Added 12 of 2011 s. 31)
+
 Editorial Note:
 
 The following enactments also give a right of appeal to the Administrative Appeals Board —
