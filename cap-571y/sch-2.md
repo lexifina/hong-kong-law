@@ -10,6 +10,8 @@ Item | Stock options contract | Prescribed limit | Reporting level
 
 2. | Tracker Fund of Hong Kong stock options contract | 50000 open contracts per option class in any one market direction for all expiry months combined | 1000 open contracts per option class per expiry month
 
-3-66. (Repealed L.N. 232 of 2005)
+3. | iShares FTSE A50 China Index ETF stock options contract | 50000 open contracts per option class in any one market direction for all expiry months combined | 1000 open contracts per option class per expiry month
 
-(L.N. 84 of 2003; L.N. 66 of 2004; L.N. 232 of 2005)
+4. | W.I.S.E. – CSI 300 China Tracker stock options contract | 50000 open contracts per option class in any one market direction for all expiry months combined | 1000 open contracts per option class per expiry month
+
+(Schedule 2 replaced L.N. 117 of 2011)
