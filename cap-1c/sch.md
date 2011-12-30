@@ -404,7 +404,7 @@ Registrar of Money Lenders | Money Lenders Ordinance (Chapter 163). (L.N. 357 of
 
 Registrar of Occupational Retirement Schemes | Occupational Retirement Schemes Ordinance (Chapter 426). (L.N. 454 of 1993)
 
-Secretary for Broadcasting, Culture and Sport (L.N. 372 of 1996) | Books Registration Ordinance (Chapter 142). (L.N. 403 of 1995)
+Secretary for Broadcasting, Culture and Sport (L.N. 372 of 1996) Secretary for Development | Books Registration Ordinance (Chapter 142). (L.N. 403 of 1995) Buildings Ordinance (Cap. 123). (16 of 2011 s. 44)
 
 *Secretary for Home Affairs | Books Registration Ordinance (Chapter 142). (18 of 2014 s. 66)
 

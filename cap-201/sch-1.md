@@ -232,6 +232,8 @@ PUBLIC BODIES
 
   - 113. Minor Works Contractors Registration Committee. (Added L.N. 179 of 2009)
 
+  - 114. Inspectors’ Registration Committee. (Added 16 of 2011 s. 46)
+
   - 115. Phoenix U Radio Limited. (Added L.N. 50 of 2011)
 
 - (Replaced L.N. 272 of 1974)
