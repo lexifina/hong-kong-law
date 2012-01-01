@@ -1,52 +1,74 @@
 # SCHEDULE 6
 
-[ss. 55, 59, 60, 61, 62, 79, 98, 99, 139, 211, 281 & 287]
+[ss. 55, 59, 60, 61, 61A, 62, 79, 98, 99, 139, 211, 281 & 287 & Sch. 7] (L.N. 137 of 2011)
 
 CREDIT QUALITY GRADES
 
-TABLE A SOVEREIGN EXPOSURES
+Table A Sovereign Exposures
 
-Credit quality grade (sovereigns) | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc.
+Credit quality grade (sovereigns) | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
 
-1 | AAA AA+ AA AA— | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA— | AAA AA+ AA AA—
+1 | AAA AA+ AA AA— | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA— | AAA AA+ AA AA— | AAA AA+ AA AA—
 
-2 | A+ A A— | A1 A2 A3 | A+ A A— | A+ A A—
+2 | A+ A A— | A1 A2 A3 | A+ A A— | A+ A A— | A+ A A—
 
-3 | BBB+ BBB BBB— | Baa1 Baa2 Baa3 | BBB+ BBB BBB— | BBB+ BBB BBB—
+3 | BBB+ BBB BBB— | Baa1 Baa2 Baa3 | BBB+ BBB BBB— | BBB+ BBB BBB— | BBB+ BBB BBB—
 
-4 | BB+ BB BB— | Ba1 Ba2 Ba3 | BB+ BB BB— | BB+ BB BB—
+4 | BB+ BB BB— | Ba1 Ba2 Ba3 | BB+ BB BB— | BB+ BB BB— | BB+ BB BB—
 
-5 | B+ B B— | B1 B2 B3 | B+ B B— | B+ B B—
+5 | B+ B B— | B1 B2 B3 | B+ B B— | B+ B B— | B+ B B—
 
-6 | CCC+ CCC CCC— CC C D | Caa1 Caa2 Caa3 Ca C | CCC+ CCC CCC— CC C D | CCC+ CCC CCC— CC C
+6 | CCC+ CCC CCC— CC C D | Caa1 Caa2 Caa3 Ca C | CCC CC C D | CCC+ CCC CCC— CC C D | CCC CC C D
 
-TABLE B BANK AND SECURITIES FIRM EXPOSURES
+(L.N. 137 of 2011)
 
-Credit quality grade (banks and securities firms) | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc.
+Table B Bank and Securities Firm Exposures
 
-1 | AAA AA+ AA AA— | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA— | AAA AA+ AA AA—
+Credit quality grade (banks and securities firms) | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd.
 
-2 | A+ A A— | A1 A2 A3 | A+ A A— | A+ A A—
+1 | AAA AA+ AA AA— | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA— | AAA AA+ AA AA— | AAA AA+ AA AA—
 
-3 | BBB+ BBB BBB— | Baa1 Baa2 Baa3 | BBB+ BBB BBB— | BBB+ BBB BBB—
+2 | A+ A A— | A1 A2 A3 | A+ A A— | A+ A A— | A+ A A—
 
-4 | BB+ BB BB— B+ B B— | Ba1 Ba2 Ba3 B1 B2 B3 | BB+ BB BB— B+ B B— | BB+ BB BB— B+ B B—
+3 | BBB+ BBB BBB— | Baa1 Baa2 Baa3 | BBB+ BBB BBB— | BBB+ BBB BBB— | BBB+ BBB BBB—
 
-5 | CCC+ CCC CCC— CC C D | Caa1 Caa2 Caa3 Ca C | CCC+ CCC CCC— CC C D | CCC+ CCC CCC— CC C
+4 | BB+ BB BB— B+ B B— | Ba1 Ba2 Ba3 B1 B2 B3 | BB+ BB BB— B+ B B— | BB+ BB BB— B+ B B— | BB+ BB BB— B+ B B—
 
-TABLE C CORPORATE EXPOSURES
+5 | CCC+ CCC CCC— CC C D | Caa1 Caa2 Caa3 Ca C | CCC CC C D | CCC+ CCC CCC— CC C D | CCC CC C D
 
-Credit quality grade (corporates) | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc.
+(L.N. 137 of 2011)
 
-1 | AAA AA+ AA AA— | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA— | AAA AA+ AA AA—
+Table C Corporate Exposures
 
-2 | A+ A A— | A1 A2 A3 | A+ A A— | A+ A A—
+- Part 1
 
-3 | BBB+ BBB BBB— | Baa1 Baa2 Baa3 | BBB+ BBB BBB— | BBB+ BBB BBB—
+Credit quality grade (corporates) | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd. | Risk— weight
 
-4 | BB+ BB BB— | Ba1 Ba2 Ba3 | BB+ BB BB— | BB+ BB BB—
+1 | AAA AA+ AA AA— | Aaa Aa1 Aa2 Aa3 | AAA AA+ AA AA— | AAA AA+ AA AA— | AAA AA+ AA AA— | 20%
 
-5 | B+ B B— CCC+ CCC CCC— CC C D | B1 B2 B3 Caa1 Caa2 Caa3 Ca C | B+ B B— CCC+ CCC CCC— CC C D | B+ B B— CCC+ CCC CCC— CC C
+2 | A+ A A— | A1 A2 A3 | A+ A A— | A+ A A— | A+ A A— | 50%
+
+3 | BBB+ BBB BBB— | Baa1 Baa2 Baa3 | BBB+ BBB BBB— | BBB+ BBB BBB— | BBB+ BBB BBB— | 100%
+
+4 | BB+ BB BB— | Ba1 Ba2 Ba3 | BB+ BB BB— | BB+ BB BB— | BB+ BB BB— | 100%
+
+5 | B+ B B— CCC+ CCC CCC— CC C D | B1 B2 B3 Caa1 Caa2 Caa3 Ca C | B+ B B— CCC CC C D | B+ B B— CCC+ CCC CCC— CC C D | B+ B B— CCC CC C D | 150%
+
+- Part 2
+
+Credit quality grade (corporates) | Credit Analysis and Research Limited | CRISIL Limited | ICRA Limited | Risk-weight
+
+1 | CARE AAA CARE AAA(Is) | CRISIL AAA | [ICRA]AAA IrAAA | 20%
+
+2 | CARE AA+ CARE AA CARE AA— CARE AA+(Is) CARE AA(Is) CARE AA-(Is) | CRISIL AA+ CRISIL AA CRISIL AA— | [ICRA]AA+ [ICRA]AA [ICRA]AA— IrAA+ IrAA IrAA— | 30%
+
+3 | CARE A+ CARE A CARE A— CARE A+(Is) CARE A (Is) CARE A- (Is) | CRISIL A+ CRISIL A CRISIL A— | [ICRA]A+ [ICRA]A [ICRA]A— IrA+ IrA IrA— | 50%
+
+4 | CARE BBB+ CARE BBB CARE BBB— CARE BBB+(Is) CARE BBB (Is) CARE BBB- (Is) | CRISIL BBB+ CRISIL BBB CRISIL BBB— | [ICRA]BBB+ [ICRA]BBB [ICRA]BBB— IrBBB+ IrBBB IrBBB— | 100%
+
+5 | CARE BB+ CARE BB CARE BB— CARE B+ CARE B CARE B— CARE C+ CARE C CARE C— CARE D CARE BB+ (Is) CARE BB (Is) CARE BB- (Is) CARE B+ (Is) CARE B (Is) CARE B- (Is) CARE C+ (Is) CARE C (Is) CARE C- (Is) CARE D (Is) | CRISIL BB+ CRISIL BB CRISIL BB— CRISIL B+ CRISIL B CRISIL B— CRISIL C+ CRISIL C CRISIL C— CRISIL D | [ICRA]BB+ [ICRA]BB [ICRA]BB— [ICRA]B+ [ICRA]B [ICRA]B— [ICRA]C+ [ICRA]C [ICRA]C— [ICRA]D IrBB+ IrBB IrBB— IrB+ IrB IrB— IrC+ IrC IrC— | 150%
+
+(L.N. 137 of 2011)
 
 TABLE D COLLECTIVE INVESTMENT SCHEME EXPOSURES
 
@@ -60,18 +82,38 @@ Credit quality grade (collective investment schemes) | Standard & Poor’s Ratin
 
 4 | BB+f BBf BB-f | BB+m BBm BB-m | Ba1 Ba2 Ba3 | BB+ BB BB— | BB+fc BBfc BB-fc
 
-5 | B+f Bf B-f CCC+f CCCf CCC-f | Dm | B1 B2 B3 Caa1 Caa2 Caa3 Ca C | B+ B B— CCC+ CCC CCC— CC C D | B+fc Bfc B-fc CCC+fc CCCfc CCC-fc CCfc Cfc
+5 | B+f Bf B-f CCC+f CCCf CCC-f | Dm | B1 B2 B3 Caa1 Caa2 Caa3 Ca C | B+ B B— CCC CC C D | B+fc Bfc B-fc CCC+fc CCCfc CCC-fc CCfc Cfc
 
-TABLE E SHORT-TERM EXPOSURES (BANKS, SECURITIES FIRMS
+(L.N. 137 of 2011)
 
-AND CORPORATES)
+Table E Short-term Exposures (Banks, Securities Firms
 
-Short-term credit quality grade (banks, securities firms and corporates) | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc.
+and Corporates)
 
-1 | A-1+ A-1 | P-1 | F1+ F1 | a-1+ a-1
+- Part 1
 
-2 | A-2 | P-2 | F2 | a-2
+Short-term credit quality grade (banks, securities firms and corporates) | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc. | Japan Credit Rating Agency, Ltd. | Risk— weight
 
-3 | A-3 | P-3 | F3 | a-3
+1 | A-1+ A-1 | P-1 | F1+ F1 | a-1+ a-1 | J-1+ J-1 | 20%
 
-4 | B B-1 B-2 B-3 C D | NP | B C D | b c
+2 | A-2 | P-2 | F2 | a-2 | J-2 | 50%
+
+3 | A-3 | P-3 | F3 | a-3 | J-3 | 100%
+
+4 | B B-1 B-2 B-3 C D | NP | B C D | b c | NJ D | 150%
+
+- Part 2
+
+Short-term credit quality grade (corporates) | Credit Analysis and Research Limited | CRISIL Limited | ICRA Limited | Risk-weight
+
+1 | CARE A1+ | CRISIL A1+ | [ICRA]A1+ | 20%
+
+2 | CARE A1 | CRISIL A1 | [ICRA]A1 | 30%
+
+3 | CARE A2+ CARE A2 | CRISIL A2+ CRISIL A2 | [ICRA]A2+ [ICRA]A2 | 50%
+
+4 | CARE A3+ CARE A3 | CRISIL A3+ CRISIL A3 | [ICRA]A3+ [ICRA]A3 | 100%
+
+5 | CARE A4+ CARE A4 CARE D | CRISIL A4+ CRISIL A4 CRISIL D | [ICRA]A4+ [ICRA]A4 [ICRA]D | 150%
+
+(L.N. 137 of 2011)

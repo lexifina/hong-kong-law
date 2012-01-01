@@ -22,7 +22,11 @@ An originating institution in a traditional securitization transaction shall dem
 
   - (i) directly or indirectly makes any representation or provides any warranty as to the future credit performance of the underlying exposures;
 
-  - (ii) obliges the institution to repurchase any of the underlying exposures, at any time, except where that obligation arises from a claim arising from a representation or warranty given by the institution to another person in the documentation solely in respect of the status of any underlying exposure at the time of the transfer and that is capable of being verified at that time;
+  - (ii) obliges the institution to repurchase any of the underlying exposures, at any time, except where—
+
+    - (A) the obligation arises from a claim arising from a representation or warranty given by the institution to another person in the documentation solely in respect of the status of any underlying exposure at the time of the transfer and that is capable of being verified at that time; or
+
+    - (B) the obligation is accepted by and imposed on the institution for legitimate and sound commercial reasons and does not expose the institution to excessive credit risk; (L.N. 137 of 2011)
 
   - (iii) requires the institution to alter the pool of underlying exposures such that the pool’s credit quality is improved unless this is achieved through the purchase of underlying exposures by independent and unaffiliated third parties at market prices;
 

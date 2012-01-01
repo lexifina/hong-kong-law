@@ -10,7 +10,7 @@ REQUIREMENTS TO BE SATISFIED FOR USING SECTION 229(1)(b) OF THESE RULES
 
   - (b) any collateral obtained by the institution from any party to the transaction for hedging the credit risk of the underlying exposures is—
 
-    - (i) recognized collateral within the meaning of section 51 of these Rules if the institution uses the STC approach to calculate its credit risk for the class of exposures into which the underlying exposures fall;
+    - (i) recognized collateral within the meaning of section 51(1) of these Rules if the institution uses the STC approach to calculate its credit risk for the class of exposures into which the underlying exposures fall; (L.N. 137 of 2011)
 
     - (ii) recognized collateral within the meaning of section 105 of these Rules if the institution uses the BSC approach to calculate its credit risk for the class of exposures into which the underlying exposures fall; or
 

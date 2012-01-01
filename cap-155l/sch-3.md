@@ -1,6 +1,6 @@
 # SCHEDULE 3
 
-[ss. 18, 19, 97, 317, 318, 319 & 320]
+[ss. 18, 19, 97, 317, 317A, 318, 319 & 320] (L.N. 137 of 2011)
 
 MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULES TO USE IMM APPROACH
 
@@ -96,19 +96,23 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
   - (n) in respect of the relevant models—
 
-    - (i) VaR is computed on a daily basis;
+    - (i) VaR is computed on a daily basis and stressed VaR is computed at least on a weekly basis; (L.N. 137 of 2011)
 
-    - (ii) a one-tailed 99% confidence interval is used in calculating VaR;
+    - (ii) a one-tailed 99% confidence interval is used in calculating VaR (including stressed VaR); (L.N. 137 of 2011)
 
-    - (iii) the minimum holding period used by, or assumed by, the relevant models is 10 trading days for the institution’s portfolio of exposures;
+    - (iii) the minimum holding period used by, or assumed by, the relevant models is 10 trading days for the institution’s portfolio of exposures but, where VaR (including stressed VaR) is calculated according to shorter holding periods scaled up to 10 days, the institution must demonstrate periodically the reasonableness of that approach to the satisfaction of the Monetary Authority; (L.N. 137 of 2011)
 
-    - (iv) subject to subparagraph (vi), the historical observation period for calculating VaR is not less than 250 trading days;
+    - (iv) subject to subparagraph (vi), the historical observation period for calculating VaR (including stressed VaR) is not less than 250 trading days; (L.N. 137 of 2011)
 
-    - (v) if the institution applies a weighting scheme to the historical observations for the calculation of VaR, a higher weighting is assigned to recent observations;
+    - (v) if the institution applies a weighting scheme to the historical observations for the calculation of VaR (excluding stressed VaR), a higher weighting is assigned to recent observations; (L.N. 137 of 2011)
 
-    - (vi) the institution is able to use a shorter historical observation period for the calculation of VaR if the Monetary Authority requests the institution to do so on the ground that the Monetary Authority is of the opinion that the request is justified due to a significant increase in volatility in the price of the institution’s portfolio of exposures;
+    - (va) the institution does not apply a weighting scheme to the historical observations for the calculation of stressed VaR; (L.N. 137 of 2011)
 
-    - (vii) data used are updated at least once every 3 months and are reassessed whenever market prices are subject to material changes;
+    - (vb) if the institution calculates VaR (excluding stressed VaR) using a weighting scheme that is not fully consistent with the requirements of subparagraphs (iv) and (v), that scheme results in a market risk capital charge that is not lower than that which would be calculated by the use of a scheme that fully complies with the requirements of those subparagraphs; (L.N. 137 of 2011)
+
+    - (vi) the institution is able to use a shorter historical observation period for the calculation of VaR (excluding stressed VaR) if the Monetary Authority requests the institution to do so on the ground that the Monetary Authority is of the opinion that the request is justified due to a significant increase in volatility in the price of the institution’s portfolio of exposures; (L.N. 137 of 2011)
+
+    - (vii) data used are updated at least once every month and are reassessed whenever market prices are subject to material change, and the updating process is flexible enough to allow for more frequent updates where necessary; (L.N. 137 of 2011)
 
     - (viii) the relevant models only recognize empirical correlations of factors affecting market risk within and across risk categories if the institution’s system for identifying and measuring correlations is effective and implemented in a prudent manner; and
 
@@ -116,7 +120,7 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
       - (A) the relevant models are able to estimate the non-linear relationship between the price movement of the institution’s positions under those contracts and that of the underlying exposures of the contracts;
 
-      - (B) in calculating VaR, an instantaneous 10-day movement in price is applied to the institution’s option positions or positions which display option-like characteristics or, if the institution is unable to apply a full 10-day movement in price, the institution is able to use periodic simulation or stress-testing to adjust the market risk capital charge for such positions;
+      - (B) in calculating VaR (including stressed VaR), an instantaneous 10-day movement in price is applied to the institution’s option positions or positions which display option-like characteristics or, if the institution is unable to apply a full 10-day movement in price, the institution is able to use periodic simulation or stress-testing to adjust the market risk capital charge for such positions; (L.N. 137 of 2011)
 
       - (C) the relevant models are able to estimate the vega risk of the institution’s option positions; and
 
@@ -124,11 +128,7 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
 - 2.
 
-- Additional requirements relating to internal
-
-- models for calculation of market risk
-
-- capital charge for specific risk
+- Additional requirements relating to internal models for calculation of market risk capital charge for specific risk
 
 - Without prejudice to the generality of section 1, an authorized institution shall demonstrate to the satisfaction of the Monetary Authority that, if the institution uses the relevant models to calculate the market risk capital charge for specific risk—
 
@@ -142,7 +142,7 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
     - (iv) are sensitive to material idiosyncratic differences between similar but not identical positions (including, but not limited to, trading book positions in debt securities (within the meaning of section 281 of these Rules) with different levels of subordination and maturity mismatches, and credit derivative contracts with different credit events);
 
-    - (v) are able to capture market risk which arises from events, other than market-wide shocks resulting in large changes in prices (referred to in this Schedule as “event risk”); and
+    - (v) are able to capture market risk which arises from events, other than market-wide shocks resulting in large changes in prices; and (L.N. 137 of 2011)
 
     - (vi) are validated through back-testing aimed at assessing—
 
@@ -150,7 +150,7 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
       - (B) in the case where the institution uses one internal model to calculate the market risk capital charge for both specific risk and general market risk, whether both specific risk and general market risk are being captured adequately;
 
-  - (b) if the institution is subject to event risk which is not reflected in the institution’s VaR because it is outside the 10-day holding period used or assumed by the relevant models and 99% confidence interval used in calculating VaR, the institution has ensured that the impact of event risk is factored into the institution’s internal assessment process through stress-testing as referred to in section 1(h);
+  - (b) (Repealed L.N. 137 of 2011)
 
   - (c) the relevant models prudently assess the market risk arising from less liquid positions and positions with limited price transparency under realistic market scenarios;
 
@@ -160,10 +160,86 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
     - (ii) if they are prudent;
 
-  - (e) the institution has an approach for calculating the market risk capital charge for specific risk which—
-
-    - (i) captures separately the default risk of the institution’s trading book positions if the institution cannot capture, or adequately capture, such risk in the relevant models; and
-
-    - (ii) is embedded in the relevant models or takes the form of an additional capital charge separately calculated by the institution; and
+  - (e) where applicable, the institution has an internally-developed approach or approaches for calculating the incremental risk charge or comprehensive risk charge, or both, for the institution’s trading book positions; and (L.N. 137 of 2011)
 
   - (f) the institution satisfies the minimum requirements comparable to those set out in section 1 of Schedule 2 for the use of the IRB approach for the calculation of credit risk, with any necessary adjustments to reflect the impact of liquidity, concentrations and hedging on, and the option characteristics of, the institution’s market risk exposures.
+
+- 3. Additional requirements relating to internally-developed approach for calculation of incremental risk charge Without prejudice to sections 1 and 2, an authorized institution must demonstrate to the satisfaction of the Monetary Authority that, if the institution uses the relevant models to calculate an incremental risk charge—
+
+  - (a) the relevant models capture and adequately reflect, on a continuing basis, the incremental risks inherent in the institution’s relevant positions as specified in paragraph (a), or paragraphs (a) and (b), as the case requires, of the definition of incremental risk charge in section 281;
+
+  - (b) the relevant models do not capture any positions in securitization exposures or nth-to-default credit derivative contracts, even when such positions are viewed as hedging the underlying exposures held in the trading book;
+
+  - (c) the incremental risk charge is measured at a 99.9% confidence interval over a capital horizon (being the time period over which default risk and credit migration risk are measured) of one year, taking into account the liquidity horizons (being the time required to sell the position, or to hedge all material risks covered by the internal model that the institution uses to calculate the incremental risk charge, in a stressed market) applicable to individual positions or sets of positions;
+
+  - (d) the liquidity horizon for a position or set of positions is subject to a floor of 3 months;
+
+  - (e) the relevant models adopt, consistently and across all of the positions subject to the incremental risk charge—
+
+    - (i) the assumption of a constant level of risk over the one-year capital horizon, incorporating, for those individual positions that have experienced default or credit migration over their liquidity horizons, the effect of rebalancing those positions at the end of their liquidity horizons so as to achieve the institution’s initial level of risk; or
+
+    - (ii) a one-year constant position assumption over the capital horizon;
+
+  - (f) the relevant models incorporate correlation effects among the risk factors modelled, including the impact of a clustering of default and credit migration events but excluding the impact of diversification between default or credit migration events and other market variables;
+
+  - (g) the relevant models reflect—
+
+    - (i) issuer and market concentration; and
+
+    - (ii) concentrations that may arise within and across product classes under stressed conditions;
+
+  - (h) positions are netted only when long and short positions refer to the same underlying exposure, otherwise the positions are captured on a gross basis;
+
+  - (i) the relevant models only recognize the hedging or diversification effects associated with long and short positions—
+
+    - (i) involving different instruments or different underlying exposures of the same obligor; or
+
+    - (ii) in different issuers,
+
+  - by capturing and modelling separately the gross long and gross short positions in those instruments or underlying exposures and incorporating any basis risks and residual risks involved;
+
+  - (j) the relevant models reflect the nonlinear impact of options and other positions with material nonlinear behaviour with respect to price changes, taking account of model risk inherent in the valuation and estimation of price risks associated with such positions;
+
+  - (k) the incremental risk charge is computed at least once a week, or more frequently as required by the Monetary Authority;
+
+  - (l) where the institution chooses to include equity exposures in the calculation pursuant to section 317B of these Rules—
+
+    - (i) the inclusion of such exposures in the calculation is consistent with how the institution internally measures and manages the default risk and credit mitigation risk of those exposures;
+
+    - (ii) such exposures are included in the incremental risk charge calculation in a consistent manner; and
+
+    - (iii) the institution applies section 149 of these Rules in determining whether a default has occurred; and
+
+  - (m) the institution satisfies the minimum requirements comparable to those set out in section 1 of Schedule 2 for the use of the IRB approach for the calculation of credit risk, using the assumption of a constant level of risk and with any necessary adjustments to reflect the impact of liquidity, concentrations and hedging on, and the option characteristics of, the institution’s market risk exposures. (L.N. 137 of 2011)
+
+- 4. Additional requirements relating to internally-developed approach for calculation of comprehensive risk charge Without prejudice to sections 1 and 2, an authorized institution must demonstrate to the satisfaction of the Monetary Authority that, if the institution uses an internally-developed approach to calculate the comprehensive risk charge for its correlation trading portfolio—
+
+  - (a) the institution is active in trading positions that fall within the correlation trading portfolio (having regard to market perception and the institution’s own judgement of the significance of such activities to itself and to the markets in which it operates);
+
+  - (b) the institution applies, consistently and with any necessary modifications, section 3(c), (d), (e), (f), (g), (h), (i), (j) and (m) of this Schedule in its calculation of comprehensive risk charge as in its calculation of incremental risk charge;
+
+  - (c) the relevant models capture and adequately reflect, on a continuing basis, not only the incremental risks but also all material risk factors affecting market risk inherent in the institution’s correlation trading portfolio;
+
+  - (d) the institution has sufficient market data to ensure that its relevant models fully capture the material risks of its correlation trading portfolio;
+
+  - (e) the comprehensive risk charge calculated by the institution is able to provide a justification for the historical price variation of its positions in the correlation trading portfolio;
+
+  - (f) the institution is able to segregate those positions for which it has the Monetary Authority’s approval to incorporate into its calculation of comprehensive risk charge from those positions for which it does not hold such an approval;
+
+  - (g) the institution regularly applies a set of specific, predetermined stress scenarios to its correlation trading portfolio, having regard to the guidance specified in the Annex to the document entitled “Revisions to the Basel II market risk framework” published by the Basel Committee on Banking Supervision in July 2009, or in that document as amended or updated from time to time, to examine the implications of stresses to—
+
+    - (i) default rates;
+
+    - (ii) recovery rates;
+
+    - (iii) credit spreads; and
+
+    - (iv) correlations on the correlation trading portfolio’s profit or loss;
+
+  - (h) in respect of compliance with paragraph (g), the institution—
+
+    - (i) applies the stress scenarios at least weekly, and reports the results, including comparisons with the comprehensive risk charge calculated using the institution’s internally-developed approach, to the Monetary Authority within 6 weeks after the end of each quarter, or within such a period and on such a shorter interval as advised by the Monetary Authority; and
+
+    - (ii) reports to the Monetary Authority any instances where the stress tests indicate a material shortfall of the comprehensive risk charge as soon as reasonably practicable in all the circumstances of the case; and
+
+  - (i) in respect of the relevant model, comprehensive risk charge is computed at least weekly, or more frequently as required by the Monetary Authority. (L.N. 137 of 2011)

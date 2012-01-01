@@ -8,33 +8,31 @@ STANDARD SUPERVISORY HAIRCUTS FOR COMPREHENSIVE APPROACH TO TREATMENT OF RECOGNI
 
 TABLE
 
-- PART 1 STANDARD SUPERVISORY HAIRCUTS
-
-- FOR DEBT SECURITIES
+- Part 1 Standard Supervisory Haircuts for Debt Securities
 
 Credit quality grade/ | Standard supervisory haircuts
 
-Item | Types of exposure or recognized collateral | short-term credit quality grade | Residual maturity | Sovereign issuers | other issuers
+Item | Types of exposure or recognized collateral | short-term credit quality grade | Residual maturity | Sovereign issuers | Other issuers
 
-1. | Debt securities with ECAI issue specific ratings | grade 1 | (a) not more than 1 year | 0.5% | 1%
-
-(b) more than 1 year but not more than 5 years | 2% | 4%
-
-(c) more than 5 years | 4% | 8%
-
-2. | Recognized collateral which falls within any of section 79(e) to (l) of these Rules | grade 1 | (a) not more than 1 year | 0.5% | 1%
+1. | Debt securities with ECAI issue specific ratings | grade 1 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 1 and 2 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 0.5% | 1%
 
 (b) more than 1 year but not more than 5 years | 2% | 4%
 
 (c) more than 5 years | 4% | 8%
 
-3. | Debt securities with ECAI issue specific ratings | grade 2 and 3 | (a) not more than 1 year | 1% | 2%
+2. | Recognized collateral that falls within any of section 79(e) to (la) of these Rules | grade 1 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 1 and 2 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 0.5% | 1%
+
+(b) more than 1 year but not more than 5 years | 2% | 4%
+
+(c) more than 5 years | 4% | 8%
+
+3. | Debt securities with ECAI issue specific ratings | grade 2 and 3 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 3 and 4 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 1% | 2%
 
 (b) more than 1 year but not more than 5 years | 3% | 6%
 
 (c) more than 5 years | 6% | 12%
 
-4. | Recognized collateral which falls within any of section 79(e) to (l) of these Rules | grade 2 and 3 | (a) not more than 1 year | 1% | 2%
+4. | Recognized collateral that falls within any of section 79(e) to (la) of these Rules | grade 2 and 3 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 3 and 4 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 1% | 2%
 
 (b) more than 1 year but not more than 5 years | 3% | 6%
 
@@ -42,15 +40,15 @@ Item | Types of exposure or recognized collateral | short-term credit quality gr
 
 5. | Debt securities with long-term ECAI issue specific ratings | grade 4 | All | 15% | not applicable
 
-6. | Recognized collateral which falls within section 79(e), (f) or (h) of these Rules | grade 4 | All | 15% | not applicable
+6. | Recognized collateral that falls within section 79(e), (f) or (h) of these Rules | grade 4 | All | 15% | not applicable
 
-7. | Debt securities without ECAI issue specific ratings issued by banks or securities firms, which satisfy the criteria set out in section 79(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2%
+7. | Debt securities without ECAI issue specific ratings issued by banks or securities firms, that satisfy the criteria set out in section 79(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2%
 
 (b) more than 1 year but not more than 5 years | not applicable | 6%
 
 (c) more than 5 years | not applicable | 12%
 
-8. | Recognized collateral, which falls within section 79(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2%
+8. | Recognized collateral, that falls within section 79(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2%
 
 (b) more than 1 year but not more than 5 years | not applicable | 6%
 
@@ -106,12 +104,24 @@ Item | Types of exposure or recognized collateral | Standard supervisory haircut
 
   - (d)
 
-    - “debt securities” (債務證券) has the meaning assigned to it by section 51 of these Rules;
+    - “debt securities” (債務證券) has the meaning assigned to it by section 51(1) of these Rules; (L.N. 137 of 2011)
 
   - (e)
 
-    - “recognized collateral” (認可抵押品) has the meaning assigned to it by section 51 of these Rules;
+    - “recognized collateral” (認可抵押品) has the meaning assigned to it by section 51(1) of these Rules; (L.N. 137 of 2011)
 
   - (f)
 
-    - “other issuers” (其他發行人) includes public sector entities which are not sovereign foreign public sector entities.
+    - “other issuers” (其他發行人) includes public sector entities which are not sovereign foreign public sector entities; (L.N. 137 of 2011)
+
+  - (g)
+
+    - ECAI issue specific rating (ECAI 特定債項評級)—
+
+      - (i) in relation to a debt security issued by a bank, a securities firm, a corporate incorporated outside India, or any other issuer that is not a corporate incorporated in India, means a short-term credit assessment rating or long-term credit assessment rating that is assigned to the debt security by an ECAI within the meaning of paragraph (a), (b), (c), (d) or (e) of the definition of external credit assessment institution in section 2(1) of these Rules, and is for the time being neither withdrawn nor suspended by that ECAI; or
+
+      - (ii) in relation to a debt security issued by a corporate incorporated in India, means a short-term credit assessment rating or long-term credit assessment rating that is assigned to the debt security by an ECAI, and is for the time being neither withdrawn nor suspended by that ECAI; (L.N. 137 of 2011)
+
+  - (h)
+
+    - long-term ECAI issue specific rating (長期ECAI特定債項評級), in relation to a debt security issued by a sovereign, a sovereign foreign public sector entity, or a multilateral development bank, means an ECAI issue specific rating assigned to the debt security by an ECAI within the meaning of paragraph (a), (b), (c), (d) or (e) of the definition of external credit assessment institution in section 2(1) of these Rules that is a long-term credit assessment rating. (L.N. 137 of 2011)

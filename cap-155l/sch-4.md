@@ -64,9 +64,7 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 25 OF THESE RULE
 
   - (j) the reviews referred to in paragraph (i) include the activities of particular business units of the institution and of the operational risk management function of the institution.
 
-- 2. Specific mapping requirements applicable
-
-- to standardized business lines Without prejudice to the generality of section 1, an authorized institution shall demonstrate to the satisfaction of the Monetary Authority that—
+- 2. Specific mapping requirements applicable to standardized business lines Without prejudice to the generality of section 1, an authorized institution shall demonstrate to the satisfaction of the Monetary Authority that—
 
   - (a) the institution has, for the purposes of using the STO approach or ASA approach, policies and criteria in writing applicable to the institution’s mapping of the gross income it recognizes from its current business lines into the standardized business lines;
 
@@ -104,6 +102,6 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 25 OF THESE RULE
 
     - (viii) the institution has established systems, policies and procedures to readily map into its standardized business lines any new business activity carried out or to be carried out by the institution or any new product provided or to be provided by the institution;
 
-    - (ix) the senior management of the institution is responsible for the development, implementation and oversight of the institution’s policy in relation to mapping its business activities into the standardized business lines and the board of directors of the institution is responsible for approving the principal elements of that policy and any major revision to those elements; and
+    - (ix) the senior management of the institution is responsible for the development, implementation and oversight of the institution’s policy in relation to mapping its business activities into the standardized business lines and the board of directors (or a committee designated by the board) of the institution is responsible for approving the principal elements of that policy and any major revision to those elements; and (L.N. 137 of 2011)
 
     - (x) the process by which the institution maps its business activities into the standardized business lines is regularly reviewed by a party independent from that process.

@@ -12,4 +12,6 @@ Credit quality grade | Standard & Poor’s Ratings Services | Moody’s Investor
 
 3 | BB– B+ | Ba3 B1 | BB– B+ | BB– B+
 
-4 | B B– CCC+ CCC CCC– CC C | B2 B3 Caa1 Caa2 Caa3 Ca C | B B– CCC+ CCC CCC– CC C | B B– CCC+ CCC CCC– CC C
+4 | B B– CCC+ CCC CCC– CC C | B2 B3 Caa1 Caa2 Caa3 Ca C | B B– CCC CC C | B B– CCC+ CCC CCC– CC C
+
+(L.N. 137 of 2011)

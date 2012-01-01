@@ -88,7 +88,7 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 8 OF THESE RULES
 
     - (iv) implementing an effective control process for making changes to the institution’s rating system in response to the results of the validation; and
 
-    - (v) reviewing any proposed development of the institution’s rating system to assess whether the rating system will function effectively as intended if the proposed development is implemented; and
+    - (v) reviewing any proposed development of, or any proposed significant change to, the institution’s rating system to assess whether the rating system will function effectively as intended if the proposed development is implemented or the proposed change made, as the case may be; and (L.N. 137 of 2011)
 
   - (j) an independent review or audit of the institution’s compliance with the requirements specified in this section is conducted regularly by the institution’s internal auditors or by independent external parties which are qualified to do so.
 
