@@ -8,7 +8,7 @@
 
 - OUTSIDE HARBOUR LIMITS
 
-  - 1. For every ship piloted, a pilotage due of $4,100 plus— (L.N. 111 of 2005; L.N. 70 of 2008)
+  - 1. For every ship piloted, a pilotage due of $4,400 plus— (L.N. 111 of 2005; L.N. 70 of 2008; L.N. 174 of 2011)
 
     - (a) for ships having a gross registered tonnage of less than 30000 tons, $0.065 per ton of the ship’s gross registered tonnage; (L.N. 234 of 2002; L.N. 70 of 2008)
 
@@ -34,7 +34,7 @@
 
   - 5. An additional pilotage due of $1,900 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship off Ngan Chau or at the west of Lamma Island. (L.N. 19 of 1997; L.N. 160 of 1999; L.N. 161 of 1999; L.N. 234 of 2002; L.N. 111 of 2005; L.N. 240 of 2009)
 
-  - 5A. An additional pilotage due of $2,000 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship west of a straight line drawn from Pearl Island to East Brother Island. (L.N. 19 of 1997; L.N. 111 of 2005)
+  - 5A. An additional pilotage due of $2,300 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship west of a straight line drawn from Pearl Island to East Brother Island. (L.N. 19 of 1997; L.N. 111 of 2005; L.N. 174 of 2011)
 
   - 5B. An additional pilotage due of $1,250 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship north of a straight line drawn from Black Point to Lung Kwu Chau Light. (L.N. 111 of 2005)
 
@@ -52,7 +52,7 @@
 
     - (b) within 1 hour before the last stated time of a requirement for pilotage services elsewhere,
 
-  - a pilotage due of $4,100 shall be payable. (L.N. 111 of 2005; L.N. 70 of 2008)
+  - a pilotage due of $4,400 shall be payable. (L.N. 111 of 2005; L.N. 70 of 2008; L.N. 174 of 2011)
 
   - 2. If the engagement of a pilot is altered within 2 to 3 hours of the last stated time of requirement, an additional pilotage due of $300 shall be payable.
 
