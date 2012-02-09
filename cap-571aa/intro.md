@@ -1,7 +1,9 @@
-SECURITIES AND FUTURES (LEVY) RULES
+Securities and Futures (Levy) Rules
 
-(Made by the Chief Executive in Council under section 394
+(Cap. 571, section 394)
 
-of the Securities and Futures Ordinance (Cap. 571))
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [1 April 2003] L.N. 12 of 2003
+
+(Format changes—E.R. 1 of 2012)

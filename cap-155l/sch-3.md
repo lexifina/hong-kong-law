@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 18, 19, 97, 317, 317A, 318, 319 & 320] (L.N. 137 of 2011)
 
-MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULES TO USE IMM APPROACH
+Minimum Requirements to Be Satisfied for Approval under Section 18 of these Rules to Use IMM Approach
 
 - 1. General requirements An authorized institution which makes an application under section 18 of these Rules to use the IMM approach shall demonstrate to the satisfaction of the Monetary Authority that—
 
@@ -126,11 +126,7 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
       - (D) if the institution’s portfolio of option exposures is relatively large or complex, the institution is able to estimate in detail the volatility of option positions at different maturities.
 
-- 2.
-
-- Additional requirements relating to internal models for calculation of market risk capital charge for specific risk
-
-- Without prejudice to the generality of section 1, an authorized institution shall demonstrate to the satisfaction of the Monetary Authority that, if the institution uses the relevant models to calculate the market risk capital charge for specific risk—
+- 2. Additional requirements relating to internal models for calculation of market risk capital charge for specific risk Without prejudice to the generality of section 1, an authorized institution shall demonstrate to the satisfaction of the Monetary Authority that, if the institution uses the relevant models to calculate the market risk capital charge for specific risk—
 
   - (a) the relevant models capture all material components of market risk and are responsive to changes in market conditions and the composition of the institution’s portfolios of exposures and, in particular—
 
@@ -210,7 +206,9 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
     - (iii) the institution applies section 149 of these Rules in determining whether a default has occurred; and
 
-  - (m) the institution satisfies the minimum requirements comparable to those set out in section 1 of Schedule 2 for the use of the IRB approach for the calculation of credit risk, using the assumption of a constant level of risk and with any necessary adjustments to reflect the impact of liquidity, concentrations and hedging on, and the option characteristics of, the institution’s market risk exposures. (L.N. 137 of 2011)
+  - (m) the institution satisfies the minimum requirements comparable to those set out in section 1 of Schedule 2 for the use of the IRB approach for the calculation of credit risk, using the assumption of a constant level of risk and with any necessary adjustments to reflect the impact of liquidity, concentrations and hedging on, and the option characteristics of, the institution’s market risk exposures.
+
+- (L.N. 137 of 2011)
 
 - 4. Additional requirements relating to internally-developed approach for calculation of comprehensive risk charge Without prejudice to sections 1 and 2, an authorized institution must demonstrate to the satisfaction of the Monetary Authority that, if the institution uses an internally-developed approach to calculate the comprehensive risk charge for its correlation trading portfolio—
 
@@ -242,4 +240,6 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 18 OF THESE RULE
 
     - (ii) reports to the Monetary Authority any instances where the stress tests indicate a material shortfall of the comprehensive risk charge as soon as reasonably practicable in all the circumstances of the case; and
 
-  - (i) in respect of the relevant model, comprehensive risk charge is computed at least weekly, or more frequently as required by the Monetary Authority. (L.N. 137 of 2011)
+  - (i) in respect of the relevant model, comprehensive risk charge is computed at least weekly, or more frequently as required by the Monetary Authority.
+
+- (L.N. 137 of 2011)

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & 5(a)]
 
-PRESCRIBED LIMIT AND REPORTING LEVEL FOR FUTURES CONTRACTS
+Prescribed Limit and Reporting Level for Futures Contracts
 
 Item | Futures contract | Prescribed limit | Reporting level
 

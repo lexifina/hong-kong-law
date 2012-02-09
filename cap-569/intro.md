@@ -2,4 +2,6 @@ An Ordinance to provide for the election of the Chief Executive in accordance wi
 
 [21 September 2001] L.N. 187 of 2001
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2012)
+
+(Format changes—E.R. 1 of 2012)

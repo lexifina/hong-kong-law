@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1), 14A(1) & 19CA(4) & (5)] (Amended 4 of 2011 s. 6)
 
-STANDARD RATE
+Standard Rate
 
 For the years of assessment 1947/48 to 1949/50 inclusive | — | 10%.
 
@@ -40,4 +40,6 @@ For the years of assessment 2004/05 to 2007/08 inclusive | — | 16%.
 
 (Added 24 of 2003 s. 9. Amended 21 of 2008 s. 7)
 
-For the year of assessment 2008/09 and for each year after that year | — | 15%. (Added 21 of 2008 s. 7)
+For the year of assessment 2008/09 and for each year after that year | — | 15%.
+
+(Added 21 of 2008 s. 7)

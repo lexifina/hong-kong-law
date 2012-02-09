@@ -1,4 +1,4 @@
-## Export of specified articles as transhipment cargo
+## Export of Specified Articles as Transhipment Cargo
 
 # 6DAD. Export carrier not to accept transhipment cargo without transhipment notification
 

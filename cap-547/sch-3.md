@@ -2,9 +2,9 @@
 
 [ss. 5, 8, 9 & 11]
 
-- PART I NUMBER OF ELECTED MEMBERS AND
+- PART 1 Number of Elected Members and
 
-- APPOINTED MEMBERS
+- Appointed Members
 
 Item | District Council | Number of elected members | Number of appointed members
 
@@ -46,7 +46,7 @@ Item | District Council | Number of elected members | Number of appointed member
 
 (Amended 33 of 2002 s. 10; L.N. 139 of 2006; L.N. 161 of 2010)
 
-- PART II RURAL COMMITTEES IN DISTRICTS
+- PART 2 Rural Committees in Districts
 
 Item | District | District Council | Number of Rural Committees | Names of Rural Committees
 
@@ -67,3 +67,5 @@ Item | District | District Council | Number of Rural Committees | Names of Rural
 8. | Tuen Mun District | Tuen Mun District Council | 1 | Tuen Mun Rural Committee
 
 9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee
+
+(Format changes—E.R. 1 of 2012)

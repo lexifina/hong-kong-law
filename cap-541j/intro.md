@@ -1,7 +1,9 @@
-ELECTORAL PROCEDURE (CHIEF EXECUTIVE ELECTION) REGULATION
+Electoral Procedure (Chief Executive Election) Regulation
 
-(Made by the Electoral Affairs Commission under section 7 of the Electoral
+(Cap. 541, section 7)
 
-Affairs Commission Ordinance (Cap. 541))
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [21 December 2001]
+
+(Format changes—E.R. 1 of 2012)

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & 35] (Amended 20 of 1999 s. 6)
 
-PUBLIC BODIES
+Public bodies
 
 - 1. Hong Kong Telecom International Limited. (Replaced 20 of 1999 s. 6)
 
@@ -202,41 +202,39 @@ PUBLIC BODIES
 
 - 98. The Ombudsman. (Added 30 of 2001 s. 24)
 
-- # 99. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002 and 5 of 2002 s. 407)
+- #99. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002 and 5 of 2002 s. 407)
 
-  - 100. Construction Workers Registration Authority. (Added 18 of 2004 s. 66)
+- 100. Construction Workers Registration Authority. (Added 18 of 2004 s. 66)
 
-  - 101. Hong Kong Deposit Protection Board. (Added 7 of 2004 s. 55)
+- 101. Hong Kong Deposit Protection Board. (Added 7 of 2004 s. 55)
 
-  - 102. Geotechnical Engineers Registration Committee. (Added 15 of 2004 s. 61)
+- 102. Geotechnical Engineers Registration Committee. (Added 15 of 2004 s. 61)
 
-  - 103. Hong Kong Sports Institute Limited. (Added L.N. 4 of 2005)
+- 103. Hong Kong Sports Institute Limited. (Added L.N. 4 of 2005)
 
-  - 104. Construction Industry Council. (Added 12 of 2006 s. 84)
+- 104. Construction Industry Council. (Added 12 of 2006 s. 84)
 
-  - 105. Construction Industry Training Board. (Added 12 of 2006 s. 84)
+- 105. Construction Industry Training Board. (Added 12 of 2006 s. 84)
 
-  - 106. Financial Reporting Council. (Added 18 of 2006 s. 79)
+- 106. Financial Reporting Council. (Added 18 of 2006 s. 79)
 
-  - 107. Commissioner on Interception of Communications and Surveillance. (Added 20 of 2006 s. 68)
+- 107. Commissioner on Interception of Communications and Surveillance. (Added 20 of 2006 s. 68)
 
-  - 108. Hong Kong IEC Limited. (Added L.N. 233 of 2006)
+- 108. Hong Kong IEC Limited. (Added L.N. 233 of 2006)
 
-  - 109. Independent Police Complaints Council. (Added 33 of 2008 s. 47)
+- 109. Independent Police Complaints Council. (Added 33 of 2008 s. 47)
 
-  - 110. West Kowloon Cultural District Authority (including any committees established under the West Kowloon Cultural District Authority Ordinance (Cap. 601)). (Added 27 of 2008 s. 42)
+- 110. West Kowloon Cultural District Authority (including any committees established under the West Kowloon Cultural District Authority Ordinance (Cap. 601)). (Added 27 of 2008 s. 42)
 
-  - 111. Any entity established under section 5(2)(h) of the West Kolwoon Cultural District Authority Ordinance (Cap. 601). (Added 27 of 2008 s. 42)
+- 111. Any entity established under section 5(2)(h) of the West Kolwoon Cultural District Authority Ordinance (Cap. 601). (Added 27 of 2008 s. 42)
 
-  - 112. Digital Broadcasting Corporation Hong Kong Limited. (Added L.N. 245 of 2008. Amended L.N. 50 of 2011)
+- 112. Digital Broadcasting Corporation Hong Kong Limited. (Added L.N. 245 of 2008. Amended L.N. 50 of 2011)
 
-  - 113. Minor Works Contractors Registration Committee. (Added L.N. 179 of 2009)
+- 113. Minor Works Contractors Registration Committee. (Added L.N. 179 of 2009)
 
-  - 114. Inspectors’ Registration Committee. (Added 16 of 2011 s. 46)
+- 114. Inspectors’ Registration Committee. (Added 16 of 2011 s. 46)
 
-  - 115. Phoenix U Radio Limited. (Added L.N. 50 of 2011)
-
-- (Replaced L.N. 272 of 1974)
+- 115. Phoenix U Radio Limited. (Added L.N. 50 of 2011) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 

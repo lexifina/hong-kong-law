@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 10A & 48] (Amended 18 of 2008 s. 13)
 
-MINIMUM LEVEL OF RELEVANT INCOME PER CONTRIBUTION PERIOD
+Minimum Level of Relevant Income Per Contribution Period
 
 Minimum Level of Relevant Income Per Contribution Period
 
@@ -16,7 +16,7 @@ Minimum Level of Relevant Income Per Contribution Period
 
 - 2. The minimum level of relevant income is, in the case of a casual employee who is a member of an industry scheme, $250 per day.
 
-- 3. The minimum level of relevant income is, in the case of a self-employed person, $6,500 per month or $78,000 per year. (Schedule 2 replaced 29 of 2002 s. 12. Amended 18 of 2008 s. 13; L.N. 120 of 2011)
+- 3. The minimum level of relevant income is, in the case of a self-employed person, $6,500 per month or $78,000 per year. (Schedule 2 replaced 29 of 2002 s. 12. Amended 18 of 2008 s. 13; L.N. 120 of 2011) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 

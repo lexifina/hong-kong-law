@@ -2,7 +2,7 @@
 
 [regs. 4, 5, 6, 6AA & 7] (29 of 2000 s. 2)
 
-- PART I
+- Part 1
 
 Item | Article | Country or place
 
@@ -26,7 +26,7 @@ Item | Article | Country or place
 
 8. | Any article that has as its part any chemical to which section 7 of the Hazardous Chemicals Control Ordinance (Cap. 595) applies under section 3 of that Ordinance. | All places outside Hong Kong. (19 of 2007 s. 52)
 
-- PART II
+- Part 2
 
 Item | Article | Country or place
 

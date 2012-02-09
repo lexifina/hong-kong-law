@@ -2,4 +2,6 @@ An Ordinance to prohibit the idling of motor vehicles; provide exemptions from t
 
 [15 December 2011] L.N. 134 of 2011
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2012)
+
+(Format changes—E.R. 1 of 2012)

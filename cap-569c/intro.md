@@ -1,7 +1,9 @@
-ELECTION COMMITTEE (SUBSCRIBERS AND ELECTION DEPOSIT FOR NOMINATION) REGULATION
+Election Committee (Subscribers and Election Deposit for Nomination) Regulation
 
-(Made by the Chief Executive in Council under section 46 of the
+(Cap. 569, section 46)
 
-Chief Executive Election Ordinance (Cap. 569))
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [23 November 2001]
+
+(Format changes—E.R. 1 of 2012)

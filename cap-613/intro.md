@@ -2,4 +2,6 @@ An Ordinance to regulate residential care homes for persons with disabilities by
 
 [18 November 2011]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2012)
+
+(Format changes—E.R. 1 of 2012)

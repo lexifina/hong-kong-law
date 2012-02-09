@@ -2,4 +2,6 @@ An Ordinance to provide for fire safety improvements to be made to certain compo
 
 [1 July 2007] L.N. 63 of 2007
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2012)
+
+(Format changes—E.R. 1 of 2012)

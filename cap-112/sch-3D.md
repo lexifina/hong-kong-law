@@ -1,8 +1,8 @@
-# SCHEDULE 3D
+# Schedule 3D
 
 [s. 26E]
 
-HOME LOAN INTEREST DEDUCTION
+Home Loan Interest Deduction
 
 1. | For the years of assessment 1998/99 to 2000/01 inclusive (Replaced 29 of 2001 s. 3) | $100,000
 

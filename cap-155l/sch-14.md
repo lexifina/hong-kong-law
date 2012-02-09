@@ -1,8 +1,8 @@
-# SCHEDULE 14
+# Schedule 14
 
 [ss. 227, 251, 262 & 264]
 
-MAPPING OF ECAI ISSUE SPECIFIC RATINGS INTO CREDIT QUALITY GRADES UNDER RATINGS-BASED METHOD
+Mapping of ECAI Issue Specific Rations into Credit Quality Grades under Ratings-based Method
 
 Table A Long-term Credit Quality Grades
 

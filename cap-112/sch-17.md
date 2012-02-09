@@ -1,10 +1,12 @@
-# SCHEDULE 17
+# Schedule 17
 
 [ss. 16H & 16K]
 
-ENVIRONMENTAL PROTECTION FACILITIES
+Environmental Protection Facilities
 
-- PART 1 MACHINERY OR PLANT
+(Schedule 17 added 21 of 2008 s. 11)
+
+- Part 1 Machinery or Plant
 
   - 1. Low noise construction machinery or plant registered under the Quality Powered Mechanical Equipment system administered by the Environmental Protection Department.
 
@@ -14,7 +16,7 @@ ENVIRONMENTAL PROTECTION FACILITIES
 
   - 4. Wastewater treatment machinery or plant in compliance with the requirements under the Water Pollution Control Ordinance (Cap. 358).
 
-- PART 2 INSTALLATIONS
+- Part 2 Installations
 
   - 1. Any of the following installations—
 
@@ -44,7 +46,7 @@ ENVIRONMENTAL PROTECTION FACILITIES
 
   - 2. Energy efficient building installations registered under the Hong Kong Energy Efficiency Registration Scheme for Buildings administered by the Electrical and Mechanical Services Department.
 
-- PART 3 ENVIRONMENT-FRIENDLY VEHICLES
+- Part 3 Environment-friendly Vehicles
 
   - 1. Any vehicle qualified for remission of first registration tax (as defined by section 2(1) of the Motor Vehicles (First Registration Tax) Ordinance (Cap. 330)) under the following schemes administered by the Environmental Protection Department—
 
@@ -58,4 +60,4 @@ ENVIRONMENTAL PROTECTION FACILITIES
 
     - (b) battery, capacitor, flywheel, generator or other electrical energy or power storage device.
 
-  - 3. Any motor vehicle (as defined by section 2(1) of the Motor Vehicles (First Registration Tax) Ordinance (Cap. 330)) that is solely propelled by electric power and does not emit any exhaust gas. (Part 3 added 10 of 2010 s. 8) (Schedule 17 added 21 of 2008 s. 11)
+  - 3. Any motor vehicle (as defined by section 2(1) of the Motor Vehicles (First Registration Tax) Ordinance (Cap. 330)) that is solely propelled by electric power and does not emit any exhaust gas. (Part 3 added 10 of 2010 s. 8)

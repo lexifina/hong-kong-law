@@ -1,8 +1,10 @@
-# SCHEDULE 5A
+# Schedule 5A
 
 [ss. 33 & 48]
 
-PROCEDURE AT INQUIRIES
+Procedure at Inquiries
+
+(Schedule 5A added 4 of 1998 s. 2) (Format changes—E.R. 1 of 2012)
 
 - 1. Approved trustee to be given notice of inquiry Not later than 7 days before holding an inquiry under section 33, the Authority must give the approved trustee concerned 7 days’ notice of the date on which, and the time and place at which, the inquiry is to begin.
 
@@ -22,6 +24,4 @@ PROCEDURE AT INQUIRIES
 
     - (b) to address the Authority on that trustee’s behalf.
 
-- 4. Authority to give decision
-
-- in writing At the conclusion of the inquiry, the Authority must give its decision in writing and must specify in the decision the grounds on which it is based. The Authority must ensure that a copy of the decision is given to the approved trustee concerned. (Schedule 5A added 4 of 1998 s. 2)
+- 4. Authority to give decision in writing At the conclusion of the inquiry, the Authority must give its decision in writing and must specify in the decision the grounds on which it is based. The Authority must ensure that a copy of the decision is given to the approved trustee concerned.

@@ -1,5 +1,9 @@
-CLUBS (SAFETY OF PREMISES) (EXCLUSION) ORDER
+Clubs (Safety of Premises) (Exclusion) Order
 
-(Made under section 3 of the Clubs (Safety of Premises) Ordinance (Cap. 376))
+(Cap. 376, section 3)
+
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [11 September 1992]
+
+(Format changes—E.R. 1 of 2012)

@@ -1,5 +1,7 @@
 An Ordinance to regulate homes established for the residential care of persons who have attained the age of 60 years.
 
-[1 April 1995]
+[1 April 1995] L.N. 95 of 1995
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Format changes—E.R. 1 of 2012)
+
+(Enacting provision omitted—E.R. 1 of 2012)

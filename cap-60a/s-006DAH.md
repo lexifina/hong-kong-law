@@ -14,4 +14,4 @@ Editorial Note:
 
 * Commencement date: 8 January 2004.
 
-** L.N. 31 of 2006 was made by the Director for the purposes of regulation 6DAH(3) and its text is reproduced as follows— “For the purposes of regulation 6DAH(3) of the Import and Export (General) Regulations (Cap. 60 sub. leg. A), I specify 15 June 2006 as the date on which the period specified for the purposes of regulation 6DAH(1) and (2) (in so far as it relates to any provision of regulation 6DAC or 6DAE of the Regulations requiring the delivery of a copy or extract of the manifest of a vessel) of the Regulations shall end.”.
+**See the Import and Export (General) Regulations (Specification of Ending Date under Regulation 6DAH) Notice 2006 (L.N. 31 of 2006).

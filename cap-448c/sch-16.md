@@ -1,4 +1,4 @@
-# SCHEDULE 16 THE AIR NAVIGATION (DANGEROUS GOODS) REGULATIONS
+# Schedule 16 The Air Navigation (Dangerous Goods) Regulations
 
 - Article 44
 
@@ -8,11 +8,11 @@
 
     - (1) In these Regulations:—
 
-      - “appropriate authority” means any authority designated, or otherwise recognized by a State concerned to perform specific functions related to provisions contained in the Technical Instructions; (L.N. 179 of 1999)
+      - appropriate authority means any authority designated, or otherwise recognized by a State concerned to perform specific functions related to provisions contained in the Technical Instructions; (L.N. 179 of 1999)
 
-      - “consignment” means one or more packages of dangerous goods accepted by an operator from one shipper at one time and at one address receipted for in one lot and moving to one consignee at one destination address;
+      - consignment means one or more packages of dangerous goods accepted by an operator from one shipper at one time and at one address receipted for in one lot and moving to one consignee at one destination address;
 
-      - “dangerous goods” means any article or substance which—
+      - dangerous goods means any article or substance which—
 
         - (a) is capable of posing a risk to health, safety, property or the environment; and
 
@@ -22,17 +22,17 @@
 
           - (ii) shown in the list of dangerous goods in Part 3 of the Technical Instructions; (L.N. 214 of 2003)
 
-      - “dangerous goods transport document” means a document, not being an air waybill, which is required by Regulation 4 of these Regulations to accompany a consignment of dangerous goods;
+      - dangerous goods transport document means a document, not being an air waybill, which is required by Regulation 4 of these Regulations to accompany a consignment of dangerous goods;
 
-      - “package” means the packaging and the articles and substances contained therein including one or more packages which have been consolidated by one shipper into one container or enclosure for convenience in handling;
+      - package means the packaging and the articles and substances contained therein including one or more packages which have been consolidated by one shipper into one container or enclosure for convenience in handling;
 
-      - “packing” means the art and operation whereby articles and substances are wrapped up, enclosed in containers or otherwise secured, and “packed” shall be construed accordingly;
+      - packing means the art and operation whereby articles and substances are wrapped up, enclosed in containers or otherwise secured, and packed shall be construed accordingly;
 
-      - “States concerned” has the same meaning as it has in Chapter 1.1.3 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001; L.N. 140 of 2011)
+      - States concerned has the same meaning as it has in Chapter 1.1.3 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001; L.N. 140 of 2011)
 
-      - “Technical Instructions”* means the 2011–2012 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011)
+      - Technical Instructions* means the 2011–2012 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011)
 
-      - “unit load device” means any type of freight container including any container designed for loading on an aircraft.
+      - unit load device means any type of freight container including any container designed for loading on an aircraft.
 
     - (2) For the avoidance of doubt, any instructions or limitations contained in the Technical Instructions for the carriage of dangerous goods on passenger or cargo aircraft, as therein defined, shall for the purpose of these Regulations be interpreted as applying also to the carriage of such goods beneath passenger or cargo aircraft respectively.
 

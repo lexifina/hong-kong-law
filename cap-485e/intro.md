@@ -1,9 +1,9 @@
-MANDATORY PROVIDENT FUND SCHEMES (CONTRIBUTIONS FOR CASUAL EMPLOYEES) ORDER
+Mandatory Provident Fund Schemes (Contributions for Casual Employees) Order
 
-(Made by the Mandatory Provident Fund Schemes Authority
+(Cap. 485, section 7A(6))
 
-under section 7A(6) of the Mandatory Provident Fund
+(Enacting provision omitted—E.R. 1 of 2012)
 
-Schemes Ordinance (Cap. 485))
+[1 December 2000] L.N.120 of 2000
 
-[1 December 2000] L.N. 120 of 2000
+(Format changes—E.R. 1 of 2012)

@@ -1,8 +1,10 @@
-# SCHEDULE 1B
+# Schedule 1B
 
 [ss. 6F & 48]
 
-DELEGATION OF FUNCTIONS OF AUTHORITY
+Delegation of Functions of Authority
+
+(Schedule 1B added 4 of 1998 s. 2) (Format changes—E.R. 1 of 2012)
 
 - 1. A delegation under section 6F—
 
@@ -36,4 +38,4 @@ DELEGATION OF FUNCTIONS OF AUTHORITY
 
 - 8. A function that has been delegated may, despite the delegation, be exercised by the delegator.
 
-- 9. Section 6F and this Schedule applies to a sub-delegation of a function in the same way as it applies to a delegation of a function, but only in so far as this Ordinance or the document that authorizes the delegation of the function also authorizes the sub-delegation of the function. (Schedule 1B added 4 of 1998 s. 2)
+- 9. Section 6F and this Schedule applies to a sub-delegation of a function in the same way as it applies to a delegation of a function, but only in so far as this Ordinance or the document that authorizes the delegation of the function also authorizes the sub-delegation of the function.

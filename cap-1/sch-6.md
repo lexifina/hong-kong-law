@@ -1,8 +1,10 @@
-# SCHEDULE 6
+# Schedule 6
 
 [s. 62]
 
-PUBLIC OFFICERS
+Public Officers
+
+(Format changes—E.R. 1 of 2012)
 
 Chief Secretary for Administration
 

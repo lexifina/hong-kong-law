@@ -1,17 +1,7 @@
 Banking (Disclosure) Rules
 
-(Made by the Monetary Authority under section 60A of the Banking
+(Cap. 155, section 60A)
 
-Ordinance (Cap. 155) as amended by the Banking (Amendment)
+(Enacting provision omitted—E.R. 1 of 2012)
 
-Ordinance 2005 (19 of 2005) after consultation with the
-
-Financial Secretary, the Banking Advisory Committee,
-
-the Deposit-taking Companies Advisory Committee,
-
-The Hong Kong Association of Banks
-
-and The DTC Association)
-
-[1 January 2007] L.N.232 of 2006
+[1 January 2007] L.N. 232 of 2006

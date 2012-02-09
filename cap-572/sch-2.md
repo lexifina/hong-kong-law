@@ -1,12 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 5(1), (2), (10) & (13) & 25]
 
-FIRE SAFETY MEASURES TO BE COMPLIED WITH BY OWNERS OF COMPOSITE BUILDINGS IN RESPECT OF PARTS INTENDED FOR DOMESTIC PURPOSES AND BY OWNERS OF DOMESTIC BUILDINGS
+Fire Safety Measures to be Complied with by Owners of Composite Buildings in Respect of Parts Intended for Domestic Purposes and by Owners of Domestic Buildings
 
-- 1. Provision of fire service installations
-
-- and equipment In relation to the provision of fire service installations and equipment, requirements with which an owner of a composite building, in respect of a part intended for domestic purposes, and an owner of a domestic building can be directed to comply under section 5(1) and (2) of this Ordinance are the following—
+- 1. Provision of fire service installations and equipment In relation to the provision of fire service installations and equipment, requirements with which an owner of a composite building, in respect of a part intended for domestic purposes, and an owner of a domestic building can be directed to comply under section 5(1) and (2) of this Ordinance are the following—
 
   - (a) a requirement to provide or improve a fire hydrant and hosereel system as a source of water supply for fire fighting;
 

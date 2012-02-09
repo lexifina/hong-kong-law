@@ -1,14 +1,16 @@
-# SCHEDULE 9
+# Schedule 9
 
 [s. 89]
 
-TRANSITIONAL PROVISIONS RELATING TO THE INLAND REVENUE (AMENDMENT) (NO. 5) ORDINANCE 1993
+Transitional Provisions Relating to the Inland Revenue (Amendment) (no. 5) Ordinance 1993
+
+(Schedule 9 added 76 of 1993 s. 11)
 
 - 1. In this Schedule—
 
-  - “amending Ordinance” (修訂條例) means the Inland Revenue (Amendment) (No. 5) Ordinance 1993 (76 of 1993);
+  - amending Ordinance (修訂條例) means the Inland Revenue (Amendment) (No. 5) Ordinance 1993 (76 of 1993);
 
-  - “retirement scheme” (退休計劃) means a retirement scheme as defined in section 2(1) prior to the commencement of section 2 of the amending Ordinance.
+  - retirement scheme (退休計劃) means a retirement scheme as defined in section 2(1) prior to the commencement of section 2 of the amending Ordinance.
 
 - 2. Notwithstanding the repeal of section 87A by the amending Ordinance, where an application for approval of a retirement scheme under that section was received by the Commissioner before such repeal, the Commissioner may approve the scheme as if that section has not been repealed, and where such approval has been given the scheme shall be deemed to have been approved by the Commissioner under that section immediately prior to its repeal by the amending Ordinance.
 
@@ -22,7 +24,9 @@ TRANSITIONAL PROVISIONS RELATING TO THE INLAND REVENUE (AMENDMENT) (NO. 5) ORDIN
 
   - (b) be deemed to have been withdrawn—
 
-    - (i) upon the scheme becoming a recognized occupational retirement scheme other than by virtue of paragraph (a) of the definition of “recognized occupational retirement scheme” (認可職業退休計劃) in section 2(1);
+    - (i)
+
+      - upon the scheme becoming a recognized occupational retirement scheme other than by virtue of paragraph (a) of the definition of recognized occupational retirement scheme (認可職業退休計劃) in section 2(1);
 
     - (ii) where an application is made under section 7 or 15 of the Occupational Retirement Schemes Ordinance (Cap. 426) in respect of the scheme before the commencement of section 3 of that Ordinance but the application has not been disposed of prior to the commencement of that section, on the date on which the application is finally disposed of;
 
@@ -56,9 +60,9 @@ TRANSITIONAL PROVISIONS RELATING TO THE INLAND REVENUE (AMENDMENT) (NO. 5) ORDIN
 
     - (iv) on earlier incapacity or death:
 
-      - Provided where, however, the retirement scheme provides for proportionate or reduced benefits in the event of an employee leaving the employer’s service prior to attaining the specified age or completing the specified period of service, the provision for such benefits shall not in itself disqualify the scheme from retaining the approved status;
+  - Provided where, however, the retirement scheme provides for proportionate or reduced benefits in the event of an employee leaving the employer’s service prior to attaining the specified age or completing the specified period of service, the provision for such benefits shall not in itself disqualify the scheme from retaining the approved status;
 
-  - (d) the nature of the benefits afforded by the retirement scheme shall be the same in relation to all the persons to whom the scheme relates but a scheme relating to more than one class of employee may be regarded as so many separate schemes for this purposes;
+  - (d) the nature of the benefits afforded by the retirement scheme shall be the same in relation to all the persons to whom the scheme relates but a scheme relating to more than one class of employee may be regarded as so many separate schemes for this purpose;
 
   - (e) where the retirement scheme is conducted by a third party to whom the employer makes periodical contributions, the diversion of such contributions to any purposes (other than those of the scheme) and the refund of such contributions to the employer shall, except with the consent of the Commissioner and subject to subparagraph (f), be prohibited;
 
@@ -67,5 +71,3 @@ TRANSITIONAL PROVISIONS RELATING TO THE INLAND REVENUE (AMENDMENT) (NO. 5) ORDIN
     - (i) to the extent that the employer has suffered a loss due to a dishonest act committed by the employee; or
 
     - (ii) to the extent of a debt acknowledged in writing by the employee as owing to the employer.
-
-- (Added 76 of 1993 s. 11)

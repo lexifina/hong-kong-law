@@ -1,20 +1,22 @@
-# SCHEDULE 1A
+# Schedule 1A
 
 [s. 6A]
 
-PROVISIONS RELATING TO AUTHORITY
+Provisions relating to Authority
 
-- PART 1 DEFINITIONS
+(Schedule 1A added 4 of 1998 s. 2) (Format changes—E.R. 1 of 2012)
+
+- Part 1 Definitions
 
   - 1. Definitions In this Schedule—
 
-    - “chairperson” (主席) means the chairperson of the Authority;
+    - chairperson (主席) means the chairperson of the Authority;
 
-    - “deputy chairperson” (副主席) means the deputy chairperson of the Authority;
+    - deputy chairperson (副主席) means the deputy chairperson of the Authority;
 
-    - “director” (董事) means a director of the Authority.
+    - director (董事) means a director of the Authority.
 
-- PART 2 DIRECTORS OF AUTHORITY
+- Part 2 Directors of Authority
 
   - 2. Periods for which directors may be appointed Subject to this Schedule, a director holds office for such period (not exceeding 4 years) as is specified in the director’s document of appointment, but is eligible (if otherwise qualified) for re-appointment.
 
@@ -108,7 +110,7 @@ PROVISIONS RELATING TO AUTHORITY
 
     - (7) This section does not apply to or in respect of an interest of a director in a matter or thing which arises merely because the director is a member of a registered scheme.
 
-- PART 3 PROCEDURE AT MEETINGS OF AUTHORITY
+- Part 3 Procedure at Meetings of Authority
 
   - 8. General procedure for meetings of Authority
 
@@ -145,5 +147,3 @@ PROVISIONS RELATING TO AUTHORITY
     - (3) A motion under this section is to be approved by a simple majority of the directors unless within 3 working days of the date of the paper the chairperson orders, or any 2 other directors require under section 8(3) of this Schedule, that a meeting of the Authority to be convened to consider the motion.
 
     - (4) Papers may be circulated among directors for the purposes of this section by facsimile message or other means of transmitting the information in the papers concerned.
-
-  - (Schedule 1A added 4 of 1998 s. 2)

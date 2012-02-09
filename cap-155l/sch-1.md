@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 73, 120, 166 & 182]
 
-SPECIFICATIONS FOR PURPOSES OF CERTAIN DEFINITIONS IN SECTION 2(1) OF THESE RULES
+Specifications for Purposes of Certain Definitions in Section 2(1) of these Rules
 
-- PART 1 DOMESTIC PUBLIC SECTOR ENTITIES
+- Part 1 Domestic Public Sector Entities
 
   - 1. MTR Corporation Limited.
 
@@ -26,25 +26,23 @@ SPECIFICATIONS FOR PURPOSES OF CERTAIN DEFINITIONS IN SECTION 2(1) OF THESE RULE
 
   - 10. Ocean Park Corporation.
 
-- PART 2 RELEVANT CCF IN RESPECT OF CERTAIN
+- Part 2 Relevant CCF in respect of Certain Off-balance Sheet Exposures
 
-- OFF-BALANCE SHEET EXPOSURES
+- Part 3 Restricted Collective Investment Schemes
 
-- PART 3 RESTRICTED COLLECTIVE INVESTMENT SCHEMES
+- Part 4 Restricted Debt Securities
 
-- PART 4 RESTRICTED DEBT SECURITIES
+- Part 5 Restricted Foreign Public Sector Entities
 
-- PART 5 RESTRICTED FOREIGN PUBLIC SECTOR ENTITIES
+- Part 6 Restricted Insurance Regulators
 
-- PART 6 RESTRICTED INSURANCE REGULATORS
+- Part 7 Restricted Jurisdictions
 
-- PART 7 RESTRICTED JURISDICTIONS
+- Part 8 Restricted Securities Regulators
 
-- PART 8 RESTRICTED SECURITIES REGULATORS
+- Part 9 Restricted Sovereigns
 
-- PART 9 RESTRICTED SOVEREIGNS
-
-- PART 10 RELEVANT INTERNATIONAL ORGANIZATIONS
+- Part 10 Relevant International Organizations
 
   - 1. Bank for International Settlements.
 

@@ -1,24 +1,18 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 54]
 
-PROVISIONS OF BUILDINGS ORDINANCE 1935 TO CONTINUE IN OPERATION
-
-(Adaptation amendments retroactively made - see 29 of 1998 s. 105; 62 of 2000 s. 3)
+Provisions of Buildings Ordinance 1935 to Continue in Operation
 
 Rights of Building and Adjoining Owners
 
-- 110.
-
-- Definitions “adjoining owner” and “building owner”;
-
-- provisions for buildings adjoining unbuilt-on land
+- 110. Definitions adjoining owner and building owner; provisions for buildings adjoining unbuilt-on land
 
   - (1) In this section and in sections 111 to 126—
 
-    - “adjoining owner” (毗鄰擁有人) means an owner, and “adjoining occupier” (毗鄰佔用人) means an occupier, of land, buildings, storeys or rooms adjoining those of a building owner;
+    - adjoining owner (毗鄰擁有人) means an owner, and adjoining occupier (毗鄰佔用人) means an occupier, of land, buildings, storeys or rooms adjoining those of a building owner;
 
-    - “building owner” (建築物擁有人) means such one of the owners of adjoining land who is desirous of building, or such one of the owners of buildings, storeys or rooms, separated from one another by a party wall or party structure who does or is desirous of doing a work affecting that party wall or party structure.
+    - building owner (建築物擁有人) means such one of the owners of adjoining land who is desirous of building, or such one of the owners of buildings, storeys or rooms, separated from one another by a party wall or party structure who does or is desirous of doing a work affecting that party wall or party structure.
 
   - (2) Where lands held under lease from the Government by different owners adjoin and are unbuilt-on at the line of junction, and either owner is about to build on any part of the line junction, the following provisions shall have effect. (Amended 29 of 1998 s. 105)
 
@@ -36,9 +30,7 @@ Rights of Building and Adjoining Owners
 
   - (9) Where an external wall is built against another external wall or against a party wall, it shall be lawful for the Building Authority to allow the footing of the side next such other external or party wall to be omitted.
 
-- 111. Rights of building owner in relation to party
-
-- structures, etc.; existing prior building The building owner shall have the following rights in relation to party structures and adjoining structures—
+- 111. Rights of building owner in relation to party structures, etc.; existing prior building The building owner shall have the following rights in relation to party structures and adjoining structures—
 
   - (a) to make good, underpin, or repair any party structure which is defective or out of repair;
 
@@ -62,15 +54,11 @@ Rights of Building and Adjoining Owners
 
   - (k) to raise a party fence wall, or to pull the same down and rebuild it as a party wall;
 
-  - (l) to perform any other necessary works incident to the connexion of a party structure with the premises adjoining thereto—
+  - (l) to perform any other necessary works incident to the connexion of a party structure with the premises adjoining thereto:
 
-    - Provided that these rights shall be subject to this qualification, that any building which has been erected prior to 21 February 1903 shall be deemed to be conformable to the provisions hereof if it be conformable to the provisions of the Ordinances regulating buildings before that date.
+  - Provided that these rights shall be subject to this qualification, that any building which has been erected prior to 21 February 1903 shall be deemed to be conformable to the provisions hereof if it be conformable to the provisions of the Ordinances regulating buildings before that date.
 
-- 112.
-
-- Requirements of adjoining owner in relation to party structures;
-
-- differences between building owner and adjoining owner
+- 112. Requirements of adjoining owner in relation to party structures; differences between building owner and adjoining owner
 
   - (1) Where a building owner proposes to exercise any of the foregoing rights with respect to party structures, the adjoining owner may by notice require the building owner to build on any such party structure such chimney copings, jambs, or breasts, or flues, or such piers or recesses, or any other like works as may fairly be required for the convenience of such adjoining owner, and may be specified in the notice; and it shall be the duty of the building owner to comply with such requisition in all cases where the execution of the required works will not be injurious to the building owner, or cause to him unnecessary inconvenience or unnecessary delay in the exercise of his right.
 
@@ -102,25 +90,25 @@ Rights of Building and Adjoining Owners
 
   - (4) The costs incurred in making or obtaining the award shall be paid by such party as the architect or architects determine.
 
-  - (5) If the appellant on appearing before the judge declares his unwillingness to have the matter decided by him, and proves to his satisfaction that in the event of the matter being decided against him he will be liable to pay a sum, exclusive of costs, exceeding $500, and gives security, to be approved by the judge, duly to prosecute an action in the Court of First Instance and to abide the event thereof all proceedings in Chambers shall thereupon be stayed, and the appellant may bring an action in the Court of First Instance against the other party to the difference. (Amended 62 of 2000 s. 3)
+  - (5) If the appellant on appearing before the judge declares his unwillingness to have the matter decided by him, and proves to his satisfaction that in the event of the matter being decided against him he will be liable to pay a sum, exclusive of costs, exceeding $500, and gives security, to be approved by the judge, duly to prosecute an action in the Court of First Instance and to abide the event thereof, all proceedings in Chambers shall thereupon be stayed, and the appellant may bring an action in the Court of First Instance against the other party to the difference. (Amended 62 of 2000 s. 3)
 
   - (6) The plaintiff in such action shall deliver to the defendants an issue whereby the matters in difference between them may be tried, and the form of such issue in case of dispute or of the non-appearance of the defendant shall be settled by the court, and the action shall be prosecuted and the issue tried in all respects as if it were an ordinary action or issue in the Court of First Instance, or as near thereto as circumstances admit. (Amended 62 of 2000 s. 3)
 
   - (7) If the parties agree as to the facts a special case may be stated for the opinion of the court, and such case shall be heard and decided in all respects as if it were an ordinary case stated for the opinion of the court, or as near thereto as circumstances admit; and any costs that may have been incurred before the judge in chambers shall be deemed to be costs incurred in the action and be payable accordingly.
 
-  - (8) Where both parties have concurred in the appointment of 1 architect then, if he refuses, or for 7 days neglects to act, or if he dies or becomes incapable of acting before he has made his award, the matters in dispute shall be determined in the same manner as if he had not been appointed.
+  - (8) Where both parties have concurred in the appointment of 1 architect, then, if he refuses, or for 7 days neglects to act, or if he dies or becomes incapable of acting before he has made his award, the matters in dispute shall be determined in the same manner as if he had not been appointed.
 
   - (9) Where each party has appointed an architect and a third architect has been selected, then, if he refuses, or for 7 days neglects to act, or before such difference is settled, dies, or becomes incapable of acting, the 2 architects shall forthwith select another architect in his place who shall have the same powers and authorities as were vested in his predecessor.
 
   - (10) Where each party has appointed an architect, then, if the 2 architects refuse, or, for 7 days after request of either party, neglect to select a third architect, or another third architect as aforesaid the Chief Executive may, on the application of either party, appoint the Director of Buildings or some other fit person to act as third architect who shall have the same powers and authorities as if he had been selected by the 2 architects appointed by the parties. (Amended L.N. 76 of 1982; L.N. 94 of 1986; L.N. 291 of 1993; 62 of 2000 s. 3)
 
-  - (11) Where each party has appointed an architect, then, if before the difference is settled either architect dies, or becomes incapable of acting, the part by whom he was appointed may appoint some other architect to act in his place, and if for the space of 7 days after notice served on him by the other party for that purpose, he fails to do so, the other architect may proceed ex parte, and his decision shall be as effectual as if he had been a single architect in whose appointment both parties had concurred; an architect so substituted as aforesaid shall have the same powers and authorities as were vested in the former architect at the time of his death or disability.
+  - (11) Where each party has appointed an architect, then, if before the difference is settled either architect dies, or becomes incapable of acting, the party by whom he was appointed may appoint some other architect to act in his place, and if for the space of 7 days after notice served on him by the other party for that purpose, he fails to do so, the other architect may proceed ex parte, and his decision shall be as effectual as if he had been a single architect in whose appointment both parties had concurred; an architect so substituted as aforesaid shall have the same powers and authorities as were vested in the former architect at the time of his death or disability.
 
   - (12) Where each party has appointed an architect, then, if either of the architects refuses, or for 7 days neglects to act the other may proceed ex parte, and his decision shall be as effectual as if he had been a single architect in whose appointment both parties had concurred.
 
   - (13)
 
-    - In this section, “architect” (建築師) means “authorized architect”.
+    - In this section, architect (建築師) means authorized architect.
 
 - 115. Right of entry of building owner A building owner, his servants, agents and workmen, at all usual times of working, may enter and remain on any premises for the purpose of executing, and may execute any work which he has become entitled or is required in pursuance of this Ordinance to execute, removing any furniture or doing any other thing which may be necessary; and if the premises are closed, he and they may, accompanied by a police officer, break open any fences or doors in order to effect such entry:
 
@@ -136,11 +124,9 @@ Rights of Building and Adjoining Owners
 
   - (d) nothing in this section contained shall relieve the building owner from any liability to which he would otherwise be subject in case of injury caused by his building operations to the adjoining owner.
 
-- 117. Adjoining owner may require security to be given for payment
+- 117. Adjoining owner may require security to be given for payment of expenses and counter requisition by building owner
 
-- of expenses and counter requisition by building owner
-
-  - (1) An adjoining owner may, if he thinks fit, by notice in writing, require the building owner (before commencing any work which he may be authorized by this Ordinance to execute) to give such security as may be agreed upon, or in case of difference as may be settled by a judge in chambers for the payment of all such expenses, costs and compensation in respect of the work as may be payable by the building owner.
+  - (1) An adjoining owner may, if he thinks fit, by notice in writing, require the building owner (before commencing any work which he may be authorized by this Ordinance to execute) to give such security as may be agreed upon, or in case of difference as may be settled by a judge in chambers, for the payment of all such expenses, costs and compensation in respect of the work as may be payable by the building owner.
 
   - (2) The building owner may, at any time after service on him of a party wall or party structure requisition by the adjoining owner, and before beginning a work to which the requisition relates, but not afterwards, serve a counter requisition on the adjoining owner, requiring him to give such security for payment of the expenses, costs, and compensation for which he is or will be liable, as may be agreed upon, or, in case of difference, as may be settled as aforesaid.
 
@@ -166,7 +152,7 @@ Rights of Building and Adjoining Owners
 
   - (2) If any party structure or any external wall built against another external wall is raised or underpinned in pursuance of the power by this Ordinance vested in a building owner, the expense of raising or underpinning the same and of making good all damage occasioned thereby, and of carrying up to the requisite height all such flues and chimney-stacks belonging to the adjoining owner on or against any such party structure or external wall as are by this Ordinance required to be made good and carried up, shall be borne by the building owner.
 
-  - (3) If any party structure, which is of proper materials and sound or not so far effective or out of repair as to make it necessary or desirable to pull it down, is pulled down and rebuilt by the building owner, the expense of pulling down and rebuilding the same and of making good any damage by this Ordinance required to be made good, and a fair allowance in respect of the disturbance and inconvenience caused to the adjoining owner shall be borne by the building owner.
+  - (3) If any party structure, which is of proper materials and sound or not so far defective or out of repair as to make it necessary or desirable to pull it down, is pulled down and rebuilt by the building owner, the expense of pulling down and rebuilding the same and of making good any damage by this Ordinance required to be made good, and a fair allowance in respect of the disturbance and inconvenience caused to the adjoining owner shall be borne by the building owner.
 
   - (4) If any party structure is cut into by the building owner, the expense of cutting into the same, and of making good any damage by this Ordinance required to be made good shall be borne by such building owner.
 
@@ -184,13 +170,9 @@ Rights of Building and Adjoining Owners
 
 - 121. Statement of expenses to be submitted by building owner Within 1 month after the completion of any work which a building owner is by this Ordinance authorized or required to execute, and the expense of which is in whole or in part to be borne by an adjoining owner, the building owner shall deliver to the adjoining owner an account in writing of the particulars and expense of the work, specifying any deduction to which such adjoining owner may be entitled in respect of old materials, or in other respects, and every such work shall be estimated and valued at fair average rates and prices according to the nature of the work, and the locality and the market price of materials and labour at the time.
 
-- 122. Difference between building owner and
+- 122. Difference between building owner and adjoining owner as to expenses At any time within 1 month after the delivery of the said account the adjoining owner, if dissatisfied therewith, may declare his dissatisfaction to the building owner by notice in writing served by himself or his agent, and specifying his objections thereto, and thereupon a difference shall be deemed to have arisen between the parties, and shall be determined in manner hereinbefore provided for the settlement of differences between building and adjoining owners.
 
-- adjoining owner as to expenses At any time within 1 month after the delivery of the said account the adjoining owner, if dissatisfied therewith, may declare his dissatisfaction to the building owner by notice in writing served by himself or his agent, and specifying his objections thereto, and thereupon a difference shall be deemed to have arisen between the parties, and shall be determined in manner hereinbefore provided for the settlement of differences between building and adjoining owners.
-
-- 123. Failure by adjoining owner to express dissatisfaction
-
-- to be deemed acceptance If within the said period of 1 month the adjoining owner does not declare in the said manner his dissatisfaction with the account, he shall be deemed to have accepted the same, and shall pay the same on demand to the party delivering the account, and, if he fails to do so, the amount so due may be recovered as a debt.
+- 123. Failure by adjoining owner to express dissatisfaction to be deemed acceptance If within the said period of 1 month the adjoining owner does not declare in the said manner his dissatisfaction with the account, he shall be deemed to have accepted the same, and shall pay the same on demand to the party delivering the account, and, if he fails to do so, the amount so due may be recovered as a debt.
 
 - 124. Adjoining owner failing to contribute, building owner to become sole owner Where the adjoining owner is liable to contribute to the expenses of building any party structure, then, until such contribution is paid, the building owner at whose expense the same was built shall stand possessed of the sole property in the structure.
 

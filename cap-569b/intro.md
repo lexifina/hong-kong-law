@@ -1,7 +1,9 @@
-ELECTION COMMITTEE (REGISTRATION) (VOTERS FOR SUBSECTORS) (MEMBERS OF ELECTION COMMITTEE) (APPEALS) REGULATION
+Election Committee (Registration) (Voters for Subsectors) (Members of Election Committee) (Appeals) Regulation
 
-(Made by the Chief Executive in Council under section 46 of the Chief
+(Cap. 569, section 46)
 
-Executive Election Ordinance (Cap. 569))
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [16 November 2001]
+
+(Format changes—E.R. 1 of 2012)

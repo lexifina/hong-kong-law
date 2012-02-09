@@ -1,9 +1,11 @@
-HONG KONG AIR NAVIGATION (FEES) REGULATIONS
+Hong Kong Air Navigation (Fees) Regulations
 
-(Air Navigation (Hong Kong) Order 1995 (Cap. 448 sub. leg. C), Article 97)*
+(Cap. 448 sub. leg. C, Article 97)*
 
 [1 August 1980]
 
+(Format changes—E.R. 1 of 2012)
+
 Editorial Note:
 
-* See Article 2(4) of the Air Navigation (Hong Kong) Order 1995 (Cap. 448 sub. leg. C).
+* | See Article 2(4) of the Air Navigation (Hong Kong) Order 1995 (Cap. 448 sub. leg. C).

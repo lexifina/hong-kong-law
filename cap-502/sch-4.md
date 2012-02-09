@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 3, 4 & 24A]
 
-SPECIFIED COMMERCIAL BUILDING
+Specified Commercial Building
 
 Definition
 

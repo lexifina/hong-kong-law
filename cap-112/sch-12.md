@@ -1,14 +1,16 @@
-# SCHEDULE 12
+# Schedule 12
 
 [s. 89]
 
-TRANSITIONAL PROVISIONS RELATING TO PROVISIONAL SALARIES TAX IN RESPECT OF THE YEAR OF ASSESSMENT 2001/02
+Transitional Provisions Relating to Provisional Salaries Tax in respect of the Year of Assessment 2001/02
+
+(Schedule 12 added 29 of 2001 s. 4)
 
 - 1. In this Schedule—
 
-  - “dwelling” (住宅), “place of residence” (居住地方) and “recognized organization or association” (認可組織或協會) have the respective meanings assigned to them in section 26E(9);
+  - dwelling (住宅), place of residence (居住地方) and recognized organization or association (認可組織或協會) have the respective meanings assigned to them in section 26E(9);
 
-  - “home loan” (居所貸款), in relation to a person applying under paragraph 2, means a loan of money which is—
+  - home loan (居所貸款), in relation to a person applying under paragraph 2, means a loan of money which is—
 
     - (a) applied wholly or partly for the acquisition of a dwelling which—
 
@@ -18,7 +20,7 @@ TRANSITIONAL PROVISIONS RELATING TO PROVISIONAL SALARIES TAX IN RESPECT OF THE Y
 
     - (b) secured during that period of time by a mortgage or charge over that dwelling or any other property in Hong Kong;
 
-  - “home loan interest” (居所貸款利息), in relation to a person applying under paragraph 2, means interest on a home loan which is payable by the person as a sole owner or as a joint tenant or tenant in common of the dwelling to which the home loan relates, to—
+  - home loan interest (居所貸款利息), in relation to a person applying under paragraph 2, means interest on a home loan which is payable by the person as a sole owner or as a joint tenant or tenant in common of the dwelling to which the home loan relates, to—
 
     - (a) the Government;
 
@@ -56,4 +58,4 @@ TRANSITIONAL PROVISIONS RELATING TO PROVISIONAL SALARIES TAX IN RESPECT OF THE Y
 
 - 5. On receipt of an application under paragraph 2, the Commissioner shall consider the application and may hold over the payment of the whole or part of the provisional salaries tax.
 
-- 6. The Commissioner shall, by notice in writing, inform the person applying under paragraph 2 of his decision. (Schedule 12 added 29 of 2001 s. 4)
+- 6. The Commissioner shall, by notice in writing, inform the person applying under paragraph 2 of his decision.

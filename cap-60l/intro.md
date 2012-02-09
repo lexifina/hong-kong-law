@@ -1,7 +1,9 @@
-IMPORT AND EXPORT (ELECTRONIC CARGO INFORMATION) REGULATION
+Import and Export (Electronic Cargo Information) Regulation
 
-(Made by the Chief Executive in Council under section 31 of the
+(Cap. 60, section 31)
 
-Import and Export Ordinance (Cap. 60))
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [17 November 2011] L.N. 37 of 2010
+
+(Format changes—E.R. 1 of 2012)

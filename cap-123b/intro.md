@@ -1,9 +1,7 @@
-BUILDING (CONSTRUCTION) REGULATIONS
+Building (Construction) Regulations
 
-Made by the Governor in Council under section 38
+(Cap. 123, section 38)
 
-and in pursuance of the power conferred
-
-by the proviso to section 38(5)
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [28 December 1990]

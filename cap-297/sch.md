@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [s. 9]
 
-PRESCRIBED OFFICES
+Prescribed Offices
 
-- PART 1 PUBLIC OFFICES (Replaced 10 of 1996 s. 8)
+- Part 1 Public Offices (Replaced 10 of 1996 s. 8)
 
   - 1. Any judicial office.
 
@@ -34,6 +34,6 @@ PRESCRIBED OFFICES
 
   - 14. Any office of Senior Officer or Officer in the Government Flying Service mentioned in Schedule 1 to the Government Flying Service (General) Regulation (Cap. 322 sub. leg. B) (Added L.N. 140 of 1999)
 
-- PART 2 OTHER OFFICES
+- Part 2 Other Offices
 
-  - 1. Any office occupied by the executive staff (including the Executive Directors) or the secretarial staff of the Securities and Futures Commission. ( Part 2 added 10 of 1996 s. 8)
+  - 1. Any office occupied by the executive staff (including the Executive Directors) or the secretarial staff of the Securities and Futures Commission. (Part 2 added 10 of 1996 s. 8)

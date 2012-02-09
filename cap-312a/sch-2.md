@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 17]
 
-FEES
+Fees
 
 1. | Grant of a noise certificate limited to a combination or combinations of aircraft and engine types, where a noise certificate has previously been granted in respect of the identical combination or combinations. | $505
 

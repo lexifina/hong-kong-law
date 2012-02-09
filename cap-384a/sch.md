@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [regs. 2, 4, 5, 6, 7, 7A & 7B] (L.N. 76 of 2006)
 
-- PART I SPECIFIED EDITION OF THE TECHNICAL INSTRUCTIONS 2011–2012 Edition* (L.N. 76 of 2006; L.N. 193 of 2007; L.N. 194 of 2009; L.N. 141 of 2011)
+- Part 1 Specified Edition of the Technical Instructions 2011–2012 Edition* (L.N. 76 of 2006; L.N. 193 of 2007; L.N. 194 of 2009; L.N. 141 of 2011)
 
-- PART II SPECIFIED PROVISIONS OF THE TECHNICAL INSTRUCTIONS
+- Part 2 Specified Provisions of the Technical Instructions
 
 Provision of the regulations | Provisions of the Technical Instructions specified for the purposes of that provision
 

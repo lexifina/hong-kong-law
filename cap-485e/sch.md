@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 3]
 
-SCALES OF AMOUNTS OF CONTRIBUTIONS TO BE MADE IN RESPECT OF CASUAL EMPLOYEES
+Scales of Amounts of Contributions to be made in respect of Casual Employees
 
-- PART I Scale of amounts of contributions to be made in the case of a
+- Part 1 Scale of amounts of contributions to be made in the case of a
 
 - casual employee to whom an employer pays the relevant
 
@@ -24,7 +24,7 @@ $520.00 or more but not more than $650.00 | $30.00 | $30.00
 
 More than $650.00 | $30.00 | $30.00
 
-- PART II Scale of amounts of contributions to be made in the case of a
+- Part 2 Scale of amounts of contributions to be made in the case of a
 
 - casual employee to whom an employer pays the relevant
 
@@ -44,7 +44,7 @@ $520.00 or more but not more than $650.00 | $30.00 | $30.00
 
 More than $650.00 | $30.00 | $30.00
 
-- PART III Scale of amounts of contributions to be made in the case of a
+- Part 3 Scale of amounts of contributions to be made in the case of a
 
 - casual employee to whom an employer pays the relevant
 
@@ -58,7 +58,7 @@ $250.00 or more but not more than $650.00 | 5% of the relevant income paid by th
 
 More than $650.00 | $32.5 per day in that contribution period | $32.5 per day in that contribution period
 
-(29 of 2002 s. 14; L.N. 118 of 2011)
+(29 of 2002 s. 14; L.N. 118 of 2011) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 

@@ -2,7 +2,7 @@
 
 [ss. 14A(4) & 26A(2) & (3)] (Amended 4 of 2011 s. 7)
 
-- PART I INSTRUMENTS
+- Part 1 Instruments
 
   - 1. A bill of exchange within the meaning of section 3 of the Bills of Exchange Ordinance (Cap. 19).
 
@@ -10,7 +10,7 @@
 
   - 3. Any other instrument which evidences an obligation to pay a stated or determinable amount to bearer or to order, on or before a fixed time, with or without interest, being an instrument by the delivery of which, with or without endorsement, the right to receive that stated or determinable amount, with or without interest, is transferable.
 
-- PART II BODIES
+- Part 2 Bodies
 
   - 1. The Asian Development Bank.
 

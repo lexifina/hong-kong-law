@@ -2,11 +2,11 @@
 
 [ss. 68 & 69]
 
-- PART I ORDER FOR APPELLANT TO PAY COSTS
+- Part 1 Order for Appellant to Pay Costs
 
 1. | Maximum amount which the Board of Review may order the appellant to pay as costs of the Board | $5,000
 
-- PART II APPLICATION FEE FOR CASE STATED
+- Part 2 Application Fee for Case Stated
 
 1. | Fee payable for application requiring the Board of Review to state a case ( Amended L.N. 3 of 2006) | $770
 

@@ -1,5 +1,9 @@
-BUILDING (ENERGY EFFICIENCY) REGULATION
+Building (Energy Efficiency) Regulation
 
-(Made under section 38 of the Buildings Ordinance (Cap. 123))
+(Cap. 123, section 38)
+
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [21 July 1995]
+
+(Format changes—E.R. 1 of 2012)

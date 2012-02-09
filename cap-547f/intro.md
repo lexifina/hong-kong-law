@@ -1,7 +1,7 @@
 Declaration of Constituencies (District Councils) Order 2011
 
-(Made by the Chief Executive in Council under section 6 of the
+(Cap. 547, section 6)
 
-District Councils Ordinance (Cap. 547)
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [23 May 2011]

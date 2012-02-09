@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
-DISTRIBUTION OF NUMBER OF MEMBERS AMONG DESIGNATED BODIES
+Distribution of Number of Members Among Designated Bodies
 
 Item | Designated body | Number of members
 

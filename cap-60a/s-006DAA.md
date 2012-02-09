@@ -1,8 +1,8 @@
-## PART VB IMPORT OR EXPORT OF SPECIFIED ARTICLES AS TRANSHIPMENT CARGO EXEMPTED FROM LICENSING REQUIREMENTS
+## Part 5B Import or Export of Specified Articles as Transhipment Cargo Exempted from Licensing Requirements
 
-(Part VB added 33 of 2003 s. 2)
+(Part 5B added 33 of 2003 s. 2)
 
-## Endorsement by the Commissioner, etc. on transhipment notification
+## Endorsement by the Commissioner, etc. on Transhipment Notification
 
 # 6DAA. Endorsement on transhipment notification
 

@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [ss. 3, 4 & 22]
 
@@ -72,7 +72,7 @@ Item | Ordinance | Decision
 
 34. | Wild Animals Protection Ordinance (Cap. 170) | A decision of the Director in relation to— (a) the granting of or the refusal to grant a permit or a special permit pursuant to section 13 or 15; or (b) the cancellation of a permit or a special permit under section 15A. (Added 77 of 1996 s. 22)
 
-35. | Occupational Safety and Health Ordinance (Cap. 509) | A decision of the Commission for Labour under Part III. (Added 39 of 1997 s. 49)
+35. | Occupational Safety and Health Ordinance (Cap. 509) | A decision of the Commissioner for Labour under Part III. (Added 39 of 1997 s. 49)
 
 36. | Ozone Layer Protection Ordinance (Cap. 403) | A decision of the Director of Environmental Protection under section 5, 6 or 7 or under provisions of the regulations that may be specified to be subject to an appeal under section 8. (Added 6 of 1997 s. 10)
 
@@ -143,6 +143,8 @@ Item | Ordinance | Decision
 69. | Residential Care Homes (Elderly Persons) Ordinance (Cap. 459) | A decision of the Director of Social Welfare under section 7, 8, 9 or 10(1). (Added 12 of 2011 s. 31)
 
 70. | Residential Care Homes (Persons with Disabilities) Ordinance (Cap. 613) | A decision of the Director of Social Welfare under section 7, 8, 9(1), 11 or 12. (Added 12 of 2011 s. 31)
+
+(Amended E.R. 1 of 2012)
 
 Editorial Note:
 

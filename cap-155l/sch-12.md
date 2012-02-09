@@ -1,8 +1,8 @@
-# SCHEDULE 12
+# Schedule 12
 
 [ss. 245 & 257]
 
-CCF FOR SECURITIZATION EXPOSURES SUBJECT TO CONTROLLED EARLY AMORTIZATION PROVISION
+CCF for Securitization Exposures Subject to Controlled Early Amortization Provision
 
 Credit line | Uncommitted | Committed
 

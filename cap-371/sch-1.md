@@ -1,14 +1,30 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-PUBLIC TRANSPORT CARRIERS WHERE SMOKING IS PROHIBITED
+Public Transport Carriers Where Smoking is Prohibited
 
 Item | Type of carrier
 
 1. | A public bus operated under a franchise granted under the Public Bus Services Ordinance (Cap. 230).
 
-2. | A public bus operated under a passenger service licence for the purposes of— (a) a tour service; (b) an international passenger service; (c) a hotel service; (d) a student service; (e) an employees’ service; (f) a residents’ service; (g) a multiple transport service; or (h) any other service approved by the Commissioner for Transport,
+2. | A public bus operated under a passenger service licence for the purposes of—
+
+(a) | a tour service;
+
+(b) | an international passenger service;
+
+(c) | a hotel service;
+
+(d) | a student service;
+
+(e) | an employees’ service;
+
+(f) | a residents’ service;
+
+(g) | a multiple transport service; or
+
+(h) | any other service approved by the Commissioner for Transport,
 
 under the Road Traffic Ordinance (Cap. 374) other than when hired to any person under regulation 38 of the Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D).
 

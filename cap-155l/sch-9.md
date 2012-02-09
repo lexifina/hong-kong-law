@@ -2,7 +2,7 @@
 
 [s. 229]
 
-REQUIREMENTS TO BE SATISFIED FOR USING SECTION 229(1)(a) OF THESE RULES
+Requirements to Be Satisfied for Using Section 229(1)(a) of these Rules
 
 An originating institution in a traditional securitization transaction shall demonstrate to the satisfaction of the Monetary Authority that—
 

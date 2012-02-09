@@ -4,6 +4,8 @@
 
 Transitional Provisions Relating to Provisional Salaries Tax in respect of Year of Assessment 2011/12
 
+(Schedule 22 added 9 of 2011 s. 7. Amended E.R. 1 of 2012)
+
 - 1. Interpretation In this Schedule—
 
   - current year of assessment (本課稅年度) means the year of assessment commencing on 1 April 2011;
@@ -14,11 +16,11 @@ Transitional Provisions Relating to Provisional Salaries Tax in respect of Year 
 
   - (1) For the purposes of section 63C(1) of this Ordinance, in calculating the net chargeable income of a person for the preceding year of assessment to ascertain the provisional salaries tax in respect of the current year of assessment—
 
-    - (a) the reference to “such allowances as are under Part V permitted for that person” in section 12B(1)(b) of this Ordinance; and
+    - (a) the reference to “such allowances as are under Part 5 permitted for that person” in section 12B(1)(b) of this Ordinance; and
 
-    - (b) the reference to “such allowances as are under Part V permitted in their case” in section 12B(2)(b) of this Ordinance,
+    - (b) the reference to “such allowances as are under Part 5 permitted in their case” in section 12B(2)(b) of this Ordinance,
 
-  - are to be construed as allowances that may be granted to that person, or that person and his or her spouse, whichever is applicable, for the current year of assessment under Part V of this Ordinance as amended by the Inland Revenue (Amendment) (No. 2) Ordinance 2011 (9 of 2011).
+  - are to be construed as allowances that may be granted to that person, or that person and his or her spouse, whichever is applicable, for the current year of assessment under Part 5 of this Ordinance as amended by the Inland Revenue (Amendment) (No. 2) Ordinance 2011 (9 of 2011).
 
   - (2) For the purposes of an application under section 63E(1) of this Ordinance to hold over the payment of provisional salaries tax in respect of the current year of assessment, the reference to “net chargeable income for the year preceding the year of assessment” in section 63E(2)(a) and (b) of this Ordinance is to be construed as the net chargeable income for the preceding year of assessment as calculated in accordance with subsection (1).
 
@@ -45,5 +47,3 @@ Transitional Provisions Relating to Provisional Salaries Tax in respect of Year 
   - (7) In this section—
 
     - parent or grandparent (父母或祖父母) and residential care expenses (住宿照顧開支) have the meanings given to them by section 26D(5) of this Ordinance.
-
-- (Schedule 22 added 9 of 2011 s. 7)

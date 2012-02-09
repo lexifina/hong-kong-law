@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 48]
 
-OTHER DEDUCTIONS FROM CORE CAPITAL AND SUPPLEMENTARY CAPITAL
+Other Deductions from Core Capital and Supplementary Capital
 
 The following amounts are specified for the purposes of section 48(2)(j) of these Rules—
 
@@ -14,7 +14,7 @@ The following amounts are specified for the purposes of section 48(2)(j) of thes
 
   - (i) the amount of payment made by, or the current market value of the thing delivered by, the institution in respect of any transaction in securities (other than a repo-style transaction), or any transaction in foreign exchange and commodities, which—
 
-    - (A) was entered into on a basis other than a deliveryversus- payment basis; and
+    - (A) was entered into on a basis other than a delivery-versus-payment basis; and
 
     - (B) has remained unsettled after the contractual date of payment or delivery to the institution for 5 or more business days; and
 

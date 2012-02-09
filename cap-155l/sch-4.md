@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 25 & 330]
 
-MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 25 OF THESE RULES TO USE STO APPROACH OR ASA APPROACH
+Minimum Requirements to be Satisfied for Approval under Section 25 of these Rules to Use STO Approach or ASA Approach
 
 - 1. General requirements An authorized institution which makes an application under section 25 of these Rules to use the STO approach or ASA approach shall demonstrate to the satisfaction of the Monetary Authority that—
 
@@ -76,9 +76,9 @@ MINIMUM REQUIREMENTS TO BE SATISFIED FOR APPROVAL UNDER SECTION 25 OF THESE RULE
 
     - (ii) any business activity of the institution which cannot be readily mapped into one of the standardized business lines but which is ancillary to one only of the standardized business lines is allocated to the standardized business line to which it is so ancillary;
 
-    - (iii) any business activity of the institution which cannot be readily mapped into one of the standardized business lines but which is ancillary to 2 or more standardized business lines (referred to in this paragraph as “relevant business lines”) is to be allocated to one only, or to 2 or more, of the relevant business lines by the application of objective mapping criteria (which may be, or include, allocation to that relevant business line to which the business activity is principally ancillary, or to 2 or more relevant business lines in proportion to the time spent on the respective relevant business lines);
+    - (iii) any business activity of the institution which cannot be readily mapped into one of the standardized business lines but which is ancillary to 2 or more standardized business lines (referred to in this paragraph as relevant business lines) is to be allocated to one only, or to 2 or more, of the relevant business lines by the application of objective mapping criteria (which may be, or include, allocation to that relevant business line to which the business activity is principally ancillary, or to 2 or more relevant business lines in proportion to the time spent on the respective relevant business lines);
 
-    - (iv) where none of the principles set out in subparagraphs (i), (ii) and (iii) enables the institution to map gross income in respect of a particular business activity (referred to in this paragraph as “relevant business activity”) into a particular standardized business line, the institution—
+    - (iv) where none of the principles set out in subparagraphs (i), (ii) and (iii) enables the institution to map gross income in respect of a particular business activity (referred to in this paragraph as relevant business activity) into a particular standardized business line, the institution—
 
       - (A) attributes the gross income to any standardized business line allocated the highest capital charge factor set out in section 331(1)(d) of these Rules; and
 

@@ -1,58 +1,58 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2, 8, 16, 26, 43 & 47]
 
-ELECTION COMMITTEE
+Election Committee
 
-- PART 1 PRELIMINARY
+- Part 1 Preliminary
 
   - 1. Interpretation
 
     - (1) In this Schedule—
 
-      - “body” (團體) means an incorporated or unincorporated body, and includes a firm or a group of persons (which may include incorporated or unincorporated bodies) who are associated with each other through a shared relevant interest;
+      - body (團體) means an incorporated or unincorporated body, and includes a firm or a group of persons (which may include incorporated or unincorporated bodies) who are associated with each other through a shared relevant interest;
 
-      - “corporate member” (團體成員), in relation to a body included in a subsector, means a body that is a member of the body so included;
+      - corporate member (團體成員), in relation to a body included in a subsector, means a body that is a member of the body so included;
 
-      - “elector” (選民), in relation to a functional constituency or geographical constituency, has the meaning assigned to it by section 3(1) of the Legislative Council Ordinance (Cap. 542);
+      - elector (選民), in relation to a functional constituency or geographical constituency, has the meaning assigned to it by section 3(1) of the Legislative Council Ordinance (Cap. 542);
 
-      - “Electoral Registration Officer” (選舉登記主任) means the person holding office as Electoral Registration Officer under section 44, and includes any person appointed to act in place of the Officer when the Officer is absent or when the office is vacant;
+      - Electoral Registration Officer (選舉登記主任) means the person holding office as Electoral Registration Officer under section 44, and includes any person appointed to act in place of the Officer when the Officer is absent or when the office is vacant;
 
-      - “ex-officio member” (當然委員), in relation to the Election Committee, means a member of that Committee referred to in section 2(7)(c);
+      - ex-officio member (當然委員), in relation to the Election Committee, means a member of that Committee referred to in section 2(7)(c);
 
-      - “functional constituency” (功能界別) means a functional constituency specified in section 20(1) of the Legislative Council Ordinance (Cap. 542);
+      - functional constituency (功能界別) means a functional constituency specified in section 20(1) of the Legislative Council Ordinance (Cap. 542);
 
-      - “geographical constituency” (地方選區) means an area declared to be a geographical constituency in accordance with Part III of the Legislative Council Ordinance (Cap. 542);
+      - geographical constituency (地方選區) means an area declared to be a geographical constituency in accordance with Part III of the Legislative Council Ordinance (Cap. 542);
 
-      - “interim register of members of the Election Committee” (選舉委員會暫行委員登記冊) means a register published under section 40(1); (Added 10 of 2006 s. 21)
+      - interim register of members of the Election Committee (選舉委員會暫行委員登記冊) means a register published under section 40(1); (Added 10 of 2006 s. 21)
 
-      - “Member” (議員), in relation to the Legislative Council, has the meaning assigned to it by section 3(1) of the Legislative Council Ordinance (Cap. 542);
+      - Member (議員), in relation to the Legislative Council, has the meaning assigned to it by section 3(1) of the Legislative Council Ordinance (Cap. 542);
 
-      - “name” (名稱), in relation to a subsector, is to be construed by reference to its description under the column headed “subsector” in Table 1, 2, 3 or 4 in section 2, as may be applicable;
+      - name (名稱), in relation to a subsector, is to be construed by reference to its description under the column headed “subsector” in Table 1, 2, 3 or 4 in section 2, as may be applicable;
 
-      - “officer” (高級人員), in relation to a body corporate, includes a director or executive, or any other person concerned in the management, of the body;
+      - officer (高級人員), in relation to a body corporate, includes a director or executive, or any other person concerned in the management, of the body;
 
-      - “registered” (登記), in relation to a functional constituency or geographical constituency, means registered under the Legislative Council Ordinance (Cap. 542) as an elector for the constituency;
+      - registered (登記), in relation to a functional constituency or geographical constituency, means registered under the Legislative Council Ordinance (Cap. 542) as an elector for the constituency;
 
-      - “the regulations” (《規例》) means regulations made under section 46 of this Ordinance;
+      - the regulations (《規例》) means regulations made under section 46 of this Ordinance;
 
-      - “Returning Officer” (選舉主任), in relation to a subsector, means the Returning Officer appointed for the subsector under section 47, and includes any person appointed to act in place of such an Officer when the Officer is absent or when an office of Returning Officer is vacant;
+      - Returning Officer (選舉主任), in relation to a subsector, means the Returning Officer appointed for the subsector under section 47, and includes any person appointed to act in place of such an Officer when the Officer is absent or when an office of Returning Officer is vacant;
 
-      - “Revising Officer” (審裁官) means a Revising Officer appointed under section 46, and includes any person appointed to act in place of the Officer when the Officer is absent or when the office of Revising Officer is vacant;
+      - Revising Officer (審裁官) means a Revising Officer appointed under section 46, and includes any person appointed to act in place of the Officer when the Officer is absent or when the office of Revising Officer is vacant;
 
-      - “subsector” (界別分組) means, subject to section 11, a subsector represented on the Election Committee as provided by section 2(4);
+      - subsector (界別分組) means, subject to section 11, a subsector represented on the Election Committee as provided by section 2(4);
 
-      - “subsector by-election” (界別分組補選) means an election to elect a member of the Election Committee assigned to a subsector who, under section 2(7)(b), is to be elected by the relevant subsector, otherwise than at a subsector ordinary election;
+      - subsector by-election (界別分組補選) means an election to elect a member of the Election Committee assigned to a subsector who, under section 2(7)(b), is to be elected by the relevant subsector, otherwise than at a subsector ordinary election;
 
-      - “subsector election” (界別分組選舉) means a subsector ordinary election or a subsector by-election;
+      - subsector election (界別分組選舉) means a subsector ordinary election or a subsector by-election;
 
-      - “subsector ordinary election” (界別分組一般選舉) means an election to elect those members of the Election Committee assigned to a subsector who, under section 2(7)(b), are to be elected by the relevant subsector, for a new term of office of the Election Committee;
+      - subsector ordinary election (界別分組一般選舉) means an election to elect those members of the Election Committee assigned to a subsector who, under section 2(7)(b), are to be elected by the relevant subsector, for a new term of office of the Election Committee;
 
-      - “sub-subsector” (小組) means a sub-subsector referred to in section 2(9)(a);
+      - sub-subsector (小組) means a sub-subsector referred to in section 2(9)(a);
 
-      - “sub-subsector by-election” (小組補選) means an election to elect a member of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), is to be elected by the sub-subsector, otherwise than at a sub-subsector ordinary election;
+      - sub-subsector by-election (小組補選) means an election to elect a member of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), is to be elected by the sub-subsector, otherwise than at a sub-subsector ordinary election;
 
-      - “sub-subsector ordinary election” (小組一般選舉) means an election to elect those members of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), are to be elected by the sub-subsector, for a new term of office of the Election Committee.
+      - sub-subsector ordinary election (小組一般選舉) means an election to elect those members of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), are to be elected by the sub-subsector, for a new term of office of the Election Committee.
 
     - (2) In this Schedule, unless the context otherwise requires, in respect of the sports, performing arts, culture and publication subsector—
 
@@ -88,31 +88,29 @@ ELECTION COMMITTEE
 
       - (b)
 
-        - “constitution” (章程), in relation to a body, includes articles of association and rules.
+        - constitution (章程), in relation to a body, includes articles of association and rules.
 
-    - (5)
+    - (5) In column 3 of Table 4 in section 2—
 
-    - In column 3 of Table 4 in section 2—
-
-    - (aa) elected member (民選議員) means a person who is elected to be an elected member under Part V of the District Councils Ordinance (Cap. 547); (Added 1 of 2011 s. 8)
+      - (aa) elected member (民選議員) means a person who is elected to be an elected member under Part V of the District Councils Ordinance (Cap. 547); (Added 1 of 2011 s. 8)
 
       - (a)
 
-        - “Hong Kong and Kowloon District Councils” (港九各區議會), in relation to the subsector specified in item 5 of that Table, means the District Councils specified in items 1 to 9 of Schedule 2 to the District Councils Ordinance (Cap. 547); and
+        - Hong Kong and Kowloon District Councils (港九各區議會), in relation to the subsector specified in item 5 of that Table, means the District Councils specified in items 1 to 9 of Schedule 2 to the District Councils Ordinance (Cap. 547); and
 
       - (b)
 
-        - “New Territories District Councils” (新界各區議會), in relation to the subsector specified in item 6 of that Table, means the District Councils specified in items 10 to 18 of Schedule 2 to the District Councils Ordinance (Cap. 547).
+        - New Territories District Councils (新界各區議會), in relation to the subsector specified in item 6 of that Table, means the District Councils specified in items 10 to 18 of Schedule 2 to the District Councils Ordinance (Cap. 547).
 
     - (6) In item 8 of Table 5 in section 2—
 
       - (a)
 
-        - “non-profit making company” (非牟利公司) means a company formed for the purpose of promoting the aims specified in paragraph (4)(a), (b) or (c) opposite to that item in column 3 of that Table, that is required by its constitution to apply its profits, if any, or other income solely in promoting those aims and to prohibit the payment of any dividend to its members; and
+        - non-profit making company (非牟利公司) means a company formed for the purpose of promoting the aims specified in paragraph (4)(a), (b) or (c) opposite to that item in column 3 of that Table, that is required by its constitution to apply its profits, if any, or other income solely in promoting those aims and to prohibit the payment of any dividend to its members; and
 
       - (b)
 
-        - “social service” (社會服務) means the provision of any one or more of the following services for the benefit of the community—
+        - social service (社會服務) means the provision of any one or more of the following services for the benefit of the community—
 
           - (i) family and child welfare services;
 
@@ -128,7 +126,7 @@ ELECTION COMMITTEE
 
           - (vii) social security.
 
-- PART 2 MEMBERSHIP OF ELECTION COMMITTEE
+- Part 2 Membership of Election Committee
 
   - 2. How Election Committee is to be constituted
 
@@ -178,7 +176,7 @@ ELECTION COMMITTEE
 
       - (a) Subject to paragraph (b), the number of members allocated to the sports, performing arts, culture and publication subsector is to be divided equally among the 4 sub-subsectors constituting that subsector, namely sports, performing arts, culture and publication sub-subsectors.
 
-      - (b) If the number of members cannot be allocated equally as an integer, the sub-subsectors are to be allocated the largest possible integer, and the remaining number is to be allocated according to the number of voters of the sub-subsectors such that the sub-subsector having the greatest number of voters is allocated a seat first until all the seats are allocated. TABLE 1 FIRST SECTOR
+      - (b) If the number of members cannot be allocated equally as an integer, the sub-subsectors are to be allocated the largest possible integer, and the remaining number is to be allocated according to the number of voters of the sub-subsectors such that the sub-subsector having the greatest number of voters is allocated a seat first until all the seats are allocated. Table 1 First Sector
 
       - Item | Subsector | Number of members
 
@@ -218,7 +216,7 @@ ELECTION COMMITTEE
 
   - (Amended 1 of 2011 s. 9)
 
-  - TABLE 2 SECOND SECTOR
+  - Table 2 Second Sector
 
   - Item | Subsector | Number of members
 
@@ -244,7 +242,7 @@ ELECTION COMMITTEE
 
   - (Amended 1 of 2011 s. 9)
 
-  - TABLE 3 THIRD SECTOR
+  - Table 3 Third Sector
 
   - Item | Subsector | Number of members
 
@@ -260,7 +258,7 @@ ELECTION COMMITTEE
 
   - (Amended 1 of 2011 s. 9)
 
-  - TABLE 4 FOURTH SECTOR
+  - Table 4 Fourth Sector
 
   - Item | Subsector | Constituents | Number of members
 
@@ -278,7 +276,7 @@ ELECTION COMMITTEE
 
   - (Amended 1 of 2011 s. 9)
 
-  - TABLE 5 COMPOSITION OF SUBSECTORS REFERRED TO IN SECTION 2(5)(c) (Subsectors without an equivalent functional constituency)
+  - Table 5 Composition of Subsectors Referred to in Section 2(5)(C) (Subsectors without an equivalent functional constituency)
 
   - Item | Subsector | Constituents
 
@@ -604,9 +602,9 @@ ELECTION COMMITTEE
 
     - (7) In this section—
 
-      - “existing final register of members of the Election Committee” (現有選舉委員會正式委員登記冊) means the final register of members of the Election Committee that is in effect under section 43 on the date of the making of the relevant vacancy declaration; (Replaced 10 of 2006 s. 31)
+      - existing final register of members of the Election Committee (現有選舉委員會正式委員登記冊) means the final register of members of the Election Committee that is in effect under section 43 on the date of the making of the relevant vacancy declaration; (Replaced 10 of 2006 s. 31)
 
-      - “vacancy declaration” (空缺宣布) means a declaration under section 5 of this Ordinance. (Replaced 25 of 2003 s. 56)
+      - vacancy declaration (空缺宣布) means a declaration under section 5 of this Ordinance. (Replaced 25 of 2003 s. 56)
 
   - (Amended 10 of 2006 s. 31)
 
@@ -624,11 +622,11 @@ ELECTION COMMITTEE
 
       - (b) the determinations of the Revising Officer on the appeals, if any, made under section 48 against the decisions of the Electoral Registration Officer in relation to the register.
 
-- PART 3 RELIGIOUS SUBSECTOR
+- Part 3 Religious Subsector
 
   - 6. Composition of the religious subsector
 
-    - (1) The religious subsector is to be composed of the following bodies (referred to in this Part as “the designated bodies”)—
+    - (1) The religious subsector is to be composed of the following bodies (referred to in this Part as the designated bodies)—
 
       - (a) Catholic Diocese of Hong Kong;
 
@@ -686,7 +684,7 @@ ELECTION COMMITTEE
 
     - (9) In this section—
 
-      - “assigned number” (獲配席位數目), in relation to a designated body, means the number specified in an order made under section 6(2) for that body.
+      - assigned number (獲配席位數目), in relation to a designated body, means the number specified in an order made under section 6(2) for that body.
 
   - 8. Who is qualified for selection as a nominee
 
@@ -734,41 +732,41 @@ ELECTION COMMITTEE
 
   - 10. Application of the Elections (Corrupt and Illegal Conduct) Ordinance The Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554) applies, with any necessary modifications, to and in relation to the selection and nomination of persons to be members of the Election Committee under section 7 in the same way as it applies to and in relation to a subsector election and so applies as if the persons selected or nominated were candidates at a subsector election.
 
-- PART 4 SUBSECTOR ELECTION
+- Part 4 Subsector Election
 
-  - Division 1-Preliminary
+  - Division 1—Preliminary
 
     - 11. Interpretation
 
       - (1) In this Part, unless the context otherwise requires—
 
-        - “authorized representative” (獲授權代表), in relation to a corporate voter, means the person authorized by the corporate voter to cast its vote at a subsector election;
+        - authorized representative (獲授權代表), in relation to a corporate voter, means the person authorized by the corporate voter to cast its vote at a subsector election;
 
-        - “corporate voter” (團體投票人) means a body that is a voter for a subsector;
+        - corporate voter (團體投票人) means a body that is a voter for a subsector;
 
-        - “District Council ordinary election” (區議會一般選舉) means elections to elect persons to fill the vacancies caused by the expiration of the term of office of the elected members of District Councils; (Added 33 of 2002 s. 11)
+        - District Council ordinary election (區議會一般選舉) means elections to elect persons to fill the vacancies caused by the expiration of the term of office of the elected members of District Councils; (Added 33 of 2002 s. 11)
 
-        - “existing functional constituencies final register” (現有功能界別正式選民登記冊) means the final register of electors for functional constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
+        - existing functional constituencies final register (現有功能界別正式選民登記冊) means the final register of electors for functional constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
 
-        - “existing geographical constituencies final register” (現有地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
+        - existing geographical constituencies final register (現有地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
 
-        - “existing subsector final register” (現有界別分組正式投票人登記冊), in relation to—
+        - existing subsector final register (現有界別分組正式投票人登記冊), in relation to—
 
           - (a) the compilation of a subsector provisional register to be compiled and published not later than 30 November 2001, means the subsector final register that was compiled and published under section 10 of Schedule 2 to the Legislative Council Ordinance (Cap. 542) in force immediately before the commencement of section 73 of this Ordinance;
 
           - (b) the compilation of any other subsector provisional register, means the subsector final register that is in effect under section 15 at the time the subsector provisional register is compiled;
 
-        - “subsector” (界別分組) means a subsector referred to in section 2(7)(b);
+        - subsector (界別分組) means a subsector referred to in section 2(7)(b);
 
-        - “subsector final register” (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b) or (1A)(b); (Amended 33 of 2002 s. 11)
+        - subsector final register (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b) or (1A)(b); (Amended 33 of 2002 s. 11)
 
-        - “subsector provisional register” (界別分組臨時投票人登記冊) means the provisional register to be compiled and published under section 14(1)(a) or (1A)(a); (Amended 33 of 2002 s. 11)
+        - subsector provisional register (界別分組臨時投票人登記冊) means the provisional register to be compiled and published under section 14(1)(a) or (1A)(a); (Amended 33 of 2002 s. 11)
 
-        - “voter” (投票人) means a person whose name is registered in a subsector final register and who is eligible to be so registered and is not disqualified from being so registered or from voting at a subsector election.
+        - voter (投票人) means a person whose name is registered in a subsector final register and who is eligible to be so registered and is not disqualified from being so registered or from voting at a subsector election.
 
       - (2) The results of subsector ordinary elections that are declared on different dates are, for the purposes of this Schedule, taken to have been declared on the later or latest of those dates.
 
-  - Division 2-Registration of voters
+  - Division 2—Registration of voters
 
     - 12. Who is eligible to be registered as a voter
 
@@ -1022,7 +1020,7 @@ ELECTION COMMITTEE
 
     - 15. When subsector final register is to take effect A subsector final register takes effect on the date of its publication and continues to have effect until the publication of the next subsector final register.
 
-  - Division 3-Conduct of subsector elections
+  - Division 3—Conduct of subsector elections
 
     - 16. When a subsector ordinary election is to be held
 
@@ -1138,7 +1136,7 @@ ELECTION COMMITTEE
 
           - (ii) if the election is a subsector by-election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in any by-election for any subsector held during the term of the District Council for which the person is elected,
 
-      - unless the candidate nominated by the person meets any description in subsection (3).
+        - unless the candidate nominated by the person meets any description in subsection (3).
 
       - (3) The descriptions are—
 
@@ -1306,9 +1304,7 @@ ELECTION COMMITTEE
 
       - (1) A person registered as a voter for a subsector is disqualified from voting at a subsector election for that subsector, if the person—
 
-        - (a) has ceased to be eligible to be registered as a voter for that subsector;
-
-        - (b)-(d) (Repealed 7 of 2009 s. 4)
+        - (a) has ceased to be eligible to be registered as a voter for that subsector; (b)-(d) (Repealed 7 of 2009 s. 4)
 
         - (e) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
 
@@ -1322,7 +1318,7 @@ ELECTION COMMITTEE
 
       - (b) a mistake in the use of a form specified under this Schedule or under the Electoral Affairs Commission Ordinance (Cap. 541),
 
-      - if the Revising Officer is satisfied on reasonable grounds that the conduct of the election was in accordance with the principles laid down in this Schedule and the Electoral Affairs Commission Ordinance (Cap. 541) and that the failure to comply or mistake did not affect the result of the election.
+    - if the Revising Officer is satisfied on reasonable grounds that the conduct of the election was in accordance with the principles laid down in this Schedule and the Electoral Affairs Commission Ordinance (Cap. 541) and that the failure to comply or mistake did not affect the result of the election.
 
     - 32. Misnomer or inaccuracy not to affect operation of election document
 
@@ -1332,7 +1328,7 @@ ELECTION COMMITTEE
 
       - (3) In this section—
 
-        - “identity document” (身分證明文件) means—
+        - identity document (身分證明文件) means—
 
           - (a) an identity card issued to a person under the Registration of Persons Ordinance
 
@@ -1370,9 +1366,9 @@ ELECTION COMMITTEE
 
       - (4)
 
-        - In this section, “voter” (投票人) includes an authorized representative of a corporate voter.
+        - In this section, voter (投票人) includes an authorized representative of a corporate voter.
 
-  - Division 4-Miscellaneous
+  - Division 4—Miscellaneous
 
     - 38. Subsector candidates entitled to send letters to voters free of postage
 
@@ -1402,7 +1398,7 @@ ELECTION COMMITTEE
 
       - (6) The determination of the Revising Officer on such an appeal is final.
 
-- PART 5 INTERIM REGISTER AND FINAL REGISTER OF MEMBERS OF ELECTION COMMITTEE (Amended 10 of 2006 s. 21)
+- Part 5 Interim Register and Final Register of Members of Election Committee (Amended 10 of 2006 s. 21)
 
   - 40. Electoral Registration Officer to compile and publish interim register and final register (Amended 10 of 2006 s. 21)
 
@@ -1474,7 +1470,7 @@ ELECTION COMMITTEE
 
     - (2) If names have been removed from or added to the final register of members of the Election Committee under section 41(2) or (3), or the register has been amended under section 42(2), the register as amended is to take effect on the date of the publication of the notice under section 41(4) or 42(3).
 
-- PART 6 MISCELLANEOUS
+- Part 6 Miscellaneous
 
   - 44. Appointment of Electoral Registration Officer and assistants
 

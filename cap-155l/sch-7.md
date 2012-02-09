@@ -1,12 +1,12 @@
-# SCHEDULE 7
+# Schedule 7
 
 [ss. 51, 86, 94 & 96]
 
-STANDARD SUPERVISORY HAIRCUTS FOR COMPREHENSIVE APPROACH TO TREATMENT OF RECOGNIZED COLLATERAL
+Standard Supervisory Haircuts for Comprehensive Approach to Treatment of Recognized Collateral
 
 1 An authorized institution which uses the comprehensive approach to the treatment of recognized collateral shall use the standard supervisory haircuts set out in the Table to take into account the price volatility of both the exposure and the collateral.
 
-TABLE
+Table
 
 - Part 1 Standard Supervisory Haircuts for Debt Securities
 
@@ -54,9 +54,9 @@ Item | Types of exposure or recognized collateral | short-term credit quality gr
 
 (c) more than 5 years | not applicable | 12%
 
-- PART 2 STANDARD SUPERVISORY HAIRCUTS FOR ASSETS
+- Part 2 Standard Supervisory Haircuts for Assets other than
 
-- OTHER THAN DEBT SECURITIES
+- Debt Securities
 
 Item | Types of exposure or recognized collateral | Standard supervisory haircuts
 
@@ -76,11 +76,9 @@ Item | Types of exposure or recognized collateral | Standard supervisory haircut
 
 8. | Recognized collateral which falls within section 79(o) or 80(c) of these Rules | highest haircut applicable to any financial instruments in which the scheme can invest
 
-- PART 3 STANDARD SUPERVISORY HAIRCUTS FOR EXPOSURES
+- Part 3 Standard Supervisory Haircuts for Exposures and Collateral
 
-- AND COLLATERAL WHICH DO NOT FALL WITHIN
-
-- PARTS 1 AND 2 OF THIS TABLE
+- which Do not Fall within Parts 1 and 2 of this Table
 
 Item | Types of exposure or recognized collateral | Standard supervisory haircuts
 
@@ -104,15 +102,15 @@ Item | Types of exposure or recognized collateral | Standard supervisory haircut
 
   - (d)
 
-    - “debt securities” (債務證券) has the meaning assigned to it by section 51(1) of these Rules; (L.N. 137 of 2011)
+    - debt securities (債務證券) has the meaning assigned to it by section 51(1) of these Rules; (L.N. 137 of 2011)
 
   - (e)
 
-    - “recognized collateral” (認可抵押品) has the meaning assigned to it by section 51(1) of these Rules; (L.N. 137 of 2011)
+    - recognized collateral (認可抵押品) has the meaning assigned to it by section 51(1) of these Rules; (L.N. 137 of 2011)
 
   - (f)
 
-    - “other issuers” (其他發行人) includes public sector entities which are not sovereign foreign public sector entities; (L.N. 137 of 2011)
+    - other issuers (其他發行人) includes public sector entities which are not sovereign foreign public sector entities; (L.N. 137 of 2011)
 
   - (g)
 

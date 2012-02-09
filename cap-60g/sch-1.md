@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 2 & Sch. 2] (L.N. 226 of 2009)
 
-STRATEGIC COMMODITIES
+Strategic Commodities
 
 Notes:
 
@@ -224,7 +224,7 @@ For guidance and navigation equipment, see Note 7 to ML11. (L.N. 95 of 2006)
 
 - 1. ML6(a) includes: (L.N. 65 of 2004)
 
-  - (a) Tanks and other military armed vehicles and military vehicles fitted with mountings for arms or equipment for mine laying or the launching of munitions specified by ML4; (L.N. 161 of 2011)
+  - (a) Tanks and other military armed vehicles and military vehicles fitted with mountings for arms or equipment for mine laying or the launching of munitions specified by under ML4; (L.N. 161 of 2011)
 
   - (b) Armoured vehicles;
 
@@ -966,7 +966,7 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
   - Technical Note:
 
-  - ‘Air Independent Propulsion’ (AIP) allows a submerged submarine to operate its propulsion system, without access to atmospheric oxygen, for a longer time than the batteries would have otherwise allowed. For the purposes of ML9(b)(4), AIP does not include nuclear power. (L.N. 254 of 2008)
+  - ’Air Independent Propulsion’ (AIP) allows a submerged submarine to operate its propulsion system, without access to atmospheric oxygen, for a longer time than the batteries would have otherwise allowed. For the purposes of ML9(b)(4), AIP does not include nuclear power. (L.N. 254 of 2008)
 
   - (c) Underwater detection devices specially designed for military use and controls thereof;
 
@@ -2676,7 +2676,7 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
   - 1C007(b) does not control abrasives.
 
-  - (c) Ceramic-ceramic “composite” materials with a glass or oxide-”matrix” and reinforced with fibres having all of the following:
+  - (c) Ceramic-ceramic “composite” materials with a glass or oxide-“matrix” and reinforced with fibres having all of the following:
 
     - (1) Made from any of the following materials:
 
@@ -8806,7 +8806,7 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
     - Note:
 
-    - 6A108(a) includes the following:
+    - 6A108(a) ncludes the following:
 
       - (a) Terrain contour mapping equipment;
 
@@ -9348,7 +9348,7 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
     - (b) Designed or modified for airborne applications and having any of the following characteristics:
 
-      - (1) Capable of providing navigation information at speeds in excess of 600 m/s; (L.N. 95 of 2006)
+      - (1) Capable of providing navigation information at speeds in excess of 600 m/s (L.N. 95 of 2006) ;
 
       - (2) Employing decryption, designed or modified for military or governmental services, to gain access to GNSS secured signal/data; or
 
@@ -9498,7 +9498,7 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
   - Note:
 
-  - “Software” controlled by 7D103 remains controlled when combined with specially designed hardware controlled by 4A102. (L.N. 226 of 2009) 7E TECHNOLOGY 7E001 “Technology” according to the General Technology Note for the “development” of equipment or “software” controlled by 7A, 7B or 7D; 7E002 “Technology” according to the General Technology Note for the “production” of equipment controlled by 7A or 7B; 7E003 “Technology” according to the General Technology Note for the repair, refurbishing or overhaul of equipment controlled by 7A001 to 7A004;
+  - ”Software” controlled by 7D103 remains controlled when combined with specially designed hardware controlled by 4A102. (L.N. 226 of 2009) 7E TECHNOLOGY 7E001 “Technology” according to the General Technology Note for the “development” of equipment or “software” controlled by 7A, 7B or 7D; 7E002 “Technology” according to the General Technology Note for the “production” of equipment controlled by 7A or 7B; 7E003 “Technology” according to the General Technology Note for the repair, refurbishing or overhaul of equipment controlled by 7A001 to 7A004;
 
   - Note:
 
@@ -10412,7 +10412,7 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
   - Note:
 
-  - “Development” or “production” “technology” controlled by 9E001 to 9E003 for gas turbine engines remains controlled when used as “use” “technology” for repair, rebuild and overhaul. Excluded from control are: technical data, drawings or documentation for maintenance activities directly associated with calibration, removal or replacement of damaged or unserviceable line replaceable units, including replacement of whole engines or engine modules. 9E001 “Technology” according to the General Technology Note for the “development” of equipment or “software” specified in 9A001(b), 9A004 to 9A012, 9A350, 9B or 9D;
+  - ”Development” or “production” “technology” controlled by 9E001 to 9E003 for gas turbine engines remains controlled when used as “use” “technology” for repair, rebuild and overhaul. Excluded from control are: technical data, drawings or documentation for maintenance activities directly associated with calibration, removal or replacement of damaged or unserviceable line replaceable units, including replacement of whole engines or engine modules. 9E001 “Technology” according to the General Technology Note for the “development” of equipment or “software” specified in 9A001(b), 9A004 to 9A012, 9A350, 9B or 9D;
 
 - (L.N. 95 of 2006; L.N. 254 of 2008)
 

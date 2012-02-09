@@ -1,10 +1,12 @@
-# SCHEDULE
+# Schedule
 
-[s. 30] (L.N. 209 of 2006)
+[s. 30]
 
-BALLOT PAPERS
+Ballot Papers
 
-FORM 1 BALLOT PAPER FOR CONTESTED ELECTION
+(L.N. 209 of 2006)
+
+Form 1 Ballot Paper for Contested Election
 
 * Only the appropriate information will be printed.
 
@@ -12,7 +14,9 @@ FORM 1 BALLOT PAPER FOR CONTESTED ELECTION
 
 (L.N. 209 of 2006)
 
-FORM 2 BALLOT PAPER FOR UNCONTESTED ELECTION
+Form 2
+
+Ballot Paper for Uncontested Election
 
 * Only the appropriate information will be printed.
 

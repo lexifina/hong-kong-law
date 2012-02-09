@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 10]
 
-HUMAN BODILY PARTS
+Human Bodily Parts
 
 - 1. Blood (including cord blood)
 

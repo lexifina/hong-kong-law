@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 35, 36 & 48]
 
-DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
+Decisions which may be the Subject of an Appeal
 
 - 1. A decision of the Authority to reject an application for approval as an approved trustee. (Added 4 of 1998 s. 2)
 
@@ -51,3 +51,5 @@ DECISIONS WHICH MAY BE THE SUBJECT OF AN APPEAL
   - (e) under section 19 of that Regulation to refuse an application to withdraw an exemption certificate;
 
   - (f) under section 23 of that Regulation to withdraw an exemption certificate. (Added L.N. 205 of 1998)
+
+- (Format changes—E.R. 1 of 2012)

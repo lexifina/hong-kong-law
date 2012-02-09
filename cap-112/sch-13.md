@@ -2,7 +2,9 @@
 
 [s. 12]
 
-INSTITUTIONS THAT MAY ACCREDIT OR RECOGNIZE TRAINING OR DEVELOPMENT COURSES FOR THE PURPOSE OF SECTION 12(6)(c)(iii)
+*Institutions that may Accredit or Recognize Training or Development Courses for the Purpose of Section 12(6)(c)(iii)
+
+(Schedule 13 added 12 of 2004 s. 22)
 
 Item | Institution
 
@@ -40,7 +42,7 @@ Item | Institution
 
 16. | The Hong Kong Institute of Certified Public Accountants incorporated by section 3 of the Professional Accountants Ordinance (Cap. 50) (Amended 23 of 2004 s. 56)
 
-*17. | The Hong Kong Society of Notaries referred to in section 2(1) of the Legal Practitioners Ordinance (Cap. 159) as amended by section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998)
+@17. | The Hong Kong Society of Notaries referred to in section 2(1) of the Legal Practitioners Ordinance (Cap. 159) as amended by section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998)
 
 18. | The Housing Managers Registration Board established by section 3 of the Housing Managers Registration Ordinance (Cap. 550)
 
@@ -84,16 +86,14 @@ Item | Institution
 
 38. | The Hong Kong Council for Accreditation of Academic and Vocational Qualifications established by section 3(1) of the Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150) (Added 6 of 2007 s. 49)
 
-(Schedule 13 added 12 of 2004 s. 22)
-
 Editorial Note:
 
-Schedule 13 (except items 3A and 17) applies in relation to the year of assessment 2004/05 and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(a) and 12 of 2006 s. 84)
+* | Schedule 13 (except items 3A and 17) applies in relation to the year of assessment 2004/05 and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(a) and 12 of 2006 s. 84)
 
-** Item 3A applies in relation to the year of assessment in which section 3 of Schedule 6 to the Construction Industry Council Ordinance (Cap. 587) comes into operation# and to all subsequent years of assessment. (Please see 12 of 2006 s. 84)
+** | Item 3A applies in relation to the year of assessment in which section 3 of Schedule 6 to the Construction Industry Council Ordinance (Cap. 587) comes into operation# and to all subsequent years of assessment. (Please see 12 of 2006 s. 84)
 
-\# Commencement date : 1 January 2008.
+\# | Commencement date : 1 January 2008.
 
-* Item 17 applies in relation to the year of assessment in which section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998) comes into operation+ and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(b))
+@ | Item 17 applies in relation to the year of assessment in which section 5(1)(e) of the Legal Practitioners (Amendment) Ordinance 1998 (27 of 1998) comes into operation+ and to all subsequent years of assessment. (Please see 12 of 2004 s. 2(5)(b))
 
-+ Commencement date: 30 June 2005.
++ | Commencement date: 30 June 2005.

@@ -4,4 +4,6 @@ An Ordinance to prohibit commercial dealings in human organs intended for transp
 
 [15 February 1996]
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Format changes—E.R. 1 of 2012)
+
+(Enacting provision omitted—E.R. 1 of 2012)

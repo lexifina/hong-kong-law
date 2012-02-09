@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 4 & 48]
 
-EXEMPT PERSONS
+Exempt Persons
 
-- PART I Item Description
+- Part 1 Item Description
 
   - 1. Any person who is an officer to which the Pensions Ordinance (Cap. 89) applies.
 
@@ -28,13 +28,13 @@ EXEMPT PERSONS
 
     - (2) In this item—
 
-      - “continuous contract” (連續性合約) has the same meaning as in section 3(1) of the Employment Ordinance (Cap. 57);
+      - continuous contract (連續性合約) has the same meaning as in section 3(1) of the Employment Ordinance (Cap. 57);
 
-      - “relevant time” (有關時間), in relation to a relevant employee, means—
+      - relevant time (有關時間), in relation to a relevant employee, means—
 
-        - (a) if the employee is being employed on the commencement of section 7 of this Ordinance, the time of that commencement;
+      - (a) if the employee is being employed on the commencement of section 7 of this Ordinance, the time of that commencement;
 
-        - (b) if the employee is employed after that commencement, the beginning of the date on which the employment begins. (Amended 2 of 2002 s. 19)
+      - (b) if the employee is employed after that commencement, the beginning of the date on which the employment begins. (Amended 2 of 2002 s. 19)
 
   - (Replaced L.N. 225 of 2000)
 
@@ -48,7 +48,7 @@ EXEMPT PERSONS
 
   - (3) In respect of item 8, the employer described in that item is an exempt person only to the extent of the relevant income of persons or relevant employees described in items 1 to 7 and 9 and not to other income (if any) derived from other sources which may be otherwise subject to the provisions of this Ordinance. (Amended 4 of 1998 s. 2)
 
-- PART II Item Description
+- Part 2 Item Description
 
   - 1. Any person who is a domestic employee in respect of a contract of employment as such.
 
@@ -60,12 +60,12 @@ EXEMPT PERSONS
 
   - (1) In this Part— (Amended 4 of 1998 s. 2)
 
-    - “domestic employee” (家務僱員) means an employee whose contract of employment is wholly or substantially for the provision of domestic services in the residential premises of the employer;
+    - domestic employee (家務僱員) means an employee whose contract of employment is wholly or substantially for the provision of domestic services in the residential premises of the employer;
 
-    - “hawker” (小販) has the same meaning as in the Public Health and Municipal Services Ordinance (Cap. 132).
+    - hawker (小販) has the same meaning as in the Public Health and Municipal Services Ordinance (Cap. 132).
 
   - (2) The persons referred to in items 1 and 2 are exempt from the operation of this Ordinance only in so far as their relevant income is derived from employment of the kind referred to in those items. (Added 4 of 1998 s. 2)
 
   - (3) An employer referred to in item 3 is exempt from the operation of this Ordinance only in respect of the relevant income of a domestic employee employed by the employer. (Added 4 of 1998 s. 2)
 
-  - (4) An employer referred to in item 4 is exempt from the operation of this Ordinance only in respect of the relevant income of the exempted employee of the employer. (Added 4 of 1998 s. 2)
+  - (4) An employer referred to in item 4 is exempt from the operation of this Ordinance only in respect of the relevant income of the exempted employee of the employer. (Added 4 of 1998 s. 2) (Format changes—E.R. 1 of 2012)

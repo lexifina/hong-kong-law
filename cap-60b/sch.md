@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [reg. 2]
 
-SCALE OF FEES
+Scale of Fees
 
 Item | $
 
@@ -56,7 +56,7 @@ Item | $
 
 11. | (Repealed L.N. 484 of 1996)
 
-12. | Annual fee for registration of a person under Part IIIA of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999; L.N. 128 of 2001) . | 3003
+12. | Annual fee for registration of a person under Part 3A of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999; L.N. 128 of 2001) . | 3003
 
 13. | Annual fee for any period beginning on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993; L.N. 25 of 2007; L.N. 150 of 2011) . | 349
 
@@ -70,7 +70,7 @@ Item | $
 
 15. | In respect of rough diamonds—
 
-(a) fee for registration as a registered rough diamond trader under Part VI of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) for a period of 2 years—
+(a) fee for registration as a registered rough diamond trader under Part 6 of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) for a period of 2 years—
 
 (i) in the case of an initial registration . | 645
 
@@ -80,7 +80,7 @@ Item | $
 
 (c) issue of export licence (L.N. 180 of 2002; L.N. 50 of 2006; L.N. 19 of 2008) . | 180
 
-(L.N. 258 of 1982; L.N. 189 of 1993; L.N. 259 of 1994; L.N. 203 of 1995; L.N. 202 of 1996; L.N. 245 of 1997)
+(L.N. 258 of 1982; L.N. 189 of 1993; L.N. 259 of 1994; L.N. 203 of 1995; L.N. 202 of 1996; L.N. 245 of 1997; E.R. 1 of 2012)
 
 Editorial Note:
 

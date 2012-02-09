@@ -1,8 +1,8 @@
-# SCHEDULE 16
+# Schedule 16
 
 [s. 20AC]
 
-SPECIFIED TRANSACTIONS
+Specified Transactions
 
 - 1. a transaction in securities.
 
@@ -18,7 +18,7 @@ SPECIFIED TRANSACTIONS
 
 - a transaction in exchange-traded commodities. In this Schedule—
 
-  - “collective investment scheme” (集體投資計劃) means arrangements in respect of any property—
+  - collective investment scheme (集體投資計劃) means arrangements in respect of any property—
 
     - (a) under which the participating persons do not have day-to-day control over the management of the property, whether or not they have the right to be consulted or to give directions in respect of the management;
 
@@ -36,21 +36,21 @@ SPECIFIED TRANSACTIONS
 
       - (ii) a payment or other returns arising from the acquisition, holding or disposal of, the exercise of any right in, the redemption of, or the expiry of, any right, interest, title or benefit in the property or any part of the property;
 
-  - “contract for differences” (差價合約) means an agreement the purpose or effect of which is to obtain a profit or avoid a loss by reference to fluctuations in the value or price of property of any description or in an index or other factor designated for that purpose in the agreement;
+  - contract for differences (差價合約) means an agreement the purpose or effect of which is to obtain a profit or avoid a loss by reference to fluctuations in the value or price of property of any description or in an index or other factor designated for that purpose in the agreement;
 
-  - “debenture” (債權證) includes debenture stocks, bonds, and other debt securities of a corporation, whether constituting a charge on the assets of the corporation or not; (Amended 8 of 2011 s. 27)
+  - debenture (債權證) includes debenture stocks, bonds, and other debt securities of a corporation, whether constituting a charge on the assets of the corporation or not; (Amended 8 of 2011 s. 27)
 
-  - “deposit” (存款) means a loan of money—
+  - deposit (存款) means a loan of money—
 
     - (a) at interest; or
 
     - (b) repayable at a premium or repayable with any consideration in money or money’s worth;
 
-  - “exchange-traded commodity” (在交易所買賣的商品) means gold or silver traded on a commodity exchange in Hong Kong to which the Commodity Exchanges (Prohibition) Ordinance (Cap. 82) does not apply by virtue of section 3(d) of that Ordinance;
+  - exchange-traded commodity (在交易所買賣的商品) means gold or silver traded on a commodity exchange in Hong Kong to which the Commodity Exchanges (Prohibition) Ordinance (Cap. 82) does not apply by virtue of section 3(d) of that Ordinance;
 
-  - “foreign exchange contract” (外匯交易合約) means a contract other than a futures contract and an options contract, whereby the parties to the contract agree to exchange different currencies at a future time;
+  - foreign exchange contract (外匯交易合約) means a contract other than a futures contract and an options contract, whereby the parties to the contract agree to exchange different currencies at a future time;
 
-  - “futures contract” (期貨合約) means—
+  - futures contract (期貨合約) means—
 
     - (a) a contract or an option on a contract that is listed or traded on the Hong Kong Futures Exchange Limited; or
 
@@ -62,7 +62,7 @@ SPECIFIED TRANSACTIONS
 
       - (iii) the transaction in respect of which is regulated by or under, or is carried out in compliance with, the Securities and Futures Ordinance (Cap. 571);
 
-  - “options contract” (期權合約) means a contract that gives the holder of the contract the option or right, exercisable at or before a time specified in the contract to—
+  - options contract (期權合約) means a contract that gives the holder of the contract the option or right, exercisable at or before a time specified in the contract to—
 
     - (a) buy or sell—
 
@@ -72,13 +72,13 @@ SPECIFIED TRANSACTIONS
 
     - (b) be paid an amount of money calculated by reference to the value of such futures contract, share or other property or by reference to the level of an index, as may be specified in the contract;
 
-  - “property” (財產) includes—
+  - property (財產) includes—
 
     - (a) money, goods, choses in action and land, whether in Hong Kong or elsewhere; and
 
     - (b) obligations, easements and every description of estate, interest and profit, present or future, vested or contingent, arising out of or incident to property as defined in paragraph (a);
 
-  - “securities” (證券) means—
+  - securities (證券) means—
 
     - (a) shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a body, whether incorporated or unincorporated, or a government or municipal government authority;
 
@@ -92,6 +92,6 @@ SPECIFIED TRANSACTIONS
 
   - but does not include shares or debentures of, or rights, options or interests (whether described as units or otherwise) in, or in respect of, shares or debentures of, a company that is a private company within the meaning of section 29 of the Companies Ordinance (Cap. 32);
 
-  - “share” (股份) means any share in the share capital of a corporation, and, except where a distinction between stock and shares is express or implied, includes stock.
+  - share (股份) means any share in the share capital of a corporation, and, except where a distinction between stock and shares is express or implied, includes stock.
 
 - (Schedule 16 added 4 of 2006 s. 5)

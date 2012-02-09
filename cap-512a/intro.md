@@ -1,7 +1,9 @@
-CHILD ABDUCTION AND CUSTODY (PARTIES TO CONVENTION) ORDER
+Child Abduction and Custody (Parties to Convention) Order
 
-(Made under section 4 of the Child Abduction and Custody Ordinance
+(Cap. 512, section 4)
 
-(49 of 1997) after consultation with the Executive Council)
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [16 January 1998]
+
+(Format changes—E.R. 1 of 2012)

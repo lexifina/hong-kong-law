@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 13]
 
-LOCATION OF CUSTOMS CLEARANCE POINT
+Location of Customs Clearance Point
 
 - 1. Lok Ma Chau Boundary Control Point.
 

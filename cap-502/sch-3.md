@@ -1,14 +1,12 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 5(2) & 25]
 
-FIRE SAFETY MEASURES TO BE COMPLIED WITH BY OCCUPIERS OF PRESCRIBED COMMERCIAL PREMISES
+Fire Safety Measures to be Complied with by Occupiers of Prescribed Commercial Premises
 
 (Replaced 15 of 1998 s. 20)
 
-- 1. Provision of fire service installations
-
-- and equipment
+- 1. Provision of fire service installations and equipment
 
   - (1) In relation to the provision of fire service installations and equipment, requirements with which an occupier of prescribed commercial premises can be directed to comply under section 5(2) of this Ordinance are the following— (Amended 15 of 1998 s. 20)
 
@@ -28,4 +26,4 @@ FIRE SAFETY MEASURES TO BE COMPLIED WITH BY OCCUPIERS OF PRESCRIBED COMMERCIAL P
 
 - 2. Definition In this Schedule—
 
-  - “fire compartment” (防火間), in relation to a building, means a part of the building that is physically separated from adjoining parts by walls, and by a floor and ceiling, that meets the standard of fire resistance prescribed by the Code of Practice for Fire Resisting Construction 1996, as published by the Director of Buildings and printed by the Government Printer.
+  - fire compartment (防火間), in relation to a building, means a part of the building that is physically separated from adjoining parts by walls, and by a floor and ceiling, that meets the standard of fire resistance prescribed by the Code of Practice for Fire Resisting Construction 1996, as published by the Director of Buildings and printed by the Government Printer.

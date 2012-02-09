@@ -6,4 +6,4 @@
 
 - 2. The frozen or chilled carcass of a domestic fowl, duck, goose or turkey or any part of such a carcass.
 
-- 3. Any frozen or chilled part of a bird mentioned in item 2 which is edible or used in the preparation of food, other than the carcass or a part of the carcass of such a bird. (Sixth Schedule added L.N. 142 of 2000)
+- 3. Any frozen or chilled part of a bird mentioned in item 2 which is edible or used in the preparation of food, other than the carcass or a part of the carcass of such a bird. (Schedule 6 added L.N. 142 of 2000)

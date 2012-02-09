@@ -1,24 +1,22 @@
-# SCHEDULE 15
+# Schedule 15
 
 [ss. 20AB & 20AE]
 
-PROVISIONS FOR ASCERTAINING AMOUNT OF ASSESSABLE PROFITS OF RESIDENT PERSON UNDER SECTION 20AE OF THIS ORDINANCE
+Provisions for Ascertaining Amount of Assessable Profits of Resident Person under Section 20AE of this Ordinance
 
-- PART 1
+- Part 1
 
-  - 1. The amount regarded as the assessable profits of a resident person for a year of assessment is the total sum arrived at by adding up the assessable profits of the non-resident person that would have been chargeable to tax under Part IV of this Ordinance but for section 20AC of this Ordinance (“exempt profits”) for each day in the period in that year of assessment during which the resident person has a direct or indirect beneficial interest in the non-resident person.
+  - 1. The amount regarded as the assessable profits of a resident person for a year of assessment is the total sum arrived at by adding up the assessable profits of the non-resident person that would have been chargeable to tax under Part 4 of this Ordinance but for section 20AC of this Ordinance (exempt profits) for each day in the period in that year of assessment during which the resident person has a direct or indirect beneficial interest in the non-resident person.
 
   - 2. For the purposes of section 1, the exempt profits of a non-resident person for a particular day in a year of assessment are to be ascertained in accordance with the following formula— B × C A = —
 
-  - D where: A means the exempt profits of the non-resident person for a particular day in a year of assessment;
-
-  - B means the extent of the resident person’s beneficial interest in the non-resident person on the particular day, expressed as a percentage determined in accordance with Part 2;
+  - D where: A means the exempt profits of the non-resident person for a particular day in a year of assessment; B means the extent of the resident person’s beneficial interest in the non-resident person on the particular day, expressed as a percentage determined in accordance with Part 2;
 
   - C means the exempt profits of the non-resident person for the accounting period of the non-resident person in which the particular day falls;
 
   - D means the total number of days in the accounting period of the non-resident person in which the particular day falls.
 
-- PART 2
+- Part 2
 
   - 1. Where a resident person has a direct beneficial interest in a non-resident person, the extent of the beneficial interest of the resident person in the non-resident person is—
 
@@ -50,4 +48,4 @@ PROVISIONS FOR ASCERTAINING AMOUNT OF ASSESSABLE PROFITS OF RESIDENT PERSON UNDE
 
       - (ii) references to a non-resident person in that section were references to the second-mentioned interposed person.
 
-  - (Schedule 15 added 4 of 2006 s. 4)
+  - (Schedule 15 added 4 of 2006 s. 4. Amended E.R. 1 of 2012)

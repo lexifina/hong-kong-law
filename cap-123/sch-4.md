@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 2(2)]
 
-DEPARTMENTS
+Departments
 
 - 1. Housing Department.
 

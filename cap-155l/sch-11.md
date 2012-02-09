@@ -1,8 +1,8 @@
-# SCHEDULE 11
+# Schedule 11
 
 [ss. 227, 236, 237, 239 & 240 & Sch. 7] (L.N. 137 of 2011)
 
-MAPPING OF ECAI ISSUE SPECIFIC RATINGS INTO CREDIT QUALITY GRADES UNDER STC(S) APPROACH
+Mapping of ECAI Issue Specific Ratings into Credit Quality Grades under STC(S) Approach
 
 Table A Long-term Credit Quality Grades
 

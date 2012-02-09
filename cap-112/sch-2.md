@@ -1,14 +1,14 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 13 & 43(1)]
 
-RATES
+Rates
 
 For the years of assessment 1947/48 to 1949/50 inclusive
 
 (Amended 49 of 1956 s. 68)
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $5,000 | 1/4 standard rate
 
@@ -26,11 +26,11 @@ SECOND COLUMN | THIRD COLUMN
 
 (h) | Upon the remainder | Twice the standard rate
 
-Note:- Where a person is liable to the appropriate tax for a part only of any year of assessment the amounts in the second column against items (a) to (g) will be reduced in the proportion which the number of days he is so liable bears to the number of days in that year of assessment.
+Note:- Where a person is liable to the appropriate tax for a part only of any year of assessment the amounts in the Second Column against items (a) to (g) will be reduced in the proportion which the number of days he is so liable bears to the number of days in that year of assessment.
 
 For the years of assessment 1950/51 to 1965/66 inclusive
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $5,000 | 1/5 standard rate
 
@@ -56,7 +56,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1966/67 to 1971/72 inclusive
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $5,000 | 2 3/4%
 
@@ -82,7 +82,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1972/73
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $5,000 | 2 1/2%
 
@@ -112,7 +112,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1973/74 to 1977/78 inclusive
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $10,000 | 5%
 
@@ -130,7 +130,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1978/79 to 1984/85 inclusive
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $10,000 | 5%
 
@@ -146,7 +146,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1985/86 to 1986/87 inclusive
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $10,000 | 5%
 
@@ -162,7 +162,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the year of assessment 1987/88
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $10,000 | 5%
 
@@ -178,7 +178,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1988/89 and 1989/90
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $10,000 | 3%
 
@@ -200,7 +200,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the year of assessment 1990/91
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $10,000 | 2 per cent
 
@@ -222,7 +222,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1991/92 and 1992/93
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $20,000 | 2%
 
@@ -236,7 +236,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the year of assessment 1993/94
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $20,000 | 2%
 
@@ -250,7 +250,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1994/95 to 1996/97 inclusive
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $20,000 | 2%
 
@@ -264,7 +264,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the year of assessment 1997/98
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $30,000 | 2%
 
@@ -278,7 +278,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment 1998/99 to 2002/03 inclusive
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $35,000 | 2%
 
@@ -292,7 +292,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the year of assessment 2003/04
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $32,500 | 2%
 
@@ -306,7 +306,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the years of assessment of 2004/05 and 2005/06
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $30,000 | 2%
 
@@ -320,7 +320,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the year of assessment 2006/07
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $30,000 | 2%
 
@@ -334,7 +334,7 @@ SECOND COLUMN | THIRD COLUMN
 
 For the year of assessment 2007/08
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $35,000 | 2%
 
@@ -350,7 +350,7 @@ For the year of assessment 2008/09
 
 and for each year after that year
 
-SECOND COLUMN | THIRD COLUMN
+Second Column | Third Column
 
 (a) | Upon the first $40,000 | 2%
 

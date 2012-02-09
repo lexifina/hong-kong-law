@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 32]
 
-THE AUTHORITY AND AUTHORIZED OFFICERS
+The Authority and Authorized Officers
 
 Column 1 Authority | Column 2 Authorized officers
 

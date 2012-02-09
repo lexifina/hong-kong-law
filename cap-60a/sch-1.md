@@ -2,7 +2,7 @@
 
 [regs. 3, 6, 6AA & 7] (29 of 2000 s. 2)
 
-- PART I
+- Part 1
 
   - 1. Pesticides.
 
@@ -30,7 +30,7 @@
 
   - 10. Any article that has as its part any chemical to which section 8 of the Hazardous Chemicals Control Ordinance (Cap. 595) applies under section 3 of that Ordinance. (19 of 2007 s. 52)
 
-- PART II
+- Part 2
 
   - 1-2. (Repealed 33 of 2003 s. 2)
 

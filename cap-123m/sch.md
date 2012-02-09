@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 3]
 
-BUILDINGS TO WHICH THIS REGULATION APPLIES
+Buildings to which this Regulation Applies
 
 - 1. Commercial buildings
 

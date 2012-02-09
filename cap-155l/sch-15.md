@@ -1,8 +1,8 @@
-# SCHEDULE 15
+# Schedule 15
 
 [s. 330]
 
-STANDARDIZED BUSINESS LINES
+Standardized Business Lines
 
 - 1. Each standardized business line set out in column 2 of the Table can be—
 
@@ -10,110 +10,102 @@ STANDARDIZED BUSINESS LINES
 
   - (b) further divided into the activity groups set out in column 4 opposite to the standardized business line.
 
-TABLE
+- Table
 
-Item | Standardized business line | Major business segments | Activity groups
+- Item | Standardized business line | Major business segments | Activity groups
 
-1. | Corporate finance | (a) | corporate finance | (i) | mergers and acquisitions;
+- 1. | Corporate finance | (a) | corporate finance | (i) | mergers and acquisitions;
 
-(b) | municipal or government finance | (ii) | underwriting;
+- (b) municipal or government finance (c) merchant banking (d) advisory services | (ii) | underwriting;
 
-(iii) | privatizations;
+- (iii) (iv) | privatizations; securitizations;
 
-(c) | merchant banking | (iv) | securitizations;
+- (v) (vi) | research; debt (sovereign, high yield);
 
-(d) | advisory services | (v) | research;
+- (vii) | equity;
 
-(vi) | debt (sovereign, high yield);
+- (viii) | syndications;
 
-(vii) | equity;
+- (ix) | initial public offerings;
 
-(viii) | syndications;
+- (x) | secondary private placements
 
-(ix) | initial public offerings;
+- 2. | Trading and sales | (a) sales (b) market making (c) proprietary positions (d) treasury | (i) | fixed income instruments;
 
-(x) | secondary private placements
+- (ii) | debt;
 
-2. | Trading and sales | (a) | sales | (i) | fixed income instruments;
+- (iii) | equity;
 
-(b) | market making | (ii) | debt;
+- (iv) | foreign exchange;
 
-(c) | proprietary positions | (iii) | equity;
+- (v) | commodities;
 
-(d) | treasury | (iv) | foreign exchange;
+- (vi) | credit;
 
-(v) | commodities;
+- (vii) | funding;
 
-(vi) | credit;
+- (viii) | own position securities;
 
-(vii) | funding;
+- (ix) | lending and repo-style transactions;
 
-(viii) | own position securities;
+- (x) | brokerage;
 
-(ix) | lending and repo-style transactions;
+- (xi) | prime brokerage
 
-(x) | brokerage;
+- 3. | Retail banking | (a) | retail banking | (i) | retail lending and deposits;
 
-(xi) | prime brokerage
+- (ii) | banking services;
 
-3. | Retail banking | (a) | retail banking | (i) | retail lending and deposits;
+- (iii) | trust and estates
 
-(ii) | banking services;
+- (b) | private banking | (i) | private lending and deposits;
 
-(iii) | trust and estates
+- (ii) | banking services;
 
-(b) | private banking | (i) | private lending and deposits;
+- (iii) | trust and estates;
 
-(ii) | banking services;
+- (iv) | investment advice
 
-(iii) | trust and estates;
+- (c) | card services | (i) | merchant, commercial or corporate cards;
 
-(iv) | investment advice
+- (ii) | private labels cards and retail cards
 
-(c) | card services | (i) | merchant, commercial or corporate cards;
+- 4. | Commercial banking | commercial banking | (i) (ii) | project finance; real estate finance;
 
-(ii) | private labels cards and retail cards
+- (iii) | export finance;
 
-4. | Commercial banking | commercial banking | (i) | project finance;
+- (iv) | trade finance;
 
-(ii) | real estate finance;
+- (v) | factoring;
 
-(iii) | export finance;
+- (vi) | leasing;
 
-(iv) | trade finance;
+- (vii) | lending;
 
-(v) | factoring;
+- (viii) | guarantees;
 
-(vi) | leasing;
+- (ix) | bills of exchange
 
-(vii) | lending;
+- 5. | Payment and settlement | external clients | (i) | payments and collections;
 
-(viii) | guarantees;
+- (ii) | funds transfer;
 
-(ix) | bills of exchange
+- (iii) | clearing and settlement
 
-5. | Payment and settlement | external clients | (i) | payments and collections;
+- 6. | Agency services | (a) | custody | (i) (ii) | escrow; depository receipts;
 
-(ii) | funds transfer;
+- (iii) | securities lending (customers);
 
-(iii) | clearing and settlement
+- (iv) | corporate actions
 
-6. | Agency services | (a) | custody | (i) | escrow;
+- (b) | corporate agency | issuer and paying agents
 
-(ii) | depository receipts;
+- (c) | corporate trust
 
-(iii) | securities lending (customers);
+- 7. | Asset management | (a) | discretionary fund management | pooled, segregated, retail, institutional, closed, open or private equity fund
 
-(iv) | corporate actions
+- (b) | non-discretionary fund management | pooled, segregated, retail, institutional, closed, or open fund
 
-(b) | corporate agency | issuer and paying agents
-
-(c) | corporate trust
-
-7. | Asset management | (a) | discretionary fund management | pooled, segregated, retail, institutional, closed, open or private equity fund
-
-(b) | non-discretionary fund management | pooled, segregated, retail, institutional, closed, or open fund
-
-8. | Retail brokerage | retail brokerage | execution only and full service
+- 8. | Retail brokerage | retail brokerage | execution only and full service
 
 - 2. For the purposes of item 5 in the Table in section 1, payment and settlement losses related to an authorized institution’s own activities shall be allocated to the standardized business line to which the transaction occasioning the payment and settlement loss is most closely related.

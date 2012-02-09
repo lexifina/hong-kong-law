@@ -1,4 +1,4 @@
-## Import of specified articles as transhipment cargo
+## Import of Specified Articles as Transhipment Cargo
 
 # 6DAB. Import carrier not to release transhipment cargo without transhipment notification
 

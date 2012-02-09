@@ -1,26 +1,24 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 3(2A)]
 
-EXEMPTION FROM SECTION 3(2) OF THIS ORDINANCE
+Exemption from Section 3(2) of this Ordinance
 
-Exemption for live performance or recording for
-
-film or television programme
+Exemption for live performance or recording for film or television programme
 
 - 1. Interpretation of Schedule 5
 
   - (1) In this Schedule—
 
-    - “film” (電影) means a film within the meaning of section 2(1) of the Film Censorship Ordinance (Cap. 392);
+    - film (電影) means a film within the meaning of section 2(1) of the Film Censorship Ordinance (Cap. 392);
 
-    - “live performance” (現場表演) means a performance given or done before a live audience, whether on payment or otherwise, and includes the final rehearsal of the performance;
+    - live performance (現場表演) means a performance given or done before a live audience, whether on payment or otherwise, and includes the final rehearsal of the performance;
 
-    - “performance” (表演) means any play, show, entertainment or any other kind of performance;
+    - performance (表演) means any play, show, entertainment or any other kind of performance;
 
-    - “smoking act” (吸煙動作) means smoking or carrying a lighted cigarette, cigar or pipe;
+    - smoking act (吸煙動作) means smoking or carrying a lighted cigarette, cigar or pipe;
 
-    - “television programme” (電視節目) means a television programme within the meaning of section 2(1) of the Broadcasting Ordinance (Cap. 562).
+    - television programme (電視節目) means a television programme within the meaning of section 2(1) of the Broadcasting Ordinance (Cap. 562).
 
   - (2) For the purposes of this Schedule, a venue is a designated performance venue if it is—
 
@@ -32,11 +30,7 @@ film or television programme
 
     - (b) designated by the manager of that school or establishment as a venue for any live performance.
 
-- 2.
-
-- Exemption for live performance
-
-- For the purposes of section 3(2A) of this Ordinance, a person who does a smoking act in a no smoking area is exempt from section 3(2) of this Ordinance if he proves that—
+- 2. Exemption for live performance For the purposes of section 3(2A) of this Ordinance, a person who does a smoking act in a no smoking area is exempt from section 3(2) of this Ordinance if he proves that—
 
   - (a) he is performing in a live performance, and his smoking act forms part of the performance;
 
@@ -48,11 +42,7 @@ film or television programme
 
   - (e) the smoking act complies with all the requirements specified in relation to such an act under section 4.
 
-- 3.
-
-- Exemption for recording for film or television programme
-
-- For the purposes of section 3(2A) of this Ordinance, a person who does a smoking act in a no smoking area is exempt from section 3(2) of this Ordinance if he proves that—
+- 3. Exemption for recording for film or television programme For the purposes of section 3(2A) of this Ordinance, a person who does a smoking act in a no smoking area is exempt from section 3(2) of this Ordinance if he proves that—
 
   - (a) he is performing in a performance, and his smoking act forms part of the performance;
 
@@ -66,11 +56,7 @@ film or television programme
 
   - (f) the smoking act complies with all the requirements specified in relation to such an act under section 4.
 
-- 4.
-
-- Specified requirements for smoking act
-
-- For the purposes of sections 2(e) and 3(f), the following are the requirements specified in relation to a smoking act—
+- 4. Specified requirements for smoking act For the purposes of sections 2(e) and 3(f), the following are the requirements specified in relation to a smoking act—
 
   - (a) the act does not expressly or impliedly induce, suggest or request any person to purchase or smoke any tobacco product;
 

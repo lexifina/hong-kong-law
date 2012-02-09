@@ -1,27 +1,37 @@
-# SCHEDULE 16
+# Schedule 16
 
 [s. 124J]
 
-MATTERS FOR WHICH SECRETARY FOR HOME AFFAIRS MAY BY REGULATION PROVIDE FOR FEES AND CHARGES
+Matters for which Secretary for Home Affairs may by Regulation Provide for Fees and Charges
 
-- 1. Public swimming pools Admission
+(Schedule 16 added 78 of 1999 s. 7) (Format changes—E.R. 1 of 2012)
 
-- 2. Museums Admission
+1. | Public swimming pools
 
-- 3. Libraries Admission
+Admission
 
-- 4. Public pleasure grounds
+2. | Museums
 
-  - (a) Hire of tennis courts
+Admission
 
-  - (b) Hire of basketball courts
+3. | Libraries
 
-  - (c) Hire of squash courts
+Admission
 
-  - (d) Hire of football pitches
+4. | Public pleasure grounds
 
-  - (e) Hire of table tennis tables
+(a) Hire of tennis courts
 
-  - (f) Hire of badminton courts
+(b) Hire of basketball courts
 
-- 5. Holiday camps Camp fees (Schedule 16 added 78 of 1999 s. 7)
+(c) Hire of squash courts
+
+(d) Hire of football pitches
+
+(e) Hire of table tennis tables
+
+(f) Hire of badminton courts
+
+5. | Holiday camps
+
+Camp fees

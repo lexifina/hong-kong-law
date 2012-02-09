@@ -1,7 +1,9 @@
-PLACES OF PUBLIC ENTERTAINMENT (EXEMPTION) ORDER
+Places of Public Entertainment (Exemption) Order
 
-(Made under section 3A of the Places of Public Entertainment
+(Cap. 172, section 3A)
 
-Ordinance (Cap. 172))
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [15 January 2003] L.N. 175 of 2002
+
+(Format changes—E.R. 1 of 2012)

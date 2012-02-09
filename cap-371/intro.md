@@ -2,4 +2,6 @@ To prohibit smoking in certain areas; to provide for the display of a health war
 
 (Amended 91 of 1994 s. 2; 21 of 2006 s. 3)
 
-[13 August 1982]
+[13 August 1982] L.N. 314 of 1982
+
+(Format changes—E.R. 1 of 2012)

@@ -1,12 +1,12 @@
-# SCHEDULE
+# Schedule
 
 [para. 2]
 
-- PART I STANDARD PILOTAGE DUES FOR PILOTAGE OF SHIPS INTO AND OUT
+- Part 1 Standard Pilotage Dues for Pilotage of Ships into and
 
-- OF THE HARBOUR, WITHIN HARBOUR LIMITS AND
+- out of the Harbour, within Harbour Limits and
 
-- OUTSIDE HARBOUR LIMITS
+- outside Harbour Limits
 
   - 1. For every ship piloted, a pilotage due of $4,400 plus— (L.N. 111 of 2005; L.N. 70 of 2008; L.N. 174 of 2011)
 
@@ -24,7 +24,7 @@
 
     - (c) The pilotage dues payable by warships under this Part shall be calculated on the basis of displacement tonnage instead of gross registered tonnage.
 
-- PART II ADDITIONAL PILOTAGE DUES
+- Part 2 Additional Pilotage Dues
 
   - 1. An additional pilotage due of $1,400 per hour or part thereof (after the first hour) shall be payable for any pilotage service performed in the movement of oil rigs.
 
@@ -42,9 +42,7 @@
 
   - 7. An additional pilotage due equal to 50% overall of the standard pilotage dues shall be payable for any pilotage service which is provided on notice of less than 3 hours. 8 An additional pilotage due of $3,500 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship at Tolo Harbour. (L.N. 611 of 1995; L.N. 234 of 1996)
 
-- PART III DUES PAYABLE WHERE ENGAGEMENT IS
-
-- CANCELLED OR ALTERED
+- Part 3 Dues Payable where Engagement is Cancelled or Altered
 
   - 1. If the engagement of a pilot is cancelled,—
 

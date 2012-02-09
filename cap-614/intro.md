@@ -2,4 +2,6 @@ An Ordinance to provide for the establishment of an electronic database of legis
 
 [30 June 2011]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2012)
+
+(Format changes—E.R. 1 of 2012)

@@ -1,8 +1,8 @@
-# SCHEDULE 8
+# Schedule 8
 
 [s. 158]
 
-CREDIT QUALITY GRADES FOR SPECIALIZED LENDING
+Credit Quality Grades for Specialized Lending
 
 Credit quality grade | Standard & Poor’s Ratings Services | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc.
 

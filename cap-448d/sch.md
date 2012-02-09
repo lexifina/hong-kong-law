@@ -1,20 +1,14 @@
-# SCHEDULE
+# Schedule
 
 [regs. 3, 4, 4A & 6] (L.N. 159 of 2011)
 
-FEES Certificate of Registration (Article 4(8) of the Order)
+Fees Certificate of Registration (Article 4(8) of the Order)
 
 (L.N. 159 of 2011)
 
-- 1.
+- 1. The fee for the issue of a certificate of registration of an aircraft is $660. (L.N. 159 of 2011)
 
-- The fee for the issue of a certificate of registration of an aircraft is $660.
-
-- (L.N. 159 of 2011)
-
-- Air Operator’s Certificate (Article 6(2) of the Order)
-
-- (L.N. 159 of 2011)
+Air Operator’s Certificate (Article 6(2) of the Order) (L.N. 159 of 2011)
 
 - 2.
 
@@ -30,17 +24,17 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
     - (a) where the application for the grant or variation is made on or after 13 January 2012 but before 13 January 2013—
 
-    - (i) | Maximum total weight authorized | For heaviest aircraft type in applicant’s fleet of aircraft | For every other aircraft type in applicant’s fleet
+      - (i) | Maximum total weight authorized | For heaviest aircraft type in applicant’s fleet of aircraft | For every other aircraft type in applicant’s fleet
 
-    - (A) | not over 2 tonnes | $19,300 | $9,660
+      - (A) | not over 2 tonnes | $19,300 | $9,660
 
-    - (B) | over 2 but not over 55 tonnes | $96,000 | $48,000
+      - (B) | over 2 but not over55 tonnes | $96,000 | $48,000
 
-    - (C) | over 55 but not over 100 tonnes | $128,000 | $64,000
+      - (C) | over 55 but not over100 tonnes | $128,000 | $64,000
 
-    - (D) | over 100 but not over 160 tonnes | $193,100 | $96,550
+      - (D) | over 100 but notover 160 tonnes | $193,100 | $96,550
 
-    - (E) | over 160 tonnes | $386,300 | $193,100;
+      - (E) | over 160 tonnes | $386,300 | $193,100;
 
       - (ii) $1.7 for each 1000 passenger kilometres (or part thereof);
 
@@ -48,17 +42,17 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
     - (b) where the application for the grant or variation is made on or after 13 January 2013 but before 13 January 2014—
 
-    - (i) | Maximum total weight authorized | For heaviest aircraft type in applicant’s fleet of aircraft | For every other aircraft type in applicant’s fleet
+      - (i) | Maximum total weight authorized | For heaviest aircraft type in applicant’s fleet of aircraft | For every other aircraft type in applicant’s fleet
 
-    - (A) | not over 2 tonnes | $53,300 | $26,650
+      - (A) | not over 2 tonnes | $53,300 | $26,650
 
-    - (B) | over 2 but not over 55 tonnes | $264,900 | $132,500
+      - (B) | over 2 but not over55 tonnes | $264,900 | $132,500
 
-    - (C) | over 55 but not over 100 tonnes | $353,200 | $176,600
+      - (C) | over 55 but not over100 tonnes | $353,200 | $176,600
 
-    - (D) | over 100 but not over 160 tonnes | $532,800 | $266,400
+      - (D) | over 100 but notover 160 tonnes | $532,800 | $266,400
 
-    - (E) | over 160 tonnes | $1,065,700 | $532,800;
+      - (E) | over 160 tonnes | $1,065,700 | $532,800;
 
       - (ii) $4.6 for each 1000 passenger kilometres (or part thereof);
 
@@ -66,37 +60,29 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
     - (c) where the application for the grant or variation is made on or after 13 January 2014—
 
-    - (i) | Maximum total weight authorized | For heaviest aircraft type in applicant’s fleet of aircraft | For every other aircraft type in applicant’s fleet
+      - (i) | Maximum total weight authorized | For heaviest aircraft type in applicant’s fleet of aircraft | For every other aircraft type in applicant’s fleet
 
-    - (A) | not over 2 tonnes | $147,000 | $73,500
+      - (A) | not over 2 tonnes | $147,000 | $73,500
 
-    - (B) | over 2 but not over 55 tonnes | $730,900 | $365,500
+      - (B) | over 2 but not over55 tonnes | $730,900 | $365,500
 
-    - (C) | over 55 but not over 100 tonnes | $974,600 | $487,300
+      - (C) | over 55 but not over100 tonnes | $974,600 | $487,300
 
-    - (D) | over 100 but not over 160 tonnes | $1,470,300 | $735,100
+      - (D) | over 100 but notover 160 tonnes | $1,470,300 | $735,100
 
-    - (E) | over 160 tonnes | $2,940,600 | $1,470,300;
+      - (E) | over 160 tonnes | $2,940,600 | $1,470,300;
 
       - (ii) $12.6 for each 1000 passenger kilometres (or part thereof);
 
-      - (iii) $147 for each 1000 freight tonne kilometres (or part thereof). (L.N. 159 of 2011) Permit for an aircraft to fly without a Certificate of
+      - (iii) $147 for each 1000 freight tonne kilometres (or part thereof). (L.N. 159 of 2011)
 
-      - Airworthiness (Article 7(1A)(e) of the Order)
+Permit for an aircraft to fly without a Certificate of Airworthiness
 
-- (L.N. 159 of 2011)
+(Article 7(1A)(e) of the Order) (L.N. 159 of 2011)
 
-- 3.
+- 3. When an application is made for the issue or variation of a permit for an aircraft to fly without there being in force in respect thereof a certificate of airworthiness the applicant shall pay for the investigations required by the Chief Executive a fee of $270 or, if the total cost of the investigations exceeds that amount, a fee equal to the cost of making the investigations but not exceeding $140 per kg of the maximum total weight authorized of the aircraft. (36 of 1999 s. 3)
 
-- When an application is made for the issue or variation of a permit for an aircraft to fly without there being in force in respect thereof a certificate of airworthiness the applicant shall pay for the investigations required by the Chief Executive a fee of $270 or, if the total cost of the investigations exceeds that amount, a fee equal to the cost of making the investigations but not exceeding $140 per kg of the maximum total weight authorized of the aircraft.
-
-- (36 of 1999 s. 3)
-
-- Issue of Certificate of Airworthiness
-
-- (Article 8(1) of the Order)
-
-- (L.N. 159 of 2011)
+Issue of Certificate of Airworthiness (Article 8(1) of the Order) (L.N. 159 of 2011)
 
 - 4.
 
@@ -138,9 +124,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (c) | in the case of any other engine over 300 kW . | $94,600
 
-- Renewal of Certificate of Airworthiness
-
-- (Article 8(6) of the Order) (L.N. 159 of 2011)
+- Renewal of Certificate of Airworthiness (Article 8(6) of the Order) (L.N. 159 of 2011)
 
 - 6.
 
@@ -154,9 +138,9 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (L.N. 159 of 2011)
 
-- Validation or Renewal of Validation of Certificate of
+- Validation or Renewal of Validation of Certificate of Airworthiness
 
-- Airworthiness (Article 8(5) and (6) of the Order)
+- (Article 8(5) and (6) of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -234,11 +218,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (L.N. 159 of 2011)
 
-- Approval in respect of Aircraft and Equipment including
-
-- modification, repair, etc. (excluding Engines and
-
-- Radio Apparatus) (Part III of the Order)
+- Approval in respect of Aircraft and Equipment including modification, repair, etc. (excluding Engines and Radio Apparatus) (Part III of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -248,9 +228,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (36 of 1999 s. 3)
 
-- Approval of type, etc., of Radio Apparatus
-
-- (Article 14(5) of the Order)
+- Approval of type, etc., of Radio Apparatus (Article 14(5) of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -260,9 +238,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (36 of 1999 s. 3)
 
-- Licences for Aircraft Maintenance Engineers
-
-- (Article 12 of the Order)
+- Licences for Aircraft Maintenance Engineers (Article 12 of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -344,9 +320,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
       - (a) any subsequent authorization granted as a result of an application made while the authorization is in force; and
 
-      - (b) any authorization granted as a result of an application made while any subsequent authorization mentioned in paragraph (a) is in force. (L.N. 159 of 2011) Licences for Flight Crew and Ratings in licences
-
-      - (Articles 20 and 20A of the Order)
+      - (b) any authorization granted as a result of an application made while any subsequent authorization mentioned in paragraph (a) is in force. (L.N. 159 of 2011) Licences for Flight Crew and Ratings in licences (Articles 20 and 20A of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -446,9 +420,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (L.N. 159 of 2011)
 
-- Permission to drop articles etc. from aircraft
-
-- (Article 40 of the Order)
+- Permission to drop articles etc. from aircraft (Article 40 of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -458,9 +430,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (L.N. 159 of 2011)
 
-- Permission to drop persons from aircraft
-
-- (Article 41 of the Order)
+- Permission to drop persons from aircraft (Article 41 of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -470,9 +440,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (L.N. 159 of 2011)
 
-- Permission to carry munitions of war
-
-- (Article 43 of the Order)
+- Permission to carry munitions of war (Article 43 of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -486,9 +454,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (L.N. 159 of 2011)
 
-- Permission relating to captive balloons etc.
-
-- (Article 70 of the Order)
+- Permission relating to captive balloons etc. (Article 70 of the Order)
 
 - (L.N. 159 of 2011)
 
@@ -546,9 +512,7 @@ FEES Certificate of Registration (Article 4(8) of the Order)
 
 - (L.N. 159 of 2011)
 
-- Permission for carriage etc. of dangerous goods
-
-- (Regulation 3 of Schedule 16 to the Order)
+- Permission for carriage etc. of dangerous goods (Regulation 3 of Schedule 16 to the Order)
 
 - (L.N. 159 of 2011)
 

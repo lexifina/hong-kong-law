@@ -1,9 +1,7 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 3]
 
-BOUNDARIES OF THE HARBOUR
+Boundaries of the Harbour
 
-On the east-A straight line drawn from the westernmost extremity of Siu Chau Wan Point to the westernmost extremity of Ah Kung Ngam Point (sometimes known as Kung Am);
-
-On the west-A straight line drawn from the westernmost point of Island of Hong Kong to the westernmost point of Green Island, thence a straight line drawn from the westernmost point of Green Island to the south-easternmost point of Tsing Yi, thence along the eastern and northern coast lines of Tsing Yi to the westernmost extremity of Tsing Yi and thence a straight line drawn true north therefrom to the mainland. (Amended 54 of 1969 s. 8)
+(Format changes—E.R. 1 of 2012) On the east—A straight line drawn from the westernmost extremity of Siu Chau Wan Point to the westernmost extremity of Ah Kung Ngam Point (sometimes known as Kung Am); On the west—A straight line drawn from the westernmost point of Island of Hong Kong to the westernmost point of Green Island, thence a straight line drawn from the westernmost point of Green Island to the south-easternmost point of Tsing Yi, thence along the eastern and northern coast lines of Tsing Yi to the westernmost extremity of Tsing Yi and thence a straight line drawn true north therefrom to the mainland. (Amended 54 of 1969 s. 8)

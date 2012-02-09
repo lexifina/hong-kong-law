@@ -1,8 +1,8 @@
-# SCHEDULE 9
+# Schedule 9
 
 [regs. 2 & 7]
 
-SPECIFIED ARTICLES
+Specified Articles
 
 Item
 

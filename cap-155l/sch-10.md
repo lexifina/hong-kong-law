@@ -2,7 +2,7 @@
 
 [ss. 229, 243 & 255]
 
-REQUIREMENTS TO BE SATISFIED FOR USING SECTION 229(1)(b) OF THESE RULES
+Requirements to Be Satisfied for Using Section 229(1)(b) of these Rules
 
 - 1. Requirements An originating institution in a synthetic securitization transaction shall demonstrate to the satisfaction of the Monetary Authority that—
 

@@ -1,16 +1,12 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 5(1) & 25]
 
-FIRE SAFETY MEASURES TO BE COMPLIED WITH BY OWNERS OF PRESCRIBED COMMERCIAL PREMISES
+Fire Safety Measures to be Complied with by Owners of Prescribed Commercial Premises
 
 (Replaced 15 of 1998 s. 19)
 
-- 1.
-
-- Provision of fire service installations and equipment
-
-- In relation to the provision of fire service installations and equipment, requirements with which an owner of prescribed commercial premises can be directed to comply under section 5(1) of this Ordinance are the following— (Amended 15 of 1998 s. 19)
+- 1. Provision of fire service installations and equipment In relation to the provision of fire service installations and equipment, requirements with which an owner of prescribed commercial premises can be directed to comply under section 5(1) of this Ordinance are the following— (Amended 15 of 1998 s. 19)
 
   - (a) a requirement to install an automatic sprinkler system on the premises;
 
@@ -26,11 +22,7 @@ FIRE SAFETY MEASURES TO BE COMPLIED WITH BY OWNERS OF PRESCRIBED COMMERCIAL PREM
 
   - (e) the requirements specified in the Code of Practice for Minimum Fire Service Installations and Equipment 1994, as published by the Director of Fire Services and printed by the Government Printer.
 
-- 2.
-
-- Construction requirements for prescribed
-
-- commercial premises
+- 2. Construction requirements for prescribed commercial premises
 
   - (1) In relation to the matters specified in subsection (2), requirements with which an owner of prescribed commercial premises can be directed to comply under section 5(1) of this Ordinance are those specified in the following codes of practice published by the Director of Buildings and printed by the Government Printer—
 

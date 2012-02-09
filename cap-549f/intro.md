@@ -1,9 +1,7 @@
-CHINESE MEDICINES REGULATION
+Chinese Medicines Regulation
 
-(Made by the Chinese Medicine Council of Hong Kong under section
+(Cap. 549, section 161(5))
 
-161(5) of the Chinese Medicine Ordinance (Cap. 549) with the
-
-approval of the Secretary for Health, Welfare and Food)
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [30 April 2003] L.N. 54 of 2003

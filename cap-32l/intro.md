@@ -1,7 +1,13 @@
-COMPANIES ORDINANCE (EXEMPTION OF COMPANIES AND PROSPECTUSES FROM COMPLIANCE WITH PROVISIONS) NOTICE
+Companies Ordinance (Exemption of Companies and Prospectuses from Compliance with Provisions) Notice
 
-(Made by the Securities and Futures Commission under sections
+(Cap. 32, sections 38A and 342A)
 
-38A and 342A of the Companies Ordinance (Cap. 32))
+(Enacting provision omitted—E.R. 1 of 2012)
 
 [11 May 2001]
+
+(*Format changes—E.R. 1 of 2012)
+
+Editorial Note:
+
+* The format of the Notice has been updated to the current legislative styles.

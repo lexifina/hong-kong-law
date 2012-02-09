@@ -1,12 +1,12 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 27(3)] (Amended 48 of 1995 s. 13)
 
-ALLOWANCES
+Allowances
 
 For the year of assessment 1989/90
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) | $32,000 $ 7,000 $39,000
 
@@ -28,7 +28,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the year of assessment 1990/91
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) | $32,000 $ 7,000 $39,000
 
@@ -50,7 +50,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the year of assessment 1991/92
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) | $34,000 $ 7,000 $41,000
 
@@ -74,7 +74,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the year of assessment 1992/93
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) | $39,000 $ 7,000 $46,000
 
@@ -96,7 +96,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the year of assessment 1993/94
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) | $ 49,000 $ 7,000 $ 56,000
 
@@ -118,7 +118,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the year of assessment 1994/95
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) | $ 65,000 $ 7,000 $ 72,000
 
@@ -142,7 +142,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the year of assessment 1995/96
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)— (a) subsection (1)(a) (b) subsection (1)(b), being the first reference to the prescribed amount (c) subsection (1)(b), being the references to the prescribed amount in subparagraphs (i) and (ii) | $ 72,000 $ 7,000 $ 79,000
 
@@ -168,7 +168,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the year of assessment 1996/97
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)—
 
@@ -224,7 +224,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the year of assessment 1997/98
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
+First Column (section) | Second Column (the prescribed amount or percentage)
 
 1. | Section 28 (basic allowance)—
 
@@ -278,7 +278,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount or percentage)
 
 For the years of assessment 1998/99 to 2002/03 inclusive
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+First Column (section) | Second Column (the prescribed amount)
 
 1. | Section 28 (basic allowance) | $108,000
 
@@ -316,7 +316,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
 
 For the year of assessment 2003/04
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+First Column (section) | Second Column (the prescribed amount)
 
 1. | Section 28 (basic allowance) | $104,000
 
@@ -352,7 +352,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
 
 For the year of assessment 2004/05
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+First Column (section) | Second Column (the prescribed amount)
 
 1. | Section 28 (basic allowance) | $100,000
 
@@ -388,7 +388,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
 
 For the years of assessment 2005/06 and 2006/07
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+First Column (section) | Second Column (the prescribed amount)
 
 1. | Section 28 (basic allowance) | $100,000
 
@@ -410,7 +410,7 @@ FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
 
 For the year of assessment 2007/08
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+First Column (section) | Second Column (the prescribed amount)
 
 1. | Section 28 (basic allowance) | $100,000
 
@@ -434,7 +434,7 @@ For the years of assessment 2008/09
 
 to 2010/11 inclusive
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+First Column (section) | Second Column (the prescribed amount)
 
 1. | Section 28 (basic allowance) | $108,000
 
@@ -458,7 +458,7 @@ For the year of assessment 2011/12 and
 
 for each year after that year
 
-FIRST COLUMN (section) | SECOND COLUMN (the prescribed amount)
+First Column (section) | Second Column (the prescribed amount)
 
 1. | Section 28 (basic allowance) | $108,000
 

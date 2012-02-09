@@ -1,8 +1,8 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 55, 59, 60, 61, 61A, 62, 79, 98, 99, 139, 211, 281 & 287 & Sch. 7] (L.N. 137 of 2011)
 
-CREDIT QUALITY GRADES
+Credit Quality Grades
 
 Table A Sovereign Exposures
 
@@ -70,7 +70,7 @@ Credit quality grade (corporates) | Credit Analysis and Research Limited | CRISI
 
 (L.N. 137 of 2011)
 
-TABLE D COLLECTIVE INVESTMENT SCHEME EXPOSURES
+Table D Collective Investment Scheme Exposures
 
 Credit quality grade (collective investment schemes) | Standard & Poor’s Ratings Services Fund credit quality ratings | Standard & Poor’s Ratings Services Principal stability fund ratings | Moody’s Investors Service | Fitch Ratings | Rating and Investment Information, Inc.
 

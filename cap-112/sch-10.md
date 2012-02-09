@@ -2,7 +2,9 @@
 
 [s. 88A]
 
-- PART I ADVANCE RULINGS
+(Schedule 10 added 32 of 1998 s. 32. Amended E.R. 1 of 2012)
+
+- Part 1 Advance Rulings
 
   - 1. On an application made by a person in accordance with this Part, the Commissioner may make a ruling on how any provision of this Ordinance, other than that relating to the imposition or remission of a penalty, the correctness of a return or other information supplied by any person, the prosecution of any person or the recovery of any debt owing by any person, applies to the applicant or to the arrangement described in the application, whether or not reference is made to that provision in the application.
 
@@ -110,9 +112,9 @@
 
     - (b) If any provision of this Ordinance that is the subject of a ruling is amended, or repealed in part only, so that the way in which the provision applies is altered, the ruling shall cease to apply to the extent of, and from the effective date of, the amendment or partial repeal.
 
-- PART II FEES
+- Part 2 Fees
 
-  - 1. The fees specified in respect of an application for a ruling made in accordance with Part I are as follows—
+  - 1. The fees specified in respect of an application for a ruling made in accordance with Part 1 are as follows—
 
     - (a) application fee—
 
@@ -130,20 +132,22 @@
 
     - (iii) | any other person appointed under this Ordinance | $1,000
 
-    - 2. (a) In an application for a ruling made in accordance with Part I, reimbursement shall be made in respect of—
+  - 2.
 
-    - (i) any fees paid by the Commissioner to any person, as a result of the Commissioner requiring any external advice in relation to the ruling; and
+    - (a) In an application for a ruling made in accordance with Part 1, reimbursement shall be made in respect of—
 
-    - (ii) any costs and reasonable disbursements incurred by the Commissioner in relation to the ruling.
+      - (i) any fees paid by the Commissioner to any person, as a result of the Commissioner requiring any external advice in relation to the ruling; and
 
-    - (b) For the purposes of this Ordinance, the reimbursement required to be made under paragraph (a) shall, in addition to the fees specified in section 1, be regarded as the fees specified in respect of an application for a ruling made in accordance with Part I.
+      - (ii) any costs and reasonable disbursements incurred by the Commissioner in relation to the ruling.
+
+    - (b) For the purposes of this Ordinance, the reimbursement required to be made under paragraph (a) shall, in addition to the fees specified in section 1, be regarded as the fees specified in respect of an application for a ruling made in accordance with Part 1.
 
   - 3. The time specified for the purposes of section 1(b) is as follows—
 
-  - (a) | for a ruling on whether profits are to be treated as chargeable to profits tax under section 14 of this Ordinance as arising in or derived from Hong Kong | 23 hours
+    - (a) | for a ruling on whether profits are to be treated as chargeable to profits tax under section 14 of this Ordinance as arising in or derived from Hong Kong | 23 hours
 
-  - (b) | for a ruling on whether remuneration is to be treated as chargeable to salaries tax by virtue of section 9A of this Ordinance | 11 hours
+    - (b) | for a ruling on whether remuneration is to be treated as chargeable to salaries tax by virtue of section 9A of this Ordinance | 11 hours
 
-  - (c) | for any other ruling | 7 hours
+    - (c) | for any other ruling | 7 hours
 
-  - 4. Where an application for a ruling is withdrawn, the applicant is still liable to pay all the fees specified in this Part and incurred in respect of the application before the Commissioner receives notice of the withdrawal. (Added 32 of 1998 s. 32)
+  - 4. Where an application for a ruling is withdrawn, the applicant is still liable to pay all the fees specified in this Part and incurred in respect of the application before the Commissioner receives notice of the withdrawal.

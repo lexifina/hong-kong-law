@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 4 & 6]
 
-CARGO INFORMATION
+Cargo Information
 
-- PART 1 INFORMATION IN RELATION TO CARGO IN PACKAGES
+- Part 1 Information in Relation to Cargo in Packages
 
   - 1. Description of packages.
 
@@ -24,7 +24,7 @@ CARGO INFORMATION
 
   - 9. Expected date of taking cargo out of Hong Kong (if applicable).
 
-- PART 2 INFORMATION IN RELATION TO CARGO IN BULK
+- Part 2 Information in Relation to Cargo in Bulk
 
   - 1. Gross weight or gross volume of cargo.
 

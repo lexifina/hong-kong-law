@@ -1,8 +1,8 @@
-# SCHEDULE 3A
+# Schedule 3A
 
 [s. 12(6)(a)]
 
-DEDUCTION FOR EXPENSES OF SELF-EDUCATION
+Deduction for Expenses of Self-Education
 
 Item | Year of assessment | Amount
 

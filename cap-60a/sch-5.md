@@ -2,11 +2,11 @@
 
 [regs. 2A, 2B & 7]
 
-- PART I “SPECIFIED TEXTILES” AND “PRODUCTION” FOR PURPOSES OF
+- Part 1 Specified Textiles And Production for Purposes of
 
-- SECTION 6AA(1) AND COUNTRIES OR PLACES FOR PURPOSES OF
+- Section 6AA(1) and Countries or Places for Purposes of
 
-- SECTION 6AA(2) OF THE ORDINANCE (L.N. 155 of 2004)
+- Section 6AA(2) of the Ordinance (L.N. 155 of 2004)
 
 Item | Countries or Places | Textiles | Process
 
@@ -16,23 +16,19 @@ Item | Countries or Places | Textiles | Process
 
 2. (Repealed L.N. 68 of 2009)
 
-- PART II (Repealed L.N. 155 of 2004)
+- Part II (Repealed L.N. 155 of 2004)
 
-- PART III “PERMITTED PERIOD” FOR PURPOSES OF SECTION 6AA(1)
-
-- OF THE ORDINANCE On or before the day on which production of the specified textiles commences, but not earlier than 3 working days before that day.
+- Part 3 Permitted Period for Purposes of Section 6AA(1) of the Ordinance On or before the day on which production of the specified textiles commences, but not earlier than 3 working days before that day.
 
   - (1)
 
-    - In this Part, “working day” (工作天) means any day other than a general holiday, a gale warning day or a black rainstorm warning day.
+    - In this Part, working day (工作天) means any day other than a general holiday, a gale warning day or a black rainstorm warning day.
 
   - (2)
 
-    - In subparagraph (1), “gale warning day” (烈風警告日) and “black rainstorm warning day” (黑色暴雨警告日) have the same meanings as in section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1).
+    - In subparagraph (1), gale warning day (烈風警告日) and black rainstorm warning day (黑色暴雨警告日) have the same meanings as in section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1).
 
-- PART IV “MATERIAL PARTICULAR” FOR PURPOSES OF SECTION 6AA(1)
-
-- OF THE ORDINANCE
+- Part 4 Material Particular for Purposes of Section 6AA(1) of the Ordinance
 
   - 1. Name, address and registration number of the manufacturer.
 
@@ -62,9 +58,9 @@ Item | Countries or Places | Textiles | Process
 
   - Other particulars from time to time specified by the Director for the purpose of enabling him to determine whether or not a production notification should be validated.
 
-    - For the purposes of items 1 and 2, “registration number” (登記編號) means the number by which the manufacturer or subcontractor is registered under Part IIIA of these regulations or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H).
+    - For the purposes of items 1 and 2, registration number (登記編號) means the number by which the manufacturer or subcontractor is registered under Part 3A of these regulations or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H).
 
-- PART V SPECIFIED TEXTILES EXEMPTED FROM PART IIA OF THE ORDINANCE
+- Part 5 Specified Textiles Exempted from Part IIA of the Ordinance
 
   - 1. Consignment of specified textiles consisting solely of samples that—
 
@@ -88,4 +84,4 @@ Item | Countries or Places | Textiles | Process
 
   - and are in each case in a quantity that is reasonable having regard to the purpose for which they are exported.
 
-  - (Fifth Schedule added L.N. 193 of 1999)
+  - (Schedule 5 added L.N. 193 of 1999. E.R. 1 of 2012)

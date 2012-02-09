@@ -1,14 +1,10 @@
-# SCHEDULE
-
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+# Schedule
 
 [ss. 59J(4) & 73]
 
-- 1.
+(Format changes—E.R. 1 of 2012)
 
-- Terms and conditions of appointment of
-
-- Chairperson of Guardianship Board
+- 1. Terms and conditions of appointment of Chairperson of Guardianship Board
 
   - (1) Subject to subsection (2), the Chief Executive shall determine the remuneration and terms and conditions of appointment of the Chairperson.
 
@@ -20,11 +16,7 @@
 
 - (Amended 60 of 2000 s. 3)
 
-- 2.
-
-- Terms of appointment of members of
-
-- Guardianship Board
+- 2. Terms of appointment of members of Guardianship Board
 
   - (1) Subject to subsection (2), a member of the Guardianship Board shall hold and vacate his office in accordance with the terms and conditions of his appointment and shall, on ceasing to be a member, be eligible for reappointment.
 
@@ -32,11 +24,7 @@
 
 - 3. Fees and allowances payable to members of Guardianship Board The Guardianship Board may pay its members such fees and allowances as the Secretary for Labour and Welfare, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
-- 4.
-
-- Absence of Chairperson
-
-- In the absence, illness or incapacity of the Chairperson at any meeting of the Guardianship Board another member (being a member referred to in section 59J(3)(a) of this Ordinance) may be appointed to act as such Chairperson (“the other member presiding”)—
+- 4. Absence of Chairperson In the absence, illness or incapacity of the Chairperson at any meeting of the Guardianship Board another member (being a member referred to in section 59J(3)(a) of this Ordinance) may be appointed to act as such Chairperson (the other member presiding)—
 
   - (a) by the Chairperson in advance of the meeting; or
 
@@ -68,4 +56,4 @@
 
   - (2) The Guardianship Board shall determine the remuneration and the terms and conditions of engagement of technical, medical and other professional advisers (if any), and the manner of their engagement.
 
-- (Replaced 81 of 1997 s. 57)
+- (Schedule replaced 81 of 1997 s. 57)
