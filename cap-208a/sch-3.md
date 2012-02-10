@@ -1,93 +1,89 @@
-# SCHEDULE 3
+# Schedule 3
 
 [reg. 13A]
 
-ADMISSION FEE FOR ENTERING SPECIFIED ZONES
+Admission Fees for Entering Specified Zones
 
-Admission fee for entering Hong Kong Wetland Park
+Hong Kong Wetland Park
 
-- 1.
+- 1. Application This Schedule sets out the admission fees for entering the Hong Kong Wetland Park (the Park).
 
-  - (1) Subject to section 3, the admission fee for a single entry into the Hong Kong Wetland Park by a person is—
+- 2. Admission fee for a person Subject to sections 3 and 4, the admission fee for entering the Park by a person who falls within a description specified in column 1 of the table below and makes a purchase of a kind in a subcolumn of column 2 of the table is the amount specified in that subcolumn opposite to the description.
 
-    - (a) where the person is aged 65 or above, $15;
+(Column 1) Description | (Column 2) Kind of entry pass
 
-    - (b) where the person is aged 3 or above, but below 18, $15;
+(Subcolumn 1) | (Subcolumn 2) | (Subcolumn 3)
 
-    - (c) where the person is aged 18 or above, but below 65, and is a full-time student, $15; or
+Single entry pass | Pass for an unlimited number of entries within 6 months | Pass for an unlimited number of entries within 1 year
 
-    - (d) where the person is aged 18 or above, but below 65, and is not a full-time student, $30.
+1. | A person who is— | $15 | $25 | $50
 
-  - (2) Subject to section 4, the admission fee for unlimited number of entries into the Hong Kong Wetland Park within one year by a person is—
+(a) | aged 3 or above, but below 18;
 
-    - (a) where the person is aged 65 or above, $50;
+(b) | aged 3 or above and a full-time student;
 
-    - (b) where the person is aged 3 or above, but below 18, $50;
+(c) | aged 65 or above; or
 
-    - (c) where the person is aged 18 or above, but below 65, and is a full-time student, $50; or
+(d) | aged 3 or above and a PWD.
 
-    - (d) where the person is aged 18 or above, but below 65, and is not a full-time student, $100.
+2. | A person who is an accompanying carer of a PWD. | $15 | Not applicable | Not applicable
 
-  - (3) The admission fee for unlimited number of entries into the Hong Kong Wetland Park within 6 months by a person is—
+3. | Any other person who is aged 18 or above. | $30 | $50 | $100
 
-    - (a) where the person is aged 65 or above, $25;
+- 3. Admission fee for single entry as a person within a group
 
-    - (b) where the person is aged 3 or above, but below 18, $25;
+  - (1) The admission fee for a single entry into the Park by a person who falls within a description specified in column 1 of the table below and enters the Park as part of a group of the size specified in a subcolumn in column 2 of the table is the amount specified in that subcolumn opposite to the description.
 
-    - (c) where the person is aged 18 or above, but below 65, and is a full-time student, $25; or
+- (Column 1) Description | (Column 2) Fee per person in a group of the size specified
 
-    - (d) where the person is aged 18 or above, but below 65, and is not a full-time student, $50.
+- (Sub- column 1) | (Sub- column 2) | (Sub- column 3) | (Sub- column 4)
 
-- 2. No admission fee is payable for an entry into the Hong Kong Wetland Park by a person aged below 3.
+- Group of 10 to 19 persons | Group of 20 to 29 persons | Group of 30 to 49 persons | Group of 50 or more persons
 
-- 3.
+- 1. | A person who is— | $13.5 | $12.7 | $12 | $10.5
 
-  - (1) For a group of 50 or more persons to which section 1(1) applies, the admission fee for a single entry into the Hong Kong Wetland Park by each person within the group is, subject to subsection (5)—
+- (a) | aged 3 or above, but below 18;
 
-    - (a) where the person is aged 65 or above, $10.5;
+- (b) | aged 3 or above and a full-time student;
 
-    - (b) where the person is aged 3 or above, but below 18, $10.5;
+- (c) | aged 65 or above; or
 
-    - (c) where the person is aged 18 or above, but below 65, and is a full-time student, $10.5; or
+- (d) | aged 3 or above and a PWD.
 
-    - (d) where the person is aged 18 or above, but below 65, and is not a full-time student, $21.
+- 2. | A person who is an accompanying carer of a PWD. | $13.5 | $12.7 | $12 | $10.5
 
-  - (2) For a group of 30 to 49 persons to which section 1(1) applies, the admission fee for a single entry into the Hong Kong Wetland Park by each person within the group is, subject to subsection (5)—
+- 3. | Any other person who is aged 18 or above. | $27 | $25.5 | $24 | $21
 
-    - (a) where the person is aged 65 or above, $12;
+  - (2) Subsection (1) applies only if the aggregate of the admission fees for all persons within the group is paid in full in one lump sum.
 
-    - (b) where the person is aged 3 or above, but below 18, $12;
+- 4. Admission fee for unlimited number of entries as a family
 
-    - (c) where the person is aged 18 or above, but below 65, and is a full-time student, $12; or
+  - (1) The admission fee paid by way of purchase of a family pass for an unlimited number of entries into the Park within the period of 1 year is $200.
 
-    - (d) where the person is aged 18 or above, but below 65, and is not a full-time student, $24.
+  - (2) The family pass referred to in subsection (1) may only be issued to and used by a group of not more than 4 persons each aged 3 or above where a person in the group is the parent, step-parent or adoptive parent of another person in the group, and each of the remaining persons in the group is the spouse, child, stepchild or adopted child of the first-mentioned person.
 
-  - (3) For a group of 20 to 29 persons to which section 1(1) applies, the admission fee for a single entry into the Hong Kong Wetland Park by each person within the group is, subject to subsection (5)—
+- 5. No admission fee for person aged below 3 No admission fee is payable for entering the Park by a person aged below 3.
 
-    - (a) where the person is aged 65 or above, $12.7;
+- 6. Meaning of PWD and accompanying carer
 
-    - (b) where the person is aged 3 or above, but below 18, $12.7;
+  - (1) For the purposes of this Schedule—
 
-    - (c) where the person is aged 18 or above, but below 65, and is a full-time student, $12.7; or
+    - (a) a PWD is a person who—
 
-    - (d) where the person is aged 18 or above, but below 65, and is not a full-time student, $25.5.
+      - (i) holds a valid Registration Card for People with Disabilities; or
 
-  - (4) For a group of 10 to 19 persons to which section 1(1) applies, the admission fee for a single entry into the Hong Kong Wetland Park by each person within the group is, subject to subsection (5)—
+      - (ii) is accepted as a PWD by the Authority or any authorized officer under subsection (2);
 
-    - (a) where the person is aged 65 or above, $13.5;
+    - (b) an accompanying carer of a PWD is a person identified by the PWD as such under subsection (3).
 
-    - (b) where the person is aged 3 or above, but below 18, $13.5;
+  - (2) For the purposes of subsection (1)(a)(ii), the Authority or any authorized officer may accept a person as a PWD if, on the person’s production of a certificate by a medical practitioner or other evidence, the Authority or the officer is satisfied that the person meets the criteria relating to disability set for the issue of a Registration Card for People with Disabilities by the Central Registry for Rehabilitation.
 
-    - (c) where the person is aged 18 or above, but below 65, and is a full-time student, $13.5; or
+  - (3) For the purposes of subsection (1)(b), a PWD may, on entering the Park, identify no more than one person as the accompanying carer of the PWD who will accompany the PWD to enter the Park and will provide care to the PWD while in the Park.
 
-    - (d) where the person is aged 18 or above, but below 65, and is not a full-time student, $27.
+  - (4) In this section—
 
-  - (5) Subsection (1), (2), (3) or (4) does not apply unless the aggregate of the admission fee for the entry by each person within the group under that subsection is paid in full in one lump sum.
+    - Central Registry for Rehabilitation (康復服務中央檔案室) means the registry of that name established by the Government;
 
-- 4.
+    - Registration Card for People with Disabilities (殘疾人士登記證) means a card that is described as such and is issued by the Central Registry for Rehabilitation.
 
-  - (1) For a group of not more than 4 persons to which section 1(2) applies, the admission fee for unlimited number of entries into the Hong Kong Wetland Park within one year by any or all of those persons is, subject to subsection (2), $200.
-
-  - (2) Subsection (1) applies only if one person of the group is the parent, step-parent or adoptive parent of another person of the group, and each of the other persons of the group is the spouse, child, stepchild or adopted child of the first-mentioned person.
-
-- (Schedule 3 added L.N. 63 of 2005)
+- (Schedule 3 replaced L.N. 176 of 2011)
