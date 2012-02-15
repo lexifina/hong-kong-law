@@ -1,25 +1,169 @@
-# SCHEDULE
+# Schedule
 
 [para. 2]
 
-(Map reference: Series HM 20C Sheets 2 and 3 Scale 1:20000.
+- 1. The area enclosed by joining the positions from Point 1 to Point 65 and from Point 65 back to Point 1.
 
-Grid reference: Universal Transverse Mercator
+- 2. In this Schedule—
 
-(U.T.M.) Coordinate System.)
+  - Point (點) means a point that has—
 
-All the area situate in the New Territories within the following boundaries—
+    - (a) a point number set out in column 1 of the following Table; and
 
-Northern and Eastern Boundaries
+    - (b) Northing and Easting coordinates set out respectively in columns 2 and 3 of the following Table opposite the point number.
 
-From the North bank of the SHAM CHUN RIVER at grid reference J V 9570.9190 along the whole length of the SINO BRITISH Frontier to K V 1443 9595.(Boundary Stone No. 1 at SHA TAU KOK), thence NORTH EAST across the mouth.of SHA TAU KOK HOI (STARLING INLET) to K V 1616 9655, thence SOUTH.following the coast line of SHA TAU KOK HOI (STARLING INLET) along the.high water mark to grid reference K V 1327 9510.
+- 3.
 
-Southern and Western Boundaries
+- The coordinates are based on Hong Kong 1980 Grid System.
 
-From K V 1327 9510 to K V 1320 9510 (TIN HAU TEMPLE being excluded from the Closed Area), thence WESTERLY to K V 1291 9527 (the SHA TAU KOK Government Primary School and the SHA TAU KOK Police Station being excluded from the Closed Area), thence to K V 1248 9535 (On summit of hill), thence to K V 1181 9561 (On spur), thence to K V 1117 9586 (HUNG FA CHAI), thence to K V 1053 9606, thence to K V 0911 9646 (On ridge), thence to K V 0912 9647, thence to K V 0904 9659, thence to K V 0899 9662, thence to K V 0881 9664, thence to K V 0859 9650, thence to K V 0838 9643, thence to K V 0819
+- (L.N. 19 of 2012)
 
-9644, thence to K V 0806 9657, thence to K V 0796 9662, thence to K V 0799 9666, thence to K V 0781 9666, thence to K V 0780 9652, thence to K V 0786 9652, thence to K V 0788 9646, thence to K V 0788 9638, thence to K V 0789 9634, thence to K V 0789 9631, thence to K V 0791 9626, thence to K V 0796 9624, thence to K V 0801 9620 with radius R = 45.0 m, thence to K V 0805 9620, thence to K V 0819 9597 with radius R = 225 m, thence to K V 0773
+- Table
 
-9571 (NGA YIU HA Village being excluded from the Closed Area), thence to K V 0680 9519 (SOUTH end of TONG FONG Village), thence to K V 0640 9515 (LEI UK Village being excluded from the Closed Area), thence to SOUTH end of CHOW TIN TSUEN at K V 0610 9500, thence to K V 0500 9442 (On summit of hill KONG NGA PO), thence to K V 0378 9369 SANDY RIDGE, thence to K V 0366 9369, thence to K V 0365 9368 (Police Road Block at SHA LING, MAN KAM TO ROAD) but excluding the BORDER DIVISIONAL HEADQUARTERS building and compound as well as the southern unnamed slip road leading thereto, thence to K V 0316 9330 (Bend in Kowloon-Canton Railway boundary), thence to K V
+- Column 1 Point number | Column 2 Northing (m) | Column 3 Easting (m) | Column 4 Remarks
 
-0218 9378 (TAI SHEK MO (Crest Hill)), thence to J V 9885 9240 (LOK MA CHAU Border Crossing Point), thence SOUTH EAST following the line of the perimeter fence to J V 9922 9184 (LOK MA CHAU Border Crossing Point Access Road), thence SOUTH WEST across the road to J V 9918 9180, thence NORTH WEST following the line of the perimeter fence to J V 9862 9229 (LOK MA CHAU Border Crossing Point), thence to K V 0078 9317, thence to J V 9997 9252 (Summit of hill), thence to J V 9939 9265 (LOK MA CHAU Police Station being excluded from the Closed Area), thence to J V 9807 9204 (SAM PO SHUE), thence to J V 9786 9178 (Track Junction), thence to J V 9746 9120 (Track Junction), thence WESTERLY to J V 9624 9117 (Bend in fence), thence SOUTH WESTERLY following the line of fence to J V 9597 9091 (PAK HOK CHAU Police Post and TAM KON CHAU Village being excluded from the Closed Area but the fence being included), thence NORTH WESTERLY following the line of the fence to J V 9588 9100 (Bend in fence), thence NORTHERLY following the line of the fence to J V 9591 9111 (Bend in fence), thence NORTH WESTERLY following the line of the fence to J V 9525 9136 (Bend in fence, SHEK SHAN being excluded from the Closed Area), thence further SOUTH WESTERLY following the line of the fence to J V 9450 9059 (Bend in fence), thence SOUTHERLY following the line of the fence to J V 9431 8998 (Bend in fence), thence further SOUTHERLY following the line of the fence to J V 9439 8947 (Termination of fence), thence due WEST to J V 9400 8947 (The helicopter landing pad being excluded from the Closed Area), thence due NORTH to J V 9400 9100 (generally following the seaward edge of the mangrove) and finally NORTH EASTERLY returning to the first point J V 9570 9190 (NORTH bank of the SHAM CHUN RIVER). (L.N. 424 of 1987; L.N. 405 of 1989; L.N. 259 of 1991)
+- 1 | 839637 | 821002 | From there NORTHEAST following a line of bearing 61° until it stops at the centre line of the Shenzhen River, then EAST following the centre line of the Shenzhen River and the boundary of the administrative division of the Hong Kong Special Administrative Region of the People’s Republic of China to Point 2.
+
+- 2 | 844880 | 842107 | From there NORTHEAST following the mouth of Sha Tau Kok Hoi (Starling Inlet) to Point 3.
+
+- 3 | 845333 | 842310 | From there NORTHEAST across Sha Tau Kok Hoi (Starling Inlet) to Point 4.
+
+- 4 | 845602 | 843042 | From there SOUTH following the coast line of Sha Tau Kok Hoi (Starling Inlet) along the high water mark to Point 5, which is the western edge of the pier.
+
+- 5 | 844898 | 840799 | From there NORTH following the western edge of the pier to Point 6, which is located at the junction of the pier edge and the fence.
+
+- 6 | 844913 | 840799 | From there EAST across a road following the fence to Point 7, which is located at the northern end of the fence.
+
+- 7 | 845056 | 840788 | From there NORTHWEST across Sha Tau Kok Road — Shek Chung Au to Point 8.
+
+- 8 | 845071 | 840786 | From there NORTHWEST following the fence to Point 9, which is located at the junction of the fences.
+
+- 9 | 845125 | 840785 | From there NORTHWEST following the fence to Point 10, which is located at the junction of the fences.
+
+- 10 | 845342 | 840925 | From there NORTHEAST following the fence to Point 11, which is located at the junction of the fences.
+
+- 11 | 845626 | 840988 | From there NORTHWEST following Shan Tsui Village Road to Point 12.
+
+- 12 | 845637 | 840949 | From there NORTHWEST following the fence to Point 13.
+
+- 13 | 846082 | 837261 | From there SOUTH following a straight line of bearing 180° to Point 14.
+
+- 14 | 845046 | 837261 | From there NORTHWEST to Point 15, which is located at the ridge of Wong Mau Hang Shan.
+
+- 15 | 845380 | 836000 | From there NORTHEAST to Point 16.
+
+- 16 | 845390 | 836010 | From there NORTHWEST to Point 17.
+
+- 17 | 845510 | 835920 | From there NORTHWEST to Point 18.
+
+- 18 | 845530 | 835870 | From there NORTHWEST to Point 19.
+
+- 19 | 845550 | 835690 | From there SOUTHWEST to Point 20.
+
+- 20 | 845410 | 835480 | From there SOUTHWEST to Point 21.
+
+- 21 | 845330 | 835270 | From there NORTHWEST to Point 22.
+
+- 22 | 845340 | 835080 | From there NORTHWEST to Point 23.
+
+- 23 | 845470 | 834940 | From there NORTHWEST to Point 24.
+
+- 24 | 845520 | 834840 | From there NORTHEAST to Point 25.
+
+- 25 | 845560 | 834870 | From there SOUTHWEST to Point 26.
+
+- 26 | 845550 | 834690 | From there SOUTH to Point 27.
+
+- 27 | 845403 | 834689 | From there EAST to Point 28.
+
+- 28 | 845403 | 834752 | From there SOUTHEAST to Point 29.
+
+- 29 | 845350 | 834770 | From there SOUTH to Point 30.
+
+- 30 | 845270 | 834770 | From there SOUTHEAST to Point 31.
+
+- 31 | 845230 | 834780 | From there SOUTH to Point 32.
+
+- 32 | 845200 | 834780 | From there SOUTHEAST to Point 33.
+
+- 33 | 845150 | 834800 | From there SOUTHEAST to Point 34.
+
+- 34 | 845139 | 834850 | From there SOUTHEAST following an anti-clockwise curve with R = 45 m to Point 35.
+
+- 35 | 845100 | 834900 | From there EAST to Point 36.
+
+- 36 | 845100 | 834940 | From there SOUTHEAST following an anti-clockwise curve with R = 225 m to Point 37.
+
+- 37 | 844870 | 835090 | From there SOUTHWEST to Point 38.
+
+- 38 | 844600 | 834629 | From there SOUTHWEST to Point 39, which is located at the southern end of Tong Fong.
+
+- 39 | 844067 | 833712 | From there SOUTHWEST to Point 40.
+
+- 40 | 844020 | 833316 | From there SOUTHWEST to Point 41, which is located at the southern end of Chow Tin Tsuen.
+
+- 41 | 843862 | 833016 | From there SOUTHWEST to Point 42, which is located at the summit of Kong Nga Po.
+
+- 42 | 843260 | 831930 | From there SOUTHWEST to Point 43, which is located at Sandy Ridge.
+
+- 43 | 842510 | 830720 | From there WEST to Point 44.
+
+- 44 | 842510 | 830600 | From there SOUTHWEST to Point 45, which is located at the Police Post on Man Kam To Road.
+
+- 45 | 842500 | 830590 | From there SOUTHWEST to Point 46.
+
+- 46 | 842110 | 830110 | From there NORTHWEST to Point 47, which is located at Tai Shek Mo.
+
+- 47 | 842573 | 829121 | From there SOUTHWEST to Point 48.
+
+- 48 | 841928 | 827740 | From there SOUTHWEST to Point 49.
+
+- 49 | 841268 | 826933 | From there NORTHWEST to Point 50.
+
+- 50 | 841385 | 826357 | From there SOUTHWEST to Point 51, which is located at the fence of Lok Ma Chau Boundary Control Point.
+
+- 51 | 841130 | 825824 | From there SOUTHEAST following the fence to Point 52, which is located at the end of the fence.
+
+- 52 | 840763 | 826011 | From there SOUTHEAST following the wall to Point 53.
+
+- 53 | 840564 | 826191 | From there SOUTHWEST across San Sham Road to Point 54.
+
+- 54 | 840530 | 826159 | From there NORTHWEST following the wall to Point 55, which is located at the start of the fence.
+
+- 55 | 840600 | 826098 | From there NORTHWEST following the fence to Point 56 where it meets the edge of the flyover.
+
+- 56 | 841705 | 825385 | From there NORTHWEST following the edge of the flyover and across the nullah to Point 57.
+
+- 57 | 841719 | 825381 | From there NORTHWEST following the fence to Point 58.
+
+- 58 | 841885 | 825345 | From there SOUTHWEST following the fence to Point 59, which is located at the junction of the fences.
+
+- 59 | 841813 | 824993 | From there SOUTH following the fence of the Lok Ma Chau Spur Line Boundary Control Point (columns supporting the viaduct are excluded) to Point 60, which is located at the end of the fence.
+
+- 60 | 841619 | 824650 | From there WEST following the building edge of the Sewage Plant to Point 61, which is located at the start of the fence.
+
+- 61 | 841652 | 824632 | From there EAST following the fence to Point 62, which is located at the junction of the fences.
+
+- 62 | 841743 | 824681 | From there SOUTHWEST following the fence to Point 63, which is located at the junction of the fences.
+
+- 63 | 839649 | 823018 | From there SOUTHWEST following the fence to Point 64, which is located at the end of the fence.
+
+- 64 | 838112 | 821425 | From there WEST to Point 65.
+
+- 65 | 838108 | 821030 | Finally NORTH returning to Point 1.
+
+- Notes:
+
+- 1. Point 1, Point 48 to Point 65 are shown on the plan titled “PLAN 1 OF FRONTIER CLOSED AREA” annexed to this Schedule.
+
+- 2. Point 20 to Point 47 are shown on the plan titled “PLAN 2 OF FRONTIER CLOSED AREA” annexed to this Schedule.
+
+- 3. Point 2 to Point 19 are shown on the plan titled “PLAN 3 OF FRONTIER CLOSED AREA” annexed to this Schedule.
+
+- 4.
+
+- The plans annexed to this Schedule are provided for information only.
+
+- (L.N. 19 of 2012)
+
+- (Schedule replaced L.N. 170 of 2011)
