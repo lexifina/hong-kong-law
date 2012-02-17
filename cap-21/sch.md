@@ -12,7 +12,7 @@ NEWSPAPER STATEMENTS HAVING QUALIFIED PRIVILEGE
 
   - 3. A fair and accurate report of any proceedings in public of an international court.
 
-  - 4. A fair and accurate report of any proceedings before a court exercising jurisdiction throughout any part of the Commonwealth outside Hong Kong or of any proceedings before a court-martial held outside Hong Kong under the Naval Discipline Act, the Army Act or the Air Force Act.
+  - 4. A fair and accurate report of any proceedings before a court exercising jurisdiction throughout any part of the Commonwealth outside Hong Kong or of any proceedings before a court-martial of the Chinese People’s Liberation Army held outside Hong Kong. (Amended 2 of 2012 s. 3)
 
   - 5. A fair and accurate report of any proceedings in public of a body or person appointed to hold a public inquiry by the Government or legislature of any part of the Commonwealth outside Hong Kong.
 

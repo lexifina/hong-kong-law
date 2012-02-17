@@ -2,7 +2,7 @@
 
 [ss. 2, 50 & 52] (Amended L.N. 59 of 1999)
 
-PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GOVERNMENT
+PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GOVERNMENT AND MILITARY HOSPITALS*
 
 Alice Ho Miu Ling Nethersole Hospital (雅麗氏何妙齡那打素醫院)
 
@@ -197,3 +197,7 @@ Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (�
 Yuen Yuen Nursing Home (Sau Mau Ping Estate) (圓玄護養院(秀茂坪邨))
 
 (Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010)
+
+Editorial Note:
+
+* (Amended 2 of 2012 s. 3)

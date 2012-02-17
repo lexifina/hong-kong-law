@@ -1,10 +1,12 @@
-# SCHEDULE 14 RULES OF THE AIR
+# SCHEDULE 14
 
 Articles 64 and 98(1)
 
 (L.N. 77 of 2008)
 
-SECTION I INTERPRETATION
+RULES OF THE AIR
+
+Section I Interpretation
 
 - 1. In these Rules, unless the context otherwise requires—
 
@@ -30,13 +32,11 @@ SECTION I INTERPRETATION
 
   - “Runway” means an area, whether or not paved, which is provided for the take-off or landing run of aircraft.
 
-  - “VFR Flight” means a flight conducted in accordance with the Visual Flight Rules in Section V of these Rules. SECTION II GENERAL
+  - “VFR Flight” means a flight conducted in accordance with the Visual Flight Rules in Section V of these Rules.
 
-- 2.
+Section II General
 
-- Application of Rules to Aircraft
-
-- These Rules, in so far as they are applicable in relation to aircraft, shall, subject to the provisions of Rule 29 of these Rules, apply in relation to—
+- 2. Application of Rules to Aircraft These Rules, in so far as they are applicable in relation to aircraft, shall, subject to the provisions of Rule 29 of these Rules, apply in relation to—
 
   - (a) all aircraft within Hong Kong; and
 
@@ -46,7 +46,7 @@ SECTION I INTERPRETATION
 
   - (1) A signal or marking to which a meaning is given by these Rules, or which is required by these Rules to be used in circumstances or for a purpose therein specified, shall not be used except with that meaning, or for that purpose.
 
-  - (2) A person in an aircraft or on an aerodrome or at any place at which an aircraft is taking off or landing shall not make any signal which may be confused with a signal specified in the Rules and, except with lawful authority, shall not make any signal which he knows or ought reasonably to know to be a signal in use for signalling to or from any of Her Majesty’s naval, military or air force aircraft.
+  - (2) A person in an aircraft or on an aerodrome or at any place at which an aircraft is taking off or landing shall not make any signal which may be confused with a signal specified in the Rules and, except with lawful authority, shall not make any signal which he knows or ought reasonably to know to be a signal in use for signalling to or from any military aircraft of the Chinese People’s Liberation Army. (2 of 2012 s. 3)
 
 - 4. Reporting hazardous conditions The commander of an aircraft shall, on meeting with hazardous conditions in the course of a flight, or as soon as possible thereafter, send to the appropriate air traffic control unit by the quickest means available information containing such particulars of the hazardous conditions as may be pertinent to the safety of other aircraft.
 
@@ -58,19 +58,19 @@ SECTION I INTERPRETATION
 
       - (i) such height as would enable the aircraft to alight clear of the area and without danger to persons or property on the surface, in the event of failure of a power unit and if such an aircraft is towing a banner such height shall be calculated on the basis that the banner shall not be dropped within the congested area; or
 
-      - (ii) a height of 1500 feet above the highest fixed object within 2000 feet of the aircraft, whichever is the higher.
+      - (ii) a height of 1 500 feet above the highest fixed object within 2 000 feet of the aircraft, whichever is the higher.
 
     - (b) A helicopter shall not fly below such height as would enable it to alight without danger to persons or property on the surface, in the event of failure of a power unit.
 
-    - (c) Except with the permission in writing of the Chief Executive and in accordance with any conditions therein specified a helicopter should not fly over a congested area of a city, town or settlement below a height of 1500 feet above the highest fixed object within 2000 feet of the helicopter. (36 of 1999 s. 3)
+    - (c) Except with the permission in writing of the Chief Executive and in accordance with any conditions therein specified a helicopter should not fly over a congested area of a city, town or settlement below a height of 1 500 feet above the highest fixed object within 2 000 feet of the helicopter. (36 of 1999 s. 3)
 
     - (d) An aircraft shall not fly—
 
-      - (i) over, or within 3000 feet of, any assembly in the open air of more than 1000 persons assembled for the purpose of witnessing or participating in any organised event, except with the permission in writing of the Chief Executive and in accordance with any conditions therein specified and with the consent in writing of the organisers of the event; or (36 of 1999 s. 3)
+      - (i) over, or within 3 000 feet of, any assembly in the open air of more than 1 000 persons assembled for the purpose of witnessing or participating in any organised event, except with the permission in writing of the Chief Executive and in accordance with any conditions therein specified and with the consent in writing of the organisers of the event; or (36 of 1999 s. 3)
 
-      - (ii) below such height as would enable it to alight clear of the assembly in the event of the failure of a power unit and if such an aircraft is towing a banner such height shall be calculated on the basis that the banner shall not be dropped within 3000 feet of the assembly:
+      - (ii) below such height as would enable it to alight clear of the assembly in the event of the failure of a power unit and if such an aircraft is towing a banner such height shall be calculated on the basis that the banner shall not be dropped within 3 000 feet of the assembly:
 
-        - Provided that, where a person is charged with an offence under this Order by reason of a contravention of this sub-paragraph, it shall be a good defence to prove that the flight of the aircraft over, or within 3000 feet of, the assembly was made at a reasonable height and for a reason not connected with the assembly or with the event which was the occasion for the assembly.
+        - Provided that, where a person is charged with an offence under this Order by reason of a contravention of this sub-paragraph, it shall be a good defence to prove that the flight of the aircraft over, or within 3 000 feet of, the assembly was made at a reasonable height and for a reason not connected with the assembly or with the event which was the occasion for the assembly.
 
     - (e) An aircraft shall not fly closer than 500 feet to any person, vessel, vehicle or structure.
 
@@ -84,7 +84,7 @@ SECTION I INTERPRETATION
 
     - (b) Paragraphs (1)(d) and (e) of this Rule shall not apply to an aircraft which is being used for police purposes.
 
-    - (c) Paragraphs (1)(d) and (e) of this Rule shall not apply to the flight of an aircraft over or within 3000 feet of an assembly of persons gathered for the purpose of witnessing an event which consists wholly or principally of an aircraft race or contest or an exhibition of flying, if the aircraft is taking part in such race, contest or exhibition or is engaged on a flight arranged by, or made with the consent in writing of, the organisers of the event.
+    - (c) Paragraphs (1)(d) and (e) of this Rule shall not apply to the flight of an aircraft over or within 3 000 feet of an assembly of persons gathered for the purpose of witnessing an event which consists wholly or principally of an aircraft race or contest or an exhibition of flying, if the aircraft is taking part in such race, contest or exhibition or is engaged on a flight arranged by, or made with the consent in writing of, the organisers of the event.
 
     - (d) Paragraph (1)(e) of this Rule shall not apply to—
 
@@ -106,11 +106,7 @@ SECTION I INTERPRETATION
 
   - (5) Nothing in this Rule shall apply to any captive balloon or kite.
 
-- 6.
-
-- Simulated instrument flight
-
-- (L.N. 77 of 2008)
+- 6. Simulated instrument flight (L.N. 77 of 2008)
 
   - (1) An aircraft shall not be flown in simulated instrument flight conditions unless— (L.N. 77 of 2008)
 
@@ -124,17 +120,15 @@ SECTION I INTERPRETATION
 
     - For the purposes of this Rule, the expression “simulated instrument flight” means a flight during which mechanical or optical devices are used in order to reduce the field of vision or the range or visibility from the cockpit of the aircraft. (L.N. 77 of 2008)
 
-- 7.
-
-- Practice instrument approaches
-
-- (L.N. 77 of 2008) Within Hong Kong an aircraft shall not carry out instrument approach practice when flying in Visual Meteorological Conditions unless— (L.N. 77 of 2008)
+- 7. Practice instrument approaches (L.N. 77 of 2008) Within Hong Kong an aircraft shall not carry out instrument approach practice when flying in Visual Meteorological Conditions unless— (L.N. 77 of 2008)
 
   - (a) the appropriate air traffic control unit has previously been informed that the flight is to be made for the purpose of instrument approach practice; and
 
-  - (b) if the flight is not being carried out in simulated instrument flight conditions, a competent observer is carried in such a position in the aircraft that he has an adequate field of vision and can readily communicate with the pilot flying the aircraft. SECTION III LIGHTS AND OTHER SIGNALS TO BE SHOWN OR
+  - (b) if the flight is not being carried out in simulated instrument flight conditions, a competent observer is carried in such a position in the aircraft that he has an adequate field of vision and can readily communicate with the pilot flying the aircraft.
 
-  - MADE BY AIRCRAFT GENERAL
+Section III Lights and other Signals to be Shown or
+
+Made by Aircraft General
 
 - 8.
 
@@ -178,9 +172,9 @@ SECTION I INTERPRETATION
 
   - (1) A flying machine when flying at night shall display light as follows—
 
-    - (a) in the case of a flying machine registered in Hong Kong having a maximum total weight authorized of more than 5700 kg or any other flying machine registered in Hong Kong which conforms to a type first issued with a type certificate on or after 1st January 1991 the system of lights in paragraph (2)(b) of this Rule;
+    - (a) in the case of a flying machine registered in Hong Kong having a maximum total weight authorized of more than 5 700 kg or any other flying machine registered in Hong Kong which conforms to a type first issued with a type certificate on or after 1st January 1991 the system of lights in paragraph (2)(b) of this Rule;
 
-    - (b) in the case of a flying machine registered in Hong Kong which conforms to a type first issued with a type certificate before 1st January 1991 having a maximum total weight authorized of 5700 kg or less, any one of the following systems of lights:—
+    - (b) in the case of a flying machine registered in Hong Kong which conforms to a type first issued with a type certificate before 1st January 1991 having a maximum total weight authorized of 5 700 kg or less, any one of the following systems of lights:—
 
       - (i) that specified in paragraph (2)(a) of this Rule, or that specified in paragraph (2)(b); or
 
@@ -276,13 +270,15 @@ SECTION I INTERPRETATION
 
     - (a) an airship shall be deemed not to be under command when it is unable to execute a manoeuvre which it may be required to execute by or under these Rules;
 
-    - (b) an airship shall be deemed to be making way when it is not moored and is in motion relative to the air. SECTION IV GENERAL FLIGHT RULES
+    - (b) an airship shall be deemed to be making way when it is not moored and is in motion relative to the air.
+
+Section IV General Flight Rules
 
 - 16. Weather reports and forecasts
 
   - (1) Immediately before an aircraft flies the commander of the aircraft shall examine the current reports and forecasts of the weather conditions on the proposed flight path, being reports and forecasts which it is reasonably practicable for him to obtain, in order to determine whether Instrument Meteorological Conditions prevail or are likely to prevail during any part of the flight.
 
-  - (2) An aircraft which is unable to communicate by radio with an air traffic control unit at the aerodrome of destination shall not begin a flight to an aerodrome within a control zone if the information which it is reasonably practicable for the commander of the aircraft to obtain indicates that it will arrive at that aerodrome when the ground visibility is less than 5 nautical miles or the cloud ceiling is less than 1500 feet, unless the commander of the aircraft has obtained from an air traffic control unit at that aerodrome permission to enter the aerodrome traffic zone.
+  - (2) An aircraft which is unable to communicate by radio with an air traffic control unit at the aerodrome of destination shall not begin a flight to an aerodrome within a control zone if the information which it is reasonably practicable for the commander of the aircraft to obtain indicates that it will arrive at that aerodrome when the ground visibility is less than 5 nautical miles or the cloud ceiling is less than 1 500 feet, unless the commander of the aircraft has obtained from an air traffic control unit at that aerodrome permission to enter the aerodrome traffic zone.
 
 - 17. Rules for avoiding aerial collisions
 
@@ -338,11 +334,11 @@ SECTION I INTERPRETATION
 
     - (b) In the case of two or more flying machines, gliders or airships approaching any place for the purpose of landing, the aircraft at the lower altitude shall have the right-of-way, but it shall not cut in front of another aircraft which is in the final approach to land or overtake that aircraft:
 
-      - Provided that—
+    - Provided that—
 
-        - (i) when an air traffic control unit has communicated to any aircraft an order of priority for landing, the aircraft shall approach to land in that order; and
+      - (i) when an air traffic control unit has communicated to any aircraft an order of priority for landing, the aircraft shall approach to land in that order; and
 
-        - (ii) when the commander of an aircraft is aware that another aircraft is making an emergency landing, he shall give way to that aircraft, and at night, notwithstanding that he may have received permission to land, shall not attempt to land until he has received further permission to do so.
+      - (ii) when the commander of an aircraft is aware that another aircraft is making an emergency landing, he shall give way to that aircraft, and at night, notwithstanding that he may have received permission to land, shall not attempt to land until he has received further permission to do so.
 
   - (7) Landing and take-off
 
@@ -358,11 +354,7 @@ SECTION I INTERPRETATION
 
     - (d) A flying machine after landing shall move clear of the landing area as soon as it is possible to do so unless in the case of an aerodrome having an air traffic control unit, that unit otherwise authorizes.
 
-- 18.
-
-- Aerobatic manoeuvres
-
-- An aircraft shall not carry out any aerobatic manoeuvre:
+- 18. Aerobatic manoeuvres An aircraft shall not carry out any aerobatic manoeuvre:
 
   - (a) over a congested area of any city, town or settlement; or
 
@@ -394,7 +386,9 @@ SECTION I INTERPRETATION
 
     - (b) in a control zone shall be flown in accordance with the Instrument Flight Rules unless it is on a Special VFR flight.
 
-- 22A. (Repealed L.N. 77 of 2008) SECTION V VISUAL FLIGHT RULES
+- 22A. (Repealed L.N. 77 of 2008)
+
+Section V Visual Flight Rules
 
 - 23. The Visual Flight Rules
 
@@ -408,21 +402,21 @@ SECTION I INTERPRETATION
 
     - (b) Within Class C, Class D or Class E airspace:
 
-      - (i) an aircraft flying within Class C, Class D or Class E airspace at or above flight level 100 shall remain at least 1500 metres horizontally and 1000 feet vertically away from cloud and in a flight visibility of at least 8 kilometres;
+      - (i) an aircraft flying within Class C, Class D or Class E airspace at or above flight level 100 shall remain at least 1 500 metres horizontally and 1 000 feet vertically away from cloud and in a flight visibility of at least 8 kilometres;
 
-      - (ii) an aircraft flying within Class C, Class D or Class E airspace below flight level 100 shall remain at least 1500 metres horizontally and 1000 feet vertically away from cloud and in a flight visibility of at least 5 kilometres;
+      - (ii) an aircraft flying within Class C, Class D or Class E airspace below flight level 100 shall remain at least 1 500 metres horizontally and 1 000 feet vertically away from cloud and in a flight visibility of at least 5 kilometres;
 
-    - (c) an aircraft flying outside controlled airspace at or above flight level 100 shall remain at least 1500 metres horizontally and 1000 feet vertically away from cloud and in a flight visibility of at least 8 kilometres;
+    - (c) an aircraft flying outside controlled airspace at or above flight level 100 shall remain at least 1 500 metres horizontally and 1 000 feet vertically away from cloud and in a flight visibility of at least 8 kilometres;
 
-    - (d) an aircraft flying outside controlled airspace below flight level 100 shall remain at least 1500 metres horizontally and 1000 feet vertically away from cloud and in a flight visibility of at least 5 kilometres:
+    - (d) an aircraft flying outside controlled airspace below flight level 100 shall remain at least 1 500 metres horizontally and 1 000 feet vertically away from cloud and in a flight visibility of at least 5 kilometres:
 
-      - Provided that this sub-paragraph shall be deemed to be complied with if:
+    - Provided that this sub-paragraph shall be deemed to be complied with if:
 
-        - (i) the aircraft is flying at or below 3000 feet above mean sea level and remains clear of cloud and in sight of the surface and in a flight visibility of at least 5 kilometres;
+      - (i) the aircraft is flying at or below 3 000 feet above mean sea level and remains clear of cloud and in sight of the surface and in a flight visibility of at least 5 kilometres;
 
-        - (ii) the aircraft, other than a helicopter, is flying at or below 3000 feet above mean sea level at a speed which according to its air speed indicator is 140 knots or less and remains clear of cloud and in a flight visibility of at least 1500 metres; or
+      - (ii) the aircraft, other than a helicopter, is flying at or below 3 000 feet above mean sea level at a speed which according to its air speed indicator is 140 knots or less and remains clear of cloud and in a flight visibility of at least 1 500 metres; or
 
-        - (iii) in the case of a helicopter, the helicopter is flying at or below 3000 feet above mean sea level flying at a speed, which, having regard to the visibility, is reasonable, and remains clear of cloud and in sight of the surface. (L.N. 77 of 2008)
+      - (iii) in the case of a helicopter, the helicopter is flying at or below 3 000 feet above mean sea level flying at a speed, which, having regard to the visibility, is reasonable, and remains clear of cloud and in sight of the surface. (L.N. 77 of 2008)
 
   - (2)
 
@@ -444,7 +438,9 @@ SECTION I INTERPRETATION
 
     - (a) cause a continuous watch to be maintained on the notified radio frequency appropriate to the circumstances; and
 
-    - (b) comply with any instructions which the appropriate air traffic control unit may give in a particular case. SECTION VI INSTRUMENT FLIGHT RULES
+    - (b) comply with any instructions which the appropriate air traffic control unit may give in a particular case.
+
+Section VI Instrument Flight Rules
 
 - 24. The Instrument Flight Rules shall be as follows:
 
@@ -452,11 +448,7 @@ SECTION I INTERPRETATION
 
   - (b) Outside controlled airspace: In relation to flights outside controlled airspace Rules 25 and 26 shall apply.
 
-- 25.
-
-- Minimum height
-
-- Without prejudice to the provisions of Rule 5, in order to comply with the Instrument Flight Rules an aircraft shall not fly at a height of less than 1 000 feet above the highest obstacle within a distance of 5 nautical miles of the aircraft unless:
+- 25. Minimum height Without prejudice to the provisions of Rule 5, in order to comply with the Instrument Flight Rules an aircraft shall not fly at a height of less than 1 000 feet above the highest obstacle within a distance of 5 nautical miles of the aircraft unless:
 
   - (a) it is necessary for the aircraft to do so in order to land; or
 
@@ -466,25 +458,85 @@ SECTION I INTERPRETATION
 
   - (d) the aircraft is flying at an altitude not exceeding 3 000 feet above mean sea level and remains clear of cloud and in sight of the surface.
 
-- 26. Semi-circular Rule In order to comply with the Instrument Flight Rules, an aircraft when in level flight above 3000 feet above mean sea level or above the appropriate transition altitude, whichever is the higher, shall be flown at a level appropriate to its magnetic track, in accordance with the appropriate Table set forth in this Rule. The level of flight shall be measured by an altimeter set according to the system published by the competent authority in relation to the area over which the aircraft is flying:
+- 26. Semi-circular Rule In order to comply with the Instrument Flight Rules, an aircraft when in level flight above 3 000 feet above mean sea level or above the appropriate transition altitude, whichever is the higher, shall be flown at a level appropriate to its magnetic track, in accordance with the appropriate Table set forth in this Rule. The level of flight shall be measured by an altimeter set according to the system published by the competent authority in relation to the area over which the aircraft is flying:
 
   - Provided that an aircraft may be flown at a level other than the level required by this Rule if it is flying in conformity with instructions given by an air traffic control unit or in accordance with notified en-route holding patterns or in accordance with holding procedures notified in relation to an aerodrome.
 
-  - For the purposes of this Rule “transition altitude” means the altitude so notified in relation to flight over such area or areas as may be notified. TABLE I-Flights at levels at or below 9000 feet (L.N. 77 of 2008)
+- For the purposes of this Rule “transition altitude” means the altitude so notified in relation to flight over such area or areas as may be notified.
 
-  - Magnetic Track | Cruising Level
+- TABLE I—Flights at levels at or below 9 000 feet (L.N. 77 of 2008)
 
-  - Less than 180 degrees | Odd thousands of feet
+- Magnetic Track | Cruising Level
 
-  - 180 degrees but less than 360 degrees | Even thousands of feet
+- Less than 180 degrees | Odd thousands of feet
 
-  - TABLE II-Flights at or above Flight Level (FL) 110
+- 180 degrees but less than 360 degrees | Even thousands of feet
 
-  - Magnetic Track | Cruising Level
+- TABLE II—Flights at or above Flight Level (FL) 110
 
-  - Less than 180 degrees | FL 110 FL 130 FL 150 FL 170 FL 190 FL 210 FL 230 FL 250 FL 270 FL 290 FL 310 FL 330 FL 350 FL 370 FL 390 FL 410 or higher levels at intervals of 4000 feet
+- Magnetic Track | Cruising Level
 
-  - 180 degrees but less than 360 degrees | FL 120 FL 140 FL 160 FL 180 FL 200 FL 220 FL 240 FL 260 FL 280 FL 300 FL 320 FL 340 FL 360 FL 380 FL 400 FL 430 or higher levels at intervals of 4000 feet
+- Less than 180 degrees | FL 110
+
+- FL 130
+
+- FL 150
+
+- FL 170
+
+- FL 190
+
+- FL 210
+
+- FL 230
+
+- FL 250
+
+- FL 270
+
+- FL 290
+
+- FL 310
+
+- FL 330
+
+- FL 350
+
+- FL 370
+
+- FL 390
+
+- FL 410 or higher levels at intervals of 4 000 feet
+
+- 180 degrees but less than 360 degrees | FL 120 FL 140
+
+- FL 160
+
+- FL 180
+
+- FL 200
+
+- FL 220
+
+- FL 240
+
+- FL 260
+
+- FL 280
+
+- FL 300
+
+- FL 320
+
+- FL 340
+
+- FL 360
+
+- FL 380
+
+- FL 400
+
+- FL 430 or higher levels at intervals of 4 000 feet
 
 - (L.N. 77 of 2008)
 
@@ -510,7 +562,9 @@ SECTION I INTERPRETATION
 
   - (5) The commander of the aircraft after he has flown in controlled airspace shall, unless he has requested the appropriate air traffic control unit to cancel his flight plan, forthwith inform that unit when the aircraft lands or leaves the controlled airspace.
 
-- 28. Position reports In order to comply with the Instrument Flight Rules the commander of an aircraft in IFR flight who flies in or is intending to enter controlled airspace shall report to the appropriate air traffic control unit the time, and the position and level of the aircraft at such reporting points or at such intervals of time as may be notified for this purpose or as may be directed by the air traffic control unit. SECTION VII AERODROME TRAFFIC RULES
+- 28. Position reports In order to comply with the Instrument Flight Rules the commander of an aircraft in IFR flight who flies in or is intending to enter controlled airspace shall report to the appropriate air traffic control unit the time, and the position and level of the aircraft at such reporting points or at such intervals of time as may be notified for this purpose or as may be directed by the air traffic control unit.
+
+Section VII Aerodrome Traffic Rules
 
 - 29. Application of aerodrome traffic rules The Rules in this Section of these Rules which are expressed to apply to flying machines shall also be observed, so far as is practicable, in relation to all other aircraft.
 
@@ -562,11 +616,7 @@ SECTION I INTERPRETATION
 
     - (b) keep to the left when passing another vehicle which is approaching head-on or approximately so.
 
-- 34.
-
-- Launching, picking up and dropping of tow ropes etc.
-
-- (L.N. 77 of 2008)
+- 34. Launching, picking up and dropping of tow ropes etc. (L.N. 77 of 2008)
 
   - (1) Tow ropes, banners or similar articles towed by aircraft shall not be launched at an aerodrome except in accordance with arrangement made with an air traffic control unit at the aerodrome or, if there is not such unit, with person in charge of the aerodrome.
 
@@ -584,7 +634,11 @@ SECTION I INTERPRETATION
 
   - Column 1 | Column 2
 
-  - (a) A Government aerodrome (b) An aerodrome having an air traffic control unit or an flight information service unit (c) A licensed aerodrome having a means of two-way radio communication with aircraft | at such times as are notified during the notified hours of watch of the air traffic control unit or the flight information service unit during the notified hours of watch of the air/ground radio
+  - (a) A Government aerodrome | at such times as are notified
+
+  - (b) An aerodrome having an air traffic control unit or an flight information service unit | during the notified hours of watch of the air traffic control unit or the flight information service unit
+
+  - (c) A licensed aerodrome having a means of two-way radio communication with aircraft | during the notified hours of watch of the air/ground radio
 
   - (2) An aircraft shall not fly, take off or land, within the aerodrome traffic zone of an aerodrome to which this paragraph applies unless the pilot in command of the aircraft has obtained the permission of the air traffic control unit at the aerodrome or, where there is no air traffic control unit, has obtained from the flight information service unit at that aerodrome information to enable the flight within the zone to be conducted with safety or, where there is no air traffic control unit nor flight information service unit, has obtained information from the air/ground radio station at that aerodrome to enable the flight to be conducted with safety.
 
@@ -596,8 +650,8 @@ SECTION I INTERPRETATION
 
 - (L.N. 77 of 2008)
 
-- 36. Use of radio navigation aid The commander of an aircraft shall not make use of any radio navigation aid without complying with such restrictions and appropriate procedures as may be notified in relation to that aid unless authorised by the appropriate air traffic control unit :
+- 36. Use of radio navigation aid The commander of an aircraft shall not make use of any radio navigation aid without complying with such restrictions and appropriate procedures as may be notified in relation to that aid unless authorised by the appropriate air traffic control unit:
 
   - Provided that he shall not be required to comply with this Rule if he is required to comply with rule 27 of these Rules.
 
-- SECTION VIII (Repealed L.N. 77 of 2008)
+Section VIII (Repealed L.N. 77 of 2008)

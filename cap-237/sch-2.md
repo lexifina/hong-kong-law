@@ -18,7 +18,7 @@ SCHEDULED CIRCUMSTANCES
 
     - (ii) for a period no longer than is necessary.
 
-  - C. Where a motor vehicle is being used on a restricted road for the purposes of the police, fire services or ambulance services, or for the conveyance of public mail, or by the Armed Forces of the Crown when any such vehicle is being used as a matter of urgent necessity, if compliance with the Ordinance would be likely to hinder the use of the vehicle on that occasion for any of those purposes.
+  - C. Where a motor vehicle is being used on a restricted road for the purposes of the police, fire services or ambulance services, or for the conveyance of public mail, or by the Chinese People’s Liberation Army when any such vehicle is being used as a matter of urgent necessity, if compliance with the Ordinance would be likely to hinder the use of the vehicle on that occasion for any of those purposes. (Amended 2 of 2012 s. 3)
 
   - D. Where a public bus, being a bus which is being used or is intended to be used to carry passengers at separate and distinct fares within Hong Kong or on a recognized and predetermined route or for a recognized and predetermined purpose in accordance with a right or licence granted by or under any enactment—
 

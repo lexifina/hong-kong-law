@@ -8,7 +8,7 @@ Item | Person
 
 1. | Public officers
 
-2. | Members of Her Majesty’s regular armed forces
+2. | Members of the Chinese People’s Liberation Army (Amended 2 of 2012 s. 3)
 
 3. | Members of visiting armed forces
 
