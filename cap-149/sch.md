@@ -10,11 +10,11 @@ GENERAL HOLIDAYS
 
 - (b) the first day of January (or if that day is a Sunday, then the following day);
 
-- (c) Lunar New Year’s Day (or if that day is a Sunday, then the day preceding Lunar New Year’s Day);
+- (c) Lunar New Year’s Day (or if that day is a Sunday, then the fourth day of Lunar New Year); (Amended 23 of 2011 s. 3)
 
-- (d) the second day of Lunar New Year (or if that day is a Sunday, then the day preceding Lunar New Year’s Day);
+- (d) the second day of Lunar New Year (or if that day is a Sunday, then the fourth day of Lunar New Year); (Amended 23 of 2011 s. 3)
 
-- (e) the third day of Lunar New Year (or if that day is a Sunday, then the day preceding Lunar New Year’s Day);
+- (e) the third day of Lunar New Year (or if that day is a Sunday, then the fourth day of Lunar New Year); (Amended 23 of 2011 s. 3)
 
 - (f) Ching Ming Festival (or if that day is a Sunday, then the following day);
 
@@ -34,7 +34,7 @@ GENERAL HOLIDAYS
 
 - (n) National Day, being the first day of October (or if that day is a Sunday, then the following day);
 
-- (o) the day following the Chinese Mid-Autumn Festival (or if that day is a Sunday, then the day of that Festival) or such other day as the Chief Executive in Council may, by order in the Gazette, appoint in place of that day;
+- (o) the day following the Chinese Mid-Autumn Festival (or if that day is a Sunday, then the second day following that Festival) or such other day as the Chief Executive in Council may, by order in the Gazette, appoint in place of that day; (Amended 23 of 2011 s. 3)
 
 - (p) Chung Yeung Festival (or if that day is a Sunday, then the following day) or such other day as the Chief Executive in Council may, by order in the Gazette, appoint in place of that day;
 
