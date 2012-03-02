@@ -50,6 +50,8 @@ The Tsuen Wan Town Hall at Tai Ho Road, Tsuen Wan
 
 The Tuen Mun Town Hall at Tuen Hi Road, Tuen Mun
 
+The Yau Ma Tei Theatre and the Red Brick Building at Waterloo Road, Yau Ma Tei
+
 The Yuen Long Theatre at Tai Yuk Road, Yuen Long
 
-(Added 21 of 1973 s. 19. Amended L.N. 30 of 1980; L.N. 87 of 1980; L.N. 203 of 1981; L.N. 223 of 1981; L.N. 53 of 1982; L.N. 194 of 1982; L.N. 46 of 1983; L.N. 90 of 1983; L.N. 74 of 1985; L.N. 126 of 1986; L.N. 272 of 1986; L.N. 139 of 1987; L.N. 89 of 1988; L.N. 90 of 1988; L.N. 119 of 1988; L.N. 240 of 1990; L.N. 51 of 1991; L.N. 417 of 1991; L.N. 66 of 1992; L.N. 214 of 1996; L.N. 445 of 1997; L.N. 241 of 1999; L.N. 40 of 2000; L.N. 256 of 2000; L.N. 63 of 2001; L.N. 246 of 2002; L.N. 6 of 2007)
+(Added 21 of 1973 s. 19. Amended L.N. 30 of 1980; L.N. 87 of 1980; L.N. 203 of 1981; L.N. 223 of 1981; L.N. 53 of 1982; L.N. 194 of 1982; L.N. 46 of 1983; L.N. 90 of 1983; L.N. 74 of 1985; L.N. 126 of 1986; L.N. 272 of 1986; L.N. 139 of 1987; L.N. 89 of 1988; L.N. 90 of 1988; L.N. 119 of 1988; L.N. 240 of 1990; L.N. 51 of 1991; L.N. 417 of 1991; L.N. 66 of 1992; L.N. 214 of 1996; L.N. 445 of 1997; L.N. 241 of 1999; L.N. 40 of 2000; L.N. 256 of 2000; L.N. 63 of 2001; L.N. 246 of 2002; L.N. 6 of 2007; L.N. 31 of 2012)
