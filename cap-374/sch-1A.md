@@ -1,17 +1,17 @@
-# SCHEDULE 1A
+# Schedule 1A
 
-[ss. 36, 36A, 37 & 39I]
+[ss. 2 & 39I]
 
-DRUGS
+Specified Illicit Drugs
 
-- 1. Heroin
+- 1. Heroin or any metabolite derived from heroin
 
 - 2. Ketamine
 
-- 3. Methylamphetamine
+- 3. Methamphetamine (methylamphetamine)
 
-- 4. Cannabis
+- 4. Cannabis or any active ingredient of cannabis
 
-- 5. Cocaine
+- 5. Cocaine or any metabolite derived from cocaine
 
-- 6. 3,4-methylenedioxymethamphetamine (MDMA) (Schedule 1A added 19 of 2010 s. 22)
+- 6. 3, 4-methylenedioxymethamphetamine (MDMA) (Schedule 1A replaced 24 of 2011 s. 20)
