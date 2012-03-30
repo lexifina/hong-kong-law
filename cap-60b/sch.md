@@ -48,11 +48,11 @@ Item | $
 
 10. | Issue of any statistical data, other than copies of official records, derived from import and export declarations, such fee being calculated according to the actual work done including all overheads charges . | Fee as calculated
 
-10A. | Issue of a delivery verification certificate for the certification of delivery of strategic commodities into Hong Kong (L.N. 259 of 1985; L.N. 160 of 1992; L.N. 19 of 2008) . | 235
+10A. | Issue of a delivery verification certificate for the certification of delivery of strategic commodities into Hong Kong (L.N. 259 of 1985; L.N. 160 of 1992; L.N. 19 of 2008; L.N. 16 of 2012) . | 260
 
 10B. | Issue of a certified copy of import declaration or export declaration or manifest (L.N. 106 of 1990; L.N. 160 of 1992; L.N. 19 of 2008) . | 235
 
-10C. | Issue of an international import certificate (L.N. 160 of 1992; L.N. 19 of 2008) . | 79
+10C. | Issue of an international import certificate (L.N. 160 of 1992; L.N. 19 of 2008; L.N. 16 of 2012) . | 87
 
 11. | (Repealed L.N. 484 of 1996)
 
