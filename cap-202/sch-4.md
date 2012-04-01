@@ -20,63 +20,63 @@ A. | FINGERS—
 
 Index finger—
 
-More than 2 phalanges including loss of whole finger | 14 | 80001.68 | 79519.85
+More than 2 phalanges including loss of whole finger | 14 | 84561.78 | 84052.48
 
-More than 1 phalanx but not more than 2 phalanges | 11 | 64032.84 | 63633.24
+More than 1 phalanx but not more than 2 phalanges | 11 | 67682.71 | 67260.33
 
-1 phalanx or part thereof | 9 | 53334.45 | 53014.76
+1 phalanx or part thereof | 9 | 56374.51 | 56036.60
 
-Guillotine amputation of tip without loss of bone | 5 | 31937.64 | 31775.51
+Guillotine amputation of tip without loss of bone | 5 | 33758.09 | 33586.71
 
 Middle finger—
 
-More than 2 phalanges including loss of whole finger | 12 | 69303.27 | 68901.39
+More than 2 phalanges including loss of whole finger | 12 | 73253.56 | 72828.77
 
-More than 1 phalanx but not more than 2 phalanges | 9 | 53334.45 | 53014.76
+More than 1 phalanx but not more than 2 phalanges | 9 | 56374.51 | 56036.60
 
-1 phalanx or part thereof | 7 | 42636.06 | 42396.27
+1 phalanx or part thereof | 7 | 45066.32 | 44812.86
 
-Guillotine amputation of tip without loss of bone | 4 | 26667.23 | 26507.37
+Guillotine amputation of tip without loss of bone | 4 | 28187.26 | 28018.29
 
 Ring or little finger—
 
-More than 2 phalanges including loss of whole finger | 7 | 42636.06 | 42396.27
+More than 2 phalanges including loss of whole finger | 7 | 45066.32 | 44812.86
 
-More than 1 phalanx but not more than 2 phalanges | 6 | 37365.63 | 37125.87
+More than 1 phalanx but not more than 2 phalanges | 6 | 39495.47 | 39242.04
 
-1 phalanx or part thereof Guillotine amputation of tip without loss of bone | 5 2 | 31937.64 15968.83 | 31775.51 15888.91
+1 phalanx or part thereof Guillotine amputation of tip without loss of bone | 5 2 | 33758.09 16879.05 | 33586.71 16794.58
 
 B. | TOES—
 
 Great toe—
 
-through metatarso-phalangeal | 14 | 80001.68 | 79519.85
+through metatarso-phalangeal | 14 | 84561.78 | 84052.48
 
-joint part, with some loss of bone | 3 | 21236.96 | 21157.04
+joint part, with some loss of bone | 3 | 22447.47 | 22362.99
 
 1 other toe—
 
-through metatarso-phalangeal | 3 | 21236.96 | 21157.04
+through metatarso-phalangeal | 3 | 22447.47 | 22362.99
 
-joint part, with some loss of bone | 1 | 10698.40 | 10618.49
+joint part, with some loss of bone | 1 | 11308.21 | 11223.74
 
 2 toes, excluding great toe—
 
-through metatarso-phalangeal | 5 | 31937.64 | 31775.51
+through metatarso-phalangeal | 5 | 33758.09 | 33586.71
 
-joint part, with some loss of bone | 2 | 15968.83 | 15888.91
+joint part, with some loss of bone | 2 | 16879.05 | 16794.58
 
 3 toes, excluding great toe—
 
-through metatarso-phalangeal | 6 | 37365.63 | 37125.87
+through metatarso-phalangeal | 6 | 39495.47 | 39242.04
 
-joint part, with some loss of bone | 3 | 21236.96 | 21157.04
+joint part, with some loss of bone | 3 | 22447.47 | 22362.99
 
 4 toes, excluding great toe—
 
-through metatarso-phalangeal | 9 | 53334.45 | 53014.76
+through metatarso-phalangeal | 9 | 56374.51 | 56036.60
 
-joint part, with some loss of bone | 3 | 21236.96 | 21157.04
+joint part, with some loss of bone | 3 | 22447.47 | 22362.99
 
 PART II
 
@@ -90,22 +90,22 @@ Estimated duration of disablement | Degree of disablement | Amount
 
 Officer rank | Member rank
 
-temporary less than 1 year | 1-5 | 4500.87 | 4403.82
+temporary less than 1 year | 1-5 | 4757.42 | 4654.84
 
-6-14 | 10025.89 | 9802.10
+6-14 | 10597.37 | 10360.82
 
-15-19 | 17537.61 | 17136.87
+15-19 | 18537.25 | 18113.67
 
-temporary more than 1 year | 1-5 | 9000.58 | 8825.90
+temporary more than 1 year | 1-5 | 9513.61 | 9328.98
 
-6-14 | 19987.85 | 19556.28
+6-14 | 21127.16 | 20670.99
 
-15-19 | 34995.31 | 34226.89
+15-19 | 36990.04 | 36177.82
 
-Indeterminate | 1-5 | 27018.90 | 26362.38
+Indeterminate | 1-5 | 28558.98 | 27865.04
 
-6-14 | 60028.67 | 58554.63
+6-14 | 63450.30 | 61892.24
 
-15-19 | 105051.03 | 102391.83
+15-19 | 111038.94 | 108228.16
 
-(Amended L.N. 489 of 1997; L.N. 308 of 1998; L.N. 217 of 1999; L.N. 134 of 2005; L.N. 172 of 2006; L.N. 172 of 2007; L.N. 210 of 2008; L.N. 175 of 2009; L.N. 106 of 2010; L.N. 132 of 2011)
+(Amended L.N. 489 of 1997; L.N. 308 of 1998; L.N. 217 of 1999; L.N. 134 of 2005; L.N. 172 of 2006; L.N. 172 of 2007; L.N. 210 of 2008; L.N. 175 of 2009; L.N. 106 of 2010; L.N. 132 of 2011; L.N. 110 of 2012)
