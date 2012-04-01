@@ -12,7 +12,7 @@ GENERAL CONDITIONS FOR CARRIER LICENCES
 
 - 1.4 The grant of this licence does not authorize the licensee to do anything which infringes any exclusive licence granted under the Ordinance or any exclusive right to operate and provide telecommunications networks, systems, installations or services granted under any other Ordinance.
 
-- 2. TRANSFER 2.1 The licensee may, only with the prior written consent of the Authority and subject to such reasonable conditions as the Authority thinks fit, transfer this licence or any permission, right or benefit under this licence. In giving his consent the Authority will have regard to such matters as he thinks fit including but not limited to the effect which the transfer will have on market structure and the financial and technical competence and viability of the transferee.
+- 2. TRANSFER 2.1 The licensee may, only with the prior written consent of the Authority and subject to such reasonable conditions as the Authority thinks fit, transfer this licence or any permission, right or benefit under this licence. In giving its consent the Authority will have regard to such matters as it thinks fit including but not limited to the effect which the transfer will have on market structure and the financial and technical competence and viability of the transferee. (17 of 2011 s. 28)
 
 - 3. INTERNATIONAL CONVENTIONS 3.1 The licensee shall at all times perform and observe the requirements of the Constitution and Convention of the International Telecommunication Union and the regulations and recommendations annexed to it, as are stated to be applicable to Hong Kong, and any other international convention, agreement, protocol, understanding or the like to the extent that the instruments described in this General Condition 3.1 impose obligations on Hong Kong of which the Authority gives notice to the licensee, except to the extent that the Authority may in writing exempt the licensee from such compliance.
 
@@ -36,7 +36,7 @@ GENERAL CONDITIONS FOR CARRIER LICENCES
 
 - 9.2 The licensee shall take reasonable measures to ensure that the customers of the service do not cause harmful interference to lawful telecommunications services or utility services through use of the service.
 
-- 9.3 The Authority may give such reasonable directions as he thinks fit to avoid harmful interference or physical obstruction referred to in General Condition 9.1. The licensee shall comply with the directions.
+- 9.3 The Authority may give such reasonable directions as it thinks fit to avoid harmful interference or physical obstruction referred to in General Condition 9.1. The licensee shall comply with the directions. (17 of 2011 s. 28)
 
 - 10. RESTRICTIONS ON ATTACHMENT TO PUBLIC BUILDINGS AND TREES 10.1 No part of the network shall be attached to any Government building except with the prior written consent of the Government Property Administrator, or to any tree on any Government land except with the prior written consent of the Director of Agriculture, Fisheries and Conservation, or the Director of Leisure and Cultural Services.
 

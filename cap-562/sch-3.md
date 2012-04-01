@@ -36,7 +36,7 @@ SERVICES NOT TO BE REGARDED AS TELEVISION PROGRAMME SERVICES
 
       - (A) the originator of the programmes has published a notice in a Chinese language newspaper circulating generally in Hong Kong, and in an English language newspaper circulating generally in Hong Kong, stating that the programmes are intended for general reception and that no fee will be charged for the right to view or listen to any such programmes in Hong Kong; and
 
-      - (B) the Broadcasting Authority or the Telecommunications Authority states in writing that it or he is satisfied that the programmes are intended for general reception and that no fee will be charged for the right to view or listen to any such programmes in Hong Kong; and
+      - (B) the Authority states in writing that it is satisfied that the programmes are intended for general reception and that no fee will be charged for the right to view or listen to any such programmes in Hong Kong; and (Amended 17 of 2011 s. 28)
 
     - (ii) no fee is in fact charged for the right to view or listen to any such programme in Hong Kong.
 

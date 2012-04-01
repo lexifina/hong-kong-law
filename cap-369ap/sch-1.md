@@ -6,11 +6,11 @@ PERFORMANCE SPECIFICATIONS REQUIRED BY THE MERCHANT SHIPPING (SAFETY)(RADIO INST
 
 - 1. The Merchant Shipping (Safety)(Radio Installations) Regulations 1990 (hereinafter called “the regulations”), which apply to Hong Kong and other Safety Convention ships, have been made in connection with the implementation of the International Convention for the Safety of Life at Sea 1974. They set out requirements for the carriage of radio installations in merchant ships.
 
-- 2. Regulation 4(4) specifies that equipment required to be provided under the regulations shall comply with performance standards adopted by the International Maritime Organization (IMO) and, in the case of equipment provided on Hong Kong ships, shall, in addition, comply with performance specifications issued by the Telecommunications Authority.
+- 2. Regulation 4(4) specifies that equipment required to be provided under the regulations shall comply with performance standards adopted by the International Maritime Organization (IMO) and, in the case of equipment provided on Hong Kong ships, shall, in addition, comply with performance specifications issued by the Communications Authority. (17 of 2011 s. 28)
 
 - 3. Performance specifications for marine radio equipment required by the regulations comply with all relevant performance standards which were adopted by IMO at the time each specification was first published.
 
-- 4. Equipment which is subject to type testing when forming part of an existing radio installation in a Hong Kong ship shall be of a type which is approved by the Telecommunications Authority.
+- 4. Equipment which is subject to type testing when forming part of an existing radio installation in a Hong Kong ship shall be of a type which is approved by the Communications Authority. (17 of 2011 s. 28)
 
 - 5.
 

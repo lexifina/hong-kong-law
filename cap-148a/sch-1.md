@@ -1,4 +1,4 @@
-# Schedule 1
+# SCHEDULE 1
 
 [reg. 2(1)]
 
@@ -8,15 +8,11 @@ Application No. .
 
 GAMBLING REGULATIONS
 
-To the Commissioner for Television and Entertainment Licensing
+To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
 
 APPLICATION FOR LOTTERY LICENCE
 
--
-
 BEFORE completing this application READ the Note below.
-
--
 
 I . hereby apply for a licence to promote and conduct a lottery.
 
@@ -56,21 +52,23 @@ to be used for .
 
 - . | . | .
 
-- and together with other minor prizes the total value of all the prizes offered will be .
+- and together with other minor prizes the total value of all the prizes offered will be . .
 
-- 6. The lottery will be drawn on . at . by .
+- 6. The lottery will be drawn on .
+
+- at . by .
 
 - 7. The results of the lottery will be advertised in . . and in . (name 2 English and 2 Chinese newspapers) I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
-- 3. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence.
+- 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
 - 4.
 
-- If the Commissioner decides to grant a licence, a fee of $3,165 will be payable to the Commissioner upon such grant, unless waived or reduced.
+- If the public officer decides to grant a licence, a fee of $3,165 will be payable to the public officer upon such grant, unless waived or reduced.
 
-- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000 ; L.N. 92 of 2002)
+- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000 ; L.N. 92 of 2002; 17 of 2011 s. 28)
 
 - FORM 2
 
@@ -78,15 +76,11 @@ to be used for .
 
 - GAMBLING REGULATIONS
 
-- To the Commissioner for Television and Entertainment Licensing
+- To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
 
 - APPLICATION FOR TOMBOLA LICENCE
 
-- - -
-
 - BEFORE completing this application READ the Note below.
-
-- - -
 
 - I . hereby apply for a licence to organize and conduct games of tombola. In support of my application I attach Form .
 
@@ -94,7 +88,9 @@ to be used for .
 
 - duly completed, together with the following particulars:
 
-- 1. The purpose of the game is to raise funds for the . . to be used (name of club, society) for . (club expenses, particular project)
+- 1. The purpose of the game is to raise funds for the .
+
+- . to be used (name. of club, society) for . (club expenses, particular project)
 
 - 2. The games will be conducted at the following place, days and times—
 
@@ -120,13 +116,13 @@ to be used for .
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
-- 3. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence.
+- 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
 - 4.
 
-- If the Commissioner decides to grant a licence, a fee of $13,100 will be payable to the Commissioner upon such grant, unless waived or reduced.
+- If the public officer decides to grant a licence, a fee of $13,100 will be payable to the public officer upon such grant, unless waived or reduced.
 
-- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000)
+- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
 
 - FORM 3
 
@@ -134,15 +130,11 @@ to be used for .
 
 - GAMBLING REGULATIONS
 
-- To the Commissioner for Television and Entertainment Licensing
+- To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
 
 - APPLICATION FOR AMUSEMENTS WITH PRIZES LICENCE
 
-- - -
-
 - BEFORE completing this application READ the Note below.
-
-- - -
 
 - I . hereby apply for a licence to organize and conduct games of amusement with prizes on premises situated at .
 
@@ -176,13 +168,13 @@ to be used for .
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
-- 3. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence.
+- 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
 - 4.
 
-- If the Commissioner decides to grant a licence, a fee of $3,200 will be payable to the Commissioner upon such grant, unless waived or reduced.
+- If the public officer decides to grant a licence, a fee of $3,200 will be payable to the public officer upon such grant, unless waived or reduced.
 
-- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000)
+- (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
 
 - FORM 4
 
@@ -190,15 +182,11 @@ to be used for .
 
 - GAMBLING REGULATIONS
 
-- To the Commissioner for Television and Entertainment Licensing
+- To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
 
 - APPLICATION FOR TRADE PROMOTION COMPETITION LICENCE
 
-- - -
-
 - BEFORE completing this application READ the Note below.
-
-- -
 
 - I . hereby apply for a licence to organize and conduct a trade promotion competition. In support of my application I attach Form .
 
@@ -264,13 +252,13 @@ to be used for .
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
-- 3. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence.
+- 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
 - 4.
 
-- If the Commissioner decides to grant a licence, a fee of $1,590 will be payable to the Commissioner upon such grant.
+- If the public officer decides to grant a licence, a fee of $1,590 will be payable to the public officer upon such grant.
 
-- (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000)
+- (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
 
 - FORM 5
 
@@ -278,15 +266,11 @@ to be used for .
 
 - GAMBLING REGULATIONS
 
-- To the Commissioner for Television and Entertainment Licensing
+- To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
 
 - APPLICATION FOR MAHJONG/TIN KAU LICENCE
 
-- - -
-
 - BEFORE completing this application READ the Note below.
-
-- - -
 
 - I . hereby apply for a licence to provide facilities for the playing of games in which mahjong/tin kau tiles are used at the premises situated at .
 
@@ -334,15 +318,13 @@ to be used for .
 
 - .
 
-- .
-
-- I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
+- . I certify that the information supplied by me in this application is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. You are advised to refer to section 22 of the Gambling Ordinance and the Gambling Regulations.
 
 - 2. If the application is on behalf of a company, complete Form 7. If the application is on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies, complete Form 8. If the application is not on behalf of a company or such a society or club, complete Form 6.
 
-- 3. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence.
+- 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
-- 4. If the Commissioner decides to grant a licence, a fee of $1,145 per table will be payable to the Commissioner. (L.N. 164 of 1977; 75 of 1992 s. 41; L.N. 523 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997)
+- 4. If the public officer decides to grant a licence, a fee of $1,145 per table will be payable to the public officer. (L.N. 164 of 1977; 75 of 1992 s. 41; L.N. 523 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; 17 of 2011 s. 28)
 
 FORM 6 | [regulation 3(1)]
 
@@ -350,11 +332,9 @@ In support of Application No. .
 
 GAMBLING REGULATIONS
 
-To the Commissioner for Television and Entertainment Licensing - -
+To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
 
 BEFORE completing this form READ the Note below.
-
--
 
 - 1. Name of applicant .
 
@@ -384,7 +364,7 @@ BEFORE completing this form READ the Note below.
 
 - 12. Has the applicant ever been convicted of an offence? Yes/No If “Yes”, give details . . (court where convicted, date of conviction, offence and penalty) . I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. Complete this form only if you are not making application on behalf of a company or on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies.
 
-- 2. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41)
+- 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; 17 of 2011 s. 28)
 
 FORM 7 | [regulation 3(2)]
 
@@ -392,13 +372,9 @@ In support of Application No.
 
 GAMBLING REGULATIONS
 
-To the Commissioner for Television and Entertainment Licensing
-
-\- -
+To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
 
 BEFORE completing this form READ the Note below.
-
-\- -
 
 - 1. Full name of company . .
 
@@ -466,7 +442,7 @@ BEFORE completing this form READ the Note below.
 
 - - Note: 1. Complete this form only if you are making application on behalf of a company.
 
-- 2. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980)
+- 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980; 17 of 2011 s. 28)
 
 FORM 8 | [regulation 3(3)]
 
@@ -474,13 +450,9 @@ In support of Application No. .
 
 GAMBLING REGULATIONS
 
-To the Commissioner for Television and Entertainment Licensing
-
--
+To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
 
 BEFORE completing this form READ the Note below.
-
--
 
 - 1. Name of society or club . .
 
@@ -536,10 +508,8 @@ BEFORE completing this form READ the Note below.
 
 - .
 
-- . I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19. . (Signature) Position in club or society .
+- . I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) Position in club or society .
 
 - - Note: 1. Complete this form only if you are making application on behalf of a club or society.
 
-- 2. You are warned that any material falsification or omission of information may result in the Commissioner’s refusal to grant a licence.
-
-(L.N. 164 of 1977; L.N. 110 of 1980)
+- 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980; 17 of 2011 s. 28)

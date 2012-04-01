@@ -6,7 +6,7 @@ PERFORMANCE SPECIFICATIONS
 
 Merchant Shipping (Safety) (GMDSS Radio Installations) Regulation | Chapter IV (unless otherwise specified) of the International Convention for the Safety of Life at Sea, 1974 | Equipment Description | Performance Specifications
 
-Issued by the Telecom— munications Authority | Adopted by the International Maritime Organization (Documents/Resolutions)
+Issued by the Communi— cations Authority | Adopted by the International Maritime Organization (Documents/Resolutions)
 
 s. 7(3) | Reg. 7.3 | Radiotelephone equipment operating on the frequency 2182 kHz. | HKTA 1218 | Res. A.335
 
@@ -46,4 +46,4 @@ ss. 6 & 14 | Regs. 6 & 14 | Shipborne integrated radiocommunications system (IRC
 
 s. 18 | Reg. 6.2.1 of Chapter III | Survival craft 2-way VHF radiotelephone apparatus— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 | (a) Res. A. 809(19) (b) Res. A. 762(18)
 
-(L.N. 415 of 1997; L.N. 110 of 1998)
+(L.N. 415 of 1997; L.N. 110 of 1998; 17 of 2011 s. 28)

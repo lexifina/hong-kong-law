@@ -22,7 +22,7 @@ Item | Ordinance | Decision
 
 9. | Control of Chemicals Ordinance (Cap. 145) (Amended 23 of 2002 s. 14) | A decision of the Commissioner, as defined in section 2(1), under the Ordinance, relating to— (a) the issue of a licence or permit; (b) the refusal to issue a licence or permit; (c) the cancellation or suspension of a licence or permit; (d) the cancellation or variation of any condition or the specification of a new condition in a licence or permit.
 
-10. | Gambling Ordinance (Cap. 148) | The decision under section 22 of the Commissioner for Television and Entertainment Licensing as to the grant of a licence, the renewal of a licence, the imposition of conditions of a licence or the cancellation of a licence.
+10. | Gambling Ordinance (Cap. 148) | The decision under section 22 of the public officer appointed by the Secretary for Home Affairs as to the grant of a licence, the renewal of a licence, the imposition of conditions of a licence or the cancellation of a licence. (Amended 17 of 2011 s. 28)
 
 11. | Chinese Temples Ordinance (Cap. 153) | (a) The refusal by the Chinese Temples Committee under section 4 to grant an exemption from section 4(1). (b) The withdrawal by the Chinese Temples Committee under section 4 of an exemption granted under section 4(1).
 

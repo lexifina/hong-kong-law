@@ -6,9 +6,7 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
 - PART 1 GENERAL
 
-  - 1.
-
-  - Interpretation In this Schedule—
+  - 1. Interpretation In this Schedule—
 
     - “licence” (牌照) means a domestic free television programme service licence;
 
@@ -20,13 +18,13 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
   - 3. Television programmes supplied by Government
 
-    - (1) Where a requirement is made on a licensee pursuant to a condition to include in its service, without charge, a television programme supplied by the Government or the Broadcasting Authority—
+    - (1) Where a requirement is made on a licensee pursuant to a condition to include in its service, without charge, a television programme supplied by the Government or the Authority— (Amended 17 of 2011 s. 28)
 
-      - (a) the requirement may include the inclusion in its service, of television programmes supplied by the Government or the Broadcasting Authority, during the 3 hours commencing at 7 p.m., on any day from Monday to Friday inclusive;
+      - (a) the requirement may include the inclusion in its service, of television programmes supplied by the Government or the Authority, during the 3 hours commencing at 7 p.m., on any day from Monday to Friday inclusive;
 
-      - (b) unless the licensee consents otherwise, the number of such hours of television programmes supplied by the Government or the Broadcasting Authority for inclusion in its service during the hours mentioned in paragraph (a) shall not be required to exceed, in any one day, 30 minutes in duration, in aggregate or otherwise;
+      - (b) unless the licensee consents otherwise, the number of such hours of television programmes supplied by the Government or the Authority for inclusion in its service during the hours mentioned in paragraph (a) shall not be required to exceed, in any one day, 30 minutes in duration, in aggregate or otherwise;
 
-      - (c) without prejudice to the operation of paragraphs (a) and (b), if the licensee’s service is not provided on demand, the duration of the television programmes supplied by the Government or the Broadcasting Authority shall not be required to exceed, in aggregate or otherwise, any of the following—
+      - (c) without prejudice to the operation of paragraphs (a) and (b), if the licensee’s service is not provided on demand, the duration of the television programmes supplied by the Government or the Authority shall not be required to exceed, in aggregate or otherwise, any of the following— (Amended 17 of 2011 s. 28)
 
         - (i) 2 1/2 hours in any period of 24 hours commencing at 6 a.m.;
 
@@ -34,7 +32,7 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
         - (iii) in the case of a service in the Chinese language, 12 hours in any week; and
 
-        - (iv) in the case of a service in the English language, 6 hours in any week.
+        - (iv) in the case of a service in the English language, 6 hours in any week. (Amended 17 of 2011 s. 28)
 
     - (2) Nothing in subsection (1) shall be construed to prejudice the operation of section 19 of this Ordinance.
 
@@ -160,13 +158,17 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
     - (1) Subject to subsection (2), the aggregate advertising time of a television programme service shall not exceed 10 minutes per clock hour between the period from 5 p.m. to 11 p.m. each day and at other times the aggregate advertising time shall not exceed 18% of the total time the service is provided in that period.
 
-    - (2) Where the Broadcasting Authority is satisfied that compliance with subsection (1) would adversely affect, or would have adversely affected, the standards of presentation of a television programme, or of television programmes belonging to a class of television programmes, of a television programme service, it may, by notice in writing served on the licensee concerned, exempt that television programme, or those television programmes, as the case may be, from compliance with that subsection in the manner specified in the notice.
+    - (2) Where the Authority is satisfied that compliance with subsection (1) would adversely affect, or would have adversely affected, the standards of presentation of a television programme, or of television programmes belonging to a class of television programmes, of a television programme service, it may, by notice in writing served on the licensee concerned, exempt that television programme, or those television programmes, as the case may be, from compliance with that subsection in the manner specified in the notice. (Amended 17 of 2011 s. 28)
 
   - 12. Certain advertisements prohibited A licensee shall not include in its service any advertisement of a religious or political nature or concerned with any industrial dispute.
 
 - PART 4 FEES AND CHARGES
 
-  - 13. Annual payment of fees Subject to section 5 of Schedule 8 to this Ordinance, a licensee shall pay annually to the Director of Accounting Services a prescribed licence fee and such other fees as may be prescribed.
+  - 13. Annual payment of fees
+
+    - (1) Subject to section 5 of Schedule 8 to this Ordinance, a licensee shall pay annually to the Authority a prescribed licence fee and such other fees as may be prescribed. (Amended 17 of 2011 s. 28)
+
+    - (2) In a licence issued or renewed under this Ordinance before the commencement date of the Communications Authority Ordinance (Cap. 616), any condition providing for the payment of the licence fee to the Government is to be construed as a condition providing for the payment of the licence fee to the Authority. (Added 17 of 2011 s. 28)
 
   - 14.
 
@@ -174,8 +176,10 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
   - of licence fees, etc.
 
-    - (1) A licence fee or other fee or charge declared in writing by the Financial Secretary to be owing to the Government shall be recoverable as a civil debt.
+    - (1) A licence fee or other fee or charge certified in writing by the Authority to be owing to the Authority shall be recoverable as a civil debt.
 
-    - (2) A declaration in writing purporting to be made under subsection (1) shall be prima facie evidence of the debt specified in the declaration.
+    - (2) A certificate in writing purporting to be made under subsection (1) shall be prima facie evidence of the debt specified in the certificate.
 
-    - (3) A licence fee, and other fees and charges, owing by a licensee to the Government shall constitute a first charge on the property belonging to the licensee.
+    - (3) A licence fee, and other fees and charges, owing by a licensee to the Authority shall constitute a first charge on the property belonging to the licensee.
+
+  - (Amended 17 of 2011 s. 28)

@@ -4,8 +4,6 @@
 
 FORMS
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 FORM 1 | [section 3]
 
 AMUSEMENT GAME CENTRES ORDINANCE (Cap. 435) NOTICE OF APPEAL UNDER SECTION 11
@@ -24,13 +22,13 @@ To: Chairman of the Appeal Board
 
 - 4. Details of decision appealed against: (Attach copy of decision and indicate the particular aspect being the subject of the appeal) . . . . . Dated this . day of . 19 . . Appellant. Please note:
 
-- 1. This form is to be used by a person who is aggrieved by a decision of the Commissioner for Television and Entertainment Licensing (“the Commissioner”) under section 5, 6 or 9 of the Ordinance.
+- 1. This form is to be used by a person who is aggrieved by a decision of the public officer appointed by the Secretary for Home Affairs (“the public officer”) under section 5, 6 or 9 of the Ordinance.
 
-- 2. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board (“the Chairman”) at the office of the Registrar, High Court before the expiry of 28 days after the service upon you of notice from the Commissioner in respect of the decision you wish to appeal against.
+- 2. This form must be completed in accordance with the directions specified in the form and lodged with the Chairman of the Appeal Board (“the Chairman”) at the office of the Registrar, High Court before the expiry of 28 days after the service upon you of notice from the appointed public officer in respect of the decision you wish to appeal against.
 
-- 3. At the same time that this notice is lodged you are required to serve a copy of the notice on the Commissioner, personally, or by registered post addressed to the last known address of the Commissioner and to furnish to the Commissioner and the Chairman a statement specifying the particulars of the appeal which you seek to establish, including such particulars of evidence to be adduced, documents to be produced, names of witnesses to be called and other circumstances as may suffice to ensure that the Appeal Board and the Commissioner are fully and fairly informed of the grounds on which the appeal is based. You may also be required to furnish further particulars or produce documents for the inspection of the Commissioner.
+- 3. At the same time that this notice is lodged you are required to serve a copy of the notice on the appointed public officer, personally, or by registered post addressed to the last known address of the appointed public officer and to furnish to the appointed public officer and the Chairman a statement specifying the particulars of the appeal which you seek to establish, including such particulars of evidence to be adduced, documents to be produced, names of witnesses to be called and other circumstances as may suffice to ensure that the Appeal Board and the appointed public officer are fully and fairly informed of the grounds on which the appeal is based. You may also be required to furnish further particulars or produce documents for the inspection of the appointed public officer.
 
-- 4. You are advised to read the Amusement Game Centres Ordinance (Cap. 435) and the Amusement Game Centres (Appeal Board) Regulation (Cap. 435 sub. leg. A) before lodging this notice of appeal. (25 of 1998 s. 2)
+- 4. You are advised to read the Amusement Game Centres Ordinance (Cap. 435) and the Amusement Game Centres (Appeal Board) Regulation (Cap. 435 sub. leg. A) before lodging this notice of appeal. (25 of 1998 s. 2; 17 of 2011 s. 28)
 
 FORM 2 | [sections 7 & 12]
 
@@ -52,21 +50,39 @@ In the matter of the Appeal lodged by .
 
 .
 
-- To: . (Appellant) and to the Commissioner for Television and Entertainment Licensing: TAKE NOTICE that the above appeal will be heard at . . on the . day of . 19 . at . To the Appellant: TAKE NOTICE that if you do not attend at the place and time mentioned, either in person or by a barrister or solicitor duly authorized to appear on your behalf, the appeal may be postponed or adjourned for reasonable cause or be dismissed or be heard in your absence. Dated this . day of . 19 . . Chairman of the Appeal Board. This notice was served by me on . at . on the . day of . 19 .
+- To: . (Appellant) and to the public officer appointed by the Secretary for Home Affairs: TAKE NOTICE that the above appeal will be heard at . . on the . day of . 19 . at . To the Appellant: TAKE NOTICE that if you do not attend at the place and time mentioned, either in person or by a barrister or solicitor duly authorized to appear on your behalf, the appeal may be postponed or adjourned for reasonable cause or be dismissed or be heard in your absence. Dated this . day of . 19 . .
+
+- Chairman of the Appeal Board. This notice was served by me on . at . on the . day of . 19 .
 
 - . | .
 
 - Recipient of notice. | Process server.
 
-- FORM 3 | [section 8]
+- (17 of 2011 s. 28)
 
-- AMUSEMENT GAME CENTRES ORDINANCE (Cap. 435) APPLICATION FOR SUMMONS TO A WITNESS Appeal No.: . of 19 . To: Chairman of the Appeal Board Whereas . of . . is likely to give material evidence in respect of the above appeal, I . . hereby apply for a summons to be issued to the said . . requiring him to attend the hearing of the appeal for that purpose.*/and to bring with him and produce the several documents hereunder specified: Documents required to be produced .
+FORM 3 | [section 8]
 
-- . Dated this . day of . 19 . . *Appellant/ Commissioner for Television and Entertainment Licensing. * Delete as necessary.
+AMUSEMENT GAME CENTRES ORDINANCE (Cap. 435) APPLICATION FOR SUMMONS TO A WITNESS
 
-- Form 4 | [section 8]
+Appeal No.: . of 19 .
 
-- AMUSEMENT GAME CENTRES ORDINANCE (Cap. 435) SUMMONS TO A WITNESS Appeal No.: . of 19 . In the matter of the Appeal lodged by . . (Appellant) against . . . To: . YOU ARE HEREBY SUMMONED to attend at . . on the . day of . 19 . at . and so from day to day, until the proceedings are heard, to give evidence in the above appeal and also to bring with you and produce the several documents hereunder specified: Documents required to be produced . . This summons was issued on behalf of . . Dated this . day of . 19 . .
+To: Chairman of the Appeal Board
+
+- Whereas . of . . is likely to give material evidence in respect of the above appeal, I . . hereby apply for a summons to be issued to the said . . requiring him to attend the hearing of the appeal for that purpose.*/and to bring with him and produce the several documents hereunder specified: Documents required to be produced .
+
+- . Dated this . day of . 19 . . *Appellant/public officer appointed by the Secretary for Home Affairs * Delete as necessary. (17 of 2011 s. 28)
+
+Form 4 | [section 8]
+
+AMUSEMENT GAME CENTRES ORDINANCE (Cap. 435) SUMMONS TO A WITNESS
+
+Appeal No.: . of 19 .
+
+In the matter of the Appeal lodged by . . (Appellant) against . . .
+
+To: .
+
+- YOU ARE HEREBY SUMMONED to attend at . . on the . day of . 19 . at . and so from day to day, until the proceedings are heard, to give evidence in the above appeal and also to bring with you and produce the several documents hereunder specified: Documents required to be produced . . This summons was issued on behalf of . . Dated this . day of . 19 . .
 
 - Chairman of the Appeal Board. This notice was served by me on . at . on the . day of . 19 .
 

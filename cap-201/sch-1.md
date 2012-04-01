@@ -2,7 +2,7 @@
 
 [ss. 2(1) & 35] (Amended 20 of 1999 s. 6)
 
-Public bodies
+Public Bodies
 
 - 1. Hong Kong Telecom International Limited. (Replaced 20 of 1999 s. 6)
 
@@ -100,7 +100,7 @@ Public bodies
 
 - 48. The Hong Kong University of Science and Technology. (Added 47 of 1987 s. 25)
 
-- 49. Broadcasting Authority. (Added 49 of 1987 s. 17)
+- 49. Communications Authority (Added 49 of 1987 s17. Replaced 17 of 2011 s. 28)
 
 - 50. Hong Kong Council on Smoking and Health. (Added 56 of 1987 s. 21)
 

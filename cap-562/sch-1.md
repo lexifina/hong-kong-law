@@ -258,7 +258,11 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (ii) a person mentioned in paragraph (b).
 
-  - 6. Disqualification of advertising agencies The following are disqualified persons in relation to a licence—
+  - 6.
+
+  - Disqualification of advertising agencies
+
+  - The following are disqualified persons in relation to a licence—
 
     - (a) an advertising agency;
 
@@ -270,7 +274,11 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (ii) a person mentioned in paragraph (b).
 
-  - 7. Disqualification of local newspapers The following are disqualified persons in relation to a licence—
+  - 7.
+
+  - Disqualification of local newspapers
+
+  - The following are disqualified persons in relation to a licence—
 
     - (a) the proprietor of a newspaper printed or produced in Hong Kong;
 
@@ -288,7 +296,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - in association with voting controllers
 
-    - (1) Where a voting controller holds or acquires voting control of the voting shares of a licensee as an associate of a disqualified person and it appears to the Broadcasting Authority that a purpose of the holding or acquisition is to avoid a restriction imposed on a disqualified person under this Part, then the Broadcasting Authority may, by notice in writing served on any voting controller whom it believes to be a party to the holding or acquisition, give directions to the voting controller which appear to the Broadcasting Authority to be necessary to—
+    - (1) Where a voting controller holds or acquires voting control of the voting shares of a licensee as an associate of a disqualified person and it appears to the Authority that a purpose of the holding or acquisition is to avoid a restriction imposed on a disqualified person under this Part, then the Authority may, by notice in writing served on any voting controller whom it believes to be a party to the holding or acquisition, give directions to the voting controller which appear to the Authority to be necessary to— (Amended 17 of 2011 s. 28)
 
       - (a) effect a cesser of the holding or acquisition; and
 
@@ -338,7 +346,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (3) A notice under subsection (1) shall specify a period within which the requirements of the notice are to be complied with.
 
-    - (4) Where any particulars are given to a licensee under this section, it shall, not later than 15 days beginning on the date it receives the particulars, give the Broadcasting Authority notice in writing of the particulars.
+    - (4) Where any particulars are given to a licensee under this section, it shall, not later than 15 days beginning on the date it receives the particulars, give the Authority notice in writing of the particulars. (Amended 17 of 2011 s. 28)
 
     - (5)
 
@@ -346,15 +354,15 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - 10.
 
-  - Broadcasting Authority’s power to
+  - Authority’s power to obtain information
 
-  - obtain information as to
+  - as to disqualified persons
 
-  - disqualified persons
+  - (Amended 17 of 2011 s. 28)
 
-    - (1) If it appears to the Broadcasting Authority that there is reason to investigate the voting controllers of any voting shares of a licensee, it may require any person whom it has reasonable cause to believe to have, or to be able to provide or obtain, any information as to any present or past voting controllers and their names and addresses and of those persons who act or have acted on their behalf, to give that information to the Broadcasting Authority.
+    - (1) If it appears to the Authority that there is reason to investigate the voting controllers of any voting shares of a licensee, it may require any person whom it has reasonable cause to believe to have, or to be able to provide or obtain, any information as to any present or past voting controllers and their names and addresses and of those persons who act or have acted on their behalf, to give that information to the Authority. (Amended 17 of 2011 s. 28)
 
-    - (2) Without prejudice to the generality of subsection (1), where the Broadcasting Authority has reasonable cause to believe a person—
+    - (2) Without prejudice to the generality of subsection (1), where the Authority has reasonable cause to believe a person— (Amended 17 of 2011 s. 28)
 
       - (a) to be a voting controller of voting shares of the licensee;
 
@@ -380,13 +388,13 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (4) A notice under subsection (2) shall specify a period within which the requirements of the notice are to be complied with.
 
-    - (5) The Broadcasting Authority may, by notice in writing served on a licensee, direct the licensee to exercise its powers of investigation under section 9 in respect of a person named in the notice and, where the Broadcasting Authority gives such a direction—
+    - (5) The Authority may, by notice in writing served on a licensee, direct the licensee to exercise its powers of investigation under section 9 in respect of a person named in the notice and, where the Authority gives such a direction— (Amended 17 of 2011 s. 28)
 
       - (a) the licensee shall comply with it; and
 
       - (b) the following shall apply—
 
-        - (i) the licensee shall, not later than 15 days after the investigation is concluded, give in writing to the Broadcasting Authority any information and particulars received by the licensee as a result of the investigation;
+        - (i) the licensee shall, not later than 15 days after the investigation is concluded, give in writing to the Authority any information and particulars received by the licensee as a result of the investigation; (Amended 17 of 2011 s. 28)
 
         - (ii) without prejudice to subparagraph (i), where the investigation is not concluded within 3 months beginning on the date the relevant notice under this subsection was served on the licensee, the licensee shall, not later than 15 days beginning on—
 
@@ -394,13 +402,13 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
           - (B) the expiry of every successive period of 3 months before the conclusion of the investigation,
 
-    - give to the Broadcasting Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be;
+    - give to the Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be; (Amended 17 of 2011 s. 28)
 
       - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by it for a response has expired.
 
     - (6)
 
-      - In this section, “relevant period” (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the Broadcasting Authority serves the notice.
+      - In this section, “relevant period” (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the Authority serves the notice. (Amended 17 of 2011 s. 28)
 
   - 11.
 
@@ -416,13 +424,13 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (c) the particulars received by the licensee in response to the notice.
 
-    - (2) A licensee shall retain a record mentioned in subsection (1) in accordance with any direction in that behalf given by the Broadcasting Authority under section 16.
+    - (2) A licensee shall retain a record mentioned in subsection (1) in accordance with any direction in that behalf given by the Authority under section 16. (Amended 17 of 2011 s. 28)
 
   - 12.
 
-  - Power of Broadcasting Authority
+  - Power of Authority to impose restrictions
 
-  - to impose restrictions
+  - (Amended 17 of 2011 s. 28)
 
     - (1) If—
 
@@ -430,9 +438,9 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (b) a person is convicted of an offence under section 17(1), (4), (5) or (6),
 
-    - and it appears to the Broadcasting Authority that the offence was committed in relation to any voting share of a licensee, then the Broadcasting Authority may, by notice in writing, direct that the share, which shall be specified in the notice, shall be subject to such of the restrictions mentioned in subsection (3) as are specified in the notice until the Broadcasting Authority makes a further notice under this subsection in respect of the share.
+    - and it appears to the Authority that the offence was committed in relation to any voting share of a licensee, then the Authority may, by notice in writing, direct that the share, which shall be specified in the notice, shall be subject to such of the restrictions mentioned in subsection (3) as are specified in the notice until the Authority makes a further notice under this subsection in respect of the share. (Amended 17 of 2011 s. 28)
 
-    - (2) If, in connection with an investigation under section 9 or 10, it appears to the Broadcasting Authority that there is difficulty in ascertaining the relevant facts regarding a person who, in the opinion of the Broadcasting Authority, is or appears to be the voting controller of any voting share of a licensee, then the Broadcasting Authority may, by notice in writing, direct that the share, which shall be specified in the notice, shall be subject to such of the restrictions mentioned in subsection (3) as are specified in the notice until the Broadcasting Authority makes a further notice under this section in respect of the share.
+    - (2) If, in connection with an investigation under section 9 or 10, it appears to the Authority that there is difficulty in ascertaining the relevant facts regarding a person who, in the opinion of the Authority, is or appears to be the voting controller of any voting share of a licensee, then the Authority may, by notice in writing, direct that the share, which shall be specified in the notice, shall be subject to such of the restrictions mentioned in subsection (3) as are specified in the notice until the Authority makes a further notice under this section in respect of the share. (Amended 17 of 2011 s. 28)
 
     - (3) The restrictions for the purposes of subsections (1) and (2) are that—
 
@@ -496,7 +504,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (4) Subsection (3) shall not apply to the disclosure of the name and address of a voting controller by an authorized institution, or the nominee of such an institution, mentioned in that subsection.
 
-    - (5) Subject to subsection (6), any information designated as confidential which is received by a licensee or the Broadcasting Authority under this Part shall be treated as confidential.
+    - (5) Subject to subsection (6), any information designated as confidential which is received by a licensee or the Authority under this Part shall be treated as confidential. (Amended 17 of 2011 s. 28)
 
     - (6) Subsection (5) shall not be construed as prohibiting the disclosure of information—
 
@@ -504,25 +512,31 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (b) by the licensee—
 
-        - (i) to the Broadcasting Authority;
+        - (i) to the Authority; (Amended 17 of 2011 s. 28)
 
         - (ii) to the Secretary for Commerce and Economic Development; or (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
         - (iii) in connection with civil proceedings to which the licensee is a party.
 
-  - 16. Directions of Broadcasting Authority
+  - 16.
 
-    - (1) The Broadcasting Authority may issue directions for the purposes of this Part.
+  - Directions of Authority
 
-    - (2) Without prejudice to the generality of subsection (1), the Broadcasting Authority may under that subsection—
+  - (Amended 17 of 2011 s. 28)
 
-      - (a) specify the manner in which any document to be used for the purposes of this Part is to be distributed by a licensee, completed and executed by or on behalf of a person to whom the document is distributed and returned to the licensee, and assessed, processed, recorded or reported on by the licensee to the Broadcasting Authority;
+    - (1) The Authority may issue directions for the purposes of this Part.
+
+    - (2) Without prejudice to the generality of subsection (1), the Authority may under that subsection— (Amended 17 of 2011 s. 28)
+
+      - (a) specify the manner in which any document to be used for the purposes of this Part is to be distributed by a licensee, completed and executed by or on behalf of a person to whom the document is distributed and returned to the licensee, and assessed, processed, recorded or reported on by the licensee to the Authority;
 
       - (b) specify the manner in which any document to be used for the purposes of this Part is to be distributed by the licensee and returned to the licensee by or on behalf of a person to whom the document is distributed;
 
-      - (c) where a period is not specified for the doing of anything in respect of which the Broadcasting Authority may issue directions under this Part, specify a period; and
+      - (c) where a period is not specified for the doing of anything in respect of which the Authority may issue directions under this Part, specify a period; and
 
       - (d) impose any duty or obligation on the licensee for the purpose of securing, or assisting the securing of, compliance by the licensee with this Part.
+
+  - (Amended 17 of 2011 s. 28)
 
   - 17. Offences
 
@@ -546,7 +560,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - on institution of proceedings
 
-    - (1) Without affecting the powers of the Secretary for Justice in relation to the prosecution of criminal offences, prosecution for an offence under this Part may be instituted by the Broadcasting Authority.
+    - (1) Without affecting the powers of the Secretary for Justice in relation to the prosecution of criminal offences, prosecution for an offence under this Part may be instituted by the Authority. (Amended 17 of 2011 s. 28)
 
     - (2) Notwithstanding section 26 of the Magistrates Ordinance (Cap. 227), any information or complaint relating to an offence under this Part may be tried if it is laid or made, as the case may be, at any time within 3 years beginning on the date of the commission of the offence or within 12 months beginning on the first discovery of the offence by the prosecutor, whichever period expires first.
 
@@ -566,7 +580,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (1) Subject to subsection (2), notwithstanding anything contained in the memorandum or articles of association of a licensee or any provision of any law apart from this section, where any question or matter is to be determined by a poll at any general meeting of the licensee, the following shall apply—
 
-      - (a) no vote shall be cast on the poll, whether in person or by proxy, other than by or by proxy on behalf of any person who, at the time of the general meeting, is a registered shareholder of voting shares of the licensee in respect of which a document mentioned in section 22(1)(b) has, in accordance with any direction in that behalf issued by the Broadcasting Authority under section 30, been completed and returned to the licensee;
+      - (a) no vote shall be cast on the poll, whether in person or by proxy, other than by or by proxy on behalf of any person who, at the time of the general meeting, is a registered shareholder of voting shares of the licensee in respect of which a document mentioned in section 22(1)(b) has, in accordance with any direction in that behalf issued by the Authority under section 30, been completed and returned to the licensee; (Amended 17 of 2011 s. 28)
 
       - (b) where the total voting control exercised by unqualified voting controllers would otherwise exceed, in the aggregate, 49% of the total voting control exercised on the poll by both qualified and unqualified voting controllers, the votes cast on the poll by unqualified voting controllers shall, for the purpose of determining the question or matter, be reduced by multiplying those votes by the percentage determined by the formula specified in paragraph (c);
 
@@ -584,7 +598,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (b) where the share capital of the licensee is for the time being divided into different classes of shares, to the variation, including abrogation, of any special rights attaching to any such classes of shares.
 
-    - (3) The Broadcasting Authority may at any time before, at or during a general meeting of a licensee, direct the licensee orally or by notice in writing to conduct a poll upon any resolution and, where such a direction is given, the licensee shall comply with it.
+    - (3) The Authority may at any time before, at or during a general meeting of a licensee, direct the licensee orally or by notice in writing to conduct a poll upon any resolution and, where such a direction is given, the licensee shall comply with it. (Amended 17 of 2011 s. 28)
 
   - 20.
 
@@ -592,9 +606,11 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - voting controller subject to approval
 
-  - of Broadcasting Authority
+  - of Authority
 
-    - (1) An unqualified voting controller shall not, without the prior approval in writing of the Broadcasting Authority—
+  - (Amended 17 of 2011 s. 28)
+
+    - (1) An unqualified voting controller shall not, without the prior approval in writing of the Authority— (Amended 17 of 2011 s. 28)
 
       - (a) hold;
 
@@ -606,7 +622,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (2) If an unqualified voting controller holds more than 10%, in the aggregate, of the total voting control of a licensee in contravention of subsection (1)(a), notwithstanding anything contained in the memorandum or articles of association of the licensee or any provision of the laws of Hong Kong apart from this section, he shall not exercise or cause or permit to be exercised, in relation to any question or matter arising at a general meeting of the licensee, voting rights exceeding, in the aggregate, 10% of the total voting control of the licensee.
 
-    - (3) The Broadcasting Authority may, in respect of any unqualified voting controller who is in contravention of subsection (1), by notice in writing served on him, give such directions as appear to it to be required to effect a cesser of the contravention.
+    - (3) The Authority may, in respect of any unqualified voting controller who is in contravention of subsection (1), by notice in writing served on him, give such directions as appear to it to be required to effect a cesser of the contravention. (Amended 17 of 2011 s. 28)
 
     - (4) A notice under subsection (3) shall specify—
 
@@ -630,7 +646,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (b) an unqualified voting controller,
 
-    - holds or acquires voting control of the voting shares of a licensee as an associate of an unqualified voting controller and it appears to the Broadcasting Authority that a purpose of the holding or acquisition is to avoid a restriction imposed on an unqualified voting controller under this Part, then the Broadcasting Authority may, by notice in writing served on any voting controller whom it believes to be a party to the holding or acquisition, give directions to the voting controller which appear to the Broadcasting Authority to be necessary to—
+    - holds or acquires voting control of the voting shares of a licensee as an associate of an unqualified voting controller and it appears to the Authority that a purpose of the holding or acquisition is to avoid a restriction imposed on an unqualified voting controller under this Part, then the Authority may, by notice in writing served on any voting controller whom it believes to be a party to the holding or acquisition, give directions to the voting controller which appear to the Authority to be necessary to— (Amended 17 of 2011 s. 28)
 
       - (i) effect a cesser of the holding or acquisition; and
 
@@ -650,25 +666,27 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - 22.
 
-  - Duty of licensee to notify Broadcasting
+  - Duty of licensee to notify Authority
 
-  - Authority in relation to general
+  - in relation to general
 
   - meetings, etc.
 
-    - (1) For the purposes of this Part, a licensee shall, in relation to any general meeting and in accordance with any relevant directions given by the Broadcasting Authority under section 30—
+  - (Amended 17 of 2011 s. 28)
 
-      - (a) give the Broadcasting Authority notice in writing of any general meeting and a copy of all the documents relevant to the general meeting sent by it to its registered shareholders;
+    - (1) For the purposes of this Part, a licensee shall, in relation to any general meeting and in accordance with any relevant directions given by the Authority under section 30— (Amended 17 of 2011 s. 28)
+
+      - (a) give the Authority notice in writing of any general meeting and a copy of all the documents relevant to the general meeting sent by it to its registered shareholders;
 
       - (b) distribute to each person whose name appeared in the licensee’s register immediately before the distribution, a document relating to the voting control attaching to the voting shares registered in that person’s name, to be completed and returned to the licensee;
 
       - (c) on receiving a request in writing from a registered shareholder, in that behalf, by reference to the document mentioned in paragraph (b), notify in writing the registered shareholder of the number and identity of the voting shares of the licensee in respect of which that registered shareholder is a person described in section 19(1)(a);
 
-      - (d) by reference to the document mentioned in paragraph (b), notify in writing the Broadcasting Authority of the total number of voting shares held by any person mentioned in section 19(1)(a) and controlled by unqualified voting controllers and by qualified voting controllers and the proportion, expressed as a percentage, that the former bears to the whole;
+      - (d) by reference to the document mentioned in paragraph (b), notify in writing the Authority of the total number of voting shares held by any person mentioned in section 19(1)(a) and controlled by unqualified voting controllers and by qualified voting controllers and the proportion, expressed as a percentage, that the former bears to the whole;
 
-      - (e) notify in writing the Broadcasting Authority of the name, address, and such further particulars as the Broadcasting Authority may require of all unqualified voting controllers who, by reference to the document mentioned in paragraph (b), hold 2% or more of the total voting control of the licensee; and
+      - (e) notify in writing the Authority of the name, address, and such further particulars as the Authority may require of all unqualified voting controllers who, by reference to the document mentioned in paragraph (b), hold 2% or more of the total voting control of the licensee; and
 
-      - (f) notify in writing the Broadcasting Authority as to the details of the conduct of any poll held at the general meeting, including particulars of any calculation of voting control under section 19(1)(b), and such further particulars as the Broadcasting Authority may require.
+      - (f) notify in writing the Authority as to the details of the conduct of any poll held at the general meeting, including particulars of any calculation of voting control under section 19(1)(b), and such further particulars as the Authority may require. (Amended 17 of 2011 s. 28)
 
     - (2) Where a person to whom a document is distributed under subsection (1)(b) is unable, from his own knowledge or belief, to complete the document or has no authority to do so, he shall, where he knows the name and address of any other person whom he has reason to believe may be able to complete or to assist in the completion of the document or who has authority to do so, send the document to that person.
 
@@ -704,7 +722,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (3) A notice under subsection (1) shall specify a period within which the requirements of the notice are to be complied with.
 
-    - (4) Where any particulars are given to a licensee under this section, it shall, not later than 15 days beginning on the date it receives the particulars, give the Broadcasting Authority notice in writing of the particulars.
+    - (4) Where any particulars are given to a licensee under this section, it shall, not later than 15 days beginning on the date it receives the particulars, give the Authority notice in writing of the particulars. (Amended 17 of 2011 s. 28)
 
     - (5)
 
@@ -712,13 +730,15 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - 24.
 
-  - Broadcasting Authority’s power to obtain
+  - Authority’s power to obtain information
 
-  - information as to voting controllers
+  - as to voting controllers
 
-    - (1) If it appears to the Broadcasting Authority that there is reason to investigate the voting controllers of any voting shares of a licensee, it may require any person whom it has reasonable cause to believe to have, or to be able to provide or obtain, any information as to any present or past voting controllers and their names and addresses and of those persons who act or have acted on their behalf, to give that information to the Broadcasting Authority.
+  - (Amended 17 of 2011 s. 28)
 
-    - (2) Without prejudice to the generality of subsection (1), where the Broadcasting Authority has reasonable cause to believe a person—
+    - (1) If it appears to the Authority that there is reason to investigate the voting controllers of any voting shares of a licensee, it may require any person whom it has reasonable cause to believe to have, or to be able to provide or obtain, any information as to any present or past voting controllers and their names and addresses and of those persons who act or have acted on their behalf, to give that information to the Authority. (Amended 17 of 2011 s. 28)
+
+    - (2) Without prejudice to the generality of subsection (1), where the Authority has reasonable cause to believe a person— (Amended 17 of 2011 s. 28)
 
       - (a) to be a voting controller of voting shares of the licensee;
 
@@ -744,13 +764,13 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (4) A notice under subsection (2) shall specify a period within which the requirements of the notice are to be complied with.
 
-    - (5) The Broadcasting Authority may, by notice in writing served on a licensee, direct the licensee to exercise its powers of investigation under section 23 in respect of a person named in the notice and, where the Broadcasting Authority gives such a direction—
+    - (5) The Authority may, by notice in writing served on a licensee, direct the licensee to exercise its powers of investigation under section 23 in respect of a person named in the notice and, where the Authority gives such a direction— (Amended 17 of 2011 s. 28)
 
       - (a) the licensee shall comply with it; and
 
       - (b) the following shall apply—
 
-        - (i) the licensee shall, not later than 15 days after the investigation is concluded, give in writing to the Broadcasting Authority any information and particulars received by the licensee as a result of the investigation;
+        - (i) the licensee shall, not later than 15 days after the investigation is concluded, give in writing to the Authority any information and particulars received by the licensee as a result of the investigation;
 
         - (ii) without prejudice to subparagraph (i), where the investigation is not concluded within 3 months beginning on the date the relevant notice under this subsection was served on the licensee, the licensee shall, not later than 15 days beginning on—
 
@@ -758,13 +778,13 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
           - (B) the expiry of every successive period of 3 months before the conclusion of the investigation,
 
-    - give to the Broadcasting Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be;
+    - give to the Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be;
 
-      - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by the licensee for a response has expired.
+      - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by the licensee for a response has expired. (Amended 17 of 2011 s. 28)
 
     - (6)
 
-      - In this section, “relevant period” (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the Broadcasting Authority serves the notice.
+      - In this section, “relevant period” (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the Authority serves the notice. (Amended 17 of 2011 s. 28)
 
   - 25.
 
@@ -780,13 +800,13 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (c) the particulars received by the licensee in response to the notice.
 
-    - (2) A licensee shall retain a record mentioned in subsection (1) in accordance with any direction in that behalf given by the Broadcasting Authority under section 30.
+    - (2) A licensee shall retain a record mentioned in subsection (1) in accordance with any direction in that behalf given by the Authority under section 30.
 
   - 26.
 
-  - Power of Broadcasting Authority
+  - Power of Authority to impose restrictions
 
-  - to impose restrictions
+  - (Amended 17 of 2011 s. 28)
 
     - (1) If—
 
@@ -794,9 +814,9 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (b) a person is convicted of an offence under section 31(1), (5), (6), (7) or (8),
 
-    - and it appears to the Broadcasting Authority that the offence was committed in relation to any voting share of a licensee, then the Broadcasting Authority may, by notice in writing, direct that the share, which shall be specified in the notice, shall be subject to such of the restrictions mentioned in subsection (3) as are specified in the notice until the Broadcasting Authority makes a further notice under this subsection in respect of the share.
+    - and it appears to the Authority that the offence was committed in relation to any voting share of a licensee, then the Authority may, by notice in writing, direct that the share, which shall be specified in the notice, shall be subject to such of the restrictions mentioned in subsection (3) as are specified in the notice until the Authority makes a further notice under this subsection in respect of the share. (Amended 17 of 2011 s. 28)
 
-    - (2) If, in connection with an investigation under section 23 or 24, it appears to the Broadcasting Authority that there is difficulty in ascertaining the relevant facts regarding a person who, in the opinion of the Broadcasting Authority, is or appears to be the voting controller of any voting share of a licensee, then the Broadcasting Authority may by notice in writing direct that the share, which shall be specified in the notice, shall be subject to such of the restrictions mentioned in subsection (3), as are specified in the notice until the Broadcasting Authority makes a further notice under this subsection in respect of the share.
+    - (2) If, in connection with an investigation under section 23 or 24, it appears to the Authority that there is difficulty in ascertaining the relevant facts regarding a person who, in the opinion of the Authority, is or appears to be the voting controller of any voting share of a licensee, then the Authority may by notice in writing direct that the share, which shall be specified in the notice, shall be subject to such of the restrictions mentioned in subsection (3), as are specified in the notice until the Authority makes a further notice under this subsection in respect of the share. (Amended 17 of 2011 s. 28)
 
     - (3) The restrictions for the purposes of subsections (1) and (2) are that—
 
@@ -868,25 +888,31 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (b) by the licensee—
 
-        - (i) to the Broadcasting Authority;
+        - (i) to the Authority; (Amended 17 of 2011 s. 28)
 
         - (ii) to the Secretary for Commerce and Economic Development; or (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
         - (iii) in connection with civil proceedings to which the licensee is a party.
 
-  - 30. Directions of Broadcasting Authority
+  - 30.
 
-    - (1) The Broadcasting Authority may issue directions for the purposes of this Part.
+  - Directions of Authority
 
-    - (2) Without prejudice to the generality of subsection (1), the Broadcasting Authority may under that subsection—
+  - (Amended 17 of 2011 s. 28)
 
-      - (a) specify the manner in which any document to be used for the purposes of this Part is to be distributed by a licensee, completed and executed by or on behalf of a person to whom the document is distributed and returned to the licensee, and assessed, processed, recorded or reported on by the licensee to the Broadcasting Authority;
+    - (1) The Authority may issue directions for the purposes of this Part.
+
+    - (2) Without prejudice to the generality of subsection (1), the Authority may under that subsection— (Amended 17 of 2011 s. 28)
+
+      - (a) specify the manner in which any document to be used for the purposes of this Part is to be distributed by a licensee, completed and executed by or on behalf of a person to whom the document is distributed and returned to the licensee, and assessed, processed, recorded or reported on by the licensee to the Authority;
 
       - (b) specify the manner in which any document to be used for the purposes of this Part is to be distributed by the licensee and returned to the licensee by or on behalf of a person to whom the document is distributed;
 
-      - (c) where a period is not specified for the doing of anything in respect of which the Broadcasting Authority may issue directions under this Part, specify a period; and
+      - (c) where a period is not specified for the doing of anything in respect of which the Authority may issue directions under this Part, specify a period; and
 
       - (d) impose any duty or obligation on the licensee for the purpose of securing, or assisting the securing of, compliance by the licensee with this Part.
+
+  - (Amended 17 of 2011 s. 28)
 
   - 31. Offences
 
@@ -914,7 +940,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - on institution of proceedings
 
-    - (1) Without affecting the powers of the Secretary for Justice in relation to the prosecution of criminal offences, prosecution for an offence under this Part may be instituted by the Broadcasting Authority.
+    - (1) Without affecting the powers of the Secretary for Justice in relation to the prosecution of criminal offences, prosecution for an offence under this Part may be instituted by the Authority. (Amended 17 of 2011 s. 28)
 
     - (2) Notwithstanding section 26 of the Magistrates Ordinance (Cap. 227), any information or complaint relating to an offence under this Part may be tried if it is laid or made, as the case may be, at any time within 3 years beginning on the date of the commission of the offence or within 12 months beginning on the first discovery of the offence by the prosecutor, whichever period expires first.
 
