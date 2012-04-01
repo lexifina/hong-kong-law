@@ -26,6 +26,8 @@ Item | Place of refuge
 
 - 10. (Repealed L.N. 244 of 1999)
 
-- 11. Wing Lung Bank Golden Jubilee Sheltered Workshop and Hostel. (L.N. 94 of 2001)
+- 11. (Repealed L.N. 26 of 2012)
 
 - 12. Tuen Mun Children and Juvenile Home. (L.N. 237 of 2006)
+
+- 13. Po Leung Kuk Wing Lung Bank Golden Jubilee Sheltered Workshop and Hostel. (L.N. 26 of 2012)
