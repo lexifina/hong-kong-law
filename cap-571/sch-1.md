@@ -692,6 +692,8 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (c) Parts II and XII of the Companies Ordinance (Cap. 32), for the purposes only of section 213 of this Ordinance, and so far as those Parts relate, directly or indirectly, to an advertisement mentioned in section 38B(1) of that Ordinance; (Added 30 of 2004 s. 3)
 
+      - (d) Part 2 (except section 6) of the Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Ordinance (Cap. 615); (Added 15 of 2011 s. 91)
+
     - “relevant share capital” (有關股本) means the issued share capital of a corporation which is of a class carrying rights to vote in all circumstances at general meetings of the corporation;
 
     - “remuneration” (報酬) includes money, any consideration, financial accommodation or benefit, whether paid, provided or supplied directly or indirectly; “repealed Commodities Trading Ordinance” (已廢除的《商品交易條例》) means the Commodities Trading Ordinance (Cap. 250) repealed under section 406 of this Ordinance;
