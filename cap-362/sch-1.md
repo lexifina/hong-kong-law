@@ -1,25 +1,25 @@
-# SCHEDULE 1
+# Schedule 1
 
-[s. 3] (Amended 19 of 2008 s. 9)
+[s. 2A]
 
-TABLE
+Scheduled Trade Arrangements
 
-Number of carats | Indicates gold of fineness of
+Column 1 Item | Column 2 Trade arrangement | Column 3 Trading partner place | Column 4 Date of entry into force
 
-8 | . | 333 parts per thousand
+1. | Free Trade Agreement between the EFTA States and Hong Kong, China signed on 21 June 2011 | Iceland | A date in accordance with Article 11.8 of the Agreement
 
-9 | . | 375 parts per thousand
+Principality of Liechtenstein | A date in accordance with Article 11.8 of the Agreement
 
-12 | . | 500 parts per thousand
+Kingdom of Norway | A date in accordance with Article 11.8 of the Agreement
 
-14 | . | 585 parts per thousand
+Swiss Confederation | A date in accordance with Article 11.8 of the Agreement
 
-15 | . | 625 parts per thousand
+2. | Agreement on Agriculture between Hong Kong, China and Iceland signed on 21 June 2011 | Iceland | A date in accordance with Article 9 of the Agreement
 
-18 | . | 750 parts per thousand
+3. | Agreement on Agriculture between Hong Kong, China and the Kingdom of Norway signed on 21 June 2011 | Kingdom of Norway | A date in accordance with Article 9 of the Agreement
 
-22 | . | 916.6 parts per thousand
+4. | Agreement on Agriculture between Hong Kong, China and the Swiss Confederation signed on 21 June 2011 | Swiss Confederation | A date in accordance with Article 9 of the Agreement
 
-and so in proportion for any other number of carats.
+Principality of Liechtenstein | A date in accordance with Article 9 of the Agreement
 
-_
+(Schedule 1 added 5 of 2012 s. 8)
