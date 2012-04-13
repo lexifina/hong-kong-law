@@ -94,6 +94,7 @@ s-064.md
 s-065.md
 s-066.md
 s-067.md
+s-067A.md
 s-068.md
 s-069.md
 s-069A.md
@@ -164,6 +165,13 @@ s-102D.md
 s-102E.md
 s-102F.md
 s-102G.md
+s-102H.md
+s-102I.md
+s-102J.md
+s-102K.md
+s-102L.md
+s-102M.md
+s-102N.md
 s-103.md
 s-104.md
 s-105.md
@@ -210,3 +218,4 @@ sch-9.md
 sch-10.md
 sch-11.md
 sch-12.md
+sch-13.md

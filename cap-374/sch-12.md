@@ -10,7 +10,7 @@ REQUIREMENTS APPLICABLE TO DRIVING IMPROVEMENT SCHOOLS
 
   - (a) there is any change in the persons employed at the school who are authorized to sign attendance certificates or course certificates under section 102E of this Ordinance;
 
-  - (b) there is any change in the particulars of the proprietor of the school, or any other matter specified by the Commissioner by notice in writing to the proprietor which relates to the school; and
+  - (b) there is any change in the particulars of the proprietor of the school, or any other matter specified by the Commissioner by notice in writing to the proprietor which relates to the school; or (Amended 6 of 2012 s. 9)
 
   - (c) grounds exist for a creditor to present a bankruptcy petition against the proprietor or the proprietor has entered into liquidation or has entered into any composition with his creditors or has suffered any distress or execution to be levied upon his goods.
 
