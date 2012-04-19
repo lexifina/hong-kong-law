@@ -24,11 +24,31 @@ EMPLOYMENT OF TEACHERS
 
 - PART 2 CONDITIONS FOR EXEMPTION
 
-  - 1. A teacher who teaches in an exempted school shall possess the minimum qualifications for a permitted teacher, that is, one or two Hong Kong Certificates of Education Examination with an aggregate of 5 separate subjects at Grade E or a higher grade, including—
+  - 1. A teacher who teaches in an exempted school shall possess the minimum qualifications for a permitted teacher, that is— (L.N. 24 of 2012)
 
-    - (a) English Language (Syllabus B), or of a standard which in the opinion of the Permanent Secretary is equivalent to Grade E or a higher grade in that Certificate; or
+    - (a) one or two certificates of the Hong Kong Certificate of Education Examination with an aggregate of 5 separate subjects at Grade E or a higher grade, including— (L.N. 24 of 2012)
 
-    - (b) Chinese Language.
+      - (i) English Language (Syllabus B), or of a standard which in the opinion of the Permanent Secretary is equivalent to Grade E or a higher grade in that certificate; or
+
+      - (ii) Chinese Language; or (L.N. 24 of 2012)
+
+    - (b) one or two certificates of the Hong Kong Diploma of Secondary Education Examination with an aggregate of 5 separate subjects consisting of—
+
+      - (i) English Language or Chinese Language at Level 2 or a higher level;
+
+      - (ii) 2 subjects each of which is—
+
+        - (A) a subject from the New Senior Secondary subjects at Level 2 or a higher level;
+
+        - (B) a subject from the Applied Learning subjects with an “Attained” or “Attained with Distinction” result; or
+
+        - (C) a subject from the Other Language subjects at Grade E or a higher grade; and
+
+      - (iii) 2 subjects each of which is—
+
+        - (A) a subject from the New Senior Secondary subjects at Level 2 or a higher level; or
+
+        - (B) a subject from the Other Language subjects at Grade E or a higher grade. (L.N. 24 of 2012)
 
   - 2. A teacher who teaches secondary 4 or 5 level in an exempted school shall possess—
 
