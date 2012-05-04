@@ -4,7 +4,11 @@
 
 SECURITIES AND FUTURES COMMISSION
 
-- PART 1 CONSTITUTION AND PROCEEDINGS OF COMMISSION, ETC. Chairman, chief executive officer and other members of Commission (Amended 15 of 2006 s. 6)
+- PART 1 CONSTITUTION AND PROCEEDINGS OF COMMISSION, ETC.
+
+- Chairman, chief executive officer and other members of Commission
+
+- (Amended 15 of 2006 s. 6)
 
   - 1. The Commission shall consist of a chairman, a chief executive officer and such number of other executive directors and non-executive directors as is determined by the Chief Executive, all of whom shall be appointed by the Chief Executive as follows— (Amended 15 of 2006 s. 6)
 
@@ -14,9 +18,9 @@ SECURITIES AND FUTURES COMMISSION
 
   - 2. (Repealed 15 of 2006 s. 6)
 
-  - 3. When the membership of the Commission ceases to comply with the requirements of section 1, the Chief Executive shall as soon as reasonably practicable thereafter make the necessary appointment to ensure that the requirements are complied with.
+  - 3. When the membership of the Commission ceases to comply with the requirements of section 1, the Chief Executive shall as soon as reasonably practicable thereafter make the necessary appointment to ensure that the requirements are complied with. Deputy chairman and vacancies in office of
 
-- Deputy chairman and vacancies in office of chairman or deputy chairman
+  - chairman or deputy chairman
 
   - 4. The Chief Executive may appoint an executive director or non-executive director of the Commission to be the deputy chairman of the Commission. (Amended 15 of 2006 s. 6)
 
@@ -48,15 +52,13 @@ SECURITIES AND FUTURES COMMISSION
 
     - (a) an executive director of the Commission shall not cease to be regarded as such only because of his acting as chairman of the Commission; and
 
-    - (b) a non-executive director of the Commission shall not cease to be regarded as such only because of his acting as chairman of the Commission. (Added 15 of 2006 s. 6)
+    - (b) a non-executive director of the Commission shall not cease to be regarded as such only because of his acting as chairman of the Commission. (Added 15 of 2006 s. 6) Vacancy in office of chief executive officer
 
-  - Vacancy in office of chief executive officer (Added 15 of 2006 s. 6)
+  - (Added 15 of 2006 s. 6)
 
   - 9B. The Chief Executive may designate an executive director of the Commission to act as chief executive officer of the Commission for any period during which the chief executive officer of the Commission is unable to act as chief executive officer due to illness, absence from Hong Kong or any other cause, and may at any time revoke any such designation. (Added 15 of 2006 s. 6)
 
-  - 9C. An executive director of the Commission who acts as chief executive officer of the Commission shall be deemed for all purposes to be the chief executive officer of the Commission. (Added 15 of 2006 s. 6)
-
-- Functions and office of members, etc. (Amended 15 of 2006 s. 6)
+  - 9C. An executive director of the Commission who acts as chief executive officer of the Commission shall be deemed for all purposes to be the chief executive officer of the Commission. (Added 15 of 2006 s. 6) Functions and office of members, etc. (Amended 15 of 2006 s. 6)
 
   - 9D. Subject to the other provisions of this Ordinance, the chairman, deputy chairman and chief executive officer of the Commission shall have such functions as are assigned to them by the Commission. (Added 15 of 2006 s. 6)
 
@@ -66,9 +68,7 @@ SECURITIES AND FUTURES COMMISSION
 
   - 12. A member of the Commission (whether as the chairman, deputy chairman, chief executive officer or otherwise) shall be paid by the Commission such remuneration, allowances or expenses as the Chief Executive may determine. (Amended 15 of 2006 s. 6)
 
-  - 13. The Chief Executive may by notice in writing remove from office any member of the Commission (whether as the chairman, deputy chairman, chief executive officer or otherwise) whose removal appears to him to be desirable for the effective performance by the Commission of its functions. (Amended 15 of 2006 s. 6)
-
-- Meetings
+  - 13. The Chief Executive may by notice in writing remove from office any member of the Commission (whether as the chairman, deputy chairman, chief executive officer or otherwise) whose removal appears to him to be desirable for the effective performance by the Commission of its functions. (Amended 15 of 2006 s. 6) Meetings
 
   - 14. Meetings of the Commission shall be held as often as may be necessary for the performance of its functions, and may be convened by the chairman, deputy chairman, chief executive officer, or any 2 other members, of the Commission. (Amended 15 of 2006 s. 6)
 
@@ -98,9 +98,7 @@ SECURITIES AND FUTURES COMMISSION
 
   - 19. Every question for decision at a meeting of the Commission shall be determined by a majority of votes of its members present and, in the event that voting is equally divided, the chairman of the meeting shall, subject to section 20, have a casting vote.
 
-  - 20. The chairman of a meeting of the Commission shall not exercise a casting vote in respect of any question for decision at the meeting until after he has consulted the Financial Secretary on the question.
-
-- Written resolution
+  - 20. The chairman of a meeting of the Commission shall not exercise a casting vote in respect of any question for decision at the meeting until after he has consulted the Financial Secretary on the question. Written resolution
 
   - 21. Where a resolution—
 
@@ -126,15 +124,11 @@ SECURITIES AND FUTURES COMMISSION
 
     - (a) a document shall be regarded as having been signed by a member of the Commission if a telex, cable, facsimile or electronic transmission of a document bears the signature of the member; and
 
-    - (b) a resolution to which section 21 applies shall be regarded as made on the date on which the resolution is signed by the last person signing as a member of the Commission for the purposes of that section.
-
-- Seal, and regulation of administration, etc.
+    - (b) a resolution to which section 21 applies shall be regarded as made on the date on which the resolution is signed by the last person signing as a member of the Commission for the purposes of that section. Seal, and regulation of administration, etc.
 
   - 25. The Commission shall have a seal, the affixing of which shall be authenticated by the signature of the chairman or the deputy chairman of the Commission, or by the signature of such other member of the Commission as is authorized by it to act in that behalf.
 
-  - 26. The Commission shall organize and regulate its administration, procedure and business in such manner as it considers will, subject to the requirements of this Ordinance, best ensure the performance of its functions.
-
-- Advisory Committee
+  - 26. The Commission shall organize and regulate its administration, procedure and business in such manner as it considers will, subject to the requirements of this Ordinance, best ensure the performance of its functions. Advisory Committee
 
   - 27. The Advisory Committee shall consist of—
 
@@ -178,6 +172,8 @@ SECURITIES AND FUTURES COMMISSION
 
     - (1) to borrow money, under section 5(4)(d) of this Ordinance;
 
+    - (1A) to establish a wholly owned subsidiary, under section 5(4)(da) of this Ordinance; (Added 9 of 2012 s. 33)
+
     - (2) to publish or otherwise make available materials, under section 5(4)(e) of this Ordinance;
 
     - (3) to establish any committee, under section 8(1) of this Ordinance;
@@ -196,7 +192,7 @@ SECURITIES AND FUTURES COMMISSION
 
     - (10) to appoint auditors, under section 16(1) of this Ordinance;
 
-    - (11) to invest funds, under section 17 of this Ordinance;
+    - (11) (Repealed 9 of 2012 s. 47)
 
     - (12) to recognize a company as an exchange company under, or to impose conditions pursuant to, section 19(2) of this Ordinance;
 
@@ -334,9 +330,9 @@ SECURITIES AND FUTURES COMMISSION
 
     - (79) to appoint an auditor, under section 240(5) of this Ordinance;
 
-    - (80) to invest money, under section 241(1) of this Ordinance;
+    - (80) (Repealed 9 of 2012 s. 47)
 
-    - (81) to make report to the Financial Secretary, under section 252(8) of this Ordinance;
+    - (81) to institute proceedings in the Market Misconduct Tribunal under section 252(1) of this Ordinance (Replaced 9 of 2012 s. 27)
 
     - (82) to publish guidelines, under section 309(1) of this Ordinance;
 

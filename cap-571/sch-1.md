@@ -102,7 +102,9 @@ INTERPRETATION AND GENERAL PROVISIONS
 
     - “business day” (營業日) means a day other than—
 
-      - (a) a public holiday; and
+      - (a) a public holiday; (Amended 9 of 2012 s. 53)
+
+      - (ab) a Saturday; and (Added 9 of 2012 s. 53)
 
       - (b) a gale warning day or a black rainstorm warning day as defined in section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1);
 
@@ -438,7 +440,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
         - (iii) regardless of whether it would be lawful or unlawful for the person to transfer the property to himself or otherwise receive the benefit of the property,
 
-    - but does not include, in the case of a cheque or other order made payable to any person, the possession of the cheque or other order during the course of dispatching or delivering it to that person or any other person on behalf of that person;
+      - but does not include, in the case of a cheque or other order made payable to any person, the possession of the cheque or other order during the course of dispatching or delivering it to that person or any other person on behalf of that person;
 
     - “holding company” (控股公司), in relation to a corporation, means any other corporation of which it is a subsidiary;
 
@@ -788,7 +790,9 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (f) interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as being regarded as securities in accordance with the terms of the notice; (Amended 8 of 2011 s. 14)
 
-      - (g) a structured product that does not come within any of paragraphs (a) to (f) but in respect of which the issue of any advertisement, invitation or document that is or contains an invitation to the public to do any act referred to in section 103(1)(a) of this Ordinance is authorized, or required to be authorized, under section 105(1) of this Ordinance, (Added 8 of 2011 s. 14) but does not include—
+      - (g) a structured product that does not come within any of paragraphs (a) to (f) but in respect of which the issue of any advertisement, invitation or document that is or contains an invitation to the public to do any act referred to in section 103(1)(a) of this Ordinance is authorized, or required to be authorized, under section 105(1) of this Ordinance, (Added 8 of 2011 s. 14)
+
+      - but does not include—
 
       - (i) shares or debentures of a company that is a private company within the meaning of section 29 of the Companies Ordinance (Cap. 32);
 
@@ -1004,7 +1008,7 @@ INTERPRETATION AND GENERAL PROVISIONS
 
       - (iii) holds more than half of the issued share capital (which issued share capital, for the purposes of this subparagraph, excludes any part thereof which carries no right to participate beyond a specified amount on a distribution of either profits or capital) of one or more corporations,
 
-    - each of the corporations referred to in subparagraph (i), (ii) or (iii), and each of their subsidiaries, shall be regarded as related corporations of each other.
+  - each of the corporations referred to in subparagraph (i), (ii) or (iii), and each of their subsidiaries, shall be regarded as related corporations of each other.
 
   - 4. References to controlling the composition
 

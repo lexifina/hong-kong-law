@@ -234,7 +234,9 @@ Public Bodies
 
 - 114. Inspectors’ Registration Committee. (Added 16 of 2011 s. 46)
 
-- 115. Phoenix U Radio Limited. (Added L.N. 50 of 2011) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
+- 115. Phoenix U Radio Limited. (Added L.N. 50 of 2011)
+
+- 122. The wholly owned subsidiary of the Securities and Futures Commission that is established under section 5(4)(da) of the Securities and Futures Ordinance (Cap. 571). (Added 9 of 2012 s. 35) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 
