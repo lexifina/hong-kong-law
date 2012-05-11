@@ -226,7 +226,7 @@ Public Bodies
 
 - 110. West Kowloon Cultural District Authority (including any committees established under the West Kowloon Cultural District Authority Ordinance (Cap. 601)). (Added 27 of 2008 s. 42)
 
-- 111. Any entity established under section 5(2)(h) of the West Kolwoon Cultural District Authority Ordinance (Cap. 601). (Added 27 of 2008 s. 42)
+- 111. Any entity established under section 5(2)(h) of the West Kowloon Cultural District Authority Ordinance (Cap. 601). (Added 27 of 2008 s. 42. Amended L.N. 38 of 2012)
 
 - 112. Digital Broadcasting Corporation Hong Kong Limited. (Added L.N. 245 of 2008. Amended L.N. 50 of 2011)
 
@@ -235,6 +235,14 @@ Public Bodies
 - 114. Inspectors’ Registration Committee. (Added 16 of 2011 s. 46)
 
 - 115. Phoenix U Radio Limited. (Added L.N. 50 of 2011)
+
+- 118. Hong Kong Internet Registration Corporation Limited. (Added L.N. 38 of 2012)
+
+- 119. Hong Kong Domain Name Registration Company Limited. (Added L.N. 38 of 2012)
+
+- 120. Hong Kong Applied Science and Technology Research Institute Company Limited. (Added L.N. 38 of 2012)
+
+- 121. Hong Kong Cyberport Management Company Limited. (Added L.N. 38 of 2012)
 
 - 122. The wholly owned subsidiary of the Securities and Futures Commission that is established under section 5(4)(da) of the Securities and Futures Ordinance (Cap. 571). (Added 9 of 2012 s. 35) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
