@@ -6,7 +6,7 @@ SPECIFIED SCHOOLS
 
 School Name | School Address
 
-Confucius Hall Middle School | 77 Caroline Hill Road, Hong Kong
+Diocesan Girls’ Junior School | 1 Jordan Road, Kowloon (Added L.N. 41 of 2012)
 
 Discovery College | 38 Siena Avenue, Discovery Bay, Lantau Island, New Territories (Added L.N. 57 of 2009)
 
@@ -30,4 +30,4 @@ Victoria Shanghai Academy | 19 Shum Wan Road, Aberdeen, Hong Kong (Added L.N. 27
 
 Yew Chung International School—Secondary | 3 To Fuk Road, Kowloon Tong, Kowloon (Added L.N. 146 of 2008)
 
-(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009)
+(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009; L.N. 41 of 2012)
