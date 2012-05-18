@@ -368,7 +368,7 @@ Election Committee
 
   - (l) the Board of Governors of the Hong Kong Shue Yan University; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
 
-  - (m) the Board of Governors of the Caritas Francis Hsu College. (Added 25 of 2003 s. 56)
+  - (m) the Board of Governors of the Caritas Institute of Higher Education. (Added 25 of 2003 s. 56. Amended 11 of 2012 s. 39)
 
   - 6. | Education | (1) Registered teachers registered under the Education Ordinance (Cap. 279).
 

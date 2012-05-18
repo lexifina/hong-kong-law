@@ -80,9 +80,9 @@ Item Body
 
 - 34. Hong Kong & Kowloon Ferry Ltd.
 
-- 35. Hong Kong & Kowloon Goods Vehicle Omnibuses and Minibuses Instructors’ Association Ltd.
+- 35. Hong Kong Kowloon Goods Vehicles, Omnibuses and Minibuses Instructors Association Limited. (Replaced 11 of 2012 s. 36)
 
-- 36. Hong Kong & Kowloon Motor Boats and Tug Boats Association Ltd.
+- 36. Hong Kong & Kowloon Motor Boats & Tug Boats Association Limited. (Replaced 11 of 2012 s. 36)
 
 - 37. Hong Kong & Kowloon Radio Car Owners Association Ltd.
 
@@ -102,7 +102,7 @@ Item Body
 
 - 45. Hong Kong Container Tractor Owner Association Ltd.
 
-- 46. Hong Kong Driving Instruction Club Ltd.
+- 46. Hong Kong Driving Instructors’ Association. (Replaced 11 of 2012 s. 36)
 
 - 47. Hong Kong Guangdong Transportation Association Ltd.
 
@@ -160,7 +160,7 @@ Item Body
 
 - 74. The Institute of Seatransport.
 
-- 75. Institute of Transport Administration (China-Hong Kong Centre).
+- 75. Institute of Transport Administration (Hong Kong, China). (Amended 11 of 2012 s. 36)
 
 - 76. Kowloon Fung Wong Public Light Bus Merchants & Workers’ Association Ltd.
 
@@ -404,7 +404,7 @@ Item Body
 
 - 196. The Nautical Institute-Hong Kong Branch. (Added 25 of 2003 s. 44)
 
-- 197. The Hong Kong Union of Light Van Employees. (Added 25 of 2003 s. 44)
+- 197. (Repealed 11 of 2012 s. 36)
 
 - 198. Worldwide Flight Services, Inc. (Added 25 of 2003 s. 44)
 

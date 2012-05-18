@@ -182,7 +182,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 49. (Repealed 25 of 2003 s. 45)
 
-  - 50. New Territories Regional Sports Association.
+  - 50. The New Territories Regional Sports Association. (Replaced 11 of 2012 s. 37)
 
   - 51. The Newspaper Society of Hong Kong.
 

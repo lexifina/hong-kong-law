@@ -66,7 +66,7 @@ Item Body
 
 - 27. Hong Kong Off-shore Fishermen’s Association.
 
-- 28. Hong Kong Pigfarm Association Limited.
+- 28. (Repealed 11 of 2012 s. 35)
 
 - 29. The Lam Ti Agricultural Credit Co-operative Society, Limited.
 
