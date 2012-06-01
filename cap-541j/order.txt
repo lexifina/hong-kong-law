@@ -87,4 +87,9 @@ s-082.md
 s-083.md
 s-084.md
 s-085.md
+s-086.md
+s-087.md
+s-088.md
+s-089.md
+s-090.md
 sch.md

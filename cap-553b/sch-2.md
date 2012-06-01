@@ -36,17 +36,17 @@ Item | Enactment | Provision
 
 15. | Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg. C) | Section 5(4)
 
-16. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg. D) | Sections 10(7) and (8), 11(7) and (8), 20(2), 23(9) and (12), 25(8) and (15), 42(11) and (13), 66(7) and (10) and 102(4) (L.N. 268 of 2001; 25 of 2003 s. 50)
+16. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg. D) | Sections 10(7) and (8), 11(7) and (8), 20(2), 23(9) and (12), 25(8) and (15), 42(11) and (13) and 66(7) and (10) (L.N. 268 of 2001; 25 of 2003 s. 50; 11 of 2012 s. 24)
 
 17. | Electoral Affairs Commission (Nominations Advisory Committees (District Councils)) Regulation (Cap. 541 sub. leg. E) | Section 5(2)
 
-18. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg. F) | Sections 12(7) and (8), 20(2), 26(6) and (9), 28(5) and (12), 45(8), 66(6) and (9), 102(4) and 103(4)
+18. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg. F) | Sections 12(7) and (8), 20(2), 26(6) and (9), 28(5) and (12), 45(8), 66(6) and (9) and 102(4) (11 of 2012 s. 24)
 
 18A. | Electoral Affairs Commission (Nominations Advisory Committees (Election Committee)) Regulation (Cap. 541 sub. leg. H) | Section 6(4) (L.N. 268 of 2001)
 
-18B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg. I) | Sections 7(4), 8(6) and (7), 17(2), 23(6) and (9), 25(4) and (9), 42(8) and (10), 64(8) and (10), 99(2)(b) and 100(4) (L.N. 268 of 2001)
+18B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg. I) | Sections 7(4), 8(6) and (7), 17(2), 23(6) and (9), 25(4) and (9), 42(8) and (10), 64(8) and (10) and 99(2)(b) (L.N. 268 of 2001; 11 of 2012 s. 24)
 
-18C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg. J) | Sections 4(1), 9(2), 14(3) and (5), 25(5) and (7), 44(4) and (6), 80(2) and 81(1)(b) (L.N. 282 of 2001)
+18C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg. J) | Sections 4(1), 9(2), 14(3) and (5), 25(5) and (7), 44(4) and (6) and 80(2) (L.N. 282 of 2001; 11 of 2012 s. 24)
 
 19. | Legislative Council Ordinance (Cap. 542) | Sections 13(2), 14(2), 40(2) and 42(2) (21 of 2001 s. 76)
 
