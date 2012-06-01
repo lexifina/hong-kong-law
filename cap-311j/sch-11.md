@@ -1,8 +1,8 @@
-# SCHEDULE 11
+# Schedule 11
 
 [reg. 14]
 
-MOTOR VEHICLES WITH POSITIVE-IGNITION ENGINES NOT REQUIRING INSTALLATION OF ON-BOARD DIAGNOSTIC SYSTEM
+Motor Vehicles Registered between 1 January 2001 and 31 May 2012 (Both Dates Inclusive) with Positive-ignition Engines not Requiring Installation of On-board Diagnostic System*
 
 Every—
 
@@ -27,3 +27,7 @@ Every—
 - (h) special purpose vehicle.
 
 (Schedule 11 added L.N. 157 of 2000)
+
+Editorial Note:
+
+* (Amended L.N. 46 of 2012)
