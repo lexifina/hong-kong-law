@@ -8,11 +8,11 @@ I.-BY A COMPANY HAVING A SHARE CAPITAL
 
 (a) | for registration of company (Amended 28 of 1990 s. 2) . | $1,425
 
-And, in addition, for every $1,000 or part of $1,000 of the nominal share capital (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $ 1
+And, in addition, for every $1,000 or part of $1,000 of the nominal share capital (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $ 0
 
 (aa) | lodgment fee to be paid on delivery of the incorporation form under section 15 (Added L.N. 11 of 1996. Amended 30 of 2004 s. 2) . | $ 295
 
-(b) | for registration of every increase in nominal share capital made after the first registration of any company, for every $1,000 or part of $1,000 of such increase (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $ 1
+(b) | for registration of every increase in nominal share capital made after the first registration of any company, for every $1,000 or part of $1,000 of such increase (subject to the amount of the fee so calculated not exceeding $30,000) (Amended 20 of 1983 s. 2; L.N. 135 of 1996) . | $ 0
 
 Provided that where a company has paid an additional fee under paragraph (c)(ii) in respect of shares allotted at a premium, no fee shall be payable under this paragraph in respect of any increase in the nominal share capital of that company where such increase is made for the purpose of capitalizing the whole or any part of that premium and is applied to that purpose. And, in addition, in the case of a company having on the 1 June 1955 a nominal share capital in excess of $3,000,000, on the first such increase after the said date, for every $1,000 or part of $1,000 of such excess nominal share capital as remains unissued immediately before such increase . | $ 4
 
@@ -30,7 +30,7 @@ Provided that no fee shall be payable under this paragraph by a company which ha
 
 Provided that no additional fee shall be payable under this subparagraph by a company which has paid the additional fee under paragraph (b) or (ba);
 
-(ii) in the case of company which allots shares at a premium, whether for cash or otherwise, for every $1,000 or part of $1,000 of the aggregate amount or value of the premiums paid or payable on such shares (subject to the amount of the fee so calculated not exceeding $30,000) (Replaced L.N. 11 of 1996. Amended L.N. 135 of 1996) . | $ 1
+(ii) in the case of company which allots shares at a premium, whether for cash or otherwise, for every $1,000 or part of $1,000 of the aggregate amount or value of the premiums paid or payable on such shares (subject to the amount of the fee so calculated not exceeding $30,000) (Replaced L.N. 11 of 1996. Amended L.N. 135 of 1996) . | $ 0
 
 (ca) | for registration of a prospectus under section 38D or 342C (Replaced 86 of 1992 s. 19) . | $1,415
 
@@ -64,23 +64,31 @@ for any other company—
 
 (f) (Repealed L.N. 11 of 1996)
 
-II.-BY A COMPANY NOT HAVING A SHARE CAPITAL
+Application—
 
-For registration of a company whose number of members as stated in the articles does not exceed 25 . | $ 170
+Paragraphs (a), (b) and (c)(ii), as amended by the Companies Ordinance (Amendment of Eighth Schedule) Order 2012, apply to the registration of a company, the registration of an increase in nominal share capital or the registration of a return of allotments if—
 
-For registration of a company whose number of members as stated in the articles exceeds 25, but does not exceed 100 . | $ 340
+- (a) in the case of paragraph (a), the relevant incorporation form is delivered, or the relevant application for registration is made, to the Registrar on or after 1 June 2012;
 
-For registration of a company whose number of members as stated in the articles exceeds 100 but is not stated to be unlimited, a fee of $340 with an additional $20 for every additional 50 members or less after the first 100.
+- (b) in the case of paragraph (b), the relevant notice of increase in nominal share capital is given to the Registrar on or after 1 June 2012; or
 
-For registration of a company in which the number of members is stated in the articles to be unlimited . | $1,025
+- (c) in the case of paragraph (c)(ii), the relevant return of allotments is delivered to the Registrar on or after 1 June 2012. (Added L.N. 39 of 2012) II.-BY A COMPANY NOT HAVING A SHARE CAPITAL
 
-For registration of any increase on the number of members made after the registration of the company in respect of every 50 members, or less than 50 members, of that increase . | $ 20
+- For registration of a company whose number of members as stated in the articles does not exceed 25 . | $ 170
 
-Provided that no company shall be liable to pay on the whole a greater fee than $1,025 in respect of its number of members, taking into account the fee paid on the first registration of the company.
+- For registration of a company whose number of members as stated in the articles exceeds 25, but does not exceed 100 . | $ 340
 
-For registration of any existing company, except such companies as are by this Ordinance exempted from payment of fees in respect of registration under this Ordinance, the same fee as is charged for registering a new company.
+- For registration of a company whose number of members as stated in the articles exceeds 100 but is not stated to be unlimited, a fee of $340 with an additional $20 for every additional 50 members or less after the first 100.
 
-Annual registration fee (to be paid on delivery of annual return under section 107) (Replaced 6 of 1984 s. 256. Amended 80 of 1997 s. 102) . | $ 105
+- For registration of a company in which the number of members is stated in the articles to be unlimited . | $1,025
+
+- For registration of any increase on the number of members made after the registration of the company in respect of every 50 members, or less than 50 members, of that increase . | $ 20
+
+- Provided that no company shall be liable to pay on the whole a greater fee than $1,025 in respect of its number of members, taking into account the fee paid on the first registration of the company.
+
+- For registration of any existing company, except such companies as are by this Ordinance exempted from payment of fees in respect of registration under this Ordinance, the same fee as is charged for registering a new company.
+
+- Annual registration fee (to be paid on delivery of annual return under section 107) (Replaced 6 of 1984 s. 256. Amended 80 of 1997 s. 102) . | $ 105
 
 (Amended L.N. 11 of 1996)
 
@@ -316,4 +324,4 @@ VI.-MISCELLANEOUS FEES
 
 (j) | for certifying under section 305(3A) a copy of or an extract from a document, or a copy of information contained in a record, per copy or extract (as the case may be) . | $ 130
 
-(Added L.N. 78 of 2004)(Eighth Schedule amended L.N. 231 of 1993; L.N. 371 of 1994; L.N. 11 of 1996; L.N. 457 of 1997; L.N. 149 of 1998)
+(Added L.N. 78 of 2004) (Eighth Schedule amended L.N. 231 of 1993; L.N. 371 of 1994; L.N. 11 of 1996; L.N. 457 of 1997; L.N. 149 of 1998; L.N. 39 of 2012)
