@@ -22,7 +22,9 @@ $390.00 or more but less than $520.00 | $22.5 | $22.5
 
 $520.00 or more but not more than $650.00 | $30.00 | $30.00
 
-More than $650.00 | $30.00 | $30.00
+More than $650.00 but not more than $830.00 | $37.5 | $37.5
+
+More than $830.00 | $41.5 | $41.5
 
 - Part 2 Scale of amounts of contributions to be made in the case of a
 
@@ -42,7 +44,9 @@ $390.00 or more but less than $520.00 | $22.5 | $22.5
 
 $520.00 or more but not more than $650.00 | $30.00 | $30.00
 
-More than $650.00 | $30.00 | $30.00
+More than $650.00 but not more than $830.00 | $37.5 | $37.5
+
+More than $830.00 | $41.5 | $41.5
 
 - Part 3 Scale of amounts of contributions to be made in the case of a
 
@@ -54,14 +58,14 @@ Average amount of relevant income paid by an employer to a casual employee per d
 
 Less than $250.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | Nil
 
-$250.00 or more but not more than $650.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | 5% of the relevant income paid by the employer to the employee for that contribution period
+$250.00 or more but not more than $830.00 | 5% of the relevant income paid by the employer to the employee for that contribution period | 5% of the relevant income paid by the employer to the employee for that contribution period
 
-More than $650.00 | $32.5 per day in that contribution period | $32.5 per day in that contribution period
+More than $830.00 | $41.5 per day in that contribution period | $41.5 per day in that contribution period
 
-(29 of 2002 s. 14; L.N. 118 of 2011) (Format changes—E.R. 1 of 2012)
+(29 of 2002 s. 14; L.N. 118 of 2011; L.N. 171 of 2011) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 
-* This Schedule was amended by the Mandatory Provident Fund Schemes (Contributions for Casual Employees) (Amendment) Order 2011 (L.N. 118 of 2011) . The application provision contained in section 4 of that Amendment Order reads as follows —
+- * 1. This Schedule was amended by the Mandatory Provident Fund Schemes (Contributions for Casual Employees) (Amendment) Order 2011 (L.N. 118 of 2011) . The application provision contained in section 4 of that Amendment Order reads as follows — “4. Application of Schedule as amended The Schedule to the Mandatory Provident Fund Schemes (Contributions for Casual Employees) Order (Cap. 485 sub. leg. E) as amended by section 3 applies in relation to a contribution period that begins on or after the commencement date# of that section.”. # Commencement date: 1 November 2011.
 
-“4. Application of Schedule as amended The Schedule to the Mandatory Provident Fund Schemes (Contributions for Casual Employees) Order (Cap. 485 sub. leg. E) as amended by section 3 applies in relation to a contribution period that begins on or after the commencement date# of that section.”. # Commencement date: 1 November 2011.
+- 2. This Schedule was amended by the Mandatory Provident Fund Schemes (Contributions for Casual Employees) (Amendment) (No. 2) Order 2011 (L.N. 171 of 2011) . The application provision contained in section 4 of that Amendment Order reads as follows — “4. Application of Schedule as amended The Schedule to the Mandatory Provident Fund Schemes (Contributions for Casual Employees) Order (Cap. 485 sub. leg. E) as amended by section 3 applies in relation to a contribution period that begins on or after the commencement date+ of that section.”. + Commencement date: 1 June 2012.
