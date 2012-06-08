@@ -14,7 +14,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
   - “Dean” (院長) means the Dean of a Faculty or of the Graduate School, as the case may be; (L.N. 101 of 1995)
 
-  - “Department” (學系) means a Department of a Faculty established by the Council on the recommendation of the Senate and “Departments” (各學系) shall be construed accordingly; (L.N. 452 of 1994)
+  - “Department” (學系) means a Department of a Faculty established by the Council on the recommendation of the Senate and “Departments” (各學系) shall be construed accordingly and, where the context permits, a Department also refers to a School of Studies and Chairman in relation to a Department also refers to Director of a School; (L.N. 452 of 1994; L.N. 53 of 2012)
 
   - Director of a School (專業學院院長) means the Director of a School of Studies; (L.N. 174 of 2010)
 
@@ -23,6 +23,8 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
   - “Ordinance” (條例) means The Chinese University of Hong Kong Ordinance (Cap. 1109); (L.N. 38 of 2007)
 
   - Professor (教授) means Professors carrying the Chinese title of “教授” and those appointed before 1 January 2010 carrying the Chinese title of “講座教授”; (L.N. 174 of 2010)
+
+  - Provost (常務副校長) means the Provost of the University appointed by the Council; (L.N. 53 of 2012)
 
   - “unit” (單位) means an institution established or formed by the Council under section 12 of the Ordinance. (L.N. 25 of 2002)
 
@@ -110,7 +112,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (e) have power in case of emergency to appoint external examiners.
 
-- STATUTE 7 THE PRO-VICE-CHANCELLORS A Pro-Vice-Chancellor shall hold office for 2 years and may be re-appointed for further periods not exceeding 2 years.
+- STATUTE 7 THE PROVOST AND THE PRO-VICE-CHANCELLORS The Provost and the Pro-Vice-Chancellors shall be appointed by the Council for such period and on such terms as may be determined by the Council. (L.N. 53 of 2012)
 
 - STATUTE 8 THE TREASURER The Treasurer shall be appointed by the Council and shall hold office for 3 years, and may be re-appointed and when he is re-appointed he shall hold office for a further period or periods of 3 years.
 
@@ -414,7 +416,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (d) the Dean of each Faculty and of the Graduate School;
 
-    - (e) the Professors who carry the Chinese title of “講座教授”, or the Readers and any other professors who are determined by the Council to be of a grade equivalent to or higher than Readers in each Department in which there is no professor who carries the Chinese title of “講座教授”; (L.N. 174 of 2010)
+    - (e) the Professors who carry the Chinese title of “講座教授”, or the Readers and any other professors who are determined by the Council to be of a grade equivalent to or higher than Readers in each Department and each School of Studies in which there is no professor who carries the Chinese title of “講座教授”; (L.N. 174 of 2010; L.N. 53 of 2012)
 
     - (f) the Chairman of each Department and the Directors of Studies if not a member under subparagraph (e); (L.N. 452 of 1994)
 
@@ -466,7 +468,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (i) to fix, subject to any conditions made by the donors and accepted by the Council, the times, the mode and the conditions of competition for University scholarships, bursaries and prizes, and to award the same;
 
-    - (j) to recommend to the Council the institution, abolition or holding in abeyance of all teaching posts and the assignment of teachers to a College after consultation with the Assembly of Fellows (where one has been established) of the College concerned; (L.N. 25 of 1987)
+    - (j) (Repealed L.N. 53 of 2012)
 
     - (ja) to assign teachers—
 
@@ -566,7 +568,7 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
     - (e) the Chairman of each Department, the Director of each School and the Directors of Studies within the Faculty; (L.N. 452 of 1994; L.N. 174 of 2010)
 
-    - (ea) such number of teachers representing varying teacher grades within the Faculty nominated in accordance with regulations approved by the Senate from time to time; (L.N. 174 of 2010)
+    - (ea) such number of teachers as determined by the Senate, representing varying teacher grades within the Faculty nominated in accordance with regulations approved by the Senate from time to time; (L.N. 174 of 2010; L.N. 53 of 2012)
 
     - (f) (Repealed L.N. 174 of 2010)
 
@@ -686,9 +688,11 @@ STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
 
       - (aa) the Dean of any Faculty to which the Department is affiliated; (L.N. 101 of 1995)
 
-      - (b) the Chairman of the Department, who shall be Chairman of the Board; and
+      - (b) the Chairman of the Department, who shall be Chairman of the Board; (L.N. 53 of 2012)
 
-      - (c) all of the teachers assigned to the Department.
+      - (c) all Professors, Associate Professors and Assistant Professors, and such other teachers who are determined by the Council to be of or equivalent to these grades who are assigned to the Department or School of Studies; and (L.N. 53 of 2012)
+
+      - (d) such number of teachers as determined by the Senate, representing such teacher grades other than those specified in sub-subparagraph (c) who are assigned to the Department or School of Studies nominated in accordance with regulations approved by the Senate from time to time. (L.N. 53 of 2012)
 
     - (2) A teacher, who contributes substantially to the teaching of students pursuing courses of study within the purview of a Department but who is not assigned to that Department, becomes a member of the Board of that Department on being nominated by that Board and approved by the Senate. (L.N. 25 of 2002)
 
