@@ -144,11 +144,13 @@ Item | Ordinance | Decision
 
 70. | Residential Care Homes (Persons with Disabilities) Ordinance (Cap. 613) | A decision of the Director of Social Welfare under section 7, 8, 9(1), 11 or 12. (Added 12 of 2011 s. 31)
 
+72. | Fisheries Protection Ordinance (Cap. 171) | A decision of the Director of Agriculture, Fisheries and Conservation— (a) to refuse to register a vessel on application made under section 14, 19 or 21; (b) to impose conditions under section 16; (c) to add, remove or amend any conditions or refuse to do so under section 17; (d) to cancel a registration under section 24; (e) to refuse to issue or renew a research fishing permit under section 25; (f) to impose conditions in respect of a research fishing permit under section 25(3); and (g) to cancel a research fishing permit under section 29. (Added 13 of 2012 s. 20)
+
 (Amended E.R. 1 of 2012)
 
 Editorial Note:
 
-The following enactments also give a right of appeal to the Administrative Appeals Board —
+The following enactments also give a right of appeal to the Administrative Appeals Board—
 
 s. 19 of the Merchant Shipping (Local Vessels)(Dwelling Vessels) Regulation (Cap. 548 sub. leg. A).
 

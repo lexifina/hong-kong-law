@@ -1,6 +1,6 @@
-# SCHEDULE
+# SCHEDULE 1
 
-[ss. 2 & 10]
+[ss. 2 & 44] (Amended 13 of 2012 s. 16)
 
 TOXIC SUBSTANCE
 
