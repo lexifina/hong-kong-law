@@ -38,7 +38,7 @@ Item | Licence or permit | Fee $
 
 5. | (Repealed L.N. 452 of 1996)
 
-6. | Temporary liquor licence (L.N. 226 of 1994; L.N. 145 of 1995; L.N. 35 of 2006; L.N. 127 of 2008) . | 385 per diem
+6. | Temporary liquor licence (L.N. 226 of 1994; L.N. 145 of 1995; L.N. 35 of 2006; L.N. 127 of 2008; L.N. 64 of 2012) . | 445 per diem
 
 (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 330 of 2000; L.N. 2 of 2006)
 
