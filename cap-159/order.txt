@@ -67,6 +67,17 @@ s-039D.md
 s-039E.md
 s-039F.md
 s-039G.md
+s-039H.md
+s-039I.md
+s-039J.md
+s-039K.md
+s-039L.md
+s-039M.md
+s-039N.md
+s-039O.md
+s-039P.md
+s-039Q.md
+s-039R.md
 s-040A.md
 s-040B.md
 s-040C.md
