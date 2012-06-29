@@ -40,6 +40,8 @@ Kwun Tong Swimming Pool
 
 Lai Chi Kok Park Swimming Pool
 
+Lam Tin Swimming Pool
+
 Lei Cheng Uk Swimming Pool
 
 Morse Park Swimming Pool
@@ -94,4 +96,4 @@ Tung Chung Swimming Pool
 
 Yuen Long Swimming Pool
 
-(Added 21 of 1973 s. 19; L.N. 199 of 1975. Amended L.N. 199 of 1975; L.N. 129 of 1977; L.N. 248 of 1977; L.N. 25 of 1978; L.N. 285 of 1978; L.N. 255 of 1980; L.N. 179 of 1981; L.N. 40 of 1983; L.N. 208 of 1984; L.N. 239 of 1984; L.N. 360 of 1984; L.N. 277 of 1985; L.N. 328 of 1985; 10 of 1986 s. 31; L.N. 322 of 1986; L.N. 360 of 1988; L.N. 53 of 1989; L.N. 115 of 1990; L.N. 147 of 1991; L.N. 262 of 1991; L.N. 373 of 1991; L.N. 396 of 1993; L.N. 536 of 1995; L.N. 335 of 1996; L.N. 425 of 1996; L.N. 461 of 1997; L.N. 10 of 1999; L.N. 261 of 1999; 78 of 1999 s. 7; L.N. 361 of 2000; L.N. 32 of 2002; L.N. 78 of 2005; L.N. 79 of 2005; L.N. 163 of 2010; L.N. 91 of 2011; L.N. 11 of 2012) (Format changes—E.R. 1 of 2012)
+(Added 21 of 1973 s. 19; L.N. 199 of 1975. Amended L.N. 199 of 1975; L.N. 129 of 1977; L.N. 248 of 1977; L.N. 25 of 1978; L.N. 285 of 1978; L.N. 255 of 1980; L.N. 179 of 1981; L.N. 40 of 1983; L.N. 208 of 1984; L.N. 239 of 1984; L.N. 360 of 1984; L.N. 277 of 1985; L.N. 328 of 1985; 10 of 1986 s. 31; L.N. 322 of 1986; L.N. 360 of 1988; L.N. 53 of 1989; L.N. 115 of 1990; L.N. 147 of 1991; L.N. 262 of 1991; L.N. 373 of 1991; L.N. 396 of 1993; L.N. 536 of 1995; L.N. 335 of 1996; L.N. 425 of 1996; L.N. 461 of 1997; L.N. 10 of 1999; L.N. 261 of 1999; 78 of 1999 s. 7; L.N. 361 of 2000; L.N. 32 of 2002; L.N. 78 of 2005; L.N. 79 of 2005; L.N. 163 of 2010; L.N. 91 of 2011; L.N. 11 of 2012; L.N. 107 of 2012) (Format changes—E.R. 1 of 2012)
