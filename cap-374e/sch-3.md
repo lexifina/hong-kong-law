@@ -26,7 +26,7 @@ PARTICULARS TO BE ENTERED IN A REGISTRATION DOCUMENT
 
   - (vii) Chassis number.
 
-  - (viii) Cylinder capacity.
+  - (viii) Cylinder capacity or rated power. (L.N. 77 of 2012)
 
   - (ix) Permitted gross vehicle weight (goods vehicles and special purpose vehicles only)
 

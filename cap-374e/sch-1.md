@@ -24,7 +24,7 @@ Particulars to be entered in the register—
 
   - (x) Chassis number.
 
-  - (xi) Cylinder capacity.
+  - (xi) Cylinder capacity or rated power. (L.N. 77 of 2012)
 
   - (xii) Permitted gross vehicle weight (goods vehicles and special purpose vehicles only).
 
