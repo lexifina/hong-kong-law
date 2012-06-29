@@ -102,11 +102,11 @@ FORM 2 | [rule 4(2)]
 
 ORDER TO MAINTENANCE PAYER TO FURNISH
 
-STATEMENT OF MEANS (Heading as in Form 1) (BEFORE HIS HONOUR JUDGE .,
+STATEMENT OF MEANS (Heading as in Form 1) (BEFORE HIS/HER HONOUR JUDGE .,
 
 JUDGE OF DISTRICT COURT IN CHAMBERS/BEFORE
 
-THE HONOURABLE MR. JUSTICE/MASTER . IN CHAMBERS)
+THE HONOURABLE MR./MADAM JUSTICE/MASTER . IN CHAMBERS)
 
 To the above-named Maintenance Payer
 
@@ -120,17 +120,17 @@ Dated this . day of .
 
 Registrar
 
-(L.N. 260 of 2001)
+(L.N. 260 of 2001; L.N. 80 of 2012)
 
 FORM 2A | [rule 3C]
 
 ORDER TO MAINTENANCE PAYER TO FURNISH
 
-STATEMENT OF MEANS (Heading as in Form 1) (BEFORE HIS HONOUR JUDGE .,
+STATEMENT OF MEANS (Heading as in Form 1) (BEFORE HIS/HER HONOUR JUDGE .,
 
 JUDGE OF DISTRICT COURT IN CHAMBERS/BEFORE
 
-THE HONOURABLE MR. JUSTICE/MASTER . IN CHAMBERS)
+THE HONOURABLE MR./MADAM JUSTICE/MASTER . IN CHAMBERS)
 
 To the above-named Maintenance Payer
 
@@ -142,17 +142,17 @@ Dated this . day of .
 
 Registrar
 
-(L.N. 260 of 2001)
+(L.N. 260 of 2001; L.N. 80 of 2012)
 
 FORM 3 | [rules 3A, 3B & 5(1)]
 
 ORDER TO INCOME SOURCE TO VERIFY STATEMENT
 
-OF MEANS OF THE MAINTENANCE PAYER (Heading as in Form 1) (BEFORE HIS HONOUR JUDGE .,
+OF MEANS OF THE MAINTENANCE PAYER (Heading as in Form 1) (BEFORE HIS/HER HONOUR JUDGE .,
 
 JUDGE OF DISTRICT COURT IN CHAMBERS/BEFORE
 
-THE HONOURABLE MR. JUSTICE/MASTER . IN CHAMBERS)
+THE HONOURABLE MR./MADAM JUSTICE/MASTER . IN CHAMBERS)
 
 To XYZ (Income Source)
 
@@ -184,7 +184,7 @@ Date .
 
 * Delete where inapplicable.
 
-(L.N. 260 of 2001; 20 of 2007 s. 10)
+(L.N. 260 of 2001; 20 of 2007 s. 10; L.N. 80 of 2012)
 
 FORM 3A | [rules 5A]
 
@@ -248,11 +248,11 @@ ATTACHMENT OF INCOME ORDER/VARIATION OF ATTACHMENT OF
 
 INCOME ORDER TO SECURE PAYMENTS
 
-UNDER A MAINTENANCE ORDER (Heading as in Form 1) (BEFORE HIS HONOUR JUDGE .,
+UNDER A MAINTENANCE ORDER (Heading as in Form 1) (BEFORE HIS/HER HONOUR JUDGE .,
 
 JUDGE OF DISTRICT COURT/BEFORE
 
-THE HONOURABLE MR. JUSTICE .)
+THE HONOURABLE MR./MADAM JUSTICE .)
 
 To XYZ (Income Source)
 
@@ -264,7 +264,7 @@ WHEREAS by maintenance order dated . day of . , made at the sitting of the . Cou
 
 - .,
 
-- is required to make payments. An application has been made for an Attachment of Income Order/Variation of an Attachment of Income Order* to secure the payments and it appears that income is payable by you to him. (See Note 1)
+- is required to make payments. An application has been made for an Attachment of Income Order/Variation of an Attachment of Income Order* to secure the payments and it appears that income is payable by you to the Maintenance Payer. (See Note 1)
 
 - THE COURT HEREBY ORDERS you to whom this Order is addressed, on the expiration of 14 days from the date of service of this Order upon you, to make out of the income, namely . (nature of income), periodical deductions as set out below and transmit the said sums to . (Specified Payee) of .
 
@@ -286,7 +286,7 @@ WHEREAS by maintenance order dated . day of . , made at the sitting of the . Cou
 
 - * Delete where inapplicable.
 
-- (L.N. 260 of 2001; 18 of 2003 s. 18)
+- (L.N. 260 of 2001; 18 of 2003 s. 18; L.N. 80 of 2012)
 
 FORM 5 | [rules 5(2) & 7(4)]
 
@@ -312,9 +312,9 @@ Name in Block Letters .
 
 FORM 6 | [rule 10(4)]
 
-ORDER DISCHARGING ATTACHMENT OF INCOME ORDER (Heading as in Form 1) (BEFORE HIS HONOUR JUDGE ., JUDGE OF DISTRICT
+ORDER DISCHARGING ATTACHMENT OF INCOME ORDER (Heading as in Form 1) (BEFORE HIS/HER HONOUR JUDGE ., JUDGE OF DISTRICT
 
-COURT/BEFORE THE HONOURABLE MR. JUSTICE . )
+COURT/BEFORE THE HONOURABLE MR./MADAM JUSTICE . )
 
 To the above-named Maintenance Payer
 
@@ -334,7 +334,7 @@ WHEREAS by the Attachment of Income Order dated . day of ., made at the sitting 
 
 AND UPON READING the affidavit of . filed herein the . day of .
 
-*AND WHEREAS the Income Source notified the Court that he had ceased to be an income source of the Maintenance Payer.
+*AND WHEREAS the Income Source notified the Court that the Income Source had ceased to be an income source of the Maintenance Payer.
 
 *AND WHEREAS the maintenance order which the said Attachment of Income Order sought to secure payment has lapsed/has been discharged.
 
@@ -346,4 +346,4 @@ Registrar
 
 *Delete where inapplicable.
 
-(L.N. 260 of 2001)
+(L.N. 260 of 2001; L.N. 80 of 2012)
