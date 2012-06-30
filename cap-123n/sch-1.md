@@ -36,6 +36,10 @@ MINOR WORKS
 
   - 2. A description of any item of minor works specified in Part 3 of this Schedule must be read as including any make-good works that are reasonably required for the purpose of carrying out the minor works.
 
+  - 3. A description of an item of minor works specified in Part 3 of this Schedule that involves any alteration works must be read as including any strengthening works for that item. (L.N. 148 of 2011)
+
+  - 4. A description of an item of minor works specified in Part 3 of this Schedule that involves any erection works must be read as including any replacement of that item. (L.N. 148 of 2011)
+
 - PART 2 TYPES OF MINOR WORKS
 
   - Division 1—Type A (Alteration and Addition Works)
@@ -132,7 +136,7 @@ Item | Description of building works
 
 1.16. | Erection, alteration or repair of any metal gate at a fence wall or at an entrance to a building, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve the alteration of any other structural elements; (c) the weight of at least one leaf of the gate is more than 300 kg; and (d) the height of the gate is not more than 3.2 m.
 
-1.17. | Repair of any structural elements (including any column, shear wall, flat slab, cantilevered slab, ribbed slab, waffle slab, pre-stressed beam, post-tensioned beam, cantilevered beam, transfer plate, transfer beam or earth retaining structure) in accordance with the original design, provided that the works do not result in any additional load to any cantilevered slab.
+1.17. | Repair of any structural elements (including any flat slab, cantilevered slab, ribbed slab, waffle slab, pre-stressed beam, post-tensioned beam, cantilevered beam, transfer plate, transfer beam or earth retaining structure) in accordance with the original design, provided that the works do not result in any additional load to any cantilevered slab. (L.N. 148 of 2011)
 
 1.18. | Erection or alteration of any supporting structure for a solar water heating system on-grade or on a slab (other than a cantilevered slab), provided that— (a) the height of the structure is not more than 1.5 m; (b) the structure is designed for a solar water heating system at least one thermal collector of which is more than 200 kg in weight; and (c) if the thermal collector and the water tank of the system are integrated, the structure is designed for a system the gross weight (when the water tank is in full capacity) of which is more than 100 kg per m2 of the ground or slab area.
 
@@ -186,7 +190,7 @@ Item | Description of building works
 
 2.1. | Formation of any opening in a slab, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve the alteration of any other structural elements, except a simply supported beam that— (i) is not of pre-stressed construction; and (ii) is not used to support any column, flat slab or ribbed beam; (c) the area of the opening is not more than 1 m2; and (d) the works do not fall within the description of item 1 of Part 2 of Schedule 2.
 
-2.2. | Removal of any supporting structure for an air-conditioning unit, water cooling tower, solar water heating system or photovoltaic system, provided that— (a) the structure is located on-grade or on a slab; (b) if the slab mentioned in paragraph (a) is a cantilevered slab, the span of the slab is not more than 1 m; and (c) the works do not fall within the description of item 3.2.
+2.2. | Removal of any supporting structure for an air-conditioning unit, water cooling tower, solar water heating system or photovoltaic system, provided that— (a) the structure is located on-grade or on a slab; (b) if the slab mentioned in paragraph (a) is a cantilevered slab, the span of the slab is not more than 1 m; and (c) the works do not fall within the description of item 12 of Part 2 of Schedule 2 or item 3.2. (L.N. 148 of 2011)
 
 2.3. | Replacement of any glass reinforced polyester water tank located on the roof of a building in accordance with the original design, provided that— (a) the capacity of the tank is not more than 9 m3 and the water head of the tank is not more than 2 m; and (b) the distance between the tank and the edge of the roof is not more than 1.5 m.
 
@@ -216,7 +220,7 @@ Item | Description of building works
 
 2.16. | Erection, alteration or repair of any metal gate at a fence wall or at an entrance to a building, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve the alteration of any other structural elements; (c) the weight of each leaf of the gate is not more than 300 kg; (d) the weight of at least one leaf of the gate is more than 200 kg; and (e) the height of the gate is not more than 3.2 m.
 
-2.17. | Repair of any slab or beam (other than a flat slab, cantilevered slab, ribbed slab, waffle slab, pre-stressed beam, post-tensioned beam, cantilevered beam, transfer plate or transfer beam) in accordance with the original design, provided that the works do not result in any additional load to any cantilevered slab.
+2.17. | Repair of any column, shear wall, slab or beam (other than a flat slab, cantilevered slab, ribbed slab, waffle slab, pre-stressed beam, post-tensioned beam, cantilevered beam, transfer plate or transfer beam) in accordance with the original design, provided that the works do not result in any additional load to any cantilevered slab. (L.N. 148 of 2011)
 
 2.18. | Erection or alteration of any projecting signboard, provided that— (a) the signboard does not consist of stone; (b) the works do not result in any additional load to any cantilevered slab; (c) the works do not involve the alteration of any other structural elements; (d) the display area of the signboard is not more than 10 m2; (e) no part of the signboard projects more than 4.2 m from the external wall to which it is fixed; (f) the thickness of the signboard is not more than 600 mm; and (g) the works do not fall within the description of item 3.16.
 
@@ -242,7 +246,7 @@ Item | Description of building works
 
 2.29. | Addition or alteration of any underground drain, provided that— (a) the works involve an excavation of a depth of not more than 1.5 m; (b) the distance between any point of the excavation and any structure or building is at least equal to the depth of the excavation; (c) the works do not involve any excavation within area number 1 or 3 of the scheduled areas; (d) the works do not involve the last manhole; and (e) if the works are carried out beside the crest of a slope— (i) the gradient of the slope is not more than 15 degrees; (ii) the height of the slope is not more than 3 m; and (iii) the distance between any point of the excavation and the outer edge of the crest is at least equal to the height of the slope.
 
-2.30. | Erection, alteration or removal of any aboveground drain, provided that— (a) the works do not result in any additional load to any cantilevered slab; and (b) the works do not fall within the description of item 3.23.
+2.30. | Erection, repair, alteration or removal of any aboveground drain, provided that— (L.N. 148 of 2011) (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not fall within the description of item 3.23; and (c) the works do not involve any repair or replacement of an internal branch pipe or sanitary fitment. (L.N. 148 of 2011) (L.N. 148 of 2011)
 
 2.31. | Removal of any architectural projection, canopy, supporting frame for an air-conditioning unit or any associated air ducts, or rack (other than a drying rack), projecting from the external wall of a building, provided that— (a) the projection, canopy, frame or rack projects more than 750 mm from the wall; (b) the projection, canopy, frame or rack is not constructed of concrete; and (c) the works do not fall within the description of item 13 or 14 of Part 2 of Schedule 2.
 
@@ -312,7 +316,7 @@ Item | Description of building works
 
 3.22. | Removal of any outdoor signboard fixed on-grade (other than the removal of the spread footing of any outdoor signboard), provided that— (a) the display area of the signboard is not more than 1 m2; and (b) the distance between any part of the signboard and the ground is not more than 3 m.
 
-3.23. | Erection, alteration or removal of any aboveground drain, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve any main pipe, other than the replacement of components at existing junctions; and (c) the works do not involve any embedded pipe, other than a pipe that passes through a wall or slab.
+3.23. | Erection, repair, alteration or removal of any aboveground drain, provided that— (L.N. 148 of 2011) (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve any main pipe, other than the replacement of components at existing junctions; (c) the works do not involve any embedded pipe, other than a pipe that passes through a wall or slab; and (d) the works do not involve any repair or replacement of an internal branch pipe or sanitary fitment. (L.N. 148 of 2011) (L.N. 148 of 2011)
 
 3.24. | Removal of any aboveground drain the erection of which was unauthorized.
 
