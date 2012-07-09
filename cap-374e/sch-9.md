@@ -6,9 +6,7 @@ PARTICULARS TO BE ENTERED ON PERMITS ISSUED UNDER PART VIII
 
 - 1. Closed Road Permit Name of permit holder
 
-- Address of permit holder
-
-- Vehicle registration mark
+- Vehicle registration mark, trade plate number or movement permit number
 
 - Roads on which the vehicle is allowed
 
@@ -19,8 +17,6 @@ PARTICULARS TO BE ENTERED ON PERMITS ISSUED UNDER PART VIII
 - Additional conditions imposed
 
 - 2. Bus Lane Permit Name of permit holder
-
-- Address of permit holder
 
 - Vehicle registration mark
 
@@ -34,8 +30,6 @@ PARTICULARS TO BE ENTERED ON PERMITS ISSUED UNDER PART VIII
 
 - 3. Prohibited Zone Permit Name of permit holder
 
-- Address of permit holder
-
 - Vehicle registration mark
 
 - Prohibited zone in which the vehicle is allowed
@@ -47,8 +41,6 @@ PARTICULARS TO BE ENTERED ON PERMITS ISSUED UNDER PART VIII
 - Additional conditions imposed
 
 - 4. Restricted Zone Permit Name of permit holder
-
-- Address of permit holder
 
 - Vehicle registration mark
 
@@ -82,8 +74,6 @@ PARTICULARS TO BE ENTERED ON PERMITS ISSUED UNDER PART VIII
 
 - 7. Movement Permit Name of owner
 
-- Address of owner
-
 - Type of body or model
 
 - Engine number
@@ -114,16 +104,10 @@ PARTICULARS TO BE ENTERED ON PERMITS ISSUED UNDER PART VIII
 
 - 9. (Repealed L.N. 277 of 1992)
 
-- 10. Expressway Permit Name of permit holder
-
-- Address of permit holder
-
-- Vehicle registration mark
-
-- Route allowed
+- 10. Expressway Permit Name of permit holder Vehicle registration mark, movement permit number or chassis number (if the vehicle is used under a trade licence) Route allowed
 
 - Permitted hours of operation
 
 - Date of expiry
 
-- Additional conditions imposed (L.N. 247 of 1991)
+- Additional conditions imposed (L.N. 247 of 1991; L.N. 88 of 2012)

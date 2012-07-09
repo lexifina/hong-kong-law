@@ -108,6 +108,8 @@ Permit and Certificate Fees Fee $
 
 5. Closed road permit (other than for a road in Lantau), per annum— (a) for a private car (b) for a goods vehicle (c) for a bus | 540 456 456
 
+5A. Closed road permit issued under regulation 49(1A) for use in connection with a trade licence (L.N. 88 of 2012) | 540
+
 6. Closed road permit for a road in Lantau, per annum— (a) upon first issue (b) upon renewal | 900 660
 
 7. Goods permit | 260
