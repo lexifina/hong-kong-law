@@ -34,13 +34,7 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
   - (5) For the avoidance of doubt, it is hereby declared that subparagraph (4) shall operate before, on and after the authorization, if any, of the company to which any matter referred to in that subparagraph directly or indirectly relates.
 
-  - (6) For the purposes of paragraph 13(a)(i)(F) and (G), a company is an associated company of any other company where that second-mentioned company may— (Amended L.N. 63 of 2002)
-
-    - (a) by means of the holding of shares or the possession of voting power in or in relation to that first-mentioned company or any other body corporate; or
-
-    - (b) by virtue of any powers conferred by the memorandum or articles of association or other document regulating that first-mentioned company or any other body corporate,
-
-  - significantly influence the conduct of the affairs of that first-mentioned company.
+  - (6) (Repealed L.N. 99 of 2012)
 
 - (Amended 19 of 2005 s. 7)
 
@@ -112,45 +106,11 @@ MINIMUM CRITERIA FOR AUTHORIZATION
 
     - (b) in a manner which is not detrimental, or likely to be detrimental, to the interests of depositors or potential depositors.
 
-  - 13. Where the company is seeking authorization to carry on banking business in Hong Kong—
+  - 13. If the company seeking authorization to carry on banking business in Hong Kong is a company incorporated in a place outside Hong Kong, either—
 
-    - (a) it has (or, where subparagraph (b)(ii)(B) is applicable, will have)—
+    - (a) there is, in the opinion of the Monetary Authority, an acceptable degree of reciprocity in respect of banks incorporated in Hong Kong seeking to carry on banking business in that place; or
 
-      - (i) total customer deposits of not less than $3,000,000,000, or an equivalent amount in any other approved currency, excluding any deposits by—
-
-        - (A) any authorized institution;
-
-        - (B) any bank incorporated outside Hong Kong which is not an authorized institution;
-
-        - (C) any controller or director of the company;
-
-        - (D) any relative, within the meaning of section 79, of any such controller or director;
-
-        - (E) any firm, partnership or body corporate in which the company, any controller or director of the company or any relative, within the meaning of section 79, of any such controller or director, is interested as director, partner, manager or agent;
-
-        - (F) any holding company, subsidiary or associated company of the company;
-
-        - (G) any subsidiary or associated company of any such holding company; and
-
-      - (ii) total assets (less contra items) of not less than $4,000,000,000 or an equivalent amount in any other approved currency; and
-
-    - (b) in the case of—
-
-      - (i) a company incorporated outside Hong Kong, either—
-
-        - (A) there is, in the opinion of the Monetary Authority, an acceptable degree of reciprocity in respect of banks incorporated in Hong Kong seeking to carry on banking business in the place where that company is incorporated; or
-
-        - (B) the place where that company is incorporated is, or is part of the territory of, a member of the World Trade Organization;
-
-      - (ii) a company incorporated in Hong Kong, either—
-
-        - (A) it has been a deposit-taking company or a restricted licence bank (or any combination thereof) for not less than 3 continuous years; or
-
-        - (B) it is a subsidiary of a bank incorporated outside Hong Kong or a subsidiary of a holding company of such bank and that—
-
-          - (I) the bank has been authorized to carry on banking business in Hong Kong for not less than 3 continuous years; and
-
-          - (II) the Monetary Authority is satisfied that the bank will transfer, and is capable of transferring, as soon as reasonably practicable after the company is authorized, from its principal place of business in Hong Kong or any local branch or local office (within the meaning of this Ordinance as amended by the Banking (Amendment) Ordinance 2001 (32 of 2001)), to the company amounts of customer deposits and assets not less than the respective amounts specified in subparagraph (a)(i) and (ii). (Replaced L.N. 63 of 2002)
+    - (b) that place is, or is part of the territory of, a member of the World Trade Organization. (Replaced L.N. 99 of 2012)
 
 - (Seventh Schedule added 49 of 1995 s. 52)
 
