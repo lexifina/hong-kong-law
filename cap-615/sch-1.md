@@ -56,19 +56,23 @@ Interpretation
 
     - terrorist financing (恐怖分子資金籌集) means—
 
-      - (a) the provision or collection, by any means, directly or indirectly, of funds—
+      - (a) the provision or collection, by any means, directly or indirectly, of any property— (Amended 20 of 2012 s. 12)
 
-        - (i) with the intention that the funds be used; or
+        - (i) with the intention that the property be used; or
 
-        - (ii) knowing that the funds will be used,
+        - (ii) knowing that the property will be used,
 
-      - in whole or in part, to commit one or more terrorist acts (whether or not the funds are actually so used); or
+      - in whole or in part, to commit one or more terrorist acts (whether or not the property is actually so used); (Amended 20 of 2012 s. 12)
 
-      - (b) making available funds or financial (or related) services, directly or indirectly, to or for the benefit of a person knowing that, or being reckless as to whether, the person is a terrorist or terrorist associate.
+      - (b) the making available of any property or financial (or related) services, by any means, directly or indirectly, to or for the benefit of a person knowing that, or being reckless as to whether, the person is a terrorist or terrorist associate; or (Amended 20 of 2012 s. 12)
+
+      - (c) the collection of property or solicitation of financial (or related) services, by any means, directly or indirectly, for the benefit of a person knowing that, or being reckless as to whether, the person is a terrorist or terrorist associate. (Added 20 of 2012 s. 12)
 
   - 2.
 
-    - In the definition of terrorist financing, funds (資金), terrorist (恐怖分子), terrorist act (恐怖主義行為) and terrorist associate (與恐怖分子有聯繫者) have the meaning given by section 2(1) of the United Nations (Anti-Terrorism Measures) Ordinance (Cap. 575).
+    - In the definition of terrorist financing, terrorist (恐怖分子), terrorist act (恐怖主義行為) and terrorist associate (與恐怖分子有聯繫者) have the meaning given by section 2(1) of the United Nations (Anti-Terrorism Measures) Ordinance (Cap. 575).
+
+  - (Amended 20 of 2012 s. 12)
 
   - 3. A person who only provides to financial institutions a message system or other support systems for transmitting funds is not, for the purposes of this Ordinance, to be regarded as a person operating a remittance service.
 
