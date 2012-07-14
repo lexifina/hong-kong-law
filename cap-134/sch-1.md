@@ -1,6 +1,6 @@
 # FIRST SCHEDULE
 
-PART I | [sections 2, 3 & 22]
+PART I | [sections 2, 3, 22 & 50] (Amended L.N. 101 of 2012)
 
 DANGEROUS DRUGS
 
@@ -111,6 +111,8 @@ DANGEROUS DRUGS
   - Flunitrazepam
 
   - Flurazepam
+
+  - Gamma-butyrolactone (Added L.N. 101 of 2012)
 
   - Gamma-hydroxybutyric acid (Added L.N. 149 of 2001)
 
@@ -254,6 +256,8 @@ DANGEROUS DRUGS
 
   - Rolicyclidine
 
+  - Salvinorin-A (Added L.N. 101 of 2012)
+
   - Temazepam
 
   - Tetrazepam
@@ -370,9 +374,11 @@ DANGEROUS DRUGS
 
 - 10. Poppy straw.
 
+- 10A. Salvia divinorum (or any part of it). (Added L.N. 101 of 2012)
+
 - 11. Cannabis and cannabis resin. (Replaced 62 of 1994 s. 9)
 
-PART II | [sections 4, 23 & 24]
+PART II | [sections 3, 4, 23, 24 & 50] (Amended L.N. 101 of 2012)
 
 PREPARATIONS TO WHICH ORDINANCE APPLIES WITH MODIFICATIONS
 
@@ -396,11 +402,13 @@ PREPARATIONS TO WHICH ORDINANCE APPLIES WITH MODIFICATIONS
 
 - 16C. A preparation of Propiram containing not more than 100 milligrams of propiram per dosage unit and compounded with at least the same amount of methylcellulose. (Added L.N. 185 of 1983)
 
+- 16D. A preparation of gamma-butyrolactone containing not more than 0.1% of gamma-butyrolactone, being a preparation compounded with one or more other ingredients in such a way that the preparation has no, or a negligible, risk of abuse and that the gamma-butyrolactone cannot be recovered by readily applicable means or in a yield which would constitute a risk to health. (Added L.N. 101 of 2012)
+
 - 17. Pulvis Ipecacuanhae et Opii Compositus— 10 per cent opium, in powder, 10 per cent Ipecacuanhae root, in powder, well mixed with 80 per cent of any other powdered ingredient containing no dangerous drug.
 
 - 18. Mixtures containing not more than one of the preparations specified in paragraphs 13 to 17, being mixtures whereof none of the other ingredients is a dangerous drug.
 
-- PART III | [sections 25, 26 & 32]
+- PART III | [sections 3, 25, 26, 32 & 50] (Amended L.N. 101 of 2012)
 
 - DANGEROUS DRUGS TO WHICH ORDINANCE APPLIES WITH OTHER MODIFICATIONS
 
@@ -412,7 +420,7 @@ PREPARATIONS TO WHICH ORDINANCE APPLIES WITH MODIFICATIONS
 
 - 22. Any other preparation specified in Part II of this Schedule.
 
-- PART IV | [sections 24, 25 & 26]
+- PART IV | [sections 3, 24, 25, 26 & 50] (Amended L.N. 101 of 2012)
 
 - PREPARATIONS WHICH MAY BE SOLD BY RETAIL BY LISTED SELLERS OF POISONS UNDER PHARMACY AND POISONS ORDINANCE (CAP. 138) (Amended 46 of 1971 s. 10)
 
