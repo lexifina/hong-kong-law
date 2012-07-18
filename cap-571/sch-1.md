@@ -1090,127 +1090,141 @@ INTERPRETATION AND GENERAL PROVISIONS
 
   - 12. References to Ordinance For the avoidance of doubt, in this Ordinance, a reference to this or any other Ordinance, whether generally or specifically and whether by reference to the short title of the Ordinance or otherwise, shall, unless the context otherwise requires, be construed as including any subsidiary legislation made under this or that other Ordinance (as the case may be).
 
-- PART 2 SPECIFIED FUTURES EXCHANGES
+- Part 2 Specified Futures Exchanges
 
-  - 1. Australian Stock Exchange
+  - 1. ASX Limited
 
-  - 2. Bourse de Montreal Inc.
+  - 2. Australian Securities Exchange Limited
 
-  - 3. Chicago Board of Trade
+  - 3. BM&FBOVESPA S.A. – Bolsa de Valores, Mercadorias e Futuros
 
-  - 4. Chicago Board Options Exchange
+  - 4. Board of Trade of the City of Chicago, Inc.
 
-  - 5. Chicago Mercantile Exchange Inc.
+  - 5. Chicago Board Options Exchange, Incorporated
 
-  - 6. Commodity Exchange, Inc. (New York)
+  - 6. Chicago Mercantile Exchange Inc.
 
-  - 7. Eurex
+  - 7. China Financial Futures Exchange
 
-  - 8. Euronext Amsterdam
+  - 8. Commodity Exchange, Inc.
 
-  - 9. Hong Kong Futures Exchange Limited
+  - 9. Dalian Commodity Exchange
 
-  - 10. Korea Stock Exchange
+  - 10. Eurex Frankfurt AG
 
-  - 11. London International Financial Futures and Options Exchange
+  - 11. Eurex Zürich AG
 
-  - 12. London Metal Exchange
+  - 12. Euronext Amsterdam N.V.
 
-  - 13. Marche a Terme International de France
+  - 13. Euronext Paris S.A.
 
-  - 14. Marche des Options Negociables de Paris
+  - 14. Hong Kong Futures Exchange Limited
 
-  - 15. New York Cotton Exchange, Inc.
+  - 15. ICE Futures Canada, Inc.
 
-  - 16. New York Futures Exchange
+  - 16. ICE Futures U.S., Inc.
 
-  - 17. New York Mercantile Exchange
+  - 17. Korea Exchange, Inc.
 
-  - 18. New Zealand Futures and Options Exchange
+  - 18. LIFFE Administration and Management
 
-  - 19. Osaka Securities Exchange
+  - 19. Montréal Exchange Inc.
 
-  - 20. Pacific Exchange
+  - 20. Multi Commodity Exchange of India Limited
 
-  - 21. Philadelphia Stock Exchange
+  - 21. National Commodity & Derivatives Exchange Limited
 
-  - 22. Singapore Exchange Derivatives Trading Limited
+  - 22. NASDAQ OMX PHLX LLC
 
-  - 23. Stockholmsborsen
+  - 23. NASDAQ OMX Stockholm AB
 
-  - 24. Sydney Futures Exchange, Ltd.
+  - 24. New York Mercantile Exchange, Inc.
 
-  - 25. Tokyo Grain Exchange
+  - 25. New Zealand Futures and Options Exchange Limited
 
-  - 26. Tokyo International Financial Futures Exchange
+  - 26. NYSE Arca, Inc.
 
-  - 27. Tokyo Stock Exchange
+  - 27. Osaka Securities Exchange Co., Ltd.
 
-  - 28. Winnipeg Commodities Exchange Inc.
+  - 28. Shanghai Futures Exchange
 
-- PART 3 SPECIFIED STOCK EXCHANGES
+  - 29. Singapore Exchange Derivatives Trading Limited
 
-  - 1. American Stock Exchange
+  - 30. The London Metal Exchange Limited
 
-  - 2. Australian Stock Exchange
+  - 31. Tokyo Financial Exchange Inc.
 
-  - 3. Bolsa de Madrid
+  - 32. Tokyo Grain Exchange Inc.
 
-  - 4. Borsa Italiana S.p.A.
+  - 33. Tokyo Stock Exchange, Inc.
 
-  - 5. Bourse de Montreal Inc.
+  - 34. Zhengzhou Commodity Exchange (Replaced L.N. 94 of 2012)
 
-  - 6. Copenhagen Stock Exchange
+- Part 3 Specified Stock Exchanges
 
-  - 7. Deutsche Borse AG
+  - 1. ASX Limited
 
-  - 8. Euronext Amsterdam
+  - 2. BSE Limited
 
-  - 9. Euronext Brussels
+  - 3. Borsa Italiana S.p.A.
 
-  - 10. Euronext Paris
+  - 4. Bursa Malaysia Securities Berhad
 
-  - 11. Helsinki Exchanges
+  - 5. Deutsche Börse AG
 
-  - 12. Japanese Association of Securities Dealers Automated Quotations
+  - 6. Euronext Amsterdam N.V.
 
-  - 13. Korea Stock Exchange
+  - 7. Euronext Brussels S.A./N.V.
 
-  - 14. Kuala Lumpur Stock Exchange
+  - 8. Euronext Paris S.A.
 
-  - 15. London Stock Exchange
+  - 9. Korea Exchange, Inc.
 
-  - 16. Luxembourg Stock Exchange
+  - 10. London Stock Exchange plc
 
-  - 17. Nagoya Stock Exchange
+  - 11. Montréal Exchange Inc.
 
-  - 18. National Association of Securities Dealers Automated Quotations
+  - 12. Nagoya Stock Exchange, Inc.
 
-  - 19. New York Stock Exchange
+  - 13. NASDAQ OMX Copenhagen A/S
 
-  - 20. New Zealand Stock Exchange
+  - 14. NASDAQ OMX Helsinki Ltd
 
-  - 21. Osaka Securities Exchange
+  - 15. NASDAQ OMX Stockholm AB
 
-  - 22. Oslo Bors
+  - 16. National Stock Exchange of India Limited
 
-  - 23. Philippine Stock Exchange Inc.
+  - 17. New York Stock Exchange LLC
 
-  - 24. Singapore Exchange Securities Trading Limited
+  - 18. NYSE Amex LLC
 
-  - 25. The Stock Exchange of Hong Kong Limited
+  - 19. NZX Limited
 
-  - 26. Stock Exchange of Thailand
+  - 20. Osaka Securities Exchange Co., Ltd.
 
-  - 27. Stockholmsborsen
+  - 21. Oslo Børs ASA
 
-  - 28. SWX Swiss Exchange
+  - 22. Singapore Exchange Securities Trading Limited
 
-  - 29. Tokyo Stock Exchange
+  - 23. SIX Swiss Exchange AG
 
-  - 30. Toronto Stock Exchange
+  - 24. Sociedad Rectora de la Bolsa de Valores de Madrid, S.A. (Sociedad Unipersonal)
 
-  - 31. Wiener Borse AG
+  - 25. Société de la Bourse de Luxembourg S.A.
+
+  - 26. The NASDAQ Stock Market LLC
+
+  - 27. The Philippine Stock Exchange, Inc.
+
+  - 28. The Stock Exchange of Hong Kong Limited
+
+  - 29. The Stock Exchange of Thailand
+
+  - 30. Tokyo Stock Exchange, Inc.
+
+  - 31. TSX Inc.
+
+  - 32. Wiener Börse AG (Replaced L.N. 94 of 2012)
 
 - PART 4 MULTILATERAL AGENCIES
 
