@@ -203,6 +203,8 @@ s-188.md
 s-189.md
 s-190.md
 s-191.md
+s-191A.md
+s-191B.md
 s-192.md
 s-193.md
 s-194.md
