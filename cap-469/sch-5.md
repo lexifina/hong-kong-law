@@ -16,15 +16,15 @@ AMOUNT OF COMPENSATION
 
 - under 40 40 to under 56 56 and above | 96 72 48; or
 
-  - (ii) the sum of $341,000; or (Amended 16 of 2003 s. 24)
+  - (ii) the sum of $386,110; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012)
 
   - (b) the appropriate sum specified in column 2 of Table 2 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table— TABLE 2
 
   - Age | Sum
 
-  - under 40 40 to under 56 56 and above | $2,016,000 $1,512,000 $1,008,000
+  - under 40 40 to under 56 56 and above | $2,263,680 $1,697,760 $1,131,840
 
-- (Amended 16 of 2003 s. 24)
+- (Amended 16 of 2003 s. 24; L.N. 128 of 2012)
 
 - 2. For the purpose of this Schedule, earnings include—
 
