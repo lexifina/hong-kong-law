@@ -143,6 +143,7 @@ s-118K.md
 s-118L.md
 s-118M.md
 s-118N.md
+s-118O.md
 s-119.md
 s-120.md
 s-121.md
