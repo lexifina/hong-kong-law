@@ -18,17 +18,13 @@ Item | Enactment | Provision
 
 8. | Immigration Ordinance (Cap. 115) | Sections 2AB(2)(a), 2AC(2)(a), 5(6) and (7) and 6(1) and (2) (L.N. 36 of 2003)
 
-9. | Buildings Ordinance (Cap. 123) | Sections 8B(1), 8C(2), 8D(2), 17(1) (Column B), 19(1) and (4), 20(2), 21(2), 25(1) and 42(2)
+9. | Buildings Ordinance (Cap. 123) | Sections 17(1)(Column B), 20(2) and 21(2) (L.N. 90 of 2012)
 
-10. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulations 6(1), 11, 18(1), 18A, 23(1A) and (2), 29(1), 31(1), 33(1), 38 and 47
+10. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulations 6(1) and 11 (L.N. 90 of 2012)
 
-11. | Building (Planning) Regulations (Cap. 123 sub. leg. F) | Regulations 51(1), 53(1) and 64(1) and (2)
+11. | Building (Planning) Regulations (Cap. 123 sub. leg. F) | Regulations 51(1) and 64(1) and (2) (L.N. 90 of 2012)
 
-12. | Building (Private Streets and Access Roads) Regulations (Cap. 123 sub. leg. G) | Regulation 28
-
-13. | Building (Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulations (Cap. 123 sub. leg. I) | Regulations 62(1) and 73(1)
-
-14. | Building (Oil Storage Installations) Regulations (Cap. 123 sub. leg. K) | Regulations 6(1) and 10(2)
+12-14. | (Repealed L.N. 90 of 2012)
 
 15-17. | (Repealed L.N. 152 of 2006)
 
@@ -78,7 +74,7 @@ Item | Enactment | Provision
 
 44. | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) | Regulations 12R(1), 17(2) and 20(1) (25 of 2005 s. 41; L.N. 152 of 2006)
 
-45. | Dangerous Goods (Consignment by Air) (Safety) Regulations (Cap. 384 sub. leg. A) | Regulation 6(1)(b)
+45. | (Repealed L.N. 90 of 2012)
 
 46. | Land Drainage (Consent and Approval) Regulation (Cap. 446 sub. leg. A) | Sections 3(1) and (2) and 4
 
@@ -88,7 +84,7 @@ Item | Enactment | Provision
 
 51. | New Territories Land Exchange Entitlements (Redemption) Ordinance (Cap. 495) | Section 5(1) and (2) (L.N. 152 of 2006)
 
-52. | Environmental Impact Assessment Ordinance (Cap. 499) | Sections 4(5), 5(1), (2) and (4), 6(2), 7(1)(a), 8(1) and 13(1) (L.N. 84 of 2009)
+52. | Environmental Impact Assessment Ordinance (Cap. 499) | Sections 5(1) and (2), 6(2) and 7(1)(a) (L.N. 84 of 2009; L.N. 90 of 2012)
 
 53. | (Repealed L.N. 152 of 2006)
 
@@ -102,7 +98,7 @@ Item | Enactment | Provision
 
 58. | Electoral Affairs Commission (Nominations Advisory Committees (District Councils)) Regulation (Cap. 541 sub. leg. E) | Sections 5(8) and 8(2)
 
-59. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg. F) | Sections 26(5) and (9), 28(3), (9) and (12), 45(8) and (10), 66(6) and (9) and 102(4)
+59. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg. F) | Sections 26(5) and (9), 28(3) and (12), 45(8) and (10), 66(6) and (9) and 102(4) (L.N. 90 of 2012)
 
 59A. | Electoral Affairs Commission (Nominations Advisory Committees (Election Committee)) Regulation (Cap. 541 sub. leg. H) | Sections 6(13) and 9(2) (L.N. 268 of 2001)
 

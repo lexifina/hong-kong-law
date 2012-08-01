@@ -14,7 +14,7 @@ Item | Enactment | Provision
 
 4. | (Repealed 15 of 2004 s. 62)
 
-5. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulations 12(1), (2), (3) and (5), 18(2), 20(1), 25(2), (3) and (4), 26(2) and 28 (15 of 2004 s. 62)
+5. | Building (Administration) Regulations (Cap. 123 sub. leg. A) | Regulation 12(1), (2), (3) and (5) (15 of 2004 s. 62; L.N. 90 of 2012)
 
 6. | Registration of Persons Regulations (Cap. 177 sub. leg. A) | Regulation 4(1)
 
@@ -24,7 +24,7 @@ Item | Enactment | Provision
 
 9. | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E) | Regulation 17(2) (L.N. 152 of 2006)
 
-10. | Dangerous Goods (Consignment by Air) (Safety) Regulations (Cap. 384 sub. leg. A) | Regulation 6(3)
+10. | (Repealed L.N. 90 of 2012)
 
 11. | Land Drainage (Consent and Approval) Regulation (Cap. 446 sub. leg. A) | Section 6
 
