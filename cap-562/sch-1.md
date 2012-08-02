@@ -1,24 +1,28 @@
-# SCHEDULE 1
+Editorial Note:
+
+* Commencement date: 7 July 2000.
+
+# Schedule 1
 
 [ss. 2, 8, 42 & 43 & Schs. 4 & 8]
 
-DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE LICENCES AND RESTRICTION ON VOTING CONTROL OF VOTING CONTROLLERS
+Disqualification for Holding Domestic Free or Pay Television Programme Service Licences and Restriction on Voting Control of Voting Controllers
 
 (For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
 
-- PART 1 INTERPRETATION AND APPLICATION
+- Part 1 Interpretation and Application
 
   - 1. Interpretation
 
     - (1) In this Schedule, unless the context otherwise requires—
 
-      - “advertising agency” (廣告宣傳代理商) means a person who—
+      - advertising agency (廣告宣傳代理商) means a person who—
 
         - (a) carries on business as an advertising agent; or
 
         - (b) exercises control of a person who carries on business as an advertising agent;
 
-      - “associate” (相聯者), in relation to a voting controller holding voting control (whether the controller is qualified or unqualified), means—
+      - associate (相聯者), in relation to a voting controller holding voting control (whether the controller is qualified or unqualified), means—
 
         - (a) where the voting controller holding the voting control is an individual—
 
@@ -74,7 +78,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
           - (v) a director or principal officer of a corporation mentioned in subparagraph (iii);
 
-      - “associated corporation” (相聯法團), in relation to a voting controller holding voting control (whether qualified or unqualified), means—
+      - associated corporation (相聯法團), in relation to a voting controller holding voting control (whether qualified or unqualified), means—
 
         - (a) a corporation over which the voting controller has influence;
 
@@ -82,9 +86,9 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (c) a corporation which is under the influence of the second corporation;
 
-      - “disqualified person” (不符合持牌資格人士) means a person who is a disqualified person under section 4, 5, 6 or 7;
+      - disqualified person (不符合持牌資格人士) means a person who is a disqualified person under section 4, 5, 6 or 7;
 
-      - “influence” (影響、影響力), in relation to a corporation, means the power of a voting controller to ensure—
+      - influence (影響、影響力), in relation to a corporation, means the power of a voting controller to ensure—
 
         - (a) by means of the holding of shares or possession of voting power in or in relation to that or any other corporation; or
 
@@ -92,19 +96,19 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - that the affairs of the first-mentioned corporation are conducted in accordance with the wishes of the voting controller;
 
-      - “licence” (牌照) means a domestic free television programme service licence or domestic pay television programme service licence;
+      - licence (牌照) means a domestic free television programme service licence or domestic pay television programme service licence;
 
-      - “licensee” (持牌人) means the holder of a licence;
+      - licensee (持牌人) means the holder of a licence;
 
-      - “licensee’s register” (持牌人登記冊), in relation to a particular licensee, means the register required to be kept under section 95 of the Companies Ordinance (Cap. 32);
+      - licensee’s register (持牌人登記冊), in relation to a particular licensee, means the register required to be kept under section 95 of the Companies Ordinance (Cap. 32);
 
-      - “principal officer” (主要人員), in relation to a corporation, means—
+      - principal officer (主要人員), in relation to a corporation, means—
 
         - (a) a person employed or engaged by the corporation who, by himself or with 1 or more other persons, is responsible under the immediate authority of the directors of the corporation for the conduct of the business of the corporation; or
 
         - (b) a person so employed or engaged who, under the immediate authority of a director of the corporation or a person to whom paragraph (a) applies, performs managerial functions in respect of the corporation;
 
-      - “qualified voting controller” (一般表決控權人) means—
+      - qualified voting controller (一般表決控權人) means—
 
         - (a) a voting controller who—
 
@@ -124,13 +128,13 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
           - (v) such other person as may be prescribed;
 
-      - “relative” (親屬), in relation to an individual, means the spouse, parent, child, brother, sister, brother-in-law, father-in-law, mother-in-law, sister-in-law, daughter-in-law, son-in-law, aunt, cousin, uncle, niece, nephew, grandfather or grandmother of the individual, and for the purposes of this definition, an adopted child shall be regarded as a child both of the natural parents and the adoptive parents and a stepchild as the child both of the natural parents and any step parents;
+      - relative (親屬), in relation to an individual, means the spouse, parent, child, brother, sister, brother-in-law, father-in-law, mother-in-law, sister-in-law, daughter-in-law, son-in-law, aunt, cousin, uncle, niece, nephew, grandfather or grandmother of the individual, and for the purposes of this definition, an adopted child shall be regarded as a child both of the natural parents and the adoptive parents and a stepchild as the child both of the natural parents and any step parents;
 
-      - “total voting control” (總計表決控制權) means the aggregate of voting control;
+      - total voting control (總計表決控制權) means the aggregate of voting control;
 
-      - “unqualified voting controller” (受限制表決控權人) means a voting controller who is not a qualified voting controller;
+      - unqualified voting controller (受限制表決控權人) means a voting controller who is not a qualified voting controller;
 
-      - “voting control” (表決控制權) means the control of or the ability to control, whether directly or indirectly, the exercise of the right to vote attaching to 1 or more voting shares of a licensee—
+      - voting control (表決控制權) means the control of or the ability to control, whether directly or indirectly, the exercise of the right to vote attaching to 1 or more voting shares of a licensee—
 
         - (a) by the exercise of a right, where such exercise confers the ability to exercise a right to vote or to control the exercise of a right to vote;
 
@@ -144,7 +148,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (f) as a chargor of voting shares of a licensee unless the chargee of the voting shares or the nominee of the chargee has given notice in writing to the chargor under the charge of an intention to exercise the right to vote attaching to such voting shares;
 
-      - “voting controller” (表決控權人) means a person who either alone or with 1 or more other persons holds voting control.
+      - voting controller (表決控權人) means a person who either alone or with 1 or more other persons holds voting control.
 
     - (2) Where—
 
@@ -192,21 +196,13 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (9)
 
-      - In subsection (8), “subsidiary” (附屬公司), in relation to a corporation, has the same meaning which a subsidiary has in relation to a company under section 2(4) and (6) of the Companies Ordinance (Cap. 32).
+      - In subsection (8), subsidiary (附屬公司), in relation to a corporation, has the same meaning which a subsidiary has in relation to a company under section 2(4) and (6) of the Companies Ordinance (Cap. 32).
 
   - 2. Application Part 3 shall not apply to a domestic pay television programme service, domestic pay television programme service licence or domestic pay television programme service licensee.
 
-- PART 2 DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY
+- Part 2 Disqualification for Holding Domestic Free or Pay Television Programme Service Licences and Restrictions on Voting Control
 
-- TELEVISION PROGRAMME SERVICE LICENCES AND
-
-- RESTRICTIONS ON VOTING CONTROL
-
-  - 3.
-
-  - Disqualified person not to hold
-
-  - licence or exercise control
+  - 3. Disqualified person not to hold licence or exercise control
 
     - (1) A disqualified person shall not become the holder of a licence or exercise control of a licensee unless the disqualification was disclosed in the application for the licence.
 
@@ -242,13 +238,9 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (3) A person shall not be a disqualified person in relation to a company which is a licensee by reason only of the fact that he is a director or a principal officer of, or holds or controls more than 15% of the voting shares in, that company.
 
-  - 5.
+  - 5. Disqualification of sound broadcasting licensees The following are disqualified persons in relation to a licence—
 
-  - Disqualification of sound
-
-  - broadcasting licensees The following are disqualified persons in relation to a licence—
-
-    - (a) a sound broadcasting licensee under Part IIIA of the Telecommunications Ordinance (Cap. 106);
+    - (a) a sound broadcasting licensee under Part 3A of the Telecommunications Ordinance (Cap. 106); (Amended E.R. 2 of 2012)
 
     - (b) a person who exercises control over a licensee mentioned in paragraph (a); or
 
@@ -258,11 +250,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (ii) a person mentioned in paragraph (b).
 
-  - 6.
-
-  - Disqualification of advertising agencies
-
-  - The following are disqualified persons in relation to a licence—
+  - 6. Disqualification of advertising agencies The following are disqualified persons in relation to a licence—
 
     - (a) an advertising agency;
 
@@ -274,11 +262,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (ii) a person mentioned in paragraph (b).
 
-  - 7.
-
-  - Disqualification of local newspapers
-
-  - The following are disqualified persons in relation to a licence—
+  - 7. Disqualification of local newspapers The following are disqualified persons in relation to a licence—
 
     - (a) the proprietor of a newspaper printed or produced in Hong Kong;
 
@@ -290,11 +274,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
       - (ii) a person mentioned in paragraph (b).
 
-  - 8.
-
-  - Restriction on disqualified persons acting
-
-  - in association with voting controllers
+  - 8. Restriction on disqualified persons acting in association with voting controllers
 
     - (1) Where a voting controller holds or acquires voting control of the voting shares of a licensee as an associate of a disqualified person and it appears to the Authority that a purpose of the holding or acquisition is to avoid a restriction imposed on a disqualified person under this Part, then the Authority may, by notice in writing served on any voting controller whom it believes to be a party to the holding or acquisition, give directions to the voting controller which appear to the Authority to be necessary to— (Amended 17 of 2011 s. 28)
 
@@ -314,11 +294,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (4) Where 2 or more persons act together to hold or acquire the voting control of the voting shares of a licensee, then, for the purposes of this Part, each of those persons shall be regarded in relation to the voting shares of the licensee as being an associate of the other and of any other person acting on the directions of any of them to hold or to acquire voting control over those voting shares.
 
-  - 9.
-
-  - Licensee’s power to investigate
-
-  - a disqualified person
+  - 9. Licensee’s power to investigate a disqualified person
 
     - (1) Where a licensee knows or has reasonable cause to believe a person—
 
@@ -350,15 +326,9 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (5)
 
-      - In this section, “relevant period” (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the licensee serves the notice.
+      - In this section, relevant period (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the licensee serves the notice.
 
-  - 10.
-
-  - Authority’s power to obtain information
-
-  - as to disqualified persons
-
-  - (Amended 17 of 2011 s. 28)
+  - 10. Authority’s power to obtain information as to disqualified persons (Amended 17 of 2011 s. 28)
 
     - (1) If it appears to the Authority that there is reason to investigate the voting controllers of any voting shares of a licensee, it may require any person whom it has reasonable cause to believe to have, or to be able to provide or obtain, any information as to any present or past voting controllers and their names and addresses and of those persons who act or have acted on their behalf, to give that information to the Authority. (Amended 17 of 2011 s. 28)
 
@@ -402,19 +372,15 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
           - (B) the expiry of every successive period of 3 months before the conclusion of the investigation,
 
-    - give to the Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be; (Amended 17 of 2011 s. 28)
+        - give to the Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be; (Amended 17 of 2011 s. 28)
 
-      - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by it for a response has expired.
+        - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by it for a response has expired.
 
     - (6)
 
-      - In this section, “relevant period” (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the Authority serves the notice. (Amended 17 of 2011 s. 28)
+      - In this section, relevant period (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the Authority serves the notice. (Amended 17 of 2011 s. 28)
 
-  - 11.
-
-  - Additional requirements regarding form
-
-  - and content of licensee’s records
+  - 11. Additional requirements regarding form and content of licensee’s records
 
     - (1) Where a licensee serves a notice under section 9(1), or serves such notice in consequence of a direction under section 10(5), it shall keep a record in the specified form containing—
 
@@ -426,11 +392,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (2) A licensee shall retain a record mentioned in subsection (1) in accordance with any direction in that behalf given by the Authority under section 16. (Amended 17 of 2011 s. 28)
 
-  - 12.
-
-  - Power of Authority to impose restrictions
-
-  - (Amended 17 of 2011 s. 28)
+  - 12. Power of Authority to impose restrictions (Amended 17 of 2011 s. 28)
 
     - (1) If—
 
@@ -462,11 +424,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (5) Where a voting share is subject to a restriction, mentioned in subsection (3)(c) or (d), any agreement to transfer a right to be issued with any other voting share in the right of such voting share, or to receive any payment on it otherwise than on liquidation, is void.
 
-  - 13.
-
-  - Relaxation and removal of restrictions
-
-  - under section 12
+  - 13. Relaxation and removal of restrictions under section 12
 
     - (1) Where a voting share of a licensee is the subject of a notice under section 12(1) or (2), the licensee or any person aggrieved by the notice may apply to the Court of First Instance for an order directing that the share—
 
@@ -478,11 +436,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (3) An order under this section directing that a voting share shall cease to be subject to restrictions specified in the notice concerned under section 12(1) or (2), if it is stated to be made with a view to permitting the transfer or directing the sale of the share, may direct that any such restrictions shall continue in whole or in part, in so far as such restrictions relate to a right acquired or offer made before the transfer or sale.
 
-  - 14.
-
-  - Provision as to proceeds of sale by
-
-  - order of Court of First Instance
+  - 14. Provision as to proceeds of sale by order of Court of First Instance
 
     - (1) Where a voting share of a licensee is sold pursuant to an order under section 13(1)(b), the proceeds of sale, less the costs of the sale, shall be paid into court for the benefit of any person who is beneficially interested in the voting share and any such person may apply to the Court of First Instance for the whole or any part of those proceeds to be paid to him.
 
@@ -490,11 +444,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (3) Where the Court of First Instance makes an order under section 13(1)(b), it may further order that the costs of an applicant in relation to the application under that section be paid out of the proceeds of sale and, if it makes such an order and the licensee is such an applicant, the licensee shall be entitled to the payment of its costs out of the proceeds before any other applicant is paid any part of the proceeds.
 
-  - 15.
-
-  - Privilege relating to non-disclosure
-
-  - and confidentiality
+  - 15. Privilege relating to non-disclosure and confidentiality
 
     - (1) A person is not obliged to comply with the requirements of a notice under section 9 if he is for the time being exempted by the Financial Secretary by notice in the Gazette from the operation of section 329 of the Securities and Futures Ordinance (Cap. 571). (Amended 5 of 2002 s. 407)
 
@@ -518,11 +468,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (iii) in connection with civil proceedings to which the licensee is a party.
 
-  - 16.
-
-  - Directions of Authority
-
-  - (Amended 17 of 2011 s. 28)
+  - 16. Directions of Authority (Amended 17 of 2011 s. 28)
 
     - (1) The Authority may issue directions for the purposes of this Part.
 
@@ -554,29 +500,15 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (7) A person who commits an offence under this section is liable on conviction to a fine of $1,000,000 and to imprisonment for 2 years.
 
-  - 18.
-
-  - Prosecution of offences and limitation
-
-  - on institution of proceedings
+  - 18. Prosecution of offences and limitation on institution of proceedings
 
     - (1) Without affecting the powers of the Secretary for Justice in relation to the prosecution of criminal offences, prosecution for an offence under this Part may be instituted by the Authority. (Amended 17 of 2011 s. 28)
 
     - (2) Notwithstanding section 26 of the Magistrates Ordinance (Cap. 227), any information or complaint relating to an offence under this Part may be tried if it is laid or made, as the case may be, at any time within 3 years beginning on the date of the commission of the offence or within 12 months beginning on the first discovery of the offence by the prosecutor, whichever period expires first.
 
-- PART 3 RESTRICTIONS ON VOTING CONTROL HELD BY UNQUALIFIED VOTING
+- Part 3 Restrictions on Voting Control Held by Unqualified Voting Controllers (Not Applicable in Relation to Domestic Pay Television Programme Service Licence)
 
-- CONTROLLERS (NOT APPLICABLE IN RELATION TO DOMESTIC PAY
-
-- TELEVISION PROGRAMME SERVICE LICENCE)
-
-  - 19.
-
-  - Restrictions on percentage of voting
-
-  - control of unqualified voting
-
-  - controllers
+  - 19. Restrictions on percentage of voting control of unqualified voting controllers
 
     - (1) Subject to subsection (2), notwithstanding anything contained in the memorandum or articles of association of a licensee or any provision of any law apart from this section, where any question or matter is to be determined by a poll at any general meeting of the licensee, the following shall apply—
 
@@ -600,15 +532,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (3) The Authority may at any time before, at or during a general meeting of a licensee, direct the licensee orally or by notice in writing to conduct a poll upon any resolution and, where such a direction is given, the licensee shall comply with it. (Amended 17 of 2011 s. 28)
 
-  - 20.
-
-  - 2% to 10% control limits by unqualified
-
-  - voting controller subject to approval
-
-  - of Authority
-
-  - (Amended 17 of 2011 s. 28)
+  - 20. 2% to 10% control limits by unqualified voting controller subject to approval of Authority (Amended 17 of 2011 s. 28)
 
     - (1) An unqualified voting controller shall not, without the prior approval in writing of the Authority— (Amended 17 of 2011 s. 28)
 
@@ -632,13 +556,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (5) Nothing in this section shall be construed as restricting or otherwise affecting the power of a person to transfer a voting share.
 
-  - 21.
-
-  - Restriction on unqualified voting
-
-  - controllers acting in association
-
-  - with other voting controllers
+  - 21. Restriction on unqualified voting controllers acting in association with other voting controllers
 
     - (1) Where a person being—
 
@@ -666,11 +584,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
   - 22.
 
-  - Duty of licensee to notify Authority
-
-  - in relation to general
-
-  - meetings, etc.
+  - Duty of licensee to notify Authority in relation to general meetings, etc.
 
   - (Amended 17 of 2011 s. 28)
 
@@ -690,11 +604,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (2) Where a person to whom a document is distributed under subsection (1)(b) is unable, from his own knowledge or belief, to complete the document or has no authority to do so, he shall, where he knows the name and address of any other person whom he has reason to believe may be able to complete or to assist in the completion of the document or who has authority to do so, send the document to that person.
 
-  - 23.
-
-  - Licensee’s power to investigate
-
-  - voting controllers
+  - 23. Licensee’s power to investigate voting controllers
 
     - (1) Where a licensee knows or has reasonable cause to believe a person—
 
@@ -726,15 +636,9 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (5)
 
-      - In this section, “relevant period” (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the licensee serves the notice.
+      - In this section, relevant period (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the licensee serves the notice.
 
-  - 24.
-
-  - Authority’s power to obtain information
-
-  - as to voting controllers
-
-  - (Amended 17 of 2011 s. 28)
+  - 24. Authority’s power to obtain information as to voting controllers (Amended 17 of 2011 s. 28)
 
     - (1) If it appears to the Authority that there is reason to investigate the voting controllers of any voting shares of a licensee, it may require any person whom it has reasonable cause to believe to have, or to be able to provide or obtain, any information as to any present or past voting controllers and their names and addresses and of those persons who act or have acted on their behalf, to give that information to the Authority. (Amended 17 of 2011 s. 28)
 
@@ -778,19 +682,15 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
           - (B) the expiry of every successive period of 3 months before the conclusion of the investigation,
 
-    - give to the Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be;
+        - give to the Authority an interim report relating to the information and particulars received by it during the period referred to in sub-subparagraph (A) or (B), as the case may be;
 
-      - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by the licensee for a response has expired. (Amended 17 of 2011 s. 28)
+        - (iii) an investigation shall be regarded as concluded when the licensee has made all the inquiries necessary or expedient for the purpose of the investigation and any such inquiry shall be regarded as concluded when a response has been received by the licensee or the time given by the licensee for a response has expired. (Amended 17 of 2011 s. 28)
 
     - (6)
 
-      - In this section, “relevant period” (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the Authority serves the notice. (Amended 17 of 2011 s. 28)
+      - In this section, relevant period (有關期間), in relation to a particular notice, means the period of 3 years immediately preceding the date on which the Authority serves the notice. (Amended 17 of 2011 s. 28)
 
-  - 25.
-
-  - Additional requirements regarding form
-
-  - and content of licensee’s records
+  - 25. Additional requirements regarding form and content of licensee’s records
 
     - (1) Where a licensee serves a notice under section 23(1), or serves such notice in consequence of a direction under section 24(5), it shall keep a record in the specified form containing—
 
@@ -802,11 +702,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (2) A licensee shall retain a record mentioned in subsection (1) in accordance with any direction in that behalf given by the Authority under section 30.
 
-  - 26.
-
-  - Power of Authority to impose restrictions
-
-  - (Amended 17 of 2011 s. 28)
+  - 26. Power of Authority to impose restrictions (Amended 17 of 2011 s. 28)
 
     - (1) If—
 
@@ -838,11 +734,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (5) Where a voting share is subject to a restriction mentioned in subsection (3)(c) or (d), any agreement to transfer a right to be issued with any other voting share in the right of such voting share, or to receive any payment on it otherwise than on liquidation, is void.
 
-  - 27.
-
-  - Relaxation and removal of restriction
-
-  - under section 26
+  - 27. Relaxation and removal of restriction under section 26
 
     - (1) Where a voting share of a licensee is the subject of a notice under section 26(1) or (2), the licensee or any person aggrieved by the notice may apply to the Court of First Instance for an order directing that the share—
 
@@ -854,11 +746,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (3) An order under this section directing that a voting share shall cease to be subject to restrictions specified in the notice concerned under section 26(1) or (2), if it is stated to be made with a view to permitting the transfer or directing the sale of the share, may direct that any such restrictions shall continue in whole or in part, in so far as such restrictions relate to a right acquired or offer made before the transfer or sale.
 
-  - 28.
-
-  - Provision as to proceeds of sale by
-
-  - order of Court of First Instance
+  - 28. Provision as to proceeds of sale by order of Court of First Instance
 
     - (1) Where a voting share of a licensee is sold pursuant to an order under section 27(1)(b), the proceeds of sale, less the costs of the sale, shall be paid into court for the benefit of any person who is beneficially interested in the voting share and any such person may apply to the Court of First Instance for the whole or any part of those proceeds to be paid to him.
 
@@ -866,11 +754,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (3) Where the Court of First Instance makes an order under section 27(1)(b), it may further order that the costs of an applicant in relation to the application under that section be paid out of the proceeds of sale and, if it makes such an order and the licensee is such an applicant, the licensee shall be entitled to the payment of its costs out of the proceeds before any other applicant is paid any part of the proceeds.
 
-  - 29.
-
-  - Privilege relating to non-disclosure
-
-  - and confidentiality
+  - 29. Privilege relating to non-disclosure and confidentiality
 
     - (1) A person is not obliged to comply with the requirements of a notice under section 23 if he is for the time being exempted by the Financial Secretary by notice in the Gazette from the operation of section 329 of the Securities and Futures Ordinance (Cap. 571). (Amended 5 of 2002 s. 407)
 
@@ -894,11 +778,7 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
         - (iii) in connection with civil proceedings to which the licensee is a party.
 
-  - 30.
-
-  - Directions of Authority
-
-  - (Amended 17 of 2011 s. 28)
+  - 30. Directions of Authority (Amended 17 of 2011 s. 28)
 
     - (1) The Authority may issue directions for the purposes of this Part.
 
@@ -934,31 +814,15 @@ DISQUALIFICATION FOR HOLDING DOMESTIC FREE OR PAY TELEVISION PROGRAMME SERVICE L
 
     - (9) A person who commits an offence under this section is liable on conviction to a fine of $1,000,000 and to imprisonment for 2 years.
 
-  - 32.
-
-  - Prosecution of offences and limitation
-
-  - on institution of proceedings
+  - 32. Prosecution of offences and limitation on institution of proceedings
 
     - (1) Without affecting the powers of the Secretary for Justice in relation to the prosecution of criminal offences, prosecution for an offence under this Part may be instituted by the Authority. (Amended 17 of 2011 s. 28)
 
     - (2) Notwithstanding section 26 of the Magistrates Ordinance (Cap. 227), any information or complaint relating to an offence under this Part may be tried if it is laid or made, as the case may be, at any time within 3 years beginning on the date of the commission of the offence or within 12 months beginning on the first discovery of the offence by the prosecutor, whichever period expires first.
 
-- PART 4 RESTRICTION ON DOMESTIC FREE OR PAY TELEVISION
+- Part 4 Restriction on Domestic Free or Pay Television Programme Service Licensees Exercising Control on Disqualified Persons
 
-- PROGRAMME SERVICE LICENSEES EXERCISING
-
-- CONTROL ON DISQUALIFIED PERSONS
-
-  - 33.
-
-  - Restrictions on licensees exercising
-
-  - control on disqualified person
-
-  - without Chief Executive in
-
-  - Council’s approval
+  - 33. Restrictions on licensees exercising control on disqualified person without Chief Executive in Council’s approval
 
     - (1) A licensee shall not exercise control on a disqualified person—
 

@@ -1,8 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 12(1)]
 
-RECOGNIZED DEFENCES
+Recognized Defences
+
+(Format changes—E.R. 2 of 2012)
 
 Contravention | Scheduled circumstances which may constitute a defence
 

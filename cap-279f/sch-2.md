@@ -1,28 +1,30 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 4]
 
-EMPLOYMENT OF TEACHERS
+Employment of Teachers
 
-- PART 1 PROVISIONS EXEMPTED The following provisions of the Ordinance—
+- Part 1 Provisions Exempted
 
-  - (a) section 39(2)(d) and (e) (Duties of supervisor);
+  - The following provisions of the Ordinance—
 
-  - (b) section 42 (Teachers to be registered or permitted teachers);
+    - (a) section 39(2)(d) and (e) (Duties of supervisor);
 
-  - (c) section 48 (Circumstances in which application to employ permitted teacher may be made);
+    - (b) section 42 (Teachers to be registered or permitted teachers);
 
-  - (d) section 49 (Application to employ permitted teacher);
+    - (c) section 48 (Circumstances in which application to employ permitted teacher may be made);
 
-  - (e) section 50 (Permit to teach);
+    - (d) section 49 (Application to employ permitted teacher);
 
-  - (f) section 51 (Grounds for refusal to issue permit to teach);
+    - (e) section 50 (Permit to teach);
 
-  - (g) section 52 (Grounds for cancellation of permit to teach);
+    - (f) section 51 (Grounds for refusal to issue permit to teach);
 
-  - (h) section 87(3)(f) and (5) (Offences and penalties).
+    - (g) section 52 (Grounds for cancellation of permit to teach);
 
-- PART 2 CONDITIONS FOR EXEMPTION
+    - (h) section 87(3)(f) and (5) (Offences and penalties).
+
+- Part 2 Conditions for Exemption
 
   - 1. A teacher who teaches in an exempted school shall possess the minimum qualifications for a permitted teacher, that is— (L.N. 24 of 2012)
 

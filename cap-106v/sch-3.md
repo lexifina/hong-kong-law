@@ -1,12 +1,12 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 5]
 
-FEES PAYABLE FOR CARRIER LICENCES
+Fees Payable for Carrier Licences
 
-- PART 1 FIXED CARRIER LICENCES OTHER THAN FIXED
+- Part 1 Fixed Carrier Licences Other Than Fixed
 
-- CARRIER (RESTRICTED) LICENCES
+- Carrier (Restricted) Licences
 
   - 1. A fee of $1,000,000 shall be payable on the issue of a fixed carrier licence (excluding a fixed carrier (restricted) licence) and, in each year while the licence remains in force, on the anniversary of the issue of the licence. If the licence permits the provision of external services only, the fee is $200,000. (L.N. 134 of 2003; L.N. 34 of 2004)
 
@@ -38,7 +38,7 @@ FEES PAYABLE FOR CARRIER LICENCES
 
   - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands— 6.765 - 6.795 MHz 13.553 - 13.567 MHz 26.957 - 27.283 MHz 40.66 - 40.7 MHz 2400 - 2500 MHz 5.725 - 5.875 GHz 24.0 - 24.25 GHz 61 - 61.5 GHz 122 - 123 GHz 244 - 246 GHz
 
-- PART 2 FIXED CARRIER (RESTRICTED) LICENCES
+- Part 2 Fixed Carrier (Restricted) Licences
 
   - 1. A fee of $100,000 shall be payable on the issue of a fixed carrier (restricted) licence and, in each year while the licence remains in force, on the anniversary of the issue of the licence.
 
@@ -70,9 +70,9 @@ FEES PAYABLE FOR CARRIER LICENCES
 
   - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands— 6.765 - 6.795 MHz 13.553 - 13.567 MHz 26.957 - 27.283 MHz 40.66 - 40.7 MHz 2400 - 2500 MHz 5.725 - 5.875 GHz 24.0 - 24.25 GHz 61 - 61.5 GHz 122 - 123 GHz 244 - 246 GHz
 
-- PART 3 MOBILE CARRIER LICENCES OTHER THAN MOBILE
+- Part 3 Mobile Carrier Licences Other Than Mobile
 
-- CARRIER (RESTRICTED) LICENCES
+- Carrier (Restricted) Licences
 
   - 1. The annual fee payable on the issue and on the anniversary of the issue of a mobile carrier licence (excluding a mobile carrier (restricted) licence) in each year while the licence remains in force shall be the sum of—
 
@@ -90,7 +90,7 @@ FEES PAYABLE FOR CARRIER LICENCES
 
   - 2. For the purpose of determining the fees payable under section 1, the number of stations and the width of the frequency assigned shall be those authorized or in service at the time when the mobile carrier licence concerned is issued or on the anniversary of the issue.
 
-- PART 4 MOBILE CARRIER (RESTRICTED) LICENCES
+- Part 4 Mobile Carrier (Restricted) Licences
 
   - 1. The annual fee payable on the issue and on the anniversary of the issue of a mobile carrier (restricted) licence in each year while the licence remains in force shall be the sum of—
 
@@ -98,7 +98,7 @@ FEES PAYABLE FOR CARRIER LICENCES
 
     - (b) $1,000 per land station or land earth station operated by the licensee for the service.
 
-- PART 5 SPACE STATION CARRIER LICENCES
+- Part 5 Space Station Carrier Licences
 
   - 1. For a space station carrier licence other than a space station carrier licence mentioned in section 2—
 
@@ -112,7 +112,7 @@ FEES PAYABLE FOR CARRIER LICENCES
 
     - (b) a fee of $80,000 is payable on the anniversary of the issue of the licence in each year while the licence remains in force.
 
-- PART 6 UNIFIED CARRIER LICENCES
+- Part 6 Unified Carrier Licences
 
   - 1. A fee of $1,000,000 shall be payable on the issue of a unified carrier licence and, in each subsequent year while the licence remains in force, on the anniversary of the issue of the licence. If the licence permits the provision of external services only, or of radiocommunications services (where moving stations are primarily for use in locations other than on land) only, or of these two types of services only, the fee is $100,000.
 

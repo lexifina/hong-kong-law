@@ -1,8 +1,10 @@
-# SCHEDULE 12
+# Schedule 12
 
 [ss. 102A, 102B, 102C, 102F & 102G]
 
-REQUIREMENTS APPLICABLE TO DRIVING IMPROVEMENT SCHOOLS
+Requirements Applicable to Driving Improvement Schools
+
+(Schedule 12 added 3 of 2002 s. 7)
 
 - 1. Only driving improvement course instructors who have been authorized by the Commissioner and who meet such conditions as may be specified by the Commissioner in the designation concerned may give driving improvement courses.
 
@@ -18,4 +20,4 @@ REQUIREMENTS APPLICABLE TO DRIVING IMPROVEMENT SCHOOLS
 
 - 4. The Commissioner shall cause notice of the fees he has determined under section 3 to be published in the Gazette.
 
-- 5. A notice under section 4 is not subsidiary legislation. (Schedule 12 added 3 of 2002 s. 7)
+- 5. A notice under section 4 is not subsidiary legislation.

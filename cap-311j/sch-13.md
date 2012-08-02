@@ -32,7 +32,7 @@ Vehicles Design Standards (Emission) for Certain Motor Vehicles Registered betwe
 
   - (iii) All the type approval requirements administered by the Ministry of Land, Infrastructure and Transport of Japan.
 
-(Schedule 13 added L.N. 111 of 2006)
+(Schedule 13 added L.N. 111 of 2006) (Format changes—E.R. 2 of 2012)
 
 Editorial Note:
 

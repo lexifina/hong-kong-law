@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-PROVISIONS EXCLUDED FROM APPLICATION OF SECTION 5 OF ORDINANCE
+Provisions Excluded from Application of Section 5 of Ordinance
 
 Item | Enactment | Provision
 

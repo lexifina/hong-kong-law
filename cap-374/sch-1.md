@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 6, 21, 22 & 52]
 
-CLASSES OF VEHICLE
+Classes of Vehicle
 
 Private car
 

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3, 65 & 89]
 
-POSTPONEMENT AND ADJOURNMENT OF ORDINARY ELECTION AND BY-ELECTIONS
+Postponement and Adjournment of Ordinary Election and By-elections
 
 - 1. Postponement of an ordinary election and adjournment of poll at all polling stations or count at all counting stations
 

@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 3 & 28]
 
-PROTECTION OF WAGES ON INSOLVENCY FUND BOARD
+Protection of Wages on Insolvency Fund Board
 
 - 1. Status of Board The Board shall not be the servant or agent of the Government nor shall it enjoy any status, immunity or privilege of the Government. (Amended 23 of 2002 s. 32)
 
@@ -46,14 +46,10 @@ PROTECTION OF WAGES ON INSOLVENCY FUND BOARD
 
 - 7. Board may delegate to Commissioner The Board may by resolution, with or without restrictions or conditions as it thinks fit, delegate in writing to the Commissioner any of its powers and duties other than its power under section 4(1)(b) or 17(3).
 
-- 8.
-
-- Committees
-
-- The Board may create and appoint such committees for any general or special purposes as it thinks fit and, in relation to such committees,—
+- 8. Committees The Board may create and appoint such committees for any general or special purposes as it thinks fit and, in relation to such committees,—
 
   - (a) the Chairman shall be appointed by the Board; and
 
   - (b) the Chairman and at least 2 out of every 3 persons appointed to a committee shall be members of the Board.
 
-- 9. Board may delegate to Committee The Board may by resolution, with or without restrictions or conditions as it thinks fit, delegate in writing to any committee appointed under paragraph 8 any of its powers and duties other than its power under section 4(1)(b) or 17(3). _ Note : Section 4 of 15 of 1993 which amended the Protection of Wages on Insolvency Ordinance is a transitional provision that affects this Ordinance.
+- 9. Board may delegate to Committee The Board may by resolution, with or without restrictions or conditions as it thinks fit, delegate in writing to any committee appointed under paragraph 8 any of its powers and duties other than its power under section 4(1)(b) or 17(3).

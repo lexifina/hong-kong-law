@@ -2,7 +2,7 @@
 
 [regs. 4, 6, 8, 18, 21, 26, 28, 30, 32, 34, 42 & 46]
 
-- PART I FEES AND CHARGES Fees and charges payable under the regulations shall be—
+- Part 1 Fees and Charges Fees and charges payable under the regulations shall be—
 
   - 1. Under regulation 6(5)— Making a connection to the main and installing (including reinstatement of the ground surface) the part of a fire service or inside service on land held by the Government— (29 of 1998 s. 105)
 
@@ -20,9 +20,9 @@
 
   - (L.N. 176 of 1996; L.N. 358 of 2000; L.N. 41 of 2001; L.N. 129 of 2010; L.N. 89 of 2012)
 
-- PART II SUPERVISION CHARGE (Regulation 8) The charge for supervision of work carried out by the Water Authority, other than work for which a fee is prescribed in this Schedule, shall be 20% of the actual cost of such work.
+- Part 2 Supervision Charge (Regulation 8) The charge for supervision of work carried out by the Water Authority, other than work for which a fee is prescribed in this Schedule, shall be 20% of the actual cost of such work.
 
-- PART III CHARGE FOR FRESH WATER
+- Part 3 Charge for Fresh Water
 
 - (Regulation 46)
 
@@ -30,13 +30,13 @@
 
   - Charge per unit
 
-  - (a) for construction purposes . (b) for domestic purposes (other than flushing), per 4 month period— (i) for the first 12 units . (ii) for the next 31 units . (iii) for the next 19 units . (iv) for the remainder . (c) for flushing purposes, per 4 month period— (i) for the first 30 units . (ii) for the remainder . (d) for shipping purposes referred to in paragraph (a) of the definition of “shipping purpose” . (e) for shipping purposes referred to in paragraph (b) of the definition of “shipping purpose” . (f) for trade purposes . (g) for any purpose (other than shipping purposes referred to in paragraph (a) of the definition of “shipping purpose”) where payment is made against a prepaid ticket issued by the Director of Accounting Services . | $ 7.11 $ NIL $ 4.16 $ 6.45 $ 9.05 $ NIL $ 4.58 $10.93 $ 4.58 $ 4.58 $ 4.58
+  - (a) for construction purposes . (b) for domestic purposes (other than flushing), per 4 month period— (i) for the first 12 units . (ii) for the next 31 units . (iii) for the next 19 units . (iv) for the remainder . (c) for flushing purposes, per 4 month period— (i) for the first 30 units . (ii) for the remainder . (d) for shipping purposes referred to in paragraph (a) of the definition of shipping purpose . (e) for shipping purposes referred to in paragraph (b) of the definition of shipping purpose . (f) for trade purposes . (g) for any purpose (other than shipping purposes referred to in paragraph (a) of the definition of shipping purpose) where payment is made against a prepaid ticket issued by the Director of Accounting Services . | $ 7.11 $ NIL $ 4.16 $ 6.45 $ 9.05 $ NIL $ 4.58 $10.93 $ 4.58 $ 4.58 $ 4.58
 
   - (L.N. 291 of 1996; L.N. 292 of 1996)
 
   - 2. Where a charge under item 1(b) or (c) of this Part is calculated on a computerized basis, a reference in that item to “4 month period” shall be read as a reference to 121.64 days. (L.N. 176 of 1996)
 
-- PART IV CHARGES FOR EXAMINATION OF WATER
+- Part 4 Charges for Examination of Water
 
 - (Regulation 46B)
 
@@ -46,7 +46,7 @@
 
   - (a) for a general chemical analysis (comprising all standard tests*) . (b) for an individual standard test* . (c) for a non-standard test (other than a non-standard test referred to in paragraph (d) or (e)) . (d) for a British Pharmaceutical test for water for injection purposes . (e) for a general bacteriological examination . 2. Charge for each attendance to collect any sample or samples . 3. Charge for additional copy of examination report . | $2,680 $ 235 $ 460 $1,060 $ 540 $1,020 $ 1
 
-    - * For the purpose of this Part, “standard test” (標準測試) means a test to determine any one of the following—
+    - * For the purpose of this Part, standard test (標準測試) means a test to determine any one of the following—
 
     - Turbidity; Ortho-phosphate; Total hardness; Oxygen absorbed value; Conductivity; Manganese; Chlorides; Residual chlorine; | Nitrite nitrogen; pH value; Fluorides; Calcium; Suspended solids; Ammoniacal nitrogen; Aluminium; Sulphates; | Total alkalinity; Nitrate nitrogen; Colour; Iron; Magnesium; Dissolved solids; Albuminoid nitrogen; Silica.
 

@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 96, 105 & 106]
 
-REMOVAL AND STORAGE CHARGES
+Removal and Storage Charges
 
 $
 

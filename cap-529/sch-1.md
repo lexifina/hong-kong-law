@@ -1,10 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 4 & 28]
 
-PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
-
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+Provisions as respects the Board and its Members
 
 - 1.
 
@@ -12,7 +10,7 @@ PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
 
   - (2) A member of the Board may at any time by notice in writing to the Secretary for Food and Health resign his office. (Amended 78 of 1999 s. 7; L.N. 106 of 2002; L.N. 130 of 2007)
 
-- 2. If the Secretary for Food and Health is satisfied that a member of the Board—
+- 2. If the Secretary for Food and Health is satisfied that a member of the Board— (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
   - (a) has become bankrupt or made a voluntary arrangement with his creditors within the meaning of the Bankruptcy Ordinance (Cap. 6);
 
@@ -38,8 +36,6 @@ PROVISIONS AS RESPECTS THE BOARD AND ITS MEMBERS
 
 - 4. The Board may transact any of its business by circulation of papers amongst members whether any such member is in or outside Hong Kong, and a resolution in writing which is approved in writing by a majority of the members shall be as valid and effectual as if it had been passed at a meeting of the Board.
 
-- 5. A certificate signed by the Secretary that an instrument of the Board purporting to be
-
-- made or issued by or on behalf of the Board was so made or issued shall be conclusive evidence of that fact.
+- 5. A certificate signed by the Secretary that an instrument of the Board purporting to be made or issued by or on behalf of the Board was so made or issued shall be conclusive evidence of that fact.
 
 - 6. Every document purporting to be an instrument made or issued by or on behalf of the Board and to be signed or executed by the Secretary or a person authorized by the Board to act in that behalf, shall be received in evidence and deemed, without further proof, to be so made or issued.

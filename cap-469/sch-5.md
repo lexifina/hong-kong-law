@@ -1,24 +1,22 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 21 & 39]
 
-AMOUNT OF COMPENSATION
+Amount of Compensation
 
 - 1. The amount of compensation payable to a claimant is a lump sum which is obtained by multiplying the percentage of permanent incapacity or additional permanent incapacity of the claimant determined under section 20 of this Ordinance by either of the following 2 sums, whichever is the less— (Amended 6 of 2010 s. 25)
 
   - (a) the higher of—
 
-    - (i) a sum calculated by multiplying the monthly earnings of the claimant by the appropriate factor in column 2 of Table 1 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table—
+    - (i) a sum calculated by multiplying the monthly earnings of the claimant by the appropriate factor in column 2 of Table 1 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table— Table 1
 
-- TABLE 1
+    - Age | Multiplying factor
 
-- Age | Multiplying factor
+    - under 40 40 to under 56 56 and above | 96 72 48; or
 
-- under 40 40 to under 56 56 and above | 96 72 48; or
+    - (ii) the sum of $386,110; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012)
 
-  - (ii) the sum of $386,110; or (Amended 16 of 2003 s. 24; L.N. 128 of 2012)
-
-  - (b) the appropriate sum specified in column 2 of Table 2 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table— TABLE 2
+  - (b) the appropriate sum specified in column 2 of Table 2 according to the age of the claimant at the relevant date of application as specified in column 1 of that Table— Table 2
 
   - Age | Sum
 
@@ -76,13 +74,13 @@ AMOUNT OF COMPENSATION
 
 - 4.
 
-  - In this Schedule, subject to section 5, “relevant date of application” (提出申請的有關日期) means the date of an application for compensation under section 15 of this Ordinance by a claimant and pursuant to that application compensation is payable or was paid to the claimant.
+  - In this Schedule, subject to section 5, relevant date of application (提出申請的有關日期) means the date of an application for compensation under section 15 of this Ordinance by a claimant and pursuant to that application compensation is payable or was paid to the claimant.
 
 - (Amended 6 of 2010 s. 25)
 
 - 5.
 
-  - In calculating the amount of compensation payable to a claimant on the basis of the noise-induced deafness of the claimant determined under section 48(4) of this Ordinance, “relevant date of application” (提出申請的有關日期) means—
+  - In calculating the amount of compensation payable to a claimant on the basis of the noise-induced deafness of the claimant determined under section 48(4) of this Ordinance, relevant date of application (提出申請的有關日期) means—
 
     - (a) for the purposes of sections 1 and 3(a), the date of the previous unsuccessful application mentioned in section 48(3)(b) of this Ordinance or, where there was more than one such previous unsuccessful application, the date of the last such application; and
 
@@ -92,10 +90,10 @@ AMOUNT OF COMPENSATION
 
 - 6.
 
-  - In calculating the amount of compensation payable to a claimant on the basis of the noise-induced deafness of the claimant determined under section 48(9) of this Ordinance, “relevant date of application” (提出申請的有關日期) means—
+  - In calculating the amount of compensation payable to a claimant on the basis of the noise-induced deafness of the claimant determined under section 48(9) of this Ordinance, relevant date of application (提出申請的有關日期) means—
 
     - (a) for the purposes of sections 1 and 3(a), the date of the self-arranged audiometric test mentioned in section 48(5)(a) of this Ordinance or, where there was more than one such test, the date of the last such test; and
 
     - (b) for the purposes of section 3(c), the date of the commencement of section 48(9) of this Ordinance.
 
-- (Added 6 of 2010 s. 25)
+- (Added 6 of 2010 s. 25) (Format changes—E.R. 2 of 2012)

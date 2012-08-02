@@ -1,7 +1,9 @@
-TELECOMMUNICATIONS (METHOD FOR DETERMINING SPECTRUM UTILIZATION FEE) (CODE DIVISION MULTIPLE ACCESS MOBILE TELECOMMUNICATIONS SERVICE) REGULATION
+Telecommunications (Method for Determining Spectrum Utilization Fee) (Code Division Multiple Access Mobile Telecommunications Service) Regulation
 
-(Made by the Secretary for Commence, Industry and Technology under
+(Cap. 106, section 32I)
 
-section 32I of the Telecommunications Ordinance (Cap. 106))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [13 July 2007]
+
+(Format changes—E.R. 2 of 2012)

@@ -1,9 +1,9 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 9 & 40]
 
-FEE TO ACCOMPANY APPLICATION FOR PERMIT UNDER SECTION 9 OF THIS ORDINANCE
+Fee to Accompany Application for Permit under Section 9 of this Ordinance
 
 $235
 
-(Amended L.N. 20 of 2008; L.N. 17 of 2012)
+(Amended L.N. 20 of 2008; L.N. 17 of 2012) (Format changes—E.R. 2 of 2012)

@@ -2,20 +2,20 @@
 
 [reg. 29]
 
-FIGURE No.1
+(Format changes—E.R. 2 of 2012)
 
-END OF PERMITTED AREA FOR
+Figure No. 1
 
-NEW TERRITORIES TAXIS
+End of Permitted Area for New Territories Taxis
 
-THIS SIGN MAY BE USED TO INDICATE THE AREA LIMITATIONS BEYOND WHICH A TAXI THAT IS ONLY LICENSED TO BE AVAILABLE FOR HIRE OR TO CARRY PASSENGERS WITHIN THE NEW TERRITORIES SHALL NOT OPERATE
+This sign may be used to indicate the area limitations beyond which a taxi that is only licensed to be available for hire or to carry passengers within the New Territories shall not operate.
 
 (L.N. 262 of 1984)
 
-FIGURE No.2 END OF PERMITTED AREA
+Figure No. 2
 
-FOR LANTAU TAXIS
+End of Permitted Area for Lantau Taxis
 
-THIS SIGN MAY BE USED TO INDICATE THE AREA LIMITATIONS BEYOND WHICH A TAXI THAT IS ONLY LICENSED TO BE AVAILABLE FOR HIRE OR TO CARRY PASSENGERS WITHIN LANTAU SHALL NOT OPERATE.
+This sign may be used to indicate the area limitations beyond which a taxi that is only licensed to be available for hire or to carry passengers within Lantau shall not operate.
 
 (L.N. 172 of 1997)

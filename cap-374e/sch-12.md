@@ -2,7 +2,9 @@
 
 [reg. 46A(3)(b)]
 
-Particulars to be contained in written authorization
+Particulars to be Contained in Written Authorization
+
+(Format changes—E.R. 2 of 2012)
 
 - 1. Number of the trade plate issued in respect of the trade licence
 

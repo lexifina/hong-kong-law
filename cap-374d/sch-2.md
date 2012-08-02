@@ -2,20 +2,18 @@
 
 [reg. 12]
 
-Passenger service licence certificate and plate
+(Format changes—E.R. 2 of 2012)
 
-DIMENSIONS OF THE FIGURES IN THIS SCHEDULE ARE
+Dimensions of the Figures in this Schedule are in Millimetres Unless Otherwise Indicated
 
-IN MILLIMETRES UNLESS OTHERWISE INDICATED
-
-FIGURE NO.1
+Figure No. 1
 
 (Repealed L.N. 185 of 1988)
 
-FIGURE NO.2
+Figure No. 2
 
-PASSENGER SERVICE LICENCE PLATE
+Passenger Service Licence Plate
 
-PLATE TO BE DISPLAYED AT THE BACK OF A VEHICLE.
+Plate to be displayed at the back of a vehicle.
 
-FOR VEHICLE USED ON A SCHEDULED SERVICE - GREEN IN PLACE OF RED.
+For vehicle used on a scheduled service—green in place of red.

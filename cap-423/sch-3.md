@@ -1,14 +1,12 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 14 & 31]
 
-AMOUNT OF LEVY SPECIFIED FOR THE PURPOSES OF SECTION 14(2)
+Amount of Levy Specified for the Purposes of Section 14(2)
 
-AMOUNT OF LEVY SPECIFIED FOR THE
+$0*
 
-PURPOSES OF SECTION 14(2) $0*
-
-(Amended L.N. 208 of 2008)
+(Amended L.N. 208 of 2008) (Format changes—E.R. 2 of 2012)
 
 Editorial Note:
 

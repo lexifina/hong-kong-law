@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
 [s. 114]
 
-MINOR AND CONSEQUENTIAL AMENDMENTS
+Minor and Consequential Amendments
 
 Enactment | Amendment
 

@@ -1,10 +1,10 @@
 # Schedule 16
 
-[regulation 7E]
+[reg. 7E]
 
 Vehicle Design Standards (Emission) for Certain Motor Vehicles Registered on or after 1 June 2012
 
-- Part I
+- Part 1
 
   - (a) European Union Motor Vehicle Emission Standards, comprising all of the following requirements—
 
@@ -34,7 +34,7 @@ Vehicle Design Standards (Emission) for Certain Motor Vehicles Registered on or 
 
     - (iii) All the type approval requirements administered by the Ministry of Land, Infrastructure, Transport and Tourism of Japan.
 
-- Part II
+- Part 2
 
   - (a) European Union Motor Vehicle Emission Standards, comprising all of the following requirements—
 
@@ -54,7 +54,7 @@ Vehicle Design Standards (Emission) for Certain Motor Vehicles Registered on or 
 
       - (B) emission standards and supplemental requirements for heavy-duty vehicle models equipped with compression-ignition engines manufactured on and after 2007.
 
-    - (iii) All the type approval requirements administered by the Environmental Protection Agency United States of America.
+    - (iii) All the type approval requirements administered by the Environmental Protection Agency of the United States of America.
 
   - (c) Japan Motor Vehicles Emission Standards, comprising all of the following requirements—
 
@@ -68,4 +68,4 @@ Vehicle Design Standards (Emission) for Certain Motor Vehicles Registered on or 
 
     - (iii) All the type approval requirements administered by the Ministry of Land, Infrastructure, Transport and Tourism of Japan.
 
-- (Schedule 16 added L.N. 46 of 2012)
+- (Schedule 16 added L.N. 46 of 2012. E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)

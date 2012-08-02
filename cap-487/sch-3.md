@@ -2,4 +2,6 @@
 
 [ss. 12, 57, 63 & 87]
 
-PROVISIONS SPECIFIED FOR PURPOSES OF SECTION 12(3)(c)
+Provisions Specified for Purposes of Section 12(3)(c)
+
+(Format changes—E.R. 2 of 2012)

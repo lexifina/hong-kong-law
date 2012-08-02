@@ -1,12 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2 & 40]
 
-CHEMICALS LISTED FOR THE PURPOSES OF THE DEFINITION OF “SCHEDULE 3 CHEMICAL”
+Chemicals Listed for the Purposes of the Definition of Schedule 3 Chemical
 
-CAS registry
-
-number
+CAS registry number
 
 A. | Toxic chemicals:
 
@@ -45,3 +43,5 @@ B. | Precursors:
 (16) | Methyldiethanolamine | (105-59-9)
 
 (17) | Triethanolamine | (102-71-6)
+
+(Format changes—E.R. 2 of 2012)

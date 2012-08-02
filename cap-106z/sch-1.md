@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 5]
 
-TECHNICAL CRITERIA FOR APPARATUS USED, ETC. AS MOBILE EARTH STATIONS
+Technical Criteria for Apparatus Used, etc. as Mobile Earth Stations
 
 - 1. The operating frequency for transmission shall be within the frequency bands 1610 MHz to 1660.5 MHz, 1668 MHz to 1675 MHz or 1980 MHz to 2010 MHz.
 

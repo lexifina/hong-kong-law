@@ -1,7 +1,13 @@
-TELECOMMUNICATIONS (DETERMINING SPECTRUM UTILIZATION FEES BY AUCTION) REGULATION
+Telecommunications (Determining Spectrum Utilization Fees by Auction) Regulation
 
-(Made by the Secretary for Commence and Economic Development under
+(Cap. 106, section 32I)
 
-section 32I of the Telecommunications Ordinance (Cap. 106))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [4 July 2008]
+
+(*Format changes—E.R. 2 of 2012)
+
+Editorial Note:
+
+* The format of the Regulation has been updated to the current legislative styles.

@@ -3,3 +3,5 @@ To provide for the vesting of functions of the Broadcasting Authority in the Com
 (Amended 17 of 2011 s. 28)
 
 [1 September 1987] L.N. 277 of 1987
+
+(Format changes—E.R. 2 of 2012)

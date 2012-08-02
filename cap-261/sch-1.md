@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 8]
 
-EXAMINATIONS
+Examinations
 
 The examination known at the commencement of the Hong Kong Examinations Authority (Amendment) Ordinance 1987 (14 of 1987) as The Hong Kong Advanced Level Examination.
 

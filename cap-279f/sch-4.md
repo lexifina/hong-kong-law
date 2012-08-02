@@ -1,43 +1,47 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 6]
 
-PRINCIPALS
+Principals
 
-- PART 1 PROVISIONS EXEMPTED The following provisions of the Ordinance—
+- Part 1 Provisions Exempted
 
-  - (a) section 39(2)(c) (Duties of supervisor);
+  - The following provisions of the Ordinance—
 
-  - (b) section 53 (Approval of first principal of school);
+    - (a) section 39(2)(c) (Duties of supervisor);
 
-  - (c) section 54 (Grounds for refusal to approve principal);
+    - (b) section 53 (Approval of first principal of school);
 
-  - (d) section 55 (Tenure of office of principal);
+    - (c) section 54 (Grounds for refusal to approve principal);
 
-  - (e) section 56 (Grounds for withdrawal of approval of principal);
+    - (d) section 55 (Tenure of office of principal);
 
-  - (f) section 57 (Approval of subsequent principals);
+    - (e) section 56 (Grounds for withdrawal of approval of principal);
 
-  - (g) section 58AA (Performance of functions of principal by candidate);
+    - (f) section 57 (Approval of subsequent principals);
 
-  - (h) section 87(2)(c) and (3)(g) (Offences and penalties).
+    - (g) section 58AA (Performance of functions of principal by candidate);
 
-- PART 2 CONDITIONS FOR EXEMPTION The supervisor of an exempted school shall—
+    - (h) section 87(2)(c) and (3)(g) (Offences and penalties).
 
-  - (a) appoint a teacher to be the principal of the school;
+- Part 2 Conditions for Exemption
 
-  - (b) within one month after the appointment of the principal, inform the Permanent Secretary in writing of the following particulars concerning the principal—
+  - The supervisor of an exempted school shall—
 
-    - (i) name;
+    - (a) appoint a teacher to be the principal of the school;
 
-    - (ii) identity card number;
+    - (b) within one month after the appointment of the principal, inform the Permanent Secretary in writing of the following particulars concerning the principal—
 
-    - (iii) qualifications;
+      - (i) name;
 
-    - (iv) date of birth;
+      - (ii) identity card number;
 
-    - (v) effective date of appointment to be a principal; and
+      - (iii) qualifications;
 
-    - (vi) any other information required by the Permanent Secretary under regulation 94 of the Education Regulations (Cap. 279 sub. leg. A);
+      - (iv) date of birth;
 
-  - (c) if there is any change to the particulars under paragraph (b), within one month of becoming aware of the change, inform the Permanent Secretary in writing of the change.
+      - (v) effective date of appointment to be a principal; and
+
+      - (vi) any other information required by the Permanent Secretary under regulation 94 of the Education Regulations (Cap. 279 sub. leg. A);
+
+    - (c) if there is any change to the particulars under paragraph (b), within one month of becoming aware of the change, inform the Permanent Secretary in writing of the change.

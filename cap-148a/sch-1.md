@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [reg. 2(1)]
 
-FORM 1
+Form 1
 
 Application No. .
 
@@ -14,9 +14,7 @@ APPLICATION FOR LOTTERY LICENCE
 
 BEFORE completing this application READ the Note below.
 
-I . hereby apply for a licence to promote and conduct a lottery.
-
-In support of my application I attach Form .
+I . hereby apply for a licence to promote and conduct a lottery. In support of my application I attach Form .
 
 (See Note 2 below)
 
@@ -70,7 +68,7 @@ to be used for .
 
 - (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000 ; L.N. 92 of 2002; 17 of 2011 s. 28)
 
-- FORM 2
+- _ Form 2
 
 - Application No. .
 
@@ -124,7 +122,7 @@ to be used for .
 
 - (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
 
-- FORM 3
+- _ Form 3
 
 - Application No. .
 
@@ -176,7 +174,7 @@ to be used for .
 
 - (L.N. 164 of 1977; L.N. 72 of 1989; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
 
-- FORM 4
+- _ Form 4
 
 - Application No. .
 
@@ -188,7 +186,9 @@ to be used for .
 
 - BEFORE completing this application READ the Note below.
 
-- I . hereby apply for a licence to organize and conduct a trade promotion competition. In support of my application I attach Form .
+- I . hereby apply for a licence to organize and conduct a trade promotion competition.
+
+- In support of my application I attach Form .
 
 - (see Note 2 below)
 
@@ -260,7 +260,9 @@ to be used for .
 
 - (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; L.N. 54 of 1993; L.N. 213 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; L.N. 325 of 2000; 17 of 2011 s. 28)
 
-- FORM 5
+- _
+
+- Form 5
 
 - Application No. .
 
@@ -324,17 +326,23 @@ to be used for .
 
 - 3. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
-- 4. If the public officer decides to grant a licence, a fee of $1,145 per table will be payable to the public officer. (L.N. 164 of 1977; 75 of 1992 s. 41; L.N. 523 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; 17 of 2011 s. 28)
+- 4.
 
-FORM 6 | [regulation 3(1)]
+- If the public officer decides to grant a licence, a fee of $1,145 per table will be payable to the public officer.
 
-In support of Application No. .
+- (L.N. 164 of 1977; 75 of 1992 s. 41; L.N. 523 of 1994; L.N. 451 of 1995; L.N. 460 of 1996; L.N. 500 of 1997; 17 of 2011 s. 28)
 
-GAMBLING REGULATIONS
+- _
 
-To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+- Form 6 | [regulation 3(1)]
 
-BEFORE completing this form READ the Note below.
+- In support of Application No. .
+
+- GAMBLING REGULATIONS
+
+- To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+
+- BEFORE completing this form READ the Note below.
 
 - 1. Name of applicant .
 
@@ -364,17 +372,23 @@ BEFORE completing this form READ the Note below.
 
 - 12. Has the applicant ever been convicted of an offence? Yes/No If “Yes”, give details . . (court where convicted, date of conviction, offence and penalty) . I certify that the information supplied by me in this form is to the best of my knowledge and belief, both true and correct. Dated this . day of . 19 . . (Signature) - Note: 1. Complete this form only if you are not making application on behalf of a company or on behalf of a club or society in respect of which the Societies Ordinance (Cap. 151) applies.
 
-- 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; 17 of 2011 s. 28)
+- 2.
 
-FORM 7 | [regulation 3(2)]
+- You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
-In support of Application No.
+- (L.N. 164 of 1977; L.N. 110 of 1980; 75 of 1992 s. 41; 17 of 2011 s. 28)
 
-GAMBLING REGULATIONS
+- _
 
-To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+- Form 7 | [regulation 3(2)]
 
-BEFORE completing this form READ the Note below.
+- In support of Application No.
+
+- GAMBLING REGULATIONS
+
+- To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+
+- BEFORE completing this form READ the Note below.
 
 - 1. Full name of company . .
 
@@ -442,17 +456,23 @@ BEFORE completing this form READ the Note below.
 
 - - Note: 1. Complete this form only if you are making application on behalf of a company.
 
-- 2. You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence. (L.N. 164 of 1977; L.N. 110 of 1980; 17 of 2011 s. 28)
+- 2.
 
-FORM 8 | [regulation 3(3)]
+- You are warned that any material falsification or omission of information may result in the public officer’s refusal to grant a licence.
 
-In support of Application No. .
+- (L.N. 164 of 1977; L.N. 110 of 1980; 17 of 2011 s. 28)
 
-GAMBLING REGULATIONS
+- _
 
-To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+- Form 8 | [regulation 3(3)]
 
-BEFORE completing this form READ the Note below.
+- In support of Application No. .
+
+- GAMBLING REGULATIONS
+
+- To the public officer appointed by the Secretary for Home Affairs (“the public officer”)
+
+- BEFORE completing this form READ the Note below.
 
 - 1. Name of society or club . .
 

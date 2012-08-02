@@ -1,96 +1,94 @@
-# SCHEDULE
+# Schedule
 
 [by-laws 2, 3, 9 & 16A] (L.N. 114 of 2012)
 
-FIGURE No. 1 LANE SIGNAL
+Figure No. 1 Lane Signal
 
-THIS SIGN WHEN DISPLAYED CONVEYS TO VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE AND IN RELATION TO WHICH IT IS DISPLAYED THAT TRAFFIC MAY PROCEED OR CONTINUE TO DO SO IN THE SAID LANE BENEATH OR BEYOND THE SAID ARROW AND IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE ARROW FACES. IT MAY ALSO BE USED AT A TOLL BOOTH TO INDICATE THAT VEHICLES MAY PROCEED IN THAT LANE.
+This sign when displayed conveys to vehicular traffic proceeding in the traffic lane above and in relation to which it is displayed that traffic may proceed or continue to do so in the said lane beneath or beyond the said arrow and in the direction opposite to that in which the arrow faces. It may also be used at a toll booth to indicate that vehicles may proceed in that lane.
 
-FIGURE No. 2 PROCEED RIGHT OR KEEP RIGHT
+Figure No. 2 Proceed Right or Keep Right
 
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO GIVE —
+The direction of the arrow may be reversed to give —
 
-PROCEED LEFT OR KEEP LEFT
+Proceed Left or Keep Left
 
-THIS SIGN INDICATES THAT VEHICLES MUST PROCEED TO THE RIGHT-HAND LANE, OR TO THE LEFT-HAND LANE, IF THE DIRECTION OF THE ARROW IS REVERSED.
+This sign indicates that vehicles must proceed to the right-hand lane, or to the left-hand lane, if the direction of the arrow is reversed.
 
-FIGURE No. 3 LANE SIGNAL
+Figure No. 3 Lane Signal
 
-THIS SIGN WHEN DISPLAYED CONVEYS TO VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE AND IN RELATION TO WHICH IT IS DISPLAYED THE PROHIBITION THAT SUCH TRAFFIC SHALL NOT PROCEED BENEATH OR BEYOND THE RED CROSS IN THE SAID TRAFFIC LANE IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE RED CROSS FACES. IT MAY ALSO BE USED AT A TOLL BOOTH TO INDICATE THAT VEHICLES MAY NOT PROCEED IN THAT LANE.
+This sign when displayed conveys to vehicular traffic proceeding in the traffic lane above and in relation to which it is displayed the prohibition that such traffic shall not proceed beneath or beyond the red cross in the said traffic lane in the direction opposite to that in which the red cross faces. It may also be used at a toll booth to indicate that vehicles may not proceed in that lane.
 
-FIGURE No. 4 LANE SIGNAL
+Figure No. 4 Lane Signal
 
-THE SIGNAL MAY IN A ROAD TUNNEL AREA BE PLACED IN A VERTICAL OR HORIZONTAL POSITION ABOVE OR AT THE SIDE OF A TRAFFIC LANE FOR THE CONTROL OF THAT TRAFFIC PROCEEDING ALONG THE TRAFFIC LANE OVER OR AT THE SIDE OF AND IN RELATION TO WHICH THE SIGNALS HAVE BEEN PLACED, PROVIDED THAT WHEN THE SIGNAL IS PLACED ABOVE THE TRAFFIC LANE THE GREEN ARROW SHALL POINT DOWNWARDS.
+The signal may in a road tunnel area be placed in a vertical or horizontal position above or at the side of a traffic lane for the control of that traffic proceeding along the traffic lane over or at the side of and in relation to which the signals have been placed, provided that when the signal is placed above the traffic lane the green arrow shall point downwards.
 
-THE SIGNIFICANCE OF THE SIGNAL SHALL BE AS FOLLOWS:—
+The significance of the signal shall be as follows:—
 
-- (i) WHEN A GREEN ARROW IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED MAY PROCEED ALONG THAT LANE.
+- (i) When a green arrow is displayed vehicular traffic proceeding in the traffic lane above or at the side of and in relation to which it is displayed may proceed along that lane.
 
-- (ii) WHEN A STEADY OR INTERMITTENT AMBER LIGHT IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED SHALL PROCEED ALONG THAT LANE WITH CAUTION AND BE PREPARED TO STOP, PROVIDED THAT THE AMBER LIGHT MAY BE OMITTED FROM ANY SIGNAL INSTALLATION WHEN THE SIGNAL SHALL CONSIST OF A LIGHT CAPABLE OF SHOWING A RED CROSS AND A LIGHT CAPABLE OF SHOWING A GREEN ARROW.
+- (ii) When a steady or intermittent amber light is displayed vehicular traffic proceeding in the traffic lane above or at the side of and in relation to which it is displayed shall proceed along that lane with caution and be prepared to stop, provided that the amber light may be omitted from any signal installation when the signal shall consist of a light capable of showing a red cross and a light capable of showing a green arrow.
 
-  - (iii) WHEN A RED CROSS IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE TRAFFIC LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED SHALL NOT PROCEED BENEATH OR BEYOND OR PAST THE RED CROSS. THE SIGNAL MAY BE USED AT TOLL BOOTHS. Figure No. 5 Use Dipped Headlights
+  - (iii) When a red cross is displayed vehicular traffic proceeding in the traffic lane above or at the side of and in relation to which it is displayed shall not proceed beneath or beyond or past the red cross.
+
+The signal may be used at toll booths.
+
+Figure No. 5
+
+Use Dipped Headlights
 
 This sign indicates that all traffic must proceed through the road tunnel on dipped headlights.
 
 (L.N. 114 of 2012)
 
-FIGURE No. 6 SPEED LIMIT
+Figure No. 6 Speed Limit
 
-THIS SIGN INDICATES THAT A SPEED LIMIT OF 50 km PER HOUR IS IMPOSED ON THE SECTION OF THE ROAD IMMEDIATELY FOLLOWING THE SIGN.
+This sign indicates that a speed limit of 50 km per hour is imposed on the section of the road immediately following the sign.
 
-THE SIGN MAY BE USED WITHOUT THE LETTERS “km/h”.
+The sign may be used without the letters “km/h”.
 
-THE SIGN MAY BE ERECTED ON BOTH SIDES OF THE ROAD AND/OR ON A CENTRAL RESERVATION IN THE CASE OF A DUAL CARRIAGEWAY AT THE START OF A RESTRICTION FACING ONCOMING TRAFFIC.
-
-THE 300 mm SIZED SIGN MAY ALSO BE ERECTED AT INTERVALS ALONG THE ROAD TO REMIND MOTORISTS OF THE SPEED LIMIT IN FORCE.
+The sign may be erected on both sides of the road and/or on a central reservation in the case of a dual carriageway at the start of a restriction facing oncoming traffic. The 300 mm sized sign may also be erected at intervals along the road to remind motorists of the speed limit in force.
 
 (L.N. 114 of 2012)
 
-FIGURE No. 7 SPEED LIMIT
+Figure No. 7 Speed Limit
 
-THIS SIGN INDICATES THAT A SPEED LIMIT OF 70 km PER HOUR IS IMPOSED ON THE SECTION OF THE ROAD IMMEDIATELY FOLLOWING THE SIGN.
+This sign indicates that a speed limit of 70 km per hour is imposed on the section of the road immediately following the sign.
 
-THE SIGN MAY BE USED WITHOUT THE LETTERS “km/h”.
+The sign may be used without the letters “km/h”.
 
-THE SIGN MAY BE ERECTED ON BOTH SIDES OF THE ROAD AND/OR ON A CENTRAL RESERVATION IN THE CASE OF A DUAL CARRIAGEWAY AT THE START OF A RESTRICTION FACING ONCOMING TRAFFIC.
-
-THE 300 mm SIZED SIGN MAY ALSO BE ERECTED AT INTERVALS ALONG THE ROAD TO REMIND MOTORISTS OF THE SPEED LIMIT IN FORCE.
+The sign may be erected on both sides of the road and/or on a central reservation in the case of a dual carriageway at the start of a restriction facing oncoming traffic. The 300 mm sized sign may also be erected at intervals along the road to remind motorists of the speed limit in force.
 
 (L.N. 114 of 2012)
 
-FIGURE No. 8 TUNNEL AREA
+Figure No. 8 Tunnel Area
 
-THIS SIGN INDICATES THE START OF THE ROAD TUNNEL AREA WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY THE EASTERN HARBOUR CROSSING ORDINANCE, THE EASTERN HARBOUR CROSSING ROAD TUNNEL REGULATIONS AND THE EASTERN HARBOUR CROSSING ROAD TUNNEL BY-LAWS APPLY.
+This sign indicates the start of the road tunnel area where the prohibitions and restrictions imposed by the Eastern Harbour Crossing Ordinance, the Eastern Harbour Crossing Road Tunnel Regulations and the Eastern Harbour Crossing Road Tunnel By-laws apply.
 
-FIGURE No. 9 TUNNEL AREA END
+Figure No. 9 Tunnel Area End
 
-THIS SIGN INDICATES THE END OF THE ROAD TUNNEL AREA WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY THE EASTERN HARBOUR CROSSING ORDINANCE, THE EASTERN HARBOUR CROSSING ROAD TUNNEL REGULATIONS AND THE EASTERN HARBOUR CROSSING ROAD TUNNEL BY-LAWS APPLY.
+This sign indicates the end of the road tunnel area where the prohibitions and restrictions imposed by the Eastern Harbour Crossing Ordinance, the Eastern Harbour Crossing Road Tunnel Regulations and the Eastern Harbour Crossing Road Tunnel By-laws apply.
 
-FIGURE No. 10 KEEP IN LANE
+Figure No. 10 Keep in Lane
 
-THIS SIGN INDICATES THAT VEHICLES MUST KEEP IN THEIR LANES.
+This sign indicates that vehicles must keep in their lanes.
 
-FIGURE No. 11
+Figure No. 11
 
-KEEP LEFT SIGN FOR TUNNEL
+Keep Left Sign for Tunnel
 
-THE SIGN INDICATES THAT BUSES, MEDIUM AND HEAVY GOODS VEHICLES MUST KEEP TO THE NEARSIDE LANE.
+The sign indicates that buses, medium and heavy goods vehicles must keep to the nearside lane.
 
-FIGURE No. 12 ALL MOTOR VEHICLES PROHIBITED
+Figure No. 12 All Motor Vehicles Prohibited
 
-THIS SIGN PROHIBITS ENTRY TO ALL MOTOR VEHICLES.
+This sign prohibits entry to all motor vehicles. This sign may be used in conjunction with the supplementary plates in Figure Nos. 13, 14 or on direction signs.
 
-THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATES IN FIGURE Nos. 13, 14 OR ON DIRECTION SIGNS.
+Figure No. 13
 
-FIGURE No. 13
+This plate will be used attached to signs to indicate the exception of franchised buses to the particular restriction in Figure No. 12. The words ‘franchised buses’ may be varied to accord with the specified type or class or description of vehicle excepted.
 
-THIS PLATE WILL BE USED ATTACHED TO SIGNS TO INDICATE THE EXCEPTION OF FRANCHISED BUSES TO THE PARTICULAR RESTRICTION IN FIGURE NO. 12.
+Figure No. 14
 
-THE WORDS ‘FRANCHISED BUSES’ MAY BE VARIED TO ACCORD WITH THE SPECIFIED TYPE OR CLASS OR DESCRIPTION OF VEHICLE EXCEPTED.
-
-FIGURE No. 14
-
-THIS PLATE MAY BE USED WITH THE SIGNS IN FIGURE No. 12.
+This plate may be used with the signs in Figure No. 12.
 
 Figure No. 15
 
@@ -100,27 +98,25 @@ When this sign is displayed over a toll booth or booths adjacent to a traffic la
 
 (L.N. 114 of 2012)
 
-FIGURE No. 16 DANGEROUS GOODS PROHIBITED
+Figure No. 16 Dangerous Goods Prohibited
 
-THIS SIGN INDICATES THAT VEHICLES CARRYING DANGEROUS GOODS OF PARTICULAR CATEGORIES ARE PROHIBITED FROM PASSING BEYOND THE SIGN.
+This sign indicates that vehicles carrying dangerous goods of particular categories are prohibited from passing beyond the sign. It may be used in conjunction with the sign in Figure No. 17.
 
-IT MAY BE USED IN CONJUNCTION WITH THE SIGN IN FIGURE No. 17.
+Figure No. 17
 
-FIGURE No. 17
+This sign when used in conjunction with the sign in Fig. No. 16 indicates the category or categories of dangerous goods referred to in that figure.
 
 (80 of 1997 s. 102)
 
-THIS SIGN WHEN USED IN CONJUNCTION WITH THE SIGN IN FIG. No. 16 INDICATES THE CATEGORY OR CATEGORIES OF DANGEROUS GOODS REFERRED TO IN THAT FIGURE.
+Figure No. 18 Overheight Detection — Stop Sign
 
-FIGURE No. 18 OVERHEIGHT DETECTION-STOP SIGN
+When the sign is displayed it shall indicate the prohibition that vehicular traffic shall not proceed beyond the sign, unless directed to do so by a tunnel officer.
 
-WHEN THE SIGN IS DISPLAYED IT SHALL INDICATE THE PROHIBITION THAT VEHICULAR TRAFFIC SHALL NOT PROCEED BEYOND THE SIGN, UNLESS DIRECTED TO DO SO BY A TUNNEL OFFICER.
+Figure No. 19 Transverse Yellow Bar Markings
 
-FIGURE No. 19 TRANSVERSE YELLOW BAY MARKINGS
+To indicate to drivers the need to reduce the speed of their vehicles.
 
-TO INDICATE TO DRIVERS THE NEED TO REDUCE THE SPEED OF THEIR VEHICLES.
-
-*Figure No. 20
+Figure No. 20
 
 Lane
 
@@ -130,7 +126,7 @@ This sign is displayed above a lane that leads to an autotoll booth. It indicate
 
 (L.N. 114 of 2012)
 
-*Figure No. 21
+Figure No. 21
 
 Autotoll Booth
 
@@ -138,32 +134,28 @@ When this sign is displayed at the side of a toll booth it indicates that the to
 
 (L.N. 114 of 2012)
 
-FIGURE No. 22
+Figure No. 22
 
-AUTOTOLL PAYMENT SIGNAL
+Autotoll Payment Signal
 
-THIS SIGNAL IS PLACED IN A VERTICAL POSITION AT THE SIDE OF A TRAFFIC LANE DEDICATED FOR USE OF AN AUTOMATIC TOLL COLLECTION FACILITY. IT MAY BE USED IN CONJUNCTION WITH THE SIGNAL IN FIGURE NO. 23.
+This signal is placed in a vertical position at the side of a traffic lane dedicated for use of an automatic toll collection facility. It may be used in conjunction with the signal in Figure No. 23.
 
-- THE SIGNIFICANCE OF THE SIGNAL SHALL BE AS FOLLOWS—
+- The significance of the signal shall be as follows—
 
-- (i) THE DISPLAY OF A RED SIGNAL INDICATES THAT THE APPROPRIATE TOLL PAYMENT HAS NOT BEEN MADE.
+- (i) The display of a red signal indicates that the appropriate toll payment has not been made.
 
-- (ii) THE DISPLAY OF A GREEN SIGNAL INDICATES THAT THE APPROPRIATE TOLL PAYMENT HAS BEEN MADE.
-
-(L.N. 297 of 1995)
-
-FIGURE No. 23 AUTOTOLL ACCOUNT BALANCE SIGNAL
-
-THIS SIGNAL IS PLACED IN A VERTICAL POSITION AT THE SIDE OF A TRAFFIC LANE DEDICATED FOR USE OF AN AUTOMATIC TOLL COLLECTION FACILITY. IT MAY BE USED IN CONJUNCTION WITH THE SIGNAL IN FIGURE NO. 22.
-
-- THE SIGNIFICANCE OF THE SIGNAL SHALL BE AS FOLLOWS—
-
-- (i) THE DISPLAY OF THE RED DOLLAR SIGN INDICATES THAT THE ACCOUNT BALANCE WITH THE ROAD COMPANY OR ITS AGENT IN RESPECT OF THE ELECTRONIC PASS IS NIL.
-
-- (ii) THE DISPLAY OF THE AMBER DOLLAR SIGN INDICATES THAT THE ACCOUNT BALANCE WITH THE ROAD COMPANY OR ITS AGENT IN RESPECT OF THE ELECTRONIC PASS IS LESS THAN THE AMOUNT SPECIFIED BY THE ROAD COMPANY OR ITS AGENT.
+  - (ii) The display of a green signal indicates that the appropriate toll payment has been made.
 
 (L.N. 297 of 1995)
 
-_
+Figure No. 23 Autotoll Account Balance Signal
 
-* For transitional provision relating to the amendments made by the Eastern Harbour Crossing Road Tunnel (Amendment) Bylaw 2012 (L.N. 114 of 2012) , see section 14 of the Amendment Bylaw.
+This signal is placed in a vertical position at the side of a traffic lane dedicated for use of an automatic toll collection facility. It may be used in conjunction with the signal in Figure No. 22.
+
+- The significance of the signal shall be as follows—
+
+- (i) The display of the red dollar sign indicates that the account balance with the Road Company or its agent in respect of the electronic pass is nil.
+
+  - (ii) The display of the amber dollar sign indicates that the account balance with the Road Company or its agent in respect of the electronic pass is less than the amount specified by the Road Company or its agent.
+
+(L.N. 297 of 1995)

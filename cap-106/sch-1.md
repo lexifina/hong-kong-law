@@ -1,8 +1,14 @@
-# SCHEDULE 1
+Editorial Note:
+
+* Commencement date : 1 April 2012.
+
+# Schedule 1
 
 [ss. 2(1) & 7(4)] (Amended 30 of 2003 s. 10)
 
-LICENCES WHICH ARE NOT CARRIER LICENCES WITHIN THE MEANING OF SECTION 2
+Licences Which are not Carrier Licences within the Meaning of Section 2
+
+(Schedule 1 added 36 of 2000 s. 27)
 
 - 1. Public Radiocommunications Service Licence for radio paging services
 
@@ -18,4 +24,4 @@ LICENCES WHICH ARE NOT CARRIER LICENCES WITHIN THE MEANING OF SECTION 2
 
 - 7. Satellite Master Antenna Television Licence
 
-- 8. Hotel Television Services Licence (Schedule added 36 of 2000 s. 27)
+- 8. Hotel Television Services Licence

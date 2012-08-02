@@ -2,4 +2,6 @@ An Ordinance to provide for the imposition of requirements relating to customer 
 
 [8 July 2011]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2012)
+
+(Format changes—E.R. 2 of 2012)

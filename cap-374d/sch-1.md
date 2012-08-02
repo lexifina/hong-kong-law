@@ -2,7 +2,9 @@
 
 [regs. 10, 11A & 12] (L.N. 185 of 1988)
 
-- PART A PASSENGER SERVICE LICENCE FEES
+(Format changes—E.R. 2 of 2012)
+
+- Part A Passenger Service Licence Fees
 
   - 1. Public bus service . $396 per annum
 
@@ -14,7 +16,7 @@
 
   - 4. Any duplicate licence (L.N. 185 of 1988) . $125 (L.N. 266 of 1994; L.N. 200 of 1995; L.N. 524 of 1996; L.N. 31 of 1998; L.N. 144 of 1998)
 
-- PART B PASSENGER SERVICE LICENCE CERTIFICATE FEES
+- Part B Passenger Service Licence Certificate Fees
 
   - 1. Public bus . $160 per vehicle per annum
 

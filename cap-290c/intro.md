@@ -1,7 +1,9 @@
-INTERCOUNTRY ADOPTION (CONTRACTING STATES) ORDER
+Intercountry Adoption (Contracting States) Order
 
-(Made by the Secretary for Health, Welfare and Food under
+(Cap. 290, section 20D)
 
-section 20D of the Adoption Ordinance (Cap. 290))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [25 January 2006]
+
+(Format changes—E.R. 2 of 2012)

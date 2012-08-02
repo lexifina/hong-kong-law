@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 3A]
 
-PROHIBITED SUBSTANCES
+Prohibited Substances
 
 - 1. Dienoestrol ((E,E)-4,4’-(diethylideneethylene) diphenol) including salts and esters thereof.
 

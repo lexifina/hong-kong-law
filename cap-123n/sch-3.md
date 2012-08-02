@@ -1,14 +1,14 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 62]
 
-PRESCRIBED BUILDING OR BUILDING WORKS
+Prescribed Building or Building Works
 
-- PART 1 GENERAL
+- Part 1 General
 
-  - In this Schedule, “unauthorized” (違例), when used to describe any structure, means the structure is erected in contravention of any provision of the Ordinance.
+  - In this Schedule, unauthorized (違例), when used to describe any structure, means the structure is erected in contravention of any provision of the Ordinance.
 
-- PART 2 LIST OF PRESCRIBED BUILDING OR BUILDING WORKS
+- Part 2 List of Prescribed Building or Building Works
 
 Item | Description
 

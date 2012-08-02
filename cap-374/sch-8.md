@@ -1,8 +1,8 @@
-# SCHEDULE 8
+# Schedule 8
 
 [ss. 88C, 88D, 88F & 88H]
 
-REQUIREMENTS APPLICABLE TO CAR TESTING CENTRES
+Requirements Applicable to Car Testing Centres
 
 - 1. A car testing centre shall be equipped, staffed, operated and maintained, and examinations of private cars and light goods vehicles shall be conducted, in accordance with the code of practice issued and from time to time revised by the Commissioner under section 88F(1)(a). (Amended L.N. 207 of 1990)
 
@@ -16,7 +16,7 @@ REQUIREMENTS APPLICABLE TO CAR TESTING CENTRES
 
   - (c) in the ownership of the car testing centre, or the financial status of the proprietor, or any other matter specified by the Commissioner.
 
-- 4. Subject to any practice laid down in the code of practice, the car testing centre shall examine any private car or light goods vehicle produced to it for examination for the purposes of Part IXA of the Ordinance. (Amended L.N. 207 of 1990)
+- 4. Subject to any practice laid down in the code of practice, the car testing centre shall examine any private car or light goods vehicle produced to it for examination for the purposes of Part 14A of the Ordinance. (Amended L.N. 207 of 1990)
 
 - 5. Notices in a form approved by the Commissioner shall be prominently displayed at the car testing centre indicating and stating—
 
@@ -38,17 +38,35 @@ REQUIREMENTS APPLICABLE TO CAR TESTING CENTRES
 
   - 6. | Fees
 
-  - (a) Fee payable for designation or renewal of designation of a place as a car testing centre. (Amended L.N. 529 of 1996; L.N. 35 of 1998; L.N. 146 of 1998) | $12,100
+  - (a) | Fee payable for designation or renewal of designation of a place as a car testing centre. (Amended L.N. 529 of 1996; L.N. 35 of 1998; L.N. 146 of 1998) | $12,100
 
-  - (b) Fees to be charged in respect of an examination— (i) Initial examination— (A) Private car (B) Light goods vehicle | $530 $630
+  - (b) | Fees to be charged in respect of an examination—
 
-  - (ii) Re-examination where made within 14 days of initial examination— (A) Private car (B) Light goods vehicle | $165 $210
+  - (i) | Initial examination—
 
-  - (iii) Issue of a duplicate copy of a certificate of roadworthiness— (A) Private car (B) Light goods vehicle (Replaced L.N. 453 of 1995. Amended L.N. 513 of 1995) | $165 $210
+  - (A) | Private car | $530
 
-  - *(c) Fee payable for supply of each form of a certificate of road worthiness— (i) Private car (ii) Light goods vehicle (Added L.N. 50 of 1998) | $58 $58
+  - (B) | Light goods vehicle | $630
 
-- (Schedule 8 added 65 of 1985 s. 4)
+  - (ii) | Re-examination where made within 14 days of initial examination—
+
+  - (A) | Private car | $165
+
+  - (B) | Light goods vehicle | $210
+
+  - (iii) | Issue of a duplicate copy of a certificate of roadworthiness—
+
+  - (A) | Private car | $165
+
+  - (B) | Light goods vehicle (Replaced L.N. 453 of 1995. Amended L.N. 513 of 1995) | $210
+
+  - *(c) | Fee payable for supply of each form of a certificate of road worthiness—
+
+  - (i) | Private car | $58
+
+  - (ii) | Light goods vehicle (Added L.N. 50 of 1998) | $58
+
+- (Schedule 8 added 65 of 1985 s. 4. Amended E.R. 2 of 2012)
 
 Editorial Note:
 

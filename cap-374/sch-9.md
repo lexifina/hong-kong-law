@@ -1,8 +1,8 @@
-# SCHEDULE 9
+# Schedule 9
 
 [ss. 88K, 88L, 88O & 88P]
 
-REQUIREMENTS APPLICABLE TO DESIGNATED DRIVING SCHOOLS
+Requirements Applicable to Designated Driving Schools
 
 - 1. Driving instructors giving driving instruction courses shall be holders of valid driving instructors’ licences issued under regulation 22 of the Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B) and a person who is not the holder of such a licence shall not give such a course.
 

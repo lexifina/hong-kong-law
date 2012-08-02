@@ -1,7 +1,9 @@
-LAND SURVEY (FEES) REGULATION
+Land Survey (Fees) Regulation
 
-(Made by the Governor in Council under section 37 of
+(Cap. 473, section 37)
 
-the Land Survey Ordinance (28 of 1995))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [18 November 1995]
+
+(Format changes—E.R. 2 of 2012)

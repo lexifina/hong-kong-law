@@ -1,7 +1,9 @@
-ELECTORAL AFFAIRS COMMISSION (ELECTORAL PROCEDURE) (ELECTION COMMITTEE) REGULATION
+Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation
 
-(Made by the Electoral Affairs Commission under section 7 of the
+(Format changes—E.R. 2 of 2012)
 
-Electoral Affairs Commission Ordinance (Cap. 541))
+(Cap. 541, section 7)
+
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [12 October 2001]

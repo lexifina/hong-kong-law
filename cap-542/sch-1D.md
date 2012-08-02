@@ -1,8 +1,8 @@
-# SCHEDULE 1D
+# Schedule 1D
 
 [s. 20Z]
 
-COMPOSITION OF THE INFORMATION TECHNOLOGY FUNCTIONAL CONSTITUENCY
+Composition of the Information Technology Functional Constituency
 
 (The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
 
@@ -10,13 +10,13 @@ COMPOSITION OF THE INFORMATION TECHNOLOGY FUNCTIONAL CONSTITUENCY
 
 - (b) the holding of the Legislative Council general election in 2012.)
 
-- PART 1 Item Body
+- Part 1 Item Body
 
   - 1. APT Satellite Company Limited (Amended 10 of 2006 s. 42)
 
   - 2. Asia Satellite Telecommunications Company Limited.
 
-- PART 2
+- Part 2
 
 Item | Body | Eligible persons
 
@@ -28,12 +28,10 @@ Item | Body | Eligible persons
 
 4. | Professional Information Security Association | Full Members who are— (a) confirmed by the Association to have been holders of the Certified Information Systems Security Professional Certification (CISSP) during the relevant period; and (b) entitled to vote at general meetings of the Association.
 
-- PART 3
+- Part 3
 
-  - 1.
+  - 1. Definition
 
-  - Definition
-
-    - In Part 2, “relevant period” (有關期間), in relation to a person, means the period of 4 years immediately preceding the date on which that person applies for registration as an elector of the information technology functional constituency.
+    - In Part 2, relevant period (有關期間), in relation to a person, means the period of 4 years immediately preceding the date on which that person applies for registration as an elector of the information technology functional constituency.
 
   - (Schedule 1D replaced 25 of 2003 s. 47)

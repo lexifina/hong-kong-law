@@ -1,4 +1,6 @@
-ROAD TRAFFIC (REGISTRATION AND LICENSING OF VEHICLES) REGULATIONS
+Road Traffic (Registration and Licensing of Vehicles) Regulations
+
+(Format changes—E.R. 2 of 2012)
 
 (Cap. 374, sections 5 and 6)
 

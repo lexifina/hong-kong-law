@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 86]
 
-FEES FOR VEHICLE EXAMINATIONS
+Fees for Vehicle Examinations
 
 $
 

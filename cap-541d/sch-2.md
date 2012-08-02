@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 3, 65, 75A & 91] (L.N. 66 of 2008)
 
-POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
+Postponement and Adjournment of General Election and By-election
 
 - 1. Postponement of a general election and adjournment of poll at all polling stations or count at all counting stations
 
@@ -86,7 +86,7 @@ POSTPONEMENT AND ADJOURNMENT OF GENERAL ELECTION AND BY-ELECTION
 
   - (4)
 
-    - In this section “Returning Officer” (選舉主任) means a Returning Officer specified by the Chief Electoral Officer for the purposes of this section.
+    - In this section Returning Officer (選舉主任) means a Returning Officer specified by the Chief Electoral Officer for the purposes of this section.
 
 - (L.N. 84 of 2004)
 

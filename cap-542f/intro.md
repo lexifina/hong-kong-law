@@ -1,7 +1,9 @@
-LEGISLATIVE COUNCIL (ELECTION PETITION) RULES
+Legislative Council (Election Petition) Rules
 
-(Made under section 64(3) of the Legislative Council
+(Cap. 542, section 64(3))
 
-Ordinance (134 of 1997))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [16 January 1998]
+
+(Format changes—E.R. 2 of 2012)

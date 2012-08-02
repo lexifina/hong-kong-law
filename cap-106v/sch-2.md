@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 4]
 
-PERIOD OF VALIDITY OF CARRIER LICENCES
+Period of Validity of Carrier Licences
 
 - 1. Fixed carrier licence Subject to section 2, the period of validity of a fixed carrier licence is 15 years from the day on which it is issued. (L.N. 132 of 2008)
 

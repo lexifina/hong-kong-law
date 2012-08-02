@@ -2,4 +2,6 @@ An Ordinance to provide for the creation of enduring powers of attorney and matt
 
 [27 June 1997] L.N. 365 of 1997
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2012)
+
+(Format changes—E.R. 2 of 2012)

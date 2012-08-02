@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 37]
 
-TOY STANDARDS
+Toy Standards
 
 Standards
 
@@ -32,6 +32,4 @@ Standards
 
 (i) BS EN 62115:2005 “Electric toys—Safety”
 
-3. ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F963-08 “Standard consumer safety specification for toy safety”
-
-(Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15)
+- 3. ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F963-08 “Standard consumer safety specification for toy safety” (Schedule 1 replaced 5 of 2010 s. 20. Amended L.N. 184 of 2011; 26 of 2012 s. 15) (Format changes—E.R. 2 of 2012)

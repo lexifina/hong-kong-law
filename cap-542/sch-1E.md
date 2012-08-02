@@ -1,8 +1,8 @@
-# SCHEDULE 1E
+# Schedule 1E
 
 [s. 20ZA]
 
-COMPOSITION OF THE CATERING FUNCTIONAL CONSTITUENCY
+Composition of the Catering Functional Constituency
 
 Item Body
 

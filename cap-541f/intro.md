@@ -1,7 +1,9 @@
-ELECTORAL AFFAIRS COMMISSION (ELECTORAL PROCEDURE) (DISTRICT COUNCILS) REGULATION
+Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation
 
-(Made by the Electoral Affairs Commission under section 7 of
+(Cap. 541, section 7)
 
-the Electoral Affairs Commission Ordinance (Cap. 541))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [1 August 1999]
+
+(Format changes—E.R. 2 of 2012)

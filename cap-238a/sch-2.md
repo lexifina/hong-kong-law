@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Schedule 2
 
 [regs. 10 & 11]
 
-FEES
+Fees
 
 Item | Particular | Fee $
 

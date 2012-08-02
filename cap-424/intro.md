@@ -2,4 +2,10 @@ An Ordinance to provide for safety standards for children’s toys and safety st
 
 [1 July 1993] L.N. 240 of 1993
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2012)
+
+(*Format changes—E.R. 2 of 2012)
+
+Editorial Note:
+
+*The title of the Ordinance has been updated to the current legislative styles.

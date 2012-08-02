@@ -1,8 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [regs. 2, 8 & 12J] (25 of 2005 s. 28)
 
-PROVISIONS AS TO DISPLAY OF REGISTRATION MARKS AND PLATES
+Provisions as to Display of Registration Marks and Plates
+
+(Format changes—E.R. 2 of 2012)
 
 - 1. Form of Display of Registration Marks
 
@@ -10,19 +12,19 @@ PROVISIONS AS TO DISPLAY OF REGISTRATION MARKS AND PLATES
 
     - (i) The letters and numerals of a registration mark (not being a personalized registration mark) shall be displayed—
 
-      - (A) in a single row, as shown in Diagram 1— DIAGRAM 1; or
+      - (A) in a single row, as shown in Diagram 1— Diagram 1; or
 
-      - (B) in 2 rows, with the letters in the upper row and the numerals in the lower row, as shown in Diagram 1A— DIAGRAM 1A.
+      - (B) in 2 rows, with the letters in the upper row and the numerals in the lower row, as shown in Diagram 1A— Diagram 1A.
 
     - (ii) In the case of a personalized registration mark, subject to subparagraph (c), the letters and numerals shall be displayed—
 
-      - (A) (if the certificate of allocation specifies the arrangement in a single row only) in a single row only, as shown in Diagram 2— DIAGRAM 2; or
+      - (A) (if the certificate of allocation specifies the arrangement in a single row only) in a single row only, as shown in Diagram 2— Diagram 2; or
 
       - (B) (if the certificate of allocation specifies the arrangement both in a single row and in 2 rows) either—
 
         - (I) in a single row, as shown in Diagram 2 above; or
 
-        - (II) in 2 rows, as shown in Diagram 2A— DIAGRAM 2A.
+        - (II) in 2 rows, as shown in Diagram 2A— Diagram 2A.
 
     - (iii) If the letters and numerals of a personalized registration mark are displayed in 2 rows, the maximum number of letters and numerals in each row is 4 (counting a blank space as one letter or numeral).
 
@@ -30,7 +32,7 @@ PROVISIONS AS TO DISPLAY OF REGISTRATION MARKS AND PLATES
 
   - (b) Form and Size of Letters and Numerals
 
-    - (i) The letters and numerals of a registration mark for display shall comply with sub-subparagraph (ii) and with the form and proportions shown in Diagram 3— DIAGRAM 3.
+    - (i) The letters and numerals of a registration mark for display shall comply with sub-subparagraph (ii) and with the form and proportions shown in Diagram 3— Diagram 3.
 
     - (ii) All letters and numerals in accordance with Diagram 1, 1A, 2, 2A or 3 shall be not less than 8 cm and not more than 11 cm high, except that— (25 of 2005 s. 28)
 
@@ -62,7 +64,7 @@ PROVISIONS AS TO DISPLAY OF REGISTRATION MARKS AND PLATES
 
   - (a) Except as prescribed in subparagraph (f), the registration mark shall be displayed on the front and on the back of a motor vehicle in a vertical position, so that every letter and numeral of the registration mark is vertical, and is easily distinguishable, in the case of the registration mark displayed on the front of the vehicle, from in front of the vehicle, and in the case of the registration mark displayed on the back of the vehicle, from behind the vehicle.
 
-  - (b) Subject to subparagraph (c), the registration mark shall be displayed on a reflex-reflecting number plate, being a plate which complies with the requirements laid down by the British Standard Specification for Reflex-reflecting Number Plates published on 11 September 1972 under the number B.S. AU 145a and is of a type in respect of which there has been issued by the Commissioner a certificate that a plate of that type complies with those requirements, and— (L.N. 391 of 1983)
+  - (b) Subject to subparagraph (c), the registration mark shall be displayed on a reflex-reflecting number plate, being a plate which complies with the requirements laid down by the British Standard Specification for Reflex-reflecting Number Plates published on 11 September 1972 under the number B.S. AU 145a and is of a type in respect of which there has been issued by the Commissioner a certificate that a plate of that type complies with those requirements, and— (L.N. 391 of 1983; 25 of 2005 s. 28)
 
     - (i) the registration mark, where it is displayed on the front of a motor vehicle, shall be formed of black letters and numerals upon a white background and where it is displayed on the back of the vehicle shall be formed of black letters and numerals upon a yellow background;
 
@@ -72,7 +74,7 @@ PROVISIONS AS TO DISPLAY OF REGISTRATION MARKS AND PLATES
 
     - (iv) there shall be legibly and permanently marked on the plate the specification number B.S. AU 145a to indicate that it complies with the British Standard mentioned above, and the name, trade mark or other means of identification of the manufacturer of the plate.
 
-  - (c) Without prejudice to subparagraph (b) in the case of a double-decked bus that is designed to have a registration mark display on the back of the bus incorporated in the structure, with internal illumination, the registration mark displayed on the back of the bus may be formed of black letters and numerals indelibly inscribed upon a yellow surface and no letters, numerals or markings other than registration mark shall be inscribed on such surface. (L.N. 391 of 1983)
+  - (c) Without prejudice to subparagraph (b) in the case of a double-decked bus that is designed to have a registration mark display on the back of the bus incorporated in the structure, with internal illumination, the registration mark displayed on the back of the bus may be formed of black letters and numerals indelibly inscribed upon a yellow surface and no letters, numerals or markings other than the registration mark shall be inscribed on such surface. (L.N. 391 of 1983)
 
   - (d) The reflex-reflecting number plate shall be firmly fixed on to the motor vehicle.
 
@@ -88,6 +90,6 @@ PROVISIONS AS TO DISPLAY OF REGISTRATION MARKS AND PLATES
 
   - (j)
 
-    - In this paragraph, “reflex-reflecting number plate” (反光字牌) means a flat rectangular plate displaying the registration mark of a motor vehicle in which the background to the registration mark consists of reflex-reflecting material, integrally attached to a suitable backing material.
+    - In this paragraph, reflex-reflecting number plate (反光字牌) means a flat rectangular plate displaying the registration mark of a motor vehicle in which the background to the registration mark consists of reflex-reflecting material, integrally attached to a suitable backing material.
 
 - (25 of 2005 s. 28)

@@ -1,7 +1,9 @@
-TELECOMMUNICATIONS (METHOD FOR DETERMINING SPECTRUM UTILIZATION FEES) (THIRD GENERATION MOBILE SERVICES) REGULATION
+Telecommunications (Method for Determining Spectrum Utilization Fees) (Third Generation Mobile Services) Regulation
 
-(Made under section 32I of the Telecommunications
+(Cap. 106, section 32I)
 
-Ordinance (Cap. 106))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [4 July 2001]
+
+(Format changes—E.R. 2 of 2012)

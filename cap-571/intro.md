@@ -2,4 +2,4 @@ An Ordinance to consolidate and amend the law relating to financial products, th
 
 [1 April 2003] L.N. 12 of 2003
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2012)

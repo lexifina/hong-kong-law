@@ -1,7 +1,9 @@
-EDUCATION (EXEMPTION) (PRIVATE SCHOOLS OFFERING NON-FORMAL CURRICULUM) ORDER
+Education (Exemption) (Private Schools Offering Non-Formal Curriculum) Order
 
-(Made by the Chief Executive in Council under section 9(3)
+(Cap. 279, section 9(3))
 
-of the Education Ordinance (Cap. 279))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [1 July 2004]
+
+(Format changes—E.R. 2 of 2012)

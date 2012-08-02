@@ -1,113 +1,149 @@
-# SCHEDULE 9
+# Schedule 9
 
 [reg. 56]
 
-PARTICULARS TO BE ENTERED ON PERMITS ISSUED UNDER PART VIII
+Particulars to be Entered on Permits Issued under Part VIII
 
-- 1. Closed Road Permit Name of permit holder
+(Format changes—E.R. 2 of 2012)
 
-- Vehicle registration mark, trade plate number or movement permit number
+- 1. Closed Road Permit
 
-- Roads on which the vehicle is allowed
+  - Name of permit holder
 
-- Permitted hours of operation
+  - Vehicle registration mark, trade plate number or movement permit number
 
-- Date of expiry
+  - Roads on which the vehicle is allowed
 
-- Additional conditions imposed
+  - Permitted hours of operation
 
-- 2. Bus Lane Permit Name of permit holder
+  - Date of expiry
 
-- Vehicle registration mark
+  - Additional conditions imposed
 
-- Bus lane on which the vehicle is allowed
+- (L.N. 88 of 2012)
 
-- Permitted hours of operation
+- 2. Bus Lane Permit
 
-- Date of expiry
+  - Name of permit holder
 
-- Additional conditions imposed
+  - Vehicle registration mark
 
-- 3. Prohibited Zone Permit Name of permit holder
+  - Bus lane on which the vehicle is allowed
 
-- Vehicle registration mark
+  - Permitted hours of operation
 
-- Prohibited zone in which the vehicle is allowed
+  - Date of expiry
 
-- Permitted hours of operation
+  - Additional conditions imposed
 
-- Date of expiry
+- (L.N. 88 of 2012)
 
-- Additional conditions imposed
+- 3. Prohibited Zone Permit
 
-- 4. Restricted Zone Permit Name of permit holder
+  - Name of permit holder
 
-- Vehicle registration mark
+  - Vehicle registration mark
 
-- Restricted zone in which the vehicle is allowed
+  - Prohibited zone in which the vehicle is allowed
 
-- Permitted hours of operation
+  - Permitted hours of operation
 
-- Date of expiry
+  - Date of expiry
 
-- Additional conditions imposed
+  - Additional conditions imposed
 
-- 5. Goods Permit Vehicle registration mark
+- (L.N. 88 of 2012)
 
-- permitted weight of goods to be carried
+- 4. Restricted Zone Permit
 
-- Date of expiry
+  - Name of permit holder
 
-- Additional conditions imposed
+  - Vehicle registration mark
 
-- 6. Excess Passengers Permit Vehicle registration mark
+  - Restricted zone in which the vehicle is allowed
 
-- Total number of persons that may be carried (including the driver)
+  - Permitted hours of operation
 
-- Time of operation allowed
+  - Date of expiry
 
-- Routes allowed
+  - Additional conditions imposed
 
-- Date of expiry
+- (L.N. 88 of 2012)
 
-- Additional conditions imposed
+- 5. Goods Permit
 
-- 7. Movement Permit Name of owner
+  - Vehicle registration mark
 
-- Type of body or model
+  - Permitted weight of goods to be carried
 
-- Engine number
+  - Date of expiry
 
-- Chassis number
+  - Additional conditions imposed
 
-- Maximum speed of vehicle
+- 6. Excess Passengers Permit
 
-- Time of operation allowed
+  - Vehicle registration mark
 
-- Routes allowed
+  - Total number of persons that may be carried (including the driver)
 
-- Date of expiry
+  - Time of operation allowed
 
-- Additional conditions imposed
+  - Routes allowed
 
-- 8. Long Load Permit or Wide Load Permit Vehicle registration mark
+  - Date of expiry
 
-- Limit of load
+  - Additional conditions imposed
 
-- Date of expiry
+- 7. Movement Permit
 
-- Time of operation allowed
+  - Name of owner
 
-- Routes allowed
+  - Type of body or model
 
-- Additional conditions imposed
+  - Engine number
+
+  - Chassis number
+
+  - Maximum speed of vehicle
+
+  - Time of operation allowed
+
+  - Routes allowed
+
+  - Date of expiry
+
+  - Additional conditions imposed
+
+- (L.N. 88 of 2012)
+
+- 8. Long Load Permit or Wide Load Permit
+
+  - Vehicle registration mark
+
+  - Limit of load
+
+  - Date of expiry
+
+  - Time of operation allowed
+
+  - Routes allowed
+
+  - Additional conditions imposed
 
 - 9. (Repealed L.N. 277 of 1992)
 
-- 10. Expressway Permit Name of permit holder Vehicle registration mark, movement permit number or chassis number (if the vehicle is used under a trade licence) Route allowed
+- 10. Expressway Permit
 
-- Permitted hours of operation
+  - Name of permit holder
 
-- Date of expiry
+  - Vehicle registration mark, movement permit number or chassis number (if the vehicle is used under a trade licence)
 
-- Additional conditions imposed (L.N. 247 of 1991; L.N. 88 of 2012)
+  - Route allowed
+
+  - Permitted hours of operation
+
+  - Date of expiry
+
+  - Additional conditions imposed
+
+- (L.N. 247 of 1991; L.N. 88 of 2012)

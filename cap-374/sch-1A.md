@@ -4,6 +4,8 @@
 
 Specified Illicit Drugs
 
+(Schedule 1A replaced 24 of 2011 s. 20)
+
 - 1. Heroin or any metabolite derived from heroin
 
 - 2. Ketamine
@@ -14,4 +16,4 @@ Specified Illicit Drugs
 
 - 5. Cocaine or any metabolite derived from cocaine
 
-- 6. 3, 4-methylenedioxymethamphetamine (MDMA) (Schedule 1A replaced 24 of 2011 s. 20)
+- 6. 3, 4-methylenedioxymethamphetamine (MDMA)

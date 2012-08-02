@@ -1,9 +1,7 @@
 Securities and Futures (Short Position Reporting) Rules
 
-(Made by the Securities and Futures Commission under section 397(1)
+(Cap. 571, section 397(1) and (2))
 
-and (2) of the Securities and Futures Ordinance (Cap. 571) after
-
-consultation with the Financial Secretary)
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [18 June 2012]

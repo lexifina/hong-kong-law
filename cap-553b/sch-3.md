@@ -1,7 +1,7 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 4]
 
-PROVISIONS EXCLUDED FROM APPLICATION OF SECTION 7 OF ORDINANCE
+Provisions Excluded from Application of Section 7 of Ordinance
 
 Item | Enactment | Provision

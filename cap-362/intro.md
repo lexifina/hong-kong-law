@@ -3,3 +3,9 @@ To prohibit false trade descriptions, false, misleading or incomplete informatio
 (Amended 65 of 2000 s. 3; 19 of 2008 s. 3)
 
 [1 April 1981] L.N. 64 of 1981
+
+(*Format changes—E.R. 2 of 2012)
+
+Editorial Note:
+
+*The format of the Ordinance has been updated to the current legislative styles.

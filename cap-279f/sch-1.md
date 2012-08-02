@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3]
 
-FEES
+Fees
 
-- PART 1 PROVISIONS EXEMPTED
+- Part 1 Provisions Exempted
 
   - 1. Section 14(1)(d), (g) and (p) (Grounds for refusal to register school) of the Ordinance.
 
@@ -20,7 +20,7 @@ FEES
 
     - (e) regulation 67 (Duty to exhibit certificate).
 
-- PART 2 CONDITIONS FOR EXEMPTION
+- Part 2 Conditions for Exemption
 
   - 1. The inclusive fees for an educational course shall be calculated on an equal monthly basis. Other than the first instalment, each instalment of the fees shall be collected on or after the first school day of each month of the period during which the educational course is conducted.
 

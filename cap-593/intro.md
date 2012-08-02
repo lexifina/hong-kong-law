@@ -2,4 +2,6 @@ An Ordinance to provide for the regulation of the sending of unsolicited electro
 
 [1 June 2007]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2012)
+
+(Format changes—E.R. 2 of 2012)

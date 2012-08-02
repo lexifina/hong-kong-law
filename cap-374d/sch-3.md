@@ -1,8 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [regs. 14(5) & 27]
 
-CONDITIONS FOR THE USER OF A PRIVATE VEHICLE IN RESPECT OF WHICH A PERMIT IS ISSUED UNDER PART III
+Conditions for the User of a Private Vehicle in Respect of which a Permit is Issued under Part III
+
+(Format changes—E.R. 2 of 2012)
 
 - 1.
 

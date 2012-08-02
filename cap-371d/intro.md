@@ -1,7 +1,9 @@
-SMOKING (PUBLIC HEALTH) (DESIGNATION OF NO SMOKING AREAS) NOTICE
+Smoking (Public Health) (Designation of No Smoking Areas) Notice
 
-(Made by the Director of Health under section 3(1AB) of the Smoking
+(Cap. 371, section 3(1AB))
 
-(Public Health) Ordinance (Cap. 371))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [1 September 2009]
+
+(Format changes—E.R. 2 of 2012)

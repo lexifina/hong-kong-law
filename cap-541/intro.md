@@ -4,4 +4,6 @@ An Ordinance to provide for the establishment of the Electoral Affairs Commissio
 
 [29 August 1997]
 
-Enacted by the Provisional Legislative Council.
+(Format changes—E.R. 2 of 2012)
+
+(Enacting provision omitted—E.R. 2 of 2012)

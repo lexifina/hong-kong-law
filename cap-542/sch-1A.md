@@ -1,8 +1,8 @@
-# SCHEDULE 1A
+# Schedule 1A
 
 [s. 20D]
 
-COMPOSITION OF THE TRANSPORT FUNCTIONAL CONSTITUENCY
+Composition of the Transport Functional Constituency
 
 (The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
 

@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 8, 9 & 35 & Sch. 2]
 
-RATES OF MINOR DISABLEMENT GRATUITY
+Rates of Minor Disablement Gratuity
 
-- PART I RATES FOR SPECIFIED INJURIES
+- Part 1 Rates for Specified Injuries
 
 Column 1 | Column 2 | Column 3
 
@@ -78,9 +78,9 @@ through metatarso-phalangeal | 9 | 56374.51 | 56036.60
 
 joint part, with some loss of bone | 3 | 22447.47 | 22362.99
 
-PART II
+Part 2
 
-RATES WHERE PART I NOT APPLICABLE
+Rates Where Part 1 Not Applicable
 
 Column 1 | Column 2 | Column 3
 
@@ -108,4 +108,4 @@ Indeterminate | 1-5 | 28558.98 | 27865.04
 
 15-19 | 111038.94 | 108228.16
 
-(Amended L.N. 489 of 1997; L.N. 308 of 1998; L.N. 217 of 1999; L.N. 134 of 2005; L.N. 172 of 2006; L.N. 172 of 2007; L.N. 210 of 2008; L.N. 175 of 2009; L.N. 106 of 2010; L.N. 132 of 2011; L.N. 110 of 2012)
+(Amended L.N. 489 of 1997; L.N. 308 of 1998; L.N. 217 of 1999; L.N. 134 of 2005; L.N. 172 of 2006; L.N. 172 of 2007; L.N. 210 of 2008; L.N. 175 of 2009; L.N. 106 of 2010; L.N. 132 of 2011; L.N. 110 of 2012; E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)

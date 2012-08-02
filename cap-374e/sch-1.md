@@ -2,13 +2,15 @@
 
 [reg. 4]
 
+(Format changes—E.R. 2 of 2012)
+
 Particulars to be entered in the register—
 
-- (i) Registration mark.
+  - (i) Registration mark.
 
-(ii) Classification of vehicle.
+  - (ii) Classification of vehicle.
 
-- (iii) Date of first registration.
+  - (iii) Date of first registration.
 
   - (iv) Full name of registered owner.
 
@@ -38,4 +40,4 @@ Particulars to be entered in the register—
 
   - (xvii) Country of origin.
 
-    - (xviii) Licence fee.
+  - (xviii) Licence fee.

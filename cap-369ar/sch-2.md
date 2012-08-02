@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 3(8), 14 & 15(5)]
 
-PERFORMANCE SPECIFICATIONS
+Performance Specifications
 
 Merchant Shipping (Safety) (GMDSS Radio Installations) Regulation | Chapter IV (unless otherwise specified) of the International Convention for the Safety of Life at Sea, 1974 | Equipment Description | Performance Specifications
 
@@ -16,7 +16,7 @@ ss. 8, 9, 10 & 11 | Regs. 8, 9, 10 & 11 | Maritime Mobile single sideband radiot
 
 s. 7(3) | Reg. 7.3 | Radiotelephone alarm signal generating devices for use in merchant ships. | HKTA 1225 | Res. A.421 (XI)
 
-ss. 7 to 11 | Regs. 7 to 11 | Satellite emergency position— indicating radio beacon operating on 406 MHz— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 but on or after 4 November 1994 (c) installed before 4 November 1994 | (a) Res. A. 810 (19) (b) Res. A. 763 (18) (c) Res. A. 763 (18) ex— cluding para— graph 2.3.14 of Part A of its Annex
+ss. 7 to 11 | Regs. 7 to 11 | Satellite emergency position— indicating radio beacon operating on 406 MHz— (a) installed on or after 23 November 1996 (b) installed before 23 November 1996 but on or after 4 November 1994 (c) installed before 4 November 1994 | (a) Res. A. 810 (19) (b) Res. A. 763 (18) (c) Res. A. 763 (18) ex-cluding para-graph 2.3.14 of Part A of its Annex
 
 s. 7(1)(e) | Reg. 7.1.5 | Narrow-band direct-printing telegraphy for the reception of navigational and meteorological warnings and urgent information to ships (NAVTEX). | HKTA 1257 | Res. A.525 (13)
 

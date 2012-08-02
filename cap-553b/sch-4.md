@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 5]
 
-PROVISIONS EXCLUDED FROM APPLICATION OF SECTION 8 OF ORDINANCE
+Provisions Excluded from Application of Section 8 of Ordinance
 
 Item | Enactment | Provision
 

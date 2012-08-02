@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [r. 4]
 
-ELECTION PETITION
+Election Petition
 
 IN THE HIGH COURT OF HONG KONG ORIGINAL JURISDICTION
 
@@ -12,50 +12,42 @@ and
 
 In the Matter of a Legislative Council election for the *(name of geographical constituency) Geographical Constituency/(name of functional constituency) Functional Constituency held on (date of election).
 
-- *1. The Petition of (name of Petitioner) states—
+*1. The Petition of (name of Petitioner) states— (a) that the Petitioner was a candidate at the above election;
 
-  - (a) that the Petitioner was a candidate at the above election;
+(or) | *1. The Petition of (names of 10 or more Petitioners) states— (a) that the Petitioners are electors who were entitled to vote at the above election;
 
-- (or) *1. The Petition of (names of 10 or more Petitioners) states—
+*(b) in an election which was not contested, that *(name of candidate) was a candidate at the election/(name of each candidate) were candidates at the election, and on (date on which that candidate was declared elected or those candidates were declared elected) the Returning Officer for the above-mentioned Constituency declared that *that candidate/those candidates *was/were elected for the above-mentioned Constituency in a notice of nominations published in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); and
 
-  - (a) that the Petitioners are electors who were entitled to vote at the above election;
+(or) | *(b) in a contested election, that the poll was held on the above day, that (name of each candidate) were candidates at that election, and on (date on which the successful candidate was declared elected or successful candidates were declared elected) the Returning Officer for the above-mentioned Constituency declared (name of successful candidate or names of successful candidates) to be elected for the above-mentioned Constituency in a notice of result of election prepared in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541), and that that notice was published in the Gazette on (date of publication in Gazette of notice of result of election) in accordance with the regulation in force under that Ordinance; and (c) that (ground under section 61(1) of the Ordinance on which the election is questioned and on which relief is to be sought and the facts on which the Petitioner relies or the Petitioners rely).
 
-  - *(b) in an election which was not contested, that *(name of candidate) was a candidate at the election/(name of each candidate) were candidates at the election, and on (date on which that candidate was declared elected or those candidates were declared elected) the Returning Officer for the above-mentioned Constituency declared that *that candidate/those candidates *was/were elected for the above-mentioned Constituency in a notice of nominations published in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541); and
+*2. The *Petitioner/Petitioners therefore *requests/request, in the case of an election which was not contested, the Court to determine—
 
-  - (or) *(b) in a contested election, that the poll was held on the above day, that (name of each candidate) were candidates at that election, and on (date on which the successful candidate was declared elected or successful candidates were declared elected) the Returning Officer for the above-mentioned Constituency declared (name of successful candidate or names of successful candidates) to be elected for the above-mentioned Constituency in a notice of result of election prepared in accordance with regulations in force under the Electoral Affairs Commission Ordinance (Cap. 541), and that that notice was published in the Gazette on (date of publication in Gazette of notice of result of election) in accordance with the regulation in force under that Ordinance; and
+(a) whether any decision of the Returning Officer for the above-mentioned Constituency as to the validity of any nomination in the notice of nominations was correct; (b) if the Court determines that the decision of the Returning Officer was not correct, whether the *candidate/candidates declared by the Returning Officer to have been elected for the above-mentioned Constituency in that notice of nominations *was/were duly elected; and (c) any further or other relief as may be just.
 
-  - (c) that (ground under section 61(1) of the Ordinance on which the election is questioned and on which relief is to be sought and the facts on which the Petitioner relies or the Petitioners rely).
+(or) *2. The Petitioner therefore requests, in the case of a contested election, the Court to determine—
 
-- *2. The *Petitioner/Petitioners therefore *requests/request, in the case of an election which was not contested, the Court to determine—
+(a) whether *the candidate (to be named)/some other candidate (to be named) declared by the Returning Officer for the above-mentioned Constituency to be elected in the notice of result of election was duly elected; (b) if the Court determines that that person was not duly elected, whether *the Petitioner/some other candidate (to be named) was duly elected in his place; and (c) any further or other relief as may be just.
 
-  - (a) whether any decision of the Returning Officer for the above-mentioned Constituency as to the validity of any nomination in the notice of nominations was correct;
+(or) *2. The Petitioner therefore requests, in the case of a contested election, the Court to determine—
 
-  - (b) if the Court determines that the decision of the Returning Officer was not correct, whether the *candidate/candidates declared by the Returning Officer to have been elected for the above-mentioned Constituency in that notice of nominations *was/were duly elected; and
+(a) whether *the candidate (to be named)/some other candidate (to be named)/the candidates (to be named) declared by the Returning Officer for the above-mentioned Constituency to be elected in the notice of result of election *was/were duly elected; (b) if the Court determines that *that person/those persons *was/were not duly elected, whether *the other candidate (to be named)/some other candidate (to be named)/the other candidates (to be named) *was/were duly elected in *his/their place; and (c) any further or other relief as may be just.
 
-  - (c) any further or other relief as may be just.
+Dated this . day of . 19 .
 
-  - (or) *2. The Petitioner therefore requests, in the case of a contested election, the Court to determine—
+Signed
 
-  - (a) whether *the candidate (to be named)/some other candidate (to be named) declared by the Returning Officer for the above-mentioned Constituency to be elected in the notice of result of election was duly elected;
+*Petitioner/Petitioners
 
-  - (b) if the Court determines that that person was not duly elected, whether *the Petitioner/some other candidate (to be named) was duly elected in his place; and
+(or) | *Solicitors
 
-  - (c) any further or other relief as may be just.
+*This Petition is lodged by the *Petitioner/Petitioners.
 
-  - (or) *2. The Petitioners therefore request, in the case of a contested election, the Court to determine—
+(or) *This Petition is lodged by (name of solicitors), Solicitors acting for and on behalf of the *Petitioner/Petitioners.
 
-  - (a) whether *the candidate (to be named)/some other candidate (to be named)/the candidates (to be named) declared by the Returning Officer for the above-mentioned Constituency to be elected in the notice of result of election *was/were duly elected;
+The address for service is (address to be stated).
 
-  - (b) if the Court determines that *that person/those persons *was/were not duly elected, whether *the other candidate (to be named)/some other candidate (to be named)/the other candidates (to be named) *was/were duly elected in *his/their place; and
+It is proposed to serve a copy of this Petition on (name of Respondent or names of Respondents) and on the Secretary for Justice.
 
-  - (c) any further or other relief as may be just.
+* Delete whichever is inapplicable.
 
-- Dated this . day of . 19 . Signed *Petitioner/Petitioners
-
-- (or) *Solicitors *This Petition is lodged by the *Petitioner/Petitioners.
-
-  - (or) *This Petition is lodged by (name of solicitors), Solicitors acting for and on behalf of the *Petitioner/Petitioners.
-
-  - The address for service is (address to be stated). It is proposed to serve a copy of this Petition on (name of Respondent or names of Respondents) and on the Secretary for Justice. * Delete whichever is inapplicable.
-
-- (25 of 2003 s. 50)
+(25 of 2003 s. 50)

@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 12(2)]
 
-SCHEDULED CIRCUMSTANCES
+Scheduled Circumstances
+
+(Format changes—E.R. 2 of 2012)
 
 - 1. For the purposes of section 12 and Schedule 1, the circumstances which may constitute a defence in proceedings for a contravention are as follows—
 
@@ -40,8 +42,8 @@ SCHEDULED CIRCUMSTANCES
 
 - 2. In paragraph 1, unless the context otherwise requires—
 
-  - “period of restriction” (限制期間) in respect of any road means any period during which the parking of vehicles is prohibited or restricted in accordance with a sign erected under the Road Traffic (Parking) Regulations (Cap. 374 sub. leg. C);
+  - period of restriction (限制期間) in respect of any road means any period during which the parking of vehicles is prohibited or restricted in accordance with a sign erected under the Road Traffic (Parking) Regulations (Cap. 374 sub. leg. C); (Amended E.R. 2 of 2012)
 
-  - “restricted road” (限制車輛使用的道路) means a road referred to in section 7(1).
+  - restricted road (限制車輛使用的道路) means a road referred to in section 7(1).
 
 - (Schedule 2 added 59 of 1977 s. 19. Amended 39 of 1984 s. 13)

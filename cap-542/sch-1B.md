@@ -1,8 +1,8 @@
-# SCHEDULE 1B
+# Schedule 1B
 
 [s. 20V]
 
-COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL CONSTITUENCY
+Composition of the Sports, Performing Arts, Culture and Publication Functional Constituency
 
 (The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
 
@@ -10,7 +10,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
 - (b) the holding of the Legislative Council general election in 2012.)
 
-- PART 1 DISTRICT SPORTS ASSOCIATIONS Item Body
+- Part 1 District Sports Associations Item Body
 
   - 1. Central & Western District Recreation & Sports Association.
 
@@ -50,7 +50,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 19. Yuen Long District Sports Association Ltd.
 
-- PART 2 DISTRICT ARTS AND CULTURE ASSOCIATIONS Item Body
+- Part 2 District Arts and Culture Associations Item Body
 
   - 1. Central and Western District Association for Culture and Arts.
 
@@ -84,7 +84,7 @@ COMPOSITION OF THE SPORTS, PERFORMING ARTS, CULTURE AND PUBLICATION FUNCTIONAL C
 
   - 16. Yuen Long District Arts Committee.
 
-- PART 3 OTHER BODIES Item Body
+- Part 3 Other Bodies Item Body
 
   - 1. All Stars Sports Association Ltd.
 

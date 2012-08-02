@@ -1,7 +1,9 @@
-AMUSEMENT GAME CENTRES (APPEAL BOARD) REGULATION
+Amusement Game Centres (Appeal Board) Regulation
 
-(Made by the Governor in Council under section 18 of the
+(Cap. 435, section 18)
 
-Amusement Game Centres Ordinance (64 of 1993))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [2 December 1993] L.N. 455 of 1993
+
+(Format changes—E.R. 2 of 2012)

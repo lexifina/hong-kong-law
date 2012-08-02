@@ -2,7 +2,7 @@
 
 [ss. 5, 8, 9 & 11]
 
-- PART 1 Number of Elected Members and
+- Part 1 Number of Elected Members and
 
 - Appointed Members
 
@@ -46,13 +46,13 @@ Item | District Council | Number of elected members | Number of appointed member
 
 (Amended 33 of 2002 s. 10; L.N. 139 of 2006; L.N. 161 of 2010)
 
-- PART 2 Rural Committees in Districts
+- Part 2 Rural Committees in Districts
 
 Item | District | District Council | Number of Rural Committees | Names of Rural Committees
 
 1. | Islands District | Islands District Council | 8 | Cheung Chau Rural Committee Lamma Island (North) Rural Committee Lamma Island (South) Rural Committee Mui Wo Rural Committee Peng Chau Rural Committee South Lantao Rural Committee Tai O Rural Committee Tung Chung Rural Committee
 
-2. | Kwai Tsing District | Kwai Tsing District | 1 | Tsing Yi Rural Committee
+2. | Kwai Tsing District | Kwai Tsing District Council | 1 | Tsing Yi Rural Committee
 
 3. | North District | North District Council | 4 | Fanling District Rural Committee Sha Tau Kok District Rural Committee Sheung Shui District Rural Committee Ta Kwu Ling District Rural Committee
 
@@ -66,6 +66,6 @@ Item | District | District Council | Number of Rural Committees | Names of Rural
 
 8. | Tuen Mun District | Tuen Mun District Council | 1 | Tuen Mun Rural Committee
 
-9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee
+9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee (Amended E.R. 2 of 2012)
 
 (Format changes—E.R. 1 of 2012)

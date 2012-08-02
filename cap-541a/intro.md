@@ -1,10 +1,12 @@
-ELECTORAL AFFAIRS COMMISSION (REGISTRATION OF ELECTORS) (LEGISLATIVE COUNCIL GEOGRAPHICAL CONSTITUENCIES) (DISTRICT COUNCIL CONSTITUENCIES) REGULATION
+Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation
 
-(Made by the Electoral Affairs Commission under section 7 of
+(Cap. 541, section 7)
 
-the Electoral Affairs Commission Ordinance (129 of 1997))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [5 November 1997]
+
+(Format changes—E.R. 2 of 2012)
 
 Editorial Note:
 

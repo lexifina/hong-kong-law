@@ -1,7 +1,9 @@
-ENDURING POWERS OF ATTORNEY (PRESCRIBED FORM) REGULATION
+Enduring Powers of Attorney (Prescribed Form) Regulation
 
-(Made under section 18 of the Enduring Powers
+(Cap. 501, section 18)
 
-of Attorney Ordinance (17 of 1997))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [27 June 1997] L.N. 365 of 1997
+
+(Format changes—E.R. 2 of 2012)

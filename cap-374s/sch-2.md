@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 3]
 
-APPROVED SCREENING DEVICES
+Approved Screening Devices
 
 - 1. Alcotest 7410 manufactured by Dräger, Lübeck, Germany.
 

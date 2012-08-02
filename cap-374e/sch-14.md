@@ -2,7 +2,9 @@
 
 [reg. 48(2)]
 
-Particulars to be contained in register of journeys
+Particulars to be Contained in Register of Journeys
+
+(Format changes—E.R. 2 of 2012)
 
 - 1. Number of the trade plate issued in respect of the trade licence
 

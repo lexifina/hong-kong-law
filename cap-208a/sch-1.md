@@ -1,18 +1,20 @@
-# SCHEDULE 1
+# Schedule 1
 
-[regs. 4 & 18]
+[regs. 4 & 18] (L.N. 63 of 2005)
 
-(L.N. 63 of 2005)
-
-FEES
+Fees
 
 Regulation | Description | Fee
 
-4(3) | Fee for parking a vehicle in a designated car park in— (a) a country park or special area (except the special area known as the Hong Kong Wetland Park) (b) the Hong Kong Wetland Park— | Nil
+4(3) | Fee for parking a vehicle in a designated car park in—
 
-(i) in the case of a vehicle that is a bus, or light bus, within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374) used for the carriage of passengers to the Hong Kong Wetland Park | Nil
+(a) | a country park or special area (except the special area known as the Hong Kong Wetland Park) | Nil
 
-(ii) in the case of any other vehicle | $8 per hour
+(b) | the Hong Kong Wetland Park—
+
+(i) | in the case of a vehicle that is a bus, or light bus, within the meaning of section 2 of the Road Traffic Ordinance (Cap. 374) used for the carriage of passengers to the Hong Kong Wetland Park | Nil
+
+(ii) | in the case of any other vehicle (L.N. 63 of 2005) | $8 per hour
 
 5(1) | Permit to bring cattle, equines, sheep, goats, pigs, dogs, cats or poultry into a country park or special area | Nil
 
@@ -38,6 +40,6 @@ Regulation | Description | Fee
 
 11(3)(a) | Permit to camp or to erect a tent or temporary shelter at a designated camping site | Nil
 
-13A(4) | Permit to enter or remain in a specified zone outside the opening hours of the zone, or to enter or remain in a specified zone, or any part of a specified zone, that has been closed in accordance with regulation 13A(2) | Nil
+13A(4) | Permit to enter or remain in a specified zone outside the opening hours of the zone, or to enter or remain in a specified zone, or any part of a specified zone, that has been closed in accordance with regulation 13A(2) (L.N. 63 of 2005) | Nil
 
-(L.N. 326 of 1992; L.N. 38 of 1995; L.N. 178 of 1996; L.N. 473 of 1997; L.N. 349 of 2000; L.N. 30 of 2001; L.N. 47 of 2005; L.N. 63 of 2005)
+(L.N. 326 of 1992; L.N. 38 of 1995; L.N. 178 of 1996; L.N. 473 of 1997; L.N. 349 of 2000; L.N. 30 of 2001; L.N. 47 of 2005)

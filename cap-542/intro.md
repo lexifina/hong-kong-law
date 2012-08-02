@@ -2,4 +2,6 @@ An Ordinance to provide for the constitution, convening and dissolution of the L
 
 [3 October 1997]
 
-Enacted by the Provisional Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2012)
+
+(Format changes—E.R. 2 of 2012)

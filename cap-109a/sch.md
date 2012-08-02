@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [regs. 2, 103 & 103A]
 
-LICENCES AND FEES
+Licences and Fees
 
-- PART I GENERAL
+- Part 1 General
 
 Item | Licence or permit | Fee $
 
@@ -24,7 +24,7 @@ Item | Licence or permit | Fee $
 
 (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010)
 
-- PART II LIQUORS
+- Part 2 Liquors
 
 Item | Licence or permit | Fee $
 
@@ -42,7 +42,7 @@ Item | Licence or permit | Fee $
 
 (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 330 of 2000; L.N. 2 of 2006)
 
-- PART III TOBACCO
+- Part 3 Tobacco
 
 Item | Licence or permit | Fee $
 
@@ -52,7 +52,7 @@ Item | Licence or permit | Fee $
 
 (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010)
 
-- PART IV HYDROCARBON OIL
+- Part 4 Hydrocarbon Oil
 
 Item | Licence or permit | Fee $
 
@@ -60,11 +60,11 @@ Item | Licence or permit | Fee $
 
 (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 21 of 2010)
 
-- PART V (Repealed 35 of 1992 s. 11)
+- Part 5 (Repealed 35 of 1992 s. 11)
 
-- PART VI (Repealed 32 of 1993 s. 7)
+- Part 6 (Repealed 32 of 1993 s. 7)
 
-- PART VII MISCELLANEOUS
+- Part 7 Miscellaneous
 
 Item | Service | Fee $
 
@@ -90,4 +90,4 @@ Senior Customs Officer . | 285 | 2130 | 51800
 
 Customs Officer . | 185 | 1400 | 33750
 
-(L.N. 358 of 1990; L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010) (L.N. 165 of 1989; L.N. 444 of 1996; L.N. 452 of 1996)
+(L.N. 358 of 1990; L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010) (L.N. 165 of 1989; L.N. 444 of 1996; L.N. 452 of 1996) (Format changes—E.R. 2 of 2012)

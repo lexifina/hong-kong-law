@@ -1,7 +1,9 @@
-ELECTRONIC TRANSACTIONS (EXCLUSION) ORDER
+Electronic Transactions (Exclusion) Order
 
-(Made under section 11(1) of the Electronic
+(Cap. 553, section 11(1))
 
-Transactions Ordinance (1 of 2000))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [7 April 2000] L.N. 60 of 2000
+
+(Format changes—E.R. 2 of 2012)

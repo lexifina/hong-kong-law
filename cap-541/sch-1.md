@@ -2,13 +2,13 @@
 
 [s. 3]
 
-- PART I In this Schedule—
+- Part 1 In this Schedule—
 
-  - “former Ordinance” (先前條例) means the Ordinance known immediately before 1 July 1997 as the Boundary and Election Commission Ordinance (Cap. 432).
+  - former Ordinance (先前條例) means the Ordinance known immediately before 1 July 1997 as the Boundary and Election Commission Ordinance (Cap. 432).
 
 - (Amended 48 of 1999 s. 53)
 
-- PART II The persons disqualified under section 3(5)(e) of this Ordinance from appointment or holding office as a member of the Commission are—
+- Part 2 The persons disqualified under section 3(5)(e) of this Ordinance from appointment or holding office as a member of the Commission are—
 
   - (a) a person who is an employee or servant of—
 
@@ -20,7 +20,7 @@
 
   - (b) persons who would have been disqualified from nomination as a candidate at an election within the meaning of the Legislative Council Ordinance (Cap. 542) under the following sections of that Ordinance—
 
-    - (i) section 39(1)(a)(ii) (except persons specified in paragraph (d) of the definition of “prescribed public officer” in section 39(5) of that Ordinance);
+    - (i) section 39(1)(a)(ii) (except persons specified in paragraph (d) of the definition of prescribed public officer in section 39(5) of that Ordinance);
 
     - (ii) section 39(1)(a)(iii);
 
@@ -40,7 +40,7 @@
 
     - (x) section 39(3). (Amended 48 of 1999 s. 53)
 
-- PART III A person disqualified under section 3(5)(k)(xi) of this Ordinance is a person who would have been disqualified from appointment or holding office under any of the following sections of the former Ordinance—
+- Part 3 A person disqualified under section 3(5)(k)(xi) of this Ordinance is a person who would have been disqualified from appointment or holding office under any of the following sections of the former Ordinance—
 
   - (a) section 3(5)(c)(i);
 

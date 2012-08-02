@@ -1,7 +1,9 @@
-BUILDING (MINOR WORKS) REGULATION
+Building (Minor Works) Regulation
 
-(Made by the Secretary for Development under section 38
+(Cap. 123, section 38)
 
-of the Buildings Ordinance (Cap. 123))
+(Enacting provision omitted—E.R. 2 of 2012)
 
-[30 December 2009]
+[30 December 2009] L.N. 248 of 2009
+
+(Format changes—E.R. 2 of 2012)

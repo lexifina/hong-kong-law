@@ -1,12 +1,12 @@
-PARTICULARS RELATING TO CANDIDATES ON BALLOT PAPERS (LEGISLATIVE COUNCIL AND DISTRICT COUNCILS) REGULATION
+Particulars Relating to Candidates on Ballot Papers (Legislative Council and District Councils) Regulation
 
-(Made by the Electoral Affairs Commission under
+(Cap. 541, section 7)
 
-section 7 of the Electoral Affairs
-
-Commission Ordinance (Cap. 541))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [6 February 2004]
+
+(Format changes—E.R. 2 of 2012)
 
 Editorial Note:
 

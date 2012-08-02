@@ -1,6 +1,6 @@
-# SCHEDULE
+# Schedule
 
-[ss. 1 & 2]
+[ss. 1 & 2] (Format changes—E.R. 2 of 2012)
 
 Item | Profession | Interpretation
 

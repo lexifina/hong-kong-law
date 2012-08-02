@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 3, 7 & 10 & Schs. 1 & 10]
 
-SECURITIES AND FUTURES COMMISSION
+Securities and Futures Commission
 
-- PART 1 CONSTITUTION AND PROCEEDINGS OF COMMISSION, ETC.
+- Part 1 Constitution and Proceedings of Commission, etc.
 
 - Chairman, chief executive officer and other members of Commission
 
@@ -18,9 +18,7 @@ SECURITIES AND FUTURES COMMISSION
 
   - 2. (Repealed 15 of 2006 s. 6)
 
-  - 3. When the membership of the Commission ceases to comply with the requirements of section 1, the Chief Executive shall as soon as reasonably practicable thereafter make the necessary appointment to ensure that the requirements are complied with. Deputy chairman and vacancies in office of
-
-  - chairman or deputy chairman
+  - 3. When the membership of the Commission ceases to comply with the requirements of section 1, the Chief Executive shall as soon as reasonably practicable thereafter make the necessary appointment to ensure that the requirements are complied with. Deputy chairman and vacancies in office of chairman or deputy chairman
 
   - 4. The Chief Executive may appoint an executive director or non-executive director of the Commission to be the deputy chairman of the Commission. (Amended 15 of 2006 s. 6)
 
@@ -164,7 +162,7 @@ SECURITIES AND FUTURES COMMISSION
 
   - 32. The Chief Executive may by notice in writing remove from office any member of the Advisory Committee appointed under section 27(c).
 
-- PART 2 NON-DELEGABLE FUNCTIONS OF COMMISSION
+- Part 2 Non-Delegable Functions of Commission
 
   - 1. Any function of the Commission to make subsidiary legislation under or pursuant to any Ordinance.
 
@@ -349,3 +347,5 @@ SECURITIES AND FUTURES COMMISSION
     - (88) to apply to the Court of First Instance, pursuant to section 1(6)(a) of Part 6 of Schedule 3 to this Ordinance;
 
     - (89) to apply to the Court of First Instance, pursuant to section 1(7) of Part 6 of Schedule 3 to this Ordinance.
+
+  - (Format changes—E.R. 2 of 2012)

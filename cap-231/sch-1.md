@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3]
 
-DISEASES AND CONDITIONS IN RESPECT OF WHICH ADVERTISEMENTS ARE PROHIBITED OR RESTRICTED
+Diseases and Conditions in respect of which Advertisements are Prohibited or Restricted
 
 Column 1 Disease or condition | Column 2 Purposes for which advertising is permitted
 

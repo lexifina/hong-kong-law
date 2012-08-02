@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [regs. 4, 5, 9, 12O, 16, 17, 21, 23, 27, 30, 38, 40, 42, 49, 50A, 51, 52, 53, 54, 55 & 59] (25 of 2005 s. 27)
 
-FEES
+Fees
 
 Fee $
 
@@ -148,4 +148,4 @@ Notes
 
   - (c) in the case of a rotary-piston engine, the volume of the space enclosed between one working face of the motor and one lobe of the stator at its maximum, expressed in cubic centimetres, less the volume of the space enclosed between one working face of the rotor and the stator at its minimum, expressed in cubic centimetres.
 
-- 3. In measuring cylinders or stator lobes for the purpose of calculating capacity, and in calculating cylinder capacity, fractions of centimetres shall be taken into account.
+- 3. In measuring cylinders or stator lobes for the purpose of calculating capacity, and in calculating cylinder capacity, fractions of centimetres shall be taken into account. (Format changes—E.R. 2 of 2012)

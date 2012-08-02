@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 3(8) & 17]
 
-RADIO RECORDS
+Radio Records
 
 The following shall be recorded in the Radio Log as they occur, together with the time of their occurrence—
 

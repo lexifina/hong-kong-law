@@ -1,8 +1,10 @@
-# SCHEDULE 6
+# Schedule 6
 
-[reg. 12M & 24] (25 of 2005 s. 31)
+[regs. 12M & 24] (25 of 2005 s. 31)
 
-PERCENTAGE OF ANNUAL LICENCE FEE WHICH MAY BE REFUNDED
+Percentage of Annual Licence Fee which may be Refunded
+
+(Format changes—E.R. 2 of 2012)
 
 Number of days in the unexpired period of valid licence | Percentage of annual fee which may be refunded for each day of the unexpired period of valid licence
 

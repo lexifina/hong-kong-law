@@ -1,18 +1,18 @@
-# SCHEDULE 9
+# Schedule 9
 
 [ss. 251, 252, 253, 256 & 269]
 
-MARKET MISCONDUCT TRIBUNAL
+Market Misconduct Tribunal
 
 - 1. In this Schedule, unless the context otherwise requires—
 
-  - “chairman” (主席) means the chairman of the Tribunal;
+  - chairman (主席) means the chairman of the Tribunal;
 
-  - “judge” (法官) has the meaning assigned to it by section 245(1) of this Ordinance;
+  - judge (法官) has the meaning assigned to it by section 245(1) of this Ordinance;
 
-  - “member” (成員) means a member of the Tribunal;
+  - member (成員) means a member of the Tribunal;
 
-  - “ordinary member” (普通成員) means a member other than the chairman;
+  - ordinary member (普通成員) means a member other than the chairman;
 
   - party (一方), in relation to proceedings, means—
 
@@ -20,11 +20,11 @@ MARKET MISCONDUCT TRIBUNAL
 
     - (b) any person whose identity is specified pursuant to section 13(b) in the statement for the proceedings as described in section 13; (Added 9 of 2012 s. 28)
 
-  - “Presenting Officer” (提控官) has the meaning assigned to it by section 245(1) of this Ordinance;
+  - Presenting Officer (提控官) has the meaning assigned to it by section 245(1) of this Ordinance;
 
-  - “proceedings” (研訊程序) means proceedings instituted under section 252 of this Ordinance;
+  - proceedings (研訊程序) means proceedings instituted under section 252 of this Ordinance;
 
-  - “Tribunal” (審裁處) has the meaning assigned to it by section 245(1) of this Ordinance. Appointment of members
+  - Tribunal (審裁處) has the meaning assigned to it by section 245(1) of this Ordinance. Appointment of members
 
 - 2. The chairman shall be appointed by the Chief Executive on the recommendation of the Chief Justice.
 
@@ -84,7 +84,7 @@ MARKET MISCONDUCT TRIBUNAL
 
 - 20.
 
-  - In section 15, “financial product” (金融產品) means—
+  - In section 15, financial product (金融產品) means—
 
     - (a) where the market misconduct in question is an insider dealing, listed securities or derivatives of listed securities as defined in section 245(2) of this Ordinance; or
 
@@ -176,7 +176,7 @@ MARKET MISCONDUCT TRIBUNAL
 
 - 35.
 
-  - In sections 33 and 34, “order” (命令) includes any finding, determination and any other decision. Chairman as sole member of Tribunal
+  - In sections 33 and 34, order (命令) includes any finding, determination and any other decision. Chairman as sole member of Tribunal
 
 - 36. Where, at any time after any proceedings have been instituted under section 252 of this Ordinance but before any sitting of the Tribunal is held to hear and determine any question or issue arising out of or in connection with the proceedings, the parties to the proceedings have, by notice in writing given to the Tribunal, informed the Tribunal that they have agreed that any such question or issue may be determined by the chairman alone as the sole member of the Tribunal, the chairman may determine the question or issue as the sole member of the Tribunal.
 
@@ -184,4 +184,4 @@ MARKET MISCONDUCT TRIBUNAL
 
 - 38. After the chairman has made any determination under section 36, the chairman shall report to the Tribunal the making of the determination and the reasons therefor and such other matters relating to the determination as he considers appropriate. Miscellaneous
 
-- 39. Except as otherwise provided in this Ordinance, the Tribunal and its members, any Presenting Officer, and any party, witness, counsel, solicitor, or any other person involved, in any proceedings, shall have the same privileges and immunities in respect of the proceedings as they would have if the proceedings were civil proceedings before the Court of First Instance.
+- 39. Except as otherwise provided in this Ordinance, the Tribunal and its members, any Presenting Officer, and any party, witness, counsel, solicitor, or any other person involved, in any proceedings, shall have the same privileges and immunities in respect of the proceedings as they would have if the proceedings were civil proceedings before the Court of First Instance. (Format changes—E.R. 2 of 2012)

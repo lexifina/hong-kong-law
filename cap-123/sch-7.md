@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
 [ss. 40(1BE), sections (1BF) & sections (1BG)]
 
-PENALTY NOTICE
+Penalty Notice
 
 - 1. A penalty notice under section 40(1BE) must be made in writing stating—
 
@@ -78,4 +78,4 @@ PENALTY NOTICE
 
   - (b) proceed to take court proceedings against the person under section 40(1BD).
 
-- 19. The decision of the Building Authority to serve a penalty notice under section 18 of this Schedule is not subject to appeal under section 44. (Schedule 7 added 16 of 2011 s. 37)
+- 19. The decision of the Building Authority to serve a penalty notice under section 18 of this Schedule is not subject to appeal under section 44. (Schedule 7 added 16 of 2011 s. 37) (Format changes—E.R. 2 of 2012)

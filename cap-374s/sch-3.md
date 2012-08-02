@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 4]
 
-APPROVED PRE-SCREENING DEVICES
+Approved Pre-screening Devices
 
 - 1. Lion Alcolmeter 500 manufactured by Lion Laboratories Limited, United Kingdom.
 

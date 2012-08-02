@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
 [reg. 29]
 
-PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
+Permitted Areas for New Territories and Lantau Taxis
 
 - 1. Permitted area for taxis licensed to be available for hire or to carry passengers within the New Territories—
 
@@ -210,4 +210,4 @@ PERMITTED AREAS FOR NEW TERRITORIES AND LANTAU TAXIS
 
 - (L.N. 58 of 2005)
 
-- 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau— The island of Lantau; and The island of Chek Lap Kok. (L.N. 65 of 1998)
+- 2. Permitted area for taxis licensed to be available for hire or to carry passengers within Lantau— The island of Lantau; and The island of Chek Lap Kok. (L.N. 65 of 1998) (Format changes—E.R. 2 of 2012)

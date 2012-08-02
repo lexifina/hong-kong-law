@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 3]
 
-PROVISIONS APPLICABLE TO COMMISSION
+Provisions Applicable to Commission
 
 - 1.
 
@@ -78,10 +78,12 @@ PROVISIONS APPLICABLE TO COMMISSION
 
       - (ii) a report for the purposes of section 8 of this Ordinance; or
 
-      - (iii) recommendations for the purposes of Part V of this Ordinance (including provisional recommendations),
+      - (iii) recommendations for the purposes of Part 5 of this Ordinance (including provisional recommendations),
 
   - shall be made at a meeting of all the members of the Commission (excluding any member who is unable to perform the functions of his office as described in paragraph 1(5), for the time being).
 
   - (7) The Commission may act notwithstanding one vacancy in the membership and its proceedings shall not be invalidated by reason of a defect in the appointment or qualification of a member.
 
   - (8) Subject to this Ordinance and any standing orders made under section 5 of this Ordinance the Commission may determine and regulate its own procedure.
+
+- (Amended E.R. 2 of 2012)

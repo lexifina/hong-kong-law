@@ -1,12 +1,12 @@
-ELECTORAL AFFAIRS COMMISSION (NOMINATIONS ADVISORY COMMITTEES (LEGISLATIVE COUNCIL)) REGULATION
+Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation
 
-(Made by the Electoral Affairs Commission under
+(Cap. 541, section 7)
 
-section 7 of the Electoral Affairs Commission
-
-Ordinance (129 of 1997))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [16 January 1998]
+
+(Format changes—E.R. 2 of 2012)
 
 Editorial Note:
 

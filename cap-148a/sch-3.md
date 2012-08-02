@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [reg. 5]
 
-FEES FOR GRANT OF LICENCES
+Fees for Grant of Licences
 
 Type of licence | Fee payable
 

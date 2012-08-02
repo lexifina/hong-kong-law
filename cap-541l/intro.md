@@ -1,7 +1,13 @@
-ELECTORAL PROCEDURE (VILLAGE REPRESENTATIVE ELECTION) REGULATION
+Electoral Procedure (Village Representative Election) Regulation
 
-(Made by the Electoral Affairs Commission under section 7 of the
+(Cap. 541, section 7)
 
-Electoral Affairs Commission Ordinance (Cap. 541))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [1 June 2003]
+
+(*Format changes—E.R. 2 of 2012)
+
+Editorial Note:
+
+*The format of the Regulation has been updated to the current legislative styles

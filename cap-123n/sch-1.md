@@ -1,34 +1,34 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 28]
 
-MINOR WORKS
+Minor Works
 
-- PART 1 GENERAL
+- Part 1 General
 
   - 1. In this Schedule—
 
-    - “display area” (展示面積), in relation to a signboard, means the area of the largest planar surface of a virtual rectangular prism containing all parts of the signboard (including its supporting structure) except—
+    - display area (展示面積), in relation to a signboard, means the area of the largest planar surface of a virtual rectangular prism containing all parts of the signboard (including its supporting structure) except—
 
       - (a) if the signboard is supported by a single post of a diameter of not more than 100 mm, the post; or
 
       - (b) in any other case, any structural elements of the signboard solely for preventing the lateral movement of the signboard;
 
-    - “projecting signboard” (伸出式招牌) means a signboard—
+    - projecting signboard (伸出式招牌) means a signboard—
 
       - (a) that is fixed to the external wall of a building; and
 
       - (b) that projects more than 600 mm from the wall;
 
-    - “thickness” (厚度), in relation to a signboard, means the smallest dimension of a virtual rectangular prism containing all parts of the signboard (including its supporting structure) except any structural elements of the signboard solely for preventing the lateral movement of the signboard;
+    - thickness (厚度), in relation to a signboard, means the smallest dimension of a virtual rectangular prism containing all parts of the signboard (including its supporting structure) except any structural elements of the signboard solely for preventing the lateral movement of the signboard;
 
-    - “unauthorized” (違例)—
+    - unauthorized (違例)—
 
       - (a) when used to describe any structure, means the structure is erected in contravention of any provision of the Ordinance; or
 
       - (b) when used to describe any building works, means the building works are carried out in contravention of any provision of the Ordinance;
 
-    - “wall signboard” (靠牆招牌) means a signboard—
+    - wall signboard (靠牆招牌) means a signboard—
 
       - (a) that is fixed to the external wall of a building; and
 
@@ -40,7 +40,7 @@ MINOR WORKS
 
   - 4. A description of an item of minor works specified in Part 3 of this Schedule that involves any erection works must be read as including any replacement of that item. (L.N. 148 of 2011)
 
-- PART 2 TYPES OF MINOR WORKS
+- Part 2 Types of Minor Works
 
   - Division 1—Type A (Alteration and Addition Works)
 
@@ -98,7 +98,7 @@ MINOR WORKS
 
     - 21. Type G minor works under class III are those minor works described in items 3.1, 3.2, 3.4, 3.5, 3.7, 3.8, 3.10, 3.18, 3.19, 3.20, 3.21, 3.22, 3.24, 3.26, 3.30, 3.32 and 3.33 of Part 3 of this Schedule.
 
-- PART 3 LIST OF MINOR WORKS
+- Part 3 List of Minor Works
 
   - Division 1—Class I Minor Works
 

@@ -1,16 +1,14 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 40AB & 40AC]
 
-SPECIFIED SCHOOLS
+Specified Schools
 
 School Name | School Address
 
 Diocesan Girls’ Junior School | 1 Jordan Road, Kowloon (Added L.N. 41 of 2012)
 
 Discovery College | 38 Siena Avenue, Discovery Bay, Lantau Island, New Territories (Added L.N. 57 of 2009)
-
-The Independent Schools Foundation Academy | 1 Kong Sin Wan Road, Pokfulam, Hong Kong (Replaced L.N. 146 of 2008)
 
 International Christian Quality Music Secondary and Primary School | 182 Po Kong Village Road, Diamond Hill, Kowloon (Amended L.N. 272 of 2006)
 
@@ -24,10 +22,12 @@ Renaissance College | No. 5 Hang Ming Street, Ma On Shan, Shatin, New Territorie
 
 S.K.H. All Saints’ Middle School | 11 Pak Po Street, Kowloon
 
+The Independent Schools Foundation Academy | 1 Kong Sin Wan Road, Pokfulam, Hong Kong (Replaced L.N. 146 of 2008)
+
 United Christian College | 9 & 11 Tong Yam Street, Tai Hang Tung, Shamshuipo, Kowloon
 
 Victoria Shanghai Academy | 19 Shum Wan Road, Aberdeen, Hong Kong (Added L.N. 272 of 2006. Amended L.N. 146 of 2008)
 
 Yew Chung International School—Secondary | 3 To Fuk Road, Kowloon Tong, Kowloon (Added L.N. 146 of 2008)
 
-(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009; L.N. 41 of 2012)
+(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009; L.N. 41 of 2012; E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)

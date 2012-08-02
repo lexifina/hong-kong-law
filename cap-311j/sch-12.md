@@ -1,8 +1,8 @@
-# SCHEDULE 12
+# Schedule 12
 
 [regs. 7B & 7E] (L.N. 46 of 2012)
 
-VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR AFTER 1 JANUARY 2006
+Vehicle Design Standards (Emission) for Certain Motor Vehicles Registered on or after 1 January 2006
 
 - (a) European Union Motor Vehicle Emission Standards, comprising all of the following requirements— (L.N. 46 of 2012)
 
@@ -28,4 +28,4 @@ VEHICLE DESIGN STANDARDS (EMISSION) FOR CERTAIN MOTOR VEHICLES REGISTERED ON OR 
 
   - (iii) All the type approval requirements administered by the Ministry of Land, Infrastructure and Transport of Japan.
 
-(Schedule 12 added L.N. 165 of 2005)
+(Schedule 12 added L.N. 165 of 2005) (Format changes—E.R. 2 of 2012)

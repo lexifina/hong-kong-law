@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
-PART I | [regulation 68]
+Part 1 | [regulation 68]
 
-QUALIFICATIONS FOR A REGISTERED TEACHER
+Qualifications for a Registered Teacher
 
 - (1) An approved degree of a specified institution together with an approved teacher’s diploma, certificate, or like qualification to teach; (1 of 2004 s. 18)
 
@@ -20,15 +20,15 @@ QUALIFICATIONS FOR A REGISTERED TEACHER
 
 - (8) any other educational training and experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2), (4), (5), (6) or (7); or (3 of 2003 s. 14; 1 of 2004 s. 18)
 
-- *(9) (Repealed 1 of 2004 s. 18) For the purposes of this Part and Part II—
+- *(9) (Repealed 1 of 2004 s. 18) For the purposes of this Part and Part 2— (1 of 2004 s. 18)
 
   - (a)
 
-    - “approved” (認可) means approved by the Permanent Secretary;
+    - approved (認可) means approved by the Permanent Secretary;
 
   - (b)
 
-    - “specified institution” (指明院校) means any of the following—
+    - specified institution (指明院校) means any of the following—
 
     - (i) the Lingnan University established by the Lingnan University Ordinance (Cap. 1165);
 
@@ -52,11 +52,9 @@ QUALIFICATIONS FOR A REGISTERED TEACHER
 
     - (xi) any Post Secondary College registered under the Post Secondary Colleges Ordinance (Cap. 320). (1 of 2004 s. 18)
 
-    - PART II | [regulation 69]
+    - Part 2 | [regulation 69]
 
-    - QUALIFICATIONS FOR A PERMITTED TEACHER, OTHER THAN A TEACHER
-
-    - TO WHOM PART IIA, III OR IV APPLIES
+    - Qualifications for a Permitted Teacher, other than a Teacher to Whom Part 2A, 3 or 4 Applies
 
 (L.N. 268 of 1990; 1 of 2004 s. 18)
 
@@ -66,19 +64,15 @@ QUALIFICATIONS FOR A REGISTERED TEACHER
 
 - (2) any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1) or (1A). (L.N. 237 of 1982; 3 of 2003 s. 14; 1 of 2004 s. 18)
 
-- PART IIA | [regulation 69A]
+- Part 2A | [regulation 69A]
 
-- QUALIFICATIONS FOR A PERMITTED TEACHER
-
-- WHO IS PERMITTED TO TEACH OTHER
-
-- EDUCATIONAL COURSES
+- Qualifications for a Permitted Teacher Who is Permitted to Teach other Educational Courses
 
 - (1) One or two certificates of the Hong Kong Certificate of Education Examination with an aggregate of 5 separate subjects at Grade E or a higher grade, including— (L.N. 23 of 2012)
 
   - (a) English Language (Syllabus B), or of a standard which in the opinion of the Permanent Secretary is equivalent to Grade E or a higher grade in that certificate; or
 
-  - (b) Chinese Language; (L.N. 23 of 2012)
+  - (b) Chinese Language;
 
 - (1A) one or two certificates of the Hong Kong Diploma of Secondary Education Examination with an aggregate of 5 separate subjects consisting of—
 
@@ -98,37 +92,39 @@ QUALIFICATIONS FOR A REGISTERED TEACHER
 
     - (ii) a subject from the Other Language subjects at Grade E or a higher grade; or (L.N. 23 of 2012)
 
-- (2) any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1) or (1A). (L.N. 23 of 2012) For the purposes of this Part and Part IV, a subject is not separate from another subject by reason only that instruction in the first subject is given in a language different from that in which instruction in the second subject is given. (1 of 2004 s. 18)
+- (2) any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1) or (1A). For the purposes of this Part and Part 4, a subject is not separate from another subject by reason only that instruction in the first subject is given in a language different from that in which instruction in the second subject is given.
 
-- PART III | [regulation 70]
+(1 of 2004 s. 18; L.N. 23 of 2012)
 
-- QUALIFICATIONS FOR A PERMITTED TEACHER
+Part 3 | [regulation 70]
 
-- WHO IS PERMITTED TO TEACH ENGLISH The qualifications specified in Part II or IIA and— (1 of 2004 s. 18)
+Qualifications for a Permitted Teacher Who is Permitted to Teach English
 
-- (1) Grade E or higher grade in English Language (Syllabus B) in the Hong Kong Certificate of Education Examination; (1 of 2004 s. 18)
+- The qualifications specified in Part 2 or 2A and— (1 of 2004 s. 18)
+
+- (1) Grade E or higher grade in English Language (Syllabus B) in the Hong Kong Certificate of Education Examination;
 
 - (1A) Level 2 or a higher level in English Language in the Hong Kong Diploma of Secondary Education Examination; (L.N. 23 of 2012)
 
 - (2) a pass in English Language in the Hong Kong English School Certificate, the Hong Kong Chinese School Certificate, or the Hong Kong School Certificate; or
 
-- (3) a knowledge of English of a standard which in the opinion of the Permanent Secretary is equivalent to—
+- (3) a knowledge of English of a standard which in the opinion of the Permanent Secretary is equivalent to— (L.N. 23 of 2012)
 
   - (a) Grade E in English Language (Syllabus B) in the Hong Kong Certificate of Education Examination; or
 
-  - (b) Level 2 in English Language in the Hong Kong Diploma of Secondary Education Examination. (3 of 2003 s. 14; 1 of 2004 s. 18; L.N. 23 of 2012)
+  - (b)
 
-  - PART IV | [regulation 70A]
+  - Level 2 in English Language in the Hong Kong Diploma of Secondary Education Examination. (3 of 2003 s. 14; L.N. 23 of 2012)
 
-  - QUALIFICATIONS FOR A PERMITTED TEACHER WHO
+  - (1 of 2004 s. 18)
 
-  - IS PERMITTED TO TEACH PUPILS UNDERGOING
+  - Part 4 | [regulation 70A]
 
-  - NURSERY OR KINDERGARTEN EDUCATION
+  - Qualifications for a Permitted Teacher Who is Permitted to Teach Pupils Undergoing Nursery or Kindergarten Education
 
 - (1) A certificate of status as “Qualified Assistant Kindergarten Teacher” issued by the Hong Kong Education Department to a teacher who has completed an approved course of training, and approved teaching experience;
 
-- (2) one or two certificates of the Hong Kong Certificate of Education Examination with an aggregate of 5 separate subjects at Grade E or a higher grade, including English Language (Syllabus A or B) and Chinese Language; (1 of 2004 s. 18; L.N. 23 of 2012; L.N. 23 of 2012)
+- (2) one or two certificates of the Hong Kong Certificate of Education Examination with an aggregate of 5 separate subjects at Grade E or a higher grade, including English Language (Syllabus A or B) and Chinese Language; (1 of 2004 s. 18)
 
 - (2A) one or two certificates of the Hong Kong Diploma of Secondary Education Examination with an aggregate of 5 separate subjects consisting of—
 
@@ -152,11 +148,11 @@ QUALIFICATIONS FOR A REGISTERED TEACHER
 
 - (3)
 
-- any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2) or (2A). (3 of 2003 s. 14; L.N. 23 of 2012)
+- any other educational training or practical experience which in the opinion of the Permanent Secretary is equivalent to the qualifications specified in paragraph (1), (2) or (2A). (3 of 2003 s. 14)
 
-  - For the purposes of this Part, “approved” (認可) means approved by the Permanent Secretary. (3 of 2003 s. 14)
+  - For the purposes of this Part, approved (認可) means approved by the Permanent Secretary. (3 of 2003 s. 14)
 
-(L.N. 268 of 1990)
+(L.N. 268 of 1990; L.N. 23 of 2012) (E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)
 
 Editorial Note:
 
@@ -168,10 +164,6 @@ which has not been disposed of, then the application is to be disposed of as if 
 
 (2) A person who possesses the prescribed qualifications for registration as a teacher immediately before the commencement date may apply for registration within 2 months from the commencement date and the application is to be disposed of as if this Ordinance had not been enacted. (3) This section is in addition to and not in derogation from section 23 of the Interpretation and General Clauses Ordinance (Cap. 1).
 
-- **(4)
+- **(4) In this section and section 21, “commencement date” (生效日期) means the date appointed by the Secretary for Education and Manpower for the commencement of section 18 of this Ordinance under section 1(2) of this Ordinance. ** Commencement date: 1 October 2004.
 
-- In this section and section 21, “commencement date” (生效日期) means the date appointed by the Secretary for Education and Manpower for the commencement of section 18 of this Ordinance under section 1(2) of this Ordinance.
-
-- ** Commencement date: 1 October 2004.
-
-- 21. Transitional provisions regarding qualifications of permitted teachers (1) Notwithstanding section 51(1)(c) of the Education Ordinance (Cap. 279), the Permanent Secretary may issue a permit under section 50 of that Ordinance in respect of a person who was serving as permitted teacher in a school immediately before the commencement date even though the person does not possess the prescribed qualifications for a permitted teacher on or after the commencement date. (2) Subsection (1) applies where— (a) an application to employ the person as a permitted teacher in a school is made under section 49 of the Education Ordinance (Cap. 279) within 5 years from the commencement date; and (b) at the time of making the application the person has been enrolled in or is attending a training course approved by the Permanent Secretary for the purpose.”.
+21. Transitional provisions regarding qualifications of permitted teachers (1) Notwithstanding section 51(1)(c) of the Education Ordinance (Cap. 279), the Permanent Secretary may issue a permit under section 50 of that Ordinance in respect of a person who was serving as permitted teacher in a school immediately before the commencement date even though the person does not possess the prescribed qualifications for a permitted teacher on or after the commencement date. (2) Subsection (1) applies where— (a) an application to employ the person as a permitted teacher in a school is made under section 49 of the Education Ordinance (Cap. 279) within 5 years from the commencement date; and (b) at the time of making the application the person has been enrolled in or is attending a training course approved by the Permanent Secretary for the purpose.”.

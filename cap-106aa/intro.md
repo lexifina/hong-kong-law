@@ -1,7 +1,9 @@
-TELECOMMUNICATIONS (LEVEL OF SPECTRUM UTILIZATION FEES) (SECOND GENERATION MOBILE SERVICES) REGULATION
+Telecommunications (Level of Spectrum Utilization Fees) (Second Generation Mobile Services) Regulation
 
-(Made under section 32I of the Telecommunications
+(Cap. 106, section 32I)
 
-Ordinance (Cap. 106))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [3 February 2005]
+
+(Format changes—E.R. 2 of 2012)

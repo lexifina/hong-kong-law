@@ -1,7 +1,7 @@
 Motor Vehicle Idling (Fixed Penalty) Regulation
 
-(Made by the Secretary for the Environment under section 31 of the
+(Cap. 611, section 31)
 
-Motor Vehicle Idling (Fixed Penalty) Ordinance (3 of 2011))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [15 December 2011] L.N. 134 of 2011

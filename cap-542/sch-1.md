@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 20B]
 
-COMPOSITION OF THE AGRICULTURE AND FISHERIES FUNCTIONAL CONSTITUENCY
+Composition of the Agriculture and Fisheries Functional Constituency
 
 (The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
 

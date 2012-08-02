@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 3]
 
-PURPOSES FOR WHICH IT IS PROHIBITED TO ADVERTISE ANY MEDICINE, SURGICAL APPLIANCE OR TREATMENT
+Purposes for which it is Prohibited to Advertise any Medicine, Surgical Appliance or Treatment
 
 - 1. The induction of menstruation or relief of amenorrhea or delayed menstruation or any other gynaecological or obstetrical disease.
 

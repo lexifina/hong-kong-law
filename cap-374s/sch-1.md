@@ -1,7 +1,7 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-APPROVED BREATH ANALYSING INSTRUMENTS
+Approved Breath Analysing Instruments
 
 - 1. Alcotest 7110 manufactured by Dräger, Lübeck, Germany.

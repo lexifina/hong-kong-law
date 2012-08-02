@@ -1,8 +1,10 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 2 & 39]
 
-HEARING ASSISTIVE DEVICE
+Hearing Assistive Device
+
+(Format changes—E.R. 2 of 2012)
 
 - 1. Hearing aid.
 

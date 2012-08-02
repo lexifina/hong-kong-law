@@ -1,8 +1,8 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 3(8), 15(9) & 18(1)]
 
-EQUIPMENT TESTS AND RESERVE POWER CHECKS
+Equipment Tests and Reserve Power Checks
 
 - 1. Daily
 

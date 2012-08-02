@@ -1,7 +1,9 @@
-OZONE LAYER PROTECTION (PRODUCTS CONTAINING SCHEDULED SUBSTANCES) (IMPORT BANNING) REGULATION
+Ozone Layer Protection (Products Containing Scheduled Substances) (Import Banning) Regulation
 
-(Made by the Governor in Council under section 16 of the
+(Cap. 403, section 16)
 
-Ozone Layer Protection Ordinance (Cap. 403))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [27 May 1993]
+
+(Format changes—E.R. 2 of 2012)

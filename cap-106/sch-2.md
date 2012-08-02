@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 6D(2)]
 
-MATTERS TO BE TAKEN INTO ACCOUNT BY AUTHORITY
+Matters to be Taken into Account by Authority
 
 - 1. The height of barriers to entry to a telecommunications market.
 

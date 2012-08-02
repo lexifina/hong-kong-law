@@ -2,7 +2,9 @@
 
 [reg. 46A(7)]
 
-Particulars to be contained in record of authorization
+Particulars to be Contained in Record of Authorization
+
+(Format changes—E.R. 2 of 2012)
 
 - 1. Number of the trade plate issued in respect of the trade licence
 

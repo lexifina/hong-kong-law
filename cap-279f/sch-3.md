@@ -1,18 +1,20 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 5]
 
-TEACHERS’ QUALIFICATIONS
+Teachers’ Qualifications
 
-- PART 1 PROVISIONS EXEMPTED The following provisions of the Ordinance—
+- Part 1 Provisions Exempted
 
-  - (a) section 42 (Teachers to be registered or permitted teachers);
+  - The following provisions of the Ordinance—
 
-  - (b) section 67(d) (Permanent Secretary may require interview or further information);
+    - (a) section 42 (Teachers to be registered or permitted teachers);
 
-  - (c) section 87(3)(e) and (5) (Offences and penalties).
+    - (b) section 67(d) (Permanent Secretary may require interview or further information);
 
-- PART 2 CONDITIONS FOR EXEMPTION
+    - (c) section 87(3)(e) and (5) (Offences and penalties).
+
+- Part 2 Conditions for Exemption
 
   - 1. A teacher who teaches in an exempted school shall possess the minimum qualifications for a permitted teacher, that is— (L.N. 24 of 2012)
 

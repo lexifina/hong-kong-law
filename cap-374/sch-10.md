@@ -1,8 +1,8 @@
-# SCHEDULE 10
+# Schedule 10
 
 [ss. 77C, 77D, 77F & 77H]
 
-REQUIREMENTS APPLICABLE TO VEHICLE EMISSION TESTING CENTRES
+Requirements Applicable to Vehicle Emission Testing Centres
 
 - 1. A vehicle emission testing centre shall be equipped, staffed, operated and maintained, and the testing of motor vehicles shall be conducted, in accordance with any code of practice issued and from time to time revised by the Commissioner under section 77F(1)(a).
 
@@ -16,7 +16,7 @@ REQUIREMENTS APPLICABLE TO VEHICLE EMISSION TESTING CENTRES
 
   - (c) in the ownership of the vehicle emission testing centre, or the financial status of the proprietor, or any other matter specified by the Commissioner.
 
-- 4. Subject to any practice laid down in the code of practice, the vehicle emission testing centre shall test any motor vehicle produced to it for testing for purposes of Part VIIIA of the Ordinance.
+- 4. Subject to any practice laid down in the code of practice, the vehicle emission testing centre shall test any motor vehicle produced to it for testing for purposes of Part 8A of the Ordinance.
 
 - 5. Notices in a form approved by the Commissioner shall be prominently displayed at the vehicle emission testing centre indicating and stating—
 
@@ -44,4 +44,4 @@ REQUIREMENTS APPLICABLE TO VEHICLE EMISSION TESTING CENTRES
 
   - (c) Fee payable for supply of form of certificate of compliance. | $30 for each form of certificate.
 
-- (Amended L.N. 273 of 1994; L.N. 500 of 1996; L.N. 585 of 1997) (Schedule 10 Added 3 of 1991 s. 13)
+- (Amended L.N. 273 of 1994; L.N. 500 of 1996; L.N. 585 of 1997) (Schedule 10 Added 3 of 1991 s. 13. Amended E.R. 2 of 2012)

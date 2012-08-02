@@ -1,5 +1,9 @@
-TATE’S CAIRN TUNNEL BY-LAWS
+Tate’s Cairn Tunnel By-laws
 
-Made by the Tate’s Tunnel Company Limited under section 35
+(Cap. 393, section 35)
+
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [26 April 1991]
+
+(Format changes—E.R. 2 of 2012)

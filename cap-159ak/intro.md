@@ -1,9 +1,7 @@
 Higher Rights of Audience Rules
 
-(Made by the Higher Rights Assessment Board under section 73CA of
+(Cap. 159, section 73CA and Cap. 1, section 29)
 
-the Legal Practitioners Ordinance (Cap. 159) and section 29 of the
-
-Interpretation and General Clauses Ordinance (Cap. 1))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [22 June 2012] L.N. 70 of 2012

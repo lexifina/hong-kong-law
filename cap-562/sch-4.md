@@ -1,18 +1,20 @@
-# SCHEDULE 4
+# Schedule 4
 
-[ss. 2, 8 & 43 & Schs. 5, 6, 7 & 8]
+[ss 2, 8 & 43 &
 
-DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
+Schs. 5, 6, 7 & 8]
 
-- PART 1 GENERAL
+Domestic Free Television Programme Service Supplementary Provisions
+
+- Part 1 General
 
   - 1. Interpretation In this Schedule—
 
-    - “licence” (牌照) means a domestic free television programme service licence;
+    - licence (牌照) means a domestic free television programme service licence;
 
-    - “licensee” (持牌人) means the holder of a licence;
+    - licensee (持牌人) means the holder of a licence;
 
-    - “service” (服務) means a domestic free television programme service the subject of a licence.
+    - service (服務) means a domestic free television programme service the subject of a licence.
 
   - 2. Application for licence A licence shall not be granted to or held by a company which is the subsidiary of a corporation.
 
@@ -54,11 +56,7 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
         - (ii) within such period as is specified in a notice under subsection (1)(b) applicable to the licence.
 
-  - 5.
-
-  - Disqualified persons not to increase
-
-  - control of licensee
+  - 5. Disqualified persons not to increase control of licensee
 
     - (1) Subject to section 6, no disqualified person who exercises control of a licensee shall increase such control—
 
@@ -68,13 +66,7 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
     - (2) A disqualified person who contravenes subsection (1) commits an offence and is liable on conviction to a fine of $1,000,000 and to imprisonment for 2 years.
 
-  - 6.
-
-  - Circumstances in which disqualified
-
-  - person may increase control of
-
-  - licensee On the application of a licensee, the Chief Executive in Council may, if he is satisfied that the public interest so requires, approve—
+  - 6. Circumstances in which disqualified person may increase control of licensee On the application of a licensee, the Chief Executive in Council may, if he is satisfied that the public interest so requires, approve—
 
     - (a) an increase in the control exercised by a disqualified person in the licensee; or
 
@@ -82,13 +74,9 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
   - 7. Licensee to include certain statement in prospectus A licensee shall ensure that a clear statement of the effect of section 8 of this Ordinance, of Schedule 1 and of sections 5 and 6 is made in any prospectus, within the meaning of the Companies Ordinance (Cap. 32), issued at any time in respect of the licensee.
 
-- PART 2 EFFECT OF NON-RENEWAL OR REVOCATION OF LICENCE
+- Part 2 Effect of Non-Renewal or Revocation of Licence
 
-  - 8.
-
-  - Notice of non-renewal or
-
-  - revocation of licence
+  - 8. Notice of non-renewal or revocation of licence
 
     - (1) Where the Chief Executive in Council decides under—
 
@@ -98,13 +86,7 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
     - (2) Where it is necessary for the purpose of complying with the requirement as to length of notice in subsection (1)(a), the Chief Executive in Council may extend the term of a licence (but no such extension shall continue in force any exclusive right to provide the licensed service).
 
-  - 9.
-
-  - Direction to Financial Secretary to
-
-  - purchase land and property belonging,
-
-  - etc. to licensee, etc.
+  - 9. Direction to Financial Secretary to purchase land and property belonging, etc. to licensee, etc.
 
     - (1) Where a notice is served under section 8(1)(a) or (b) in respect of a licence, or notice of a decision to revoke a licence is served under section 32(4) of this Ordinance, the Chief Executive in Council may direct The Financial Secretary Incorporated to purchase any property (including land) belonging to and used or kept by the licensee—
 
@@ -148,9 +130,9 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
     - (9)
 
-      - For the purposes of this section, “licensee” (持牌人) includes any subsidiary of the licensee.
+      - For the purposes of this section, licensee (持牌人) includes any subsidiary of the licensee.
 
-- PART 3 TELEVISION PROGRAMMES
+- Part 3 Television Programmes
 
   - 10. Minimum duration of television programme service The duration of each language television programme service provided under a deemed licence, within the meaning of Schedule 8 to this Ordinance, falling within section 2(1) of that Schedule shall be not less than 5 hours for each day.
 
@@ -162,7 +144,7 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
   - 12. Certain advertisements prohibited A licensee shall not include in its service any advertisement of a religious or political nature or concerned with any industrial dispute.
 
-- PART 4 FEES AND CHARGES
+- Part 4 Fees and Charges
 
   - 13. Annual payment of fees
 
@@ -170,11 +152,7 @@ DOMESTIC FREE TELEVISION PROGRAMME SERVICE SUPPLEMENTARY PROVISIONS
 
     - (2) In a licence issued or renewed under this Ordinance before the commencement date of the Communications Authority Ordinance (Cap. 616), any condition providing for the payment of the licence fee to the Government is to be construed as a condition providing for the payment of the licence fee to the Authority. (Added 17 of 2011 s. 28)
 
-  - 14.
-
-  - Procedural provisions for recovery
-
-  - of licence fees, etc.
+  - 14. Procedural provisions for recovery of licence fees, etc.
 
     - (1) A licence fee or other fee or charge certified in writing by the Authority to be owing to the Authority shall be recoverable as a civil debt.
 

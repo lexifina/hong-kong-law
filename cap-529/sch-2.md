@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 29]
 
-EXEMPTIONS FROM ORDINANCE
+Exemptions from Ordinance
 
 In this Schedule—
 

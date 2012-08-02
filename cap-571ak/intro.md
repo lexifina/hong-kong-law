@@ -1,7 +1,7 @@
 Securities and Futures (Futures Contracts) Notice 2012
 
-(Made by the Financial Secretary under section 392 of the Securities
+(Cap. 571, section 392)
 
-and Futures Ordinance (Cap. 571))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [27 June 2012]

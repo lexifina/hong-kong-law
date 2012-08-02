@@ -1,10 +1,12 @@
-# SCHEDULE 10
+# Schedule 10
 
 [regs. 8 & 62]
 
-TRANSITIONAL PROVISIONS
+Transitional Provisions
 
-- 1. Where a vehicle is registered under the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 220 sub. leg.) revoked by regulation 61 of these regulations (hereinafter in this Schedule referred to as the “revoked regulations”) in a class specified in column 1 below and the registration is in force at the commencement of these regulations, the vehicle shall be deemed to be registered under these regulations within the class specified opposite thereto in column 2 below and these regulations shall apply to the vehicle as if it were registered under these regulations.
+(Format changes—E.R. 2 of 2012)
+
+- 1. Where a vehicle is registered under the Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 220 sub. leg) revoked by regulation 61 of these regulations (hereinafter in this Schedule referred to as the revoked regulations) in a class specified in column 1 below and the registration is in force at the commencement** of these regulations, the vehicle shall be deemed to be registered under these regulations within the class specified opposite thereto in column 2 below and these regulations shall apply to the vehicle as if it were registered under these regulations.
 
 - 1. Class of vehicle | 2. Class of vehicle
 
@@ -46,7 +48,7 @@ TRANSITIONAL PROVISIONS
 
   - (2) The person who is licensed as the owner of a trailer that is licensed under the revoked regulations shall, if he is the licensed owner of the trailer at the commencement of these regulations, be deemed to be the registered owner of the trailer under these regulations.
 
-- 5. The registration book or a duplicate thereof issued in respect of a motor vehicle under the revoked regulations shall, if it is valid at the commencement of these regulations, be deemed to be a registration document issued in respect of the motor vehicle under these regulation.
+- 5. The registration book or a duplicate thereof issued in respect of a motor vehicle under the revoked regulations shall, if it is valid at the commencement of these regulations, be deemed to be a registration document issued in respect of the motor vehicle under these regulations.
 
 - 6. The registration mark assigned or allocated under the revoked regulations shall, if the assignment or allocation of the registration mark is in force at the commencement of these regulations, be deemed to be a registration mark assigned or allocated under these regulations.
 
@@ -81,3 +83,7 @@ TRANSITIONAL PROVISIONS
 - 19. Where any enactment or document refers, whether specifically or by means of a general description, to the regulations revoked by regulation 61 of these regulations or is to be construed as so referring, the reference shall, except where the context otherwise requires, be construed as, or as including, a reference to the corresponding provision of these regulations.
 
 - 20. Without prejudice to paragraph 8, any record kept under the regulations revoked by regulation 61 of these regulations shall be deemed to form part of the record kept under the corresponding provisions of these regulations.
+
+Editorial Note:
+
+** Commencement date: 25 August 1984.

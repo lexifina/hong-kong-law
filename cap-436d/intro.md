@@ -1,11 +1,9 @@
-WESTERN HARBOUR CROSSING BYLAW
+Western Harbour Crossing Bylaw
 
-(Made by the Western Harbour Tunnel Company Limited under
+(Cap. 436, section 32)
 
-section 32 of the Western Harbour Crossing Ordinance
-
-(Cap. 436) subject to the approval of
-
-the Legislative Council)
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [25 April 1997]
+
+(Format changes—E.R. 2 of 2012)

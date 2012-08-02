@@ -2,4 +2,6 @@ An Ordinance to prohibit corrupt conduct and illegal conduct at elections; to re
 
 [3 March 2000] L.N. 55 of 2000
 
-Enacted by the Legislative Council.
+(Format changes—E.R. 2 of 2012)
+
+(Enacting provision omitted—E.R. 2 of 2012)

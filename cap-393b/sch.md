@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 [by-laws 2, 3, 9 & 16A] (L.N. 116 of 2012)
 
@@ -46,7 +46,9 @@ THIS SIGN INDICATES THAT A SPEED LIMIT OF 50 km PER HOUR IS IMPOSED ON THE SECTI
 
 (L.N. 116 of 2012)
 
-Figure No. 6A Speed Limit
+Figure No. 6A
+
+Speed Limit
 
 This sign indicates that a speed limit of 50 km per hour is imposed on the section of the road immediately following the sign. The sign may be erected on both sides of the road and/or on a central reservation in the case of a dual carriageway at the start of a restriction facing oncoming traffic. The 300 mm sized sign may also be erected at intervals along the road to remind motorists of the speed limit in force.
 

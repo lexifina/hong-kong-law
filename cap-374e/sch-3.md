@@ -1,8 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [reg. 7]
 
-PARTICULARS TO BE ENTERED IN A REGISTRATION DOCUMENT
+Particulars to be Entered in a Registration Document
+
+(Format changes—E.R. 2 of 2012)
 
 - 1. Details of Registered Owner
 
@@ -28,13 +30,13 @@ PARTICULARS TO BE ENTERED IN A REGISTRATION DOCUMENT
 
   - (viii) Cylinder capacity or rated power. (L.N. 77 of 2012)
 
-  - (ix) Permitted gross vehicle weight (goods vehicles and special purpose vehicles only)
+  - (ix) Permitted gross vehicle weight (goods vehicles and special purpose vehicles only).
 
   - (x) Type of body.
 
-  - (xi) colour.
+  - (xi) Colour.
 
-  - (xii) Seating capacity standing passenger capacity.
+  - (xii) Seating capacity and standing passenger capacity.
 
   - (xiii) Any other particulars required by the Commissioner.
 

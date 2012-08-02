@@ -1,7 +1,9 @@
-UNSOLICITED ELECTRONIC MESSAGES REGULATION
+Unsolicited Electronic Messages Regulation
 
-(Made under section 62 of the Unsolicited Electronic Messages
+(Cap. 593, section 62)
 
-Ordinance (9 of 2007))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [22 December 2007] L.N. 202 of 2007
+
+(Format changes—E.R. 2 of 2012)

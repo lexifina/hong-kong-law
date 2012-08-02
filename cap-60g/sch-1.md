@@ -18,7 +18,7 @@ Notes:
 
 - (L.N. 95 of 2006)
 
-ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automatic weapons with a calibre of 12.7 mm (calibre 0.50 inches) or less and accessories, as follows, and specially designed components therefor: (L.N. 65 of 2004)
+ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automatic weapons with a calibre of 12.7 mm (calibre 0.50 inches) or less and accessories, as follows, and specially designed components therefor: (L.N. 65 of 2004) 6
 
 - (a)
 
@@ -60,865 +60,867 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
 (L.N. 65 of 2004)
 
-ML2 Smooth-bore weapons with a calibre of 20 mm or more, other weapons or armament with a calibre greater than 12.7 mm (calibre 0.50 inches), projectors and accessories, as follows, and specially designed components therefor: (L.N. 65 of 2004)
+- ML2 Smooth-bore weapons with a calibre of 20 mm or more, other weapons or armament with a calibre greater than 12.7 mm (calibre 0.50 inches), projectors and accessories, as follows, and specially designed components therefor: (L.N. 65 of 2004)
 
-- (a)
+  - (a)
 
-- Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, rifles, recoilless rifles, smooth-bore weapons and signature reduction devices for those articles;
-
-- Notes:
-
-  - 1. ML2(a) includes injectors, metering devices, storage tanks and other specially designed components for use with liquid propelling charges for any of the equipment specified in ML2(a).
-
-  - 2. ML2(a) does not include:
-
-    - (a) Muskets, rifles and carbines manufactured earlier than 1938; (L.N. 226 of 2009)
-
-    - (b) Reproductions of muskets, rifles and carbines the originals of which were manufactured earlier than 1890; and (L.N. 254 of 2008; L.N. 226 of 2009)
-
-    - (c) Hand-held projectile launchers specially designed to launch tethered projectiles having no high explosive charge or communications link, to a range of less than or equal to 500 m. (L.N. 226 of 2009)
-
-- (b) Smoke, gas and pyrotechnic projectors or generators, specially designed or modified for military use; Note:
-
-- ML2(b) does not apply to signal pistols. (L.N. 161 of 2011)
-
-- (c) Weapons sights and weapon sight mounts, having all of the following:
-
-  - (1) Specially designed for military use;
-
-  - (2) Specially designed for weapons specified in ML2(a); (L.N. 161 of 2011)
-
-- (d) Mountings specially designed for the weapons specified in ML2(a); (L.N. 161 of 2011)
-
-ML3 Ammunition and fuze setting devices, as follows, and specially designed components therefor:
-
-- (a) Ammunition for the weapons controlled by ML1, ML2 or ML12;
-
-- (b) Fuze setting devices specially designed for ammunition controlled by ML3(a); (L.N. 65 of 2004)
-
-- Notes:
-
-  - 1. Specially designed components include:
-
-    - (a) Metal or plastic fabrications such as primer anvils, bullet cups, cartridge links, rotating bands and munitions metal parts;
-
-    - (b) Safing and arming devices, fuses, sensors and initiation devices;
-
-    - (c) Power supplies with high one-time operational output;
-
-    - (d) Combustible cases for charges;
-
-    - (e) Submunitions including bomblets, minelets and terminally guided projectiles.
-
-- 2. ML3(a) does not control ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber. (L.N. 65 of 2004)
-
-- 3. ML3(a) does not control cartridges specially designed for any of the following purposes: (L.N. 65 of 2004)
-
-  - (a) Signalling;
-
-  - (b) Bird scaring; or
-
-  - (c) Lighting of gas flares at oil wells. (L.N. 132 of 2001)
-
-ML4 Bombs, torpedoes, rockets, missiles, other explosive devices and charges and related equipment and accessories, as follows, specially designed for military use, and specially designed components therefor: (L.N. 65 of 2004)
-
-N.B.:
-
-- 1. For guidance and navigation equipment, see ML11. (L.N. 254 of 2008)
-
-- 2. For Aircraft Missile Protection Systems (AMPS), see ML4(c). (L.N. 254 of 2008)
-
-- (a)
-
-- Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition-charges, demolition-devices and demolition-kits, “pyrotechnic” devices, cartridges and simulators (i.e. equipment simulating the characteristics of any of these items) specially designed for military use; (L.N. 132 of 2001; L.N. 65 of 2004; L.N. 254 of 2008)
-
-- Note:
-
-- ML4(a) includes:
-
-  - (1) Smoke grenades, fire bombs, incendiary bombs and explosive devices;
-
-  - (2) Missile rocket nozzles and re-entry vehicle nosetips.
-
-- (b) Equipment having all of the following characteristics:
-
-  - (1) Specially designed for military use;
-
-  - (2) Specially designed for ‘activities’ relating to any of the following:
-
-    - (a) Items specified by ML4(a);
-
-    - (b) Improvised Explosive Devices (IEDs);
-
-  - Technical Note:
-
-  - For the purpose of ML4(b)(2), ‘activities’ applies to handling, launching, laying, controlling, discharging, detonating, activating, powering with one-time operational output, decoying, jamming, sweeping, detecting, disrupting or disposing. (L.N. 161 of 2011)
-
-- (c)
-
-- Aircraft Missile Protection Systems (AMPS);
-
-- Note:
-
-- ML4(c) does not include AMPS that:
-
-  - (a) Contain any of the following missile warning sensors:
-
-    - (1) Passive sensors having peak response between 100 nm and 400 nm;
-
-    - (2) Active pulsed Doppler missile warning sensors;
-
-  - (b) Contain countermeasures dispensing systems;
-
-  - (c) Contain flares, which exhibit both a visible signature and an infrared signature, for decoying surface-to-air missiles; and
-
-  - (d) are installed on “civil aircraft” and having all of the following characteristics:
-
-    - (1) The AMPS is only operable in the specific “civil aircraft” in which the specific AMPS is installed and for which any of the following has been issued:
-
-      - (a) A civil Type Certificate;
-
-      - (b) An equivalent document recognized by the International Civil Aviation Organisation (ICAO);
-
-    - (2) The AMPS employs protection to prevent unauthorized access to “software”;
-
-    - (3) The AMPS incorporates an active mechanism that forces the system not to function when it is removed from the “civil aircraft” in which it was installed. (L.N. 254 of 2008)
-
-ML5 Fire control, and related alerting and warning equipment, and related systems, test and alignment and countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor: (L.N. 132 of 2001)
-
-- (a) Weapon sights, bombing computers, gun laying equipment and weapon control systems;
-
-- (b) Target acquisition, designation, range-finding, surveillance or tracking systems; detection, data fusion, recognition or identification equipment; and sensor integration equipment;
-
-- (c) Countermeasure equipment for items specified by ML5(a) and ML5(b); Note:
-
-- For the purposes of ML5(c), countermeasure equipment includes detection equipment. (L.N. 161 of 2011)
-
-- (d) Field test or alignment equipment, specially designed for items specified by ML5(a), ML5(b) or ML5(c); (L.N. 132 of 2001; L.N. 161 of 2011)
-
-ML6 Ground vehicles and components, as follows:
-
-N.B.:
-
-For guidance and navigation equipment, see Note 7 to ML11. (L.N. 95 of 2006)
-
-- (a) Ground vehicles and components therefor, specially designed or modified for military use; Technical Note:
-
-- For the purposes of ML6(a), the term ground vehicles includes trailers.
-
-- (b) Other ground vehicles and components, as follows:
-
-  - (1) All-wheel drive vehicles capable of off-road use which have been manufactured or fitted with materials or components to provide ballistic protection to level III (NIJ 0108.01, September 1985, or comparable national standard) or better;
-
-  - (2) Components having all of the following:
-
-    - (a) Specially designed for vehicles specified in ML6(b)(1);
-
-    - (b) Providing ballistic protection to level III (NIJ 0108.01, September 1985, or comparable national standard) or better; (L.N. 161 of 2011)
-
-- N.B.:
-
-- See also ML13(a). (L.N. 65 of 2004)
-
-- Notes:
-
-- 1. ML6(a) includes: (L.N. 65 of 2004)
-
-  - (a) Tanks and other military armed vehicles and military vehicles fitted with mountings for arms or equipment for mine laying or the launching of munitions specified by under ML4; (L.N. 161 of 2011)
-
-  - (b) Armoured vehicles;
-
-  - (c) Amphibious and deep water fording vehicles;
-
-  - (d) Recovery vehicles and vehicles for towing or transporting ammunition or weapon systems and associated load handling equipment.
-
-- 2. Modification of a ground vehicle for military use specified by ML6(a) entails a structural, electrical or mechanical change involving one or more specially designed military components. Such components include: (L.N. 65 of 2004; L.N. 161 of 2011)
-
-  - (a) Pneumatic tyre casings of a kind specially designed to be bullet-proof; (L.N. 161 of 2011)
-
-  - (b) Armoured protection of vital parts, (e.g. fuel tanks or vehicle cabs); (L.N. 161 of 2011)
-
-  - (c) Special reinforcements or mountings for weapons; (L.N. 161 of 2011)
-
-  - (d) Black-out lighting. (L.N. 161 of 2011)
-
-  - (e) (Repealed L.N. 161 of 2011)
-
-- 3. ML6 does not apply to civil automobiles, or trucks designed or modified for transporting money or valuables, having armoured or ballistic protection. (L.N. 65 of 2004; L.N. 161 of 2011)
-
-ML7 Chemical or biological toxic agents, “riot control agents”, radioactive materials, related equipment, components and materials, as follows: (L.N. 95 of 2006)
-
-- (a) Biological agents or radioactive materials, “adapted for use in war” to produce casualties in humans or animals, degrade equipment or damage crops or the environment; (L.N. 95 of 2006; L.N. 161 of 2011)
-
-- (b) Chemical warfare (CW) agents including:
-
-  - (1) CW nerve agents:
-
-    - (a) O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-phosphonofluoridates, such as: Sarin (GB): O-Isopropyl methylphosphonofluoridate (CAS 107-44-8); and Soman (GD): O-Pinacolyl methylphosphonofluoridate (CAS 96-64-0);
-
-    - (b) O-Alkyl (equal to or less than C10, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, such as: Tabun (GA):O-Ethyl N,N-dimethylphosphoramidocyanidate (CAS 77-81-6);
-
-    - (c) O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, such as: VX: O-Ethyl S-2-di-isopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9);
-
-  - (2) CW vesicant agents:
-
-    - (a) Sulphur mustards, such as:
-
-      - (1) 2-Chloroethylchloromethylsulphide (CAS 2625-76-5);
-
-      - (2) Bis (2-chloroethyl) sulphide (CAS 505-60-2);
-
-      - (3) Bis (2-chloroethylthio) methane (CAS 63869-13-6);
-
-      - (4) 1,2-bis (2-chloroethylthio) ethane (CAS 3563-36-8);
-
-      - (5) 1,3-bis (2-chloroethylthio)-n-propane (CAS 63905-10-2);
-
-      - (6) 1,4-bis (2-chloroethylthio)-n-butane (CAS 142868-93-7);
-
-      - (7) 1,5-bis (2-chloroethylthio)-n-pentane (CAS 142868-94-8);
-
-      - (8) Bis (2-chloroethylthiomethyl) ether (CAS 63918-90-1);
-
-      - (9) Bis (2-chloroethylthioethyl) ether (CAS 63918-89-8);
-
-    - (b) Lewisites, such as:
-
-      - (1) 2-chlorovinyldichloroarsine (CAS 541-25-3);
-
-      - (2) Tris (2-chlorovinyl) arsine (CAS 40334-70-1);
-
-      - (3) Bis (2-chlorovinyl) chloroarsine (CAS 40334-69-8);
-
-    - (c) Nitrogen mustards, such as:
-
-      - (1) HN1: bis (2-chloroethyl) ethylamine (CAS 538-07-8);
-
-      - (2) HN2: bis (2-chloroethyl) methylamine (CAS 51-75-2);
-
-      - (3) HN3: tris (2-chloroethyl) amine (CAS 555-77-1);
-
-  - (3) CW incapacitating agents, such as: 3-Quinuclidinyl benzilate (BZ) (CAS 6581-06-2);
-
-  - (4) CW defoliants, such as:
-
-    - (a) Butyl 2-chloro-4-fluorophenoxyacetate (LNF);
-
-    - (b) 2,4,5-trichlorophenoxyacetic acid (CAS 93-76-5) mixed with 2,4-dichlorophenoxyacetic acid (CAS 94-75-7) (Agent Orange) (CAS 39277-47-9); (L.N. 95 of 2006; L.N. 161 of 2011)
-
-- (c) CW binary precursors and key precursors, as follows: (L.N. 95 of 2006)
-
-  - (1) Alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) Phosphonyl Difluorides, such as: DF: Methyl Phosphonyldifluoride (CAS 676-99-3);
-
-  - (2) O-Alkyl (H or equal to or less than C10, including cycloalkyl) O-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonites and corresponding alkylated and protonated salts, such as: QL: O-Ethyl-2-di-isopropylaminoethyl methylphosphonite (CAS 57856-11-8);
-
-  - (3) Chlorosarin: O-Isopropyl methylphosphonochloridate (CAS 1445-76-7);
-
-  - (4) Chlorosoman: O-Pinacolyl methylphosphonochloridate (CAS 7040-57-5);
-
-- (d) “Riot control agents”, active constituent chemicals and combinations thereof including:
-
-  - (1) α-Bromobenzeneacetonitrile (Bromobenzyl cyanide) (CA) (CAS 5798-79-8);
-
-  - (2) [(2-chlorophenyl) methylene] propanedinitrile (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);
-
-  - (3) 2-Chloro-1-phenylethanone, Phenylacyl chloride (ω-chloroacetophenone) (CN) (CAS 532-27-4);
-
-  - (4) Dibenz-(b,f)-1,4-oxazephine (CR) (CAS 257-07-8);
-
-  - (5) 10-Chloro-5, 10-dihydrophenarsazine (Phenarsazine chloride) (Adamsite) (DM) (CAS 578-94-9);
-
-  - (6) N-Nonanoylmorpholine (MPA) (CAS 5299-64-9);
-
-- Notes:
-
-  - 1. ML7(d) does not control “riot control agents” individually packaged for personal self defence purposes.
-
-  - 2. ML7(d) does not control active constituent chemicals, and combinations thereof identified and packaged for food production or medical purposes. (L.N. 95 of 2006)
-
-- (e) Equipment specially designed or modified for military use and designed or modified for the dissemination of any of the following, and specially designed components therefor: (L.N. 226 of 2009)
-
-  - (1) Materials or agents controlled by ML7(a), ML7(b) or ML7(d); or
-
-  - (2) CW made up of precursors controlled by ML7(c);
-
-- (f) Protective and decontamination equipment specially designed or modified for military use, components and chemical mixtures, as follows: (L.N. 226 of 2009)
-
-  - (1) Equipment designed or modified for defence against materials specified in ML7(a), ML7(b) or ML7(d), and specially designed components for the equipment; (L.N. 226 of 2009)
-
-  - (2) Equipment designed or modified for the decontamination of objects contaminated with materials specified in ML7(a) or ML7(b), and specially designed components therefor;
-
-  - (3) Chemical mixtures specially developed/formulated for the decontamination of objects contaminated with materials specified in ML7(a) or ML7(b); (L.N. 226 of 2009)
-
-- Note:
-
-- ML7(f)(1) includes:
-
-  - 1. Air conditioning units specially designed or modified for nuclear, biological or chemical filtration;
-
-  - 2. Protective clothing.
-
-- N.B.:
-
-- For civil gas masks, protective and decontamination equipment, see also 1A004 of the Dual-use Goods List.
-
-- (g) Equipment specially designed or modified for military use and designed or modified for the detection or identification of materials specified in ML7(a), ML7(b) or ML7(d), and specially designed components therefor; (L.N. 226 of 2009) Note:
-
-- ML7(g) does not control personal radiation monitoring dosimeters. (L.N. 95 of 2006)
-
-- N.B.:
-
-- See also 1A004 of the Dual-use Goods List.
-
-- (h) “Biopolymers” specially designed or processed for the detection or identification of CW agents controlled by ML7(b), and the cultures of specific cells used to produce them;
-
-- (i) “Biocatalysts” for the decontamination or degradation of CW agents, and biological systems therefor, as follows:
-
-  - (1) “Biocatalysts” specially designed for the decontamination or degradation of CW agents specified by ML7(b) resulting from directed laboratory selection or genetic manipulation of biological systems; (L.N. 161 of 2011)
-
-  - (2) Biological systems containing the genetic information specific to the production of “biocatalysts” specified by ML7(i)(1), as follows:
-
-    - (a) “Expression vectors”;
-
-    - (b) Viruses;
-
-    - (c) Cultures of cells; (L.N. 161 of 2011)
-
-- (j) (Repealed L.N. 95 of 2006)
-
-Notes:
-
-- 1. ML7(a), ML7(b) and ML7(d) do not control:
-
-  - (a) Cyanogen chloride (CAS 506-77-4);
-
-  - (b) Hydrocyanic acid (CAS 74-90-8);
-
-  - (c) Chlorine (CAS 7782-50-5);
-
-  - (d) Carbonyl chloride (phosgene) (CAS 75-44-5);
-
-  - (e) Diphosgene (trichloromethyl-chloroformate) (CAS 503-38-8);
-
-  - (f) (Repealed L.N. 95 of 2006)
-
-  - (g) Xylyl bromide, ortho: (CAS 89-92-9), meta: (CAS 620-13-3), para: (CAS 104-81-4);
-
-  - (h) Benzyl bromide (CAS 100-39-0);
-
-  - (i) Benzyl iodide (CAS 620-05-3);
-
-  - (j) Bromo acetone (CAS 598-31-2);
-
-  - (k) Cyanogen bromide (CAS 506-68-3);
-
-  - (l) Bromo methylethylketone (CAS 816-40-0);
-
-  - (m) Chloro acetone (CAS 78-95-5);
-
-  - (n) Ethyl iodoacetate (CAS 623-48-3);
-
-  - (o) Iodo acetone (CAS 3019-04-3);
-
-  - (p) Chloropicrin (CAS 76-06-2).
-
-- 2. The cultures of cells and biological systems specified in ML7(h) and ML7(i)(2) are exclusive and these sub-items do not control cells or biological systems for civil purposes, such as agricultural, pharmaceutical, medical, veterinary, environmental, waste management, or in the food industry. (L.N. 226 of 2009)
-
-(L.N. 65 of 2004; L.N. 95 of 2006)
-
-ML8 “Energetic materials”, and related substances, as follows:
-
-N.B.:
-
-See also 1C011 of the Dual-use Goods List.
-
-For charges and devices, see ML4 and 1A008 of the Dual-use Goods List. (L.N. 161 of 2011)
-
-Technical Notes:
-
-- 1. For the purposes of this entry, ‘mixture’ refers to a composition of two or more substances with at least one substance being listed in the ML8 sub-items.
-
-- 2. Any substance listed in the ML8 sub-items is controlled by this list, even when utilized in an application other than that indicated. (e.g. TAGN is predominantly used as an explosive but can also be used either as a fuel or an oxidizer.)
-
-- (a) “Explosives”, as follows, and mixtures thereof:
-
-  - (1) ADNBF (aminodinitrobenzofuroxan or 7-amino-4, 6-dinitrobenzofurazane-1-oxide) (CAS 97096-78-1);
-
-  - (2) BNCP (cis-bis (5-nitrotetrazolato) tetra amine-cobalt (III) perchlorate) (CAS 117412-28-9);
-
-  - (3) CL-14 (diamino dinitrobenzofuroxan or 5, 7-diamino-4, 6-dinitrobenzofurazane-1-oxide) (CAS 117907-74-1);
-
-  - (4) CL-20 (HNIW or 2,4,6,8,10,12-Hexanitrohexaazaisowurtzitane) (CAS 135285-90-4); chlathrates of CL-20 (see also ML8(g)(3) and ML8(g)(4) for its “precursors”); (L.N. 254 of 2008)
-
-  - (5) CP (2-(5-cyanotetrazolato) penta amine-cobalt (III) perchlorate) (CAS 70247-32-4);
-
-  - (6) DADE (1,1-diamino-2,2-dinitroethylene, FOX7) (CAS 145250-81-3); (L.N. 161 of 2011)
-
-  - (7) DATB (diaminotrinitrobenzene) (CAS 1630-08-6);
-
-  - (8) DDFP (1,4-dinitrodifurazanopiperazine);
-
-  - (9) DDPO (2,6-diamino-3,5-dinitropyrazine-1-oxide, PZO) (CAS 194486-77-6);
-
-  - (10) DIPAM (3,3’-diamino-2,2’,4,4’,6,6’-hexanitrobiphenyl or dipicramide) (CAS 17215-44-0);
-
-  - (11) DNGU (DINGU or dinitroglycoluril) (CAS 55510-04-8);
-
-  - (12) Furazans, as follows:
-
-    - (a) DAAOF (diaminoazoxyfurazan);
-
-    - (b) DAAzF (diaminoazofurazan) (CAS 78644-90-3);
-
-  - (13) HMX and derivatives (see also ML8(g)(5) for its “precursors”), as follows:
-
-    - (a) HMX
-
-    - (Cyclotetramethylenetetranitramine, octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazine, 1,3,5,7-tetranitro-1,3,5,7-tetraza-cyclooctane, octogen or octogene) (CAS 2691-41-0);
-
-    - (b) difluoroaminated analogs of HMX;
-
-    - (c) K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabicyclo [3,3,0]-octanone-3, tetranitrosemiglycouril or keto-bicyclic HMX) (CAS 130256-72-3);
-
-  - (14) HNAD (hexanitroadamantane) (CAS 143850-71-9);
-
-  - (15) HNS (hexanitrostilbene) (CAS 20062-22-0);
-
-  - (16) Imidazoles, as follows:
-
-    - (a) BNNII (Octahydro-2,5-bis(nitroimino) imidazo [4,5-d]imidazole);
-
-    - (b) DNI (2,4-dinitroimidazole) (CAS 5213-49-0);
-
-    - (c) FDIA (1-fluoro-2,4-dinitroimidazole);
-
-    - (d) NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazole);
-
-    - (e) PTIA (1-picryl-2,4,5-trinitroimidazole);
-
-  - (17) NTNMH (1-(2-nitrotriazolo)-2-dinitromethylene hydrazine);
-
-  - (18) NTO (ONTA or 3-nitro-1,2,4-triazol-5-one) (CAS 932-64-9);
-
-  - (19) Polynitrocubanes with more than four nitro groups;
-
-  - (20) PYX (2,6-Bis (picrylamino)-3,5-dinitropyridine) (CAS 38082-89-2);
-
-  - (21) RDX and derivatives, as follows:
-
-    - (a) RDX (cyclotrimethylenetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen or hexogene) (CAS 121-82-4);
-
-    - (b) Keto-RDX (K-6 or 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1);
-
-  - (22) TAGN (triaminoguanidinenitrate) (CAS 4000-16-2);
-
-  - (23) TATB (triaminotrinitrobenzene) (CAS 3058-38-6) (see also ML8(g)(7) for its “precursors”);
-
-  - (24) TEDDZ (3,3,7,7-tetrabis (difluoroamine) octahydro-1,5-dinitro-1,5-diazocine);
-
-  - (25) Tetrazoles, as follows:
-
-    - (a) NTAT (nitrotriazol aminotetrazole);
-
-    - (b) NTNT (1-N-(2-nitrotriazolo)-4-nitrotetrazole);
-
-  - (26) Tetryl (trinitrophenylmethylnitramine) (CAS 479-45-8);
-
-  - (27) TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadecalin) (CAS 135877-16-6) (see also ML8(g)(6) for its “precursors”);
-
-  - (28) TNAZ (1,3,3-trinitroazetidine) (CAS 97645-24-4) (see also ML8(g)(2) for its “precursors”);
-
-  - (29) TNGU (SORGUYL or tetranitroglycoluril) (CAS 55510-03-7);
-
-  - (30) TNP (1,4,5,8-tetranitro-pyridazino [4,5-d] pyridazine) (CAS 229176-04-9);
-
-  - (31) Triazines, as follows:
-
-    - (a) DNAM (2-oxy-4,6-dinitroamino-s-triazine) (CAS 19899-80-0);
-
-    - (b) NNHT (2-nitroimino-5-nitro-hexahydro-1,3,5-triazine) (CAS 130400-13-4);
-
-  - (32) Triazoles, as follows:
-
-    - (a) 5-azido-2-nitrotriazole;
-
-    - (b) ADHTDN (4-amino-3,5-dihydrazino-1,2,4-triazole dinitramide) (CAS 1614-08-0);
-
-    - (c) ADNT (1-amino-3,5-dinitro-1,2,4-triazole);
-
-    - (d) BDNTA ([bis-dinitrotriazole] amine);
-
-    - (e) DBT (3,3’-dinitro-5,5-bi-1,2,4-triazole) (CAS 30003-46-4);
-
-    - (f) DNBT (dinitrobistriazole) (CAS 70890-46-9);
-
-    - (g) (Repealed L.N. 161 of 2011)
-
-    - (h) NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitrotriazole);
-
-    - (i) PDNT (1-picryl-3,5-dinitrotriazole);
-
-    - (j) TACOT (tetranitrobenzotriazolobe nzotriazole) (CAS 25243-36-1);
-
-  - (33) Explosives not listed elsewhere in ML8(a) and having any of the following:
-
-    - (a) Detonation velocity exceeding 8700 m/s, at maximum density;
-
-    - (b) Detonation pressure exceeding 34 GPa (340 kbar); (L.N. 161 of 2011)
-
-  - (34) Organic explosives not listed elsewhere in ML8(a) and having all of the following:
-
-    - (a) Yielding detonation pressures of 25 GPa (250 kbar) or more;
-
-    - (b) Remaining stable at temperatures of 523 K (250°C) or higher, for periods of 5 minutes or longer; (L.N. 161 of 2011)
-
-- (b) “Propellants”, as follows:
-
-  - (1) Any United Nations (UN) Class 1.1 solid “propellant” with a theoretical specific impulse (under standard conditions) of more than 250 seconds for non-metallized compositions, or more than 270 seconds for aluminized compositions;
-
-  - (2) Any UN Class 1.3 solid “propellant” with a theoretical specific impulse (under standard conditions) of more than 230 seconds for non-halogenized compositions, 250 seconds for non-metallized compositions and 266 seconds for metallized compositions;
-
-  - (3) “Propellants” having a force constant of more than 1200 kJ/kg;
-
-  - (4) “Propellants” that can sustain a steady-state linear burning rate of more than 38 mm/s under standard conditions (as measured in the form of an inhibited single strand) of 6.89 MPa (68.9 bar) pressure and 294 K (210C);
-
-  - (5) Elastomer modified cast double base (EMCDB) “propellants” with extensibility at maximum stress of more than 5% at 233 K (-400C);
-
-  - (6) Any “propellant” containing substances specified in ML8(a); (L.N. 226 of 2009)
-
-  - (7) “Propellants”, not specified elsewhere in the Munitions List, specially designed for military use; (L.N. 161 of 2011)
-
-- (c) “Pyrotechnics”, fuels and related substances, as follows, and mixtures thereof:
-
-  - (1) Aircraft fuels specially formulated for military purposes;
-
-  - (2) Alane (aluminum hydride) (CAS 7784-21-6);
-
-  - (3) Carboranes; decaborane (CAS 17702-41-9); pentaboranes (CAS 19624-22-7 and 18433-84-6) and their derivatives;
-
-  - (4) Hydrazine and derivatives, as follows (see also ML8(d)(8) and ML8(d)(9) for oxidizing hydrazine derivatives):
-
-    - (a) Hydrazine (CAS 302-01-2) in concentrations of 70% or more;
-
-    - (b) Monomethyl hydrazine (CAS 60-34-4);
-
-    - (c) Symmetrical dimethyl hydrazine (CAS 540-73-8);
-
-    - (d) Unsymmetrical dimethyl hydrazine (CAS 57-14-7);
-
-  - (5) Metal fuels in particle form whether spherical, atomized, spheroidal, flaked or ground, manufactured from material consisting of 99% or more of any of the following:
-
-    - (a) Metals and mixtures thereof, as follows:
-
-      - (1) Beryllium (CAS 7440-41-7) in particle sizes of less than 60 μm;
-
-      - (2) Iron powder (CAS 7439-89-6) with particle size of 3 μm or less produced by reduction of iron oxide with hydrogen;
-
-    - (b) Mixtures, which contain any of the following:
-
-      - (1) Zirconium (CAS 7440-67-7), magnesium (CAS 7439-95-4) or alloys of these in particle sizes of less than 60 μm;
-
-      - (2) Boron (CAS 7440-42-8) or boron carbide (CAS 12069-32-8) fuels of 85% purity or higher and particle sizes of less than 60 μm;
-
-  - (6) Military materials containing thickeners for hydrocarbon fuels specially formulated for use in flame throwers or incendiary munitions, such as metal stearates or palmates (e.g. octal (CAS 637-12-7)) and M1, M2 and M3 thickeners;
-
-  - (7) Perchlorates, chlorates and chromates composited with powdered metal or other high energy fuel components;
-
-  - (8) Spherical aluminum powder (CAS 7429-90-5) with a particle size of 60 μm or less, manufactured from material with an aluminum content of 99% or more;
-
-  - (9) Titanium subhydride (TiHn) of stoichiometry equivalent to n=0.65-1.68;
-
-- (d) Oxidizers, as follows, and mixtures thereof:
-
-  - (1) ADN (ammonium dinitramide or SR 12) (CAS 140456-78-6);
-
-  - (2) AP (ammonium perchlorate) (CAS 7790-98-9);
-
-  - (3) Compounds composed of fluorine and any of the following:
-
-    - (a) Other halogens;
-
-    - (b) Oxygen; or
-
-    - (c) Nitrogen;
+  - Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, rifles, recoilless rifles, smooth-bore weapons and signature reduction devices for those articles;
 
   - Notes:
 
-    - 1. ML8(d)(3) does not apply to chlorine trifluoride (CAS 7790-91-2).
+    - 1. ML2(a) includes injectors, metering devices, storage tanks and other specially designed components for use with liquid propelling charges for any of the equipment specified in ML2(a).
 
-    - 2. ML8(d)(3) does not apply to nitrogen trifluoride (CAS 7783-54-2) in its gaseous state. (L.N. 161 of 2011)
+    - 2. ML2(a) does not include:
 
-  - (4) DNAD (1,3-dinitro-1,3-diazetidine) (CAS 78246-06-7);
+      - (a) Muskets, rifles and carbines manufactured earlier than 1938; (L.N. 226 of 2009)
 
-  - (5) HAN (hydroxylammonium nitrate) (CAS 13465-08-2);
+      - (b) Reproductions of muskets, rifles and carbines the originals of which were manufactured earlier than 1890; and (L.N. 254 of 2008; L.N. 226 of 2009)
 
-  - (6) HAP (hydroxylammonium perchlorate) (CAS 15588-62-2);
+      - (c) Hand-held projectile launchers specially designed to launch tethered projectiles having no high explosive charge or communications link, to a range of less than or equal to 500 m. (L.N. 226 of 2009)
 
-  - (7) HNF (hydrazinium nitroformate) (CAS 20773-28-8);
+  - (b) Smoke, gas and pyrotechnic projectors or generators, specially designed or modified for military use; Note:
 
-  - (8) Hydrazine nitrate (CAS 37836-27-4); Technical Note:
+  - ML2(b) does not apply to signal pistols. (L.N. 161 of 2011)
 
-  - Alternate names are hydrazine mononitrate or hydrazine dinitrate. (L.N. 254 of 2008)
+  - (c) Weapons sights and weapon sight mounts, having all of the following:
 
-  - (9) Hydrazine perchlorate (CAS 27978-54-7);
+    - (1) Specially designed for military use;
 
-  - (10) Liquid oxidizers comprised of or containing inhibited red fuming nitric acid (IRFNA) (CAS 8007-58-7); Note:
+    - (2) Specially designed for weapons specified in ML2(a); (L.N. 161 of 2011)
 
-ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011)
+  - (d) Mountings specially designed for the weapons specified in ML2(a); (L.N. 161 of 2011)
 
-- (e) Binders, plasticizers, monomers, polymers, as follows:
+- ML3 Ammunition and fuze setting devices, as follows, and specially designed components therefor:
 
-  - (1) AMMO (azidomethylmethyloxetane and its polymers) (CAS 90683-29-7) (see also ML8(g)(1) for its “precursors”);
+  - (a) Ammunition for the weapons controlled by ML1, ML2 or ML12;
 
-  - (2) BAMO (bisazidomethyloxetane and its polymers) (CAS 17607-20-4) (see also ML8(g)(1) for its “precursors”);
+  - (b) Fuze setting devices specially designed for ammunition controlled by ML3(a); (L.N. 65 of 2004)
 
-  - (3) BDNPA (bis (2,2-dinitropropyl) acetal) (CAS 5108-69-0);
+  - Notes:
 
-  - (4) BDNPF (bis (2,2-dinitropropyl) formal) (CAS 5917-61-3);
+    - 1. Specially designed components include:
 
-  - (5) BTTN (butanetrioltrinitrate) (CAS 6659-60-5) (see also ML8(g)(8) for its “precursors”);
+      - (a) Metal or plastic fabrications such as primer anvils, bullet cups, cartridge links, rotating bands and munitions metal parts;
 
-  - (6) Energetic monomers, plasticizers or polymers, specially formulated for military use and containing any of the following:
+      - (b) Safing and arming devices, fuses, sensors and initiation devices;
 
-    - (a) Nitro groups;
+      - (c) Power supplies with high one-time operational output;
 
-    - (b) Azido groups;
+      - (d) Combustible cases for charges;
 
-    - (c) Nitrate groups;
+      - (e) Submunitions including bomblets, minelets and terminally guided projectiles.
 
-    - (d) Nitraza groups;
+  - 2. ML3(a) does not control ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber. (L.N. 65 of 2004)
 
-    - (e) Difluoroamino groups; (L.N. 161 of 2011)
+  - 3. ML3(a) does not control cartridges specially designed for any of the following purposes: (L.N. 65 of 2004)
 
-  - (7) FAMAO (3-difluoroaminomethyl-3-azidomethyl oxetane) and its polymers;
+    - (a) Signalling;
 
-  - (8) FEFO (bis-(2-fluoro-2,2-dinitroethyl) formal) (CAS 17003-79-1);
+    - (b) Bird scaring; or
 
-  - (9) FPF-1 (poly-2,2,3,3,4,4-hexafluoropentane-1,5-diol formal) (CAS 376-90-9);
+    - (c) Lighting of gas flares at oil wells. (L.N. 132 of 2001)
 
-  - (10) FPF-3 (poly-2,4,4,5,5,6,6-heptafluoro-2-tri-fluoromethyl-3-oxaheptane-1,7-diol formal);
+- ML4 Bombs, torpedoes, rockets, missiles, other explosive devices and charges and related equipment and accessories, as follows, specially designed for military use, and specially designed components therefor: (L.N. 65 of 2004)
 
-  - (11) GAP (glycidylazide polymer) (CAS 143178-24-9) and its derivatives;
+- N.B.:
 
-  - (12) HTPB (hydroxyl terminated polybutadiene) with a hydroxyl functionality equal to or greater than 2.2 and less than or equal to 2.4, a hydroxyl value of less than 0.77 meq/g, and a viscosity at 30°C of less than 47 poise (CAS 69102-90-5);
+  - 1. For guidance and navigation equipment, see ML11. (L.N. 254 of 2008)
 
-  - (13) Alcohol functionalized poly (epichlorohydrin) with a molecular weight less than 10000, as follows:
+  - 2. For Aircraft Missile Protection Systems (AMPS), see ML4(c). (L.N. 254 of 2008)
 
-    - (a) Poly (epichlorohydrindiol);
+  - (a)
 
-    - (b) Poly (epichlorohydrintriol); (L.N. 161 of 2011)
-
-  - (14) NENAs (nitratoethylnitramine compounds) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 and 85954-06-9);
-
-- (15) PGN (poly-GLYN, polyglycidylnitrate) or poly (nitratomethyl oxirane) (CAS 27814-48-8);
-
-  - (16) Poly-NIMMO (poly nitratomethylmethyloxetane) or poly-NMMO (poly [3-Nitratomethyl-3-methyloxetane]) (CAS 84051-81-0);
-
-  - (17) Polynitroorthocarbonates;
-
-  - (18) TVOPA (1,2,3-tris [1,2-bis (difluoroamino) ethoxy] propane or tris vinoxy propane adduct) (CAS 53159-39-0);
-
-- (f) “Additives”, as follows:
-
-  - (1) Basic copper salicylate (CAS 62320-94-9);
-
-  - (2) BHEGA (bis-(2-hydroxyethyl) glycolamide) (CAS 17409-41-5);
-
-  - (3) BNO (butadienenitrileoxide) (CAS 9003-18-3);
-
-  - (4) Ferrocene derivatives, as follows:
-
-    - (a) Butacene (CAS 125856-62-4);
-
-    - (b) Catocene (2,2-bis-ethylferrocenyl propane) (CAS 37206-42-1);
-
-    - (c) Ferrocene carboxylic acids including:
-
-      - (1) Ferrocene carboxylic acid (CAS 1271-42-7); and
-
-      - (2) 1,1’-Ferrocenedicarboxylic acid (CAS 1293-87-4); (L.N. 161 of 2011)
-
-    - (d) n-butyl-ferrocene (CAS 31904-29-7); (L.N. 95 of 2006)
-
-    - (e) Other adducted polymer ferrocene derivatives;
-
-  - (5) Lead beta-resorcylate (CAS 20936-32-7);
-
-  - (6) Lead citrate (CAS 14450-60-3);
-
-  - (7) Lead-copper chelates of beta-resorcylate or salicylates (CAS 68411-07-4);
-
-  - (8) Lead maleate (CAS 19136-34-6);
-
-  - (9) Lead salicylate (CAS 15748-73-9);
-
-  - (10) Lead stannate (CAS 12036-31-6);
-
-  - (11) MAPO (tris-1-(2-methyl) aziridinyl phosphine oxide) (CAS 57-39-6); BOBBA 8 (bis (2-methyl aziridinyl) 2-(2-hydroxypropanoxy) propylamino phosphine oxide); and other MAPO derivatives;
-
-  - (12) Methyl BAPO (bis (2-methyl aziridinyl) methylamino phosphine oxide) (CAS 85068-72-0);
-
-  - (13) N-methyl-p-nitroaniline (CAS 100-15-2);
-
-  - (14) 3-Nitraza-1,5-pentane diisocyanate (CAS 7406-61-9);
-
-  - (15) Organo-metallic coupling agents, as follows:
-
-    - (a) Neopentyl[diallyl]oxy,
-
-    - tri [dioctyl] phosphato-titanate (CAS 103850-22-2); also known as titanium IV, 2,2 [bis 2-propenolato-methyl, butanolato, tris (dioctyl) phosphato] (CAS 110438-25-0); or LICA 12 (CAS 103850-22-2);
-
-    - (b) Titanium IV, [(2-propenolato-1) methyl, n-propanolatomethyl] butanolato-1, tris [dioctyl] pyrophosphate or KR3538;
-
-    - (c) Titanium IV, [(2-propenolato-1)methyl, n-propanolatomethyl] butanolato-1, tris (dioctyl) phosphate;
-
-  - (16) Polycyanodifluoroamin oethyleneoxide;
-
-  - (17)
-
-  - Polyfunctional aziridine amides with isophthalic, trimesic (BITA (HX-868 1,1’,1”-trimesoyl-tris(2-ethylaziridine) (CAS 7722-73-8)) or butylene imine trimesamide), isocyanuric or trimethyladipic backbone structures and 2-methyl or 2-ethyl substitutions on the aziridine ring; (L.N. 254 of 2008)
+  - Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition-charges, demolition-devices and demolition-kits, “pyrotechnic” devices, cartridges and simulators (i.e. equipment simulating the characteristics of any of these items) specially designed for military use; (L.N. 132 of 2001; L.N. 65 of 2004; L.N. 254 of 2008)
 
   - Note:
 
-  - ML8(f)(17) includes:
+  - ML4(a) includes:
 
-    - 1. 1,1’-Isophthaloyl-bis(2-methylaziridene) (HX-752) (CAS 7652-64-4);
+    - (1) Smoke grenades, fire bombs, incendiary bombs and explosive devices;
 
-    - 2. 2,4,6-tris(2-ethyl-1-aziridinyl)-1,3,5-triazine (HX-874) (CAS 18924-91-9); and
+    - (2) Missile rocket nozzles and re-entry vehicle nosetips.
 
-    - 3. 1,1’-trimethyladipoylbis(2-ethylaziridine) (HX-877) (CAS 71463-62-2). (L.N. 254 of 2008)
+  - (b) Equipment having all of the following characteristics:
 
-  - (18) Propyleneimine (2-methylaziridine) (CAS 75-55-8);
+    - (1) Specially designed for military use;
 
-  - (19) Superfine iron oxide (Fe2O3) (CAS 1317-60-8) with a specific surface area more than 250 m2/g and an average particle size of 3.0 nm or less; (L.N. 161 of 2011)
+    - (2) Specially designed for ‘activities’ relating to any of the following:
 
-  - (20) TEPAN (HX-879)
+      - (a) Items specified by ML4(a);
 
-  - (tetraethylenepentaamineacrylonitrile) (CAS 68412-45-3); cyanoethylated polyamines and their salts; (L.N. 254 of 2008)
+      - (b) Improvised Explosive Devices (IEDs);
 
-  - (21) TEPANOL (HX-878)
+    - Technical Note:
 
-  - (tetraethylenepentaamineacrylonitrileglycidol) (CAS 68412-46-4); cyanoethylated polyamines adducted with glycidol and their salts; (L.N. 254 of 2008)
+    - For the purpose of ML4(b)(2), ‘activities’ applies to handling, launching, laying, controlling, discharging, detonating, activating, powering with one-time operational output, decoying, jamming, sweeping, detecting, disrupting or disposing. (L.N. 161 of 2011)
 
-  - (22) TPB (triphenyl bismuth) (CAS 603-33-8);
+  - (c)
 
-- (g)
+  - Aircraft Missile Protection Systems (AMPS);
 
-- “Precursors”, as follows:
+  - Note:
+
+  - ML4(c) does not include AMPS that:
+
+    - (a) Contain any of the following missile warning sensors:
+
+      - (1) Passive sensors having peak response between 100 nm and 400 nm;
+
+      - (2) Active pulsed Doppler missile warning sensors;
+
+    - (b) Contain countermeasures dispensing systems;
+
+    - (c) Contain flares, which exhibit both a visible signature and an infrared signature, for decoying surface-to-air missiles; and
+
+    - (d) are installed on “civil aircraft” and having all of the following characteristics:
+
+      - (1) The AMPS is only operable in the specific “civil aircraft” in which the specific AMPS is installed and for which any of the following has been issued:
+
+        - (a) A civil Type Certificate;
+
+        - (b) An equivalent document recognized by the International Civil Aviation Organisation (ICAO);
+
+      - (2) The AMPS employs protection to prevent unauthorized access to “software”;
+
+      - (3) The AMPS incorporates an active mechanism that forces the system not to function when it is removed from the “civil aircraft” in which it was installed. (L.N. 254 of 2008)
+
+- ML5 Fire control, and related alerting and warning equipment, and related systems, test and alignment and countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor: (L.N. 132 of 2001)
+
+  - (a) Weapon sights, bombing computers, gun laying equipment and weapon control systems;
+
+  - (b) Target acquisition, designation, range-finding, surveillance or tracking systems; detection, data fusion, recognition or identification equipment; and sensor integration equipment;
+
+  - (c) Countermeasure equipment for items specified by ML5(a) and ML5(b); Note:
+
+  - For the purposes of ML5(c), countermeasure equipment includes detection equipment. (L.N. 161 of 2011)
+
+  - (d) Field test or alignment equipment, specially designed for items specified by ML5(a), ML5(b) or ML5(c); (L.N. 132 of 2001; L.N. 161 of 2011)
+
+- ML6 Ground vehicles and components, as follows:
 
 - N.B.:
 
-- In ML8(g) the references are to controlled “energetic materials” manufactured from these substances.
+- For guidance and navigation equipment, see Note 7 to ML11. (L.N. 95 of 2006)
 
-  - (1) BCMO (bischloromethyloxetane) (CAS 142173-26-0) (see also ML8(e)(1) and ML8(e)(2));
+  - (a) Ground vehicles and components therefor, specially designed or modified for military use; Technical Note:
 
-  - (2) Dinitroazetidine-t-butyl salt (CAS 125735-38-8) (see also ML8(a)(28));
+  - For the purposes of ML6(a), the term ground vehicles includes trailers.
 
-  - (3) HBIW (hexabenzylhexaazaisowurtzitane) (CAS 124782-15-6) (see also ML8(a)(4));
+  - (b) Other ground vehicles and components, as follows:
 
-  - (4) TAIW (tetraacetyldibenzylhexaazaisowurtzitane) (CAS 182763-60-6) (see also ML8(a)(4)); (L.N. 161 of 2011)
+    - (1) All-wheel drive vehicles capable of off-road use which have been manufactured or fitted with materials or components to provide ballistic protection to level III (NIJ 0108.01, September 1985, or comparable national standard) or better;
 
-  - (5) TAT (1,3,5,7-tetraacetyl-1,3,5,7-tetraaza cyclo-octane) (CAS 41378-98-7) (see also ML8(a)(13)); (L.N. 226 of 2009)
+    - (2) Components having all of the following:
 
-  - (6) 1,4,5,8-tetraazadecalin (CAS 5409-42-7) (see also ML8(a)(27));
+      - (a) Specially designed for vehicles specified in ML6(b)(1);
 
-  - (7) 1,3,5-trichlorobenzene (CAS 108-70-3) (see also ML8(a)(23));
+      - (b) Providing ballistic protection to level III (NIJ 0108.01, September 1985, or comparable national standard) or better; (L.N. 161 of 2011)
 
-  - (8) 1,2,4-trihydroxybutane (1,2,4-butanetriol) (CAS 3068-00-6) (see also ML8(e)(5));
+  - N.B.:
+
+  - See also ML13(a). (L.N. 65 of 2004)
+
+  - Notes:
+
+  - 1. ML6(a) includes: (L.N. 65 of 2004)
+
+    - (a) Tanks and other military armed vehicles and military vehicles fitted with mountings for arms or equipment for mine laying or the launching of munitions specified by under ML4;
+
+    - (b) Armoured vehicles;
+
+    - (c) Amphibious and deep water fording vehicles;
+
+    - (d) Recovery vehicles and vehicles for towing or transporting ammunition or weapon systems and associated load handling equipment.
+
+  - 2. Modification of a ground vehicle for military use specified by ML6(a) entails a structural, electrical or mechanical change involving one or more specially designed military components. Such components include: (L.N. 65 of 2004)
+
+    - (a) Pneumatic tyre casings of a kind specially designed to be bullet-proof;
+
+    - (b) Armoured protection of vital parts, (e.g. fuel tanks or vehicle cabs); (L.N. 161 of 2011)
+
+    - (c) Special reinforcements or mountings for weapons; (L.N. 161 of 2011)
+
+    - (d) Black-out lighting. (L.N. 161 of 2011)
+
+    - (e) (Repealed L.N. 161 of 2011)
+
+  - 3. ML6 does not apply to civil automobiles, or trucks designed or modified for transporting money or valuables, having armoured or ballistic protection. (L.N. 65 of 2004)
+
+- (L.N. 161 of 2011)
+
+- ML7 Chemical or biological toxic agents, “riot control agents”, radioactive materials, related equipment, components and materials, as follows:
+
+  - (a) Biological agents or radioactive materials, “adapted for use in war” to produce casualties in humans or animals, degrade equipment or damage crops or the environment; (L.N. 95 of 2006; L.N. 161 of 2011)
+
+  - (b) Chemical warfare (CW) agents including:
+
+    - (1) CW nerve agents:
+
+      - (a) O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-phosphonofluoridates, such as: Sarin (GB): O-Isopropyl methylphosphonofluoridate (CAS 107-44-8); and Soman (GD): O-Pinacolyl methylphosphonofluoridate (CAS 96-64-0);
+
+      - (b) O-Alkyl (equal to or less than C10, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, such as: Tabun (GA):O-Ethyl N,N-dimethylphosphoramidocyanidate (CAS 77-81-6);
+
+      - (c) O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, such as: VX: O-Ethyl S-2-di-isopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9);
+
+    - (2) CW vesicant agents:
+
+      - (a) Sulphur mustards, such as:
+
+        - (1) 2-Chloroethylchloromethylsulphide (CAS 2625-76-5);
+
+        - (2) Bis (2-chloroethyl) sulphide (CAS 505-60-2);
+
+        - (3) Bis (2-chloroethylthio) methane (CAS 63869-13-6);
+
+        - (4) 1,2-bis (2-chloroethylthio) ethane (CAS 3563-36-8);
+
+        - (5) 1,3-bis (2-chloroethylthio)-n-propane (CAS 63905-10-2);
+
+        - (6) 1,4-bis (2-chloroethylthio)-n-butane (CAS 142868-93-7);
+
+        - (7) 1,5-bis (2-chloroethylthio)-n-pentane (CAS 142868-94-8);
+
+        - (8) Bis (2-chloroethylthiomethyl) ether (CAS 63918-90-1);
+
+        - (9) Bis (2-chloroethylthioethyl) ether (CAS 63918-89-8);
+
+      - (b) Lewisites, such as:
+
+        - (1) 2-chlorovinyldichloroarsine (CAS 541-25-3);
+
+        - (2) Tris (2-chlorovinyl) arsine (CAS 40334-70-1);
+
+        - (3) Bis (2-chlorovinyl) chloroarsine (CAS 40334-69-8);
+
+      - (c) Nitrogen mustards, such as:
+
+        - (1) HN1: bis (2-chloroethyl) ethylamine (CAS 538-07-8);
+
+        - (2) HN2: bis (2-chloroethyl) methylamine (CAS 51-75-2);
+
+        - (3) HN3: tris (2-chloroethyl) amine (CAS 555-77-1);
+
+    - (3) CW incapacitating agents, such as: 3-Quinuclidinyl benzilate (BZ) (CAS 6581-06-2);
+
+    - (4) CW defoliants, such as:
+
+      - (a) Butyl 2-chloro-4-fluorophenoxyacetate (LNF);
+
+      - (b) 2,4,5-trichlorophenoxyacetic acid (CAS 93-76-5) mixed with 2,4-dichlorophenoxyacetic acid (CAS 94-75-7) (Agent Orange) (CAS 39277-47-9); (L.N. 95 of 2006; L.N. 161 of 2011)
+
+  - (c) CW binary precursors and key precursors, as follows: (L.N. 95 of 2006)
+
+    - (1) Alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) Phosphonyl Difluorides, such as: DF: Methyl Phosphonyldifluoride (CAS 676-99-3);
+
+    - (2) O-Alkyl (H or equal to or less than C10, including cycloalkyl) O-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonites and corresponding alkylated and protonated salts, such as: QL: O-Ethyl-2-di-isopropylaminoethyl methylphosphonite (CAS 57856-11-8);
+
+    - (3) Chlorosarin: O-Isopropyl methylphosphonochloridate (CAS 1445-76-7);
+
+    - (4) Chlorosoman: O-Pinacolyl methylphosphonochloridate (CAS 7040-57-5);
+
+  - (d) “Riot control agents”, active constituent chemicals and combinations thereof including:
+
+    - (1) α-Bromobenzeneacetonitrile (Bromobenzyl cyanide) (CA) (CAS 5798-79-8);
+
+    - (2) [(2-chlorophenyl) methylene] propanedinitrile (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);
+
+    - (3) 2-Chloro-1-phenylethanone, Phenylacyl chloride (ω-chloroacetophenone) (CN) (CAS 532-27-4);
+
+    - (4) Dibenz-(b,f)-1,4-oxazephine (CR) (CAS 257-07-8);
+
+    - (5) 10-Chloro-5, 10-dihydrophenarsazine (Phenarsazine chloride) (Adamsite) (DM) (CAS 578-94-9);
+
+    - (6) N-Nonanoylmorpholine (MPA) (CAS 5299-64-9);
+
+  - Notes:
+
+    - 1. ML7(d) does not control “riot control agents” individually packaged for personal self defence purposes.
+
+    - 2. ML7(d) does not control active constituent chemicals, and combinations thereof identified and packaged for food production or medical purposes. (L.N. 95 of 2006)
+
+  - (e) Equipment specially designed or modified for military use and designed or modified for the dissemination of any of the following, and specially designed components therefor: (L.N. 226 of 2009)
+
+    - (1) Materials or agents controlled by ML7(a), ML7(b) or ML7(d); or
+
+    - (2) CW made up of precursors controlled by ML7(c);
+
+  - (f) Protective and decontamination equipment specially designed or modified for military use, components and chemical mixtures, as follows: (L.N. 226 of 2009)
+
+    - (1) Equipment designed or modified for defence against materials specified in ML7(a), ML7(b) or ML7(d), and specially designed components for the equipment; (L.N. 226 of 2009)
+
+    - (2) Equipment designed or modified for the decontamination of objects contaminated with materials specified in ML7(a) or ML7(b), and specially designed components therefor;
+
+    - (3) Chemical mixtures specially developed/formulated for the decontamination of objects contaminated with materials specified in ML7(a) or ML7(b); (L.N. 226 of 2009)
+
+  - Note:
+
+  - ML7(f)(1) includes:
+
+    - 1. Air conditioning units specially designed or modified for nuclear, biological or chemical filtration;
+
+    - 2. Protective clothing.
+
+  - N.B.:
+
+  - For civil gas masks, protective and decontamination equipment, see also 1A004 of the Dual-use Goods List.
+
+  - (g) Equipment specially designed or modified for military use and designed or modified for the detection or identification of materials specified in ML7(a), ML7(b) or ML7(d), and specially designed components therefor; (L.N. 226 of 2009) Note:
+
+  - ML7(g) does not control personal radiation monitoring dosimeters. (L.N. 95 of 2006)
+
+  - N.B.:
+
+  - See also 1A004 of the Dual-use Goods List.
+
+  - (h) “Biopolymers” specially designed or processed for the detection or identification of CW agents controlled by ML7(b), and the cultures of specific cells used to produce them;
+
+  - (i) “Biocatalysts” for the decontamination or degradation of CW agents, and biological systems therefor, as follows:
+
+    - (1) “Biocatalysts” specially designed for the decontamination or degradation of CW agents specified by ML7(b) resulting from directed laboratory selection or genetic manipulation of biological systems; (L.N. 161 of 2011)
+
+    - (2) Biological systems containing the genetic information specific to the production of “biocatalysts” specified by ML7(i)(1), as follows:
+
+      - (a) “Expression vectors”;
+
+      - (b) Viruses;
+
+      - (c) Cultures of cells; (L.N. 161 of 2011)
+
+  - (j) (Repealed L.N. 95 of 2006)
 
 - Notes:
 
-- 1. Aircraft fuels controlled by ML8(c)(1) are finished products not their constituents. (L.N. 226 of 2009)
+  - 1. ML7(a), ML7(b) and ML7(d) do not control:
 
-- 2. ML8(c)(4)(a) does not control hydrazine mixtures specially formulated for corrosion control.
+    - (a) Cyanogen chloride (CAS 506-77-4);
 
-- 3. Explosives and fuels containing the metals or alloys listed in ML8(c)(5) are controlled whether or not the metals or alloys are encapsulated in aluminium, magnesium, zirconium, or beryllium.
+    - (b) Hydrocyanic acid (CAS 74-90-8);
 
-- 4. ML8(c)(5)(b)(2) does not control boron and boron carbide enriched with boron-10 (20% or more of total boron-10 content).
+    - (c) Chlorine (CAS 7782-50-5);
 
-- 5. ML8(c)(5)(b) only applies to metal fuels in particle form when they are mixed with other substances to form a mixture formulated for military purposes such as liquid propellant slurries, solid propellants, or pyrotechnic mixtures. (L.N. 161 of 2011)
+    - (d) Carbonyl chloride (phosgene) (CAS 75-44-5);
 
-- 6. ML8 does not apply to the following substances unless they are compounded or mixed with the “energetic materials” mentioned in ML8(a) or powdered metals in ML8(c): (L.N. 161 of 2011)
+    - (e) Diphosgene (trichloromethyl-chloroformate) (CAS 503-38-8);
 
-  - (a) Ammonium picrate (CAS 131-74-8);
+    - (f) (Repealed L.N. 95 of 2006)
 
-  - (b) Black powder;
+    - (g) Xylyl bromide, ortho: (CAS 89-92-9), meta: (CAS 620-13-3), para: (CAS 104-81-4);
 
-  - (c) Hexanitrodiphenylamine (CAS 131-73-7);
+    - (h) Benzyl bromide (CAS 100-39-0);
 
-  - (d) Difluoroamine (CAS 10405-27-3);
+    - (i) Benzyl iodide (CAS 620-05-3);
 
-  - (e) Nitrostarch (CAS 9056-38-6);
+    - (j) Bromo acetone (CAS 598-31-2);
 
-  - (f) Potassium nitrate (CAS 7757-79-1);
+    - (k) Cyanogen bromide (CAS 506-68-3);
 
-  - (g) Tetranitronaphthalene;
+    - (l) Bromo methylethylketone (CAS 816-40-0);
 
-  - (h) Trinitroanisol;
+    - (m) Chloro acetone (CAS 78-95-5);
 
-  - (i) Trinitronaphthalene;
+    - (n) Ethyl iodoacetate (CAS 623-48-3);
 
-  - (j) Trinitroxylene;
+    - (o) Iodo acetone (CAS 3019-04-3);
 
-  - (k) N-pyrrolidinone; 1-methyl-2-pyrrolidinone (CAS 872-50-4);
+    - (p) Chloropicrin (CAS 76-06-2).
 
-  - (l) Dioctylmaleate (CAS 142-16-5);
+  - 2. The cultures of cells and biological systems specified in ML7(h) and ML7(i)(2) are exclusive and these sub-items do not control cells or biological systems for civil purposes, such as agricultural, pharmaceutical, medical, veterinary, environmental, waste management, or in the food industry. (L.N. 226 of 2009)
 
-  - (m) Ethylhexylacrylate (CAS 103-11-7);
+- (L.N. 65 of 2004; L.N. 95 of 2006; L.N. 161 of 2011)
 
-  - (n) Triethylaluminium (TEA) (CAS 97-93-8), trimethylaluminium (TMA) (CAS 75-24-1), and other pyrophoric metal alkyls and aryls of lithium, sodium, magnesium, zinc or boron;
-
-  - (o) Nitrocelluose (CAS 9004-70-0);
-
-  - (p) Nitroglycerin (or glyceroltrinitrate, trinitroglycerine) (NG) (CAS 55-63-0);
-
-  - (q) 2,4,6-trinitrotoluene (TNT) (CAS 118-96-7);
-
-  - (r) Ethylenediaminedinitrate (EDDN) (CAS 20829-66-7);
-
-  - (s) Pentaerythritoltetranitrate (PETN) (CAS 78-11-5);
-
-  - (t) Lead azide (CAS 13424-46-9), normal lead styphnate (CAS 15245-44-0) and basic lead styphnate (CAS 12403-82-6), and primary explosives or priming compositions containing azides or azide complexes;
-
-  - (u) Triethyleneglycoldinitrate (TEGDN) (CAS 111-22-8); (L.N. 254 of 2008)
-
-  - (v) 2,4,6-trinitroresorcinol (styphnic acid) (CAS 82-71-3);
-
-  - (w) Diethyldiphenyl urea (CAS 85-98-3); dimethylidiphenyl urea (CAS 611-92-7); methylethyldiphenyl urea [Centralites];
-
-  - (x) N,N-diphenylurea (unsymmetrical diphenylurea) (CAS 603-54-3);
-
-  - (y) Methyl-N,N-diphenylurea (methyl unsymmetrical diphenylurea) (CAS 13114-72-2);
-
-  - (z) Ethyl-N,N-diphenylurea (ethyl unsymmetrical diphenylurea) (CAS 64544-71-4);
-
-  - (aa) 2-Nitrodiphenylamine (2-NDPA) (CAS 119-75-5);
-
-  - (bb) 4-Nitrodiphenylamine (4-NDPA) (CAS 836-30-6);
-
-  - (cc) 2,2-dinitropropanol (CAS 918-52-5);
-
-  - (dd) Nitroguanidine (CAS 556-88-7) (see also 1C011(d) of the Dual-use Goods List). (L.N. 161 of 2011)
-
-(L.N. 65 of 2004)
-
-- ML9 Vessels of war (surface or underwater), special naval equipment, accessories, components and other surface vessels, as follows: (L.N. 226 of 2009)
+- ML8 “Energetic materials”, and related substances, as follows:
 
 - N.B.:
 
-- For guidance and navigation equipment, see ML11. (L.N. 65 of 2004; L.N. 95 of 2006; L.N. 254 of 2008)
+- See also 1C011 of the Dual-use Goods List.
 
-  - (a) Vessels and components, as follows:
+- For charges and devices, see ML4 and 1A008 of the Dual-use Goods List. (L.N. 161 of 2011)
 
-    - (1) Vessels (surface or underwater) specially designed or modified for military use, regardless of current state of repair or operating condition, and whether or not they contain weapon delivery systems or armour, and hulls or parts of hulls for those vessels, and components for those vessels specially designed for military use;
+- Technical Notes:
 
-    - (2) Surface vessels, other than those specified in ML9(a)(1), having any of the following fixed or integrated into the vessel:
+  - 1. For the purposes of this entry, ‘mixture’ refers to a composition of two or more substances with at least one substance being listed in the ML8 sub-items.
 
-      - (a) Automatic weapons having a calibre of 12.7 mm or greater and specified in ML1, or weapons specified in ML2, ML4, ML12 or ML19, or ‘mountings’ or hard points for those weapons; Technical Note:
+  - 2. Any substance listed in the ML8 sub-items is controlled by this list, even when utilized in an application other than that indicated. (e.g. TAGN is predominantly used as an explosive but can also be used either as a fuel or an oxidizer.)
 
-- The term ‘mountings’ means weapon mounts or structural strengthening for the purpose of installing weapons.
+  - (a) “Explosives”, as follows, and mixtures thereof:
 
-  - (b) Fire control systems specified in ML5;
+    - (1) ADNBF (aminodinitrobenzofuroxan or 7-amino-4, 6-dinitrobenzofurazane-1-oxide) (CAS 97096-78-1);
+
+    - (2) BNCP (cis-bis (5-nitrotetrazolato) tetra amine-cobalt (III) perchlorate) (CAS 117412-28-9);
+
+    - (3) CL-14 (diamino dinitrobenzofuroxan or 5, 7-diamino-4, 6-dinitrobenzofurazane-1-oxide) (CAS 117907-74-1);
+
+    - (4) CL-20 (HNIW or 2,4,6,8,10,12-Hexanitrohexaazaisowurtzitane) (CAS 135285-90-4); chlathrates of CL-20 (see also ML8(g)(3) and ML8(g)(4) for its “precursors”); (L.N. 254 of 2008)
+
+    - (5) CP (2-(5-cyanotetrazolato) penta amine-cobalt (III) perchlorate) (CAS 70247-32-4);
+
+    - (6) DADE (1,1-diamino-2,2-dinitroethylene, FOX7) (CAS 145250-81-3); (L.N. 161 of 2011)
+
+    - (7) DATB (diaminotrinitrobenzene) (CAS 1630-08-6);
+
+    - (8) DDFP (1,4-dinitrodifurazanopiperazine);
+
+    - (9) DDPO (2,6-diamino-3,5-dinitropyrazine-1-oxide, PZO) (CAS 194486-77-6);
+
+    - (10) DIPAM (3,3’-diamino-2,2’,4,4’,6,6’-hexanitrobiphenyl or dipicramide) (CAS 17215-44-0);
+
+    - (11) DNGU (DINGU or dinitroglycoluril) (CAS 55510-04-8);
+
+    - (12) Furazans, as follows:
+
+      - (a) DAAOF (diaminoazoxyfurazan);
+
+      - (b) DAAzF (diaminoazofurazan) (CAS 78644-90-3);
+
+    - (13) HMX and derivatives (see also ML8(g)(5) for its “precursors”), as follows:
+
+      - (a) HMX
+
+      - (Cyclotetramethylenetetranitramine, octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazine, 1,3,5,7-tetranitro-1,3,5,7-tetraza-cyclooctane, octogen or octogene) (CAS 2691-41-0);
+
+      - (b) difluoroaminated analogs of HMX;
+
+      - (c) K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabicyclo [3,3,0]-octanone-3, tetranitrosemiglycouril or keto-bicyclic HMX) (CAS 130256-72-3);
+
+    - (14) HNAD (hexanitroadamantane) (CAS 143850-71-9);
+
+    - (15) HNS (hexanitrostilbene) (CAS 20062-22-0);
+
+    - (16) Imidazoles, as follows:
+
+      - (a) BNNII (Octahydro-2,5-bis(nitroimino) imidazo [4,5-d]imidazole);
+
+      - (b) DNI (2,4-dinitroimidazole) (CAS 5213-49-0);
+
+      - (c) FDIA (1-fluoro-2,4-dinitroimidazole);
+
+      - (d) NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazole);
+
+      - (e) PTIA (1-picryl-2,4,5-trinitroimidazole);
+
+    - (17) NTNMH (1-(2-nitrotriazolo)-2-dinitromethylene hydrazine);
+
+    - (18) NTO (ONTA or 3-nitro-1,2,4-triazol-5-one) (CAS 932-64-9);
+
+    - (19) Polynitrocubanes with more than four nitro groups;
+
+    - (20) PYX (2,6-Bis (picrylamino)-3,5-dinitropyridine) (CAS 38082-89-2);
+
+    - (21) RDX and derivatives, as follows:
+
+      - (a) RDX (cyclotrimethylenetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen or hexogene) (CAS 121-82-4);
+
+      - (b) Keto-RDX (K-6 or 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1);
+
+    - (22) TAGN (triaminoguanidinenitrate) (CAS 4000-16-2);
+
+    - (23) TATB (triaminotrinitrobenzene) (CAS 3058-38-6) (see also ML8(g)(7) for its “precursors”);
+
+    - (24) TEDDZ (3,3,7,7-tetrabis (difluoroamine) octahydro-1,5-dinitro-1,5-diazocine);
+
+    - (25) Tetrazoles, as follows:
+
+      - (a) NTAT (nitrotriazol aminotetrazole);
+
+      - (b) NTNT (1-N-(2-nitrotriazolo)-4-nitrotetrazole);
+
+    - (26) Tetryl (trinitrophenylmethylnitramine) (CAS 479-45-8);
+
+    - (27) TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadecalin) (CAS 135877-16-6) (see also ML8(g)(6) for its “precursors”);
+
+    - (28) TNAZ (1,3,3-trinitroazetidine) (CAS 97645-24-4) (see also ML8(g)(2) for its “precursors”);
+
+    - (29) TNGU (SORGUYL or tetranitroglycoluril) (CAS 55510-03-7);
+
+    - (30) TNP (1,4,5,8-tetranitro-pyridazino [4,5-d] pyridazine) (CAS 229176-04-9);
+
+    - (31) Triazines, as follows:
+
+      - (a) DNAM (2-oxy-4,6-dinitroamino-s-triazine) (CAS 19899-80-0);
+
+      - (b) NNHT (2-nitroimino-5-nitro-hexahydro-1,3,5-triazine) (CAS 130400-13-4);
+
+    - (32) Triazoles, as follows:
+
+      - (a) 5-azido-2-nitrotriazole;
+
+      - (b) ADHTDN (4-amino-3,5-dihydrazino-1,2,4-triazole dinitramide) (CAS 1614-08-0);
+
+      - (c) ADNT (1-amino-3,5-dinitro-1,2,4-triazole);
+
+      - (d) BDNTA ([bis-dinitrotriazole] amine);
+
+      - (e) DBT (3,3’-dinitro-5,5-bi-1,2,4-triazole) (CAS 30003-46-4);
+
+      - (f) DNBT (dinitrobistriazole) (CAS 70890-46-9);
+
+      - (g) (Repealed L.N. 161 of 2011)
+
+      - (h) NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitrotriazole);
+
+      - (i) PDNT (1-picryl-3,5-dinitrotriazole);
+
+      - (j) TACOT (tetranitrobenzotriazolobe nzotriazole) (CAS 25243-36-1);
+
+    - (33) Explosives not listed elsewhere in ML8(a) and having any of the following:
+
+      - (a) Detonation velocity exceeding 8700 m/s, at maximum density;
+
+      - (b) Detonation pressure exceeding 34 GPa (340 kbar); (L.N. 161 of 2011)
+
+    - (34) Organic explosives not listed elsewhere in ML8(a) and having all of the following:
+
+      - (a) Yielding detonation pressures of 25 GPa (250 kbar) or more;
+
+      - (b) Remaining stable at temperatures of 523 K (250°C) or higher, for periods of 5 minutes or longer; (L.N. 161 of 2011)
+
+  - (b) “Propellants”, as follows:
+
+    - (1) Any United Nations (UN) Class 1.1 solid “propellant” with a theoretical specific impulse (under standard conditions) of more than 250 seconds for non-metallized compositions, or more than 270 seconds for aluminized compositions;
+
+    - (2) Any UN Class 1.3 solid “propellant” with a theoretical specific impulse (under standard conditions) of more than 230 seconds for non-halogenized compositions, 250 seconds for non-metallized compositions and 266 seconds for metallized compositions;
+
+    - (3) “Propellants” having a force constant of more than 1200 kJ/kg;
+
+    - (4) “Propellants” that can sustain a steady-state linear burning rate of more than 38 mm/s under standard conditions (as measured in the form of an inhibited single strand) of 6.89 MPa (68.9 bar) pressure and 294 K (210C);
+
+    - (5) Elastomer modified cast double base (EMCDB) “propellants” with extensibility at maximum stress of more than 5% at 233 K (-400C);
+
+    - (6) Any “propellant” containing substances specified in ML8(a); (L.N. 226 of 2009)
+
+    - (7) “Propellants”, not specified elsewhere in the Munitions List, specially designed for military use; (L.N. 161 of 2011)
+
+  - (c) “Pyrotechnics”, fuels and related substances, as follows, and mixtures thereof:
+
+    - (1) Aircraft fuels specially formulated for military purposes;
+
+    - (2) Alane (aluminum hydride) (CAS 7784-21-6);
+
+    - (3) Carboranes; decaborane (CAS 17702-41-9); pentaboranes (CAS 19624-22-7 and 18433-84-6) and their derivatives;
+
+    - (4) Hydrazine and derivatives, as follows (see also ML8(d)(8) and ML8(d)(9) for oxidizing hydrazine derivatives):
+
+      - (a) Hydrazine (CAS 302-01-2) in concentrations of 70% or more;
+
+      - (b) Monomethyl hydrazine (CAS 60-34-4);
+
+      - (c) Symmetrical dimethyl hydrazine (CAS 540-73-8);
+
+      - (d) Unsymmetrical dimethyl hydrazine (CAS 57-14-7);
+
+    - (5) Metal fuels in particle form whether spherical, atomized, spheroidal, flaked or ground, manufactured from material consisting of 99% or more of any of the following:
+
+      - (a) Metals and mixtures thereof, as follows:
+
+        - (1) Beryllium (CAS 7440-41-7) in particle sizes of less than 60 μm;
+
+        - (2) Iron powder (CAS 7439-89-6) with particle size of 3 μm or less produced by reduction of iron oxide with hydrogen;
+
+      - (b) Mixtures, which contain any of the following:
+
+        - (1) Zirconium (CAS 7440-67-7), magnesium (CAS 7439-95-4) or alloys of these in particle sizes of less than 60 μm;
+
+        - (2) Boron (CAS 7440-42-8) or boron carbide (CAS 12069-32-8) fuels of 85% purity or higher and particle sizes of less than 60 μm;
+
+    - (6) Military materials containing thickeners for hydrocarbon fuels specially formulated for use in flame throwers or incendiary munitions, such as metal stearates or palmates (e.g. octal (CAS 637-12-7)) and M1, M2 and M3 thickeners;
+
+    - (7) Perchlorates, chlorates and chromates composited with powdered metal or other high energy fuel components;
+
+    - (8) Spherical aluminum powder (CAS 7429-90-5) with a particle size of 60 μm or less, manufactured from material with an aluminum content of 99% or more;
+
+    - (9) Titanium subhydride (TiHn) of stoichiometry equivalent to n=0.65-1.68;
+
+  - (d) Oxidizers, as follows, and mixtures thereof:
+
+    - (1) ADN (ammonium dinitramide or SR 12) (CAS 140456-78-6);
+
+    - (2) AP (ammonium perchlorate) (CAS 7790-98-9);
+
+    - (3) Compounds composed of fluorine and any of the following:
+
+      - (a) Other halogens;
+
+      - (b) Oxygen; or
+
+      - (c) Nitrogen;
+
+    - Notes:
+
+      - 1. ML8(d)(3) does not apply to chlorine trifluoride (CAS 7790-91-2).
+
+      - 2. ML8(d)(3) does not apply to nitrogen trifluoride (CAS 7783-54-2) in its gaseous state. (L.N. 161 of 2011)
+
+    - (4) DNAD (1,3-dinitro-1,3-diazetidine) (CAS 78246-06-7);
+
+    - (5) HAN (hydroxylammonium nitrate) (CAS 13465-08-2);
+
+    - (6) HAP (hydroxylammonium perchlorate) (CAS 15588-62-2);
+
+    - (7) HNF (hydrazinium nitroformate) (CAS 20773-28-8);
+
+    - (8) Hydrazine nitrate (CAS 37836-27-4); Technical Note:
+
+    - Alternate names are hydrazine mononitrate or hydrazine dinitrate. (L.N. 254 of 2008)
+
+    - (9) Hydrazine perchlorate (CAS 27978-54-7);
+
+    - (10) Liquid oxidizers comprised of or containing inhibited red fuming nitric acid (IRFNA) (CAS 8007-58-7); Note:
+
+- ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011)
+
+  - (e) Binders, plasticizers, monomers, polymers, as follows:
+
+    - (1) AMMO (azidomethylmethyloxetane and its polymers) (CAS 90683-29-7) (see also ML8(g)(1) for its “precursors”);
+
+    - (2) BAMO (bisazidomethyloxetane and its polymers) (CAS 17607-20-4) (see also ML8(g)(1) for its “precursors”);
+
+    - (3) BDNPA (bis (2,2-dinitropropyl) acetal) (CAS 5108-69-0);
+
+    - (4) BDNPF (bis (2,2-dinitropropyl) formal) (CAS 5917-61-3);
+
+    - (5) BTTN (butanetrioltrinitrate) (CAS 6659-60-5) (see also ML8(g)(8) for its “precursors”);
+
+    - (6) Energetic monomers, plasticizers or polymers, specially formulated for military use and containing any of the following:
+
+      - (a) Nitro groups;
+
+      - (b) Azido groups;
+
+      - (c) Nitrate groups;
+
+      - (d) Nitraza groups;
+
+      - (e) Difluoroamino groups; (L.N. 161 of 2011)
+
+    - (7) FAMAO (3-difluoroaminomethyl-3-azidomethyl oxetane) and its polymers;
+
+    - (8) FEFO (bis-(2-fluoro-2,2-dinitroethyl) formal) (CAS 17003-79-1);
+
+    - (9) FPF-1 (poly-2,2,3,3,4,4-hexafluoropentane-1,5-diol formal) (CAS 376-90-9);
+
+    - (10) FPF-3 (poly-2,4,4,5,5,6,6-heptafluoro-2-tri-fluoromethyl-3-oxaheptane-1,7-diol formal);
+
+    - (11) GAP (glycidylazide polymer) (CAS 143178-24-9) and its derivatives;
+
+    - (12) HTPB (hydroxyl terminated polybutadiene) with a hydroxyl functionality equal to or greater than 2.2 and less than or equal to 2.4, a hydroxyl value of less than 0.77 meq/g, and a viscosity at 30°C of less than 47 poise (CAS 69102-90-5);
+
+    - (13) Alcohol functionalized poly (epichlorohydrin) with a molecular weight less than 10000, as follows:
+
+      - (a) Poly (epichlorohydrindiol);
+
+      - (b) Poly (epichlorohydrintriol); (L.N. 161 of 2011)
+
+    - (14) NENAs (nitratoethylnitramine compounds) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 and 85954-06-9);
+
+  - (15) PGN (poly-GLYN, polyglycidylnitrate) or poly (nitratomethyl oxirane) (CAS 27814-48-8);
+
+    - (16) Poly-NIMMO (poly nitratomethylmethyloxetane) or poly-NMMO (poly [3-Nitratomethyl-3-methyloxetane]) (CAS 84051-81-0);
+
+    - (17) Polynitroorthocarbonates;
+
+    - (18) TVOPA (1,2,3-tris [1,2-bis (difluoroamino) ethoxy] propane or tris vinoxy propane adduct) (CAS 53159-39-0);
+
+  - (f) “Additives”, as follows:
+
+    - (1) Basic copper salicylate (CAS 62320-94-9);
+
+    - (2) BHEGA (bis-(2-hydroxyethyl) glycolamide) (CAS 17409-41-5);
+
+    - (3) BNO (butadienenitrileoxide) (CAS 9003-18-3);
+
+    - (4) Ferrocene derivatives, as follows:
+
+      - (a) Butacene (CAS 125856-62-4);
+
+      - (b) Catocene (2,2-bis-ethylferrocenyl propane) (CAS 37206-42-1);
+
+      - (c) Ferrocene carboxylic acids including:
+
+        - (1) Ferrocene carboxylic acid (CAS 1271-42-7); and
+
+        - (2) 1,1’-Ferrocenedicarboxylic acid (CAS 1293-87-4); (L.N. 161 of 2011)
+
+      - (d) n-butyl-ferrocene (CAS 31904-29-7); (L.N. 95 of 2006)
+
+      - (e) Other adducted polymer ferrocene derivatives;
+
+    - (5) Lead beta-resorcylate (CAS 20936-32-7);
+
+    - (6) Lead citrate (CAS 14450-60-3);
+
+    - (7) Lead-copper chelates of beta-resorcylate or salicylates (CAS 68411-07-4);
+
+    - (8) Lead maleate (CAS 19136-34-6);
+
+    - (9) Lead salicylate (CAS 15748-73-9);
+
+    - (10) Lead stannate (CAS 12036-31-6);
+
+    - (11) MAPO (tris-1-(2-methyl) aziridinyl phosphine oxide) (CAS 57-39-6); BOBBA 8 (bis (2-methyl aziridinyl) 2-(2-hydroxypropanoxy) propylamino phosphine oxide); and other MAPO derivatives;
+
+    - (12) Methyl BAPO (bis (2-methyl aziridinyl) methylamino phosphine oxide) (CAS 85068-72-0);
+
+    - (13) N-methyl-p-nitroaniline (CAS 100-15-2);
+
+    - (14) 3-Nitraza-1,5-pentane diisocyanate (CAS 7406-61-9);
+
+    - (15) Organo-metallic coupling agents, as follows:
+
+      - (a) Neopentyl[diallyl]oxy,
+
+      - tri [dioctyl] phosphato-titanate (CAS 103850-22-2); also known as titanium IV, 2,2 [bis 2-propenolato-methyl, butanolato, tris (dioctyl) phosphato] (CAS 110438-25-0); or LICA 12 (CAS 103850-22-2);
+
+      - (b) Titanium IV, [(2-propenolato-1) methyl, n-propanolatomethyl] butanolato-1, tris [dioctyl] pyrophosphate or KR3538;
+
+      - (c) Titanium IV, [(2-propenolato-1)methyl, n-propanolatomethyl] butanolato-1, tris (dioctyl) phosphate;
+
+    - (16) Polycyanodifluoroamin oethyleneoxide;
+
+    - (17)
+
+    - Polyfunctional aziridine amides with isophthalic, trimesic (BITA (HX-868 1,1’,1”-trimesoyl-tris(2-ethylaziridine) (CAS 7722-73-8)) or butylene imine trimesamide), isocyanuric or trimethyladipic backbone structures and 2-methyl or 2-ethyl substitutions on the aziridine ring; (L.N. 254 of 2008)
+
+    - Note:
+
+    - ML8(f)(17) includes:
+
+      - 1. 1,1’-Isophthaloyl-bis(2-methylaziridene) (HX-752) (CAS 7652-64-4);
+
+      - 2. 2,4,6-tris(2-ethyl-1-aziridinyl)-1,3,5-triazine (HX-874) (CAS 18924-91-9); and
+
+      - 3. 1,1’-trimethyladipoylbis(2-ethylaziridine) (HX-877) (CAS 71463-62-2). (L.N. 254 of 2008)
+
+    - (18) Propyleneimine (2-methylaziridine) (CAS 75-55-8);
+
+    - (19) Superfine iron oxide (Fe2O3) (CAS 1317-60-8) with a specific surface area more than 250 m2/g and an average particle size of 3.0 nm or less; (L.N. 161 of 2011)
+
+    - (20) TEPAN (HX-879)
+
+    - (tetraethylenepentaamineacrylonitrile) (CAS 68412-45-3); cyanoethylated polyamines and their salts; (L.N. 254 of 2008)
+
+    - (21) TEPANOL (HX-878)
+
+    - (tetraethylenepentaamineacrylonitrileglycidol) (CAS 68412-46-4); cyanoethylated polyamines adducted with glycidol and their salts; (L.N. 254 of 2008)
+
+    - (22) TPB (triphenyl bismuth) (CAS 603-33-8);
+
+  - (g)
+
+  - “Precursors”, as follows:
+
+  - N.B.:
+
+  - In ML8(g) the references are to controlled “energetic materials” manufactured from these substances.
+
+    - (1) BCMO (bischloromethyloxetane) (CAS 142173-26-0) (see also ML8(e)(1) and ML8(e)(2));
+
+    - (2) Dinitroazetidine-t-butyl salt (CAS 125735-38-8) (see also ML8(a)(28));
+
+    - (3) HBIW (hexabenzylhexaazaisowurtzitane) (CAS 124782-15-6) (see also ML8(a)(4));
+
+    - (4) TAIW (tetraacetyldibenzylhexaazaisowurtzitane) (CAS 182763-60-6) (see also ML8(a)(4)); (L.N. 161 of 2011)
+
+    - (5) TAT (1,3,5,7-tetraacetyl-1,3,5,7-tetraaza cyclo-octane) (CAS 41378-98-7) (see also ML8(a)(13)); (L.N. 226 of 2009)
+
+    - (6) 1,4,5,8-tetraazadecalin (CAS 5409-42-7) (see also ML8(a)(27));
+
+    - (7) 1,3,5-trichlorobenzene (CAS 108-70-3) (see also ML8(a)(23));
+
+    - (8) 1,2,4-trihydroxybutane (1,2,4-butanetriol) (CAS 3068-00-6) (see also ML8(e)(5));
+
+  - Notes:
+
+  - 1. Aircraft fuels controlled by ML8(c)(1) are finished products not their constituents. (L.N. 226 of 2009)
+
+  - 2. ML8(c)(4)(a) does not control hydrazine mixtures specially formulated for corrosion control.
+
+  - 3. Explosives and fuels containing the metals or alloys listed in ML8(c)(5) are controlled whether or not the metals or alloys are encapsulated in aluminium, magnesium, zirconium, or beryllium.
+
+  - 4. ML8(c)(5)(b)(2) does not control boron and boron carbide enriched with boron-10 (20% or more of total boron-10 content).
+
+  - 5. ML8(c)(5)(b) only applies to metal fuels in particle form when they are mixed with other substances to form a mixture formulated for military purposes such as liquid propellant slurries, solid propellants, or pyrotechnic mixtures. (L.N. 161 of 2011)
+
+  - 6. ML8 does not apply to the following substances unless they are compounded or mixed with the “energetic materials” mentioned in ML8(a) or powdered metals in ML8(c): (L.N. 161 of 2011)
+
+    - (a) Ammonium picrate (CAS 131-74-8);
+
+    - (b) Black powder;
+
+    - (c) Hexanitrodiphenylamine (CAS 131-73-7);
+
+    - (d) Difluoroamine (CAS 10405-27-3);
+
+    - (e) Nitrostarch (CAS 9056-38-6);
+
+    - (f) Potassium nitrate (CAS 7757-79-1);
+
+    - (g) Tetranitronaphthalene;
+
+    - (h) Trinitroanisol;
+
+    - (i) Trinitronaphthalene;
+
+    - (j) Trinitroxylene;
+
+    - (k) N-pyrrolidinone; 1-methyl-2-pyrrolidinone (CAS 872-50-4);
+
+    - (l) Dioctylmaleate (CAS 142-16-5);
+
+    - (m) Ethylhexylacrylate (CAS 103-11-7);
+
+    - (n) Triethylaluminium (TEA) (CAS 97-93-8), trimethylaluminium (TMA) (CAS 75-24-1), and other pyrophoric metal alkyls and aryls of lithium, sodium, magnesium, zinc or boron;
+
+    - (o) Nitrocelluose (CAS 9004-70-0);
+
+    - (p) Nitroglycerin (or glyceroltrinitrate, trinitroglycerine) (NG) (CAS 55-63-0);
+
+    - (q) 2,4,6-trinitrotoluene (TNT) (CAS 118-96-7);
+
+    - (r) Ethylenediaminedinitrate (EDDN) (CAS 20829-66-7);
+
+    - (s) Pentaerythritoltetranitrate (PETN) (CAS 78-11-5);
+
+    - (t) Lead azide (CAS 13424-46-9), normal lead styphnate (CAS 15245-44-0) and basic lead styphnate (CAS 12403-82-6), and primary explosives or priming compositions containing azides or azide complexes;
+
+    - (u) Triethyleneglycoldinitrate (TEGDN) (CAS 111-22-8); (L.N. 254 of 2008)
+
+    - (v) 2,4,6-trinitroresorcinol (styphnic acid) (CAS 82-71-3);
+
+    - (w) Diethyldiphenyl urea (CAS 85-98-3); dimethylidiphenyl urea (CAS 611-92-7); methylethyldiphenyl urea [Centralites];
+
+    - (x) N,N-diphenylurea (unsymmetrical diphenylurea) (CAS 603-54-3);
+
+    - (y) Methyl-N,N-diphenylurea (methyl unsymmetrical diphenylurea) (CAS 13114-72-2);
+
+    - (z) Ethyl-N,N-diphenylurea (ethyl unsymmetrical diphenylurea) (CAS 64544-71-4);
+
+    - (aa) 2-Nitrodiphenylamine (2-NDPA) (CAS 119-75-5);
+
+    - (bb) 4-Nitrodiphenylamine (4-NDPA) (CAS 836-30-6);
+
+    - (cc) 2,2-dinitropropanol (CAS 918-52-5);
+
+    - (dd) Nitroguanidine (CAS 556-88-7) (see also 1C011(d) of the Dual-use Goods List). (L.N. 161 of 2011)
+
+- (L.N. 65 of 2004)
+
+  - ML9 Vessels of war (surface or underwater), special naval equipment, accessories, components and other surface vessels, as follows: (L.N. 226 of 2009)
+
+  - N.B.:
+
+  - For guidance and navigation equipment, see ML11. (L.N. 65 of 2004; L.N. 95 of 2006; L.N. 254 of 2008)
+
+    - (a) Vessels and components, as follows:
+
+      - (1) Vessels (surface or underwater) specially designed or modified for military use, regardless of current state of repair or operating condition, and whether or not they contain weapon delivery systems or armour, and hulls or parts of hulls for those vessels, and components for those vessels specially designed for military use;
+
+      - (2) Surface vessels, other than those specified in ML9(a)(1), having any of the following fixed or integrated into the vessel:
+
+        - (a) Automatic weapons having a calibre of 12.7 mm or greater and specified in ML1, or weapons specified in ML2, ML4, ML12 or ML19, or ‘mountings’ or hard points for those weapons; Technical Note:
+
+  - The term ‘mountings’ means weapon mounts or structural strengthening for the purpose of installing weapons.
+
+    - (b) Fire control systems specified in ML5;
 
     - (c) All of the following:
 
@@ -6484,87 +6486,85 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
     - numerical aperture
 
-    - where the K factor = 0.35;
+    - where the K factor = 0.35. (L.N. 95 of 2006)
 
-- (L.N. 161 of 2011)
+      - (2)
 
-  - (2)
+      - Imprint lithography equipment capable of producing features of 95 nm or less;
 
-  - Imprint lithography equipment capable of producing features of 95 nm or less; (L.N. 161 of 2011)
+      - Note:
 
-  - Note:
+      - 3B001(f)(2) includes:
 
-  - 3B001(f)(2) includes:
+        - (a) Micro contact printing tools;
 
-    - (a) Micro contact printing tools;
+        - (b) Hot embossing tools;
 
-    - (b) Hot embossing tools;
+        - (c) Nano-imprint lithography tools; and
 
-    - (c) Nano-imprint lithography tools; and
-
-    - (d) Step and flash imprint lithography (S-FIL) tools. (L.N. 254 of 2008)
+        - (d) Step and flash imprint lithography (S-FIL) tools. (L.N. 254 of 2008)
 
       - (3) Equipment specially designed for mask making or semiconductor device processing using direct writing methods, having all of the following characteristics:
 
-    - (a) Using deflected focussed electron beam, ion beam or “laser” beam;
+        - (a) Using deflected focussed electron beam, ion beam or “laser” beam;
 
-    - (b) Having any of the following characteristics:
+        - (b) Having any of the following characteristics:
 
-      - (1) A spot size smaller than 0.2 μm;
+          - (1) A spot size smaller than 0.2 μm;
 
-      - (2) Being capable of producing a pattern with a feature size of less than 1 μm;
+          - (2) Being capable of producing a pattern with a feature size of less than 1 μm;
 
-      - (3) An overlay accuracy of better than ± 0.20 μm (3 sigma); (L.N. 254 of 2008)
+          - (3) An overlay accuracy of better than ± 0.20 μm (3 sigma); (L.N. 254 of 2008)
 
-        - (g) Masks and reticles designed for integrated circuits controlled by 3A001;
+    - (g) Masks and reticles designed for integrated circuits controlled by 3A001;
 
-        - (h) Multi-layer masks with a phase shift layer;
-
-    - Note:
+    - (h) Multi-layer masks with a phase shift layer; Note:
 
     - 3B001(h) does not control multi-layer masks with a phase shift layer designed for the fabrication of memory devices not controlled by 3A001. (L.N. 65 of 2004)
 
-      - (i) Imprint lithography templates designed for integrated circuits specified in 3A001; (L.N. 254 of 2008)
+    - (i) Imprint lithography templates designed for integrated circuits specified in 3A001; (L.N. 254 of 2008)
 
-    - 3B002 Test equipment, specially designed for testing finished or unfinished semiconductor devices, as follows, and specially designed components and accessories therefor: (L.N. 95 of 2006)
+- (L.N. 161 of 2011)
 
-      - (a) For testing S-parameters of transistor devices at frequencies exceeding 31.8 GHz; (L.N. 65 of 2004)
+  - 3B002 Test equipment, specially designed for testing finished or unfinished semiconductor devices, as follows, and specially designed components and accessories therefor: (L.N. 95 of 2006)
 
-      - (b) (Repealed L.N. 95 of 2006)
+    - (a) For testing S-parameters of transistor devices at frequencies exceeding 31.8 GHz; (L.N. 65 of 2004)
 
-      - (c) For testing microwave integrated circuits controlled by 3A001(b)(2); (L.N. 132 of 2001)
+    - (b) (Repealed L.N. 95 of 2006)
 
-      - (d) (Repealed L.N. 132 of 2001)
+    - (c) For testing microwave integrated circuits controlled by 3A001(b)(2); (L.N. 132 of 2001)
 
-    - 3C MATERIALS 3C001 Hetero-epitaxial materials consisting of a “substrate” having stacked epitaxially grown multiple layers of any of the following:
+    - (d) (Repealed L.N. 132 of 2001)
 
-      - (a) Silicon;
+  - 3C MATERIALS 3C001 Hetero-epitaxial materials consisting of a “substrate” having stacked epitaxially grown multiple layers of any of the following:
 
-      - (b) Germanium; (L.N. 132 of 2001)
+    - (a) Silicon;
 
-      - (c) Silicon carbide; or (L.N. 132 of 2001)
+    - (b) Germanium; (L.N. 132 of 2001)
 
-      - (d) III/V compounds of gallium or indium; (L.N. 132 of 2001) Technical Note: III/V compounds are polycrystalline or binary or complex monocrystalline products consisting of elements of groups IIIA and VA of Mendeleyev’s periodic classification table (e.g., gallium arsenide, gallium-aluminium arsenide, indium phosphide). 3C002 Resist materials, as follows, and “substrates” coated with the following resists: (L.N. 254 of 2008)
+    - (c) Silicon carbide; or (L.N. 132 of 2001)
 
-      - (a) Positive resists designed for semiconductor lithography specially adjusted (optimized) for use at wavelengths below 245 nm; (L.N. 132 of 2001; L.N. 65 of 2004; L.N. 254 of 2008)
+    - (d) III/V compounds of gallium or indium; (L.N. 132 of 2001) Technical Note: III/V compounds are polycrystalline or binary or complex monocrystalline products consisting of elements of groups IIIA and VA of Mendeleyev’s periodic classification table (e.g., gallium arsenide, gallium-aluminium arsenide, indium phosphide). 3C002 Resist materials, as follows, and “substrates” coated with the following resists: (L.N. 254 of 2008)
 
-      - (b) All resists designed for use with electron beams or ion beams, with a sensitivity of 0.01 μcoulomb/mm2 or better;
+    - (a) Positive resists designed for semiconductor lithography specially adjusted (optimized) for use at wavelengths below 245 nm; (L.N. 132 of 2001; L.N. 65 of 2004; L.N. 254 of 2008)
 
-      - (c) All resists designed for use with X-rays, with a sensitivity of 2.5 mJ/mm2 or better;
+    - (b) All resists designed for use with electron beams or ion beams, with a sensitivity of 0.01 μcoulomb/mm2 or better;
 
-      - (d) All resists optimized for surface imaging technologies, including silylated resists; Technical Note:
+    - (c) All resists designed for use with X-rays, with a sensitivity of 2.5 mJ/mm2 or better;
 
-      - Silylation techniques are defined as processes incorporating oxidation of the resist surface to enhance performance for both wet and dry developing. (L.N. 45 of 2010)
+    - (d) All resists optimized for surface imaging technologies, including silylated resists; Technical Note:
 
-      - (e) All resists designed or optimized for use with imprint lithography equipment specified in 3B001(f)(2) that use either a thermal or photo-curable process; (L.N. 254 of 2008; L.N. 45 of 2010) 3C003 Organo-inorganic compounds, as follows:
+    - Silylation techniques are defined as processes incorporating oxidation of the resist surface to enhance performance for both wet and dry developing. (L.N. 45 of 2010)
 
-      - (a) Organo-metallic compounds of aluminium, gallium or indium having a purity (metal basis) better than 99.999%;
+    - (e) All resists designed or optimized for use with imprint lithography equipment specified in 3B001(f)(2) that use either a thermal or photo-curable process; (L.N. 254 of 2008; L.N. 45 of 2010) 3C003 Organo-inorganic compounds, as follows:
 
-      - (b) Organo-arsenic, organo-antimony and organo-phosphorus compounds having a purity (inorganic element basis) better than 99.999%;
+    - (a) Organo-metallic compounds of aluminium, gallium or indium having a purity (metal basis) better than 99.999%;
 
-      - Note: 3C003 only controls compounds whose metallic, partly metallic or non-metallic element is directly linked to carbon in the organic part of the molecule. 3C004 Hydrides of phosphorus, arsenic or antimony, having a purity better than 99.999%, even diluted in inert gases or hydrogen;
+    - (b) Organo-arsenic, organo-antimony and organo-phosphorus compounds having a purity (inorganic element basis) better than 99.999%;
 
-      - Note: 3C004 does not control hydrides containing 20% molar or more of inert gases or hydrogen. 3C005 Silicon carbide (SiC), gallium nitride (GaN), aluminium nitride (AlN) or aluminium gallium nitride (AlGaN) “substrate”, or ingots, boules, or other preforms of those materials, having resistivities greater than 10000 ohm-cm at 20°C;
+    - Note: 3C003 only controls compounds whose metallic, partly metallic or non-metallic element is directly linked to carbon in the organic part of the molecule. 3C004 Hydrides of phosphorus, arsenic or antimony, having a purity better than 99.999%, even diluted in inert gases or hydrogen;
+
+    - Note: 3C004 does not control hydrides containing 20% molar or more of inert gases or hydrogen. 3C005 Silicon carbide (SiC), gallium nitride (GaN), aluminium nitride (AlN) or aluminium gallium nitride (AlGaN) “substrate”, or ingots, boules, or other preforms of those materials, having resistivities greater than 10000 ohm-cm at 20°C;
 
 - (L.N. 254 of 2008)
 
@@ -7004,7 +7004,11 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
   - (h) Radio Frequency (RF) transmitting equipment designed or modified to prematurely activate or prevent the initiation of Radio Controlled Improvised Explosive Devices (RCIEDs); (L.N. 161 of 2011) N.B.:
 
-  - See also 5A001(f) and the Munitions List. (L.N. 161 of 2011) 5A101 Telemetering and telecontrol equipment, including ground equipment, designed or modified for ‘missiles’; Technical Note: In 5A101, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km. Note:
+  - See also 5A001(f) and the Munitions List. (L.N. 161 of 2011) 5A101 Telemetering and telecontrol equipment, including ground equipment, designed or modified for ‘missiles’;
+
+  - Technical Note: In 5A101, ‘missiles’ means complete rocket systems and “unmanned aerial vehicle” systems capable of a range exceeding 300 km.
+
+  - Note:
 
   - 5A101 does not control:
 
@@ -10054,7 +10058,7 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
 - (L.N. 95 of 2006)
 
-  - 9A101 Turbojet and turbofan engines, other than those specified in 9A001, as follows: (L.N. 95 of 2006; L.N. 254 of 2008; L.N. 161 of 2011)
+  - 9A101 Turbojet and turbofan engines, other than those specified in 9A001, as follows: (L.N. 95 of 2006; L.N. 254 of 2008)
 
     - (a) Engines having both of the following characteristics:
 
@@ -10064,7 +10068,7 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
     - (b) Engines designed or modified for use in “missiles” or unmanned aerial vehicles specified in 9A012; (L.N. 161 of 2011)
 
-- (L.N. 254 of 2008)
+- (L.N. 254 of 2008; L.N. 161 of 2011)
 
 - 9A102 ‘Turboprop engine systems’ specially designed for “Unmanned Aerial Vehicles”, and specially designed components for those systems, having a maximum power greater than 10 kW (achieved uninstalled at sea level standard conditions), excluding civil certified engines;
 
@@ -11242,4 +11246,4 @@ ML8(d)(10) does not apply to non-inhibited fuming nitric acid. (L.N. 161 of 2011
 
   - 1 “Yarn” (紗線) A bundle of twisted ‘strands’. N.B.: ‘Strand’ is a bundle of “monofilaments” (typically over 200) arranged approximately parallel.
 
-- (L.N. 247 of 1997; L.N. 183 of 1999; L.N. 132 of 2001; L.N. 65 of 2004; L.N. 95 of 2006; L.N. 254 of 2008; L.N. 226 of 2009; L.N. 161 of 2011)
+- (L.N. 247 of 1997; L.N. 183 of 1999; L.N. 132 of 2001; L.N. 65 of 2004; L.N. 95 of 2006; L.N. 254 of 2008; L.N. 226 of 2009; L.N. 161 of 2011; E.R. 2 of 2012)

@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2 & 43]
 
-SERVICES NOT TO BE REGARDED AS TELEVISION PROGRAMME SERVICES
+Services not to be Regarded as Television Programme Services
 
 - 1. A service consisting of the conveyance, without variation or alteration of contents, of a licensed service—
 

@@ -26,7 +26,7 @@ Every—
 
 - (h) special purpose vehicle.
 
-(Schedule 11 added L.N. 157 of 2000)
+(Schedule 11 added L.N. 157 of 2000) (Format changes—E.R. 2 of 2012)
 
 Editorial Note:
 

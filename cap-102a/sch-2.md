@@ -2,7 +2,7 @@
 
 [reg. 19]
 
-- PART I PIPES AND FITTINGS
+- Part 1 Pipes and Fittings
 
   - 1.
 
@@ -20,7 +20,7 @@
 
   - 4. Changes of direction for a pipe of less than 40 mm diameter shall be effected by slow bends and no elbows shall be used.
 
-    - 5.
+  - 5.
 
       - (a) Cast iron pipes shall comply with BS 4622 for grey iron pipe and with BS 4772 for ductile iron pipe, except that they may incorporate a mechanical or automatic joint of approved design.
 
@@ -64,11 +64,11 @@
 
   - 21. Chlorinated polyvinyl chloride pipes and fittings shall comply with BS 7291 Parts 1 and 4. (L.N. 673 of 1994) (L.N. 252 of 1977)
 
-- PART II TAPS AND VALVES
+- Part 2 Taps and Valves
 
   - 1. Draw-off taps and stop valves of the ordinary screw-down pattern and of nominal size not exceeding 50 mm shall comply with BS 1010, Part 2 for draw-off taps and stop valves.
 
-  - 2. Draw-off taps and stop valves not being of the ordinary screw-down pattern, shall be capable of resisting a pressure of at least 2000 kPa, and every valve, spindle, and other internal part and, where the nominal size of the tap or valve does not exceed 50 mm, the body thereof, shall be made of a corrosion resisting alloy.
+  - 2. Draw-off taps and stop valves not being of the ordinary screw-down pattern, shall be capable of resisting a pressure of at least 2 000 kPa, and every valve, spindle, and other internal part and, where the nominal size of the tap or valve does not exceed 50 mm, the body thereof, shall be made of a corrosion resisting alloy.
 
   - 3. Sluice valves of nominal size of 50 mm or more shall comply with BS 5163 for sluice valves for waterworks purposes of PN 10 or PN 16 according to the pressure to which the valve will be liable to be subjected under working conditions.
 
@@ -78,11 +78,11 @@
 
       - (a) valves shall be provided with a washer of suitable vulcanized rubber or some other equally suitable material and the washer shall be enclosed in an internally flanged cap screwed to the piston;
 
-    - (b) the body and piston shall be of a corrosion-resisting alloy, and the lever shall be of a corrosion-resisting alloy or of copper and shall be of sufficient rigidity not to bend permanently under working conditions. (L.N. 320 of 1992)
+      - (b) the body and piston shall be of a corrosion-resisting alloy, and the lever shall be of a corrosion-resisting alloy or of copper and shall be of sufficient rigidity not to bend permanently under working conditions. (L.N. 320 of 1992)
 
     - (2) Ball valves not being of the “Piston” type shall be sound and suitable and comply with the following requirements—
 
-      - (a) high pressure valves shall close against a test pressure of 1400 kPa, medium pressure valves against a test pressure of 700 kPa, low pressure valves against a test pressure of 300 kPa; and the valves, not being valves having an interchangeable orifice seating, shall have the letters “H.P.”, “M.P.” or “L.P.” respectively cast or stamped on the body of the fitting, and shall, while held in a closed position, be capable of resisting a pressure of 2000 kPa;
+      - (a) high pressure valves shall close against a test pressure of 1 400 kPa, medium pressure valves against a test pressure of 700 kPa, low pressure valves against a test pressure of 300 kPa; and the valves, not being valves having an interchangeable orifice seating, shall have the letters “H.P.”, “M.P.” or “L.P.” respectively cast or stamped on the body of the fitting, and shall, while held in a closed position, be capable of resisting a pressure of 2 000 kPa;
 
       - (b)-(c) (Repealed L.N. 320 of 1992)
 
@@ -106,15 +106,15 @@
 
   - 11. No draw-off tap or valve shall be installed or used unless it has been tested in accordance with regulation 21 or otherwise approved by the Water Authority. (L.N. 320 of 1992) (L.N. 252 of 1977)
 
-- PART III COLD WATER STORAGE CISTERNS
+- Part 3 Cold Water Storage Cisterns
 
   - 1. No cistern for the storage of cold water shall be installed or used except with the permission in writing of the Water Authority who shall specify the maximum permitted capacity.
 
   - 2. Every cistern shall be watertight, of adequate strength, properly supported and shall be constructed of concrete, galvanized mild steel or other approved material. (L.N. 320 of 1992)
 
-  - 3. A cistern of mild steel not exceeding 5000 litres capacity shall comply with BS 417, Part 2 for galvanized mild steel cisterns.
+  - 3. A cistern of mild steel not exceeding 5 000 litres capacity shall comply with BS 417, Part 2 for galvanized mild steel cisterns.
 
-    - 4.
+  - 4.
 
       - (a) Every cistern shall be located so as to minimize the risk of contamination of the stored water and shall be fitted with suitable close fitting lockable covers which shall not be air-tight. Covers shall be positioned so as to facilitate inspection and cleaning.
 
@@ -132,7 +132,7 @@
 
   - 10. Safe access shall be provided to all cisterns by means of a secure permanent ladder or readily available portable ladder. (L.N. 252 of 1977)
 
-- PART IV WATER HEATERS
+- Part 4 Water Heaters
 
   - 1.
 
@@ -164,9 +164,13 @@
 
   - 5. No tap used for the purpose of drawing hot water shall be fixed at a greater distance (measure along the axis of the pipe by which the tap is supplied) from a water heater or hot water cistern, cylinder or tank, or from a flow and return system, than the distance appropriate to the largest internal diameter of any part of the said pipe as shown in the following table—
 
-  - TABLE Largest internal diameter of pipe | Distance in metres
+  - Table Largest internal diameter of pipe | Distance in metres
 
-  - (a) Not exceeding 20 mm . (b) Exceeding 20 mm but not exceeding 25 mm . (c) Exceeding 25 mm . | 12 8 3
+  - (a) | Not exceeding 20 mm | 12
+
+  - (b) | Exceeding 20 mm but not exceeding 25 mm | 8
+
+  - (c) | Exceeding 25 mm | 3
 
   - 6. A loose jumper type valve shall be fitted on the inlet of every water heater if a non-return valve is not incorporated in such water heater; but this requirement does not apply to an electric water heater of the thermal storage type that is not provided with an individual expansion pipe. (L.N. 286 of 1990)
 
@@ -196,7 +200,7 @@
 
   - (L.N. 252 of 1977)
 
-- PART V FLUSHING APPARATUS
+- Part 5 Flushing Apparatus
 
   - 1. Every flushing cistern shall be of the valveless syphonic type unless otherwise approved by the Water Authority. A stop valve shall be fixed in a readily accessible position so as to control the supply to the cistern.
 
@@ -222,7 +226,7 @@
 
   - 9. Flushing apparatus without flushing cisterns shall not be used. (L.N. 252 of 1977)
 
-- PART VI BATHS, LAVATORY BASINS AND SINKS
+- Part 6 Baths, Lavatory Basins and Sinks
 
   - 1. Every inlet to a bath, lavatory basin or sink shall be distinct from, and unconnected with, any outlet therefrom and every outlet for emptying such bath, lavatory basin or sink shall be provided with a well-fitting and easily accessible watertight plug or some other equally suitable apparatus.
 

@@ -2,4 +2,6 @@ An Ordinance to establish the Communications Authority; to transfer the function
 
 [1 April 2012] L.N. 18 of 2012
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2012)
+
+(Format changes—E.R. 2 of 2012)

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3 & 29]
 
-PERSONS TO WHOM PART II DOES NOT APPLY
+Persons to whom Part II does not Apply
 
 Item | Person
 
@@ -13,3 +13,5 @@ Item | Person
 3. | Members of visiting armed forces
 
 4. | Persons holding an office of emolument under the Crown in right of the Government of the United Kingdom
+
+(Format changes—E.R. 2 of 2012)

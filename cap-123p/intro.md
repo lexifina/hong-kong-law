@@ -1,7 +1,7 @@
 Building (Inspection and Repair) Regulation
 
-(Made by the Secretary for Development under section 38 of the
+(Cap. 123, section 38)
 
-Buildings Ordinance (Cap. 123))
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [30 June 2012] L.N. 83 of 2012

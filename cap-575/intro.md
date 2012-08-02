@@ -4,4 +4,10 @@ An Ordinance to further implement a decision of the Security Council of the Unit
 
 [23 August 2002]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2012)
+
+(*Format changes—E.R. 2 of 2012)
+
+Editorial Note:
+
+* The format of the Ordinance has been updated to the current legislative styles.

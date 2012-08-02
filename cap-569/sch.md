@@ -22,7 +22,7 @@ Election Committee
 
       - functional constituency (功能界別) means a functional constituency specified in section 20(1) of the Legislative Council Ordinance (Cap. 542);
 
-      - geographical constituency (地方選區) means an area declared to be a geographical constituency in accordance with Part III of the Legislative Council Ordinance (Cap. 542);
+      - geographical constituency (地方選區) means an area declared to be a geographical constituency in accordance with Part 3 of the Legislative Council Ordinance (Cap. 542);
 
       - interim register of members of the Election Committee (選舉委員會暫行委員登記冊) means a register published under section 40(1); (Added 10 of 2006 s. 21)
 
@@ -33,8 +33,6 @@ Election Committee
       - officer (高級人員), in relation to a body corporate, includes a director or executive, or any other person concerned in the management, of the body;
 
       - registered (登記), in relation to a functional constituency or geographical constituency, means registered under the Legislative Council Ordinance (Cap. 542) as an elector for the constituency;
-
-      - the regulations (《規例》) means regulations made under section 46 of this Ordinance;
 
       - Returning Officer (選舉主任), in relation to a subsector, means the Returning Officer appointed for the subsector under section 47, and includes any person appointed to act in place of such an Officer when the Officer is absent or when an office of Returning Officer is vacant;
 
@@ -52,7 +50,9 @@ Election Committee
 
       - sub-subsector by-election (小組補選) means an election to elect a member of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), is to be elected by the sub-subsector, otherwise than at a sub-subsector ordinary election;
 
-      - sub-subsector ordinary election (小組一般選舉) means an election to elect those members of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), are to be elected by the sub-subsector, for a new term of office of the Election Committee.
+      - sub-subsector ordinary election (小組一般選舉) means an election to elect those members of the Election Committee assigned to a sub-subsector who, under section 2(7)(b) and (9), are to be elected by the sub-subsector, for a new term of office of the Election Committee;
+
+      - the regulations (《規例》) means regulations made under section 46 of this Ordinance.
 
     - (2) In this Schedule, unless the context otherwise requires, in respect of the sports, performing arts, culture and publication subsector—
 
@@ -790,7 +790,7 @@ Election Committee
 
             - (A) is a person specified opposite to that subsector in column 3 of Table 5 in section 2; and
 
-            - (B) where the person is a natural person, is eligible to be registered as an elector under Part V of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; or
+            - (B) where the person is a natural person, is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; or
 
           - (ii) the person—
 
@@ -912,7 +912,7 @@ Election Committee
 
       - (19) A person described in column 3 of Table 4 in section 2 in relation to the subsector specified in item 3 of that Table, who—
 
-        - (a) is eligible to be registered as an elector under Part V of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered; or
+        - (a) is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered; or
 
         - (b) is registered in the existing geographical constituencies final register, and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency,
 
@@ -1522,4 +1522,4 @@ Election Committee
 
     - (4) At the hearing of the appeal, the appellant or any other person concerned in the appeal is entitled to appear in person and, whether or not the appellant appears in person, to be represented by a legal practitioner or any other person.
 
-  - 49. (Repealed 10 of 2006 s. 31)
+  - 49. (Repealed 10 of 2006 s. 31) (Amended E.R. 2 of 2012)

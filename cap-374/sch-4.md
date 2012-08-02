@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 89, 90, 93, 97, 98, 99, 100 & 102]
 
-OFFENCES AND PERIODS FOR WHICH THE LICENCE OF A MOTOR VEHICLE MAY BE SUSPENDED
+Offences and Periods for which the Licence of a Motor Vehicle may be Suspended
 
-ITEM | OFFENCE | PERIOD OF SUSPENSION
+Item | Offence | Period of Suspension
 
 First offence | Subsequent offence in respect of the same motor vehicle
 

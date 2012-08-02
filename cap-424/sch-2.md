@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 37]
 
-CHILDREN’S PRODUCT STANDARDS
+Children’s Product Standards
 
 Column 1 Children’s products | Column 2 Standards
 
@@ -62,4 +62,4 @@ The Joint Australian/New Zealand Standard is established by Standards Australia 
 
 AS/NZS 2088:2009 “Prams and Strollers—Safety requirements”
 
-(Amended L.N. 110 of 2010) (Schedule 2 added 5 of 2010 s. 21. Amended L.N. 184 of 2011; 26 of 2012 s. 16)
+(Amended L.N. 110 of 2010) (Schedule 2 added 5 of 2010 s. 21. Amended L.N. 184 of 2011; 26 of 2012 s. 16) (Format changes—E.R. 2 of 2012)

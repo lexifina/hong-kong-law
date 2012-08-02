@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 60, 63 & 87]
 
-FURTHER EXCEPTIONS TO THIS ORDINANCE
+Further Exceptions to this Ordinance
 
 Provision creating illegality | Exception
 
@@ -29,3 +29,5 @@ in respect of—
 (d) a public transport service operated by a company pursuant to a franchise granted under section 5 of the Public Bus Services Ordinance (Cap. 230); or
 
 (e) a public transport service operated by a company or person pursuant to a franchise or licence granted under section 6 or 28 of the Ferry Services Ordinance (Cap. 104). (Added L.N. 223 of 2009. Amended 15 of 2010 s. 24; L.N. 131 of 2012)
+
+(Format changes—E.R. 2 of 2012)

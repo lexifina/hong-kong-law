@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 7P]
 
-SPECIFIED AMOUNT
+Specified Amount
 
 $200,000.
 

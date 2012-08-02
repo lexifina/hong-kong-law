@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 3]
 
-PROVISIONS EXCLUDED FROM APPLICATION OF SECTION 6 OF ORDINANCE
+Provisions Excluded from Application of Section 6 of Ordinance
 
 Item | Enactment | Provision
 

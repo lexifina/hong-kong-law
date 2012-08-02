@@ -4,6 +4,8 @@
 
 Requirements Applicable to Pre-service Training Schools
 
+(Schedule 13 added 6 of 2012 s. 10)
+
 - 1. Only pre-service course instructors who have been authorized by the Commissioner and who meet all conditions that may be specified by the Commissioner in the designation concerned may give pre-service courses.
 
 - 2. Notice must be given by the proprietor of a pre-service training school to the Commissioner immediately if—
@@ -17,5 +19,3 @@ Requirements Applicable to Pre-service Training Schools
 - 3. In this Schedule—
 
   - attendance certificate (修習證書), course certificate (課程證書), designation (指定) and proprietor (東主) have the meaning given by section 102H.
-
-- (Schedule 13 added 6 of 2012 s. 10)

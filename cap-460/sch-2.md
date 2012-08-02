@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 17 & 29]
 
-OFFENCES FOR WHICH PERMIT TO BE REVOKED
+Offences for which Permit to be Revoked
 
 Item | Offence | Penalty
 
@@ -13,3 +13,5 @@ Item | Offence | Penalty
 3. | Any offence involving violence | Imprisonment
 
 4. | Any offence against Part XII of the Crimes Ordinance (Cap. 200) (Amended L.N. 48 of 2003) | Any penalty
+
+(Format changes—E.R. 2 of 2012)

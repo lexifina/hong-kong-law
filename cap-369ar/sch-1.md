@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3(8) and 13(10)]
 
-METHOD FOR DETERMINING THE CURRENT CAPACITY OF THE RESERVE SOURCE OF ENERGY
+Method for Determining the Current Capacity of the Reserve Source of Energy
 
 For the purpose of section 13(10) of this Regulation, the total current used in calculations shall be equal to the highest sum of the current consumption of all the radio installations which can be simultaneously connected to the source of energy, based on the following—
 

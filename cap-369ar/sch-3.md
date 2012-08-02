@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 3(8), 15(6) & (7)]
 
-METHODS FOR COMPLIANCE WITH THE MAINTENANCE REQUIREMENTS
+Methods for Compliance with the Maintenance Requirements
 
 - 1. Duplication of equipment
 
@@ -18,9 +18,9 @@ METHODS FOR COMPLIANCE WITH THE MAINTENANCE REQUIREMENTS
 
     - (d) sea areas A1, A2, A3 and A4— A VHF radio installation complying with the requirements of section 7(1)(a) of this Regulation and an MF/HF radio installation complying with the requirements of section 10(2)(a) of this Regulation and being able to fully comply with the watch requirements of section 12(1)(c) of this Regulation. For ships operating in sea area A4 only occasionally and having originally installed an MF/HF radio installation, the additional MF/HF radio installation may be substituted by an Inmarsat SES complying with the requirements of section 10(1)(a) of this Regulation. The MF/HF radio installation or Inmarsat SES installed for duplication should also comply with section 10(3) of this Regulation. (L.N. 659 of 1994; L.N. 110 of 1998)
 
-  - (2) The additional radio installations specified in subsection (1)(a), (b), (c) and (d) (hereinafter referred to as “duplicated equipment”) should each be connected to a separate antenna and be installed and ready for immediate operation.
+  - (2) The additional radio installations specified in subsection (1)(a), (b), (c) and (d) (hereinafter referred to as duplicated equipment) should each be connected to a separate antenna and be installed and ready for immediate operation.
 
-  - (3) It should be possible to connect the duplicated equipment to the reserve source or sources of energy required by section 13(2) of this Regulation, in addition to the appropriate radio equipment specified in that section (hereinafter referred to as “basic equipment”). The capacity of the reserve source or sources of energy should be sufficient to operate the basic equipment or the duplicated equipment with the highest power consumption for the appropriate period specified in section 13(2)(a), (b) or (c) of this Regulation. However, the arrangement for the reserve source or sources of energy should be such that a single fault in this arrangement should not affect both the basic and the duplicated equipment.
+  - (3) It should be possible to connect the duplicated equipment to the reserve source or sources of energy required by section 13(2) of this Regulation, in addition to the appropriate radio equipment specified in that section (hereinafter referred to as basic equipment). The capacity of the reserve source or sources of energy should be sufficient to operate the basic equipment or the duplicated equipment with the highest power consumption for the appropriate period specified in section 13(2)(a), (b) or (c) of this Regulation. However, the arrangement for the reserve source or sources of energy should be such that a single fault in this arrangement should not affect both the basic and the duplicated equipment.
 
 - 2. Shore-based maintenance
 

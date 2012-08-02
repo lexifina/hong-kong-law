@@ -1,8 +1,8 @@
-# SIXTH SCHEDULE
+# Sixth Schedule
 
 [ss. 6, 6C, 6D, 6E, 7, 8, 11, 16A, 36C, 36J & 48A]
 
-SPECIFIED AMOUNT OF COMPENSATION
+Specified Amount of Compensation
 
 Section | Amount $ | Percentage
 
@@ -50,4 +50,4 @@ Section | Amount $ | Percentage
 
 36J | 101390
 
-( Sixth Schedule replaced 52 of 2000 s. 27. Amended L.N. 93 of 2010; L.N. 126 of 2012)
+(Sixth Schedule replaced 52 of 2000 s. 27. Amended L.N. 93 of 2010; L.N. 126 of 2012) (Format changes—E.R. 2 of 2012)

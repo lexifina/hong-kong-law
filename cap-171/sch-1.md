@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 44] (Amended 13 of 2012 s. 16)
 
-TOXIC SUBSTANCE
+Toxic Substance
 
 - 1. The residue left after oil has been expressed from tea-seeds, commonly known as Cha Tsai Peng (茶仔餅).
 

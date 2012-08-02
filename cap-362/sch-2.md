@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 13B]
 
-GOODS SPECIFIED FOR PURPOSES OF SECTION 13B
+Goods Specified for Purposes of Section 13B
 
-- PART 1
+- Part 1
 
   - 1. Digital audio player
 
@@ -16,31 +16,33 @@ GOODS SPECIFIED FOR PURPOSES OF SECTION 13B
 
   - 5. Portable multimedia player
 
-- PART 2
+- Part 2
 
-  - 1.
+  - 1. Definitions of products In this Schedule—
 
-  - Definitions of products In this Schedule—
-
-    - “digital audio player” (數碼音響播放器)—
+    - digital audio player (數碼音響播放器)—
 
       - (a) means any portable device the principal function of which is to play digital audio files in one or more audio encoding formats from any storage medium;
 
       - (b) includes the product commonly known as MP3 player; and
 
-      - (c) does not include portable optical disc player;
+      - (c)
 
-    - “digital camcorder” (數碼攝錄機) means any portable device the principal function of which is to make a recording in digital format on any medium from which a moving image may by any means be reproduced;
+      - does not include portable optical disc player;
 
-    - “digital camera” (數碼相機) means any portable device the principal function of which is to record and store an image in digital format on any medium from which a still image may by any means be reproduced;
+        - digital camcorder (數碼攝錄機) means any portable device the principal function of which is to make a recording in digital format on any medium from which a moving image may by any means be reproduced;
 
-    - “mobile phone” (手提電話) means any portable device the principal function of which is for mobile communication through a cellular radio network with—
+        - digital camera (數碼相機) means any portable device the principal function of which is to record and store an image in digital format on any medium from which a still image may by any means be reproduced;
+
+        - mobile phone (手提電話) means any portable device the principal function of which is for mobile communication through a cellular radio network with—
 
       - (a) standard voice function of a telephone; and
 
-      - (b) interconnection to the public switched telephone network (PSTN);
+      - (b)
 
-    - “portable multimedia player” (便攜式多媒體播放器)—
+      - interconnection to the public switched telephone network (PSTN);
+
+        - portable multimedia player (便攜式多媒體播放器)—
 
       - (a) means any portable device the principal function of which is to play digital multimedia files in one or more media recording formats from any storage medium;
 

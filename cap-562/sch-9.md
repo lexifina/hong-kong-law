@@ -1,8 +1,8 @@
-# SCHEDULE 9
+# Schedule 9
 
 [s. 44]
 
-CONSEQUENTIAL AMENDMENTS
+Consequential Amendments
 
 Telecommunications Ordinance
 

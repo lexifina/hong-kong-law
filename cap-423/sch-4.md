@@ -1,11 +1,7 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 21 & 31]
 
-MAXIMUM AMOUNT OF RETRAINING ALLOWANCE SPECIFIED FOR THE PURPOSES OF SECTION 21(4)
+Maximum Amount of Retraining Allowance Specified for the Purposes of Section 21(4)
 
-MAXIMUM AMOUNT OF RETRAINING ALLOWANCE SPECIFIED
-
-FOR THE PURPOSES OF SECTION 21(4) $4,000
-
-(Amended L.N. 139 of 1993; L.N. 236 of 1994; L.N. 312 of 1995)
+$4,000 (Amended L.N. 139 of 1993; L.N. 236 of 1994; L.N. 312 of 1995) (Format changes—E.R. 2 of 2012)

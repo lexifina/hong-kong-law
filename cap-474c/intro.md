@@ -1,11 +1,9 @@
-TAI LAM TUNNEL AND YUEN LONG APPROACH ROAD BYLAW
+Tai Lam Tunnel and Yuen Long Approach Road Bylaw
 
-(Made by Route 3 (CPS) Company Limited under section 26
+(Cap. 474, section 26)
 
-of the Tai Lam Tunnel and Yuen Long Approach Road
-
-Ordinance(Cap. 474) subject to the approval of
-
-the Provisional Legislative Council)
+(Enacting provision omitted—E.R. 2 of 2012)
 
 [27 February 1998]
+
+(Format changes—E.R. 2 of 2012)

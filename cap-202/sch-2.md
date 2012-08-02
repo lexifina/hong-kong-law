@@ -18,7 +18,7 @@
 
   - 2. The degree of disablement due to service of a qualified person shall be assessed on an interim basis unless the condition of the qualified person permits a final assessment of the extent, if any, of that disablement.
 
-  - 3. The degree of disablement assessed hereunder shall be expressed by way of a percentage, total disablement being represented by 100% (which shall be the maximum assessment) and a lesser degree being represented by such percentage as bears to total disablement, so however that a degree of disablement of 20% or more shall be expressed by way of a percentage which is a multiple of 10, and a degree of disablement which is less than 20% shall except in a case to which Part II applies, be expressed in a manner suitable for the purposes of Part II of Schedule 4.
+  - 3. The degree of disablement assessed hereunder shall be expressed by way of a percentage, total disablement being represented by 100% (which shall be the maximum assessment) and a lesser degree being represented by such percentage as bears to total disablement, so however that a degree of disablement of 20% or more shall be expressed by way of a percentage which is a multiple of 10, and a degree of disablement which is less than 20% shall except in a case to which Part II applies, be expressed in a manner suitable for the purposes of Part 2 of Schedule 4.
 
   - 4. Where the disablement due to service of a qualified person is due to an injury specified in Part III or is a disablement so specified, and, in either case, has reached a settled condition, the degree of that disablement shall, in the absence of any special features, be expressed for the purposes of this Part by way of the percentage specified in Part III as appropriate to that injury or to that disablement.
 
@@ -32,23 +32,67 @@ For the loss of:
 
 A. | FINGERS—
 
-Index finger— More than 2 phalanges including loss of whole finger More than 1 phalanx but not more than 2 phalanges 1 phalanx or part thereof Guillotine amputation of tip without loss of bone | 14 11 9 5
+Index finger—
 
-Middle finger— More than 2 phalanges including loss of whole finger More than 1 phalanx but not more than 2 phalanges 1 phalanx or part thereof Guillotine amputation of tip without loss of bone | 12 9 7 4
+More than 2 phalanges including loss of whole finger | 14
 
-Ring or little finger— More than 2 phalanges including loss of whole finger More than 1 phalanx but not more than 2 phalanges 1 phalanx or part thereof Guillotine amputation of tip without loss of bone | 7 6 5 2
+More than 1 phalanx but not more than 2 phalanges | 11
+
+1 phalanx or part thereof | 9
+
+Guillotine amputation of tip without loss of bone | 5
+
+Middle finger—
+
+More than 2 phalanges including loss of whole finger | 12
+
+More than 1 phalanx but not more than 2 phalanges | 9
+
+1 phalanx or part thereof | 7
+
+Guillotine amputation of tip without loss of bone | 4
+
+Ring or little finger—
+
+More than 2 phalanges including loss of whole finger | 7
+
+More than 1 phalanx but not more than 2 phalanges | 6
+
+1 phalanx or part thereof | 5
+
+Guillotine amputation of tip without loss of bone | 2
 
 B. | TOES—
 
-Great toe— through metatarso-phalangeal joint part, with some loss of bone | 14 3
+Great toe—
 
-1 other toe— through metatarso-phalangeal joint part, with some loss of bone | 3 1
+through metatarso-phalangeal joint | 14
 
-2 toes, excluding great toe— through metatarso-phalangeal joint part, with some loss of bone | 5 2
+part, with some loss of bone | 3
 
-3 toes, excluding great toe— through metatarso-phalangeal joint part, with some loss of bone | 6 3
+1 other toe—
 
-4 toes, excluding great toe— through metatarso-phalangeal joint part, with some loss of bone | 9 3
+through metatarso-phalangeal joint | 3
+
+part, with some loss of bone | 1
+
+2 toes, excluding great toe—
+
+through metatarso-phalangeal joint | 5
+
+part, with some loss of bone | 2
+
+3 toes, excluding great toe—
+
+through metatarso-phalangeal joint | 6
+
+part, with some loss of bone | 3
+
+4 toes, excluding great toe—
+
+through metatarso-phalangeal joint | 9
+
+part, with some loss of bone | 3
 
 - PART III DEGREE OF DISABLEMENT CAUSED BY SPECIFIED INJURIES AND OF
 
@@ -56,9 +100,7 @@ Great toe— through metatarso-phalangeal joint part, with some loss of bone | 1
 
 Column 1 | Column 2
 
-Description of injury | Degree of disablement
-
-%
+Description of injury | Degree of disablement %
 
 Amputation Cases-Upper Limbs
 
@@ -70,7 +112,7 @@ Amputation through shoulder joint | 90
 
 Amputation below shoulder with stump less than 20.5 cm from tip of acromion | 80
 
-Amputation from 20.5 cm from tip of acromion to less than 11.5cm below tip of olecranon | 70
+Amputation from 20.5 cm from tip of acromion to less than 11.5 cm below tip of olecranon | 70
 
 Amputation from 11.5 cm below tip of olecranon | 60
 
@@ -140,4 +182,6 @@ Very severe facial disfigurement | 100
 
 Absolute deafness | 100
 
-NOTE-Where the degree of disablement specified for a specified injury involving multiple losses differs from the sum of those for the separate injuries, the former shall be regarded as the appropriate degree of disablement for the purposes of this Schedule. (Added 56 of 1997 s. 5)
+NOTE—Where the degree of disablement specified for a specified injury involving multiple losses differs from the sum of those for the separate injuries, the former shall be regarded as the appropriate degree of disablement for the purposes of this Schedule.
+
+(Added 56 of 1997 s. 5. Amended E.R. 2 of 2012)
