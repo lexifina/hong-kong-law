@@ -38,7 +38,7 @@ SCHEDULED INFECTIOUS DISEASES
 
 - 15. Hantavirus infection (漢坦病毒感染)
 
-- 16. Influenza A (H2), Influenza A (H5), Influenza A (H7), Influenza A (H9) (甲型流行性感冒(H2)、甲型流行性感冒(H5)、甲型流行性感冒(H7)、甲型流行性感冒(H9)) (Amended L.N. 72 of 2009; L.N. 117 of 2010)
+- 16. Influenza A (H2), Variant Influenza A (H3N2), Influenza A (H5), Influenza A (H7), Influenza A (H9) (甲型流行性感冒(H2)、變異株甲型流行性感冒(H3N2)、甲型流行性感冒(H5)、甲型流行性感冒(H7)、甲型流行性感冒(H9)) (Replaced L.N. 138 of 2012)
 
 - 17. Japanese encephalitis (日本腦炎)
 
