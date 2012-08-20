@@ -8,9 +8,9 @@ LEVY
 
 - PART 2 SPECIFIED RATE
 
-  - Division 1-Construction operations 0.25% of the value of the construction operations concerned.
+  - Division 1-Construction operations 0.15% of the value of the construction operations concerned. (Amended L.N. 132 of 2012)
 
-  - Division 2-Quarry products 0.25% of the value of the quarry products concerned. (Schedule 5 added 3 of 2004 s. 26)
+  - Division 2-Quarry products 0.15% of the value of the quarry products concerned. (Amended L.N. 132 of 2012) (Schedule 5 added 3 of 2004 s. 26)
 
 Editorial Note:
 
