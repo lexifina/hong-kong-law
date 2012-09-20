@@ -924,6 +924,8 @@ THE POISONS LIST
 
 - Docetaxel; its salts
 
+- Domperidone; its salts
+
 - Donepezil; its salts
 
 - Dopamine; its salts
