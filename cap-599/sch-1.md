@@ -74,7 +74,7 @@ SCHEDULED INFECTIOUS DISEASES
 
 - 33. Scarlet fever (猩紅熱)
 
-- 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症)
+- 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症) 34AA. Severe Respiratory Disease associated with Novel Coronavirus (新型冠狀病毒致嚴重呼吸系統病) (Add L.N. 144 of 2012)
 
 - 34A. Shiga toxin-producing Escherichia coli infection (產志賀毒素大腸桿菌感染) (Added L.N. 101 of 2011)
 

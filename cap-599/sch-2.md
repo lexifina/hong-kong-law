@@ -44,6 +44,8 @@ SCHEDULED INFECTIOUS AGENTS
 
 - 20. Nipah virus (尼巴病毒)
 
+- 20A. Novel Coronavirus associated with Severe Respiratory Disease (致嚴重呼吸系統病新型冠狀病毒) (Added L.N. 144 of 2012)
+
 - 21. Omsk haemorrhagic fever virus (鄂木斯克出血熱病毒)
 
 - 22. Polio virus (wild) (脊髓灰質炎病毒(野毒株))
