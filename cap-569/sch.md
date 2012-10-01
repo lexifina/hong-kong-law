@@ -264,7 +264,7 @@ Election Committee
 
   - 1. | National People’s Congress (“NPC”) | Hong Kong deputies to the NPC. | 36
 
-  - 2. | Legislative Council | Members of the Legislative Council. | 60
+  - 2. | Legislative Council | Members of the Legislative Council. | 70
 
   - 3. | Chinese People’s Political Consultative Conference (“CPPCC”) | Hong Kong members of the National Committee of the CPPCC. | 51
 
