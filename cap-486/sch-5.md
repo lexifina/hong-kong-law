@@ -12,7 +12,7 @@ PRESCRIBED MATTERS
 
 - 4. The practices and procedures, if any, that will be followed to enable a data subject to make a data correction request—
 
-  - (a) in respect any of the personal data produced or verified by the matching procedure;
+  - (a) in respect of the personal data produced or verified by the matching procedure; (Amended 18 of 2012 s. 42)
 
   - (b) before any adverse action is taken against the data subject.
 

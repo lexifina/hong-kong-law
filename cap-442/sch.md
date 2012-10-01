@@ -60,7 +60,7 @@ Item | Ordinance | Decision
 
 28. | Marine Parks Ordinance (Cap. 476) | A decision of the Country and Marine Parks Authority under section 11 or 22 of the Ordinance. (Added 37 of 1995 s. 36)
 
-29. | Personal Data (Privacy) Ordinance (Cap. 486) | A decision of the Privacy Commissioner for Personal Data— (a) to impose conditions on his consent to the carrying out of a matching procedure under section 32(1)(b)(i); (b) to refuse to consent to the carrying out of a matching procedure under section 32(1)(b)(ii); (c) to refuse under section 39(3) to carry out or continue an investigation initiated by a complaint; (d) not to delete under section 46(5) a matter from a report under the Ordinance; (e) not to serve an enforcement notice under section 47; (f) to serve an enforcement notice under section 50. (Added 81 of 1995 s. 73)
+29. | Personal Data (Privacy) Ordinance (Cap. 486) | A decision of the Privacy Commissioner for Personal Data— (a) to impose conditions on his consent to the carrying out of a matching procedure under section 32(1)(b)(i); (b) to refuse to consent to the carrying out of a matching procedure under section 32(1)(b)(ii); (c) to refuse under section 39(3) to carry out an investigation initiated by a complaint; (Amended 18 of 2012 s. 44) (ca) to terminate under section 39(3A) an investigation initiated by a complaint; (Added 18 of 2012 s. 44) (d) not to delete under section 46(5) a matter from a report under the Ordinance; (e) not to serve an enforcement notice under section 47; (f) to serve an enforcement notice under section 50. (Added 81 of 1995 s. 73)
 
 30. | Dutiable Commodities Ordinance (Cap. 109) | A decision of the Commissioner of Customs and Excise under section 7, 26, 26A or 29. (Added 46 of 1996 s. 43)
 
