@@ -4,12 +4,6 @@
 
 Composition of the Transport Functional Constituency
 
-(The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
-
-- (a) the holding of the elections of members of the Election Committee under the Chief Executive Election Ordinance (Cap. 569) in 2011; and
-
-- (b) the holding of the Legislative Council general election in 2012.)
-
 Item Body
 
 - 1. Parking Management and Consultancy Services Limited. (Replaced 7 of 2008 s. 7)
@@ -462,6 +456,4 @@ Item Body
 
 - 225. New Horizon School of Motoring Limited. (Added 2 of 2011 s. 33)
 
-- 226. Leinam School of Motoring Limited. (Added 2 of 2011 s. 33)
-
-(Added 48 of 1999 s. 43)
+- 226. Leinam School of Motoring Limited. (Added 2 of 2011 s. 33) (Added 48 of 1999 s. 43)

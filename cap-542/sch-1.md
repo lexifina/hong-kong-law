@@ -4,178 +4,172 @@
 
 Composition of the Agriculture and Fisheries Functional Constituency
 
-(The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
+Item | Body
 
-- (a) the holding of the elections of members of the Election Committee under the Chief Executive Election Ordinance (Cap. 569) in 2011; and
+1. | Aberdeen Fishermen Friendship Association. (Amended 10 of 2006 s. 34)
 
-- (b) the holding of the Legislative Council general election in 2012.)
+2. | The Ap Lei Chau Fishermen’s Credit Co-operative Society, Unlimited.
 
-Item Body
+3. | The Castle Peak Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 1. Aberdeen Fishermen Friendship Association. (Amended 10 of 2006 s. 34)
+4. | The Castle Peak Mechanized Trawler Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 2. The Ap Lei Chau Fishermen’s Credit Co-operative Society, Unlimited.
+5. | Cheung Chau Fisheries Joint Association.
 
-- 3. The Castle Peak Fishermen’s Credit Co-operative Society, Unlimited.
+6. | Cheung Chau Fishermen’s Welfare Promotion Association.
 
-- 4. The Castle Peak Mechanized Trawler Fishermen’s Credit Co-operative Society, Unlimited.
+7. | The Fanling Kwun Ti Village Farmers’ Irrigation Co-operative Society, Ltd.
 
-- 5. Cheung Chau Fisheries Joint Association.
+8. | Fish Farming and Stuff Association.
 
-- 6. Cheung Chau Fishermen’s Welfare Promotion Association.
+9. | Fisherman’s Association of Po Toi Island.
 
-- 7. The Fanling Kwun Ti Village Farmers’ Irrigation Co-operative Society, Ltd.
+10. | Fishery Development Association (Hong Kong) Limited.
 
-- 8. Fish Farming and Stuff Association.
+11. | Fraternal Association of The Floating Population of Hong Kong.
 
-- 9. Fisherman’s Association of Po Toi Island.
+12. | The Guild of Graziers.
 
-- 10. Fishery Development Association (Hong Kong) Limited.
+13. | Hang Hau Grazier Association.
 
-- 11. Fraternal Association of The Floating Population of Hong Kong.
+14. | Hong Kong and Kowloon Fishermen Association Ltd.
 
-- 12. The Guild of Graziers.
+15. | Hong Kong & Kowloon Floating Fishermen Welfare Promotion Association.
 
-- 13. Hang Hau Grazier Association.
+16. | Hong Kong Fisheries Development Association. (Amended 10 of 2006 s. 34)
 
-- 14. Hong Kong and Kowloon Fishermen Association Ltd.
+17. | Hong Kong Fishermen’s Association.
 
-- 15. Hong Kong & Kowloon Floating Fishermen Welfare Promotion Association.
+18. | Hong Kong Fishing Vessel Owners Association, Ltd.
 
-- 16. Hong Kong Fisheries Development Association. (Amended 10 of 2006 s. 34)
+19. | Hong Kong Florists Association.
 
-- 17. Hong Kong Fishermen’s Association.
+20. | Hong Kong Graziers Union.
 
-- 18. Hong Kong Fishing Vessel Owners Association, Ltd.
+21. | Hong Kong Liner & Gill Netting Fisherman Association. (Amended 10 of 2006 s. 34)
 
-- 19. Hong Kong Florists Association.
+22. | Hong Kong Livestock Industry Association.
 
-- 20. Hong Kong Graziers Union.
+23. | Hong Kong N.T. Fish Culture Association.
 
-- 21. Hong Kong Liner & Gill Netting Fisherman Association. (Amended 10 of 2006 s. 34)
+24. | Hong Kong N.T. Poultry (Geese & Ducks) Mutual Association. (Amended 10 of 2006 s. 34)
 
-- 22. Hong Kong Livestock Industry Association.
+25. | Hong Kong Netting, Cultivation and Fisherman Association.
 
-- 23. Hong Kong N.T. Fish Culture Association.
+26. | (Repealed 2 of 2011 s. 32)
 
-- 24. Hong Kong N.T. Poultry (Geese & Ducks) Mutual Association. (Amended 10 of 2006 s. 34)
+27. | Hong Kong Off-shore Fishermen’s Association.
 
-- 25. Hong Kong Netting, Cultivation and Fisherman Association.
+28. | (Repealed 11 of 2012 s. 35)
 
-- 26. (Repealed 2 of 2011 s. 32)
+29. | The Lam Ti Agricultural Credit Co-operative Society, Limited.
 
-- 27. Hong Kong Off-shore Fishermen’s Association.
+30. | Lamma Island Lo Dik Wan Aquaculture Association.
 
-- 28. (Repealed 11 of 2012 s. 35)
+31. | (Repealed 25 of 2003 s. 43)
 
-- 29. The Lam Ti Agricultural Credit Co-operative Society, Limited.
+32. | Lau Fau Shan Oyster Industry Association, New Territories.
 
-- 30. Lamma Island Lo Dik Wan Aquaculture Association.
+33. | Ma Wan Fisheries Rights Association Ltd.
 
-- 31. (Repealed 25 of 2003 s. 43)
+34. | The Mui Wo Agricultural Products Marketing & Credit Co-operative Society, Ltd.
 
-- 32. Lau Fau Shan Oyster Industry Association, New Territories.
+35. | Mui Wo Fishermen Fraternity Society.
 
-- 33. Ma Wan Fisheries Rights Association Ltd.
+36. | N.T. Oyster and Aquatic Products United Association.
 
-- 34. The Mui Wo Agricultural Products Marketing & Credit Co-operative Society, Ltd.
+37. | The New Territories Chicken Breeders Association, Ltd.
 
-- 35. Mui Wo Fishermen Fraternity Society.
+38. | The New Territories Fishermen Fraternity Association Ltd.
 
-- 36. N.T. Oyster and Aquatic Products United Association.
+39. | New Territories Florist Association, Ltd.
 
-- 37. The New Territories Chicken Breeders Association, Ltd.
+40. | North District Florists Association.
 
-- 38. The New Territories Fishermen Fraternity Association Ltd.
+41. | Outlying Islands Mariculture Association (Cheung Chau).
 
-- 39. New Territories Florist Association, Ltd.
+42. | Peng Chau Fishermen Association Ltd.
 
-- 40. North District Florists Association.
+43. | Quality Broiler Development Association.
 
-- 41. Outlying Islands Mariculture Association (Cheung Chau).
+44. | (Repealed 25 of 2003 s. 43)
 
-- 42. Peng Chau Fishermen Association Ltd.
+45. | Sai Kung Fishermen Association Limited.
 
-- 43. Quality Broiler Development Association.
+46. | Sai Kung (North) Sham Wan Marine Fish Culture Business Association.
 
-- 44. (Repealed 25 of 2003 s. 43)
+47. | Sai Kung Po Toi O Fish Culture Business Association.
 
-- 45. Sai Kung Fishermen Association Limited.
+48. | Sai Kung Tai Tau Chau Fish Culture Business Association.
 
-- 46. Sai Kung (North) Sham Wan Marine Fish Culture Business Association.
+49. | Sai Kung Tai Wu Kok Fishermen’s Association.
 
-- 47. Sai Kung Po Toi O Fish Culture Business Association.
+50. | The Sha Tau Kok Marine Fish Culture Association. (Amended 10 of 2006 s. 34)
 
-- 48. Sai Kung Tai Tau Chau Fish Culture Business Association.
+51. | The Sha Tau Kok Small Long Liner and Gill Net Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 49. Sai Kung Tai Wu Kok Fishermen’s Association.
+52. | The Shan Tong Vegetable Marketing Co-operative Society, Ltd.
 
-- 50. The Sha Tau Kok Marine Fish Culture Association. (Amended 10 of 2006 s. 34)
+53. | Shatin Ah Kung Kok Fishermen Welfare Association.
 
-- 51. The Sha Tau Kok Small Long Liner and Gill Net Fishermen’s Credit Co-operative Society, Unlimited.
+54. | Shatin Florists Association.
 
-- 52. The Shan Tong Vegetable Marketing Co-operative Society, Ltd.
+55. | The Shau Kei Wan Deep Sea Capture Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 53. Shatin Ah Kung Kok Fishermen Welfare Association.
+56. | Shau Kei Wan Fishermen Friendship Association.
 
-- 54. Shatin Florists Association.
+57. | The Shau Kei Wan Pair Trawler Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 55. The Shau Kei Wan Deep Sea Capture Fishermen’s Credit Co-operative Society, Unlimited.
+58. | The Shau Kei Wan Trawler Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 56. Shau Kei Wan Fishermen Friendship Association.
+59. | (Repealed 7 of 2008 s. 6)
 
-- 57. The Shau Kei Wan Pair Trawler Fishermen’s Credit Co-operative Society, Unlimited.
+60. | Tai O Fishermen (Coastal Fishery) Association.
 
-- 58. The Shau Kei Wan Trawler Fishermen’s Credit Co-operative Society, Unlimited.
+61. | The Tai O Sha Chai Min Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 59. (Repealed 7 of 2008 s. 6)
+62. | The Tai Po Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 60. Tai O Fishermen (Coastal Fishery) Association.
+63. | Tai Po Florists and Horticulturists Association.
 
-- 61. The Tai O Sha Chai Min Fishermen’s Credit Co-operative Society, Unlimited.
+64. | (Repealed 10 of 2006 s. 46)
 
-- 62. The Tai Po Fishermen’s Credit Co-operative Society, Unlimited.
+65. | The Tai Po Purse Seiner and Small Long Liner Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 63. Tai Po Florists and Horticulturists Association.
+66. | The Tsing Lung Tau Hand Liner Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 64. (Repealed 10 of 2006 s. 46)
+67. | The Tsuen Wan Fishermen’s Credit Co-operative Society, Unlimited.
 
-- 65. The Tai Po Purse Seiner and Small Long Liner Fishermen’s Credit Co-operative Society, Unlimited.
+68. | The Tuen Mun Mechanized Fishing Boat Fishermen’s Credit Co-operative Society, Unlimited. (Replaced 25 of 2003 s. 43)
 
-- 66. The Tsing Lung Tau Hand Liner Fishermen’s Credit Co-operative Society, Unlimited.
+69. | Tuen Mun Agricultural Association.
 
-- 67. The Tsuen Wan Fishermen’s Credit Co-operative Society, Unlimited.
+70. | Tung Lung Chau Mariculture Association.
 
-- 68. The Tuen Mun Mechanized Fishing Boat Fishermen’s Credit Co-operative Society, Unlimited. (Replaced 25 of 2003 s. 43)
+71. | The Hong Kong Branch of the World’s Poultry Science Association. (Replaced 7 of 2008 s. 6)
 
-- 69. Tuen Mun Agricultural Association.
+72. | (Repealed 10 of 2006 s. 46)
 
-- 70. Tung Lung Chau Mariculture Association.
+73. | Yuen Long Agriculture Productivity Association. (Amended 10 of 2006 s. 34)
 
-- 71. The Hong Kong Branch of the World’s Poultry Science Association. (Replaced 7 of 2008 s. 6)
+74. | Yung Shue Au Marine Fish Culture Business Association.
 
-- 72. (Repealed 10 of 2006 s. 46)
+75. | (Repealed 25 of 2003 s. 43)
 
-- 73. Yuen Long Agriculture Productivity Association. (Amended 10 of 2006 s. 34)
+76. | Tsing Yi Residents Association. (Replaced 10 of 2006 s. 34)
 
-- 74. Yung Shue Au Marine Fish Culture Business Association.
+77. | 荃灣葵青居民聯會(漁民組).
 
-- 75. (Repealed 25 of 2003 s. 43)
+78. | 荃灣葵青漁民會.
 
-- 76. Tsing Yi Residents Association. (Replaced 10 of 2006 s. 34)
+79. | The Shau Kei Wan Stern Trawler Fishermen’s Credit Co-operative Society, Unlimited. (Added 25 of 2003 s. 43)
 
-- 77. 荃灣葵青居民聯會(漁民組).
+80. | Sustainable Ecological Ethical Development Foundation Limited. (Added 25 of 2003 s. 43. Amended 2 of 2011 s. 32)
 
-- 78. 荃灣葵青漁民會.
+81. | N.T. North District Fishermen’s Association. (Added 25 of 2003 s. 43)
 
-- 79. The Shau Kei Wan Stern Trawler Fishermen’s Credit Co-operative Society, Unlimited. (Added 25 of 2003 s. 43)
+82. | Tai Po Off Shore Fishermen’s Association. (Added 25 of 2003 s. 43)
 
-- 80. Sustainable Ecological Ethical Development Foundation Limited. (Added 25 of 2003 s. 43. Amended 2 of 2011 s. 32)
-
-- 81. N.T. North District Fishermen’s Association. (Added 25 of 2003 s. 43)
-
-- 82. Tai Po Off Shore Fishermen’s Association. (Added 25 of 2003 s. 43)
-
-- 83. Aberdeen Fisherwomen Association. (Added 25 of 2003 s. 43)
+83. | Aberdeen Fisherwomen Association. (Added 25 of 2003 s. 43)
 
 (Replaced 48 of 1999 s. 43)

@@ -4,12 +4,6 @@
 
 Composition of the Wholesale and Retail Functional Constituency
 
-(The amendments made to this section by the Legislative Council (Amendment) Ordinance 2011 (2 of 2011) shall come into operation on 11 March 2011 for the purpose only of enabling arrangements to be made for—
-
-- (a) the holding of the elections of members of the Election Committee under the Chief Executive Election Ordinance (Cap. 569) in 2011; and
-
-- (b) the holding of the Legislative Council general election in 2012.)
-
 Item Body
 
 - 1. Anglo-Chinese Vegetable Wholesale Merchants Association Limited. (Amended 10 of 2006 s. 45)
@@ -206,6 +200,4 @@ Item Body
 
 - 98. Hong Kong Chinese Medicine Industry Association Limited. (Added 2 of 2011 s. 35)
 
-- 99. Hong Kong Chinese Patent Medicine Manufacturers’ Association Ltd. (Added 2 of 2011 s. 35)
-
-(Added 48 of 1999 s. 43)
+- 99. Hong Kong Chinese Patent Medicine Manufacturers’ Association Ltd. (Added 2 of 2011 s. 35) (Added 48 of 1999 s. 43)
