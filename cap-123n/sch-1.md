@@ -8,11 +8,15 @@ Minor Works
 
   - 1. In this Schedule—
 
+    - aggregate length of any additional wall (加建牆壁總長度) means the difference between the total length of the non-load bearing walls (excluding the width of any door openings on the walls) in a flat as shown on the approved plan and that as measured after the minor works item is carried out; (L.N. 74 of 2012)
+
     - display area (展示面積), in relation to a signboard, means the area of the largest planar surface of a virtual rectangular prism containing all parts of the signboard (including its supporting structure) except—
 
       - (a) if the signboard is supported by a single post of a diameter of not more than 100 mm, the post; or
 
       - (b) in any other case, any structural elements of the signboard solely for preventing the lateral movement of the signboard;
+
+    - flat (樓宇單位) means any premises as shown on the approved plan of a building (whether domestic or non-domestic) of which the premises form part and delineated as a separate unit; (L.N. 74 of 2012)
 
     - projecting signboard (伸出式招牌) means a signboard—
 
@@ -44,11 +48,11 @@ Minor Works
 
   - Division 1—Type A (Alteration and Addition Works)
 
-    - 1. Type A minor works under class I are those minor works described in items 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.27, 1.28, 1.29, 1.30, 1.31, 1.32, 1.33, 1.34, 1.35, 1.37, 1.38, 1.39 and 1.40 of Part 3 of this Schedule.
+    - 1. Type A minor works under class I are those minor works described in items 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.27, 1.28, 1.29, 1.30, 1.31, 1.32, 1.33, 1.34, 1.35, 1.37, 1.38, 1.39, 1.40, 1.41, 1.42, 1.43 and 1.44 of Part 3 of this Schedule. (L.N. 74 of 2012)
 
     - 2. Type A minor works under class II are those minor works described in items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.31, 2.32, 2.33, 2.34, 2.35, 2.37, 2.38, 2.39 and 2.40 of Part 3 of this Schedule.
 
-    - 3. Type A minor works under class III are those minor works described in items 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15, 3.24, 3.25, 3.26, 3.27, 3.28, 3.29, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37 and 3.38 of Part 3 of this Schedule.
+    - 3. Type A minor works under class III are those minor works described in items 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15, 3.24, 3.25, 3.26, 3.27, 3.28, 3.29, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37, 3.38, 3.39, 3.40, 3.41 and 3.42 of Part 3 of this Schedule. (L.N. 74 of 2012)
 
   - Division 2—Type B (Repair Works)
 
@@ -183,6 +187,14 @@ Item | Description of building works
 1.39. | Removal of any unauthorized floor slab.
 
 1.40. | Removal of any metal gate at a fence wall or at an entrance to a building, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve the alteration of any other structural elements; (c) the weight of at least one leaf of the gate is more than 300 kg; and (d) the height of the gate is not more than 3.2 m.
+
+1.41. | Erection of any non-load bearing block wall, laying of any solid floor screeding, or erection or alteration of any aboveground drain in a domestic flat— (a) that is subdivided into, or that as a result of the works will be subdivided into, 3 or more rooms at least 3 of which— (i) are resulted from, or are affected by, an alteration of the layout of the flat; (ii) are provided with a lavatory basin, sink, water-closet fitment, shower or bath; and (iii) are intended as, or having regard to the size and layout of the rooms, are likely to be adapted as, places for sleeping; and (b) in which the number of rooms falling within the description of paragraph (a)(ii) and (iii) is, or as a result of the works will be, greater than that as shown on the approved plan, provided that the works do not result in any additional load to any cantilevered slab. (L.N. 74 of 2012)
+
+1.42. | Formation or alteration of any opening to the enclosure (other than a load bearing wall) of any staircase that is used as a means of escape or a means of access for firefighting and rescue or its protected lobby, provided that the works do not involve the alteration of any other structural elements. (L.N. 74 of 2012)
+
+1.43. | Erection of any non-load bearing block wall in a flat, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve the alteration of any other structural elements; (c) the aggregate length of any additional wall per m2 of the floor area of the flat is— (i) more than 0.1 m for a domestic flat; or (ii) more than 0.2 m for a non-domestic flat; and (d) the works do not fall within the description of item 3.39 or 3.40. (L.N. 74 of 2012)
+
+1.44. | Thickening of any floor slab in a flat by laying solid screeding, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the thickness of the screeding is more than 25 mm measured from the structural floor level; and (c) the works do not fall within the description of item 3.41 or 3.42. (L.N. 74 of 2012)
 
 - Division 2—Class II Minor Works
 
@@ -347,3 +359,11 @@ Item | Description of building works
 3.37. | Strengthening of any unauthorized canopy projecting from the external wall of a building, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) no part of the canopy projects more than 500 mm from the wall; (c) the canopy is not constructed of concrete; and (d) if the distance between the highest point of the canopy and the ground is not more than 3 m, the canopy does not project over any street or common part of the building.
 
 3.38. | Alteration of any unauthorized canopy projecting from the external wall of a building, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the canopy is not constructed of concrete; (c) immediately before the alteration, the canopy projects more than 500 mm from the wall, but no part of the canopy projects more than 750 mm from the wall; (d) immediately after the alteration, no part of the canopy projects more than 500 mm from the wall; and (e) if the distance between the highest point of the canopy and the ground is not more than 3 m, the canopy does not project over any street or common part of the building.
+
+3.39. | Erection of any non-load bearing block wall in a domestic flat, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve the alteration of any other structural elements; (c) the density of the wall is not more than 650 kg per m3; (d) the height of the wall is not more than 3 m; (e) the thickness of the wall is not more than 75 mm; (f) the thickness of the floor slab supporting the wall is not less than 125 mm; (g) the thickness of the floor screeding of the floor slab supporting the wall is not more than 25 mm measured from the structural floor level; and (h) the aggregate length of any additional wall per m2 of the floor area of the flat is more than 0.1 m but not more than 0.3 m. (L.N. 74 of 2012)
+
+3.40. | Erection of any non-load bearing block wall in a non-domestic flat, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) the works do not involve the alteration of any other structural elements; (c) the density of the wall is not more than 650 kg per m3; (d) the height of the wall is not more than 3.5 m; (e) the thickness of the wall is not more than 100 mm; (f) the thickness of the floor screeding of the floor slab supporting the wall is not more than 25 mm measured from the structural floor level; and (g) the aggregate length of any additional wall per m2 of the floor area of the flat is more than 0.2 m but not more than 0.4 m. (L.N. 74 of 2012)
+
+3.41. | Thickening of any floor slab of a domestic flat by laying solid screeding, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) if any non-load bearing block wall is erected in the flat— (i) the aggregate length of any additional wall per m2 of the floor area of the flat is less than 0.1 m; and (ii) the conditions in item 3.39(a), (b), (c), (d), (e) and (f) are complied with; (c) the thickness of the floor slab is not less than 125 mm; (d) the density of the screeding is not more than 650 kg per m3; and (e) the thickness of the screeding is— (i) more than 25 mm but not more than 75 mm measured from the structural floor level; or (ii) (if the aggregate area of the screeding is not more than 1.5 m2 within a floor area of 10 m2 of the flat and the nearest horizontal distance between each of the area of screeding is not less than 2 m) more than 25 mm but not more than 150 mm measured from the structural floor level. (L.N. 74 of 2012)
+
+3.42. | Thickening of any floor slab of a non-domestic flat by laying solid screeding, provided that— (a) the works do not result in any additional load to any cantilevered slab; (b) if any non-load bearing block wall is erected in the flat— (i) the aggregate length of any additional wall per m2 of the floor area of the flat is less than 0.2 m; and (ii) the conditions in item 3.40(a), (b), (c), (d) and (e) are complied with; (c) the density of the screeding is not more than 650 kg per m3; and (d) the thickness of the screeding is— (i) more than 25 mm but not more than 125 mm measured from the structural floor level; or (ii) (if the aggregate area of the screeding is not more than 2.5 m2 within a floor area of 10 m2 of the flat and the nearest horizontal distance between each of the area of screeding is not less than 2 m) more than 25 mm but not more than 150 mm measured from the structural floor level. (L.N. 74 of 2012)
