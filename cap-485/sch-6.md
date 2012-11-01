@@ -52,4 +52,20 @@ Decisions which may be the Subject of an Appeal
 
   - (f) under section 23 of that Regulation to withdraw an exemption certificate. (Added L.N. 205 of 1998)
 
-- (Format changes—E.R. 1 of 2012)
+- 15. A decision of the Authority—
+
+  - (a) under section 34T(4) not to register a person as an intermediary for carrying on regulated activities;
+
+  - (b) under section 34U(4) not to register a person as an intermediary for carrying on regulated activities for a principal intermediary to which the person is to be attached;
+
+  - (c) under section 34V(4) not to approve a person as being attached to a principal intermediary for the purpose of carrying on regulated activities;
+
+  - (d) under section 34W(4) not to approve an individual as an officer with specified responsibilities in relation to a principal intermediary;
+
+  - (e) under section 34X(2) or (3) to impose a condition on a registration or approval;
+
+  - (f) under section 34X(5) to amend such a condition; or
+
+  - (g) under section 34ZK(2) to revoke the approval of an individual as a responsible officer of a principal intermediary. (Added 16 of 2012 s. 22)
+
+- 16. A decision of the Authority under section 34ZW to make a disciplinary order. (Added 16 of 2012 s. 22) (Format changes—E.R. 1 of 2012)

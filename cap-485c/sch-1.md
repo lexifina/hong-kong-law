@@ -20,4 +20,18 @@ Item | Relevant section of the Ordinance | Description | Amount
 
 6. | 34B | Fee payable when an application is lodged with the Authority in respect of the restructuring of a registered scheme (29 of 2002 s. 14) | Nil
 
+6A. | 34Q | (a) Fee payable for obtaining a copy of an entry in the Register or of an extract of such an entry | $10 per entry or extract
+
+(b) Fee payable for obtaining a certified copy of an entry in the Register or of an extract of such an entry (16 of 2012 s. 28) | $200 per entry or extract
+
 7. | (Repealed 29 of 2002 s. 14)
+
+8. | 34T | Fee payable when an application is lodged with the Authority for registration as an intermediary for carrying on regulated activities (16 of 2012 s. 28) | Nil
+
+9. | 34U | Fee payable when an application is lodged with the Authority for registration as an intermediary for carrying on regulated activities for a principal intermediary (16 of 2012 s. 28) | Nil
+
+10. | 34V | Fee payable when an application is lodged with the Authority for approval of attachment to a principal intermediary for the purpose of carrying on regulated activities (16 of 2012 s. 28) | Nil
+
+11. | 34W | Fee payable when an application is lodged with the Authority for approval as an officer with specified responsibilities in relation to the principal applicant (16 of 2012 s. 28) | Nil
+
+12. | 34ZN | Annual fee payable by a registered intermediary (16 of 2012 s. 28) | Nil

@@ -8,6 +8,8 @@ FINANCIAL PENALTIES
 
 Item | Relevant section of the Ordinance | Short description of the relevant duty or requirement | Amount of financial penalty for first failure $ | Amount of financial penalty for second failure $ | Amount of financial penalty for third or subsequent failure $
 
+1AA | 6KA(3) | Approved trustee to take action for ensuring proper and efficient operation of designated electronic system (16 of 2012 s. 27) | 10000 | 20000 | 50000
+
 1 | 7A(8) | Participating employer to pay contribution | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
 1A | 7AA | Employer to pay contributions to Authority (18 of 2008 s. 25) | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
