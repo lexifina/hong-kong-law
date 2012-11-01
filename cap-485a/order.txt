@@ -156,6 +156,8 @@ s-145.md
 s-146.md
 s-147.md
 s-148.md
+s-148A.md
+s-148B.md
 s-149.md
 s-150.md
 s-150A.md
@@ -166,6 +168,8 @@ s-154.md
 s-155.md
 s-156.md
 s-157.md
+s-157A.md
+s-157B.md
 s-158.md
 s-159.md
 s-160.md
@@ -220,6 +224,7 @@ s-203.md
 s-204.md
 s-205.md
 s-206.md
+s-206A.md
 s-207.md
 sch-1.md
 sch-2.md
