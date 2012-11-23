@@ -1004,6 +1004,8 @@ THE POISONS LIST
 
 - Eptifibatide; its salts
 
+- Eribulin; its salts
+
 - Erlotinib; its salts
 
 - Erythrityl tetranitrate
@@ -2242,6 +2244,8 @@ THE POISONS LIST
 
 - Sparteine; its salts
 
+- Spinosad
+
 - Spironolactone
 
 - Stavudine; its salts
@@ -2565,6 +2569,8 @@ THE POISONS LIST
 - Zopiclone
 
 - Zoxazolamine; its salts
+
+- (L.N. 180 of 2012)
 
   - DIVISION B (L.N. 42 of 2007)
 
