@@ -4,20 +4,126 @@
 
 PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5A
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
-
 - PART I Description of proceedings
 
-  - 1. In the Court of First Instance or Court of Appeal, civil proceedings brought by the aided person for damages in a claim arising from personal injuries to, or the death of, any person and proceedings incidental to such proceedings including the defence of any counterclaim. (Amended 40 of 1989 s. 10; 25 of 1998 s. 2)
+  - 1. In the Court of First Instance or Court of Appeal, civil proceedings brought, by the person seeking legal aid (claimant), for damages in a claim arising from personal injuries to, or the death of, any person (including proceedings for the defence to a counterclaim against the claimant and other proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the claim. (Amended 40 of 1989 s. 10; 25 of 1998 s. 2; L.N. 112 of 2012)
 
-  - 2. In the District Court, civil proceedings brought by the aided person for damages in a claim arising from personal injuries to, or the death of, any person where the claim exceeds $60,000 or where, in the opinion of the Director, the claim is likely to exceed $60,000 and proceedings incidental to such proceedings including the defence to any counterclaim. (Added 40 of 1989 s. 10)
+  - 2. In the District Court, civil proceedings brought, by the person seeking legal aid (claimant), for damages in a claim arising from personal injuries to, or the death of, any person where, in the opinion of the Director, the claim is likely to exceed $60,000 (including proceedings for the defence to a counterclaim against the claimant and other proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the claim. (Added 40 of 1989 s. 10. Amended L.N. 112 of 2012)
 
-  - 3. In the District Court, proceedings brought by the aided person under the Employees’ Compensation Ordinance (Cap. 282). (Added 27 of 1991 s. 20)
+  - 3. In the District Court, civil proceedings brought under the Employees’ Compensation Ordinance (Cap. 282) by the person seeking legal aid, in the capacity as an employee (including proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the civil proceedings. (Added 27 of 1991 s. 20. Amended L.N. 112 of 2012)
 
-  - 4. In the Court of First Instance, Court of Appeal or District Court, civil proceedings brought by the aided person for damages for medical, dental or legal professional negligence where, in the opinion of the Director, the claim is likely to exceed $60,000 including the defence of any counterclaim. (Added 43 of 1995 s. 14. Amended 25 of 1998 s. 2)
+  - 4. In the Court of First Instance, Court of Appeal or District Court, civil proceedings brought, by the person seeking legal aid, for damages for medical, dental or legal professional negligence where, in the opinion of the Director, the claim is likely to exceed $60,000 (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the claim. (Added 43 of 1995 s. 14. Amended 25 of 1998 s. 2; L.N. 112 of 2012)
+
+  - 5. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
+
+    - (a) the claim is made by the person in respect of the professional negligence of any of the following persons—
+
+      - (i) a certified public accountant (practising) as defined by section 2 of the Professional Accountants Ordinance (Cap. 50);
+
+      - (ii) a person registered as a registered architect under the Architects Registration Ordinance (Cap. 408);
+
+      - (iii) a registered professional engineer as defined by section 2 of the Engineers Registration Ordinance (Cap. 409);
+
+      - (iv) a registered professional surveyor as defined by section 2 of the Surveyors Registration Ordinance (Cap. 417);
+
+      - (v) a registered professional planner as defined by section 2 of the Planners Registration Ordinance (Cap. 418);
+
+      - (vi) an authorized land surveyor as defined by section 2 of the Land Survey Ordinance (Cap. 473);
+
+      - (vii) an estate agent as defined by section 2 of the Estate Agents Ordinance (Cap. 511);
+
+      - (viii) a person registered as a registered landscape architect under the Landscape Architects Registration Ordinance (Cap. 516); and
+
+    - (b) the claim is, in the opinion of the Director, likely to exceed $60,000.
+
+  - (Added L.N. 112 of 2012)
+
+  - 6. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
+
+    - (a) the claim is made by the person in respect of the negligence of an insurer, appointed insurance agent or authorized insurance broker, as defined by section 2 of the Insurance Companies Ordinance (Cap. 41), in the performance of their functions for the taking out of the personal insurance that is the subject of the claim; and
+
+    - (b) the claim is, in the opinion of the Director, likely to exceed $60,000.
+
+  - (Added L.N. 112 of 2012)
+
+  - 7. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
+
+    - (a) the claim is made by the person against the legal or beneficial owner of a residential property that is a first-hand property;
+
+    - (b) the claim arises from—
+
+      - (i) an agreement for sale and purchase of the property, not being an agreement which, because of paragraph 5, 6 or 7 of Part III of this Schedule, is not regarded as having been entered into in respect of the property; or
+
+      - (ii) a sale under the agreement described in sub-subparagraph (i); and
+
+    - (c) the claim is, in the opinion of the Director, likely to exceed $60,000.
+
+  - (Added L.N. 112 of 2012)
+
+  - 8. Civil proceedings in the Court of First Instance or Court of Appeal that are brought in respect of an appeal under the Labour Tribunal Ordinance (Cap. 25) relating to a claim to which the person seeking legal aid is a party in the capacity as an employee (including proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the appeal. (Added L.N. 112 of 2012)
 
 - PART II Excepted proceedings
 
   - 1. (Repealed 43 of 1995 s. 14)
 
-  - 2. Claims in the Court of First Instance or District Court for damages for assault and battery. (Added 27 of 1991 s. 20. Amended 43 of 1995 s. 14; 25 of 1998 s. 2) (Schedule 3 added 54 of 1984 s. 27)
+  - 2. Claims in the Court of First Instance or District Court for damages for assault and battery. (Added 27 of 1991 s. 20. Amended 43 of 1995 s. 14; 25 of 1998 s. 2)
+
+- Part III Interpretation Provisions
+
+  - 1. In this Schedule—
+
+    - associate corporation (有聯繫法團), in relation to a company or specified body, means—
+
+      - (a) a subsidiary of the company or specified body; or
+
+      - (b) a subsidiary of a holding company of the company or specified body;
+
+    - company (公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 32);
+
+    - holding company (控權公司) means a holding company within the meaning of the Companies Ordinance (Cap. 32);
+
+    - personal insurance (個人保險) means an insurance that is taken out by an individual and under which an individual is the insured person, but does not include any such insurance the sole or predominant purpose of which is for any one or more of the following—
+
+      - (a) business or commercial insurance;
+
+      - (b) industrial insurance;
+
+      - (c) investment;
+
+    - residential property (住宅物業) means an immovable property (whether completed or uncompleted) constituting a separate unit constructed or intended to be constructed for residential use;
+
+    - specified body (指明團體) means a body corporate incorporated or established under an Ordinance;
+
+    - subsidiary (附屬公司) means a subsidiary within the meaning of the Companies Ordinance (Cap. 32).
+
+  - 2. For the purposes of paragraph 7(a) of Part I of this Schedule, a residential property is a first-hand property if no agreement for sale and purchase has ever been entered into in respect of the property.
+
+  - 3. For the purposes of paragraph 2 of this Part, in determining whether an agreement for sale and purchase has been entered into in respect of a residential property, paragraphs 4, 5, 6 and 7 of this Part apply.
+
+  - 4. If an agreement for sale and purchase has been entered into in respect of a residential property and the agreement has been terminated or has been declared void by a court in relation to that property, the agreement is not to be regarded as having been entered into in respect of that property.
+
+  - 5. If an agreement for sale and purchase is entered into, in respect of a residential property, between—
+
+    - (a) a company or specified body (whether or not together with any other person); and
+
+    - (b) an associate corporation, or a holding company, of the company or specified body (whether or not together with any other person),
+
+  - the agreement is not to be regarded as having been entered into in respect of that property.
+
+  - 6. If—
+
+    - (a) a development, housing estate or phase of a development or housing estate has more than one residential property (whether or not the development, housing estate or phase is completed); and
+
+    - (b) all the residential properties in that development, housing estate or phase are sold, or agreed to be sold, to any person under a single agreement for sale and purchase,
+
+  - the agreement is not to be regarded as having been entered into in respect of any of those properties in that development, housing estate or phase (as the case requires).
+
+  - 7. If—
+
+    - (a) a building has more than one residential property (whether or not the building is completed); and
+
+    - (b) all the residential properties of the building are sold, or agreed to be sold, to any person under a single agreement for sale and purchase,
+
+  - the agreement is not to be regarded as having been entered into in respect of any of those properties.
+
+  - 8. To avoid doubt, in determining whether a residential property is a first-hand property, the agreement for sale and purchase that is the subject of the claim or that relates to the sale giving rise to the claim is not to be taken into account. (Part III added L.N. 112 of 2012) (Schedule 3 added 54 of 1984 s. 27)

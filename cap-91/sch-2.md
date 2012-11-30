@@ -54,17 +54,17 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5
 
   - 11.
 
-    - Proceedings—
+    - Any of the following proceedings— (Amended L.N. 112 of 2012)
 
-      - (a) involving money claims in derivatives of securities, currency futures or other futures contracts;
+      - (a) proceedings involving money claims in derivatives of securities, currency futures or other futures contracts, unless the claims are made by the person seeking legal aid on the basis that the person was induced to deal in the derivatives of securities, currency futures or other futures contracts by fraud, deception or misrepresentation;
 
-      - (b) for the recovery of a loan made in the ordinary course of a business conducted by the person seeking legal aid;
+      - (b) proceedings for the recovery of a loan made in the ordinary course of a business conducted by the person seeking legal aid;
 
-      - (c) involving disputes between limited companies or their shareholders regarding the respective rights of the company and the shareholders;
+      - (c) proceedings involving disputes between limited companies or their shareholders regarding the respective rights of the company and the shareholders;
 
-      - (d) arising out of disputes over partnerships;
+      - (d) proceedings arising out of disputes over partnerships;
 
-      - (e) for the taxation of costs, unless the person was previously aided in the action for which an order for costs was made.
+      - (e) proceedings for the taxation of costs, unless the person seeking legal aid was previously aided in the action for which an order for costs was made. (Amended L.N. 112 of 2012)
 
     - For the purposes of this paragraph—
 
