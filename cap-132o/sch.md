@@ -142,4 +142,6 @@
 
 - 70. Parts of the ground and mezzanine floors of Siu Sai Wan Complex, 15 Siu Sai Wan Road, Chai Wan, shown in green on the floor plans numbered AB/5744/GP121 and AB/5744/GP122, signed by the Director of Leisure and Cultural Services on 21 April 2011 and deposited in the Hong Kong Central Library. (L.N. 98 of 2011)
 
-- 71. The Students’ Study Room on the first floor of the High Block of Ping Shan Tin Shui Wai Leisure and Cultural Building, 1 Tsui Sing Road, Tin Shui Wai, Yuen Long. (L.N. 150 of 2012) (Schedule replaced 78 of 1999 s. 7)
+- 71. The Students’ Study Room on the first floor of the High Block of Ping Shan Tin Shui Wai Leisure and Cultural Building, 1 Tsui Sing Road, Tin Shui Wai, Yuen Long. (L.N. 150 of 2012)
+
+- 72. The Students’ Study Room on the fifth floor of Lam Tin Complex, 1 Hing Tin Street, Lam Tin, Kwun Tong. (L.N. 150 of 2012) (Schedule replaced 78 of 1999 s. 7)
