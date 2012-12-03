@@ -302,37 +302,71 @@ WHEREAS it appears to me that .
 
 (L.N. 166 of 1995)
 
-FORM NO. 8 IMMIGRATION ORDINANCE (CHAPTER 115) Section 36(1) RECOGNIZANCE
+FORM NO. 8 IMMIGRATION ORDINANCE (Chapter 115) Section 36(1) RECOGNIZANCE
 
-WHEREAS .
+(1) .
 
 of .
 
-- *is detained under section 27, 32 or 34 of the Immigration Ordinance : *is liable to be detained under section 27, 32 or 34 of the Immigration Ordinance and is not now so detained: Now— the said. *. of . ; and *. of ., hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums— the said . the sum of $ . *the said . the sum of $ . *the said . the sum of $ . if the said . fails to report to—
+- *is detained under section 27, 32, 34 or 37ZK of the Immigration Ordinance :
 
-- (a)* the duty officer . Police
+- *is liable to be detained under section 27, 32, 34 or 37ZK of the Immigration Ordinance and is not now so detained:
 
-- station on every . between the hours of . and .
+- Now—
 
-- (b)* the duty officer, Investigation Division, Immigration Department on every .
+- (1) .,
 
-- . between the hours of 0900 and 1700
+- *(2) . of . ; and
 
-- (Saturday afternoons and public holidays excepted) commencing . until this
+- *(3) . of .,
 
-- recognizance ceases to have effect. Signed by-
+- hereby acknowledges/acknowledge that he/she/they severally will pay to the Government the following sum/sums—
 
-- the said . *the said .
+- (1) . the sum of $ .
 
-- *the said . on the . day of . 19 .
+- *(2) . the sum of $ .
 
-- in the presence of . . Signature * Delete where inappropriate.
+- *(3) . the sum of $ .
 
-- (a) complete in case of police recognizance.
+- if (1) . fails to comply with the *following condition/*any of the following conditions—
 
-- (b) complete in case of Immigration Department recognizance.
+  - (a)* report to
 
-(L.N. 279 of 1977; 48 of 1992 s. 14; L.N. 166 of 1995; 88 of 1997 s. 26)
+    - (i)* the duty officer . Police station on every .
+
+    - between the hours of .
+
+    - and .
+
+    - (ii)* the duty officer . Immigration Department on every.
+
+    - between the hours of .
+
+    - and .
+
+- commencing .
+
+- until this recognizance ceases to have effect. †[(b) etc. ] Signed by-
+
+- (1) .
+
+- *(2) .
+
+- *(3) . on the . day of .
+
+- 20. in the presence of .
+
+- .
+
+- Signature
+
+- * Delete where inappropriate.
+
+- (i) complete in case of police recognizance.
+
+- (ii) complete in case of Immigration Department recognizance. † Set out any other condition(s) imposed under section 36(1) of the Immigration Ordinance.
+
+(23 of 2012 s. 14)
 
 FORM NO. 8A IMMIGRATION ORDINANCE (Chapter 115) Section 36(3) RECOGNIZANCE
 
@@ -454,7 +488,7 @@ of .
 
 - is required by the Governor under section 55(2) of the Immigration Ordinance to enter into this recognizance on the recission by the Governor, subject to the condition(s) specified below, of the deportation order made against him : NOW— the said . *. of .; and *. of ., hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums— the said . the sum of $ . *the said . the sum of $ . *the said . the sum of $ . if the said . fails to comply with the following condition(s):— Signed by— the said . . *the said . . *the said . . on the . day of . 19 .
 
-- in the presence of . . (Signature) * Delete where inapplicable.
+- in the presence of . . Signature * Delete where inapplicable.
 
 (82 of 1993 s. 16; L.N. 166 of 1995)
 

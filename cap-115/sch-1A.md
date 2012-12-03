@@ -1,0 +1,273 @@
+# Schedule 1A
+
+[ss. 37U & 37ZU & Sch. 4]
+
+Torture Claims Appeal Board
+
+- 1. Interpretation
+
+  - (1) In this Schedule—
+
+    - appeal (上訴) means—
+
+      - (a) an appeal made under section 37ZR; or
+
+      - (b) an application for a revocation decision under section 37ZM;
+
+    - member (委員) means a member of the Torture Claims Appeal Board established by section 37ZQ.
+
+  - (2) An expression used in this Schedule has the same meaning as is given to it in section 37U.
+
+  - (3) In this Schedule, a reference to Part VIIC includes this Schedule and any subsidiary legislation made under section 37ZW.
+
+- 2. Appointment of members
+
+  - (1) The Appeal Board comprises the following members appointed by the Chief Executive—
+
+    - (a) a Chairperson;
+
+    - (b) at least one Deputy Chairperson; and
+
+    - (c) a panel of persons whom the Chief Executive considers suitable for selection under section 6 of this Schedule for hearing and determining an appeal.
+
+  - (2) The Chief Executive may appoint a person as a member if—
+
+    - (a) the person was formerly a judge or magistrate;
+
+    - (b) the person is qualified to practise as a barrister, solicitor or advocate in a court in Hong Kong or a common law jurisdiction having unlimited jurisdiction either in civil or criminal matters, and has so practised for a period of or periods totalling not less than 5 years; or
+
+    - (c) the person, in the opinion of the Chief Executive, is suitably qualified to be a member.
+
+  - (3) Each appointment is for a term of not more than 3 years and a member may be re-appointed at the end of a term.
+
+  - (4) An appointment of a member is to be published in the Gazette.
+
+  - (5) If a person ceases to be a member at a time when the person is involved in the hearing or determination of an appeal, the person may continue to be involved in the appeal as if the person were a member until the appeal is disposed of.
+
+  - (6) A member may be paid remuneration and allowances at any rates determined by the Chief Executive.
+
+- 3. Resignation and revocation of appointment
+
+  - (1) A member may resign by notice in writing to the Chief Executive.
+
+  - (2) The Chief Executive may by notice in writing revoke the appointment of a member on the ground of—
+
+    - (a) neglect of duty, misconduct or bankruptcy;
+
+    - (b) physical or mental incapacity that precludes the member from carrying out the member’s functions; or
+
+  - (c) any other sufficient cause.
+
+- 4. Role of Chairperson In addition to the Chairperson’s other functions, the Chairperson is responsible for making any arrangements that are practicable to ensure that members discharge their functions in an orderly and expeditious manner.
+
+- 5. Deputy Chairperson to act in place of Chairperson
+
+  - (1) If the Chairperson is unable to act as Chairperson for any period by reason of illness, absence from Hong Kong or any other cause, a Deputy Chairperson is to act in the place of the Chairperson for that period.
+
+  - (2) If 2 or more persons are appointed as Deputy Chairpersons, the Chairperson may designate any one of them to act on behalf of the Chairperson during the period mentioned in subsection (1).
+
+- 6. Composition of Appeal Board for purposes of appeal
+
+  - (1) For hearing and determining an appeal, the Appeal Board is to consist of 1 member (who may or may not be the Chairperson) selected by the Chairperson for this purpose, except as provided in subsection (2).
+
+  - (2) Having regard to the circumstances of a particular appeal, the Chairperson may select 3 members to hear and determine the appeal.
+
+  - (3) The members selected under subsection (2) must include either the Chairperson or a Deputy Chairperson, and for the purposes of the appeal, the presiding member is to be—
+
+    - (a) the Chairperson; or
+
+    - (b) the Deputy Chairperson or (if more than 1 Deputy Chairperson is selected) such Deputy Chairperson as the Chairperson may decide.
+
+  - (4) A member who has a direct or indirect interest in an appeal must not take part in the hearing and determination of the appeal.
+
+- 7. Order in which appeals are to be heard
+
+  - (1) The Chairperson may decide the order in which appeals and matters are to be heard or determined generally or in any particular circumstances.
+
+  - (2) No decision on an appeal or matter is to be called into question on the basis that the appeal or matter ought to have been heard or determined earlier or later than any other appeal or matter, or category of appeals or matters.
+
+- 8. Notice of Appeal be served on Director
+
+  - (1) Subject to subsection (2), the Appeal Board must, as soon as practicable after receiving a notice of appeal filed under section 37ZS(1), serve a copy of the notice on the Director.
+
+  - (2) If a notice of appeal under section 37ZS(1) is filed out of time, the Appeal Board is required to serve a copy of the notice on the Director only if it decides to allow late filing of the notice under section 37ZT(3), and in that event, the Board must serve the notice on the Director as soon as practicable after the decision is made.
+
+- 9. Director to provide facts
+
+  - (1) The Director must, as soon as practicable after receiving a copy of a notice of appeal served under section 8 of this Schedule, provide to the Appeal Board and the person who has lodged the appeal—
+
+    - (a) if the decision being appealed against is a decision under section 37ZI(1)(b) rejecting a torture claim—
+
+      - (i) a copy of the completed torture claim form relating to the torture claim in respect of which the decision was made; and
+
+      - (ii) a copy of the written record of any interview of the claimant conducted by an immigration officer in considering the torture claim;
+
+    - (b) if the decision being appealed against is a revocation decision of an immigration officer under section 37ZL(1)—
+
+      - (i) a copy of the completed torture claim form relating to the torture claim in respect of which the decision was made;
+
+      - (ii) a copy of the written record of any interview of the claimant conducted by an immigration officer in considering the torture claim;
+
+      - (iii) a copy of the notice of the decision under section 37ZI(1)(a) accepting the torture claim as substantiated;
+
+      - (iv) a copy of the notice of proposed revocation of the torture claim given under section 37ZL(2); and
+
+      - (v) a copy of the claimant’s objection notice (if any) referred to in section 37ZL(3)(b);
+
+    - (c) if the decision being appealed against is a decision under section 37ZE(4) not to re-open a torture claim withdrawn by the person who made the claim—
+
+      - (i) a copy of any completed torture claim form relating to the torture claim;
+
+      - (ii) a copy of the written record of any interview of the person conducted by an immigration officer in considering the torture claim;
+
+      - (iii) a copy of the person’s notice withdrawing the claim; and
+
+      - (iv) a copy of any evidence in writing provided by the person under section 37ZE(2); or
+
+    - (d) if the decision being appealed against is a decision under section 37ZG(5) not to re-open a torture claim treated as withdrawn on a person’s failure to return a completed torture claim form—
+
+      - (i) a copy of the written notice under section 37ZG(2) informing the person that the claim is treated as withdrawn; and
+
+      - (ii) a copy of any evidence in writing provided by the person under section 37ZG(3).
+
+  - (2) The Director must, as soon as practicable after filing with the Appeal Board a notice of application for a revocation decision under section 37ZM(3), provide to the Appeal Board and the claimant—
+
+    - (a) a copy of the completed torture claim form relating to the torture claim in respect of which the application is made;
+
+    - (b) a copy of the written record of any interview of the claimant conducted by an immigration officer in considering the torture claim;
+
+    - (c) a copy of the written notice under section 37ZJ(1) informing the claimant of an immigration officer’s decision rejecting the torture claim;
+
+    - (d) a copy of the written decision given under section 23(3) of this Schedule reversing an immigration officer’s decision rejecting the torture claim;
+
+    - (e) a copy of the written notice under section 37ZM(2) informing the claimant of an intended application for a revocation decision to be made by the Board; and
+
+    - (f) a copy of the claimant’s objection notice (if any) referred to in section 37ZM(2)(b).
+
+- 10. Hearing to be in private A hearing is to be held in private unless the Appeal Board directs that it be held in public.
+
+- 11. Language of proceedings
+
+  - (1) The proceedings before the Appeal Board may be conducted in the English or Chinese language, or both, as the Board considers appropriate.
+
+  - (2) Despite subsection (1)—
+
+    - (a) a party to proceedings before the Appeal Board may address the Board in any language;
+
+    - (b) a witness in proceedings before the Appeal Board may testify in any language; and
+
+    - (c) a legal representative in proceedings before the Appeal Board may use the English or Chinese language, or both.
+
+- 12. Determination of appeal without a hearing The Appeal Board may determine an appeal without a hearing if, having regard to the material before it and the nature of the issues raised, the Board is satisfied that the appeal can be justly determined without a hearing.
+
+- 13. Notice of hearing If the Appeal Board decides to hold a hearing, the Board must, not less than 28 days before the date of hearing, serve on the parties notice of the date, time and place of the hearing.
+
+- 14. Documents to be served on Appeal Board before hearing
+
+  - (1) The Director must, as soon as practicable after receiving a notice served under section 13 of this Schedule, serve on the Appeal Board, with a copy to the other party, a bundle of all the documents that will be relied on by the Director at the hearing, including submissions to be made.
+
+  - (2) The Appeal Board may require a party to file and serve on the Board, with a copy to the other party—
+
+    - (a) statements of evidence that will be called at the hearing; and
+
+    - (b) a list of witnesses whom the party wishes to call to give evidence.
+
+- 15. Hearing in a party’s absence
+
+  - (1) If a party to an appeal fails to attend a hearing, either in person or by a legal representative, the Appeal Board, on proof that the party has been served a notice of the hearing under section 13 of this Schedule, may proceed to hear the appeal in the absence of the party and, subject to subsections (2) and (3), determine the appeal.
+
+  - (2) Before proceeding to determine an appeal after hearing the appeal in the absence of a party, the Appeal Board must—
+
+    - (a) give the party written notice of the Board’s intention to do so; and
+
+    - (b) state that the party may submit to the Board, within 7 days after the notice is given, a written explanation of the party’s failure to attend the hearing together with any documentary evidence supporting the explanation.
+
+  - (3) If the Appeal Board—
+
+    - (a) has not received the party’s written explanation together with supporting documentary evidence (if any) within the period specified in subsection (2)(b); or
+
+    - (b) is not satisfied with the party’s written explanation or supporting documentary evidence,
+
+  - the Board may determine the appeal by making a decision under section 23(1) of this Schedule despite the party’s absence at the hearing.
+
+  - (4) If the Appeal Board is satisfied, on the basis of the party’s written explanation and supporting documentary evidence (if any) submitted under subsection (2)(b), that the failure to attend was due to reasonable cause, the Board may fix a date, time and place for hearing the appeal.
+
+- 16. Chairperson may give directions The Chairperson may give directions, generally or in a particular case, on the practice and procedure of the Appeal Board in hearing and determining an appeal, so long as the direction is consistent with Part VIIC.
+
+- 17. Appeal Board may determine own procedure Subject to Part VIIC and any direction of the Chairperson, the Appeal Board may determine its own procedure in hearing an appeal.
+
+- 18. Evidence considered by Appeal Board in an appeal under section 37ZR
+
+  - (1) In an appeal under section 37ZR, the Appeal Board has the power to review the merits of the case, and accordingly it may consider—
+
+    - (a) the same evidence that was before an immigration officer; and
+
+    - (b) if subsection (2) applies, evidence that was not before an immigration officer.
+
+  - (2) The Appeal Board may consider evidence that was not before an immigration officer if—
+
+    - (a) the evidence relates to matters that have occurred after the decision being appealed against was made;
+
+    - (b) the evidence was not reasonably available before the decision being appealed against was made; or
+
+    - (c) the Board is satisfied that exceptional circumstances exist that justify the consideration of the evidence.
+
+- 19. Notice of new evidence
+
+  - (1) A party to an appeal who wishes to present any evidence under section 18(2) of this Schedule at a hearing must—
+
+    - (a) file with the Appeal Board a written notice to that effect; and
+
+    - (b) serve a copy of the notice on the other party.
+
+  - (2) The notice must—
+
+    - (a) indicate the nature of the evidence; and
+
+    - (b) explain why the evidence was not before an immigration officer before the decision being appealed against was made.
+
+- 20. Evidence considered by Appeal Board in an application for revocation decision In an application for a revocation decision under section 37ZM, the Appeal Board—
+
+  - (a) has the power to review the merits of the case; and
+
+  - (b) may consider any evidence that the Board considers relevant.
+
+- 21. Evidence on oath etc. For the purposes of sections 18 and 20 of this Schedule, the Appeal Board may—
+
+  - (a) administer oaths and affirmations;
+
+  - (b) receive and consider any material by way of oral evidence (on oath or otherwise) or written statements or documents (by affidavit or otherwise).
+
+- 22. Witnesses etc.
+
+  - (1) The Appeal Board may, on an application by a party to an appeal, or on its own motion, direct a person—
+
+    - (a) to attend as a witness at the hearing of the appeal at the time and place the Board specifies; and
+
+    - (b) at the hearing to answer any questions, to give evidence on oath or otherwise or to produce any document in that person’s possession, custody or power that may relate to any issue in the appeal.
+
+  - (2) Despite subsection (1), a person must not be compelled to give any evidence or produce any document that the person could not be compelled to give or produce in proceedings in a court of law.
+
+  - (3) Subsection (2) does not entitle a person to refuse to give any evidence or to produce any document on the ground only that the evidence or document would not be admissible in a court of law and that accordingly the person could not be compelled to give or produce it.
+
+- 23. Appeal Board’s decision
+
+  - (1) On an appeal against a decision referred to in section 37ZR, the Appeal Board may confirm or reverse the decision.
+
+  - (2) On an application for a revocation decision under section 37ZM, the Appeal Board may allow or refuse the application.
+
+  - (3) The Appeal Board must give its decision with reasons in writing.
+
+  - (4) The Appeal Board’s decision is final.
+
+- 24. Record of proceedings The Appeal Board must keep a record or summary of proceedings and of its decisions in such form as the Chairperson may determine.
+
+- 25. Correction of errors The Appeal Board may correct a decision made by it to the extent necessary to rectify an error of translation or transcription or a clerical error.
+
+- 26. Privileges and immunities of members and witnesses
+
+  - (1) In the performance of their functions under Part VIIC, the Chairperson, Deputy Chairperson and other members of the Appeal Board have the same privileges and immunities as a judge of the Court of First Instance in civil proceedings in that court.
+
+  - (2) A person appearing at a hearing before the Appeal Board as a witness, a party to the appeal or a legal representative of a party to the appeal is entitled to the same privileges and immunities to which the person would be entitled in civil proceedings in the Court of First Instance.
+
+- (Schedule 1A added 23 of 2012 s. 12)
