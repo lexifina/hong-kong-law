@@ -36,7 +36,7 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 11. | Electrical Fitter | (a) To install, test, commission and repair electrical installations and wiring (b) To fit, assemble, install, test, commission and repair electrical systems and equipment | Not applicable | Certificate of registration as an electrical worker for Grade A, B, C or H electrical work issued under section 30 of the Electricity Ordinance (Cap. 406)
 
-12. | Escalator Mechanic | To install, adjust, maintain and repair escalators | Not applicable | Competent escalator worker within the meaning of section 29A(4) of the Lifts and Escalators (Safety) Ordinance (Cap. 327)
+12. | Escalator Mechanic | To install, adjust, maintain and repair escalators | Not applicable | Either one of the following— (a) registered escalator worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618); or (b) competent escalator worker as defined by section 7 of the Lifts and Escalators Ordinance (Cap. 618) (Amended 8 of 2012 ss. 156 & 160)
 
 13. | Fire Service Mechanic | (a) To install, test, inspect, maintain and repair fire services piping systems, automatic fire alarm systems, manual fire alarm systems, mechanical or electrical or electronic parts of fire services systems (b) To maintain, inspect and repair portable fire services equipment | Not applicable | Both of the following— (a) fire service installation contractor class 3 registered under the Fire Service (Installation Contractors) Regulations (Cap. 95 sub. leg. A); and (b) trade certificate for Fire Service Mechanic issued by VTC
 
@@ -46,7 +46,7 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 16. | Grouting Worker | To mix cement or other materials to carry out underground grouting work | Trade test certificate for Grouting Worker issued by CITA or CIC | Not applicable
 
-17. | Lift Mechanic | To install, adjust, maintain and repair lifts | Not applicable | Competent lift worker within the meaning of section 29A(4) of the Lifts and Escalators (Safety) Ordinance (Cap. 327)
+17. | Lift Mechanic | To install, adjust, maintain and repair lifts | Not applicable | Either one of the following— (a) registered lift worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618); or (b) competent lift worker as defined by section 6(1) of the Lifts and Escalators Ordinance (Cap. 618) (Amended 8 of 2012 ss. 156 & 160)
 
 18. | Marine Construction Plant Operator (Boom-grab Bucket) | To operate boom-grab buckets for construction work at sea | Trade test certificate for Marine Construction Plant Operator (Boom-grab Bucket) issued by CITA or CIC | Not applicable
 

@@ -236,6 +236,10 @@ Public Bodies
 
 - 115. Phoenix U Radio Limited. (Added L.N. 50 of 2011)
 
+- 116. The disciplinary board panel established under section 108 of the Lifts and Escalators Ordinance (Cap. 618), including a disciplinary board established under section 110 of that Ordinance. (Added 8 of 2012 ss. 156 & 160)
+
+- 117. The appeal board panel established under section 116 of the Lifts and Escalators Ordinance (Cap. 618), including an appeal board established under section 118 of that Ordinance. (Added 8 of 2012 ss. 156 & 160)
+
 - 118. Hong Kong Internet Registration Corporation Limited. (Added L.N. 38 of 2012)
 
 - 119. Hong Kong Domain Name Registration Company Limited. (Added L.N. 38 of 2012)
