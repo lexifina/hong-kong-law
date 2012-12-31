@@ -22,4 +22,4 @@ Item | Classes of apparatus
 
 (b) is towed on the seabed; and
 
-(c) is capable of capturing fish.
+4. | (c) is capable of capturing fish. Any apparatus, whether operated manually or mechanically, which is intended to be used to drag or tow a net on the seabed or through the water column in a bag shape by one or more vessels to capture fish by straining them from the water. (L.N. 45 of 2011)
