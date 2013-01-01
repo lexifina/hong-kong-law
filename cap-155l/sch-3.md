@@ -1,8 +1,8 @@
 # Schedule 3
 
-[ss. 18, 19, 97, 317, 317A, 318, 319 & 320] (L.N. 137 of 2011)
+[ss. 18, 19, 97, 226Q, 317, 317A, 318, 319 & 320] (L.N. 137 of 2011; L.N. 156 of 2012)
 
-Minimum Requirements to Be Satisfied for Approval under Section 18 of these Rules to Use IMM Approach
+Minimum Requirements to be Satisfied for Approval under Section 18 of these Rules to Use IMM Approach
 
 - 1. General requirements An authorized institution which makes an application under section 18 of these Rules to use the IMM approach shall demonstrate to the satisfaction of the Monetary Authority that—
 
@@ -40,7 +40,7 @@ Minimum Requirements to Be Satisfied for Approval under Section 18 of these Rule
 
       - (C) the oversight of the effectiveness of the institution’s market risk management system for the purposes of paragraph (b);
 
-      - (D) the production and analysis of daily management reports based on the output of the institution’s internal models to which the application relates (referred to in this Schedule as “relevant models”);
+      - (D) the production and analysis of daily management reports based on the output of the institution’s internal models to which the application relates (referred to in this Schedule as relevant models);
 
       - (E) the ongoing review of, and changes to, the institution’s market risk management system; and
 
@@ -224,7 +224,7 @@ Minimum Requirements to Be Satisfied for Approval under Section 18 of these Rule
 
   - (f) the institution is able to segregate those positions for which it has the Monetary Authority’s approval to incorporate into its calculation of comprehensive risk charge from those positions for which it does not hold such an approval;
 
-  - (g) the institution regularly applies a set of specific, predetermined stress scenarios to its correlation trading portfolio, having regard to the guidance specified in the Annex to the document entitled “Revisions to the Basel II market risk framework” published by the Basel Committee on Banking Supervision in July 2009, or in that document as amended or updated from time to time, to examine the implications of stresses to—
+  - (g) the institution regularly applies a set of specific, predetermined stress scenarios to its correlation trading portfolio, having regard to the guidance specified in the Annex to the document entitled “Revisions to the Basel II market risk framework” published by the Basel Committee in July 2009, or in that document as amended or updated from time to time, to examine the implications of stresses to— (L.N. 156 of 2012)
 
     - (i) default rates;
 

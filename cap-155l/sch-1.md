@@ -1,8 +1,8 @@
 # Schedule 1
 
-[ss. 2, 73, 120, 166 & 182]
+[ss. 2, 73, 120, 157A, 166 & 182] (L.N. 156 of 2012)
 
-Specifications for Purposes of Certain Definitions in Section 2(1) of these Rules
+Specifications for Purposes of Certain Definitions in these Rules*
 
 - Part 1 Domestic Public Sector Entities
 
@@ -51,3 +51,11 @@ Specifications for Purposes of Certain Definitions in Section 2(1) of these Rule
   - 3. European Central Bank.
 
   - 4. European Community.
+
+- Part 11 Financial Services Activities of Financial Institutions (L.N. 156 of 2012)
+
+- _
+
+- Note:
+
+- * (L.N. 156 of 2012)

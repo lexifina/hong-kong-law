@@ -10,49 +10,51 @@ Table
 
 - Part 1 Standard Supervisory Haircuts for Debt Securities
 
-Credit quality grade/ | Standard supervisory haircuts
+Standard supervisory haircuts
 
-Item | Types of exposure or recognized collateral | short-term credit quality grade | Residual maturity | Sovereign issuers | Other issuers
+Item | Types of exposure or recognized collateral | Credit quality grade/short— term credit quality grade | Residual maturity | Non— securitization exposures (sovereign issuers) | Non— securitization exposures (other issuers) | Securitization exposures (excluding re— securitization exposures)
 
-1. | Debt securities with ECAI issue specific ratings | grade 1 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 1 and 2 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 0.5% | 1%
+1. | Debt securities with ECAI issue specific ratings | grade 1 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 1 and 2 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 0.5% | 1% | 2%
 
-(b) more than 1 year but not more than 5 years | 2% | 4%
+(b) more than 1 year but not more than 5 years | 2% | 4% | 8%
 
-(c) more than 5 years | 4% | 8%
+(c) more than 5 years | 4% | 8% | 16%
 
-2. | Recognized collateral that falls within any of section 79(e) to (la) of these Rules | grade 1 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 1 and 2 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 0.5% | 1%
+2. | Recognized collateral that falls within any of section 79(1)(e) to (la) of these Rules | grade 1 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 1 and 2 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 0.5% | 1% | 2%
 
-(b) more than 1 year but not more than 5 years | 2% | 4%
+(b) more than 1 year but not more than 5 years | 2% | 4% | 8%
 
-(c) more than 5 years | 4% | 8%
+(c) more than 5 years | 4% | 8% | 16%
 
-3. | Debt securities with ECAI issue specific ratings | grade 2 and 3 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 3 and 4 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 1% | 2%
+3. | Debt securities with ECAI issue specific ratings | grades 2 and 3 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 3 and 4 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 1% | 2% | 4%
 
-(b) more than 1 year but not more than 5 years | 3% | 6%
+(b) more than 1 year but not more than 5 years | 3% | 6% | 12%
 
-(c) more than 5 years | 6% | 12%
+(c) more than 5 years | 6% | 12% | 24%
 
-4. | Recognized collateral that falls within any of section 79(e) to (la) of these Rules | grade 2 and 3 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 3 and 4 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 1% | 2%
+4. | Recognized collateral that falls within any of section 79(1)(e) to (la) of these Rules | grades 2 and 3 (in relation to Table A, Table B, Part 1 of Table C or Part 1 of Table E in Schedule 6, or Table A or Table B in Schedule 11) and grades 3 and 4 (in relation to Part 2 of Table C or Part 2 of Table E in Schedule 6) | (a) not more than 1 year | 1% | 2% | 4%
 
-(b) more than 1 year but not more than 5 years | 3% | 6%
+(b) more than 1 year but not more than 5 years | 3% | 6% | 12%
 
-(c) more than 5 years | 6% | 12%
+(c) more than 5 years | 6% | 12% | 24%
 
-5. | Debt securities with long-term ECAI issue specific ratings | grade 4 | All | 15% | not applicable
+5. | Debt securities with long-term ECAI issue specific ratings | grade 4 | All | 15% | not applicable | not applicable
 
-6. | Recognized collateral that falls within section 79(e), (f) or (h) of these Rules | grade 4 | All | 15% | not applicable
+6. | Recognized collateral that falls within section 79(1)(e), (f) or (h) of these Rules | grade 4 | All | 15% | not applicable | not applicable
 
-7. | Debt securities without ECAI issue specific ratings issued by banks or securities firms, that satisfy the criteria set out in section 79(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2%
+7. | Debt securities without ECAI issue specific ratings issued by banks or securities firms, that satisfy the criteria set out in section 79(1)(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2% | not applicable
 
-(b) more than 1 year but not more than 5 years | not applicable | 6%
+(b) more than 1 year but not more than 5 years | not applicable | 6% | not applicable
 
-(c) more than 5 years | not applicable | 12%
+(c) more than 5 years | not applicable | 12% | not applicable
 
-8. | Recognized collateral, that falls within section 79(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2%
+8. | Recognized collateral that falls within section 79(1)(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2% | not applicable
 
-(b) more than 1 year but not more than 5 years | not applicable | 6%
+(b) more than 1 year but not more than 5 years | not applicable | 6% | not applicable
 
-(c) more than 5 years | not applicable | 12%
+(c) more than 5 years | not applicable | 12% | not applicable
+
+(L.N. 156 of 2012)
 
 - Part 2 Standard Supervisory Haircuts for Assets other than
 
@@ -62,19 +64,21 @@ Item | Types of exposure or recognized collateral | Standard supervisory haircut
 
 1. | Cash where both the exposure and collateral are in the same currency | 0%
 
-2. | Recognized collateral which falls within section 79(a), (b) or (c) of these Rules where the exposure is in the same currency as that of the recognized collateral | 0%
+2. | Recognized collateral which falls within section 79(1)(a), (b) or (c) of these Rules where the exposure is in the same currency as that of the recognized collateral | 0%
 
 3. | Equities in the main index (including convertible bonds) and gold | 15%
 
-4. | Recognized collateral which falls within section 79(d) or (n) of these Rules | 15%
+4. | Recognized collateral which falls within section 79(1)(d) or (n) of these Rules | 15%
 
 5. | Other equities (including convertible bonds) listed on a recognized exchange | 25%
 
-6. | Recognized collateral which falls within section 80(b) of these Rules | 25%
+6. | Recognized collateral which falls within section 80(1)(b) of these Rules | 25%
 
 7. | Collective investment schemes | highest haircut applicable to any financial instruments in which the scheme can invest
 
-8. | Recognized collateral which falls within section 79(o) or 80(c) of these Rules | highest haircut applicable to any financial instruments in which the scheme can invest
+8. | Recognized collateral which falls within section 79(1)(o) or 80(1)(c) of these Rules | highest haircut applicable to any financial instruments in which the scheme can invest
+
+(L.N. 156 of 2012)
 
 - Part 3 Standard Supervisory Haircuts for Exposures and Collateral
 
@@ -88,7 +92,7 @@ Item | Types of exposure or recognized collateral | Standard supervisory haircut
 
 3. | Exposures of transactions under which the financial instruments lent by an authorized institution do not fall within Parts 1 and 2 of this Table | 25%
 
-4. | Recognized collateral which does not fall within section 80(a), (b) and (c) of these Rules received by an authorized institution under repo-style transactions booked in the trading book | 25%
+4. | Recognized collateral which does not fall within section 80(1)(a), (b) and (c) of these Rules received by an authorized institution under repo-style transactions booked in the trading book (L.N. 156 of 2012) | 25%
 
 5. | Exposures not specified in this Table | 25%
 

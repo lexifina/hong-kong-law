@@ -40,7 +40,7 @@ Minimum Requirements to Be Satisfied for Approval under Section 8 of these Rules
 
     - (vii) is applied by the institution so as to satisfy the minimum IRB coverage ratio set out in section 11 of these Rules; and
 
-    - (viii) enables the institution to comply with any rules made by the Monetary Authority under section 60A of the Ordinance as amended by the Banking (Amendment) Ordinance 2005 (19 of 2005) in respect of any disclosures by the institution in respect of—
+    - (viii) enables the institution to comply with the Banking (Disclosure) Rules (Cap. 155 sub. leg. M) in respect of any disclosures by the institution in respect of— (L.N. 156 of 2012)
 
       - (A) the institution’s credit risk; and
 
