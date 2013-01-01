@@ -72,6 +72,10 @@ Fees relating to Part VI of Ordinance
 
 13. | Fee payable on an application under section 156(4) of the Ordinance for extension of the period within which financial statements and other documents, and any auditor’s report, are required to be submitted under section 156(1) or (2) of the Ordinance | $2,000
 
+Fees relating to Part XIVA of Ordinance
+
+13A. | Fee payable on an application for a waiver under section 307E(1) of the Ordinance (9 of 2012 s. 16) | $24,000
+
 Fees relating to Part XV of Ordinance
 
 14. | Fee payable on an application under section 309(2) or (3) of the Ordinance for exemption from all or any of the provisions of Part XV of the Ordinance | $24,000

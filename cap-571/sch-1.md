@@ -344,6 +344,8 @@ Interpretation and General Provisions
 
     - director (董事) includes a shadow director and any person occupying the position of director by whatever name called;
 
+    - disclosure proceedings (關於披露的研訊程序) has the meaning given by section 307I(1) of this Ordinance; (Added 9 of 2012 s. 11)
+
     - document (文件) includes any register and books, any tape recording and any form of input or output into or from an information system, and any other document or similar material (whether produced mechanically, electronically, magnetically, optically, manually or by any other means);
 
     - exchange participant (交易所參與者) means a person—
@@ -1085,6 +1087,8 @@ Interpretation and General Provisions
       - (ii) in relation to any provision of any Ordinance, be construed as including a reference to the commission of an offence under the provision.
 
   - 12. References to Ordinance For the avoidance of doubt, in this Ordinance, a reference to this or any other Ordinance, whether generally or specifically and whether by reference to the short title of the Ordinance or otherwise, shall, unless the context otherwise requires, be construed as including any subsidiary legislation made under this or that other Ordinance (as the case may be).
+
+  - 13. Notes in Ordinance A note located in the text of this Ordinance is provided for information only and has no legislative effect. (Added 9 of 2012 s. 11)
 
 - Part 2 Specified Futures Exchanges
 
