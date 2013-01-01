@@ -1,24 +1,48 @@
-# SCHEDULE 4
+# Schedule 4
 
-[ss. 7, 8, 9, 12, 14 & 65]
+[ss. 11A, 12, 14 & 65] (Amended 17 of 2012 s. 42)
 
-AUTHORITY, STANDING COMMITTEES AND OTHER COMMITTEES
+Registration Board, its Subcommittees and Other Boards*
 
-- PART 1 AUTHORITY AND ITS MEMBERS
+- PART 1 Registration Board (Amended 17 of 2012 s. 42)
 
-  - 1. Tenure of office
+  - 1. Composition of Registration Board
 
-    - (1) An appointed member of the Authority shall hold office for such periods, and on such terms, as the Secretary may specify in the document by which the member is appointed.
+    - (1) The Registration Board is to consist of 19 members appointed by the Council as follows—
 
-    - (2) An appointed member of the Authority, not being a public officer, shall be appointed for a term not more than 3 years.
+      - (a) a chairperson;
 
-    - (3) An appointed member of the Authority shall—
+      - (b) 4 public officers;
+
+      - (c) 2 persons, each of whom is, in the opinion of the Council, a person from a training institute in the construction industry in Hong Kong;
+
+      - (d) 3 persons, each of whom is, in the opinion of the Council, a person from a professional body connected with the construction industry in Hong Kong;
+
+      - (e) 2 persons, each of whom is, in the opinion of the Council, a person from a contractor in the construction industry in Hong Kong;
+
+      - (f) 3 persons, each of whom is, in the opinion of the Council, a person from a trade union, registered under the Trade Unions Ordinance (Cap. 332), that represents workers in the construction industry in Hong Kong;
+
+      - (g) 1 person who is, in the opinion of the Council, a person from a real estate developers association in Hong Kong; and
+
+      - (h) 3 persons, each of whom is, in the opinion of the Council, a person connected with the construction industry in Hong Kong.
+
+  - (2) An appointment under subsection (1) must be notified in the Gazette.
+
+  - (3) If, for any period, the chairperson of the Registration Board is absent from Hong Kong or is, for any other reason, unable to perform the functions of the office, the other members of the Registration Board may elect from among themselves a person to act as chairperson of the Registration Board during that period. (Added 17 of 2012 s. 42)
+
+  - 1A. Tenure of office
+
+    - (1) An appointed member of the Registration Board shall hold office for such periods, and on such terms, as the Council may specify in the document by which the member is appointed.
+
+    - (2) An appointed member of the Registration Board, not being a public officer, shall be appointed for a term not more than 3 years.
+
+    - (3) An appointed member of the Registration Board shall—
 
       - (a) hold and vacate his office in accordance with the terms of his appointment; and
 
       - (b) be eligible for reappointment on ceasing to be a member.
 
-    - (4) If the Secretary is satisfied that an appointed member of the Authority—
+    - (4) If the Council is satisfied that an appointed member of the Registration Board—
 
       - (a) has become bankrupt or made an arrangement with his creditors;
 
@@ -28,97 +52,127 @@ AUTHORITY, STANDING COMMITTEES AND OTHER COMMITTEES
 
       - (d) is otherwise unable or unfit to perform the functions of a member,
 
-    - the Secretary may declare his office as a member of the Authority to be vacant, and shall notify the fact in such manner as the Secretary thinks fit; and upon such declaration the office shall become vacant.
+    - the Council may declare his office as a member of the Registration Board to be vacant, and shall notify the fact in such manner as the Council thinks fit; and upon such declaration the office shall become vacant.
 
-    - (5) An appointed member of the Authority, not being a public officer, may at any time resign his office by notice in writing to the Secretary.
+    - (5) An appointed member of the Registration Board, not being a public officer, may at any time resign his office by notice in writing to the Council.
 
-  - 2. Proceedings of Authority
+  - (Amended 17 of 2012 s. 42)
 
-    - (1) The chairman of the Authority may appoint the time and place for the Authority to meet.
+  - 2. Proceedings of Registration Board
 
-    - (2) The Authority shall not transact business at a meeting other than to adjourn unless there is a quorum of 10 members of the Authority present.
+    - (1) The chairperson of the Registration Board may appoint the time and place for the Registration Board to meet.
 
-    - (3) At a meeting of the Authority, the following shall preside—
+    - (2) The Registration Board shall not transact business at a meeting other than to adjourn unless there is a quorum of 10 members of the Registration Board present.
 
-      - (a) the chairman of the Authority;
+    - (3) At a meeting of the Registration Board, the following shall preside—
 
-      - (b) if a person acts as chairman of the Authority under section 7(5) of this Ordinance, that person; or
+      - (a) the chairperson of the Registration Board;
 
-      - (c) if neither the chairman of the Authority nor the person acting as chairman of the Authority under section 7(5) of this Ordinance (if any) is present, such other member of the Authority as the members present elect.
+      - (b) if a person acts as chairperson of the Registration Board under section 1(3), that person; or
 
-    - (4) All matters for determination at a meeting of the Authority shall be decided by a majority of votes of the members present and voting, and if there is an equality of votes, the chairman of the Authority or any other member presiding shall have a casting vote in addition to his original vote.
+      - (c) if neither the chairperson of the Registration Board nor the person acting as chairperson of the Registration Board under section 1(3) (if any) is present, such other member of the Registration Board as the members present elect.
 
-    - (5) The validity of any proceedings of the Authority shall not be affected by any defect in the appointment of any person purporting to be a member of the Authority or by any vacancy in the membership of the Authority.
+    - (4) All matters for determination at a meeting of the Registration Board shall be decided by a majority of votes of the members present and voting, and if there is an equality of votes, the chairperson of the Registration Board or any other member presiding shall have a casting vote in addition to his or her original vote.
 
-    - (6) Subject to the provisions of this Ordinance, the Authority may regulate its own procedure including the manner in which decisions of the Authority may be made by a quorum of its members otherwise than at a meeting of the Authority.
+    - (5) The validity of any proceedings of the Registration Board shall not be affected by any defect in the appointment of any person purporting to be a member of the Registration Board or by any vacancy in the membership of the Registration Board.
 
-  - 3. Members of Authority to disclose interests
+    - (6) Subject to the provisions of this Ordinance, the Registration Board may regulate its own procedure including the manner in which decisions of the Registration Board may be made by a quorum of its members otherwise than at a meeting of the Registration Board.
 
-    - (1) A member of the Authority who is in any way directly or indirectly interested in a matter being considered made by the Authority shall disclose the nature of his interest at a meeting of the Authority.
+  - (Amended 17 of 2012 s. 42)
 
-    - (2) The Authority shall record the disclosure in the minutes of the meeting of the Authority.
+  - 3. Members of Registration Board to disclose interests
 
-    - (3) A member of the Authority who has an interest in a matter referred to in subsection (1)—
+    - (1) A member of the Registration Board who is in any way directly or indirectly interested in a matter being considered made by the Registration Board shall disclose the nature of his interest at a meeting of the Registration Board.
 
-      - (a) shall not, without the permission of the chairman of the Authority or any other member of the Authority presiding, take any part in any deliberation of the Authority with respect to that matter; and
+    - (2) The Registration Board shall record the disclosure in the minutes of the meeting of the Registration Board.
+
+    - (3) A member of the Registration Board who has an interest in a matter referred to in subsection (1)—
+
+      - (a) shall not, without the permission of the chairperson of the Registration Board or any other member of the Registration Board presiding, take any part in any deliberation of the Registration Board with respect to that matter; and
 
       - (b) shall not in any event vote on that matter.
 
-    - (4) A member of the Authority need not attend in person at a meeting of the Authority to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
+    - (4) A member of the Registration Board need not attend in person at a meeting of the Registration Board to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
 
-  - 4. Common seal of Authority The common seal of the Authority shall not be fixed unless—
+  - (Amended 17 of 2012 s. 42)
 
-    - (a) authorized by the Authority; and
+  - 3A. Estimates of Registration Board
 
-    - (b) authenticated by the signatures of—
+    - (1) In every financial year, the Registration Board must submit to the Council, before a date determined by the Council, a programme of its proposed activities and estimates of its income and expenditure for the next financial year.
 
-      - (i) the chairman of the Authority; or
+    - (2) The Registration Board must, as soon as practicable after the commencement date# of this section, submit the programme and estimates for the first financial year.
 
-      - (ii) any other member of the Authority authorized by the Authority, either generally or specifically, to act for that purpose.
+  - (Added 17 of 2012 s. 42)
 
-  - 5. Documents of Authority
+  - 3B. Accounts of Registration Board and submission of reports, etc. to Council
 
-    - (1) The Authority may make and execute any document in the performance of its functions or the exercise of its powers or in connection with any matter reasonably incidental to or consequential upon the performance of its functions or the exercise of its powers.
+    - (1) The Registration Board must maintain proper accounts and records of all its income and expenditure.
 
-    - (2) Any document purporting to be executed under the seal of the Authority shall be admitted in evidence and shall, in the absence of evidence to the contrary, be deemed to have been duly executed.
+    - (2) The Registration Board must, as soon as practicable after the end of a financial year, cause to be prepared a statement of accounts of the Registration Board in respect of the financial year.
 
-    - (3) Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not be required to be under seal may be entered into or executed on behalf of the Authority by any member of the Authority authorized by the Authority, either generally or specifically, to act for that purpose.
+    - (3) The statement of accounts is to include an income and expenditure account and a balance sheet.
 
-- PART 2 COMMITTEES ESTABLISHED BY AUTHORITY
+    - (4) The Registration Board must submit to the Council, before a date determined by the Council, a report on the activities of the Registration Board during the financial year and a copy of the statement of accounts.
 
-- AND MEMBERS OF COMMITTEES
+  - (Added 17 of 2012 s. 42)
 
-  - 6. Members of committees The Authority—
+  - 3C. Delegation of Registration Board’s functions and powers
 
-    - (a) may appoint members of the Authority, and persons who are not such members, to be members of a committee; and
+    - (1) The Registration Board may appoint any subcommittee that it considers appropriate.
 
-    - (b) shall appoint the chairman of a committee and determine the number of members of a committee.
+    - (2) The Registration Board may delegate in writing any of its functions or powers (including any functions or powers delegated to it under section 16 of the Construction Industry Council Ordinance (Cap. 587)) to a subcommittee appointed under subsection (1).
 
-  - 7. Functions and powers of committees A committee—
+    - (3) The Registration Board may not delegate under this section any of the following—
 
-    - (a) shall perform such functions and may exercise such powers as are delegated to it by the Authority under section 9(1)(b) of this Ordinance; and
+      - (a) the power to appoint a subcommittee under subsection (1);
 
-    - (b) may, subject to any directions of the Authority, regulate its own procedure.
+      - (b) the power to delegate under subsection (2);
 
-- PART 3 QUALIFICATIONS COMMITTEE
+      - (c) the Council’s function under section 52(5) of this Ordinance;
 
-- AND ITS MEMBERS
+      - (d) the power to approve programmes of its proposed activities, estimates of its income and expenditure, its statement of accounts or report on its activities;
+
+      - (e) the power to authorize the preparation of its accounts or other financial records.
+
+  - (Added 17 of 2012 s. 42)
+
+  - 4.-5. (Repealed 17 of 2012 s. 42)
+
+- PART 2 Subcommittees Appointed by Registration Board and Members of Subcommittees (Amended 17 of 2012 s. 42)
+
+  - 6. Members of subcommittees The Registration Board—
+
+    - (a) may appoint members of the Registration Board, and persons who are not such members, to be members of a subcommittee; and
+
+    - (b) shall appoint the chairperson of a subcommittee and determine the number of members of a subcommittee.
+
+  - (Amended 17 of 2012 s. 42)
+
+  - 7. Functions and powers of subcommittees A subcommittee—
+
+    - (a) shall perform such functions and may exercise such powers as are delegated to it by the Registration Board under section 3C(2); and
+
+    - (b) may, subject to any directions of the Registration Board, regulate its own procedure.
+
+  - (Amended 17 of 2012 s. 42)
+
+- PART 3 Qualifications Board and its Members (Amended 17 of 2012 s. 42)
 
   - 8. Tenure of office
 
-    - (1) A member of the Qualifications Committee shall hold office for such periods, and on such terms, as the Authority may specify in the document by which the member is appointed.
+    - (1) A member of the Qualifications Board shall hold office for such periods, and on such terms, as the Registration Board may specify in the document by which the member is appointed.
 
-    - (2) A member of the Qualifications Committee, not being a public officer, shall be appointed for a term not more than 3 years.
+    - (2) A member of the Qualifications Board, not being a public officer, shall be appointed for a term not more than 3 years.
 
-    - (3) A member of the Qualifications Committee shall—
+    - (3) A member of the Qualifications Board shall—
 
       - (a) hold and vacate his office in accordance with the terms of his appointment; and
 
       - (b) be eligible for reappointment on ceasing to be a member.
 
-    - (4) If the Authority is satisfied that a member of the Qualifications Committee—
+    - (4) If the Registration Board is satisfied that a member of the Qualifications Board—
 
-      - (a) has become a member of the Review Committee or a member of the Appeal Board panel;
+      - (a) has become a member of the Review Board or a member of the Appeal Board panel;
 
       - (b) has become bankrupt or made an arrangement with his creditors;
 
@@ -128,63 +182,73 @@ AUTHORITY, STANDING COMMITTEES AND OTHER COMMITTEES
 
       - (e) is otherwise unable or unfit to perform the functions of a member,
 
-    - the Authority may declare his office as a member of the Qualifications Committee to be vacant, and shall notify the fact in such manner as the Authority thinks fit; and upon such declaration the office shall become vacant.
+    - the Registration Board may declare his office as a member of the Qualifications Board to be vacant, and shall notify the fact in such manner as the Registration Board thinks fit; and upon such declaration the office shall become vacant.
 
-    - (5) A member of the Qualifications Committee, not being a public officer, may at any time resign his office by notice in writing to the Authority.
+    - (5) A member of the Qualifications Board, not being a public officer, may at any time resign his office by notice in writing to the Registration Board.
 
-  - 9. Proceedings of Qualifications Committee
+  - (Amended 17 of 2012 s. 42)
 
-    - (1) The chairman of the Qualifications Committee may appoint the time and place for the Committee to meet.
+  - 9. Proceedings of Qualifications Board
 
-    - (2) The Qualifications Committee shall not transact business at a meeting other than to adjourn unless there is a quorum of 7 members of the Committee present.
+    - (1) The chairperson of the Qualifications Board may appoint the time and place for the Board to meet.
 
-    - (3) At a meeting of the Qualifications Committee, the following shall preside—
+    - (2) The Qualifications Board shall not transact business at a meeting other than to adjourn unless there is a quorum of 7 members of the Board present.
 
-      - (a) the chairman of the Committee;
+    - (3) At a meeting of the Qualifications Board, the following shall preside—
 
-      - (b) if a person acts as chairman of the Committee under section 12(5) of this Ordinance, that person; or
+      - (a) the chairperson of the Board;
 
-      - (c) if neither the chairman of the Committee nor the person acting as chairman of the Committee under section 12(5) of this Ordinance (if any) is present, such other member of the Committee as the members present elect.
+      - (b) if a person acts as chairperson of the Board under section 12(5) of this Ordinance, that person; or
 
-    - (4) All matters for determination at a meeting of the Qualifications Committee shall be decided by a majority of votes of the members present and voting, and if there is an equality of votes, the chairman of the Committee or any other member presiding shall have a casting vote in addition to his original vote.
+      - (c) if neither the chairperson of the Board nor the person acting as chairperson of the Board under section 12(5) of this Ordinance (if any) is present, such other member of the Board as the members present elect.
 
-    - (5) The validity of any proceedings of the Qualifications Committee shall not be affected by any defect in the appointment of any person purporting to be a member of the Committee or by any vacancy in the membership of the Committee.
+    - (4) All matters for determination at a meeting of the Qualifications Board shall be decided by a majority of votes of the members present and voting, and if there is an equality of votes, the chairperson of the Board or any other member presiding shall have a casting vote in addition to his or her original vote.
 
-    - (6) Subject to the provisions of this Ordinance, the Qualifications Committee may regulate its own procedure including the manner in which decisions of the Committee may be made by a quorum of its members otherwise than at a meeting of the Committee.
+    - (5) The validity of any proceedings of the Qualifications Board shall not be affected by any defect in the appointment of any person purporting to be a member of the Board or by any vacancy in the membership of the Board.
 
-  - 10. Members of Qualification Committee to disclose interests
+    - (6) Subject to the provisions of this Ordinance, the Qualifications Board may regulate its own procedure including the manner in which decisions of the Board may be made by a quorum of its members otherwise than at a meeting of the Board.
 
-    - (1) A member of the Qualification Committee who is in any way directly or indirectly interested in a matter being considered made by the Committee shall disclose the nature of his interest at a meeting of the Committee.
+  - (Amended 17 of 2012 s. 42)
 
-    - (2) The Qualification Committee shall record the disclosure in the minutes of the meeting of the Committee.
+  - 10. Members of Qualifications Board to disclose interests
 
-    - (3) A member of the Qualification Committee who has an interest in a matter referred to in subsection (1)—
+    - (1) A member of the Qualifications Board who is in any way directly or indirectly interested in a matter being considered made by the Board shall disclose the nature of his interest at a meeting of the Board.
 
-      - (a) shall not, without the permission of the chairman of the Qualification Committee or any other member of the Committee presiding, take any part in any deliberation of the Committee with respect to that matter; and
+    - (2) The Qualifications Board shall record the disclosure in the minutes of the meeting of the Board.
+
+    - (3) A member of the Qualifications Board who has an interest in a matter referred to in subsection (1)—
+
+      - (a) shall not, without the permission of the chairperson of the Qualifications Board or any other member of the Board presiding, take any part in any deliberation of the Board with respect to that matter; and
 
       - (b) shall not in any event vote on that matter.
 
-    - (4) A member of the Qualification Committee need not attend in person at a meeting of the Committee to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
+    - (4) A member of the Qualifications Board need not attend in person at a meeting of the Board to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
 
-- PART 4 REVIEW COMMITTEE AND ITS MEMBERS
+  - (Amended 17 of 2012 s. 42)
+
+- PART 4 Review Board and its Members (Amended 17 of 2012 s. 42)
 
   - 11. Tenure of office
 
-    - (1) A member of the Review Committee shall hold office for such periods, and on such terms, as the Authority may specify in the document by which the member is appointed.
+    - (1) A member of the Review Board shall hold office for such periods, and on such terms, as the Registration Board may specify in the document by which the member is appointed.
 
-    - (2) A member of the Review Committee, not being a public officer, shall be appointed for a term not more than 3 years.
+    - (2) A member of the Review Board, not being a public officer, shall be appointed for a term not more than 3 years.
 
-    - (3) A member of the Review Committee shall—
+    - (3) A member of the Review Board shall—
 
       - (a) hold and vacate his office in accordance with the terms of his appointment; and
 
       - (b) be eligible for reappointment on ceasing to be a member.
 
-    - (4) If the Authority is satisfied that a member of the Review Committee—
+    - (4) If the Registration Board is satisfied that a member of the Review Board—
 
-      - (a) has become a member of the Qualifications Committee or a member of the Appeal Board panel;
+      - (a) has become a member of the Qualifications Board or a member of the Appeal Board panel;
 
-      - (b) has become the Registrar, or, where the Registrar is a body corporate, a member, officer or employee of the Registrar;
+      - (b) has become the Registrar; (Replaced 17 of 2012 s. 42)
+
+      - (ba) (if the Registrar is a body corporate) has become a member, officer or employee of the Registrar; (Added 17 of 2012 s. 42)
+
+      - (bb) (if the Registrar is a body unincorporate) has become a member of the Registrar; (Added 17 of 2012 s. 42)
 
       - (c) has become bankrupt or made an arrangement with his creditors;
 
@@ -194,40 +258,54 @@ AUTHORITY, STANDING COMMITTEES AND OTHER COMMITTEES
 
       - (f) is otherwise unable or unfit to perform the functions of a member,
 
-    - the Authority may declare his office as a member of the Review Committee to be vacant, and shall notify the fact in such manner as the Authority thinks fit; and upon such declaration the office shall become vacant.
+    - the Registration Board may declare his office as a member of the Review Board to be vacant, and shall notify the fact in such manner as the Registration Board thinks fit; and upon such declaration the office shall become vacant.
 
-    - (5) A member of the Review Committee, not being a public officer, may at any time resign his office by notice in writing to the Authority.
+    - (5) A member of the Review Board, not being a public officer, may at any time resign his office by notice in writing to the Registration Board.
 
-  - 12. Proceedings of Review Committee
+  - (Amended 17 of 2012 s. 42)
 
-    - (1) The chairman of the Review Committee may appoint the time and place for the Committee to meet.
+  - 12. Proceedings of Review Board
 
-    - (2) The Review Committee shall not transact business at a meeting other than to adjourn unless there is a quorum of 4 members of the Committee present.
+    - (1) The chairperson of the Review Board may appoint the time and place for the Board to meet.
 
-    - (3) At a meeting of the Review Committee, the following shall preside—
+    - (2) The Review Board shall not transact business at a meeting other than to adjourn unless there is a quorum of 4 members of the Board present.
 
-      - (a) the chairman of the Committee;
+    - (3) At a meeting of the Review Board, the following shall preside—
 
-      - (b) if a person acts as chairman of the Committee under section 14(6) of this Ordinance, that person; or
+      - (a) the chairperson of the Board;
 
-      - (c) if neither the chairman of the Committee nor the person acting as chairman of the Committee under section 14(6) of this Ordinance (if any) is present, such other member of the Committee as the members present elect.
+      - (b) if a person acts as chairperson of the Board under section 14(6) of this Ordinance, that person; or
 
-    - (4) All matters for determination at a meeting of the Review Committee shall be decided by a majority of votes of the members present and voting, and if there is an equality of votes, the chairman of the Committee or any other member presiding shall have a casting vote in addition to his original vote.
+      - (c) if neither the chairperson of the Board nor the person acting as chairperson of the Board under section 14(6) of this Ordinance (if any) is present, such other member of the Board as the members present elect.
 
-    - (5) The validity of any proceedings of the Review Committee shall not be affected by any defect in the appointment of any person purporting to be a member of the Committee or by any vacancy in the membership of the Committee.
+    - (4) All matters for determination at a meeting of the Review Board shall be decided by a majority of votes of the members present and voting, and if there is an equality of votes, the chairperson of the Board or any other member presiding shall have a casting vote in addition to his or her original vote.
 
-    - (6) Subject to the provisions of this Ordinance, the Review Committee may regulate its own procedure including the manner in which decisions of the Committee may be made by a quorum of its members otherwise than at a meeting of the Committee.
+    - (5) The validity of any proceedings of the Review Board shall not be affected by any defect in the appointment of any person purporting to be a member of the Board or by any vacancy in the membership of the Board.
 
-  - 13. Members of Review Committee to disclose interests
+    - (6) Subject to the provisions of this Ordinance, the Review Board may regulate its own procedure including the manner in which decisions of the Board may be made by a quorum of its members otherwise than at a meeting of the Board.
 
-    - (1) A member of the Review Committee who is in any way directly or indirectly interested in a matter being considered made by the Committee shall disclose the nature of his interest at a meeting of the Committee.
+  - (Amended 17 of 2012 s. 42)
 
-    - (2) The Review Committee shall record the disclosure in the minutes of the meeting of the Committee.
+  - 13. Members of Review Board to disclose interests
 
-    - (3) A member of the Review Committee who has an interest in a matter referred to in subsection (1)—
+    - (1) A member of the Review Board who is in any way directly or indirectly interested in a matter being considered made by the Board shall disclose the nature of his interest at a meeting of the Board.
 
-      - (a) shall not, without the permission of the chairman of the Review Committee or any other member of the Committee presiding, take any part in any deliberation of the Committee with respect to that matter; and
+    - (2) The Review Board shall record the disclosure in the minutes of the meeting of the Board.
+
+    - (3) A member of the Review Board who has an interest in a matter referred to in subsection (1)—
+
+      - (a) shall not, without the permission of the chairperson of the Review Board or any other member of the Board presiding, take any part in any deliberation of the Board with respect to that matter; and
 
       - (b) shall not in any event vote on that matter.
 
-    - (4) A member of the Review Committee need not attend in person at a meeting of the Committee to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
+    - (4) A member of the Review Board need not attend in person at a meeting of the Board to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
+
+  - (Amended 17 of 2012 s. 42)
+
+  - _
+
+  - Note:
+
+  - * (Amended 17 of 2012 s. 42)
+
+  - # Commencement date: 1 January 2013.

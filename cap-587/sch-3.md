@@ -8,17 +8,19 @@ MEETINGS AND PROCEEDINGS OF COUNCIL
 
 - Interpretation In this Schedule—
 
-  - “chairman” (主席) means the chairman of the Council referred to in section 9(1)(a) of this Ordinance;
+  - chairperson (主席) means the chairperson of the Council referred to in section 9(1)(a) of this Ordinance; (Added 17 of 2012 s. 62)
 
   - “member” (成員) means a member of the Council referred to in section 9(1) of this Ordinance.
 
+- (Amended 17 of 2012 s. 62)
+
 - 2. Holding of meetings
 
-  - (1) Subject to subsection (2), a meeting of the Council shall be held at such time and place as the chairman may appoint.
+  - (1) Subject to subsection (2), a meeting of the Council shall be held at such time and place as the chairperson may appoint. (Amended 17 of 2012 s. 62)
 
   - (2) The Council shall meet if there is a notice in writing, signed by not less than half of its members, requesting that a meeting be held.
 
-- 3. Notice of meetings Unless otherwise determined by the chairman, a notice of meeting shall be served on each member at least 14 days before the day on which the meeting is to be held.
+- 3. Notice of meetings Unless otherwise determined by the chairperson, a notice of meeting shall be served on each member at least 14 days before the day on which the meeting is to be held. (Amended 17 of 2012 s. 62)
 
 - 4. Quorum
 
@@ -28,11 +30,13 @@ MEETINGS AND PROCEEDINGS OF COUNCIL
 
 - 5. Proceedings of Council
 
-  - (1) Subject to subsection (2), the chairman is to preside at a meeting of the Council.
+  - (1) Subject to subsection (2), the chairperson is to preside at a meeting of the Council.
 
-  - (2) If, for any reason, the chairman is not able to preside at a meeting of the Council, the members present at the meeting are to elect a member from among themselves to preside.
+  - (2) If, for any reason, the chairperson is not able to preside at a meeting of the Council, the members present at the meeting are to elect a member from among themselves to preside.
 
-  - (3) All questions for determination are to be decided by a majority of votes of the members present and voting, and if there is an equality of votes, the member presiding has a casting vote in addition to his original vote.
+  - (3) All questions for determination are to be decided by a majority of votes of the members present and voting, and if there is an equality of votes, the member presiding has a casting vote in addition to his or her original vote.
+
+- (Amended 17 of 2012 s. 62)
 
 - 6. Disclosure of interests of members If a member has a pecuniary interest, whether direct or indirect, in any matter under consideration at a meeting of the Council, the member—
 
@@ -98,7 +102,7 @@ MEETINGS AND PROCEEDINGS OF COUNCIL
 
   - (4) A resolution in the form of more than one document is to be regarded as made on the date on which the resolution is signed by the last member to sign and endorse it within the specified period.
 
-  - (5) A member may, within the specified period, give notice in writing to the chairman requiring that the business to which the resolution relates be transacted at a meeting of the Council.
+  - (5) A member may, within the specified period, give notice in writing to the chairperson requiring that the business to which the resolution relates be transacted at a meeting of the Council. (Amended 17 of 2012 s. 62)
 
   - (6) Where a notice is given under subsection (5), the following applies—
 
@@ -114,6 +118,6 @@ MEETINGS AND PROCEEDINGS OF COUNCIL
 
     - “specified period” (指明期間), in relation to any business referred to in subsection (1), means a period—
 
-      - (a) that is determined by the chairman and specified in the documents circulated for the purposes of transacting the business; and
+      - (a) that is determined by the chairperson and specified in the documents circulated for the purposes of transacting the business; and (Amended 17 of 2012 s. 62)
 
       - (b) within which a member may indicate to the Council as to whether he endorses the resolution.

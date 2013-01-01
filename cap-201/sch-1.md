@@ -204,7 +204,7 @@ Public Bodies
 
 - #99. A company recognized as an investor compensation company under section 79(1) of the Securities and Futures Ordinance (Cap. 571). (Added L.N. 226 of 2002 and 5 of 2002 s. 407)
 
-- 100. Construction Workers Registration Authority. (Added 18 of 2004 s. 66)
+- 100. (Repealed 17 of 2012 s. 64)
 
 - 101. Hong Kong Deposit Protection Board. (Added 7 of 2004 s. 55)
 
@@ -248,7 +248,9 @@ Public Bodies
 
 - 121. Hong Kong Cyberport Management Company Limited. (Added L.N. 38 of 2012)
 
-- 122. The wholly owned subsidiary of the Securities and Futures Commission that is established under section 5(4)(da) of the Securities and Futures Ordinance (Cap. 571). (Added 9 of 2012 s. 35) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
+- 122. The wholly owned subsidiary of the Securities and Futures Commission that is established under section 5(4)(da) of the Securities and Futures Ordinance (Cap. 571). (Added 9 of 2012 s. 35)
+
+- 124. Construction Workers Registration Board. (Added 17 of 2012 s. 64) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 
