@@ -34,7 +34,7 @@
 
   - 5. An additional pilotage due of $1,900 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship off Ngan Chau or at the west of Lamma Island. (L.N. 19 of 1997; L.N. 160 of 1999; L.N. 161 of 1999; L.N. 234 of 2002; L.N. 111 of 2005; L.N. 240 of 2009)
 
-  - 5A. An additional pilotage due of $2,300 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship west of a straight line drawn from Pearl Island to East Brother Island. (L.N. 19 of 1997; L.N. 111 of 2005; L.N. 174 of 2011)
+  - 5A. An additional pilotage due of $2,600 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship west of a straight line drawn from Pearl Island to East Brother Island. (L.N. 19 of 1997; L.N. 111 of 2005; L.N. 174 of 2011)
 
   - 5B. An additional pilotage due of $1,250 shall be payable for any pilotage service performed, where a pilot is required to board a ship or disembark from a ship north of a straight line drawn from Black Point to Lung Kwu Chau Light. (L.N. 111 of 2005)
 
