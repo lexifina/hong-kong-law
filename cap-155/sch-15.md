@@ -2,7 +2,7 @@
 
 [ss. 101A, 101E, 101I & 135]
 
-PROVISIONS RELATING TO CAPITAL ADEQUACY REVIEW TRIBUNAL
+PROVISIONS RELATING TO BANKING REVIEW TRIBUNAL*
 
 - 1.
 
@@ -105,3 +105,7 @@ PROVISIONS RELATING TO CAPITAL ADEQUACY REVIEW TRIBUNAL
 - shall have the same privileges and immunities in respect of the review as they would have if the review were civil proceedings before the Court of First Instance.
 
 - (Fifteenth Schedule added 19 of 2005 s. 7)
+
+Editorial Note:
+
+* (Amended 3 of 2012 s. 20)

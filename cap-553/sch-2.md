@@ -96,7 +96,7 @@ ORDINANCE DO NOT APPLY UNDER SECTION 13(1) OF THIS ORDINANCE
 
 - (zp) the Clearing and Settlement Systems Appeals Tribunal established under the Clearing and Settlement Systems Ordinance (Cap. 584); (Added 20 of 2004 s. 59. Amended 19 of 2005 s. 7)
 
-- (zq) the Capital Adequacy Review Tribunal established under the Banking Ordinance (Cap. 155); (Added 19 of 2005 s. 7. Amended 23 of 2005 s. 28)
+- (zq) the Banking Review Tribunal established under the Banking Ordinance (Cap. 155); (Added 19 of 2005 s. 7. Amended 23 of 2005 s. 28; 3 of 2012 s. 22)
 
 - (zr) the Civil Celebrant of Marriages Appointment Appeal Board established under the Marriage Ordinance (Cap. 181); (Added 23 of 2005 s. 28. Amended 9 of 2007 s. 63)
 
