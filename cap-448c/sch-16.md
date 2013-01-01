@@ -174,11 +174,7 @@
 
         - (ii) any other location where passengers are checked in. (L.N. 193 of 2009)
 
-    - (2B) The operator of an aircraft shall ensure that information required to be provided under paragraph (2) shall be—
-
-      - (a) provided with the passenger tickets issued to the passengers; or
-
-      - (b) made available to the passengers in another manner prior to the check-in process. (L.N. 195 of 2007)
+    - (2B) The operator of an aircraft shall also ensure that information required to be provided under paragraph (2) and information as to which categories of dangerous goods may be carried by passengers of the aircraft is provided or made available to them in accordance with the provisions in Chapter 5.1 of Part 7 of the Technical Instructions. (L.N. 140 of 2011)
 
     - (2C) The operator of an aircraft and his handling agent shall, during the check-in process—
 
