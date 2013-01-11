@@ -12,8 +12,6 @@ Cheung Chau Cemetery | Cheung Chau, New Territories
 
 Hong Kong Cemetery | Happy Valley
 
-Garden of Remembrance | Cape Collinson
-
 Lai Chi Yuen Cemetery | Lantau, New Territories
 
 *Mount Caroline Cemetery | So Kon Po
@@ -30,7 +28,7 @@ Tai O Cemetery | Lantau, New Territories
 
 Wo Hop Shek Cemetery | Fanling, New Territories
 
-(Amended G.N.A. 152 of 1960; 21 of 1973 s. 15; L.N. 269 of 1977; 78 of 1999 s. 7)
+(Amended G.N.A. 152 of 1960; 21 of 1973 s. 15; L.N. 269 of 1977; 78 of 1999 s. 7; L.N. 171 of 2012)
 
 - PART II Private cemeteries
 
@@ -72,8 +70,6 @@ Muslim Cemetery | Happy Valley
 
 New Kowloon Cemetery No. 1 (Christian Chinese Cemetery) | Grampian Road, Kowloon
 
-New Kowloon Cemetery No. 2 (Little Sisters of the Poor Cemetery) | Clear Water Bay Road, Kowloon
-
 New Kowloon Inland Lot No. 2662 Cemetery (Roman Catholic Cemetery) | Castle Peak Road, Kowloon
 
 Race Course Fire Memorial and Cemetery | So Kon Po
@@ -92,7 +88,7 @@ Tsuen Wan Chinese Permanent Cemetery | Tsuen Wan, New Territories
 
 Zoroastrian Cemetery | Happy Valley
 
-(Amended 32 of 1963 s. 15; L.N. 61 of 1970; L.N. 193 of 1975; 69 of 1976 s. 6; L.N. 146 of 1983; 78 of 1999 s. 7)
+(Amended 32 of 1963 s. 15; L.N. 61 of 1970; L.N. 193 of 1975; 69 of 1976 s. 6; L.N. 146 of 1983; 78 of 1999 s. 7; L.N. 171 of 2012)
 
 PART III-PART IV
 
