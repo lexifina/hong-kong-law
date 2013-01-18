@@ -250,8 +250,10 @@ Public Bodies
 
 - 122. The wholly owned subsidiary of the Securities and Futures Commission that is established under section 5(4)(da) of the Securities and Futures Ordinance (Cap. 571). (Added 9 of 2012 s. 35)
 
+- 123. Competition Commission. (Added 14 of 2012 s. 176)
+
 - 124. Construction Workers Registration Board. (Added 17 of 2012 s. 64) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 
-\# The Investor Compensation Company Limited has been recognised as an investor compensation company (please see G.N. 1220 of 2003) .
+\# The Investor Compensation Company Limited has been recognised as an investor compensation company (please see G.N. 1220 of 2003).
