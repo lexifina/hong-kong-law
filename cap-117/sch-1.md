@@ -1,14 +1,46 @@
 # Schedule 1
 
-[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29G, 29H, 30, 44, 45 & 47B & 2nd Sch.] (Replaced 14 of 2011 s. 15. Amended 2 of 2014 s. 20)
+[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29G, 29H, 30, 44, 45 & 47B & 2nd Sch.] (Replaced 14 of 2011 s. 15. Amended 2 of 2014 s. 20; 14 of 2014 s. 28)
 
 Nature of Instrument | (A) Stamp Duty (B) Time for stamping (C) Persons liable
 
 HEAD 1: IMMOVABLE PROPERTY IN HONG KONG
 
-Agreement for Lease, See LEASE and section 16 Agreement or Contract for Sale of equitable interest, See AGREEMENT FOR SALE and section 29E, and CONVEYANCE ON SALE and section 26
+Agreement for Lease, See LEASE and section 16 (Amended 14 of 2014 s. 28)
 
-(1) CONVEYANCE ON SALE (a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (A) (a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
+(1) CONVEYANCE ON SALE CHARGEABLE WITH AD VALOREM STAMP DUTY (Amended 14 of 2014 s. 28)
+
+SCALE 1—
+
+(a) if the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (A)(a) 1.5% of the amount or value of the consideration
+
+(b) if the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,176,470 and the instrument is certified in accordance with section 29 at $2,176,470 | (b) $30,000 plus 20% of the amount by which the amount or value of the consideration exceeds $2,000,000
+
+(c) if the amount or value of the consideration exceeds $2,176,470 but does not exceed $3,000,000 and the instrument is certified in accordance with section 29 at $3,000,000 | (c) 3% of the amount or value of the consideration
+
+(d) if the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,290,330 and the instrument is certified in accordance with section 29 at $3,290,330 | (d) $90,000 plus 20% of the amount by which the amount or value of the consideration exceeds $3,000,000
+
+(e) if the amount or value of the consideration exceeds $3,290,330 but does not exceed $4,000,000 and the instrument is certified in accordance with section 29 at $4,000,000 | (e) 4.5% of the amount or value of the consideration
+
+(f) if the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,428,580 and the instrument is certified in accordance with section 29 at $4,428,580 | (f) $180,000 plus 20% of the amount by which the amount or value of the consideration exceeds $4,000,000
+
+(g) if the amount or value of the consideration exceeds $4,428,580 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29 at $6,000,000 | (g) 6% of the amount or value of the consideration
+
+(h) if the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29 at $6,720,000 | (h) $360,000 plus 20% of the amount by which the amount or value of the consideration exceeds $6,000,000
+
+(i) if the amount or value of the consideration exceeds $6,720,000 but does not exceed $20,000,000 and the instrument is certified in accordance with section 29 at $20,000,000 | (i) 7.5% of the amount or value of the consideration
+
+(j) if the amount or value of the consideration exceeds $20,000,000 but does not exceed $21,739,130 and the instrument is certified in accordance with section 29 at $21,739,130 | (j) $1,500,000 plus 20% of the amount by which the amount or value of the consideration exceeds $20,000,000
+
+(k) in any other case (Added 14 of 2014 s. 28) | (k) 8.5% of the amount or value of the consideration
+
+(B) 30 days after the execution; but see Note 2 to this sub-head
+
+(C) All parties, and all other persons executing; but see Notes 2 and 7 to this sub-head
+
+SCALE 2— (Added 14 of 2014 s. 28)
+
+(a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29 at $2,000,000 | (A)(a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
 
 (b) where the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,351,760 and the instrument is certified in accordance with section 29 at $2,351,760 | (b) $100 plus 10% of the amount by which the amount or value of the consideration exceeds $2,000,000 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
 
@@ -20,7 +52,9 @@ Agreement for Lease, See LEASE and section 16 Agreement or Contract for Sale of 
 
 (f) where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,428,570 and the instrument is certified in accordance with section 29 at $4,428,570 | (f) $90,000 plus 10% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3)
 
-(g) where the amount or value of the consideration exceeds $4,428,570 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29 at $6,000,000 (h) where the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29 at $6,720,000 | (g) 3% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3) (h) $180,000 plus 10% of the amount by which the amount or value of the consideration exceeds $6,000,000 (Added L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3)
+(g) where the amount or value of the consideration exceeds $4,428,570 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29 at $6,000,000 | (g) 3% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3)
+
+(h) where the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29 at $6,720,000 | (h) $180,000 plus 10% of the amount by which the amount or value of the consideration exceeds $6,000,000 (Added L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3)
 
 (i) where the amount or value of the consideration exceeds $6,720,000 but does not exceed $20,000,000 and the instrument is certified in accordance with section 29 at $20,000,000 | (i) 3.75% of the amount or value of the consideration (Replaced L.N. 18 of 2010 and 16 of 2010 s. 4)
 
@@ -30,11 +64,17 @@ Agreement for Lease, See LEASE and section 16 Agreement or Contract for Sale of 
 
 (B) 30 days after the execution; but see Note 2 to this sub-head
 
-(C) persons executing; but see Note 2 to this sub-head (Replaced 36 of 1994 s. 3)
+(C) persons executing; but see Notes 2 and 7 to this sub-head (Replaced 36 of 1994 s. 3. Amended 14 of 2014 s. 28)
 
-And see sections 2, 4, 22, 23, 24, 25, 26, 27, 28, 29, 39, 43, 44 and 45
+And see sections 2, 4, 22, 23, 24, 25, 27, 28, 29, 39, 43, 44 and 45 (Amended 14 of 2014 s. 28)
 
-Note 1 This sub-head shall apply in relation to the stamp duty chargeable by reference to it by virtue of sub-head (2)(a), in a case where part of the consideration for a lease consists of rent, as if paragraphs (a) to (j) and the words “in any other case” in paragraph (k) were omitted (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; L.N. 32 of 2007 and 13 of 2007 s. 3; L.N. 18 of 2010 and 16 of 2010 s. 4)
+Note 1A This sub-head applies to a conveyance on sale according to section 29AI (Added 14 of 2014 s. 28)
+
+Note 1B Scale 2 of this sub-head applies in relation to the stamp duty chargeable on a conveyance on sale by which a leasehold interest in land is transferred to, or vested in, a person by another person (transferor) if it is shown to the satisfaction of the Collector that the leasehold interest was acquired by the transferor under an instrument that was stamped or chargeable with stamp duty under sub-head (2) (Added 14 of 2014 s. 28)
+
+Note 1C Scale 2 of this sub-head applies in relation to the stamp duty chargeable on a lease or an agreement for a lease if the lease or agreement is chargeable with stamp duty as a conveyance on sale under section 27(1) by virtue of section 27(4) (Added 14 of 2014 s. 28)
+
+Note 1 Scale 2 of this sub-head applies in relation to the stamp duty chargeable by reference to it by virtue of sub-head (2)(a), in a case where part of the consideration for a lease consists of rent, as if paragraphs (a), (b), (c), (d), (e), (f), (g), (h), (i) and (j) in Scale 2 and the words “in any other case” in paragraph (k) in Scale 2 were omitted (Replaced 14 of 2014 s. 28)
 
 Note 2 In the case of a vesting order consequential upon an order for sale or partition or a foreclosure order, the time for stamping shall be before the order is signed by the Registrar and the persons liable shall be the persons obtaining the order
 
@@ -42,13 +82,17 @@ Note 3 In the case of a foreclosure order, the stamp duty chargeable thereon sha
 
 Note 4 A foreclosure order shall not be duly stamped unless the Collector has stamped it under section 13(3)(b)
 
-Note 5 In the case of a conveyance on sale of residential property executed after a chargeable agreement for sale has been made in respect of that property, this sub-head is subject to section 29D (Added 8 of 1992 s. 6)
+Note 5 In the case of a conveyance on sale of immovable property executed after a chargeable agreement for sale has been made in respect of that property, this sub-head is subject to section 29D (Added 8 of 1992 s. 6. Amended 14 of 2014 s. 28)
 
-Note 6 (Repealed 33 of 1998 s. 11) Exchange, Instruments effecting-see section 25(7)
+Note 6 (Repealed 33 of 1998 s. 11)
+
+Note 7 This sub-head is subject to sections 29DE, 29DF, 29DG and 29DH (Added 14 of 2014 s. 28)
+
+Exchange, Instruments effecting—see sections 25(7), 29AO and 29AP (Replaced 14 of 2014 s. 28)
 
 (1AA) CONVEYANCE ON SALE CHARGEABLE WITH SPECIAL STAMP DUTY Part 1—for residential property acquired on or after 20 November 2010 but before 27 October 2012 (Added 2 of 2014 s. 20)
 
-(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) (a) 15% of the amount or value of the consideration
+(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A)(a) 15% of the amount or value of the consideration
 
 (b) if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) 10% of the amount or value of the consideration
 
@@ -58,7 +102,7 @@ Note 6 (Repealed 33 of 1998 s. 11) Exchange, Instruments effecting-see section 2
 
 Part 2—for residential property acquired on or after 27 October 2012
 
-(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) (a) 20% of the amount or value of the consideration
+(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A)(a) 20% of the amount or value of the consideration
 
 (b) if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) 15% of the amount or value of the consideration
 
@@ -78,9 +122,39 @@ Note 1 This sub-head is subject to sections 29D and 29DA Note 2 (a) If only part
 
 Note This sub-head is subject to sections 29D, 29DB and 29DC (Added 2 of 2014 s. 20)
 
-(1A) AGREEMENT FOR SALE
+(1A) AGREEMENT FOR SALE CHARGEABLE WITH AD VALOREM STAMP DUTY (Amended 14 of 2014 s. 28)
 
-(a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (A) (a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
+SCALE 1—
+
+(a) if the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (A)(a) 1.5% of the amount or value of the consideration
+
+(b) if the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,176,470 and the instrument is certified in accordance with section 29G at $2,176,470 | (b) $30,000 plus 20% of the amount by which the amount or value of the consideration exceeds $2,000,000
+
+(c) if the amount or value of the consideration exceeds $2,176,470 but does not exceed $3,000,000 and the instrument is certified in accordance with section 29G at $3,000,000 | (c) 3% of the amount or value of the consideration
+
+(d) if the amount or value of the consideration exceeds $3,000,000 but does not exceed $3,290,330 and the instrument is certified in accordance with section 29G at $3,290,330 | (d) $90,000 plus 20% of the amount by which the amount or value of the consideration exceeds $3,000,000
+
+(e) if the amount or value of the consideration exceeds $3,290,330 but does not exceed $4,000,000 and the instrument is certified in accordance with section 29G at $4,000,000 | (e) 4.5% of the amount or value of the consideration
+
+(f) if the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,428,580 and the instrument is certified in accordance with section 29G at $4,428,580 | (f) $180,000 plus 20% of the amount by which the amount or value of the consideration exceeds $4,000,000
+
+(g) if the amount or value of the consideration exceeds $4,428,580 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29G at $6,000,000 | (g) 6% of the amount or value of the consideration
+
+(h) if the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29G at $6,720,000 | (h) $360,000 plus 20% of the amount by which the amount or value of the consideration exceeds $6,000,000
+
+(i) if the amount or value of the consideration exceeds $6,720,000 but does not exceed $20,000,000 and the instrument is certified in accordance with section 29G at $20,000,000 | (i) 7.5% of the amount or value of the consideration
+
+(j) if the amount or value of the consideration exceeds $20,000,000 but does not exceed $21,739,130 and the instrument is certified in accordance with section 29G at $21,739,130 | (j) $1,500,000 plus 20% of the amount by which the amount or value of the consideration exceeds $20,000,000
+
+(k) in any other case (Added 14 of 2014 s. 28) | (k) 8.5% of the amount or value of the consideration
+
+(B) 30 days after the relevant date (within the meaning of section 29B(3)); but see Notes 2 and 3 to this sub-head
+
+(C) All parties except a party who on the relevant date (within the meaning of section 29B(3)) does not know that the agreement affects that party, and all other persons executing; but see Note 7 to this sub-head
+
+SCALE 2— (Added 14 of 2014 s. 28)
+
+(a) where the amount or value of the consideration does not exceed $2,000,000 and the instrument is certified in accordance with section 29G at $2,000,000 | (A)(a) $100 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
 
 (b) where the amount or value of the consideration exceeds $2,000,000 but does not exceed $2,351,760 and the instrument is certified in accordance with section 29G at $2,351,760 | (b) $100 plus 10% of the amount by which the amount or value of the consideration exceeds $2,000,000 (Replaced L.N. 32 of 2007 and 13 of 2007 s. 3)
 
@@ -92,19 +166,27 @@ Note This sub-head is subject to sections 29D, 29DB and 29DC (Added 2 of 2014 s.
 
 (f) where the amount or value of the consideration exceeds $4,000,000 but does not exceed $4,428,570 and the instrument is certified in accordance with section 29G at $4,428,570 | (f) $90,000 plus 10% of the amount by which the amount or value of the consideration exceeds $4,000,000 (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3)
 
-(g) where the amount or value of the consideration exceeds $4,428,570 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29G at $6,000,000 (h) where the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29G at $6,720,000 | (g) 3% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3) (h) $180,000 plus 10% of the amount by which the amount or value of the consideration exceeds $6,000,000 (Added L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3)
+(g) where the amount or value of the consideration exceeds $4,428,570 but does not exceed $6,000,000 and the instrument is certified in accordance with section 29G at $6,000,000 | (g) 3% of the amount or value of the consideration (Replaced L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3)
+
+(h) where the amount or value of the consideration exceeds $6,000,000 but does not exceed $6,720,000 and the instrument is certified in accordance with section 29G at $6,720,000 | (h) $180,000 plus 10% of the amount by which the amount or value of the consideration exceeds $6,000,000 (Added L.N. 90 of 1999 and 44 of 1999 s. 22. Amended L.N. 32 of 2007 and 13 of 2007 s. 3)
 
 (i) where the amount or value of the consideration exceeds $6,720,000 but does not exceed $20,000,000 and the instrument is certified in accordance with section 29G at $20,000,000 | (i) 3.75% of the amount or value of the consideration (Replaced L.N. 18 of 2010 and 16 of 2010 s. 4)
 
 (j) where the amount or value of the consideration exceeds $20,000,000 but does not exceed $21,739,120 and the instrument is certified in accordance with section 29G at $21,739,120 | (j) $750,000 plus 10% of the amount by which the amount or value of the consideration exceeds $20,000,000 (Added L.N. 18 of 2010 and 16 of 2010 s. 4)
 
-(k) in any other case | (k) 4.25% of the amount or value of the consideration (Added L.N. 18 of 2010 and 16 of 2010 s. 4) *(B) 30 days after the relevant date (within the meaning of section 29B(3)); but see Notes 2 and 3 to this sub-head (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; 14 of 2011 s. 15)
+(k) in any other case | (k) 4.25% of the amount or value of the consideration (Added L.N. 18 of 2010 and 16 of 2010 s. 4)
 
-(C) All parties except a party who on the relevant date (within the meaning of section 29B(3)) does not know that the agreement affects him, and all other persons executing (Replaced 36 of 1994 s. 3)
+*(B) 30 days after the relevant date (within the meaning of section 29B(3)); but see Notes 2 and 3 to this sub-head (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; 14 of 2011 s. 15)
+
+(C) All parties except a party who on the relevant date (within the meaning of section 29B(3)) does not know that the agreement affects him, and all other persons executing; but see Note 7 to this sub-head (Replaced 36 of 1994 s. 3. Amended 14 of 2014 s. 28)
 
 And see section 4 and Part IIIA
 
-Note 1 This sub-head does not apply to an agreement for sale in respect of non-residential property (see section 29A(5))
+Note 1 This sub-head applies to an agreement for sale according to section 29BA (Replaced 14 of 2014 s. 28)
+
+Note 1A Scale 2 of this sub-head applies in relation to the stamp duty chargeable on an agreement for sale if it is shown to the satisfaction of the Collector that—
+
+(a) the agreement is an instrument which, if implemented, would be implemented by a conveyance on sale; and (b) the conveyance on sale would, by the operation of Note 1B to sub-head (1), be chargeable with stamp duty under Scale 2 of sub-head (1) (Added 14 of 2014 s. 28)
 
 Note 2 If, within the first 14 days of the time for stamping, an agreement for sale is superseded by another agreement for sale made between the same parties and on the same terms, executed in accordance with section 29B(1), and containing the matters specified in section 29B(5)— (aa) for the purposes of Part IIIA and this sub-head, the second-mentioned agreement is deemed to be made on the relevant date (within the meaning of section 29B(3)); (Added L.N. 90 of 1999 and 44 of 1999 s. 22) *(a) notwithstanding paragraph (aa), the time for stamping the second-mentioned agreement is not later than 30 days after it was executed; and (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; 14 of 2011 s. 15) *(b) if the second-mentioned agreement is duly stamped or stamped under section 5(1), 13(2) or 18E(1), the obligation to stamp any preceding agreement between the same parties and on the same terms is discharged (Amended L.N. 90 of 1999 and 44 of 1999 s. 22; 21 of 2003 s. 25; 14 of 2011 s. 15)
 
@@ -112,13 +194,19 @@ Note 2 If, within the first 14 days of the time for stamping, an agreement for s
 
 Note 4 Where 2 agreements for sale are made in respect of the same, or part of the same, property and involve a common purchaser (but are not made between the same parties), this sub-head is subject to section 29C(5)
 
-Note 5 For the purposes of Notes 2, 3 and 4, a person and a parent, spouse or child of that person shall be treated as the same person (Added 8 of 1992 s. 6) Note 6 (Repealed 33 of 1998 s. 11)
+Note 5 For the purposes of Notes 2, 3 and 4, and if the immovable property concerned is residential property, 2 or more persons are treated as the same person if, on the date of the agreement made between those persons—
+
+(a) they are closely related; (b) each of them is acting on his or her own behalf; and (c) each of them is not a beneficial owner of any other residential property in Hong Kong (Replaced 14 of 2014 s. 28)
+
+Note 6 (Repealed 33 of 1998 s. 11)
+
+Note 7 This sub-head is subject to sections 29D, 29DE, 29DF, 29DG and 29DH (Added 14 of 2014 s. 28)
 
 (1B) AGREEMENT FOR SALE CHARGEABLE WITH SPECIAL STAMP DUTY
 
 Part 1—for residential property acquired on or after 20 November 2010 but before 27 October 2012 (Added 2 of 2014 s. 20)
 
-(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) (a) 15% of the amount or value of the consideration
+(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A)(a) 15% of the amount or value of the consideration
 
 (b) if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) 10% of the amount or value of the consideration
 
@@ -130,13 +218,13 @@ Part 1—for residential property acquired on or after 20 November 2010 but befo
 
 Part 2—for residential property acquired on or after 27 October 2012
 
-(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A) (a) 20% of the amount or value of the consideration
+(a) if the residential property is disposed of within a period of 6 months beginning on the day on which it was acquired | (A)(a) 20% of the amount or value of the consideration
 
 (b) if the residential property is disposed of within a period of 12 months beginning on the day on which it was acquired, but after the expiry of a period of 6 months beginning on that day | (b) 15% of the amount or value of the consideration
 
-(c) if the residential property is disposed of within a period of 36 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day | (c) 10% of the amount or value of the consideration
+(c) if the residential property is disposed of within a period of 36 months beginning on the day on which it was acquired, but after the expiry of a period of 12 months beginning on that day (Added 2 of 2014 s. 20) | (c) 10% of the amount or value of the consideration
 
-(Added 2 of 2014 s. 20) | (B) The same time as that which applies to an agreement for sale specified under sub-head (1A)
+(B) The same time as that which applies to an agreement for sale specified under sub-head (1A)
 
 (C) The same parties as those who are liable in respect of an agreement for sale specified under sub-head (1A)
 
@@ -144,15 +232,15 @@ Note 1 This sub-head is subject to sections 29C and 29CA Note 2 (a) If only part
 
 (b) If different parts of the residential property are disposed of within different periods specified in the first column of this sub-head, the special stamp duty chargeable in respect of any of those parts under this sub-head is the percentage (specified opposite to the period applicable to that part) of the amount or value of the consideration for that part as indicated by the parties to the agreement concerned to the Collector (part consideration), and the special stamp duty chargeable in respect of the property under this sub-head is the total of the special stamp duty chargeable in respect of those parts
 
-(c) If the Collector is of the opinion that the part consideration does not represent the value of the part concerned, the Collector may substitute that value for the part consideration for the purpose of the calculation of special stamp duty chargeable under this sub-head Note 3 A nomination made, or a direction given, by a purchaser as referred to in paragraph (h) of the definition of agreement for sale in section 29A(1) in favour of one, or more than one, person who is a parent, spouse, child, brother or sister of the purchaser (whether or not also in favour of the purchaser) is not chargeable with special stamp duty Note 4 The Notes to head 1(1A) apply to special stamp duty chargeable under this sub-head as they apply to stamp duty chargeable under head 1(1A); but a person and a brother or sister of that person are also to be treated as the same person for the purposes of special stamp duty (Added 14 of 2011 s. 15)
+(c) If the Collector is of the opinion that the part consideration does not represent the value of the part concerned, the Collector may substitute that value for the part consideration for the purpose of the calculation of special stamp duty chargeable under this sub-head Note 3 (Repealed 14 of 2014 s. 28) Note 4 Notes 2, 3 and 4 to head 1(1A) apply to special stamp duty chargeable on an agreement for sale of residential property under this sub-head as they apply to stamp duty chargeable under head 1(1A); and for the purposes of applying those Notes to special stamp duty, 2 or more persons are treated as the same person if they are closely related (Replaced 14 of 2014 s. 28) (Added 14 of 2011 s. 15)
 
 (1C) AGREEMENT FOR SALE CHARGEABLE WITH BUYER’S STAMP DUTY | (A) 15% of the amount or value of the consideration (B) The same time as that which applies to an agreement for sale specified under sub-head (1A) (C) The purchaser
 
 Note 1 This sub-head is subject to sections 29C, 29CB and 29CC
 
-Note 2 A nomination made, or a direction given, by a purchaser as referred to in paragraph (h) of the definition of agreement for sale in section 29A(1) in favour of one, or more than one, person who is a parent, spouse, child, brother or sister of the purchaser (whether or not also in favour of the purchaser) is not chargeable with buyer’s stamp duty
+Note 2 (Repealed 14 of 2014 s. 28)
 
-Note 3 The Notes to head 1(1A) apply to buyer’s stamp duty chargeable under this sub-head as they apply to stamp duty chargeable under head 1(1A); but a person and a brother or sister of that person are also to be treated as the same person for the purposes of buyer’s stamp duty (Added 2 of 2014 s. 20)
+Note 3 Notes 2, 3 and 4 to head 1(1A) apply to buyer’s stamp duty chargeable on an agreement for sale of residential property under this sub-head as they apply to stamp duty chargeable under head 1(1A); and for the purposes of applying those Notes to buyer’s stamp duty, 2 or more persons are treated as the same person if they are closely related (Replaced 14 of 2014 s. 28) (Added 2 of 2014 s. 20)
 
 (2) LEASE
 
@@ -160,7 +248,7 @@ Note 3 The Notes to head 1(1A) apply to buyer’s stamp duty chargeable under th
 
 (b) where the consideration or any part of the consideration is any rent
 
-(i) where the term is not defined or is uncertain; | (A) (i) 25 cents for every $100 or part thereof of the yearly or average yearly rent
+(i) where the term is not defined or is uncertain; | (A)(i) 25 cents for every $100 or part thereof of the yearly or average yearly rent
 
 (ii) where the term specified in the lease does not exceed one year; | (ii) 25 cents for every $100 or part thereof of the total rent payable over the term of the lease
 
