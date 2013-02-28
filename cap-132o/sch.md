@@ -124,7 +124,7 @@
 
 - 61. 9 Wan Lung Road, Tseung Kwan O. (L.N. 138 of 2001)
 
-- 62. Shop Nos. 101-102, First floor, Kingswood Ginza, Phase 2, 18 Tin Yan Road, Tin Shui Wai, Yuen Long. (L.N. 192 of 2001)
+- 62. (Repealed L.N. 1 of 2013)
 
 - 63. The second floor, 9 Wo Mun Street, Fanling. (L.N. 243 of 2002)
 
@@ -142,6 +142,6 @@
 
 - 70. Parts of the ground and mezzanine floors of Siu Sai Wan Complex, 15 Siu Sai Wan Road, Chai Wan, shown in green on the floor plans numbered AB/5744/GP121 and AB/5744/GP122, signed by the Director of Leisure and Cultural Services on 21 April 2011 and deposited in the Hong Kong Central Library. (L.N. 98 of 2011)
 
-- 71. The Students’ Study Room on the first floor of the High Block of Ping Shan Tin Shui Wai Leisure and Cultural Building, 1 Tsui Sing Road, Tin Shui Wai, Yuen Long. (L.N. 150 of 2012)
+- 71. The ground to seventh floors of the High Block of Ping Shan Tin Shui Wai Leisure and Cultural Building, 1 Tsui Sing Road, Tin Shui Wai, Yuen Long. (L.N. 150 of 2012; L.N. 1 of 2013)
 
 - 72. The Students’ Study Room on the fifth floor of Lam Tin Complex, 1 Hing Tin Street, Lam Tin, Kwun Tong. (L.N. 150 of 2012) (Schedule replaced 78 of 1999 s. 7)
