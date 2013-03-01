@@ -26,6 +26,8 @@ Item | Article | Country or place
 
 8. | Any article that has as its part any chemical to which section 7 of the Hazardous Chemicals Control Ordinance (Cap. 595) applies under section 3 of that Ordinance. | All places outside Hong Kong. (19 of 2007 s. 52)
 
+9. | Powdered formula. | All places outside Hong Kong. (L.N. 25 of 2013)
+
 - Part 2
 
 Item | Article | Country or place
