@@ -18,17 +18,11 @@ Fees Payable for Carrier Licences
 
       - (i) $50 for every 1 kHz or part thereof of frequency then assigned below 1 GHz;
 
-      - (ii) $(50-4F) for every 1 kHz or part thereof of frequency then assigned within
+      - (ii) $(50-4F) for every 1 kHz or part thereof of frequency then assigned within 1 GHz to 10.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;
 
-    - 1 GHz to 10.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;
+      - (iii) $(20-F) for every 1 kHz or part thereof of frequency then assigned within 11 GHz to 18.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;
 
-      - (iii) $(20-F) for every 1 kHz or part thereof of frequency then assigned within
-
-      - 11 GHz to 18.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;
-
-      - (iv) $1 for every 1 kHz or part thereof of frequency then assigned at or above
-
-      - 19 GHz;
+      - (iv) $1 for every 1 kHz or part thereof of frequency then assigned at or above 19 GHz;
 
     - (b) where any part of the radio frequency is assigned to the licensee on a non-exclusive or shared basis, the fee calculated in accordance with the formula set out in paragraph (a) shall be proportionally reduced by a reduction factor—
 
@@ -36,7 +30,27 @@ Fees Payable for Carrier Licences
 
       - (ii) determined on the date on which the fee is payable.
 
-  - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands— 6.765 - 6.795 MHz 13.553 - 13.567 MHz 26.957 - 27.283 MHz 40.66 - 40.7 MHz 2400 - 2500 MHz 5.725 - 5.875 GHz 24.0 - 24.25 GHz 61 - 61.5 GHz 122 - 123 GHz 244 - 246 GHz
+  - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands—
+
+  - 6.765 | — | 6.795 MHz
+
+  - 13.553 | — | 13.567 MHz
+
+  - 26.957 | — | 27.283 MHz
+
+  - 40.66 | — | 40.7 MHz
+
+  - 2400 | — | 2500 MHz
+
+  - 5.725 | — | 5.875 GHz
+
+  - 24.0 | — | 24.25 GHz
+
+  - 61 | — | 61.5 GHz
+
+  - 122 | — | 123 GHz
+
+  - 244 | — | 246 GHz
 
 - Part 2 Fixed Carrier (Restricted) Licences
 
@@ -50,17 +64,11 @@ Fees Payable for Carrier Licences
 
       - (i) $50 for every 1 kHz or part thereof of frequency then assigned below 1 GHz;
 
-      - (ii) $(50-4F) for every 1 kHz or part thereof of frequency then assigned within
+      - (ii) $(50-4F) for every 1 kHz or part thereof of frequency then assigned within 1 GHz to 10.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;
 
-    - 1 GHz to 10.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;
+      - (iii) $(20-F) for every 1 kHz or part thereof of frequency then assigned within 11 GHz to 18.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;
 
-      - (iii) $(20-F) for every 1 kHz or part thereof of frequency then assigned within
-
-      - 11 GHz to 18.999 GHz, where F is the frequency rounded down to the nearest GHz in the band then assigned;
-
-      - (iv) $1 for every 1 kHz or part thereof of frequency then assigned at or above
-
-      - 19 GHz;
+      - (iv) $1 for every 1 kHz or part thereof of frequency then assigned at or above 19 GHz;
 
     - (b) where any part of the radio frequency is assigned to the licensee on a non-exclusive or shared basis, the fee calculated in accordance with the formula set out in paragraph (a) shall be proportionally reduced by a reduction factor—
 
@@ -68,7 +76,27 @@ Fees Payable for Carrier Licences
 
       - (ii) determined on the date on which the fee is payable.
 
-  - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands— 6.765 - 6.795 MHz 13.553 - 13.567 MHz 26.957 - 27.283 MHz 40.66 - 40.7 MHz 2400 - 2500 MHz 5.725 - 5.875 GHz 24.0 - 24.25 GHz 61 - 61.5 GHz 122 - 123 GHz 244 - 246 GHz
+  - 4. No fee is payable under section 3 for the management of radio frequency within any of the following frequency bands—
+
+  - 6.765 | — | 6.795 MHz
+
+  - 13.553 | — | 13.567 MHz
+
+  - 26.957 | — | 27.283 MHz
+
+  - 40.66 | — | 40.7 MHz
+
+  - 2400 | — | 2500 MHz
+
+  - 5.725 | — | 5.875 GHz
+
+  - 24.0 | — | 24.25 GHz
+
+  - 61 | — | 61.5 GHz
+
+  - 122 | — | 123 GHz
+
+  - 244 | — | 246 GHz
 
 - Part 3 Mobile Carrier Licences Other Than Mobile
 
@@ -76,7 +104,7 @@ Fees Payable for Carrier Licences
 
   - 1. The annual fee payable on the issue and on the anniversary of the issue of a mobile carrier licence (excluding a mobile carrier (restricted) licence) in each year while the licence remains in force shall be the sum of—
 
-  - (a) | for the 1st to the 50th base station installed for the service | $1,000 per base
+  - (a) | for the 1st to the 50th base station installed for the service | $1,000 per base station
 
   - (b) | for the 51st to the 100th base station installed for the service | $500 per base station
 
@@ -116,7 +144,7 @@ Fees Payable for Carrier Licences
 
   - 1. A fee of $1,000,000 shall be payable on the issue of a unified carrier licence and, in each subsequent year while the licence remains in force, on the anniversary of the issue of the licence. If the licence permits the provision of external services only, or of radiocommunications services (where moving stations are primarily for use in locations other than on land) only, or of these two types of services only, the fee is $100,000.
 
-  - 2. A fee of $800 shall be payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, for each 100 customer connections, made by telecommunications line or radiocommunications means, to the network established and maintained under the licence. For the purposes of this section, a customer connection shall be any network termination point provided by the licensee and as identified by the Authority for connection of customer equipment to the network, and a network termination point shall include any subscriber identification module used by a customer, and any other device or interface, used for connection to the network. If the licence permits the provision of external services only, or of radiocommunications services (where moving stations are primarily for use in locations other than on land) only, or of these two types of services only, no such fee is payable.
+  - 2. A fee of $700 shall be payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, for each 100 customer connections, made by telecommunications line or radiocommunications means, to the network established and maintained under the licence. For the purposes of this section, a customer connection shall be any network termination point provided by the licensee and as identified by the Authority for connection of customer equipment to the network, and a network termination point shall include any subscriber identification module used by a customer, and any other device or interface, used for connection to the network. If the licence permits the provision of external services only, or of radiocommunications services (where moving stations are primarily for use in locations other than on land) only, or of these two types of services only, no such fee is payable. (L.N. 188 of 2012)
 
   - 3. A fee of $3 shall be payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, for each subscriber number allocated to the licensee that is not ported out from the licensee’s network or assigned, as authorized by the Authority, to another licensee (who has made payment of the licence fee for such number under its licence) and for each subscriber number allocated to another licensee that is ported in to the licensee’s network. For the purposes of this section, a subscriber number is a number in the numbering plan within numbering blocks allocated by the Authority to a licensee, which number may be assigned by the licensee to its customer for use of a telecommunications service.
 
@@ -128,11 +156,11 @@ Fees Payable for Carrier Licences
 
   - shall be payable on the issue of a unified carrier licence and on each anniversary of the issue of the licence while the licence remains in force, calculated as follows—
 
-  - (c) for the 1st to the 50th base station installed for the service | $1,000 per base station
+  - (c) | for the 1st to the 50th base station installed for the service | $1,000 per base station
 
-  - (d) for the 51st to the 100th base station installed for the service | $500 per base station
+  - (d) | for the 51st to the 100th base station installed for the service | $500 per base station
 
-  - (e) for the 101st base station installed for the service and any additional base stations | $100 per base station
+  - (e) | for the 101st base station installed for the service and any additional base stations | $100 per base station
 
   - For the purpose of determining the fees payable under this section, the number of stations shall be those authorized or in service at the time when the unified carrier licence concerned is issued or on the anniversary of the issue.
 
@@ -154,22 +182,26 @@ Fees Payable for Carrier Licences
 
       - (ii) determined on the date on which the fee is payable.
 
-  - 6. No fee is payable under section 5 for the management of radio frequency within any of the following frequency bands— 6.765 – 6.795 MHz
+  - 6. No fee is payable under section 5 for the management of radio frequency within any of the following frequency bands—
 
-  - 13.553 – 13.567 MHz
+  - 6.765 | — | 6.795 MHz
 
-  - 26.957 – 27.283 MHz
+  - 13.553 | — | 13.567 MHz
 
-  - 40.66 – 40.7 MHz
+  - 26.957 | — | 27.283 MHz
 
-  - 2400 – 2500 MHz
+  - 40.66 | — | 40.7 MHz
 
-  - 5.725 – 5.875 GHz
+  - 2400 | — | 2500 MHz
 
-  - 24.0 – 24.25 GHz
+  - 5.725 | — | 5.875 GHz
 
-  - 61 – 61.5 GHz
+  - 24.0 | — | 24.25 GHz
 
-  - 122 – 123 GHz
+  - 61 | — | 61.5 GHz
 
-  - 244 – 246 GHz (Part 6 added L.N. 132 of 2008)
+  - 122 | — | 123 GHz
+
+  - 244 | — | 246 GHz
+
+  - (Part 6 added L.N. 132 of 2008)
