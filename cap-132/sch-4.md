@@ -110,6 +110,8 @@ Caine Road Garden
 
 Caine Road Sitting-out Area
 
+Cape Collinson Road Sitting-out Area
+
 Catchick Street Garden
 
 Causeway Bay Sports Ground
@@ -984,6 +986,8 @@ Hiu Ming Street Playground
 
 Ho Man Tin East Service Reservoir Playground
 
+Ho Man Tin East Sitting-out Area
+
 Ho Man Tin High Level Service Reservoir Playground
 
 Ho Man Tin Hill Road Rest Garden
@@ -1218,8 +1222,6 @@ Lok Wah Street Playground
 
 Lomond Road Garden
 
-Lower Ngau Tau Kok Estate Playground No. 8
-
 Luen Wan Street Sitting-out Area
 
 Lung Cheung Road Bauhinia Garden
@@ -1271,8 +1273,6 @@ Mei Foo Sun Chuen Bus Terminus Amenity Plot
 Middle Road Children’s Playground
 
 Mody Road Garden
-
-Mong Kok Market Children’s Playground
 
 Mong Kok Road Playground
 
@@ -1489,6 +1489,8 @@ Shun Lee Tsuen Road Lookout
 Shun Lee Tsuen Sports Centre
 
 Shun Ning Road Recreation Ground
+
+Shun On Road Sitting-out Area
 
 Shung Ling Street Playground
 
@@ -1784,6 +1786,8 @@ Chung Uk Children’s Playground
 
 Chung Uk Tsuen Playground
 
+Chung Wai Street Children’s Playground
+
 Chung Yat Street Soccer Pitch
 
 Circle Park
@@ -1938,6 +1942,8 @@ Hung Mui Kuk Road Playground
 
 Hung Shing Temple Children’s Playground, Cheung Chau
 
+Hung Tai Road Sitting-out Area
+
 Hung Tak Road Sitting-out Area
 
 Hung Uk Tsuen Playground
@@ -2001,6 +2007,8 @@ Keung Yip Street Rest Garden
 Ki Lun Kong Public Park
 
 Kik Yeung Road 5-a-side Football Pitch
+
+Kin Tak Street Basketball Court
 
 Kin Tak Street Playground
 
@@ -2448,6 +2456,8 @@ Sai Lau Kok Garden
 
 Sai Lau Kok Tsuen Children’s Playground
 
+Sai Tai Road Fitness Corner
+
 Sam Mun Tsai Children’s Playground
 
 Sam Pei Square Playground
@@ -2828,6 +2838,8 @@ Tai Po Tsai Rest Garden
 
 Tai Po Waterfront Park
 
+Tai San Back Street Sitting-out Area
+
 Tai Sang Wai Playground
 
 Tai Shek Hau Tin Hau Temple Sitting-out Area, Cheung Chau
@@ -2937,6 +2949,8 @@ Tong Fong Sitting-out Area
 Tong Fuk Playground, Lantau
 
 Tong Hang Playground
+
+Tong Ming Street Park
 
 Tong Ming Street Sitting-out Area
 
@@ -3282,6 +3296,8 @@ Yuen Wo Playground
 
 Yuen Wo Road Sports Centre
 
+Yuk Nga Lane Community Garden
+
 Yung Shue Tsuen Children’s Playground
 
 Yung Shue Wan Basketball Court, North Lamma
@@ -3380,4 +3396,4 @@ Trio Beach
 
 Upper Cheung Sha Beach
 
-(Amended G.N.A. 135 of 1960; G.N.A. 114 of 1961; G.N.A. 4 of 1962; L.N. 27 of 1967; L.N. 155 of 1967; L.N. 121 of 1968; L.N. 38 of 1969; L.N. 38 of 1970; L.N. 179 of 1970; L.N. 38 of 1972; L.N. 84 of 1973; L.N. 1 of 1975; L.N. 67 of 1975; L.N. 10 of 1977; L.N. 50 of 1977; L.N. 226 of 1977; L.N. 283 of 1977; L.N. 24 of 1978; L.N. 110 of 1978; L.N. 143 of 1978; L.N. 221 of 1978; L.N. 261 of 1978; L.N. 267 of 1978; L.N. 142 of 1979; L.N. 162 of 1979; L.N. 206 of 1979; L.N. 302 of 1979; L.N. 303 of 1979; L.N. 50 of 1980; L.N. 88 of 1980; L.N. 162 of 1980; L.N. 193 of 1980; L.N. 382 of 1980; L.N. 180 of 1981; L.N. 265 of 1981; L.N. 399 of 1981; L.N. 23 of 1982; L.N. 38 of 1982; L.N. 84 of 1982; L.N. 95 of 1982; L.N. 96 of 1982; L.N. 138 of 1982; L. N. 168 of 1982; L.N. 319 of 1982; L.N. 324 of 1982; L.N. 336 of 1982; L.N. 338 of 1982; L.N. 348 of 1982; L.N. 381 of 1982; L.N. 396 of 1982; L.N. 34 of 1983; L.N. 41 of 1983; L.N. 120 of 1983; L.N. 308 of 1983; L.N. 394 of 1983; L.N. 207 of 1984; L.N. 359 of 1984; L.N. 407 of 1984; L.N. 191 of 1985; L.N. 276 of 1985; L.N. 326 of 1985; L.N. 356 of 1985; L.N. 68 of 1986; L.N. 77 of 1986; 10 of 1986 s. 26; L.N. 164 of 1986; L.N. 279 of 1986; L.N. 321 of 1986; L.N. 109 of 1987; L.N. 212 of 1987; L.N. 244 of 1987; L.N. 283 of 1987; L.N. 352 of 1987; L.N. 410 of 1987; L.N. 425 of 1987; L.N. 91 of 1988; L.N. 120 of 1988; L.N. 170 of 1988; L.N. 180 of 1988; L.N. 271 of 1988; L.N. 277 of 1988; L.N. 359 of 1988; L.N. 52 of 1989; L.N. 108 of 1989; L.N. 147 of 1989; L.N. 229 of 1989; L.N. 324 of 1989; L.N. 332 of 1989; L.N. 408 of 1989; L.N. 3 of 1990; L.N. 89 of 1990; L.N. 114 of 1990; L.N. 197 of 1990; L.N. 228 of 1990; L.N. 308 of 1990; L.N. 326 of 1990; L.N. 1 of 1991; L.N. 20 of 1991; L.N. 145 of 1991; L.N. 146 of 1991; L.N. 260 of 1991; L.N. 274 of 1991; L.N. 372 of 1991; L.N. 382 of 1991; L.N. 461 of 1991; L.N. 13 of 1992; L.N. 52 of 1992; L.N. 95 of 1992; L.N. 109 of 1992; L.N. 229 of 1992; L.N. 260 of 1992; L.N. 322 of 1992; L.N. 336 of 1992; L.N. 4 of 1993; L.N. 98 of 1993; L.N. 161 of 1993; L.N. 264 of 1993; L.N. 369 of 1993; L.N. 395 of 1993; L.N. 468 of 1993; L.N. 494 of 1993; L.N. 71 of 1994; L.N. 206 of 1994; L.N. 231 of 1994; L.N. 424 of 1994; L.N. 445 of 1994; L.N. 536 of 1994; L.N. 628 of 1994; L.N. 16 of 1995; L.N. 108 of 1995; L.N. 149 of 1995; L.N. 342 of 1995; L.N. 343 of 1995; L.N. 460 of 1995; L.N. 535 of 1995; L.N. 26 of 1996; L.N. 181 of 1996; L.N. 216 of 1996; L.N. 334 of 1996; L.N. 390 of 1996; L.N. 424 of 1996; L.N. 488 of 1996; L.N. 560 of 1996; L.N. 134 of 1997; L.N. 156 of 1997; L.N. 389 of 1997; L.N. 444 of 1997; L.N. 460 of 1997; L.N. 616 of 1997; L.N. 626 of 1997; L.N. 225 of 1998; L.N. 273 of 1998; L.N. 316 of 1998; L.N. 326 of 1998; L.N. 355 of 1998; L.N. 9 of 1999; L.N. 48 of 1999; L.N. 49 of 1999; L.N. 94 of 1999; L.N. 170 of 1999; L.N. 255 of 1999; L.N. 260 of 1999; L.N. 303 of 1999; 78 of 1999 s. 7; L.N. 360 of 2000; L.N. 31 of 2002; L.N. 29 of 2003; L.N. 143 of 2003; L.N. 204 of 2003; L.N. 265 of 2003; L.N. 22 of 2004; L.N. 142 of 2004; L.N. 77 of 2005; L.N. 133 of 2005; L.N. 223 of 2005; L.N. 57 of 2006; L.N. 183 of 2006; L.N. 246 of 2006; L.N. 58 of 2007; L.N. 177 of 2007; L.N. 2 of 2008; L.N. 15 of 2008; L.N. 68 of 2008; L.N. 263 of 2008; L.N. 11 of 2009; L.N. 125 of 2009; L.N. 185 of 2009; L.N. 40 of 2010; L.N. 165 of 2010; L.N. 93 of 2011; L.N. 13 of 2012; L.N. 108 of 2012; L.N. 109 of 2012; E.R. 2 of 2012) (Format changes—E.R. 1 of 2012)
+(Amended G.N.A. 135 of 1960; G.N.A. 114 of 1961; G.N.A. 4 of 1962; L.N. 27 of 1967; L.N. 155 of 1967; L.N. 121 of 1968; L.N. 38 of 1969; L.N. 38 of 1970; L.N. 179 of 1970; L.N. 38 of 1972; L.N. 84 of 1973; L.N. 1 of 1975; L.N. 67 of 1975; L.N. 10 of 1977; L.N. 50 of 1977; L.N. 226 of 1977; L.N. 283 of 1977; L.N. 24 of 1978; L.N. 110 of 1978; L.N. 143 of 1978; L.N. 221 of 1978; L.N. 261 of 1978; L.N. 267 of 1978; L.N. 142 of 1979; L.N. 162 of 1979; L.N. 206 of 1979; L.N. 302 of 1979; L.N. 303 of 1979; L.N. 50 of 1980; L.N. 88 of 1980; L.N. 162 of 1980; L.N. 193 of 1980; L.N. 382 of 1980; L.N. 180 of 1981; L.N. 265 of 1981; L.N. 399 of 1981; L.N. 23 of 1982; L.N. 38 of 1982; L.N. 84 of 1982; L.N. 95 of 1982; L.N. 96 of 1982; L.N. 138 of 1982; L N. 168 of 1982; L.N. 319 of 1982; L.N. 324 of 1982; L.N. 336 of 1982; L.N. 338 of 1982; L.N. 348 of 1982; L.N. 381 of 1982; L.N. 396 of 1982; L.N. 34 of 1983; L.N. 41 of 1983; L.N. 120 of 1983; L.N. 308 of 1983; L.N. 394 of 1983; L.N. 207 of 1984; L.N. 359 of 1984; L.N. 407 of 1984; L.N. 191 of 1985; L.N. 276 of 1985; L.N. 326 of 1985; L.N. 356 of 1985; L.N. 68 of 1986; L.N. 77 of 1986; 10 of 1986 s. 26; L.N. 164 of 1986; L.N. 279 of 1986; L.N. 321 of 1986; L.N. 109 of 1987; L.N. 212 of 1987; L.N. 244 of 1987; L.N. 283 of 1987; L.N. 352 of 1987; L.N. 410 of 1987; L.N. 425 of 1987; L.N. 91 of 1988; L.N. 120 of 1988; L.N. 170 of 1988; L.N. 180 of 1988; L.N. 271 of 1988; L.N. 277 of 1988; L.N. 359 of 1988; L.N. 52 of 1989; L.N. 108 of 1989; L.N. 147 of 1989; L.N. 229 of 1989; L.N. 324 of 1989; L.N. 332 of 1989; L.N. 408 of 1989; L.N. 3 of 1990; L.N. 89 of 1990; L.N. 114 of 1990; L.N. 197 of 1990; L.N. 228 of 1990; L.N. 308 of 1990; L.N. 326 of 1990; L.N. 1 of 1991; L.N. 20 of 1991; L.N. 145 of 1991; L.N. 146 of 1991; L.N. 260 of 1991; L.N. 274 of 1991; L.N. 372 of 1991; L.N. 382 of 1991; L.N. 461 of 1991; L.N. 13 of 1992; L.N. 52 of 1992; L.N. 95 of 1992; L.N. 109 of 1992; L.N. 229 of 1992; L.N. 260 of 1992; L.N. 322 of 1992; L.N. 336 of 1992; L.N. 4 of 1993; L.N. 98 of 1993; L.N. 161 of 1993; L.N. 264 of 1993; L.N. 369 of 1993; L.N. 395 of 1993; L.N. 468 of 1993; L.N. 494 of 1993; L.N. 71 of 1994; L.N. 206 of 1994; L.N. 231 of 1994; L.N. 424 of 1994; L.N. 445 of 1994; L.N. 536 of 1994; L.N. 628 of 1994; L.N. 16 of 1995; L.N. 108 of 1995; L.N. 149 of 1995; L.N. 342 of 1995; L.N. 343 of 1995; L.N. 460 of 1995; L.N. 535 of 1995; L.N. 26 of 1996; L.N. 181 of 1996; L.N. 216 of 1996; L.N. 334 of 1996; L.N. 390 of 1996; L.N. 424 of 1996; L.N. 488 of 1996; L.N. 560 of 1996; L.N. 134 of 1997; L.N. 156 of 1997; L.N. 389 of 1997; L.N. 444 of 1997; L.N. 460 of 1997; L.N. 616 of 1997; L.N. 626 of 1997; L.N. 225 of 1998; L.N. 273 of 1998; L.N. 316 of 1998; L.N. 326 of 1998; L.N. 355 of 1998; L.N. 9 of 1999; L.N. 48 of 1999; L.N. 49 of 1999; L.N. 94 of 1999; L.N. 170 of 1999; L.N. 255 of 1999; L.N. 260 of 1999; L.N. 303 of 1999; 78 of 1999 s. 7; L.N. 360 of 2000; L.N. 31 of 2002; L.N. 29 of 2003; L.N. 143 of 2003; L.N. 204 of 2003; L.N. 265 of 2003; L.N. 22 of 2004; L.N. 142 of 2004; L.N. 77 of 2005; L.N. 133 of 2005; L.N. 223 of 2005; L.N. 57 of 2006; L.N. 183 of 2006; L.N. 246 of 2006; L.N. 58 of 2007; L.N. 177 of 2007; L.N. 2 of 2008; L.N. 15 of 2008; L.N. 68 of 2008; L.N. 263 of 2008; L.N. 11 of 2009; L.N. 125 of 2009; L.N. 185 of 2009; L.N. 40 of 2010; L.N. 165 of 2010; L.N. 93 of 2011; L.N. 13 of 2012; L.N. 108 of 2012; L.N. 109 of 2012; E.R. 2 of 2012; L.N. 4 of 2013) (Format changes—E.R. 1 of 2012)
