@@ -42,7 +42,7 @@
 
 - 20. Fifth floor and Sixth floor, To Kwa Wan Market and Government Offices, Kowloon.
 
-- 21. The ground floor, Wing B, Tak Lok House, Tak Tin Estate, Kowloon.
+- 21. (Repealed L.N. 12 of 2013)
 
 - 22. No. 5, Pui Ching Road, Ho Man Tin, Kowloon.
 
@@ -144,4 +144,4 @@
 
 - 71. The ground to seventh floors of the High Block of Ping Shan Tin Shui Wai Leisure and Cultural Building, 1 Tsui Sing Road, Tin Shui Wai, Yuen Long. (L.N. 150 of 2012; L.N. 1 of 2013)
 
-- 72. The Students’ Study Room on the fifth floor of Lam Tin Complex, 1 Hing Tin Street, Lam Tin, Kwun Tong. (L.N. 150 of 2012) (Schedule replaced 78 of 1999 s. 7)
+- 72. The fifth and sixth floors of Lam Tin Complex, 1 Hing Tin Street, Lam Tin, Kwun Tong. (L.N. 150 of 2012; L.N. 12 of 2013) (Schedule replaced 78 of 1999 s. 7)
