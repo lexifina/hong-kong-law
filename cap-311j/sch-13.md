@@ -8,7 +8,7 @@ Vehicles Design Standards (Emission) for Certain Motor Vehicles Registered betwe
 
   - (i) All the testing procedures, requirements and emission limits as specified in Directive 2005/55/EC made by the European Parliament and the Council.
 
-  - (ii) The emission limit values of gaseous and particulate pollutants and opacity of smoke from the engine as specified in in Row B1 of the Tables in Section 6.2.1 of Annex I to Directive 2005/55/EC made by the European Parliament and the Council as amended by Commission Directive 2005/78/EC. (L.N. 46 of 2012)
+  - (ii) The emission limit values of gaseous and particulate pollutants and opacity of smoke from the engine as specified in Row B1 of the Tables in Section 6.2.1 of Annex I to Directive 2005/55/EC made by the European Parliament and the Council as amended by Commission Directive 2005/78/EC. (L.N. 46 of 2012)
 
   - (iii) All the type approval requirements as specified in Council Directive 70/156/EEC made by the Council as amended by its subsequent amendments up to and including amendments made by Commission Directive 2004/104/EC.
 
@@ -32,7 +32,7 @@ Vehicles Design Standards (Emission) for Certain Motor Vehicles Registered betwe
 
   - (iii) All the type approval requirements administered by the Ministry of Land, Infrastructure and Transport of Japan.
 
-(Schedule 13 added L.N. 111 of 2006) (Format changes—E.R. 2 of 2012)
+(Schedule 13 added L.N. 111 of 2006. E.R. 1 of 2013) (Format changes—E.R. 2 of 2012)
 
 Editorial Note:
 
