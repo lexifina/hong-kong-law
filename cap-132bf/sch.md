@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 5(1)] (78 of 1999 s. 7)
 
-PARTICULARS TO BE RECORDED IN REGISTER
+Particulars to be Recorded in Register
 
 - 1. Number in English or Chinese of grave, vault or urn (if any).
 

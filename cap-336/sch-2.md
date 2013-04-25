@@ -2,17 +2,11 @@
 
 [s. 79(2)]
 
-- PART I PROVISIONS OF THE CRIMINAL PROCEDURE ORDINANCE (CAP. 221) NOT
+- Part 1 Provisions of the Criminal Procedure Ordinance (Cap. 221) not applicable to the procedure and practice of the District Court in its Criminal Jurisdiction Criminal Procedure Ordinance (Cap. 221), sections 9, 10, 11, 12, 14, 15, 17, 27, 33, 41, 42, 49, 50, 52, 53, 68, 71, 77, 85, 86, 88, 115, 118, 119 and 120 and the First Schedule. (Amended 5 of 1971 s. 13; 25 of 1972 s. 7; 59 of 1981 s. 4)
 
-- APPLICABLE TO THE PROCEDURE AND PRACTICE OF THE
+Part 2 | [section 79(3)]
 
-- DISTRICT COURT IN ITS CRIMINAL JURISDICTION Criminal Procedure Ordinance (Cap. 221), sections 9, 10, 11, 12, 14, 15, 17, 27, 33, 41, 42, 49, 50, 52, 53, 68, 71, 77, 85, 86, 88, 115, 118, 119 and 120 and the First Schedule. (Amended 5 of 1971 s. 13; 25 of 1972 s. 7; 59 of 1981 s. 4)
-
-PART II | [section 79(3)]
-
-SPECIAL PROVISIONS TOUCHING THE PROCEDURE AND PRACTICE OF
-
-THE DISTRICT COURT IN ITS CRIMINAL JURISDICTION
+Special provisions touching the procedure and practice of the District Court in its Criminal Jurisdiction
 
 - 1. Plea
 

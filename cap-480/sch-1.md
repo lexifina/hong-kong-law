@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & 90]
 
-EDUCATIONAL ESTABLISHMENTS AND THEIR RESPONSIBLE BODIES
+Educational Establishments and their Responsible Bodies
 
 (For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
 

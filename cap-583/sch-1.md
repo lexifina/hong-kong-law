@@ -1,14 +1,14 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 3, 4, 6, 39, 40, 41, 42, 45A, 48 & 65] (Amended 17 of 2012 s. 41)
 
-DESIGNATED TRADES
+Designated Trades
 
-- PART 1 DESIGNATED TRADES FOR WHICH A PERSON MAY BE REGISTERED
+- Part 1 Designated Trades for which a Person may be Registered
 
-- ONLY AS A REGISTERED SKILLED WORKER OR REGISTERED
+- only as a Registered Skilled Worker or Registered
 
-- SKILLED WORKER (PROVISIONAL), AS THE CASE MAY BE
+- Skilled Worker (Provisional), as the case may be
 
 Column 1 | Column 2 | Column 3 | Column 4
 
@@ -16,11 +16,11 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 1. | Asbestos Abatement Worker | To carry out asbestos abatement works | Trade test certificate for Asbestos Abatement Worker issued by CITA or Council | Not applicable
 
-2. | Asphalter (Road Construction) | (a) To mix, place and compact bituminous materials using vibrating machines (b) To level and smoothen bituminous materials according to specified level marks | Trade test certificate for Asphalter (Road Construction) issued by CITA or Council | Not applicable
+2. | Asphalter (Road Construction) | (a) To mix, place and compact bituminous materials using vibrating machines (b)To level and smoothen bituminous materials according to specified level marks | Trade test certificate for Asphalter (Road Construction) issued by CITA or Council | Not applicable
 
-3. | Asphalter (Waterproofing) | (a) To lay sheathing felt or paint with primer (b) To pour hot asphalt or proprietary waterproofing materials on prepared surfaces (c) To spread and level hot asphalt or proprietary waterproofing materials to fit corners, skirtings, flashings and outlets | Trade test certificate for Asphalter (Waterproofing) issued by CITA or Council | Not applicable
+3. | Asphalter (Waterproofing) | (a) To lay sheathing felt or paint with primer (b)To pour hot asphalt or proprietary waterproofing materials on prepared surfaces (c) To spread and level hot asphalt or proprietary waterproofing materials to fit corners, skirtings, flashings and outlets | Trade test certificate for Asphalter (Waterproofing) issued by CITA or Council | Not applicable
 
-4. | Cable Jointer (Power) | (a) To join low voltage cables either with the circuits dead or with one or both cables energized (b) To join dead cables of voltages not exceeding 11 kV (Amended L.N. 3 of 2007) | Certificate of completion of an apprenticeship in the trade of cable jointer (power) given under section 28 of the Apprenticeship Ordinance (Cap. 47) | Not applicable
+4. | Cable Jointer (Power) | (a) To join low voltage cables either with the circuits dead or with one or both cables energized (b)To join dead cables of voltages not exceeding 11 kV (Amended L.N. 3 of 2007) | Certificate of completion of an apprenticeship in the trade of cable jointer (power) given under section 28 of the Apprenticeship Ordinance (Cap. 47) | Not applicable
 
 5. | Carpenter (Fender) | To remove, cut, and erect timber fenders for protection of piers, seawalls, dolphins and landing steps | Trade test certificate for Carpenter (Fender) issued by CITA or Council | Not applicable
 
@@ -32,13 +32,13 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 9. | Demolition Worker (Unauthorized Building Works) | To demolish, dismantle and remove buildings erected, or building works carried out, in contravention of the Buildings Ordinance (Cap. 123) within the meaning of that Ordinance | Trade test certificate for Demolition Worker (Unauthorized Building Works) issued by CITA or Council | Not applicable
 
-10. | Diver | (a) To perform underwater operations related to inspection, construction and repair of structures and demolition (b) To prepare reports on all the foregoing operations | Not applicable | Any one of the following— (a) diving certificate for the class of Advanced SCUBA Diver or above issued by the National Association of Underwater Instructors of the United States of America; (b) diving certificate approved by the Health and Safety Executive of the United Kingdom; or (c) diving certificate issued by the Ministry of Communications of the People’s Republic of China (Amended L.N. 3 of 2007)
+10. | Diver | (a) To perform underwater operations related to inspection, construction and repair of structures and demolition (b)To prepare reports on all the foregoing operations | Not applicable | Any one of the following— (a) diving certificate for the class of Advanced SCUBA Diver or above issued by the National Association of Underwater Instructors of the United States of America; (b) diving certificate approved by the Health and Safety Executive of the United Kingdom; or (c) diving certificate issued by the Ministry of Communications of the People’s Republic of China (Amended L.N. 3 of 2007)
 
-11. | Electrical Fitter | (a) To install, test, commission and repair electrical installations and wiring (b) To fit, assemble, install, test, commission and repair electrical systems and equipment | Not applicable | Certificate of registration as an electrical worker for Grade A, B, C or H electrical work issued under section 30 of the Electricity Ordinance (Cap. 406)
+11. | Electrical Fitter | (a) To install, test, commission and repair electrical installations and wiring (b)To fit, assemble, install, test, commission and repair electrical systems and equipment | Not applicable | Certificate of registration as an electrical worker for Grade A, B, C or H electrical work issued under section 30 of the Electricity Ordinance (Cap. 406)
 
 12. | Escalator Mechanic | To install, adjust, maintain and repair escalators | Not applicable | Either one of the following— (a) registered escalator worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618); or (b) competent escalator worker as defined by section 7 of the Lifts and Escalators Ordinance (Cap. 618) (Amended 8 of 2012 ss. 156 & 160)
 
-13. | Fire Service Mechanic | (a) To install, test, inspect, maintain and repair fire services piping systems, automatic fire alarm systems, manual fire alarm systems, mechanical or electrical or electronic parts of fire services systems (b) To maintain, inspect and repair portable fire services equipment | Not applicable | Both of the following— (a) fire service installation contractor class 3 registered under the Fire Service (Installation Contractors) Regulations (Cap. 95 sub. leg. A); and (b) trade certificate for Fire Service Mechanic issued by VTC
+13. | Fire Service Mechanic | (a) To install, test, inspect, maintain and repair fire services piping systems, automatic fire alarm systems, manual fire alarm systems, mechanical or electrical or electronic parts of fire services systems (b)To maintain, inspect and repair portable fire services equipment | Not applicable | Both of the following— (a) fire service installation contractor class 3 registered under the Fire Service (Installation Contractors) Regulations (Cap. 95 sub. leg. A); and (b) trade certificate for Fire Service Mechanic issued by VTC
 
 14. | Fire Service Portable Equipment Fitter | To maintain, inspect and repair portable fire services equipment | Not applicable | Fire service installation contractor class 3 registered under the Fire Service (Installation Contractors) Regulations (Cap. 95 sub. leg. A)
 
@@ -56,7 +56,7 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 21. | Overhead Linesman | To construct, maintain and repair overhead line systems of voltages not exceeding 11 kV on tubular steel, concrete, lattice girder or wood supports (Amended L.N. 3 of 2007) | Certificate of completion of an apprenticeship in the trade of overhead linesman given under section 28 of the Apprenticeship Ordinance (Cap. 47) | Not applicable
 
-22. | Paving Block Layer | (a) To lay paving blocks on floor (b) To compact the base layer with vibrating machines (c) To cut paving blocks to fit floor layout | Trade test certificate for Paving Block Layer issued by CITA or Council | Not applicable
+22. | Paving Block Layer | (a) To lay paving blocks on floor (b)To compact the base layer with vibrating machines (c) To cut paving blocks to fit floor layout | Trade test certificate for Paving Block Layer issued by CITA or Council | Not applicable
 
 23. | Piling Operative | To set up piling rigs for driven or bored piles works | Both of the following— (a) trade test certificate for Piling Operative (Bored Pile) issued by CITA or Council; and (b) trade test certificate for Piling Operative (Percussive Pile) issued by CITA or Council | Not applicable
 
@@ -114,7 +114,7 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 50. | Shotfirer | To calculate, prepare, load and detonate explosive charges in mines, quarries, civil engineering and building sites | Not applicable | Mine blasting certificate issued under the Mines (Safety) Regulations (Cap. 285 sub. leg. B)
 
-51. | Structural Steel Welder | To cut or join structural steel sections, steel water mains and steel gas mains by electric arc, oxy-acetylene flame or other welding processes | Not applicable | Certificate (whether subsisting or expired) of passing of a welder test which is in conformity with BS EN 287-1:1992 standard including its amendments issued by a welding inspection body accredited by the Hong Kong Accreditation Service under Hong Kong Inspection Body Accreditation Scheme (Amended L.N. 3 of 2007; 17 of 2012 s. 41)
+51. | Structural Steel Welder | To cut or join structural steel sections, steel water mains and steel gas mains by electric arc, oxy-acetylene flame or other welding processes | Not applicable | Certificate (whether subsisting or expired) of passing of a welder test which is in conformity with BS EN 287-1:1992 standard including its amendments issued by a welding inspection body accredited by the Hong Kong Accreditation Service under Hong Kong Inspection Body Accreditation Scheme (Amended L.N. 3 of 2007)
 
 52. | Trackworker | To lay and maintain trackworks for railways or other vehicles | Trade test certificate for Trackworker issued by CITA or Council | Not applicable
 
@@ -130,15 +130,15 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 (Amended 17 of 2012 s. 41)
 
-- PART 2 DESIGNATED TRADES FOR WHICH A PERSON MAY BE REGISTERED
+- Part 2 Designated Trades for which a Person may be Registered
 
-- AS A REGISTERED SKILLED WORKERS, REGISTERED SKILLED
+- as a Registered Skilled Workers, Registered Skilled
 
-- WORKER (PROVISIONAL), REGISTERED SEMI-SKILLED
+- Worker (Provisional), Registered Semi-skilled
 
-- WORKER OR REGISTERED SEMI-SKILLED WORKER
+- Worker or Registered Semi-skilled Worker
 
-- (PROVISIONAL), AS THE CASE MAY BE
+- (Provisional), as the case may be
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
@@ -226,11 +226,11 @@ Name of trade or occupation | Description of work | Certificate | Other qualific
 
 (Amended 17 of 2012 s. 41)
 
-- PART 3 DESIGNATED TRADES FOR WHICH A PERSON MAY BE REGISTERED
+- Part 3 Designated Trades for which a Person may be Registered
 
-- ONLY AS A REGISTERED SEMI-SKILLED WORKER OR REGISTERED
+- only as a Registered Semi-skilled Worker or Registered
 
-- SEMI-SKILLED WORKER (PROVISIONAL), AS THE CASE MAY BE
+- Semi-skilled Worker (Provisional), as the case may be
 
 Column 1 | Column 2 | Column 3 | Column 4
 
@@ -240,4 +240,4 @@ Name of trade or occupation | Description of work | Intermediate trade test cert
 
 2. | Builder’s Lift Operator | To operate builders’ lifts (passenger hoist) on construction sites | Not applicable | Competent operator for builder’s lift within the meaning of the Builders’ Lifts and Tower Working Platforms (Safety) Ordinance (Cap. 470)
 
-(Amended 12 of 2006 s. 84; 17 of 2012 s. 41)
+(Amended 12 of 2006 s. 84; 17 of 2012 s. 41) (Format changes—E.R. 1 of 2013)

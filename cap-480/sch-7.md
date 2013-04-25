@@ -1,8 +1,8 @@
-# SCHEDULE 7
+# Schedule 7
 
 [s. 91(1) & Sch. 4]
 
-TRANSITIONAL PROVISIONS
+Transitional Provisions
 
 - 1. Section 16 of this Ordinance shall not apply, in respect of any organization—
 

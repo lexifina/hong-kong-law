@@ -6,13 +6,13 @@ Further Exceptions to this Ordinance
 
 Provision creating illegality | Exception
 
-1. Part III | Only a person who holds a valid Registration Card for People with Disabilities issued by the Central Registry for Rehabilitation established by the Government being allowed to have his or her degree of productivity assessed under Schedule 2 to the Minimum Wage Ordinance (Cap. 608). (Added 15 of 2010 s. 24)
+1. Part 3 | Only a person who holds a valid Registration Card for People with Disabilities issued by the Central Registry for Rehabilitation established by the Government being allowed to have his or her degree of productivity assessed under Schedule 2 to the Minimum Wage Ordinance (Cap. 608). (Added 15 of 2010 s. 24)
 
-2. Part III | An employer, in accordance with the Minimum Wage Ordinance (Cap. 608), paying a minimum wage to a person with a disability that is less than that payable to a person without such a disability. (Added 15 of 2010 s. 24)
+2. Part 3 | An employer, in accordance with the Minimum Wage Ordinance (Cap. 608), paying a minimum wage to a person with a disability that is less than that payable to a person without such a disability. (Added 15 of 2010 s. 24)
 
-3. Part III | An employer dismissing a person with a disability on account of the outcome of an assessment made under Schedule 2 to the Minimum Wage Ordinance (Cap. 608). (Added 15 of 2010 s. 24)
+3. Part 3 | An employer dismissing a person with a disability on account of the outcome of an assessment made under Schedule 2 to the Minimum Wage Ordinance (Cap. 608). (Added 15 of 2010 s. 24)
 
-4. Parts IV and V | Providing fare concessions to persons—
+4. Parts 4 and 5 | Providing fare concessions to persons—
 
 (a) who—
 
@@ -30,4 +30,4 @@ in respect of—
 
 (e) a public transport service operated by a company or person pursuant to a franchise or licence granted under section 6 or 28 of the Ferry Services Ordinance (Cap. 104). (Added L.N. 223 of 2009. Amended 15 of 2010 s. 24; L.N. 131 of 2012)
 
-(Format changes—E.R. 2 of 2012)
+(Amended E.R. 1 of 2013) (Format changes—E.R. 2 of 2012)

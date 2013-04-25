@@ -1,10 +1,16 @@
-# SCHEDULE 5 AIRCRAFT EQUIPMENT
+# SCHEDULE 5
 
-Articles 11(4), 13(2) and (8), 25(5) and
+Articles 11(4), 13(2)
 
-37(1), (3) and (4) and Schedule 11
+and (8), 25(5) and
+
+37(1), (3) and (4)
+
+and Schedule 11
 
 (L.N. 77 of 2008)
+
+AIRCRAFT EQUIPMENT
 
 - 1.
 
@@ -42,505 +48,313 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
   - (m) Megaphones, referred to in Scale Y. (L.N. 77 of 2008)
 
-  - 4. | TABLE
+4. | TABLE
 
   - For the purposes of this paragraph, “day” means the time from half an hour before sunrise until half an hour after sunset (both times exclusive), sunrise and sunset being determined at surface level. (L.N. 77 of 2008)
 
-  - Description of Aircraft | Circumstances of Flight | Scale of Equipment Required
+Description of Aircraft | Circumstances of Flight | Scale of Equipment Required
 
-  - (1) Gliders | (a) flying for purposes other than public transport or aerial work:
+(1) | Gliders | (a) | flying for purposes other than public transport or aerial work: and when flying by night; | A(ii)
 
-  - and when flying by night; | A(ii)
+(b) | flying for the purpose of public transport or aerial work: and | A, B(i) and (ii), D and F(i)
 
-  - (b) flying for the purpose of public transport or aerial work: and | A, B(i) and (ii), D and F(i)
+(i) | when flying by night | C and G
 
-  - (i) when flying by night | C and G
+(ii) | when carrying out aerobatic manoeuvres | B(iii)
 
-  - (ii) when carrying out aerobatic
+(2) | Aeroplanes | (a) | flying for purposes other than public transport; and | A(i), (ii) and (iii)(a) and B(i)
 
-  - manoeuvres | B(iii)
+(i) | when flying by night | C, E, F and G
 
-  - (2) Aeroplanes | (a) flying for purposes other than | A(i), (ii) and (iii)(a)
+(ii) | when flying under Instrument Flight Rules
 
-  - public transport; and | and B(i)
+(aa) | outside controlled airspace | D
 
-  - (i) when flying by night | C, E, F and G
+(bb) | within controlled airspace | E with E(iv) duplicated and F
 
-  - (ii) when flying under Instrument Flight Rules
+(iii) | when carrying out aerobatic manoeuvres | B(iii)
 
-  - (aa) outside controlled
+(iv) | when flying under Visual Flight Rules
 
-  - airspace | D
+(aa) | outside controlled airspace. | E(iv), F(i) and (vi) and FF
 
-  - (bb) within controlled airspace | E with E(iv) duplicated and F
+(bb) | within controlled airspace. | E with E(iv) duplicated and F
 
-  - (iii) when carrying out aerobatic manoeuvres | B(iii)
+(v) | on all flights which involve manoeuvres on water. | H and J(iii) and (iv)
 
-  - (iv) when flying under Visual Flight Rules
+(vi) | in the case of a single-engined aeroplane, when flying over water beyond gliding distance from land. | H
 
-  - (aa) outside controlled airspace. | E(iv), F(i) and (vi) and FF
+(vii) | when flying over water at a distance of more than 50 nautical miles away from land suitable for making an emergency landing. | H
 
-  - (bb) within controlled airspace. | E with E(iv) duplicated and F
+(viii) | when flying over water
 
-  - (v) on all flights which involve
+(aa) | in the case of a single-engined aeroplane, when more than 100 nautical miles away from land suitable for making an emergency landing. | K(i)
 
-  - manoeuvres on water. | H and J(iii) and (iv)
+(bb) | in the case of a multi-engined aeroplane capable of continuing flight with one engine inoperative, when more than 200 nautical miles away from land suitable for making an emergency landing. | K(i)
 
-  - (vi) in the case of a single-engined aeroplane, when flying over water
+(ix) | when flying over land areas which have been designated by the State concerned as areas in which search and rescue would be especially difficult where, in the event of an emergency landing, tropical conditions are likely to be met. | U
 
-  - beyond gliding distance from land. | H
+(x) | when flying over land areas which have been designated by the State concerned as areas in which search and rescue would be especially difficult where, in the event of an emergency landing, polar conditions are likely to be met. | V
 
-  - (vii) when flying over water at a distance of more than 50 nautical miles away from land suitable for making an
+(xi) | when flying at a height of 10 000 ft or more above mean sea level. | L2
 
-  - emergency landing. | H
+(b) | flying for the purpose of public transport; and | A, B(i) and (ii), D and F(i)
 
-  - (viii) when flying over water
+(i) | when flying under Instrument Flight Rules except flights outside controlled airspace by aeroplanes having a maximum total weight authorized not exceeding 1 150 kg. | E with E(iv) duplicated and F
 
-  - (aa) in the case of a single-engined aeroplane, when more than 100 nautical miles away from land suitable for making an emergency
+(ii) | when flying by night; and in the case of aeroplanes of which the maximum total weight authorized exceeds 1 150 kg. | C and G, E with E(iv) duplicated and F
 
-  - landing. | K(i)
+(iii) | (aa) | when flying over water at a distance of more than 50 nautical miles away from the shore, in the case of an aeroplane:
 
-  - (bb) in the case of a multi-engined aeroplane capable of continuing flight with one engine inoperative, when more than 200 nautical miles away from land suitable for making an emergency
+(aaa) | in the event of the critical power unit becoming inoperative at any point along the route or planned diversions from that point, it shall be able to continue the flight to an aerodrome at which landing can be made, without flying below the minimum flight altitude at any point; or | H
 
-  - landing. | K(i)
+(bbb) | having 3 or more power units, on any part of a route where the location of en-route alternate aerodrome and the total duration of the flight are such that the probability of a second power unit becoming inoperative must be allowed for if the general level of safety is to be maintained, it shall be able, in the event of any 2 power units becoming inoperative, to continue the flight to an en-route alternate aerodrome and land. | H
 
-  - (ix) when flying over land areas which have been designated by the State concerned as areas in which search and rescue would be especially difficult where, in the event of an emergency landing, tropical conditions are likely to be
+(bb) | in the case of all other aeroplanes, when flying en-route over water beyond gliding distance from land. | H
 
-  - met. | U
+(iv) | on all flights on which in the event of any emergency occurring during the take-off or during the landing at the intended destination or any likely alternate destination it is reasonably possible that the aeroplane would be forced to land onto water | H
 
-  - (x) when flying over land areas which have been designated by the State concerned as areas in which search and rescue would be especially difficult where, in the event of an emergency landing, polar conditions
+(v) | when flying over water:
 
-  - are likely to be met. | V
+(aa) | in the case of an aeroplane:
 
-  - (xi) when flying at a height of 10000 ft or
+(aaa) | classified in its certificate of airworthiness as being of performance group A, C or X; or
 
-  - more above mean sea level. | L2
+(bbb) | having no performance group classification in its certificate of airworthiness and of such a weight and performance that with any one of its power units inoperative and the remaining power unit or units operating within the maximum continuous power conditions specified in the certificate of airworthiness, performance schedule or flight manual relating to the aeroplane issued or rendered valid by the Chief Executive it is capable of a gradient of climb of at least 1 in 200 at an altitude of 5 000 ft in the International Standard Atmosphere specified in or ascertainable by reference to the certificate of airworthiness in force in respect of that aircraft,
 
-  - (b) flying for the purpose of public transport; and | A, B(i) and (ii), D and F(i)
+when either more than 400 nautical miles or more than 90 minutes flying time* from the nearest aerodrome at which an emergency landing can be made. | H and K
 
-  - (i) when flying under Instrument Flight Rules except flights outside controlled airspace by aeroplanes having a maximum total weight authorized | E with E(iv) duplicated
+(bb) | in the case of all other aeroplanes, when either more than 100 nautical miles or more than 30 minutes flying time* from such an aerodrome. | H and K
 
-  - not exceeding 1150 kg. | and F
+(vi) | on all flights which involve manoeuvres on water. | H, J and K
 
-  - (ii) when flying by night; and in the case of aeroplanes of which the | C and G, E with
+(vii) | when flying at a height of 10 000 ft or more above mean sea level:
 
-  - maximum total weight authorized exceeds 1150 kg. | E(iv) duplicated and F
+(aa) | having a certificate of airworthiness first issued (whether in Hong Kong or elsewhere) before 1 January 1989. | L1 or L2
 
-  - (iii) (aa) when flying over water
+(bb) | having a certificate of airworthiness first issued (whether in Hong Kong or elsewhere) on or after 1 January 1989. | L2
 
-  - at a distance of more than 50 nautical miles away from the shore, in the case of an aeroplane:
+(viii) | on flights when the weather reports or forecasts available at the aerodrome at the time of departure indicate that conditions favouring ice formation are likely to be met. | M
 
-  - (aaa) in the event of the critical power unit becoming inoperative at any point along the route or planned diversions from that point, it shall be able to continue the flight to an aerodrome at which landing can be made, without flying below the minimum flight altitude at any
+(ix) | when carrying out aerobatic manoeuvres. | B(iii)
 
-  - point; or | H
+(x) | on all flights on which the aircraft carries a flight crew of more than one person. | N
 
-  - (bbb) having 3 or more power units, on any part of a route where the location of en-route alternate aerodrome and the total duration of the flight are such that the probability of a second power unit becoming inoperative must be allowed for if the general level of safety is to be maintained, it shall be able, in the event of any 2 power units becoming inoperative, to continue the flight to an en-route alternate
+(xi) | on all flights for the purpose of the public transport of passengers. | Q and Y(i), (ii) and (iii)
 
-  - aerodrome and land. | H
+(xii) | on all flights by a pressurised aircraft. | R
 
-  - (bb) in the case of all other aeroplanes, when flying en-route over water beyond gliding distance from land. | H
+(xiii) | when flying over substantially uninhabited land areas where, in the event of an emergency landing, tropical conditions are likely to be met. | U
 
-  - (iv) on all flights on which in the event of any emergency occurring during the take-off or during the landing at the intended destination or any likely alternate destination it is reasonably possible that the aeroplane would be
+(xiv) | when flying over substantially uninhabited land or other areas where, in the event of any emergency landing, polar conditions are likely to be met. | V
 
-  - forced to land onto water | H
+(xv) | when flying at an altitude of more than 49 000 ft. | W
 
-  - (v) when flying over water: (aa) in the case of an aeroplane: (aaa) classified in its certificate of airworthiness as being of performance group A, C or X; or
+(xvi) | when flying under Visual Flight Rules:
 
-  - (bbb) having no performance group classification in its certificate of airworthiness and of such a weight and performance that with any one of its power units inoperative and the remaining power unit or units operating within the maximum continuous power conditions specified in the certificate of airworthiness, performance schedule or flight manual relating to the aeroplane issued or rendered valid by the Chief Executive it is capable of a gradient of climb of at least 1 in 200 at an altitude of 5000 ft in the International Standard Atmosphere specified in or ascertainable by reference to the certificate of airworthiness in force in respect of that aircraft,
+(aa) | outside controlled airspace. | E(iv), F(i) and (vi) and FF
 
-  - when either more than 400 nautical miles or more than 90 minutes flying time* from the nearest aerodrome at which an emergency landing can be
+(bb) | within controlled airspace. | E with E(iv) duplicated and F
 
-  - made. | H and K
+(xvii) | when operated by a single pilot under the Instrument Flight Rules or at night. | ZZ
 
-  - (bb) in the case of all other aeroplanes, when either more than 100 nautical miles or more than 30 minutes flying time* from such
+(3) Turbine-jet aeroplanes having a maximum total weight authorized exceeding 5 700 kg or pressurised aircraft having a maximum total weight authorized exceeding 11 400 kg. | when flying for the purpose of public transport. | O
 
-  - an aerodrome. | H and K
+(4) Turbine-engined aeroplanes having a maximum total weight authorized exceeding 5 700 kg and piston-engined aeroplanes having a maximum total weight authorized exceeding 27 000 kg
 
-  - (vi) on all flights which involve
+(a) | which are operated by an air transport undertaking under a certificate of airworthiness in the Transport Category (Passenger) or the Transport Category (Cargo); or | when flying on any flight | P
 
-  - manoeuvres on water. | H, J and K
+(b) | in respect of which application has been made and not withdrawn or refused for such a certificate, and which fly under the “A Conditions” or under a certificate of airworthiness in the Special Category: | when flying on any flight | P
 
-  - (vii) when flying at a height of 10000 ft or more above mean sea level:
+Provided that this paragraph shall not apply to aeroplanes falling within paragraphs (5) or (6) hereof.
 
-  - (aa) having a certificate of airworthiness first issued (whether in Hong Kong or elsewhere) before 1
+(5) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or Transport Category (Cargo) and aeroplanes in respect of which application has been made, and not withdrawn or refused, for such a certificate of airworthiness and which fly under the “A Conditions” or in respect of which there is in force a certificate of airworthiness in the Special Category:
 
-  - January 1989. | L1 or L2
+(a) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and which have a maximum total weight authorized exceeding 5 700 kg but not exceeding 11 400 kg; or | when flying on any flight | S(i)
 
-  - (bb) having a certificate of airworthiness first issued (whether in Hong Kong or elsewhere) on or after
+(b) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and which have a maximum total weight authorized exceeding 11 400 kg but not exceeding 27 000 kg; or | when flying on any flight | S(ii)
 
-  - 1 January 1989. | L2
+(c) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and which have a maximum total weight authorized exceeding 27 000 kg but not exceeding 230 000 kg; or | when flying on any flight | S(iii)
 
-  - (viii) on flights when the weather reports or forecasts available at the aerodrome at the time of departure indicate that conditions favouring ice
+(d) | which conform to a type first issued with a type certificate in Hong Kong on or after 1 January 1970 and which have a maximum total weight authorized exceeding 230 000 kg: | when flying on any flight | S(iii)
 
-  - formation are likely to be met. | M
+Provided that this paragraph shall not apply to aeroplanes falling within paragraph (6) hereof.
 
-  - (ix) when carrying out aerobatic
+(6) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or Transport Category (Cargo) and aeroplanes in respect of which application has been made, and not withdrawn or refused, for such a certificate of airworthiness and which fly under “A Conditions” or in respect of which there is in force a certificate of airworthiness in the Special Category:
 
-  - manoeuvres. | B(iii)
+(a) | for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 June 1990 and which have a maximum total weight authorized not exceeding 5 700 kg, are powered by 2 or more turbine engines and are certified to carry more than 9 passengers; or | when flying on any flight | S(iv)
 
-  - (x) on all flights on which the aircraft carries a flight crew of more than
+(b) | for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 June 1990 and which have a maximum total weight authorized exceeding 5 700 kg, but not exceeding 27 000 kg; or | when flying on any flight | S(v)
 
-  - one person. | N
+(c) | for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 June 1990 and which have a maximum total weight authorized exceeding 27 000 kg: | when flying on any flight | S(vi)
 
-  - (xi) on all flights for the purpose
+Provided that this paragraph shall not apply to aeroplanes falling within paragraph (6A).
 
-  - of the public transport of | Q and Y(i), (ii) and
+(6A) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or Transport Category (Cargo) and for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 January 2005 and which have a maximum total weight authorized exceeding 5 700 kg. | when flying on any flight. | S(viii)
 
-  - passengers. | (iii)
+(L.N. 77 of 2008)
 
-  - (xii) on all flights by a pressurised
+(7) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Aerial Work or Private Category and for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 June 1990 and which have a maximum total weight authorized exceeding 27 000 kg: | when flying on any flight | S(vi)
 
-  - aircraft. | R
+Provided that this paragraph shall not apply to aeroplanes falling within paragraph (7A).
 
-  - (xiii) when flying over substantially uninhabited land areas where, in the event of an emergency landing, tropical conditions
+(7A) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Aerial Work or Private Category and for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 January 2005 and which have a maximum total weight authorized exceeding 5 700 kg. | when flying on any flight. | S(viii)
 
-  - are likely to be met. | U
+(L.N. 77 of 2008)
 
-  - (xiv) when flying over substantially uninhabited land or other areas where, in the event of any emergency landing, polar conditions
+(8) | Aeroplanes:
 
-  - are likely to be met. | V
+(a) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and having a maximum total weight authorized exceeding 27 000 kg and in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or the Transport Category (Cargo); or | when flying on any flight | T
 
-  - (xv) when flying at an altitude of more
+(b) | which conform to a type first issued with a type certificate in Hong Kong on or after 1 January 1970 and which have a maximum total weight authorized exceeding 230 000 kg and in respect of which there is in force such a certificate of airworthiness; or | when flying on any flight | T
 
-  - than 49000 ft. | W
+(c) | having a maximum total weight authorized exceeding 27 000 kg which conform to a type first issued with a type certificate on or after 1 April 1971 (or 1 January 1970 in the case of an aeroplane having a maximum total weight authorized exceeding 230 000 kg) in respect of which an application has been made, and not withdrawn or refused for such a certificate of airworthiness and which fly under the “A Conditions” or in respect of which there is in force a certificate of airworthiness in the Special Category. | when flying on any flight | T
 
-  - (xvi) when flying under Visual Flight Rules:
+(9) Aeroplanes powered by one or more turbine jets or one or more turbine propeller engines which have a maximum total weight authorized exceeding 5 700 kg or which in accordance with the certificate of airworthiness in force in respect of which may carry more than 9 passengers. | when flying on any flight. | X
 
-  - (aa) outside controlled airspace. | E(iv), F(i) and (vi) and FF
+(L.N. 77 of 2008)
 
-  - (bb) within controlled airspace. | E with E(iv) duplicated and F
+(10) | Aeroplanes:
 
-  - (xvii) when operated by a single pilot under the Instrument Flight Rules or at
+(a) | which are turbo-jets and which have a maximum total weight authorized exceeding 22 700 kg; or | when flying by night for the purpose of the public transport of passengers. | Z(i) and (ii)
 
-  - night. | ZZ
+(b) | having a maximum total weight authorized exceeding 5 700 kg and which conform to a type for which a certificate of airworthiness was first applied for (whether in Hong Kong or elsewhere) after 30 April 1972 but not including any aeroplane which in the opinion of the Chief Executive is identical in all matters affecting the provision of emergency evacuation facilities to an aeroplane for which a certificate of airworthiness was first applied for before that date; or (36 of 1999 s. 3) | when flying by night for the purpose of the public transport of passengers | Z(i) and (ii)
 
-  - (3) Turbine-jet aeroplanes having a maximum total weight authorized exceeding 5700 kg or pressurised aircraft having a maximum total weight
+(c) | which in accordance with the certificate of airworthiness in force in respect thereof may carry more than 19 passengers; or | when flying by night for the purpose of the public transport of passengers | Z(i)
 
-  - authorized exceeding 11400 kg. | when flying for the purpose of public transport. | O
+(d) | having a maximum total weight authorized exceeding 5 700 kg and which conform to a type for which a certificate of airworthiness was first applied for (whether in Hong Kong or elsewhere) after 30 April 1972 but not including any aeroplane which in the opinion of the Chief Executive is identical in all matters affecting the provision of emergency evacuation facilities to an aeroplane for which a certificate of airworthiness was first applied for before that date; or (36 of 1999 s. 3) | when flying for the purpose of the public transport of passengers | Z(iii)
 
-  - (4) Turbine-engined aeroplanes having a maximum total weight authorized exceeding 5700 kg and piston-engined aeroplanes having a maximum total weight authorized exceeding 27000 kg (a) which are operated by an air transport undertaking under a certificate of airworthiness in the Transport Category (Passenger) or the Transport
+(e) | which are turbo-jets and which have a maximum total weight authorized exceeding 22 700 kg; or | when flying for the purpose of the public transport of passengers | Z(iii)
 
-  - Category (Cargo); or | when flying on any flight | P
+(f) | first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 January 1958 and which in accordance with the certificate of airworthiness in force in respect thereof may carry more than 19 passengers. | when flying for the purpose of the public transport of passengers | Z(iii)
 
-  - (b) in respect of which application has been made and not withdrawn or refused for such a certificate, and which fly under the “A Conditions” or under a certificate of airworthiness in the Special
+(11) | Aeroplanes:
 
-  - Category: | when flying on any flight | P
+(a) | powered by one or more turbine jets and first issued with a certificate of airworthiness in Hong Kong on or after 1 April 1989; | when flying on any flight | AA
 
-  - Provided that this paragraph shall not apply to aeroplanes falling within paragraphs (5) or (6) hereof.
+(b) | powered by one or more turbine jets and first issued with a certificate of airworthiness in Hong Kong prior to 1 April 1989; | when flying on any flight | AA
 
-  - (5) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or Transport Category (Cargo) and aeroplanes in respect of which application has been made, and not withdrawn or refused, for such a certificate of airworthiness and which fly under the “A Conditions” or in respect of which there is in force a certificate of airworthiness in the Special Category: (a) which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and which have a maximum total weight authorized exceeding 5700 kg but not exceeding 11400 kg;
+(c) | powered by one or more turbine propeller engines and having a maximum total weight authorized exceeding 5 700 kg and first issued with a certificate of airworthiness in Hong Kong on or after 1 April 1989. | when flying on any flight | AA
 
-  - or | when flying on any flight | S(i)
+(12) | Aeroplanes:
 
-  - (b) which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and which have a maximum total weight authorized exceeding 11400 kg but not exceeding 27000 kg;
+(a) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1978 and in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger); | on all flights for the purpose of the public transport of passengers | Y(iv)
 
-  - or | when flying on any flight | S(ii)
+(b) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1968 and before 1 April 1978 and in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger); | on all flights for the purpose of the public transport of passengers | Y(iv)
 
-  - (c) which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and which have a maximum total weight authorized exceeding 27000 kg but not exceeding 230000 kg;
+(c) | which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) before 1 April 1968 and in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger). | on all flights for the purpose of the public transport of passengers | Y(iv)
 
-  - or | when flying on any flight | S(iii)
+(13) Helicopters and Gyroplanes | (a) | flying for purposes other than public transport: and | A(i), (ii) and (iii)(a) and B(i)
 
-  - (d) which conform to a type first issued with a type certificate in Hong Kong on or after 1 January 1970 and which have a maximum total weight authorized exceeding 230000
+(i) | when flying by day under Visual Flight Rules with visual ground reference | D, F(i) and (vi) and FF
 
-  - kg: | when flying on any flight | S(iii)
+(ii) | when flying by day under instrument Flight Rules or without visual ground reference
 
-  - Provided that this paragraph shall not apply to aeroplanes falling within paragraph (6) hereof.
+(aa) | outside controlled airspace | E and F
 
-  - (6) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or Transport Category (Cargo) and aeroplanes in respect of which application has been made, and not withdrawn or refused, for such a certificate of airworthiness and which fly under “A Conditions” or in respect of which there is in force a certificate of airworthiness in the Special Category:
+(bb) | within controlled airspace | E with E(iv) duplicated and F with F(iv) for all weights
 
-  - (a) for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 June 1990 and which have a maximum total weight authorized not exceeding 5700 kg, are powered by 2 or more turbine engines and are certified to carry more than 9 passengers;
+(iii) | when flying by night
 
-  - or | when flying on any flight | S(iv)
+(aa) | with visual ground reference | C, E, G(iii) and G(v)
 
-  - (b) for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 June 1990 and which have a maximum total weight authorized exceeding 5700 kg, but not exceeding
+(bb) | without visual ground reference
 
-  - 27000 kg; or | when flying on any flight | S(v)
+(aaa) | outside controlled airspace | C, E, F and G(ii), (iii) and (v)
 
-  - (c) for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 June 1990 and which have a maximum total weight authorized exceeding 27000
+(bbb) | within controlled airspace | C, E with E(iv) duplicated, F and G(ii), (iii) and (v)
 
-  - kg: | when flying on any flight | S(vi)
+(iv) | when flying over water
 
-  - Provided that this paragraph shall not apply to aeroplanes falling within paragraph (6A).
+(aa) | in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group A which is intended to fly a distance from land corresponding to more than 10 minutes at normal cruise speed. | H, K and KK
 
-  - (6A) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or Transport Category (Cargo) and for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 January 2005 and which have a maximum total weight authorized
+(bb) | in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group B when beyond autorotational or safe forced landing distance from land. | H, K and KK
 
-  - exceeding 5700 kg. | when flying on any flight. | S(viii)
+(v) | on all flights on which in the event of any emergency occurring during the take-off or during the landing at the intended destination or any likely alternate destination it is reasonably possible that the helicopter or gyroplane would be forced to land onto water. | H
 
-  - (L.N. 77 of 2008)
+(vi) | when flying over land areas which have been designated by the State concerned as areas in which search and rescue would be especially difficult where, in the event of an emergency landing, tropical conditions are likely to be met. | U
 
-  - (7) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Aerial Work or Private Category and for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 June 1990 and which have a maximum total weight authorized exceeding 27000
+(vii) | when flying over land areas which have been designated by the State concerned as areas in which search and rescue would be especially difficult where, in the event of an emergency landing, polar conditions are likely to be met. | V
 
-  - kg: | when flying on any flight | S(vi)
+(viii) | when flying at a height of 10 000 ft or more above mean sea level. | L2
 
-  - Provided that this paragraph shall not apply to aeroplanes falling within paragraph (7A).
+(b) | flying for the purpose of public transport; and | A, B(i) and (ii), F(i) and F(iv) for all weights
 
-  - (7A) Aeroplanes in respect of which there is in force a certificate of airworthiness in the Aerial Work or Private Category and for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) on or after 1 January 2005 and which have a maximum total weight authorized exceeding
+(i) | when flying by day under Visual Flight Rules with visual ground reference
 
-  - 5700 kg. | when flying on any flight. | S(viii)
+(aa) | outside controlled airspace. | D, F(i) and (vi) and FF
 
-  - (L.N. 77 of 2008)
+(bb) | within controlled airspace. | E with E(iv) duplicated and F
 
-  - (8) Aeroplanes: (a) which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1971 and having a maximum total weight authorized exceeding 27000 kg and in respect of which there is in force a certificate of airworthiness in the Transport Category (Passenger) or the Transport Category (Cargo);
+(ii) | when flying by day under Instrument Flight Rules or without visual ground reference | E with E(iv) duplicated and F
 
-  - or | when flying on any flight | T
+(iii) | when flying by night with visual ground reference
 
-  - (b) which conform to a type first issued with a type certificate in Hong Kong on or after 1 January 1970 and which have a maximum total weight authorized exceeding 230000 kg and in respect of which there is in force such a certificate of
+(aa) | in the case of a helicopter or gyroplane having a maximum total weight authorized not exceeding 2 000 kg | C, E and G
 
-  - airworthiness; or | when flying on any flight | T
+(bb) | in the case of a helicopter or gyroplane having a maximum total weight authorized exceeding 2 000 kg | C, E with either E(iv) duplicated or a radio altimeter, F(ii), F(iii), F(v) and G
 
-  - (c) having a maximum total weight authorized exceeding 27000 kg which conform to a type first issued with a type certificate on or after 1 April 1971 (or 1 January 1970 in the case of an aeroplane having a maximum total weight authorized exceeding 230000 kg) in respect of which an application has been made, and not withdrawn or refused for such a certificate of airworthiness and which fly under the “A Conditions” or in respect of which there is in force a certificate of airworthiness in the Special
+(iv) | when flying by night without visual ground reference | C, E with E(iv) duplicated, F(ii), F(iii), F(v) and G
 
-  - Category. | when flying on any flight | T
+(v) | when flying over water
 
-  - (9) Aeroplanes powered by one or more turbine jets or one or more turbine propeller engines which have a maximum total weight authorized exceeding 5700 kg or which in accordance with the certificate of airworthiness in force in respect of which may carry more than 9
+(aa) | in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group A2 or B when beyond auto-rotational gliding distance from land suitable for an emergency landing | E and H
 
-  - passengers. | when flying on any flight. | X (L.N. 77 of 2008)
+(bb) | on all flights on which in the event of any emergency occurring during the take-off or during the landing at the intended destination or any likely alternate destination it is reasonably possible that the helicopter or gyroplane would be forced to land onto water | H
 
-  - (10) Aeroplanes:
+(cc) | in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group A2 or B when beyond 10 minutes flying time* from land | E, H, K and T
 
-  - (a) which are turbo-jets and which have a maximum total weight
+(dd) | for more than a total of 3 minutes in any flight | EE
 
-  - authorized exceeding | when flying by night for the purpose
+(ee) | in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group A2 which is intended to fly beyond 10 minutes flying time from land, or which actually flies beyond 10 minutes flying time from land on a flight which is either in support of or in connection with the offshore exploitation, or exploration of mineral resources (including gas) when the weather report or forecasts available to the pilot in command of the aircraft indicate that the sea temperature will be less than plus 10oC during the flight or when any part of the flight is at night | I
 
-  - 22700 kg; or | of the public transport of passengers. | Z(i) and (ii)
+(vi) | on all flights which involve manoeuvres on water | H, J and K
 
-  - (b) having a maximum total weight authorized exceeding 5700 kg and which conform to a type for which a certificate of airworthiness was first applied for (whether in Hong Kong or elsewhere) after 30 April 1972 but not including any aeroplane which in the opinion of the Chief Executive is identical in all matters affecting the provision of emergency evacuation facilities to an aeroplane for which a certificate of airworthiness was first applied
+(vii) | when flying at a height of 10 000 ft or more above mean sea level:
 
-  - for before that date; or (36 of | when flying by night for the purpose
+(aa) | having a certificate of airworthiness first issued (whether in Hong Kong or elsewhere) before 1 January 1989 | L1 or L2
 
-  - 1999 s. 3) | of the public transport of passengers | Z(i) and (ii)
+(bb) | having a certificate of airworthiness first issued (whether in Hong Kong or elsewhere) on or after 1 January 1989 | L2
 
-  - (c) which in accordance with the certificate of airworthiness in force in respect thereof may
+(viii) | on flights when the weather reports or forecasts available at the aerodrome at the time of departure indicate that conditions favouring ice formation are likely to be met | M
 
-  - carry more than 19 | when flying by night for the purpose
+(ix) | on all flights on which the aircraft carries a flight crew of more than one person | N
 
-  - passengers; or | of the public transport of passengers | Z(i)
+(x) | on all flights for the purpose of the public transport of passengers | Y(i), (ii) and (iii)
 
-  - (d) having a maximum total weight authorized exceeding 5700 kg and which conform to a type for which a certificate of airworthiness was first applied for (whether in Hong Kong or elsewhere) after 30 April 1972 but not including any aeroplane which in the opinion of the Chief Executive is identical in all matters affecting the provision of emergency evacuation facilities to an aeroplane for which a certificate of airworthiness was first applied
+(xi) | when flying over substantially uninhabited land areas where, in the event of an emergency landing, tropical conditions are likely to be met | U
 
-  - for before that date; or (36 of | when flying for the purpose of the
+(xii) | when flying over substantially uninhabited land or other areas where, in the event of any emergency landing, polar conditions are likely to be met | V
 
-  - 1999 s. 3) | public transport of passengers | Z(iii)
+(14) Helicopters & Gyroplanes
 
-  - (e) which are turbo-jets and which have a maximum total weight
+(a) | having a maximum total weight authorized exceeding 5 700 kg and which conform to a type for which a certificate of airworthiness was first applied for (whether in Hong Kong or elsewhere) after 30 April 1972 but not including any helicopter or gyroplane which in the opinion of the Chief Executive is identical in all matters affecting the provision of emergency evacuation facilities to a helicopter or gyroplane for which a certificate of airworthiness was first applied for before that date; or (36 of 1999 s. 3) | when flying by night for the purpose of the public transport of passengers | Z(i) and (ii)
 
-  - authorized exceeding | when flying for the purpose of the
+(b) | which, in accordance with the certificate of airworthiness in force in respect thereof may carry more than 19 passengers; or | when flying by night for the purpose of the public transport of passengers | Z(i)
 
-  - 22700 kg; or | public transport of passengers | Z(iii)
+(c) | (Repealed L.N. 77 of 2008)
 
-  - (f) first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 January 1958 and which in accordance with the certificate of airworthiness in force in respect thereof
+(d) | which have a certificate of airworthiness issued in the Transport Category (Passenger or Cargo) and helicopters and gyroplanes in respect of which application has been made and not withdrawn or refused for such a certificate of airworthiness and which fly under the “A Conditions” or which have a certificate of airworthiness in the Special Category and
 
-  - may carry more than | when flying for the purpose of the
+(i) | which have a maximum total weight authorized exceeding 2 730 kg but not exceeding 7 000 kg or which in accordance with the certificate of airworthiness in force in respect thereof may carry more than 9 passengers, or both | when flying on any flight | SS(i) or (iii)
 
-  - 19 passengers. | public transport of passengers | Z(iii)
+(ii) | which have a maximum total weight authorized exceeding 7 000 kg | when flying on any flight | SS(ii) or (iii)
 
-  - (11) Aeroplanes: (a) powered by one or more turbine jets and first issued with a certificate of airworthiness in Hong Kong
+(e) | which have a certificate of airworthiness issued in the Aerial Work or Private Category and which have a maximum total weight authorized exceeding 7 000 kg: | when flying on any flight. | SS(ii) or (iii)
 
-  - on or after 1 April 1989; | when flying on any flight | AA
+Provided that this paragraph shall not apply to helicopters and gyroplanes falling within paragraph (15).
 
-  - (b) powered by one or more turbine jets and first issued with a certificate of airworthiness in Hong Kong
+(15) Helicopters and gyroplanes for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) after 1 January 2005 and which have a maximum total weight authorized exceeding 3 175 kg. | when flying on any flight. | SS(iv)
 
-  - prior to 1 April 1989; | when flying on any flight | AA
+(L.N. 77 of 2008)
 
-  - (c) powered by one or more turbine propeller engines and having a maximum total weight authorized exceeding 5700 kg and first issued with a certificate of airworthiness in Hong Kong on or after 1 April
+(L.N. 77 of 2008)
 
-  - 1989. | when flying on any flight | AA
+* For the purposes of this Table, flying time shall be calculated on the assumption that the aircraft is flying in still air at the speed specified in the relevant certificate of airworthiness as the speed for compliance with regulations governing flights over water.
 
-  - (12) Aeroplanes:
+- 5. The scales of equipment indicated in the foregoing Table shall be as follows:
 
-  - (a) which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1978 and in respect of which there is in force a certificate of
-
-  - airworthiness in the Transport | on all flights for the purpose of the
-
-  - Category (Passenger); | public transport of passengers | Y(iv)
-
-  - (b) which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) on or after 1 April 1968 and before 1 April 1978 and in respect of which there is in force a certificate of
-
-  - airworthiness in the Transport | on all flights for the purpose of the
-
-  - Category (Passenger); | public transport of passengers | Y(iv)
-
-  - (c) which conform to a type first issued with a type certificate (whether in Hong Kong or elsewhere) before 1 April 1968 and in respect of which there is in force a certificate of
-
-  - airworthiness in the Transport | on all flights for the purpose of the
-
-  - Category (Passenger). | public transport of passengers | Y(iv)
-
-  - (13) Helicopters and | (a) flying for purposes other than | A(i), (ii) and (iii)(a)
-
-  - Gyroplanes | public transport: | and B(i)
-
-  - and
-
-  - (i) when flying by day under Visual Flight Rules with | D, F(i) and (vi)
-
-  - visual ground reference | and FF
-
-  - (ii) when flying by day under instrument Flight Rules or without visual ground reference
-
-  - (aa) outside controlled
-
-  - airspace | E and F
-
-  - (bb) within controlled airspace | E with E(iv) duplicated and F with F(iv) for all weights
-
-  - (iii) when flying by night
-
-  - (aa) with visual ground reference | C, E, G(iii) and G(v)
-
-  - (bb) without visual ground reference
-
-  - (aaa) outside controlled airspace | C, E, F and G(ii), (iii) and (v)
-
-  - (bbb) within controlled airspace | C, E with E(iv) duplicated, F and G(ii), (iii) and (v)
-
-  - (iv) when flying over water
-
-  - (aa) in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group A which is intended to fly a distance from land corresponding to more than 10 minutes at normal cruise
-
-  - speed. | H, K and KK
-
-  - (bb) in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group B when beyond autorotational or safe forced landing distance
-
-  - from land. | H, K and KK
-
-  - (v) on all flights on which in the event of any emergency occurring during the take-off or during the landing at the intended destination or any likely alternate destination it is reasonably possible that the helicopter or gyroplane would be forced to land
-
-  - onto water. | H
-
-  - (vi) when flying over land areas which have been designated by the State concerned as areas in which search and rescue would be especially difficult where, in the event of an emergency landing, tropical
-
-  - conditions are likely to be met. | U
-
-  - (vii) when flying over land areas which have been designated by the State concerned as areas in which search and rescue would be especially difficult where, in the event of an emergency landing, polar
-
-  - conditions are likely to be met. | V
-
-  - (viii) when flying at a height of 10000 ft or more above mean sea
-
-  - level. | L2
-
-  - (b) flying for the purpose of public transport; and | A, B(i) and (ii), F(i) and F(iv) for all weights
-
-  - (i) when flying by day under Visual Flight Rules with
-
-  - visual ground reference
-
-  - (aa) outside controlled | D, F(i) and (vi)
-
-  - airspace. | and FF
-
-  - (bb) within controlled airspace. | E with E(iv) duplicated
-
-  - and F
-
-  - (ii) when flying by day under Instrument Flight Rules or without visual ground reference | E with E(iv) duplicated and F
-
-  - (iii) when flying by night with visual ground reference
-
-  - (aa) in the case of a helicopter or gyroplane having a maximum total weight authorized not exceeding
-
-  - 2000 kg | C, E and G
-
-  - (bb) in the case of a helicopter or gyroplane having a maximum total weight authorized exceeding 2000 kg | C, E with either E(iv) duplicated or a radio altimeter, F(ii), F(iii), F(v) and G
-
-  - (iv) when flying by night without visual ground reference | C, E with E(iv) duplicated, F(ii), F(iii), F(v) and G
-
-  - (v) when flying over water (aa) in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group A2 or B when beyond auto-rotational gliding distance from land suitable
-
-  - for an emergency landing | E and H
-
-  - (bb) on all flights on which in the event of any emergency occurring during the take-off or during the landing at the intended destination or any likely alternate destination it is reasonably possible that the helicopter or gyroplane would be forced to land onto
-
-  - water | H
-
-  - (cc) in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group A2 or B when beyond 10 minutes flying time*
-
-  - from land | E, H, K and T
-
-  - (dd) for more than a total of 3 minutes in any
-
-  - flight | EE
-
-  - (ee) in the case of a helicopter or gyroplane classified in its certificate of airworthiness as being of performance group A2 which is intended to fly beyond 10 minutes flying time from land, or which actually flies beyond 10 minutes flying time from land on a flight which is either in support of or in connection with the offshore exploitation, or exploration of mineral resources (including gas) when the weather report or forecasts available to the pilot in command of the aircraft indicate that the sea temperature will be less than plus 10oC during the flight or when any part of
-
-  - the flight is at night | I
-
-  - (vi) on all flights which involve
-
-  - manoeuvres on water | H, J and K
-
-  - (vii) when flying at a height of 10000 ft or more above mean sea level: (aa) having a certificate of airworthiness first issued (whether in Hong Kong or elsewhere) before 1
-
-  - January 1989 | L1 or L2
-
-  - (bb) having a certificate of airworthiness first issued (whether in Hong Kong or elsewhere) on or after
-
-  - 1 January 1989 | L2
-
-  - (viii) on flights when the weather reports or forecasts available at the aerodrome at the time of departure indicate that conditions favouring ice formation are likely to be
-
-  - met | M
-
-  - (ix) on all flights on which the aircraft carries a flight crew
-
-  - of more than one person | N
-
-  - (x) on all flights for the purpose of the public transport of
-
-  - passengers | Y(i), (ii) and (iii)
-
-  - (xi) when flying over substantially uninhabited land areas where, in the event of an emergency landing, tropical conditions
-
-  - are likely to be met | U
-
-  - (xii) when flying over substantially uninhabited land or other areas where, in the event of any emergency landing, polar conditions are likely to
-
-  - be met | V
-
-  - (14) Helicopters & Gyroplanes (a) having a maximum total weight authorized exceeding 5700 kg and which conform to a type for which a certificate of airworthiness was first applied for (whether in Hong Kong or elsewhere) after 30 April 1972 but not including any helicopter or gyroplane which in the opinion of the Chief Executive is identical in all matters affecting the provision of emergency evacuation facilities to a helicopter or gyroplane for which a certificate of airworthiness was first applied
-
-  - for before that date; or (36 | when flying by night for the purpose
-
-  - of 1999 s. 3) | of the public transport of passengers | Z(i) and (ii)
-
-  - (b) which, in accordance with the certificate of airworthiness in force in respect thereof may
-
-  - carry more than 19 | when flying by night for the purpose
-
-  - passengers; or | of the public transport of passengers | Z(i)
-
-  - (c) (Repealed L.N. 77 of 2008)
-
-  - (d) which have a certificate of airworthiness issued in the Transport Category (Passenger or Cargo) and helicopters and gyroplanes in respect of which application has been made and not withdrawn or refused for such a certificate of airworthiness and which fly under the “A Conditions” or which have a certificate of airworthiness in the Special Category and (i) which have a maximum total weight authorized exceeding 2730 kg but not exceeding 7000 kg or which in accordance with the certificate of airworthiness in force in respect thereof may carry more than 9 passengers,
-
-  - or both | when flying on any flight | SS(i) or (iii)
-
-  - (ii) which have a maximum total weight authorized
-
-  - exceeding 7000 kg | when flying on any flight | SS(ii) or (iii)
-
-  - (e) which have a certificate of airworthiness issued in the Aerial Work or Private Category and which have a maximum total weight authorized exceeding
-
-  - 7000 kg: | when flying on any flight. | SS(ii) or (iii)
-
-  - Provided that this paragraph shall not apply to helicopters and gyroplanes falling within paragraph (15).
-
-  - (15) Helicopters and gyroplanes for which an individual certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) after 1 January 2005 and which have a maximum total weight authorized
-
-  - exceeding 3175 kg. | when flying on any flight. | SS(iv)
-
-  - (L.N. 77 of 2008)
-
-- (L.N. 77 of 2008)
-
-- * For the purposes of this Table, flying time shall be calculated on the assumption that the aircraft is flying in still air at the speed specified in the relevant certificate of airworthiness as the speed for compliance with regulations governing flights over water.
-
-- 5.
-
-- The scales of equipment indicated in the foregoing Table shall be as follows:
-
-- Scale A
+Scale A
 
   - (i) Spare fuses for all electrical circuits the fuses of which can be replaced in flight, consisting of 10 per cent of the number of each rating or three of each rating, whichever is the greater.
 
@@ -560,21 +374,25 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
     - (a) is more than 1.82 metres from the ground when the undercarriage of the machine is in the normal position for taxying; or
 
-  - (b) would be more than 1.82 metres from the ground if the undercarriage or any part thereof should collapse, break or fail to function;
+    - (b) would be more than 1.82 metres from the ground if the undercarriage or any part thereof should collapse, break or fail to function;
 
-- apparatus readily available for use at each door consisting of a device or devices which will enable passengers to reach the ground safely in an emergency while the flying machine is on the ground, and can be readily fixed in position for use. Scale AA An altitude alerting system capable of alerting the pilot upon approaching a preselected altitude in either ascent or descent, by a sequence of visual and aural signals in sufficient time to establish level flight at that preselected altitude, and when deviating above or below that preselected altitude, by a visual and an aural signal:
+  - apparatus readily available for use at each door consisting of a device or devices which will enable passengers to reach the ground safely in an emergency while the flying machine is on the ground, and can be readily fixed in position for use.
 
-  - Provided that if the system becomes unserviceable, the aircraft may fly or continue to fly, until it first lands at a place at which it is reasonably practicable for the system to be repaired or replaced.
+Scale AA
 
-- Scale B
+An altitude alerting system capable of alerting the pilot upon approaching a preselected altitude in either ascent or descent, by a sequence of visual and aural signals in sufficient time to establish level flight at that preselected altitude, and when deviating above or below that preselected altitude, by a visual and an aural signal:
+
+- Provided that if the system becomes unserviceable, the aircraft may fly or continue to fly, until it first lands at a place at which it is reasonably practicable for the system to be repaired or replaced.
+
+Scale B
 
   - (i)
 
-    - (a) If the maximum total weight authorized of the aircraft is 2730 kg or less, for every pilot’s seat and for any seat situated alongside a pilot’s seat, a safety belt with one diagonal shoulder strap or a safety harness:
+    - (a) If the maximum total weight authorized of the aircraft is 2 730 kg or less, for every pilot’s seat and for any seat situated alongside a pilot’s seat, a safety belt with one diagonal shoulder strap or a safety harness:
 
       - Provided that the Chief Executive may permit a safety belt without a diagonal shoulder strap to be fitted if he is satisfied that it is not reasonably practicable to fit a safety belt with one diagonal shoulder strap or a safety harness. (36 of 1999 s. 3)
 
-    - (b) If the maximum total weight authorized of the aircraft exceeds 2730 kg, a safety harness for every pilot’s seat and for any seat situated alongside a pilot’s seat:
+    - (b) If the maximum total weight authorized of the aircraft exceeds 2 730 kg, a safety harness for every pilot’s seat and for any seat situated alongside a pilot’s seat:
 
       - Provided that the Chief Executive may permit a safety belt with one diagonal shoulder strap to be fitted if he is satisfied that it is not reasonably practicable to fit a safety harness. (36 of 1999 s. 3)
 
@@ -584,7 +402,7 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
     - (e) On all flights for the public transport of passengers by aircraft, for each seat for use by members of the cabin crew who are required to be carried under this Order, a safety harness.
 
-    - (f) On all flights in aeroplanes the maximum total weight authorized of which does not exceed 5700 kg which in accordance with the certificate of airworthiness in force thereof is not capable of seating more than 9 passengers (otherwise than in seats referred to under sub-paragraphs (a) and (b)), a safety belt with one diagonal shoulder strap or a safety harness for each seat intended for use by a passenger:
+    - (f) On all flights in aeroplanes the maximum total weight authorized of which does not exceed 5 700 kg which in accordance with the certificate of airworthiness in force thereof is not capable of seating more than 9 passengers (otherwise than in seats referred to under sub-paragraphs (a) and (b)), a safety belt with one diagonal shoulder strap or a safety harness for each seat intended for use by a passenger:
 
       - Provided that the provisions of this sub-paragraph shall not apply to aeroplanes in respect of which a certificate of airworthiness was first issued (whether in Hong Kong or elsewhere) before 1 February 1989.
 
@@ -594,15 +412,17 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
     - Provided that in the case of an aircraft carrying out aerobatic manoeuvres consisting only of erect spinning, the Chief Executive may permit a safety belt with one diagonal shoulder strap to be fitted if he is satisfied that such restraint is sufficient for the carrying out of erect spinning in that aircraft and that it is not reasonably practicable to fit a safety harness in that aircraft. (36 of 1999 s. 3)
 
-- (L.N. 77 of 2008)
+(L.N. 77 of 2008)
 
-- Scale C
+Scale C
 
   - (i) Equipment for displaying the lights required by the Rules of the Air;
 
   - (ii) Electrical equipment, supplied from the main source of supply in the aircraft, to provide sufficient illumination to enable the flight crew properly to carry out their duties during flight;
 
-  - (iii) Unless the aircraft is equipped with radio, devices for making the visual signal specified in the Rules of the Air as indicating a request for permission to land. Scale D
+  - (iii) Unless the aircraft is equipped with radio, devices for making the visual signal specified in the Rules of the Air as indicating a request for permission to land.
+
+Scale D
 
   - (i)
 
@@ -614,7 +434,9 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
       - (bb) a gyroscopic bank and pitch indicator and a gyroscopic direction indicator;
 
-  - (ii) A sensitive pressure altimeter, with counter drum-pointer or equivalent presentation, adjustable for any sea level barometric pressure which the weather report or forecasts available to the pilot in command of the aircraft indicate is likely to be encountered during the intended flight. (L.N. 77 of 2008) Scale E
+  - (ii) A sensitive pressure altimeter, with counter drum-pointer or equivalent presentation, adjustable for any sea level barometric pressure which the weather report or forecasts available to the pilot in command of the aircraft indicate is likely to be encountered during the intended flight. (L.N. 77 of 2008)
+
+Scale E
 
   - (i)
 
@@ -632,11 +454,11 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
   - (iv) A sensitive pressure altimeter, with counter drum-pointer or equivalent presentation, adjustable for any sea level barometric pressure which the weather report or forecasts available to the pilot in command of the aircraft indicate is likely to be encountered during the intended flight:
 
-    - Provided that any aircraft may, at the option of the operator, be equipped with an additional attitude indicator in lieu of the turn indicator referred to in paragraph (i) of this Scale.
+  - Provided that any aircraft may, at the option of the operator, be equipped with an additional attitude indicator in lieu of the turn indicator referred to in paragraph (i) of this Scale. (L.N. 77 of 2008)
 
-- (L.N. 77 of 2008)
+Scale EE A radio altimeter with an audio voice warning operating below a preset height and a visual warning capable of operating at a height selectable by the pilot.
 
-- Scale EE A radio altimeter with an audio voice warning operating below a preset height and a visual warning capable of operating at a height selectable by the pilot. Scale F
+Scale F
 
   - (i) A timepiece indicating the time in hours, minutes and seconds;
 
@@ -648,11 +470,13 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
   - (v) An airspeed indicating system with a means of preventing malfunction due to either condensation or icing; in the case of an aeroplane with speed limitations expressed in terms of Mach number, a Mach number indicator; (L.N. 77 of 2008)
 
-  - (vi) A magnetic compass. (L.N. 77 of 2008) Scale FF An airspeed indicator.
+  - (vi) A magnetic compass. (L.N. 77 of 2008)
 
-- (L.N. 77 of 2008)
+Scale FF An airspeed indicator.
 
-- Scale G
+(L.N. 77 of 2008)
+
+Scale G
 
   - (i) In the case of an aircraft other than a helicopter or gyroplane landing lights consisting of two single filament lamps, or one dual filament lamp with separately energised filaments;
 
@@ -672,17 +496,19 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
         - (bbb) number in total not less than the minimum number of members of the cabin crew required to be carried with a full passenger complement; (L.N. 77 of 2008)
 
-  - (iv) In the case of an aircraft other than a helicopter or gyroplane of which the maximum total weight authorized exceeds 5700 kg, means of observing the existence and build up of ice on the aircraft;
+  - (iv) In the case of an aircraft other than a helicopter or gyroplane of which the maximum total weight authorized exceeds 5 700 kg, means of observing the existence and build up of ice on the aircraft;
 
   - (v)
 
     - (a) In the case of a helicopter or gyroplane in respect of which there is in force a certificate of airworthiness designating the helicopter or gyroplane as being of performance group A, 2 landing lights of which at least one is adjustable in flight so as to illuminate the ground in front of and below the helicopter or gyroplane and the ground on either side of the helicopter or gyroplane;
 
-    - (b) In the case of a helicopter or gyroplane in respect of which there is in force a certificate of airworthiness designating the helicopter or gyroplane as being of performance group B, 2 landing lights. (L.N. 77 of 2008) Scale H For each person on board, a lifejacket equipped with a whistle and waterproof torch:
+    - (b) In the case of a helicopter or gyroplane in respect of which there is in force a certificate of airworthiness designating the helicopter or gyroplane as being of performance group B, 2 landing lights. (L.N. 77 of 2008)
 
-      - Provided that lifejackets constructed and carried solely for use by children under three years of age need not be equipped with a whistle.
+Scale H For each person on board, a lifejacket equipped with a whistle and waterproof torch: Provided that lifejackets constructed and carried solely for use by children under three years of age need not be equipped with a whistle.
 
-    - Scale I A survival suit for each member of the crew. Scale J
+Scale I A survival suit for each member of the crew.
+
+Scale J
 
   - (i) Additional flotation equipment, capable of supporting one-fifth of the number of persons on board, and provided in a place of stowage accessible from outside the flying machine;
 
@@ -690,13 +516,17 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
   - (iii) A sea anchor and other equipment necessary to facilitate mooring, anchoring or manoeuvering the flying machine on water, appropriate to its size, weight and handling characteristics; (L.N. 77 of 2008)
 
-  - (iv) Equipment for making the sound signals for preventing collisions at sea. (L.N. 77 of 2008) Scale K
+  - (iv) Equipment for making the sound signals for preventing collisions at sea. (L.N. 77 of 2008)
+
+Scale K
 
   - (i)
 
     - (a) In the case of a flying machine, other than a helicopter or gyroplane carrying 20 or more persons, liferafts sufficient to accommodate all persons on board;
 
-    - (b) In the case of a helicopter or gyroplane carrying 20 or more persons, a minimum of 2 liferafts sufficient together to accommodate all persons on board. Each liferaft shall contain the following equipment:
+    - (b) In the case of a helicopter or gyroplane carrying 20 or more persons, a minimum of 2 liferafts sufficient together to accommodate all persons on board.
+
+  - Each liferaft shall contain the following equipment:
 
     - (a) means for maintaining buoyancy;
 
@@ -714,17 +544,17 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
     - (h) means of making sea water drinkable, unless the full quantity of fresh water is carried as specified in item (i); (L.N. 77 of 2008)
 
-    - (i)
-
-    - for each 4 or proportion of 4 persons the liferaft is designed to carry:
+    - (i) for each 4 or proportion of 4 persons the liferaft is designed to carry:
 
     - 100 grammes of glucose toffee tablets;
 
     - 1/2 litre of fresh water in durable containers:
 
-      - Provided that in any case in which it is not reasonably practicable to carry the quantity of water above specified as large a quantity of fresh water as is reasonably practicable in the circumstances may be substituted. In no case however shall the quantity of water carried be less than is sufficient, when added to the amount of fresh water capable of being produced by means of the equipment specified in item (h) to provide 1/2 litre of water for each 4 or proportion of 4 persons the liferaft is designed to carry. (L.N. 77 of 2008)
+      - Provided that in any case in which it is not reasonably practicable to carry the quantity of water above specified as large a quantity of fresh water as is reasonably practicable in the circumstances may be substituted. In no case however shall the quantity of water carried be less than is sufficient, when added to the amount of fresh water capable of being produced by means of the equipment specified in item (h) to provide 1 2 litre of water for each 4 or proportion of 4 persons the liferaft is designed to carry. (L.N. 77 of 2008)
 
-    - (j) first aid equipment; Items (f) to (j) inclusive shall be contained in a pack.
+    - (j) first aid equipment;
+
+  - Items (f) to (j) inclusive shall be contained in a pack.
 
   - (ii) The number of survival beacon radio apparatus carried when the aircraft is carrying the number of liferafts specified in column 1 of the following Table shall be not less than the number specified in, or calculated in accordance with column 2.
 
@@ -736,21 +566,23 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
   - For every additional 4 or proportion of 4 liferafts. | 1 additional survival beacon radio apparatus.
 
-  - (iii) In the case of a helicopter or gyroplane, an emergency beacon which is automatically deployed and activated in the event of a crash. Scale KK A permanent or rapidly deployable means of floatation so as to ensure a safe ditching of the helicopter or gyroplane.
+  - (iii) In the case of a helicopter or gyroplane, an emergency beacon which is automatically deployed and activated in the event of a crash.
 
-- (L.N. 77 of 2008)
+Scale KK A permanent or rapidly deployable means of floatation so as to ensure a safe ditching of the helicopter or gyroplane.
 
-- Scale L1
+(L.N. 77 of 2008)
 
-  - Part I
+Scale L1
+
+- Part I
 
     - (i) In every flying machine which is provided with means for maintaining a pressure greater than 700 hectopascals throughout the flight in the flight crew compartment and in the compartments in which the passengers are carried: (L.N. 77 of 2008)
 
-    - (a) a supply of oxygen sufficient, in the event of failure to maintain such pressure, occurring in the circumstances specified in columns 1 and 2 of the Table set out in Part II of this Scale, for continuous use, during the periods specified in column 3 of the said Table, by the persons for whom oxygen is to be provided in accordance with column 4 of that Table; and
+      - (a) a supply of oxygen sufficient, in the event of failure to maintain such pressure, occurring in the circumstances specified in columns 1 and 2 of the Table set out in Part II of this Scale, for continuous use, during the periods specified in column 3 of the said Table, by the persons for whom oxygen is to be provided in accordance with column 4 of that Table; and
 
       - (b) in addition, in every case where the flying machine flies above flight level 350, a supply of oxygen in a portable container sufficient for the simultaneous first aid treatment of 2 passengers,
 
-      - together with suitable and sufficient apparatus to enable such persons to use the oxygen.
+    - together with suitable and sufficient apparatus to enable such persons to use the oxygen.
 
     - (ii) In any other flying machine:
 
@@ -762,33 +594,49 @@ Articles 11(4), 13(2) and (8), 25(5) and
 
     - (iii) The quantity of oxygen required for the purpose of complying with paragraphs (i) and (ii) of this Part of this Scale shall be computed in accordance with the information and instructions relating thereto specified in the operations manual relating to the aircraft pursuant to Item (vi) of Part A of Schedule 11 to this Order.
 
-  - Part II
+- Part II
 
-Column 1 | Column 2 | Column 3 | Column 4
+Column 1 Vertical displacement of the flying machine in relation to flight levels | Column 2 Capability of flying machine to descend (where relevant) | Column 3 Period of supply of oxygen | Column 4 Persons for whom oxygen is to be provided
 
-Vertical displacement of the flying machine in relation to flight levels | Capability of flying machine to descend (where relevant) | Period of supply of oxygen | Persons for whom oxygen is to be provided
+Above flight level 100 | — | 30 minutes or the period specified at A hereunder whichever is greater | In addition to any passengers for whom oxygen is provided as specified below, all the crew
 
-Above flight level 100 | - | 30 minutes or the period specified at A hereunder whichever is greater | In addition to any passengers for whom oxygen is provided as specified below, all the crew
+{ | Flying machine is either flying at or below flight level 150 or is capable of descending and continuing to destination as specified at X hereunder | 30 minutes or the period specified at A hereunder whichever is the greater | 10 per cent of number of passengers
 
-Above flight level 100 but not above flight level 300 | { { { { { { | Flying machine is either flying at or below flight level 150 or is capable of descending and continuing to destination as specified at X hereunder Flying machine is flying above flight level 150 and is not so capable | { { { { { { | 30 minutes or the 10 per cent of number period specified at of passengers A hereunder whichever is the greater 10 minutes or the All passengers period specified at B hereunder whichever is the greater and in addition 30 minutes or the 10 per cent of number period specified at of passengers C hereunder whichever is the greater
+Above flight level 100 but not above flight level 300
 
-Above flight level 300 but not above flight level 350 | { { { { { { | Flying machine is capable of descending and continuing to destination as specified at Y hereunder Flying machine is not so capable | { { { { { { | 30 minutes or the 15 per cent of number period specified at of passengers A hereunder whichever is the greater 10 minutes or the All passengers period specified at B hereunder whichever is the greater and in addition 30 minutes or the 15 per cent of number period specified at of passengers C hereunder whichever is the greater
+{ | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
 
-Above flight level 350 | - | { { { { { { | 10 minutes or the All passengers period specified at B hereunder whichever is the greater and in addition 30 minutes or the 15 per cent of number period specified at of passengers C hereunder whichever is the greater
+Flying machine is flying above flight level 150 and is not so capable | and in addition
 
-A The whole period during which, after a failure to maintain a pressure greater than 700 hectopascals in the control compartment and in the compartments in which passengers are carried has occurred, the flying machine flies above flight level 100. (L.N. 77 of 2008)
+30 minutes or the period specified at C hereunder whichever is the greater | 10 per cent of number of passengers
 
-B The whole period during which, after a failure to maintain such pressure has occurred, the flying machine flies above flight level 150.
+{ | Flying machine is capable of descending and continuing to destination as specified at Y hereunder | 30 minutes or the period specified at A hereunder whichever is the greater | 15 per cent of number of passengers
 
-C The whole period during which, after a failure to maintain such pressure has occurred, the flying machine flies above flight level 100, but not above flight level 150.
+Above flight level 300 but not above flight level 350
 
-X The flying machine is capable, at the time when a failure to maintain such pressure occurs, of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aircraft, to flight level 150 within 6 minutes, and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made.
+{ | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
 
-Y The flying machine is capable, at the time when a failure to maintain such pressure occurs, of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aircraft, to flight level 150 within 4 minutes, and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made.
+Flying machine is not so capable | and in addition
 
-Scale L2
+30 minutes or the period specified at C hereunder whichever is the greater | 15 per cent of number of passengers
 
-- A supply of oxygen and the associated equipment to meet the requirements set out in Parts I and II of this scale. The duration for the purposes of this scale shall be:
+{ | 10 minutes or the period specified at B hereunder whichever is the greater | All passengers
+
+Above flight level 350 | — | and in addition
+
+30 minutes or the period specified at C hereunder whichever is the greater | 15 per cent of number of passengers
+
+A | The whole period during which, after a failure to maintain a pressure greater than 700 hectopascals in the control compartment and in the compartments in which passengers are carried has occurred, the flying machine flies above flight level 100. (L.N. 77 of 2008)
+
+B | The whole period during which, after a failure to maintain such pressure has occurred, the flying machine flies above flight level 150.
+
+C | The whole period during which, after a failure to maintain such pressure has occurred, the flying machine flies above flight level 100, but not above flight level 150.
+
+X | The flying machine is capable, at the time when a failure to maintain such pressure occurs, of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aircraft, to flight level 150 within 6 minutes, and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made.
+
+Y | The flying machine is capable, at the time when a failure to maintain such pressure occurs, of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aircraft, to flight level 150 within 4 minutes, and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made.
+
+Scale L2 A supply of oxygen and the associated equipment to meet the requirements set out in Parts I and II of this scale. The duration for the purposes of this scale shall be:
 
   - (i) that calculated in accordance with the operations manual prior to the commencement of the flight, being the period or periods which it is reasonably anticipated that the aircraft will be flown in the circumstances of the intended flight at a height where the said requirements apply and in calculating the said duration account shall be taken of:
 
@@ -804,33 +652,31 @@ Scale L2
 
   - (ii) the period or periods during which the aircraft is actually flown in the circumstances specified in the said Parts;
 
-- whichever is the greater.
+whichever is the greater.
 
-  - Part I Unpressurised aircraft
+- Part I Unpressurised aircraft
 
-    - (i) When flying at or below flight level 100:
-
-  - Nil
+    - (i) When flying at or below flight level 100: Nil
 
     - (ii) When flying above flight level 100 but not exceeding flight level 120:
 
     - Supply for | Duration
 
-    - (a) | Members of the flight crew | Any period during which the aircraft flies above flight level 100.
+    - (a) Members of the flight crew | Any period during which the aircraft flies above flight level 100.
 
-    - (b) | Members of the cabin crew and 10 per cent of passengers | For any continuous period exceeding 30 minutes during which the aircraft flies above flight level 100 but not exceeding flight level 120, the duration shall be the period by which 30 minutes is exceeded.
+    - (b) Members of the cabin crew and 10 per cent of passengers | For any continuous period exceeding 30 minutes during which the aircraft flies above flight level 100 but not exceeding flight level 120, the duration shall be the period by which 30 minutes is exceeded.
 
     - (iii) When flying above flight level 120:
 
     - Supply for | Duration
 
-    - (a) | Members of the flight crew | Any period during which the aircraft flies above flight level 120.
+    - (a) Members of the flight crew | Any period during which the aircraft flies above flight level 120.
 
-    - (b) | Members of the cabin crew and all passengers | Any period during which the aircraft flies above flight level 120.
+    - (b) Members of the cabin crew and all passengers | Any period during which the aircraft flies above flight level 120.
 
-  - (L.N. 77 of 2008)
+- (L.N. 77 of 2008)
 
-  - Part II Pressurised aircraft
+- Part II Pressurised aircraft
 
     - (i) When flying at or below flight level 100— Nil
 
@@ -838,199 +684,199 @@ Scale L2
 
     - Supply for | Duration
 
-    - (a) | Members of the flight crew | 30 minutes or whenever the cabin pressure altitude exceeds 10000 ft, whichever is the greater
+    - (a) | Members of the flight crew | 30 minutes or whenever the cabin pressure altitude exceeds 10 000 ft, whichever is the greater
 
-    - (b) | Members of the cabin crew and 10 per cent of passengers | (aa) When the aircraft is capable of descending and continuing to its destination as specified at A hereunder, 30 minutes or whenever the cabin pressure altitude exceeds 10000 ft, whichever is the greater (bb) When the aircraft is not so capable, whenever the cabin pressure altitude is greater than 10000 ft, but does not exceed 12000 ft
+    - (b) | Members of the cabin crew and 10 per cent of passengers | (aa) When the aircraft is capable of descending and continuing to its destination as specified at A hereunder, 30 minutes or whenever the cabin pressure altitude exceeds 10 000 ft, whichever is the greater (bb) When the aircraft is not so capable, whenever the cabin pressure altitude is greater than 10 000 ft, but does not exceed 12 000 ft
 
-    - (c) | Members of the cabin crew and passengers | (aa) When the aircraft is capable of descending and continuing to its destination as specified at A hereunder, no requirement other than that at (ii)(b)(aa) of this part of this scale (bb) When the aircraft is not so capable and the cabin pressure altitude exceeds 12000 ft, the duration shall be the period when the cabin pressure altitude exceeds 12000 ft or 10 minutes, whichever is the greater
+    - (c) | Members of the cabin crew and passengers | (aa) When the aircraft is capable of descending and continuing to its destination as specified at A hereunder, no requirement other than that at (ii)(b)(aa) of this part of this scale (bb) When the aircraft is not so capable and the cabin pressure altitude exceeds 12 000 ft, the duration shall be the period when the cabin pressure altitude exceeds 12 000 ft or 10 minutes, whichever is the greater
 
     - (iii) When flying above flight level 250—
 
     - Supply for | Duration
 
-    - (a) | Members of the flight crew | 2 hours or whenever the cabin pressure altitude exceeds 10000 ft, whichever is the greater
+    - (a) | Members of the flight crew | 2 hours or whenever the cabin pressure altitude exceeds 10 000 ft, whichever is the greater
 
-    - (b) | Members of the cabin crew | Whenever the cabin pressure altitude exceeds 10000 ft, and a portable supply for 15 minutes
+    - (b) | Members of the cabin crew | Whenever the cabin pressure altitude exceeds 10 000 ft, and a portable supply for 15 minutes
 
-    - (c) | 10 per cent of passengers | Whenever the cabin pressure altitude exceeds 10000 ft but does not exceed 12000 ft
+    - (c) | 10 per cent of passengers | Whenever the cabin pressure altitude exceeds 10 000 ft but does not exceed 12 000 ft
 
-    - (d) | 30 per cent of passengers | Whenever the cabin pressure altitude exceeds 12000 ft but does not exceed 15000 ft
+    - (d) | 30 per cent of passengers | Whenever the cabin pressure altitude exceeds 12 000 ft but does not exceed 15 000 ft
 
-    - (e) | All passengers | If the cabin pressure altitude exceeds 15000 ft, the duration shall be the period when the cabin pressure altitude exceeds 15000 ft or 10 minutes, whichever is the greater
+    - (e) | All passengers | If the cabin pressure altitude exceeds 15 000 ft, the duration shall be the period when the cabin pressure altitude exceeds 15 000 ft or 10 minutes, whichever is the greater
 
-    - (f) | 2 per cent of passengers or 2 passengers, whichever is the greater, being a supply of first aide oxygen which must be available for simultaneous first aid treatment of 2 per cent or 2 passengers wherever they are seated in the aircraft. | Whenever, after decompression, the cabin pressure altitude exceeds 8000 ft
+    - (f) | 2 per cent of passengers or 2 passengers, whichever is the greater, being a supply of first aide oxygen which must be available for simultaneous first aid treatment of 2 per cent or 2 passengers wherever they are seated in the aircraft. | Whenever, after decompression, the cabin pressure altitude exceeds 8 000 ft
 
-  - (L.N. 77 of 2008)
+- (L.N. 77 of 2008)
 
-  - A The flying machine is capable, at the time when a failure to maintain cabin pressurisation occurs, of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aircraft, to flight level 130 within 4 minutes and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made. (L.N. 77 of 2008) Scale M Equipment to prevent the impairment through ice formation of the functioning of the controls, means of propulsion, lifting surfaces, windows or equipment of the aircraft so as to endanger the safety of the aircraft. Scale N An intercommunication system for use by all members of the flight crew and including microphones, not of a hand-held type, for use by the pilot and flight engineer (if any). Scale O A radar set capable of giving warning to the pilot in command of the aircraft and to the co-pilot of the presence of cumulo-nimbus clouds and other potentially hazardous weather conditions:
+- A | The flying machine is capable, at the time when a failure to maintain cabin pressurisation occurs, of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aircraft, to flight level 130 within 4 minutes and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made. (L.N. 77 of 2008)
 
-    - Provided that a flight may commence if the set is unserviceable or continue if the set becomes unserviceable thereafter:
+- Scale M Equipment to prevent the impairment through ice formation of the functioning of the controls, means of propulsion, lifting surfaces, windows or equipment of the aircraft so as to endanger the safety of the aircraft.
 
-      - (a) so as to give the warning only to one pilot, so long as the aircraft is flying only to the place at which it first becomes reasonably practicable for the set to be repaired; or
+- Scale N An intercommunication system for use by all members of the flight crew and including microphones, not of a hand-held type, for use by the pilot and flight engineer (if any).
 
-      - (b) when the weather report or forecasts available to the pilot in command of the aircraft indicate that cumulo-nimbus clouds or other potentially hazardous weather conditions, which can be detected by the set when in working order, are unlikely to be encountered on the intended route or any planned diversion therefrom or the pilot in command has satisfied himself that any such weather conditions will be encountered in daylight and can be seen and avoided, and the aircraft is in either case operated throughout the flight in accordance with any relevant instructions given in the operations manual. (L.N. 77 of 2008)
+- Scale O
 
-Scale P
+- A radar set capable of giving warning to the pilot in command of the aircraft and to the co-pilot of the presence of cumulo-nimbus clouds and other potentially hazardous weather conditions:
+
+  - Provided that a flight may commence if the set is unserviceable or continue if the set becomes unserviceable thereafter:
+
+    - (a) so as to give the warning only to one pilot, so long as the aircraft is flying only to the place at which it first becomes reasonably practicable for the set to be repaired; or
+
+    - (b) when the weather report or forecasts available to the pilot in command of the aircraft indicate that cumulo-nimbus clouds or other potentially hazardous weather conditions, which can be detected by the set when in working order, are unlikely to be encountered on the intended route or any planned diversion therefrom or the pilot in command has satisfied himself that any such weather conditions will be encountered in daylight and can be seen and avoided, and the aircraft is in either case operated throughout the flight in accordance with any relevant instructions given in the operations manual. (L.N. 77 of 2008)
+
+- Scale P
 
 - A flight data recorder which is capable of recording and retaining the data recorded during at least the last 25 hours of its operation, by reference to a time-scale, the following data: (L.N. 77 of 2008)
 
-  - (a) indicated airspeed;
+    - (a) indicated airspeed;
 
-  - (b) indicated altitude;
+    - (b) indicated altitude;
 
-  - (c) vertical acceleration;
+    - (c) vertical acceleration;
 
-  - (d) magnetic heading;
+    - (d) magnetic heading;
 
-  - (e) pitch attitude, if the equipment provided in the aeroplane is of such a nature as to enable this item to be recorded;
+    - (e) pitch attitude, if the equipment provided in the aeroplane is of such a nature as to enable this item to be recorded;
 
-  - (f) engine power, if the equipment provided in the aeroplane is of such a nature as to enable this item to be recorded;
+    - (f) engine power, if the equipment provided in the aeroplane is of such a nature as to enable this item to be recorded;
 
-  - (g) flap position;
+    - (g) flap position;
 
-  - (h) roll attitude, if the equipment provided in the aeroplane is of such a nature as to enable this item to be recorded:
+    - (h) roll attitude, if the equipment provided in the aeroplane is of such a nature as to enable this item to be recorded:
 
-    - Provided that any aeroplane having a maximum total weight authorized not exceeding 11400 kg may be provided with:
+  - Provided that any aeroplane having a maximum total weight authorized not exceeding 11 400 kg may be provided with:
 
-  - (i) a flight data recorder capable of recording the data described in sub-paragraphs (a) to (h) of this Scale; or
+    - (i) a flight data recorder capable of recording the data described in sub-paragraphs (a) to (h) of this Scale; or
 
-  - (ii) a 4 channel cockpit voice recorder.
+    - (ii) a 4 channel cockpit voice recorder.
 
-- In addition, on all flights by turbine-powered aeroplanes having a maximum total weight authorized exceeding 11400 kg, a 4 channel cockpit voice recorder.
+- In addition, on all flights by turbine-powered aeroplanes having a maximum total weight authorized exceeding 11 400 kg, a 4 channel cockpit voice recorder.
 
 - The flight data recorder and cockpit voice recorder referred to above shall be so constructed that the record would be likely to be preserved in the event of an accident to the aeroplane:
 
   - Provided that an aeroplane shall not be required to carry the said equipment, if before take-off the equipment is found to be unserviceable and the aircraft flies in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
 
-- Scale Q If the maximum total weight authorized of the aeroplane exceeds 5700 kg and it was first registered, whether in Hong Kong or elsewhere, on or after 1 June 1965, a door between the flight crew compartment and any adjacent compartment to which passengers have access, which door shall be fitted with a lock or bolt capable of being worked from the flight crew compartment. Scale R1 (Repealed L.N. 77 of 2008) Scale R
+- Scale Q If the maximum total weight authorized of the aeroplane exceeds 5 700 kg and it was first registered, whether in Hong Kong or elsewhere, on or after 1 June 1965, a door between the flight crew compartment and any adjacent compartment to which passengers have access, which door shall be fitted with a lock or bolt capable of being worked from the flight crew compartment.
+
+- Scale R1 (Repealed L.N. 77 of 2008)
+
+- Scale R (L.N. 77 of 2008)
+
+    - (i)
+
+      - (a) In respect of aeroplanes having a maximum total weight authorized exceeding 5 700 kg, equipment sufficient to protect the eyes, nose and mouth of all members of the flight crew required to be carried by virtue of Article 18 of this Order for a period of not less than 15 minutes and, in addition, where the minimum flight crew required as aforesaid is more than one and a member of the cabin crew is not required to be carried by virtue of Article 18 of this Order; portable equipment sufficient to protect the eyes, nose and mouth of one member of the flight crew for a period of not less than 15 minutes;
+
+      - (b) In respect of aeroplanes having a maximum total weight authorized not exceeding 5 700 kg, the equipment specified in (i)(a) of this Scale:
+
+        - Provided that in the case of such aeroplanes restricted by virtue of the operator’s operations manual to flight at or below flight level 250 and capable of descending as specified at A hereunder such equipment shall be sufficient to protect the eyes only.
+
+    - (ii)
+
+      - (a) In respect of aeroplanes having a maximum total weight authorized exceeding 5 700 kg, portable equipment to protect the eyes, nose and mouth of all members of the cabin crew required to be carried by virtue of Article 18 of this Order for a period of not less than 15 minutes;
+
+      - (b) In respect of aeroplanes having a maximum total weight authorized not exceeding 5 700 kg, the equipment specified in (ii)(a) of this Scale:
+
+        - Provided that this requirement shall not apply to such aeroplanes restricted by virtue of the operator’s operations manual to flight at or below flight level 250 and capable of descending as specified at A hereunder.
 
 - (L.N. 77 of 2008)
 
-  - (i)
+- A | The aeroplane is capable of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aeroplane, to flight level 100 within 4 minutes and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made.
 
-    - (a) In respect of aeroplanes having a maximum total weight authorized exceeding 5700 kg, equipment sufficient to protect the eyes, nose and mouth of all members of the flight crew required to be carried by virtue of Article 18 of this Order for a period of not less than 15 minutes and, in addition, where the minimum flight crew required as aforesaid is more than one and a member of the cabin crew is not required to be carried by virtue of Article 18 of this Order; portable equipment sufficient to protect the eyes, nose and mouth of one member of the flight crew for a period of not less than 15 minutes;
+- Scale S A flight data recorder required by this Scale shall be capable of retaining the data recorded during at least the last 25 hours of its operation. A cockpit voice recorder required by this Scale shall be capable of retaining the data recorded during at least the last 30 minutes of its operation. For a cockpit voice recorder installed in an aeroplane of a maximum total weight authorized exceeding 5 700 kg for which an individual certificate of airworthiness was first issued after 1 January 2003, it shall be capable of retaining the data recorded during at least the last 2 hours of its operation.
 
-    - (b) In respect of aeroplanes having a maximum total weight authorized not exceeding 5700 kg, the equipment specified in (i)(a) of this Scale:
-
-      - Provided that in the case of such aeroplanes restricted by virtue of the operator’s operations manual to flight at or below flight level 250 and capable of descending as specified at A hereunder such equipment shall be sufficient to protect the eyes only.
-
-  - (ii)
-
-    - (a) In respect of aeroplanes having a maximum total weight authorized exceeding 5700 kg, portable equipment to protect the eyes, nose and mouth of all members of the cabin crew required to be carried by virtue of Article 18 of this Order for a period of not less than 15 minutes;
-
-  - (b) In respect of aeroplanes having a maximum total weight authorized not exceeding 5700 kg, the equipment specified in (ii)(a) of this Scale:
-
-    - Provided that this requirement shall not apply to such aeroplanes restricted by virtue of the operator’s operations manual to flight at or below flight level 250 and capable of descending as specified at A hereunder.
-
-- (L.N. 77 of 2008)
-
-- A The aeroplane is capable of descending in accordance with the emergency descent procedure specified in the relevant flight manual and without flying below the minimum altitudes for safe flight specified in the operations manual relating to the aeroplane, to flight level 100 within 4 minutes and of continuing at or below that flight level to its place of intended destination or any other place at which a safe landing can be made.
-
-- Scale S A flight data recorder required by this Scale shall be capable of retaining the data recorded during at least the last 25 hours of its operation. A cockpit voice recorder required by this Scale shall be capable of retaining the data recorded during at least the last 30 minutes of its operation. For a cockpit voice recorder installed in an aeroplane of a maximum total weight authorized exceeding 5700 kg for which an individual certificate of airworthiness was first issued after 1 January 2003, it shall be capable of retaining the data recorded during at least the last 2 hours of its operation.
-
-  - A flight recording system comprising:
+- A flight recording system comprising:
 
     - (i) either a 4 channel cockpit voice recorder or a flight data recorder capable of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, attitude and the basic lift, thrust and drag forces acting upon it;
 
     - (ii) a 4 channel cockpit voice recorder and a flight data recorder capable of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the information specified in paragraph (i) of this Scale together with use of VHF transmitters;
 
-    - (iii) a 4 channel cockpit voice recorder and a flight data recorder capable of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, attitude, the basic lift, thrust and drag forces acting upon it, the selection of high lift devices (if any) and airbrakes (if any), the position of primary flying control and pitch trim surfaces, outside air temperature, instrument landing system deviations, use of automatic flight control systems, use of VHF transmitters, radio altitude (if any), cockpit warnings relating to engine fire and engine shut-down, cabin pressurisation, presence of smoke and hydraulic/ pneumatic power supply;
+    - (iii) a 4 channel cockpit voice recorder and a flight data recorder capable of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, attitude, the basic lift, thrust and drag forces acting upon it, the selection of high lift devices (if any) and airbrakes (if any), the position of primary flying control and pitch trim surfaces, outside air temperature, instrument landing system deviations, use of automatic flight control systems, use of VHF transmitters, radio altitude (if any), cockpit warnings relating to engine fire and engine shut-down, cabin pressurisation, presence of smoke and hydraulic/pneumatic power supply;
 
-      - (iv) either a cockpit voice recorder and a flight data recorder or a combined cockpit voice recorder/flight data recorder capable in either case of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, speed, attitude, engine power, outside air temperature, configuration of lift and drag devices, use of VHF transmitters and use of automatic flight control systems;
+    - (iv) either a cockpit voice recorder and a flight data recorder or a combined cockpit voice recorder/flight data recorder capable in either case of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, speed, attitude, engine power, outside air temperature, configuration of lift and drag devices, use of VHF transmitters and use of automatic flight control systems;
 
-  - (v) a cockpit voice recorder and a flight data recorder capable of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, speed, attitude, engine power, outside air temperature, configuration of lift and drag devices, use of VHF transmitters and use of automatic flight control systems;
+    - (v) a cockpit voice recorder and a flight data recorder capable of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, speed, attitude, engine power, outside air temperature, configuration of lift and drag devices, use of VHF transmitters and use of automatic flight control systems;
 
-  - (vi) a cockpit voice recorder and a flight data recorder capable of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, speed, attitude, engine power, outside air temperature, instrument landing system deviations, marker beacon passage, radio altitude, configuration of the landing gear and lift and drag devices, position of primary flying controls and pitch trim position, use of automatic flight control systems, use of VHF transmitters, ground speed/drift angle or latitude/longitude if the navigational equipment provided in the aeroplane is of such a nature as to enable this information to be recorded with reasonable practicability, cockpit warnings relating to ground proximity and the master warning system;
+    - (vi) a cockpit voice recorder and a flight data recorder capable of recording by reference to a time scale the data required to determine the following matters accurately in respect of the aeroplane: the flight path, speed, attitude, engine power, outside air temperature, instrument landing system deviations, marker beacon passage, radio altitude, configuration of the landing gear and lift and drag devices, position of primary flying controls and pitch trim position, use of automatic flight control systems, use of VHF transmitters, ground speed/drift angle or latitude/longitude if the navigational equipment provided in the aeroplane is of such a nature as to enable this information to be recorded with reasonable practicability, cockpit warnings relating to ground proximity and the master warning system;
 
-  - (vii) (Repealed L.N. 77 of 2008)
+    - (vii) (Repealed L.N. 77 of 2008)
 
-  - (viii) a cockpit voice recorder and a Type IA flight data recorder as described in paragraph 6.3.1.8 in Part I and paragraph 6.10.1.7 in Part II of Annex 6 to the Chicago Convention as amended by all amendments up to and including Amendment 31 to that Part I and all amendments up to and including Amendment 26 to that Part II. (L.N. 77 of 2008)
+    - (viii) a cockpit voice recorder and a Type IA flight data recorder as described in paragraph 6.3.1.8 in Part I and paragraph 6.10.1.7 in Part II of Annex 6 to the Chicago Convention as amended by all amendments up to and including Amendment 31 to that Part I and all amendments up to and including Amendment 26 to that Part II. (L.N. 77 of 2008)
 
   - The cockpit voice recorder or flight data recorder or combined cockpit voice recorder/flight data recorder, as the case may be, shall be so constructed that the record would be likely to be preserved in the event of an accident:
 
     - Provided that an aircraft shall not be required to carry the said equipment, if before take-off the equipment is found to be unserviceable and the aircraft flies in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
 
-- (L.N. 77 of 2008)
+- (L.N. 77 of 2008) Scale SS For a cockpit voice recorder required by this Scale but installed in helicopters for which an individual certificate of airworthiness was first issued after 1 January 2003, it shall be capable of retaining the data recorded during at least the last 2 hours of its operation. (L.N. 77 of 2008)
 
-- Scale SS For a cockpit voice recorder required by this Scale but installed in helicopters for which an individual certificate of airworthiness was first issued after 1 January 2003, it shall be capable of retaining the data recorded during at least the last 2 hours of its operation. (L.N. 77 of 2008)
+    - (i) A 4 channel cockpit voice recorder capable of recording and retaining the data recorded during at least the last 30 minutes of its operation and a flight data recorder capable of recording and retaining the data recorded during at least the last 10 hours of its operation being the data required to determine by reference to a time scale the following matters accurately in respect of the helicopter or gyroplane:
 
-  - (i) A 4 channel cockpit voice recorder capable of recording and retaining the data recorded during at least the last 30 minutes of its operation and a flight data recorder capable of recording and retaining the data recorded during at least the last 10 hours of its operation being the data required to determine by reference to a time scale the following matters accurately in respect of the helicopter or gyroplane:
+      - (a) flight path;
 
-    - (a) flight path;
+      - (b) speed;
 
-    - (b) speed;
+      - (c) attitude;
 
-    - (c) attitude;
+      - (d) engine power;
 
-    - (d) engine power;
+      - (e) main rotor speed;
 
-    - (e) main rotor speed;
+      - (f) outside air temperature;
 
-    - (f) outside air temperature;
+      - (g) position of pilot’s primary flight controls;
 
-    - (g) position of pilot’s primary flight controls;
+      - (h) use of VHF transmitters;
 
-    - (h) use of VHF transmitters;
+      - (i) use of automatic flight controls (if any);
 
-    - (i) use of automatic flight controls (if any);
+      - (j) use of stability augmentation system (if any);
 
-    - (j) use of stability augmentation system (if any);
+      - (k) cockpit warnings relating to the master warning system; and
 
-    - (k) cockpit warnings relating to the master warning system; and
+      - (l) selection of hydraulic system and cockpit warnings of failure of essential hydraulic systems.
 
-    - (l) selection of hydraulic system and cockpit warnings of failure of essential hydraulic systems.
+    - (ii) A 4 channel cockpit voice recorder capable of recording and retaining the data recorded during at least the last 30 minutes of its operation and a flight data recorder capable of recording and retaining the data recorded during at least the last 10 hours of its operation being the data required to determine by reference to a time scale the information specified in paragraph (i) of this Scale together with the following matters accurately in respect of the helicopter or gyroplane:
 
-  - (ii) A 4 channel cockpit voice recorder capable of recording and retaining the data recorded during at least the last 30 minutes of its operation and a flight data recorder capable of recording and retaining the data recorded during at least the last 10 hours of its operation being the data required to determine by reference to a time scale the information specified in paragraph (i) of this Scale together with the following matters accurately in respect of the helicopter or gyroplane:
+      - (m) landing gear configuration;
 
-    - (m) landing gear configuration;
+      - (n) indicated sling load force if an indicator is provided in the helicopter or gyroplane of such a nature as to enable this information to be recorded with reasonable practicability;
 
-    - (n) indicated sling load force if an indicator is provided in the helicopter or gyroplane of such a nature as to enable this information to be recorded with reasonable practicability;
+      - (o) radio altitude;
 
-    - (o) radio altitude;
+      - (p) instrument landing system deviations;
 
-    - (p) instrument landing system deviations;
+      - (q) marker beacon passage;
 
-    - (q) marker beacon passage;
+      - (r) ground speed/drift angle or latitude/longitude if the navigational equipment provided in the helicopter or gyroplane is of such a nature as to enable this information to be recorded with reasonable practicability; and
 
-    - (r) ground speed/drift angle or latitude/longitude if the navigational equipment provided in the helicopter or gyroplane is of such a nature as to enable this information to be recorded with reasonable practicability; and
+      - (s) main gear box oil temperature and pressure.
 
-    - (s) main gear box oil temperature and pressure.
+    - (iii)
 
-  - (iii)
+      - (a) A combined cockpit voice recorder/flight data recorder which meets the following requirements:
 
-    - (a) A combined cockpit voice recorder/flight data recorder which meets the following requirements:
+        - (aa) in the case of a helicopter or gyroplane which is otherwise required to carry a flight data recorder specified at paragraph (i) of this Scale the flight data recorder shall be capable of recording the data specified therein and retaining it for the duration therein specified;
 
-      - (aa) in the case of a helicopter or gyroplane which is otherwise required to carry a flight data recorder specified at paragraph (i) of this Scale the flight data recorder shall be capable of recording the data specified therein and retaining it for the duration therein specified;
+        - (bb) in the case of a helicopter or gyroplane which is otherwise required to carry a flight data recorder specified at paragraph (ii) of this Scale, the flight data recorder shall be capable of recording the data specified therein and retaining it for the duration therein specified;
 
-      - (bb) in the case of a helicopter or gyroplane which is otherwise required to carry a flight data recorder specified at paragraph (ii) of this Scale, the flight data recorder shall be capable of recording the data specified therein and retaining it for the duration therein specified;
+        - (cc) the cockpit voice recorder shall be capable of recording and retaining at least the last hour of cockpit voice recording information on not less than three separate channels.
 
-      - (cc) the cockpit voice recorder shall be capable of recording and retaining at least the last hour of cockpit voice recording information on not less than three separate channels.
+      - (b) In any case when a combined cockpit voice recorder/flight data recorder specified at paragraph (iii)(a) of this Scale is required to be carried by or under this Order, the flight data recorder shall be capable of retaining as protected data the data recorded during at least the last 5 hours of its operation or the maximum duration of the flight, whichever is the greater. It shall also be capable of retaining additional data as unprotected data for a period which together with the period for which protected data is required to be retained amounts to a total of 10 hours:
 
-    - (b) In any case when a combined cockpit voice recorder/flight data recorder specified at paragraph (iii)(a) of this Scale is required to be carried by or under this Order, the flight data recorder shall be capable of retaining as protected data the data recorded during at least the last 5 hours of its operation or the maximum duration of the flight, whichever is the greater. It shall also be capable of retaining additional data as unprotected data for a period which together with the period for which protected data is required to be retained amounts to a total of 10 hours:
+        - Provided that the flight data recorder need not be capable of retaining the said additional data if additional data is retained which relates to the period immediately preceding the period to which the required protected data relates or for such other period or periods that the Chief Executive may permit pursuant to Article 37 of this Order and the additional data is retained in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
 
-      - Provided that the flight data recorder need not be capable of retaining the said additional data if additional data is retained which relates to the period immediately preceding the period to whiche the required protected data relates or for such other period or periods that the Chief Executive may permit pursuant to Article 37 of this Order and the additional data is retained in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
-
-  - (iv) A cockpit voice recorder and a Type IVA flight data recorder as described in Attachment B to Part III of Annex 6 to the Chicago Convention as amended by all amendments up to and including Amendment 12 to that Part III with a recording duration of at least 10 hours. (L.N. 77 of 2008)
+    - (iv) A cockpit voice recorder and a Type IVA flight data recorder as described in Attachment B to Part III of Annex 6 to the Chicago Convention as amended by all amendments up to and including Amendment 12 to that Part III with a recording duration of at least 10 hours. (L.N. 77 of 2008)
 
   - With the exception of flight data which it is expressly stated above may be unprotected, the cockpit voice recorder, flight data recorder or combined cockpit voice recorder and flight data recorder, as the case may be, shall be so constructed and installed that the record (herein referred to as “protected data”) would be likely to be preserved in the event of an accident and each cockpit voice recorder, flight data recorder or combined cockpit voice recorder/flight data recorder required to be carried on the helicopter or gyroplane shall have attached an automatically activated underwater sonar location device or an emergency locator radio transmitter as appropriate:
 
     - Provided that a helicopter or gyroplane shall not be required to carry the said equipment if, before take-off, the equipment is found to be unserviceable and the aircraft flies in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
 
-- (L.N. 77 of 2008)
+- (L.N. 77 of 2008; E.R. 1 of 2013)
 
-- Scale T An underwater sonar location device except in respect of those helicopters or gyroplanes which have a device attached to a cockpit voice recorder in accordance with Scale S or are required to carry equipment in accordance with Scale SS.
+- Scale T
+
+- An underwater sonar location device except in respect of those helicopters or gyroplanes which have a device attached to a cockpit voice recorder in accordance with Scale S or are required to carry equipment in accordance with Scale SS.
 
 - Scale U
-
-  - (a) 1 survival beacon radio apparatus;
-
-    - (b) marine type pyrotechnical distress signals;
-
-    - (c) for each 4 or proportion of 4 persons on board, 100 grammes of glucose toffee tablets;
-
-    - (d) for each 4 or proportion of 4 persons on board, 1/2 litre of fresh water in durable containers;
-
-    - (e) first aid equipment. Scale V
 
     - (a) 1 survival beacon radio apparatus;
 
@@ -1038,7 +884,19 @@ Scale P
 
     - (c) for each 4 or proportion of 4 persons on board, 100 grammes of glucose toffee tablets;
 
-    - (d) for each 4 or proportion of 4 persons on board, 1/2 litre of fresh water in durable containers;
+    - (d) for each 4 or proportion of 4 persons on board, 1 2 litre of fresh water in durable containers;
+
+    - (e) first aid equipment.
+
+- Scale V
+
+    - (a) 1 survival beacon radio apparatus;
+
+    - (b) marine type pyrotechnical distress signals;
+
+    - (c) for each 4 or proportion of 4 persons on board, 100 grammes of glucose toffee tablets;
+
+    - (d) for each 4 or proportion of 4 persons on board, 1 2 litre of fresh water in durable containers;
 
     - (e) first aid equipment;
 
@@ -1052,52 +910,56 @@ Scale P
 
     - (j) single or multiple sleeping-bags, sufficient for the use of one-third of all persons on board;
 
-    - (k) 1 Arctic suit for each member of the crew of the aircraft. Scale W Cosmic radiation detection equipment calibrated in millirems per hour and capable of indicating the action and alert levels of radiation does rate:
+    - (k) 1 Arctic suit for each member of the crew of the aircraft.
 
-      - Provided that an aircraft shall not be required to carry the said equipment if before take-off the equipment is found to be unserviceable and it is not reasonably practicable to repair or replace it at the aerodrome of departure and the radiation forecast available to the pilot in command of the aircraft indicates that hazardous radiation conditions are unlikely to be encountered by the aircraft on its intended route or any planned diversion therefrom.
+- Scale W
+
+- Cosmic radiation detection equipment calibrated in millirems per hour and capable of indicating the action and alert levels of radiation does rate:
+
+  - Provided that an aircraft shall not be required to carry the said equipment if before take-off the equipment is found to be unserviceable and it is not reasonably practicable to repair or replace it at the aerodrome of departure and the radiation forecast available to the pilot in command of the aircraft indicates that hazardous radiation conditions are unlikely to be encountered by the aircraft on its intended route or any planned diversion therefrom.
 
 - (L.N. 77 of 2008)
 
 - Scale X
 
-  - A ground proximity warning system which has a forward looking terrain avoidance function:
+- A ground proximity warning system which has a forward looking terrain avoidance function:
 
-    - Provided that if the equipment becomes unserviceable, the aircraft may fly or continue to fly until it first lands at a place at which it is reasonably practicable for the equipment to be repaired or replaced.
-
-- (L.N. 77 of 2008)
-
-- Scale Y1 (Repealed L.N. 77 of 2008) Scale Y
+  - Provided that if the equipment becomes unserviceable, the aircraft may fly or continue to fly until it first lands at a place at which it is reasonably practicable for the equipment to be repaired or replaced.
 
 - (L.N. 77 of 2008)
 
-  - (i) If the aircraft may in accordance with its certificate of airworthiness carry more than 19 and less than 100 passengers, one portable battery-powered megaphone capable of conveying instructions to all persons in the passenger compartment and readily available for use by a member of the crew.
+- Scale Y1 (Repealed L.N. 77 of 2008)
 
-  - (ii) If the aircraft may in accordance with its certificate of airworthiness carry more than 99 and less than 200 passengers, 2 portable battery-powered megaphones together capable of conveying instructions to all persons in the passenger compartment and each readily available for use by a member of the crew.
+- Scale Y (L.N. 77 of 2008)
 
-  - (iii) If the aircraft may in accordance with its certificate of airworthiness carry more than 199 passengers, 3 portable battery-powered megaphones together capable of conveying instructions to all persons in the passenger compartment and each readily available for use by a member of the crew.
+    - (i) If the aircraft may in accordance with its certificate of airworthiness carry more than 19 and less than 100 passengers, one portable battery-powered megaphone capable of conveying instructions to all persons in the passenger compartment and readily available for use by a member of the crew.
 
-  - (iv) If the aircraft may in accordance with its certificate of airworthiness carry more than 19 passengers:
+    - (ii) If the aircraft may in accordance with its certificate of airworthiness carry more than 99 and less than 200 passengers, 2 portable battery-powered megaphones together capable of conveying instructions to all persons in the passenger compartment and each readily available for use by a member of the crew.
 
-    - (a) a public address system; and
+    - (iii) If the aircraft may in accordance with its certificate of airworthiness carry more than 199 passengers, 3 portable battery-powered megaphones together capable of conveying instructions to all persons in the passenger compartment and each readily available for use by a member of the crew.
 
-    - (b) an interphone system of communication between members of the flight crew and members of the cabin crew. (L.N. 77 of 2008)
+    - (iv) If the aircraft may in accordance with its certificate of airworthiness carry more than 19 passengers:
 
-  - Scale Z
+      - (a) a public address system; and
 
-  - (i) An emergency lighting system to provide illumination in the passenger compartment sufficient to facilitate the evacuation of the aircraft notwithstanding the failure of the lighting systems specified in paragraph (ii) of Scale G.
+      - (b) an interphone system of communication between members of the flight crew and members of the cabin crew. (L.N. 77 of 2008)
 
-  - (ii) An emergency lighting system to provide illumination outside the aircraft sufficient to facilitate the evacuation of the aircraft.
+- Scale Z
 
-  - (iii) An emergency floor path lighting system in the passenger compartment sufficient to facilitate the evacuation of the aircraft notwithstanding the failure of the lighting systems specified in paragraph (ii) of Scale G:
+    - (i) An emergency lighting system to provide illumination in the passenger compartment sufficient to facilitate the evacuation of the aircraft notwithstanding the failure of the lighting systems specified in paragraph (ii) of Scale G.
 
-    - Provided that if the equipment specified in this sub-paragraph (iii) becomes unserviceable the aircraft may fly or continue to fly in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
+    - (ii) An emergency lighting system to provide illumination outside the aircraft sufficient to facilitate the evacuation of the aircraft.
 
-  - Scale ZZ
+    - (iii) An emergency floor path lighting system in the passenger compartment sufficient to facilitate the evacuation of the aircraft notwithstanding the failure of the lighting systems specified in paragraph (ii) of Scale G:
 
-  - (i) A serviceable autopilot that has at least altitude hold and heading select modes;
+      - Provided that if the equipment specified in this sub-paragraph (iii) becomes unserviceable the aircraft may fly or continue to fly in accordance with arrangements approved by the Chief Executive. (36 of 1999 s. 3)
 
-  - (ii) A headset with a boom microphone or equivalent; and
+- Scale ZZ
 
-  - (iii) Means of displaying charts that enables them to be readable in all ambient light conditions.
+    - (i) A serviceable autopilot that has at least altitude hold and heading select modes;
+
+    - (ii) A headset with a boom microphone or equivalent; and
+
+    - (iii) Means of displaying charts that enables them to be readable in all ambient light conditions.
 
 - (L.N. 77 of 2008)

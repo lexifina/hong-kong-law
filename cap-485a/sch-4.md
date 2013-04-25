@@ -1,10 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 205]
 
-FINANCIAL PENALTIES
+Financial Penalties
 
-- PART I Mandatory Provident Fund Schemes Ordinance (Cap. 485)
+- Part 1 Mandatory Provident Fund Schemes Ordinance (Cap. 485)
 
 Item | Relevant section of the Ordinance | Short description of the relevant duty or requirement | Amount of financial penalty for first failure $ | Amount of financial penalty for second failure $ | Amount of financial penalty for third or subsequent failure $
 
@@ -40,7 +40,7 @@ Item | Relevant section of the Ordinance | Short description of the relevant dut
 
 4 | 22B | Approved trustee to pay annual registration fee | $5,000 or 10 per cent of the amount to be paid, whichever is the greater
 
-- PART II Mandatory Provident Fund Schemes (General) Regulation
+- Part 2 Mandatory Provident Fund Schemes (General) Regulation
 
 - (Cap. 485 sub. leg. A)
 

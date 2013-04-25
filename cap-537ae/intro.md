@@ -1,11 +1,9 @@
-UNITED NATIONS SANCTIONS (DEMOCRATIC PEOPLE’S REPUBLIC OF KOREA) REGULATION
+United Nations Sanctions (Democratic People’s Republic of Korea) Regulation
 
-(Made by the Chief Executive under section 3 of the United Nations
+(Cap. 537, section 3)
 
-Sanctions Ordinance (Cap. 537) on the instruction of the Ministry
-
-of Foreign Affairs of the People’s Republic of China and after
-
-consultation with the Executive Council)
+(Enacting provision omitted—E.R. 1 of 2013)
 
 [15 June 2007]
+
+(Format changes—E.R. 1 of 2013)

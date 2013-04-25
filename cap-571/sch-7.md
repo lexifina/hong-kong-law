@@ -1,12 +1,10 @@
-# SCHEDULE 7
+# Schedule 7
 
 [ss. 175 & 177]
 
-OFFERS BY INTERMEDIARIES OR REPRESENTATIVES FOR TYPE 1, TYPE 4 OR TYPE 6 REGULATED ACTIVITY UNDER SECTION 175 OF THIS ORDINANCE
+Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulated Activity under Section 175 of this Ordinance
 
-- PART 1 REQUIREMENTS TO BE SATISFIED IN RELATION TO
-
-- OFFERS TO ACQUIRE SECURITIES
+- Part 1 Requirements to be Satisfied in Relation to Offers to Acquire Securities
 
   - 1. If the securities proposed to be acquired are currently listed or quoted on any stock market, whether a recognized stock market or any other stock market outside Hong Kong, the offer shall—
 
@@ -50,13 +48,11 @@ OFFERS BY INTERMEDIARIES OR REPRESENTATIVES FOR TYPE 1, TYPE 4 OR TYPE 6 REGULAT
 
     - (1)
 
-      - In this Part, “body” (團體) has the meaning assigned to it by section 175(9) of this Ordinance.
+      - In this Part, body (團體) has the meaning assigned to it by section 175(9) of this Ordinance.
 
     - (2) Section 175(8) of this Ordinance applies to a reference to securities of a body (however described) in this Part as it applies to such a reference in section 175 of this Ordinance.
 
-- PART 2 REQUIREMENTS TO BE SATISFIED IN RELATION TO
-
-- OFFERS TO DISPOSE OF SECURITIES
+- Part 2 Requirements to be Satisfied in Relation toOffers to Dispose of Securities
 
   - 1. If the securities offered are currently listed or quoted on any stock market, whether a recognized stock market or any other stock market outside Hong Kong, or, where the securities are not so listed or quoted, will be uniform in all respects with securities of the body in question that are so listed or quoted, the offer shall—
 
@@ -234,6 +230,8 @@ OFFERS BY INTERMEDIARIES OR REPRESENTATIVES FOR TYPE 1, TYPE 4 OR TYPE 6 REGULAT
 
     - (1)
 
-      - In this Part, “body” (團體) has the meaning assigned to it by section 175(9) of this Ordinance.
+      - In this Part, body (團體) has the meaning assigned to it by section 175(9) of this Ordinance.
 
     - (2) Section 175(8) of this Ordinance applies to a reference to securities of a body (however described) in this Part as it applies to such a reference in section 175 of this Ordinance.
+
+  - (Format changes—E.R. 1 of 2013)

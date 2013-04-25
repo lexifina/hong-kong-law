@@ -1,8 +1,10 @@
-DESIGNATION OF LIBRARIES ORDER
+Designation of Libraries Order
 
 (Cap. 132, section 105K)
 
 [18 July 1986]
+
+(Format changes—E.R. 1 of 2013)
 
 Editorial Note:
 

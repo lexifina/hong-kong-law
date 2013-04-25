@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [rule 2]
 
-FORM 1
+Form 1
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25)
 
@@ -26,9 +26,9 @@ Note: (a) Insert full name and address of each claimant and, in the case of a re
 
 _
 
-FORM 2 | [section 11]
+Form 2 | [section 11]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) FORM OF CLAIM [title as in Form 1]
 
@@ -60,7 +60,7 @@ TO THE DEFENDANT.
 
       - (c) (Signature of Claimant)
 
-- Filed this. day of . 19 .
+- Filed this . day of . 19 .
 
 - Registrar
 
@@ -76,17 +76,15 @@ TO THE DEFENDANT.
 
 _
 
-FORM 3 | [section 13]
+Form 3 | [section 13]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF PLACE AND DAY FIXED FOR HEARING [title as in Form 1]
 
 - TO THE DEFENDANT:
 
-- TAKE NOTICE that this claim has been made by the claimant against you and will be heard at a tribunal to be held at .
-
-- before ., Presiding Officer, on the . day of . 19., at . *a.m./p.m.
+- TAKE NOTICE that this claim has been made by the claimant against you and will be heard at a tribunal to be held at . before ., Presiding Officer, on the . day of . 19., at . *a.m./p.m.
 
 - AND TAKE NOTICE that if you do not attend at the time and place mentioned, the claim will be heard in your absence and such award or order may be made in your absence as the tribunal thinks fit.
 
@@ -110,9 +108,9 @@ LABOUR TRIBUNAL ORDINANCE
 
 _
 
-FORM 4 | [section 13]
+Form 4 | [section 13]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF NEW PLACE AND NEW DAY FIXED FOR HEARING [title as in Form 1]
 
@@ -140,9 +138,9 @@ _
 
 _
 
-FORM 5 | [(Gen.) rule 7]
+Form 5 | [(Gen.) rule 7]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF DAY OF HEARING BY COURT/TRIBUNAL TO WHICH CLAIM
 
@@ -178,23 +176,23 @@ _
 
 _
 
-FORM 6 | [section 14(1) & (Gen.) rule 8(a)]
+Form 6 | [section 14(1) & (Gen.) rule 8(a)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) SUMMARY OF FACTS [title as in Form 1]
 
 TO THE PRESIDING OFFICER.
 
-- I, ., tribunal officer, on the . day of . 19 . received a copy of this claim from the registrar and have inquired into the facts thereof, a summary of which is set out in the following : 1.By a contract of employment made *orally/in writing, *(a copy of which is attached) on the . day of . 19 ., the claimant(s) agreed *to serve/employ the defendant(s) as . on the following terms: (a) .(b) .(c) .(d) .2.*The claimant(s) were dismissed from the services of the defendant(s) on the . day of . 19 . 3.*The dismissal was made *orally/in writing *(a copy of which is attached). 4.*The defendant(s) left the services of the claimant(s) on the . day of . 19 . 5.*The defendant(s) gave *no notice/ . days’ notice to the claimant(s) of *his/their intention to leave the services of the claimant(s). 6.*The claimant(s) became ill on the . day of . 19 . and informed the defendant(s) *orally/in writing *(a copy of which is attached) of *his/their illness and the opinion of *his/their medical advisor *(a copy of which is attached) that he/they would be unable to resume work for .days.7.*The following facts are agreed by the claimant(s) and the defendant(s): (a) .(b) .(c) .(d) .8.*The claimant(s) dispute(s) the following facts: (a) .(b) .(c) .(d) .9.*The defendant(s) dispute(s) the following facts: (a) .(b) .(c) .(d) .10.The following facts are, in my opinion, of assistance to the tribunal: (a) .(b) .(c) .(d) .11.The following persons have refused to be interviewed by me: (a) .(b) .(c) .(d) .12.The following persons have been interviewed by me but have refused to *make any statement/answer any question put to him: (a) .(b) .(c) .(d) . Dated this . day of . 19 . . Tribunal Officer * Delete whichever is not applicable. Note : To be completed in duplicate and delivered to the registrar not later than 24 hours after the completion of the necessary inquiries.
+- I, ., tribunal officer, on the . day of . 19 . received a copy of this claim from the registrar and have inquired into the facts thereof, a summary of which is set out in the following : 1.By a contract of employment made *orally/in writing, *(a copy of which is attached) on the . day of . 19 ., the claimant(s) agreed *to serve/employ the defendant(s) as . on the following terms: (a) .(b) .(c) .(d) .2.*The claimant(s) were dismissed from the services of the defendant(s) on the . day of . 19 . 3.*The dismissal was made *orally/in writing *(a copy of which is attached). 4.*The defendant(s) left the services of the claimant(s) on the . day of . 19 . 5.*The defendant(s) gave *no notice/ . days’ notice to the claimant(s) of *his/their intention to leave the services of the claimant(s). 6.*The claimant(s) became ill on the . day of . 19 . and informed the defendant(s) *orally/in writing *(a copy of which is attached) of *his/their illness and the opinion of *his/their medical advisor *(a copy of which is attached) that he/they would be unable to resume work for .days.7.*The following facts are agreed by the claimant(s) and the defendant(s): (a) .(b) .(c) .(d) .8.*The claimant(s) dispute(s) the following facts: (a) .(b) .(c) .(d) .9.*The defendant(s) dispute(s) the following facts: (a) .(b) .(c) .(d) .10.The following facts are, in my opinion, of assistance to the tribunal: (a) .(b) .(c) .(d) .11.The following persons have refused to be interviewed by me: (a) .(b) .(c) .(d) .12.The following persons have been interviewed by me but have refused to *make any statement/answer any question put to him: (a) .(b) .(c) .(d) . Dated this . day of . 19 . . Tribunal Officer * Delete whichever is not applicable. Note: To be completed in duplicate and delivered to the registrar not later than 24 hours after the completion of the necessary inquiries.
 
 (L.N. 125 of 1995)
 
 _
 
-FORM 7 | [section 15(1)]
+Form 7 | [section 15(1)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) CERTIFICATE OF CONCILIATION [title as in Form 1]
 
@@ -218,7 +216,7 @@ LABOUR TRIBUNAL ORDINANCE
 
   - *(c) I, ., tribunal officer, having studied the above report, certify that it is true and correct.
 
-  - (b) Dated this . day of . 19 . . Tribunal Officer * Delete whichever is not applicable. Note : (a) Insert full name of each claimant or person represented, or defendant who refuses to participate in conciliation.
+  - (b) Dated this . day of . 19 . . Tribunal Officer * Delete whichever is not applicable. Note: (a) Insert full name of each claimant or person represented, or defendant who refuses to participate in conciliation.
 
 - (b) To be delivered to the registrar not later than 24 hours before the date fixed for the hearing of the claim.
 
@@ -228,9 +226,9 @@ LABOUR TRIBUNAL ORDINANCE
 
 _
 
-FORM 8 | [section 15(3)]
+Form 8 | [section 15(3)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF ADJOURNMENT [title as in Form 1]
 
@@ -250,23 +248,23 @@ Presiding Officer
 
 _
 
-FORM 9 | [section 15(5) & (6)]
+Form 9 | [section 15(5) & (6)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) ADVICE OF RESULT OF CONCILIATION [title as in Form 1]
 
 TO THE PRESIDING OFFICER.
 
-- Conciliation has been held by me pursuant to section 15(4) of the Labour Tribunal Ordinance between the *(following) parties to this claim: *A settlement has been agreed to by such parties. *I am of the opinion that there is no reasonable likelihood of a settlement being agreed to by such parties. *The following has resulted from conciliation: Dated this . day of . 19 . . *Authorized Officer/ for Commissioner for Labour. * Delete whichever is not applicable. Note : This advice has to reach the presiding officer not less than 24 hours before the date to which hearing has been adjourned.
+- Conciliation has been held by me pursuant to section 15(4) of the Labour Tribunal Ordinance between the *(following) parties to this claim: *A settlement has been agreed to by such parties. *I am of the opinion that there is no reasonable likelihood of a settlement being agreed to by such parties. *The following has resulted from conciliation: Dated this . day of . 19 . . *Authorized Officer/ for Commissioner for Labour. * Delete whichever is not applicable. Note: This advice has to reach the presiding officer not less than 24 hours before the date to which hearing has been adjourned.
 
 (L.N. 125 of 1995)
 
 _
 
-FORM 10 | [section 15(7)]
+Form 10 | [section 15(7)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) CERTIFICATE OF SETTLEMENT [title as in Form 1]
 
@@ -286,9 +284,13 @@ We, (a) .
 
 - .
 
-  - (c) (Signature of Claimant(s)) .
+  - (c)
 
-  - (c) (Signature of Defendant(s)) Before me, . Authorized Officer. Filed this . day of . 19 . Registrar L.S. Note : (a) Insert full names of those parties who agree to the settlement.
+  - (Signature of Claimant(s))
+
+  - .
+
+    - (c) (Signature of Defendant(s)) Before me, . Authorized Officer Filed this . day of . 19 . Registrar L.S. Note: (a) Insert full names of those parties who agree to the settlement.
 
 - (b) Set out in full the conditions on which the settlement is agreed
 
@@ -300,7 +302,7 @@ _
 
 Form 11 | [section 31(2)(a)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF REVIEW BY A PRESIDING OFFICER OF
 
@@ -320,27 +322,23 @@ L.S.
 
 _
 
-- (b)
-
-- This notice was served by me on . at . on the . day of . 19 .
+- (b) This notice was served by me on . at . on the . day of . 19 .
 
 - . | .
 
 - (Signature of recipient of notice) | (Signature of process server)
 
-- * Delete whichever is not applicable.
+- * Delete whichever is not applicable. Note: (a) Insert full name and address of party against whom award/order was made.
 
-- Note : (a) Insert full name and address of party against whom award/order was made.
-
-  - (b) Service shall be effected in the manner prescribed under the Labour Tribunal (General) Rules.
+- (b) Service shall be effected in the manner prescribed under the Labour Tribunal (General) Rules.
 
 (L.N. 125 of 1995)
 
 _
 
-FORM 12 | [section 31(2)(b)]
+Form 12 | [section 31(2)(b)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF REVIEW BY A PRESIDING OFFICER ON THE
 
@@ -360,27 +358,23 @@ L.S.
 
 _
 
-- (b)
-
-- This notice was served by me on . at . on the . day of . 19 .
+- (b) This notice was served by me on . at . on the . day of . 19 .
 
 - . | .
 
 - (Signature of recipient of notice) | (Signature of process server)
 
-- * Delete whichever is not applicable.
+- * Delete whichever is not applicable. Note: (a) Insert full name of the party by whom the application has been made.
 
-- Note : (a) Insert full name of the party by whom the application has been made.
-
-  - (b) Service shall be effected in the manner prescribed under the Labour Tribunal (General) Rules.
+- (b) Service shall be effected in the manner prescribed under the Labour Tribunal (General) Rules.
 
 (L.N. 125 of 1995)
 
 _
 
-FORM 13 | [section 31(4)]
+Form 13 | [section 31(4)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) APPLICATION FOR REVIEW OF AN *AWARD/ORDER
 
@@ -400,7 +394,7 @@ I, (a) ., a party to this claim which was heard and determined before you on the
 
 - * Delete whichever is not applicable.
 
-- Note : (a) Insert full name of the party making application
+- Note: (a) Insert full name of the party making application
 
   - (b) An application for a review of an award or order must be made within 7 days of the award or order.
 
@@ -408,9 +402,9 @@ I, (a) ., a party to this claim which was heard and determined before you on the
 
 _
 
-FORM 14 | [section 32(2)]
+Form 14 | [section 32(2)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) APPLICATION FOR LEAVE TO APPEAL ON POINT OF LAW [title as in Form 1]
 
@@ -458,15 +452,15 @@ I, (a) ., a party to this claim, pursuant to section 32 of the Labour Tribunal O
 
 (L.N. 133 of 1974; L.N. 126 of 1976; L.N. 203 of 1982; L.N. 125 of 1995; 25 of 1998 s. 2)
 
-_ FORM 15
+_ Form 15
 
 (Repealed L.N. 126 of 1976)
 
 _
 
-FORM 15A | [(Gen.) rule 8A]
+Form 15A | [(Gen.) rule 8A]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF DAY FIXED FOR HEARING OF AN APPLICATION
 
@@ -498,9 +492,9 @@ _
 
 _
 
-FORM 16 | [(Gen.) rule 9(1)(c)]
+Form 16 | [(Gen.) rule 9(1)(c)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF DAY FIXED FOR HEARING OF AN APPEAL In the High Court of Hong Kong [title as in Form 1]
 
@@ -530,9 +524,9 @@ _
 
 _
 
-FORM 17 | [(Gen.) rule 12(1)]
+Form 17 | [(Gen.) rule 12(1)]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) CERTIFICATE OF *AWARD/ORDER [title as in Form 1]
 
@@ -562,9 +556,9 @@ The above certificate is presented by me for registration in accordance with rul
 
 _
 
-FORM 18 | [section 20A]
+Form 18 | [section 20A]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) APPLICATION FOR RESTORATION OF A CLAIM [title as in Form 1]
 
@@ -586,9 +580,9 @@ The *reason/reasons for my non-appearance at the hearing *is/are .
 
 _
 
-FORM 19 | [section 21A]
+Form 19 | [section 21A]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) APPLICATION TO SET ASIDE AN *AWARD/ORDER [title as in Form 1]
 
@@ -610,9 +604,9 @@ The *reason/reasons for my non-appearance at the hearing *is/are .
 
 _
 
-FORM 20 | [sections 20A & 21A]
+Form 20 | [sections 20A & 21A]
 
-LABOUR TRIBUNAL ORDINANCE
+Labour Tribunal Ordinance
 
 (Chapter 25) NOTICE OF PLACE AND DAY FIXED FOR HEARING OF
 

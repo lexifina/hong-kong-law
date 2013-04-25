@@ -1,8 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [s. 16]
 
-ROYALTY
+Royalty
+
+(Format changes—E.R. 1 of 2013)
 
 - 1. The royalty payable by the Company to the Government is $1.00 for every single or return journey taken on the Cable Car System by a fare-paying passenger.
 

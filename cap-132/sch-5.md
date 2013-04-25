@@ -1,10 +1,10 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 2, 113 & 124A]
 
-CEMETERIES, CREMATORIA AND GARDENS OF REMEMBRANCE
+Cemeteries, Crematoria and Gardens of Remembrance
 
-- PART I Public cemeteries
+- Part 1 Public Cemeteries
 
 Name of Cemetery | Location
 
@@ -30,7 +30,7 @@ Wo Hop Shek Cemetery | Fanling, New Territories
 
 (Amended G.N.A. 152 of 1960; 21 of 1973 s. 15; L.N. 269 of 1977; 78 of 1999 s. 7; L.N. 171 of 2012)
 
-- PART II Private cemeteries
+- Part 2 Private Cemeteries
 
 Name of Cemetery | Location
 
@@ -90,11 +90,11 @@ Zoroastrian Cemetery | Happy Valley
 
 (Amended 32 of 1963 s. 15; L.N. 61 of 1970; L.N. 193 of 1975; 69 of 1976 s. 6; L.N. 146 of 1983; 78 of 1999 s. 7; L.N. 171 of 2012)
 
-PART III-PART IV
+Part III-Part IV
 
 (Repealed 78 of 1999 s. 7)
 
-- PART IVA Commonwealth War Graves Commission Cemeteries
+- Part 4A Commonwealth War Graves Commission Cemeteries
 
 Name of Cemetery | Location
 
@@ -102,9 +102,9 @@ Sai Wan War Cemetery | Cape Collinson Road
 
 Stanley Military Cemetery | Stanley
 
-(Part IVA added 69 of 1976 s. 6)
+(Part 4A added 69 of 1976 s. 6)
 
-- PART V Government crematoria
+- Part 5 Government Crematoria
 
 Cape Collinson
 
@@ -118,9 +118,9 @@ Kwai Chung
 
 Wo Hop Shek
 
-(Part V replaced 78 of 1999 s. 7)
+(Part 5 replaced 78 of 1999 s. 7)
 
-- PART VI Private crematoria
+- Part 6 Private Crematoria
 
 Chuk Lam Sim Yuen, Tsuen Wan
 
@@ -134,9 +134,9 @@ Po Lin Monastery, Ngong Ping, Lantau
 
 Sai Chuk Lam Temple, Tsuen Wan
 
-(Part VI replaced 78 of 1999 s. 7)
+(Part 6 replaced 78 of 1999 s. 7)
 
-- PART VII Gardens of remembrance
+- Part 7 Gardens of Remembrance
 
 Cape Collinson
 
@@ -154,7 +154,7 @@ Peng Chau
 
 Wo Hop Shek
 
-(Part VII replaced 78 of 1999 s. 7)
+(Part 7 replaced 78 of 1999 s. 7) (Format changes—E.R. 1 of 2013)
 
 Editorial Note:
 

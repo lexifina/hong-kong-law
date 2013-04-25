@@ -2,7 +2,7 @@
 
 [ss. 12, 57, 66 & 90]
 
-PROVISIONS SPECIFIED FOR PURPOSES OF SECTION 12(2)(g)
+Provisions Specified for Purposes of Section 12(2)(g)
 
 - 1. Regulations 4, 5, 6, 8, 10, 11, 13 and 14 of the Women and Young Persons (Industry) Regulations (Cap. 57 sub. leg.).
 

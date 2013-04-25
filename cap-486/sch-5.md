@@ -1,8 +1,8 @@
-# SCHEDULE 5
+# Schedule 5
 
 [s. 32(4)]
 
-PRESCRIBED MATTERS
+Prescribed Matters
 
 - 1. Whether the carrying out of the matching procedure is in the public interest.
 

@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 69 & 72]
 
-CONTENTS OF CUSTODIAL AGREEMENTS
+Contents of Custodial Agreements
 
 - 1. The agreement must require the scheme assets—
 

@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 15]
 
-SCHEDULED INFECTIOUS DISEASES
+Scheduled Infectious Diseases
 
 - 1. Acute poliomyelitis (急性脊髓灰質炎(小兒麻痺))
 

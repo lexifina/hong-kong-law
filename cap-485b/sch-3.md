@@ -8,7 +8,7 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
   - (1) In this Schedule, unless the context otherwise requires—
 
-    - “actuary” (精算師) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
+    - “actuary” (精算師) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
 
     - “associate” (有聯繫者) has the meaning given by Schedule 8 to the Ordinance;
 
@@ -24,13 +24,13 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
     - “investment manager” (投資經理), in relation to a scheme, means a person appointed by a trustee of the scheme to manage the investment of the assets of the scheme;
 
-    - “market value” (市值) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
+    - “market value” (市值) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
 
     - “non-employer trustee” (非僱主受託人) has the same meaning as in section 25 of the relevant Ordinance;
 
     - “qualified director” (合資格董事), in relation to a company which is a trustee of a scheme, means a director of the company who satisfies the Authority that he has the skill, knowledge, experience and qualifications that are, in the opinion of the Authority, necessary for the successful operation of the scheme;
 
-    - “registered trust company” (註冊信託公司) has the meaning given by section 2 of Part I of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
+    - “registered trust company” (註冊信託公司) has the meaning given by section 2 of Part 1 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A);
 
     - “scheme” (計劃) means a relevant ORSO registered scheme to which an exemption certificate issued under section 16(1) of this Regulation relates.
 
@@ -231,3 +231,5 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
       - (ii) if, and only if, the conditions specified in the notice are complied with.
 
   - (5) Without prejudice to the generality of conditions which may be specified in a notice under subsection (4), such conditions may provide that the retirement or appointment of a trustee, or of a director of a company, shall become void and of no effect unless and until the Authority approves the retirement or appointment in writing before the expiration of a period specified in the notice. (46 of 2000 s. 40)
+
+- (E.R. 1 of 2013)

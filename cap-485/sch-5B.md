@@ -2,7 +2,9 @@
 
 [s. 34ZZK]
 
-Transitional and Saving Provisions for Part IVA
+Transitional and Saving Provisions for Part 4A
+
+(Amended E.R. 1 of 2013) (Schedule 5B added 16 of 2012 s. 21)
 
 - 1. Interpretation
 
@@ -14,7 +16,9 @@ Transitional and Saving Provisions for Part IVA
 
     - transitional period (過渡期) means the period of 2 years beginning on 1 November 2012.
 
-  - (2) An expression used in this Schedule, and defined or otherwise explained in Part IVA, has the same meaning as in that Part.
+  - (2) An expression used in this Schedule, and defined or otherwise explained in Part 4A, has the same meaning as in that Part.
+
+- (Amended E.R. 1 of 2013)
 
 - 2. Type A qualifying capacity
 
@@ -96,11 +100,9 @@ Transitional and Saving Provisions for Part IVA
 
         - (B) who is a relevant individual so registered as engaged in respect of such Type 1 and Type 4 regulated activities, all or any of the officer’s or employee’s relevant particulars are removed from the register under that section 58A(1)(c) in relation to those regulated activities; or
 
-      - (ii)
+      - (ii) for an officer or employee who, with the consent of the Monetary Authority under section 71C of the Banking Ordinance (Cap. 155), is—
 
-      - for an officer or employee who, with the consent of the Monetary Authority under section 71C of the Banking Ordinance (Cap. 155), is—
-
-      - (A) an executive officer of a registered institution appointed under section 71D of that Ordinance to be responsible for directly supervising the conduct of each business conducted by the registered institution that constitutes Type 1 or Type 4 regulated activity within the meaning of the Securities and Futures Ordinance (Cap. 571), the consent is withdrawn under section 71C(4)(c) of the Banking Ordinance (Cap. 155) in relation to that regulated activity; or
+        - (A) an executive officer of a registered institution appointed under section 71D of that Ordinance to be responsible for directly supervising the conduct of each business conducted by the registered institution that constitutes Type 1 or Type 4 regulated activity within the meaning of the Securities and Futures Ordinance (Cap. 571), the consent is withdrawn under section 71C(4)(c) of the Banking Ordinance (Cap. 155) in relation to that regulated activity; or
 
         - (B) such an executive officer so appointed to be responsible for directly supervising the conduct of each business that constitutes such Type 1 and Type 4 regulated activities, the consent is withdrawn under that section 71C(4)(c) in relation to those regulated activities.
 
@@ -138,11 +140,9 @@ Transitional and Saving Provisions for Part IVA
 
         - (B) who is a relevant individual so registered as engaged in respect of such Type 1 and Type 4 regulated activities, all or any of the officer’s or employee’s relevant particulars are suspended from the register under that section 58A(1)(d) in relation to those regulated activities; or
 
-      - (ii)
+      - (ii) for an officer or employee who, with the consent of the Monetary Authority under section 71C of the Banking Ordinance (Cap. 155), is—
 
-      - for an officer or employee who, with the consent of the Monetary Authority under section 71C of the Banking Ordinance (Cap. 155), is—
-
-      - (A) an executive officer of a registered institution appointed under section 71D of that Ordinance to be responsible for directly supervising the conduct of each business conducted by the registered institution that constitutes Type 1 or Type 4 regulated activity within the meaning of the Securities and Futures Ordinance (Cap. 571), the consent is suspended under section 71C(4)(d) of the Banking Ordinance (Cap. 155) in relation to that regulated activity; or
+        - (A) an executive officer of a registered institution appointed under section 71D of that Ordinance to be responsible for directly supervising the conduct of each business conducted by the registered institution that constitutes Type 1 or Type 4 regulated activity within the meaning of the Securities and Futures Ordinance (Cap. 571), the consent is suspended under section 71C(4)(d) of the Banking Ordinance (Cap. 155) in relation to that regulated activity; or
 
         - (B) such an executive officer so appointed to be responsible for directly supervising the conduct of each business that constitutes such Type 1 and Type 4 regulated activities, the consent is suspended under that section 71C(4)(d) in relation to those regulated activities.
 
@@ -234,7 +234,7 @@ Transitional and Saving Provisions for Part IVA
 
   - (1) This section applies to a person who, by virtue of section 4(2) of this Schedule, is regarded as being registered as a principal intermediary.
 
-  - (2) In its application to the person, Part IVA has effect subject to subsections (3), (4) and (5).
+  - (2) In its application to the person, Part 4A has effect subject to subsections (3), (4) and (5).
 
   - (3) Section 34Z(4), (5) and (6) is to be replaced by the following—
 
@@ -278,17 +278,15 @@ Transitional and Saving Provisions for Part IVA
 
           - (b) in the case of subsection (1)(b)(ii), is suspended for the period during which that suspension is in force.
 
-        - (3)
+        - (3) In this section—
 
-        - In this section—
+          - relevant Type A qualifying capacity (有關甲類合資格身分)—
 
-        - relevant Type A qualifying capacity (有關甲類合資格身分)—
+            - (a) in relation to a person whose frontline regulator is the Insurance Authority, means the Type A qualifying capacity mentioned in section 2(1)(a) or (b) of Schedule 5B;
 
-          - (a) in relation to a person whose frontline regulator is the Insurance Authority, means the Type A qualifying capacity mentioned in section 2(1)(a) or (b) of Schedule 5B;
+            - (b) in relation to a person whose frontline regulator is the Monetary Authority, means the Type A qualifying capacity mentioned in section 2(1)(c) of Schedule 5B; or
 
-          - (b) in relation to a person whose frontline regulator is the Monetary Authority, means the Type A qualifying capacity mentioned in section 2(1)(c) of Schedule 5B; or
-
-          - (c) in relation to a person whose frontline regulator is the Securities and Futures Commission, means the Type A qualifying capacity mentioned in section 2(1)(d) of Schedule 5B.”.
+            - (c) in relation to a person whose frontline regulator is the Securities and Futures Commission, means the Type A qualifying capacity mentioned in section 2(1)(d) of Schedule 5B.”.
 
   - (5) Section 34ZE(1)(c) is to be replaced by the following—
 
@@ -300,6 +298,8 @@ Transitional and Saving Provisions for Part IVA
 
       - (iii) has any Type A qualifying capacity suspended.”.
 
+- (Amended E.R. 1 of 2013)
+
 - 9. Application to persons regarded as subsidiary intermediary
 
   - (1) This section applies to a person who, by virtue of section 5(2) or 6(2) of this Schedule, is regarded as being—
@@ -308,7 +308,7 @@ Transitional and Saving Provisions for Part IVA
 
     - (b) approved as being attached to another person who is regarded as being registered as a principal intermediary.
 
-  - (2) In its application to the person, Part IVA has effect subject to subsections (3) and (4).
+  - (2) In its application to the person, Part 4A has effect subject to subsections (3) and (4).
 
   - (3) Section 34ZF is to be replaced by the following—
 
@@ -364,4 +364,4 @@ Transitional and Saving Provisions for Part IVA
 
       - (iii) has any Type B qualifying capacity suspended; or”.
 
-- (Schedule 5B added 16 of 2012 s. 21)
+- (Amended E.R. 1 of 2013)

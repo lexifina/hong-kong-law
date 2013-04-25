@@ -8,9 +8,9 @@ Processes to Which this Ordinance Does Not Apply
 
 - 2. Conciliation referred to in section 39 of the Apprenticeship Ordinance (Cap. 47).
 
-- 3. Conciliation and special conciliation referred to in Part II of the Labour Relations Ordinance (Cap. 55).
+- 3. Conciliation and special conciliation referred to in Part 2 of the Labour Relations Ordinance (Cap. 55). (Amended E.R. 1 of 2013)
 
-- 4. Mediation referred to in Part IIA of the Labour Relations Ordinance (Cap. 55).
+- 4. Mediation referred to in Part 2A of the Labour Relations Ordinance (Cap. 55). (Amended E.R. 1 of 2013)
 
 - 5. The process described in section 17 of the Marriage Reform Ordinance (Cap. 178).
 

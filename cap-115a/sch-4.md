@@ -4,7 +4,7 @@
 
 - 1. Interpretation In this Schedule, unless the context otherwise requires—
 
-  - “notice of appeal” (上訴通知書) means the form specified by the Director under section 2AD(1) or (2) of the Ordinance for the purpose of lodging an appeal under that section.
+  - notice of appeal (上訴通知書) means the form specified by the Director under section 2AD(1) or (2) of the Ordinance for the purpose of lodging an appeal under that section.
 
 - (L.N. 4 of 2000)
 
@@ -24,11 +24,7 @@
 
   - (2) The Tribunal shall allow an appeal if either adjudicator hearing the appeal considers that the appeal should be allowed under section 2AD(5)(a) or (6)(a) of the Ordinance.
 
-- 6.
-
-- Hearings to be in private except
-
-- in special circumstances
+- 6. Hearings to be in private except in special circumstances
 
   - (1) Subject to subparagraph (2), an appeal shall be heard in private.
 
@@ -58,15 +54,13 @@
 
   - (2) Unless an appeal is to be heard in the absence of the appellant under paragraph 14, it shall not be necessary for the Director to comply with subparagraph (1) if he is of the opinion that it is not practicable to do so having regard to the time available before the hearing of the appeal; but in any such case an oral statement of the facts of the case and of the reasons for the decision not to issue a certificate of entitlement or a certified duplicate thereof shall be given at the hearing of the appeal.
 
-- 11.
-
-- Notice of hearing date
-
-- The Tribunal shall cause notice in writing to be given as soon as is practicable to— (L.N. 4 of 2000)
+- 11. Notice of hearing date The Tribunal shall cause notice in writing to be given as soon as is practicable to— (L.N. 4 of 2000)
 
   - (a) the Director; and
 
-  - (b) the appellant, stating the time and place of the hearing.
+  - (b) the appellant,
+
+- stating the time and place of the hearing.
 
 - 12. Witnesses and evidence
 
@@ -87,6 +81,8 @@
     - (a) The Tribunal may, on the application of a witness who attends at the hearing of an appeal to give evidence (including professional or expert evidence), allow in respect of him a professional witness allowance, expert witness allowance or loss allowance, as the case may be, not exceeding the professional witness allowance, expert witness allowance or loss allowance that a magistrate may allow under the Criminal Procedure (Witnesses’ Allowances) Rules (Cap. 221 sub. leg. B) in respect of a witness who attends to give evidence in criminal proceedings.
 
     - (b) Any sum allowed under sub-subparagraph (a) shall cease to be payable unless claimed by or on behalf of the witness who made the application to the Tribunal in that behalf within 3 months from the date on which it was allowed.
+
+- (E.R. 1 of 2013)
 
 - 13. Transfer of hearing to other adjudicators
 

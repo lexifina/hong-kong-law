@@ -1,6 +1,6 @@
-# SCHEDULE
+# Schedule
 
-[s. 3]
+[ss. 2 & 3] (Amended E.R. 1 of 2013)
 
 Name of State | Title of agreement or arrangement | Date of agreement or arrangement | Provision
 

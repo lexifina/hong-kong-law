@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 11] (L.N. 137 of 1994)
 
-FEES PAYABLE UNDER THE ORDINANCE
+Fees Payable under the Ordinance
 
 Item | Document or Circumstance | Fee $
 

@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [regs. 2, 7 & 10]
 
-LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER, OR INSERTION LOSS FOR THE PURPOSES OF REGULATION 7
+Limits of Interference Voltage, Interference Field Strength, Interference Power, or Insertion Loss for the purposes of Regulation 7
 
-- PART I IGNITION APPARATUS OF INTERNAL COMBUSTION ENGINES Limits of radiated interference based on quasi-peak measurements in the frequency range 30 MHz to 1000 MHz, measured at a distance of 10 m.
+- Part 1 Ignition Apparatus of Internal Combustion Engines Limits of radiated interference based on quasi-peak measurements in the frequency range 30 MHz to 1000 MHz, measured at a distance of 10 m.
 
 - Frequency Range (MHz) | Field Strength Limit (Quasi-peak) (dBμV/m)
 
@@ -12,7 +12,7 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
 - Note: [1] The limit increases linearly with the logarithm of the frequency.
 
-- PART II INFORMATION TECHNOLOGY EQUIPMENT
+- Part 2 Information Technology Equipment
 
   - 1. Limits of mains terminal interference voltage in the frequency range 0.15 MHz to 30 MHz for class A equipment*.
 
@@ -52,11 +52,9 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
   - ** Equipment used or located in domestic/residential premises.
 
-- PART III SOUND AND TELEVISION BROADCAST RECEIVERS
+- Part 3 Sound and Television Broadcast Receivers
 
-- AND ASSOCIATED EQUIPMENT
-
-- Limits of conducted interference and radiated interference.
+- and Associated Equipment Limits of conducted interference and radiated interference.
 
   - 1. Limits of interference voltage injected into the mains:
 
@@ -66,7 +64,15 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
   - Sound and television receivers and associated equipment [5] | 0.15-0.5 0.5-5 5-30 | 66-56 [4] 56 60 | 56-46 [4] 46 50
 
-  - Note: [1] The higher value measured with and without the aerial input outer conductor screen connected to earth is considered. [2] At the transition frequency, the lower limit applies. [3] If the limits for the average detector are met when using the quasi-peak detector, then the limits for the measurements with the average detector are considered to be met. [4] Limits decreasing linearly with the logarithm of the frequency. [5] Television receivers with teletext facilities should be tested in teletext mode with teletext picture.
+- Note: [1] The higher value measured with and without the aerial input outer conductor screen connected to earth is considered.
+
+- [2] At the transition frequency, the lower limit applies.
+
+- [3] If the limits for the average detector are met when using the quasi-peak detector, then the limits for the measurements with the average detector are considered to be met.
+
+- [4] Limits decreasing linearly with the logarithm of the frequency.
+
+- [5] Television receivers with teletext facilities should be tested in teletext mode with teletext picture.
 
   - 2. Limits of radiated interference due to the local oscillator at its fundamental and harmonic frequencies and due to all other sources at a distance of 3 m:
 
@@ -92,9 +98,7 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
   - Frequency modulation car radios | Local oscillator | 30-300 300-1000 | Fundamental 66 Harmonics 59 Harmonics 52
 
-  - Note: [9] The interference voltage limits for receivers with nominal impedance other than
-
-  - 75 Ω are calculated according to the following formula:
+  - Note: [9] The interference voltage limits for receivers with nominal impedance other than 75 Ω are calculated according to the following formula:
 
   - Lz = L75 + 10 log (Z/75) dBμV
 
@@ -110,7 +114,7 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
     - [12] “1st IF” stands for “first intermediate frequency”. For tuner units, “aerial terminals” (天線接線端子) means “1st IF input terminals”.
 
-- PART IV FLUORESCENT LAMPS AND LUMINAIRES
+- Part 4 Fluorescent Lamps and Luminaires
 
   - 1. Minimum value of insertion loss of luminaires with or without starters designed for the following types of fluorescent lamps:
 
@@ -140,9 +144,9 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
   - [4] At the transition frequencies, the lower limit applies.
 
-- PART V HOUSEHOLD ELECTRICAL APPLIANCES, SIMILAR ELECTRICAL
+- Part 5 Household Electrical Appliances, Similar Electrical
 
-- APPARATUS AND PORTABLE TOOLS Limits of radio interference in the range 0.15 MHz to 300 MHz.
+- Apparatus and Portable Tools Limits of radio interference in the range 0.15 MHz to 300 MHz.
 
   - 1. Continuous conducted interference
 
@@ -178,51 +182,45 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
   - Note: [3] At the transition frequency, the lower limit applies. [4] The voltage limit decreases linearly with the logarithm of the frequency.
 
-  - (c) Portable tools
+  - (c) Portable tools (i) with rated power of motor** not exceeding 700 W:
 
-    - (i) with rated power of motor** not exceeding 700 W:
+  - Frequency Range (MHz) | Interference Voltage Limit (dBμV) [5]
 
-    - Frequency Range (MHz) | Interference Voltage Limit (dBμV) [5]
+  - Quasi-peak | Average*
 
-    - Quasi-peak | Average*
+  - 0.15-0.35 | 66-59 [6] | 59-49 [6]
 
-    - 0.15-0.35 | 66-59 [6] | 59-49 [6]
+  - 0.35-5 | 59 | 49
 
-    - 0.35-5 | 59 | 49
+  - 5-30 | 64 | 54
 
-    - 5-30 | 64 | 54
+  - (ii) with rated power of motor** above 700 W and not exceeding 1000 W:
 
-    - (ii) with rated power of motor** above 700 W and not exceeding 1000 W:
+  - Frequency Range (MHz) | Interference Voltage Limit (dBμV) [5]
 
-    - Frequency Range (MHz) | Interference Voltage Limit (dBμV) [5]
+  - Quasi-peak | Average*
 
-    - Quasi-peak | Average*
+  - 0.15-0.35 | 70-63 [6] | 63-53 [6]
 
-    - 0.15-0.35 | 70-63 [6] | 63-53 [6]
+  - 0.35-5 | 63 | 53
 
-    - 0.35-5 | 63 | 53
+  - 5-30 | 68 | 58
 
-    - 5-30 | 68 | 58
+  - (iii) with rated power of motor** above 1000 W:
 
-    - (iii) with rated power of motor** above 1000 W:
+  - Frequency Range (MHz) | Interference Voltage Limit (dBμV) [5]
 
-    - Frequency Range (MHz) | Interference Voltage Limit (dBμV) [5]
+  - Quasi-peak | Average*
 
-    - Quasi-peak | Average*
+  - 0.15-0.35 | 76-69 [6] | 69-59 [6]
 
-    - 0.15-0.35 | 76-69 [6] | 69-59 [6]
+  - 0.35-5 | 69 | 59
 
-    - 0.35-5 | 69 | 59
+  - 5-30 | 74 | 64
 
-    - 5-30 | 74 | 64
+  - Note: [5] At the transition frequency, the lower limit applies. [6] The voltage limit decreases linearly with the logarithm of the frequency.
 
-    - Note: [5] At the transition frequency, the lower limit applies. [6] The voltage limit decreases linearly with the logarithm of the frequency.
-
-  - 2.
-
-  - Continuous radiated interference
-
-  - Interference power limits for the frequency range 30 MHz to 300 MHz:
+  - 2. Continuous radiated interference Interference power limits for the frequency range 30 MHz to 300 MHz:
 
     - (a) Household appliances and similar apparatus:
 
@@ -234,9 +232,7 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
     - Note: [7] The power limit increases linearly with the logarithm of the frequency.
 
-  - (b) Portable tools
-
-    - (i) with rated mains power** up to and including 700 W:
+    - (b) Portable tools (i) with rated mains power** up to and including 700 W:
 
     - Frequency Range (MHz) | Interference Power Limit (dBpW)
 
@@ -260,34 +256,32 @@ LIMITS OF INTERFERENCE VOLTAGE, INTERFERENCE FIELD STRENGTH, INTERFERENCE POWER,
 
     - 30-300 | 55-65 [8] | 45-55 [8]
 
-    - Note: [8] The power limit increases linearly with the logarithm of the frequency. * If the average limit is met when using a quasi-peak detector receiver, the test unit shall be deemed to meet both limits and measurement with the average detector receiver need not be carried out. ** The power of any heating device is to be excluded.
+    - Note: [8] The power limit increases linearly with the logarithm of the frequency.
 
-  - 3.
+  - * If the average limit is met when using a quasi-peak detector receiver, the test unit shall be deemed to meet both limits and measurement with the average detector receiver need not be carried out.
 
-  - Discontinuous interference
+  - ** The power of any heating device is to be excluded.
 
-  - The limits for continuous conducted interference specified in paragraph 1, as increased by the following amount, apply—
+  - 3. Discontinuous interference The limits for continuous conducted interference specified in paragraph 1, as increased by the following amount, apply—
 
     - (a) 44 dB (for N (Note 1) ＜ 0.2);
 
     - (b) 20 log 10 30/N dB (for 0.2 ≦ N ≦ 30);
 
-    - (c)
+    - (c) 0 dB (for N ＞ 30).
 
-    - 0 dB (for N ＞ 30).
+  - Note- 1. N is the click rate determined from the formula N = n/T, T being 120 minutes or
 
-    - Note- 1. N is the click rate determined from the formula N = n/T, T being 120 minutes or
+  - the observation time in minutes, whichever is less to produce 40 clicks (Note 2), and n being the number of clicks registered during the observation time.
 
-    - the observation time in minutes, whichever is less to produce 40 clicks (Note 2), and n being the number of clicks registered during the observation time.
+    - 2. A click is defined as a disturbance which—
 
-      - 2. A click is defined as a disturbance which—
+      - (a) exceeds the maximum limit specified in paragraph 1;
 
-        - (a) exceeds the maximum limit specified in paragraph 1;
+      - (b) lasts not more than 200 ms; and
 
-        - (b) lasts not more than 200 ms; and
+      - (c) is separated from a subsequent disturbance by at least 200 ms.
 
-        - (c) is separated from a subsequent disturbance by at least 200 ms.
-
-      - 3. The apparatus under test shall be deemed to comply with the maximum limit if not more than a quarter of the number of clicks registered during the observation time exceed such limit.
+    - 3. The apparatus under test shall be deemed to comply with the maximum limit if not more than a quarter of the number of clicks registered during the observation time exceed such limit.
 
   - (L.N. 153 of 1993)

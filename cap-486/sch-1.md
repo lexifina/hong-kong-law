@@ -1,14 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & (6)]
 
-DATA PROTECTION PRINCIPLES
+Data Protection Principles
 
-- 1.
-
-- Principle 1-purpose and manner of
-
-- collection of personal data
+- 1. Principle 1—purpose and manner of collection of personal data
 
   - (1) Personal data shall not be collected unless—
 
@@ -46,11 +42,11 @@ DATA PROTECTION PRINCIPLES
 
         - (B) the name or job title, and address, of the individual who is to handle any such request made to the data user, (Replaced 18 of 2012 s. 40)
 
-  - unless to comply with the provisions of this subsection would be likely to prejudice the purpose for which the data was collected and that purpose is specified in Part VIII of this Ordinance as a purpose in relation to which personal data is exempt from the provisions of data protection principle 6.
+  - unless to comply with the provisions of this subsection would be likely to prejudice the purpose for which the data was collected and that purpose is specified in Part 8 of this Ordinance as a purpose in relation to which personal data is exempt from the provisions of data protection principle 6.
 
-- (Amended 18 of 2012 s. 40)
+- (Amended 18 of 2012 s. 40;E.R. 1 of 2013)
 
-- 2. Principle 2-accuracy and duration of retention of personal data
+- 2. Principle 2—accuracy and duration of retention of personal data
 
   - (1) All practicable steps shall be taken to ensure that—
 
@@ -76,47 +72,45 @@ DATA PROTECTION PRINCIPLES
 
   - (2) All practicable steps must be taken to ensure that personal data is not kept longer than is necessary for the fulfillment of the purpose (including any directly related purpose) for which the data is or is to be used. (Amended 18 of 2012 s. 40)
 
-- (3) Without limiting subsection (2), if a data user engages a data processor, whether within or outside Hong Kong, to process personal data on the data user’s behalf, the data user must adopt contractual or other means to prevent any personal data transferred to the data processor from being kept longer than is necessary for processing of the data. (Added 18 of 2012 s. 40)
+  - (3) Without limiting subsection (2), if a data user engages a data processor, whether within or outside Hong Kong, to process personal data on the data user’s behalf, the data user must adopt contractual or other means to prevent any personal data transferred to the data processor from being kept longer than is necessary for processing of the data. (Added 18 of 2012 s. 40)
 
-- (4) In subsection (3)—
+  - (4) In subsection (3)—
 
-  - data processor (資料處理者) means a person who—
+    - data processor (資料處理者) means a person who—
 
-    - (a) processes personal data on behalf of another person; and
+      - (a) processes personal data on behalf of another person; and
 
-    - (b) does not process the data for any of the person’s own purposes. (Added 18 of 2012 s. 40)
+      - (b) does not process the data for any of the person’s own purposes. (Added 18 of 2012 s. 40)
 
-- (Amended 18 of 2012 s. 40)
-
-- 3. Principle 3-use of personal data
+- 3. Principle 3—use of personal data
 
   - (1) Personal data shall not, without the prescribed consent of the data subject, be used for a new purpose. (Amended 18 of 2012 s. 40)
 
-- (2) A relevant person in relation to a data subject may, on his or her behalf, give the prescribed consent required for using his or her personal data for a new purpose if—
+  - (2) A relevant person in relation to a data subject may, on his or her behalf, give the prescribed consent required for using his or her personal data for a new purpose if—
 
-  - (a) the data subject is—
+    - (a) the data subject is—
 
-    - (i) a minor;
+      - (i) a minor;
 
-    - (ii) incapable of managing his or her own affairs; or
+      - (ii) incapable of managing his or her own affairs; or
 
-    - (iii) mentally incapacitated within the meaning of section 2 of the Mental Health Ordinance (Cap. 136);
+      - (iii) mentally incapacitated within the meaning of section 2 of the Mental Health Ordinance (Cap. 136);
 
-  - (b) the data subject is incapable of understanding the new purpose and deciding whether to give the prescribed consent; and
+    - (b) the data subject is incapable of understanding the new purpose and deciding whether to give the prescribed consent; and
 
-  - (c) the relevant person has reasonable grounds for believing that the use of the data for the new purpose is clearly in the interest of the data subject. (Added 18 of 2012 s. 40)
+    - (c) the relevant person has reasonable grounds for believing that the use of the data for the new purpose is clearly in the interest of the data subject. (Added 18 of 2012 s. 40)
 
-- (3) A data user must not use the personal data of a data subject for a new purpose even if the prescribed consent for so using that data has been given under subsection (2) by a relevant person, unless the data user has reasonable grounds for believing that the use of that data for the new purpose is clearly in the interest of the data subject. (Added 18 of 2012 s. 40)
+  - (3) A data user must not use the personal data of a data subject for a new purpose even if the prescribed consent for so using that data has been given under subsection (2) by a relevant person, unless the data user has reasonable grounds for believing that the use of that data for the new purpose is clearly in the interest of the data subject. (Added 18 of 2012 s. 40)
 
-- (4) In this section—
+  - (4) In this section—
 
-  - new purpose (新目的), in relation to the use of personal data, means any purpose other than—
+    - new purpose (新目的), in relation to the use of personal data, means any purpose other than—
 
-    - (a) the purpose for which the data was to be used at the time of the collection of the data; or
+      - (a) the purpose for which the data was to be used at the time of the collection of the data; or
 
-    - (b) a purpose directly related to the purpose referred to in paragraph (a). (Added 18 of 2012 s. 40)
+      - (b) a purpose directly related to the purpose referred to in paragraph (a). (Added 18 of 2012 s. 40)
 
-- 4. Principle 4-security of personal data
+- 4. Principle 4—security of personal data
 
   - (1) All practicable steps shall be taken to ensure that personal data (including data in a form in which access to or processing of the data is not practicable) held by a data user are protected against unauthorized or accidental access, processing, erasure, loss or use having particular regard to— (Amended 18 of 2012 s. 40)
 
@@ -130,17 +124,13 @@ DATA PROTECTION PRINCIPLES
 
     - (e) any measures taken for ensuring the secure transmission of the data.
 
-- (2) Without limiting subsection (1), if a data user engages a data processor, whether within or outside Hong Kong, to process personal data on the data user’s behalf, the data user must adopt contractual or other means to prevent unauthorized or accidental access, processing, erasure, loss or use of the data transferred to the data processor for processing. (Added 18 of 2012 s. 40)
+  - (2) Without limiting subsection (1), if a data user engages a data processor, whether within or outside Hong Kong, to process personal data on the data user’s behalf, the data user must adopt contractual or other means to prevent unauthorized or accidental access, processing, erasure, loss or use of the data transferred to the data processor for processing. (Added 18 of 2012 s. 40)
 
-- (3) In subsection (2)—
+  - (3) In subsection (2)—
 
-  - data processor (資料處理者) has the same meaning given by subsection (4) of data protection principle 2. (Added 18 of 2012 s. 40)
+    - data processor (資料處理者) has the same meaning given by subsection (4) of data protection principle 2. (Added 18 of 2012 s. 40)
 
-- 5.
-
-- Principle 5-information to be generally available
-
-- All practicable steps shall be taken to ensure that a person can—
+- 5. Principle 5—information to be generally available All practicable steps shall be taken to ensure that a person can—
 
   - (a) ascertain a data user’s policies and practices in relation to personal data;
 
@@ -148,11 +138,7 @@ DATA PROTECTION PRINCIPLES
 
   - (c) be informed of the main purposes for which personal data held by a data user is or is to be used. (Amended 18 of 2012 s. 40)
 
-- 6.
-
-- Principle 6-access to personal data
-
-- A data subject shall be entitled to—
+- 6. Principle 6—access to personal data A data subject shall be entitled to—
 
   - (a) ascertain whether a data user holds personal data of which he is the data subject;
 

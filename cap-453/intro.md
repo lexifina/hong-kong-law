@@ -2,4 +2,6 @@ An Ordinance to establish a Board having limited jurisdiction to adjudicate mino
 
 [23 December 1994] L.N. 677 of 1994
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Format changes—E.R. 1 of 2013)
+
+(Enacting provision omitted—E.R. 1 of 2013)

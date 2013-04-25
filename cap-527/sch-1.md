@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & 68]
 
-EDUCATIONAL ESTABLISHMENTS AND THEIR RESPONSIBLE BODIES
+Educational Establishments and Their Responsible Bodies
 
 (For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
 
@@ -37,3 +37,5 @@ Educational establishment | Responsible body
 14. | Any school which is registered or provisionally registered under the Education Ordinance (Cap. 279) | The management committee, within the meaning of section 3 of the Education Ordinance (Cap. 279), of the school
 
 15. | Any school, within the meaning of section 3 of the Education Ordinance (Cap. 279), entirely maintained and controlled by the Government | The Permanent Secretary for Education (Amended 3 of 2003 s. 41; L.N. 130 of 2007)
+
+(Format changes—E.R. 1 of 2013)

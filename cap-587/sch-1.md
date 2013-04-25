@@ -1,12 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 69]
 
-CONSTRUCTION OPERATIONS
+Construction Operations
 
 - 1.
 
-  - In this Ordinance, “construction operations” (建造工程) means operations of any of the following descriptions—
+  - In this Ordinance, construction operations (建造工程) means operations of any of the following descriptions—
 
     - (a) building works as defined in section 2(1) of the Buildings Ordinance (Cap. 123);
 
@@ -34,7 +34,7 @@ CONSTRUCTION OPERATIONS
 
 - 2.
 
-  - Notwithstanding section 1, “construction operations” (建造工程) does not include operations of any of the following descriptions—
+  - Notwithstanding section 1, construction operations (建造工程) does not include operations of any of the following descriptions—
 
     - (a) design, advice or consultation work, unless such design, advice or consultation work is incidental to any operations described in section 1;
 
@@ -46,10 +46,10 @@ CONSTRUCTION OPERATIONS
 
 - 3. In this Schedule—
 
-  - “extra low voltage” (特低壓) means voltage normally not exceeding—
+  - extra low voltage (特低壓) means voltage normally not exceeding—
 
     - (a) 50V root mean square alternating current between conductors or between a conductor and earth; or
 
     - (b) 120V direct current between conductors or between a conductor and earth;
 
-  - “land” (土地) includes land under the sea.
+  - land (土地) includes land under the sea.

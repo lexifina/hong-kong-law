@@ -1,18 +1,12 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 63, 64, 67 & 90]
 
-PROVISIONS WITH RESPECT TO THE COMMISSION AND COMMITTEES AND THEIR MEMBERS
+Provisions with Respect to the Commission and Committees and their Members
 
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+Members and Procedure of Commission
 
-Members and procedure of Commission
-
-- 1.
-
-- Terms and conditions of appointment
-
-- of Chairperson, etc.
+- 1. Terms and conditions of appointment of Chairperson, etc.
 
   - (1) Subject to subsection (2), the Chief Executive shall determine the remuneration and the terms and conditions of appointment of the Chairperson. (Amended 66 of 1999 s. 3)
 
@@ -32,11 +26,7 @@ Members and procedure of Commission
 
   - (3) A member of the Commission may at any time by notice in writing to the Chief Executive resign his office. (Amended 66 of 1999 s. 3)
 
-- 3.
-
-- Members of Commission to disclose interests
-
-- in respect of certain contracts
+- 3. Members of Commission to disclose interests in respect of certain contracts
 
   - (1) A member of the Commission who is in any way directly or indirectly interested in a contract made or proposed to be made by—
 
@@ -62,11 +52,7 @@ Members and procedure of Commission
 
 - 4. Fees and allowances payable to members of Commission The Commission may pay its members such fees and allowances as the Secretary for Constitutional and Mainland Affairs, after consulting with the Secretary for Financial Services and the Treasury, determines. (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
-- 5.
-
-- Chief Executive may in certain circumstances declare
-
-- office of member of Commission to be vacant If the Chief Executive is satisfied that a member of the Commission—
+- 5. Chief Executive may in certain circumstances declare office of member of Commission to be vacant If the Chief Executive is satisfied that a member of the Commission—
 
   - (a) has been absent from 3 consecutive meetings of the Commission without the permission of the Commission;
 
@@ -74,7 +60,9 @@ Members and procedure of Commission
 
   - (c) is incapacitated by physical or mental illness; or
 
-  - (d) is otherwise unable or unfit to discharge the functions of a member, the Chief Executive may declare his office as a member of the Commission to be vacant, and shall notify the fact in such manner as the Chief Executive thinks fit; and upon such declaration the office shall become vacant.
+  - (d) is otherwise unable or unfit to discharge the functions of a member,
+
+- the Chief Executive may declare his office as a member of the Commission to be vacant, and shall notify the fact in such manner as the Chief Executive thinks fit; and upon such declaration the office shall become vacant.
 
 - (Amended 66 of 1999 s. 3)
 
@@ -84,11 +72,7 @@ Members and procedure of Commission
 
   - (2) All matters for determination at a meeting of the Commission shall be decided by a majority of votes of the members present and voting and where there is an equality of votes the Chairperson or other member presiding shall have a casting vote in addition to his original vote.
 
-- 7.
-
-- Fixing of seal of Commission
-
-- The fixing of the seal of the Commission shall be—
+- 7. Fixing of seal of Commission The fixing of the seal of the Commission shall be—
 
   - (a) authorized by the Commission; and
 
@@ -106,7 +90,9 @@ Members and procedure of Commission
 
 - 9. Certain documents not required to be sealed Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not be required to be under seal may be entered into or executed on behalf of the Commission by any member of the Commission generally or specifically authorized by the Commission for that purpose.
 
-- 10. Procedure of Commission Subject to the provisions of this Schedule, the Commission shall have power to regulate its own procedure including the manner in which decisions of the Commission may be made by a quorum of its members otherwise than at a meeting of the Commission. Staff of Commission
+- 10. Procedure of Commission Subject to the provisions of this Schedule, the Commission shall have power to regulate its own procedure including the manner in which decisions of the Commission may be made by a quorum of its members otherwise than at a meeting of the Commission.
+
+Staff of Commission
 
 - 11. Employees, etc. of Commission
 
@@ -138,23 +124,17 @@ Members and procedure of Commission
 
   - (6)
 
-    - In this section “employees” (僱員) includes any class of employee which the Commission specifies and in subsection (3) includes former employees. Committees
+    - In this section employees (僱員) includes any class of employee which the Commission specifies and in subsection (3) includes former employees.
 
-- 12.
+Committees
 
-- Members of committees
-
-- The Commission—
+- 12. Members of committees The Commission—
 
   - (a) may appoint members of the Commission, and persons who are not such members, to be members of a committee; and
 
   - (b) shall appoint the chairman of a committee and determine the number of members of a committee.
 
-- 13.
-
-- Members of committee to disclose interests
-
-- in respect of certain contracts
+- 13. Members of committee to disclose interests in respect of certain contracts
 
   - (1) A member of a committee who is in any way directly or indirectly interested in a contract made or proposed to be made by—
 
@@ -190,7 +170,7 @@ Members and procedure of Commission
 
 - (Amended L.N. 106 of 2002; L.N. 130 of 2007)
 
-- Finances, etc. of Commission
+Finances, etc. of Commission
 
 - 15. Resources of Commission
 
@@ -252,6 +232,8 @@ Members and procedure of Commission
 
   - (5) Subsection (1) shall not operate to entitle the Director of Audit to question the merits of the policy objectives of the Commission.
 
-- 20. Exemption from taxation The Commission shall be exempt from taxation under the Inland Revenue Ordinance (Cap. 112). Delegations
+- 20. Exemption from taxation The Commission shall be exempt from taxation under the Inland Revenue Ordinance (Cap. 112).
+
+Delegations
 
 - 21. Provisions to which section 67(1) shall not apply Sections 4, 11(1)(a), (4) and (5), 16(1) and (3), 17(1) and 18 shall not be subject to section 67(1) of this Ordinance.

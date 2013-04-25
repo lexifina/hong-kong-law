@@ -1,8 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 2 & 65]
 
-STRUCTURES AND WORKS
+(Format changes—E.R. 1 of 2013)
+
+Structures and Works
 
 - 1. Any building, edifice, wall, fence, or chimney, whether constructed wholly or partly above or below ground level.
 

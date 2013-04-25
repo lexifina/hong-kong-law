@@ -1,10 +1,16 @@
 # Schedule 4
 
-[ss. 11A, 12, 14 & 65] (Amended 17 of 2012 s. 42)
+[ss. 11A, 12, 14 & 65]
 
-Registration Board, its Subcommittees and Other Boards*
+(Amended 17 of 2012 s. 42)
 
-- PART 1 Registration Board (Amended 17 of 2012 s. 42)
+(Format changes—E.R. 1 of 2013)
+
+Registration Board, its Subcommittees and Other Boards
+
+(Amended 17 of 2012 s. 42)
+
+- Part 1 Registration Board (Amended 17 of 2012 s. 42)
 
   - 1. Composition of Registration Board
 
@@ -26,23 +32,25 @@ Registration Board, its Subcommittees and Other Boards*
 
       - (h) 3 persons, each of whom is, in the opinion of the Council, a person connected with the construction industry in Hong Kong.
 
-  - (2) An appointment under subsection (1) must be notified in the Gazette.
+    - (2) An appointment under subsection (1) must be notified in the Gazette.
 
-  - (3) If, for any period, the chairperson of the Registration Board is absent from Hong Kong or is, for any other reason, unable to perform the functions of the office, the other members of the Registration Board may elect from among themselves a person to act as chairperson of the Registration Board during that period. (Added 17 of 2012 s. 42)
+    - (3) If, for any period, the chairperson of the Registration Board is absent from Hong Kong or is, for any other reason, unable to perform the functions of the office, the other members of the Registration Board may elect from among themselves a person to act as chairperson of the Registration Board during that period.
 
-  - 1A. Tenure of office
+  - (Added 17 of 2012 s. 42)
+
+  - 1A. Tenure of office (Amended 17 of 2012 s. 42)
 
     - (1) An appointed member of the Registration Board shall hold office for such periods, and on such terms, as the Council may specify in the document by which the member is appointed.
 
     - (2) An appointed member of the Registration Board, not being a public officer, shall be appointed for a term not more than 3 years.
 
-    - (3) An appointed member of the Registration Board shall—
+    - (3) An appointed member of the Registration Board shall— (Amended 17 of 2012 s. 42)
 
       - (a) hold and vacate his office in accordance with the terms of his appointment; and
 
       - (b) be eligible for reappointment on ceasing to be a member.
 
-    - (4) If the Council is satisfied that an appointed member of the Registration Board—
+    - (4) If the Council is satisfied that an appointed member of the Registration Board— (Amended 17 of 2012 s. 42)
 
       - (a) has become bankrupt or made an arrangement with his creditors;
 
@@ -58,13 +66,13 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-  - 2. Proceedings of Registration Board
+  - 2. Proceedings of Registration Board (Amended 17 of 2012 s. 42)
 
     - (1) The chairperson of the Registration Board may appoint the time and place for the Registration Board to meet.
 
     - (2) The Registration Board shall not transact business at a meeting other than to adjourn unless there is a quorum of 10 members of the Registration Board present.
 
-    - (3) At a meeting of the Registration Board, the following shall preside—
+    - (3) At a meeting of the Registration Board, the following shall preside— (Amended 17 of 2012 s. 42)
 
       - (a) the chairperson of the Registration Board;
 
@@ -80,13 +88,13 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-  - 3. Members of Registration Board to disclose interests
+  - 3. Members of Registration Board to disclose interests (Amended 17 of 2012 s. 42)
 
     - (1) A member of the Registration Board who is in any way directly or indirectly interested in a matter being considered made by the Registration Board shall disclose the nature of his interest at a meeting of the Registration Board.
 
     - (2) The Registration Board shall record the disclosure in the minutes of the meeting of the Registration Board.
 
-    - (3) A member of the Registration Board who has an interest in a matter referred to in subsection (1)—
+    - (3) A member of the Registration Board who has an interest in a matter referred to in subsection (1)— (Amended 17 of 2012 s. 42)
 
       - (a) shall not, without the permission of the chairperson of the Registration Board or any other member of the Registration Board presiding, take any part in any deliberation of the Registration Board with respect to that matter; and
 
@@ -100,9 +108,13 @@ Registration Board, its Subcommittees and Other Boards*
 
     - (1) In every financial year, the Registration Board must submit to the Council, before a date determined by the Council, a programme of its proposed activities and estimates of its income and expenditure for the next financial year.
 
-    - (2) The Registration Board must, as soon as practicable after the commencement date# of this section, submit the programme and estimates for the first financial year.
+    - (2) The Registration Board must, as soon as practicable after the commencement date* of this section, submit the programme and estimates for the first financial year.
 
   - (Added 17 of 2012 s. 42)
+
+  - Editorial Note:
+
+  - * Commencement date: 1 January 2013.
 
   - 3B. Accounts of Registration Board and submission of reports, etc. to Council
 
@@ -136,11 +148,11 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Added 17 of 2012 s. 42)
 
-  - 4.-5. (Repealed 17 of 2012 s. 42)
+  - 4-5. (Repealed 17 of 2012 s. 42)
 
-- PART 2 Subcommittees Appointed by Registration Board and Members of Subcommittees (Amended 17 of 2012 s. 42)
+- Part 2 Subcommittees Appointed by Registration Board and Members of Subcommittees (Amended 17 of 2012 s. 42)
 
-  - 6. Members of subcommittees The Registration Board—
+  - 6. Members of subcommittees (Amended 17 of 2012 s. 42) The Registration Board— (Amended 17 of 2012 s. 42)
 
     - (a) may appoint members of the Registration Board, and persons who are not such members, to be members of a subcommittee; and
 
@@ -148,7 +160,7 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-  - 7. Functions and powers of subcommittees A subcommittee—
+  - 7. Functions and powers of subcommittees (Amended 17 of 2012 s. 42) A subcommittee— (Amended 17 of 2012 s. 42)
 
     - (a) shall perform such functions and may exercise such powers as are delegated to it by the Registration Board under section 3C(2); and
 
@@ -156,7 +168,7 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-- PART 3 Qualifications Board and its Members (Amended 17 of 2012 s. 42)
+- Part 3 Qualifications Board and its Members (Amended 17 of 2012 s. 42)
 
   - 8. Tenure of office
 
@@ -164,13 +176,13 @@ Registration Board, its Subcommittees and Other Boards*
 
     - (2) A member of the Qualifications Board, not being a public officer, shall be appointed for a term not more than 3 years.
 
-    - (3) A member of the Qualifications Board shall—
+    - (3) A member of the Qualifications Board shall— (Amended 17 of 2012 s. 42)
 
       - (a) hold and vacate his office in accordance with the terms of his appointment; and
 
       - (b) be eligible for reappointment on ceasing to be a member.
 
-    - (4) If the Registration Board is satisfied that a member of the Qualifications Board—
+    - (4) If the Registration Board is satisfied that a member of the Qualifications Board— (Amended 17 of 2012 s. 42)
 
       - (a) has become a member of the Review Board or a member of the Appeal Board panel;
 
@@ -188,13 +200,13 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-  - 9. Proceedings of Qualifications Board
+  - 9. Proceedings of Qualifications Board (Amended 17 of 2012 s. 42)
 
     - (1) The chairperson of the Qualifications Board may appoint the time and place for the Board to meet.
 
     - (2) The Qualifications Board shall not transact business at a meeting other than to adjourn unless there is a quorum of 7 members of the Board present.
 
-    - (3) At a meeting of the Qualifications Board, the following shall preside—
+    - (3) At a meeting of the Qualifications Board, the following shall preside— (Amended 17 of 2012 s. 42)
 
       - (a) the chairperson of the Board;
 
@@ -210,13 +222,13 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-  - 10. Members of Qualifications Board to disclose interests
+  - 10. Members of Qualifications Board to disclose interests (Amended 17 of 2012 s. 42)
 
     - (1) A member of the Qualifications Board who is in any way directly or indirectly interested in a matter being considered made by the Board shall disclose the nature of his interest at a meeting of the Board.
 
     - (2) The Qualifications Board shall record the disclosure in the minutes of the meeting of the Board.
 
-    - (3) A member of the Qualifications Board who has an interest in a matter referred to in subsection (1)—
+    - (3) A member of the Qualifications Board who has an interest in a matter referred to in subsection (1)— (Amended 17 of 2012 s. 42)
 
       - (a) shall not, without the permission of the chairperson of the Qualifications Board or any other member of the Board presiding, take any part in any deliberation of the Board with respect to that matter; and
 
@@ -226,7 +238,7 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-- PART 4 Review Board and its Members (Amended 17 of 2012 s. 42)
+- Part 4 Review Board and its Members (Amended 17 of 2012 s. 42)
 
   - 11. Tenure of office
 
@@ -234,13 +246,13 @@ Registration Board, its Subcommittees and Other Boards*
 
     - (2) A member of the Review Board, not being a public officer, shall be appointed for a term not more than 3 years.
 
-    - (3) A member of the Review Board shall—
+    - (3) A member of the Review Board shall— (Amended 17 of 2012 s. 42)
 
       - (a) hold and vacate his office in accordance with the terms of his appointment; and
 
       - (b) be eligible for reappointment on ceasing to be a member.
 
-    - (4) If the Registration Board is satisfied that a member of the Review Board—
+    - (4) If the Registration Board is satisfied that a member of the Review Board— (Amended 17 of 2012 s. 42)
 
       - (a) has become a member of the Qualifications Board or a member of the Appeal Board panel;
 
@@ -264,13 +276,13 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-  - 12. Proceedings of Review Board
+  - 12. Proceedings of Review Board (Amended 17 of 2012 s. 42)
 
     - (1) The chairperson of the Review Board may appoint the time and place for the Board to meet.
 
     - (2) The Review Board shall not transact business at a meeting other than to adjourn unless there is a quorum of 4 members of the Board present.
 
-    - (3) At a meeting of the Review Board, the following shall preside—
+    - (3) At a meeting of the Review Board, the following shall preside— (Amended 17 of 2012 s. 42)
 
       - (a) the chairperson of the Board;
 
@@ -286,13 +298,13 @@ Registration Board, its Subcommittees and Other Boards*
 
   - (Amended 17 of 2012 s. 42)
 
-  - 13. Members of Review Board to disclose interests
+  - 13. Members of Review Board to disclose interests (Amended 17 of 2012 s. 42)
 
     - (1) A member of the Review Board who is in any way directly or indirectly interested in a matter being considered made by the Board shall disclose the nature of his interest at a meeting of the Board.
 
     - (2) The Review Board shall record the disclosure in the minutes of the meeting of the Board.
 
-    - (3) A member of the Review Board who has an interest in a matter referred to in subsection (1)—
+    - (3) A member of the Review Board who has an interest in a matter referred to in subsection (1)— (Amended 17 of 2012 s. 42)
 
       - (a) shall not, without the permission of the chairperson of the Review Board or any other member of the Board presiding, take any part in any deliberation of the Board with respect to that matter; and
 
@@ -301,11 +313,3 @@ Registration Board, its Subcommittees and Other Boards*
     - (4) A member of the Review Board need not attend in person at a meeting of the Board to make a disclosure which he is required to make under this section if he takes reasonable steps to secure that the disclosure is made by a notice in writing which is brought up and read at the meeting.
 
   - (Amended 17 of 2012 s. 42)
-
-  - _
-
-  - Note:
-
-  - * (Amended 17 of 2012 s. 42)
-
-  - # Commencement date: 1 January 2013.

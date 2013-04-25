@@ -1,7 +1,9 @@
-CORONERS (WITNESSES’ ALLOWANCES) RULES
+Coroners (Witnesses’ Allowances) Rules
 
-(Made under section 54 of the Coroners Ordinance (27 of 1997)
+(Cap. 504 section 54)
 
-with the approval of the Legislative Council)
+(Enacting provision omitted—E.R. 1 of 2013)
 
 [4 May 1998] L.N. 211 of 1998
+
+(Format changes—E.R. 1 of 2013)

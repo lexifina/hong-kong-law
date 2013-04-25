@@ -1,6 +1,8 @@
 # Schedule 19
 
-[regs. 2 and 24C]
+[regs. 2 & 24C]
+
+(E.R. 1 of 2013)
 
 Installation and Performance Requirements for Electronic Data Recording Devices
 

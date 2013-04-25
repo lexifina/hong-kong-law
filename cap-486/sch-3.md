@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 2] (Amended 18 of 2012 s. 41)
 
-PRESCRIBED INFORMATION
+Prescribed Information
 
 - 1. The name and address of the data user.
 

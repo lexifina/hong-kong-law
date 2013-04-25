@@ -1,33 +1,43 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 1(2) & 36]
 
-CONSEQUENTIAL AND OTHER AMENDMENTS
+Consequential and Other Amendments
 
-(Sections 3, 11 & 15 are not yet in operation.)
+(Format changes—E.R. 1 of 2013)
 
 Rules of the High Court
 
 (Amended 71 of 1999 s. 3)
 
-- 1-2. (Omitted as spent)
+- 1-2. (Omitted as spent—E.R. 1 of 2013)
 
-- 3. Drug Trafficking (Recovery of Proceeds)
+- 3. Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405)
 
-- Ordinance (Cap. 405)
+- (Not yet in operation)
 
 - Order 115, rules 12 to 21 are repealed.
 
-- 4-6. (Omitted as spent) Drug Trafficking (Recovery of Proceeds) Ordinance
+- 4-6. (Omitted as spent—E.R. 1 of 2013)
 
-- 7-10. (Omitted as spent)
+Drug Trafficking (Recovery of Proceeds) Ordinance
 
-- 11. Sections repealed Sections 28 and 29 are repealed. Drug Trafficking (Recovery of Proceeds)
+- 7-10. (Omitted as spent—E.R. 1 of 2013)
 
-- (Designated Countries and Territories) Order
+- 11. Sections repealed
 
-- 12-14. (Omitted as spent)
+- (Not yet in operation)
 
-- 15. Repeal The Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order is repealed.
+- Sections 28 and 29 are repealed.
 
-- 16-18. (Omitted as spent)
+Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order
+
+- 12-14. (Omitted as spent—E.R. 1 of 2013)
+
+- 15. Repeal
+
+- (Not yet in operation)
+
+- The Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order is repealed.
+
+- 16-18. (Omitted as spent—E.R. 1 of 2013)

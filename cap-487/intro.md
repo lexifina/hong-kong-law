@@ -2,4 +2,4 @@ An Ordinance to render unlawful discrimination against persons on the ground of 
 
 [20 May 1996]
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 1 of 2013)

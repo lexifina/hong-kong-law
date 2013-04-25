@@ -3,3 +3,5 @@ To regulate the carrying on of insurance business including regulating insurance
 (Amended 76 of 1994 s. 2)
 
 [30 June 1983] L.N. 203 of 1983
+
+(Format changes—E.R. 1 of 2013)

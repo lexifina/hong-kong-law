@@ -1,38 +1,38 @@
-# SCHEDULE 8
+# Schedule 8
 
 [ss. 215, 216, 217, 218, 219, 222, 232, 233 & 234 & Sch. 10]
 
-SECURITIES AND FUTURES APPEALS TRIBUNAL
+Securities and Futures Appeals Tribunal
 
-- PART 1 APPOINTMENT OF MEMBERS AND PROCEEDINGS OF TRIBUNAL, ETC.
+- Part 1 Appointment of Members and Proceedings of Tribunal, etc.
 
   - 1. In this Schedule, unless the context otherwise requires—
 
-    - “appeal panel” (上訴委員會) means the panel of persons appointed under section 2;
+    - appeal panel (上訴委員會) means the panel of persons appointed under section 2;
 
-    - “application for review” (覆核申請) has the meaning assigned to it by section 215 of this Ordinance;
+    - application for review (覆核申請) has the meaning assigned to it by section 215 of this Ordinance;
 
-    - “chairman” (主席) means the chairman of the Tribunal;
+    - chairman (主席) means the chairman of the Tribunal;
 
-    - “judge” (法官) has the meaning assigned to it by section 215 of this Ordinance;
+    - judge (法官) has the meaning assigned to it by section 215 of this Ordinance;
 
-    - “member” (成員) means a member of the Tribunal;
+    - member (成員) means a member of the Tribunal;
 
-    - “ordinary member” (普通成員) means a member other than the chairman;
+    - ordinary member (普通成員) means a member other than the chairman;
 
-    - “panel member” (上訴委員) means a member of the appeal panel;
+    - panel member (上訴委員) means a member of the appeal panel;
 
-    - “parties” (各方) has the meaning assigned to it by section 215 of this Ordinance;
+    - parties (各方) has the meaning assigned to it by section 215 of this Ordinance;
 
-    - “relevant authority” (有關當局) has the meaning assigned to it by section 215 of this Ordinance;
+    - relevant authority (有關當局) has the meaning assigned to it by section 215 of this Ordinance;
 
-    - “review” (覆核) has the meaning assigned to it by section 215 of this Ordinance;
+    - review (覆核) has the meaning assigned to it by section 215 of this Ordinance;
 
-    - “Secretary” (局長) means the Secretary for Financial Services and the Treasury; (Amended L.N. 106 of 2002)
+    - Secretary (局長) means the Secretary for Financial Services and the Treasury; (Amended L.N. 106 of 2002)
 
-    - “specified decision” (指明決定) has the meaning assigned to it by section 215 of this Ordinance;
+    - specified decision (指明決定) has the meaning assigned to it by section 215 of this Ordinance;
 
-    - “Tribunal” (審裁處) has the meaning assigned to it by section 215 of this Ordinance. Appointment of appeal panel
+    - Tribunal (審裁處) has the meaning assigned to it by section 215 of this Ordinance. Appointment of appeal panel
 
   - 2. The Chief Executive shall appoint persons to a panel comprising such number of members, who are not public officers, as he considers appropriate.
 
@@ -124,7 +124,7 @@ SECURITIES AND FUTURES APPEALS TRIBUNAL
 
   - 30.
 
-    - In sections 28 and 29, “order” (命令) includes any finding, determination and any other decision. Chairman as sole member of Tribunal
+    - In sections 28 and 29, order (命令) includes any finding, determination and any other decision. Chairman as sole member of Tribunal
 
   - 31. Where, at any time after an application for review has been made but before any sitting of the Tribunal is held to determine the review, the parties to the review have, by notice in writing given to the Tribunal, informed the Tribunal that they have agreed that the review may be determined by the chairman alone as the sole member of the Tribunal, the chairman may determine the review as the sole member of the Tribunal.
 
@@ -146,15 +146,15 @@ SECURITIES AND FUTURES APPEALS TRIBUNAL
 
     - (b) the chairman is precluded by illness, absence from Hong Kong or any other cause from performing his functions, or considers it improper or undesirable that he should perform his functions in relation to the application,
 
-  - a judge within the meaning of paragraph (a) of the definition of “judge” in section 215 of this Ordinance shall, upon appointment by the Chief Justice for the purpose, determine the application as if he were the chairman duly appointed under this Ordinance, and the provisions of this Ordinance shall apply to him accordingly.
+  - a judge within the meaning of paragraph (a) of the definition of judge in section 215 of this Ordinance shall, upon appointment by the Chief Justice for the purpose, determine the application as if he were the chairman duly appointed under this Ordinance, and the provisions of this Ordinance shall apply to him accordingly.
 
   - Miscellaneous
 
   - 36. Except as otherwise provided in this Ordinance, the Tribunal and its members, and any party, witness, counsel, solicitor, or any other person involved, in a review, shall have the same privileges and immunities in respect of the review as they would have if the review were civil proceedings before the Court of First Instance.
 
-- PART 2 SPECIFIED DECISIONS
+- Part 2 Specified Decisions
 
-  - Division 1 Specified decisions made by Commission
+  - Division 1—Specified Decisions Made by Commission
 
 Item | Provision | Description of decision
 
@@ -322,7 +322,7 @@ Item | Provision | Description of decision
 
 78. | Section 4(4)(c) of the Securities and Futures (Contracts Limits and Reportable Positions) Rules (Cap. 571 sub. leg. Y) | Refusal to give notice. (Added L.N. 231 of 2002)
 
-- Division 2 Specified decisions made by Monetary Authority
+- Division 2—Specified Decisions Made by Monetary Authority
 
 Item | Provision | Description of decision
 
@@ -338,9 +338,7 @@ Item | Provision | Description of decision
 
 6. | Section 71E(3) of the Banking Ordinance (Cap. 155) | Attachment or amendment of any condition.
 
-- Division 3 Specified decisions made by Commission or
-
-- recognized investor compensation company
+- Division 3—Specified Decisions Made by Commission or Recognized Investor Compensation Company
 
 Item | Provision | Description of decision
 
@@ -352,37 +350,27 @@ Item | Provision | Description of decision
 
 4. | Section 9(3) of the Securities and Futures (Investor Compensation-Claims) Rules (Cap. 571 sub. leg. T) | Aggregation of separate claims or parts of those claims. (Added L.N. 231 of 2002)
 
-- PART 3 Division 1
+- Part 3 Division 1—Specified Decisions Referred to in Section 217(3)(b) of this Ordinance
 
-- Specified decisions referred to in section 217(3)(b)
+Item | Description of specified decision | Provisions
 
-- of this Ordinance
+1. | A specified decision set out in item 41 or 43 of Division 1 of Part 2. | Section 146(10) of this Ordinance.
 
-- Item | Description of specified decision | Provisions
+2. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
 
-- 1. | A specified decision set out in item 41 or 43 of Division 1 of Part 2. | Section 146(10) of this Ordinance.
-
-- 2. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
-
-  - Division 2 Specified decisions referred to in section 218(4)(a)
-
-  - of this Ordinance
+- Division 2—Specified Decisions Referred to in Section 218(4)(a) of this Ordinance
 
 Item | Description of specified decision | Provisions
 
 1. | A specified decision set out in item 56 or 57 of Division 1 of Part 2. | Sections 58A(1) and 71C(4) of the Banking Ordinance (Cap. 155).
 
-- Division 3 Specified decisions referred to in section 218(4)(b)
-
-- of this Ordinance
+- Division 3—Specified Decisions Referred to in Section 218(4)(b) of this Ordinance
 
 Item | Description of specified decision | Provision
 
 1. | A specified decision set out in item 1 or 4 of Division 2 of Part 2. | Section 196(1) and (2) of this Ordinance.
 
-- Division 4 Specified decisions referred to in section 232(1)
-
-- of this Ordinance
+- Division 4—Specified Decisions Referred to in Section 232(1) of this Ordinance
 
 Item | Description of specified decision | Provision
 
@@ -390,9 +378,7 @@ Item | Description of specified decision | Provision
 
 2. | A specified decision set out in item 45 or 46 of Division 1 of Part 2. | Section 147(8) of this Ordinance.
 
-- Division 5 Specified decisions referred to in section 232(2)
-
-- of this Ordinance
+- Division 5—Specified Decisions Referred to in Section 232(2) of this Ordinance
 
 Item | Description of specified decision | Provision
 
@@ -429,3 +415,5 @@ Item | Description of specified decision | Provision
 16. | A specified decision set out in item 73 of Division 1 of Part 2. | Section 6(5) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V). (Added L.N. 231 of 2002)
 
 17. | A specified decision set out in item 74 of Division 1 of Part 2. | Section 6(5) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V). (Added L.N. 231 of 2002)
+
+(Format changes—E.R. 1 of 2013)

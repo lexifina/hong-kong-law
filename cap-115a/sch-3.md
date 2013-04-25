@@ -42,7 +42,7 @@
 
 - 10. Witnesses and evidence
 
-  - (1) The Tribunal may, on its own motion, or, if it thinks fit, on the application of an appellant or of the Director of Immigration, by summons require any person to attend as a witness at the hearing of an appeal at such time and place as may be specified in the summons, and at the hearing to answer any questions or produce any documents in his possession, custody or power which relate to any issue in the appeal.
+  - (1) The Tribunal may, on its own motion or, if it thinks fit, on the application of an appellant or of the Director of Immigration, by summons require any person to attend as a witness at the hearing of an appeal at such time and place as may be specified in the summons, and at the hearing to answer any questions or produce any documents in his possession, custody or power which relate to any issue in the appeal.
 
   - (2)
 
@@ -56,9 +56,9 @@
 
   - (5)
 
-    - (a) The Tribunal may allow in respect of a witness who attends at the hearing of an appeal to give evidence (including professional or expert evidence) a professional witness allowance, expert witness allowance or loss allowance, as the case may be, not exceeding the professional witness allowance, expert witness allowance or loss allowance that a magistrate may allow under the Criminal Procedure (Witnesses’ Allowances) Rules (Cap. 221 sub. leg. B) in respect of a witness who attends to give evidence in criminal proceedings. (L.N. 254 of 1984)
+    - (a) The Tribunal may allow in respect of a witness who attends at the hearing of an appeal to give evidence (including professional or expert evidence) a professional witness allowance, expert witness allowance or loss allowance, as the case may be, not exceeding the professional witness allowance, expert witness allowance or loss allowance that a magistrate may allow under the Criminal Procedure (Witnesses’ Allowances) Rules (Cap. 221 sub. leg. B) in respect of a witness who attends to give evidence in criminal proceedings.
 
-    - (b) Any sum allowed under sub-sub-paragraph (a) shall cease to be payable unless claimed within 3 months from the date on which it was allowed.
+    - (b) Any sum allowed under sub-sub-paragraph (a) shall cease to be payable unless claimed within 3 months from the date on which it was allowed. (L.N. 254 of 1984)
 
 - 11. Transfer of hearing to other adjudicators
 
@@ -66,11 +66,7 @@
 
   - (2) Where the adjudicators hearing an appeal consider that the appeal should, for any reason, be dealt with by one of them and another adjudicator, or by 2 other adjudicators, they may make arrangements for the appeal to be so dealt with; and the appeal may be dealt with accordingly.
 
-- 12.
-
-- Hearings in absence of appellant
-
-- The Tribunal may hear an appeal in the absence of the appellant—
+- 12. Hearings in absence of appellant The Tribunal may hear an appeal in the absence of the appellant—
 
   - (a) if the appellant refuses or declines to appear when given the opportunity to do so; or
 
@@ -80,6 +76,6 @@
 
     - (ii) if the appellant did attend the hearing he would present a threat to the health or safety of other persons at the hearing,
 
-  - and that it would be proper in all the circumstances to proceed in the absence of the appellant.
+- and that it would be proper in all the circumstances to proceed in the absence of the appellant.
 
 - 13. Record of proceedings The Tribunal shall keep a summary or record of proceedings in every appeal which comes before it in such form as the chief adjudicator may determine. (L.N. 300 of 1980)

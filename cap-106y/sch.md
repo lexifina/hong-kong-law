@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
-- PART 1
+- Part 1
 
 MHz | MHz | MHz
 
@@ -14,7 +14,7 @@ MHz | MHz | MHz
 
 1964.9–1979.7 | 2154.9–2169.7 | 2019.7–2024.7
 
-- PART 2
+- Part 2
 
 MHz | MHz
 
@@ -24,7 +24,7 @@ MHz | MHz
 
 (L.N. 85 of 2007)
 
-- PART 2A
+- Part 2A
 
 MHz | MHz
 
@@ -32,7 +32,7 @@ MHz | MHz
 
 (L.N. 20 of 2009)
 
-- PART 3
+- Part 3
 
 MHz | MHz
 
@@ -40,7 +40,7 @@ MHz | MHz
 
 (L.N. 85 of 2007)
 
-- PART 4 MHz 2300–2390
+- Part 4 MHz 2300–2390
 
 - 2500–2635
 
@@ -48,11 +48,11 @@ MHz | MHz
 
 - Part 4A MHz 2635–2660 (L.N. 162 of 2012)
 
-- PART 5 MHz 216.160–217.696
+- Part 5 MHz 216.160–217.696
 
 - 217.872–219.408 678–686 (L.N. 20 of 2009)
 
-- PART 6
+- Part 6
 
 MHz | MHz
 

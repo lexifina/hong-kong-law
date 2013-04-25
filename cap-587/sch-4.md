@@ -2,21 +2,19 @@
 
 [ss. 19, 30 & 69]
 
-Composition, Meetings and Proceedings of Training Board, etc.*
+Composition, Meetings and Proceedings of Training Board, etc.
+
+(Amended 17 of 2012 s. 63)
 
 - 1. Interpretation In this Schedule—
 
-  - “Board member” (訓練委員會成員) means a member of the Training Board referred to in section 2; (Amended 17 of 2012 s. 63)
+  - Board member (訓練委員會成員) means a member of the Training Board referred to in section 2; (Amended 17 of 2012 s. 63)
 
   - chairperson (主席) means the chairperson of the Training Board appointed under section 2(4). (Added 17 of 2012 s. 63)
 
 - (Amended 17 of 2012 s. 63)
 
-- 2.
-
-- Composition of Training Board
-
-- (Amended 17 of 2012 s. 63)
+- 2. Composition of Training Board (Amended 17 of 2012 s. 63)
 
   - (1) The Training Board is to consist of 14 members appointed by the Council.
 
@@ -40,9 +38,7 @@ Composition, Meetings and Proceedings of Training Board, etc.*
 
 - (Amended 17 of 2012 s. 63)
 
-- 3. Term of office of Board member who
-
-- is not public officer
+- 3. Term of office of Board member who is not public officer
 
   - (1) Subject to subsection (2), a Board member who is not a public officer—
 
@@ -52,9 +48,7 @@ Composition, Meetings and Proceedings of Training Board, etc.*
 
   - (2) A Board member who is not a public officer may not serve as such a member continuously for more than 6 years.
 
-- 4. Resignation of Board member who
-
-- is not public officer
+- 4. Resignation of Board member who is not public officer
 
   - (1) A Board member who is not a public officer may resign at any time by giving notice in writing to the Council.
 
@@ -68,11 +62,7 @@ Composition, Meetings and Proceedings of Training Board, etc.*
 
   - (2) If a Board member is disqualified from taking part in a decision or deliberation in respect of a matter under section 8, he shall be disregarded for the purposes of constituting the quorum for deciding or deliberating on that matter.
 
-- 7.
-
-- Proceedings of Training Board
-
-- (Amended 17 of 2012 s. 63)
+- 7. Proceedings of Training Board (Amended 17 of 2012 s. 63)
 
   - (1) Subject to subsection (2), the chairperson is to preside at a meeting of the Training Board.
 
@@ -84,11 +74,7 @@ Composition, Meetings and Proceedings of Training Board, etc.*
 
 - (Amended 17 of 2012 s. 63)
 
-- 8.
-
-- Disclosure of interests of Board members
-
-- If a Board member has a pecuniary interest, whether direct or indirect, in any matter under consideration at a meeting of the Training Board, the member— (Amended 17 of 2012 s. 63)
+- 8. Disclosure of interests of Board members If a Board member has a pecuniary interest, whether direct or indirect, in any matter under consideration at a meeting of the Training Board, the member— (Amended 17 of 2012 s. 63)
 
   - (a) shall, as soon as practicable after the commencement of the meeting, disclose to the Training Board the fact and nature of his interest;
 
@@ -98,35 +84,15 @@ Composition, Meetings and Proceedings of Training Board, etc.*
 
 - (Amended 17 of 2012 s. 63)
 
-- 9.
-
-- Validity of proceedings
-
-- The validity of any proceedings of the Training Board shall not be affected by— (Amended 17 of 2012 s. 63)
+- 9. Validity of proceedings The validity of any proceedings of the Training Board shall not be affected by— (Amended 17 of 2012 s. 63)
 
   - (a) any defect in the appointment of a Board member; or
 
-  - (b) any vacancy in the membership of the Training Board.
+  - (b) any vacancy in the membership of the Training Board. (Amended 17 of 2012 s. 63)
 
-- (Amended 17 of 2012 s. 63)
+- 10. Training Board to determine procedures (Amended 17 of 2012 s. 63) Subject to the provisions of this Ordinance, the Training Board may determine its own procedures. (Amended 17 of 2012 s. 63)
 
-- 10.
-
-- Training Board to determine procedures
-
-- (Amended 17 of 2012 s. 63)
-
-- Subject to the provisions of this Ordinance, the Training Board may determine its own procedures.
-
-- (Amended 17 of 2012 s. 63)
-
-- 11.
-
-- Delegation of Training Board’s functions and
-
-- appointment of subcommittee
-
-- (Amended 17 of 2012 s. 63)
+- 11. Delegation of Training Board’s functions and appointment of subcommittee (Amended 17 of 2012 s. 63)
 
   - (1) The Training Board may appoint any subcommittee as it considers appropriate.
 
@@ -150,11 +116,7 @@ Composition, Meetings and Proceedings of Training Board, etc.*
 
 - (Amended 17 of 2012 s. 63)
 
-- 12.
-
-- Estimates of the Training Board
-
-- (Amended 17 of 2012 s. 63)
+- 12. Estimates of the Training Board (Amended 17 of 2012 s. 63)
 
   - (1) In every financial year, the Training Board shall submit to the Council, before a date determined by the Council, a programme of its proposed activities and estimates of its income and expenditure for the next financial year.
 
@@ -162,13 +124,7 @@ Composition, Meetings and Proceedings of Training Board, etc.*
 
 - (Amended 17 of 2012 s. 63)
 
-- 13.
-
-- Accounts of the Training Board and submission of
-
-- reports, etc. to Council
-
-- (Amended 17 of 2012 s. 63)
+- 13. Accounts of the Training Board and submission of reports, etc. to Council (Amended 17 of 2012 s. 63)
 
   - (1) The Training Board shall maintain proper accounts and records of all its income and expenditure.
 
@@ -179,9 +135,3 @@ Composition, Meetings and Proceedings of Training Board, etc.*
   - (4) The Training Board shall submit to the Council, before a date determined by the Council, a report on the activities of the Training Board during the financial year and a copy of the statement of accounts referred to in subsection (2).
 
 - (Amended 17 of 2012 s. 63)
-
-- _
-
-- Note:
-
-- * (Amended 17 of 2012 s. 63)

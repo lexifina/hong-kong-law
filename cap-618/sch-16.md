@@ -4,63 +4,31 @@
 
 Consequential and Related Amendments
 
-(Sections 8(2), 9(2), 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 and 26 of Schedule 16 not yet in operation.)
+(Sections 14, 15, 19, 20, 21, 23, 24, 25 and 26 of Schedule 16 not yet in operation.)
 
-- Part 1 Amendments to Factories and Industrial Undertakings
+- Part 1 (Omitted as spent—E.R. 1 of 2013)
 
-- (Goods Lifts) Regulations (Cap. 59 sub. leg. O)
+  - 1-2. (Omitted as spent—E.R. 1 of 2013)
 
-  - 1. Regulation 2 substituted Regulation 2— Repeal the regulation Substitute
+- Part 2 (Omitted as spent—E.R. 1 of 2013)
 
-    - “2. Application
+  - 3. (Omitted as spent—E.R. 1 of 2013)
 
-      - (1) These regulations apply to—
+- Part 3 (Omitted as spent—E.R. 1 of 2013)
 
-        - (a) a goods lift exempted under section 148(2) of the Lifts and Escalators Ordinance (Cap. 618); and
+  - 4. (Omitted as spent—E.R. 1 of 2013)
 
-        - (b) a service lift used in an industrial undertaking.
+- Part 4 (Omitted as spent—E.R. 1 of 2013)
 
-      - (2) In subregulation (1)— goods lift (載貨升降機) means a goods lift as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618); service lift (載物升降機) means a service lift as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618).”.
+  - 5. (Omitted as spent—E.R. 1 of 2013)
 
-  - 2. Regulation 3 amended (Interpretation) Regulation 3, definition of competent examiner— Repeal paragraph (b) Substitute
+- Part 5 (Omitted as spent—E.R. 1 of 2013)
 
-    - “(b) who is a registered lift engineer as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618);”.
+  - 6. (Omitted as spent—E.R. 1 of 2013)
 
-- Part 2 Amendments to Buildings Ordinance (Cap. 123)
+- Part 6 (Omitted as spent—E.R. 1 of 2013)
 
-  - 3. Section 2 amended (Interpretation)
-
-    - (1) Section 2(1)— Repeal the definition of escalator Substitute “escalator (自動梯) means an escalator as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618);”.
-
-    - (2) Section 2(1)— Repeal the definition of lift Substitute “lift (升降機) means a lift as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618);”.
-
-- Part 3 Amendment to Prevention of Bribery Ordinance
-
-- (Cap. 201)
-
-  - 4. Schedule 1 amended (Public bodies) Schedule 1, after item 115— Add
-
-    - “116. The disciplinary board panel established under section 108 of the Lifts and Escalators Ordinance (Cap. 618), including a disciplinary board established under section 110 of that Ordinance.
-
-    - 117. The appeal board panel established under section 116 of the Lifts and Escalators Ordinance (Cap. 618), including an appeal board established under section 118 of that Ordinance.”.
-
-- Part 4 Amendment to Smoking (Public Health) Ordinance
-
-- (Cap. 371)
-
-  - 5. Section 2 amended (Interpretation) Section 2— Repeal the definition of escalator Substitute “escalator (自動梯) means an escalator as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618);”.
-
-- Part 5 Amendment to Electricity (Exemption) Regulations
-
-- (Cap. 406 sub. leg. C)
-
-  - 6. Regulation 2 amended (Restriction on exemption under section 9) Regulation 2(h)— Repeal “in the Lifts and Escalators (Safety) Ordinance (Cap. 327)” Substitute “by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618)”.
-
-- Part 6 Amendment to Builders’ Lifts and Tower Working
-
-- Platforms (Safety) Ordinance (Cap. 470)
-
-  - 7. Section 2 amended (Interpretation) Section 2(2)— Repeal “Lifts and Escalators (Safety) Ordinance (Cap. 327)” Substitute “Lifts and Escalators Ordinance (Cap. 618)”.
+  - 7. (Omitted as spent—E.R. 1 of 2013)
 
 - Part 7 Amendments to Construction Workers Registration
 
@@ -68,11 +36,7 @@ Consequential and Related Amendments
 
   - 8. Schedule 1 amended (Designated trades)
 
-    - (1) Schedule 1, Part 1, item 12, column 4— Repeal “Competent escalator worker within the meaning of section 29A(4) of the Lifts and Escalators (Safety) Ordinance (Cap. 327)” Substitute “Either one of the following—
-
-      - (a) registered escalator worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618); or
-
-      - (b) competent escalator worker as defined by section 7 of the Lifts and Escalators Ordinance (Cap. 618)”.
+    - (1) (Omitted as spent—E.R. 1 of 2013)
 
     - (2) Schedule 1, Part 1, item 12, column 4— Repeal “Either one of the following—
 
@@ -84,11 +48,7 @@ Consequential and Related Amendments
 
   - 9. Schedule 1 amended (Designated trades)
 
-    - (1) Schedule 1, Part 1, item 17, column 4— Repeal “Competent lift worker within the meaning of section 29A(4) of the Lifts and Escalators (Safety) Ordinance (Cap. 327)” Substitute “Either one of the following—
-
-      - (a) registered lift worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618); or
-
-      - (b) competent lift worker as defined by section 6(1) of the Lifts and Escalators Ordinance (Cap. 618)”.
+    - (1) (Omitted as spent—E.R. 1 of 2013)
 
     - (2) Schedule 1, Part 1, item 17, column 4— Repeal “Either one of the following—
 
@@ -98,11 +58,9 @@ Consequential and Related Amendments
 
     - Substitute “Registered lift worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618)”.
 
-- Part 8 Amendment to Buildings Energy Efficiency Ordinance
+- Part 8 (Omitted as spent—E.R. 1 of 2013)
 
-- (18 of 2010)
-
-  - 10. Section 2 amended (Interpretation) Section 2, definition of lift and escalator installation, paragraph (a)— Repeal “Lifts and Escalators (Safety) Ordinance (Cap. 327)” Substitute “Lifts and Escalators Ordinance (Cap. 618)”.
+  - 10. (Omitted as spent—E.R. 1 of 2013)
 
 - Part 9 Amendments to Lifts and Escalators Ordinance
 
@@ -260,4 +218,4 @@ Consequential and Related Amendments
 
     - (4) Schedule 10, Part 3, section 1— Repeal paragraph (e).
 
-  - 26. Schedule 16 amended (Consequential and Related Amendments) Schedule 16— Repeal “[ss. 156 & 160]” Substitute “[ss. 156, 160 & 161]”. (Amended E.R. 2 of 2012)
+  - 26. Schedule 16 amended (Consequential and Related Amendments) Schedule 16— Repeal “[ss. 156 & 160]” Substitute “[ss. 156, 160 & 161]”. (Amended E.R. 2 of 2012; E.R. 1 of 2013)

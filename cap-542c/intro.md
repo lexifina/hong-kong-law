@@ -1,9 +1,9 @@
-LEGISLATIVE COUNCIL (SUBSCRIBERS AND ELECTION DEPOSIT FOR NOMINATION) REGULATION
+Legislative Council (Subscribers and Election Deposit for Nomination) Regulation
 
-(Made by the Chief Executive in Council under section 82
+(Cap. 542, section 82)
 
-of the Legislative Council Ordinance
-
-(134 of 1997))
+(Enacting provision omitted—E.R. 1 of 2013)
 
 [19 December 1997]
+
+(Format changes—E.R. 1 of 2013)

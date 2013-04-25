@@ -1,20 +1,20 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 27, 28, 29, 30 & 35]
 
-ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
+Enforcement, etc. of External Confiscation Orders
 
 - 1. Interpretation
 
   - (1) In this Schedule, unless the context otherwise requires—
 
-    - “interest” (權益), in relation to property, includes right;
+    - interest (權益), in relation to property, includes right;
 
-    - “property” (財產) includes both movable and immovable property within the meaning of section 3 of the Interpretation and General Clauses Ordinance (Cap. 1);
+    - property (財產) includes both movable and immovable property within the meaning of section 3 of the Interpretation and General Clauses Ordinance (Cap. 1);
 
-    - “Registrar” (司法常務官) means the Registrar of the High Court; (Amended 25 of 1998 s. 2)
+    - Registrar (司法常務官) means the Registrar of the High Court; (Amended 25 of 1998 s. 2)
 
-    - “relevant asset” (有關資產) means—
+    - relevant asset (有關資產) means—
 
       - (a) any land, within the meaning of section 2 of the High Court Ordinance (Cap. 4), in Hong Kong; (Amended 25 of 1998 s. 2)
 
@@ -68,27 +68,17 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (11) An order is subject to appeal until (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of an appeal on which the order could be varied or set aside.
 
-- 2.
-
-- Application
-
-- This Schedule shall not apply to an external confiscation order except an external confiscation order—
+- 2. Application This Schedule shall not apply to an external confiscation order except an external confiscation order—
 
   - (a) the subject of a request under section 27 of this Ordinance; and
 
   - (b) in relation to which the Secretary for Justice has decided to act, for the place which made the request, under the provisions of this Schedule. (Amended L.N. 362 of 1997)
 
-- 3.
+- 3. Defendants under external confiscation orders
 
-- Defendants under external confiscation orders
+  - A person (however described in the proceedings in the place outside Hong Kong concerned) against whom, or in relation to whose property, an external confiscation order has been, or may be, made is referred to in this Schedule as the defendant (被告人).
 
-  - A person (however described in the proceedings in the place outside Hong Kong concerned) against whom, or in relation to whose property, an external confiscation order has been, or may be, made is referred to in this Schedule as “the defendant” (被告人).
-
-- 4.
-
-- Interest on amounts to be recovered under
-
-- external confiscation orders
+- 4. Interest on amounts to be recovered under external confiscation orders
 
   - (1) Where a fixed amount is payable under an external confiscation order, that amount shall be treated as a judgment debt for the purposes of section 49 of the High Court Ordinance (Cap. 4) and, for those purposes, the date on which the external confiscation order was registered under section 28 of this Ordinance shall be treated as the date of the judgment debt. (Amended 25 of 1998 s. 2)
 
@@ -98,7 +88,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (1)
 
-    - In this Schedule, “realisable property” (可變現財產) means, subject to subsection (2)—
+    - In this Schedule, realisable property (可變現財產) means, subject to subsection (2)—
 
       - (a) in relation to an external confiscation order—
 
@@ -134,7 +124,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (4)
 
-    - Subject to subsection (7), references in this Schedule to the value at any time (referred to in subsection (5) as “the material time” (關鍵時間)) of a gift caught by this Schedule or of any payment or reward are references to—
+    - Subject to subsection (7), references in this Schedule to the value at any time (referred to in subsection (5) as the material time (關鍵時間)) of a gift caught by this Schedule or of any payment or reward are references to—
 
       - (a) the value of the gift, payment or reward to the recipient when he received it adjusted to take account of subsequent changes in the value of money; or
 
@@ -188,11 +178,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
       - (C) family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in subparagraph (A) or trusts of the kind referred to in subparagraph (B), and other persons.
 
-- 6.
-
-- Cases in which restraint orders and charging
-
-- orders may be made
+- 6. Cases in which restraint orders and charging orders may be made
 
   - (1) The powers conferred on the Court of First Instance by sections 7(1) and 8(1) are exercisable where—
 
@@ -212,7 +198,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (1)
 
-    - The Court of First Instance may by order (in this Schedule referred to as a “restraint order” (限制令)) prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order.
+    - The Court of First Instance may by order (in this Schedule referred to as a restraint order (限制令)) prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order.
 
   - (2) A restraint order may apply to any realisable property, including property transferred to a person after the making of the order.
 
@@ -276,7 +262,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
     - (b) on summary conviction to a fine of $250,000 and to imprisonment for 2 years. (Added 26 of 2002 s. 5)
 
-- (Amended 25 of 1998 s. 2)
+- (Amended 25 of 1998 s. 2; E.R. 1 of 2013)
 
 - 8. Charging orders in respect of land, securities, etc.
 
@@ -340,7 +326,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
     - (b) on summary conviction to a fine of $250,000 and to imprisonment for 2 years. (Added 26 of 2002 s. 5)
 
-- (Amended 25 of 1998 s. 2)
+- (Amended 25 of 1998 s. 2; E.R. 1 of 2013)
 
 - 9. Realisation of property
 
@@ -416,11 +402,11 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (10) In this section—
 
-    - “relevant day” (有關日期) means the day on which section 14 of Schedule 3 comes into operation;
+    - relevant day (有關日期) means the day on which section 14 of Schedule 3 comes into operation;
 
-    - “relevant Order” (有關命令) means the Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg. A) as in force immediately before the relevant day;
+    - relevant Order (有關命令) means the Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg. A) as in force immediately before the relevant day;
 
-    - “relevant section” (有關條文) means section 13 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) as applied under paragraph 3(2) of the relevant Order.
+    - relevant section (有關條文) means section 13 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) as applied under paragraph 3(2) of the relevant Order.
 
 - 11. Exercise of powers by Court of First Instance or receiver
 
@@ -456,9 +442,9 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (4) Subsection (2) does not affect the enforcement of a charging order—
 
-    - (a) made before the order adjudging the person bankrupt; or
+  - (a) made before the order adjudging the person bankrupt; or
 
-    - (b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
+  - (b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
 
   - (5) Where, in the case of a debtor, an interim trustee stands appointed under section 13 of the Bankruptcy Ordinance (Cap. 6) and any property of the debtor is subject to a restraint order, the powers conferred on the interim trustee by virtue of that Ordinance do not apply to property for the time being subject to the restraint order. (Amended 18 of 2005 s. 48)
 
@@ -482,7 +468,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (8)
 
-    - In this section, “relevant day” (有關日期) means the day on which section 87 of the Bankruptcy (Amendment) Ordinance 1996 (76 of 1996) comes into operation.
+    - In this section, relevant day (有關日期) means the day on which section 87 of the Bankruptcy (Amendment) Ordinance 1996 (76 of 1996) comes into operation.
 
 - 13. Winding up of company holding realisable property
 
@@ -506,9 +492,9 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (6) In this section—
 
-    - “company” (公司) means any company which may be wound up under the Companies Ordinance (Cap. 32);
+    - company (公司) means any company which may be wound up under the Companies Ordinance (Cap. 32);
 
-    - “the relevant time” (有關時間) means—
+    - the relevant time (有關時間) means—
 
       - (a) where no order for the winding up of the company has been made, the time of the passing of the resolution for voluntary winding up;
 
@@ -518,11 +504,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
 - (Amended 25 of 1998 s. 2)
 
-- 14.
-
-- Insolvency officers dealing with property subject
-
-- to restraint order
+- 14. Insolvency officers dealing with property subject to restraint order
 
   - (1) Without prejudice to the generality of any provision contained in the Bankruptcy Ordinance (Cap. 6), the Companies Ordinance (Cap. 32) or any other Ordinance, where—
 
@@ -542,7 +524,7 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
 
   - (3)
 
-    - In this section “insolvency officer” (債務處理人) means—
+    - In this section insolvency officer (債務處理人) means—
 
       - (a) the Official Receiver; or
 
@@ -563,3 +545,5 @@ ENFORCEMENT, ETC. OF EXTERNAL CONFISCATION ORDERS
   - he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
 
   - (2) Any amount due in respect of the remuneration and expenses of a receiver so appointed shall, if no sum is available to be applied in payment of it under section 10(4), be paid by the person on whose application the receiver was appointed.
+
+- (Format changes—E.R. 1 of 2013)

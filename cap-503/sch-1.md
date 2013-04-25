@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(2) & 25]
 
-DESCRIPTION OF OFFENCES
+Description of Offences
 
 - 1. Murder or manslaughter, including criminal negligence causing death; culpable homicide; assault with intent to commit murder.
 

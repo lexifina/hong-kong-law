@@ -20,7 +20,7 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
       - (c) by adding—
 
-        - “(d) the Competition Tribunal established by section 134 of the Competition Ordinance (14 of 2012);”.
+        - “(d) the Competition Tribunal established by section 134 of the Competition Ordinance (Cap. 619);”.
 
     - (2) Section 168R(5) is amended, in the definition of “disqualification order”—
 
@@ -30,13 +30,13 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
       - (c) by adding—
 
-        - “(d) section 101 of the Competition Ordinance (14 of 2012);”.
+        - “(d) section 101 of the Competition Ordinance (Cap. 619);”.
 
 - PART 2 AMENDMENTS TO COMPANIES (DISQUALIFICATION ORDERS) REGULATION
 
   - 2. Officers of court to furnish particulars to Registrar Section 3(1) of the Companies (Disqualification Orders) Regulation (Cap. 32 sub. leg. I) is amended by adding—
 
-    - “(ab) if a disqualification order is made by the Competition Tribunal established by section 134 of the Competition Ordinance (14 of 2012), the Registrar of the Tribunal;”.
+    - “(ab) if a disqualification order is made by the Competition Tribunal established by section 134 of the Competition Ordinance (Cap. 619), the Registrar of the Tribunal;”.
 
   - 3. Schedule 1 amended Schedule 1 is amended, in Form D.O. 1, by repealing item (1) and substituting—
 
@@ -72,7 +72,7 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
     - Schedule 3 amended
 
-    - Schedule 3 is amended, in Form D.O. 3, by repealing “or the Securities and Futures Ordinance (Cap. 571)” and substituting “, the Securities and Futures Ordinance (Cap. 571) or the Competition Ordinance (14 of 2012)”.
+    - Schedule 3 is amended, in Form D.O. 3, by repealing “or the Securities and Futures Ordinance (Cap. 571)” and substituting “, the Securities and Futures Ordinance (Cap. 571) or the Competition Ordinance (Cap. 619)”.
 
       - PART 3 AMENDMENTS TO JUDICIAL OFFICERS RECOMMENDATION
 
@@ -172,15 +172,9 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
     - Schedule 3 is repealed.
 
-      - PART 5 AMENDMENTS TO PREVENTION OF BRIBERY ORDINANCE
+      - PART 5 (Omitted as spent—E.R. 1 of 2013)
 
-    - 21.
-
-    - Public bodies
-
-    - Schedule 1 to the Prevention of Bribery Ordinance (Cap. 201) is amended by adding—
-
-      - “123. Competition Commission.”.
+    - 21. (Omitted as spent—E.R. 1 of 2013)
 
       - PART 6 AMENDMENTS TO BROADCASTING (MISCELLANEOUS PROVISIONS) ORDINANCE
 
@@ -188,11 +182,11 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
       - (1) Section 2 of the Broadcasting (Miscellaneous Provisions) Ordinance (Cap. 391) is amended, in the Chinese text, in the definition of “廣播投訴委員會”, by repealing “會。” and substituting “會；”.
 
-      - (2) Section 2 is amended by adding— ““Commission” (競委會) means the Competition Commission established by section 129 of the Competition Ordinance (14 of 2012);”.
+      - (2) Section 2 is amended by adding— ““Commission” (競委會) means the Competition Commission established by section 129 of the Competition Ordinance (Cap. 619);”.
 
     - 23. Consideration of complaints by the Complaints Committee Section 11(2)(a) is repealed and the following substituted—
 
-      - “(a) any matter in respect of which the Authority may, under Part 11 of the Competition Ordinance (14 of 2012), perform concurrently with the Commission the functions of the Commission under that Ordinance; or”.
+      - “(a) any matter in respect of which the Authority may, under Part 11 of the Competition Ordinance (Cap. 619), perform concurrently with the Commission the functions of the Commission under that Ordinance; or”.
 
     - 24.
 
@@ -200,13 +194,9 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
     - Section 11A is repealed.
 
-      - PART 7 AMENDMENTS TO THE OMBUDSMAN ORDINANCE
+      - PART 7 (Omitted as spent—E.R. 1 of 2013)
 
-    - 25.
-
-    - Organizations to which this Ordinance applies
-
-    - Part I of Schedule 1 to The Ombudsman Ordinance (Cap. 397) is amended by adding— “Competition Commission.”.
+    - 25. (Omitted as spent—E.R. 1 of 2013)
 
       - PART 8 AMENDMENTS TO BROADCASTING ORDINANCE
 
@@ -222,13 +212,7 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
     - 31. Notice to licensee to cease certain conduct Section 16 is repealed.
 
-    - 32. Confidential matter to be safeguarded
-
-      - (1) Section 27(1) is amended by repealing “subsection (2)” and substituting “subsections (1A) and (2)”.
-
-      - (2) Section 27 is amended by adding—
-
-        - “(1A) Subsection (1) does not apply to any information that is furnished, or any data, book, document or record that is produced, to the Authority under the Competition Ordinance (14 of 2012).”.
+    - 32. (Omitted as spent—E.R. 1 of 2013)
 
     - 33. Licensee to pay financial penalty Section 28(4) is repealed.
 
@@ -246,4 +230,6 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
     - 37. Functions of Authority Section 4 of the Communications Authority Ordinance (Cap. 616) is amended by adding—
 
-      - “(1A) The Authority has all the functions conferred on it by or under Part 11 of the Competition Ordinance (14 of 2012).”.
+      - “(1A) The Authority has all the functions conferred on it by or under Part 11 of the Competition Ordinance (Cap. 619).”.
+
+    - (Amended E.R. 1 of 2013)

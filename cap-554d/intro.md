@@ -1,7 +1,9 @@
-MAXIMUM AMOUNT OF ELECTION EXPENSES (LEGISLATIVE COUNCIL ELECTION) REGULATION
+Maximum Amount of Election Expenses (Legislative Council Election) Regulation
 
-(Made by the Chief Executive in Council under section 45 of the Elections
+(Cap. 554, section 45)
 
-(Corrupt and Illegal Conduct) Ordinance (Cap. 554))
+(Enacting provision omitted—E.R. 1 of 2013)
 
 [18 July 2008]
+
+(Format changes—E.R. 1 of 2013)

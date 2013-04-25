@@ -2,4 +2,6 @@ An Ordinance to provide for the control and prevention of disease among human be
 
 [14 July 2008] L.N. 202 of 2008
 
-Enacted by the Legislative Council.
+(Format changes—E.R. 1 of 2013)
+
+(Enacting provision omitted—E.R. 1 of 2013)

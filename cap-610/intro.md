@@ -2,4 +2,4 @@ An Ordinance to require compliance with codes of practice concerning the energy 
 
 [21 February 2011]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2013)

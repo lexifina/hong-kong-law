@@ -1,14 +1,14 @@
-# SCHEDULE 5
+# Schedule 5
 
 [ss. 114, 118, 139 & 142 & Sch. 1]
 
-REGULATED ACTIVITIES
+Regulated Activities
 
-- PART 1 The following are regulated activities— Type 1 : dealing in securities; Type 2 : dealing in futures contracts; Type 3 : leveraged foreign exchange trading; Type 4 : advising on securities; Type 5 : advising on futures contracts; Type 6 : advising on corporate finance; Type 7 : providing automated trading services; Type 8 : securities margin financing; Type 9 : asset management; (Amended L.N. 28 of 2011) Type 10 : providing credit rating services. (Added L.N. 28 of 2011)
+- Part 1 The following are regulated activities— Type 1 : dealing in securities; Type 2 : dealing in futures contracts; Type 3 : leveraged foreign exchange trading; Type 4 : advising on securities; Type 5 : advising on futures contracts; Type 6 : advising on corporate finance; Type 7 : providing automated trading services; Type 8 : securities margin financing; Type 9 : asset management; (Amended L.N. 28 of 2011) Type 10 : providing credit rating services. (Added L.N. 28 of 2011)
 
-- PART 2 In this Schedule—
+- Part 2 In this Schedule—
 
-  - “advising on corporate finance” (就機構融資提供意見) means giving advice—
+  - advising on corporate finance (就機構融資提供意見) means giving advice—
 
     - (a) concerning compliance with or in respect of rules made under section 23 or 36 of this Ordinance governing the listing of securities and the code published under section 399(2)(a) or (b) of this Ordinance;
 
@@ -50,7 +50,7 @@ REGULATED ACTIVITIES
 
       - (B) television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise;
 
-  - “advising on futures contracts” (就期貨合約提供意見) means—
+  - advising on futures contracts (就期貨合約提供意見) means—
 
     - (a) giving advice on—
 
@@ -112,7 +112,7 @@ REGULATED ACTIVITIES
 
       - (B) television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise;
 
-  - “advising on securities” (就證券提供意見) means—
+  - advising on securities (就證券提供意見) means—
 
     - (a) giving advice on—
 
@@ -174,9 +174,9 @@ REGULATED ACTIVITIES
 
       - (B) television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise,
 
-    - but does not include the giving of such advice that falls within the meaning of “advising on corporate finance or providing credit rating services”; (Amended L.N. 28 of 2011)
+    - but does not include the giving of such advice that falls within the meaning of advising on corporate finance or providing credit rating services; (Amended L.N. 28 of 2011)
 
-  - “asset management” (資產管理) means—
+  - asset management (資產管理) means—
 
   - (a) real estate investment scheme management; or
 
@@ -184,7 +184,7 @@ REGULATED ACTIVITIES
 
   - securities or futures contracts management; (Added L.N. 197 of 2005)
 
-    - “automated trading services” (自動化交易服務) means services provided by means of electronic facilities, not being facilities provided by a recognized exchange company or a recognized clearing house, whereby—
+    - automated trading services (自動化交易服務) means services provided by means of electronic facilities, not being facilities provided by a recognized exchange company or a recognized clearing house, whereby—
 
   - (a) offers to sell or purchase securities or futures contracts are regularly made or accepted in a way that forms or results in a binding transaction in accordance with established methods, including any method commonly used by a stock market or futures market;
 
@@ -216,7 +216,7 @@ REGULATED ACTIVITIES
 
   - an agreement to provide credit; (Added L.N. 28 of 2011)
 
-    - “dealing in futures contracts” (期貨合約交易), in relation to a person, means—
+    - dealing in futures contracts (期貨合約交易), in relation to a person, means—
 
   - (a) making or offering to make an agreement with another person to enter into, or to acquire or dispose of, a futures contract;
 
@@ -228,7 +228,7 @@ REGULATED ACTIVITIES
 
   - (i) is carrying out his functions as a recognized clearing house;
 
-  - (ii) performs the act referred to in paragraph (a), (b) or (c) through another person (“the futures dealer”)—
+  - (ii) performs the act referred to in paragraph (a), (b) or (c) through another person (the futures dealer)—
 
     - (A) who is licensed or registered for Type 2 regulated activity; or
 
@@ -258,7 +258,7 @@ REGULATED ACTIVITIES
 
   - as principal performs the act referred to in paragraph (a), (b) or (c) in relation to a futures contract traded otherwise than on a recognized futures market by way of dealing with a person who is a professional investor (whether acting as principal or agent);
 
-    - “dealing in securities” (證券交易), in relation to a person, means making or offering to make an agreement with another person, or inducing or attempting to induce another person to enter into or to offer to enter into an agreement—
+    - dealing in securities (證券交易), in relation to a person, means making or offering to make an agreement with another person, or inducing or attempting to induce another person to enter into or to offer to enter into an agreement—
 
   - (a) for or with a view to acquiring, disposing of, subscribing for or underwriting securities; or
 
@@ -334,7 +334,7 @@ REGULATED ACTIVITIES
 
     - debt securities (債務證券) means debenture stocks, loan stocks, debentures, bonds, notes, indexed bonds, convertible debt securities, bonds with warrants, non-interest bearing debt securities, and other securities or instruments acknowledging, evidencing or creating indebtedness; (Added L.N. 28 of 2011)
 
-    - “foreign exchange trading” (外匯交易) means entering into or offering to enter into, or inducing or attempting to induce a person to enter into or to offer to enter into, a contract or arrangement whereby any person undertakes to—
+    - foreign exchange trading (外匯交易) means entering into or offering to enter into, or inducing or attempting to induce a person to enter into or to offer to enter into, a contract or arrangement whereby any person undertakes to—
 
   - (a) exchange currency with another person;
 
@@ -344,9 +344,9 @@ REGULATED ACTIVITIES
 
   - credit the account of another person with an amount of foreign currency,
 
-  - but does not include any act performed for or in connection with any contract or arrangement or a proposed contract or arrangement as described in paragraphs (i) to (xv) of the definition of “leveraged foreign exchange trading”;
+  - but does not include any act performed for or in connection with any contract or arrangement or a proposed contract or arrangement as described in paragraphs (i) to (xv) of the definition of leveraged foreign exchange trading;
 
-    - “leveraged foreign exchange contract” (槓桿式外匯交易合約) means a contract or arrangement the effect of which is that one party agrees or undertakes to—
+    - leveraged foreign exchange contract (槓桿式外匯交易合約) means a contract or arrangement the effect of which is that one party agrees or undertakes to—
 
   - (a) make an adjustment between himself and the other party or another person according to whether a currency is worth more or less (as the case may be) in relation to another currency;
 
@@ -356,7 +356,7 @@ REGULATED ACTIVITIES
 
   - deliver to the other party or another person at an agreed future time an agreed amount of currency at an agreed consideration;
 
-    - “leveraged foreign exchange trading” (槓桿式外匯交易) means—
+    - leveraged foreign exchange trading (槓桿式外匯交易) means—
 
   - (a) the act of entering into or offering to enter into, or inducing or attempting to induce a person to enter into or to offer to enter into, a leveraged foreign exchange contract;
 
@@ -426,7 +426,7 @@ REGULATED ACTIVITIES
 
     - effects the entering into a leveraged foreign exchange contract by another person through the trader,
 
-      - where in this paragraph, “trader” (交易商) means a corporation licensed for Type 3 regulated activity or an authorized financial institution; or
+      - where in this paragraph, trader (交易商) means a corporation licensed for Type 3 regulated activity or an authorized financial institution; or
 
   - (xv)
 
@@ -462,7 +462,7 @@ REGULATED ACTIVITIES
 
   - gathering, collating, disseminating or distributing information concerning the indebtedness or credit history of any person; (Added L.N. 28 of 2011)
 
-    - “real estate investment scheme management” (房地產投資計劃管理), in relation to a person, means providing a service of operating a collective investment scheme for another person by the person, where—
+    - real estate investment scheme management (房地產投資計劃管理), in relation to a person, means providing a service of operating a collective investment scheme for another person by the person, where—
 
   - (a) the property that is being managed under the scheme consists primarily of immovable property; and
 
@@ -470,7 +470,7 @@ REGULATED ACTIVITIES
 
   - the scheme is authorized under section 104 of this Ordinance; (Added L.N. 197 of 2005)
 
-    - “securities margin financing” (證券保證金融資) means providing a financial accommodation in order to facilitate—
+    - securities margin financing (證券保證金融資) means providing a financial accommodation in order to facilitate—
 
   - (a) the acquisition of securities listed on any stock market, whether a recognized stock market or any other stock market outside Hong Kong; and
 
@@ -500,7 +500,7 @@ REGULATED ACTIVITIES
 
   - by an intermediary by way of effecting an introduction between a person and a related corporation of the intermediary in order that the corporation may provide the person with financial accommodation; (Amended L.N. 197 of 2005)
 
-    - “securities or futures contracts management” (證券或期貨合約管理), in relation to a person, means providing a service of managing a portfolio of securities or futures contracts for another person by the person, otherwise than by— (Amended L.N. 197 of 2005)
+    - securities or futures contracts management (證券或期貨合約管理), in relation to a person, means providing a service of managing a portfolio of securities or futures contracts for another person by the person, otherwise than by— (Amended L.N. 197 of 2005)
 
   - (a) a corporation which provides such service solely to any of its wholly owned subsidiaries, its holding company which holds all its issued shares, or other wholly owned subsidiaries of that holding company;
 
@@ -522,7 +522,7 @@ REGULATED ACTIVITIES
 
   - (h) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which provides such service wholly incidental to the discharge of its duty as such. (Amended L.N. 197 of 2005)
 
-- PART 3 The following are the specified activities referred to in section 114(5) of this Ordinance—
+- Part 3 The following are the specified activities referred to in section 114(5) of this Ordinance—
 
   - (a) the acquisition of securities listed on a stock market which is or forms part of a stock borrowing or stock return as defined in section 19(16) of the Stamp Duty Ordinance (Cap. 117), or any transaction in securities similar to such a borrowing or return; or
 
@@ -533,3 +533,5 @@ REGULATED ACTIVITIES
     - (ii) by a company to its directors or employees to facilitate acquisitions or holdings of its own securities; or
 
     - (iii) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member.
+
+- (Format changes—E.R. 1 of 2013)

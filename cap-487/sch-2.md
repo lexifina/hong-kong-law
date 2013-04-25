@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 63 & 87]
 
-DEVICES OR AIDS SPECIFIED AS PALLIATIVE OR THERAPEUTIC DEVICES OR AUXILIARY AIDS
+Devices or Aids Specified as Palliative or Therapeutic Devices or Auxiliary Aids
+
+(Format changes—E.R. 1 of 2013)
 
 Item | Description of device or aid (including trade or manufacturer’s name if applicable)
 

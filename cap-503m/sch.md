@@ -1,254 +1,238 @@
 # SCHEDULE
 
-(Adaptation amendments retroactively made - see 23 of 1998 s. 2; 71 of 1999 s. 3)
-
 [s. 1]
 
-FORM 1 | [section 2(1)]
+FORM 1 | [s. 2(1)]
 
-AUTHORITY TO PROCEED
+Authority to Proceed
 
-A request for surrender having been received from .
+A request for surrender having been received from
+
+for the surrender of
 
 (name of prescribed place)
 
-for the surrender of .
+who is wanted in the said place
 
 (name of person whose surrender is sought)
 
-who is wanted in the said place for prosecution/the imposition or enforcement of a sentence* in respect of the offence/offences* of . **
+for prosecution/the imposition or enforcement of a sentence* in respect of the offence/offences* of ........................................................................** I hereby order that the said person be dealt with under Part 2 of the Fugitive Offenders Ordinance (Cap. 503).
 
-I hereby order that the said person be dealt with under Part II of the Fugitive Offenders Ordinance (Cap. 503).
+Dated thisday of19.
 
-Dated this day of 19 .
+.......................................... Chief Executive
 
-.
+* Delete whichever is inapplicable. ** Identify the offence(s) by reference to the description of offences specified in Schedule 1 to the Fugitive Offenders Ordinance (Cap. 503).
 
-Chief Executive
+(71 of 1999 s. 3; E.R. 1 of 2013) _
 
-* Delete whichever is inapplicable.
+FORM 2 | [s. 7(1)(a)]
 
-** Identify the offence(s) by reference to the description of offences specified in Schedule 1 to the Fugitive Offenders Ordinance (Cap. 503).
-
-(71 of 1999 s. 3)
-
-FORM 2 | [section 7(1)(a)]
-
-WARRANT OF ARREST
+Warrant of Arrest
 
 To each and all of the authorized officers of Hong Kong.
 
-I having received an authority to proceed in respect of .
+I having received an authority to proceed in respect of
 
-(name of
+who is
 
-.
+(name of person whose surrender is sought by the said authority to proceed)
 
-who is person whose surrender is sought by the said authority to proceed)
-
-wanted in .
+wanted in | ........................................................................................................
 
 (name of prescribed place specified in the authority to proceed)
 
-for prosecution/the imposition or enforcement of a sentence* in respect of the offence/offences* of . **
+for prosecution/the imposition or enforcement of a sentence* in respect of the offence/offences* of ....................................................................** [and being satisfied that section 15 of the Fugitive Offenders Ordinance (Cap. 503) would not be contravened if the said person were brought before the court of committal***]. YOU ARE HEREBY COMMANDED to arrest the said person forthwith and as soon as practicable to bring the said person before the court of committal.
 
-[and being satisfied that section 15 of the Fugitive Offenders Ordinance (Cap. 503) would not be contravened if the said person were brought before the court of committal***].
+Dated thisday of19.
 
-YOU ARE HEREBY COMMANDED to arrest the said person forthwith and as soon as practicable to bring the said person before the court of committal.
+......................................... Magistrate
 
-Dated this day of 19 .
+* Delete whichever is inapplicable. ** Recite description of offence(s) in the authority to proceed. *** Delete the words in square brackets if the person whose surrender is sought is not liable to serve a sentence of imprisonment in Hong Kong.
 
-.
+_
 
-Magistrate
+FORM 3 | [s. 7(1)(b)]
 
-* Delete whichever is inapplicable.
-
-** Recite description of offence(s) in the authority to proceed.
-
-*** Delete the words in square brackets if the person whose surrender is sought is not liable to serve a sentence of imprisonment in Hong Kong.
-
-FORM 3 | [section 7(1)(b)]
-
-PROVISIONAL WARRANT OF ARREST
+Provisional Warrant of Arrest
 
 To each and all of the authorized officers of Hong Kong.
 
-I being satisfied by information given on oath that .
+I being satisfied by information given on oath that
 
 (name of person)
 
-is or is believed to be in or on his way to Hong Kong and is wanted in .
+..................... is or is believed to be in or on his way to Hong Kong and is
 
-. for prosecution/the imposition or enforcement of
+wanted in
 
 (name of prescribed place)
 
-a sentence* in respect of the offence/offences* of . ** [and being satisfied that section 15 of the Fugitive Offenders Ordinance (Cap. 503) would not be contravened if the said person were brought before the court of committal***].
+for prosecution/the imposition or enforcement of a sentence* in respect of the offence/offences* of ...................................................................** [and being satisfied that section 15 of the Fugitive Offenders Ordinance (Cap. 503) would not be contravened if the said person were brought before the court of committal***]. YOU ARE HEREBY COMMANDED to arrest the said person forthwith and as soon as practicable to bring the said person before the court of committal.
 
-YOU ARE HEREBY COMMANDED to arrest the said person forthwith and as soon as practicable to bring the said person before the court of committal.
+Dated thisday of19.
 
-Dated this day of 19 .
+.......................................... Magistrate
 
-.
+* Delete whichever is inapplicable. ** Identify the offence(s) by reference to the description of offences specified in Schedule 1 to the Fugitive Offenders Ordinance (Cap. 503). *** Delete the words in square brackets if the person who is wanted is not liable to serve a sentence of imprisonment in Hong Kong.
 
-Magistrate
+_
 
-* Delete whichever is inapplicable.
+FORM 4 | [s. 7(2)]
 
-** Identify the offence(s) by reference to the description of offences specified in Schedule 1 to the Fugitive Offenders Ordinance (Cap. 503).
-
-*** Delete the words in square brackets if the person who is wanted is not liable to serve a sentence of imprisonment in Hong Kong.
-
-FORM 4 | [section 7(2)]
-
-ORDER FOR CANCELLATION OF PROVISIONAL WARRANT OF ARREST
+Order for Cancellation of Provisional Warrant of Arrest
 
 To each and all of the authorized officers of Hong Kong and to the Commissioner of Correctional Services.
 
 Pursuant to section 7(2)(b) of the Fugitive Offenders Ordinance (Cap. 503), I hereby order—
 
-- (a) the cancellation of the provisional warrant of arrest dated . 19. issued in respect of . ; (name of person)
+(a) | the cancellation of the provisional warrant of arrest dated .................................. 19........ issued in respect of
 
-- (b) the discharge of that person from custody if he has been arrested pursuant to such warrant*.
+................................................................................................. ;
 
-Dated this day of 19 .
+(name of person)
 
-.
+(b) | the discharge of that person from custody if he has been arrested pursuant to such warrant*.
 
-Chief Executive
+Dated thisday of19.
+
+........................................... Chief Executive
 
 * Delete paragraph (b) if the arrested person is liable to serve a sentence of imprisonment in Hong Kong.
 
-(71 of 1999 s. 3)
+(71 of 1999 s. 3) _
 
-FORM 5 | [section 8(2)]
+FORM 5 | [s. 8(2)]
 
-SEARCH WARRANT
+Search Warrant
 
 To each and all of the authorized officers of Hong Kong.
 
-I being satisfied by information on oath that there are reasonable grounds for suspecting that there is likely to be found in .
+I being satisfied by information on oath that there are reasonable grounds for suspecting that there is likely to be found in
 
 (address or other description of place)
 
-- property that—
+property that—
 
-- (a) [may be material as evidence in proving an offence to which a request for surrender has been received in respect of . (name of person . ;]
+(a) | [may be material as evidence in proving an offence to which a request for surrender has been received in respect of .......... .............................................................................................. ;]
 
-- whose surrender is sought)
+(name of person whose surrender is sought)
 
-- (b) [may be material as evidence in proving an offence to which the request for surrender in respect of . (name of person whose surrender is to be sought) in respect of which I am satisfied will be received;]
+(b) | [may be material as evidence in proving an offence to which the request for surrender in respect of
 
-- (c) [has been acquired as the result of an offence to which a request for surrender has been received in respect of . ;] (name of person whose surrender is sought)
+................................................................... in respect of which
 
-- (d) [has been acquired as the result of an offence to which the request for surrender in respect of . (name of person whose surrender is to be sought) in respect of which I am satisfied will be received]*. YOU ARE HEREBY COMMANDED, with such assistants as may be necessary, at any time to enter the said place, by force if necessary, and there search for and seize the said property. Dated this day of 19 . .
+(name of person whose surrender is to be sought)
 
-- Magistrate * Delete paragraph(s) which are inapplicable.
+I am satisfied will be received;]
 
-- FORM 6 | [section 10(6)]
+(c) | [has been acquired as the result of an offence to which a request for surrender has been received in respect of ........................................................................................................... ;]
 
-- ORDER OF COMMITTAL To each and all of the authorized officers of Hong Kong and to the Commissioner of Correctional Services. Pursuant to section 10(6)(a)/10(6)(b)* of the Fugitive Offenders Ordinance (Cap. 503), I hereby order . to be committed to custody— (name of person)
+(name of person whose surrender is sought)
 
-- (a) in respect of the following offence/offences*—
+(d) | [has been acquired as the result of an offence to which the request for surrender in respect of
 
-  - (i) . ;
+(name of person whose surrender is to be sought)
 
-  - (ii) . ;
+in respect of which I am satisfied will be received]*.
 
-  - (iii) . ;
+YOU ARE HEREBY COMMANDED, with such assistants as may be necessary, at any time to enter the said place, by force if necessary, and there search for and seize the said property.
 
-  - (iv) . ; ** ***
+Dated thisday of19.
 
-- (b) to await the Chief Executive’s decision as to his surrender, in respect of that offence/1 or more of those offences*, to the prescribed place by which the request for surrender in respect of such person was made; and
+Magistrate
 
-- (c) if the Chief Executive decides that he shall be surrendered to that place, to await such surrender. Dated this day of 19 . . Court of Committal * Delete whichever is inapplicable.
+* Delete paragraph(s) which are inapplicable.
 
-- ** Identify the offence(s) by reference to the Hong Kong offence(s) falling within the description of offences specified in Schedule 1 to the Fugitive Offenders Ordinance (Cap. 503).
+_
 
-- *** Delete or add nos. as necessary to provide for offence(s).
+FORM 6 | [s. 10(6)]
 
-(71 of 1999 s. 3)
+Order of Committal
 
-FORM 7 | [section 13(1)]
+To each and all of the authorized officers of Hong Kong and to the Commissioner of Correctional Services.
 
-ORDER FOR SURRENDER
-
-To each and all of the authorized officers of Hong Kong, to the Commissioner of Correctional Services and to the escort officer of .
-
-(name of prescribed place)
-
-Pursuant to section 13(1) of the Fugitive Offenders Ordinance (Cap. 503), I hereby order that .
+Pursuant to section 10(6)(a)/10(6)(b)* of the Fugitive Offenders Ordinance (Cap. 503), I hereby order
 
 (name of person)
 
-be surrendered to .
+to be committed to custody—
+
+(a) | in respect of the following offence/offences*—
+
+(i) | .......................................................；
+
+(ii) | .......................................................；
+
+(iii) | .......................................................；
+
+(iv) | .......................................................；** ***
+
+(b) | to await the Chief Executive’s decision as to his surrender, in respect of that offence/1 or more of those offences*, to the prescribed place by which the request for surrender in respect of such person was made; and
+
+(c) | if the Chief Executive decides that he shall be surrendered to that place, to await such surrender.
+
+Dated thisday of19.
+
+Court of Committal
+
+* Delete whichever is inapplicable. ** Identify the offence(s) by reference to the Hong Kong offence(s) falling within the description of offences specified in Schedule 1 to the Fugitive Offenders Ordinance (Cap. 503). *** Delete or add nos. as necessary to provide for offence(s).
+
+(71 of 1999 s. 3) _
+
+FORM 7 | [s. 13(1)]
+
+Order for Surrender
+
+To each and all of the authorized officers of Hong Kong, to the Commissioner of Correctional Services and to the escort officer of ...........
 
 (name of prescribed place)
 
-- in respect of the following offence/offences*—
-
-  - 1. . ;
-
-  - 2. . ;
-
-  - 3. . ;
-
-  - 4. . ** ***
-
-- Given under my hand and the Public Seal of Hong Kong this day of 19 in Hong Kong.
-
-- .
-
-- Chief Executive
-
-- * Delete whichever is inapplicable.
-
-- ** Identify the offence(s) by reciting the relevant wording used in the order of committal concerned.
-
-- *** Delete or add nos. as necessary to provide for offence(s).
-
-(23 of 1998 s. 2; 71 of 1999 s. 3)
-
-FORM 8 | [section 19(1)(i)]
-
-ORDER FOR CONTINUED CUSTODY
-
-Pursuant to section 19(1)(i) of the Fugitive Offenders Ordinance (Cap. 503), I hereby order that .
+Pursuant to section 13(1) of the Fugitive Offenders Ordinance (Cap. 503), I hereby order that
 
 (name of person)
 
-shall, instead of continuing to be kept in custody for a period of 30 days as specified in that section, continue to be kept in custody for the shorter period of . days.
+be surrendered to
 
-Dated this day of 19 .
+(name of prescribed place)
 
-.
+in respect of the following offence/offences*— 1. ........................................................................ ; 2. ....................................................................... ; 3. ....................................................................... ; 4. ....................................................................... ** *** Given under my hand and the Public Seal of Hong Kong this day of 19 in Hong Kong.
 
-Chief Executive
+............................................ Chief Executive
 
-(71 of 1999 s. 3)
+* Delete whichever is inapplicable. ** Identify the offence(s) by reciting the relevant wording used in the order of committal concerned. *** Delete or add nos. as necessary to provide for offence(s).
 
-FORM 9 | [section 20(2)]
+(23 of 1998 s. 2; 71 of 1999 s. 3) _
 
-ORDER AUTHORIZING AUTHORIZED OFFICER TO HOLD
+FORM 8 | [s. 19(1)(i)]
 
-IN CUSTODY A PERSON BEING TRANSPORTED
+Order for Continued Custody
 
-IN CUSTODY THROUGH HONG KONG
+Pursuant to section 19(1)(i) of the Fugitive Offenders Ordinance (Cap. 503), I hereby order that
+
+(name of person)
+
+shall, instead of continuing to be kept in custody for a period of 30 days as specified in that section, continue to be kept in custody for the shorter period of ..................... days. Dated thisday of19.
+
+............................................. Chief Executive
+
+(71 of 1999 s. 3) _
+
+FORM 9 | [s. 20(2)]
+
+Order Authorizing Authorized Officer to Hold in Custody a Person being Transported in Custody through Hong Kong
 
 To each and all of the authorized officers of Hong Kong.
 
-Pursuant to section 20(2) of the Fugitive Offenders Ordinance (Cap. 503), I hereby authorize any authorized officer to hold .
+Pursuant to section 20(2) of the Fugitive Offenders Ordinance (Cap. 503), I hereby authorize any authorized officer to hold
 
 (name of person)
 
-in custody for a further period of . hours/days* after the expiration of the period of 48 hours referred to in that section.
+in custody for a further period of .......................... hours/days* after the expiration of the period of 48 hours referred to in that section.
 
-Dated this day of 19 .
+Dated thisday of19.
 
-.
-
-Chief Executive
+............................................. Chief Executive
 
 * Delete whichever is inapplicable.
 

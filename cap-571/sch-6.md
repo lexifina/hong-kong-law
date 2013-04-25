@@ -1,8 +1,10 @@
-# SCHEDULE 6
+# Schedule 6
 
 [ss. 113, 139 & 143]
 
-SPECIFIED TITLES
+Specified Titles
+
+(Format changes—E.R. 1 of 2013)
 
 Item | Provision | Specified titles
 

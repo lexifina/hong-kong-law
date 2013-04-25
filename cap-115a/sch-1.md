@@ -10,9 +10,9 @@ FORM NO. 1A
 
 (Cap. 115)
 
-入境條例
+《入境條例》
 
-(第115章) Section 5(4) and(5)
+(第115章) Section 5(4) and (5)
 
 第5(4)及(5)條 ARRIVAL CARD
 
@@ -22,33 +22,29 @@ All travellers should complete this card except Hong Kong Identity Card holders 
 
 Family name (in capitals) 姓 (請用正楷填寫) | Sex 性別
 
-Given names (in capitals)
-
-名 (請用正楷填寫)
+Given names (in capitals) 名 (請用正楷填寫)
 
 Travel document No. 旅行證件號碼 | Place and date of issue 發出地點及日期
 
-Nationality 國籍 | Date of birth 出生日期 / / day 日 month 月 year 年
+Nationality 國籍 | Date of birth 出生日期 ／ ／ day 日 month 月 year 年
 
 Place of birth 出生地點 | Address in Hong Kong 香港地址
 
-Home address
+Home address 住址
 
-住址
+Flight No./Ship’s name 班機編號／船名 | From 來自
 
-Flight No./Ship’s name 班機編號/船名 | From 來自
+Signature of traveller 旅客簽署
 
-Signature of traveller
+[Card No. 申報表編號] | Please write clearly 請用端正字體填寫 Do not fold 切勿摺叠
 
-旅客簽署
-
-[Card No.申報表編號] | Please write clearly 請用端正字體填寫 Do not fold 切勿摺叠
-
-(旅客抵港申報表背頁) FOR OFFICIAL USE ONLY
+(Back side of Arrival Card) FOR OFFICIAL USE ONLY
 
 由本處填寫
 
 (blank)
+
+_
 
 IMMIGRATION DEPARTMENT HONG KONG
 
@@ -56,9 +52,9 @@ IMMIGRATION DEPARTMENT HONG KONG
 
 (Cap. 115)
 
-入境條例
+《入境條例》
 
-(第115章) Section 5(4) and(5)
+(第115章) Section 5(4) and (5)
 
 第5(4)及(5)條 DEPARTURE CARD
 
@@ -68,35 +64,29 @@ All travellers should complete this card except Hong Kong Identity Card holders 
 
 Family name (in capitals) 姓 (請用正楷填寫) | Sex 性別
 
-Given names (in capitals)
+Given names (in capitals) 名 (請用正楷填寫)
 
-名 (請用正楷填寫)
+Travel document No. 旅行證件號碼 | Place and date of issue 發出地點及日期
 
-Travel document No 旅行證件號碼 | Place and date of issue 發出地點及日期
-
-Nationality 國籍 | Date of birth 出生日期 / / day 日 month 月 year 年
+Nationality 國籍 | Date of birth 出生日期 ／ ／ day 日 month 月 year 年
 
 Place of birth 出生地點 | Address in Hong Kong 香港地址
 
-Home address
+Home address 住址
 
-住址
+Flight No./Ship’s name 班機編號／船名 | Destination 目的地
 
-Flight No./Ship’s name 班機編號/船名 | Destination 目的地
+Signature of traveller 旅客簽署
 
-Signature of traveller
+[Card No. 申報表編號] | Please retain in passport 請留在護照之內 Do not fold 切勿摺叠
 
-旅客簽署
-
-[Card No.申報表編號] | Please retain in passport 請留在護照之內 Do not fold 切勿摺叠
-
-(旅客離港申報表背頁) FOR OFFICIAL USE ONLY
+(Back side of Departure Card) FOR OFFICIAL USE ONLY
 
 由本處填寫 (blank)
 
 (L.N. 217 of 1995; 80 of 1997 s. 103; L.N. 362 of 1997)
 
-FORM NO. 1B
+_ FORM NO. 1B
 
 表格1B IMMIGRATION DEPARTMENT HONG KONG
 
@@ -104,9 +94,11 @@ FORM NO. 1B
 
 (Cap. 115)
 
-入境條例
+《入境條例》
 
-(第115章) Section 5(4) and(5)
+(第115章)
+
+Section 5(4) and (5)
 
 第5(4)及(5)條 DEPARTURE CARD
 
@@ -116,351 +108,413 @@ All travellers should complete this card except Hong Kong Identity Card holders 
 
 Family name (in capitals) 姓 (請用正楷填寫) | Sex 性別
 
-Given names (in capitals)
-
-名 (請用正楷填寫)
+Given names (in capitals) 名 (請用正楷填寫)
 
 Travel document No. 旅行證件號碼 | Place and date of issue 發出地點及日期
 
-Nationality 國籍 | Date of birth 出生日期 / / day 日 month 月 year 年
+Nationality 國籍 | Date of birth 出生日期 ／ ／ day 日 month 月 year 年
 
 Place of birth 出生地點 | Address in Hong Kong 香港地址
 
-Home address
+Home address 住址
 
-住址
+Flight No./Ship’s name 班機編號／船名 | Destination 目的地
 
-Flight No./Ship’s name 班機編號/船名 | From 來自
+Signature of traveller 旅客簽署
 
-Signature of traveller
+[Card No. 申報表編號] | Please write clearly 請用端正字體填寫 Do not fold 切勿摺叠
 
-旅客簽署
-
-[Card No.申報表編號] | Please write clearly 請用端正字體填寫 Do not fold 切勿摺叠
-
-(旅客抵港申報表背頁) FOR OFFICIAL USE ONLY
+(Back side of Departure Card) FOR OFFICIAL USE ONLY
 
 由本處填寫
 
 (blank)
 
-(L.N. 217 of 1995; L.N. 80 of 1997 s. 103; L.N. 362 of 1997)
+(L.N. 217 of 1995; L.N. 80 of 1997 s. 103; L.N. 362 of 1997) _
 
 FORM NO. 2 IMMIGRATION ORDINANCE (Chapter 115) Section 11(8) RECOGNIZANCE
 
-WHEREAS .
+Whereas
 
-of .
+of
 
 is an immigrant in respect of whom the condition(s) of stay specified below is/are in force under the Immigration Ordinance:
 
 Now—
 
-The said . or
+The said .or
 
-* .
+*
 
 of . , being the
 
-captain/owner/agent of the owner/of the ship/aircraft of which the said .
+captain/owner/agent of the owner/of the ship/aircraft of which the said
 
-is a member of the crew;
+. is a member of the crew;
 
-* .
+*
 
-of . , and
+of | ; and
 
-* .
+*
 
-of .
+of
 
-hereby acknowledges/acknowledges that he/they severally will pay to the Crown the following sum/sums—
+hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums—
 
-the said . the sum of $ .
+the said | the sum of $
 
-* the said . the sum of $ .
+* | the said | the sum of $
 
-* the said . the sum of $ .
+* | the said | the sum of $
 
 if the said . fails to comply with the following condition(s) of stay—
 
 Signed by—
 
-the said . .
+the said
 
-*the said . .
+* | the said
 
-*the said . .
+* | the said
 
-on the . day of . 19 .
+on the . day of . 19
 
-in the presence of .
-
-.
+in the presence of
 
 Signature
 
 * Delete where inapplicable.
 
-(L.N. 166 of 1995)
+(L.N. 166 of 1995) _
 
 FORM NO. 3 IMMIGRATION ORDINANCE (Chapter 115) Section 14(1) ALIEN REGISTRATION CARD
 
 By virtue of section 14(1) of the Immigration Ordinance, an alien within Hong Kong who—
 
-- (a) attains the age of 16 years; or
+(a) | attains the age of 16 years; or
 
-- (b) having previously been exempted from that subsection or section 5(4)(b), 5(a)(ii) or (5)(b)(ii) (otherwise than by reason of his age), ceases to be so exempted,
+(b) | having previously been exempted from that subsection or section 5(4)(b), 5(a)(ii) or (5)(b)(ii) (otherwise than by reason of his age), ceases to be so exempted,
 
 must, within one month thereafter, furnish this form, duly completed, to the Director.
 
-- 1. Male. Surname (Capitals) . Female. Other names .
+1. | Male.Surname (Capitals)
 
-- 2. Nationality .
+Female.Other names
 
-- 3. Passport Number .
+2. | Nationality
 
-- 4. Place of Issue .
+3. | Passport Number
 
-- 5. Date of Issue .
+4. | Place of Issue
 
-- 6. Date of Expiry .
+5. | Date of Issue
 
-- 7. Place of Birth .
+6. | Date of Expiry
 
-- 8. Date of Birth .
+7. | Place of Birth
 
-- 9. Original Port of Embarkation .
+8. | Date of Birth
 
-- 10. Full Permanent Address . .
+9. | Original Port of Embarkation
 
-- 11. Address in Hong Kong . .
+10. | Full Permanent Address
 
-- 12. Signature .
+11. | Address in Hong Kong
 
-(L.N. 166 of 1995)
+12. | Signature
+
+(L.N. 166 of 1995) _
 
 FORM NO. 4 IMMIGRATION ORDINANCE (Chapter 115) Section 29(1) WARRANT FOR DETENTION
 
-- WHEREAS it appears to me—
+Whereas it appears to me—
 
-- (a) that there are reasonable grounds for inquiry as to whether . of .
+(a) | that there are reasonable grounds for inquiry as to whether
 
-- ought to be deported under section 20 of the Immigration Ordinance; and
+of
 
-- (b) that such person should be detained for the purposes of or during such inquiry: NOW, THEREFORE, in exercise of the powers conferred on me by section 29(1) of the Immigration Ordinance, I hereby authorize the detention of the said .
+ought to be deported under section 20 of the Immigration Ordinance; and
 
-- for a period of 14 days ending on the . day of . 19 . Dated this . day of . 19 . . Secretary for Security
+(b) | that such person should be detained for the purposes of or during such inquiry:
 
-(L.N. 103 of 1980; L.N. 166 of 1995)
+Now, therefore, in exercise of the powers conferred on me by section 29(1) of the Immigration Ordinance, I hereby authorize the detention of the said
+
+for a period of 14 days ending on the . day of . 19 .
+
+Dated this . day of . 19 .
+
+Secretary for Security
+
+(L.N. 103 of 1980; L.N. 166 of 1995) _
 
 FORM NO. 5 IMMIGRATION ORDINANCE (Chapter 115) Section 29(2) WARRANT FOR FURTHER DETENTION
 
-WHEREAS it appears to me that .
+Whereas it appears to me that
 
-. of .
+. of
 
-- being a person who is detained under a detention warrant should be further detained— * NOW, THEREFORE, in exercise of the powers conferred on me by section 29(2) of the Immigration Ordinance, I hereby authorize the further detention of the said .
+being a person who is detained under a detention warrant should be further detained—
 
-- for a period of 7 days ending on the . day of .
+*
 
-- 19 . Dated this . day of . 19 . . Secretary for Security * Insert here the reasons for further detention under section 29(2) of the Immigration Ordinance.
+Now, therefore, in exercise of the powers conferred on me by section 29(2) of the Immigration Ordinance, I hereby authorize the further detention of the said
 
-(L.N. 8 of 1977; L.N. 103 of 1980; L.N. 166 of 1995)
+for a period of 7 days ending on the . day of
+
+19 .
+
+Dated this . day of . 19 .
+
+Secretary for Security
+
+* Insert here the reasons for further detention under section 29(2) of the Immigration Ordinance.
+
+(L.N. 8 of 1977; L.N. 103 of 1980; L.N. 166 of 1995) _
 
 FORM NO. 6 IMMIGRATION ORDINANCE (Chapter 115) Section 31(1) WARRANT FOR DETENTION
 
-- WHEREAS—
+Whereas—
 
-- (a) . of . is in Hong Kong in contravention of a deportation order in force in respect of him and is to be removed from Hong Kong under section 25 of the Immigration Ordinance, and
+(a) | . of
 
-- (b) it appears to me—
+is in Hong Kong in contravention of a deportation order in force in respect of him and is to be removed from Hong Kong under section 25 of the Immigration Ordinance, and
 
-  - (i) that the continued presence of such person in Hong Kong is necessary for the time being in connection with inquiries being carried on into activities of the said . .
+(b) | it appears to me—
 
-  - which are prejudicial to the security of Hong Kong; and
+(i) | that the continued presence of such person in Hong Kong is necessary for the time being in connection with inquiries being carried on into activities of the said
 
-  - (ii) that the said . may abscond if he is not detained:
+which are prejudicial to the security of Hong Kong; and
 
-- NOW, THEREFORE, in exercise of the powers conferred on me by section 31(1) of the Immigration Ordinance, I hereby authorize the detention of the said .
+(ii) | that the said
 
-- for a period of 14 days, ending on the . day of . 19 .
+may abscond if he is not detained:
 
-- Dated this . day of . 19 . .
+Now, therefore, in exercise of the powers conferred on me by section 31(1) of the Immigration Ordinance, I hereby authorize the detention of the said
 
-- Governor
+for a period of 14 days, ending on the
 
-(48 of 1992 s. 14; L.N. 166 of 1995)
+day of . 19 .
+
+Dated this . day of . 19 .
+
+Governor
+
+(48 of 1992 s. 14; L.N. 166 of 1995) _
 
 FORM NO. 7 IMMIGRATION ORDINANCE (Chapter 115) Section 31(2) WARRANT FOR FURTHER DETENTION
 
-WHEREAS it appears to me that .
+Whereas it appears to me that
 
-. of .
+. of
 
-- being a person who is detained under a warrant issued under section 31(1) of the Immigration Ordinance, should be further detained for the purposes referred to in section 31(1) of the Ordinance: NOW, THEREFORE, in exercise of the powers conferred on me by section 31(2) of the Immigration Ordinance, I hereby authorize the detention of the said . . for a period of 7 days ending on the . day of . 19 . Dated this . day of . 19 . . Governor
+being a person who is detained under a warrant issued under section 31(1) of the Immigration Ordinance, should be further detained for the purposes referred to in section 31(1) of the Ordinance:
 
-(L.N. 166 of 1995)
+Now, therefore, in exercise of the powers conferred on me by section 31(2) of the Immigration Ordinance, I hereby authorize the detention of the said
+
+. for a period of 7 days ending on the . day
+
+of . 19 .
+
+Dated this . day of . 19 .
+
+Governor
+
+(L.N. 166 of 1995) _
 
 FORM NO. 8 IMMIGRATION ORDINANCE (Chapter 115) Section 36(1) RECOGNIZANCE
 
-(1) .
+(1)
 
-of .
+of
 
-- *is detained under section 27, 32, 34 or 37ZK of the Immigration Ordinance :
+* | is detained under section 27, 32, 34 or 37ZK of the Immigration Ordinance:
 
-- *is liable to be detained under section 27, 32, 34 or 37ZK of the Immigration Ordinance and is not now so detained:
+* | is liable to be detained under section 27, 32, 34 or 37ZK of the Immigration Ordinance and is not now so detained:
 
-- Now—
+Now—
 
-- (1) .,
+(1) | ,
 
-- *(2) . of . ; and
+* | (2) | of | ; and
 
-- *(3) . of .,
+* | (3) | of | ,
 
-- hereby acknowledges/acknowledge that he/she/they severally will pay to the Government the following sum/sums—
+hereby acknowledges/acknowledge that he/she/they severally will pay to the Government the following sum/sums—
 
-- (1) . the sum of $ .
+(1) | the sum of $
 
-- *(2) . the sum of $ .
+* | (2) | the sum of $
 
-- *(3) . the sum of $ .
+* | (3) | the sum of $
 
-- if (1) . fails to comply with the *following condition/*any of the following conditions—
+if (1) . fails to comply with the *following condition/*any of the following conditions—
 
-  - (a)* report to
+(a) | report to—
 
-    - (i)* the duty officer . Police station on every .
+(i)* | the duty officer
 
-    - between the hours of .
+Police station on every
 
-    - and .
+between the hours of
 
-    - (ii)* the duty officer . Immigration Department on every.
+and .
 
-    - between the hours of .
+(ii)* | the duty officer
 
-    - and .
+Immigration Department on every
 
-- commencing .
+between the hours of
 
-- until this recognizance ceases to have effect. †[(b) etc. ] Signed by-
+and .
 
-- (1) .
+commencing
 
-- *(2) .
+until this recognizance ceases to have effect.
 
-- *(3) . on the . day of .
+†[(b) etc. ]
 
-- 20. in the presence of .
+Signed by—
 
-- .
+(1)
 
-- Signature
+* | (2)
 
-- * Delete where inappropriate.
+* | (3)
 
-- (i) complete in case of police recognizance.
+on the . day of
 
-- (ii) complete in case of Immigration Department recognizance. † Set out any other condition(s) imposed under section 36(1) of the Immigration Ordinance.
+20. in the presence of .
 
-(23 of 2012 s. 14)
+Signature
+
+* Delete where inappropriate.
+
+(i) | complete in case of police recognizance.
+
+(ii) | complete in case of Immigration Department recognizance.
+
+† Set out any other condition(s) imposed under section 36(1) of the Immigration Ordinance.
+
+(23 of 2012 s. 14) _
 
 FORM NO. 8A IMMIGRATION ORDINANCE (Chapter 115) Section 36(3) RECOGNIZANCE
 
-IN THE MAGISTRATE’S COURT AT . IN HONG KONG.
+In the Magistrate’s Court at . in Hong Kong.
 
-WHEREAS .
+Whereas
 
-of .
+of
 
-- may become liable to be detained under section 32(2) of the Immigration Ordinance : NOW— the said . *. of .; and *. of ., hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums— the said . the sum of $ . *the said . the sum of $ . *the said . the sum of $ . If the said . fails to report to
+may become liable to be detained under section 32(2) of the Immigration Ordinance :
 
-- the duty officer, Investigation Division, Immigration Department on every . . between the hours of 0900 and 1700
+Now—
 
-- (Saturday afternoons and public holidays excepted) commencing . . until this recognizance ceases to have effect.
+the said
 
-- Signed by— the said . *the said . *the said . Taken before me the . day of . 19 . Explained by
+* | of | ; and
 
-- . Sworn Interpreter | . Magistrate (or Magistrate’s Clerk)
+* | of . ,
 
-- * Delete where inappropriate.
+hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums—
 
-(L.N. 279 of 1977; L.N. 166 of 1995)
+the said | the sum of $
+
+* | the said | the sum of $
+
+* | the said | the sum of $
+
+If the said . fails to report to
+
+the duty officer, Investigation Division, Immigration Department on every
+
+. between the hours of 0900 and 1700
+
+(Saturday afternoons and public holidays excepted) commencing
+
+.until this recognizance ceases to have effect.
+
+Signed by—
+
+the said
+
+* | the said
+
+* | the said
+
+Taken before me the . day of . 19 .
+
+Explained by
+
+. | .
+
+Sworn Interpreter | Magistrate (or Magistrate’s Clerk)
+
+* Delete where inappropriate.
+
+(L.N. 279 of 1977; L.N. 166 of 1995) _
 
 FORM NO. 8B IMMIGRATION ORDINANCE (Chapter 115) Section 37G/46A* APPLICATION FOR FORFEITURE OF PROPERTY
 
-IN THE MAGISTRATE’S COURT AT . IN HONG KONG.
+In the Magistrate’s Court at . in Hong Kong.
 
-In exercise of the powers conferred on the Secretary for Justice under section 37G/46A* of the Immigration Ordinance I .
+In exercise of the powers conferred on the Secretary for Justice under section 37G/46A* of the Immigration Ordinance, I
 
-pursuant to an authorization by the Secretary for Justice under section 7 of the Legal Officers Ordinance hereby apply for the forfeiture of .
+pursuant to an authorization by the Secretary for Justice under section 7 of the Legal Officers Ordinance hereby apply for the forfeiture of
 
-.
-
-.
-
-.
-
-(here insert description of property) .
+(here insert description of property)
 
 Dated this day of 19 .
-
-.
 
 (Signature)
 
 * Delete where inappropriate.
 
-(L.N. 85 of 1980; L.N. 166 of 1995; L.N. 362 of 1997)
+(L.N. 85 of 1980; L.N. 166 of 1995; L.N. 362 of 1997) _
 
 FORM NO. 9 IMMIGRATION ORDINANCE (Chapter 115) Section 48(1) APPLICATION FOR FORFEITURE OF A SHIP/VEHICLE
 
-IN THE MAGISTRATE’S COURT AT . IN HONG KONG.
+In the Magistrate’s Court at . in Hong Kong.
 
-Pursuant to section 48(1) of the Immigration Ordinance, I . . Director of Immigration, hereby apply for the forfeiture of .
+Pursuant to section 48(1) of the Immigration Ordinance, I
 
-(here insert description of the ship or vehicle) .
+. Director of Immigration, hereby
 
-The name and address of the claimant, as specified in a notice of claim given under section 47(6) of the Immigration Ordinance, is .
+apply for the forfeiture of
 
-.
+(here insert description of the ship or vehicle)
 
-.
+The name and address of the claimant, as specified in a notice of claim given under section 47(6) of the Immigration Ordinance, is
 
-.
-
-Dated this day of 19 .
-
-.
+Dated this . day of . 19 .
 
 Director of Immigration
 
-(L.N. 166 of 1995)
+(L.N. 166 of 1995) _
 
 FORM NO. 10 IMMIGRATION ORDINANCE (Chapter 115) Section 48(2) SUMMONS TO CLAIMANT ON APPLICATION FOR FORFEITURE
 
-IN THE MAGISTRATE’S COURT AT . IN HONG KONG.
+In the Magistrate’s Court at . in Hong Kong.
 
-. . | ｝ | Applicant
+. . | ｝ | Applicant.
 
 and
 
-. . | ｝ | Claimant
+. . | ｝ | Claimant.
 
-To the said claimant .
+To the said claimant
 
-Application having been made under section 48(1) of the Immigration Ordinance for the forfeiture of .
+Application having been made under section 48(1) of the Immigration Ordinance for the forfeiture of
 
-.
+This summons requires you to appear on the . day
 
-This summons requires you to appear on the . day of . 19 . at . o’clock in the . noon, at the Magistrate’s Court at . in Hong Kong before a magistrate on the hearing of the said application.
+of . 19 . at . o’clock in the
 
-Dated this day of 19 .
+noon, at the Magistrate’s Court at
 
-.
+in Hong Kong before a magistrate on the hearing of the said application.
+
+Dated this . day of . 19 .
 
 Magistrate
 
@@ -468,30 +522,72 @@ P.T.O. FOR CERTIFICATE OF SERVICE.
 
 (Back) CERTIFICATE OF SERVICE (To be completed at time of service)
 
-Served upon the within named .
+Served upon the within named
 
-by (here state method of service).
+by (here state method of service)
 
-.
+Signature of process server and date—
 
-.
-
-- Signature of process server and date—
-
-(L.N. 166 of 1995)
+(L.N. 166 of 1995) _
 
 FORM NO. 11 IMMIGRATION ORDINANCE (Chapter 115) Section 55(2) RECOGNIZANCE
 
-WHEREAS .
+Whereas
 
-of .
+of
 
-- is required by the Governor under section 55(2) of the Immigration Ordinance to enter into this recognizance on the recission by the Governor, subject to the condition(s) specified below, of the deportation order made against him : NOW— the said . *. of .; and *. of ., hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums— the said . the sum of $ . *the said . the sum of $ . *the said . the sum of $ . if the said . fails to comply with the following condition(s):— Signed by— the said . . *the said . . *the said . . on the . day of . 19 .
+is required by the Governor under section 55(2) of the Immigration Ordinance to enter into this recognizance on the recission by the Governor, subject to the condition(s) specified below, of the deportation order made against him:
 
-- in the presence of . . Signature * Delete where inapplicable.
+Now—
 
-(82 of 1993 s. 16; L.N. 166 of 1995)
+the said
+
+* | of | ; and
+
+* | of .;
+
+hereby acknowledges/acknowledge that he/they severally will pay to the Crown the following sum/sums—
+
+the said | the sum of $
+
+* | the said | the sum of $
+
+* | the said | the sum of $
+
+If the said . fails to comply with the following condition(s):—
+
+Signed by—
+
+the said
+
+* | the said
+
+* | the said
+
+on the . day of . 19
+
+in the presence of
+
+Signature
+
+* Delete where inapplicable.
+
+(82 of 1993 s. 16; L.N. 166 of 1995) _
 
 FORM NO. 12
+
+檔案編號 Ref. No. | 證明書編號 Serial No.
+
+香港特別行政區居留權證明書 Certificate of Entitlement to the Right of Abode in the Hong Kong Special Administrative Region
+
+本證明書持有人在香港特別行政區的居留權已確立。 本證明書必須附貼於本證明書持有人的有效旅行證件上，方為有效。 The holder's Right of Abode in the Hong Kong Special Administrative Region has been established. This certificate is valid only if it has been affixed onto a valid travel document issued to the holder of this certificate.
+
+姓名 Name
+
+出生日期 Date of Birth | 性別 Sex
+
+香港特別行政區 入境事務處處長 | 發出日期 Date of Issue
+
+Director of Immigration Hong Kong Special Administrative Region | 《入境規例》(第115章，附屬法例) 表格 ID850 Immigration Regulations (Cap. 115 sub. leg.) Form ID850
 
 (124 of 1997 s. 10)

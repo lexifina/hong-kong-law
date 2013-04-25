@@ -2,4 +2,6 @@ An Ordinance to make provision for the surrender to certain places outside Hong 
 
 [25 April 1997] L.N. 179 of 1997
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 1 of 2013)
+
+(Format changes—E.R. 1 of 2013)

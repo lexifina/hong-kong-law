@@ -4,4 +4,4 @@ An Ordinance to provide for the registration of construction workers; a levy to 
 
 [18 September 2004]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2013)

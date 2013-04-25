@@ -16,4 +16,6 @@ An Ordinance to provide for—
 
 - (h) other consequential and related matters. [1 February 2007]
 
-Enacted by the Legislative Council.
+(Format changes—E.R. 1 of 2013)
+
+(Enacting provision omitted—E.R. 1 of 2013)

@@ -1,10 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 5(7), 10(2)(c) & 71]
 
-FINANCES, ETC. OF COMMISSIONER
-
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+Finances, etc. of Commissioner
 
 - 1. Resources of Commissioner
 

@@ -2,4 +2,4 @@ An Ordinance to render discrimination, harassment and vilification, on the groun
 
 [3 October 2008] L.N. 222 of 2008
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 1 of 2013)

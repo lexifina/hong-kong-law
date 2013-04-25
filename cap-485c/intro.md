@@ -1,9 +1,9 @@
-MANDATORY PROVIDENT FUND SCHEMES (FEES) REGULATION
+Mandatory Provident Fund Schemes (Fees) Regulation
 
-(Made by the Chief Executive in Council under section 46 of the
+(Cap. 485, section 46)
 
-Mandatory Provident Fund Schemes Ordinance (Cap. 485)
-
-subject to the approval of the Legislative Council)
+(Enacting provision omitted—E.R. 1 of 2013)
 
 [3 August 1999]
+
+(Format changes—E.R. 1 of 2013)

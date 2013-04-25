@@ -1,5 +1,5 @@
-# SCHEDULE
+# Schedule
 
 [s. 1]
 
-LUXURY GOODS
+Luxury Goods

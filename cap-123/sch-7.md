@@ -1,6 +1,6 @@
 # Schedule 7
 
-[ss. 40(1BE), sections (1BF) & sections (1BG)]
+[s. 40(1BE), section (1BF) & section (1BG)] (Amended E.R. 1 of 2013)
 
 Penalty Notice
 

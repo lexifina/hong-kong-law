@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 9 & 69]
 
-SPECIFIED BODIES
+Specified Bodies
 
-- PART 1 EMPLOYERS
+- Part 1 Employers
 
   - 1. Airport Authority
 
@@ -14,7 +14,7 @@ SPECIFIED BODIES
 
   - 4. The Real Estate Developers Association of Hong Kong Limited
 
-- PART 2 PROFESSIONALS AND CONSULTANTS
+- Part 2 Professionals and Consultants
 
   - 1. The Hong Kong Institute of Architects
 
@@ -26,9 +26,9 @@ SPECIFIED BODIES
 
   - 5. The Hong Kong Institution of Engineers
 
-- PART 3 CONTRACTORS, SUBCONTRACTORS, MATERIALS SUPPLIERS
+- Part 3 Contractors, Subcontractors, Materials Suppliers
 
-- AND EQUIPMENT SUPPLIERS
+- and Equipment Suppliers
 
   - 1. Hong Kong Construction Sub-contractors Association Limited (Replaced L.N. 89 of 2011)
 
@@ -52,7 +52,7 @@ SPECIFIED BODIES
 
   - 11. The Registered Elevator and Escalator Contractors Association Limited
 
-- PART 4 TRADE UNIONS
+- Part 4 Trade Unions
 
   - 1. Construction Site Workers General Union
 

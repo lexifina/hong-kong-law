@@ -1,32 +1,28 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 18, 40, 58, 59, 61, 62, 72 & 78 & Sch. 2]
 
-EXCHANGE COMPANIES, CLEARING HOUSES AND EXCHANGE CONTROLLERS
+Exchange Companies, Clearing Houses and Exchange Controllers
 
-- PART 1 DEFINITIONS
+- Part 1 Definitions
 
   - 1.
 
-    - In this Schedule, unless the context otherwise requires, “associated person” (相聯者), “controller” (控制人), “default rules” (違責處理規則), “indirect controller” (間接控制人), “market charge” (市場押記), “market collateral” (市場抵押品) and “shareholder controller” (股東控制人) have the meanings respectively assigned to them in section 18 of this Ordinance.
+    - In this Schedule, unless the context otherwise requires, associated person (相聯者), controller (控制人), default rules (違責處理規則), indirect controller (間接控制人), market charge (市場押記), market collateral (市場抵押品) and shareholder controller (股東控制人) have the meanings respectively assigned to them in section 18 of this Ordinance.
 
-- PART 2 SPECIFICATION OF PERSONS WHO ARE
+- Part 2 Specification of Persons Who are Associated Persons
 
-- ASSOCIATED PERSONS
+- Part 3 Specification of Persons Who are not Associated Persons
 
-- PART 3 SPECIFICATION OF PERSONS WHO ARE NOT
-
-- ASSOCIATED PERSONS
-
-  - 1. A person (“first person”) is not an associated person of another person (“second person”) for the purposes of all the provisions of Division 4 of Part III of this Ordinance in so far as—
+  - 1. A person (first person) is not an associated person of another person (second person) for the purposes of all the provisions of Division 4 of Part III of this Ordinance in so far as—
 
     - (a) the first person or the second person is a recognized clearing house (or its nominee) acting in its capacity as such;
 
     - (b) the first person is the chairman of a general meeting of a corporation entitled to exercise voting rights in the corporation due to his appointment as a proxy by the second person where the appointment—
 
-      - (i) is for that meeting only; and
+    - (i) is for that meeting only; and
 
-      - (ii) does not involve any valuable consideration; or
+    - (ii) does not involve any valuable consideration; or
 
     - (c) the first person and the second person are persons who have appointed the chairman of a general meeting of a corporation as a proxy to exercise voting rights in the corporation where each appointment—
 
@@ -40,15 +36,11 @@ EXCHANGE COMPANIES, CLEARING HOUSES AND EXCHANGE CONTROLLERS
 
     - (b) does not involve any valuable consideration.
 
-- PART 4 SPECIFICATION OF PERSONS WHO ARE NOT
-
-- INDIRECT CONTROLLERS
+- Part 4 Specification of Persons Who are not Indirect Controllers
 
   - 1. A person is not an indirect controller for all the provisions of Division 4 of Part III of this Ordinance in so far as the person is a person in accordance with whose directions or instructions the directors of a corporation or of another corporation of which it is a subsidiary are accustomed or obliged to act by reason only that they act on advice given by the person in the person’s professional capacity.
 
-- PART 5 REQUIREMENTS FOR DEFAULT RULES
-
-- OF RECOGNIZED CLEARING HOUSES
+- Part 5 Requirements for Default Rules of Recognized Clearing Houses
 
   - 1. The rules of a recognized clearing house which provide for the taking of proceedings or other action if a clearing participant appears to be unable, or likely to become unable, to meet his obligations in respect of all unsettled or open market contracts to which he is a party, shall—
 
@@ -64,11 +56,9 @@ EXCHANGE COMPANIES, CLEARING HOUSES AND EXCHANGE CONTROLLERS
 
     - (f) provide for the certification by the clearing house of any net sum referred to in paragraph (c) payable to the clearing participant, or of any further net sum referred to in paragraph (d) payable by or to the clearing participant (as the case may be) or, if there is no such sum, the certification by the clearing house of that fact.
 
-- PART 6 PROVISIONS APPLICABLE WHERE THERE IS FAILURE TO COMPLY
+- Part 6 Provisions Applicable Where there is Failure to Comply with Notice under Section 59(9)(c), 61(9)(b)
 
-- WITH NOTICE UNDER SECTION 59(9)(c), 61(9)(b)
-
-- OR 72(1) OF THIS ORDINANCE
+- Or 72(1) of this Ordinance
 
   - 1. Restrictions on and sale of securities
 
@@ -150,7 +140,7 @@ EXCHANGE COMPANIES, CLEARING HOUSES AND EXCHANGE CONTROLLERS
 
     - (1)
 
-      - In this section, “prohibited person” (受禁制人士), in relation to a corporation, means any person who has failed to comply with a notice under section 59(9)(c) or 72(1) of this Ordinance in relation to the corporation in so far as the notice relates to a controller who is an indirect controller.
+      - In this section, prohibited person (受禁制人士), in relation to a corporation, means any person who has failed to comply with a notice under section 59(9)(c) or 72(1) of this Ordinance in relation to the corporation in so far as the notice relates to a controller who is an indirect controller.
 
     - (2) Where a person is or may become a prohibited person in respect of a corporation, the Commission shall serve on the corporation a copy of the notice concerned under section 59(9)(c) or 72(1) of this Ordinance.
 
@@ -178,9 +168,7 @@ EXCHANGE COMPANIES, CLEARING HOUSES AND EXCHANGE CONTROLLERS
 
     - (7) In this section, a reference to a continuing offence means an offence consisting of a person’s continued default, refusal or other contravention of subsection (3) or (4), and notwithstanding that any period (however expressed) specified in that subsection for complying with it has expired.
 
-- PART 7 SPECIFICATION OF PERSONS WHO ARE NOT
-
-- MINORITY CONTROLLERS
+- Part 7 Specification of Persons Who are not Minority Controllers
 
   - 1. A person is not a minority controller for the purposes of Division 4 of Part III of this Ordinance in so far as the person is—
 
@@ -198,7 +186,7 @@ EXCHANGE COMPANIES, CLEARING HOUSES AND EXCHANGE CONTROLLERS
 
     - (b) does not involve any valuable consideration.
 
-- PART 8 EXEMPTION FROM SECTION 59(1) OF THIS ORDINANCE
+- Part 8 Exemption from Section 59(1) of this Ordinance
 
   - 1. A person is exempt from section 59(1) of this Ordinance in so far as the person is—
 
@@ -209,3 +197,5 @@ EXCHANGE COMPANIES, CLEARING HOUSES AND EXCHANGE CONTROLLERS
       - (i) is for that meeting only; and
 
       - (ii) does not involve any valuable consideration.
+
+  - (Format changes—E.R. 1 of 2013)

@@ -1,11 +1,13 @@
-UNITED NATIONS SANCTIONS (SOMALIA) REGULATION
+United Nations Sanctions (Somalia) Regulation
 
-(Made by the Chief Executive under section 3 of the United Nations
+(Cap. 537, section 3)
 
-Sanctions Ordinance (Cap. 537) on the instruction of the Ministry
-
-of Foreign Affairs of the People’s Republic of China and
-
-after consultation with the Executive Council)
+(Enacting provision omitted—E.R. 1 of 2013)
 
 [27 March 2009]
+
+(*Format changes—E.R. 1 of 2013)
+
+Editorial Note:
+
+* The format of the Regulation has been updated to the current legislative styles.

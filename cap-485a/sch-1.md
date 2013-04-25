@@ -1,24 +1,24 @@
-# SCHEDULE 1
+# Schedule 1
 
-[ss. 37, 39, 40, 44, 65, 70 & 118 & Sch. 3] (L.N. 223 of 2000; 1 of 2008 ss. 13 & 36)
+[ss. 37, 39, 40, 44, 65, 70 & 118 & Sch. 3]
 
-INVESTMENT OF SCHEME FUNDS
+(L.N. 223 of 2000; 1 of 2008 ss. 13 & 36)
 
-INVESTMENT OF SCHEME FUNDS
+Investment of Scheme Funds
 
-- PART I Preliminary
+- Part 1 Preliminary
 
   - 1. Definitions
 
     - (1) In this Schedule—
 
-      - “call warrant” (認購權證) means a security that confers a right (but does not impose an obligation) on its holder to purchase from the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the value of those ordinary shares over the exercise price without the holder of the warrant receiving those shares from the issuer; (L.N. 223 of 2000; 5 of 2002 s. 407; L.N. 145 of 2006)
+      - call warrant (認購權證) means a security that confers a right (but does not impose an obligation) on its holder to purchase from the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the value of those ordinary shares over the exercise price without the holder of the warrant receiving those shares from the issuer; (L.N. 223 of 2000; 5 of 2002 s. 407; L.N. 145 of 2006)
 
-      - “collective investment scheme” (集體投資計劃) has the meaning assigned to it by the Securities and Futures Ordinance (Cap. 571); (29 of 2002 s. 14)
+      - collective investment scheme (集體投資計劃) has the meaning assigned to it by the Securities and Futures Ordinance (Cap. 571); (29 of 2002 s. 14)
 
-      - “constituent fund” (成分基金) means a constituent fund of a registered scheme;
+      - constituent fund (成分基金) means a constituent fund of a registered scheme;
 
-      - “effective exposure” (有效風險) means—
+      - effective exposure (有效風險) means—
 
         - (a) in relation to financial option contracts, the nominal value of the investment multiplied by delta (as defined by subsection (2)); or
 
@@ -26,13 +26,13 @@ INVESTMENT OF SCHEME FUNDS
 
         - (c) in relation to other kinds of securities and investments, the market value of the securities and investments;
 
-      - “hedging” (對沖) has the meaning given by subsection (3);
+      - hedging (對沖) has the meaning given by subsection (3);
 
-      - “index-tracking collective investment scheme” (緊貼指數集體投資計劃) means a collective investment scheme which has the sole investment objective of tracking a particular market index; (29 of 2002 s. 14)
+      - index-tracking collective investment scheme (緊貼指數集體投資計劃) means a collective investment scheme which has the sole investment objective of tracking a particular market index; (29 of 2002 s. 14)
 
-      - “put warrant” (認沽權證) means a security that confers a right (but does not impose an obligation) on its holder to sell to the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the exercise price over the value of those ordinary shares without the holder of the warrant delivering those shares to the issuer; (L.N. 223 of 2000; 5 of 2002 s. 407; L.N. 145 of 2006)
+      - put warrant (認沽權證) means a security that confers a right (but does not impose an obligation) on its holder to sell to the issuer of the security the ordinary shares of a company or companies or corporation or corporations on or before a specified date at a specified price or prices, whether or not the issuer retains the right to elect to give a cash payment equal to the excess (if any) of the exercise price over the value of those ordinary shares without the holder of the warrant delivering those shares to the issuer; (L.N. 223 of 2000; 5 of 2002 s. 407; L.N. 145 of 2006)
 
-      - “warrant” (認股權證) means a security that—
+      - warrant (認股權證) means a security that—
 
         - (a) confers a right (but does not impose an obligation) on its holder to subscribe for the ordinary shares of the issuer of the warrant on or before a specified date at a specified price or prices; or (5 of 2002 s. 407)
 
@@ -40,13 +40,13 @@ INVESTMENT OF SCHEME FUNDS
 
         - (c) is a put warrant. (5 of 2002 s. 407; L.N. 145 of 2006)
 
-    - (2) For the purposes of the definition of “effective exposure” in subsection (1), delta is the expected increase or decrease in the market value of the financial option contract given a 1 unit change in the value of the underlying investment.
+    - (2) For the purposes of the definition of effective exposure in subsection (1), delta is the expected increase or decrease in the market value of the financial option contract given a 1 unit change in the value of the underlying investment.
 
     - (3) For the purposes of this Schedule, a financial futures contract, a financial option contract, a currency forward contract or a put warrant is acquired for hedging purposes if it is of a kind that will have the effect of reducing the impact on existing assets of a constituent fund, or on assets acquired for the fund at the same time as the contract or warrant is acquired, of a possible reduction in the value of those assets.
 
     - (4) For the purposes of this Schedule, a security is to be listed on an approved stock exchange or an approved futures exchange if the requirements specified by the Authority for this purpose are complied with in relation to the security. (L.N. 145 of 2006)
 
-- PART II PERMISSIBLE INVESTMENTS
+- Part 2 Permissible Investments
 
   - 2. General restrictions—spread of investments
 
@@ -86,13 +86,13 @@ INVESTMENT OF SCHEME FUNDS
 
     - (7) In this section—
 
-      - “relevant investment” (有關投資項目) means a permissible investment—
+      - relevant investment (有關投資項目) means a permissible investment—
 
         - (a) the value of which is determined by reference to the value of another investment; and
 
         - (b) which is specified, or belongs to a class of investment specified, by the Authority as a relevant investment for the purposes of this definition;
 
-      - “underlying investment” (基礎投資項目), in relation to a relevant investment, means an investment—
+      - underlying investment (基礎投資項目), in relation to a relevant investment, means an investment—
 
         - (a) by reference to the value of which the value of the relevant investment is determined; and
 
@@ -108,11 +108,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (b) the requirements in section 52 of this Regulation are complied with.
 
-  - 4.
-
-  - Restrictions on borrowing of money
-
-  - Money may be borrowed for the purposes of a constituent fund only if it is borrowed—
+  - 4. Restrictions on borrowing of money Money may be borrowed for the purposes of a constituent fund only if it is borrowed—
 
     - (a) for the purpose of enabling accrued benefits to be paid to or in respect of scheme members, and then only if—
 
@@ -138,11 +134,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (2) A liability must not be incurred in respect of a constituent fund in excess of the total value of the accrued benefits of the scheme members in relation to the fund.
 
-  - 6.
-
-  - Permissible investments: general restrictions
-
-  - The funds of a constituent fund may be invested only—
+  - 6. Permissible investments: general restrictions The funds of a constituent fund may be invested only—
 
     - (a) in investments that satisfy the requirements of sections 7 to 16 of this Schedule; or
 
@@ -150,7 +142,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (i) an approved pooled investment fund—
 
-        - (A) that satisfies the requirements of Part IV of this Schedule; and
+        - (A) that satisfies the requirements of Part 4 of this Schedule; and
 
         - (B) the underlying investments of which would comply with this Part if references in this Part to “constituent fund” were references to “approved pooled investment fund”;
 
@@ -158,11 +150,9 @@ INVESTMENT OF SCHEME FUNDS
 
       - (iii) a combination of an approved pooled investment fund falling within subparagraph (i) and an index-tracking collective investment scheme falling within subparagraph (ii). (29 of 2002 s. 14)
 
-  - 6A.
+  - (E.R. 1 of 2013)
 
-  - Permissible investments: index-tracking
-
-  - collective investment scheme The funds of a constituent fund may be invested in an index-tracking collective investment scheme which is— (L.N. 145 of 2006)
+  - 6A. Permissible investments: index-tracking collective investment scheme The funds of a constituent fund may be invested in an index-tracking collective investment scheme which is— (L.N. 145 of 2006)
 
     - (a) either—
 
@@ -178,7 +168,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (1) In this section—
 
-      - “exempt authority” (獲豁免當局) means—
+      - exempt authority (獲豁免當局) means—
 
         - (a) the Government; or
 
@@ -212,7 +202,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (5)
 
-      - For the purposes of this section, “debt security” (債務證券) does not include a document issued by a person as evidence of a deposit, within the meaning of section 11 of this Schedule, that is placed with that person. (L.N. 145 of 2006)
+      - For the purposes of this section, debt security (債務證券) does not include a document issued by a person as evidence of a deposit, within the meaning of section 11 of this Schedule, that is placed with that person. (L.N. 145 of 2006)
 
   - 8. Permissible investments: equities and other securities
 
@@ -230,7 +220,9 @@ INVESTMENT OF SCHEME FUNDS
 
       - (b) securities that are approved, or are of a kind approved, by the Authority, other than shares listed on an approved stock exchange; and (L.N. 145 of 2006)
 
-      - (c) an authorized unit trust or authorized mutual fund of a kind to which Part IV of this Schedule does not apply but which is approved by the Authority for the purposes of this Part. (5 of 2002 s. 407)
+      - (c) an authorized unit trust or authorized mutual fund of a kind to which Part 4 of this Schedule does not apply but which is approved by the Authority for the purposes of this Part. (5 of 2002 s. 407)
+
+  - (E.R. 1 of 2013)
 
   - 9. Permissible investments: convertible debt securities
 
@@ -242,13 +234,9 @@ INVESTMENT OF SCHEME FUNDS
 
     - (2)
 
-      - For the purposes of this section, “convertible debt security” (可轉換債務證券) does not include a document issued by a person as evidence of a deposit, within the meaning of section 11 of this Schedule, that is placed with that person. (L.N. 145 of 2006)
+      - For the purposes of this section, convertible debt security (可轉換債務證券) does not include a document issued by a person as evidence of a deposit, within the meaning of section 11 of this Schedule, that is placed with that person. (L.N. 145 of 2006)
 
-  - 10.
-
-  - Permissible investments: warrants
-
-  - The funds of a constituent fund may be applied for the purposes of acquiring a warrant, but only if—
+  - 10. Permissible investments: warrants The funds of a constituent fund may be applied for the purposes of acquiring a warrant, but only if—
 
     - (aa) the warrant is listed on an approved stock exchange or an approved futures exchange; (L.N. 145 of 2006)
 
@@ -316,7 +304,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (5) In this section—
 
-      - “deposit” (存款) means a loan of money that is repayable with or without interest or premium, either on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the person receiving it, but does not include a loan of money—
+      - deposit (存款) means a loan of money that is repayable with or without interest or premium, either on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the person receiving it, but does not include a loan of money—
 
         - (a) upon terms referable to the provision of property or services or the giving of security; or
 
@@ -326,13 +314,7 @@ INVESTMENT OF SCHEME FUNDS
 
   - 12. (Repealed L.N. 145 of 2006)
 
-  - 13.
-
-  - Permissible investments:
-
-  - securities to be listed
-
-  - The funds of a constituent fund may be applied for acquiring securities that are—
+  - 13. Permissible investments: securities to be listed The funds of a constituent fund may be applied for acquiring securities that are—
 
     - (a) of a kind to which section 7(2)(d), 8(1), 9(1)(a) or 10 of this Schedule would apply if they were listed on an approved stock exchange or an approved futures exchange; and
 
@@ -340,11 +322,7 @@ INVESTMENT OF SCHEME FUNDS
 
   - (L.N. 145 of 2006)
 
-  - 14.
-
-  - Futures contracts and option contracts:
-
-  - restrictions on acquisition
+  - 14. Futures contracts and option contracts: restrictions on acquisition
 
     - (1) Subject to this section, the funds of a constituent fund may be applied for acquiring a financial futures contract or a financial option contract only—
 
@@ -358,7 +336,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (2) A financial futures contract must not be acquired for a constituent fund unless it is traded on an approved futures exchange. (5 of 2002 s. 407; L.N. 145 of 2006)
 
-    - (2A) A contract described in paragraph (a) or (b)(i) of the definition of “financial futures contract” in section 2 of this Regulation must not be acquired for a constituent fund unless investing in the specified security or securities concerned is permitted under this Schedule at the time when the contract is entered into. (L.N. 145 of 2006)
+    - (2A) A contract described in paragraph (a) or (b)(i) of the definition of financial futures contract in section 2 of this Regulation must not be acquired for a constituent fund unless investing in the specified security or securities concerned is permitted under this Schedule at the time when the contract is entered into. (L.N. 145 of 2006)
 
     - (3) A financial option contract must not be acquired for a constituent fund unless it is traded on an approved futures exchange or an approved stock exchange. (5 of 2002 s. 407; L.N. 145 of 2006)
 
@@ -370,11 +348,7 @@ INVESTMENT OF SCHEME FUNDS
 
       - (b) the effective exposure, in relation to a constituent fund, means the sum of the effective exposures of all investments of the fund.
 
-  - 15.
-
-  - Currency forward contracts:
-
-  - restrictions on acquisition
+  - 15. Currency forward contracts: restrictions on acquisition
 
     - (1) Subject to this section, the funds of a constituent fund may be applied for acquiring a currency forward contract only—
 
@@ -392,11 +366,9 @@ INVESTMENT OF SCHEME FUNDS
 
     - (3) (Repealed 29 of 2002 s. 14)
 
-- PART III CURRENCY EXPOSURE
+- Part 3 Currency Exposure
 
-  - 16.
-
-  - Permissible investments: minimum Hong Kong
+  - 16. Permissible investments: minimum Hong Kong
 
   - dollar currency exposure
 
@@ -410,9 +382,9 @@ INVESTMENT OF SCHEME FUNDS
 
     - (3) In this section—
 
-      - “effective currency exposure” (有效貨幣風險), in relation to a constituent fund, means the proportion of the fund that is effectively invested in investments of a particular currency denomination as compared with the market value of the fund;
+      - effective currency exposure (有效貨幣風險), in relation to a constituent fund, means the proportion of the fund that is effectively invested in investments of a particular currency denomination as compared with the market value of the fund;
 
-      - “Hong Kong dollar currency investment” (港元貨幣投資項目) means an investment that is denominated in Hong Kong dollars and of which the value is not linked to a foreign currency and, in particular, includes any of the following—
+      - Hong Kong dollar currency investment (港元貨幣投資項目) means an investment that is denominated in Hong Kong dollars and of which the value is not linked to a foreign currency and, in particular, includes any of the following—
 
         - (a) cash in Hong Kong dollars and deposits in Hong Kong dollars, other than deposits in relation to which the repayment of principal or the payment of interest is, directly or indirectly, affected by fluctuations in exchange rates for a foreign currency;
 
@@ -444,7 +416,7 @@ INVESTMENT OF SCHEME FUNDS
 
     - (5) The following amounts are the amounts firstly referred to in subsection (4)—
 
-      - (a) an amount equal to 30 per cent of the market value of the approved pooled investment funds referred to in paragraph (k) of the definition of “Hong Kong dollar currency investment” in subsection (3) that are held in respect of the constituent fund;
+      - (a) an amount equal to 30 per cent of the market value of the approved pooled investment funds referred to in paragraph (k) of the definition of Hong Kong dollar currency investment in subsection (3) that are held in respect of the constituent fund;
 
       - (b) an amount equal to the market value of the investments referred to in paragraphs (a) to (e) and (j) of that definition that are held in respect of that fund; (32 of 2000 s. 48)
 
@@ -454,11 +426,11 @@ INVESTMENT OF SCHEME FUNDS
 
     - (6) The following amounts are the amounts secondly referred to in subsection (4)—
 
-      - (a) an amount equal to the market value of the currency forward contracts referred to in paragraph (g) of the definition of “Hong Kong dollar currency investment” in subsection (3) that are held in respect of the constituent fund;
+      - (a) an amount equal to the market value of the currency forward contracts referred to in paragraph (g) of the definition of Hong Kong dollar currency investment in subsection (3) that are held in respect of the constituent fund;
 
       - (b) an amount equal to the amount of the payables referred to in paragraph (i) of that definition that relates to that fund.
 
-- PART IV POOLED INVESTMENTS
+- Part 4 Pooled Investments
 
   - 17. Pooled investment funds
 

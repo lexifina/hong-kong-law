@@ -1,14 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 3 & 50]
 
-MATTERS EXCLUDED FROM APPLICATION OF SECTIONS 5, 5A, 6, 7, 8 AND 17 OF THIS ORDINANCE UNDER SECTION 3 OF THIS ORDINANCE
-
-MATTERS EXCLUDED FROM APPLICATION OF SECTIONS 5, 5A, 6, 7, 8 AND 17 OF
-
-THIS ORDINANCE UNDER SECTION 3 OF THIS ORDINANCE
-
-(Amended 14 of 2004 s. 26)
+Matters Excluded from Application of Sections 5, 5A, 6, 7, 8 and 17 of this Ordinance under Section 3 of this Ordinance*
 
 - 1. The creation, execution, variation, revocation, revival or rectification of a will, codicil or any other testamentary document.
 
@@ -34,4 +28,8 @@ THIS ORDINANCE UNDER SECTION 3 OF THIS ORDINANCE
 
 - 12. A warrant issued by a court or a magistrate.
 
-- 13. Negotiable instruments.
+- 13. Negotiable instruments. (Format changes—E.R. 1 of 2013)
+
+Editorial Note:
+
+* (Amended 14 of 2004 s. 26)

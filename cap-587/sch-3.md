@@ -1,16 +1,14 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 14 & 69]
 
-MEETINGS AND PROCEEDINGS OF COUNCIL
+Meetings and Proceedings of Council
 
-- 1.
-
-- Interpretation In this Schedule—
+- 1. Interpretation In this Schedule—
 
   - chairperson (主席) means the chairperson of the Council referred to in section 9(1)(a) of this Ordinance; (Added 17 of 2012 s. 62)
 
-  - “member” (成員) means a member of the Council referred to in section 9(1) of this Ordinance.
+  - member (成員) means a member of the Council referred to in section 9(1) of this Ordinance.
 
 - (Amended 17 of 2012 s. 62)
 
@@ -58,7 +56,7 @@ MEETINGS AND PROCEEDINGS OF COUNCIL
 
   - (5)
 
-    - In this section, “disclosure” (披露) means a disclosure of pecuniary interest required to be made under section 6.
+    - In this section, disclosure (披露) means a disclosure of pecuniary interest required to be made under section 6.
 
 - 8. Validity of proceedings The validity of any proceedings of the Council shall not be affected by—
 
@@ -112,11 +110,11 @@ MEETINGS AND PROCEEDINGS OF COUNCIL
 
   - (7) For the purposes of this section—
 
-    - “eligible member” (合資格成員) means a member who, on the date on which the resolution is made, is entitled to attend and vote at a meeting of the Council in respect of the business;
+    - eligible member (合資格成員) means a member who, on the date on which the resolution is made, is entitled to attend and vote at a meeting of the Council in respect of the business;
 
-    - “endorse” (同意), in relation to a resolution, includes to endorse the transaction of the business by a resolution without a meeting of the Council;
+    - endorse (同意), in relation to a resolution, includes to endorse the transaction of the business by a resolution without a meeting of the Council;
 
-    - “specified period” (指明期間), in relation to any business referred to in subsection (1), means a period—
+    - specified period (指明期間), in relation to any business referred to in subsection (1), means a period—
 
       - (a) that is determined by the chairperson and specified in the documents circulated for the purposes of transacting the business; and (Amended 17 of 2012 s. 62)
 

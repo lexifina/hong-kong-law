@@ -1,18 +1,18 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 7A]
 
-LIMITS OF INTERFERENCE VOLTAGE OR RADIATED INTERFERENCE FIELD FOR THE PURPOSES OF REGULATION 7A*
+Limits of Interference Voltage or Radiated Interference Field for the purposes of Regulation 7A*
 
 * Applicable only during the period of 1 year beginning on the commencement of the Telecommunication (Control of Interference) (Amendment) Regulation 1993 (L.N. 153 of 1993) .
 
-- PART I IGNITION APPARATUS OF INTERNAL COMBUSTION ENGINES Limits of radiated interference based on quasi-peak measurement measured at a distance of 10 m.
+- Part 1 Ignition Apparatus of Internal Combustion Engines Limits of radiated interference based on quasi-peak measurement measured at a distance of 10 m.
 
 - Frequency Range (MHz) | Field Strength Limit (μV/m)
 
 - 0.2-30 30-220 | 100 100
 
-- PART II SOUND AND TELEVISION BROADCAST RECEIVERS Limits of conducted interference and radiated interference.
+- Part 2 Sound and Television Broadcast Receivers Limits of conducted interference and radiated interference.
 
   - 1. Conducted interference
 
@@ -48,32 +48,32 @@ LIMITS OF INTERFERENCE VOLTAGE OR RADIATED INTERFERENCE FIELD FOR THE PURPOSES O
 
     - 0.2-1.605 | 100
 
-- PART III EQUIPMENT BELONGING TO ANY CLASS OF APPARATUS
+- Part 3 Equipment Belonging to any Class of Apparatus
 
-- SPECIFIED IN REGULATION 2(1)(b), (d) OR (e) Limits of conducted interference and radiated interference.
+- specified in Regulation 2(1)(b), (d) or (e) Limits of conducted interference and radiated interference.
 
   - 1. Conducted interference
 
-  - Frequency Range (MHz) | Interference Voltage Limit (μV)
+Frequency Range (MHz) | Interference Voltage Limit (μV)
 
-  - 0.2-1.605 over 30-220 | 1500 750
+0.2-1.605 over 30-220 | 1500 750
 
-  - 2. Radiated interference
+- 2. Radiated interference
+
+Frequency Range (MHz) | Field Strength Limit at a distance of 3 m (μV/m)
+
+0.2-30 over 30-220 | 100 50
+
+- Part 4 Equipment, other than Equipment Belonging to any Class
+
+- referred to in Part 1, 2 or 3, that is
+
+- not connected to a Distribution System (配電系統)*
+
+  - * Distribution System means any system for conveying electrical energy from one place to another. Limits of radiated interference.
 
   - Frequency Range (MHz) | Field Strength Limit at a distance of 3 m (μV/m)
 
   - 0.2-30 over 30-220 | 100 50
 
-- PART IV EQUIPMENT, OTHER THAN EQUIPMENT BELONGING TO ANY CLASS
-
-- REFERRED TO IN PART I, II, III, THAT IS
-
-- NOT CONNECTED TO A DISTRIBUTION SYSTEM (配電系統)*
-
-  - * “Distribution System” means any system for conveying electrical energy from one place to another. Limits of radiated interference.
-
-  - Frequency Range (MHz) | Field Strength Limit at a distance of 3 m (μV/m)
-
-  - 0.2-30 over 30-220 | 100 50
-
-- (L.N. 153 of 1993)
+- (L.N. 153 of 1993; E.R. 1 of 2013)

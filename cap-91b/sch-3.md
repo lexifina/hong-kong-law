@@ -1,10 +1,12 @@
-# SCHEDULE 3
+# Schedule 3
 
 [regs. 8A, 13 & 14] (L.N. 148 of 2000)
 
-CONTRIBUTIONS
+(Format changes—E.R. 1 of 2013)
 
-- PART I For the purposes of regulation 13— (L.N. 146 of 2012)
+Contributions
+
+- Part 1 For the purposes of regulation 13— (L.N. 146 of 2012)
 
   - (a) if the financial resources of an aided person do not exceed $20,000, the maximum contribution of the person is $0; (L.N. 146 of 2012)
 
@@ -28,7 +30,7 @@ CONTRIBUTIONS
 
   - $144,000 | the amount of financial resources specified in section 5(1) of the Ordinance | 25%;
 
-- and (L.N. 148 of 2000; L.N. 141 of 2006; L.N. 114 of 2007)
+- and (L.N. 148 of 2000)
 
   - (c) if the certificate of an aided person is for proceedings in which a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383) or an inconsistency with the International Convenant on Civil and Political Rights as applied to Hong Kong is an issue and— (L.N. 146 of 2012)
 
@@ -66,19 +68,17 @@ CONTRIBUTIONS
 
     - $769,700 | $869,700 | 60%
 
-    - $869,700 | $1,200,000 | 65%;
-
-    - or (L.N. 141 of 2006; L.N. 114 of 2007)
+    - $869,700 | $1,200,000 | 65%; or
 
     - (ii) if the financial resources of the person exceed $1,200,000, the maximum contribution of the person is 67% of the person’s financial resources. (L.N. 148 of 2000)
 
-- (L.N. 85 of 1997; L.N. 83 of 2004; L.N. 146 of 2012)
+- (L.N. 85 of 1997; L.N. 83 of 2004; L.N. 141 of 2006; L.N. 114 of 2007; L.N. 146 of 2012)
 
-- PART II (Repealed L.N. 195 of 1992)
+- Part II (Repealed L.N. 195 of 1992)
 
-- PART III Percentage of Value of Recovered or Preserved Property
+- Part 3 Percentage of Value of Recovered or Preserved Property
 
-  - 3. For proceedings mentioned in paragraph 1, 2 or 3 of Part I of Schedule 3 to the Ordinance—
+  - 3. For proceedings mentioned in paragraph 1, 2 or 3 of Part 1 of Schedule 3 to the Ordinance—
 
     - (a) except as otherwise provided in subparagraph (b), if the claim is settled before the date of commencement of the trial, the rate of contribution is 6%;
 
@@ -86,7 +86,9 @@ CONTRIBUTIONS
 
     - (c) in any other case, the rate of contribution is 10%.
 
-  - 4. For proceedings mentioned in paragraph 4, 5, 6 or 7 of Part I of Schedule 3 to the Ordinance—
+  - (E.R. 1 of 2013)
+
+  - 4. For proceedings mentioned in paragraph 4, 5, 6 or 7 of Part 1 of Schedule 3 to the Ordinance—
 
     - (a) except as otherwise provided in subparagraph (b), if the claim is settled before the date of commencement of the trial, the rate of contribution is 15%;
 
@@ -94,7 +96,9 @@ CONTRIBUTIONS
 
     - (c) in any other case, the rate of contribution is 20%.
 
-  - 5. For proceedings mentioned in paragraph 8 of Part I of Schedule 3 to the Ordinance—
+  - (E.R. 1 of 2013)
+
+  - 5. For proceedings mentioned in paragraph 8 of Part 1 of Schedule 3 to the Ordinance—
 
     - (a) except as otherwise provided in subparagraph (b), if the claim is settled before the date of commencement of the hearing of the appeal in the Court of First Instance, the rate of contribution is 6%;
 
@@ -102,6 +106,6 @@ CONTRIBUTIONS
 
     - (c) in any other case, the rate of contribution is 10%.
 
-  - (Part III replaced L.N. 146 of 2012)
+  - (E.R. 1 of 2013) (Part 3 replaced L.N. 146 of 2012)
 
-- PART IV (Repealed L.N. 489 of 1995)
+- Part IV (Repealed L.N. 489 of 1995)

@@ -1,5 +1,5 @@
-# SCHEDULE 4
+# Schedule 4
 
 [ss. 30(1)(d) & 71]
 
-PROVISIONS OF ORDINANCES UNDER WHICH MATCHING PROCEDURES ARE REQUIRED OR PERMITTED
+Provisions of Ordinance under which Matching Procedures are Required or Permitted

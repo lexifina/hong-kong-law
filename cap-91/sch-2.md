@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 5] (Amended 24 of 1983 s. 6)
 
-PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5
+Proceedings for which Legal Aid may be Given under Section 5
 
-- PART I Description of proceedings
+- Part 1 Description of Proceedings
 
   - 1. Civil proceedings in any of the following courts—
 
@@ -26,13 +26,13 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5
 
   - 6. An application to the Mental Health Review Tribunal. (Added 43 of 1995 s. 13)
 
-- PART II Excepted proceedings
+- Part 2 Excepted Proceedings
 
   - 1. Proceedings wholly or partly in respect of—
 
     - (a) defamation, other than the defence of a counterclaim alleging defamation; (Replaced 27 of 1991 s. 19)
 
-    - (b)-(c) (Repealed 40 of 1986 s. 6) ;
+    - (b)-(c) (Repealed 40 of 1986 s. 6)
 
   - 2. Relator actions.
 
@@ -68,4 +68,6 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5
 
     - For the purposes of this paragraph—
 
-    - “derivatives of securities” (證券衍生工具) means options to buy or sell interests in, certificates of interest of participation in, warrants to subscribe to or rights (other than shares) in, the capital of, or an instrument issued by, a company, government authority or other body. (Added 43 of 1995 s. 13)
+    - derivatives of securities (證券衍生工具) means options to buy or sell interests in, certificates of interest of participation in, warrants to subscribe to or rights (other than shares) in, the capital of, or an instrument issued by, a company, government authority or other body. (Added 43 of 1995 s. 13)
+
+    - (Format changes—E.R. 1 of 2013)

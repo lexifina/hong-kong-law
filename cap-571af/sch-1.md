@@ -2,7 +2,7 @@
 
 [ss. 2, 3 & 11]
 
-FEES PRESCRIBED FOR PURPOSES OF SECTION 395(1)(a)(i), (iii) AND (iv) OF ORDINANCE
+Fees Prescribed for Purposes of Section 395(1)(a)(i), (iii) and (iv) of Ordinance
 
 Item | Description | Amount
 
@@ -101,3 +101,5 @@ Miscellaneous fees
 (f) in the case of any other prospectus | $30,000
 
 22. | Fee payable for a copy of a document provided by the Commission in the performance of a function under any of the relevant provisions for which no fee is otherwise prescribed in this Schedule | $9 per page
+
+(Format changes—E.R. 1 of 2013)

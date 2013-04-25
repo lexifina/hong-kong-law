@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 2]
 
-FEES PRESCRIBED FOR THE PURPOSES OF THE MANDATORY PROVIDENT FUND SCHEMES (GENERAL) REGULATION (CAP. 485 SUB. LEG. A)
+Fees Prescribed for the Purposes of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 Sub. Leg. A)
+
+(E.R. 1 of 2013)
 
 Item | Relevant section of the Regulation | Description | Amount
 

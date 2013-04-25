@@ -1,10 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 3]
 
-- PART I ROADS AND PLACES WHERE MULTI-CYCLES MAY BE
-
-- RIDDEN OR OTHERWISE USED
+- Part 1 Roads and Places where Multi-cycles may be Ridden or otherwise Used
 
 Item | Roads and places
 
@@ -14,16 +12,38 @@ Item | Roads and places
 
 3-8. | (Repealed L.N. 21 of 1996)
 
-- PART II TRAFFIC SIGNS AND ROAD MARKINGS FIGURE No. A1 CYCLEWAY AND CYCLEGROUND
+- Part 2 Traffic Signs and Road Markings
 
-- FOR MULTI-CYCLES THIS SIGN INDICATES THAT THE CYCLEWAY OR CYCLEGROUND MAY BE USED BY RIDERS OF MULTI-CYCLES ONLY EXCEPT WHERE THE TRAFFIC SIGN No. 138 IN SCHEDULE 1 TO THE ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CAP. 374 SUB. LEG. G) IS ALSO ERECTED, IN WHICH CASE RIDING OF BICYCLES AND TRICYCLES IS ALSO PERMITTED.
+- Figure No. A1
 
-- THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. A3. FIGURE No. A2 FOOTWAY AND CYCLEWAY FOR MULTI-CYCLES THIS SIGN INDICATES THAT A CYCLEWAY ADJOINS A FOOTWAY AND THAT THE CYCLEWAY MAY BE USED BY RIDERS OF MULTI-CYCLES ONLY EXCEPT WHERE TRAFFIC SIGN No. 137 IN SCHEDULE 1 TO THE ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CAP. 374 SUB. LEG. G) IS ALSO ERECTED, IN WHICH CASE RIDING OF BICYCLES AND TRICYCLES IS ALSO PERMITTED. THE FOOTWAY MAY BE USED BY PEDESTRIANS ONLY.
+- Cycleway and Cycleground for Multi-cycles
 
-- THE SYMBOLS MAY BE REVERSED TO SHOW THE FOOTWAY AND CYCLEWAY ON OPPOSITE SIDES.
+- This sign indicates that the cycleway or cycleground may be used by riders of multi-cycles only except where the traffic sign No. 138 in Schedule 1 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) is also erected, in which case riding of bicycles and tricycles is also permitted. This sign may be used in conjunction with the supplementary plate in Figure No. A3.
 
-- WHERE THE CYCLEWAY IS PROVIDED ALONGSIDE A ROAD FOR OTHER VEHICULAR TRAFFIC, THE RIDER MUST USE THE FORMER.
+- (E.R. 1 of 2013)
 
-- THIS SIGN MAY BE USED IN CONJUNCTION WITH THE SUPPLEMENTARY PLATE IN FIGURE No. A3. SUPPLEMENTARY PLATE FIGURE No. A3 THIS PLATE WHEN USED IN CONJUNCTION WITH THE SIGN IN FIGURE Nos. A1, A2 INDICATES THE END OF THE CYCLEWAY OR CYCLEGROUND PRESCRIBED FOR USE OF MULTI-CYCLES. FIGURE No. B1 ROAD MARKING
+- Figure No. A2
 
-- MULTI-CYCLES THIS MARKING INDICATES THAT THE SECTION OF CYCLEWAY ON WHICH IT IS PLACED IS RESERVED FOR MULTI-CYCLES ONLY EXCEPT WHERE THE ROAD MARKING SHOWN IN FIGURE No. 619 OF SCHEDULE 2 TO THE ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CAP. 374 SUB. LEG. G) IS ALSO PLACED, IN WHICH CASE BICYCLES AND TRICYCLES ARE ALSO PERMITTED ON THE CYCLEWAY. (26 of 2012 s. 60)
+- Footway and Cycleway for Multi-cycles
+
+- This sign indicates that a cycleway adjoins a footway and that the cycleway may be used by riders of multi-cycles only except where traffic sign No. 137 in Schedule 1 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) is also erected, in which case riding of bicycles and tricycles is also permitted. The footway may be used by pedestrians only. The symbols may be reversed to show the footway and cycleway on opposite sides. Where the cycleway is provided alongside a road for other vehicular traffic, the rider must use the former.
+
+- This sign may be used in conjunction with the supplementary plate in Figure No. A3.
+
+- (E.R. 1 of 2013)
+
+- SUPPLEMENTARY
+
+- PLATE
+
+- Figure No. A3
+
+- This plate when used in conjunction with the sign in Figure Nos. A1, A2 indicates the end of the cycleway or cycleground prescribed for use of multi-cycles.
+
+- Figure No. B1
+
+- Road Marking Multi-cycles
+
+- This marking indicates that the section of cycleway on which it is placed is reserved for multi-cycles only except where the road marking shown in Figure No. 619 of Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) is also placed, in which case bicycles and tricycles are also permitted on the cycleway.
+
+- (26 of 2012 s. 60; E.R. 1 of 2013)

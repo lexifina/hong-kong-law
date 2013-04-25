@@ -1,10 +1,14 @@
-# SCHEDULE 15 AIR NAVIGATION (GENERAL) REGULATIONS
+# SCHEDULE 15
 
-Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
+Articles 11(3), 14(1)(b),
 
-29(1), 36, 36C(1), 78, 86(1) and 97
+27(1)(c), 28(4), 29(1), 36,
+
+36C(1), 78, 86(1) and 97
 
 (L.N. 77 of 2008)
+
+AIR NAVIGATION (GENERAL) REGULATIONS
 
 - 1. Load Sheets
 
@@ -26,25 +30,25 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (a) For the purpose of calculating the total weight of the aircraft the respective total weights of the passengers and crew entered in the load sheet shall be computed from the actual weight of each person and for that purpose each person shall be separately weighed;
 
-      - Provided that, in the case of an aircraft of which the maximum total weight authorised exceeds 5700 kg or which has a total seating capacity authorised by the certificate of airworthiness in force in respect of that aircraft of 12 or more persons, the total weights of the passengers and crew may, subject to the provisions of sub-paragraph (b) of this paragraph and of paragraph (4) of this regulation, be calculated at not less than the appropriate weights shown in Table 1 and the load sheet shall bear a notation to that effect—
+      - Provided that, in the case of an aircraft of which the maximum total weight authorised exceeds 5 700 kg or which has a total seating capacity authorised by the certificate of airworthiness in force in respect of that aircraft of 12 or more persons, the total weights of the passengers and crew may, subject to the provisions of sub-paragraph (b) of this paragraph and of paragraph (4) of this regulation, be calculated at not less than the appropriate weights shown in Table 1 and the load sheet shall bear a notation to that effect—
 
     - Table 1
 
-    - Males over 12 years of age . | 75 kg.
+    - Males over 12 years of age | 75 kg.
 
-    - Save that on journeys by helicopters in support of or in connection with the exploitation of or exploration for mineral resources (including gas) and—
+  - Save that on journeys by helicopters in support of or in connection with the exploitation of or exploration for mineral resources (including gas) and—
 
     - (i) between Hong Kong and any vessel or structure located at sea, or
 
     - (ii) between any two such vessels or structures where the last preceding journey from land or the next subsequent journey to land was from or is intended to be, as the case may be, Hong Kong:
 
-    - the appropriate weight for male passengers over 12 years shall be . | 83 kg.
+    - the appropriate weight for male passengers over 12 years shall be | 83 kg.
 
-    - Females over 12 years of age . | 65 kg.
+    - Females over 12 years of age | 65 kg.
 
-    - Children aged 2 years or more, but not over 12 years of age . | 39 kg.
+    - Children aged 2 years or more, but not over 12 years of age | 39 kg.
 
-    - Infants under 2 years of age . | 8 kg.
+    - Infants under 2 years of age | 8 kg.
 
     - (b) Where any immersion suit is worn or carried by a passenger or crew member, 3 kg shall be added to the appropriate weight shown in Table 1 in each case. (L.N. 77 of 2008)
 
@@ -56,7 +60,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (a) For the purpose of calculating the total weight of a passenger aircraft, the respective total weights of the hold baggage and cargo entered in the load sheet shall be computed from the actual weight of each piece of baggage, cargo or cargo container and for that purpose each piece or container shall be separately weighed; (L.N. 77 of 2008)
 
-      - Provided that, in the case of an aeroplane of which the maximum total weight authorised exceeds 5700 kg, or which has a total seating capacity of 12 or more persons, the total weight of the baggage may, subject to the provisions of paragraph (4) of this Regulation, be calculated at not less than the weights shown in Table 2 and the load sheet shall bear a notation to that effect;
+      - Provided that, in the case of an aeroplane of which the maximum total weight authorised exceeds 5 700 kg, or which has a total seating capacity of 12 or more persons, the total weight of the baggage may, subject to the provisions of paragraph (4) of this Regulation, be calculated at not less than the weights shown in Table 2 and the load sheet shall bear a notation to that effect;
 
     - Table 2
 
@@ -66,11 +70,11 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - 5 kg | 16 kg
 
-- (L.N. 77 of 2008)
+  - (L.N. 77 of 2008)
 
-- * Not infants under 2 years of age.
+  - * Not infants under 2 years of age.
 
-  - (b) If Table 2 has been used, subject to the provision of paragraph (4) for determining the weight of hold baggage, it shall also be used, subject as aforesaid, for determining the weight of the cabin baggage. (L.N. 77 of 2008)
+    - (b) If Table 2 has been used, subject to the provision of paragraph (4) for determining the weight of hold baggage, it shall also be used, subject as aforesaid, for determining the weight of the cabin baggage. (L.N. 77 of 2008)
 
   - (3A) For the purpose of calculating the total weight of a freight aircraft, the respective total weights of the baggage and cargo entered in the load sheet shall be computed from the actual weight of each piece of baggage, cargo or cargo container and for that purpose each piece or container shall be separately weighed;
 
@@ -82,23 +86,23 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - For the purposes of this Table, a hand equals 4 inches.
 
-      - Foal . | 200 kg
+      - Foal | 200 kg
 
-      - Yearlings . | 400 kg
+      - Yearlings | 400 kg
 
-      - Mares & Stallions (2 years old or over) . | 500 kg
+      - Mares & Stallions (2 years old or over) | 500 kg
 
-      - Ponies (not more than 15 hands high) . | 400 kg
+      - Ponies (not more than 15 hands high) | 400 kg
 
-      - Ponies (more than 15 hands high) . | 500 kg
+      - Ponies (more than 15 hands high) | 500 kg
 
       - (b) the total weights of any baggage carried may, subject to paragraph (4) of this Regulation, be calculated at not less than the weights shown in Table 4 and the load sheet shall bear a notation to that effect—
 
       - Table 4
 
-      - Baggage per crew member . | 16 kg
+      - Baggage per crew member | 16 kg
 
-      - Baggage per passenger . | 16 kg
+      - Baggage per passenger | 16 kg
 
 - (L.N. 77 of 2008)
 
@@ -122,17 +126,15 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (a) the certificate of airworthiness in force under this Order in respect of that aircraft; or
 
-      - (b)
+      - (b) the flight manual or performance schedule included in that certificate, or other document, whatever its title, incorporated by reference in that certificate;
 
-      - the flight manual or performance schedule included in that certificate, or other document, whatever its title, incorporated by reference in that certificate;
+    - “the emergency distance available” means the distance from the point on the surface of the aerodrome at which the aeroplane can commence its take-off run to the nearest point in the direction of take-off at which the aeroplane cannot roll over the surface of the aerodrome and be brought to rest in an emergency without risk of accident;
 
-        - “the emergency distance available” means the distance from the point on the surface of the aerodrome at which the aeroplane can commence its take-off run to the nearest point in the direction of take-off at which the aeroplane cannot roll over the surface of the aerodrome and be brought to rest in an emergency without risk of accident;
+    - “the landing distance available” means the distance from the point on the surface of the aerodrome above which the aeroplane can commence its landing, having regard to the obstruction in its approach path, to the nearest point in the direction of landing at which the surface of the aerodrome is incapable of bearing the weight of the aeroplane under normal operating conditions or at which there is an obstacle capable of affecting the safety of the aeroplane;
 
-        - “the landing distance available” means the distance from the point on the surface of the aerodrome above which the aeroplane can commence its landing, having regard to the obstruction in its approach path, to the nearest point in the direction of landing at which the surface of the aerodrome is incapable of bearing the weight of the aeroplane under normal operating conditions or at which there is an obstacle capable of affecting the safety of the aeroplane;
+    - “the take-off distance available” means either the distance from the point on the surface of the aerodrome at which the aeroplane can commence its take-off run to the nearest obstacle in the direction of take-off projecting above the surface of the aerodrome and capable of affecting the safety of the aeroplane or one and one half times the take-off run available whichever is the less;
 
-        - “the take-off distance available” means either the distance from the point on the surface of the aerodrome at which the aeroplane can commence its take-off run to the nearest obstacle in the direction of take-off projecting above the surface of the aerodrome and capable of affecting the safety of the aeroplane or one and one half times the take-off run available whichever is the less;
-
-        - “the take-off run available” means the distance from the point on the surface of the aerodrome at which the aeroplane can commence its take-off run to the nearest point in the direction of take-off at which the surface of the aerodrome is incapable of bearing the weight of the aeroplane under normal operating conditions.
+    - “the take-off run available” means the distance from the point on the surface of the aerodrome at which the aeroplane can commence its take-off run to the nearest point in the direction of take-off at which the surface of the aerodrome is incapable of bearing the weight of the aeroplane under normal operating conditions.
 
   - (4) For the purposes of Regulations 2 to 8 inclusive, and of the Annex hereto:
 
@@ -144,23 +146,9 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
   - (5) Nothing in Regulations 2 to 11 inclusive shall apply to any aircraft flying solely for the purpose of training persons to perform duties in aircraft.
 
-- 3. Weight and Performance of Public Transport Aeroplanes
+- 3. Weight and Performance of Public Transport Aeroplanes having no Performance Group Classification in their Certificates of Airworthiness With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness which does not include a performance group classification shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that such of the conditions in the Annex hereto as apply to that aircraft are satisfied.
 
-- having no Performance Group Classification in their
-
-- Certificates of Airworthiness With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness which does not include a performance group classification shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that such of the conditions in the Annex hereto as apply to that aircraft are satisfied.
-
-- 4.
-
-- Weight and Performance of Public Transport Aeroplanes
-
-- classified as Aeroplanes of Performance Group A or
-
-- Performance Group B in their
-
-- Certificates of Airworthiness
-
-- (L.N. 77 of 2008) With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness in which the aeroplane is designated as being of performance group A or performance group B shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied: (L.N. 77 of 2008)
+- 4. Weight and Performance of Public Transport Aeroplanes classified as Aeroplanes of Performance Group A or Performance Group B in their Certificates of Airworthiness (L.N. 77 of 2008) With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness in which the aeroplane is designated as being of performance group A or performance group B shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied: (L.N. 77 of 2008)
 
   - (1) That weight does not exceed the maximum take-off weight specified for the altitude and the air temperature at the aerodrome at which the take-off is to be made. (L.N. 77 of 2008)
 
@@ -178,7 +166,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (f) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off,
 
-- do not exceed the take-off run, the take-off distance and the emergency distance available, respectively, at the aerodrome at which the take-off is to be made; in ascertaining the emergency distance required, the point at which the pilot is assumed to decide to discontinue the take-off shall not be nearer to the start of the take-off run than the point at which, in ascertaining the take-off run required and the take-off distance required, he is assumed to decide to continue the take-off, in the event of power unit failure.
+  - do not exceed the take-off run, the take-off distance and the emergency distance available, respectively, at the aerodrome at which the take-off is to be made; in ascertaining the emergency distance required, the point at which the pilot is assumed to decide to discontinue the take-off shall not be nearer to the start of the take-off run than the point at which, in ascertaining the take-off run required and the take-off distance required, he is assumed to decide to continue the take-off, in the event of power unit failure.
 
   - (3)
 
@@ -192,7 +180,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (iv) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off.
 
-    - and plotted from a point 35 feet or 50 feet, as appropriate, above the end of the take-off distance required at the aerodrome at which the take-off is to be made to a height of 1500 feet above the aerodrome, shows that the aeroplane will clear any obstacle in its path by a vertical interval of at least 35 feet; and if it is intended that the aeroplane shall change its direction of flight by more than 15o before reaching 1500 feet the vertical interval shall not be less than 50 feet during the change of direction. (L.N. 77 of 2008)
+    - and plotted from a point 35 feet or 50 feet, as appropriate, above the end of the take-off distance required at the aerodrome at which the take-off is to be made to a height of 1 500 feet above the aerodrome, shows that the aeroplane will clear any obstacle in its path by a vertical interval of at least 35 feet; and if it is intended that the aeroplane shall change its direction of flight by more than 15° before reaching 1 500 feet the vertical interval shall not be less than 50 feet during the change of direction. (L.N. 77 of 2008)
 
     - (b) For the purpose of sub-paragraph (a) hereof an obstacle shall be deemed to be in the path of the aeroplane if the distance from the obstacle to the nearest point on the ground below the intended line of flight of the aeroplane does not exceed—
 
@@ -204,33 +192,33 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (c) In assessing the ability of the aeroplane to satisfy this condition, it shall not be assumed to make a change of direction of a radius less than the specified radius of steady turn.
 
-  - (4) The aeroplane will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom and with the other power unit or units operating within the maximum continuous power conditions specified be capable of continuing the flight, clearing by a vertical interval of at least 2000 feet obstacles within 10 nautical miles either side of the intended track to an aerodrome at which it can comply with condition (7) in this Regulation relating to an alternate aerodrome and on arrival over such aerodrome the gradient of the specified net flight path with one power unit inoperative shall not be less than zero at 1500 feet above the aerodrome, and in assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to be capable of flying at an altitude exceeding the specified maximum permissible altitude for power unit restarting:
+  - (4) The aeroplane will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom and with the other power unit or units operating within the maximum continuous power conditions specified be capable of continuing the flight, clearing by a vertical interval of at least 2 000 feet obstacles within 10 nautical miles either side of the intended track to an aerodrome at which it can comply with condition (7) in this Regulation relating to an alternate aerodrome and on arrival over such aerodrome the gradient of the specified net flight path with one power unit inoperative shall not be less than zero at 1 500 feet above the aerodrome, and in assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to be capable of flying at an altitude exceeding the specified maximum permissible altitude for power unit restarting:
 
     - Provided that where the operator of the aeroplane is satisfied, taking into account the navigation aids which can be made use of by the aeroplane on the route, that the commander of the aeroplane will be able to maintain his intended track on that route within a margin of 5 nautical miles, the foregoing provisions of this paragraph shall have effect as if 5 nautical miles were substituted for 10 nautical miles.
 
-  - (5) In the case of an aeroplane having three or more power units, it will, in the meteorological conditions expected for the flight, in the event of any two power units becoming inoperative at any point along the route or on any planned diversion therefrom more than 90 minutes flying time in still air at the all power units operating economical cruising speed from the nearest aerodrome at which it can comply with condition (7) in this Regulation, relating to an alternate aerodrome, be capable of continuing the flight with all other power units operating within the specified maximum continuous power conditions, clearing by a vertical interval of at least 2000 feet obstacles within 10 nautical miles either side of the intended track to such an aerodrome, and on arrival over such an aerodrome the gradient of the specified net flight path with two power units inoperative shall not be less than zero at 1500 feet above the aerodrome; and in assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to be capable of flying at an altitude exceeding the specified maximum permissible altitude for power unit restarting:
+  - (5) In the case of an aeroplane having three or more power units, it will, in the meteorological conditions expected for the flight, in the event of any two power units becoming inoperative at any point along the route or on any planned diversion therefrom more than 90 minutes flying time in still air at the all power units operating economical cruising speed from the nearest aerodrome at which it can comply with condition (7) in this Regulation, relating to an alternate aerodrome, be capable of continuing the flight with all other power units operating within the specified maximum continuous power conditions, clearing by a vertical interval of at least 2 000 feet obstacles within 10 nautical miles either side of the intended track to such an aerodrome, and on arrival over such an aerodrome the gradient of the specified net flight path with two power units inoperative shall not be less than zero at 1 500 feet above the aerodrome; and in assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to be capable of flying at an altitude exceeding the specified maximum permissible altitude for power unit restarting:
 
     - Provided that where the operator of the aeroplane is satisfied taking into account the navigation aids which can be made use of by the aeroplane on the route, that the commander of the aeroplane will be able to maintain his intended track on the route within a margin of five nautical miles, the foregoing provisions of this paragraph shall have effect as if five nautical miles were substituted for 10 nautical miles; or
 
-  - In the case of an aeroplane having two power units and a maximum total weight authorized which exceeds 5700 kg, and which is not limited by its certificate of airworthiness to the carriage of less than 20 passengers, it will, in the meteorological conditions expected for the flight, at any point along the route or on any planned diversion therefrom, not be more than 60 minutes flying time at the normal one engine inoperative cruise speed in still air from the nearest aerodrome at which it can comply with condition (7) in this Regulation, relating to an alternate aerodrome, unless it is flying under and in accordance with the terms of any written permission granted by the Chief Executive to the operator under this regulation; or (36 of 1999 s. 3)
-
-  - In the case of an aeroplane having two power units and a maximum total weight authorized 5700 kg, or less or in the case of an aeroplane having two power units and a maximum total weight authorized of more than 5700 kg, but which is limited by its certificate of airworthiness to the carriage of less than 20 passengers the aeroplane will, in the meteorological conditions expected for the flight, not be more than 90 minutes flying time in still air at the all power units operating economical cruising speed from the nearest aerodrome at which it can comply with condition (7) in this regulation, relating to an alternate aerodrome.
+  - In the case of an aeroplane having two power units and a maximum total weight authorized which exceeds 5 700 kg, and which is not limited by its certificate of airworthiness to the carriage of less than 20 passengers, it will, in the meteorological conditions expected for the flight, at any point along the route or on any planned diversion therefrom, not be more than 60 minutes flying time at the normal one engine inoperative cruise speed in still air from the nearest aerodrome at which it can comply with condition (7) in this Regulation, relating to an alternate aerodrome, unless it is flying under and in accordance with the terms of any written permission granted by the Chief Executive to the operator under this regulation; or (36 of 1999 s. 3) In the case of an aeroplane having two power units and a maximum total weight authorized 5 700 kg, or less or in the case of an aeroplane having two power units and a maximum total weight authorized of more than 5 700 kg, but which is limited by its certificate of airworthiness to the carriage of less than 20 passengers the aeroplane will, in the meteorological conditions expected for the flight, not be more than 90 minutes flying time in still air at the all power units operating economical cruising speed from the nearest aerodrome at which it can comply with condition (7) in this regulation, relating to an alternate aerodrome.
 
   - (6) The landing weight of the aeroplane will not exceed the maximum landing weight specified for the altitude and the expected air temperature for the estimated time of landing at the aerodrome at which it is intended to land and at any alternate aerodrome.
 
   - (7)
 
-    - (a) (i) In the case of a turbine-jet powered aeroplane, the landing distance required does not exceed at the aerodrome at which it is intended to land or at any alternate aerodrome, as the case may be, the landing distance available on—
+    - (a)
 
-      - (aa) the most suitable runway for a landing in still air conditions; and
+      - (i) In the case of a turbine-jet powered aeroplane, the landing distance required does not exceed at the aerodrome at which it is intended to land or at any alternate aerodrome, as the case may be, the landing distance available on—
 
-      - (bb) the runway that may be required for landing because of the forecast wind conditions.
+        - (aa) the most suitable runway for a landing in still air conditions; and
 
-        - (ii) In the case of an aeroplane powered by turbine propeller or piston engines, the landing distances required, respectively specified as being appropriate to aerodromes of destination and alternate aerodromes, do not exceed at the aerodrome at which it is intended to land or at any alternate aerodrome, as the case may be, the landing distance available on—
+        - (bb) the runway that may be required for landing because of the forecast wind conditions.
 
-      - (aa) the most suitable runway for a landing in still air conditions; and
+      - (ii) In the case of an aeroplane powered by turbine propeller or piston engines, the landing distances required, respectively specified as being appropriate to aerodromes of destination and alternate aerodromes, do not exceed at the aerodrome at which it is intended to land or at any alternate aerodrome, as the case may be, the landing distance available on—
 
-      - (bb) the runway that may be required for landing because of the forecast wind conditions:
+        - (aa) the most suitable runway for a landing in still air conditions; and
+
+        - (bb) the runway that may be required for landing because of the forecast wind conditions:
 
         - Provided that if an alternate aerodrome is designated in the flight plan, the specified landing distance required may be that appropriate to an alternate aerodrome when assessing the ability of the aeroplane to satisfy this condition at the aerodrome of destination.
 
@@ -254,15 +242,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
         - (bb) not more than 50 per cent of the forecast wind component opposite to the direction of landing or not less than 150 per cent of the forecast wind component in the direction of landing in the case of the runway that may be required for landing because of the forecast wind conditions. (L.N. 77 of 2008)
 
-- 5.
-
-- Weight and Performance of Public Transport Aeroplanes
-
-- classified as Aeroplanes of Performance Group C
-
-- in their Certificate of Airworthiness
-
-- With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness in which the aeroplane is designated as being of performance group C shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied—
+- 5. Weight and Performance of Public Transport Aeroplanes classified as Aeroplanes of Performance Group C in their Certificate of Airworthiness With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness in which the aeroplane is designated as being of performance group C shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied—
 
   - (1) That weight does not exceed the maximum take-off weight specified for the altitude and the air temperature at the aerodrome at which the take-off is to be made.
 
@@ -290,7 +270,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (iv) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off;
 
-    - and plotted from a point 50 feet above the end of the take-off distance required at the aerodrome at which the take-off is to be made to a height of 1500 feet above the aerodrome shows that the aeroplane will clear any obstacle in its path by a vertical interval of not less than 35 feet; and if it is intended that the aeroplane shall change its direction of flight by more than 15o before reaching 1500 feet the vertical interval shall be not less than 50 feet while the aircraft is changing direction. (L.N. 77 of 2008)
+    - and plotted from a point 50 feet above the end of the take-off distance required at the aerodrome at which the take-off is to be made to a height of 1 500 feet above the aerodrome shows that the aeroplane will clear any obstacle in its path by a vertical interval of not less than 35 feet; and if it is intended that the aeroplane shall change its direction of flight by more than 15° before reaching 1 500 feet the vertical interval shall be not less than 50 feet while the aircraft is changing direction. (L.N. 77 of 2008)
 
     - (b) For the purpose of sub-paragraph (a) hereof an obstacle shall be deemed to be in the path of the aeroplane if the distance from the obstacle to the nearest point on the ground below the intended line of flight of the aeroplane does not exceed 75 metres.
 
@@ -298,7 +278,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
   - (4)
 
-    - (a) In the case of an aeroplane which is intended to be flown for any period before reaching a height of 1500 feet above the aerodrome from which the take-off is to be made in conditions which will not ensure that any obstacles can be located by means of visual observation, the net take-off flight path with one power unit inoperative specified as being appropriate to the factors contained in sub-paragraphs (i) to (iv) of condition 3(a) in this Regulation and plotted from the point on the net take-off flight path with all power units operating specified as being appropriate to those factors at which in the meteorological conditions expected for the flight the loss of visual reference would occur, shows that the aeroplane will clear by a vertical interval of not less than 35 feet any obstacle in its path; and if it is intended that the aeroplane shall change its direction of flight by more than 15o before reaching 1500 feet the vertical interval shall not be less than 50 feet during the change of direction. (L.N. 77 of 2008)
+    - (a) In the case of an aeroplane which is intended to be flown for any period before reaching a height of 1 500 feet above the aerodrome from which the take-off is to be made in conditions which will not ensure that any obstacles can be located by means of visual observation, the net take-off flight path with one power unit inoperative specified as being appropriate to the factors contained in sub-paragraphs (i) to (iv) of condition 3(a) in this Regulation and plotted from the point on the net take-off flight path with all power units operating specified as being appropriate to those factors at which in the meteorological conditions expected for the flight the loss of visual reference would occur, shows that the aeroplane will clear by a vertical interval of not less than 35 feet any obstacle in its path; and if it is intended that the aeroplane shall change its direction of flight by more than 15° before reaching 1 500 feet the vertical interval shall not be less than 50 feet during the change of direction. (L.N. 77 of 2008)
 
     - (b) For the purpose of sub-paragraph (a) hereof an obstacle shall be deemed to be in the path of the aeroplane if the distance from the obstacle to the nearest point on the ground below the intended line of flight of the aeroplane does not exceed—
 
@@ -310,7 +290,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (c) In assessing the ability of the aerodrome to satisfy this condition it shall not be assumed to make a change of direction of a radius less than the specified radius of steady turn.
 
-  - (5) The aeroplane at any time after it reaches a height of 1500 feet above the aerodrome from which the take-off is made will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom, and with the other power unit or power units operating within the specified maximum continuous power conditions, be capable of continuing the flight at altitudes not less than the relevant minimum altitude for safe flight stated in, or calculated from the information contained in, the operations manual relating to the aeroplane to a point 1500 feet above an aerodrome at which a safe landing can be made and after arrival at that point be capable of maintaining that height:
+  - (5) The aeroplane at any time after it reaches a height of 1 500 feet above the aerodrome from which the take-off is made will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom, and with the other power unit or power units operating within the specified maximum continuous power conditions, be capable of continuing the flight at altitudes not less than the relevant minimum altitude for safe flight stated in, or calculated from the information contained in, the operations manual relating to the aeroplane to a point 1 500 feet above an aerodrome at which a safe landing can be made and after arrival at that point be capable of maintaining that height:
 
     - Provided that in assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to be capable of flying at any point on its route at an altitude exceeding the performance ceiling, with all power units operating, specified as being appropriate to its estimated weight at that point.
 
@@ -338,9 +318,9 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
   - (8) As an alternative to condition (7) of this Regulation, the distance required by the aeroplane, with all power units operating or with one power unit inoperative, to land in accordance with specified data for short field landing, does not at the aerodrome of intended destination and at any alternate aerodrome exceed the landing distance available on the most suitable runway for a landing in still air conditions and on the runway that may be required for landing because of the forecast wind conditions; and for the purpose of this condition the distance required to land from the appropriate heights shall be taken to be that specified as being appropriate to the factors set forth in sub-paragraphs (a) to (e) of condition (7) of this Regulation and the appropriate height shall be— (L.N. 77 of 2008)
 
-    - (a) for a landing with all power units operating-any height between 30 and 50 feet in Hong Kong and 50 feet elsewhere; and
+    - (a) for a landing with all power units operating—any height between 30 and 50 feet in Hong Kong and 50 feet elsewhere; and
 
-    - (b) for a landing with one power unit inoperative-50 feet in Hong Kong and elsewhere:
+    - (b) for a landing with one power unit inoperative—50 feet in Hong Kong and elsewhere:
 
       - Provided that—
 
@@ -348,15 +328,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
         - (ii) the distance required by the aeroplane to land shall be determined in accordance with condition (7) and not in accordance with this condition if it is intended to land at night, or when the cloud ceiling or ground visibility forecast for the estimated time of landing at the aerodrome of intended destination and at any alternate aerodrome at which it is intended to land in accordance with specified data for short field landing with all power units operating are less than 500 feet and one nautical mile respectively.
 
-- 6.
-
-- Weight and Performance of Public Transport Aeroplanes
-
-- classified as Aeroplanes of Performance Group D
-
-- in their Certificate of Airworthiness
-
-- With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness in which the aeroplane is designated as being of performance group D shall not fly for the purpose of public transport at night or when the cloud ceiling or visibility prevailing at the aerodrome of departure and forecast for the estimated time of landing at the aerodrome at which it is intended to land and at any alternate aerodrome are less than 1000 feet and one nautical mile respectively and shall not fly for the purpose of public transport at any other time unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied—
+- 6. Weight and Performance of Public Transport Aeroplanes classified as Aeroplanes of Performance Group D in their Certificate of Airworthiness With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness in which the aeroplane is designated as being of performance group D shall not fly for the purpose of public transport at night or when the cloud ceiling or visibility prevailing at the aerodrome of departure and forecast for the estimated time of landing at the aerodrome at which it is intended to land and at any alternate aerodrome are less than 1 000 feet and one nautical mile respectively and shall not fly for the purpose of public transport at any other time unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied—
 
   - (1) That weight does not exceed the maximum take-off weight specified for the altitude and air temperature at the aerodrome at which the take-off is to be made.
 
@@ -384,13 +356,13 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (iii) the air temperature at the aerodrome; and
 
-      - (iv) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off, and plotted from a point 50 feet above the end of the take-off distance required at the aerodrome at which the take-off is to be made to the point at which the aeroplane reaches a height of 1000 feet above the aerodrome shows that the aeroplane will clear any obstacle in its path by a vertical interval of not less than 35 feet except that if it is intended that the aeroplane shall change its direction of flight by more than 15o before reaching 1000 feet the vertical interval shall be not less than 50 feet while the aircraft is changing direction.
+      - (iv) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off, and plotted from a point 50 feet above the end of the take-off distance required at the aerodrome at which the take-off is to be made to the point at which the aeroplane reaches a height of 1 000 feet above the aerodrome shows that the aeroplane will clear any obstacle in its path by a vertical interval of not less than 35 feet except that if it is intended that the aeroplane shall change its direction of flight by more than 15° before reaching 1 000 feet the vertical interval shall be not less than 50 feet while the aircraft is changing direction.
 
     - (b) For the purpose of sub-paragraph (a) hereof an obstacle shall be deemed to be in the path of the aeroplane if the distance from the obstacle to the nearest point on the ground below the intended line of flight of the aeroplane does not exceed 75 metres.
 
     - (c) In assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to make a change of direction of a radius less than the specified radius of steady turn.
 
-  - (4) The aeroplane, at any time after it reaches a height of 1000 feet above the aerodrome from which take-off is to be made, will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom, and with the other power unit or power units, if any, operating within the maximum specified continuous power conditions, be capable of continuing the flight at altitudes not less than the relevant minimum altitudes for safe flight stated in, or calculated from the information contained in, the operations manual relating to the aeroplane to a point 1000 feet above a place at which a safe landing can be made:
+  - (4) The aeroplane, at any time after it reaches a height of 1 000 feet above the aerodrome from which take-off is to be made, will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom, and with the other power unit or power units, if any, operating within the maximum specified continuous power conditions, be capable of continuing the flight at altitudes not less than the relevant minimum altitudes for safe flight stated in, or calculated from the information contained in, the operations manual relating to the aeroplane to a point 1 000 feet above a place at which a safe landing can be made:
 
     - Provided that in assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to be capable of flying at any point on its route at an altitude exceeding the performance ceiling with all power units operating specified as being appropriate to its estimated weight at that point.
 
@@ -416,11 +388,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (ii) not more than 50 per cent of the forecast wind component opposite to the direction of landing or not less than 150 per cent of the forecast wind component in the direction of landing in the case of the runway that may be required for landing because of the forecast wind conditions.
 
-- 7. Weight and Performance of Public Transport Aeroplanes
-
-- classified as Aeroplanes of Performance Group E
-
-- in their Certificates of Airworthiness
+- 7. Weight and Performance of Public Transport Aeroplanes classified as Aeroplanes of Performance Group E in their Certificates of Airworthiness
 
   - (1) With reference to Article 29(1) of this Order an aeroplane registered in Hong Kong in respect of which there is in force under this Order a certificate of airworthiness in which the aeroplane is designated as being of performance group E shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied—
 
@@ -440,9 +408,9 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (iv) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off.
 
-    - (c) The aeroplane, at any time after it reaches a height of 1000 feet above the aerodrome from which take-off is to be made, will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom, and with the other power unit or power units, if any, operating within the specified maximum continuous power conditions, be capable of continuing the flight at altitudes not less than the relevant minimum altitude for safe flight stated in, or calculated from the information contained in, the operations manual relating to the aeroplane to a point 1000 feet above a place at which a safe landing can be made: (L.N. 77 of 2008)
+    - (c) The aeroplane, at any time after it reaches a height of 1 000 feet above the aerodrome from which take-off is to be made, will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom, and with the other power unit or power units, if any, operating within the specified maximum continuous power conditions, be capable of continuing the flight at altitudes not less than the relevant minimum altitude for safe flight stated in, or calculated from the information contained in, the operations manual relating to the aeroplane to a point 1 000 feet above a place at which a safe landing can be made: (L.N. 77 of 2008)
 
-      - Provided that in assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to be capable of flying at any point on its route or on any planned diversion therefrom at an altitude exceeding that at which it is capable of a rate of climb with all power units operating within the maximum continuous power conditions specified of 150 feet per minute and if it is necessary for it to be flown solely by reference to instuments, be capable with one power unit inoperative, of a rate of climb of 100 feet per minute.
+      - Provided that in assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to be capable of flying at any point on its route or on any planned diversion therefrom at an altitude exceeding that at which it is capable of a rate of climb with all power units operating within the maximum continuous power conditions specified of 150 feet per minute and if it is necessary for it to be flown solely by reference to instruments, be capable with one power unit inoperative, of a rate of climb of 100 feet per minute.
 
     - (d) The landing weight of the aeroplane for the altitude and the expected air temperature for the estimated time of landing at the aerodrome at which it is intended to land and at any alternate aerodrome will not exceed the maximum landing weight specified—
 
@@ -458,19 +426,13 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (iii) the temperature in the specified international standard atmosphere appropriate to the altitude at the aerodrome. (L.N. 77 of 2008)
 
-  - (2) An aeroplane designated as aforesaid as an aeroplane of performance group E shall not fly for the purpose of public transport at night or when the cloud ceiling or visibility prevailing at the aerodrome of departure and forecast for the estimated time of landing at the aerodrome at which it is intended to land and at any alternate aerodrome are less than 1000 feet and one nautical mile respectively:
+  - (2) An aeroplane designated as aforesaid as an aeroplane of performance group E shall not fly for the purpose of public transport at night or when the cloud ceiling or visibility prevailing at the aerodrome of departure and forecast for the estimated time of landing at the aerodrome at which it is intended to land and at any alternate aerodrome are less than 1 000 feet and one nautical mile respectively:
 
     - Provided that the foregoing prohibition shall not apply if the aeroplane is capable, in the en-route configuration and with one power unit inoperative, of a rate of climb of 150 feet per minute.
 
-- 8.
+- (E.R. 1 of 2013)
 
-- Weight and Performance of Public Transport Aeroplanes
-
-- classified as Aeroplanes of Performance Group X in
-
-- their Certificates of Airworthiness
-
-- With reference to Article 29(1) of this Order an aeroplane in respect of which there is in force under this Order a certificate of airworthiness designating the aeroplane as being of performance group X shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied:
+- 8. Weight and Performance of Public Transport Aeroplanes classified as Aeroplanes of Performance Group X in their Certificates of Airworthiness With reference to Article 29(1) of this Order an aeroplane in respect of which there is in force under this Order a certificate of airworthiness designating the aeroplane as being of performance group X shall not fly for the purpose of public transport unless the weight of the aeroplane at the commencement of the take-off run is such that the following conditions are satisfied:
 
   - (1)
 
@@ -512,25 +474,27 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - whichever is the less.
 
-      - (c) In assessing the ability of the aeroplane to satisfy this condition, insofar as it relates to flight path, it shall not be assumed to make a change of direction of a radius less than the radius of steady turn corresponding to an angle of bank of 15o.
+      - (c) In assessing the ability of the aeroplane to satisfy this condition, insofar as it relates to flight path, it shall not be assumed to make a change of direction of a radius less than the radius of steady turn corresponding to an angle of bank of 15°.
 
   - (2)
 
-    - (i) (a) Subject to sub-paragraph (b), the weight of the aeroplane at any point on the route or any planned diversion therefrom, having regard to the fuel and oil expected to be consumed up to that point, shall be such that the aeroplane with one power unit inoperative and the other power unit or units operating within the maximum continuous power conditions specified, will be capable of a rate of climb of at least K(Vso/100)2 feet per minute at an altitude not less than the minimum altitude for safe flight stated in or calculated from the information contained in the operations manual relating to the aeroplane where Vso is in knots and K has the value of 797-1060/N, N being the number of power units installed. (L.N. 77 of 2008)
+    - (i)
 
-      - (b) As an alternative to (a) the aeroplane may be flown at an altitude from which, in the event of failure of one power unit, it is capable of reaching an aerodrome where a landing can be made in accordance with condition (3)(ii) in this Regulation relating to an alternate aerodrome. In that case the weight of the aeroplane shall be such that, with the remaining power unit or units operating within the maximum continuous power conditions specified, it is capable of maintaining a minimum altitude on the route to such aerodrome of 2000 feet above all obstacles within 10 nautical miles on either side of the intended track:
+      - (a) Subject to sub-paragraph (b), the weight of the aeroplane at any point on the route or any planned diversion therefrom, having regard to the fuel and oil expected to be consumed up to that point, shall be such that the aeroplane with one power unit inoperative and the other power unit or units operating within the maximum continuous power conditions specified, will be capable of a rate of climb of at least K(Vso/100)2 feet per minute at an altitude not less than the minimum altitude for safe flight stated in or calculated from the information contained in the operations manual relating to the aeroplane where Vso is in knots and K has the value of 797−1060/N, N being the number of power units installed. (L.N. 77 of 2008)
+
+      - (b) As an alternative to (a) the aeroplane may be flown at an altitude from which, in the event of failure of one power unit, it is capable of reaching an aerodrome where a landing can be made in accordance with condition (3)(ii) in this Regulation relating to an alternate aerodrome. In that case the weight of the aeroplane shall be such that, with the remaining power unit or units operating within the maximum continuous power conditions specified, it is capable of maintaining a minimum altitude on the route to such aerodrome of 2 000 feet above all obstacles within 10 nautical miles on either side of the intended track:
 
         - Provided that where the operator of the aeroplane is satisfied, taking into account the navigation aids which can be made use of by aeroplane on the route that the commander of the aeroplane will be able to maintain his intended track on that route within a margin of 5 nautical miles, the foregoing provisions of this sub-paragraph shall have effect as if 5 nautical miles were substituted therein for 10 nautical miles and
 
         - (aa) the rate of climb, specified for the appropriate weight and altitude, used in calculating the flight path shall be reduced by an amount equal to K(Vso/100)2 feet per minute;
 
-        - (bb) the aeroplane shall with the climb requirements of condition (2)(i)(a) at 1000 feet above the chosen aerodrome;
+        - (bb) the aeroplane shall with the climb requirements of condition (2)(i)(a) at 1 000 feet above the chosen aerodrome;
 
         - (cc) account shall be taken of the effect of wind and temperature on the flight path; and
 
         - (dd) the weight of the aeroplane may be assumed to be progressively reduced by normal consumption of fuel and oil.
 
-    - (ii) An aeroplane having four power units shall, if any two power units become inoperative at any point along the route or any planned diversion therefrom, being a point more than 90 minutes flying time (assuming all power units to be operating) from the nearest aerodrome at which a landing can be made in compliance with condition (3)(ii) of this Regulation relating to an alternate aerodrome be capable of continuing the flight at an altitude of not less than 1000 feet above ground level to a point above that aerodrome. In assessing the ability of the aeroplane to satisfy this condition, it shall be assumed that the remaining power units will operate within the specified maximum continuous power conditions, and account shall be taken of the temperature and wind conditions expected for the flight.
+    - (ii) An aeroplane having four power units shall, if any two power units become inoperative at any point along the route or any planned diversion therefrom, being a point more than 90 minutes flying time (assuming all power units to be operating) from the nearest aerodrome at which a landing can be made in compliance with condition (3)(ii) of this Regulation relating to an alternate aerodrome be capable of continuing the flight at an altitude of not less than 1 000 feet above ground level to a point above that aerodrome. In assessing the ability of the aeroplane to satisfy this condition, it shall be assumed that the remaining power units will operate within the specified maximum continuous power conditions, and account shall be taken of the temperature and wind conditions expected for the flight.
 
   - (3)
 
@@ -552,53 +516,25 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (dd) not more than 50 per cent of the forecast wind component opposite to the direction of landing or not less then 150 per cent of the forecast wind component in the direction of landing in the case of the runway that may be required for landing because of the forecast wind conditions.
 
-- 9.
-
-- Weight and Performance of Public Transport Helicopter
-
-- classified as Helicopters of Performance Group A in
-
-- their Certificate of Airworthiness
-
-- With reference to Article 29(1) of this Order a helicopter registered in Hong Kong in respect of which there is in force under the Order a Certificate of Airworthiness in which the helicopter is designated as being of performance Group A shall not fly for the purpose of public transport unless the weight of the helicopter at the commencement of take-off is such that the following conditions are satisfied:
+- 9. Weight and Performance of Public Transport Helicopter classified as Helicopters of Performance Group A in their Certificate of Airworthiness With reference to Article 29(1) of this Order a helicopter registered in Hong Kong in respect of which there is in force under the Order a Certificate of Airworthiness in which the helicopter is designated as being of performance Group A shall not fly for the purpose of public transport unless the weight of the helicopter at the commencement of take-off is such that the following conditions are satisfied:
 
   - (1) The weight does not exceed the maximum take-off weight specified for the altitude and the air temperature at the site from which the take-off is to be made.
 
   - (2) The landing weight of the helicopter will not exceed the maximum landing weight specified for the altitude and the expected air temperature for the estimated time of landing at the site at which it is intended to land and at any alternate site.
 
-- 10.
-
-- Weight and Performance of Public Transport Helicopter
-
-- classified as helicopters of Performance Group A
-
-- (Restricted) in their Certificate of Airworthiness
-
-- With reference to Article 29(1), a helicopter registered in Hong Kong in respect of which there is in force under the Order a certificate of airworthiness in which the helicopter is designated as being of performance group A (restricted) shall not fly for the purpose of public transport when the cloud ceiling or visibility prevailing at the departure site and forecast for the estimated time of landing at the site at which it is intended to land and at any alternate site are less than 500 feet and 1000 metres respectively and shall not fly for the purpose of public transport at any other time unless the weight of the helicopter at the commencement of take off is such that the following conditions are satisfied:
+- 10. Weight and Performance of Public Transport Helicopter classified as helicopters of Performance Group A (Restricted) in their Certificate of Airworthiness With reference to Article 29(1), a helicopter registered in Hong Kong in respect of which there is in force under the Order a certificate of airworthiness in which the helicopter is designated as being of performance group A (restricted) shall not fly for the purpose of public transport when the cloud ceiling or visibility prevailing at the departure site and forecast for the estimated time of landing at the site at which it is intended to land and at any alternate site are less than 500 feet and 1 000 metres respectively and shall not fly for the purpose of public transport at any other time unless the weight of the helicopter at the commencement of take off is such that the following conditions are satisfied:
 
   - (1) The weight does not exceed the maximum take-off weight specified for the altitude and the air temperature at the site from which the take-off is to be made.
 
   - (2) The landing weight of the helicopter will not exceed the maximum landing weight specified for the altitude and the expected air temperature for the estimated time of landing at the site at which it is intended to land and at any alternate site.
 
-- 11.
-
-- Weight and Performance of Public Transport Helicopters
-
-- classified as Helicopters of Performance Group B in
-
-- their Certificate of Airworthiness
-
-- With reference to Article 29(1) of this Order a helicopter registered in Hong Kong in respect of which there is in force under this Order a Certificate of Airworthiness in which the helicopter is designated as being of performance Group B shall not fly for the purpose of public transport at night or out of sight of the surface or when the cloud ceiling or visibility prevailing at the departure site and forecast for the estimated time of landing at the site at which it is intended to land are less than 600 feet and 1000 metres respectively and shall not fly for the purpose of public transport at any other time unless the weight of the helicopter at the commencement of take-off is such that the following conditions are satisfied:
+- 11. Weight and Performance of Public Transport Helicopters classified as Helicopters of Performance Group B in their Certificate of Airworthiness With reference to Article 29(1) of this Order a helicopter registered in Hong Kong in respect of which there is in force under this Order a Certificate of Airworthiness in which the helicopter is designated as being of performance Group B shall not fly for the purpose of public transport at night or out of sight of the surface or when the cloud ceiling or visibility prevailing at the departure site and forecast for the estimated time of landing at the site at which it is intended to land are less than 600 feet and 1 000 metres respectively and shall not fly for the purpose of public transport at any other time unless the weight of the helicopter at the commencement of take-off is such that the following conditions are satisfied:
 
   - (1) The weight does not exceed the maximum take-off weight specified for the altitude and the air temperature at the site at which the take-off is to be made.
 
   - (2) The landing weight of the helicopter will not exceed the maximum landing weight specified for the altitude and the expected air temperature for the estimated time of landing at the site at which it is intended to land and at any alternate site.
 
-- 12.
-
-- Noise and Vibration caused by Aircraft on Aerodromes
-
-- With reference to Article 78 of this Order, the conditions under which noise and vibration may be caused by aircraft (including military aircraft) on Government aerodromes, licensed aerodromes or on aerodromes at which the manufacture, repair or maintenance of aircraft is carried out by persons carrying on business as manufacturers or repairers of aircraft, shall be as follows, that is to say, that, whether in the course of the manufacture of the aircraft or otherwise—
+- 12. Noise and Vibration caused by Aircraft on Aerodromes With reference to Article 78 of this Order, the conditions under which noise and vibration may be caused by aircraft (including military aircraft) on Government aerodromes, licensed aerodromes or on aerodromes at which the manufacture, repair or maintenance of aircraft is carried out by persons carrying on business as manufacturers or repairers of aircraft, shall be as follows, that is to say, that, whether in the course of the manufacture of the aircraft or otherwise—
 
   - (a) the aircraft is taking off or landing; or
 
@@ -614,13 +550,9 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
 - 13. (Repealed 36 of 1999 s. 3)
 
-- 14. Aeroplanes flying for the Purpose of Public Transport of
+- 14. Aeroplanes flying for the Purpose of Public Transport of Passengers—Aerodrome Facilities for Approach to Landing and Landing
 
-- Passengers-Aerodrome Facilities for Approach to
-
-- Landing and Landing
-
-  - (1) This Regulation shall apply to every aeroplane registered in Hong Kong engaging on a flight for the purpose of the public transport of passengers on a scheduled journey and to every aeroplane so registered whose maximum total weight authorised exceeds 5700 kg engaging on such a flight otherwise than on a scheduled journey.
+  - (1) This Regulation shall apply to every aeroplane registered in Hong Kong engaging on a flight for the purpose of the public transport of passengers on a scheduled journey and to every aeroplane so registered whose maximum total weight authorised exceeds 5 700 kg engaging on such a flight otherwise than on a scheduled journey.
 
   - (2) For the purposes of Article 27(1)(c) of this Order, the following manning and equipment are prescribed in relation to aerodromes intended to be used for landing or as an alternate aerodrome by aircraft to which this Regulation applies—
 
@@ -640,21 +572,19 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
       - (v) global positioning system. (L.N. 77 of 2008)
 
-  - It shall be sufficient if the equipment specified in sub-paragraph (c) is provided, even if for the time being it is not in operation.
+    - It shall be sufficient if the equipment specified in sub-paragraph (c) is provided, even if for the time being it is not in operation.
 
   - (3) An aircraft to which this Regulation applies shall not land or make an approach to landing at any aerodrome unless services and equipment according with paragraph (2) of this Regulation are provided and are in operation at that aerodrome, and can be made use of by that aircraft, and, in the case of the navigation aids specified in sub-paragraph (c), items (i) to (iv), instructions and procedures for the use of the aid are included in the operations manual relating to the aeroplane. A person shall be deemed not to have contravened the provisions of this paragraph if he proves that— (L.N. 77 of 2008)
 
-    - (a) for the time being use could not be made of the radio navigation aids provided under paragraph (2)(c) whether by reason of those aids not being in operation or of the unserviceability of equipment in the aircraft iteself; and
+    - (a) for the time being use could not be made of the radio navigation aids provided under paragraph (2)(c) whether by reason of those aids not being in operation or of the unserviceability of equipment in the aircraft itself; and
 
     - (b) the approach to landing was made in accordance with instructions and procedures appropriate to that circumstance and included in the operations manual.
 
   - (4) An aircraft to which this Regulation applies shall be equipped with the equipment necessary to enable use to be made of at least one of the navigation aids specified in paragraph 2(c) of this Regulation and in use for landing at the aerodrome. Nothing in this paragraph shall require the duplication of any equipment carried in pursuance of any other provision of this Order of any regulation made thereunder.
 
-- 15.
+- (E.R. 1 of 2013)
 
-- Pilot Maintenance-Prescribed Repair or Replacements
-
-- With reference to Article 11(3) of this Order the following repairs or replacements are hereby prescribed—
+- 15. Pilot Maintenance—Prescribed Repair or Replacements With reference to Article 11(3) of this Order the following repairs or replacements are hereby prescribed—
 
   - (a) replacement of landing gear tyres, landing skids or skid shoes; (L.N. 77 of 2008)
 
@@ -690,11 +620,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
   - (q) replacement of VHF communication equipment, being equipment which is not combined with navigation equipment. (L.N. 77 of 2008)
 
-- 16. Mandatory Reporting-Prescribed Reportable
-
-- Occurrences, Time and Manner of Reporting
-
-- and Information to be reported
+- 16. Mandatory Reporting—Prescribed Reportable Occurrences, Time and Manner of Reporting and Information to be reported
 
   - (1) With reference to Article 86(1) of this Order, the following reportable occurrences are hereby prescribed, that is to say those—
 
@@ -748,17 +674,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (i) in the case of a report made by the commander of an aircraft or a person referred to in sub-paragraph (c) or (d) of Article 86(1) of this Order the address or telephone number at which communications should be made to him, if different from that of his place of employment.
 
-- 17.
-
-- Minimum Navigation Performance and Height
-
-- Keeping Performance Specifications-
-
-- Prescribed Airspace and Navigation
-
-- Performance Capability
-
-- (L.N. 77 of 2008)
+- 17. Minimum Navigation Performance and Height Keeping Performance Specifications—Prescribed Airspace and Navigation Performance Capability (L.N. 77 of 2008)
 
   - (1) With reference to Article 36 of this Order the following navigation performance capability is hereby prescribed, that is to say, a capability to ensure that—
 
@@ -782,63 +698,67 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
   - (2) For the purposes of Article 36 of this Order the following airspace is hereby prescribed, that is to say, the airspace from flight level 285 to flight level 420 within the area defined by rhumb lines joining successively the following points— (L.N. 77 of 2008)
 
-  - 34o10’N 17o48’W | 65o00’N 60o00’W | 30o00’N 25o00’W
+  - 34°10’N 17°48’W | 61°00’N 63°00’W
 
-  - 36o30’N 15o00’W | 64o00’N 63o00’W | 30o00’N 20o00’W
+  - 36°30’N 15°00’W | 57°00’N 59°00’W
 
-  - 42o00’N 15o00’W | 61o00’N 63o00’W | 31o39’N 17o25’W
+  - 42°00’N 15°00’W | 53°00’N 54°00’W
 
-  - 43o00’N 13o00’W | 57o00’N 59o00’W
+  - 43°00’N 13°00’W | 49°00’N 51°00’W
 
-  - 45o00’N 13o00’W | 53o00’N 54o00’W
+  - 45°00’N 13°00’W | 45°00’N 51°00’W
 
-  - 45o00’N 08o00’W | 49o00’N 51o00’W
+  - 45°00’N 08°00’W | 45°00’N 53°00’W
 
-  - 51o00’N 08o00’W | 45o00’N 51o00’W
+  - 51°00’N 08°00’W | 43°36’N 60°00’W
 
-  - 51o00’N 15o00’W | 45o00’N 53o00’W
+  - 51°00’N 15°00’W | 41°52’N 67°00’W
 
-  - 54o00’N 15o00’W | 43o36’N 60o00’W
+  - 54°00’N 15°00’W | 39°00’N 67°00’W
 
-  - 54o34’N 10o00’W | 41o52’N 67o00’W
+  - 54°34’N 10°00’W | 38°35’N 68°53’W
 
-  - 61o00’N 10o00’W | 39o00’N 67o00’W
+  - 61°00’N 10°00’W | 38°30’N 69°15’W
 
-  - 61o00’N 00o00’ | 38o35’N 68o53’W
+  - 61°00’N 00°00’ | 38°30’N 60°00’W
 
-  - 82o00’N 00o00’ | 38o30’N 69o15’W
+  - 82°00’N 00°00’ | 27°00’N 60°00’W
 
-  - 82o00’N 30o00’E | 38o30’N 60o00’W
+  - 82°00’N 30°00’E | 27°00’N 40°00’W
 
-  - North Pole | 27o00’N 60o00’W
+  - North Pole | 22°18’N 40°00’W
 
-  - 82o00’N 60o00’W | 27o00’N 40o00’W
+  - 82°00’N 60°00’W | 17°00’N 37°30’W
 
-  - 78o00’N 75o00’W | 22o18’N 40o00’W
+  - 78°00’N 75°00’W | 24°00’N 25°00’W
 
-  - 76o00’N 76o00’W | 17o00’N 37o30’W
+  - 76°00’N 76°00’W | 30°00’N 25°00’W
 
-  - 65o00’N 57o45’W | 24o00’N 25o00’W
+  - 65°00’N 57°45’W | 30°00’N 20°00’W
+
+  - 65°00’N 60°00’W | 31°39’N 17°25’W
+
+  - 64°00’N 63°00’W
 
 - (L.N. 77 of 2008)
 
-- thence by that part of the arc of a circle radius 100 nautical miles centred on 33o04’N 16o21’W to 34o10’N 17o48’W
+- thence by that part of the arc of a circle radius 100 nautical miles centred on 33°04’N 16°21’W to 34°10’N 17°48’W
 
 - ANNEX TO SCHEDULE 15 | Regulation 3
 
-- WEIGHT AND PERFORMANCE OF PUBLIC TRANSPORT AEROPLANES
-
-- HAVING NO PERFORMANCE GROUP CLASSIFICATION IN THEIR
-
-- CERTIFICATE OF AIRWORTHINESS
+- Weight and Performance of Public Transport Aeroplanes having no Performance Group Classification in their Certificate of Airworthiness
 
 - Conditions (1) and (2) apply to all aeroplanes to which Regulation 3 applies;
 
 - Conditions (3) to (10) apply to all aeroplanes to which Regulation 3 applies;
 
-  - (i) of which the specified maximum total weight authorized exceeds 5700 kg, or
+    - (i) of which the specified maximum total weight authorized exceeds 5 700 kg, or
 
-  - (ii) of which the specified maximum total weight authorized does not exceed 5700 kg and which comply with neither condition (1)(a) nor condition (1)(b); Conditions (11) to (18) inclusive apply to all aeroplanes to which Regulation 3 applies of which the specified maximum total weight authorized does not exceed 5700 kg and which comply with condition (1)(a) or condition (1)(b) or with both those conditions. All aeroplanes
+    - (ii) of which the specified maximum total weight authorized does not exceed 5 700 kg and which comply with neither condition (1)(a) nor condition (1)(b);
+
+- Conditions (11) to (18) inclusive apply to all aeroplanes to which Regulation 3 applies of which the specified maximum total weight authorized does not exceed 5 700 kg and which comply with condition (1)(a) or condition (1)(b) or with both those conditions.
+
+- All aeroplanes
 
   - (1) Either—
 
@@ -846,9 +766,11 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (b) the stalling speed of the aeroplane in the landing configuration does not exceed 60 knots; or
 
-    - (c) the aeroplane, with any one of its power units inoperative and the remaining power unit or units operating within the maximum continuous power conditions specified, is capable of a gradient of climb of at least 1 in 200 at an altitude of 5000 feet in the specified international standard atmosphere.
+    - (c) the aeroplane, with any one of its power units inoperative and the remaining power unit or units operating within the maximum continuous power conditions specified, is capable of a gradient of climb of at least 1 in 200 at an altitude of 5 000 feet in the specified international standard atmosphere.
 
-  - (2) The weight of the aeroplane at the commencement of the take-off run does not exceed the maximum take-off weight, if any, specified for the altitude and the air temperature at the aerodrome at which the take-off is to be made. Aeroplanes of a specified maximum total weight authorized exceeding 5700 kg and aeroplanes of a specified maximum total weight authorized not exceeding 5700 kg which comply with neither condition (1)(a) nor condition (1)(b).
+  - (2) The weight of the aeroplane at the commencement of the take-off run does not exceed the maximum take-off weight, if any, specified for the altitude and the air temperature at the aerodrome at which the take-off is to be made.
+
+- Aeroplanes of a specified maximum total weight authorized exceeding 5 700 kg and aeroplanes of a specified maximum total weight authorized not exceeding 5 700 kg which comply with neither condition (1)(a) nor condition (1)(b).
 
   - (3)
 
@@ -858,51 +780,51 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (c) For the purposes of sub-paragraphs (a) and (b) the distance required by the aeroplane to attain a height of 50 feet shall be that appropriate to—
 
-  - (i) the weight of the aeroplane at the commencement of the take-off run;
+      - (i) the weight of the aeroplane at the commencement of the take-off run;
 
-  - (ii) the altitude at the aerodrome;
+      - (ii) the altitude at the aerodrome;
 
-  - (iii) the air temperature at the aerodrome;
+      - (iii) the air temperature at the aerodrome;
 
-  - (iv) the condition of the surface of the runway from which the take-off will be made;
+      - (iv) the condition of the surface of the runway from which the take-off will be made;
 
-  - (v) the slope of the surface of the aerodrome in the direction of take-off over the take-off run available and the emergency distance available, respectively; and
+      - (v) the slope of the surface of the aerodrome in the direction of take-off over the take-off run available and the emergency distance available, respectively; and
 
-  - (vi) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off.
+      - (vi) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off.
 
   - (4)
 
     - (a) The take-off flight path with one power unit inoperative and the remaining power unit or units operating within the maximum take-off power conditions specified, appropriate to—
 
-  - (i) the weight of the aeroplane at the commencement of the take-off run;
+      - (i) the weight of the aeroplane at the commencement of the take-off run;
 
-  - (ii) the altitude at the aerodrome;
+      - (ii) the altitude at the aerodrome;
 
-  - (iii) the air temperature at the aerodrome;
+      - (iii) the air temperature at the aerodrome;
 
-  - (iv)
+      - (iv)
 
-  - not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off,
+      - not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off,
 
-  - and plotted from a point 50 feet above the end of the appropriate factored distance required for take-off under condition (3)(b) of this Annex at the aerodrome at which the take-off is to be made, shows that the aeroplane will clear any obstacle in its path by a vertical interval of at least 35 feet except that if it is intended that an aeroplane shall change its direction by more than 15o the vertical interval shall be not less than 50 feet during the change of direction.
+    - and plotted from a point 50 feet above the end of the appropriate factored distance required for take-off under condition (3)(b) of this Annex at the aerodrome at which the take-off is to be made, shows that the aeroplane will clear any obstacle in its path by a vertical interval of at least 35 feet except that if it is intended that an aeroplane shall change its direction by more than 15° the vertical interval shall be not less than 50 feet during the change of direction.
 
     - (b) For the purpose of sub-paragraph (4)(a) an obstacle shall be deemed to be in the path of the aeroplane if the distance from the obstacle to the nearest point on the ground below the intended line of flight does not exceed—
 
-  - (i) a distance of 60 metres plus half the wing span of the aeroplane, plus one-eighth of the distance from such point to the end of the take-off distance available, measured along the intended line of flight; or
+      - (i) a distance of 60 metres plus half the wing span of the aeroplane, plus one-eighth of the distance from such point to the end of the take-off distance available, measured along the intended line of flight; or
 
-  - (ii) 900 metres
+      - (ii) 900 metres
 
-  - whichever is the less
+    - whichever is the less
 
-    - (c) In assessing the ability of the aeroplane to satisfy this condition, it shall not be assumed to make a change of direction of a radius less than a radius of steady turn corresponding to an angle of bank of 15o.
+    - (c) In assessing the ability of the aeroplane to satisfy this condition, it shall not be assumed to make a change of direction of a radius less than a radius of steady turn corresponding to an angle of bank of 15°.
 
   - (5) The aeroplane will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom and with the other power unit or units operating within the maximum continuous power conditions specified, be capable of continuing the flight clearing obstacles within 10 nautical miles either side of the intended track by a vertical interval of at least—
 
-    - (a) 1000 feet when the gradient of the flight path is not less than zero; or
+    - (a) 1 000 feet when the gradient of the flight path is not less than zero; or
 
-    - (b) 2000 feet when the gradient of the flight path is less than zero,
+    - (b) 2 000 feet when the gradient of the flight path is less than zero,
 
-  - to an aerodrome at which it can comply with condition (9), and on arrival over such aerodrome the flight path shall have a gradient of not less than zero at 1500 feet above the aerodrome.
+  - to an aerodrome at which it can comply with condition (9), and on arrival over such aerodrome the flight path shall have a gradient of not less than zero at 1 500 feet above the aerodrome.
 
   - For the purpose of this condition the gradient of climb of the aeroplane shall be taken to be one per cent less than that specified.
 
@@ -912,7 +834,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (b) the minimum altitudes necessary for compliance with conditions (5) and (7), as appropriate.
 
-  - (7) If, on the route to be flown or any planned diversion therefrom, the aeroplane will be engaged in a flight over water during which at any point it may be more than 90 minutes flying time in still air from the nearest shore, it will in the event of two power units becoming inoperative during such time and with the other power unit or units operating within the maximum continuous power conditions specified be capable of continuing the flight having regard to the meteorological conditions expected for the flight, clearing all obstacles within 10 nautical miles either side of the intended track by a vertical interval of at least 1000 feet, to an aerodrome at which a safe landing can be made.
+  - (7) If, on the route to be flown or any planned diversion therefrom, the aeroplane will be engaged in a flight over water during which at any point it may be more than 90 minutes flying time in still air from the nearest shore, it will in the event of two power units becoming inoperative during such time and with the other power unit or units operating within the maximum continuous power conditions specified be capable of continuing the flight having regard to the meteorological conditions expected for the flight, clearing all obstacles within 10 nautical miles either side of the intended track by a vertical interval of at least 1 000 feet, to an aerodrome at which a safe landing can be made.
 
   - (8) The landing weight of the aeroplane will not exceed the maximum landing weight, if any, specified for the altitude and the expected air temperature for the estimated time of landing at the aerodrome at which it is intended to land and at any alternate aerodrome.
 
@@ -948,27 +870,29 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (ii) the runway that may be required for landing because of the forecast wind conditions.
 
-  - For the purpose of these conditions the distance required to land from a height of 50 feet shall be determined in the manner provided in condition (9). Aeroplanes of a specified maximum total weight authorized not exceeding 5700 kg and which comply with either condition (1)(a) or condition (1)(b), or with both these conditions.
+  - For the purpose of these conditions the distance required to land from a height of 50 feet shall be determined in the manner provided in condition (9).
 
-  - (11) If the aeroplane is engaged in a flight at night or when the cloud ceiling or visibility prevailing at the aerodrome of departure and forecast for the estimated time of landing at the aerodrome of destination or at any alternate aerodrome are less than 1000 feet and one nautical mile respectively, it will, with any one of its power units inoperative and the remaining power unit or units operating within the maximum continuous power conditions specified, be capable of climbing at a gradient of at least 1 in 200 at an altitude of 2500 feet in the specified international standard atmosphere.
+  - Aeroplanes of a specified maximum total weight authorized not exceeding 5 700 kg and which comply with either condition (1)(a) or condition (1)(b), or with both these conditions.
+
+  - (11) If the aeroplane is engaged in a flight at night or when the cloud ceiling or visibility prevailing at the aerodrome of departure and forecast for the estimated time of landing at the aerodrome of destination or at any alternate aerodrome are less than 1 000 feet and one nautical mile respectively, it will, with any one of its power units inoperative and the remaining power unit or units operating within the maximum continuous power conditions specified, be capable of climbing at a gradient of at least 1 in 200 at an altitude of 2 500 feet in the specified international standard atmosphere.
 
   - (12)
 
     - (a) The distance required by the aeroplane to attain a height of 50 feet, with all power units operating within the maximum take-off power conditions specified, does not exceed the take-off run available at the aerodrome at which the take-off is to be made;
 
-      - (b) The distance required by the aeroplane to attain a height of 50 feet, with all power units operating within the maximum take-off power conditions specified, when multiplied by a factor of 1.33 does not exceed the emergency distance available at the aerodrome at which the take-off is to be made;
+    - (b) The distance required by the aeroplane to attain a height of 50 feet, with all power units operating within the maximum take-off power conditions specified, when multiplied by a factor of 1.33 does not exceed the emergency distance available at the aerodrome at which the take-off is to be made;
 
-      - (c) For the purposes of sub-paragraphs (a) and (b) the distance required by the aeroplane to attain a height of 50 feet shall be that appropriate to—
+    - (c) For the purposes of sub-paragraphs (a) and (b) the distance required by the aeroplane to attain a height of 50 feet shall be that appropriate to—
 
-        - (i) the weight of the aeroplane at the commencement of the take-off run;
+      - (i) the weight of the aeroplane at the commencement of the take-off run;
 
-        - (ii) the altitude at the aerodrome;
+      - (ii) the altitude at the aerodrome;
 
-        - (iii) the temperature in the specified international standard atmosphere appropriate to the altitude at the aerodrome or, if greater, the air temperature at the aerodrome less 15o centigrade;
+      - (iii) the temperature in the specified international standard atmosphere appropriate to the altitude at the aerodrome or, if greater, the air temperature at the aerodrome less 15° centigrade;
 
-        - (iv) the slope of the surface of the aerodrome in the direction of take-off over the take-off run available and the emergency distance available respectively; and
+      - (iv) the slope of the surface of the aerodrome in the direction of take-off over the take-off run available and the emergency distance available respectively; and
 
-        - (v) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off.
+      - (v) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off.
 
   - (13) The take-off flight path, with all power units operating within the maximum take-off power conditions specified, appropriate to—
 
@@ -976,9 +900,9 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (ii) the altitude at the aerodrome;
 
-    - (iii) the temperature in the specified international standard atmosphere appropriate to the altitude at the aerodrome, or, if greater, the air temperature at the aerodrome less 15o centigrade; and
+    - (iii) the temperature in the specified international standard atmosphere appropriate to the altitude at the aerodrome, or, if greater, the air temperature at the aerodrome less 15° centigrade; and
 
-    - (iv) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off, and plotted from a point 50 feet above the end of the factored distance required for take-off under condition (12)(b), at the aerodrome at which the take-off is to be made, shows that the aeroplane will clear any obstacle lying within 60 metres plus half the wing span of the aeroplane on either side of its path by a vertical interval of at least 35 feet. In assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to make a change of direction of a radius less than a radius of steady turn corresponding to an angle of bank of 15o.
+    - (iv) not more than 50 per cent of the reported wind component opposite to the direction of take-off or not less than 150 per cent of the reported wind component in the direction of take-off, and plotted from a point 50 feet above the end of the factored distance required for take-off under condition (12)(b), at the aerodrome at which the take-off is to be made, shows that the aeroplane will clear any obstacle lying within 60 metres plus half the wing span of the aeroplane on either side of its path by a vertical interval of at least 35 feet. In assessing the ability of the aeroplane to satisfy this condition it shall not be assumed to make a change of direction of a radius less than a radius of steady turn corresponding to an angle of bank of 15°.
 
   - (14) The aeroplane will, in the meteorological conditions expected for the flight, in the event of any one power unit becoming inoperative at any point on its route or on any planned diversion therefrom and with the other power unit or units, if any, operating within the maximum continuous power conditions specified, be capable of continuing the flight so as to reach a point above a place at which a safe landing can be made at a suitable height for such landing.
 
@@ -988,7 +912,7 @@ Articles 11(3), 14(1)(b), 27(1)(c), 28(4),
 
     - (b) the minimum altitudes necessary for compliance with condition (14).
 
-  - (16) If on the route to be flown or any planned diversion therefrom the aeroplane will be engaged in a flight over water during which at any point it may be more than 30 minutes flying time in still air from the nearest shore, it will, in the event of one power unit becoming inoperative during such time and with the other power unit or units operating within the maximum continuous power conditions specified, be capable of climbing at a gradient of at least 1 in 200 at an altitude of 5000 feet in the specified international standard atmosphere.
+  - (16) If on the route to be flown or any planned diversion therefrom the aeroplane will be engaged in a flight over water during which at any point it may be more than 30 minutes flying time in still air from the nearest shore, it will, in the event of one power unit becoming inoperative during such time and with the other power unit or units operating within the maximum continuous power conditions specified, be capable of climbing at a gradient of at least 1 in 200 at an altitude of 5 000 feet in the specified international standard atmosphere.
 
   - (17) The landing weight of the aeroplane will not exceed the maximum landing weight, if any, specified for the altitude and the expected air temperature for the estimated time of landing at the aerodrome at which it is intended to land and at any alternate aerodrome.
 

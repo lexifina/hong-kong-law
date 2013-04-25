@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 15]
 
-SCHEDULED INFECTIOUS AGENTS
+Scheduled Infectious Agents
 
 - 1. Bacillus anthracis (炭疽芽胞桿菌)
 

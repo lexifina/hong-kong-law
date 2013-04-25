@@ -1,18 +1,18 @@
-# SCHEDULE 15
+# Fifteenth Schedule
 
 [ss. 101A, 101E, 101I & 135]
 
-PROVISIONS RELATING TO BANKING REVIEW TRIBUNAL*
+Provisions relating to Banking Review Tribunal
 
-- 1.
+(Amended 3 of 2012 s. 20) (Fifteenth Schedule added 19 of 2005 s. 7) (Format changes—E.R. 1 of 2013)
 
-- Interpretation In this Schedule—
+- 1. Interpretation In this Schedule—
 
-  - “Chairman” (主席) means Chairman of the Review Tribunal;
+  - Chairman (主席) means Chairman of the Review Tribunal;
 
-  - “member” (成員) means a member of the Review Tribunal;
+  - member (成員) means a member of the Review Tribunal;
 
-  - “parties” (雙方), in relation to an application to the Review Tribunal for a review of a decision of the Monetary Authority, means the person making the application and the Monetary Authority.
+  - parties (雙方), in relation to an application to the Review Tribunal for a review of a decision of the Monetary Authority, means the person making the application and the Monetary Authority.
 
 - 2. Tenure of Chairman
 
@@ -103,9 +103,3 @@ PROVISIONS RELATING TO BANKING REVIEW TRIBUNAL*
   - (b) the parties to, and any witness, solicitor, counsel or other person involved in, a review,
 
 - shall have the same privileges and immunities in respect of the review as they would have if the review were civil proceedings before the Court of First Instance.
-
-- (Fifteenth Schedule added 19 of 2005 s. 7)
-
-Editorial Note:
-
-* (Amended 3 of 2012 s. 20)

@@ -1,8 +1,10 @@
-HAWKER REGULATION
+Hawker Regulation
 
 (Cap. 132, section 83A)
 
 [3 November 1972]
+
+(Format changes—E.R. 1 of 2013)
 
 Editorial Note:
 

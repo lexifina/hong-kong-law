@@ -1,9 +1,9 @@
-TELECOMMUNICATIONS (DESIGNATION OF FREQUENCY BANDS SUBJECT TO PAYMENT OF SPECTRUM UTILIZATION FEE) ORDER
+Telecommunications (Designation of Frequency Bands subject to Payment of Spectrum Utilization Fee) Order
 
-(Made by the Telecommunications Authority under section 32I(1) of the
+(Cap. 106, section 32I(1))
 
-Telecommunications Ordinance (Cap. 106) subject to the consultation
-
-required under section 32G(2) of the Ordinance)
+(Enacting provision omitted—E.R. 1 of 2013)
 
 [4 July 2001]
+
+(Format changes—E.R. 1 of 2013)

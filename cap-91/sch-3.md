@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 5A]
 
-PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5A
+Proceedings for which Legal Aid may be Given under Section 5A
 
-- PART I Description of proceedings
+- Part 1 Description of Proceedings
 
   - 1. In the Court of First Instance or Court of Appeal, civil proceedings brought, by the person seeking legal aid (claimant), for damages in a claim arising from personal injuries to, or the death of, any person (including proceedings for the defence to a counterclaim against the claimant and other proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the claim. (Amended 40 of 1989 s. 10; 25 of 1998 s. 2; L.N. 112 of 2012)
 
@@ -34,17 +34,13 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5A
 
       - (viii) a person registered as a registered landscape architect under the Landscape Architects Registration Ordinance (Cap. 516); and
 
-    - (b) the claim is, in the opinion of the Director, likely to exceed $60,000.
-
-  - (Added L.N. 112 of 2012)
+    - (b) the claim is, in the opinion of the Director, likely to exceed $60,000. (Added L.N. 112 of 2012)
 
   - 6. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
 
     - (a) the claim is made by the person in respect of the negligence of an insurer, appointed insurance agent or authorized insurance broker, as defined by section 2 of the Insurance Companies Ordinance (Cap. 41), in the performance of their functions for the taking out of the personal insurance that is the subject of the claim; and
 
-    - (b) the claim is, in the opinion of the Director, likely to exceed $60,000.
-
-  - (Added L.N. 112 of 2012)
+    - (b) the claim is, in the opinion of the Director, likely to exceed $60,000. (Added L.N. 112 of 2012)
 
   - 7. Civil proceedings in the Court of First Instance, Court of Appeal or District Court that are brought, by the person seeking legal aid, in respect of a claim for damages that falls within the following descriptions (including proceedings for the defence to a counterclaim against the person and other proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the claim—
 
@@ -52,23 +48,21 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5A
 
     - (b) the claim arises from—
 
-      - (i) an agreement for sale and purchase of the property, not being an agreement which, because of paragraph 5, 6 or 7 of Part III of this Schedule, is not regarded as having been entered into in respect of the property; or
+      - (i) an agreement for sale and purchase of the property, not being an agreement which, because of paragraph 5, 6 or 7 of Part 3 of this Schedule, is not regarded as having been entered into in respect of the property; or
 
       - (ii) a sale under the agreement described in sub-subparagraph (i); and
 
-    - (c) the claim is, in the opinion of the Director, likely to exceed $60,000.
-
-  - (Added L.N. 112 of 2012)
+    - (c) the claim is, in the opinion of the Director, likely to exceed $60,000. (Added L.N. 112 of 2012. Amended E.R. 1 of 2013)
 
   - 8. Civil proceedings in the Court of First Instance or Court of Appeal that are brought in respect of an appeal under the Labour Tribunal Ordinance (Cap. 25) relating to a claim to which the person seeking legal aid is a party in the capacity as an employee (including proceedings incidental to the civil proceedings), and proceedings in a higher court that are related to the appeal. (Added L.N. 112 of 2012)
 
-- PART II Excepted proceedings
+- Part 2 Excepted Proceedings
 
   - 1. (Repealed 43 of 1995 s. 14)
 
   - 2. Claims in the Court of First Instance or District Court for damages for assault and battery. (Added 27 of 1991 s. 20. Amended 43 of 1995 s. 14; 25 of 1998 s. 2)
 
-- Part III Interpretation Provisions
+- Part 3 Interpretation Provisions
 
   - 1. In this Schedule—
 
@@ -96,7 +90,7 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5A
 
     - subsidiary (附屬公司) means a subsidiary within the meaning of the Companies Ordinance (Cap. 32).
 
-  - 2. For the purposes of paragraph 7(a) of Part I of this Schedule, a residential property is a first-hand property if no agreement for sale and purchase has ever been entered into in respect of the property.
+  - 2. For the purposes of paragraph 7(a) of Part 1 of this Schedule, a residential property is a first-hand property if no agreement for sale and purchase has ever been entered into in respect of the property. (Amended E.R. 1 of 2013)
 
   - 3. For the purposes of paragraph 2 of this Part, in determining whether an agreement for sale and purchase has been entered into in respect of a residential property, paragraphs 4, 5, 6 and 7 of this Part apply.
 
@@ -126,4 +120,4 @@ PROCEEDINGS FOR WHICH LEGAL AID MAY BE GIVEN UNDER SECTION 5A
 
   - the agreement is not to be regarded as having been entered into in respect of any of those properties.
 
-  - 8. To avoid doubt, in determining whether a residential property is a first-hand property, the agreement for sale and purchase that is the subject of the claim or that relates to the sale giving rise to the claim is not to be taken into account. (Part III added L.N. 112 of 2012) (Schedule 3 added 54 of 1984 s. 27)
+  - 8. To avoid doubt, in determining whether a residential property is a first-hand property, the agreement for sale and purchase that is the subject of the claim or that relates to the sale giving rise to the claim is not to be taken into account. (Part 3 added L.N. 112 of 2012) (Schedule 3 added 54 of 1984 s. 27) (Format changes—E.R. 1 of 2013)

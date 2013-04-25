@@ -1,8 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 5A & 50]
 
-SERVICE OF DOCUMENTS
+Service of Documents
+
+(Format changes—E.R. 1 of 2013)
 
 Item | Enactment | Provision
 

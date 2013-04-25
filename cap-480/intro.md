@@ -2,4 +2,6 @@ An Ordinance to render unlawful certain kinds of sex discrimination, discriminat
 
 [20 May 1996]
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Format changes—E.R. 1 of 2013)
+
+(Enacting provision omitted—E.R. 1 of 2013)

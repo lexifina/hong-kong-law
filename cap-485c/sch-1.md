@@ -1,14 +1,14 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-FEES PRESCRIBED FOR THE PURPOSES OF THE MANDATORY PROVIDENT FUND SCHEMES ORDINANCE (CAP. 485)
+Fees Prescribed for the Purposes of the Mandatory Provident Fund Schemes Ordinance (Cap. 485)
 
 Item | Relevant section of the Ordinance | Description | Amount
 
-1. | 20 | (a) Fee payable when an application is lodged with the Authority by a company for approval as a trustee | $81,500
+1. | 20 | (a) | Fee payable when an application is lodged with the Authority by a company for approval as a trustee | $81,500
 
-(b) Fee payable when an application is lodged with the Authority by a natural person for approval as a trustee | $4,900
+(b) | Fee payable when an application is lodged with the Authority by a natural person for approval as a trustee | $4,900
 
 2. | 21 | Fee payable when an application is lodged with the Authority for registration of a provident fund scheme as an employer sponsored scheme or a master trust scheme | $40,000
 
@@ -20,9 +20,9 @@ Item | Relevant section of the Ordinance | Description | Amount
 
 6. | 34B | Fee payable when an application is lodged with the Authority in respect of the restructuring of a registered scheme (29 of 2002 s. 14) | Nil
 
-6A. | 34Q | (a) Fee payable for obtaining a copy of an entry in the Register or of an extract of such an entry | $10 per entry or extract
+6A. | 34Q | (a) | Fee payable for obtaining a copy of an entry in the Register or of an extract of such an entry | $10 per entry or extract
 
-(b) Fee payable for obtaining a certified copy of an entry in the Register or of an extract of such an entry (16 of 2012 s. 28) | $200 per entry or extract
+(b) | Fee payable for obtaining a certified copy of an entry in the Register or of an extract of such an entry (16 of 2012 s. 28) | $200 per entry or extract
 
 7. | (Repealed 29 of 2002 s. 14)
 
