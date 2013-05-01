@@ -4,6 +4,10 @@
 
 Prescribed Minimum Hourly Wage Rate
 
-Hourly wage rate $28 | Effective date the day on which section 9 comes into operation
+Hourly wage rate | Effective date
 
-(Amended L.N. 145 of 2010) (Format changes—E.R. 1 of 2013)
+$28 | 1 May 2011 (Added L.N. 145 of 2010. Amended L.N. 186 of 2012)
+
+$30 | 1 May 2013 (Added L.N. 186 of 2012)
+
+(Format changes—E.R. 1 of 2013)
