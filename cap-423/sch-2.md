@@ -218,13 +218,7 @@ Item | Body
 
 108. | YMCA College of Careers (Added L.N. 99 of 2010)
 
-109. | The Cantonese Opera Academy of Hong Kong Limited (Added L.N. 99 of 2010)
-
-110. | Hong Kong Massage & Physiotherapy Professional General Union (Added L.N. 99 of 2010)
-
-111. | Social Resources Development Institute (Added L.N. 99 of 2010)
-
-112. | Kwun Tong Vocational Training Centre (Added L.N. 99 of 2010)
+109-112. | (Repealed L.N. 69 of 2013)
 
 113. | Travel Industry Council of Hong Kong (Added L.N. 99 of 2010)
 
@@ -240,21 +234,17 @@ Item | Body
 
 119. | Tiptop Consultants Limited (Added L.N. 173 of 2010)
 
-120. | Hong Kong College of Chinese Medicinal Nursing Limited (Added L.N. 173 of 2010)
-
-121. | Hospitals, Clinics and Nursing Workers Union (Added L.N. 173 of 2010)
-
-122. | PA Company Limited (Added L.N. 173 of 2010)
+120-122. | (Repealed L.N. 69 of 2013)
 
 123. | The Hong Kong Marble & Granite Merchants Association, Limited (Added L.N. 173 of 2010)
 
 124. | Hong Kong & Kowloon Restaurant & Cafe Workers General Union Vocational (Day / Night) School (Added L.N. 173 of 2010)
 
-125. | Chinese & Western Food Workers Union (Added L.N. 173 of 2010)
+125. | (Repealed L.N. 69 of 2013)
 
 126. | Eating Establishment Employees General Union (Added L.N. 173 of 2010)
 
-127. | Hong Kong Eco-tourism & Travels Professional Training Centre (Added L.N. 173 of 2010)
+127. | (Repealed L.N. 69 of 2013)
 
 128. | Hong Kong Association of Registered Tour Co-ordinators Limited (Added L.N. 173 of 2010)
 
@@ -266,7 +256,7 @@ Item | Body
 
 132. | Xianggang Putonghua Yanxishe (Added L.N. 173 of 2010)
 
-133. | British & American Floral Art School (Added L.N. 173 of 2010)
+133. | (Repealed L.N. 69 of 2013)
 
 134. | Asia Tree Preservation Limited (Added L.N. 173 of 2010)
 
@@ -280,19 +270,15 @@ Item | Body
 
 139. | Hong Kong and Kowloon Gold Ornaments and Jewellery Trade Workers’ Union (Added L.N. 173 of 2010)
 
-140. | Hong Kong Jewelry Manufacturers’ Association Limited (Added L.N. 173 of 2010)
-
-141. | Hong Kong Productivity Council - Hong Kong Watch & Clock Technology Centre (Added L.N. 173 of 2010)
-
-142. | Norray Enterprise (HK) Limited (Added L.N. 173 of 2010)
+140-142. | (Repealed L.N. 69 of 2013)
 
 143. | Advanced Printing Technology Centre Limited (Added L.N. 173 of 2010)
 
-144. | Graphic Arts Association of Hong Kong Limited (Added L.N. 173 of 2010)
+144. | (Repealed L.N. 69 of 2013)
 
 145. | The Hong Kong School of Motoring Limited (Added L.N. 173 of 2010)
 
-146. | Vcare Information Centre (Added L.N. 173 of 2010)
+146. | (Repealed L.N. 69 of 2013)
 
 147. | Reach Profession Training Skills Development Centre (Added L.N. 173 of 2010)
 
@@ -307,5 +293,11 @@ Item | Body
 152. | Fu Hong Society Training Department (Added L.N. 49 of 2012)
 
 153. | New Home Association Limited (Added L.N. 49 of 2012)
+
+154. | Hong Kong Manpower Development Centre Limited (Added L.N. 69 of 2013)
+
+155. | Silence Limited (Added L.N. 69 of 2013)
+
+156. | The Association of Electrical and Mechanical Engineering(Hong Kong) Limited (Added L.N. 69 of 2013)
 
 (Schedule 2 replaced L.N. 269 of 1999) (Format changes—E.R. 2 of 2012)
