@@ -9,3 +9,4 @@ s-007.md
 s-008.md
 sch-1.md
 sch-2.md
+sch-3.md

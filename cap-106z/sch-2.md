@@ -10,99 +10,121 @@ Column 1 | Column 2 | Column 3
 
 Frequency Band | Limits on Output Level | Limits on Spurious Emission Level
 
-3-195 kHz | electric field strength not to exceed 40 dBμV/m and magnetic field strength not to exceed 48.4 dBnA/m at 100 m from the apparatus | spurious emission level not to exceed the limits set out in Note [9]
+3–195 kHz | electric field strength not to exceed 40 dBμV/m and magnetic field strength not to exceed 48.4 dBnA/m at 100 m from the apparatus | spurious emission level not to exceed the limits set out in Note [9]
 
-1627.5-1796.5 kHz [1] | electric field strength not to exceed 88 dBμV/m at 30 m from the apparatus | electric field strength not to exceed 34 dBμV/m at 30 m from the apparatus within 0.5-30 MHz; spurious emission level not to exceed the limits set out in Note [9](b)
+1627.5–1796.5 kHz[1] | electric field strength not to exceed 88 dBμV/m at 30 m from the apparatus | electric field strength not to exceed 34 dBμV/m at 30 m from the apparatus within 0.5–30 MHz; spurious emission level not to exceed the limits set out in Note [9](b)
 
-13.553-13.567 MHz | (a) electric field strength not to exceed 80 dBμV/m at 30 m from the apparatus; or (b) magnetic field strength not to exceed 42 dBμA/m at 10 m from the apparatus | spurious emission level not to exceed the limits set out in Note [9]
+13.553–13.567 MHz | (a) | electric field strength not to exceed 80 dBμV/m at 30 m from the apparatus; or | spurious emission level not to exceed the limits set out in Note [9]
 
-26.96-27.28 MHz | mean power not to exceed 0.5 W
+(b) | magnetic field strength not to exceed 42 dBμA/m at 10 m from the apparatus
 
-33-33.28 MHz | e.r.p. not to exceed 10 mW
+26.96–27.28 MHz | mean power not to exceed 0.5 W
 
-35.145-35.225 MHz | e.r.p. not to exceed 100 mW | (a) e.r.p. not to exceed 2 nW for frequency below 1 GHz; and (b) e.r.p. not to exceed 20 nW for frequency at or above 1 GHz
+33–33.28 MHz | e.r.p. not to exceed 10 mW
 
-36.26-36.54 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
+35.145–35.225 MHz | e.r.p. not to exceed 100 mW | (a) | e.r.p. not to exceed 2 nW for frequency below 1 GHz; and
 
-36.41-36.69 MHz
+(b) | e.r.p. not to exceed 20 nW for frequency at or above 1 GHz
 
-36.71-36.99 MHz
+36.26–36.54 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
 
-36.96-37.24 MHz
+36.41–36.69 MHz
 
-40.66-40.70 MHz | e.r.p. not to exceed 100 mW | (a) e.r.p. not to exceed 2 nW for frequency below 1 GHz; and (b) e.r.p. not to exceed 20 nW for frequency at or above 1 GHz
+36.71–36.99 MHz
 
-42.75-43.03 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
+36.96–37.24 MHz
 
-43.71-44.49 MHz [2] | electric field strength not to exceed 10 mV/m at 3 m from the apparatus | spurious emission level not to exceed the limits set out in Note [10]
+40.66–40.70 MHz | e.r.p. not to exceed 100 mW | (a) | e.r.p. not to exceed 2 nW for frequency below 1 GHz; and
 
-44.73-45.01 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
+(b) | e.r.p. not to exceed 20 nW for frequency at or above 1 GHz
 
-46.6-46.98 MHz [2] | electric field strength not to exceed 10 mV/m at 3 m from the apparatus | spurious emission level not to exceed the limits set out in Note [10]
+42.75–43.03 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
 
-47.13-47.41 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
+43.71–44.49 MHz[2] | electric field strength not to exceed 10 mV/m at 3 m from the apparatus | spurious emission level not to exceed the limits set out in Note [10]
 
-47.43-47.56 MHz [1] | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9](b)
+44.73–45.01 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
 
-48.75-50 MHz [2] | electric field strength not to exceed 10 mV/m at 3 m from the apparatus | spurious emission level not to exceed the limits set out in Note [10]
+46.6–46.98 MHz[2] | electric field strength not to exceed 10 mV/m at 3 m from the apparatus | spurious emission level not to exceed the limits set out in Note [10]
 
-72.00-72.02 MHz | carrier power not to exceed 750 mW | spurious emission level not to exceed 30 μW
+47.13–47.41 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
 
-72.12-72.14 MHz
+47.43–47.56 MHz[1] | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9](b)
 
-72.16-72.22 MHz
+48.75–50 MHz[2] | electric field strength not to exceed 10 mV/m at 3 m from the apparatus | spurious emission level not to exceed the limits set out in Note [10]
 
-72.26-72.28 MHz
+72.00–72.02 MHz | carrier power not to exceed 750 mW | spurious emission level not to exceed 30 μW
 
-173.96-174.24 MHz | e.r.p. not to exceed 20 mW | spurious emission level not to exceed the limits set out in Note [9]
+72.12–72.14 MHz
 
-187.5-188.0 MHz | e.r.p. not to exceed 10 mW
+72.16–72.22 MHz
 
-253.85-255 MHz [3] | e.r.p. not to exceed 12 mW | e.r.p. not to exceed 2.5 μW
+72.26–72.28 MHz
 
-266.75-267.25 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
+173.96–174.24 MHz | e.r.p. not to exceed 20 mW | spurious emission level not to exceed the limits set out in Note [9]
 
-313.75-314.25 MHz
+187.5–188.0 MHz | e.r.p. not to exceed 10 mW
 
-314.75-315.25 MHz
+253.85–255 MHz[3] | e.r.p. not to exceed 12 mW | e.r.p. not to exceed 2.5 μW
 
-380.2-381.325 MHz [3] | e.r.p. not to exceed 12 mW | e.r.p. not to exceed 2.5 μW
+266.75–267.25 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
 
-409.74-410 MHz [4] | e.r.p. not to exceed 0.5 W | e.r.p. not to exceed 50 μW
+313.75–314.25 MHz
 
-819.1-823.1 MHz | (a) e.r.p. not to exceed 100 mW; and (b) power spectral density not to exceed 10 mW per 25 kHz | spurious emission level not to exceed the limits set out in Note [9]
+314.75–315.25 MHz
 
-864.1-868.1 MHz [5] | carrier power or e.r.p. not to exceed 10 mW | (a) e.r.p. not to exceed 250 nW for frequency below 1 GHz excluding 41-68 MHz, 87.5-118 MHz, 162-230 MHz and 470-862 MHz; (b) e.r.p. not to exceed 4 nW for frequency in the bands 41-68 MHz, 87.5-118 MHz, 162-230 MHz and 470-862 MHz; and (c) e.r.p. not to exceed 1 μW for frequency at or above 1 GHz
+380.2–381.325 MHz[3] | e.r.p. not to exceed 12 mW | e.r.p. not to exceed 2.5 μW
 
-865-868 MHz [13] | e.r.p. not to exceed 100 mW | (a) e.r.p. not to exceed 250 nW for frequency below 1 GHz excluding 47-74 MHz, 87.5-118 MHz, 174-230 MHz and 470-862 MHz; (b) e.r.p. not to exceed 4 nW for frequency in the bands 47-74 MHz, 87.5-118 MHz, 174-230 MHz and 470-862 MHz; and (c) e.r.p. not to exceed 1 μW for frequency at or above 1 GHz
+409.74–410 MHz[4] | e.r.p. not to exceed 0.5 W | e.r.p. not to exceed 50 μW
 
-865.6-867.6 MHz [14] | e.r.p. not to exceed 2 W
+819.1–823.1 MHz | (a) | e.r.p. not to exceed 100 mW; and | spurious emission level not to exceed the limits set out in Note [9]
 
-865.6-868 MHz [15] | e.r.p. not to exceed 500 mW
+(b) | power spectral density not to exceed 10 mW per 25 kHz
 
-919.5-920.0 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
+864.1–868.1 MHz[5] | carrier power or e.r.p. not to exceed 10 mW | (a) | e.r.p. not to exceed 250 nW for frequency below 1 GHz excluding 41–68 MHz, 87.5–118 MHz, 162–230 MHz and 470–862 MHz;
 
-920-925 MHz [16] | e.i.r.p. not to exceed 4 W | e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located
+(b) | e.r.p. not to exceed 4 nW for frequency in the bands 41–68 MHz, 87.5–118 MHz, 162–230 MHz and 470–862 MHz; and
 
-1880-1900 MHz [6] | (a) peak power not to exceed 250 mW for apparatus with antenna output terminal; or (b) peak e.i.r.p. not to exceed 250 mW for apparatus with integral antenna | (a) e.r.p. not to exceed 250 nW for frequency below 1 GHz; and (b) e.r.p. not to exceed 1 μW for frequency at or above 1 GHz
+(c) | e.r.p. not to exceed 1 μW for frequency at or above 1 GHz
 
-1895-1906.1 MHz [7] | (a) carrier power not to exceed 10 mW for apparatus with antenna output terminal; or (b) e.r.p. not to exceed 10 mW for apparatus with integral antenna | (a) e.r.p. not to exceed 250 nW for frequency within 1895-1906.1 MHz; and (b) e.r.p. not to exceed 2.5 μW for frequency within 30 MHz-10 GHz excluding 1895-1906.1 MHz
+865–868 MHz[13] | e.r.p. not to exceed 100 mW | (a) | e.r.p. not to exceed 250 nW for frequency below 1 GHz excluding 47–74 MHz, 87.5–118 MHz, 174–230 MHz and 470–862 MHz;
 
-2400-2483.5 MHz | (a) peak e.i.r.p. not to exceed 4 W for frequency hopping spread spectrum modulation or digital modulation systems; or (b) aggregate e.r.p. not to exceed 100 mW for any modulation | e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located
+865.6–867.6 MHz[14] | e.r.p. not to exceed 2 W
 
-5150-5350 MHz [11] | e.i.r.p. not to exceed 200 mW using only digital modulation | e.r.p. not to exceed 10 μW
+865.6–868 MHz[15] | e.r.p. not to exceed 500 mW | (b) | e.r.p. not to exceed 4 nW for frequency in the bands 47–74 MHz, 87.5–118 MHz, 174–230 MHz and 470–862 MHz; and
 
-5470-5725 MHz [12] | e.i.r.p. not to exceed 1 W
+(c) | e.r.p. not to exceed 1 μW for frequency at or above 1 GHz
 
-5725-5850 MHz | (a) peak e.i.r.p. not to exceed 4 W for frequency hopping spread spectrum modulation or digital modulation systems; or (b) aggregate e.r.p. not to exceed 100 mW for any modulation | e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located
+919.5–920.0 MHz | e.r.p. not to exceed 10 mW | spurious emission level not to exceed the limits set out in Note [9]
 
-18.82-18.87 GHz | (a) e.r.p. not to exceed 100 mW; and (b) power spectral density not to exceed 3 mW per 100 kHz | e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located
+920–925 MHz[16] | e.i.r.p. not to exceed 4 W | e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located
 
-76-77 GHz | carrier power not to exceed 10 mW | (a) power density not to exceed 600 pW/cm2 at 3 m from the apparatus for frequency above 40 GHz but below 200 GHz; and (b) power density not to exceed 1000 pW/cm2 at 3 m from the apparatus for frequency at or above 200 GHz
+1880–1900 MHz[6] | (a) | peak power not to exceed 250 mW for apparatus with antenna output terminal; or | (a) | e.r.p. not to exceed 250 nW for frequency below 1 GHz; and
+
+(b) | peak e.i.r.p. not to exceed 250 mW for apparatus with integral antenna | (b) | e.r.p. not to exceed 1 μW for frequency at or above 1 GHz
+
+2400–2483.5 MHz | (a) | peak e.i.r.p. not to exceed 4 W for frequency hopping spread spectrum modulation or digital modulation systems; or | e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located
+
+(b) | aggregate e.r.p. not to exceed 100 mW for any modulation
+
+5150–5350 MHz[11] | e.i.r.p. not to exceed 200 mW using only digital modulation | e.r.p. not to exceed 10 μW
+
+5470–5725 MHz[12] | e.i.r.p. not to exceed 1 W
+
+5725–5850 MHz | (a) | peak e.i.r.p. not to exceed 4 W for frequency hopping spread spectrum modulation or digital modulation systems; or | e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located
+
+(b) | aggregate e.r.p. not to exceed 100 mW for any modulation
+
+18.82–18.87 GHz | (a) | e.r.p. not to exceed 100 mW; and | e.r.p. not to exceed 10 μW for frequency outside the frequency band in which the fundamental frequencies are located
+
+(b) | power spectral density not to exceed 3 mW per 100 kHz
+
+76–77 GHz | carrier power not to exceed 10 mW | (a) | power density not to exceed 600 pW/cm2 at 3 m from the apparatus for frequency above 40 GHz but below 200 GHz; and
+
+(b) | power density not to exceed 1000 pW/cm2 at 3 m from the apparatus for frequency at or above 200 GHz
 
 3000 GHz or above [8] | Not applicable | Not applicable
 
-Note: [1] The apparatus shall operate within the frequency bands 1627.5-1796.5 kHz paired with 47.43-47.56 MHz and on one of the following pairs of frequencies—
+Note: | [1] | The apparatus shall operate within the frequency bands 1627.5–1796.5 kHz paired with 47.43–47.56 MHz and on one of the following pairs of frequencies—
 
 Channel Number | kHz | MHz
 
@@ -122,7 +144,7 @@ Channel Number | kHz | MHz
 
 8 | 1782.00 | 47.54375
 
-[2] The apparatus shall operate within the frequency bands 43.71-44.49 MHz, 46.6-46.98 MHz and 48.75-50 MHz and on any one or more of the following pairs of frequencies—
+[2] | The apparatus shall operate within the frequency bands 43.71–44.49 MHz, 46.6–46.98 MHz and 48.75–50 MHz and on any one or more of the following pairs of frequencies—
 
 Channel Number | MHz | MHz
 
@@ -176,64 +198,74 @@ Channel Number | MHz | MHz
 
 25 | 46.970 | 49.970
 
-[3] The apparatus shall operate within the frequency bands 253.85-255 MHz paired with 380.2-381.325 MHz and the frequency pairs shall be as follows—
+[3] | The apparatus shall operate within the frequency bands 253.85–255 MHz paired with 380.2–381.325 MHz and the frequency pairs shall be as follows—
 
 Speech Channel | 380.2 + n × 0.0125 MHz, where n is an integer in the range 1 to 88 (except 46) | 253.85 + n × 0.0125 MHz, where n is an integer in the range 1 to 88 (except 46)
 
 Control Channel | 380.775 MHz and 381.3125 MHz | 254.425 MHz and 254.9625 MHz
 
-[4] The apparatus shall employ frequency modulation and the carrier frequencies of the apparatus shall be 409.7375 + (0.0125 × n) MHz, where n is an integer in the range 1 to 20.
+[4] | The apparatus shall employ frequency modulation and the carrier frequencies of the apparatus shall be 409.7375 + (0.0125 × n) MHz, where n is an integer in the range 1 to 20.
 
-[5] The carrier frequencies of the apparatus shall be 864.05 + (0.1 × n) MHz, where n is an integer in the range 1 to 40.
+[5] | The carrier frequencies of the apparatus shall be 864.05 + (0.1 × n) MHz, where n is an integer in the range 1 to 40.
 
-[6] The carrier frequencies of the apparatus shall be 1880.064 + (1.728 × n) MHz, where n is an integer in the range 1 to 10.
+[6] | The carrier frequencies of the apparatus shall be 1880.064 + (1.728 × n) MHz, where n is an integer in the range 1 to 10.
 
-[7] The carrier frequencies of the apparatus shall be 1895.15 + (n - 1) × 0.3 MHz, where n is an integer in the range 1 to 37.
+[7] | (Repealed L.N. 190 of 2012)
 
-[8] The apparatus shall satisfy at least one of the following conditions—
+[8] | The apparatus shall satisfy at least one of the following conditions—
 
-- (a) the maximum usable range of the apparatus does not exceed 30 m;
+(a) | the maximum usable range of the apparatus does not exceed 30 m;
 
-- (b) the transmission path does not cross a public street or unleased Government land.
+(b) | the transmission path does not cross a public street or unleased Government land.
 
-[9] An apparatus with the following frequency range shall not generate a spurious emission level which exceeds the limits set out opposite to that frequency range—
+[9] | An apparatus with the following frequency range shall not generate a spurious emission level which exceeds the limits set out opposite to that frequency range—
 
-- (a) 3 kHz-30 MHz
-
-- Frequency Range | Limits on Spurious Emission Level
-
-- 3-415 kHz | electric field strength not to exceed 17 dBμV/m and magnetic field strength not to exceed 25.4 dBnA/m at 300 m from the apparatus
-
-- 415 kHz-30 MHz | electric field strength not to exceed 30 dBμV/m and magnetic field strength not to exceed 38.4 dBnA/m at 30 m from the apparatus
-
-- (b) 30 MHz-1000 MHz
-
-- Frequency Range | Limits on Spurious Emission Level
-
-- 30-1000 MHz excluding 87-137 MHz and 470-790 MHz | e.r.p. not to exceed 300 nW
-
-- 87-137 MHz and 470-790 MHz | e.r.p. not to exceed 60 nW
-
-- (c) 1-2 GHz
-
-- Frequency Range | Limits on Spurious Emission Level
-
-- 1-2 GHz | e.r.p. not to exceed 1 μW
-
-[10] An apparatus with the following frequency range shall not generate a spurious emission level which exceeds the limits set out opposite to that frequency range—
+(a) | 3 kHz–30 MHz
 
 Frequency Range | Limits on Spurious Emission Level
 
-1.705-30.0 MHz | electric field strength not to exceed 30 μV/m at 30 m from the apparatus
+3–415 kHz | electric field strength not to exceed 17 dBμV/m and magnetic field strength not to exceed 25.4 dBnA/m at 300 m from the apparatus
 
-30-88 MHz | electric field strength not to exceed 100 μV/m at 3 m from the apparatus
+415 kHz–30 MHz | electric field strength not to exceed 30 dBμV/m and magnetic field strength not to exceed 38.4 dBnA/m at 30 m from the apparatus
 
-88-216 MHz | electric field strength not to exceed 150 μV/m at 3 m from the apparatus
+(b) | 30 MHz–1000 MHz
 
-216-960 MHz | electric field strength not to exceed 200 μV/m at 3 m from the apparatus
+Frequency Range | Limits on Spurious Emission Level
+
+30–1000 MHz excluding 87–137 MHz and 470–790 MHz | e.r.p. not to exceed 300 nW
+
+87–137 MHz and 470–790 MHz | e.r.p. not to exceed 60 nW
+
+(c) | 1–2 GHz
+
+Frequency Range | Limits on Spurious Emission Level
+
+1–2 GHz | e.r.p. not to exceed 1 μW
+
+[10] | An apparatus with the following frequency range shall not generate a spurious emission level which exceeds the limits set out opposite to that frequency range—
+
+Frequency Range | Limits on Spurious Emission Level
+
+1.705–30.0 MHz | electric field strength not to exceed 30 μV/m at 30 m from the apparatus
+
+30–88 MHz | electric field strength not to exceed 100 μV/m at 3 m from the apparatus
+
+88–216 MHz | electric field strength not to exceed 150 μV/m at 3 m from the apparatus
+
+216–960 MHz | electric field strength not to exceed 200 μV/m at 3 m from the apparatus
 
 above 960 MHz | electric field strength not to exceed 500 μV/m at 3 m from the apparatus
 
-[11] Use of the band 5150-5350 MHz is restricted to indoor operations. [12] Use of the band 5470-5725 MHz shall comply with the technical requirements in Recommendation ITU-R M.1652 “Dynamic frequency selection (DFS) in wireless access systems including radio local area networks for the purpose of protecting the radiodetermination service in the 5 GHz band” approved by the International Telecommunication Union as revised from time to time. [13] The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 1 to 15. [14] The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 4 to 13. [15] The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 4 to 15. [16] Use of the band 920-925 MHz is restricted to apparatus operating with frequency hopping spread spectrum modulation.
+[11] | Use of the band 5150–5350 MHz is restricted to indoor operations.
 
-(Schedule 2 replaced L.N. 22 of 2005)
+[12] | Use of the band 5470–5725 MHz shall comply with the technical requirements in Recommendation ITU–R M.1652 “Dynamic frequency selection (DFS) in wireless access systems including radio local area networks for the purpose of protecting the radiodetermination service in the 5 GHz band” approved by the International Telecommunication Union as revised from time to time.
+
+[13] | The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 1 to 15.
+
+[14] | The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 4 to 13.
+
+[15] | The carrier frequencies of the apparatus shall be 864.90 + (0.2 × n) MHz, where n is an integer in the range 4 to 15.
+
+[16] | Use of the band 920–925 MHz is restricted to apparatus operating with frequency hopping spread spectrum modulation.
+
+(Schedule 2 replaced L.N. 22 of 2005. Amended L.N. 190 of 2012)
