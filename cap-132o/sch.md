@@ -70,7 +70,7 @@
 
 - 34. The third floor of San Po Kong Plaza, 33 Shung Ling Street, San Po Kong, Kowloon.
 
-- 35. No. 702, 7/F., Tsz Wan Shan Shopping Centre, Kowloon.
+- 35. Shop Nos. 701-702, 7/F., Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Wong Tai Sin, Kowloon. (L.N. 37 of 2013)
 
 - 36. The fifth floor of Ap Lei Chau Municipal Services Building, 8 Hung Shing Street, Ap Lei Chau, Hong Kong. (L.N. 145 of 2008)
 
