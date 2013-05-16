@@ -22,4 +22,6 @@ Swiss Confederation | A date in accordance with Article 11.8 of the Agreement
 
 Principality of Liechtenstein | A date in accordance with Article 9 of the Agreement
 
+5. | Free Trade Agreement between Hong Kong, China and Chile signed on 7 September 2012 (Added L.N. 39 of 2013) | Republic of Chile | A date in accordance with Article 19.7 of the Agreement
+
 (Schedule 1 added 5 of 2012 s. 8)
