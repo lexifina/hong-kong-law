@@ -10,19 +10,19 @@
 
   - 1. For every ship piloted, a pilotage due of $4,400 plus— (L.N. 111 of 2005; L.N. 70 of 2008; L.N. 174 of 2011)
 
-    - (a) for ships having a gross registered tonnage of less than 30000 tons, $0.065 per ton of the ship’s gross registered tonnage; (L.N. 234 of 2002; L.N. 70 of 2008)
+    - (a) for ships having a gross tonnage of less than 30000 tons, $0.065 per ton of the ship’s gross tonnage; (L.N. 234 of 2002; L.N. 70 of 2008)
 
-    - (b) for ships having a gross registered tonnage of or above 30000 tons but not exceeding 60000 tons, $0.0625 per ton of the ship’s gross registered tonnage or $1,950, whichever is the greater; (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
+    - (b) for ships having a gross tonnage of or above 30000 tons but not exceeding 60000 tons, $0.0625 per ton of the ship’s gross tonnage or $1,950, whichever is the greater; (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
 
-    - (c) for ships having a gross registered tonnage exceeding 60000 tons but not exceeding 120000 tons, $0.06 per ton of the ship’s gross registered tonnage or $3,750, whichever is the greater; or (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
+    - (c) for ships having a gross tonnage exceeding 60000 tons but not exceeding 120000 tons, $0.06 per ton of the ship’s gross tonnage or $3,750, whichever is the greater; or (L.N. 234 of 2002; L.N. 111 of 2005; L.N. 70 of 2008)
 
-    - (d) for ships having a gross registered tonnage exceeding 120000 tons, $7,200. (L.N. 70 of 2008)
+    - (d) for ships having a gross tonnage exceeding 120000 tons, $7,200. (L.N. 70 of 2008)
 
   - Notes: (a) The pilotage dues specified in this Part include all costs incurred by a pilot in travelling to and from a ship.
 
     - (b) Pilotage dues for pilotage into the harbour include anchoring in the quarantine anchorage and moving a ship from such anchorage to a buoy, wharf or other anchorage.
 
-    - (c) The pilotage dues payable by warships under this Part shall be calculated on the basis of displacement tonnage instead of gross registered tonnage.
+    - (c) The pilotage dues payable by warships under this Part shall be calculated on the basis of displacement tonnage instead of gross tonnage. (2 of 2013 s. 13)
 
 - Part 2 Additional Pilotage Dues
 

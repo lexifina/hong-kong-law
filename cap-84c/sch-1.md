@@ -30,25 +30,33 @@ APPROPRIATE EXPERIENCE OF APPLICANT
 
   - Item | Wharf/Berth/Dock | Number of Occasions
 
-  - 1. | Tsim Sha Tsui, Kowloon— Ocean Terminal Wharf— South Berth— (Inner) (Outer) North Berth— (Inner) (Outer) | ｝ | 4 berthings and 4 unberthings (of which 1 berthing and 1 unberthing must have commenced during the hours between sunset and sunrise) of a ship of any length at either or both of these berths, and 1 berthing and 1 unberthing of a ship of any length at South (Inner) or North (Inner) when another ship of any length was occupying South (Outer) or North (Outer).
+  - 1. | Tsim Sha Tsui, Kowloon— Ocean Terminal Wharf— South Berth— (Inner) (Outer) North Berth | ｝ | 4 berthings and 4 unberthings (of which 1 berthing and 1 unberthing must have commenced during the hours between sunset and sunrise) of a ship of any length at either or both of these berths, and 1 berthing and 1 unberthing of a ship of any length at South (Inner) when another ship of any length was occupying South (Outer).
 
-  - 2. | Kwai Chung— Container Terminal Wharf— Berth No. 1 Berth No. 2 Berth No. 3 Berth No. 4 Berth No. 5 Berth No. 8 Berth No. 9 Berth No. 6 Berth No. 7 Berth No. 10 Berth No. 11 Berth No. 12 Berth No. 13 Berth No. 14 | ｝ ｝ | 3 berthings and 3 unberthings (of which 1 berthing and 1 unberthing must have commenced during the hours between sunset and sunrise) of a ship of any length at each berth, and 1 berthing and 1 unberthing of a ship exceeding 275 metres in length at each berth. 3 berthings and 3 unberthings (of which 1 berthing and 1 unberthing must have commenced during the hours between sunset and sunrise) of a ship exceeding 168 metres in length at each berth when another ship of the same length or longer was occupying part of the berth.
+  - 2. | Kwai Chung— Container Terminal Wharf— Berth No. 1 Berth No. 2 Berth No. 3 Berth No. 4 Berth No. 5 Berth No. 8 Berth No. 9 Berth No. 15 Berth No. 16 Berth No. 17 Berth No. 18 Berth No. 19 Berth No. 20 | ｝ ｝ | 2 berthings and 2 unberthings (of which 1 berthing and 1 unberthing must have commenced during the hours between sunset and sunrise) of a ship of any length at each berth, and 1 berthing and 1 unberthing of a ship exceeding 275 metres in length at each berth.
+
+  - Berth No. 6 Berth No. 7 Berth No. 10 Berth No. 11 Berth No. 12 Berth No. 13 Berth No. 14 | ｝ | 3 berthings and 3 unberthings (of which 1 berthing and 1 unberthing must have commenced during the hours between sunset and sunrise) of a ship exceeding 168 metres in length at each berth when another ship of the same length or longer was occupying part of the berth.
 
   - 3. | (Repealed L.N. 283 of 1998)
 
-  - 4. | Tsing Yi Island— Petroleum Wharves— (Mobil) (Esso) (Caltex) (China Resources Company main berth) (Shell main berth) (China Resources Company, east inner berth and west inner berth) (Shell inner LPG berth) H.K. United Dockyards Seawalls Wharf Euro-Asia Seawall Yiu Lian Seawall Floating Docks— (Whampao) (Yiu Lian No. 1) | ｝ ｝ ｝ ｝ ｝ | 4 berthings and 3 unberthings of a ship of any length at each wharf. 2 berthings and 2 unberthings of a ship of any length at each berth. 1 berthing and 1 unberthing of a ship of any length. 1 berthing and 1 unberthing of a ship of any length at each berth. 2 dockings and 2 undockings of a ship of any length at one or more of these docks.
+  - 4. | Tsing Yi Island— Petroleum Wharves— (Mobil) (Esso) (Caltex) (China Resources Company main berth) (Shell main berth) (China Resources Company, east inner berth, west inner berth and No. 3 berth) (Shell inner LPG berth) (Caltex LPG berth) H.K. United Dockyards Seawalls Wharf Euro-Asia Seawall Yiu Lian Seawall Floating Docks— (United) (Yiu Lian No. 1) (Yiu Lian No. 3) | ｝ ｝ ｝ | 4 berthings and 3 unberthings of a ship of any length at each wharf. 2 berthings and 2 unberthings of a ship of any length at each berth. 1 berthing and 1 unberthing of a ship of any length. 1 berthing and 1 unberthing of a ship of any length at each berth. 2 dockings and 2 undockings of a ship of any length at one or more of these docks.
 
-  - 5. | Yam O Floating Docks— (United) (Yiu Lian No. 3) (Yiu Lian No. 5) | ｝ | 2 dockings and 2 undockings of a ship of any length at one or more of these docks.
+  - 5. | (Repealed 2 of 2013 s. 12)
 
   - 6. | Lok On Pai | 1 berthing and 1 unberthing of a ship of any length.
 
   - 7. | Tap Shek Kok— Power Station Terminal Wharf China Cement Company Wharf | 5 berthing and 5 unberthings of a ship exceeding 168 metres in length, with at least 2 of such berthings being starboard side alongside when direct inbound from Green Island. 3 berthings and 3 unberthings of a ship exceeding 168 metres in length.
 
-  - 8. | Lamma Island— Po Lo Tsui— Power Station Terminal Wharf Sok Kwu Wan— Cement Wharf | 3 berthings and 3 unberthings of a ship exceeding 168 metres in length. 1 berthing and 1 unberthing of a ship of any length.
+  - Permanent Aviation Fuel Facility | 3 berthings and 3 unberthings (of which 1 berthing and 1 unberthing must have commenced during the hours between sunset and sunrise) of a ship of any length; and 1 berthing and 1 unberthing of a ship exceeding 168 metres in length when another ship of the same length or longer was occupying part of the berth.
+
+  - Shiu Wing Steel Wharf | 2 berthings and 2 unberthings of a ship exceeding 168 metres in length.
+
+  - 8. | Lamma Island— Po Lo Tsui— Power Station Terminal Wharf | 3 berthings and 3 unberthings (of which 1 berthing and 1 unberthing must have commenced during the hours between sunset and sunrise) of a ship exceeding 168 metres in length; and 1 berthing and 1 unberthing of a ship exceeding 168 metres in length when another ship of the same length or longer was occupying part of the berth.
 
   - 9. | Hong Kong Island— Kennedy Town— China Merchant Wharf | 1 berthing and 1 unberthing of a ship of any length.
 
   - 10. | Tai Po— Town Gas Wharf | 1 berthing and 1 unberthing of a ship of any length.
+
+  - (2 of 2013 s. 12)
 
 - 2. The applicant must have been an observer on a tug specified in the second column of the following Table 2 on at least the number of occasions specified in the third column of that Table when the tug was attending a ship and performing a towage berthing, unberthing, docking or undocking service. TABLE 2
 
@@ -64,11 +72,15 @@ APPROPRIATE EXPERIENCE OF APPLICANT
 
 - Item | Wharf/Berth | Number of Occasions
 
-- 1. | Tsim Sha Tsui, Kowloon— Ocean Terminal Wharf— South Berth— (Inner) (Outer) North Berth— (Inner) (Outer) | ｝ | 1 berthing at flood tide and 1 berthing at ebb tide of a ship of any length at both of these berths.
+- 1. | Tsim Sha Tsui, Kowloon— Ocean Terminal Wharf— South Berth— (Inner) (Outer) North Berth | ｝ | 1 berthing at flood tide and 1 berthing at ebb tide of a ship of any length at both of these berths.
 
-- 2. | Kwai Chung— Container Terminal Wharf— Berth No. 1 Berth No. 2 Berth No. 3 Berth No. 4 Berth No. 8 Berth No. 9 Berth No. 5 Berth No. 6 Berth No. 7 Berth No. 10 Berth No. 11 Berth No. 12 Berth No. 13 Berth No. 14 | ｝ ｝ | 1 berthing of a ship of any length at each berth. 1 berthing at flood tide and 1 berthing at ebb tide of a ship of any length at each berth.
+- 2. | Kwai Chung— Container Terminal Wharf— Berth No. 1 Berth No. 2 Berth No. 3 Berth No. 4 Berth No. 8 Berth No. 9 Berth No. 15 Berth No. 16 Berth No. 17 Berth No. 18 Berth No. 19 Berth No. 20 | ｝ ｝ | 1 berthing of a ship of any length at each berth.
 
-- 3. | Tsing Yi Island— H.K. United Dockyards Seawalls Wharf | 2 berthings and 2 unberthings of a ship of any length.
+- Berth No. 5 Berth No. 6 Berth No. 7 Berth No. 10 Berth No. 11 Berth No. 12 Berth No. 13 Berth No. 14 | ｝ | 1 berthing at flood tide and 1 berthing at ebb tide of a ship of any length at each berth.
+
+- 3. | Tsing Yi Island— H.K. United Dockyards Seawalls Wharf Yiu Lian Seawalls Wharf | ｝ | 2 berthings and 2 unberthings of a ship of any length at each wharf.
+
+- (2 of 2013 s. 12)
 
 - 4. The applicant must have been an observer on a mooring boat on at least 5 occasions when the boat was attending a ship being secured to a mooring.
 

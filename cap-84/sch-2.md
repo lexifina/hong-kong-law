@@ -12,7 +12,9 @@ Description | Location
 
 2. | Area off the turning buoy in the Tathong Channel | latitude longitude | 22o 114o | 16’ 15’ | 00” 40” | north, east.
 
-3. | Area off Lam Kok Tsui (Black Point) in Urmston Road | latitude longitude | 22o 113o | 23’ 53’ | 30” 30” | north, east.
+3. | Area off Lam Kok Tsui (Black Point) in Urmston Road | latitude longitude | 22o 113o | 25’ 53’ | 01” 12” | north, east.
+
+(Amended 2 of 2013 s. 10)
 
 4. | Area off the entrance to Tolo Channel | latitude longitude | 22o 114o | 29’ 19’ | 36” 42” | north, east.
 
