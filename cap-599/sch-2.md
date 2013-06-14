@@ -38,13 +38,15 @@ Scheduled Infectious Agents
 
 - 17. Marburg virus (馬爾堡病毒)
 
+- 17A. Middle East Respiratory Syndrome Coronavirus (中東呼吸綜合症冠狀病毒) (Added L.N. 104 of 2013)
+
 - 18. Monkeypox virus (猴痘病毒)
 
 - 19. Mycobacterium tuberculosis (multidrug-resistant) (結核分枝桿菌(耐多藥))
 
 - 20. Nipah virus (尼巴病毒)
 
-- 20A. Novel Coronavirus associated with Severe Respiratory Disease (致嚴重呼吸系統病新型冠狀病毒) (Added L.N. 144 of 2012)
+- 20A. (Repealed L.N. 104 of 2013)
 
 - 21. Omsk haemorrhagic fever virus (鄂木斯克出血熱病毒)
 

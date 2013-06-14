@@ -56,6 +56,8 @@ Scheduled Infectious Diseases
 
 - 24. Meningococcal infection (invasive) (腦膜炎雙球菌感染(侵入性))
 
+- 24A. Middle East Respiratory Syndrome (中東呼吸綜合症) (Added L.N. 104 of 2013)
+
 - 25. Mumps (流行性腮腺炎)
 
 - 26. Paratyphoid fever (副傷寒)
@@ -74,7 +76,7 @@ Scheduled Infectious Diseases
 
 - 33. Scarlet fever (猩紅熱)
 
-- 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症) 34AA. Severe Respiratory Disease associated with Novel Coronavirus (新型冠狀病毒致嚴重呼吸系統病) (Add L.N. 144 of 2012)
+- 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症) 34AA. (Repealed L.N. 104 of 2013)
 
 - 34A. Shiga toxin-producing Escherichia coli infection (產志賀毒素大腸桿菌感染) (Added L.N. 101 of 2011)
 
