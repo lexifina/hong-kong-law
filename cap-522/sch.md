@@ -52,6 +52,8 @@ The Republic of Botswana
 
 The Federative Republic of Brazil
 
+Brunei Darussalam
+
 The Republic of Bulgaria
 
 The Burkina Faso
@@ -186,7 +188,7 @@ The Kingdom of Lesotho
 
 The Republic of Liberia
 
-The Great Socialist People’s Libyan Arab Jamahiriya
+Libya
 
 The Principality of Liechtenstein
 
@@ -356,13 +358,11 @@ Countries, territories and areas which have acceded to the World Trade Organizat
 
 (not including countries which have acceded to the Paris Convention)
 
-Negara Brunei Darussalam
-
 The Republic of Cape Verde
 
-European Community
+European Union
 
-The Republic of The Fiji Islands
+The Republic of Fiji
 
 The State of Kuwait
 
@@ -370,10 +370,14 @@ The Macao Special Administrative Region
 
 The Republic of Maldives
 
-The Union of Myanmar
+The Republic of the Union of Myanmar
+
+The Independent State of Samoa
 
 Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
 
 The Solomon Islands
 
-(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009)
+The Republic of Vanuatu
+
+(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009; L.N. 63 of 2013)
