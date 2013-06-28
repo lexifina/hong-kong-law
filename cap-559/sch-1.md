@@ -54,6 +54,8 @@ The Republic of Botswana
 
 The Federative Republic of Brazil
 
+Brunei Darussalam
+
 The Republic of Bulgaria
 
 The Burkina Faso
@@ -188,7 +190,7 @@ The Kingdom of Lesotho
 
 The Republic of Liberia
 
-The Great Socialist People’s Libyan Arab Jamahiriya
+Libya
 
 The Principality of Liechtenstein
 
@@ -392,7 +394,7 @@ The Republic of Botswana
 
 The Federative Republic of Brazil
 
-Negara Brunei Darussalam
+Brunei Darussalam
 
 The Republic of Bulgaria
 
@@ -450,9 +452,9 @@ The Republic of El Salvador
 
 Republic of Estonia
 
-European Community
+European Union
 
-The Republic of The Fiji Islands
+The Republic of Fiji
 
 The Republic of Finland
 
@@ -512,6 +514,8 @@ The State of Kuwait
 
 Kyrghyz Republic
 
+The Lao People’s Democratic Republic
+
 Republic of Latvia
 
 The Kingdom of Lesotho
@@ -546,17 +550,19 @@ The Republic of Moldova
 
 Mongolia
 
+Montenegro
+
 The Kingdom of Morocco
 
 The Republic of Mozambique
 
-The Union of Myanmar
+The Republic of the Union of Myanmar
 
 The Republic of Namibia
 
 The Federal Democratic Republic of Nepal
 
-Netherlands─For the Kingdom in Europe and for the Netherlands Antilles
+The Kingdom of the Netherlands
 
 New Zealand
 
@@ -590,6 +596,8 @@ The State of Qatar
 
 Romania
 
+The Russian Federation
+
 The Republic of Rwanda
 
 The Federation of Saint Kitts and Nevis
@@ -597,6 +605,8 @@ The Federation of Saint Kitts and Nevis
 Saint Lucia
 
 Saint Vincent and the Grenadines
+
+The Independent State of Samoa
 
 The Kingdom of Saudi Arabia
 
@@ -656,6 +666,8 @@ The United States of Mexico
 
 Oriental Republic of Uruguay
 
+The Republic of Vanuatu
+
 The Bolivarian Republic of Venezuela
 
 The Socialist Republic of Viet Nam
@@ -664,4 +676,4 @@ The Republic of Zambia
 
 The Republic of Zimbabwe
 
-(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009)
+(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009; L.N. 64 of 2013)
