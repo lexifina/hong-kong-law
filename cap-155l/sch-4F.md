@@ -54,13 +54,13 @@ Deduction of Holdings where Authorized Institution has Insignificant Capital Inv
 
     - (e) the institution may, with the prior consent of the Monetary Authority, temporarily exclude certain investments where they have been made in the context of resolving or providing financial assistance to reorganize a distressed financial sector entity.
 
-  - (6) For the purposes of subsection (5)(c), an authorized institution must risk-weight underwriting positions referred to in that subsection in accordance with the applicable risk-weight under Part 4, 5 or 6 of these Rules, as the case requires.
+  - (6) For the purposes of subsection (5)(c), an authorized institution must risk-weight underwriting positions referred to in that subsection in accordance with the applicable risk-weight under Part 4, 5, 6 or 8 of these Rules, as the case requires. (L.N. 51 of 2013)
 
   - (7) An authorized institution may, with the prior consent of the Monetary Authority, map the capital instrument referred to in subsection (5)(d) to Additional Tier 1 capital or Tier 2 capital, as appropriate, whichever is of the closest corresponding quality for the purposes of the deduction.
 
   - (8) For the purposes of subsections (2), (3) and (4)—
 
-    - (a) the amount of insignificant capital investments issued by financial sector entities that do not exceed the 10% threshold referred to in those subsections and that are not deducted from an authorized institution’s CET1 capital, Additional Tier 1 capital or Tier 2 capital is to continue to be risk-weighted in accordance with the applicable risk-weight under Part 4, 5 or 6 of these Rules, as the case requires; and
+    - (a) the amount of insignificant capital investments issued by financial sector entities that do not exceed the 10% threshold referred to in those subsections and that are not deducted from an authorized institution’s CET1 capital, Additional Tier 1 capital or Tier 2 capital is to continue to be risk-weighted in accordance with the applicable risk-weight under Part 4, 5, 6 or 8 of these Rules, as the case requires; and (L.N. 51 of 2013)
 
     - (b) for the application of risk-weighting, the amount of the investments must be allocated on a pro rata basis between those below and those above that threshold.
 

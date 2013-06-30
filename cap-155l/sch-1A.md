@@ -22,8 +22,14 @@ Transactions and Contracts not Subject to CVA Capital Charge
 
     - (ii) the recognized credit derivative contracts are not treated as recognized credit derivative contracts or eligible CVA hedges for any other exposures of the institution;
 
-  - (e) OTC derivative transactions, credit derivative contracts and SFTs, other than those transactions or contracts that fall within paragraph (a), (b), (c) or (d), that are in default as determined under the terms and conditions of the transactions or contracts.
+  - (e) OTC derivative transactions, credit derivative contracts and SFTs (other than those falling within paragraph (a), (b), (c) or (d))—
+
+    - (i) that are in default as determined under the terms and conditions of the transactions or contracts;
+
+    - (ii) in respect of which the losses due to the default have been recognized by the authorized institution concerned for accounting and reporting purposes; and
+
+    - (iii) the exposures in respect of which have been transformed into simple claims that do not have the risk characteristics of derivative contracts or SFTs. (L.N. 51 of 2013)
 
 - 2. Meaning of CCP in section 1 of this Schedule
 
-- To avoid doubt, a CCP referred to in section 1 of this Schedule may be either a qualifying CCP (within the meaning of section 226V(1) of these Rules) or a non-qualifying CCP (within the meaning of section 226V(1) of these Rules). (Schedule 1A added L.N. 156 of 2012)
+- To avoid doubt, a CCP referred to in section 1 of this Schedule may be either a qualifying CCP or a non-qualifying CCP (within the meaning of section 226V(1) of these Rules). (L.N. 51 of 2013) (Schedule 1A added L.N. 156 of 2012)

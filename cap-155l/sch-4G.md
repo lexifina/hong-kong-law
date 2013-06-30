@@ -28,7 +28,7 @@ Deduction of Holdings where Authorized Institution has Significant Capital Inves
 
     - (e) the institution may, with the prior consent of the Monetary Authority, temporarily exclude certain investments where they have been made in the context of resolving or providing financial assistance to reorganize a distressed authorized institution.
 
-  - (5) For the purposes of subsection (4)(c), an authorized institution must risk-weight underwriting positions referred to in that subsection in accordance with the applicable risk-weight under Part 4, 5 or 6 of these Rules, as the case requires.
+  - (5) For the purposes of subsection (4)(c), an authorized institution must risk-weight underwriting positions referred to in that subsection in accordance with the applicable risk-weight under Part 4, 5, 6 or 8 of these Rules, as the case requires. (L.N. 51 of 2013)
 
   - (6) An authorized institution may, with the prior consent of the Monetary Authority, map the capital instrument referred to in subsection (4)(d) to Additional Tier 1 capital or Tier 2 capital, as appropriate, whichever is of the closest corresponding quality for the purposes of the deduction.
 

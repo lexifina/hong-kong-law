@@ -52,23 +52,23 @@ Transitional Arrangements in relation to Banking (Capital) (Amendment) Rules 201
 
     - 1 January 2017 | 80% | 20%
 
-  - (5) Table C applies, for the purposes of deduction from 1 January 2013 to 31 December 2017 (both dates inclusive), in respect of items that were subject to deduction on an equal basis from core capital and supplementary capital under section 48(2) of the preamended Capital Rules before 1 January 2013 but are subject to deduction from CET1 capital on and after 1 January 2013. Table C Deductions from 1 January 2013 to 31 December 2017
+  - (5) Table C applies, for the purposes of deduction from 1 January 2013 to 31 December 2017 (both dates inclusive), in respect of items that were subject to deduction on an equal basis from core capital and supplementary capital under section 48(2) of the preamended Capital Rules before 1 January 2013 but are subject to deduction from CET1 capital, Additional Tier 1 capital or Tier 2 capital, as the case requires, on and after 1 January 2013. (L.N. 51 of 2013) Table C Deductions from 1 January 2013 to 31 December 2017
 
   - (both dates inclusive)
 
-  - Date from which deduction is to be made | Amount to be deducted from CET1 capital expressed in percentage points | Amount to be deducted from Tier 1 capital* expressed in percentage points | Amount to be deducted from Tier 2 capital expressed in percentage points
+  - Date from which deduction is to be made | Amount to be deducted from CET1 capital, Additional Tier 1 capital or Tier 2 capital, as the case requires, expressed in percentage points | Remaining amount to be deducted on an equal basis from Tier 1 capital and Tier 2 capital expressed in percentage points
 
-  - 1 January 2013 | 0% | 50% | 50%
+  - 1 January 2013 | 0% | 100%
 
-  - 1 January 2014 | 20% | 60% | 40%
+  - 1 January 2014 | 20% | 80%
 
-  - 1 January 2015 | 40% | 70% | 30%
+  - 1 January 2015 | 40% | 60%
 
-  - 1 January 2016 | 60% | 80% | 20%
+  - 1 January 2016 | 60% | 40%
 
-  - 1 January 2017 | 80% | 90% | 10%
+  - 1 January 2017 | 80% | 20%
 
-  - * The amount required to be deducted as specified under this column includes the amount required to be deducted from CET1 capital.
+- (L.N. 51 of 2013)
 
   - (6) For the purpose of a deduction that an authorized institution is required to make from Tier 1 capital and Tier 2 capital by virtue of the application of Table C—
 
@@ -122,9 +122,9 @@ Transitional Arrangements in relation to Banking (Capital) (Amendment) Rules 201
 
     - (b) that were issued on or before 31 December 2012 and—
 
-      - (i) in the case of Additional Tier 1 capital instruments, meet the qualifying criteria set out in Schedule 4B (excluding section 1(p) of that Schedule); or
+      - (i) in the case of Additional Tier 1 capital instruments, meet the qualifying criteria set out in Schedule 4B (excluding section 1(q) of that Schedule); or
 
-      - (ii) in the case of Tier 2 capital instruments, meet the qualifying criteria set out in Schedule 4C (excluding section 1(j) of that Schedule),
+      - (ii) in the case of Tier 2 capital instruments, meet the qualifying criteria set out in Schedule 4C (excluding section 1(k) of that Schedule), (L.N. 51 of 2013)
 
   - multiplied by a progressively reducing percentage during the period as specified in Table E.
 
