@@ -66,10 +66,6 @@ Process | Description
 
 30. Glass Works | Works in which the processing capacity exceeds 200 tonnes per annum (expressed as the glass products) and in which manufacturing process for making glass or glass products including mineral fibre and glass fibre is carried out.
 
-*31. Paint Works | Works in which the processing capacity exceeds 35 m3 (expressed as coating products) and in which coating products including paints, vanishes and lacquers are produced or manufactured.
+31. Paint Works | Works in which the processing capacity exceeds 35 m3 (expressed as coating products) and in which coating products including paints, vanishes and lacquers are produced or manufactured.
 
 (Schedule 1 replaced 13 of 1993 s. 33)
-
-Editorial Note:
-
-* Not yet in operation.
