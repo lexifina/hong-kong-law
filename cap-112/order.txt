@@ -230,6 +230,7 @@ s-091.md
 s-092.md
 s-093.md
 s-094.md
+s-095.md
 sch-1.md
 sch-2.md
 sch-3.md
@@ -260,3 +261,5 @@ sch-23.md
 sch-24.md
 sch-25.md
 sch-26.md
+sch-27.md
+sch-28.md
