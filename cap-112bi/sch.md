@@ -18,9 +18,9 @@ PARTICULARS TO BE CONTAINED IN DISCLOSURE REQUEST
 
   - (c) the form in which the competent authority wishes to receive the information from the Commissioner.
 
-- 5. The ground for believing that the information requested is held by the Commissioner or is in the possession of a person in Hong Kong.
+- 5. The ground for believing that the information requested is held by the Commissioner or is in the possession or control of a person in Hong Kong. (9 of 2013 s. 9)
 
-- 6. The name and address of any person believed to have possession of the information requested.
+- 6. The name and address of any person believed to have possession or control of the information requested. (9 of 2013 s. 9)
 
 - 7. A statement that—
 
