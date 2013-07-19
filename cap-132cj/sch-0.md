@@ -12,15 +12,19 @@
 
 - (a) mobile van | 18480 per year
 
-- (b) frozen confectionery | 2640 per year
+- (b) frozen confectionery (L.N. 84 of 2013) | 2100 per year
 
 - (c) other classes | 980 per year
 
-- 3. | Temporary licence | 350
+- 3. | Temporary licence—
 
-- 4. | Permission to appoint deputy | One half of the fee of his principal’s licence
+- (a) if the licensee is authorized to hawk from a fixed pitch | The lesser of the following— (i) $350; (ii) 1/12 of the sum of the amount specified in item 1 and the appropriate amount specified in Part B of this Schedule
 
-- 5. | Duplicate copy of licence, hawker’s badge or pitch card | 350
+- (b) in any other case (L.N. 84 of 2013) | 350
+
+- 4. | Deputy’s permit (L.N. 84 of 2013) | One half of the fee of his principal’s licence
+
+- 5. | Duplicate copy of a licence mentioned in items 1, 2 and 3, a permit mentioned in item 4, a hawker’s badge or a pitch card (L.N. 84 of 2013) | 230
 
 - B. Fees for allocation and use of hawker pitches or stalls
 
@@ -33,6 +37,16 @@
 - 3. | Newspaper | 1478 per year
 
 - 4. | Tradesman | 1478 per year
+
+- 4A. | Bootblack (L.N. 84 of 2013) | 490 per year
+
+- 4B. | Barber (L.N. 84 of 2013) | 490 per year
+
+- 4C. | Wall stall—
+
+- (a) not exceeding 1.1m2 | 490 per year
+
+- (b) exceeding 1.1m2 (L.N. 84 of 2013) | 5180 per year
 
 - 5. | Other classes—
 
