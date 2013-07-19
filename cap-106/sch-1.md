@@ -1,6 +1,6 @@
 Editorial Note:
 
-* Commencement date : 1 April 2012.
+* Commencement date: 19 July 2013.
 
 # Schedule 1
 
