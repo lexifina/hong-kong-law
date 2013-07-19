@@ -64,7 +64,7 @@
 
 Item | Sum
 
-1. | Penalty to be added where full payment has not been received in respect of-
+1. | Penalty to be added where full payment has not been received in respect of—
 
 (a) a prescribed branch registration fee and levy—
 
@@ -88,13 +88,19 @@ Item | Sum
 
 3. | Levy—
 
-(a) on or after the day on which section 18 of the Business Registration (Amendment) Ordinance 2010 (13 of 2010) comes into operation—
+(a) on or after 21 February 2011 and before 19 July 2013— (Amended L.N. 91 of 2013)
 
 (i) where no election is made under section 6(5C) | $450
 
 (ii) where an election is made under section 6(5C) (Replaced 13 of 2010 s. 18) | $1,350
 
-( Amended L.N. 57 of 1995; 3 of 1999 s. 17; L.N. 90 of 1999 and 44 of 1999 s. 29; 13 of 2010 s. 18; 13 of 2010 s. 18) (Schedule 2 added 33 of 1994 s. 8)
+(b) on or after 19 July 2013—
+
+(i) where no election is made under section 6(5C) | $250
+
+(ii) where an election is made under section 6(5C) (Added L.N. 91 of 2013) | $750
+
+(Amended L.N. 57 of 1995; 3 of 1999 s. 17; L.N. 90 of 1999 and 44 of 1999 s. 29; 13 of 2010 s. 18) (Schedule 2 added 33 of 1994 s. 8)
 
 Editorial Note:
 
