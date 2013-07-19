@@ -111,6 +111,16 @@ s-046.md
 s-047.md
 s-047A.md
 s-047B.md
+s-047C.md
+s-047D.md
+s-047E.md
+s-047F.md
+s-047G.md
+s-047H.md
+s-047I.md
+s-047J.md
+s-047K.md
+s-047L.md
 s-048.md
 s-049.md
 s-050.md
@@ -135,6 +145,7 @@ s-065.md
 s-066.md
 s-067.md
 s-068.md
+s-069.md
 s-070.md
 s-071.md
 sch-1.md
@@ -142,3 +153,5 @@ sch-2.md
 sch-3.md
 sch-4.md
 sch-5.md
+sch-6.md
+sch-7.md

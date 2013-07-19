@@ -1,6 +1,6 @@
 # Schedule 16
 
-[s. 20AC]
+[s. 20AC & Schs. 17A & 29] (Amended 10 of 2013 s. 19)
 
 Specified Transactions
 
@@ -80,7 +80,7 @@ Specified Transactions
 
   - securities (證券) means—
 
-    - (a) shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a body, whether incorporated or unincorporated, or a government or municipal government authority;
+    - (a) subject to section 21(6) of Schedule 17A (specified alternative bond scheme and its tax treatment), shares, stocks, debentures, loan stocks, funds, bonds or notes of, or issued by, a body, whether incorporated or unincorporated, or a government or municipal government authority; (Amended 10 of 2013 s. 19)
 
     - (b) rights, options or interests (whether described as units or otherwise) in, or in respect of, such shares, stocks, debentures, loan stocks, funds, bonds or notes;
 

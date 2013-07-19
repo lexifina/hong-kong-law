@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29G, 29H, 30, 44, 45 & 47B & 2nd Sch.] (Replaced 14 of 2011 s. 15. Amended 2 of 2014 s. 20; 14 of 2014 s. 28)
+[ss. 2, 4, 5, 5A, 13, 18D, 19, 19A, 20, 29, 29A, 29AB, 29AC, 29AD, 29AE, 29AH, 29AI, 29AJ, 29AK, 29AL, 29AM, 29AN, 29AO, 29AP, 29AQ, 29AR, 29AS, 29BA, 29BB, 29BC, 29BD, 29BE, 29BF, 29BG, 29BH, 29BI, 29BJ, 29BK, 29C, 29CA, 29CB, 29CC, 29D, 29DA, 29DB, 29DC, 29DE, 29DF, 29DG, 29DH, 29G, 29H, 30, 44, 45, 47B, 47F, 47G, 63A, 70 & 71 & 2nd Sch. & Sch. 7] (Replaced 14 of 2011 s. 15. Amended 10 of 2013 s. 34; 2 of 2014 s. 20; 14 of 2014 s. 28)
 
 Nature of Instrument | (A) Stamp Duty (B) Time for stamping (C) Persons liable
 
