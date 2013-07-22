@@ -16,6 +16,8 @@ Buddhist Li Chong Yuet Ming Nursing Home for the Elderly (佛教李莊月明護�
 
 Canossa Hospital (Caritas) (嘉諾撒醫院)
 
+Caritas Evergreen Home (明愛恩翠苑) (Added L.N. 101 of 2013)
+
 Caritas Medical Centre (明愛醫院)
 
 Caritas Wong Yiu Nam Centre (明愛黃耀南中心)
@@ -31,6 +33,10 @@ ELCHK, Grace Court (基督教香港信義會恩頤居) (Added L.N. 56 of 2011)
 Evangel Hospital (播道醫院)
 
 Evergreen Nursing Home Cum Day Care Centre (松悅園耆欣護養院暨日間護理中心)
+
+Evergreen (Tsz Ching) Nursing Home Cum Day Care Centre (松悅園耆逸護養院暨日間護理中心) (Added L.N. 101 of 2013)
+
+Fung Kai Care and Attention Home for the Elderly—C&A Section (鳳溪護理安老院—護理部) (Added L.N. 101 of 2013)
 
 General Eye and Low Vision Centre (普通眼科及低視能中心)
 
@@ -53,8 +59,6 @@ Hong Kong Adventist Hospital (香港港安醫院)
 Hong Kong Baptist Hospital (香港浸信會醫院)
 
 Hong Kong Buddhist Hospital (香港佛教醫院)
-
-Hong Kong Central Hospital (港中醫院)
 
 Hong Kong Christian Service Jockey Club Lodge of Rising Sun (香港基督教服務處賽馬會日出山莊)
 
@@ -92,6 +96,8 @@ Matilda & War Memorial Hospital (明德醫院)
 
 North District Hospital (北區醫院)
 
+North Lantau Hospital (北大嶼山醫院) (Added L.N. 101 of 2013)
+
 Oasis Nursing Home (紫雲間沁怡護養院)
 
 Our Lady of Maryknoll Hospital (聖母醫院)
@@ -106,11 +112,19 @@ Po Leung Kuk Kwai Chung Home for the Elderly (保良局葵涌護老院)
 
 Po Leung Kuk Kwok Law Kwai Chun Home for the Elderly (保良局郭羅桂珍護老院)
 
+Po Leung Kuk Merry Court for the Senior (保良局壬午年耆樂居) (Added L.N. 101 of 2013)
+
+Po Leung Kuk Tai Kok Tsui Home for the Elderly cum Cherish Day Care Centre for the Elderly (保良局大角咀護老院暨耆順長者日間護理中心) (Added L.N. 101 of 2013)
+
 Po Leung Kuk Tin Yan Home for the Elderly cum Green Joy Day Care Centre for the Elderly (保良局天恩護老院暨耆昌長者日間護理中心)
+
+Po Leung Kuk Tung Chung Home for the Elderly (保良局東涌護老院) (Added L.N. 101 of 2013)
 
 Pok Oi Hospital (博愛醫院)
 
 Pok Oi Hospital Tuen Mun Nursing Home (博愛醫院屯門護養院)
+
+Power of Love Centaline Charity Fund Dialysis Centre Limited (愛心力量中原慈善基金洗腎中心有限公司) (Added L.N. 101 of 2013)
 
 Precious Blood Hospital (Caritas) (寶血醫院(明愛))
 
@@ -170,6 +184,8 @@ Tung Wah Group of Hospitals Fung Yiu King Hospital (東華三院馮堯敬醫院)
 
 Tung Wah Group of Hospitals Haemodialysis Centre (東華三院血液透析中心)
 
+Tung Wah Group of Hospitals Willow Lodge (東華三院翠柳頤庭) (Added L.N. 101 of 2013)
+
 Tung Wah Group of Hospitals Women’s Welfare Club Western District, Hong Kong Residential Care Home for the Elderly (東華三院香港西區婦女福利會護養安老院)
 
 Tung Wah Group of Hospitals Wong Tai Sin Hospital (東華三院黃大仙醫院)
@@ -186,7 +202,7 @@ Wong Chuk Hang Hospital (黃竹坑醫院)
 
 Yan Chai Hospital (仁濟醫院)
 
-Yan Chai Hospital Au Yeung Sum Memorial Elderly Home cum Day Care Unit (仁濟醫院歐陽森紀念安老院暨日間護理中心)
+Yan Chai Hospital Lee Wai Siu Kee Elderly Home (仁濟醫院李衛少琦安老院) (Added L.N. 101 of 2013)
 
 Yan Chai Nursing Home (仁濟護養院)
 
@@ -196,7 +212,7 @@ Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (�
 
 Yuen Yuen Nursing Home (Sau Mau Ping Estate) (圓玄護養院(秀茂坪邨))
 
-(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010)
+(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010; L.N. 101 of 2013)
 
 Editorial Note:
 
