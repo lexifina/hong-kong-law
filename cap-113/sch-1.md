@@ -14,6 +14,8 @@ Kwai Chung Hospital
 
 North District Hospital (Added L.N. 623 of 1997)
 
+North Lantau Hospital (Added L.N. 102 of 2013)
+
 Pamela Youde Nethersole Eastern Hospital (Added L.N. 385 of 1993)
 
 Prince of Wales Hospital
