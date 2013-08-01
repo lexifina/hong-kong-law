@@ -16,6 +16,12 @@ Judge of the Court of First Instance
 
 Recorder of the Court of First Instance (Added 80 of 1994 s. 12)
 
+President, Competition Tribunal (Added 14 of 2012 s. 176)
+
+Deputy President, Competition Tribunal (Added 14 of 2012 s. 176)
+
+Member, Competition Tribunal (Added 14 of 2012 s. 176)
+
 Chief District Judge (Added L.N. 7 of 1995)
 
 Principal Family Court Judge (Added L.N. 88 of 2009)
@@ -55,6 +61,12 @@ Senior Deputy Registrar, High Court (Added 10 of 2005 s. 131)
 Deputy Registrar, High Court (Added L.N. 268 of 1986)
 
 Assistant Registrar, High Court (Added L.N. 268 of 1986)
+
+Registrar of the Competition Tribunal (Added 14 of 2012 s. 176)
+
+Senior Deputy Registrar, Competition Tribunal (Added 14 of 2012 s. 176)
+
+Deputy Registrar, Competition Tribunal (Added 14 of 2012 s. 176)
 
 Registrar of the District Court (Added 28 of 2000 s. 45)
 
