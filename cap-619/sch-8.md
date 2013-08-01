@@ -6,7 +6,9 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
 - (1. Parts 5 and 7 and section 32 have come into operation on 18 January 2013;
 
-- 2. Remaining provisions are not yet in operation-see L.N. 177 of 2012.)
+- 2. Part 3 has come into operation on 1 August 2013;
+
+- 3. Remaining provisions are not yet in operation-see L.N. 177 of 2012.)
 
 - PART 1 AMENDMENTS TO COMPANIES ORDINANCE
 
