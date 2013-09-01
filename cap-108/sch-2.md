@@ -1,13 +1,3 @@
-# SCHEDULE 2
+# Schedule 2
 
-[ss. 1A & 6GD]
-
-DISCOUNT RATE
-
-- PART 1 DISCOUNT RATE FOR A PLACE OUTSIDE HONG KONG
-
-- (OTHER THAN SPECIFIED PLACES) 50%
-
-- PART 2 DISCOUNT RATE FOR SPECIFIED PLACES Specified place Discount rate
-
-  - 1. Macau 40% (Schedule 2 added 17 of 2006 s. 21)
+(Repealed 6 of 2013 s. 16)

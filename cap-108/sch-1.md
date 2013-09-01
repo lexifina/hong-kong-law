@@ -2,9 +2,11 @@
 
 [s. 6GD]
 
-RATE OF DUTY ON NET STAKE RECEIPTS
+Rate of Duty on Net Stake Receipts from Local Horse Races
 
-Net stake receipts that are derived from the conduct of authorized betting on horse races by a horse race betting conductor in respect of a charging period | Rate of duty %
+(Amended 6 of 2013 s. 15)
+
+Net stake receipts that are derived from the conduct of authorized betting on local horse races by a horse race betting conductor in respect of a charging period | Rate of duty %
 
 (a) | On the first $11,000,000,000 of the net stake receipts | 72.5
 
@@ -18,4 +20,4 @@ Net stake receipts that are derived from the conduct of authorized betting on ho
 
 (f) | On the remainder | 75
 
-(Schedule 1 added 17 of 2006 s. 21)
+(Schedule 1 added 17 of 2006 s. 21. Amended 6 of 2013 s. 15)

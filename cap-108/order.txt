@@ -23,8 +23,10 @@ s-006GB.md
 s-006GC.md
 s-006GD.md
 s-006GE.md
+s-006GEA.md
 s-006GF.md
 s-006GG.md
+s-006GGA.md
 s-006GH.md
 s-006GI.md
 s-006GJ.md
@@ -74,3 +76,4 @@ s-008.md
 s-009.md
 sch-1.md
 sch-2.md
+sch-3.md
