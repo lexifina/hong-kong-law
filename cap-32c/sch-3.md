@@ -8,27 +8,27 @@ Item | Particular | Fee $
 
 1. | On an inspection of a liquidator’s statement sent to the Registrar of Companies under section 284 (L.N. 412 of 1994; L.N. 85 of 1996; L.N. 468 of 1997) . | 26.00
 
-1A. | On an inspection of a copy of the liquidator’s accounts filed under section 203(4) or (6) (L.N. 202 of 1984; L.N. 198 of 1987) . | 12.00
+1A. | On an inspection of a copy of the liquidator’s accounts filed under section 203(4) or (6) (L.N. 202 of 1984; L.N. 198 of 1987; L.N. 173 of 2013) . | 11.00
 
 2. | For a copy of or extract from any such statement— (a) if the copy is made by photographic means— for each page or portion of a page . Provided that, where any copy exceeds in size 210 x 297 mm, such additional fee, not exceeding $5, shall be paid as the Registrar may direct; (L.N. 397 of 1984; L.N. 412 of 1994; L.N. 85 1996; L.N. 468 of 1997) (b) if the copy is made by other means— per page (uncertified) . per page (certified) (L.N. 412 of 1994; L.N. 85 1996; L.N. 468 of 1997) . | 13.00 4.00 8.00
 
-3. | On an application by a liquidator to the Official Receiver for a special bank account under section 202 (L.N. 221 of 1989; 46 of 2000 s. 40) . | 390.00
+3. | On an application by a liquidator to the Official Receiver for a special bank account under section 202 (L.N. 221 of 1989; 46 of 2000 s. 40; L.N. 173 of 2013) . | 360.00
 
-4. | On an order by the Official Receiver for a special bank account (L.N. 221 of 1989) . | 390.00
+4. | On an order by the Official Receiver for a special bank account (L.N. 221 of 1989; L.N. 173 of 2013) . | 360.00
 
-4A. | On an application by a liquidator to the Official Receiver acting as a committee of inspection (L.N. 221 of 1989) . | 390.00
+4A. | On an application by a liquidator to the Official Receiver acting as a committee of inspection (L.N. 221 of 1989; L.N. 173 of 2013) . | 360.00
 
-5. | On an application to the Official Receiver— (a) under section 285 for payment of money out of the Companies Liquidation Account; or (b) after 6 months from the date of issue, for the re-issue of a lapsed cheque or money order in respect of moneys standing to the credit of that account. (L.N. 221 of 1989) . | 60.00
+5. | On an application to the Official Receiver— (a) under section 285 for payment of money out of the Companies Liquidation Account; or (b) after 6 months from the date of issue, for the re-issue of a lapsed cheque or money order in respect of moneys standing to the credit of that account. (L.N. 221 of 1989; L.N. 173 of 2013) . | 55.00
 
-6. | (a) On every payment under section 285 of money out of the Companies Liquidation Account— on each $1,000 or fraction of $1,000 . to be charged as follows— where the money consists of unclaimed dividends, on each dividend paid out; where the money consists of undistributed funds or balances, on the amount paid out; (b) the total fees taken under this item in respect of undistributed funds or balances shall not exceed $45,000 in each liquidation. (L.N. 221 of 1989) | 50.00
+6. | (a) On every payment under section 285 of money out of the Companies Liquidation Account— on each $1,000 or fraction of $1,000 . to be charged as follows— where the money consists of unclaimed dividends, on each dividend paid out; where the money consists of undistributed funds or balances, on the amount paid out; (b) the total fees taken under this item in respect of undistributed funds or balances shall not exceed $37,500 in each liquidation. (L.N. 221 of 1989; L.N. 173 of 2013) | 50.00
 
-7. | For insertion in the Gazette of a notice relating to a company which is being wound up by the court (L.N. 221 of 1989) . | 355.00
+7. | For insertion in the Gazette of a notice relating to a company which is being wound up by the court (L.N. 221 of 1989; L.N. 173 of 2013) . | 330.00
 
-8. | On an application by a member of the public to the Official Receiver for a search on whether a winding-up petition has been presented against a company (L.N. 221 of 1989) . | 85.00
+8. | On an application by a member of the public to the Official Receiver for a search on whether a winding-up petition has been presented against a company (L.N. 221 of 1989; L.N. 173 of 2013) . | 80.00
 
 9. | (Repealed 46 of 2000 s. 40)
 
-10. | On proof of debt above $250 (other than a proof for workmen’s wages) . This fee includes administering oath and filing. No fee is payable on a proof for $250 or under. (46 of 2000 s. 40) | 40.00
+10. | On proof of debt above $250 (other than a proof for workmen’s wages) (L.N. 173 of 2013) . This fee includes administering oath and filing. No fee is payable on a proof for $250 or under. (46 of 2000 s. 40) | 35.00
 
 TABLE B
 
@@ -64,26 +64,28 @@ TABLE B
 
   - IV. In all other cases where the Official Receiver acts as liquidator of the company (to include his services as provisional liquidator—
 
-    - (1) In respect of every 10 members, creditors and debtors, and every fraction of 10 (L.N. 251 of 1981; L.N. 140 of 1985) . $670 (This fee is to include cost of official stationery, printing, books, forms and postages in Hong Kong).
+    - (1) In respect of every 10 members, creditors and debtors, and every fraction of 10 (L.N. 251 of 1981; L.N. 140 of 1985; L.N. 173 of 2013) . $620 (This fee is to include cost of official stationery, printing, books, forms and postages in Hong Kong).
 
-    - (2) Upon the total assets, including the produce of calls on contributories, realized or brought to credit by the Official Receiver, after deducting sums on which fees are chargeable under number V of this Table, and the amount spent out of the money received in carrying on the business of the company, 10%. (L.N. 140 of 1985)
+    - (2) On every payment made into the Companies Liquidation Account under section 202 . $170 The payment referred to in this paragraph does not include any of the following—
 
-    - (3) On the amount distributed in dividend or paid to contributories, preferential creditors, and debenture holders by the Official Receiver, 5%.
+- (a) where the Official Receiver collects, calls or realizes property for debenture holders—the total assets, including the produce of calls on contributories, realized or brought to credit by the Official Receiver;
 
-  - V. Where the Official Receiver collects, calls or realizes property for debenture holders—
+- (b) money received in carrying on the business of the company. (L.N. 173 of 2013)
 
-- the same fees as under number IV(2) and (3) of this table, to be paid out of the proceeds of such calls or property.
+  - (3) On the amount distributed in dividend or paid to contributories, preferential creditors, and debenture holders by the Official Receiver, 5%.
 
-  - VI. Where the Official Receiver realizes property for secured creditors other than debenture holders— the same fees as under number IV(2) of this table, to be paid out of the proceeds of such property.
+    - V. Where the Official Receiver collects, calls or realizes property for debenture holders, the following fees are to be paid out of the proceeds of the calls or property— (L.N. 173 of 2013)
 
-  - VII.
+  - (1) On the total assets, including the produce of calls on contributories, realized or brought to credit by the Official Receiver, after deducting the amount spent out of the money received in carrying on the business of the company, 10%.
 
-  - Where the Official Receiver performs any special duties not provided for under the foregoing numbers in these Tables—
+  - (2) The same fee as under number IV(3) of this Table. (L.N. 173 of 2013)
 
-  - such amount as the court, on the application of the Official Receiver may consider reasonable.
+    - VI. Where the Official Receiver realizes property for secured creditors other than debenture holders, the following fee is to be paid out of the proceeds of the property— (L.N. 173 of 2013) On the total assets, including the produce of calls on contributories, realized or brought to credit by the Official Receiver, after deducting the amount spent out of the money received in carrying on the business of the company, 10%. (L.N. 173 of 2013)
+
+    - VII. Where the Official Receiver performs any special duties not provided for under the foregoing numbers in these Tables— such amount as the court, on the application of the Official Receiver may consider reasonable.
 
     - VIII. Travelling, keeping possession, law costs, and other reasonable expenses of the Official Receiver-the amount disbursed.
 
-  - IX. Notwithstanding the fees and percentages prescribed in number I and numbers III to VII of this Table, where the Official Receiver acts as liquidator of the company, the total fees under those numbers shall not be less than $12,150.
+    - IX. Notwithstanding the fees and percentages prescribed in number I and numbers III to VII of this Table, where the Official Receiver acts as liquidator of the company, the total fees under those numbers shall not be less than $11,250. (L.N. 173 of 2013)
 
 (L.N. 140 of 1985)(G.N.A. 106 of 1955; L.N. 52 of 1964; L.N. 9 of 1976; L.N. 251 of 1981; L.N. 140 of 1985; L.N. 270 of 1993; L.N. 431 of 1993; L.N. 569 of 1994; L.N. 93 of 1996; L.N. 168 of 1997)
