@@ -66,8 +66,6 @@ Kut Shing Street Cooked Food Market | 吉勝街熟食市場 (78 of 1999 s. 7)
 
 Kwai Shun Street Cooked Food Market | 葵順街熟食市場 (L.N. 347 of 1988)
 
-Kwong Choi Market | 廣財街市 (L.N. 350 of 1981)
-
 Kwu Tung Market Shopping Centre | 古洞街市購物中心 (L.N. 280 of 1985)
 
 Kwun Chung Market, Kwun Chung Complex | 官涌街市 (78 of 1999 s. 7)
@@ -85,8 +83,6 @@ Lei Yue Mun Market | 鯉魚門街市 (L.N. 195 of 2002)
 Lockhart Road Market | 駱克道街市 (78 of 1999 s. 7)
 
 Luen Wo Hui Market | 聯和墟街市 (L.N. 96 of 2002)
-
-Mong Kok Market | 旺角街市 (78 of 1999 s. 7)
 
 Mong Kok Cooked Food Market | 旺角熟食市場 (L.N. 125 of 2005)
 
@@ -210,7 +206,7 @@ Yue Kwong Road Market | 漁光道街市 (78 of 1999 s. 7)
 
 Yue Wan Market | 漁灣街市 (78 of 1999 s. 7)
 
-(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005; L.N. 39 of 2006; L.N. 10 of 2007; L.N. 180 of 2008; L.N. 205 of 2009)
+(L.N. 43 of 1995; L.N. 164 of 1996; L.N. 263 of 2000; L.N. 140 of 2001; L.N. 198 of 2003; L.N. 168 of 2004; L.N. 18 of 2005; L.N. 39 of 2006; L.N. 10 of 2007; L.N. 180 of 2008; L.N. 205 of 2009; L.N. 105 of 2013)
 
 Editorial Note:
 
