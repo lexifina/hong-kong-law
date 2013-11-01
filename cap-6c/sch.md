@@ -10,13 +10,13 @@ Item | Description | Fee $
 
 3. | Bankruptcy petition . This fee includes any fee on answering a petition or setting down for hearing. (L.N. 127 of 2007) | 1045.00
 
-4. | Proof of debt above $250, including filing, (other than a proof for workmen’s wages) (L.N. 567 of 1994; L.N. 164 of 1997) . | 40.00
+4. | Proof of debt above $250, including filing, (other than a proof for workmen’s wages) (L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013) . | 35.00
 
 5. | Petition under section 112 . This fee includes any fee on answering a petition or setting down for hearing. (L.N. 127 of 2007) | 1045.00
 
 6. | (a) Application for early discharge, for the suspension of discharge or for the lifting of a suspension of discharge including any gazetting costs (L.N. 83 of 1998) . | 528.00
 
-(b) and for each creditor notified (L.N. 164 of 1997) . | 35.00
+(b) and for each creditor notified (L.N. 164 of 1997; L.N. 171 of 2013) . | 28.00
 
 7. | Search in the High Court Registry (other than by a petitioner, trustee, bankrupt or any officer of the court) for a document or file referred to or required (25 of 1998 s. 2) . | 18.00
 
@@ -24,7 +24,7 @@ Item | Description | Fee $
 
 9. | Allocatur by the Registrar for any costs, charges or disbursements, for every $100 allowed or part thereof . | 6.00
 
-10. | Application to the Official Receiver for payment of money out of the Bankruptcy Estates Account (L.N. 567 of 1994; L.N. 164 of 1997) | 85.00
+10. | Application to the Official Receiver for payment of money out of the Bankruptcy Estates Account (L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013) . | 80.00
 
 11. | (a) On every payment of money out of the Bankruptcy Estates Account— on each $1,000 or fraction of $1,000 to be charged as follows—
 
@@ -32,7 +32,7 @@ Item | Description | Fee $
 
 (ii) where the money consists of undistributed funds or balances, on the amount paid out . | 50.00
 
-(b) The total fees taken under item 11(a)(ii) shall not exceed $45,000 in each bankruptcy. (L.N. 164 of 1997)
+(b) The total fees taken under item 11(a)(ii) shall not exceed $37,500 in each bankruptcy. (L.N. 164 of 1997; L.N. 171 of 2013)
 
 12. | On an application to the court for an interim order under section 20, a fee computed at the following rates on the gross amount of the proposal—
 
@@ -44,19 +44,19 @@ Item | Description | Fee $
 
 14. | On an application for release by a trustee— for every $1,000 or fraction of $1,000 of the gross amount of assets realized and brought to credit . | 5.00
 
-15. | Registration of assignment of book debts under rule 127— (a) on producing original assignment, filing attested copy thereof and certified translation (when necessary) in the English or Chinese language, including registering and marking original (L.N. 83 of 1998) | 220.00
+15. | Registration of assignment of book debts under rule 127— (a) on producing original assignment, filing attested copy thereof and certified translation (when necessary) in the English or Chinese language, including registering and marking original (L.N. 83 of 1998) . | 220.00
 
-(b) every search or official certificate of the result of a search in one name in any register or index in the custody of the Register | 220.00
+(b) every search or official certificate of the result of a search in one name in any register or index in the custody of the Register . | 220.00
 
-(c) for every additional name if included in the same certificate | 110.00
+(c) for every additional name if included in the same certificate . | 110.00
 
-(d) for a duplicate copy of a certificate, per page or part thereof | 35.00
+(d) for a duplicate copy of a certificate, per page or part thereof . | 35.00
 
-16. | Application by a member of the public to the Official Receiver for a search on whether a bankruptcy petition has been presented against a person or firm (L.N. 223 of 1989; L.N. 567 of 1994; L.N. 164 of 1997) . | 85.00
+16. | Application by a member of the public to the Official Receiver for a search on whether a bankruptcy petition has been presented against a person or firm (L.N. 223 of 1989; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013) . | 80.00
 
-17. | Application by a member of the public to the Official Receiver for issue of a non-bankruptcy certificate for a person (L.N. 567 of 1994; L.N. 164 of 1997) . | 205.00
+17. | Application by a member of the public to the Official Receiver for issue of a non-bankruptcy certificate for a person (L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013) . | 190.00
 
-18. | For insertion in the Gazette of a notice relating to bankruptcy (L.N. 223 of 1989; L.N. 567 of 1994; L.N. 164 of 1997) . | 355.00
+18. | For insertion in the Gazette of a notice relating to bankruptcy (L.N. 223 of 1989; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013) . | 330.00
 
 19. | Examination by a creditor of the record signed by the bankrupt under section 19 (L.N. 83 of 1998) . | 85.00
 
@@ -68,7 +68,17 @@ Item | Description | Fee $
 
 TABLE B
 
-- 1. On payments made by the Official Receiver into the Official Receiver in Bankruptcy Account, whether acting as interim trustee or trustee to administer a debtor’s or bankrupt’s property, and on payments made by the Official Receiver into any bank account opened by him in his capacity as nominee under a voluntary arrangement, after deducting any sums paid to secured creditors in respect of their securities, and not being monies received and spent in carrying on the business of a debtor or bankrupt, a charge of 10%. (L.N. 427 of 1993; L.N. 83 of 1998; L.N. 127 of 2007)
+- 1. On payments made by the Official Receiver into any bank account opened by him in his capacity as nominee under a voluntary arrangement, after deducting any sums paid to secured creditors in respect of their securities, and not being monies received and spent in carrying on the business of a debtor, a charge of 10%. (L.N. 427 of 1993; L.N. 83 of 1998; L.N. 127 of 2007; L.N. 171 of 2013)
+
+- 1A.
+
+- For the Official Receiver acting as interim trustee, or trustee to administer a debtor’s or bankrupt’s property, on every payment made into the Official Receiver in Bankruptcy Account …….……. $170
+
+- The payment referred to in this paragraph does not include any of the following—
+
+  - (a) sums that are payable to secured creditors in respect of their securities;
+
+  - (b) money received in carrying on the business of the debtor or bankrupt. (L.N. 171 of 2013)
 
 - 2.
 
@@ -78,17 +88,17 @@ TABLE B
 
 - 3. On the amount paid to preferential creditors or distributed in dividend or otherwise by the Official Receiver when acting otherwise than as nominee under an approved voluntary arrangement, a charge of 5%. (L.N. 83 of 1998)
 
-- 4. For the Official Receiver acting as interim trustee of the property of a debtor under section 13, in addition to the percentage chargeable on realizations, on every order . $1,100 and in addition, where the order is in force for a longer period than 14 days, for every 7 days after the first 14, and for every fraction of 7 days . $1,100 (L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 127 of 2007)
+- 4. For the Official Receiver acting as interim trustee of the property of a debtor under section 13, in addition to the percentage chargeable on realizations, on every order . $1,000 and in addition, where the order is in force for a longer period than 14 days, for every 7 days after the first 14, and for every fraction of 7 days . $1,000 (L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 127 of 2007; L.N. 171 of 2013)
 
 - 5. For all official stationery, printing and postage within Hong Kong; and to include notices to creditors of meetings and sittings of the court and room hire—
 
-  - (a) for a number of creditors and bankrupts not exceeding 10 . $670
+  - (a) for a number of creditors and bankrupts not exceeding 10 . $620
 
-  - (b) thereafter for every 10 additional creditors and bankrupts or part thereof . $670
+  - (b) thereafter for every 10 additional creditors and bankrupts or part thereof . $620
 
-- This fee does not include the charge which may be made by the Official Receiver on calling a meeting at the request of creditors, for which provision is made in paragraph 6. (L.N. 223 of 1989; L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 83 of 1998)
+- This fee does not include the charge which may be made by the Official Receiver on calling a meeting at the request of creditors, for which provision is made in paragraph 6. (L.N. 223 of 1989; L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 83 of 1998; L.N. 171 of 2013)
 
-- 6. Where the Official Receiver calls a meeting at the request of the creditors, the costs of summoning the meeting, which shall be deemed to include all disbursements for stationery, printing and postage within Hong Kong shall be $1,560. Any charge for hiring a room outside the Official Receiver’s Office by reason of the large number of creditors shall be additional to the said sum. (L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997)
+- 6. Where the Official Receiver calls a meeting at the request of the creditors, the costs of summoning the meeting, which shall be deemed to include all disbursements for stationery, printing and postage within Hong Kong shall be $1,440. Any charge for hiring a room outside the Official Receiver’s Office by reason of the large number of creditors shall be additional to the said sum. (L.N. 427 of 1993; L.N. 567 of 1994; L.N. 164 of 1997; L.N. 171 of 2013)
 
 - 7. For the Official Receiver supervising a special manager or the carrying on of a bankrupt’s business— such amount as the court, on application of the Official Receiver, may consider reasonable. (L.N. 223 of 1989; L.N. 83 of 1998)
 
@@ -116,7 +126,7 @@ TABLE B
 
 - 10. Where the Official Receiver performs any special duties not provided for under the other paragraphs of this Table-such amount as the court, on the application of the Official Receiver, may consider reasonable.
 
-- 11. Notwithstanding the fees and charges prescribed in the foregoing paragraphs but subject to the availability of funds, where the Official Receiver acts as trustee to administer a bankrupt’s property, the total fees and charges under this Table shall not be less than $12,150. (L.N. 164 of 1997; L.N. 83 of 1998) (L.N. 195 of 1987; L.N. 89 of 1996)
+- 11. Notwithstanding the fees and charges prescribed in the foregoing paragraphs but subject to the availability of funds, where the Official Receiver acts as trustee to administer a bankrupt’s property, the total fees and charges under this Table shall not be less than $11,250. (L.N. 164 of 1997; L.N. 83 of 1998; L.N. 171 of 2013) (L.N. 195 of 1987; L.N. 89 of 1996)
 
 TABLE C | [rule 181]
 
