@@ -100,7 +100,7 @@
 
 - 49. The 2nd and 3rd floors of North Kwai Chung Market and Library, Shek Yam Road, Kwai Chung, hatched red on the sketch plans No. 37A and No. 37B dated 31 January 1984, signed by the Director of Urban Services and deposited in the Kwai Chung District Office of the Leisure and Cultural Services Department.
 
-- 50. The part of the 5th floor of the Sai Kung Government Offices, Sai Kung (G.L.A. DS9), hatched red on the sketch plan dated 10 December 1984, signed by the Director of Urban Services and deposited in the Sai Kung District Office of the Leisure and Cultural Services Department.
+- 50. The part of the 5th floor of the Sai Kung Government Offices, 34 Chan Man Street, Sai Kung, shown in pink on the floor plan numbered SKM8395, signed by the Director of Leisure and Cultural Services on 26 June 2013 and deposited in the Hong Kong Central Library. (L.N. 122 of 2013)
 
 - 51. 38 Sai Lau Kok Road, Tsuen Wan.
 
