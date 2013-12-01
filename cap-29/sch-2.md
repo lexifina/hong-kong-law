@@ -1,30 +1,30 @@
 # SCHEDULE 2
 
-[s. 4]
+[s. 4 & 3rd Sch.] (Amended 13 of 2013 s. 40)
 
 AUTHORIZED INVESTMENTS
 
-- 1. Any shares or debentures which are issued or allotted by a company and which satisfy the following conditions at the date the investment is made—
+- 1. Subject to paragraph 7A, any shares or debentures which are issued or allotted by a company and which satisfy the following conditions at the date the investment is made— (Amended 13 of 2013 s. 40)
 
   - (a) in the case of shares—
 
     - (i) the shares are listed on a recognized stock market or specified stock exchange as these terms are defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Replaced 5 of 2002 s. 407)
 
-    - (ii) the market capitalization of the company issuing the shares is not less than $10 billion ($10,000,000,000) or its equivalent in foreign currency; and
+    - (ii) the market capitalization of the company issuing the shares is not less than $5 billion ($5,000,000,000) or its equivalent in foreign currency; and (Amended 13 of 2013 s. 40)
 
-    - (iii) the company has paid, in each of the 5 years immediately preceding the calendar year in which the investment is made, a dividend wholly in cash (except to the extent that any shareholder may have opted to accept it other than wholly in cash) on all the shares issued by the company, excluding any shares issued after the dividend was declared and any shares which by their terms of issue did not rank for the dividend in that year;
+    - (iii) the company has paid, in any 3 years out of the 5 years immediately preceding the calendar year in which the investment is made, a dividend, either wholly in cash or in kind or partly in cash and partly in kind on all the shares issued by the company, excluding any shares issued after the dividend was declared and any shares which by their terms of issue did not rank for the dividend in that year; (Amended 13 of 2013 s. 40)
 
   - (b) in the case of debentures, the security meets the credit rating as specified in the Table.
 
-  - For the purposes of subparagraph (a)(iii) a company formed—
+- For the purposes of subparagraph (a)(iii) a company formed—
 
-    - (i) to take over the business of another company or other companies; or
+  - (i) to take over the business of another company or other companies; or
 
-    - (ii) to acquire the securities of, or control of, another company or other companies,
+  - (ii) to acquire the securities of, or control of, another company or other companies,
 
 - or for either of those purposes and for other purposes shall be deemed to have paid a dividend as mentioned in that subparagraph in any year in which such a dividend has been paid by the other company or all the other companies, as the case may be.
 
-- 2. Any debt security which is issued by, or the payment of principal and interest on which is guaranteed by—
+- 2. Subject to paragraph 7A, any debt security which is issued by, or the payment of principal and interest on which is guaranteed by— (Amended 13 of 2013 s. 40)
 
   - (a) in Hong Kong, the Government of Hong Kong, the Exchange Fund established by the Exchange Fund Ordinance (Cap. 66) or a company 100% of the shares in which are owned beneficially by the Government of Hong Kong; or
 
@@ -34,13 +34,13 @@ AUTHORIZED INVESTMENTS
 
 - 3. Any unit trust or mutual fund authorized as a collective investment scheme under section 104 of the Securities and Futures Ordinance (Cap. 571). (Replaced 5 of 2002 s. 407)
 
-- 4. Any deposit (as defined in section 2 of the Banking Ordinance (Cap. 155)) with an authorized institution.
+- 4. Subject to paragraph 7A, any deposit (as defined in section 2 of the Banking Ordinance (Cap. 155)) with an authorized institution. (Amended 13 of 2013 s. 40)
 
-- 5. Certificates of deposit, bills of exchange, promissory notes or short-term (i.e. less than 1 year) debt securities issued or guaranteed by an authorized institution or by an exempted body.
+- 5. Subject to paragraph 7A, certificates of deposit, bills of exchange, promissory notes or short-term (i.e. less than 1 year) debt securities issued or guaranteed by an authorized institution or by an exempted body. (Amended 13 of 2013 s. 40)
 
-- 6. First legal mortgages of any property, including an undivided share in property, which is situated in Hong Kong and held under a Government lease of which the unexpired term at the time of investment is not less than 50 years, excluding any term for which the lease can be renewed. (Amended 29 of 1998 s. 105)
+- 6. Subject to paragraph 7A, first legal mortgages of any property, including an undivided share in property, which is situated in Hong Kong and held under a Government lease of which the unexpired term at the time of investment is not less than 50 years, excluding any term for which the lease can be renewed. (Amended 29 of 1998 s. 105;13 of 2013 s. 40)
 
-- 7. Any derivatives which are traded on a recognized stock market, specified stock exchange, recognized futures market or specified futures exchange as these terms are defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); except that an investment under this paragraph—
+- 7. Subject to paragraph 7A, any derivatives which are traded on a recognized stock market, specified stock exchange, recognized futures market or specified futures exchange as these terms are defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); except that an investment under this paragraph— (Amended 13 of 2013 s. 40)
 
   - (a) shall be made for hedging purposes only, that is to say, the derivatives acquired shall be of a type and specification suitable for reducing the impact on the trust fund of a diminution in the value of specific assets already held by the trust fund or which are to be acquired at the same time as the derivatives; and
 
@@ -51,6 +51,8 @@ AUTHORIZED INVESTMENTS
     - (ii) the potential loss that could result from acquiring and holding the derivatives and the risk of such occurring; and
 
     - (iii) the nature and extent of the various risks of diminution in the value of the trust fund and the suitability of using derivatives to protect against those risks.
+
+- 7A. Paragraphs 1, 2, 4, 5, 6 and 7 do not include any structured product as defined by section 1A of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571). (Added 13 of 2013 s. 40)
 
 - (Amended 5 of 2002 s. 407)
 
