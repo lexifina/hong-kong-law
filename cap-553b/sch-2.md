@@ -6,7 +6,7 @@ Provisions Excluded from Application of Section 6 of Ordinance
 
 Item | Enactment | Provision
 
-1. | Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) | Sections 5(1) and 8(a) and (b)
+1. | Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) | Section 5(1) (L.N. 156 of 2013)
 
 2. | (Repealed L.N. 36 of 2003)
 
@@ -52,7 +52,7 @@ Item | Enactment | Provision
 
 20. | District Councils Ordinance (Cap. 547) | Sections 15(2), 23(2), 25(2), 35(2) and 63(2)
 
-21. | Air Navigation (Hong Kong) Order 1995 (Cap. 448 sub. leg. C) | Article 28(4) (L.N. 215 of 2007)
+21. | (Repealed L.N. 156 of 2013)
 
 22. | Chief Executive Election Ordinance (Cap. 569) | Sections 16(3) and (8) and 33(2) and the Schedule, sections 3(4) and 21(2) (21 of 2001 s. 76)
 

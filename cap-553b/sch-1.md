@@ -10,7 +10,7 @@ Item | Enactment | Provision
 
 2-4. | (Repealed L.N. 36 of 2003)
 
-5. | Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) | Sections 5(1), 6 and 8(a) and (b)
+5. | Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) | Sections 5(1) and 6 (L.N. 156 of 2013)
 
 6. | (Repealed L.N. 36 of 2003)
 
