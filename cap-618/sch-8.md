@@ -24,13 +24,13 @@ Registration of Lift Contractors and Escalator Contractors
 
         - (A) has at least one director who is a corporate member of the Hong Kong Institution of Engineers or a registered lift engineer; and
 
-        - (B) has at least 2 other persons who are employees of the applicant, with at least one of them being either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works; or
+        - (B) has at least 2 other persons who are employees of the applicant, with at least one of them being a registered lift worker whose registration is for all kinds of lift works; or
 
       - (ii) the applicant—
 
         - (A) has at least one employee who is a corporate member of the Hong Kong Institution of Engineers or a registered lift engineer; and
 
-        - (B) has at least 2 other employees, with at least one of them being either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works;
+        - (B) has at least 2 other employees, with at least one of them being a registered lift worker whose registration is for all kinds of lift works;
 
     - (b) if the applicant is a partnership—
 
@@ -38,19 +38,21 @@ Registration of Lift Contractors and Escalator Contractors
 
         - (A) has at least one partner who is a corporate member of the Hong Kong Institution of Engineers or a registered lift engineer; and
 
-        - (B) has at least 2 other persons who are employees of the applicant, with at least one of them being either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works; or
+        - (B) has at least 2 other persons who are employees of the applicant, with at least one of them being a registered lift worker whose registration is for all kinds of lift works; or
 
       - (ii) the applicant—
 
         - (A) has a least one employee who is a corporate member of the Hong Kong Institution of Engineers or a registered lift engineer; and
 
-        - (B) has at least 2 other employees, with at least one of them being either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works; and
+        - (B) has at least 2 other employees, with at least one of them being a registered lift worker whose registration is for all kinds of lift works; and
 
     - (c) in any other case, the applicant—
 
       - (i) has at least one employee who is a corporate member of the Hong Kong Institution of Engineers or a registered lift engineer; and
 
-      - (ii) has at least 2 other employees, with at least one of them being either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works.
+      - (ii) has at least 2 other employees, with at least one of them being a registered lift worker whose registration is for all kinds of lift works.
+
+  - (Amended 8 of 2012 ss. 156 & 160)
 
 - Part 3 Requirements for Escalator Contractors under
 
@@ -64,13 +66,13 @@ Registration of Lift Contractors and Escalator Contractors
 
         - (A) has at least one director who is a corporate member of the Hong Kong Institution of Engineers or a registered escalator engineer; and
 
-        - (B) has at least 2 other persons who are employees of the applicant, with at least one of them being either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works; or
+        - (B) has at least 2 other persons who are employees of the applicant, with at least one of them being a registered escalator worker whose registration is for all kinds of escalator works; or
 
       - (ii) the applicant—
 
         - (A) has at least one employee who is a corporate member of the Hong Kong Institution of Engineers or a registered escalator engineer; and
 
-        - (B) has at least 2 other employees, with at least one of them being either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works;
+        - (B) has at least 2 other employees, with at least one of them being a registered escalator worker whose registration is for all kinds of escalator works;
 
     - (b) if the applicant is a partnership—
 
@@ -78,16 +80,18 @@ Registration of Lift Contractors and Escalator Contractors
 
         - (A) has at least one partner who is a corporate member of the Hong Kong Institution of Engineers or a registered escalator engineer; and
 
-        - (B) has at least 2 persons who are employees of the applicant, with at least one of them being either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works; or
+        - (B) has at least 2 persons who are employees of the applicant, with at least one of them being a registered escalator worker whose registration is for all kinds of escalator works; or
 
       - (ii) the applicant—
 
         - (A) has at least one employee who is a corporate member of the Hong Kong Institution of Engineers or a registered escalator engineer; and
 
-        - (B) has at least 2 other employees, with at least one of them being either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works; and
+        - (B) has at least 2 other employees, with at least one of them being a registered escalator worker whose registration is for all kinds of escalator works; and
 
     - (c) in any other case, the applicant—
 
       - (i) has at least one employee who is a corporate member of the Hong Kong Institution of Engineers or a registered escalator engineer; and
 
-      - (ii) has at least 2 other employees, with at least one of them being either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works.
+      - (ii) has at least 2 other employees, with at least one of them being a registered escalator worker whose registration is for all kinds of escalator works.
+
+  - (Amended 8 of 2012 ss. 156 & 160)
