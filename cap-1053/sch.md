@@ -74,7 +74,7 @@ ARRANGEMENT OF STATUTES
 
     - XXX. The Disciplinary Committee
 
-    - XXXI. Powers of the Disciplinary Committee
+    - XXXI. Powers of the Disciplinary Committee STATUTES OF THE UNIVERSITY OF HONG KONG
 
 - STATUTE I INTERPRETATION In these statutes, unless the context otherwise requires—
 
@@ -130,6 +130,14 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Arts in Architectural Studies
 
+    - Bachelor of Arts in Conservation
+
+    - Bachelor of Arts in Landscape Studies
+
+    - Bachelor of Arts in Urban Studies
+
+    - Bachelor of Biomedical Sciences
+
     - Bachelor of Business Administration
 
     - Bachelor of Business Administration in Accounting and Finance
@@ -176,6 +184,8 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Nursing
 
+    - Bachelor of Pharmacy
+
     - Bachelor of Pharmacy in Chinese Medicine
 
     - Bachelor of Science
@@ -196,9 +206,13 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Science in Engineering
 
+    - Bachelor of Science in Exercise and Health
+
     - Bachelor of Science in Information Management
 
     - Bachelor of Science in Nursing Studies
+
+    - Bachelor of Science in Quantitative Finance
 
     - Bachelor of Science in Quantity Surveying
 
@@ -216,11 +230,15 @@ ARRANGEMENT OF STATUTES
 
     - Bachelor of Traditional Chinese Medicine
 
-    - (b) Masters degrees Master of Architecture
+    - (b) Masters degrees Juris Doctor
+
+    - Master of Architecture
 
     - Master of Arts
 
     - Master of Arts in Applied Linguistics
+
+    - Master of Arts in China Development Studies
 
     - Master of Arts in Transport Policy and Planning
 
@@ -230,11 +248,13 @@ ARRANGEMENT OF STATUTES
 
     - Master of Business Administration (International)
 
+    - Master of Chinese Medicine
+
     - Master of Chinese Medicine in Acupuncture and Moxibustion
 
     - Master of Common Law
 
-    - Master of Dental Surgery
+    - Master of Dental Surgery, in dental disciplines as determined by the Senate from time to time
 
     - Master of Economics
 
@@ -243,6 +263,8 @@ ARRANGEMENT OF STATUTES
     - Master of Finance
 
     - Master of Financial Engineering
+
+    - Master of Fine Arts
 
     - Master of Geographic Information Systems
 
@@ -268,6 +290,8 @@ ARRANGEMENT OF STATUTES
 
     - Master of Philosophy
 
+    - Master of Psychological Medicine (Psychosis Studies)
+
     - Master of Public Administration
 
     - Master of Public Administration (International)
@@ -279,6 +303,10 @@ ARRANGEMENT OF STATUTES
     - Master of Science
 
     - Master of Science in Audiology
+
+    - Master of Science in Chinese Medicines
+
+    - Master of Science in Community Dentistry
 
     - Master of Science in Computer Science
 
@@ -296,7 +324,11 @@ ARRANGEMENT OF STATUTES
 
     - Master of Science in Environmental Management
 
+    - Master of Science in General Dentistry
+
     - Master of Science in Global Business Management and E-Commerce
+
+    - Master of Science in Implant Dentistry
 
     - Master of Science in Information Technology in Education
 
@@ -334,9 +366,13 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Medicine
 
+    - Doctor of Nursing
+
     - Doctor of Philosophy
 
     - Doctor of Psychology
+
+    - Doctor of Public Administration
 
     - Doctor of Science
 
@@ -354,7 +390,7 @@ ARRANGEMENT OF STATUTES
 
     - Doctor of Social Sciences honoris causa
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013)
 
   - 2. The University may award any of the following diplomas and certificates—
 
@@ -408,6 +444,10 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in Dental Surgery
 
+    - Postgraduate Diploma in Diagnosis and Therapeutics in Internal Medicine
+
+    - Postgraduate Diploma in Earth Sciences
+
     - Postgraduate Diploma in Education
 
     - Postgraduate Diploma in Engineering, in engineering disciplines as determined by the Senate from time to time
@@ -434,7 +474,11 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Diploma in the Law of the People’s Republic of China
 
+    - Postgraduate Diploma in Molecular and Diagnostic Pathology
+
     - Postgraduate Diploma in Nursing
+
+    - Postgraduate Diploma in Psychological Medicine (Psychosis Studies)
 
     - Postgraduate Diploma in Psycho-oncology
 
@@ -476,13 +520,17 @@ ARRANGEMENT OF STATUTES
 
     - Postgraduate Certificate in Laws
 
+    - Postgraduate Certificate in Molecular and Diagnostic Pathology
+
+    - Postgraduate Certificate in Psychological Medicine (Psychosis Studies)
+
     - Postgraduate Certificate in Psychology
 
     - Postgraduate Certificate in Psycho-oncology
 
     - Postgraduate Certificate in Public Health
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006)
+  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013)
 
   - 3. Degrees shall be conferred by the Chancellor, or in his absence by the Pro-Chancellor, or in the absence of both of them by the Vice-Chancellor, at congregations of the whole University. (L.N. 4 of 1968)
 
@@ -1286,11 +1334,13 @@ ARRANGEMENT OF STATUTES
 
       - (n) maliciously and without reasonable cause laying a complaint against any officer, member, or employee of the University; (L.N. 72 of 1993)
 
-      - (o) ragging; without prejudice to the generality of the term, “ragging” shall include conduct intended—
+      - (o)
 
-        - (i) to humiliate another student or hold him up to ridicule; or
+        - ragging; without prejudice to the generality of the term, “ragging” shall include conduct intended—
 
-        - (ii) to interfere with the peaceable enjoyment by another student of his privileges, benefits, rights or facilities.
+          - (i) to humiliate another student or hold him up to ridicule; or
+
+          - (ii) to interfere with the peaceable enjoyment by another student of his privileges, benefits, rights or facilities.
 
     - (2) A complaint shall be addressed in writing to the Registrar and shall be considered to have been made when it is received by the Registrar. The Registrar shall inform the Vice-Chancellor within 7 days of the complaint, and the Vice-Chancellor shall then decide within 28 days whether a charge is to be brought against the student before the Disciplinary Committee. (L.N. 123 of 1994)
 
