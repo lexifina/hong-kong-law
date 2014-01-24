@@ -2,15 +2,13 @@
 
 [ss. 5, 8, 9 & 11]
 
-- Part 1 Number of Elected Members and
-
-- Appointed Members
+- Part 1 Number of Elected Members andAppointed Members
 
 Item | District Council | Number of elected members | Number of appointed members
 
 1. | Central and Western District Council | 15 | 4
 
-2. | Eastern District Council | 37 | 9
+2. | Eastern District Council | 37 [35]# | 9
 
 3. | Kowloon City District Council | 22 [24]* | 5
 
@@ -20,7 +18,7 @@ Item | District Council | Number of elected members | Number of appointed member
 
 6. | Southern District Council | 17 | 4
 
-7. | Wan Chai District Council | 11 | 3
+7. | Wan Chai District Council | 11 [13]# | 3
 
 8. | Wong Tai Sin District Council | 25 | 6
 
@@ -44,33 +42,21 @@ Item | District Council | Number of elected members | Number of appointed member
 
 18. | Yuen Long District Council | 31 [35]* | 7
 
-(Amended 33 of 2002 s. 10; L.N. 139 of 2006; L.N. 161 of 2010; L.N. 181 of 2013)
-
-- Part 2 Rural Committees in Districts
-
-Item | District | District Council | Number of Rural Committees | Names of Rural Committees
-
-1. | Islands District | Islands District Council | 8 | Cheung Chau Rural Committee Lamma Island (North) Rural Committee Lamma Island (South) Rural Committee Mui Wo Rural Committee Peng Chau Rural Committee South Lantao Rural Committee Tai O Rural Committee Tung Chung Rural Committee
-
-2. | Kwai Tsing District | Kwai Tsing District Council | 1 | Tsing Yi Rural Committee
-
-3. | North District | North District Council | 4 | Fanling District Rural Committee Sha Tau Kok District Rural Committee Sheung Shui District Rural Committee Ta Kwu Ling District Rural Committee
-
-4. | Sai Kung District | Sai Kung District Council | 2 | Hang Hau Rural Committee Sai Kung Rural Committee
-
-5. | Sha Tin District | Sha Tin District Council | 1 | Sha Tin Rural Committee
-
-6. | Tai Po District | Tai Po District Council | 2 | Sai Kung North Rural Committee Tai Po Rural Committee
-
-7. | Tsuen Wan District | Tsuen Wan District Council | 2 | Ma Wan Rural Committee Tsuen Wan Rural Committee
-
-8. | Tuen Mun District | Tuen Mun District Council | 1 | Tuen Mun Rural Committee
-
-9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee (Amended E.R. 2 of 2012)
-
-(Format changes—E.R. 1 of 2012)
+(Amended 33 of 2002 s. 10; L.N. 139 of 2006; L.N. 161 of 2010; L.N. 181 of 2013; L.N. 12 of 2014)
 
 Editorial Note:
+
+\# According to section 4 of the District Councils Ordinance (Amendment of Schedules 1 and 3) Order 2013 (L.N. 12 of 2014) (the Amendment Order)—
+
+- (a) item 2 is amended by repealing “37” and substituting “35”;
+
+- (b) item 7 is amended by repealing “11” and substituting “13”.
+
+According to section 1 of the Amendment Order, the above amendments—
+
+- (i) for all purposes relating to the District Council ordinary election in 2015—come into operation on 24 January 2014; and
+
+- (ii) in so far as they have not come into operation under paragraph (i)—come into operation on 1 January 2016.
 
 * According to section 3 of the District Councils Ordinance (Amendment of Schedule 3) Order 2013 (L.N. 181 of 2013) (the Amendment Order)—
 
@@ -97,3 +83,27 @@ According to section 1 of the Amendment Order, the above amendments—
 - (i) for all purposes relating to the District Council ordinary election in 2015—come into operation on 8 November 2013; and
 
 - (ii) in so far as they have not come into operation under paragraph (i)—come into operation on 1 January 2016.
+
+- Part 2 Rural Committees in Districts
+
+Item | District | District Council | Number of Rural Committees | Names of Rural Committees
+
+1. | Islands District | Islands District Council | 8 | Cheung Chau Rural Committee Lamma Island (North) Rural Committee Lamma Island (South) Rural Committee Mui Wo Rural Committee Peng Chau Rural Committee South Lantao Rural Committee Tai O Rural Committee Tung Chung Rural Committee
+
+2. | Kwai Tsing District | Kwai Tsing District Council | 1 | Tsing Yi Rural Committee
+
+3. | North District | North District Council | 4 | Fanling District Rural Committee Sha Tau Kok District Rural Committee Sheung Shui District Rural Committee Ta Kwu Ling District Rural Committee
+
+4. | Sai Kung District | Sai Kung District Council | 2 | Hang Hau Rural Committee Sai Kung Rural Committee
+
+5. | Sha Tin District | Sha Tin District Council | 1 | Sha Tin Rural Committee
+
+6. | Tai Po District | Tai Po District Council | 2 | Sai Kung North Rural Committee Tai Po Rural Committee
+
+7. | Tsuen Wan District | Tsuen Wan District Council | 2 | Ma Wan Rural Committee Tsuen Wan Rural Committee
+
+8. | Tuen Mun District | Tuen Mun District Council | 1 | Tuen Mun Rural Committee
+
+9. | Yuen Long District | Yuen Long District Council | 6 | Ha Tsuen Rural Committee Kam Tin Rural Committee Pat Heung Rural Committee Ping Shan Rural Committee San Tin Rural Committee Shap Pat Heung Rural Committee (Amended E.R. 2 of 2012)
+
+(Format changes—E.R. 1 of 2012)
