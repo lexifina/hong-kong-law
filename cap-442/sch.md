@@ -146,6 +146,8 @@ Item | Ordinance | Decision
 
 72. | Fisheries Protection Ordinance (Cap. 171) | A decision of the Director of Agriculture, Fisheries and Conservation— (a) to refuse to register a vessel on application made under section 14, 19 or 21; (b) to impose conditions under section 16; (c) to add, remove or amend any conditions or refuse to do so under section 17; (d) to cancel a registration under section 24; (e) to refuse to issue or renew a research fishing permit under section 25; (f) to impose conditions in respect of a research fishing permit under section 25(3); and (g) to cancel a research fishing permit under section 29. (Added 13 of 2012 s. 20)
 
+73. | Pesticides Ordinance (Cap. 133) | A decision of the Director of Agriculture, Fisheries and Conservation— (a) to refuse to register a pesticide under section 5(3)(b); (b) to register a pesticide subject to conditions under section 5(5); (c) to cancel or suspend the registration of a pesticide, or to modify, add to or cancel any condition, under section 6; (d) to refuse to issue a licence or permit under section 9(2)(b); (e) to issue a licence subject to conditions under section 9(5); (f) to issue a permit subject to conditions under section 9(7); (g) to vary the particulars of a licence or permit, or to modify, add to or cancel the conditions of a licence or permit, under section 9(8); (h) to cancel or suspend a licence under section 10; (i) to cancel a permit under section 11; (j) to confirm or vary under section 13(3)(b) the directions given under section 13(1). (Added 14 of 2013 s. 28)
+
 (Amended E.R. 1 of 2012)
 
 Editorial Note:
