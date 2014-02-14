@@ -14,8 +14,6 @@ International Christian Quality Music Secondary and Primary School | 182 Po Kong
 
 International Christian School | 1 On Muk Lane, Shatin, New Territories (Added L.N. 146 of 2008)
 
-Mu Kuang English School | 55 Kung Lok Road, Kwun Tong, Kowloon
-
 Po Leung Kuk Choi Kai Yau School | 6 Caldecott Road, Shamshuipo, Kowloon (Amended L.N. 146 of 2008; L.N. 36 of 2010)
 
 Renaissance College | No. 5 Hang Ming Street, Ma On Shan, Shatin, New Territories (Added L.N. 272 of 2006)
@@ -30,4 +28,4 @@ Victoria Shanghai Academy | 19 Shum Wan Road, Aberdeen, Hong Kong (Added L.N. 27
 
 Yew Chung International School—Secondary | 3 To Fuk Road, Kowloon Tong, Kowloon (Added L.N. 146 of 2008)
 
-(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009; L.N. 41 of 2012; E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)
+(Schedule 3 added 27 of 2004 s. 34. Amended L.N. 272 of 2006; L.N. 146 of 2008; L.N. 57 of 2009; L.N. 41 of 2012; E.R. 2 of 2012; L.N. 201 of 2013) (Format changes—E.R. 2 of 2012)
