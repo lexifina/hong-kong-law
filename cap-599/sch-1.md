@@ -38,7 +38,7 @@ Scheduled Infectious Diseases
 
 - 15. Hantavirus infection (漢坦病毒感染)
 
-- 16. Influenza A (H2), Variant Influenza A (H3N2), Influenza A (H5), Influenza A (H7), Influenza A (H9) (甲型流行性感冒(H2)、變異株甲型流行性感冒(H3N2)、甲型流行性感冒(H5)、甲型流行性感冒(H7)、甲型流行性感冒(H9)) (Replaced L.N. 138 of 2012)
+- 16. (Repealed L.N. 23 of 2014)
 
 - 17. Japanese encephalitis (日本腦炎)
 
@@ -59,6 +59,8 @@ Scheduled Infectious Diseases
 - 24A. Middle East Respiratory Syndrome (中東呼吸綜合症) (Added L.N. 104 of 2013)
 
 - 25. Mumps (流行性腮腺炎)
+
+- 25A. Novel influenza A infection (新型甲型流行性感冒) (Added L.N. 23 of 2014)
 
 - 26. Paratyphoid fever (副傷寒)
 
