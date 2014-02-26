@@ -6,15 +6,15 @@
 
   - 1. Duty shall be payable on the following types of liquor at the rates, expressed as a percentage of the value (calculated in accordance with section 26A), set out opposite each type of liquor— (Amended L.N. 204 of 1999; 57 of 2000 s. 9)
 
-  - Type of Liquor | Rate
+- Type of Liquor | Rate
 
-  - Liquor with an alcoholic strength of more than 30% by volume measured at a temperature of 20°C | 100%
+- Liquor with an alcoholic strength of more than 30% by volume measured at a temperature of 20°C | 100%
 
-  - Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20°C | 0%
+- Liquor, other than wine, with an alcoholic strength of not more than 30% by volume measured at a temperature of 20°C | 0%
 
-  - Wine | 0%
+- Wine | 0%
 
-  - (Amended 67 of 1997 s. 3; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 28 of 2002 and 17 of 2002 s. 2; L.N. 32 of 2007 and 13 of 2007 s. 2; L.N. 33 of 2008 and 15 of 2008 s. 3)
+- (Amended 67 of 1997 s. 3; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 28 of 2002 and 17 of 2002 s. 2; L.N. 32 of 2007 and 13 of 2007 s. 2; L.N. 33 of 2008 and 15 of 2008 s. 3)
 
   - 2. Where there is no or insufficient information available from which the Commissioner (or any officer authorized by him in that behalf) is able to determine the value of any quantity of liquor of less than 12 litres, imported at any time in one consignment, he may assess the duty payable on such liquor at the rate of $160 per litre.
 
@@ -26,15 +26,15 @@
 
   - $
 
-  - (a) | for each 1000 cigarettes . | 1706
+  - (a) | for each 1 000 cigarettes | 1,906
 
-  - (b) | cigars. | 2197/kg
+  - (b) | cigars | 2,455/kg
 
-  - (c) | Chinese prepared tobacco . | 419/kg
+  - (c) | Chinese prepared tobacco | 468/kg
 
-  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes . | 2067/kg
+  - (d) | all other manufactured tobacco except tobacco intended for the manufacture of cigarettes | 2,309/kg
 
-  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 27 of 2009 and 5 of 2009 s. 3; L.N. 32 of 2011 and 10 of 2011 s. 3)
+  - (Amended L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; L.N. 195 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 42 of 1995 s. 2; 32 of 1996 s. 2; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 61 of 2001 and 14 of 2001 s. 2; L.N. 27 of 2009 and 5 of 2009 s. 3; L.N. 32 of 2011 and 10 of 2011 s. 3; L.N. 25 of 2014 and 9 of 2014 s. 3)
 
   - 2. For the purpose of applying the duty under paragraph 1(a) a cigarette more than 90 mm long, excluding any filter or mouthpiece, shall be treated as if each additional 90 mm or portion of 90 mm were a separate cigarette.
 
@@ -46,13 +46,13 @@
 
   - $
 
-  - (a) | aircraft spirit . | 6.51
+  - (a) | aircraft spirit | 6.51
 
-  - (b) | light diesel oil . | 2.89
+  - (b) | light diesel oil | 2.89
 
-  - (c) | motor spirit (leaded petrol) (Added 2 of 1991 s. 10) . | 6.82
+  - (c) | motor spirit (leaded petrol) (Added 2 of 1991 s. 10) | 6.82
 
-  - (d) | motor spirit (unleaded petrol) (Added 2 of 1991 s. 10) . | 6.06
+  - (d) | motor spirit (unleaded petrol) (Added 2 of 1991 s. 10) | 6.06
 
   - (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; 2 of 1991 s. 10; L.N. 99 of 1991; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 45 of 1994 s. 4; 42 of 1995 s. 2; 32 of 1996 s. 2; L.N. 89 of 1997; 67 of 1997 s. 3; 21 of 1998 s. 2; L.N. 249 of 1998 and L.N. 288 of 1998; L.N. 90 of 1999 and 44 of 1999 s. 8; L.N. 70 of 2000 and 27 of 2000 s. 2)
 
@@ -76,7 +76,7 @@
 
   - 2. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the grantee of a franchise under section 5 of the Public Bus Services Ordinance (Cap. 230) in maintaining public bus services on specified routes as defined by section 2 of that Ordinance, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Amended 35 of 1992 s. 6; 21 of 1998 s. 2)
 
-  - 3. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles owned and operated by the Kowloon-Canton Railway Corporation under section 4(1)(d) of the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) in maintaining bus services within the North-west Transit Service Area, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (L.N. 203 of 1987. Amended 35 of 1992 s. 6)
+  - 3. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles owned and operated by the Kowloon-Canton Railway Corporation under section 4(1)(d) of the Kowloon-Canton Railway Corporation Ordinance (Cap. 372) in maintaining bus services within the North-west Transit Service Area, a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Added L.N. 203 of 1987. Amended 35 of 1992 s. 6)
 
   - 3A. Where it is proved to the satisfaction of the Commissioner that light diesel oil on which duty has been paid under paragraph 1(b) has been used in road vehicles operated by the MTR Corporation Limited in maintaining bus services within the North-west Transit Service Area referred to in paragraph 3 during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556), a refund of duty paid on the light diesel oil so used may be granted by the Commissioner and subject to such conditions as the Commissioner may specify. (Added 11 of 2007 s. 36)
 
@@ -90,67 +90,63 @@
 
   - (Replaced 32 of 1993 s. 5)
 
-  - 5.
+  - 5. For the purposes of paragraph 1A, “ultra low sulphur diesel” (超低含硫量柴油) means a light diesel oil which—
 
-    - For the purposes of paragraph 1A, “ultra low sulphur diesel” (超低含硫量柴油) means a light diesel oil which—
+    - (a) contains not more than 0.005% by weight of sulphur as determined by ISO 14596;
 
-      - (a) contains not more than 0.005% by weight of sulphur as determined by ISO 14596;
+    - (b) has a cetane number of not less than 51.0 as determined by ISO 5165;
 
-      - (b) has a cetane number of not less than 51.0 as determined by ISO 5165;
+    - (c) has a viscosity at 40°C of not less than 2.00 mm2/s and not more than 4.50 mm2/s as determined by ISO 3104;
 
-      - (c) has a viscosity at 40°C of not less than 2.00 mm2/s and not more than 4.50 mm2/s as determined by ISO 3104;
+    - (d) has a 95% distillation temperature of not more than 345°C as determined by ISO 3405;
 
-      - (d) has a 95% distillation temperature of not more than 345°C as determined by ISO 3405;
+    - (e) has a specific gravity at 15°C of not more than 0.835 as determined by ISO 3675; and
 
-      - (e) has a specific gravity at 15°C of not more than 0.835 as determined by ISO 3675; and
-
-      - (f) has a distillation percentage recovered at 250°C not more than 65% by volume as determined by ISO 3405.
+    - (f) has a distillation percentage recovered at 250°C not more than 65% by volume as determined by ISO 3405.
 
   - (Added L.N. 233 of 2000. Amended L.N. 220 of 2007)
 
-  - 6.
+  - 6. For the purposes of paragraph 1B, “Euro V diesel” (歐盟V期柴油) means a light diesel oil which—
 
-    - For the purposes of paragraph 1B, “Euro V diesel” (歐盟V期柴油) means a light diesel oil which—
+    - (a) contains not more than 10.0 mg/kg of sulphur as determined by ISO 20884;
 
-      - (a) contains not more than 10.0 mg/kg of sulphur as determined by ISO 20884;
+    - (b) has a cetane number of not less than 51.0 as determined by ISO 5165;
 
-      - (b) has a cetane number of not less than 51.0 as determined by ISO 5165;
+    - (c) has a cetane index of not lower than 46.0 as determined by ISO 4264;
 
-      - (c) has a cetane index of not lower than 46.0 as determined by ISO 4264;
+    - (d) has a viscosity at 40°C of not lower than 2.00 mm2/s and not higher than 4.50 mm2/s as determined by ISO 3104;
 
-      - (d) has a viscosity at 40°C of not lower than 2.00 mm2/s and not higher than 4.50 mm2/s as determined by ISO 3104;
+    - (e) contains not more than 11% by mass of polycyclic aromatic hydrocarbons as determined by IP 391;
 
-      - (e) contains not more than 11% by mass of polycyclic aromatic hydrocarbons as determined by IP 391;
+    - (f) has a 95% distillation temperature of not higher than 360°C as determined by ISO 3405;
 
-      - (f) has a 95% distillation temperature of not higher than 360°C as determined by ISO 3405;
+    - (g) has a distillation percentage recovered at 250°C of lower than 65% by volume as determined by ISO 3405;
 
-      - (g) has a distillation percentage recovered at 250°C of lower than 65% by volume as determined by ISO 3405;
+    - (h) has a distillation percentage recovered at 350°C of not lower than 85% by volume as determined by ISO 3405;
 
-      - (h) has a distillation percentage recovered at 350°C of not lower than 85% by volume as determined by ISO 3405;
+    - (i) has a density at 15°C of not lower than 0.820 kg/L and not higher than 0.845 kg/L as determined by ISO 3675;
 
-      - (i) has a density at 15°C of not lower than 0.820 kg/L and not higher than 0.845 kg/L as determined by ISO 3675;
+    - (j) has a flash point of above 55°C as determined by ISO 2719;
 
-      - (j) has a flash point of above 55°C as determined by ISO 2719;
+    - (k) contains not more than 0.30% by mass of carbon residue (on 10% distillation residue) as determined by ISO 10370;
 
-      - (k) contains not more than 0.30% by mass of carbon residue (on 10% distillation residue) as determined by ISO 10370;
+    - (l) contains not more than 0.01% by mass of ash as deterimined by ISO 6245;
 
-      - (l) contains not more than 0.01% by mass of ash as deterimined by ISO 6245;
+    - (m) contains not more than 200 mg/kg of water as determined by ISO 12937;
 
-      - (m) contains not more than 200 mg/kg of water as determined by ISO 12937;
+    - (n) contains total contamination of not more than 24 mg/kg as determined by ISO 12662;
 
-      - (n) contains total contamination of not more than 24 mg/kg as determined by ISO 12662;
+    - (o) has a copper strip corrosion (3h at 50°C) rating of Class 1 as determined by ISO 2160;
 
-      - (o) has a copper strip corrosion (3h at 50°C) rating of Class 1 as determined by ISO 2160;
+    - (p) has an oxidation stability of not higher than 25 g/m3 as determined by ISO 12205; and
 
-      - (p) has an oxidation stability of not higher than 25 g/m3 as determined by ISO 12205; and
+    - (q) has a lubricity, corrected wear scar diameter (wsd 1.4) at 60°C, of not higher than 460 μm as determined by ISO 12156-1.
 
-      - (q) has a lubricity, corrected wear scar diameter (wsd 1.4) at 60°C, of not higher than 460 μm as determined by ISO 12156-1.
+  - Note: In this Part—
 
-    - Note: In this Part-
+    - “IP” followed by a numerical symbol (“IP number”) means the test procedures of the Institute of Petroleum commonly known by that IP number;
 
-    - ”IP” followed by a numerical symbol (“IP number”) means the test procedures of the Institute of Petroleum commonly known by that IP number;
-
-    - ”ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Organization for Standardization commonly known by that ISO number;
+    - “ISO” followed by a numerical symbol (“ISO number”) means the test procedures of the International Organization for Standardization commonly known by that ISO number;
 
     - “viscosity” (黏度) means the viscosity of diesel as determined by ISO 3104.
 
@@ -158,7 +154,7 @@
 
 - PART IV DUTY ON METHYL ALCOHOL
 
-  - 1. Duty shall be payable on methyl alcohol and any admixture containing methyl alcohol at the rate of $840 per hectolitre measured at a temperature of 20°C and in addition, for every 1% by which the alcoholic strength by volume exceeds 30%, $28.1 per hectolitre. (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 67 of 1997 s. 3; 21 of 1998 s. 2)
+  - 1. Duty shall be payable on methyl alcohol and any admixture containing methyl alcohol at the rate of $840 per hectolitre measured at a temperature of 20°C and in addition, for every 1% by which the alcoholic strength by volume exceeds 30%, $28.10 per hectolitre. (Amended L.N. 128 of 1987; L.N. 158 of 1988; 16 of 1989 s. 5; L.N. 218 of 1990; L.N. 194 of 1991; 35 of 1992 s. 6; 32 of 1993 s. 5; 67 of 1997 s. 3; 21 of 1998 s. 2)
 
 - PART V (Repealed 35 of 1992 s. 6)
 
