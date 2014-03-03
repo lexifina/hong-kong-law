@@ -4,7 +4,7 @@ Public Office | Ordinance or section of Ordinance for which specified
 
 Chief Justice | Bankruptcy Ordinance (Chapter 6), section 99A(7)(c). (L.N. 270 of 1979)
 
-Chief Justice | Companies Ordinance (Chapter 32), section 222A(7)(c). (L.N. 270 of 1979)
+Chief Justice | Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32), section 222A(7)(c). (L.N. 270 of 1979; 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
 Chief Justice | Evidence Ordinance (Chapter 8), sections 27(2) and 29A(2). (L.N. 229 of 1979)
 
@@ -332,10 +332,6 @@ Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Re
 
 Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Reserved Commodities (Control of Sales by Wholesale) Regulations (Chapter 296 subsidiary legislation B). (L.N. 51 of 1984)
 
-Financial Secretary | Companies Ordinance (Chapter 32), sections 124(2), 128(3), 129(3) and 129A(2); and paragraphs 6(b), 13(2), 18(4), 27(1) and 28(3) of the Tenth Schedule, only. (L.N. 86 of 1978; 12 of 2005 s. 20)
-
-Financial Secretary | Companies Ordinance (Chapter 32), section 157E(4)(a). (L.N. 57 of 1989)
-
 Financial Secretary | Customs and Excise Service (Welfare Fund) Regulation (Chapter 342 subsidiary legislation C), section 8. (L.N. 389 of 1990; 10 of 2005 s. 220)
 
 Financial Secretary | Fire Services Department (Welfare Fund) Regulations (Chapter 95 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
@@ -386,7 +382,9 @@ Permanent Secretary for Education (L.N. 130 of 2007) | Post Secondary Colleges O
 
 Principal Probation Officer | Probation of Offenders Rules (Chapter 298 subsidiary legislation A), rules 15, 20(2) and 21 only. (L.N. 213 of 1979)
 
-Registrar of Companies | Companies Ordinance (Chapter 32). (L.N. 141 of 1993)
+Registrar of Companies | Companies Ordinance (Cap. 622) (28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
+
+Registrar of Companies | Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32). (L.N. 141 of 1993; 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
 Registrar of Companies | Limited Partnerships Ordinance (Chapter 37). (L.N. 141 of 1993)
 
@@ -434,7 +432,7 @@ Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Roads
 
 Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 30 of 2004 s. 3; 3 of 2006 s. 56; 17 of 2006 s. 23 )
+(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 30 of 2004 s. 3; 3 of 2006 s. 56; 17 of 2006 s. 23; 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
 Editorial Note:
 
