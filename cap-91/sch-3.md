@@ -4,6 +4,8 @@
 
 Proceedings for which Legal Aid may be Given under Section 5A
 
+(Schedule 3 added 54 of 1984 s. 27) (Format changes—E.R. 1 of 2013)
+
 - Part 1 Description of Proceedings
 
   - 1. In the Court of First Instance or Court of Appeal, civil proceedings brought, by the person seeking legal aid (claimant), for damages in a claim arising from personal injuries to, or the death of, any person (including proceedings for the defence to a counterclaim against the claimant and other proceedings incidental to the civil proceedings); and in a higher court, proceedings that are related to the claim. (Amended 40 of 1989 s. 10; 25 of 1998 s. 2; L.N. 112 of 2012)
@@ -62,7 +64,7 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
   - 2. Claims in the Court of First Instance or District Court for damages for assault and battery. (Added 27 of 1991 s. 20. Amended 43 of 1995 s. 14; 25 of 1998 s. 2)
 
-- Part 3 Interpretation Provisions
+- Part 3 Interpretation Provisions (Part 3 added L.N. 112 of 2012)
 
   - 1. In this Schedule—
 
@@ -72,9 +74,9 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
       - (b) a subsidiary of a holding company of the company or specified body;
 
-    - company (公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 32);
+    - company (公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
-    - holding company (控權公司) means a holding company within the meaning of the Companies Ordinance (Cap. 32);
+    - holding company (控權公司) means a holding company within the meaning of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
     - personal insurance (個人保險) means an insurance that is taken out by an individual and under which an individual is the insured person, but does not include any such insurance the sole or predominant purpose of which is for any one or more of the following—
 
@@ -88,7 +90,7 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
     - specified body (指明團體) means a body corporate incorporated or established under an Ordinance;
 
-    - subsidiary (附屬公司) means a subsidiary within the meaning of the Companies Ordinance (Cap. 32).
+    - subsidiary (附屬公司) means a subsidiary within the meaning of the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
   - 2. For the purposes of paragraph 7(a) of Part 1 of this Schedule, a residential property is a first-hand property if no agreement for sale and purchase has ever been entered into in respect of the property. (Amended E.R. 1 of 2013)
 
@@ -120,4 +122,4 @@ Proceedings for which Legal Aid may be Given under Section 5A
 
   - the agreement is not to be regarded as having been entered into in respect of any of those properties.
 
-  - 8. To avoid doubt, in determining whether a residential property is a first-hand property, the agreement for sale and purchase that is the subject of the claim or that relates to the sale giving rise to the claim is not to be taken into account. (Part 3 added L.N. 112 of 2012) (Schedule 3 added 54 of 1984 s. 27) (Format changes—E.R. 1 of 2013)
+  - 8. To avoid doubt, in determining whether a residential property is a first-hand property, the agreement for sale and purchase that is the subject of the claim or that relates to the sale giving rise to the claim is not to be taken into account.
