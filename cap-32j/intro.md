@@ -1,5 +1,13 @@
-COMPANIES (REPORTS ON CONDUCT OF DIRECTORS) REGULATION
+Companies (Reports on Conduct of Directors) Regulation
 
-(Made under section 168S(2) of the Companies Ordinance (Cap. 32))
+(Cap. 32, section 168S(2))
+
+(Enacting provision omitted—E.R. 1 of 2014)
 
 [15 July 1994]
+
+(*Format changes—E.R. 1 of 2014)
+
+Editorial Note:
+
+* The format of the Regulation has been updated to the current legislative styles.

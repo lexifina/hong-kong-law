@@ -6,7 +6,9 @@
 
 (Amended 8 of 2011 s. 23)
 
-CONTENTS AND PUBLICATION REQUIREMENTS OF ADVERTISEMENTS MENTIONED IN SECTION 38B(2)(e) OF THIS ORDINANCE
+Contents and Publication Requirements of Advertisements Mentioned in Section 38b(2)(e) of this Ordinance
+
+(Nineteenth Schedule added 30 of 2004 s. 2) (Format changes—E.R. 1 of 2014)
 
 - 1. Contents of advertisement
 
@@ -36,4 +38,4 @@ CONTENTS AND PUBLICATION REQUIREMENTS OF ADVERTISEMENTS MENTIONED IN SECTION 38B
 
       - (ii) guidelines published under section 38BA of this Ordinance.
 
-- 2. Language The advertisement may be in the English language or the Chinese language or both languages. (Nineteenth Schedule added 30 of 2004 s. 2)
+- 2. Language The advertisement may be in the English language or the Chinese language or both languages.
