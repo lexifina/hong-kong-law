@@ -1,40 +1,92 @@
-# FIFTEENTH SCHEDULE
+# Fifteenth Schedule
 
 [s. 168K]
 
-MATTERS FOR DETERMINING UNFITNESS OF DIRECTORS
+Matters for Determining Unfitness of Directors
 
-- PART I MATTERS APPLICABLE IN ALL CASES
+- Part I Matters Applicable in all Cases
 
   - 1. Any misfeasance or breach of any fiduciary or other duty by the director in relation to the company.
 
   - 2. Any misapplication or retention by the director of, or any conduct by the director giving rise to an obligation to account for, any money or other property of the company.
 
-  - 3. The extent of the director’s responsibility for any failure by the company to comply with any of the following provisions—
+  - 3. The extent of the director’s responsibility for any failure by the company to comply with—
 
-    - (a) section 81;
+    - (a) any of the following provisions of the pre-amended Ordinance—
 
-    - (b) section 95;
+      - (i) section 81;
 
-    - (c) section 96;
+      - (ii) section 95;
 
-    - (d) section 107;
+      - (iii) section 96;
 
-    - (e) (Repealed 30 of 1999 s. 40)
+      - (iv) section 107;
 
-    - (f) section 109;
+      - (v) section 109;
 
-    - (g) section 119A;
+      - (vi) section 119A;
 
-    - (h) section 121;
+      - (vii) section 121;
 
-    - (i) section 158; and
+      - (viii) section 158;
 
-    - (j) section 158A.
+      - (ix) section 158A; and
 
-  - 4. The extent of the director’s responsibility for any failure by the directors of the company to comply with sections 122 and 129B.
+    - (b) any of the following provisions of the Companies Ordinance (Cap. 622)—
 
-- PART II MATTERS APPLICABLE WHERE COMPANY HAS BECOME INSOLVENT
+      - (i) section 335;
+
+      - (ii) section 336;
+
+      - (iii) section 341;
+
+      - (iv) section 342;
+
+      - (v) section 373;
+
+      - (vi) section 374;
+
+      - (vii) section 377;
+
+      - (viii) section 619;
+
+      - (ix) section 627;
+
+      - (x) section 628;
+
+      - (xi) section 630;
+
+      - (xii) section 641;
+
+      - (xiii) section 642(1);
+
+      - (xiv) section 643;
+
+      - (xv) section 645;
+
+      - (xvi) section 648;
+
+      - (xvii) section 649(1);
+
+      - (xviii) section 650;
+
+      - (xix) section 652;
+
+      - (xx) section 662; and
+
+      - (xxi) section 664.
+
+  - (Amended 28 of 2012 ss. 912 & 920)
+
+  - 4. The extent of the director’s responsibility for any failure by the directors of the company to comply with—
+
+    - (a) sections 122 and 129B of the pre-amended Ordinance; and
+
+    - (b) sections 387 and 429 of the Companies Ordinance (Cap. 622).
+
+  - (Amended 28 of 2012 ss. 912 & 920)
+
+- Part II Matters Applicable where Company has become Insolvent
 
   - 1. The extent of the director’s responsibility for the causes of the company becoming insolvent.
 
@@ -58,4 +110,4 @@ MATTERS FOR DETERMINING UNFITNESS OF DIRECTORS
 
     - (e) section 300A.
 
-  - (Fifteenth Schedule added 30 of 1994 s. 13)
+  - (Fifteenth Schedule added 30 of 1994 s. 13) (Format changes—E.R. 1 of 2014)

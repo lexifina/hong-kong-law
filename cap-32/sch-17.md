@@ -2,13 +2,13 @@
 
 [ss. 2, 38, 38AA, 43, 48A, 342, 342AA & 360 & 18th Sch.] (Amended 8 of 2011 s. 21)
 
-OFFERS SPECIFIED FOR THE PURPOSES OF PARAGRAPH (b)(ii) OF THE DEFINITION OF “PROSPECTUS” IN SECTION 2(1) OF THIS ORDINANCE
+Offers Specified for the Purposes of Paragraph (b)(ii) of the Definition of Prospectus in Section 2(1) of this Ordinance
 
-- PART 1 LIST OF OFFERS, ETC. NOT FALLING
+(Seventeenth Schedule added 30 of 2004 s. 2) (Format changes—E.R. 1 of 2014)
 
-- WITHIN DEFINITION
+- Part 1 List of Offers, etc. Not Falling within Definition
 
-  - 1. An offer to professional investors within the meaning of section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571)(including professional investors falling within paragraph (j) of the definition of “professional investor” in that section).
+  - 1. An offer to professional investors within the meaning of section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571)(including professional investors falling within paragraph (j) of the definition of professional investor in that section).
 
   - 2. An offer—
 
@@ -30,7 +30,7 @@ OFFERS SPECIFIED FOR THE PURPOSES OF PARAGRAPH (b)(ii) OF THE DEFINITION OF “P
 
   - 5. An offer in connection with an invitation made in good faith to enter into an underwriting agreement.
 
-  - 6. An offer in connection with a takeover or merger or a share repurchase which is in compliance with the Codes on Takeovers and Mergers and Share Repurchases issued by the Commission as in force from time to time.
+  - 6. An offer in connection with a takeover or merger or a share buy-back which is in compliance with the Codes on Takeovers and Mergers and Share Buy-backs issued by the Commission as in force from time to time. (Amended 28 of 2012 ss. 912 & 920)
 
   - 7. An offer of shares in a company—
 
@@ -102,15 +102,11 @@ OFFERS SPECIFIED FOR THE PURPOSES OF PARAGRAPH (b)(ii) OF THE DEFINITION OF “P
 
     - (b) in connection with which the issue of each advertisement, invitation or document has been authorized under section 105 of the Securities and Futures Ordinance (Cap. 571).
 
-- PART 2 AMOUNT SPECIFIED FOR THE PURPOSES OF
+- Part 2 Amount Specified for the Purposes of Section 3 of Part 1 $5,000,000
 
-- SECTION 3 OF PART 1 $5,000,000
+- Part 3 Amount Specified for the Purposes of Section 4 of Part 1 $500,000
 
-- PART 3 AMOUNT SPECIFIED FOR THE PURPOSES OF
-
-- SECTION 4 OF PART 1 $500,000
-
-- PART 4 INTERPRETATION OF PART 1
+- Part 4 Interpretation of Part 1
 
   - 1. Any reference to an offer in Part 1—
 
@@ -148,7 +144,7 @@ OFFERS SPECIFIED FOR THE PURPOSES OF PARAGRAPH (b)(ii) OF THE DEFINITION OF “P
 
     - (a)
 
-      - “qualifying person” (合資格的人), in relation to a company—
+      - qualifying person (合資格的人), in relation to a company—
 
         - (i) means—
 
@@ -164,7 +160,7 @@ OFFERS SPECIFIED FOR THE PURPOSES OF PARAGRAPH (b)(ii) OF THE DEFINITION OF “P
 
     - (b)
 
-      - “consultant” (顧問) means a person who, pursuant to a contract for services, renders services to a company (“the relevant company”) which are commonly rendered by an employee of—
+      - consultant (顧問) means a person who, pursuant to a contract for services, renders services to a company (the relevant company) which are commonly rendered by an employee of—
 
         - (i) the relevant company; or
 
@@ -172,7 +168,7 @@ OFFERS SPECIFIED FOR THE PURPOSES OF PARAGRAPH (b)(ii) OF THE DEFINITION OF “P
 
     - (c)
 
-      - “dependent” (受養人), in relation to a person, means—
+      - dependent (受養人), in relation to a person, means—
 
         - (i) the wife, husband, widow or widower of the person; or
 
@@ -180,4 +176,4 @@ OFFERS SPECIFIED FOR THE PURPOSES OF PARAGRAPH (b)(ii) OF THE DEFINITION OF “P
 
   - 7. The Commission may prepare and publish guidelines in relation to the provisions of this Schedule.
 
-  - 8. Guidelines published under section 7 are not subsidiary legislation. (Seventeenth Schedule added 30 of 2004 s. 2)
+  - 8. Guidelines published under section 7 are not subsidiary legislation.

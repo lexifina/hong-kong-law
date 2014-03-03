@@ -1,24 +1,22 @@
-# TWENTY-FIRST SCHEDULE
+# Twenty-first Schedule
 
-[ss. 38A, 38AA, 39B, 342A, 342AA, 342CB & 360 & 12th Sch. & 18th Schs.] (Amended 8 of 2011 s. 25)
+[ss. 38A, 38AA, 39B, 342A, 342AA, 342CB & 360 & 12th & 18th Schs.] (Amended 8 of 2011 s. 25)
 
-PROVISIONS IN ACCORDANCE WITH WHICH A PROSPECTUS MAY CONSIST OF MORE THAN ONE DOCUMENT
+Provisions in Accordance with which a Prospectus May Consist of More Than One Document
 
-- PART 1 PROSPECTUS TO WHICH THE PROVISIONS OF
+(Twenty-first Schedule added 30 of 2004 s. 2) (Format changes—E.R. 1 of 2014)
 
-- PART II OF THIS ORDINANCE APPLY
+- Part 1 Prospectus to which the Provisions of Part II of this Ordinance Apply
 
   - 1. Interpretation In this Part—
 
-    - “issue prospectus” (發行章程) means that prospectus to which the provisions of Part II of this Ordinance apply contained in the document, or series of documents, mentioned in section 2(1)(b);
+    - issue prospectus (發行章程) means that prospectus to which the provisions of Part II of this Ordinance apply contained in the document, or series of documents, mentioned in section 2(1)(b);
 
-    - “programme prospectus” (計劃章程) means that prospectus to which the provisions of Part II of this Ordinance apply contained in the document mentioned in section 2(1)(a);
+    - programme prospectus (計劃章程) means that prospectus to which the provisions of Part II of this Ordinance apply contained in the document mentioned in section 2(1)(a);
 
-    - “relevant information” (有關資料), in relation to a prospectus, means such information as is required by the provisions of sections 37 to 44B of, and the Third Schedule to, this Ordinance to be contained in the prospectus.
+    - relevant information (有關資料), in relation to a prospectus, means such information as is required by the provisions of sections 37 to 44B of, and the Third Schedule to, this Ordinance to be contained in the prospectus.
 
-  - 2. Prospectus consisting of more than
-
-  - one document
+  - 2. Prospectus consisting of more than one document
 
     - (1) A prospectus may consist of—
 
@@ -60,19 +58,13 @@ PROVISIONS IN ACCORDANCE WITH WHICH A PROSPECTUS MAY CONSIST OF MORE THAN ONE DO
 
       - (ii) replacing the addendum and issue prospectus with a new issue prospectus.
 
-  - 4. Amendment made pursuant to
+  - 4. Amendment made pursuant to section 3 is prospectus It is hereby declared that any amendment made pursuant to section 3 is a prospectus and, subject to section 5, the provisions of this Ordinance shall apply to the amendment accordingly.
 
-  - section 3 is prospectus It is hereby declared that any amendment made pursuant to section 3 is a prospectus and, subject to section 5, the provisions of this Ordinance shall apply to the amendment accordingly.
-
-  - 5. Certain amendments made pursuant to
-
-  - section 3 to be read with other
-
-  - related documents Where it enables a provision of this Ordinance (including paragraph 3 of the Third Schedule to this Ordinance) to apply to an amendment made pursuant to section 3, the amendment shall, for the purposes of that application, be read with all or any of the programme prospectus to which it relates and the addenda, if any, to the programme prospectus and the issue prospectus to which it relates and the addenda, if any, to the issue prospectus, as the case requires.
+  - 5. Certain amendments made pursuant to section 3 to be read with other related documents Where it enables a provision of this Ordinance (including paragraph 3 of the Third Schedule to this Ordinance) to apply to an amendment made pursuant to section 3, the amendment shall, for the purposes of that application, be read with all or any of the programme prospectus to which it relates and the addenda, if any, to the programme prospectus and the issue prospectus to which it relates and the addenda, if any, to the issue prospectus, as the case requires.
 
   - 6. Warning
 
-    - (1) Every issue prospectus (including a new issue prospectus mentioned in section 3(b)(ii) or (d )(ii)) and any form of application must contain a statement specified in Part 4 of the Eighteenth Schedule to this Ordinance.
+    - (1) Every issue prospectus (including a new issue prospectus mentioned in section 3(b)(ii) or (d)(ii)) and any form of application must contain a statement specified in Part 4 of the Eighteenth Schedule to this Ordinance.
 
     - (2) Any amendment made pursuant to section 3(b)(i) must contain a statement specified in Part 5 of the Eighteenth Schedule to this Ordinance.
 
@@ -80,37 +72,35 @@ PROVISIONS IN ACCORDANCE WITH WHICH A PROSPECTUS MAY CONSIST OF MORE THAN ONE DO
 
     - (a) the programme prospectus and its addenda, if any; and
 
-    - (b) the issue prospectus concerned and its addenda, if any, to be readily available to investors and potential investors throughout the period during which the shares or debentures to which the issue prospectus relates are offered or sold to the public.
+    - (b) the issue prospectus concerned and its addenda, if any,
 
-  - 8. Cessation of offer to which programme
+  - to be readily available to investors and potential investors throughout the period during which the shares or debentures to which the issue prospectus relates are offered or sold to the public.
 
-  - prospectus, etc. relates The shares or debentures the subject of a programme prospectus and its addenda, if any, and the issue prospectus concerned and its addenda, if any, shall cease to be offered or sold to the public on and after the date of—
+  - 8. Cessation of offer to which programme prospectus, etc. relates The shares or debentures the subject of a programme prospectus and its addenda, if any, and the issue prospectus concerned and its addenda, if any, shall cease to be offered or sold to the public on and after the date of—
 
-    - (a) the publication of the next annual report and accounts of the company to which the programme prospectus relates after the publication of the programme prospectus;
+    - (a) the publication of the next annual report and financial statements of the company to which the programme prospectus relates after the publication of the programme prospectus;
 
     - (b) the first anniversary of the date of publication of the programme prospectus; or
 
-    - (c) if there is a guarantor corporation, within the meaning of section 38(8) of this Ordinance, in relation to the offer concerned, the publication of the next annual report and accounts of the guarantor corporation after the publication of the programme prospectus,
+    - (c) if there is a guarantor corporation, within the meaning of section 38(8) of this Ordinance, in relation to the offer concerned, the publication of the next annual report and financial statements of the guarantor corporation after the publication of the programme prospectus,
 
   - whichever is the earlier.
 
+  - (Amended 28 of 2012 ss. 912 & 920)
+
   - 9. Application of section 38C of this Ordinance It is hereby declared that, where section 38C of this Ordinance has been complied with in respect of a programme prospectus which has been issued, the issue of any issue prospectus concerned does not of itself require that section to again be complied with in respect of the programme prospectus.
 
-- PART 2 PROSPECTUS TO WHICH THE PROVISIONS OF
-
-- PART XII OF THIS ORDINANCE APPLY
+- Part 2 Prospectus to which the Provisions of Part XII of this Ordinance Apply
 
   - 1. Interpretation In this Part—
 
-    - “issue prospectus” (發行章程) means that prospectus to which the provisions of Part XII of this Ordinance apply contained in the document, or series of documents, mentioned in section 2(1)(b);
+    - issue prospectus (發行章程) means that prospectus to which the provisions of Part XII of this Ordinance apply contained in the document, or series of documents, mentioned in section 2(1)(b);
 
-    - “programme prospectus” (計劃章程) means that prospectus to which the provisions of Part XII of this Ordinance apply contained in the document mentioned in section 2(1)(a);
+    - programme prospectus (計劃章程) means that prospectus to which the provisions of Part XII of this Ordinance apply contained in the document mentioned in section 2(1)(a);
 
-    - “relevant information” (有關資料), in relation to a prospectus, means such information as is required by the provisions of Part XII of, and the Third Schedule to, this Ordinance to be contained in the prospectus.
+    - relevant information (有關資料), in relation to a prospectus, means such information as is required by the provisions of Part XII of, and the Third Schedule to, this Ordinance to be contained in the prospectus.
 
-  - 2. Prospectus consisting of more than
-
-  - one document
+  - 2. Prospectus consisting of more than one document
 
     - (1) A prospectus may consist of—
 
@@ -152,42 +142,34 @@ PROVISIONS IN ACCORDANCE WITH WHICH A PROSPECTUS MAY CONSIST OF MORE THAN ONE DO
 
       - (ii) replacing the addendum and issue prospectus with a new issue prospectus.
 
-  - 4. Amendment made pursuant to
+  - 4. Amendment made pursuant to section 3 is prospectus It is hereby declared that any amendment made pursuant to section 3 is a prospectus and, subject to section 5, the provisions of this Ordinance shall apply to the amendment accordingly.
 
-  - section 3 is prospectus It is hereby declared that any amendment made pursuant to section 3 is a prospectus and, subject to section 5, the provisions of this Ordinance shall apply to the amendment accordingly.
-
-  - 5. Certain amendments made pursuant to
-
-  - section 3 to be read with other
-
-  - related documents Where it enables a provision of this Ordinance (including paragraph 3 of the Third Schedule to this Ordinance) to apply to an amendment made pursuant to section 3, the amendment shall, for the purposes of that application, be read with all or any of the programme prospectus to which it relates and the addenda, if any, to the programme prospectus and the issue prospectus to which it relates and the addenda, if any, to the issue prospectus, as the case requires.
+  - 5. Certain amendments made pursuant to section 3 to be read with other related documents Where it enables a provision of this Ordinance (including paragraph 3 of the Third Schedule to this Ordinance) to apply to an amendment made pursuant to section 3, the amendment shall, for the purposes of that application, be read with all or any of the programme prospectus to which it relates and the addenda, if any, to the programme prospectus and the issue prospectus to which it relates and the addenda, if any, to the issue prospectus, as the case requires.
 
   - 6. Warning
 
-    - (1) Every issue prospectus (including a new issue prospectus mentioned in section 3(b)(ii) or (d )(ii)) and any form of application must contain a statement specified in Part 4 of the Eighteenth Schedule to this Ordinance.
+    - (1) Every issue prospectus (including a new issue prospectus mentioned in section 3(b)(ii) or (d)(ii)) and any form of application must contain a statement specified in Part 4 of the Eighteenth Schedule to this Ordinance.
 
     - (2) Any amendment made pursuant to section 3(b)(i) must contain a statement specified in Part 5 of the Eighteenth Schedule to this Ordinance.
 
-  - 7. Availability of programme
-
-  - prospectus, etc. The issuer of a programme prospectus must make arrangements for—
+  - 7. Availability of programme prospectus, etc. The issuer of a programme prospectus must make arrangements for—
 
     - (a) the programme prospectus and its addenda, if any; and
 
-    - (b) the issue prospectus concerned and its addenda, if any, to be readily available to investors and potential investors throughout the period during which the shares or debentures to which the issue prospectus relates are offered or sold to the public.
+    - (b) the issue prospectus concerned and its addenda, if any,
 
-  - 8. Cessation of offer to which programme
+  - to be readily available to investors and potential investors throughout the period during which the shares or debentures to which the issue prospectus relates are offered or sold to the public.
 
-  - prospectus, etc. relates The shares or debentures the subject of a programme prospectus and its addenda, if any, and the issue prospectus concerned and its addenda, if any, shall cease to be offered or sold to the public on and after the date of—
+  - 8. Cessation of offer to which programme prospectus, etc. relates The shares or debentures the subject of a programme prospectus and its addenda, if any, and the issue prospectus concerned and its addenda, if any, shall cease to be offered or sold to the public on and after the date of—
 
-    - (a) the publication of the next annual report and accounts of the company to which the programme prospectus relates after the publication of the programme prospectus;
+    - (a) the publication of the next annual report and financial statements of the company to which the programme prospectus relates after the publication of the programme prospectus;
 
     - (b) the first anniversary of the date of publication of the programme prospectus; or
 
-    - (c) if there is a guarantor corporation, within the meaning of section 342(8) of this Ordinance, in relation to the offer concerned, the publication of the next annual report and accounts of the guarantor corporation after the publication of the programme prospectus,
+    - (c) if there is a guarantor corporation, within the meaning of section 342(8) of this Ordinance, in relation to the offer concerned, the publication of the next annual report and financial statements of the guarantor corporation after the publication of the programme prospectus,
 
   - whichever is the earlier.
 
-  - 9. Application of section 342B of
+  - (Amended 28 of 2012 ss. 912 & 920)
 
-  - this Ordinance It is hereby declared that, where section 342B of this Ordinance has been complied with in respect of a programme prospectus which has been issued, the issue of any issue prospectus concerned does not of itself require that section to again be complied with in respect of the programme prospectus. (Twenty-first Schedule added 30 of 2004 s. 2)
+  - 9. Application of section 342B of this Ordinance It is hereby declared that, where section 342B of this Ordinance has been complied with in respect of a programme prospectus which has been issued, the issue of any issue prospectus concerned does not of itself require that section to again be complied with in respect of the programme prospectus.

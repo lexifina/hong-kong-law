@@ -568,6 +568,7 @@ s-305A.md
 s-306.md
 s-307.md
 s-308.md
+s-308A.md
 s-309.md
 s-310.md
 s-311.md

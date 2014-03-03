@@ -1,14 +1,16 @@
-# THIRD SCHEDULE
+# Third Schedule
 
-[ss. 2B, 38, 38A, 38AA, 38D, 42, 342, 342A, 342AA, 342C & 360 & 2nd Sch., 4th Sch., 20th Sch. & 21st Schs.] (Amended 12 of 2005 s. 15; 8 of 2011 s. 20)
+[ss. 2B, 38, 38A, 38AA, 38D, 42, 342, 342A, 342AA, 342C & 360 & 2nd, 4th, 20th & 21st Schs.] (Amended 12 of 2005 s. 15; 8 of 2011 s. 20)
 
-MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
+Matters to be Specified in Prospectus and Reports to be set out therein
 
-- PART I MATTERS TO BE SPECIFIED
+(Third Schedule replaced 78 of 1972 s. 21) (Format changes—E.R. 1 of 2014)
+
+- Part I Matters to be Specified
 
   - 1. The general nature of the business of the company, and if the company carries on 2 or more activities which are material having regard to profits or losses, assets employed or any other factor, information as to the relative importance of each such activity.
 
-  - 2. The authorized share capital and the description and nominal value of the shares into which it is divided, the amount of share capital issued or agreed to be issued, and the amount paid up on the shares which have been issued.
+  - 2. The authorized share capital or maximum number of shares issuable under the articles and the description and nominal value (if any) of the shares into which the authorized share capital is divided, the amount of share capital issued or agreed to be issued, and the amount paid up on the shares which have been issued. (Amended 28 of 2012 ss. 912 & 920)
 
   - 3. Sufficient particulars and information to enable a reasonable person to form as a result thereof a valid and justifiable opinion of the shares or debentures and the financial condition and profitability of the company at the time of the issue of the prospectus, taking into account the nature of the shares or debentures being offered and the nature of the company, and the nature of the persons likely to consider acquiring them. (Amended 30 of 2004 s. 2)
 
@@ -124,11 +126,11 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
     - (b) particulars of any beneficial interest possessed by any director of the company in any shares so offered for sale.
 
-  - 29. The name, date and country of incorporation, whether public or private (if applicable), the general nature of the business, the issued capital and the proportion thereof held or intended to be held, of every company the whole of the capital of which or a substantial proportion thereof is held or intended to be held, or whose profits or assets make or will make a material contribution to the figures in the auditors’ report or to the next accounts of the company.
+  - 29. The name, date and country of incorporation, whether public or private (if applicable), the general nature of the business, the issued capital and the proportion thereof held or intended to be held, of every company the whole of the capital of which or a substantial proportion thereof is held or intended to be held, or whose profits or assets make or will make a material contribution to the figures in the auditors’ report or to the next financial statements of the company. (Amended 28 of 2012 ss. 912 & 920)
 
   - 30. A statement of the persons holding or beneficially interested in any substantial part of the share capital of the company and the amounts of the holdings in question.
 
-- PART II REPORTS TO BE SET OUT
+- Part II Reports to be set out
 
   - 31.
 
@@ -138,13 +140,13 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
       - (b) the rates of the dividends, if any, paid by the company in respect of each class of shares in the company in respect of each of the 3 financial years immediately preceding the issue of the prospectus, giving particulars of each such class of shares on which such dividends have been paid and particulars of the cases in which no dividends have been paid in respect of any class of shares in respect of any of those years,
 
-    - and, if no accounts have been made up in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
+    - and, if no financial statements have been prepared in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
 
     - (2) If the company has no subsidiaries, the report shall—
 
       - (a) so far as regards profits and losses, deal with the profits or losses of the company in respect of each of the 3 financial years immediately preceding the issue of the prospectus; and
 
-      - (b) so far as regards assets and liabilities, deal with the assets and liabilities of the company at the last date to which the accounts of the company were made up.
+      - (b) so far as regards assets and liabilities, deal with the assets and liabilities of the company at the last date to which the financial statements of the company were prepared.
 
     - (3) If the company has subsidiaries, the report shall—
 
@@ -164,13 +166,13 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
     - and shall indicate as respects the profits or losses and assets and liabilities of the subsidiaries the allowance to be made for persons other than members of the company.
 
-  - (Replaced 30 of 2004 s. 2)
+  - (Replaced 30 of 2004 s. 2. Amended 28 of 2012 ss. 912 & 920)
 
   - 32. If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in the purchase of any business, a report made by accountants (who shall be named in the prospectus) upon—
 
     - (a) the profits or losses of the business in respect of each of the 3 financial years immediately preceding the issue of the prospectus; and (Amended 86 of 1992 s. 18)
 
-    - (b) the assets and liabilities of the business at the last date to which the accounts of the business were made up.
+    - (b) the assets and liabilities of the business at the last date to which the financial statements of the business were prepared. (Amended 28 of 2012 ss. 912 & 920)
 
   - 33.
 
@@ -184,7 +186,7 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
       - (i) the profits or losses of the other undertaking in respect of each of the 3 financial years immediately preceding the issue of the prospectus; and (Amended 86 of 1992 s. 18)
 
-      - (ii) the assets and liabilities of the other undertaking at the last date to which the accounts of the undertaking were made up.
+      - (ii) the assets and liabilities of the other undertaking at the last date to which the financial statements of the undertaking were prepared. (Amended 28 of 2012 ss. 912 & 920)
 
     - (2) The said report shall—
 
@@ -196,7 +198,7 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
   - 34.
 
-    - (1) This paragraph shall apply in the case of every company whose accounts at the last date to which the accounts have been made up disclose that either a value exceeding 10 per cent of the value of the assets of the company or a value of not less than $3,000,000 is placed on the company’s interests in land or buildings.
+    - (1) This paragraph shall apply in the case of every company whose financial statements at the last date to which the financial statements have been prepared disclose that either a value exceeding 10 per cent of the value of the assets of the company or a value of not less than $3,000,000 is placed on the company’s interests in land or buildings. (Amended 28 of 2012 ss. 912 & 920)
 
     - (2) A valuation report with respect to all the company’s interests in land or buildings which shall include the following particulars of each property—
 
@@ -244,7 +246,7 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
     - (4) If the company has obtained more than one valuation report regarding any of the company’s interests in land or buildings within 6 months before the issue of the prospectus then all other such reports shall be included.
 
-- PART III PROVISIONS APPLYING TO PARTS I AND II OF SCHEDULE
+- Part III Provisions applying to Parts I and II of Schedule
 
   - 35. Paragraphs 15 (so far as it relates to preliminary expenses) and 19 shall not apply in the case of a prospectus issued more than 2 years after the date at which the company began to carry on business.
 
@@ -264,17 +266,19 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
   - 39. For the purposes of paragraph 12 where the vendors or any of them are a firm, the members of the firm shall not be treated as separate vendors.
 
-  - 40. If in the case of a company which has been carrying on business, or of a business which has been carried on for less than 3 years, the accounts of the company or business have only been made up in respect of 2 years or 1 year, Part II shall have effect as if references to 2 years or 1 year, as the case may be, were substituted for references to 3 years. (Amended 86 of 1992 s. 18)
+  - 40. If in the case of a company which has been carrying on business, or of a business which has been carried on for less than 3 years, the financial statements of the company or business have only been prepared in respect of 2 years or 1 year, Part II shall have effect as if references to 2 years or 1 year, as the case may be, were substituted for references to 3 years. (Amended 86 of 1992 s. 18; 28 of 2012 ss. 912 & 920)
 
   - 41.
 
-    - The expression “financial year” (財政年度) in Part II means the year in respect of which the accounts of the company or of the business, as the case may be, are made up, and where by reason of any alteration of the date on which the financial year of the company or business terminates the accounts of the company or business have been made up for a period greater or less than a year, that greater or less period shall for the purposes of that Part be deemed to be a financial year.
+    - The expression financial year (財政年度) in this Schedule means the year in respect of which the financial statements of the company or of the business, as the case may be, are prepared, and where by reason of any alteration of the date on which the financial year of the company or business terminates the financial statements of the company or business have been prepared for a period greater or less than a year, that period is for the purposes of this Schedule to be regarded as a financial year.
+
+  - (Amended 28 of 2012 ss. 912 & 920)
 
   - 42. Any report required by Part II shall either indicate by way of note any adjustments as respects the figures of any profits or losses or assets and liabilities dealt with by the report which appear to the persons making the report necessary or shall make those adjustments and indicate that adjustments have been made.
 
   - 43.
 
-    - Any report by accountants required by Part II shall be made by accountants qualified under the Professional Accountants Ordinance (Cap. 50) for appointment as auditors of a company and shall not be made by any accountant who is an officer or servant, or a partner of or in the employment of an officer or servant, of the company or of the company’s subsidiary or parent undertaking or of a subsidiary of the company’s parent undertaking; and for the purposes of this paragraph the expression “officer” (高級人員) shall include a proposed director but not an auditor.
+    - Any report by accountants required by Part II shall be made by accountants qualified under the Professional Accountants Ordinance (Cap. 50) for appointment as auditors of a company and shall not be made by any accountant who is an officer or servant, or a partner of or in the employment of an officer or servant, of the company or of the company’s subsidiary or parent undertaking or of a subsidiary of the company’s parent undertaking; and for the purposes of this paragraph the expression officer (高級人員) shall include a proposed director but not an auditor.
 
   - (Amended 6 of 1984 s. 259; 12 of 2005 s. 15)
 
@@ -282,7 +286,7 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
   - 45.
 
-    - For the purposes of this Schedule, “address” (地址) in the case of a natural person means the place of his usual residence.
+    - For the purposes of this Schedule, address (地址) in the case of a natural person means the place of his usual residence.
 
   - 46. Any valuation report required by Part II—
 
@@ -298,4 +302,4 @@ MATTERS TO BE SPECIFIED IN PROSPECTUS AND REPORTS TO BE SET OUT THEREIN
 
   - (Amended 12 of 2005 s. 15)
 
-  - 47. (Repealed 30 of 2004 s. 2) (Third Schedule replaced 78 of 1972 s. 21)
+  - 47. (Repealed 30 of 2004 s. 2)
