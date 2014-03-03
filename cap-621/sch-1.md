@@ -174,9 +174,9 @@ Information in Sales Brochure
 
         - a director of the corporation of which the authorized person is a director in his or her professional capacity;
 
-          - listed company (上市公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 32);
+          - listed company (上市公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
-          - private company (私人公司) has the meaning given by section 29(1) of the Companies Ordinance (Cap. 32).
+          - private company (私人公司) has the meaning given by section 11 of the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
 
   - 4. Information on design of the development
 
@@ -314,7 +314,7 @@ Information in Sales Brochure
 
       - (zl) a public utility installation;
 
-    - (zm)a religious institution (including a church, a temple and a Tsz Tong);
+      - (zm) a religious institution (including a church, a temple and a Tsz Tong);
 
       - (zn) a school (including a kindergarten);
 
@@ -590,73 +590,103 @@ Information in Sales Brochure
 
     - Column 1 Item | Column 2 Description
 
-    - 1. Exterior finishes
+    - 1. | Exterior finishes
 
-    - (a) External wall | Type of finishes.
+    - (a) | External wall | Type of finishes.
 
-    - (b) Window | Material of the frame and glass.
+    - (b) | Window | Material of the frame and glass.
 
-    - (c) Bay window | Material and window sill finishes.
+    - (c) | Bay window | Material and window sill finishes.
 
-    - (d) Planter | Type of finishes.
+    - (d) | Planter | Type of finishes.
 
-    - (e) Verandah or balcony | (i) Type of finishes. (ii) Whether it is covered.
+    - (e) | Verandah or balcony | (i) | Type of finishes.
 
-    - (f) Drying facilities for clothing | Type and material.
+    - (ii) | Whether it is covered.
 
-    - 2. Interior finishes (a) Lobby | Type of wall, floor and ceiling finishes.
+    - (f) | Drying facilities for clothing | Type and material.
 
-    - (b) Internal wall and ceiling | Type of wall and ceiling finishes for living room, dining room and bedroom.
+    - 2. | Interior finishes
 
-    - (c) Internal floor | Material of floor and skirting for living room, dining room and bedroom.
+    - (a) | Lobby | Type of wall, floor and ceiling finishes.
 
-    - (d) Bathroom | (i) Type of wall, floor and ceiling finishes. (ii) Whether the wall finishes run up to the ceiling.
+    - (b) | Internal wall and ceiling | Type of wall and ceiling finishes for living room, dining room and bedroom.
 
-    - (e) Kitchen | (i) Type of wall, floor, ceiling and cooking bench finishes. (ii) Whether the wall finishes run up to the ceiling.
+    - (c) | Internal floor | Material of floor and skirting for living room, dining room and bedroom.
 
-    - 3. Interior fittings
+    - (d) | Bathroom | (i) | Type of wall, floor and ceiling finishes.
 
-    - (a) Doors | Material, finishes and accessories.
+    - (ii) | Whether the wall finishes run up to the ceiling.
 
-    - (b) Bathroom | (i) Type and material of fittings and equipment. (ii) Type and material of water supply system. (iii) Type and material of bathing facilities (including shower or bath tub, if applicable). (iv) Size of bath tub, if applicable.
+    - (e) | Kitchen | (i) | Type of wall, floor, ceiling and cooking bench finishes.
 
-    - (c) Kitchen | (i) Material of sink unit. (ii) Material of water supply system. (iii) Material and finishes of kitchen cabinet. (iv) Type of all other fittings and equipment.
+    - (ii) | Whether the wall finishes run up to the ceiling.
 
-    - (d) Bedroom | Type and material of fittings (including built-in wardrobe).
+    - 3. | Interior fittings
 
-    - (e) Telephone | Location and number of connection points.
+    - (a) | Doors | Material, finishes and accessories.
 
-    - (f) Aerials | Location and number of connection points.
+    - (b) | Bathroom | (i) | Type and material of fittings and equipment.
 
-    - (g) Electrical installations | (i) Electrical fittings (including safety devices). (ii) Whether conduits are concealed or exposed. (iii) Location and number of power points and air-conditioner points.
+    - (ii) | Type and material of water supply system.
 
-    - (h) Gas supply | Type, system and location.
+    - (iii) | Type and material of bathing facilities (including shower or bath tub, if applicable).
 
-    - (i) Washing machine connection point | Location and design.
+    - (iv) | Size of bath tub, if applicable.
 
-    - (j) Water supply | (i) Material of water pipes. (ii) Whether water pipes are concealed or exposed. (iii) Whether hot water is available.
+    - (c) | Kitchen | (i) | Material of sink unit.
 
-    - 4. Miscellaneous
+    - (ii) | Material of water supply system.
 
-    - (a) Lifts | (i) Brand name and model number. (ii) Number and floors served by them.
+    - (iii) | Material and finishes of kitchen cabinet.
 
-    - (b) Letter box | Material.
+    - (iv) | Type of all other fittings and equipment.
 
-    - (c) Refuse collection | (i) Means of refuse collection. (ii) Location of refuse room.
+    - (d) | Bedroom | Type and material of fittings (including built-in wardrobe).
 
-    - (d) Water meter, electricity meter and gas meter | (i) Location. (ii) Whether they are separate or communal meters for residential properties.
+    - (e) | Telephone | Location and number of connection points.
 
-    - 5. Security facilities | Security system and equipment (including details of built-in provisions and their locations).
+    - (f) | Aerials | Location and number of connection points.
 
-    - 6. Appliances | Brand name and model number.
+    - (g) | Electrical installations | (i) | Electrical fittings (including safety devices).
 
-  - 23. Service agreements
+    - (ii) | Whether conduits are concealed or exposed.
 
-  - The sales brochure must set out information on any agreement with a utility company for providing utility service for the specified residential property.
+    - (iii) | Location and number of power points and air-conditioner points.
 
-  - 24. Government rent
+    - (h) | Gas supply | Type, system and location.
 
-  - The sales brochure must state the date up to which the owner is liable for the Government rent payable for the specified residential property.
+    - (i) | Washing machine connection point | Location and design.
+
+    - (j) | Water supply | (i) | Material of water pipes.
+
+    - (ii) | Whether water pipes are concealed or exposed.
+
+    - (iii) | Whether hot water is available.
+
+    - 4. | Miscellaneous
+
+    - (a) | Lifts | (i) | Brand name and model number.
+
+    - (ii) | Number and floors served by them.
+
+    - (b) | Letter box | Material.
+
+    - (c) | Refuse collection | (i) | Means of refuse collection.
+
+    - (ii) | Location of refuse room.
+
+    - (d) | Water meter, electricity meter and gas meter | (i) | Location.
+
+    - (ii) | Whether they are separate or communal meters for residential properties.
+
+    - 5. | Security facilities | Security system and equipment (including details of built-in provisions and their locations).
+
+    - 6. | Appliances | Brand name and model number.
+
+  - 23. Service agreements The sales brochure must set out information on any agreement with a utility company for providing utility service for the specified residential property.
+
+  - 24. Government rent The sales brochure must state the date up to which the owner is liable for the Government rent payable for the specified residential property.
 
   - 25. Miscellaneous payments by purchaser
 
@@ -668,9 +698,7 @@ Information in Sales Brochure
 
     - (2) Subsection (1) applies even though the amount of the deposits or fee is yet to be ascertained at the date on which the sales brochure is printed.
 
-  - 26. Defect liability warranty period
-
-  - The sales brochure must state the duration of the period during which the vendor is liable to make good any defect in the specified residential property, as provided in the agreement for sale and purchase.
+  - 26. Defect liability warranty period The sales brochure must state the duration of the period during which the vendor is liable to make good any defect in the specified residential property, as provided in the agreement for sale and purchase.
 
   - 27. Maintenance of slopes
 
