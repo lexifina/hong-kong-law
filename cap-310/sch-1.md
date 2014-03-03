@@ -8,7 +8,7 @@
 
   - (a) in relation to a business registration application (other than a simultaneous business registration application) or a notice issued under section 7(1)(a)(i)—
 
-    - (i) in the case of a company incorporated under the Companies Ordinance (Cap. 32)—
+    - (i) in the case of a company incorporated under the Companies Ordinance (Cap. 622) or under a former Companies Ordinance as defined by section 2(1) of the Companies Ordinance (Cap. 622)— (Amended 28 of 2012 ss. 912 & 920)
 
       - (A) if the application is made or the notice is issued within 1 year of the date of its incorporation, that date; or
 
@@ -22,7 +22,7 @@
 
   - (b) in relation to a simultaneous business registration application—
 
-    - (i) in the case of a fee payable under section 5A(1)(a), the date of making the related incorporation application; or
+    - (i) in the case of a fee payable under section 5A(1)(a), the date of making the related incorporation submission; or (Amended 28 of 2012 ss. 912 & 920)
 
     - (ii) in the case of a fee payable under section 5B(1)(a)—
 
@@ -72,7 +72,7 @@ Item | Sum
 
 3. | Average of total sales or receipts to exempt a business whose profits derive primarily from the sale of services | $10,000 per month
 
-( Amended 26 of 1996 s. 3; 13 of 2010 s. 17) (Schedule 1 replaced 33 of 1994 s. 8)
+(Amended 26 of 1996 s. 3; 13 of 2010 s. 17) (Schedule 1 replaced 33 of 1994 s. 8)
 
 Editorial Note:
 

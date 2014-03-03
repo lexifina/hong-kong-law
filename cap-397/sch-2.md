@@ -4,8 +4,6 @@
 
 ACTIONS NOT SUBJECT TO INVESTIGATION
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2; 29 of 1998 s. 105)
-
 - 1. Any action taken in matters certified by the Chief Executive as affecting security, defence or international relations (including relations with any international organization) in respect of Hong Kong. (Amended 25 of 1998 s. 2)
 
 - 2. The commencement or conduct of any proceedings, whether civil or criminal, before a court of law or tribunal in Hong Kong, including any decision whether or not to prosecute any person for an offence.
@@ -26,6 +24,6 @@ ACTIONS NOT SUBJECT TO INVESTIGATION
 
 - 8. Any decision concerning the imposition or variation of any condition of granting, extending or renewing any interest in Government land. (Added 44 of 1994 s. 18. Amended 25 of 1998 s. 2; 29 of 1998 s. 105)
 
-- 9. Any action taken in relation to the Hong Kong Codes on Takeovers and Mergers and Share Repurchases issued by the Securities and Futures Commission. (Added 44 of 1994 s. 18)
+- 9. Any action taken in relation to the Hong Kong Codes on Takeovers and Mergers and Share Buy-backs issued by the Securities and Futures Commission. (Added 44 of 1994 s. 18. Amended 28 of 2012 ss. 912 & 920)
 
 - 10. Any action taken by the Independent Commission Against Corruption, the Hong Kong Auxiliary Police Force or the Hong Kong Police Force in relation to the prevention, detection or investigation of any crime or offence, whether or not the action is taken solely by any one of these organizations, or jointly by more than one of these organizations or by any one or more of them together with any other organizations or persons. (Added 74 of 1996 s. 10. Amended 25 of 1998 s. 2)

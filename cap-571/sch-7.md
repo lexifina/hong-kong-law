@@ -4,6 +4,8 @@
 
 Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulated Activity under Section 175 of this Ordinance
 
+(Format changes—E.R. 1 of 2013)
+
 - Part 1 Requirements to be Satisfied in Relation to Offers to Acquire Securities
 
   - 1. If the securities proposed to be acquired are currently listed or quoted on any stock market, whether a recognized stock market or any other stock market outside Hong Kong, the offer shall—
@@ -20,7 +22,7 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
   - 2. If the securities proposed to be acquired are not listed or quoted on any stock market, whether a recognized stock market or any other stock market outside Hong Kong, the offer shall contain—
 
-    - (a) all information that the offeror may have as to the number and nominal value of those securities that have been sold in Hong Kong during the period of 6 months immediately preceding the date of the offer and the prices yielded by those sales; and
+    - (a) all information that the offeror may have as to the number and nominal value (if any) of those securities that have been sold in Hong Kong during the period of 6 months immediately preceding the date of the offer and the prices yielded by those sales; and (Amended 28 of 2012 ss. 912 & 920)
 
     - (b) particulars of any restriction in the constitution, by whatever name called, of the body in question on the right to transfer the securities, that has the effect of requiring the offerees, before transferring the securities, to offer those securities for purchase to any member of the body or to any other person and, where there is any such restriction, the arrangements (if any) being made to enable the securities to be transferred in pursuance of the offer.
 
@@ -36,11 +38,11 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
     - accountant or other professional
 
-    - adviser.”; and
+    - adviser.”；and
 
-    - (b) in the case of the Chinese text, the following notice printed in type the face of which is not less than 2.5 mm in depth— “重要提示 如你對此要約的任何方面有疑問，應諮詢持牌證券交易商、
+    - (b) in the case of the Chinese text, the following notice printed in type the face of which is not less than 2.5 mm in depth— “重要提示 如你對此要約的任何方面有疑問，應諮詢持牌證券交
 
-    - 銀行經理、律師、會計師或其他專業顧問。”
+    - 易商、銀行經理、律師、會計師或其他專業顧問。”.
 
   - (Amended 23 of 2004 s. 56)
 
@@ -52,7 +54,7 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
     - (2) Section 175(8) of this Ordinance applies to a reference to securities of a body (however described) in this Part as it applies to such a reference in section 175 of this Ordinance.
 
-- Part 2 Requirements to be Satisfied in Relation toOffers to Dispose of Securities
+- Part 2 Requirements to be Satisfied in Relation to Offers to Dispose of Securities
 
   - 1. If the securities offered are currently listed or quoted on any stock market, whether a recognized stock market or any other stock market outside Hong Kong, or, where the securities are not so listed or quoted, will be uniform in all respects with securities of the body in question that are so listed or quoted, the offer shall—
 
@@ -72,7 +74,7 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
     - (b)
 
-      - (i) where the securities are of, or issued by, a corporation, contain the particulars specified in section 3 or be accompanied by a statement in writing containing those particulars, unless the offer is accompanied by a document which conforms with Part II or XII of the Companies Ordinance (Cap. 32) in relation to the corporation;
+      - (i) where the securities are of, or issued by, a corporation, contain the particulars specified in section 3 or be accompanied by a statement in writing containing those particulars, unless the offer is accompanied by a document which conforms with Part II or XII of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) in relation to the corporation; (Amended 28 of 2012 ss. 912 & 920)
 
       - (ii) where the securities are of, or issued by, a multilateral agency, contain the particulars specified in section 4 or be accompanied by a statement in writing containing those particulars; or
 
@@ -90,25 +92,25 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
     - (b)
 
-      - (i) the authorized capital of the corporation;
+      - (i) the authorized capital (if any), or the maximum number of shares issuable under the constitution, of the corporation;
 
-      - (ii) the amount of that capital that has been issued and is outstanding at the date specified as being the close of the 5 financial years of the corporation immediately preceding the date of the offer;
+      - (ii) the amount of share capital that has been issued and is outstanding at the date specified as being the close of the 5 financial years of the corporation immediately preceding the date of the offer;
 
-      - (iii) the classes of shares into which that capital is divided;
+      - (iii) the classes of shares into which the share capital is divided;
 
       - (iv) the rights, in respect of capital, dividends and voting, of holders of each of such classes of shares; and
 
-      - (v) the number and total nominal value respectively of shares of the corporation issued as fully or partly paid up for cash or as fully or partly paid up for a consideration other than cash, or both;
+      - (v) the number and total nominal value (if any) respectively of shares of the corporation issued as fully or partly paid up for cash or as fully or partly paid up for a consideration other than cash, or both; (Amended 28 of 2012 ss. 912 & 920)
 
     - (c)
 
-      - (i) the number and total nominal value of shares issued since the close of the last financial year of the corporation;
+      - (i) the number and total nominal value (if any) of shares issued since the close of the last financial year of the corporation; (Amended 28 of 2012 ss. 912 & 920)
 
       - (ii) the classes of shares into which the shares issued since the close of the last financial year of the corporation are divided;
 
       - (iii) the rights, in respect of capital, dividends and voting, of holders of each of such classes of shares;
 
-      - (iv) the number and total nominal value respectively of shares issued since the close of the last financial year of the corporation as fully or partly paid up for cash or as fully or partly paid up for a consideration other than cash, or both;
+      - (iv) the number and total nominal value (if any) respectively of shares issued since the close of the last financial year of the corporation as fully or partly paid up for cash or as fully or partly paid up for a consideration other than cash, or both; (Amended 28 of 2012 ss. 912 & 920)
 
       - (v) the number of redeemable preference shares redeemed since the close of the last financial year of the corporation and the amounts repaid in respect of the shares so redeemed; and
 
@@ -128,7 +130,7 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
     - (g) the names and addresses of the directors of the corporation;
 
-    - (h) the number, description, and nominal value of the securities of the corporation held by or on behalf of each of its directors or, if a director does not hold any such securities and no such securities are held on his behalf, a statement to that effect; and
+    - (h) the number, description, and nominal value (if any) of the securities of the corporation held by or on behalf of each of its directors or, if a director does not hold any such securities and no such securities are held on his behalf, a statement to that effect; and (Amended 28 of 2012 ss. 912 & 920)
 
     - (i) whether or not the securities offered are or, in the case of securities to be issued, will be fully paid up, and, if not, to what extent they are or will be paid up, and, if the corporation has fixed a date and amount for payment of outstanding calls, the date and amount of each such call.
 
@@ -196,7 +198,7 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
       - (ii) the times at which they may be inspected;
 
-    - (d) in the case of securities which will be uniform in all respects with previously issued securities of the body that are not currently listed or quoted on any stock market, whether a recognized stock market or any other stock market outside Hong Kong, contain all information that the offeror may have as to the number and nominal value of those securities that have been sold during the period of 6 months immediately preceding the date of the offer and the prices yielded by those sales; and
+    - (d) in the case of securities which will be uniform in all respects with previously issued securities of the body that are not currently listed or quoted on any stock market, whether a recognized stock market or any other stock market outside Hong Kong, contain all information that the offeror may have as to the number and nominal value (if any) of those securities that have been sold during the period of 6 months immediately preceding the date of the offer and the prices yielded by those sales; and (Amended 28 of 2012 ss. 912 & 920)
 
     - (e) in the case of securities which will not be uniform in all respects with previously issued securities of the body, state—
 
@@ -218,11 +220,11 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
 
     - accountant or other professional
 
-    - adviser.”; and
+    - adviser.”；and
 
-    - (b) in the case of the Chinese text, the following notice printed in type the face of which is not less than 2.5 mm in depth— “重要提示 如你對此要約的任何方面有疑問，應諮詢持牌證券交易商、
+    - (b) in the case of the Chinese text, the following notice printed in type the face of which is not less than 2.5 mm in depth— “重要提示 如你對此要約的任何方面有疑問，應諮詢持牌證券交
 
-    - 銀行經理、律師、會計師或其他專業顧問。”.
+    - 易商、銀行經理、律師、會計師或其他專業顧問。”.
 
   - (Amended 23 of 2004 s. 56)
 
@@ -233,5 +235,3 @@ Offers by Intermediaries or Representatives for Type 1, Type 4 or Type 6 Regulat
       - In this Part, body (團體) has the meaning assigned to it by section 175(9) of this Ordinance.
 
     - (2) Section 175(8) of this Ordinance applies to a reference to securities of a body (however described) in this Part as it applies to such a reference in section 175 of this Ordinance.
-
-  - (Format changes—E.R. 1 of 2013)

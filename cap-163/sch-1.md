@@ -42,9 +42,17 @@
 
   - 2. A loan made to a company secured by a mortgage, charge, lien or other encumbrance—
 
-    - (a) registered, or to be registered, under the Companies Ordinance (Cap. 32); or
+    - (a) registered, or to be registered, under the Companies Ordinance (Cap. 622); (Replaced 28 of 2012 ss. 912 & 920)
 
-    - (b) which would, in the case of a company referred to in paragraph (b) or (c) of the definition of “company” (公司) in section 2(1), be able to be registered under that Ordinance if that company were a company referred to in paragraph (a) of that definition.
+    - (ab) registered, or to be registered, under a provision of the Companies Ordinance (Cap. 32) as in force from time to time before the commencement date* of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622), having a continuing effect under Schedule 11 to the Companies Ordinance (Cap. 622); (Added 28 of 2012 ss. 912 & 920)
+
+    - (ac) registered under a former Companies Ordinance as defined by section 2(1) of the Companies Ordinance (Cap. 622); or (Added 28 of 2012 ss. 912 & 920)
+
+    - (b) which would, in the case of a company referred to in paragraph (b) or (c) of the definition of “company” (公司) in section 2(1)— (Amended 28 of 2012 ss. 912 & 920)
+
+      - (i) where the mortgage, charge, lien or encumbrance was created before the commencement date* of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622), be able to be registered under a former Companies Ordinance as defined by section 2(1) of the Companies Ordinance (Cap. 622) if the company were incorporated under that former Companies Ordinance; or
+
+      - (ii) where the mortgage, charge, lien or encumbrance is created on or after that commencement date*, be able to be registered under the Companies Ordinance (Cap. 622) if the company were incorporated under that Ordinance. (Amended 28 of 2012 ss. 912 & 920)
 
   - 3. A loan made by a company under a bona fide credit-card scheme operated by the company to any holder of a credit-card issued under that scheme.
 
@@ -68,7 +76,7 @@
 
     - (a) A loan made by a holding company to its subsidiary or by a subsidiary to its holding company or another subsidiary company of the same holding company.
 
-    - (b) Section 2(7) and (8) of the Companies Ordinance (Cap. 32) shall apply to the interpretation of this paragraph as it applies to the interpretation of that Ordinance.
+    - (b) Sections 13, 14 and 15 of the Companies Ordinance (Cap. 622) shall apply to the interpretation of this paragraph as it applies to the interpretation of that Ordinance. (Amended 28 of 2012 ss. 912 & 920)
 
   - 11. A loan made to a company where the loan—
 
@@ -88,7 +96,7 @@
 
         - (ii) approved in writing by the Registrar for the purposes of this paragraph.
 
-  - 13. A loan upon terms involving the issue by a company of debentures or other securities in respect of which a prospectus has been registered under the Companies Ordinance (Cap. 32).
+  - 13. A loan upon terms involving the issue by a company of debentures or other securities in respect of which a prospectus has been registered under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (Amended 28 of 2012 ss. 912 & 920)
 
   - 14. A loan made to a company the shares or debentures of which are listed on—
 
@@ -97,3 +105,7 @@
     - (b) any other stock market declared in writing, by the Securities and Futures Commission referred to in section 3(1) of the Securities and Futures Ordinance (Cap. 571), to be approved for the purposes of this paragraph. (Amended 10 of 1989 s. 65; 5 of 2002 s. 407)
 
   - 15. A loan made to the subsidiary of a company referred to in paragraph 14. (Replaced 69 of 1988 s. 33)
+
+Editorial Note:
+
+* Commencement date : 3 March 2014.

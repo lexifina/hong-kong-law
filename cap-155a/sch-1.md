@@ -1,4 +1,4 @@
-# SCHEDULE 1
+# FIRST SCHEDULE
 
 [para. 2(a)]
 
@@ -18,8 +18,10 @@ PERSONS EXEMPT FROM SECTION 12
 
     - (b) issue, or have in its possession for the purposes of issue, any document which to its knowledge contains such an advertisement; or
 
-    - (c) in any other manner issue or make an invitation to members of the public to do any of the acts referred to in paragraph (a), where such issue, possession or making is not in contravention of section 92 of the Ordinance, except as the Financial Secretary may approve in writing from time to time;
+    - (c) in any other manner issue or make an invitation to members of the public to do any of the acts referred to in paragraph (a),
 
-- (2) that The Hongkong and Shanghai Banking Corporation or its nominee is and shall at all times continue to be a beneficial owner of not less than 20% of the issued and paid up share capital of Arabian Gulf Investments (Far East) Limited; and
+- where such issue, possession or making is not in contravention of section 92 of the Ordinance, except as the Financial Secretary may approve in writing from time to time;
+
+- (2) that The Hongkong and Shanghai Banking Corporation or its nominee is and shall at all times continue to be a beneficial owner of not less than 20% of the issued shares of Arabian Gulf Investments (Far East) Limited; and (28 of 2012 ss. 912 & 920)
 
 - (3) that The Hongkong and Shanghai Banking Corporation shall, by prior written notice to the Financial Secretary, advise of any proposal or action which may result in condition (2) not continuing to be fulfilled.

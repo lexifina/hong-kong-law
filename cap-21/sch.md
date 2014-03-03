@@ -18,7 +18,7 @@ NEWSPAPER STATEMENTS HAVING QUALIFIED PRIVILEGE
 
   - 6. A fair and accurate copy of or extract from any register kept in pursuance of any Ordinance which is open to inspection by the public, or of any other document which is required by the law of Hong Kong to be open to inspection by the public.
 
-  - 7. A notice or advertisement published by or on the authority of any court within Hong Kong or any judge or officer of such a court. -
+  - 7. A notice or advertisement published by or on the authority of any court within Hong Kong or any judge or officer of such a court.
 
 - PART II STATEMENTS PRIVILEGED SUBJECT TO EXPLANATION OR CONTRADICTION
 
@@ -46,7 +46,7 @@ NEWSPAPER STATEMENTS HAVING QUALIFIED PRIVILEGE
 
   - not being a meeting or sitting admission to which is denied to representatives of newspapers and other members of the public.
 
-  - 11. A fair and accurate report of the proceedings at a general meeting of any company or association constituted, registered or certified by or under any Ordinance or Act of Parliament or incorporated by Royal Charter, not being a private company within the meaning of the Companies Ordinance, Chapter 32.
+  - 11. A fair and accurate report of the proceedings at a general meeting of any company or association constituted, registered or certified by or under any Ordinance or Act of Parliament or incorporated by Royal Charter, not being a private company within the meaning of the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920)
 
   - 12. A copy or fair and accurate report or summary of any notice or other matter issued for the information of the public by or on behalf of any Government department, or by or on behalf of the Commissioner of Police.
 

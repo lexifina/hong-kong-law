@@ -306,9 +306,9 @@ Item | Provision | Description of decision
 
 70. | Section 403 of this Ordinance | Imposition of any condition.
 
-71. | Section 38A(1) of the Companies Ordinance (Cap. 32) | Refusal to issue a certificate of exemption, or imposition of any condition.
+71. | Section 38A(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) | Refusal to issue a certificate of exemption, or imposition of any condition. (Amended 28 of 2012 ss. 912 & 920)
 
-72. | Section 342A(1) of the Companies Ordinance (Cap. 32) | Refusal to issue a certificate of exemption, or imposition of any condition.
+72. | Section 342A(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) | Refusal to issue a certificate of exemption, or imposition of any condition. (Amended 28 of 2012 ss. 912 & 920)
 
 73. | Section 6(2) of the Securities and Futures (Stock Market Listing) Rules (Cap. 571 sub. leg. V) | Objection to a listing of securities. (Added L.N. 231 of 2002)
 

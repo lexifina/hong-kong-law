@@ -12,8 +12,6 @@ Interpretation and General Provisions
 
     - Advisory Committee (諮詢委員會) means the Advisory Committee referred to in section 7 of this Ordinance;
 
-    - articles (章程細則), in relation to a company, means its articles as defined in section 2(1) of the Companies Ordinance (Cap. 32);
-
     - associate (有聯繫者), in relation to a person, means—
 
       - (a) the spouse, or any minor child (natural or adopted) or minor step-child, of the person;
@@ -48,7 +46,7 @@ Interpretation and General Provisions
 
         - (ii) under which they undertake to act together in exercising their voting power at general meetings of the corporation;
 
-    - associated entity (有聯繫實體), in relation to an intermediary, means a company, or a non-Hong Kong company complying with the provisions of Part XI of the Companies Ordinance (Cap. 32) relating to the registration of documents, which— (Amended 30 of 2004 s. 3)
+    - associated entity (有聯繫實體), in relation to an intermediary, means a company, or a registered non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 622), which— (Amended 30 of 2004 s. 3; 28 of 2012 ss. 912 & 920)
 
       - (a) is in a controlling entity relationship with the intermediary; and
 
@@ -250,7 +248,7 @@ Interpretation and General Provisions
 
     - Commissioner of the Independent Commission Against Corruption (廉政專員) means the person who holds the office of the Commissioner of the Independent Commission Against Corruption pursuant to section 5 of the Independent Commission Against Corruption Ordinance (Cap. 204); (Amended 14 of 2003 s. 24)
 
-    - company (公司) means a company as defined in section 2(1) of the Companies Ordinance (Cap. 32);
+    - company (公司) means a company as defined in section 2(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
     - compensation fund (賠償基金) means the Investor Compensation Fund established under section 236 of this Ordinance;
 
@@ -258,7 +256,7 @@ Interpretation and General Provisions
 
     - constitution (章程), in relation to a corporation, including a recognized exchange company, recognized clearing house, recognized exchange controller or recognized investor compensation company, means—
 
-      - (a) where the corporation is a company, the memorandum and articles of the corporation; or
+      - (a) where the corporation is a company, the articles of association of the corporation; or (Amended 28 of 2012 ss. 912 & 920)
 
       - (b) in any other case, any other instrument providing for the constitution of the corporation;
 
@@ -404,7 +402,7 @@ Interpretation and General Provisions
 
     - but does not include interests, rights or property which is interests, rights or property, or is of a class or description of interests, rights or property, prescribed by notice under section 392 of this Ordinance as not being regarded as futures contracts in accordance with the terms of the notice;
 
-    - Futures Exchange Company (期交所) means the company incorporated under the Companies Ordinance (Cap. 32) and registered under that Ordinance by the name Hong Kong Futures Exchange Limited;
+    - Futures Exchange Company (期交所) means the company incorporated, and registered by the name Hong Kong Futures Exchange Limited, under the relevant Ordinance; (Amended 28 of 2012 ss. 912 & 920)
 
     - futures market (期貨市場) means a place at which facilities are provided for persons to negotiate or conclude sales and purchases of, or for bringing together on a regular basis sellers and purchasers of—
 
@@ -442,7 +440,7 @@ Interpretation and General Provisions
 
       - but does not include, in the case of a cheque or other order made payable to any person, the possession of the cheque or other order during the course of dispatching or delivering it to that person or any other person on behalf of that person;
 
-    - holding company (控股公司), in relation to a corporation, means any other corporation of which it is a subsidiary;
+    - holding company (控權公司) means, in relation to a corporation, any other corporation of which it is a subsidiary; (Replaced 28 of 2012 ss. 912 & 920)
 
     - incorporated (成立、成立為法團) includes formed or established, by whatever means;
 
@@ -510,8 +508,6 @@ Interpretation and General Provisions
 
       - (b) the chief executive officer or any other executive director or non-executive director of the Commission (whether or not acting in any other capacity under Part 1 of Schedule 2 to this Ordinance); (Amended 15 of 2006 s. 5)
 
-    - memorandum (章程大綱), in relation to a company, means its memorandum as defined in section 2(1) of the Companies Ordinance (Cap. 32);
-
     - minor (未成年), in relation to a person, means not having attained the age of 18 years;
 
     - misfeasance (不當行為) means the performance of an otherwise lawful act in a wrongful manner;
@@ -530,7 +526,7 @@ Interpretation and General Provisions
 
     - non-executive director (非執行董事), in relation to the Commission, means a person who is appointed as a non-executive director of the Commission under section 1 of Part 1 of Schedule 2 to this Ordinance (whether or not acting in any other capacity under that Part); (Amended 15 of 2006 s. 5)
 
-    - non-Hong Kong company (非香港公司) has the meaning assigned to it by section 332 of the Companies Ordinance (Cap. 32); (Added 30 of 2004 s. 3)
+    - non-Hong Kong company (非香港公司) has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Added 30 of 2004 s. 3. Amended 28 of 2012 ss. 912 & 920)
 
     - number (數目), in relation to shares which in the context can be construed to include stock, includes amount;
 
@@ -630,7 +626,7 @@ Interpretation and General Provisions
 
       - (b) obligations, easements and every description of estate, interest and profit, present or future, vested or contingent, arising out of or incident to property as defined in paragraph (a);
 
-    - prospectus (招股章程) means prospectus as defined in section 2(1) of the Companies Ordinance (Cap. 32); (Replaced 30 of 2004 s. 3)
+    - prospectus (招股章程) means prospectus as defined in section 2(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32); (Replaced 30 of 2004 s. 3. Amended 28 of 2012 ss. 912 & 920)
 
     - public (公眾、大眾) means the public of Hong Kong, and includes any class of that public;
 
@@ -672,27 +668,29 @@ Interpretation and General Provisions
 
     - registered institution (註冊機構) means an authorized financial institution which is registered under section 119 of this Ordinance;
 
-    - Registrar of Companies (公司註冊處處長) means the Registrar of Companies appointed under section 303 of the Companies Ordinance (Cap. 32);
+    - Registrar of Companies (公司註冊處處長) means the Registrar of Companies appointed under section 21(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
     - regulated activity (受規管活動) means any of the regulated activities specified in Part 1 of Schedule 5 to this Ordinance, and a reference to a type of regulated activity by number shall be construed as a reference to the type of regulated activity of that number as specified in that Part;
 
     - regulated investment agreement (受規管投資協議) means an agreement the purpose or effect, or pretended purpose or effect, of which is to provide, whether conditionally or unconditionally, to any party to the agreement a profit, income or other returns calculated by reference to changes in the value of any property, but does not include an interest in a collective investment scheme;
 
+    - relevant Ordinance (《有關條例》) means the Companies Ordinance (Cap. 32) as in force from time to time before the commencement date* of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622); (Added 28 of 2012 ss. 912 & 920)
+
     - relevant provisions (有關條文) means the provisions of—
 
       - (a) this Ordinance;
 
-      - (b) Parts II and XII of the Companies Ordinance (Cap. 32), so far as those Parts relate, directly or indirectly, to the performance of functions relating to—
+      - (b) Parts II and XII of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), so far as those Parts relate, directly or indirectly, to the performance of functions relating to prospectuses, whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance; (Added 15 of 2011 s. 91. Amended 28 of 2012 ss. 912 & 920)
 
-        - (i) prospectuses;
+      - (ba) Part 5 of the Companies Ordinance (Cap. 622), so far as that Part relates, directly or indirectly, to the performance of functions relating to—
 
-        - (ii) the purchase by a corporation of its own shares;
+        - (i) the buy-back by a corporation of its own shares; or
 
-        - (iii) a corporation giving financial assistance for the acquisition of its own shares,
+        - (ii) a corporation giving financial assistance for the acquisition of its own shares,
 
-    - whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance;
+    - whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance; (Added 28 of 2012 ss. 912 & 920)
 
-      - (c) Parts II and XII of the Companies Ordinance (Cap. 32), for the purposes only of section 213 of this Ordinance, and so far as those Parts relate, directly or indirectly, to an advertisement mentioned in section 38B(1) of that Ordinance; (Added 30 of 2004 s. 3)
+      - (c) Parts II and XII of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), for the purposes only of section 213 of this Ordinance, and so far as those Parts relate, directly or indirectly, to an advertisement mentioned in section 38B(1) of that Ordinance; (Added 30 of 2004 s. 3. Amended 28 of 2012 ss. 912 & 920)
 
       - (d) Part 2 (except section 6) of the Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Ordinance (Cap. 615); (Added 15 of 2011 s. 91)
 
@@ -794,7 +792,7 @@ Interpretation and General Provisions
 
       - but does not include—
 
-      - (i) shares or debentures of a company that is a private company within the meaning of section 29 of the Companies Ordinance (Cap. 32);
+      - (i) shares or debentures of a company that is a private company within the meaning of section 11 of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
       - (ii) any interest in any collective investment scheme that is—
 
@@ -888,7 +886,7 @@ Interpretation and General Provisions
 
     - specified stock exchange (指明證券交易所) means a stock exchange specified in Part 3;
 
-    - Stock Exchange Company (聯交所) means the company incorporated under the Companies Ordinance (Cap. 32) and registered under that Ordinance by the name The Stock Exchange of Hong Kong Limited;
+    - Stock Exchange Company (聯交所) means the company incorporated, and registered by the name The Stock Exchange of Hong Kong Limited, under the relevant Ordinance; (Amended 28 of 2012 ss. 912 & 920)
 
     - stock market (證券市場) means a place where persons regularly meet together to negotiate sales and purchases of securities (including prices), or a place at which facilities are provided for bringing together sellers and purchasers of securities; but does not include the office of—
 
@@ -904,7 +902,7 @@ Interpretation and General Provisions
 
     - trading right (交易權), in relation to a recognized exchange company, means a right to be eligible to trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company and entered as such a right in a list, roll or register kept by that exchange company.
 
-  - (Amended 23 of 2004 s. 56; 30 of 2004 s. 3)
+  - (Amended 23 of 2004 s. 56; 30 of 2004 s. 3; 28 of 2012 ss. 912 & 920)
 
   - 1A. Meaning of structured product
 
@@ -1036,7 +1034,7 @@ Interpretation and General Provisions
 
       - (a) has an interest in shares in the corporation—
 
-        - (i) the nominal value of which shares is equal to more than the nominal value of 10% of the issued share capital of the corporation; or
+        - (i) the aggregate number of which shares is equal to more than 10% of the total number of issued shares of the corporation; or (Amended 28 of 2012 ss. 912 & 920)
 
         - (ii) which entitles the person, either alone or with any of his associates and either directly or indirectly, to exercise or control the exercise of more than 10% of the voting power at general meetings of the corporation; or
 
@@ -1257,3 +1255,7 @@ Interpretation and General Provisions
     - (b) A-3 or above for short term debt.
 
   - (Amended E.R. 2 of 2012) (Format changes—E.R. 2 of 2012)
+
+Editorial Note:
+
+* Commencement date : 3 March 2014.

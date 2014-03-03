@@ -84,7 +84,9 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
     - (v) the result of a mathematical operation that involves more than one relevant figure; or
 
-    - (vi) the occurrence or non-occurrence of an event in relation to a person other than the depositor who holds, or the Scheme member that takes, the deposit. (Added L.N. 107 of 2006)
+    - (vi) the occurrence or non-occurrence of an event in relation to a person other than the depositor who holds, or the Scheme member that takes, the deposit.
+
+- (Added L.N. 107 of 2006)
 
 - 3. In this Schedule—
 
@@ -142,7 +144,7 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
       - (iv) a manager, within the meaning of that section, of the Scheme member or the company;
 
-    - (b) in relation to a Scheme member’s related company that is not an authorized institution, has the meaning assigned to it by section 2(1) of the Companies Ordinance (Cap. 32);
+    - (b) in relation to a Scheme member’s related company that is not an authorized institution, has the meaning given by section 2(1) of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
   - “related company” (關連公司), in relation to a Scheme member, means—
 

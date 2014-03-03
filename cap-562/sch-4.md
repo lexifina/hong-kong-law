@@ -72,7 +72,7 @@ Domestic Free Television Programme Service Supplementary Provisions
 
     - (b) the introduction of a disqualified person to exercise control of the licensee.
 
-  - 7. Licensee to include certain statement in prospectus A licensee shall ensure that a clear statement of the effect of section 8 of this Ordinance, of Schedule 1 and of sections 5 and 6 is made in any prospectus, within the meaning of the Companies Ordinance (Cap. 32), issued at any time in respect of the licensee.
+  - 7. Licensee to include certain statement in prospectus A licensee shall ensure that a clear statement of the effect of section 8 of this Ordinance, of Schedule 1 and of sections 5 and 6 is made in any prospectus, within the meaning of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), issued at any time in respect of the licensee. (Amended 28 of 2012 ss. 912 & 920)
 
 - Part 2 Effect of Non-Renewal or Revocation of Licence
 
@@ -150,7 +150,11 @@ Domestic Free Television Programme Service Supplementary Provisions
 
     - (1) Subject to section 5 of Schedule 8 to this Ordinance, a licensee shall pay annually to the Authority a prescribed licence fee and such other fees as may be prescribed. (Amended 17 of 2011 s. 28)
 
-    - (2) In a licence issued or renewed under this Ordinance before the commencement date of the Communications Authority Ordinance (Cap. 616), any condition providing for the payment of the licence fee to the Government is to be construed as a condition providing for the payment of the licence fee to the Authority. (Added 17 of 2011 s. 28)
+    - (2) In a licence issued or renewed under this Ordinance before the commencement date* of the Communications Authority Ordinance (Cap. 616), any condition providing for the payment of the licence fee to the Government is to be construed as a condition providing for the payment of the licence fee to the Authority. (Added 17 of 2011 s. 28)
+
+- Editorial Note:
+
+- * Commencement date: 1 April 2012.
 
   - 14. Procedural provisions for recovery of licence fees, etc.
 

@@ -34,172 +34,156 @@ DIRECTORS AND CONTROLLERS
 
 - shall contain the relevant particulars in Form C in this Schedule. (Replaced 44 of 1990 s. 9)
 
-- FORM A | [paragraph 2, 2nd Schedule]
+FORM A | [para. 2, 2nd Sch.]
 
-- PARTICULARS REQUIRED IN RESPECT OF INDIVIDUALS
+PARTICULARS REQUIRED IN RESPECT OF INDIVIDUALS WHO ARE DIRECTORS OR CONTROLLERS
 
-- WHO ARE DIRECTORS OR CONTROLLERS
+Name of Insurer *.
 
-- Name of Insurer *.
+The following are particulars of—
 
-  - The following are particulars of— **(a)+.
+**(a)+.
 
-  - **(b)++., of which +. . is a partner who became ** Director/Controller/Chief Executive/Managing Director on . . (date).
+**(b)++., of which +.
 
-  - 1. Family name | Other names
+. is a partner who became
 
-  - . | .
+**Director/Controller/Chief Executive/Managing Director on .
 
-  - Any other name(s) by which he has been known or is known .
+. (date).
 
-- 2. Private address.
+1. | Family name | Other names
 
-- 3. Date of birth. Place of birth (including town or city).
+Any other name(s) by which he has been known or is known
 
-- 4. Nationality, including a statement as to whether it was acquired by birth or naturalization.
+2. | Private address.
 
-- 5. Qualifications and experience, including those relating to insurance and allied matters.
+3. | Date of birth. Place of birth (including town or city).
 
-- 6. Present occupation or employment and occupations and employment during the last 10 years, including the name of the employer, the nature of the business, the position held and relevant dates.
+4. | Nationality, including a statement as to whether it was acquired by birth or naturalization.
 
-- 7. Has he at any time been convicted of any criminal offence (other than an offence committed when he was of or under the age of 16 years unless the same was committed within the last 10 years) by any court, including a military tribunal, in Hong Kong or elsewhere? If so, give full particulars of the court by which he was convicted, the offence and the penalty imposed and the date of the conviction.
+5. | Qualifications and experience, including those relating to insurance and allied matters.
 
-- 8. Has he in the last 10 years, in Hong Kong or elsewhere, been censured, disciplined or publicly criticized by any professional body to which he belongs or belonged or been dismissed from any office or employment or refused entry to any profession or occupation? If so, give full particulars.
+6. | Present occupation or employment and occupations and employment during the last 10 years, including the name of the employer, the nature of the business, the position held and relevant dates.
 
-- 9. Has he at any time been adjudicated bankrupt by a court in Hong Kong or elsewhere? If so, give full particulars.
+7. | Has he at any time been convicted of any criminal offence (other than an offence committed when he was of or under the age of 16 years unless the same was committed within the last 10 years) by any court, including a military tribunal, in Hong Kong or elsewhere? If so, give full particulars of the court by which he was convicted, the offence and the penalty imposed and the date of the conviction.
 
-- 10. Has he at any time in the last 10 years failed to satisfy any debt adjudged due and payable by him as a judgment-debtor under an order of a court in Hong Kong or elsewhere? If so, give full particulars.
+8. | Has he in the last 10 years, in Hong Kong or elsewhere, been censured, disciplined or publicly criticized by any professional body to which he belongs or belonged or been dismissed from any office or employment or refused entry to any profession or occupation? If so, give full particulars.
 
-- 11. Has he, in connection with the formation or management of any body corporate or insurer, been adjudged by a court in Hong Kong or elsewhere civilly liable for any fraud, misfeasance or other misconduct by him towards such a body or insurer or towards any members thereof? If so, give full particulars.
+9. | Has he at any time been adjudicated bankrupt by a court in Hong Kong or elsewhere? If so, give full particulars.
 
-- 12.
+10. | Has he at any time in the last 10 years failed to satisfy any debt adjudged due and payable by him as a judgment-debtor under an order of a court in Hong Kong or elsewhere? If so, give full particulars.
 
-- Has any body corporate or insurer with which he was associated as director or controller in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either whilst he was associated with it or within one year after he ceased to be associated with it? If so, give full particulars.
+11. | Has he, in connection with the formation or management of any body corporate or insurer, been adjudged by a court in Hong Kong or elsewhere civilly liable for any fraud, misfeasance or other misconduct by him towards such a body or insurer or towards any members thereof? If so, give full particulars.
 
-  - (Note: In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if he were a company, be a holding company of that body in accordance with section 2(7) of the Companies Ordinance (Cap. 32)).
+12. | Has any body corporate or insurer with which he was associated as director or controller in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either whilst he was associated with it or within one year after he ceased to be associated with it? If so, give full particulars. (Note: In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if he were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
-- 13. Of what bodies corporate or insurers—
+13. | Of what bodies corporate or insurers— (a) is he now a director or controller? (b) has he been a director or controller at any time during the last 10 years?
 
-  - (a) is he now a director or controller?
+14. | Has he any other occupation other than that disclosed at items 6 and 13 above. If so, give full details.
 
-  - (b) has he been a director or controller at any time during the last 10 years?
+15. | Give particulars of the circumstances (by reference to section 9(1) of the Insurance Companies Ordinance) by virtue of which he became controller.
 
-- 14. Has he any other occupation other than that disclosed at items 6 and 13 above. If so, give full details.
+16. | In carrying out his duties will he be acting on the directions or instructions of any other person? If so, give full particulars.
 
-- 15. Give particulars of the circumstances (by reference to section 9(1) of the Insurance Companies Ordinance) by virtue of which he became controller.
+I certify that the above information is complete and correct to the best of my knowledge and belief.
 
-- 16.
+Date .
 
-- In carrying out his duties will he be acting on the directions or instructions of any other person? If so, give full particulars.
+Signed. (Individual named in paragraph 1 above.)
 
-- I certify that the above information is complete and correct to the best of my knowledge and belief.
+I certify that +. has supplied the above information and that in respect of *.. he is—
 
-- Date .
+(a) ** Director/Controller/Chief Executive/Managing Director (b) A partner in ++. which is ** Director/Controller/Chief Executive/Managing Director
 
-- Signed.
+Date .
 
-- (Individual named in paragraph 1 above.) I certify that +. has supplied the above information and that in respect of *.
+Signed . (Director/Secretary ** of the Insurer.)
 
-- . he is—
+* Insert name of Insurer. + Insert name of individual to whom particulars relate. ++ Insert name of partnership. ** Delete as necessary.
 
-  - (a) ** Director/Controller/Chief Executive/Managing Director
+(Amended 28 of 2012 ss. 912 & 920)
 
-  - (b) A partner in ++. which is ** Director/Controller/Chief Executive/Managing Director
+FORM B | [para. 2, 2nd Sch.]
 
-- Date .
+PARTICULARS REQUIRED IN RESPECT OF BODIES CORPORATE WHICH ARE DIRECTORS OR CONTROLLERS
 
-- Signed .
+Name of Insurer *.
 
-- (Director/Secretary ** of the Insurer.) * Insert name of Insurer.
+The following are particulars of a body corporate which became director, controller, chief executive or managing director, or which is a partner in a partnership which became director, controller, chief executive or managing director of the above-named Insurer on .(date).
 
-- + Insert name of individual to whom particulars relate.
+1. | Name and address of body corporate and address of registered office (where different).
 
-- ++ Insert name of partnership.
+2. | Principal business activity.
 
-- ** Delete as necessary.
+3. | Address of principal place of business established in Hong Kong.
 
-- FORM B | [paragraph 2, 2nd Schedule]
+4. | Date and place of incorporation.
 
-- PARTICULARS REQUIRED IN RESPECT OF BODIES CORPORATE WHICH ARE
+5. | Registered number (if any).
 
-- DIRECTORS OR CONTROLLERS
+6. | Full name and residential address of every director and every controller. (Note: In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if he were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
-- Name of Insurer *. The following are particulars of a body corporate which became director, controller, chief executive or managing director, or which is a partner in a partnership which became director, controller, chief executive or managing director of the above-named Insurer on .(date).
+7. | Name and address of main bank.
 
-- 1. Name and address of body corporate and address of registered office (where different). 2 Principal business activity.
+8. | Accounts for the last 3 completed financial years and particulars of any reports, resolutions and other circulars issued to shareholders during the last 4 years.
 
-- 3. Address of principal place of business established in Hong Kong.
+9. | Name, place of incorporation and principal business activities of all subsidiary companies and of any holding company or ultimate holding company. (Note: Shares held by a nominee are to be treated as shares held by his principal).
 
-- 4. Date and place of incorporation.
++10. | In the case of a non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 622)— (a) name(s) and address(es) of its authorized representative(s) as defined by section 774 of the Companies Ordinance (Cap. 622); (b) date of the certificate of registration issued under Part XI of the Companies Ordinance (Cap. 32) as in force from time to time before the commencement date of section 2 of Schedule 9 to the Companies Ordinance (Cap. 622) or under section 777 of the Companies Ordinance (Cap. 622).
 
-- 5. Registered number (if any).
++11. | Particulars of circumstances (by reference to section 9(1) of the Insurance Companies Ordinance) by virtue of which the above-named body corporate became a controller.
 
-- 6.
+12. | Has any body corporate or insurer with which the above-named body corporate was associated as director or controller in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either whilst the above-named body corporate was associated with it or within one year after the above-named body corporate ceased to be associated with it? If so, give full particulars. (Note: In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if he were a company, be a holding company of that body in accordance with section 13 of the Companies Ordinance (Cap. 622)).
 
-- Full name and residential address of every director and every controller.
+I certify that the above information is complete and correct to the best of my knowledge and belief and I certify that this notice is served with the knowledge and consent of the above-named body corporate.
 
-  - (Note: In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if he were a company, be a holding company of that body in accordance with section 2(7) of the Companies Ordinance).
+Date .
 
-- 7. Name and address of main bank.
+Signed . (Director/Secretary + of body corporate.)
 
-- 8. Accounts for the last 3 completed financial years and particulars of any reports, resolutions and other circulars issued to shareholders during the last 4 years.
++ I certify that the above particulars have been supplied by the above- named body corporate and that in respect of *..—
 
-- 9. Name, place of incorporation and principal business activities of all subsidiary companies and of any holding company or ultimate holding company. (Note: Shares held by a nominee are to be treated as shares held by his principal).
++(a) the above-named body corporate is Director/Controller/Chief Executive/Managing Director +(b) ++ . of which the above-named body corporate is a partner is Controller
 
-- +10. In the case of a company to which Part XI of the Companies Ordinance applies—
+Date .
 
-  - (a) name(s) and address(es) of person(s) residing in Hong Kong authorized to accept on behalf of the company service of process and any notices;
+Signed . (Director/Secretary + of the Insurer.)
 
-  - (b) date of registration under Part XI of the Companies Ordinance.
+* Insert name of Insurer. + Delete as necessary. ++ Insert name of partnership.
 
-- +11. Particulars of circumstances (by reference to section 9(1) of the Insurance Companies Ordinance) by virtue of which the above-named body corporate became a controller.
+(Amended 28 of 2012 ss. 912 & 920)
 
-- 12.
+FORM C | [para. 3, 2nd Sch.]
 
-- Has any body corporate or insurer with which the above-named body corporate was associated as director or controller in the last 10 years, in Hong Kong or elsewhere, been compulsorily wound up or made any compromise or arrangement with its creditors or ceased trading in circumstances where its creditors did not receive or have not yet received full settlement of their claims, either whilst the above-named body corporate was associated with it or within one year after the above-named body corporate ceased to be associated with it? If so, give full particulars.
+PARTICULARS REQUIRED UNDER SECTION 14(2) IN
 
-  - (Note: In relation to a body corporate which is not an insurer, “controller” (控權人) is to be construed as a reference to a person who would, if he were a company, be a holding company of that body in accordance with section 2(7) of the Companies Ordinance). I certify that the above information is complete and correct to the best of my knowledge and belief and I certify that this notice is served with the knowledge and consent of the above-named body corporate. Date . Signed .
+RESPECT OF PERSON BECOMING CONTROLLER WITHIN
 
-  - (Director/Secretary + of body corporate.) + I certify that the above particulars have been supplied by the above-named body corporate and that in respect of *. .—
+THE MEANING OF SECTION 13A(1) OR 13B(1),
 
-    - +(a) the above-named body corporate is Director/Controller/Chief Executive/Managing Director
+OR CEASING TO BE DIRECTOR
 
-    - +(b) ++ . of which the above-named body corporate is a partner is Controller Date . Signed . (Director/Secretary + of the Insurer.) * Insert name of Insurer.
+OR CONTROLLER
 
-    - + Delete as necessary.
+1. | Name of insurer of which person has—
 
-    - ++ Insert name of partnership.
++(a) become a controller within the meaning of section +13A(1)/13B(1) of this Ordinance; +(b) ceased to be +director/controller.
 
-    - FORM C | [paragraph 3, 2nd Schedule]
+2. | Name of person.*
 
-    - PARTICULARS REQUIRED UNDER SECTION 14(2) IN
+3. | Date on which person—
 
-    - RESPECT OF PERSON BECOMING CONTROLLER WITHIN
++(a) became a controller within the meaning of section +13A(1)/13B(1) of this Ordinance; +(b) ceased to be +director/controller.
 
-    - THE MEANING OF SECTION 13A(1) OR 13B(1),
++4. | Confirmation that person has become, or, after becoming, is, a controller within the meaning of section +13A(1)/13B(1) of this Ordinance in accordance with that section and that there has been no change in any information furnished under that section in respect of that person.
 
-    - OR CEASING TO BE DIRECTOR
++5. | Reason for ceasing to be +director/controller.
 
-    - OR CONTROLLER
+Date .
 
-- 1. Name of insurer of which person has—
+Signed . (Director/Secretary+ of the Insurer)
 
-  - +(a) become a controller within the meaning of section +13A(1)/13B(1) of this Ordinance;
++ Delete as necessary. * Insert name of individual, body corporate or partnership.
 
-  - +(b) ceased to be +director/controller.
-
-- 2. Name of person.*
-
-- 3. Date on which person—
-
-  - +(a) became a controller within the meaning of section +13A(1)/13B(1) of this Ordinance;
-
-  - +(b) ceased to be +director/controller.
-
-- +4. Confirmation that person has become, or, after becoming, is, a controller within the meaning of section +13A(1)/13B(1) of this Ordinance in accordance with that section and that there has been no change in any information furnished under that section in respect of that person.
-
-- +5. Reason for ceasing to be +director/controller. Date . Signed . (Director/Secretary+ of the Insurer)
-
-- + Delete as necessary.
-
-- * Insert name of individual, body corporate or partnership. (Form C Replaced 44 of 1990 s. 9)
+(Form C Replaced 44 of 1990 s. 9)

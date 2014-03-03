@@ -100,7 +100,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
       - licensee (持牌人) means the holder of a licence;
 
-      - licensee’s register (持牌人登記冊), in relation to a particular licensee, means the register required to be kept under section 95 of the Companies Ordinance (Cap. 32);
+      - licensee’s register (持牌人登記冊), in relation to a particular licensee, means the register required to be kept under section 627 of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
       - principal officer (主要人員), in relation to a corporation, means—
 
@@ -196,7 +196,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
     - (9)
 
-      - In subsection (8), subsidiary (附屬公司), in relation to a corporation, has the same meaning which a subsidiary has in relation to a company under section 2(4) and (6) of the Companies Ordinance (Cap. 32).
+      - In subsection (8), subsidiary (附屬公司), in relation to a corporation, has the same meaning which a subsidiary has in relation to another body corporate under section 15 of the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920)
 
   - 2. Application Part 3 shall not apply to a domestic pay television programme service, domestic pay television programme service licence or domestic pay television programme service licensee.
 
@@ -448,7 +448,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
     - (1) A person is not obliged to comply with the requirements of a notice under section 9 if he is for the time being exempted by the Financial Secretary by notice in the Gazette from the operation of section 329 of the Securities and Futures Ordinance (Cap. 571). (Amended 5 of 2002 s. 407)
 
-    - (2) Where a corporation is required to give information under section 9 or 10, the corporation may take advantage of the benefit conferred by section 128(3) or 129(3) of the Companies Ordinance (Cap. 32), but where as a consequence of taking such advantage, any information is not given by the corporation, the fact of such omission shall be disclosed by the corporation.
+    - (2) (Repealed 28 of 2012 ss. 912 & 920)
 
     - (3) Subject to subsection (4), nothing in this Part shall be construed as requiring the disclosure of information by an authorized institution within the meaning of the Banking Ordinance (Cap. 155), or by a nominee of any such institution, acting as a banker or financial adviser in relation to the affairs of any of its customers.
 
@@ -510,7 +510,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
   - 19. Restrictions on percentage of voting control of unqualified voting controllers
 
-    - (1) Subject to subsection (2), notwithstanding anything contained in the memorandum or articles of association of a licensee or any provision of any law apart from this section, where any question or matter is to be determined by a poll at any general meeting of the licensee, the following shall apply—
+    - (1) Subject to subsection (2), notwithstanding anything contained in the articles of association of a licensee or any provision of any law apart from this section, where any question or matter is to be determined by a poll at any general meeting of the licensee, the following shall apply— (Amended 28 of 2012 ss. 912 & 920)
 
       - (a) no vote shall be cast on the poll, whether in person or by proxy, other than by or by proxy on behalf of any person who, at the time of the general meeting, is a registered shareholder of voting shares of the licensee in respect of which a document mentioned in section 22(1)(b) has, in accordance with any direction in that behalf issued by the Authority under section 30, been completed and returned to the licensee; (Amended 17 of 2011 s. 28)
 
@@ -518,13 +518,13 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
       - (c) the formula for the purposes of paragraph (b) is—
 
-      - 1 | x | (49 x A) | x 100
+      - 1 B x (49×A) 51 x 100
 
-      - B | 51
+      - where | A = | the percentage of the total votes cast on the poll, the voting controllers of which are qualified voting controllers;
 
-      - where A = the percentage of the total votes cast on the poll, the voting controllers of which are qualified voting controllers; B = the percentage of the total votes cast on the poll, the voting controllers of which are unqualified voting controllers.
+      - B = | the percentage of the total votes cast on the poll, the voting controllers of which are unqualified voting controllers.
 
-    - (2) Notwithstanding anything contained in the memorandum or articles of association of the licensee, this section shall not apply—
+    - (2) Notwithstanding anything contained in the articles of association of the licensee, this section shall not apply— (Amended 28 of 2012 ss. 912 & 920)
 
       - (a) where the question or matter which is to be determined by a poll at any general meeting of the licensee is the creation of different classes of shares in the licensee; or
 
@@ -544,7 +544,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
     - 2% or more but less than 6%, or 6% or more but not more than 10%, or more than 10%, in the aggregate, of the total voting control of a licensee.
 
-    - (2) If an unqualified voting controller holds more than 10%, in the aggregate, of the total voting control of a licensee in contravention of subsection (1)(a), notwithstanding anything contained in the memorandum or articles of association of the licensee or any provision of the laws of Hong Kong apart from this section, he shall not exercise or cause or permit to be exercised, in relation to any question or matter arising at a general meeting of the licensee, voting rights exceeding, in the aggregate, 10% of the total voting control of the licensee.
+    - (2) If an unqualified voting controller holds more than 10%, in the aggregate, of the total voting control of a licensee in contravention of subsection (1)(a), notwithstanding anything contained in the articles of association of the licensee or any provision of the laws of Hong Kong apart from this section, he shall not exercise or cause or permit to be exercised, in relation to any question or matter arising at a general meeting of the licensee, voting rights exceeding, in the aggregate, 10% of the total voting control of the licensee. (Amended 28 of 2012 ss. 912 & 920)
 
     - (3) The Authority may, in respect of any unqualified voting controller who is in contravention of subsection (1), by notice in writing served on him, give such directions as appear to it to be required to effect a cesser of the contravention. (Amended 17 of 2011 s. 28)
 
@@ -582,11 +582,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
     - (4) Where 2 or more persons act together to hold or acquire the voting control of the voting shares of a licensee, then, for the purposes of this Part, each of those persons shall be regarded in relation to the voting shares of the licensee as being an associate of the other and of any other person acting on the directions of any of them to hold or to acquire voting control over those voting shares.
 
-  - 22.
-
-  - Duty of licensee to notify Authority in relation to general meetings, etc.
-
-  - (Amended 17 of 2011 s. 28)
+  - 22. Duty of licensee to notify Authority in relation to general meetings, etc. (Amended 17 of 2011 s. 28)
 
     - (1) For the purposes of this Part, a licensee shall, in relation to any general meeting and in accordance with any relevant directions given by the Authority under section 30— (Amended 17 of 2011 s. 28)
 
@@ -758,7 +754,7 @@ Disqualification for Holding Domestic Free or Pay Television Programme Service L
 
     - (1) A person is not obliged to comply with the requirements of a notice under section 23 if he is for the time being exempted by the Financial Secretary by notice in the Gazette from the operation of section 329 of the Securities and Futures Ordinance (Cap. 571). (Amended 5 of 2002 s. 407)
 
-    - (2) Where a corporation is required to give information under section 23 or 24, the corporation may take advantage of the benefit conferred by section 128(3) or 129(3) of the Companies Ordinance (Cap. 32), but where as a consequence of taking such advantage, any information is not given, the fact of such omission shall be disclosed by the corporation.
+    - (2) (Repealed 28 of 2012 ss. 912 & 920)
 
     - (3) Subject to subsection (4), nothing in this Part shall be construed as requiring the disclosure of information by an authorized institution within the meaning of the Banking Ordinance (Cap. 155), or by a nominee of any such institution, acting as a banker or financial adviser in relation to the affairs of any of its customers.
 

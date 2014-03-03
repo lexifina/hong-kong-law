@@ -72,7 +72,7 @@
 
     - (b) where this Schedule applies under section 40CB—
 
-      - (i) a copy of the certificate of incorporation issued to it under the Companies Ordinance (Cap. 32);
+      - (i) a copy of the certificate of incorporation issued to it under the Companies Ordinance (Cap. 622) or under the Companies Ordinance (Cap. 32) as in force at the time of the issue; (Amended 28 of 2012 ss. 912 & 920)
 
       - (ii) a copy of the approval granted in respect of the school under section 40CB; and
 

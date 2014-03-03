@@ -4,13 +4,11 @@
 
 FORM D.O. 3
 
-COMPANIES ORDINANCE (Cap. 32) Particulars of the variation or cessation
-
-of a disqualification order Pursuant to section 168R
+COMPANIES (WINDING UP AND MISCELLANEOUS PROVISIONS) ORDINANCE (Cap. 32) Particulars of the variation or cessation of a disqualification order Pursuant to section 168R
 
 To the Registrar of Companies
 
-I furnish the following particulars of the action taken by a court whereby a disqualification order made by this court under the Companies Ordinance, the repealed Securities (Insider Dealing) Ordinance (Cap. 395) or the Securities and Futures Ordinance (Cap. 571) was varied or ceased to be in force—
+I furnish the following particulars of the action taken by a court whereby a disqualification order made by this court under the Companies (Winding Up and Miscellaneous Provisions) Ordinance, the repealed Securities (Insider Dealing) Ordinance (Cap. 395) or the Securities and Futures Ordinance (Cap. 571) was varied or ceased to be in force—
 
 - (1) Date on which the disqualification order was made by this court—
 
@@ -20,64 +18,52 @@ I furnish the following particulars of the action taken by a court whereby a dis
 
   - (a) if an individual
 
-  - Forename (Note 2) | * ( | )
+  - Forename (Note 2) _____________________* ()
 
-  - Surname (Note 3) | * ( | )
+  - Surname (Note 3) ______________________* ()
 
   - Hong Kong identity card No., if any (Note 4)
 
-  - Number and issuing country
+  - ____________________________
 
-  - of any passport (Note 5)
+  - Number and issuing country of any passport (Note 5) | ____________________________
+
+  - ____________________________
 
   - (b) if a body corporate
 
-  - Corporate name
+  - Corporate name | ___________________________________
 
-  - Registered No.
+  - ___________________________________
+
+  - Registered No. | ___________________________________
 
 - (3) Name of court by which action was taken whereby the disqualification order was varied or ceased to be in force—
 
-- (4) Result of such action+—
+- (4) Result of such action†—
 
 - (a) order ceased to be in force
 
 - (b) order varied
 
-if (b), state period of disqualification now specified in the order (to run from the date on which the order was originally made)
+- if (b), state period of disqualification now specified in the order (to run from the date on which the order was originally made)
 
-- (5)
-
-- Date on which the new order was made—
+- (5) Date on which the new order was made—
 
 - Day | Month | Year
 
-- Signed | Date
+- Signed _________________________________ Date ________________
 
-- Name | Position
+- Name _______________________________ Position ________________
 
-- Court++
+- Court†† _____________________________________________________
 
 - * Note 1
 
-- + Please tick appropriate box
+- † Please tick appropriate box
 
-- ++ Please state full name
+- †† Please state full name
 
-- Notes 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included.
+Notes | 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included. 2. “Forename” includes a Christian or given name. 3. “Surname” in the case of a person usually known by a title different from his surname, means that title. 4. “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”. 5. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
 
-  - 2.
-
-    - “Forename” includes a Christian or given name.
-
-  - 3.
-
-    - “Surname” in the case of a person usually known by a title different from his surname, means that title.
-
-  - 4.
-
-    - “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”.
-
-  - 5. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
-
-(46 of 2000 s. 40; 5 of 2002 s. 407)
+(46 of 2000 s. 40; 5 of 2002 s. 407; 28 of 2012 ss. 912 & 920)

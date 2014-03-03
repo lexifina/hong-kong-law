@@ -298,21 +298,21 @@ Regulated Activities
 
   - (vi) enters into a market contract;
 
-  - (vii) issues a prospectus which complies with, or is exempt from compliance with, Part II of the Companies Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong, Part XII of that Ordinance;
+  - (vii) issues a prospectus which complies with, or is exempt from compliance with, Part II of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong, Part XII of that Ordinance; (Amended 28 of 2012 ss. 912 & 920)
 
 - (viii)issues a document relating to the securities of a corporation incorporated in Hong Kong which is not a company, being a document which—
 
-  - (A) would, if the corporation were a company, be a prospectus to which section 38 of the Companies Ordinance (Cap. 32) applies, or would apply if not excluded by section 38(5)(b) or 38A of that Ordinance; and
+  - (A) would, if the corporation were a company, be a prospectus to which section 38 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) applies, or would apply if not excluded by section 38(5)(b) or 38A of that Ordinance; and (Amended 28 of 2012 ss. 912 & 920)
 
     - (B) contains all the matters which, under Part XII of that Ordinance, would be required to contain if the corporation were a corporation incorporated outside Hong Kong and the document were a prospectus issued by the corporation;
 
   - (ix) issues a form of application for the shares or debentures of a corporation, together with—
 
-    - (A) a prospectus which complies with, or is exempt from compliance with, Part II of the Companies Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong, Part XII of that Ordinance; or
+    - (A) a prospectus which complies with, or is exempt from compliance with, Part II of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or, in the case of a corporation incorporated outside Hong Kong, Part XII of that Ordinance; or (Amended 28 of 2012 ss. 912 & 920)
 
     - (B) in the case of a corporation incorporated in Hong Kong which is not a company, a document which contains the matters specified in paragraph (viii)(B);
 
-  - (x) issues a prospectus the registration of which has been authorized by the Commission under section 342C of the Companies Ordinance (Cap. 32) in relation to a collective investment scheme that is a corporation—
+  - (x) issues a prospectus the registration of which has been authorized by the Commission under section 342C of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) in relation to a collective investment scheme that is a corporation— (Amended 28 of 2012 ss. 912 & 920)
 
     - (A) which is or holds itself out as being engaged primarily in the business of investing, reinvesting or trading in any property (including securities and futures contracts); and
 
@@ -494,7 +494,7 @@ Regulated Activities
 
   - (v) by an authorized financial institution for the purpose of facilitating acquisitions or holdings of securities by the institution’s clients;
 
-  - (vi) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities; or
+  - (vi) by an individual to a company in which he holds 10% or more of its issued shares to facilitate acquisitions or holdings of securities; or (Amended 28 of 2012 ss. 912 & 920)
 
   - (vii)
 

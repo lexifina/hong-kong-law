@@ -90,7 +90,7 @@ Specified Transactions
 
     - (e) interests, rights or property, whether in the form of an instrument or otherwise, commonly known as securities,
 
-  - but does not include shares or debentures of, or rights, options or interests (whether described as units or otherwise) in, or in respect of, shares or debentures of, a company that is a private company within the meaning of section 29 of the Companies Ordinance (Cap. 32);
+  - but does not include shares or debentures of, or rights, options or interests (whether described as units or otherwise) in, or in respect of, shares or debentures of, a company that is a private company within the meaning of section 11 of the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
   - share (股份) means any share in the share capital of a corporation, and, except where a distinction between stock and shares is express or implied, includes stock.
 

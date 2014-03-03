@@ -60,13 +60,13 @@ Minimum Criteria for Authorization
 
 - 6. The Monetary Authority is satisfied that the company presently has, and will if it is authorized continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing—
 
-  - *(a) in the case of a company seeking authorization to carry on banking business in Hong Kong, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $300,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001; L.N. 63 of 2002)
+  - *(a) in the case of a company seeking authorization to carry on banking business in Hong Kong, the aggregate amount of its paid-up share capital and the balance of its share premium account (if any) is not less than $300,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001; L.N. 63 of 2002)
 
-  - (b) in the case of a company seeking authorization to carry on a deposit-taking business as a deposit-taking company, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $25,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
+  - (b) in the case of a company seeking authorization to carry on a deposit-taking business as a deposit-taking company, the aggregate amount of its paid-up share capital and the balance of its share premium account (if any) is not less than $25,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
 
-  - (c) in the case of a company seeking authorization to carry on a deposit-taking business as a restricted licence bank, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $100,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
+  - (c) in the case of a company seeking authorization to carry on a deposit-taking business as a restricted licence bank, the aggregate amount of its paid-up share capital and the balance of its share premium account (if any) is not less than $100,000,000 or an equivalent amount in any other approved currency; (Amended L.N. 130 of 2001)
 
-  - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization comply with the rules made under section 97C(1) applicable to it. (Amended L.N. 431 of 1997; 19 of 2005 s. 7; 3 of 2012 s. 18)
+  - (d) in the case of a company incorporated in Hong Kong, the company, if it is authorized, will on and after authorization comply with the rules made under section 97C(1) applicable to it. (Amended L.N. 431 of 1997; 19 of 2005 s. 7; 3 of 2012 s. 18; 28 of 2012 ss. 912 & 920)
 
   - (e) (Repealed 19 of 2005 s. 7)
 
@@ -92,7 +92,7 @@ Minimum Criteria for Authorization
 
     - (ii) any supplementary information to those audited annual accounts;
 
-    - (iii) the report of the directors under section 129D(1) of the Companies Ordinance (Cap. 32); and
+    - (iii) the report of the directors under section 388 of the Companies Ordinance (Cap. 622); and (Amended 28 of 2012 ss. 912 & 920)
 
     - (iv) the institution’s cash flow statement, together with any notes thereon, where the statement does not already form part of those audited annual accounts.
 

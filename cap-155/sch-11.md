@@ -1,4 +1,4 @@
-# SCHEDULE 11
+# ELEVENTH SCHEDULE
 
 [ss. 118C(2) & (7) & 135(3)]
 
@@ -48,7 +48,7 @@ MINIMUM CRITERIA FOR APPROVAL AS MONEY BROKER
 
 - is a fit and proper person to hold the particular position which he holds or is to hold.
 
-- 5. The Monetary Authority is satisfied that the company presently has, and will if it is approved continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing, the aggregate amount of its paid-up share capital and the balance of its share premium account is not less than $5,000,000 or an equivalent amount in any other approved currency. (Amended L.N. 137 of 2001)
+- 5. The Monetary Authority is satisfied that the company presently has, and will if it is approved continue to have, adequate financial resources (whether actual or contingent) for the nature and scale of its operations and, without prejudice to the generality of the foregoing, the aggregate amount of its paid-up share capital and the balance of its share premium account (if any) is not less than $5,000,000 or an equivalent amount in any other approved currency. (Amended L.N. 137 of 2001; 28 of 2012 ss. 912 & 920)
 
 - 6. The Monetary Authority is satisfied that the company presently has, and will if it is approved continue to have, adequate accounting systems and adequate systems of control.
 

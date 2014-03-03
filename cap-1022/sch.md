@@ -1,10 +1,14 @@
 # SCHEDULE
 
-[ss. 3 & 6]
+[s. 6] (Amended 28 of 2012 ss. 912 & 920)
 
-MEMORANDUM OF ASSOCIATION OF THE HONG KONG AND CHINA GAS COMPANY LIMITED (香港中華煤氣有限公司)
+MEMORANDUM OF ASSOCIATION
 
-(Adaptation amendments retroactively made - see 61 of 2000 s. 3)
+OF
+
+THE HONG KONG AND CHINA GAS COMPANY LIMITED
+
+(香港中華煤氣有限公司)
 
 - 1. The name of the Company is “The Hong Kong and China Gas Company Limited (香港中華煤氣有限公司) “.
 

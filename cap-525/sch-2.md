@@ -4,6 +4,8 @@
 
 Enforcement, etc. of External Confiscation Orders
 
+(Format changes—E.R. 1 of 2013)
+
 - 1. Interpretation
 
   - (1) In this Schedule, unless the context otherwise requires—
@@ -30,25 +32,25 @@ Enforcement, etc. of External Confiscation Orders
 
   - Expression | Relevant provision
 
-  - Charging order (押記令) . | Section 8(2)
+  - Charging order (押記令) | Section 8(2)
 
-  - Defendant (被告人) . | Section 3
+  - Defendant (被告人) | Section 3
 
-  - Gift caught by this Schedule (受本附表囿制的饋贈) . | Section 5(6)
+  - Gift caught by this Schedule (受本附表囿制的饋贈) | Section 5(6)
 
-  - Making a gift (作出饋贈) . | Section 5(7)
+  - Making a gift (作出饋贈) | Section 5(7)
 
-  - Realisable property (可變現財產) . | Section 5(1)
+  - Realisable property (可變現財產) | Section 5(1)
 
-  - Restraint order (限制令) . | Section 7(1)
+  - Restraint order (限制令) | Section 7(1)
 
-  - Value of gift, payment or reward (饋贈、付款或酬賞的價值) . | Section 5(4)
+  - Value of gift, payment or reward (饋贈、付款或酬賞的價值) | Section 5(4)
 
-  - Value of property (財產的價值) . | Section 5(3)
+  - Value of property (財產的價值) | Section 5(3)
 
   - (3) This Schedule applies to property whether it is situated in Hong Kong or elsewhere.
 
-  - (4) References in this Schedule to property received in connection with an external serious offence include a reference to property received both in that connection and in some other connection, and whether received before or after the commencement of this Schedule and whether received in connection with an external serious offence committed by the recipient or some other person.
+  - (4) References in this Schedule to property received in connection with an external serious offence include a reference to property received both in that connection and in some other connection, and whether received before or after the commencement* of this Schedule and whether received in connection with an external serious offence committed by the recipient or some other person.
 
   - (5) Subsections (6) to (11) shall have effect for the interpretation of this Schedule.
 
@@ -67,6 +69,10 @@ Enforcement, etc. of External Confiscation Orders
     - (b) on the satisfaction of an external confiscation order made in the proceedings (whether by the recovery of all property liable to be recovered, or the payment of any amount due, or otherwise).
 
   - (11) An order is subject to appeal until (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of an appeal on which the order could be varied or set aside.
+
+Editorial Note:
+
+* Commencement date: 26 September 1997.
 
 - 2. Application This Schedule shall not apply to an external confiscation order except an external confiscation order—
 
@@ -140,7 +146,7 @@ Enforcement, etc. of External Confiscation Orders
 
   - the value referred to in subsection (4)(b) is the value to him at the material time of the property mentioned in paragraph (a) or, as the case may be, of the property mentioned in paragraph (b) so far as it so represents the property which he received, but disregarding in either case any charging order.
 
-  - (6) A gift (including a gift made before the commencement of this Schedule) is caught by this Schedule if—
+  - (6) A gift (including a gift made before the commencement* of this Schedule) is caught by this Schedule if—
 
     - (a) it was made by the defendant at any time since the beginning of the period of 6 years ending when the proceedings were instituted against him; or
 
@@ -178,6 +184,10 @@ Enforcement, etc. of External Confiscation Orders
 
       - (C) family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in subparagraph (A) or trusts of the kind referred to in subparagraph (B), and other persons.
 
+Editorial Note:
+
+* Commencement date: 26 September 1997.
+
 - 6. Cases in which restraint orders and charging orders may be made
 
   - (1) The powers conferred on the Court of First Instance by sections 7(1) and 8(1) are exercisable where—
@@ -210,7 +220,7 @@ Enforcement, etc. of External Confiscation Orders
 
     - (b) may be made on an ex parte application to a judge in chambers; and
 
-    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg. A), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct.
+    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg. A), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct. (Amended E.R. 1 of 2013)
 
   - (5) A restraint order—
 
@@ -262,7 +272,7 @@ Enforcement, etc. of External Confiscation Orders
 
     - (b) on summary conviction to a fine of $250,000 and to imprisonment for 2 years. (Added 26 of 2002 s. 5)
 
-- (Amended 25 of 1998 s. 2; E.R. 1 of 2013)
+- (Amended 25 of 1998 s. 2)
 
 - 8. Charging orders in respect of land, securities, etc.
 
@@ -280,7 +290,7 @@ Enforcement, etc. of External Confiscation Orders
 
     - (b) may be made on an ex parte application to a judge in chambers;
 
-    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg. A), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct; and
+    - (c) may, notwithstanding anything in Order 11 of the Rules of the High Court (Cap. 4 sub. leg. A), provide for service on, or the provision of notice to, persons affected by the order in such manner as the Court of First Instance may direct; and (Amended E.R. 1 of 2013)
 
     - (d) may be made subject to such conditions as the Court of First Instance thinks fit and, without prejudice to the generality of this paragraph, such conditions as it thinks fit as to the time when the charge is to become effective.
 
@@ -326,7 +336,7 @@ Enforcement, etc. of External Confiscation Orders
 
     - (b) on summary conviction to a fine of $250,000 and to imprisonment for 2 years. (Added 26 of 2002 s. 5)
 
-- (Amended 25 of 1998 s. 2; E.R. 1 of 2013)
+- (Amended 25 of 1998 s. 2)
 
 - 9. Realisation of property
 
@@ -402,11 +412,15 @@ Enforcement, etc. of External Confiscation Orders
 
   - (10) In this section—
 
-    - relevant day (有關日期) means the day on which section 14 of Schedule 3 comes into operation;
+    - *relevant day (有關日期) means the day on which section 14 of Schedule 3 comes into operation;
 
     - relevant Order (有關命令) means the Drug Trafficking (Recovery of Proceeds) (Designated Countries and Territories) Order (Cap. 405 sub. leg. A) as in force immediately before the relevant day;
 
     - relevant section (有關條文) means section 13 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) as applied under paragraph 3(2) of the relevant Order.
+
+Editorial Note:
+
+* Relevant day: 26 September 1997.
 
 - 11. Exercise of powers by Court of First Instance or receiver
 
@@ -442,9 +456,9 @@ Enforcement, etc. of External Confiscation Orders
 
   - (4) Subsection (2) does not affect the enforcement of a charging order—
 
-  - (a) made before the order adjudging the person bankrupt; or
+    - (a) made before the order adjudging the person bankrupt; or
 
-  - (b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
+    - (b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
 
   - (5) Where, in the case of a debtor, an interim trustee stands appointed under section 13 of the Bankruptcy Ordinance (Cap. 6) and any property of the debtor is subject to a restraint order, the powers conferred on the interim trustee by virtue of that Ordinance do not apply to property for the time being subject to the restraint order. (Amended 18 of 2005 s. 48)
 
@@ -468,7 +482,11 @@ Enforcement, etc. of External Confiscation Orders
 
   - (8)
 
-    - In this section, relevant day (有關日期) means the day on which section 87 of the Bankruptcy (Amendment) Ordinance 1996 (76 of 1996) comes into operation.
+    - In this section, *relevant day (有關日期) means the day on which section 87 of the Bankruptcy (Amendment) Ordinance 1996 (76 of 1996) comes into operation.
+
+Editorial Note:
+
+* Relevant day: 1 April 1998.
 
 - 13. Winding up of company holding realisable property
 
@@ -484,7 +502,7 @@ Enforcement, etc. of External Confiscation Orders
 
     - (b) so as to prevent the payment out of any property of expenses (including the remuneration of the liquidator or any provisional liquidator) properly incurred in the winding up in respect of the property.
 
-  - (3) Nothing in the Companies Ordinance (Cap. 32) shall be taken as restricting, or enabling the restriction of, the exercise of the powers conferred on the Court of First Instance by sections 7 to 10.
+  - (3) Nothing in the Companies Ordinance (Cap. 622) or the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) shall be taken as restricting, or enabling the restriction of, the exercise of the powers conferred on the Court of First Instance by sections 7 to 10. (Amended 28 of 2012 ss. 912 & 920)
 
   - (4) Subsection (3) shall apply to any proceedings relating to an appeal, further appeal or review against any exercise of the powers referred to in that subsection as if the court hearing the appeal, further appeal or review, as the case may be, were the Court of First Instance.
 
@@ -492,7 +510,7 @@ Enforcement, etc. of External Confiscation Orders
 
   - (6) In this section—
 
-    - company (公司) means any company which may be wound up under the Companies Ordinance (Cap. 32);
+    - company (公司) means any company which may be wound up under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32); (Amended 28 of 2012 ss. 912 & 920)
 
     - the relevant time (有關時間) means—
 
@@ -506,7 +524,7 @@ Enforcement, etc. of External Confiscation Orders
 
 - 14. Insolvency officers dealing with property subject to restraint order
 
-  - (1) Without prejudice to the generality of any provision contained in the Bankruptcy Ordinance (Cap. 6), the Companies Ordinance (Cap. 32) or any other Ordinance, where—
+  - (1) Without prejudice to the generality of any provision contained in the Bankruptcy Ordinance (Cap. 6), the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or any other Ordinance, where— (Amended 28 of 2012 ss. 912 & 920)
 
     - (a) any insolvency officer seizes or disposes of any property in relation to which his functions are not exercisable because it is for the time being subject to a restraint order; and
 
@@ -532,7 +550,7 @@ Enforcement, etc. of External Confiscation Orders
 
         - (i) a trustee (including provisional trustee), interim trustee or special manager appointed under the Bankruptcy Ordinance (Cap. 6); or (Amended 18 of 2005 s. 48)
 
-        - (ii) a liquidator, provisional liquidator or special manager appointed under the Companies Ordinance (Cap. 32).
+        - (ii) a liquidator, provisional liquidator or special manager appointed under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (Amended 28 of 2012 ss. 912 & 920)
 
 - 15. Receivers: supplementary provisions
 
@@ -545,5 +563,3 @@ Enforcement, etc. of External Confiscation Orders
   - he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
 
   - (2) Any amount due in respect of the remuneration and expenses of a receiver so appointed shall, if no sum is available to be applied in payment of it under section 10(4), be paid by the person on whose application the receiver was appointed.
-
-- (Format changes—E.R. 1 of 2013)

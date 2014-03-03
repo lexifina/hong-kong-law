@@ -1,269 +1,305 @@
-# Schedule 1
+# FIRST SCHEDULE
 
-(Adaptation amendments retroactively made - see 29 of 1998 s. 105; 57 of 1999 s. 3; 2 of 2012 s. 3)
+Form I | [reg. 3]
 
-FORM I | [regulation 3]
-
-MINING (GENERAL) REGULATIONS Application for a Prospecting Licence
+Mining (General) Regulations Application for a Prospecting Licence
 
 To the Superintendent of Mines.
 
-Number of application .
+Number of application
 
 (To be filled in by Mines Department).
 
-1. Name of applicant.
+1. | Name of applicant.
 
-2. Nationality of applicant.
+2. | Nationality of applicant.
 
-3. Number of identity card.
+3. | Number of identity card.
 
-4. Address at which notices may be served.
+4. | Address at which notices may be served.
 
-5. Whether the applicant intends to prospect on his own account or as an employee of any other person.
+5. | Whether the applicant intends to prospect on his own account or as an employee of any other person.
 
-6. (1) If he is in the employ of any other person, state the name, nationality and address of such person. (2) If the application is made by an employee evidence of the employer’s consent to the application.
+6. | (1) | If he is in the employ of any other person, state the name, nationality and address of such person.
 
-7. Whether the applicant has previously made an application for a prospecting licence, and, if so, whether any such application was refused.
+(2) | If the application is made by an employee evidence of the employer’s consent to the application.
 
-8. A plan of the area he intends to prospect.
+7. | Whether the applicant has previously made an application for a prospecting licence, and, if so, whether any such application was refused.
 
-9. The minerals he intends to prospect for.
+8. | A plan of the area he intends to prospect.
+
+9. | The minerals he intends to prospect for.
 
 Dated the day of 19 .
 
-.
-
 (Signature of Applicant).
 
-FORM II | [regulation 3]
+_
 
-MINING (GENERAL) REGULATIONS Application for a Mining Licence
+Form II | [reg. 3]
+
+Mining (General) Regulations Application for a Mining Licence
 
 To the Superintendent of Mines.
 
-Number of application .
+Number of application
 
 (To be filled in by Mines Department).
 
-1. Name of applicant.
+1. | Name of applicant.
 
-2. Nationality of applicant.
+2. | Nationality of applicant.
 
-3. Number of identity card.
+3. | Number of identity card.
 
-4. Address at which notices may be served.
+4. | Address at which notices may be served.
 
-5. Number of applicant’s prospecting licence (if any).
+5. | Number of applicant’s prospecting licence (if any).
 
-6. Name of the company, firm or person (if any) which the applicant represents.
+6. | Name of the company, firm or person (if any) which the applicant represents.
 
-7. Position or appointment held by applicant in relation to, or under, such company, firm or person.
+7. | Position or appointment held by applicant in relation to, or under, such company, firm or person.
 
-8. Whether the area included is within the area of a prospecting licence.
+8. | Whether the area included is within the area of a prospecting licence.
 
-9. Whether the area has been prospected by the applicant and if so, for what period and with what results.
+9. | Whether the area has been prospected by the applicant and if so, for what period and with what results.
 
-10. The mineral or minerals to be mined.
+10. | The mineral or minerals to be mined.
 
-11. Plan of the area covered by this application for a mining licence.
+11. | Plan of the area covered by this application for a mining licence.
 
-12. In the case of a company, a copy of the memorandum and articles of association must be lodged with the Superintendent of Mines, giving the following details— (a) Name of company (if any). (b) Name, nationality and description of members or directors (if any). (c) Amount of nominal capital subscribed and cash working capital. (d) Address at which notices may be served.
+12. | In the case of a company, a copy of the memorandum of association (if any) and articles of association must be lodged with the Superintendent of Mines, giving the following details—
+
+(a) | Name of company (if any).
+
+(b) | Name, nationality and description of members or directors (if any).
+
+(c) | Amount of issued capital and cash working capital.
+
+(d) | Address at which notices may be served.
 
 Dated the day of 19 .
 
-.
+(Signature of Applicant). (28 of 2012 ss. 912 & 920)
 
-(Signature of Applicant).
+_
 
-FORM III | [regulation 3]
+Form III | [reg. 3]
 
-MINING (GENERAL) REGULATIONS Application for a Mining Lease
+Mining (General) Regulations Application for a Mining Lease
 
 To the Superintendent of Mines.
 
-Number of application .
+Number of application
 
 (To be filled in by Mines Department).
 
-1. Name of applicant.
+1. | Name of applicant.
 
-2. Nationality of applicant.
+2. | Nationality of applicant.
 
-3. Number of identity card.
+3. | Number of identity card.
 
-4. Address at which notices may be served.
+4. | Address at which notices may be served.
 
-5. The number of applicant’s prospecting licence or mining licence (if any).
+5. | The number of applicant’s prospecting licence or mining licence (if any).
 
-6. Name of company, firm or person (if any) which the applicant represents.
+6. | Name of company, firm or person (if any) which the applicant represents.
 
-7. Position or appointment held by applicant in relation to, or under, such company, firm or person.
+7. | Position or appointment held by applicant in relation to, or under, such company, firm or person.
 
-8. Plan and description of area.
+8. | Plan and description of area.
 
-9. The mineral or minerals to be mined.
+9. | The mineral or minerals to be mined.
 
-10. Length of term desired.
+10. | Length of term desired.
 
 Dated the day of 19 .
 
-.
-
 (Signature of Applicant).
 
-FORM IV | [regulation 10]
+_
 
-MINING (GENERAL) REGULATIONS Prospecting Licence
+Form IV | [reg. 10]
 
-Serial No. .
+Mining (General) Regulations Prospecting Licence
 
-LICENCE is hereby granted to (1).
+Serial No.
 
-(hereinafter called the licensee(s)) to prospect for (2).
+LICENCE is hereby granted to (1)
 
-within the following area (hereinafter called the prospecting area) (3).,
+(hereinafter called the licensee(s)) to prospect for (2)
+
+within the following area (hereinafter called the prospecting area) (3)
 
 . as delineated approximately on the plan attached hereto and edged red.
 
-- 2. This licence shall remain in force for six months from the date hereof, unless previously cancelled under the provisions of the Ordinance, but unless so cancelled may be renewed by the Commissioner for further terms of six months each:
+2. This licence shall remain in force for six months from the date hereof, unless previously cancelled under the provisions of the Ordinance, but unless so cancelled may be renewed by the Commissioner for further terms of six months each:
 
-  - Provided that the total period of the original licence together with all renewals thereof shall not exceed five years.
+Provided that the total period of the original licence together with all renewals thereof shall not exceed five years.
 
-- 3. This licence is subject to the fees prescribed by regulations for the time being in force under the Mining Ordinance.
+3. This licence is subject to the fees prescribed by regulations for the time being in force under the Mining Ordinance.
 
-- 4. This licence entitles the licensee(s) to enter upon and prospect on—
+4. This licence entitles the licensee(s) to enter upon and prospect on—
 
-- (a) any Government land(4) within the prospecting area; and
+(a) | any Government land(4) within the prospecting area; and
 
-- (b) with the prior consent in writing of the owner and any lawful occupier, any private land(5) within the said area.
+(b) | with the prior consent in writing of the owner and any lawful occupier, any private land(5) within the said area.
 
-- 5. This licence is not transferable and any right or interest conferred by this licence is not assignable except with the prior consent in writing of the Commissioner of Mines.
+5. This licence is not transferable and any right or interest conferred by this licence is not assignable except with the prior consent in writing of the Commissioner of Mines.
 
-- 6.
+6. This licence is subject to the provisions of the Mining Ordinance and of any regulations made thereunder for the time being in force, and further is subject to the following terms and conditions—
 
-- This licence is subject to the provisions of the Mining Ordinance and of any regulations made thereunder for the time being in force, and further is subject to the following terms and conditions—
+Dated the day of 19 .
 
-- Dated the day of 19 .
+Commissioner of Mines.
 
-- .
+Notes:
 
-- Commissioner of Mines.
+(1) | Insert name, address and description of licensee(s).
 
-- Notes:
+(2) | Insert class of mineral.
 
-  - (1) Insert name, address and description of licensee(s).
+(3) | Insert description of boundaries of area.
 
-  - (2) Insert class of mineral.
+(4) | “Government land” (政府土地) is defined by section 2 of the Ordinance to mean all land other than private land.
 
-  - (3) Insert description of boundaries of area.
+(5) | “Private land” (私人土地) is defined by section 2 of the Ordinance to mean land held under lease, agreement for lease, tenancy agreement, licence, permit, deed of appropriation, or other valid title from the Government, and also land occupied by the Hong Kong Garrison under lease, licence, permit, requisition or other permanent or temporary title.
 
-  - (4)
+(29 of 1998 s. 105; 2 of 2012 s. 3)
 
-    - “Government land” (政府土地) is defined by section 2 of the Ordinance to mean all land other than private land.
+_
 
-  - (5)
+Form V | [reg. 17]
 
-    - “Private land” (私人土地) is defined by section 2 of the Ordinance to mean land held under lease, agreement for lease, tenancy agreement, licence, permit, deed of appropriation, or other valid title from the Government, and also land occupied by the Hong Kong Garrison under lease, licence, permit, requisition or other permanent or temporary title.
+Mining (General) Regulations Mining Licence
 
-- (29 of 1998 s. 105; 2 of 2012 s. 3)
+Serial No.
 
-FORM V | [regulation 17]
+LICENCE is hereby granted to (1)
 
-MINING (GENERAL) REGULATIONS Mining Licence
+(hereinafter called the licensee(s)) to mine for (2)
 
-Serial No. .
+within the following area (hereinafter called the mining area) (3)
 
-LICENCE is hereby granted to (1).
+.as delineated approximately on the plan attached hereto and edged red.
 
-(hereinafter called the licensee(s)) to mine for (2).
+2. This licence shall remain in force for six months from the date hereof, unless previously cancelled under the provisions of the Ordinance, but unless so cancelled may be renewed by the Commissioner of Mines for further terms of six months each:
 
-within the following area (hereinafter called the mining area) (3).
+Provided that the total period of the original licence together with all renewals thereof shall not, save with the consent of the Chief Executive, exceed five years.
 
-. as delineated approximately on the plan attached hereto and edged red.
+3. This licence is subject to such rentals, fees, royalties, premiums and other payments as may be prescribed from time to time by regulations made under the Mining Ordinance.
 
-- 2. This licence shall remain in force for six months from the date hereof, unless previously cancelled under the provisions of the Ordinance, but unless so cancelled may be renewed by the Commissioner of Mines for further terms of six months each:
+4. This licence confers on the licensee(s) the following rights—
 
-  - Provided that the total period of the original licence together with all renewals thereof shall not, save with the consent of the Chief Executive, exceed five years.
+(a) | to carry out mining operations below the surface of the mining area;
 
-- 3. This licence is subject to such rentals, fees, royalties, premiums and other payments as may be prescribed from time to time by regulations made under the Mining Ordinance.
+(b) | to enter upon, use and carry out mining operations on the surface of any Government land(4) within the said area; and
 
-- 4. This licence confers on the licensee(s) the following rights—
+(c) | with the prior consent in writing of the owner and any lawful occupier of any private land(5) within the said area, to enter upon, use and carry out mining operations on the surface thereof.
 
-  - (a) to carry out mining operations below the surface of the mining area;
+5. This licence is not transferable and any right or interest conferred by this licence is not assignable except with the prior consent of the Commissioner of Mines.
 
-  - (b) to enter upon, use and carry out mining operations on the surface of any Government land (4) within the said area; and
+6. This licence is subject to the provisions of the Mining Ordinance and of any regulations made thereunder for the time being in force, and further is subject to the following terms and conditions—
 
-  - (c) with the prior consent in writing of the owner and any lawful occupier of any private land (5) within the said area, to enter upon, use and carry out mining operations on the surface thereof.
+Dated the day of 19 .
 
-- 5. This licence is not transferable and any right or interest conferred by this licence is not assignable except with the prior consent of the Commissioner of Mines.
+Commissioner of Mines.
 
-- 6.
+Notes:
 
-- This licence is subject to the provisions of the Mining Ordinance and of any regulations made thereunder for the time being in force, and further is subject to the following terms and conditions—
+(1) | Insert name, address and description of licensee(s).
 
-- Dated the day of 19 .
+(2) | Insert class of mineral.
 
-- .
+(3) | Insert description of boundaries of area.
 
-- Commissioner of Mines.
+(4) | “Government land” (政府土地) is defined by section 2 of the Ordinance to mean all land other than private land.
 
-- Notes:
+(5) | “Private land” (私人土地) is defined by section 2 of the Ordinance to mean land held under lease, agreement for lease, tenancy agreement, licence, permit, deed of appropriation, or other valid title from the Government, and also land occupied by the Hong Kong Garrison under lease, licence, permit, requisition or other permanent or temporary title.
 
-  - (1) Insert name, address and description of licensee(s).
+(29 of 1998 s. 105; 57 of 1999 s. 3; 2 of 2012 s. 3)
 
-  - (2) Insert class of mineral.
+_
 
-  - (3) Insert description of boundaries of area.
+Form VI | [reg. 24]
 
-  - (4)
+Mining (General) Regulations Mineral Removal Permit
 
-    - “Government land” (政府土地) is defined by section 2 of the Ordinance to mean all land other than private land.
+Serial No.
 
-  - (5)
+Mining Licence/Lot No.
 
-    - “Private land” (私人土地) is defined by section 2 of the Ordinance to mean land held under lease, agreement for lease, tenancy agreement, licence, permit, deed of appropriation, or other valid title from the Government, and also land occupied by the Hong Kong Garrison under lease, licence, permit, requisition or other permanent or temporary title.
+Permission is hereby granted to
 
-- (29 of 1998 s. 105; 57 of 1999 s. 3; 2 of 2012 s. 3)
+on behalf of
 
-FORM VI | [regulation 24]
+to remove (a) . of (b) | (a) | Quantity
 
-MINING (GENERAL) REGULATIONS Mineral Removal Permit
+from | (b) | Mineral
 
-Serial No. .
+to
 
-Mining Licence/Lot No. . Permission is hereby granted to . on behalf of . to remove (a) . of (b) . from . to . | (a) Quantity (b) Mineral
-
-Signed .
+Signed
 
 Date of issue . 19 .
 
 This permit is valid only for twenty-four hours from date of issue.
 
-FORM VII | [regulation 25]
+_
 
-MINING (GENERAL) REGULATIONS AUTHORIZED BUYER’S REMOVAL PERMIT
+Form VII | [reg. 25]
 
-Serial No. .
+Mining (General) Regulations Authorized Buyer’s Removal Permit
 
-Authorized Buyer’s Licence No. . Permission is hereby granted to . on behalf of . to remove (a) . of (b) . from . to . | (a) Quantity (b) Mineral
+Serial No.
 
-Signed .
+Authorized Buyer’s Licence No.
+
+Permission is hereby granted to
+
+on behalf of
+
+to remove (a) . of (b) | (a) | Quantity
+
+from | (b) | Mineral
+
+to
+
+Signed
 
 Date of issue . 19 .
 
 This permit is valid only for twenty-four hours from date of issue.
 
-FORM VIII | [regulation 23]
+_
 
-MINING (GENERAL) REGULATIONS Authorized Buyer’s Licence
+Form VIII | [reg. 23]
 
-Serial No. .
+Mining (General) Regulations Authorized Buyer’s Licence
 
-Licence is hereby granted to (a) . of (b) . to purchase (c) . for a period of one year from . | (a) Name (b)Address (c) Mineral
+Serial No.
+
+Licence is hereby granted to (a) | (a) | Name
+
+of (b) | (b) | Address
+
+to purchase (c) | (c) | Mineral
+
+for a period of one year from .
 
 CONDITIONS.
 
-- Business under this licence shall be transacted by the authorized buyer at the following addresses only— Dated this day of 19 . Fee $500.00 paid by Demand Note No. . Treasury Receipt No. . .
+Business under this licence shall be transacted by the authorized buyer at the following addresses only—
 
-- Commissioner of Mines. This licence is not transferable. (L.N. 15 of 1971; L.N. 79 of 1997)
+Dated this day of 19 .
+
+Fee $500.00 paid by Demand Note No.
+
+Treasury Receipt No.
+
+Commissioner of Mines.
+
+This licence is not transferable.
+
+(L.N. 15 of 1971; L.N. 79 of 1997)

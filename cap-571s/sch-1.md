@@ -1,4 +1,4 @@
-# Schedule 1
+# SCHEDULE 1
 
 [s. 2]
 
@@ -32,7 +32,11 @@ MEANING OF TERMS “BASIC INFORMATION” AND “RELEVANT INFORMATION”
 
     - (d) the number of its valid business registration certificate;
 
-    - (e) in the case of a corporation incorporated outside Hong Kong, the date of compliance with the provisions of Part XI of the Companies Ordinance (Cap. 32) relating to the registration of documents;
+    - (e) in the case of a corporation incorporated outside Hong Kong, the date of the certificate of registration issued in respect of the corporation under— (28 of 2012 ss. 912 & 920)
+
+      - (i) Part XI of the relevant Ordinance; or
+
+      - (ii) section 777 of Part 16 of the Companies Ordinance (Cap. 622); (28 of 2012 ss. 912 & 920)
 
     - (f) the address of its registered office;
 

@@ -1,6 +1,6 @@
 An Ordinance to provide for—
 
-- (a) the granting of a franchise to the MTR Corporation Limited, a company incorporated under the Companies Ordinance (Cap. 32), to operate the Mass Transit Railway and to construct and operate any extension to the Mass Transit Railway;
+- (a) the granting of a franchise to the MTR Corporation Limited, a company incorporated under the Companies Ordinance (Cap. 32) as in force at the time of the incorporation, to operate the Mass Transit Railway and to construct and operate any extension to the Mass Transit Railway; (Amended 28 of 2012 ss. 912 & 920)
 
 - (b) the regulation of the operation of the Mass Transit Railway under the franchise, including all aspects of safety on the Mass Transit Railway;
 

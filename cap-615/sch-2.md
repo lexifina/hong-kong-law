@@ -74,9 +74,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (a) in relation to an individual, means his or her identity card, certificate of identity, document of identity or travel document, as defined by section 2(1) of the Immigration Ordinance (Cap. 115);
 
-        - (b) in relation to a company as defined by section 2(1) of the Companies Ordinance (Cap. 32), means its certificate of incorporation issued under that Ordinance;
+        - (b) in relation to a company as defined by section 2(1) of the Companies Ordinance (Cap. 622), means the certificate of incorporation issued in respect of the company under the Ordinance under which the company was formed and registered; (Replaced 28 of 2012 ss. 912 & 920)
 
-        - (c) in relation to a non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 32), means its certificate of registration issued under that Ordinance;
+        - (c) in relation to a registered non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 622), means the certificate of registration issued in respect of the company under the Ordinance under which the company was registered as a registered non-Hong Kong company; (Replaced 28 of 2012 ss. 912 & 920)
 
         - (d) in relation to a corporation that is incorporated in a place outside Hong Kong other than a company falling within paragraph (c), means its certificate of incorporation or registration, or any other document evidencing its incorporation, issued by an authority in that place that performs functions similar to those of the Registrar of Companies;
 
@@ -640,7 +640,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (b) a person who, either alone or with any associate or associates, is entitled to exercise, or control the exercise of, more than 50% of the voting rights at any general meeting of the corporation or of another corporation of which it is a subsidiary;
 
-        - subsidiary (附屬公司) has the same meaning as in the Companies Ordinance (Cap. 32).
+        - subsidiary (附屬公司) has the same meaning as in the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920)
 
   - Division 4 Miscellaneous
 
@@ -756,7 +756,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
       - branch (分行), in relation to a financial institution, means a branch of the financial institution outside Hong Kong at which it carries on a business similar to that carried on by the financial institution, whether or not the business of the branch is limited by the laws or regulations of the place in which the branch is situated and whether or not the branch is referred to as an agency in that place;
 
-      - subsidiary undertaking (附屬企業) is to be construed in accordance with the Twenty-third Schedule to the Companies Ordinance (Cap. 32).
+      - subsidiary undertaking (附屬企業) is to be construed in accordance with Schedule 1 to the Companies Ordinance (Cap. 622). (Amended 28 of 2012 ss. 912 & 920)
 
   - 23. Financial institutions to prevent contravention of Part 2 or 3 of this Schedule A financial institution must take all reasonable measures—
 

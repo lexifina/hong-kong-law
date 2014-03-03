@@ -296,9 +296,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
   - (8) (Repealed 89 of 1995 s. 33)
 
-  - (9) Where the Court of First Instance has made a restraint order, an authorized officer may, for the purpose of preventing any realisable property being removed from Hong Kong, seize the property. (L.N. 650 of 199425 of 1998 s. 2)
+  - (9) Where the Court of First Instance has made a restraint order, an authorized officer may, for the purpose of preventing any realisable property being removed from Hong Kong, seize the property. (L.N. 650 of 1994; 25 of 1998 s. 2)
 
-  - (10) Property seized under subsection (9) shall be dealt with in accordance with the directions of the Court of First Instance. (5 of 1998 s. 2)
+  - (10) Property seized under subsection (9) shall be dealt with in accordance with the directions of the Court of First Instance. (25 of 1998 s. 2)
 
   - (11) Where any property specified in a restraint order is immovable property the order shall, for the purposes of the Land Registration Ordinance (Cap. 128)—
 
@@ -562,7 +562,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (b) so as to prevent the payment out of any property of expenses (including the remuneration of the liquidator or any provisional liquidator) properly incurred in the winding up in respect of the property.
 
-  - (3) Nothing in the Companies Ordinance (Cap. 32) shall be taken as restricting, or enabling the restriction of, the exercise of the powers conferred on the Court of First Instance by sections 10 to 13.
+  - (3) Nothing in the Companies Ordinance (Cap. 622) or the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) shall be taken as restricting, or enabling the restriction of, the exercise of the powers conferred on the Court of First Instance by sections 10 to 13. (28 of 2012 ss. 912 & 920)
 
   - (3A) Subsection (3) shall apply to any proceedings relating to an appeal, further appeal or review against any exercise of the powers referred to in that subsection as if the court hearing the appeal, further appeal or review, as the case may be, were the Court of First Instance. (89 of 1995 s. 33)
 
@@ -570,7 +570,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
   - (5) In this section—
 
-    - “company” (公司) means any company which may be wound up under the Companies Ordinance (Cap. 32); and
+    - “company” (公司) means any company which may be wound up under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32); and (28 of 2012 ss. 912 & 920)
 
     - “the relevant time” (有關時間) means—
 
@@ -586,7 +586,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
 - subject to restraint order
 
-  - (1) Without prejudice to the generality of any provision contained in the Bankruptcy Ordinance (Cap. 6), the Companies Ordinance (Cap. 32) or any other Ordinance, where—
+  - (1) Without prejudice to the generality of any provision contained in the Bankruptcy Ordinance (Cap. 6), the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or any other Ordinance, where— (28 of 2012 ss. 912 & 920)
 
     - (a) any insolvency officer seizes or disposes of any property in relation to which his functions are not exercisable because it is for the time being subject to a restraint order; and
 
@@ -612,7 +612,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
         - (i) a trustee (including provisional trustee), interim trustee or special manager appointed under the Bankruptcy Ordinance (Cap. 6); or (18 of 2005 s. 48)
 
-        - (ii) a liquidator, provisional liquidator or special manager appointed under the Companies Ordinance (Cap. 32).
+        - (ii) a liquidator, provisional liquidator or special manager appointed under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (28 of 2012 ss. 912 & 920)
 
 - 19. Receivers: supplementary provisions
 

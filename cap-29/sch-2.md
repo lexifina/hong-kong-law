@@ -38,7 +38,7 @@ AUTHORIZED INVESTMENTS
 
 - 5. Subject to paragraph 7A, certificates of deposit, bills of exchange, promissory notes or short-term (i.e. less than 1 year) debt securities issued or guaranteed by an authorized institution or by an exempted body. (Amended 13 of 2013 s. 40)
 
-- 6. Subject to paragraph 7A, first legal mortgages of any property, including an undivided share in property, which is situated in Hong Kong and held under a Government lease of which the unexpired term at the time of investment is not less than 50 years, excluding any term for which the lease can be renewed. (Amended 29 of 1998 s. 105;13 of 2013 s. 40)
+- 6. Subject to paragraph 7A, first legal mortgages of any property, including an undivided share in property, which is situated in Hong Kong and held under a Government lease of which the unexpired term at the time of investment is not less than 50 years, excluding any term for which the lease can be renewed. (Amended 13 of 2013 s. 40)
 
 - 7. Subject to paragraph 7A, any derivatives which are traded on a recognized stock market, specified stock exchange, recognized futures market or specified futures exchange as these terms are defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); except that an investment under this paragraph— (Amended 13 of 2013 s. 40)
 
@@ -70,7 +70,9 @@ AUTHORIZED INVESTMENTS
 
   - “company” (公司) means a body corporate—
 
-    - (a) incorporated under the Companies Ordinance (Cap. 32);
+    - (a) incorporated under the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
+
+    - (ab) incorporated under a former Companies Ordinance as defined by section 2(1) of the Companies Ordinance (Cap. 622); (Added 28 of 2012 ss. 912 & 920)
 
     - (b) incorporated under any other enactment; or
 

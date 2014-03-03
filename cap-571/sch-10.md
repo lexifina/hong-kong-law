@@ -4,11 +4,13 @@
 
 Savings, Transitional, Consequential and Related Provisions, etc.
 
-- Part 1 Savings, Transitional and Supplemental Arrangements
+(Format changes—E.R. 2 of 2012)
 
-- Interpretation of Part 1
+- Part 1 Savings, Transitional and Supplemental Arrangements Interpretation of Part 1
 
-  - 1. In this Part, a heading to any provision of this Part shall not have legislative effect and shall not in any way vary, limit or extend the interpretation of any provision of this Part. Part II of this Ordinance (Securities and Futures Commission)
+  - 1. In this Part, a heading to any provision of this Part shall not have legislative effect and shall not in any way vary, limit or extend the interpretation of any provision of this Part.
+
+- Part II of this Ordinance (Securities and Futures Commission)
 
   - 2. Without prejudice to section 3 of this Ordinance—
 
@@ -24,19 +26,21 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - (f) any person holding office as a member of the Advisory Committee referred to in paragraph (d), or as a member of a committee referred to in paragraph (e), immediately before the commencement of Part II of this Ordinance shall upon such commencement continue to hold the corresponding office under that Part and Schedule 2 to this Ordinance and be deemed to have been appointed, on the same terms and conditions as were applicable had this Ordinance not been enacted, to the corresponding office under that Part and Schedule 2 to this Ordinance;
 
-    - (g) any person employed or engaged in any office, other than that referred to in paragraph (c) or (f), by the Commission under or pursuant to any provision of the repealed Securities and Futures Commission Ordinance immediately before the commencement of Part II of this Ordinance shall upon such commencement continue to be employed or engaged in the same office under or pursuant to that Part and be deemed to have been employed or engaged in the same office, on the same terms and conditions as were applicable had this Ordinance not been enacted, under or pursuant to that Part. Part III of this Ordinance (Exchanges, Clearing Houses and Investor Compensation Companies)
+    - (g) any person employed or engaged in any office, other than that referred to in paragraph (c) or (f), by the Commission under or pursuant to any provision of the repealed Securities and Futures Commission Ordinance immediately before the commencement of Part II of this Ordinance shall upon such commencement continue to be employed or engaged in the same office under or pursuant to that Part and be deemed to have been employed or engaged in the same office, on the same terms and conditions as were applicable had this Ordinance not been enacted, under or pursuant to that Part.
+
+- Part III of this Ordinance (Exchanges, Clearing Houses and Investor Compensation Companies)
 
   - 3. In sections 6 and 9—
 
-    - HKFECC (期貨結算公司) means the company incorporated under the Companies Ordinance (Cap. 32) and registered under that Ordinance by the name HKFE Clearing Corporation Limited;
+    - HKFECC (期貨結算公司) means the company incorporated, and registered by the name HKFE Clearing Corporation Limited, under the relevant Ordinance; (Amended 28 of 2012 ss. 912 & 920)
 
-    - HKSCC (香港結算公司) means the company incorporated under the Companies Ordinance (Cap. 32) and registered under that Ordinance by the name Hong Kong Securities Clearing Company Limited;
+    - HKSCC (香港結算公司) means the company incorporated, and registered by the name Hong Kong Securities Clearing Company Limited, under the relevant Ordinance; (Amended 28 of 2012 ss. 912 & 920)
 
-    - SEOCH (期權結算公司) means the company incorporated under the Companies Ordinance (Cap. 32) and registered under that Ordinance by the name The SEHK Options Clearing House Limited.
+    - SEOCH (期權結算公司) means the company incorporated, and registered by the name The SEHK Options Clearing House Limited, under the relevant Ordinance. (Amended 28 of 2012 ss. 912 & 920)
 
   - 4. In sections 10 and 13—
 
-    - HKEC (交易結算公司) means the company incorporated under the Companies Ordinance (Cap. 32) and registered under that Ordinance by the name Hong Kong Exchanges and Clearing Limited.
+    - HKEC (交易結算公司) means the company incorporated, and registered by the name Hong Kong Exchanges and Clearing Limited, under the relevant Ordinance. (Amended 28 of 2012 ss. 912 & 920)
 
   - 5. On the commencement of Division 2 of Part III of this Ordinance—
 
@@ -48,7 +52,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (ii) the Futures Exchange Company approved under section 14 of the repealed Commodities Trading Ordinance,
 
-  - which are in effect immediately before such commencement shall upon such commencement continue to have effect and be deemed to have been made under section 23 of this Ordinance and approved under section 24(3) of this Ordinance;
+    - which are in effect immediately before such commencement shall upon such commencement continue to have effect and be deemed to have been made under section 23 of this Ordinance and approved under section 24(3) of this Ordinance;
 
     - (c) the respective constitutions of the Stock Exchange Company and the Futures Exchange Company which are in effect immediately before such commencement shall upon such commencement continue to have effect and be deemed to have been approved under section 24(3) of this Ordinance; and
 
@@ -112,7 +116,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - may, in so far as it could upon such commencement have been done under or by virtue of section 92 or 93 of this Ordinance, be continued upon such commencement under or by virtue of that section 92 or 93 (as the case may be).
 
-  - Part IV of this Ordinance (Offers of investments)
+- Part IV of this Ordinance (Offers of investments)
 
   - 16. Subject to sections 18 and 19—
 
@@ -140,7 +144,11 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - (ii) in the case of paragraph (b), an application for authorization of a collective investment scheme under section 104 of this Ordinance, or an application for authorization of the issue of an advertisement, invitation or document under section 105 of this Ordinance, as the Commission considers appropriate.
 
-  - 21. A list published pursuant to section 16 is not subsidiary legislation. Part V of this Ordinance (Licensing and registration) Corporations other than exempt dealers and exempt investment advisers
+  - 21. A list published pursuant to section 16 is not subsidiary legislation.
+
+- Part V of this Ordinance (Licensing and registration) Corporations other than exempt dealers and exempt
+
+- investment advisers
 
   - 22. Subject to section 55, a corporation which immediately before the commencement of Part V of this Ordinance is—
 
@@ -190,9 +198,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - and, subject to section 53, shall be so deemed for a period of 2 years from such commencement.
 
-  - Persons who are exempt dealers or
+- Persons who are exempt dealers or exempt
 
-  - exempt investment advisers
+- investment advisers
 
   - 25. Subject to section 55—
 
@@ -264,7 +272,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - and, subject to section 53, shall be so deemed for a period of 2 years from such commencement.
 
-  - Sole-proprietorships
+- Sole-proprietorships
 
   - 30. Subject to section 55, an individual who immediately before the commencement of Part V of this Ordinance is registered—
 
@@ -314,11 +322,13 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - and, subject to section 53, shall be so deemed for a period of 2 years from such commencement.
 
-  - Licensed banks
+- Licensed banks
 
   - 32. Where immediately before the commencement of Part V of this Ordinance, a licensed bank would have fallen within the meaning of the definition of investment adviser in section 2(1) of the repealed Securities Ordinance but for paragraph (i) of that definition, it shall, upon such commencement, be deemed to have been registered under section 119(1) of this Ordinance for Type 4, Type 6 and (subject to the condition specified in section 51) Type 9 regulated activities, and, subject to section 53, shall be so deemed for a period of 2 years from such commencement.
 
-  - 33. Where immediately before the commencement of Part V of this Ordinance an individual is engaged by a licensed bank to perform any act which, after such commencement, would constitute a regulated function in relation to a regulated activity for which the bank is deemed under section 32 to have been registered, that individual shall, upon such commencement, be deemed to be a person whose name has been entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged by the bank in respect of that regulated activity, and, subject to section 53, shall be so deemed for a period of 2 years from such commencement. Persons providing automated trading services
+  - 33. Where immediately before the commencement of Part V of this Ordinance an individual is engaged by a licensed bank to perform any act which, after such commencement, would constitute a regulated function in relation to a regulated activity for which the bank is deemed under section 32 to have been registered, that individual shall, upon such commencement, be deemed to be a person whose name has been entered in the register maintained by the Monetary Authority under section 20 of the Banking Ordinance (Cap. 155) as engaged by the bank in respect of that regulated activity, and, subject to section 53, shall be so deemed for a period of 2 years from such commencement.
+
+- Persons providing automated trading services
 
   - 34. Where immediately before the commencement of Part V of this Ordinance, a person is carrying on a business in providing automated trading services, and the person is—
 
@@ -358,7 +368,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - until the expiration of that period.
 
-  - Persons dealing in certain interests in collective investment scheme
+- Persons dealing in certain interests in collective
+
+- investment scheme
 
   - 38.
 
@@ -376,7 +388,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - that is registered as such dealer,
 
-    - then the person may continue carrying on the business referred to in paragraph (a) for a period of 2 years from such commencement, and solely for the purposes of the continuation of such business, this Ordinance shall not apply to the person until the expiration of that period.
+  - then the person may continue carrying on the business referred to in paragraph (a) for a period of 2 years from such commencement, and solely for the purposes of the continuation of such business, this Ordinance shall not apply to the person until the expiration of that period.
 
   - 40. Where section 39 is applicable to a person, and immediately before the commencement of Part V of this Ordinance—
 
@@ -396,7 +408,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - until the expiration of that period.
 
-  - Persons advising on certain interests in collective investment scheme
+- Persons advising on certain interests in collective
+
+- investment scheme
 
   - 42. Where immediately before the commencement of Part V of this Ordinance, a person—
 
@@ -410,7 +424,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - that is registered as such adviser,
 
-    - then the person may continue carrying on the business referred to in paragraph (a) for a period of 2 years from such commencement, and solely for the purposes of the continuation of such business, this Ordinance shall not apply to the person until the expiration of that period.
+  - then the person may continue carrying on the business referred to in paragraph (a) for a period of 2 years from such commencement, and solely for the purposes of the continuation of such business, this Ordinance shall not apply to the person until the expiration of that period.
 
   - 43. Where section 42 is applicable to a person, and immediately before the commencement of Part V of this Ordinance—
 
@@ -430,7 +444,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - until the expiration of that period.
 
-  - Persons dealing in futures contracts solely with persons outside Hong Kong
+- Persons dealing in futures contracts solely with persons
+
+- outside Hong Kong
 
   - 45.
 
@@ -442,7 +458,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - 47. Where immediately before the commencement of Part V of this Ordinance, a person—
 
-    - (a) is carrying on a business which does not fall within the meaning of “trading in commodity futures contracts”, as defined in section 2(1) of the repealed Commodities Trading Ordinance, solely because the person while engaging in such trading only deals with excluded clients; and
+    - (a) is carrying on a business which does not fall within the meaning of trading in commodity futures contracts, as defined in section 2(1) of the repealed Commodities Trading Ordinance, solely because the person while engaging in such trading only deals with excluded clients; and
 
     - (b)
 
@@ -484,7 +500,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - until the expiration of that period.
 
-  - Deemed condition for Type 9 regulated activity
+- Deemed condition for Type 9 regulated activity
 
   - 51. Where a person is—
 
@@ -508,7 +524,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - then without prejudice to section 55, such licence referred to in paragraph (b) shall be subject to a condition that the person shall not provide a service of managing a portfolio of securities for another person.
 
-  - Further provisions on transitional period
+- Further provisions on transitional period
 
   - 53.
 
@@ -522,7 +538,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - until the licence applied for is granted or the Commission’s refusal to grant the licence takes effect as a specified decision under section 232 of this Ordinance (as the case may be);
 
-      - (b) a company, or a non-Hong Kong company that has complied with the provisions of Part XI of the Companies Ordinance (Cap. 32) for the registration of documents, applies to be licensed under section 116(1) of this Ordinance for a regulated activity and— (Amended 30 of 2004 s. 3)
+      - (b) a company, or a registered non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 622), applies to be licensed under section 116(1) of this Ordinance for a regulated activity and— (Amended 30 of 2004 s. 3; 28 of 2012 ss. 912 & 920)
 
         - (i) all the partners of a partnership deemed under section 25(b) or 27 to have been licensed for that regulated activity are shareholders of the applicant;
 
@@ -542,7 +558,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - until the licence applied for is granted or the Commission’s refusal to grant the licence takes effect as a specified decision under section 232 of this Ordinance (as the case may be);
 
-      - (c) a company, or a non-Hong Kong company that has complied with the provisions of Part XI of the Companies Ordinance (Cap. 32) for the registration of documents, applies to be licensed under section 116(1) of this Ordinance for a regulated activity and— (Amended 30 of 2004 s. 3)
+      - (c) a company, or a registered non-Hong Kong company as defined by section 2(1) of the Companies Ordinance (Cap. 622), applies to be licensed under section 116(1) of this Ordinance for a regulated activity and— (Amended 30 of 2004 s. 3; 28 of 2012 ss. 912 & 920)
 
         - (i) an individual deemed under section 25(b) or 30 to have been licensed for that regulated activity is a majority shareholder of the applicant; and
 
@@ -638,7 +654,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (c) an individual who is deemed under section 24, 26(ii), 29 or 31 to have been licensed as a licensed representative and accredited to a licensed person ceases to act for or on behalf of that licensed person in relation to the regulated activity for which he is so deemed, he shall upon such cessation cease to be so deemed;
 
-      - (d) an individual who is deemed under section 26(i) or 33 to be a person whose name has been entered in the register referred to in that section ceases to be engaged by the institution concerned or the bank concerned to perform any act which constitutes a regulated function in relation to the relevant regulated activity, he shall upon such cessation cease to be so deemed. Certain unregistered persons to be permitted to carry on limited business
+      - (d) an individual who is deemed under section 26(i) or 33 to be a person whose name has been entered in the register referred to in that section ceases to be engaged by the institution concerned or the bank concerned to perform any act which constitutes a regulated function in relation to the relevant regulated activity, he shall upon such cessation cease to be so deemed.
+
+- Certain unregistered persons to be permitted to carry on limited business
 
   - 54. A person who—
 
@@ -648,7 +666,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - is deemed not to be carrying on a business in Type 8 regulated activity for the purposes of section 114(1) of this Ordinance, but only if the person does not carry on, or hold itself out as carrying on, any business in securities margin financing other than that as referred to in paragraph (b).
 
-  - Miscellaneous
+- Miscellaneous
 
   - 55. Where a person is—
 
@@ -720,15 +738,15 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - 1. | For registration as a dealer under the repealed Securities Ordinance, by—
 
-    - (a) a corporation | (a) Under section 116(1) of this Ordinance for Type 1, Type 4, Type 6, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
+    - (a) | a corporation | (a) | Under section 116(1) of this Ordinance for Type 1, Type 4, Type 6, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
 
-    - (b) an individual | (b) Under section 120(1) of this Ordinance for Type 1, Type 4, Type 6, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
+    - (b) | an individual | (b) | Under section 120(1) of this Ordinance for Type 1, Type 4, Type 6, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
 
     - 2. | For registration as an investment adviser under the repealed Securities Ordinance, by—
 
-    - (a) a corporation | (a) Under section 116(1) of this Ordinance for Type 4, Type 6 and Type 9 regulated activities, or any one or more of them, as may be applicable
+    - (a) | a corporation | (a) | Under section 116(1) of this Ordinance for Type 4, Type 6 and Type 9 regulated activities, or any one or more of them, as may be applicable
 
-    - (b) an individual | (b) Under section 120(1) of this Ordinance for Type 4, Type 6 and Type 9 regulated activities, or any one or more of them, as may be applicable
+    - (b) | an individual | (b) | Under section 120(1) of this Ordinance for Type 4, Type 6 and Type 9 regulated activities, or any one or more of them, as may be applicable
 
     - 3. | For registration as a dealer’s representative under the repealed Securities Ordinance | Under section 120(1) of this Ordinance for Type 1, Type 4, Type 6, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
 
@@ -736,15 +754,15 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - 5. | For registration as a dealer under the repealed Commodities Trading Ordinance, by—
 
-    - (a) a corporation | (a) Under section 116(1) of this Ordinance for Type 2, Type 5, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
+    - (a) | a corporation | (a) | Under section 116(1) of this Ordinance for Type 2, Type 5, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
 
-    - (b) an individual | (b) Under section 120(1) of this Ordinance for Type 2, Type 5, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
+    - (b) | an individual | (b) | Under section 120(1) of this Ordinance for Type 2, Type 5, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
 
     - 6. | For registration as a commodity trading adviser under the repealed Commodities Trading Ordinance, by—
 
-    - (a) a corporation | (a) Under section 116(1) of this Ordinance for Type 5 and Type 9 regulated activities, or any one of them, as may be applicable
+    - (a) | a corporation | (a) | Under section 116(1) of this Ordinance for Type 5 and Type 9 regulated activities, or any one of them, as may be applicable
 
-    - (b) an individual | (b) Under section 120(1) of this Ordinance for Type 5 and Type 9 regulated activities, or any one of them, as may be applicable
+    - (b) | an individual | (b) | Under section 120(1) of this Ordinance for Type 5 and Type 9 regulated activities, or any one of them, as may be applicable
 
     - 7. | For registration as a dealer’s representative under the repealed Commodities Trading Ordinance | Under section 120(1) of this Ordinance for Type 2, Type 5, Type 7 and Type 9 regulated activities, or any one or more of them, as may be applicable
 
@@ -780,7 +798,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (i) where the applicant is an authorized financial institution, be treated as an application under section 119(1) of this Ordinance for registration for Type 4, Type 6 and Type 9 regulated activities; or
 
-      - (ii) where the applicant is not an authorized financial institution, be treated as an application under section 116(1) of this Ordinance for Type 4, Type 6 and Type 9 regulated activities. Part VI of this Ordinance (Capital requirements, client assets, records and audit relating to intermediaries)
+      - (ii) where the applicant is not an authorized financial institution, be treated as an application under section 116(1) of this Ordinance for Type 4, Type 6 and Type 9 regulated activities.
+
+- Part VI of this Ordinance (Capital requirements, client assets, records and audit relating to intermediaries)
 
   - 61. Where—
 
@@ -802,9 +822,11 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (B) where paragraph (b) applies, the exercise of the power shall continue to have force and effect,
 
-      - as if this Ordinance had not been enacted; and
+    - as if this Ordinance had not been enacted; and
 
-    - (ii) the provisions of the repealed Commodities Trading Ordinance, the repealed Securities Ordinance or the repealed Leveraged Foreign Exchange Trading Ordinance (as the case may be) shall continue to apply to the exercise of the power and to any matters relating thereto (including any further exercise of power) as if this Ordinance had not been enacted. Part VIII of this Ordinance (Supervision and investigations)
+    - (ii) the provisions of the repealed Commodities Trading Ordinance, the repealed Securities Ordinance or the repealed Leveraged Foreign Exchange Trading Ordinance (as the case may be) shall continue to apply to the exercise of the power and to any matters relating thereto (including any further exercise of power) as if this Ordinance had not been enacted.
+
+- Part VIII of this Ordinance (Supervision and investigations)
 
   - 62. Where—
 
@@ -824,7 +846,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (B) where paragraph (b) applies, the exercise of the power shall continue to have force and effect,
 
-      - as if this Ordinance had not been enacted; and
+    - as if this Ordinance had not been enacted; and
 
     - (ii) the provisions of the repealed Securities and Futures Commission Ordinance or the repealed Leveraged Foreign Exchange Trading Ordinance (as the case may be) shall continue to apply to the exercise of the power and to any matters relating thereto (including any further exercise of power) as if this Ordinance had not been enacted.
 
@@ -832,7 +854,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - (a) in the case of subsection (1)(a), (b), (c), (d) or (e) of that section 179, the matter described in such subsection as being suggested by the circumstances referred to in such subsection has occurred, or appears to the Commission as occurring, before the commencement of Part VIII of this Ordinance; or
 
-    - (b) in the case of subsection (1)(f) of that section 179, the matter in respect of the investigation of which the Commission decides to provide assistance under section 186 of this Ordinance has occurred, or appears to the Commission as occurring, before such commencement. Part IX of this Ordinance (Discipline, etc.)
+    - (b) in the case of subsection (1)(f) of that section 179, the matter in respect of the investigation of which the Commission decides to provide assistance under section 186 of this Ordinance has occurred, or appears to the Commission as occurring, before such commencement.
+
+- Part IX of this Ordinance (Discipline, etc.)
 
   - 64. Where—
 
@@ -854,7 +878,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (B) where paragraph (b) applies, the exercise of the power shall continue to have force and effect,
 
-      - as if this Ordinance had not been enacted; and
+    - as if this Ordinance had not been enacted; and
 
     - (ii) subject to section 66, the provisions of the repealed Commodities Trading Ordinance, the repealed Securities Ordinance or the repealed Leveraged Foreign Exchange Trading Ordinance (as the case may be) and the repealed Securities and Futures Commission Ordinance (where applicable) shall continue to apply to the exercise of the power and to any appeals and other matters relating thereto (including any further exercise of power) as if this Ordinance had not been enacted.
 
@@ -866,7 +890,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - the registration or licence of the person under this Ordinance shall, notwithstanding sections 22 to 37, be regarded as having been revoked or suspended (as the case may be) on the same terms and conditions on which the declaration or registration or licence referred to in paragraph (a) is revoked or suspended, and sections 200(1) to (3), 201(2) and (5), 202 and 203 of this Ordinance shall apply, with necessary modifications, in relation to the revocation or suspension as if it were a revocation or suspension under Part IX of this Ordinance.
 
-  - 66. Where, but for this section, the exercise of any power under section 64 would have been subject to appeal to the Securities and Futures Appeals Panel established by section 18 of the repealed Securities and Futures Commission Ordinance, an application for review to the Securities and Futures Appeals Tribunal, but not such appeal to the Securities and Futures Appeals Panel, may be made in respect of the exercise of the power and disposed of in all respects as if the exercise of the power were a specified decision as defined in section 215 of and section 1 of Schedule 8 to this Ordinance, and the other provisions of this Ordinance shall, with necessary modifications, apply accordingly. Part X of this Ordinance (Powers of intervention and proceedings)
+  - 66. Where, but for this section, the exercise of any power under section 64 would have been subject to appeal to the Securities and Futures Appeals Panel established by section 18 of the repealed Securities and Futures Commission Ordinance, an application for review to the Securities and Futures Appeals Tribunal, but not such appeal to the Securities and Futures Appeals Panel, may be made in respect of the exercise of the power and disposed of in all respects as if the exercise of the power were a specified decision as defined in section 215 of and section 1 of Schedule 8 to this Ordinance, and the other provisions of this Ordinance shall, with necessary modifications, apply accordingly.
+
+- Part X of this Ordinance (Powers of intervention and proceedings)
 
   - 67. Where—
 
@@ -886,13 +912,15 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (B) where paragraph (b) applies, the exercise of the power shall continue to have force and effect,
 
-      - as if this Ordinance had not been enacted; and
+    - as if this Ordinance had not been enacted; and
 
     - (ii) subject to section 68, the provisions of the repealed Securities and Futures Commission Ordinance or both the repealed Securities and Futures Commission Ordinance and the repealed Leveraged Foreign Exchange Trading Ordinance (as the case may be) shall continue to apply to the exercise of the power and to any appeals and other matters relating thereto (including any further exercise of power) as if this Ordinance had not been enacted.
 
   - 68. Where, but for this section, the exercise of any power under section 67 would have been subject to appeal to the Securities and Futures Appeals Panel established by section 18 of the repealed Securities and Futures Commission Ordinance, an application for review to the Securities and Futures Appeals Tribunal, but not such appeal to the Securities and Futures Appeals Panel, may be made in respect of the exercise of the power and disposed of in all respects as if the exercise of the power were a specified decision as defined in section 215 of and section 1 of Schedule 8 to this Ordinance, and the other provisions of this Ordinance shall, with necessary modifications, apply accordingly.
 
-  - 69. Section 214 of this Ordinance applies even if the conduct of business or affairs in question has occurred, or appears to the Commission as occurring, before the commencement of Part X of this Ordinance. Part XI of this Ordinance (Securities and Futures Appeals Tribunal)
+  - 69. Section 214 of this Ordinance applies even if the conduct of business or affairs in question has occurred, or appears to the Commission as occurring, before the commencement of Part X of this Ordinance.
+
+- Part XI of this Ordinance (Securities and Futures Appeals Tribunal)
 
   - 70. Where a person has made an appeal to the Securities and Futures Appeals Panel before the commencement of Part XI of this Ordinance under—
 
@@ -924,19 +952,25 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - (i) any person who immediately before the commencement of Part XI of this Ordinance holds any office as a member (whether as the chairman, deputy chairman or other member) of the Securities and Futures Appeals Panel or as a member of the tribunal to determine the appeal shall, for the purposes of the appeal, continue to hold the same office on the same terms and conditions as if this Ordinance had not been enacted; and
 
-    - (ii) the Securities and Futures Appeals Panel and the tribunal shall, for the purposes of the appeal, continue in existence as if this Ordinance had not been enacted. Part XII of this Ordinance (Investor compensation)
+    - (ii) the Securities and Futures Appeals Panel and the tribunal shall, for the purposes of the appeal, continue in existence as if this Ordinance had not been enacted.
+
+- Part XII of this Ordinance (Investor compensation)
 
   - 73.
 
     - (1) In sections 74 to 76—
 
-      - Futures Exchange Compensation Fund (期交所賠償基金) and Unified Exchange Compensation Fund (聯交所賠償基金) have the meanings respectively assigned to them in section 235 of this Ordinance; repealed Commodities Trading Rules (已廢除的《商品交易規則》) means the Commodities Trading (Dealers, Commodity Trading Advisers and Representatives) Rules (Cap. 250 sub. leg. A) repealed under section 406 of this Ordinance;
+      - Futures Exchange Compensation Fund (期交所賠償基金) and Unified Exchange Compensation Fund (聯交所賠償基金) have the meanings respectively assigned to them in section 235 of this Ordinance;
+
+      - repealed Commodities Trading Rules (已廢除的《商品交易規則》) means the Commodities Trading (Dealers, Commodity Trading Advisers and Representatives) Rules (Cap. 250 sub. leg. A) repealed under section 406 of this Ordinance;
 
       - repealed Contract Levy Rules (已廢除的《合約徵費規則》) means the Commodities Trading (Contract Levy) Rules (Cap. 250 sub. leg. C) repealed under section 406 of this Ordinance;
 
       - repealed Securities Rules (已廢除的《證券規則》) means the Securities (Miscellaneous) Rules (Cap. 333 sub. leg. A) repealed under section 406 of this Ordinance.
 
-    - (2) For the avoidance of doubt, it is hereby declared that nothing in sections 74 to 76 shall be construed as enabling a claim to be made which is barred under any enactment or rule of law. Unified Exchange Compensation Fund
+    - (2) For the avoidance of doubt, it is hereby declared that nothing in sections 74 to 76 shall be construed as enabling a claim to be made which is barred under any enactment or rule of law.
+
+- Unified Exchange Compensation Fund
 
   - 74.
 
@@ -992,19 +1026,21 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (b) if there is any remaining balance, be paid into the compensation fund.
 
-    - (10) Upon any reimbursement referred to in subsection (3) or (9)(a), the amount of the reimbursement shall form part of the assets of the Stock Exchange Company and, if it is in liquidation, shall be available to the liquidator for distribution in accordance with the Companies Ordinance (Cap. 32).
+    - (10) Upon any reimbursement referred to in subsection (3) or (9)(a), the amount of the reimbursement shall form part of the assets of the Stock Exchange Company and, if it is in liquidation, shall be available to the liquidator for distribution in accordance with the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (Amended 28 of 2012 ss. 912 & 920)
 
     - (11) Where a claim for compensation from the Unified Exchange Compensation Fund is allowed (whether in full or in part) but the amount allowed cannot be paid to the claimant because the Commission is unable to locate the claimant, then the Commission shall hold for the claimant the amount allowed for 3 years beginning with the date on which the claim is allowed, after which time the Commission shall apply the amount in accordance with subsection (9).
 
     - (12) Except as provided in this section, no claim for compensation from the Unified Exchange Compensation Fund may be made after the appointed day.
 
-    - *(13) The Secretary for Financial Services and the Treasury may by notice published in the Gazette appoint a date as the appointed day for the purposes of this section. (Amended L.N. 106 of 2002)
+    - #(13) The Secretary for Financial Services and the Treasury may by notice published in the Gazette appoint a date as the appointed day for the purposes of this section. (Amended L.N. 106 of 2002)
 
     - (14) In this section—
 
       - appointed day (指定日期) means the date appointed under subsection (13);
 
-      - default (違責) means an act referred to in section 109(1) of the repealed Securities Ordinance. Futures Exchange Compensation Fund
+      - default (違責) means an act referred to in section 109(1) of the repealed Securities Ordinance.
+
+- Futures Exchange Compensation Fund
 
   - 75.
 
@@ -1058,19 +1094,21 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (b) if there is any remaining balance, be paid into the compensation fund.
 
-    - (10) Upon any reimbursement referred to in subsection (3) or (9)(a), the amount of the reimbursement shall form part of the assets of the Futures Exchange Company and, if it is in liquidation, shall be available to the liquidator for distribution in accordance with the Companies Ordinance (Cap. 32).
+    - (10) Upon any reimbursement referred to in subsection (3) or (9)(a), the amount of the reimbursement shall form part of the assets of the Futures Exchange Company and, if it is in liquidation, shall be available to the liquidator for distribution in accordance with the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (Amended 28 of 2012 ss. 912 & 920)
 
     - (11) Where a claim for compensation from the Futures Exchange Compensation Fund is allowed (whether in full or in part) but the amount allowed cannot be paid to the claimant because the Commission is unable to locate the claimant, then the Commission shall hold for the claimant the amount allowed for 3 years beginning with the date on which the claim is allowed, after which time the Commission shall apply the amount in accordance with subsection (9).
 
     - (12) Except as provided in this section, no claim for compensation from the Futures Exchange Compensation Fund may be made after the appointed day.
 
-    - #(13) The Secretary for Financial Services and the Treasury may by notice published in the Gazette appoint a date as the appointed day for the purposes of this section. (Amended L.N. 106 of 2002)
+    - @(13) The Secretary for Financial Services and the Treasury may by notice published in the Gazette appoint a date as the appointed day for the purposes of this section. (Amended L.N. 106 of 2002)
 
     - (14) In this section—
 
       - appointed day (指定日期) means the date appointed under subsection (13);
 
-      - default (違責) means a default referred to in section 87(1) of the repealed Commodities Trading Ordinance. Dealers Deposit Scheme
+      - default (違責) means a default referred to in section 87(1) of the repealed Commodities Trading Ordinance.
+
+- Dealers Deposit Scheme
 
   - 76.
 
@@ -1078,7 +1116,7 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (a) sections 52 (except subsections (1), (1A) and (6)) and 52A of the repealed Securities Ordinance;
 
-      - (b) rules 2, 4, 5, 6 (other than rule 6(4)), 6B, 6C, 6D, 6E, 6F and 6G (other than rule 6G(4)) of the repealed Securities Rules; (Replaced 9 of 2012 s. 48)
+      - (b) rules 2, 4, 5, 6 (other than rule 6(4)), 6B, 6C, 6D, 6E, 6F and 6G (other than rule 6G(4)) of the repealed Securities Rules;
 
       - (c) section 33 of the repealed Commodities Trading Ordinance; and
 
@@ -1092,23 +1130,23 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (b) no transfer, payment, forfeiture or application for release of the deposit or security (as the case may be) paid, deposited or lodged by the dealer or the registered financier concerned has been made under any of those sections or rules,
 
-    - then a transfer, payment, forfeiture or application for release and any subsequent application of the deposit or security may be made under the applicable provisions specified in subsection (1) (Replaced 9 of 2012 s. 48)
+    - then a transfer, payment, forfeiture or application for release and any subsequent application of the deposit or security may be made under the applicable provisions specified in subsection (1).
 
     - (3) A claim for compensation made before the appointed day in respect of a default occurring prior to that day that has not been disposed of may be continued and disposed of under subsection (1).
 
-    - (4) As soon as reasonably practicable after the appointed day, the Commission shall publish in one or more English language newspapers and one or more Chinese language newspapers, published daily and circulating generally in Hong Kong, a notice specifying a date, not being earlier than 3 months after the publication of the notice, on or before which a claim for compensation against the deposit forfeited under section 52(2)(c) of the repealed Securities Ordinance or section 33(1)(c) of the repealed Commodities Trading Ordinance or the security lodged under section 121K(1) of the repealed Securities Ordinance may be made. (Amended 9 of 2012 s. 48)
+    - (4) As soon as reasonably practicable after the appointed day, the Commission shall publish in one or more English language newspapers and one or more Chinese language newspapers, published daily and circulating generally in Hong Kong, a notice specifying a date, not being earlier than 3 months after the publication of the notice, on or before which a claim for compensation against the deposit forfeited under section 52(2)(c) of the repealed Securities Ordinance or section 33(1)(c) of the repealed Commodities Trading Ordinance or the security lodged under section 121K(1) of the repealed Securities Ordinance may be made.
 
-    - (5) Where, in respect of a default occurring prior to the appointed day, a person wishes to start a claim for compensation against any deposit or security referred to in subsection (4), he shall lodge his claim in writing with the Commission— (Amended 9 of 2012 s. 48)
+    - (5) Where, in respect of a default occurring prior to the appointed day, a person wishes to start a claim for compensation against any deposit or security referred to in subsection (4), he shall lodge his claim in writing with the Commission—
 
       - (a) if a notice under subsection (4) has been published, on or before the date specified in the notice; or
 
       - (b) if no such notice has been published, within 6 months after he became aware of the default giving rise to the claim.
 
-    - (6) A claim made under subsection (5) shall be regarded as a claim made under rule 6(5) or 6G(5) of the repealed Securities Rules or rule 15(6) of the repealed Commodities Trading Rules (as the case may be), and other provisions of the Rules shall apply accordingly. (Amended 9 of 2012 s. 48)
+    - (6) A claim made under subsection (5) shall be regarded as a claim made under rule 6(5) or 6G(5) of the repealed Securities Rules or rule 15(6) of the repealed Commodities Trading Rules (as the case may be), and other provisions of the Rules shall apply accordingly.
 
     - (7) A claim that is not made within the time limited by subsection (5) shall, unless the Commission otherwise determines, be barred.
 
-    - (8) Where a claim made or continued under this section is not allowed or the amount or amounts determined to be payable as compensation do not exceed the amount of the deposit or the security, the Commission shall repay the deposit or the security to which the claim relates or the remaining balance of the deposit or the security (as the case may be) to the dealer or the registered financier concerned. (Amended 9 of 2012 s. 48)
+    - (8) Where a claim made or continued under this section is not allowed or the amount or amounts determined to be payable as compensation do not exceed the amount of the deposit or the security, the Commission shall repay the deposit or the security to which the claim relates or the remaining balance of the deposit or the security (as the case may be) to the dealer or the registered financier concerned.
 
     - (9) Where—
 
@@ -1116,9 +1154,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - (b) the deposit or the security is not required to be disposed of under this section,
 
-    - the Commission shall repay the deposit or the security to the dealer or the registered financier concerned. (Amended 9 of 2012 s. 48)
+    - the Commission shall repay the deposit or the security to the dealer or the registered financier concerned.
 
-    - (10) Where a claim made or continued under this section is allowed (whether in full or in part) but the amount allowed cannot be paid to the claimant because the Commission is unable to locate the claimant, then the Commission shall hold for the claimant the amount allowed for 3 years beginning with the date on which the claim is allowed, after which time the Commission shall repay the amount to the dealer or the registered financier concerned. (Amended 9 of 2012 s. 48)
+    - (10) Where a claim made or continued under this section is allowed (whether in full or in part) but the amount allowed cannot be paid to the claimant because the Commission is unable to locate the claimant, then the Commission shall hold for the claimant the amount allowed for 3 years beginning with the date on which the claim is allowed, after which time the Commission shall repay the amount to the dealer or the registered financier concerned.
 
     - (11) Where—
 
@@ -1132,9 +1170,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
         - (iii) in the case of subsection (10), the end of the 3-year period referred to in that subsection,
 
-    - the Commission shall pay the deposit or the security or the remaining balance or the amount (as the case may be) to the compensation fund. (Amended 9 of 2012 s. 48)
+    - the Commission shall pay the deposit or the security or the remaining balance or the amount (as the case may be) to the compensation fund.
 
-    - (12) Except as provided in this section, no claim for compensation may be made against any deposit forfeited under section 52(2)(c) of the repealed Securities Ordinance or section 33(1)(c) of the repealed Commodities Trading Ordinance or against any security lodged under section 121K(1) of the repealed Securities Ordinance after the appointed day. (Amended 9 of 2012 s. 48)
+    - (12) Except as provided in this section, no claim for compensation may be made against any deposit forfeited under section 52(2)(c) of the repealed Securities Ordinance or section 33(1)(c) of the repealed Commodities Trading Ordinance or against any security lodged under section 121K(1) of the repealed Securities Ordinance after the appointed day.
 
     - (13) The Secretary for Financial Services and the Treasury may by notice published in the Gazette appoint a date as the appointed day for the purposes of this section. (Amended L.N. 106 of 2002)
 
@@ -1142,7 +1180,11 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
       - appointed day (指定日期) means the date appointed under subsection (13);
 
-      - default (違責) means a default referred to in rule 6(2) or 6G(2) of the repealed Securities Rules or rule 15(2) of the repealed Commodities Trading Rules. (Amended 9 of 2012 s. 48) Part XIII of this Ordinance (Market Misconduct Tribunal)
+      - default (違責) means a default referred to in rule 6(2) or 6G(2) of the repealed Securities Rules or rule 15(2) of the repealed Commodities Trading Rules.
+
+    - (Amended 9 of 2012 s. 48)
+
+- Part XIII of this Ordinance (Market Misconduct Tribunal)
 
   - 77. Where—
 
@@ -1182,7 +1224,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - (a) by adding—
 
-      - “27A. Recommendations to Financial Secretary to institute inquiry At the conclusion of any inquiry or as soon as is reasonably practicable thereafter, where it appears to the Tribunal that insider dealing has taken place or may have taken place by reference to the conduct of any person, it may, where it considers appropriate, recommend the Financial Secretary to institute an inquiry under section 16 to inquire into the matter.”;
+      - “27A. | Recommendations to Financial Secretary to institute inquiry
+
+      - At the conclusion of any inquiry or as soon as is reasonably practicable thereafter, where it appears to the Tribunal that insider dealing has taken place or may have taken place by reference to the conduct of any person, it may, where it considers appropriate, recommend the Financial Secretary to institute an inquiry under section 16 to inquire into the matter.”;
 
     - (b) in the Schedule, in paragraph 17, by adding “, at the first sitting of the Tribunal relating to the inquiry,” after “shall determine”.
 
@@ -1190,7 +1234,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
     - (a) any person who immediately before the commencement of Part XIII of this Ordinance holds any office as a member (whether as the chairman or other member) or as a temporary member of the Insider Dealing Tribunal shall, for the purposes of the inquiry, continue to hold the same office on the same terms and conditions as if this Ordinance had not been enacted; and
 
-    - (b) the Insider Dealing Tribunal shall, for the purposes of the inquiry, continue in existence as if this Ordinance had not been enacted. Part XV of this Ordinance (Disclosure of Interests)
+    - (b) the Insider Dealing Tribunal shall, for the purposes of the inquiry, continue in existence as if this Ordinance had not been enacted.
+
+- Part XV of this Ordinance (Disclosure of Interests)
 
   - 82. The repeal of the Securities (Disclosure of Interests) Ordinance (Cap. 396) shall not affect any duty of disclosure or duty to give notification that has arisen under that Ordinance, and such duty shall be performed in accordance with that Ordinance as if this Ordinance had not been enacted, whether or not—
 
@@ -1212,7 +1258,9 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - 87. Any register (including any part of it and any index) or report that is kept or maintained under the repealed Securities (Disclosure of Interests) Ordinance immediately before the commencement of Part XV of this Ordinance shall, upon such commencement, be regarded as kept under this Ordinance and, subject to section 88, the relevant provisions of this Ordinance relating to the keeping and inspection of such register or report (as the case may be) shall apply, and the penalty for non-compliance with such provisions may be imposed, accordingly.
 
-  - 88. Where a register (including any part of it and any index) or report is kept or maintained under the repealed Securities (Disclosure of Interests) Ordinance immediately before the commencement of Part XV of this Ordinance, and such register or report is required to be kept, or any entry of such register is not to be removed, under that Ordinance until the elapse of 6 years, the 6-year period shall be computed in accordance with the relevant provisions of that Ordinance as if this Ordinance had not been enacted. General
+  - 88. Where a register (including any part of it and any index) or report is kept or maintained under the repealed Securities (Disclosure of Interests) Ordinance immediately before the commencement of Part XV of this Ordinance, and such register or report is required to be kept, or any entry of such register is not to be removed, under that Ordinance until the elapse of 6 years, the 6-year period shall be computed in accordance with the relevant provisions of that Ordinance as if this Ordinance had not been enacted.
+
+- General
 
   - 89. Where any rules have been published in the Gazette for the purposes of section 28(2) of the Interpretation and General Clauses Ordinance (Cap. 1), as rules made by the Commission under any provision of this Ordinance, after the enactment of this Ordinance but before the commencement of Part XVI of this Ordinance, section 398(1) to (3) of this Ordinance shall for all purposes be deemed to have been complied with in relation to those rules.
 
@@ -1248,29 +1296,37 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - 93. Except as otherwise provided in this Part, any judicial proceedings commenced under, or by virtue of the performance of any function conferred by, any provision of an Ordinance repealed under section 406 of this Ordinance, and pending or otherwise not finally determined at the time of the repeal of the provision may after the repeal be continued and disposed of in all respects as if this Ordinance had not been enacted.
 
+- Editorial Note:
+
+- # 1 April 2003 was the date appointed under this subsection - see L.N. 14 of 2003.
+
+- @ 1 April 2003 was the date appointed under this subsection - see L.N. 15 of 2003.
+
 - Part 2 (Omitted as spent—E.R. 2 of 2012)
 
 - Part 3 Savings and Transitional Provisions Relating to Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011
 
   - 1. Section 103(1) of this Ordinance does not apply in relation to a structured product that is the subject of—
 
-    - (a) a programme prospectus and its addenda, if any, and an issue prospectus and its addenda, if any, that, before the date of commencement** of section 18 of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), were authorized and registered under section 38D of the Companies Ordinance (Cap. 32); or
+    - (a) a programme prospectus and its addenda, if any, and an issue prospectus and its addenda, if any, that, before the date of commencement+ of section 18 of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), were authorized and registered under section 38D of the relevant Ordinance; or
 
-    - (b) in the case of a company incorporated outside Hong Kong, a programme prospectus and its addenda, if any, and an issue prospectus and its addenda, if any, that, before the date of commencement** of section 19 of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), were authorized and registered under section 342C of the Companies Ordinance (Cap. 32).
+    - (b) in the case of a company incorporated outside Hong Kong, a programme prospectus and its addenda, if any, and an issue prospectus and its addenda, if any, that, before the date of commencement+ of section 19 of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), were authorized and registered under section 342C of the relevant Ordinance.
+
+  - (Amended 28 of 2012 ss. 912 & 920)
 
   - 2. Section 1(a) ceases to have effect in relation to a structured product on the earlier of—
 
-    - (a) the earliest of the dates specified in section 8 of Part 1 of the Twenty-first Schedule to the Companies Ordinance (Cap. 32); or
+    - (a) the earliest of the dates specified in section 8 of Part 1 of the Twenty-first Schedule to the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32); or (Amended 28 of 2012 ss. 912 & 920)
 
     - (b) the day after the last date of the period specified in the issue prospectus as being the period during which the structured product is offered to the public.
 
   - 3. Section 1(b) ceases to have effect in relation to a structured product on the earlier of—
 
-    - (a) the earliest of the dates specified in section 8 of Part 2 of the Twenty-first Schedule to the Companies Ordinance (Cap. 32); or
+    - (a) the earliest of the dates specified in section 8 of Part 2 of the Twenty-first Schedule to the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32); or (Amended 28 of 2012 ss. 912 & 920)
 
     - (b) the day after the last date of the period specified in the issue prospectus as being the period during which the structured product is offered to the public.
 
-  - 4. For the period of 6 months beginning on the date of commencement** of section 14(5) of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), Part V of this Ordinance does not apply in relation to the carrying on of a business in a regulated activity if—
+  - 4. For the period of 6 months beginning on the date of commencement+ of section 14(5) of the Securities and Futures and Companies Legislation (Structured Products Amendment) Ordinance 2011 (8 of 2011), Part V of this Ordinance does not apply in relation to the carrying on of a business in a regulated activity if—
 
     - (a) the business was carried on immediately before that date; and
 
@@ -1278,26 +1334,28 @@ Savings, Transitional, Consequential and Related Provisions, etc.
 
   - (Part 3 added 8 of 2011 s. 16)
 
-- Part 4 Savings and Transitional Provisions Relating to
+- Editorial Note:
 
-- Securities and Futures (Amendment)
+- + Commencement date: 13 May 2011.
 
-- Ordinance 2012
+- Part 4 Savings and Transitional Provisions Relating to Securities and Futures (Amendment) Ordinance 2012
 
-  - 1. Any application made under section 185 of this Ordinance that was pending or otherwise not finally determined before the date of commencement+ of section 40 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) may be continued and determined on or after that date as if section 40 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) had not been enacted.
+  - 1. Any application made under section 185 of this Ordinance that was pending or otherwise not finally determined before the date of commencement++ of section 40 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) may be continued and determined on or after that date as if section 40 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) had not been enacted.
 
-  - 2. The Commission may make an application under section 185 of this Ordinance on or after the date of commencement of section 40 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) whether the subject matter of the application arose before, on or after that date, unless an application had been made under section 185 of this Ordinance in relation to the same subject matter before that date.
+  - 2. The Commission may make an application under section 185 of this Ordinance on or after the date of commencement++ of section 40 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) whether the subject matter of the application arose before, on or after that date, unless an application had been made under section 185 of this Ordinance in relation to the same subject matter before that date.
 
-  - 3. Any proceedings instituted under section 252 of this Ordinance that were pending or otherwise not finally determined before the date of commencement+ of Part 3 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) may be continued and determined on or after that date as if Part 3 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) had not been enacted.
+  - 3. Any proceedings instituted under section 252 of this Ordinance that were pending or otherwise not finally determined before the date of commencement++ of Part 3 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) may be continued and determined on or after that date as if Part 3 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) had not been enacted.
 
-  - 4. The Commission may institute proceedings under section 252 of this Ordinance on or after the date of commencement of Part 3 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) whether the subject matter of the proceedings arose before, on or after that date, unless proceedings had been instituted under section 252 of this Ordinance in relation to the same subject matter before that date. (Part 4 added 9 of 2012 s. 48) (Format changes—E.R. 2 of 2012)
+  - 4. The Commission may institute proceedings under section 252 of this Ordinance on or after the date of commencement++ of Part 3 of the Securities and Futures (Amendment) Ordinance 2012 (9 of 2012) whether the subject matter of the proceedings arose before, on or after that date, unless proceedings had been instituted under section 252 of this Ordinance in relation to the same subject matter before that date. (Part 4 added 9 of 2012 s. 48)
 
-Editorial Note:
+- Editorial Note:
 
-* 1 April 2003 was the day appointed under this subsection - see L.N. 14 of 2003.
+- ++ Commencement date: 4 May 2012.
 
-\#1 April 2003 was the day appointed under this subsection - see L.N. 15 of 2003.
+- Part 5 Savings and Transitional Provisions Relating to Consequential Amendments to Securities and Futures Ordinance (Cap. 571) made by Companies Ordinance (Cap. 622)
 
-** Commencement date: 13 May 2011.
+  - 1. During the period during which section 128(3) and section 129(3) of the relevant Ordinance have a continuing effect under Schedule 11 to the Companies Ordinance (Cap. 622) in relation to accounts of a corporation, section 332(5), despite its repeal, continues to apply to a report prepared under section 332, in relation to any information of that corporation.
 
-+ Commencement date: 4 May 2012.
+  - 2. During the period during which section 128(3) and section 129(3) of the relevant Ordinance have a continuing effect under Schedule 11 to the Companies Ordinance (Cap. 622) in relation to accounts of a corporation, section 336(11), despite its repeal, continues to apply to a register of interests in shares and short positions or an index of the names recorded in the register, in relation to any information of that corporation. Section 336(10)(b) is subject to section 336(11) during the period during which section 336(11) so continues to apply.
+
+  - 3. During the period during which section 128(3) and section 129(3) of the relevant Ordinance have a continuing effect under Schedule 11 to the Companies Ordinance (Cap. 622) in relation to accounts of a corporation, section 352(12), despite its repeal, continues to apply to a register of directors’ and chief executives’ interests and short positions or an index of the names recorded in the register, in relation to any information of that corporation. Section 352(11)(b) is subject to section 352(12) during the period during which section 352(12) so continues to apply. (Part 5 added 28 of 2012 ss. 912 & 920)

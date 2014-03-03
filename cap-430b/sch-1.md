@@ -4,7 +4,7 @@
 
 SERVICES TO BE PROVIDED BY THE TRADING FUND
 
-- 1. Administering and enforcing the provisions of the Companies Ordinance (Cap. 32), including facilitating the incorporation of new companies and maintaining registers of companies and charges.
+- 1. Administering and enforcing the provisions of the Companies Ordinance (Cap. 622) and the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), including facilitating the incorporation of new companies and maintaining registers of companies and charges. (28 of 2012 ss. 912 & 920)
 
 - 2. Administering and enforcing the provisions of the Limited Partnerships Ordinance (Cap. 37), including maintaining the register of limited partnerships.
 
@@ -20,9 +20,7 @@ SERVICES TO BE PROVIDED BY THE TRADING FUND
 
   - (a) providing the service of the Registrar of Companies as an ex officio member of the Council; and
 
-  - (b) making contributions, whether in cash or in kind, to sponsor the performance by the Council of any of its functions.
-
-- (18 of 2006 s. 82)
+  - (b) making contributions, whether in cash or in kind, to sponsor the performance by the Council of any of its functions. (18 of 2006 s. 82)
 
 - 7. Any service that the Registrar of Companies may be authorized to provide under or by virtue of any other Ordinance.
 

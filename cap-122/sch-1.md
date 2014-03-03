@@ -16,7 +16,7 @@ Item | Accounts/Funds | Responsible public officer | Statutory provisions under 
 
 5. | Labour Tribunal Suitors’ Funds | Registrar of the Labour Tribunal | Rule 5 of the Labour Tribunal (Suitors’ Funds) Rules (Cap. 25 sub. leg. D).
 
-6. | Companies Liquidation Account | Official Receiver | Section 293(1) of the Companies Ordinance (Cap. 32).
+6. | Companies Liquidation Account | Official Receiver | Section 293(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (Amended 28 of 2012 ss. 912 & 920)
 
 7. | Independent Commission Against Corruption Welfare Fund | Commissioner of the Independent Commission Against Corruption | Section 17A of the Independent Commission Against Corruption Ordinance (Cap. 204).
 

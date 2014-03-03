@@ -406,7 +406,7 @@ Election Committee
 
   - and which publish their annual reports and audited accounts or certified accounts with regard to annual income and expenditure.
 
-  - (4) Non-profit making companies registered under the Companies Ordinance (Cap. 32) that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter—
+  - (4) Non-profit making companies registered under the Companies Ordinance (Cap. 622), or a former Companies Ordinance as defined by section 2(1) of the Companies Ordinance (Cap. 622), that have been operating with paid employees to provide service on a regular basis in accordance with the following aims for a period of 12 months immediately before making the application for registration as a voter— (Amended 28 of 2012 ss. 912 & 920)
 
   - (a) to promote the co-ordination and improvement of social service activities;
 
