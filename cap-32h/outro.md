@@ -20,11 +20,11 @@ PETITION
 
 (Title)
 
-To the High Court of Hong Kong. The humble petition of (a) showeth as follows— 1. The Company, Limited (hereinafter called the company), was in the month of , incorporated under the *Companies Ordinance 1865 (1 of 1865)/*Companies Ordinance 1911 (58 of 1911)/*Companies Ordinance (Chapter 32)/*Companies Ordinance (Cap. 622). (*delete the inapplicable words). 2. The registered office of the company is at (b) 3. The share capital of the company is divided into shares. The amount of the capital paid up or credited as paid up is $ 4. The objects for which the company was established are as follows— To and other objects set forth in the articles of association thereof. [Here set out in paragraphs the facts on which the petitioner relies, and conclude as follows]:— Your petitioner therefore humbly prays as follows— (1) That the Company, Limited, may be wound up by the court under the provisions of the Companies (Winding Up and Miscellaneous Provisions) Ordinance. (2) Or that such other order may be made in the premises as shall be just. | (a) Insert full name, title, etc., of petitioner. (b) State the full address of the registered office so as sufficiently to show where it is situate.
+To the High Court of Hong Kong. The humble petition of (a) showeth as follows— 1. The Company, Limited (hereinafter called the company), was in the month of , incorporated under the *Companies Ordinance 1865 (1 of 1865)/*Companies Ordinance 1911 (58 of 1911)/*Companies Ordinance (Chapter 32)/*Companies Ordinance (Cap. 622). (*delete the inapplicable words). 2. The registered office of the company is at (b) 3. The share capital of the company is divided into shares. The amount of the capital paid up or credited as paid up is $ 4. The objects for which the company was established are as follows— To and other objects set forth in the articles of association thereof. [Here set out in paragraphs the facts on which the petitioner relies, and conclude as follows]:— Your petitioner therefore humbly prays as follows— (1) That the Company, Limited, may be wound up by the court under the provisions of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (2) Or that such other order may be made in the premises as shall be just. | (a) Insert full name, title, etc., of petitioner. (b) State the full address of the registered office so as sufficiently to show where it is situate.
 
 NOTE-(d) It is intended to serve this petition on. | (d) This note will be unnecessary if the Company is petitioner.
 
-(L.N. 201 of 1984; 25 of 1998 s. 2; 28 of 2012 ss. 912 & 920)
+(L.N. 201 of 1984; 25 of 1998 s. 2; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014)
 
 _
 
@@ -1522,7 +1522,7 @@ AFFIDAVIT OF SERVICE OF ORDER FOR PAYMENT OF CALL
 
 - PROOF OF DEBT-GENERAL FORM IN THE HIGH COURT OF HONG KONG COMPANIES WINDING-UP No. of 19
 
-- Except in the case of claims for wages or salary, where the debt proved for exceeds $250 a fee of $15 must be paid hereon otherwise the proof cannot be admitted. | IN THE MATTER of the Companies (Winding Up and Miscellaneous Provisions) Ordinance
+- Except in the case of claims for wages or salary, where the debt proved for exceeds $250 a fee of $15 must be paid hereon otherwise the proof cannot be admitted. | IN THE MATTER of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32)
 
 - and
 
@@ -1558,13 +1558,13 @@ AFFIDAVIT OF SERVICE OF ORDER FOR PAYMENT OF CALL
 
 - Note: The proof cannot be admitted for voting at the first meeting unless it is properly completed and lodged with the liquidator not later than 24 hours before the time specified in the notice convening the meeting.
 
-- (L.N. 225 of 1992; L.N. 306 of 1996; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920)
+- (L.N. 225 of 1992; L.N. 306 of 1996; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014)
 
 - _
 
 - FORM 63B | [rule 83]
 
-- AFFIDAVIT OF DEBT IN THE HIGH COURT OF HONG KONG COMPANIES WINDING-UP No. of 19 IN THE MATTER of the Companies (Winding Up and Miscellaneous Provisions) Ordinance and
+- AFFIDAVIT OF DEBT IN THE HIGH COURT OF HONG KONG COMPANIES WINDING-UP No. of 19 IN THE MATTER of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) and
 
 - IN THE MATTER of
 
@@ -1590,7 +1590,7 @@ AFFIDAVIT OF SERVICE OF ORDER FOR PAYMENT OF CALL
 
 - To be returned to the provisional liquidator or, if a liquidator has been appointed, to the liquidator.
 
-- (L.N. 225 of 1992; L.N. 306 of 1996; 47 of 1997 s. 10; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920)
+- (L.N. 225 of 1992; L.N. 306 of 1996; 47 of 1997 s. 10; 25 of 1998 s. 2; 46 of 2000 s. 40; 28 of 2012 ss. 912 & 920; E.R. 1 of 2014)
 
 _
 
