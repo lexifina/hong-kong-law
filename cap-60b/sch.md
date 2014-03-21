@@ -42,17 +42,17 @@ Item | $
 
 7. | (Repealed L.N. 484 of 1996)
 
-8. | Issue of a certificate of accuracy of any copy of, or extract from, official records, except where an appropriate fee is prescribed in any other enactment (L.N. 160 of 1992) . | 300
+8. | Issue of a certificate of accuracy of any copy of, or extract from, official records, except where an appropriate fee is prescribed in any other enactment (L.N. 160 of 1992; L.N. 5 of 2014) . | 135
 
 9. | Issue of any copy of official records of statistical data derived or extracted from import and export declarations, such fee being calculated at per sheet or part thereof (L.N. 160 of 1992; L.N. 19 of 2008) . | 16
 
 10. | Issue of any statistical data, other than copies of official records, derived from import and export declarations, such fee being calculated according to the actual work done including all overheads charges . | Fee as calculated
 
-10A. | Issue of a delivery verification certificate for the certification of delivery of strategic commodities into Hong Kong (L.N. 259 of 1985; L.N. 160 of 1992; L.N. 19 of 2008; L.N. 16 of 2012; L.N. 3 of 2013) . | 285
+10A. | Issue of a delivery verification certificate for the certification of delivery of strategic commodities into Hong Kong (L.N. 259 of 1985; L.N. 160 of 1992; L.N. 19 of 2008; L.N. 16 of 2012; L.N. 3 of 2013; L.N. 5 of 2014) . | 315
 
 10B. | Issue of a certified copy of import declaration or export declaration or manifest (L.N. 106 of 1990; L.N. 160 of 1992; L.N. 19 of 2008) . | 235
 
-10C. | Issue of an international import certificate (L.N. 160 of 1992; L.N. 19 of 2008; L.N. 16 of 2012; L.N. 3 of 2013) . | 96
+10C. | Issue of an international import certificate (L.N. 160 of 1992; L.N. 19 of 2008; L.N. 16 of 2012; L.N. 3 of 2013; L.N. 5 of 2014) . | 105
 
 11. | (Repealed L.N. 484 of 1996)
 
