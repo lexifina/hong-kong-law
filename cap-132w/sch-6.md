@@ -96,7 +96,11 @@ ITEMS EXEMPT FROM PART 1 OF SCHEDULE 5
 
     - (2) Any importer or manufacturer of a prepackaged food may apply to the Authority for exemption under subsection (1) in such manner as the Authority may determine.
 
-    - (3) An applicant for exemption shall pay to the Authority $345 upon approval of the application.
+    - (3) On the approval of an application made under subsection (2), the following is payable by the applicant to the Authority—
+
+      - (a) if the application is made electronically by means of an online communication system provided by the Authority for the purpose, $265; or
+
+      - (b) if the application is made in any other manner, $345. (L.N. 3 of 2014)
 
     - (4) The Authority may—
 
@@ -124,7 +128,11 @@ ITEMS EXEMPT FROM PART 1 OF SCHEDULE 5
 
     - (2) A person to whom an exemption has been granted may, before the expiration of the exemption, apply to the Authority for renewal of the exemption in such manner as the Authority may determine.
 
-    - (3) An applicant for renewal shall pay to the Authority $335 upon approval of the application.
+    - (3) On the approval of an application made under subsection (2), the following is payable by the applicant to the Authority—
+
+      - (a) if the application is made electronically by means of an online communication system provided by the Authority for the purpose, $250; or
+
+      - (b) if the application is made in any other manner, $335. (L.N. 3 of 2014)
 
     - (4) A renewal under subsection (1) takes effect—
 
