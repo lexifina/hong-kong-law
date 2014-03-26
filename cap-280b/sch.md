@@ -18,4 +18,4 @@
 
 - 9. Those portions of the buildings known as Dormitories 7A and 7B in the Lai King Correctional Institution situated at 16 Wa Tai Road, Kwai Chung, New Territories. (L.N. 53 of 2008)
 
-- 10. The place and buildings situated at 35 Shek Pik Reservoir Road, Lantau Island, except those parts of the buildings that are known as Blocks A, B and F. (L.N. 56 of 2009)
+- 10. (Repealed L.N. 10 of 2014)
