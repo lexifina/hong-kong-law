@@ -36,7 +36,7 @@
 
 - 17. The second and third floors of Ngau Tau Kok Municipal Services Building, 183 Ngau Tau Kok Road, Kowloon. (L.N. 145 of 2008)
 
-- 18. Units No. 1 to 6, ground floor, Commercial Centre, Pak Tin Estate, Kowloon.
+- 18. The seventh floor of Shek Kip Mei Estate Ancillary Facilities Block, 100 Woh Chai Street, Shek Kip Mei, Sham Shui Po, Kowloon. (L.N. 7 of 2014)
 
 - 19. (Repealed L.N. 145 of 2008)
 
