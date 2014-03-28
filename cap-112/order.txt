@@ -266,3 +266,4 @@ sch-26.md
 sch-27.md
 sch-28.md
 sch-29.md
+sch-30.md
