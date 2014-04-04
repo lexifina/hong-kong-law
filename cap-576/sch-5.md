@@ -1,8 +1,14 @@
 # Schedule 5
 
-[s. 69]
+(Repealed 5 of 2014 s. 17)
 
-Transitional Provisions Relating to Village Representative Election Legislation (Miscellaneous Amendments) Ordinance 2009
+(According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
+
+- (a) for all purposes relating to the elections of Resident Representatives, Indigenous Inhabitant Representatives and Kaifong Representatives in 2015—the Amendment Ordinance comes into operation on 4 April 2014; and
+
+- (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
+
+[s. 69]
 
 - 1.
 

@@ -1,7 +1,17 @@
-VILLAGE REPRESENTATIVE ELECTION (REGISTRATION OF ELECTORS) (APPEALS) REGULATION
+RURAL REPRESENTATIVE ELECTION (REGISTRATION OF ELECTORS) (APPEALS) REGULATION
+
+(According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
+
+- (a) for all purposes relating to the elections of Resident Representatives, Indigenous Inhabitant Representatives and Kaifong Representatives in 2015—the Amendment Ordinance comes into operation on 4 April 2014; and
+
+- (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
 
 (Made under section 65 of the Village Representative Election
 
 Ordinance (2 of 2003))
 
 [21 February 2003]
+
+Editorial Note:
+
+The title of this Regulation was amended from “Village Representative Election (Registration of Electors) (Appeals) Regulation” to “Rural Representative Election (Registration of Electors) (Appeals) Regulation” — see 5 of 2014 s. 74.

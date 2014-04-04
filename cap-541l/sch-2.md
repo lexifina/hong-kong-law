@@ -2,15 +2,21 @@
 
 [s. 67]
 
-FORMS FOR THE NOTICE OF RESULT OF ELECTION UNDER SECTION 36 OF THE VILLAGE REPRESENTATIVE ELECTION ORDINANCE (Cap. 576)
+FORMS FOR THE NOTICE OF RESULT OF ELECTION UNDER SECTION 36 OF THE RURAL REPRESENTATIVE ELECTION ORDINANCE (Cap. 576)#
+
+(According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
+
+- (a) for all purposes relating to the elections of Resident Representatives, Indigenous Inhabitant Representatives and Kaifong Representatives in 2015—the Amendment Ordinance comes into operation on 4 April 2014; and
+
+- (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
 
 FORM 1 NOTICE OF RESULT OF ELECTION FOR AN EXISTING VILLAGE
 
-《選舉程序(村代表選舉)規例》 ELECTORAL PROCEDURE (VILLAGE REPRESENTATIVE ELECTION) REGULATION
+《選舉程序(鄉郊代表選舉)規例》 ELECTORAL PROCEDURE (RURAL REPRESENTATIVE ELECTION) REGULATION
 
 選舉結果公告 NOTICE OF RESULT OF ELECTION
 
-* 鄉村一般選舉/鄉村補選 現有鄉村居民代表選舉 *(鄉村名稱) *VILLAGE ORDINARY ELECTION/VILLAGE BY-ELECTION ELECTION OF RESIDENT REPRESENTATIVE FOR EXISTING VILLAGE *(NAME OF VILLAGE)
+* 鄉郊一般選舉/鄉郊補選 現有鄉村居民代表選舉 *(鄉村名稱) *RURAL ORDINARY ELECTION/RURAL BY-ELECTION ELECTION OF RESIDENT REPRESENTATIVE FOR EXISTING VILLAGE *(NAME OF VILLAGE)
 
 1. | 於 * 年 月 日舉行的上述選舉的結果公布如下—— The following is a statement of the result of the above election held on *(date)—
 
@@ -24,15 +30,17 @@ FORM 1 NOTICE OF RESULT OF ELECTION FOR AN EXISTING VILLAGE
 
 * Only the appropriate information will be printed.
 
+(5 of 2014 s. 2)
+
 FORM 2 NOTICE OF RESULT OF ELECTION FOR AN
 
 INDIGENOUS VILLAGE
 
-《選舉程序(村代表選舉)規例》 ELECTORAL PROCEDURE (VILLAGE REPRESENTATIVE ELECTION) REGULATION
+《選舉程序(鄉郊代表選舉)規例》 ELECTORAL PROCEDURE (RURAL REPRESENTATIVE ELECTION) REGULATION
 
 選舉結果公告 NOTICE OF RESULT OF ELECTION
 
-* 鄉村一般選舉/鄉村補選 原居鄉村原居民代表選舉 *(鄉村名稱) *VILLAGE ORDINARY ELECTION/VILLAGE BY-ELECTION ELECTION OF INDIGENOUS INHABITANT REPRESENTATIVE FOR INDIGENOUS VILLAGE *(NAME OF VILLAGE)
+* 鄉郊一般選舉/鄉郊補選 原居鄉村原居民代表選舉 *(鄉村名稱) *RURAL ORDINARY ELECTION/RURAL BY-ELECTION ELECTION OF INDIGENOUS INHABITANT REPRESENTATIVE FOR INDIGENOUS VILLAGE *(NAME OF VILLAGE)
 
 1. | 於 * 年 月 日舉行的上述選舉的結果公布如下—— The following is a statement of the result of the above election held on *(date)—
 
@@ -46,17 +54,17 @@ INDIGENOUS VILLAGE
 
 * Only the appropriate information will be printed.
 
-(L.N. 29 of 2004)
+(L.N. 29 of 2004; 5 of 2014 s. 2)
 
 FORM 3 NOTICE OF RESULT OF ELECTION FOR A COMPOSITE
 
 INDIGENOUS VILLAGE
 
-《選舉程序(村代表選舉)規例》 ELECTORAL PROCEDURE (VILLAGE REPRESENTATIVE ELECTION) REGULATION
+《選舉程序(鄉郊代表選舉)規例》 ELECTORAL PROCEDURE (RURAL REPRESENTATIVE ELECTION) REGULATION
 
 選舉結果公告 NOTICE OF RESULT OF ELECTION
 
-* 鄉村一般選舉/鄉村補選 共有代表鄉村原居民代表選舉 *(鄉村名稱) *VILLAGE ORDINARY ELECTION/VILLAGE BY-ELECTION ELECTION OF INDIGENOUS INHABITANT REPRESENTATIVE FOR COMPOSITE INDIGENOUS VILLAGE *(NAME OF VILLAGE)
+* 鄉郊一般選舉/鄉郊補選 共有代表鄉村原居民代表選舉 *(鄉村名稱) *RURAL ORDINARY ELECTION/RURAL BY-ELECTION ELECTION OF INDIGENOUS INHABITANT REPRESENTATIVE FOR COMPOSITE INDIGENOUS VILLAGE *(NAME OF VILLAGE)
 
 1. | 於 * 年 月 日舉行的上述選舉的結果公布如下—— The following is a statement of the result of the above election held on *(date)—
 
@@ -69,3 +77,31 @@ INDIGENOUS VILLAGE
 *(日期) *(date) | *(選舉主任姓名) *(鄉村名稱)選舉主任 *(Name of Returning Officer) Returning Officer for *(Name of Village)
 
 * Only the appropriate information will be printed.
+
+(5 of 2014 s. 2)
+
+FORM 4
+
+NOTICE OF RESULT OF ELECTION FOR A MARKET TOWN
+
+《選舉程序(鄉郊代表選舉)規例》 ELECTORAL PROCEDURE (RURAL REPRESENTATIVE ELECTION) REGULATION 選舉結果公告 NOTICE OF RESULT OF ELECTION *鄉郊一般選舉╱鄉郊補選 墟鎮街坊代表選舉 *(墟鎮名稱) *RURAL ORDINARY ELECTION/RURAL BY-ELECTION ELECTION OF KAIFONG REPRESENTATIVE FOR MARKET TOWN *(NAME OF MARKET TOWN)
+
+1. | 於* 年 月 日舉行的上述選舉的結果公布如下—— The following is a statement of the result of the above election held on *(date)—
+
+候選人編號 Candidate Number | 候選人姓名 Name of Candidate | 所得票數 Number of Votes Given to the Candidate
+
+2. | 特此公布下列候選人*(依據以抽籤方式決定的選舉結果)當選為上述墟鎮的街坊代表—— It is hereby notified that the following *candidate(s) *is/are declared to be elected as a Kaifong Representative for the above-mentioned Market Town *(pursuant to a result determined by drawing lots)—
+
+候選人編號 Candidate Number | 當選的候選人姓名 Name of Candidate Elected
+
+*(日期) *(date) | *(選舉主任姓名) *(墟鎮名稱)選舉主任 *(Name of Returning Officer) Returning Officer for *(Name of Market Town)
+
+* 只會印上適當的資料。
+
+* Only the appropriate information will be printed.
+
+(5 of 2014 s. 59)
+
+Editorial Note:
+
+\# (5 of 2014 s. 2)
