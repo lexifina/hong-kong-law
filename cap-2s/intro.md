@@ -28,6 +28,12 @@ Resolved that—
 
 - (ii) investing in the manner the Financial Secretary considers appropriate for the prudent management of the Fund, and paying the expenses incurred in relation to the investments;
 
+(ea) for sums borrowed in the manner mentioned in section 2A of the Loans Ordinance (Cap. 61), the power under paragraph (e) includes—
+
+- (i) paying the sums referred to in subsection (1)(e) of that section; and
+
+- (ii) paying the expenses incurred in relation to the borrowing; (7 of 2014 s. 7)
+
 (f) the Director of Accounting Services, under the authority of a funds warrant issued by the Financial Secretary, is to pay from the Fund any sums that may be required to meet expenditures from the Fund; and
 
 (g) the Financial Secretary may transfer from the Fund to the general revenue the balance held in the Fund, if so approved by the Legislative Council, when all financial obligations and liabilities are met in relation to any sums that have been borrowed under section 3 of the Loans Ordinance (Cap. 61) for the purposes of the Fund.

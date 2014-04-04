@@ -1,6 +1,6 @@
 # Schedule 17A
 
-[ss. 5B(7), 14A(6), 15(3A), 16(4A), 20AC(7), 26A(4), 40AB, 51C(5), 60(4), 64(11), 79(4), 80(6) & 82A(8) & Schs. 6, 16 & 29]
+[ss. 5B(7), 14A(6), 15(3A), 16(4A), 20AC(7), 26A(2) & (4), 40AB, 51C(5), 60(4), 64(11), 79(4), 80(6) & 82A(8) & Schs. 6, 16 & 29] (Amended 7 of 2014 s. 9)
 
 Specified Alternative Bond Scheme and its Tax Treatment
 
