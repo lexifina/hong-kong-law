@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
-[s. 4 & 3rd Sch.] (Amended 13 of 2013 s. 40)
+[s. 4 & Sch. 3] (Amended 13 of 2013 s. 40; E.R. 2 of 2014)
 
-AUTHORIZED INVESTMENTS
+Authorized Investments
 
 - 1. Subject to paragraph 7A, any shares or debentures which are issued or allotted by a company and which satisfy the following conditions at the date the investment is made— (Amended 13 of 2013 s. 40)
 
@@ -38,7 +38,7 @@ AUTHORIZED INVESTMENTS
 
 - 5. Subject to paragraph 7A, certificates of deposit, bills of exchange, promissory notes or short-term (i.e. less than 1 year) debt securities issued or guaranteed by an authorized institution or by an exempted body. (Amended 13 of 2013 s. 40)
 
-- 6. Subject to paragraph 7A, first legal mortgages of any property, including an undivided share in property, which is situated in Hong Kong and held under a Government lease of which the unexpired term at the time of investment is not less than 50 years, excluding any term for which the lease can be renewed. (Amended 13 of 2013 s. 40)
+- 6. Subject to paragraph 7A, first legal mortgages of any property, including an undivided share in property, which is situated in Hong Kong and held under a Government lease of which the unexpired term at the time of investment is not less than 50 years, excluding any term for which the lease can be renewed. (Amended 29 of 1998 s. 105;13 of 2013 s. 40)
 
 - 7. Subject to paragraph 7A, any derivatives which are traded on a recognized stock market, specified stock exchange, recognized futures market or specified futures exchange as these terms are defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); except that an investment under this paragraph— (Amended 13 of 2013 s. 40)
 
@@ -52,23 +52,23 @@ AUTHORIZED INVESTMENTS
 
     - (iii) the nature and extent of the various risks of diminution in the value of the trust fund and the suitability of using derivatives to protect against those risks.
 
-- 7A. Paragraphs 1, 2, 4, 5, 6 and 7 do not include any structured product as defined by section 1A of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571). (Added 13 of 2013 s. 40)
-
 - (Amended 5 of 2002 s. 407)
+
+- 7A. Paragraphs 1, 2, 4, 5, 6 and 7 do not include any structured product as defined by section 1A of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571). (Added 13 of 2013 s. 40)
 
 - 8. In this Schedule—
 
-  - “authorized institution” (認可機構) has the meaning assigned to it in section 2 of the Banking Ordinance (Cap. 155);
+  - authorized institution (認可機構) has the meaning assigned to it in section 2 of the Banking Ordinance (Cap. 155);
 
-  - “bill of exchange” (匯票) and “promissory note” (承付票) have the same meanings as in the Bills of Exchange Ordinance (Cap. 19);
+  - bill of exchange (匯票) and promissory note (承付票) have the same meanings as in the Bills of Exchange Ordinance (Cap. 19);
 
-  - “certificate of deposit” (存款證) means a document relating to money, in any currency, which has been deposited with the issuer or some other person, being a document—
+  - certificate of deposit (存款證) means a document relating to money, in any currency, which has been deposited with the issuer or some other person, being a document—
 
     - (a) which recognizes an obligation to pay a stated amount to bearer or to order, with or without interest; and
 
     - (b) by the delivery of which, with or without endorsement, the right to receive that stated amount, with or without interest, is transferable;
 
-  - “company” (公司) means a body corporate—
+  - company (公司) means a body corporate—
 
     - (a) incorporated under the Companies Ordinance (Cap. 622); (Amended 28 of 2012 ss. 912 & 920)
 
@@ -78,9 +78,9 @@ AUTHORIZED INVESTMENTS
 
     - (c) incorporated or established outside Hong Kong;
 
-  - “debentures” (債權證) includes debenture stock, bonds and any other securities of a company whether or not constituting a charge on the assets of the company;
+  - debentures (債權證) includes debenture stock, bonds and any other securities of a company whether or not constituting a charge on the assets of the company;
 
-  - “debt security” (債務證券) means—
+  - debt security (債務證券) means—
 
     - (a) debenture or loan stock;
 
@@ -90,22 +90,20 @@ AUTHORIZED INVESTMENTS
 
     - (d) convertible loan stock;
 
-  - “derivative” (衍生工具) means any right in or to a financial contract or financial instrument the value of which is determined by reference to the value of or any fluctuation in the value of a share, index, rate of exchange or rate of interest either individually or in the aggregate;
+  - derivative (衍生工具) means any right in or to a financial contract or financial instrument the value of which is determined by reference to the value of or any fluctuation in the value of a share, index, rate of exchange or rate of interest either individually or in the aggregate;
 
-  - “exempted body” (豁免團體) means a body specified in Part 3 of Schedule 4 to the Securities and Futures Ordinance (Cap. 571) but does not include a body referred to in item 11 of that Part; (Replaced 5 of 2002 s. 407)
+  - exempted body (豁免團體) means a body specified in Part 3 of Schedule 4 to the Securities and Futures Ordinance (Cap. 571) but does not include a body referred to in item 11 of that Part; (Replaced 5 of 2002 s. 407)
 
-  - “shares” (股份) means shares in the capital of a company and includes the stock or any part of the stock of a company;
+  - shares (股份) means shares in the capital of a company and includes the stock or any part of the stock of a company;
 
 - (Amended 5 of 2002 s. 407)
 
-- TABLE CREDIT RATINGS
+Table Credit Ratings
 
-- (a) | For long-term debt (one year or over)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | A3 A—
+(a) | For long-term debt (one year or over)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | A3 A-
 
-- or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
+or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
 
-- (b) | For short-term debt (less than one year)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | Prime-1 A-1
+(b) | For short-term debt (less than one year)— Given by Moody’s Investors Service Inc. Standard & Poor’s Corporation | Prime-1 A-1
 
-- or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002)
-
-- (Second Schedule replaced L.N. 177 of 1995)
+or an equivalent rating given by any recognized credit rating agency approved by the Secretary for Financial Services and the Treasury. (Amended L.N. 106 of 2002) (Schedule 2 replaced L.N. 177 of 1995)

@@ -1,10 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 105]
 
-FEES TO BE PAID BY TRUST COMPANIES TO THE REGISTRAR OF COMPANIES
+Fees to be paid by Trust Companies to the Registrar of Companies
 
-1. | On application for registration under section 77 . | $11,250
+1. | On application for registration under section 77. | $11,250
 
 2. | For certification of registration under section 78 (Replaced L.N. 14 of 1996) . | $840
 
