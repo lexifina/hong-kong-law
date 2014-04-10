@@ -1,7 +1,7 @@
 CENSUS AND STATISTICS (QUARTERLY SURVEY OF SERVICE INDUSTRIES) ORDER
 
-(Made under section 11 of the Census and Statistics
+(Cap. 316, section 11)
 
-Ordinance (Cap. 316))
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [25 February 1994]

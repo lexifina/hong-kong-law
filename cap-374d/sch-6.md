@@ -1,8 +1,10 @@
-# SCHEDULE 6
+# Schedule 6
 
 [reg. 50(2)]
 
-COLOURS OF DESTINATION INDICATORS ON PUBLIC LIGHT BUSES
+Colours of Destination Indicators on Public Light Buses
+
+(Format changes—E.R. 2 of 2014)
 
 - 1. Any route on Hong Kong Island (other than a cross-harbour route)— White letters and characters on a dark blue background.
 

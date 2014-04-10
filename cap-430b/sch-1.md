@@ -8,7 +8,7 @@ SERVICES TO BE PROVIDED BY THE TRADING FUND
 
 - 2. Administering and enforcing the provisions of the Limited Partnerships Ordinance (Cap. 37), including maintaining the register of limited partnerships.
 
-- 3. Administering and enforcing the provisions of Part VIII of the Trustee Ordinance (Cap. 29), including maintaining the Register of Trust Companies.
+- 3. Administering and enforcing the provisions of Part 8 of the Trustee Ordinance (Cap. 29), including maintaining the Register of Trust Companies. (E.R. 2 of 2014)
 
 - 4. Administering and enforcing the provisions of the Registered Trustees Incorporation Ordinance (Cap. 306), including maintaining the register of incorporated trustees.
 

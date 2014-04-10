@@ -2,4 +2,4 @@ An Ordinance to provide for the incorporation of the local representative in Hon
 
 [17 December 1999]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

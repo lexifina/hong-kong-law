@@ -1,11 +1,9 @@
 United Nations Sanctions (Côte d’Ivoire) Regulation 2013
 
-(Made by the Chief Executive under section 3 of the United Nations
+(This Regulation expired at midnight on 30 April 2014.)
 
-Sanctions Ordinance (Cap. 537) on the instruction of the Ministry of
+(Cap. 537, section 3)
 
-Foreign Affairs of the People’s Republic of China and after
-
-consultation with the Executive Council)
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [12 July 2013]

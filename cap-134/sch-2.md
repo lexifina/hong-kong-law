@@ -1,8 +1,8 @@
-# SECOND SCHEDULE
+# Second Schedule
 
 [ss. 2, 50 & 52] (Amended L.N. 59 of 1999)
 
-PRESCRIBED HOSPITALS AND INSTITUTIONS, OTHER THAN HOSPITALS MAINTAINED BY THE GOVERNMENT AND MILITARY HOSPITALS*
+Prescribed Hospitals and Institutions, other than Hospitals Maintained by the Government and Military Hospitals*
 
 Alice Ho Miu Ling Nethersole Hospital (雅麗氏何妙齡那打素醫院)
 
@@ -212,7 +212,7 @@ Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (�
 
 Yuen Yuen Nursing Home (Sau Mau Ping Estate) (圓玄護養院(秀茂坪邨))
 
-(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010; L.N. 101 of 2013)
+(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010; L.N. 101 of 2013) (Format changes—E.R. 2 of 2014)
 
 Editorial Note:
 

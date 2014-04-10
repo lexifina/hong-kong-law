@@ -1,9 +1,9 @@
-SECURITIES AND FUTURES (DISCLOSURE OF INTERESTS—EXCLUSIONS) REGULATION
+Securities and Futures (Disclosure of Interests—Exclusions) Regulation
 
-(Made by the Chief Executive in Council under
+(Cap. 571, section 376(1))
 
-section 376(1) of the Securities and
-
-Futures Ordinance (Cap. 571))
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [1 April 2003] L.N. 12 of 2003
+
+(Format changes—E.R. 2 of 2014)

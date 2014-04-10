@@ -1,8 +1,8 @@
-# FOURTH SCHEDULE
+# Fourth Schedule
 
 [ss. 49A & 49I]
 
-REPORTING AGENCIES
+Reporting Agencies
 
 (For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
 
@@ -148,4 +148,4 @@ REPORTING AGENCIES
 
 - 66. Yang Memorial Methodist Social Service
 
-- 67. Zion Social Service Limited (Fourth Schedule replaced L.N. 36 of 2005)
+- 67. Zion Social Service Limited (Fourth Schedule replaced L.N. 36 of 2005) (Format changes—E.R. 2 of 2014)

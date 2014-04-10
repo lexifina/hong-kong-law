@@ -1,9 +1,7 @@
 Air Pollution Control (Air Pollutant Emission) (Controlled Vehicles) Regulation
 
-(Made by the Secretary for the Environment under section 43 of the
+(Cap. 311, section 43)
 
-Air Pollution Control Ordinance (Cap. 311) after consultation
-
-with the Advisory Council on the Environment)
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [1 February 2014]

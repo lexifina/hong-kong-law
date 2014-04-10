@@ -2,4 +2,6 @@ An Ordinance to provide for the release under supervision of certain categories 
 
 [30 November 1996] L.N. 506 of 1996
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2014)
+
+(Format changes—E.R. 2 of 2014)

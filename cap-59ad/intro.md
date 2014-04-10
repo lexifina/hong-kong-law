@@ -1,9 +1,9 @@
-FACTORIES AND INDUSTRIAL UNDERTAKINGS (ASBESTOS) REGULATION
+Factories and Industrial Undertakings (Asbestos) Regulation
 
-(Made under section 7 of the Factories and Industrial
+(Cap. 59, section 7)
 
-Undertakings Ordinance (Cap. 59) subject to the
-
-approval of the Legislative Council)
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [1 September 1997] L.N. 429 of 1997
+
+(Format changes—E.R. 2 of 2014)

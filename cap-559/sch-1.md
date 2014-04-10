@@ -1,12 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2 & 92]
 
-PARIS CONVENTION COUNTRIES AND WTO MEMBERS
+Paris Convention Countries and WTO Members
 
-Countries which have acceded to
-
-the Paris Convention
+Countries which have acceded to the Paris Convention
 
 The Republic of Albania
 
@@ -356,11 +354,7 @@ The Republic of Zambia
 
 The Republic of Zimbabwe
 
-Countries, territories and areas
-
-which have acceded to the World
-
-Trade Organization Agreement
+Countries, territories and areas which have acceded to the World Trade Organization Agreement
 
 The Republic of Albania
 
@@ -676,4 +670,4 @@ The Republic of Zambia
 
 The Republic of Zimbabwe
 
-(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009; L.N. 64 of 2013)
+(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009; L.N. 64 of 2013) (Format changes—E.R. 2 of 2014)

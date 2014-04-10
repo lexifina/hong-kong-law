@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-JUDICIAL OFFICE
+Judicial Office
 
 Chief Justice (Added 79 of 1995 s. 50)
 

@@ -1,8 +1,10 @@
-# SCHEDULE 12
+# Twelfth Schedule
 
 [s. 105A]
 
-STADIA
+Stadia
+
+(Format changes—E.R. 2 of 2014)
 
 Hong Kong Stadium
 

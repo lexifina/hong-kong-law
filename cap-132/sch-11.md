@@ -1,8 +1,10 @@
-# SCHEDULE 11
+# Eleventh Schedule
 
 [ss. 92A & 124L] (Amended 78 of 1999 s. 7)
 
-LICENSED ACTIVITIES
+Licensed Activities
+
+(Format changes—E.R. 2 of 2014)
 
 Billiard establishment
 

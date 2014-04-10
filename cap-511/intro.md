@@ -2,4 +2,4 @@ An Ordinance to provide for the establishment of a body to be known in the Engli
 
 [8 August 1997]
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2014)

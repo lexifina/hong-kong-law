@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2(1) & 20]
 
-HOSPITALS THE MANAGEMENT AND CONTROL OF WHICH MAY BE VESTED IN THE AUTHORITY UNDER AGREEMENTS WITH THE GOVERNMENT
+Hospitals the Management and Control of which may be Vested in the Authority under Agreements with the Government
 
 Castle Peak Hospital
 
@@ -44,4 +44,4 @@ Tuen Mun Hospital
 
 Wong Chuk Hang Hospital (Added L.N. 233 of 1995)
 
-(Amended L.N. 162 of 2002; L.N. 60 of 2006)
+(Amended L.N. 162 of 2002; L.N. 60 of 2006) (Format changes—E.R. 2 of 2014)

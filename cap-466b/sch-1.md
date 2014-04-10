@@ -1,14 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 3]
 
-OPERATIONS NOT REQUIRING A PERMIT
+Operations Not Requiring a Permit
 
-- 1. Disposal from an aircraft, vehicle, vessel or marine structure of sewage originating on the
+- 1. Disposal from an aircraft, vehicle, vessel or marine structure of sewage originating on the aircraft, vehicle, vessel or marine structure.
 
-- aircraft, vehicle, vessel or marine structure.
-
-- 2. Disposal from, or incineration on, an aircraft, vehicle, vessel or marine structure of garbage originating in or on the aircraft, vehicle, vessel or marine structure; and for this purpose ‘garbage’ means any kind of victual or domestic waste, but does not include bulky or industrial waste.
+- 2. Disposal from, or incineration on, an aircraft, vehicle, vessel or marine structure of garbage originating in or on the aircraft, vehicle, vessel or marine structure; and for this purpose garbage means any kind of victual or domestic waste, but does not include bulky or industrial waste.
 
 - 3. Disposal from a vessel of cooling water and of ballast water, tank washings or other residues resulting from tank cleaning or tank ballasting after carriage of a substance other than a substance deposited or incinerated under a permit.
 

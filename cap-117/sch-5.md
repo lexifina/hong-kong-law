@@ -1,8 +1,10 @@
-# SCHEDULE 5
+# Fifth Schedule
 
 [ss. 2 & 13]
 
-ADJUDICATION FEE
+Adjudication Fee
+
+(Format changes—E.R. 2 of 2014)
 
 $50
 

@@ -1,6 +1,6 @@
 An Ordinance to provide for the establishment of Lingnan University and for matters connected therewith.
 
-[30 July 1999]
+[30 July 1999] L.N. 211 of 1999
 
 Whereas—
 
@@ -10,4 +10,6 @@ Whereas—
 
 (3) in 1992 Lingnan College was established in that name as a body corporate by the Lingnan College Ordinance (Cap. 422); and
 
-(4) it is considered desirable to retitle Lingnan College as Lingnan University: NOW THEREFORE BE IT ENACTED by the Legislative Council—
+(4) it is considered desirable to retitle Lingnan College as Lingnan University:
+
+(Enacting provision omitted—E.R. 2 of 2014)

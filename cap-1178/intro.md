@@ -14,10 +14,6 @@ Preamble WHEREAS—
 
 - (e) for the better conduct of the businesses of ICBC (Asia) Group, ICBC (Asia) and Belgian Bank, it is expedient that the undertakings of Belgian Bank, Hong Kong Branch be merged into ICBC (Asia) and that such merger should occur by means of a transfer of the undertakings of Belgian Bank, Hong Kong Branch to ICBC (Asia); and
 
-- (f) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of Belgian Bank, Hong Kong Branch, it is expedient that the said undertakings be transferred to ICBC (Asia) by this Ordinance without interference with the conduct and continuity of the respective businesses of ICBC (Asia) and Belgian Bank, Hong Kong Branch.
-
-Enacted by the Legislative Council.
-
-_
+- (f) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of Belgian Bank, Hong Kong Branch, it is expedient that the said undertakings be transferred to ICBC (Asia) by this Ordinance without interference with the conduct and continuity of the respective businesses of ICBC (Asia) and Belgian Bank, Hong Kong Branch. (Enacting provision omitted—E.R. 2 of 2014)_
 
 Note: * In the Certificate of Registration of Change of Name of Oversea Company kept by the Companies Registry, there is no registered Chinese name for Belgian Bank, and in Hong Kong “華比銀行” is the Chinese trading name of “Belgian Bank”.

@@ -1,15 +1,9 @@
-ROAD TRAFFIC (TRAFFIC CONTROL) (DESIGNATION OF PROHIBITED AND RESTRICTED ZONES) NOTICE
+Road Traffic (Traffic Control) (Designation of Prohibited and Restricted Zones) Notice
 
-(Made by the Airport Authority with the approval of the
+(Regulation 14(1) of the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G), as modified by section 1 of Part V of Schedule 2 to the Airport Authority Bylaw (Cap. 483 sub. leg. A))
 
-Commissioner for Transport under regulation 14(1) of
-
-the Road Traffic (Traffic Control) Regulations
-
-(Cap. 374 sub. leg.), as modified by section
-
-1 of Part V of Schedule 2 to the Airport
-
-Authority Bylaw (Cap. 483 sub. leg.))
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [10 December 1999]
+
+(Format changes—E.R. 2 of 2014)

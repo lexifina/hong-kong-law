@@ -2,4 +2,4 @@ An Ordinance to provide for the establishment of a Security and Guarding Service
 
 [1 June 1995] L.N. 213 of 1995
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2014)

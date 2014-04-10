@@ -2,4 +2,4 @@ An Ordinance to consolidate and amend the law relating to seafarers; to introduc
 
 [2 September 1996] L.N. 342 of 1996
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2014)

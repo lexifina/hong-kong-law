@@ -1,8 +1,8 @@
-# SCHEDULE 3
+# Schedule 3
 
 [para. 6]
 
-EXPERIENCE REQUIRED FOR THE CLASSES OF PILOTAGE AND FOR AMENDMENT OF A LICENCE TO A HIGHER CLASS OF PILOTAGE
+Experience Required for the Classes of Pilotage and for Amendment of a Licence to a Higher Class of Pilotage
 
 Class of Pilotage | Experience required
 

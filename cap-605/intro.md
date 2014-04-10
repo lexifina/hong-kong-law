@@ -8,4 +8,4 @@ An Ordinance to provide for—
 
 [22 January 2010] L.N. 235 of 2009
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

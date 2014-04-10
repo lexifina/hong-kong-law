@@ -2,4 +2,4 @@ An Ordinance to provide for the establishment of a Financial Reporting Council t
 
 [1 December 2006] L.N. 204 of 2006
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

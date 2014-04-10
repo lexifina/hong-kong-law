@@ -1,9 +1,7 @@
 SECURITIES AND FUTURES (DISCLOSURE OF INTERESTS—SECURITIES BORROWING AND LENDING) RULES
 
-(Made by the Securities and Futures Commission under section
+(Cap. 571, section 377)
 
-377 of the Securities and Futures Ordinance (Cap. 571)
-
-after consultation with the Financial Secretary)
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [1 April 2003] L.N. 12 of 2003

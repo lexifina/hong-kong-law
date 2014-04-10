@@ -2,7 +2,7 @@
 
 [s. 42]
 
-ESTIMATED NET REVENUE ($000,000’s)
+Estimated Net Revenue ($000,000’s)
 
 Year Ending 31 July in | Minimum Estimated Net Revenue | Upper Estimated Net Revenue | Maximum Estimated Net Revenue
 
@@ -58,4 +58,6 @@ Year Ending 31 July in | Minimum Estimated Net Revenue | Upper Estimated Net Rev
 
 2023 | 5,726 | 7,286 | 7,864
 
-- Note: In this Schedule “year” shall be construed having regard to the definition of “year” in section 42 of this Ordinance.
+Note: | In this Schedule year shall be construed having regard to the definition of year in section 42 of this Ordinance.
+
+(Format changes—E.R. 2 of 2014)

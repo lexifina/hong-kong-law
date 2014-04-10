@@ -1,7 +1,9 @@
-DUMPING AT SEA (EXEMPTION) ORDER
+Dumping at Sea (Exemption) Order
 
-(Made under section 11(1) of the Dumping at
+(Cap. 466, section 11(1))
 
-Sea Ordinance (Cap. 466))
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [20 April 2000] L.N. 106 of 2000
+
+(Format changes—E.R. 2 of 2014)

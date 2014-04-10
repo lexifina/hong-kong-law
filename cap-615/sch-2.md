@@ -664,7 +664,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (iii) a current member of The Hong Kong Institute of Chartered Secretaries practising in Hong Kong;
 
-          - (iv) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) carrying on trust business in Hong Kong;
+          - (iv) a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) carrying on trust business in Hong Kong;
 
         - (b) a financial institution that is an authorized institution, a licensed corporation, an authorized insurer, an appointed insurance agent or an authorized insurance broker; or
 
@@ -689,6 +689,8 @@ Requirements Relating to Customer Due Diligence and Record-keeping
       - (7) In this section—
 
         - certified public accountant (會計師) has the meaning given by section 2(1) of the Professional Accountants Ordinance (Cap. 50).
+
+    - (Amended E.R. 2 of 2014)
 
     - 19. Financial institutions to establish procedures
 

@@ -12,7 +12,7 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
     - “associate” (有聯繫者) has the meaning given by Schedule 8 to the Ordinance;
 
-    - “derivative” (衍生工具) has the same meaning as in the Second Schedule to the Trustee Ordinance (Cap. 29);
+    - “derivative” (衍生工具) has the same meaning as in Schedule 2 to the Trustee Ordinance (Cap. 29);
 
     - “effective exposure” (有效風險) means—
 
@@ -38,15 +38,9 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
     - For the purposes of the definition of “effective exposure” (有效風險) in subsection (1), delta is the expected increase or decrease in the market value of the derivative contract given a 1 unit change in the value of the underlying investment.
 
-- 2.
+- (E.R. 1 of 2013; E.R. 2 of 2014)
 
-- Trustees and investment manager to exercise
-
-- appropriate care, skill, diligence and
-
-- prudence with respect to the
-
-- administration of a scheme The trustees and investment manager of a scheme shall perform the following duties with respect to the administration of the scheme—
+- 2. Trustees and investment manager to exercise appropriate care, skill, diligence and prudence with respect to the administration of a scheme The trustees and investment manager of a scheme shall perform the following duties with respect to the administration of the scheme—
 
   - (a) the duty to exercise a level of care, skill, diligence and prudence that may reasonably be expected of a prudent person who is acting in similar capacity and who is familiar with—
 
@@ -174,11 +168,7 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
 
     - (d) must have sufficient expertise and management resources in Hong Kong to conduct its business in Hong Kong effectively.
 
-- 6.
-
-- Reporting of appointment of
-
-- investment manager Where the trustee of a scheme appoints an investment manager on or after the relevant date, the trustee shall, upon submission of the next annual return thereafter, give notice in writing to the Authority—
+- 6. Reporting of appointment of investment manager Where the trustee of a scheme appoints an investment manager on or after the relevant date, the trustee shall, upon submission of the next annual return thereafter, give notice in writing to the Authority—
 
   - (a) of the appointment; and
 
@@ -231,5 +221,3 @@ MINIMUM STANDARDS APPLICABLE TO TRUSTEES, ETC. OF SCHEMES
       - (ii) if, and only if, the conditions specified in the notice are complied with.
 
   - (5) Without prejudice to the generality of conditions which may be specified in a notice under subsection (4), such conditions may provide that the retirement or appointment of a trustee, or of a director of a company, shall become void and of no effect unless and until the Authority approves the retirement or appointment in writing before the expiration of a period specified in the notice. (46 of 2000 s. 40)
-
-- (E.R. 1 of 2013)

@@ -1,10 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 3(8)]
 
-PROVISIONS WITH RESPECT TO THE COUNCIL AND ITS MEMBERS
-
-(Adaptation amendments retroactively made - see 59 of 2000 s. 3)
+Provisions with respect to the Council and its Members
 
 - 1. Affixing of Council common seal
 
@@ -18,11 +16,7 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND ITS MEMBERS
 
   - (5) Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not be required to be under seal may be entered into or executed on behalf of the Council by any person generally or specifically authorized by the Council for that purpose.
 
-- 2.
-
-- Terms and conditions of appointment
-
-- and removal of Council members
+- 2. Terms and conditions of appointment and removal of Council members
 
   - (1) Subject to subsections (2), (3) and (4), a member of the Council shall hold and vacate office in accordance with the terms of his appointment and shall, on ceasing to be a member, be eligible for reappointment.
 
@@ -42,15 +36,13 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND ITS MEMBERS
 
   - (4) A person whose office is declared vacant under subsection (3) is not eligible for reappointment.
 
-- 3.
-
-- Absence of Chairman etc.
-
-- If for any period—
+- 3. Absence of Chairman etc. If for any period—
 
   - (a) the Chairman, due to absence from Hong Kong or for any other reason, is unable to act as Chairman; or
 
-  - (b) the Vice-chairman or a member is precluded by temporary incapacity or any other reason from performing his functions as Vice-chairman or a member, as the case may be, the Chief Executive may appoint another person to act in the place of the Chairman, the Vice-chairman or the member, as the case may be, for that period.
+  - (b) the Vice-chairman or a member is precluded by temporary incapacity or any other reason from performing his functions as Vice-chairman or a member, as the case may be,
+
+- the Chief Executive may appoint another person to act in the place of the Chairman, the Vice-chairman or the member, as the case may be, for that period.
 
 - (Amended 59 of 2000 s. 3)
 
@@ -92,11 +84,7 @@ PROVISIONS WITH RESPECT TO THE COUNCIL AND ITS MEMBERS
 
   - (5) Subject to this Ordinance and any directions from the Council, a committee may regulate its own procedure.
 
-- 8.
-
-- Members of the Council to disclose interests
-
-- in respect of certain contracts
+- 8. Members of the Council to disclose interests in respect of certain contracts
 
   - (1) A member of the Council and a person appointed to a committee under section 7 who is in any way directly or indirectly interested in a contract made or proposed to be made by the Council or in a contract made or proposed to be made by a servant or agent of the Council which is brought up for consideration at a meeting of the Council or a committee, shall disclose the nature of his interest at the meeting.
 

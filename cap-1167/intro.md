@@ -24,6 +24,4 @@ Preamble WHEREAS—
 
 - (j) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of Po Sang, Bank of China Hong Kong Branch, the Hong Kong branches of the Mainland incorporated banks, Kwangtung Shenzhen Branch, Sin Hua Shenzhen Branch and Hua Chiao, it is expedient to make provision to facilitate such merger without interference with the conduct and continuity of the respective businesses of Po Sang, Bank of China Hong Kong Branch, the Hong Kong branches of the Mainland incorporated banks, Kwangtung Shenzhen Branch, Sin Hua Shenzhen Branch and Hua Chiao;
 
-- (k) for the better conduct of the businesses of the Bank of China Group, it is expedient that Nanyang, Chiyu and BOC-CC should become subsidiaries of Po Sang and it is expedient to make provision to facilitate such transfers.
-
-Enacted by the Legislative Council.
+- (k) for the better conduct of the businesses of the Bank of China Group, it is expedient that Nanyang, Chiyu and BOC-CC should become subsidiaries of Po Sang and it is expedient to make provision to facilitate such transfers. (Enacting provision omitted—E.R. 2 of 2014)

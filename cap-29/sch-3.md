@@ -1,6 +1,6 @@
 # Schedule 3
 
-[sections. 2, sections. 3A & sections. 41O]
+[ss. 2, 3A & 41O]
 
 Application of Statutory Duty of Care
 
@@ -14,7 +14,7 @@ Application of Statutory Duty of Care
 
     - (c) continuing to hold an investment that has ceased to be an investment authorized by the instrument creating the trust or the general law as mentioned in section 7.
 
-  - 2. For the purpose of section 1(a) of this Schedule, when investing any trust funds in any investment specified in the Second Schedule, the trustee must discharge the statutory duty of care in addition to complying with that Schedule.
+  - 2. For the purpose of section 1(a) of this Schedule, when investing any trust funds in any investment specified in Schedule 2, the trustee must discharge the statutory duty of care in addition to complying with that Schedule. (Amended E.R. 2 of 2014)
 
 - Division 2—Agents, Nominees and Custodians
 
@@ -60,4 +60,4 @@ Application of Statutory Duty of Care
 
     - (b) exercising any corresponding power, however conferred.
 
-  - (Third Schedule added 13 of 2013 s. 41)
+  - (Schedule 3 added 13 of 2013 s. 41)

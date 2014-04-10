@@ -1,5 +1,9 @@
-LAYOUT-DESIGN (TOPOGRAPHY) OF INTEGRATED CIRCUITS (DESIGNATION OF QUALIFYING COUNTRIES, TERRITORIES OR AREAS) REGULATION
+Layout-design (Topography) of Integrated Circuits (Designation of Qualifying Countries, Territories or Areas) Regulation
 
-(Made under section 24 of the Layout-design (Topography) of Integrated Circuits Ordinance (Cap. 445) after consultation with the Executive Council)
+(Cap. 445, section 24)
+
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [11 July 2002]
+
+(Format changes—E.R. 2 of 2014)

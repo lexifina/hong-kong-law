@@ -1,7 +1,7 @@
 INLAND REVENUE (QUALIFYING DEBT INSTRUMENTS) ORDER
 
-(Made under section 14A(5) of the Inland Revenue
+(Cap. 112, section 14A(5))
 
-Ordinance (Cap. 112))
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [28 June 1996]

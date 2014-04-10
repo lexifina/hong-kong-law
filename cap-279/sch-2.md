@@ -2,11 +2,7 @@
 
 [ss. 40BR & 40CB]
 
-- 1.
-
-- Interpretation
-
-- In this Schedule—
+- 1. Interpretation In this Schedule—
 
   - (a) where this Schedule applies under section 40BR—
 
@@ -132,6 +128,6 @@
 
   - (2) All such books, accounts, receipts or other document shall be delivered to the transferee immediately after that date by the person who has the care and custody of them otherwise than pursuant to a lawful authority.
 
-  - (3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine at level 3 and to imprisonment for 3 months.”.
+  - (3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine at level 3 and to imprisonment for 3 months. (Amended E.R. 2 of 2014)
 
 - (Schedule 2 added 27 of 2004 s. 34)

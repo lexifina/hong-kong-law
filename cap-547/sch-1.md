@@ -1,24 +1,12 @@
-# SCHEDULE 1
+# Schedule 1
 
-[sections 3 & 8]
+[ss. 3 & 8]
 
-NUMBER OF AND DECLARATION OF DISTRICTS
+Number of and Declaration of Districts
 
-(* According to section 3 of the District Councils Ordinance (Amendment of Schedules 1 and 3) Order 2013 (L.N. 12 of 2014) (the Amendment Order)—
+- Part I Number of Districts The number of Districts to be declared for the purposes of this Ordinance is 18.
 
-- (a) item 2 is amended by repealing “DC/2000/C” and substituting “DC/2013/C”;
-
-- (b) item 7 is amended by repealing “DC/2000/B” and substituting “DC/2013/B”.
-
-According to section 1 of the Amendment Order, the above amendments—
-
-- (i) for all purposes relating to the District Council ordinary election in 2015—come into operation on 24 January 2014; and
-
-- (ii) in so far as they have not come into operation under paragraph (i)—come into operation on 1 January 2016.)
-
-- PART I NUMBER OF DISTRICTS The number of Districts to be declared for the purposes of this Ordinance is 18.
-
-- PART II DECLARATION OF DISTRICTS
+- Part II Declaration of Districts
 
 Item | District | Delineation of District area
 
@@ -59,3 +47,19 @@ Item | District | Delineation of District area
 18. | Yuen Long District | That area delineated and edged grey on the map numbered DC/2000/M and deposited in the office of the Designated Officer.
 
 (Amended L.N. 156 of 2006; L.N. 12 of 2014)
+
+Editorial Note:
+
+(* According to section 3 of the District Councils Ordinance (Amendment of Schedules 1 and 3) Order 2013 (L.N. 12 of 2014) (the Amendment Order)—
+
+- (a) item 2 is amended by repealing “DC/2000/C” and substituting “DC/2013/C”;
+
+- (b) item 7 is amended by repealing “DC/2000/B” and substituting “DC/2013/B”.
+
+According to section 1 of the Amendment Order, the above amendments—
+
+- (i) for all purposes relating to the District Council ordinary election in 2015—come into operation on 24 January 2014; and
+
+- (ii) in so far as they have not come into operation under paragraph (i)—come into operation on 1 January 2016.)
+
+(Format changes—E.R. 2 of 2014)

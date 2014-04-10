@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [paras. 4(b) & 8]
 
-APPROPRIATE EXPERIENCE OF APPLICANT
+Appropriate Experience of Applicant
 
 - 1. The applicant must have accompanied a licensed pilot—
 
@@ -26,7 +26,7 @@ APPROPRIATE EXPERIENCE OF APPLICANT
 
   - (g) on at least the number of occasions specified in the third column of the following Table 1 when a ship was being berthed, unberthed, docked or undocked at or from the wharves, berths or docks specified in the second column of that Table; and
 
-  - (h) during the pilotage of a naval ship to or from an anchorage or a mooring on at least 4 occasions. TABLE 1
+  - (h) during the pilotage of a naval ship to or from an anchorage or a mooring on at least 4 occasions. Table 1
 
   - Item | Wharf/Berth/Dock | Number of Occasions
 
@@ -56,9 +56,7 @@ APPROPRIATE EXPERIENCE OF APPLICANT
 
   - 10. | Tai Po— Town Gas Wharf | 1 berthing and 1 unberthing of a ship of any length.
 
-  - (2 of 2013 s. 12)
-
-- 2. The applicant must have been an observer on a tug specified in the second column of the following Table 2 on at least the number of occasions specified in the third column of that Table when the tug was attending a ship and performing a towage berthing, unberthing, docking or undocking service. TABLE 2
+- 2. The applicant must have been an observer on a tug specified in the second column of the following Table 2 on at least the number of occasions specified in the third column of that Table when the tug was attending a ship and performing a towage berthing, unberthing, docking or undocking service. Table 2
 
 - Item | Type of Tug | Number of Occasions
 
@@ -68,7 +66,7 @@ APPROPRIATE EXPERIENCE OF APPLICANT
 
 - 3. | Single screw conventional type with engine power less than 1000 hp. | 5
 
-- 3. The applicant must have been an observer on the wharves or berths specified in the second column of the following Table 3 on at least the number of occasions specified in the third column of that Table. TABLE 3
+- 3. The applicant must have been an observer on the wharves or berths specified in the second column of the following Table 3 on at least the number of occasions specified in the third column of that Table. Table 3
 
 - Item | Wharf/Berth | Number of Occasions
 
@@ -80,8 +78,6 @@ APPROPRIATE EXPERIENCE OF APPLICANT
 
 - 3. | Tsing Yi Island— H.K. United Dockyards Seawalls Wharf Yiu Lian Seawalls Wharf | ｝ | 2 berthings and 2 unberthings of a ship of any length at each wharf.
 
-- (2 of 2013 s. 12)
-
 - 4. The applicant must have been an observer on a mooring boat on at least 5 occasions when the boat was attending a ship being secured to a mooring.
 
-- 5. The applicant must have been attached to the Marine Department for at least 2 weeks. (L.N. 292 of 1992; L.N. 118 of 1996; L.N. 283 of 1998)
+- 5. The applicant must have been attached to the Marine Department for at least 2 weeks. (L.N. 292 of 1992; L.N. 118 of 1996; L.N. 283 of 1998; 2 of 2013 s. 12)

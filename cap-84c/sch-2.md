@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [para. 5]
 
-CLASSES OF PILOTAGE
+Classes of Pilotage
 
 Class | Pilotage service
 

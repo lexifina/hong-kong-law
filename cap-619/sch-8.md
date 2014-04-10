@@ -74,19 +74,9 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
   - 4. Schedule 3 amended Schedule 3 is amended, in Form D.O. 3, by repealing “or the Securities and Futures Ordinance (Cap. 571)” and substituting “, the Securities and Futures Ordinance (Cap. 571) or the Competition Ordinance (Cap. 619)”.
 
-- PART 3 AMENDMENTS TO JUDICIAL OFFICERS RECOMMENDATION
+- PART 3 (Omitted as spent—E.R. 2 of 2014)
 
-- COMMISSION ORDINANCE
-
-  - 5. Judicial office
-
-    - (1) Schedule 1 to the Judicial Officers Recommendation Commission Ordinance (Cap. 92) is amended by adding— “President, Competition Tribunal Deputy President, Competition Tribunal
-
-    - Member, Competition Tribunal” after— “Recorder of the Court of First Instance”.
-
-    - (2) Schedule 1 is amended by adding— “Registrar of the Competition Tribunal Senior Deputy Registrar, Competition Tribunal
-
-    - Deputy Registrar, Competition Tribunal” after— “Assistant Registrar, High Court”.
+  - 5. (Omitted as spent—E.R. 2 of 2014)
 
 - PART 4 AMENDMENTS TO TELECOMMUNICATIONS ORDINANCE
 

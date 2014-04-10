@@ -2,4 +2,4 @@ An Ordinance to establish a registration scheme for food importers and food dist
 
 [1 August 2011]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

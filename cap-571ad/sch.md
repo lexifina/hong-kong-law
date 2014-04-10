@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 3]
 
-TRANSFER OF FUNCTIONS
+Transfer of Functions
 
 Item | Provision | Description
 
@@ -26,7 +26,7 @@ Securities and Futures Ordinance (Cap. 571)
 
 9. | Section 242(1) | Making payments out of the compensation fund and determining the order of such payments.
 
-Securities and Futures (Investor Compensation— Claims) Rules (Cap. 571 sub. leg. T)
+Securities and Futures (Investor Compensation—Claims) Rules (Cap. 571 sub. leg. T)
 
 10. | Section 3 | Publishing a notice inviting claims.
 

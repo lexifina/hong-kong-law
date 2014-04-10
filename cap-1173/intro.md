@@ -14,6 +14,4 @@ Preamble WHEREAS—
 
 - (e) for the better conduct of the business of Bank of East Asia, EACredit and EAFinance, it is expedient that their respective undertakings be merged and that such merger should occur by means of a transfer of the undertakings of EACredit and EAFinance to Bank of East Asia; and
 
-- (f) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of EACredit and EAFinance, it is expedient that the said undertakings be transferred to Bank of East Asia by this Ordinance without interference with the conduct and continuity of the respective businesses of EACredit, EAFinance and Bank of East Asia.
-
-Enacted by the Legislative Council.
+- (f) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of EACredit and EAFinance, it is expedient that the said undertakings be transferred to Bank of East Asia by this Ordinance without interference with the conduct and continuity of the respective businesses of EACredit, EAFinance and Bank of East Asia. (Enacting provision omitted—E.R. 2 of 2014)

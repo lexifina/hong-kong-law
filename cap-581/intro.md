@@ -2,4 +2,4 @@ An Ordinance to provide for the establishment of a Hong Kong Deposit Protection 
 
 [22 May 2004]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

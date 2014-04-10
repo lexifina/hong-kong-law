@@ -2,4 +2,4 @@ An Ordinance to reconstitute the Provisional Airport Authority and to provide th
 
 [1 December 1995] L.N. 540 of 1995
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2014)

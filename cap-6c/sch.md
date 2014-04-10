@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [paras. 3 & 4]
 
-TABLE A
+Table A
 
 Item | Description | Fee $
 
@@ -66,7 +66,7 @@ Item | Description | Fee $
 
 (L.N. 136 of 1988; L.N. 359 of 1992; L.N. 162 of 1994; L.N. 89 of 1996)
 
-TABLE B
+Table B
 
 - 1. On payments made by the Official Receiver into any bank account opened by him in his capacity as nominee under a voluntary arrangement, after deducting any sums paid to secured creditors in respect of their securities, and not being monies received and spent in carrying on the business of a debtor, a charge of 10%. (L.N. 427 of 1993; L.N. 83 of 1998; L.N. 127 of 2007; L.N. 171 of 2013)
 
@@ -128,7 +128,7 @@ TABLE B
 
 - 11. Notwithstanding the fees and charges prescribed in the foregoing paragraphs but subject to the availability of funds, where the Official Receiver acts as trustee to administer a bankrupt’s property, the total fees and charges under this Table shall not be less than $11,250. (L.N. 164 of 1997; L.N. 83 of 1998; L.N. 171 of 2013) (L.N. 195 of 1987; L.N. 89 of 1996)
 
-TABLE C | [rule 181]
+Table C | [rule 181]
 
 I-Auctioneers
 

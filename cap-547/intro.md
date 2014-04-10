@@ -2,4 +2,4 @@ An Ordinance to provide for the declaration of Districts, the establishment, com
 
 [19 March 1999] L.N. 77 of 1999
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

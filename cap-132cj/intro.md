@@ -1,7 +1,7 @@
-PUBLIC HEALTH AND MUNICIPAL SERVICES (FEES) REGULATION
+Public Health and Municipal Services (Fees) Regulation
 
-(Made under section 124I of the Public Health and
+(Cap. 132, section 124I)
 
-Municipal Services Ordinance (Cap. 132))
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [1 April 2000]

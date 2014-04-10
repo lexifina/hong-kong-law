@@ -1,7 +1,7 @@
 TOYS AND CHILDREN’S PRODUCTS SAFETY REGULATION
 
-(Made under section 35 of the Toys and Children’s Products Safety
+(Cap. 424, section 35)
 
-Ordinance (Cap. 424))
+(Enacting provision omitted—E.R. 2 of 2014)
 
 [1 April 1998] L.N. 183 of 1998

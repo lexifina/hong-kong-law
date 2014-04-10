@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 4 & 8]
 
-ESTABLISHMENT OF DISTRICT COUNCILS
+Establishment of District Councils
+
+(Format changes—E.R. 2 of 2014)
 
 Item | Name of District | Name of District Council | Date of establishment
 

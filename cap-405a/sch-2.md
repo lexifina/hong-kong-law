@@ -4,7 +4,7 @@
 
 DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
-- 1. .
+- 1. .............................
 
 - 2. Interpretation
 
@@ -52,23 +52,23 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
   - Expression | Relevant provision
 
-  - Charging order (抵押令) . | Section 11(2)
+  - Charging order (抵押令) | Section 11(2)
 
-  - Defendant (被告) . | Section 3(3)
+  - Defendant (被告) | Section 3(3)
 
-  - External confiscation order (外地沒收令) . | Section 3(1)
+  - External confiscation order (外地沒收令) | Section 3(1)
 
   - Gift caught by this Ordinance (受本條例囿制的饋贈) | Section 7(9)
 
-  - Making a gift (作出饋贈) . | Section 7(10)
+  - Making a gift (作出饋贈) | Section 7(10)
 
-  - Realisable property (可變現財產) . | Section 7(1)
+  - Realisable property (可變現財產) | Section 7(1)
 
-  - Restraint order (限制令) . | Section 10(1)
+  - Restraint order (限制令) | Section 10(1)
 
-  - Value of gift, payment or reward (饋贈、付款或酬賞 的價值) . | Section 7
+  - Value of gift, payment or reward (饋贈、付款或酬賞的價值) | Section 7
 
-  - Value of property (財產的價值) . | Section 7(4)
+  - Value of property (財產的價值) | Section 7(4)
 
 - (89 of 1995 s. 33)
 
@@ -116,11 +116,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
       - (iii) property used or intended to be used in connection with drug trafficking or the value of such property; or
 
-    - (b)
+    - (b) depriving a person of a pecuniary advantage obtained in connection with drug trafficking,
 
-    - depriving a person of a pecuniary advantage obtained in connection with drug trafficking,
-
-      - and whether the proceedings which gave rise to the order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property, is referred to in this Ordinance as an “external confiscation order” (外地沒收令). (87 of 1997 s. 36)
+  - and whether the proceedings which gave rise to the order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property, is referred to in this Ordinance as an “external confiscation order” (外地沒收令). (87 of 1997 s. 36)
 
   - (2) In subsection (1) the reference to an order includes any order, decree, direction or judgment, or any part thereof, however described.
 
@@ -128,11 +126,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - A person (however described in the proceedings in the designated country) against whom, or in relation to whose property, an external confiscation order has been, or may be, made is referred to in this Ordinance as “the defendant” (被告). (L.N. 247 of 1993)
 
-- 4-6. .
+- 4-6. .............................
 
-- 6A. Interest on amounts to be recovered
-
-- under external confiscation orders
+- 6A. Interest on amounts to be recovered under external confiscation orders
 
   - (1) Where a fixed amount is payable under an external confiscation order, that amount shall be treated as a judgment debt for the purposes of section 49 of the High Court Ordinance (Cap. 4) and, for those purposes, the date on which the external confiscation order was registered under section 29 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) shall be treated as the date of the judgment debt. (25 of 1998 s. 2)
 
@@ -236,15 +232,13 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
       - (B) a trust that has a relationship to the property; and
 
-      - (C) family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in subparagraph (A) or trusts of the kind referred to in subparagraph (B), and other persons. (89 of 1995 section 33)
+      - (C) family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in subparagraph (A) or trusts of the kind referred to in subparagraph (B), and other persons. (89 of 1995 s. 33)
 
   - (12) Where a person obtains a pecuniary advantage referred to in section 3(1)(b), he is to be treated for the purposes of this Ordinance as if he had obtained in connection with the drug trafficking to which the advantage relates a sum of money equal to the value of the advantage, and the other provisions of this Ordinance shall be construed accordingly. (87 of 1997 s. 36)
 
-- 8. .
+- 8. .............................
 
-- 9. Cases in which restraint orders and charging
-
-- orders may be made
+- 9. Cases in which restraint orders and charging orders may be made
 
   - (1) The powers conferred on the Court of First Instance by sections 10(1) and 11(1) are exercisable where—
 
@@ -360,7 +354,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - (b) any interest in realisable property held by a person as trustee of a trust if the interest is in such an asset or is an interest under another trust and a charge may by virtue of paragraph (a) be imposed by a charging order on the whole beneficial interest under the first mentioned trust.
 
-  - (5) In any case where a charge is imposed by a charging order on any interest in an asset of a kind specified in Schedule 2, the Court of First Instance may provide for the charge to extend to any interest, divided or other distribution payable and any bonus issue in respect of the asset. (25 of 1998 s. 2)
+  - (5) In any case where a charge is imposed by a charging order on any interest in an asset of a kind specified in Schedule 2, the Court of First Instance may provide for the charge to extend to any interest, dividend or other distribution payable and any bonus issue in respect of the asset. (25 of 1998 s. 2)
 
   - (6) The Court of First Instance may make an order discharging or varying the charging order and shall make an order discharging the charging order if the proceedings in the designated country or territory are concluded or the amount payment of which is secured by the charge is paid into the Court of First Instance. (25 of 1998 s. 2)
 
@@ -402,11 +396,11 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
     - “(2) An application under section 10(4) or 11(3) shall be supported by an affidavit which shall—
 
-      - (a) state, where applicable, the grounds for believing that an external confiscation order may be made in the proceedings instituted or to be instituted in the designated country concerned;
+    - (a) state, where applicable, the grounds for believing that an external confiscation order may be made in the proceedings instituted or to be instituted in the designated country concerned;
 
-      - (b) to the best of the deponent’s ability, give particulars of the realisable property in respect of which the order is sought and specify the person or persons holding such property;
+    - (b) to the best of the deponent’s ability, give particulars of the realisable property in respect of which the order is sought and specify the person or persons holding such property;
 
-      - (c) in a case to which section 9(2) applies, indicate when it is intended that proceedings should be instituted in the designated country concerned.”.
+    - (c) in a case to which section 9(2) applies, indicate when it is intended that proceedings should be instituted in the designated country concerned.”.
 
   - (3) (Repealed 89 of 1995 s. 33)
 
@@ -508,7 +502,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
   - (6) In exercising those powers, no account shall be taken of any obligations of the defendant or of the recipient of any such gift which conflict with the obligation to satisfy the external confiscation order.
 
-- 15. .
+- 15. .............................
 
 - 16. Bankruptcy of defendant, etc.
 
@@ -544,7 +538,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
       - (ii) section 60 of the Conveyancing and Property Ordinance (Cap. 219),
 
-  - in respect of the making of the gift at any time when property of the person to whom the gift was made is subject to a restraint order or charging order; and
+    - in respect of the making of the gift at any time when property of the person to whom the gift was made is subject to a restraint order or charging order; and
 
     - (b) any order made under any of those sections after the discharge of the restraint order or charging order shall take into account any realisation under this Ordinance of property held by the person to whom the gift was made.
 
@@ -570,7 +564,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
   - (5) In this section—
 
-    - “company” (公司) means any company which may be wound up under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32); and (28 of 2012 ss. 912 & 920)
+    - “company” (公司) means any company which may be wound up under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32); (28 of 2012 ss. 912 & 920)
 
     - “the relevant time” (有關時間) means—
 
@@ -580,11 +574,9 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
       - (c) in any other case where such an order has been made, the time of the making of the order.
 
-- (25 of 1998 s. 2)
+- (25 of 1998 s. 2; E.R. 2 of 2014)
 
-- 18. Insolvency officers dealing with property
-
-- subject to restraint order
+- 18. Insolvency officers dealing with property subject to restraint order
 
   - (1) Without prejudice to the generality of any provision contained in the Bankruptcy Ordinance (Cap. 6), the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or any other Ordinance, where— (28 of 2012 ss. 912 & 920)
 
@@ -626,7 +618,7 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
   - (2) Any amount due in respect of the remuneration and expenses of a receiver so appointed shall, if no sum is available to be applied in payment of it under section 13(5), be paid by the person on whose application the receiver was appointed. (L.N. 247 of 1993)
 
-- 20-28. .
+- 20-28. .............................
 
 - 29. (Repealed L.N. 247 of 1993)
 
@@ -634,39 +626,101 @@ DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE AS MODIFIED
 
 - 31. Amendment of Schedules The Chief Executive in Council may, by order, amend Schedule 1, 1A or 2. (89 of 1995 s. 33; 15 of 1999 s. 3)
 
-SCHEDULE 1 | [section 2]
+SCHEDULE 1 | [s. 2]
 
 DRUG TRAFFICKING OFFENCES
 
 Item | Offence | Description*
 
-1. 2. 3. 4. 5. 6. 7. 7A. 8. 9. 10. 11. 12. | section 4(1), Dangerous Drugs Ordinance (Cap. 134) section 4A, Dangerous Drugs Ordinance (Cap. 134) section 5(1), Dangerous Drugs Ordinance (Cap. 134) section 6(1), Dangerous Drugs Ordinance (Cap. 134) section 9(1), (2) and (3), Dangerous Drugs Ordinance (Cap. 134) section 35, Dangerous Drugs Ordinance (Cap. 134) section 37, Dangerous Drugs Ordinance (Cap. 134) section 40(1)(c), Dangerous Drugs Ordinance (Cap. 134) . conspiracy to commit any of the offences specified in items 1 to 7 inciting another to commit any of the offences specified in items 1 to 7 attempting to commit any of the offences specified in items 1 to 7 aiding, abetting, counselling or procuring the commission of any of the offences specified in items 1 to 7 | trafficking in a dangerous drug trafficking in purported dangerous drug supplying or procuring a dangerous drug to or for unauthorized persons manufacturing a dangerous drug cultivating, supplying, procuring, dealing in, importing, exporting, or possessing cannabis plant or opium poppy keeping or managing a divan for the taking of dangerous drugs permitting premises to be used for unlawful trafficking, manufacturing or storage of dangerous drugs aiding, etc. offence under a corresponding law - - - - -
+1. | section 4(1), Dangerous Drugs Ordinance (Cap. 134) | trafficking in a dangerous drug
+
+2. | section 4A, Dangerous Drugs Ordinance (Cap. 134) | trafficking in purported dangerous drug
+
+3. | section 5(1), Dangerous Drugs Ordinance (Cap. 134) | supplying or procuring a dangerous drug to or for unauthorized persons
+
+4. | section 6(1), Dangerous Drugs Ordinance (Cap. 134) | manufacturing a dangerous drug
+
+5. | section 9(1), (2) and (3), Dangerous Drugs Ordinance (Cap. 134) | cultivating, supplying, procuring, dealing in, importing, exporting, or possessing cannabis plant or opium poppy
+
+6. | section 35, Dangerous Drugs Ordinance (Cap. 134) | keeping or managing a divan for the taking of dangerous drugs
+
+7. | section 37, Dangerous Drugs Ordinance (Cap. 134) | permitting premises to be used for unlawful trafficking, manufacturing or storage of dangerous drugs
+
+7A. | section 40(1)(c), Dangerous Drugs Ordinance (Cap. 134) | aiding, etc. offence under a corresponding law
+
+8. | .
+
+9. | conspiracy to commit any of the offences specified in items 1 to 7 | —
+
+10. | inciting another to commit any of the offences specified in items 1 to 7 | —
+
+11. | attempting to commit any of the offences specified in items 1 to 7 | —
+
+12. | aiding, abetting, counselling or procuring the commission of any of the offences specified in items 1 to 7 | —
 
 * Note: The short description of offences in this Schedule is for ease of reference only.
 
 (89 of 1995 s. 33)
 
-SCHEDULE 1A | [section 2(11)]
+SCHEDULE 1A | [s. 2(11)]
 
 INSTITUTION OF PROCEEDINGS
 
 Designated country | Point at which proceedings are instituted
 
-Australia Canada England and Wales Gibraltar Guernsey Isle of Man | (a) where an information has been laid before a justice of the peace; (b) when a person is charged with the offence after having been taken into custody without a warrant; or (c) when a bill of indictment is preferred. When an information has been laid or an indictment is preferred. (a) when an information has been laid before a justice of the peace; (b) when a person is charged with an offence; or (c) when a bill of indictment is preferred. When a person is charged with an offence, whether by the laying of an information or otherwise. (L.N. 446 of 1991) When a person is charged with an offence. (a) where a justice of the peace issues a summons under section 13 of the Petty Sessions and Summary Jurisdiction Act 1927, when the complaint in relation to the offence is made to him; (b) where a justice of the peace issues a warrant for the arrest of any person under that section, when the complaint in relation to the offence is made to him; (c) where a person is charged with the offence after being taken into custody without a warrant, when he is taken into custody; or (d) where an information is preferred by the Secretary for Justice in a case where there have been no committal proceedings, when the information is lodged in the General Registry in accordance with section 4(1) of the Criminal Code Amendment Act 1917. (L.N. 362 of 1997)
+Australia | (a) | where an information has been laid before a justice of the peace;
 
-Jersey | (a) when the Bailiff issues a warrant in respect of an offence for the arrest of a person who is out of the island; (b) when a person is arrested and charged with an offence; (c) when a summons in respect of an offence is served on a person at the instance of the Secretary for Justice; or (L.N. 362 of 1997) (d) when a summons in respect of the offence is served on a person in accordance with the provisions of Article 8 of the Police Court (Miscellaneous Provisions) (Jersey) Law 1949.
+(b) | when a person is charged with the offence after having been taken into custody without a warrant; or
+
+(c) | when a bill of indictment is preferred.
+
+Canada | When an information has been laid or an indictment is preferred.
+
+England and Wales | (a) | when an information has been laid before a justice of the peace;
+
+(b) | when a person is charged with an offence; or
+
+(c) | when a bill of indictment is preferred.
+
+Gibraltar | When a person is charged with an offence, whether by the laying of an information or otherwise. (L.N. 446 of 1991)
+
+Guernsey | When a person is charged with an offence.
+
+Isle of Man | (a) | where a justice of the peace issues a summons under section 13 of the Petty Sessions and Summary Jurisdiction Act 1927, when the complaint in relation to the offence is made to him;
+
+(b) | where a justice of the peace issues a warrant for the arrest of any person under that section, when the complaint in relation to the offence is made to him;
+
+(c) | where a person is charged with the offence after being taken into custody without a warrant, when he is taken into custody; or
+
+(d) | where an information is preferred by the Secretary for Justice in a case where there have been no committal proceedings, when the information is lodged in the General Registry in accordance with section 4(1) of the Criminal Code Amendment Act 1917. (L.N. 362 of 1997)
+
+Jersey | (a) | when the Bailiff issues a warrant in respect of an offence for the arrest of a person who is out of the island;
+
+(b) | when a person is arrested and charged with an offence;
+
+(c) | when a summons in respect of an offence is served on a person at the instance of the Secretary for Justice; or (L.N. 362 of 1997)
+
+(d) | when a summons in respect of the offence is served on a person in accordance with the provisions of Article 8 of the Police Court (Miscellaneous Provisions) (Jersey) Law 1949.
 
 Kingdom of Thailand | When a complaint or a denunciation is lodged with the inquiry official or other competent official, whether or not the suspect has been identified. (L.N. 282 of 1996)
 
-Malaysia | (a) when an action that may lead to the making of an order for the purpose of confiscating the proceeds or instrumentalities of drug trafficking is commenced in a court; or (b) when a person is charged with an offence after having been taken into custody without a warrant. (L.N. 12 of 1993)
+Malaysia | (a) | when an action that may lead to the making of an order for the purpose of confiscating the proceeds or instrumentalities of drug trafficking is commenced in a court; or
 
-Northern Ireland | (a) when a summons or warrant is issued under Article 20 of the Magistrates’ Courts (Northern Ireland) Order 1981; (b) when a person is charged with an offence after being taken into custody without a warrant; or (c) when an indictment is presented under section 2(2)(c), (e) or (f) of the Grand Jury (Abolition) Act (Northern Ireland) 1969.
+(b) | when a person is charged with an offence after having been taken into custody without a warrant. (L.N. 12 of 1993)
 
-Scotland | (a) when a petition warrant is granted; or (b) when a person has been charged with an offence after having been arrested without a warrant.
+Northern Ireland | (a) | when a summons or warrant is issued under Article 20 of the Magistrates’ Courts (Northern Ireland) Order 1981;
+
+(b) | when a person is charged with an offence after being taken into custody without a warrant; or
+
+(c) | when an indictment is presented under section 2(2)(c), (e) or (f) of the Grand Jury (Abolition) Act (Northern Ireland) 1969.
+
+Scotland | (a) | when a petition warrant is granted; or
+
+(b) | when a person has been charged with an offence after having been arrested without a warrant.
 
 United States of America | When an indictment, information or complaint has been filed against a person in respect of an offence.
 
-SCHEDULE 2 | [section 11]
+SCHEDULE 2 | [s. 11]
 
 ASSETS ON WHICH A CHARGING ORDER MAY BE IMPOSED
 

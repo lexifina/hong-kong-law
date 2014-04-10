@@ -24,6 +24,4 @@ Preamble WHEREAS—
 
 - (j) on the appointed day, the name of DKB will be changed to Mizuho Bank, Ltd., and DKB will cease to carry on the business of banking in Hong Kong;
 
-- (k) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of Corporate Business Bank Hong Kong Branch and the Hong Kong branches of the consolidating banks, it is expedient to make provision to facilitate such consolidation without interference with the conduct and continuity of the respective businesses of Corporate Business Bank Hong Kong Branch and the Hong Kong branches of the consolidating banks.
-
-Enacted by the Legislative Council.
+- (k) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of Corporate Business Bank Hong Kong Branch and the Hong Kong branches of the consolidating banks, it is expedient to make provision to facilitate such consolidation without interference with the conduct and continuity of the respective businesses of Corporate Business Bank Hong Kong Branch and the Hong Kong branches of the consolidating banks. (Enacting provision omitted—E.R. 2 of 2014)

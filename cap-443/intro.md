@@ -2,4 +2,4 @@ An Ordinance to establish a Legislative Council Commission, and to provide for m
 
 [1 April 1994] L.N. 209 of 1994
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2014)

@@ -30,33 +30,19 @@ Consequential and Related Amendments
 
   - 7. (Omitted as spent—E.R. 1 of 2013)
 
-- Part 7 Amendments to Construction Workers Registration
+- Part 7 (Omitted as spent—E.R. 2 of 2014)
 
-- Ordinance (Cap. 583)
-
-  - 8. Schedule 1 amended (Designated trades)
+  - 8. (Omitted as spent—E.R. 2 of 2014)
 
     - (1) (Omitted as spent—E.R. 1 of 2013)
 
-    - (2) Schedule 1, Part 1, item 12, column 4— Repeal “Either one of the following—
+    - (2) (Omitted as spent—E.R. 2 of 2014)
 
-      - (a) registered escalator worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618); or
-
-      - (b) competent escalator worker as defined by section 7 of the Lifts and Escalators Ordinance (Cap. 618)”
-
-    - Substitute “Registered escalator worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618)”.
-
-  - 9. Schedule 1 amended (Designated trades)
+  - 9. (Omitted as spent—E.R. 2 of 2014)
 
     - (1) (Omitted as spent—E.R. 1 of 2013)
 
-    - (2) Schedule 1, Part 1, item 17, column 4— Repeal “Either one of the following—
-
-      - (a) registered lift worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618); or
-
-      - (b) competent lift worker as defined by section 6(1) of the Lifts and Escalators Ordinance (Cap. 618)”
-
-    - Substitute “Registered lift worker as defined by section 2(1) of the Lifts and Escalators Ordinance (Cap. 618)”.
+    - (2) (Omitted as spent—E.R. 2 of 2014)
 
 - Part 8 (Omitted as spent—E.R. 1 of 2013)
 
@@ -66,37 +52,7 @@ Consequential and Related Amendments
 
 - (Cap. 618)
 
-  - 11. Section 2 amended (Interpretation) Section 2(1)— Repeal the definition of competent escalator worker.
-
-  - 12. Section 2 amended (Interpretation) Section 2(1)— Repeal the definition of competent lift worker.
-
-  - 13. Section 2 amended (Interpretation)
-
-    - (1) Section 2(1), definition of qualified person, paragraph (a)(i)— Repeal “engineer;” Substitute “engineer; or”.
-
-    - (2) Section 2(1), definition of qualified person, paragraph (a)(ii)(C)— Repeal “contractor; or” Substitute “contractor;”.
-
-    - (3) Section 2(1), definition of qualified person, paragraph (a)— Repeal subparagraph (iii).
-
-    - (4) Section 2(1), definition of qualified person, paragraph (b)(i)(C)— Repeal “contractor;” Substitute “contractor; or”.
-
-    - (5) Section 2(1), definition of qualified person, paragraph (b)(ii)(C)— Repeal “contractor; or” Substitute “contractor;”.
-
-    - (6) Section 2(1), definition of qualified person, paragraph (b)— Repeal subparagraph (iii).
-
-    - (7) Section 2(1), definition of qualified person, paragraph (c)(i)— Repeal “engineer;” Substitute “engineer; or”.
-
-    - (8) Section 2(1), definition of qualified person, paragraph (c)(ii)(C)— Repeal “contractor; or” Substitute “contractor; and”.
-
-    - (9) Section 2(1), definition of qualified person, paragraph (c)— Repeal subparagraph (iii).
-
-    - (10) Section 2(1), definition of qualified person, paragraph (d)(i)(C)— Repeal “contractor;” Substitute “contractor; or”.
-
-    - (11) Section 2(1), definition of qualified person, paragraph (d)(ii)(C)— Repeal “contractor; or” Substitute “contractor;”.
-
-    - (12) Section 2(1), definition of qualified person, paragraph (d)— Repeal subparagraph (iii).
-
-    - (13) Section 2(1), definition of qualified person— Repeal the Note Substitute “Note— For paragraphs (a)(ii), (b)(ii), (c)(ii) and (d)(ii)—see subsection (2) which sets out the criteria for determining whether a registered lift worker or registered escalator worker is qualified to carry out any particular lift works or escalator works.”.
+  - 11-13. (Omitted as spent—E.R. 2 of 2014)
 
   - 14. Section 2 amended (Interpretation) Section 2(1)— Repeal the definition of technical institution.
 
@@ -106,19 +62,7 @@ Consequential and Related Amendments
 
     - (2) Section 2(1)— Repeal the definition of Vocational Training Council
 
-    - .
-
-  - 16. Section 2 amended (Interpretation)
-
-    - (1) Section 2(2)(a)(ii)— Repeal “granted;” Substitute “granted; and”.
-
-    - (2) Section 2(2)(b)(ii)— Repeal “granted;” Substitute “granted.”.
-
-    - (3) Section 2(2)— Repeal paragraphs (c) and (d).
-
-  - 17. Section 6 repealed (Who is a competent lift worker) Section 6— Repeal the section.
-
-  - 18. Section 7 repealed (Who is a competent escalator worker) Section 7— Repeal the section.
+  - 16-18. (Omitted as spent—E.R. 2 of 2014)
 
   - 19. Section 82 amended (Registration—lift workers) Section 82— Repeal subsection (1) Substitute
 
@@ -134,27 +78,7 @@ Consequential and Related Amendments
 
   - The amendments to sections 82(1) and 94(1) effected by sections 19 and 20 of Schedule 16 (those 2 sections of Schedule 16) do not affect the validity of a registration granted under section 82(1) or 94(1) before those 2 sections of Schedule 16 come into operation, and an application for renewal of a registration so granted may be made under sections 83 and 95, as appropriate.”.
 
-  - 22. Schedule 8 amended (Registration of Lift Contractors and Escalator Contractors)
-
-    - (1) Schedule 8, Part 2, section 1(a)(i)(B)— Repeal “either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works” Substitute “a registered lift worker whose registration is for all kinds of lift works”.
-
-    - (2) Schedule 8, Part 2, section 1(a)(ii)(B)— Repeal “either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works” Substitute “a registered lift worker whose registration is for all kinds of lift works”.
-
-    - (3) Schedule 8, Part 2, section 1(b)(i)(B)— Repeal “either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works” Substitute “a registered lift worker whose registration is for all kinds of lift works”.
-
-    - (4) Schedule 8, Part 2, section 1(b)(ii)(B)— Repeal “either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works” Substitute “a registered lift worker whose registration is for all kinds of lift works”.
-
-    - (5) Schedule 8, Part 2, section 1(c)(ii)— Repeal “either a registered lift worker whose registration is for all kinds of lift works or a competent lift worker who is qualified to carry out all kinds of lift works” Substitute “a registered lift worker whose registration is for all kinds of lift works”.
-
-    - (6) Schedule 8, Part 3, section 1(a)(i)(B)— Repeal “either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works” Substitute “a registered escalator worker whose registration is for all kinds of escalator works”.
-
-    - (7) Schedule 8, Part 3, section 1(a)(ii)(B)— Repeal “either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works” Substitute “a registered escalator worker whose registration is for all kinds of escalator works”.
-
-    - (8) Schedule 8, Part 3, section 1(b)(i)(B)— Repeal “either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works” Substitute “a registered escalator worker whose registration is for all kinds of escalator works”.
-
-    - (9) Schedule 8, Part 3, section 1(b)(ii)(B)— Repeal “either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works” Substitute “a registered escalator worker whose registration is for all kinds of escalator works”.
-
-    - (10) Schedule 8, Part 3, section 1(c)(ii)— Repeal “either a registered escalator worker whose registration is for all kinds of escalator works or a competent escalator worker who is qualified to carry out all kinds of escalator works” Substitute “a registered escalator worker whose registration is for all kinds of escalator works”.
+  - 22. (Omitted as spent—E.R. 2 of 2014)
 
   - 23. Schedule 9 amended (Registration of Lift Engineers and Escalator Engineers)
 

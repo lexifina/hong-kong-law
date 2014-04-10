@@ -2,4 +2,4 @@ An Ordinance to grant and regulate a franchise for the operation of a Cable Car 
 
 [24 December 2003] L.N. 252 of 2003
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

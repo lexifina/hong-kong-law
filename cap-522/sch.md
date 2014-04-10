@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 83]
 
-PARIS CONVENTION COUNTRIES AND WTO MEMBERS
+Paris Convention Countries and WTO Members
 
 Countries which have acceded to the Paris Convention
 
@@ -354,9 +354,7 @@ The Republic of Zambia
 
 The Republic of Zimbabwe
 
-Countries, territories and areas which have acceded to the World Trade Organization Agreement
-
-(not including countries which have acceded to the Paris Convention)
+Countries, territories and areas which have acceded to the World Trade Organization Agreement (not including countries which have acceded to the Paris Convention)
 
 The Republic of Cape Verde
 
@@ -380,4 +378,4 @@ The Solomon Islands
 
 The Republic of Vanuatu
 
-(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009; L.N. 63 of 2013)
+(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009; L.N. 63 of 2013) (Format changes—E.R. 2 of 2014)

@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 2]
 
-QUALIFYING COUNTRIES, TERRITORIES OR AREAS
+Qualifying Countries, Territories or Areas
 
 The Republic of Albania
 

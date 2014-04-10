@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [reg. 2]
 
-FEES
+Fees
 
 Item | Matter | Fee $
 

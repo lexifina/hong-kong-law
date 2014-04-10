@@ -20,4 +20,4 @@ and for connected purposes.
 
 [30 June 2000] L.N. 136 of 2000
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

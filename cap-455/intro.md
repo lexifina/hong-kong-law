@@ -4,4 +4,4 @@ An Ordinance to create new powers of investigation into organized crimes and cer
 
 [2 December 1994]
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2014)

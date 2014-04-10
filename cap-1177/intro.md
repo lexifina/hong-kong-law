@@ -14,6 +14,4 @@ Preamble WHEREAS—
 
 - (e) for the better conduct of the businesses of Citibank (Hong Kong) and Citibank, it is expedient that the undertakings of Citibank, Hong Kong Branch which constitute the retail banking business of Citibank, Hong Kong Branch in Hong Kong be merged into, and succeeded by, Citibank (Hong Kong) and that such merger and succession should occur by means of a transfer of the undertakings of Citibank, Hong Kong Branch which constitute the retail banking business of Citibank, Hong Kong Branch in Hong Kong to Citibank (Hong Kong);
 
-- (f) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of Citibank, Hong Kong Branch which constitute the retail banking business of Citibank, Hong Kong Branch in Hong Kong, it is expedient that the said undertakings be transferred to Citibank (Hong Kong) by this Ordinance without interference with the conduct and continuity of the business of Citibank, Hong Kong Branch.
-
-Enacted by the Legislative Council.
+- (f) in view of the extent of the contractual and other legal relationships affecting the conduct of the undertakings of Citibank, Hong Kong Branch which constitute the retail banking business of Citibank, Hong Kong Branch in Hong Kong, it is expedient that the said undertakings be transferred to Citibank (Hong Kong) by this Ordinance without interference with the conduct and continuity of the business of Citibank, Hong Kong Branch. (Enacting provision omitted—E.R. 2 of 2014)

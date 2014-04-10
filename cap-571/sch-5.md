@@ -4,7 +4,7 @@
 
 Regulated Activities
 
-- Part 1 The following are regulated activities— Type 1 : dealing in securities; Type 2 : dealing in futures contracts; Type 3 : leveraged foreign exchange trading; Type 4 : advising on securities; Type 5 : advising on futures contracts; Type 6 : advising on corporate finance; Type 7 : providing automated trading services; Type 8 : securities margin financing; Type 9 : asset management; (Amended L.N. 28 of 2011) Type 10 : providing credit rating services. (Added L.N. 28 of 2011)
+- Part 1 The following are regulated activities— Type 1 : dealing in securities; Type 2 : dealing in futures contracts; Type 3 : leveraged foreign exchange trading; Type 4 : advising on securities; Type 5 : advising on futures contracts; Type 6 : advising on corporate finance; Type 7 : providing automated trading services; Type 8 : securities margin financing; Type 9 : asset management; (Amended L.N. 28 of 2011) Type 10 :providing credit rating services. (Added L.N. 28 of 2011)
 
 - Part 2 In this Schedule—
 
@@ -42,7 +42,7 @@ Regulated Activities
 
     - (vii) a certified public accountant who gives such advice wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
 
-    - (viii)a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice wholly incidental to the discharge of its duty as such; or
+    - (viii)a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) which gives such advice wholly incidental to the discharge of its duty as such; or
 
     - (ix) a person through—
 
@@ -104,7 +104,7 @@ Regulated Activities
 
     - (vii) a certified public accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a certified public accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
 
-    - (viii)a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
+    - (viii)a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
 
     - (ix) a person who gives such advice or issues such analyses or reports through—
 
@@ -166,7 +166,7 @@ Regulated Activities
 
     - (vii) a certified public accountant who gives such advice, or issues such analyses or reports as part of an advice given, wholly incidental to his practice as a certified public accountant in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); (Amended 23 of 2004 s. 56)
 
-    - (viii)a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
+    - (viii)a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) which gives such advice or issues such analyses or reports wholly incidental to the discharge of its duty as such; or
 
     - (ix) a person who gives such advice or issues such analyses or reports through—
 
@@ -322,7 +322,7 @@ Regulated Activities
 
   - (xi) issues any advertisement, invitation or document the issue of which has been authorized by the Commission under section 105 of this Ordinance;
 
-  - (xii) is a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) acting as an agent for a collective investment scheme which, by performing the act, is carrying out its functions of distributing application forms, redemption notices, conversion notices and contract notes, receiving money and issuing receipts on behalf of its principal;
+  - (xii) is a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) acting as an agent for a collective investment scheme which, by performing the act, is carrying out its functions of distributing application forms, redemption notices, conversion notices and contract notes, receiving money and issuing receipts on behalf of its principal;
 
 - (xiii)is licensed or registered for Type 4 or Type 6 regulated activity and, solely for the purposes of carrying on that regulated activity, he issues a document under section 175(1)(a)(i) or (ii) of this Ordinance, the content of which complies with the requirements of section 175(1)(b) and (c) of this Ordinance; (Amended L.N. 197 of 2005)
 
@@ -520,7 +520,9 @@ Regulated Activities
 
   - (g) a certified public accountant who provides such service wholly incidental to his practice as such in a practice unit within the meaning of the Professional Accountants Ordinance (Cap. 50); or (Amended 23 of 2004 s. 56)
 
-  - (h) a trust company registered under Part VIII of the Trustee Ordinance (Cap. 29) which provides such service wholly incidental to the discharge of its duty as such. (Amended L.N. 197 of 2005)
+  - (h) a trust company registered under Part 8 of the Trustee Ordinance (Cap. 29) which provides such service wholly incidental to the discharge of its duty as such. (Amended L.N. 197 of 2005)
+
+- (Amended E.R. 2 of 2014)
 
 - Part 3 The following are the specified activities referred to in section 114(5) of this Ordinance—
 

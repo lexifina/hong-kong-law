@@ -2,4 +2,4 @@ An Ordinance to reform the law relating to arbitration, and to provide for relat
 
 [1 June 2011] L.N. 38 of 2011
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 2 of 2014)

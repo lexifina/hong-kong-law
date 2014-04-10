@@ -1,8 +1,10 @@
-# SCHEDULE 4
+# Schedule 4
 
 [s. 26(2)] (Amended 13 of 1993 s. 36)
 
-DETERMINATION OF COMPENSATION
+Determination of Compensation
+
+(Format changes—E.R. 2 of 2014)
 
 - 1. A person who claims compensation under section 24 or 25 shall submit to the Authority particulars in writing of his claim.
 
@@ -38,18 +40,18 @@ DETERMINATION OF COMPENSATION
 
   - (3) In this paragraph—
 
-    - “non-working day” (非工作日) means a day that is not a working day;
+    - non-working day (非工作日) means a day that is not a working day;
 
-    - “note-issuing bank” (發鈔銀行) has the meaning assigned to it by section 2 of the Legal Tender Notes Issue Ordinance (Cap. 65);
+    - note-issuing bank (發鈔銀行) has the meaning assigned to it by section 2 of the Legal Tender Notes Issue Ordinance (Cap. 65);
 
-    - “working day” (工作日) means any day other than—
+    - working day (工作日) means any day other than—
 
       - (a) a public holiday; or
 
       - (b) a gale warning day or black rainstorm warning day as defined in section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1). (Added 6 of 2001 s. 7)
 
-- (Schedule 4 amended 23 of 1987 s. 18)
+- (Amended 23 of 1987 s. 18)
 
-Editorial Note:
+- Editorial Note:
 
-* For the validation of interest payments and application provisions relating to the amendments made by 6 of 2001, see section 13 of 6 of 2001.
+- * For the validation of interest payments and application provisions relating to the amendments made by 6 of 2001, see section 13 of 6 of 2001.

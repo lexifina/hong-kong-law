@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [para. 2]
 
-- PART I
+- Part 1
 
   - 1. The Northing coordinate (N) and Easting coordinate (E) in metres (m) that are included in the fourth column of this Part are based on Hong Kong 1980 Grid System. (L.N. 50 of 2013)
 
@@ -22,7 +22,7 @@ Item | Persons permitted to enter or leave | Times | Conditions
 
 2E. | The drivers of public light buses on a scheduled service who enter or leave the Frontier Closed Area for the sole purpose of carrying persons to or from the Lok Ma Chau Spur Line Public Transport Interchange or Ha Wan Tsuen, and the persons— (a) who enter that Area by those vehicles for the sole purpose of leaving Hong Kong via the Lok Ma Chau Spur Line Control Point; (b) who, after entering Hong Kong via that Control Point, enter, or intend to enter, that Interchange for the sole purpose of leaving that Area by those vehicles; or (c) who, after entering Hong Kong via that Control Point, are travelling on those vehicles for the purpose of leaving that Area. | Beginning on 0600 hours on each day and ending with 0030 hours on the next day | The driver— (a) shall, unless stopping to pick up or set down passengers as specified in the passenger service licence in respect of the scheduled service, drive his vehicle directly from the Frontier Closed Area boundary (from 841896 m (N), 825418 m (E) to 841893 m (N), 825399 m (E)) along an unnamed road to the Lok Ma Chau Spur Line Public Transport Interchange or from that Interchange to that boundary; and (L.N. 50 of 2013) (b) shall not leave the immediate vicinity of the vehicle. The person— (a) under paragraph (a) in the second column, shall not leave the immediate vicinity of that vehicle at any place other than that Interchange; (b) under paragraph (b) in the second column, shall leave that Interchange without undue delay; and (c) under paragraph (c) in the second column, shall not leave the immediate vicinity of that vehicle. (L.N. 74 of 2007)
 
-- PART II
+- Part 2
 
 Item | Persons permitted to enter or leave | Times
 

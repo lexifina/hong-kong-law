@@ -1,141 +1,167 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 3]
 
-RESTRICTED ZONES
+Restricted Zones
 
-- PART 1 (L.N. 88 of 2007)
+- Part 1
 
-Column 1 | Column 2
+- (L.N. 88 of 2007)
 
-1. | (a) Airport Road. | All motor vehicles except franchised buses.
+- Column 1 | Column 2
 
-(b) Cheong Hong Road except—
+- 1. | (a) | Airport Road. | All motor vehicles except franchised buses.
 
-(i) the section of the western carriageway of Cheong Hong Road from a point about 700 m north of its junction with Airport Road to a point about 1050 m north of the same junction; (ii) the section of the eastern kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its junction with Airport Road to a point about 1050 m north of the same junction; and (iii) the section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its junction with Airport Road to a point about 1050 m north of the same junction. (L.N. 40 of 2013)
+- (b) | Cheong Hong Road except—
 
-(c) Cheong Wong Road.
+- (i) | the section of the western carriageway of Cheong Hong Road from a point about 700 m north of its junction with Airport Road to a point about 1 050 m north of the same junction;
 
-(d) The section of Cheong Hing Road from its junction with Airport North Interchange to the ramp to Airport Station, being the area shown in red on a plan numbered PSU/P350/G/2001/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
+- (ii) | the section of the eastern kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its junction with Airport Road to a point about 1 050 m north of the same junction; and
 
-(e) South Perimeter Road except the southern kerbside lane of South Perimeter Road from a point about 655 m west of the junction of South Perimeter Road with Chun Wan Road roundabout to a point about 665 m west of the same junction. (L.N. 40 of 2013)
+- (iii) | the section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its junction with Airport Road to a point about 1 050 m north of the same junction. (L.N. 40 of 2013)
 
-(f) East Coast Road except the eastern kerbside lane of East Coast Road from a point about 75 m south of the junction of the southbound carriageway of East Coast Road with Tung Fai Road to a point about 840 m north of the same junction, excluding—
+- (c) | Cheong Wong Road.
 
-(i) a section from a point about 120 m north of the same junction to a point about 130 m north of the same junction; and (ii) a section from a point about 150 m north of the same junction to a point about 160 m north of the same junction. (L.N. 40 of 2013)
+- (d) | The section of Cheong Hing Road from its junction with Airport North Interchange to the ramp to Airport Station, being the area shown in red on a plan numbered PSU/P350/G/2001/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
 
-(g) Cheong Yip Road.
+- (e) | South Perimeter Road except the southern kerbside lane of South Perimeter Road from a point about 655 m west of the junction of South Perimeter Road with Chun Wan Road roundabout to a point about 665 m west of the same junction. (L.N. 40 of 2013)
 
-(h) Cheong Tat Road.
+- (f) | East Coast Road except the eastern kerbside lane of East Coast Road from a point about 75 m south of the junction of the southbound carriageway of East Coast Road with Tung Fai Road to a point about 840 m north of the same junction, excluding—
 
-(i) Cheong Lin Road.
+- (i) | a section from a point about 120 m north of the same junction to a point about 130 m north of the same junction; and
 
-(j) Chun Ping Road.
+- (ii) | a section from a point about 150 m north of the same junction to a point about 160 m north of the same junction. (L.N. 40 of 2013)
 
-(k) Chun Wan Road except—
+- (g) | Cheong Yip Road.
 
-(i) the section of the eastbound carriageway of Chun Wan Road from a point about 192 m east of its junction with Chun Ping Road to a point about 202 m east of that junction; and (ii) the section of the westbound carriageway of Chun Wan Road from a point about 292 m east of its junction with Chek Lap Kok South Road to a point about 302 m east of that junction. (L.N. 230 of 2008)
+- (h) | Cheong Tat Road.
 
-(l) Chun Wan Road South.
+- (i) | Cheong Lin Road.
 
-(m) Chun Yue Road.
+- (j) | Chun Ping Road.
 
-(n) Chun Ming Road.
+- (k) | Chun Wan Road except—
 
-(o) Catering Road East.
+- (i) | the section of the eastbound carriageway of Chun Wan Road from a point about 192 m east of its junction with Chun Ping Road to a point about 202 m east of that junction; and
 
-(p) Scenic Road.
+- (ii) | the section of the westbound carriageway of Chun Wan Road from a point about 292 m east of its junction with Chek Lap Kok South Road to a point about 302 m east of that junction. (L.N. 230 of 2008)
 
-(q) The section of Chek Lap Kok South Road from its junction with South Perimeter Road to a point about 1330 m south-east of the same junction except— (L.N. 40 of 2013)
+- (l) | Chun Wan Road South.
 
-(i) the northern kerbside lane of Chek Lap Kok South Road from a point about 287 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 290 m east of the same junction; (ii) the northern kerbside lane of Chek Lap Kok South Road from a point about 343 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 348 m east of the same junction; and (iii) the northern kerbside lane of Chek Lap Kok South Road from a point about 400 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 404 m east of the same junction. (L.N. 40 of 2013)
+- (m) | Chun Yue Road.
 
-(r) Cheong Lin Path. (L.N. 202 of 2006)
+- (n) | Chun Ming Road.
 
-(s) The section of Chun Wan Road North, being the area shown in red on a plan numbered TS/000/C/1447/A and deposited in the head office of the Authority. (L.N. 230 of 2008; L.N. 40 of 2013)
+- (o) | Catering Road East.
 
-(t) (Repealed L.N. 233 of 2005)
+- (p) | Scenic Road.
 
-(u) (Repealed L.N. 40 of 2013)
+- (q) | The section of Chek Lap Kok South Road from its junction with South Perimeter Road to a point about 1 330 m south-east of the same junction except— (L.N. 40 of 2013)
 
-(v) Catering Road West except section of the northbound carriageway of Catering Road West from a point about 350 m north of its junction with Chun Wan Road Interchange to a point about 380 m north from the same junction.
+- (i) | the northern kerbside lane of Chek Lap Kok South Road from a point about 287 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 290 m east of the same junction;
 
-(w) Sky City Road. (L.N. 233 of 2005)
+- (ii) | the northern kerbside lane of Chek Lap Kok South Road from a point about 343 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 348 m east of the same junction; and
 
-(x) Sky City Interchange. (L.N. 233 of 2005)
+- (iii) | the northern kerbside lane of Chek Lap Kok South Road from a point about 400 m east of the junction of Chek Lap Kok South Road with Chun Yue Road roundabout to a point about 404 m east of the same junction. (L.N. 40 of 2013)
 
-(y) Airport Expo Boulevard. (L.N. 233 of 2005)
+- (r) | Cheong Lin Path. (L.N. 202 of 2006)
 
-(z) Sky City Road East. (L.N. 202 of 2006)
+- (s) | The section of Chun Wan Road North, being the area shown in red on a plan numbered TS/000/C/1447/A and deposited in the head office of the Authority. (L.N. 230 of 2008; L.N. 40 of 2013)
 
-(za) (Repealed L.N. 202 of 2006)
+- (t) | (Repealed L.N. 233 of 2005)
 
-(zb) Sky Plaza Road Central. (L.N. 230 of 2008)
+- (u) | (Repealed L.N. 40 of 2013)
 
-(zc) Sky Plaza Road South. (L.N. 202 of 2006)
+- (v) | Catering Road West except section of the northbound carriageway of Catering Road West from a point about 350 m north of its junction with Chun Wan Road Interchange to a point about 380 m north from the same junction.
 
-(zd) Sky Plaza Drive. (L.N. 202 of 2006)
+- (w) | Sky City Road. (L.N. 233 of 2005)
 
-(ze) The northern and southern sections of Sky Plaza Road, being the areas shown in red on a plan numbered PSU/P350/G/2003/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
+- (x) | Sky City Interchange. (L.N. 233 of 2005)
 
-(zf) The western kerbside lane of the section of Sky Plaza Road, being the area shown in red on a plan numbered PSU/P350/G/2004/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
+- (y) | Airport Expo Boulevard. (L.N. 233 of 2005)
 
-(zg) Airport North Interchange. (L.N. 202 of 2006)
+- (z) | Sky City Road East. (L.N. 202 of 2006)
 
-(zh) Airport South Interchange. (L.N. 202 of 2006)
+- (za) | (Repealed L.N. 202 of 2006)
 
-(zi) Chun Wan Road Interchange. (L.N. 202 of 2006)
+- (zb) | Sky Plaza Road Central. (L.N. 230 of 2008)
 
-(zj) The segregated left turning lane near Airport South Interchange linking Cheong Lin Road to the southbound carriageway of Airport Road. (L.N. 202 of 2006)
+- (zc) | Sky Plaza Road South. (L.N. 202 of 2006)
 
-(zk) The segregated left turning lane near Airport North Interchange linking Cheong Hong Road to Sky Plaza Road Central. (L.N. 202 of 2006)
+- (zd) | Sky Plaza Drive. (L.N. 202 of 2006)
 
-(zl) Sky Plaza Road North. (L.N. 230 of 2008)
+- (ze) | The northern and southern sections of Sky Plaza Road, being the areas shown in red on a plan numbered PSU/P350/G/2003/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
 
-(zm) Cheong King Road. (L.N. 230 of 2008)
+- (zf) | The western kerbside lane of the section of Sky Plaza Road, being the area shown in red on a plan numbered PSU/P350/G/2004/A and deposited in the head office of the Authority. (L.N. 202 of 2006)
 
-(zn) Cheong Wui Road. (L.N. 230 of 2008)
+- (zg) | Airport North Interchange. (L.N. 202 of 2006)
 
-(zo) The access road linking Sky Plaza Road Central to Coach Station at Terminal 2, adjacent to Sky Plaza Drive, being the area shown in red on a plan numbered TS/000/C/1334/A and deposited in the head office of the Authority. (L.N. 40 of 2013)
+- (zh) | Airport South Interchange. (L.N. 202 of 2006)
 
-(zp) The segregated left turning lane near Airport South Interchange linking the eastbound carriageway of Cheong Lin Road to the northbound carriageway of Airport Road. (L.N. 40 of 2013)
+- (zi) | Chun Wan Road Interchange. (L.N. 202 of 2006)
 
-2. | (a) The section of the northbound carriageway of Catering Road West from a point about 350 m north of its junction with Chun Wan Road Interchange to a point about 380 m north from the same junction. | All motor vehicles except franchised buses and taxis.
+- (zj) | The segregated left turning lane near Airport South Interchange linking Cheong Lin Road to the southbound carriageway of Airport Road. (L.N. 202 of 2006)
 
-(b) (Repealed L.N. 230 of 2008)
+- (zk) | The segregated left turning lane near Airport North Interchange linking Cheong Hong Road to Sky Plaza Road Central. (L.N. 202 of 2006)
 
-3. | (a) The section of the western kerbside lane of the western carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction. (L.N. 233 of 2005) (b) The section of the layby of the eastbound carriageway of Airport Expo Boulevard from a point about 78 m east of its junction with Sky City Road to a point about 156 m east of the junction, being the area delineated by hatching on a plan numbered PSU/P330/C/0021/A and deposited in the head office of the Authority. (L.N. 233 of 2005) | All goods vehicles, taxis and private cars.
+- (zl) | Sky Plaza Road North. (L.N. 230 of 2008)
 
-4. | (a) The section of the eastern kerbside lane of the western carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction. | All motor vehicles.
+- (zm) | Cheong King Road. (L.N. 230 of 2008)
 
-(b) The section of the eastern kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction.
+- (zn) | Cheong Wui Road. (L.N. 230 of 2008)
 
-(c) Cheong Shun Road. (L.N. 233 of 2005)
+- (zo) | The access road linking Sky Plaza Road Central to Coach Station at Terminal 2, adjacent to Sky Plaza Drive, being the area shown in red on a plan numbered TS/000/C/1334/A and deposited in the head office of the Authority. (L.N. 40 of 2013)
 
-(d) Light Goods Vehicles Access Area to the east of Cheong Shun Road, being the area shown in yellow on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. (L.N. 88 of 2007)
+- (zp) | The segregated left turning lane near Airport South Interchange linking the eastbound carriageway of Cheong Lin Road to the northbound carriageway of Airport Road. (L.N. 40 of 2013)
 
-(e) The access road from egress of AA Staff Car Park to Sky Plaza Road Central, being the area shown in red on a plan numbered TS/000/C/1353A and deposited in the head office of the Authority. (L.N. 40 of 2013)
+- 2. | (a) | The section of the northbound carriageway of Catering Road West from a point about 350 m north of its junction with Chun Wan Road Interchange to a point about 380 m north from the same junction. | All motor vehicles except franchised buses and taxis.
 
-5. | (a) The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its southern junction with Airport Road to a point about 1050 m north from the same junction. (L.N. 202 of 2006; L.N. 40 of 2013) | All goods vehicles.
+- (b) | (Repealed L.N. 230 of 2008)
 
-(b) The eastern kerbside lane, including the laybys, of the section of Sky Plaza Road, being the area shown in red on a plan numbered PSU/P350/G/2009/A and deposited in the head office of the Authority. (L.N. 230 of 2008)
+- 3. | (a) | The section of the western kerbside lane of the western carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1 050 m north from the same junction. (L.N. 233 of 2005) | All goods vehicles, taxis and private cars.
 
-6. | Tung Fai Road except— (L.N. 40 of 2013) | All motor vehicles except franchised buses.
+- (b) | The section of the layby of the eastbound carriageway of Airport Expo Boulevard from a point about 78 m east of its junction with Sky City Road to a point about 156 m east of the junction, being the area delineated by hatching on a plan numbered PSU/P330/C/0021/A and deposited in the head office of the Authority. (L.N. 233 of 2005)
 
-(a) the southern kerbside lane of Tung Fai Road from a point about 20 m east of the junction of Tung Fai Road with East Coast Road to the same junction; and (b) the northern kerbside lane of Tung Fai Road from a point about 15 m east of the junction of Tung Fai Road with East Coast Road to the same junction. (L.N. 207 of 2000; L.N. 40 of 2013)
+- 4. | (a) | The section of the eastern kerbside lane of the western carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1 050 m north from the same junction. | All motor vehicles.
 
-7. | The road intersecting the south end of Tung Fai Road, being the area delineated by hatching on a plan numbered AMD/LOD/GZ/008A and deposited in the head office of the Authority. (L.N. 207 of 2000) | All motor vehicles except franchised buses.
+- (b) | The section of the eastern kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 700 m north of its southern junction with Airport Road to a point about 1 050 m north from the same junction.
 
-- PART 2
+- (c) | Cheong Shun Road. (L.N. 233 of 2005)
 
-Column 1 | Column 2 | Column 3
+- (d) | Light Goods Vehicles Access Area to the east of Cheong Shun Road, being the area shown in yellow on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. (L.N. 88 of 2007)
 
-1. | Light Goods Vehicles Unloading Area to the east of Cheong Shun Road, being the area shown in red on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. | (a) Light goods vehicles. (b) Other motor vehicles. | Loading goods. Picking up passengers, setting down passengers, loading goods and unloading goods.
+- (e) | The access road from egress of AA Staff Car Park to Sky Plaza Road Central, being the area shown in red on a plan numbered TS/000/C/1353A and deposited in the head office of the Authority. (L.N. 40 of 2013)
 
-2. | Light Goods Vehicles Loading Area to the east of Cheong Shun Road, being the area shown in green on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. | (a) Light goods vehicles. (b) Other motor vehicles. | Unloading goods. Picking up passengers, setting down passengers, loading goods and unloading goods.
+- 5. | (a) | The section of the western kerbside lane of the eastern carriageway of Cheong Hong Road from a point about 645 m north of its southern junction with Airport Road to a point about 1 050 m north from the same junction. (L.N. 202 of 2006; L.N. 40 of 2013) | All goods vehicles.
 
-3. | The section of the eastbound carriageway of Chun Wan Road from a point about 192 m east of its junction with Chun Ping Road to a point about 202 m east of that junction. (L.N. 230 of 2008) | (a) Taxi. (b) Other motor vehicles. | Picking up passengers, loading goods and unloading goods. Picking up passengers, setting down passengers, loading goods and unloading goods.
+- (b) | The eastern kerbside lane, including the laybys, of the section of Sky Plaza Road, being the area shown in red on a plan numbered PSU/P350/G/2009/A and deposited in the head office of the Authority. (L.N. 230 of 2008)
 
-4. | The section of the westbound carriageway of Chun Wan Road from a point about 292 m east of its junction with Chek Lap Kok South Road to a point about 302 m east of that junction. (L.N. 230 of 2008) | (a) Taxi. (b) Other motor vehicles. | Picking up passengers, loading goods and unloading goods. Picking up passengers, setting down passengers, loading goods and unloading goods.
+- 6. | Tung Fai Road except— (L.N. 40 of 2013) | All motor vehicles except franchised buses.
 
-(L.N. 88 of 2007)
+- (a) | the southern kerbside lane of Tung Fai Road from a point about 20 m east of the junction of Tung Fai Road with East Coast Road to the same junction; and
+
+- (b) | the northern kerbside lane of Tung Fai Road from a point about 15 m east of the junction of Tung Fai Road with East Coast Road to the same junction. (L.N. 207 of 2000; L.N. 40 of 2013)
+
+- 7. | The road intersecting the south end of Tung Fai Road, being the area delineated by hatching on a plan numbered AMD/LOD/GZ/008A and deposited in the head office of the Authority. (L.N. 207 of 2000) | All motor vehicles except franchised buses.
+
+- Part 2
+
+- Column 1 | Column 2 | Column 3
+
+- 1. | Light Goods Vehicles Unloading Area to the east of Cheong Shun Road, being the area shown in red on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. | (a) | Light goods vehicles. | Loading goods.
+
+- (b) | Other motor vehicles. | Picking up passengers, setting down passengers, loading goods and unloading goods.
+
+- 2. | Light Goods Vehicles Loading Area to the east of Cheong Shun Road, being the area shown in green on a plan numbered TSP/000/C/1152A and deposited in the head office of the Authority. | (a) | Light goods vehicles. | Unloading goods.
+
+- (b) | Other motor vehicles. | Picking up passengers, setting down passengers, loading goods and unloading goods.
+
+- 3. | The section of the eastbound carriageway of Chun Wan Road from a point about 192 m east of its junction with Chun Ping Road to a point about 202 m east of that junction. (L.N. 230 of 2008) | (a) | Taxi. | Picking up passengers, loading goods and unloading goods.
+
+- (b) | Other motor vehicles. | Picking up passengers, setting down passengers, loading goods and unloading goods.
+
+- 4. | The section of the westbound carriageway of Chun Wan Road from a point about 292 m east of its junction with Chek Lap Kok South Road to a point about 302 m east of that junction. (L.N. 230 of 2008) | (a) | Taxi. | Picking up passengers, loading goods and unloading goods.
+
+- (b) | Other motor vehicles. | Picking up passengers, setting down passengers, loading goods and unloading goods.
+
+- (L.N. 88 of 2007)

@@ -2,4 +2,6 @@ An Ordinance to provide for the establishment and the functions of the Hong Kong
 
 [1 June 1995]
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Format changes—E.R. 2 of 2014)
+
+(Enacting provision omitted—E.R. 2 of 2014)

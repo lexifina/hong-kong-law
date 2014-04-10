@@ -1,5 +1,7 @@
-To make provision for the incorporation of The Hong Kong Institute of Housing and for matters connected therewith.
+An Ordinance to make provision for the incorporation of The Hong Kong Institute of Housing and for matters connected therewith.
 
 [9 May 1997]
 
-Enacted by the Governor of Hong Kong, with the advice and consent of the Legislative Council thereof.
+(Enacting provision omitted—E.R. 2 of 2014)
+
+(Format changes—E.R. 2 of 2014)

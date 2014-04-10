@@ -24,7 +24,7 @@
 
 - 2. Powers Without prejudice to any other Ordinance, the corporation shall have the following powers—
 
-  - (a) to acquire, take on lease, purchase, hold and enjoy any property and invest moneys upon mortgage of any immovable property or upon the mortgages, debentures, stocks, funds, shares or investments specified in the Second Schedule of the Trustee Ordinance (Cap. 29);
+  - (a) to acquire, take on lease, purchase, hold and enjoy any property and invest moneys upon mortgage of any immovable property or upon the mortgages, debentures, stocks, funds, shares or investments specified in Schedule 2 of the Trustee Ordinance (Cap. 29);
 
   - (b) with the approval of the Chief Executive, to grant, sell, convey, assign, surrender, exchange, partition, yield up, mortgage, transfer or otherwise dispose of any immovable property; (Amended 4 of 2000 s. 3)
 
@@ -55,6 +55,8 @@
   - (o) to do all such other lawful things as are incidental or conducive to the attainment of the above objects;
 
   - (p) subject to the provisions of sub-paragraphs (b), (d) and (j) with regard to approval or consent, to enter into any contract with the Government or any other person.
+
+- (Amended E.R. 2 of 2014)
 
 - 3. Common seal
 
