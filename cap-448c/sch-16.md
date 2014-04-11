@@ -24,13 +24,15 @@
 
       - dangerous goods transport document means a document, not being an air waybill, which is required by Regulation 4 of these Regulations to accompany a consignment of dangerous goods;
 
+      - ground personnel for flight operations, in relation to an aircraft, means a person who has the responsibilities for the operational control of the aircraft as described in Chapter 4.1.1(b) of Part 7 of the Technical Instructions; (L.N. 182 of 2013)
+
       - package means the packaging and the articles and substances contained therein including one or more packages which have been consolidated by one shipper into one container or enclosure for convenience in handling;
 
       - packing means the art and operation whereby articles and substances are wrapped up, enclosed in containers or otherwise secured, and packed shall be construed accordingly;
 
-      - States concerned has the same meaning as it has in Chapter 1.1.3 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001; L.N. 140 of 2011)
+      - States concerned has the same meaning as it has in Chapter 1.1 of Part 1 of the Technical Instructions; (L.N. 179 of 1999; L.N. 234 of 2001; L.N. 140 of 2011; L.N. 182 of 2013)
 
-      - Technical Instructions* means the 2011–2012 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011)
+      - Technical Instructions* means the 2013–2014 English language edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization; (L.N. 150 of 1997; L.N. 179 of 1999; L.N. 234 of 2001; L.N. 214 of 2003; L.N. 74 of 2006; L.N. 195 of 2007; L.N. 193 of 2009; L.N. 140 of 2011; L.N. 182 of 2013)
 
       - unit load device means any type of freight container including any container designed for loading on an aircraft.
 
@@ -66,13 +68,13 @@
 
       - (b) solely intended for the use of, or for sale to, the passengers, flight crew members or cabin crew members of the aircraft during the flight;
 
-      - (c) of a type specified in Chapter 1.1.4 of Part 1 of the Technical Instructions; (L.N. 140 of 2011)
+      - (c) of a type specified in Chapter 1.1.5 of Part 1 of the Technical Instructions; (L.N. 140 of 2011; L.N. 182 of 2013)
 
       - (d)-(h) (Repealed L.N. 140 of 2011)
 
       - (i) of a type specified in Chapter 2.2.1 of Part 1 of the Technical Instructions;
 
-      - (j) of a type specified in Chapter 1.1.2 of Part 8 of the Technical Instructions. (L.N. 195 of 2007)
+      - (j) of a type specified in Table 8–1 of Part 8 of the Technical Instructions. (L.N. 195 of 2007; L.N. 182 of 2013)
 
     - (3A)-(3F) (Repealed L.N. 140 of 2011)
 
@@ -89,6 +91,12 @@
     - (2)-(3) (Repealed L.N. 234 of 2001)
 
     - (4) The operator of an aircraft shall preserve for not less than six months any dangerous goods transport document or other document in respect of dangerous goods which has been furnished to him in accordance with this Regulation.
+
+    - (5) If any dangerous goods are not accepted by the operator of an aircraft under Regulation 6(1A), the operator is required to preserve for not less than six months a copy of—
+
+      - (a) the document which would have been the dangerous goods transport document in respect of the dangerous goods if those goods were accepted under Regulation 6(1A) and any other document referred to in Regulation 4(4), in respect of those goods; and
+
+      - (b) any acceptance check list completed under Regulation 6(1A), for any package or unit load device containing the dangerous goods. (L.N. 182 of 2013)
 
   - 5. (Repealed L.N. 234 of 2001)
 
@@ -136,13 +144,15 @@
 
     - (2) An aircraft shall not carry any dangerous goods either in any compartment occupied by passengers or in the flight crew compartment, except in circumstances permitted by the provisions of Chapter 2.1 of Part 7 of the Technical Instructions.
 
+    - (3) In addition to complying with paragraph (1), the operator of a helicopter must, when any dangerous goods are carried or loaded for carriage by, or suspended from, the helicopter, ensure that the matters set out in Chapters 7.1.2 and 7.1.3 of Part 7 of the Technical Instructions are taken into consideration in relation to the helicopter and the goods. (L.N. 182 of 2013)
+
   - (L.N. 234 of 2001)
 
   - 8. Provisions of information and training programmes by operators
 
     - (1) The operator of an aircraft in which dangerous goods are to be carried shall—
 
-      - (a) as early as practicable before departure of the aircraft, provide the commander of the aircraft with accurate and legible written or printed information in respect of the dangerous goods in accordance with the provisions of Chapters 4.1.1, 4.1.2, 4.1.3, 4.1.5, 4.1.8 and 4.1.9 of Part 7 of the Technical Instructions; (L.N. 193 of 2009)
+      - (a) as early as practicable before departure of the aircraft, but not later than when the aircraft moves under its own power, provide the commander of the aircraft and the ground personnel for flight operations with accurate and legible written or printed information in respect of the dangerous goods in accordance with the provisions of Chapters 4.1.1, 4.1.2, 4.1.3, 4.1.4, 4.1.6, 4.1.9 and 4.1.10 of Part 7 of the Technical Instructions; (L.N. 193 of 2009; L.N. 182 of 2013)
 
       - (b) ensure that the information is readily available to the commander during the flight; and
 
@@ -154,7 +164,7 @@
 
       - (a) a legible copy of the information which has an indication on it, or with it, that the commander has received the information is retained on the ground; and
 
-      - (b) the copy, or the information contained in it, is readily accessible to the aerodromes of last departure and next scheduled arrival point until after the flight to which the information refers. (L.N. 214 of 2003)
+      - (b) the copy referred to in subparagraph (a), or the information contained in it, is readily accessible to the ground personnel for flight operations until after the aircraft has landed at the aerodrome of intended destination. (L.N. 214 of 2003; L.N. 182 of 2013)
 
     - (2) The operator of an aerodrome and the operator of an aircraft in which passengers are to be carried or his handling agent shall ensure that passengers of the aircraft are provided with information, in accordance with paragraph (2A), as to which categories of dangerous goods may not be taken on board the aircraft (whether as checked baggage or baggage accompanying passengers). (L.N. 74 of 2006; L.N. 195 of 2007)
 
@@ -190,7 +200,7 @@
 
         - (ii) the indications that suggest that there may be dangerous goods in cargo or in passengers’ baggage; and
 
-        - (iii) which categories of dangerous goods may be carried by passengers as listed in Chapter 1.1.2 of Part 8 of the Technical Instructions; and
+        - (iii) which categories of dangerous goods may be carried by passengers as listed in Table 8–1 of Part 8 of the Technical Instructions; and (L.N. 182 of 2013)
 
       - (b) the information specified in subparagraph (a) is readily available to such staff. (L.N. 195 of 2007)
 
@@ -224,10 +234,10 @@
 
     - (c) the completed acceptance check list in a legible form in respect of any dangerous goods, referred to in Regulation 6(1A) of these Regulations; (L.N. 193 of 2009)
 
-    - (d) a copy of the written or printed information provided to the commander of the aircraft in respect of any dangerous goods, referred to in Regulation 8(1) of these Regulations. (L.N. 214 of 2003)
+    - (d) a copy of the written or printed information provided to the commander of the aircraft and the ground personnel for flight operations in respect of any dangerous goods, referred to in Regulation 8(1) of these Regulations. (L.N. 214 of 2003; L.N. 182 of 2013)
 
   - 10. (Repealed L.N. 195 of 2007) TABLE OF COMPARISON (Repealed L.N. 77 of 2008)
 
 Editorial Note:
 
-* The English and Chinese texts of the 2011–2012 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
+* The English and Chinese texts of the 2013–2014 edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air approved and published by decision of the Council of the International Civil Aviation Organization are available for inspection at the Civil Aviation Department of the Government of the HKSAR.
