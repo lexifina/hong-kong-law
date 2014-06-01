@@ -24,4 +24,16 @@ Item | Pesticide | CAS registry number
 
 9. | Toxaphene | 8001-35-2
 
-(Schedule 1 added 14 of 2013 s. 22)
+10. | Alpha hexachlorocyclohexane | 319-84-6
+
+11. | Beta hexachlorocyclohexane | 319-85-7
+
+12. | Chlordecone | 143-50-0
+
+13. | Lindane | 58-89-9
+
+14. | Pentachlorobenzene | 608-93-5
+
+15. | Technical endosulfan and its related isomers | 115-29-7; 959-98-8; 33213-65-9
+
+(Schedule 1 added 14 of 2013 s. 22. Amended L.N. 43 of 2014)
