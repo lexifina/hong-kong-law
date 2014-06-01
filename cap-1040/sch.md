@@ -14,11 +14,15 @@
 
   - (d) to establish, maintain and manage homes and nurseries;
 
+  - (da) to establish, maintain and manage medical and health care institutions in Hong Kong; (Added L.N. 24 of 2014)
+
   - (e) to establish, maintain and manage schools and other educational institutions in Hong Kong;
 
   - (ea) to undertake charitable work outside Hong Kong with the prior approval of the Secretary for Home Affairs; (Added L.N. 36 of 2002)
 
   - (f) to establish and support, and to aid in the establishment and support of, any other charitable organizations formed for all or any of the objects of the corporation;
+
+  - (fa) to provide all kinds of medical and health services (including dental services) for the Hong Kong community; (Added L.N. 24 of 2014)
 
   - (g) to provide all kinds of social services for the Hong Kong community.
 
@@ -158,7 +162,7 @@
 
   - (2) A member of the advisory board shall preside at any such election.
 
-- 16. Board to manage corporation The board shall, subject to the provisions of this Ordinance, have full power and authority generally to govern the corporation and to direct and decide all matters whatsoever connected with the administration of the affairs of the corporation and the accomplishment of the objects thereof, and under such regulations as may from time to time be made by the board to supervise and manage the homes, nurseries, schools and other institutions under the control of the corporation.
+- 16. Board to manage corporation The board shall, subject to the provisions of this Ordinance, have full power and authority generally to govern the corporation and to direct and decide all matters whatsoever connected with the administration of the affairs of the corporation and the accomplishment of the objects thereof, and under such regulations as may from time to time be made by the board to maintain, manage, operate, regulate and supervise the institutions of any of the kinds set out in paragraph 1 that are under the control of the corporation. (Amended L.N. 24 of 2014)
 
 - 17. Quorum and procedure at board meetings
 
@@ -272,8 +276,6 @@
 
 - 27. Power to make regulations
 
-  - (1) The board may make regulations in relation to or providing for the maintenance, management, operation, regulation or supervision of any of the homes, nurseries, schools or other
-
-  - institutions under the control of the corporation.
+  - (1) The board may make regulations in relation to or providing for the maintenance, management, operation, regulation or supervision of any institutions of any of the kinds set out in paragraph 1 that are under the control of the corporation. (Amended L.N. 24 of 2014)
 
   - (2) Notwithstanding anything contained in section 20 of the Interpretation and General Clauses Ordinance (Cap. 1) it shall not be necessary to publish any such regulations in the Gazette.
