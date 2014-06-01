@@ -6,67 +6,85 @@ SPECIAL ANCHORAGES
 
 - 1. Quarantine Anchorages
 
-  - (a)
+  - (a) Eastern Quarantine Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - Eastern Quarantine Anchorage
+  - (i) | latitude | 22o 18.258’ | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 12.147 | east;
 
-    - (i) latitude 22o 18’ 21” north, longitude 114o 12’ 00” east;
+  - (ii) | latitude | 22o 17.975’ | north,
 
-    - (ii) latitude 22o 18’ 04” north, longitude 114o 12’ 00” east;
+  - longitude | 114o 12.147’ | east;
 
-    - (iii) latitude 22o 18’ 04” north, longitude 114o 12’ 18” east;
+  - (iii) | latitude | 22o 17.975’ | north,
 
-    - (iv) latitude 22o 18’ 21” north, longitude 114o 12’ 29” east;
+  - longitude | 114o 12.434’ | east;
 
-    - (v) latitude 22o 18’ 21” north, longitude 14o 12’ 00” east. (L.N. 237 of 1985)
+  - (iv) | latitude | 22o 18.094’ | north,
 
-  - (b)
+  - longitude | 114o 12.564’ | east;
 
-  - Western Quarantine Anchorage
+  - (v) | latitude | 22o 18.258’ | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 12.573’ | east.
 
-    - (i) latitude 22o 18.858’ north, longitude 114o 06.197’ east; (L.N. 123 of 2002)
+  - Note: | In item 1(a), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84).
 
-    - (ii) latitude 22o 18.325’ north, longitude 114o 05.914’ east; (L.N. 123 of 2002)
+- (L.N. 47 of 2014)
 
-    - (iii) latitude 22o 17.825’ north, longitude 114o 05.964’ east; (L.N. 123 of 2002)
+  - (b) Western Quarantine Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (iv) latitude 22o 18.409’ north, longitude 114o 06.515’ east; (L.N. 123 of 2002)
+  - (i) | latitude | 22o 18.858’ | north,
 
-    - (v) latitude 22o 19.000’ north, longitude 114o 06.459’ east. (L.N. 123 of 2002)
+  - longitude | 114o 06.197’ | east; (L.N. 123 of 2002)
 
-    - (vi)-(vii) (Repealed L.N. 123 of 2002)
+  - (ii) | latitude | 22o 18.325’ | north,
 
-    - Note: The geographical co-ordinates of item 1(b) are represented by the WGS 84. (L.N. 123 of 2002)
+  - longitude | 114o 05.914’ | east; (L.N. 123 of 2002)
+
+  - (iii) | latitude | 22o 17.825’ | north,
+
+  - longitude | 114o 05.964’ | east; (L.N. 123 of 2002)
+
+  - (iv) | latitude | 22o 18.409’ | north,
+
+  - longitude | 114o 06.515’ | east; (L.N. 123 of 2002)
+
+  - (v) | latitude | 22o 19.000’ | north,
+
+  - longitude | 114o 06.459’ | east. (L.N. 123 of 2002)
+
+  - (vi)-(vii) (Repealed L.N. 123 of 2002)
+
+  - Note: | The geographical co-ordinates of item 1(b) are represented by the WGS 84. (L.N. 123 of 2002)
 
 - (L.N. 303 of 1994)
 
 - 2. Dangerous Goods Anchorages
 
-  - (a)
+  - (a) Kau Yi Chau Dangerous Goods Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - Kau Yi Chau Dangerous Goods Anchorage
+  - (i) | latitude | 22o 17’ 01” | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 04’ 44” | east;
 
-    - (i) latitude 22o 17’ 01” north, longitude 114o 04’ 44” east;
+  - (ii) | latitude | 22o 16’ 35” | north,
 
-    - (ii) latitude 22o 16’ 35” north, longitude 114o 05’ 00” east;
+  - longitude | 114o 05’ 00” | east;
 
-    - (iii) latitude 22o 16’ 13” north, longitude 114o 04’ 33” east;
+  - (iii) | latitude | 22o 16’ 13” | north,
 
-    - (iv) latitude 22o 16’ 09” north, longitude 114o 03’ 41” east;
+  - longitude | 114o 04’ 33” | east;
 
-    - (v) latitude 22o 16’ 56” north, longitude 114o 03’ 38” east. (L.N. 303 of 1994)
+  - (iv) | latitude | 22o 16’ 09” | north,
 
-  - (b)
+  - longitude | 114o 03’ 41” | east;
 
-  - Tsuen Wan Dangerous Goods Anchorage
+  - (v) | latitude | 22o 16’ 56” | north,
 
-  - The area of the waters of Hong Kong bounded—
+  - longitude | 114o 03’ 38” | east. (L.N. 303 of 1994)
+
+  - (b) Tsuen Wan Dangerous Goods Anchorage The area of the waters of Hong Kong bounded—
 
     - (i) on the north, by the mainland;
 
@@ -76,361 +94,417 @@ SPECIAL ANCHORAGES
 
     - (iv) on the west, by a straight line drawn 000 degrees from the northwest extremity of Ngan Ying Chau to the mainland.
 
-  - (c)
+  - (c) Western Dangerous Goods Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - Western Dangerous Goods Anchorage
+  - (i) | latitude | 22o 18.409’ | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 06.515’ | east;
 
-    - (i) latitude 22o 18.409’ north, longitude 114o 06.515’ east;
+  - (ii) | latitude | 22o 19.000’ | north,
 
-    - (ii) latitude 22o 19.000’ north, longitude 114o 06.459’ east;
+  - longitude | 114o 06.459’ | east;
 
-    - (iii) latitude 22o 19.168’ north, longitude 114o 06.767’ east;
+  - (iii) | latitude | 22o 19.168’ | north,
 
-    - (iv) latitude 22o 19.171’ north, longitude 114o 07.020’ east;
+  - longitude | 114o 06.767’ | east;
 
-    - (v) latitude 22o 18.842’ north, longitude 114o 07.664’ east;
+  - (iv) | latitude | 22o 19.171’ | north,
 
-    - (vi) latitude 22o 18.358’ north, longitude 114o 07.197’ east; Note: In item 2(c), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
+  - longitude | 114o 07.020’ | east;
 
-  - (d)
+  - (v) | latitude | 22o 18.842’ | north,
 
-  - Rocky Harbour Dangerous Goods Anchorage
+  - longitude | 114o 07.664’ | east;
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (vi) | latitude | 22o 18.358’ | north,
 
-    - (i) latitude 22o 20’ 48” north, longitude 114o 20’ 09” east;
+  - longitude | 114o 07.197’ | east;
 
-    - (ii) latitude 22o 20’ 48” north, longitude 114o 20’ 27” east;
+  - Note: | In item 2(c), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
 
-    - (iii) latitude 22o 20’ 31” north, longitude 114o 20’ 27” east;
+  - (d) Rocky Harbour Dangerous Goods Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (iv) latitude 22o 20’ 31” north, longitude 114o 20’ 09” east.
+  - (i) | latitude | 22o 20’ 48” | north,
 
-  - (e)
+  - longitude | 114o 20’ 09” | east;
 
-  - Junk Bay Dangerous Goods Anchorage
+  - (ii) | latitude | 22o 20’ 48” | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 20’ 27” | east;
 
-    - (i) latitude 22o 17’ 09” north, longitude 114o 15’ 03” east;
+  - (iii) | latitude | 22o 20’ 31” | north,
 
-    - (ii) latitude 22o 16’ 56” north, longitude 114o 14’ 54” east;
+  - longitude | 114o 20’ 27” | east;
 
-    - (iii) latitude 22o 17’ 05” north, longitude 114o 14’ 36” east;
+  - (iv) | latitude | 22o 20’ 31” | north,
 
-    - (iv) latitude 22o 17’ 19” north, longitude 114o 14’ 46” east. (L.N. 129 of 1996)
+  - longitude | 114o 20’ 09” | east.
 
-  - (f)
+  - (e) Junk Bay Dangerous Goods Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - Mirs Bay Dangerous Goods Anchorage
+  - (i) | latitude | 22o 17’ 09” | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 15’ 03 | east;
 
-    - (i) latitude 22o 32’ 18” north, longitude 114o 22’ 00” east;
+  - (ii) | latitude | 22o 16’ 56” | north,
 
-    - (ii) latitude 22o 32’ 18” north, longitude 114o 23’ 00” east;
+  - longitude | 114o 14’ 54” | east;
 
-    - (iii) latitude 22o 31’ 18” north, longitude 114o 23’ 00” east;
+  - (iii) | latitude | 22o 17’ 05” | north,
 
-    - (iv) latitude 22o 31’ 18” north, longitude 114o 22’ 00” east. (L.N. 292 of 1986)
+  - longitude | 114o 14’ 36” | east;
 
-  - (g)
+  - (iv) | latitude | 22o 17’ 19” | north,
 
-  - South Lamma Dangerous Goods Anchorage
+  - longitude | 114o 14’ 46” | east. (L.N. 129 of 1996)
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (f) Mirs Bay Dangerous Goods Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (i) latitude 22o 10’ 24” north, longitude 114o 08’ 48” east;
+  - (i) | latitude | 22o 32’ 18” | north,
 
-    - (ii) latitude 22o 09’ 30” north, longitude 114o 08’ 48” east;
+  - longitude | 114o 22’ 00” | east;
 
-    - (iii) latitude 22o 09’ 30” north, longitude 114o 08’ 00” east;
+  - (ii) | latitude | 22o 32’ 18” | north,
 
-    - (iv) latitude 22o 10’ 24” north, longitude 114o 08’ 00” east. (L.N. 97 of 1987)
+  - longitude | 114o 23’ 00” | east;
 
-  - (h)
+  - (iii) | latitude | 22o 31’ 18” | north,
 
-  - Reserved Dangerous Goods Anchorage
+  - longitude | 114o 23’ 00” | east;
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (iv) | latitude | 22o 31’ 18” | north,
 
-    - (i) latitude 22o 17’ 33” north, longitude 114o 05’ 35” east;
+  - longitude | 114o 22’ 00” | east. (L.N. 292 of 1986)
 
-    - (ii) latitude 22o 17’ 13” north, longitude 114o 05’ 43” east;
+  - (g) South Lamma Dangerous Goods Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (iii) latitude 22o 16’ 58” north, longitude 114o 05’ 27” east;
+  - (i) | latitude | 22o 10’ 24” | north,
 
-    - (iv) latitude 22o 17’ 19” north, longitude 114o 05’ 19” east. (L.N. 303 of 1994)
+  - longitude | 114o 08’ 48” | east;
+
+  - (ii) | latitude | 22o 09’ 30” | north,
+
+  - longitude | 114o 08’ 48” | east;
+
+  - (iii) | latitude | 22o 09’ 30” | north,
+
+  - longitude | 114o 08’ 00” | east;
+
+  - (iv) | latitude | 22o 10’ 24” | north,
+
+  - longitude | 114o 08’ 00” | east. (L.N. 97 of 1987)
+
+  - (h) Reserved Dangerous Goods Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22o 17’ 33” | north,
+
+  - longitude | 114o 05’ 35” | east;
+
+  - (ii) | latitude | 22o 17’ 13” | north,
+
+  - longitude | 114o 05’ 43” | east;
+
+  - (iii) | latitude | 22o 16’ 58” | north,
+
+  - longitude | 114o 05’ 27” | east;
+
+  - (iv) | latitude | 22o 17’ 19” | north,
+
+  - longitude | 114o 05’ 19” | east. (L.N. 303 of 1994)
 
 - 3. Service Anchorages
 
-  - (a)
+  - (a) Ma Wan Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - Ma Wan Anchorage
+  - (i) | latitude | 22o 20’ 47” | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 04’ 18” | east;
 
-    - (i) latitude 22o 20’ 47” north, longitude 114o 04’ 18” east;
+  - (ii) | latitude | 22o 20’ 02” | north,
 
-    - (ii) latitude 22o 20’ 02” north, longitude 114o 04’ 35” east;
+  - longitude | 114o 04’ 35” | east;
 
-    - (iii) latitude 22o 19’ 55” north, longitude 114o 04’ 24” east;
+  - (iii) | latitude | 22o 19’ 55” | north,
 
-    - (iv) latitude 22o 20’ 17” north, longitude 114o 03’ 43” east;
+  - longitude | 114o 04’ 24” | east;
 
-    - (v) latitude 22o 20’ 38” north, longitude 114o 03’ 49” east.
+  - (iv) | latitude | 22o 20’ 17” | north,
 
-  - (b)
+  - longitude | 114o 03’ 43” | east;
 
-  - Pun Shan Shek Anchorage
+  - (v) | latitude | 22o 20’ 38” | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 03’ 49” | east.
 
-    - (i) latitude 22o 20’ 09” north, longitude 114o 03’ 34” east;
+  - (b) Pun Shan Shek Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (ii) latitude 22o 19’ 31” north, longitude 114o 04’ 46” east;
+  - (i) | latitude | 22o 20’ 09” | north,
 
-    - (iii) latitude 22o 19’ 09” north, longitude 114o 04’ 55” east;
+  - longitude | 114o 03’ 34” | east;
 
-    - (iv) latitude 22o 19’ 03” north, longitude 114o 04’ 06” east;
+  - (ii) | latitude | 22o 19’ 31” | north,
 
-    - (v) latitude 22o 18’ 56” north, longitude 114o 03’ 20” east.
+  - longitude | 114o 04’ 46” | east;
 
-  - (c)
+  - (iii) | latitude | 22o 19’ 09” | north,
 
-  - Western Anchorage No. 1
+  - longitude | 114o 04’ 55” | east;
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (iv) | latitude | 22o 19’ 03” | north,
 
-    - (i) latitude 22o 19’ 03” north, longitude 114o 04’ 06” east;
+  - longitude | 114o 04’ 06” | east;
 
-    - (ii) latitude 22o 18’ 02” north, longitude 114o 04’ 35” east;
+  - (v) | latitude | 22o 18’ 56” | north,
 
-    - (iii) latitude 22o 18’ 02” north, longitude 114o 03’ 20” east;
+  - longitude | 114o 03’ 20” | east.
 
-    - (iv) latitude 22o 18’ 56” north, longitude 114o 03’ 20” east.
+  - (c) Western Anchorage No. 1 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - (d)
+  - (i) | latitude | 22o 19’ 03” | north,
 
-  - Western Anchorage No. 2
+  - longitude | 114o 04’ 06” | east;
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (ii) | latitude | 22o 18’ 02” | north,
 
-    - (i) latitude 22o 19’ 09” north, longitude 114o 04’ 55” east;
+  - longitude | 114o 04’ 35” | east;
 
-    - (ii) latitude 22o 18’ 02” north, longitude 114o 05’ 23” east;
+  - (iii) | latitude | 22o 18’ 02” | north,
 
-    - (iii) latitude 22o 18’ 02” north, longitude 114o 04’ 35” east;
+  - longitude | 114o 03’ 20” | east;
 
-    - (iv) latitude 22o 19’ 03” north, longitude 114o 04’ 06” east.
+  - (iv) | latitude | 22o 18’ 56” | north,
 
-  - (e)
+  - longitude | 114o 03’ 20” | east.
 
-  - Western Anchorage No. 3
+  - (d) Western Anchorage No. 2 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (i) | latitude | 22o 19’ 09” | north,
 
-    - (i) latitude 22o 18’ 02” north, longitude 114o 05’ 23” east;
+  - longitude | 114o 04’ 55” | east;
 
-    - (ii) latitude 22o 17’ 33” north, longitude 114o 05’ 35” east;
+  - (ii) | latitude | 22o 18’ 02” | north,
 
-    - (iii) latitude 22o 17’ 19” north, longitude 114o 05’ 19” east;
+  - longitude | 114o 05’ 23” | east;
 
-    - (iv) latitude 22o 16’ 58” north, longitude 114o 05’ 27” east;
+  - (iii) | latitude | 22o 18’ 02” | north,
 
-    - (v) latitude 22o 16’ 35” north, longitude 114o 05’ 00” east;
+  - longitude | 114o 04’ 35” | east;
 
-    - (vi) latitude 22o 17’ 01” north, longitude 114o 04’ 44” east;
+  - (iv) | latitude | 22o 19’ 03” | north,
 
-    - (vii) latitude 22o 17’ 43” north, longitude 114o 04’ 49” east;
+  - longitude | 114o 04’ 06” | east.
 
-    - (viii) latitude 22o 18’ 02” north, longitude 114o 04’ 35” east.
+  - (e) Western Anchorage No. 3 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - (f)
+  - (i) | latitude | 22o 18’ 02” | north,
 
-  - North Lamma Anchorage
+  - longitude | 114o 05’ 23” | east;
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (ii) | latitude | 22o 17’ 33” | north,
 
-    - (i) latitude 22o 16’ 14” north, longitude 114o 06’ 08” east;
+  - longitude | 114o 05’ 35” | east;
 
-    - (ii) latitude 22o 14’ 58” north, longitude 114o 06’ 50” east;
+  - (iii) | latitude | 22o 17’ 19” | north,
 
-    - (iii) latitude 22o 14’ 42” north, longitude 114o 06’ 48” east;
+  - longitude | 114o 05’ 19” | east;
 
-    - (iv) latitude 22o 14’ 29” north, longitude 114o 06’ 24” east;
+  - (iv) | latitude | 22o 16’ 58” | north,
 
-    - (v) latitude 22o 16’ 01” north, longitude 114o 05’ 24” east;
+  - longitude | 114o 05’ 27” | east;
 
-    - (vi) latitude 22o 16’ 11” north, longitude 114o 05’ 28” east.
+  - (v) | latitude | 22o 16’ 35” | north,
 
-  - (g)
+  - longitude | 114o 05’ 00” | east;
 
-  - North-west Lamma Anchorage
+  - (vi) | latitude | 22o 17’ 01” | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 04’ 44” | east;
 
-    - (i) latitude 22o 16’ 01” north, longitude 114o 05’ 24” east;
+  - (vii) | latitude | 22o 17’ 43” | north,
 
-    - (ii) latitude 22o 14’ 29” north, longitude 114o 06’ 24” east;
+  - longitude | 114o 04’ 49” | east;
 
-    - (iii) latitude 22o 14’ 10” north, longitude 114o 05’ 49” east;
+  - (viii) | latitude | 22o 18’ 02” | north,
 
-    - (iv) latitude 22o 14’ 10” north, longitude 114os 04’ 35” east.
+  - longitude | 114o 04’ 35” | east.
 
-  - (h)
+  - (f) North Lamma Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-  - Yau Ma Tei Anchorage
+  - (i) | latitude | 22o 16’ 14” | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 06’ 08” | east;
 
-    - (i) latitude 22o 19’ 05” north, longitude 114o 08’ 36” east;
+  - (ii) | latitude | 22o 14’ 58” | north,
 
-    - (ii) latitude 22o 19’ 12” north, longitude 114o 08’ 43” east;
+  - longitude | 114o 06’ 50” | east;
 
-    - (iii) latitude 22o 19’ 11” north, longitude 114o 08’ 55” east;
+  - (iii) | latitude | 22o 14’ 42” | north,
 
-    - (iv) latitude 22o 18’ 06” north, longitude 114o 08’ 55” east;
+  - longitude | 114o 06’ 48” | east;
 
-    - (v) latitude 22o 18’ 06” north, longitude 114o 08’ 36” east. (L.N. 270 of 1999)
+  - (iv) | latitude | 22o 14’ 29” | north,
 
-  - (i)
+  - longitude | 114o 06’ 24” | east;
 
-  - Kellett Anchorage No. 1
+  - (v) | latitude | 22o 16’ 01” | north,
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - longitude | 114o 05’ 24” | east;
 
-    - (i) latitude 22o17.825’ north,
+  - (vi) | latitude | 22o 16’ 11” | north,
 
-    - longitude 114o05.964’ east;
+  - longitude | 114o 05’ 28” | east.
 
-    - (ii) latitude 22o18.339’ north,
+  - (g) North-west Lamma Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - longitude 114o06.449’ east;
+  - (i) | latitude | 22o 16’ 01” | north,
 
-    - (iii) latitude 22o17.901’ north,
+  - longitude | 114o 05’ 24” | east;
 
-    - longitude 114o06.478’ east;
+  - (ii) | latitude | 22o 14’ 29” | north,
 
-    - (iv) latitude 22o17.389’ north,
+  - longitude | 114o 06’ 24” | east;
 
-    - longitude 114o06.221’ east.
+  - (iii) | latitude | 22o 14’ 10” | north,
 
-    - Note: In item 3(i), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
+  - longitude | 114o 05’ 49” | east;
 
-  - (j)
+  - (iv) | latitude | 22o 14’ 10” | north,
 
-  - Kellett Anchorage No. 2
+  - longitude | 114os 04’ 35” | east.
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (h) Yau Ma Tei Anchorage The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - (i) latitude 22o18.358’ north,
+  - (i) | latitude | 22o 19’ 05” | north,
 
-    - longitude 114o07.197’ east;
+  - longitude | 114o 08’ 36” | east;
 
-    - (ii) latitude 22o18.625’ north,
+  - (ii) | latitude | 22o 19’ 12” | north,
 
-    - longitude 114o07.455’ east;
+  - longitude | 114o 08’ 43” | east;
 
-    - (iii) latitude 22o17.859’ north,
+  - (iii) | latitude | 22o 19’ 11” | north,
 
-    - longitude 114o08.089’ east;
+  - longitude | 114o 08’ 55” | east;
 
-    - (iv) latitude 22o17.934’ north,
+  - (iv) | latitude | 22o 18’ 06” | north,
 
-    - longitude 114o08.414’ east;
+  - longitude | 114o 08’ 55” | east;
 
-    - (v) latitude 22o17.692’ north,
+  - (v) | latitude | 22o 18’ 06” | north,
 
-    - longitude 114o08.614’ east;
+  - longitude | 114o 08’ 36” | east. (L.N. 270 of 1999)
 
-    - (vi) latitude 22o17.434’ north,
+  - (i) Kellett Anchorage No. 1 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - longitude 114o07.503’ east.
+  - (i) | latitude | 22o17.825’ | north,
 
-    - Note: In item 3(j), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
+  - longitude | 114o05.964’ | east;
 
-  - (k)
+  - (ii) | latitude | 22o18.339’ | north,
 
-  - Kellett Anchorage No. 3
+  - longitude | 114o06.449’ | east;
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (iii) | latitude | 22o17.901’ | north,
 
-    - (i) latitude 22o18.625’ north,
+  - longitude | 114o06.478’ | east;
 
-    - longitude 114o07.455’ east;
+  - (iv) | latitude | 22o17.389’ | north,
 
-    - (ii) latitude 22o18.842’ north,
+  - longitude | 114o06.221’ | east.
 
-    - longitude 114o07.664’ east;
+  - Note: | In item 3(i), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
 
-    - (iii) latitude 22o17.934’ north,
+  - (j) Kellett Anchorage No. 2 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - longitude 114o08.414’ east;
+  - (i) | latitude | 22o18.358’ | north,
 
-    - (iv) latitude 22o17.859’ north,
+  - longitude | 114o07.197’ | east;
 
-    - longitude 114o08.089’ east.
+  - (ii) | latitude | 22o18.625’ | north,
 
-    - Note: In item 3(k), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
+  - longitude | 114o07.455’ | east;
 
-  - (l)
+  - (iii) | latitude | 22o17.859’ | north,
 
-  - Sham Shui Kok Anchorage No. 1
+  - longitude | 114o08.089’ | east;
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (iv) | latitude | 22o17.934’ | north,
 
-    - (i) latitude 22o19.455’ north,
+  - longitude | 114o08.414’ | east;
 
-    - longitude 113o58.569’ east;
+  - (v) | latitude | 22o17.692’ | north,
 
-    - (ii) latitude 22o19.515’ north,
+  - longitude | 114o08.614’ | east;
 
-    - longitude 113o59.202’ east;
+  - (vi) | latitude | 22o17.434’ | north,
 
-    - (iii) latitude 22o19.185’ north,
+  - longitude | 114o07.503’ | east.
 
-    - longitude 113o59.371’ east;
+  - Note: | In item 3(j), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
 
-    - (iv) latitude 22o19.140’ north,
+  - (k) Kellett Anchorage No. 3 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - longitude 113o58.619’ east.
+  - (i) | latitude | 22o18.625’ | north,
 
-    - Note: In item 3(l), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
+  - longitude | 114o07.455’ | east;
 
-  - (m)
+  - (ii) | latitude | 22o18.842’ | north,
 
-  - Sham Shui Kok Anchorage No. 2
+  - longitude | 114o07.664’ | east;
 
-  - The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+  - (iii) | latitude | 22o17.934’ | north,
 
-    - (i) latitude 22o19.528’ north,
+  - longitude | 114o08.414’ | east;
 
-    - longitude 113o59.268’ east;
+  - (iv) | latitude | 22o17.859’ | north,
 
-    - (ii) latitude 22o19.673’ north,
+  - longitude | 114o08.089’ | east.
 
-    - longitude 113o59.634’ east;
+  - Note: | In item 3(k), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
 
-    - (iii) latitude 22o19.355’ north,
+  - (l) Sham Shui Kok Anchorage No. 1 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
 
-    - longitude 113o59.692’ east;
+  - (i) | latitude | 22o19.455’ | north,
 
-    - (iv) latitude 22o19.227’ north,
+  - longitude | 113o58.569’ | east;
 
-    - longitude 113o59.427’ east.
+  - (ii) | latitude | 22o19.515’ | north,
 
-    - Note: In item 3(m), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
+  - longitude | 113o59.202’ | east;
+
+  - (iii) | latitude | 22o19.185’ | north,
+
+  - longitude | 113o59.371’ | east;
+
+  - (iv) | latitude | 22o19.140’ | north,
+
+  - longitude | 113o58.619’ | east.
+
+  - Note: | In item 3(l), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
+
+  - (m) Sham Shui Kok Anchorage No. 2 The area of the waters of Hong Kong bounded by straight lines joining the following positions—
+
+  - (i) | latitude | 22o19.528’ | north,
+
+  - longitude | 113o59.268’ | east;
+
+  - (ii) | latitude | 22o19.673’ | north,
+
+  - longitude | 113o59.634’ | east;
+
+  - (iii) | latitude | 22o19.355’ | north,
+
+  - longitude | 113o59.692’ | east;
+
+  - (iv) | latitude | 22o19.227’ | north,
+
+  - longitude | 113o59.427’ | east.
+
+  - Note: | In item 3(m), a reference to the co-ordinates of a point is a reference to the co-ordinates of that point based on the World Geodetic System 1984 (WGS 84). (L.N. 204 of 2005)
 
 - (L.N. 303 of 1994)
 
-- 4.
-
-- Naval Anchorage
-
-- The area of the waters of Hong Kong bounded by lines drawn—
+- 4. Naval Anchorage The area of the waters of Hong Kong bounded by lines drawn—
 
   - (a) from position latitude 22o 18’ 15” north, longitude 114o 08’ 18” east, to position latitude 22o 18’ 20.5” north, longitude 114o 08’ 26” east;
 
