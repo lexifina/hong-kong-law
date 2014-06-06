@@ -102,6 +102,12 @@ Workman II (VTC) (L.N. 104 of 2008) | 1.10.2008
 
 Workshop Attendant (VTC) (L.N. 104 of 2008) | 1.10.2008
 
+Chief Apprenticeship Officer (VTC) (L.N. 85 of 2014) | 8.8.2011
+
+Senior Apprenticeship Officer (VTC) (L.N. 85 of 2014) | 8.8.2011
+
+Apprenticeship Officer (VTC) (L.N. 85 of 2014) | 8.8.2011
+
 Artisan (HA) | 1.12.1991
 
 Assistant Director of Hospital Services (HA) | 1.12.1991
@@ -241,6 +247,8 @@ Occupational Therapist II (HA) | 1.12.1991
 Occupational Therapy Assistant (HA) | 1.12.1991
 
 Operating Theatre Assistant (HA) | 1.12.1991
+
+Operation Assistant II (HA) (L.N. 85 of 2014) | 28.10.2013
 
 Optometrist (HA) | 1.12.1991
 

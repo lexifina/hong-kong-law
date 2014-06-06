@@ -126,8 +126,6 @@ Commissioner for Innovation and Technology | Commissioner for Innovation and Tec
 
 Commissioner for Labour | Commissioner for Labour Deputy Commissioner for Labour Assistant Commissioner for Labour | 1.9.1973 16.11.1990 25.6.1974
 
-Commissioner for Television and Entertainment Licensing | Commissioner for Television and Entertainment Licensing | 9.12.1981
-
 Commissioner for Transport | Deputy Commissioner for Transport Assistant Commissioner for Transport | 14.3.1979 1.10.1969
 
 Commissioner of Banking | Commissioner of Banking Deputy Commissioner of Banking Assistant Commissioner of Banking | 1.4.1977 1.5.1986 1.4.1976
@@ -696,6 +694,16 @@ Registrar of Companies | Registrar of Companies | 1.5.1993
 
 Registry Manager | Registry Manager | 1.5.1993
 
+Regulatory Affairs Manager | Chief Regulatory Affairs Manager | 18.11.2011
+
+Principal Regulatory Affairs Manager | 18.11.2011
+
+Senior Regulatory Affairs Manager | 18.11.2011
+
+Regulatory Affairs Manager | 18.11.2011
+
+(L.N. 85 of 2014)
+
 Rent Officer | Chief Rent Officer Senior Rent Officer Rent Officer I Rent Officer II | 26.10.1983 26.10.1983 26.10.1983 26.10.1983
 
 Science Laboratory Technician | Science Laboratory Technologist Science Laboratory Technician I Science Laboratory Technician II | 25.3.1987 25.3.1987 25.3.1987
@@ -707,6 +715,10 @@ Scientific Officer | Senior Scientific Officer Scientific Officer | 1.4.1961 1.4
 Scientific Officer (Medical) | Scientific Officer (Medical) | 1.4.1959
 
 Secretary of Justice | Secretary of Justice | 9.12.1932
+
+Secretary-General of the Film Development Council | Secretary-General of the Film Development Council | 16.11.2013
+
+(L.N. 85 of 2014)
 
 Secretary-General, University Grants Committee | Secretary-General, University Grants Committee | 10.5.1996
 
@@ -830,7 +842,9 @@ Vehicle Tester | Vehicle Tester | 28.3.1979
 
 Veterinary Laboratory Technician | Veterinary Technologist Veterinary Laboratory Technician I Veterinary Laboratory Technician II Student Veterinary Laboratory Technician | 5.1.1972 15.1.1969 15.1.1969 15.1.1969
 
-Veterinary Officer | Senior Veterinary Officer Veterinary Officer | 10.4.1968 14.1.1948
+Veterinary Officer | Principal Veterinary Officer (L.N. 85 of 2014) | 15.4.2011
+
+Senior Veterinary Officer Veterinary Officer | 10.4.1968 14.1.1948
 
 Ward Attendant | Ward Attendant | 1.10.2008 (L.N. 104 of 2008)
 
@@ -852,4 +866,4 @@ Workshop Attendant | Workshop Attendant | 1.10.2008 (L.N. 104 of 2008)
 
 Workshop Instructor | Workshop Instructor I Workshop Instructor II Workshop Instructor III | 1.4.1972 1.4.1972 24.6.1981
 
-(Schedule 1 amended L.N. 244 of 2003; L.N. 13 of 2008; L.N. 80 of 2011)
+(Schedule 1 amended L.N. 244 of 2003; L.N. 13 of 2008; L.N. 80 of 2011; L.N. 85 of 2014)
