@@ -1,7 +1,7 @@
 TOYS AND CHILDREN’S PRODUCTS SAFETY REGULATION
 
-(Cap. 424, section 35)
+(Repealed L.N. 18 of 2014)
 
-(Enacting provision omitted—E.R. 2 of 2014)
+(This Regulation is repealed immediately before the commencement* of section 16 of the Toys and Children’s Products Safety (Amendment) Ordinance 2013 (18 of 2013).
 
-[1 April 1998] L.N. 183 of 1998
+*Commencement date: 1 July 2014 - see L.N. 19 of 2014.)
