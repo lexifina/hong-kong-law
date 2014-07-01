@@ -1,12 +1,14 @@
 # Schedule 2
 
-[ss. 2 & 37]
+[ss. 2, 2B & 37] (Amended 18 of 2013 s. 17)
 
-Children’s Product Standards
+Schedule 2 Product Standards*
 
-Column 1 Children’s products | Column 2 Standards
+Column 1 | Column 2
 
-1. Babies’ dummies | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— (a) BS EN 1400-1:2002 “Child use and care articles—Soothers for babies and young children—Part 1: General safety requirements and product information” (b) BS EN 1400-2:2002 “Child use and care articles—Soothers for babies and young children—Part 2: Mechanical requirements and tests” (c) BS EN 1400-3:2002 “Child use and care articles—Soothers for babies and young children—Part 3: Chemical requirements and tests” ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F963-11 “Standard consumer safety specification for toy safety” Australian Standard The Australian Standard is established by Standards Australia, and the requirements contained in the Standard are specified in— AS 2432:2009 “Babies’ dummies”
+Classes of products | Standards
+
+1.Babies’ dummies | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— (a) BS EN 1400-1:2002 “Child use and care articles—Soothers for babies and young children—Part 1: General safety requirements and product information” (b) BS EN 1400-2:2002 “Child use and care articles—Soothers for babies and young children—Part 2: Mechanical requirements and tests” (c) BS EN 1400-3:2002 “Child use and care articles—Soothers for babies and young children—Part 3: Chemical requirements and tests” ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in— ASTM F963-11 “Standard consumer safety specification for toy safety” Australian Standard The Australian Standard is established by Standards Australia, and the requirements contained in the Standard are specified in— AS 2432:2009 “Babies’ dummies”
 
 2. Baby walking frames | European Standard The European Standard is established by the European Committee for Standardization, and the requirements contained in the Standard are specified in— BS EN 1273:2005 “Child use and care articles—Baby walking frames—Safety requirements and test methods” ASTM Standard The ASTM Standard is established by ASTM International, and the requirements contained in the Standard are specified in—
 
@@ -62,4 +64,8 @@ The Joint Australian/New Zealand Standard is established by Standards Australia 
 
 AS/NZS 2088:2009 “Prams and Strollers—Safety requirements”
 
-(Amended L.N. 110 of 2010) (Schedule 2 added 5 of 2010 s. 21. Amended L.N. 184 of 2011; 26 of 2012 s. 16; L.N. 30 of 2013) (Format changes—E.R. 2 of 2012)
+(Amended L.N. 110 of 2010) (Schedule 2 added 5 of 2010 s. 21. Amended L.N. 184 of 2011; 26 of 2012 s. 16; L.N. 30 of 2013; 18 of 2013 s. 17) (Format changes—E.R. 2 of 2012)
+
+Editorial Note:
+
+* (Amended 18 of 2013 s. 17)
