@@ -11,3 +11,4 @@ s-008.md
 s-009.md
 s-010.md
 s-011.md
+sch.md
