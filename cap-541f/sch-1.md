@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 3, 65 & 89]
+[ss. 2A, 3, 65 & 89] (12 of 2014 s. 12)
 
 Postponement and Adjournment of Ordinary Election and By-elections
 
@@ -26,7 +26,7 @@ Postponement and Adjournment of Ordinary Election and By-elections
 
     - (a) a typhoon or other climatic condition of a serious nature;
 
-    - (b) riot, open violence or other occurrence of public danger; or
+    - (b) riot, open violence or any danger to public health or safety; or (12 of 2014 s. 84)
 
     - (c) an occurrence which appears to the Commission to be a material irregularity relating to the election, the poll or count.
 
@@ -40,7 +40,7 @@ Postponement and Adjournment of Ordinary Election and By-elections
 
     - (a) a typhoon or other climatic condition of a serious nature;
 
-    - (b) riot, open violence or other occurrence of public danger; or
+    - (b) riot, open violence or any danger to public health or safety; or (12 of 2014 s. 85)
 
     - (c) an occurrence which appears to the Presiding Officer to be a material irregularity relating to the election, the poll or count.
 
@@ -92,7 +92,7 @@ Postponement and Adjournment of Ordinary Election and By-elections
 
   - (2) If a poll or a count is adjourned under this Schedule, the Commission is to, as soon as practicable after the adjournment, appoint a date for holding a poll or a count.
 
-  - (3) If the postponement or adjournment is due to a reason referred to in section 2(3)(a) or (b), the appointed date must not be later than 14 days from the date on which the postponed election or the adjourned poll or count would have been held. If the postponement or adjournment is due to the reason referred to in section 2(3)(c), the appointed date must not be later than 2 days from the date on which the postponed election or the adjourned poll or count would have been held.
+  - (3) A date appointed under this section must not be later than 14 days after the date on which the postponed election or the adjourned poll or count would have been held. (12 of 2014 s. 86)
 
   - (4) In each case referred to in sections 1, 2 and 3, the Commission is to, in the relevant notice making the declaration, specify the date appointed under this section to hold the relevant ordinary election, by-election, the poll or the count, as the case may require.
 

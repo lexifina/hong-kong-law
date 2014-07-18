@@ -126,6 +126,28 @@ Election Committee
 
           - (vii) social security.
 
+  - 1A. Effect of inclement weather warning on date
+
+    - (1) In this section—
+
+      - gale warning (烈風警告) has the same meaning as in the Judicial Proceedings (Adjournment During Gale Warnings) Ordinance (Cap. 62);
+
+      - inclement weather warning day (惡劣天氣警告日) means a working day on which a gale warning or a rainstorm warning is in force at any time during the ordinary business hours of the office of the Electoral Registration Officer;
+
+      - rainstorm warning (暴雨警告) has the same meaning as in the Judicial Proceedings (Adjournment During Gale Warnings) Ordinance (Cap. 62);
+
+      - working day (工作日) means any Monday, Tuesday, Wednesday, Thursday or Friday other than a general holiday.
+
+    - (2) If—
+
+      - (a) the Electoral Registration Officer is required by section 14 to do an act not later than a date; and
+
+      - (b) the date falls on an inclement weather warning day,
+
+    - that section has effect in relation to the act as if it requires the Officer to do the act not later than the next working day, which is not an inclement weather warning day, following the date.
+
+  - (Added 12 of 2014 s. 23)
+
 - Part 2 Membership of Election Committee
 
   - 2. How Election Committee is to be constituted
@@ -864,13 +886,13 @@ Election Committee
 
       - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
 
-        - (a) not later than 15 June in each year other than a year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and
+        - (a) not later than 1 June in each year other than a year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and (Amended 12 of 2014 s. 171)
 
         - (b) not later than 25 July in each year other than a year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Amended 33 of 2002 s. 11)
 
       - (1A) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
 
-        - (a) not later than 15 August in each year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and
+        - (a) not later than 1 August in each year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and (Amended 12 of 2014 s. 171)
 
         - (b) not later than 25 September in each year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Added 33 of 2002 s. 11)
 
