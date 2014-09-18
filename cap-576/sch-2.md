@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 6, 61 & 67]
 
-INDIGENOUS VILLAGE
+Indigenous Village
 
 Column 1 | Column 2 | Column 3 | Column 4
 
@@ -866,7 +866,7 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 428. | Tai Po Kau (大埔滘) | 1 October 2003 | 1 | Tai Po Rural Committee
 
-429. | Tai Po Kau Hui (大 埔舊墟) | 1 October 2003 | 3 | Tai Po Rural Committee
+429. | Tai Po Kau Hui (大埔舊墟) | 1 October 2003 | 3 | Tai Po Rural Committee
 
 430. | Tai Po Mei (大埔尾) | 1 October 2003 | 2 | Tai Po Rural Committee
 
@@ -1202,16 +1202,16 @@ Name of village | Date of establishment of the office of indigenous inhabitant r
 
 Editorial Note:
 
-*1 This item was originally item 420 but has been amended and renumbered as item 455A - see 12 of 2009 s. 12.
+*1 | This item was originally item 420 but has been amended and renumbered as item 455A—see 12 of 2009 s. 12.
 
-*2 This item was originally item 33 but has been amended and renumbered as item 529A - see 12 of 2009 s. 12.
+*2 | This item was originally item 33 but has been amended and renumbered as item 529A—see 12 of 2009 s. 12.
 
-*3 This item was originally item 47 but has been amended and renumbered as item 529B - see 12 of 2009 s. 12.
+*3 | This item was originally item 47 but has been amended and renumbered as item 529B—see 12 of 2009 s. 12.
 
-*4 This item was originally item 139 but has been amended and renumbered as item 529C - see 12 of 2009 s. 12.
+*4 | This item was originally item 139 but has been amended and renumbered as item 529C—see 12 of 2009 s. 12.
 
-*5 This item was originally item 295 but has been amended and renumbered as item 529D - see 12 of 2009 s. 12.
+*5 | This item was originally item 295 but has been amended and renumbered as item 529D—see 12 of 2009 s. 12.
 
-*6 This item was originally item 521 but has been amended and renumbered as item 529E - see 12 of 2009 s. 12.
+*6 | This item was originally item 521 but has been amended and renumbered as item 529E—see 12 of 2009 s. 12.
 
-*7 This item was originally item 565 but has been amended and renumbered as item 529F - see 12 of 2009 s. 12.
+*7 | This item was originally item 565 but has been amended and renumbered as item 529F—see 12 of 2009 s. 12.

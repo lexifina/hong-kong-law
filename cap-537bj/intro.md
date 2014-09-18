@@ -1,11 +1,9 @@
 United Nations Sanctions (Yemen) Regulation
 
-(Made by the Chief Executive under section 3 of the United Nations
+(This Regulation expired at midnight on 25 February 2015.)
 
-Sanctions Ordinance (Cap. 537) on the instruction of the Ministry of
+(Cap. 537, section 3)
 
-Foreign Affairs of the People’s Republic of China and after
-
-consultation with the Executive Council)
+(Enacting provision omitted—E.R. 3 of 2014)
 
 [16 May 2014]

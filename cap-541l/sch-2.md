@@ -2,7 +2,7 @@
 
 [s. 67]
 
-FORMS FOR THE NOTICE OF RESULT OF ELECTION UNDER SECTION 36 OF THE RURAL REPRESENTATIVE ELECTION ORDINANCE (Cap. 576)#
+Forms for the Notice of Result of Election Under Section 36 of the Rural Representative Election Ordinance (Cap. 576)#
 
 (According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
 
@@ -10,7 +10,11 @@ FORMS FOR THE NOTICE OF RESULT OF ELECTION UNDER SECTION 36 OF THE RURAL REPRESE
 
 - (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
 
-FORM 1 NOTICE OF RESULT OF ELECTION FOR AN EXISTING VILLAGE
+(Format changes—E.R. 3 of 2014)
+
+Form 1
+
+Notice of Result of Election for an Existing Village
 
 《選舉程序(鄉郊代表選舉)規例》 ELECTORAL PROCEDURE (RURAL REPRESENTATIVE ELECTION) REGULATION
 
@@ -32,9 +36,7 @@ FORM 1 NOTICE OF RESULT OF ELECTION FOR AN EXISTING VILLAGE
 
 (5 of 2014 s. 2)
 
-FORM 2 NOTICE OF RESULT OF ELECTION FOR AN
-
-INDIGENOUS VILLAGE
+Form 2 Notice of Result of Election for an Indigenous Village
 
 《選舉程序(鄉郊代表選舉)規例》 ELECTORAL PROCEDURE (RURAL REPRESENTATIVE ELECTION) REGULATION
 
@@ -56,9 +58,7 @@ INDIGENOUS VILLAGE
 
 (L.N. 29 of 2004; 5 of 2014 s. 2)
 
-FORM 3 NOTICE OF RESULT OF ELECTION FOR A COMPOSITE
-
-INDIGENOUS VILLAGE
+Form 3 Notice of Result of Election for a Composite Indigenous Village
 
 《選舉程序(鄉郊代表選舉)規例》 ELECTORAL PROCEDURE (RURAL REPRESENTATIVE ELECTION) REGULATION
 
@@ -80,9 +80,9 @@ INDIGENOUS VILLAGE
 
 (5 of 2014 s. 2)
 
-FORM 4
+Form 4
 
-NOTICE OF RESULT OF ELECTION FOR A MARKET TOWN
+Notice of Result of Election for a Market Town
 
 《選舉程序(鄉郊代表選舉)規例》 ELECTORAL PROCEDURE (RURAL REPRESENTATIVE ELECTION) REGULATION 選舉結果公告 NOTICE OF RESULT OF ELECTION *鄉郊一般選舉╱鄉郊補選 墟鎮街坊代表選舉 *(墟鎮名稱) *RURAL ORDINARY ELECTION/RURAL BY-ELECTION ELECTION OF KAIFONG REPRESENTATIVE FOR MARKET TOWN *(NAME OF MARKET TOWN)
 

@@ -1,14 +1,12 @@
-REGISTRATION OF ELECTORS (APPEALS) REGULATION
+Registration of Electors (Appeals) Regulation
 
-(Made by the Chief Executive in Council under section 82
+(Cap. 542, section 82 and Cap. 547, section 81)
 
-of the Legislative Council Ordinance (Cap. 542)
-
-and section 81 of the District Councils
-
-Ordinance (Cap. 547))
+(Enacting provision omitted—E.R. 3 of 2014)
 
 [21 November 1997]
+
+(Format changes—E.R. 3 of 2014)
 
 Editorial Note:
 

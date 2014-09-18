@@ -1,14 +1,14 @@
-# SCHEDULE
-
-[s. 4]
-
-ELECTION PETITION
+# Schedule
 
 (According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
 
 - (a) for all purposes relating to the elections of Resident Representatives, Indigenous Inhabitant Representatives and Kaifong Representatives in 2015—the Amendment Ordinance comes into operation on 4 April 2014; and
 
 - (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
+
+Election Petition
+
+[section 4]
 
 IN THE COURT OF FIRST INSTANCE OF
 
@@ -55,3 +55,5 @@ In the Matter of an election for (Resident Representative/Indigenous Inhabitant 
 - (or) *Solicitors *This Election Petition is lodged by the *Petitioner/Petitioners. (or) *This Election Petition is lodged by (name of solicitors), Solicitors acting for and on behalf of the *Petitioner/Petitioners. The address for service is (address to be stated). It is proposed to serve a copy of this Election Petition on (name of Respondent or names of Respondents) and on the Secretary for Justice. *Delete whichever is inapplicable.
 
 - (5 of 2014 s. 79)
+
+(Format changes—E.R. 3 of 2014)

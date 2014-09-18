@@ -1,4 +1,4 @@
-RURAL REPRESENTATIVE (ELECTION PETITION) RULES
+Rural Representative (Election Petition) Rules
 
 (According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
 
@@ -6,12 +6,16 @@ RURAL REPRESENTATIVE (ELECTION PETITION) RULES
 
 - (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
 
-(Made under section 66 of the Village Representative
+(Cap. 576, section 66)
 
-Election Ordinance (2 of 2003))
+(Enacting provision omitted—E.R. 3 of 2014)
 
 [6 June 2003]
+
+(*Format changes—E.R. 3 of 2014)
 
 Editorial Note:
 
 The title of these Rules was amended from “Village Representative (Election Petition) Rules” to “Rural Representative (Election Petition) Rules” — see 5 of 2014 s. 76.
+
+*The format of the Rules has been updated to the current legislative styles.

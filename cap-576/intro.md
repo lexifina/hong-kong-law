@@ -8,4 +8,10 @@ An Ordinance to provide for the establishment of the office of resident represen
 
 [14 February 2003]
 
-Enacted by the Legislative Council.
+(Enacting provision omitted—E.R. 3 of 2014)
+
+(*Format changes—E.R. 3 of 2014)
+
+Editorial Note:
+
+*The title of the Ordinance has been updated to the current legislative styles.

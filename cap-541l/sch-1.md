@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 41]
 
-FORMS OF BALLOT PAPERS FOR A RURAL ORDINARY ELECTION/RURAL BY-ELECTION#
+Forms of Ballot Papers for a Rural Ordinary Election/Rural By-Election#
 
 (According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
 
@@ -10,9 +10,11 @@ FORMS OF BALLOT PAPERS FOR A RURAL ORDINARY ELECTION/RURAL BY-ELECTION#
 
 - (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
 
-FORM 1 BALLOT PAPER TO BE USED FOR ELECTION FOR
+(Format changes—E.R. 3 of 2014)
 
-AN EXISTING VILLAGE
+Form 1
+
+Ballot Paper to be Used for Election for an Existing Village
 
 存根 COUNTERFOIL | *(編號) *(Serial Number)
 
@@ -40,9 +42,9 @@ AN EXISTING VILLAGE
 
 (5 of 2014 s. 2)
 
-FORM 2(a) BALLOT PAPER TO BE USED FOR ELECTION FOR
+Form 2(a)
 
-AN INDIGENOUS VILLAGE
+Ballot Paper to be Used for Election for an Indigenous Village
 
 存根 COUNTERFOIL | *(編號) *(Serial Number)
 
@@ -70,11 +72,11 @@ AN INDIGENOUS VILLAGE
 
 (5 of 2014 s. 2)
 
-FORM 2(b) BALLOT PAPER TO BE USED FOR ELECTION FOR
+Form 2(b)
 
-AN INDIGENOUS VILLAGE
+Ballot Paper to be Used for Election for an Indigenous Village
 
-(MORE THAN ONE VACANCY)
+(More than One Vacancy)
 
 存根 COUNTERFOIL | *(編號) *(Serial Number)
 
@@ -108,9 +110,9 @@ AN INDIGENOUS VILLAGE
 
 (5 of 2014 s. 2)
 
-FORM 3 BALLOT PAPER TO BE USED FOR ELECTION FOR A COMPOSITE
+Form 3
 
-INDIGENOUS VILLAGE
+Ballot Paper to be Used for Election for a Composite Indigenous Village
 
 存根 COUNTERFOIL | *(編號) *(Serial Number)
 
@@ -138,9 +140,7 @@ INDIGENOUS VILLAGE
 
 (5 of 2014 s. 2)
 
-FORM 4(a) BALLOT PAPER TO BE USED FOR ELECTION FOR A MARKET TOWN
-
-(MORE THAN ONE VACANCY)
+Form 4(a) Ballot Paper to be Used for Election for a Market Town (More Than One Vacancy)
 
 * 只會印上適當的資料。
 
@@ -148,9 +148,7 @@ FORM 4(a) BALLOT PAPER TO BE USED FOR ELECTION FOR A MARKET TOWN
 
 (5 of 2014 s. 58)
 
-FORM 4(b) BALLOT PAPER TO BE USED FOR ELECTION FOR A MARKET TOWN
-
-(ONE VACANCY)
+Form 4(b) Ballot Paper to be Used for Election for a Market Town (One Vacancy)
 
 * 只會印上適當的資料。
 
