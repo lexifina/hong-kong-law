@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 3, 5, 61 & 67]
 
-EXISTING VILLAGE
+Existing Village
 
 Column 1 | Column 2 | Column 3 | Column 4 | Column 5
 
@@ -1412,20 +1412,20 @@ Name of village | Map on which the area of the village is delineated | Date of e
 
 693. | Yung Shue Wan (榕樹灣) | VEB/2002/T/LN-12 | 1 October 2003 | 1 | Lamma Island (North) Rural Committee
 
-(Amended 12 of 2009 s. 11)
+(Amended L.N. 28 of 2006; 12 of 2009 s. 11)
 
 Editorial Note:
 
-*1 This item was originally item 494 but has been amended and renumbered as item 535A - see 12 of 2009 s. 11.
+*1 This item was originally item 494 but has been amended and renumbered as item 535A—see 12 of 2009 s. 11.
 
-*2 This item was originally item 36 but has been amended and renumbered as item 625A - see 12 of 2009 s. 11.
+*2 This item was originally item 36 but has been amended and renumbered as item 625A—see 12 of 2009 s. 11.
 
-*3 This item was originally item 54 but has been amended and renumbered as item 625B - see 12 of 2009 s. 11.
+*3 This item was originally item 54 but has been amended and renumbered as item 625B—see 12 of 2009 s. 11.
 
-*4 This item was originally item 160 but has been amended and renumbered as item 625C - see 12 of 2009 s. 11.
+*4 This item was originally item 160 but has been amended and renumbered as item 625C—see 12 of 2009 s. 11.
 
-*5 This item was originally item 343 but has been amended and renumbered as item 625D - see 12 of 2009 s. 11.
+*5 This item was originally item 343 but has been amended and renumbered as item 625D—see 12 of 2009 s. 11.
 
-*6 This item was originally item 618 but has been amended and renumbered as item 625E - see 12 of 2009 s. 11.
+*6 This item was originally item 618 but has been amended and renumbered as item 625E—see 12 of 2009 s. 11.
 
-*7 This item was originally item 669 but has been amended and renumbered as item 625F - see 12 of 2009 s. 11.
+*7 This item was originally item 669 but has been amended and renumbered as item 625F—see 12 of 2009 s. 11.
