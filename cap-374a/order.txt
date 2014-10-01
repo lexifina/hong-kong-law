@@ -43,6 +43,7 @@ s-036.md
 s-037.md
 s-038.md
 s-039.md
+s-039A.md
 s-040.md
 s-040A.md
 s-040B.md
