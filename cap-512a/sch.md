@@ -8,6 +8,8 @@ Contracting States to the Convention | Territories specified in declarations und
 
 Albania, Republic of | 1 April 2010
 
+Andorra, Principality of | 1 February 2014
+
 Argentina, Republic of | 1 September 1997
 
 Armenia, Republic of | 1 April 2010
@@ -32,7 +34,31 @@ Bulgaria, Republic of | 1 October 2005
 
 Burkina Faso, Democratic Republic of | 1 September 1997
 
-Canada | Alberta British Columbia Manitoba New Brunswick Newfoundland Nova Scotia Ontario Prince Edward Island Quebec Saskatchewan Yukon Territory Northwest Territories Nunavut | 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 September 1997 1 January 2001
+Canada | Alberta | 1 September 1997
+
+British Columbia | 1 September 1997
+
+Manitoba | 1 September 1997
+
+New Brunswick | 1 September 1997
+
+Newfoundland | 1 September 1997
+
+Nova Scotia | 1 September 1997
+
+Ontario | 1 September 1997
+
+Prince Edward Island | 1 September 1997
+
+Quebec | 1 September 1997
+
+Saskatchewan | 1 September 1997
+
+Yukon Territory | 1 September 1997
+
+Northwest Territories | 1 September 1997
+
+Nunavut | 1 January 2001
 
 Chile, Republic of | 1 September 1997
 
@@ -62,7 +88,7 @@ Georgia, Republic of | 1 December 1998
 
 Germany, Federal Republic of | 1 September 1997
 
-Greece (Helenic Republic) | 1 September 1997
+Greece (Hellenic Republic) | 1 September 1997
 
 Honduras, Republic of | 1 September 1997
 
@@ -75,6 +101,10 @@ Ireland, Republic of | 1 September 1997
 Israel, State of | 1 September 1997
 
 Italy, Republic of | 1 September 1997
+
+Japan | 1 April 2014
+
+Korea, Republic of | 1 February 2014
 
 Latvia, Republic of | 1 October 2005
 
@@ -96,6 +126,8 @@ Monaco, Princípauté de | 1 September 1997
 
 Montenegro | 1 September 1997
 
+Morocco, Kingdom of | 1 February 2014
+
 Netherlands, Kingdom of the (for the Kingdom in Europe) | 1 September 1997
 
 New Zealand | 1 September 1997
@@ -111,6 +143,8 @@ Poland (Polish Republic) | 1 September 1997
 Portugal, Republic of | 1 September 1997
 
 Romania | 1 September 1997
+
+Russian Federation | 1 February 2014
 
 Saint Kitts and Nevis, Federation of | 1 September 1997
 
@@ -168,4 +202,4 @@ Venezuela, Republic of | 1 September 1997
 
 Zimbabwe, Republic of | 1 September 1997
 
-(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008; L.N. 216 of 2008; L.N. 85 of 2010; L.N. 151 of 2011; L.N. 80 of 2012)
+(Schedule replaced L.N. 302 of 1999. L.N. 302 of 1999; L.N. 103 of 2002; L.N. 150 of 2005; L.N. 110 of 2008; L.N. 216 of 2008; L.N. 85 of 2010; L.N. 151 of 2011; L.N. 80 of 2012; L.N. 121 of 2014; E.R. 1 of 2017)
