@@ -1,14 +1,14 @@
 # Schedule 1
 
-(For the transitional provision relating to the amendments made by the Massage Establishments (Amendment) Regulation 2003 (L.N. 51 of 2003), see section 4 of the Regulation.)
-
 [regs. 2, 3 & 5]
 
-Form 1 | [reg. 2]
+Form 1
+
+[reg. 2]
 
 Application No. .
 
-MASSAGE ESTABLISHMENTS ORDINANCE
+Massage Establishments Ordinance
 
 (Chapter 266)
 
@@ -16,13 +16,15 @@ MASSAGE ESTABLISHMENTS REGULATIONS
 
 To the Commissioner of Police
 
-APPLICATION FOR THE ISSUE/RENEWAL OF A MASSAGE ESTABLISHMENTS LICENCE
+Application for the Issue / Renewal of
+
+a Massage Establishments Licence
 
 I . hereby apply for a licence to operate a massage establishment at
 
 In support of my application I submit the following information and particulars—
 
-PART I
+Part I
 
 PERSONAL DETAILS OF APPLICANT
 
@@ -190,7 +192,7 @@ Date of hearing | The offence | Penalty (if any) imposed | Court which tried the
 
 Note: The provisions in section 2 of the Rehabilitation of Offenders Ordinance (Chapter 297) do not by reason of section 4 of that Ordinance apply to proceedings related to a person’s suitability to be granted or to continue to hold a licence. No conviction will be regarded as ‘spent’ and details of all convictions must therefore be included.
 
-PART II
+Part II
 
 DOCUMENTS TO BE SUBMITTED BY APPLICANT
 
@@ -246,15 +248,19 @@ Applicant.
 
 _
 
-Form 2 | [reg. 5]
+Form 2
+
+[reg. 5]
 
 Licence No..
 
-MASSAGE ESTABLISHMENTS ORDINANCE
+Massage Establishments Ordinance
 
-(Chapter 266) MASSAGE ESTABLISHMENT LICENCE
+(Chapter 266)
 
-LICENCE is granted this . day of . 20 . to (name) . (Hong Kong Identity Card No. .) to operate a massage establishment at (address of premises)
+MASSAGE ESTABLISHMENT LICENCE
+
+LICENCE is granted this . day of . 20 . to (name) . (Hong Kong Identity Card No. .) to operate a massage establishment at (address of Premises)
 
 for a period of 12 months/24 months* from date of grant. THIS LICENCE is subject to those conditions endorsed on the document attached hereto.
 
@@ -265,3 +271,7 @@ for Commissioner of Police.
 * Delete as appropriate.
 
 (L.N. 510 of 1996; L.N. 51 of 2003)
+
+Editorial Note:
+
+For the transitional provision relating to the amendments made by the Massage Establishments (Amendment) Regulation 2003 (L.N. 51 of 2003), see section 4 of the Regulation.
