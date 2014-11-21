@@ -4,29 +4,9 @@
 
 COURTS AND COURT ORDERS
 
-- PART 1 COURTS Court of Final Appeal
+- PART 1 COURTS Court of Final Appeal Court of Appeal Court of First Instance Competition Tribunal (Added 15 of 2014 s. 17) District Court Magistrates’ Court Lands Tribunal Labour Tribunal Small Claims Tribunal Obscene Articles Tribunal Coroner’s Court
 
-- Court of Appeal
-
-- Court of First Instance
-
-- District Court
-
-- Magistrates’ Court
-
-- Lands Tribunal
-
-- Labour Tribunal
-
-- Small Claims Tribunal
-
-- Obscene Articles Tribunal
-
-- Coroner’s Court
-
-- PART 2 COURT ORDERS DESCRIBED FOR PURPOSES OF
-
-- SECTION 10 OF THIS ORDINANCE
+- PART 2 COURT ORDERS DESCRIBED FOR PURPOSES OF SECTION 10 OF THIS ORDINANCE
 
   - 1. A court order in the form of—
 

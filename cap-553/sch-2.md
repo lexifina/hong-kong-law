@@ -12,6 +12,8 @@ Proceedings before any of the following—
 
 - (c) the Court of First Instance;
 
+- (ca) the Competition Tribunal established by the Competition Ordinance (Cap. 619); (Added 15 of 2014 s. 16)
+
 - (d) the District Court;
 
 - (e) the Mental Health Review Tribunal established under the Mental Health Ordinance (Cap. 136);
@@ -32,9 +34,9 @@ Proceedings before any of the following—
 
 - (m) the Insider Dealing Tribunal established under the Securities (Insider Dealing) Ordinance (Cap. 395) repealed under the Securities and Futures Ordinance (Cap. 571); (Added L.N. 59 of 2000. Amended 5 of 2002 s. 407)
 
-- (ma)the Securities and Futures Appeals Tribunal or the Market Misconduct Tribunal established under Part XI or XIII of the Securities and Futures Ordinance (Cap. 571); (Added 5 of 2002 s. 407)
+- (ma) the Securities and Futures Appeals Tribunal or the Market Misconduct Tribunal established under Part XI or XIII of the Securities and Futures Ordinance (Cap. 571); (Added 5 of 2002 s. 407)
 
-- (mb)any person arbitrating disputes in accordance with rules made under section 118(2) of the Securities and Futures Ordinance (Cap. 571); (Added 5 of 2002 s. 407)
+- (mb) any person arbitrating disputes in accordance with rules made under section 118(2) of the Securities and Futures Ordinance (Cap. 571); (Added 5 of 2002 s. 407)
 
 - (n) the Administrative Appeals Board established under the Administrative Appeals Board Ordinance (Cap. 442); (Added L.N. 59 of 2000)
 
@@ -64,11 +66,11 @@ Proceedings before any of the following—
 
 - (za) an Appeal Board established under the Dumping at Sea Ordinance (Cap. 466); (Added L.N. 59 of 2000)
 
-- (zb)an Appeal Board established under the Environmental Impact Assessment Ordinance (Cap. 499); (Added L.N. 59 of 2000)
+- (zb) an Appeal Board established under the Environmental Impact Assessment Ordinance (Cap. 499); (Added L.N. 59 of 2000)
 
 - (zc) an Appeal Board established under the Waste Disposal Ordinance (Cap. 354); (Added L.N. 59 of 2000)
 
-- (zd)an Appeal Board established under the Water Pollution Control Ordinance (Cap. 358); (Added L.N. 59 of 2000)
+- (zd) an Appeal Board established under the Water Pollution Control Ordinance (Cap. 358); (Added L.N. 59 of 2000)
 
 - (ze) the Immigration Tribunal established under the Immigration Ordinance (Cap. 115); (Added L.N. 59 of 2000)
 
@@ -76,7 +78,7 @@ Proceedings before any of the following—
 
 - (zg) the Hong Kong Special Administrative Region Passports Appeal Board established under the Hong Kong Special Administrative Region Passports (Appeal Board) Regulation (Cap. 539 sub. leg. A); (Added L.N. 59 of 2000)
 
-- (zh)the Copyright Tribunal established under the Copyright Ordinance (Cap. 528); (Added L.N. 59 of 2000)
+- (zh) the Copyright Tribunal established under the Copyright Ordinance (Cap. 528); (Added L.N. 59 of 2000)
 
 - (zi) an arbitration tribunal established under the Labour Relations Ordinance (Cap. 55); (Added L.N. 59 of 2000)
 
@@ -84,15 +86,15 @@ Proceedings before any of the following—
 
 - (zk)-(zl) (Repealed 5 of 2002 s. 407)
 
-- (zm)a Solicitors Disciplinary Tribunal established under the Legal Practitioners Ordinance (Cap. 159); (Added L.N. 59 of 2000. Amended 7 of 2004 s. 55)
+- (zm) a Solicitors Disciplinary Tribunal established under the Legal Practitioners Ordinance (Cap. 159); (Added L.N. 59 of 2000. Amended 7 of 2004 s. 55)
 
-- (zn)the Deposit Protection Appeals Tribunal established by the Deposit Protection Scheme Ordinance (Cap. 581); (Added 7 of 2004 s. 55. Amended 18 of 2004 s. 69)
+- (zn) the Deposit Protection Appeals Tribunal established by the Deposit Protection Scheme Ordinance (Cap. 581); (Added 7 of 2004 s. 55. Amended 18 of 2004 s. 69)
 
-- (zo)the Construction Workers Appeal Board appointed under the Construction Workers Registration Ordinance (Cap. 583); (Added 18 of 2004 s. 69. Amended 20 of 2004 s. 59)
+- (zo) the Construction Workers Appeal Board appointed under the Construction Workers Registration Ordinance (Cap. 583); (Added 18 of 2004 s. 69. Amended 20 of 2004 s. 59)
 
-- (zp)the Clearing and Settlement Systems Appeals Tribunal established under the Clearing and Settlement Systems Ordinance (Cap. 584); (Added 20 of 2004 s. 59. Amended 19 of 2005 s. 7)
+- (zp) the Clearing and Settlement Systems Appeals Tribunal established under the Clearing and Settlement Systems Ordinance (Cap. 584); (Added 20 of 2004 s. 59. Amended 19 of 2005 s. 7)
 
-- (zq)the Banking Review Tribunal established under the Banking Ordinance (Cap. 155); (Added 19 of 2005 s. 7. Amended 23 of 2005 s. 28; 3 of 2012 s. 22)
+- (zq) the Banking Review Tribunal established under the Banking Ordinance (Cap. 155); (Added 19 of 2005 s. 7. Amended 23 of 2005 s. 28; 3 of 2012 s. 22)
 
 - (zr) the Civil Celebrant of Marriages Appointment Appeal Board established under the Marriage Ordinance (Cap. 181); (Added 23 of 2005 s. 28. Amended 9 of 2007 s. 63)
 
