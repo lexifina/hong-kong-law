@@ -8,7 +8,7 @@ Countries which have acceded to the Paris Convention
 
 The Republic of Albania
 
-The Democratic People’s Republic of Algeria
+The People’s Democratic Republic of Algeria
 
 The Principality of Andorra
 
@@ -44,7 +44,7 @@ The Republic of Benin
 
 The Kingdom of Bhutan
 
-The Republic of Bolivia
+The Plurinational State of Bolivia
 
 Bosnia and Herzegovina
 
@@ -114,7 +114,7 @@ Republic of Estonia
 
 The Republic of Finland
 
-The Republic of France
+The French Republic
 
 The Gabonese Republic
 
@@ -134,7 +134,7 @@ The Republic of Guinea
 
 The Republic of Guinea-Bissau
 
-The Cooperative Republic of Guyana
+The Republic of Guyana
 
 The Republic of Haiti
 
@@ -144,7 +144,7 @@ Holy See
 
 The Republic of Honduras
 
-The Republic of Hungary
+Hungary
 
 The Republic of Iceland
 
@@ -176,7 +176,7 @@ The Democratic People’s Republic of Korea
 
 Republic of Korea
 
-Kyrghyz Republic
+The Kyrgyz Republic
 
 The Lao People’s Democratic Republic
 
@@ -206,7 +206,7 @@ Malaysia
 
 The Republic of Mali
 
-Malta
+The Republic of Malta
 
 The Islamic Republic of Mauritania
 
@@ -272,6 +272,8 @@ Saint Lucia
 
 Saint Vincent and the Grenadines
 
+The Independent State of Samoa
+
 The Republic of San Marino
 
 The Democratic Republic of Sao Tome and Principe
@@ -334,11 +336,11 @@ The United Arab Emirates
 
 The United Kingdom of Great Britain and Northern Ireland
 
+The United Mexican States
+
 The United Republic of Tanzania
 
 The United States of America
-
-The United States of Mexico
 
 Oriental Republic of Uruguay
 
@@ -370,12 +372,10 @@ The Republic of Maldives
 
 The Republic of the Union of Myanmar
 
-The Independent State of Samoa
-
 Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
 
 The Solomon Islands
 
 The Republic of Vanuatu
 
-(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009; L.N. 63 of 2013) (Format changes—E.R. 2 of 2014)
+(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009; L.N. 63 of 2013; L.N. 69 of 2014) (Format changes—E.R. 2 of 2014)
