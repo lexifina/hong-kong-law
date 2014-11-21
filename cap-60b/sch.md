@@ -12,13 +12,13 @@ Item | $
 
 (c) In respect of textiles—
 
-(i) application for issue of consignment specific export licence (Form 4 TIC 353) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 160 of 1992; L.N. 156 of 2004; L.N. 19 of 2008) . | 44
+(i) application for issue of consignment specific export licence (Form 4 TIC 353) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 160 of 1992; L.N. 156 of 2004; L.N. 19 of 2008; L.N. 92 of 2014) . | No fee
 
 (ii)-(v) (Repealed L.N. 156 of 2004)
 
 (vi) (Repealed L.N. 484 of 1996)
 
-(vii) application for issue of consignment specific import licence (Form 7 TRA 23) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 156 of 2004; L.N. 19 of 2008) . | 45
+(vii) application for issue of consignment specific import licence (Form 7 TRA 23) (L.N. 315 of 1984; L.N. 129 of 1989; L.N. 156 of 2004; L.N. 19 of 2008; L.N. 92 of 2014) . | No fee
 
 (viii) (Repealed L.N. 189 of 1993)
 
@@ -58,15 +58,15 @@ Item | $
 
 12. | Annual fee for registration of a person under Part 3A of the Import and Export (General) Regulations (Cap. 60 sub. leg. A) or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H) (L.N. 248 of 1990; L.N. 237 of 1992; L.N. 245 of 1997; L.N. 195 of 1999; L.N. 128 of 2001) . | 3003
 
-13. | Annual fee for any period beginning on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993; L.N. 25 of 2007; L.N. 150 of 2011) . | 349
+13. | Annual fee for any period beginning on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) for person registered as textiles trader under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) (L.N. 112 of 1993; L.N. 25 of 2007; L.N. 150 of 2011; L.N. 92 of 2014) . | 61
 
-13A. | Where an import notification or an export notification is delivered on paper under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) by a person— (L.N. 43 of 2011) (a) who is registered as a textiles trader on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) ; or (b) who renews his registration as a textiles trader on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) (L.N. 25 of 2007; L.N. 150 of 2011) . | 2.90
+13A. | Where an import notification or an export notification is delivered on paper under the Import and Export (General) Regulations (Cap. 60 sub. leg. A) by a person— (L.N. 43 of 2011) (a) who is registered as a textiles trader on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) ; or (b) who renews his registration as a textiles trader on or after the date of commencement* of the Import and Export (Fees) (Amendment) Regulation 2007 (L.N. 25 of 2007) (L.N. 25 of 2007; L.N. 150 of 2011; L.N. 92 of 2014) . | No fee
 
 14. | Fee payable when a production notification is lodged—
 
-(a) where the production notification is lodged on paper (Form TRA 579) . | 66
+(a) where the production notification is lodged on paper (Form TRA 579). | No fee
 
-(b) where the production notification is lodged using services provided by a specified body (L.N. 195 of 1999; L.N. 19 of 2008; L.N. 150 of 2011) . | 47
+(b) where the production notification is lodged using services provided by a specified body (L.N. 195 of 1999; L.N. 19 of 2008; L.N. 150 of 2011; L.N. 92 of 2014) . | No fee
 
 15. | In respect of rough diamonds—
 
