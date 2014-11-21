@@ -6,7 +6,7 @@
 
 Item | Article | Country or place
 
-1. | Textiles. | All countries.
+1. | (Repealed L.N. 91 of 2014)
 
 2. | Pesticides. | All countries.
 

@@ -14,7 +14,7 @@
 
   - 2C. Proprietary Chinese medicines as defined in section 2 of the Chinese Medicine Ordinance (Cap. 549). (47 of 1999 s. 172)
 
-  - 3. Textiles, other than woven or knitted fabric swatches and sample yarn imported by air and not exceeding 0.8 m2 in size in the case of fabric swatches and 1.2 kg in weight in respect of each type of yarn.
+  - 3. (Repealed L.N. 91 of 2014)
 
   - 4-5. (Repealed L.N. 246 of 1997)
 

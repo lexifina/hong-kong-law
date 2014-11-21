@@ -2,19 +2,13 @@
 
 [regs. 2A, 2B & 7]
 
-- Part 1 Specified Textiles And Production for Purposes of
+- Part 1 Specified Textiles and Production for Purposes of Section 6AA(1) and Countries or Places for Purposes of Section 6AA(2) of the Ordinance (L.N. 155 of 2004)
 
-- Section 6AA(1) and Countries or Places for Purposes of
+- Item | Countries or Places | Textiles | Process
 
-- Section 6AA(2) of the Ordinance (L.N. 155 of 2004)
+- 1. | (Repealed L.N. 91 of 2014)
 
-Item | Countries or Places | Textiles | Process
-
-1. | United States of America | Cut-and-sewn garments, which mean garments that are cut and sewn, or otherwise assembled, from fabrics. | Such assembling operations of such parts of the garments as the Director may determine for entitling the garments to a certificate of Hong Kong origin under the certification of origin system administered by the Director.
-
-(L.N. 155 of 2004)
-
-2. (Repealed L.N. 68 of 2009)
+- 2. | (Repealed L.N. 68 of 2009)
 
 - Part II (Repealed L.N. 155 of 2004)
 
@@ -54,11 +48,9 @@ Item | Countries or Places | Textiles | Process
 
   - 12. Place of production.
 
-  - 13.
+  - 13. Other particulars from time to time specified by the Director for the purpose of enabling him to determine whether or not a production notification should be validated.
 
-  - Other particulars from time to time specified by the Director for the purpose of enabling him to determine whether or not a production notification should be validated.
-
-    - For the purposes of items 1 and 2, registration number (登記編號) means the number by which the manufacturer or subcontractor is registered under Part 3A of these regulations or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H).
+- For the purposes of items 1 and 2, registration number (登記編號) means the number by which the manufacturer or subcontractor is registered under Part 3A of these regulations or regulation 7 of the Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H).
 
 - Part 5 Specified Textiles Exempted from Part IIA of the Ordinance
 
