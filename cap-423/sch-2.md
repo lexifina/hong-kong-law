@@ -20,7 +20,7 @@ Item | Body
 
 7. | Hong Kong Federation of Trade Unions, The
 
-8. | Hong Kong Productivity Council
+8. | (Repealed L.N. 142 of 2014)
 
 9. | Hong Kong Confederation of Trade Unions, The
 
@@ -32,7 +32,7 @@ Item | Body
 
 13. | The Hong Kong Society for Rehabilitation
 
-14. | Hong Kong Society for the Blind
+14. | (Repealed L.N. 142 of 2014)
 
 15. | Hong Kong Workers’ Health Centre Limited
 
@@ -58,7 +58,7 @@ Item | Body
 
 27. | Methodist Centre
 
-28. | Richmond Fellowship of Hong Kong (Amended L.N. 214 of 2001)
+28. | (Repealed L.N. 142 of 2014)
 
 29. | Christian Action
 
@@ -112,13 +112,13 @@ Item | Body
 
 54-55. | (Repealed L.N. 71 of 2006)
 
-56. | Hong Kong Sheng Kung Hui Welfare Council (Amended L.N. 210 of 2006)
+56. | (Repealed L.N. 142 of 2014)
 
 57. | Hong Kong St. John Ambulance
 
 58. | Hong Kong Association for Democracy and People’s Livelihood
 
-59. | School of Professional And Continuing Education, The University of Hong Kong
+59. | (Repealed L.N. 142 of 2014)
 
 60. | (Repealed L.N. 99 of 2001)
 
@@ -136,7 +136,7 @@ Item | Body
 
 67. | College of Nursing, Hong Kong (Added L.N. 86 of 2003)
 
-68. | College of Nursing, Hong Kong (Added L.N. 86 of 2003)
+68. | (Repealed L.N. 142 of 2014)
 
 69. | Hong Kong Federation of Handicapped Youth (Added L.N. 67 of 2004)
 
@@ -144,7 +144,7 @@ Item | Body
 
 71. | The Mental Health Association of Hong Kong (Added L.N. 71 of 2006)
 
-72. | Construction Industry Council (Added 12 of 2006 s. 84)
+72. | (Repealed L.N. 142 of 2014)
 
 73. | The Neighbourhood Advice-Action Council (Added L.N. 216 of 2007)
 
@@ -158,7 +158,7 @@ Item | Body
 
 78. | School of Continuing and Professional Studies, The Chinese University of Hong Kong (Added L.N. 71 of 2008)
 
-79. | HKIEd School of Continuing and Professional Education Limited (Added L.N. 71 of 2008)
+79. | (Repealed L.N. 142 of 2014)
 
 80. | Hong Kong Institute of Technology (Added L.N. 71 of 2008)
 
@@ -184,7 +184,7 @@ Item | Body
 
 91. | Hospital & Clinic Nurses Association (Added L.N. 221 of 2009)
 
-92 | Division of Continuing and Professional Education, School of Chinese Medicine, Hong Kong Baptist University (Added L.N. 221 of 2009)
+92 | (Repealed L.N. 142 of 2014)
 
 93. | Occupational Safety and Health Council (Added L.N. 221 of 2009)
 
@@ -194,11 +194,11 @@ Item | Body
 
 96. | (Repealed L.N. 49 of 2012)
 
-97. | Jenny Beauty College (Added L.N. 75 of 2010)
+97. | (Repealed L.N. 142 of 2014)
 
 98. | (Repealed L.N. 49 of 2012)
 
-99. | Youth Outreach (Added L.N. 75 of 2010)
+99. | (Repealed L.N. 142 of 2014)
 
 100. | Electronic Communication Technical Staff Union (Added L.N. 75 of 2010)
 
@@ -212,7 +212,7 @@ Item | Body
 
 105. | Hong Kong Air-conditioning and Refrigerating Trades Workers General Union (Added L.N. 75 of 2010)
 
-106. | Industrial Centre, The Hong Kong Polytechnic University (Added L.N. 75 of 2010)
+106. | (Repealed L.N. 142 of 2014)
 
 107. | (Repealed L.N. 49 of 2012)
 
@@ -224,7 +224,7 @@ Item | Body
 
 114. | Pui Ching Academy (Added L.N. 173 of 2010)
 
-115. | HKMA College of Further Education (Added L.N. 173 of 2010)
+115. | (Repealed L.N. 142 of 2014)
 
 116. | Royal International College (Added L.N. 173 of 2010)
 
@@ -232,13 +232,13 @@ Item | Body
 
 118. | Hongkong School of Commerce (Added L.N. 173 of 2010)
 
-119. | Tiptop Consultants Limited (Added L.N. 173 of 2010)
+119. | (Repealed L.N. 142 of 2014)
 
 120-122. | (Repealed L.N. 69 of 2013)
 
 123. | The Hong Kong Marble & Granite Merchants Association, Limited (Added L.N. 173 of 2010)
 
-124. | Hong Kong & Kowloon Restaurant & Cafe Workers General Union Vocational (Day / Night) School (Added L.N. 173 of 2010)
+124. | (Repealed L.N. 142 of 2014)
 
 125. | (Repealed L.N. 69 of 2013)
 
@@ -252,7 +252,7 @@ Item | Body
 
 130. | The Hong Kong Association of Hair Design (Added L.N. 173 of 2010)
 
-131. | Ming Salon Limited (Added L.N. 173 of 2010)
+131. | (Repealed L.N. 142 of 2014)
 
 132. | Xianggang Putonghua Yanxishe (Added L.N. 173 of 2010)
 
@@ -280,7 +280,7 @@ Item | Body
 
 146. | (Repealed L.N. 69 of 2013)
 
-147. | Reach Profession Training Skills Development Centre (Added L.N. 173 of 2010)
+147. | (Repealed L.N. 142 of 2014)
 
 148. | Hong Kong Storehouses, Transportation & Logistics Staff Association (Added L.N. 173 of 2010)
 
@@ -299,5 +299,13 @@ Item | Body
 155. | Silence Limited (Added L.N. 69 of 2013)
 
 156. | The Association of Electrical and Mechanical Engineering(Hong Kong) Limited (Added L.N. 69 of 2013)
+
+157. | Hong Kong Sheng Kung Hui Welfare Council Limited (Added L.N. 142 of 2014)
+
+158. | Institute of Active Ageing, The Hong Kong Polytechnic University (Added L.N. 142 of 2014)
+
+159. | Star Chef Management School operated by Star Chef Management School Company Limited (Added L.N. 142 of 2014)
+
+160. | Haven of Hope Christian Service (Added L.N. 142 of 2014)
 
 (Schedule 2 replaced L.N. 269 of 1999) (Format changes—E.R. 2 of 2012)
