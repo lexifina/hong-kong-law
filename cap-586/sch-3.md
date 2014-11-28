@@ -8,7 +8,9 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
 - PART 1 INTERPRETATION AND APPLICATION
 
-  - I. “Hybrid animal” (雜交動物)
+  - I.
+
+    - “Hybrid animal” (雜交動物)
 
   - 1. Hybrid animals that have in their recent lineage one or more specimens of species included in Appendix I or Appendix II shall be subject to the provisions of this Ordinance just as if they were full species, even if the hybrid concerned is not specifically included in the Appendices.
 
@@ -26,7 +28,9 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
   - III.
 
-    - “Artificially propagated” (人工培植) Regarding the definition of “artificially propagated”
+    - “Artificially propagated” (人工培植)
+
+- Regarding the definition of “artificially propagated”
 
   - 1. The following definitions for terms are used—
 
@@ -86,9 +90,11 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (c) in the case of operations propagating Appendix I species for commercial purposes under such conditions they are registered with the Secretariat.
 
-  - Regarding grafted plants
+- Regarding grafted plants
 
-  - 5. Grafted plants shall be recognized as artificially propagated only when both the root-stock and the graft have been taken from specimens that have been artificially propagated and grafted specimens consisting of taxa from different Appendices shall be treated as specimens of the taxon included in the more restrictive Appendix. Regarding hybrids
+  - 5. Grafted plants shall be recognized as artificially propagated only when both the root-stock and the graft have been taken from specimens that have been artificially propagated and grafted specimens consisting of taxa from different Appendices shall be treated as specimens of the taxon included in the more restrictive Appendix.
+
+- Regarding hybrids
 
   - 6. Hybrids shall be subject to the provisions of this Ordinance even though not specifically included in the Appendices if one or both of their parents are of taxa included in the Appendices, unless the hybrids are excluded by a specific annotation in Appendix II or Appendix III.
 
@@ -100,13 +106,15 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (c) artificially propagated hybrids derived from one or more unannotated Appendix I species or other taxa shall be treated as being included in Appendix II and entitled therefore to all exemptions applicable to artificially propagated specimens of species listed in Appendix II.
 
-  - Regarding flasked seedlings of Appendix I orchids
+- Regarding flasked seedlings of Appendix I orchids
 
   - 8. Flasked seedlings of orchid species listed in Appendix I obtained in vitro, in solid or liquid media, and transported in sterile containers, shall not be considered as specimens of a scheduled species for the purposes of this Ordinance if they have been artificially propagated.
 
   - IV.
 
-    - “Bred in captivity” (圈養繁殖) Regarding terminology
+    - “Bred in captivity” (圈養繁殖)
+
+- Regarding terminology
 
   - 1. For specimens of animal species bred in captivity—
 
@@ -126,7 +134,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
       - “a controlled environment” is an environment that is manipulated for the purpose of producing animals of a particular species, that has boundaries designed to prevent animals, eggs or gametes of the species from entering or leaving the controlled environment, and the general characteristics of which may include but are not limited to: artificial housing; waste removal; health care; protection from predators; and artificially supplied food.
 
-      - Regarding the term “bred in captivity”
+- Regarding the term “bred in captivity”
 
   - 2. The definition provided below shall apply to the specimens bred in captivity of species included in the Appendices, whether or not they were bred for commercial purposes.
 
@@ -148,17 +156,25 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
       - (iii) has produced offspring of second generation (F2) or subsequent generation (F3, F4, etc.) in a controlled environment; or is managed in a manner that has been demonstrated to be capable of reliably producing second-generation offspring in a controlled environment.
 
-  - Regarding marking of specimens of Appendix I species bred in captivity
+- Regarding marking of specimens of Appendix I species bred in captivity
 
   - 4. A specimen bred in captivity shall be marked in accordance with the provisions on marking in the Resolutions adopted by the Conference of the Parties and the type and number of the mark shall be indicated on any Convention certifying document issued in respect of the specimen.
 
-  - V. “Readily recognizable part or derivative”
+  - V.
 
-  - (可輕易地識別的部分或衍生物)
+    - “Readily recognizable part or derivative”(可輕易地識別的部分或衍生物)
 
   - 1. The term “readily recognizable part or derivative” shall be interpreted to include any specimen which appears from an accompanying document, the packaging or a mark or label, or from any other circumstances, to be a part or derivative of an animal or plant of a species included in the Appendices, unless such part or derivative is specifically exempted from the provisions of this Ordinance.
 
   - 2. Coral sand and coral fragments shall not be considered as specimens of a scheduled species for the purposes of this Ordinance.
+
+  - 2A. The following are not specimens of a scheduled species for the purposes of this Ordinance—
+
+    - (a) naturally excreted urine;
+
+    - (b) naturally excreted faeces;
+
+    - (c) naturally excreted ambergris. (Added L.N. 98 of 2014)
 
   - 3. In this Schedule—
 
@@ -208,7 +224,9 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (c) justification for the omission of any of the aforementioned information.
 
-  - 4. Subject to paragraph 12 of this Part, the provisions of Article III, paragraph 3, Article IV, paragraph 4, Article V, paragraph 3, and Article VI, paragraph 2, of the Convention shall be understood to mean that an export permit or re-export certificate shall be valid for a period of no more than 6 months from the date on which it was granted and that it shall not be accepted to authorize export, re-export or import except during the period of validity. Regarding pre-Convention certificates
+  - 4. Subject to paragraph 12 of this Part, the provisions of Article III, paragraph 3, Article IV, paragraph 4, Article V, paragraph 3, and Article VI, paragraph 2, of the Convention shall be understood to mean that an export permit or re-export certificate shall be valid for a period of no more than 6 months from the date on which it was granted and that it shall not be accepted to authorize export, re-export or import except during the period of validity.
+
+- Regarding pre-Convention certificates
 
   - 5. A pre-Convention certificate shall also specify—
 
@@ -220,29 +238,37 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (a) the date from which the provisions of the Convention apply to a specimen shall be the date on which the species concerned was first included in the Appendices to the Convention; and
 
-    - (b) the date on which a specimen is acquired shall be considered as the date the specimen was known to be either—
+    - (b) the date on which a specimen was acquired is—
 
-      - (i) removed from the wild; or
+      - (i) the date on which the specimen was known to be removed from the wild;
 
-      - (ii) born in captivity or artificially propagated in a controlled environment; or
+      - (ii) the date on which the specimen was known to be born in captivity or artificially propagated in a controlled environment; or
 
-      - (iii) if such date is unknown or cannot be proved, any subsequent and provable date on which it was first possessed by a person.
+      - (iii) if the date referred to in sub-subparagraph (i) or (ii) is unknown or cannot be proved, the earliest provable date on which it was first possessed by any person. (Replaced L.N. 98 of 2014)
 
-  - 7. All pre-Convention certificates shall include either the precise date of acquisition of the specimens concerned or a certification that the specimens were acquired before a specific date, in accordance with paragraph 6(b) above. Regarding certificates of origin
+  - 7. All pre-Convention certificates shall include either the precise date of acquisition of the specimens concerned or a certification that the specimens were acquired before a specific date, in accordance with paragraph 6(b) above.
 
-  - 8. The provisions of Article V, paragraph 3, of the Convention shall be understood to mean that a certificate of origin shall be valid for a period of not more than 12 months from the date on which it was granted, and that it shall not be accepted to authorize export or import except during the period of validity. Regarding phytosanitary certificates
+- Regarding certificates of origin
+
+  - 8. The provisions of Article V, paragraph 3, of the Convention shall be understood to mean that a certificate of origin shall be valid for a period of not more than 12 months from the date on which it was granted, and that it shall not be accepted to authorize export or import except during the period of validity.
+
+- Regarding phytosanitary certificates
 
   - 9. A phytosanitary certificate used as a certificate of artificial propagation in accordance with Article VII, paragraph 5, of the Convention for the purpose of the export of an artificially propagated specimen of an Appendix II species shall include the scientific name of the species and the type and quantity of the specimens covered by the certificate, and bear a stamp, seal or other specific indication stating that the specimens are artificially propagated.
 
   - 10. Phytosanitary certificates shall be used exclusively for the purpose of export from the place of artificial propagation of the specimens concerned.
 
-  - 10A. On permits and certificates issued to authorize trade in specimens of hard corals of the genera included in the most recent list of “Coral taxa where identification of genus level is acceptable” maintained by the Secretariat, if the species cannot be readily determined, the specimens may be recorded at the genus level. (Added L.N. 36 of 2011) Regarding permits and certificates for coral specimens
+- Regarding permits and certificates for coral specimens
+
+  - 10A. On permits and certificates issued to authorize trade in specimens of hard corals of the genera included in the most recent list of “Coral taxa where identification of genus level is acceptable” maintained by the Secretariat, if the species cannot be readily determined, the specimens may be recorded at the genus level. (Added L.N. 36 of 2011)
 
   - 11. On permits and certificates for trade in specimens of coral rock, where the genus cannot be readily determined, the scientific name for the specimens shall be “Scleractinia”.
 
   - 11A. On permits and certificates for trade in worked specimens of black coral, if the species cannot be readily determined, the specimens may be recorded at the genus level, and if the genus cannot be readily determined, the scientific name for the given specimens is “Antipatharia”. (Added L.N. 36 of 2011)
 
-  - 11B. Raw black coral and live black coral must continue to be identified in trade to species level. (Added L.N. 36 of 2011) Regarding permits and certificates for timber species included in Appendix II and Appendix III with the annotation “Designates logs, sawn wood and veneer sheets”
+  - 11B. Raw black coral and live black coral must continue to be identified in trade to species level. (Added L.N. 36 of 2011)
+
+- Regarding permits and certificates for timber species included in Appendix II and Appendix III with the annotation “Designates logs, sawn wood and veneer sheets”
 
   - 12. The validity of the export permit or re-export certificate may be extended beyond the normal maximum of 6 months after the date of issue, on the condition that—
 
@@ -256,9 +282,11 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (e) a copy of the permit or certificate as amended in accordance with subparagraph (c) above is sent to the relevant authority of the place of export or re-export, allowing it to amend its annual report, and to the Secretariat.
 
-  - Regarding retrospective issue of permits and certificates
+- Regarding retrospective issue of permits and certificates
 
-  - 13. A permit or certificate issued retrospectively shall not be accepted unless it was issued in accordance with the requirements concerning the retrospective issue of documents under the Convention or any Convention instrument. Regarding acceptance and clearance of documents and security measures
+  - 13. A permit or certificate issued retrospectively shall not be accepted unless it was issued in accordance with the requirements concerning the retrospective issue of documents under the Convention or any Convention instrument.
+
+- Regarding acceptance and clearance of documents and security measures
 
   - 14. Where a permit or certificate has been altered (by rubbing out, scratching out, etc.), modified or crossed out, the alteration, modification or crossing-out shall be authenticated by the stamp and signature of the relevant authority issuing the document.
 
@@ -274,7 +302,7 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (d) worked skins or pieces thereof of Tupinambis species that were imported before 1 August 2000 are being re-exported, in which case it is sufficient to use the indication Tupinambis spp.
 
-  - Regarding documents for sample collection covered by ATA (which means “temporary admission”) carnets
+- Regarding documents for sample collection covered by ATA (which means “temporary admission”) carnets
 
   - 17.
 
@@ -294,7 +322,9 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
   - 19. Such a permit or certificate shall not be transferable and when, during a stay in a place, it is lost, stolen or accidentally destroyed, only the relevant authority that issued it may issue a duplicate or a new document to replace the original. In the case of a duplicate, it must bear the same number, if possible, and the same date of validity as the original document, and contain the following statement: “This document is a true copy of the original”. In the case of a new document, it must state that it replaces the original bearing the number XX. (Amended L.N. 36 of 2011)
 
-  - 20. If specimens in the collection are stolen, destroyed or lost, the owner of the collection shall inform the relevant authority issuing the document and the relevant authority of the place in which that matter occurred as soon as practicable. Regarding permits and certificates issued by the state not party to the Convention
+  - 20. If specimens in the collection are stolen, destroyed or lost, the owner of the collection shall inform the relevant authority issuing the document and the relevant authority of the place in which that matter occurred as soon as practicable.
+
+- Regarding permits and certificates issued by the state not party to the Convention
 
   - 21. Permits and certificates issued by states not party to the Convention shall contain—
 
@@ -306,47 +336,51 @@ This Schedule sets out, with or without modification, the relevant parts of Conv
 
     - (d) in the case of export of specimens of a species included in Appendix I or Appendix II, certification to the effect that the competent scientific institution has advised that the export will not be detrimental to the survival of the species (in case of doubt a copy of such advice shall be required) and that the specimens were not obtained in contravention of the laws of the place of export;
 
-    - (e) in the case of re-export, certification to the effect that the competent authority of the place of origin has issued an export document that substantially meets the requirements of Article VI of the Convention;
+    - (e) for re-export, the name of the place of origin of the specimen concerned and—
+
+      - (i) if the place of origin was a Party, the number of the export permit and the date of issue;
+
+      - (ii) if the place of origin was not a Party, certification to the effect that the competent authority of the place of origin has issued an export document that substantially meets the requirements of Article VI of the Convention; and
+
+      - (iii) if any information referred to in sub-subparagraph (i) or (ii) is omitted, the justification for the omission; (Replaced L.N. 98 of 2014)
 
     - (f) in the case of export or re-export of live specimens, certification to the effect that they will be transported in a manner that will minimize the risk of injury, damage to health or cruel treatment.
 
-  - 22. Documentation from states not party to the Convention shall only be accepted if the details of the competent authorities and scientific institutions of such states that are included in the online Directory of the Convention were communicated less than 2 years previously, unless the Secretariat confirms that it has more recent information. (Amended L.N. 36 of 2011 and L.N. 53 of 2011) ANNEX TO PART 2 PERMITS AND CERTIFICATES Information that shall be included in permits and certificates
+  - 22. Documentation from states not party to the Convention shall only be accepted if the details of the competent authorities and scientific institutions of such states that are included in the online Directory of the Convention were communicated less than 2 years previously, unless the Secretariat confirms that it has more recent information. (Amended L.N. 36 of 2011 and L.N. 53 of 2011)
 
-  - issued under the Convention
+- Annex to Part 2 Permits and Certificates Information that shall be included in permits and certificates
 
-  - (a) The full name and the logo of the Convention
+- issued under the Convention
 
-  - (b) The complete name and address of the relevant authority issuing the permit
+- (a) | The full name and the logo of the Convention
 
-  - (c) A unique control number
+- (b) | The complete name and address of the relevant authority issuing the permit
 
-  - (d) The complete names and addresses of the exporter and importer
+- (c) | A unique control number
 
-  - (e) The scientific name of the species to which the specimens belong (or the subspecies when it is relevant in order to determine in which Appendix the taxon concerned is included) in accordance with the adopted standard nomenclature
+- (d) | The complete names and addresses of the exporter and importer
 
-  - (f) The description of the specimens, in one of the Convention’s 3 working languages, using the nomenclature of specimens distributed by the Secretariat
+- (e) | The scientific name of the species to which the specimens belong (or the subspecies when it is relevant in order to determine in which Appendix the taxon concerned is included) in accordance with the adopted standard nomenclature
 
-  - (g) In the case of an export permit, the numbers of the marks appearing on the specimens if they are marked or if the Conference of the Parties prescribes marking (specimens from ranches, subject to quotas approved by the Conference of the Parties, originating from operations which breed animals included in Appendix I in captivity for commercial purposes, etc.)
+- (f) | The description of the specimens, in one of the Convention’s 3 working languages, using the nomenclature of specimens distributed by the Secretariat
 
-  - (h) The Appendix in which the species or subspecies or population is listed (N.B.: This does not change even if the specimen concerned is deemed to be included in a different Appendix. For example, although specimens of Appendix I species bred in captivity for commercial purposes are deemed to be specimens of species included in Appendix II, the species remains listed in Appendix I, and this must be specified on the permit or certificate) (Amended L.N. 36 of 2011)
+- (g) | In the case of an export permit, the numbers of the marks appearing on the specimens if they are marked or if the Conference of the Parties prescribes marking (specimens from ranches, subject to quotas approved by the Conference of the Parties, originating from operations which breed animals included in Appendix I in captivity for commercial purposes, etc.)
 
-  - (i) The source of the specimens
+- (h) | The Appendix in which the species or subspecies or population is listed (N.B.: This does not change even if the specimen concerned is deemed to be included in a different Appendix. For example, although specimens of Appendix I species bred in captivity for commercial purposes are deemed to be specimens of species included in Appendix II, the species remains listed in Appendix I, and this must be specified on the permit or certificate) (Amended L.N. 36 of 2011)
 
-  - (j) The quantity of specimens and, if appropriate, the unit of measure used
+- (i) | The source of the specimens
 
-  - (k) The date of issue and the date of expiry
+- (j) | The quantity of specimens and, if appropriate, the unit of measure used
 
-  - (l) The name of the signatory and his or her signature
+- (k) | The date of issue and the date of expiry
 
-  - (m) The embossed seal or ink stamp of the relevant authority
+- (l) | The name of the signatory and his or her signature
 
-  - (n) In the case of a certificate of origin, a statement that the specimens originate in the place that issued the certificate.
+- (m) | The embossed seal or ink stamp of the relevant authority
 
-- PART 3 REQUIREMENTS RELATING TO EXEMPTION FOR NON-COMMERCIAL
+- (n) | In the case of a certificate of origin, a statement that the specimens originate in the place that issued the certificate.
 
-- LOAN, DONATION OR EXCHANGE OF MUSEUM AND
-
-- HERBARIUM SPECIMENS For the purposes of implementing the exemption for scientific exchange in Article VII, paragraph 6, of the Convention, the requirement that herbarium specimens, preserved, dried or embedded museum specimens, frozen museum specimens, duplicate herbarium specimens or live plant material or the container used to transport such specimens carry a label issued or approved by a relevant authority shall be met if the label—
+- PART 3 REQUIREMENTS RELATING TO EXEMPTION FOR NON-COMMERCIAL LOAN, DONATION OR EXCHANGE OF MUSEUM AND HERBARIUM SPECIMENS For the purposes of implementing the exemption for scientific exchange in Article VII, paragraph 6, of the Convention, the requirement that herbarium specimens, preserved, dried or embedded museum specimens, frozen museum specimens, duplicate herbarium specimens or live plant material or the container used to transport such specimens carry a label issued or approved by a relevant authority shall be met if the label—
 
   - (a) bears the acronym “CITES”;
 
