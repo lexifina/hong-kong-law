@@ -38,4 +38,6 @@ Item | Substance
 
 17. | 1-[(2-Chlorophenyl)-N-(methylimino)methyl]cyclopentanol (1-羥基環戊基-2-氯苯基-N-甲基亞胺基酮) (*) (Added L.N. 8 of 2011)
 
+18. | Alpha-phenylacetoacetonitrile (α-苯乙酰乙腈) (*) (Added L.N. 108 of 2014)
+
 (*) Including the salts of these substances whenever the existence of such salts is possible. (Schedule 2 replaced L.N. 53 of 1997)
