@@ -42,5 +42,5 @@ s-030.md
 s-031.md
 s-032.md
 s-033.md
-sch-1.md
 sch-2.md
+sch-1.md
