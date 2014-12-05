@@ -28,7 +28,7 @@ PROVISIONS OF VIENNA CONVENTION ON CONSULAR RELATIONS HAVING THE FORCE OF LAW IN
 
     - (j) “consular premises” means the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used exclusively for the purposes of the consular post;
 
-    - (k) “consular archives” includes all the papers, documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card-indices and any article of furniture intended for their protection or safe-keeping.
+    - (k) “consular archives” includes all the papers, documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card-indices and any article or furniture intended for their protection or safe-keeping.
 
   - 2. Consular officers are of two categories, namely career consular officers and honorary consular officers. The provisions of Chapter II of the present Convention apply to consular posts headed by career consular officer; the provisions of Chapter III govern consular posts headed by honorary consular officers.
 
