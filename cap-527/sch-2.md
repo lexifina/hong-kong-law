@@ -4,6 +4,8 @@
 
 Further Exceptions to this Ordinance
 
+(Format changes—E.R. 1 of 2013)
+
 - Part 1 Interpretation
 
   - 1. Interpretation In this Schedule—
@@ -16,6 +18,26 @@ Further Exceptions to this Ordinance
 
 Provision creating illegality | Exception
 
-1. Parts III, IV and V | Any discrimination against a person who has family status arising from a provision— (a) of— (i) the Civil Service Regulations; (ii) any contract of service or apprenticeship; or (iii) any contract personally to execute any work; and (b) relating to— (i) housing; (ii) education; (iii) air-conditioning; (iv) passage; or (v) baggage, benefits or allowances.
+1. | Parts III, IV and V | Any discrimination against a person who has family status arising from a provision—
 
-(Format changes—E.R. 1 of 2013)
+(a) | of—
+
+(i) | the Civil Service Regulations;
+
+(ii) | any contract of service or apprenticeship; or
+
+(iii) | any contract personally to execute any work or labour; and (Amended 18 of 2014 s. 38)
+
+(b) | relating to—
+
+(i) | housing;
+
+(ii) | education;
+
+(iii) | air-conditioning;
+
+(iv) | passage; or
+
+(v) | baggage,
+
+benefits or allowances.

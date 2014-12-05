@@ -20,7 +20,9 @@ section 7AA | transfer of identity card
 
 section 7B | failure to apply for new identity cards
 
-section 11 | unauthorized handling of particulars (Amended 9 of 2003 s. 24)
+section 12 | unauthorized handling of particulars
+
+(Amended 9 of 2003 s. 24; 18 of 2014 s. 163)
 
 2. | Registration of Persons Regulations (Cap. 177 sub. leg. A)
 
@@ -38,7 +40,9 @@ regulation 12(2A) | possession of identity card embodying chip tampered with
 
 regulation 13A | furnishing false particulars of loss, etc. of identity card
 
-regulation 19 | miscellaneous offences (Amended 9 of 2003 s. 24)
+regulation 19 | miscellaneous offences
+
+(Amended 9 of 2003 s. 24)
 
 3. | Crimes Ordinance (Cap. 200)
 
@@ -86,11 +90,19 @@ section 28 | breach or infringement of any provisions of the Births and Deaths R
 
 2. | Births Registration (Special Registers) Ordinance (Cap. 175)
 
-section 10(1) section 10(2) | loss or injury of special register of births, etc. tampering with database, etc. (Amended 8 of 2006 s. 51)
+section 10(1) | loss or injury of special register of births, etc.
+
+section 10(2) | tampering with database, etc.
+
+(Amended 8 of 2006 s. 51)
 
 3. | Deaths Registration (Special Registers) Ordinance (Cap. 176)
 
-section 10(1) section 10(2) | loss or injury of special register of deaths, etc. tampering with database, etc. (Amended 8 of 2006 s. 51)
+section 10(1) | loss or injury of special register of deaths, etc.
+
+section 10(2) | tampering with database, etc.
+
+(Amended 8 of 2006 s. 51)
 
 4. | Marriage Reform Ordinance (Cap. 178)
 
@@ -124,7 +136,9 @@ section 33B | false advertisement or representation as regards status of civil c
 
 section 39(3) | failure to comply with conditions of celebration of marriage in articulo mortis, etc.
 
-section 39(4) | failure by minister to transmit certificate of marriage in articulo mortis (Amended 23 of 2005 s. 27)
+section 39(4) | failure by minister to transmit certificate of marriage in articulo mortis
+
+(Amended 23 of 2005 s. 27)
 
 6. | Offences against the Person Ordinance (Cap. 212)
 

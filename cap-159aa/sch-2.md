@@ -28,6 +28,4 @@ _ FORM 2 ROLL OF BARRISTERS | [section 5]
 
 Registrar, High Court, HKSAR.
 
-Approved this . day of .
-
-[Signed] Chief Justice
+(18 of 2014 s. 160)

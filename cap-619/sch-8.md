@@ -20,9 +20,7 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
       - (b) in paragraph (c), by adding “and” at the end;
 
-      - (c) by adding—
-
-        - “(d) the Competition Tribunal established by section 134 of the Competition Ordinance (Cap. 619);”.
+      - (c) by adding— “(d) the Competition Tribunal established by section 134 of the Competition Ordinance (Cap. 619);”.
 
     - (2) Section 168R(5) is amended, in the definition of “disqualification order”—
 
@@ -30,9 +28,7 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
       - (b) in paragraph (c), by adding “or” at the end;
 
-      - (c) by adding—
-
-        - “(d) section 101 of the Competition Ordinance (Cap. 619);”.
+      - (c) by adding— “(d) section 101 of the Competition Ordinance (Cap. 619);”.
 
 - PART 2 AMENDMENTS TO COMPANIES (DISQUALIFICATION ORDERS) REGULATION
 
@@ -132,19 +128,21 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
       - for or in relation to the provision of interconnection of the type referred to in section 36A(3D).”.
 
-  - 14. Part VC heading amended The heading of Part VC is amended by repealing “7K, 7L, 7M, 7N AND 7P” and substituting “7M AND 7Q”.
+  - 14. Part 5C heading amended The heading of Part 5C is amended by repealing “Sections 7K, 7L, 7N and 7P” and substituting “Section 7Q”. (Replaced 18 of 2014 s. 175)
 
   - 15. Interpretation
 
     - (1) Section 32L is amended, in the definition of “appeal”, by repealing “, (1A), (1B) or (1C)”.
 
-    - (2) Section 32L is amended, in the definition of “appeal subject matter”, in paragraph (a)(i), by repealing “7K, 7L, 7M or 7N” and substituting “7M or 7Q”.
+    - (2) Section 32L is amended, in the definition of “appeal subject matter”, in paragraph (a)(i), by repealing “7K, 7L or 7N or any licence condition relating to any such section” and substituting “7Q or any licence condition relating to section 7Q”. (Amended 18 of 2014 s. 175)
 
     - (3) Section 32L is amended, in the definition of “appeal subject matter”, by repealing paragraph (b).
 
   - 16. Appeals to Appeal Board
 
-    - (1) Section 32N(1)(a)(i) is amended by repealing “7K, 7L, 7M or 7N” and substituting “7M or 7Q”.
+    - (1) Section 32N(1)(a)(i) is amended by repealing “7K, 7L or 7N” and substituting “7Q”. (Amended 18 of 2014 s. 175)
+
+    - (1A) Section 32N(1) is amended by repealing “any such section” wherever it appears and substituting “that section”. (Added 18 of 2014 s. 175)
 
     - (2) Section 32N(1A), (1B) and (1C) is repealed.
 
@@ -152,7 +150,7 @@ CONSEQUENTIAL AND RELATED AMENDMENTS
 
   - 17. Procedure and powers of Appeal Board, etc. Section 32O(2) is amended by repealing “, or before the opinion, direction or decision referred to in section 32N(1A), (1B) or (1C) was formed, issued or made, as the case may be”.
 
-  - 18. Remedies Section 39A(1) is amended by repealing “7K, 7L, 7M or 7N” and substituting “7M or 7Q”.
+  - 18. Remedies Section 39A(1) is amended by repealing “7K, 7L or 7N” and substituting “7Q”. (Amended 18 of 2014 s. 175)
 
   - 19. Matters to be taken into account by Authority Schedule 2 is repealed.
 

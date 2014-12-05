@@ -1,6 +1,6 @@
 # Schedule 3
 
-[regs. 8A, 13 & 14] (L.N. 148 of 2000)
+[regs. 8A, 13, 14 & 16] (L.N. 148 of 2000; 18 of 2014 s. 154)
 
 (Format changes—E.R. 1 of 2013)
 

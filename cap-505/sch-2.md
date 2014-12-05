@@ -14,9 +14,9 @@ DESCRIPTION OF OFFENCES WHICH DISENTITLE PERSONS FROM BEING OR CONTINUING TO BE 
 
 - Section | Description*
 
-- 47 48 118 118A 118B 118C | incest by men incest by women of or over 16 rape non-consensual buggery assault with intent to commit buggery homosexual buggery with or by a man under 21
+- 47 48 118 118A 118B 118C | incest by men incest by women of or over 16 rape non-consensual buggery assault with intent to commit buggery homosexual buggery with or by a man under 16 (Amended 18 of 2014 s. 12)
 
-- 118D 118E 118F 118G 118H 118I | buggery with a girl under 21 buggery with a defective homosexual buggery committed otherwise than in private procuring others to commit homosexual buggery gross indecency with or by a man under 21 gross indecency by a man with a male defective
+- 118D 118E 118F 118G 118H 118I | buggery with a girl under 21 buggery with a defective (Repealed 18 of 2014 s. 12) procuring others to commit homosexual buggery gross indecency with or by a man under 16 (Amended 18 of 2014 s. 12) gross indecency by a man with a male defective
 
 - 118J 118K 118L 119 120 | gross indecency by a man with another man otherwise than in private procuring gross indecency by a man with another man bestiality procurement of an unlawful sexual act by threats or intimidation procurement of an unlawful sexual act by false pretences
 

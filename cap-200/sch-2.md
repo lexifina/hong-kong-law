@@ -12,15 +12,15 @@ Section | Description of offence
 
 118B | Assault with intent to commit buggery
 
-118C | Homosexual buggery with or by man under 21
+118C | Homosexual buggery with or by man under 16 (Amended 18 of 2014 s. 8)
 
 118D | Buggery with girl under 21
 
-118F | Homosexual buggery committed otherwise than in private
+118F | (Repealed 18 of 2014 s. 8)
 
 118G | Procuring others to commit homosexual buggery
 
-118H | Gross indecency with or by man under 21
+118H | Gross indecency with or by man under 16 (Amended 18 of 2014 s. 8)
 
 118J | Gross indecency by man with man otherwise than in private
 

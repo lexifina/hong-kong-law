@@ -1,5 +1,9 @@
-SPECIFICATION OF PUBLIC OFFICES
+SPECIFICATION OF PUBLIC OFFICES NOTICE
 
 (Cap. 1, section 43)
 
-The Governor has specified the public offices mentioned in the first column of the Schedule hereto for the purposes of the particular Ordinance (or sections thereof) mentioned opposite such public offices in the second column of the Schedule hereto.
+(Repealed 18 of 2014 s. 60)
+
+Editorial Note:
+
+The title of this Notice was amended from “Specification of Public Offices” to “Specification of Public Offices Notice” — see 18 of 2014 s. 59.

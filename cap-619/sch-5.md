@@ -6,11 +6,7 @@ COMPETITION COMMISSION
 
 - PART 1 INTERPRETATION
 
-  - 1.
-
-  - Interpretation
-
-  - In this Schedule—
+  - 1. Interpretation In this Schedule—
 
     - “auditor” (核數師) means the auditor appointed under section 24 of this Schedule;
 
@@ -86,11 +82,7 @@ COMPETITION COMMISSION
 
         - (b) in relation to an undertaking (other than a corporation or partnership), any member of the governing body of that undertaking.
 
-  - 6.
-
-  - Vacancy in office of member
-
-  - The office of a member becomes vacant if the member—
+  - 6. Vacancy in office of member The office of a member becomes vacant if the member—
 
     - (a) dies;
 
@@ -170,11 +162,7 @@ COMPETITION COMMISSION
 
       - (b) the members who are actually present at the meeting are able to hear that member.
 
-  - 14.
-
-  - Presiding member at meetings of Commission
-
-  - A meeting of the Commission is to be presided over by—
+  - 14. Presiding member at meetings of Commission A meeting of the Commission is to be presided over by—
 
     - (a) the Chairperson; or
 
@@ -208,11 +196,7 @@ COMPETITION COMMISSION
 
     - (4) A request under subsection (3) must be made within 14 days after the day on which the notice referred to in subsection (1)(b) is given.
 
-  - 18.
-
-  - Decisions not invalidated by defects in appointment etc.
-
-  - Decisions of the Commission are not invalidated solely by—
+  - 18. Decisions not invalidated by defects in appointment etc. Decisions of the Commission are not invalidated solely by—
 
     - (a) any defect in the appointment of a member;
 
@@ -226,23 +210,15 @@ COMPETITION COMMISSION
 
   - 19. Commission to submit estimates The Commission must, not later than 31 December in each financial year, submit to the Chief Executive estimates of its income and expenditure for the next financial year.
 
-  - 20.
+  - 20. Financial year The financial year of the Commission is— (Amended 18 of 2014 s. 174)
 
-  - Financial year
-
-  - The financial year of the Commission is the period—
-
-    - (a) beginning on the day on which this Schedule comes into operation and ending on the next 31 March; and
+    - (a) the period beginning on the day on which this Schedule comes into operation and ending on the next 31 March; and (Amended 18 of 2014 s. 174)
 
     - (b) the period of 12 months ending on 31 March in each subsequent year.
 
-  - 21.
+  - 21. Funds of Commission The funds of the Commission consist of—
 
-  - Funds of Commission
-
-  - The funds of the Commission consist of—
-
-    - (a) all money paid by the Government to the Commission and appropriated for that purpose by the Legislative Council;
+    - (a) all money paid by the Government to the Commission and appropriated for that purpose by the Legislative Council; and (Amended 18 of 2014 s. 174)
 
     - (b) all other money and property, including fees, interest and accumulations of income, received by the Commission.
 
@@ -290,11 +266,7 @@ COMPETITION COMMISSION
 
       - (c) an outline of all proceedings brought before the Tribunal.
 
-  - 26.
-
-  - Annual report and audited accounts to be laid on table of Legislative Council
-
-  - As soon as practicable, and in any case within 6 months after the end of a financial year, the Commission must give a copy of—
+  - 26. Annual report and audited accounts to be laid on table of Legislative Council As soon as practicable, and in any case within 6 months after the end of a financial year, the Commission must give a copy of—
 
     - (a) its annual report, prepared under section 25 of this Schedule;
 
@@ -478,11 +450,7 @@ COMPETITION COMMISSION
 
 - PART 10 MISCELLANEOUS
 
-  - 34.
-
-  - Rules
-
-  - The Commission may make rules—
+  - 34. Rules The Commission may make rules—
 
     - (a) regulating the procedure to be followed at meetings of the Commission and at meetings of its committees;
 

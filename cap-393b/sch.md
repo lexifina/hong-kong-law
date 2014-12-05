@@ -2,47 +2,49 @@
 
 [by-laws 2, 3, 9 & 16A] (L.N. 116 of 2012)
 
-FIGURE NO. 1 LANE SIGNAL
+Figure No. 1 Lane Signal
 
-THIS SIGN WHEN DISPLAYED CONVEYS TO VEHICULAR TRAFFIC PROCEEDING IN THE LANE ABOVE AND IN RELATION TO WHICH IT IS DISPLAYED THAT TRAFFIC MAY PROCEED OR CONTINUE TO DO SO IN THE SAID LANE BENEATH OR BEYOND THE SAID ARROW AND IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE ARROW FACES. IT MAY ALSO BE USED AT A TOLL BOOTH TO INDICATE THAT VEHICLES MAY PROCEED IN THAT LANE.
-
-(L.N. 116 of 2012)
-
-FIGURE NO. 2 PROCEED RIGHT OR KEEP RIGHT
-
-THE DIRECTION OF THE ARROW MAY BE REVERSED TO GIVE:—
-
-PROCEED LEFT OR KEEP LEFT
-
-THIS SIGN INDICATES THAT VEHICLES MUST PROCEED TO THE RIGHT-HAND LANE, OR TO THE LEFT-HAND LANE, IF THE DIRECTION OF THE ARROW IS REVERSED.
-
-FIGURE NO. 3 LANE SIGNAL
-
-THIS SIGN WHEN DISPLAYED CONVEYS TO VEHICULAR TRAFFIC PROCEEDING IN THE LANE ABOVE AND IN RELATION TO WHICH IT IS DISPLAYED THE PROHIBITION THAT SUCH TRAFFIC SHALL NOT PROCEED BENEATH OR BEYOND THE RED CROSS IN THE SAID LANE IN THE DIRECTION OPPOSITE TO THAT IN WHICH THE RED CROSS FACES. IT MAY ALSO BE USED AT A TOLL BOOTH TO INDICATE THAT VEHICLES MAY NOT PROCEED IN THAT LANE.
+This sign when displayed conveys to vehicular traffic proceeding in the lane above and in relation to which it is displayed that traffic may proceed or continue to do so in the said lane beneath or beyond the said arrow and in the direction opposite to that in which the arrow faces. It may also be used at a toll booth to indicate that vehicles may proceed in that lane.
 
 (L.N. 116 of 2012)
 
-FIGURE NO. 4 LANE SIGNAL
+Figure No. 2 Proceed Right or Keep Right
 
-THE SIGNAL MAY IN THE TUNNEL AREA BE PLACED IN A VERTICAL OR HORIZONTAL POSITION ABOVE OR AT THE SIDE OF A LANE FOR THE CONTROL OF THAT TRAFFIC PROCEEDING ALONG THE LANE OVER OR AT THE SIDE OF AND IN RELATION TO WHICH THE SIGNAL HAS BEEN PLACED, PROVIDED THAT WHEN THE SIGNAL IS PLACED ABOVE THE LANE THE GREEN ARROW SHALL POINT DOWNWARDS.
+The direction of the arrow may be reversed to give:—
 
-THE SIGNIFICANCE OF THE SIGNAL SHALL BE AS FOLLOWS:—
+Proceed Left or Keep Left
 
-- (i) WHEN A GREEN ARROW IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED MAY PROCEED ALONG THAT LANE.
+This sign indicates that vehicles must proceed to the right-hand lane, or to the left-hand lane, if the direction of the arrow is reversed.
 
-(ii) WHEN A STEADY OR INTERMITTENT AMBER LIGHT IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED SHALL PROCEED ALONG THAT LANE WITH CAUTION AND BE PREPARED TO STOP, PROVIDED THAT THE AMBER LIGHT MAY BE OMITTED FROM ANY SIGNAL INSTALLATION WHEN THE SIGNAL SHALL CONSIST OF A LIGHT CAPABLE OF SHOWING A RED CROSS AND A LIGHT CAPABLE OF SHOWING A GREEN ARROW.
+Figure No. 3 Lane Signal
 
-- (iii) WHEN A RED CROSS IS DISPLAYED VEHICULAR TRAFFIC PROCEEDING IN THE LANE ABOVE OR AT THE SIDE OF AND IN RELATION TO WHICH IT IS DISPLAYED SHALL NOT PROCEED BENEATH OR BEYOND OR PAST THE RED CROSS. THE SIGNAL MAY BE USED AT TOLL BOOTHS.
+This sign when displayed conveys to vehicular traffic proceeding in the lane above and in relation to which it is displayed the prohibition that such traffic shall not proceed beneath or beyond the red cross in the said lane in the direction opposite to that in which the red cross faces. It may also be used at a toll booth to indicate that vehicles may not proceed in that lane.
 
 (L.N. 116 of 2012)
 
-FIGURE NO. 5 USE DIPPED HEADLIGHTS
+Figure No. 4 Lane Signal
 
-THIS SIGN INDICATES THAT ALL TRAFFIC SHALL PROCEED THROUGH THE TUNNEL ON DIPPED HEADLIGHTS.
+The signal may in the tunnel area be placed in a vertical or horizontal position above or at the side of a lane for the control of that traffic proceeding along the lane over or at the side of and in relation to which the signal has been placed, provided that when the signal is placed above the lane the green arrow shall point downwards.
 
-FIGURE NO. 6 SPEED LIMIT
+The significance of the signal shall be as follows:—
 
-THIS SIGN INDICATES THAT A SPEED LIMIT OF 50 km PER HOUR IS IMPOSED ON THE SECTION OF THE ROAD IMMEDIATELY FOLLOWING THE SIGN. THE SIGN MAY BE USED WITHOUT THE LETTERS “km/h”. THE SIGN MAY BE ERECTED ON BOTH SIDES OF THE ROAD AND/OR ON A CENTRAL RESERVATION IN THE CASE OF A DUAL CARRIAGEWAY AT THE START OF A RESTRICTION FACING ONCOMING TRAFFIC. THE 300 mm SIZED SIGN MAY ALSO BE ERECTED AT INTERVALS ALONG THE ROAD TO REMIND MOTORISTS OF THE SPEED LIMIT IN FORCE.
+  - (i) When a green arrow is displayed vehicular traffic proceeding in the lane above or at the side of and in relation to which it is displayed may proceed along that lane.
+
+  - (ii) When a steady or intermittent amber light is displayed vehicular traffic proceeding in the lane above or at the side of and in relation to which it is displayed shall proceed along that lane with caution and be prepared to stop, provided that the amber light may be omitted from any signal installation when the signal shall consist of a light capable of showing a red cross and a light capable of showing a green arrow.
+
+  - (iii) When a red cross is displayed vehicular traffic proceeding in the lane above or at the side of and in relation to which it is displayed shall not proceed beneath or beyond or past the red cross.
+
+The signal may be used at toll booths.
+
+(L.N. 116 of 2012)
+
+Figure No. 5 Use Dipped Headlights
+
+This sign indicates that all traffic shall proceed through the tunnel on dipped headlights.
+
+Figure No. 6 Speed Limit
+
+This sign indicates that a speed limit of 50 km per hour is imposed on the section of the road immediately following the sign. The sign may be used without the letters “km/h”. The sign may be erected on both sides of the road and/or on a central reservation in the case of a dual carriageway at the start of a restriction facing oncoming traffic. The 300 mm sized sign may also be erected at intervals along the road to remind motorists of the speed limit in force.
 
 (L.N. 116 of 2012)
 
@@ -54,9 +56,9 @@ This sign indicates that a speed limit of 50 km per hour is imposed on the secti
 
 (L.N. 116 of 2012)
 
-FIGURE NO. 7 SPEED LIMIT
+Figure No. 7 Speed Limit
 
-THIS SIGN INDICATES THAT A SPEED LIMIT OF 70 km PER HOUR IS IMPOSED ON THE SECTION OF THE ROAD IMMEDIATELY FOLLOWING THE SIGN. THE SIGN MAY BE USED WITHOUT THE LETTERS “km/h”. THE SIGN MAY BE ERECTED ON BOTH SIDES OF THE ROAD AND/OR ON A CENTRAL RESERVATION IN THE CASE OF A DUAL CARRIAGEWAY AT THE START OF A RESTRICTION FACING ONCOMING TRAFFIC. THE 300 mm SIZED SIGN MAY ALSO BE ERECTED AT INTERVALS ALONG THE ROAD TO REMIND MOTORISTS OF THE SPEED LIMIT IN FORCE.
+This sign indicates that a speed limit of 70 km per hour is imposed on the section of the road immediately following the sign. The sign may be used without the letters “km/h”. The sign may be erected on both sides of the road and/or on a central reservation in the case of a dual carriageway at the start of a restriction facing oncoming traffic. The 300 mm sized sign may also be erected at intervals along the road to remind motorists of the speed limit in force.
 
 (L.N. 116 of 2012)
 
@@ -66,63 +68,65 @@ This sign indicates that a speed limit of 70 km per hour is imposed on the secti
 
 (L.N. 116 of 2012)
 
-FIGURE NO. 8 TUNNEL AREA
+Figure No. 8 Tunnel Area
 
-THIS SIGN INDICATES THE START OF THE TUNNEL AREA WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY THE TATE’S CAIRN TUNNEL ORDINANCE, THE TATE’S CAIRN TUNNEL REGULATIONS AND THE TATE’S CAIRN TUNNEL BY-LAWS APPLY.
-
-(L.N. 116 of 2012)
-
-FIGURE NO. 9 TUNNEL AREA END
-
-THIS SIGN INDICATES THE END OF THE TUNNEL AREA WHERE THE PROHIBITIONS AND RESTRICTIONS IMPOSED BY THE TATE’S CAIRN TUNNEL ORDINANCE, THE TATE’S CAIRN TUNNEL REGULATIONS AND THE TATE’S CAIRN TUNNEL BY-LAWS APPLY.
-
-FIGURE NO. 10 KEEP IN LANE
-
-THIS SIGN INDICATES THAT VEHICLES MUST KEEP IN THEIR LANES.
-
-FIGURE NO. 11 KEEP LEFT SIGN FOR TUNNEL
-
-THIS SIGN INDICATES THAT BUSES, MEDIUM AND HEAVY GOODS VEHICLES MUST KEEP TO THE NEARSIDE LANE.
-
-FIGURE NO. 12 ALL VEHICLES PROHIBITED BOTH DIRECTIONS
-
-THIS SIGN PROHIBITS ENTRY TO ALL VEHICLES IN BOTH DIRECTIONS. IT IS HOWEVER NOT USED BY ITSELF, ALWAYS BEING QUALIFIED BY SUPPLEMENTARY SIGNS IN FIGURE NOS. 13 OR 14.
-
-FIGURE NO. 13
-
-THIS PLATE WHEN USED WILL BE ATTACHED TO SIGNS TO INDICATE THE EXCEPTION OF FRANCHISED BUSES TO THE PARTICULAR RESTRICTION IN FIGURE NO. 12. THE WORDS ‘FRANCHISED BUSES’ MAY BE VARIED TO ACCORD WITH THE SPECIFIED TYPE OR CLASS OR DESCRIPTION OF VEHICLE EXCEPTED.
-
-FIGURE NO. 14
-
-THIS PLATE MAY BE USED WITH THE SIGN IN FIGURE NO. 12.
-
-FIGURE NO. 15 NO CHANGE TOLL SIGN
-
-WHEN THIS SIGN IS DISPLAYED OVER A TOLL BOOTH OR BOOTHS ADJACENT TO A LANE OR LANES AS INDICATED BY THE DOWNWARD POINTING ARROWS ON THE SIGN, IT INDICATES THAT THE TOLL BOOTH OR BOOTHS ARE FOR USE ONLY BY DRIVERS PAYING THE CORRECT TOLL AND REQUIRING NO CHANGE TO BE GIVEN, AND THAT THE USE OF THE TOLL BOOTH OR BOOTHS BY MOTOR CYCLES IS PROHIBITED. THE NUMBER OF ARROWS AND THE OVERALL DIMENSIONS OF THE SIGN MAY BE VARIED TO SUIT THE PARTICULAR CIRCUMSTANCES.
+This sign indicates the start of the tunnel area where the prohibitions and restrictions imposed by the Tate’s Cairn Tunnel ordinance, the Tate’s Cairn Tunnel regulations and the Tate’s Cairn Tunnel By-laws apply.
 
 (L.N. 116 of 2012)
 
-FIGURE NO. 16 EXACT PAYMENT SIGN
+Figure No. 9 Tunnel Area End
 
-WHEN THIS SIGN IS DISPLAYED AT A TOLL BOOTH IT INDICATES THAT THE TOLL BOOTH IS FOR USE ONLY BY DRIVERS PAYING THE CORRECT TOLL AND REQUIRING NO CHANGE TO BE GIVEN AND THAT THE USE OF THE TOLL BOOTH BY MOTOR CYCLES IS PROHIBITED.
+This sign indicates the end of the tunnel area where the prohibitions and restrictions imposed by the Tate’s Cairn Tunnel ordinance, the Tate’s Cairn Tunnel regulations and the Tate’s Cairn Tunnel By-laws apply.
 
-FIGURE NO. 17 STOP, PAY TOLL SIGN
+Figure No. 10 Keep in Lane
 
-THIS SIGN INDICATES THAT ALL DRIVERS MUST STOP AND PAY THE APPROPRIATE TOLL APPLICABLE TO THE VEHICLE.
+This sign indicates that vehicles must keep in their lanes.
 
-FIGURE NO. 18 DANGEROUS GOODS PROHIBITED
+Figure No. 11 Keep Left Sign for Tunnel
 
-THIS SIGN INDICATES THAT VEHICLES CARRYING DANGEROUS GOODS OF PARTICULAR CATEGORIES ARE PROHIBITED FROM PASSING BEYOND THE SIGN. IT MAY BE USED IN CONJUNCTION WITH THE SIGN IN FIGURE NO. 19.
+This sign indicates that buses, medium and heavy goods vehicles must keep to the nearside lane.
 
-FIGURE NO. 19
+Figure No. 12 All Vehicles Prohibited Both Directions
 
-THIS SIGN WHEN USED IN CONJUNCTION WITH THE SIGN IN FIGURE NO. 18 INDICATES THE CATEGORY OR CATEGORIES OF DANGEROUS GOODS REFERRED TO IN THAT FIGURE.
+This sign prohibits entry to all vehicles in both directions. It is however not used by itself, always being qualified by supplementary signs in Figure Nos . 13 or 14.
+
+Figure No. 13
+
+This plate when used will be attached to signs to indicate the exception of franchised buses to the particular restriction in Figure No. 12. The words ‘franchised buses’ may be varied to accord with the specified type or class or description of vehicle excepted.
+
+Figure No. 14
+
+This plate may be used with the sign in Figure No. 12.
+
+Figure No. 15 No Change Toll Sign
+
+When this sign is displayed over a toll booth or booths adjacent to a lane or lanes as indicated by the downward pointing arrows on the sign, it indicates that the toll booth or booths are for use only by drivers paying the correct toll and requiring no change to be given, and that the use of the toll booth or booths by motor cycles is prohibited.
+
+The number of arrows and the overall dimensions of the sign may be varied to suit the particular circumstances.
+
+(L.N. 116 of 2012)
+
+Figure No. 16 Exact Payment Sign
+
+When this sign is displayed at a toll booth it indicates that the toll booth is for use only by drivers paying the correct toll and requiring no change to be given and that the use of the toll booth by motor cycles is prohibited.
+
+Figure No. 17 Stop, Pay Toll Sign
+
+This sign indicates that all drivers must stop and pay the appropriate toll applicable to the vehicle.
+
+Figure No. 18 Dangerous Goods Prohibited
+
+This sign indicates that vehicles carrying dangerous goods of particular categories are prohibited from passing beyond the sign. It may be used in conjunction with the sign in Figure No. 19.
+
+Figure No. 19
+
+This sign when used in conjunction with the sign in Figure No. 18 indicates the category or categories of dangerous goods referred to in that figure.
 
 (80 of 1997 s. 102)
 
-FIGURE NO. 20 HEIGHT LIMIT
+Figure No. 20 Height Limit
 
-THIS SIGN PROHIBITS THE ENTRY OF VEHICLES THE HEIGHT OF WHICH (INCLUDING LOAD) EXCEEDS 4.6 METRES UNLESS IN POSSESSION OF A PERMIT ISSUED UNDER BY-LAW 18(1)(a).
+This sign prohibits the entry of vehicles the height of which (including load) exceeds 4.6 metres unless in possession of a permit issued under by-law 18(1)(a).
 
 *Figure No. 21 Lane
 
@@ -142,26 +146,28 @@ Figure No. 23 Autotoll Payment Signal
 
 This signal is placed in a vertical position at the side of a lane dedicated for use of an automatic toll collection facility. It may be used in conjunction with the signal in Figure No. 24.
 
-- The significance of the signal is as follows—
+The significance of the signal is as follows—
 
-- (i) The display of a red signal indicates that the appropriate toll payment has not been made and that the account balance with the company or its agent in respect of the electronic pass is nil.
+  - (i) The display of a red signal indicates that the appropriate toll payment has not been made and that the account balance with the Company or its agent in respect of the electronic pass is nil.
 
-- (ii) The display of a green signal indicates that the appropriate toll payment has been made.
+  - (ii) The display of a green signal indicates that the appropriate toll payment has been made.
 
-(L.N. 116 of 2012)
+(L.N. 116 of 2012;18 of 2014 s. 171
 
-Figure No. 24 Autotoll Account Balance Signal
+Figure No. 24
+
+Autotoll Account Balance Signal
 
 This signal is placed in a vertical position at the side of a lane dedicated for use of an automatic toll collection facility. It may be used in conjunction with the signal in Figure No. 23.
 
-- The significance of the signal is as follows—
+The significance of the signal is as follows—
 
-- (i) The display of the red dollar sign indicates that the account balance with the company or its agent in respect of the electronic pass is nil.
+  - (i) The display of the red dollar sign indicates that the account balance with the Company or its agent in respect of the electronic pass is nil.
 
-  - (ii) The display of the amber dollar sign indicates that the account balance with the company or its agent in respect of the electronic pass is less than the amount specified by the company or its agent.
+  - (ii) The display of the amber dollar sign indicates that the account balance with the Company or its agent in respect of the electronic pass is less than the amount specified by the Company or its agent.
 
-(L.N. 116 of 2012)
+(L.N. 116 of 2012; 18 of 2014 s. 171)
 
 Editorial Note:
 
-* For transitional provision relating to the amendments made by the Tate’s Cairn Tunnel (Amendment) Bylaw 2012 (L.N. 116 of 2012) , see section 14 of the Amendment Bylaw.
+* | For transitional provision relating to the amendments made by the Tate’s Cairn Tunnel (Amendment) Bylaw 2012 (L.N. 116 of 2012), see section 14 of the Amendment Bylaw.

@@ -12,7 +12,7 @@ Educational establishment | Responsible body
 
 2. | The Chinese University of Hong Kong established by The Chinese University of Hong Kong Ordinance (Cap. 1109) | The Council, the Senate, the Convocation, the Faculties, the School of Studies or the Board of Studies, within the meaning of section 2 of The Chinese University of Hong Kong Ordinance (Cap. 1109), according to which of them has the function concerned
 
-3. | The Hong Kong Polytechnic established by the Hong Kong Polytechnic Ordinance (Cap. 1075) | The Council of the Hong Kong Polytechnic established under section 5 of the Hong Kong Polytechnic Ordinance (Cap. 1075)
+3. | The Hong Kong Polytechnic University established by The Hong Kong Polytechnic University Ordinance (Cap. 1075) | The Council of The Hong Kong Polytechnic University established under section 5 of The Hong Kong Polytechnic University Ordinance (Cap. 1075) (Amended 18 of 2014 s. 21)
 
 4. | Any post secondary college registered under the Post Secondary Colleges Ordinance (Cap. 320) | The Board of Governors (or Board of Trustees where no Board of Governors exists) or the College Council, according to which of them has the function concerned
 
@@ -20,9 +20,9 @@ Educational establishment | Responsible body
 
 6. | Any industrial training centre or skills centre defined in section 2 of the Vocational Training Council Ordinance (Cap. 1130) | The Vocational Training Council established by section 4 of the Vocational Training Council Ordinance (Cap. 1130)
 
-7. | The Hong Kong Baptist College established by the Hong Kong Baptist College Ordinance (Cap. 1126) | The Board of Governors or the Council, within the meaning of section 2 of the Hong Kong Baptist College Ordinance (Cap. 1126), according to which of them has the function concerned
+7. | The Hong Kong Baptist University established by the Hong Kong Baptist University Ordinance (Cap. 1126) | The Board of Governors or the Council, within the meaning of section 2 of the Hong Kong Baptist University Ordinance (Cap. 1126), according to which of them has the function concerned (Amended 18 of 2014 s. 21)
 
-8. | The City Polytechnic of Hong Hong established by the City Polytechnic of Hong Kong Ordinance (Cap. 1132) | The Council or the Academic Board, within the meaning of section 2 of the City Polytechnic of Hong Kong Ordinance (Cap. 1132), according to which of them has the function concerned
+8. | The City University of Hong Kong established by the City University of Hong Kong Ordinance (Cap. 1132) | The Council or the Academic Board, within the meaning of section 2 of the City University of Hong Kong Ordinance (Cap. 1132), according to which of them has the function concerned (Amended 18 of 2014 s. 21)
 
 9. | The Hong Kong Academy for Performing Arts established by The Hong Kong Academy for Performing Arts Ordinance (Cap. 1135) | The Council or the Academic Board, within the meaning of section 2 of The Hong Kong Academy for Performing Arts Ordinance (Cap. 1135), according to which of them has the function concerned
 

@@ -12,7 +12,7 @@ section 24 criminal intimidation
 
 section 25 assaults with intent to cause certain acts to be done or omitted
 
-section 118F homosexual buggery committed otherwise than in private
+section 118F (Repealed 18 of 2014 s. 9)
 
 section 120 procurement by false pretences
 

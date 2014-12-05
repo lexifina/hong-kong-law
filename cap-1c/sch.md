@@ -1,483 +1,459 @@
-# SCHEDULE
+# Schedule Specification of Public Offices
 
-Public Office | Ordinance or section of Ordinance for which specified
+Column 1 | Column 2
 
-Chief Justice | Bankruptcy Ordinance (Chapter 6), section 99A(7)(c). (L.N. 270 of 1979)
+Public office | Ordinance or provision of Ordinance
 
-Chief Justice | Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32), section 222A(7)(c). (L.N. 270 of 1979; 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
+Chief Justice | Bankruptcy Ordinance (Cap. 6), paragraph (c) of the definition of Registrar in section 99A(7).
 
-Chief Justice | Evidence Ordinance (Chapter 8), sections 27(2) and 29A(2). (L.N. 229 of 1979)
+Chief Justice | Evidence Ordinance (Cap. 8), sections 27(2) and 29A(2).
 
-Chief Justice | Juvenile Offenders Ordinance (Chapter 226), section 3A(2). (L.N. 229 of 1979)
+Chief Justice | Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), paragraph (c) of the definition of Registrar in section 222A(7).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Abbot of the Order of Cistercians of the Strict Observance Incorporation Ordinance (Chapter 1107), section 6(2). (L.N. 368 of 1984; 1 of 2001 s. 8)
+Chief Justice | Juvenile Offenders Ordinance (Cap. 226), section 3A(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Air Passenger Departure Tax Ordinance (Chapter 140). (L.N. 318 of 1984)
+Chief Secretary for Administration | Rules of the High Court (Cap. 4 sub. leg. A), Order 69, rule 2, and Order 70, rule 3.
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Basel Evangelical Missionary Society Incorporation Ordinance (Chapter 1002), section 6(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Evidence Ordinance (Cap. 8), sections 19A(1) and 40(5).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Catholic Mission of Macao Incorporation Ordinance (Chapter 1006), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Immigration Ordinance (Cap. 115).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Chater (Cathedral and St. Andrew’s) Endowment Funds Incorporation Ordinance (Chapter 1050), section 4(3). (L.N. 368 of 1984)
+Chief Secretary for Administration | Air Passenger Departure Tax Ordinance (Cap. 140).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | China Peniel Missionary Society Incorporation Ordinance (Chapter 1011), Section 6(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Registration of Persons Ordinance (Cap. 177), section 11.
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Church of Christ in China, Wanchai Church, Incorporation Ordinance (Chapter 1063), section 6(3). (L.N. 368 of 1984)
+Chief Secretary for Administration | Criminal Procedure Ordinance (Cap. 221), section 85(1).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Colony Armorial Bearings (Protection) Ordinance (Chapter 315), section 3. (L.N. 103 of 1966)
+Chief Secretary for Administration | Prison Rules (Cap. 234 sub. leg. A), rule 222(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Congregation of Our Lady of Charity of the Good Shepherd of Angers at Hong Kong Incorporation Ordinance (Chapter 1084), section 6(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Probation of Offenders Rules (Cap. 298 sub. leg. A), rule 42.
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Criminal Procedure Ordinance (Chapter 221), section 85(1). (L.N. 3 of 1986)
+Chief Secretary for Administration | Basel Evangelical Missionary Society Incorporation Ordinance (Cap. 1002), section 6(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Daughters of Charity of the Canossian Institute Incorporation Ordinance (Chapter 1016), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Scout Association of Hong Kong Ordinance (Cap. 1005), section 9(3).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Daughters of Mary Help of Christians Incorporation Ordinance (Chapter 1070), section 6(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Catholic Mission of Macao Incorporation Ordinance (Cap. 1006), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Education Scholarships Fund Ordinance (Chapter 1085), section 6(2). (L.N. 7 of 1992)
+Chief Secretary for Administration | China Peniel Missionary Society Incorporation Ordinance (Cap. 1011), section 6(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Evidence Ordinance (Chapter 8), sections 19A(1) and 40(5). (L.N. 311 of 1984)
+Chief Secretary for Administration | Church of England Trust Ordinance (Cap. 1014), sections 3(2) and 4(1).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Heung Yee Kuk Ordinance (Chapter 1097). (L.N. 71 of 1974)
+Chief Secretary for Administration | Daughters of Charity of the Canossian Institute Incorporation Ordinance (Cap. 1016), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Immigration Ordinance (Chapter 115). (L.N. 198 of 1973)
+Chief Secretary for Administration | Maryknoll Sisters of St. Dominic Incorporation Ordinance (Cap. 1019), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Institute of the Soeurs des Missions Etrangères Incorporation Ordinance (Chapter 1088), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Hong Kong Chinese Christian Churches Union Incorporation Ordinance (Cap. 1025), section 3(1) and (2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Irish Province of the Order of Franciscans Minor Incorporation Ordinance (Chapter 1028), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Irish Province of the Order of Franciscans Minor Incorporation Ordinance (Cap. 1028), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Jesuit Order (English Assistancy) Incorporation Ordinance (Chapter 1029), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Jesuit Order (English Assistancy) Incorporation Ordinance (Cap. 1029), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Jesuit Order (Portuguese Province) Incorporation Ordinance (Chapter 1030), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Jesuit Order (Portuguese Province) Incorporation Ordinance (Cap. 1030), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Kowloon Union Church Incorporation Ordinance (Chapter 1032), section 6(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Kowloon Union Church Incorporation Ordinance (Cap. 1032), section 6(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Maryknoll Sisters of St. Dominic Incorporation Ordinance (Chapter 1019), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Petites Soeurs des Pauvres, St. Pern, Bretagne, Incorporation Ordinance (Cap. 1039), section 6(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Norwegian Seamen’s Mission Incorporation Ordinance (Chapter 1056), section 7(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Pontifical Foreign Missions Institute Incorporation Ordinance (Cap. 1041), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Petites Sœurs des Pauvres, St. Pern, Bretagne, Incorporation Ordinance (Chapter 1039), section 6(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Salesian Society Incorporation Ordinance (Cap. 1043), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Pontifical Foreign Missions Institute Incorporation Ordinance (Chapter 1041), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Sisters of the Precious Blood Order Incorporation Ordinance (Cap. 1045), section 4(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Prison Rules (Chapter 234 subsidiary legislation A), rule 222(2). (L.N. 48 of 1967)
+Chief Secretary for Administration | Soeurs de Saint Paul de Chartres Incorporation Ordinance (Cap. 1046), section 5(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Probation of Offenders Rules (Chapter 298 subsidiary legislation A), rule 42. (L.N. 48 of 1967)
+Chief Secretary for Administration | Chater (Cathedral and St. Andrew’s) Endowment Funds Incorporation Ordinance (Cap. 1050), section 4(3).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Registration of Persons Ordinance (Chapter 177), section 11. (L.N. 137 of 1970; 9 of 2003 s. 23)
+Chief Secretary for Administration | Union Church Incorporation Ordinance (Cap. 1052), section 14(5).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Salesian Society Incorporation Ordinance (Chapter 1043), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Chinese Rhenish Church, Hong Kong Synod, Incorporation Ordinance (Cap. 1060), section 3(1) and (2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Sisters of the Precious Blood Order Incorporation Ordinance (Chapter 1045), section 4(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Church of Christ in China, Wanchai Church, Incorporation Ordinance (Cap. 1063), section 6(3).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Sœurs de Saint Paul de Chartres Incorporation Ordinance (Chapter 1046), section 5(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Daughters of Mary Help of Christians Incorporation Ordinance (Cap. 1070), section 6(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | The Rules of the Supreme Court (Chapter 4 subsidiary legislation A), Order 69, rule 2, and Order 70, rule 3. (L.N. 153 of 1967)
+Chief Secretary for Administration | Hong Kong Baptist Church Incorporation Ordinance (Cap. 1078), section 10(1).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Tsung Tsin Mission of Hong Kong Incorporation Ordinance (Chapter 1090), section 6(2). (L.N. 368 of 1984)
+Chief Secretary for Administration | Congregation of Our Lady of Charity of the Good Shepherd of Angers at Hong Kong Incorporation Ordinance (Cap. 1084), section 6(2).
 
-Chief Secretary for Administration (L.N. 362 of 1997) | Union Church Incorporation Ordinance (Chapter 1052), section 14(5). (L.N. 368 of 1984)
+Chief Secretary for Administration | Education Scholarships Fund Ordinance (Cap. 1085), section 6(2).
 
-Commissioner for Labour | Employees’ Compensation Ordinance (Chapter 282). (L.N. 70 of 1970)
+Chief Secretary for Administration | Tsung Tsin Mission of Hong Kong Incorporation Ordinance (Cap. 1090), section 6(2).
 
-Commissioner for Labour | Factories and Industrial Undertakings Ordinance (Chapter 59), section 7(4). (L.N. 145 of 1970)
+Chief Secretary for Administration | Heung Yee Kuk Ordinance (Cap. 1097).
 
-Commissioner for Labour | Factories and Industrial Undertakings Ordinance (Chapter 59), section 9A. (L.N. 220 of 1985)
+Chief Secretary for Administration | Abbot of the Order of Cistercians of the Strict Observance Incorporation Ordinance (Cap. 1107), section 6(2).
 
-Commissioner for Labour | Pneumoconiosis and Mesothelioma (Compensation) Ordinance (Chapter 360). (L.N. 188 of 1981; 6 of 2008 s. 36)
+Collector of Stamp Revenue | Betting Duty Ordinance (Cap. 108), sections 6GH(3), 6GI(5), 6GJ(1), 6GK(1), (3)(b) and (4), 6GL(2), (3) and (5), 6GM(1), 6GN(4) and (8)(b), 6GO(4)(a), 6L(2), 6M(3), 6N(4), 6O(1), 6P, 6Q, 6R(1), 6S(4) and (7)(b), 6T(4)(a), 6V(2), (4) and (6)(b), 6ZL(1), 6ZM(1), 6ZO(2), (3), (4) and (6)(a) and 7(3).
 
-Commissioner for Transport | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 405 of 1990)
+Collector of Stamp Revenue | Betting Duty Regulations (Cap. 108 sub. leg. A), regulation 3(4).
 
-Commissioner for Transport | Eastern Harbour Crossing Road Tunnel Regulations (Chapter 215 subsidiary legislation D). (L.N. 405 of 1990)
+Commissioner for Labour | Factories and Industrial Undertakings Ordinance (Cap. 59), sections 7(4) and 9A.
 
-Commissioner for Transport | Eastern Harbour Crossing Road Tunnel By-laws (Chapter 215 subsidiary legislation E). (L.N. 405 of 1990)
+Commissioner for Labour | Employees’ Compensation Ordinance (Cap. 282).
 
-Commissioner for Transport | Ferry Services Ordinance (Chapter 104). (L.N. 315 of 1985)
+Commissioner for Labour | Pneumoconiosis and Mesothelioma (Compensation) Ordinance (Cap. 360).
 
-Commissioner for Transport | Ferry Services Regulations (Chapter 104 subsidiary legislation A). (L.N. 158 of 1992)
+Commissioner for Transport | Ferry Services Ordinance (Cap. 104).
 
-Commissioner for Transport | Fixed Penalty (Criminal Proceedings) Ordinance (Chapter 240). (L.N. 315 of 1985)
+Commissioner for Transport | Ferry Services Regulations (Cap. 104 sub. leg. A).
 
-Commissioner for Transport | Fixed Penalty (Traffic Contraventions) Ordinance (Chapter 237). (L.N. 315 of 1985)
+Commissioner for Transport | Eastern Harbour Crossing Ordinance (Cap. 215).
 
-Commissioner for Transport | Kowloon-Canton Railway Corporation Ordinance (Chapter 372). (L.N. 405 of 1990)
+Commissioner for Transport | Eastern Harbour Crossing Road Tunnel Regulations (Cap. 215 sub. leg. D).
 
-Commissioner for Transport | Kowloon-Canton Railway Corporation Regulations (Chapter 372 subsidiary legislation A). (L.N. 405 of 1990)
+Commissioner for Transport | Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E).
 
-Commissioner for Transport | Motor Vehicles (First Registration Tax) Ordinance (Chapter 330). (L.N. 90 of 1967)
+Commissioner for Transport | Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229).
 
-Commissioner for Transport | Motor Vehicles Insurance (Third Party Risks) Ordinance (Chapter 272). (L.N. 90 of 1967)
+Commissioner for Transport | Public Bus Services Ordinance (Cap. 230).
 
-Commissioner for Transport | Public Bus Services Regulations (Chapter 230 subsidiary legislation A). (L.N. 405 of 1990)
+Commissioner for Transport | Public Bus Services Regulations (Cap. 230 sub. leg. A).
 
-Commissioner for Transport | Public Omnibus Services Ordinance (Chapter 230). (L.N. 60 of 1978)
+Commissioner for Transport | Fixed Penalty (Traffic Contraventions) Ordinance (Cap. 237).
 
-Commissioner for Transport | Road Traffic Ordinance (Chapter 374). (L.N. 315 of 1985)
+Commissioner for Transport | Fixed Penalty (Criminal Proceedings) Ordinance (Cap. 240).
 
-Commissioner for Transport | Road Traffic (Construction and Maintenance of Vehicles) Regulations (Chapter 374 subsidiary legislation A). (L.N. 315 of 1985)
+Commissioner for Transport | Motor Vehicles Insurance (Third Party Risks) Ordinance (Cap. 272).
 
-Commissioner for Transport | Road Traffic (Driving Licences) Regulations (Chapter 374 subsidiary legislation B). (L.N. 315 of 1985)
+Commissioner for Transport | Motor Vehicles (First Registration Tax) Ordinance (Cap. 330).
 
-Commissioner for Transport | Road Traffic (Expressway) Regulations (Chapter 374 subsidiary legislation Q). (L.N. 158 of 1992)
+Commissioner for Transport | Road Tunnels (Government) Ordinance (Cap. 368).
 
-Commissioner for Transport | Road Traffic (Parking) Regulations (Chapter 374 subsidiary legislation C). (L.N. 315 of 1985)
+Commissioner for Transport | Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A).
 
-Commissioner for Transport | Road Traffic (Parking on Private Roads) Regulations (Chapter 374 subsidiary legislation O). (L.N. 158 of 1992)
+Commissioner for Transport | Kowloon-Canton Railway Corporation Ordinance (Cap. 372).
 
-Commissioner for Transport | Road Traffic (Public Service Vehicles) Regulations (Chapter 374 subsidiary legislation D). (L.N. 315 of 1985)
+Commissioner for Transport | Kowloon-Canton Railway Corporation Regulations (Cap. 372 sub. leg. A).
 
-Commissioner for Transport | Road Traffic (Registration and Licensing of Vehicles) Regulations (Chapter 374 subsidiary legislation E). (L.N. 315 of 1985)
+Commissioner for Transport | Road Traffic Ordinance (Cap. 374).
 
-Commissioner for Transport | Road Traffic (Safety Equipment) Regulations (Chapter 374 subsidiary legislation F). (L.N. 315 of 1985)
+Commissioner for Transport | Road Traffic (Construction and Maintenance of Vehicles) Regulations (Cap. 374 sub. leg. A).
 
-Commissioner for Transport | Road Traffic (Traffic Control) Regulations (Chapter 374 subsidiary legislation G). (L.N. 315 of 1985)
+Commissioner for Transport | Road Traffic (Driving Licences) Regulations (Cap. 374 sub. leg. B).
 
-Commissioner for Transport | Road Traffic (Village Vehicles) Regulations (Chapter 374 subsidiary legislation N). (L.N. 405 of 1990)
+Commissioner for Transport | Road Traffic (Parking) Regulations (Cap. 374 sub. leg. C).
 
-Commissioner for Transport | Road Traffic (Driving-offence Points) Ordinance (Chapter 375). (L.N. 315 of 1985)
+Commissioner for Transport | Road Traffic (Public Service Vehicles) Regulations (Cap. 374 sub. leg. D).
 
-Commissioner for Transport | Road Tunnels (Government) Ordinance (Chapter 368). (L.N. 405 of 1990)
+Commissioner for Transport | Road Traffic (Registration and Licensing of Vehicles) Regulations (Cap. 374 sub. leg. E).
 
-Commissioner for Transport | Road Tunnels (Government) Regulations (Chapter 368 subsidiary legislation A). (L.N. 405 of 1990)
+Commissioner for Transport | Road Traffic (Safety Equipment) Regulations (Cap. 374 sub. leg. F).
 
-Commissioner for Transport | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 405 of 1990)
+Commissioner for Transport | Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G).
 
-Commissioner for Transport | Tate’s Cairn Tunnel By-laws (Chapter 393 subsidiary legislation B). (L.N. 158 of 1992)
+Commissioner for Transport | Road Traffic (Village Vehicles) Regulations (Cap. 374 sub. leg. N).
 
-Commissioner for Transport | Tate’s Cairn Tunnel Regulations (Chapter 393 subsidiary legislation A). (L.N. 158 of 1992)
+Commissioner for Transport | Road Traffic (Parking on Private Roads) Regulations (Cap. 374 sub. leg. O).
 
-Commissioner for Transport | Traffic Accident Victims (Assistance Fund) Ordinance (Chapter 229). (L.N. 315 of 1985)
+Commissioner for Transport | Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q).
 
-Commissioner of Correctional Services | Training Centres Ordinance (Chapter 280). (L.N. 46 of 1981)
+Commissioner for Transport | Road Traffic (Driving-offence Points) Ordinance (Cap. 375).
 
-Commissioner of Customs and Excise | Control of Chemicals Ordinance (Chapter 145). (L.N. 51 of 1984; 64 of 1994 s. 18)
+Commissioner for Transport | Tate’s Cairn Tunnel Ordinance (Cap. 393).
 
-Commissioner of Customs and Excise | Copyright Ordinance (Chapter 528). (92 of 1997 s. 280)
+Commissioner for Transport | Tate’s Cairn Tunnel Regulations (Cap. 393 sub. leg. A).
 
-Commissioner of Customs and Excise | Dutiable Commodities Ordinance (Chapter 109), except section 7. (L.N. 51 of 1984; L.N. 338 of 1987)
+Commissioner for Transport | Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B).
 
-Commissioner of Customs and Excise | Dutiable Commodities Regulations (Chapter 109 subsidiary legislation A). (L.N. 51 of 1984)
+Commissioner for Transport | Tsing Sha Control Area Ordinance (Cap. 594).
 
-Commissioner of Customs and Excise | Dutiable Commodities (Marking and Colouring of Hydrocarbon Oil) Regulations (Chapter 109 subsidiary legislation C), regulations 9 and 11. (L.N. 51 of 1984; L.N. 338 of 1987)
+Commissioner for Transport | Tsing Sha Control Area (General) Regulation (Cap. 594 sub. leg. A).
 
-Commissioner of Customs and Excise | Import and Export Ordinance (Chapter 60), sections 7, 12 and 27(3). (L.N. 51 of 1984)
+Commissioner for Transport | Tsing Sha Control Area (Tolls, Fees and Charges) Regulation (Cap. 594 sub. leg. B).
 
-Commissioner of Customs and Excise | Import and Export Ordinance (Chapter 60), sections 27(3B), 28(2A) and (10) and 29A(1). (L.N. 320 of 1993)
+Commissioner of Correctional Services | Training Centres Ordinance (Cap. 280).
 
-Commissioner of Customs and Excise | Import and Export Ordinance (Chapter 60), section 33A(1)(b). (L.N. 175 of 1997)
+Commissioner of Customs and Excise | Import and Export Ordinance (Cap. 60), sections 7, 12, 27(3) and (3B), 28(2A) and (10), 29A(1) and 33A(1)(b).
 
-Commissioner of Customs and Excise | Import and Export (Carriage of Articles) Regulations (Chapter 60 subsidiary legislation I), regulation 4. (L.N. 176 of 1991)
+Commissioner of Customs and Excise | Import and Export (Registration) Regulations (Cap. 60 sub. leg. E).
 
-Commissioner of Customs and Excise | Import and Export (Registration) Regulations (Chapter 60 subsidiary legislation E). (L.N. 51 of 1984)
+Commissioner of Customs and Excise | Import and Export (Carriage of Articles) Regulations (Cap. 60 sub. leg. I), regulation 4.
 
-Commissioner of Customs and Excise | Industrial Training (Clothing Industry) Ordinance (Chapter 318). (L.N. 51 of 1984)
+Commissioner of Customs and Excise | Dutiable Commodities Ordinance (Cap. 109), except section 7.
 
-Commissioner of Customs and Excise Commissioner of Customs and Excise | Prevention of Copyright Piracy Ordinance (Chapter 544). (22 of 1998 s. 41) Reserved Commodities Ordinance (Chapter 296), section 10. (L.N. 51 of 1984)
+Commissioner of Customs and Excise | Dutiable Commodities Regulations (Cap. 109 sub. leg. A).
 
-Commissioner of Customs and Excise | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Chapter 296 subsidiary legislation A), regulations 7A and 9(2). (L.N. 51 of 1984)
+Commissioner of Customs and Excise | Dutiable Commodities (Marking and Colouring of Hydrocarbon Oil) Regulations (Cap. 109 sub. leg. C), regulations 9 and 11.
 
-Commissioner of Customs and Excise | Smoking (Public Health) Ordinance (Chapter 371), section 10A(4). (L.N. 225 of 1989)
+Commissioner of Customs and Excise | Control of Chemicals Ordinance (Cap. 145).
 
-Commissioner of Customs and Excise | Trade Descriptions Ordinance (Chapter 362), sections 16(3), 16C(1), (2) and (3) and 30(2), (3) and (5). (L.N. 338 of 1987)
+Commissioner of Customs and Excise | Reserved Commodities Ordinance (Cap. 296), section 10.
 
-Commissioner of Mines | Mining Ordinance (Chapter 285), sections 13, 18, 20, 21, 31 and 37. (L.N. 6 of 1967)
+Commissioner of Customs and Excise | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Cap. 296 sub. leg. A), regulations 7A and 9(2).
 
-Director of Accounting Services | Waterworks Regulations (Chapter 102 subsidiary legislation A), regulation 50(2) and (3). (L.N. 221 of 1977)
+Commissioner of Customs and Excise | Industrial Training (Clothing Industry) Ordinance (Cap. 318).
 
-Diector of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Country Parks and Special Areas Regulations (Chapter 208 subsidiary legislation A), regulations 4(1) and (2)(a), 5(1) and (2)(b), 8(1), 9(1), 10(1)(a) and (b) and (2), 11(1), (2) and (3)(a), 13(2), 14, 15(4) and 18(5). (L.N. 381 of 1989)
+Commissioner of Customs and Excise | Trade Descriptions Ordinance (Cap. 362), sections 16(3), 16C(1), (2) and (3) and 30(2), (3) and (5).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Country Parks and Special Areas Regulations (Chapter 208 subsidiary legislation A), regulation 10(1)(c) and (d). (L.N. 391 of 1982)
+Commissioner of Customs and Excise | Smoking (Public Health) Ordinance (Cap. 371), section 10A(4).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Dairies Regulations (Chapter 139 subsidiary legislation D), regulations 3, 8, 9, 11, 15, 16(2), 18, 19(2)(f), 21(3), 26(1) and 29(2). (L.N. 153 of 1967)
+Commissioner of Customs and Excise | Copyright Ordinance (Cap. 528).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Forests and Countryside Ordinance (Chapter 96), sections 22(5) and 23. (L.N. 220 of 1993)
+Commissioner of Customs and Excise | Prevention of Copyright Piracy Ordinance (Cap. 544).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Kadoorie Agricultural Aid Loan Fund Ordinance (Chapter 1080), section 7. (L.N. 397 of 1996)
+Commissioner of Inland Revenue | Inland Revenue Ordinance (Cap. 112), sections 16B and 16C.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Marine Parks Ordinance (Chapter 476), section 22(1). (L.N. 67 of 1997)
+Commissioner of Mines | Mining Ordinance (Cap. 285), sections 13, 18, 20, 21, 31 and 37.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Marine Parks and Marine Reserves Regulation (Chapter 476 subsidiary legislation A), section 17. (L.N. 67 of 1997)
+Commissioner of Mines | Dangerous Goods (Government Explosives Depots) Regulations (Cap. 295 sub. leg. D), regulations 3(2) and 7.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Pearl Culture (Control) Ordinance (Chapter 307), section 3. (L.N. 48 of 1967)
+Director of Accounting Services | Waterworks Regulations (Cap. 102 sub. leg. A), regulation 50(2) and (3).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Pesticides Ordinance (Chapter 133), the whole Ordinance except sections 5(4), 6(c), 10, 11 and 14. (L.N. 304 of 1977; 79 of 1990 s. 21)
+Director of Agriculture, Fisheries and Conservation | Forests and Countryside Ordinance (Cap. 96), sections 22(5) and 23.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Pesticides Regulations (Chapter 133 subsidiary legislation A). (L.N. 411 of 1992)
+Director of Agriculture, Fisheries and Conservation | Pesticides Ordinance (Cap. 133), except sections 5(4), 6(c), 10, 11 and 14.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Plant (Importation and Pest Control) Ordinance (Chapter 207). (L.N. 360 of 1993)
+Director of Agriculture, Fisheries and Conservation | Pesticides Regulations (Cap. 133 sub. leg. A).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) Ordinance (Chapter 139), sections 6, 7 and 10(2). (L.N. 48 of 1967)
+Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) Ordinance (Cap. 139), sections 6, 7 and 10(2).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) (Animal Traders) Regulations (Chapter 139 subsidiary legislation B), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
+Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) Regulations (Cap. 139 sub. leg. A), regulations 30, 34, 35, 37, 44 and 51.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) (Exhibitions) Regulations (Chapter 139 subsidiary legislation F), regulations 4(1), 4(3), 6(a), 6(b), 8(1) and 8(3). (L.N. 94 of 1978)
+Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) (Animal Traders) Regulations (Cap. 139 sub. leg. B), regulations 5(1) and (3) and 7.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) (Keeping of Cattle, Sheep and Goats) Regulations (Chapter 139 subsidiary legislation C), regulations 4, 11(1) and 13. (L.N. 153 of 1967)
+Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) (Keeping of Cattle, Sheep and Goats) Regulations (Cap. 139 sub. leg. C), regulations 4, 11(1) and 13.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals and Birds) Regulations (Chapter 139 subsidiary legislation A), regulations 30, 34, 35, 37, 44 and 51. (L.N. 153 of 1967)
+Director of Agriculture, Fisheries and Conservation | Dairies Regulations (Cap. 139 sub. leg. D), regulations 3, 8, 9, 11, 15, 16(2), 18, 19(2)(f), 21(3), 26(1) and 29(2).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals) (Boarding Establishments) Regulations (Chapter 139 subsidiary legislation I), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
+Director of Agriculture, Fisheries and Conservation | Public Health (Animals and Birds) (Exhibitions) Regulations (Cap. 139 sub. leg. F), regulations 4(1) and (3), 6(a) and (b) and 8(1) and (3).
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Public Health (Animals) (Riding Establishments) Regulations (Chapter 139 subsidiary legislation J), regulations 5(1), 5(3) and 7. (L.N. 94 of 1978)
+Director of Agriculture, Fisheries and Conservation | Public Health (Animals) (Boarding Establishment) Regulations (Cap. 139 sub. leg. I), regulations 5(1) and (3) and 7.
 
-Director of Agriculture, Fisheries and Conservation (L.N. 331 of 1999) | Wild Animals Protection Ordinance (Chapter 170), section 13. (L.N. 197 of 1979)
+Director of Agriculture, Fisheries and Conservation | Public Health (Animals) (Riding Establishment) Regulations (Cap. 139 sub. leg. J), regulations 5(1) and (3) and 7.
 
-Director of Buildings | Hong Kong Airport (Control of Obstructions) Ordinance (Chapter 301), sections 5, 7(1), 13, 14(1), 15(1), (2)(c)(ii) and (8), 16(1), (3), (6), (8) and (9), 17, 18(2) and 20(g). (L.N. 303 of 1993)
+Director of Agriculture, Fisheries and Conservation | Wild Animals Protection Ordinance (Cap. 170), section 13.
 
-Director of Buildings as Building Authority | Buildings Ordinance (Chapter 123). (L.N. 303 of 1993)
+Director of Agriculture, Fisheries and Conservation | Plant (Importation and Pest Control) Ordinance (Cap. 207).
 
-Director of Buildings as Building Authority | Child Care Services Ordinance (Chapter 243), section 7(1)(b)(ii). (L.N. 303 of 1993; 32 of 2000 s. 26)
+Director of Agriculture, Fisheries and Conservation | Country Parks and Special Areas Regulations (Cap. 208 sub. leg. A), regulations 4(1) and (2)(a), 5(1) and (2)(b), 8(1), 9(1), 10(1)(a), (b), (c) and (d) and (2), 11(1), (2) and (3)(a), 13(2), 14, 15(4) and 18(5).
 
-Director of Buildings as Building Authority | Education Ordinance (Chapter 279), section 12(1)(d). (L.N. 303 of 1993)
+Director of Agriculture, Fisheries and Conservation | Marine Parks Ordinance (Cap. 476), section 22(1).
 
-Director of Buildings as Building Authority | Kowloon-Canton Railway Corporation Ordinance (Chapter 372), section 35(1). (L.N. 303 of 1993)
+Director of Agriculture, Fisheries and Conservation | Marine Parks and Marine Reserves Regulation (Cap. 476 sub. leg. A), section 17.
 
-Director of Buildings as Building Authority | Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (Chapter 276), section 15(1). (L.N. 303 of 1993)
+Director of Agriculture, Fisheries and Conservation | Kadoorie Agricultural Aid Loan Fund Ordinance (Cap. 1080), section 7.
 
-Director of Buildings as Building Authority | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 303 of 1993)
+Director of Buildings | Hong Kong Airport (Control of Obstructions) Ordinance (Cap. 301), sections 5, 7(1), 13, 14(1), 15(1), (2)(c)(ii) and (8), 16(1), (3), (6), (8) and (9), 17, 18(2) and 20(g).
 
-Director of Civil Engineering and Development (L.N. 6 of 2005) | Ferry Services Ordinance (Chapter 104), sections 16(1)(a), 20(1) and 28(4). (L.N. 133 of 1986)
+Director of Buildings as Building Authority | Buildings Ordinance (Cap. 123).
 
-Director of Civil Engineering and Development (L.N. 6 of 2005) | Sand Ordinance (Chapter 147), sections 2 and 3. (L.N. 133 of 1986)
+Director of Buildings as Building Authority | Mass Transit Railway (Land Resumption and Related Provisions) Ordinance (Cap. 276), section 15(1).
 
-Director of Electrical and Mechanical Services | Aerial Ropeways (Safety) Ordinance (Chapter 211). (L.N. 133 of 1986)
+Director of Buildings as Building Authority | Education Ordinance (Cap. 279), section 12(1)(d).
 
-Director of Electrical and Mechanical Services | Electricity Ordinance (Chapter 406). (L.N. 133 of 1986; 16 of 1990 s. 61)
+Director of Buildings as Building Authority | Roads (Works, Use and Compensation) Ordinance (Cap. 370).
 
-Director of Electrical and Mechanical Services | Evidence Ordinance (Chapter 8), section 28(1)(b)(i). (L.N. 133 of 1986)
+Director of Buildings as Building Authority | Kowloon-Canton Railway Corporation Ordinance (Cap. 372), section 35(1).
 
-Director of Electrical and Mechanical Services | Peak Tramway Ordinance (Chapter 265), section 14. (L.N. 133 of 1986)
+Director of Civil Engineering and Development | Ferry Services Ordinance (Cap. 104), sections 16(1)(a), 20(1) and 28(4).
 
-Director of Electrical and Mechanical Services | Peak Tramway Rules (Chapter 265 subsidiary legislation), rule 22. (L.N. 133 of 1986)
+Director of Civil Engineering and Development | Sand Ordinance (Cap. 147), sections 2 and 3.
 
-Director of Electrical and Mechanical Services | Tramway Ordinance (Chapter 107), sections 25 and 33. (L.N. 133 of 1986)
+Director of Electrical and Mechanical Services | Evidence Ordinance (Cap. 8), section 28(1)(b)(i).
 
-Director of Environmental Protection | Ozone Layer Protection Ordinance (Chapter 403). (L.N. 202 of 1989)
+Director of Electrical and Mechanical Services | Tramway Ordinance (Cap. 107), sections 25 and 33.
 
-Director of Environmental Protection | Waste Disposal Ordinance (Chapter 354), sections 16(1), 17, 19(1), 20 and 36(3). (L.N. 84 of 1986)
+Director of Electrical and Mechanical Services | Aerial Ropeways (Safety) Ordinance (Cap. 211).
 
-Director of Health | Animal (Control of Experiments) Ordinance (Chapter 340). (L.N. 92 of 1989)
+Director of Electrical and Mechanical Services | Peak Tramway Ordinance (Cap. 265), section 14A.
 
-Director of Health | Undesirable Medical Advertisements Ordinance (Chapter 231). (L.N. 92 of 1989)
+Director of Electrical and Mechanical Services | Electricity Ordinance (Cap. 406).
 
-Director of Highways | Peak Tramway Ordinance (Chapter 265). (L.N. 133 of 1986)
+Director of Environmental Protection | Waste Disposal Ordinance (Cap. 354), sections 16(1), 17, 19(1) and 36(3).
 
-Director of Highways | Peak Tramway Rules (Chapter 265 subsidiary legislation). (L.N. 133 of 1986)
+Director of Environmental Protection | Ozone Layer Protection Ordinance (Cap. 403).
 
-Director of Highways | Public Lighting Ordinance (Chapter 105). (L.N. 133 of 1986)
+Director of Environmental Protection | Environmental Impact Assessment Ordinance (Cap. 499).
 
-Director of Highways | Road Traffic Ordinance (Chapter 374). (L.N. 133 of 1986)
+Director of Environmental Protection | Environmental Impact Assessment (Appeal Board) Regulation (Cap. 499 sub. leg. A).
 
-Director of Highways | Road Traffic (Expressway) Regulations (Chapter 374 subsidiary legislation Q). (L.N. 158 of 1992)
+Director of Health | Undesirable Medical Advertisements Ordinance (Cap. 231).
 
-Director of Highways | Road Traffic (Traffic Control) Regulations (Chapter 374 subsidiary legislation G). (L.N. 133 of 1986)
+Director of Health | Animals (Control of Experiments) Ordinance (Cap. 340).
 
-Director of Highways | Tramway Ordinance (Chapter 107). (L.N. 133 of 1986)
+Director of Highways | Public Lighting Ordinance (Cap. 105).
 
-Director of Immigration | Immigration Ordinance (Chapter 115). (L.N. 67 of 1972)
+Director of Highways | Tramway Ordinance (Cap. 107).
 
-Director of Lands | Land (Miscellaneous Provisions) Ordinance (Chapter 28). (L.N. 303 of 1993; 29 of 1998 s. 2)
+Director of Highways | Road Traffic Ordinance (Cap. 374).
 
-Director of Lands | Lands Resumption Ordinance (Chapter 124). (L.N. 303 of 1993; 29 of 1998 s. 2)
+Director of Highways | Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G).
 
-Director of Lands | Government Leases Ordinance (Chapter 40). (L.N. 303 of 1993; 29 of 1998 s. 2)
+Director of Highways | Road Traffic (Expressway) Regulations (Cap. 374 sub. leg. Q).
 
-Director of Lands | Government Rights (Re-entry and Vesting Remedies) Ordinance (Chapter 126), section 7(3). (L.N. 423 of 1993; 29 of 1998 s. 2)
+Director of Highways | Tsing Sha Control Area Ordinance (Cap. 594).
 
-Director of Lands | Foreshore and Sea-bed (Reclamations) Ordinance (Chapter 127). (L.N. 303 of 1993)
+Director of Highways | Tsing Sha Control Area (General) Regulation (Cap. 594 sub. leg. A).
 
-Director of Lands | Hong Kong Airport (Control of Obstructions) Ordinance (Chapter 301), sections 18(2), 20(g), 23(1) and (2), 24 and 25(2). (L.N. 303 of 1993)
+Director of Immigration | Immigration Ordinance (Cap. 115).
 
-Director of Lands | Mining Ordinance (Chapter 285). (L.N. 303 of 1993)
+Director of Intellectual Property | Director of Intellectual Property (Establishment) Ordinance (Cap. 412).
 
-Director of Lands | Road Traffic Ordinance (Chapter 374), sections 123(3) and (4) and 124(1) and (2). (L.N. 303 of 1993)
+Director of Intellectual Property as Registrar of Designs | Registered Designs Ordinance (Cap. 522).
 
-Director of Marine | Dangerous Goods (Shipping) Regulations (Chapter 295 subsidiary legislation C), regulations 3, 5(1), 6, 9, 12, 13, 14, 16, 17, 19 and 21. (L.N. 6 of 1967)
+Director of Intellectual Property as Registrar of Designs | Registered Designs Rules (Cap. 522 sub. leg. A).
 
-Director of Marine | Merchant Shipping (Safety) Ordinance (Chapter 369), sections 31, 38(4), 51(2) and (3), 57(2) and 63. (L.N. 365 of 1981)
+Director of Intellectual Property as Registrar of Patents | Patents Ordinance (Cap. 514).
 
-Director of Marketing | Agricultural Products (Marketing) Ordinance (Chapter 277). (L.N. 239 of 1988)
+Director of Intellectual Property as Registrar of Patents | Patents (Transitional Arrangements) Rules (Cap. 514 sub. leg. B).
 
-Director of Marketing | Marine Fish (Marketing) Ordinance (Chapter 291). (L.N. 239 of 1988)
+Director of Intellectual Property as Registrar of Patents | Patents (General) Rules (Cap. 514 sub. leg. C).
 
-Director of Social Welfare | Juvenile Offenders Ordinance (Chapter 226). (L.N. 79 of 1973)
+Director of Intellectual Property as Registrar of Trade Marks | Trade Marks Ordinance (Cap. 559).
 
-Director of Social Welfare | Offences against the Person Ordinance (Chapter 212), section 44(4). (L.N. 6 of 1967)
+Director of Intellectual Property as Registrar of Trade Marks | Trade Marks Rules (Cap. 559 sub. leg. A).
 
-Director of Social Welfare | Probation of Offenders Ordinance (Chapter 298). (L.N. 79 of 1973)
+Director of Lands | Land (Miscellaneous Provisions) Ordinance (Cap. 28).
 
-Director of Social Welfare | Reformatory Schools Ordinance (Chapter 225). (L.N. 79 of 1973)
+Director of Lands | Government Leases Ordinance (Cap. 40).
 
-Director-General of Civil Aviation (L.N. 326 of 2000) | Air Passenger Departure Tax Ordinance (Chapter 140). (L.N. 191 of 1983)
+Director of Lands | Lands Resumption Ordinance (Cap. 124).
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Export (Certificates of Origin and Commonwealth Preference Certificates) Regulations (Chapter 60 subsidiary legislation), regulations 6(2) and 8(1). (L.N. 132 of 1986)
+Director of Lands | Government Rights (Re-entry and Vesting Remedies) Ordinance (Cap. 126), section 7(3).
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Export (Certificates of Origin and Commonwealth Preference Certificates) Regulations (Chapter 60 subsidiary legislation), regulations 7(1)-(4), 8(3), 9(2) and 11(1)(c). (L.N. 51 of 1984)
+Director of Lands | Foreshore and Sea-bed (Reclamations) Ordinance (Cap. 127).
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import and Export Ordinance (Chapter 60), sections 9(3) and 36(2). (L.N. 51 of 1984)
+Director of Lands | Mining Ordinance (Cap. 285).
 
-Director-General of Trade and Industry (L.N. 173 of 2000) | Import and Export Ordinance (Chapter 60), section 33A(1)(b). (L.N. 396 of 1996)
+Director of Lands | Hong Kong Airport (Control of Obstructions) Ordinance (Cap. 301), sections 18(2), 20(g), 23(1) and (2), 24 and 25(2).
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import and Export (Fees) Regulations (Chapter 60 subsidiary legislation B). (L.N. 51 of 1984)
+Director of Lands | Road Traffic Ordinance (Cap. 374), sections 123(3) and (4) and 124(1) and (2).
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import and Export (General) Regulations (Chapter 60 subsidiary legislation A), regulation 6(3) and (4). (L.N. 132 of 1986)
+Director of Marine | Dangerous Goods (Shipping) Regulations (Cap. 295 sub. leg. C), regulations 3, 5(1), 6, 9, 12, 13, 14, 16, 17, 19 and 21.
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import and Export (Strategic Commodities) Regulations (Chapter 60 subsidiary legislation G), regulation 2. (L.N. 51 of 1984)
+Director of Marine | Merchant Shipping (Safety) Ordinance (Cap. 369), sections 31, 38(4), 51(2) and (3), 57(2) and 63.
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Import (Radiation) (Prohibition) Regulations (Chapter 60 subsidiary legislation K). (L.N. 51 of 1984)
+Director of Marketing | Agricultural Products (Marketing) Ordinance (Cap. 277).
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Reserved Commodities Ordinance (Chapter 296), section 6. (L.N. 51 of 1984)
+Director of Marketing | Marine Fish (Marketing) Ordinance (Cap. 291).
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Chapter 296 subsidiary legislation A). (L.N. 51 of 1984)
+Director of Social Welfare | Offences against the Person Ordinance (Cap. 212), section 44(4).
 
-Director-General of Trade and Industry (L.N. 292 of 1989; L.N. 173 of 2000) | Reserved Commodities (Control of Sales by Wholesale) Regulations (Chapter 296 subsidiary legislation B). (L.N. 51 of 1984)
+Director of Social Welfare | Reformatory Schools Ordinance (Cap. 225).
 
-Financial Secretary | Customs and Excise Service (Welfare Fund) Regulation (Chapter 342 subsidiary legislation C), section 8. (L.N. 389 of 1990; 10 of 2005 s. 220)
+Director of Social Welfare | Juvenile Offenders Ordinance (Cap. 226).
 
-Financial Secretary | Fire Services Department (Welfare Fund) Regulations (Chapter 95 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
+Director of Social Welfare | Probation of Offenders Ordinance (Cap. 298).
 
-Financial Secretary | Government Lotteries Ordinance (Chapter 334). (L.N. 254 of 1973)
+Director-General of Civil Aviation | Air Passenger Departure Tax Ordinance (Cap. 140).
 
-Financial Secretary | The Hong Kong Association of Banks Ordinance (Chapter 364), section 12(1). (L.N. 499 of 1993)
+Director-General of Trade and Industry | Import and Export Ordinance (Cap. 60), sections 9(3), 33A(1)(b) and 36(2).
 
-Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (Chapter 1115), section 12. (L.N. 92 of 1979)
+Director-General of Trade and Industry | Import and Export (General) Regulations (Cap. 60 sub. leg. A), regulations 5AB(1), (2), (3), (4) and (5), 5AC(1) and (3), 5AD(1) and (2), 5AE(1)(c) and 6(3) and (4) and item 1 of Part 1 and item 13 of Part 4 of Schedule 5.
 
-Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (Chapter 1115), section 17(1). (L.N. 234 of 1980)
+Director-General of Trade and Industry | Import and Export (Fees) Regulations (Cap. 60 sub. leg. B).
 
-Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (Chapter 1115), section 24(2). (L.N. 512 of 1996)
+Director-General of Trade and Industry | Import and Export (Strategic Commodities) Regulations (Cap. 60 sub. leg. G), regulation 2.
 
-Financial Secretary | Hong Kong Tourism Board Ordinance (Chapter 302), section 7(d). (3 of 2001 s. 43)
+Director-General of Trade and Industry | Export (Certificates of Origin) Regulations (Cap. 60 sub. leg. H), regulations 6(2), 7(1) to (4), 8(1) and (3), 9(2) and 11(1)(c).
 
-Financial Secretary | Immigration Service (Welfare Fund) Regulations (Chapter 331 subsidiary legislation), regulation 8. (L.N. 389 of 1990)
+Director-General of Trade and Industry | Import (Radiation) (Prohibition) Regulations (Cap. 60 sub. leg. K).
 
-Financial Secretary | Legal Tender Notes Issue Ordinance (Chapter 65), section 3(2), (3) and (5). (L.N. 258 of 1996)
+Director-General of Trade and Industry | Reserved Commodities Ordinance (Cap. 296), section 6.
 
-Financial Secretary | Money Lenders Ordinance (Chapter 163), sections 33A and 33B. (L.N. 160 of 1989)
+Director-General of Trade and Industry | Reserved Commodities (Control of Imports, Exports and Reserve Stocks) Regulations (Cap. 296 sub. leg. A).
 
-Financial Secretary | Police (Welfare Fund) Regulations (Chapter 232 subsidiary legislation), regulation 9. (L.N. 389 of 1990)
+Director-General of Trade and Industry | Reserved Commodities (Control of Sales by Wholesale) Regulations (Cap. 296 sub. leg. B).
 
-Financial Secretary | Prison Rules (Chapter 234 subsidiary legislation A), rules 263 and 265. (L.N. 389 of 1990)
+Financial Secretary | Legal Tender Notes Issue Ordinance (Cap. 65), section 3(2), (3) and (5).
 
-Financial Secretary | Trading Funds Ordinance (Chapter 430), section 3(1). (L.N. 36 of 1995)
+Financial Secretary | Money Lenders Ordinance (Cap. 163), sections 33A and 33B.
 
-Financial Secretary | Trading Funds Ordinance (Chapter 430), section 8(2). (L.N. 529 of 1994)
+Financial Secretary | Prison Rules (Cap. 234 sub. leg. A), rule 263.
 
-Gas Authority | Gas Safety Ordinance (Chapter 51). (49 of 1990 s. 38)
+Financial Secretary | Hong Kong Tourism Board Ordinance (Cap. 302), section 7(d).
 
-Insurance Authority | Insurance Companies Ordinance (Chapter 41). (L.N. 182 of 1990)
+Financial Secretary | Government Lotteries Ordinance (Cap. 334).
 
-Land Registrar | Government Rights (Re-entry and Vesting Remedies) Ordinance (Chapter 126), sections 11(1) and (3) and 12(1) and (3). (L.N. 140 of 1993; 29 of 1998 s. 2)
+Financial Secretary | Customs and Excise Service (Welfare Fund) Regulation (Cap. 342 sub. leg. C), section 8.
 
-Land Registrar | Land Registration Ordinance (Chapter 128). (L.N. 140 of 1993)
+Financial Secretary | The Hong Kong Association of Banks Ordinance (Cap. 364), section 12(1).
 
-Land Registrar | Building Management Ordinance (Chapter 344). (27 of 1993 s. 56)
+Financial Secretary | Trading Funds Ordinance (Cap. 430), sections 3(1) and 8(2).
 
-Monetary Authority | Crimes Ordinance (Chapter 200), sections 103(1) and 104(1). (L.N. 102 of 1995)
+Financial Secretary | Hong Kong Science and Technology Parks Corporation Ordinance (Cap. 565), sections 23(6) and 24.
 
-Permanent Secretary for Education (L.N. 130 of 2007) | Inland Revenue Ordinance (Chapter 112), sections 16B and 16C. (L.N. 6 of 1967; 3 of 2003 s. 41)
+Financial Secretary | Hong Kong Export Credit Insurance Corporation Ordinance (Cap. 1115), sections 12, 17(1) and 24(2).
 
-Permanent Secretary for Education (L.N. 130 of 2007) | Post Secondary Colleges Ordinance (Chapter 320), sections 3, 8, 9 and 10. (L.N. 6 of 1967; 3 of 2003 s. 41)
+Gas Authority | Gas Safety Ordinance (Cap. 51).
 
-Permanent Secretary for Education (L.N. 130 of 2007) | Post Secondary Colleges Ordinance (Chapter 320), sections 11 and 12(2). (L.N. 48 of 1967; 3 of 2003 s. 41)
+Insurance Authority | Insurance Companies Ordinance (Cap. 41).
 
-Principal Probation Officer | Probation of Offenders Rules (Chapter 298 subsidiary legislation A), rules 15, 20(2) and 21 only. (L.N. 213 of 1979)
+Land Registrar | Government Rights (Re-entry and Vesting Remedies) Ordinance (Cap. 126), sections 11(1) and (3) and 12(1) and (3).
 
-Registrar of Companies | Companies Ordinance (Cap. 622) (28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
+Land Registrar | Land Registration Ordinance (Cap. 128).
 
-Registrar of Companies | Companies (Winding Up and Miscellaneous Provisions) Ordinance (Chapter 32). (L.N. 141 of 1993; 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
+Land Registrar | Building Management Ordinance (Cap. 344).
 
-Registrar of Companies | Limited Partnerships Ordinance (Chapter 37). (L.N. 141 of 1993)
+Monetary Authority | Crimes Ordinance (Cap. 200), sections 103(1) and 104(1).
 
-Registrar of Companies | Registered Trustees Incorporation Ordinance (Chapter 306). (L.N. 141 of 1993)
+Permanent Secretary for Education | Post Secondary Colleges Ordinance (Cap. 320), sections 3, 8, 9, 11 and 12(2).
 
-Registrar of Companies | Trustee Ordinance (Chapter 29). (L.N. 141 of 1993)
+Principal Probation Officer | Probation of Offenders Rules (Cap. 298 sub. leg. A), rules 15, 20(2) and 21.
 
-Registrar of Co-operative Societies | Co-operative Societies Ordinance (Chapter 33). (L.N. 8 of 1973)
+Registrar of Companies | Trustee Ordinance (Cap. 29).
 
-Registrar of Co-operative Societies | J. E. Joseph Trust Fund Ordinance (Chapter 1067), sections 3, 4, 5, 6 and 7. (L.N. 398 of 1996)
+Registrar of Companies | Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32).
 
-Registrar of Credit Unions | Credit Unions Ordinance (Chapter 119). (L.N. 239 of 1988)
+Registrar of Companies | Limited Partnerships Ordinance (Cap. 37).
 
-Registrar of Money Lenders | Money Lenders Ordinance (Chapter 163). (L.N. 357 of 1980)
+Registrar of Companies | Registered Trustees Incorporation Ordinance (Cap. 306).
 
-Registrar of Occupational Retirement Schemes | Occupational Retirement Schemes Ordinance (Chapter 426). (L.N. 454 of 1993)
+Registrar of Companies | Companies Ordinance (Cap. 622).
 
-Secretary for Broadcasting, Culture and Sport (L.N. 372 of 1996) Secretary for Development | Books Registration Ordinance (Chapter 142). (L.N. 403 of 1995) Buildings Ordinance (Cap. 123). (16 of 2011 s. 44)
+Registrar of Co-operative Societies | Co-operative Societies Ordinance (Cap. 33).
 
-*Secretary for Home Affairs | Books Registration Ordinance (Chapter 142). (18 of 2014 s. 66)
+Registrar of Co-operative Societies | J. E. Joseph Trust Fund Ordinance (Cap. 1067), sections 3, 4, 5, 6 and 7.
 
-Secretary for Home Affairs | Clubs (Safety of Premises) Ordinance (Chapter 376). (L.N. 91 of 1992)
+Registrar of Credit Unions | Credit Unions Ordinance (Cap. 119).
 
-Secretary for Home Affairs | Heung Yee Kuk Ordinance (Chapter 1097), section 3(3). (L.N. 235 of 1995)
+Registrar of Money Lenders | Money Lenders Ordinance (Cap. 163).
 
-Secretary for Home Affairs (L.N. 262 of 1989) | New Territories Ordinance (Chapter 97), section 9(2), for the purposes of section 19. (L.N. 188 of 1973)
+Secretary for Constitutional and Mainland Affairs | Sex Discrimination Ordinance (Cap. 480), section 65(3) and sections 16(2) and (3) and 17(2) of Schedule 6.
 
-Secretary for Security | Auxiliary Medical Service Ordinance (Chapter 517). (57 of 1997 s. 34)
+Secretary for Constitutional and Mainland Affairs | Personal Data (Privacy) Ordinance (Cap. 486), section 14(6) and sections 2(2) and (3) and 3(2) of Schedule 2.
 
-Secretary for Security | Civil Aid Service Ordinance (Chapter 518). (58 of 1997 s. 34)
+Secretary for Development | Buildings Ordinance (Cap. 123).
 
-Secretary for Security | Essential Services Corps Ordinance (Chapter 197), the whole Ordinance. (L.N. 158 of 1977)
+Secretary for Education | Non-local Higher and Professional Education (Regulation) Ordinance (Cap. 493), section 8(1)(a)(ii)(B).
 
-Secretary for Security | Immigration Ordinance (Chapter 115), sections 29(1), (2) and (4), 32(2), (3) and (4)(a), 34(b). (L.N. 102 of 1980)
+Secretary for Education | Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 1150), sections 4(1)(g) and (2), 5(2) (e), (ea), (g) and (l), 9(1), 12(b), 13(1), (2) and (3) and 17.
 
-Secretary for Security | Immigration Ordinance (Chapter 115), section 32(2A). (L.N. 307 of 1980)
+Secretary for Home Affairs | Probate and Administration Ordinance (Cap. 10), sections 60B, 60C, 60D, 60E, 60F, 60G and 60K.
 
-Secretary for Security | Public Order Ordinance (Chapter 245), section 31(6)(i) only. (L.N. 158 of 1977)
+Secretary for Home Affairs | New Territories Ordinance (Cap. 97), sections 15, 16 and 18.
 
-Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Eastern Harbour Crossing Ordinance (Chapter 215). (L.N. 308 of 1988)
+Secretary for Home Affairs | Books Registration Ordinance (Cap. 142).
 
-Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Merchant Shipping (Safety) Ordinance (Chapter 369), section 5. (L.N. 94 of 1984)
+Secretary for Home Affairs | Hotel and Guesthouse Accommodation Ordinance (Cap. 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4).
 
-Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Roads (Works, Use and Compensation) Ordinance (Chapter 370). (L.N. 133 of 1986)
+Secretary for Home Affairs | Clubs (Safety of Premises) Ordinance (Cap. 376).
 
-Secretary for Transport and Housing (L.N. 106 of 2002; L.N. 130 of 2007) | Tate’s Cairn Tunnel Ordinance (Chapter 393). (L.N. 26 of 1989)
+Secretary for Home Affairs | New Territories Land (Exemption) Ordinance (Cap. 452), section 12.
 
-(L.N. 280 of 1992; L.N. 84 of 1993; L.N. 303 of 1993; 94 of 1993 s. 47; 13 of 1995 s. 2; 40 of 1995 s. 10; 44 of 1995 s. 143; L.N. 198 of 1999; 78 of 1999 s. 7; 32 of 2000 s. 48; 5 of 2001 s. 40; 5 of 2002 s. 407; L.N. 25 of 2004; L.N. 125 of 2004; 30 of 2004 s. 3; 3 of 2006 s. 56; 17 of 2006 s. 23; 28 of 2012 ss. 912 & 920 and L.N. 162 of 2013)
+Secretary for Home Affairs | Heung Yee Kuk Ordinance (Cap. 1097), section 3(2)(c) and (3) and paragraph 6 of the First Schedule and paragraph 5(2) of the Second Schedule.
 
-Editorial Note:
+Secretary for Labour and Welfare | Employees Retraining Ordinance (Cap. 423), sections 9(2) and (3) and 14(4).
 
-1. Please also see the Specifications of Public Offices in L.N. 282 of 1998, L.N. 320 of 1998, L.N. 343 of 1998, L.N. 324 of 1999 (repealed L.N. 125 of 2004) , L.N. 82 of 2001, L.N. 93 of 2001, 5 of 2001 s. 40, L.N. 158 of 2002, L.N. 192 of 2003, L.N. 21 of 2004, L.N. 6 of 2005, 21 of 2005 s. 29, L.N. 202 of 2005, 23 of 2005 s. 26, L.N. 30 of 2007 and L.N. 99 of 2009. They were made under s. 43 of Cap. 1 after 1 July 1997. Their particulars are as follows—
+Secretary for Security | Immigration Ordinance (Cap. 115), sections 29(1), (2) and (4), 32(2), (2A), (3) and (4)(a), 34(b) and 35(2).
 
-Public Office | Ordinance or section of Ordinance for which specified
+Secretary for Security | Marriage Ordinance (Cap. 181), section 5J(7).
 
-L.N. 282 of 1998 | Director of Environmental Protection Director of Environmental Protection | Environmental Impact Assessment Ordinance (Chapter 499). Environmental Impact Assessment (Appeal Board) Regulation (Chapter 499 subsidiary legislation A).
+Secretary for Security | Essential Services Corps Ordinance (Cap. 197).
 
-L.N. 320 of 1998 | Secretary for Security | Immigration Ordinance (Chapter 115), section 35(2).
+Secretary for Security | Public Order Ordinance (Cap. 245), section 31(6)(i).
 
-L.N. 343 of 1998 | Director of Intellectual Property | Director of Intellectual Property (Establishment) Ordinance (Chapter 412).
+Secretary for Security | Auxiliary Medical Service Ordinance (Cap. 517).
 
-Director of Intellectual Property as Registrar of Trade Marks | Trade Marks Ordinance (Chapter 559). Trade Marks Rules (Chapter 559 subsidiary legislation A). (35 of 2000 s. 98)
+Secretary for Security | Civil Aid Service Ordinance (Cap. 518).
 
-Director of Intellectual Property as Registrar of Patents | Patents Ordinance (Chapter 514). Patents (Transitional Arrangements) Rules (Chapter 514 subsidiary legislation B). Patents (General) Rules (Chapter 514 subsidiary legislation C).
+Secretary for Transport and Housing | Eastern Harbour Crossing Ordinance (Cap. 215).
 
-Director of Intellectual Property as Registrar of Designs | Registered Designs Ordinance (Chapter 522). Registered Designs Rules (Chapter 522 subsidiary legislation A).
+Secretary for Transport and Housing | Merchant Shipping (Safety) Ordinance (Cap. 369), section 5.
 
-L.N. 82 of 2001 | Director-General of Trade and Industry | Import and Export (General) Regulations (Chapter 60 subsidiary legislation A), regulations 5AB(1), (2), (3), (4) and (5), 5AC(1) and (3), 5AD(1) and (2) and 5AE(1)(c) and item 1 of Part I and item 13 of Part IV of the Fifth Schedule.
+Secretary for Transport and Housing | Roads (Works, Use and Compensation) Ordinance (Cap. 370).
 
-L.N. 93 of 2001 | Chief Secretary for Administration | Scout Association of Hong Kong Ordinance (Chapter 1005), section 9(3).
+Secretary for Transport and Housing | Tate’s Cairn Tunnel Ordinance (Cap. 393).
 
-5 of 2001 s. 40 | Financial Secretary | Hong Kong Science and Technology Parks Corporation Ordinance (Chapter 565), sections 23(6) and 24.
-
-L.N. 158 of 2002 | Secretary for Education Secretary for Labour and Welfare | Non-local Higher and Professional Education (Regulation) Ordinance (Chapter 493), section 8(1)(a)(ii)(B). (L.N. 130 of 2007) Hong Kong Council for Accreditation of Academic and Vocational Qualifications Ordinance (Chapter 1150), sections 4(1)(g) and (2), 5(2)(e), (ea), (g) and (l), 9(1), 12(b), 13(1), (2) and (3) and 17. (6 of 2007 s. 53; L.N. 130 of 2007) Employees Retraining Ordinance (Chapter 423), sections 9(2) and (3) and 14(4). (L.N. 130 of 2007)
-
-L.N. 192 of 2003 | Secretary for Home Affairs Secretary for Constitutional and Mainland Affairs | New Territories Ordinance (Chapter 97), sections 15, 16 and 18. Hotel and Guesthouse Accommodation Ordinance (Chapter 349), sections 19(1) and 20(1), (2)(b), (3)(b) and (4). New Territories Land (Exemption) Ordinance (Chapter 452), section 12. Heung Yee Kuk Ordinance (Chapter 1097), section 3(2)(c) and First Schedule (paragraph 6) and Second Schedule (paragraph 5(2)). Sex Discrimination Ordinance (Chapter 480), section 65(3) and Schedule 6 (sections 16(2) and (3) and 17(2)). (L.N. 130 of 2007) Personal Data (Privacy) Ordinance (Chapter 486), section 14(6) and Schedule 2 (sections 2(2) and (3) and 3(2)). (L.N. 130 of 2007)
-
-L.N. 21 of 2004 | Collector of Stamp Revenue | Betting Duty Ordinance (Chapter 108), sections 6L(2), 6M(3), 6N(4), 6O(1), 6P, 6Q, 6R(1), 6S(4) and (7)(b), 6T(4)(a), 6V(2), (4) and (6)(b), 6ZL(1), 6ZM(1) and 7(3). Betting Duty Regulations (Chapter 108 subsidiary legislation A), regulation 3(4).
-
-L.N. 6 of 2005 | Commissioner of Mines | Dangerous Goods (Government Explosives Depots) Regulations (Chapter 295 subsidiary legislation D), regulations 3(2) and 7.
-
-21 of 2005 s. 29 | Secretary for Home Affairs | Probate and Administration Ordinance (Chapter 10), sections 60B, 60C, 60D, 60E, 60F, 60G and 60K.
-
-L.N. 202 of 2005 | Chief Secretary for Administration | Church of England Trust Ordinance (Chapter 1014), sections 3(2) and 4(1). Hong Kong Chinese Christian Churches Union Incorporation Ordinance (Chapter 1025), section 3(1) and (2). Chinese Rhenish Church, Hong Kong Synod, Incorporation Ordinance (Chapter 1060), section 3(1) and (2). Hong Kong Baptist Church Incorporation Ordinance (Chapter 1078), section 10(1).
-
-23 of 2005 s. 26 | Secretary for Security | Marriage Ordinance (Chapter 181), section 5J(7).
-
-L.N. 30 of 2007 | Collector of Stamp Revenue | Betting Duty Ordinance (Cap. 108), sections 6GH(3), 6GI(5), 6GJ(1), 6GK(1), (3)(b) and (4), 6GL(2), (3) and (5), 6GM(1), 6GN(4) and (8)(b), 6GO(4)(a), 6ZO(2), (3), (4) and (6)(a). Betting Duty Regulations (Cap. 108 sub. leg. A), regulation 3AA(3)(b) and (5).
-
-L.N. 99 of 2009 | Commissioner for Transport | Tsing Sha Control Area Ordinance (Cap. 594). Tsing Sha Control Area (General) Regulation (Cap. 594 sub. leg. A). Tsing Sha Control Area (Tolls, Fees and Charges) Regulation (Cap. 594 sub. leg. B).
-
-Director of Highways | Tsing Sha Control Area Ordinance (Cap. 594). Tsing Sha Control Area (General) Regulation (Cap. 594 sub. leg. A).
-
-- 2. For provisions for validation in relation to specifications made under section 43 of the Interpretation and General Clauses Ordinance (Cap. 1) and published after 31 December 1989 but before 1 July 1997 - see section 65 of Ord. No. 18 of 2014.
-
-3. * This entry was added by section 66 of Ord. No. 18 of 2014. By virtue of section 1(5) of Ord. No. 18 of 2014, section 66 was deemed to have come into operation on 9 April 1998.
+(Schedule replaced 18 of 2014 s. 62)
