@@ -1,22 +1,14 @@
-# SCHEDULE
+# Schedule 1
 
-[s. 3]
+(The Schedule was renumbered as Schedule 1 - see L.N. 120 of 2014.)
 
-- PART 1 ARTICLES 1 TO 29 OF THE AGREEMENT BETWEEN THE GOVERNMENT
+[s. 3] (L.N. 120 of 2014)
 
-- OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF THE
+- PART 1 Articles 1 to 29 of the Agreement Between the Government of the Hong Kong Special Administrative Region of the People’s Republic of China and the Government of the Socialist Republic of Vietnam for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion With Respect to Taxes on Income
 
-- PEOPLE’S REPUBLIC OF CHINA AND THE GOVERNMENT OF THE
+- Article 1 Persons Covered
 
-- SOCIALIST REPUBLIC OF VIETNAM FOR THE AVOIDANCE
-
-- OF DOUBLE TAXATION AND THE PREVENTION OF
-
-- FISCAL EVASION WITH RESPECT TO
-
-- TAXES ON INCOME
-
-- Article 1 Persons Covered This Agreement shall apply to persons who are residents of one or both of the Contracting Parties.
+- This Agreement shall apply to persons who are residents of one or both of the Contracting Parties.
 
 - Article 2 Taxes Covered
 
@@ -44,9 +36,7 @@
 
   - 4. This Agreement shall apply also to any identical or substantially similar taxes that are imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes, as well as any other taxes falling within paragraphs 1 and 2 of this Article which a Contracting Party may impose in future. The competent authorities of the Contracting Parties shall notify each other of any significant changes that have been made in their taxation laws.
 
-  - 5.
-
-    - The existing taxes, together with the taxes imposed after the signature of this Agreement, are hereinafter referred to as “Hong Kong Special Administrative Region tax” and “Vietnamese tax” respectively.
+  - 5. The existing taxes, together with the taxes imposed after the signature of this Agreement, are hereinafter referred to as “Hong Kong Special Administrative Region tax” and “Vietnamese tax” respectively.
 
 - Article 3 General Definitions
 
@@ -102,9 +92,7 @@
 
       - the term “tax” means the Hong Kong Special Administrative Region tax or Vietnamese tax, as the context requires.
 
-  - 2.
-
-    - In this Agreement, the terms “Hong Kong Special Administrative Region tax” and “Vietnamese tax” do not include any penalty or interest imposed under the laws in force in either Contracting Party relating to the taxes to which this Agreement applies by virtue of Article 2.
+  - 2. In this Agreement, the terms “Hong Kong Special Administrative Region tax” and “Vietnamese tax” do not include any penalty or interest imposed under the laws in force in either Contracting Party relating to the taxes to which this Agreement applies by virtue of Article 2.
 
   - 3. As regards the application of this Agreement at any time by a Contracting Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the laws of that Party for the purposes of the taxes to which this Agreement applies, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.
 
@@ -114,17 +102,17 @@
 
     - For the purposes of this Agreement, the term “resident of a Contracting Party” means:
 
-    - (a) in the case of the Hong Kong Special Administrative Region,
+      - (a) in the case of the Hong Kong Special Administrative Region,
 
-      - (i) any individual who ordinarily resides in the Hong Kong Special Administrative Region;
+        - (i) any individual who ordinarily resides in the Hong Kong Special Administrative Region;
 
-      - (ii) any individual who stays in the Hong Kong Special Administrative Region for more than 180 days during a year of assessment or for more than 300 days in two consecutive years of assessment one of which is the relevant year of assessment;
+        - (ii) any individual who stays in the Hong Kong Special Administrative Region for more than 180 days during a year of assessment or for more than 300 days in two consecutive years of assessment one of which is the relevant year of assessment;
 
-      - (iii) a company incorporated in the Hong Kong Special Administrative Region or, if incorporated outside the Hong Kong Special Administrative Region, being normally managed or controlled in the Hong Kong Special Administrative Region;
+        - (iii) a company incorporated in the Hong Kong Special Administrative Region or, if incorporated outside the Hong Kong Special Administrative Region, being normally managed or controlled in the Hong Kong Special Administrative Region;
 
-      - (iv) any other person constituted under the laws of the Hong Kong Special Administrative Region or, if constituted outside the Hong Kong Special Administrative Region, being normally managed or controlled in the Hong Kong Special Administrative Region;
+        - (iv) any other person constituted under the laws of the Hong Kong Special Administrative Region or, if constituted outside the Hong Kong Special Administrative Region, being normally managed or controlled in the Hong Kong Special Administrative Region;
 
-    - (b) in the case of Vietnam, any person who, under the laws of Vietnam, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of registration, place of management or any other criterion of a similar nature. This term, however, does not include any person who is liable to tax in Vietnam in respect only of income from sources in Vietnam.
+      - (b) in the case of Vietnam, any person who, under the laws of Vietnam, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of registration, place of management or any other criterion of a similar nature. This term, however, does not include any person who is liable to tax in Vietnam in respect only of income from sources in Vietnam.
 
   - 2. Where by reason of the provisions of paragraph 1, an individual is a resident of both Contracting Parties, then his status shall be determined as follows:
 
@@ -216,7 +204,7 @@
 
     - (c) other business activities carried on in that other Party of the same or similar kind as those effected through that permanent establishment;
 
-  - provided that (b) or (c) shall not apply where an enterprise is able to demonstrate that the sales or business activities were carried out for reasons other than obtaining treaty benefits.
+    - provided that (b) or (c) shall not apply where an enterprise is able to demonstrate that the sales or business activities were carried out for reasons other than obtaining treaty benefits.
 
   - 2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting Party carries on business in the other Contracting Party through a permanent establishment situated therein, there shall in each Contracting Party be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other enterprises with which it deals.
 
@@ -242,7 +230,9 @@
 
     - (a) an enterprise of a Contracting Party participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting Party; or
 
-    - (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting Party and an enterprise of the other Contracting Party, and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
+    - (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting Party and an enterprise of the other Contracting Party,
+
+  - and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
   - 2. Where a Contracting Party includes in the profits of an enterprise of that Party - and taxes accordingly - profits on which an enterprise of the other Contracting Party has been charged to tax in that other Party and the profits so included are profits which would have accrued to the enterprise of the first-mentioned Party if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other Party shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and for this purpose the competent authorities of the Contracting Parties shall if necessary consult each other.
 
@@ -350,7 +340,9 @@
 
   - 3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting Party shall be taxable only in that Party.
 
-- Article 16 Directors’ Fees Directors’ fees and other similar payments derived by a resident of a Contracting Party in his capacity as a member of the board of directors of a company which is a resident of the other Contracting Party may be taxed in that other Party.
+- Article 16 Directors’ Fees
+
+- Directors’ fees and other similar payments derived by a resident of a Contracting Party in his capacity as a member of the board of directors of a company which is a resident of the other Contracting Party may be taxed in that other Party.
 
 - Article 17 Artistes and Sportsmen
 
@@ -458,9 +450,13 @@
 
     - (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy.
 
-- Article 26 Members of Government Missions Nothing in this Agreement shall affect the fiscal privileges of members of government missions, including consular posts, under the general rules of international law or under the provisions of special agreements.
+- Article 26 Members of Government Missions
 
-- Article 27 Miscellaneous Rules Nothing in this Agreement shall prejudice the right of each Contracting Party to apply its domestic laws and measures concerning tax avoidance, whether or not described as such.
+- Nothing in this Agreement shall affect the fiscal privileges of members of government missions, including consular posts, under the general rules of international law or under the provisions of special agreements.
+
+- Article 27 Miscellaneous Rules
+
+- Nothing in this Agreement shall prejudice the right of each Contracting Party to apply its domestic laws and measures concerning tax avoidance, whether or not described as such.
 
 - Article 28 Entry into Force
 
@@ -476,11 +472,11 @@
 
       - (ii) with regard to other taxes, in respect of taxable years beginning on or after 1 January in the calendar year next following that in which this Agreement enters into force.
 
-- Article 29 Termination This Agreement shall remain in force until terminated by a Contracting Party. Either Contracting Party may terminate this Agreement by giving the other Contracting Party written notice of termination on or before 30 June in any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, this Agreement shall cease to have effect:
+- Article 29 Termination
 
-  - (a) in the Hong Kong Special Administrative Region:
+- This Agreement shall remain in force until terminated by a Contracting Party. Either Contracting Party may terminate this Agreement by giving the other Contracting Party written notice of termination on or before 30 June in any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, this Agreement shall cease to have effect:
 
-- in respect of Hong Kong Special Administrative Region tax, for any year of assessment beginning on or after 1 April in the calendar year next following that in which the notice is given;
+  - (a) in the Hong Kong Special Administrative Region: in respect of Hong Kong Special Administrative Region tax, for any year of assessment beginning on or after 1 April in the calendar year next following that in which the notice is given;
 
   - (b) in Vietnam:
 
@@ -488,22 +484,10 @@
 
     - (ii) in respect of other taxes, in relation to income, profits or gains arising in the calendar year following the calendar year in which the notice of termination is given, and in any subsequent calendar years.
 
-- PART 2 PARAGRAPHS 1 TO 3 OF THE PROTOCOL TO THE AGREEMENT BETWEEN THE
+- PART 2 Paragraphs 1 to 3 of the Protocol to the Agreement Between the Government of the Hong Kong Special Administrative Region of the People’s Republic of China and the Government of the Socialist Republic of Vietnam for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion With Respect to Taxes on Income
 
-- GOVERNMENT OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF
+- 1. For the purposes of Article 3 paragraph 2 and in the case of the Hong Kong Special Administrative Region, the term “penalty or interest” includes, without limitation, any sum added to Hong Kong Special Administrative Region tax by reason of default and recovered therewith, and additional tax assessed for infringement of or failure to comply with its tax laws.
 
-- THE PEOPLE’S REPUBLIC OF CHINA AND THE GOVERNMENT OF THE
+- 2. For the purposes of Article 7 paragraph 3, the term “banking enterprise” means, in the case of the Hong Kong Special Administrative Region, a financial institution as defined under the Inland Revenue Ordinance, Chapter 112 of the Laws of Hong Kong.
 
-- SOCIALIST REPUBLIC OF VIETNAM FOR THE AVOIDANCE OF
-
-- DOUBLE TAXATION AND THE PREVENTION OF FISCAL
-
-- EVASION WITH RESPECT TO TAXES ON INCOME
-
-  - 1. For the purposes of Article 3 paragraph 2 and in the case of the Hong Kong Special Administrative Region, the term “penalty or interest” includes, without limitation, any sum added to Hong Kong Special Administrative Region tax by reason of default and recovered therewith, and additional tax assessed for infringement of or failure to comply with its tax laws.
-
-  - 2.
-
-    - For the purposes of Article 7 paragraph 3, the term “banking enterprise” means, in the case of the Hong Kong Special Administrative Region, a financial institution as defined under the Inland Revenue Ordinance, Chapter 112 of the Laws of Hong Kong.
-
-  - 3. For the purposes of Article 13 paragraph 4, the term “assets” shall be read as the value of the assets, and the term “mainly” shall be read as “not less than 50 per cent”.
+- 3. For the purposes of Article 13 paragraph 4, the term “assets” shall be read as the value of the assets, and the term “mainly” shall be read as “not less than 50 per cent”.
