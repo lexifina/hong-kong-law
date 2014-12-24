@@ -2,7 +2,7 @@
 
 [s. 7]
 
-- 1. A claim for a sum of money which arises from—
+- 1. A claim for a sum of money, whether liquidated or unliquidated, which arises from— (Amended 20 of 2014 s. 17)
 
   - (a) the breach of a term, whether express or implied or (if relevant) arising by force of section 10(1) of the Minimum Wage Ordinance (Cap. 608), of a contract of employment, whether for performance in Hong Kong or under a contract to which the Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) applies; (Amended 8 of 1976 s. 49; 59 of 1999 s. 3)
 
@@ -14,7 +14,7 @@
 
 - 2. A claim for contribution under section 26(2).
 
-- 3. Notwithstanding paragraphs 1 and 2, the tribunal shall not have jurisdiction to hear and determine a claim for a sum of money, or otherwise in respect of a cause of action, founded in tort whether arising from a breach of contract or a breach of a duty imposed by a rule of common law or by any enactment.
+- 3. Notwithstanding paragraphs 1 and 2, the tribunal shall not have jurisdiction to hear and determine a claim for a sum of money (whether liquidated or unliquidated), or otherwise in respect of a cause of action, founded in tort whether arising from a breach of contract or a breach of a duty imposed by a rule of common law or by any enactment. (Amended 20 of 2014 s. 17)
 
 - 4. Any question as to—
 
@@ -36,12 +36,6 @@
 
 - 7. A claim for remedies under Part VIA of the Employment Ordinance (Cap. 57). (Added 75 of 1997 s. 6)
 
-- *8. (Repealed 135 of 1997 s. 4)
+- 8. (Repealed 135 of 1997 s. 4)
 
-- **9. (Repealed 135 of 1997 s. 14)
-
-Editorial Note:
-
-* This paragraph was added by 98 of 1997. As to the suspension of operation of 98 of 1997, please see s. 5(1) and (2) of Cap. 538. On 31 October 1997, that s. 5(1) and (2), to the extent that it was in effect immediately before 31 October 1997, ceased to have effect. Please see s. 4(2) of 135 of 1997.
-
-** This paragraph was added by 101 of 1997. As to the suspension of operation of 101 of 1997, please see s. 4(1) and (2) of Cap. 538. On 31 October 1997, that s. 4(1) and (2), to the extent that it was in effect immediately before 31 October 1997, ceased to have effect. Please see s. 14(2) of 135 of 1997.
+- 9. (Repealed 135 of 1997 s. 14)
