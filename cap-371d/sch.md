@@ -30,7 +30,7 @@ Chi Fu Fa Yuen Bus Terminus, Pok Fu Lam (薄扶林置富花園巴士總站) | Lo
 
 Happy Valley (Lower) (Wong Nai Chung Road) Bus Terminus (跑馬地(下)(黃泥涌道)巴士總站) | Located at Wong Nai Chung Road, Happy Valley, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-036V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-Heng Fa Chuen Public Transport Interchange, Chai Wan (柴灣杏花邨公共運輸交匯處) | Located at Shing Tai Road, Chai Wan, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-014V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+Heng Fa Chuen Public Transport Interchange, Chai Wan (柴灣杏花邨公共運輸交匯處) | Located at Shing Tai Road, Chai Wan, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-014V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
 Hing Wah Estate Bus Terminus, Chai Wan (柴灣興華邨巴士總站) | Located at Hing Wah (II) Estate, Chai Wan, Hong Kong, and shown coloured orange and edged red on Plan No. DH/TCO/O-021V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
@@ -188,7 +188,7 @@ Cheung On Bus Terminus, Tsing Yi (青衣長安巴士總站) | Located at Cheung 
 
 Cheung Wang Public Transport Interchange, Tsing Yi (青衣長宏公共運輸交匯處) | Located at Liu To Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-162V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-Chevalier Garden Public Transport Interchange, Ma On Shan (馬鞍山富安花園公共運輸交匯處) | Located at Hang Shun Street, Ma On Shan, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-077V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+Chevalier Garden Public Transport Interchange, Ma On Shan (馬鞍山富安花園公共運輸交匯處) | Located at Hang Shun Street, Ma On Shan, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-077V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
 Ching Ho Estate Public Transport Interchange, Sheung Shui (上水清河邨公共運輸交匯處) | Located at Ching Hiu Road, Sheung Shui, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-120V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
@@ -238,7 +238,7 @@ Kwai Shing (East) Bus Terminus, Kwai Chung (葵涌葵盛(東)巴士總站) | Loc
 
 Kwong Fuk Bus Terminus, Tai Po (大埔廣福巴士總站) | Located at Kwong Fuk Estate, Plover Cove Road, Tai Po, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C063V2, signed by the Director of Health on 20 February 2012 and deposited in the Land Registry. (L.N. 29 of 2012)
 
-Kwong Yuen Public Transport Interchange, Sha Tin (沙田廣源公共運輸交匯處) | Located at Siu Lek Yuen Road, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-084V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+Kwong Yuen Public Transport Interchange, Sha Tin (沙田廣源公共運輸交匯處) | Located at Siu Lek Yuen Road, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-084V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
 Lai King (North) Bus Terminus (荔景(北)巴士總站) | Located at Lai King Hill Road, Kwai Chung, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-163V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
@@ -256,7 +256,7 @@ LOHAS Park Station Public Transport Interchange (康城站公共運輸交匯處)
 
 Lok Ma Chau (San Tin) Public Transport Interchange (落馬洲(新田)公共運輸交匯處) | Located at Castle Peak Road—Chau Tau, San Tin, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-144V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-Lok Ma Chau Spur Line Public Transport Interchange (落馬洲支線公共運輸交匯處) | Located at MTR Lok Ma Chau Station, Lok Ma Chau, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-145V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+Lok Ma Chau Spur Line Public Transport Interchange (落馬洲支線公共運輸交匯處) | Located at MTR Lok Ma Chau Station, Lok Ma Chau, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-145V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
 Long Ping Estate Bus Terminus, Yuen Long (元朗朗屏邨巴士總站) | Located at Long Ping Estate, 1 Long Ping Road, Yuen Long, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C102V2, signed by the Director of Health on 4 February 2013 and deposited in the Land Registry. (L.N. 17 of 2013)
 
@@ -294,7 +294,7 @@ Sha Tin Racecourse Public Transport Interchange (沙田馬場公共運輸交匯�
 
 Sha Tin Station Public Transport Interchange (沙田站公共運輸交匯處) | Located at Sha Tin Station Circuit, Sha Tin, New Territories, and shown – (a) coloured orange and edged red; (b) coloured yellow and edged red; and (c) coloured orange stippled black and edged red, on Plan No. DH/TCO/O-087V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-Sha Tin Wai Bus Terminus, Sha Tin (沙田沙田圍巴士總站) | Located at Yi Shing Square, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-088V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+Sha Tin Wai Bus Terminus, Sha Tin (沙田沙田圍巴士總站) | Located at Yi Shing Square, Sha Tin, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-088V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
 Shan King Estate Bus Terminus, Tuen Mun (屯門山景邨巴士總站) | Located at Wong Yin Street, Tuen Mun, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-129V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
@@ -352,11 +352,11 @@ Tin Yan Estate Public Transport Interchange, Tin Shui Wai (天水圍天恩邨公
 
 Tin Yiu Bus Terminus, Tin Shui Wai (天水圍天耀巴士總站) | Located at Tin Yiu Road, Tin Shui Wai, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-141V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
-Tseung Kwan O Industrial Estate Public Transport Interchange (將軍澳工業邨公共運輸交匯處) | Located at Tseung Kwan O Industrial Estate, Chun Wang Street, Tseung Kwan O, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-106V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+Tseung Kwan O Industrial Estate Public Transport Interchange (將軍澳工業邨公共運輸交匯處) | Located at Tseung Kwan O Industrial Estate, Chun Wang Street, Tseung Kwan O, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-106V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
 Tsing Yi Estate Bus Terminus (青衣邨巴士總站) | Located at Tsing Yi Estate, Tsing Luk Street, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/C076V1, signed by the Director of Health on 30 June 2009 and deposited in the Land Registry.
 
-Tsing Yi Public Pier Public Transport Interchange (青衣公眾碼頭公共運輸交匯處) | Located at Fung Shue Wo Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-168V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
+Tsing Yi Public Pier Public Transport Interchange (青衣公眾碼頭公共運輸交匯處) | Located at Fung Shue Wo Road, Tsing Yi, New Territories, and shown coloured orange and edged red on Plan No. DH/TCO/O-168V2, signed by the Director of Health on 26 August 2014 and deposited in the Land Registry. (L.N. 117 of 2014)
 
 Tsing Yi Station Public Transport Interchange (青衣站公共運輸交匯處) | Located at Tsing King Road, Tsing Yi, New Territories, and shown— (a) coloured orange and edged red; (b) coloured yellow and edged red; (c) coloured orange stippled black and edged red; and (d) coloured orange hatched black and edged red, on Plan No. DH/TCO/O-169V1, signed by the Director of Health on 30 June 2010 and deposited in the Land Registry. (L.N. 100 of 2010)
 
