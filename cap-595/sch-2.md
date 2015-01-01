@@ -18,21 +18,41 @@ Item | Chemical | CAS registry number
 
 (e) tremolite | 77536-68-6
 
-2. | Polybrominated biphenyls (PBB):
+2. | Perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride:
 
-(a) hexabromobiphenyl | 36355-01-8
+(a) perfluorooctane sulfonic acid (PFOS) | 1763-23-1
 
-(b) octabromobiphenyl | 27858-07-7
+(b) salts of perfluorooctane sulfonic acid, for example:
 
-(c) decabromobiphenyl | 13654-09-6
+(i) potassium perfluorooctane sulfonate | 2795-39-3
 
-3. | Polychlorinated terphenyls (PCT) | 61788-33-8
+(ii) lithium perfluorooctane sulfonate | 29457-72-5
 
-4. | Tetraethyl lead | 78-00-2
+(iii) ammonium perfluorooctane sulfonate | 29081-56-9
 
-5. | Tetramethyl lead | 75-74-1
+(iv) diethanolammonium perfluorooctane sulfonate | 70225-14-8
 
-6. | Tris (2,3-dibromopropyl) phosphate | 126-72-7
+(v) tetraethylammonium perfluorooctane sulfonate | 56773-42-3
+
+(vi) didecyldimethylammonium perfluorooctane sulfonate | 251099-16-8
+
+(c) perfluorooctane sulfonyl fluoride (PFOSF) | 307-35-7
+
+3. | Polybrominated biphenyls (PBB):
+
+(a) octabromobiphenyl | 27858-07-7
+
+(b) decabromobiphenyl | 13654-09-6
+
+4. | Polychlorinated terphenyls (PCT) | 61788-33-8
+
+5. | Tetraethyl lead | 78-00-2
+
+6. | Tetramethyl lead | 75-74-1
+
+7. | Tris (2,3-dibromopropyl) phosphate | 126-72-7
+
+(Amended L.N. 73 of 2014)
 
 - PART 2 EXTENT TO WHICH PART 2 OF ORDINANCE DOES NOT
 

@@ -6,9 +6,35 @@
 
 Item | Chemical | CAS registry number
 
-1. | Hexachlorobenzene (HCB) | 118-74-1
+1. | Hexabromobiphenyl (HBB) | 36355-01-8
 
-2. | Polychlorinated biphenyls (PCB) | 1336-36-3
+2. | Hexabromodiphenyl ether (hexaBDE) and heptabromodiphenyl ether (heptaBDE):
+
+(a) 2,2’,4,4’,5,5’-hexabromodiphenyl ether (BDE-153) | 68631-49-2
+
+(b) 2,2’,4,4’,5,6’-hexabromodiphenyl ether (BDE-154) | 207122-15-4
+
+(c) 2,2’,3,3’,4,5’,6-heptabromodiphenyl ether (BDE-175) | 446255-22-7
+
+(d) 2,2’,3,4,4’,5’,6-heptabromodiphenyl ether (BDE-183) | 207122-16-5
+
+(e) other hexa- and heptabromodiphenyl ethers present in commercial octabromodiphenyl ether
+
+3. | Hexachlorobenzene (HCB) | 118-74-1
+
+4. | Pentachlorobenzene (PeCB) | 608-93-5
+
+5. | Polychlorinated biphenyls (PCB) | 1336-36-3
+
+6. | Tetrabromodiphenyl ether (tetraBDE) and pentabromodiphenyl ether (pentaBDE):
+
+(a) 2,2’,4,4’-tetrabromodiphenyl ether (BDE-47) | 5436-43-1
+
+(b) 2,2’,4,4’,5-pentabromodiphenyl ether (BDE-99) | 60348-60-9
+
+(c) other tetra- and pentabromodiphenyl ethers present in commercial pentabromodiphenyl ether
+
+(Amended L.N. 73 of 2014)
 
 - PART 2 EXTENT TO WHICH PART 2 OF ORDINANCE DOES NOT
 
