@@ -94,9 +94,11 @@ Qualifying Criteria to be Met to be Additional Tier 1 Capital
 
       - (B) the home authority notifying the parent bank of the institution in writing that the authority has decided that a public sector injection of capital or equivalent support, in the jurisdiction of the home authority, is necessary, without which the institution or the parent bank of the institution would become non-viable;
 
-    - (vii) the institution maintains, at all times, all prior authorization necessary to immediately issue the relevant number of ordinary shares specified in the terms and conditions of the instrument, and there are no impediments to the write-off or automatic conversion of the instrument into ordinary shares of the institution if the trigger event or additional trigger event occurs; and
+    - (vii) the institution maintains, at all times, all prior authorization necessary to immediately issue the relevant number of ordinary shares specified in the terms and conditions of the instrument, and there are no impediments to the write-off or automatic conversion of the instrument into ordinary shares of the institution if the trigger event or additional trigger event occurs; (L.N. 128 of 2014)
 
-    - (viii) the institution submits the following information and documents to the Monetary Authority and obtains the prior consent of the Monetary Authority before including any issuance of a capital instrument as Additional Tier 1 capital—
+    - (viia) the institution obtains the prior consent of the Monetary Authority before including, as Additional Tier 1 capital, any issuance of a capital instrument the terms and conditions of which provide for trigger events in addition to the trigger events specified under this paragraph; and (L.N. 128 of 2014)
+
+    - (viii) the institution submits the following information and documents to the Monetary Authority before including any issuance of a capital instrument as Additional Tier 1 capital— (L.N. 128 of 2014)
 
       - (A) if the terms and conditions of the instrument provide for trigger events in addition to the trigger events specified under this paragraph, a notice in writing to the Monetary Authority containing—
 

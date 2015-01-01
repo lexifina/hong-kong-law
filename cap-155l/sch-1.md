@@ -52,10 +52,12 @@ Specifications for Purposes of Certain Definitions in these Rules*
 
   - 4. European Community.
 
+  - 5. European Financial Stability Facility. (L.N. 128 of 2014)
+
+  - 6. European Stability Mechanism. (L.N. 128 of 2014)
+
 - Part 11 Financial Services Activities of Financial Institutions (L.N. 156 of 2012)
 
-- _
+Editorial Note:
 
-- Note:
-
-- * (L.N. 156 of 2012)
+* (L.N. 156 of 2012)
