@@ -74,7 +74,7 @@ Minimum Criteria for Authorization
 
   - (a) presently maintains, and will if it is authorized continue to maintain, adequate liquidity to meet its obligations as they will or may fall due; and
 
-  - (b) without prejudice to the generality of subparagraph (a), if it is authorized, will on and after authorization have and maintain a liquidity ratio which complies with the provisions of Part XVIII applicable to it.
+  - (b) without prejudice to the generality of subparagraph (a), if it is authorized, will on and after authorization comply with the rules made under section 97H(1) applicable to it. (Amended 3 of 2012 s. 18)
 
 - 8. The Monetary Authority is satisfied that the company, if it is authorized, will on and after authorization comply with the provisions of Part XV applicable to it.
 
