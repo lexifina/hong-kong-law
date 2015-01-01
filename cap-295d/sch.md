@@ -6,11 +6,13 @@ FEES
 
 - PART I
 
-1. | Subject to paragraph 2, the fees per consignment for the storage in a depot of explosives and explosive accessories shall be—
+  - 1. Subject to paragraph 2, the fees per consignment for the storage in a depot of explosives and explosive accessories shall be—
 
-(a) where the amount of the explosives or explosive accessories (including the weight of any inner and outer packages) does not exceed 50 kg . (b) where the amount of the explosives or explosive accessories (including the weight of any inner and outer packages) exceeds 50 kg . | $220 per month or part of a month; (L.N. 64 of 1995; L.N. 476 of 1997) $110 per month or part of a month for every 25 kg or fractional part of 25 kg. (L.N. 284 of 1985; L.N. 375 of 1987; L.N. 321 of 1989; L.N. 343 of 1992; L.N. 66 of 1994; L.N. 64 of 1995; L.N. 476 of 1997)
+  - (a) | where the amount of the explosives or explosive accessories (including the weight of any inner and outer packages) does not exceed 50 kg . | $265 per month or part of a month; (L.N. 64 of 1995; L.N. 476 of 1997; L.N. 125 of 2014)
 
-2. | Where a consignment of explosives or explosive accessories is delivered to a depot for storage after the fifteenth day of any month the fees calculated in accordance with paragraph 1 shall be reduced by 50% for that month only in relation to those explosives or explosive accessories (including the weight of any inner and outer packages).
+  - (b) | where the amount of the explosives or explosive accessories (including the weight of any inner and outer packages) exceeds 50 kg . | $130 per month or part of a month for every 25 kg or fractional part of 25 kg. (L.N. 284 of 1985; L.N. 375 of 1987; L.N. 321 of 1989; L.N. 343 of 1992; L.N. 66 of 1994; L.N. 64 of 1995; L.N. 476 of 1997; L.N. 125 of 2014)
+
+  - 2. Where a consignment of explosives or explosive accessories is delivered to a depot for storage after the fifteenth day of any month the fees calculated in accordance with paragraph 1 shall be reduced by 50% for that month only in relation to those explosives or explosive accessories (including the weight of any inner and outer packages).
 
 - PART II
 
@@ -28,7 +30,7 @@ FEES
 
       - (ii) explosives contained in inner and outer packages,
 
-  - together with, in either case, the accompanying explosive accessories contained in inner packages or not contained in any packages;
+    - together with, in either case, the accompanying explosive accessories contained in inner packages or not contained in any packages;
 
     - (c) of—
 
@@ -38,29 +40,35 @@ FEES
 
     - contained in inner and outer packages;
 
-  - (d) of explosive accessories only contained in inner and outer packages, shall be in accordance with the following table. TABLE
+    - (d) of explosive accessories only contained in inner and outer packages,
 
-  - Item | Quantity (explosives/explosives and explosive accessories/explosive accessories/packaging) | Fee per delivery $
+  - shall be in accordance with the following table.
 
-  - 1. | Not exceeding 50 kg | 3490
+- TABLE
 
-  - 2. | Exceeding 50 kg but not exceeding 100 kg | 5520
+- Quantity
 
-  - 3. | Exceeding 100 kg but not exceeding 250 kg | 7060
+- Item | (explosives/explosives and explosive accessories/ explosive accessories/ packaging) | Fee per delivery $
 
-  - 4. | Exceeding 250 kg but not exceeding 500 kg | 9430
+- 1. | Not exceeding 50 kg | 4,010
 
-  - 5. | Exceeding 500 kg but not exceeding 1000 kg | 14200
+- 2. | Exceeding 50 kg but not exceeding 100 kg | 6,070
 
-  - 6. | Exceeding 1000 kg but not exceeding 1500 kg | 21300
+- 3. | Exceeding 100 kg but not exceeding 250 kg | 8,120
 
-  - 7. | Exceeding 1500 kg but not exceeding 2000 kg | 26600
+- 4. | Exceeding 250 kg but not exceeding 500 kg | 10,850
 
-  - 8. | Exceeding 2000 kg but not exceeding 2500 kg | 33300
+- 5. | Exceeding 500 kg but not exceeding 1 000 kg | 16,350
 
-  - 9. | Exceeding 2500 kg | 39900
+- 6. | Exceeding 1 000 kg but not exceeding 1 500 kg | 24,500
 
-  - (L.N. 343 of 1992; L.N. 66 of 1994; L.N. 64 of 1995; L.N. 270 of 1996; L.N. 476 of 1997)
+- 7. | Exceeding 1 500 kg but not exceeding 2 000 kg | 30,600
+
+- 8. | Exceeding 2 000 kg but not exceeding 2 500 kg | 38,300
+
+- 9. | Exceeding 2 500 kg | 45,900
+
+- (L.N. 343 of 1992; L.N. 66 of 1994; L.N. 64 of 1995; L.N. 270 of 1996; L.N. 476 of 1997; L.N. 125 of 2014)
 
   - 2. The weight in the case of—
 
