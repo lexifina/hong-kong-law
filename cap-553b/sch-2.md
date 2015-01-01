@@ -38,15 +38,15 @@ Item | Enactment | Provision
 
 13. | Electoral Affairs Commission (Registration of Electors) (Legislative Council Geographical Constituencies) (District Council Constituencies) Regulation (Cap. 541 sub. leg. A) | Sections 14(2) and 15(6) (L.N. 261 of 2000)
 
-14. | Electoral Affairs Commission (Registration) (Electors for Legislative Council Functional Constituencies) (Voters for Election Committee Subsectors) (Members of Election Committee) Regulation (Cap. 541 sub. leg. B) | Sections 19(1)(e), 20(2), (3), (5), (7) and (8), 26(6), 30(2), 31(7), 31A(2) and 33(9) (L.N. 261 of 2000; L.N. 268 of 2001)
+14. | Electoral Affairs Commission (Registration) (Electors for Legislative Council Functional Constituencies) (Voters for Election Committee Subsectors) (Members of Election Committee) Regulation (Cap. 541 sub. leg. B) | Sections 30(2), 31(7) and 31A(2) (L.N. 261 of 2000; L.N. 268 of 2001; 12 of 2014 s. 52)
 
 15. | Electoral Affairs Commission (Nominations Advisory Committees (Legislative Council)) Regulation (Cap. 541 sub. leg. C) | Section 5(4)
 
-16. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg. D) | Sections 10(7) and (8), 11(7) and (8), 20(2), 23(9) and (12), 25(8) and (15), 42(11) and (13) and 66(7) and (10) (L.N. 268 of 2001; 25 of 2003 s. 50; 11 of 2012 s. 24)
+16. | Electoral Affairs Commission (Electoral Procedure) (Legislative Council) Regulation (Cap. 541 sub. leg. D) | Section 10(7) and (8), section 11(7) and (8), section 20(2), section 42(11) and (13) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on polling day) and section 66(7) and (10) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Returning Officer or the Presiding Officer, as may be appropriate, on polling day) (12 of 2014 s. 52)
 
 17. | Electoral Affairs Commission (Nominations Advisory Committees (District Councils)) Regulation (Cap. 541 sub. leg. E) | Section 5(2)
 
-18. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg. F) | Sections 12(7) and (8), 20(2), 26(6) and (9), 28(5) and (12), 45(8), 66(6) and (9) and 102(4) (11 of 2012 s. 24)
+18. | Electoral Affairs Commission (Electoral Procedure) (District Councils) Regulation (Cap. 541 sub. leg. F) | Section 12(7) and (8), section 20(2), section 45(8) and (10) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on polling day), section 66(6) and (9) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on polling day) and section 102(4) (12 of 2014 s. 52)
 
 18A. | Electoral Affairs Commission (Nominations Advisory Committees (Election Committee)) Regulation (Cap. 541 sub. leg. H) | Section 6(4) (L.N. 268 of 2001)
 
