@@ -110,19 +110,21 @@
 
     - (f) is removed from office by resolution of the corporation.
 
-  - (3) Every member of the management committee appointed under section 14(2) or paragraph 2(1)(b), 5(2)(a), 6 or 6A shall, within 21 days after the appointment, lodge with the secretary of the management committee a declaration, in such form as the Land Registrar may specify, stating that he does not fall within the description of subparagraph (1)(a) or (b). (Added 5 of 2007 s. 27)
+- (3) Every member of the management committee appointed under section 14(2) or paragraph 2(1)(b), 5(2)(a), 6 or 6A shall, within 21 days after the appointment, lodge with the secretary of the management committee a statement, in such form as the Land Registrar may specify, stating that he does not fall within the description of subparagraph (1)(a) or (b). (Added 5 of 2007 s. 27. Amended 18 of 2014 s. 56)
 
   - (4) A member of the management committee who fails to comply with subparagraph (3) shall cease to be such member. (Added 5 of 2007 s. 27)
 
-  - (5) Subject to subparagraph (7), where a change occurs in any matter stated in a declaration referred to in subparagraph (3), the person who made the declaration shall, within 21 days after the change occurs, lodge with the secretary of the management committee another declaration, in such form as the Land Registrar may specify, stating the particulars of the change. (Added 5 of 2007 s. 27)
+  - (5) Subject to subparagraph (7), where a change occurs in any matter stated in a statement referred to in subparagraph (3), the person who made the statement shall, within 21 days after the change occurs, lodge with the secretary of the management committee another statement, in such form as the Land Registrar may specify, stating the particulars of the change. (Added 5 of 2007 s. 27. Amended 18 of 2014 s. 56)
 
   - (6) The secretary of the management committee shall—
 
-    - (a) after receiving a declaration by virtue of subparagraph (3) from a member of the management committee appointed under paragraph 2(1)(b), cause the declaration to be lodged with the Land Registrar within the period of 28 days referred to in section 7(1);
+    - (a) after receiving a statement by virtue of subparagraph (3) from a member of the management committee appointed under paragraph 2(1)(b), cause the statement to be lodged with the Land Registrar within the period of 28 days referred to in section 7(1);
 
-    - (b) within 28 days after receiving a declaration by virtue of subparagraph (3) from a member of the management committee appointed under section 14(2) or paragraph 5(2)(a), 6 or 6A, or by virtue of subparagraph (5), lodge with the Land Registrar the declaration. (Added 5 of 2007 s. 27)
+    - (b) within 28 days after receiving a statement by virtue of subparagraph (3) from a member of the management committee appointed under section 14(2) or paragraph 5(2)(a), 6 or 6A, or by virtue of subparagraph (5), lodge with the Land Registrar the statement. (Added 5 of 2007 s. 27. Amended 18 of 2014 s. 56)
 
-  - (7) Where the person referred to in subparagraph (5) is the secretary of the management committee, that person shall, within 28 days after the relevant change occurs, lodge with the Land Registrar a declaration, in such form as the Land Registrar may specify, stating the particulars of the change. (Added 5 of 2007 s. 27)
+  - (7) Where the person referred to in subparagraph (5) is the secretary of the management committee, that person shall, within 28 days after the relevant change occurs, lodge with the Land Registrar a statement, in such form as the Land Registrar may specify, stating the particulars of the change. (Added 5 of 2007 s. 27. Amended 18 of 2014 s. 56)
+
+  - (8) Where, after the commencement* of Part 9 of the Statute Law (Miscellaneous Provisions) Ordinance 2014 (18 of 2014), a change occurs in any matter stated in a declaration lodged before the commencement* under subparagraph (3) that was in force immediately before the commencement*, the person who made the declaration must lodge a statement in accordance with subparagraph (5) or (7) as if that declaration were a statement lodged under subparagraph (3) on or after the commencement*. (Added 18 of 2014 s. 56)
 
 - 5.
 
@@ -335,3 +337,7 @@
   - 12. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail.
 
 - (Added 27 of 1993 s. 39) (Amended 27 of 1993 ss. 39 & 42)
+
+Editorial Note:
+
+* Commencement date: 5 January 2015
