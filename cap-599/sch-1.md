@@ -38,6 +38,8 @@ Scheduled Infectious Diseases
 
 - 15. Hantavirus infection (漢坦病毒感染)
 
+- 15A. Invasive pneumococcal disease (侵入性肺炎球菌病) (Added L.N. 2 of 2015)
+
 - 16. (Repealed L.N. 23 of 2014)
 
 - 17. Japanese encephalitis (日本腦炎)
@@ -78,7 +80,9 @@ Scheduled Infectious Diseases
 
 - 33. Scarlet fever (猩紅熱)
 
-- 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症) 34AA. (Repealed L.N. 104 of 2013)
+- 34. Severe Acute Respiratory Syndrome (嚴重急性呼吸系統綜合症)
+
+- 34AA. (Repealed L.N. 104 of 2013)
 
 - 34A. Shiga toxin-producing Escherichia coli infection (產志賀毒素大腸桿菌感染) (Added L.N. 101 of 2011)
 
