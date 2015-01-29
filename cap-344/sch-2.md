@@ -1,4 +1,4 @@
-# SCHEDULE 2 COMPOSITION AND PROCEDURE OF MANAGEMENT COMMITTEE
+# Schedule 2 Composition And Procedure of Management Committee
 
 [ss. 2, 6, 7, 14, 18, 34K & 42 & Schedule 3] (Amended 5 of 2007 s. 27)
 
@@ -22,7 +22,7 @@
 
 - 1A.
 
-  - In paragraph 1, “flats” (單位) does not mean any garage, carpark or carport.
+  - In paragraph 1, flats (單位) does not mean any garage, carpark or carport.
 
 - (Added 69 of 2000 s. 23)
 
@@ -110,7 +110,7 @@
 
     - (f) is removed from office by resolution of the corporation.
 
-- (3) Every member of the management committee appointed under section 14(2) or paragraph 2(1)(b), 5(2)(a), 6 or 6A shall, within 21 days after the appointment, lodge with the secretary of the management committee a statement, in such form as the Land Registrar may specify, stating that he does not fall within the description of subparagraph (1)(a) or (b). (Added 5 of 2007 s. 27. Amended 18 of 2014 s. 56)
+  - (3) Every member of the management committee appointed under section 14(2) or paragraph 2(1)(b), 5(2)(a), 6 or 6A shall, within 21 days after the appointment, lodge with the secretary of the management committee a statement, in such form as the Land Registrar may specify, stating that he does not fall within the description of subparagraph (1)(a) or (b). (Added 5 of 2007 s. 27. Amended 18 of 2014 s. 56)
 
   - (4) A member of the management committee who fails to comply with subparagraph (3) shall cease to be such member. (Added 5 of 2007 s. 27)
 
@@ -260,13 +260,11 @@
 
 - (Added 5 of 2007 s. 27)
 
-  - 7. A management committee shall meet at least once in every period of 3 months.
+- 7. A management committee shall meet at least once in every period of 3 months. (Replaced 27 of 1993 s. 39)
 
-- (Replaced 27 of 1993 s. 39)
+- 8.
 
-  - 8.
-
-    - (1) A meeting of a management committee—
+  - (1) A meeting of a management committee—
 
     - (a) may be convened at any time by the chairman or the vice-chairman (if any) in the absence of the chairman; and
 
@@ -274,7 +272,7 @@
 
   - (2) The secretary shall, at least 7 days before the date of the meeting of the management committee, give notice of the meeting to each member of the management committee and (if the treasurer of the management committee is not a member of the management committee) the treasurer of the management committee, and display the notice of meeting in a prominent place in the building. (Replaced 5 of 2007 s. 27)
 
-    - (2AA) The notice of meeting shall specify—
+  - (2AA) The notice of meeting shall specify—
 
     - (a) the date, time and place of the meeting; and
 
@@ -290,13 +288,11 @@
 
   - (3) (Repealed 5 of 2007 s. 27)
 
-  - 9. The quorum at a meeting of the management committee shall be 50% of the members of the management committee (rounded up to the nearest whole number) or 3 such members, whichever is the greater.
+- 9. The quorum at a meeting of the management committee shall be 50% of the members of the management committee (rounded up to the nearest whole number) or 3 such members, whichever is the greater. (Replaced 27 of 1993 s. 39)
 
-- (Replaced 27 of 1993 s. 39)
+- 10.
 
-  - 10.
-
-    - (1) A meeting of a management committee shall be presided over by—
+  - (1) A meeting of a management committee shall be presided over by—
 
     - (a) the chairman; or
 
@@ -320,24 +316,22 @@
 
   - (1) The minutes certified in accordance with paragraph 10(4A) shall be kept by the management committee for such period, being not less than 6 years, as the corporation may determine.
 
-  - (2) If the tenants’ representative, an owner, a registered mortgagee or any person duly authorized in writing in that behalf by an owner or registered mortgagee requests in writing the corporation to supply him with copies of any minutes certified in accordance with paragraph 10(4A), the secretary shall, on the payment of such reasonable copying charge as the management committee may determine, supply such copies to that person.
+    - (2) If the tenants’ representative, an owner, a registered mortgagee or any person duly authorized in writing in that behalf by an owner or registered mortgagee requests in writing the corporation to supply him with copies of any minutes certified in accordance with paragraph 10(4A), the secretary shall, on the payment of such reasonable copying charge as the management committee may determine, supply such copies to that person.
 
 - (Added 5 of 2007 s. 27)
 
-  - 11.
+- 11.
 
-    - (1)
+  - (1)
 
-      - Where an owner or other person, being a body corporate, is appointed as a member of a management committee under this Schedule that body corporate may appoint a director or other officer of that body or some other individual to act as its representative (“authorized representative” (獲授權代表)) for the purposes of this Ordinance as if the authorized representative were a member of the management committee in his own right and paragraph 4(1), (2)(a), (b), (c), (d) and (f), (3), (4) and (5) shall apply to the authorized representative. (Amended 5 of 2007 s. 27)
+    - Where an owner or other person, being a body corporate, is appointed as a member of a management committee under this Schedule that body corporate may appoint a director or other officer of that body or some other individual to act as its representative (authorized representative (獲授權代表)) for the purposes of this Ordinance as if the authorized representative were a member of the management committee in his own right and paragraph 4(1), (2)(a), (b), (c), (d) and (f), (3), (4) and (5) shall apply to the authorized representative. (Amended 5 of 2007 s. 27)
 
   - (2) If an authorized representative ceases to be a member of a management committee under paragraph 4(2)(a), (b), (c), (d) or (f) or (4), the body corporate may appoint another authorized representative in his place, and paragraph 4(1), (2)(a), (b), (c), (d) and (f), (3), (4) and (5) shall apply to that other authorized representative. (Replaced 5 of 2007 s. 27)
 
 - (Added 27 of 1993 s. 39)
 
-  - 12. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail.
-
-- (Added 27 of 1993 s. 39) (Amended 27 of 1993 ss. 39 & 42)
+- 12. In the event of any inconsistency between this Schedule and the terms of a deed of mutual covenant or any other agreement, this Schedule shall prevail. (Added 27 of 1993 s. 39) (Amended 27 of 1993 ss. 39 & 42) (Format changes—E.R. 1 of 2015)
 
 Editorial Note:
 
-* Commencement date: 5 January 2015
+* Commencement date: 5 January 2015.

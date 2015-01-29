@@ -150,7 +150,7 @@ Item | Ordinance | Decision
 
 73. | Pesticides Ordinance (Cap. 133) | A decision of the Director of Agriculture, Fisheries and Conservation— (a) to refuse to register a pesticide under section 5(3)(b); (b) to register a pesticide subject to conditions under section 5(5); (c) to cancel or suspend the registration of a pesticide, or to modify, add to or cancel any condition, under section 6; (d) to refuse to issue a licence or permit under section 9(2)(b); (e) to issue a licence subject to conditions under section 9(5); (f) to issue a permit subject to conditions under section 9(7); (g) to vary the particulars of a licence or permit, or to modify, add to or cancel the conditions of a licence or permit, under section 9(8); (h) to cancel or suspend a licence under section 10; (i) to cancel a permit under section 11; (j) to confirm or vary under section 13(3)(b) the directions given under section 13(1). (Added 14 of 2013 s. 28)
 
-(Amended E.R. 1 of 2012)
+(Amended E.R. 1 of 2012; E.R. 1 of 2015)
 
 Editorial Note:
 

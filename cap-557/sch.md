@@ -28,7 +28,7 @@ PROVISIONS OF VIENNA CONVENTION ON CONSULAR RELATIONS HAVING THE FORCE OF LAW IN
 
     - (j) “consular premises” means the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used exclusively for the purposes of the consular post;
 
-    - (k) “consular archives” includes all the papers, documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card-indices and any article or furniture intended for their protection or safe-keeping.
+    - (k) “consular archives” includes all the papers, documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card-indices and any article of furniture intended for their protection or safe-keeping.
 
   - 2. Consular officers are of two categories, namely career consular officers and honorary consular officers. The provisions of Chapter II of the present Convention apply to consular posts headed by career consular officer; the provisions of Chapter III govern consular posts headed by honorary consular officers.
 
@@ -70,9 +70,11 @@ PROVISIONS OF VIENNA CONVENTION ON CONSULAR RELATIONS HAVING THE FORCE OF LAW IN
 
   - 2. The full name of the acting head of post shall be notified either by the diplomatic mission of the sending State or, if that State has no such mission in the receiving State, by the head of the consular post, or, if he is unable to do so, by any competent authority of the sending State, to the Ministry for Foreign Affairs of the receiving State or to the authority designated by that Ministry. As a general rule, this notification shall be given in advance. The receiving State may make the admission as acting head of post of a person who is neither a diplomatic agent nor a consular officer of the sending State in the receiving State conditional on its consent.
 
-  - 3. The competent authorities of the receiving State shall afford assistant and protection to the acting head of post. While he is in charge of the post, the provisions of the present Convention shall apply to him on the same basis as to the head of the consular post concerned. The receiving State shall not, however, be obliged to grant to an acting head of post any facility, privilege or immunity which the head of the consular post enjoys only subject to conditions not fulfilled by the acting head of post.
+  - 3. The competent authorities of the receiving State shall afford assistance and protection to the acting head of post. While he is in charge of the post, the provisions of the present Convention shall apply to him on the same basis as to the head of the consular post concerned. The receiving State shall not, however, be obliged to grant to an acting head of post any facility, privilege or immunity which the head of the consular post enjoys only subject to conditions not fulfilled by the acting head of post.
 
   - 4. When, in the circumstances referred to in paragraph 1 of this Article, a member of the diplomatic staff of the diplomatic mission of the sending State in the receiving State is designated by the sending State as an acting head of post, he shall, if the receiving State does not object thereto, continue to enjoy diplomatic privileges and immunities.
+
+- (Amended E.R. 1 of 2015)
 
 - ARTICLE 17 Performance of diplomatic acts by consular officers
 

@@ -1,30 +1,34 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2 & 5]
 
-FORMS
+Forms
 
-FORM 1 AFFIDAVIT OF IDENTITY | [sections 2(3) & (4)]
+Form 1 | [s. 2(3) & (4)]
+
+AFFIDAVIT OF IDENTITY
 
 I, . of ., Hong Kong, Solicitor, make oath and say (or solemnly and sincerely declare and affirm) as follows—
 
-- 1. The photograph attached hereto and marked “.” is a true likeness of . of ., Hong Kong, the applicant herein.
+1.The photograph attached hereto and marked “.” is a true likeness of . of ., Hong Kong, the applicant herein.
 
-- 2. I have examined [Hong Kong Identity Card No. .] [passport No. .]* of the said . and I am satisfied that he is the applicant in these proceedings.
+2.I have examined [Hong Kong Identity Card No. .] [passport No. .]* of the said . and I am satisfied that he is the applicant in these proceedings.
 
-- SWORN/DECLARED at . Hong Kong | }
+SWORN/DECLARED at . Hong Kong this . day of . | }
 
-- this . day of .
+Before me
 
-- Before me Commissioner for Oaths/Solicitor
+Commissioner for Oaths/Solicitor
 
 * Delete where inappropriate.
 
-_ FORM 2 ROLL OF BARRISTERS | [section 5]
+_
+
+Form 2 | [s. 5]
+
+ROLL OF BARRISTERS
 
 . was admitted as a barrister of the High Court of the Hong Kong Special Administrative Region on the . day of .
-
-.
 
 Registrar, High Court, HKSAR.
 

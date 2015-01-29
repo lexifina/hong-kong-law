@@ -2,4 +2,6 @@ INLAND REVENUE (DOUBLE TAXATION RELIEF AND PREVENTION OF FISCAL EVASION WITH RES
 
 (Cap. 112, section 49)
 
+(Enacting provision omitted—E.R. 1 of 2015)
+
 [25 June 2009]

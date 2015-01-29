@@ -1,9 +1,9 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 2]
 
-FEES
+Fees
 
 Item | Section | Description | Payee | Fee $
 
-1. | 2(1) | Filing of notice of motion for admission as a barrister | Registrar | 1135
+1. | 2(1) | Filing of notice of motion for admission as a barrister | Registrar | 1,135

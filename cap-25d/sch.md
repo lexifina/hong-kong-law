@@ -1,4 +1,4 @@
-# SCHEDULE
+# Schedule
 
 FORM 1 | [rule 4(2)]
 
@@ -20,11 +20,7 @@ _
 
 FORM 2 | [rule 7]
 
-LABOUR TRIBUNAL (SUITORS’ FUNDS) RULES
-
-Declaration
-
-IN THE LABOUR TRIBUNAL (Title of cause or matter. No. of ). Ledger account
+LABOUR TRIBUNAL (SUITORS’ FUNDS) RULES Declaration IN THE LABOUR TRIBUNAL (Title of cause or matter. No. of ). Ledger account
 
 (if the same as the cause, state as above).
 

@@ -1,8 +1,10 @@
-# SCHEDULE 12
+# Schedule 12
 
 [ss. 37 & 43]
 
-FACILITIES TO WHICH SECTION 43 APPLIES
+Facilities to which Section 43 Applies
+
+(Format changes—E.R. 1 of 2015)
 
 Item | Name | Address | Number of drawing or plan held by the Director by which boundaries of the facility are delineated
 

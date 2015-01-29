@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [s. 5]
 
-SPECIES REFERRED TO IN SECTION 5
+Species Referred to in Section 5
 
 Item | Species | Limit on quantity
 
@@ -20,4 +20,4 @@ Item | Species | Limit on quantity
 
 7. | Any species of the genus Aquilaria <agarwood> and Gyrinops (L.N. 97 of 2014) | Up to 1 kilogram of woodchips (i.e. wood that has been reduced to small pieces), 24 millilitres of oil and 2 sets of beads or prayer beads (or 2 necklaces or bracelets) per person
 
-Note: In the English text of this Schedule, any common name in English of a scientific name, if known, is included within angle brackets (< >) after the scientific name. In the Chinese text of this Schedule, any common name in Chinese of a scientific name or the Chinese translation of the scientific name, if known, is included within angle brackets (< >) after the scientific name.
+Note: | In the English text of this Schedule, any common name in English of a scientific name, if known, is included within angle brackets (< >) after the scientific name. In the Chinese text of this Schedule, any common name in Chinese of a scientific name or the Chinese translation of the scientific name, if known, is included within angle brackets (< >) after the scientific name.

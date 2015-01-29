@@ -2,7 +2,7 @@
 
 (1)
 
-- In this section “inspector” (調查員) means an inspector appointed under section 8AA.
+- In this section inspector (調查員) means an inspector appointed under section 8AA.
 
 (2) The Council may direct an inspector to assist it in gathering evidence in respect of a matter the Council is considering for the purpose of deciding whether or not it should be submitted to the Tribunal Convenor of the Solicitors Disciplinary Tribunal Panel.
 

@@ -4,15 +4,17 @@
 
 ARTICLES EXEMPTED BY REGULATION 8 FROM THE PROVISIONS OF THE ORDINANCE AND OF THESE REGULATIONS
 
-GROUP I GENERAL EXEMPTIONS
+- GROUP I GENERAL EXEMPTIONS
 
 Adhesives; anti-fouling compositions; builders’ materials; ceramics; distempers; electrical valves; enamels; explosives; fillers; fireworks; fluorescent lamps; glazes; glues; inks; lacquer solvents; loading materials; matches; motor fuels and lubricants; paints other than pharmaceutical paints; photographic paper; pigments; plastics; propellants; rubber; varnishes
 
 (L.N. 195 of 1977; L.N. 262 of 1995)
 
-GROUP II SPECIAL EXEMPTIONS
+- GROUP II SPECIAL EXEMPTIONS
 
-- DIVISION A (L.N. 41 of 2007)
+- DIVISION A
+
+(L.N. 41 of 2007)
 
 Poison | Substance or article in which exempted
 
@@ -30,13 +32,11 @@ Pomegranate, alkaloids of | Pomegranate bark
 
 Stavesacre, alkaloids of | Soaps; ointments; lotions for external use
 
-para-Aminobenzenesulphonamide; its salts; derivatives of para-aminobenzenesulphonamide having any of the hydrogen atoms of the para amino group or of the sulphonamide group substituted by another radical; their salts | Feeding stuffs containing not more than 0.5% of total sulphonamides
+para-Aminobenzene-sulphonamide; its salts; derivatives of para-aminobenzene-sulphonamide having any of the hydrogen atoms of the para amino group or of the sulphonamide group substituted by another radical; their salts | Feeding stuffs containing not more than 0.5% of total sulphonamides
 
-Androgenic, oestrogenic and progestational substances, the following— Benzoestrol | Preparations intended for external application only; except preparations containing more than 4 milligrammes of oestrogenic substance per 100 grammes of inert substance and preparations containing testosterone or its esters (L.N. 90 of 2009)
+Androgenic, oestrogenic and progestational substances, the following— Benzoestrol Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters | Preparations intended for external application only; except preparations containing more than 4 milligrammes of oestrogenic substance per 100 grammes of inert substance and preparations containing testosterone or its esters (L.N. 90 of 2009)
 
-Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters
-
-Steroid compounds with androgenic or oestrogenic or progestational activity; their esters | preparations intended to be taken orally for contraceptive purposes only which contain not more than the following per dose— 0.15 milligrammes Desogestrel; 3.00 milligrammes Drospirenone; 0.05 milligrammes Ethinyloestradiol; 0.10 milligrammes Gestodene; 0.25 milligrammes Levonorgestrel; 2.50 milligrammes Lynoestrenol; 0.05 milligrammes Mestranol; 1.00 milligrammes Norethisterone; 0.25 milligrammes Norgestimate; and 0.50 milligrammes Norgestrel, multivitamin preparations with or without minerals containing not more than 0.01 mg. ethinyloestradiol or not more than 2.5 mg. Methyltestosterone or both in each dosage form (L.N. 369 of 1980; L.N. 112 of 2002)
+Steroid compounds with androgenic oroestrogenic or progestational activity; their esters | Preparations intended to be taken orally for contraceptive purposes only which contain not more than the following per dose— 0.15 milligrammes Desogestrel; 3.00 milligrammes Drospirenone; 0.05 milligrammes Ethinyloestradiol; 0.10 milligrammes Gestodene; 0.25 milligrammes Levonorgestrel; 2.50 milligrammes Lynoestrenol; 0.05 milligrammes Mestranol; 1.00 milligrammes Norethisterone; 0.25 milligrammes Norgestimate; and 0.50 milligrammes Norgestrel, multivitamin preparations with or without minerals containing not more than 0.01 mg. ethinyloestradiol or not more than 2.5 mg. Methyltestosterone or both in each dosage form (L.N. 369 of 1980; L.N. 112 of 2002)
 
 Antihistamine substances; their salts; any compound with any substance falling within this item | Preparations intended for external application only and preparations containing not more than 1% of anti-histamine substances for application in the nose or eye
 
@@ -102,11 +102,13 @@ Quinine; its salts; its derivatives; their salts | Preparations containing not m
 
 Sodium ethyl mercurithio-salicylate | Therapeutic substances containing less than 0.1% of sodium ethyl mercurithiosalicylate as a preservative
 
-Sodium fluoride | Substances containing less than 3% of sodium fluoride as a preservative; dentifrices containing not more than 0.33% of sodium fluoride; mouth wash tables containing not more than 0.2% of sodium fluoride and liquid mouth washes containing not more than 0.05% thereof; tablets containing not more than 0.016%, weight in weight, of sodium fluoride and intended, when chewed to prevent tooth decay (L.N. 202 of 1999)
+Sodium fluoride | Substances containing less than 3% of sodium fluoride as a preservative; dentifrices containing not more than 0.33% of sodium fluoride; mouth wash tablets containing not more than 0.2% of sodium fluoride and liquid mouth washes containing not more than 0.05% thereof; tablets containing not more than 0.016%, weight in weight, of sodium fluoride and intended, when chewed to prevent tooth decay (L.N. 202 of 1999; E.R. 1 of 2015)
 
-(L.N. 138 of 2000; L.N. 41 of 2007)
+(L.N. 138 of 2000)
 
-- DIVISION B (L.N. 41 of 2007)
+- DIVISION B
+
+(L.N. 41 of 2007)
 
 Acetanilide; alkyl acetanilides | Substances not being preparations for the treatment of human ailments
 
@@ -120,7 +122,7 @@ Barium, salts of | Witherite other than finely ground witherite; barium carbonat
 
 gamma-Benzene hexachloride | Substances containing not more than 5% by weight of gamma-benzene hexachloride; when used in agriculture or horticulture (L.N. 195 of 1977)
 
-Diamines, the following; their salts-phenylene diamines; toluene diamines; other alkylated-benzene diamines | Substances other than preparations for the dyeing of hair
+Diamines, the following;their salts-phenylene diamines; toluene diamines; other alkylated-benzene diamines | Substances other than preparations for the dyeing of hair
 
 Dinitrophenols | Substances not being preparations for the treatment of human ailments
 
@@ -142,7 +144,7 @@ Nicotine | Tobacco; preparations in aerosol dispensers containing not more than 
 
 Nitric acid | Substances containing less than 9%, weight in weight, of nitric acid (HNO2)
 
-Nitrobenzene | Substances containing less than 0.1% of nitrobenzene; soaps containing less than 1 % of nitrobenzene; polishes
+Nitrobenzene | Substances containing less than 0.1% of nitrobenzene; soaps containing less than 1% of nitrobenzene; polishes
 
 para-Nitrobenzyl cyanide | Photographic solutions containing less than the equivalent of 0.1%, weight in weight, of hydrocyanic acid (HCN)
 

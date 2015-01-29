@@ -2,7 +2,7 @@
 
 [ss. 2, 3 & 50]
 
-- PART 1 TYPE 2 CHEMICALS
+- Part 1 Type 2 Chemicals
 
 Item | Chemical | CAS registry number
 
@@ -54,23 +54,15 @@ Item | Chemical | CAS registry number
 
 (Amended L.N. 73 of 2014)
 
-- PART 2 EXTENT TO WHICH PART 2 OF ORDINANCE DOES NOT
+- Part 2 Extent to which Part 2 of Ordinance does not Apply to Type 2 Chemicals
 
-- APPLY TO TYPE 2 CHEMICALS
+  - 1. Interpretation of this Part In this Part—
 
-  - 1.
+    - article in transit (過境物品) has the meaning assigned to it in section 2 of the Import and Export Ordinance (Cap. 60);
 
-  - Interpretation of this Part In this Part—
+    - manufactured product (製成品) means a product that, during its manufacture, is formed into a specific physical shape or design and has an end use function wholly or partly dependent on its shape or design.
 
-    - “article in transit” (過境物品) has the meaning assigned to it in section 2 of the Import and Export Ordinance (Cap. 60);
-
-    - “manufactured product” (製成品) means a product that, during its manufacture, is formed into a specific physical shape or design and has an end use function wholly or partly dependent on its shape or design.
-
-  - 2. Limitations on application of sections 6(1),
-
-  - 7(1), 8(1) and 9(1) of Ordinance to
-
-  - Type 2 chemicals
+  - 2. Limitations on application of sections 6(1), 7(1), 8(1) and 9(1) of Ordinance to Type 2 chemicals
 
     - (1) Sections 6(1), 7(1), 8(1) and 9(1) of this Ordinance do not apply to a Type 2 chemical if the chemical is, or is a part of, any of the following things—
 
@@ -93,3 +85,5 @@ Item | Chemical | CAS registry number
     - (2) Sections 7(1), 8(1) and 9(1) of this Ordinance do not apply to a Type 2 chemical if the chemical is a constituent element of a manufactured product.
 
     - (3) Sections 7(1) and 8(1) of this Ordinance do not apply to a Type 2 chemical if the chemical is, or is a part of, an article in transit.
+
+  - (Format changes—E.R. 1 of 2015)

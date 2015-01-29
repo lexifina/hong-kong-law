@@ -1,24 +1,36 @@
-# SCHEDULE 3
+# Third Schedule
 
 [s. 45]
 
-PROVISIONS FOR DETERMINING AMOUNT OF SHARE CAPITAL HELD THROUGH OTHER BODIES CORPORATE
+Provisions for Determining Amount of Share Capital Held Through Other Bodies Corporate
+
+(Format changes—E.R. 1 of 2015)
 
 - 1. Where, in the case of a number of bodies corporate, the first directly owns share capital of the second and the second directly owns share capital of the third, then, for the purposes of this Schedule, the first shall be deemed to own share capital of the third through the second, and, if the third directly owns share capital of a fourth, the first shall be deemed to own share capital of the fourth through the second and third, and the second shall be deemed to own share capital of the fourth through the third, and so on.
 
 - 2. In this Schedule—
 
-  - (a) any number of bodies corporate of which the first directly owns share capital of the next and the next directly owns share capital of the next but one and so on, and, if they are more than 3, any 3 or more of them, are referred to as “a series”;
+  - (a)
+
+    - any number of bodies corporate of which the first directly owns share capital of the next and the next directly owns share capital of the next but one and so on, and, if they are more than 3, any 3 or more of them, are referred to as a series;
 
   - (b) in any series—
 
-    - (i) that body corporate which owns share capital of another through the remainder is referred to as “the first owner”;
+    - (i)
 
-    - (ii) that other body corporate the share capital of which is so owned is referred to as “the last owned body corporate”;
+      - that body corporate which owns share capital of another through the remainder is referred to as the first owner;
 
-    - (iii) the remainder, if one only, is referred to as an “intermediary” and, if more than one, referred to as “a chain of intermediaries”;
+    - (ii)
 
-  - (c) a body corporate in a series which directly owns share capital of another body corporate in the series is referred to as an “owner”;
+      - that other body corporate the share capital of which is so owned is referred to as the last owned body corporate;
+
+    - (iii)
+
+      - the remainder, if one only, is referred to as an intermediary and, if more than one, referred to as a chain of intermediaries;
+
+  - (c)
+
+    - a body corporate in a series which directly owns share capital of another body corporate in the series is referred to as an owner;
 
   - (d) any 2 bodies corporate in a series of which one owns share capital of the other directly, and not through one or more of the other bodies corporate in the series, are referred to as being directly related to one another.
 

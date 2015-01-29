@@ -330,7 +330,7 @@ DUPLICATE OR COUNTERPART of any instrument chargeable with any stamp duty | (A) 
 
 And see section 8 Note If in the case of a lease or agreement for a lease the stamp duty payable in respect thereof is limited in accordance with section 42(2) or 43(2) to 50% of the stamp duty chargeable thereon, the stamp duty chargeable on a duplicate or counterpart thereof shall be limited to 50% of the stamp duty otherwise chargeable under this head
 
-(Amended 29 of 1988 s. 2; 43 of 1991 s. 7; 85 of 1991 s. 6; 8 of 1992 s. 6; 36 of 1992 s. 3; 40 of 1992 s. 7; L.N. 50 of 1993; 31 of 1993 s. 2)
+(Amended 29 of 1988 s. 2; 43 of 1991 s. 7; 85 of 1991 s. 6; 8 of 1992 s. 6; 36 of 1992 s. 3; 40 of 1992 s. 7; L.N. 50 of 1993; 31 of 1993 s. 2) (Format changes—E.R. 1 of 2015)
 
 Editorial Note:
 

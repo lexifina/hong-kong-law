@@ -1,38 +1,44 @@
-# Schedule 2
+# Second Schedule
 
 [ss. 7 & 63]
 
-- PART 1 FORM
+(Format changes—E.R. 1 of 2015)
 
-- STAMP DUTY ORDINANCE
+- Part 1 Form STAMP DUTY ORDINANCE (section 7)
 
-- (section 7)
-
-- Licence No. .
+- Licence No..
 
 - No. of machine .
 
 - Licence to use a franking machine
 
-- LICENCE is hereby granted to .
+- LICENCE is hereby granted to
 
-- . . (hereinafter called the licensee) to use the above-numbered franking machine at . for the purpose of stamping instruments under section 5(4) of the Stamp Duty Ordinance in respect of stamp duty chargeable under head 2(4) in the First Schedule to that Ordinance.
+- (hereinafter called the licensee) to use the above-numbered franking machine at . for the purpose of stamping instruments under section 5(4) of the Stamp Duty Ordinance in respect of stamp duty chargeable under head 2(4) in the First Schedule to that Ordinance.
 
-  - 2. This licence is not transferable. Dated the day of , 19 . . Collector of Stamp Revenue. CONDITIONS
+- 2. | This licence is not transferable.
 
-  - 1. The machine shall not, except for the purpose of bringing it to the Stamp Office or with the permission of the Collector of Stamp Revenue, be moved from the address hereinbefore specified at which it may be used.
+- Dated the day of , 19 .
 
-  - 2. The licensee shall maintain the machine in good working order to the satisfaction of the Collector of Stamp Revenue and shall, not less than once in every 2 years and at such other times as the Collector of Stamp Revenue may require, have the machine inspected by the agents in Hong Kong of the manufacturers.
+- Collector of Stamp Revenue.
 
-  - 3. The licensee shall permit the Collector of Stamp Revenue or an officer of the Stamp Office authorized in writing by the Collector of Stamp Revenue to inspect the machine at such times as the Collector of Stamp Revenue thinks fit, and shall, for that purpose, allow the Collector of Stamp Revenue or the officer so authorized access to the place where the machine is kept.
+- CONDITIONS
 
-  - 4. No words, letters, or marks of any kind whatsoever, other than the stamp denoting the duty with which the instrument is chargeable and the date of stamping, shall be stamped on any instrument by means of the machine.
+- 1.The machine shall not, except for the purpose of bringing it to the Stamp Office or with the permission of the Collector of Stamp Revenue, be moved from the address hereinbefore specified at which it may be used.
 
-  - 5. Except with the written consent of the Collector of Stamp Revenue, the machine shall not be used to stamp any instrument other than those connected with the business of the licensee.
+- 2.The licensee shall maintain the machine in good working order to the satisfaction of the Collector of Stamp Revenue and shall, not less than once in every 2 years and at such other times as the Collector of Stamp Revenue may require, have the machine inspected by the agents in Hong Kong of the manufacturers.
 
-  - 6. The licensee shall, on the first day of each month (or if that day is not a working day, on the next working day), send to the Collector of Stamp Revenue, in such form as he may direct, notice of the value of the stamps impressed by means of the machine during the preceding month. (Amended 40 of 1992 s. 8)
+- 3.The licensee shall permit the Collector of Stamp Revenue or an officer of the Stamp Office authorized in writing by the Collector of Stamp Revenue to inspect the machine at such times as the Collector of Stamp Revenue thinks fit, and shall, for that purpose, allow the Collector of Stamp Revenue or the officer so authorized access to the place where the machine is kept.
 
-- PART 2 GENERAL PROVISIONS
+- 4.No words, letters, or marks of any kind whatsoever, other than the stamp denoting the duty with which the instrument is chargeable and the date of stamping, shall be stamped on any instrument by means of the machine.
+
+- 5.Except with the written consent of the Collector of Stamp Revenue, the machine shall not be used to stamp any instrument other than those connected with the business of the licensee.
+
+- 6.The licensee shall, on the first day of each month (or if that day is not a working day, on the next working day), send to the Collector of Stamp Revenue, in such form as he may direct, notice of the value of the stamps impressed by means of the machine during the preceding month.
+
+- (Amended 40 of 1992 s. 8)
+
+- Part 2 General Provisions
 
   - 1. Every licence shall—
 
