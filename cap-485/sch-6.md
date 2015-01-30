@@ -4,6 +4,8 @@
 
 Decisions which may be the Subject of an Appeal
 
+(Format changes—E.R. 1 of 2012)
+
 - 1. A decision of the Authority to reject an application for approval as an approved trustee. (Added 4 of 1998 s. 2)
 
 - 2. A decision of the Authority imposing conditions on an applicant for approval as an approved trustee. (Added 4 of 1998 s. 2)
@@ -19,6 +21,12 @@ Decisions which may be the Subject of an Appeal
 - 5. A decision of the Authority to refuse to register a provident fund scheme as an employer sponsored scheme or a master trust scheme. (Added 4 of 1998 s. 2)
 
 - 6. A decision of the Authority imposing conditions on an applicant for the registration of a provident fund scheme. (Added 4 of 1998 s. 2)
+
+- 6AA. A decision of the Authority to reject an application for—
+
+  - (a) the approval of a constituent fund of a registered scheme; or
+
+  - (b) the cancellation of approval granted in respect of a constituent fund of a registered scheme. (Added 1 of 2015 s. 19)
 
 - 6A. A decision of the Authority amending conditions imposed on the administration or marketing of a registered scheme. (Added 2 of 2002 s. 20)
 
@@ -68,4 +76,4 @@ Decisions which may be the Subject of an Appeal
 
   - (g) under section 34ZK(2) to revoke the approval of an individual as a responsible officer of a principal intermediary. (Added 16 of 2012 s. 22)
 
-- 16. A decision of the Authority under section 34ZW to make a disciplinary order. (Added 16 of 2012 s. 22) (Format changes—E.R. 1 of 2012)
+- 16. A decision of the Authority under section 34ZW to make a disciplinary order. (Added 16 of 2012 s. 22)

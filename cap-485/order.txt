@@ -73,6 +73,8 @@ s-020C.md
 s-021.md
 s-021A.md
 s-021B.md
+s-021BA.md
+s-021BB.md
 s-021C.md
 s-022.md
 s-022A.md
@@ -164,6 +166,7 @@ s-040.md
 s-041.md
 s-042.md
 s-042AA.md
+s-042AAB.md
 s-042AB.md
 s-042A.md
 s-042B.md
@@ -190,6 +193,7 @@ s-047.md
 s-047A.md
 s-047B.md
 s-047C.md
+s-047D.md
 s-048.md
 s-049.md
 sch-1.md

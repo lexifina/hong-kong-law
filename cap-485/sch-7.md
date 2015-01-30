@@ -1,9 +1,11 @@
 # Schedule 7
 
-[ss. 15, 43 & 48]
+[ss. 15 & 48]
 
-Age Specified for the Purposes of section 15(2)
+(Amended 1 of 2015 s. 20)
 
-60 years of age
+Age Specified for the Purposes of Section 15(2)
 
 (Format changes—E.R. 1 of 2012)
+
+60 years of age
