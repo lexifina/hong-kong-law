@@ -12,46 +12,80 @@ In this Schedule—
 
 - (c) a reference to a measurement of a vessel means the measurement as shown in its licence book or Certificate of Registry; and
 
-- (d)
+- (d) “month” (月) means a calendar month.
 
-  - “month” (月) means a calendar month.
+$
 
-  - $
+1. | Berthing Permit—
 
-  - 1. | Berthing Permit—
+(a) | Daily Fees—
 
-  - (a) Daily Fees— (i) for each 8 m in length of a vessel to be berthed alongside the seawall . (ii) for each 8 m in breadth of a vessel to be berthed end on to the seawall . (b) Daily Surcharge— (i) for each 8 m in length of a vessel to be berthed alongside the seawall for the 1st and 2nd surcharged days per day . and for the 3rd and subsequent surcharged days per day . (ii) for each 8 m in breadth of a vessel to be berthed end on to the seawall for the 1st and 2nd surcharged days per day . and for the 3rd and subsequent surcharged days per day . | 60 60 365 730 365 730
+(i) | for each 8 m in length of a vessel to be berthed alongside the seawall | 60
 
-  - 2. | (Repealed L.N. 71 of 1999)
+(ii) | for each 8 m in breadth of a vessel to be berthed end on to the seawall . | 60
 
-  - 3. | Cargo Depositing Permit— (a) for China trade cargo per tonne . (b) for other cargo or cargo container per m2 of land occupied . | 3.5 90
+(b) | Daily Surcharge—
 
-  - 4. | Mobile Crane Permit per month . | 9680
+(i) | for each 8 m in length of a vessel to be berthed alongside the seawall for the 1st and 2nd surcharged days per day | 365
 
-  - 5. | Fork Lift Truck Permit— the lesser of— (a) per month . (b) per day . | 7870 400
+and for the 3rd and subsequent surcharged days per day | 730
 
-  - 6. | Mobile Office Permit— (a) standard wooden per month . (b) standard 20 ft. container per month . | 2000 4540
+(ii) | for each 8 m in breadth of a vessel to be berthed end on to the seawall for the 1st and 2nd surcharged days per day | 365
 
-  - 7. | Mobile Shelter Permit per month . | 570
+and for the 3rd and subsequent surcharged days per day | 730
 
-  - 8.-9. | (Repealed L.N. 71 of 1999)
+2. | (Repealed L.N. 71 of 1999)
 
-  - 10. | For the release of any cargo or cargo container seized under section 5 of the Ordinance per m2 of land occupied per day . | 280
+3. | Cargo Depositing Permit—
 
-  - 11. | For the issue of any permission in writing under regulation 6AA . | 305
+(a) | for China trade cargo per tonne | 3.5
 
-  - 12. | For the issue of a duplicate or replacement ticket, permit or other written permission . | 150
+(b) | for other cargo or cargo container per m2 of land occupied | 90
 
-  - 13. | For the issue of a permission for loading or unloading cargo or cargo containers after operation hours . | 245
+4. | Mobile Crane Permit
 
-  - 14. | Vanning and Devanning Permit per cargo container per operation per day . | 365
+per month | 9,680
 
-  - 15. | Vehicle Entry Ticket—
+5. | Fork Lift Truck Permit—
 
-  - (a) for each hour during the period from 8.00 a.m. to 6.00 p.m. . | 33
+the lesser of—
 
-  - (b) for each hour during the period from 6.00 p.m. to 8.00 a.m. . but each ticket is subject to a maximum of (L.N. 71 of 1999) . | 33 85
+(a) | per month | 7,870
 
-  - 16. | Operation Area Permit per m2 of area per month (L.N. 71 of 1999) . | 10
+(b) | per day | 400
 
-  - (L.N. 252 of 1992; L.N. 338 of 1993; L.N. 419 of 1993; L.N. 513 of 1994; L.N. 321 of 1995; L.N. 480 of 1995; L.N. 71 of 1999; L.N. 279 of 1999)
+6. | Mobile Office Permit—
+
+(a) | standard wooden per month | 2,000
+
+(b) | standard 20 ft. container per month | 4,540
+
+7. | Mobile Shelter Permit
+
+per month | 570
+
+8.-9. | (Repealed L.N. 71 of 1999)
+
+10. | For the release of any cargo or cargo container seized under section 5 of the Ordinance per m2 of land occupied per day | 280
+
+11. | For the issue of any permission in writing under regulation 6AA | 305
+
+12. | For the issue of a duplicate or replacement ticket, permit or other written permission | 150
+
+13. | For the issue of a permission for loading or unloading cargo or cargo containers after operation hours | 245
+
+14. | Vanning and Devanning Permit per cargo container per operation per day | 365
+
+15. | Vehicle Entry Ticket—
+
+(a) | for each hour during the period from 8.00 a.m. to 6.00 p.m. | 33
+
+(b) | for each hour during the period from 6.00 p.m. to 8.00 a.m. | 33
+
+but each ticket is subject to a maximum of (L.N. 71 of 1999) | 85
+
+16. | Operation Area Permit
+
+per m2 of area per month (L.N. 71 of 1999) | 10.5
+
+(L.N. 252 of 1992; L.N. 338 of 1993; L.N. 419 of 1993; L.N. 513 of 1994; L.N. 321 of 1995; L.N. 480 of 1995; L.N. 71 of 1999; L.N. 279 of 1999; L.N. 148 of 2014)
