@@ -1,8 +1,10 @@
-# SCHEDULE 1
+# Schedule 1
 
 [s. 73]
 
-MICRO-ORGANISMS
+Micro-organisms
+
+(L.N. 150 of 2014)
 
 - 1. Application
 

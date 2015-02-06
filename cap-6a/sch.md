@@ -1,10 +1,10 @@
-# SCHEDULE
+# Schedule
 
 [rule 32]
 
-REGULATIONS AS TO COSTS
+Regulations as to Costs
 
-(Adaptation amendments retroactively made - see 25 of 1998 s. 2)
+(L.N. 150 of 2014)
 
 - 1. The scale of costs and the amount and the mode of taxation thereof shall be that applicable from time to time in the original jurisdiction of the Court of First Instance. (25 of 1998 s. 2)
 

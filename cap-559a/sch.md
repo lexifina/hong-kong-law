@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
-[rules 2 & 4]
+[rules 2 & 4] (L.N. 150 of 2014)
 
-FEES
+Fees
 
 Fee No. | Matter or proceeding | Amount
 
@@ -73,3 +73,7 @@ Fee No. | Matter or proceeding | Amount
 33. | Notice of opposition under rule 102(3) | $800
 
 34. | Notice under rule 122 to have the registrability of a mark determined in accordance with the Ordinance | $900
+
+Editorial Note:
+
+* (L.N. 150 of 2014)

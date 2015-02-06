@@ -30,7 +30,7 @@ OFFENCES TO WHICH DEFENDANT MAY PLEAD GUILTY BY LETTER
 
 - (Replaced L.N. 229 of 1984)
 
-- 4. Public Health and Urban Services Any offence against section 9 (Prevention of obstruction) of the Public Markets Regulation (Cap. 132 sub. leg. BO). (Amended 10 of 1986 s. 32; 78 of 1999 s. 7)
+- 4. Public Health and Urban Services Any offence against section 9 (Prevention of obstruction) of the Public Markets Regulation (Cap. 132 sub. leg. BO). (Amended 10 of 1986 s. 32; 78 of 1999 s. 7; L.N. 150 of 2014)
 
 - 5. Tramway
 
@@ -46,7 +46,7 @@ OFFENCES TO WHICH DEFENDANT MAY PLEAD GUILTY BY LETTER
 
 - 8. (Repealed 23 of 2002 s. 89)
 
-- 9. Immigration An offence against section 17C(3) of the Immigration Ordinance (Cap. 115). (Added L.N. 317 of 1980)
+- 9. Immigration An offence against section 17C(3) of theImmigration Ordinance (Cap. 115). (Added L.N. 317 of 1980)
 
 - 10. Registration of Persons An offence against regulation 11(2A) of the Registration of Persons Regulations (Cap. 177 sub. leg. A). (Added L.N. 317 of 1980)
 

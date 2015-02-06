@@ -1,12 +1,12 @@
-# SCHEDULE 3
+# Schedule 3
 
 [ss. 105, 111 & 112]
 
-MODIFIED APPLICATION OF THESE RULES TO APPLICATIONS FOR STANDARD PATENTS BY VIRTUE OF THE TRANSITIONAL RULES
+Modified Application of these Rules to Applications for Standard Patents by virtue of the Transitional Rules
 
-- PART I APPLICATION FOR A STANDARD PATENT BY VIRTUE OF
+(L.N. 150 of 2014)
 
-- SECTIONS 6, 8 AND 9 OF THE TRANSITIONAL RULES
+- Part 1 Application for a Standard Patent by virtue of Sections 6, 8 and 9 of the Transitional Rules (L.N. 150 of 2014)
 
 Provision of these Rules | Modification
 
@@ -14,9 +14,7 @@ Section 19 | For “designated patent” wherever it appears read “patent”.
 
 Section 19(1) | For “section 23(1) of the Ordinance” read “section 6, 8 or 9 of the Transitional Rules”.
 
-- PART II APPLICATION FOR A STANDARD PATENT BY VIRTUE OF
-
-- SECTION 7 OF THE TRANSITIONAL RULES
+- Part 2 Application for a Standard Patent by virtue of Section 7 of the Transitional Rules (L.N. 150 of 2014)
 
 Provision of these Rules | Modification
 

@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [s. 104]
 
-FEES
+Fees
+
+(L.N. 150 of 2014)
 
 Fee No. | Matter or proceeding | Amount $
 

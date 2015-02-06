@@ -80,7 +80,7 @@ Item | Sum
 
 \#2. | Prescribed branch registration fee—
 
-(a) on or after the day on which section 18 of the Business Registration (Amendment) Ordinance 2010 (13 of 2010) comes into operation—
+(a) on or after 21 February 2011— (Amended L.N. 150 of 2014)
 
 (i) where no election is made under section 6(5C) | $73
 
