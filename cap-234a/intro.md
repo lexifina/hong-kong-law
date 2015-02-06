@@ -1,4 +1,4 @@
-PRISON RULES
+Prison Rules
 
 (Cap. 234, section 25)
 
