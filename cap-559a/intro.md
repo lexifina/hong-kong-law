@@ -1,4 +1,4 @@
-TRADE MARKS RULES
+Trade Marks Rules
 
 (Cap. 559, section 91)
 
