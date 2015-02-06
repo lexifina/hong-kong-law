@@ -1,8 +1,8 @@
 # FIRST SCHEDULE
 
-[regs. 3, 5(1), 6, 7, 15(3), 17(3), 19(2), 22(3), 23(3)(b), 24(2)(b), (4)]
+[regs. 3, 5, 6, 7,17, 22 & 24 & 5th Sch.] (2 of 2015 s. 66)
 
-SUBSTANCES TO WHICH CERTAIN RESTRICTIONS WITH RESPECT TO THE SALE, SUPPLY, LABELLING AND STORAGE APPLY UNDER REGULATIONS 3, 5, 6, 15, 19, 22, 23 AND 24
+SUBSTANCES TO WHICH CERTAIN RESTRICTIONS WITH RESPECT TO THE SALE, SUPPLY, LABELLING AND STORAGE APPLY UNDER REGULATIONS 3, 5, 6, 22 AND 24*
 
 SUBSTANCES TO WHICH CERTAIN RESTRICTIONS WITH
 
@@ -10,9 +10,9 @@ RESPECT TO THE SALE, SUPPLY, LABELLING AND
 
 STORAGE APPLY UNDER REGULATIONS
 
-3, 5, 6, 15, 19, 22, 23 AND 24
+3, 5, 6, 22 AND 24
 
-(L.N. 41 of 2007)
+(L.N. 41 of 2007; 2 of 2015 s. 66)
 
 - DIVISION A
 
@@ -92,7 +92,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Codeine, except substances containing not more than 0.1% of codeine
 
-- Colchicum, alkaloids of
+- Colchicum, alkaloids of; their salts
 
 - Coniine, except substances containing less than 0.1% of coniine
 
@@ -218,9 +218,9 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Antisera, antitoxins, immunoglobulins and vaccines—
 
-  - (a) the following— Bacillus Calmette-Guerin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
+  - (a) the following— Bacillus Calmette-Guérin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
 
-  - (b) directed against the following diseases, viruses or organisms— Bordetella species Botulism Canine infectious disease Cholera Diphtheria Feline calicivirus Feline Chlamydia psittaci Feline immunodeficiency virus Feline leukemia virus Feline panleukopenia virus Feline rhinotracheitis virus Japanese encephalitis Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Measles Mumps Pertussis Plague Poliomyelitis Rabies Rubella Tetanus Typhoid Varicella Yellow fever
+  - (b) directed against the following diseases, viruses or organisms— Bordetella species Botulism Canine infectious disease Cholera Diphtheria Feline calicivirus Feline Chlamydia psittaci Feline immunodeficiency virus Feline leukemia virus Feline panleukopenia virus Feline rhinotracheitis virus Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Japanese encephalitis Measles Mumps Pertussis Plague Poliomyelitis Rabies Rubella Tetanus Typhoid Varicella Yellow fever
 
 - Antithymocyte Immunoglobulin
 
@@ -256,7 +256,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Atovaquone
 
-- Atracurium Besylate
+- Atracurium besylate
 
 - Auranofin
 
@@ -304,9 +304,9 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Benzhexol; its salts
 
-- Benzquinamide
-
 - Benzoylmorphine; its salts
+
+- Benzquinamide
 
 - Benztropine and its homologues; their salts
 
@@ -624,7 +624,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Propyliodone
 
-- Sulphur Hexafluoride
+- Sulphur hexafluoride
 
 - Tyropanoic acid
 
@@ -720,7 +720,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Digitalis, glycosides of; other active principles of digitalis
 
-- Dihydrallazine; its salts
+- Dihydralazine; its salts
 
 - Dihydrocodeine; its salts; its esters and ethers; their salts
 
@@ -994,7 +994,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Fosaprepitant; its salts
 
-- Foscarnet Trisodium Hexahydrate
+- Foscarnet trisodium hexahydrate
 
 - Fosinopril; its salts
 
@@ -1070,11 +1070,11 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Guanidines, the following—
 
-- Polymethylene diguanidines; di-para-anisyl-para-phenetylguanidine; their salts
+- Polymethylene diguanidines; di-para-anisyl-para-phenethylguanidine; their salts
 
 - Halofantrine; its salts
 
-- Haloperidol and other 4-substituted derivatives of N-(3-parafluorobenzoyl-propyl) piperidine
+- Haloperidol and other 4-substituted derivatives of N-(3-para-fluorobenzoylpropyl) piperidine
 
 - Hexachlorophane contained in medicinal products except (a) in the case of medicinal products for human use substances containing 0.1% or less; and (b) in the case of medicinal products for animal use (i) aerosols the contents of the container of which contain 0.1% or less; (ii) soaps and shampoos containing 2% or less; (iii) other medicinal products containing 0.75% or less; and (c) preparations for oral administration to sheep or cattle for liver fluke disease
 
@@ -1084,7 +1084,9 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Hexobendine; its salts
 
-- Hydiazines, the following and their alpha-methyl derivatives—
+- Hydralazine; its salts
+
+- Hydrazines, the following and their alpha-methyl derivatives—
 
 - Benzyl hydrazine
 
@@ -1093,8 +1095,6 @@ STORAGE APPLY UNDER REGULATIONS
 - Phenoxyethyl hydrazine
 
 - their salts; their acyl derivatives; their salts
-
-- Hydrallazine; its salts
 
 - Hydrocyanic acid, except substances containing less than 0.15%, weight in weight, of hydrocyanic acid (HCN); cyanides, other than ferrocyanides and ferricyanides, except substances containing less than the equivalent of 0.1% weight in weight, of hydrocyanic acid (HCN)
 
@@ -1188,11 +1188,11 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Ketamine; its salts
 
-- Ketanserine; its salts
+- Ketanserin; its salts
 
 - Ketobemidone; its salts; its esters and ethers; their salts
 
-- Ketoconazole except when contained in preparations for external application only
+- Ketoconazole, except when contained in preparations for external application only
 
 - Ketophenylbutazone
 
@@ -1252,7 +1252,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Lithium carbonate
 
-- Lithium Sulphate
+- Lithium sulphate
 
 - Lixisenatide
 
@@ -1294,9 +1294,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Mecamylamine; its salts
 
-- Meclobemide; its salts
-
-- Meclofenamic Acid; its salts
+- Meclofenamic acid; its salts
 
 - Meclofenoxate; its salts
 
@@ -1322,7 +1320,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Mephenoxalone
 
-- Mepirizole
+- Mepirizole; its salts
 
 - Mepivacaine; its salts
 
@@ -1380,7 +1378,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Methyldopa; its esters; their salts
 
-- 2-Methyl-3-morpholino-1,1-diphenylpropanecarboxylic acid; its salts; its esters; their salts
+- 2-Methyl-3-morpholino-1,1-diphenylpropane carboxylic acid; its salts; its esters; their salts
 
 - Methylnaltrexone; its salts
 
@@ -1424,7 +1422,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Milrinone; its salts
 
-- Minoxidil except when contained in preparations intended for external application only and the preparations contain not more than 5% of Minoxidil
+- Minoxidil, except when contained in preparations intended for external application only and the preparations contain not more than 5% of Minoxidil
 
 - Mirabegron; its salts; its esters; their salts
 
@@ -1441,6 +1439,8 @@ STORAGE APPLY UNDER REGULATIONS
 - Mivacurium; its salts
 
 - Mizolastine; its salts
+
+- Moclobemide; its salts
 
 - Moexipril; its salts
 
@@ -1530,7 +1530,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Nifenazone
 
-- Niflumic Acid; its salts
+- Niflumic acid; its salts
 
 - Nilotinib; its salts
 
@@ -1750,7 +1750,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Piromidic acid; its salts
 
-- Piroxicam except when contained in preparations for external application only
+- Piroxicam, except when contained in preparations for external application only
 
 - Pirprofen; its salts
 
@@ -1974,7 +1974,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Ruxolitinib; its salts
 
-- Salbutamol and its salts except when contained in aerosol dispensers
+- Salbutamol and its salts, except when contained in aerosol dispensers
 
 - Salmeterol and its salts when contained in aerosol dispensers
 
@@ -2042,7 +2042,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Sumatriptan; its salts
 
-- Sunitinib; its salts; their salts
+- Sunitinib; its salts
 
 - Suprarenal gland, the active principles of, except adrenaline and noradrenaline (other than when contained in aerosol dispensers); their salts; except salts of adrenaline (other than when contained in aerosol dispensers); their derivatives; their salts; except hydrocortisone and its salts when contained in preparations intended for external application only at not more than 1%; except beclomethasone and its salts when contained in aerosol dispensers and except clobetasone butyrate when contained in preparations intended for external application only at not more than 0.05%
 
@@ -2096,7 +2096,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Tetrabenazine; its salts
 
-- Tetracosatrin; its salts
+- Tetracosactide; its salts
 
 - Thalidomide; its salts
 
@@ -2164,7 +2164,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Tolcapone; its salts
 
-- Tolfenamic Acid; its salts
+- Tolfenamic acid; its salts
 
 - Tolmetin; its salts
 
@@ -2188,7 +2188,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Trandolapril; its salts
 
-- Tranexamic acid except when contained in toothpaste at 0.05% by weight
+- Tranexamic acid, except when contained in toothpaste at 0.05% by weight
 
 - Tranylcypromine; its salts
 
@@ -2270,9 +2270,9 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Vasopressins
 
-- Vemurafenib; its salts
+- Vecuronium; its salts
 
-- Vencuronium; its salts
+- Vemurafenib; its salts
 
 - Venlafaxine; its salts
 
@@ -2302,7 +2302,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Voriconazole; its salts
 
-- Warfarin salts
+- Warfarin; its salts
 
 - Xamoterol; its salts
 
@@ -2338,7 +2338,7 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Zoxazolamine; its salts
 
-- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014)
+- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 384 of 1992; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014; 2 of 2015 s. 66)
 
 - DIVISION B Barium, salts of, except barium sulphate
 
@@ -2347,3 +2347,7 @@ STORAGE APPLY UNDER REGULATIONS
 - meta-Nitrophenol; ortho-nitrophenol; para-nitrophenol
 
 - Phosmet (L.N. 195 of 1977; L.N. 137 of 1978; L.N. 129 of 1986; L.N. 262 of 1995; L.N. 41 of 2007)
+
+Editorial Note:
+
+* (2 of 2015 s. 66)

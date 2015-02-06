@@ -1,8 +1,16 @@
 # THIRD SCHEDULE
 
-[reg. 9(1)] (L.N. 614 of 1997)
+[regs. 3 & 9 & 5th Sch. & Sch. 10] (2 of 2015 s. 67)
 
-SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTION GIVEN BY A REGISTERED MEDICAL PRACTITIONER, REGISTERED DENTIST OR REGISTERED VETERINARY SURGEON
+SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON
+
+A PRESCRIPTION GIVEN BY A REGISTERED MEDICAL PRACTITIONER,
+
+REGISTERED DENTIST OR REGISTERED
+
+VETERINARY SURGEON
+
+(L.N. 614 of 1997)
 
 - Division A (L.N. 39 of 2014)
 
@@ -78,6 +86,8 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Codeine, except substances containing less than 0.2% of codeine
 
+- Colchicum, alkaloids of; their salts
+
 - Coniine, except substances containing less than 0.1% of coniine
 
 - Cotarnine, except substances containing less than 0.2% of cotarnine
@@ -85,6 +95,8 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 - Curare, alkaloids of; curare bases
 
 - Emetine, except substances containing less than 1% of emetine
+
+- Ephedrine; its optical isomers; their salts; when contained in aerosol dispensers
 
 - Ergot, alkaloids of
 
@@ -94,9 +106,13 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Pilocarpus, alkaloids of, except substances containing less than 0.5% of the alkaloids of pilocarpus
 
+- Rauwolfia, alkaloids of; their salts; derivatives of the alkaloids of rauwolfia; their salts
+
 - Sabadilla, alkaloids of, except substances containing less than 1% of the alkaloids of sabadilla
 
 - Veratrum, alkaloids of, except substances containing less than 1% of the alkaloids of veratrum
+
+- Vinca, alkaloids of
 
 - Allergen extract of Dermatophagoides pteronyssinus
 
@@ -184,7 +200,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Antisera, antitoxins, immunoglobulins and vaccines—
 
-  - (a) the following— Bacillus Calmette-Guerin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
+  - (a) the following— Bacillus Calmette-Guérin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
 
   - (b) directed against the following diseases, viruses or organisms—
 
@@ -210,8 +226,6 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Feline rhinotracheitis virus
 
-- Japanese encephalitis
-
 - Haemophilus influenzae type b
 
 - Hepatitis A
@@ -225,6 +239,8 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 - Human papillomavirus
 
 - Influenza
+
+- Japanese encephalitis
 
 - Measles
 
@@ -280,7 +296,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Atovaquone
 
-- Atracurium Besylate
+- Atracurium besylate
 
 - Auranofin
 
@@ -562,8 +578,6 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Colaspase
 
-- Colchicum, alkaloids of, their salts
-
 - Colfosceril; its salts
 
 - Collagen, purified
@@ -636,7 +650,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Propyliodone
 
-- Sulphur Hexafluoride
+- Sulphur hexafluoride
 
 - Tyropanoic acid
 
@@ -724,13 +738,13 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Digitalis, glycosides of; other active principles of digitalis
 
-- 3-(3,4-Dihydroxyphenyl)alanine; its salts
-
-- Dihydrallazine; its salts
+- Dihydralazine; its salts
 
 - Dihydroergotamine; its salts, simple or complex
 
 - Dihydroetorphine; its salts
+
+- 3-(3,4-Dihydroxyphenyl)alanine; its salts
 
 - Diltiazem; its salts
 
@@ -817,8 +831,6 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 - Entacapone; its salts
 
 - Entecavir; its salts; its esters; their salts
-
-- Ephedrine; its optical isomers; their salts; when contained in aerosol dispensers
 
 - Eplerenone
 
@@ -972,7 +984,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Fosaprepitant; its salts
 
-- Foscarnet Trisodium Hexahydrate
+- Foscarnet trisodium hexahydrate
 
 - Fosinopril; its salts
 
@@ -1048,7 +1060,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Halofuginone; its salts; except for incorporation in feed for chickens for fattening at levels not exceeding 3 parts per million
 
-- Haloperidol and other 4-substituted derivatives of N-(3-para-fluoro-benzoyl-propyl) piperidine
+- Haloperidol and other 4-substituted derivatives of N-(3-para-fluorobenzoylpropyl) piperidine
 
 - Hexamethylmelamine
 
@@ -1056,7 +1068,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Hexobendine; its salts
 
-- Hydrallazine; its salts
+- Hydralazine; its salts
 
 - Hydrazines, the following and their alpha-methyl derivatives-
 
@@ -1144,9 +1156,9 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Ketamine; its salts
 
-- Ketanserine; its salts
+- Ketanserin; its salts
 
-- Ketoconazole except when contained in preparations for external application only
+- Ketoconazole, except when contained in preparations for external application only
 
 - Ketophenylbutazone
 
@@ -1206,7 +1218,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Lithium carbonate
 
-- Lithium Sulphate
+- Lithium sulphate
 
 - Lixisenatide
 
@@ -1247,8 +1259,6 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 - Mebutamate
 
 - Mecamylamine; its salts
-
-- Meclobemide; its salts
 
 - Meclofenamic acid; its salts
 
@@ -1358,7 +1368,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Milrinone; its salts
 
-- Minoxidil except when contained in preparations intended for external application only and the preparations contain not more than 5% of Minoxidil
+- Minoxidil, except when contained in preparations intended for external application only and the preparations contain not more than 5% of Minoxidil
 
 - Mirabegron; its salts; its esters; their salts
 
@@ -1375,6 +1385,8 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 - Mivacurium; its salts
 
 - Mizolastine; its salts
+
+- Moclobemide; its salts
 
 - Moexipril; its salts
 
@@ -1646,7 +1658,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Piromidic acid; its salts
 
-- Piroxicam except when contained in preparations for external application only
+- Piroxicam, except when contained in preparations for external application only
 
 - Pirprofen; its salts
 
@@ -1788,8 +1800,6 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Rasburicase; its salts
 
-- Rauwolfia, alkaloids of; their salts; derivatives of the alkaloids of rauwolfia; their salts
-
 - Reboxetine; its salts
 
 - Recombinant human erythropoietin
@@ -1862,7 +1872,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Ruxolitinib; its salts
 
-- Salbutamol and its salts except when contained in aerosol dispensers
+- Salbutamol and its salts, except when contained in aerosol dispensers
 
 - Salmeterol and its salts when contained in aerosol dispensers
 
@@ -1930,7 +1940,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Sumatriptan; its salts
 
-- Sunitinib; its salts; their salts
+- Sunitinib; its salts
 
 - Suprarenal gland, the active principles of, except adrenaline and noradrenaline (other than when contained in aerosol dispensers); their salts; except salts of adrenaline (other than when contained in aerosol dispensers); their derivatives; their salts; except hydrocortisone and its salts when contained in preparations intended for external application only at not more than 1%; except beclomethasone and its salts when contained in aerosol dispensers and except clobetasone butyrate when contained in preparations intended for external application only at not more than 0.05%
 
@@ -1984,7 +1994,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Tetrabenazine; its salts
 
-- Tetracosatrin; its salts
+- Tetracosactide; its salts
 
 - Thalidomide; its salts
 
@@ -2074,7 +2084,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Trandolapril; its salts
 
-- Tranexamic acid except when contained in toothpaste at 0.05% by weight
+- Tranexamic acid, except when contained in toothpaste at 0.05% by weight
 
 - Tranylcypromine; its salts
 
@@ -2154,9 +2164,9 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Vasopressins
 
-- Vemurafenib; its salts
+- Vecuronium; its salts
 
-- Vencuronium; its salts
+- Vemurafenib; its salts
 
 - Venlafaxine; its salts
 
@@ -2178,8 +2188,6 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Viloxazine; its salts
 
-- Vinca, alkaloids of
-
 - Vindesine; its salts
 
 - Vinorelbine; its salts
@@ -2188,7 +2196,7 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Voriconazole; its salts
 
-- Warfarin salts
+- Warfarin; its salts
 
 - Xamoterol; its salts
 
@@ -2224,6 +2232,6 @@ SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTIO
 
 - Zoxazolamine; its salts
 
-- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014)
+- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014; 2 of 2015 s. 67)
 
 - DIVISION B (L.N. 41 of 2007) Dinitronaphthols; dinitrophenols; dinitrothymols Hexachlorophane; preparations containing more than 0.1% for human or animal use in aerosol containers; preparations in the form of a cake, tablet or bar of soap for human use containing more than 2%; preparations in the form of soaps or shampoos for animal use containing more than 2%; medicinal preparations for human or animal use (except those for oral administration to sheep or cattle for liver fluke disease) containing more than 0.75%. (L.N. 262 of 1995; L.N. 41 of 2007)
