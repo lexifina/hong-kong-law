@@ -84,6 +84,8 @@ Poisons List
 
   - Adefovir; its salts; its esters; their salts
 
+  - Afatinib; its salts
+
   - Aflibercept
 
   - Agalsidase beta
@@ -196,6 +198,8 @@ Poisons List
 
   - Almitrine; its salts
 
+  - Alogliptin; its salts
+
   - Alphadolone; its esters
 
   - Alphaxalone
@@ -277,6 +281,8 @@ Poisons List
   - Astemizole
 
   - Azelastine
+
+  - Bilastine
 
   - Bromodiphenhydramine
 
@@ -482,6 +488,8 @@ Poisons List
 
   - Botulinum toxin complexes
 
+  - Brentuximab vedotin
+
   - Bretylium tosylate
 
   - Brimonidine; its salts
@@ -529,6 +537,8 @@ Poisons List
   - Cabergoline; its salts
 
   - Calcipotriol; its salts
+
+  - Canagliflozin; its salts
 
   - Canakinumab
 
@@ -794,6 +804,8 @@ Poisons List
 
   - Dabigatran etexilate; its salts
 
+  - Dabrafenib; its salts
+
   - Dacarbazine
 
   - Daclizumab
@@ -817,6 +829,8 @@ Poisons List
   - Deanol acetamidobenzoate
 
   - Debrisoquine; its salts
+
+  - Decitabine; its salts
 
   - Deferasirox; its salts; its esters; their salts
 
@@ -920,6 +934,8 @@ Poisons List
 
   - Docetaxel; its salts
 
+  - Dolutegravir; its salts
+
   - Domperidone; its salts
 
   - Donepezil; its salts
@@ -993,6 +1009,8 @@ Poisons List
   - Entacapone; its salts
 
   - Entecavir; its salts; its esters; their salts
+
+  - Enzalutamide; its salts
 
   - Eplerenone
 
@@ -1331,6 +1349,8 @@ Poisons List
   - Insulin
 
   - Interferons
+
+  - Ipilimumab
 
   - Iprindole; its salts
 
@@ -1776,6 +1796,8 @@ Poisons List
 
   - Nortriptyline; its salts
 
+  - Ocriplasmin
+
   - Octreotide; its salts
 
   - Ofloxacin; its salts; its esters
@@ -2128,6 +2150,8 @@ Poisons List
 
   - Ractopamine; its salts
 
+  - Radium-223; its salts; when contained in pharmaceutical products
+
   - Raloxifene; its salts
 
   - Raltegravir; its salts
@@ -2175,6 +2199,8 @@ Poisons List
   - Rimiterol; its salts
 
   - Rimonabant; its salts
+
+  - Riociguat; its salts
 
   - Risedronic acid; its salts
 
@@ -2249,6 +2275,8 @@ Poisons List
   - Sodium cromoglycate
 
   - Sodium nitroprusside
+
+  - Sofosbuvir; its salts
 
   - Solifenacin; its salts; its esters; their salts
 
@@ -2337,6 +2365,8 @@ Poisons List
   - Terbutaline; its salts
 
   - Terconazole; its salts
+
+  - Teriflunomide; its salts
 
   - Teriparatide; its salts
 
@@ -2448,7 +2478,7 @@ Poisons List
 
   - Tranylcypromine; its salts
 
-  - Trastuzumab
+  - Trastuzumab; its antibody drug conjugates
 
   - Trazodone; its salts
 
@@ -2582,6 +2612,8 @@ Poisons List
 
   - Ziprasidone; its salts
 
+  - Zofenopril; its salts
+
   - Zolazepam; its salts
 
   - Zoledronic acid; its salts
@@ -2595,6 +2627,8 @@ Poisons List
   - Zopiclone
 
   - Zoxazolamine; its salts
+
+  - (L.N. 34 of 2015)
 
     - Division B
 
