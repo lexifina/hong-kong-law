@@ -31,6 +31,16 @@ s-015AA.md
 s-015A.md
 s-015B.md
 s-015C.md
+s-015D.md
+s-015E.md
+s-015F.md
+s-015G.md
+s-015H.md
+s-015I.md
+s-015J.md
+s-015K.md
+s-015L.md
+s-015M.md
 s-016.md
 s-017.md
 s-018.md
