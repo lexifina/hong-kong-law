@@ -144,4 +144,6 @@
 
 - 71. The ground to seventh floors of the High Block of Ping Shan Tin Shui Wai Leisure and Cultural Building, 1 Tsui Sing Road, Tin Shui Wai, Yuen Long. (L.N. 150 of 2012; L.N. 1 of 2013)
 
-- 72. The fifth and sixth floors of Lam Tin Complex, 1 Hing Tin Street, Lam Tin, Kwun Tong. (L.N. 150 of 2012; L.N. 12 of 2013) (Schedule replaced 78 of 1999 s. 7)
+- 72. The fifth and sixth floors of Lam Tin Complex, 1 Hing Tin Street, Lam Tin, Kwun Tong. (L.N. 150 of 2012; L.N. 12 of 2013)
+
+- 73. 4 Chui Ling Road, Tseung Kwan O, Sai Kung. (L.N. 152 of 2014) (Schedule replaced 78 of 1999 s. 7)
