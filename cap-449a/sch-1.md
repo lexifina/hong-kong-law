@@ -6,13 +6,13 @@ FEES PAYABLE UNDER SECTION 10 OF THE ORDINANCE FOR APPROVAL OF COMMENCEMENT OF O
 
 For approval under section 10 of the Ordinance for commencement of operation of an amusement ride in— | Fee $
 
-(a) category A | 200
+(a) category A | 240
 
-(b) category B | 355
+(b) category B | 425
 
-(c) category C | 2,800
+(c) category C | 3,230
 
-(d) category D | 5,340
+(d) category D | 6,140
 
 Note: For the purposes of this Schedule, an amusement ride in—
 
@@ -24,4 +24,4 @@ Note: For the purposes of this Schedule, an amusement ride in—
 
 - (d) category D, means any amusement ride which is permitted to carry 21 or more persons.
 
-(L.N. 60 of 1996; 29 of 1997; L.N. 18 of 1998; L.N. 133 of 1998; L.N. 287 of 2000)
+(L.N. 60 of 1996; 29 of 1997; L.N. 18 of 1998; L.N. 133 of 1998; L.N. 287 of 2000; L.N. 8 of 2015)
