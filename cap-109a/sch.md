@@ -6,88 +6,98 @@ Licences and Fees
 
 - Part 1 General
 
-Item | Licence or permit | Fee $
+- Item | Licence or permit | Fee $
 
-1. | General bonded warehouse or public bonded warehouse licence . | 22150
+- 1. | General bonded warehouse or public bonded warehouse licence | 24,350
 
-2. | Warehouse licence in respect of one or more of the following— liquors, tobacco, hydrocarbon oil and methyl alcohol— (35 of 1992 s. 11; 32 of 1993 s. 7)
+- 2. | Warehouse licence in respect of one or more of the following—
 
-(a) in conjunction with a licence to manufacture one or more of the commodities concerned . | 22150
+- liquors, tobacco, hydrocarbon oil and methyl alcohol— (35 of 1992 s. 11; 32 of 1993 s. 7)
 
-(b) in other cases . | 22150
+- (a) | in conjunction with a licence to manufacture one or more of the commodities concerned | 24,350
 
-3. | (a) Import and export licence (for one or more of the following)— liquors, tobacco, hydrocarbon oil and methyl alcohol . | 1090
+- (b) | in other cases | 24,350
 
-(b) Import licence to persons licensed only to import for their own use or for a single commercial shipment of duty value less than $2,000 . | 10% of the duty on the goods imported with a minimum fee of $2.
+- 3. | (a) | Import and export licence (for one or more of the following)—
 
-4. | Special import licence (to keepers of licensed warehouses capable of storing not less than 500 kilolitres of hydrocarbon oil) . | 1090
+- liquors, tobacco, hydrocarbon oil and methyl alcohol | 1,200
 
-(L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010)
+- (b) | Import licence to persons licensed only to import for their own use or for a single commercial shipment of duty value less than $2,000 | 10% of the duty on the goods imported with a minimum fee of $2.
+
+- 4. | Special import licence (to keepers of licensed warehouses capable of storing not less than 500 kilolitres of hydrocarbon oil) | 1,200
+
+- (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010; L.N. 22 of 2015)
 
 - Part 2 Liquors
 
-Item | Licence or permit | Fee $
+- Item | Licence or permit | Fee $
 
-1. | Manufacturer’s licence (L.N. 21 of 2010) . | 20650
+- 1. | Manufacturer’s licence (L.N. 21 of 2010; L.N. 22 of 2015) | 22,700
 
-2. | Distillery licence (L.N. 21 of 2010) . | 20650
+- 2. | Distillery licence (L.N. 21 of 2010; L.N. 22 of 2015) | 22,700
 
-3. | Still licence (available only to an educational, scientific or charitable institution approved by the Financial Secretary) . | Free
+- 3. | Still licence (available only to an educational, scientific or charitable institution approved by the Financial Secretary) | Free
 
-4. | Brewery licence . | 17950
+- 4. | Brewery licence | 17,950
 
-5. | (Repealed L.N. 452 of 1996)
+- 5. | (Repealed L.N. 452 of 1996)
 
-6. | Temporary liquor licence (L.N. 226 of 1994; L.N. 145 of 1995; L.N. 35 of 2006; L.N. 127 of 2008; L.N. 64 of 2012; L.N. 77 of 2014) . | 510 per diem
+- 6. | Temporary liquor licence (L.N. 226 of 1994; L.N. 145 of 1995; L.N. 35 of 2006; L.N. 127 of 2008; L.N. 64 of 2012) | 510 per diem
 
-(L.N. 479 of 1997; L.N. 324 of 2000; L.N. 330 of 2000; L.N. 2 of 2006)
+- (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 330 of 2000; L.N. 2 of 2006; L.N. 77 of 2014)
 
 - Part 3 Tobacco
 
-Item | Licence or permit | Fee $
+- Item | Licence or permit | Fee $
 
-1. | (Repealed L.N. 452 of 1996)
+- 1. | (Repealed L.N. 452 of 1996)
 
-2. | Manufacturer’s licence . | 20650
+- 2. | Manufacturer’s licence | 22,700
 
-(L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010)
+- (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010; L.N. 22 of 2015)
 
 - Part 4 Hydrocarbon Oil
 
-Item | Licence or permit | Fee $
+- Item | Licence or permit | Fee $
 
-1. | Manufacturer’s licence . | 24650
+- 1. | Manufacturer’s licence | 24,650
 
-(L.N. 479 of 1997; L.N. 324 of 2000; L.N. 21 of 2010)
+- (L.N. 479 of 1997; L.N. 324 of 2000; L.N. 21 of 2010)
 
-- Part 5 (Repealed 35 of 1992 s. 11)
+- Part V (Repealed 35 of 1992 s. 11)
 
-- Part 6 (Repealed 32 of 1993 s. 7)
+- Part VI (Repealed 32 of 1993 s. 7)
 
 - Part 7 Miscellaneous
 
-Item | Service | Fee $
+- Item | Service | Fee $
 
-1. | For every transfer of or substitution or amendment in any licence, not otherwise specified, except a transfer from one person to another . | 430
+- 1. | For every transfer of or substitution or amendment in any licence, not otherwise specified, except a transfer from one person to another | 515
 
-2. | For every transfer of any licence from one person to another, not otherwise specified . | 430
+- 2. | For every transfer of any licence from one person to another, not otherwise specified | 515
 
-3. | For every certificate of the Government Chemist that any spirits or methyl alcohol are denatured . | 5 or one-twentieth of the duty, which would have been payable on the spirits or methyl alcohol had such spirits or methyl alcohol not been denatured, whichever is the greater.
+- 3. | For every certificate of the Government Chemist that any spirits or methyl alcohol are denatured | 6 or 6% of the duty, which would have been payable on the spirits or methyl alcohol had such spirits or methyl alcohol not been denatured, whichever is the greater.
 
-4. | For every landing certificate, certificate of shortages or breakages of cargo found damaged or short in bond, endorsement, certificate of accuracy or copy of or extract from official records, any other certificates on which statistics or any official signature has been given in connection with the importation, duty collection, shortage or exportation of any goods to which this Ordinance applies. . | 175
+- 4. | For every landing certificate, certificate of shortages or breakages of cargo found damaged or short in bond, endorsement, certificate of accuracy or copy of or extract from official records, any other certificates on which statistics or any official signature has been given in connection with the importation, duty collection, shortage or exportation of any goods to which this Ordinance applies | 200
 
-5. | For storage of goods to which this Ordinance applies at the Customs and Excise warehouse . | 1.70 per package (irrespective of size) per day or part of a day, after the first 48 hours.
+- 5. | For storage of goods to which this Ordinance applies at the Customs and Excise warehouse | 2 per package (irrespective of size) per day or part of a day, after the first 48 hours.
 
-6. | For any attendance of a member of the Customs and Excise Service— (a) at a warehouse or any other place; or (b) during the removal of goods to which this Ordinance applies from one place to another—
+- 6. | For any attendance of a member of the Customs and Excise Service—
 
-Per hour or part of an hour $ | Per 8-hour day $ | Per month $
+- (a) at a warehouse or any other place; or
 
-Inspector . | 475 | 3540 | 86000
+- (b) during the removal of goods to which this Ordinance applies from one place to another—
 
-Chief Customs Officer . | 360 | 2680 | 66200
+- Per hour or part of an hour | Per 8-hour day | Per month
 
-Senior Customs Officer . | 285 | 2130 | 51800
+- $ | $ | $
 
-Customs Officer . | 185 | 1400 | 33750
+- Inspector | 525 | 3,540 | 86,000
 
-(L.N. 358 of 1990; L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010) (L.N. 165 of 1989; L.N. 444 of 1996; L.N. 452 of 1996) (Format changes—E.R. 2 of 2012)
+- Chief Customs Officer | 415 | 2,680 | 66,200
+
+- Senior Customs Officer | 330 | 2,130 | 51,800
+
+- Customs Officer | 215 | 1,400 | 33,750
+
+- (L.N. 358 of 1990; L.N. 479 of 1997; L.N. 324 of 2000; L.N. 2 of 2006; L.N. 21 of 2010; L.N. 22 of 2015) (L.N. 165 of 1989; L.N. 444 of 1996; L.N. 452 of 1996) (Format changes—E.R. 2 of 2012)
