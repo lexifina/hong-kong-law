@@ -212,6 +212,8 @@ Poisons List
 
   - Amantadine; its salts
 
+  - Ambrisentan; its salts; its esters; their salts
+
   - Amidopyrine; its salts
 
   - Amifostine; its salts
@@ -2162,6 +2164,8 @@ Poisons List
 
   - Ranibizumab
 
+  - Ranolazine; its salts
+
   - Rasagiline; its salts
 
   - Rasburicase; its salts
@@ -2337,6 +2341,8 @@ Poisons List
   - Tafluprost
 
   - Tamoxifen; its salts
+
+  - Tapentadol; its salts
 
   - Tazarotene; its salts
 
@@ -2530,6 +2536,8 @@ Poisons List
 
   - Tybamate
 
+  - Umeclidinium; its salts
+
   - Urapidil; its salts
 
   - Urethane
@@ -2590,6 +2598,8 @@ Poisons List
 
   - Voriconazole; its salts
 
+  - Vortioxetine; its salts
+
   - Warfarin; its salts
 
   - Xamoterol; its salts
@@ -2628,7 +2638,7 @@ Poisons List
 
   - Zoxazolamine; its salts
 
-  - (L.N. 34 of 2015)
+  - (L.N. 34 of 2015; L.N. 67 of 2015)
 
     - Division B
 
