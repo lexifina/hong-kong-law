@@ -1088,6 +1088,14 @@ Interpretation and General Provisions
 
   - 13. Notes in Ordinance A note located in the text of this Ordinance is provided for information only and has no legislative effect. (Added 9 of 2012 s. 11)
 
+  - 14. Commencement of subsidiary legislation Without limiting section 28(5) of the Interpretation and General Clauses Ordinance (Cap. 1), if any subsidiary legislation made under this Ordinance is to come into operation on a day to be notified in the Gazette—
+
+    - (a) the notice may fix different days for a provision of the subsidiary legislation to come into operation for different purposes; and
+
+    - (b) different notices may fix different days for the provision to come into operation for different purposes.
+
+  - (Added 5 of 2015 s. 17)
+
 - Part 2 Specified Futures Exchanges
 
   - 1. ASX Limited
