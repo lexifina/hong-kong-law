@@ -32,13 +32,13 @@ Fee No. | Matter or proceeding | Amount | When payable
 
 13 | For an uncertified copy of a document kept by the Registry, not otherwise charged | $6 per page | On filing application for copy
 
-14 | For renewal of the period of registration under section 28(3) or (5) of the Ordinance and section 29—1st 5-year extension | $1,230 | On filing application for renewal
+14 | For renewal of the period of registration under section 28(3) or (5) of the Ordinance and section 29—1st 5-year extension | $790 (L.N. 26 of 2015) | On filing application for renewal
 
-15 | For renewal of the period of registration under section 28(3) or (5) of the Ordinance and section 29—2nd 5-year extension | $1,860 | On filing application for renewal
+15 | For renewal of the period of registration under section 28(3) or (5) of the Ordinance and section 29—2nd 5-year extension | $1,200 (L.N. 26 of 2015) | On filing application for renewal
 
-16 | For renewal of the period of registration under section 28(3) or (5) of the Ordinance and section 29—3rd 5-year extension | $2,740 | On filing application for renewal
+16 | For renewal of the period of registration under section 28(3) or (5) of the Ordinance and section 29—3rd 5-year extension | $1,760 (L.N. 26 of 2015) | On filing application for renewal
 
-17 | For renewal of the period of registration under section 28(3) or (5) of the Ordinance and section 29—4th 5-year extension | $4,170 | On filing application for renewal
+17 | For renewal of the period of registration under section 28(3) or (5) of the Ordinance and section 29—4th 5-year extension | $2,690 (L.N. 26 of 2015) | On filing application for renewal
 
 18 | For renewal of the period of registration under section 92(2) of the Ordinance and section 75 | $1,230 | On filing application for renewal
 
@@ -56,6 +56,6 @@ Fee No. | Matter or proceeding | Amount | When payable
 
 25-26 | (Repealed L.N. 38 of 2004)
 
-27 | For extending a period of time under section 73(for each design) | $390 | On filing application for extension
+27 | For extending a period of time under section 73 (for each design) | $390 | On filing application for extension
 
 (L.N. 38 of 2004)
