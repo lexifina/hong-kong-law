@@ -6,9 +6,9 @@ Fees
 
 Fee No. | Matter or proceeding | Amount
 
-1. | Application for registration of a trade mark (including a collective mark and a certification mark) under rule 6 | $1,300 for the first class of goods or services set out in the specification plus $650 for each additional class (if any)
+1. | Application for registration of a trade mark (including a collective mark and a certification mark) under rule 6 (L.N. 25 of 2015) | $2,000 for the first class of goods or services set out in the specification plus $1,000 for each additional class (if any)
 
-2. | Request to amend application under rule 7(5) | $650 for each class of goods or services added to the specification
+2. | Request to amend application under rule 7(5) (L.N. 25 of 2015) | $1,000 for each class of goods or services added to the specification
 
 3. | Request for extension of time under rule 13(3) or (6) (L.N. 97 of 2003) | $200
 
@@ -18,13 +18,13 @@ Fee No. | Matter or proceeding | Amount
 
 6. | Request to divide application under rule 27 (excluding request to divide application for registration of a series of trade marks) | $650
 
-7. | Renewal of trade mark registration under rule 32(1) or (3) | $3,000 for the first class of goods or services set out in the specification plus $1,500 for each additional class (if any)
+7. | Renewal of trade mark registration under rule 32(1) or (3) (L.N. 25 of 2015) | $2,670 for the first class of goods or services set out in the specification plus $1,340 for each additional class (if any)
 
 8. | Late renewal of trade mark registration under rule 32(3) | $500
 
-9. | Renewal of trade mark registration under rule 33(2) | $3,000 for the first class of goods or services set out in the specification plus $1,500 for each additional class (if any)
+9. | Renewal of trade mark registration under rule 33(2) (L.N. 25 of 2015) | $2,670 for the first class of goods or services set out in the specification plus $1,340 for each additional class (if any)
 
-10. | Restoration and renewal of trade mark registration removed from the register under rule 35 | $4,000 for the first class of goods or services set out in the specification plus $1,500 for each additional class (if any)
+10. | Restoration and renewal of trade mark registration removed from the register under rule 35 (L.N. 25 of 2015) | $4,000 for the first class of goods or services set out in the specification plus $1,340 for each additional class (if any)
 
 11. | Application for the revocation of the registration of a trade mark under rule 36 | $800
 
@@ -52,9 +52,15 @@ Fee No. | Matter or proceeding | Amount
 
 23. | For supplying under rule 70(2) a certificate for the purposes of section 79(2) of the Ordinance | $200
 
-24. | Request for search of records under rule 72 | $200
+24. | Request for search of records under rule 72 | (a) | $400 for the first class of goods or services set out in the specification; and
 
-25. | Request for Registrar’s preliminary advice under rule 73 | $200
+(b) | $200 for each additional class (if any) if there is no simultaneous request for Registrar’s preliminary advice under rule 73 in respect of the same additional class (L.N. 25 of 2015)
+
+25. | Request for Registrar’s preliminary advice under rule 73 | (a) | $400 for the first class of goods or services set out in the specification; and
+
+(b) | $200 for each additional class (if any) if there is no simultaneous request for search of records under rule 72 in respect of the same additional class (L.N. 25 of 2015)
+
+25A. | Simultaneous requests for search of records under rule 72 and for Registrar’s preliminary advice under rule 73 in respect of the same additional class of goods or services set out in the specification (L.N. 25 of 2015) | $200 for each additional class
 
 26. | Notice of intention to appear at hearing under rule 74(5) (other than hearing for extension of time) | $1,700
 
@@ -64,11 +70,11 @@ Fee No. | Matter or proceeding | Amount
 
 29. | Request for extension of time under rule 16(4), 17(3), 94 or 121(2) or (3) (L.N. 97 of 2003) | $200
 
-30. | Application for registration of a series of trade marks under rule 97(1) | $1,300 for the first class of goods or services set out in the specification plus $650 for each additional class (if any)
+30. | Application for registration of a series of trade marks under rule 97(1) (L.N. 25 of 2015) | $2,000 for the first class of goods or services set out in the specification plus $1,000 for each additional class (if any)
 
 31. | Request to divide application for registration of a series of trade marks under rule 97(4) | $650 plus the fees payable in accordance with Fee No. 1 in respect of each additional application created
 
-32. | Application for registration of a trade mark as a defensive trade mark under rule 99 | $1,500 for the first class of goods or services set out in the specification plus $750 for each additional class (if any)
+32. | Application for registration of a trade mark as a defensive trade mark under rule 99 (L.N. 25 of 2015) | $2,300 for the first class of goods or services set out in the specification plus $1,150 for each additional class (if any)
 
 33. | Notice of opposition under rule 102(3) | $800
 
