@@ -2,7 +2,9 @@
 
 [ss. 3 & 50]
 
-Matters Excluded from Application of Sections 5, 5A, 6, 7, 8 and 17 of this Ordinance under Section 3 of this Ordinance*
+Matters Excluded from Application of Sections 5, 5A, 6, 7, 8 and 17 of this Ordinance under Section 3 of this Ordinance
+
+(Amended 14 of 2004 s. 26) (Format changes—E.R. 1 of 2013)
 
 - 1. The creation, execution, variation, revocation, revival or rectification of a will, codicil or any other testamentary document.
 
@@ -28,8 +30,4 @@ Matters Excluded from Application of Sections 5, 5A, 6, 7, 8 and 17 of this Ordi
 
 - 12. A warrant issued by a court or a magistrate.
 
-- 13. Negotiable instruments. (Format changes—E.R. 1 of 2013)
-
-Editorial Note:
-
-* (Amended 14 of 2004 s. 26)
+- 13. Negotiable instruments (but excluding cheques that bear the words “not negotiable”). (Replaced L.N. 141 of 2014)
