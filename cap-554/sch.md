@@ -4,11 +4,7 @@
 
 Limit Prescribed for Election Concerned for Purposes of Section 37A
 
-(According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
-
-- (a) for all purposes relating to the elections of Resident Representatives, Indigenous Inhabitant Representatives and Kaifong Representatives in 2015—the Amendment Ordinance comes into operation on 4 April 2014; and
-
-- (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
+(Schedule replaced 18 of 2011 s. 49)
 
 Item | Election | Limit
 
@@ -29,5 +25,3 @@ Item | Election | Limit
 8. | An election to elect the Chairman or Vice-Chairman or a member of the Executive Committee of a Rural Committee | $200
 
 9. | An election to elect a Rural Representative (Amended 5 of 2014 s. 73) | $200
-
-(Schedule replaced 18 of 2011 s. 49)
