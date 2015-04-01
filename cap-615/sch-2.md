@@ -234,19 +234,19 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) an institution that—
 
-          - (A) is incorporated or established in Hong Kong;
+            - (A) is incorporated or established in Hong Kong;
 
-          - (B) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
+            - (B) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
 
-          - (C) is supervised for compliance with those requirements; or
+            - (C) is supervised for compliance with those requirements; or
 
           - (iii) an institution that—
 
-          - (A) is incorporated or established in an equivalent jurisdiction;
+            - (A) is incorporated or established in an equivalent jurisdiction;
 
-          - (B) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
+            - (B) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
 
-          - (C) is supervised for compliance with those requirements;
+            - (C) is supervised for compliance with those requirements;
 
         - (e) the Government or any public body in Hong Kong; or
 
@@ -356,13 +356,13 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (ii) an institution that—
 
-        - (A) is incorporated or established in an equivalent jurisdiction;
+          - (A) is incorporated or established in an equivalent jurisdiction;
 
-        - (B) carries on a business similar to that carried on by an authorized institution;
+          - (B) carries on a business similar to that carried on by an authorized institution;
 
-        - (C) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
+          - (C) has measures in place to ensure compliance with requirements similar to those imposed under this Schedule; and
 
-        - (D) is supervised for compliance with those requirements by authorities in that jurisdiction that perform functions similar to those of the Monetary Authority.
+          - (D) is supervised for compliance with those requirements by authorities in that jurisdiction that perform functions similar to those of the Monetary Authority.
 
     - 10. Special requirements when customer is politically exposed person
 
@@ -472,9 +472,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) if the information cannot be obtained, either—
 
-          - (A) consider restricting or terminating its business relationship with the institution referred to in subparagraph (i); or
+            - (A) consider restricting or terminating its business relationship with the institution referred to in subparagraph (i); or
 
-          - (B) take reasonable measures to mitigate the risk of money laundering or terrorist financing involved; or
+            - (B) take reasonable measures to mitigate the risk of money laundering or terrorist financing involved; or
 
         - (b) if the financial institution is aware that the accompanying information that purports to be the information required under subsection (3)(b) is incomplete or meaningless, it must as soon as reasonably practicable take reasonable measures to mitigate the risk of money laundering or terrorist financing involved.
 
@@ -486,9 +486,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
           - (ii) if the missing information cannot be obtained, either—
 
-          - (A) consider restricting or terminating its business relationship with the institution referred to in subparagraph (i); or
+            - (A) consider restricting or terminating its business relationship with the institution referred to in subparagraph (i); or
 
-          - (B) take reasonable measures to mitigate the risk of money laundering or terrorist financing involved; or
+            - (B) take reasonable measures to mitigate the risk of money laundering or terrorist financing involved; or
 
         - (b) if the financial institution is aware that any of the accompanying information that purports to be the information required under subsection (3) is incomplete or meaningless, it must as soon as reasonably practicable take reasonable measures to mitigate the risk of money laundering or terrorist financing involved.
 
@@ -578,9 +578,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (ii) either—
 
-        - (A) take reasonable measures to establish the relevant customer’s or beneficial owner’s source of wealth and the source of the funds that will be involved in the business relationship; or
+          - (A) take reasonable measures to establish the relevant customer’s or beneficial owner’s source of wealth and the source of the funds that will be involved in the business relationship; or
 
-        - (B) take additional measures to mitigate the risk of money laundering or terrorist financing involved;
+          - (B) take additional measures to mitigate the risk of money laundering or terrorist financing involved;
 
       - (b) where a business relationship has been established—
 
@@ -590,9 +590,9 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (iii) either—
 
-        - (A) take reasonable measures to establish the relevant customer’s or beneficial owner’s source of wealth and the source of the funds that are involved in the business relationship; or
+          - (A) take reasonable measures to establish the relevant customer’s or beneficial owner’s source of wealth and the source of the funds that are involved in the business relationship; or
 
-        - (B) take additional measures to mitigate the risk of money laundering or terrorist financing involved; or
+          - (B) take additional measures to mitigate the risk of money laundering or terrorist financing involved; or
 
       - (c) where an occasional transaction is to be carried out, take additional measures to mitigate the risk of money laundering or terrorist financing involved.
 
@@ -682,7 +682,7 @@ Requirements Relating to Customer Due Diligence and Record-keeping
 
         - (b) ensure that the intermediary will, if requested by the financial institution within the period referred to in section 20(2) or (3) of this Schedule, as the case requires, provide to the financial institution a copy of any document, or a record of any data or information, obtained by the intermediary in the course of carrying out that measure as soon as reasonably practicable after receiving the request.
 
-      - (5) Subsection (3)(a) expires at the end of 3 years beginning on the date of commencement of this Ordinance.
+      - (5) Subsection (3)(a) expires at midnight on 31 March 2018. (Amended L.N. 16 of 2015)
 
       - (6) Nothing in this section prevents a financial institution from carrying out a customer due diligence measure by its agent but such a financial institution remains liable under this Ordinance for a failure to carry out that customer due diligence measure.
 
