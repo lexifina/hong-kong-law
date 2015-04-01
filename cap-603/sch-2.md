@@ -6,22 +6,32 @@ PLASTIC SHOPPING BAGS TO WHICH THIS ORDINANCE DOES NOT APPLY
 
 - 1. Plastic shopping bags excluded from application of this Ordinance
 
-  - (1) Subject to subsection (2), this Ordinance does not apply to the following plastic shopping bags—
+  - (1) This Ordinance does not apply to the following plastic shopping bags— (Amended 4 of 2014 s. 19)
 
-    - (a) a bag that is sold at a price of $5.00 or more;
-
-    - (b) 2 or more bags that are sold as a pre-packaged pack at a price of $5.00 or more per pack;
+    - (a)-(b) (Repealed 4 of 2014 s. 19)
 
     - (c) a bag that—
 
       - (i) contains either unpackaged goods or more than one piece of goods; and
 
-      - (ii) is sealed before the goods are supplied to the retailer concerned.
+      - (ii) is sealed before the goods are supplied to the seller concerned; (Amended 4 of 2014 s. 19)
 
-  - (2) Subsection (1) does not apply to a bag mentioned in subsection (1)(a) or a pack of bags mentioned in subsection (1)(b) if—
+    - (d) a bag that only contains an item of food, drink or medicine for human or animal consumption where—
 
-    - (a) it is given free of charge or sold at a price together with another product as a single item of goods; or
+      - (i) the item is in a frozen or chilled state; or
 
-    - (b) a rebate or discount is offered to the purchaser of the bag or pack,
+      - (ii) the item is not contained in airtight packaging; (Added 4 of 2014 s. 19)
 
-  - with the effect of directly offsetting the price or part of the price of the bag or pack, so that it is in effect given free of charge or sold at a net price of less than $5.00.
+    - (e) a bag that forms part of the goods concerned. (Added 4 of 2014 s. 19)
+
+  - (2) (Repealed 4 of 2014 s. 19)
+
+  - (3) For the purposes of subsection (1)(e), a bag is to be regarded as forming part of the goods if—
+
+    - (a) the bag is specifically designed for containing the goods;
+
+    - (b) the bag contains the goods, and the quality of the goods would deteriorate if they were not contained in the bag;
+
+    - (c) the goods are in liquid form and contained in the bag, or the goods are in liquid contained in the bag; or
+
+    - (d) information on how to consume or use the goods is printed, written or labelled on the bag. (Added 4 of 2014 s. 19)

@@ -1,7 +1,13 @@
 # SCHEDULE 3
 
-[ss. 18(3) & 21(1)]
+[ss. 18A(2) & 21(1)] (Amended 4 of 2014 s. 20)
 
-LEVY ON PLASTIC SHOPPING BAGS
+AMOUNT PRESCRIBED FOR SECTION 18A(2)*
 
-50 cents per plastic shopping bag
+50 cents
+
+(Amended 4 of 2014 s. 20)
+
+Editorial Note:
+
+* (Replaced 4 of 2014 s. 20)
