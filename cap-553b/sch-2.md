@@ -4,12 +4,6 @@
 
 Provisions Excluded from Application of Section 6 of Ordinance
 
-(According to section 1 of the Rural Representative Election Legislation (Amendment) Ordinance 2014 (5 of 2014) (“the Amendment Ordinance”), the commencement provisions of the Amendment Ordinance are as follows—
-
-- (a) for all purposes relating to the elections of Resident Representatives, Indigenous Inhabitant Representatives and Kaifong Representatives in 2015—the Amendment Ordinance comes into operation on 4 April 2014; and
-
-- (b) in so far as it has not come into operation under paragraph (a)—the Amendment Ordinance comes into operation on 1 April 2015.)
-
 Item | Enactment | Provision
 
 1. | Contracts for Employment Outside Hong Kong Ordinance (Cap. 78) | Section 5(1) (L.N. 156 of 2013)
