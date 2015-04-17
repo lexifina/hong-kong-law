@@ -12,7 +12,7 @@ Item | No. of Group | Description of Group
 
 3. | 3 | Dyeing and finishing
 
-4. | 4 | Electrical and optical products
+4. | 4 | Electrical products (Amended L.N. 41 of 2015)
 
 5. | 5 | Electronic products
 
@@ -30,7 +30,7 @@ Item | No. of Group | Description of Group
 
 12. | 12 | Knit garments and other knit made-up goods
 
-13. | 13 | Leather and fur garments and miscellaneous textiles
+13. | 13 | Home textiles, miscellaneous textiles and accessories (Amended L.N. 41 of 2015)
 
 14. | 14 | Mould and die manufacturing
 
@@ -40,7 +40,7 @@ Item | No. of Group | Description of Group
 
 17. | 17 | Spinning
 
-18. | 18 | Non-manufacturing—I-support services for industry such as law, accountancy, banking, finance, insurance, godowns, real estate, leisure and entertainment
+18. | 18 | Non-manufacturing I—support services for industry such as law, accountancy, banking, finance, insurance, godowns, real estate, leisure and entertainment
 
 19. | 19 | Toys and games
 
@@ -58,6 +58,16 @@ Item | No. of Group | Description of Group
 
 26. | 26 | Environmental industries (Added L.N. 49 of 2004)
 
-27. | 27 | Automobile components (Added L.N. 150 of 2004)
+27. | 27 | Automobile, aeronautical and advance components (Added L.N. 150 of 2004. Amended L.N. 41 of 2015)
+
+28. | 28 | Spectacles and optical products (Added L.N. 41 of 2015)
+
+29. | 29 | Fur and leather garments (Added L.N. 41 of 2015)
+
+30. | 30 | Creative industries (Added L.N. 41 of 2015)
+
+31. | 31 | Design (Added L.N. 41 of 2015)
+
+32. | 32 | Automation solutions (Added L.N. 41 of 2015)
 
 (Replaced 79 of 1994 s. 27)
