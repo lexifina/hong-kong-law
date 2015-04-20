@@ -996,7 +996,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
   - Technical Note:
 
-  - ‘Air Independent Propulsion’ (AIP) allows a submerged submarine to operate its propulsion system, without access to atmospheric oxygen, for a longer time than the batteries would have otherwise allowed. For the purposes of ML9(b)(4), AIP does not include nuclear power. (L.N. 254 of 2008)
+  - ’Air Independent Propulsion’ (AIP) allows a submerged submarine to operate its propulsion system, without access to atmospheric oxygen, for a longer time than the batteries would have otherwise allowed. For the purposes of ML9(b)(4), AIP does not include nuclear power. (L.N. 254 of 2008)
 
   - (c) Underwater detection devices specially designed for military use and controls thereof;
 
@@ -2742,7 +2742,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - (3) The total acid or base number is less than 0.40;
 
-  - (e) Autogenous ignition temperature is determined using the method described in ASTM E-659 or national equivalents. 1C007 Ceramic base materials, non-”composite” ceramic materials, ceramic-“matrix” “composite” materials and precursor materials, as follows:
+  - (e) Autogenous ignition temperature is determined using the method described in ASTM E-659 or national equivalents. 1C007 Ceramic base materials, non-“composite” ceramic materials, ceramic-“matrix” “composite” materials and precursor materials, as follows:
 
   - N.B.:
 
@@ -3994,7 +3994,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
             - (c) Continuous or chopped fibres less than 10 μm in diameter; (L.N. 132 of 2001)
 
-      - (2) Non-“composite” ceramic materials composed of the materials described in 1E002(c)(1); Note:
+      - (2) Non-”composite” ceramic materials composed of the materials described in 1E002(c)(1); Note:
 
       - 1E002(c)(2) does not control technology for the design or production of abrasives.
 
@@ -5652,7 +5652,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
       - 1. The control status of wafers (finished or unfinished), in which the function has been determined, is to be evaluated against the parameters of 3A001(a).
 
-      - 2. Integrated circuits include the following types: “Monolithic integrated circuits”; “Hybrid integrated circuits”; “Multichip integrated circuits”; “Film type integrated circuits”, including silicon-on-sapphire integrated circuits; “Optical integrated circuits”.
+      - 2. Integrated circuits include the following types: “Monolithic integrated circuits”; “Hybrid integrated circuits”; “Multichip integrated circuits”; “Film type integrated circuits”, including silicon-on-sapphire integrated circuits; “Optical integrated circuits”; (L.N. 27 of 2015) “Three dimensional integrated circuits”. (L.N. 27 of 2015)
 
       - (1) Integrated circuits, designed or rated as radiation hardened to withstand any of the following:
 
@@ -5686,7 +5686,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
         - (a) Analogue-to-digital converters having any of the following:
 
-          - (1) A resolution of 8 bit or more, but less than 10 bit, with an output rate greater than 500 million words per second;
+          - (1) A resolution of 8 bit or more, but less than 10 bit, with an output rate greater than 1 billion words per second; (L.N. 27 of 2015)
 
           - (2) A resolution of 10 bit or more, but less than 12 bit, with an output rate greater than 300 million words per second;
 
@@ -5818,7 +5818,13 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - The DAC clock frequency may be specified as the master clock frequency or the input clock frequency. (L.N. 89 of 2013)
 
-      - (b) Microwave or millimetre wave components, as follows:
+      - (b)
+
+      - Microwave or millimetre wave components, as follows:
+
+      - Technical Note:
+
+      - For the purposes of 3A001(b), the parameter peak saturated power output may be referred to on product data sheets as output power, saturated power output, maximum power output, peak power output or peak envelope power output. (L.N. 27 of 2015)
 
         - (1) Electronic vacuum tubes and cathodes, as follows: Notes:
 
@@ -5858,81 +5864,133 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - (c) Impregnated cathodes designed for electronic tubes producing a continuous emission current density at rated operating conditions exceeding 5 A/cm2; (L.N. 132 of 2001)
 
-      - (2) Microwave monolithic integrated circuits (MMIC) power amplifiers having any of the following:
+      - (2) Microwave “Monolithic Integrated Circuit” (MMIC) power amplifiers that are any of the following:
 
-    - (a) Rated for operation at frequencies exceeding 3.2 GHz up to and including 6.8 GHz and with an average output power greater than 4 W (36 dBm) with a “fractional bandwidth” greater than 15%; (L.N. 161 of 2011)
+    - (a) Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a “fractional bandwidth” greater than 15%, and having any of the following:
 
-    - (b) Rated for operation at frequencies exceeding 6.8 GHz up to and including 16 GHz and with an average output power greater than 1 W (30 dBm) with a “fractional bandwidth” greater than 10%; (L.N. 89 of 2013)
+      - (1) A peak saturated power output greater than 75 W (48.75 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
 
-    - (c) Rated for operation at frequencies exceeding 16 GHz up to and including 31.8 GHz and with an average output power greater than 0.8 W (29 dBm) with a “fractional bandwidth” greater than 10%;
+      - (2) A peak saturated power output greater than 55 W (47.4 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
 
-    - (d) Rated for operation at frequencies exceeding 31.8 GHz up to and including 37 GHz and with an average output power greater than 0.1 nW (-70 dBm); (L.N. 161 of 2011; L.N. 89 of 2013)
+      - (3) A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz;
 
-    - (e) Rated for operation at frequencies exceeding 37 GHz up to and including 43.5 GHz and with an average output power greater than 1.0 W (30 dBm); (L.N. 89 of 2013)
+      - (4) A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
 
-    - (f) Rated for operation at frequencies exceeding 43.5 GHz up to and including 75 GHz and with an average output power greater than 31.62 mW (15 dBm) with a “fractional bandwidth” greater than 10%; (L.N. 89 of 2013)
+    - (b) Rated for operation at frequencies exceeding 6.8 GHz up to and including 16 GHz with a “fractional bandwidth” greater than 10%, and having any of the following:
 
-    - (g) Rated for operation at frequencies exceeding 75 GHz up to and including 90 GHz and with an average output power greater than 10 mW (10 dBm) with a “fractional bandwidth” greater than 5%; (L.N. 89 of 2013)
+      - (1) A peak saturated power output greater than 10 W (40 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
 
-    - (h) Rated for operation at frequencies exceeding 90 GHz and with an average output power greater than 0.1 nW (-70 dBm); (L.N. 89 of 2013)
+      - (2) A peak saturated power output greater than 5 W (37 dBm) at any frequency exceeding 8.5 GHz up to and including 16 GHz;
+
+    - (c) Rated for operation with a peak saturated power output greater than 3 W (34.77 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+    - (d) Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
+
+    - (e) Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+    - (f) Rated for operation with a peak saturated power output greater than 31.62 mW (15 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+    - (g) Rated for operation with a peak saturated power output greater than 10 mW (10 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a “fractional bandwidth” of greater than 5%;
+
+    - (h) Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 90 GHz; (L.N. 27 of 2015)
 
     - Notes:
 
     - 1. (Repealed L.N. 161 of 2011)
 
-    - 2. The control status of the MMIC whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001(b)(2)(a) to 3A001(b)(2)(f), is determined by the lowest average output power control threshold. (L.N. 95 of 2006)
+    - 2. When the rated operating frequency of an MMIC includes frequencies listed in more than one frequency range, as defined by 3A001(b)(2)(a) to 3A001(b)(2)(h), the control status of the MMIC is determined by the lowest peak saturated power output threshold. (L.N. 27 of 2015)
 
     - 3. Notes 1 and 2 to sub-category 3A of Category 3 mean that 3A001(b)(2) does not apply to MMICs if they are specially designed for other applications, e.g., telecommunications, radar, automobiles. (L.N. 65 of 2004; L.N. 161 of 2011)
 
-      - (3) Discrete microwave transistors having any of the following: (L.N. 95 of 2006)
+      - (3) Discrete microwave transistors that are any of the following:
 
-    - (a) Rated for operation at frequencies exceeding 3.2 GHz up to and including 6.8 GHz and having an average output power greater than 60 W (47.8 dBm); (L.N. 161 of 2011)
+    - (a) Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz and having any of the following:
 
-    - (b) Rated for operation at frequencies exceeding 6.8 GHz up to and including 31.8 GHz and having an average output power greater than 20 W (43 dBm); (L.N. 161 of 2011)
+      - (1) A peak saturated power output greater than 400 W (56 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
 
-    - (c) Rated for operation at frequencies exceeding 31.8 GHz up to and including 37.5 GHz and having an average output power greater than 0.5 W (27 dBm);
+      - (2) A peak saturated power output greater than 205 W (53.12 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
 
-    - (d) Rated for operation at frequencies exceeding 37.5 GHz up to and including 43.5 GHz and having an average output power greater than 1 W (30 dBm); or
+      - (3) A peak saturated power output greater than 115 W (50.61 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz;
 
-    - (e) Rated for operation at frequencies exceeding 43.5 GHz and with an average output power greater than 0.1 nW; (L.N. 161 of 2011)
+      - (4) A peak saturated power output greater than 60 W (47.78 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
 
-    - Note:
+    - (b) Rated for operation at frequencies exceeding 6.8 GHz up to and including 31.8 GHz and having any of the following:
 
-    - The control status of a transistor whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001(b)(3)(a) to 3A001(b)(3)(e), is determined by the lowest average output power control threshold. (L.N. 95 of 2006)
+      - (1) A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
 
-      - (4) Microwave solid state amplifiers and microwave assemblies/modules containing microwave solid state amplifiers having any of the following: (L.N. 254 of 2008)
+      - (2) A peak saturated power output greater than 15 W (41.76 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz;
 
-    - (a) Rated for operation at frequencies exceeding 3.2 GHz up to and including 6.8 GHz and with an average output power greater than 60 W (47.8 dBm) with a “fractional bandwidth” greater than 15%; (L.N. 161 of 2011)
+      - (3) A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz;
 
-    - (b) Rated for operation at frequencies exceeding 6.8 GHz up to and including 31.8 GHz and with an average output power greater than 15 W (42 dBm) with a “fractional bandwidth” greater than 10%; (L.N. 161 of 2011)
+      - (4) A peak saturated power output greater than 7 W (38.45 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;
 
-    - (c) Rated for operation at frequencies exceeding 31.8 GHz up to and including 37.5 GHz and with an average output power greater than 0.1 nW; (L.N. 161 of 2011)
+    - (c) Rated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
 
-    - (d) Rated for operation at frequencies exceeding 37.5 GHz up to and including 43.5 GHz and with an average output power greater than 1 W (30 dBm) with a “fractional bandwidth” greater than 10%;
+    - (d) Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz;
 
-    - (e) Rated for operation at frequencies exceeding 43.5 GHz and with an average output power greater than 0.1 nW; or (L.N. 161 of 2011)
+    - (e) Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 43.5 GHz;
 
-    - (f) Rated for operation at frequencies above 3 GHz and having all of the following:
+    - Notes:
 
-      - (1) An average output power (in watts), P, greater than 150 divided by the maximum operating frequency (in GHz) squared [P>150 W*GHz2/fGHz2];
+    - 1. When the rated operating frequency of a transistor includes frequencies listed in more than one frequency range, as defined by 3A001(b)(3)(a) to 3A001(b)(3)(e), the control status of the transistor is determined by the lowest peak saturated power output threshold.
 
-      - (2) A “fractional bandwidth” of 5% or greater; and
+    - 2. 3A001(b)(3) includes bare dice, dice mounted on carriers, or dice mounted in packages. Some discrete transistors may be referred to as power amplifiers, but the control status of these discrete transistors is determined by 3A001(b)(3). (L.N. 27 of 2015)
 
-      - (3) Any two sides perpendicular to one another with either length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d<15 cm*GHz/fGHz]; (L.N. 161 of 2011; L.N. 89 of 2013)
+      - (4) Microwave solid state amplifiers and microwave assemblies/modules containing microwave solid state amplifiers, that are any of the following:
 
-  - Technical Note:
+    - (a) Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a “fractional bandwidth” greater than 15%, and having any of the following:
 
-  - 3.2 GHz should be used as the lowest operating frequency (fGHz) in the formula in 3A001(b)(4)(f)(3), for amplifiers that have a rated operation range extending downward to 3.2 GHz and below [d<15cm*GHz/3.2 GHz]. (L.N. 95 of 2006)
+      - (1) A peak saturated power output greater than 500 W (57 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
 
-  - N.B.:
+      - (2) A peak saturated power output greater than 270 W (54.3 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
 
-  - MMIC power amplifiers should be evaluated against the criteria in 3A001(b)(2).
+      - (3) A peak saturated power output greater than 200 W (53 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz;
 
-  - Notes:
+      - (4) A peak saturated power output greater than 90 W (49.54 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
+
+    - (b) Rated for operation at frequencies greater than 6.8 GHz up to and including 31.8 GHz with a “fractional bandwidth” greater than 10%, and having any of the following:
+
+      - (1) A peak saturated power output greater than 70 W (48.54 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
+
+      - (2) A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz;
+
+      - (3) A peak saturated power output greater than 30 W (44.77 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz;
+
+      - (4) A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;
+
+    - (c) Rated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
+
+    - (d) Rated for operation with a peak saturated power output greater than 2 W (33 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+    - (e) Rated for operation at frequencies exceeding 43.5 GHz and having any of the following:
+
+      - (1) A peak saturated power output greater than 0.2 W (23 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+      - (2) A peak saturated power output greater than 20 mW (13 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a “fractional bandwidth” of greater than 5%;
+
+      - (3) A peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 90 GHz;
+
+    - (f) Rated for operation at frequencies above 2.7 GHz and having all of the following:
+
+      - (1) A peak saturated power output (in watts), Psat, greater than 400 divided by the maximum operating frequency (in GHz) squared [Psat>400 W*GHz2/fGHz2];
+
+      - (2) A “fractional bandwidth” of 5% or greater;
+
+      - (3) Any two sides perpendicular to one another with either length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d≤15 cm*GHz/fGHz];
+
+      - Technical Note:
+
+      - 2.7 GHz should be used as the lowest operating frequency (fGHz) in the formula in 3A001(b)(4)(f)(3), for amplifiers that have a rated operation range extending downward to 2.7 GHz and below [d≤15 cm*GHz/2.7 GHz]. (L.N. 27 of 2015)
+
+    - N.B.:
+
+    - MMIC power amplifiers should be evaluated against the criteria in 3A001(b)(2).
+
+    - Notes:
 
     - 1. (Repealed L.N. 161 of 2011)
 
-    - 2. The control status of an item whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001(b)(4)(a) to 3A001(b)(4)(e), is determined by the lowest average output power control threshold. (L.N. 95 of 2006)
+    - 2. When the rated operating frequency of an item includes frequencies listed in more than one frequency range, as defined by 3A001(b)(4)(a) to 3A001(b)(4)(e), the control status of the item is determined by the lowest peak saturated power output threshold. (L.N. 27 of 2015)
 
     - 3. 3A001(b)(4) includes transmit/receive modules and transmit modules. (L.N. 89 of 2013)
 
@@ -6076,7 +6134,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
       - N.B.:
 
-      - See also 3A201(a).
+      - See also 3A201(a) and the Munitions List. (L.N. 27 of 2015)
 
         - (a) Capacitors with a repetition rate of less than 10 Hz (single shot capacitors) having all of the following:
 
@@ -6182,7 +6240,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - 3.
 
-    - 3A001(h) does not include switches, diodes, or ‘modules’ incorporated into equipment designed for civil automobile, civil railway or “civil aircraft” applications.
+    - 3A001(h) does not include switches, diodes, or ‘modules’, incorporated into equipment designed for civil automobile, civil railway or “civil aircraft” applications. (L.N. 27 of 2015)
 
     - Technical Note:
 
@@ -6190,59 +6248,41 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - 3A002 General purpose electronic equipment, as follows:
 
-      - (a) Recording equipment, as follows, and specially designed test tape therefor:
-
-    - (1) Analogue instrumentation magnetic tape recorders, including those permitting the recording of digital signals (e.g., using a high density digital recording (HDDR) module), having any of the following:
-
-      - (a) A bandwidth exceeding 4 MHz per electronic channel or track;
-
-      - (b) A bandwidth exceeding 2 MHz per electronic channel or track and having more than 42 tracks; or
-
-      - (c) A time displacement (base) error, measured in accordance with applicable Inter Range Instrumentation Group (IRIG) or Electronic Industries Association (EIA) documents, of less than +0.1 μs;
-
-    - Note:
-
-    - Analogue magnetic tape recorders specially designed for civilian video purposes are not considered to be instrumentation tape recorders.
-
-    - (2) Digital video magnetic tape recorders having a maximum digital interface transfer rate exceeding 360 Mbit/s; Note:
-
-    - 3A002(a)(2) does not control digital video magnetic tape recorders specially designed for television recording using a signal format, which may include a compressed signal format, standardized or recommended by the ITU, the IEC, the SMPTE, the EBU, the ETSI or the IEEE for civil television applications. (L.N. 132 of 2001; L.N. 65 of 2004)
-
-    - (3) Digital instrumentation magnetic tape data recorders employing helical scan techniques or fixed head techniques, having any of the following:
-
-      - (a) A maximum digital interface transfer rate exceeding 175 Mbit/s; or
-
-      - (b) Being “space-qualified”; (L.N. 45 of 2010)
-
-    - Note:
-
-    - 3A002(a)(3) does not apply to analogue magnetic tape recorders equipped with HDDR conversion electronics and configured to record only digital data. (L.N. 45 of 2010)
-
-    - (4) Equipment, having a maximum digital interface transfer rate exceeding 175 Mbit/s, designed to convert digital video magnetic tape recorders for use as digital instrumentation data recorders;
+      - (a) Recording equipment and oscilloscopes, as follows: (L.N. 27 of 2015) (1)-(4) (Repealed L.N. 27 of 2015)
 
     - (5) Waveform digitisers and transient recorders having all of the following: (L.N. 183 of 1999)
 
       - (a) Digitizing rates equal to or more than 200 million samples per second and a resolution of 10 bits or more; and (L.N. 65 of 2004)
 
-      - (b) A continuous throughput of 2 Gbit/s or more;
+      - (b) A ‘continuous throughput’ of 2 Gbit/s or more; (L.N. 27 of 2015)
+
+    - Technical Notes:
+
+      - 1. For those instruments with a parallel bus architecture, the ‘continuous throughput’ rate is the highest word rate multiplied by the number of bits in a word.
+
+      - 2. ‘Continuous throughput’ is the fastest data rate the instrument can output to mass storage without the loss of any information whilst sustaining the sampling rate and analogue-to-digital conversion. (L.N. 27 of 2015)
+
+    - (6) Digital instrumentation data recorder systems using magnetic disk storage technique and having all of the following, and specially designed digital recorders for the systems:
+
+      - (a) Digitized instrumentation data rate equal to or more than 100 million samples per second at a resolution of 8 bits or more;
+
+      - (b) A ‘continuous throughput’ of 1 Gbit/s or more;
 
     - Technical Note:
 
-    - For those instruments with a parallel bus architecture, the continuous throughput rate is the highest word rate multiplied by the number of bits in
+    - Digital instrumentation data recorder systems can be configured either with a digitizer integrated within or outside the digital recorder. (L.N. 27 of 2015)
 
-    - a word.
+    - (7)
 
-    - Continuous throughput is the fastest data rate the instrument can output to mass storage without the loss of any information whilst sustaining the sampling rate and analogue-to-digital conversion.
+    - Real-time oscilloscopes having a vertical root mean square (rms) noise voltage of less than 2% of full scale at the vertical scale setting that provides the lowest noise value for any input 3 dB bandwidth of 60 GHz or greater per channel;
 
-    - (6) Digital instrumentation data recorders, using magnetic disk storage technique, having all of the following:
+    - Note:
 
-      - (a) Digitizing rates equal to or more than 100 million samples per second and a resolution of 8 bits or more; and
+    - 3A002(a)(7) does not apply to equivalent-time sampling oscilloscopes. (L.N. 27 of 2015)
 
-      - (b) A continuous throughput of 1 Gbit/s or more; (L.N. 65 of 2004)
+      - (b) (Repealed L.N. 45 of 2010)
 
-        - (b) (Repealed L.N. 45 of 2010)
-
-        - (c) Radio frequency “signal analysers” as follows:
+      - (c) Radio frequency “signal analysers” as follows:
 
     - (1) “Signal analysers” having a 3 dB resolution bandwidth (RBW) exceeding 10 MHz anywhere within the frequency range exceeding 31.8 GHz but not exceeding 37.5 GHz;
 
@@ -6272,7 +6312,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
       - (d) Frequency synthesised signal generators producing output frequencies, the accuracy and short term and long term stability of which are controlled, derived from or disciplined by the internal master reference oscillator and having any of the following: (L.N. 254 of 2008)
 
-    - (1) Specified to generate pulses having all of the following, anywhere within the synthesized frequency range exceeding 31.8 GHz but not exceeding 75 GHz:
+    - (1) Specified to generate pulse-modulated signals having all of the following, anywhere within the synthesized frequency range exceeding 31.8 GHz but not exceeding 75 GHz: (L.N. 27 of 2015)
 
       - (a) ‘Pulse duration’ of less than 100 ns;
 
@@ -6316,7 +6356,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - 1. The maximum synthesized frequency of an arbitrary waveform or function generator is calculated by dividing the sample rate, in samples/second, by a factor of 2.5. (L.N. 89 of 2013)
 
-    - 2. For the purposes of 3A002(d)(1)(a), ‘pulse duration’ means the time interval between the leading edge of the pulse achieving 90% of the peak and the trailing edge of the pulse achieving 10% of the peak. (L.N. 254 of 2008; L.N. 89 of 2013)
+    - 2. For the purposes of 3A002(d)(1)(a), ‘pulse duration’ is defined as the time interval from the point on the leading edge that is 50% of the pulse amplitude to the point on the trailing edge that is 50% of the pulse amplitude. (L.N. 27 of 2015)
 
       - (e) Network analysers having any of the following:
 
@@ -6760,9 +6800,9 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - Note: 3C003 only controls compounds whose metallic, partly metallic or non-metallic element is directly linked to carbon in the organic part of the molecule. 3C004 Hydrides of phosphorus, arsenic or antimony, having a purity better than 99.999%, even diluted in inert gases or hydrogen;
 
-    - Note: 3C004 does not control hydrides containing 20% molar or more of inert gases or hydrogen. 3C005 Silicon carbide (SiC), gallium nitride (GaN), aluminium nitride (AlN) or aluminium gallium nitride (AlGaN) “substrate”, or ingots, boules, or other preforms of those materials, having resistivities greater than 10000 ohm-cm at 20°C;
+    - Note: 3C004 does not control hydrides containing 20% molar or more of inert gases or hydrogen. 3C005 Silicon carbide (SiC), gallium nitride (GaN), aluminium nitride (AlN) or aluminium gallium nitride (AlGaN) semiconductor “substrates”, or ingots, boules, or other preforms of those materials, having resistivities greater than 10000 ohm-cm at 20°C;
 
-- (L.N. 254 of 2008)
+- (L.N. 254 of 2008; L.N. 27 of 2015)
 
 - 3C006 “Substrate” specified in 3C005 with at least one epitaxial layer of silicon carbide, gallium nitride, aluminium nitride or aluminium gallium nitride;
 
@@ -6810,7 +6850,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
   - A ‘vector processor unit’ is a processor element with built-in instructions that perform multiple calculations on floating-point vectors (one-dimensional arrays of 32-bit or larger numbers) simultaneously, having at least one vector arithmetic logic unit.
 
-    - (b) Designed to perform more than two 64-bit or larger floating-point operation results per cycle;
+    - (b) Designed to perform more than four 64-bit or larger floating-point operation results per cycle; (L.N. 27 of 2015)
 
     - (c) Designed to perform more than four 16-bit fixed-point multiply-accumulate results per cycle (e.g., digital manipulation of analogue information that has been previously converted into digital form, also known as digital “signal processing”); Note:
 
@@ -6928,7 +6968,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - (a) (Repealed L.N. 89 of 2013)
 
-    - (b) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 3.0 Weighted TeraFLOPS (WT); (L.N. 95 of 2006; L.N. 45 of 2010; L.N. 89 of 2013)
+    - (b) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 8.0 Weighted TeraFLOPS (WT); (L.N. 95 of 2006; L.N. 45 of 2010; L.N. 89 of 2013; L.N. 27 of 2015)
 
     - (c)
 
@@ -6954,7 +6994,11 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - (b) “Neural computers”;
 
-    - (c) “Optical computers”; 4A101 Analogue computers, “digital computer” or digital differential analysers, other than those controlled by 4A001(a)(1), which are ruggedized and designed or modified for use in space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104;
+    - (c) “Optical computers”; 4A005 Systems, equipment, and components for the systems and equipment, specially designed or modified for the generation, operation or delivery of, or communication with, “intrusion software”;
+
+- (L.N. 27 of 2015)
+
+- 4A101 Analogue computers, “digital computer” or digital differential analysers, other than those controlled by 4A001(a)(1), which are ruggedized and designed or modified for use in space launch vehicles controlled by 9A004, “unmanned aerial vehicles” controlled by 9A012 or sounding rockets controlled by 9A104;
 
 - (L.N. 183 of 1999; L.N. 95 of 2006)
 
@@ -6984,7 +7028,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - (b) “Software”, other than that controlled by 4D001(a), specially designed or modified for the “development” or “production” of:
 
-      - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.25 Weighted TeraFLOPS (WT); or (L.N. 226 of 2009; L.N. 45 of 2010)
+      - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.60 Weighted TeraFLOPS (WT); or (L.N. 226 of 2009; L.N. 45 of 2010; L.N. 27 of 2015)
 
       - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4D001(b)(1); (L.N. 65 of 2004; L.N. 95 of 2006)
 
@@ -6992,35 +7036,41 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
   - N.B.:
 
-  - See Category 5, Part 2 for “software” performing or incorporating “information security” functions. (L.N. 45 of 2010) 4E TECHNOLOGY 4E001 (a) “Technology” according to the General Technology Note, for the “development”, “production” or “use” of equipment or “software” controlled by 4A or 4D; (L.N. 65 of 2004)
+  - See Category 5, Part 2 for “software” performing or incorporating “information security” functions. (L.N. 45 of 2010) 4D004 “Software” specially designed or modified for the generation, operation or delivery of, or communication with, “intrusion software”;
 
-    - (b) “Technology”, other than that controlled by 4E001(a), specially designed or modified for the “development” or “production” of:
+- (L.N. 27 of 2015)
 
-      - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.25 Weighted TeraFLOPS (WT); or (L.N. 226 of 2009; L.N. 45 of 2010)
+- 4E TECHNOLOGY 4E001 (a) “Technology” according to the General Technology Note, for the “development”, “production” or “use” of equipment or “software” controlled by 4A or 4D; (L.N. 65 of 2004)
 
-      - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4E001(b)(1); (L.N. 65 of 2004; L.N. 95 of 2006) TECHNICAL NOTE ON “ADJUSTED PEAK
+  - (b) “Technology”, other than that controlled by 4E001(a), specially designed or modified for the “development” or “production” of:
+
+    - (1) “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 0.60 Weighted TeraFLOPS (WT); or (L.N. 226 of 2009; L.N. 45 of 2010; L.N. 27 of 2015)
+
+    - (2) “Electronic assemblies” specially designed or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4E001(b)(1); (L.N. 65 of 2004; L.N. 95 of 2006)
+
+      - (c) “Technology” for the “development” of “intrusion software”; (L.N. 27 of 2015) TECHNICAL NOTE ON “ADJUSTED PEAK
 
       - PERFORMANCE” (“APP”)
 
-    - “APP” is an adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications.
+  - “APP” is an adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications.
 
-    - Abbreviations used in this Technical Note:
+  - Abbreviations used in this Technical Note:
 
-    - n number of processors in the “digital computer”
+  - n number of processors in the “digital computer”
 
-    - i processor number (i, . . . n)
+  - i processor number (i, . . . n)
 
-    - ti processor cycle time (ti = 1/Fi)
+  - ti processor cycle time (ti = 1/Fi)
 
-    - Fi processor frequency
+  - Fi processor frequency
 
-    - Ri peak floating point calculating rate
+  - Ri peak floating point calculating rate
 
-    - Wi architecture adjustment factor
+  - Wi architecture adjustment factor
 
-    - ”APP” is expressed in Weighted TeraFLOPS (WT), in units of 1012 adjusted floating point operations per second.
+  - ”APP” is expressed in Weighted TeraFLOPS (WT), in units of 1012 adjusted floating point operations per second.
 
-    - Outline of the “APP” calculation method:
+  - Outline of the “APP” calculation method:
 
 - 1. For each processor i, determine the peak number of 64-bit or larger floating point operations, FPOi, performed per cycle for each processor in the ‘digital computer”. Note:
 
@@ -7096,7 +7146,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - (c) Using electronic beam steering techniques;
 
-    - (d) Using “lasers” or light-emitting diodes (LEDs) with an output wavelength greater than 400 nm and less than 700 nm, in a “local area network”; (L.N. 254 of 2008)
+    - (d) Using “lasers” or light-emitting diodes (LEDs), with an output wavelength greater than 400 nm and less than 700 nm, in a “local area network”; (L.N. 254 of 2008; L.N. 27 of 2015)
 
   - (2) Being radio equipment operating in the 1.5 MHz to 87.5 MHz band and having all of the following characteristics: (L.N. 254 of 2008)
 
@@ -7134,7 +7184,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
       - (a) More than 1000 channels;
 
-      - (b) A “frequency switching time” of less than 1 ms;
+      - (b) A ‘channel switching time’ of less than 1 ms; (L.N. 27 of 2015)
 
       - (c) Automatic searching or scanning of a part of the electromagnetic spectrum; and
 
@@ -7142,7 +7192,11 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - Note:
 
-    - 5A001(b)(5) does not control radio equipment specially designed for use with civil cellular radiocommunications systems. (L.N. 132 of 2001; L.N. 65 of 2004)
+    - 5A001(b)(5) does not apply to radio equipment specially designed for use with civil cellular radiocommunications systems. (L.N. 27 of 2015)
+
+    - Technical Note:
+
+    - ‘Channel switching time’: the time (i.e., delay) to change from one receiving frequency to another, to arrive at or within ±0.05% of the final specified receiving frequency. Items having a specified frequency range of less than ±0.05% around their centre frequency are defined to be incapable of channel frequency switching. (L.N. 27 of 2015)
 
     - (6) Employing functions of digital “signal processing” to provide ‘voice coding’ output at rates of less than 2400 bit/s; (L.N. 65 of 2004; L.N. 95 of 2006) Technical Notes:
 
@@ -7226,7 +7280,39 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
   - N.B.:
 
-  - See also the Munitions List. (L.N. 89 of 2013) 5A101 Telemetering and telecontrol equipment, including ground equipment, designed or modified for ‘missiles’;
+  - See also the Munitions List. (L.N. 89 of 2013)
+
+  - (i) Not used; (L.N. 27 of 2015)
+
+  - (j) IP network communications surveillance systems or equipment, and specially designed components for the systems or equipment, having all of the following:
+
+    - (1) Performing all of the following on a carrier class IP network (e.g., national grade IP backbone):
+
+      - (a) Analysis at the application layer (e.g., Layer 7 of Open Systems Interconnection (OSI) model (ISO/IEC 7498-1));
+
+      - (b) Extraction of selected metadata and application content (e.g., voice, video, messages, attachments);
+
+      - (c) Indexing of extracted data;
+
+    - (2) Being specially designed to carry out all of the following:
+
+      - (a) Execution of searches on the basis of ‘hard selectors’;
+
+      - (b) Mapping of the relational network of an individual or of a group of people;
+
+  - Note:
+
+  - 5A001(j) does not apply to systems or equipment, specially designed for any of the following:
+
+    - (a) Marketing purpose;
+
+    - (b) Network Quality of Service (QoS);
+
+    - (c) Quality of Experience (QoE).
+
+  - Technical Note:
+
+  - ‘Hard selectors’ data or set of data, related to an individual (e.g., family name, given name, email, street address, phone number or group affiliations). (L.N. 27 of 2015) 5A101 Telemetering and telecontrol equipment, including ground equipment, designed or modified for ‘missiles’;
 
   - Technical Note:
 
@@ -7386,23 +7472,41 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
       - (b) Operating as a “local area network”; (L.N. 226 of 2009)
 
-  - (d) “Technology” according to the General Technology Note for the “development” or “production” of Microwave Monolithic Integrated Circuit (MMIC) power amplifiers specially designed for telecommunications and having any of the following:
+  - (d)
 
-    - (1) Rated for operation at frequencies exceeding 3.2 GHz up to and including 6.8 GHz and with an average output power greater than 4 W (36 dBm) with a “fractional bandwidth” greater than 15%; (L.N. 161 of 2011)
+  - “Technology” according to the General Technology Note for the “development” or “production” of Microwave “Monolithic Integrated Circuit” (MMIC) power amplifiers specially designed for telecommunications and that are any of the following:
 
-    - (2) Rated for operation at frequencies exceeding 6.8 GHz up to and including 16 GHz and with an average output power greater than 1 W (30 dBm) with a “fractional bandwidth” greater than 10%; (L.N. 161 of 2011)
+  - Technical Note:
 
-    - (3) Rated for operation at frequencies exceeding 16 GHz up to and including 31.8 GHz and with an average output power greater than 0.8 W (29 dBm) with a “fractional bandwidth” greater than 10%;
+  - For the purposes of 5E001(d), the parameter peak saturated power output may be referred to on product data sheets as output power, saturated power output, maximum power output, peak power output, or peak envelope power output.
 
-    - (4) Rated for operation at frequencies exceeding 31.8 GHz up to and including 37 GHz and with an average output power greater than 0.1 nW (-70 dBm); (L.N. 89 of 2013)
+    - (1) Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a “fractional bandwidth” greater than 15%, and having any of the following:
 
-    - (5) Rated for operation at frequencies exceeding 37 GHz up to and including 43.5 GHz and with an average output power greater than 1.0 W (30 dBm); (L.N. 89 of 2013)
+      - (a) A peak saturated power output greater than 75 W (48.75 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
 
-    - (6) Rated for operation at frequencies exceeding 43.5 GHz up to and including 75 GHz and with an average output power greater than 31.62 mW (15 dBm) with a “fractional bandwidth” greater than 10%; (L.N. 89 of 2013)
+      - (b) A peak saturated power output greater than 55 W (47.4 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
 
-    - (7) Rated for operation at frequencies exceeding 75 GHz up to and including 90 GHz and with an average output power greater than 10 mW (10 dBm) with a “fractional bandwidth” greater than 5%; (L.N. 89 of 2013)
+      - (c) A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz;
 
-    - (8) Rated for operation at frequencies exceeding 90 GHz and with an average output power greater than 0.1 nW (-70 dBm); (L.N. 89 of 2013)
+      - (d) A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
+
+    - (2) Rated for operation at frequencies exceeding 6.8 GHz up to and including 16 GHz with a “fractional bandwidth” greater than 10%, and having any of the following:
+
+      - (a) A peak saturated power output greater than 10 W (40 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
+
+      - (b) A peak saturated power output greater than 5 W (37 dBm) at any frequency exceeding 8.5 GHz up to and including 16 GHz;
+
+    - (3) Rated for operation with a peak saturated power output greater than 3 W (34.77 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+    - (4) Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
+
+    - (5) Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+    - (6) Rated for operation with a peak saturated power output greater than 31.62 mW (15 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+    - (7) Rated for operation with a peak saturated power output greater than 10 mW (10 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a “fractional bandwidth” of greater than 5%;
+
+    - (8) Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 90 GHz; (L.N. 27 of 2015)
 
   - (e) “Technology” according to the General Technology Note for the “development” or “production” of electronic devices and circuits, specially designed for telecommunications and containing components manufactured from “superconductive” materials, specially designed for operation at temperatures below the “critical temperature” of at least one of the “superconductive” constituents, and having any of the following:
 
@@ -7444,17 +7548,25 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
     - (5) When necessary, details of the items are accessible and will be provided, upon request, to the appropriate authority in the exporter’s country in order to ascertain compliance with conditions described in paragraph (a)(1), (2) and (3) above;
 
-  - (b) Hardware components of existing items described in paragraph (a) of this Note, that have been designed for these existing items, meeting all of the following:
+  - (b) Hardware components, or ‘executable software’, of existing items described in paragraph (a) of this Note, that have been designed for these existing items, meeting all of the following: (L.N. 27 of 2015)
 
-    - (1) “Information security” is not the primary function or set of functions of the component;
+    - (1) “Information security” is not the primary function or set of functions of the component or ‘executable software’;
 
-    - (2) The component does not change any cryptographic functionality of the existing items, or add new cryptographic functionality to the existing items;
+    - (2) The component or ‘executable software’ does not change any cryptographic functionality of the existing items, or add new cryptographic functionality to the existing items;
 
-    - (3) The feature set of the component is fixed and is not designed or modified to customer specification;
+    - (3) The feature set of the component or ‘executable software’ is fixed and is not designed or modified to customer specification;
 
-    - (4) When necessary as determined by the appropriate authority in the exporter’s country, details of the component and relevant end-items are accessible and will be provided to the authority upon request, in order to ascertain compliance with conditions described in paragraph (b)(1), (2) and (3) above.
+    - (4) When necessary as determined by the appropriate authority in the exporter’s country, details of the component or ‘executable software’ and relevant end-items are accessible and will be provided to the authority upon request, in order to ascertain compliance with conditions described in paragraph (b)(1), (2) and (3) above. (L.N. 27 of 2015)
 
-- Note to the Cryptography Note:
+  - Technical Note:
+
+  - For the purposes of the Cryptography Note, ‘executable software’ means “software” in executable form, from an existing hardware component excluded from 5A002 by the Cryptography Note. (L.N. 27 of 2015)
+
+  - Note:
+
+  - ‘Executable software’ does not include complete binary images of the “software” running on an end-item. (L.N. 27 of 2015)
+
+  - Note to the Cryptography Note:
 
   - 1. To meet paragraph (a) of Note 3, all of the following must apply:
 
@@ -7482,9 +7594,9 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
 - (L.N. 45 of 2010)
 
-- Technical Note:
+- Technical Notes:
 
-- In Category 5-Part 2, parity bits are not included in the key length. 5A2 SYSTEMS, EQUIPMENT AND COMPONENTS 5A002 “Information security” systems, their equipment and components, as follows:
+- (Repealed L.N. 27 of 2015) 5A2 SYSTEMS, EQUIPMENT AND COMPONENTS 5A002 “Information security” systems, their equipment and components, as follows:
 
   - (a)
 
@@ -7504,13 +7616,15 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
       - 2. Authentication includes all aspects of access control where there is no encryption of files or text except as directly related to the protection of passwords, Personal Identification Numbers (PINs) or similar data to prevent unauthorized access.
 
-      - 3. “Cryptography” does not include “fixed” data compression or coding techniques.
+      - 3. (Repealed L.N. 27 of 2015)
 
 - Note:
 
-- 5A002(a)(1) includes equipment designed or modified to use “cryptography” employing analogue principles when implemented with digital techniques.
+- (Repealed L.N. 27 of 2015)
 
-  - (a) A “symmetric algorithm” employing a key length in excess of 56 bits; or
+  - (a) A “symmetric algorithm” employing a key length in excess of 56 bits; or Technical Note:
+
+  - In Category 5, Part 2, parity bits are not included in the key length. (L.N. 27 of 2015)
 
   - (b) An “asymmetric algorithm” where the security of the algorithm is based on any of the following:
 
@@ -7546,7 +7660,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
   - 5A002(a)(8) applies to physical layer security only. (L.N. 89 of 2013)
 
-    - (9) Designed or modified to use “quantum cryptography”;
+    - (9) Designed or modified to use or perform “quantum cryptography”; (L.N. 27 of 2015)
 
       - (b) Systems, equipment, application specific “electronic assemblies”, modules and integrated circuits, designed or modified to enable an item to achieve or exceed the controlled performance levels for functionality specified by 5A002(a) that would not otherwise be enabled; (L.N. 161 of 2011)
 
@@ -7606,9 +7720,13 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
   - N.B.:
 
-  - See 5A002(a) for equipment that has undergone “cryptographic activation”. (L.N. 161 of 2011) 5B2 TEST, INSPECTION AND PRODUCTION EQUIPMENT (L.N. 65 of 2004) 5B002 “Information security” test, inspection and “production” equipment, as follows:
+  - See 5A002(a) for equipment that has undergone “cryptographic activation”. (L.N. 161 of 2011)
 
-    - (a) Equipment specially designed for the “development” or “production” of equipment specified in 5A002 or 5B002(b);
+    - (k) Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meets the provisions of paragraph (a)(2) to (5) of the Cryptography Note (Note 3 in Category 5, Part 2), having an RF output power limited to 0.1 W (20 dBm) or less, and supporting 16 or fewer concurrent users; (L.N. 27 of 2015)
+
+- 5B2 TEST, INSPECTION AND PRODUCTION EQUIPMENT (L.N. 65 of 2004) 5B002 “Information security” test, inspection and “production” equipment, as follows:
+
+  - (a) Equipment specially designed for the “development” or “production” of equipment specified in 5A002 or 5B002(b);
 
     - (b) Measuring equipment specially designed to evaluate and validate the “information security” functions of the equipment specified in 5A002 or “software” specified in 5D002(a) or 5D002(c);
 
@@ -8960,7 +9078,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
       - (1) A static accuracy of less (better) than 0.7 μgal; and
 
-      - (2) An in-service (operational) accuracy of less (better) than 0.7μgal having a time-to-steady-state registration of less than 2 minutes under any combination of attendant corrective compensations and motional influences;
+      - (2) An in-service (operational) accuracy of less (better) than 0.7 μgal having a time-to-steady-state registration of less than 2 minutes under any combination of attendant corrective compensations and motional influences;
 
     - (c) Gravity gradiometers;
 
@@ -11082,7 +11200,9 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
   - ”Cryptographic activation” techniques and mechanisms may be implemented as hardware, “software” or “technology”. (L.N. 161 of 2011)
 
-  - 5 “Cryptography” (密碼學) The discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more ‘secret parameters’ (e.g., crypto variables) or associated key management. Technical Note: (L.N. 132 of 2001) ‘Secret parameter’: a constant or key kept from the knowledge of others or shared only within a group. 3 4 “CTP”
+  - 5 “Cryptography” (密碼學) The discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more ‘secret parameters’ (e.g., crypto variables) or associated key management. Note:
+
+  - “Cryptography” does not include “fixed” data compression or coding techniques. (L.N. 27 of 2015) Technical Note: (L.N. 132 of 2001) ‘Secret parameter’: a constant or key kept from the knowledge of others or shared only within a group. 3 4 “CTP”
 
   - “CTP” is equivalent to “Composite theoretical performance”. (L.N. 183 of 1999)
 
@@ -11196,7 +11316,7 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
 
   - 3 “Frequency mask trigger” (頻率罩觸發) For “signal analysers”, a mechanism where the trigger function is able to select a frequency range to be triggered on as a subset of the acquisition bandwidth while ignoring other signals that may also be present within the same acquisition bandwidth. A “frequency mask trigger” may contain more than one independent set of limits. (L.N. 89 of 2013)
 
-  - 3 5 “Frequency switching time” (頻率切換時間) The time (i.e. delay) taken by a signal when switched from an initial specified output frequency, to arrive at or within ±0.05% of a final specified output frequency. Items having a specified frequency range of less than ±0.05% around their centre frequency are defined to be incapable of frequency switching. (L.N. 161 of 2011)
+  - 3 “Frequency switching time” (頻率切換時間) (L.N. 27 of 2015) The time (i.e. delay) taken by a signal when switched from an initial specified output frequency, to arrive at or within ±0.05% of a final specified output frequency. Items having a specified frequency range of less than ±0.05% around their centre frequency are defined to be incapable of frequency switching. (L.N. 161 of 2011)
 
   - 3 “Frequency synthesiser” (頻率合成器) Any kind of frequency source, regardless of the actual technique used, providing a multiplicity of simultaneous or alternative output frequencies, from one or more outputs, controlled by, derived from or disciplined by a lesser number of standard (or master) frequencies. (L.N. 161 of 2011)
 
@@ -11247,6 +11367,30 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
   - 6 “Intrinsic magnetic gradiometer” (固有磁梯度計) A single magnetic field gradient sensing element and associated electronics, the output of which is a measure of magnetic field gradient.
 
   - (See also “Magnetic gradiometer”)
+
+  - 4 “Intrusion software” (入侵軟件) “Software” specially designed or modified to avoid detection by ‘monitoring tools’, or to defeat ‘protective countermeasures’, of a computer or network-capable device, and performing any of the following:
+
+    - (a) The extraction of data or information, from a computer or network-capable device, or the modification of system or user data;
+
+    - (b) The modification of the standard execution path of a program or process in order to allow the execution of externally provided instructions.
+
+    - Notes:
+
+    - 1. “Intrusion software” does not include any of the following:
+
+      - (a) Hypervisors, debuggers or Software Reverse Engineering (SRE) tools;
+
+      - (b) Digital Rights Management (DRM) “software”;
+
+      - (c) “Software” designed to be installed by manufacturers, administrators or users, for the purposes of asset tracking or recovery.
+
+    - 2. Network-capable devices include mobile devices and smart meters.
+
+    - Technical Notes:
+
+    - 1. ‘Monitoring tools’: “software” or hardware devices, that monitor system behaviours or processes running on a device. This includes antivirus (AV) products, end point security products, Personal Security Products (PSP), Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) or firewalls.
+
+    - 2. ‘Protective countermeasures’: techniques designed to ensure the safe execution of code, such as Data Execution Prevention (DEP), Address Space Layout Randomisation (ASLR) or sandboxing. (L.N. 27 of 2015)
 
   - 2 9 “ISO” The International Standards Organisation.
 
@@ -11529,6 +11673,8 @@ ML1 Smooth-bore weapons with a calibre of less than 20 mm, other arms and automa
     - 1. ‘Technical data’ may take forms such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals and instructions written or recorded on other media or devices such as disk, tape, read-only memories.
 
     - 2. ‘Technical assistance’ may take forms such as instruction, skills, training, working knowledge, consulting services. ‘Technical assistance’ may involve transfer of ‘technical data’.
+
+  - 3 “Three dimensional integrated circuit” (三維集成電路) A collection of semiconductor die, integrated together, and having vias passing completely through at least one die to establish interconnections between die. (L.N. 27 of 2015)
 
   - 2 “Tilting spindle” (傾斜主軸) A tool-holding spindle which alters, during the machining process, the angular position of its centre line with respect to any other axis.
 
