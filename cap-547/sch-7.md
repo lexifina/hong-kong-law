@@ -4,6 +4,10 @@
 
 Financial Assistance: Specified Rate
 
-The rate of financial assistance for the purposes of Part VA of this Ordinance is $12.
+(Schedule 7 added 1 of 2007 s. 8) (Format changes—E.R. 2 of 2014) The rate of financial assistance for the purposes of Part VA is—
 
-(Schedule 7 added 1 of 2007 s. 8. Amended 18 of 2011 s. 40) (Format changes—E.R. 2 of 2014)
+  - (a) for an election of a member for the term of office of a District Council ending on 31 December 2015—$12; or
+
+  - (b) for an election of a member for any subsequent term of office of a District Council—$14.
+
+(Amended 18 of 2011 s. 40; L.N. 49 of 2015)
