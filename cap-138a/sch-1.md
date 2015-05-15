@@ -784,6 +784,8 @@ STORAGE APPLY UNDER REGULATIONS
 
 - Dolutegravir; its salts
 
+- Domperidone; its salts
+
 - Donepezil; its salts
 
 - Dopamine; its salts
