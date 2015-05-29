@@ -2,13 +2,7 @@
 
 [regs. 3 & 9 & 5th Sch. & Sch. 10] (2 of 2015 s. 67)
 
-SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON
-
-A PRESCRIPTION GIVEN BY A REGISTERED MEDICAL PRACTITIONER,
-
-REGISTERED DENTIST OR REGISTERED
-
-VETERINARY SURGEON
+SUBSTANCES REQUIRED BY REGULATION 9 TO BE SOLD BY RETAIL ONLY UPON A PRESCRIPTION GIVEN BY A REGISTERED MEDICAL PRACTITIONER, REGISTERED DENTIST OR REGISTERED VETERINARY SURGEON
 
 (L.N. 614 of 1997)
 
@@ -210,67 +204,7 @@ VETERINARY SURGEON
 
   - (a) the following— Bacillus Calmette-Guérin (BCG) Meningococcal vaccines Normal immunoglobulins Pneumococcal vaccines Rotavirus vaccines Snake venom antisera Staphylococcal vaccines Streptococcal vaccines;
 
-  - (b) directed against the following diseases, viruses or organisms—
-
-- Bordetella species
-
-- Botulism
-
-- Canine infectious disease
-
-- Cholera
-
-- Diphtheria
-
-- Feline calicivirus
-
-- Feline Chlamydia psittaci
-
-- Feline immunodeficiency virus
-
-- Feline leukemia virus
-
-- Feline panleukopenia virus
-
-- Feline rhinotracheitis virus
-
-- Haemophilus influenzae type b
-
-- Hepatitis A
-
-- Hepatitis B
-
-- Herpes simplex
-
-- Herpes zoster
-
-- Human papillomavirus
-
-- Influenza
-
-- Japanese encephalitis
-
-- Measles
-
-- Mumps
-
-- Pertussis
-
-- Plague
-
-- Poliomyelitis
-
-- Rabies
-
-- Rubella
-
-- Tetanus
-
-- Typhoid
-
-- Varicella
-
-- Yellow fever
+  - (b) directed against the following diseases, viruses or organisms— Bordetella species Botulism Canine infectious disease Cholera Diphtheria Feline calicivirus Feline Chlamydia psittaci Feline immunodeficiency virus Feline leukemia virus Feline panleukopenia virus Feline rhinotracheitis virus Haemophilus influenzae type b Hepatitis A Hepatitis B Herpes simplex Herpes zoster Human papillomavirus Influenza Japanese encephalitis Measles Mumps Pertussis Plague Poliomyelitis Rabies Rubella Tetanus Typhoid Varicella Yellow fever
 
 - Antithymocyte Immunoglobulin
 
@@ -374,7 +308,7 @@ VETERINARY SURGEON
 
 - Bitolterol and its salts when contained in aerosol dispensers
 
-- Blood products derived from human blood or manufactured by biotechnology, the following-
+- Blood products derived from human blood or manufactured by biotechnology, the following—
 
 - Albumin
 
@@ -594,7 +528,7 @@ VETERINARY SURGEON
 
 - Collagen, purified
 
-- Contrast media, the following; their salts; and compound with any substance falling within this item; when contained in preparations for parenteral use-
+- Contrast media, the following; their salts; and compound with any substance falling within this item; when contained in preparations for parenteral use—
 
 - Acetrizoic acid
 
@@ -823,6 +757,8 @@ VETERINARY SURGEON
 - Efavirenz; its salts
 
 - Eletriptan; its salts
+
+- Elosulfase alfa
 
 - Eltrombopag; its salts; its esters; their salts
 
@@ -1092,7 +1028,7 @@ VETERINARY SURGEON
 
 - Hydralazine; its salts
 
-- Hydrazines, the following and their alpha-methyl derivatives-
+- Hydrazines, the following and their alpha-methyl derivatives—
 
 - Benzyl hydrazine
 
@@ -1231,6 +1167,8 @@ VETERINARY SURGEON
 - Levosimendan; its salts
 
 - Lidoflazine
+
+- Lignocaine; its salts in mixture with tetracaine or in mixture with the salts of tetracaine
 
 - Linagliptin; its salts
 
@@ -1452,6 +1390,8 @@ VETERINARY SURGEON
 
 - Nalidixic acid
 
+- Nalmefene; its salts
+
 - Nalorphine; its salts
 
 - Naloxone; its salts
@@ -1529,6 +1469,8 @@ VETERINARY SURGEON
 - Olanzapine; its salts
 
 - Olmesartan; its salts; its esters; their salts
+
+- Olodaterol; its salts
 
 - Olsalazine; its salts
 
@@ -1752,7 +1694,7 @@ VETERINARY SURGEON
 
 - Proquazone
 
-- Prostaglandins, the following and their derivatives-
+- Prostaglandins, the following and their derivatives—
 
 - Alprostadil
 
@@ -1988,7 +1930,9 @@ VETERINARY SURGEON
 
 - Tacrolimus
 
-- Tadalafil; its salts; any compound containing the chemical structure of 6-(Benzo[1,3]dioxol-5-yl)-2,3,6,7,12,12a-hexahydropyrazino[1’,2’:1,6]pyrido[3,4-b]indole-1,4-dione substituted to any degree or without substitution; its salts
+- Tadalafil; its salts; any compound containing the chemical structure of 6-(Benzo[1,3]dioxol-5-yl)-2,3,6,7,12,12a-hexahydropyrazino[1’,2’:1,6]
+
+- pyrido[3,4-b]indole-1,4-dione substituted to any degree or without substitution; its salts
 
 - Tafluprost
 
@@ -2031,6 +1975,8 @@ VETERINARY SURGEON
 - Tertatolol; its salts
 
 - Tetrabenazine; its salts
+
+- Tetracaine (being an amino alcohol esterified with a derivative of benzoic acid); its salts in mixture with lignocaine or in mixture with the salts of lignocaine
 
 - Tetracosactide; its salts
 
@@ -2232,7 +2178,9 @@ VETERINARY SURGEON
 
 - Vinorelbine; its salts
 
-- Vitamin A and its esters when contained in pharmaceutical products the recommended daily dose of which contains not less than 10000 international units of vitamin A
+- Vismodegib; its salts
+
+- Vitamin A and its esters when contained in pharmaceutical products the recommended daily dose of which contains not less than 10,000 international units of vitamin A
 
 - Voriconazole; its salts
 
@@ -2276,6 +2224,12 @@ VETERINARY SURGEON
 
 - Zoxazolamine; its salts
 
-- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014; 2 of 2015 s. 67; L.N. 34 of 2015; L.N. 67 of 2015)
+- (L.N. 137 of 1978; L.N. 369 of 1980; L.N. 415 of 1984; L.N. 129 of 1986; L.N. 130 of 1987; L.N. 197 of 1989; L.N. 128 of 1990; L.N. 262 of 1995; L.N. 130 of 1998; L.N. 22 of 1999; L.N. 202 of 1999; L.N. 30 of 2000; L.N. 138 of 2000; L.N. 235 of 2000; L.N. 296 of 2000; L.N. 51 of 2001; L.N. 143 of 2001; L.N. 173 of 2001; L.N. 287 of 2001; L.N. 56 of 2002; L.N. 112 of 2002; L.N. 132 of 2002; L.N. 170 of 2002; L.N. 237 of 2002; L.N. 73 of 2003; L.N. 179 of 2003; L.N. 181 of 2003; L.N. 273 of 2003; L.N. 276 of 2003; L.N. 74 of 2004; L.N. 135 of 2004; L.N. 191 of 2004; L.N. 11 of 2005; L.N. 72 of 2005; L.N. 114 of 2005; L.N. 212 of 2005; L.N. 25 of 2006; L.N. 122 of 2006; L.N. 178 of 2006; L.N. 223 of 2006; L.N. 277 of 2006; L.N. 41 of 2007; L.N. 98 of 2007; L.N. 143 of 2007; L.N. 208 of 2007; L.N. 239 of 2007; L.N. 61 of 2008; L.N. 113 of 2008; L.N. 197 of 2008; L.N. 234 of 2008; L.N. 282 of 2008; L.N. 90 of 2009; L.N. 147 of 2009; L.N. 199 of 2009; L.N. 258 of 2009; L.N. 11 of 2010; L.N. 32 of 2010; L.N. 81 of 2010; L.N. 104 of 2010; L.N. 140 of 2010; L.N. 23 of 2011; L.N. 127 of 2011; L.N. 33 of 2012; L.N. 124 of 2012; L.N. 179 of 2012; L.N. 19 of 2013; L.N. 94 of 2013; L.N. 98 of 2013; L.N. 125 of 2013; L.N. 158 of 2013; L.N. 195 of 2013; L.N. 39 of 2014; L.N. 134 of 2014; 2 of 2015 s. 67; L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015)
 
-- DIVISION B (L.N. 41 of 2007) Dinitronaphthols; dinitrophenols; dinitrothymols Hexachlorophane; preparations containing more than 0.1% for human or animal use in aerosol containers; preparations in the form of a cake, tablet or bar of soap for human use containing more than 2%; preparations in the form of soaps or shampoos for animal use containing more than 2%; medicinal preparations for human or animal use (except those for oral administration to sheep or cattle for liver fluke disease) containing more than 0.75%. (L.N. 262 of 1995; L.N. 41 of 2007)
+- DIVISION B (L.N. 41 of 2007)
+
+- Dinitronaphthols; dinitrophenols; dinitrothymols
+
+- Hexachlorophane; preparations containing more than 0.1% for human or animal use in aerosol containers; preparations in the form of a cake, tablet or bar of soap for human use containing more than 2%; preparations in the form of soaps or shampoos for animal use containing more than 2%; medicinal preparations for human or animal use (except those for oral administration to sheep or cattle for liver fluke disease) containing more than 0.75%.
+
+- (L.N. 262 of 1995)
