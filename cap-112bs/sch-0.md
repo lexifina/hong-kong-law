@@ -1,20 +1,12 @@
-# Schedule
+# Schedule 1
 
 [s. 3]
 
-- Part 1 Articles 1 to 30 of the Agreement between the
+(L.N. 88 of 2015)
 
-- Government of the Hong Kong Special Administrative
+- Part 1 Articles 1 to 30 of the Agreement between the Government of the Hong Kong Special Administrative Region of the People’s Republic of China and the Government of Japan for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income Article 1 PERSONS COVERED
 
-- Region of the People’s Republic of China and the
-
-- Government of Japan for the Avoidance of Double
-
-- Taxation and the Prevention of Fiscal Evasion with
-
-- respect to Taxes on Income
-
-- Article 1 PERSONS COVERED This Agreement shall apply to persons who are residents of one or both of the Contracting Parties.
+  - This Agreement shall apply to persons who are residents of one or both of the Contracting Parties.
 
 - Article 2 TAXES COVERED
 
@@ -110,19 +102,21 @@
 
   - 1.
 
-    - For the purposes of this Agreement, the term “resident of a Contracting Party” means: (a) in the case of the Hong Kong Special Administrative Region:
+    - For the purposes of this Agreement, the term “resident of a Contracting Party” means:
 
-      - (i) any individual who ordinarily resides in the Hong Kong Special Administrative Region, provided that the individual has a substantial presence, permanent home or habitual abode in the Hong Kong Special Administrative Region, and that he has personal and economic relations with the Hong Kong Special Administrative Region;
+      - (a) in the case of the Hong Kong Special Administrative Region:
 
-      - (ii) any individual who stays in the Hong Kong Special Administrative Region for more than 180 days during a year of assessment or for more than 300 days in two consecutive years of assessment one of which is the relevant year of assessment, provided that he has personal and economic relations with the Hong Kong Special Administrative Region;
+        - (i) any individual who ordinarily resides in the Hong Kong Special Administrative Region, provided that the individual has a substantial presence, permanent home or habitual abode in the Hong Kong Special Administrative Region, and that he has personal and economic relations with the Hong Kong Special Administrative Region;
 
-      - (iii) a company having a primary place of management and control in the Hong Kong Special Administrative Region; and
+        - (ii) any individual who stays in the Hong Kong Special Administrative Region for more than 180 days during a year of assessment or for more than 300 days in two consecutive years of assessment one of which is the relevant year of assessment, provided that he has personal and economic relations with the Hong Kong Special Administrative Region;
 
-      - (iv) any other person having a primary place of management and control in the Hong Kong Special Administrative Region;
+        - (iii) a company having a primary place of management and control in the Hong Kong Special Administrative Region; and
 
-        - (b) in the case of Japan, any person who, under the laws of Japan, is liable to tax therein by reason of his domicile, residence, place of head or main office or any other criterion of a similar nature, except any person who is liable to tax in Japan in respect only of income from sources in Japan; and
+        - (iv) any other person having a primary place of management and control in the Hong Kong Special Administrative Region;
 
-        - (c) the Government of a Contracting Party or a political subdivision or local authority thereof.
+      - (b) in the case of Japan, any person who, under the laws of Japan, is liable to tax therein by reason of his domicile, residence, place of head or main office or any other criterion of a similar nature, except any person who is liable to tax in Japan in respect only of income from sources in Japan; and
+
+      - (c) the Government of a Contracting Party or a political subdivision or local authority thereof.
 
   - 2. Where by reason of the provisions of paragraph 1, an individual is a resident of both Contracting Parties, then his status shall be determined as follows:
 
@@ -224,7 +218,9 @@
 
     - (a) an enterprise of a Contracting Party participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting Party, or
 
-    - (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting Party and an enterprise of the other Contracting Party, and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
+    - (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting Party and an enterprise of the other Contracting Party,
+
+  - and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
   - 2. Where a Contracting Party includes, in accordance with the provisions of paragraph 1, in the profits of an enterprise of that Contracting Party - and taxes accordingly - profits on which an enterprise of the other Contracting Party has been charged to tax in that other Contracting Party and where the competent authorities of the Contracting Parties agree, upon consultation, that all or part of the profits so included are profits which would have accrued to the enterprise of the first-mentioned Contracting Party if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other Contracting Party shall make an appropriate adjustment to the amount of the tax charged therein on those agreed profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement.
 
@@ -266,17 +262,21 @@
 
   - 4.
 
-    - For the purposes of paragraph 3, the terms “the central bank” and “institution wholly owned or funded by that Government” mean: (a) in the case of the Hong Kong Special Administrative Region: the Hong Kong Monetary Authority; (b) in the case of Japan:
+    - For the purposes of paragraph 3, the terms “the central bank” and “institution wholly owned or funded by that Government” mean:
 
-      - (i) the Bank of Japan;
+      - (a) in the case of the Hong Kong Special Administrative Region: the Hong Kong Monetary Authority;
 
-      - (ii) the Japan Finance Corporation;
+      - (b) in the case of Japan:
 
-      - (iii) the Japan International Cooperation Agency; and
+        - (i) the Bank of Japan;
 
-      - (iv) the Nippon Export and Investment Insurance; and
+        - (ii) the Japan Finance Corporation;
 
-        - (c) such other similar institution which is wholly owned or funded by the Government of a Contracting Party as may be agreed upon from time to time between the Governments of both Contracting Parties.
+        - (iii) the Japan International Cooperation Agency; and
+
+        - (iv) the Nippon Export and Investment Insurance; and
+
+      - (c) such other similar institution which is wholly owned or funded by the Government of a Contracting Party as may be agreed upon from time to time between the Governments of both Contracting Parties.
 
   - 5.
 
@@ -316,7 +316,9 @@
 
       - (i) a Contracting Party (including, for this purpose in the case of Japan, the Deposit Insurance Corporation of Japan) provides, pursuant to the laws of that Contracting Party concerning failure resolution involving imminent insolvency of financial institutions, substantial financial assistance to a financial institution that is a resident of that Contracting Party, and
 
-      - (ii) a resident of the other Contracting Party acquires shares in the financial institution from the first-mentioned Contracting Party, the first-mentioned Contracting Party may tax gains derived by the resident of the other Contracting Party from the alienation of such shares, provided that the alienation is made within five years from the first date on which such financial assistance was provided.
+      - (ii) a resident of the other Contracting Party acquires shares in the financial institution from the first-mentioned Contracting Party,
+
+    - the first-mentioned Contracting Party may tax gains derived by the resident of the other Contracting Party from the alienation of such shares, provided that the alienation is made within five years from the first date on which such financial assistance was provided.
 
     - (b) The provisions of subparagraph (a) shall not apply if the resident of that other Contracting Party acquired any shares in the financial institution from the first-mentioned Contracting Party before entry into force of this Agreement or pursuant to a binding contract entered into before entry into force of the Agreement.
 
@@ -340,7 +342,9 @@
 
   - 3. Notwithstanding the preceding paragraphs of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting Party may be taxed in that Contracting Party.
 
-- Article 15 DIRECTORS’ FEES Directors’ fees and other similar payments derived by a resident of a Contracting Party in his capacity as a member of the board of directors of a company which is a resident of the other Contracting Party may be taxed in that other Contracting Party.
+- Article 15 DIRECTORS’ FEES
+
+  - Directors’ fees and other similar payments derived by a resident of a Contracting Party in his capacity as a member of the board of directors of a company which is a resident of the other Contracting Party may be taxed in that other Contracting Party.
 
 - Article 16 ARTISTES AND SPORTSMEN
 
@@ -362,9 +366,13 @@
 
   - 3. The provisions of Articles 14, 15, 16 and 17 shall apply to salaries, wages, pensions and other similar remuneration in respect of services rendered in connection with a business carried on by the Government of a Contracting Party or a political subdivision or local authority thereof.
 
-- Article 19 STUDENTS Payments which a student who is or was immediately before visiting a Contracting Party a resident of the other Contracting Party and who is present in the first-mentioned Contracting Party solely for the purpose of his education receives for the purpose of his maintenance or education shall not be taxed in the first-mentioned Contracting Party, provided that such payments arise from sources outside the first-mentioned Contracting Party.
+- Article 19 STUDENTS
 
-- Article 20 SLEEPING PARTNERSHIP Notwithstanding any other provisions of this Agreement, any income and gains derived by a sleeping partner in respect of a sleeping partnership (Tokumei Kumiai) contract or other similar contract may be taxed in the Contracting Party in which such income and gains arise and according to the laws of that Contracting Party.
+  - Payments which a student who is or was immediately before visiting a Contracting Party a resident of the other Contracting Party and who is present in the first-mentioned Contracting Party solely for the purpose of his education receives for the purpose of his maintenance or education shall not be taxed in the first-mentioned Contracting Party, provided that such payments arise from sources outside the first-mentioned Contracting Party.
+
+- Article 20 SLEEPING PARTNERSHIP
+
+  - Notwithstanding any other provisions of this Agreement, any income and gains derived by a sleeping partner in respect of a sleeping partnership (Tokumei Kumiai) contract or other similar contract may be taxed in the Contracting Party in which such income and gains arise and according to the laws of that Contracting Party.
 
 - Article 21 OTHER INCOME
 
@@ -412,7 +420,9 @@
 
     - (a) under paragraph 1, a person has presented a case to the competent authority of a Contracting Party on the basis that the actions of one or both of the Contracting Parties have resulted for that person in taxation not in accordance with the provisions of this Agreement, and
 
-    - (b) the competent authorities are unable to reach an agreement to resolve that case pursuant to paragraph 2 within two years from the presentation of the case to the competent authority of the other Contracting Party, any unresolved issues arising from the case shall be submitted to arbitration if the person so requests. These unresolved issues shall not, however, be submitted to arbitration if a decision on these issues has already been rendered by a court or administrative tribunal of either Contracting Party. Unless a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision, that decision shall be binding on both Contracting Parties and shall be implemented notwithstanding any time limits in the domestic laws of these Contracting Parties. The competent authorities of the Contracting Parties shall by mutual agreement settle the mode of application of this paragraph.
+    - (b) the competent authorities are unable to reach an agreement to resolve that case pursuant to paragraph 2 within two years from the presentation of the case to the competent authority of the other Contracting Party,
+
+  - any unresolved issues arising from the case shall be submitted to arbitration if the person so requests. These unresolved issues shall not, however, be submitted to arbitration if a decision on these issues has already been rendered by a court or administrative tribunal of either Contracting Party. Unless a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision, that decision shall be binding on both Contracting Parties and shall be implemented notwithstanding any time limits in the domestic laws of these Contracting Parties. The competent authorities of the Contracting Parties shall by mutual agreement settle the mode of application of this paragraph.
 
 - Article 25 EXCHANGE OF INFORMATION
 
@@ -426,17 +436,23 @@
 
     - (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting Party;
 
-    - (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information the disclosure of which would be contrary to public policy ( ordre public).
+    - (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information the disclosure of which would be contrary to public policy (ordre public).
 
   - 4. If information is requested by a Contracting Party in accordance with this Article, the other Contracting Party shall use its information gathering measures to obtain the requested information, even though that other Contracting Party may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting Party to decline to supply information solely because it has no domestic interest in such information.
 
   - 5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting Party to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
-- Article 26 LIMITATION OF RELIEF No relief shall be available under the provisions of paragraph 2 of Article 10, paragraph 2 of Article 11, paragraph 2 of Article 12, paragraph 6 of Article 13 or paragraph 1 of Article 21, if the main purpose of any person concerned with the creation or assignment of any right or property in respect of which income arises was to take advantage of such provisions by means of that creation or assignment.
+- Article 26 LIMITATION OF RELIEF
 
-- Article 27 FISCAL PRIVILEGES Nothing in this Agreement shall affect the fiscal privileges, including those of members of consular posts, under the general rules of international law or under the provisions of special agreements.
+  - No relief shall be available under the provisions of paragraph 2 of Article 10, paragraph 2 of Article 11, paragraph 2 of Article 12, paragraph 6 of Article 13 or paragraph 1 of Article 21, if the main purpose of any person concerned with the creation or assignment of any right or property in respect of which income arises was to take advantage of such provisions by means of that creation or assignment.
 
-- Article 28 HEADINGS The headings of the Articles of this Agreement are inserted for convenience of reference only and shall not affect the interpretation of the Agreement.
+- Article 27 FISCAL PRIVILEGES
+
+  - Nothing in this Agreement shall affect the fiscal privileges, including those of members of consular posts, under the general rules of international law or under the provisions of special agreements.
+
+- Article 28 HEADINGS
+
+  - The headings of the Articles of this Agreement are inserted for convenience of reference only and shall not affect the interpretation of the Agreement.
 
 - Article 29 ENTRY INTO FORCE
 
@@ -454,31 +470,21 @@
 
       - (iii) with respect to other taxes, as regards taxes for any taxable year beginning on or after 1 January in the calendar year next following that in which the Agreement enters into force.
 
-- Article 30 TERMINATION This Agreement shall remain in force until terminated by a Contracting Party. Either Contracting Party may terminate the Agreement by its Government giving notice of termination at least six months before the end of any calendar year beginning after the expiry of five years from the date of entry into force of the Agreement. In such event, the Agreement shall cease to have effect:
+- Article 30 TERMINATION
 
-  - (a) in the case of the Hong Kong Special Administrative Region:
+  - This Agreement shall remain in force until terminated by a Contracting Party. Either Contracting Party may terminate the Agreement by its Government giving notice of termination at least six months before the end of any calendar year beginning after the expiry of five years from the date of entry into force of the Agreement. In such event, the Agreement shall cease to have effect:
 
-- with respect to Hong Kong Special Administrative Region tax, for any year of assessment beginning on or after 1 April in the calendar year next following that in which the notice is given; and
+    - (a) in the case of the Hong Kong Special Administrative Region: with respect to Hong Kong Special Administrative Region tax, for any year of assessment beginning on or after 1 April in the calendar year next following that in which the notice is given; and
 
-  - (b) in the case of Japan:
+    - (b) in the case of Japan:
 
-    - (i) with respect to taxes withheld at source, for amounts taxable on or after 1 January in the calendar year next following that in which the notice is given;
+      - (i) with respect to taxes withheld at source, for amounts taxable on or after 1 January in the calendar year next following that in which the notice is given;
 
-    - (ii) with respect to taxes on income which are not withheld at source, as regards income for any taxable year beginning on or after 1 January in the calendar year next following that in which the notice is given; and
+      - (ii) with respect to taxes on income which are not withheld at source, as regards income for any taxable year beginning on or after 1 January in the calendar year next following that in which the notice is given; and
 
-    - (iii) with respect to other taxes, as regards taxes for any taxable year beginning on or after 1 January in the calendar year next following that in which the notice is given.
+      - (iii) with respect to other taxes, as regards taxes for any taxable year beginning on or after 1 January in the calendar year next following that in which the notice is given.
 
-- Part 2 Paragraphs 1 to 8 of the Protocol to the Agreement
-
-- between the Government of the Hong Kong Special
-
-- Administrative Region of the People’s Republic of
-
-- China and the Government of Japan for the Avoidance
-
-- of Double Taxation and the Prevention of Fiscal
-
-- Evasion with respect to Taxes on Income
+- Part 2 Paragraphs 1 to 8 of the Protocol to the Agreement between the Government of the Hong Kong Special Administrative Region of the People’s Republic of China and the Government of Japan for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income
 
   - 1.
 
@@ -506,30 +512,36 @@
 
     - With reference to paragraph 1 of Article 17 of the Agreement, it is understood that the term “pensions and other similar remuneration” includes pensions and other similar remuneration paid in consideration of past employment or self-employment and social security pensions.
 
-  - 6. With reference to paragraph 5 of Article 24 of the Agreement:
+  - 6.
 
-    - (a) The competent authorities shall by mutual agreement establish a procedure which ensures that, except where actions or inaction of a person directly affected by the case hinder the resolution of the case or where the competent authorities and that person agree otherwise, an arbitration decision will be implemented within two years from a request for arbitration as referred to in paragraph 5 of Article 24 of the Agreement.
+    - With reference to paragraph 5 of Article 24 of the Agreement:
 
-    - (b) An arbitration panel shall be established in accordance with the following rules:
+      - (a) The competent authorities shall by mutual agreement establish a procedure which ensures that, except where actions or inaction of a person directly affected by the case hinder the resolution of the case or where the competent authorities and that person agree otherwise, an arbitration decision will be implemented within two years from a request for arbitration as referred to in paragraph 5 of Article 24 of the Agreement.
 
-      - (i) An arbitration panel shall consist of three arbitrators with expertise or experience in international tax matters.
+      - (b) An arbitration panel shall be established in accordance with the following rules:
 
-      - (ii) Each competent authority shall appoint one arbitrator. The two arbitrators appointed by the competent authorities shall appoint the third arbitrator who serves as the chair of the arbitration panel in accordance with the procedures agreed by the competent authorities.
+        - (i) An arbitration panel shall consist of three arbitrators with expertise or experience in international tax matters.
 
-      - (iii) All arbitrators shall not be employees of the tax authorities of either of the Contracting Parties, nor shall they have previously dealt with the case presented pursuant to paragraph 1 of Article 24 of the Agreement in any capacity.
+        - (ii) Each competent authority shall appoint one arbitrator. The two arbitrators appointed by the competent authorities shall appoint the third arbitrator who serves as the chair of the arbitration panel in accordance with the procedures agreed by the competent authorities.
 
-      - (iv) The competent authorities shall ensure that all arbitrators and their staff agree, in statements sent to each competent authority, prior to their acting in the arbitration proceedings, to comply with the same confidentiality and non-disclosure obligations provided for in paragraph 2 of Article 25 of the Agreement and under the applicable domestic laws of the Contracting Parties.
+        - (iii) All arbitrators shall not be employees of the tax authorities of either of the Contracting Parties, nor shall they have previously dealt with the case presented pursuant to paragraph 1 of Article 24 of the Agreement in any capacity.
 
-      - (v) Each competent authority shall bear the cost of its appointed arbitrator and its own expenses related to its own participation in the arbitration proceedings. The cost of the chair of the arbitration panel and other expenses associated with the conduct of the proceedings shall be borne by the competent authorities in equal shares.
+        - (iv) The competent authorities shall ensure that all arbitrators and their staff agree, in statements sent to each competent authority, prior to their acting in the arbitration proceedings, to comply with the same confidentiality and non-disclosure obligations provided for in paragraph 2 of Article 25 of the Agreement and under the applicable domestic laws of the Contracting Parties.
 
-    - (c) The competent authorities shall provide the information necessary for the making of the arbitration decision to all arbitrators and their staff without undue delay.
+        - (v) Each competent authority shall bear the cost of its appointed arbitrator and its own expenses related to its own participation in the arbitration proceedings. The cost of the chair of the arbitration panel and other expenses associated with the conduct of the proceedings shall be borne by the competent authorities in equal shares.
 
-    - (d) An arbitration decision shall be final, unless that decision is found to be unenforceable by the courts of one of the Contracting Parties due to a violation of paragraph 5 of Article 24 of the Agreement, of this paragraph or of any procedural rule determined in accordance with this paragraph that may reasonably have affected the decision. If the decision is found to be unenforceable due to such violation, the decision shall be considered not to have been made.
+      - (c) The competent authorities shall provide the information necessary for the making of the arbitration decision to all arbitrators and their staff without undue delay.
 
-    - (e) An arbitration decision shall have no formal precedential value.
+      - (d) An arbitration decision shall be final, unless that decision is found to be unenforceable by the courts of one of the Contracting Parties due to a violation of paragraph 5 of Article 24 of the Agreement, of this paragraph or of any procedural rule determined in accordance with this paragraph that may reasonably have affected the decision. If the decision is found to be unenforceable due to such violation, the decision shall be considered not to have been made.
 
-    - (f) Where, at any time after a request for arbitration has been made and before the arbitration panel has delivered a decision to the competent authorities and the person who made the request for arbitration, the competent authorities have solved all the unresolved issues submitted to the arbitration, the case shall be considered as solved pursuant to paragraph 2 of Article 24 of the Agreement and no arbitration decision shall be provided.
+      - (e) An arbitration decision shall have no formal precedential value.
 
-  - 7. With reference to paragraph 1 of Article 25 of the Agreement, a Contracting Party is not obliged to exchange information concerning taxes other than those covered by Article 2 of the Agreement for the purposes of carrying out the provisions of the Agreement or of the administration or enforcement of the domestic laws of the other Contracting Party until the Governments of the Contracting Parties agree, through an exchange of notes, to exchange information concerning those taxes. Such agreement shall enter into force after the completion of procedures required by the respective laws of the Contracting Parties for entry into force of the agreement.
+      - (f) Where, at any time after a request for arbitration has been made and before the arbitration panel has delivered a decision to the competent authorities and the person who made the request for arbitration, the competent authorities have solved all the unresolved issues submitted to the arbitration, the case shall be considered as solved pursuant to paragraph 2 of Article 24 of the Agreement and no arbitration decision shall be provided.
 
-  - 8. With reference to paragraph 5 of Article 25 of the Agreement, it is understood that a Contracting Party may decline to supply information relating to confidential communications between attorneys, solicitors or other admitted legal representatives in their role as such and their clients to the extent that the communications are protected from disclosure under the domestic laws of that Contracting Party.
+  - 7.
+
+    - With reference to paragraph 1 of Article 25 of the Agreement, a Contracting Party is not obliged to exchange information concerning taxes other than those covered by Article 2 of the Agreement for the purposes of carrying out the provisions of the Agreement or of the administration or enforcement of the domestic laws of the other Contracting Party until the Governments of the Contracting Parties agree, through an exchange of notes, to exchange information concerning those taxes. Such agreement shall enter into force after the completion of procedures required by the respective laws of the Contracting Parties for entry into force of the agreement.
+
+  - 8.
+
+    - With reference to paragraph 5 of Article 25 of the Agreement, it is understood that a Contracting Party may decline to supply information relating to confidential communications between attorneys, solicitors or other admitted legal representatives in their role as such and their clients to the extent that the communications are protected from disclosure under the domestic laws of that Contracting Party.
