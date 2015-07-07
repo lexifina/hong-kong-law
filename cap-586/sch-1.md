@@ -6,7 +6,7 @@ SCHEDULED SPECIES
 
 - PART 1 INTERPRETATION OF THE APPENDICES
 
-  - 1. Species included in the Appendices are referred to—
+  - 1. Species included in the Appendices are referred to —
 
     - (a) by the name of the species; or
 
@@ -16,7 +16,7 @@ SCHEDULED SPECIES
 
   - 3. Other references to taxa higher than species are for the purposes of information or classification only. Common names in English, if known, are included within angle brackets (< >) after scientific names in the English text of this Ordinance. Common names in Chinese or Chinese translations of scientific names, if known, are included within angle brackets (< >) after scientific names in the Chinese text of this Ordinance. The common names included after the scientific names of orders, families and genera are intended to indicate the species within the order, family or genus concerned that are included in the Appendices.
 
-  - 4. The following abbreviations are used for plant taxa below the level of species—
+  - 4. The following abbreviations are used for plant taxa below the level of species —
 
     - (a) “ssp.” is used to denote subspecies; and
 
@@ -26,11 +26,9 @@ SCHEDULED SPECIES
 
   - 6. The names of the places in parentheses placed against the names of species in Appendix III are those of the Parties submitting these species for inclusion in that Appendix.
 
-  - 7.
+  - 7. When a species is included in one of the Appendices, all parts and derivatives of the species are also included in the same Appendix unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol (#) followed by a number placed against the name of an Appendix II species or Appendix III species designates parts or derivatives that are specified in relation to that species for the purposes of this Ordinance as follows —
 
-  - When a species is included in one of the Appendices, all parts and derivatives of the species are also included in the same Appendix unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol (#) followed by a number placed against the name of an Appendix II species or Appendix III species designates parts or derivatives that are specified in relation to that species for the purposes of this Ordinance as follows–
-
-  - #1 Designates all parts and derivatives, except–
+  - #1 Designates all parts and derivatives, except —
 
     - (a) seeds, spores and pollen (including pollinia);
 
@@ -38,13 +36,17 @@ SCHEDULED SPECIES
 
     - (c) cut flowers of artificially propagated plants; and
 
-    - (d) fruits, parts of fruits, and derivatives of fruits, of artificially propagated plants of the genus Vanilla. #2 Designates all parts and derivatives, except–
+    - (d) fruits, parts of fruits, and derivatives of fruits, of artificially propagated plants of the genus Vanilla.
+
+  - #2 Designates all parts and derivatives, except —
 
     - (a) seeds and pollen; and
 
-    - (b) finished products packaged and ready for retail trade. #3 Designates whole and sliced roots and parts of roots excluding manufactured parts or derivatives such as powders, pills, extracts, tonics, teas and confectionery. (Amended L.N. 98 of 2014)
+    - (b) finished products packaged and ready for retail trade.
 
-    - #4 Designates all parts and derivatives, except–
+  - #3 Designates whole and sliced roots and parts of roots excluding manufactured parts or derivatives such as powders, pills, extracts, tonics, teas and confectionery. (Amended L.N. 98 of 2014)
+
+  - #4 Designates all parts and derivatives, except —
 
     - (a) seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from Beccariophoenix madagascariensis and Neodypsis decaryi exported from Madagascar; (Replaced L.N. 36 of 2011)
 
@@ -56,21 +58,27 @@ SCHEDULED SPECIES
 
     - (e) stems, flowers, and parts and derivatives of them, of naturalized or artificially propagated plants of the genera Opuntia subgenus Opuntia and Selenicereus (Cactaceae); and (Replaced L.N. 36 of 2011)
 
-    - (f) finished products of Euphorbia antisyphilitica packaged and ready for retail trade. (Added L.N. 36 of 2011) #5 Designates logs, sawn wood and veneer sheets.
+    - (f) finished products of Euphorbia antisyphilitica packaged and ready for retail trade. (Added L.N. 36 of 2011)
 
-    - #6 Designates logs, sawn wood, veneer sheets and plywood.
+  - #5 Designates logs, sawn wood and veneer sheets.
 
-    - #7 Designates logs, woodchips, powder and extracts. (Amended L.N. 98 of 2014)
+  - #6 Designates logs, sawn wood, veneer sheets and plywood.
 
-    - #8 Designates underground parts (i.e. roots, rhizomes): whole, parts and powdered.
+  - #7 Designates logs, woodchips, powder and extracts. (Amended L.N. 98 of 2014)
 
-    - #9 Designates all parts and derivatives except those bearing a label “Produced from Hoodia spp. material obtained through controlled harvesting and production under the terms of an agreement with the relevant CITES Management Authority of [Botswana under agreement No. BW/xxxxxx][Namibia under agreement No. NA/xxxxxx][South Africa under agreement No. ZA/xxxxxx]”. (Replaced L.N. 98 of 2014)
+  - #8 Designates underground parts (i.e. roots, rhizomes): whole, parts and powdered.
 
-    - #10 Designates logs, sawn wood and veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments.
+  - #9 Designates all parts and derivatives except those bearing a label “Produced from Hoodia spp. material obtained through controlled harvesting and production under the terms of an agreement with the relevant CITES Management Authority of [Botswana under agreement No. BW/xxxxxx][Namibia under agreement No. NA/xxxxxx][South Africa under agreement No. ZA/xxxxxx]”. (Replaced L.N. 98 of 2014)
 
-    - #11 Designates logs, sawn wood, veneer sheets, plywood, powder and extracts. #12 Designates logs, sawn wood, veneer sheets, plywood and extracts. Finished products containing those extracts as ingredients, including fragrances, are not covered by this annotation. (Added L.N. 36 of 2011. Amended L.N. 98 of 2014)
+  - #10 Designates logs, sawn wood and veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments.
 
-    - #13 Designates kernel (also known as “endosperm”, “pulp” or “copra”) and derivatives of them. (Added L.N. 36 of 2011. Amended L.N. 98 of 2014) #14 Designates all parts and derivatives, except–
+  - #11 Designates logs, sawn wood, veneer sheets, plywood, powder and extracts.
+
+  - #12 Designates logs, sawn wood, veneer sheets, plywood and extracts. Finished products containing those extracts as ingredients, including fragrances, are not covered by this annotation. (Added L.N. 36 of 2011. Amended L.N. 98 of 2014)
+
+  - #13 Designates kernel (also known as “endosperm”, “pulp” or “copra”) and derivatives of them. (Added L.N. 36 of 2011. Amended L.N. 98 of 2014)
+
+  - #14 Designates all parts and derivatives, except —
 
     - (a) seeds and pollen;
 
@@ -84,13 +92,13 @@ SCHEDULED SPECIES
 
     - (f) finished products packaged and ready for retail trade (excluding beads, prayer beads and carvings). (Added L.N. 98 of 2014)
 
-  - 8. For the purposes of section 7 of this Part–
+  - 8. For the purposes of section 7 of this Part —
 
     - (a) an extract is a substance obtained directly from plant material by physical or chemical means regardless of the manufacturing process; and
 
     - (b) an extract may be in the form of solid (such as crystals, resin, fine particles and coarse particles), semi-solid (such as gums and waxes) or liquid (such as solutions, tinctures, oil and essential oils). (Added L.N. 98 of 2014)
 
-  - 9. For the purposes of section 7 of this Part, products, shipped singly or in bulk for final use or retail trade (purpose), are finished products packaged and ready for retail trade if–
+  - 9. For the purposes of section 7 of this Part, products, shipped singly or in bulk for final use or retail trade (purpose), are finished products packaged and ready for retail trade if —
 
     - (a) the products do not require any further processing for the purpose;
 
@@ -98,9 +106,7 @@ SCHEDULED SPECIES
 
     - (c) the products are in a state fit for being sold to or used by the general public. (Added L.N. 98 of 2014)
 
-  - 10.
-
-  - For the purposes of section 7 of this Part–
+  - 10. For the purposes of section 7 of this Part —
 
     - powder (粉末) means a dry, solid substance in the form of fine particles or coarse particles;
 
@@ -110,3182 +116,3544 @@ SCHEDULED SPECIES
 
 - PART 2 APPENDICES
 
-Appendix I | Appendix II | Appendix III
+- Appendix I | Appendix II | Appendix III
 
-F A U N A <ANIMALS>
+- FAUNA <ANIMALS>
 
-P H Y L U M C H O R D A T A
+- PHYLUM CHORDATA
 
-CLASS MAMMALIA <MAMMALS>
+- CLASS MAMMALIA <MAMMALS>
 
-ARTIODACTYLA
+- ARTIODACTYLA
 
-Antilocapridae
+- Antilocapridae
 
-Antilocapra americana <Mexican pronghorn> (Only the population of Mexico; no other population is included in the Appendices)
+- Antilocapra americana <Mexican pronghorn> (Only the population of Mexico; no other population is included in the Appendices)
 
-Bovidae
+- Bovidae
 
-Addax nasomaculatus <Addax>
+- Addax nasomaculatus <Addax>
 
-Ammotragus lervia <Aoudad, barbary sheep>
+- Ammotragus lervia <Aoudad, barbary sheep>
 
-Antilope cervicapra <Blackbuck> (Nepal, Pakistan)
+- Antilope cervicapra <Blackbuck> (Nepal, Pakistan)
 
-Bison bison athabascae <Wood bison>
+- Bison bison athabascae <Wood bison>
 
-Bos gaurus <Gaur, saladang> (Excludes the domesticated form, which is referenced as Bos frontalis, and is not subject to the provisions of this Ordinance)
+- Appendix I | Appendix II | Appendix III
 
-Bos mutus <Wild yak> (Excludes the domesticated form, which is referenced as Bos grunniens, and is not subject to the provisions of this Ordinance)
+- Bos gaurus <Gaur, saladang> (Excludes the domesticated form, which is referenced as Bos frontalis, and is not subject to the provisions of this Ordinance)
 
-Bos sauveli <Kouprey>
+- Bos mutus <Wild yak> (Excludes the domesticated form, which is referenced as Bos grunniens, and is not subject to the provisions of this Ordinance)
 
-Boselaphus tragocamelus (Pakistan)
+- Bos sauveli <Kouprey>
 
-Bubalus arnee <Wild Asiatic buffalo> (Nepal) (Excludes the domesticated form, which is referenced as Bubalus bubalis)
+- Boselaphus tragocamelus (Pakistan)
 
-Bubalus depressicornis <Lowland anoa>
+- Bubalus arnee <Wild Asiatic buffalo> (Nepal) (Excludes the domesticated form, which is referenced as Bubalus bubalis)
 
-Bubalus mindorensis <Tamaraw>
+- Appendix I | Appendix II | Appendix III
 
-Bubalus quarlesi <Mountain anoa>
+- Bubalus depressicornis <Lowland anoa>
 
-Budorcas taxicolor <Takin>
+- Bubalus mindorensis <Tamaraw>
 
-Capra falconeri <Markhor>
+- Bubalus quarlesi <Mountain anoa>
 
-Capra hircus aegagrus (Pakistan)
+- Budorcas taxicolor <Takin>
 
-Capra sibirica (Pakistan)
+- Capra falconeri <Markhor>
 
-Capricornis milneedwardsii <Chinese serow>
+- Capra hircus aegagrus (Pakistan)
 
-Capricornis rubidus <Red serow>
+- Capra sibirica (Pakistan)
 
-Capricornis sumatraensis <Mainland serow>
+- Capricornis milneedwardsii <Chinese serow>
 
-Capricornis thar <Himalayan serow>
+- Capricornis rubidus <Red serow>
 
-Cephalophus brookei
+- Capricornis sumatraensis <Mainland serow>
 
-Cephalophus dorsalis <Bay duiker>
+- Appendix I | Appendix II | Appendix III
 
-Cephalophus jentinki <Jentink’s duiker>
+- Capricornis thar <Himalayan serow>
 
-Cephalophus ogilbyi <Ogilby’s duiker>
+- Cephalophus brookei
 
-Cephalophus silvicultor <Yellow-backed duiker>
+- Cephalophus dorsalis <Bay duiker>
 
-Cephalophus zebra <Banded duiker>
+- Cephalophus jentinki <Jentink’s duiker>
 
-Damaliscus pygargus pygargus <Bontebok>
+- Cephalophus ogilbyi <Ogilby’s duiker>
 
-Gazella bennettii (Pakistan)
+- Cephalophus silvicultor <Yellow-backed duiker>
 
-Gazella cuvieri <Cuvier’s gazelle, edmi gazelle>
+- Cephalophus zebra <Banded duiker>
 
-Gazella dorcas <Dorcas gazelle> (Algeria, Tunisia)
+- Damaliscus pygargus pygargus <Bontebok>
 
-Gazella leptoceros <Rhim gazelle, sand gazelle>
+- Gazella bennettii (Pakistan)
 
-Hippotragus niger variani <Giant sable antelope>
+- Gazella cuvieri <Cuvier’s gazelle, edmi gazelle>
 
-Kobus leche <Lechwe>
+- Appendix I | Appendix II | Appendix III
 
-Naemorhedus baileyi <Red goral>
+- Gazella dorcas <Dorcas gazelle> (Algeria, Tunisia)
 
-Naemorhedus caudatus <Chinese goral>
+- Gazella leptoceros <Rhim gazelle, sand gazelle>
 
-Naemorhedus goral <Goral>
+- Hippotragus niger variani <Giant sable antelope>
 
-Naemorhedus griseus <South China goral>
+- Kobus leche <Lechwe>
 
-Nanger dama <Addra gazelle>
+- Naemorhedus baileyi <Red goral>
 
-Oryx dammah <Sahara oryx>
+- Naemorhedus caudatus <Chinese goral>
 
-Oryx leucoryx <Arabian oryx>
+- Naemorhedus goral <Goral>
 
-Ovis ammon <Argali> (Except the subspecies included in Appendix I)
+- Naemorhedus griseus <South China goral>
 
-Ovis ammon hodgsonii <Great Tibetan sheep>
+- Nanger dama <Addra gazelle>
 
-Ovis ammon nigrimontana <Kara Tau argali>
+- Oryx dammah <Sahara oryx>
 
-Ovis canadensis <Bighorn sheep> (Only the population of Mexico; no other population is included in the Appendices)
+- Appendix I | Appendix II | Appendix III
 
-Ovis orientalis ophion <Cyprian wild sheep, Cyprus mouflon>
+- Oryx leucoryx <Arabian oryx>
 
-Ovis vignei <Red sheep, urial, shapo> (Except the subspecies included in Appendix I)
+- Ovis ammon <Argali> (Except the subspecies included in Appendix I)
 
-Ovis vignei vignei <Ladakh urial>
+- Ovis ammon hodgsonii <Great Tibetan sheep>
 
-Pantholops hodgsonii <Chiru, Tibetan antelope>
+- Ovis ammon nigrimontana <Kara Tau argali>
 
-Philantomba monticola <Blue duiker>
+- Ovis canadensis <Bighorn sheep> (Only the population of Mexico; no other population is included in the Appendices)
 
-Pseudois nayaur (Pakistan)
+- Ovis orientalis ophion <Cyprian wild sheep, Cyprus mouflon>
 
-Pseudoryx nghetinhensis <Saola>
+- Ovis vignei <Red sheep, urial, shapo> (Except the subspecies included in Appendix I)
 
-Rupicapra pyrenaica ornata <Abruzzo chamois>
+- Appendix I | Appendix II | Appendix III
 
-Saiga borealis <Mongolian saiga>
+- Ovis vignei vignei <Ladakh urial>
 
-Saiga tatarica <Saiga>
+- Pantholops hodgsonii <Chiru, Tibetan antelope>
 
-Tetracerus quadricornis <Chousingha, four-horned antelope> (Nepal)
+- Philantomba monticola <Blue duiker>
 
-Camelidae
+- Pseudois nayaur (Pakistan)
 
-Lama guanicoe <Guanaco>
+- Pseudoryx nghetinhensis <Saola>
 
-Vicugna vicugna <Vicugna> (Except the populations of Argentina [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia [the whole population]; Chile [population of the Primera Región]; Ecuador [the whole population]; and Peru [the whole population]; which are included in Appendix II)
+- Rupicapra pyrenaica ornata <Abruzzo chamois>
 
-Vicugna vicugna <Vicugna> (Only the populations of Argentina1 [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia2 [the whole population]; Chile3 [population of the Primera Región]; Ecuador3A [the whole population]; and Peru4 [the whole population]; all other populations are included in Appendix I)
+- Saiga borealis <Mongolian saiga>
 
-Cervidae
+- Saiga tatarica <Saiga>
 
-Axis calamianensis <Calamian deer>
+- Tetracerus quadricornis <Chousingha, four-horned antelope> (Nepal)
 
-Axis kuhlii <Bawean deer, Kuhl’s hog deer>
+- Appendix I | Appendix II | Appendix III
 
-Axis porcinus (Except the subspecies included in Appendix I) (Pakistan)
+- Camelidae
 
-Axis porcinus annamiticus <Ganges hog deer, Thai hog deer>
+- Lama guanicoe <Guanaco>
 
-Blastocerus dichotomus <Marsh deer>
+- Vicugna vicugna <Vicugna> (Except the populations of Argentina [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia [the whole population]; Chile [population of the Primera Región]; Ecuador [the whole population]; and Peru [the whole population]; which are included in Appendix II)
 
-Cervus elaphus bactrianus <Bactrian deer>
+- Appendix I | Appendix II | Appendix III
 
-Cervus elaphus barbarus <Atlas deer, Barbary red deer> (Algeria, Tunisia)
+- Vicugna vicugna <Vicugna> (Only the populations of Argentina1 [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Plurinational State of Bolivia2 [the whole population]; Chile3 [population of the Primera Región]; Ecuador3A [the whole population]; and Peru4 [the whole population]; all other populations are included in Appendix I)
 
-Cervus elaphus hanglu <Hangul, Kashmir deer>
+- Appendix I | Appendix II | Appendix III
 
-Dama dama mesopotamica <Mesopotamian fallow deer, Persian fallow deer>
+- Cervidae
 
-Hippocamelus spp. <Huemuls, Andean guemals>
+- Axis calamianensis <Calamian deer>
 
-Mazama temama cerasina <Guatemalan red brocket> (Guatemala)
+- Axis kuhlii <Bawean deer, Kuhl’s hog deer>
 
-Muntiacus crinifrons <Black muntjac>
+- Axis porcinus (Except the subspecies included in Appendix I) (Pakistan)
 
-Muntiacus vuquangensis <Giant muntjac>
+- Axis porcinus annamiticus <Ganges hog deer, Thai hog deer>
 
-Odocoileus virginianus mayensis <Guatemalan white-tailed deer> (Guatemala)
+- Blastocerus dichotomus <Marsh deer>
 
-Ozotoceros bezoarticus <Pampas deer>
+- Cervus elaphus bactrianus <Bactrian deer>
 
-Pudu mephistophiles <Northern pudu>
+- Cervus elaphus barbarus <Atlas deer, Barbary red deer> (Algeria, Tunisia)
 
-Pudu puda <Chilean pudu>
+- Cervus elaphus hanglu <Hangul, Kashmir deer>
 
-Rucervus duvaucelii <Barasingha, swamp deer>
+- Dama dama mesopotamica <Mesopotamian fallow deer, Persian fallow deer>
 
-Rucervus eldii <Brow-antlered deer>
+- Appendix I | Appendix II | Appendix III
 
-Hippopotamidae
+- Hippocamelus spp. <Huemuls, Andean guemals>
 
-Hexaprotodon liberiensis <Pygmy hippopotamus>
+- Mazama temama cerasina <Guatemalan red brocket> (Guatemala)
 
-Hippopotamus amphibius <Hippopotamus>
+- Muntiacus crinifrons <Black muntjac>
 
-Moschidae
+- Muntiacus vuquangensis <Giant muntjac>
 
-Moschus spp. <Musk deer> (Only the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan; all other populations are included in Appendix II)
+- Odocoileus virginianus mayensis <Guatemalan white-tailed deer> (Guatemala)
 
-Moschus spp. <Musk deer> (Except the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, which are included in Appendix I)
+- Ozotoceros bezoarticus <Pampas deer>
 
-Suidae
+- Pudu mephistophiles <Northern pudu>
 
-Babyrousa babyrussa <Babiroussa>
+- Pudu puda <Chilean pudu>
 
-Babyrousa bolabatuensis <Bola batu babirusa>
+- Rucervus duvaucelii <Barasingha, swamp deer>
 
-Babyrousa celebensis <North Sulawesi babirusa>
+- Appendix I | Appendix II | Appendix III
 
-Babyrousa togeanensis <Malenge babirusa>
+- Rucervus eldii <Brow-antlered deer>
 
-Sus salvanius <Pygmy hog>
+- Hippopotamidae
 
-Tayassuidae
+- Hexaprotodon liberiensis <Pygmy hippopotamus>
 
-Tayassuidae spp. <Peccaries> (Except the species included in Appendix I and the populations of Pecari tajacu of Mexico and the United States of America, which are not included in the Appendices)
+- Hippopotamus amphibius <Hippopotamus>
 
-Catagonus wagneri <Chacoan peccary>
+- Moschidae
 
-CARNIVORA
+- Moschus spp. <Musk deer> (Only the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan; all other populations are included in Appendix II)
 
-Ailuridae
+- Moschus spp. <Musk deer> (Except the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, which are included in Appendix I)
 
-Ailurus fulgens <Lesser panda>
+- Appendix I | Appendix II | Appendix III
 
-Canidae
+- Suidae
 
-Canis aureus <Golden jackal> (India)
+- Babyrousa babyrussa <Babiroussa>
 
-Canis lupus <Common wolf, timber wolf> (Only the populations of Bhutan, India, Nepal and Pakistan; all other populations are included in Appendix II. Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo)
+- Babyrousa bolabatuensis <Bola batu babirusa>
 
-Canis lupus <Common wolf, timber wolf> (Except the populations of Bhutan, India, Nepal and Pakistan, which are included in Appendix I. Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo)
+- Babyrousa celebensis <North Sulawesi babirusa>
 
-Cerdocyon thous <Common zorro, forest fox>
+- Babyrousa togeanensis <Malenge babirusa>
 
-Chrysocyon brachyurus <Maned wolf>
+- Sus salvanius <Pygmy hog>
 
-Cuon alpinus <Asiatic wild dog, red dog>
+- Tayassuidae
 
-Lycalopex culpaeus <Andean wolf, colpeo fox>
+- Tayassuidae spp. <Peccaries> (Except the species included in Appendix I and the populations of Pecari tajacu of Mexico and the United States of America, which are not included in the Appendices)
 
-Lycalopex fulvipes
+- Appendix I | Appendix II | Appendix III
 
-Lycalopex griseus <Argentine grey fox>
+- Catagonus wagneri <Chacoan peccary>
 
-Lycalopex gymnocercus <Azara’s zorro, pampa fox>
+- CARNIVORA
 
-Speothos venaticus <Bush dog>
+- Ailuridae
 
-Vulpes bengalensis <Bengal fox> (India)
+- Ailurus fulgens <Lesser panda>
 
-Vulpes cana <Afghan fox>
+- Canidae
 
-Vulpes vulpes griffithi <Red fox> (India)
+- Canis aureus <Golden jackal> (India)
 
-Vulpes vulpes montana <Mountain red fox> (India)
+- Canis lupus <Common wolf, timber wolf> (Only the populations of Bhutan, India, Nepal and Pakistan; all other populations are included in Appendix II. Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo)
 
-Vulpes vulpes pusilla <Red fox> (India)
+- Appendix I | Appendix II | Appendix III
 
-Vulpes zerda <Fennec fox>
+- Canis lupus <Common wolf, timber wolf> (Except the populations of Bhutan, India, Nepal and Pakistan, which are included in Appendix I. Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo)
 
-Eupleridae
+- Cerdocyon thous <Common zorro, forest fox>
 
-Cryptoprocta ferox <Fosa>
+- Chrysocyon brachyurus <Maned wolf>
 
-Eupleres goudotii <Falanouc>
+- Cuon alpinus <Asiatic wild dog, red dog>
 
-Fossa fossana <Fanaloka>
+- Appendix I | Appendix II | Appendix III
 
-Felidae
+- Lycalopex culpaeus <Andean wolf, colpeo fox>
 
-Felidae spp. <Cats> (Except the species included in Appendix I. Specimens of the domesticated form are not subject to the provisions of this Ordinance)
+- Lycalopex fulvipes
 
-Acinonyx jubatus <Cheetah> (Annual export quotas for live specimens and hunting trophies are granted as follows: Botswana: 5; Namibia: 150; Zimbabwe: 50. The trade in such specimens is subject to the provisions of this Ordinance)
+- Lycalopex griseus <Argentine grey fox>
 
-Caracal caracal <African caracal> (Only the population of Asia; all other populations are included in Appendix II)
+- Lycalopex gymnocercus <Azara’s zorro, pampa fox>
 
-Catopuma temminckii <Asiatic golden cat>
+- Speothos venaticus <Bush dog>
 
-Felis nigripes <Black-footed cat>
+- Vulpes bengalensis <Bengal fox> (India)
 
-Leopardus geoffroyi <Geoffroy’s cat>
+- Vulpes cana <Afghan fox>
 
-Leopardus jacobitus <Andean cat>
+- Vulpes vulpes griffithi <Red fox> (India)
 
-Leopardus pardalis <Ocelot>
+- Vulpes vulpes montana <Mountain red fox> (India)
 
-Leopardus tigrinus <Little spotted cat>
+- Vulpes vulpes pusilla <Red fox> (India)
 
-Leopardus wiedii <Margay>
+- Appendix I | Appendix II | Appendix III
 
-Lynx pardinus <Iberian lynx>
+- Vulpes zerda <Fennec fox>
 
-Neofelis nebulosa <Clouded leopard>
+- Eupleridae
 
-Panthera leo persica <Asiatic lion>
+- Cryptoprocta ferox <Fosa>
 
-Panthera onca <Jaguar>
+- Eupleres goudotii <Falanouc>
 
-Panthera pardus <Leopard>
+- Fossa fossana <Fanaloka>
 
-Panthera tigris <Tiger>
+- Felidae
 
-Pardofelis marmorata <Marbled cat>
+- Felidae spp. <Cats> (Except the species included in Appendix I. Specimens of the domesticated form are not subject to the provisions of this Ordinance)
 
-Prionailurus bengalensis bengalensis <Bengal leopard cat> (Only the populations of Bangladesh, India and Thailand; all other populations are included in Appendix II)
+- Appendix I | Appendix II | Appendix III
 
-Prionailurus planiceps <Flat-headed cat>
+- Acinonyx jubatus <Cheetah> (Annual export quotas for live specimens and hunting trophies are granted as follows: Botswana: 5; Namibia: 150; Zimbabwe: 50. The trade in such specimens is subject to the provisions of this Ordinance)
 
-Prionailurus rubiginosus <Rusty-spotted cat> (Only the population of India; all other populations are included in Appendix II)
+- Caracal caracal <African caracal> (Only the population of Asia; all other populations are included in Appendix II)
 
-Puma concolor coryi <Florida cougar, Florida puma>
+- Catopuma temminckii <Asiatic golden cat>
 
-Puma concolor costaricensis <Central American puma, Costa Rican puma>
+- Appendix I | Appendix II | Appendix III
 
-Puma concolor couguar <Eastern cougar, eastern puma>
+- Felis nigripes <Black-footed cat>
 
-Puma yagouaroundi <Eyra cat, jaguarundi> (Only the populations of Central and North America; all other populations are included in Appendix II)
+- Leopardus geoffroyi <Geoffroy’s cat>
 
-Uncia uncia <Ounce, snow leopard>
+- Leopardus jacobitus <Andean cat>
 
-Herpestidae
+- Leopardus pardalis <Ocelot>
 
-Herpestes edwardsi <Indian grey mongoose> (India, Pakistan)
+- Leopardus tigrinus <Little spotted cat>
 
-Herpestes fuscus <Indian brown mongoose> (India)
+- Leopardus wiedii <Margay>
 
-Herpestes javanicus (Pakistan)
+- Lynx pardinus <Iberian lynx>
 
-Herpestes javanicus auropunctatus <Small Indian mongoose> (India)
+- Neofelis nebulosa <Clouded leopard>
 
-Herpestes smithii <Ruddy mongoose> (India)
+- Panthera leo persica <Asiatic lion>
 
-Herpestes urva <Crab-eating mongoose> (India)
+- Panthera onca <Jaguar>
 
-Herpestes vitticollis <Stripe-necked mongoose> (India)
+- Appendix I | Appendix II | Appendix III
 
-Hyaenidae
+- Panthera pardus <Leopard>
 
-Hyaena hyaena <Striped hyaena> (Pakistan)
+- Panthera tigris <Tiger>
 
-Proteles cristata <Aardwolf> (Botswana)
+- Pardofelis marmorata <Marbled cat>
 
-Mephitidae
+- Prionailurus bengalensis bengalensis <Bengal leopard cat> (Only the populations of Bangladesh, India and Thailand; all other populations are included in Appendix II)
 
-Conepatus humboldtii <Humboldt’s hog-nosed skunk, Patagonian hog-nosed skunk>
+- Prionailurus planiceps <Flat-headed cat>
 
-Mustelidae
+- Appendix I | Appendix II | Appendix III
 
-Lutrinae
+- Prionailurus rubiginosus <Rusty-spotted cat> (Only the population of India; all other populations are included in Appendix II)
 
-Lutrinae spp. <Otters> (Except the species included in Appendix I)
+- Puma concolor coryi <Florida cougar, Florida puma>
 
-Aonyx capensis microdon <Cameroon clawless otter> (Only the populations of Cameroon and Nigeria; all other populations are included in Appendix II)
+- Puma concolor costaricensis <Central American puma, Costa Rican puma>
 
-Enhydra lutris nereis <California sea otter, southern sea otter>
+- Puma concolor couguar <Eastern cougar, eastern puma>
 
-Lontra felina <Chingungo, marine otter>
+- Puma yagouaroundi <Eyra cat, jaguarundi> (Only the populations of Central and North America; all other populations are included in Appendix II)
 
-Lontra longicaudis <Long-tailed otter, South American river otter>
+- Uncia uncia <Ounce, snow leopard>
 
-Lontra provocax <Huillin, southern river otter>
+- Appendix I | Appendix II | Appendix III
 
-Lutra lutra <Common otter, Eurasian otter>
+- Herpestidae
 
-Lutra nippon
+- Herpestes edwardsi <Indian grey mongoose> (India, Pakistan)
 
-Pteronura brasiliensis <Giant Brazilian otter>
+- Herpestes fuscus <Indian brown mongoose> (India)
 
-Mustelinae
+- Herpestes javanicus (Pakistan)
 
-Eira barbara <Tayra> (Honduras)
+- Herpestes javanicus auropunctatus <Small Indian mongoose> (India)
 
-Galictis vittata <Greater grison> (Costa Rica)
+- Herpestes smithii <Ruddy mongoose> (India)
 
-Martes flavigula <Central Asian stone marten> (India)
+- Herpestes urva <Crab-eating mongoose> (India)
 
-Martes foina intermedia <Central Asian stone marten> (India)
+- Herpestes vitticollis <Stripe-necked mongoose> (India)
 
-Martes gwatkinsii <Nilgiri marten> (India)
+- Appendix I | Appendix II | Appendix III
 
-Mellivora capensis <Honey badger> (Botswana)
+- Hyaenidae
 
-Mustela altaica <Mountain weasel> (India)
+- Hyaena hyaena <Striped hyaena> (Pakistan)
 
-Mustela erminea ferghanae <Ermine> (India)
+- Proteles cristata <Aardwolf> (Botswana)
 
-Mustela kathiah <Yellow-bellied weasel> (India)
+- Mephitidae
 
-Mustela nigripes <Black-footed ferret>
+- Conepatus humboldtii <Humboldt’s hog-nosed skunk, Patagonian hog-nosed skunk>
 
-Mustela sibirica <Siberian weasel> (India)
+- Mustelidae
 
-Odobenidae
+- Lutrinae
 
-Odobenus rosmarus <Walrus> (Canada)
+- Lutrinae spp. <Otters> (Except the species included in Appendix I)
 
-Otariidae
+- Appendix I | Appendix II | Appendix III
 
-Arctocephalus spp. <Southern fur seals> (Except the species included in Appendix I)
+- Aonyx capensis microdon <Cameroon clawless otter> (Only the populations of Cameroon and Nigeria; all other populations are included in Appendix II)
 
-Arctocephalus townsendi <Guadalupe fur seal>
+- Enhydra lutris nereis <California sea otter, southern sea otter>
 
-Phocidae
+- Lontra felina <Chingungo, marine otter>
 
-Mirounga leonina <South Atlantic elephant-seal>
+- Lontra longicaudis <Long-tailed otter, South American river otter>
 
-Monachus spp. <Monk seals>
+- Lontra provocax <Huillin, southern river otter>
 
-Procyonidae
+- Lutra lutra <Common otter, Eurasian otter>
 
-Bassaricyon gabbii <Bushy-tailed olingo> (Costa Rica)
+- Lutra nippon
 
-Bassariscus sumichrasti <Central American cacomistle> (Costa Rica)
+- Pteronura brasiliensis <Giant Brazilian otter>
 
-Nasua narica <Coati> (Honduras)
+- Appendix I | Appendix II | Appendix III
 
-Nasua nasua solitaria <South Brazilian coati> (Uruguay)
+- Mustelinae
 
-Potos flavus <Kinkajou> (Honduras)
+- Eira barbara <Tayra> (Honduras)
 
-Ursidae
+- Galictis vittata <Greater grison> (Costa Rica)
 
-Ursidae spp. <Bears> (Except the species included in Appendix I)
+- Martes flavigula <Central Asian stone marten> (India)
 
-Ailuropoda melanoleuca <Giant panda>
+- Martes foina intermedia <Central Asian stone marten> (India)
 
-Helarctos malayanus <Malayan sun bear>
+- Martes gwatkinsii <Nilgiri marten> (India)
 
-Melursus ursinus <Sloth bear>
+- Mellivora capensis <Honey badger> (Botswana)
 
-Tremarctos ornatus <Andean bear, spectacled bear>
+- Mustela altaica <Mountain weasel> (India)
 
-Ursus arctos <Brown bear> (Only the populations of Bhutan, China, Mexico and Mongolia; all other populations are included in Appendix II)
+- Mustela erminea ferghanae <Ermine> (India)
 
-Ursus arctos isabellinus <Himalayan brown bear>
+- Mustela kathiah <Yellow-bellied weasel> (India)
 
-Ursus thibetanus <Asiatic black bear>
+- Appendix I | Appendix II | Appendix III
 
-Viverridae
+- Mustela nigripes <Black-footed ferret>
 
-Arctictis binturong <Binturong> (India)
+- Mustela sibirica <Siberian weasel> (India)
 
-Civettictis civetta <African civet> (Botswana)
+- Odobenidae
 
-Cynogale bennettii <Otter-civet>
+- Odobenus rosmarus <Walrus> (Canada)
 
-Hemigalus derbyanus <Banded musang, banded palm civet>
+- Otariidae
 
-Paguma larvata <Masked palm civet> (India)
+- Arctocephalus spp. <Southern fur seals> (Except the species included in Appendix I)
 
-Paradoxurus hermaphroditus <Common palm civet> (India)
+- Arctocephalus townsendi <Guadalupe fur seal>
 
-Paradoxurus jerdoni <Jerdon’s palm civet> (India)
+- Phocidae
 
-Prionodon linsang <Banded linsang>
+- Mirounga leonina <South Atlantic elephant-seal>
 
-Prionodon pardicolor <Spotted linsang>
+- Monachus spp. <Monk seals>
 
-Viverra civettina <Malabar large-spotted civet> (India)
+- Appendix I | Appendix II | Appendix III
 
-Viverra zibetha <Large Indian civet> (India)
+- Procyonidae
 
-Viverricula indica <Small Indian civet> (India)
+- Bassaricyon gabbii <Bushy-tailed olingo> (Costa Rica)
 
-CETACEA
+- Bassariscus sumichrasti <Central American cacomistle> (Costa Rica)
 
-CETACEA spp. <e.g. Cetaceans, dolphins, porpoises, whales> (Except the species included in Appendix I. A zero annual export quota has been established for live specimens from the Black Sea population of Tursiops truncatus <Bottle-nosed dolphin> removed from the wild and traded for primarily commercial purposes)
+- Nasua narica <Coati> (Honduras)
 
-Balaenidae
+- Nasua nasua solitaria <South Brazilian coati> (Uruguay)
 
-Balaena mysticetus <Bowhead whale, Greenland right whale>
+- Potos flavus <Kinkajou> (Honduras)
 
-Eubalaena spp. <Right whales>
+- Ursidae
 
-Balaenopteridae
+- Ursidae spp. <Bears> (Except the species included in Appendix I)
 
-Balaenoptera acutorostrata <Lesser rorqual, minke whale> (Except the population of West Greenland, which is included in Appendix II)
+- Ailuropoda melanoleuca <Giant panda>
 
-Balaenoptera bonaerensis <Antarctic minke whale>
+- Appendix I | Appendix II | Appendix III
 
-Balaenoptera borealis <Coalfish whale, sei whale>
+- Helarctos malayanus <Malayan sun bear>
 
-Balaenoptera edeni <Bryde’s whale>
+- Melursus ursinus <Sloth bear>
 
-Balaenoptera musculus <Blue whale>
+- Tremarctos ornatus <Andean bear, spectacled bear>
 
-Balaenoptera omurai <Omura’s whale>
+- Ursus arctos <Brown bear> (Only the populations of Bhutan, China, Mexico and Mongolia; all other populations are included in Appendix II)
 
-Balaenoptera physalus <Common rorqual, fin whale>
+- Ursus arctos isabellinus <Himalayan brown bear>
 
-Megaptera novaeangliae <Bunch, humpback whale>
+- Ursus thibetanus <Asiatic black bear>
 
-Delphinidae
+- Appendix I | Appendix II | Appendix III
 
-Orcaella brevirostris <Irrawaddy dolphin>
+- Viverridae
 
-Orcaella heinsohni <Australian snubfin dolphin>
+- Arctictis binturong <Binturong> (India)
 
-Sotalia spp. <River dolphins>
+- Civettictis civetta <African civet> (Botswana)
 
-Sousa spp. <Humpback dolphins>
+- Cynogale bennettii <Otter-civet>
 
-Eschrichtiidae
+- Hemigalus derbyanus <Banded musang, banded palm civet>
 
-Eschrichtius robustus <Devil fish, grey whale>
+- Paguma larvata <Masked palm civet> (India)
 
-Iniidae
+- Paradoxurus hermaphroditus <Common palm civet> (India)
 
-Lipotes vexillifer <Baiji, white flat dolphin>
+- Paradoxurus jerdoni <Jerdon’s palm civet> (India)
 
-Neobalaenidae
+- Prionodon linsang <Banded linsang>
 
-Caperea marginata <Pygmy right whale>
+- Appendix I | Appendix II | Appendix III
 
-Phocoenidae
+- Prionodon pardicolor <Spotted linsang>
 
-Neophocaena phocaenoides <Black finless porpoise>
+- Viverra civettina <Malabar large-spotted civet> (India)
 
-Phocoena sinus <Cochito>
+- Viverra zibetha <Large Indian civet> (India)
 
-Physeteridae
+- Viverricula indica <Small Indian civet> (India)
 
-Physeter macrocephalus <Cachelot, sperm whale>
+- CETACEA
 
-Platanistidae
+- CETACEA spp. <e.g. Cetaceans, dolphins, porpoises, whales> (Except the species included in Appendix I. A zero annual export quota has been established for live specimens from the Black Sea population of Tursiops truncatus <Bottle-nosed dolphin> removed from the wild and traded for primarily commercial purposes)
 
-Platanista spp. <Susus>
+- Appendix I | Appendix II | Appendix III
 
-Ziphiidae
+- Balaenidae
 
-Berardius spp. <Beaked whales>
+- Balaena mysticetus <Bowhead whale, Greenland right whale>
 
-Hyperoodon spp. <Bottlenose whales>
+- Eubalaena spp. <Right whales>
 
-CHIROPTERA
+- Balaenopteridae
 
-Phyllostomidae
+- Balaenoptera acutorostrata <Lesser rorqual, minke whale> (Except the population of West Greenland, which is included in Appendix II)
 
-Platyrrhinus lineatus <White-lined bat> (Uruguay)
+- Balaenoptera bonaerensis <Antarctic minke whale>
 
-Pteropodidae
+- Balaenoptera borealis <Coalfish whale, sei whale>
 
-Acerodon spp. <Flying-foxes> (Except the species included in Appendix I)
+- Balaenoptera edeni <Bryde’s whale>
 
-Acerodon jubatus <Golden-capped fruit bat>
+- Appendix I | Appendix II | Appendix III
 
-Pteropus spp. <Flying-foxes> (Except Pteropus brunneus <Dusky flying-fox> and the species included in Appendix I)
+- Balaenoptera musculus <Blue whale>
 
-Pteropus insularis <Chuuk flying-fox>
+- Balaenoptera omurai <Omura’s whale>
 
-Pteropus loochoensis <Japanese flying-fox>
+- Balaenoptera physalus <Common rorqual, fin whale>
 
-Pteropus mariannus <Marianas flying-fox>
+- Megaptera novaeangliae <Bunch, humpback whale>
 
-Pteropus molossinus <Caroline flying-fox>
+- Delphinidae
 
-Pteropus pelewensis <Palau flying-fox>
+- Orcaella brevirostris <Irrawaddy dolphin>
 
-Pteropus pilosus <Large Palau flying-fox>
+- Orcaella heinsohni <Australian snubfin dolphin>
 
-Pteropus samoensis <Samoan flying-fox>
+- Sotalia spp. <River dolphins>
 
-Pteropus tonganus <Insular flying-fox>
+- Sousa spp. <Humpback dolphins>
 
-Pteropus ualanus <Kosrae flying-fox>
+- Appendix I | Appendix II | Appendix III
 
-Pteropus yapensis <Yap flying-fox>
+- Eschrichtiidae
 
-CINGULATA
+- Eschrichtius robustus <Devil fish, grey whale>
 
-Dasypodidae
+- Iniidae
 
-Cabassous centralis <Northern naked-tailed armadillo> (Costa Rica)
+- Lipotes vexillifer <Baiji, white flat dolphin>
 
-Cabassous tatouay <Greater naked-tailed armadillo> (Uruguay)
+- Neobalaenidae
 
-Chaetophractus nationi <Andean hairy armadillo> (A zero annual export quota has been established. All specimens shall be deemed to be specimens of species included in Appendix I)
+- Caperea marginata <Pygmy right whale>
 
-Priodontes maximus <Giant armadillo>
+- Phocoenidae
 
-DASYUROMORPHIA
+- Neophocaena phocaenoides <Black finless porpoise>
 
-Dasyuridae
+- Phocoena sinus <Cochito>
 
-Sminthopsis longicaudata <Long-tailed dunnart>
+- Physeteridae
 
-Sminthopsis psammophila <Large desert marsupial-mouse>
+- Physeter macrocephalus <Cachelot, sperm whale>
 
-DIPROTODONTIA
+- Platanistidae
 
-Macropodidae
+- Platanista spp. <Susus>
 
-Dendrolagus inustus <Grizzled tree-kangaroo>
+- Appendix I | Appendix II | Appendix III
 
-Dendrolagus ursinus <Black tree-kangaroo>
+- Ziphiidae
 
-Lagorchestes hirsutus <Ormala>
+- Berardius spp. <Beaked whales>
 
-Lagostrophus fasciatus <Banded hare-wallaby>
+- Hyperoodon spp. <Bottlenose whales>
 
-Onychogalea fraenata <Bridled nailtail wallaby>
+- CHIROPTERA
 
-Phalangeridae
+- Phyllostomidae
 
-Phalanger intercastellanus <Eastern common cuscus>
+- Platyrrhinus lineatus <White-lined bat> (Uruguay)
 
-Phalanger mimicus <Cryptic cuscus>
+- Pteropodidae
 
-Phalanger orientalis <Common phalanger, grey cuscus>
+- Acerodon spp. <Flying-foxes> (Except the species included in Appendix I)
 
-Spilocuscus kraemeri <Admiralty cuscus>
+- Acerodon jubatus <Golden-capped fruit bat>
 
-Spilocuscus maculatus <Common spotted cuscus>
+- Appendix I | Appendix II | Appendix III
 
-Spilocuscus papuensis <Waigeo cuscus>
+- Pteropus spp. <Flying-foxes> (Except Pteropus brunneus <Dusky flying-fox> and the species included in Appendix I)
 
-Potoroidae
+- Pteropus insularis <Chuuk flying-fox>
 
-Bettongia spp. <Bettongs>
+- Pteropus loochoensis <Japanese flying-fox>
 
-Vombatidae
+- Pteropus mariannus <Marianas flying-fox>
 
-Lasiorhinus krefftii <Northern hairy-nosed wombat>
+- Pteropus molossinus <Caroline flying-fox>
 
-LAGOMORPHA
+- Pteropus pelewensis <Palau flying-fox>
 
-Leporidae
+- Pteropus pilosus <Large Palau flying-fox>
 
-Caprolagus hispidus <Assam rabbit>
+- Pteropus samoensis <Samoan flying-fox>
 
-Romerolagus diazi <Volcano rabbit>
+- Appendix I | Appendix II | Appendix III
 
-MONOTREMATA
+- Pteropus tonganus <Insular flying-fox>
 
-Tachyglossidae
+- Pteropus ualanus <Kosrae flying-fox>
 
-Zaglossus spp. <Long-nosed echidnas>
+- Pteropus yapensis <Yap flying-fox>
 
-PERAMELEMORPHIA
+- CINGULATA
 
-Peramelidae
+- Dasypodidae
 
-Perameles bougainville <Barred bandicoot>
+- Cabassous centralis <Northern naked-tailed armadillo> (Costa Rica)
 
-Thylacomyidae
+- Cabassous tatouay <Greater naked-tailed armadillo> (Uruguay)
 
-Macrotis lagotis <Bilby>
+- Chaetophractus nationi <Andean hairy armadillo> (A zero annual export quota has been established. All specimens shall be deemed to be specimens of species included in Appendix I)
 
-PERISSODACTYLA
+- Appendix I | Appendix II | Appendix III
 
-Equidae
+- Priodontes maximus <Giant armadillo>
 
-Equus africanus <African ass> (Excludes the domesticated form, which is referenced as Equus asinus, and is not subject to the provisions of this Ordinance)
+- DASYUROMORPHIA
 
-Equus grevyi <Grevy’s zebra>
+- Dasyuridae
 
-Equus hemionus <Asian wild ass> (Except the subspecies included in Appendix I)
+- Sminthopsis longicaudata <Long-tailed dunnart>
 
-Equus hemionus hemionus <Dziggetai, Mongolian wild ass>
+- Sminthopsis psammophila <Large desert marsupial-mouse>
 
-Equus hemionus khur <Ghor-khar, Indian wild ass>
+- DIPROTODONTIA
 
-Equus kiang <Kiang>
+- Macropodidae
 
-Equus przewalskii <Mongolian wild horse, Przewalski’s horse>
+- Dendrolagus inustus <Grizzled tree-kangaroo>
 
-Equus zebra hartmannae <Hartmann’s mountain zerba>
+- Dendrolagus ursinus <Black tree-kangaroo>
 
-Equus zebra zebra <Cape mountain zebra>
+- Lagorchestes hirsutus <Ormala>
 
-Rhinocerotidae
+- Lagostrophus fasciatus <Banded hare-wallaby>
 
-Rhinocerotidae spp. <Rhinoceroses> (Except the subspecies included in Appendix II)
+- Onychogalea fraenata <Bridled nailtail wallaby>
 
-Ceratotherium simum simum <Southern square-lipped rhinoceros> (Only the populations of South Africa and Swaziland; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens shall be deemed to be specimens of species included in Appendix I)
+- Appendix I | Appendix II | Appendix III
 
-Tapiridae
+- Phalangeridae
 
-Tapiridae spp. <Tapirs> (Except the species included in Appendix II)
+- Phalanger intercastellanus <Eastern common cuscus>
 
-Tapirus terrestris <Brazilian tapir>
+- Phalanger mimicus <Cryptic cuscus>
 
-PHOLIDOTA
+- Phalanger orientalis <Common phalanger, grey cuscus>
 
-Manidae
+- Spilocuscus kraemeri <Admiralty cuscus>
 
-Manis spp. <Pangolins> (A zero annual export quota has been established for Manis crassicaudata, M. culionensis, M. javanica and M. pentadactyla for specimens removed from the wild and traded for primarily commercial purposes)
+- Spilocuscus maculatus <Common spotted cuscus>
 
-PILOSA
+- Spilocuscus papuensis <Waigeo cuscus>
 
-Bradypodidae
+- Potoroidae
 
-Bradypus pygmaeus <Pygmy three-toed sloth>
+- Bettongia spp. <Bettongs>
 
-Bradypus variegatus <Bolivian three-toed sloth>
+- Vombatidae
 
-Megalonychidae
+- Lasiorhinus krefftii <Northern hairy-nosed wombat>
 
-Choloepus hoffmanni <Hoffmann’s two-toed sloth> (Costa Rica)
+- Appendix I | Appendix II | Appendix III
 
-Myrmecophagidae
+- LAGOMORPHA
 
-Myrmecophaga tridactyla <Giant anteater>
+- Leporidae
 
-Tamandua mexicana <Northern tamandua> (Guatemala)
+- Caprolagus hispidus <Assam rabbit>
 
-PRIMATES
+- Romerolagus diazi <Volcano rabbit>
 
-PRIMATES spp. <e.g. Apes, monkeys, primates> (Except the species included in Appendix I)
+- MONOTREMATA
 
-Atelidae
+- Tachyglossidae
 
-Alouatta coibensis <Coiba Island howling monkey>
+- Zaglossus spp. <Long-nosed echidnas>
 
-Alouatta palliata <Mantled howler>
+- PERAMELEMORPHIA
 
-Alouatta pigra <Guatemalan howler>
+- Peramelidae
 
-Ateles geoffroyi frontatus <Black-browed spider monkey>
+- Perameles bougainville <Barred bandicoot>
 
-Ateles geoffroyi panamensis <Panama spider monkey>
+- Thylacomyidae
 
-Brachyteles arachnoides <Muriqui>
+- Macrotis lagotis <Bilby>
 
-Brachyteles hypoxanthus
+- PERISSODACTYLA
 
-Oreonax flavicauda <Yellow-tailed woolly monkey>
+- Equidae
 
-Cebidae
+- Equus africanus <African ass> (Excludes the domesticated form, which is referenced as Equus asinus, and is not subject to the provisions of this Ordinance)
 
-Callimico goeldii <Goeldi’s marmoset>
+- Appendix I | Appendix II | Appendix III
 
-Callithrix aurita <Buffy-tufted-ear marmoset>
+- Equus grevyi <Grevy’s zebra>
 
-Callithrix flaviceps <Buffy-headed marmoset>
+- Equus hemionus <Asian wild ass> (Except the subspecies included in Appendix I)
 
-Leontopithecus spp. <Lion tamarins>
+- Equus hemionus hemionus <Dziggetai, Mongolian wild ass>
 
-Saguinus bicolor <Bare-faced tamarin>
+- Equus hemionus khur <Ghor-khar, Indian wild ass>
 
-Saguinus geoffroyi <Cotton-top marmoset>
+- Equus kiang <Kiang>
 
-Saguinus leucopus <White-footed tamarin>
+- Equus przewalskii <Mongolian wild horse, Przewalski’s horse>
 
-Saguinus martinsi <Martins’s bared-faced tamarin>
+- Equus zebra hartmannae <Hartmann’s mountain zebra>
 
-Saguinus oedipus <Cotton-headed tamarin>
+- Equus zebra zebra <Cape mountain zebra>
 
-Saimiri oerstedii <Central American squirrel monkey>
+- Appendix I | Appendix II | Appendix III
 
-Cercopithecidae
+- Rhinocerotidae
 
-Cercocebus galeritus <Tana river mangabey>
+- Rhinocerotidae spp. <Rhinoceroses> (Except the subspecies included in Appendix II)
 
-Cercopithecus diana <Diana guenon>
+- Ceratotherium simum simum <Southern square-lipped rhinoceros> (Only the populations of South Africa and Swaziland; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens shall be deemed to be specimens of species included in Appendix I)
 
-Cercopithecus roloway <Roloway monkey>
+- Appendix I | Appendix II | Appendix III
 
-Macaca silenus <Lion-tailed macaque>
+- Tapiridae
 
-Mandrillus leucophaeus <Drill>
+- Tapiridae spp. <Tapirs> (Except the species included in Appendix II)
 
-Mandrillus sphinx <Mandrill>
+- Tapirus terrestris <Brazilian tapir>
 
-Nasalis larvatus <Long-nosed monkey>
+- PHOLIDOTA
 
-Piliocolobus kirkii <Kirk’s colobus>
+- Manidae
 
-Piliocolobus rufomitratus <Tana river colobus>
+- Manis spp. <Pangolins> (A zero annual export quota has been established for Manis crassicaudata, M. culionensis, M. javanica and M. pentadactyla for specimens removed from the wild and traded for primarily commercial purposes)
 
-Presbytis potenziani <Long-tailed langur>
+- Appendix I | Appendix II | Appendix III
 
-Pygathrix spp. <Snub-nosed monkeys>
+- PILOSA
 
-Rhinopithecus spp.
+- Bradypodidae
 
-Semnopithecus ajax <Kashmir grey langur>
+- Bradypus pygmaeus <Pygmy three-toed sloth>
 
-Semnopithecus dussumieri <Southern plains grey langur>
+- Bradypus variegatus <Bolivian three-toed sloth>
 
-Semnopithecus entellus <Common langur>
+- Megalonychidae
 
-Semnopithecus hector <Tarai grey langur>
+- Choloepus hoffmanni <Hoffmann’s two-toed sloth> (Costa Rica)
 
-Semnopithecus hypoleucos <Black-footed grey langur>
+- Myrmecophagidae
 
-Semnopithecus priam <Tufted grey langur>
+- Myrmecophaga tridactyla <Giant anteater>
 
-Semnopithecus schistaceus <Nepal grey langur>
+- Tamandua mexicana <Northern tamandua> (Guatemala)
 
-Simias concolor <Mentawi Islands snub-nosed langur>
+- Appendix I | Appendix II | Appendix III
 
-Trachypithecus geei <Golden langur>
+- PRIMATES
 
-Trachypithecus pileatus <Bonneted langur>
+- PRIMATES spp. <e.g. Apes, monkeys, primates> (Except the species included in Appendix I)
 
-Trachypithecus shortridgei <Shortridge’s langur; Shortridge’s leaf monkey>
+- Atelidae
 
-Cheirogaleidae
+- Alouatta coibensis <Coiba Island howling monkey>
 
-Cheirogaleidae spp. <Dwarf lemurs>
+- Alouatta palliata <Mantled howler>
 
-Daubentoniidae
+- Alouatta pigra <Guatemalan howler>
 
-Daubentonia madagascariensis <Aye-aye>
+- Ateles geoffroyi frontatus <Black-browed spider monkey>
 
-Hominidae
+- Ateles geoffroyi panamensis <Panama spider monkey>
 
-Gorilla beringei <Eastern gorilla>
+- Appendix I | Appendix II | Appendix III
 
-Gorilla gorilla <Gorilla>
+- Brachyteles arachnoides <Muriqui>
 
-Pan spp. <Chimpanzees>
+- Brachyteles hypoxanthus
 
-Pongo abelii <Sumatran orang-utan>
+- Oreonax flavicauda <Yellow-tailed woolly monkey>
 
-Pongo pygmaeus <Orang-utan>
+- Cebidae
 
-Hylobatidae
+- Callimico goeldii <Goeldi’s marmoset>
 
-Hylobatidae spp. <Gibbons>
+- Callithrix aurita <Buffy-tufted-ear marmoset>
 
-Indriidae
+- Callithrix flaviceps <Buffy-headed marmoset>
 
-Indriidae spp. <Indris>
+- Leontopithecus spp. <Lion tamarins>
 
-Lemuridae
+- Saguinus bicolor <Bare-faced tamarin>
 
-Lemuridae spp. <Lemurs>
+- Appendix I | Appendix II | Appendix III
 
-Lepilemuridae
+- Saguinus geoffroyi <Cotton-top marmoset>
 
-Lepilemuridae spp. <Sportive lemurs>
+- Saguinus leucopus <White-footed tamarin>
 
-Lorisidae
+- Saguinus martinsi <Martins’s bared-faced tamarin>
 
-Nycticebus spp. <Slow lorises>
+- Saguinus oedipus <Cotton-headed tamarin>
 
-Pitheciidae
+- Saimiri oerstedii <Central American squirrel monkey>
 
-Cacajao spp. <Uakaris>
+- Cercopithecidae
 
-Chiropotes albinasus <Red-nosed saki>
+- Cercocebus galeritus <Tana river mangabey>
 
-PROBOSCIDEA
+- Cercopithecus diana <Diana guenon>
 
-Elephantidae
+- Cercopithecus roloway <Roloway monkey>
 
-Elephas maximus <Asian elephant>
+- Macaca silenus <Lion-tailed macaque>
 
-Loxodonta africana <African elephant> (Except the populations of Botswana, Namibia, South Africa and Zimbabwe, which are included in Appendix II)
+- Appendix I | Appendix II | Appendix III
 
-Loxodonta africana5 <African elephant> (Only the populations of Botswana, Namibia, South Africa and Zimbabwe; all other populations are included in Appendix I)
+- Mandrillus leucophaeus <Drill>
 
-RODENTIA
+- Mandrillus sphinx <Mandrill>
 
-Chinchillidae
+- Nasalis larvatus <Long-nosed monkey>
 
-Chinchilla spp. <Chinchillas> (Specimens of the domesticated form are not subject to the provisions of this Ordinance)
+- Piliocolobus kirkii <Kirk’s colobus>
 
-Cuniculidae
+- Piliocolobus rufomitratus <Tana river colobus>
 
-Cuniculus paca <Spotted paca> (Honduras)
+- Presbytis potenziani <Long-tailed langur>
 
-Dasyproctidae
+- Pygathrix spp. <Snub-nosed monkeys>
 
-Dasyprocta punctata <Central American agouti> (Honduras)
+- Rhinopithecus spp.
 
-Erethizontidae
+- Semnopithecus ajax <Kashmir grey langur>
 
-Sphiggurus mexicanus <Mexican tree porcupine> (Honduras)
+- Semnopithecus dussumieri <Southern plains grey langur>
 
-Sphiggurus spinosus <Spiny tree porcupine> (Uruguay)
+- Appendix I | Appendix II | Appendix III
 
-Muridae
+- Semnopithecus entellus <Common langur>
 
-Leporillus conditor <Greater stick-nest rat>
+- Semnopithecus hector <Tarai grey langur>
 
-Pseudomys fieldi praeconis <Shark bay mouse>
+- Semnopithecus hypoleucos <Black-footed grey langur>
 
-Xeromys myoides <False swamp rat>
+- Semnopithecus priam <Tufted grey langur>
 
-Zyzomys pedunculatus <Central rock-rat>
+- Semnopithecus schistaceus <Nepal grey langur>
 
-Sciuridae
+- Simias concolor <Mentawi Islands snub-nosed langur>
 
-Cynomys mexicanus <Mexican prairie marmot>
+- Trachypithecus geei <Golden langur>
 
-Marmota caudata <Long-tailed marmot> (India)
+- Trachypithecus pileatus <Bonneted langur>
 
-Marmota himalayana <Himalayan marmot> (India)
+- Trachypithecus shortridgei <Shortridge’s langur; Shortridge’s leaf monkey>
 
-Ratufa spp. <Giant squirrels>
+- Appendix I | Appendix II | Appendix III
 
-Sciurus deppei <Deppe’s squirrel> (Costa Rica)
+- Cheirogaleidae
 
-SCANDENTIA
+- Cheirogaleidae spp. <Dwarf lemurs>
 
-SCANDENTIA spp. <Tree shrews>
+- Daubentoniidae
 
-SIRENIA
+- Daubentonia madagascariensis <Aye-aye>
 
-Dugongidae
+- Hominidae
 
-Dugong dugon <Dugong>
+- Gorilla beringei <Eastern gorilla>
 
-Trichechidae
+- Gorilla gorilla <Gorilla>
 
-Trichechus inunguis <Amazonian manatee>
+- Pan spp. <Chimpanzees>
 
-Trichechus manatus <American manatee, West Indian manatee>
+- Pongo abelii <Sumatran orang-utan>
 
-Trichechus senegalensis <African manatee, West African manatee>
+- Pongo pygmaeus <Orang-utan>
 
-CLASS AVES <BIRDS>
+- Appendix I | Appendix II | Appendix III
 
-ANSERIFORMES
+- Hylobatidae
 
-Anatidae
+- Hylobatidae spp. <Gibbons>
 
-Anas aucklandica <Brown teal>
+- Indriidae
 
-Anas bernieri <Madagascar teal>
+- Indriidae spp. <Indris>
 
-Anas chlorotis <New Zealand brown duck, New Zealand brown teal>
+- Lemuridae
 
-Anas formosa <Baikal teal>
+- Lemuridae spp. <Lemurs>
 
-Anas laysanensis <Laysan duck>
+- Lepilemuridae
 
-Anas nesiotis <Campbell Island flightless teal, Campbell Island teal>
+- Lepilemuridae spp. <Sportive lemurs>
 
-Asarcornis scutulata <White-winged duck>
+- Lorisidae
 
-Branta canadensis leucopareia <Aleutian Canada goose>
+- Nycticebus spp. <Slow lorises>
 
-Branta ruficollis <Red-breasted goose>
+- Appendix I | Appendix II | Appendix III
 
-Branta sandvicensis <Hawaiian goose>
+- Pitheciidae
 
-Cairina moschata <Muscovy duck> (Honduras)
+- Cacajao spp. <Uakaris>
 
-Coscoroba coscoroba <Coscoroba swan>
+- Chiropotes albinasus <Red-nosed saki>
 
-Cygnus melancoryphus <Black-necked swan>
+- PROBOSCIDEA
 
-Dendrocygna arborea <Black-billed wood-duck>
+- Elephantidae
 
-Dendrocygna autumnalis <Black-bellied whistling-duck> (Honduras)
+- Elephas maximus <Asian elephant>
 
-Dendrocygna bicolor <Fulvous tree-duck> (Honduras)
+- Loxodonta africana <African elephant> (Except the populations of Botswana, Namibia, South Africa and Zimbabwe, which are included in Appendix II)
 
-Oxyura leucocephala <White-headed duck>
+- Loxodonta africana5 <African elephant> (Only the populations of Botswana, Namibia, South Africa and Zimbabwe; all other populations are included in Appendix I)
 
-Rhodonessa caryophyllacea <Pink-headed duck> (possibly extinct)
+- Appendix I | Appendix II | Appendix III
 
-Sarkidiornis melanotos <Comb duck>
+- RODENTIA
 
-APODIFORMES
+- Chinchillidae
 
-Trochilidae
+- Chinchilla spp. <Chinchillas> (Specimens of the domesticated form are not subject to the provisions of this Ordinance)
 
-Trochilidae spp. <Hummingbirds> (Except the species included in Appendix I)
+- Cuniculidae
 
-Glaucis dohrnii <Hook-billed hermit>
+- Cuniculus paca <Spotted paca> (Honduras)
 
-CHARADRIIFORMES
+- Dasyproctidae
 
-Burhinidae
+- Dasyprocta punctata <Central American agouti> (Honduras)
 
-Burhinus bistriatus <Double-striped thick knee> (Guatemala)
+- Appendix I | Appendix II | Appendix III
 
-Laridae
+- Erethizontidae
 
-Larus relictus <Relict gull>
+- Sphiggurus mexicanus <Mexican tree porcupine> (Honduras)
 
-Scolopacidae
+- Sphiggurus spinosus <Spiny tree porcupine> (Uruguay)
 
-Numenius borealis <Eskimo curlew>
+- Muridae
 
-Numenius tenuirostris <Slender-billed curlew>
+- Leporillus conditor <Greater stick-nest rat>
 
-Tringa guttifer <Nordmann’s greenshank>
+- Pseudomys fieldi praeconis <Shark bay mouse>
 
-CICONIIFORMES
+- Xeromys myoides <False swamp rat>
 
-Balaenicipitidae
+- Zyzomys pedunculatus <Central rock-rat>
 
-Balaeniceps rex <Shoebill, whale-headed stork>
+- Sciuridae
 
-Ciconiidae
+- Cynomys mexicanus <Mexican prairie marmot>
 
-Ciconia boyciana <Japanese white stork>
+- Appendix I | Appendix II | Appendix III
 
-Ciconia nigra <Black stork>
+- Marmota caudata <Long-tailed marmot> (India)
 
-Jabiru mycteria <Jabiru>
+- Marmota himalayana <Himalayan marmot> (India)
 
-Mycteria cinerea <Milky stork>
+- Ratufa spp. <Giant squirrels>
 
-Phoenicopteridae
+- Sciurus deppei <Deppe’s squirrel> (Costa Rica)
 
-Phoenicopteridae spp. <Flamingos>
+- SCANDENTIA
 
-Threskiornithidae
+- SCANDENTIA spp. <Tree shrews>
 
-Eudocimus ruber <Scarlet ibis>
+- SIRENIA
 
-Geronticus calvus <Bald ibis>
+- Dugongidae
 
-Geronticus eremita <Bald ibis, hermit ibis>
+- Dugong dugon <Dugong>
 
-Nipponia nippon <Crested ibis, Japanese crested ibis>
+- Appendix I | Appendix II | Appendix III
 
-Platalea leucorodia <Eurasian spoonbill, spoonbill>
+- Trichechidae
 
-COLUMBIFORMES
+- Trichechus inunguis <Amazonian manatee>
 
-Columbidae
+- Trichechus manatus <American manatee, West Indian manatee>
 
-Caloenas nicobarica <Nicobar dove>
+- Trichechus senegalensis <African manatee, West African manatee>
 
-Ducula mindorensis <Mindoro imperial-pigeon>
+- CLASS AVES <BIRDS>
 
-Gallicolumba luzonica <Bleeding heart dove>
+- ANSERIFORMES
 
-Goura spp. <Crowned-pigeons>
+- Anatidae
 
-Nesoenas mayeri <Pink pigeon> (Mauritius)
+- Anas aucklandica <Brown teal>
 
-CORACIIFORMES
+- Appendix I | Appendix II | Appendix III
 
-Bucerotidae
+- Anas bernieri <Madagascar teal>
 
-Aceros spp. <Hornbills> (Except the species included in Appendix I)
+- Anas chlorotis <New Zealand brown duck, New Zealand brown teal>
 
-Aceros nipalensis <Rufous-cheeked hornbill>
+- Anas formosa <Baikal teal>
 
-Anorrhinus spp. <Hornbills>
+- Anas laysanensis <Laysan duck>
 
-Anthracoceros spp. <Hornbills>
+- Anas nesiotis <Campbell Island flightless teal, Campbell Island teal>
 
-Berenicornis spp. <Hornbills>
+- Asarcornis scutulata <White-winged duck>
 
-Buceros spp. <Hornbills> (Except the species included in Appendix I)
+- Branta canadensis leucopareia <Aleutian Canada goose>
 
-Buceros bicornis <Concave-casqued hornbill, great hornbill>
+- Branta ruficollis <Red-breasted goose>
 
-Penelopides spp. <Hornbills>
+- Branta sandvicensis <Hawaiian goose>
 
-Rhinoplax vigil <Helmeted hornbill>
+- Cairina moschata <Muscovy duck> (Honduras)
 
-Rhyticeros spp. <Hornbills> (Except the species included in Appendix I)
+- Appendix I | Appendix II | Appendix III
 
-Rhyticeros subruficollis <Blyth’s hornbill, plain-pouched hornbill>
+- Coscoroba coscoroba <Coscoroba swan>
 
-CUCULIFORMES
+- Cygnus melancoryphus <Black-necked swan>
 
-Musophagidae
+- Dendrocygna arborea <Black-billed wood-duck>
 
-Tauraco spp. <Turacos>
+- Dendrocygna autumnalis <Black-bellied whistling-duck> (Honduras)
 
-FALCONIFORMES
+- Dendrocygna bicolor <Fulvous tree-duck> (Honduras)
 
-FALCONIFORMES spp. <Birds of prey, raptors (e.g. eagles, hawks, falcons, vultures)> (Except Caracara lutosa <Guadalupe caracara>, and the species of the family Cathartidae, which are not included in the Appendices; and the species included in Appendices I and III)
+- Oxyura leucocephala <White-headed duck>
 
-Accipitridae
+- Rhodonessa caryophyllacea <Pink-headed duck> (possibly extinct)
 
-Aquila adalberti <Adalbert’s eagle>
+- Sarkidiornis melanotos <Comb duck>
 
-Aquila heliaca <Eastern imperial eagle, imperial eagle>
+- Appendix I | Appendix II | Appendix III
 
-Chondrohierax uncinatus wilsonii <Cuban hook-billed kite>
+- APODIFORMES
 
-Haliaeetus albicilla <Grey sea eagle, white-tailed eagle>
+- Trochilidae
 
-Harpia harpyja <American harpy eagle>
+- Trochilidae spp. <Hummingbirds> (Except the species included in Appendix I)
 
-Pithecophaga jefferyi <Great Philippine eagle>
+- Glaucis dohrnii <Hook-billed hermit>
 
-Cathartidae
+- CHARADRIIFORMES
 
-Gymnogyps californianus <California condor>
+- Burhinidae
 
-Sarcoramphus papa <King vulture> (Honduras)
+- Burhinus bistriatus <Double-striped thick knee> (Guatemala)
 
-Vultur gryphus <Andean condor>
+- Laridae
 
-Falconidae
+- Larus relictus <Relict gull>
 
-Falco araeus <Seychelles kestrel>
+- Appendix I | Appendix II | Appendix III
 
-Falco jugger <Laggar falcon>
+- Scolopacidae
 
-Falco newtoni <Madagascar kestrel, Aldabra kestrel> (Only the population of Seychelles)
+- Numenius borealis <Eskimo curlew>
 
-Falco pelegrinoides <Barbary falcon>
+- Numenius tenuirostris <Slender-billed curlew>
 
-Falco peregrinus <Duck hawk, peregrine falcon>
+- Tringa guttifer <Nordmann’s greenshank>
 
-Falco punctatus <Mauritius kestrel>
+- CICONIIFORMES
 
-Falco rusticolus <Gyr falcon>
+- Balaenicipitidae
 
-GALLIFORMES
+- Balaeniceps rex <Shoebill, whale-headed stork>
 
-Cracidae
+- Ciconiidae
 
-Crax alberti <Blue-billed curassow> (Colombia)
+- Ciconia boyciana <Japanese white stork>
 
-Crax blumenbachii <Blumenbach’s curassow, red-billed curassow>
+- Ciconia nigra <Black stork>
 
-Crax daubentoni <Yellow-knobbed curassow> (Colombia)
+- Jabiru mycteria <Jabiru>
 
-Crax globulosa <Wattled curassow> (Colombia)
+- Mycteria cinerea <Milky stork>
 
-Crax rubra <Great curassow> (Colombia, Costa Rica, Guatemala, Honduras)
+- Appendix I | Appendix II | Appendix III
 
-Mitu mitu <Alagoas curassow, razor-billed curassow>
+- Phoenicopteridae
 
-Oreophasis derbianus <Derby’s guan, horned guan>
+- Phoenicopteridae spp. <Flamingos>
 
-Ortalis vetula <Plain chachalaca> (Guatemala, Honduras)
+- Threskiornithidae
 
-Pauxi pauxi <Helmeted curassow> (Colombia)
+- Eudocimus ruber <Scarlet ibis>
 
-Penelope albipennis <White-winged guan>
+- Geronticus calvus <Bald ibis>
 
-Penelope purpurascens <Crested guan> (Honduras)
+- Geronticus eremita <Bald ibis, hermit ibis>
 
-Penelopina nigra <Highland guan> (Guatemala)
+- Nipponia nippon <Crested ibis, Japanese crested ibis>
 
-Pipile jacutinga <Black-fronted curassow, black-fronted piping guan>
+- Platalea leucorodia <Eurasian spoonbill, spoonbill>
 
-Pipile pipile <Trinidad piping-guan, Trinidad white-headed curassow>
+- Appendix I | Appendix II | Appendix III
 
-Megapodiidae
+- COLUMBIFORMES
 
-Macrocephalon maleo <Celebes maleo>
+- Columbidae
 
-Phasianidae
+- Caloenas nicobarica <Nicobar dove>
 
-Argusianus argus <Argus pheasant, great argus>
+- Ducula mindorensis <Mindoro imperial-pigeon>
 
-Catreus wallichii <Cheer pheasant>
+- Gallicolumba luzonica <Bleeding heart dove>
 
-Colinus virginianus ridgwayi <Masked bobwhite>
+- Goura spp. <Crowned-pigeons>
 
-Crossoptilon crossoptilon <White eared-pheasant>
+- Nesoenas mayeri <Pink pigeon> (Mauritius)
 
-Crossoptilon mantchuricum <Brown eared-pheasant>
+- CORACIIFORMES
 
-Gallus sonneratii <Grey junglefowl>
+- Bucerotidae
 
-Ithaginis cruentus <Blood pheasant>
+- Aceros spp. <Hornbills> (Except the species included in Appendix I)
 
-Lophophorus impejanus <Himalayan monal>
+- Appendix I | Appendix II | Appendix III
 
-Lophophorus lhuysii <Chinese impeyan, Chinese monal>
+- Aceros nipalensis <Rufous-cheeked hornbill>
 
-Lophophorus sclateri <Crestless monal, Sclater’s monal>
+- Anorrhinus spp. <Hornbills>
 
-Lophura edwardsi <Edward’s pheasant>
+- Anthracoceros spp. <Hornbills>
 
-Lophura leucomelanos <Kalij pheasant> (Pakistan)
+- Berenicornis spp. <Hornbills>
 
-Lophura swinhoii <Swinhoe’s pheasant>
+- Buceros spp. <Hornbills> (Except the species included in Appendix I)
 
-Meleagris ocellata <Ocellated turkey> (Guatemala)
+- Buceros bicornis <Concave-casqued hornbill, great hornbill>
 
-Pavo cristatus (Pakistan)
+- Penelopides spp. <Hornbills>
 
-Pavo muticus <Green peafowl>
+- Rhinoplax vigil <Helmeted hornbill>
 
-Polyplectron bicalcaratum <Common peacock-pheasant, grey peacock-pheasant>
+- Rhyticeros spp. <Hornbills> (Except the species included in Appendix I)
 
-Polyplectron germaini <Germain’s peacock-pheasant>
+- Rhyticeros subruficollis <Blyth’s hornbill, plain-pouched hornbill>
 
-Polyplectron malacense <Crested peacock-pheasant>
+- Appendix I | Appendix II | Appendix III
 
-Polyplectron napoleonis <Napoleon’s peacock-pheasant, Palawan peacock-pheasant>
+- CUCULIFORMES
 
-Polyplectron schleiermacheri <Bornean peacock-pheasant>
+- Musophagidae
 
-Pucrasia macrolopha (Pakistan)
+- Tauraco spp. <Turacos>
 
-Rheinardia ocellata <Crested argus>
+- FALCONIFORMES
 
-Syrmaticus ellioti <Chinese barred-backed pheasant, Elliot’s pheasant>
+- FALCONIFORMES spp. <Birds of prey, raptors (e.g. eagles, hawks, falcons, vultures)> (Except Caracara lutosa <Guadalupe caracara>, and the species of the family Cathartidae, which are not included in the Appendices; and the species included in Appendices I and III)
 
-Syrmaticus humiae <Hume’s bar-tailed pheasant>
+- Accipitridae
 
-Syrmaticus mikado <Mikado pheasant>
+- Aquila adalberti <Adalbert’s eagle>
 
-Tetraogallus caspius <Caspian snowcock>
+- Aquila heliaca <Eastern imperial eagle, imperial eagle>
 
-Tetraogallus tibetanus <Tibetan snowcock>
+- Appendix I | Appendix II | Appendix III
 
-Tragopan blythii <Blyth’s tragopan>
+- Chondrohierax uncinatus wilsonii <Cuban hook-billed kite>
 
-Tragopan caboti <Cabot’s tragopan>
+- Haliaeetus albicilla <Grey sea eagle, white-tailed eagle>
 
-Tragopan melanocephalus <Black-headed tragopan, western tragopan>
+- Harpia harpyja <American harpy eagle>
 
-Tragopan satyra <Crimson horned-pheasant, satyr tragopan> (Nepal)
+- Pithecophaga jefferyi <Great Philippine eagle>
 
-Tympanuchus cupido attwateri <Attwater’s prairie-chicken>
+- Cathartidae
 
-GRUIFORMES
+- Gymnogyps californianus <California condor>
 
-Gruidae
+- Sarcoramphus papa <King vulture> (Honduras)
 
-Gruidae spp. <Cranes> (Except the species included in Appendix I)
+- Vultur gryphus <Andean condor>
 
-Grus americana <Whooping crane>
+- Falconidae
 
-Grus canadensis nesiotes <Cuban sandhill crane>
+- Falco araeus <Seychelles kestrel>
 
-Grus canadensis pulla <Mississippi sandhill crane>
+- Appendix I | Appendix II | Appendix III
 
-Grus japonensis <Japanese crane, red-crowned crane>
+- Falco jugger <Laggar falcon>
 
-Grus leucogeranus <Siberian crane>
+- Falco newtoni <Madagascar kestrel, Aldabra kestrel> (Only the population of Seychelles)
 
-Grus monacha <Hooded crane>
+- Falco pelegrinoides <Barbary falcon>
 
-Grus nigricollis <Black-necked crane>
+- Falco peregrinus <Duck hawk, peregrine falcon>
 
-Grus vipio <White-naped crane>
+- Falco punctatus <Mauritius kestrel>
 
-Otididae
+- Falco rusticolus <Gyr falcon>
 
-Otididae spp. <Bustards> (Except the species included in Appendix I)
+- GALLIFORMES
 
-Ardeotis nigriceps <Great Indian bustard>
+- Cracidae
 
-Chlamydotis macqueenii
+- Crax alberti <Blue-billed curassow> (Colombia)
 
-Chlamydotis undulata <Houbara bustard>
+- Crax blumenbachii <Blumenbach’s curassow, red-billed curassow>
 
-Houbaropsis bengalensis <Bengal bustard, Bengal florican>
+- Appendix I | Appendix II | Appendix III
 
-Rallidae
+- Crax daubentoni <Yellow-knobbed curassow> (Colombia)
 
-Gallirallus sylvestris <Lord Howe Island rail>
+- Crax globulosa <Wattled curassow> (Colombia)
 
-Rhynochetidae
+- Crax rubra <Great curassow> (Colombia, Costa Rica, Guatemala, Honduras)
 
-Rhynochetos jubatus <Kagu>
+- Mitu mitu <Alagoas curassow, razor-billed curassow>
 
-PASSERIFORMES
+- Oreophasis derbianus <Derby’s guan, horned guan>
 
-Atrichornithidae
+- Ortalis vetula <Plain chachalaca> (Guatemala, Honduras)
 
-Atrichornis clamosus <Noisy scrub-bird>
+- Pauxi pauxi <Helmeted curassow> (Colombia)
 
-Cotingidae
+- Penelope albipennis <White-winged guan>
 
-Cephalopterus ornatus <Amazonian umbrellabird> (Colombia)
+- Appendix I | Appendix II | Appendix III
 
-Cephalopterus penduliger <Long-wattled umbrellabird> (Colombia)
+- Penelope purpurascens <Crested guan> (Honduras)
 
-Cotinga maculata <Banded cotinga>
+- Penelopina nigra <Highland guan> (Guatemala)
 
-Rupicola spp. <Cocks-of-the-rock>
+- Pipile jacutinga <Black-fronted curassow, black-fronted piping guan>
 
-Xipholena atropurpurea <White-winged cotinga>
+- Pipile pipile <Trinidad piping-guan, Trinidad white-headed curassow>
 
-Emberizidae
+- Megapodiidae
 
-Gubernatrix cristata <Yellow cardinal>
+- Macrocephalon maleo <Celebes maleo>
 
-Paroaria capitata <Yellow-billed cardinal>
+- Phasianidae
 
-Paroaria coronata <Red-crested cardinal>
+- Argusianus argus <Argus pheasant, great argus>
 
-Tangara fastuosa <Seven-colored tanager>
+- Appendix I | Appendix II | Appendix III
 
-Estrildidae
+- Catreus wallichii <Cheer pheasant>
 
-Amandava formosa <Green avadavat>
+- Colinus virginianus ridgwayi <Masked bobwhite>
 
-Lonchura oryzivora <Java sparrow>
+- Crossoptilon crossoptilon <White eared-pheasant>
 
-Poephila cincta cincta <Southern black-throated finch>
+- Crossoptilon mantchuricum <Brown eared-pheasant>
 
-Fringillidae
+- Gallus sonneratii <Grey junglefowl>
 
-Carduelis cucullata <Red siskin>
+- Ithaginis cruentus <Blood pheasant>
 
-Carduelis yarrellii <Yellow-faced siskin>
+- Lophophorus impejanus <Himalayan monal>
 
-Hirundinidae
+- Appendix I | Appendix II | Appendix III
 
-Pseudochelidon sirintarae <White-eyed river martin>
+- Lophophorus lhuysii <Chinese impeyan, Chinese monal>
 
-Icteridae
+- Lophophorus sclateri <Crestless monal, Sclater’s monal>
 
-Xanthopsar flavus <Saffron-cowled blackbrid>
+- Lophura edwardsi <Edward’s pheasant>
 
-Meliphagidae
+- Lophura leucomelanos <Kalij pheasant> (Pakistan)
 
-Lichenostomus melanops cassidix <Helmeted honeyeater>
+- Lophura swinhoii <Swinhoe’s pheasant>
 
-Muscicapidae
+- Meleagris ocellata <Ocellated turkey> (Guatemala)
 
-Acrocephalus rodericanus <Rodrigues brush-warbler> (Mauritius)
+- Pavo cristatus (Pakistan)
 
-Cyornis ruckii <Rueck’s blue-flycatcher>
+- Pavo muticus <Green peafowl>
 
-Dasyornis broadbenti litoralis <Lesser rufous bristlebird> (possibly extinct)
+- Polyplectron bicalcaratum <Common peacock-pheasant, grey peacock-pheasant>
 
-Dasyornis longirostris <Long-billed bristlebird>
+- Appendix I | Appendix II | Appendix III
 
-Garrulax canorus <Hwamei>
+- Polyplectron germaini <Germain’s peacock-pheasant>
 
-Garrulax taewanus <Taiwan hwamei>
+- Polyplectron malacense <Crested peacock-pheasant>
 
-Leiothrix argentauris <Silver-eared mesia>
+- Polyplectron napoleonis <Napoleon’s peacock-pheasant, Palawan peacock-pheasant>
 
-Leiothrix lutea <Red-billed leiothrix>
+- Polyplectron schleiermacheri <Bornean peacock-pheasant>
 
-Liocichla omeiensis <Mount Omei liocichla, Omei Shan liocichla>
+- Pucrasia macrolopha (Pakistan)
 
-Picathartes gymnocephalus <Bare-headed rockfowl, white-necked rockfowl>
+- Rheinardia ocellata <Crested argus>
 
-Picathartes oreas <Grey-necked picathartes, grey-necked rockfowl>
+- Syrmaticus ellioti <Chinese barred-backed pheasant, Elliot’s pheasant>
 
-Terpsiphone bourbonnensis <Rodrigues brush-warbler> (Mauritius)
+- Appendix I | Appendix II | Appendix III
 
-Paradisaeidae
+- Syrmaticus humiae <Hume’s bar-tailed pheasant>
 
-Paradisaeidae spp. <Birds-of-paradise>
+- Syrmaticus mikado <Mikado pheasant>
 
-Pittidae
+- Tetraogallus caspius <Caspian snowcock>
 
-Pitta guajana <Banded pitta>
+- Tetraogallus tibetanus <Tibetan snowcock>
 
-Pitta gurneyi <Gurney’s pitta>
+- Tragopan blythii <Blyth’s tragopan>
 
-Pitta kochi <Koch’s pitta>
+- Tragopan caboti <Cabot’s tragopan>
 
-Pitta nympha <Fairy pitta>
+- Tragopan melanocephalus <Black-headed tragopan, western tragopan>
 
-Pycnonotidae
+- Tragopan satyra <Crimson horned-pheasant, satyr tragopan> (Nepal)
 
-Pycnonotus zeylanicus <Straw-crowned bulbul, straw-headed bulbul>
+- Tympanuchus cupido attwateri <Attwater’s prairie-chicken>
 
-Sturnidae
+- Appendix I | Appendix II | Appendix III
 
-Gracula religiosa <Hill myna>
+- GRUIFORMES
 
-Leucopsar rothschildi <Bali myna>
+- Gruidae
 
-Zosteropidae
+- Gruidae spp. <Cranes> (Except the species included in Appendix I)
 
-Zosterops albogularis <White-breasted silvereye, white-chested white-eye>
+- Grus americana <Whooping crane>
 
-PELECANIFORMES
+- Grus canadensis nesiotes <Cuban sandhill crane>
 
-Fregatidae
+- Grus canadensis pulla <Mississippi sandhill crane>
 
-Fregata andrewsi <Andrew’s frigatebird>
+- Grus japonensis <Japanese crane, red-crowned crane>
 
-Pelecanidae
+- Grus leucogeranus <Siberian crane>
 
-Pelecanus crispus <Dalmatian pelican>
+- Appendix I | Appendix II | Appendix III
 
-Sulidae
+- Grus monacha <Hooded crane>
 
-Papasula abbotti <Abbott’s booby>
+- Grus nigricollis <Black-necked crane>
 
-PICIFORMES
+- Grus vipio <White-naped crane>
 
-Capitonidae
+- Otididae
 
-Semnornis ramphastinus <Toucan barbet> (Colombia)
+- Otididae spp. <Bustards> (Except the species included in Appendix I)
 
-Picidae
+- Ardeotis nigriceps <Great Indian bustard>
 
-Dryocopus javensis richardsi <Tristram’s woodpecker>
+- Chlamydotis macqueenii
 
-Ramphastidae
+- Chlamydotis undulata <Houbara bustard>
 
-Baillonius bailloni <Saffron toucanet> (Argentina)
+- Houbaropsis bengalensis <Bengal bustard, Bengal florican>
 
-Pteroglossus aracari <Black-necked aracari>
+- Appendix I | Appendix II | Appendix III
 
-Pteroglossus castanotis <Chestnut-eared aracari> (Argentina)
+- Rallidae
 
-Pteroglossus viridis <Green aracari>
+- Gallirallus sylvestris <Lord Howe Island rail>
 
-Ramphastos dicolorus <Red-breasted toucan> (Argentina)
+- Rhynochetidae
 
-Ramphastos sulfuratus <Keel-billed toucan>
+- Rhynochetos jubatus <Kagu>
 
-Ramphastos toco <Toco toucan>
+- PASSERIFORMES
 
-Ramphastos tucanus <Red-billed toucan>
+- Atrichornithidae
 
-Ramphastos vitellinus <Channel-billed toucan>
+- Atrichornis clamosus <Noisy scrub-bird>
 
-Selenidera maculirostris <Spot-billed toucanet> (Argentina)
+- Cotingidae
 
-PODICIPEDIFORMES
+- Cephalopterus ornatus <Amazonian umbrellabird> (Colombia)
 
-Podicipedidae
+- Appendix I | Appendix II | Appendix III
 
-Podilymbus gigas <Atitlan grebe>
+- Cephalopterus penduliger <Long-wattled umbrellabird> (Colombia)
 
-PROCELLARIIFORMES
+- Cotinga maculata <Banded cotinga>
 
-Diomedeidae
+- Rupicola spp. <Cocks-of-the-rock>
 
-Phoebastria albatrus <Short-tailed albatross>
+- Xipholena atropurpurea <White-winged cotinga>
 
-PSITTACIFORMES
+- Emberizidae
 
-PSITTACIFORMES spp. <Parrots, psittacines (e.g. parakeets, cockatoos, macaws)> (Except the species included in Appendix I and Agapornis roseicollis, Melopsittacus undulatus, Nymphicus hollandicus and Psittacula krameri, which are not included in the Appendices)
+- Gubernatrix cristata <Yellow cardinal>
 
-Cacatuidae
+- Paroaria capitata <Yellow-billed cardinal>
 
-Cacatua goffiniana <Goffin’s cockatoo>
+- Paroaria coronata <Red-crested cardinal>
 
-Cacatua haematuropygia <Philippine cockatoo, red-vented cockatoo>
+- Tangara fastuosa <Seven-colored tanager>
 
-Cacatua moluccensis <Moluccan cockatoo>
+- Appendix I | Appendix II | Appendix III
 
-Cacatua sulphurea <Lesser sulphur-crested cockatoo, yellow-crested cockatoo>
+- Estrildidae
 
-Probosciger aterrimus <Palm cockatoo>
+- Amandava formosa <Green avadavat>
 
-Loriidae
+- Lonchura oryzivora <Java sparrow>
 
-Eos histrio <Red-and-blue lory>
+- Poephila cincta cincta <Southern black-throated finch>
 
-Vini ultramarina <Ultramarine lorikeet>
+- Fringillidae
 
-Psittacidae
+- Carduelis cucullata <Red siskin>
 
-Amazona arausiaca <Jacquot, red-necked amazon>
+- Carduelis yarrellii <Yellow-faced siskin>
 
-Amazona auropalliata <Yellow-naped amazon>
+- Hirundinidae
 
-Amazona barbadensis <Yellow-shouldered amazon>
+- Pseudochelidon sirintarae <White-eyed river martin>
 
-Amazona brasiliensis <Red-tailed amazon>
+- Appendix I | Appendix II | Appendix III
 
-Amazona finschi <Lilac-crowned parrot>
+- Icteridae
 
-Amazona guildingii <Saint Vincent amazon>
+- Xanthopsar flavus <Saffron-cowled blackbrid>
 
-Amazona imperialis <Imperial Amazon>
+- Meliphagidae
 
-Amazona leucocephala <Bahamas parrot, Cuban amazon>
+- Lichenostomus melanops cassidix <Helmeted honeyeater>
 
-Amazona oratrix <Yellow-headed amazon>
+- Muscicapidae
 
-Amazona pretrei <Red-spectacled amazon>
+- Acrocephalus rodericanus <Rodrigues brush-warbler> (Mauritius)
 
-Amazona rhodocorytha <Red-browed amazon>
+- Cyornis ruckii <Rueck’s blue-flycatcher>
 
-Amazona tucumana <Alder parrot, Tucuman amazon>
+- Dasyornis broadbenti litoralis <Lesser rufous bristlebird> (possibly extinct)
 
-Amazona versicolor <Saint Lucia amazon>
+- Appendix I | Appendix II | Appendix III
 
-Amazona vinacea <Vinaceous amazon>
+- Dasyornis longirostris <Long-billed bristlebird>
 
-Amazona viridigenalis <Green-cheeked amazon>
+- Garrulax canorus <Hwamei>
 
-Amazona vittata <Puerto Rican amazon>
+- Garrulax taewanus <Taiwan hwamei>
 
-Anodorhynchus spp. <Blue macaws>
+- Leiothrix argentauris <Silver-eared mesia>
 
-Ara ambiguus <Buffon’s macaw>
+- Leiothrix lutea <Red-billed leiothrix>
 
-Ara glaucogularis <Blue-throated macaw>
+- Liocichla omeiensis <Mount Omei liocichla, Omei Shan liocichla>
 
-Ara macao <Scarlet macaw>
+- Picathartes gymnocephalus <Bare-headed rockfowl, white-necked rockfowl>
 
-Ara militaris <Military macaw>
+- Appendix I | Appendix II | Appendix III
 
-Ara rubrogenys <Red-fronted macaw>
+- Picathartes oreas <Grey-necked picathartes, grey-necked rockfowl>
 
-Cyanopsitta spixii <Little blue macaw, Spix’s macaw>
+- Terpsiphone bourbonnensis <Rodrigues brush-warbler> (Mauritius)
 
-Cyanoramphus cookii <Norfolk Island parakee>
+- Paradisaeidae
 
-Cyanoramphus forbesi <Chatham Island yellow-fronted parakeet>
+- Paradisaeidae spp. <Birds-of-paradise>
 
-Cyanoramphus novaezelandiae <New Zealand parakeet, red-fronted parakeet>
+- Pittidae
 
-Cyanoramphus saisseti <Red-crowned parakeet>
+- Pitta guajana <Banded pitta>
 
-Cyclopsitta diophthalma coxeni <Coxen’s blue-browed fig parrot, Coxen’s double-eyed fig parrot>
+- Pitta gurneyi <Gurney’s pitta>
 
-Eunymphicus cornutus <Horned parakeet>
+- Pitta kochi <Koch’s pitta>
 
-Guarouba guarouba <Golden conure>
+- Pitta nympha <Fairy pitta>
 
-Neophema chrysogaster <Orange-bellied parakeet>
+- Appendix I | Appendix II | Appendix III
 
-Ognorhynchus icterotis <Yellow-eared conure>
+- Pycnonotidae
 
-Pezoporus occidentalis <Night parrot> (possibly extinct)
+- Pycnonotus zeylanicus <Straw-crowned bulbul, straw-headed bulbul>
 
-Pezoporus wallicus <Ground parakeet>
+- Sturnidae
 
-Pionopsitta pileata <Pileated parrot>
+- Gracula religiosa <Hill myna>
 
-Primolius couloni <Blue-headed macaw>
+- Leucopsar rothschildi <Bali myna>
 
-Primolius maracana <Blue-winged macaw>
+- Zosteropidae
 
-Psephotus chrysopterygius <Golden-shouldered parrot>
+- Zosterops albogularis <White-breasted silvereye, white-chested white-eye>
 
-Psephotus dissimilis <Hooded parrot>
+- PELECANIFORMES
 
-Psephotus pulcherrimus <Beautiful parakeet, paradise parrot> (possibly extinct)
+- Fregatidae
 
-Psittacula echo <Mauritius parakeet>
+- Fregata andrewsi <Andrew’s frigatebird>
 
-Pyrrhura cruentata <Blue-chested parakeet>
+- Appendix I | Appendix II | Appendix III
 
-Rhynchopsitta spp. <Thick-billed parrots>
+- Pelecanidae
 
-Strigops habroptilus <Kakapo>
+- Pelecanus crispus <Dalmatian pelican>
 
-RHEIFORMES
+- Sulidae
 
-Rheidae
+- Papasula abbotti <Abbott’s booby>
 
-Pterocnemia pennata <Darwin’s rhea> (Except Pterocnemia pennata pennata which is included in Appendix II)
+- PICIFORMES
 
-Pterocnemia pennata pennata <Darwin’s rhea, lesser rhea>
+- Capitonidae
 
-Rhea americana <Common rhea>
+- Semnornis ramphastinus <Toucan barbet> (Colombia)
 
-SPHENISCIFORMES
+- Picidae
 
-Spheniscidae
+- Dryocopus javensis richardsi <Tristram’s woodpecker>
 
-Spheniscus demersus <Black-footed penguin, jackass penguin>
+- Ramphastidae
 
-Spheniscus humboldti <Humboldt penguin>
+- Baillonius bailloni <Saffron toucanet> (Argentina)
 
-STRIGIFORMES
+- Appendix I | Appendix II | Appendix III
 
-STRIGIFORMES spp. <Owls> (Except Sceloglaux albifacies <Laughing owl> and the species included in Appendix I)
+- Pteroglossus aracari <Black-necked aracari>
 
-Strigidae
+- Pteroglossus castanotis <Chestnut-eared aracari> (Argentina)
 
-Heteroglaux blewitti <Forest little owl>
+- Pteroglossus viridis <Green aracari>
 
-Mimizuku gurneyi <Giant scops-owl>
+- Ramphastos dicolorus <Red-breasted toucan> (Argentina)
 
-Ninox natalis <Christmas hawk-owl>
+- Ramphastos sulfuratus <Keel-billed toucan>
 
-Ninox novaeseelandiae undulata <Norfolk boobook>
+- Ramphastos toco <Toco toucan>
 
-Tytonidae
+- Ramphastos tucanus <Red-billed toucan>
 
-Tyto soumagnei <Madagascar grass owl>
+- Ramphastos vitellinus <Channel-billed toucan>
 
-STRUTHIONIFORMES
+- Selenidera maculirostris <Spot-billed toucanet> (Argentina)
 
-Struthionidae
+- Appendix I | Appendix II | Appendix III
 
-Struthio camelus <Ostrich> (Only the populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal and the Sudan; all other populations are not included in the Appendices)
+- PODICIPEDIFORMES
 
-TINAMIFORMES
+- Podicipedidae
 
-Tinamidae
+- Podilymbus gigas <Atitlan grebe>
 
-Tinamus solitarius <Solitary tinamou>
+- PROCELLARIIFORMES
 
-TROGONIFORMES
+- Diomedeidae
 
-Trogonidae
+- Phoebastria albatrus <Short-tailed albatross>
 
-Pharomachrus mocinno <Magnificent quetzal>
+- PSITTACIFORMES
 
-CLASS REPTILIA <REPTILES>
+- PSITTACIFORMES spp. <Parrots, psittacines (e.g. parakeets, cockatoos, macaws)> (Except the species included in Appendix I and Agapornis roseicollis, Melopsittacus undulatus, Nymphicus hollandicus and Psittacula krameri, which are not included in the Appendices)
 
-CROCODYLIA
+- Appendix I | Appendix II | Appendix III
 
-CROCODYLIA spp. <e.g. alligators, crocodiles or caimans> (Except the species included in Appendix I)
+- Cacatuidae
 
-Alligatoridae
+- Cacatua goffiniana <Goffin’s cockatoo>
 
-Alligator sinensis <China alligator, Chinese alligator>
+- Cacatua haematuropygia <Philippine cockatoo, red-vented cockatoo>
 
-Caiman crocodilus apaporiensis <Apaporis river caiman>
+- Cacatua moluccensis <Moluccan cockatoo>
 
-Caiman latirostris <Broad-nosed caiman> (Except the population of Argentina, which is included in Appendix II)
+- Cacatua sulphurea <Lesser sulphur-crested cockatoo, yellow-crested cockatoo>
 
-Melanosuchus niger <Black caiman> (Except the population of Brazil, which is included in Appendix II, and the population of Ecuador, which is included in Appendix II, and is subject to a zero annual export quota until an annual export quota has been approved by the Secretariat and the IUCN/SSC Crocodile Specialist Group under the Convention)
+- Probosciger aterrimus <Palm cockatoo>
 
-Crocodylidae
+- Loriidae
 
-Crocodylus acutus <American crocodile> (Except the population of Cuba, which is included in Appendix II)
+- Eos histrio <Red-and-blue lory>
 
-Crocodylus cataphractus <African sharp-nosed crocodile>
+- Vini ultramarina <Ultramarine lorikeet>
 
-Crocodylus intermedius <Orinoco crocodile>
+- Appendix I | Appendix II | Appendix III
 
-Crocodylus mindorensis <Mindoro crocodile>
+- Psittacidae
 
-Crocodylus moreletii <Belize crocodile, Morelet’s crocodile> (Except the populations of Belize and Mexico, which are included in Appendix II with a zero quota for wild specimens traded for commercial purposes)
+- Amazona arausiaca <Jacquot, red-necked amazon>
 
-Crocodylus niloticus <African crocodile, Nile crocodile> [Except the populations of Botswana, Egypt (subject to a zero quota for wild specimens traded for commercial purposes), Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, the United Republic of Tanzania (subject to an annual export quota of no more than 1600 wild specimens including hunting trophies, in addition to ranched specimens), Zambia and Zimbabwe, which are included in Appendix II]
+- Amazona auropalliata <Yellow-naped amazon>
 
-Crocodylus palustris <Broad-snouted crocodile, mugger crocodile>
+- Amazona barbadensis <Yellow-shouldered amazon>
 
-Crocodylus porosus <Estuarine crocodile> (Except the populations of Australia, Indonesia and Papua New Guinea, which are included in Appendix II)
+- Amazona brasiliensis <Red-tailed amazon>
 
-Crocodylus rhombifer <Cuban crocodile>
+- Amazona finschi <Lilac-crowned parrot>
 
-Crocodylus siamensis <Siamese crocodile>
+- Amazona guildingii <Saint Vincent amazon>
 
-Osteolaemus tetraspis <African dwarf crocodile>
+- Amazona imperialis <Imperial Amazon>
 
-Tomistoma schlegelii <False gavial>
+- Amazona leucocephala <Bahamas parrot, Cuban amazon>
 
-Gavialidae
+- Amazona oratrix <Yellow-headed amazon>
 
-Gavialis gangeticus <Fish-eating crocodile>
+- Appendix I | Appendix II | Appendix III
 
-RHYNCHOCEPHALIA
+- Amazona pretrei <Red-spectacled amazon>
 
-Sphenodontidae
+- Amazona rhodocorytha <Red-browed amazon>
 
-Sphenodon spp. <Tuataras>
+- Amazona tucumana <Alder parrot, Tucuman amazon>
 
-SAURIA
+- Amazona versicolor <Saint Lucia amazon>
 
-Agamidae
+- Amazona vinacea <Vinaceous amazon>
 
-Saara spp.
+- Amazona viridigenalis <Green-cheeked amazon>
 
-Uromastyx spp. <Mastigures, spiny-tailed lizards>
+- Amazona vittata <Puerto Rican amazon>
 
-Chamaeleonidae
+- Anodorhynchus spp. <Blue macaws>
 
-Archaius spp.
+- Ara ambiguus <Buffon’s macaw>
 
-Bradypodion spp. <Chameleons>
+- Ara glaucogularis <Blue-throated macaw>
 
-Brookesia spp. <Chameleons> (Except the species included in Appendix I)
+- Ara macao <Scarlet macaw>
 
-Brookesia perarmata <Antsingy leaf chameleon>
+- Appendix I | Appendix II | Appendix III
 
-Calumma spp. <Chameleons>
+- Ara militaris <Military macaw>
 
-Chamaeleo spp. <Chameleons>
+- Ara rubrogenys <Red-fronted macaw>
 
-Furcifer spp. <Chameleons>
+- Cyanopsitta spixii <Little blue macaw, Spix’s macaw>
 
-Kinyongia spp. <Chameleons>
+- Cyanoramphus cookii <Norfolk Island parakee>
 
-Nadzikambia spp. <Chameleons>
+- Cyanoramphus forbesi <Chatham Island yellow-fronted parakeet>
 
-Trioceros spp.
+- Cyanoramphus novaezelandiae <New Zealand parakeet, red-fronted parakeet>
 
-Cordylidae
+- Cyanoramphus saisseti <Red-crowned parakeet>
 
-Cordylus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
+- Cyclopsitta diophthalma coxeni <Coxen’s blue-browed fig parrot, Coxen’s double-eyed fig parrot>
 
-Gekkonidae
+- Eunymphicus cornutus <Horned parakeet>
 
-Hoplodactylus spp. <Sticky-toed geckos> (New Zealand)
+- Appendix I | Appendix II | Appendix III
 
-Nactus serpensinsula <Serpent Island gecko>
+- Guarouba guarouba <Golden conure>
 
-Naultinus spp. <New Zealand tree geckos>
+- Neophema chrysogaster <Orange-bellied parakeet>
 
-Phelsuma spp. <Day geckos>
+- Ognorhynchus icterotis <Yellow-eared conure>
 
-Uroplatus spp. <Leaf-tailed geckos>
+- Pezoporus occidentalis <Night parrot> (possibly extinct)
 
-Helodermatidae
+- Pezoporus wallicus <Ground parakeet>
 
-Heloderma spp. <Poisonous lizards> (Except the subspecies included in Appendix I)
+- Pionopsitta pileata <Pileated parrot>
 
-Heloderma horridum charlesbogerti <Beaded lizard>
+- Primolius couloni <Blue-headed macaw>
 
-Iguanidae
+- Primolius maracana <Blue-winged macaw>
 
-Amblyrhynchus cristatus <Galapagos marine iguana>
+- Psephotus chrysopterygius <Golden-shouldered parrot>
 
-Brachylophus spp. <Fijian iguanas>
+- Psephotus dissimilis <Hooded parrot>
 
-Conolophus spp. <Land iguanas>
+- Appendix I | Appendix II | Appendix III
 
-Ctenosaura bakeri <Baker’s spiny-tailed iguana>
+- Psephotus pulcherrimus <Beautiful parakeet, paradise parrot> (possibly extinct)
 
-Ctenosaura oedirhina <Roatan spiny-tailed iguana>
+- Psittacula echo <Mauritius parakeet>
 
-Ctenosaura melanosterna <Rio Aguan spiny-tailed iguana>
+- Pyrrhura cruentata <Blue-chested parakeet>
 
-Ctenosaura palearis <Guatemalan spiny-tailed iguana>
+- Rhynchopsitta spp. <Thick-billed parrots>
 
-Cyclura spp. <Ground iguanas>
+- Strigops habroptilus <Kakapo>
 
-Iguana spp. <Iguanas>
+- RHEIFORMES
 
-Phrynosoma blainvillii
+- Rheidae
 
-Phrynosoma cerroense
+- Pterocnemia pennata <Darwin’s rhea> (Except Pterocnemia pennata pennata which is included in Appendix II)
 
-Phrynosoma coronatum <Coast horned lizard>
+- Pterocnemia pennata pennata <Darwin’s rhea, lesser rhea>
 
-Phrynosoma wigginsi
+- Rhea americana <Common rhea>
 
-Sauromalus varius <San Esteban Island chuckwalla>
+- Appendix I | Appendix II | Appendix III
 
-Lacertidae
+- SPHENISCIFORMES
 
-Gallotia simonyi <Hierro giant lizard>
+- Spheniscidae
 
-Podarcis lilfordi <Liford’s wall lizard>
+- Spheniscus demersus <Black-footed penguin, jackass penguin>
 
-Podarcis pityusensis <Ibiza wall lizard>
+- Spheniscus humboldti <Humboldt penguin>
 
-Scincidae
+- STRIGIFORMES
 
-Corucia zebrata <Prehensile-tailed skink, Solomon Islands giant skink>
+- STRIGIFORMES spp. <Owls> (Except Sceloglaux albifacies <Laughing owl> and the species included in Appendix I)
 
-Teiidae
+- Strigidae
 
-Crocodilurus amazonicus <Crocodile tegu>
+- Heteroglaux blewitti <Forest little owl>
 
-Dracaena spp. <Caiman lizards>
+- Mimizuku gurneyi <Giant scops-owl>
 
-Tupinambis spp. <Tegu lizards>
+- Ninox natalis <Christmas hawk-owl>
 
-Varanidae
+- Ninox novaeseelandiae undulata <Norfolk boobook>
 
-Varanus spp. <Monitor lizards> (Except the species included in Appendix I)
+- Appendix I | Appendix II | Appendix III
 
-Varanus bengalensis <Bengal black lizard, Bengal monitor>
+- Tytonidae
 
-Varanus flavescens <Calcutta oval-grain lizard, yellow monitor>
+- Tyto soumagnei <Madagascar grass owl>
 
-Varanus griseus <Agra lizard, desert monitor>
+- STRUTHIONIFORMES
 
-Varanus komodoensis <Komodo dragon>
+- Struthionidae
 
-Varanus nebulosus <Clouded monitor>
+- Struthio camelus <Ostrich> (Only the populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal and the Sudan; all other populations are not included in the Appendices)
 
-Xenosauridae
+- Appendix I | Appendix II | Appendix III
 
-Shinisaurus crocodilurus <Chinese crocodile lizard>
+- TINAMIFORMES
 
-SERPENTES
+- Tinamidae
 
-Boidae
+- Tinamus solitarius <Solitary tinamou>
 
-Boidae spp. <Boas> (Except the species included in Appendix I)
+- TROGONIFORMES
 
-Acrantophis spp. <Madagascar ground boas>
+- Trogonidae
 
-Boa constrictor occidentalis <Argentine boa constrictor>
+- Pharomachrus mocinno <Magnificent quetzal>
 
-Epicrates inornatus <Puerto Rican boa>
+- CLASS REPTILIA <REPTILES>
 
-Epicrates monensis <Mona Island boa>
+- CROCODYLIA
 
-Epicrates subflavus <Jamaican boa>
+- CROCODYLIA spp. <e.g. alligators, crocodiles or caimans> (Except the species included in Appendix I)
 
-Sanzinia madagascariensis <Madagascar tree boa>
+- Appendix I | Appendix II | Appendix III
 
-Bolyeriidae
+- Alligatoridae
 
-Bolyeriidae spp. <Round Island boas> (Except the species included in Appendix I)
+- Alligator sinensis <China alligator, Chinese alligator>
 
-Bolyeria multocarinata <Round Island burrowing boa>
+- Caiman crocodilus apaporiensis <Apaporis river caiman>
 
-Casarea dussumieri <Round Island keel-scaled boa>
+- Caiman latirostris <Broad-nosed caiman> (Except the population of Argentina, which is included in Appendix II)
 
-Colubridae
+- Melanosuchus niger <Black caiman> (Except the population of Brazil, which is included in Appendix II, and the population of Ecuador, which is included in Appendix II, and is subject to a zero annual export quota until an annual export quota has been approved by the Secretariat and the IUCN/SSC Crocodile Specialist Group under the Convention)
 
-Atretium schistosum <Olive keel-back> (India)
+- Appendix I | Appendix II | Appendix III
 
-Cerberus rynchops <Bockadam> (India)
+- Crocodylidae
 
-Clelia clelia <Mussurana>
+- Crocodylus acutus <American crocodile> (Except the population of Cuba, which is included in Appendix II)
 
-Cyclagras gigas <Beach cobra>
+- Crocodylus cataphractus <African sharp-nosed crocodile>
 
-Elachistodon westermanni <Indian egg-eater, Indian egg-eating snake>
+- Crocodylus intermedius <Orinoco crocodile>
 
-Ptyas mucosus <Common rat snake>
+- Crocodylus mindorensis <Mindoro crocodile>
 
-Xenochrophis piscator <Chequered keelback> (India)
+- Crocodylus moreletii <Belize crocodile, Morelet’s crocodile> (Except the populations of Belize and Mexico, which are included in Appendix II with a zero quota for wild specimens traded for commercial purposes)
 
-Elapidae
+- Appendix I | Appendix II | Appendix III
 
-Hoplocephalus bungaroides <Broad-headed snake>
+- Crocodylus niloticus <African crocodile, Nile crocodile> [Except the populations of Botswana, Egypt (subject to a zero quota for wild specimens traded for commercial purposes), Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, the United Republic of Tanzania (subject to an annual export quota of no more than 1,600 wild specimens including hunting trophies, in addition to ranched specimens), Zambia and Zimbabwe, which are included in Appendix II]
 
-Micrurus diastema <Atlantic coral snake> (Honduras)
+- Appendix I | Appendix II | Appendix III
 
-Micrurus nigrocinctus <Black-banded coral snake> (Honduras)
+- Crocodylus palustris <Broad-snouted crocodile, mugger crocodile>
 
-Naja atra <Chinese cobra>
+- Crocodylus porosus <Estuarine crocodile> (Except the populations of Australia, Indonesia and Papua New Guinea, which are included in Appendix II)
 
-Naja kaouthia <Monocellate cobra>
+- Crocodylus rhombifer <Cuban crocodile>
 
-Naja mandalayensis
+- Crocodylus siamensis <Siamese crocodile>
 
-Naja naja <Asian cobra>
+- Osteolaemus tetraspis <African dwarf crocodile>
 
-Naja oxiana <Central Asian cobra>
+- Tomistoma schlegelii <False gavial>
 
-Naja philippinensis <North Philippine spitting cobra>
+- Appendix I | Appendix II | Appendix III
 
-Naja sagittifera <Andaman cobra>
+- Gavialidae
 
-Naja samarensis <Peter’s cobra>
+- Gavialis gangeticus <Fish-eating crocodile>
 
-Naja siamensis <Indochinese spitting cobra>
+- RHYNCHOCEPHALIA
 
-Naja sputatrix <Southern Indochinese spitting cobra>
+- Sphenodontidae
 
-Naja sumatrana <Equatorial spitting cobra>
+- Sphenodon spp. <Tuataras>
 
-Ophiophagus hannah <Hamadryad, king cobra>
+- SAURIA
 
-Loxocemidae
+- Agamidae
 
-Loxocemidae spp. <New World pythons>
+- Saara spp.
 
-Pythonidae
+- Uromastyx spp. <Mastigures, spiny-tailed lizards>
 
-Pythonidae spp. <Pythons> (Except the subspecies included in Appendix I)
+- Chamaeleonidae
 
-Python molurus molurus <Indian python>
+- Archaius spp.
 
-Tropidophiidae
+- Bradypodion spp. <Chameleons>
 
-Tropidophiidae spp. <Boas>
+- Appendix I | Appendix II | Appendix III
 
-Viperidae
+- Brookesia spp. <Chameleons> (Except the species included in Appendix I)
 
-Crotalus durissus <Cascabel, neotropical rattlesnake> (Honduras)
+- Brookesia perarmata <Antsingy leaf chameleon>
 
-Daboia russelii <Russell’s viper> (India)
+- Calumma spp. <Chameleons>
 
-Trimeresurus mangshanensis <Mangshan pit viper>
+- Chamaeleo spp. <Chameleons>
 
-Vipera ursinii <Meadow viper> (Only the population of Europe, except the area which formerly constituted the Union of Soviet Socialist Republics; these latter populations are not included in the Appendices)
+- Furcifer spp. <Chameleons>
 
-Vipera wagneri <Wagner’s viper>
+- Kinyongia spp. <Chameleons>
 
-TESTUDINES
+- Nadzikambia spp. <Chameleons>
 
-Carettochelyidae
+- Trioceros spp.
 
-Carettochelys insculpta <Pig-nosed turtle>
+- Cordylidae
 
-Chelidae
+- Cordylus spp. <Crag lizards, girdled lizards, spiny-tailed lizards>
 
-Chelodina mccordi <Roti snake-necked turtle> (Zero export quota for specimens from the wild)
+- Appendix I | Appendix II | Appendix III
 
-Pseudemydura umbrina <Western short-necked turtle>
+- Gekkonidae
 
-Cheloniidae
+- Hoplodactylus spp. <Sticky-toed geckos> (New Zealand)
 
-Cheloniidae spp. <Marine turtles, sea turtles>
+- Nactus serpensinsula <Serpent Island gecko>
 
-Chelydridae
+- Naultinus spp. <New Zealand tree geckos>
 
-Macrochelys temminckii <Alligator snapping turtle> (United States of America)
+- Phelsuma spp. <Day geckos>
 
-Dermatemydidae
+- Uroplatus spp. <Leaf-tailed geckos>
 
-Dermatemys mawii <Central American river turtle>
+- Helodermatidae
 
-Dermochelyidae
+- Heloderma spp. <Poisonous lizards> (Except the subspecies included in Appendix I)
 
-Dermochelys coriacea <Leatherback>
+- Heloderma horridum charlesbogerti <Beaded lizard>
 
-Emydidae
+- Appendix I | Appendix II | Appendix III
 
-Clemmys guttata <Spotted turtle>
+- Iguanidae
 
-Emydoidea blandingii <Blanding’s turtle>
+- Amblyrhynchus cristatus <Galapagos marine iguana>
 
-Glyptemys insculpta <Wood turtle>
+- Brachylophus spp. <Fijian iguanas>
 
-Glyptemys muhlenbergii <Bog turtle>
+- Conolophus spp. <Land iguanas>
 
-Graptemys spp. <Map turtle> (United States of America)
+- Ctenosaura bakeri <Baker’s spiny-tailed iguana>
 
-Malaclemys terrapin <Diamondback terrapin>
+- Ctenosaura oedirhina <Roatan spiny-tailed iguana>
 
-Terrapene spp. <Box turtles> (Except the species included in Appendix I)
+- Ctenosaura melanosterna <Rio Aguan spiny-tailed iguana>
 
-Terrapene coahuila <Aquatic box turtle>
+- Ctenosaura palearis <Guatemalan spiny-tailed iguana>
 
-Geoemydidae
+- Cyclura spp. <Ground iguanas>
 
-Batagur affinis <Southern river terrapin>
+- Iguana spp. <Iguanas>
 
-Batagur baska <Batagur>
+- Appendix I | Appendix II | Appendix III
 
-Batagur borneoensis <Painted batagur> (Zero quota for wild specimens for commercial purposes)
+- Phrynosoma blainvillii
 
-Batagur dhongoka <Dhongoka roofed turtle>
+- Phrynosoma cerroense
 
-Batagur kachuga <Bengal roof turtle>
+- Phrynosoma coronatum <Coast horned lizard>
 
-Batagur trivittata <Burmese roofed turtle> (Zero quota for wild specimens for commercial purposes)
+- Phrynosoma wigginsi
 
-Cuora spp. <Asian box turtles> (Zero quota for wild specimens for commercial purposes for Cuora aurocapitata <Golden-headed box turtle>, C. flavomarginata <Yellow-margined box turtle>, C. galbinifrons <Indochinese box turtle>, C. mccordi <McCord’s box turtle>, C. mouhotii <Keeled box turtle>, C. pani <Pan’s box turtle>, C. trifasciata <Chinese three-striped box turtle>, C. yunnanensis <Yunnan box turtle> and C. zhoui <Zhou’s box turtle>)
+- Sauromalus varius <San Esteban Island chuckwalla>
 
-Cyclemys spp. <Leaf turtles>
+- Lacertidae
 
-Geoclemys hamiltonii <Black pond turtle>
+- Gallotia simonyi <Hierro giant lizard>
 
-Geoemyda japonica <Ryukyu black-breasted leaf turtle>
+- Podarcis lilfordi <Liford’s wall lizard>
 
-Geoemyda spengleri <Black-breasted leaf turtle>
+- Podarcis pityusensis <Ibiza wall lizard>
 
-Hardella thurjii <Crowned river turtle>
+- Appendix I | Appendix II | Appendix III
 
-Heosemys annandalii <Yellow-headed temple turtle> (Zero quota for wild specimens for commercial purposes)
+- Scincidae
 
-Heosemys depressa <Arakan forest turtle> (Zero quota for wild specimens for commercial purposes)
+- Corucia zebrata <Prehensile-tailed skink, Solomon Islands giant skink>
 
-Heosemys grandis <Giant Asian pond turtle>
+- Teiidae
 
-Heosemys spinosa <Spiny terrapin, spiny turtle>
+- Crocodilurus amazonicus <Crocodile tegu>
 
-Leucocephalon yuwonoi <Sulawesi forest turtle>
+- Dracaena spp. <Caiman lizards>
 
-Malayemys macrocephala <Snail-eating turtle>
+- Tupinambis spp. <Tegu lizards>
 
-Malayemys subtrijuga <Malayan snail-eating turtle>
+- Varanidae
 
-Mauremys annamensis <Annam leaf turtle> (Zero quota for wild specimens for commercial purposes)
+- Varanus spp. <Monitor lizards> (Except the species included in Appendix I)
 
-Mauremys iversoni <Iverson’s freshwater turtle> (China)
+- Varanus bengalensis <Bengal black lizard, Bengal monitor>
 
-Mauremys japonica <Japanese pond turtle>
+- Varanus flavescens <Calcutta oval-grain lizard, yellow monitor>
 
-Mauremys megalocephala <Chinese big-headed pond turtle> (China)
+- Appendix I | Appendix II | Appendix III
 
-Mauremys mutica <Yellow pond turtle>
+- Varanus griseus <Agra lizard, desert monitor>
 
-Mauremys nigricans <Red-necked pond turtle>
+- Varanus komodoensis <Komodo dragon>
 
-Mauremys pritchardi <Lashio pond turtle> (China)
+- Varanus nebulosus <Clouded monitor>
 
-Mauremys reevesii <Reeves’ turtle> (China)
+- Xenosauridae
 
-Mauremys sinensis <Chinese stripe-necked turtle> (China)
+- Shinisaurus crocodilurus <Chinese crocodile lizard>
 
-Melanochelys tricarinata <Three-keeled land tortoise>
+- SERPENTES
 
-Melanochelys trijuga <Indian black turtle>
+- Boidae
 
-Morenia ocellata <Bengal eyed terrapin>
+- Boidae spp. <Boas> (Except the species included in Appendix I)
 
-Morenia petersi <Indian eyed turtle>
+- Acrantophis spp. <Madagascar ground boas>
 
-Notochelys platynota <Malayan flat-shelled turtle>
+- Boa constrictor occidentalis <Argentine boa constrictor>
 
-Ocadia glyphistoma <Guangxi stripe-necked turtle> (China)
+- Appendix I | Appendix II | Appendix III
 
-Ocadia philippeni <Philippen’s stripe-necked turtle> (China)
+- Epicrates inornatus <Puerto Rican boa>
 
-Orlitia borneensis <Malayan giant turtle> (Zero quota for wild specimens for commercial purposes)
+- Epicrates monensis <Mona Island boa>
 
-Pangshura spp. (Except the species included in Appendix I)
+- Epicrates subflavus <Jamaican boa>
 
-Pangshura tecta <Dura turtle, Indian pond turtle>
+- Sanzinia madagascariensis <Madagascar tree boa>
 
-Sacalia bealei <Beal’s eyed turtle>
+- Bolyeriidae
 
-Sacalia pseudocellata <False eye-spotted turtle> (China)
+- Bolyeriidae spp. <Round Island boas> (Except the species included in Appendix I)
 
-Sacalia quadriocellata <Four-eyed turtle>
+- Bolyeria multocarinata <Round Island burrowing boa>
 
-Siebenrockiella crassicollis <Black marsh turtle>
+- Casarea dussumieri <Round Island keel-scaled boa>
 
-Siebenrockiella leytensis <Leyte pond turtle>
+- Appendix I | Appendix II | Appendix III
 
-Vijayachelys silvatica <Cochin forest cane turtle>
+- Colubridae
 
-Platysternidae
+- Atretium schistosum <Olive keel-back> (India)
 
-Platysternidae spp. <Big-headed turtle>
+- Cerberus rynchops <Bockadam> (India)
 
-Podocnemididae
+- Clelia clelia <Mussurana>
 
-Erymnochelys madagascariensis <Madagascar big-headed turtle>
+- Cyclagras gigas <Beach cobra>
 
-Peltocephalus dumerilianus <Big-headed Amazon River turtle>
+- Elachistodon westermanni <Indian egg-eater, Indian egg-eating snake>
 
-Podocnemis spp. <South American river turtles>
+- Ptyas mucosus <Common rat snake>
 
-Testudinidae
+- Xenochrophis piscator <Chequered keelback> (India)
 
-Testudinidae spp. <Tortoises> (Except the species included in Appendix I. A zero annual export quota has been established for Geochelone sulcata <African spurred tortoise> for specimens removed from the wild and traded for primarily commercial purposes)
+- Elapidae
 
-Astrochelys radiata <Radiated tortoise>
+- Hoplocephalus bungaroides <Broad-headed snake>
 
-Astrochelys yniphora <Angonoka, Madagascar tortoise>
+- Appendix I | Appendix II | Appendix III
 
-Chelonoidis nigra <Galapagos giant tortoise>
+- Micrurus diastema <Atlantic coral snake> (Honduras)
 
-Geochelone platynota <Burmese starred tortoise>
+- Micrurus nigrocinctus <Black-banded coral snake> (Honduras)
 
-Gopherus flavomarginatus <Bolson tortoise>
+- Naja atra <Chinese cobra>
 
-Psammobates geometricus <Geometric tortoise>
+- Naja kaouthia <Monocellate cobra>
 
-Pyxis arachnoides <Spider tortoise>
+- Naja mandalayensis
 
-Pyxis planicauda <Flat-backed spider tortoise>
+- Naja naja <Asian cobra>
 
-Testudo kleinmanni <Egyptian tortoise>
+- Naja oxiana <Central Asian cobra>
 
-Trionychidae
+- Naja philippinensis <North Philippine spitting cobra>
 
-Amyda cartilaginea <Southeast Asian softshell turtle>
+- Naja sagittifera <Andaman cobra>
 
-Apalone spinifera atra <Cuatro Cienegas softshell>
+- Naja samarensis <Peter’s cobra>
 
-Chitra spp. <Narrow-headed softshell turtles> (Except the species included in Appendix I)
+- Appendix I | Appendix II | Appendix III
 
-Chitra chitra <Southeast Asian narrow-headed softshell turtle>
+- Naja siamensis <Indochinese spitting cobra>
 
-Chitra vandijki <Burmese narrow-headed softshell turtle>
+- Naja sputatrix <Southern Indochinese spitting cobra>
 
-Dogania subplana <Malayan soft-shelled turtle>
+- Naja sumatrana <Equatorial spitting cobra>
 
-Lissemys ceylonensis
+- Ophiophagus hannah <Hamadryad, king cobra>
 
-Lissemys punctata <Indian flap-shell turtle>
+- Loxocemidae
 
-Lissemys scutata <Burmese flap-shell turtle>
+- Loxocemidae spp. <New World pythons>
 
-Nilssonia formosa <Burmese peacock softshell turtle>
+- Pythonidae
 
-Nilssonia gangetica <Indian softshell turtle>
+- Pythonidae spp. <Pythons> (Except the subspecies included in Appendix I)
 
-Nilssonia hurum <Indian peacock softshell turtle>
+- Python molurus molurus <Indian python>
 
-Nilssonia leithii <Leith’s softshell turtle>
+- Appendix I | Appendix II | Appendix III
 
-Nilssonia nigricans <Black softshell turtle>
+- Tropidophiidae
 
-Palea steindachneri <Wattle-necked softshell turtle>
+- Tropidophiidae spp. <Boas>
 
-Pelochelys spp. <Giant softshell turtles>
+- Viperidae
 
-Pelodiscus axenaria <Hunan softshell turtle>
+- Crotalus durissus <Cascabel, neotropical rattlesnake> (Honduras)
 
-Pelodiscus maackii <Northern Chinese softshell turtle>
+- Daboia russelii <Russell’s viper> (India)
 
-Pelodiscus parviformis <Lesser Chinese softshell turtle>
+- Trimeresurus mangshanensis <Mangshan pit viper>
 
-Rafetus swinhoei <Yangtze softshell turtle>
+- Vipera ursinii <Meadow viper> (Only the population of Europe, except the area which formerly constituted the Union of Soviet Socialist Republics; these latter populations are not included in the Appendices)
 
-CLASS AMPHIBIA <AMPHIBIANS>
+- Vipera wagneri <Wagner’s viper>
 
-ANURA
+- Appendix I | Appendix II | Appendix III
 
-Aromobatidae
+- TESTUDINES
 
-Allobates femoralis <Brilliant-thighed poison frog>
+- Carettochelyidae
 
-Allobates hodli
+- Carettochelys insculpta <Pig-nosed turtle>
 
-Allobates myersi <Myers’s poison frog>
+- Chelidae
 
-Allobates rufulus <Chimanta poison frog>
+- Chelodina mccordi <Roti snake-necked turtle> (Zero export quota for specimens from the wild)
 
-Allobates zaparo <Sanguine poison frog, Zaparo’s poison frog>
+- Pseudemydura umbrina <Western short-necked turtle>
 
-Bufonidae
+- Cheloniidae
 
-Altiphrynoides spp. <Ethiopian toads>
+- Cheloniidae spp. <Marine turtles, sea turtles>
 
-Amietophrynus superciliaris <Cameroon toad>
+- Chelydridae
 
-Atelopus zeteki <Cerro Campana stubfoot toad, golden frog>
+- Macrochelys temminckii <Alligator snapping turtle> (United States of America)
 
-Incilius periglenes <Alajuela toad, Monte Verde toad, Golden toad>
+- Dermatemydidae
 
-Nectophrynoides spp. <African viviparous toads>
+- Dermatemys mawii <Central American river turtle>
 
-Nimbaphrynoides spp. <Nimba toads>
+- Appendix I | Appendix II | Appendix III
 
-Calyptocephalellidae
+- Dermochelyidae
 
-Calyptocephalella gayi <Helmeted water toad> (Chile)
+- Dermochelys coriacea <Leatherback>
 
-Dendrobatidae
+- Emydidae
 
-Adelphobates spp.
+- Clemmys guttata <Spotted turtle>
 
-Ameerega spp.
+- Emydoidea blandingii <Blanding’s turtle>
 
-Andinobates spp.
+- Glyptemys insculpta <Wood turtle>
 
-Dendrobates spp. <Poison frogs>
+- Glyptemys muhlenbergii <Bog turtle>
 
-Epipedobates spp. <Poison frogs>
+- Graptemys spp. <Map turtle> (United States of America)
 
-Excidobates spp.
+- Malaclemys terrapin <Diamondback terrapin>
 
-Hyloxalus azureiventris <Sky-blue poison frog>
+- Terrapene spp. <Box turtles> (Except the species included in Appendix I)
 
-Minyobates spp.
+- Terrapene coahuila <Aquatic box turtle>
 
-Oophaga spp.
+- Appendix I | Appendix II | Appendix III
 
-Phyllobates spp. <Poison frogs>
+- Geoemydidae
 
-Ranitomeya spp.
+- Batagur affinis <Southern river terrapin>
 
-Dicroglossidae
+- Batagur baska <Batagur>
 
-Euphlyctis hexadactylus <Six-fingered frog>
+- Batagur borneoensis <Painted batagur> (Zero quota for wild specimens for commercial purposes)
 
-Hoplobatrachus tigerinus <Indian bullfrog>
+- Batagur dhongoka <Dhongoka roofed turtle>
 
-Hylidae
+- Batagur kachuga <Bengal roof turtle>
 
-Agalychnis spp. <Red eye tree frogs>
+- Batagur trivittata <Burmese roofed turtle> (Zero quota for wild specimens for commercial purposes)
 
-Mantellidae
+- Appendix I | Appendix II | Appendix III
 
-Mantella spp. <Golden frogs>
+- Cuora spp. <Asian box turtles> (Zero quota for wild specimens for commercial purposes for Cuora aurocapitata <Golden-headed box turtle>, C. flavomarginata <Yellow-margined box turtle>, C. galbinifrons <Indochinese box turtle>, C. mccordi <McCord’s box turtle>, C. mouhotii <Keeled box turtle>, C. pani <Pan’s box turtle>, C. trifasciata <Chinese three-striped box turtle>, C. yunnanensis <Yunnan box turtle> and C. zhoui <Zhou’s box turtle>)
 
-Microhylidae
+- Appendix I | Appendix II | Appendix III
 
-Dyscophus antongilii <Tomato frog>
+- Cyclemys spp. <Leaf turtles>
 
-Scaphiophryne gottlebei <Burrowing frog>
+- Geoclemys hamiltonii <Black pond turtle>
 
-Myobatrachidae
+- Geoemyda japonica <Ryukyu black-breasted leaf turtle>
 
-Rheobatrachus spp. <Gastric-brooding frogs> (Except Rheobatrachus silus <Conondale gastric-brooding frog> and Rheobatrachus vitellinus <Eungella gastric-brooding frog>)
+- Geoemyda spengleri <Black-breasted leaf turtle>
 
-CAUDATA
+- Hardella thurjii <Crowned river turtle>
 
-Ambystomatidae
+- Heosemys annandalii <Yellow-headed temple turtle> (Zero quota for wild specimens for commercial purposes)
 
-Ambystoma dumerilii <Achoque, Lake Patzcuaro salamander>
+- Heosemys depressa <Arakan forest turtle> (Zero quota for wild specimens for commercial purposes)
 
-Ambystoma mexicanum <Axolotl>
+- Heosemys grandis <Giant Asian pond turtle>
 
-Cryptobranchidae
+- Appendix I | Appendix II | Appendix III
 
-Andrias spp. <Giant salamanders>
+- Heosemys spinosa <Spiny terrapin, spiny turtle>
 
-Cryptobranchus alleganiensis <Hellbender> (United States of America)
+- Leucocephalon yuwonoi <Sulawesi forest turtle>
 
-Hynobiidae
+- Malayemys macrocephala <Snail-eating turtle>
 
-Hynobius amjiensis (China)
+- Malayemys subtrijuga <Malayan snail-eating turtle>
 
-Salamandridae
+- Mauremys annamensis <Annam leaf turtle> (Zero quota for wild specimens for commercial purposes)
 
-Neurergus kaiseri <Kaiser’s spotted newt>
+- Mauremys iversoni <Iverson’s freshwater turtle> (China)
 
-CLASS ELASMOBRANCHII <SHARKS>
+- Mauremys japonica <Japanese pond turtle>
 
-CARCHARHINIFORMES
+- Appendix I | Appendix II | Appendix III
 
-Carcharhinidae
+- Mauremys megalocephala <Chinese big-headed pond turtle> (China)
 
-Carcharhinus longimanus <Oceanic whitetip shark>
+- Mauremys mutica <Yellow pond turtle>
 
-Sphyrnidae
+- Mauremys nigricans <Red-necked pond turtle>
 
-Sphyrna lewini <Scalloped hammerhead shark>
+- Mauremys pritchardi <Lashio pond turtle> (China)
 
-Sphyrna mokarran <Great hammerhead shark>
+- Mauremys reevesii <Reeves’ turtle> (China)
 
-Sphyrna zygaena <Smooth hammerhead shark>
+- Mauremys sinensis <Chinese stripe-necked turtle> (China)
 
-LAMNIFORMES
+- Melanochelys tricarinata <Three-keeled land tortoise>
 
-Cetorhinidae
+- Melanochelys trijuga <Indian black turtle>
 
-Cetorhinus maximus <Basking shark>
+- Morenia ocellata <Bengal eyed terrapin>
 
-Lamnidae
+- Appendix I | Appendix II | Appendix III
 
-Carcharodon carcharias <Great white shark>
+- Morenia petersi <Indian eyed turtle>
 
-Lamna nasus <Porbeagle shark>
+- Notochelys platynota <Malayan flat-shelled turtle>
 
-ORECTOLOBIFORMES
+- Ocadia glyphistoma <Guangxi stripe-necked turtle> (China)
 
-Rhincodontidae
+- Ocadia philippeni <Philippen’s stripe-necked turtle> (China)
 
-Rhincodon typus <Whale shark>
+- Orlitia borneensis <Malayan giant turtle> (Zero quota for wild specimens for commercial purposes)
 
-PRISTIFORMES
+- Pangshura spp. (Except the species included in Appendix I)
 
-Pristidae
+- Pangshura tecta <Dura turtle, Indian pond turtle>
 
-Pristidae spp. <Sawfish>
+- Sacalia bealei <Beal’s eyed turtle>
 
-RAJIFORMES
+- Appendix I | Appendix II | Appendix III
 
-Mobulidae
+- Sacalia pseudocellata <False eye-spotted turtle> (China)
 
-Manta spp. <Manta rays>
+- Sacalia quadriocellata <Four-eyed turtle>
 
-CLASS ACTINOPTERYGII <FISHES>
+- Siebenrockiella crassicollis <Black marsh turtle>
 
-ACIPENSERIFORMES
+- Siebenrockiella leytensis <Leyte pond turtle>
 
-ACIPENSERIFORMES spp. <Sturgeons> (Except the species included in Appendix I)
+- Vijayachelys silvatica <Cochin forest cane turtle>
 
-Acipenseridae
+- Platysternidae
 
-Acipenser brevirostrum <Shortnose sturgeon>
+- Platysternidae spp. <Big-headed turtle>
 
-Acipenser sturio <Baltic sturgeon, common sturgeon>
+- Podocnemididae
 
-ANGUILLIFORMES
+- Erymnochelys madagascariensis <Madagascar big-headed turtle>
 
-Anguillidae
+- Peltocephalus dumerilianus <Big-headed Amazon River turtle>
 
-Anguilla anguilla <Common eel, European eel>
+- Podocnemis spp. <South American river turtles>
 
-CYPRINIFORMES
+- Appendix I | Appendix II | Appendix III
 
-Catostomidae
+- Testudinidae
 
-Chasmistes cujus <Cui-ui>
+- Testudinidae spp. <Tortoises> (Except the species included in Appendix I. A zero annual export quota has been established for Geochelone sulcata <African spurred tortoise> for specimens removed from the wild and traded for primarily commercial purposes)
 
-Cyprinidae
+- Astrochelys radiata <Radiated tortoise>
 
-Caecobarbus geertsii <African blind barb fish>
+- Astrochelys yniphora <Angonoka, Madagascar tortoise>
 
-Probarbus jullieni <Jullien’s golden carp, Ikan temoleh>
+- Chelonoidis nigra <Galapagos giant tortoise>
 
-OSTEOGLOSSIFORMES
+- Appendix I | Appendix II | Appendix III
 
-Arapaimidae
+- Geochelone platynota <Burmese starred tortoise>
 
-Arapaima gigas <Arapaima>
+- Gopherus flavomarginatus <Bolson tortoise>
 
-Osteoglossidae
+- Psammobates geometricus <Geometric tortoise>
 
-Scleropages formosus <Asian arowana, Asiatic bony tongue> (Includes the taxon Scleropages inscriptus)
+- Pyxis arachnoides <Spider tortoise>
 
-PERCIFORMES
+- Pyxis planicauda <Flat-backed spider tortoise>
 
-Labridae
+- Testudo kleinmanni <Egyptian tortoise>
 
-Cheilinus undulatus <Humphead wrasse>
+- Trionychidae
 
-Sciaenidae
+- Amyda cartilaginea <Southeast Asian softshell turtle>
 
-Totoaba macdonaldi <MacDonald’s weakfish>
+- Apalone spinifera atra <Cuatro Cienegas softshell>
 
-SILURIFORMES
+- Appendix I | Appendix II | Appendix III
 
-Pangasiidae
+- Chitra spp. <Narrow-headed softshell turtles> (Except the species included in Appendix I)
 
-Pangasianodon gigas <Giant catfish>
+- Chitra chitra <Southeast Asian narrow-headed softshell turtle>
 
-SYNGNATHIFORMES
+- Chitra vandijki <Burmese narrow-headed softshell turtle>
 
-Syngnathidae
+- Dogania subplana <Malayan soft-shelled turtle>
 
-Hippocampus spp. <Seahorses>
+- Lissemys ceylonensis
 
-CLASS SARCOPTERYGII <LUNGFISHES>
+- Lissemys punctata <Indian flap-shell turtle>
 
-CERATODONTIFORMES
+- Lissemys scutata <Burmese flap-shell turtle>
 
-Ceratodontidae
+- Nilssonia formosa <Burmese peacock softshell turtle>
 
-Neoceratodus forsteri <Australian lungfish>
+- Nilssonia gangetica <Indian softshell turtle>
 
-COELACANTHIFORMES
+- Appendix I | Appendix II | Appendix III
 
-Latimeriidae
+- Nilssonia hurum <Indian peacock softshell turtle>
 
-Latimeria spp. <Coelacanth>
+- Nilssonia leithii <Leith’s softshell turtle>
 
-P H Y L U M E C H I N O D E R M A T A
+- Nilssonia nigricans <Black softshell turtle>
 
-CLASS HOLOTHUROIDEA <SEA CUCUMBERS>
+- Palea steindachneri <Wattle-necked softshell turtle>
 
-ASPIDOCHIROTIDA
+- Pelochelys spp. <Giant softshell turtles>
 
-Stichopodidae
+- Pelodiscus axenaria <Hunan softshell turtle>
 
-Isostichopus fuscus <Brown sea cucumber> (Ecuador)
+- Pelodiscus maackii <Northern Chinese softshell turtle>
 
-P H Y L U M A R T H R O P O D A
+- Pelodiscus parviformis <Lesser Chinese softshell turtle>
 
-CLASS ARACHNIDA <SCORPIONS, SPIDERS>
+- Rafetus swinhoei <Yangtze softshell turtle>
 
-ARANEAE
+- Appendix I | Appendix II | Appendix III
 
-Theraphosidae
+- CLASS AMPHIBIA <AMPHIBIANS>
 
-Aphonopelma albiceps
+- ANURA
 
-Aphonopelma pallidum <Chihuahua rose-grey tarantula>
+- Aromobatidae
 
-Brachypelma spp. <Tarantulas>
+- Allobates femoralis <Brilliant-thighed poison frog>
 
-SCORPIONES
+- Allobates hodli
 
-Scorpionidae
+- Allobates myersi <Myers’s poison frog>
 
-Pandinus dictator <Scorpion>
+- Allobates rufulus <Chimanta poison frog>
 
-Pandinus gambiensis <Giant Senelgalese scorpion>
+- Allobates zaparo <Sanguine poison frog, Zaparo’s poison frog>
 
-Pandinus imperator <Emperor scorpion>
+- Appendix I | Appendix II | Appendix III
 
-CLASS INSECTA <INSECTS>
+- Bufonidae
 
-COLEOPTERA
+- Altiphrynoides spp. <Ethiopian toads>
 
-Lucanidae
+- Amietophrynus superciliaris <Cameroon toad>
 
-Colophon spp. <Cape stag beetles> (South Africa)
+- Atelopus zeteki <Cerro Campana stubfoot toad, golden frog>
 
-Scarabaeidae
+- Incilius periglenes <Alajuela toad, Monte Verde toad, Golden toad>
 
-Dynastes satanas <Satanas beetle>
+- Nectophrynoides spp. <African viviparous toads>
 
-LEPIDOPTERA
+- Nimbaphrynoides spp. <Nimba toads>
 
-Nymphalidae
+- Calyptocephalellidae
 
-Agrias amydon boliviensis <White-spotted agrias> (Plurinational State of Bolivia)
+- Calyptocephalella gayi <Helmeted water toad> (Chile)
 
-Morpho godartii lachaumei <Godart’s morpho> (Plurinational State of Bolivia)
+- Appendix I | Appendix II | Appendix III
 
-Prepona praeneste buckleyana <Prepona> (Plurinational State of Bolivia)
+- Dendrobatidae
 
-Papilionidae
+- Adelphobates spp.
 
-Atrophaneura jophon <Sri Lankan rose>
+- Ameerega spp.
 
-Atrophaneura pandiyana <Malabar rose>
+- Andinobates spp.
 
-Bhutanitis spp. <Bhutan swallowtails>
+- Dendrobates spp. <Poison frogs>
 
-Ornithoptera spp. <Birdwing butterflies> (Except the species included in Appendix I)
+- Epipedobates spp. <Poison frogs>
 
-Ornithoptera alexandrae <Queen Alexandra’s birdwing>
+- Excidobates spp.
 
-Papilio chikae <Luzon peacock swallowtail>
+- Hyloxalus azureiventris <Sky-blue poison frog>
 
-Papilio homerus <Homerus swallowtail>
+- Minyobates spp.
 
-Papilio hospiton <Corsican swallowtail>
+- Oophaga spp.
 
-Parnassius apollo <Apollo>
+- Phyllobates spp. <Poison frogs>
 
-Teinopalpus spp. <Kaiserihinds>
+- Ranitomeya spp.
 
-Trogonoptera spp. <Birdwing butterflies>
+- Appendix I | Appendix II | Appendix III
 
-Troides spp. <Birdwing butterflies>
+- Dicroglossidae
 
-P H Y L U M A N N E L I D A
+- Euphlyctis hexadactylus <Six-fingered frog>
 
-CLASS HIRUDINOIDEA <LEECHES>
+- Hoplobatrachus tigerinus <Indian bullfrog>
 
-ARHYNCHOBDELLIDA
+- Hylidae
 
-Hirudinidae
+- Agalychnis spp. <Red eye tree frogs>
 
-Hirudo medicinalis <Medicinal leech>
+- Mantellidae
 
-Hirudo verbana <Southern medicinal leech>
+- Mantella spp. <Golden frogs>
 
-P H Y L U M M O L L U S C A
+- Microhylidae
 
-CLASS BIVALVIA <CLAMS, MUSSELS>
+- Dyscophus antongilii <Tomato frog>
 
-MYTILOIDA
+- Scaphiophryne gottlebei <Burrowing frog>
 
-Mytilidae
+- Appendix I | Appendix II | Appendix III
 
-Lithophaga lithophaga <Date mussel>
+- Myobatrachidae
 
-UNIONOIDA
+- Rheobatrachus spp. <Gastric-brooding frogs> (Except Rheobatrachus silus <Conondale gastric-brooding frog> and Rheobatrachus vitellinus <Eungella gastric-brooding frog>)
 
-Unionidae
+- CAUDATA
 
-Conradilla caelata <Birdwing pearly mussel>
+- Ambystomatidae
 
-Cyprogenia aberti <Edible naiad>
+- Ambystoma dumerilii <Achoque, Lake Patzcuaro salamander>
 
-Dromus dromas <Dromedary pearly mussel>
+- Ambystoma mexicanum <Axolotl>
 
-Epioblasma curtisi <Curtis’ pearly mussel>
+- Appendix I | Appendix II | Appendix III
 
-Epioblasma florentina <Yellow-blossom pearly mussel>
+- Cryptobranchidae
 
-Epioblasma sampsonii <Sampson’s pearly mussel>
+- Andrias spp. <Giant salamanders>
 
-Epioblasma sulcata perobliqua <White Catspan pearly mussel>
+- Cryptobranchus alleganiensis <Hellbender> (United States of America)
 
-Epioblasma torulosa gubernaculum <Green-blossom pearly mussel>
+- Hynobiidae
 
-Epioblasma torulosa rangiana <Northern riffleshell>
+- Hynobius amjiensis (China)
 
-Epioblasma torulosa torulosa <Tubercled-blossom pearly mussel>
+- Salamandridae
 
-Epioblasma turgidula <Turgid-blossom pearly mussel>
+- Neurergus kaiseri <Kaiser’s spotted newt>
 
-Epioblasma walkeri <Brown-blossom pearly mussel>
+- Appendix I | Appendix II | Appendix III
 
-Fusconaia cuneolus <Fine-rayed pigtoe pearly mussel>
+- CLASS ELASMOBRANCHII <SHARKS>
 
-Fusconaia edgariana <Shiny pigtoe pearly mussel>
+- CARCHARHINIFORMES
 
-Lampsilis higginsii <Higgin’s eye pearly mussel>
+- Carcharhinidae
 
-Lampsilis orbiculata orbiculata <Pink mucket pearly mussel>
+- Carcharhinus longimanus <Oceanic whitetip shark>
 
-Lampsilis satur <Plain pocketbook pearly mussel>
+- Sphyrnidae
 
-Lampsilis virescens <Alabama lamp pearly mussel>
+- Sphyrna lewini <Scalloped hammerhead shark>
 
-Plethobasus cicatricosus <White warty-back pearly mussel>
+- Sphyrna mokarran <Great hammerhead shark>
 
-Plethobasus cooperianus <Orangefoot pimpleback mussel>
+- Sphyrna zygaena <Smooth hammerhead shark>
 
-Pleurobema clava <Club naiad>
+- Appendix I | Appendix II | Appendix III
 
-Pleurobema plenum <Rough pigtoe pearly mussel>
+- LAMNIFORMES
 
-Potamilus capax <Fat pocketbook pearly mussel>
+- Cetorhinidae
 
-Quadrula intermedia <Cumberland monkeyface pearly mussel>
+- Cetorhinus maximus <Basking shark>
 
-Quadrula sparsa <Appalachian monkey-face pearly mussel>
+- Lamnidae
 
-Toxolasma cylindrella <Pale lilliput pearly mussel>
+- Carcharodon carcharias <Great white shark>
 
-Unio nickliniana <Nicklin’s pearly mussel>
+- Lamna nasus <Porbeagle shark>
 
-Unio tampicoensis tecomatensis <Tampico pearly mussel>
+- ORECTOLOBIFORMES
 
-Villosa trabalis <Cumberland bean pearly mussel>
+- Rhincodontidae
 
-VENEROIDA
+- Rhincodon typus <Whale shark>
 
-Tridacnidae
+- PRISTIFORMES
 
-Tridacnidae spp. <Giant clams>
+- Pristidae
 
-CLASS GASTROPODA <SNAILS AND CONCHES>
+- Pristidae spp. <Sawfish>
 
-MESOGASTROPODA
+- RAJIFORMES
 
-Strombidae
+- Mobulidae
 
-Strombus gigas <Pink conch, queen conch>
+- Manta spp. <Manta rays>
 
-STYLOMMATOPHORA
+- Appendix I | Appendix II | Appendix III
 
-Achatinellidae
+- CLASS ACTINOPTERYGII <FISHES>
 
-Achatinella spp. <Little agate shells>
+- ACIPENSERIFORMES
 
-Camaenidae
+- ACIPENSERIFORMES spp. <Sturgeons> (Except the species included in Appendix I)
 
-Papustyla pulcherrima <Emerald green snail>
+- Acipenseridae
 
-P H Y L U M C N I D A R I A
+- Acipenser brevirostrum <Shortnose sturgeon>
 
-CLASS ANTHOZOA <CORALS, SEA ANEMONES>
+- Acipenser sturio <Baltic sturgeon, common sturgeon>
 
-ANTIPATHARIA
+- ANGUILLIFORMES
 
-ANTIPATHARIA spp. <Black corals>
+- Anguillidae
 
-GORGONACEAE
+- Anguilla anguilla <Common eel, European eel>
 
-Coralliidae
+- Appendix I | Appendix II | Appendix III
 
-Corallium elatius (China)
+- CYPRINIFORMES
 
-Corallium japonicum (China)
+- Catostomidae
 
-Corallium konjoi <White coral> (China)
+- Chasmistes cujus <Cui-ui>
 
-Corallium secundum <Angelskin coral, pink coral> (China)
+- Cyprinidae
 
-HELIOPORACEA
+- Caecobarbus geertsii <African blind barb fish>
 
-Helioporidae
+- Probarbus jullieni <Jullien’s golden carp, Ikan temoleh>
 
-Helioporidae spp. <Blue corals> (Includes only the species Heliopora coerulea. Fossils are not subject to the provisions of this Ordinance)
+- OSTEOGLOSSIFORMES
 
-SCLERACTINIA
+- Arapaimidae
 
-SCLERACTINIA spp. <Stony corals> (Fossils are not subject to the provisions of this Ordinance)
+- Arapaima gigas <Arapaima>
 
-STOLONIFERA
+- Osteoglossidae
 
-Tubiporidae
+- Scleropages formosus <Asian arowana, Asiatic bony tongue> (Includes the taxon Scleropages inscriptus)
 
-Tubiporidae spp. <Organ-pipe corals> (Fossils are not subject to the provisions of this Ordinance)
+- Appendix I | Appendix II | Appendix III
 
-CLASS HYDROZOA <SEA FERNS, FIRE CORALS, STINGING MEDUSAE>
+- PERCIFORMES
 
-MILLEPORINA
+- Labridae
 
-Milleporidae
+- Cheilinus undulatus <Humphead wrasse>
 
-Milleporidae spp. <Fire corals> (Fossils are not subject to the provisions of this Ordinance)
+- Sciaenidae
 
-STYLASTERINA
+- Totoaba macdonaldi <MacDonald’s weakfish>
 
-Stylasteridae
+- SILURIFORMES
 
-Stylasteridae spp. <Lace corals> (Fossils are not subject to the provisions of this Ordinance)
+- Pangasiidae
 
-F L O R A <PLANTS>
+- Pangasianodon gigas <Giant catfish>
 
-AGAVACEAE
+- SYNGNATHIFORMES
 
-Agave parviflora <Santa Cruz striped agave>
+- Syngnathidae
 
-Agave victoriae-reginae#4 <Queen agave>
+- Hippocampus spp. <Seahorses>
 
-Nolina interrata <Dehesa bear-grass>
+- Appendix I | Appendix II | Appendix III
 
-Yucca queretaroensis <Queretaro yucca>
+- CLASS SARCOPTERYGII <LUNGFISHES>
 
-AMARYLLIDACEAE
+- CERATODONTIFORMES
 
-Galanthus spp.#4 <Snowdrops>
+- Ceratodontidae
 
-Sternbergia spp.#4 <Daffodils, sternbergias>
+- Neoceratodus forsteri <Australian lungfish>
 
-ANACARDIACEAE
+- COELACANTHIFORMES
 
-Operculicarya decaryi <Jabihy, elephant tree>
+- Latimeriidae
 
-Operculicarya hyphaenoides
+- Latimeria spp. <Coelacanth>
 
-Operculicarya pachypus
+- PHYLUM ECHINODERMATA
 
-APOCYNACEAE
+- CLASS HOLOTHUROIDEA <SEA CUCUMBERS>
 
-Hoodia spp. #9
+- ASPIDOCHIROTIDA
 
-Pachypodium spp.#4<Elephant’s trunks> (Except the species included in Appendix I)
+- Stichopodidae
 
-Pachypodium ambongense
+- Isostichopus fuscus <Brown sea cucumber> (Ecuador)
 
-Pachypodium baronii
+- Appendix I | Appendix II | Appendix III
 
-Pachypodium decaryi
+- PHYLUM ARTHROPODA
 
-Rauvolfia serpentina #2 <Snake-root devil-pepper>
+- CLASS ARACHNIDA <SCORPIONS, SPIDERS>
 
-ARALIACEAE
+- ARANEAE
 
-Panax ginseng #3 <Ginseng> (Only the population of the Russian Federation; no other population is included in the Appendices)
+- Theraphosidae
 
-Panax quinquefolius #3 <American ginseng>
+- Aphonopelma albiceps
 
-ARAUCARIACEAE
+- Aphonopelma pallidum <Chihuahua rose-grey tarantula>
 
-Araucaria araucana <Chilean pine, monkey puzzle>
+- Brachypelma spp. <Tarantulas>
 
-BERBERIDACEAE
+- SCORPIONES
 
-Podophyllum hexandrum #2<Himilayan may-apple>
+- Scorpionidae
 
-BROMELIACEAE
+- Pandinus dictator <Scorpion>
 
-Tillandsia harrisii#4 <Harris’ tillandsia>
+- Pandinus gambiensis <Giant Senelgalese scorpion>
 
-Tillandsia kammii #4 <Kamm’s tillandsia>
+- Pandinus imperator <Emperor scorpion>
 
-Tillandsia mauryana #4 <Maury’s tillandsia>
+- Appendix I | Appendix II | Appendix III
 
-Tillandsia xerographica #4 <Xerographic tillandsia>
+- CLASS INSECTA <INSECTS>
 
-CACTACEAE
+- COLEOPTERA
 
-CACTACEAE spp.6 #4<Cacti> (Except the species included in Appendix I and except Pereskia spp., Pereskiopsis spp. and Quiabentia spp.)
+- Lucanidae
 
-Ariocarpus spp. <Living rock cacti>
+- Colophon spp. <Cape stag beetles> (South Africa)
 
-Astrophytum asterias <Star cactus>
+- Scarabaeidae
 
-Aztekium ritteri <Aztec cactus>
+- Dynastes satanas <Satanas beetle>
 
-Coryphantha werdermannii <Jabali pincushion cactus>
+- LEPIDOPTERA
 
-Discocactus spp. <Discocacti>
+- Nymphalidae
 
-Echinocereus ferreirianus ssp. lindsayi <Lindsay’s cactus>
+- Agrias amydon boliviensis <White-spotted agrias> (Plurinational State of Bolivia)
 
-Echinocereus schmollii <Lamb’s-tail cactus>
+- Morpho godartii lachaumei <Godart’s morpho> (Plurinational State of Bolivia)
 
-Escobaria minima <Nellie’s cory cactus>
+- Prepona praeneste buckleyana <Prepona> (Plurinational State of Bolivia)
 
-Escobaria sneedii <Sneed’s cory cactus>
+- Appendix I | Appendix II | Appendix III
 
-Mammillaria pectinifera
+- Papilionidae
 
-Mammillaria solisioides
+- Atrophaneura jophon <Sri Lankan rose>
 
-Melocactus conoideus <Conelike Turk’s-cap cactus>
+- Atrophaneura pandiyana <Malabar rose>
 
-Melocactus deinacanthus <Wonderfully-bristled Turk’s-cap cactus>
+- Bhutanitis spp. <Bhutan swallowtails>
 
-Melocactus glaucescens <Woolly waxy-stemmed Turk’s-cap cactus>
+- Ornithoptera spp. <Birdwing butterflies> (Except the species included in Appendix I)
 
-Melocactus paucispinus <Few-spined Turk’s-cap cactus>
+- Ornithoptera alexandrae <Queen Alexandra’s birdwing>
 
-Obregonia denegrii <Artichoke cactus>
+- Papilio chikae <Luzon peacock swallowtail>
 
-Pachycereus militaris <Grenadier’s cap>
+- Papilio homerus <Homerus swallowtail>
 
-Pediocactus bradyi <Brady’s pincushion cactus>
+- Appendix I | Appendix II | Appendix III
 
-Pediocactus knowltonii <Knowlton’s cactus>
+- Papilio hospiton <Corsican swallowtail>
 
-Pediocactus paradinei <Park pincushion cactus>
+- Parnassius apollo <Apollo>
 
-Pediocactus peeblesianus <Peeble’s Navajo cactus>
+- Teinopalpus spp. <Kaiserihinds>
 
-Pediocactus sileri <Siler’s pincushion cactus>
+- Trogonoptera spp. <Birdwing butterflies>
 
-Pelecyphora spp. <Hatchet cacti>
+- Troides spp. <Birdwing butterflies>
 
-Sclerocactus brevihamatus ssp. tobuschii
+- PHYLUM ANNELIDA
 
-Sclerocactus erectocentrus
+- CLASS HIRUDINOIDEA <LEECHES>
 
-Sclerocactus glaucus <Uinta basin hookless cactus>
+- ARHYNCHOBDELLIDA
 
-Sclerocactus mariposensis <Lloyd’s mariposa cactus>
+- Hirudinidae
 
-Sclerocactus mesae-verdae <Mesa-verde cactus>
+- Hirudo medicinalis <Medicinal leech>
 
-Sclerocactus nyensis <Tonopah fishhook cactus>
+- Hirudo verbana <Southern medicinal leech>
 
-Sclerocactus papyracanthus <Paper-spine pincushion cactus>
+- Appendix I | Appendix II | Appendix III
 
-Sclerocactus pubispinus
+- PHYLUM MOLLUSCA
 
-Sclerocactus wrightiae <Wright’s fishhook cactus>
+- CLASS BIVALVIA <CLAMS, MUSSELS>
 
-Strombocactus spp.
+- MYTILOIDA
 
-Turbinicarpus spp. <Turbinicarps>
+- Mytilidae
 
-Uebelmannia spp. <Uebelman cacti>
+- Lithophaga lithophaga <Date mussel>
 
-CARYOCARACEAE
+- UNIONOIDA
 
-Caryocar costaricense #4 <Costus>
+- Unionidae
 
-COMPOSITAE (Asteraceae)
+- Conradilla caelata <Birdwing pearly mussel>
 
-Saussurea costus <Costus root>
+- Cyprogenia aberti <Edible naiad>
 
-CUCURBITACEAE
+- Dromus dromas <Dromedary pearly mussel>
 
-Zygosicyos pubescens
+- Epioblasma curtisi <Curtis’ pearly mussel>
 
-Zygosicyos tripartitus
+- Appendix I | Appendix II | Appendix III
 
-CUPRESSACEAE
+- Epioblasma florentina <Yellow-blossom pearly mussel>
 
-Fitzroya cupressoides <Alerce>
+- Epioblasma sampsonii <Sampson’s pearly mussel>
 
-Pilgerodendron uviferum
+- Epioblasma sulcata perobliqua <White Catspan pearly mussel>
 
-CYATHEACEAE
+- Epioblasma torulosa gubernaculum <Green-blossom pearly mussel>
 
-Cyathea spp. #4<Tree ferns>
+- Epioblasma torulosa rangiana <Northern riffleshell>
 
-CYCADACEAE
+- Epioblasma torulosa torulosa <Tubercled-blossom pearly mussel>
 
-CYCADACEAE spp. #4 <Cycads> (Except the species included in Appendix I)
+- Epioblasma turgidula <Turgid-blossom pearly mussel>
 
-Cycas beddomei
+- Epioblasma walkeri <Brown-blossom pearly mussel>
 
-DICKSONIACEAE
+- Appendix I | Appendix II | Appendix III
 
-Cibotium barometz #4
+- Fusconaia cuneolus <Fine-rayed pigtoe pearly mussel>
 
-Dicksonia spp. #4 <Tree ferns> (Only the populations of the Americas; no other population is included in the Appendices)
+- Fusconaia edgariana <Shiny pigtoe pearly mussel>
 
-DIDIEREACEAE
+- Lampsilis higginsii <Higgin’s eye pearly mussel>
 
-DIDIEREACEAE spp. #4 <Didiereas>
+- Lampsilis orbiculata orbiculata <Pink mucket pearly mussel>
 
-DIOSCOREACEAE
+- Lampsilis satur <Plain pocketbook pearly mussel>
 
-Dioscorea deltoidea #4 <Elephant’s foot>
+- Lampsilis virescens <Alabama lamp pearly mussel>
 
-DROSERACEAE
+- Plethobasus cicatricosus <White warty-back pearly mussel>
 
-Dionaea muscipula #4 <Venus flytrap>
+- Plethobasus cooperianus <Orangefoot pimpleback mussel>
 
-EBENACEAE
+- Appendix I | Appendix II | Appendix III
 
-Diospyros spp. #5 <Malagasy ebony> (Populations of Madagascar)
+- Pleurobema clava <Club naiad>
 
-EUPHORBIACEAE
+- Pleurobema plenum <Rough pigtoe pearly mussel>
 
-Euphorbia spp. #4 <Euphorbias, spurges> (Succulent species only except Euphorbia misera <Cliff spurge> and the species included in Appendix I. Artificially propagated specimens of cultivars of Euphorbia trigona, artificially propagated specimens of crested, fan-shaped or colour mutants of Euphorbia lactea, when grafted on artificially propagated root stock of Euphorbia neriifolia, and artificially propagated specimens of cultivars of Euphorbia ‘Milii’ when they are traded in shipments of 100 or more plants and readily recognizable as artificially propagated specimens, are not subject to the provisions of this Ordinance)
+- Potamilus capax <Fat pocketbook pearly mussel>
 
-Euphorbia ambovombensis
+- Quadrula intermedia <Cumberland monkeyface pearly mussel>
 
-Euphorbia capsaintemariensis
+- Quadrula sparsa <Appalachian monkey-face pearly mussel>
 
-Euphorbia cremersii (Includes the forma viridifolia and the var. rakotozafyi)
+- Toxolasma cylindrella <Pale lilliput pearly mussel>
 
-Euphorbia cylindrifolia (Includes the ssp. tuberifera)
+- Unio nickliniana <Nicklin’s pearly mussel>
 
-Euphorbia decaryi (Includes the vars. ampanihyensis, robinsonii and spirosticha)
+- Unio tampicoensis tecomatensis <Tampico pearly mussel>
 
-Euphorbia francoisii
+- Villosa trabalis <Cumberland bean pearly mussel>
 
-Euphorbia moratii (Includes the vars. antsingiensis, bemarahensis and multiflora)
+- Appendix I | Appendix II | Appendix III
 
-Euphorbia parvicyathophora
+- VENEROIDA
 
-Euphorbia quartziticola
+- Tridacnidae
 
-Euphorbia tulearensis
+- Tridacnidae spp. <Giant clams>
 
-FOUQUIERIACEAE
+- CLASS GASTROPODA <SNAILS AND CONCHES>
 
-Fouquieria columnaris #4 <Boojum tree>
+- MESOGASTROPODA
 
-Fouquieria fasciculata
+- Strombidae
 
-Fouquieria purpusii
+- Strombus gigas <Pink conch, queen conch>
 
-FAGACEAE
+- STYLOMMATOPHORA
 
-Quercus mongolica #5 <Mongolian oak> (Russian Federation)
+- Achatinellidae
 
-GNETACEAE
+- Achatinella spp. <Little agate shells>
 
-Gnetum montanum #1 <Gnetum> (Nepal)
+- Camaenidae
 
-JUGLANDACEAE
+- Papustyla pulcherrima <Emerald green snail>
 
-Oreomunnea pterocarpa #4
+- Appendix I | Appendix II | Appendix III
 
-LAURACEAE
+- PHYLUM CNIDARIA
 
-Aniba rosaeodora #12 <Brazilian rosewood>
+- CLASS ANTHOZOA <CORALS, SEA ANEMONES>
 
-LEGUMINOSAE (Fabaceae)
+- ANTIPATHARIA
 
-Caesalpinia echinata #10 <Brazil wood>
+- ANTIPATHARIA spp. <Black corals>
 
-Dalbergia spp. #5 <Malagasy rosewood> (Populations of Madagascar)
+- GORGONACEAE
 
-Dalbergia cochinchinensis #5 <Thailand rosewood>
+- Coralliidae
 
-Dalbergia darienensis #2 <Panamanian rosewood> [Population of Panama (Panama)]
+- Corallium elatius (China)
 
-Dalbergia granadillo #6 <Granadillo rosewood>
+- Corallium japonicum (China)
 
-Dalbergia nigra <Brazilian rosewood>
+- Corallium konjoi <White coral> (China)
 
-Dalbergia retusa #6 <Black rosewood, Cocobolo>
+- Corallium secundum <Angelskin coral, pink coral> (China)
 
-Dalbergia stevensonii #6 <Honduras rosewood>
+- Appendix I | Appendix II | Appendix III
 
-Dalbergia tucurensis #6 <Guatemalan rosewood> (Nicaragua)
+- HELIOPORACEA
 
-Dipteryx panamensis (Costa Rica, Nicaragua)
+- Helioporidae
 
-Pericopsis elata #5 <African teak>
+- Helioporidae spp. <Blue corals> (Includes only the species Heliopora coerulea. Fossils are not subject to the provisions of this Ordinance)
 
-Platymiscium pleiostachyum #4 <Quira macawood>
+- SCLERACTINIA
 
-Pterocarpus santalinus #7 <Red sandalwood>
+- SCLERACTINIA spp. <Stony corals> (Fossils are not subject to the provisions of this Ordinance)
 
-Senna meridionalis <Taraby>
+- STOLONIFERA
 
-LILIACEAE
+- Tubiporidae
 
-Aloe spp. #4 <Aloes> (Except the species included in Appendix I. Also excludes Aloe vera, also referenced as Aloe barbadensis which is not included in the Appendices)
+- Tubiporidae spp. <Organ-pipe corals> (Fossils are not subject to the provisions of this Ordinance)
 
-Aloe albida
+- Appendix I | Appendix II | Appendix III
 
-Aloe albiflora
+- CLASS HYDROZOA <SEA FERNS, FIRE CORALS, STINGING MEDUSAE>
 
-Aloe alfredii
+- MILLEPORINA
 
-Aloe bakeri
+- Milleporidae
 
-Aloe bellatula
+- Milleporidae spp. <Fire corals> (Fossils are not subject to the provisions of this Ordinance)
 
-Aloe calcairophila
+- STYLASTERINA
 
-Aloe compressa (Includes the vars. paucituberculata, rugosquamosa and schistophila)
+- Stylasteridae
 
-Aloe delphinensis
+- Stylasteridae spp. <Lace corals> (Fossils are not subject to the provisions of this Ordinance)
 
-Aloe descoingsii
+- FLORA <PLANTS>
 
-Aloe fragilis
+- AGAVACEAE
 
-Aloe haworthioides (Includes the var. aurantiaca)
+- Agave parviflora <Santa Cruz striped agave>
 
-Aloe helenae
+- Appendix I | Appendix II | Appendix III
 
-Aloe laeta (Includes the var. maniaensis)
+- Agave victoriae-reginae #4 <Queen agave>
 
-Aloe parallelifolia
+- Nolina interrata <Dehesa bear-grass>
 
-Aloe parvula
+- Yucca queretaroensis <Queretaro yucca>
 
-Aloe pillansii <Bastard quiver tree>
+- AMARYLLIDACEAE
 
-Aloe polyphylla <Spiral aloe>
+- Galanthus spp. #4 <Snowdrops>
 
-Aloe rauhii
+- Sternbergia spp. #4 <Daffodils, sternbergias>
 
-Aloe suzannae
+- ANACARDIACEAE
 
-Aloe versicolor
+- Operculicarya decaryi <Jabihy, elephant tree>
 
-Aloe vossii
+- Operculicarya hyphaenoides
 
-MAGNOLIACEAE
+- Operculicarya pachypus
 
-Magnolia liliifera var. obovata #1 (Nepal)
+- Appendix I | Appendix II | Appendix III
 
-MELIACEAE
+- APOCYNACEAE
 
-Cedrela fissilis #5 <South American cedar> (Plurinational State of Bolivia)
+- Hoodia spp. #9
 
-Cedrela lilloi #5 <Cedro> (Plurinational State of Bolivia)
+- Pachypodium spp. #4 <Elephant’s trunks> (Except the species included in Appendix I)
 
-Cedrela odorata #5 <West Indian cedar> [Brazil; Plurinational State of Bolivia; Population of Colombia (Colombia); Population of Guatemala (Guatemala); Population of Peru (Peru)]
+- Pachypodium ambongense
 
-Swietenia humilis #4 <Mexican mahogany>
+- Pachypodium baronii
 
-Swietenia macrophylla #6 <Big-leaf mahogany> (Populations of the Neotropics)
+- Pachypodium decaryi
 
-Swietenia mahagoni #5 <American mahogany>
+- Rauvolfia serpentina #2 <Snake-root devil-pepper>
 
-NEPENTHACEAE
+- Appendix I | Appendix II | Appendix III
 
-Nepenthes spp. #4 <Pitcher plants> (Except the species included in Appendix I)
+- ARALIACEAE
 
-Nepenthes khasiana <Indian pitcher plant>
+- Panax ginseng #3 <Ginseng> (Only the population of the Russian Federation; no other population is included in the Appendices)
 
-Nepenthes rajah <Kinabalu pitcher plant>
+- Panax quinquefolius #3 <American ginseng>
 
-OLEACEAE
+- ARAUCARIACEAE
 
-Fraxinus mandshurica #5 <Manchurian ash> (Russian Federation)
+- Araucaria araucana <Chilean pine, monkey puzzle>
 
-ORCHIDACEAE
+- BERBERIDACEAE
 
-ORCHIDACEAE spp.7 #4 <Orchids> (Except the species included in Appendix I)
+- Podophyllum hexandrum #2 <Himilayan may-apple>
 
-(For all of the following Appendix I species, seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to the provisions of this Ordinance only if the specimens meet the definition of artificially propagated agreed by the Conference of the Parties)
+- Appendix I | Appendix II | Appendix III
 
-Aerangis ellisii
+- BROMELIACEAE
 
-Dendrobium cruentum
+- Tillandsia harrisii #4 <Harris’ tillandsia>
 
-Laelia jongheana
+- Tillandsia kammii #4 <Kamm’s tillandsia>
 
-Laelia lobata
+- Tillandsia mauryana #4 <Maury’s tillandsia>
 
-Paphiopedilum spp. <Slipper orchids>
+- Tillandsia xerographica #4 <Xerographic tillandsia>
 
-Peristeria elata <Holy ghost orchid>
+- CACTACEAE
 
-Phragmipedium spp. <Slipper orchids>
+- CACTACEAE spp.6 #4 <Cacti> (Except the species included in Appendix I and except Pereskia spp., Pereskiopsis spp. and Quiabentia spp.)
 
-Renanthera imschootiana <Red vanda orchid>
+- Ariocarpus spp. <Living rock cacti>
 
-OROBANCHACEAE
+- Appendix I | Appendix II | Appendix III
 
-Cistanche deserticola #4 <Desert-living cistanche>
+- Astrophytum asterias <Star cactus>
 
-PALMAE (Arecaceae)
+- Aztekium ritteri <Aztec cactus>
 
-Beccariophoenix madagascariensis #4
+- Coryphantha werdermannii <Jabali pincushion cactus>
 
-Chrysalidocarpus decipiens <Butterfly palm>
+- Discocactus spp. <Discocacti>
 
-Lemurophoenix halleuxii <Red-lemur palm>
+- Echinocereus ferreirianus ssp. lindsayi <Lindsay’s cactus>
 
-Lodoicea maldivica #13 <Sea coconut> (Seychelles)
+- Echinocereus schmollii <Lamb’s-tail cactus>
 
-Marojejya darianii
+- Escobaria minima <Nellie’s cory cactus>
 
-Neodypsis decaryi #4 <Feather palm>
+- Escobaria sneedii <Sneed’s cory cactus>
 
-Ravenea louvelii
+- Mammillaria pectinifera
 
-Ravenea rivularis
+- Mammillaria solisioides
 
-Satranala decussilvae
+- Appendix I | Appendix II | Appendix III
 
-Voanioala gerardii
+- Melocactus conoideus <Conelike Turk’s-cap cactus>
 
-PAPAVERACEAE
+- Melocactus deinacanthus <Wonderfully-bristled Turk’s-cap cactus>
 
-Meconopsis regia #1<Himalayan poppy> (Nepal)
+- Melocactus glaucescens <Woolly waxy-stemmed Turk’s-cap cactus>
 
-PASSIFLORACEAE
+- Melocactus paucispinus <Few-spined Turk’s-cap cactus>
 
-Adenia firingalavensis <Bottle liana>
+- Obregonia denegrii <Artichoke cactus>
 
-Adenia olaboensis
+- Pachycereus militaris <Grenadier’s cap>
 
-Adenia subsessilifolia <Katakata>
+- Pediocactus bradyi <Brady’s pincushion cactus>
 
-PEDALIACEAE
+- Pediocactus knowltonii <Knowlton’s cactus>
 
-Uncarina grandidieri
+- Pediocactus paradinei <Park pincushion cactus>
 
-Uncarina stellulifera
+- Pediocactus peeblesianus <Peeble’s Navajo cactus>
 
-PINACEAE
+- Appendix I | Appendix II | Appendix III
 
-Abies guatemalensis <Guatemalan fir>
+- Pediocactus sileri <Siler’s pincushion cactus>
 
-Pinus koraiensis #5 <Korean pine> (Russian Federation)
+- Pelecyphora spp. <Hatchet cacti>
 
-PODOCARPACEAE
+- Sclerocactus brevihamatus ssp. tobuschii
 
-Podocarpus neriifolius #1 <Thitmin> (Nepal)
+- Sclerocactus erectocentrus
 
-Podocarpus parlatorei <Parlatore’s podocarp>
+- Sclerocactus glaucus <Uinta basin hookless cactus>
 
-PORTULACACEAE
+- Sclerocactus mariposensis <Lloyd’s mariposa cactus>
 
-Anacampseros spp. #4 <Purselanes>
+- Sclerocactus mesae-verdae <Mesa-verde cactus>
 
-Avonia spp. #4
+- Sclerocactus nyensis <Tonopah fishhook cactus>
 
-Lewisia serrata #4 <Saw-toothed lewisia>
+- Sclerocactus papyracanthus <Paper-spine pincushion cactus>
 
-PRIMULACEAE
+- Sclerocactus pubispinus
 
-Cyclamen spp.8 #4 <Cyclamens>
+- Appendix I | Appendix II | Appendix III
 
-RANUNCULACEAE
+- Sclerocactus wrightiae <Wright’s fishhook cactus>
 
-Adonis vernalis #2 <Spring adonis, yellow adonis>
+- Strombocactus spp.
 
-Hydrastis canadensis #8 <Goldenseal>
+- Turbinicarpus spp. <Turbinicarps>
 
-ROSACEAE
+- Uebelmannia spp. <Uebelman cacti>
 
-Prunus africana #4 <African cherry, red stinkwood>
+- CARYOCARACEAE
 
-RUBIACEAE
+- Caryocar costaricense #4 <Costus>
 
-Balmea stormiae <Ayugue>
+- COMPOSITAE (Asteraceae)
 
-SANTALACEAE
+- Saussurea costus <Costus root>
 
-Osyris lanceolata #2 <East Africa sandalwood> (Populations of Burundi, Ethiopia, Kenya, Rwanda, Uganda and the United Republic of Tanzania)
+- CUCURBITACEAE
 
-SARRACENIACEAE
+- Zygosicyos pubescens
 
-Sarracenia spp. #4 <Pitcher plants> (Except the species included in Appendix I)
+- Zygosicyos tripartitus
 
-Sarracenia oreophila <Green pitcher plant>
+- Appendix I | Appendix II | Appendix III
 
-Sarracenia rubra ssp. alabamensis
+- CUPRESSACEAE
 
-Sarracenia rubra ssp. jonesii <Mountain sweet pitcher plant>
+- Fitzroya cupressoides <Alerce>
 
-SCROPHULARIACEAE
+- Pilgerodendron uviferum
 
-Picrorhiza kurrooa #2 <Picrorhiza, kutki> (Excludes Picrorhiza scrophulariiflora)
+- CYATHEACEAE
 
-STANGERIACEAE
+- Cyathea spp. #4 <Tree ferns>
 
-Bowenia spp. #4 <Cycads>
+- CYCADACEAE
 
-Stangeria eriopus <Hottentot’s head>
+- CYCADACEAE spp. #4 <Cycads> (Except the species included in Appendix I)
 
-TAXACEAE
+- Cycas beddomei
 
-Taxus chinensis and infraspecific taxa of this species #2 <Chinese yew>
+- DICKSONIACEAE
 
-Taxus cuspidata and infraspecific taxa of this species 9 #2 <Japanese yew>
+- Cibotium barometz #4
 
-Taxus fuana and infraspecific taxa of this species #2
+- Dicksonia spp. #4 <Tree ferns> (Only the populations of the Americas; no other population is included in the Appendices)
 
-Taxus sumatrana and infraspecific taxa of this species #2
+- Appendix I | Appendix II | Appendix III
 
-Taxus wallichiana #2 <Himalayan yew>
+- DIDIEREACEAE
 
-THYMELAEACEAE (Aquilariaceae)
+- DIDIEREACEAE spp. #4 <Didiereas>
 
-Aquilaria spp. #14 <Agarwood>
+- DIOSCOREACEAE
 
-Gonystylus spp. #4 <Ramin>
+- Dioscorea deltoidea #4 <Elephant’s foot>
 
-Gyrinops spp. #14
+- DROSERACEAE
 
-TROCHODENDRACEAE (Tetracentraceae)
+- Dionaea muscipula #4 <Venus flytrap>
 
-Tetracentron sinense #1 <Tetracentron> (Nepal)
+- EBENACEAE
 
-VALERIANACEAE
+- Diospyros spp. #5 <Malagasy ebony> (Populations of Madagascar)
 
-Nardostachys grandiflora #2 <Jatamansi>
+- EUPHORBIACEAE
 
-VITACEAE
+- Appendix I | Appendix II | Appendix III
 
-Cyphostemma elephantopus
+- Euphorbia spp. #4 <Euphorbias, spurges> (Succulent species only except Euphorbia misera <Cliff spurge> and the species included in Appendix I. Artificially propagated specimens of cultivars of Euphorbia trigona, artificially propagated specimens of crested, fan-shaped or colour mutants of Euphorbia lactea, when grafted on artificially propagated root stock of Euphorbia neriifolia, and artificially propagated specimens of cultivars of Euphorbia ‘Milii’ when they are traded in shipments of 100 or more plants and readily recognizable as artificially propagated specimens, are not subject to the provisions of this Ordinance)
 
-Cyphostemma laza <Laza>
+- Appendix I | Appendix II | Appendix III
 
-Cyphostemma montagnacii
+- Euphorbia ambovombensis
 
-WELWITSCHIACEAE
+- Euphorbia capsaintemariensis
 
-Welwitschia mirabilis #4 <Welwitschia>
+- Euphorbia cremersii (Includes the forma viridifolia and the var. rakotozafyi)
 
-ZAMIACEAE
+- Euphorbia cylindrifolia (Includes the ssp. tuberifera)
 
-ZAMIACEAE spp. #4 <Cycads> (Except the species included in Appendix I)
+- Euphorbia decaryi (Includes the vars. ampanihyensis, robinsonii and spirosticha)
 
-Ceratozamia spp. <Cycads>
+- Euphorbia francoisii
 
-Chigua spp. <Cycads>
+- Euphorbia moratii (Includes the vars. antsingiensis, bemarahensis and multiflora)
 
-Encephalartos spp. <Bread palms>
+- Euphorbia parvicyathophora
 
-Microcycas calocoma <Palma corcho>
+- Appendix I | Appendix II | Appendix III
 
-ZINGIBERACEAE
+- Euphorbia quartziticola
 
-Hedychium philippinense #4 <Philippine garland flower>
+- Euphorbia tulearensis
 
-ZYGOPHYLLACEAE
+- FOUQUIERIACEAE
 
-Bulnesia sarmientoi #11 <Holy wood>
+- Fouquieria columnaris #4 <Boojum tree>
 
-Guaiacum spp. #2 <Lignum-vitae>
+- Fouquieria fasciculata
 
-(Amended L.N. 36 of 2011; L.N. 98 of 2014)
+- Fouquieria purpusii
 
-- 1. Any specimen of the population of Argentina is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as– (Amended L.N. 98 of 2014)
+- FAGACEAE
 
-  - (a) wool sheared from live vicuñas;
+- Quercus mongolica #5 <Mongolian oak> (Russian Federation)
 
-  - (b) cloth made of such wool–
+- GNETACEAE
 
-    - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
+- Gnetum montanum #1 <Gnetum> (Nepal)
 
-    - (ii) the selvages of which bear the words “VICUÑA-ARGENTINA”; or (Replaced L.N. 98 of 2014)
+- JUGLANDACEAE
 
-  - (c) a derived manufactured product or other handicraft artefact, which bears a label including the logotype and the designation “VICUÑA-ARGENTINA-ARTESANÍA”. (Amended L.N. 98 of 2014)
+- Oreomunnea pterocarpa #4
+
+- LAURACEAE
+
+- Aniba rosaeodora #12 <Brazilian rosewood>
+
+- Appendix I | Appendix II | Appendix III
+
+- LEGUMINOSAE (Fabaceae)
+
+- Caesalpinia echinata #10 <Brazil wood>
+
+- Dalbergia spp. #5 <Malagasy rosewood> (Populations of Madagascar)
+
+- Dalbergia cochinchinensis #5 <Thailand rosewood>
+
+- Dalbergia darienensis #2 <Panamanian rosewood> [Population of Panama (Panama)]
+
+- Dalbergia granadillo #6 <Granadillo rosewood>
+
+- Dalbergia nigra <Brazilian rosewood>
+
+- Appendix I | Appendix II | Appendix III
+
+- Dalbergia retusa #6 <Black rosewood, Cocobolo>
+
+- Dalbergia stevensonii #6 <Honduras rosewood>
+
+- Dalbergia tucurensis #6 <Guatemalan rosewood> (Nicaragua)
+
+- Dipteryx panamensis (Costa Rica, Nicaragua)
+
+- Pericopsis elata #5 <African teak>
+
+- Platymiscium pleiostachyum #4 <Quira macawood>
+
+- Pterocarpus santalinus #7 <Red sandalwood>
+
+- Senna meridionalis <Taraby>
+
+- Appendix I | Appendix II | Appendix III
+
+- LILIACEAE
+
+- Aloe spp. #4 <Aloes> (Except the species included in Appendix I. Also excludes Aloe vera, also referenced as Aloe barbadensis which is not included in the Appendices)
+
+- Aloe albida
+
+- Aloe albiflora
+
+- Aloe alfredii
+
+- Aloe bakeri
+
+- Aloe bellatula
+
+- Aloe calcairophila
+
+- Aloe compressa (Includes the vars. paucituberculata, rugosquamosa and schistophila)
+
+- Appendix I | Appendix II | Appendix III
+
+- Aloe delphinensis
+
+- Aloe descoingsii
+
+- Aloe fragilis
+
+- Aloe haworthioides (Includes the var. aurantiaca)
+
+- Aloe helenae
+
+- Aloe laeta (Includes the var. maniaensis)
+
+- Aloe parallelifolia
+
+- Aloe parvula
+
+- Aloe pillansii <Bastard quiver tree>
+
+- Aloe polyphylla <Spiral aloe>
+
+- Appendix I | Appendix II | Appendix III
+
+- Aloe rauhii
+
+- Aloe suzannae
+
+- Aloe versicolor
+
+- Aloe vossii
+
+- MAGNOLIACEAE
+
+- Magnolia liliifera var. obovata #1 (Nepal)
+
+- MELIACEAE
+
+- Cedrela fissilis #5 <South American cedar> (Plurinational State of Bolivia)
+
+- Appendix I | Appendix II | Appendix III
+
+- Cedrela lilloi #5 <Cedro> (Plurinational State of Bolivia)
+
+- Cedrela odorata #5 <West Indian cedar> [Brazil; Plurinational State of Bolivia; Population of Colombia (Colombia); Population of Guatemala (Guatemala); Population of Peru (Peru)]
+
+- Swietenia humilis #4 <Mexican mahogany>
+
+- Swietenia macrophylla #6 <Big-leaf mahogany> (Populations of the Neotropics)
+
+- Swietenia mahagoni #5 <American mahogany>
+
+- Appendix I | Appendix II | Appendix III
+
+- NEPENTHACEAE
+
+- Nepenthes spp. #4 <Pitcher plants> (Except the species included in Appendix I)
+
+- Nepenthes khasiana <Indian pitcher plant>
+
+- Nepenthes rajah <Kinabalu pitcher plant>
+
+- OLEACEAE
+
+- Fraxinus mandshurica #5 <Manchurian ash> (Russian Federation)
+
+- ORCHIDACEAE
+
+- ORCHIDACEAE spp.7 #4 <Orchids> (Except the species included in Appendix I)
+
+- Appendix I | Appendix II | Appendix III
+
+- (For all of the following Appendix I species, seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to the provisions of this Ordinance only if the specimens meet the definition of artificially propagated agreed by the Conference of the Parties)
+
+- Aerangis ellisii
+
+- Dendrobium cruentum
+
+- Appendix I | Appendix II | Appendix III
+
+- Laelia jongheana
+
+- Laelia lobata
+
+- Paphiopedilum spp. <Slipper orchids>
+
+- Peristeria elata <Holy ghost orchid>
+
+- Phragmipedium spp. <Slipper orchids>
+
+- Renanthera imschootiana <Red vanda orchid>
+
+- OROBANCHACEAE
+
+- Cistanche deserticola #4 <Desert-living cistanche>
+
+- PALMAE (Arecaceae)
+
+- Beccariophoenix madagascariensis #4
+
+- Appendix I | Appendix II | Appendix III
+
+- Chrysalidocarpus decipiens <Butterfly palm>
+
+- Lemurophoenix halleuxii <Red-lemur palm>
+
+- Lodoicea maldivica #13 <Sea coconut> (Seychelles)
+
+- Marojejya darianii
+
+- Neodypsis decaryi #4 <Feather palm>
+
+- Ravenea louvelii
+
+- Ravenea rivularis
+
+- Satranala decussilvae
+
+- Voanioala gerardii
+
+- PAPAVERACEAE
+
+- Meconopsis regia #1 <Himalayan poppy> (Nepal)
+
+- Appendix I | Appendix II | Appendix III
+
+- PASSIFLORACEAE
+
+- Adenia firingalavensis <Bottle liana>
+
+- Adenia olaboensis
+
+- Adenia subsessilifolia <Katakata>
+
+- PEDALIACEAE
+
+- Uncarina grandidieri
+
+- Uncarina stellulifera
+
+- PINACEAE
+
+- Abies guatemalensis <Guatemalan fir>
+
+- Pinus koraiensis #5 <Korean pine> (Russian Federation)
+
+- Appendix I | Appendix II | Appendix III
+
+- PODOCARPACEAE
+
+- Podocarpus neriifolius #1 <Thitmin> (Nepal)
+
+- Podocarpus parlatorei <Parlatore’s podocarp>
+
+- PORTULACACEAE
+
+- Anacampseros spp. #4 <Purselanes>
+
+- Avonia spp. #4
+
+- Lewisia serrata #4 <Saw-toothed lewisia>
+
+- PRIMULACEAE
+
+- Cyclamen spp.8 #4 <Cyclamens>
+
+- RANUNCULACEAE
+
+- Adonis vernalis #2 <Spring adonis, yellow adonis>
+
+- Hydrastis canadensis #8 <Goldenseal>
+
+- Appendix I | Appendix II | Appendix III
+
+- ROSACEAE
+
+- Prunus africana #4 <African cherry, red stinkwood>
+
+- RUBIACEAE
+
+- Balmea stormiae <Ayugue>
+
+- SANTALACEAE
+
+- Osyris lanceolata #2 <East Africa sandalwood> (Populations of Burundi, Ethiopia, Kenya, Rwanda, Uganda and the United Republic of Tanzania)
+
+- Appendix I | Appendix II | Appendix III
+
+- SARRACENIACEAE
+
+- Sarracenia spp. #4 <Pitcher plants> (Except the species included in Appendix I)
+
+- Sarracenia oreophila <Green pitcher plant>
+
+- Sarracenia rubra ssp. alabamensis
+
+- Sarracenia rubra ssp. jonesii <Mountain sweet pitcher plant>
+
+- SCROPHULARIACEAE
+
+- Picrorhiza kurrooa #2 <Picrorhiza, kutki> (Excludes Picrorhiza scrophulariiflora)
+
+- Appendix I | Appendix II | Appendix III
+
+- STANGERIACEAE
+
+- Bowenia spp. #4 <Cycads>
+
+- Stangeria eriopus <Hottentot’s head>
+
+- TAXACEAE
+
+- Taxus chinensis and infraspecific taxa of this species #2 <Chinese yew>
+
+- Taxus cuspidata and infraspecific taxa of this species 9 #2 <Japanese yew>
+
+- Taxus fuana and infraspecific taxa of this species #2
+
+- Taxus sumatrana and infraspecific taxa of this species #2
+
+- Taxus wallichiana #2 <Himalayan yew>
+
+- Appendix I | Appendix II | Appendix III
+
+- THYMELAEACEAE (Aquilariaceae)
+
+- Aquilaria spp. #14 <Agarwood>
+
+- Gonystylus spp. #4 <Ramin>
+
+- Gyrinops spp. #14
+
+- TROCHODENDRACEAE (Tetracentraceae)
+
+- Tetracentron sinense #1 <Tetracentron> (Nepal)
+
+- VALERIANACEAE
+
+- Nardostachys grandiflora #2 <Jatamansi>
+
+- VITACEAE
+
+- Cyphostemma elephantopus
+
+- Appendix I | Appendix II | Appendix III
+
+- Cyphostemma laza <Laza>
+
+- Cyphostemma montagnacii
+
+- WELWITSCHIACEAE
+
+- Welwitschia mirabilis #4 <Welwitschia>
+
+- ZAMIACEAE
+
+- ZAMIACEAE spp. #4 <Cycads> (Except the species included in Appendix I)
+
+- Ceratozamia spp. <Cycads>
+
+- Chigua spp. <Cycads>
+
+- Encephalartos spp. <Bread palms>
+
+- Microcycas calocoma <Palma corcho>
+
+- Appendix I | Appendix II | Appendix III
+
+- ZINGIBERACEAE
+
+- Hedychium philippinense #4 <Philippine garland flower>
+
+- ZYGOPHYLLACEAE
+
+- Bulnesia sarmientoi #11 <Holy wood>
+
+- Guaiacum spp. #2 <Lignum-vitae>
+
+- (Amended L.N. 36 of 2011; L.N. 98 of 2014; E.R. 2 of 2015)
+
+  - 1. Any specimen of the population of Argentina is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
+
+    - (a) wool sheared from live vicuñas;
+
+    - (b) cloth made of such wool —
+
+      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
+
+      - (ii) the selvages of which bear the words “VICUÑA-ARGENTINA”; or (Replaced L.N. 98 of 2014)
+
+    - (c) a derived manufactured product or other handicraft artefact, which bears a label including the logotype and the designation “VICUÑA-ARGENTINA-ARTESANÍA”. (Amended L.N. 98 of 2014)
 
   - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
 
-- 2. Any specimen of the population of Plurinational State of Bolivia is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as– (Amended L.N. 36 of 2011; L.N. 98 of 2014)
+  - 2. Any specimen of the population of Plurinational State of Bolivia is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 36 of 2011; L.N. 98 of 2014)
 
-  - (a) wool sheared from live vicuñas;
+    - (a) wool sheared from live vicuñas;
 
-  - (b) cloth made of such wool–
+    - (b) cloth made of such wool —
 
-    - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
+      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
 
-    - (ii) the selvages of which bear the words “VICUÑA-BOLIVIA”; or (Replaced L.N. 98 of 2014)
+      - (ii) the selvages of which bear the words “VICUÑA-BOLIVIA”; or (Replaced L.N. 98 of 2014)
 
-  - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-BOLIVIA-ARTESANÍA”. (Amended L.N. 98 of 2014) All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
+    - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-BOLIVIA-ARTESANÍA”. (Amended L.N. 98 of 2014)
 
-- 3. Any specimen of the population of Chile is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as– (Amended L.N. 98 of 2014)
+  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
 
-  - (a) wool sheared from live vicuñas;
+  - 3. Any specimen of the population of Chile is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
 
-  - (b) cloth made of such wool–
+    - (a) wool sheared from live vicuñas;
 
-    - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
+    - (b) cloth made of such wool —
 
-    - (ii) the selvages of which bear the words “VICUÑA-CHILE”; or (Replaced L.N. 98 of 2014)
+      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
 
-  - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-CHILE-ARTESANÍA”. (Amended L.N. 98 of 2014) All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
+      - (ii) the selvages of which bear the words “VICUÑA-CHILE”; or (Replaced L.N. 98 of 2014)
 
-- 3A. Any specimen of the population of Ecuador is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as–
+    - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-CHILE-ARTESANÍA”. (Amended L.N. 98 of 2014)
 
-  - (a) wool sheared from live vicuñas;
+  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
 
-  - (b) cloth made of such wool–
+  - 3A. Any specimen of the population of Ecuador is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as —
 
-    - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
+    - (a) wool sheared from live vicuñas;
 
-    - (ii) the selvages of which bear the words “VICUÑA ECUADOR”; or
+    - (b) cloth made of such wool —
 
-  - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA ECUADOR-ARTESANÍA”. All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Added L.N. 98 of 2014)
+      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
 
-- 4. Any specimen of the population of Peru is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as– (Amended L.N. 98 of 2014)
+      - (ii) the selvages of which bear the words “VICUÑA ECUADOR”; or
 
-  - (a) wool sheared from live vicuñas and in the stock extant at the time of the ninth meeting of the Conference of the Parties (November 1994) of 3249 kg of wool;
+    - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA ECUADOR-ARTESANÍA”.
 
-  - (b) cloth made of such wool–
+  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Added L.N. 98 of 2014)
 
-    - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
+  - 4. Any specimen of the population of Peru is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
 
-    - (ii) the selvages of which bear the words “VICUÑA-PERÚ”; or (Replaced L.N. 98 of 2014)
+    - (a) wool sheared from live vicuñas and in the stock extant at the time of the ninth meeting of the Conference of the Parties (November 1994) of 3 249 kg of wool;
 
-  - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-PERÚ-ARTESANÍA”. (Amended L.N. 98 of 2014) All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
+    - (b) cloth made of such wool —
 
-- 5. Any specimen of the populations of Botswana, Namibia, South Africa and Zimbabwe is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as– (Amended L.N. 98 of 2014)
+      - (i) the reverse side of which bears the logotype adopted by the range states of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña; and
 
-  - (a) hunting trophies for non-commercial purposes;
+      - (ii) the selvages of which bear the words “VICUÑA-PERÚ”; or (Replaced L.N. 98 of 2014)
 
-  - (b) live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and for in situ conservation programmes for Namibia and South Africa;
+    - (c) an item made of such wool, including luxury handicrafts and knitted articles, which bears a label including the logotype and the designation “VICUÑA-PERÚ-ARTESANÍA”. (Amended L.N. 98 of 2014)
 
-  - (c) hides;
+  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
 
-  - (d) hair;
+  - 5. Any specimen of the populations of Botswana, Namibia, South Africa and Zimbabwe is to be treated as a specimen of an Appendix II species only if it is imported, exported or re-exported as — (Amended L.N. 98 of 2014)
 
-  - (e) leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe;
+    - (a) hunting trophies for non-commercial purposes;
 
-  - (f) individually marked and certified ekipa incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe; or
+    - (b) live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and for in situ conservation programmes for Namibia and South Africa;
 
-  - (g) registered raw ivory (whole tusks and pieces) subject to the following–
+    - (c) hides;
 
-    - (i) only registered government-owned stocks, originating in the state (excluding seized ivory and ivory of unknown origin);
+    - (d) hair;
 
-    - (ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee under the Convention, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP14) concerning domestic manufacturing and trade;
+    - (e) leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe;
 
-    - (iii) not before the Secretariat has verified the prospective importing countries, and the registered government-owned stocks;
+    - (f) individually marked and certified ekipa incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe; or
 
-    - (iv) raw ivory pursuant to the conditional sale of registered government-owned ivory stocks agreed at CoP12, which are 20000 kg (Botswana), 10000 kg (Namibia) and 30000 kg (South Africa);
+    - (g) registered raw ivory (whole tusks and pieces) subject to the following —
 
-    - (v) in addition to the quantities agreed at CoP12, government-owned ivory from Botswana, Namibia, South Africa and Zimbabwe registered by 31 January 2007 and verified by the Secretariat may be traded and despatched, with the ivory in subparagraph (iv), in a single sale per destination under strict supervision of the Secretariat;
+      - (i) only registered government-owned stocks, originating in the state (excluding seized ivory and ivory of unknown origin);
 
-    - (vi) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and
+      - (ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee under the Convention, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP14) concerning domestic manufacturing and trade;
 
-    - (vii) the additional quantities specified in subparagraph (v) are to be traded only after the Standing Committee under the Convention has agreed that the above conditions have been met. On a proposal from the Secretariat, the Standing Committee under the Convention can decide to cause this trade to cease partially or completely in the event of non-compliance by the place of import or export, or in the case of proven detrimental impacts of the trade on other elephant populations.
+      - (iii) not before the Secretariat has verified the prospective importing countries, and the registered government-owned stocks;
 
-    - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
+      - (iv) raw ivory pursuant to the conditional sale of registered government-owned ivory stocks agreed at CoP12, which are 20 000 kg (Botswana), 10 000 kg (Namibia) and 30 000 kg (South Africa);
 
-- 6. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of this Ordinance– – Hatiora x graeseri
+      - (v) in addition to the quantities agreed at CoP12, government-owned ivory from Botswana, Namibia, South Africa and Zimbabwe registered by 31 January 2007 and verified by the Secretariat may be traded and despatched, with the ivory in subparagraph (iv), in a single sale per destination under strict supervision of the Secretariat;
 
-- – Schlumbergera x buckleyi
+      - (vi) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and
 
-- – Schlumbergera russelliana x Schlumbergera truncata
+      - (vii) the additional quantities specified in subparagraph (v) are to be traded only after the Standing Committee under the Convention has agreed that the above conditions have been met. (Amended of L.N. 98 of 2014)
 
-- – Schlumbergera orssichiana x Schlumbergera truncata
+  - On a proposal from the Secretariat, the Standing Committee under the Convention can decide to cause this trade to cease partially or completely in the event of non-compliance by the place of import or export, or in the case of proven detrimental impacts of the trade on other elephant populations.
 
-- – Schlumbergera opuntioides x Schlumbergera truncata
+  - All other specimens are to be treated as specimens of species included in Appendix I and the trade in them is to be regulated accordingly. (Amended L.N. 98 of 2014)
 
-- – Schlumbergera truncata (cultivars)
+  - 6. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of this Ordinance —
 
-- – Cactaceae spp. colour mutants grafted on the following grafting stocks: Harrisia ‘Jusbertii’, Hylocereus trigonus or Hylocereus undatus (Amended L.N. 36 of 2011)
+  - — | Hatiora x graeseri
 
-- – Opuntia microdasys (cultivars).
+  - — | Schlumbergera x buckleyi
 
-- 7. Artificially propagated specimens of hybrids of the genera Cymbidium, Dendrobium, Phalaenopsis and Vanda are not subject to the provisions of this Ordinance when–
+  - — | Schlumbergera russelliana x Schlumbergera truncata
 
-  - (a) the specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and
+  - — | Schlumbergera orssichiana x Schlumbergera truncata
 
-  - (b)
+  - — | Schlumbergera opuntioides x Schlumbergera truncata
 
-    - (i) the specimens are shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid; or
+  - — | Schlumbergera truncata (cultivars)
 
-    - (ii) the specimens are shipped in flowering state, with at least one fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, e.g. labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the place of final processing. This should be clearly visible and allow easy verification.
+  - — | Cactaceae spp. colour mutants grafted on the following grafting stocks: Harrisia ‘Jusbertii’, Hylocereus trigonus or Hylocereus undatus (Amended L.N. 36 of 2011)
 
-    - Plants not clearly meeting the above criteria must be accompanied by appropriate Convention certifying documents.
+  - — | Opuntia microdasys (cultivars).
 
-- 8. Unless imported, exported or re-exported as dormant tubers, artificially propagated specimens of cultivars of Cyclamen persicum are not subject to the provisions of this Ordinance.
+  - 7. Artificially propagated specimens of hybrids of the genera Cymbidium, Dendrobium, Phalaenopsis and Vanda are not subject to the provisions of this Ordinance when —
 
-- 9. Artificially propagated hybrids and cultivars of Taxus cuspidata, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated”, are not subject to the provisions of this Ordinance. (Part 2 replaced L.N. 4 of 2009)
+    - (a) the specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and
+
+    - (b)
+
+      - (i) the specimens are shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid; or
+
+      - (ii) the specimens are shipped in flowering state, with at least one fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, e.g. labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the place of final processing. This should be clearly visible and allow easy verification.
+
+  - Plants not clearly meeting the above criteria must be accompanied by appropriate Convention certifying documents.
+
+  - 8. Unless imported, exported or re-exported as dormant tubers, artificially propagated specimens of cultivars of Cyclamen persicum are not subject to the provisions of this Ordinance.
+
+  - 9. Artificially propagated hybrids and cultivars of Taxus cuspidata, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated”, are not subject to the provisions of this Ordinance. (Part 2 replaced L.N. 4 of 2009)

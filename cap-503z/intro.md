@@ -2,4 +2,6 @@ FUGITIVE OFFENDERS (SAFETY OF UNITED NATIONS AND ASSOCIATED PERSONNEL) ORDER
 
 (Cap. 503, section 3)
 
+(Enacting provision omitted—E.R. 2 of 2015)
+
 [30 November 2007] L.N. 140 of 2007

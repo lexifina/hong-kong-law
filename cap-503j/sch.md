@@ -396,7 +396,7 @@ shall also be liable to the measures referred to in this article, in the same ma
 
   - 15. Mutual legal assistance may be refused:
 
-  - (a) If the request is not made in conformity with the provisions of this article;
+    - (a) If the request is not made in conformity with the provisions of this article;
 
   - (b) If the requested Party considers that execution of the request is likely to prejudice its sovereignty, security, ordre public or other essential interests;
 
@@ -730,7 +730,7 @@ shall also be liable to the measures referred to in this article, in the same ma
 
   - (a) All States;
 
-  - (b) Namibia, represented by the Untied Nations Council for Namibia;
+  - (b) Namibia, represented by the United Nations Council for Namibia;
 
   - (c) Regional economic integration organizations which have competence in respect of the negotiation, conclusion and application of international agreements in matters covered by this Convention, references under the Convention to Parties, States or national services being applicable to these organizations within the limits of their competence.
 
@@ -793,3 +793,5 @@ shall also be liable to the measures referred to in this article, in the same ma
 - N-acetylanthranilic acid Ephedrine Ergometrine Ergotamine Isosafrole Lysergic acid 3, 4-methylenedioxyphenyl-2— propanone 1-phenyl-2-propanone Piperonal Pseudoephedrine Safrole | Acetic anhydride Acetone Anthranilic acid Ethyl ether Hydrochloric acid Methyl ethyl ketone Phenylacetic acid Piperidine Potassium permanganate Sulphuric acid Toluene
 
 - The salts of the substances listed in this Table whenever the existence of such salts is possible. | The salts of the substances listed in this Table whenever the existence of such salts is possible (the salts of hydrochloric acid and sulphuric acid are specifically excluded)
+
+- (E.R. 2 of 2015)

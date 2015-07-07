@@ -1,9 +1,7 @@
 Merchant Shipping (Prevention of Pollution by Garbage) Regulation
 
-(Made by the Secretary for Transport and Housing under section 3 of
+(Cap. 413, section 3)
 
-the Merchant Shipping (Prevention and Control of Pollution)
-
-Ordinance (Cap. 413))
+(Enacting provision omitted—E.R. 2 of 2015)
 
 [1 July 2015]
