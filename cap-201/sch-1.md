@@ -252,7 +252,9 @@ Public Bodies
 
 - 123. Competition Commission. (Added 14 of 2012 s. 176)
 
-- 124. Construction Workers Registration Board. (Added 17 of 2012 s. 64) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
+- 124. Construction Workers Registration Board. (Added 17 of 2012 s. 64)
+
+- 125. HK Television Entertainment Company Limited. (Added L.N. 84 of 2015) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 
