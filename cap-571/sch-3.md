@@ -4,6 +4,8 @@
 
 Exchange Companies, Clearing Houses and Exchange Controllers
 
+(Format changes—E.R. 1 of 2013)
+
 - Part 1 Definitions
 
   - 1.
@@ -20,9 +22,9 @@ Exchange Companies, Clearing Houses and Exchange Controllers
 
     - (b) the first person is the chairman of a general meeting of a corporation entitled to exercise voting rights in the corporation due to his appointment as a proxy by the second person where the appointment—
 
-    - (i) is for that meeting only; and
+      - (i) is for that meeting only; and
 
-    - (ii) does not involve any valuable consideration; or
+      - (ii) does not involve any valuable consideration; or
 
     - (c) the first person and the second person are persons who have appointed the chairman of a general meeting of a corporation as a proxy to exercise voting rights in the corporation where each appointment—
 
@@ -56,9 +58,69 @@ Exchange Companies, Clearing Houses and Exchange Controllers
 
     - (f) provide for the certification by the clearing house of any net sum referred to in paragraph (c) payable to the clearing participant, or of any further net sum referred to in paragraph (d) payable by or to the clearing participant (as the case may be) or, if there is no such sum, the certification by the clearing house of that fact.
 
+  - 2. If—
+
+    - (a) the RCH rules envisage that a clearing participant may record market contracts in separate capacities, as referred to in section 3; and
+
+    - (b) the recognized clearing house operates in such a manner that paragraphs (a), (b), (c), (d), (e) and (f) of section 1 may be complied with separately in respect of each of the capacities,
+
+  - paragraphs (a), (b), (c), (d), (e) and (f) of section 1 must be complied with separately in respect of each capacity.
+
+  - (Added 6 of 2014 s. 61)
+
+  - 3. For the purposes of section 2—
+
+    - (a) a clearing participant will be regarded as recording market contracts in a separate capacity in respect of its house accounts and each of its client accounts if—
+
+      - (i) for house accounts—transactions that are required or permitted by the RCH rules to be recorded in any of the clearing participant’s house accounts with the recognized clearing house have been so recorded; and
+
+      - (ii) for each client account—transactions that are required or permitted by the RCH rules to be recorded in any of the clearing participant’s client accounts with the clearing house have been so recorded;
+
+    - (b) any net sum payable to the clearing participant in respect of transactions recorded in a client account, as calculated under section 1(c), must not be set-off against any net sum payable by the clearing participant in respect of transactions recorded in any house account, as calculated under that section, regardless of any provision to the contrary in the RCH rules;
+
+    - (c) any net sum payable to the clearing participant in respect of transactions recorded in house accounts, as calculated under section 1(c), may be set-off against any net sum payable by the clearing participant in respect of transactions recorded in any client account, as calculated under that section, if the RCH rules so provide or permit;
+
+    - (d) any net sum payable to the clearing participant in respect of transactions recorded in a client account, as calculated under section 1(c), may not be set-off against any net sum payable by the clearing participant in respect of transactions recorded in any other client account, as calculated under that section, if the RCH rules so provide.
+
+  - (Added 6 of 2014 s. 61)
+
+  - 4. To avoid doubt—
+
+    - (a) a transfer of a defaulting participant’s positions under an unsettled market contract and collateral in a client account to one or more other clearing participants of the recognized clearing house in accordance with the RCH rules constitutes settlement of that contract for the purposes of section 1(a); and
+
+    - (b) without limiting section 1(b), the reference in that section to the rights and liabilities of the clearing participant under or in respect of the contract concerned includes the rights and liabilities that arise as a result of action taken under the RCH rules authorizing or permitting the transfer of the clearing participant’s positions under the contract and collateral in a client account to one or more other clearing participants of the recognized clearing house.
+
+  - (Added 6 of 2014 s. 61)
+
+  - 5. Sections 1, 2, 3 and 4 apply despite section 55 of this Ordinance. (Added 6 of 2014 s. 61)
+
+  - 6. In this Part, a reference to a set-off or offset includes a netting arrangement. (Added 6 of 2014 s. 61)
+
+  - 7. For the purposes of this Part, a sum of money payable by, or payable to, a person includes a value to be taken into account under a netting arrangement to which the person is a party. (Added 6 of 2014 s. 61)
+
+  - 8. In this Part—
+
+    - client account (客户帳户), in relation to a clearing participant, means an account held with a recognized clearing house in the name of the clearing participant, other than a house account in which positions or collateral are recorded;
+
+    - house account (結算所帳户), in relation to a clearing participant, means an account—
+
+      - (a) which is held with a recognized clearing house in the name of the clearing participant; and
+
+      - (b) in which the following are recorded—
+
+        - (i) the clearing participant’s own positions or collateral;
+
+        - (ii) the positions or collateral of other persons that are regarded by the RCH rules to be the clearing participant’s own positions or collateral;
+
+    - netting (淨額計算) means the determination of a net balance by taking account of the values (whether positive or negative) attributed to an accelerated or terminated payment, or to a delivery obligation or entitlement;
+
+    - RCH rules (《認可結算所規章》), in relation to a recognized clearing house, means the rules of the clearing house referred to in section 1.
+
+  - (Added 6 of 2014 s. 61)
+
 - Part 6 Provisions Applicable Where there is Failure to Comply with Notice under Section 59(9)(c), 61(9)(b)
 
-- Or 72(1) of this Ordinance
+- or 72(1) of this Ordinance
 
   - 1. Restrictions on and sale of securities
 
@@ -126,7 +188,7 @@ Exchange Companies, Clearing Houses and Exchange Controllers
 
     - commits an offence and is liable—
 
-      - (i) on conviction on indictment to a fine of $1,000,000 and to imprisonment for 2 years;or
+      - (i) on conviction on indictment to a fine of $1,000,000 and to imprisonment for 2 years; or
 
       - (ii) on summary conviction to a fine at level 6 and to imprisonment for 6 months.
 
@@ -197,5 +259,3 @@ Exchange Companies, Clearing Houses and Exchange Controllers
       - (i) is for that meeting only; and
 
       - (ii) does not involve any valuable consideration.
-
-  - (Format changes—E.R. 1 of 2013)

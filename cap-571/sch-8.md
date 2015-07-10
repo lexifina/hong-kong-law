@@ -32,7 +32,9 @@ Securities and Futures Appeals Tribunal
 
     - specified decision (指明決定) has the meaning assigned to it by section 215 of this Ordinance;
 
-    - Tribunal (審裁處) has the meaning assigned to it by section 215 of this Ordinance. Appointment of appeal panel
+    - Tribunal (審裁處) has the meaning assigned to it by section 215 of this Ordinance.
+
+- Appointment of appeal panel
 
   - 2. The Chief Executive shall appoint persons to a panel comprising such number of members, who are not public officers, as he considers appropriate.
 
@@ -42,7 +44,9 @@ Securities and Futures Appeals Tribunal
 
   - 5. The Chief Executive may by notice in writing remove a panel member from office on the grounds of incapacity, bankruptcy, neglect of duty, conflict of interest or misconduct.
 
-  - 6. For the avoidance of doubt, section 216(5) of this Ordinance does not require the appointment of persons to more than one panel under section 2. Appointment of chairman
+  - 6. For the avoidance of doubt, section 216(5) of this Ordinance does not require the appointment of persons to more than one panel under section 2.
+
+- Appointment of chairman
 
   - 7. The chairman shall be appointed by the Chief Executive on the recommendation of the Chief Justice.
 
@@ -52,7 +56,9 @@ Securities and Futures Appeals Tribunal
 
   - 10. The Chief Executive, after consultation with the Chief Justice, may by notice in writing remove the chairman from office on the grounds of incapacity, bankruptcy, neglect of duty, conflict of interest or misconduct.
 
-  - 11. If a review has been commenced by the Tribunal but not completed before the expiry of the chairman’s term of office, the Chief Executive may authorize the chairman to continue to act as the chairman for the purpose of completing the review. Appointment of ordinary members
+  - 11. If a review has been commenced by the Tribunal but not completed before the expiry of the chairman’s term of office, the Chief Executive may authorize the chairman to continue to act as the chairman for the purpose of completing the review.
+
+- Appointment of ordinary members
 
   - 12. For the purpose of determining a review, the Secretary on the recommendation of the chairman shall appoint 2 panel members as ordinary members in relation to the review.
 
@@ -60,7 +66,9 @@ Securities and Futures Appeals Tribunal
 
   - 14. An ordinary member may at any time resign his office by notice in writing to the Secretary.
 
-  - 15. Where an ordinary member ceases to be a panel member, he ceases to be such ordinary member. Sittings
+  - 15. Where an ordinary member ceases to be a panel member, he ceases to be such ordinary member.
+
+- Sittings
 
   - 16. The chairman shall convene such sittings of the Tribunal as are necessary to determine a review.
 
@@ -88,7 +96,9 @@ Securities and Futures Appeals Tribunal
 
   - 23. The chairman shall prepare or cause to be prepared a record of the proceedings at any sitting of the Tribunal, which shall contain such particulars relating to the proceedings as he considers appropriate.
 
-  - 24. The order of proceedings at any sitting of the Tribunal shall be determined by the Tribunal in the manner most appropriate to the circumstances of the case. Preliminary conferences and consent orders
+  - 24. The order of proceedings at any sitting of the Tribunal shall be determined by the Tribunal in the manner most appropriate to the circumstances of the case.
+
+- Preliminary conferences and consent orders
 
   - 25. At any time after an application for review has been made, the chairman may—
 
@@ -124,7 +134,9 @@ Securities and Futures Appeals Tribunal
 
   - 30.
 
-    - In sections 28 and 29, order (命令) includes any finding, determination and any other decision. Chairman as sole member of Tribunal
+    - In sections 28 and 29, order (命令) includes any finding, determination and any other decision.
+
+- Chairman as sole member of Tribunal
 
   - 31. Where, at any time after an application for review has been made but before any sitting of the Tribunal is held to determine the review, the parties to the review have, by notice in writing given to the Tribunal, informed the Tribunal that they have agreed that the review may be determined by the chairman alone as the sole member of the Tribunal, the chairman may determine the review as the sole member of the Tribunal.
 
@@ -148,7 +160,7 @@ Securities and Futures Appeals Tribunal
 
   - a judge within the meaning of paragraph (a) of the definition of judge in section 215 of this Ordinance shall, upon appointment by the Chief Justice for the purpose, determine the application as if he were the chairman duly appointed under this Ordinance, and the provisions of this Ordinance shall apply to him accordingly.
 
-  - Miscellaneous
+- Miscellaneous
 
   - 36. Except as otherwise provided in this Ordinance, the Tribunal and its members, and any party, witness, counsel, solicitor, or any other person involved, in a review, shall have the same privileges and immunities in respect of the review as they would have if the review were civil proceedings before the Court of First Instance.
 
@@ -166,6 +178,10 @@ Item | Provision | Description of decision
 
 4. | Section 98(1) of this Ordinance | Withdrawal of an authorization.
 
+4A. | Section 101H(1)(a) or (b) of this Ordinance | Refusal to grant an exemption, or imposition of any condition. (Added 6 of 2014 s. 54)
+
+4B. | Section 101H(2)(a) or (b) of this Ordinance | Suspension or withdrawal of an exemption, or amendment of any condition. (Added 6 of 2014 s. 54)
+
 5. | Section 104(1) of this Ordinance | Refusal to authorize a collective investment scheme, or imposition of any condition.
 
 6. | Section 104(3) of this Ordinance | Refusal to approve an individual nominated in respect of a collective investment scheme.
@@ -180,7 +196,7 @@ Item | Provision | Description of decision
 
 8C. | Section 104A(4)(a) of this Ordinance | Amendment or revocation of any condition, or imposition of any new condition. (Added 8 of 2011 s. 15)
 
-8D | Section 104A(4)(b) of this Ordinance | Withdrawal of approval of an individual nominated in respect of a structured product. (Added 8 of 2011 s. 15)
+8D. | Section 104A(4)(b) of this Ordinance | Withdrawal of approval of an individual nominated in respect of a structured product. (Added 8 of 2011 s. 15)
 
 9. | Section 105(1) of this Ordinance | Refusal to authorize the issue of any advertisement, invitation or document, or imposition of any condition.
 
@@ -245,6 +261,8 @@ Item | Provision | Description of decision
 39. | Section 134(1)(a), (b), (c), (d), (e), (f), (g), (h), (i) or (j) of this Ordinance | Refusal to grant a modification or waiver.
 
 40. | Section 134(4) of this Ordinance | Amendment of a modification or waiver, imposition, amendment or revocation of any condition, or imposition of any new condition.
+
+40A. | Section 145A(1) of this Ordinance | Variation of any financial resources rule. (Added 6 of 2014 s. 54)
 
 41. | Section 146(2) or (5)(b) of this Ordinance | Imposition of any condition.
 
@@ -338,6 +356,8 @@ Item | Provision | Description of decision
 
 6. | Section 71E(3) of the Banking Ordinance (Cap. 155) | Attachment or amendment of any condition.
 
+7. | Section 203A(1)(a), (b) or (c) of this Ordinance | Exercise of power to publicly or privately reprimand a person, to impose a prohibition on a person, or to order to pay a pecuniary penalty. (Added 6 of 2014 s. 54)
+
 - Division 3—Specified Decisions Made by Commission or Recognized Investor Compensation Company
 
 Item | Provision | Description of decision
@@ -397,6 +417,8 @@ Item | Description of specified decision | Provision
 7. | A specified decision set out in item 27 of Division 1 of Part 2. | Section 121(6) of this Ordinance.
 
 8. | A specified decision set out in item 36 of Division 1 of Part 2. | Section 132(4) of this Ordinance.
+
+8A. | A specified decision set out in item 40A of Division 1 of Part 2. | Section 145A(8) of this Ordinance. (Added 6 of 2014 s. 54)
 
 9. | A specified decision set out in item 42 of Division 1 of Part 2. | Section 146(9) of this Ordinance.
 

@@ -1,8 +1,10 @@
 # Schedule 1
 
-[ss. 2, 19, 66, 102, 164, 171, 174, 175, 202 & 406 & Schs. 9 & 10] (Amended 8 of 2011 s. 14)
+[ss. 2, 19, 66, 101A, 102, 164, 171, 174, 175, 202, 381E, 392A & 406 & Schs. 9 & 10] (Amended 8 of 2011 s. 14;6 of 2014 s. 52)
 
 Interpretation and General Provisions
+
+(#The amendment to Schedule 1, Part 1, section 1 by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) has come into operation on 10 July 2015, in so far as it relates to paragraphs (a) and (b) of the new definition of market contract. Please see paragraph (t) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2015 (L.N. 95 of 2015).)
 
 - Part 1 Interpretation
 
@@ -11,6 +13,8 @@ Interpretation and General Provisions
     - accredited (隸屬) means accredited to a licensed corporation with the Commission’s approval under section 122 of this Ordinance;
 
     - Advisory Committee (諮詢委員會) means the Advisory Committee referred to in section 7 of this Ordinance;
+
+    - approved money broker (核准貨幣經紀) has the meaning given by section 2(1) of the Banking Ordinance (Cap. 155); (Added 6 of 2014 s. 52)
 
     - associate (有聯繫者), in relation to a person, means—
 
@@ -120,7 +124,7 @@ Interpretation and General Provisions
 
         - (ii) the day-to-day adjustment of the financial position of futures contracts,
 
-    - effected on a recognized futures market or subject to the rules of a recognized exchange company; or
+      - effected on a recognized futures market or subject to the rules of a recognized exchange company; or
 
       - (c) who guarantees the settlement of any such transactions as are referred to in paragraph (a) or (b),
 
@@ -166,7 +170,7 @@ Interpretation and General Provisions
 
         - (ii) received or held by or on behalf of any corporation which is in a controlling entity relationship with the licensed corporation,
 
-    - which is so received or held on behalf of a client of the licensed corporation or in which a client of the licensed corporation has a legal or equitable interest, and includes any accretions thereto whether as capital or income; or
+      - which is so received or held on behalf of a client of the licensed corporation or in which a client of the licensed corporation has a legal or equitable interest, and includes any accretions thereto whether as capital or income; or
 
       - (b) in relation to a registered institution, means any money—
 
@@ -184,7 +188,7 @@ Interpretation and General Provisions
 
         - (ii) received or held by or on behalf of any corporation which is in a controlling entity relationship with the licensed corporation,
 
-    - which are so received or held on behalf of a client of the licensed corporation or in which a client of the licensed corporation has a legal or equitable interest; or
+      - which are so received or held on behalf of a client of the licensed corporation or in which a client of the licensed corporation has a legal or equitable interest; or
 
       - (b) in relation to a registered institution, means any securities (other than securities collateral)—
 
@@ -494,9 +498,25 @@ Interpretation and General Provisions
 
     - live broadcast (直播), in relation to any material (however described), means having the material broadcast without its being recorded in advance;
 
+    - MA investigator (金管局調查員) has the meaning given by section 178 of this Ordinance; (Added 6 of 2014 s. 52)
+
     - Mandatory Provident Fund Schemes Authority (積金局) means the Mandatory Provident Fund Schemes Authority established under section 6 of the Mandatory Provident Fund Schemes Ordinance (Cap. 485);
 
-    - market contract (市場合約) means a contract subject to the rules of a recognized clearing house entered into by the clearing house with a clearing participant pursuant to a novation which is both in accordance with those rules and for the purposes of the clearing and settlement of transactions in securities or futures contracts effected on a recognized stock market or a recognized futures market or subject to the rules of a recognized exchange company;
+    - #market contract (市場合約) means—
+
+      - (a) a contract that is subject to the rules of a recognized clearing house and entered into by the clearing house with a clearing participant, whether or not pursuant to a novation, for the purpose of the clearing and settlement of a transaction in securities or futures contracts that is—
+
+        - (i) effected on a recognized stock market or a recognized futures market; or
+
+        - (ii) subject to the rules of a recognized exchange company;
+
+      - (b) a contract that is subject to the rules of a recognized clearing house and entered into by the clearing house with a clearing participant, whether or not pursuant to a novation, for the purpose of the clearing and settlement of an OTC derivative transaction; or
+
+      - (c) a contract that is—
+
+        - (i) subject to the rules of a designated CCP (as defined by section 101A of this Ordinance) that is a provider of authorized automated trading services and specified by the Commission by notice published in the Gazette under section 1C; and
+
+        - (ii) entered into by the designated CCP with any one of its members, whether or not pursuant to a novation, for the purpose of the clearing and settlement of an OTC derivative transaction; (Replaced 6 of 2014 s. 52)
 
     - market misconduct (市場失當行為) has the meaning assigned to it by section 245(1) of this Ordinance;
 
@@ -540,6 +560,10 @@ Interpretation and General Provisions
 
     - Ombudsman (申訴專員) means The Ombudsman referred to in section 3(1) of The Ombudsman Ordinance (Cap. 397);
 
+    - OTC derivative product (場外衍生工具產品) has the meaning given by section 1B; (Added 6 of 2014 s. 52)
+
+    - OTC derivative transaction (場外衍生工具交易) means a transaction in an OTC derivative product; (Added 6 of 2014 s. 52)
+
     - other collateral (其他抵押品)—
 
       - (a) in relation to a licensed corporation, means any property (other than securities or money)—
@@ -570,6 +594,8 @@ Interpretation and General Provisions
 
     - possession (管有), in relation to any matter, includes custody, control and power of or over the matter;
 
+    - prescribed person (訂明人士) has the meaning given by section 101A of this Ordinance; (Added 6 of 2014 s. 52)
+
     - Privacy Commissioner for Personal Data (私隱專員) means the Privacy Commissioner for Personal Data established under section 5(1) of the Personal Data (Privacy) Ordinance (Cap. 486);
 
     - professional investor (專業投資者) means—
@@ -588,7 +614,7 @@ Interpretation and General Provisions
 
         - (ii) is similarly constituted under the law of any place outside Hong Kong and, if it is regulated under the law of such place, is permitted to be operated under the law of such place,
 
-    - or any person by whom any such scheme is operated;
+      - or any person by whom any such scheme is operated;
 
       - (f) any registered scheme as defined in section 2(1) of the Mandatory Provident Fund Schemes Ordinance (Cap. 485), or its constituent fund as defined in section 2 of the Mandatory Provident Fund Schemes (General) Regulation (Cap. 485 sub. leg. A), or any person who, in relation to any such registered scheme, is an approved trustee or service provider as defined in section 2(1) of that Ordinance or who is an investment manager of any such registered scheme or constituent fund;
 
@@ -664,6 +690,8 @@ Interpretation and General Provisions
 
       - (b) any document, disc, tape, sound track or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of other equipment) of being reproduced, and any film (including a microfilm), tape or other device in which visual images are embodied so as to be capable (with or without the aid of other equipment) of being reproduced;
 
+    - record keeping obligation (備存紀錄責任) has the meaning given by section 101A of this Ordinance; (Added 6 of 2014 s. 52)
+
     - registered (註冊) means registered under section 119 of this Ordinance, and “registration” (註冊) shall be construed accordingly;
 
     - registered institution (註冊機構) means an authorized financial institution which is registered under section 119 of this Ordinance;
@@ -688,7 +716,7 @@ Interpretation and General Provisions
 
         - (ii) a corporation giving financial assistance for the acquisition of its own shares,
 
-    - whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance; (Added 28 of 2012 ss. 912 & 920)
+      - whether or not such functions have been made the subject of a transfer order under section 25 or 68 of this Ordinance; (Added 28 of 2012 ss. 912 & 920)
 
       - (c) Parts II and XII of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32), for the purposes only of section 213 of this Ordinance, and so far as those Parts relate, directly or indirectly, to an advertisement mentioned in section 38B(1) of that Ordinance; (Added 30 of 2004 s. 3. Amended 28 of 2012 ss. 912 & 920)
 
@@ -696,7 +724,9 @@ Interpretation and General Provisions
 
     - relevant share capital (有關股本) means the issued share capital of a corporation which is of a class carrying rights to vote in all circumstances at general meetings of the corporation;
 
-    - remuneration (報酬) includes money, any consideration, financial accommodation or benefit, whether paid, provided or supplied directly or indirectly; repealed Commodities Trading Ordinance (已廢除的《商品交易條例》) means the Commodities Trading Ordinance (Cap. 250) repealed under section 406 of this Ordinance;
+    - remuneration (報酬) includes money, any consideration, financial accommodation or benefit, whether paid, provided or supplied directly or indirectly;
+
+    - repealed Commodities Trading Ordinance (已廢除的《商品交易條例》) means the Commodities Trading Ordinance (Cap. 250) repealed under section 406 of this Ordinance;
 
     - repealed Exchanges and Clearing Houses (Merger) Ordinance (已廢除的《交易所及結算所(合併)條例》) means the Exchanges and Clearing Houses (Merger) Ordinance (Cap. 555) repealed under section 406 of this Ordinance;
 
@@ -715,6 +745,8 @@ Interpretation and General Provisions
     - repealed Securities Ordinance (已廢除的《證券條例》) means the Securities Ordinance (Cap. 333) repealed under section 406 of this Ordinance;
 
     - repealed Stock Exchanges Unification Ordinance (已廢除的《證券交易所合併條例》) means the Stock Exchanges Unification Ordinance (Cap. 361) repealed under section 406 of this Ordinance;
+
+    - reporting obligation (匯報責任) has the meaning given by section 101A of this Ordinance; (Added 6 of 2014 s. 52)
 
     - responsible officer (負責人員) means an individual who is approved by the Commission under section 126(1) of this Ordinance as a responsible officer of a licensed corporation;
 
@@ -754,7 +786,7 @@ Interpretation and General Provisions
 
         - (vi) generally, its management, operations or procedures,
 
-    - and includes, in respect of sections 41 and 92 of this Ordinance, its constitution;
+      - and includes, in respect of sections 41 and 92 of this Ordinance, its constitution;
 
       - (c) in relation to a recognized exchange controller, means—
 
@@ -884,6 +916,20 @@ Interpretation and General Provisions
 
     - specified futures exchange (指明期貨交易所) means a futures exchange specified in Part 2;
 
+    - specified provision (指明條文) means each of the following—
+
+      - (a) Part IIIA of this Ordinance and subsidiary legislation made under it;
+
+      - (b) Division 3A of Part VIII of this Ordinance;
+
+      - (c) sections 185, 187, 190 and 191 of this Ordinance to the extent to which they relate to an investigation of any matter under section 184A of this Ordinance;
+
+      - (d) sections 186A, 385A and 388A of this Ordinance;
+
+      - (e) Divisions 4 and 5 of Part IX of this Ordinance;
+
+      - (f) Division 1A of Part XVI of this Ordinance; (Added 6 of 2014 s. 52)
+
     - specified stock exchange (指明證券交易所) means a stock exchange specified in Part 3;
 
     - Stock Exchange Company (聯交所) means the company incorporated, and registered by the name The Stock Exchange of Hong Kong Limited, under the relevant Ordinance; (Amended 28 of 2012 ss. 912 & 920)
@@ -958,6 +1004,58 @@ Interpretation and General Provisions
 
   - (Added 8 of 2011 s. 14)
 
+  - 1B. Meaning of OTC derivative product
+
+    - (1) In this Ordinance, subject to subsections (2) and (3)—
+
+      - OTC derivative product (場外衍生工具產品) means a structured product.
+
+    - (2) An OTC derivative product does not include—
+
+      - (a) securities that are traded on a recognized stock market;
+
+      - (b) a futures contract that is traded on a recognized futures market;
+
+      - (c) a securities or futures contract that is—
+
+        - (i) traded on a stock market or futures market prescribed under section 392A of this Ordinance; and
+
+        - (ii) cleared through a clearing house prescribed under that section;
+
+      - (d) a structured product that is offered to the public, the issue of any advertisement, invitation or document relating to which is authorized under section 105(1) of this Ordinance;
+
+      - (e) a structured product in the form of debt security the payment under which is derived from cash flows generated by an underlying pool of assets;
+
+      - (f) an instrument that—
+
+        - (i) is in the form of shares, stocks, debentures, loan stocks, funds, bonds, notes, deposits or certificates of deposits or in the form of any other type of instrument prescribed under section 392A of this Ordinance; and
+
+        - (ii) has an embedded feature that makes it a structured product;
+
+      - (g) a spot contract;
+
+      - (h) a structured product that is offered—
+
+        - (i) within an offer period that is not more than 2 weeks; and
+
+        - (ii) to multiple persons on identical terms, other than the consideration to be paid for the product; or
+
+      - (i) a structured product, or a structured product of a class or description, prescribed under section 392(1)(b)(vii) of this Ordinance as a product that is not to be regarded as an OTC derivative product in accordance with the notice.
+
+    - (3) An OTC derivative product also includes a product prescribed by notice under section 392(1)(a)(vii) of this Ordinance as a product that is to be regarded as an OTC derivative product in accordance with the notice.
+
+    - (4) In this section— spot contract (現貨合約) means a contract for the sale of any type or combination of types of securities, commodity, index, property, interest rate or currency exchange rate under the terms of which the settlement of the contract is scheduled to be made within the longest of the following periods—
+
+      - (a) if the contract is—
+
+        - (i) entered into in Hong Kong, 2 business days after the date of entering into the contract; or
+
+        - (ii) settled outside Hong Kong, 2 days on which each settlement facility necessary to settle the transaction is open for business, after the date of entering into the contract;
+
+      - (b) the period generally accepted in the market for that type or combination of types of securities, commodity, index, property, interest rate or currency exchange rate as the standard delivery period.
+
+  - (Added 6 of 2014 s. 52)
+
   - 2. References to subsidiary
 
     - (1) For the purposes of this Ordinance, a corporation shall be regarded as a subsidiary of another corporation if—
@@ -1006,7 +1104,7 @@ Interpretation and General Provisions
 
       - (iii) holds more than half of the issued share capital (which issued share capital, for the purposes of this subparagraph, excludes any part thereof which carries no right to participate beyond a specified amount on a distribution of either profits or capital) of one or more corporations,
 
-  - each of the corporations referred to in subparagraph (i), (ii) or (iii), and each of their subsidiaries, shall be regarded as related corporations of each other.
+    - each of the corporations referred to in subparagraph (i), (ii) or (iii), and each of their subsidiaries, shall be regarded as related corporations of each other.
 
   - 4. References to controlling the composition of a corporation’s board of directors
 
