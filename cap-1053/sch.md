@@ -6,529 +6,547 @@ STATUTES OF THE UNIVERSITY OF HONG KONG
 
 ARRANGEMENT OF STATUTES
 
+- Statute
+
   - I. Interpretation
 
   - II. Congregations
 
-    - III. Degrees and other academic distinctions
+  - III. Degrees and other academic distinctions
 
-    - IV. Members of the University
+  - IV. Members of the University
 
-    - V. The Pro-Chancellor
+  - V. The Pro-Chancellor
 
-    - VI. The Vice-Chancellor
+  - VI. The Vice-Chancellor
 
-    - VIA. The Deputy Vice-Chancellor
+  - VIA. The Deputy Vice-Chancellor
 
-    - VII. The Pro-Vice-Chancellors
+  - VII. The Pro-Vice-Chancellors
 
-    - VIII. The Treasurer
+  - VIII. The Treasurer
 
-    - IX. The Deans and Associate Deans of the Faculties
+  - IX. The Deans and Associate Deans of the Faculties
 
-    - IXA. The Dean of Student Affairs (L.N. 165 of 1999)
+  - IXA. The Dean of Student Affairs (L.N. 165 of 1999)
 
-    - IXB. (Repealed)
+  - IXB. (Repealed)
 
-    - X. The Registrar and other officers
+  - X. The Registrar and other officers
 
-    - XI. The Auditors
+  - XI. The Auditors
 
-    - XII. The Teachers of the University
+  - XII. The Teachers of the University
 
-    - XIII. Honorary and Emeritus Professors
+  - XIII. Honorary and Emeritus Professors
 
-    - XIV. Procedure Generally
+  - XIV. Procedure Generally
 
-    - XV. The Court
+  - XV. The Court
 
-    - XVI. Meetings of the Court
+  - XVI. Meetings of the Court
 
-    - XVII. Powers of the Court
+  - XVII. Powers of the Court
 
-    - XVIII. The Council
+  - XVIII. The Council
 
-    - XIX. Powers of the Council
+  - XIX. Powers of the Council
 
-    - XX. The Honorary Degrees Committee
+  - XX. The Honorary Degrees Committee
 
-    - XXI. Financial Procedure
+  - XXI. Financial Procedure
 
-    - XXII. The Senate
+  - XXII. The Senate
 
-    - XXIII. Powers of the Senate
+  - XXIII. Powers of the Senate
 
-    - XXIV. The Teaching Departments
+  - XXIV. The Teaching Departments
 
-    - XXV. Institutes, Schools, Centres, Units or other Subdivisions of Studies and Learning
+  - XXV. Institutes, Schools, Centres, Units or other Subdivisions of Studies and Learning
 
-    - XXVI. The Boards of the Faculties
+  - XXVI. The Boards of the Faculties
 
-    - XXVII. Powers of the Boards of the Faculties
+  - XXVII. Powers of the Boards of the Faculties
 
-      - XXVIIA-XXVIIB. (Repealed)
+  - XXVIIA-XXVIIB. (Repealed)
 
-    - XXVIII. Convocation
+  - XXVIII. Convocation
 
-    - XXIX. Examinations
+  - XXIX. Examinations
 
-    - XXX. The Disciplinary Committee
+  - XXX. The Disciplinary Committee
 
-    - XXXI. Powers of the Disciplinary Committee STATUTES OF THE UNIVERSITY OF HONG KONG
+  - XXXI. Powers of the Disciplinary Committee
 
-- STATUTE I INTERPRETATION In these statutes, unless the context otherwise requires—
+STATUTES OF THE UNIVERSITY OF HONG KONG STATUTE I INTERPRETATION In these statutes, unless the context otherwise requires—
 
-  - “academic year” (學年) means such period, not exceeding 12 consecutive months, as the Senate shall from time to time determine; (L.N. 516 of 1994)
+- “academic year” (學年) means such period, not exceeding 12 consecutive months, as the Senate shall from time to time determine; (L.N. 516 of 1994)
 
-  - “Disciplinary Committee” (紀律委員會) means the Disciplinary Committee appointed under Statute XXX;
+- “Disciplinary Committee” (紀律委員會) means the Disciplinary Committee appointed under Statute XXX;
 
-  - “Faculty” (學院) means a group of related academic disciplines which may or may not be divided into teaching departments and other subdivisions of studies and learning; (L.N. 123 of 1994; L.N. 299 of 1998)
+- “Faculty” (學院) means a group of related academic disciplines which may or may not be divided into teaching departments and other subdivisions of studies and learning; (L.N. 123 of 1994; L.N. 299 of 1998)
 
-  - “graduate” (畢業生) means a person—
+- “graduate” (畢業生) means a person—
 
-    - (a) on whom a degree has been conferred at a congregation of the University; or
+  - (a) on whom a degree has been conferred at a congregation of the University; or
 
-    - (b) whose name has appeared on the list of successful candidates for a degree of bachelor, master or doctor of the University, published in accordance with regulations prescribed by the Senate, and who is awaiting the conferment of that degree at a congregation; (L.N. 516 of 1994)
+  - (b) whose name has appeared on the list of successful candidates for a degree of bachelor, master or doctor of the University, published in accordance with regulations prescribed by the Senate, and who is awaiting the conferment of that degree at a congregation; (L.N. 516 of 1994)
 
-  - “hall” (院舍) means a residential or a non-residential hall and includes the Robert Black College and the Clinical Students’ Residence; (L.N. 516 of 1994)
+- “hall” (院舍) means a residential or a non-residential hall and includes the Robert Black College and the Clinical Students’ Residence; (L.N. 516 of 1994)
 
-  - “Ordinance” (本條例) means the University of Hong Kong Ordinance;
+- “Ordinance” (本條例) means the University of Hong Kong Ordinance;
 
-  - “postgraduate student” (研究生) means a person— (L.N. 516 of 1994)
+- “postgraduate student” (研究生) means a person— (L.N. 516 of 1994)
 
-    - (a) who is registered to read for a degree of master or doctor of the University; or
+  - (a) who is registered to read for a degree of master or doctor of the University; or
 
-    - (b) who is registered as a student for a certificate or diploma of the University, one of the requirements for entry to which is the possession of a degree of bachelor or such qualification as may for such purpose be deemed equivalent thereto by the Senate;
+  - (b) who is registered as a student for a certificate or diploma of the University, one of the requirements for entry to which is the possession of a degree of bachelor or such qualification as may for such purpose be deemed equivalent thereto by the Senate;
 
-  - “semester” (學期) means such part of an academic year as the Senate shall from time to time determine; (L.N. 516 of 1994)
+- “semester” (學期) means such part of an academic year as the Senate shall from time to time determine; (L.N. 516 of 1994)
 
-  - “student” (學生) means an undergraduate student or a postgraduate student or a person who is otherwise registered for a diploma or certificate of the University, or who is in a category of person defined by the Senate as a student for the purpose of proceedings before the Disciplinary Committee;
+- “student” (學生) means an undergraduate student or a postgraduate student or a person who is otherwise registered for a diploma or certificate of the University, or who is in a category of person defined by the Senate as a student for the purpose of proceedings before the Disciplinary Committee;
 
-  - “undergraduate student” (本科生) means a person who is registered to read for a degree of bachelor of the University;
+- “undergraduate student” (本科生) means a person who is registered to read for a degree of bachelor of the University;
 
-  - “University” (大學), “statutes” (規程), “Court” (校董會), “Council” (校務委員會), “Senate” (教務委員會), “Convocation” (畢業生議會), “Chancellor” (校監), “Pro-Chancellor” (副校監), “Vice-Chancellor” (校長), “Deputy Vice-Chancellor” (首席副校長), “Pro-Vice-Chancellor” (副校長), “Treasurer” (司庫), “Deans of Faculties” (學院院長), “Registrar” (教務長), “Librarian” (圖書館館長), “officer” (主管人員), “teacher” (教師), shall have respectively the same meanings as they have in the Ordinance. (L.N. 137 of 1967; L.N. 4 of 1968; L.N. 167 of 1992; 80 of 1997 s. 100)
+- “University” (大學), “statutes” (規程), “Court” (校董會), “Council” (校務委員會), “Senate” (教務委員會), “Convocation” (畢業生議會), “Chancellor” (校監), “Pro-Chancellor” (副校監), “Vice-Chancellor” (校長), “Deputy Vice-Chancellor” (首席副校長), “Pro-Vice-Chancellor” (副校長), “Treasurer” (司庫), “Deans of Faculties” (學院院長), “Registrar” (教務長), “Librarian” (圖書館館長), “officer” (主管人員), “teacher” (教師), shall have respectively the same meanings as they have in the Ordinance. (L.N. 137 of 1967; L.N. 4 of 1968; L.N. 167 of 1992; 80 of 1997 s. 100)
 
-- (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 123 of 1994)
+(L.N. 19 of 1971; L.N. 58 of 1976; L.N. 123 of 1994) STATUTE II CONGREGATIONS
 
-- STATUTE II CONGREGATIONS
+- 1. The time, place and procedure of the congregations of the whole University shall be determined by the Chancellor.
 
-  - 1. The time, place and procedure of the congregations of the whole University shall be determined by the Chancellor.
+- 2. The Chancellor, or in his absence the Pro-Chancellor or in the absence of both of them the Vice-Chancellor, shall preside at congregations. (L.N. 4 of 1968)
 
-  - 2. The Chancellor, or in his absence the Pro-Chancellor or in the absence of both of them the Vice-Chancellor, shall preside at congregations. (L.N. 4 of 1968)
-
-  - 3. At least one congregation shall be held in each academic year.
+- 3. At least one congregation shall be held in each academic year.
 
 - STATUTE III DEGREES AND OTHER ACADEMIC DISTINCTIONS
 
   - 1. The University may confer any of the following degrees—
 
-    - (a) Bachelors degrees Bachelor of Accounting
+    - (a) Bachelors degrees
 
-    - Bachelor of Architecture
+      - Bachelor of Accounting
 
-    - Bachelor of Arts
+      - Bachelor of Architecture
 
-    - Bachelor of Arts in Architectural Studies
+      - Bachelor of Arts
 
-    - Bachelor of Arts in Conservation
+      - Bachelor of Arts in Architectural Studies
 
-    - Bachelor of Arts in Landscape Studies
+      - Bachelor of Arts in Conservation
 
-    - Bachelor of Arts in Urban Studies
+      - Bachelor of Arts in Landscape Studies
 
-    - Bachelor of Biomedical Sciences
+      - Bachelor of Arts in Urban Studies
 
-    - Bachelor of Business Administration
+      - Bachelor of Biomedical Sciences
 
-    - Bachelor of Business Administration in Accounting and Finance
+      - Bachelor of Business Administration
 
-    - Bachelor of Business Administration in International Business and Global Management
+      - Bachelor of Business Administration in Accounting and Finance
 
-    - Bachelor of Business Administration (Information Systems)
+      - Bachelor of Business Administration in International Business and Global Management
 
-    - Bachelor of Business Administration (Law)
+      - Bachelor of Business Administration (Information Systems)
 
-    - Bachelor of Chinese Medicine
+      - Bachelor of Business Administration (Law)
 
-    - Bachelor of Cognitive Science
+      - Bachelor of Chinese Medicine
 
-    - Bachelor of Criminal Justice
+      - Bachelor of Cognitive Science
 
-    - Bachelor of Dental Surgery
+      - Bachelor of Criminal Justice
 
-    - Bachelor of Economics
+      - Bachelor of Dental Surgery
 
-    - Bachelor of Economics and Finance
+      - Bachelor of Economics
 
-    - Bachelor of Education
+      - Bachelor of Economics and Finance
 
-    - Bachelor of Education in Language Education
+      - Bachelor of Education
 
-    - Bachelor of Education in Primary Education
+      - Bachelor of Education in Language Education
 
-    - Bachelor of Engineering
+      - Bachelor of Education in Primary Education
 
-    - Bachelor of Engineering, in engineering disciplines as determined by the Senate from time to time
+      - Bachelor of Engineering
 
-    - Bachelor of Finance
+      - Bachelor of Engineering, in engineering disciplines as determined by the Senate from time to time
 
-    - Bachelor of Housing Management
+      - Bachelor of Finance
 
-    - Bachelor of Journalism
+      - Bachelor of Housing Management
 
-    - Bachelor of Laws
+      - Bachelor of Journalism
 
-    - Bachelor of Management Studies
+      - Bachelor of Laws
 
-    - Bachelor of Medicine and Bachelor of Surgery
+      - Bachelor of Management Studies
 
-    - Bachelor of Nursing
+      - Bachelor of Medicine and Bachelor of Surgery
 
-    - Bachelor of Pharmacy
+      - Bachelor of Nursing
 
-    - Bachelor of Pharmacy in Chinese Medicine
+      - Bachelor of Pharmacy
 
-    - Bachelor of Science
+      - Bachelor of Pharmacy in Chinese Medicine
 
-    - Bachelor of Science in Actuarial Science
+      - Bachelor of Science
 
-    - Bachelor of Science in Applied Medical Sciences
+      - Bachelor of Science in Actuarial Science
 
-    - Bachelor of Science in Bioinformatics
+      - Bachelor of Science in Applied Medical Sciences
 
-    - Bachelor of Science in Biomedical Sciences
+      - Bachelor of Science in Bioinformatics
 
-    - Bachelor of Science in Computer Science
+      - Bachelor of Science in Biomedical Sciences
 
-    - Bachelor of Science in Computer Science and Information Systems
+      - Bachelor of Science in Computer Science
 
-    - Bachelor of Science in Computer Studies
+      - Bachelor of Science in Computer Science and Information Systems
 
-    - Bachelor of Science in Engineering
+      - Bachelor of Science in Computer Studies
 
-    - Bachelor of Science in Exercise and Health
+      - Bachelor of Science in Engineering
 
-    - Bachelor of Science in Information Management
+      - Bachelor of Science in Exercise and Health
 
-    - Bachelor of Science in Nursing Studies
+      - Bachelor of Science in Information Management
 
-    - Bachelor of Science in Quantitative Finance
+      - Bachelor of Science in Nursing Studies
 
-    - Bachelor of Science in Quantity Surveying
+      - Bachelor of Science in Quantitative Finance
 
-    - Bachelor of Science in Speech and Hearing Sciences
+      - Bachelor of Science in Quantity Surveying
 
-    - Bachelor of Science in Sports Science and Leisure Management
+      - Bachelor of Science in Speech and Hearing Sciences
 
-    - Bachelor of Science in Surveying
+      - Bachelor of Science in Sports Science and Leisure Management
 
-    - Bachelor of Social Sciences
+      - Bachelor of Science in Surveying
 
-    - Bachelor of Social Sciences (Government and Laws)
+      - Bachelor of Social Sciences
 
-    - Bachelor of Social Work
+      - Bachelor of Social Sciences (Government and Laws)
 
-    - Bachelor of Traditional Chinese Medicine
+      - Bachelor of Social Work
 
-    - (b) Masters degrees Juris Doctor
+      - Bachelor of Traditional Chinese Medicine
 
-    - Master of Architecture
+    - (b) Masters degrees
 
-    - Master of Arts
+      - Juris Doctor
 
-    - Master of Arts in Applied Linguistics
+      - Master of Architecture
 
-    - Master of Arts in China Development Studies
+      - Master of Arts
 
-    - Master of Arts in Transport Policy and Planning
+      - Master of Arts in Applied Linguistics
 
-    - Master of Buddhist Studies
+      - Master of Arts in China Development Studies
 
-    - Master of Business Administration
+      - Master of Arts in Teaching English to Speakers of Other Languages
 
-    - Master of Business Administration (International)
+      - Master of Arts in Transport Policy and Planning
 
-    - Master of Chinese Medicine
+      - Master of Buddhist Studies
 
-    - Master of Chinese Medicine in Acupuncture and Moxibustion
+      - Master of Business Administration
 
-    - Master of Common Law
+      - Master of Business Administration (International)
 
-    - Master of Dental Surgery, in dental disciplines as determined by the Senate from time to time
+      - Master of Chinese Medicine
 
-    - Master of Economics
+      - Master of Chinese Medicine in Acupuncture and Moxibustion
 
-    - Master of Education
+      - Master of Clinical Pharmacy
 
-    - Master of Finance
+      - Master of Common Law
 
-    - Master of Financial Engineering
+      - Master of Dental Surgery, in dental disciplines as determined by the Senate from time to time
 
-    - Master of Fine Arts
+      - Master of Economics
 
-    - Master of Geographic Information Systems
+      - Master of Education
 
-    - Master of Housing Management
+      - Master of Expressive Arts Therapy
 
-    - Master of International and Public Affairs
+      - Master of Finance
 
-    - Master of Journalism
+      - Master of Financial Engineering
 
-    - Master of Landscape Architecture
+      - Master of Fine Arts
 
-    - Master of Laws
+      - Master of Geographic Information Systems
 
-    - Master of Laws, in law disciplines as determined by the Senate from time to time
+      - Master of Housing Management
 
-    - Master of Medical Sciences
+      - Master of International and Public Affairs
 
-    - Master of Nursing
+      - Master of Journalism
 
-    - Master of Nursing in Advanced Practice
+      - Master of Landscape Architecture
 
-    - Master of Orthodontics
+      - Master of Laws
 
-    - Master of Philosophy
+      - Master of Laws, in law disciplines as determined by the Senate from time to time
 
-    - Master of Psychological Medicine (Psychosis Studies)
+      - Master of Medical Sciences
 
-    - Master of Public Administration
+      - Master of Nursing
 
-    - Master of Public Administration (International)
+      - Master of Nursing in Advanced Practice
 
-    - Master of Public Health
+      - Master of Orthodontics
 
-    - Master of Research in Medicine
+      - Master of Philosophy
 
-    - Master of Science
+      - Master of Psychological Medicine (Psychosis Studies)
 
-    - Master of Science in Audiology
+      - Master of Public Administration
 
-    - Master of Science in Chinese Medicines
+      - Master of Public Administration (International)
 
-    - Master of Science in Community Dentistry
+      - Master of Public Health
 
-    - Master of Science in Computer Science
+      - Master of Research in Medicine
 
-    - Master of Science in Conservation
+      - Master of Science
 
-    - Master of Science in Construction Project Management
+      - Master of Science in Audiology
 
-    - Master of Science in Dental Materials Science
+      - Master of Science in Chinese Medicines
 
-    - Master of Science in Electronic Commerce and Internet Computing
+      - Master of Science in Community Dentistry
 
-    - Master of Science in Engineering
+      - Master of Science in Computer Science
 
-    - Master of Science in Engineering, in engineering disciplines as determined by the Senate from time to time
+      - Master of Science in Conservation
 
-    - Master of Science in Environmental Management
+      - Master of Science in Construction Project Management
 
-    - Master of Science in General Dentistry
+      - Master of Science in Dental Materials Science
 
-    - Master of Science in Global Business Management and E-Commerce
+      - Master of Science in Electronic Commerce and Internet Computing
 
-    - Master of Science in Implant Dentistry
+      - Master of Science in Engineering
 
-    - Master of Science in Information Technology in Education
+      - Master of Science in Engineering, in engineering disciplines as determined by the Senate from time to time
 
-    - Master of Science in Interdisciplinary Design and Management
+      - Master of Science in Environmental Management
 
-    - Master of Science in Library and Information Management
+      - Master of Science in General Dentistry
 
-    - Master of Science in Real Estate
+      - Master of Science in Global Business Management and E-Commerce
 
-    - Master of Science in Real Estate Development
+      - Master of Science in Implant Dentistry
 
-    - Master of Science in Sports Science
+      - Master of Science in Information Technology in Education
 
-    - Master of Science in Urban Planning
+      - Master of Science in Interdisciplinary Design and Management
 
-    - Master of Social Sciences
+      - Master of Science in Library and Information Management
 
-    - Master of Social Service Management
+      - Master of Science in Real Estate
 
-    - Master of Social Work
+      - Master of Science in Real Estate Development
 
-    - Master of Statistics
+      - Master of Science in Sports Science
 
-    - Master of Traditional Chinese Medicine in Acupuncture and Moxibustion
+      - Master of Science in Urban Planning
 
-    - Master of Urban Design
+      - Master of Social Sciences
 
-    - (c) Doctors degrees Doctor of Education
+      - Master of Social Service Management
 
-    - Doctor of Laws
+      - Master of Social Work
 
-    - Doctor of Legal Science
+      - Master of Statistics
 
-    - Doctor of Letters
+      - Master of Traditional Chinese Medicine in Acupuncture and Moxibustion
 
-    - Doctor of Medicine
+      - Master of Urban Design
 
-    - Doctor of Nursing
+    - (c) Doctors degrees
 
-    - Doctor of Philosophy
+      - Doctor of Education
 
-    - Doctor of Psychology
+      - Doctor of Laws
 
-    - Doctor of Public Administration
+      - Doctor of Legal Science
 
-    - Doctor of Science
+      - Doctor of Letters
 
-    - Doctor of Social Sciences
+      - Doctor of Medicine
 
-    - Master of Surgery
+      - Doctor of Nursing
 
-    - (d) Honorary degrees Doctor of Divinity honoris causa
+      - Doctor of Philosophy
 
-    - Doctor of Laws honoris causa
+      - Doctor of Psychology
 
-    - Doctor of Letters honoris causa
+      - Doctor of Public Administration
 
-    - Doctor of Science honoris causa
+      - Doctor of Science
 
-    - Doctor of Social Sciences honoris causa
+      - Doctor of Social Sciences
 
-  - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013)
+      - Master of Surgery
+
+    - (d) Honorary degrees
+
+      - Doctor of Divinity honoris causa
+
+      - Doctor of Laws honoris causa
+
+      - Doctor of Letters honoris causa
+
+      - Doctor of Science honoris causa
+
+      - Doctor of Social Sciences honoris causa
+
+    - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013; L.N. 99 of 2015)
 
   - 2. The University may award any of the following diplomas and certificates—
 
-    - (a) Diplomas Advanced Diploma in Education
+    - (a) Diplomas
 
-    - Advanced Diploma in Endodontics
+      - Advanced Diploma in Education
 
-    - Advanced Diploma in Oral and Maxillofacial Surgery
+      - Advanced Diploma in Endodontics
 
-    - Advanced Diploma in Orthodontics
+      - Advanced Diploma in Oral and Maxillofacial Surgery
 
-    - Advanced Diploma in Paediatric Dentistry
+      - Advanced Diploma in Orthodontics
 
-    - Advanced Diploma in Periodontology
+      - Advanced Diploma in Paediatric Dentistry
 
-    - Advanced Diploma in Prosthodontics
+      - Advanced Diploma in Periodontology
 
-    - Advanced Diploma in Social Work
+      - Advanced Diploma in Prosthodontics
 
-    - Diploma in Architecture
+      - Advanced Diploma in Social Work
 
-    - Diploma in Chinese Language
+      - Diploma in Architecture
 
-    - Diploma in Pharmacy
+      - Diploma in Chinese Language
 
-    - Foundation Diploma in Management
+      - Diploma in Pharmacy
 
-    - Postgraduate Diploma in Building Services
+      - Foundation Diploma in Management
 
-    - Postgraduate Diploma in Child and Adolescent Health
+      - Postgraduate Diploma in Building Services
 
-    - Postgraduate Diploma in Chinese Language Subject Knowledge for Graduate Teachers
+      - Postgraduate Diploma in Child and Adolescent Health
 
-    - Postgraduate Diploma in Clinical Research Methodology
+      - Postgraduate Diploma in Chinese Language Subject Knowledge for Graduate Teachers
 
-    - Postgraduate Diploma in Commercial Law
+      - Postgraduate Diploma in Clinical Research Methodology
 
-    - Postgraduate Diploma in Common Law
+      - Postgraduate Diploma in Commercial Law
 
-    - Postgraduate Diploma in Community Geriatrics
+      - Postgraduate Diploma in Common Law
 
-    - Postgraduate Diploma in Community Psychological Medicine
+      - Postgraduate Diploma in Community Geriatrics
 
-    - Postgraduate Diploma in Conservation
+      - Postgraduate Diploma in Community Psychological Medicine
 
-    - Postgraduate Diploma in Construction Project Management
+      - Postgraduate Diploma in Conservation
 
-    - Postgraduate Diploma in Creative Writing in English
+      - Postgraduate Diploma in Construction Project Management
 
-    - Postgraduate Diploma in Dental Materials Science
+      - Postgraduate Diploma in Creative Writing in English
 
-    - Postgraduate Diploma in Dental Surgery
+      - Postgraduate Diploma in Dental Materials Science
 
-    - Postgraduate Diploma in Diagnosis and Therapeutics in Internal Medicine
+      - Postgraduate Diploma in Dental Surgery
 
-    - Postgraduate Diploma in Earth Sciences
+      - Postgraduate Diploma in Diagnosis and Therapeutics in Internal Medicine
 
-    - Postgraduate Diploma in Education
+      - Postgraduate Diploma in Earth Sciences
 
-    - Postgraduate Diploma in Engineering, in engineering disciplines as determined by the Senate from time to time
+      - Postgraduate Diploma in Education
 
-    - Postgraduate Diploma in English Studies
+      - Postgraduate Diploma in Engineering, in engineering disciplines as determined by the Senate from time to time
 
-    - Postgraduate Diploma in General Dental Surgery
+      - Postgraduate Diploma in English Studies
 
-    - Postgraduate Diploma in Geographic Information Systems
+      - Postgraduate Diploma in General Dental Surgery
 
-    - Postgraduate Diploma in Infectious Diseases
+      - Postgraduate Diploma in Geographic Information Systems
 
-    - Postgraduate Diploma in Information Technology and Intellectual Property Law
+      - Postgraduate Diploma in Infectious Diseases
 
-    - Postgraduate Diploma in Information Technology Law
+      - Postgraduate Diploma in Information Technology and Intellectual Property Law
 
-    - Postgraduate Diploma in International Affairs
+      - Postgraduate Diploma in Information Technology Law
 
-    - Postgraduate Diploma in International Arbitration and Dispute Settlement
+      - Postgraduate Diploma in International Affairs
 
-    - Postgraduate Diploma in Journalism
+      - Postgraduate Diploma in International Arbitration and Dispute Settlement
 
-    - Postgraduate Diploma in Laws
+      - Postgraduate Diploma in Journalism
 
-    - Postgraduate Diploma in the Law of the People’s Republic of China
+      - Postgraduate Diploma in Laws
 
-    - Postgraduate Diploma in Molecular and Diagnostic Pathology
+      - Postgraduate Diploma in the Law of the People’s Republic of China
 
-    - Postgraduate Diploma in Nursing
+      - Postgraduate Diploma in Molecular and Diagnostic Pathology
 
-    - Postgraduate Diploma in Psychological Medicine (Psychosis Studies)
+      - Postgraduate Diploma in Nursing
 
-    - Postgraduate Diploma in Psycho-oncology
+      - Postgraduate Diploma in Psychological Medicine (Psychosis Studies)
 
-    - Postgraduate Diploma in Public Health
+      - Postgraduate Diploma in Psycho-oncology
 
-    - Postgraduate Diploma in Public Law
+      - Postgraduate Diploma in Public Health
 
-    - Postgraduate Diploma in Science (Computer Science)
+      - Postgraduate Diploma in Public Law
 
-    - Postgraduate Diploma in Science (Electronic Commerce and Internet Computing)
+      - Postgraduate Diploma in Science (Computer Science)
 
-    - Postgraduate Diploma in Surveying (Quantity Surveying)
+      - Postgraduate Diploma in Science (Electronic Commerce and Internet Computing)
 
-    - Postgraduate Diploma in Surveying (Real Estate Development)
+      - Postgraduate Diploma in Surveying (Quantity Surveying)
 
-    - Postgraduate Diploma in Urban Design
+      - Postgraduate Diploma in Surveying (Real Estate Development)
 
-    - (b) Certificates Certificate in Chinese Language
+      - Postgraduate Diploma in Urban Design
 
-    - Certificate in Health Economics
+    - (b) Certificates
 
-    - Certificate in In-Service Education for Teachers
+      - Certificate in Chinese Language
 
-    - Certificate in Medical Sciences
+      - Certificate in Health Economics
 
-    - Certificate in School Counselling and Guidance
+      - Certificate in In-Service Education for Teachers
 
-    - Certificate in Social Study
+      - Certificate in Medical Sciences
 
-    - Certificates in engineering subjects, as determined by the Senate from time to time
+      - Certificate in School Counselling and Guidance
 
-    - Hong Kong Common Professional Examination Certificate in Laws
+      - Certificate in Social Study
 
-    - Postgraduate Certificate in Advanced Educational Studies
+      - Certificates in engineering subjects, as determined by the Senate from time to time
 
-    - Postgraduate Certificate in Clinical Research Methodology
+      - Hong Kong Common Professional Examination Certificate in Laws
 
-    - Postgraduate Certificate in Education
+      - Postgraduate Certificate in Advanced Educational Studies
 
-    - Postgraduate Certificate in Laws
+      - Postgraduate Certificate in Clinical Research Methodology
 
-    - Postgraduate Certificate in Molecular and Diagnostic Pathology
+      - Postgraduate Certificate in Education
 
-    - Postgraduate Certificate in Psychological Medicine (Psychosis Studies)
+      - Postgraduate Certificate in Laws
 
-    - Postgraduate Certificate in Psychology
+      - Postgraduate Certificate in Molecular and Diagnostic Pathology
 
-    - Postgraduate Certificate in Psycho-oncology
+      - Postgraduate Certificate in Psychological Medicine (Psychosis Studies)
 
-    - Postgraduate Certificate in Public Health
+      - Postgraduate Certificate in Psychology
+
+      - Postgraduate Certificate in Psycho-oncology
+
+      - Postgraduate Certificate in Public Health
 
   - (L.N. 516 of 1994; L.N. 99 of 1997; L.N. 490 of 1997; L.N. 299 of 1998; L.N. 165 of 1999; L.N. 81 of 2001; L.N. 125 of 2001; L.N. 61 of 2002; L.N. 129 of 2003; L.N. 205 of 2003; L.N. 135 of 2005; L.N. 44 of 2006; L.N. 184 of 2013)
 
@@ -622,81 +640,79 @@ ARRANGEMENT OF STATUTES
 
   - 2. The Treasurer may resign by written notice addressed to the Council.
 
-- * STATUTE IX THE DEANS AND ASSOCIATE DEANS OF THE FACULTIES (L.N. 83 of 1992)
+* STATUTE IX THE DEANS AND ASSOCIATE DEANS OF THE FACULTIES (L.N. 83 of 1992)
 
-  - 1. The Dean of each Faculty shall be appointed by the Council in accordance with regulations—
+- 1. The Dean of each Faculty shall be appointed by the Council in accordance with regulations—
 
-    - (a) on the recommendation of the Vice-Chancellor;
+  - (a) on the recommendation of the Vice-Chancellor;
 
-    - (b) on such terms and conditions as may be determined by the Council; and
+  - (b) on such terms and conditions as may be determined by the Council; and
 
-    - (c) for a period of 5 years or such other period as may be determined by the Council. (L.N. 186 of 2003)
+  - (c) for a period of 5 years or such other period as may be determined by the Council. (L.N. 186 of 2003)
 
-  - 1A. A Dean shall be eligible for re-appointment. (L.N. 186 of 2003)
+- 1A. A Dean shall be eligible for re-appointment. (L.N. 186 of 2003)
 
-  - 2. Whenever the office of Dean becomes vacant a new Dean shall forthwith be appointed. (L.N. 186 of 2003)
+- 2. Whenever the office of Dean becomes vacant a new Dean shall forthwith be appointed. (L.N. 186 of 2003)
 
-  - 3. The Dean shall be a member of all committees of the Board of the Faculty and shall present candidates for degrees (except honorary degrees) in the subjects of the Faculty. (L.N. 299 of 1998)
+- 3. The Dean shall be a member of all committees of the Board of the Faculty and shall present candidates for degrees (except honorary degrees) in the subjects of the Faculty. (L.N. 299 of 1998)
 
-  - 4. A Dean may resign by written notice addressed to the Council. (L.N. 299 of 1998; L.N. 186 of 2003)
+- 4. A Dean may resign by written notice addressed to the Council. (L.N. 299 of 1998; L.N. 186 of 2003)
 
-    - 5.
+- 5.
 
-      - (a) Associate Deans of each Faculty shall be appointed by the Dean of the Faculty. (L.N. 299 of 1998)
+  - (a) Associate Deans of each Faculty shall be appointed by the Dean of the Faculty. (L.N. 299 of 1998)
 
-      - (b) The period of office of an Associate Dean of a Faculty shall be determined by the Dean of the Faculty and shall not exceed or be extended beyond the period of office of the Dean. (L.N. 83 of 1992; L.N. 186 of 2003)
+  - (b) The period of office of an Associate Dean of a Faculty shall be determined by the Dean of the Faculty and shall not exceed or be extended beyond the period of office of the Dean. (L.N. 83 of 1992; L.N. 186 of 2003)
 
-  - 6. An Associate Dean of a Faculty shall discharge such duties as may be determined by the Dean of the Faculty. (L.N. 83 of 1992)
+- 6. An Associate Dean of a Faculty shall discharge such duties as may be determined by the Dean of the Faculty. (L.N. 83 of 1992)
 
-  - 7. An Associate Dean of a Faculty may resign by written notice addressed to the Dean of the Faculty. (L.N. 83 of 1992; L.N. 186 of 2003) (L.N. 58 of 1976; L.N. 44 of 1985)
+- 7. An Associate Dean of a Faculty may resign by written notice addressed to the Dean of the Faculty. (L.N. 83 of 1992; L.N. 186 of 2003) (L.N. 58 of 1976; L.N. 44 of 1985)
 
-- STATUTE IXA THE DEAN OF STUDENT AFFAIRS
+STATUTE IXA THE DEAN OF STUDENT AFFAIRS
 
-  - 1. The Dean of Student Affairs shall be an officer and shall be appointed by the Council after consultation with the Senate.
+- 1. The Dean of Student Affairs shall be an officer and shall be appointed by the Council after consultation with the Senate.
 
-  - 2. The Dean of Student Affairs shall be responsible to the Vice-Chancellor for such duties in connection with student affairs as may be determined by the Council from time to time. (L.N. 4 of 1983) (L.N. 19 of 1971; L.N. 165 of 1999)
+- 2. The Dean of Student Affairs shall be responsible to the Vice-Chancellor for such duties in connection with student affairs as may be determined by the Council from time to time. (L.N. 4 of 1983) (L.N. 19 of 1971; L.N. 165 of 1999)
 
-- STATUTE IXB (Repealed L.N. 72 of 1993)
+STATUTE IXB (Repealed L.N. 72 of 1993) STATUTE X THE REGISTRAR AND OTHER OFFICERS (L.N. 167 of 1992)
 
-- STATUTE X THE REGISTRAR AND OTHER OFFICERS (L.N. 167 of 1992)
+- 1. The Registrar—
 
-  - 1. The Registrar—
+  - (a) shall be appointed by the Council;
 
-    - (a) shall be appointed by the Council;
+  - (b) shall keep a register of all members of the University under their respective qualifications as specified in Statute IV;
 
-    - (b) shall keep a register of all members of the University under their respective qualifications as specified in Statute IV;
+  - (c) shall be the custodian of the records and of the common seal of the University;
 
-    - (c) shall be the custodian of the records and of the common seal of the University;
+  - (d) shall discharge such duties as are specified in the Ordinance and statutes and such other duties as may be determined by the Council;
 
-    - (d) shall discharge such duties as are specified in the Ordinance and statutes and such other duties as may be determined by the Council;
+  - (e) may exercise his functions as secretary to the Boards of the Faculties by deputy.
 
-    - (e) may exercise his functions as secretary to the Boards of the Faculties by deputy.
+- 1A. (Repealed L.N. 167 of 1992)
 
-  - 1A. (Repealed L.N. 167 of 1992)
+- 2. The Director of Finance shall be an officer, and—
 
-  - 2. The Director of Finance shall be an officer, and—
+  - (a) shall be appointed by the Council;
 
-    - (a) shall be appointed by the Council;
+  - (b) shall be responsible to the Council for the keeping of all University accounts;
 
-    - (b) shall be responsible to the Council for the keeping of all University accounts;
+  - (c) shall be responsible to the Vice-Chancellor for the discharge of such other duties in connection with University finance as the Vice-Chancellor may determine. (L.N. 165 of 1999)
 
-    - (c) shall be responsible to the Vice-Chancellor for the discharge of such other duties in connection with University finance as the Vice-Chancellor may determine. (L.N. 165 of 1999)
+- 3. The Librarian—
 
-  - 3. The Librarian—
+  - (a) shall be appointed by the Council after consultation with the Senate;
 
-    - (a) shall be appointed by the Council after consultation with the Senate;
+  - (b) shall discharge such duties as may be determined by the Council after consultation with the Senate.
 
-    - (b) shall discharge such duties as may be determined by the Council after consultation with the Senate.
+- 4. The Director of Estates shall be an officer, and—
 
-  - 4. The Director of Estates shall be an officer, and—
+  - (a) shall be appointed by the Council;
 
-    - (a) shall be appointed by the Council;
+  - (b) shall be responsible to the Vice-Chancellor for general maintenance of all University buildings, properties, and grounds;
 
-    - (b) shall be responsible to the Vice-Chancellor for general maintenance of all University buildings, properties, and grounds;
+  - (c) shall be responsible to the Vice-Chancellor for the discharge of such other duties in connection with the University buildings, properties, and grounds as the Vice-Chancellor may determine. (L.N. 56 of 1966; L.N. 15 of 1973; L.N. 165 of 1999)
 
-    - (c) shall be responsible to the Vice-Chancellor for the discharge of such other duties in connection with the University buildings, properties, and grounds as the Vice-Chancellor may determine. (L.N. 56 of 1966; L.N. 15 of 1973; L.N. 165 of 1999)
-
-  - (L.N. 54 of 1972; L.N. 58 of 1976; L.N. 167 of 1992; L.N. 72 of 1993)
+- (L.N. 54 of 1972; L.N. 58 of 1976; L.N. 167 of 1992; L.N. 72 of 1993)
 
 - STATUTE XI THE AUDITORS
 
@@ -788,21 +804,23 @@ ARRANGEMENT OF STATUTES
 
   - 5. The Vice-Chancellor may require any officer or teacher to be present at a meeting of the Court to assist the Vice-Chancellor or the Registrar. (L.N. 167 of 1992)
 
-- STATUTE XVII POWERS OF THE COURT Subject to the provisions of the Ordinance and the statutes, the Court shall have power—
+- STATUTE XVII POWERS OF THE COURT
 
-  - (a) to recommend to the Chancellor additions to, or the amendment or repeal of any of the statutes on the proposal of the Council;
+  - Subject to the provisions of the Ordinance and the statutes, the Court shall have power—
 
-  - (b) (Repealed L.N. 186 of 2003)
+    - (a) to recommend to the Chancellor additions to, or the amendment or repeal of any of the statutes on the proposal of the Council;
 
-  - (ba) to elect, in accordance with regulations, its members to be members of the Council and to, on the recommendation of the Council, give the approval referred to in paragraph 2 of Statute XVIII; (L.N. 186 of 2003)
+    - (b) (Repealed L.N. 186 of 2003)
 
-  - (c) to consider the annual accounts together with any comments that may have been made by the auditors;
+    - (ba) to elect, in accordance with regulations, its members to be members of the Council and to, on the recommendation of the Council, give the approval referred to in paragraph 2 of Statute XVIII; (L.N. 186 of 2003)
 
-  - (d) to consider any reports that may be made by the Council to the Court;
+    - (c) to consider the annual accounts together with any comments that may have been made by the auditors;
 
-  - (e) to discuss any motion on general University policy that may be introduced by a member; and
+    - (d) to consider any reports that may be made by the Council to the Court;
 
-  - (f) to appoint life members and to prescribe the procedure for making such appointments.
+    - (e) to discuss any motion on general University policy that may be introduced by a member; and
+
+    - (f) to appoint life members and to prescribe the procedure for making such appointments.
 
 - * STATUTE XVIII THE COUNCIL
 
@@ -1138,63 +1156,63 @@ ARRANGEMENT OF STATUTES
 
   - 4. The Registrar shall be the secretary to the Board of each Faculty but shall not be a member thereof. (L.N. 58 of 1976)
 
-- STATUTE XXVII POWERS OF THE BOARDS OF THE FACULTIES Subject to the provisions of the Ordinance and the statutes, the Board of each Faculty shall have power—
+STATUTE XXVII POWERS OF THE BOARDS OF THE FACULTIES Subject to the provisions of the Ordinance and the statutes, the Board of each Faculty shall have power—
 
-  - (a) to advise the Senate on any questions relating to the work of the Faculty; and
+- (a) to advise the Senate on any questions relating to the work of the Faculty; and
 
-  - (b) to do all such other acts and things as may be requisite to perform any duty which the Senate may delegate to it. STATUTE XXVIIA-XXVIIB (Repealed L.N. 83 of 1992)
+- (b) to do all such other acts and things as may be requisite to perform any duty which the Senate may delegate to it.
 
-- STATUTE XXVIII CONVOCATION
+STATUTE XXVIIA-XXVIIB (Repealed L.N. 83 of 1992) STATUTE XXVIII CONVOCATION
 
-  - 1.
+- 1.
 
-    - (1) Convocation shall consist of the following members—
+  - (1) Convocation shall consist of the following members—
 
-      - (a) the Chancellor, the Vice-Chancellor, the Deputy Vice-Chancellor, the Pro-Vice-Chancellors, the Treasurer, the Deans of the Faculties, the Dean of Student Affairs and the Registrar; (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 82 of 1979; L.N. 167 of 1992; L.N. 72 of 1993; L.N. 165 of 1999)
+    - (a) the Chancellor, the Vice-Chancellor, the Deputy Vice-Chancellor, the Pro-Vice-Chancellors, the Treasurer, the Deans of the Faculties, the Dean of Student Affairs and the Registrar; (L.N. 19 of 1971; L.N. 58 of 1976; L.N. 82 of 1979; L.N. 167 of 1992; L.N. 72 of 1993; L.N. 165 of 1999)
 
-      - (b) the Chairs, Professors, Associate Professors, Assistant Professors, Readers, Senior Lecturers, Lecturers, Assistant Lecturers, Tutors and Demonstrators of the University; (20 of 2011 s. 4)
+    - (b) the Chairs, Professors, Associate Professors, Assistant Professors, Readers, Senior Lecturers, Lecturers, Assistant Lecturers, Tutors and Demonstrators of the University; (20 of 2011 s. 4)
 
-      - (c) graduates of the University registered in accordance with regulations made by the Council. (L.N. 112 of 1969)
+    - (c) graduates of the University registered in accordance with regulations made by the Council. (L.N. 112 of 1969)
 
-    - (2) Persons on whom an honorary degree has been conferred shall not, solely by reason thereof, be members of Convocation, but may be elected by Convocation to be members thereof.
+  - (2) Persons on whom an honorary degree has been conferred shall not, solely by reason thereof, be members of Convocation, but may be elected by Convocation to be members thereof.
 
-  - 2. A register of the members of Convocation shall be kept by the Registrar.
+- 2. A register of the members of Convocation shall be kept by the Registrar.
 
-  - 3. Such register shall be conclusive evidence that any person whose name appears therein at the time of claiming to vote in Convocation is entitled to a vote and that any person whose name does not appear therein is not so entitled.
+- 3. Such register shall be conclusive evidence that any person whose name appears therein at the time of claiming to vote in Convocation is entitled to a vote and that any person whose name does not appear therein is not so entitled.
 
-  - 4. The Chancellor, if present, shall preside at the meetings of Convocation.
+- 4. The Chancellor, if present, shall preside at the meetings of Convocation.
 
-  - 4A. There shall be a Standing Committee of Convocation which shall be the executive body of Convocation. (L.N. 15 of 1973)
+- 4A. There shall be a Standing Committee of Convocation which shall be the executive body of Convocation. (L.N. 15 of 1973)
 
-  - 4B. There shall be a Chairman of Convocation who shall at the same time be chairman of the Standing Committee.
+- 4B. There shall be a Chairman of Convocation who shall at the same time be chairman of the Standing Committee.
 
-  - 4C. Convocation may advise the Council on the rules for the time, place and procedure of its meetings and for the conduct of its office bearers and on the regulations for the conduct of Convocation elections.
+- 4C. Convocation may advise the Council on the rules for the time, place and procedure of its meetings and for the conduct of its office bearers and on the regulations for the conduct of Convocation elections.
 
-  - 5. A meeting of Convocation shall be convened at least once in every year and at such other times at the Standing Committee of Convocation may determine. (L.N. 32 of 1981)
+- 5. A meeting of Convocation shall be convened at least once in every year and at such other times at the Standing Committee of Convocation may determine. (L.N. 32 of 1981)
 
-  - 6. A meeting of Convocation may also be convened by the direction of the Chairman thereof and shall be convened at the request in writing of at least 20 members.
+- 6. A meeting of Convocation may also be convened by the direction of the Chairman thereof and shall be convened at the request in writing of at least 20 members.
 
-  - 7. Notice of a meeting of Convocation shall be served in such manner as shall be prescribed by the Standing Committee from time to time. (L.N. 32 of 1981)
+- 7. Notice of a meeting of Convocation shall be served in such manner as shall be prescribed by the Standing Committee from time to time. (L.N. 32 of 1981)
 
-  - 8. 30 members of Convocation shall form a quorum.
+- 8. 30 members of Convocation shall form a quorum.
 
-  - 9. All questions which may arise at a meeting of Convocation shall be decided by a majority of votes of the members present and, in case of an equality of votes, the Chairman shall have a casting vote in addition to his original vote.
+- 9. All questions which may arise at a meeting of Convocation shall be decided by a majority of votes of the members present and, in case of an equality of votes, the Chairman shall have a casting vote in addition to his original vote.
 
-  - 10. Convocation shall have the following powers—
+- 10. Convocation shall have the following powers—
 
-    - (a) to elect members of the Court from among their own number, in accordance with the provisions of Statute XV;
+  - (a) to elect members of the Court from among their own number, in accordance with the provisions of Statute XV;
 
-    - (b) to elect a Chairman, who shall hold office for such period as Convocation may determine and who shall in the absence of the Chancellor preside at its meetings;
+  - (b) to elect a Chairman, who shall hold office for such period as Convocation may determine and who shall in the absence of the Chancellor preside at its meetings;
 
-    - (c) to discuss any matter whatsoever relating to the University including any matter referred to it by the Court or the Council and to report its views on such matter to the Court or the Council or the Senate as the case may be;
+  - (c) to discuss any matter whatsoever relating to the University including any matter referred to it by the Court or the Council and to report its views on such matter to the Court or the Council or the Senate as the case may be;
 
-    - (d) to report its proceedings to the Court, the Council or the Senate; (L.N. 15 of 1973)
+  - (d) to report its proceedings to the Court, the Council or the Senate; (L.N. 15 of 1973)
 
-    - (e) to enter into communication directly with the Court, the Council or the Senate on any matter affecting the University;
+  - (e) to enter into communication directly with the Court, the Council or the Senate on any matter affecting the University;
 
-    - (ea) to solicit funds from amongst its own members and from others for the purposes of the University and to determine the manner in which they may be made available in the form of scholarships, bursaries, or other forms of disbursement; (L.N. 15 of 1973)
+  - (ea) to solicit funds from amongst its own members and from others for the purposes of the University and to determine the manner in which they may be made available in the form of scholarships, bursaries, or other forms of disbursement; (L.N. 15 of 1973)
 
-    - (f) generally to do any other act necessary to give effect to the powers conferred on Convocation by the Ordinance or the statutes.
+  - (f) generally to do any other act necessary to give effect to the powers conferred on Convocation by the Ordinance or the statutes.
 
 - STATUTE XXIX EXAMINATIONS
 
