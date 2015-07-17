@@ -4,7 +4,7 @@
 
 PROVISIONS THAT MAY BE EXPRESSLY OPTED FOR OR AUTOMATICALLY APPLY
 
-- 1. Sole arbitrator Despite section 23, any dispute arising between the parties to an arbitration agreement is to be submitted to a sole arbitrator for arbitration.
+- 1. Sole arbitrator If the parties to an arbitration agreement fail to agree on the number of arbitrators, any dispute arising between the parties is to be submitted to a sole arbitrator for arbitration. (Amended 11 of 2015 s. 6)
 
 - 2. Consolidation of arbitrations
 
@@ -46,13 +46,9 @@ PROVISIONS THAT MAY BE EXPRESSLY OPTED FOR OR AUTOMATICALLY APPLY
 
     - (b) accordingly, does not have the power to order a party to any of those arbitral proceedings that are heard at the same time or one immediately after another to pay the costs of a party to any other of those proceedings unless the arbitral tribunal is the same tribunal hearing all of those arbitral proceedings.
 
-    - (6) An order, direction or decision of the Court under this section is not subject to appeal.
+  - (6) An order, direction or decision of the Court under this section is not subject to appeal.
 
-- 3.
-
-- Decision of preliminary question
-
-- of law by Court
+- 3. Decision of preliminary question of law by Court
 
   - (1) The Court may, on the application of any party to arbitral proceedings, decide any question of law arising in the course of the arbitral proceedings.
 
@@ -72,9 +68,7 @@ PROVISIONS THAT MAY BE EXPRESSLY OPTED FOR OR AUTOMATICALLY APPLY
 
   - (5) The leave of the Court or the Court of Appeal is required for any appeal from a decision of the Court under subsection (1).
 
-- 4. Challenging arbitral award on ground
-
-- of serious irregularity
+- 4. Challenging arbitral award on ground of serious irregularity
 
   - (1) A party to arbitral proceedings may apply to the Court challenging an award in the arbitral proceedings on the ground of serious irregularity affecting the tribunal, the arbitral proceedings or the award.
 
@@ -118,9 +112,7 @@ PROVISIONS THAT MAY BE EXPRESSLY OPTED FOR OR AUTOMATICALLY APPLY
 
   - (7) Section 7 of this Schedule also applies to an application or appeal under this section.
 
-- 5. Appeal against arbitral award
-
-- on question of law
+- 5. Appeal against arbitral award on question of law
 
   - (1) Subject to section 6 of this Schedule, a party to arbitral proceedings may appeal to the Court on a question of law arising out of an award made in the arbitral proceedings.
 
@@ -158,11 +150,7 @@ PROVISIONS THAT MAY BE EXPRESSLY OPTED FOR OR AUTOMATICALLY APPLY
 
   - (10) Sections 6 and 7 of this Schedule also apply to an appeal or further appeal under this section.
 
-- 6. Application for leave to appeal
-
-- against arbitral award on
-
-- question of law
+- 6. Application for leave to appeal against arbitral award on question of law
 
   - (1) An appeal under section 5 of this Schedule on a question of law may not be brought by a party to arbitral proceedings except—
 
@@ -198,9 +186,7 @@ PROVISIONS THAT MAY BE EXPRESSLY OPTED FOR OR AUTOMATICALLY APPLY
 
     - (b) the question is one which, for some other special reason, should be considered by the Court.
 
-- 7. Supplementary provisions on challenge
-
-- to or appeal against arbitral award
+- 7. Supplementary provisions on challenge to or appeal against arbitral award
 
   - (1) An application or appeal under section 4, 5 or 6 of this Schedule may not be brought if the applicant or appellant has not first exhausted—
 
