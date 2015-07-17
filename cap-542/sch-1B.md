@@ -4,206 +4,216 @@
 
 Composition of the Sports, Performing Arts, Culture and Publication Functional Constituency
 
-- Part 1 District Sports Associations Item Body
+- Part 1 District Sports Associations
 
-  - 1. Central & Western District Recreation & Sports Association.
+- Item | Body
 
-  - 2. Eastern District Recreation & Sports Advancement Association Ltd.
+- 1. | Central & Western District Recreation & Sports Association.
 
-  - 3. The Federation of Tsuen Wan District Sports & Recreation Association Ltd.
+- 2. | Eastern District Recreation & Sports Advancement Association Ltd.
 
-  - 4. Islands District Sports Association.
+- 3. | The Federation of Tsuen Wan District Sports & Recreation Association Ltd.
 
-  - 5. Kowloon City District Recreation and Sports Council Limited. (Replaced 7 of 2008 s. 8)
+- 4. | Islands District Sports Association.
 
-  - 6. Kwai Tsing District Sports Association Limited. (Replaced 7 of 2008 s. 8)
+- 5. | Kowloon City District Recreation and Sports Council Limited. (Replaced 7 of 2008 s. 8)
 
-  - 7. Kwun Tong Sports Promotion Association Ltd.
+- 6. | Kwai Tsing District Sports Association Limited. (Replaced 7 of 2008 s. 8)
 
-  - 8. Mong Kok District Cultural, Recreational and Sports Association Limited. (Replaced 25 of 2003 s. 45)
+- 7. | Kwun Tong Sports Promotion Association Ltd.
 
-  - 9. North District Sports Association Limited. (Amended 2 of 2011 s. 34)
+- 8. | Mong Kok District Cultural, Recreational and Sports Association Limited. (Replaced 25 of 2003 s. 45)
 
-  - 10. Sai Kung District Sports Association Ltd.
+- 9. | North District Sports Association Limited. (Amended 2 of 2011 s. 34)
 
-  - 11. Sha Tin Sports Association Ltd.
+- 10. | Sai Kung District Sports Association Ltd.
 
-  - 12. Sham Shui Po Sports Association Limited. (Amended 2 of 2011 s. 34)
+- 11. | Sha Tin Sports Association Ltd.
 
-  - 13. Southern District Recreation and Sports Association Limited. (Amended 10 of 2006 s. 44)
+- 12. | Sham Shui Po Sports Association Limited. (Amended 2 of 2011 s. 34)
 
-  - 14. Tai Po Sports Association Ltd.
+- 13. | Southern District Recreation and Sports Association Limited. (Amended 10 of 2006 s. 44)
 
-  - 15. Tuen Mun Sports Association Limited.
+- 14. | Tai Po Sports Association Ltd.
 
-  - 16. Wan Chai District Arts Cultural Recreational and Sports Association Limited. (Amended 10 of 2006 s. 44)
+- 15. | Tuen Mun Sports Association Limited.
 
-  - 17. Wong Tai Sin District Recreation & Sports Council.
+- 16. | Wan Chai District Arts Cultural Recreational and Sports Association Limited. (Amended 10 of 2006 s. 44)
 
-  - 18. Yaumatei and Tsimshatsui Recreation & Sports Association Ltd.
+- 17. | Wong Tai Sin District Recreation & Sports Council.
 
-  - 19. Yuen Long District Sports Association Ltd.
+- 18. | Yaumatei and Tsimshatsui Recreation & Sports Association Ltd.
 
-- Part 2 District Arts and Culture Associations Item Body
+- 19. | Yuen Long District Sports Association Ltd.
 
-  - 1. Central and Western District Association for Culture and Arts.
+- Part 2 District Arts and Culture Associations
 
-  - 2. Eastern District Arts Council.
+- Item | Body
 
-  - 3. Kowloon City District Arts and Culture Council.
+- 1. | Central and Western District Association for Culture and Arts.
 
-  - 4. Kwai Chung and Tsing Yi District Culture and Arts Co-ordinating Association Limited.
+- 2. | Eastern District Arts Council Limited. (Amended 14 of 2015 s. 12)
 
-  - 5. Kwun Tong District Culture and Recreation Promotion Association. (Replaced 25 of 2003 s. 45)
+- 3. | Kowloon City District Arts and Culture Council.
 
-  - 6. North District Arts Advancement Association Limited.
+- 4. | Kwai Chung and Tsing Yi District Culture and Arts Co-ordinating Association Limited.
 
-  - 7. Sai Kung Culture & Recreational Advancement Association. (Replaced 25 of 2003 s. 45)
+- 5. | Kwun Tong District Culture and Recreation Promotion Association. (Replaced 25 of 2003 s. 45)
 
-  - 8. Sha Tin Arts Association Limited.
+- 6. | North District Arts Advancement Association Limited.
 
-  - 9. Sham Shui Po Arts Association Limited. (Amended 10 of 2006 s. 44)
+- 7. | Sai Kung Culture & Recreational Advancement Association. (Replaced 25 of 2003 s. 45)
 
-  - 10. Southern District Arts and Culture Association Limited.
+- 8. | Sha Tin Arts Association Limited.
 
-  - 11. Tai Po District Arts Advancement Association.
+- 9. | Sham Shui Po Arts Association Limited. (Amended 10 of 2006 s. 44)
 
-  - 12. Tsuen Wan Culture & Recreation Co-ordinating Association Limited.
+- 10. | Southern District Arts and Culture Association Limited.
 
-  - 13. Tuen Mun Arts Promotion Association.
+- 11. | Tai Po District Arts Advancement Association.
 
-  - 14. Wong Tai Sin District Arts Council.
+- 12. | Tsuen Wan Culture & Recreation Co-ordinating Association Limited.
 
-  - 15. Yau Ma Tei and Tsim Sha Tsui Culture and Arts Association Limited.
+- 13. | Tuen Mun Arts Promotion Association.
 
-  - 16. Yuen Long District Arts Committee.
+- 14. | Wong Tai Sin District Arts Council.
 
-- Part 3 Other Bodies Item Body
+- 15. | Yau Ma Tei and Tsim Sha Tsui Culture and Arts Association Limited.
 
-  - 1. All Stars Sports Association Ltd.
+- 16. | Yuen Long District Arts Committee.
 
-  - 2. The Song Writers’ Association of Hong Kong. (Amended 10 of 2006 s. 44)
+- Part 3 Other Bodies
 
-  - 3. Artiste Training Alumni Association Limited.
+- Item | Body
 
-  - 4. (Repealed 25 of 2003 s. 45)
+- 1. | All Stars Sports Association Ltd.
 
-  - 5. Composers and Authors Society of Hong Kong Limited.
+- 2. | The Song Writers’ Association of Hong Kong. (Amended 10 of 2006 s. 44)
 
-  - 6. Friends of the Art Museum, The Chinese University of Hong Kong Limited.
+- 3. | Artiste Training Alumni Association Limited.
 
-  - 7. The Friends of the Hong Kong Museum of Art.
+- 4. | (Repealed 25 of 2003 s. 45)
 
-  - 8. (Repealed 25 of 2003 s. 45)
+- 5. | Composers and Authors Society of Hong Kong Limited.
 
-  - 9. HK Film Directors’ Guild Ltd.
+- 6. | Friends of the Art Museum, The Chinese University of Hong Kong Limited.
 
-  - 10. Hong Kong Anthropological Society.
+- 7. | The Friends of the Hong Kong Museum of Art.
 
-  - 11. Hong Kong Archaeological Society.
+- 8. | (Repealed 25 of 2003 s. 45)
 
-  - 12. (Repealed 25 of 2003 s. 45)
+- 9. | HK Film Directors’ Guild Ltd.
 
-  - 13. The Hong Kong Children’s Choir.
+- 10. | Hong Kong Anthropological Society.
 
-  - 14. Hong Kong Chinese Orchestra Limited. (Amended 10 of 2006 s. 44)
+- 11. | Hong Kong Archaeological Society.
 
-  - 15. Hong Kong Chinese Press Association.
+- 12. | (Repealed 25 of 2003 s. 45)
 
-  - 16. Hong Kong & Macau Cinema and Theatrical Enterprise Association Limited. (Replaced 25 of 2003 s. 45)
+- 13. | The Hong Kong Children’s Choir.
 
-  - 17. Hong Kong Cinematography Lighting Association Limited. (Amended 10 of 2006 s. 44)
+- 14. | Hong Kong Chinese Orchestra Limited. (Amended 10 of 2006 s. 44)
 
-  - 18. (Repealed 25 of 2003 s. 45)
+- 15. | Hong Kong Chinese Press Association.
 
-  - 19. Hong Kong Curators Association.
+- 16. | Hong Kong & Macau Cinema and Theatrical Enterprise Association Limited. (Replaced 25 of 2003 s. 45)
 
-  - 20. Hong Kong Dance Company Limited. (Replaced 25 of 2003 s. 45)
+- 17. | Hong Kong Cinematography Lighting Association Limited. (Amended 10 of 2006 s. 44)
 
-  - 21. Hong Kong Federation of Journalists Ltd.
+- 18. | (Repealed 25 of 2003 s. 45)
 
-  - 22. Hong Kong Festival Fringe Ltd.
+- 19. | Hong Kong Curators Association.
 
-  - 23. Hong Kong Film Academy.
+- 20. | Hong Kong Dance Company Limited. (Replaced 25 of 2003 s. 45)
 
-  - 24. Hong Kong Film Arts Association Limited.
+- 21. | Hong Kong Federation of Journalists Ltd.
 
-  - 25. (Repealed 25 of 2003 s. 45)
+- 22. | Hong Kong Festival Fringe Ltd.
 
-  - 26. Hong Kong History Society.
+- 23. | Hong Kong Film Academy.
 
-  - 27. The Hong Kong Intellectual Property Society Limited. (Replaced 7 of 2008 s. 8)
+- 24. | Hong Kong Film Arts Association Limited.
 
-  - 28. Hong Kong Journalists Association.
+- 25. | (Repealed 25 of 2003 s. 45)
 
-  - 29. (Repealed 25 of 2003 s. 45)
+- 26. | Hong Kong History Society.
 
-  - 30. (Repealed 7 of 2008 s. 8)
+- 27. | The Hong Kong Intellectual Property Society Limited. (Replaced 7 of 2008 s. 8)
 
-  - 31. Hong Kong Museum of Medical Sciences Society.
+- 28. | Hong Kong Journalists Association.
 
-  - 32. Hong Kong News Executives’ Association, Limited. (Replaced 25 of 2003 s. 45)
+- 29. | (Repealed 25 of 2003 s. 45)
 
-  - 33. Hong Kong PEN (English) Centre.
+- 30. | (Repealed 7 of 2008 s. 8)
 
-  - 34. Hong Kong Performing Artistes Guild Ltd.
+- 31. | Hong Kong Museum of Medical Sciences Society.
 
-  - 35. Hong Kong Philharmonic Orchestra.
+- 32. | Hong Kong News Executives’ Association, Limited. (Replaced 25 of 2003 s. 45)
 
-  - 36. Hong Kong Press Photographers Association.
+- 33. | Hong Kong PEN (English) Centre.
 
-  - 37. Hong Kong Recreation Management Association Limited. (Replaced 25 of 2003 s. 45)
+- 34. | Hong Kong Performing Artistes Guild Ltd.
 
-  - 38. Hong Kong Repertory Theatre Limited. (Replaced 25 of 2003 s. 45)
+- 35. | Hong Kong Philharmonic Orchestra.
 
-  - 39. Hong Kong Screen Writers’ Guild Ltd.
+- 36. | Hong Kong Press Photographers Association.
 
-  - 40. Hong Kong Sports Association of the Deaf.
+- 37. | Hong Kong Recreation Management Association Limited. (Replaced 25 of 2003 s. 45)
 
-  - 41. Hong Kong Sports Press Association Ltd.
+- 38. | Hong Kong Repertory Theatre Limited. (Replaced 25 of 2003 s. 45)
 
-  - 42. Hong Kong Stuntman Association Ltd.
+- 39. | Hong Kong Screen Writers’ Guild Ltd.
 
-  - 43. Hong Kong Tai Chi Association.
+- 40. | Hong Kong Sports Association of the Deaf.
 
-  - 44. (Repealed 25 of 2003 s. 45)
+- 41. | Hong Kong Sports Press Association Ltd.
 
-  - 45. Hong Kong United Arts Entertainment Co. Ltd.
+- 42. | Hong Kong Stuntman Association Ltd.
 
-  - 46-47. (Repealed 25 of 2003 s. 45)
+- 43. | Hong Kong Tai Chi Association.
 
-  - 48. Min Chiu Society.
+- 44. | (Repealed 25 of 2003 s. 45)
 
-  - 49. (Repealed 25 of 2003 s. 45)
+- 45. | Hong Kong United Arts Entertainment Co. Ltd.
 
-  - 50. The New Territories Regional Sports Association. (Replaced 11 of 2012 s. 37)
+- 46-47. | (Repealed 25 of 2003 s. 45)
 
-  - 51. The Newspaper Society of Hong Kong.
+- 48. | Min Chiu Society.
 
-  - 52. Pop-Music Authors Society of Hong Kong.
+- 49. | (Repealed 25 of 2003 s. 45)
 
-  - 53. The Hong Kong Branch of the Royal Asiatic Society. (Amended 10 of 2006 s. 44)
+- 50. | The New Territories Regional Sports Association. (Replaced 11 of 2012 s. 37)
 
-  - 54. Sail Training Association of Hong Kong Limited. (Replaced 25 of 2003 s. 45)
+- 51. | The Newspaper Society of Hong Kong.
 
-  - 55. Society of Cinematographers (Hong Kong) Limited.
+- 52. | Pop-Music Authors Society of Hong Kong.
 
-  - 56. Society of Film Editors (HK) Ltd.
+- 53. | The Hong Kong Branch of the Royal Asiatic Society. (Amended 10 of 2006 s. 44)
 
-  - 57. South China Film Industry Workers’ Union. (Amended 10 of 2006 s. 44)
+- 54. | Sail Training Association of Hong Kong Limited. (Replaced 25 of 2003 s. 45)
 
-  - 58. South China Research Circle.
+- 55. | Society of Cinematographers (Hong Kong) Limited.
 
-  - 59. The Hong Kong Swimming Teachers’ Association Limited. (Amended 2 of 2011 s. 34)
+- 56. | Society of Film Editors (HK) Ltd.
 
-  - 60. (Repealed 25 of 2003 s. 45)
+- 57. | South China Film Industry Workers’ Union. (Amended 10 of 2006 s. 44)
 
-  - 61. Videotage.
+- 58. | South China Research Circle.
 
-  - 62. Zuni Icosahedron.
+- 59. | The Hong Kong Swimming Teachers’ Association Limited. (Amended 2 of 2011 s. 34)
 
-  - 63. Federation of Hong Kong Filmmakers Limited. (Added 25 of 2003 s. 45. Amended 10 of 2006 s. 44)
+- 60. | (Repealed 25 of 2003 s. 45)
 
-  - 64. Hong Kong Movie Production Executives Association Limited. (Added 25 of 2003 s. 45)
+- 61. | Videotage.
 
-  - 65. Hong Kong Sports Institute Limited. (Added 7 of 2008 s. 8) (Added 48 of 1999 s. 43)
+- 62. | Zuni Icosahedron.
+
+- 63. | Federation of Hong Kong Filmmakers Limited. (Added 25 of 2003 s. 45. Amended 10 of 2006 s. 44)
+
+- 64. | Hong Kong Movie Production Executives Association Limited. (Added 25 of 2003 s. 45)
+
+- 65. | Hong Kong Sports Institute Limited. (Added 7 of 2008 s. 8)
+
+- 66. | The Federation of Motion Film Producers of Hong Kong Limited. (Added 14 of 2015 s. 12)
+
+- (Added 48 of 1999 s. 43)

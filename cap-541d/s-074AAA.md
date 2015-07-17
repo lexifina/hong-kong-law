@@ -4,11 +4,15 @@
 
 (2) At the central counting station, the Returning Officer for the District Council (second) functional constituency must, in relation to the FC ballot papers in the ballot boxes given into that Officer’s charge under section 72, in the counting zone for that functional constituency—
 
-- (a) count and record the number of FC ballot papers from each polling station;
+- (a) before counting the votes for the FC ballot papers from any small polling station or dedicated polling station in accordance with section 77A—
 
-- (b) verify the ballot paper account by comparing it with the number recorded under paragraph (a);
+  - (i) count and record the number of FC ballot papers from each of those polling stations; and
 
-- (c) prepare a statement in writing as to the result of the verification;
+  - (ii) verify the number by comparing it with the ballot paper account; (14 of 2015 s. 17)
+
+- (b) after counting the votes for the FC ballot papers from each polling station (other than a small polling station or dedicated polling station) in accordance with section 77A, verify the number of the FC ballot papers recorded in the counting process by comparing the number with the ballot paper account; (14 of 2015 s. 17)
+
+- (c) prepare a statement in writing as to the respective result of the verification under paragraphs (a) and (b); (14 of 2015 s. 17)
 
 - (d) in case there are any GC ballot papers in the ballot boxes—
 

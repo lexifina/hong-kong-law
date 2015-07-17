@@ -244,7 +244,7 @@ Election Committee
 
   - 1. | Accountancy | 30
 
-  - 2. | Architectural, surveying and planning | 30
+  - 2. | Architectural, surveying, planning and landscape | 30
 
   - 3. | Chinese medicine | 30
 
@@ -262,7 +262,7 @@ Election Committee
 
   - 10. | Medical | 30
 
-  - (Amended 1 of 2011 s. 9)
+  - (Amended 1 of 2011 s. 9; 14 of 2015 s. 15)
 
   - Table 3 Third Sector
 
@@ -346,23 +346,15 @@ Election Committee
 
   - (d) The Hong Kong Academy for Performing Arts;
 
-  - (e) The Open University of Hong Kong; (Amended 25 of 2003 s. 56)
+  - (e) The Open University of Hong Kong. (Amended 25 of 2003 s. 56; 14 of 2015 s. 15)
 
-  - (f) the School of Continuing and Professional Education of the City University of Hong Kong; (Added 25 of 2003 s. 56)
+  - (f)-(m) (Repealed 14 of 2015 s. 15)
 
-  - (g) the School of Continuing Education of the Hong Kong Baptist University; (Added 25 of 2003 s. 56)
+  - (1A) Full-time academic staff engaged in teaching or research and administrative staff of equivalent rank in the institutions which—
 
-  - (h) the Lingnan Institute of Further Education of the Lingnan University; (Added 25 of 2003 s. 56)
+  - (a) offer post secondary education leading to the award of any qualification entered into the Qualifications Register established under the Accreditation of Academic and Vocational Qualifications Ordinance (Cap. 592); and (b) are set up by—
 
-  - (i) the School of Continuing and Professional Studies of The Chinese University of Hong Kong; (Replaced 1 of 2011 s. 9)
-
-  - (j) HKIEd School of Continuing and Professional Education Limited; (Replaced 1 of 2011 s. 9)
-
-  - (k) the School of Professional Education and Executive Development of The Hong Kong Polytechnic University; (Added 25 of 2003 s. 56)
-
-  - (l) the HKUST College of Lifelong Learning Limited; (Added 25 of 2003 s. 56)
-
-  - (m) the HKU School of Professional and Continuing Education. (Added 25 of 2003 s. 56)
+  - (i) an institution of higher education funded through the University Grants Committee; (ii) The Hong Kong Academy for Performing Arts; or (iii) The Open University of Hong Kong. (Added 14 of 2015 s. 15)
 
   - (2) Members of—
 
@@ -390,7 +382,19 @@ Election Committee
 
   - (l) the Board of Governors of the Hong Kong Shue Yan University; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
 
-  - (m) the Board of Governors of the Caritas Institute of Higher Education. (Added 25 of 2003 s. 56. Amended 11 of 2012 s. 39)
+  - (m) the Board of Governors of the Caritas Institute of Higher Education; (Added 25 of 2003 s. 56. Amended 11 of 2012 s. 39; 14 of 2015 s. 15)
+
+  - (n) the Board of Governors of the Chu Hai College of Higher Education; (Added 14 of 2015 s. 15)
+
+  - (o) the Board of Governors of the Centennial College; (Added 14 of 2015 s. 15)
+
+  - (p) the Board of Governors of the Tung Wah College; (Added 14 of 2015 s. 15)
+
+  - (q) the Board of Governors of the Hang Seng Management College; (Added 14 of 2015 s. 15)
+
+  - (r) the Board of Governors of the Hong Kong Nang Yan College of Higher Education; (Added 14 of 2015 s. 15)
+
+  - (s) the Board of Governors of the HKCT Institute of Higher Education. (Added 14 of 2015 s. 15)
 
   - 6. | Education | (1) Registered teachers registered under the Education Ordinance (Cap. 279).
 
@@ -724,7 +728,7 @@ Election Committee
 
         - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of, or Part 1 of Schedule 1B or item 40, 41, 43, 50, 54, 59 or 65 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the sports sub-subsector; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
 
-        - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i), (ka) or (kb) of, or item 1, 2, 3, 5, 9, 16, 17, 23, 24, 34, 39, 42, 45, 52, 55, 56, 57, 63 or 64 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the performing arts sub-subsector; (Amended 25 of 2003 s. 56)
+        - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i), (ka) or (kb) of, or item 1, 2, 3, 5, 9, 16, 17, 23, 24, 34, 39, 42, 45, 52, 55, 56, 57, 63, 64 or 66 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the performing arts sub-subsector; (Amended 25 of 2003 s. 56; 14 of 2015 s. 16)
 
         - (c) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(d) or (e) of, or Part 2 of Schedule 1B or item 6, 7, 10, 11, 13, 14, 19, 20, 22, 26, 27, 31, 33, 35, 37, 38, 48, 53, 58, 61 or 62 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the culture sub-subsector; and
 
