@@ -72,8 +72,11 @@ s-020A.md
 s-020AA.md
 s-020AB.md
 s-020AC.md
+s-020ACA.md
+s-020ACB.md
 s-020AD.md
 s-020AE.md
+s-020AF.md
 s-020B.md
 s-021.md
 s-021A.md
@@ -233,6 +236,7 @@ s-093.md
 s-094.md
 s-095.md
 s-096.md
+s-097.md
 sch-1.md
 sch-2.md
 sch-3.md
@@ -252,6 +256,7 @@ sch-12.md
 sch-13.md
 sch-14.md
 sch-15.md
+sch-15A.md
 sch-16.md
 sch-17.md
 sch-17A.md
@@ -270,3 +275,5 @@ sch-29.md
 sch-30.md
 sch-31.md
 sch-32.md
+sch-33.md
+sch-34.md

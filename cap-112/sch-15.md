@@ -1,20 +1,30 @@
 # Schedule 15
 
-[ss. 20AB & 20AE]
+[ss. 20AB & 20AE & Sch. 15A] (Amended 13 of 2015 s. 9)
 
-Provisions for Ascertaining Amount of Assessable Profits of Resident Person under Section 20AE of this Ordinance
+Provisions for Ascertaining Amount of Assessable Profits of Resident Person under Section 20AE
+
+(Amended 13 of 2015 s. 9) (Schedule 15 added 4 of 2006 s. 4. Amended E.R. 1 of 2012)
 
 - Part 1
 
-  - 1. The amount regarded as the assessable profits of a resident person for a year of assessment is the total sum arrived at by adding up the assessable profits of the non-resident person that would have been chargeable to tax under Part 4 of this Ordinance but for section 20AC of this Ordinance (exempt profits) for each day in the period in that year of assessment during which the resident person has a direct or indirect beneficial interest in the non-resident person.
+  - 1. The amount regarded as the assessable profits of a resident person for a year of assessment is the total sum arrived at by adding up the assessable profits of the non-resident person that would have been chargeable to tax under Part 4 but for section 20AC (exempt profits) for each day in the period in that year of assessment during which the resident person has a direct or indirect beneficial interest in the non-resident person. (Amended 13 of 2015 s. 9)
 
-  - 2. For the purposes of section 1, the exempt profits of a non-resident person for a particular day in a year of assessment are to be ascertained in accordance with the following formula— B × C A = —
+  - 2. For the purposes of section 1 of this Part, the exempt profits of a non-resident person for a particular day in a year of assessment are to be ascertained in accordance with the following formula— (Amended 13 of 2015 s. 9)
 
-  - D where: A means the exempt profits of the non-resident person for a particular day in a year of assessment; B means the extent of the resident person’s beneficial interest in the non-resident person on the particular day, expressed as a percentage determined in accordance with Part 2;
+  - A = | B × C
 
-  - C means the exempt profits of the non-resident person for the accounting period of the non-resident person in which the particular day falls;
+  - D
 
-  - D means the total number of days in the accounting period of the non-resident person in which the particular day falls.
+  - where: | A | means the exempt profits of the non-resident person for a particular day in a year of assessment;
+
+  - B | means the extent of the resident person’s beneficial interest in the non-resident person on the particular day, expressed as a percentage determined in accordance with Part 2 of this Schedule;
+
+  - C | means the exempt profits of the non-resident person for the accounting period of the non-resident person in which the particular day falls;
+
+  - D | means the total number of days in the accounting period of the non-resident person in which the particular day falls.
+
+  - (Amended 13 of 2015 s. 9)
 
 - Part 2
 
@@ -36,16 +46,16 @@ Provisions for Ascertaining Amount of Assessable Profits of Resident Person unde
 
       - (ii) the percentage representing the extent of the beneficial interest of the last interposed person in the series in the non-resident person.
 
-  - 3. For the purposes of section 2—
+  - 3. For the purposes of section 2 of this Part— (Amended 13 of 2015 s. 9)
 
-    - (a) section 1 applies in determining the extent of the beneficial interest of a resident person in an interposed person as if references to a non-resident person in that section were references to an interposed person;
+    - (a) section 1 of this Part applies in determining the extent of the beneficial interest of a resident person in an interposed person as if references to a non-resident person in that section were references to an interposed person;
 
-    - (b) section 1 applies in determining the extent of the beneficial interest of an interposed person in a non-resident person as if references to a resident person in that section were references to an interposed person;
+    - (b) section 1 of this Part applies in determining the extent of the beneficial interest of an interposed person in a non-resident person as if references to a resident person in that section were references to an interposed person;
 
-    - (c) section 1 applies in determining the extent of the beneficial interest of an interposed person (first-mentioned interposed person) in another interposed person (second-mentioned interposed person) as if—
+    - (c) section 1 of this Part applies in determining the extent of the beneficial interest of an interposed person (first-mentioned interposed person) in another interposed person (second-mentioned interposed person) as if— (Amended 13 of 2015 s. 9)
 
       - (i) references to a resident person in that section were references to the first-mentioned interposed person; and
 
       - (ii) references to a non-resident person in that section were references to the second-mentioned interposed person.
 
-  - (Schedule 15 added 4 of 2006 s. 4. Amended E.R. 1 of 2012)
+    - (Amended 13 of 2015 s. 9)

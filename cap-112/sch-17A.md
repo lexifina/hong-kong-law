@@ -704,7 +704,7 @@ Note— The following is an overview of the content of this Schedule and does no
 
       - (5) Section 16(2)(f) of this Ordinance is to apply to additional payments payable on alternative bonds under the qualified bond arrangement by the bond-issuer as if they were interest payable on debentures or instruments by the bond-issuer.
 
-      - (6) Section 20AC of this Ordinance and item 1 of Schedule 16 are to apply as if alternative bonds issued under the qualified bond arrangement were bonds for the purposes of paragraph (a) of the definition of securities in that Schedule.
+      - (6) Section 20AC of this Ordinance and item 1 of Part 1 of Schedule 16 are to apply as if alternative bonds issued under the qualified bond arrangement were bonds for the purposes of paragraph (a) of the definition of securities in that Schedule. (Amended 13 of 2015 s. 12)
 
       - (7) For the purposes of section 26A of this Ordinance, the qualified bond arrangement is to be regarded as not being a mutual fund, unit trust or similar investment scheme described in subsection (1A)(a) of that section.
 
