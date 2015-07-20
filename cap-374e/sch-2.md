@@ -8,7 +8,7 @@ Fee $
 
 Certificate of particulars in the register fee (L.N. 201 of 1995) | 45
 
-Registration fee (L.N. 201 of 1995; L.N. 171 of 2005) | 83
+Registration fee (L.N. 201 of 1995; L.N. 171 of 2005; L.N. 92 of 2015) | 91
 
 Transfer of registration mark fee | 560
 
@@ -20,9 +20,9 @@ Transfer of ownership fee
 
 Duplicate registration document fee, duplicate vehicle licence fee other than in the case of a rickshaw, or duplicate certificate of allocation fee (25 of 2005 s. 27) | 60
 
-Duplicate vehicle licence fee in the case of a rickshaw | 10
+Duplicate vehicle licence fee in the case of a rickshaw (L.N. 92 of 2015) | 12
 
-Duplicate trade licence or permit | 65
+Duplicate trade licence or permit (L.N. 92 of 2015) | 75
 
 (L.N. 300 of 1990; L.N. 267 of 1994; L.N 525 of 1996; L.N. 28 of 1998; L.N. 141 of 1998)
 
@@ -86,13 +86,13 @@ and in addition to the appropriate fee mentioned above, in the case of a private
 
 9. | Motor tricycle | 1200
 
-10. | Invalid carriage | 12
+10. | Invalid carriage (L.N. 92 of 2015) | 14
 
 11. | Public light bus | 8315
 
 12. | Private light bus | 2635
 
-13. | Rickshaw | 50
+13. | Rickshaw (L.N. 92 of 2015) | 55
 
 (18 of 1989 s. 3; 26 of 1990 s. 3; 40 of 1991 s. 8)
 
@@ -114,9 +114,9 @@ Permit and Certificate Fees Fee $
 
 7. Goods permit | 260
 
-8. Excess passengers permit | 155
+8. Excess passengers permit (L.N. 92 of 2015) | 170
 
-9. Movement permit | 560
+9. Movement permit (L.N. 92 of 2015) | 670
 
 10. Long load permit | 200
 
