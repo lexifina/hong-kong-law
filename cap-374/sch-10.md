@@ -16,7 +16,7 @@ Requirements Applicable to Vehicle Emission Testing Centres
 
   - (c) in the ownership of the vehicle emission testing centre, or the financial status of the proprietor, or any other matter specified by the Commissioner.
 
-- 4. Subject to any practice laid down in the code of practice, the vehicle emission testing centre shall test any motor vehicle produced to it for testing for purposes of Part 8A of the Ordinance.
+- 4. Subject to any practice laid down in the code of practice, the vehicle emission testing centre shall test any motor vehicle produced to it for testing for the purposes of Part 8A of the Ordinance.
 
 - 5. Notices in a form approved by the Commissioner shall be prominently displayed at the vehicle emission testing centre indicating and stating—
 
@@ -36,12 +36,22 @@ Requirements Applicable to Vehicle Emission Testing Centres
 
   - (h) a warning against the commission of offences under the Prevention of Bribery Ordinance (Cap. 201) and the Independent Commission Against Corruption Ordinance (Cap. 204).
 
-  - 6. | Fees
+- 6.
 
-  - (a) Fee payable for designation or renewal of designation of a place as a vehicle emission testing centre. | $2,840
+- Fees
 
-  - (b) Fee to be charged in respect of a test of a motor vehicle. | $310
+- (a) Fee payable for designation or renewal of designation of a place as a vehicle emission testing centre. | $2,840
 
-  - (c) Fee payable for supply of form of certificate of compliance. | $30 for each form of certificate.
+- (b) Fee payable in respect of a test of a motor vehicle—
 
-- (Amended L.N. 273 of 1994; L.N. 500 of 1996; L.N. 585 of 1997) (Schedule 10 Added 3 of 1991 s. 13. Amended E.R. 2 of 2012)
+- (i) for a motor vehicle with a positive-ignition engine; | $465
+
+- (ii) for a motor vehicle with a compression-ignition engine and having a permitted gross vehicle weight not exceeding 5.5 tonnes; | $520
+
+- (iii) for a motor vehicle with a compression-ignition engine and having a permitted gross vehicle weight exceeding 5.5 tonnes. (Replaced L.N. 90 of 2015 and L.N. 171 of 2015) | $495
+
+- (c) Fee payable for supply of form of certificate of compliance. | $30 for each form of certificate.
+
+- (Amended L.N. 273 of 1994; L.N. 500 of 1996; L.N. 585 of 1997)
+
+(Schedule 10 added 3 of 1991 s. 13. Amended E.R. 2 of 2012)
