@@ -86,6 +86,6 @@ but each ticket is subject to a maximum of (L.N. 71 of 1999) | 85
 
 16. | Operation Area Permit
 
-per m2 of area per month (L.N. 71 of 1999) | 10.5
+per m2 of area per month (L.N. 71 of 1999) | 11
 
 (L.N. 252 of 1992; L.N. 338 of 1993; L.N. 419 of 1993; L.N. 513 of 1994; L.N. 321 of 1995; L.N. 480 of 1995; L.N. 71 of 1999; L.N. 279 of 1999; L.N. 148 of 2014)
