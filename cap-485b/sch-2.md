@@ -16,25 +16,29 @@ MANDATORY CONDITIONS
 
     - “final average monthly relevant income” (最終每月平均有關入息), in relation to a member of a relevant scheme, means the member’s relevant income per month averaged over whichever of the following is applicable—
 
-      - (a) if the member has been a member of the scheme for not less than 12 months after the relevant date, the period of 12 months (excluding any unpaid leave or maternity leave taken by the member pursuant to any enactment or contract) immediately preceding—
+      - (a) if the member has been a member of the scheme for not less than 12 months after the relevant date, the period of 12 months (excluding any unpaid leave or maternity leave taken by the member pursuant to any enactment or contract) immediately preceding the earliest of the following— (1 of 2015 s. 53)
 
         - (i) the date of termination of his employment;
 
         - (ii) in the case of the winding up of the scheme, the date on which the member ceases to be a member of the scheme;
 
-        - (iii) in the case of the withdrawal (including deemed withdrawal) under this Regulation of the exemption certificate which applies to the scheme, the date of the coming into effect of the withdrawal;
+        - (iii) in the case of the withdrawal (including deemed withdrawal) under this Regulation of the exemption certificate which applies to the scheme, the date of the coming into effect of the withdrawal; or (1 of 2015 s. 53)
 
-      - (b) in any other case, the period (excluding any unpaid leave or maternity leave taken by the member pursuant to any enactment or contract) since the date the member joined the scheme or the relevant date, whichever is the later, to—
+        - (iv) the date on which the trustee of the scheme receives the latest claim lodged by the member under section 6(9A) for which benefits have not been paid; (1 of 2015 s. 53)
+
+      - (b) in any other case, the period (excluding any unpaid leave or maternity leave taken by the member pursuant to any enactment or contract) since the date the member joined the scheme or the relevant date, whichever is the later, to the earliest of the following— (1 of 2015 s. 53)
 
         - (i) the date of the termination of his employment;
 
         - (ii) in the case of the winding up of the scheme, the date on which the member ceases to be a member of the scheme;
 
-        - (iii) in the case of the withdrawal (including deemed withdrawal) under this Regulation of the exemption certificate which applies to the scheme, the date of the coming into effect of the withdrawal;
+        - (iii) in the case of the withdrawal (including deemed withdrawal) under this Regulation of the exemption certificate which applies to the scheme, the date of the coming into effect of the withdrawal; or (1 of 2015 s. 53)
+
+        - (iv) the date on which the trustee of the scheme receives the latest claim lodged by the member under section 6(9A) for which benefits have not been paid; (1 of 2015 s. 53)
 
     - “minimum MPF benefits” (最低強制性公積金利益), in relation to a member of a relevant scheme, means the lesser of—
 
-      - (a) the member’s benefits accrued under the scheme during the period when the exemption certificate applied to the scheme;
+      - (a) the member’s benefits accrued and held under the scheme during the period when the exemption certificate applied to the scheme; (1 of 2015 s. 53)
 
       - (b) 1.2 × final average monthly relevant income × years of post-MPF service;
 
@@ -44,13 +48,15 @@ MANDATORY CONDITIONS
 
     - “vested benefit” (既有利益) has the same meaning as in section 2 of the relevant Ordinance;
 
-    - “years of post-MPF service” (強制性公積金實施後的服務年期), in relation to a member of a relevant scheme, means the member’s continuous years of service (including part thereof) from the date he joined the scheme or the relevant date, whichever is the later, to— (1 of 2008 s. 18)
+    - “years of post-MPF service” (強制性公積金實施後的服務年期), in relation to a member of a relevant scheme, means the member’s continuous years of service (including part thereof) from the date he joined the scheme, the relevant date or (if the member was previously paid any benefits under section 6(9A)) the date on which the trustee of the scheme received the claim lodged by the member for which benefits were last paid under that section, whichever is the latest, to the earliest of the following— (1 of 2008 s. 18; 1 of 2015 s. 53)
 
       - (a) the date of termination of his employment;
 
       - (b) in the case of the winding up of the scheme, the date on which the member ceases to be a member of the scheme;
 
-      - (c) in the case of the withdrawal (including deemed withdrawal) under this Regulation of the exemption certificate which applies to the scheme, the date of the coming into effect of the withdrawal.
+      - (c) in the case of the withdrawal (including deemed withdrawal) under this Regulation of the exemption certificate which applies to the scheme, the date of the coming into effect of the withdrawal; or (1 of 2015 s. 53)
+
+      - (d) the date on which the trustee of the scheme receives the latest claim lodged by the member under section 6(9A) for which benefits have not been paid. (1 of 2015 s. 53)
 
   - (2) Where—
 
@@ -60,7 +66,7 @@ MANDATORY CONDITIONS
 
     - (c) the benefits referred to in paragraph (b) include the member’s minimum MPF benefits,
 
-    - then, for the purposes of the definition of “minimum MPF benefits” (最低強制性公積金利益), the member’s benefits accrued under the scheme referred to in paragraph (a) during the period when the exemption certificate applied to that scheme shall be deemed to include the minimum MPF benefits referred to in paragraph (c).
+    - then, for the purposes of the definition of “minimum MPF benefits” (最低強制性公積金利益), the member’s benefits accrued and held under the scheme referred to in paragraph (a) during the period when the exemption certificate applied to that scheme shall be deemed to include the minimum MPF benefits referred to in paragraph (c). (1 of 2015 s. 53)
 
 - 2. Application
 
@@ -80,7 +86,7 @@ MANDATORY CONDITIONS
 
   - then such of those benefits—
 
-    - (i) as were accrued during the period when the exemption certificate applied to the schemes; and
+    - (i) as were accrued and held during the period when the exemption certificate applied to the schemes; and (1 of 2015 s. 53)
 
     - (ii) as do not exceed the minimum MPF benefits,
 
@@ -176,15 +182,51 @@ MANDATORY CONDITIONS
 
     - (b) a letter from the member’s employer certifying that the contract of employment for that kind of work has been or will be terminated.
 
+  - (9A) A new member of a relevant scheme is eligible to withdraw the member’s minimum MPF benefits on the ground of terminal illness if the member lodges with the trustee of the scheme—
+
+    - (a) a claim in a form provided or approved by the Authority; and
+
+    - (b) a certificate that is—
+
+      - (i) signed by a registered medical practitioner or registered Chinese medicine practitioner certifying that, in the practitioner’s opinion, the member falls within subsection (12G); and
+
+      - (ii) dated not earlier than 12 months before the date on which the claim is lodged. (1 of 2015 s. 53)
+
   - (10) If a new member of a relevant scheme dies before attaining retirement age, a personal representative of the member, or any other person specified in the governing rules of the scheme for the purposes of this section, may lodge with the trustee of the scheme a claim for payment of the deceased member’s minimum MPF benefits in accordance with those governing rules.
 
   - (11) A claim referred to in subsection (10) shall be accompanied by evidence satisfactory to the trustee of the relevant scheme that the claimant is a personal representative of the deceased new member concerned of the scheme or any other person specified in the governing rules of the scheme for the purposes of this section.
 
   - (12) When a new member of a relevant scheme is eligible for severance payment or long service payment under the Employment Ordinance (Cap. 57) upon termination of employment with his employer, the employer may make use of the part of the new member’s minimum MPF benefits derived from the employer’s contributions, including the employer’s portion transferred from another relevant scheme, if any, to offset any such payment.
 
-  - (13) For the purposes of subsection (9)(a)—
+  - (12A) Subsection (12B) applies if a committee of the estate is appointed in relation to the property and affairs of a new member of a relevant scheme. (1 of 2015 s. 53)
 
-    - (a) “registered Chinese medicine practitioner” (註冊中醫) has the meaning assigned to it by section 2 of the Chinese Medicine Ordinance (Cap. 549); and
+  - (12B) The committee of the estate may, as if it were the member—
+
+  - (a) lodge with the trustee of the scheme a claim for payment of the minimum MPF benefits of the member; or
+
+  - (b) continue with a claim initiated by the member. (1 of 2015 s. 53)
+
+  - (12C) Subsection (12B) does not apply in relation to a claim made under subsection (10). (1 of 2015 s. 53)
+
+  - (12D) In this section—
+
+  - committee of the estate (產業受託監管人)means a committee of the estate appointed under section 11 of the Mental Health Ordinance (Cap. 136);
+
+  - registered Chinese medicine practitioner (註冊中醫) has the meaning given by section 2(1) of the Chinese Medicine Ordinance (Cap. 549). (1 of 2015 s. 53)
+
+  - (12E) For the purposes of this section, a new member has permanently ceased employment or self-employment if the member—
+
+  - (a) has ceased all employment with no intention of becoming employed or self-employed again; and
+
+  - (b) has ceased all self-employment with no intention of becoming self-employed or employed again. (1 of 2015 s. 53)
+
+  - (12F) For the purposes of this section, a new member departs from Hong Kong permanently if the member departs from Hong Kong to reside elsewhere with no intention of returning for employment or to resettle in Hong Kong as a permanent resident. (1 of 2015 s. 53)
+
+  - (12G) A new member who has an illness that is likely to reduce the life expectancy of the member to 12 months or less has a terminal illness for the purposes of this section. (1 of 2015 s. 53)
+
+  - (13) For the purposes of subsection (9)(a) and (9A)— (1 of 2015 s. 53)
+
+    - (a) (Repealed 1 of 2015 s. 53)
 
     - (b) a reference to a certificate signed by a registered Chinese medicine practitioner does not include a certificate so signed before the commencement of section 34 of the Certification for Employee Benefits (Chinese Medicine) (Miscellaneous Amendments) Ordinance 2006 (16 of 2006). (16 of 2006 s. 34)
 
