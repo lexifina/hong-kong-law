@@ -6,7 +6,9 @@ Financial Penalties
 
 - Part 1 Mandatory Provident Fund Schemes Ordinance (Cap. 485)
 
-- Item | Relevant section of the Ordinance | Short description of the relevant duty or requirement | Amount of financial penalty for first failure $ | Amount of financial penalty for second failure $ | Amount of financial penalty for third or subsequent failure $
+- Item | Relevant section of the Ordinance | Short description of the relevant duty or requirement | Amount of financial penalty for first failure | Amount of financial penalty for second failure | Amount of financial penalty for third or subsequent failure
+
+- $ | $ | $
 
 - 1AA | 6KA(3) | Approved trustee to take action for ensuring proper and efficient operation of designated electronic system (16 of 2012 s. 27) | 10,000 | 20,000 | 50,000
 
@@ -50,7 +52,7 @@ Financial Penalties
 
 - 6 | 29 | Maintenance of adequate insurance | 10,000 | 20,000 | 50,000
 
-- 7 | 31 | Non-refusal of scheme applicants | 10,000 | 20,000 | 50,000
+- 7 | 31 | Non-refusal of scheme applicants and notice of participation (1 of 2015 s. 51) | 10,000 | 20,000 | 50,000
 
 - 8 | 32 | Acceptance of contributions etc. (18 of 2008 s. 25) | 10,000 | 20,000 | 50,000
 
@@ -94,7 +96,7 @@ Financial Penalties
 
 - 14 | 54 | Requirements with respect to provision of information to scheme members | 10,000 | 20,000 | 50,000
 
-- 15 | 55 | Requirements with respect to the giving of membership certificates to scheme members | 5,000 | 10,000 | 20,000
+- 15 | (Repealed 1 of 2015 s. 51)
 
 - 16 | 56 | Requirements with respect to provision of annual benefit statements to scheme members | 5,000 | 10,000 | 20,000
 
@@ -158,9 +160,7 @@ Financial Penalties
 
 - 45 | 123 | Participating employer to provide remittance statements | 10,000 | 20,000 | 50,000
 
-- 46 | 124(2) | Approved trustee to give participation certificate to participating employer | 5,000 | 10,000 | 20,000
-
-- 47 | 124(3) and (4) | Participating employer to display participation certificate | 5,000 | 10,000 | 20,000
+- 46-47 | (Repealed 1 of 2015 s. 51)
 
 - 48 | 125(1) and (3) | Approved trustee to ascertain relevant income and basis of contribution of self-employed person | 5,000 | 10,000 | 20,000
 
@@ -206,7 +206,7 @@ Financial Penalties
 
 - 68 | 163(5) | Approved trustee to give notice to Authority under section 163(5) | 10,000 | 20,000 | 50,000
 
-- 69 | 164(3) | Employer to provide letter under section 164(3) | 10,000 | 20,000 | 50,000
+- 69 | (Repealed 1 of 2015 s. 51)
 
 - 70 | 166 | Approved trustee to ensure payment of accrued benefits within certain period | 10,000 | 20,000 | 50,000
 

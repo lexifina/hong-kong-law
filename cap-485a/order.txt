@@ -41,6 +41,7 @@ s-039.md
 s-040.md
 s-041.md
 s-042.md
+s-042AA.md
 s-042A.md
 s-042B.md
 s-042C.md
@@ -74,6 +75,7 @@ s-065.md
 s-066.md
 s-066A.md
 s-067.md
+s-067A.md
 s-068.md
 s-069.md
 s-070.md
@@ -177,7 +179,9 @@ s-161.md
 s-162.md
 s-163.md
 s-164.md
+s-164A.md
 s-165.md
+s-165A.md
 s-166.md
 s-167.md
 s-168.md
