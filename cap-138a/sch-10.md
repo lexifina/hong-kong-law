@@ -826,6 +826,8 @@ Poisons List
 
     - Darunavir; its salts
 
+    - Dasabuvir; its salts
+
     - Dasatinib; its salts
 
     - Deanol acetamidobenzoate
@@ -991,6 +993,8 @@ Poisons List
     - Elvitegravir; its salts
 
     - Embutramide
+
+    - Empagliflozin; its salts
 
     - Emtricitabine; its salts
 
@@ -1316,7 +1320,11 @@ Poisons List
 
     - Ibritumomab tiuxetan
 
+    - Ibrutinib; its salts
+
     - Ibuprofen; its salts
+
+    - Idelalisib; its salts
 
     - Idursulfase
 
@@ -1428,6 +1436,8 @@ Poisons List
 
     - Lead acetates; compounds of lead with acids from fixed oils
 
+    - Ledipasvir; its salts
+
     - Leflunomide; its salts
 
     - Lenalidomide; its salts
@@ -1451,6 +1461,8 @@ Poisons List
     - Lidoflazine
 
     - Lignocaine; its salts
+
+    - Linaclotide; its salts
 
     - Linagliptin; its salts
 
@@ -1802,6 +1814,8 @@ Poisons List
 
     - Nortriptyline; its salts
 
+    - Obinutuzumab; its antibody drug conjugates
+
     - Ocriplasmin
 
     - Octreotide; its salts
@@ -1817,6 +1831,8 @@ Poisons List
     - Olsalazine; its salts
 
     - Omalizumab
+
+    - Ombitasvir; its salts
 
     - Omeprazole; its salts
 
@@ -1901,6 +1917,8 @@ Poisons List
     - Pargyline; its salts
 
     - Paricalcitol; its salts; its esters; their salts
+
+    - Paritaprevir; its salts
 
     - Paroxetine; its salts
 
@@ -2027,6 +2045,8 @@ Poisons List
     - Podophyllum resin
 
     - Polymethylenebistrimethylammonium salts
+
+    - Pomalidomide; its salts
 
     - Poractant alfa
 
@@ -2247,6 +2267,8 @@ Poisons List
     - Rosuvastatin; its salts
 
     - Rotigotine; its salts
+
+    - Rufinamide; its salts
 
     - Ruxolitinib; its salts
 
@@ -2576,6 +2598,8 @@ Poisons List
 
     - Vecuronium; its salts
 
+    - Vedolizumab
+
     - Vemurafenib; its salts
 
     - Venlafaxine; its salts
@@ -2648,7 +2672,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015)
 
     - Division B
 
