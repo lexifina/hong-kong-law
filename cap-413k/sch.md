@@ -1,12 +1,12 @@
 # SCHEDULE
 
-[ss. 9, 10, 21, 23, 26 & 28]
+[ss. 6A, 9, 10, 21, 23, 26 & 28] (L.N. 108 of 2015)
 
 REQUIREMENTS FOR EQUIPMENTS, ETC.
 
 - 1. The ship concerned shall be equipped with—
 
-  - (a) a sewage treatment plant which is in compliance with the International Effluent Standards for Sewage Treatment Plants and the Guidelines for Performance Tests for Sewage Treatment Plants with respect to Effluent Standards adopted by the International Maritime Organization by resolution MEPC.2(VI);
+  - (a) a sewage treatment plant which is in compliance with the standards adopted by the International Maritime Organization for sewage treatment plants; (L.N. 108 of 2015)
 
   - (b) a sewage comminuting and disinfecting system fitted with facilities for the temporary storage of sewage when the ship is at a distance of not more than 3 nautical miles from the nearest land; or
 
