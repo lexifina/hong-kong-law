@@ -18,6 +18,8 @@ Chapter | Short title
 
 208. | Country Parks Ordinance. (Added 41 of 1984 s. 3)
 
+265. | Peak Tramway Ordinance. (Added 16 of 2015 s. 23)
+
 276. | Mass Transit Railway (Land Resumption and Related Provisions) Ordinance. (Added 80 of 1978 s. 6)
 
 283. | Housing Ordinance. (Added L.N. 18 of 1993)
