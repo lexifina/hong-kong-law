@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [reg. 2]
 
-SPECIFIED PROCESSES
+Specified Processes
 
 - 1. Dry grinding of metals or articles of metal applied by hand to a revolving wheel, band or disc driven by mechanical power.
 
@@ -18,7 +18,7 @@ SPECIFIED PROCESSES
 
 - 7. The use of compressed air for removing swarf, dust, dirt or other particles.
 
-- 8. Any process involving the use of an instrument which produces light amplification by the stimulated emission of radiation.
+- 8. Any process involving the use of an instrument which produces light amplification by the stimulated emission of radiation. (L.N. 126 of 1995)
 
 - 9. The production of metal castings at pressure die casting machines.
 
