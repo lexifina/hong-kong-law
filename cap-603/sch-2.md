@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 18(2) & 21(1) & (2)]
 
-PLASTIC SHOPPING BAGS TO WHICH THIS ORDINANCE DOES NOT APPLY
+Plastic Shopping Bags to which this Ordinance does not Apply
 
 - 1. Plastic shopping bags excluded from application of this Ordinance
 

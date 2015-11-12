@@ -1,8 +1,8 @@
-# FOURTH SCHEDULE
+# Schedule 4
 
 [ss. 6BA & 8]
 
-SPECIFIED INDUSTRIAL UNDERTAKINGS AND PERSONS EMPLOYED AT THE UNDERTAKINGS
+Specified Industrial Undertakings and Persons Employed at the Undertakings
 
 Column 1 | Column 2
 

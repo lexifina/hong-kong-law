@@ -1,12 +1,10 @@
-# FOURTH SCHEDULE
+# Schedule 4
 
 [reg. 14]
 
-STATEMENT OF PARTICULARS AS TO PROPORTION OF POISON IN CERTAIN CASES PERMITTED BY REGULATION 14(a)
+Statement of Particulars as to Proportion of Poison in Certain Cases Permitted by Regulation 14(a)
 
-- DIVISION A
-
-(L.N. 41 of 2007)
+Division A (L.N. 41 of 2007)
 
 Name of Poison | Particulars
 
@@ -58,9 +56,7 @@ Thyroid gland, the active principles of; their salts | Either—
 
 (b) | the amount of thyroid gland from which a specified quantity of the preparation was obtained together with an indication whether the amount relates to fresh or to dried gland.
 
-- DIVISION B
-
-(L.N. 41 of 2007)
+Division B (L.N. 41 of 2007)
 
 Name of Poison | Particulars
 

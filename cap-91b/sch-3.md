@@ -10,67 +10,71 @@ Contributions
 
 - Part 1 For the purposes of regulation 13— (L.N. 146 of 2012)
 
-  - (a) if the financial resources of an aided person do not exceed 12.5% of the financial eligibility limit, the maximum contribution of the person is $0; (L.N. 146 of 2012)
+    - (a) if the financial resources of an aided person do not exceed 12.5% of the financial eligibility limit, the maximum contribution of the person is $0; (L.N. 146 of 2012)
 
-  - (b) except as provided in subparagraph (c), if the financial resources of an aided person, when expressed as a percentage of the financial eligibility limit, fall within a range of percentages specified in column 1 of Table 1, then the maximum contribution of the person is the percentage of the person’s financial resources specified in column 2 of that Table opposite the range; and (L.N. 146 of 2012) Table 1
+    - (b) except as provided in subparagraph (c), if the financial resources of an aided person, when expressed as a percentage of the financial eligibility limit, fall within a range of percentages specified in column 1 of Table 1, then the maximum contribution of the person is the percentage of the person’s financial resources specified in column 2 of that Table opposite the range; and (L.N. 146 of 2012)
 
-  - Column 1 | Column 2
+- Table 1
 
-  - Financial resources of an aided person (percentage of the financial eligibility limit) | Maximum contribution (percentage of the financial resources of the aided person)
+- Column 1 | Column 2
 
-  - 1. | Exceed 12.5% but do not exceed 25% | 2%
+- Financial resources of an aided person (percentage of the financial eligibility limit) | Maximum contribution (percentage of the financial resources of the aided person)
 
-  - 2. | Exceed 25% but do not exceed 37.5% | 2.5%
+- 1. | Exceed 12.5% but do not exceed 25% | 2%
 
-  - 3. | Exceed 37.5% but do not exceed 50% | 5%
+- 2. | Exceed 25% but do not exceed 37.5% | 2.5%
 
-  - 4. | Exceed 50% but do not exceed 62.5% | 10%
+- 3. | Exceed 37.5% but do not exceed 50% | 5%
 
-  - 5. | Exceed 62.5% but do not exceed 75% | 15%
+- 4. | Exceed 50% but do not exceed 62.5% | 10%
 
-  - 6. | Exceed 75% but do not exceed 87.5% | 20%
+- 5. | Exceed 62.5% but do not exceed 75% | 15%
 
-  - 7. | Exceed 87.5% but do not exceed 100% (L.N. 148 of 2000) | 25%
+- 6. | Exceed 75% but do not exceed 87.5% | 20%
 
-  - (c) for an aided person whose legal aid certificate is for proceedings in which a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383), or an inconsistency with the International Covenant on Civil and Political Rights as applied to Hong Kong, is an issue—
+- 7. | Exceed 87.5% but do not exceed 100% (L.N. 148 of 2000) | 25%
 
-    - (i) if the person’s financial resources, when expressed as a percentage of the financial eligibility limit, fall within a range of percentages specified in column 1 of Table 2, then the maximum contribution of the person is the percentage of the person’s financial resources specified in column 2 of that Table opposite the range; or
+    - (c) for an aided person whose legal aid certificate is for proceedings in which a breach of the Hong Kong Bill of Rights Ordinance (Cap. 383), or an inconsistency with the International Covenant on Civil and Political Rights as applied to Hong Kong, is an issue—
 
-    - (ii) if the person’s financial resources exceed 500% of the financial eligibility limit, the maximum contribution of the person is 67% of the person’s financial resources. Table 2
+      - (i) if the person’s financial resources, when expressed as a percentage of the financial eligibility limit, fall within a range of percentages specified in column 1 of Table 2, then the maximum contribution of the person is the percentage of the person’s financial resources specified in column 2 of that Table opposite the range; or
 
-    - Column 1 | Column 2
+      - (ii) if the person’s financial resources exceed 500% of the financial eligibility limit, the maximum contribution of the person is 67% of the person’s financial resources.
 
-    - Financial resources of an aided person (percentage of the financial eligibility limit) | Maximum contribution (percentage of the financial resources of the aided person)
+- Table 2
 
-    - 1. | Exceed 12.5% but do not exceed 25% | 2%
+- Column 1 | Column 2
 
-    - 2. | Exceed 25% but do not exceed 37.5% | 2.5%
+- Financial resources of an aided person (percentage of the financial eligibility limit) | Maximum contribution (percentage of the financial resources of the aided person)
 
-    - 3. | Exceed 37.5% but do not exceed 50% | 5%
+- 1. | Exceed 12.5% but do not exceed 25% | 2%
 
-    - 4. | Exceed 50% but do not exceed 62.5% | 10%
+- 2. | Exceed 25% but do not exceed 37.5% | 2.5%
 
-    - 5. | Exceed 62.5% but do not exceed 75% | 15%
+- 3. | Exceed 37.5% but do not exceed 50% | 5%
 
-    - 6. | Exceed 75% but do not exceed 87.5% | 20%
+- 4. | Exceed 50% but do not exceed 62.5% | 10%
 
-    - 7. | Exceed 87.5% but do not exceed 100% | 25%
+- 5. | Exceed 62.5% but do not exceed 75% | 15%
 
-    - 8. | Exceed 100% but do not exceed 150% | 30%
+- 6. | Exceed 75% but do not exceed 87.5% | 20%
 
-    - 9. | Exceed 150% but do not exceed 200% | 35%
+- 7. | Exceed 87.5% but do not exceed 100% | 25%
 
-    - 10. | Exceed 200% but do not exceed 250% | 40%
+- 8. | Exceed 100% but do not exceed 150% | 30%
 
-    - 11. | Exceed 250% but do not exceed 300% | 45%
+- 9. | Exceed 150% but do not exceed 200% | 35%
 
-    - 12. | Exceed 300% but do not exceed 350% | 50%
+- 10. | Exceed 200% but do not exceed 250% | 40%
 
-    - 13. | Exceed 350% but do not exceed 400% | 55%
+- 11. | Exceed 250% but do not exceed 300% | 45%
 
-    - 14. | Exceed 400% but do not exceed 450% | 60%
+- 12. | Exceed 300% but do not exceed 350% | 50%
 
-    - 15. | Exceed 450% but do not exceed 500% (L.N. 78 of 2015) | 65%
+- 13. | Exceed 350% but do not exceed 400% | 55%
+
+- 14. | Exceed 400% but do not exceed 450% | 60%
+
+- 15. | Exceed 450% but do not exceed 500% (L.N. 78 of 2015) | 65%
 
 - (L.N. 85 of 1997; L.N. 148 of 2000; L.N. 83 of 2004; L.N. 141 of 2006; L.N. 114 of 2007; L.N. 146 of 2012; L.N. 78 of 2015)
 

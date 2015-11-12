@@ -1,8 +1,8 @@
-# SCHEDULE 2
+# Schedule 2
 
 [reg. 4(b)] (L.N. 148 of 2000)
 
-RULES FOR COMPUTING DISPOSABLE CAPITAL
+Rules for Computing Disposable Capital
 
 - 1. Subject to the provisions of these regulations or rules, there shall be included in the computation of the amount of the capital of the person concerned the amount or value of every resource of a capital nature ascertained as on the date of the application:
 

@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2 & 3]
 
-SCHEDULED ITEMS
+Scheduled Items
 
 Legal Practitioners Ordinance (Cap. 159)
 

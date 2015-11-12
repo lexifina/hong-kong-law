@@ -1,12 +1,12 @@
-# THIRD SCHEDULE
+# Third Schedule
 
 [s. 18E(1)]
 
-OFFENCES TO WHICH DEFENDANT MAY PLEAD GUILTY BY LETTER
+Offences to which Defendant May Plead Guilty by Letter
 
 - 1. Summary Offences Any offence against section 4(11) or section 4A (Obstruction of public places) or section 13(1) (Making noise at night) of the Summary Offences Ordinance (Cap. 228). (Replaced 58 of 1967 s. 5)
 
-- 2. Rabies An offence against section 23 Dogs to be kept under control) of the Rabies Ordinance (Cap. 421) or section 20 (Dogs to be licensed) of the Rabies Regulation (Cap. 421 sub. leg. A). (Replaced L.N. 8 of 1995)
+- 2. Rabies An offence against section 23 (Dogs to be kept under control) of the Rabies Ordinance (Cap. 421) or section 20 (Dogs to be licensed) of the Rabies Regulation (Cap. 421 sub. leg. A). (Replaced L.N. 8 of 1995)
 
 - 3. Road Traffic
 
@@ -46,7 +46,7 @@ OFFENCES TO WHICH DEFENDANT MAY PLEAD GUILTY BY LETTER
 
 - 8. (Repealed 23 of 2002 s. 89)
 
-- 9. Immigration An offence against section 17C(3) of theImmigration Ordinance (Cap. 115). (Added L.N. 317 of 1980)
+- 9. Immigration An offence against section 17C(3) of the Immigration Ordinance (Cap. 115). (Added L.N. 317 of 1980)
 
 - 10. Registration of Persons An offence against regulation 11(2A) of the Registration of Persons Regulations (Cap. 177 sub. leg. A). (Added L.N. 317 of 1980)
 
@@ -76,10 +76,10 @@ OFFENCES TO WHICH DEFENDANT MAY PLEAD GUILTY BY LETTER
 
   - (2) Any offence against the Tsing Sha Control Area (Tolls, Fees and Charges) Regulation (Cap. 594 sub. leg. B).
 
-- (Added L.N. 63 of 2008) (Third Schedule added 55 of 1961 s. 4)
+- (Added L.N. 63 of 2008) (Third Schedule added 55 of 1961 s. 4. Amended E.R. 3 of 2015) (Format changes—E.R. 3 of 2015)
 
 Editorial Note:
 
-* Repealed-See L.N. 220 of 1986
+* Repealed—See L.N. 220 of 1986
 
-+ Repealed-See L.N. 292 of 1983
++ Repealed—See L.N. 292 of 1983

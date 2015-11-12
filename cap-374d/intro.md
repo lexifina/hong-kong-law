@@ -1,4 +1,4 @@
-ROAD TRAFFIC (PUBLIC SERVICE VEHICLES) REGULATIONS
+Road Traffic (Public Service Vehicles) Regulations
 
 (Cap. 374, sections 7 and 14)
 

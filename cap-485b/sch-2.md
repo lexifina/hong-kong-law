@@ -1,20 +1,20 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 17 & 28]
 
-MANDATORY CONDITIONS
+Mandatory Conditions
 
 - 1. Interpretation
 
   - (1) In this Schedule, unless the context otherwise requires—
 
-    - “accrued rights” (累算權利) has the same meaning as in section 2 of the relevant Ordinance;
+    - accrued rights (累算權利) has the same meaning as in section 2 of the relevant Ordinance;
 
-    - “defined benefit scheme” (界定利益計劃) has the same meaning as in section 2 of the relevant Ordinance;
+    - defined benefit scheme (界定利益計劃) has the same meaning as in section 2 of the relevant Ordinance;
 
-    - “defined contribution scheme” (界定供款計劃) has the same meaning as in section 2 of the relevant Ordinance;
+    - defined contribution scheme (界定供款計劃) has the same meaning as in section 2 of the relevant Ordinance;
 
-    - “final average monthly relevant income” (最終每月平均有關入息), in relation to a member of a relevant scheme, means the member’s relevant income per month averaged over whichever of the following is applicable—
+    - final average monthly relevant income (最終每月平均有關入息), in relation to a member of a relevant scheme, means the member’s relevant income per month averaged over whichever of the following is applicable—
 
       - (a) if the member has been a member of the scheme for not less than 12 months after the relevant date, the period of 12 months (excluding any unpaid leave or maternity leave taken by the member pursuant to any enactment or contract) immediately preceding the earliest of the following— (1 of 2015 s. 53)
 
@@ -36,19 +36,19 @@ MANDATORY CONDITIONS
 
         - (iv) the date on which the trustee of the scheme receives the latest claim lodged by the member under section 6(9A) for which benefits have not been paid; (1 of 2015 s. 53)
 
-    - “minimum MPF benefits” (最低強制性公積金利益), in relation to a member of a relevant scheme, means the lesser of—
+    - minimum MPF benefits (最低強制性公積金利益), in relation to a member of a relevant scheme, means the lesser of—
 
       - (a) the member’s benefits accrued and held under the scheme during the period when the exemption certificate applied to the scheme; (1 of 2015 s. 53)
 
       - (b) 1.2 × final average monthly relevant income × years of post-MPF service;
 
-    - “relevant income” (有關入息), in relation to a member of a relevant scheme, means so much of any relevant income of the member per month which is not more than the maximum level of relevant income per month specified in Schedule 3 to the Ordinance;
+    - relevant income (有關入息), in relation to a member of a relevant scheme, means so much of any relevant income of the member per month which is not more than the maximum level of relevant income per month specified in Schedule 3 to the Ordinance;
 
-    - “relevant scheme” (有關計劃) means a relevant ORSO registered scheme to which an exemption certificate issued under section 16(1) of this Regulation applies;
+    - relevant scheme (有關計劃) means a relevant ORSO registered scheme to which an exemption certificate issued under section 16(1) of this Regulation applies;
 
-    - “vested benefit” (既有利益) has the same meaning as in section 2 of the relevant Ordinance;
+    - vested benefit (既有利益) has the same meaning as in section 2 of the relevant Ordinance;
 
-    - “years of post-MPF service” (強制性公積金實施後的服務年期), in relation to a member of a relevant scheme, means the member’s continuous years of service (including part thereof) from the date he joined the scheme, the relevant date or (if the member was previously paid any benefits under section 6(9A)) the date on which the trustee of the scheme received the claim lodged by the member for which benefits were last paid under that section, whichever is the latest, to the earliest of the following— (1 of 2008 s. 18; 1 of 2015 s. 53)
+    - years of post-MPF service (強制性公積金實施後的服務年期), in relation to a member of a relevant scheme, means the member’s continuous years of service (including part thereof) from the date he joined the scheme, the relevant date or (if the member was previously paid any benefits under section 6(9A)) the date on which the trustee of the scheme received the claim lodged by the member for which benefits were last paid under that section, whichever is the latest, to the earliest of the following— (1 of 2008 s. 18; 1 of 2015 s. 53)
 
       - (a) the date of termination of his employment;
 
@@ -66,7 +66,7 @@ MANDATORY CONDITIONS
 
     - (c) the benefits referred to in paragraph (b) include the member’s minimum MPF benefits,
 
-    - then, for the purposes of the definition of “minimum MPF benefits” (最低強制性公積金利益), the member’s benefits accrued and held under the scheme referred to in paragraph (a) during the period when the exemption certificate applied to that scheme shall be deemed to include the minimum MPF benefits referred to in paragraph (c). (1 of 2015 s. 53)
+    - then, for the purposes of the definition of minimum MPF benefits (最低強制性公積金利益), the member’s benefits accrued and held under the scheme referred to in paragraph (a) during the period when the exemption certificate applied to that scheme shall be deemed to include the minimum MPF benefits referred to in paragraph (c). (1 of 2015 s. 53)
 
 - 2. Application
 
@@ -94,7 +94,7 @@ MANDATORY CONDITIONS
 
   - (3) Section 4(e) shall apply to and in relation to an existing member’s minimum MPF benefits in a relevant scheme as it applies to and in relation to a new member’s minimum MPF benefits in the scheme.
 
-- 3. Inter-group transfers and scheme transfers Sections 4, 5 and 6 shall not apply to the minimum MPF benefits of a new member of a relevant scheme (“existing scheme”) upon termination of his employment, or his ceasing to be a member of the existing scheme, where—
+- 3. Inter-group transfers and scheme transfers Sections 4, 5 and 6 shall not apply to the minimum MPF benefits of a new member of a relevant scheme (existing scheme) upon termination of his employment, or his ceasing to be a member of the existing scheme, where—
 
   - (a) he is—
 
@@ -305,3 +305,5 @@ MANDATORY CONDITIONS
 - 11. Reporting of changes to governing rules of scheme
 
 - The trustee of a relevant scheme shall give notice in writing to the Authority of any amendments to the governing rules of the scheme upon submission of any return under section 10 and shall attach a copy of the amendments to the notice.
+
+(Format changes—E.R. 3 of 2015)

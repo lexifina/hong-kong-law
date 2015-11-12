@@ -1,8 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 2, 5, 23, 73, 81, 99, 100, 101 & 102]
 
-PROVISIONS THAT MAY BE EXPRESSLY OPTED FOR OR AUTOMATICALLY APPLY
+Provisions that may be Expressly Opted for or Automatically Apply
+
+(Format changes—E.R. 3 of 2015)
 
 - 1. Sole arbitrator If the parties to an arbitration agreement fail to agree on the number of arbitrators, any dispute arising between the parties is to be submitted to a sole arbitrator for arbitration. (Amended 11 of 2015 s. 6)
 

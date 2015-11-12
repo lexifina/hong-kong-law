@@ -1,8 +1,8 @@
-# THIRD SCHEDULE
+# Schedule 3
 
 [ss. 2 & 8]
 
-SPECIFIED STRUCTURES AND WORKS
+Specified Structures and Works
 
 - 1. Any building, edifice, wall, fence, or chimney, whether constructed wholly or partly above or below ground level.
 

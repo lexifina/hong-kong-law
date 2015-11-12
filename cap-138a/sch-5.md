@@ -1,12 +1,12 @@
-# FIFTH SCHEDULE
+# Schedule 5
 
 [reg. 15(2)]
 
-INDICATION OF STATEMENT PRESCRIBED BY REGULATION 15 FOR THE PURPOSES OF SECTION 27(c) OF THE ORDINANCE
+Indication of Statement Prescribed by Regulation 15 for the Purposes of Section 27(c) of the Ordinance
 
 - 1. To be labelled with the words “Caution. It is dangerous to take this preparation except under medical supervision.” 「注意：非經醫生指示，服食此藥有危險。」—— Medicines made up ready for the internal treatment of human ailments and containing insulin
 
-- 2. To be labelled with the words “Caution. It is dangerous to exceed the stated dose.” 「注意：服食過量有危險。」—— Medicines (other than medicines containing insulin and medicines mentioned in paragraph 8 of this Schedule) made up ready for the internal treatment of human ailments except in the case of a substance included in the First Schedule
+- 2. To be labelled with the words “Caution. It is dangerous to exceed the stated dose.” 「注意：服食過量有危險。」—— Medicines (other than medicines containing insulin and medicines mentioned in paragraph 8 of this Schedule) made up ready for the internal treatment of human ailments except in the case of a substance included in the Schedule 1 (E.R. 3 of 2015)
 
 - 3. To be labelled with the words “Poison. For animal treatment only.” 「毒藥：祇限醫治禽畜用。」—— Medicines made up ready for the treatment of animals
 
@@ -18,7 +18,7 @@ INDICATION OF STATEMENT PRESCRIBED BY REGULATION 15 FOR THE PURPOSES OF SECTION 
 
 - 7. To be labelled with the words “Caution. This preparation should be administered only under medical supervision. The vapour is dangerous.” 「注意：此藥之蒸氣有危險，須經醫生指示，方可使用。」—— Medicines made up ready for the internal or external treatment of human ailments and containing dyflos
 
-- 8. To be labelled with the words “Caution. This may cause drowsiness. If affected, do not drive or operate machinery.” 「注意：此藥可使人昏昏欲睡，服後如有此情形，不得駕駛或動用機械。」—— Medicines made up ready for the internal treatment of human ailments containing any of the antihistamine substances (except Astemizole, Bilastine, Cetirizine, Desloratadine, Fexofenadine, Loratadine and Terfenadine), their salts or their compounds with any other substance (L.N. 262 of 1995; L.N. 202 of 1999; L.N. 132 of 2002, L.N. 66 of 2015)
+- 8. To be labelled with the words “Caution. This may cause drowsiness. If affected, do not drive or operate machinery.” 「注意：此藥可使人昏昏欲睡，服後如有此情形，不得駕駛或動用機械。」—— Medicines made up ready for the internal treatment of human ailments containing any of the antihistamine substances (except Astemizole, Bilastine, Cetirizine, Desloratadine, Fexofenadine, Loratadine and Terfenadine), their salts or their compounds with any other substance (L.N. 262 of 1995; L.N. 202 of 1999; L.N. 132 of 2002; L.N. 66 of 2015)
 
 - 9. To be labelled with the words “Caution. Not to be taken internally.” 「注意：忌食。」—— Preparations for external use containing mercuric ammonium chlorides
 

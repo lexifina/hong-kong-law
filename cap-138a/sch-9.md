@@ -1,4 +1,4 @@
-# NINTH SCHEDULE
+# Schedule 9
 
 [regs. 24A, 26, 29, 30D, 30E,
 
@@ -6,7 +6,7 @@
 
 (2 of 2015 s. 70)
 
-FEES
+Fees
 
 Item | Particular | Fee $
 

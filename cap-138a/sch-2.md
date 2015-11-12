@@ -1,18 +1,18 @@
-# SECOND SCHEDULE
+# Schedule 2
 
 [reg. 8]
 
-ARTICLES EXEMPTED BY REGULATION 8 FROM THE PROVISIONS OF THE ORDINANCE AND OF THESE REGULATIONS
+Articles Exempted by Regulation 8 from the Provisions of the Ordinance and of these Regulations
 
-- GROUP I GENERAL EXEMPTIONS
+- Group I General Exemptions
 
 Adhesives; anti-fouling compositions; builders’ materials; ceramics; distempers; electrical valves; enamels; explosives; fillers; fireworks; fluorescent lamps; glazes; glues; inks; lacquer solvents; loading materials; matches; motor fuels and lubricants; paints other than pharmaceutical paints; photographic paper; pigments; plastics; propellants; rubber; varnishes
 
 (L.N. 195 of 1977; L.N. 262 of 1995)
 
-- GROUP II SPECIAL EXEMPTIONS
+- Group II Special Exemptions
 
-- DIVISION A
+- Division A
 
 (L.N. 41 of 2007)
 
@@ -106,7 +106,7 @@ Sodium fluoride | Substances containing less than 3% of sodium fluoride as a pre
 
 (L.N. 138 of 2000)
 
-- DIVISION B
+- Division B
 
 (L.N. 41 of 2007)
 

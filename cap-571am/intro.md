@@ -1,7 +1,7 @@
 Securities and Futures (Stock Markets, Futures Markets and Clearing Houses) Notice
 
-(Made by the Financial Secretary under section 392A of the Securities
+(Cap. 571, section 392A)
 
-and Futures Ordinance (Cap. 571))
+(Enacting provision omitted—E.R. 3 of 2015)
 
 [10 July 2015]

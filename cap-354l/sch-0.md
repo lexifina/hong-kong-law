@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [ss. 2, 3B & 8 & Sch. 2] (L.N. 165 of 2004; L.N. 188 of 2013)
 
-DESIGNATED WASTE DISPOSAL FACILITIES
+Designated Waste Disposal Facilities
 
 Item | Name | Address | Boundaries delineated by drawing number/plan number
 
@@ -22,7 +22,7 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 
 8. | Island West Transfer Station (IWTS) | 88 Victoria Road, Kennedy Town, Western District, Hong Kong. | Drawing number 90833/SP15/04 (L.N. 260 of 1998)
 
-9. | West Kowloon Transfer Station (WKTS) | 1 Ngong Shung Road, Kowloon. | Drawing number 90364/TEN/01 Rev. (L.N. 260 of 1998; L.N. 118 of 2002)
+9. | West Kowloon Transfer Station (WKTS) | 1 Ngong Shung Road, Kowloon. | Drawing number 90364/TEN/01 Rev. D (L.N. 260 of 1998; L.N. 118 of 2002)
 
 10. | North Lantau Transfer Station (NLTS) | PLA No. TW353, Siu Ho Wan, North Lantau, N.T. | Plan number NANTA 80-A (L.N. 260 of 1998)
 

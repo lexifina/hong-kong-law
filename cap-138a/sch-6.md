@@ -1,16 +1,16 @@
-# SIXTH SCHEDULE
+# Schedule 6
 
 [reg. 4(2)]
 
-POISONS EXEMPTED BY REGULATION 4 FROM LABELLING PROVISIONS WHEN SOLD OR SUPPLIED IN CERTAIN CIRCUMSTANCES
+Poisons Exempted by Regulation 4 from Labelling Provisions when Sold or Supplied in Certain Circumstances
 
-- DIVISION A
+- Division A
 
 (L.N. 41 of 2007)
 
 Antimony, chlorides of; oxides of; sulphides of; antimonates; antimonites Chloroform Glyceryl trinitrate Lead acetates; compounds of lead with acids from fixed oils Mercuric chloride; mercuric iodide; organic compounds of mercury Mercury, nitrates of; oxides of Oxalic acid; metallic oxalates Phenols; compounds of phenol with a metal Picric acid
 
-- DIVISION B
+- Division B
 
 (L.N. 41 of 2007)
 

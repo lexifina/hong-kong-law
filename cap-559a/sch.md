@@ -1,8 +1,10 @@
 # Schedule
 
-[rules 2 & 4] (L.N. 150 of 2014)
+[rules 2 & 4]
 
 Fees
+
+(L.N. 150 of 2014)
 
 Fee No. | Matter or proceeding | Amount
 
@@ -52,9 +54,9 @@ Fee No. | Matter or proceeding | Amount
 
 23. | For supplying under rule 70(2) a certificate for the purposes of section 79(2) of the Ordinance | $200
 
-24. | Request for search of records under rule 72 | (a) | $400 for the first class of goods or services set out in the specification; and
+24. | Request for search of records under rule 72 (L.N. 25 of 2015) | (a) | $400 for the first class of goods or services set out in the specification; and
 
-(b) | $200 for each additional class (if any) if there is no simultaneous request for Registrar’s preliminary advice under rule 73 in respect of the same additional class (L.N. 25 of 2015)
+(b) | $200 for each additional class (if any) if there is no simultaneous request for Registrar’s preliminary advice under rule 73 in respect of the same additional class
 
 25. | Request for Registrar’s preliminary advice under rule 73 | (a) | $400 for the first class of goods or services set out in the specification; and
 
@@ -79,7 +81,3 @@ Fee No. | Matter or proceeding | Amount
 33. | Notice of opposition under rule 102(3) | $800
 
 34. | Notice under rule 122 to have the registrability of a mark determined in accordance with the Ordinance | $900
-
-Editorial Note:
-
-* (L.N. 150 of 2014)

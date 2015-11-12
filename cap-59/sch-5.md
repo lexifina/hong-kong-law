@@ -1,8 +1,8 @@
-# FIFTH SCHEDULE
+# Schedule 5
 
 [s. 17(5)]
 
-OFFENCES TO BE PROSECUTED WITHIN 6 MONTHS FROM OFFENCE BEING DISCOVERED BY OR COMING TO NOTICE OF COMMISSIONER
+Offences to be Prosecuted within 6 Months from Offence being Discovered by or Coming to Notice of Commissioner
 
 - 1. Contravention of section 9(1) of this Ordinance.
 
@@ -10,4 +10,4 @@ OFFENCES TO BE PROSECUTED WITHIN 6 MONTHS FROM OFFENCE BEING DISCOVERED BY OR CO
 
 - 3. Failure to comply with regulation 30 of the Factories and Industrial Undertakings (Work in Compressed Air) Regulations (Cap. 59 sub. leg. M).
 
-- 4. Failure to comply with section 6(1) of the Factories and Industrial Undertakings (Asbestos) Regulation (Cap. 59 sub. leg. AD). (Added 11 of 2000 s. 3)
+- 4. Failure to comply with section 6(1) of the Factories and Industrial Undertakings (Asbestos) Regulation (Cap. 59 sub. leg. AD). (Added 11 of 2000 s. 3. Amended E.R. 3 of 2015)

@@ -412,7 +412,7 @@
 
   - 16B. A preparation for oral use containing not more than 135 milligrams of dextropropoxyphene base per dosage unit or with a concentration of not more than 2.5 per cent in undivided preparations:
 
-    - Provided that such preparations do not contain any substance specified in the Third Schedule to the Pharmacy and Poisons Regulations (Cap. 138 sub. leg. A). (Added L.N. 185 of 1983)
+    - Provided that such preparations do not contain any substance specified in Schedule 3 to the Pharmacy and Poisons Regulations (Cap. 138 sub. leg. A). (Added L.N. 185 of 1983. Amended E.R. 3 of 2015)
 
   - 16C. A preparation of Propiram containing not more than 100 milligrams of propiram per dosage unit and compounded with at least the same amount of methylcellulose. (Added L.N. 185 of 1983)
 

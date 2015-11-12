@@ -1,8 +1,8 @@
-# FIRST SCHEDULE
+# Schedule 1
 
 [ss. 2 & 8]
 
-DANGEROUS TRADES
+Dangerous Trades
 
 - 1. Boiler chipping.
 

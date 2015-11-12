@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 6A, 9, 10, 21, 23, 26 & 28] (L.N. 108 of 2015)
 
-REQUIREMENTS FOR EQUIPMENTS, ETC.
+Requirements for Equipments, etc.
 
 - 1. The ship concerned shall be equipped with—
 

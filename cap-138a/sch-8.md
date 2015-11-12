@@ -1,76 +1,36 @@
-# EIGHTH SCHEDULE
+# Schedule 8
 
-FORM 1
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 2
+Forms 1—5
 
 (Repealed 2 of 2015 s. 69)
 
-FORM 3
+_
+
+Form 5A
 
 (Repealed 2 of 2015 s. 69)
 
-FORM 4
+_
+
+Forms 6—10
 
 (Repealed 2 of 2015 s. 69)
 
-FORM 5
+_
 
-(Repealed 2 of 2015 s. 69)
-
-FORM 5A
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 6
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 7
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 8
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 9
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 10
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 11
+Form 11
 
 (Spent)
 
 _
 
-FORM 12
+Forms 12—16
 
 (Repealed 2 of 2015 s. 69)
 
-FORM 13
+_
 
-(Repealed 2 of 2015 s. 69)
-
-FORM 14
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 15
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 16
-
-(Repealed 2 of 2015 s. 69)
-
-FORM 17 | [regulation 41]
+Form 17 | [reg. 41]
 
 Form of Logo Prescribed for Section 13A
 

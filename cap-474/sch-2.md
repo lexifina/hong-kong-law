@@ -1,10 +1,10 @@
-# SCHEDULE 2
+# Schedule 2
 
 [ss. 28 & 44]
 
-INCREASES IN TAI LAM TUNNEL AND YUEN LONG APPROACH ROAD TOLLS
+Increases in Tai Lam Tunnel and Yuen Long Approach Road Tolls
 
-Category | Vehicle | Increase$
+Category | Vehicle | Increase $
 
 1. | Motorcycles, motor tricycles | 5
 
@@ -27,3 +27,5 @@ Category | Vehicle | Increase$
 7. | Public and private single-decked buses | 15
 
 8. | Public and private double-decked buses | 15
+
+(Format changes—E.R. 3 of 2015)

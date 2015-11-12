@@ -6,7 +6,9 @@ Fees
 
 (L.N. 150 of 2014)
 
-Fee No. | Matter or proceeding | Amount $
+Fee No. | Matter or proceeding | Amount
+
+$
 
 1 | On reference under section 13(1)(a), 13(1)(b) or 14(5) of the Ordinance made to the Registrar to apply for grant of standard patent or licence or whether the period or terms of a licence are reasonable | 190
 
@@ -28,9 +30,9 @@ Fee No. | Matter or proceeding | Amount $
 
 10 | Additional fee for late payment of filing fee or advertisement fee for application for grant of a short-term patent under section 68(6) | 95
 
-11 | On application for maintenance of a standard patent application under section 33 of the Ordinance— Application for maintenance for a further year after the expiry of the 5th year | 270
+11 | On application for maintenance of a standard patent application under section 33 of the Ordinance—
 
-Application for maintenance of any succeeding year thereafter | 270
+Application for maintenance for a further year after the expiry of the 5th year Application for maintenance of any succeeding year thereafter | 270 270
 
 12 | Additional fee for late payment of a maintenance fee under section 33(4) of the Ordinance | 95
 
@@ -40,7 +42,7 @@ Request for renewal for a further year after the expiry of the 3rd year Request 
 
 14 | Additional fee for late payment of a renewal fee under section 39(4) of the Ordinance | 270
 
-15 | Request for renewal of a short-term patent under section 126 of the Ordinance | 1080
+15 | Request for renewal of a short-term patent under section 126 of the Ordinance | 1,080
 
 16 | Additional fee for late payment of a renewal fee under section 126(5) of the Ordinance | 270
 

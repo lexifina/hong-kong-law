@@ -1,4 +1,4 @@
-# TENTH SCHEDULE
+# Schedule 10
 
 [reg. 2A]
 
@@ -40,7 +40,7 @@ Poisons List
 
 - Table
 
-  - Part I
+  - Part 1
 
     - Division A
 
@@ -2676,7 +2676,7 @@ Poisons List
 
     - Division B
 
-    - Alkali fluorides other than those specified in Part II of this List
+    - Alkali fluorides other than those specified in Part 2 of this List
 
     - Barium, salts of, except barium sulphate
 
@@ -2704,11 +2704,11 @@ Poisons List
 
     - Sulphuric acid, except substances containing not more than 70%, weight in weight, of sulphuric acid
 
-  - Part II
+  - Part 2
 
     - Division A
 
-    - Antihistamine substances not included in Part I of this List; their salts; their compounds with any other substance
+    - Antihistamine substances not included in Part 1 of this List; their salts; their compounds with any other substance
 
     - Benzocaine when contained in condoms
 
@@ -2718,7 +2718,7 @@ Poisons List
 
     - Nicotine when contained in (a) chewing gum or lozenges, intended to be used in nicotine replacement therapy and containing not more than 4 mg of Nicotine per piece; or (b) patches for external application, intended to be used in nicotine replacement therapy
 
-    - Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison included in Division A of Part I of this List, where the proportion of the poison does not exceed the equivalent of—
+    - Pharmaceutical products retailed in the form as supplied by the manufacturer, containing a poison included in Division A of Part 1 of this List, where the proportion of the poison does not exceed the equivalent of—
 
       - (a) 0.01% by weight of arsenic trioxide, cantharidin, cocaine, coniine, ecgonine, hydrocyanic acid, strychnine, alkaloids of aconite, alkaloids of coca or alkaloids of gelsemium;
 
@@ -2728,11 +2728,11 @@ Poisons List
 
     - except pharmaceutical products containing any poison—
 
-      - (d) included in the Third Schedule; or
+      - (d) included in the Schedule 3; or
 
       - (e) in the following list— Acetyldihydrocodeine; its salts Alkaloids of belladonna; their salts Alkaloids of ephedra; their salts Atropine; its salts Bambuterol; its salts Benzydamine; its salts Butropium; its salts Codeine; its salts Dextromethorphan; its salts Diclofenac; its salts Dihydrocodeine; its salts Ethylmorphine; its salts Fenoterol; its salts Formoterol; its salts Homatropine; its salts Hyoscine; its salts Hyoscyamine; its salts Ipratropium; its salts Methylaminoheptane; its salts Morphine; its salts Nicocodine; its salts Norcodeine; its salts Orciprenaline; its salts Papaverine; its salts Phenylpropanolamine; its salts Pholcodine; its salts Procaterol; its salts Salmeterol; its salts Terbutaline; its salts Tretoquinol; its salts
 
-    - Phenols as defined in Part I of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols
+    - Phenols as defined in Part 1 of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols
 
     - Terbinafine; its salts; when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled for the treatment of tinea pedis and/or tinea cruris only
 
@@ -2764,10 +2764,10 @@ Poisons List
 
     - Potassium hydroxide
 
-    - Products retailed in the form as supplied by the manufacturer, containing a poison included in Division B of Part I of this List, where the proportion of such poison does not exceed the equivalent of 0.1%
+    - Products retailed in the form as supplied by the manufacturer, containing a poison included in Division B of Part 1 of this List, where the proportion of such poison does not exceed the equivalent of 0.1%
 
     - Sodium hydroxide
 
     - Sodium nitrite
 
-    - (Schedule 10 added 2 of 2015 s. 71)
+    - (Schedule 10 added 2 of 2015 s. 71. Amended E.R. 3 of 2015)

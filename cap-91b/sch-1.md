@@ -1,8 +1,8 @@
-# SCHEDULE 1
+# Schedule 1
 
 [regs. 4(a) & 7(1)]
 
-- PART I RULES FOR COMPUTING INCOME
+- Part 1 Rules for Computing Income
 
   - 1. The income of the person concerned from any source shall be taken to be the income which that person may reasonably expect to receive (in cash or in kind) during the period of computation, that income in the absence of other means of ascertaining it being taken to be the income received during the preceding year.
 
@@ -16,7 +16,7 @@
 
   - 4. In computing the income from any source there shall be disregarded such amount, if any, as the Director considers to be reasonable having regard to the nature of the income or to any other circumstances of the case.
 
-- PART II DEDUCTIONS IN COMPUTING DISPOSABLE INCOME
+- Part 2 Deductions in Computing Disposable Income
 
   - 5. Where the income of the person concerned consists, wholly or in part, of a wage or salary from employment there shall be deducted, if it is reasonable to do so, an amount to provide for—
 
@@ -58,9 +58,9 @@
 
     - (2) In this rule—
 
-      - “net rent” (租金淨額) means the rent less any proceeds of sub-letting any part of the dwelling in respect of which the said rent is paid or the outgoings incurred;
+      - net rent (租金淨額) means the rent less any proceeds of sub-letting any part of the dwelling in respect of which the said rent is paid or the outgoings incurred;
 
-      - “rent” (租金) means—
+      - rent (租金) means—
 
         - (a) the rent payable in respect of a year; and
 
@@ -98,7 +98,7 @@
 
       - (e) in ascertaining whether a person is a dependant, regard shall be had to his income and other resources. (L.N. 148 of 2000)
 
-  - (L.N. 105 of 1988;L.N. 35 of 2011)
+  - (L.N. 105 of 1988; L.N. 35 of 2011)
 
   - 9.
 

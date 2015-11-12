@@ -4,6 +4,8 @@
 
 Savings and Transitional Provisions Relating to Product Eco-responsibility (Amendment) Ordinance 2014
 
+(Schedule 5 added 4 of 2014 s. 22)
+
 - 1. Interpretation
 
   - (1) In this Schedule—
@@ -204,4 +206,4 @@ Savings and Transitional Provisions Relating to Product Eco-responsibility (Amen
 
     - (b) through any other means that the Director considers appropriate.
 
-- 10. Provisions of this Schedule not to derogate from section 23 of Interpretation and General Clauses Ordinance The provisions of this Schedule are in addition to, and not in derogation of, section 23 of the Interpretation and General Clauses Ordinance (Cap. 1). (Schedule 5 added 4 of 2014 s. 22)
+- 10. Provisions of this Schedule not to derogate from section 23 of Interpretation and General Clauses Ordinance The provisions of this Schedule are in addition to, and not in derogation of, section 23 of the Interpretation and General Clauses Ordinance (Cap. 1).

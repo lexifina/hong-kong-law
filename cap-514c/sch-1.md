@@ -112,11 +112,11 @@ Micro-organisms
 
   - (1) In this Schedule—
 
-    - “the Budapest Treaty” (《布達佩斯條約》) means the Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedure done at Budapest in 1977; and
+    - the Budapest Treaty (《布達佩斯條約》) means the Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedure done at Budapest in 1977; and
 
-    - “international depositary authority” (國際寄存主管當局) means a depositary institution which has acquired the status of international depositary authority as provided in Article 7 of the Budapest Treaty.
+    - international depositary authority (國際寄存主管當局) means a depositary institution which has acquired the status of international depositary authority as provided in Article 7 of the Budapest Treaty.
 
-  - (2) For the purposes of this Schedule a “depositary institution” is an institution which, at all relevant times—
+  - (2) For the purposes of this Schedule a depositary institution is an institution which, at all relevant times—
 
     - (a) carries out the functions of receiving, accepting and storing micro-organism and the furnishing of samples thereof; and
 

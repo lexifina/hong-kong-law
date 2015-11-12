@@ -1,8 +1,8 @@
-# SCHEDULE
+# Schedule
 
 [ss. 2, 3 & 7]
 
-FEES
+Fees
 
 Column 1 | Column 2 | Column 3
 

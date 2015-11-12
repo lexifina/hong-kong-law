@@ -1,10 +1,10 @@
-# SCHEDULE 3
+# Schedule 3
 
 [s. 111]
 
-SAVINGS AND TRANSITIONAL PROVISIONS
+Savings and Transitional Provisions
 
-- Part 1 Savings and Transitional Provisions Relating to Commencement# of this Ordinance (Added 11 of 2015 s. 7)
+- Part 1 Savings and Transitional Provisions Relating to Commencement of this Ordinance (Added 11 of 2015 s. 7)
 
   - 1. Conduct of arbitral and related proceedings
 
@@ -34,7 +34,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
   - 1. Conduct of arbitral and related proceedings
 
-    - (1) If an arbitration has commenced under article 21 of the UNCITRAL Model Law before the commencement date#, that arbitration and all related proceedings are to be governed by the pre-amended Ordinance as if the Arbitration (Amendment) Ordinance 2015 (11 of 2015) had not been enacted.
+    - (1) If an arbitration has commenced under article 21 of the UNCITRAL Model Law before the commencement date, that arbitration and all related proceedings are to be governed by the pre-amended Ordinance as if the Arbitration (Amendment) Ordinance 2015 (11 of 2015) had not been enacted.
 
     - (2) In subsection (1)—
 
@@ -42,8 +42,8 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
       - #commencement date (生效日期) means the day on which the Arbitration (Amendment) Ordinance 2015 (11 of 2015) comes into operation;
 
-      - pre-amended Ordinance (《原本條例》) means this Ordinance as in force immediately before the commencement date#.
+      - pre-amended Ordinance (《原本條例》) means this Ordinance as in force immediately before the commencement date.
 
-  - #Commencement date: 17 July 2015.
+  - # Commencement date: 17 July 2015.
 
-(Part 2 added 11 of 2015 s. 7)
+(Part 2 added 11 of 2015 s. 7) (Format changes—E.R. 3 of 2015)
