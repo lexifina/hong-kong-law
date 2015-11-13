@@ -4,8 +4,6 @@
 
 Interpretation and General Provisions
 
-(#The amendment to Schedule 1, Part 1, section 1 by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) has come into operation on 10 July 2015, in so far as it relates to paragraphs (a) and (b) of the new definition of market contract. Please see paragraph (t) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2015 (L.N. 95 of 2015).)
-
 - Part 1 Interpretation
 
   - 1. Interpretation of this Ordinance In this Ordinance, unless otherwise defined or excluded or the context otherwise requires—
@@ -596,6 +594,8 @@ Interpretation and General Provisions
 
     - prescribed person (訂明人士) has the meaning given by section 101A of this Ordinance; (Added 6 of 2014 s. 52)
 
+    - printed licence (印刷本牌照) means a certificate printed on paper or in any other physical form certifying the grant of a licence (whether issued before, on or after the commencement date§ of Part 2 of the Securities and Futures (Amendment) Ordinance 2015 (19 of 2015)); (Added 19 of 2015 s. 12)
+
     - Privacy Commissioner for Personal Data (私隱專員) means the Privacy Commissioner for Personal Data established under section 5(1) of the Personal Data (Privacy) Ordinance (Cap. 486);
 
     - professional investor (專業投資者) means—
@@ -949,6 +949,8 @@ Interpretation and General Provisions
     - trading right (交易權), in relation to a recognized exchange company, means a right to be eligible to trade through that exchange company or on a recognized stock market or a recognized futures market operated by that exchange company and entered as such a right in a list, roll or register kept by that exchange company.
 
   - (Amended 23 of 2004 s. 56; 30 of 2004 s. 3; 28 of 2012 ss. 912 & 920)
+
+- §Commencement date: 13 November 2015.
 
   - 1A. Meaning of structured product
 
@@ -1364,4 +1366,6 @@ Interpretation and General Provisions
 
 Editorial Note:
 
-* Commencement date : 3 March 2014.
+- * Commencement date : 3 March 2014.
+
+- # The amendment to Schedule 1, Part 1, section 1 by the Securities and Futures (Amendment) Ordinance 2014 (6 of 2014) has come into operation on 10 July 2015, in so far as it relates to paragraphs (a) and (b) of the new definition of market contract. Please see paragraph (t) of the Securities and Futures (Amendment) Ordinance 2014 (Commencement) Notice 2015 (L.N. 95 of 2015).

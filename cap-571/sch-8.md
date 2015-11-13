@@ -240,7 +240,7 @@ Item | Provision | Description of decision
 
 29. | Section 122(2) of this Ordinance | Refusal to approve a transfer of an accreditation.
 
-30. | Section 124(1) of this Ordinance | Refusal to issue a duplicate licence or certificate of registration.
+30. | Section 124(1) of this Ordinance | Refusal to issue a duplicate printed licence or certificate of registration. (Amended 19 of 2015 s. 13)
 
 31. | Section 126(1) of this Ordinance | Refusal to approve a person as a responsible officer.
 
@@ -304,7 +304,7 @@ Item | Provision | Description of decision
 
 60. | Section 202(1) of this Ordinance | Requirement to transfer records.
 
-61. | Section 203(1) of this Ordinance | Imposition of any condition.
+61. | Section 203(1F) of this Ordinance | Imposition of any condition. (Amended 19 of 2015 s. 26)
 
 62. | Section 204(1)(a) or (b) of this Ordinance | Prohibition or requirement imposed on a licensed corporation concerning transactions, etc.
 

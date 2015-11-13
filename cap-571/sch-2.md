@@ -4,6 +4,8 @@
 
 Securities and Futures Commission
 
+(Format changes—E.R. 2 of 2012)
+
 - Part 1 Constitution and Proceedings of Commission, etc. Chairman, chief executive officer and other members of Commission (Amended 15 of 2006 s. 6)
 
   - 1. The Commission shall consist of a chairman, a chief executive officer and such number of other executive directors and non-executive directors as is determined by the Chief Executive, all of whom shall be appointed by the Chief Executive as follows— (Amended 15 of 2006 s. 6)
@@ -180,7 +182,7 @@ Securities and Futures Commission
 
     - (1A) to establish a wholly owned subsidiary, under section 5(4)(da) of this Ordinance; (Added 9 of 2012 s. 33)
 
-    - (2) to publish or otherwise make available materials, under section 5(4)(e) of this Ordinance;
+    - (2) (Repealed 19 of 2015 s. 28)
 
     - (3) to establish any committee, under section 8(1) of this Ordinance;
 
@@ -357,5 +359,3 @@ Securities and Futures Commission
     - (88) to apply to the Court of First Instance, pursuant to section 1(6)(a) of Part 6 of Schedule 3 to this Ordinance;
 
     - (89) to apply to the Court of First Instance, pursuant to section 1(7) of Part 6 of Schedule 3 to this Ordinance.
-
-  - (Format changes—E.R. 2 of 2012)

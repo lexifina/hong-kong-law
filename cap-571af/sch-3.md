@@ -34,7 +34,7 @@ Fees relating to Part V of Ordinance
 
 10. | Prescribed fee payable under section 122(2) of the Ordinance on an application for approval of a transfer of an accreditation of a licensed representative | $200 for each regulated activity
 
-11. | Prescribed fee payable under section 124(1) of the Ordinance on an application for issue of a duplicate of a licence or certificate of registration | $200
+11. | Prescribed fee payable under section 124(1) of the Ordinance on an application for issue of a duplicate of a printed licence or certificate of registration (19 of 2015 s. 19) | $200
 
 12. | Prescribed fee payable under section 126(1) of the Ordinance on an application for approval of a person as a responsible officer | $2,950 for each regulated activity
 
@@ -48,7 +48,7 @@ Fees relating to Part V of Ordinance
 
 (ii) | (subject to subparagraph (iii)) for removing any regulated activity | $200 for each regulated activity
 
-(iii) | for removing all regulated activities specified in the licence | nil
+(iii) | for removing all regulated activities | nil
 
 (b) | in the case of a licensed representative—
 
@@ -58,7 +58,7 @@ Fees relating to Part V of Ordinance
 
 (ii) | (subject to subparagraph (iii)) for removing any regulated activity | $200 for each regulated activity
 
-(iii) | for removing all regulated activities specified in the licence | nil
+(iii) | for removing all regulated activities | nil
 
 (c) | in the case of a registered institution—
 
@@ -66,11 +66,11 @@ Fees relating to Part V of Ordinance
 
 (ii) | (subject to subparagraph (iii)) for removing any regulated activity | $200 for each regulated activity
 
-(iii) | for removing all regulated activities specified in the certificate of registration | nil
+(iii) | for removing all regulated activities (19 of 2015 s. 19) | nil
 
 14. | Prescribed fee payable under section 130(1) of the Ordinance on an application for approval of premises | $1,000
 
-15. | Prescribed fee payable under section 132(1)of the Ordinance on an application for approval to become or continue to be a substantial shareholder | $3,000
+15. | Prescribed fee payable under section 132(1) of the Ordinance on an application for approval to become or continue to be a substantial shareholder | $3,000
 
 16. | Prescribed fee payable under section 134(1) of the Ordinance on an application for the grant of a modification or waiver in respect of—
 
@@ -118,6 +118,8 @@ Fees relating to Part V of Ordinance
 
 (c) | in the case of a registered institution | $35,000 for each regulated activity
 
+Miscellaneous fees
+
 19. | Prescribed fee payable under section 58 of the Securities and Futures (Financial Resources) Rules (Cap. 571 sub. leg. N) on an application for any approval | $6,000
 
-20. | Prescribed application fee payable under section 8(2)(b) of the Securities and Futures (Disclosure of Interests-Securities Borrowing and Lending) Rules (Cap. 571 sub. leg. X) on an application for approval as an approved lending agent | $24,000
+20. | Prescribed application fee payable under section 8(2)(b) of the Securities and Futures (Disclosure of Interests—Securities Borrowing and Lending) Rules (Cap. 571 sub. leg. X) on an application for approval as an approved lending agent | $24,000

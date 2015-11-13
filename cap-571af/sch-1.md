@@ -26,7 +26,7 @@ Fees relating to Part IV of Ordinance
 
 3. | Fee payable in respect of—
 
-(a) | authorization of a collective investment scheme under section 104 of the Ordinance— | $20,000, plus $2,500 for each such fund(excluding any such fund which is already within or maintained by another collective investment scheme which has been authorized under section 104 of the Ordinance)
+(a) | authorization of a collective investment scheme under section 104 of the Ordinance— | $20,000, plus $2,500 for each such fund (excluding any such fund which is already within or maintained by another collective investment scheme which has been authorized under section 104 of the Ordinance)
 
 (i) | within which there is, or could be, more than one fund; or
 
@@ -34,7 +34,7 @@ Fees relating to Part IV of Ordinance
 
 (b) | authorization of any other collective investment scheme under section 104 of the Ordinance | $10,000
 
-(c) | extension of authorization of a collective investmentscheme under section 104 of the Ordinance to cover an additional fund | $2,500 (excluding any such fund which is already within or maintained by another collective investment scheme which has been authorized under section 104 of the Ordinance)
+(c) | extension of authorization of a collective investment scheme under section 104 of the Ordinance to cover an additional fund | $2,500 (excluding any such fund which is already within or maintained by another collective investment scheme which has been authorized under section 104 of the Ordinance)
 
 4. | Annual fee payable in respect of authorization of a collective investment scheme under section 104 of the Ordinance which is not limited to a period of less than 12 months—
 
@@ -68,11 +68,11 @@ Fees relating to Part IV of Ordinance
 
 Fees relating to Part V of Ordinance
 
-9. | Fee payable on an application—
+9. | Fee payable—
 
-(a) | for the grant of a licence under section 116, 117, 120 or 121 of the Ordinance where a licensed corporation or licensed representative has substantially changed its or his particulars since the grant of the existing licence | $200
+(a) | for the issue of a printed licence under section 116 or 117 of the Ordinance if the particulars of a licensed corporation have changed since the issue of the existing printed licence | $200
 
-(b) | for the grant of a certificate of registration under section 119 of the Ordinance where a registered institution has substantially changed its particulars since the grant of the existing certificate of registration | $200
+(b) | for the grant of a certificate of registration under section 119 of the Ordinance if the particulars of a registered institution have changed since the grant of the existing certificate of registration (19 of 2015 s. 18) | $200
 
 10. | Fee payable for renewal of a modification or waiver referred to in item 16(e), (f), (g), (h), (i) or (j) of Schedule 3 | $4,000
 
