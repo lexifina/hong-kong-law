@@ -10,6 +10,8 @@ Interpretation
 
     - currency (貨幣) includes a cheque and a traveller’s cheque;
 
+    - designated retail payment system (指定零售支付系統) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 71)
+
     - document (文件) has the meaning given by section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571);
 
     - function (職能) includes power and duty;
@@ -53,6 +55,8 @@ Interpretation
       - (c) arranging for the receipt of money in a place outside Hong Kong;
 
     - Review Tribunal (覆核審裁處) means the Tribunal as defined by section 54;
+
+    - stored value facility (儲值支付工具) has the meaning given by section 2A of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 71)
 
     - terrorist financing (恐怖分子資金籌集) means—
 
@@ -102,9 +106,11 @@ Interpretation
 
       - (e) an authorized insurance broker;
 
-      - (f) a licensed money service operator; or
+      - (f) a licensed money service operator; (Amended 18 of 2015 s. 71)
 
-      - (g) the Postmaster General;
+      - (g) the Postmaster General; or (Amended 18 of 2015 s. 71)
+
+      - (h) an SVF licensee; (Added 18 of 2015 s. 71)
 
     - Insurance Authority (保險業監督) means the Insurance Authority appointed under section 4 of the Insurance Companies Ordinance (Cap. 41);
 
@@ -118,7 +124,7 @@ Interpretation
 
     - relevant authority (有關當局)—
 
-      - (a) in relation to an authorized institution, means the Monetary Authority;
+      - (a) in relation to an authorized institution or SVF licensee, means the Monetary Authority; (Amended 18 of 2015 s. 71)
 
       - (b) in relation to a licensed corporation, means the Securities and Futures Commission;
 
@@ -126,4 +132,10 @@ Interpretation
 
       - (d) in relation to a licensed money service operator or to the Postmaster General, means the Commissioner;
 
-    - Securities and Futures Commission (證監會) means the Securities and Futures Commission referred to in section 3(1) of the Securities and Futures Ordinance (Cap. 571).
+    - Securities and Futures Commission (證監會) means the Securities and Futures Commission referred to in section 3(1) of the Securities and Futures Ordinance (Cap. 571); (Amended 18 of 2015 s. 71)
+
+    - settlement institution (交收機構) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 71)
+
+    - SVF licensee (工具持牌人) means a person who is granted a licence under section 8F of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 71)
+
+    - system operator (系統營運者) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584). (Added 18 of 2015 s. 71)

@@ -22,7 +22,9 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
   - (g) a deposit held by a depositor as a bare trustee for an excluded person, or in a client account for an excluded person as the depositor’s client, or, in the case of a deposit so held for an excluded person and a non-excluded person (except where those persons carry on business in partnership), the portion of the deposit attributable to the excluded person’s share in the deposit;
 
-  - (h) a deposit held by a depositor as a trustee for an excluded person only.
+  - (h) a deposit held by a depositor as a trustee for an excluded person only; (Amended 18 of 2015 s. 67)
+
+  - (i) any float or SVF deposit held by a depositor with a Scheme member. (Added 18 of 2015 s. 67)
 
 - 2. For the purpose of the definition of “relevant deposit” in section 2(1) of this Ordinance, the following deposits are specified—
 
@@ -116,6 +118,8 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
 
   - “financial product” (金融產品) means any securities, futures contract, collective investment scheme or leveraged foreign exchange contract within the meaning of section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571); (Added L.N. 107 of 2006)
 
+  - float (儲值金額) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 67)
+
   - “foreign bank” (外地銀行) means a company that—
 
     - (a) is incorporated outside Hong Kong;
@@ -167,6 +171,8 @@ DEPOSITS SPECIFIED FOR PURPOSES OF DEFINITIONS OF “PROTECTED DEPOSIT” AND �
     - (c) a rate of return, quoted or published from time to time, on an investment of moneys made by a person or government; or
 
     - (d) a figure, quoted or published from time to time, that represents the result of a mathematical operation that involves more than one rate of interest or return mentioned in paragraph (a), (b) or (c); (Added L.N. 107 of 2006)
+
+  - SVF deposit (工具按金) has the meaning given by section 2 of the Payment Systems and Stored Value Facilities Ordinance (Cap. 584); (Added 18 of 2015 s. 67)
 
   - “swap contract” (掉期合約) means a contract made between two parties whereby each party agrees to make payments, calculated at a rate of interest on a specified amount of money, to the other party in a particular period. (Added L.N. 107 of 2006)
 
