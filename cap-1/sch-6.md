@@ -30,6 +30,8 @@ Secretary for Food and Health
 
 Secretary for Home Affairs
 
+Secretary for Innovation and Technology
+
 Secretary for Labour and Welfare
 
 Secretary for Security
@@ -52,4 +54,4 @@ Principal Assistant Secretary
 
 Assistant Director of Administration
 
-(Schedule 6 replaced L.N. 134 of 2007. Amended L.N. 49 of 2008)
+(Schedule 6 replaced L.N. 134 of 2007. Amended L.N. 49 of 2008; L.N. 227 of 2015)
