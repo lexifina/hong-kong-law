@@ -176,6 +176,8 @@ The Democratic People’s Republic of Korea
 
 Republic of Korea
 
+The State of Kuwait
+
 The Kyrgyz Republic
 
 The Lao People’s Democratic Republic
@@ -358,13 +360,11 @@ The Republic of Zimbabwe
 
 Countries, territories and areas which have acceded to the World Trade Organization Agreement (not including countries which have acceded to the Paris Convention)
 
-The Republic of Cape Verde
+The Republic of Cabo Verde
 
 European Union
 
 The Republic of Fiji
-
-The State of Kuwait
 
 The Macao Special Administrative Region
 
@@ -378,4 +378,4 @@ The Solomon Islands
 
 The Republic of Vanuatu
 
-(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009; L.N. 63 of 2013; L.N. 69 of 2014) (Format changes—E.R. 2 of 2014)
+(Amended L.N. 340 of 1998; L.N. 65 of 2002; L.N. 215 of 2005; L.N. 253 of 2009; L.N. 63 of 2013; L.N. 69 of 2014; L.N. 122 of 2015) (Format changes—E.R. 2 of 2014)
