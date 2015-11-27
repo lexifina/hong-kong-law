@@ -178,6 +178,8 @@ The Democratic People’s Republic of Korea
 
 Republic of Korea
 
+The State of Kuwait
+
 The Kyrgyz Republic
 
 The Lao People’s Democratic Republic
@@ -362,13 +364,11 @@ WTO member countries, territories and areas (not including Paris Convention coun
 
 The following are specified as being countries, territories or areas which have acceded to the World Trade Organisation Agreement—
 
-The Republic of Cape Verde
+The Republic of Cabo Verde
 
 European Union
 
 The Republic of Fiji
-
-The State of Kuwait
 
 The Macao Special Administrative Region
 
@@ -382,4 +382,4 @@ The Solomon Islands
 
 The Republic of Vanuatu
 
-(Amended L.N. 341 of 1998; L.N. 66 of 2002; L.N. 217 of 2005; L.N. 252 of 2009; L.N. 62 of 2013; L.N. 68 of 2014) (Format changes—E.R. 2 of 2014)
+(Amended L.N. 341 of 1998; L.N. 66 of 2002; L.N. 217 of 2005; L.N. 252 of 2009; L.N. 62 of 2013; L.N. 68 of 2014; L.N. 121 of 2015) (Format changes—E.R. 2 of 2014)
