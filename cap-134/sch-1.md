@@ -184,6 +184,8 @@
 
     - Nabilone (Added L.N. 7 of 2011)
 
+    - Naphthalen-1-yl-(4-pentyloxynaphthalen-1-yl)methanone (Added L.N. 144 of 2015)
+
     - Nicocodine
 
     - Nicomorphine (3, 6-dinicotinoyl-morphine)
@@ -246,6 +248,12 @@
 
     - Quinalbarbitone
 
+    - Quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate (Added L.N. 144 of 2015)
+
+    - Quinolin-8-yl 1-fluoropentyl-1H-indole-3-carboxylate (Added L.N. 144 of 2015)
+
+    - Quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate (Added L.N. 144 of 2015)
+
     - Racemethorphan
 
     - Racemoramide
@@ -274,7 +282,25 @@
 
     - Zipeprol (Added L.N. 348 of 1998)
 
+    - N-(Adamant-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide (Added L.N. 144 of 2015)
+
+    - N-(Adamant-1-yl)-1-pentyl-1H-indazole-3-carboxamide (Added L.N. 144 of 2015)
+
+    - N-(Adamant-1-yl)-1-pentyl-1H-indole-3-carboxamide (Added L.N. 144 of 2015)
+
+    - N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (Added L.N. 144 of 2015)
+
+    - N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (Added L.N. 144 of 2015)
+
+    - N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (Added L.N. 144 of 2015)
+
+    - N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (Added L.N. 144 of 2015)
+
     - 1-Benzylpiperazine (Added L.N. 7 of 2011)
+
+    - 4-Bromo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (Added L.N. 144 of 2015)
+
+    - 4-Chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (Added L.N. 144 of 2015)
 
     - 4-Cyano-2-dimethylamino-4, 4-diphenylbutane
 
@@ -282,13 +308,27 @@
 
     - [2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1, 2, 3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone (Added L.N. 7 of 2011)
 
+    - 2,5-Dimethoxy-N-(2-methoxybenzyl)phenethylamine (Added L.N. 144 of 2015)
+
     - N, N-dimethylamphetamine
+
+    - 3-(1,1-Dimethylbutyl)-6a,7,10,10a-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran (Added L.N. 144 of 2015)
+
+    - 4-[4-(1,1-Dimethylheptyl)-2,6-dimethoxyphenyl]-6,6-dimethyl-bicyclo[3.1.1]hept-2-ene-2-methanol (Added L.N. 144 of 2015)
 
     - 3-Dimethylheptyl-11-hydroxyhexahydrocannabinol (Added L.N. 7 of 2011)
 
-    - 9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a, 7, 10, 10a-tetrahydrobenzo[c]chromen-1-ol (Added L.N. 7 of 2011)
+    - 4-Fluoro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (Added L.N. 144 of 2015)
 
-    - [9-Hydroxy-6-methyl-3-[5-phenylpentan-2-yl] oxy-5, 6, 6a, 7, 8, 9, 10, 10a-octahydrophenanthridin-1-yl] acetate (Added L.N. 7 of 2011)
+    - 3-Hydroxy-2-[6-isopropenyl-3-methyl-cyclohex-2-en-1-yl]-5-pentyl-1,4-benzoquinone (Added L.N. 144 of 2015)
+
+    - [9-Hydroxy-6-methyl-3-[5-phenylpentan-2-yl]oxy-5,6,6a,7,8,9,10,10a-octahydrophenanthridin-1-yl]acetate (Added L.N. 144 of 2015)
+
+    - 9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol (Added L.N. 144 of 2015)
+
+    - 4-Iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (Added L.N. 144 of 2015)
+
+    - N-(2-Methoxybenzyl)-1-[3-bromo-2,5-dimethoxybicyclo[4.2.0]octa-1,3,5-trien-7-yl]methanamine (Added L.N. 144 of 2015)
 
     - N-[α-Methyl-3, 4-(methylenedioxy)phenethyl] hydroxylamine
 
@@ -297,6 +337,8 @@
     - 2-Methyl-3-morpholino-1, 1-diphenyl-propanecarboxylic acid
 
     - 4-Methyl aminorex
+
+    - 4-Methyl-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (Added L.N. 144 of 2015)
 
     - 4-Methylthioamphetamine (Added L.N. 149 of 2001)
 
@@ -340,13 +382,13 @@
 
       - (ii) by substitution in the aromatic ring to any extent with alkyl, alkoxy, alkylenedioxy, halide or haloalkyl groups; (Added L.N. 7 of 2011)
 
-    - (g) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-(1-naphthoyl)indole or 1H-indol-3-yl-(1-naphthyl)methane by substitution at the nitrogen atom of the indole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011)
+    - (g) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-(1-naphthoyl)indole, 3-(2-naphthoyl)indole, 1H-indol-3-yl-(1-naphthyl)methane or 1H-indol-3-yl-(2-naphthyl)methane by substitution at the nitrogen atom of the indole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, cyanoalkyl, hydroxyalkyl, haloalkyl, (N-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011. Amended L.N. 144 of 2015)
 
-    - (h) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-(1-naphthoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl) ethyl, whether or not further substituted in the pyrrole ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011)
+    - (h) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-(1-naphthoyl)pyrrole or 3-(2-naphthoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, cyanoalkyl, hydroxyalkyl, haloalkyl, (N-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl) ethyl, whether or not further substituted in the pyrrole ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011. Amended L.N. 144 of 2015)
 
-    - (i) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 1-(1-naphthylmethyl)indene by substitution at the 3-position of the indene ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indene ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011)
+    - (i) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 1-(1-naphthylmethylene)indene or 1-(2-naphthylmethylene)indene by substitution at the 3-position of the indene ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, cyanoalkyl, hydroxyalkyl, haloalkyl, (N-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indene ring to any extent and whether or not substituted in the naphthyl ring to any extent; (Added L.N. 7 of 2011. Amended L.N. 144 of 2015)
 
-    - (j) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-phenylacetylindole by substitution at the nitrogen atom of the indole ring with alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent; (Added L.N. 7 of 2011)
+    - (j) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-phenylacetylindole by substitution at the nitrogen atom of the indole ring with alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, cyanoalkyl, hydroxyalkyl, haloalkyl, (N-methylpiperidin -2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent; (Added L.N. 7 of 2011. Amended L.N. 144 of 2015)
 
     - (k) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 2-(3-hydroxycyclohexyl)phenol by substitution at the 5-position of the phenolic ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the cyclohexyl ring to any extent; (Added L.N. 7 of 2011)
 
@@ -368,7 +410,13 @@
 
       - (iv) by substitution in the cyclohexyl or cyclohexanone ring with one or more alkyl substituents;
 
-      - (v) by replacement of the phenyl ring with a 2-thienyl ring. (Added L.N. 107 of 2014)
+      - (v) by replacement of the phenyl ring with a 2-thienyl ring; (Added L.N. 107 of 2014. Amended L.N. 144 of 2015)
+
+    - (n) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-benzoylindole by substitution at the nitrogen atom of the indole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, cyanoalkyl, hydroxyalkyl, haloalkyl, (N-methylpiperidin-2-yl) methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent; (Added L.N. 144 of 2015)
+
+    - (o) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-(1-adamantoyl)indole or 3-(2-adamantoyl)indole by substitution at the nitrogen atom of the indole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, cyanoalkyl, hydroxyalkyl, haloalkyl, (N-methylpiperidin-2-yl) methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the adamantyl ring to any extent; (Added L.N. 144 of 2015)
+
+    - (p) any compound (not being a compound for the time being specified in subparagraph (a)) structurally derived from 3-(2,2,3,3- tetramethylcyclopropylcarbonyl)indole by substitution at the nitrogen atom of the indole ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, cyanoalkyl, hydroxyalkyl, haloalkyl, (N-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl) ethyl, whether or not further substituted in the indole ring to any extent. (Added L.N. 144 of 2015)
 
   - 2. Any stereoisomeric form of a substance for the time being specified in paragraph 1 not being dextromethorphan or dextrophan.
 
