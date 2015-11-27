@@ -44,13 +44,13 @@ The Burkina Faso
 
 The Republic of Burundi
 
+The Republic of Cabo Verde
+
 Kingdom of Cambodia
 
 The Republic of Cameroon
 
 Canada
-
-The Republic of Cape Verde
 
 The Central African Republic
 
@@ -316,8 +316,10 @@ The Bolivarian Republic of Venezuela
 
 The Socialist Republic of Viet Nam
 
+The Republic of Yemen
+
 The Republic of Zambia
 
 The Republic of Zimbabwe
 
-(L.N. 218 of 2005; L.N. 255 of 2009; L.N. 65 of 2013; L.N. 71 of 2014)
+(L.N. 218 of 2005; L.N. 255 of 2009; L.N. 65 of 2013; L.N. 71 of 2014; L.N. 124 of 2015)
