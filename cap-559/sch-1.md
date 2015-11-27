@@ -176,6 +176,8 @@ The Democratic People’s Republic of Korea
 
 Republic of Korea
 
+The State of Kuwait
+
 The Kyrgyz Republic
 
 The Lao People’s Democratic Republic
@@ -398,13 +400,13 @@ The Burkina Faso
 
 The Republic of Burundi
 
+The Republic of Cabo Verde
+
 Kingdom of Cambodia
 
 The Republic of Cameroon
 
 Canada
-
-The Republic of Cape Verde
 
 The Central African Republic
 
@@ -670,8 +672,10 @@ The Bolivarian Republic of Venezuela
 
 The Socialist Republic of Viet Nam
 
+The Republic of Yemen
+
 The Republic of Zambia
 
 The Republic of Zimbabwe
 
-(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009; L.N. 64 of 2013; L.N. 70 of 2014) (Format changes—E.R. 2 of 2014)
+(Schedule 1 amended L.N. 181 of 2002; L.N. 216 of 2005; L.N. 254 of 2009; L.N. 64 of 2013; L.N. 70 of 2014; L.N. 123 of 2015) (Format changes—E.R. 2 of 2014)
