@@ -1,9 +1,7 @@
 Air Pollution Control (Non-road Mobile Machinery) (Emission) Regulation
 
-(Made by the Secretary for the Environment under section 43 of the
+(Cap. 311, section 43)
 
-Air Pollution Control Ordinance (Cap. 311) after consultation
-
-with the Advisory Council on the Environment)
+(Enacting provision omitted—E.R. 3 of 2015)
 
 [1 June 2015]
