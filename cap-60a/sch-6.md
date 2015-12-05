@@ -1,6 +1,6 @@
 # Schedule 6
 
-[regs. 6 & 7]
+[regs. 6, 6I & 7] (L.N. 105 of 2015)
 
 - 1. Frozen or chilled beef, mutton, pork, veal or lamb, and the frozen or chilled offal of any animal from which such meat is derived.
 
