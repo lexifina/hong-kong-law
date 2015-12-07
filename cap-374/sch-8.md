@@ -4,6 +4,8 @@
 
 Requirements Applicable to Car Testing Centres
 
+(Schedule 8 added 65 of 1985 s. 4)
+
 - 1. A car testing centre shall be equipped, staffed, operated and maintained, and examinations of private cars and light goods vehicles shall be conducted, in accordance with the code of practice issued and from time to time revised by the Commissioner under section 88F(1)(a). (Amended L.N. 207 of 1990)
 
 - 2. Examinations of private cars and light goods vehicles at the car testing centre shall be carried out only by an approved car tester, and under the general supervision of a responsible person. (Amended L.N. 207 of 1990)
@@ -16,7 +18,7 @@ Requirements Applicable to Car Testing Centres
 
   - (c) in the ownership of the car testing centre, or the financial status of the proprietor, or any other matter specified by the Commissioner.
 
-- 4. Subject to any practice laid down in the code of practice, the car testing centre shall examine any private car or light goods vehicle produced to it for examination for the purposes of Part 14A of the Ordinance. (Amended L.N. 207 of 1990)
+- 4. Subject to any practice laid down in the code of practice, the car testing centre shall examine any private car or light goods vehicle produced to it for examination for the purposes of Part 9A of the Ordinance. (Amended L.N. 207 of 1990)
 
 - 5. Notices in a form approved by the Commissioner shall be prominently displayed at the car testing centre indicating and stating—
 
@@ -32,7 +34,7 @@ Requirements Applicable to Car Testing Centres
 
   - (f) the circumstances under which the issue of a certificate of roadworthiness may be refused;
 
-  - (g) the procedure that may be followed upon a refusal to issue a certificate of road worthiness; and
+  - (g) the procedure that may be followed upon a refusal to issue a certificate of roadworthiness; and
 
   - (h) a warning against the commission of offences under the Prevention of Bribery Ordinance (Cap. 201) and the Independent Commission Against Corruption Ordinance (Cap. 204). (Amended 71 of 1991 s. 7)
 
@@ -44,30 +46,30 @@ Requirements Applicable to Car Testing Centres
 
   - (i) | Initial examination—
 
-  - (A) | Private car | $530
+  - (A) | Private car | $585
 
-  - (B) | Light goods vehicle | $630
+  - (B) | Light goods vehicle | $695
 
   - (ii) | Re-examination where made within 14 days of initial examination—
 
-  - (A) | Private car | $165
+  - (A) | Private car | $180
 
-  - (B) | Light goods vehicle | $210
+  - (B) | Light goods vehicle | $230
 
   - (iii) | Issue of a duplicate copy of a certificate of roadworthiness—
 
-  - (A) | Private car | $165
+  - (A) | Private car | $180
 
-  - (B) | Light goods vehicle (Replaced L.N. 453 of 1995. Amended L.N. 513 of 1995) | $210
+  - (B) | Light goods vehicle (Replaced L.N. 453 of 1995. Amended L.N. 513 of 1995) | $230
 
-  - *(c) | Fee payable for supply of each form of a certificate of road worthiness—
+  - *(c) | Fee payable for supply of each form of a certificate of roadworthiness—
 
-  - (i) | Private car | $58
+  - (i) | Private car | $16
 
-  - (ii) | Light goods vehicle (Added L.N. 50 of 1998) | $58
+  - (ii) | Light goods vehicle (Added L.N. 50 of 1998. Amended L.N. 196 of 2015) | $16
 
-- (Schedule 8 added 65 of 1985 s. 4. Amended E.R. 2 of 2012)
+(Amended E.R. 2 of 2012)
 
 Editorial Note:
 
-* Please see Cap. 543 in relation to the fees paid by any proprietor of a car testing centre for the supply of a form of a certificate of roadworthiness in respect of a private car or light goods vehicle during the period from 9.11.1995 to 22.1.1998 (the date immediately before the commencement of L.N. 50 of 1998) .
+* | Please see the Road Traffic (Validation of Collection of Fees) Ordinance (Cap. 543) in relation to the fees paid by any proprietor of a car testing centre for the supply of a form of a certificate of roadworthiness in respect of a private car or light goods vehicle during the period from 9.11.1995 to 22.1.1998 (the date immediately before the commencement of L.N. 50 of 1998).
