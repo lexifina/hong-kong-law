@@ -15,3 +15,7 @@ FOREIGN STATE
 - 5. New Zealand (L.N. 78 of 2009)
 
 - 6. Russian Federation (L.N. 81 of 2009)
+
+- 7. Kingdom of Cambodia (L.N. 179 of 2015)
+
+- 8. Republic of the Philippines (L.N. 182 of 2015)
