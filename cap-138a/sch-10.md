@@ -592,6 +592,8 @@ Poisons List
 
     - Celiprolol; its salts
 
+    - Ceritinib; its salts
+
     - Cerivastatin; its salts
 
     - Certolizumab pegol
@@ -688,7 +690,7 @@ Poisons List
 
     - Clothiapine
 
-    - Clotrimazole; its salts
+    - Clotrimazole; its salts; except when contained in pharmaceutical products labelled only for the treatment of tinea pedis or tinea cruris, or both
 
     - Clozapine; its salts
 
@@ -963,6 +965,8 @@ Poisons List
     - Droperidol
 
     - Drotrecogin alfa
+
+    - Dulaglutide
 
     - Duloxetine; its salts
 
@@ -1796,6 +1800,8 @@ Poisons List
 
     - Nitromethaqualone; its salts
 
+    - Nivolumab
+
     - Nomifensine; its salts
 
     - Noracymethadol; its salts
@@ -1934,6 +1940,8 @@ Poisons List
 
     - Pegvisomant; its salts
 
+    - Pembrolizumab
+
     - Pemetrexed; its salts; its esters; their salts
 
     - Pemirolast; its salts
@@ -2027,6 +2035,8 @@ Poisons List
     - Pipemidic acid
 
     - Pipobroman
+
+    - Pirfenidone; its salts
 
     - Piritramide; its salts
 
@@ -2158,6 +2168,8 @@ Poisons List
 
     - Pyrimethamine
 
+    - Pyriprole; its salts
+
     - Pyrithyldione
 
     - Quetiapine; its salts
@@ -2282,6 +2294,8 @@ Poisons List
 
     - Saxagliptin; its salts
 
+    - Secukinumab
+
     - Sermorelin; its salts
 
     - Sertaconazole; its salts
@@ -2396,7 +2410,7 @@ Poisons List
 
     - Terazosin; its salts
 
-    - Terbinafine; its salts; except when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled for the treatment of tinea pedis and/or tinea cruris only
+    - Terbinafine; its salts; except when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled only for the treatment of tinea pedis or tinea cruris, or both
 
     - Terbutaline; its salts
 
@@ -2672,7 +2686,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015)
 
     - Division B
 
@@ -2714,6 +2728,8 @@ Poisons List
 
     - alpha-Chloralose
 
+    - Clotrimazole; its salts; when contained in pharmaceutical products labelled only for the treatment of tinea pedis or tinea cruris, or both
+
     - Loratadine; its salts; when contained in pharmaceutical products labelled for the relief of the symptoms of allergic rhinitis only
 
     - Nicotine when contained in (a) chewing gum or lozenges, intended to be used in nicotine replacement therapy and containing not more than 4 mg of Nicotine per piece; or (b) patches for external application, intended to be used in nicotine replacement therapy
@@ -2730,11 +2746,13 @@ Poisons List
 
       - (d) included in the Schedule 3; or
 
-      - (e) in the following list— Acetyldihydrocodeine; its salts Alkaloids of belladonna; their salts Alkaloids of ephedra; their salts Atropine; its salts Bambuterol; its salts Benzydamine; its salts Butropium; its salts Codeine; its salts Dextromethorphan; its salts Diclofenac; its salts Dihydrocodeine; its salts Ethylmorphine; its salts Fenoterol; its salts Formoterol; its salts Homatropine; its salts Hyoscine; its salts Hyoscyamine; its salts Ipratropium; its salts Methylaminoheptane; its salts Morphine; its salts Nicocodine; its salts Norcodeine; its salts Orciprenaline; its salts Papaverine; its salts Phenylpropanolamine; its salts Pholcodine; its salts Procaterol; its salts Salmeterol; its salts Terbutaline; its salts Tretoquinol; its salts
+      - (e) in the following list— Acetyldihydrocodeine; its salts Alkaloids of belladonna; their salts Alkaloids of ephedra; their salts Atropine; its salts Bambuterol; its salts Benzydamine; its salts Butropium; its salts Codeine; its salts Dextromethorphan; its salts Diclofenac; its salts Dihydrocodeine; its salts Ethylmorphine; its salts Fenoterol; its salts Formoterol; its salts Homatropine; its salts Hyoscine; its salts Hyoscyamine; its salts Ipratropium; its salts Methylaminoheptane; its salts Morphine; its salts Nicocodine; its salts Nicotine (except when contained in (a) chewing gum or lozenges, intended to be used in nicotine replacement therapy and containing not more than 4 mg of Nicotine per piece; or (b) patches for external application, intended to be used in nicotine replacement therapy) Norcodeine; its salts Orciprenaline; its salts Papaverine; its salts Phenylpropanolamine; its salts Pholcodine; its salts Procaterol; its salts Salmeterol; its salts Terbutaline; its salts Tretoquinol; its salts
 
     - Phenols as defined in Part 1 of this List in substances containing less than 60%, weight in weight, of phenols; compounds of phenol with a metal in substances containing less than the equivalent of 60%, weight in weight, of phenols
 
-    - Terbinafine; its salts; when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled for the treatment of tinea pedis and/or tinea cruris only
+    - Terbinafine; its salts; when contained in preparations for external application only with no more than 1% of Terbinafine and not to be administered as a single application and when labelled only for the treatment of tinea pedis or tinea cruris, or both
+
+    - (L.N. 234 of 2015; L.N. 235 of 2015)
 
     - Division B
 
