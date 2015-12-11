@@ -10,160 +10,156 @@ Adhesives; anti-fouling compositions; builders’ materials; ceramics; distemper
 
 (L.N. 195 of 1977; L.N. 262 of 1995)
 
-- Group II Special Exemptions
+- Group II Special Exemptions Division A (L.N. 41 of 2007)
 
-- Division A
+- Poison | Substance or article in which exempted
 
-(L.N. 41 of 2007)
+- Alkaloids, the following—
 
-Poison | Substance or article in which exempted
+- Brucine | Surgical spirit containing not more than 0.015% of brucine
 
-Alkaloids, the following—
+- Emetine | Ipecacuanha; extracts and tinctures of ipecacuanha; substances containing less than 0.05% of emetine
 
-Brucine | Surgical spirit containing not more than 0.015% of brucine
+- Lobelia, alkaloids of | Preparations for the relief of asthma in the form of cigarettes, smoking mixtures or fumigants; substances containing less than 0.1% of the alkaloids of lobelia
 
-Emetine | Ipecacuanha; extracts and tinctures of ipecacuanha; substances containing less than 0.05% of emetine
+- Pilocarpus, alkaloids of | Substances containing less than 0.025% of the alkaloids of pilocarpus, preparations containing not more than 2%, weight of the sulphate salt of transpilosine (L.N. 137 of 1978)
 
-Lobelia, alkaloids of | Preparations for the relief of asthma in the form of cigarettes, smoking mixtures or fumigants; substances containing less than 0.1% of the alkaloids of lobelia
+- Pomegranate, alkaloids of | Pomegranate bark
 
-Pilocarpus, alkaloids of | Substances containing less than 0.025% of the alkaloids of pilocarpus, preparations containing not more than 2%, weight of the sulphate salt of transpilosine (L.N. 137 of 1978)
+- Stavesacre, alkaloids of | Soaps; ointments; lotions for external use
 
-Pomegranate, alkaloids of | Pomegranate bark
+- para-Aminobenzene-sulphonamide; its salts; derivatives of para-aminobenzene-sulphonamide having any of the hydrogen atoms of the para amino group or of the sulphonamide group substituted by another radical; their salts | Feeding stuffs containing not more than 0.5% of total sulphonamides
 
-Stavesacre, alkaloids of | Soaps; ointments; lotions for external use
+- Androgenic, oestrogenic and progestational substances, the following— Benzoestrol Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters | Preparations intended for external application only; except preparations containing more than 4 milligrammes of oestrogenic substance per 100 grammes of inert substance and preparations containing testosterone or its esters (L.N. 90 of 2009)
 
-para-Aminobenzene-sulphonamide; its salts; derivatives of para-aminobenzene-sulphonamide having any of the hydrogen atoms of the para amino group or of the sulphonamide group substituted by another radical; their salts | Feeding stuffs containing not more than 0.5% of total sulphonamides
+- Steroid compounds with androgenic or oestrogenic or progestational activity; their esters | Preparations intended to be taken orally for contraceptive purposes only which contain not more than the following per dose— 0.15 milligrammes Desogestrel; 3.00 milligrammes Drospirenone; 0.05 milligrammes Ethinyloestradiol;
 
-Androgenic, oestrogenic and progestational substances, the following— Benzoestrol Derivatives of stilbene, dibenzyl or naphthalene with oestrogenic activity; their esters | Preparations intended for external application only; except preparations containing more than 4 milligrammes of oestrogenic substance per 100 grammes of inert substance and preparations containing testosterone or its esters (L.N. 90 of 2009)
+- 0.10 milligrammes Gestodene; 0.25 milligrammes Levonorgestrel; 2.50 milligrammes Lynoestrenol; 0.05 milligrammes Mestranol; 1.00 milligrammes Norethisterone; 0.25 milligrammes Norgestimate; and 0.50 milligrammes Norgestrel, multivitamin preparations with or without minerals containing not more than 0.01 mg. ethinyloestradiol or not more than 2.5 mg. Methyltestosterone or both in each dosage form (L.N. 369 of 1980; L.N. 112 of 2002)
 
-Steroid compounds with androgenic oroestrogenic or progestational activity; their esters | Preparations intended to be taken orally for contraceptive purposes only which contain not more than the following per dose— 0.15 milligrammes Desogestrel; 3.00 milligrammes Drospirenone; 0.05 milligrammes Ethinyloestradiol; 0.10 milligrammes Gestodene; 0.25 milligrammes Levonorgestrel; 2.50 milligrammes Lynoestrenol; 0.05 milligrammes Mestranol; 1.00 milligrammes Norethisterone; 0.25 milligrammes Norgestimate; and 0.50 milligrammes Norgestrel, multivitamin preparations with or without minerals containing not more than 0.01 mg. ethinyloestradiol or not more than 2.5 mg. Methyltestosterone or both in each dosage form (L.N. 369 of 1980; L.N. 112 of 2002)
+- Antihistamine substances; their salts; any compound with any substance falling within this item | Preparations intended for external application only and preparations containing not more than 1% of anti-histamine substances for application in the nose or eye
 
-Antihistamine substances; their salts; any compound with any substance falling within this item | Preparations intended for external application only and preparations containing not more than 1% of anti-histamine substances for application in the nose or eye
+- Arsenical poisons | Poultry or pig feeding stuffs containing not more than 0.005% of 4-hydroxy-3-nitrophenylarsonic acid and not containing any other arsenical poison; animal feeding stuffs containing not more than 0.01% of arsenilic acid and not containing any other arsenical poison; poultry feeding stuffs containing not more than 0.0375% of carbarsone and not containing any other arsenical poison; medicines containing arsenic in a non-assimilable form
 
-Arsenical poisons | Poultry or pig feeding stuffs containing not more than 0.005% of 4-hydroxy-3-nitrophenylarsonic acid and not containing any other arsenical poison; animal feeding stuffs containing not more than 0.01% of arsenilic acid and not containing any other arsenical poison; poultry feeding stuffs containing not more than 0.0375% of carbarsone and not containing any other arsenical poison; medicines containing arsenic in a non-assimilable form
+- Barbituric acid; its salts; its derivatives; their salts; any compound with any substance falling within this item | Self-heating preparations, in aerosol dispensers intended for external application only, containing 1, 5-diethyl-2-thio-4, 6-pyrimidine-dione and not containing any other substance mentioned opposite hereto in the first column
 
-Barbituric acid; its salts; its derivatives; their salts; any compound with any substance falling within this item | Self-heating preparations, in aerosol dispensers intended for external application only, containing 1, 5-diethyl-2-thio-4, 6-pyrimidine-dione and not containing any other substance mentioned opposite hereto in the first column
+- Chloroform | Substances containing less than 1% of chloroform; solid preparations; toothpaste
 
-Chloroform | Substances containing less than 1% of chloroform; solid preparations; toothpaste
+- Clioquinol | Preparations intended for external application only (L.N. 137 of 1978)
 
-Clioquinol | Preparations intended for external application only (L.N. 137 of 1978)
+- Creosote obtained from wood | Substances containing less than 50% of creosote obtained from wood
 
-Creosote obtained from wood | Substances containing less than 50% of creosote obtained from wood
+- Diperodon; its salts | Preparations intended for external application only, containing not more than 1% of diperodon, calculated as anhydrous base
 
-Diperodon; its salts | Preparations intended for external application only, containing not more than 1% of diperodon, calculated as anhydrous base
+- Hydrocyanic acid | Preparations of wild cherry; in reagent kits supplied for medical or veterinary purposes; substances containing less than the equivalent of 0.1%, weight in weight, of hydrocyanic acid (HCN)
 
-Hydrocyanic acid | Preparations of wild cherry; in reagent kits supplied for medical or veterinary purposes; substances containing less than the equivalent of 0.1%, weight in weight, of hydrocyanic acid (HCN)
+- Lead acetate | Substances containing less than 4% of lead acetate
 
-Lead acetate | Substances containing less than 4% of lead acetate
+- Lead, compounds of | Machine-spread plasters
 
-Lead, compounds of | Machine-spread plasters
+- Lignocaine; its salts | Preparations intended for external application only, containing not more than 0.7% of Lignocaine or its salts (L.N. 369 of 1980)
 
-Lignocaine; its salts | Preparations intended for external application only, containing not more than 0.7% of Lignocaine or its salts (L.N. 369 of 1980)
+- Mercury, nitrates of | Ointments containing less than the equivalent of 3%, weight in weight, of mercury (Hg)
 
-Mercury, nitrates of | Ointments containing less than the equivalent of 3%, weight in weight, of mercury (Hg)
+- Mescaline; its salts | Living plants
 
-Mescaline; its salts | Living plants
+- Phenols | Butylated hydroxytoluene, carvacrol, creosote obtained from coal tar;
 
-Phenols | Butylated hydroxytoluene, carvacrol, creosote obtained from coal tar;
+- essential oils in which phenols occur naturally;
 
-essential oils in which phenols occur naturally;
+- medicines containing less than 1% of phenols;
 
-medicines containing less than 1% of phenols;
+- nasal sprays, mouth washes, pastilles, lozenges, capsules, pessaries, ointments or suppositories containing less than 2.5% of phenols, in reagent kits supplied for medical or veterinary purposes;
 
-nasal sprays, mouth washes, pastilles, lozenges, capsules, pessaries, ointments or suppositories containing less than 2.5% of phenols, in reagent kits supplied for medical or veterinary purposes;
+- smelling bottles;
 
-smelling bottles;
+- soaps for washing;
 
-soaps for washing;
+- solid substances, other than pastilles, lozenges, capsules, pessaries, ointments and suppositories, containing less than 60% of phenols;
 
-solid substances, other than pastilles, lozenges, capsules, pessaries, ointments and suppositories, containing less than 60% of phenols;
+- Tar (coal or wood), crude or refined;
 
-Tar (coal or wood), crude or refined;
+- para-tertiary amylphenol;
 
-para-tertiary amylphenol;
+- tertiary butylcresol;
 
-tertiary butylcresol;
+- para-tertiary butylphenol;
 
-para-tertiary butylphenol;
+- para-(1, 1, 3, 3-tetramethylbutyl) phenol;
 
-para-(1, 1, 3, 3-tetramethylbutyl) phenol;
+- thymol
 
-thymol
+- Phenyl mercuric salts | Toilet, cosmetic and therapeutic preparations containing not more than 0.01% of phenyl mercuric salts as preservative; antiseptic dressings on toothbrushes; in textiles containing not more than 0.01% of phenyl mercuric salts as a bacteriostat and fungicide
 
-Phenyl mercuric salts | Toilet, cosmetic and therapeutic preparations containing not more than 0.01% of phenyl mercuric salts as preservative; antiseptic dressings on toothbrushes; in textiles containing not more than 0.01% of phenyl mercuric salts as a bacteriostat and fungicide
+- Picric acid | Substances containing less than 5% of picric acid
 
-Picric acid | Substances containing less than 5% of picric acid
+- Podophyllum resin | Preparations containing not more than 1.5%, weight in weight, of podophyllum resin
 
-Podophyllum resin | Preparations containing not more than 1.5%, weight in weight, of podophyllum resin
+- Procaine | Feeding stuffs containing any substance to which the Antibiotics Ordinance (Cap. 137) for the time being applies
 
-Procaine | Feeding stuffs containing any substance to which the Antibiotics Ordinance (Cap. 137) for the time being applies
+- Quinine; its salts; its derivatives; their salts | Preparations containing not more than 1% of quinine, its salts, its derivatives or their salts; soft drinks, wines or tonic wines; preparations containing not more than 15% of quinine, its salts, its derivatives or their salts for use in the manufacture of soft drinks, wines, tonic wines, or confectionery (L.N. 130 of 1987)
 
-Quinine; its salts; its derivatives; their salts | Preparations containing not more than 1% of quinine, its salts, its derivatives or their salts; soft drinks, wines or tonic wines; preparations containing not more than 15% of quinine, its salts, its derivatives or their salts for use in the manufacture of soft drinks, wines, tonic wines, or confectionery (L.N. 130 of 1987)
+- Sodium ethyl mercurithio-salicylate | Therapeutic substances containing less than 0.1% of sodium ethyl mercurithiosalicylate as a preservative
 
-Sodium ethyl mercurithio-salicylate | Therapeutic substances containing less than 0.1% of sodium ethyl mercurithiosalicylate as a preservative
+- Sodium fluoride | Substances containing less than 3% of sodium fluoride as a preservative; dentifrices containing not more than 0.33% of sodium fluoride; mouth wash tablets containing not more than 0.2% of sodium fluoride and liquid mouth washes containing not more than 0.05% thereof; tablets containing not more than 0.016%, weight in weight, of sodium fluoride and intended, when chewed to prevent tooth decay (L.N. 202 of 1999; E.R. 1 of 2015)
 
-Sodium fluoride | Substances containing less than 3% of sodium fluoride as a preservative; dentifrices containing not more than 0.33% of sodium fluoride; mouth wash tablets containing not more than 0.2% of sodium fluoride and liquid mouth washes containing not more than 0.05% thereof; tablets containing not more than 0.016%, weight in weight, of sodium fluoride and intended, when chewed to prevent tooth decay (L.N. 202 of 1999; E.R. 1 of 2015)
+- (L.N. 138 of 2000) Division B (L.N. 41 of 2007)
 
-(L.N. 138 of 2000)
+- Acetanilide; alkyl acetanilides | Substances not being preparations for the treatment of human ailments
 
-- Division B
+- Poison | Substance or article in which exempted
 
-(L.N. 41 of 2007)
+- Ammonia | Substances not being solutions of ammonia or preparations containing solutions of ammonia; substances containing less than 5%, weight in weight, of ammonia (NH3); refrigerators; smelling bottles
 
-Acetanilide; alkyl acetanilides | Substances not being preparations for the treatment of human ailments
+- Antimony, chlorides of | Polishes
 
-Ammonia | Substances not being solutions of ammonia or preparations containing solutions of ammonia; substances containing less than 5%, weight in weight, of ammonia (NH3); refrigerators; smelling bottles
+- Arsenical poisons | Pyrites ores or sulphuric acid containing arsenical poisons as natural impurities
 
-Antimony, chlorides of | Polishes
+- Barium, salts of | Witherite other than finely ground witherite; barium carbonate bonded to charcoal for case hardening; fire extinguishers containing barium chloride
 
-Arsenical poisons | Pyrites ores or sulphuric acid containing arsenical poisons as natural impurities
+- gamma-Benzene hexachloride | Substances containing not more than 5% by weight of gamma-benzene hexachloride; when used in agriculture or horticulture (L.N. 195 of 1977)
 
-Barium, salts of | Witherite other than finely ground witherite; barium carbonate bonded to charcoal for case hardening; fire extinguishers containing barium chloride
+- Diamines, the following; their salts—phenylene diamines; toluene diamines; other alkylated-benzene diamines | Substances other than preparations for the dyeing of hair
 
-gamma-Benzene hexachloride | Substances containing not more than 5% by weight of gamma-benzene hexachloride; when used in agriculture or horticulture (L.N. 195 of 1977)
+- Dinitrophenols | Substances not being preparations for the treatment of human ailments
 
-Diamines, the following;their salts-phenylene diamines; toluene diamines; other alkylated-benzene diamines | Substances other than preparations for the dyeing of hair
+- Disulfiram | Substances not being preparations for the treatment of human ailments
 
-Dinitrophenols | Substances not being preparations for the treatment of human ailments
+- Formaldehyde | Substances containing less than 5%, weight in weight, of formaldehyde (H. CHO); photographic glazing or hardening solutions
 
-Disulfiram | Substances not being preparations for the treatment of human ailments
+- Formic acid | Substances containing less than 5%, weight in weight, of formic acid (H. COOH)
 
-Formaldehyde | Substances containing less than 5%, weight in weight, of formaldehyde (H. CHO); photographic glazing or hardening solutions
+- Hydrochloric acid | Substances containing less than 9%, weight in weight, of hydrochloric acid (HCl)
 
-Formic acid | Substances containing less than 5%, weight in weight, of formic acid (H. COOH)
+- Mercuric chloride | Batteries
 
-Hydrochloric acid | Substances containing less than 9%, weight in weight, of hydrochloric acid (HCl)
+- Mercuric chloride; mercuric iodide; organic compounds of mercury | Dressings on seeds or bulbs
 
-Mercuric chloride | Batteries
+- Mercury, oxides of | Canker and wound paints (for trees) containing not more than 3%, weight in weight, of yellow mercuric oxide
 
-Mercuric chloride; mercuric iodide; organic compounds of mercury | Dressings on seeds or bulbs
+- Nicotine | Tobacco (L.N. 234 of 2015)
 
-Mercury, oxides of | Canker and wound paints (for trees) containing not more than 3%, weight in weight, of yellow mercuric oxide
+- Nitric acid | Substances containing less than 9%, weight in weight, of nitric acid (HNO2)
 
-Nicotine | Tobacco; preparations in aerosol dispensers containing not more than 0.2% of nicotine, weight in weight; other liquid preparations and solid preparations with a soap base, containing not more than 7.5% of nicotine, weight in weight
+- Nitrobenzene | Substances containing less than 0.1% of nitrobenzene; soaps containing less than 1% of nitrobenzene; polishes
 
-Nitric acid | Substances containing less than 9%, weight in weight, of nitric acid (HNO2)
+- para-Nitrobenzyl cyanide | Photographic solutions containing less than the equivalent of 0.1%, weight in weight, of hydrocyanic acid (HCN)
 
-Nitrobenzene | Substances containing less than 0.1% of nitrobenzene; soaps containing less than 1% of nitrobenzene; polishes
+- para-Nitrophenol | Preparations for use in agriculture or horticulture containing not more than 0.5% of para-Nitrophenol as preservative
 
-para-Nitrobenzyl cyanide | Photographic solutions containing less than the equivalent of 0.1%, weight in weight, of hydrocyanic acid (HCN)
+- Oxalic acid; metallic oxalates | Laundry blue; polishes; cleaning powders or scouring products containing the equivalent of not more than 10% of oxalic acid dihydrate
 
-para-Nitrophenol | Preparations for use in agriculture or horticulture containing not more than 0.5% of para-Nitrophenol as preservative
+- Phosphoric acid | Substances containing phosphoric acid, not being descaling preparations containing more than 50%, weight in weight, of ortho-phosphoric acid (L.N. 137 of 1978)
 
-Oxalic acid; metallic oxalates | Laundry blue; polishes; cleaning powders or scouring products containing the equivalent of not more than 10% of oxalic acid dihydrate
+- Potassium hydroxide | Substances containing the equivalent of less than 17% of total caustic alkalinity expressed as potassium hydroxide; accumulators, batteries
 
-Phosphoric acid | Substances containing phosphoric acid, not being descaling preparations containing more than 50%, weight in weight, of ortho-phosphoric acid (L.N. 137 of 1978)
+- Sodium hydroxide | Substances containing the equivalent of less than 12% of total caustic alkalinity expressed as sodium hydroxide
 
-Potassium hydroxide | Substances containing the equivalent of less than 17% of total caustic alkalinity expressed as potassium hydroxide; accumulators, batteries
+- Sodium nitrite | Substances other than preparations containing more than 0.1% of sodium nitrite for the destruction of rats or mice
 
-Sodium hydroxide | Substances containing the equivalent of less than 12% of total caustic alkalinity expressed as sodium hydroxide
+- Sodium silicofluoride | Substances containing less than 3% of sodium silicofluoride as preservative
 
-Sodium nitrite | Substances other than preparations containing more than 0.1% of sodium nitrite for the destruction of rats or mice
+- Sulphaquinoxaline; its salts | Preparations for the destruction of mice and rats containing not more than the equivalent of 0.5% of sulphaquinoxaline
 
-Sodium silicofluoride | Substances containing less than 3% of sodium silicofluoride as preservative
+- Sulphuric acid | Substances containing less than 9%, weight in weight, of sulphuric acid (H2SO4); accumulators; batteries and sealed containers in which sulphuric acid is packed together with car batteries for use in those batteries; fire extinguishers
 
-Sulphaquinoxaline; its salts | Preparations for the destruction of mice and rats containing not more than the equivalent of 0.5% of sulphaquinoxaline
-
-Sulphuric acid | Substances containing less than 9%, weight in weight, of sulphuric acid (H2SO4); accumulators; batteries and sealed containers in which sulphuric acid is packed together with car batteries for use in those batteries; fire extinguishers
-
-(L.N. 195 of 1977; L.N. 262 of 1995)
+- (L.N. 195 of 1977; L.N. 262 of 1995)
