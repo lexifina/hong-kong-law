@@ -1,6 +1,8 @@
 # Schedule 1
 
-[regs. 3 & 5 & Sch. 2] (L.N. 80 of 1996; L.N. 69 of 2008)
+[regs. 2, 3 & 5 &
+
+Schs. 1A & 2] (L.N. 80 of 1996; L.N. 69 of 2008; L.N. 90 of 2014)
 
 (In this Schedule reference to proportion or percentage
 
@@ -18,9 +20,7 @@ means proportion or percentage by weight)
 
 - (L.N. 207 of 2004)
 
-- PART I COMPOSITION OF FOODS AND DRUGS OTHER THAN
-
-- MILK AND MILK PRODUCTS
+- PART I COMPOSITION OF FOODS AND DRUGS OTHER THAN MILK, MILK PRODUCTS AND INFANT FORMULAE (L.N. 90 of 2014)
 
   - 1. Drugs and ingredients and component parts of drugs shall conform to the standards specified therefor respectively in the British Pharmacopoeia or British Pharmacopoeia Codex.
 
@@ -42,7 +42,7 @@ means proportion or percentage by weight)
 
     - (a) Residual carbon dioxide— A sample of 2 grams of baking powder shall be treated with 25 millilitres of water and evaporated to dryness on a boiling water bath and subsequently treated with a further 25 millilitres of water and evaporated in like manner. The weight of the residual carbon dioxide is the weight evolved when the sample so treated is further treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling or by means of reduced pressure. (L.N. 207 of 2004)
 
-    - (b) Available carbon dioxide— The weight of available carbon dioxide is the difference between the total weight of carbon dioxide and the weight of the residual carbon dioxide obtained when the sample is treated in the manner prescribed in paragraph (a), the total weight of carbon dioxide being determined by ascertaining the weight evolved when a similar sample of the baking powder is treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling for minutes or by means of reduced pressure.
+    - (b) Available carbon dioxide— The weight of available carbon dioxide is the difference between the total weight of carbon dioxide and the weight of the residual carbon dioxide obtained when the sample is treated in the manner prescribed in paragraph (a), the total weight of carbon dioxide being determined by ascertaining the weight evolved when a similar sample of the baking powder is treated with excess of dilute sulphuric acid at room temperature, the evolution being completed either by boiling for 5 minutes or by means of reduced pressure.
 
 - PART II COMPOSITION OF MILK AND MILK PRODUCTS
 
@@ -100,11 +100,11 @@ means proportion or percentage by weight)
 
       - (c) other coagulating enzymes which are safe for human consumption. (L.N. 207 of 2004)
 
-    - (2) (Repealed L.N. 207 of 2005)
+    - (2) (Repealed L.N. 207 of 2004)
 
     - (3) Cream which is sold or delivered to a manufacturer for the purpose of his manufacturing business or to a caterer for the purpose of his catering business, whipped cream and cream in an aerosol container may contain not more than 13% sugar. (L.N. 207 of 2004)
 
-    - (4)-(5) (Repealed L.N. 207 of 2005)
+    - (4)-(5) (Repealed L.N. 207 of 2004)
 
     - (6) Clotted cream may contain nisin. (L.N. 217 of 1977)
 
@@ -112,9 +112,9 @@ means proportion or percentage by weight)
 
   - 13A. The product known as recombined or reconstituted “half and half” consisting of recombined or reconstituted cream and recombined or reconstituted milk shall contain not less than 11.5% milk fat.
 
-  - 14. Sweetened condensed or evaporated milk hall be milk which has been condensed by the evaporation of a portion of its water content, and to which sugar has been added, and shall contain not less than 28% of total milk solids and not less than 8 % of milk fat. It shall not contain any foreign substance except sugar, salt (sodium chloride) and any additive specified in column 2 of Division 1 of Part III of this Schedule not exceeding the level specified opposite to the additive in column 3 of that Division. (L.N. 85 of 2004)
+  - 14. Sweetened condensed or evaporated milk shall be milk which has been condensed by the evaporation of a portion of its water content, and to which sugar has been added, and shall contain not less than 28% of total milk solids and not less than 8% of milk fat. It shall not contain any foreign substance except sugar, salt (sodium chloride) and any additive specified in column 2 of Division 1 of Part III of this Schedule not exceeding the level specified opposite to the additive in column 3 of that Division. (L.N. 85 of 2004)
 
-  - 15. Sweetened condensed skimmed or separated milk shall be skimmed or separated milk which has been condensed by the evaporation of a portion f its water content, and to which sugar has been added, and shall contain not less than 24% of total milk solids including fat. It shall contain no foreign substance other than sugar, salt (sodium chloride) and any additive specified in column 2 of Division 1 of Part III of this Schedule not exceeding the level specified opposite to the additive in column 3 of that Division. (G.N.A. 48 of 1961; L.N. 85 of 2004)
+  - 15. Sweetened condensed skimmed or separated milk shall be skimmed or separated milk which has been condensed by the evaporation of a portion of its water content, and to which sugar has been added, and shall contain not less than 24% of total milk solids including fat. It shall contain no foreign substance other than sugar, salt (sodium chloride) and any additive specified in column 2 of Division 1 of Part III of this Schedule not exceeding the level specified opposite to the additive in column 3 of that Division. (G.N.A. 48 of 1961; L.N. 85 of 2004)
 
   - 16. Unsweetened condensed or evaporated milk shall be milk which has been condensed by evaporation of a portion of its water content, and heat-treated, and shall contain not less than 25.5% of total milk solids and not less than 7.8% of milk fat. It shall contain no foreign substance except salt (sodium chloride) and any additive specified in column 2 of Division 1 of Part III of this Schedule not exceeding the level specified opposite to the additive in column 3 of that Division. (L.N. 85 of 2004)
 
@@ -126,212 +126,336 @@ means proportion or percentage by weight)
 
   - 20. Cream cheese shall be cheese made from milk and cream. It shall contain not less than 60% of milk fat in its water-free substance.
 
-  - 21. Whole-milk cheese shall be cheese made from milk. It shall contain not less than 50 % of milk fat in its water-free substance.
+  - 21. Whole-milk cheese shall be cheese made from milk. It shall contain not less than 50% of milk fat in its water-free substance.
 
   - 22. Skim-milk cheese shall be cheese made from milk from which part of the fat has been removed. It shall contain not less than 10% of milk fat in its water-free substance.
 
   - 23. Ghee shall be made from milk (including buffalo milk) and shall contain no fat other than that derived from such milk.
 
-  - 24.
+  - 24. Ice cream shall contain not less than 5% fat, 10% sugar and 7 1 2 % milk solids other than fat:
 
-  - Ice cream shall contain not less than 5% fat, 10% sugar and 7 1/2% milk solids other than fat:
+    - Provided that ice cream containing any fruit, fruit pulp or fruit puree shall either conform to the aforesaid standard or, alternatively, the total content of fat, sugar and milk solids other than fat shall not be less than 25% of the ice cream including the fruit, fruit pulp or fruit puree, as the case may be, and such total content of fat, sugar and milk solids other than fat shall include not less than 7 1 2 % fat, 10% sugar and 2% milk solids other than fat.
 
-    - Provided that ice cream containing any fruit, fruit pulp or fruit puree shall either conform to the aforesaid standard or, alternatively, the total content of fat, sugar and milk solids other than fat shall not be less than 25% of the ice cream including the fruit, fruit pulp or fruit puree, as the case may be, and such total content of fat, sugar and milk solids other than fat shall include not less than 7 1/2% fat, 10% sugar and 2% milk solids other than fat.
-
-    - For the purpose of the aforesaid standards relating to ice cream, “sugar” (糖) means sucrose, sugar or the solids of any sweetening material derived from starch, provided that no ice cream shall contain less than 7 1/2% sucrose.
+  - For the purpose of the aforesaid standards relating to ice cream, “sugar” (糖) means sucrose, sugar or the solids of any sweetening material derived from starch, provided that no ice cream shall contain less than 7 1 2 % sucrose.
 
 - PART III ADDITIVES IN CERTAIN MILK PRODUCTS
 
-  - Division 1 Additives in sweetened condensed or evaporated milk,
+  - Division 1 Additives in sweetened condensed or evaporated milk, sweetened condensed skimmed or separated milk and unsweetened condensed or evaporated milk
 
-  - sweetened condensed skimmed or separated milk and
+  - Item | Additive | Maximum Level
 
-  - unsweetened condensed or evaporated milk
+  - Firming Agents
 
-Item | Additive | Maximum Level
+  - 1. | Potassium chloride | 2 grams per kilogram singly or 3 grams per kilogram in combination, expressed as anhydrous substances
 
-Firming Agents
+  - 2. | Calcium chloride
 
-1. | Potassium chloride | 2 grams per kilogram singly or 3 grams per kilogram in combination, expressed as anhydrous substances
+  - Stabilizers
 
-2. | Calcium chloride
+  - 3. | Sodium citrates | 2 grams per kilogram singly or 3 grams per kilogram in combination, expressed as anhydrous substances
 
-Stabilizers
+  - 4. | Potassium citrates
 
-3. | Sodium citrates | 2 grams per kilogram singly or 3 grams per kilogram in combination, expressed as anhydrous substances
+  - 5. | Calcium citrates
 
-4. | Potassium citrates
+  - Acidity Regulators
 
-5. | Calcium citrates
+  - 6. | Calcium carbonates | 2 grams per kilogram singly or 3 grams per kilogram in combination, expressed as anhydrous substances
 
-Acidity Regulators
+  - 7. | Sodium phosphates
 
-6. | Calcium carbonates | 2 grams per kilogram singly or 3 grams per kilogram in combination, expressed as anhydrous substances
+  - 8. | Potassium phosphates
 
-7. | Sodium phosphates
+  - 9. | Calcium phosphates
 
-8. | Potassium phosphates
+  - 10. | Diphosphates
 
-9. | Calcium phosphates
+  - 11. | Triphosphates
 
-10. | Diphosphates
+  - 12. | Polyphosphates
 
-11. | Triphosphates
+  - 13. | Sodium carbonates
 
-12. | Polyphosphates
+  - 14. | Potassium carbonates
 
-13. | Sodium carbonates
+  - Thickener
 
-14. | Potassium carbonates
+  - 15. | Carrageenan | 150 milligrams per kilogram
 
-Thickener
+  - Emulsifier
 
-15. | Carrageenan | 150 milligrams per kilogram
-
-Emulsifier
-
-16. | Lecithins | Limited by good manufacturing practice
+  - 16. | Lecithins | Limited by good manufacturing practice
 
 - Division 2 Additives in butter
 
-Item | Additive | Maximum Level
+- Item | Additive | Maximum Level
 
-Acidity Regulators
+- Acidity Regulators
 
-1. | Sodium phosphates | 2 grams per kilogram
+- 1. | Sodium phosphates | 2 grams per kilogram
 
-2. | Sodium carbonate | Limited by good manufacturing practice
+- 2. | Sodium carbonate | } | Limited by good manufacturing practice
 
-3. | Sodium hydrogen carbonate
+- 3. | Sodium hydrogen carbonate
 
-4. | Sodium hydroxide
+- 4. | Sodium hydroxide
 
-5. | Calcium hydroxide
+- 5. | Calcium hydroxide
 
 - Division 3 Additives in cream
 
-Item | Additive | Maximum Level
+- Item | Additive | Maximum Level
 
-Stabilizers
+- Stabilizers
 
-1. | Calcium carbonates | Limited by good manufacturing practice
+- 1. | Calcium carbonates | } | Limited by good manufacturing practice
 
-2. | Sodium lactate
+- 2. | Sodium lactate
 
-3. | Potassium lactate
+- 3. | Potassium lactate
 
-4. | Calcium lactate
+- 4. | Calcium lactate
 
-5. | Sodium citrates
+- 5. | Sodium citrates
 
-6. | Potassium citrates
+- 6. | Potassium citrates
 
-7. | Calcium citrates
+- 7. | Calcium citrates
 
-8. | Calcium sulphate
+- 8. | Calcium sulphate
 
-9. | Sodium phosphates | 2 grams per kilogram, whether the additives are used singly or in combination, expressed as phosphorus pentaoxide (P2O5)
+- 9. | Sodium phosphates | } | 2 grams per kilogram, whether the additives are used singly or in combination, expressed as phosphorus pentaoxide (P2O5)
 
-10. | Potassium phosphates
+- 10. | Potassium phosphates
 
-11. | Calcium phosphates
+- 11. | Calcium phosphates
 
-12. | Diphosphates
+- 12. | Diphosphates
 
-13. | Triphosphates
+- 13. | Triphosphates
 
-14. | Polyphosphates
+- 14. | Polyphosphates
 
-Acidity Regulators
+- Acidity Regulators
 
-15. | Sodium carbonates | Limited by good manufacturing practice
+- 15. | Sodium carbonates | } | Limited by good manufacturing practice
 
-16. | Potassium carbonates
+- 16. | Potassium carbonates
 
-17. | Lactic acid (L, D, and DL-)
+- 17. | Lactic acid (L, D, and DL-)
 
-18. | Citric acid
+- 18. | Citric acid
 
-Thickeners and Emulsifiers
+- Thickeners and Emulsifiers
 
-19. | Lecithins | Limited by good manufacturing practice
+- 19. | Lecithins | } | Limited by good manufacturing practice
 
-20. | Alginic acid
+- 20. | Alginic acid
 
-21. | Sodium alginate
+- 21. | Sodium alginate
 
-22. | Potassium alginate
+- 22. | Potassium alginate
 
-23. | Ammonium alginate
+- 23. | Ammonium alginate
 
-24. | Calcium alginate
+- 24. | Calcium alginate
 
-25. | Agar
+- 25. | Agar
 
-26. | Carrageenan and its sodium, potassium and ammonium salts
+- 26. | Carrageenan and its sodium, potassium and ammonium salts
 
-27. | Carob bean gum
+- 27. | Carob bean gum
 
-28. | Guar gum
+- 28. | Guar gum
 
-29. | Gum Arabic
+- 29. | Gum Arabic
 
-30. | Xanthan gum
+- 30. | Xanthan gum
 
-31. | Gellan gum
+- 31. | Gellan gum
 
-32. | Polyoxyethylene (20) sorbitan monolaurate | 1 gram per kilogram
+- 32. | Polyoxyethylene (20) sorbitan monolaurate | } | 1 gram per kilogram
 
-33. | Polyoxyethylene (20) sorbitan monooleate
+- 33. | Polyoxyethylene (20) sorbitan monooleate
 
-34. | Polyoxyethylene (20) sorbitan monopalmitate
+- 34. | Polyoxyethylene (20) sorbitan monopalmitate
 
-35. | Polyoxyethylene (20) sorbitan monostearate
+- 35. | Polyoxyethylene (20) sorbitan monostearate
 
-36. | Polyoxyethylene (20) sorbitan tristearate
+- 36. | Polyoxyethylene (20) sorbitan tristearate
 
-37. | Pectins | Limited by good manufacturing practice
+- 37. | Pectins | } | Limited by good manufacturing practice
 
-38. | Cellulose
+- 38. | Cellulose
 
-39. | Methyl cellulose
+- 39. | Methyl cellulose
 
-40. | Hydroxypropyl cellulose
+- 40. | Hydroxypropyl cellulose
 
-41. | Hydroxypropyl methyl cellulose
+- 41. | Hydroxypropyl methyl cellulose
 
-42. | Methyl ethyl cellulose
+- 42. | Methyl ethyl cellulose
 
-43. | Sodium carboxymethyl cellulose
+- 43. | Sodium carboxymethyl cellulose
 
-44. | Mono- and diglycerides of fatty acids
+- 44. | Mono- and diglycerides of fatty acids
 
-45. | Acetic and fatty acid esters of glycerol
+- 45. | Acetic and fatty acid esters of glycerol
 
-46. | Lactic and fatty acid esters of glycerol
+- 46. | Lactic and fatty acid esters of glycerol
 
-47. | Citric and fatty acid esters of glycerol
+- 47. | Citric and fatty acid esters of glycerol
 
-48. | Potassium chloride
+- 48. | Potassium chloride
 
-49. | Calcium chloride
+- 49. | Calcium chloride
 
-50. | Monostarch phosphate | Limited by good manufacturing practice
+- 50. | Monostarch phosphate | } | Limited by good manufacturing practice
 
-51. | Distarch phosphate esterified with sodium trimetaphosphate; distarch phosphate esterified with phosphorus oxychloride
+- 51. | Distarch phosphate esterified with sodium trimetaphosphate; distarch phosphate esterified with phosphorus oxychloride
 
-52. | Phosphated distarch phosphate
+- 52. | Phosphated distarch phosphate
 
-53. | Acetylated distarch phosphate
+- 53. | Acetylated distarch phosphate
 
-54. | Starch acetate esterified with acetic anhydride
+- 54. | Starch acetate esterified with acetic anhydride
 
-55. | Acetylated distarch adipate
+- 55. | Acetylated distarch adipate
 
-56. | Hydroxypropyl starch
+- 56. | Hydroxypropyl starch
 
-57. | Hydroxypropyl distarch phosphate
+- 57. | Hydroxypropyl distarch phosphate
 
-58. | Starch sodium octenyl succinate
+- 58. | Starch sodium octenyl succinate
 
-(L.N. 207 of 2004) (L.N. 85 of 2004; L.N. 207 of 2004)
+- (L.N. 207 of 2004)
+
+- Part IV Energy and Nutritional Composition of Infant Formulae
+
+  - Division 1 Energy Value
+
+  - Minimum level per 100 mL (in a form that is reconstituted or served according to any instructions for use provided) | Maximum level per 100 mL (in a form that is reconstituted or served according to any instructions for use provided)
+
+  - Energy | 60 kcal or 250 kJ | 70 kcal or 295 kJ
+
+  - Division 2 Nutrient Content
+
+  - Item | Nutrient | Minimum level | Maximum level
+
+  - per 100 kcal | per 100 kJ | per 100 kcal | per 100 kJ
+
+  - Protein
+
+  - 1. | Protein (for infant formulae based on cows milk protein) | 1.8 g | 0.45 g | 3.0 g | 0.7 g
+
+  - 2. | Protein (for infant formulae based on soy protein isolate) | 2.25 g | 0.5 g | 3.0 g | 0.7 g
+
+  - Fat
+
+  - 3. | Total fat | 4.4 g | 1.05 g | 6.0 g | 1.4 g
+
+  - 4. | Linoleic acid | 300 mg | 70 mg | — | —
+
+  - 5. | α-Linolenic acid | 50 mg | 12 mg | — | —
+
+  - Carbohydrates
+
+  - 6. | Total carbohydrates | 9.0 g | 2.2 g | 14.0 g | 3.3 g
+
+  - Vitamins
+
+  - 7. | Vitamin A | 60 μg RE | 14 μg RE | 180 μg RE | 43 μg RE
+
+  - 8. | Vitamin D3 | 1 μg | 0.25 μg | 2.5 μg | 0.6 μg
+
+  - 9. | Vitamin E | 0.5 mg α-TE | 0.12 mg α-TE | — | —
+
+  - 10. | Vitamin K | 4 μg | 1 μg | — | —
+
+  - 11. | Thiamine | 60 μg | 14 μg | — | —
+
+  - 12. | Riboflavin | 80 μg | 19 μg | — | —
+
+  - 13. | Niacin | 300 μg | 70 μg | — | —
+
+  - 14. | Vitamin B6 | 35 μg | 8.5 μg | — | —
+
+  - 15. | Vitamin B12 | 0.1 μg | 0.025 μg | — | —
+
+  - 16. | Pantothenic acid | 400 μg | 96 μg | — | —
+
+  - 17. | Folic acid | 10 μg | 2.5 μg | — | —
+
+  - 18. | Vitamin C | 10 mg | 2.5 mg | — | —
+
+  - 19. | Biotin | 1.5 μg | 0.4 μg | — | —
+
+  - Minerals
+
+  - 20. | Iron | 0.45 mg | 0.1 mg | — | —
+
+  - 21. | Calcium | 50 mg | 12 mg | — | —
+
+  - 22. | Phosphorus | 25 mg | 6 mg | — | —
+
+  - 23. | Magnesium | 5 mg | 1.2 mg | — | —
+
+  - 24. | Sodium | 20 mg | 5 mg | 60 mg | 14 mg
+
+  - 25. | Chloride | 50 mg | 12 mg | 160 mg | 38 mg
+
+  - 26. | Potassium | 60 mg | 14 mg | 180 mg | 43 mg
+
+  - 27. | Manganese | 1 μg | 0.25 μg | — | —
+
+  - 28. | Iodine | 10 μg | 2.5 μg | — | —
+
+  - 29. | Selenium | 1 μg | 0.24 μg | — | —
+
+  - 30. | Copper | 35 μg | 8.5 μg | — | —
+
+  - 31. | Zinc | 0.5 mg | 0.12 mg | — | —
+
+  - Others
+
+  - 32. | Choline | 7 mg | 1.7 mg | — | —
+
+  - 33. | Myo-Inositol | 4 mg | 1 mg | — | —
+
+  - 34. | L-Carnitine | 1.2 mg | 0.3 mg | — | —
+
+  - 35. | Taurine (if added) | — | — | 12 mg | 3 mg
+
+  - Division 3 Other Requirements
+
+    - 1. The ratio of linoleic acid to α-linolenic acid must be at least 5:1 and not more than 15:1.
+
+    - 2. The ratio of calcium to phosphorus must be at least 1:1 and not more than 2:1.
+
+    - 3. The combined content of lauric acid and myristic acid must not exceed 20% of the total content of fatty acids.
+
+    - 4. The content of trans fatty acids must not exceed 3% of the total content of fatty acids.
+
+    - 5. The content of erucic acid must not exceed 1% of the total content of fatty acids.
+
+    - 6. The content of vitamin E must in any case not be less than 0.5 mg α-TE/g polyunsaturated fatty acids, as adapted to the number of fatty acid double bonds in the formula using the following factors of equivalence—
+
+      - (a) 0.5 mg α-TE/g linoleic acid (18:2 n-6);
+
+      - (b) 0.75 mg α-TE/g α-linolenic acid (18:3 n-3);
+
+      - (c) 1.0 mg α-TE/g arachidonic acid (20:4 n-6);
+
+      - (d) 1.25 mg α-TE/g eicosapentaenoic acid (20:5 n-3);
+
+      - (e) 1.5 mg α-TE/g docosahexaenoic acid (22:6 n-3).
+
+    - 7. If there is any docosahexaenoic acid (DHA) added—
+
+      - (a) the content of arachidonic acid must not be less than that of DHA; and
+
+      - (b) the content of eicosapentaenoic acid must not exceed that of DHA.
+
+- (L.N. 90 of 2014)
+
+(L.N. 85 of 2004; L.N. 207 of 2004)
