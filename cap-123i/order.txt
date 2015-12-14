@@ -5,7 +5,11 @@ s-003.md
 s-004.md
 s-005.md
 s-006.md
+s-006A.md
 s-007.md
+s-007A.md
+s-007B.md
+s-007C.md
 s-008.md
 s-008A.md
 s-009.md
