@@ -8,7 +8,7 @@ COMPANIES (WINDING UP AND MISCELLANEOUS PROVISIONS) ORDINANCE (Cap. 32) Particul
 
 To the Registrar of Companies
 
-I furnish the following particulars of the action taken by a court whereby a disqualification order made by this court under the Companies (Winding Up and Miscellaneous Provisions) Ordinance, the repealed Securities (Insider Dealing) Ordinance (Cap. 395) or the Securities and Futures Ordinance (Cap. 571) was varied or ceased to be in force—
+I furnish the following particulars of the action taken by a court whereby a disqualification order made by this court under the Companies (Winding Up and Miscellaneous Provisions) Ordinance, the repealed Securities (Insider Dealing) Ordinance (Cap. 395), the Securities and Futures Ordinance (Cap. 571) or the Competition Ordinance (Cap. 619) was varied or ceased to be in force—
 
 - (1) Date on which the disqualification order was made by this court—
 
@@ -66,4 +66,4 @@ I furnish the following particulars of the action taken by a court whereby a dis
 
 Notes | 1. In the case of a Chinese individual, the Chinese characters for any forename or surname, if they are used by such individual, must be included. 2. “Forename” includes a Christian or given name. 3. “Surname” in the case of a person usually known by a title different from his surname, means that title. 4. “Identity card” means an identity card issued under the Registration of Persons Ordinance (Cap. 177). If none, please state “None”. 5. If the Hong Kong identity card number of the person has been given, there is no need to give this information.
 
-(46 of 2000 s. 40; 5 of 2002 s. 407; 28 of 2012 ss. 912 & 920)
+(46 of 2000 s. 40; 5 of 2002 s. 407; 14 of 2012 s. 176 and E.R. 1 of 2013; 28 of 2012 ss. 912 & 920)
