@@ -4,8 +4,6 @@
 
 TRANSITIONAL AND SAVINGS PROVISIONS
 
-(Not yet in operation)
-
 - 1. Interpretation In this Schedule—
 
   - “commencement date” (生效日期) means the date on which Part 11 comes into operation;

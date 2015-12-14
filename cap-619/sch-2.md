@@ -2,11 +2,11 @@
 
 [s. 65]
 
-COMMITMENTS
+Commitments
 
-(Not yet in operation)
+- PART 1 Procedural Requirements for Acceptance and
 
-- PART 1 PROCEDURAL REQUIREMENTS FOR ACCEPTANCE AND VARIATION OF COMMITMENTS
+- Variation of Commitments
 
   - 1. Application Section 2 of this Schedule applies where the Commission proposes to—
 
@@ -62,7 +62,7 @@ COMMITMENTS
 
     - for the purpose of bringing the matter to which the notice relates to the attention of those the Commission considers likely to be affected by it.
 
-- PART 2 PROCEDURAL REQUIREMENTS FOR WITHDRAWAL OFACCEPTANCE OF COMMITMENTS
+- PART 2 PROCEDURAL REQUIREMENTS FOR WITHDRAWAL OF ACCEPTANCE OF COMMITMENTS
 
   - 6. Application Section 7 of this Schedule applies where the Commission proposes to withdraw its acceptance of a commitment under section 61.
 
@@ -84,7 +84,7 @@ COMMITMENTS
 
       - (d) the period within which representations may be made in relation to the proposed withdrawal.
 
-    - (3) The period stated for the purpose of subsection (2)(d ) must be at least 15 days beginning on the day on which the notice is given.
+    - (3) The period stated for the purpose of subsection (2)(d) must be at least 15 days beginning on the day on which the notice is given.
 
   - 8. Notice of decision not to withdraw If, after giving notice under section 7 of this Schedule, the Commission decides not to withdraw its acceptance of the commitment concerned, the Commission must give notice that it has so decided.
 
@@ -106,7 +106,7 @@ COMMITMENTS
 
     - for the purpose of bringing the matter to which the notice relates to the attention of those the Commission considers likely to be affected by it.
 
-- PART 3 PROCEDURAL REQUIREMENTS FOR RELEASE OFCOMMITMENTS
+- PART 3 PROCEDURAL REQUIREMENTS FOR RELEASE OF COMMITMENTS
 
   - 11. Application Section 12 of this Schedule applies where the Commission proposes to release a person from a commitment, under section 62.
 
@@ -128,7 +128,7 @@ COMMITMENTS
 
       - (d) the period within which representations may be made in relation to the proposed release.
 
-    - (3) The period stated for the purpose of subsection (2)(d ) must be at least 15 days beginning on the day on which the notice is given.
+    - (3) The period stated for the purpose of subsection (2)(d) must be at least 15 days beginning on the day on which the notice is given.
 
   - 13. Notice of decision not to proceed If, after giving notice under section 12 of this Schedule, the Commission decides not to proceed with the release, it must—
 

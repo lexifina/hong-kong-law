@@ -4,8 +4,6 @@
 
 GENERAL EXCLUSIONS FROM CONDUCT RULES
 
-(Not yet in operation)
-
 - 1. Agreements enhancing overall economic efficiency The first conduct rule does not apply to any agreement that—
 
   - (a) contributes to—

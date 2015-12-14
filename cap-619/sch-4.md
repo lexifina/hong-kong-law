@@ -4,8 +4,6 @@
 
 PROVISIONS THAT MAY BE CONTAINED IN ORDERS MADE BY TRIBUNAL IN RELATION TO ANTICIPATED MERGERS AND MERGERS
 
-(Not yet in operation)
-
 - 1. An order may provide for—
 
   - (a) the division of any business (whether by the sale of any part of its assets or otherwise); or

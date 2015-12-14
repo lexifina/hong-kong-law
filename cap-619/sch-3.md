@@ -4,8 +4,6 @@
 
 ORDERS THAT MAY BE MADE BY TRIBUNAL IN RELATION TO CONTRAVENTIONS OF COMPETITION RULES
 
-(Not yet in operation)
-
 - 1. Orders The Tribunal may make the following orders with respect to a contravention of the competition rules—
 
   - (a) a declaration that a person has contravened a competition rule;

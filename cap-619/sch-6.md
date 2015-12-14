@@ -4,8 +4,6 @@
 
 MATTERS THAT MUST BE PROVIDED FOR IN MEMORANDUM OF UNDERSTANDING
 
-(Not yet in operation)
-
 - 1. The manner in which the parties to a Memorandum of Understanding will perform the functions that they have jurisdiction to perform concurrently under this Ordinance.
 
 - 2. The manner in which the parties will resolve any dispute between themselves.

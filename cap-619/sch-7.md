@@ -4,8 +4,6 @@
 
 MERGERS
 
-(Schedule 7 is not yet in operation except Part 6. Part 6 has commenced operation on 18 January 2013.)
-
 - PART 1 PRELIMINARY
 
   - 1. Interpretation In this Schedule—
@@ -208,7 +206,9 @@ MERGERS
 
     - (a) a merger is excluded from the application of the merger rule or this Schedule; or
 
-    - (b) a proposed merger would if completed be excluded from the application of the merger rule or this Schedule, then the Commission may not take any action under this Ordinance with respect to the merger or proposed merger unless it rescinds its decision under section 15 of this Schedule or the merger as implemented is materially different from the proposed merger to which the decision relates.
+    - (b) a proposed merger would if completed be excluded from the application of the merger rule or this Schedule,
+
+  - then the Commission may not take any action under this Ordinance with respect to the merger or proposed merger unless it rescinds its decision under section 15 of this Schedule or the merger as implemented is materially different from the proposed merger to which the decision relates.
 
   - 15. Rescission of decision
 
