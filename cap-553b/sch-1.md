@@ -28,7 +28,7 @@ Item | Enactment | Provision
 
 15-17. | (Repealed L.N. 152 of 2006)
 
-18. | Town Planning Ordinance (Cap. 131) | Sections 16(2), 17(1) and 24(1)
+18. | (Repealed L.N. 194 of 2015)
 
 19. | Commercial Bathhouses Regulation (Cap. 132 sub. leg. I) | Section 5(1)
 
