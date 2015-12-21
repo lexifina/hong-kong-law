@@ -88,11 +88,13 @@ Item | Pesticide | CAS registry number
 
 – Thiram at or above 15% | 137-26-8
 
-31. | Methamidophos (Soluble liquid formulations of the substance that exceed 600 g active ingredient per litre) | 10265-92-6
+31. | (Repealed L.N. 201 of 2015)
 
 32. | Methyl-parathion (Emulsifiable concentrates at or above 19.5% active ingredient and dusts at or above 1.5% active ingredient) | 298-00-0
 
 33. | Phosphamidon (Soluble liquid formulations of the substance that exceed 1 000 g active ingredient per litre) | 13171-21-6
+
+34. | Methamidophos (Added L.N. 201 of 2015) | 10265-92-6
 
 - Part 2 Extent to which Section 8 does not Apply to
 
