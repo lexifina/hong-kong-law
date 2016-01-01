@@ -50,7 +50,7 @@ Item | Enactment | Provision
 
 19. | Legislative Council Ordinance (Cap. 542) | Sections 13(2), 14(2), 40(2) and 42(2) (21 of 2001 s. 76)
 
-20. | District Councils Ordinance (Cap. 547) | Sections 15(2), 23(2), 25(2), 35(2) and 63(2)
+20. | District Councils Ordinance (Cap. 547) | Sections 23(2), 25(2), 35(2) and 63(2) (3 of 2013 s. 18)
 
 21. | (Repealed L.N. 156 of 2013)
 

@@ -1,38 +1,8 @@
 # SCHEDULE 4
 
-[ss. 13, 17 & 82]
+[ss. 17 & 82] (Amended 3 of 2013 s. 14)
 
-FORMS FOR ACCEPTANCE OF OFFICE
-
-FORM 1 DISTRICT COUNCILS ORDINANCE (Cap. 547) ACCEPTANCE OF OFFICE UNDER
-
-SECTION 13
-
-I, * .,
-
-of * .
-
-**affirm/swear that—
-
-- (a) I take the office as an appointed member of the * .District Council upon myself and will duly and faithfully fulfill the duties of the office according to the best of my ability;
-
-- (b) I will uphold the Basic Law;
-
-- (c) my allegiance is to the Hong Kong Special Administrative Region of the People’s Republic of China; and
-
-- (d) to the best of my knowledge and belief I am not disqualified for appointment and from holding office as an appointed member by virtue of section 14 of the District Councils Ordinance.
-
-**Affirmed/sworn this *. day of *.
-
-(Signature) .
-
-This acceptance was **affirmed/sworn and signed before me, a **Magistrate/Commissioner for Oaths.
-
-(Signature) .
-
-* Complete as appropriate.
-
-** Delete whichever is inapplicable.
+FORM 1 (Repealed 3 of 2013 s. 14)
 
 FORM 2 DISTRICT COUNCILS ORDINANCE (Cap. 547) ACCEPTANCE OF OFFICE UNDER
 
