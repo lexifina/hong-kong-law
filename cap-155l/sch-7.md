@@ -38,11 +38,11 @@ Item | Types of exposure or recognized collateral | Credit quality grade/shortâ€
 
 (c) more than 5 years | 6% | 12% | 24%
 
-5. | Debt securities with long-term ECAI issue specific ratings | grade 4 | All | 15% | not applicable | not applicable
+5. | Debt securities with long-term ECAI issue specific ratings | grade 4 | All | 15% | 25% | 25%
 
 6. | Recognized collateral that falls within section 79(1)(e), (f) or (h) of these Rules | grade 4 | All | 15% | not applicable | not applicable
 
-7. | Debt securities without ECAI issue specific ratings issued by banks or securities firms, that satisfy the criteria set out in section 79(1)(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2% | not applicable
+7. | Debt securities without ECAI issue specific ratings issued by banks that satisfy the criteria set out in section 79(1)(m) of these Rules | not applicable | (a) not more than 1 year | not applicable | 2% | not applicable
 
 (b) more than 1 year but not more than 5 years | not applicable | 6% | not applicable
 
@@ -54,7 +54,7 @@ Item | Types of exposure or recognized collateral | Credit quality grade/shortâ€
 
 (c) more than 5 years | not applicable | 12% | not applicable
 
-(L.N. 156 of 2012)
+(L.N. 156 of 2012; L.N. 212 of 2015)
 
 - Part 2 Standard Supervisory Haircuts for Assets other than
 
