@@ -6,76 +6,36 @@
 
   - 1. The Northing coordinate (N) and Easting coordinate (E) in metres (m) that are included in the fourth column of this Part are based on Hong Kong 1980 Grid System. (L.N. 50 of 2013)
 
-Item | Persons permitted to enter or leave | Times | Conditions
+- Item | Persons permitted to enter or leave | Times | Conditions
 
-1. | Persons travelling to or from the Mainland of China who enter or leave the Frontier Closed Area by train. | At any time | The person shall not leave railway premises as defined for the purposes of— (L.N. 108 of 2003; L.N. 74 of 2007; 11 of 2007 s. 36)
+- 1. | Persons travelling to or from the Mainland of China who enter or leave the Frontier Closed Area by train. | At any time | The person shall not leave railway premises as defined for the purposes of— (11 of 2007 s. 36) (a) during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556), the Mass Transit Railway Ordinance (Cap. 556); and (b) at any other time, the Kowloon-Canton Railway Corporation Ordinance (Cap. 372). (L.N. 108 of 2003; L.N. 74 of 2007; 11 of 2007 s. 36)
 
-(a) | during the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556), the Mass Transit Railway Ordinance (Cap. 556); and
+- 2. | The drivers of and cross-boundary passengers on road vehicles to or from the Mainland of China, entering or leaving Hong Kong via Man Kam To Boundary Control Point. | At any time | The driver shall drive his vehicle directly from the Frontier Closed Area boundary on Man Kam To Road (from 844032 m (N), 831554 m (E) to 844053 m (N), 831557 m (E)) to the Man Kam To Boundary Control Point or from that Control Point to that boundary on Man Kam To Road, and the driver or passenger shall not leave the immediate vicinity of the vehicle. (L.N. 266 of 1987; L.N. 108 of 2003; L.N. 74 of 2007; L.N. 50 of 2013; L.N. 218 of 2015)
 
-(b) | at any other time, the Kowloon-Canton Railway Corporation Ordinance (Cap. 372). (11 of 2007 s. 36)
+- 2A. | The drivers of and cross-boundary passengers on road vehicles to or from the Mainland of China, entering or leaving Hong Kong via Sha Tau Kok Boundary Control Point. | At any time | The driver shall drive his vehicle directly from the Frontier Closed Area boundary near the southern end of Sha Ho Road (from 845125 m (N), 840785 m (E) to 845135 m (N), 840767 m (E) then to 845125 m (N), 840739 m (E)) to the Sha Tau Kok Boundary Control Point or from that Control Point to that boundary near the southern end of Sha Ho Road, and the driver or passenger shall not leave the immediate vicinity of the vehicle. (L.N. 266 of 1987; L.N. 108 of 2003; L.N. 74 of 2007; L.N. 50 of 2013)
 
-2. | The drivers of and cross-boundary passengers on road vehicles to or from the Mainland of China, entering or leaving Hong Kong via Man Kam To Boundary Control Point. | At any time | The driver shall drive his vehicle directly from the Sha Ling road block (from 842500 m (N), 830590 m (E) to 842510 m (N), 830600 m (E) then to 842510 m (N), 830626 m (E)) along the Man Kam To Road to the Man Kam To Boundary Control Point or from that Control Point along that road to that road block, and the driver or passenger shall not leave the immediate vicinity of the vehicle. (L.N. 266 of 1987; L.N. 108 of 2003; L.N. 74 of 2007; L.N. 50 of 2013)
+- 2B. | The drivers of and cross-boundary passengers on road vehicles to or from the Mainland of China, entering or leaving Hong Kong via Lok Ma Chau Boundary Control Point. | At any time | The driver shall drive his vehicle directly from the Frontier Closed Area boundary on San Sham Road (from 840564 m (N), 826191 m (E) to 840530 m (N), 826159 m (E)) to the Lok Ma Chau Boundary Control Point or from that Control Point to that boundary on San Sham Road, and the driver or passenger shall not leave the immediate vicinity of the vehicle. (L.N. 108 of 2003; L.N. 74 of 2007; L.N. 50 of 2013)
 
-2A. | The drivers of and cross-boundary passengers on road vehicles to or from the Mainland of China, entering or leaving Hong Kong via Sha Tau Kok Boundary Control Point. | At any time | The driver shall drive his vehicle directly from the Frontier Closed Area boundary near the southern end of Sha Ho Road (from 845125 m (N), 840785 m (E) to 845135 m (N), 840767 m (E) then to 845125 m (N), 840739 m (E)) to the Sha Tau Kok Boundary Control Point or from that Control Point to that boundary near the southern end of Sha Ho Road, and the driver or passenger shall not leave the immediate vicinity of the vehicle. (L.N. 266 of 1987; L.N. 108 of 2003; L.N. 74 of 2007; L.N. 50 of 2013)
+- 2C. | The drivers of taxis and public light buses on a scheduled service who enter or leave the Frontier Closed Area for the sole purpose of carrying persons entering or leaving Lok Ma Chau Boundary Control Point, and the persons— (L.N. 74 of 2007) (a) who enter that Area by those vehicles for the sole purpose of leaving Hong Kong via that Control Point; or (b) who leave, or intend to leave, that Area by those vehicles after entering Hong Kong via that Control Point. | Beginning on 2300 hours on each day and ending with 0630 hours on the next day | The driver— (a) shall drive his vehicle directly from the Frontier Closed Area boundary on San Sham Road (from 840564 m (N), 826191 m (E) to 840530 m (N), 826159 m (E)) to the Lok Ma Chau Boundary Control Point or from that Control Point to that boundary on San Sham Road; and (L.N. 50 of 2013) (b) shall not leave the immediate vicinity of the vehicle. The person shall not leave the immediate vicinity of the vehicle at any place other than that Control Point. (L.N. 108 of 2003; L.N. 74 of 2007)
 
-2B. | The drivers of and cross-boundary passengers on road vehicles to or from the Mainland of China, entering or leaving Hong Kong via Lok Ma Chau Boundary Control Point. | At any time | The driver shall drive his vehicle directly from the Frontier Closed Area boundary on San Sham Road (from 840564 m (N), 826191 m (E) to 840530 m (N), 826159 m (E)) to the Lok Ma Chau Boundary Control Point or from that Control Point to that boundary on San Sham Road, and the driver or passenger shall not leave the immediate vicinity of the vehicle. (L.N. 108 of 2003; L.N. 74 of 2007; L.N. 50 of 2013)
+- 2D. | The drivers of taxis and the drivers of franchised buses on a specified route in uniform, who enter or leave the Frontier Closed Area for the sole purpose of carrying persons to or from the Lok Ma Chau Spur Line Public Transport Interchange, and the persons— (a) who enter that Area by those vehicles for the sole purpose of leaving Hong Kong via the Lok Ma Chau Spur Line Control Point; (b) who, after entering Hong Kong via that Control Point, enter, or intend to enter, that Interchange for the sole purpose of leaving that Area by those vehicles; or (c) who, after entering Hong Kong via that Control Point, are travelling on those vehicles for the purpose of leaving that Area. | Beginning on 0600 hours on each day and ending with 0030 hours on the next day | The person— (a) shall drive his vehicle directly from the Frontier Closed Area boundary (from 841896 m (N), 825418 m (E) to 841893 m (N), 825399 m (E)) along Lok Ma Chau Road to the Lok Ma Chau Spur Line Public Transport Interchange or from that Interchange to that boundary; and (L.N. 50 of 2013; L.N. 218 of 2015) (b) shall not leave the immediate vicinity of the vehicle. The person— (a) under paragraph (a) in the second column, shall not leave the immediate vicinity of that vehicle at any place other than that Interchange; (b) under paragraph (b) in the second column, shall leave that Interchange without undue delay; and (c) under paragraph (c) in the second column, shall not leave the immediate vicinity of that vehicle. (L.N. 74 of 2007)
 
-2C. | The drivers of taxis and public light buses on a scheduled service who enter or leave the Frontier Closed Area for the sole purpose of carrying persons entering or leaving Lok Ma Chau Boundary Control Point, and the persons— | Beginning on 2300 hours on each day and ending with 0630 hours on the next day | The driver—
+- 2E. | The drivers of public light buses on a scheduled service who enter or leave the Frontier Closed Area for the sole purpose of carrying persons to or from the Lok Ma Chau Spur Line Public Transport Interchange or Ha Wan Tsuen, and the persons— (a) who enter that Area by those vehicles for the sole purpose of leaving Hong Kong via the Lok Ma Chau Spur Line Control Point; (b) who, after entering Hong Kong via that Control Point, enter, or intend to enter, that Interchange for the sole purpose of leaving that Area by those vehicles; or (c) who, after entering Hong Kong via that Control Point, are travelling on those vehicles for the purpose of leaving that Area. | Beginning on 0600 hours on each day and ending with 0030 hours on the next day | The driver— (a) shall, unless stopping to pick up or set down passengers as specified in the passenger service licence in respect of the scheduled service, drive his vehicle directly from the Frontier Closed Area boundary (from 841896 m (N), 825418 m (E) to 841893 m (N), 825399 m (E)) along Lok Ma Chau Road to the Lok Ma Chau Spur Line Public Transport Interchange or from that Interchange to that boundary; and (L.N. 50 of 2013; L.N. 218 of 2015) (b) shall not leave the immediate vicinity of the vehicle. The person— (a) under paragraph (a) in the second column, shall not leave the immediate vicinity of that vehicle at any place other than that Interchange; (b) under paragraph (b) in the second column, shall leave that Interchange without undue delay; and
 
-(a) | shall drive his vehicle directly from the Frontier Closed Area boundary on San Sham Road (from 840564 m (N), 826191 m (E) to 840530 m (N), 826159 m (E)) to the Lok Ma Chau Boundary Control Point or from that Control Point to that boundary on San Sham Road; and
+- (c) under paragraph (c) in the second column, shall not leave the immediate vicinity of that vehicle. (L.N. 74 of 2007)
 
-(a) | who enter that Area by those vehicles for the sole purpose of leaving Hong Kong via that Control Point; or
-
-(b) | who leave, or intend to leave, that Area by those vehicles after entering Hong Kong via that Control Point. | (b) | shall not leave the immediate vicinity of the vehicle.
-
-The person shall not leave the immediate vicinity of the vehicle at any place other than that Control Point. (L.N. 108 of 2003; L.N. 74 of 2007; L.N. 50 of 2013)
-
-2D. | The drivers of taxis and the drivers of franchised buses on a specified route in uniform, who enter or leave the Frontier Closed Area for the sole purpose of carrying persons to or from the Lok Ma Chau Spur Line Public Transport Interchange, and the persons— | Beginning on 0600 hours on each day and ending with 0030 hours on the next day | The driver—
-
-(a) | shall drive his vehicle directly from the Frontier Closed Area boundary (from 841896 m (N), 825418 m (E) to 841893 m (N), 825399 m (E)) along an unnamed road to the Lok Ma Chau Spur Line Public Transport Interchange or from that Interchange to that boundary; and (L.N. 50 of 2013)
-
-(a) | who enter that Area by those vehicles for the sole purpose of leaving Hong Kong via the Lok Ma Chau Spur Line Control Point;
-
-(b) | who, after entering Hong Kong via that Control Point, enter, or intend to enter, that Interchange for the sole purpose of leaving that Area by those vehicles; or | (b) | shall not leave the immediate vicinity of the vehicle.
-
-The person—
-
-(a) | under paragraph (a) in the second column, shall not leave the immediate vicinity of that vehicle at any place other than that Interchange;
-
-(c) | who, after entering Hong Kong via that Control Point, are travelling on those vehicles for the purpose of leaving that Area.
-
-(b) | under paragraph (b) in the second column, shall leave that Interchange without undue delay; and
-
-(c) | under paragraph (c) in the second column, shall not leave the immediate vicinity of that vehicle. (L.N. 74 of 2007)
-
-2E. | The drivers of public light buses on a scheduled service who enter or leave the Frontier Closed Area for the sole purpose of carrying persons to or from the Lok Ma Chau Spur Line Public Transport Interchange or Ha Wan Tsuen, and the persons— | Beginning on 0600 hours on each day and ending with 0030 hours on the next day | The driver—
-
-(a) | shall, unless stopping to pick up or set down passengers as specified in the passenger service licence in respect of the scheduled service, drive his vehicle directly from the Frontier Closed Area boundary (from 841896 m (N), 825418 m (E) to 841893 m (N), 825399 m (E)) along an unnamed road to the Lok Ma Chau Spur Line Public Transport Interchange or from that Interchange to that boundary; and (L.N. 50 of 2013)
-
-(a) | who enter that Area by those vehicles for the sole purpose of leaving Hong Kong via the Lok Ma Chau Spur Line Control Point;
-
-(b) | who, after entering Hong Kong via that Control Point, enter, or intend to enter, that Interchange for the sole purpose of leaving that Area by those vehicles; or
-
-(c) | who, after entering Hong Kong via that Control Point, are travelling on those vehicles for the purpose of leaving that Area. | (b) | shall not leave the immediate vicinity of the vehicle.
-
-The person—
-
-(a) | under paragraph (a) in the second column, shall not leave the immediate vicinity of that vehicle at any place other than that Interchange;
-
-(b) | under paragraph (b) in the second column, shall leave that Interchange without undue delay; and
-
-(c) | under paragraph (c) in the second column, shall not leave the immediate vicinity of that vehicle. (L.N. 74 of 2007)
+- 2F. | The following persons— (a) the drivers of road vehicles— (i) who enter the Frontier Closed Area for the sole purpose of allowing road vehicles to be weighed in compliance with a requirement under section 65 of the Road Traffic Ordinance (Cap. 374); or (ii) who leave that Area after allowing road vehicles to be so weighed; or (b) the passengers on those road vehicles. | At any time | (a) The driver under paragraph (a)(ii) in the second column, must leave that Area without undue delay. (b) The driver or passenger must not leave the immediate vicinity of the vehicle. (L.N. 218 of 2015)
 
 - Part 2
 
-Item | Persons permitted to enter or leave | Times
+- Item | Persons permitted to enter or leave | Times
 
-3. | Residents of the closed area under the age of 18 years. | At any time
+- 3. | Residents of the closed area under the age of 18 years. | At any time
 
-4. | Employees of the Kowloon Motor Bus Company (1933) Limited in uniform and operating company buses on authorized routes within the closed area. | At any time
+- 4. | Employees of the Kowloon Motor Bus Company (1933) Limited in uniform and operating company buses on authorized routes within the closed area. | At any time
 
-5. | Employees of the Kowloon-Canton Railway Corporation on duty on board trains or otherwise in the course of their duties within the closed area at any time outside the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556). (11 of 2007 s. 36) | At any time
+- 5. | Employees of the Kowloon-Canton Railway Corporation on duty on board trains or otherwise in the course of their duties within the closed area at any time outside the Concession Period within the meaning of section 2(1) of the Mass Transit Railway Ordinance (Cap. 556). (11 of 2007 s. 36) | At any time
 
-5A. | Employees of the MTR Corporation Limited on duty on board trains or otherwise in the course of their duties in the closed area during the Concession Period referred to in item 5. (11 of 2007 s. 36) | At any time
+- 5A. | Employees of the MTR Corporation Limited on duty on board trains or otherwise in the course of their duties in the closed area during the Concession Period referred to in item 5. (11 of 2007 s. 36) | At any time
 
-6. | Employees of the Guangzhou Railway Administration or the Motor Transport Company of Guangdong and Hong Kong Limited operating trains or company road transport to or from the Mainland of China. (L.N. 108 of 2003) | At any time
+- 6. | Employees of the Guangzhou Railway Administration or the Motor Transport Company of Guangdong and Hong Kong Limited operating trains or company road transport to or from the Mainland of China. (L.N. 108 of 2003) | At any time
