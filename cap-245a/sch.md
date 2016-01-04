@@ -2,7 +2,7 @@
 
 [para. 2]
 
-- 1. The area enclosed by joining the positions from Point 1 to Point 74 and from Point 74 back to Point 1. (L.N. 49 of 2013)
+- 1. The area enclosed by joining the positions from Point 1 to Point 85 and from Point 85 back to Point 1. (L.N. 49 of 2013; L.N. 217 of 2015)
 
 - 2. In this Schedule—
 
@@ -44,138 +44,160 @@ Point number | Northing (m) | Easting (m) | Remarks
 
 12 | 845637 | 840949 | From there NORTHWEST following the fence to Point 13.
 
-13 | 846082 | 837261 | From there SOUTH following a straight line of bearing 180° to Point 14.
+13 | 846136 | 837026 | From there NORTHWEST following the fence to Point 14.
 
-14 | 845046 | 837261 | From there NORTHWEST to Point 15, which is located at the ridge of Wong Mau Hang Shan.
+14 | 846021 | 836693 | From there NORTHWEST following the bottom of the slope to Point 15.
 
-15 | 845380 | 836000 | From there NORTHEAST to Point 16.
+15 | 846046 | 836641 | From there NORTHWEST following the fence to Point 16, which is located at the junction of the fences.
 
-16 | 845390 | 836010 | From there NORTHWEST to Point 17.
+16 | 846393 | 836301 | From there NORTHEAST following the fence to Point 17, which is located at the junction of the fences.
 
-17 | 845510 | 835920 | From there NORTHWEST to Point 18.
+17 | 846396 | 836313 | From there NORTHEAST following the fence to Point 18, which is located at the junction of the fences.
 
-18 | 845530 | 835870 | From there NORTHWEST to Point 19.
+18 | 846602 | 835737 | From there NORTHWEST following the fence to Point 19, which is located at the junction of the fences.
 
-19 | 845550 | 835690 | From there SOUTHWEST to Point 20.
+19 | 846581 | 834844 | From there NORTHWEST following the fence to Point 20, which is located at the junction of the fences.
 
-20 | 845410 | 835480 | From there SOUTHWEST to Point 21.
+20 | 846036 | 834085 | From there WEST following the fence to Point 21, which is located at the junction of the fences.
 
-21 | 845330 | 835270 | From there NORTHWEST to Point 22.
+21 | 846045 | 833965 | From there WEST following the fence to Point 22.
 
-22 | 845340 | 835080 | From there NORTHWEST to Point 23.
+22 | 845621 | 833580 | From there SOUTHWEST following the fence and the gate to Point 23, which is located at the junction of the fences.
 
-23 | 845470 | 834940 | From there NORTHWEST to Point 24.
+23 | 844579 | 832783 | From there NORTHWEST following the fence to Point 24, which is located at the junction of the fences.
 
-24 | 845520 | 834840 | From there NORTHEAST to Point 25.
+24 | 844742 | 832512 | From there SOUTHWEST following the gate and the fence to Point 25, which is located at the junction of the fences.
 
-25 | 845560 | 834870 | From there SOUTHWEST to Point 26.
+25 | 844610 | 831569 | From there NORTHWEST following the fence to Point 26, which is located at the junction of the fences.
 
-26 | 845550 | 834690 | From there SOUTH to Point 27.
+26 | 844618 | 831548 | From there SOUTHWEST following the fence to Point 27, which is located at the junction of the fences.
 
-27 | 845403 | 834689 | From there EAST to Point 28.
+27 | 844524 | 831431 | From there SOUTHWEST following the fence to Point 28, which is located at the junction of the fences.
 
-28 | 845403 | 834752 | From there SOUTHEAST to Point 29.
+28 | 844364 | 831181 | From there SOUTHEAST following the fence to Point 29.
 
-29 | 845350 | 834770 | From there SOUTH to Point 30.
+29 | 844175 | 831499 | From there NORTHEAST following a straight line to Point 30.
 
-30 | 845270 | 834770 | From there SOUTHEAST to Point 31.
+30 | 844189 | 831520 | From there SOUTHEAST following the fence to Point 31.
 
-31 | 845230 | 834780 | From there SOUTH to Point 32.
+31 | 844182 | 831536 | From there SOUTHEAST following the edge of the structure to Point 32.
 
-32 | 845200 | 834780 | From there SOUTHEAST to Point 33.
+32 | 844179 | 831542 | From there NORTHEAST following a straight line to Point 33.
 
-33 | 845150 | 834800 | From there SOUTHEAST to Point 34.
+33 | 844186 | 831547 | From there SOUTHEAST following the edge of the stream to Point 34.
 
-34 | 845139 | 834850 | From there SOUTHEAST following an anti-clockwise curve with radius = 45 m to Point 35.
+34 | 844096 | 831611 | From there SOUTHEAST following a straight line to Point 35.
 
-35 | 845100 | 834900 | From there EAST to Point 36.
+35 | 844089 | 831616 | From there SOUTHEAST following the edge of the structure to Point 36.
 
-36 | 845100 | 834940 | From there SOUTHEAST following an anti-clockwise curve with radius = 225 m to Point 37.
+36 | 844032 | 831632 | From there SOUTHEAST following the wall to Point 37.
 
-37 | 844870 | 835090 | From there SOUTHWEST to Point 38.
+37 | 844031 | 831637 | From there SOUTHEAST following the edge of the structure to Point 38.
 
-38 | 844600 | 834629 | From there SOUTHWEST to Point 39, which is located at the southern end of Tong Fong.
+38 | 844028 | 831637 | From there SOUTHEAST following the bottom of the slope to Point 39.
 
-39 | 844067 | 833712 | From there SOUTHWEST to Point 40.
+39 | 843997 | 831651 | From there SOUTHWEST following the fence to Point 40.
 
-40 | 844020 | 833316 | From there SOUTHWEST to Point 41, which is located at the southern end of Chow Tin Tsuen.
+40 | 843959 | 831637 | From there SOUTHWEST following a straight line to Point 41.
 
-41 | 843862 | 833016 | From there SOUTHWEST to Point 42, which is located at the summit of Kong Nga Po.
+41 | 843958 | 831635 | From there NORTHWEST following a straight line to Point 42.
 
-42 | 843260 | 831930 | From there SOUTHWEST to Point 43, which is located at Sandy Ridge.
+42 | 843981 | 831630 | From there NORTHWEST following the road kerb to Point 43.
 
-43 | 842510 | 830720 | From there WEST to Point 44.
+43 | 844055 | 831592 | From there NORTHWEST following a straight line to Point 44.
 
-44 | 842510 | 830600 | From there SOUTHWEST to Point 45, which is located at the Police Post on Man Kam To Road.
+44 | 844063 | 831574 | From there SOUTHWEST following the road kerb to Point 45.
 
-45 | 842500 | 830590 | From there SOUTHWEST to Point 46.
+45 | 844053 | 831557 | From there SOUTHWEST following a straight line to Point 46.
 
-46 | 842110 | 830110 | From there NORTHWEST to Point 47, where the fence situates.
+46 | 844032 | 831554 | From there NORTHWEST following the road kerb to Point 47.
 
-47 | 842127 | 830075 | From there NORTHWEST following the fence to Point 48, which is located at the junction of the fence and the bridge.
+47 | 844063 | 831444 | From there NORTHWEST across a road to Point 48, where the end of the fence situates.
 
-48 | 842867 | 829822 | From there NORTHWEST following the edge of the bridge to Point 49, where it meets the southern edge of the pavement underneath the bridge.
+48 | 844065 | 831433 | From there NORTHWEST following the fence to Point 49.
 
-49 | 842877 | 829816 | From there SOUTHWEST following the southern edge of the pavement underneath the bridge to Point 50, which is located at the junction of the southern edge of the pavement and the river bank of River Indus.
+49 | 844254 | 831185 | From there NORTHWEST following the bottom of the slope to Point 50.
 
-50 | 842870 | 829799 | From there NORTHWEST following the river bank of River Indus to Point 51, which is located at the intersection of the river bank and the northern edge of the water pipe supports.
+50 | 844304 | 831144 | From there NORTHWEST following the fence and the bottom of the slope to Point 51, which is located at the junction of the fences.
 
-51 | 842878 | 829748 | From there SOUTHWEST following the northern edge of the water pipe supports to Point 52, which is located at the intersection of the water pipe supports edge and the wall.
+51 | 844358 | 831011 | From there SOUTHWEST following the fence to Point 52, which is located at the junction of the fences.
 
-52 | 842845 | 829683 | From there NORTHWEST following the wall to Point 53, where the end of the wall situates.
+52 | 844158 | 830834 | From there NORTHWEST following the fence to Point 53, which is located at the junction of the fences.
 
-53 | 842885 | 829658 | From there NORTHWEST following the eastern side of the road kerb to Point 54, which is located at the junction of the road kerb and the gate.
+53 | 844162 | 830831 | From there WEST following the fence to Point 54, which is located at the junction of the fences.
 
-54 | 842908 | 829643 | From there NORTHWEST following the railing to Point 55, which is located at the junction of the railing and the road marker.
+54 | 843638 | 830099 | From there SOUTHWEST following the fence to Point 55, which is located at the junction of the fences.
 
-55 | 843185 | 829562 | From there NORTHWEST following the road marker to Point 56, which is located at the junction of the road marker and the fence.
+55 | 843402 | 829856 | From there SOUTHWEST following the fence to Point 56.
 
-56 | 843191 | 829558 | From there NORTHWEST following the fence to Point 57, which is located at the junction of the fences.
+56 | 843388 | 829824 | From there SOUTHEAST following a straight line to the building corner of the Lo Wu Control Point and following the building edge of the Lo Wu Control Point to Point 57.
 
-57 | 843197 | 829552 | From there NORTHWEST and then SOUTHWEST following the fences to Point 58, where it meets a nullah behind the pavement.
+57 | 843242 | 829767 | From there WEST following the subway entrance to Point 58.
 
-58 | 841896 | 825418 | From there WEST along the road marker on an unnamed road to Point 59, where it meets the edge of the flyover above.
+58 | 843242 | 829764 | From there NORTH following the building edge of the Lo Wu Control Point to Point 59.
 
-59 | 841893 | 825399 | From there SOUTHEAST following the edge of the flyover above to Point 60, where it meets the fence.
+59 | 842954 | 829788 | From there SOUTHEAST following the fence to Point 60, which is located at the northern edge of the pavement.
 
-60 | 841566 | 825488 | From there SOUTHEAST following the fence to Point 61, which is located at the end of the fence.
+60 | 842879 | 829815 | From there SOUTHWEST following the northern edge of the pavement underneath the bridge to Point 61, which is located at the junction of the northern edge of the pavement and the river bank of River Indus.
 
-61 | 840763 | 826011 | From there SOUTHEAST following the wall to Point 62.
+61 | 842870 | 829799 | From there NORTHWEST following the river bank of River Indus to Point 62, which is located at the intersection of the river bank and the northern edge of the water pipe supports.
 
-62 | 840564 | 826191 | From there SOUTHWEST across San Sham Road to Point 63.
+62 | 842878 | 829748 | From there SOUTHWEST following the northern edge of the water pipe supports to Point 63, which is located at the intersection of the water pipe supports edge and the wall.
 
-63 | 840530 | 826159 | From there NORTHWEST following the wall to Point 64, which is located at the start of the fence.
+63 | 842845 | 829683 | From there NORTHWEST following the wall to Point 64, where the end of the wall situates.
 
-64 | 840600 | 826098 | From there NORTHWEST following the fence to Point 65, where it meets the edge of the flyover.
+64 | 842885 | 829658 | From there NORTHWEST following the eastern side of the road kerb to Point 65, which is located at the junction of the road kerb and the gate.
 
-65 | 841705 | 825385 | From there NORTHWEST following the edge of the flyover and across the nullah to Point 66.
+65 | 842908 | 829643 | From there NORTHWEST following the railing to Point 66, which is located at the junction of the railing and the road marker.
 
-66 | 841719 | 825381 | From there NORTHWEST following the fence to Point 67.
+66 | 843185 | 829562 | From there NORTHWEST following the road marker to Point 67, which is located at the junction of the road marker and the fence.
 
-67 | 841885 | 825345 | From there SOUTHWEST following the fence to Point 68, which is located at the junction of the fences.
+67 | 843191 | 829558 | From there NORTHWEST following the fence to Point 68, which is located at the junction of the fences.
 
-68 | 841813 | 824993 | From there SOUTH following the fence of the Lok Ma Chau Spur Line Control Point (columns supporting the viaduct are excluded) to Point 69, which is located at the end of the fence.
+68 | 843197 | 829552 | From there NORTHWEST and then SOUTHWEST following the fences to Point 69, where it meets a nullah behind the pavement.
 
-69 | 841619 | 824650 | From there WEST following the building edge of the Sewage Plant to Point 70, which is located at the start of the fence.
+69 | 841896 | 825418 | From there WEST along the road marker on Lok Ma Chau Road to Point 70, where it meets the edge of the flyover above.
 
-70 | 841652 | 824632 | From there EAST following the fence to Point 71, which is located at the junction of the fences.
+70 | 841893 | 825399 | From there SOUTHEAST following the edge of the flyover above to Point 71, where it meets the fence.
 
-71 | 841743 | 824681 | From there SOUTHWEST following the fence to Point 72, which is located at the junction of the fences.
+71 | 841566 | 825488 | From there SOUTHEAST following the fence to Point 72, which is located at the end of the fence.
 
-72 | 839649 | 823018 | From there SOUTHWEST following the fence to Point 73, which is located at the end of the fence.
+72 | 840763 | 826011 | From there SOUTHEAST following the wall to Point 73.
 
-73 | 838112 | 821425 | From there WEST to Point 74.
+73 | 840564 | 826191 | From there SOUTHWEST across San Sham Road to Point 74.
 
-74 | 838108 | 821030 | Finally NORTH returning to Point 1.
+74 | 840530 | 826159 | From there NORTHWEST following the wall to Point 75, which is located at the start of the fence.
+
+75 | 840600 | 826098 | From there NORTHWEST following the fence to Point 76, where it meets the edge of the flyover.
+
+76 | 841705 | 825385 | From there NORTHWEST following the edge of the flyover and across the nullah to Point 77.
+
+77 | 841719 | 825381 | From there NORTHWEST following the fence to Point 78.
+
+78 | 841885 | 825345 | From there SOUTHWEST following the fence to Point 79, which is located at the junction of the fences.
+
+79 | 841813 | 824993 | From there SOUTH following the fence of the Lok Ma Chau Spur Line Control Point (columns supporting the viaduct are excluded) to Point 80, which is located at the end of the fence.
+
+80 | 841619 | 824650 | From there WEST following the building edge of the Sewage Plant to Point 81, which is located at the start of the fence.
+
+81 | 841652 | 824632 | From there EAST following the fence to Point 82, which is located at the junction of the fences.
+
+82 | 841743 | 824681 | From there SOUTHWEST following the fence to Point 83, which is located at the junction of the fences.
+
+83 | 839649 | 823018 | From there SOUTHWEST following the fence to Point 84, which is located at the end of the fence.
+
+84 | 838112 | 821425 | From there WEST to Point 85.
+
+85 | 838108 | 821030 | Finally NORTH returning to Point 1.
 
 Notes:
 
-- 1. Point 1 and Points 58 to 74 are shown on the plan titled “PLAN 1 OF FRONTIER CLOSED AREA” annexed to this Schedule.
+- 1. Point 1 and Points 69 to 85 are shown on the plan titled “PLAN 1 OF FRONTIER CLOSED AREA” annexed to this Schedule.
 
-- 2. Points 20 to 57 are shown on the plan titled “PLAN 2 OF FRONTIER CLOSED AREA” annexed to this Schedule.
+- 2. Points 19 to 68 are shown on the plan titled “PLAN 2 OF FRONTIER CLOSED AREA” annexed to this Schedule.
 
-- 3. Points 2 to 19 are shown on the plan titled “PLAN 3 OF FRONTIER CLOSED AREA” annexed to this Schedule.
+- 3. Points 2 to 18 are shown on the plan titled “PLAN 3 OF FRONTIER CLOSED AREA” annexed to this Schedule.
 
 - 4. The plans annexed to this Schedule are provided for information only.
 
-(Schedule replaced L.N. 170 of 2011. Amended L.N. 49 of 2013)
+(Schedule replaced L.N. 170 of 2011. Amended L.N. 49 of 2013; L.N. 217 of 2015)
