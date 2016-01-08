@@ -14,7 +14,7 @@ Item | Body
 
 4. | HKCT Group Limited (Amended L.N. 59 of 2011)
 
-5. | Caritas-Hong Kong
+5. | Caritas—Hong Kong
 
 6. | Hong Kong Young Women’s Christian Association
 
@@ -72,15 +72,15 @@ Item | Body
 
 34. | (Repealed L.N. 214 of 2001)
 
-35. | The Scout Association of Hong Kong-The Friends of Scouting
+35. | The Scout Association of Hong Kong—The Friends of Scouting
 
 36. | S.K.H. Holy Carpenter Church Community Centre (Amended L.N. 271 of 2003)
 
 37. | St. James’ Settlement
 
-38. | Kwai Chung Hospital-Hospital Authority
+38. | Kwai Chung Hospital—Hospital Authority
 
-39. | Queen Elizabeth Hospital-Hospital Authority
+39. | Queen Elizabeth Hospital—Hospital Authority
 
 40. | Hong Kong Rehabilitation Power (Amended L.N. 214 of 2001)
 
@@ -170,7 +170,7 @@ Item | Body
 
 84. | Vassar International Chinese Medical Society Limited (Added L.N. 224 of 2008)
 
-85. | Institute for Entrepreneurship, The Hong Kong Polytechnic University (Replaced L.N. 142 of 2014)
+85. | Institute for Entrepreneurship, The Hong Kong Polytechnic University (Added L.N. 224 of 2008. Amended L.N. 142 of 2014)
 
 86. | Farida Hair & Beauty Education Centre (Added L.N. 224 of 2008)
 
@@ -184,7 +184,7 @@ Item | Body
 
 91. | Hospital & Clinic Nurses Association (Added L.N. 221 of 2009)
 
-92 | (Repealed L.N. 142 of 2014)
+92. | (Repealed L.N. 142 of 2014)
 
 93. | Occupational Safety and Health Council (Added L.N. 221 of 2009)
 
@@ -242,7 +242,7 @@ Item | Body
 
 125. | (Repealed L.N. 69 of 2013)
 
-126. | Eating Establishment Employees General Union (Added L.N. 173 of 2010)
+126. | (Repealed L.N. 1 of 2016)
 
 127. | (Repealed L.N. 69 of 2013)
 
@@ -250,7 +250,7 @@ Item | Body
 
 129. | Hong Kong Tour Guides General Union (Added L.N. 173 of 2010)
 
-130. | The Hong Kong Association of Hair Design (Added L.N. 173 of 2010)
+130. | (Repealed L.N. 1 of 2016)
 
 131. | (Repealed L.N. 142 of 2014)
 
@@ -258,13 +258,13 @@ Item | Body
 
 133. | (Repealed L.N. 69 of 2013)
 
-134. | Asia Tree Preservation Limited (Added L.N. 173 of 2010)
+134. | (Repealed L.N. 1 of 2016)
 
 135. | (Repealed L.N. 110 of 2011)
 
 136. | Li Fai Centre of Wushu (Added L.N. 173 of 2010)
 
-137. | Asian Academy for Sports and Fitness Professionals Limited (Added L.N. 173 of 2010)
+137. | (Repealed L.N. 1 of 2016)
 
 138. | Hong Kong Ballroom Dancing Council Limited (Added L.N. 173 of 2010)
 
@@ -288,7 +288,7 @@ Item | Body
 
 150. | Kwan Sang Catering Professional Employees Association (Added L.N. 59 of 2011)
 
-151. | Association of Professional Personnel (Hotels, Food & Beverage) (Added L.N. 110 of 2011)
+151. | (Repealed L.N. 1 of 2016)
 
 152. | Fu Hong Society Training Department (Added L.N. 49 of 2012)
 
@@ -298,7 +298,7 @@ Item | Body
 
 155. | Silence Limited (Added L.N. 69 of 2013)
 
-156. | The Association of Electrical and Mechanical Engineering(Hong Kong) Limited (Added L.N. 69 of 2013)
+156. | The Association of Electrical and Mechanical Engineering (Hong Kong) Limited (Added L.N. 69 of 2013)
 
 157. | Hong Kong Sheng Kung Hui Welfare Council Limited (Added L.N. 142 of 2014)
 
@@ -307,5 +307,7 @@ Item | Body
 159. | Star Chef Management School operated by Star Chef Management School Company Limited (Added L.N. 142 of 2014)
 
 160. | Haven of Hope Christian Service (Added L.N. 142 of 2014)
+
+161. | The Free Methodist Church of Hong Kong (Added L.N. 1 of 2016)
 
 (Schedule 2 replaced L.N. 269 of 1999) (Format changes—E.R. 2 of 2012)
