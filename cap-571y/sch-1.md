@@ -32,4 +32,12 @@ Item | Futures contract | Prescribed limit | Reporting level
 
 13. | US Dollar vs Renminbi (Hong Kong) futures contract (L.N. 13 of 2013) | 8 000 net long or short contracts for all contract months combined except that the limit for the spot month contract during the last 5 trading days is 2 000 open contracts | 500 open contracts for any one contract month
 
+14. | London Copper Mini futures contract (L.N. 228 of 2015) | 50 000 net long or short contracts for all contract months combined | 500 open contracts for any one contract month
+
+15. | London Aluminium Mini futures contract (L.N. 228 of 2015) | 25 000 net long or short contracts for all contract months combined | 500 open contracts for any one contract month
+
+16. | London Zinc Mini futures contract (L.N. 228 of 2015) | 25 000 net long or short contracts for all contract months combined | 500 open contracts for any one contract month
+
+17. | Stock futures contracts on shares or units of exchange traded funds (L.N. 228 of 2015) | 5 000 open contracts for any one contract month | 1 000 open contracts for any one contract month
+
 (Schedule 1 replaced L.N. 117 of 2011)
