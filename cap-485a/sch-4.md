@@ -46,7 +46,9 @@ Financial Penalties
 
 - (Cap. 485 sub. leg. A)
 
-- Item | Relevant section of the Regulation | Short descriptio nof the relevant duty or requirement | Amount offinancial penalty for first failure $ | Amount of financial penalty for second failure $ | Amount of financial penalty for third or subsequent failure $
+- Item | Relevant section of the Regulation | Short description of the relevant duty or requirement | Amount offinancial penalty for first failure | Amount of financial penalty for second failure | Amount of financial penalty for third or subsequent failure
+
+- $ | $ | $
 
 - 5 | (Repealed 18 of 2008 s. 34)
 
@@ -61,6 +63,10 @@ Financial Penalties
 - 10 | 34 | Requirements with respect to charging of fees for transfer of accrued benefits | 10,000 | 20,000 | 50,000
 
 - 11 | 35 | Requirements with respect to charging of fees on transfer of accrued benefits in certain circumstances | 10,000 | 20,000 | 50,000
+
+- 11A | 35A(1) | Requirements with respect to charging of fees etc. for payment of accrued benefits in lump sum (1 of 2015 s. 51) | 10,000 | 20,000 | 50,000
+
+- 11B | 35B(1) | Requirements on payment of accrued benefits by instalments (1 of 2015 s. 51) | 10,000 | 20,000 | 50,000
 
 - 12 | 37 | Requirements in respect of capital preservation fund | 10,000 | 20,000 | 50,000
 
@@ -80,13 +86,13 @@ Financial Penalties
 
 - 12H | 42D(1) | Authority’s consent required in respect of person proposing to become substantial shareholder (18 of 2008 s. 34) | 10,000 | 20,000 | 50,000
 
-- 12I | 42D(2) | Substantial shareholder who has contravened section 42D(1) to notify approved trustee andAuthority (18 of 2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to serve the required notice continues after the expiry of the 3 day period
+- 12I | 42D(2) | Substantial shareholder who has contravened section 42D(1) to notify approved trustee and Authority (18 of 2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to serve the required notice continues after the expiry of the 3 day period
 
 - 12J | 42D(3) | Approved trustee to apply for Authority’s consent in respect of person who has become substantial shareholder without Authority’s prior consent (18 of 2008 s. 34) | 10,000 | 20,000 | 50,000
 
-- 12K | 42D(7) | Substantial shareholder not to exercise voting right(18 of 2008 s. 34) | 10,000 | 20,000 | 50,000
+- 12K | 42D(7) | Substantial shareholder not to exercise voting right (18 of 2008 s. 34) | 10,000 | 20,000 | 50,000
 
-- 12L | 42E(7) | Approved trustee to terminate appointment of officer (18 of2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to terminate the appointment of the officer continues
+- 12L | 42E(7) | Approved trustee to terminate appointment of officer (18 of 2008 s. 34) | a daily penalty of $1,000 for each day on which the failure to terminate the appointment of the officer continues
 
 - 12M | 42E(9) | Shadow director not to give instructions to directors of approved trustee (18 of 2008 s. 34) | 10,000 | 20,000 | 50,000
 
@@ -212,7 +218,7 @@ Financial Penalties
 
 - 70A | 167 | Approved trustee not to pay accrued benefits if scheme accounts are being audited or if scheme is being investigated (2 of 2002 s. 21) | 10,000 | 20,000 | 50,000
 
-- 71 | 168 | Approved trustee to ensure claimant provided with final benefit statement | 10,000 | 20,000 | 50,000
+- 71 | 168 | Approved trustee to ensure claimant provided with benefit payment statement (1 of 2015 s. 51) | 10,000 | 20,000 | 50,000
 
 - 72 | 170 | Duty of approved trustee when scheme member cannot be located | 10,000 | 20,000 | 50,000
 
