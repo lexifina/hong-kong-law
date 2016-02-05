@@ -2,7 +2,9 @@
 
 [ss. 2, 50 & 52] (Amended L.N. 59 of 1999)
 
-Prescribed Hospitals and Institutions, other than Hospitals Maintained by the Government and Military Hospitals*
+Prescribed Hospitals and Institutions, other than Hospitals Maintained by the Government and Military Hospitals
+
+(Amended 2 of 2012 s. 3)
 
 Alice Ho Miu Ling Nethersole Hospital (雅麗氏何妙齡那打素醫院)
 
@@ -44,19 +46,21 @@ Grace Nursing Home (Tak Tin) (頌恩護理院(德田))
 
 Grantham Hospital (葛量洪醫院)
 
-Haven of Hope Holistic Care Centre (靈實寧養院)
-
 Haven of Hope Hospital (靈實醫院)
 
 Haven of Hope Nursing Home (靈實護養院)
 
-Haven of Hope Sister Annie Skau Nursing Home (靈實司務道護養院)
+Haven of Hope Sister Annie Skau Holistic Care Centre (靈實司務道寧養院) (Added L.N. 236 of 2015)
 
 Home of Loving Faithfulness (可愛忠實之家)
 
-Hong Kong Adventist Hospital (香港港安醫院)
+Hong Kong Adventist Hospital—Stubbs Road (香港港安醫院——司徒拔道) (Replaced L.N. 236 of 2015)
+
+Hong Kong Adventist Hospital—Tsuen Wan (香港港安醫院——荃灣) (Added L.N. 236 of 2015)
 
 Hong Kong Baptist Hospital (香港浸信會醫院)
+
+Hong Kong Baptist Mr. & Mrs. Au Shue Hung Rehabilitation and Healthcare Home Limited (香港浸信會區樹洪伉儷康復護養院有限公司) (Added L.N. 236 of 2015)
 
 Hong Kong Buddhist Hospital (香港佛教醫院)
 
@@ -70,9 +74,7 @@ Hong Kong Kidney Foundation Limited (Kowloon City Dialysis Centre) (香港腎臟
 
 Hong Kong Red Cross Blood Transfusion Service (香港紅十字會輸血服務中心)
 
-Hong Kong Renal Centre Limited (香港洗腎中心有限公司)
-
-Hong Kong Sanatorium & Hospital, Limited (香港養和醫院有限公司)
+Hong Kong Sanatorium & Hospital Limited (香港養和醫院有限公司) (Replaced L.N. 236 of 2015)
 
 Hong Kong Sheng Kung Hui Nursing Home (香港聖公會護養院)
 
@@ -86,13 +88,17 @@ Kwong Wah Hospital (廣華醫院)
 
 Lions Kidney Educational Centre and Research Foundation Chan Wong Sau Wah Memorial Renal Dialysis Centre (國際獅子會腎病教育中心及研究基金陳黃秀華紀念洗腎中心)
 
-Lions Kidney Educational Centre and Research Foundation Renal Dialysis Centre (國際獅子會腎病教育中心及研究基金洗腎中心)
+Lions Kidney Educational Centre and Research Foundation—Chinachem Group Renal Dialysis Centre (國際獅子會腎病教育中心及研究基金——華懋集團洗腎中心) (Replaced L.N. 236 of 2015)
 
 Lock Tao Nursing Home (樂道健康院)
+
+Lok Sin Tong Hoi Wang Road Nursing Home (樂善堂海泓道護養院) (Added L.N. 236 of 2015)
 
 MacLehose Medical Rehabilitation Centre (麥理浩復康院)
 
 Matilda & War Memorial Hospital (明德醫院)
+
+MFBM Elderly Home (妙法寺護老院) (Added L.N. 236 of 2015)
 
 North District Hospital (北區醫院)
 
@@ -108,11 +114,13 @@ Po Leung Kuk Comfort Court for the Senior (保良局樂安居)
 
 Po Leung Kuk Eco-Home for the Senior (保良局癸未年樂頤居)
 
-Po Leung Kuk Kwai Chung Home for the Elderly (保良局葵涌護老院)
+Po Leung Kuk Fuk Wai Home for the Elderly (保良局福慧護老院) (Replaced L.N. 236 of 2015)
 
 Po Leung Kuk Kwok Law Kwai Chun Home for the Elderly (保良局郭羅桂珍護老院)
 
 Po Leung Kuk Merry Court for the Senior (保良局壬午年耆樂居) (Added L.N. 101 of 2013)
+
+Po Leung Kuk Sai Ying Pun Home for the Elderly cum Day Care Centre (保良局西營盤護老院暨長者日間護理中心) (Added L.N. 236 of 2015)
 
 Po Leung Kuk Tai Kok Tsui Home for the Elderly cum Cherish Day Care Centre for the Elderly (保良局大角咀護老院暨耆順長者日間護理中心) (Added L.N. 101 of 2013)
 
@@ -144,11 +152,9 @@ Scenic Resort (Nursing Home) (雅明灣畔護養院)
 
 Shatin Hospital (沙田醫院)
 
-Shatin International Medical Centre Union Hospital (沙田國際醫務中心仁安醫院)
-
 Shek Kwu Chau Treatment & Rehabilitation Centre (石鼓洲康復院)
 
-Sheung Shui Sister Aquinas Memorial Women’s Treatment Centre (上水區貴雅修女紀念婦女康復中心)
+Sister Aquinas Memorial Women’s Treatment Centre (區貴雅修女紀念婦女康復中心) (Replaced L.N. 236 of 2015)
 
 Siu Lam Hospital (小欖醫院)
 
@@ -166,6 +172,8 @@ The Duchess of Kent Children’s Hospital at Sandy Bay (大口環根德公爵夫
 
 The Hong Kong Anti-Cancer Society Jockey Club Cancer Rehabilitation Centre (香港防癌會賽馬會癌症康復中心)
 
+The Methodist Church, Hong Kong Yang Memorial Methodist Social Service Sham Shui Po Nursing Home cum Day Care Service (香港基督教循道衛理聯合教會循道衛理楊震社會服務處深水埗護養院暨日間護理服務) (Added L.N. 236 of 2015)
+
 The Prince Philip Dental Hospital (菲臘牙科醫院)
 
 True Light Home for the Aged (真光護老之家)
@@ -173,8 +181,6 @@ True Light Home for the Aged (真光護老之家)
 Tsan Yuk Hospital (贊育醫院)
 
 Tseung Kwan O Hospital (將軍澳醫院)
-
-Tsuen Wan Adventist Hospital (荃灣港安醫院)
 
 Tuen Mun Hospital (屯門醫院)
 
@@ -184,13 +190,19 @@ Tung Wah Group of Hospitals Fung Yiu King Hospital (東華三院馮堯敬醫院)
 
 Tung Wah Group of Hospitals Haemodialysis Centre (東華三院血液透析中心)
 
-Tung Wah Group of Hospitals Willow Lodge (東華三院翠柳頤庭) (Added L.N. 101 of 2013)
+Tung Wah Group of Hospitals Ho Yuk Ching Willow Lodge (東華三院何玉清翠柳頤庭) (Replaced L.N. 236 of 2015)
+
+Tung Wah Group of Hospitals Lo Wong Yuk Man Nursing Home cum Day Care Centre (東華三院羅王玉文護養院暨日間中心) (Added L.N. 236 of 2015)
+
+Tung Wah Group of Hospitals Pearl Lodge (東華三院灣玥頤庭) (Added L.N. 236 of 2015)
 
 Tung Wah Group of Hospitals Women’s Welfare Club Western District, Hong Kong Residential Care Home for the Elderly (東華三院香港西區婦女福利會護養安老院)
 
 Tung Wah Group of Hospitals Wong Tai Sin Hospital (東華三院黃大仙醫院)
 
 Tung Wah Hospital (東華醫院)
+
+Union Hospital (仁安醫院) (Added L.N. 236 of 2015)
 
 United Christian Hospital (基督教聯合醫院)
 
@@ -204,6 +216,8 @@ Yan Chai Hospital (仁濟醫院)
 
 Yan Chai Hospital Lee Wai Siu Kee Elderly Home (仁濟醫院李衛少琦安老院) (Added L.N. 101 of 2013)
 
+Yan Chai Hospital Lobo Law Foundation Renal Dialysis Center (仁濟醫院羅家寶基金會洗腎中心) (Added L.N. 236 of 2015)
+
 Yan Chai Nursing Home (仁濟護養院)
 
 Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Lei Muk Shue Estate) (圓玄護養院暨長者日間護理中心(梨木樹邨))
@@ -212,8 +226,4 @@ Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (�
 
 Yuen Yuen Nursing Home (Sau Mau Ping Estate) (圓玄護養院(秀茂坪邨))
 
-(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010; L.N. 101 of 2013) (Format changes—E.R. 2 of 2014)
-
-Editorial Note:
-
-* (Amended 2 of 2012 s. 3)
+(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010; L.N. 101 of 2013; L.N. 236 of 2015) (Format changes—E.R. 2 of 2014)
