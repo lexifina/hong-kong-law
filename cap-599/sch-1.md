@@ -107,3 +107,5 @@ Scheduled Infectious Diseases
 - 44. Whooping cough (百日咳)
 
 - 45. Yellow fever (黃熱病)
+
+- 46. Zika Virus Infection (寨卡病毒感染) (Added L.N. 33 of 2016)
