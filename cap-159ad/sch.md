@@ -12,6 +12,24 @@ $ | $
 
 1. | Section 8(1) | 10,000 | 15,000
 
+2. | Section 7AI(1) | 10,000 | 15,000
+
+3. | Section 7AI(2) | 10,000 | 15,000
+
+4. | Section 7AJ(a) | 10,000 | 15,000
+
+5. | Section 7AJ(b) | 10,000 | 15,000
+
+6. | Section 7AK(1) | 10,000 | 15,000
+
+7. | Section 7AK(2) | 10,000 | 15,000
+
+8. | Section 7AL(1) | 10,000 | 15,000
+
+9. | Section 7AL(2) | 10,000 | 15,000
+
+(22 of 2012 s. 11)
+
 Solicitors’ Practice Rules (Cap. 159 sub. leg. H)
 
 Item | Description | Fixed penalty | Fixed investigation cost
@@ -112,7 +130,9 @@ $ | $
 
 3. | Section 7(2) | 10,000 | 15,000
 
-(L.N. 116 of 2014) Practice Directions issued by the Society (L.N. 116 of 2014)
+(L.N. 116 of 2014)
+
+Practice Directions issued by the Society (L.N. 116 of 2014)
 
 Item | Description | Fixed penalty | Fixed investigation cost
 
