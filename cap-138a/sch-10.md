@@ -466,6 +466,8 @@ Poisons List
 
     - Bitolterol; its salts
 
+    - Bivalirudin; its salts
+
     - Blood products derived from human blood or manufactured by biotechnology, the following—
 
     - Albumin
@@ -846,6 +848,8 @@ Poisons List
 
     - Dehydroemetine; its salts
 
+    - Delamanid; its salts
+
     - Demecarium bromide
 
     - Denosumab
@@ -915,6 +919,8 @@ Poisons List
     - Dimenoxadole; its salts
 
     - Dimepheptanol; its salts; its esters and ethers; their salts
+
+    - Dimethyl fumarate when contained in pharmaceutical products
 
     - Dioxaphetyl butyrate; its salts
 
@@ -1512,6 +1518,8 @@ Poisons List
 
     - Lysuride; its salts
 
+    - Macitentan; its salts
+
     - Mangafodipir; its salts
 
     - Mannityl hexanitrate
@@ -1794,6 +1802,8 @@ Poisons List
 
     - Nimodipine
 
+    - Nintedanib; its salts
+
     - Nisoldipine
 
     - Nitrendipine
@@ -1913,6 +1923,8 @@ Poisons List
     - Pantethine; its salts
 
     - Pantoprazole; its salts
+
+    - Paracetamol when contained in pharmaceutical products for human parenteral administration
 
     - Paraldehyde
 
@@ -2199,6 +2211,8 @@ Poisons List
     - Raltitrexed; its salts
 
     - Ramipril; its salts
+
+    - Ramucirumab
 
     - Ranibizumab
 
@@ -2686,7 +2700,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 235 of 2015; L.N. 40 of 2016)
 
     - Division B
 
