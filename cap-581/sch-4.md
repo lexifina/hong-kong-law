@@ -1,6 +1,6 @@
 # SCHEDULE 4
 
-[ss. 2, 15, 48 & 54] (Amended 11 of 2010 s. 13)
+[ss. 2, 15, 48, 54 & 57] (Amended 11 of 2010 s. 13; 2 of 2016 s. 11)
 
 CONTRIBUTIONS TO FUND
 
@@ -10,13 +10,13 @@ CONTRIBUTIONS TO FUND
 
     - “amount of relevant deposits” (有關存款款額), in relation to a Scheme member, means, subject to subsection (2), the aggregate amount held by all depositors of the Scheme member, being the sum arrived at by adding up any of the following amounts held by each of the depositors of the Scheme member—
 
-      - (a) the amount by which the amount of all relevant deposits held by one person, as a depositor, with the Scheme member in that person’s own right exceeds the amount of relevant liabilities owed by the person to the Scheme member (if any), up to a limit of $500,000;
+      - (a) the amount of all relevant deposits held by one person, as a depositor, with the Scheme member in that person’s own right, up to a limit of $500,000;
 
-      - (b) the amount by which the amount of all relevant deposits held by a depositor, as a bare trustee under one bare trust, with the Scheme member exceeds the amount of relevant liabilities owed by the depositor, as the bare trustee under that bare trust, to the Scheme member (if any), up to a limit of $500,000;
+      - (b) the amount of all relevant deposits held by a depositor, as a bare trustee under one bare trust, with the Scheme member, up to a limit of $500,000;
 
-      - (c) the amount by which the amount of all relevant deposits held by a depositor with the Scheme member in one client account exceeds the amount of relevant liabilities owed by the depositor to the Scheme member under that client account (if any), up to a limit of $500,000; or
+      - (c) the amount of all relevant deposits held by a depositor with the Scheme member in one client account, up to a limit of $500,000; or
 
-      - (d) the amount by which the amount of all relevant deposits held by a depositor, as a trustee under one trust, with the Scheme member exceeds the amount of relevant liabilities owed by the depositor, as the trustee under that trust, to the Scheme member (if any), up to a limit of $500,000; (Replaced 11 of 2010 s. 13)
+      - (d) the amount of all relevant deposits held by a depositor, as a trustee under one trust, with the Scheme member, up to a limit of $500,000; (Replaced 11 of 2010 s. 13. Amended 2 of 2016 s. 11)
 
     - “build-up levy” (建立期徵費) means the build-up levy payable by a Scheme member under section 3(4);
 
@@ -46,19 +46,11 @@ CONTRIBUTIONS TO FUND
 
       - (i) subject to subparagraph (ii), each of the 2 or more persons is deemed to have an equal share in the deposit unless the contrary is proved to the satisfaction of the Board; and
 
-      - (ii) if the 2 or more persons carry on business in partnership, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the members of the partnership;
+      - (ii) if the 2 or more persons carry on business in partnership, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the members of the partnership; and (Amended 2 of 2016 s. 11)
 
-    - (c) for the purposes of paragraphs (b) and (d) of that definition, if a relevant deposit is held by a depositor consisting of 2 or more persons, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the bare trustees or trustees;
+    - (c) for the purposes of paragraphs (b) and (d) of that definition, if a relevant deposit is held by a depositor consisting of 2 or more persons, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the bare trustees or trustees. (Amended 2 of 2016 s. 11)
 
-    - (d) a reference to the amount of relevant liabilities owed by a depositor to a Scheme member is any amount the Scheme member may specify, being an amount within the range of 0% to 100% of the liabilities, other than future or contingent liabilities, owed by the depositor to the Scheme member (“relevant liabilities”), but does not include any interest accrued on the relevant liabilities;
-
-    - (e) for the purposes of paragraph (a) of that definition, if a relevant liability owed by a person (being a depositor, or being one of the persons whom a depositor consists of) to a Scheme member forms part of a liability owed by 2 or more persons to the Scheme member—
-
-      - (i) subject to subparagraph (ii), each of the 2 or more persons is deemed to have an equal share in the liability unless the contrary is proved to the satisfaction of the Board; and
-
-      - (ii) if the 2 or more persons carry on business in partnership, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the members of the partnership; and
-
-    - (f) for the purposes of paragraphs (b) and (d) of that definition, if a relevant liability is owed by a depositor, consisting of 2 or more persons, to a Scheme member, those persons are a single and continuing body of persons as distinct from the persons who may from time to time be the bare trustees or trustees. (Replaced 11 of 2010 s. 13)
+    - (d)-(f) (Repealed 2 of 2016 s. 11)
 
   - (3) For the purposes of this Schedule, the target fund size is reached in a particular year if the sum of—
 
