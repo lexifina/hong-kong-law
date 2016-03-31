@@ -96,6 +96,34 @@ Item | Type of area
 
 20. | An indoor area in a workplace or public place to the extent that it is not an area described in any other item in this Part.
 
+21. | The following bus interchanges and adjoining facilities—
+
+(a) | Lion Rock Tunnel Bus Interchange, located on both sides of the toll plaza of the Lion Rock Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-004V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+
+(b) | Cross-Harbour Tunnel Bus Interchange, located on both sides of the toll plaza of the Cross-Harbour Tunnel, together with the adjoining staircases and part of the adjoining elevated walkways, as shown—
+
+(i) | coloured orange and edged red;
+
+(ii) | coloured yellow and edged red;
+
+(iii) | coloured orange stippled black and edged red; and
+
+(iv) | coloured orange hatched black and edged red,
+
+on Plan No. DH/TCO/T-001V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+
+(c) | Eastern Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Eastern Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-002V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+
+(d) | Shing Mun Tunnels Bus Interchange, located on both sides of the toll plaza of the Shing Mun Tunnels, as shown coloured orange and edged red on Plan No. DH/TCO/T-006V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+
+(e) | Tate’s Cairn Tunnel Bus Interchange, located on both sides of the toll plaza of the Tate’s Cairn Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-005V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+
+(f) | Western Harbour Crossing Bus Interchange, located on both sides of the toll plaza of the Western Harbour Crossing, as shown coloured orange and edged red on Plan No. DH/TCO/T-003V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry;
+
+(g) | Tai Lam Tunnel Bus Interchange, located on both sides of the toll plaza of the Tai Lam Tunnel, as shown coloured orange and edged red on Plan No. DH/TCO/T-007V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry; and
+
+(h) | Tsing Sha Highway Bus Interchange, located on both sides of the toll plaza on Tsing Sha Highway, as shown coloured orange and edged red on Plan No. DH/TCO/T-008V1, signed by the Secretary on 4 December 2015 and deposited in the Land Registry. (Added L.N. 237 of 2015)
+
 - Part 2 Exempt Areas
 
 Item | Type of area
