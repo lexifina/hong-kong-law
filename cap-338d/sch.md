@@ -6,21 +6,25 @@ SMALL CLAIMS TRIBUNAL (SUITORS’ FUNDS) RULES
 
 Receipt
 
-IN THE SMALL CLAIMS TRIBUNAL
+IN THE SMALL CLAIMS TRIBUNAL OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
-(Title of cause or matter. No. of 19 ).
+(Title of cause or matter. No. of )
 
-Ledger account
+Receipt no. | Amount received
 
-(if the same as the cause, state as above).
+Date of receipt
 
-Received from the sum of
+Action no.
 
-(Signature)
+Date of order (if applicable)
 
-Registrar.
+Payer
 
-Dated this day of 19 .
+Purposes of payment
+
+Payment code | Payment method | Amount received
+
+(L.N. 152 of 2015)
 
 FORM 2 | [rule 7]
 
@@ -28,28 +32,18 @@ SMALL CLAIMS TRIBUNAL (SUITORS’ FUNDS) RULES
 
 Declaration
 
-IN THE SMALL CLAIMS TRIBUNAL
+IN THE SMALL CLAIMS TRIBUNAL OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION
 
-(Title of cause or matter. No. of 19 ).
+(Title of cause or matter. No. of ).
 
-Ledger account
+I (name and address of applicant) solemnly and sincerely declare that I am the (degree of relationship) and next or one of the next of kin of (name of deceased) and that I am entitled to take out administration to his estate and to receive the sum of $ directed to be paid to him by the order dated the .
 
-(if the same as the cause, state as above).
+And I further declare that the total value of the assets of the deceased including the above sum does not exceed $5,000, and I certify that the death-bed and funeral expenses of the deceased have been paid; and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance, (Cap. 11).
 
-I (name and address of applicant) solemnly and sincerely declare that I am the (degree of relationship) and next or one of the next of kin of (name of deceased) and that I am entitled to take out administration to his estate and to receive the sum of $ directed to be paid to him by the order dated the 19 .
+(Signature of applicant) Declared at
 
-And I further declare that the total value of the assets of the deceased including the above sum does not exceed $5,000, and I certify that the death-bed and funeral expenses of the deceased have been paid; and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance, Chapter 11.
+Before me this day of . (Signature)
 
-(Signature of applicant)
+Person authorized by law to take and receive the declaration under the Oaths and Declarations Ordinance (Cap. 11)
 
-Declared at
-
-Before me this day of 19 .
-
-(Signature)
-
-Notary public,
-
-or other authorized officer.
-
-(47 of 1997 s. 10)
+(47 of 1997 s. 10; L.N. 152 of 2015)
