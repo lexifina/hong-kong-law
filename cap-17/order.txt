@@ -15,6 +15,7 @@ s-008A.md
 s-008B.md
 s-009.md
 s-010.md
+s-010AA.md
 s-010A.md
 s-011.md
 s-011AA.md
