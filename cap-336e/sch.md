@@ -1,56 +1,86 @@
 # SCHEDULE
 
-FORM 1 | [rule 3(3)]
+Form 1 | [rule 3(3)]
 
-Receipt IN THE DISTRICT COURT OF HONG KONG
+Receipt In the District Court of
 
-(Title of cause or matter. No. of 19 ).
+the Hong Kong Special Administrative Region
 
-Ledger account
+(Title of cause or matter. No. of ).
 
-(if the same as the cause, state as above).
+Received from the following securities (here insert particulars) or a packet marked
 
-Received from the sum of
-
-[or the following securities or a packet marked purporting tocontain (here insert list of contents), or the following movable property (here insert particulars)].
+purporting to contain (here insert list of contents), or the following movable property (here insert particulars).
 
 (Signature)
 
 Registrar.
 
-Dated this day of 19 .
+Dated this day of .
+
+(L.N. 149 of 2015)
 
 _
 
-FORM 2 | [rule 6(4)]
+Form 1A | [rule 3(4)]
 
-Authority to company to register transfer IN THE DISTRICT COURT OF HONG KONG
+Receipt In the District Court of
 
-(Title of cause or matter. No. of 19 ).
+the Hong Kong Special Administrative Region
 
-Ledger account
+(Title of cause or matter. No. of )
 
-(if the same as the cause, state as above).
+Receipt no. Amount received
 
-To , Limited,Hong Kong.
+Date of receipt
 
-Please register transfer of shares Nos.
+Action no.
 
-from to the Registrar of the District Court.
+Date of order (if applicable)
+
+Payer
+
+Purposes of payment
+
+Payment code | Payment method | Amount received
+
+(L.N. 149 of 2015)
+
+_
+
+Form 2 | [rule 6(4)]
+
+Authority to company or corporation to register transfer of securities In the District Court of
+
+the Hong Kong Special Administrative Region
+
+(Title of cause or matter. No. of ).
+
+To , Limited,
+
+Hong Kong.
+
+Please register transfer of securities Nos.
+
+of (name of company or corporation) from
+
+to the Registrar.
 
 (Signature)
 
 Registrar.
 
-Dated this day of 19 .
+Dated this day of .
+
+(L.N. 149 of 2015)
 
 _
 
-FORM 3 | [rule 6(5)]
+Form 3 | [rule 6(5)]
 
-Certificate of registration of shares
+Certificate of registration of securities
 
-The above-mentioned shares have this day been transferred to the Registrar of the District Court as authorized.
+The securities Nos. of (name of company or corporation) have this day been transferred to the Registrar as authorized.
 
 (Signature)
 
@@ -58,86 +88,92 @@ Secretary of
 
 , Ltd.
 
-Dated this day of 19 .
+Dated this day of .
+
+(L.N. 149 of 2015)
 
 _
 
-FORM 4 | [rule 9]
+Form 4 | [rule 9]
 
-Certificate of ascertained sums IN THE DISTRICT COURT OF HONG KONG
+Certificate of ascertained sums In the District Court of
 
-(Title of cause or matter. No. of 19 ).
+the Hong Kong Special Administrative Region
 
-Ledger account
+(Title of cause or matter. No. of ).
 
-(if the same as the cause, state as above).
+I hereby certify that under order dated , the sums stated in the schedule subjoined hereto amounting in the whole to $
 
-I hereby certify that under order dated 19 , the sums stated in the schedule subjoined hereto amounting in the whole to $ have been ascertained to be the sums payable under the said order to the persons respectively named in respect of (state in what character paid).
+have been ascertained to be the sums payable under the said order to the persons respectively named in respect of (state purpose of payment).
 
-Dated this day of 19 .
+Dated this day of .
 
 (Signature)
 
 Registrar.
 
-SCHEDULE
+Schedule
 
 Name | Address (if ascertained) | Amount to be paid
 
+(L.N. 149 of 2015)
+
 _
 
-FORM 5 | [rule 10]
+Form 5 | [rule 10]
 
-Certificate of taxed costs IN THE DISTRICT COURT OF HONG KONG
+Certificate of taxed costs In the District Court of
 
-(Title of cause or matter. No. of 19 ).
+the Hong Kong Special Administrative Region
 
-Ledger account
+(Title of cause or matter. No. of )
 
-(if the same as the cause, state as above).
+I certify that I have taxed the bill of costs of (name of party) against (name of party) on (date of taxation) pursuant to an order by (name of judge) dated ,, and allow as follows:
 
-In pursuance of an order dated
+(Basis of costs)
 
-19 , I have been attended by the solicitors for and I certify that I have taxed the costs specified in the schedule subjoined hereto directed to be taxed by the order at the sums respectively stated in the schedule, which sums with the fees of taxation specified amount to the total sum of .
+Solicitors’ profit costs | $
 
-Dated this day of 19 .
+Disbursements | $
+
+Costs of taxation | $
+
+Taxing fees | $
+
+Allowed at | $
+
+The above taxed costs and fees are payable to (name of payee) of (address of payee) out of the funds in court.
 
 (Signature)
 
-Registrar.
+Registrar
 
-SCHEDULE
+Dated this day of ,.
 
-Cost of | Payable to | Amount of taxed costs and fees
-
-Address | Name
+(L.N. 149 of 2015)
 
 _
 
-FORM 6 | [rule 11(2)]
+Form 6 | [rule 11(2)]
 
-Declaration IN THE DISTRICT COURT OF HONG KONG
+Declaration In the District Court of
 
-(Title of cause or matter. No. of 19 ).
+the Hong Kong Special Administrative Region
 
-Ledger account
+(Title of cause or matter. No. of ).
 
-(if the same as the cause, state as above).
+I (name and address of applicant) solemnly and sincerely declare that I am the (degree of relationship) and next or one of the next of kin of (name of deceased) and that I am entitled to take out administration to his estate and to receive the sum of $ directed to be paid to him by the order dated the .
 
-I (name and address of applicant) solemnly and sincerely declare that I am the (degree of relationship) and next or one of the next of kin of (name of deceased) and that I am entitled to take out administration to his estate and to receive the sum of $ directed to be paid to him by the order dated the 19 .
-
-And I further declare that the total value of the assets of the deceased including the above sum does not exceed $5,000, and I certify that the death-bed and funeral expenses of the deceased have been paid: and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance, Chapter 11.
+And I further declare that the total value of the assets of the deceased including the above sum does not exceed $5,000, and I certify that the death-bed and funeral expenses of the deceased have been paid; and I make this solemn declaration conscientiously believing the same to be true and by virtue of the provisions of the Oaths and Declarations Ordinance (Cap. 11).
 
 (Signature of applicant)
 
 Declared at
 
-Before me this day of 19 .
+Before me this day of .
 
 (Signature)
 
-Notary public,
+Person authorized by law to take and receive the declaration under the Oaths and Declarations Ordinance (Cap. 11)
 
-or other authorized officer.
-
-(47 of 1997 s. 10)
+(47 of 1997 s. 10; L.N. 149 of 2015)
