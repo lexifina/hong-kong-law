@@ -78,6 +78,8 @@ Poisons List
 
     - Acitretin; its salts; its esters
 
+    - Aclidinium; its salts
+
     - Adalimumab
 
     - Adapalene; its salts; its esters
@@ -369,6 +371,8 @@ Poisons List
     - Articaine; its salts
 
     - Asenapine; its salts; its isomers
+
+    - Asunaprevir; its salts
 
     - Atazanavir; its salts
 
@@ -814,6 +818,8 @@ Poisons List
 
     - Dacarbazine
 
+    - Daclatasvir; its salts
+
     - Daclizumab
 
     - Dalteparin; its salts
@@ -1103,6 +1109,8 @@ Poisons List
     - Etryptamine; its salts
 
     - Everolimus; its salts; its esters; their salts
+
+    - Evolocumab
 
     - Exemestane; its salts
 
@@ -1451,6 +1459,8 @@ Poisons List
     - Leflunomide; its salts
 
     - Lenalidomide; its salts
+
+    - Lenvatinib; its salts
 
     - Lepirudin; its salts
 
@@ -2324,6 +2334,8 @@ Poisons List
 
     - Sildenafil; its salts; any compound containing the chemical structure of 5-(2-ethoxyphenyl)-1-methyl-3-propyl-1H-pyrazolo[4,3-d]pyrimidin-7(6H)-one substituted to any degree or without substitution; its salts
 
+    - Siltuximab
+
     - Simvastatin
 
     - Sirolimus; its salts
@@ -2700,7 +2712,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 235 of 2015; L.N. 40 of 2016)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016)
 
     - Division B
 
