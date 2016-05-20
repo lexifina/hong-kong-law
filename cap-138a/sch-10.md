@@ -994,6 +994,8 @@ Poisons List
 
     - Eculizumab
 
+    - Edoxaban; its salts
+
     - Efalizumab
 
     - Efavirenz; its salts
@@ -1850,6 +1852,8 @@ Poisons List
 
     - Olanzapine; its salts
 
+    - Olaparib; its salts
+
     - Olmesartan; its salts; its esters; their salts
 
     - Olodaterol; its salts
@@ -2430,7 +2434,7 @@ Poisons List
 
     - Teniposide
 
-    - Tenofovir; its salts; its esters; their salts
+    - Tenofovir; its salts; its derivatives; their salts
 
     - Tenoxicam
 
@@ -2547,6 +2551,8 @@ Poisons List
     - Trabectedin; its salts; its esters
 
     - Tramadol; its salts
+
+    - Trametinib; its salts
 
     - Trandolapril; its salts
 
@@ -2712,7 +2718,7 @@ Poisons List
 
     - Zoxazolamine; its salts
 
-    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016)
+    - (L.N. 34 of 2015; L.N. 67 of 2015; L.N. 100 of 2015; L.N. 193 of 2015; L.N. 235 of 2015; L.N. 40 of 2016; L.N. 51 of 2016; L.N. 83 of 2016)
 
     - Division B
 
