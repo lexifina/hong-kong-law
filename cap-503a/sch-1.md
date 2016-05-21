@@ -1,8 +1,12 @@
-# SCHEDULE
+# Schedule 1
+
+(L.N. 38 of 2016)
 
 [s. 2]
 
-AGREEMENT BETWEEN THE GOVERNMENT OF THE KINGDOM OF THE NETHERLANDS AND THE GOVERNMENT OF HONG KONG FOR THE SURRENDER OF FUGITIVE OFFENDERS
+AGREEMENT BETWEEN THE GOVERNMENT OF THE KINGDOM OF THE NETHERLANDS AND THE GOVERNMENT OF HONG KONGFOR THE SURRENDER OF FUGITIVE OFFENDERS#
+
+(L.N. 38 of 2016)
 
 The Government of the Kingdom of the Netherlands and the Government of Hong Kong, having been duly authorised to conclude this Agreement by the sovereign government which is responsible for its foreign affairs,
 
@@ -233,3 +237,7 @@ ARTICLE 18
 In witness whereof the undersigned, being duly authorised by their respective Governments, have signed this Agreement.
 
 Done at Hong Kong this second day of November One thousand nine hundred and ninety two in the Chinese, Dutch and English languages, each text being equally authentic.
+
+Note:#The Agreement between the Government of the Kingdom of the Netherlands and the Government of Hong Kong for the Surrender of Fugitive Offenders was done in the Chinese, English and Dutch languages, each text being equally authentic. The Dutch text of the Agreement is available for inspection at the Security Bureau of the Government of the HKSAR.
+
+(L.N. 38 of 2016)
