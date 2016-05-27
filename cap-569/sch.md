@@ -374,7 +374,7 @@ Election Committee
 
   - (h) the Vocational Training Council; (Amended 10 of 2006 s. 32)
 
-  - (i) the Council of The Hong Kong Institute of Education;
+  - (i) the Council of The Education University of Hong Kong; (Amended 6 of 2016 s. 2)
 
   - (j) the Council of the Hong Kong Baptist University;
 
@@ -410,9 +410,9 @@ Election Committee
 
   - (c) industrial training centres established under the Industrial Training (Clothing Industry) Ordinance (Cap. 318);
 
-  - (d) Hong Chi Association-Hong Chi Pinehill Integrated Vocational Training Centre; (Replaced 18 of 2011 s. 52)
+  - (d) Hong Chi Association—Hong Chi Pinehill Integrated Vocational Training Centre; (Replaced 18 of 2011 s. 52)
 
-  - (e) Caritas Lok Mo Integrated Vocational Training Centre of Caritas-Hong Kong incorporated under the Caritas-Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
+  - (e) Caritas Lok Mo Integrated Vocational Training Centre of Caritas-Hong Kong incorporated under the Caritas—Hong Kong Incorporation Ordinance (Cap. 1092). (Replaced 25 of 2003 s. 56. Amended 10 of 2006 s. 32)
 
   - (5) Registered managers of schools registered under the Education Ordinance (Cap. 279).
 
@@ -660,669 +660,667 @@ Election Committee
 
 - Part 4 Subsector Election
 
-  - Division 1—Preliminary
+  - Division 1 Preliminary
 
-    - 11. Interpretation
+  - 11. Interpretation
 
-      - (1) In this Part, unless the context otherwise requires—
+    - (1) In this Part, unless the context otherwise requires—
 
-        - authorized representative (獲授權代表), in relation to a corporate voter, means the person authorized by the corporate voter to cast its vote at a subsector election;
+      - authorized representative (獲授權代表), in relation to a corporate voter, means the person authorized by the corporate voter to cast its vote at a subsector election;
 
-        - corporate voter (團體投票人) means a body that is a voter for a subsector;
+      - corporate voter (團體投票人) means a body that is a voter for a subsector;
 
-        - District Council ordinary election (區議會一般選舉) means elections to elect persons to fill the vacancies caused by the expiration of the term of office of the elected members of District Councils; (Added 33 of 2002 s. 11)
+      - District Council ordinary election (區議會一般選舉) means elections to elect persons to fill the vacancies caused by the expiration of the term of office of the elected members of District Councils; (Added 33 of 2002 s. 11)
 
-        - existing functional constituencies final register (現有功能界別正式選民登記冊) means the final register of electors for functional constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
+      - existing functional constituencies final register (現有功能界別正式選民登記冊) means the final register of electors for functional constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
 
-        - existing geographical constituencies final register (現有地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
+      - existing geographical constituencies final register (現有地方選區正式選民登記冊) means the final register of electors for geographical constituencies compiled under section 32(1) or (1A) of the Legislative Council Ordinance (Cap. 542) that is in effect on the date of registration of voters for the subsectors; (Amended 33 of 2002 s. 11)
 
-        - existing subsector final register (現有界別分組正式投票人登記冊), in relation to—
+      - existing subsector final register (現有界別分組正式投票人登記冊), in relation to—
 
-          - (a) the compilation of a subsector provisional register to be compiled and published not later than 30 November 2001, means the subsector final register that was compiled and published under section 10 of Schedule 2 to the Legislative Council Ordinance (Cap. 542) in force immediately before the commencement of section 73 of this Ordinance;
+        - (a) the compilation of a subsector provisional register to be compiled and published not later than 30 November 2001, means the subsector final register that was compiled and published under section 10 of Schedule 2 to the Legislative Council Ordinance (Cap. 542) in force immediately before the commencement of section 73 of this Ordinance;
 
-          - (b) the compilation of any other subsector provisional register, means the subsector final register that is in effect under section 15 at the time the subsector provisional register is compiled;
+        - (b) the compilation of any other subsector provisional register, means the subsector final register that is in effect under section 15 at the time the subsector provisional register is compiled;
 
-        - subsector (界別分組) means a subsector referred to in section 2(7)(b);
+      - subsector (界別分組) means a subsector referred to in section 2(7)(b);
 
-        - subsector final register (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b) or (1A)(b); (Amended 33 of 2002 s. 11)
+      - subsector final register (界別分組正式投票人登記冊) means the final register to be compiled and published under section 14(1)(b) or (1A)(b); (Amended 33 of 2002 s. 11)
 
-        - subsector provisional register (界別分組臨時投票人登記冊) means the provisional register to be compiled and published under section 14(1)(a) or (1A)(a); (Amended 33 of 2002 s. 11)
+      - subsector provisional register (界別分組臨時投票人登記冊) means the provisional register to be compiled and published under section 14(1)(a) or (1A)(a); (Amended 33 of 2002 s. 11)
 
-        - voter (投票人) means a person whose name is registered in a subsector final register and who is eligible to be so registered and is not disqualified from being so registered or from voting at a subsector election.
+      - voter (投票人) means a person whose name is registered in a subsector final register and who is eligible to be so registered and is not disqualified from being so registered or from voting at a subsector election.
 
-      - (2) The results of subsector ordinary elections that are declared on different dates are, for the purposes of this Schedule, taken to have been declared on the later or latest of those dates.
+    - (2) The results of subsector ordinary elections that are declared on different dates are, for the purposes of this Schedule, taken to have been declared on the later or latest of those dates.
 
-  - Division 2—Registration of voters
+  - Division 2 Registration of voters
 
-    - 12. Who is eligible to be registered as a voter
+  - 12. Who is eligible to be registered as a voter
 
-      - (1) Subject to this section—
+    - (1) Subject to this section—
 
-        - (a) a person is eligible to be registered as a voter for a subsector with the same name as a functional constituency (other than the education subsector, the social welfare subsector and the tourism subsector) if—
+      - (a) a person is eligible to be registered as a voter for a subsector with the same name as a functional constituency (other than the education subsector, the social welfare subsector and the tourism subsector) if—
 
-          - (i) the person is eligible to be registered as an elector for that functional constituency and has made an application to be so registered; or
+        - (i) the person is eligible to be registered as an elector for that functional constituency and has made an application to be so registered; or
 
-          - (ii) the person—
+        - (ii) the person—
 
-            - (A) is registered for that functional constituency in the existing functional
+          - (A) is registered for that functional constituency in the existing functional constituencies final register; and
 
-          - constituencies final register; and
+          - (B) is eligible to be, and is not disqualified from being, registered as an elector for that functional constituency; and
 
-            - (B) is eligible to be, and is not disqualified from being, registered as an elector for that functional constituency; and
+      - (b) a person is eligible to be registered as a voter for a subsector specified in Table 5 in section 2 (other than the higher education and education subsectors, the social welfare subsector and the tourism and hotel subsectors) if—
 
-        - (b) a person is eligible to be registered as a voter for a subsector specified in Table 5 in section 2 (other than the higher education and education subsectors, the social welfare subsector and the tourism and hotel subsectors) if—
+        - (i) the person—
 
-          - (i) the person—
+          - (A) is a person specified opposite to that subsector in column 3 of Table 5 in section 2; and
 
-            - (A) is a person specified opposite to that subsector in column 3 of Table 5 in section 2; and
+          - (B) where the person is a natural person, is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; or
 
-            - (B) where the person is a natural person, is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered, or is registered in the existing geographical constituencies final register and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency; or
+        - (ii) the person—
 
-          - (ii) the person—
+          - (A) is registered for that subsector in the existing subsector final register; and
 
-            - (A) is registered for that subsector in the existing subsector final register; and
+          - (B) is eligible to be, and is not disqualified from being, registered as a voter for that subsector.
 
-            - (B) is eligible to be, and is not disqualified from being, registered as a voter for that subsector.
+    - (2) A person is eligible to be registered as a voter for the sports, performing arts, culture and publication subsector subject to the following conditions—
 
-      - (2) A person is eligible to be registered as a voter for the sports, performing arts, culture and publication subsector subject to the following conditions—
+      - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of, or Part 1 of Schedule 1B or item 40, 41, 43, 50, 54, 59 or 65 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the sports sub-subsector; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
 
-        - (a) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(a) or (b) of, or Part 1 of Schedule 1B or item 40, 41, 43, 50, 54, 59 or 65 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the sports sub-subsector; (Amended 25 of 2003 s. 56; 7 of 2008 s. 10)
+      - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i), (ka) or (kb) of, or item 1, 2, 3, 5, 9, 16, 17, 23, 24, 34, 39, 42, 45, 52, 55, 56, 57, 63, 64 or 66 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the performing arts sub-subsector; (Amended 25 of 2003 s. 56; 14 of 2015 s. 16)
 
-        - (b) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(i), (ka) or (kb) of, or item 1, 2, 3, 5, 9, 16, 17, 23, 24, 34, 39, 42, 45, 52, 55, 56, 57, 63, 64 or 66 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the performing arts sub-subsector; (Amended 25 of 2003 s. 56; 14 of 2015 s. 16)
+      - (c) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(d) or (e) of, or Part 2 of Schedule 1B or item 6, 7, 10, 11, 13, 14, 19, 20, 22, 26, 27, 31, 33, 35, 37, 38, 48, 53, 58, 61 or 62 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the culture sub-subsector; and
 
-        - (c) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(d) or (e) of, or Part 2 of Schedule 1B or item 6, 7, 10, 11, 13, 14, 19, 20, 22, 26, 27, 31, 33, 35, 37, 38, 48, 53, 58, 61 or 62 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the culture sub-subsector; and
+      - (d) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(g), (h), (j) or (k) of, or item 15, 21, 28, 32, 36 or 51 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the publication sub-subsector. (Amended 7 of 2008 s. 10)
 
-        - (d) a person who is registered, or applies to be registered, as an elector for the sports, performing arts, culture and publication functional constituency by virtue of being a person described in section 20V(1)(g), (h), (j) or (k) of, or item 15, 21, 28, 32, 36 or 51 of Part 3 of Schedule 1B to, the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the publication sub-subsector. (Amended 7 of 2008 s. 10)
+    - (3) A person is eligible to be registered as a voter for the higher education subsector if the person—
 
-      - (3) A person is eligible to be registered as a voter for the higher education subsector if the person—
+      - (a) is a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the education functional constituency; or
 
-        - (a) is a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the education functional constituency; or
+      - (b) is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542). (Amended 25 of 2003 s. 56)
 
-        - (b) is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542). (Amended 25 of 2003 s. 56)
+    - (4) A person is eligible to be registered as a voter for the education subsector if—
 
-      - (4) A person is eligible to be registered as a voter for the education subsector if—
+      - (a) the person is a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the education functional constituency; or
 
-        - (a) the person is a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the education functional constituency; or
+      - (b) the person is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542).
 
-        - (b) the person is registered for the education functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542).
+    - (5) A person is eligible to be registered as a voter for the social welfare subsector if—
 
-      - (5) A person is eligible to be registered as a voter for the social welfare subsector if—
+      - (a) the person is a person described in section 20M of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the social welfare functional constituency;
 
-        - (a) the person is a person described in section 20M of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the social welfare functional constituency;
+      - (b) the person is registered for the social welfare functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20M of the Legislative Council Ordinance (Cap. 542);
 
-        - (b) the person is registered for the social welfare functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20M of the Legislative Council Ordinance (Cap. 542);
+      - (c) the person is a person described in paragraph (2), (3) or (4) of item 8 of Table 5 in section 2 and has made an application to be registered for the social welfare subsector; or
 
-        - (c) the person is a person described in paragraph (2), (3) or (4) of item 8 of Table 5 in section 2 and has made an application to be registered for the social welfare subsector; or
+      - (d) the person—
 
-        - (d) the person—
+        - (i) is registered for the social welfare subsector in the existing subsector final register by virtue of being a person described in paragraph (2), (3) or (4) of item 8 of Table 5 in section 2; and
 
-          - (i) is registered for the social welfare subsector in the existing subsector final register by virtue of being a person described in paragraph (2), (3) or (4) of item 8 of Table 5 in section 2; and
+        - (ii) is not disqualified from being registered as a voter for that subsector.
 
-          - (ii) is not disqualified from being registered as a voter for that subsector.
+    - (6) A person is eligible to be registered as a voter for the tourism subsector if the person—
 
-      - (6) A person is eligible to be registered as a voter for the tourism subsector if the person—
+      - (a) is a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the tourism functional constituency; or
 
-        - (a) is a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the tourism functional constituency; or
+      - (b) is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542). (Amended 25 of 2003 s. 56)
 
-        - (b) is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542). (Amended 25 of 2003 s. 56)
+    - (7) A person is eligible to be registered as a voter for the hotel subsector if—
 
-      - (7) A person is eligible to be registered as a voter for the hotel subsector if—
+      - (a) the person is a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the tourism functional constituency; or
 
-        - (a) the person is a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542) and has made an application to be registered for the tourism functional constituency; or
+      - (b) the person is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542).
 
-        - (b) the person is registered for the tourism functional constituency in the existing functional constituencies final register, and is eligible to be registered as an elector for that functional constituency by virtue of being a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542).
+    - (8) A person is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and is eligible to be registered as an elector for the District Council (first) functional constituency. (Amended 1 of 2011 s. 11)
 
-      - (8) A person is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and is eligible to be registered as an elector for the District Council (first) functional constituency. (Amended 1 of 2011 s. 11)
+    - (9) A person is eligible to be registered as a voter for the New Territories District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and is eligible to be registered as an elector for the District Council (first) functional constituency. (Amended 1 of 2011 s. 11)
 
-      - (9) A person is eligible to be registered as a voter for the New Territories District Councils subsector if the person is a person described opposite to that subsector in column 3 of Table 4 in section 2 and is eligible to be registered as an elector for the District Council (first) functional constituency. (Amended 1 of 2011 s. 11)
+    - (10) Subject to this section—
 
-      - (10) Subject to this section—
+      - (a) a person who is registered or applies to be registered as an elector for a functional constituency with the same name as a subsector, cannot, subject to paragraph (b), be registered only as an elector for that functional constituency and not as a voter for the subsector;
 
-        - (a) a person who is registered or applies to be registered as an elector for a functional constituency with the same name as a subsector, cannot, subject to paragraph (b), be registered only as an elector for that functional constituency and not as a voter for the subsector;
+      - (b) a person who is registered or applies to be registered as a voter for a subsector with the same name as a functional constituency, cannot be registered only as a voter for that subsector and not as an elector for the functional constituency;
 
-        - (b) a person who is registered or applies to be registered as a voter for a subsector with the same name as a functional constituency, cannot be registered only as a voter for that subsector and not as an elector for the functional constituency;
+      - (c) a person who is registered, or has made an application to be registered, as an elector for a functional constituency with the same name as a subsector may be registered only as a voter for that subsector (whether or not the person is eligible to be registered as a voter for any other subsector), except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4, or item 1, 4, 7 or 8 (by virtue of subsection (5)(c) or (d)) of Table 5, in section 2, the person may choose to be registered as a voter in the first-mentioned subsector or in that other subsector; and
 
-        - (c) a person who is registered, or has made an application to be registered, as an elector for a functional constituency with the same name as a subsector may be registered only as a voter for that subsector (whether or not the person is eligible to be registered as a voter for any other subsector), except that, if the person is eligible to be registered as a voter for any other subsector specified in item 3 of Table 4, or item 1, 4, 7 or 8 (by virtue of subsection (5)(c) or (d)) of Table 5, in section 2, the person may choose to be registered as a voter in the first-mentioned subsector or in that other subsector; and
+      - (d) a person who ceases to be eligible to be registered as an elector for a functional constituency with the same name as a subsector ceases to be eligible to be registered as a voter for that subsector, but may, subject to paragraph (a) and subsection (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter.
 
-        - (d) a person who ceases to be eligible to be registered as an elector for a functional constituency with the same name as a subsector ceases to be eligible to be registered as a voter for that subsector, but may, subject to paragraph (a) and subsection (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter.
+    - (11) Subject to this section—
 
-      - (11) Subject to this section—
+      - (a) a person who is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector may be registered only as a voter for that subsector; (Replaced 1 of 2011 s. 11)
 
-        - (a) a person who is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector may be registered only as a voter for that subsector; (Replaced 1 of 2011 s. 11)
+      - (b) a person who is eligible to be registered as a voter for the New Territories District Councils subsector may be registered only as a voter for that subsector; (Replaced 1 of 2011 s. 11)
 
-        - (b) a person who is eligible to be registered as a voter for the New Territories District Councils subsector may be registered only as a voter for that subsector; (Replaced 1 of 2011 s. 11)
+      - (c) a person who—
 
-        - (c) a person who—
+        - (i) is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector; and
 
-          - (i) is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector; and
-
-          - (ii) would, but for this paragraph, be eligible to be registered as a voter for any subsector other than the 2 subsectors referred to in subparagraph (i),
+        - (ii) would, but for this paragraph, be eligible to be registered as a voter for any subsector other than the 2 subsectors referred to in subparagraph (i),
 
       - may be registered only as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector, as the case may be; (Replaced 1 of 2011 s. 11)
 
-        - (d) a person who ceases to be eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector may, subject to subsections (10)(a) and (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter; (Replaced 1 of 2011 s. 11)
+      - (d) a person who ceases to be eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector may, subject to subsections (10)(a) and (12), apply to be registered as a voter for any other subsector for which the person is eligible to be registered as a voter; (Replaced 1 of 2011 s. 11)
 
-        - (e) a person who—
+      - (e) a person who—
 
-          - (i) is a person described opposite to the Hong Kong and Kowloon District Councils subsector in column 3 of Table 4 in section 2; and
+        - (i) is a person described opposite to the Hong Kong and Kowloon District Councils subsector in column 3 of Table 4 in section 2; and
 
-          - (ii) is eligible to be registered as an elector for the District Council (first) functional constituency,
+        - (ii) is eligible to be registered as an elector for the District Council (first) functional constituency,
 
-        - cannot, subject to paragraph (g), be registered only as an elector for the District Council (first) functional constituency and not as a voter for the Hong Kong and Kowloon District Councils subsector; (Replaced 1 of 2011 s. 11)
+      - cannot, subject to paragraph (g), be registered only as an elector for the District Council (first) functional constituency and not as a voter for the Hong Kong and Kowloon District Councils subsector; (Replaced 1 of 2011 s. 11)
 
-        - (f) a person who—
+      - (f) a person who—
 
-          - (i) is a person described opposite to the New Territories District Councils subsector in column 3 of Table 4 in section 2; and
+        - (i) is a person described opposite to the New Territories District Councils subsector in column 3 of Table 4 in section 2; and
 
-          - (ii) is eligible to be registered as an elector for the District Council (first) functional constituency,
+        - (ii) is eligible to be registered as an elector for the District Council (first) functional constituency,
 
-        - cannot, subject to paragraph (h), be registered only as an elector for the District Council (first) functional constituency and not as a voter for the New Territories District Councils subsector; (Replaced 1 of 2011 s. 11)
+      - cannot, subject to paragraph (h), be registered only as an elector for the District Council (first) functional constituency and not as a voter for the New Territories District Councils subsector; (Replaced 1 of 2011 s. 11)
 
-        - (g) a person who is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council (first) functional constituency; and (Added 1 of 2011 s. 11)
+      - (g) a person who is eligible to be registered as a voter for the Hong Kong and Kowloon District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council (first) functional constituency; and (Added 1 of 2011 s. 11)
 
-        - (h) a person who is eligible to be registered as a voter for the New Territories District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council (first) functional constituency. (Added 1 of 2011 s. 11)
+      - (h) a person who is eligible to be registered as a voter for the New Territories District Councils subsector cannot be registered only as a voter for that subsector and not as an elector for the District Council (first) functional constituency. (Added 1 of 2011 s. 11)
 
-      - (12) A person who would, but for this subsection, be eligible to be registered as a voter for 2 or more subsectors (other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector) may, subject to subsection (10), be registered as a voter for only one of those subsectors of the person’s choice. (Amended 1 of 2011 s. 11)
+    - (12) A person who would, but for this subsection, be eligible to be registered as a voter for 2 or more subsectors (other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector) may, subject to subsection (10), be registered as a voter for only one of those subsectors of the person’s choice. (Amended 1 of 2011 s. 11)
 
-      - (13) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the higher education subsector. (Amended 25 of 2003 s. 56)
+    - (13) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(a), (aa) or (b) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the higher education subsector. (Amended 25 of 2003 s. 56)
 
-      - (14) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the education subsector.
+    - (14) A person who is registered, or applies to be registered, as an elector for the education functional constituency by virtue of being a person described in section 20E(c), (d), (e), (f) or (g) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the education subsector.
 
-      - (15) A person who is eligible to be registered as a voter for both the education subsector and the higher education subsector, may only be registered as a voter for the higher education subsector.
+    - (15) A person who is eligible to be registered as a voter for both the education subsector and the higher education subsector, may only be registered as a voter for the higher education subsector.
 
-      - (16) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the tourism subsector. (Amended 25 of 2003 s. 56)
+    - (16) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(aa), (b) or (c) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the tourism subsector. (Amended 25 of 2003 s. 56)
 
-      - (17) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the hotel subsector.
+    - (17) A person who is registered, or applies to be registered, as an elector for the tourism functional constituency by virtue of being a person described in section 20O(d) or (e) of the Legislative Council Ordinance (Cap. 542) may be registered only as a voter for the hotel subsector.
 
-      - (18) A person who is eligible to be registered as a voter for both the tourism subsector and the hotel subsector, may only be registered as a voter for the hotel subsector.
+    - (18) A person who is eligible to be registered as a voter for both the tourism subsector and the hotel subsector, may only be registered as a voter for the hotel subsector.
 
-      - (19) A person described in column 3 of Table 4 in section 2 in relation to the subsector specified in item 3 of that Table, who—
+    - (19) A person described in column 3 of Table 4 in section 2 in relation to the subsector specified in item 3 of that Table, who—
 
-        - (a) is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered; or
+      - (a) is eligible to be registered as an elector under Part 5 of the Legislative Council Ordinance (Cap. 542) for a geographical constituency and has made an application to be so registered; or
 
-        - (b) is registered in the existing geographical constituencies final register, and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency,
+      - (b) is registered in the existing geographical constituencies final register, and is eligible to be, and is not disqualified from being, registered as an elector for a geographical constituency,
 
-      - is eligible to be registered as a voter in that subsector.
+    - is eligible to be registered as a voter in that subsector.
 
-      - (20) A member of a body specified in item 1, 2, 3, 7 or 8 of column 3 of Table 5 in section 2 is not eligible to be registered as a voter for the relevant subsector, unless immediately before that member applies for registration as a voter—
+    - (20) A member of a body specified in item 1, 2, 3, 7 or 8 of column 3 of Table 5 in section 2 is not eligible to be registered as a voter for the relevant subsector, unless immediately before that member applies for registration as a voter—
 
-        - (a) if the member is a corporate member of a body—
+      - (a) if the member is a corporate member of a body—
 
-          - (i) that member has been a member of that body for at least 12 months; and
+        - (i) that member has been a member of that body for at least 12 months; and
 
-          - (ii) that member has been operating for at least 12 months; or
+        - (ii) that member has been operating for at least 12 months; or
 
-        - (b) if the member is a natural person, the person has been a member of that body for at least 12 months.
+      - (b) if the member is a natural person, the person has been a member of that body for at least 12 months.
 
-      - (21) A consular post to which any privilege or immunity is accorded under the Consular Relations Ordinance (Cap. 557) is not eligible to be registered as a voter for any subsector. (Added 1 of 2011 s. 11)
+    - (21) A consular post to which any privilege or immunity is accorded under the Consular Relations Ordinance (Cap. 557) is not eligible to be registered as a voter for any subsector. (Added 1 of 2011 s. 11)
 
-      - (22) An organization to which section 2 of the International Organizations and Diplomatic Privileges Ordinance (Cap. 190) applies or an international organization defined in section 2 of the International Organizations (Privileges and Immunities) Ordinance (Cap. 558) is not eligible to be registered as a voter for any subsector. (Added 1 of 2011 s. 11)
+    - (22) An organization to which section 2 of the International Organizations and Diplomatic Privileges Ordinance (Cap. 190) applies or an international organization defined in section 2 of the International Organizations (Privileges and Immunities) Ordinance (Cap. 558) is not eligible to be registered as a voter for any subsector. (Added 1 of 2011 s. 11)
 
-    - 13. Corporate voter to have authorized representative
+  - 13. Corporate voter to have authorized representative
 
-      - (1) A corporate voter is required to select one eligible person to be its authorized representative for the purpose of casting its vote at a subsector election.
+    - (1) A corporate voter is required to select one eligible person to be its authorized representative for the purpose of casting its vote at a subsector election.
 
-      - (2) A person is eligible to be an authorized representative of a corporate voter for a subsector only if the person—
+    - (2) A person is eligible to be an authorized representative of a corporate voter for a subsector only if the person—
 
-        - (a) is—
+      - (a) is—
 
-          - (i) registered as an elector for a geographical constituency; or
+        - (i) registered as an elector for a geographical constituency; or
 
-          - (ii) eligible to be registered as an elector for a geographical constituency and has applied to be so registered;
+        - (ii) eligible to be registered as an elector for a geographical constituency and has applied to be so registered;
 
-        - (b) has a substantial connection with the corporate voter;
+      - (b) has a substantial connection with the corporate voter;
 
-        - (c) is not registered or has not made an application to be registered as a voter for the subsector; and
+      - (c) is not registered or has not made an application to be registered as a voter for the subsector; and
 
-        - (d) is not disqualified from registration or voting under section 31 or 53 of the Legislative Council Ordinance (Cap. 542).
+      - (d) is not disqualified from registration or voting under section 31 or 53 of the Legislative Council Ordinance (Cap. 542).
 
-      - (3) A person who is an authorized representative of a corporate voter is not eligible to be selected as the authorized representative of another corporate voter.
+    - (3) A person who is an authorized representative of a corporate voter is not eligible to be selected as the authorized representative of another corporate voter.
 
-      - (4) A person cannot act as an authorized representative of a corporate voter unless the person is registered as such a representative by the Electoral Registration Officer.
+    - (4) A person cannot act as an authorized representative of a corporate voter unless the person is registered as such a representative by the Electoral Registration Officer.
 
-      - (5) A corporate voter may from time to time replace its authorized representative, but only in the circumstances and manner prescribed by the EAC Regulations. The replacement does not have effect until it is registered by the Electoral Registration Officer.
+    - (5) A corporate voter may from time to time replace its authorized representative, but only in the circumstances and manner prescribed by the EAC Regulations. The replacement does not have effect until it is registered by the Electoral Registration Officer.
 
-      - (6) An application may be made to the Electoral Registration Officer for the purposes of subsection (1) or (5) in accordance with the EAC Regulations by the corporate voter concerned. The application shall be in writing and be in a form specified under section 45.
+    - (6) An application may be made to the Electoral Registration Officer for the purposes of subsection (1) or (5) in accordance with the EAC Regulations by the corporate voter concerned. The application shall be in writing and be in a form specified under section 45.
 
-      - (7) The Electoral Registration Officer may refuse an application made under subsection (6) only on the ground that the authorized representative specified in the application is ineligible to be, or is disqualified from being, such a representative.
+    - (7) The Electoral Registration Officer may refuse an application made under subsection (6) only on the ground that the authorized representative specified in the application is ineligible to be, or is disqualified from being, such a representative.
 
-    - 14. Electoral Registration Officer to compile and publish a register of voters
+  - 14. Electoral Registration Officer to compile and publish a register of voters
 
-      - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
+    - (1) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
 
-        - (a) not later than 1 June in each year other than a year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and (Amended 12 of 2014 s. 171)
+      - (a) not later than 1 June in each year other than a year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and (Amended 12 of 2014 s. 171)
 
-        - (b) not later than 25 July in each year other than a year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Amended 33 of 2002 s. 11)
+      - (b) not later than 25 July in each year other than a year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Amended 33 of 2002 s. 11)
 
-      - (1A) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
+    - (1A) The Electoral Registration Officer shall compile and publish in accordance with the EAC Regulations—
 
-        - (a) not later than 1 August in each year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and (Amended 12 of 2014 s. 171)
+      - (a) not later than 1 August in each year in which a District Council ordinary election is to be held, a provisional register of voters for subsectors; and (Amended 12 of 2014 s. 171)
 
-        - (b) not later than 25 September in each year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Added 33 of 2002 s. 11)
+      - (b) not later than 25 September in each year in which a District Council ordinary election is to be held, a final register of voters for subsectors. (Added 33 of 2002 s. 11)
 
-      - (1B) Despite subsections (1) and (1A), as soon as practicable after the District Council ordinary election in 2011, the Electoral Registration Officer must, in accordance with the EAC Regulations—
+    - (1B) Despite subsections (1) and (1A), as soon as practicable after the District Council ordinary election in 2011, the Electoral Registration Officer must, in accordance with the EAC Regulations—
 
-        - (a) compile the subsector final register for the Hong Kong and Kowloon District Councils subsector by—
+      - (a) compile the subsector final register for the Hong Kong and Kowloon District Councils subsector by—
 
-          - (i) striking out the names and other relevant particulars of all voters from the existing subsector final register; and
+        - (i) striking out the names and other relevant particulars of all voters from the existing subsector final register; and
 
-          - (ii) registering in the subsector final register all persons who are elected as members of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance as voters of the subsector;
+        - (ii) registering in the subsector final register all persons who are elected as members of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance as voters of the subsector;
 
-        - (b) compile the subsector final register for the New Territories District Councils subsector by—
+      - (b) compile the subsector final register for the New Territories District Councils subsector by—
 
-          - (i) striking out the names and other relevant particulars of all voters from the existing subsector final register; and
+        - (i) striking out the names and other relevant particulars of all voters from the existing subsector final register; and
 
-          - (ii) registering in the subsector final register all persons who are elected as members of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance as voters of the subsector;
+        - (ii) registering in the subsector final register all persons who are elected as members of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance as voters of the subsector;
 
-        - (c) if the persons referred to in paragraphs (a)(ii) and (b)(ii) are registered as voters in any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector, strike out their names and other relevant particulars from the subsector final register for that subsector to the effect that they are no longer registered as voters for that subsector. (Added 1 of 2011 s. 12)
+      - (c) if the persons referred to in paragraphs (a)(ii) and (b)(ii) are registered as voters in any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector, strike out their names and other relevant particulars from the subsector final register for that subsector to the effect that they are no longer registered as voters for that subsector. (Added 1 of 2011 s. 12)
 
-      - (1C) The Electoral Registration Officer must, as soon as practicable after complying with subsection (1B), publish in accordance with the EAC Regulations the subsector final register in which there is any addition or removal of names and other relevant particulars of voters. (Added 1 of 2011 s. 12)
+    - (1C) The Electoral Registration Officer must, as soon as practicable after complying with subsection (1B), publish in accordance with the EAC Regulations the subsector final register in which there is any addition or removal of names and other relevant particulars of voters. (Added 1 of 2011 s. 12)
 
-      - (2) The Electoral Registration Officer may amend a subsector provisional register or subsector final register so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
+    - (2) The Electoral Registration Officer may amend a subsector provisional register or subsector final register so as to rectify any clerical or printing error or any incorrect name or address of a person who is recorded in the register.
 
-      - (3) A subsector provisional register is to be based on the existing subsector final register. (Amended 10 of 2006 s. 31)
+    - (3) A subsector provisional register is to be based on the existing subsector final register. (Amended 10 of 2006 s. 31)
 
-      - (4) In compiling a subsector provisional register, the Electoral Registration Officer shall—
+    - (4) In compiling a subsector provisional register, the Electoral Registration Officer shall—
 
-        - (a) after scrutinizing the register on which the subsector provisional register is to be based, strike out the names and other relevant particulars of those persons whom the Electoral Registration Officer is satisfied on reasonable grounds as being no longer eligible to have their names included in the subsector final register;
+      - (a) after scrutinizing the register on which the subsector provisional register is to be based, strike out the names and other relevant particulars of those persons whom the Electoral Registration Officer is satisfied on reasonable grounds as being no longer eligible to have their names included in the subsector final register;
 
-        - (b) enter the names and other relevant particulars of those persons on an omissions list; and
+      - (b) enter the names and other relevant particulars of those persons on an omissions list; and
 
-        - (c) add to the register the names and other relevant particulars of those persons who have made applications for registration since the date prescribed for the purposes of this paragraph by the EAC Regulations and who are eligible to have their names included in the subsector final register.
+      - (c) add to the register the names and other relevant particulars of those persons who have made applications for registration since the date prescribed for the purposes of this paragraph by the EAC Regulations and who are eligible to have their names included in the subsector final register.
 
-      - (5) As soon as practicable after complying with subsection (4), the Electoral Registration Officer shall publish—
+    - (5) As soon as practicable after complying with subsection (4), the Electoral Registration Officer shall publish—
 
-        - (a) in the Gazette; and
+      - (a) in the Gazette; and
 
-        - (b) in such other publications (if any) as are prescribed by the EAC Regulations,
+      - (b) in such other publications (if any) as are prescribed by the EAC Regulations,
 
-      - a notice to the effect that the names and other relevant particulars of persons who are no longer eligible to have their names included in the subsector final register have been entered on an omissions list and specifying the times and the place at which the omissions list may be inspected.
+    - a notice to the effect that the names and other relevant particulars of persons who are no longer eligible to have their names included in the subsector final register have been entered on an omissions list and specifying the times and the place at which the omissions list may be inspected.
 
-      - (6) The Electoral Registration Officer shall, for the period prescribed for the purposes of this subsection by the EAC Regulations—
+    - (6) The Electoral Registration Officer shall, for the period prescribed for the purposes of this subsection by the EAC Regulations—
 
-        - (a) keep the omissions list at that Officer’s office; and
+      - (a) keep the omissions list at that Officer’s office; and
 
-        - (b) during the ordinary business hours of that office, make that list available for inspection by members of the public, free of charge.
+      - (b) during the ordinary business hours of that office, make that list available for inspection by members of the public, free of charge.
 
-    - 15. When subsector final register is to take effect A subsector final register takes effect on the date of its publication and continues to have effect until the publication of the next subsector final register.
+  - 15. When subsector final register is to take effect A subsector final register takes effect on the date of its publication and continues to have effect until the publication of the next subsector final register.
 
-  - Division 3—Conduct of subsector elections
+  - Division 3 Conduct of subsector elections
 
-    - 16. When a subsector ordinary election is to be held
+  - 16. When a subsector ordinary election is to be held
 
-      - (1) A subsector ordinary election is to be held on the date specified by the Chief Executive. The Chief Executive shall give notice of that date in the Gazette.
+    - (1) A subsector ordinary election is to be held on the date specified by the Chief Executive. The Chief Executive shall give notice of that date in the Gazette.
 
-      - (2) The Chief Executive may specify different dates to hold different subsector ordinary elections.
+    - (2) The Chief Executive may specify different dates to hold different subsector ordinary elections.
 
-    - 17. Who is eligible to be nominated as a candidate at a subsector election
+  - 17. Who is eligible to be nominated as a candidate at a subsector election
 
-      - (1) A person is eligible to be nominated as a candidate at a subsector election for a subsector only if the person—
+    - (1) A person is eligible to be nominated as a candidate at a subsector election for a subsector only if the person—
 
-        - (a) has reached 18 years of age;
+      - (a) has reached 18 years of age;
 
-        - (b) is both registered and eligible to be registered for a geographical constituency; and
+      - (b) is both registered and eligible to be registered for a geographical constituency; and
 
-        - (c) either—
+      - (c) either—
 
-          - (i) is both registered and eligible to be registered as a voter for that subsector; or
+        - (i) is both registered and eligible to be registered as a voter for that subsector; or
 
-          - (ii) satisfies the Returning Officer for the subsector that the person has a substantial connection with the subsector.
+        - (ii) satisfies the Returning Officer for the subsector that the person has a substantial connection with the subsector.
 
-      - (2) A person is not eligible to be nominated as a candidate at a subsector ordinary election if the person is—
+    - (2) A person is not eligible to be nominated as a candidate at a subsector ordinary election if the person is—
 
-        - (a) a nominee of a designated body under section 7(1); or
+      - (a) a nominee of a designated body under section 7(1); or
 
-        - (b) a Hong Kong deputy to the National People’s Congress or a Member of the Legislative Council (whether or not the person is an ex-officio member of the Election Committee).
+      - (b) a Hong Kong deputy to the National People’s Congress or a Member of the Legislative Council (whether or not the person is an ex-officio member of the Election Committee).
 
-      - (3) A person is not eligible to be nominated as a candidate at a subsector by-election if—
+    - (3) A person is not eligible to be nominated as a candidate at a subsector by-election if—
 
-        - (a) the person is a nominee of a designated body under section 7(2) and the period during which the nomination under that section is to be made and the nomination period for the by-election coincide or partly coincide; or
+      - (a) the person is a nominee of a designated body under section 7(2) and the period during which the nomination under that section is to be made and the nomination period for the by-election coincide or partly coincide; or
 
-        - (b) the person is a member of the Election Committee.
+      - (b) the person is a member of the Election Committee.
 
-    - 18. When a person is disqualified from being a subsector candidate A person is disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if the person—
+  - 18. When a person is disqualified from being a subsector candidate A person is disqualified from being nominated as a candidate at a subsector election and from being elected as a member of the Election Committee if the person—
 
-      - (a) has ceased to have a substantial connection with the subsector concerned;
+    - (a) has ceased to have a substantial connection with the subsector concerned;
 
-      - (b) has ceased to be registered or eligible to be registered as an elector for a geographical constituency;
+    - (b) has ceased to be registered or eligible to be registered as an elector for a geographical constituency;
 
-      - (c) has in Hong Kong or in any other place been sentenced to death or imprisonment (by whatever name called) and has not either—
+    - (c) has in Hong Kong or in any other place been sentenced to death or imprisonment (by whatever name called) and has not either—
 
-        - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
+      - (i) served the sentence or undergone such other punishment as a competent authority may have substituted for the sentence; or
 
-        - (ii) received a free pardon;
+      - (ii) received a free pardon;
 
-      - (d) on the date of nomination or on the date of the subsector election, is serving a sentence of imprisonment;
+    - (d) on the date of nomination or on the date of the subsector election, is serving a sentence of imprisonment;
 
-      - (e) without limiting paragraph (c), where the subsector election is to be held or is held within 3 years after the date of the person’s conviction, is or has been convicted—
+    - (e) without limiting paragraph (c), where the subsector election is to be held or is held within 3 years after the date of the person’s conviction, is or has been convicted—
 
-        - (i) of having engaged in corrupt conduct or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554);
+      - (i) of having engaged in corrupt conduct or illegal conduct in contravention of the Elections (Corrupt and Illegal Conduct) Ordinance (Cap. 554);
 
-        - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
+      - (ii) of an offence against Part II of the Prevention of Bribery Ordinance (Cap. 201); or
 
-        - (iii) of any offence prescribed by the EAC Regulations;
+      - (iii) of any offence prescribed by the EAC Regulations;
 
-      - (f) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
+    - (f) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
 
-      - (g) is a member of the armed forces of the People’s Republic of China or any other country or territory.
+    - (g) is a member of the armed forces of the People’s Republic of China or any other country or territory.
 
-    - 18A. When a person is disqualified from being a candidate for 4 subsectors in the Fourth Sector
+  - 18A. When a person is disqualified from being a candidate for 4 subsectors in the Fourth Sector
 
-      - (1) This section is without prejudice to section 18.
+    - (1) This section is without prejudice to section 18.
 
-      - (2) A person is disqualified from—
+    - (2) A person is disqualified from—
 
-        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 3 of Table 4 in section 2; or
+      - (a) being nominated as a candidate at a subsector election for the subsector specified in item 3 of Table 4 in section 2; or
 
-        - (b) being elected as a member of the Election Committee representing that subsector,
+      - (b) being elected as a member of the Election Committee representing that subsector,
 
-      - if he is not a Hong Kong member of the National Committee of the Chinese People’s Political Consultative Conference.
+    - if he is not a Hong Kong member of the National Committee of the Chinese People’s Political Consultative Conference.
 
-      - (3) A person is disqualified from—
+    - (3) A person is disqualified from—
 
-        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 4 of Table 4 in section 2; or
+      - (a) being nominated as a candidate at a subsector election for the subsector specified in item 4 of Table 4 in section 2; or
 
-        - (b) being elected as a member of the Election Committee representing that subsector,
+      - (b) being elected as a member of the Election Committee representing that subsector,
 
-      - if he is not the Chairman or a Vice-Chairman of the Heung Yee Kuk or a Councillor of the Full Council of the Heung Yee Kuk.
+    - if he is not the Chairman or a Vice-Chairman of the Heung Yee Kuk or a Councillor of the Full Council of the Heung Yee Kuk.
 
-      - (4) A person is disqualified from—
+    - (4) A person is disqualified from—
 
-        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 5 of Table 4 in section 2; or
+      - (a) being nominated as a candidate at a subsector election for the subsector specified in item 5 of Table 4 in section 2; or
 
-        - (b) being elected as a member of the Election Committee representing that subsector,
+      - (b) being elected as a member of the Election Committee representing that subsector,
 
-      - if the person is not elected as a member of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance in the District Council ordinary election held immediately before the relevant subsector election or in any District Council by-election for that District Council after the ordinary election. (Amended 1 of 2011 s. 13)
+    - if the person is not elected as a member of a District Council specified in item 1, 2, 3, 4, 5, 6, 7, 8 or 9 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance in the District Council ordinary election held immediately before the relevant subsector election or in any District Council by-election for that District Council after the ordinary election. (Amended 1 of 2011 s. 13)
 
-      - (5) A person is disqualified from—
+    - (5) A person is disqualified from—
 
-        - (a) being nominated as a candidate at a subsector election for the subsector specified in item 6 of Table 4 in section 2; or
+      - (a) being nominated as a candidate at a subsector election for the subsector specified in item 6 of Table 4 in section 2; or
 
-        - (b) being elected as a member of the Election Committee representing that subsector,
+      - (b) being elected as a member of the Election Committee representing that subsector,
 
-      - if the person is not elected as a member of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance in the District Council ordinary election held immediately before the relevant subsector election or in any District Council by-election for that District Council after the ordinary election. (Amended 1 of 2011 s. 13)
+    - if the person is not elected as a member of a District Council specified in item 10, 11, 12, 13, 14, 15, 16, 17 or 18 of Schedule 2 to the District Councils Ordinance (Cap. 547) under Part V of that Ordinance in the District Council ordinary election held immediately before the relevant subsector election or in any District Council by-election for that District Council after the ordinary election. (Amended 1 of 2011 s. 13)
 
-    - (Added 10 of 2006 s. 6)
+  - (Added 10 of 2006 s. 6)
 
-    - 18B. Election as District Council member does not affect nomination made earlier
+  - 18B. Election as District Council member does not affect nomination made earlier
 
-      - (1) This subsection applies to a case in which—
+    - (1) This subsection applies to a case in which—
 
-        - (a) a person who is registered as a voter for any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector has subscribed the nomination paper of a candidate for that subsector in a subsector election; and
+      - (a) a person who is registered as a voter for any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector has subscribed the nomination paper of a candidate for that subsector in a subsector election; and
 
-        - (b) after the subscription of the nomination paper but before the subsector election the person is elected as a member of a District Council under Part V of the District Councils Ordinance (Cap. 547).
+      - (b) after the subscription of the nomination paper but before the subsector election the person is elected as a member of a District Council under Part V of the District Councils Ordinance (Cap. 547).
 
-      - (2) In a case to which subsection (1) applies—
+    - (2) In a case to which subsection (1) applies—
 
-        - (a) the validity of the subscription of the nomination paper is not affected by the person’s election; and
+      - (a) the validity of the subscription of the nomination paper is not affected by the person’s election; and
 
-        - (b) the person is disqualified—
+      - (b) the person is disqualified—
 
-          - (i) if the election is a subsector ordinary election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in that election; or
+        - (i) if the election is a subsector ordinary election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in that election; or
 
-          - (ii) if the election is a subsector by-election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in any by-election for any subsector held during the term of the District Council for which the person is elected,
+        - (ii) if the election is a subsector by-election, from subscribing the nomination paper of any candidate for the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector in any by-election for any subsector held during the term of the District Council for which the person is elected,
 
-        - unless the candidate nominated by the person meets any description in subsection (3).
+      - unless the candidate nominated by the person meets any description in subsection (3).
 
-      - (3) The descriptions are—
+    - (3) The descriptions are—
 
-        - (a) the candidate withdraws candidature under section 21;
+      - (a) the candidate withdraws candidature under section 21;
 
-        - (b) the Returning Officer decides under section 22(1) or 23(4) that the candidate is not validly nominated;
+      - (b) the Returning Officer decides under section 22(1) or 23(4) that the candidate is not validly nominated;
 
-        - (c) the Returning Officer has given a notice of death in respect of the candidate under section 23(1).
+      - (c) the Returning Officer has given a notice of death in respect of the candidate under section 23(1).
 
-    - (Added 1 of 2011 s. 14)
+  - (Added 1 of 2011 s. 14)
 
-    - 18C. Candidate for other subsectors cannot stand for District Councils subsector election even though elected as District Council member
+  - 18C. Candidate for other subsectors cannot stand for District Councils subsector election even though elected as District Council member
 
-      - (1) This subsection applies to a case in which—
+    - (1) This subsection applies to a case in which—
 
-        - (a) a person who is registered as a voter for any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector is nominated as a candidate for that subsector in a subsector election; and
+      - (a) a person who is registered as a voter for any subsector other than the Hong Kong and Kowloon District Councils subsector and the New Territories District Councils subsector is nominated as a candidate for that subsector in a subsector election; and
 
-        - (b) after the nomination but before the subsector election the person is elected as a member of a District Council under Part V of the District Councils Ordinance (Cap. 547).
+      - (b) after the nomination but before the subsector election the person is elected as a member of a District Council under Part V of the District Councils Ordinance (Cap. 547).
 
-      - (2) In a case to which subsection (1) applies—
+    - (2) In a case to which subsection (1) applies—
 
-        - (a) the validity of the nomination of the person for the subsector is not affected by the person’s election; and
+      - (a) the validity of the nomination of the person for the subsector is not affected by the person’s election; and
 
-        - (b) the person is, whether or not returned at the election, disqualified—
+      - (b) the person is, whether or not returned at the election, disqualified—
 
-          - (i) if the election is a subsector ordinary election, from being nominated as a candidate for the election in the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector; or
+        - (i) if the election is a subsector ordinary election, from being nominated as a candidate for the election in the Hong Kong and Kowloon District Councils subsector or the New Territories District Councils subsector; or
 
-          - (ii) if the election is a subsector by-election, from being nominated as a candidate for the Hong Kong and Kowloon District Councils subsector by-election or the New Territories District Councils subsector by-election held during the term of the District Council for which the person is elected.
+        - (ii) if the election is a subsector by-election, from being nominated as a candidate for the Hong Kong and Kowloon District Councils subsector by-election or the New Territories District Councils subsector by-election held during the term of the District Council for which the person is elected.
 
-    - (Added 1 of 2011 s. 14)
+  - (Added 1 of 2011 s. 14)
 
-    - 19. Candidate to lodge deposit
+  - 19. Candidate to lodge deposit
 
-      - (1) A person is validly nominated as a candidate for a subsector at a subsector election only if a deposit has, in the manner prescribed by the EAC Regulations, been lodged with the Returning Officer for the subsector concerned by or on behalf of the person.
+    - (1) A person is validly nominated as a candidate for a subsector at a subsector election only if a deposit has, in the manner prescribed by the EAC Regulations, been lodged with the Returning Officer for the subsector concerned by or on behalf of the person.
 
-      - (2) The deposit is to be of such an amount as prescribed by the regulations for the purposes of this section and is to be disposed of as provided by the regulations.
+    - (2) The deposit is to be of such an amount as prescribed by the regulations for the purposes of this section and is to be disposed of as provided by the regulations.
 
-    - 20. Person not to be nominated for more than one subsector A person who is nominated as a candidate for a subsector at a subsector election is not eligible to be nominated as a candidate at another subsector election that is to be held on the same day or if the nomination periods for the elections coincide or partly coincide.
+  - 20. Person not to be nominated for more than one subsector A person who is nominated as a candidate for a subsector at a subsector election is not eligible to be nominated as a candidate at another subsector election that is to be held on the same day or if the nomination periods for the elections coincide or partly coincide.
 
-    - 21. Withdrawal of candidature
+  - 21. Withdrawal of candidature
 
-      - (1) A candidate for a subsector election may withdraw the candidate’s candidature at any time before the close of nominations.
+    - (1) A candidate for a subsector election may withdraw the candidate’s candidature at any time before the close of nominations.
 
-      - (2) The withdrawal of such a candidate’s candidature has effect only if it is in writing signed by the candidate and complies with the EAC Regulations.
+    - (2) The withdrawal of such a candidate’s candidature has effect only if it is in writing signed by the candidate and complies with the EAC Regulations.
 
-    - 22. Who are validly nominated candidates for subsector election
+  - 22. Who are validly nominated candidates for subsector election
 
-      - (1) The Returning Officer for a subsector shall, as soon as practicable after receiving a nomination form that complies with the EAC Regulations, decide in accordance with those Regulations whether or not a person is validly nominated as a candidate at the subsector election.
+    - (1) The Returning Officer for a subsector shall, as soon as practicable after receiving a nomination form that complies with the EAC Regulations, decide in accordance with those Regulations whether or not a person is validly nominated as a candidate at the subsector election.
 
-      - (2) The Returning Officer for a subsector shall, in accordance with the EAC Regulations, publish a notice stating which persons are validly nominated as candidates at the subsector election.
+    - (2) The Returning Officer for a subsector shall, in accordance with the EAC Regulations, publish a notice stating which persons are validly nominated as candidates at the subsector election.
 
-    - 23. Death or disqualification of a validly nominated candidate before date of subsector election
+  - 23. Death or disqualification of a validly nominated candidate before date of subsector election
 
-      - (1) If, after the Returning Officer has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Returning Officer that the candidate has died, that Officer shall, in accordance with the EAC Regulations, give notice of the death.
+    - (1) If, after the Returning Officer has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Returning Officer that the candidate has died, that Officer shall, in accordance with the EAC Regulations, give notice of the death.
 
-      - (2) If a notice under section 22(2) has been published, the Returning Officer shall also, in accordance with the EAC Regulations—
+    - (2) If a notice under section 22(2) has been published, the Returning Officer shall also, in accordance with the EAC Regulations—
 
-        - (a) publicly declare that the candidate under subsection (1) has died; and
+      - (a) publicly declare that the candidate under subsection (1) has died; and
 
-        - (b) further declare which candidates are validly nominated for the subsector election.
+      - (b) further declare which candidates are validly nominated for the subsector election.
 
-      - (3) Subsections (1) and (2) do not apply if the Returning Officer has publicly declared under section 25(1) that the candidate was duly elected as a member of the Election Committee.
+    - (3) Subsections (1) and (2) do not apply if the Returning Officer has publicly declared under section 25(1) that the candidate was duly elected as a member of the Election Committee.
 
-      - (4) If, after the Returning Officer has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Returning Officer that the candidate is disqualified from being nominated as a candidate for a subsector election, the Returning Officer shall, in accordance with the EAC Regulations, vary the decision to the effect that the candidate is not validly nominated. If the Returning Officer so varies the decision, that Officer shall, in accordance with those Regulations, give notice of the variation of the decision.
+    - (4) If, after the Returning Officer has made a decision under section 22(1) that a candidate is validly nominated for a subsector election, but before the date of the subsector election, proof is given to the satisfaction of the Returning Officer that the candidate is disqualified from being nominated as a candidate for a subsector election, the Returning Officer shall, in accordance with the EAC Regulations, vary the decision to the effect that the candidate is not validly nominated. If the Returning Officer so varies the decision, that Officer shall, in accordance with those Regulations, give notice of the variation of the decision.
 
-      - (5) If a notice under section 22(2) has been published, the Returning Officer shall also, in accordance with the EAC Regulations—
+    - (5) If a notice under section 22(2) has been published, the Returning Officer shall also, in accordance with the EAC Regulations—
 
-        - (a) publicly declare that the decision has been varied; and
+      - (a) publicly declare that the decision has been varied; and
 
-        - (b) further declare which candidates are validly nominated for the subsector election.
+      - (b) further declare which candidates are validly nominated for the subsector election.
 
-      - (6) Subsections (4) and (5) do not apply if the Returning Officer has publicly declared under section 25(1) that the candidate was duly elected as a member of the Election Committee.
+    - (6) Subsections (4) and (5) do not apply if the Returning Officer has publicly declared under section 25(1) that the candidate was duly elected as a member of the Election Committee.
 
-    - 24. When holding of a subsector election can be postponed or adjourned
+  - 24. When holding of a subsector election can be postponed or adjourned
 
-      - (1) The Electoral Affairs Commission may by order direct the postponement of a subsector election if, before that election is held, the Commission is of the opinion that the election is likely to be obstructed, disrupted, undermined or seriously affected by riot or open violence or any other occurrence of public danger.
+    - (1) The Electoral Affairs Commission may by order direct the postponement of a subsector election if, before that election is held, the Commission is of the opinion that the election is likely to be obstructed, disrupted, undermined or seriously affected by riot or open violence or any other occurrence of public danger.
 
-      - (2) The Electoral Affairs Commission may by order direct the adjournment of the polling or counting of votes for a subsector election if, during the polling or counting of votes in respect of that election, the Commission is of the opinion that the polling or counting is likely to be or is being obstructed, disrupted, undermined or seriously affected by riot or open violence or any other occurrence of public danger.
+    - (2) The Electoral Affairs Commission may by order direct the adjournment of the polling or counting of votes for a subsector election if, during the polling or counting of votes in respect of that election, the Commission is of the opinion that the polling or counting is likely to be or is being obstructed, disrupted, undermined or seriously affected by riot or open violence or any other occurrence of public danger.
 
-      - (3) The Returning Officer or Returning Officers concerned shall give effect to a direction under this section as soon as practicable after being notified of it.
+    - (3) The Returning Officer or Returning Officers concerned shall give effect to a direction under this section as soon as practicable after being notified of it.
 
-      - (4) If the subsector election, or polling or counting of votes at the subsector election, is directed to be postponed or adjourned under this section, the Electoral Affairs Commission shall specify a date for the holding of the subsector election, or the polling or counting, in place of the postponed subsector election or the adjourned polling or counting. The Electoral Affairs Commission shall give notice of that date in the Gazette. That date is to be not later than 14 days from the date on which the election, polling or counting of votes would have taken place but for the direction.
+    - (4) If the subsector election, or polling or counting of votes at the subsector election, is directed to be postponed or adjourned under this section, the Electoral Affairs Commission shall specify a date for the holding of the subsector election, or the polling or counting, in place of the postponed subsector election or the adjourned polling or counting. The Electoral Affairs Commission shall give notice of that date in the Gazette. That date is to be not later than 14 days from the date on which the election, polling or counting of votes would have taken place but for the direction.
 
-    - 25. What is to happen if insufficient number of candidates is nominated for a subsector
+  - 25. What is to happen if insufficient number of candidates is nominated for a subsector
 
-      - (1) If—
+    - (1) If—
 
-        - (a) after the close of nominations of candidates for a subsector ordinary election, no more candidates have been validly nominated than the number of members allocated to the subsector; or
+      - (a) after the close of nominations of candidates for a subsector ordinary election, no more candidates have been validly nominated than the number of members allocated to the subsector; or
 
-        - (b) after the close of nominations of candidates for a subsector by-election, no more candidates have been validly nominated than the number of members to be returned at the by-election,
+      - (b) after the close of nominations of candidates for a subsector by-election, no more candidates have been validly nominated than the number of members to be returned at the by-election,
 
-      - the Returning Officer concerned shall, in accordance with the EAC Regulations, publicly declare the candidates for the subsector to be duly elected as members of the Election Committee representing the subsector.
+    - the Returning Officer concerned shall, in accordance with the EAC Regulations, publicly declare the candidates for the subsector to be duly elected as members of the Election Committee representing the subsector.
 
-      - (2) If, after the close of nominations of candidates for a subsector election, no candidate was validly nominated, the Returning Officer concerned shall, by notice published in the Gazette, declare that no candidate was validly nominated for the subsector election.
+    - (2) If, after the close of nominations of candidates for a subsector election, no candidate was validly nominated, the Returning Officer concerned shall, by notice published in the Gazette, declare that no candidate was validly nominated for the subsector election.
 
-      - (3) If—
+    - (3) If—
 
-        - (a) after the close of nominations of candidates for a subsector ordinary election, the number of candidates validly nominated was less than the number of members allocated to the subsector; or
+      - (a) after the close of nominations of candidates for a subsector ordinary election, the number of candidates validly nominated was less than the number of members allocated to the subsector; or
 
-        - (b) after the close of nominations of candidates for a subsector by-election, the number of candidates validly nominated was less than the number of members to be returned at the by-election,
+      - (b) after the close of nominations of candidates for a subsector by-election, the number of candidates validly nominated was less than the number of members to be returned at the by-election,
 
-      - the Returning Officer concerned shall, by notice published in the Gazette, declare that the number of members of the Election Committee returned at the subsector election for the subsector is less than the number of members to be returned at the election.
+    - the Returning Officer concerned shall, by notice published in the Gazette, declare that the number of members of the Election Committee returned at the subsector election for the subsector is less than the number of members to be returned at the election.
 
-    - 26. Death or disqualification of a validly nominated candidate before declaration of election result
+  - 26. Death or disqualification of a validly nominated candidate before declaration of election result
 
-      - (1) If, on or after the date of a subsector election but before declaring the result of the subsector election, proof is given to the satisfaction of the Returning Officer concerned that a validly nominated candidate for the subsector election has died or is disqualified from being elected, the proceedings for the subsector election are to begin (if they have not begun) or to continue (if they have begun) as if the death or disqualification had not occurred.
+    - (1) If, on or after the date of a subsector election but before declaring the result of the subsector election, proof is given to the satisfaction of the Returning Officer concerned that a validly nominated candidate for the subsector election has died or is disqualified from being elected, the proceedings for the subsector election are to begin (if they have not begun) or to continue (if they have begun) as if the death or disqualification had not occurred.
 
-      - (2) If—
+    - (2) If—
 
-        - (a) after the counting of votes is finished, the candidate referred to in subsection (1) is found to be successful at the subsector election; and
+      - (a) after the counting of votes is finished, the candidate referred to in subsection (1) is found to be successful at the subsector election; and
 
-        - (b) there is no other candidate at the subsector election who can be returned under section 29(9) for the subsector in place of that candidate,
+      - (b) there is no other candidate at the subsector election who can be returned under section 29(9) for the subsector in place of that candidate,
 
-      - the Returning Officer concerned shall, in accordance with the EAC Regulations, declare that—
+    - the Returning Officer concerned shall, in accordance with the EAC Regulations, declare that—
 
-        - (c) no candidate is returned at the subsector election; or
+      - (c) no candidate is returned at the subsector election; or
 
-        - (d) (where more than one member of the Election Committee are to be returned at the subsector election and there are other candidates returned at the subsector election) the number of members of the Election Committee returned at the subsector election for the subsector is less than the number of members to be returned at the election.
+      - (d) (where more than one member of the Election Committee are to be returned at the subsector election and there are other candidates returned at the subsector election) the number of members of the Election Committee returned at the subsector election for the subsector is less than the number of members to be returned at the election.
 
-    - 27. How subsector election is to be conducted
+  - 27. How subsector election is to be conducted
 
-      - (1) At every contested subsector election—
+    - (1) At every contested subsector election—
 
-        - (a) a poll is to be taken for the subsector; and
+      - (a) a poll is to be taken for the subsector; and
 
-        - (b) voting at the poll is to be by secret ballot.
+      - (b) voting at the poll is to be by secret ballot.
 
-      - (2) The poll is to be conducted in accordance with the EAC Regulations.
+    - (2) The poll is to be conducted in accordance with the EAC Regulations.
 
-      - (3) The Returning Officer appointed for a subsector is responsible for supervising a subsector election for the subsector in accordance with this Schedule, the Electoral Affairs Commission Ordinance (Cap. 541) and the EAC Regulations.
+    - (3) The Returning Officer appointed for a subsector is responsible for supervising a subsector election for the subsector in accordance with this Schedule, the Electoral Affairs Commission Ordinance (Cap. 541) and the EAC Regulations.
 
-    - 28. Who is entitled to vote at a subsector election
+  - 28. Who is entitled to vote at a subsector election
 
-      - (1) A person is entitled to vote at a subsector election only if the person is registered as a voter for the subsector concerned.
+    - (1) A person is entitled to vote at a subsector election only if the person is registered as a voter for the subsector concerned.
 
-      - (2) A person registered as a voter for a subsector may not be prevented from voting at a subsector election only because the person’s name should not have been included in the subsector final register prepared for the subsector.
+    - (2) A person registered as a voter for a subsector may not be prevented from voting at a subsector election only because the person’s name should not have been included in the subsector final register prepared for the subsector.
 
-      - (3) A corporate voter may vote at a subsector election only by its authorized representative.
+    - (3) A corporate voter may vote at a subsector election only by its authorized representative.
 
-    - 29. System of voting and counting of votes
+  - 29. System of voting and counting of votes
 
-      - (1) Voting and counting of votes at a poll referred to in section 27 is to be conducted in accordance with the simple or relative majority system of election (otherwise known as the “first past the post” system of voting).
+    - (1) Voting and counting of votes at a poll referred to in section 27 is to be conducted in accordance with the simple or relative majority system of election (otherwise known as the “first past the post” system of voting).
 
-      - (2) At a subsector ordinary election, a voter may vote for as many candidates as the number of members allocated to the subsector concerned and no more.
+    - (2) At a subsector ordinary election, a voter may vote for as many candidates as the number of members allocated to the subsector concerned and no more.
 
-      - (3) At a subsector by-election, a voter may vote for as many candidates as the number of members to be returned at the by-election and no more.
+    - (3) At a subsector by-election, a voter may vote for as many candidates as the number of members to be returned at the by-election and no more.
 
-      - (4) If a subsector ordinary election is contested by more candidates than the number of members allocated to the subsector, the candidates to be elected for the subsector are those who obtain the greatest number of votes at the election and then the next greatest and so on until the required number of members is elected.
+    - (4) If a subsector ordinary election is contested by more candidates than the number of members allocated to the subsector, the candidates to be elected for the subsector are those who obtain the greatest number of votes at the election and then the next greatest and so on until the required number of members is elected.
 
-      - (5) If a subsector by-election is contested by more candidates than the number of members to be returned at the by-election—
+    - (5) If a subsector by-election is contested by more candidates than the number of members to be returned at the by-election—
 
-        - (a) in the case of a single vacancy, the candidate to be elected for the subsector is the one who obtains the greatest number of votes at the by-election; and
+      - (a) in the case of a single vacancy, the candidate to be elected for the subsector is the one who obtains the greatest number of votes at the by-election; and
 
-        - (b) in the case of more than one vacancy, the candidates to be elected for the subsector are those who obtain the greatest number of votes at the by-election and then the next greatest and so on until the required number of members is elected.
+      - (b) in the case of more than one vacancy, the candidates to be elected for the subsector are those who obtain the greatest number of votes at the by-election and then the next greatest and so on until the required number of members is elected.
 
-      - (6) If, after the counting is finished at a subsector election, a member is still to be returned for the subsector and the most successful candidates remaining have an equal number of votes, the Returning Officer shall determine the result of the election by drawing lots. The candidate on whom the lot falls is to be returned at the subsector election.
+    - (6) If, after the counting is finished at a subsector election, a member is still to be returned for the subsector and the most successful candidates remaining have an equal number of votes, the Returning Officer shall determine the result of the election by drawing lots. The candidate on whom the lot falls is to be returned at the subsector election.
 
-      - (7) As soon as practicable after determining the result of a subsector election, the Returning Officer concerned shall, in accordance with the EAC Regulations, publicly declare as elected the candidates who were successful at the subsector election.
+    - (7) As soon as practicable after determining the result of a subsector election, the Returning Officer concerned shall, in accordance with the EAC Regulations, publicly declare as elected the candidates who were successful at the subsector election.
 
-      - (8) Despite subsection (7), if, before declaring the result of a subsector election, proof is given to the satisfaction of the Returning Officer that the candidate or a candidate who was successful at the subsector election has died or is disqualified from being elected, that Officer shall not declare that candidate as elected.
+    - (8) Despite subsection (7), if, before declaring the result of a subsector election, proof is given to the satisfaction of the Returning Officer that the candidate or a candidate who was successful at the subsector election has died or is disqualified from being elected, that Officer shall not declare that candidate as elected.
 
-      - (9) If there is another candidate or there are other candidates at the subsector election who has not or have not been returned for the subsector, the candidate is to be returned or the candidate who obtains the greatest number of votes is to be returned (subject to that candidate’s being not disqualified from being elected) in place of the deceased or disqualified candidate. In that case, the Returning Officer concerned shall publicly declare the candidate so returned to be elected.
+    - (9) If there is another candidate or there are other candidates at the subsector election who has not or have not been returned for the subsector, the candidate is to be returned or the candidate who obtains the greatest number of votes is to be returned (subject to that candidate’s being not disqualified from being elected) in place of the deceased or disqualified candidate. In that case, the Returning Officer concerned shall publicly declare the candidate so returned to be elected.
 
-    - 30. When a voter is disqualified from voting at subsector election
+  - 30. When a voter is disqualified from voting at subsector election
 
-      - (1) A person registered as a voter for a subsector is disqualified from voting at a subsector election for that subsector, if the person—
+    - (1) A person registered as a voter for a subsector is disqualified from voting at a subsector election for that subsector, if the person—
 
-        - (a) has ceased to be eligible to be registered as a voter for that subsector; (b)-(d) (Repealed 7 of 2009 s. 4)
+      - (a) has ceased to be eligible to be registered as a voter for that subsector;
 
-        - (e) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
+      - (b)-(d) (Repealed 7 of 2009 s. 4)
 
-        - (f) is a member of the armed forces of the People’s Republic of China or any other country or territory.
+      - (e) is found for the time being under the Mental Health Ordinance (Cap. 136) to be incapable, by reason of mental incapacity, of managing and administering his property and affairs; or
 
-      - (2) This section applies to an authorized representative of a corporate voter in the same way as it applies to a voter who is a natural person.
+      - (f) is a member of the armed forces of the People’s Republic of China or any other country or territory.
 
-    - 31. Consequences of non-compliance with requirements of this Schedule In any proceedings brought to question the validity of a subsector election, the Revising Officer shall not declare the election to be invalid only because of—
+    - (2) This section applies to an authorized representative of a corporate voter in the same way as it applies to a voter who is a natural person.
 
-      - (a) a failure to comply with the regulations or with the EAC Regulations; or
+  - 31. Consequences of non-compliance with requirements of this Schedule In any proceedings brought to question the validity of a subsector election, the Revising Officer shall not declare the election to be invalid only because of—
 
-      - (b) a mistake in the use of a form specified under this Schedule or under the Electoral Affairs Commission Ordinance (Cap. 541),
+    - (a) a failure to comply with the regulations or with the EAC Regulations; or
 
-    - if the Revising Officer is satisfied on reasonable grounds that the conduct of the election was in accordance with the principles laid down in this Schedule and the Electoral Affairs Commission Ordinance (Cap. 541) and that the failure to comply or mistake did not affect the result of the election.
+    - (b) a mistake in the use of a form specified under this Schedule or under the Electoral Affairs Commission Ordinance (Cap. 541),
 
-    - 32. Misnomer or inaccuracy not to affect operation of election document
+  - if the Revising Officer is satisfied on reasonable grounds that the conduct of the election was in accordance with the principles laid down in this Schedule and the Electoral Affairs Commission Ordinance (Cap. 541) and that the failure to comply or mistake did not affect the result of the election.
 
-      - (1) A misnomer or inaccurate description of a person, a person’s identity document or place specified in a document to which this section applies does not limit the full operation of the document with respect to that person, identity document or place if the description of the person, identity document or place is such as to be commonly understood.
+  - 32. Misnomer or inaccuracy not to affect operation of election document
 
-      - (2) This section applies to a subsector provisional register, a subsector final register, a nomination paper, ballot paper, notice or other document prepared for the purposes of a subsector election.
+    - (1) A misnomer or inaccurate description of a person, a person’s identity document or place specified in a document to which this section applies does not limit the full operation of the document with respect to that person, identity document or place if the description of the person, identity document or place is such as to be commonly understood.
 
-      - (3) In this section—
+    - (2) This section applies to a subsector provisional register, a subsector final register, a nomination paper, ballot paper, notice or other document prepared for the purposes of a subsector election.
 
-        - identity document (身分證明文件) means—
+    - (3) In this section—
 
-          - (a) an identity card issued to a person under the Registration of Persons Ordinance
+      - identity document (身分證明文件) means—
 
-          - (Cap. 177);
+        - (a) an identity card issued to a person under the Registration of Persons Ordinance (Cap. 177);
 
-          - (b) a document issued to a person under regulations in force under that Ordinance certifying that the person is exempt from being required to register under that Ordinance; or
+        - (b) a document issued to a person under regulations in force under that Ordinance certifying that the person is exempt from being required to register under that Ordinance; or
 
-          - (c) any other document issued to a person that is acceptable to the Electoral Registration Officer as proof of the person’s identity.
+        - (c) any other document issued to a person that is acceptable to the Electoral Registration Officer as proof of the person’s identity.
 
-    - 33. Subsector election to be presumed valid Every subsector election is presumed to be valid, unless it is questioned by means of an appeal lodged with a Revising Officer within the period during which an appeal can be made to a Revising Officer under section 39 and the Officer, on the hearing of an appeal, determines that the election is invalid.
+  - 33. Subsector election to be presumed valid Every subsector election is presumed to be valid, unless it is questioned by means of an appeal lodged with a Revising Officer within the period during which an appeal can be made to a Revising Officer under section 39 and the Officer, on the hearing of an appeal, determines that the election is invalid.
 
-    - 34. Subsector election not to be questioned only because of defect in appointment of electoral officer A subsector election is not to be questioned only because of a defect in the appointment of an electoral officer who is responsible for conducting the subsector election.
+  - 34. Subsector election not to be questioned only because of defect in appointment of electoral officer A subsector election is not to be questioned only because of a defect in the appointment of an electoral officer who is responsible for conducting the subsector election.
 
-    - 35. Returning Officer to publish result of subsector election
+  - 35. Returning Officer to publish result of subsector election
 
-      - (1) The Returning Officer shall publish in the Gazette the names of the persons duly elected as members of the Election Committee at a subsector election.
+    - (1) The Returning Officer shall publish in the Gazette the names of the persons duly elected as members of the Election Committee at a subsector election.
 
-      - (2) The publication of a notice shall be in accordance with the EAC Regulations.
+    - (2) The publication of a notice shall be in accordance with the EAC Regulations.
 
-    - 36. Offences by Returning Officers and others with respect to conduct of subsector election
+  - 36. Offences by Returning Officers and others with respect to conduct of subsector election
 
-      - (1) Any person holding office as a Returning Officer or an Assistant Returning Officer at a subsector election who neglects or refuses to perform the functions of that office in relation to such an election commits an offence and is liable on conviction to a fine at level 2.
+    - (1) Any person holding office as a Returning Officer or an Assistant Returning Officer at a subsector election who neglects or refuses to perform the functions of that office in relation to such an election commits an offence and is liable on conviction to a fine at level 2.
 
-      - (2) A prosecution for an offence under this section may be brought only with the consent of the Secretary for Justice.
+    - (2) A prosecution for an offence under this section may be brought only with the consent of the Secretary for Justice.
 
-      - (3) A person is not to be liable to conviction under this section unless the complaint or information alleging the offence is laid within 3 months after the date of the alleged commission of the offence.
+    - (3) A person is not to be liable to conviction under this section unless the complaint or information alleging the offence is laid within 3 months after the date of the alleged commission of the offence.
 
-    - 37. Voter not to be required to disclose how vote was cast
+  - 37. Voter not to be required to disclose how vote was cast
 
-      - (1) A voter who is asked to disclose the name of, or any particulars relating to, the subsector candidate for whom the voter voted at a subsector election is not required to answer the question.
+    - (1) A voter who is asked to disclose the name of, or any particulars relating to, the subsector candidate for whom the voter voted at a subsector election is not required to answer the question.
 
-      - (2) A person shall not, without lawful authority, require or purport to require a voter at a subsector election to disclose the name of, or any particulars relating to, a subsector candidate for whom the voter voted at the subsector election.
+    - (2) A person shall not, without lawful authority, require or purport to require a voter at a subsector election to disclose the name of, or any particulars relating to, a subsector candidate for whom the voter voted at the subsector election.
 
-      - (3) A person who contravenes subsection (2) commits an offence and is liable on conviction to a fine at level 2.
+    - (3) A person who contravenes subsection (2) commits an offence and is liable on conviction to a fine at level 2.
 
-      - (4)
+    - (4)
 
-        - In this section, voter (投票人) includes an authorized representative of a corporate voter.
+      - In this section, voter (投票人) includes an authorized representative of a corporate voter.
 
-  - Division 4—Miscellaneous
+  - Division 4 Miscellaneous
 
-    - 38. Subsector candidates entitled to send letters to voters free of postage
+  - 38. Subsector candidates entitled to send letters to voters free of postage
 
-      - (1) A validly nominated candidate at a subsector election is entitled to send free of postage one letter addressed to each voter whose name appears in the subsector final register for the subsector for which the candidate is nominated.
+    - (1) A validly nominated candidate at a subsector election is entitled to send free of postage one letter addressed to each voter whose name appears in the subsector final register for the subsector for which the candidate is nominated.
 
-      - (2) Each such letter is to relate to the election concerned and is to comply with all requirements and limitations (if any) prescribed by the EAC Regulations.
+    - (2) Each such letter is to relate to the election concerned and is to comply with all requirements and limitations (if any) prescribed by the EAC Regulations.
 
-      - (2A) A letter sent under subsection (1) by a candidate who is validly nominated at a subsector election—
+    - (2A) A letter sent under subsection (1) by a candidate who is validly nominated at a subsector election—
 
-        - (a) may contain information on any other candidate who is also validly nominated at that election; and
+      - (a) may contain information on any other candidate who is also validly nominated at that election; and
 
-        - (b) is, if it contains any information mentioned in paragraph (a), not to be regarded, for the purposes of subsection (1), as being sent by that other candidate. (Added 18 of 2011 s. 35)
+      - (b) is, if it contains any information mentioned in paragraph (a), not to be regarded, for the purposes of subsection (1), as being sent by that other candidate. (Added 18 of 2011 s. 35)
 
-      - (3) The cost to the Postmaster General of enabling subsector candidates to exercise their entitlements under this section is a charge on, and is to be met from, the general revenue.
+    - (3) The cost to the Postmaster General of enabling subsector candidates to exercise their entitlements under this section is a charge on, and is to be met from, the general revenue.
 
-    - 39. Subsector election may be questioned only by appeal to Revising Officer
+  - 39. Subsector election may be questioned only by appeal to Revising Officer
 
-      - (1) A person claiming to be a candidate at a subsector election may appeal against the result to a Revising Officer in accordance with the regulations.
+    - (1) A person claiming to be a candidate at a subsector election may appeal against the result to a Revising Officer in accordance with the regulations.
 
-      - (2) An appeal under subsection (1) may be lodged only during the period of 7 days following the date on which the Returning Officer has published in the Gazette the result being appealed against.
+    - (2) An appeal under subsection (1) may be lodged only during the period of 7 days following the date on which the Returning Officer has published in the Gazette the result being appealed against.
 
-      - (3) Any person whose election is questioned by an appeal under this section and the Returning Officer in respect of the subsector election concerned may be made a respondent to the appeal.
+    - (3) Any person whose election is questioned by an appeal under this section and the Returning Officer in respect of the subsector election concerned may be made a respondent to the appeal.
 
-      - (4) At the hearing of the appeal, the appellant is entitled to appear in person and, whether or not the appellant appears in person, to be represented by a legal practitioner or any other person.
+    - (4) At the hearing of the appeal, the appellant is entitled to appear in person and, whether or not the appellant appears in person, to be represented by a legal practitioner or any other person.
 
-      - (5) At the end of a hearing, the Revising Officer shall determine whether the person whose election is questioned was or was not duly elected.
+    - (5) At the end of a hearing, the Revising Officer shall determine whether the person whose election is questioned was or was not duly elected.
 
-      - (6) The determination of the Revising Officer on such an appeal is final.
+    - (6) The determination of the Revising Officer on such an appeal is final.
 
 - Part 5 Interim Register and Final Register of Members of Election Committee (Amended 10 of 2006 s. 21)
 
@@ -1448,4 +1446,6 @@ Election Committee
 
     - (4) At the hearing of the appeal, the appellant or any other person concerned in the appeal is entitled to appear in person and, whether or not the appellant appears in person, to be represented by a legal practitioner or any other person.
 
-  - 49. (Repealed 10 of 2006 s. 31) (Amended E.R. 2 of 2012)
+  - 49. (Repealed 10 of 2006 s. 31)
+
+- (Amended E.R. 2 of 2012) (Format changes—E.R. 1 of 2012)
