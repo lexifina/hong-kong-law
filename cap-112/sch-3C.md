@@ -10,6 +10,8 @@ Elderly Residential Care Expenses Deduction
 
 3. | For the years of assessment 2012/13 and 2013/14 (Replaced 10 of 2014 s. 5) | $76,000
 
-4. | For the year of assessment 2014/15 and for each year after that year (Added 10 of 2014 s. 5) | $80,000
+4. | For the years of assessment 2014/15 and 2015/16 (Replaced 8 of 2016 s. 5) | $80,000
+
+5. | For the year of assessment 2016/17 and for each year after that year (Added 8 of 2016 s. 5) | $92,000
 
 (Added 31 of 1998 s. 22)
