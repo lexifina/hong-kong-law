@@ -10,7 +10,7 @@ Item | Institution | Executive head
 
 2. | Lingnan University established by the Lingnan University Ordinance (Cap. 1165). | The President within the meaning of section 2 of the Lingnan University Ordinance (Cap. 1165). (Replaced 54 of 1999 s. 34)
 
-3. | The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444). | The President within the meaning of section 2 of The Hong Kong Institute of Education Ordinance (Cap. 444). (Amended 23 of 2002 s. 84)
+3. | The Education University of Hong Kong established by The Education University of Hong Kong Ordinance (Cap. 444). | The President within the meaning of section 2 of The Education University of Hong Kong Ordinance (Cap. 444). (Amended 23 of 2002 s. 84; 6 of 2016 s. 2)
 
 4. | University of Hong Kong established by the University of Hong Kong Ordinance (Cap. 1053). | The Vice-Chancellor of the University.
 

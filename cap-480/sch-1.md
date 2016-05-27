@@ -4,8 +4,6 @@
 
 Educational Establishments and their Responsible Bodies
 
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
-
 Educational establishment | Responsible body
 
 1. | The University of Hong Kong established by the University of Hong Kong Ordinance (Cap. 1053) | The Court, the Council, the Senate or the Convocation, within the meaning of section 2 of the University of Hong Kong Ordinance (Cap. 1053), according to which of them has the function concerned
@@ -32,7 +30,7 @@ Educational establishment | Responsible body
 
 12. | Lingnan University established by the Lingnan University Ordinance (Cap. 1165) | The Court, the Council or the Senate, within the meaning of section 2 of the Lingnan University Ordinance (Cap. 1165), according to which of them has the function concerned (Replaced 54 of 1999 s. 33)
 
-13. | The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444) | The Council or the Academic Board, within the meaning of section 2 of The Hong Kong Institute of Education Ordinance (Cap. 444), according to which of them has the function concerned
+13. | The Education University of Hong Kong established by The Education University of Hong Kong Ordinance (Cap. 444) | The Council or the Academic Board, within the meaning of section 2 of The Education University of Hong Kong Ordinance (Cap. 444), according to which of them has the function concerned (Amended 6 of 2016 s. 2)
 
 14. | Any school which is registered or provisionally registered under the Education Ordinance (Cap. 279) | The management committee, within the meaning of section 3 of the Education Ordinance (Cap. 279), of the school
 

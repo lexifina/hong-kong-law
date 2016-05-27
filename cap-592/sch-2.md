@@ -10,7 +10,7 @@ SELF-ACCREDITING OPERATORS
 
 - 3. Hong Kong Baptist University
 
-- 4. The Hong Kong Institute of Education (excluding learning programmes which are not learning programmes in teacher education)
+- 4. The Education University of Hong Kong (excluding learning programmes which are not learning programmes in teacher education) (Amended 6 of 2016 s. 2)
 
 - 5. The Hong Kong Polytechnic University
 

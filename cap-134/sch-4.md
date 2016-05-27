@@ -4,7 +4,7 @@
 
 Reporting Agencies
 
-(For the saving and transitional provisions relating to the amendments made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.)
+(Format changes—E.R. 2 of 2014)
 
 - 1. Aberdeen Kai-fong Welfare Association Social Service Centre
 
@@ -34,7 +34,7 @@ Reporting Agencies
 
 - 13. Department of Health
 
-- 14. Education Bureau (Amended L.N. 130 of 2007)
+- *14. Education Bureau (Amended L.N. 130 of 2007)
 
 - 15. Evangel Hospital
 
@@ -110,13 +110,15 @@ Reporting Agencies
 
 - 48. The Church of United Brethren in Christ Hong Kong Limited
 
+- 48A. The Education University of Hong Kong (Added 6 of 2016 s. 2)
+
 - 49. The Evangelical Lutheran Church of Hong Kong
 
 - 50. The Hong Kong Council of Social Service
 
 - 51. The Hong Kong Federation of Youth Groups
 
-- 52. The Hong Kong Institute of Education
+- 52. (Repealed 6 of 2016 s. 2)
 
 - 53. The Hong Kong Medical Association
 
@@ -148,4 +150,8 @@ Reporting Agencies
 
 - 66. Yang Memorial Methodist Social Service
 
-- 67. Zion Social Service Limited (Fourth Schedule replaced L.N. 36 of 2005) (Format changes—E.R. 2 of 2014)
+- 67. Zion Social Service Limited (Fourth Schedule replaced L.N. 36 of 2005)
+
+Editorial Note:
+
+* | For the saving and transitional provisions relating to the amendments to item 14 of the Fourth Schedule made by the Resolution of the Legislative Council (L.N. 130 of 2007), see paragraph (12) of that Resolution.

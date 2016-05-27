@@ -1,12 +1,14 @@
 # Schedule 1
 
-[ss. 2(1) & 35] (Amended 20 of 1999 s. 6)
+[ss. 2(1) & 35]
 
 Public Bodies
 
+(Amended 20 of 1999 s. 6)
+
 - 1. Hong Kong Telecom International Limited. (Replaced 20 of 1999 s. 6)
 
-- 2 China Light and Power Company Limited.
+- 2. China Light and Power Company Limited.
 
 - 3. (Repealed 20 of 1999 s. 6)
 
@@ -100,7 +102,7 @@ Public Bodies
 
 - 48. The Hong Kong University of Science and Technology. (Added 47 of 1987 s. 25)
 
-- 49. Communications Authority (Added 49 of 1987 s17. Replaced 17 of 2011 s. 28)
+- 49. Communications Authority. (Added 49 of 1987 s17. Replaced 17 of 2011 s. 28)
 
 - 50. Hong Kong Council on Smoking and Health. (Added 56 of 1987 s. 21)
 
@@ -148,7 +150,7 @@ Public Bodies
 
 - 72. The Legislative Council Commission. (Added 14 of 1994 s. 24)
 
-- 73. The Hong Kong Institute of Education. (Added 16 of 1994 s. 25)
+- 73. The Education University of Hong Kong. (Added 16 of 1994 s. 25. Admended 6 of 2016 s. 2)
 
 - 74. Hong Kong Quality Assurance Agency. (Added L.N. 409 of 1994)
 
@@ -254,7 +256,9 @@ Public Bodies
 
 - 124. Construction Workers Registration Board. (Added 17 of 2012 s. 64)
 
-- 125. HK Television Entertainment Company Limited. (Added L.N. 84 of 2015) (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
+- 125. HK Television Entertainment Company Limited. (Added L.N. 84 of 2015)
+
+(Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
 

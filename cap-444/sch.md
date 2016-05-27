@@ -20,7 +20,7 @@ PROVISION WITH RESPECT TO MEETINGS AND PROCEDURES OF THE COUNCIL
 
   - (b) the person presiding shall have a casting as well as a deliberative vote.
 
-- 7. If the Chairman so decides in respect of a particular meeting, any member of the Council who is an employee, adviser, consultant or full-time student of the Institute may be excluded from the whole or part of that meeting.
+- 7. If the Chairman so decides in respect of a particular meeting, any member of the Council who is an employee, adviser, consultant or full-time student of the University may be excluded from the whole or part of that meeting. (Amended 6 of 2016 s. 11)
 
 - 8. If a member present at a meeting of the Council has any pecuniary or other personal interest in any matter to be considered at that meeting, he shall—
 
@@ -46,7 +46,9 @@ PROVISION WITH RESPECT TO MEETINGS AND PROCEDURES OF THE COUNCIL
 
   - (c) any minor irregularity in the convening of any meeting of the Council.
 
-- 11. The exercise of any power by the Council may be signified by the person presiding at the meeting or other deliberation at which such power was exercised, or by any person from time to time authorized by the Council to signify the exercise of such power. 12. The fixing of the seal of the Institute shall be—
+- 11. The exercise of any power by the Council may be signified by the person presiding at the meeting or other deliberation at which such power was exercised, or by any person from time to time authorized by the Council to signify the exercise of such power.
+
+- 12. The fixing of the seal of the University shall be— (Amended 6 of 2016 s. 11)
 
   - (a) authorized or ratified by resolution of the Council; and
 

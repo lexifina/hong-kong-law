@@ -12,7 +12,7 @@ EDUCATIONAL ESTABLISHMENTS
 
 - 4. Lingnan University established by the Lingnan University Ordinance (Cap. 1165). (Replaced 54 of 1999 s. 36)
 
-- 5. The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444).
+- 5. The Education University of Hong Kong established by The Education University of Hong Kong Ordinance (Cap. 444). (Amended 6 of 2016 s. 2)
 
 - 6. University of Hong Kong established by the University of Hong Kong Ordinance (Cap. 1053).
 

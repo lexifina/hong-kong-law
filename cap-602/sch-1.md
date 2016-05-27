@@ -1,6 +1,6 @@
 # SCHEDULE 1
 
-[sections 2(1) & 84]
+[ss. 2(1) & 84]
 
 EDUCATIONAL ESTABLISHMENTS AND THEIR RESPONSIBLE BODIES
 
@@ -28,7 +28,7 @@ Item | Educational establishment | Responsible body
 
 11. | The Lingnan University established by the Lingnan University Ordinance (Cap. 1165) | The Lingnan University established by the Lingnan University Ordinance (Cap. 1165)
 
-12. | The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444) | The Hong Kong Institute of Education established by The Hong Kong Institute of Education Ordinance (Cap. 444)
+12. | The Education University of Hong Kong established by The Education University of Hong Kong Ordinance (Cap. 444) (Amended 6 of 2016 s. 2) | The Education University of Hong Kong established by The Education University of Hong Kong Ordinance (Cap. 444)
 
 13. | Any school which is registered or provisionally registered under the Education Ordinance (Cap. 279) | The management committee, incorporated management committee or school management company (as the case may be), within the meaning of section 3(1) of the Education Ordinance (Cap. 279), of the school
 
