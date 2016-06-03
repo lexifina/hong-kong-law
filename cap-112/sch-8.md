@@ -1,8 +1,10 @@
 # Schedule 8
 
-[ss. 14(2), 14A(1), 14B(1), 19CA(4) & (5) & 63H(1A)] (Amended 4 of 2011 s. 8)
+[ss. 14(2), 14A(1), 14B(1), 14D(1), 16(2I), 19CA(4) & (5) & 63H(1A)] (Amended 4 of 2011 s. 8; 12 of 2016 s. 5; 12 of 2016 s. 9)
 
 Rate of Profits Tax in respect of a Corporation
+
+(Schedule 8 added 56 of 1993 s. 32)
 
 For the years of assessment 1992/93 and 1993/94 | 17 1/2%
 
@@ -23,5 +25,3 @@ For the years of assessment 2003/04 to 2007/08 inclusive | 17 1/2%
 For the year of assessment 2008/09 and for each year after that year | 16 1/2%
 
 (Added 21 of 2008 s. 10)
-
-(Added 56 of 1993 s. 32)

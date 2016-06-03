@@ -1,6 +1,6 @@
 # Schedule 6
 
-[ss. 14A(4) & 26A(2) & (3) & Schs. 17A & 29] (Amended 4 of 2011 s. 7; 10 of 2013 s. 18)
+[ss. 14A(4), 17A(1) & 26A(2) & (3) & Schs. 17A, 29 & 36] (Replaced 12 of 2016 s. 15) (Schedule 6 added 17 of 1992 s. 3)
 
 - Part 1 Instruments
 
@@ -8,7 +8,7 @@
 
   - 2. A promissory note within the meaning of section 89 of the Bills of Exchange Ordinance (Cap. 19).
 
-  - 3. Subject to section 21(3)(a) of Schedule 17A (specified alternative bond scheme and its tax treatment), any other instrument which evidences an obligation to pay a stated or determinable amount to bearer or to order, on or before a fixed time, with or without interest, being an instrument by the delivery of which, with or without endorsement, the right to receive that stated or determinable amount, with or without interest, is transferable. (Amended 10 of 2013 s. 18)
+  - 3. Subject to section 21(3)(a) of Schedule 17A (specified alternative bond scheme and its tax treatment), any other instrument (other than a regulatory capital security) which evidences an obligation to pay a stated or determinable amount to bearer or to order, on or before a fixed time, with or without interest, being an instrument by the delivery of which, with or without endorsement, the right to receive that stated or determinable amount, with or without interest, is transferable. (Amended 10 of 2013 s. 18; 12 of 2016 s. 15)
 
 - Part 2 Bodies
 
@@ -30,4 +30,4 @@
 
   - 9. The Council of Europe Development Bank (formerly known as The Council of Europe Social Development Fund). (Replaced 4 of 2010 s. 19)
 
-  - 10. The African Development Bank. (Added L.N. 309 of 1997) (Added 17 of 1992 s. 3)
+  - 10. The African Development Bank. (Added L.N. 309 of 1997)

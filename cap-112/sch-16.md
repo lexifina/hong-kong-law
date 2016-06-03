@@ -1,10 +1,14 @@
 # Schedule 16
 
-[s. 20AC & Schs. 17A & 29] (Amended 10 of 2013 s. 19)
+[s. 20AC & Schs. 17A, 29 & 36] (Amended 10 of 2013 s. 19; 12 of 2016 s. 16)
 
 Specified Transactions
 
-- Part 1 (Added 13 of 2015 s. 11)
+(Schedule 16 added 4 of 2006 s. 5)
+
+- Part 1
+
+- (Added 13 of 2015 s. 11)
 
   - 1. a transaction in securities.
 
@@ -18,7 +22,9 @@ Specified Transactions
 
   - 6. a transaction in exchange-traded commodities.
 
-- Part 2 (Added 13 of 2015 s. 11)
+- Part 2
+
+- (Added 13 of 2015 s. 11)
 
   - 1. In this Schedule— (Amended 13 of 2015 s. 11)
 
@@ -104,4 +110,6 @@ Specified Transactions
 
     - special purpose vehicle (特定目的工具) has the meaning given by section 20ACA(2).
 
-  - (Added 13 of 2015 s. 11) (Schedule 16 added 4 of 2006 s. 5)
+  - (Added 13 of 2015 s. 11)
+
+  - 3. For the purposes of paragraphs (a), (b) and (c) of the definition of securities in section 1 of this Part, a regulatory capital security is treated as a bond. (Added 12 of 2016 s. 16)

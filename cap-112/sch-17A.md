@@ -4,19 +4,23 @@
 
 Specified Alternative Bond Scheme and its Tax Treatment
 
-Note— The following is an overview of the content of this Schedule and does not have legislative effect—
+(Schedule 17A added 10 of 2013 s. 4)
 
-- (a) This Schedule enables particular arrangements in a specified alternative bond scheme to be regarded as debt arrangements for the purposes of this Ordinance if certain conditions are met.
+Note—
 
-- (b) Sections 2 and 3 provide for the basic structure of an alternative bond scheme, which comprises a bond arrangement and an investment arrangement.
+The following is an overview of the content of this Schedule and does not have legislative effect—
 
-- (c) Under section 4, a specified alternative bond scheme is, in broad terms, an alternative bond scheme whose investment arrangement is always the same specified investment arrangement.
+  - (a) This Schedule enables particular arrangements in a specified alternative bond scheme to be regarded as debt arrangements for the purposes of this Ordinance if certain conditions are met.
 
-- (d) Different types of specified investment arrangements are set out in section 5. Sections 6 to 12 provide for the structures of those types of specified investment arrangements and for the calculation of the investment return under them. These provisions may be amended by notice published in the Gazette under section 23.
+  - (b) Sections 2 and 3 provide for the basic structure of an alternative bond scheme, which comprises a bond arrangement and an investment arrangement.
 
-- (e) Sections 13 to 20 provide for the conditions that must be met in order for the bond arrangement, and investment arrangement, in a specified alternative bond scheme to be regarded as debt arrangements for the purposes of this Ordinance. Sections 21 and 22 contain detailed provisions on the tax treatment of the arrangements.
+  - (c) Under section 4, a specified alternative bond scheme is, in broad terms, an alternative bond scheme whose investment arrangement is always the same specified investment arrangement.
 
-- (f) Sections 24 to 29 provide for record-keeping, notifications, assessments and other miscellaneous matters.
+  - (d) Different types of specified investment arrangements are set out in section 5. Sections 6 to 12 provide for the structures of those types of specified investment arrangements and for the calculation of the investment return under them. These provisions may be amended by notice published in the Gazette under section 23.
+
+  - (e) Sections 13 to 20 provide for the conditions that must be met in order for the bond arrangement, and investment arrangement, in a specified alternative bond scheme to be regarded as debt arrangements for the purposes of this Ordinance. Sections 21 and 22 contain detailed provisions on the tax treatment of the arrangements.
+
+  - (f) Sections 24 to 29 provide for record-keeping, notifications, assessments and other miscellaneous matters.
 
 - Part 1 Preliminary
 
@@ -24,9 +28,7 @@ Note— The following is an overview of the content of this Schedule and does no
 
     - (1) In this Schedule, an expression specified in column 1 of the Table below is to be construed in accordance with the section of this Schedule specified opposite to it in column 2 of the Table— Table
 
-    - Column 1 | Column 2
-
-    - Expression | Section
+    - Column 1 Expression | Column 2 Section
 
     - acquisition cost (取得成本) | 2
 
@@ -88,25 +90,25 @@ Note— The following is an overview of the content of this Schedule and does no
 
     - specified asset (指明資產)—
 
-    - (a) in relation to an alternative bond scheme; | 2
+    - (a) | in relation to an alternative bond scheme; | 2
 
-    - (b) in relation to a lease arrangement; | 6
+    - (b) | in relation to a lease arrangement; | 6
 
-    - (c) in relation to a profits sharing arrangement; | 7
+    - (c) | in relation to a profits sharing arrangement; | 7
 
-    - (d) in relation to a purchase and sale arrangement; | 8
+    - (d) | in relation to a purchase and sale arrangement; | 8
 
-    - (e) in relation to an agency arrangement | 9
+    - (e) | in relation to an agency arrangement | 9
 
     - specified asset transaction between O and BI (發起人——發債人指明資產交易)—
 
-    - (a) in relation to a lease arrangement; | 6(3)
+    - (a) | in relation to a lease arrangement; | 6(3)
 
-    - (b) in relation to a profits sharing arrangement; | 7(3)
+    - (b) | in relation to a profits sharing arrangement; | 7(3)
 
-    - (c) in relation to a purchase and sale arrangement; | 8(6)
+    - (c) | in relation to a purchase and sale arrangement; | 8(6)
 
-    - (d) in relation to an agency arrangement | 9(7)
+    - (d) | in relation to an agency arrangement | 9(7)
 
     - specified investment arrangement (指明投資安排) | 5
 
@@ -130,11 +132,11 @@ Note— The following is an overview of the content of this Schedule and does no
 
         - (a) is established solely for the purposes of the scheme or schemes (as the case requires); and
 
-        - (b) does not carry on any trade or activities except for the purposes of the scheme or schemes (as the case requires)
+        - (b) does not carry on any trade or activities except for the purposes of the scheme or schemes (as the case requires).
 
 - Part 2 Specified Alternative Bond Scheme and its Tax Treatment
 
-  - Division 1—Alternative Bond Scheme, Bond Arrangement and Investment Arrangement
+  - Division 1 Alternative Bond Scheme, Bond Arrangement and Investment Arrangement
 
     - 2. Alternative bond scheme, bond arrangement and investment arrangement
 
@@ -218,7 +220,7 @@ Note— The following is an overview of the content of this Schedule and does no
 
       - (b) the terms of the investment arrangement in the scheme are those as described of a specified investment arrangement in Division 2 of this Part, and have always been those as so described of the same specified investment arrangement.
 
-  - Division 2—Specified Investment Arrangements: Description and Calculation of Investment Return
+  - Division 2 Specified Investment Arrangements: Description and Calculation of Investment Return
 
     - 5. Specified investment arrangement The investment arrangement in an alternative bond scheme is a specified investment arrangement if it is—
 
@@ -452,23 +454,23 @@ Note— The following is an overview of the content of this Schedule and does no
 
       - If the formula is used for calculating the investment return paid under a specified investment arrangement in the period—
 
-      - A means—
+      - A | means—
 
-        - (a) for a lease arrangement, the total amount of specified income (referred to in section 6(1)(c) of this Schedule) paid under the arrangement in the period, plus any amount regarded under subsection (5)(b) as specified income paid under the arrangement in the period; or
+      - (a) | for a lease arrangement, the total amount of specified income (referred to in section 6(1)(c) of this Schedule) paid under the arrangement in the period, plus any amount regarded under subsection (5)(b) as specified income paid under the arrangement in the period; or
 
-        - (b) for a profits sharing arrangement, the total amount of specified return (referred to in section 7(1)(d) of this Schedule) paid under the arrangement in the period;
+      - (b) | for a profits sharing arrangement, the total amount of specified return (referred to in section 7(1)(d) of this Schedule) paid under the arrangement in the period;
 
-      - B means the specified proceeds of disposal paid under the arrangement in the period;
+      - B | means the specified proceeds of disposal paid under the arrangement in the period;
 
-      - C means the specified acquisition cost paid under the arrangement in the period;
+      - C | means the specified acquisition cost paid under the arrangement in the period;
 
-      - D means the total amount of any other sums paid by the originator to the bond-issuer under the arrangement in the period;
+      - D | means the total amount of any other sums paid by the originator to the bond-issuer under the arrangement in the period;
 
-      - E means—
+      - E | means—
 
-        - (a) for a lease arrangement, nil; or
+      - (a) | for a lease arrangement, nil; or
 
-        - (b) for a profits sharing arrangement, the total amount of any incentive fee (referred to in section 7(1)(e) of this Schedule) that is paid by the bond-issuer to the originator under the arrangement in the period.
+      - (b) | for a profits sharing arrangement, the total amount of any incentive fee (referred to in section 7(1)(e) of this Schedule) that is paid by the bond-issuer to the originator under the arrangement in the period.
 
       - (4) In this section, in relation to a specified investment arrangement in a specified alternative bond scheme—
 
@@ -528,13 +530,13 @@ Note— The following is an overview of the content of this Schedule and does no
 
       - If the formula is used for calculating the investment return paid under a purchase and sale arrangement in the period—
 
-      - A means—
+      - A | means—
 
-        - (a) for a purchase and sale arrangement described in section 8(2) of this Schedule, the markup referred to in that section, or part of it, that is paid under the arrangement in the period; or
+      - (a) | for a purchase and sale arrangement described in section 8(2) of this Schedule, the markup referred to in that section, or part of it, that is paid under the arrangement in the period; or
 
-        - (b) for a purchase and sale arrangement described in section 8(3) of this Schedule, the total amount of the markups referred to in section 8(4)(b) of this Schedule paid under the arrangement in the period;
+      - (b) | for a purchase and sale arrangement described in section 8(3) of this Schedule, the total amount of the markups referred to in section 8(4)(b) of this Schedule paid under the arrangement in the period;
 
-      - B means the total amount of any other sums paid by the originator to the bond-issuer under the arrangement in the period.
+      - B | means the total amount of any other sums paid by the originator to the bond-issuer under the arrangement in the period.
 
       - (3) If the formula is used for calculating the investment return payable under a purchase and sale arrangement in the period, A and B have the meaning given by subsection (2), except that a reference in that subsection to paid is to be read as payable.
 
@@ -542,11 +544,17 @@ Note— The following is an overview of the content of this Schedule and does no
 
       - (1) The investment return paid or payable under an agency arrangement in a period in the specified term is to be calculated in accordance with the following formula— A + B – C
 
-      - (2) If the formula is used for calculating the investment return paid under an agency arrangement in the period— A means the total amount of specified return (referred to in section 9(1)(c) of this Schedule) paid under the arrangement in the period; B means the total amount of any other sums paid by the originator to the bond-issuer under the arrangement in the period; C means the total amount of any agency fee and incentive fee (referred to in section 9(1)(c) of this Schedule) that is paid by the bond-issuer to the originator under the arrangement in the period.
+      - (2) If the formula is used for calculating the investment return paid under an agency arrangement in the period—
+
+      - A | means the total amount of specified return (referred to in section 9(1)(c) of this Schedule) paid under the arrangement in the period;
+
+      - B | means the total amount of any other sums paid by the originator to the bond-issuer under the arrangement in the period;
+
+      - C | means the total amount of any agency fee and incentive fee (referred to in section 9(1)(c) of this Schedule) that is paid by the bond-issuer to the originator under the arrangement in the period.
 
       - (3) If the formula is used for calculating the investment return payable under an agency arrangement in the period, A, B and C have the meaning given by subsection (2), except that a reference in that subsection to paid is to be read as payable.
 
-  - Division 3—Qualified Bond Arrangement, and Qualified Investment Arrangement, in Specified Alternative Bond Scheme Regarded as Debt Arrangements
+  - Division 3 Qualified Bond Arrangement, and Qualified Investment Arrangement, in Specified Alternative Bond Scheme Regarded as Debt Arrangements
 
     - 13. Qualified bond arrangement, and qualified investment arrangement, in specified alternative bond scheme
 
@@ -614,7 +622,15 @@ Note— The following is an overview of the content of this Schedule and does no
 
       - (5) For the purposes of this section, the bond return paid or payable under a bond arrangement in a period in the specified term is to be calculated in accordance with the following formula— (A – (B x A / C)) + D
 
-      - (6) If the formula is used for calculating the bond return paid under a bond arrangement in the period— A is the amount of the redemption payment or part of it that is paid under the arrangement in the period; B is the whole amount of the bond proceeds under the arrangement; C is the whole amount of the redemption payment under the arrangement; D is the total amount of additional payments paid under the arrangement in the period.
+      - (6) If the formula is used for calculating the bond return paid under a bond arrangement in the period—
+
+      - A | is the amount of the redemption payment or part of it that is paid under the arrangement in the period;
+
+      - B | is the whole amount of the bond proceeds under the arrangement;
+
+      - C | is the whole amount of the redemption payment under the arrangement;
+
+      - D | is the total amount of additional payments paid under the arrangement in the period.
 
       - (7) If the formula is used for calculating the bond return payable under a bond arrangement in the period, A, B, C and D have the meaning given by subsection (6), except that a reference in that subsection to paid is to be read as payable.
 
@@ -696,7 +712,7 @@ Note— The following is an overview of the content of this Schedule and does no
 
         - (c) if an alternative bond is for the purposes of section 14A of this Ordinance regarded as a debt instrument because of paragraphs (a) and (b), the making of the redemption payment for the alternative bond is to be regarded as the redemption on maturity or presentment of a debt instrument.
 
-      - (4) For the purposes of section 15(1)(j), (k) and (l) of this Ordinance—
+      - (4) For the purposes of section 15(1)(j), (k), (l) and (la) of this Ordinance— (Amended 12 of 2016 s. 10)
 
         - (a) if the rights in an alternative bond under the qualified bond arrangement are transferable by delivery of the alternative bond, with or without endorsement, the alternative bond is to be regarded as a certificate of deposit; and
 
@@ -770,7 +786,7 @@ Note— The following is an overview of the content of this Schedule and does no
 
           - (ii) the bond-issuer as conduit condition.
 
-  - Division 4—Miscellaneous
+  - Division 4 Miscellaneous
 
     - 23. Power to amend Division 2 of this Part, etc. The Financial Secretary may, by notice published in the Gazette—
 
@@ -928,4 +944,4 @@ Note— The following is an overview of the content of this Schedule and does no
 
       - (b) it is proved to the satisfaction of the Commissioner that there was a reasonable excuse for the delay.
 
-  - 29. Commissioner may apportion acquisition cost For the purposes of calculating, under Division 2 of Part 2 of this Schedule, the investment return under a specified investment arrangement in a specified alternative bond scheme under which the specified asset is or is to be disposed of in parts, the Commissioner may allocate a part of the acquisition cost as attributable to each part of the specified asset having regard to all the circumstances of the scheme. (Schedule 17A added 10 of 2013 s. 4)
+  - 29. Commissioner may apportion acquisition cost For the purposes of calculating, under Division 2 of Part 2 of this Schedule, the investment return under a specified investment arrangement in a specified alternative bond scheme under which the specified asset is or is to be disposed of in parts, the Commissioner may allocate a part of the acquisition cost as attributable to each part of the specified asset having regard to all the circumstances of the scheme.
