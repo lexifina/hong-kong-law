@@ -32,6 +32,8 @@ Cheshire Home, Shatin (沙田慈氏護養院)
 
 ELCHK, Grace Court (基督教香港信義會恩頤居) (Added L.N. 56 of 2011)
 
+ELCHK, Serene Court (基督教香港信義會恩海居) (Added L.N. 45 of 2016)
+
 Evangel Hospital (播道醫院)
 
 Evergreen Nursing Home Cum Day Care Centre (松悅園耆欣護養院暨日間護理中心)
@@ -86,7 +88,7 @@ Kwai Chung Hospital (葵涌醫院)
 
 Kwong Wah Hospital (廣華醫院)
 
-Lions Kidney Educational Centre and Research Foundation Chan Wong Sau Wah Memorial Renal Dialysis Centre (國際獅子會腎病教育中心及研究基金陳黃秀華紀念洗腎中心)
+Lions Kidney Educational Centre and Research Foundation—Chan Wong Sau Wah Memorial Renal Dialysis Centre (國際獅子會腎病教育中心及研究 基金——陳黃秀華紀念洗腎中心) (Replaced L.N. 45 of 2016)
 
 Lions Kidney Educational Centre and Research Foundation—Chinachem Group Renal Dialysis Centre (國際獅子會腎病教育中心及研究基金——華懋集團洗腎中心) (Replaced L.N. 236 of 2015)
 
@@ -112,7 +114,7 @@ Pamela Youde Nethersole Eastern Hospital (東區尤德夫人那打素醫院)
 
 Po Leung Kuk Comfort Court for the Senior (保良局樂安居)
 
-Po Leung Kuk Eco-Home for the Senior (保良局癸未年樂頤居)
+Po Leung Kuk Eco-Home for the Senior cum Sunny Green Day Care Centre for the Senior (保良局癸未年樂頤居暨耆安長者日間護理中心) (Replaced L.N. 45 of 2016)
 
 Po Leung Kuk Fuk Wai Home for the Elderly (保良局福慧護老院) (Replaced L.N. 236 of 2015)
 
@@ -120,7 +122,7 @@ Po Leung Kuk Kwok Law Kwai Chun Home for the Elderly (保良局郭羅桂珍護�
 
 Po Leung Kuk Merry Court for the Senior (保良局壬午年耆樂居) (Added L.N. 101 of 2013)
 
-Po Leung Kuk Sai Ying Pun Home for the Elderly cum Day Care Centre (保良局西營盤護老院暨長者日間護理中心) (Added L.N. 236 of 2015)
+Po Leung Kuk Sai Ying Pun Home for the Elderly cum Day Care Centre for the Elderly (保良局西營盤護老院暨長者日間護理中心) (Replaced L.N. 45 of 2016)
 
 Po Leung Kuk Tai Kok Tsui Home for the Elderly cum Cherish Day Care Centre for the Elderly (保良局大角咀護老院暨耆順長者日間護理中心) (Added L.N. 101 of 2013)
 
@@ -143,8 +145,6 @@ Princess Margaret Hospital (瑪嘉烈醫院)
 Queen Elizabeth Hospital (伊利沙伯醫院)
 
 Queen Mary Hospital (瑪麗醫院)
-
-Rehabaid Centre (復康專科及資源中心)
 
 Ruttonjee Hospital (律敦治醫院)
 
@@ -175,6 +175,8 @@ The Hong Kong Anti-Cancer Society Jockey Club Cancer Rehabilitation Centre (香�
 The Methodist Church, Hong Kong Yang Memorial Methodist Social Service Sham Shui Po Nursing Home cum Day Care Service (香港基督教循道衛理聯合教會循道衛理楊震社會服務處深水埗護養院暨日間護理服務) (Added L.N. 236 of 2015)
 
 The Prince Philip Dental Hospital (菲臘牙科醫院)
+
+Tin Shui Wai Hospital (天水圍醫院) (Added L.N. 45 of 2016)
 
 True Light Home for the Aged (真光護老之家)
 
@@ -226,4 +228,4 @@ Yuen Yuen Nursing Home cum Day Care Centre for the Elderly (Shun Lee Estate) (�
 
 Yuen Yuen Nursing Home (Sau Mau Ping Estate) (圓玄護養院(秀茂坪邨))
 
-(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010; L.N. 101 of 2013; L.N. 236 of 2015) (Format changes—E.R. 2 of 2014)
+(Schedule 2 replaced L.N. 187 of 1992. Amended L.N. 64 of 2010; L.N. 101 of 2013; L.N. 236 of 2015; L.N. 45 of 2016) (Format changes—E.R. 2 of 2014)
