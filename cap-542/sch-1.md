@@ -94,7 +94,7 @@ Item | Body
 
 44. | (Repealed 25 of 2003 s. 43)
 
-45. | Sai Kung Fishermen Association Limited.
+45. | (Repealed 15 of 2016 s. 11)
 
 46. | Sai Kung (North) Sham Wan Marine Fish Culture Business Association.
 

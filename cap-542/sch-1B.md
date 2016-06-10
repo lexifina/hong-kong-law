@@ -102,7 +102,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 8. | (Repealed 25 of 2003 s. 45)
 
-- 9. | HK Film Directors’ Guild Ltd.
+- 9. | Hong Kong Film Directors’ Guild Limited. (Amended 15 of 2016 s. 13)
 
 - 10. | Hong Kong Anthropological Society.
 
@@ -128,7 +128,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 21. | Hong Kong Federation of Journalists Ltd.
 
-- 22. | Hong Kong Festival Fringe Ltd.
+- 22. | Hong Kong Festival Fringe Limited. (Amended 15 of 2016 s. 13)
 
 - 23. | Hong Kong Film Academy.
 
@@ -150,9 +150,9 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 32. | Hong Kong News Executives’ Association, Limited. (Replaced 25 of 2003 s. 45)
 
-- 33. | Hong Kong PEN (English) Centre.
+- 33. | Hong Kong P.E.N. (English) Centre. (Amended 15 of 2016 s. 13)
 
-- 34. | Hong Kong Performing Artistes Guild Ltd.
+- 34. | Hong Kong Performing Artistes Guild Limited. (Amended 15 of 2016 s. 13)
 
 - 35. | Hong Kong Philharmonic Orchestra.
 
@@ -162,19 +162,19 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 38. | Hong Kong Repertory Theatre Limited. (Replaced 25 of 2003 s. 45)
 
-- 39. | Hong Kong Screen Writers’ Guild Ltd.
+- 39. | Hong Kong Screen Writers’ Guild Limited. (Amended 15 of 2016 s. 13)
 
 - 40. | Hong Kong Sports Association of the Deaf.
 
 - 41. | Hong Kong Sports Press Association Ltd.
 
-- 42. | Hong Kong Stuntman Association Ltd.
+- 42. | Hong Kong Stuntman Association Limited. (Amended 15 of 2016 s. 13)
 
 - 43. | Hong Kong Tai Chi Association.
 
 - 44. | (Repealed 25 of 2003 s. 45)
 
-- 45. | Hong Kong United Arts Entertainment Co. Ltd.
+- 45. | Hong Kong United Arts Entertainment Company Limited. (Amended 15 of 2016 s. 13)
 
 - 46-47. | (Repealed 25 of 2003 s. 45)
 
@@ -182,7 +182,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 49. | (Repealed 25 of 2003 s. 45)
 
-- 50. | The New Territories Regional Sports Association. (Replaced 11 of 2012 s. 37)
+- 50. | The New Territories Regional Sports Association. (Amended 11 of 2012 s. 37)
 
 - 51. | The Newspaper Society of Hong Kong.
 
@@ -194,7 +194,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 55. | Society of Cinematographers (Hong Kong) Limited.
 
-- 56. | Society of Film Editors (HK) Ltd.
+- 56. | Society of Film Editors (Hong Kong) Limited. (Amended 15 of 2016 s. 13)
 
 - 57. | South China Film Industry Workers’ Union. (Amended 10 of 2006 s. 44)
 
@@ -204,7 +204,7 @@ Composition of the Sports, Performing Arts, Culture and Publication Functional C
 
 - 60. | (Repealed 25 of 2003 s. 45)
 
-- 61. | Videotage.
+- 61. | Videotage Limited. (Amended 15 of 2016 s. 13)
 
 - 62. | Zuni Icosahedron.
 

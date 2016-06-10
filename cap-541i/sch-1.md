@@ -1,14 +1,10 @@
 # SCHEDULE 1
 
-[ss. 63 & 88]
+[ss. 1A, 63 & 88] (15 of 2016 s. 20)
 
 POSTPONEMENT AND ADJOURNMENT OF SUBSECTOR ELECTIONS
 
-- 1. Postponement of subsector election and adjournment
-
-- of poll or counting of votes in respect of
-
-- subsector election
+- 1. Postponement of subsector election and adjournment of poll or counting of votes in respect of subsector election
 
   - (1) If, during or before a subsector election, it appears to the Commission that the subsector election is likely to be obstructed, disrupted, undermined or seriously affected by an occurrence specified in subsection (3), the Commission may postpone the subsector election by making a declaration under section 3.
 
@@ -18,7 +14,7 @@ POSTPONEMENT AND ADJOURNMENT OF SUBSECTOR ELECTIONS
 
     - (a) a typhoon or other climatic condition of a serious nature;
 
-    - (b) riot, open violence or other occurrence of public danger; or
+    - (b) riot, open violence or any danger to public health or safety; or (15 of 2016 s. 51)
 
     - (c) an occurrence which appears to the Commission to be a material irregularity relating to the subsector election, the poll or the counting of votes.
 
@@ -30,13 +26,11 @@ POSTPONEMENT AND ADJOURNMENT OF SUBSECTOR ELECTIONS
 
     - (a) a typhoon or other climatic condition of a serious nature;
 
-    - (b) riot, open violence or other occurrence of public danger; or
+    - (b) riot, open violence or any danger to public health or safety; or (15 of 2016 s. 52)
 
     - (c) an occurrence which appears to the Presiding Officer to be a material irregularity relating to the subsector election or the poll.
 
-- 3. How declaration for purposes of sections 1 and 2 is to
-
-- be made and what it is to contain
+- 3. How declaration for purposes of sections 1 and 2 is to be made and what it is to contain
 
   - (1) A declaration for the purposes of sections 1 and 2 is to be made by a notice published in the Gazette. If publication in the Gazette is not practicable in the circumstances, the notice may be published by other means determined by the Commission.
 
@@ -78,17 +72,13 @@ POSTPONEMENT AND ADJOURNMENT OF SUBSECTOR ELECTIONS
 
     - In this section, “Returning Officer” (選舉主任) means a Returning Officer specified by the Chief Electoral Officer for the purposes of this section.
 
-- 6. Appointment of date by Commission for subsector
-
-- election, polling or counting after postponement
-
-- or adjournment
+- 6. Appointment of date by Commission for subsector election, polling or counting after postponement or adjournment
 
   - (1) If a subsector election is postponed under this Schedule, the Commission is to, as soon as practicable after the postponement, appoint a date for holding a subsector election.
 
   - (2) If the poll or the counting of votes is adjourned under this Schedule, the Commission is to, as soon as practicable after the adjournment, appoint a date for holding the poll or the counting of votes.
 
-  - (3) If the postponement or adjournment is due to a reason referred to in section 1(3)(a) or (b) or 2(2)(a) or (b), the appointed date must not be later than 14 days after the date on which the postponed subsector election or the adjourned poll or counting would have been held. If the postponement or adjournment is due to the reason referred to in section 1(3)(c) or 2(2)(c), the appointed date must not be later than 2 days after the date on which the postponed subsector election or adjourned poll or counting would have been held.
+  - (3) A date appointed under this section must not be later than 14 days after the date on which the postponed subsector election or the adjourned poll or counting would have been held. (15 of 2016 s. 53)
 
   - (4) In each case referred to in sections 1 and 2, the Commission is to, in the relevant notice making the declaration, specify the date appointed under this section to hold the relevant subsector election, the poll or the counting of votes, as the case may require.
 

@@ -96,7 +96,7 @@ Item | Body
 
 45. | Hong Kong Container Tractor Owner Association Ltd.
 
-46. | Hong Kong Driving Instructors’ Association. (Replaced 11 of 2012 s. 36)
+46. | Hong Kong Driving Instructors’ Association. (Amended 11 of 2012 s. 36)
 
 47. | Hong Kong Guangdong Transportation Association Ltd.
 
@@ -178,7 +178,7 @@ Item | Body
 
 86. | Lei Yue Mun Ko Chiu Road Public Light Bus Merchants Association Ltd.
 
-87. | Lok Ma Chau China-Hong Kong Freight Association.
+87. | Lok Ma Chau China—Hong Kong Freight Association.
 
 88. | Long Win Bus Company Limited.
 
@@ -192,7 +192,7 @@ Item | Body
 
 93. | MTR Corporation Limited. (Amended 13 of 2000 s. 65)
 
-94. | Merchant Navy Officers’ Guild-Hong Kong.
+94. | Merchant Navy Officers’ Guild—Hong Kong.
 
 95. | Metropark Limited.
 
@@ -234,7 +234,7 @@ Item | Body
 
 114. | (Repealed 25 of 2003 s. 44)
 
-115. | Private Hire Car for Young Children Association Ltd.
+115. | (Repealed 15 of 2016 s. 12)
 
 116. | Public and Private Light Buses Driving Instructors’ Society.
 
@@ -248,7 +248,7 @@ Item | Body
 
 121. | Quadripartite Taxi Service Association Ltd.
 
-122. | Abbo Taxi Owners’ Association Limited. (Amended 10 of 2006 s. 43)
+122. | (Repealed 15 of 2016 s. 12)
 
 123. | River Trade Terminal Co. Ltd.
 
@@ -280,7 +280,7 @@ Item | Body
 
 137. | Taxi Dealers & Owners Association Ltd.
 
-138. | Taxi Drivers & Operators Association Ltd.
+138. | (Repealed 15 of 2016 s. 12)
 
 139. | The Taxi Operators Association Ltd.
 
@@ -298,7 +298,7 @@ Item | Body
 
 146. | United Friendship Taxi Owners & Drivers Association Ltd.
 
-147. | United Radio Taxi & Goods Vehicle Association Ltd.
+147. | (Repealed 15 of 2016 s. 12)
 
 148. | (Repealed 14 of 2015 s. 11)
 
@@ -322,13 +322,13 @@ Item | Body
 
 158. | Xiamen United Enterprises (H.K.) Ltd.
 
-159. | Yik Sun Radiocabs Operators Association Ltd.
+159. | (Repealed 15 of 2016 s. 12)
 
 160. | School Buses Operators Association Limited. (Amended 10 of 2006 s. 43)
 
 161. | (Repealed 10 of 2006 s. 47)
 
-162. | Rights of Taxi Owners and Drivers Association Limited. (Added 25 of 2003 s. 44)
+162. | (Repealed 15 of 2016 s. 12)
 
 163. | New World First Ferry Services Limited. (Added 25 of 2003 s. 44)
 
@@ -396,7 +396,7 @@ Item | Body
 
 195. | New World Parking Management Limited. (Added 25 of 2003 s. 44)
 
-196. | The Nautical Institute-Hong Kong Branch. (Added 25 of 2003 s. 44)
+196. | The Nautical Institute—Hong Kong Branch. (Added 25 of 2003 s. 44)
 
 197. | (Repealed 11 of 2012 s. 36)
 
@@ -404,7 +404,7 @@ Item | Body
 
 199. | NT Taxi Operations Union. (Added 2 of 2011 s. 33)
 
-200. | Sun Hing Taxi Radio Service General Association. (Added 2 of 2011 s. 33)
+200. | Sun Star Taxi Operators Association. (Added 2 of 2011 s. 33. Amended 15 of 2016 s. 12)
 
 201. | Taxi & P.L.B. Concern Group. (Added 2 of 2011 s. 33)
 

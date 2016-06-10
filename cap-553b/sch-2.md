@@ -44,9 +44,9 @@ Item | Enactment | Provision
 
 18A. | Electoral Affairs Commission (Nominations Advisory Committees (Election Committee)) Regulation (Cap. 541 sub. leg. H) | Section 6(4) (L.N. 268 of 2001)
 
-18B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg. I) | Sections 7(4), 8(6) and (7), 17(2), 23(6) and (9), 25(4) and (9), 42(8) and (10), 64(8) and (10) and 99(2)(b) (L.N. 268 of 2001; 11 of 2012 s. 24)
+18B. | Electoral Affairs Commission (Electoral Procedure) (Election Committee) Regulation (Cap. 541 sub. leg. I) | Section 7(4), section 8(6) and (7), section 17(2), section 42(8) and (10) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on polling day), section 64(8) and (10) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Returning Officer on polling day) and section 99(2)(b) (L.N. 268 of 2001; 11 of 2012 s. 24; 15 of 2016 s. 49)
 
-18C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg. J) | Sections 4(1), 9(2), 14(3) and (5), 25(5) and (7), 44(4) and (6) and 80(2) (L.N. 282 of 2001; 11 of 2012 s. 24)
+18C. | Electoral Procedure (Chief Executive Election) Regulation (Cap. 541 sub. leg. J) | Section 4(1), section 9(2), section 25(5) and (7) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Presiding Officer on the polling date), section 44(4) and (6) (to the extent to which it relates to a notice of appointment, or a notice of revocation, delivered to the Returning Officer on the polling date) and section 80(2) (L.N. 282 of 2001; 11 of 2012 s. 24; 15 of 2016 s. 49)
 
 19. | Legislative Council Ordinance (Cap. 542) | Sections 13(2), 14(2), 40(2) and 42(2) (21 of 2001 s. 76)
 
