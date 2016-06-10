@@ -1,4 +1,4 @@
-# Schedule 3
+# SCHEDULE 3
 
 [para. 2]
 
@@ -22,7 +22,9 @@
 
 - 13. (Repealed L.N. 275 of 1988)
 
-- 14. (Repealed L.N. 137 of 1992) 15-20. (Repealed L.N. 14 of 2010)
+- 14. (Repealed L.N. 137 of 1992)
+
+- 15-20. (Repealed L.N. 14 of 2010)
 
 - 21. The area of the 2nd floor, Central Government Pier, Road D3, New Central Reclamation Area, Central, occupied by the Immigration Department set aside as a detention room. (L.N. 391 of 1995)
 
@@ -39,3 +41,5 @@
 - 27. The area within the Clearance Area of the Shenzhen Bay Port Hong Kong Port Area that is set aside as detention quarters for use by the Immigration Department. (L.N. 72 of 2007)
 
 - 28. Castle Peak Bay Immigration Centre at 84 Castle Peak Road, Tuen Mun. (L.N. 14 of 2010)
+
+- 29. The area within the Kai Tak Cruise Terminal that is set aside as detention quarters for use by the Immigration Department. (19 of 2016 s. 28)

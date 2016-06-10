@@ -29,3 +29,5 @@
 - 13. The area within the Lok Ma Chau Spur Line Control Point that is set aside as detention quarters for use by the Immigration Department. (L.N. 71 of 2007)
 
 - 14. The area within the Clearance Area of the Shenzhen Bay Port Hong Kong Port Area that is set aside as detention quarters for use by the Immigration Department. (L.N. 73 of 2007)
+
+- 15. The area within the Kai Tak Cruise Terminal that is set aside as detention quarters for use by the Immigration Department. (19 of 2016 s. 28)
