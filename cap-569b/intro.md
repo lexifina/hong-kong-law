@@ -6,8 +6,4 @@ Election Committee (Registration) (Voters for Subsectors) (Members of Election C
 
 [16 November 2001]
 
-(*Format changes—E.R. 1 of 2012)
-
-Editorial Note:
-
-* The format of the Regulation has been updated to the current legislative styles.
+(Format changes—E.R. 1 of 2012)
