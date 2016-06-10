@@ -1,3 +1,7 @@
+Editorial Note:
+
+* Commencement date: 10 June 2016.
+
 # Schedule
 
 [s. 37A]
