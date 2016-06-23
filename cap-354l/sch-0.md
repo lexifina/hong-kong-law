@@ -46,7 +46,7 @@ Item | Name | Address | Boundaries delineated by drawing number/plan number
 
 20. | Tseung Kwan O Area 137 Temporary Construction Waste Sorting Facility | Southern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-2 (L.N. 165 of 2004)
 
-21. | Tseung Kwan O Area 137 Fill Bank | Eastern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-3 (L.N. 165 of 2004)
+21. | Tseung Kwan O Area 137 Fill Bank | Eastern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-3-A (L.N. 165 of 2004; L.N. 49 of 2016)
 
 22. | Tuen Mun Area 38 Fill Bank | Tuen Mun Area 38, near River Trade Terminal, Tuen Mun, N.T. | Plan number P 20332-4 (L.N. 165 of 2004)
 
