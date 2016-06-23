@@ -10,9 +10,9 @@ CHARGES FOR DISPOSAL OF CONSTRUCTION WASTE AT PUBLIC FILL RECEPTION FACILITIES
 
 Item | Name | Address | Number of drawing or plan held by the Director by which boundaries of the facility are delineated
 
-1. | Tseung Kwan O Area 137 Fill Bank | Eastern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-3
+1. | Tseung Kwan O Area 137 Fill Bank | Eastern side of Tseung Kwan O Area 137, N.T. | Plan number P 20332-3-A (L.N. 50 of 2016)
 
-2. | Tuen Mun Area 38 Fill Bank | Tuen Mun Area 38, near River Trade Terminal, Tuen Mun, N.T. | Plan number P 20332-4
+2. | Tuen Mun Area 38 Fill Bank | Tuen Mun Area 38, near River Trade Terminal,Tuen Mun, N.T. | Plan number P 20332-4
 
 [3. | Sai Ying Pun Temporary Public Filling Barging Point | Eastern Street North, Sai Ying Pun, Hong Kong. | Plan number P 20332-5]
 
@@ -28,16 +28,16 @@ Item | Name | Address | Number of drawing or plan held by the Director by which 
 
 - The public fill charge payable in respect of each load of construction waste delivered to a public fill reception facility for disposal is calculated as follows—
 
-- (a) | For a load of waste weighing 1 tonne or less . | Charge $27
+- (a) | For a load of waste weighing 1 tonne or less | Charge $27
 
-- (b) | For a load of waste weighing more than 1 tonne . | $2.7 per 0.1 tonne*
+- (b) | For a load of waste weighing more than 1 tonne | $2.7 per 0.1 tonne*
 
-- (c) | For a load of waste the ascertainment of the weight of which, in the Director’s opinion, is impracticable or will cause public health problems . | $27
+- (c) | For a load of waste the ascertainment of the weight of which, in the Director’s opinion, is impracticable or will cause public health problems | $27
 
-- (d) | For each load of waste delivered by a vessel approved under Part 4 . | $2.7 for every 0.1 tonne of the maximum load of the vessel*
+- (d) | For each load of waste delivered by a vessel approved under Part 4 | $2.7 for every 0.1 tonne of the maximum load of the vessel*
 
-- * In ascertaining the weight of a load of waste for the purpose of calculating the charge payable under item (b) or (d)—
+- * | In ascertaining the weight of a load of waste for the purpose of calculating the charge payable under item (b) or (d)—
 
-  - (i) any fraction of 0.1 tonne that is less than 0.05 tonne shall be disregarded; and
+- (i) | any fraction of 0.1 tonne that is less than 0.05 tonne shall be disregarded; and
 
-- (ii) any fraction of 0.1 tonne that is not less than 0.05 tonne shall be regarded as 0.1 tonne.
+- (ii) | any fraction of 0.1 tonne that is not less than 0.05 tonne shall be regarded as 0.1 tonne.
