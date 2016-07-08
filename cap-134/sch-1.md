@@ -266,6 +266,8 @@
 
     - Salvinorin-A (Added L.N. 101 of 2012)
 
+    - Tapentadol (Added L.N. 58 of 2016)
+
     - Temazepam
 
     - Tetrazepam
@@ -305,6 +307,8 @@
     - 4-Cyano-2-dimethylamino-4, 4-diphenylbutane
 
     - 4-Cyano-1-methyl-4-phenylpiperidine
+
+    - 3,4-Dichloro-N-[[1- (dimethylamino)cyclohexyl]methyl]benzamide (Added L.N. 58 of 2016)
 
     - [2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1, 2, 3-de]-1,4-benzoxazin-6-yl]-1-naphthalenylmethanone (Added L.N. 7 of 2011)
 
