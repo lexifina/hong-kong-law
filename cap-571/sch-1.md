@@ -1,6 +1,6 @@
 # Schedule 1
 
-[ss. 2, 19, 66, 101A, 102, 164, 171, 174, 175, 202, 381E, 392A & 406 & Schs. 9 & 10] (Amended 8 of 2011 s. 14;6 of 2014 s. 52)
+[ss. 2, 19, 66, 101A, 102, 164, 171, 174, 175, 202, 381E, 392A & 406 & Schs. 9 & 10] (Amended 8 of 2011 s. 14; 6 of 2014 s. 52)
 
 Interpretation and General Provisions
 
@@ -1347,6 +1347,8 @@ Interpretation and General Provisions
   - 6. The International Bank for Reconstruction and Development (commonly known as the World Bank)
 
   - 7. The International Finance Corporation (an affiliate of the World Bank)
+
+  - 8. The Asian Infrastructure Investment Bank (Added L.N. 59 of 2016)
 
 - Part 5 Qualifying Credit Rating
 
