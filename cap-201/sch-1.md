@@ -258,6 +258,10 @@ Public Bodies
 
 - 125. HK Television Entertainment Company Limited. (Added L.N. 84 of 2015)
 
+- 129. Hong Kong Green Building Council Limited. (Added L.N. 67 of 2016)
+
+- 130. BEAM Society Limited. (Added L.N. 67 of 2016)
+
 (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
