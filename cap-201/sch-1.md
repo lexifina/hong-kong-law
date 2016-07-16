@@ -262,6 +262,8 @@ Public Bodies
 
 - 130. BEAM Society Limited. (Added L.N. 67 of 2016)
 
+- 131. Fantastic Television Limited. (Added L.N. 93 of 2016)
+
 (Replaced L.N. 272 of 1974) (Format changes—E.R. 1 of 2012)
 
 Editorial Note:
