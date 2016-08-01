@@ -120,7 +120,7 @@
 
 - 59. The first floor of Lei Yue Mun Municipal Services Building, 6 Lei Yue Mun Path, Kwun Tong, Kowloon. (L.N. 145 of 2008)
 
-- 60. The building known as the Hong Kong Central Library at 66 Causeway Road, Causeway Bay, Hong Kong, together with the footbridge connected to that building and the strctures associated with the footbridge, but excluding the Lecture Theatre, the Exhibition Gallery, Activity Room 1, Activity Room 2, the Book and Gift Shop and the Cafeteria in that building. (L.N. 245 of 2002)
+- 60. The building known as the Hong Kong Central Library at 66 Causeway Road, Causeway Bay, Hong Kong, together with the footbridge connected to that building and the structures associated with the footbridge, but excluding the Lecture Theatre, the Exhibition Gallery, Activity Room 1, Activity Room 2, the Book and Gift Shop and the Cafeteria in that building. (L.N. 245 of 2002)
 
 - 61. 9 Wan Lung Road, Tseung Kwan O. (L.N. 138 of 2001)
 
@@ -146,4 +146,10 @@
 
 - 72. The fifth and sixth floors of Lam Tin Complex, 1 Hing Tin Street, Lam Tin, Kwun Tong. (L.N. 150 of 2012; L.N. 12 of 2013)
 
-- 73. 4 Chui Ling Road, Tseung Kwan O, Sai Kung. (L.N. 152 of 2014) (Schedule replaced 78 of 1999 s. 7)
+- 73. 4 Chui Ling Road, Tseung Kwan O, Sai Kung. (L.N. 152 of 2014)
+
+- 74. Shop Nos. G15 and G16, Ground Floor, Dawning Views Shopping Plaza, 23 Yat Ming Road, Fanling. (L.N. 87 of 2016)
+
+- 75. The ground floor, Room 201 of the second floor, and the third to fifth floors of the High Block of Yuen Chau Kok Complex, 35 Ngan Shing Street, Sha Tin. (L.N. 87 of 2016)
+
+(Schedule replaced 78 of 1999 s. 7)
