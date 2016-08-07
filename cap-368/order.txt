@@ -25,4 +25,7 @@ s-020.md
 s-021.md
 s-022.md
 s-022A.md
-sch.md
+s-023.md
+s-024.md
+sch-1.md
+sch-2.md

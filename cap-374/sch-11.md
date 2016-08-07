@@ -4,6 +4,6 @@
 
 Offences Specified for the Purposes of Section 72A
 
-Any offence mentioned in the Schedule to the Road Traffic (Driving-offence Points) Ordinance (Cap. 375) other than an offence mentioned in item 1, 1A, 2, 4, 4A, 4B, 4C, 5, 5B, 6, 8, 9, 10, 11, 13, 14, 15, 18, 19, 20, 28, 28A, 28D, 29, 32, 33, 33A, 33D, 34, 37A, 37D, 37G, 37J, 37K, 38, 42, 43, 46, 47, 49A, 49D, 49G, 49J, 49K, 50, 54, 55, 58 or 59 of that Schedule.
+Any offence mentioned in the Schedule to the Road Traffic (Driving-offence Points) Ordinance (Cap. 375) other than an offence mentioned in item 1, 1A, 2, 4, 4A, 4B, 4C, 5, 5B, 6, 8, 9, 10, 11, 13, 14, 15, 18, 19, 20, 33, 33A, 33D, 34, 37A, 37D, 37G, 37J, 37K, 38, 42, 43, 46, 47, 49A, 49D, 49G, 49J, 49K, 50, 54, 55, 58 or 59 of that Schedule.
 
-(Schedule 11 added 3 of 2002 s. 6. Amended 23 of 2008 s. 22; 19 of 2010 s. 23; L.N. 100 of 2013)
+(Schedule 11 added 3 of 2002 s. 6. Amended 23 of 2008 s. 22; 19 of 2010 s. 23; L.N. 100 of 2013; 7 of 2016 s. 24)

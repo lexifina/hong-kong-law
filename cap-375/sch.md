@@ -80,27 +80,11 @@ Road Tunnels (Government) Regulations (Cap. 368 sub. leg. A)
 
 23 - 27 | (Repealed L.N. 198 of 1999)
 
-Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E)
+28A | (Repealed 7 of 2016 s. 25)
 
-28 | By-law 8 | Crossing continuous double lines inside road tunnel | 3
+28A - 28D | (Repealed 7 of 2016 s. 25)
 
-28A | By-law 10(1) | Driving in excess of the speed limit indicated by a prescribed traffic sign by more than 15 kilometres an hour, other than where item 28B or 28C applies | 3
-
-28B | By-law 10(1) | Driving in excess of the speed limit indicated by a prescribed traffic sign by more than 30 kilometres an hour, other than where item 28C applies | 5
-
-28C | By-law 10(1) | Driving in excess of the speed limit indicated by a prescribed traffic sign by more than 45 kilometres an hour | 10
-
-28D | By-law 10(2) | Crossing continuous double white lines or a continuous white line with a broken white line of the type shown in Figure No. 501 or 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
-
-Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E) as it was in force immediately before 20 July 2012
-
-29 | By-law 10(a) | Driving in excess of the speed limit indicated by a traffic sign of the type shown in Figure No. 6 or 7 in the Schedule to the Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E) by more than 15 kilometres an hour, other than where item 30 or 31 applies | 3
-
-30 | By-law 10(a) | Driving in excess of the speed limit referred to in item 29 by more than 30 kilometres an hour, other than where item 31 applies | 5
-
-31 | By-law 10(a) | Driving in excess of the speed limit referred to in item 29 by more than 45 kilometres an hour | 10
-
-32 | By-law 10(b) | Crossing continuous double white lines or a continuous white line with a broken white line of the type shown in Figure No. 501 or 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
+29 - 32 | (Repealed 7 of 2016 s. 25)
 
 Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B)
 
@@ -224,4 +208,4 @@ Discovery Bay Tunnel Link Bylaw (Cap. 520 sub. leg. B)
 
 59 | Section 10(b) | Crossing a continuous white line with a broken white line of the type shown in Figure No. 502 in Schedule 2 to the Road Traffic (Traffic Control) Regulations (Cap. 374 sub. leg. G) | 3
 
-(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005; 19 of 2010 s. 24; 24 of 2011 s. 27; L.N. 100 of 2013) (Format changes—E.R. 2 of 2012)
+(Amended 44 of 1986 s. 3; 39 of 1995 s. 14; L.N. 47 of 1998; 33 of 2000 s. 5; 50 of 2000 s. 4; 3 of 2002 s. 14; L.N. 116 of 2005; 19 of 2010 s. 24; 24 of 2011 s. 27; L.N. 100 of 2013; 7 of 2016 s. 25) (Format changes—E.R. 2 of 2012)

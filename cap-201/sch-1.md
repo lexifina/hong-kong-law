@@ -132,7 +132,7 @@ Public Bodies
 
 - 63. Citybus Limited. (Added L.N. 330 of 1992)
 
-- 64. New Hong Kong Tunnel Company Limited. (Added L.N. 382 of 1992)
+- 64. (Repealed 7 of 2016 s. 22)
 
 - 65. Tate’s Cairn Tunnel Company Limited. (Added L.N. 382 of 1992)
 

@@ -1,6 +1,6 @@
 # Third Schedule
 
-[s. 18E(1)]
+[s. 18E(1)] (Format changes—E.R. 3 of 2015)
 
 Offences to which Defendant May Plead Guilty by Letter
 
@@ -36,7 +36,7 @@ Offences to which Defendant May Plead Guilty by Letter
 
   - (1) Any offence against rule 5 of the Tramway Working Rules (Cap. 107 sub. leg.)*.
 
-  - (2) Any contravention of the Road Traffic (Road Crossing) Regulations (Cap. 220 sub. leg.)+ that is an offence under regulation 13 of the said Regulations by virtue of rule 6 of the Tramway Working Rules (Cap. 107 sub. leg.)*.
+  - (2) Any contravention of the Road Traffic (Road Crossing) Regulations (Cap. 220 sub. leg.)† that is an offence under regulation 13 of the said Regulations by virtue of rule 6 of the Tramway Working Rules (Cap. 107 sub. leg.)*.
 
 - (Added L.N. 58 of 1965)
 
@@ -54,7 +54,7 @@ Offences to which Defendant May Plead Guilty by Letter
 
 - 12. Smoking (Public Health) An offence against section 3(2) or 4(1) of the Smoking (Public Health) Ordinance (Cap. 371). (Added L.N. 229 of 1995)
 
-- 13. Eastern Harbour Crossing Any offence against the Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E). (Added L.N. 356 of 1997)
+- 13. (Repealed 7 of 2016 s. 23)
 
 - 14. Tate’s Cairn Tunnel Any offence against the Tate’s Cairn Tunnel By-laws (Cap. 393 sub. leg. B). (Added L.N. 356 of 1997)
 
@@ -76,10 +76,10 @@ Offences to which Defendant May Plead Guilty by Letter
 
   - (2) Any offence against the Tsing Sha Control Area (Tolls, Fees and Charges) Regulation (Cap. 594 sub. leg. B).
 
-- (Added L.N. 63 of 2008) (Third Schedule added 55 of 1961 s. 4. Amended E.R. 3 of 2015) (Format changes—E.R. 3 of 2015)
+- (Added L.N. 63 of 2008) (Third Schedule added 55 of 1961 s. 4. Amended E.R. 3 of 2015)
 
 Editorial Note:
 
 * Repealed—See L.N. 220 of 1986
 
-+ Repealed—See L.N. 292 of 1983
+† Repealed—See L.N. 292 of 1983

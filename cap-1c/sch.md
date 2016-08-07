@@ -1,4 +1,8 @@
-# Schedule Specification of Public Offices
+# Schedule
+
+[s. 1]
+
+Specification of Public Offices
 
 Column 1 | Column 2
 
@@ -97,12 +101,6 @@ Commissioner for Labour | Pneumoconiosis and Mesothelioma (Compensation) Ordinan
 Commissioner for Transport | Ferry Services Ordinance (Cap. 104).
 
 Commissioner for Transport | Ferry Services Regulations (Cap. 104 sub. leg. A).
-
-Commissioner for Transport | Eastern Harbour Crossing Ordinance (Cap. 215).
-
-Commissioner for Transport | Eastern Harbour Crossing Road Tunnel Regulations (Cap. 215 sub. leg. D).
-
-Commissioner for Transport | Eastern Harbour Crossing Road Tunnel By-laws (Cap. 215 sub. leg. E).
 
 Commissioner for Transport | Traffic Accident Victims (Assistance Fund) Ordinance (Cap. 229).
 
@@ -448,12 +446,10 @@ Secretary for Security | Auxiliary Medical Service Ordinance (Cap. 517).
 
 Secretary for Security | Civil Aid Service Ordinance (Cap. 518).
 
-Secretary for Transport and Housing | Eastern Harbour Crossing Ordinance (Cap. 215).
-
 Secretary for Transport and Housing | Merchant Shipping (Safety) Ordinance (Cap. 369), section 5.
 
 Secretary for Transport and Housing | Roads (Works, Use and Compensation) Ordinance (Cap. 370).
 
 Secretary for Transport and Housing | Tate’s Cairn Tunnel Ordinance (Cap. 393).
 
-(Schedule replaced 18 of 2014 s. 62)
+(Schedule replaced 18 of 2014 s. 62. 7 of 2016 s.21)
